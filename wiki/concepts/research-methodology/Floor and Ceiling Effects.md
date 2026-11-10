@@ -10,7 +10,7 @@ aliases:
 summary: "测量工具因题项难度分布或量程受限导致得分在最高端或最低端过度聚集的数据截断缺陷，会导致方差缩减并人为低估干预的真实因果效应量，是导致教育试验微弱效应的关键测量学根源"
 type: concept
 domain: "research-methodology"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Scale of Measurement]]"
   - "[[Predictive Validity]]"
+  - "[[Homophily]]"
   - "[[Learning Gain]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Computerized Adaptive Testing]]"
@@ -61,7 +62,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -82,7 +83,7 @@ updated: 2026-11-03
 > [!boundary]- 概念边界
 > - **天花板效应（Ceiling Effect）** 测验整体过于容易，大量受试者达到满分或接近满分阈值，无法区分中等优秀与卓越能力者，干预组的高阶增益被尺度封顶。
 > - **地板效应（Floor Effect）** 测验整体难度过大，后进生与弱势群体大面积取得零分或最低基线分，无法区分完全未学与取得微小进步者，补偿性干预效果被尺度垫底。
-> - **不等于 样本同质性（Sample Homogeneity）** 样本同质性指抽样群体本身能力高度一致；而天花板与地板效应是即便总体能力高度异质，工具也强行将极端群体压缩至同一分值。
+> - **不等于 样本[[Homophily|同质性]]（Sample Homogeneity）** 样本同质性指抽样群体本身能力高度一致；而天花板与地板效应是即便总体能力高度异质，工具也强行将极端群体压缩至同一分值。
 
 ---
 

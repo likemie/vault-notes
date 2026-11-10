@@ -9,10 +9,10 @@ aliases:
 summary: "对高等教育机构进行比较性评估和排序的量化工具系统，已成为驱动大学竞争、政策调整和全球高教分层的重要基础设施。"
 type: concept
 domain: "higher-education"
-related_count: 58
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 62
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - university-rankings
   - higher-education
@@ -30,9 +30,12 @@ related_concepts:
   - "[[Science and Technology Studies]]"
   - "[[Emergence]]"
   - "[[Research Universities]]"
+  - "[[Study Abroad]]"
   - "[[Student Mobility]]"
   - "[[Heterogeneity]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[Scientific Mobility]]"
+  - "[[Quasi-market]]"
   - "[[Competitiveness]]"
   - "[[New Public Management]]"
   - "[[Variable]]"
@@ -70,6 +73,7 @@ related_facts:
   - "[[EU]]"
   - "[[Erasmus Programme]]"
   - "[[UN Sustainable Development Goals]]"
+  - "[[Scopus]]"
   - "[[OECD]]"
   - "[[OECD AHELO Project]]"
 related_arguments:
@@ -86,7 +90,7 @@ related_arguments:
 confidence: medium
 status: stable
 created: '2026-05-11'
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -130,7 +134,7 @@ updated: 2026-11-03
 > - **2000 年代 — 跨国排行榜治理与排名焦虑的政治学批判**
 >   - 里兹维与林加德等政策社会学家揭示，跨国绩效排行榜（league tables）已成为超国家教育治理的远程操控机制，引发主权国家与大学普遍的排名焦虑，将关于教育根本目的的公共讨论异化为追求榜单排位的技术合规算计。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 > - **2010 年代至今 — 全球扩散与南欧等外围国家的制度性脱节**
->   - 全球 84% 以上的[[Research Universities|研究型大学]]建立专门机构跟踪排名并指导战略资源分配（Hazelkorn, 2015）。[[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（[[José Luis García Garrido]]）揭示，在南欧西班牙，即便高校全面对标[[Bologna Process|博洛尼亚进程]]的学制改革修辞，在 ARWU 和 THE 榜单前列依然彻底缺席；同时西班牙作为[[EU|欧盟]][[Erasmus Programme|伊拉斯谟计划]]最大留学生输入国，其[[Student Mobility|学生流动]]吸引力主要依赖气候、语言与生活成本，与全球排名的科研声誉呈现彻底的动机与指标脱节（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 332–333]]）。
+>   - 全球 84% 以上的[[Research Universities|研究型大学]]建立专门机构跟踪排名并指导战略资源分配（Hazelkorn, 2015）。[[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（[[José Luis García Garrido]]）揭示，在南欧西班牙，即便高校全面对标[[Bologna Process|博洛尼亚进程]]的学制改革修辞，在 ARWU 和 THE 榜单前列依然彻底缺席；同时西班牙作为[[EU|欧盟]][[Erasmus Programme|伊拉斯谟计划]]最大[[Study Abroad|留学]]生输入国，其[[Student Mobility|学生流动]]吸引力主要依赖气候、语言与生活成本，与全球排名的科研声誉呈现彻底的动机与指标脱节（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 332–333]]）。
 > - **2019 年至今 — [[UN Sustainable Development Goals|联合国可持续发展目标]]影响力排名的衍生**
 >   - THE 推出基于联合国[[UN Sustainable Development Goals|可持续发展目标]]（SDGs）的大学影响力排名，试图将评价维度从传统科学卓越拓展至社会正义、气候行动与性别平等，反映出全球排名逻辑对公共责任议题的回应与再吸收（[[Argument_Zapp_2022_Springer|Zapp, 2022, p. 147]]）。
 
@@ -143,9 +147,9 @@ updated: 2026-11-03
 > - **国内与国际市场竞争加剧**
 >   高校在国家和国际层面争夺顶尖生源、领军师资与外部科研经费。
 > - **[[Internationalization of Higher Education|高等教育国际化]]与学术劳动力跨国流动**
->   跨国学者流动与学位互认急需能够跨越国界的简化比较基准。
+>   跨国[[Scientific Mobility|学者流动]]与学位互认急需能够跨越国界的简化比较基准。
 > - **高等教育商业化与服务标签化**
->   教育在准市场改革中被赋予服务商品属性，亟须便于消费者识别的质量标签。
+>   教育在[[Quasi-market|准市场]]改革中被赋予服务商品属性，亟须便于消费者识别的质量标签。
 > - **后中等教育机构的多样化分化**
 >   应用型院校与非传统学术机构的[[Emergence|涌现]]，迫使传统[[Research Universities|研究型大学]]寻求制度区隔标识。
 > - **[[Knowledge-Based Economy|知识经济]]与国家核心资产定位**
@@ -162,7 +166,7 @@ updated: 2026-11-03
 > - **偏爱研究密集型机构**
 >   以自然科学实验室与高频期刊成果发表为绝对重心，本科教学质量与本土公共服务功能被系统性边缘化。
 > - **偏爱英语圈大学**
->   以英文发表为主导的文献计量数据库（如 SCIE、Scopus）天然有利于以英语为母语的英美大学。
+>   以英文发表为主导的文献计量数据库（如 SCIE、[[Scopus]]）天然有利于以英语为母语的英美大学。
 > - **偏爱历史悠久的老牌名校**
 >   学术声誉资本积累具有极强的[[Path Dependence|路径依赖]]效应，新兴学府在短期内难以撼动其长期积累的历史优势。
 > - **偏爱内部层级森严的高教体系**

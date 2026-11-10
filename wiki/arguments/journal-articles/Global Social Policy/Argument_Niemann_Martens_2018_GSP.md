@@ -39,6 +39,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[School Autonomy]]"
   - "[[Document]]"
+  - "[[Transnational Education]]"
   - "[[International Education]]"
   - "[[Peer Pressure]]"
   - "[[Unit of Analysis]]"
@@ -77,14 +78,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-21
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Niemann_Martens_2018_GSP"
 argument_key: "Argument_Niemann_Martens_2018_GSP"
 argument_display_title: "Soft governance by hard fact? The OECD as a knowledge broker in education policy"
 argument_kind: "journal-article"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -157,7 +158,7 @@ issuing_organization: ""
 
 > [!sub-claim] 1. 经合组织借各国委托协调数据之机，自发扩张为独立的专业权威
 
-在传统国际关系视角下，教育历来属于各自主权管辖的内政范畴。但随着全球化竞争加剧，各国对跨国教育比较与政策协调的需求日益迫切，这为主权国家主动向国际组织让渡部分协调职能提供了契机。
+在传统国际关系视角下，教育历来属于各自主权管辖的内政范畴。但随着全球化竞争加剧，各国对[[Transnational Education|跨国教育]]比较与政策协调的需求日益迫切，这为主权国家主动向国际组织让渡部分协调职能提供了契机。
 
 > [!factors] [[International Education|国际教育]]协调的双重驱动机制
 > - **国家主动委托机制** 主权国家直接授权国际组织建立评估标准与指标体系，以实现各国单独无法完成的跨国数据协调与比较监测（Arndt & Oman, 2008; Davis et al., 2012）。

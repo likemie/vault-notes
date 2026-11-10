@@ -8,7 +8,7 @@ aliases:
 summary: "质性研究中当收集新鲜数据不再引发新洞见或揭示新主题时即可停止数据收集的标准，源自扎根理论，在参与式观察中作为停止观察的判断依据"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Reliability]]"
   - "[[Emergence]]"
+  - "[[Doctoral Dissertation]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -31,7 +32,7 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
 status: draft
 created: 2026-06-01
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -73,7 +74,7 @@ updated: 2026-10-22
 ---
 
 > [!warning] 饱和的局限性
-> - **事后性** 研究者无法在研究开始前知道何时会达到饱和，这对研究计划撰写（如博士论文开题或资助申请）造成操作困难
+> - **事后性** 研究者无法在研究开始前知道何时会达到饱和，这对研究计划撰写（如[[Doctoral Dissertation|博士论文]]开题或资助申请）造成操作困难
 > - **判断模糊性** "没有新信息出现"的标准存在模糊性：研究者可能因编码框架的限制而未能看到新信息，而非真的没有新信息
 > - **过早宣称饱和** 研究者可能因时间或资源限制而过早宣称达到饱和，将便利性伪装为方法论严谨性
 

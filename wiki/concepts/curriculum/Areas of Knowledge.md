@@ -6,7 +6,7 @@ aliases:
 summary: "知识论课程中用于比较不同学科与知识传统如何形成概念、证据、方法和判断标准的课程框架；其历史根源是以多种思维方式回应学科割裂，并逐步由早期知识形式主题发展为可比较的领域分类。"
 type: concept
 domain: "curriculum"
-related_count: 42
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -47,6 +47,7 @@ related_theories:
 related_methods:
   - "[[Domain Analysis]]"
   - "[[Confidence Interval]]"
+  - "[[Statistical Significance]]"
   - "[[Sample Size Determination]]"
 related_instruments: []
 related_persons:
@@ -54,7 +55,8 @@ related_persons:
   - "[[Gerard Renaud]]"
   - "[[Deanna Kuhn]]"
   - "[[Vilfredo Pareto]]"
-related_facts: []
+related_facts:
+  - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Kuhn_2000_CD]]"
   - "[[Argument_Hughes_2014_JRIE]]"
@@ -67,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -265,7 +267,7 @@ updated: 2026-11-03
 > **学科计量与累积优势跨领域普适性** 考察不同知识领域在评价指标与影响力分布上是否存在结构性共性，以及重尾分布是否跨学科成立。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]]
-> **跨知识领域[[Citation Distribution|引文分布]]的重尾普适性** 尽管不同知识领域在概念体系、验证程序与出版周期上存在显著差异，但在影响力分布上均表现出高度一致的帕累托（Pareto）80/20 重尾特征[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 174–177)]]。对 Web of Science 收录的 5800 万篇[[Document|文献]]的跨领域分析表明，物理学、医学或社会科学各领域内部均呈现极端的被引不平等：若将文献堆叠为山峰，山体基部 2,500 米全部由零被引文献构成，而获得上万次引用的顶尖文献仅占山巅 1.5 厘米。这种跨越知识领域的尺度不变性表明，累积优势机制超越了个别学科的方法论特异性，构成了科学系统通用的结构规律。
+> **跨知识领域[[Citation Distribution|引文分布]]的重尾普适性** 尽管不同知识领域在概念体系、验证程序与出版周期上存在显著差异，但在影响力分布上均表现出高度一致的帕累托（Pareto）80/20 重尾特征[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 174–177)]]。对 [[Web of Science]] 收录的 5800 万篇[[Document|文献]]的跨领域分析表明，物理学、医学或社会科学各领域内部均呈现极端的被引不平等：若将文献堆叠为山峰，山体基部 2,500 米全部由零被引文献构成，而获得上万次引用的顶尖文献仅占山巅 1.5 厘米。这种跨越知识领域的尺度不变性表明，累积优势机制超越了个别学科的方法论特异性，构成了科学系统通用的结构规律。
 
 ---
 
@@ -320,7 +322,7 @@ updated: 2026-11-03
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000, pp. 316–319)]] | 研究一 N=129，含五年级至成人及教育哲学专家 | 跨年龄横断比较；15 对冲突主张，覆盖五个判断领域 | 各领域的绝对论、多元论、评价论水平及跨领域组合 | 107 人，占 83%，呈现符合理论顺序的跨领域模式；统一模式中 MMMM 为 37 人、EEEE 为 13 人、AAAA 为 2 人 | 未报告本条结果的[[Confidence Interval\|置信区间]]或显著性检验 | 频数支持领域差异具有系统顺序，横断设计不能证明个体随时间按同一路径发展 |
-> | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000, pp. 320–323)]] | 研究二 N=21，7 至 8 岁儿童 | 一对一口头访谈与追问 | 从绝对论转向多元论时的领域顺序 | 几乎所有儿童已在个人品味领域表现出多元论；8 名转型期儿童中有 5 人在半数以上回答中表现为多元论，价值观和物理事实最容易保留绝对论 | 未报告置信区间或显著性检验 | 小型便利样本用于验证早期转变次序，不宜外推总体比例 |
+> | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000, pp. 320–323)]] | 研究二 N=21，7 至 8 岁儿童 | 一对一口头访谈与追问 | 从绝对论转向多元论时的领域顺序 | 几乎所有儿童已在个人品味领域表现出多元论；8 名转型期儿童中有 5 人在半数以上回答中表现为多元论，价值观和物理事实最容易保留绝对论 | 未报告置信区间或[[Statistical Significance\|显著性检验]] | 小型便利样本用于验证早期转变次序，不宜外推总体比例 |
 > | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000, pp. 324–325)]] | 本科生、社区大学成人、工商管理高级管理人员硕士及教育哲学专家 | 群体间描述性比较 | 物理事实与价值观领域达到评价论的比例 | 工商管理高级管理人员硕士组在物理事实和价值观领域分别为 44% 与 22%，教育哲学专家组分别为 100% 与 80%；年龄和一般学历未自动消除价值判断领域的多元论停滞 | 专家组 n=5，未报告置信区间或正式组间检验 | 群体教育背景差异与[[Sample Size Determination\|样本量]]限制了因果解释，结果只能支持训练与领域表现相关 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang & Barabási (2021, pp. 174–177)]] | 跨越物理、医学、社会科学等各个知识领域的 5800 万篇 Web of Science 文献 | 跨学科引文分布重尾特征与帕累托不平等计量分析 | 跨领域文献被引频次分布与基尼系数特征 | 所有知识领域普遍遵从极端不平等的重尾分布：山体基底 2,500 米为零被引文献，顶端 1.5 厘米为超万次高引文献 | 大规模全景计量 | 尺度不变性表明引文极化与累积优势跨越具体知识领域，呈现宏观普适结构 |
 

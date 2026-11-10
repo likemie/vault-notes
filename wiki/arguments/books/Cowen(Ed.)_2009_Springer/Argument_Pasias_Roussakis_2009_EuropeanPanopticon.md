@@ -7,7 +7,7 @@ title: "Argument_Pasias_Roussakis_2009_EuropeanPanopticon"
 argument_key: "Argument_Pasias_Roussakis_2009_EuropeanPanopticon"
 argument_display_title: "Towards the European panopticon: EU discourses and policies in education and training 1992–2007"
 argument_kind: "book-chapter"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -91,12 +91,13 @@ related_facts:
   - "[[Lisbon Strategy]]"
   - "[[Copenhagen Process]]"
   - "[[Bologna Process]]"
+  - "[[Dimensions]]"
 related_arguments: []
 sources:
   - "[[books/Cowen(Ed.)_2009_Springer/Ch30_Pasias_Roussakis_2009|Ch30_Pasias_Roussakis_2009]]"
 status: draft
 created: 2026-10-27
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 ---
@@ -287,7 +288,7 @@ updated: 2026-10-29
 > [!citation-card] 索邦宣言关于知识欧洲与博洛尼亚进程的奠基性陈述
 > 作为开启欧洲高等教育[[Bologna Process|博洛尼亚进程]]的基础文献，1999 年《索邦宣言》指出：欧洲进程最近迈出了极其重要的步伐。无论这些进展多么重要，都不应让人忘记：欧洲不仅属于欧元、银行和经济，它也必须成为一个知识欧洲。我们必须强化并巩固我们大陆的智识、文化、社会与技术维度。
 >
-> *The European process has very recently moved some extremely important steps ahead. Relevant as they are, they should not make one forget that Europe is not only that of the Euro, of the banks and the economy: it must be a Europe of knowledge as well. We must strengthen and build upon the intellectual, cultural, social and technical dimensions of our continent.* (Sorbonne Declaration, 1999, p. 1; cited on p. 480)
+> *The European process has very recently moved some extremely important steps ahead. Relevant as they are, they should not make one forget that Europe is not only that of the Euro, of the banks and the economy: it must be a Europe of knowledge as well. We must strengthen and build upon the intellectual, cultural, social and technical [[Dimensions|dimensions]] of our continent.* (Sorbonne Declaration, 1999, p. 1; cited on p. 480)
 
 > [!citation-card] 1993 年白皮书对教育服务于经济增长的论述
 > 欧共体必须在教育与培训领域确立明确的基本要求与长期目标，以推动形成一种教育与培训在其中发挥关键作用的增长、竞争与就业新模式，切实保障基本机会均等，并促成欧洲教育系统在普通教育、职业培训与文化传承三维度的协调发展。

@@ -6,7 +6,7 @@ aliases:
 summary: "被政治权力塑造成具有特定技能、行为取向和空间心态的人形集合，用于分析教育如何服务于国家竞争和地缘政治想象。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Online Self-Assessment]]"
   - "[[Digital Optimum]]"
   - "[[Operationalization]]"
+  - "[[Cumulative Innovation]]"
   - "[[Hub and Flow Imaginaries]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -151,7 +152,7 @@ Moisio 指出，这一主体形塑过程——"how this crafting of political su
 >
 
 > [!warning] 争议与批评
-> - 该概念目前仅在 [[Argument_Moisio_2022_Springer|Moisio（2022）]]章节中提出，其经验适用性和[[Operationalization\|操作化]]路径尚待后续研究验证
+> - 该概念目前仅在 [[Argument_Moisio_2022_Springer|Moisio（2022）]]章节中提出，其经验适用性和[[Operationalization\|操作化]]路径尚待[[Cumulative Innovation|后续研究]]验证
 > - 高等教育空间中对[[Geopolitics|地缘政治]]主体的具体形塑过程究竟是*如何运作的*——"how this crafting of political subjectivity actually re-works the capacities and orientations of these new geopolitical subjects"——仍然是研究不足的领域([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.29]])
 > - 该概念的分析存在不对称性：国家如何"装备"主体被描述得很强，但主体是否以及如何*抵抗*这种装备、如何在被塑造的过程中发展出非预期的主体性，讨论尚不充分
 >

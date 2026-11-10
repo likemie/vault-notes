@@ -7,7 +7,7 @@ summary: "英国批判教育社会学家与比较教育学者，布里斯托尔�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 25
+person_related_count: 29
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -24,12 +24,15 @@ related_concepts:
   - "[[European Education Space]]"
   - "[[Paradigm]]"
   - "[[State Educational Sovereignty]]"
+  - "[[Quasi-market]]"
   - "[[Nominalism]]"
   - "[[Determinism]]"
   - "[[Methodological Nationalism]]"
+  - "[[Nationalism]]"
   - "[[Unit of Analysis]]"
   - "[[Lifelong Learning]]"
   - "[[Geopolitics]]"
+  - "[[Transnational Education]]"
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[World Society Theory]]"
@@ -50,12 +53,13 @@ related_facts:
   - "[[GATS and Trade in Education Services]]"
   - "[[World Trade Organization]]"
   - "[[Bologna Process]]"
+  - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -74,7 +78,7 @@ updated: 2026-10-22
 
 > [!timeline] 生平与职涯
 > - **1970s–1980s** 任教于英国开放大学（Open University），作为英国批判教育社会学运动的核心成员，参与奠定教育政治社会学与国家理论基础，出版代表作《国家与教育政策》（*The State and Education Policy*, 1989）。
-> - **1990s** 转任新西兰奥克兰大学教育学院教授，深入考察新自由主义准市场改革在澳新的激进化试验，开启全球化对[[State Educational Sovereignty|国家教育权]]力重组的理论探索。
+> - **1990s** 转任新西兰奥克兰大学教育学院教授，深入考察新自由主义[[Quasi-market|准市场]]改革在澳新的激进化试验，开启全球化对[[State Educational Sovereignty|国家教育权]]力重组的理论探索。
 > - **1999** 发表经典论文《借助全球化界定比较教育》，正式提出“[[Globally Structured Agenda for Education|全球结构化教育议程]]”（GSAE）以及外部政策影响的八大机制，与[[John W. Meyer|约翰·迈耶]]（John W. Meyer）的新制度主义展开国际论战。
 > - **2000s–至今** 返回英国任教于布里斯托尔大学，与[[Susan L. Robertson|苏珊·罗伯逊]]共同创立全球化全球治理中心，联合创办顶尖期刊《全球化、社会与教育》（*Globalisation, Societies and Education*），主持[[EU|欧盟]] FP6/FP7 框架下的[[European Education Space|欧洲教育空间]]重大课题。
 
@@ -104,7 +108,7 @@ updated: 2026-10-22
 
 > [!influence-path] 影响路径
 > - **理论路径** 确立了批判比较教育学的政治经济学研究纲领，与[[Stanford School|斯坦福学派]]的[[World Society Theory|世界社会理论]]构成全球化教育研究最重要的理论对质轴线。
-> - **方法路径** 倡导多标度空间分析法（Multi-scalar Analysis），打破了[[Methodological Nationalism|方法论民族主义]]（Methodological Nationalism）将国家作为唯一[[Unit of Analysis|分析单元]]的偏见。
+> - **方法路径** 倡导多标度空间分析法（Multi-scalar Analysis），打破了[[Methodological Nationalism|方法论民族主义]]（Methodological [[Nationalism]]）将国家作为唯一[[Unit of Analysis|分析单元]]的偏见。
 > - **政策路径** 深度介入[[EU|欧洲联盟]]教育政策（如[[Bologna Process|博洛尼亚进程]]、[[Lifelong Learning|终身学习]]战略）的学术评估与政策建言。
 
 ---
@@ -112,7 +116,7 @@ updated: 2026-10-22
 > [!person-network] 关系网络
 > - **学术合作者** [[Susan L. Robertson|苏珊·罗伯逊]]（Susan L. Robertson）——长期紧密合作者，共同创立 GSE 期刊并合著[[Pluri-Scalar Governance|多标度治理]]模型。
 > - **批评者与论敌** [[John W. Meyer|约翰·迈耶]]（John W. Meyer）——[[Stanford School|斯坦福学派]]世界文化论代表人物；戴尔长期批评其忽略资本主义经济利益与[[Geopolitics|地缘政治]]权力。
-> - **学术同行** [[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove）——共同运用批判政治经济学与[[World-Systems Theory|世界体系分析]]研究跨国教育治理。
+> - **学术同行** [[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove）——共同运用批判政治经济学与[[World-Systems Theory|世界体系分析]]研究[[Transnational Education|跨国教育]]治理。
 
 ---
 
@@ -122,7 +126,7 @@ updated: 2026-10-22
 > > 全球趋同究竟是自愿的启蒙理性扩散，还是外在资本主义政治经济力量的强加。
 > >
 > > - **戴尔立场（批判现实主义）** 坚持全球结构化议程，认为教育同质化源于资本积累危机与跨国经贸规则的硬性约束。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
-> > - **[[Stanford School|斯坦福学派]]立场（新制度主义）** 认为教育普及与课程同形主要由跨国科学网络与普适性文化合法性神话所驱动。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 102–104)]]
+> > - **[[Stanford School|斯坦福学派]]立场（新制度主义）** 认为教育普及与课程同形主要由跨国[[Web of Science|科学网]]络与普适性文化合法性神话所驱动。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 102–104)]]
 
 ---
 

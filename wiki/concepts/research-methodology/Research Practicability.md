@@ -8,10 +8,10 @@ aliases:
 summary: "研究规划的实操评估概念，涵盖研究准入、研究者自身、时间、资源、研究影响力和研究范围六个约束维度，以及对应的九项自检清单，确保研究在实际约束下可以完成"
 type: concept
 domain: "research-methodology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - method/research-design
   - source/textbook
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Research Purpose]]"
   - "[[Informed Consent]]"
+  - "[[Grit]]"
   - "[[Research Topic]]"
   - "[[Student Depression]]"
   - "[[Literature Review]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-19
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!def] Research Practicability
@@ -76,7 +77,7 @@ updated: 2026-10-30
 ---
 
 > [!claim] 研究者的人格、专长与投入
-> 除了准入对象，研究者自身也需要纳入考量。需要考虑人格适配（人格、性情、同理心是否匹配该研究类型）、技能适配（人际关系技能、情商、情感智力是否足够）、毅力适配、专长适配和投入适配（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al., 2011, Ch.6]]）。
+> 除了准入对象，研究者自身也需要纳入考量。需要考虑人格适配（人格、性情、同理心是否匹配该研究类型）、技能适配（人际关系技能、情商、情感智力是否足够）、[[Grit|毅力]]适配、专长适配和投入适配（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al., 2011, Ch.6]]）。
 
 > [!case] 研究者人格与[[Research Topic\|研究主题]]的灾难性失配
 > 一位研究者想研究[[Student Depression|学生抑郁]]症，但她内心认为学生只是懒惰或工作回避，把情绪低落当作借口，即拒绝承认抑郁症作为临床状况或病理障碍的严重性。这样的研究者去研究抑郁症，对研究者和参与者都可能是灾难。同样，毅力有限或即将移居海外时，选择长期投入的研究也不明智。

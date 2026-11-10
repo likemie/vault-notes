@@ -8,7 +8,7 @@ aliases:
 summary: "Gibbons et al.（1994）提出的跨学科知识生产模式，以应用导向和多利益相关者协商为特征，区别于学科中心、学术驱动的 Mode 1，是产学研发合作的理论基础之一"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -25,6 +25,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Design-Based Research]]"
+  - "[[Journal Impact Factor]]"
   - "[[Analytic Framework]]"
 related_persons: []
 related_facts: []
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-05
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -44,7 +45,7 @@ updated: 2026-10-22
 在 Mode 2 中，知识生产不再由学术共同体的内部议程单方面设定，而是通过各参与方利益的持续协商来推进——[[Research Question|研究问题]]的定义、方法的选取和成果的评价标准都由多方共同决定，而非仅由学术同行评议主导（Gibbons et al., 1994, cited in [[Argument_Cohen_2025_JTT|Cohen et al., 2025, p.348]]）。
 
 > [!example|notitle]
-> 传统学术研究（Mode 1）的典型场景是：一位化学教授根据自己的理论兴趣申请国家科学基金，独立[[Design-Based Research\|设计实验]]、发表论文，由同行评审判断其学术价值。Mode 2 的场景则是：同一所大学与三家制药企业围绕一个未满足的临床需求组建联合研究团队——教授带来基础机制知识、企业带来化合物库和高通量筛选平台、临床医生提供患者数据和终点指标。研究问题（"哪种分子骨架最有希望"）、方法（是否用 AI 辅助筛选）和[[Success Criteria\|成功标准]]（进入 I 期临床 vs 发表在高影响因子期刊）都由三方共同协商，而非任何一方单独决定。
+> 传统学术研究（Mode 1）的典型场景是：一位化学教授根据自己的理论兴趣申请国家科学基金，独立[[Design-Based Research\|设计实验]]、发表论文，由同行评审判断其学术价值。Mode 2 的场景则是：同一所大学与三家制药企业围绕一个未满足的临床需求组建联合研究团队——教授带来基础机制知识、企业带来化合物库和高通量筛选平台、临床医生提供患者数据和终点指标。研究问题（"哪种分子骨架最有希望"）、方法（是否用 AI 辅助筛选）和[[Success Criteria\|成功标准]]（进入 I 期临床 vs 发表在高[[Journal Impact Factor|影响因子]]期刊）都由三方共同协商，而非任何一方单独决定。
 
 ---
 
@@ -77,7 +78,7 @@ Mode 2 与 产学研发合作（UICs）高度一致：UIC 本身就是一种大�
 ---
 
 > [!warning] 核心张力：社会有用性 vs 学术影响力
-> Nightingale & Scott（2007, cited in Cohen et al., 2025, p.348）指出 Mode 2 研究面临一个结构性矛盾：虽然更适合产生对社会有用的研究，但其影响因子往往低于 Mode 1 研究。这意味着参与 UIC（本质上是一种 Mode 2 实践）的大学研究者可能面临学术声誉的隐性惩罚。
+> Nightingale & Scott（2007, cited in Cohen et al., 2025, p.348）指出 Mode 2 研究面临一个结构性矛盾：虽然更适合产生对社会有用的研究，但其[[Journal Impact Factor|影响因子]]往往低于 Mode 1 研究。这意味着参与 UIC（本质上是一种 Mode 2 实践）的大学研究者可能面临学术声誉的隐性惩罚。
 
 这一张力的背后是两种评价体系的错位：
 - 学术晋升仍然主要依赖 Mode 1 标准（高影响因子期刊论文）

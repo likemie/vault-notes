@@ -9,7 +9,7 @@ summary: "质性研究、内容分析与元分析编码中，两名或多名独�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 43
+method_related_count: 44
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Evaluator Independence]]"
   - "[[Definition of Terms]]"
   - "[[Sampling Error]]"
+  - "[[Survivorship Bias]]"
   - "[[Unit of Analysis]]"
   - "[[Constructivist Paradigm]]"
   - "[[Epistemology]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -168,7 +169,7 @@ updated: 2026-10-30
 > > [!col-l] 文本来源与语言多义性威胁
 > > - **1. 有意与无意证据混淆（Witting vs Unwitting）** 有意证据是文本撰写者明确意图传达的内容；无意证据则是研究者间接推导出的潜台词，后者极易掺杂编码者的主观臆测（Robson, 1993, p. 273）。
 > > - **2. 非科研目的的文本意图** [[Document|文献]]多为行政宣传、个人申辩或制度应对而写，原撰写者的真实意图容易扭曲编码判断。
-> > - **3. 留存材料的选择性与偏颇性** 归档文献往往存在幸存者偏差与立场倾向，天然具有非中立性。
+> > - **3. 留存材料的选择性与偏颇性** 归档文献往往存在[[Survivorship Bias|幸存者偏差]]与立场倾向，天然具有非中立性。
 > > - **4. 缺乏外部三角印证** 孤立文本难以找到平行证据进行交叉验证。
 > > - **5. 同形多义词多价性（Homographs）** 同一单词具有多重截然不同的语义（如英文 school 可指学校建筑、艺术流派、专业学院、训育行为或鱼群），脱离语境赋码极易致错。
 > > - **6. 语境修辞色彩被抚平** 范畴化过程往往剥离词汇的讽刺、隐喻、双关或特殊情感色彩。

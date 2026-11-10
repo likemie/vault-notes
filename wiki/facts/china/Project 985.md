@@ -11,7 +11,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -31,9 +31,11 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Megascience Installations]]"
   - "[[Document]]"
+  - "[[Study Abroad]]"
   - "[[Innovation Ecosystem]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Soft Power]]"
+  - "[[Transnational Education]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -43,13 +45,14 @@ related_facts:
   - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Project 211]]"
   - "[[Thousand Talents Program]]"
+  - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
 related_arguments:
   - "[[Argument_Velasco_2022_CSJ]]"
   - "[[Argument_Qu_2024_IJED]]"
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -110,7 +113,7 @@ updated: 2026-11-10
 > [!finding-cards] 核心实证结论
 > - **科研学术产出与国际排位显著攀升** 39 所高校在国际顶级期刊的发文总量与被引频次出现高速增长，多所标杆院校在世界大学排行榜中跨入全球前百强行列，中国科技[[Document|文献]]总量在 2018 年实现全面超越。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 80–81)]]
 > - **大科学装置与自主创新平台全面升级** 依托专项支持建立了一批国家实验室和国家重大科技基础设施，在航空航天、超级计算、材料科学及生物医药等关键战略领域突破多项核心技术。
-> - **世界一流大学引才聚才网络快速成型** 优厚薪酬与优质实验平台协同运作，有效吸引了大批高水平留学人员全职回流，奠定了参与国际科技竞争的领军人才基石。
+> - **世界一流大学引才聚才网络快速成型** 优厚薪酬与优质实验平台协同运作，有效吸引了大批高水平[[Study Abroad|留学]]人员全职回流，奠定了参与国际科技竞争的领军人才基石。
 
 > [!stat-cards]- 关键实证数据
 > - **39** （所） 工程最终认定的世界一流大学建设高校总数，汇聚了中国绝大多数顶级学术科研力量。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 80)]]
@@ -152,5 +155,5 @@ updated: 2026-11-10
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 考证 1998 年启动的 985 工程重点支持若干高水平大学建设世界一流研究型大学的演进历程，分析顶尖本土名校作为母体大学在长三角（如浙江大学海宁国际校区）与大湾区建设跨国教育枢纽中的战略锚点功能（p. 2）。
+> - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 考证 1998 年启动的 985 工程重点支持若干高水平大学建设世界一流研究型大学的演进历程，分析顶尖本土名校作为母体大学在长三角（如浙江大学海宁国际校区）与[[Guangdong-Hong Kong-Macau Greater Bay Area|大湾区]]建设[[Transnational Education|跨国教育]]枢纽中的战略锚点功能（p. 2）。
 > - [[Argument_Velasco_2022_CSJ|Velasco (2022)]] — 实证记录 985 工程创设国际公认高水平研究型大学进程的政策分析文献。

@@ -9,7 +9,7 @@ aliases:
 summary: "William Perry提出的认识论认知开创性阶段发展理论，描述大学生在知识本质、真理与权威认知上从二元论、多元论、相对主义到相对主义内承诺的演进轨迹。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 34
+theory_related_count: 35
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Ways of Knowing]]"
   - "[[Constructed Knowledge]]"
   - "[[Disciplinary Socialization]]"
+  - "[[Homophily]]"
   - "[[Liberal Education]]"
   - "[[Justificatory Standards]]"
   - "[[Academic Achievement]]"
@@ -58,7 +59,7 @@ related_methods:
 related_persons: []
 status: active
 created: 2026-08-13
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -189,7 +190,7 @@ updated: 2026-10-22
 
 > [!debates] 理论争议
 >
-> > [!axis] 样本同质性与精英男性偏差
+> > [!axis] 样本[[Homophily|同质性]]与精英男性偏差
 > > 佩里模型的初始数据完全来自于 1950 年代哈佛大学的白人男性本科生，其普遍性受到严重质疑。
 > >
 > > - **Belenky et al.（1986）** 批评佩里模型建立在男性特有的“分离型认知”与自主权竞争之上，忽视了女性群体更普遍的“连结型认知”与同理心证成路径。

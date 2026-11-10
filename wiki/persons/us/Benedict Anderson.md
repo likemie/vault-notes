@@ -8,7 +8,7 @@ summary: "爱尔兰裔美国政治学家与东南亚研究权威，康奈尔大�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 23
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -23,8 +23,10 @@ tags:
   - theme/nation-building
   - region/us
 related_concepts:
-  - "[[Modular Nationalism]]"
+  - "[[Nationalism]]"
   - "[[Paradigm]]"
+  - "[[Modular Nationalism]]"
+  - "[[Horizontal Comradeship]]"
   - "[[Dunbar's Number]]"
   - "[[Constructivist Paradigm]]"
   - "[[Official Knowledge]]"
@@ -34,22 +36,24 @@ related_concepts:
   - "[[Paradigm Wars]]"
   - "[[Cosmopolitanism]]"
   - "[[Hard Power]]"
+  - "[[Assemblage]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods:
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
-  - "[[Robin Dunbar]]"
   - "[[Ernest Gellner]]"
+  - "[[Ernest Renan]]"
+  - "[[Robin Dunbar]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
 related_facts:
   - "[[EU]]"
   - "[[European Commission]]"
 related_arguments:
-  - "[[Argument_Anderson_2016_Verso_Ch01]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
+  - "[[Argument_Anderson_2016_Verso_Ch01]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Xu_2024_CE]]"
 confidence: high
@@ -62,7 +66,7 @@ updated: 2026-11-11
 
 > [!person-profile] 人物档案
 > - **身份位置** 爱尔兰裔美国政治学家、比较政治学者与东南亚研究权威，康奈尔大学阿伦·宾（Aaron L. Binenkorb）国际研究讲席教授。
-> - **核心角色** 现代民族主义研究现代主义学派的代表人物，系统阐发了民族作为[[Imagined Community|想象的共同体]]的文化生成机制与媒介物质基础。
+> - **核心角色** 现代[[Nationalism|民族主义]]研究现代主义学派的代表人物，系统阐发了民族作为[[Imagined Community|想象的共同体]]的文化生成机制与媒介物质基础。
 > - **代表贡献** 著作《想象的共同体》（*Imagined Communities*，1983），揭示了印刷资本主义与大众传媒如何突破人类物理交往边界、塑造超大规模现代国家认同与技术协作纽带。
 
 > [!citation-card] 安德森论民族作为想象的共同体
@@ -86,12 +90,12 @@ updated: 2026-11-11
 > - **1983 — *Imagined Communities: Reflections on the Origin and Spread of Nationalism*** 提出民族是由印刷资本主义与大众媒介所构筑的想象共同体，成为全球被引用最多的社科经典之一。关联条目：[[Imagined Community]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Anderson, 1983/2006)]]
 > - **1998 — *The Spectre of Comparisons: Nationalism, Southeast Asia, and the World*** 深入探讨东南亚比较政治中的民族主义幽灵与政治现代性转型。
 > - **2005 — *Under Three Flags: Anarchism and the Anti-Colonial Imagination*** 考察 19 世纪末全球无政府主义网络与反殖民文学想象的互动。
-> - **2016 — *Imagined Communities* (Revised Edition)** 导论系统阐明民族作为有限且享有主权的文化人造物，提出民族主义的[[Modular Nationalism|模块化]]移植机制，并与格尔纳的发明说及勒南的遗忘论展开对话。关联条目：[[Modular Nationalism]]、[[Imagined Community]]。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 4–7, xi–xv)]]
+> - **2016 — *Imagined Communities* (Revised Edition)** 导论系统阐明民族作为有限且享有主权的文化人造物，提出民族主义的模块化移植机制，并与格尔纳的发明说及勒南的遗忘论展开对话。关联条目：[[Modular Nationalism]]、[[Imagined Community]]。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 4–7, xi–xv)]]
 
 ---
 
 > [!claim] 核心思想
-> 民族是在宗教神授秩序解体与印刷资本主义兴起背景下被历史性建构出来的有限且享有主权的想象政治共同体；通过共享印刷语言与同时性媒介消费，数以百万计素未谋面的陌生人得以建立起深厚的横向同志情谊。卡普与扎米斯卡进一步将其引申为认知政治学命题：正是安德森界定的这种“想象链接”，帮助人类突破了[[Dunbar's Number|邓巴数]]（约 150 人）的面对面社交物理极限，成为组织现代复杂工程、前沿科学攻坚与国家防卫的决定性纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Anderson, 1983/2006, pp. 6–7)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–194)]]
+> 民族是在宗教神授秩序解体与印刷资本主义兴起背景下被历史性建构出来的有限且享有主权的想象政治共同体；通过共享印刷语言与同时性媒介消费，数以百万计素未谋面的陌生人得以建立起深厚的[[Horizontal Comradeship|横向同志情谊]]。卡普与扎米斯卡进一步将其引申为认知政治学命题：正是安德森界定的这种“想象链接”，帮助人类突破了[[Dunbar's Number|邓巴数]]（约 150 人）的面对面社交物理极限，成为组织现代复杂工程、前沿科学攻坚与国家防卫的决定性纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Anderson, 1983/2006, pp. 6–7)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–194)]]
 
 > [!citation-card] 民族作为有限且享有主权的政治想象
 > 最终，民族总是被想象为一种深沉的、横向的同志情谊。正是这种在过去两个世纪中促使数以百万计的人民不仅去屠杀、更心甘情愿为之献出生命的，正是这种有限而神圣的想象。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Anderson, 1983/2006, p. 7)]]
@@ -151,7 +155,7 @@ updated: 2026-11-11
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Imagined Community]] | 理论 | 1983 年系统提出，界定民族为有限且主权的想象政治实体。 |
-> | [[Modular Nationalism]] | 概念 | 提出民族属性是可跨历史情境移植与组装的模块化文化人造物。 |
+> | [[Modular Nationalism]] | 概念 | 提出民族属性是可跨历史情境移植与[[Assemblage\|组装]]的模块化文化人造物。 |
 > | [[Dunbar's Number]] | 概念 | 与安德森想象链接理论形成跨学科对话，提供大规模协作的神经人类学依据。 |
 > | [[Technological Republic]] | 概念 | 被卡普与扎米斯卡作为超大规模科技攻坚与公民认同维系的核心理论构件。 |
 > | [[Official Knowledge]] | 概念 | 为批判性教育学解构国家教科书与历史叙事提供了奠基性[[Analytic Framework\|分析框架]]。 |

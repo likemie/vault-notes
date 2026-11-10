@@ -8,7 +8,7 @@ aliases:
 summary: "个体关于‘如何执行任务、运用技能与操作算法’的行动化知识表征；在认知架构中通过产生式规则实现自动化编译以释放工作记忆；元分析因果证据证实，认识论认知干预能大幅促进论证与概念理解，但对程序性知识操作（d = 0.140，不显著）不产生直接促进，确立了认识论认知的任务效能边界。"
 type: concept
 domain: "educational-psychology"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Procedural Skill]]"
   - "[[Concept Mapping]]"
   - "[[Working Memory]]"
+  - "[[Problematisation]]"
   - "[[Problem Solving]]"
   - "[[Epistemic Cognition]]"
   - "[[Heterogeneity]]"
@@ -46,7 +47,7 @@ related_persons:
   - "[[Gilbert Ryle]]"
 confidence: high
 created: 2026-08-15
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -87,7 +88,7 @@ updated: 2026-11-03
 > **认知架构中的技能编译规律** 探讨离散认知操作如何通过长期练习转化为流畅的自动化程序，以及对心智资源分配的意义。
 
 > [!claim] Anderson, J. R.
-> **产生式编译与技能自动化假说** 约翰·安德森（John R. Anderson）在认知架构理论中指出，个体在掌握复杂任务时必须经历陈述阶段向程序阶段的质变演化。在初始阶段，操作指令以陈述性命题形式保持在[[Working Memory\|工作记忆]]中，调用缓慢且极易发生认知过载；伴随重复练习，认知系统通过产生式合成与参数调优，将离散步骤编译为内隐的程序性单元。这种自动化不仅极大提升了任务执行的准确率与速度，更将有限的意识资源从底层常规计算中解放出来，投入到高阶问题表征与[[Problem Solving\|问题解决]]决策中。
+> **产生式编译与技能自动化假说** 约翰·安德森（John R. Anderson）在认知架构理论中指出，个体在掌握复杂任务时必须经历陈述阶段向程序阶段的质变演化。在初始阶段，操作指令以陈述性命题形式保持在[[Working Memory\|工作记忆]]中，调用缓慢且极易发生认知过载；伴随重复练习，认知系统通过产生式合成与参数调优，将离散步骤编译为内隐的程序性单元。这种自动化不仅极大提升了任务执行的准确率与速度，更将有限的意识资源从底层常规计算中解放出来，投入到高阶[[Problematisation|问题表征]]与[[Problem Solving\|问题解决]]决策中。
 
 ---
 

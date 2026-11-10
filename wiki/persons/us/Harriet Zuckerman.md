@@ -10,7 +10,7 @@ summary: "美国科学社会学家，哥伦比亚大学社会学荣休教授，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 14
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,10 +26,12 @@ related_concepts:
   - "[[Document]]"
   - "[[The 41st Chair]]"
   - "[[Benefit of the Doubt in Peer Review]]"
+  - "[[Early-Career Researchers]]"
   - "[[Epistemology]]"
   - "[[Halo Effect]]"
   - "[[Matthew Effect in Academia]]"
   - "[[Paradigm]]"
+  - "[[Gender Inequality in Science]]"
   - "[[Team Science]]"
 related_theories: []
 related_methods:
@@ -46,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: "2026-10-29"
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -57,7 +59,7 @@ updated: 2026-10-30
 > - **代表贡献** 1977 年出版名著《科学精英：美国的诺贝尔奖获得者》，为学术界马太效应与[[The 41st Chair|第四十一把交椅]]提供详尽一手实证材料，确立同行评审中知名学者享有的[[Benefit of the Doubt in Peer Review|疑罪从无特权]]。
 
 > [!citation-card] 朱克曼论科学界分层与学者的疑罪从无特权
-> 在科学界的层级结构中，声名显赫的知名学者在同行审阅与成果筛选中享有压倒性的信任红利。当文稿存在生僻假设或表述含混时，审稿专家倾向于推定其言之成理并予以放行，而缺乏声望的青年学者提交同质文本则面临怀疑与苛责。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 28)]]
+> 在科学界的层级结构中，声名显赫的知名学者在同行审阅与成果筛选中享有压倒性的信任红利。当文稿存在生僻假设或表述含混时，审稿专家倾向于推定其言之成理并予以放行，而缺乏声望的[[Early-Career Researchers|青年学者]]提交同质文本则面临怀疑与苛责。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 28)]]
 >
 > *Interviews with Nobel laureates reveal that prominent scientists receive the benefit of the doubt during peer review, securing acceptance for papers that would be challenged or rejected if submitted by unknown researchers.*
 
@@ -93,7 +95,7 @@ updated: 2026-10-30
 > [!influence-path] 影响路径
 > - **理论路径** 朱克曼的实证访谈与统计分析为默顿学派构建[[Matthew Effect in Academia|学术马太效应]]、[[The 41st Chair|第四十一把交椅]]与科学奖励制度理论提供了最为核心的微观质性支撑。
 > - **方法路径** 开创了针对顶尖科技精英群体的半结构化[[In-depth Interview|深度访谈]]与全景文献计量相结合的实证[[Paradigm|范式]]，奠定了当代科学社会学质性与量化混合研究的标准。
-> - **政策路径** 其对单盲评审特权偏倚与科学界性别不平等的深刻揭示，直接推动了欧美主流学术期刊推行双盲审稿改革与青年基金独立评审机制。
+> - **政策路径** 其对单盲评审特权偏倚与[[Gender Inequality in Science|科学界性别不平等]]的深刻揭示，直接推动了欧美主流学术期刊推行双盲审稿改革与青年基金独立评审机制。
 
 ---
 

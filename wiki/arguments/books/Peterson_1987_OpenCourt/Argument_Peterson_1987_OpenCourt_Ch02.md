@@ -10,9 +10,9 @@ title: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
 book_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges"
 publication_place: "La Salle, IL"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Praxis]]"
   - "[[General Education]]"
   - "[[Student Mobility]]"
+  - "[[Transnational Education]]"
   - "[[Advanced Placement Program]]"
   - "[[International Education]]"
   - "[[Reliability]]"
@@ -79,7 +80,7 @@ sources:
 part_of: "[[Argument_Peterson_1987_OpenCourt]]"
 status: draft
 created: 2026-08-17
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
@@ -158,7 +159,7 @@ updated: 2026-10-30
 > | **行动联盟** | 没有足够的学校、家庭、大学或跨国组织共同承担开发成本。 | 多所国际学校开始反复遭遇相同问题，学校协会、教师网络和大学承认协商才可能形成（pp. 15–17）。 |
 
 > [!phase] 为什么同一设想在战后获得行动条件
-> 1925 年的方案缺少共同资格必须服务的稳定群体，各国既有通道仍能处理大多数跨国教育需求。战后国际学校、高中阶段和竞争性大学入学同时扩张，同一学校开始为多种国家资格重复配置教师、课时和课程。国际毕业会考由此获得明确的使用者、成本问题和升学风险；下一阶段的任务转为谁来重新发动倡议并组织持续行动（pp. 15–17）。
+> 1925 年的方案缺少共同资格必须服务的稳定群体，各国既有通道仍能处理大多数[[Transnational Education|跨国教育]]需求。战后国际学校、高中阶段和竞争性大学入学同时扩张，同一学校开始为多种国家资格重复配置教师、课时和课程。国际毕业会考由此获得明确的使用者、成本问题和升学风险；下一阶段的任务转为谁来重新发动倡议并组织持续行动（pp. 15–17）。
 
 ---
 

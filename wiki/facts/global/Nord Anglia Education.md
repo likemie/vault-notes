@@ -12,7 +12,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Public-Private Partnership]]"
   - "[[New Public Management]]"
   - "[[School Inspection]]"
+  - "[[Transnational Education]]"
   - "[[IB Diploma Programme]]"
   - "[[State Educational Sovereignty]]"
 related_theories:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -81,7 +82,7 @@ updated: 2026-10-30
 >   集团最高决策层明确提出将英国本土积累的运营资产与专业知识推向国际市场，开启全球化品牌并购。
 >
 >   - **2000 年代初** 剥离本土低利润外包服务，全力聚焦高端[[International Schools|国际学校]]并购与新建。
->   - **2006** 其首席执行官公开声明：集团正将在英国本土锤炼的管理与专业优势转化为庞大的海外扩张红利，系统性开拓海外跨国教育市场。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
+>   - **2006** 其首席执行官公开声明：集团正将在英国本土锤炼的管理与专业优势转化为庞大的海外扩张红利，系统性开拓海外[[Transnational Education|跨国教育]]市场。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
 >
 > - **2010s–至今** **超级跨国集团与全球课程整合**
 >

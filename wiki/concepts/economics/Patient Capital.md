@@ -83,7 +83,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -183,7 +183,7 @@ updated: 2026-11-03
 > **后[[New Public Management|新公共管理]]时代的治理[[Paradigm|范式]]转变** 应对 21 世纪的[[Wicked Problem|复杂社会难题]]，单纯依靠大规模资金灌注或冷战式[[Big Science|大科学]]垂直攻关已无法奏效，必须依托具备动态能力的公共机构开展敏捷实验。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
-> **敏捷学习与资本配置协同命题** 莱纳·[[Rainer Kattel|卡特尔]]与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]指出，第三代儿童形态使命政策所面对的社会挑战充满深层价值争议与系统复杂性。耐心资本的配置必须打破新公共管理被动的“支持与衡量”合规考核，与去中心化探索、以人为本的服务设计及“[[Lead-and-Learn Paradigm|引领与学习]]”范式紧密结合，依托敏捷跨职能团队在持续试错中积累[[Reflexivity|反思性]]知识，实现耐心金融与组织进化的共生演进。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–798)]]
+> **敏捷学习与资本配置协同命题** [[Rainer Kattel|莱纳·卡特尔]]与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]指出，第三代儿童形态使命政策所面对的社会挑战充满深层价值争议与系统复杂性。耐心资本的配置必须打破新公共管理被动的“支持与衡量”合规考核，与去中心化探索、以人为本的服务设计及“[[Lead-and-Learn Paradigm|引领与学习]]”范式紧密结合，依托敏捷跨职能团队在持续试错中积累[[Reflexivity|反思性]]知识，实现耐心金融与组织进化的共生演进。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–798)]]
 
 ---
 
@@ -212,7 +212,7 @@ updated: 2026-11-03
 > - **1940s–1970s — 第二阶段：冷战[[Big Science|大科学]]与战后开发金融（狮子形态）** 美国[[Manhattan Project|曼哈顿工程]]、[[Apollo Program|阿波罗计划]]与 [[DARPA]]、[[National Institutes of Health|NIH]] 模式，通过巨额非商业研发预算和首台套采购承担极端技术不确定性；德国 [[KfW]] 支撑战后工业重建。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]
 > - **1980s–1990s — 日美资本成本论战与 90 年代敏捷分工反思** 80 年代以麻省理工学院委员会为代表的学者将美国制造业危机归咎为缺乏日本主银行体制的低成本耐心资本；但 90 年代美国半导体在风险投资与纵向分工支持下的复兴，证实耐心资本若脱离敏捷产品设计易沦为大宗制造产能内耗。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 123–125)]]
 > - **2018 — 使命导向[[Market Shaping and Creating|市场塑造]]与 ROAR 框架** [[Mariana Mazzucato|马祖卡托]]系统论证国家作为耐心资本供给者的核心功能，提出通过 ROAR 框架与风险收益共享重塑[[Public Value|公共价值]]。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–810)]]
-> - **2018 — 三代使命演变与[[Public Dynamic Capabilities|公共动态能力]]融合** 莱纳·[[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]提出将耐心资本与国家、政策、行政三层[[Public Dynamic Capabilities|公共动态能力]]及[[Lead-and-Learn Paradigm|引领与学习范式]]深度融合，克服[[Complexity Paradox|复杂性悖论]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–801)]]
+> - **2018 — 三代使命演变与[[Public Dynamic Capabilities|公共动态能力]]融合** 莱纳·卡特尔与[[Mariana Mazzucato|马祖卡托]]提出将耐心资本与国家、政策、行政三层[[Public Dynamic Capabilities|公共动态能力]]及[[Lead-and-Learn Paradigm|引领与学习范式]]深度融合，克服[[Complexity Paradox|复杂性悖论]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–801)]]
 > - **2024 — 国家战略科技混合耐心资本工具箱建制** 白宫发布《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》，构建涵盖[[Non-dilutive Funding|非稀释性资助]]（[[SBIR and STTR Programs|SBIR]]/STTR）、私营资本匹配（[[AFVentures]]）、战略股权投资（[[National Science and Technology Council|NSTC]] 基金 / In-Q-Tel）与国家开发性债务融资（[[Loan Programs Office|LPO]]）的多层级耐心资本体系，保障硬科技从原型到规模制造的全周期生存。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 45–47)]]
 
 ---

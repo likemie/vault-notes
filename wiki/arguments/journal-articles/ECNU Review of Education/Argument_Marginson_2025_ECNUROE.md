@@ -9,7 +9,7 @@ title: "Argument_Marginson_2025_ECNUROE"
 argument_key: "Argument_Marginson_2025_ECNUROE"
 argument_display_title: "Space, power, and globalization: On the geopolitics of higher education"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 46
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Multiplicity]]"
   - "[[Heterogeneity]]"
+  - "[[Study Abroad]]"
   - "[[Space Production]]"
   - "[[Praxis]]"
   - "[[Methodological Globalism]]"
@@ -37,6 +38,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Avatar]]"
   - "[[Methodological Nationalism]]"
+  - "[[Nationalism]]"
   - "[[Double Spatiality of Universities]]"
   - "[[Religious Schools]]"
   - "[[Definition of Terms]]"
@@ -51,6 +53,7 @@ related_concepts:
   - "[[Student Mobility]]"
   - "[[Multi-University]]"
   - "[[Zero-Sum Competition]]"
+  - "[[Cumulative Innovation]]"
   - "[[Internationalization of Higher Education]]"
 related_theories:
   - "[[Power-Geometries]]"
@@ -74,7 +77,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-12'
-updated: 2026-10-30
+updated: 2026-11-11
 year: 2025
 doi: ""
 citation_aliases:
@@ -100,7 +103,7 @@ citation_aliases:
 - **空间作为[[Multiplicity|多重性]]（multiplicity）** 空间是"共存[[Heterogeneity|异质性]]"的领域——不同行动者的生命轨迹在空间中交汇。因为轨迹众多且各自有其因果链，交汇的结果是不可预测的。"多重性产生不确定性"(Massey, 2005, p. 113)
 - **[[Power-Geometries|权力几何学]]（power-geometries）** 空间中的开放与封闭不是抽象的空间形式问题，而是通过社会关系被建构的。关键在于"互联关系的权力地图"（the map of power of openness）(Massey, 2005, pp. 93, 166, 171)
 
-> 例：Massey 将每个人的生命比作一条穿越时间的轨迹。当一名中国留学生在 2015 年决定去加州大学攻读博士，她的轨迹与美国签证官、导师、硅谷招聘者等多条轨迹在特定空间中交汇——这个交汇的结果（她是否留在美国？是否回国创业？）受制于大国地缘政治（中美关系、签证政策）、经济结构（硅谷就业市场）和她个人的能动性（学术能力、职业规划），任何一个因素都无法单独决定结果。这就是 Massey 说的"多重轨迹交汇的不可预测性"。
+> 例：Massey 将每个人的生命比作一条穿越时间的轨迹。当一名中国[[Study Abroad|留学]]生在 2015 年决定去加州大学攻读博士，她的轨迹与美国签证官、导师、硅谷招聘者等多条轨迹在特定空间中交汇——这个交汇的结果（她是否留在美国？是否回国创业？）受制于大国地缘政治（中美关系、签证政策）、经济结构（硅谷就业市场）和她个人的能动性（学术能力、职业规划），任何一个因素都无法单独决定结果。这就是 Massey 说的"多重轨迹交汇的不可预测性"。
 
 ### 空间制造分析框架：Lefebvre + Marginson
 
@@ -175,7 +178,7 @@ citation_aliases:
 
 > 例：一位清华大学的材料科学家，在"国家尺度"上接受国家自然科学基金的资助，遵守中国的科研管理规定，其研究被评估为是否服务于"国家战略需求"；在"全球尺度"上，她的论文投给 *Nature Materials*，参加国际学术会议，与 MIT 的合作者联合发表——在这套游戏规则中，同行评议的质量和引用的影响力才是硬通货。两套规则同时运作，但不可化约为彼此。
 
-**2c. 批判[[Methodological Nationalism|方法论民族主义]]** — Marginson 将 Wimmer and Schiller(2003)的"方法论民族主义"概念引入高等教育研究。这一认识框架将国家视为"现代世界的自然社会和政治形式"，导致全球现象被遮蔽——跨境活动被视为边缘的，高等教育被认为只能在各自国家范畴内被理解。Massey(2005)称之为"对连贯国族性的浪漫幻想"和净化国家空间的徒劳尝试。Marginson 指出，方法论民族主义与规范性民族主义（偏好某一国家）相互强化，共同固化为"多重尺度不可想象"的封闭身份。
+**2c. 批判[[Methodological Nationalism|方法论民族主义]]** — Marginson 将 Wimmer and Schiller(2003)的"方法论[[Nationalism|民族主义]]"概念引入高等教育研究。这一认识框架将国家视为"现代世界的自然社会和政治形式"，导致全球现象被遮蔽——跨境活动被视为边缘的，高等教育被认为只能在各自国家范畴内被理解。Massey(2005)称之为"对连贯国族性的浪漫幻想"和净化国家空间的徒劳尝试。Marginson 指出，方法论民族主义与规范性民族主义（偏好某一国家）相互强化，共同固化为"多重尺度不可想象"的封闭身份。
 
 **2d. 以[[Double Spatiality of Universities|大学双重空间性]]作为历史证据** — 双重空间性（double spatiality）不是新现象：从北印度佛教寺院到中世纪伊斯兰[[Religious Schools|宗教学校]]到欧洲大学，高等教育机构一直在城市和国家中扎根，同时通过学者和学生的流动跨越边界。这种双重空间性是大学（部分）自主性和组织身份的根本来源："它们几乎不可能是非国家的，而全球尺度使它们得以成为不为国家所完全定义的存在"。
 
@@ -295,7 +298,7 @@ citation_aliases:
 > [!warning] 局限性与批评
 
 ### 方法透明度问题
-作为"理论化的历史综合"，文献筛选标准、覆盖范围或系统检索策略未被说明。读者难以评估其历史叙述是否存在选择性偏差——选择了哪些事实、跳过了哪些事实、选择的标准是什么？这使得后续研究者难以复制或检验其历史叙述。
+作为"理论化的历史综合"，文献筛选标准、覆盖范围或系统检索策略未被说明。读者难以评估其历史叙述是否存在选择性偏差——选择了哪些事实、跳过了哪些事实、选择的标准是什么？这使得[[Cumulative Innovation|后续研究]]者难以复制或检验其历史叙述。
 
 ### 经验深度有限
 对具体国家和地区的分析以宏观叙事为主。例如，对中国[[Internationalization of Higher Education|高等教育国际化]]的讨论主要停留在"国家投资驱动"这一宏观描述，缺乏对具体政策过程、制度矛盾或国内争议的深入分析。对个别机构如何在不同尺度之间策略性运作的微观机制也着墨甚少。

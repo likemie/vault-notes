@@ -11,7 +11,7 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
   - theme/higher-education
 related_concepts:
   - "[[Discourse]]"
+  - "[[Transnational Education]]"
   - "[[Policy Network]]"
   - "[[Professional Judgment]]"
   - "[[Subsidiarity Principle]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -104,7 +105,7 @@ updated: 2026-11-02
 > [!finding-cards] 核心产品与业务矩阵
 > - **欧洲质保标准（ESG）** 牵头研制全欧通用的质量保障准则，划定高校内部质保、中介外部质保及机构自身运行的三层标准。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 221)]]
 > - **机构评审报告文库** 发布并归档各成员国质保机构的周期性外部评估报告，作为检验其合规性与公信力的实证凭证。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 223)]]
-> - **政策咨询与工作组** 参与博洛尼亚后续行动工作组各专门委员会讨论，就微证书、高校联盟质保及跨境教育监管提供专业咨询意见。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 225, 227)]]
+> - **政策咨询与工作组** 参与博洛尼亚后续行动工作组各专门委员会讨论，就微证书、高校联盟质保及[[Transnational Education|跨境教育]]监管提供专业咨询意见。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 225, 227)]]
 
 > [!citation-card] 会员规模与制度声誉
 > ENQA 的政治分量直接源自其代表的广泛专业实体。在参与欧洲高等教育政策制定讨论时，其能够代表来自 40 个国家的 55 家符合 ESG 准则的质保机构成员，以及 55 家非欧及区域外附属机构，这种代表性奠定了其在超国家[[Policy Network|政策网络]]中的关键地位。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 225)]]

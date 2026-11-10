@@ -7,7 +7,7 @@ summary: "法国哲学家、数学家与科学家，近代哲学之父，以我�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -35,7 +35,8 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Reliability]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Instrumental Variables]]"
 related_persons:
   - "[[Socrates]]"
   - "[[Plato]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-25
+updated: 2026-11-11
 ---
 
 ---
@@ -79,7 +80,7 @@ updated: 2026-10-25
 ---
 
 > [!timeline] 生平与职涯
-> - **1596** 出生于法国图赖讷地区拉艾（La Haye en Touraine，今以[[René Descartes|笛卡尔]]命名），幼年体弱，就读于拉弗莱什耶稣会学院（Collège Henri-IV de La Flèche）
+> - **1596** 出生于法国图赖讷地区拉艾（La Haye en Touraine，今以[[René Descartes|笛卡尔]]命名），幼年体弱，就读于拉弗莱什耶稣会学院（Collège Henri-[[Instrumental Variables|IV]] de La Flèche）
 > - **1618** 加入荷兰拿骚的莫里斯亲王的军队，任军官。同年结识荷兰科学家 Isaac Beeckman，激发其数学和物理学兴趣
 > - **1619** 在多瑙河畔乌尔姆的暖房中做了三个梦，据笛卡尔自述，梦使他确信应以数学方法统一全部科学，标志其哲学计划的诞生
 > - **1628** 移居荷兰，在宗教和政治相对自由的荷兰度过此后大部分生涯

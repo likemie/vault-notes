@@ -10,7 +10,7 @@ aliases:
 summary: "个体在面临未决难题时，暂时停止有意识的直接思考并转向休息或无关活动，随后在无意识或偶发线索触发下产生灵感豁朗与创造性突破的认知心理现象。作为创造力四阶段模型的核心环节，它通过消退思维定势、促进无意识联想扩散与恢复认知资源，解释了创造力训练周期的倒 U 型演进规律。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Spaced Practice]]"
   - "[[Problem Solving]]"
   - "[[Habituation]]"
+  - "[[Problematisation]]"
   - "[[Working Memory]]"
   - "[[Emergence]]"
   - "[[Prefrontal Cortex]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -74,7 +75,7 @@ updated: 2026-11-03
 > 涵盖 117 项实验对比的元分析证实，孕育期不仅具有统计显著的正向促进效应（$d = 0.29 \sim 0.45$），而且其效果受孕育期插入任务性质的强烈调节——从事低认知负荷的无关活动能够取得最显著的顿悟增益。Sio and Ormerod (2009, pp. 94–98)
 
 > [!boundary]- 概念边界辨析
-> - **不等于 单纯的遗忘（Forgetting）** 普通遗忘导致所有相关信息痕迹均匀衰减；孕育效应中的遗忘是“选择性定势消退（Selective Forgetting）”，它选择性抑制错误的初始线索，保留核心问题表征并激活更广泛的次级联想。
+> - **不等于 单纯的遗忘（Forgetting）** 普通遗忘导致所有相关信息痕迹均匀衰减；孕育效应中的遗忘是“选择性定势消退（Selective Forgetting）”，它选择性抑制错误的初始线索，保留核心[[Problematisation|问题表征]]并激活更广泛的次级联想。
 > - **不等于 拖延（Procrastination）** 拖延是出于回避不适感或缺乏意志力的被动逃避，伴随焦虑与自责；孕育效应是有意识高强度攻坚遭遇瓶颈后的战略性主动暂停与战术性抽离。
 > - **不等于 完全放空与睡眠（Sleep / Total Inactivity）** 睡眠和放空确实包含孕育成分，但实证研究表明，在清醒状态下从事轻度有结构的心智活动（如散步、轻松阅读）往往比完全放空带来更高的顿悟概率。
 

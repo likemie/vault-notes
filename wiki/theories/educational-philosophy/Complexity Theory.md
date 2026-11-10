@@ -8,7 +8,7 @@ aliases:
 summary: "一种将教育系统视为复杂适应系统的新兴研究范式，以非线性和整体论取代简单的线性因果模型，强调反馈、涌现、连接性和自组织等核心概念"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 58
+theory_related_count: 59
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Rich and Thick Description]]"
   - "[[External Validity]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Heterogeneity]]"
   - "[[Total War]]"
   - "[[Transfer Science]]"
@@ -83,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -234,7 +235,7 @@ updated: 2026-10-26
 > - **2000s — 教育[[Paradigm\|研究范式]]建构与方法论深化**
 >   [[Keith Morrison\|莫里森]]（Keith Morrison, 2002a, 2008）等学者系统将复杂性理论引入教育学，将其建制化为抗衡[[Positivism\|实证主义]]量化霸权的新兴范式。库恩（Sarah Kuhn, 2007）提出复杂性研究五大公理；菲尔普斯与格雷厄姆（Phelps & Graham, 2010）论证其与[[Action Research\|行动研究]]的九重互补，激发教师作为研究者的实践转向。
 > - **2010s 至今 — [[Computer Simulation\|计算机模拟]]、[[Agent-based Modelling\|ABM]]、系统治理与虚拟生态实践**
->   基于主体建模（ABM）与复杂[[Network Analysis\|网络分析]]成为检验复杂系统假说的强力数字工具；同时，Best and Holmes (2010)、Burns & Köster (2016)、Mason (2016) 与 [[Argument_Torres_2022_KMModels\|Torres (2022b)]]、[[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] 将复杂适应系统确立为现代教育治理与跨国证据生态（[[OECD]] 37 个教育系统调查）的核心元理论透镜；政策执行复杂性理论（Honig, 2006; [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt, 2019]]）进一步揭示多层级治理中的中层组织界面与单体学校[[Absorptive Capacity|吸收能力]]制约，驱动公共教育政策从单向流水线控制转向自组织生态培育与全系统动力学协同。
+>   基于主体建模（ABM）与复杂[[Network Analysis\|网络分析]]成为检验复杂系统假说的强力数字工具；同时，Best and Holmes (2010)、Burns & Köster (2016)、Mason (2016) 与 [[Argument_Torres_2022_KMModels\|Torres (2022b)]]、[[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] 将复杂适应系统确立为现代教育治理与跨国证据生态（[[OECD]] 37 个教育系统调查）的核心元[[Theoretical Standpoint|理论透镜]]；政策执行复杂性理论（Honig, 2006; [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt, 2019]]）进一步揭示多层级治理中的中层组织界面与单体学校[[Absorptive Capacity|吸收能力]]制约，驱动公共教育政策从单向流水线控制转向自组织生态培育与全系统动力学协同。
 
 ---
 

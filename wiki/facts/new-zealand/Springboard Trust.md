@@ -9,7 +9,7 @@ subtype: organization
 region: "new-zealand"
 fact_region: "new-zealand"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -35,6 +35,8 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[NEXT Foundation]]"
+  - "[[New Zealand Council for Educational Research]]"
+  - "[[Education Review Office]]"
   - "[[CORE Education]]"
   - "[[Teach First New Zealand]]"
   - "[[New Zealand Initiative]]"
@@ -42,7 +44,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -71,7 +73,7 @@ updated: 2026-10-30
 >   获得新设立的 1 亿纽币 [[NEXT Foundation|NEXT 基金会]]的战略性全额项目资助，项目规模迅速向全国各学区扩张。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 38)]]
 >
 >   - **2014 年** 成为 NEXT 基金会首批核心受资助教育实体。
->   - **2015–2016 年** 委托新西兰教育研究委员会（NZCER）启动全周期纵向跟踪评估，向政界输出其改善学校办学效能的量化证据。
+>   - **2015–2016 年** 委托[[New Zealand Council for Educational Research|新西兰教育研究委员会]]（NZCER）启动全周期纵向跟踪评估，向政界输出其改善学校办学效能的量化证据。
 
 ---
 
@@ -102,7 +104,7 @@ updated: 2026-10-30
 > [!indicators] 影响力维度与指标
 > - **校长受训覆盖面** 累计培训并辅导新西兰数百所公立中小学校长，特别在薄弱学区校长群体中拥有极高渗透率。
 > - **外部企业资源动员量** 动员跨国银行、电信与咨询财团累计贡献数万小时的志愿专业咨询服务。
-> - **制度合法性认可** 其辅导产出的学校战略规划被新西兰教育审查办公室（ERO）督导报告正面采纳。
+> - **制度合法性认可** 其辅导产出的学校战略规划被[[Education Review Office|新西兰教育审查办公室]]（ERO）督导报告正面采纳。
 
 > [!finding-cards] 关键成效与辐射影响
 > - **管理主义行政改造** 使公立学校校长的角色定位由教学专业领头人（Instructional Leader）向企业化运营经理人加速转变。

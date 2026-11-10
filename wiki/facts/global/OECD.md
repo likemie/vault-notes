@@ -10,9 +10,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 169
-fact_related_level: 16
-fact_related_stars: "💎💎💎💎💎⭐"
+fact_related_count: 185
+fact_related_level: 18
+fact_related_stars: "💎💎💎💎💎💎"
 fact_related_color: "#fecdd3"
 org_type: intergovernmental
 headquarters: 巴黎（法国）
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Social Imaginary]]"
   - "[[New Public Management]]"
   - "[[Performance Indicators]]"
+  - "[[Cumulative Innovation]]"
   - "[[Test-Based Accountability]]"
   - "[[School Autonomy]]"
   - "[[Encyclopaedic Definition of Knowledge]]"
@@ -70,15 +71,18 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Knowledge Production]]"
+  - "[[Transnational Education]]"
   - "[[Evidence-Based Education]]"
   - "[[Positivism]]"
   - "[[Reference Society]]"
   - "[[Discourse]]"
   - "[[Document]]"
+  - "[[System-Wide Improvement]]"
   - "[[Policy Mobility]]"
   - "[[Technical Rationality]]"
   - "[[Conditional Cash Transfers]]"
   - "[[Policy Ambassador]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Competitiveness]]"
   - "[[Epistemic Community]]"
   - "[[Revolutionism]]"
@@ -109,6 +113,7 @@ related_concepts:
   - "[[Rashomon Effect]]"
   - "[[Champ]]"
   - "[[Construct]]"
+  - "[[Output-Oriented Governance]]"
 related_theories:
   - "[[Governing at a Distance]]"
   - "[[Human Capital Theory]]"
@@ -126,6 +131,7 @@ related_methods:
   - "[[Item Response Theory]]"
   - "[[Questionnaire]]"
   - "[[Network Analysis]]"
+  - "[[Archival Research]]"
 related_instruments: []
 related_persons:
   - "[[George Papadopoulos]]"
@@ -143,6 +149,8 @@ related_persons:
   - "[[David Coleman]]"
   - "[[Wolfgang Mitter]]"
   - "[[Jason Beech]]"
+  - "[[Kenneth King]]"
+  - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[PISA]]"
   - "[[Organisation for European Economic Co-operation]]"
@@ -160,6 +168,9 @@ related_facts:
   - "[[United States Department of Education]]"
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
+  - "[[Development Assistance Committee]]"
+  - "[[International Development Targets]]"
+  - "[[Millennium Development Goals]]"
   - "[[Delors Report]]"
   - "[[World Bank]]"
   - "[[PISA Governing Board]]"
@@ -176,11 +187,14 @@ related_facts:
   - "[[UNICEF]]"
   - "[[Lisbon Strategy]]"
   - "[[Definition and Selection of Competencies]]"
+  - "[[Ludvigsen Commission]]"
   - "[[Participatory Budgeting]]"
   - "[[Baby PISA]]"
   - "[[PISA for Schools]]"
   - "[[Building Evidence in Education]]"
   - "[[Learning Data Compact]]"
+  - "[[World Education Reform Database]]"
+  - "[[European Commission]]"
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -188,6 +202,7 @@ related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Verger_2019_Discourse]]"
+  - "[[Argument_King_2007_CE]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
@@ -196,17 +211,18 @@ related_arguments:
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
   - "[[Argument_Grey_2018_CE]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
-  - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Volmari_2025_CE]]"
+  - "[[Argument_Barrenechea_2023_JEC]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -251,8 +267,8 @@ updated: 2026-11-10
 >   - **1992** 推出旗舰年度报告《[[Education at a Glance|教育概览]]》（Education at a Glance，EAG），标志 OECD 从投入端与粗放人力核算转向关注教育系统的产出效能与质量问责。
 >   - **1994** 日本与东亚后发追赶的成功暴露了单纯依赖弗拉斯卡蒂研发投入指标的局限，OECD 科技政策委员会（Committee for Scientific and Technological Policy，CSTP）在弗里曼、本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）等[[Evolutionary Economics|演化经济学]]家影响下，启动国家[[Systems of Innovation|创新系统]]大型国际研究项目。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 10–11, 19–20)]]
 >   - **1994** 帕帕多普洛斯指出经合组织形成了一种混合型新自由主义视角：经济增长居于主导地位，但必须受到社会维度与人类福祉的适度调和。[[Argument_Beech_2009_GlobalGarden|(Papadopoulos, 1994, cited in Beech, 2009b, p. 347)]]
->   - **1995** 发布《转型中的治理》（*Governance in Transition*），系统推广以分权、绩效管理与问责为特征的新公共管理原则；后续研究表明，经合组织倡导的 NPM 与[[Test-Based Accountability|考试问责]]（TBA）在各成员国落地时受到英美市场模式、欧洲大陆新韦伯模式与[[Napoleonic Administrative Tradition|拿破仑模式]]等行政传统的深刻过滤与折射。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 250)]]
->   - **1996** 经合组织发展援助委员会（Development Assistance Committee, DAC）在巴黎召开第 34 届高级别会议，在广大发展中国家缺席的情境下通过《塑造21世纪：发展合作的贡献》（*Shaping the 21st Century*）报告。该报告将宗滴恩大会的宽泛基础教育议程精简为两项具有刚性时间表的量化指标：2015 年普及初等教育（UPE）与 2005 年在初中等教育消除性别差距。这套由北方捐助国闭门制定的国际开发目标（IDTs），直接奠定了 2000 年联合国千年发展目标（MDGs）教育条款的底层框架。[[Argument_King_2007_CE|(King, 2007, pp. 380–382)]]
+>   - **1995** 发布《转型中的治理》（*Governance in Transition*），系统推广以分权、绩效管理与问责为特征的新公共管理原则；[[Cumulative Innovation|后续研究]]表明，经合组织倡导的 NPM 与[[Test-Based Accountability|考试问责]]（TBA）在各成员国落地时受到英美市场模式、欧洲大陆新韦伯模式与[[Napoleonic Administrative Tradition|拿破仑模式]]等行政传统的深刻过滤与折射。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 250)]]
+>   - **1996** [[Development Assistance Committee|经合组织发展援助委员会]]（Development Assistance Committee, DAC）在巴黎召开第 34 届高级别会议，在广大发展中国家缺席的情境下通过《塑造21世纪：发展合作的贡献》（*Shaping the 21st Century*）报告。该报告将宗滴恩大会的宽泛基础教育议程精简为两项具有刚性时间表的量化指标：2015 年普及初等教育（UPE）与 2005 年在初中等教育消除性别差距。这套由北方捐助国闭门制定的[[International Development Targets|国际开发目标]]（IDTs），直接奠定了 2000 年[[Millennium Development Goals|联合国千年发展目标]]（MDGs）教育条款的底层框架。[[Argument_King_2007_CE|(King, 2007, pp. 380–382)]]
 >   - **1996** 发布《以知识为基础的经济》（*The Knowledge Based Economy*），结合[[New Growth Theory|内生新增长理论]]建构起全球共享的知识经济社会想象。经合组织在北方发达国家的强势扩张侵蚀了教科文组织的传统权威，诱发其领导权危机并促成《[[Delors Report|德洛尔报告]]》的反击。[[Argument_Beech_2009_GlobalGarden|(Jones & Coleman, 2005, cited in Beech, 2009b, pp. 347–348)]]
 >   - **1996 起** 协同[[World Bank|世行]]与教科文组织共同预设单一平面的信息时代，成套推销由分权化、[[School Autonomy|学校自主权]]、教师专业化、能力本位课程与中央质量评估构成的五大支柱模型，将阿根廷、巴西等受援国注重系统记忆的[[Encyclopaedic Definition of Knowledge|百科全书式知识传统]]贬斥为落后低效。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
 >   - **1997** 发布纲领性报告《[[National Innovation System|国家创新系统]]》（*National Innovation Systems*），官方科技政策范式从布什单向线性模型跨越至多主体互动学习的[[Innovation Policy Paradigms|创新系统范式]]。
@@ -325,7 +341,7 @@ updated: 2026-11-10
 > - **成员覆盖与全球代表性** 从成立初期的 20 个欧美成员国扩张至当前 38 个成员国，[[PISA]] 测评覆盖逾 80 个国家和经济体，参与国经济总量占全球 80% 以上。
 > - **国际组织网络核心度** 战争关联（COW）国际组织数据库普查显示，在全球 495 个政府间组织中，仅 20 个（4.0%）深度介入教育治理，经合组织成为全球教育治理网络的核心枢纽。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 278)]]
 > - **全球证据中介网络中枢地位** 在针对全球 654 个证据平台与机构的拓扑[[Network Analysis|网络分析]]中，经合组织居于中心主群第 4 位（网络连接度 18，核心伙伴为[[UNICEF|联合国儿童基金会]]），牢牢占据全球多边[[Knowledge Production|知识生产]]与标准扩散的核心位置。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 20–22)]]
-> - **[[Knowledge Production\|知识生产]]与学术渗透度** 发布的各类年度报告与实证微观数据库成为全球比较教育、教育经济学及公共政策学者最重要的实证来源，单年度成果引用量稳居跨国教育智库之首。
+> - **[[Knowledge Production\|知识生产]]与学术渗透度** 发布的各类年度报告与实证微观数据库成为全球比较教育、教育经济学及公共政策学者最重要的实证来源，单年度成果引用量稳居[[Transnational Education|跨国教育]]智库之首。
 > - **制度问责与国家治理重塑** 推动挪威、瑞士、德国及中国等数十个国家建立与国际标准对接的全国教育质量监测系统与循证督导评估体制。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]
 
 > [!finding-cards] 关键成效与辐射影响
@@ -334,8 +350,8 @@ updated: 2026-11-10
 > - **国内政治权力格局重组** 经合组织测评数据作为外部合法性资源，赋权并强化了主权国家内部偏好与其一致的改革同盟（如财政经济部门与雇主协会），同时弱化了缺乏实证数据支撑的传统反对力量（如教师工会）的论辩[[Discourse|话语]]权，间接重构了国家教育政治的权力配置。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 277–278)]]
 > - **治理形态创新** 成功探索出无须依托强制性国际公约约束、仅凭借数据披露、公开排队与同行声誉压力调控主权国家政策的[[Governing at a Distance\|远处治理]]（Governing at a Distance）与[[Governing by Numbers\|数字治理]]典型模式（[[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 424–425]]）；并通过与[[EU|欧盟]]委员会建立深层跨机构共生（欧盟资助 80% 调查成本，50%–60% [[Lisbon Strategy|里斯本战略]]数据直接依赖经合组织），将比较指标建构为赋权主权国家推行国内争议性改革的准外部合法化权威（[[Argument_Grek_2009_JEdPolicy\|Grek, 2009, pp. 24–26, 32–35]]）。
 > - **主权国家法定行政转化中的中介垄断** 在国家教育改革从议程设置迈向官方行政立法或颁行阶段时，OECD 的[[Policy Brokerage\|政策中介]]工具与指标表现出极强的排他性垄断力。实证研究显示，在挪威能力课程改革中，尽管前期咨询吸纳了 464 篇多元[[Document|文献]]，但教育部最终颁布的官方行政法规中仅保留 22 篇参考文献，其中高达 20 篇被经合组织审查组垄断（涵盖[[Definition and Selection of Competencies\|能力界定与选择]]（Definition and Selection of Competencies，DeSeCo）项目框架及 OECD 挪威教育政策审查报告），印证了经合组织在主权国家行政决策出台阶段无与伦比的[[Discourse|话语]]权威。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 547–548)]]
-> - **跨国课程趋同与政治合法化背书** 尽管北欧国家（丹麦、芬兰、挪威）在推进基础教育改革时极力强调本国改革植根于独特的本土情境，但在核心课程设计上均全面吸纳经合组织 21 世纪技能与素养框架（如挪威卢德维格森委员会赴巴黎总部实地考察并直接采纳其模型）；跨国比较证据主要被执政者用作宣示改革前沿性与科学化的政治背书，服从于政治合法化诉求。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 531, 542–544)]]
-> - **跨期纵向提质度量与系统改进研究催化（[[Argument_Barrenechea_2023_JEC|Barrenechea et al., 2023]]）** 经合组织主导的大型跨国测评（PISA）不仅重塑了横向空间排名，更确立了跨越时空的通用度量标尺，被比较学者定性为“全球教育定位系统”（Novoa & Yariv-Mashal, 2014）；它促使全系统改进研究进入“后大型国际评估时代”，使基于跨期增量数据捕捉长周期提质系统（如 2003–2018 年间爱沙尼亚、葡萄牙与波兰）并总结互锁驱动架构成为可能。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 3, 11)]]
+> - **跨国课程趋同与政治合法化背书** 尽管北欧国家（丹麦、芬兰、挪威）在推进基础教育改革时极力强调本国改革植根于独特的本土情境，但在核心课程设计上均全面吸纳经合组织 21 世纪技能与素养框架（如挪威[[Ludvigsen Commission|卢德维格森委员会]]赴巴黎总部实地考察并直接采纳其模型）；跨国比较证据主要被执政者用作宣示改革前沿性与科学化的政治背书，服从于政治合法化诉求。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 531, 542–544)]]
+> - **跨期纵向提质度量与系统改进研究催化（[[Argument_Barrenechea_2023_JEC|Barrenechea et al., 2023]]）** 经合组织主导的大型跨国测评（PISA）不仅重塑了横向空间排名，更确立了跨越时空的通用度量标尺，被比较学者定性为“全球教育定位系统”（Novoa & Yariv-Mashal, 2014）；它促使[[System-Wide Improvement|全系统改进]]研究进入“后大型国际评估时代”，使基于跨期增量数据捕捉长周期提质系统（如 2003–2018 年间爱沙尼亚、葡萄牙与波兰）并总结互锁驱动架构成为可能。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 3, 11)]]
 
 > [!stat-cards]- 核心规模数据
 > 38 个正式成员国，逾 80 个 PISA 测评参与经济体，单轮受测学生样本约 60 万人，汇聚 3,000 余名专业雇员及数亿欧元年度综合运作预算。
@@ -350,7 +366,7 @@ updated: 2026-11-10
 > > - **全球南方与批判[[Policy Mobility|政策流动]]视角（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）** 批评比较公共政策与政策转移研究长期深植于经合组织发达工业化国家的治理经验，预设政策创新单向由全球北方流向全球南方、由中央政府部委科层主导且依赖纯粹[[Technical Rationality|技术理性]]；忽视了全球南方依托本土微观治理实验（如[[Participatory Budgeting|参与式预算]]、快速公交、[[Conditional Cash Transfers|有条件现金转移支付]]）、[[Policy Ambassador|政策大使]]穿梭与南南合作网络正在实质重构跨国政策流动的拓扑结构。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 84, 210–211, 237–239)]]
 > > - **经合组织多边治理立场** 强调经合组织不仅服务于发达成员国，亦通过“全球关系项目”与发展援助委员会为广大非成员国提供客观证据与技术协作平台，其指标体系旨在提供超越意识形态的去政治化标准。
 >
-> > [!axis] 国际政治理论透镜下的[[Governmentality\|治理性]]质交锋
+> > [!axis] 国际政治[[Theoretical Standpoint|理论透镜]]下的[[Governmentality\|治理性]]质交锋
 > > 批判学者从不同[[Wight's Three Traditions of International Theory\|国际关系理论]]视角对 OECD 的角色性质与权力运作展开了深刻剖析。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 420–425)]]
 > >
 > > - **现实主义透镜** 将 OECD 判定为主权国家[[Geopolitics|地缘政治]]与经济竞争的战略工具。冷战时期作为西方阵营防范社会主义扩张的智库阵地；后冷战时代则成为各国监控自身科技[[Competitiveness|竞争力]]、缓解落后焦虑并开展防御性[[Human Capital Theory\|人力资本]]竞赛的竞技场。
@@ -416,7 +432,7 @@ updated: 2026-11-10
 > > [!axis] 北方捐助国指标制定与全球南方自主拥有修辞的张力
 > > 考证经合组织发展援助委员会（DAC）在确立国际开发目标时是否存在制度性局限与议程收缩。[[Argument_King_2007_CE|(King, 2007, pp. 380–383)]]
 > >
-> > - **批判历史考证（[[Argument_King_2007_CE|King, 2007]]）** 档案研究证实，经合组织 DAC 1996 年《塑造21世纪》报告完全由北方捐助国在巴黎闭门协商制定，发展中国家未能参与；报告一方面倡导受援国自主拥有，另一方面却将全纳基础教育愿景窄化为孤立的初等教育入学数量与脱节的时间表，并通过政策摘要过滤掉人均经济增长与法治秩序等制度前提。
+> > - **批判历史考证（[[Argument_King_2007_CE|King, 2007]]）** [[Archival Research|档案研究]]证实，经合组织 DAC 1996 年《塑造21世纪》报告完全由北方捐助国在巴黎闭门协商制定，发展中国家未能参与；报告一方面倡导受援国自主拥有，另一方面却将全纳基础教育愿景窄化为孤立的初等教育入学数量与脱节的时间表，并通过政策摘要过滤掉人均经济增长与法治秩序等制度前提。
 > > - **经合组织多边协调立场** 坚称 DAC 确立的量化目标旨在凝聚国际发展合作政治共识，为动员官方发展援助与监测减贫成效提供便于跨国问责的可操作基准。
 
 > [!citation-card] 琼斯与科尔曼论经合组织在北方扩张对教科文组织的挤压
@@ -480,7 +496,7 @@ updated: 2026-11-10
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 运用国际关系理论透镜剖析 OECD 远处治理、量化排名与知识霸权对主权国家教育体系的规训。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 运用世界教育改革数据库实证检验 OECD 政策中介机制、挪威课程改革中的中介垄断以及跨国机构竞争。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 运用[[World Education Reform Database|世界教育改革数据库]]实证检验 OECD 政策中介机制、挪威课程改革中的中介垄断以及跨国机构竞争。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 剖析 OECD 弗拉斯卡蒂手册单一研发投入排行的局限，阐明国家创新系统理论对科技政策的范式重构。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 梳理 OECD 从冷战社会民主主义妥协向新自由主义经济基要主义的范式断裂，解构其数字治理与等值空间制造。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 考证 OECD 1964 年阿根廷规划报告的技术官僚渗透，揭示其与世行合构全球教育话语并对教科文组织产生挤压。
@@ -491,11 +507,11 @@ updated: 2026-11-10
 > - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 批判比较公共政策中的经合组织北方中心主义偏见，揭示全球南方微观创新与南南合作对政策流动的重塑。
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 提出硬事实软治理命题，阐明 OECD 依托探究模式与调解模式确立认知权威并推动全球教育的经合组织化。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 剖析 OECD 在跨国政策借用连续谱中通过软法建议与同行评议扮演的协商性政策转移中介功能。
-> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 运用布迪厄场域理论解构经合组织如何依托测量资本与象征资本确立全球教育政策场域的跨国仲裁者权威。
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 运用[[Pierre Bourdieu|布迪厄]]场域理论解构经合组织如何依托测量资本与象征资本确立全球教育政策场域的跨国仲裁者权威。
 > - [[Argument_Grey_2018_CE|Grey and Morris (2018)]] — 揭示 OECD 双轨发布策略与媒介定制机制，剖析本土政客制造教育危机与 OECD 测试品牌扩张的象征性共谋。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] — 援引 OECD 博士培养规模追踪数据，为量化识别全球科研劳动力市场供需失衡与学术职业瓶颈提供实证基准。
-> - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 考察 OECD 指标体系与循证治理对主权国家建立国家级质量监测与督导评估机制的推动作用。
-> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 剖析 OECD 与欧盟委员会的跨机构共生机制，揭示比较指标如何成为赋权主权国家推行国内改革的准外部合法化权威。
+> - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 考察 OECD 指标体系与[[Output-Oriented Governance|循证治理]]对主权国家建立国家级质量监测与督导评估机制的推动作用。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 剖析 OECD 与[[European Commission|欧盟委员会]]的跨机构共生机制，揭示比较指标如何成为赋权主权国家推行国内改革的准外部合法化权威。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 运用批判哲学透视 OECD 全景敞视式量化测评对存在性自由的剥夺，揭示其标准化测验与高阶反思思维的悖论。
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 在全球 654 个证据平台网络测绘中将 OECD 定位于中心群第 4 位，揭示多边机构主导全球证据生产的格局。
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 评析 OECD 知识动员与证据利用调查报告，批判其将系统性制度供给不足转嫁为公职人员个体能力赤字的倾向。

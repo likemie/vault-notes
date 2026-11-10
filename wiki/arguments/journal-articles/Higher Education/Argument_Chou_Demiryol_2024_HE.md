@@ -7,7 +7,7 @@ title: "Argument_Chou_Demiryol_2024_HE"
 argument_key: "Argument_Chou_Demiryol_2024_HE"
 argument_display_title: "Knowledge power or diplomacy? University alliances and the Belt and Road Initiative"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Mutual Learning]]"
   - "[[Theoretical Perspective]]"
+  - "[[Transnational Education]]"
   - "[[Summer School]]"
   - "[[Student Mobility]]"
   - "[[Epistemic Governance]]"
@@ -72,7 +73,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-19
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
@@ -244,7 +245,7 @@ updated: 2026-10-29
 
 > [!sub-claim] 2. 天下观超越西方二元对立，包容学术层级与对等共赢的辩证共存
 
-以天下为透镜审视跨国高等教育治理，为理解复杂的网络关系提供了非西方的认识论工具。
+以天下为透镜审视[[Transnational Education|跨国高等教育]]治理，为理解复杂的网络关系提供了非西方的认识论工具。
 
 > [!dimension] [[Tianxia Heuristic|天下启发式框架]]对跨国高等教育秩序的阐释维度
 > - **以世界为尺度（Thinking through the World）**

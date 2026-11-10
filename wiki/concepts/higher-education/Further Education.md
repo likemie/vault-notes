@@ -8,7 +8,7 @@ aliases:
 summary: "位于义务教育和正规高等教育之外的中学后非正规教育形态，以非学位证书、职业技能重塑与终身学习为核心，与正规高等教育共同构成后福特经济与跨国产业链协同的技能支柱。"
 type: concept
 domain: "higher-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Education Going Global]]"
   - "[[Research Universities]]"
   - "[[Variable]]"
+  - "[[Performance Indicators]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-18
-updated: 2026-11-06
+updated: 2026-11-11
 ---
 
 ---
@@ -177,7 +178,7 @@ updated: 2026-11-06
 > | [[Education Going Global]] | 概念 | 伴随跨国工程与产业出海同步推进的技能培训与海外办学工程。 |
 > | [[Research Universities]] | 概念 | 传统教育研究中优先关注的正规高教机构，与非正规继续教育形成研究偏向对比。 |
 > | [[Human Capital Theory]] | 理论 | 将继续教育视为提升个体生产力与延缓技能折旧的核心理论。 |
-> | [[EU]] | 事实 | 通过白皮书与 CVTS 调查推动继续职业教育指标建制的超国家实体。 |
+> | [[EU]] | 事实 | 通过白皮书与 CVTS 调查推动继续职业[[Performance Indicators\|教育指标]]建制的超国家实体。 |
 > | [[ASEAN]] | 事实 | 开展跨国产教协同与全周期技能链条贯通试验的区域合作组织。 |
 
 ---

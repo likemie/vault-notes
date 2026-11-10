@@ -9,7 +9,7 @@ aliases:
 summary: "比较政治经济学核心概念，指不同制度领域之间相互支持、相互强化的协同配置状态，即某一制度的存在能提升另一制度的运行效能；传统理论视其为资本主义多样性的超稳定均衡基石，渐进变迁学派则批判其功能主义偏误，揭示行动者如何在松弛与杂糅的互补性外壳下推进局部演化。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,7 +18,6 @@ tags:
   - theme/political-economy
   - theory/historical-institutionalism
 related_concepts:
-  - "[[Structural Coupling]]"
   - "[[Document]]"
   - "[[Institutional Layering]]"
   - "[[Patient Capital]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -53,7 +52,7 @@ updated: 2026-11-03
 > **制度互补性（Institutional Complementarity）** 指一国经济体制中不同子领域的制度安排之间存在的协同增效关系，即某一制度（如劳资协调）的存在或运作能够显著提高另一制度（如特定技能培训或长期关系型融资）的边际运行回报（Marginal Return）；[[Varieties of Capitalism|资本主义多样性]]（Varieties of Capitalism, VoC）理论将其视为区分协调市场经济（CME）与自由市场经济（LME）的核心支柱，而[[Historical Institutionalism|历史制度主义]]渐进变迁学派则批判其将互补性视为“无外生激变便不可变动”的功能主义超稳定假设，主张将互补性重新理解为充满结构性松弛与内生杂糅的动态过程。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–6, 19–21)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 刻画金融、公司治理、劳动关系、教育培训与社会保障等不同制度子系统之间的[[Structural Coupling|结构连结]]与相互强化效应。
+> - **含义** 刻画金融、公司治理、劳动关系、教育培训与社会保障等不同制度子系统之间的结构连结与相互强化效应。
 > - **用途** 解释为何不同国家会长期维系截然不同的制度构型，并在特定产业门类中形成持续的比较制度优势（Comparative Institutional Advantage）。
 > - **边界** 不等于所有制度要素必须严格自洽的刚性反馈回路；不能将制度共存简单等同于功能互补，忽视制度间的张力与内在矛盾。
 

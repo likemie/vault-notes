@@ -11,7 +11,7 @@ aliases:
 summary: "指国家与公共机构不局限于事后修复既有市场失灵，是通过战略投资、需求侧公共采购、标准规制、制度化附加条件与前沿引领，依托公共动态能力主动构筑、从零创造并共同重塑新经济、社会与技术景观的公共政策范式。"
 type: concept
 domain: "science-policy"
-related_count: 51
+related_count: 50
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -57,7 +57,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Mariana Mazzucato]]"
-  - "[[Rainer Kattel]]"
   - "[[Jerome E. Schnee]]"
   - "[[John E. Tilton]]"
   - "[[Bengt-Åke Lundvall]]"
@@ -83,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -101,7 +100,7 @@ updated: 2026-11-03
 >
 > *And yet missions exemplify a more proactive approach to policy than fixing suggests. It has required public organizations to be responsible for actively shaping and creating markets and systems, not just fixing them, and for creating wealth, not just redistributing it. In a market failure framework, ex ante analysis aims to estimate benefits and costs... In contrast, a mission-oriented framework, which actively cocreates new markets, requires continuous and dynamic monitoring and evaluation.*
 
-> [!citation-card] [[Rainer Kattel|卡特尔]]与马祖卡托论市场塑造作为使命政策的核心支柱
+> [!citation-card] 卡特尔与马祖卡托论市场塑造作为使命政策的核心支柱
 > [[Mission-Oriented Innovation Policy|使命导向创新政策]]包含两大支柱：首先是以明确的战略目的统领公共投资；其次是通过战略采购、前沿[[Big Science|大科学]]资助与规制重塑创造协同效应，在供给端与需求端产生广泛外溢，主动开辟并塑造新市场，进而引导和撬动私营企业开展自发探索与商业化投资。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790)]]
 >
 > *Mission-oriented policies have two key pillars: establishing strategic purpose for public investments, and creating and shaping new markets through strategic procurement, big science funding, and regulation that generate wide spillovers on supply and demand sides.*

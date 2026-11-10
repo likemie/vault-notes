@@ -8,7 +8,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Global Policy Space]]"
+  - "[[Transnational Education]]"
   - "[[Educational Privatisation]]"
   - "[[Performativity]]"
   - "[[Pragmatic Paradigm]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -68,7 +69,7 @@ updated: 2026-10-22
 > - **成立时间与创设背景** 1993 年由世界教师组织专业联合会（WCOTP）与国际自由教师工会秘书处（IFFTU）合并创立，旨在克服冷战时期意识形态割裂，建立代表全人类教师共同利益的统一全球性专业劳工网络。[[Argument_Beech_2009_CE\|(Beech, 2009a, p. 352)]]
 > - **总部地点与辐射范围** 总部设于比利时布鲁塞尔，在全球设立亚太、非洲、拉美、北美与欧洲区域办事处，会员网络横跨 172 个国家和地区的 401 个全国性成员工会组织。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 213)]]
 > - **法人属性与经费基础** 属于独立的国际非政府劳工与专业联合组织，经费独立来源于各成员工会的年度缴纳会费，确保其在政治、意识形态和政府干预面前的组织自主性。
-> - **核心宗旨与法定职责** 坚决捍卫公共免费教育（public free education）与教育机会均等；抵制教育市场化、商业化与私有化浪潮；维护教师身心福祉与劳动尊严；依托扎实实证研究介入跨国教育决策。[[Argument_Beech_2009_CE\|(Beech, 2009a, pp. 352–353)]]；[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 210)]]
+> - **核心宗旨与法定职责** 坚决捍卫公共免费教育（public free education）与教育机会均等；抵制教育市场化、商业化与私有化浪潮；维护教师身心福祉与劳动尊严；依托扎实实证研究介入[[Transnational Education|跨国教育]]决策。[[Argument_Beech_2009_CE\|(Beech, 2009a, pp. 352–353)]]；[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 210)]]
 
 ---
 

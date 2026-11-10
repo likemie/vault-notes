@@ -13,10 +13,10 @@ aliases:
 summary: "学术出版与科学传播中由学术机构、学会或公共基金直接出资维护的非商业性学术交流范式；其核心特征是发文无须缴纳高昂文章处理费（APC），阅读亦无须支付订阅费或打破付费墙；通过将学术出版基础设施重归公共学术共同体托管，旨在根除商业出版寡头通过 APC 转移公共科研经费的暴利寻租，消除低资源地区与青年学者面临的经济发表壁垒。"
 type: concept
 domain: "science-policy"
-related_count: 7
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 13
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/science-policy
   - theme/open-science
@@ -24,12 +24,18 @@ tags:
   - theme/academic-publishing
   - theme/science-policy
 related_concepts:
-  - "[[Junkification of Research]]"
+  - "[[Paradigm]]"
+  - "[[Knowledge Production]]"
   - "[[Early-Career Researchers]]"
+  - "[[Discourse]]"
+  - "[[Public Value]]"
+  - "[[Knowledge Exchange]]"
+  - "[[Junkification of Research]]"
   - "[[Slow Science]]"
 related_theories:
   - "[[Academic Capitalism]]"
-related_methods: []
+related_methods:
+  - "[[Peer Debriefing]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -40,18 +46,18 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Diamond Open Access
-> 指在学术成果公开发表过程中，由大学、科研院所、学术学会或公共基金会直接承担出版平台运营成本，对研究团队免收任何文章处理费（Article Processing Charges, APC），同时对全球读者完全免费开放全文阅读的非商业化开放科学出版模式；该范式将学术交流重新定位为公共知识产品，旨在阻断商业出版集团对公共财政的暴利寻租与发文排他性经济门槛。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 6)]]
+> 指在学术成果公开发表过程中，由大学、科研院所、学术学会或公共基金会直接承担出版平台运营成本，对研究团队免收任何文章处理费（Article Processing Charges, APC），同时对全球读者完全免费开放全文阅读的非商业化开放科学出版模式；该[[Paradigm|范式]]将学术交流重新定位为公共知识产品，旨在阻断商业出版集团对公共财政的暴利寻租与发文排他性经济门槛。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 6)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 双向免除出版费与订阅费、由学术共同体直接统筹运营的公益性学术出版体系。
 > - **用途** 瓦解商业出版商通过 APC 制造的财富准入壁垒，防范科研财政资金被商业期刊利润截留，保护低资源学者平等的科学表达权。
-> - **边界** 钻石开放获取关注的是出版基础设施的公共属性与零费用准入，仍需维持严格独立的同行学术质量评审，不能与缺乏同行审议的纯粹个人网络张贴混为一谈。
+> - **边界** 钻石开放获取关注的是出版基础设施的公共属性与零费用准入，仍需维持严格独立的同行学术质量评审，不能与缺乏[[Peer Debriefing|同行审议]]的纯粹个人网络张贴混为一谈。
 
 > [!citation-card] 社区主导出版与 APC 模式的反思
 > 转向钻石开放获取等双向免除研创者与读者费用的机制，抵制商业文章处理费的暴利寻租……消除发文层面的经济壁垒，阻止公共资金向私人出版部门流失。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 6)]]
@@ -75,7 +81,7 @@ updated: 2026-11-04
 ---
 
 > [!feature] 核心要素
-> - **双向零费用结构** 彻底免除阅读端付费墙与生产端 APC 文章处理费，保障无论学者贫富或地区限制均享有平等的知识生产与获取权利。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 6)]]
+> - **双向零费用结构** 彻底免除阅读端付费墙与生产端 APC 文章处理费，保障无论学者贫富或地区限制均享有平等的[[Knowledge Production|知识生产]]与获取权利。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 6)]]
 > - **学术共同体主权与去商业化** 由学术学会、公共研究机构或公益基金直接掌控期刊所有权与同行审阅流程，遏制商业出版寡头的垄断控制。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 6)]]
 > - **阻断公共科研经费外流** 避免各国大学将宝贵的科研经费用以购买高价版面费，使公共资金重新集中于青年人才聘任与长期基础设施建设。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 6)]]
 
@@ -96,15 +102,15 @@ updated: 2026-11-04
 > **出版资本主义异化与经济排斥** 考察营利性开放获取模式对学术公平性的制度扭曲。
 
 > [!claim] [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]]
-> **商业版面费对青年学者发展的掠夺** 菲利普·豪布罗克（Phillip J. Haubrock）与托恩·埃弗茨（Teun Everts）等学者指出，商业顶刊单篇过万美元的版面处理费往往逼近青年学者一整年的薪资水平；强制性开放获取要求将巨额公帑转移给私人出版资本，严重剥夺了高校聘用青年学者与开展长周期探索的财力支持。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 6)]]
+> **商业版面费对[[Early-Career Researchers|青年学者]]发展的掠夺** 菲利普·豪布罗克（Phillip J. Haubrock）与托恩·埃弗茨（Teun Everts）等学者指出，商业顶刊单篇过万美元的版面处理费往往逼近青年学者一整年的薪资水平；强制性开放获取要求将巨额公帑转移给私人出版资本，严重剥夺了高校聘用青年学者与开展长周期探索的财力支持。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 6)]]
 
 > [!claim] Huais et al. (2023)
-> **付费模式对全球南方学者的系统排斥** 帕布罗·瓦伊斯（Pablo Y. Huais）等实证研究证实，基于收费的开放获取模式使得发展中国家学者的国际发表参与度急剧滑坡，形成了按财力分配学术话语权的新型不平等。
+> **付费模式对全球南方学者的系统排斥** 帕布罗·瓦伊斯（Pablo Y. Huais）等实证研究证实，基于收费的开放获取模式使得发展中国家学者的国际发表参与度急剧滑坡，形成了按财力分配学术[[Discourse|话语]]权的新型不平等。
 
 ---
 
 > [!concept-proposition] 命题二｜社区化公共基础设施托底是维系可持续开放科学的必由路径
-> **学术主权回归与公共价值创造** 考察非商业开源期刊网络对科学知识交流生态的重构潜能。
+> **学术主权回归与[[Public Value|公共价值创造]]** 考察非商业开源期刊网络对科学[[Knowledge Exchange|知识交流]]生态的重构潜能。
 
 > [!claim] Bosman et al. (2021)
 > **钻石期刊生态系统规模与制度韧性** 杰罗恩·博斯曼（Jeroen Bosman）等主持的全球钻石开放获取研究调查表明，全球活跃着数万家由学会和大学托管的钻石期刊，承担了大量多语种与区域性知识传播任务；通过建立联合资金池与共享技术架构，钻石模式能够以远低于商业出版的成本实现高质量科研审阅。
@@ -123,7 +129,7 @@ updated: 2026-11-04
 > - **2012 — 概念萌芽与拉美模式启示** 拉美地区依托 SciELO 与 Redalyc 长期推行公共资助全免开放出版，确立非商业开放获取的全球典范。
 > - **2021 — 国际调查确立钻石体系地位** 科学欧洲（Science Europe）与 cOAlition S 资助发布全景调查报告，正式确立“钻石开放获取”（Diamond Open Access）作为未来开放科学核心支柱的政策地位。
 > - **2022 — 发展钻石开放获取布达佩斯行动计划** 跨国学术机构联合签署《钻石开放获取行动呼吁》，倡导公共资金从补贴商业 APC 转向直接投资社区期刊网络。
-> - **2026 — 青年学者学术解放方案** 豪布罗克等在《自然-人类行为》将转向钻石开放获取列为克服学术资本主义掠夺、恢复青年学者平权发展的核心制度变革。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 6)]]
+> - **2026 — 青年学者学术解放方案** 豪布罗克等在《自然-人类行为》将转向钻石开放获取列为克服[[Academic Capitalism|学术资本主义]]掠夺、恢复青年学者平权发展的核心制度变革。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 6)]]
 
 ---
 

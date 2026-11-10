@@ -7,7 +7,7 @@ summary: "澳大利亚莫纳什大学教育学教授与莫纳什 Q 项目负责�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 21
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -23,8 +23,11 @@ related_concepts:
   - "[[International Education]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Research Utilization]]"
+  - "[[Appropriate Research]]"
   - "[[Phronesis]]"
+  - "[[Thoughtful Engagement]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
@@ -49,7 +52,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -78,7 +81,7 @@ updated: 2026-10-26
 > - **2017 — *What Can Evidence-Use in Practice Learn from Evidence-Use in Policy?*** 跨界比较卫生、社会政策与教育领域[[Research Utilization\|证据使用]]，提炼实践端学习政策端证据治理的经验框架。
 > - **2020 — *[[Quality Use of Research Evidence Framework]]*** 正式提出 QURE 理论框架，界定核心要素、个体使能、组织使能与系统影响的四层结构。
 > - **2021 — *Using Research Well in Australian Schools*** 基于澳大利亚学校实证调查，系统描绘教师与校长视角下的高质量研究使用表征与实践阻碍。
-> - **2022 — *A Framework for Understanding the Quality of Evidence Use in Education*** 在《教育研究》（*Educational Research*）发表奠基性同行评议期刊论文，详述跨越卫生、社会关照、教育与政策四大领域的[[Systematic Review\|系统综述]]与[[Narrative Synthesis\|叙事综合]]，确立 QURE 框架的适切证据与审慎实施双核以及多层使能结构。（[[Argument_Rickinson_2022_EducRes\|Rickinson, Cirkony, et al., 2022, pp. 133–158]]）
+> - **2022 — *A Framework for Understanding the Quality of Evidence Use in Education*** 在《教育研究》（*Educational Research*）发表奠基性同行评议期刊论文，详述跨越卫生、社会关照、教育与政策四大领域的[[Systematic Review\|系统综述]]与[[Narrative Synthesis\|叙事综合]]，确立 QURE 框架的[[Appropriate Research|适切证据]]与审慎实施双核以及多层使能结构。（[[Argument_Rickinson_2022_EducRes\|Rickinson, Cirkony, et al., 2022, pp. 133–158]]）
 > - **2022 — *Using Research Well in Educational Practice*** 在[[OECD\|经合组织]]（OECD）研究专著第九章全面阐释高质量研究使用理论，公布全澳 906 名教育者的大规模实证发现与系统变革启示。（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al., 2022, pp. 182–199]]）
 
 ---
@@ -89,12 +92,12 @@ updated: 2026-10-26
 > [!citation-card] [[Quality Use of Research Evidence Framework\|高质量研究使用]]界定
 > 高质量研究证据使用是在复杂系统内，由个体与组织使能成分的协同融合所支持的对适切研究证据的审慎参与和实施。（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al., 2022, p. 185]]）
 >
-> *Thoughtful engagement with and implementation of appropriate research evidence, supported by a blend of individual and organisational enabling components within a complex system.*
+> *[[Thoughtful Engagement|Thoughtful engagement]] with and implementation of appropriate research evidence, supported by a blend of individual and organisational enabling components within a complex system.*
 
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 开辟了教育[[Knowledge Mobilisation\|知识动员]]研究中从“证据生产供给”转向“[[Research Utilization\|证据使用]]质量”的新分析纲领，为理解实践端循证行为提供了理论透镜。
+> - **理论路径** 开辟了教育[[Knowledge Mobilisation\|知识动员]]研究中从“证据生产供给”转向“[[Research Utilization\|证据使用]]质量”的新分析纲领，为理解实践端循证行为提供了[[Theoretical Standpoint|理论透镜]]。
 > - **方法路径** 结合跨领域[[Systematic Review\|系统综述]]、质性[[Qualitative Interview\|质性访谈]]分析（Braun & Clarke 法典式编码）与大规模[[Questionnaire\|问卷调查]]，树立了研究利用领域多阶段[[Mixed Methods Research\|混合方法研究]]的设计典范。
 > - **政策路径** [[Quality Use of Research Evidence Framework\|QURE]] 框架被[[OECD\|经合组织]]（OECD）“[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]”采纳为跨国政策调查的核心理论支柱，广泛影响欧美与亚太国家的教育证据治理政策。（[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, p. 24]]）
 

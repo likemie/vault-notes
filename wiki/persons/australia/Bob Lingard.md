@@ -7,10 +7,10 @@ summary: "澳大利亚与英国著名教育政策社会学家，澳大利亚社�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 49
-person_related_level: 4
-person_related_stars: "💎⭐"
-person_related_color: "#fce7f3"
+person_related_count: 50
+person_related_level: 5
+person_related_stars: "💎⭐⭐"
+person_related_color: "#ffedd5"
 born: "1949"
 died: ""
 lifespan: "1949–至今"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Rich and Thick Description]]"
   - "[[Paradigm]]"
+  - "[[Transnational Education]]"
   - "[[Economic Fundamentalism]]"
   - "[[Network Governance]]"
   - "[[Recontextualization]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-07
-updated: 2026-10-27
+updated: 2026-11-11
 ---
 
 ---
@@ -106,7 +107,7 @@ updated: 2026-10-27
 ---
 
 > [!work-line] 主要著作
-> - **2001 — *The [[OECD]], Globalisation and Education Policy*（与 Henry, Rizvi, Taylor 合著）** 首次系统解构经合组织从二战后技术官僚协商平台演变为具有自主议程的跨国教育政策行动者的制度轨迹，奠定全球教育治理批判研究的基石。
+> - **2001 — *The [[OECD]], Globalisation and Education Policy*（与 Henry, Rizvi, Taylor 合著）** 首次系统解构经合组织从二战后技术官僚协商平台演变为具有自主议程的[[Transnational Education|跨国教育]]政策行动者的制度轨迹，奠定全球教育治理批判研究的基石。
 > - **2009 — "The OECD and Global Shifts in Education Policy"（与 [[Fazal Rizvi]] 合著）** 系统对比 1960–1990 年社会民主主义多元妥协与 1990 年代中期后新自由主义转向；提出[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]概念，揭示 [[PISA]] 构筑[[Space of Equivalence|等值空间]]与社会公平被[[Economic Fundamentalism|经济基要主义]]工具化收编的深层机制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 437–453)]]
 > - **2010 — *Globalizing Education Policy*（与 [[Fazal Rizvi]] 合著）** 构建全球化教育政策分析的完整理论与方法论框架，系统梳理从民族国家科层统辖转向跨国[[Network Governance|网络治理]]的演进逻辑，解析新自由主义想象在学校、教师与课程中的[[Recontextualization|再脉络化]]。
 > - **2011 — "Bourdieu and Educational Research: Thinking with and Beyond Bourdieu"（与 Shaun Rawolle 合著）** [[Creativity|创造性]]运用[[Pierre Bourdieu|布迪厄]]场域理论，正式提炼出相对自主的[[Global Educational Policy Field|全球教育政策场域]]分析模型。[[Argument_Xie_Li_Huang_2021_GEO|(Lingard & Rawolle, 2011; Xie et al., 2021, p. 421)]]

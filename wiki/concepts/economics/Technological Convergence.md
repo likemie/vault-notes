@@ -9,10 +9,10 @@ aliases:
 summary: "技术经济学与工程教育的核心理论命题，由内森·罗森伯格提出，指在通用目的技术扩散过程中，原本相互割裂的工业部门与学科领域逐渐汇聚于共同的底层科学原理、制造工艺、工程技能体系与标准物理界面上，为高等工程教育课程标准化与跨行业工程人才流动奠定基础。"
 type: concept
 domain: "economics"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/technological-change
   - theme/engineering-education
@@ -34,6 +34,7 @@ related_concepts:
 related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Human Capital Theory]]"
+  - "[[Convergence Theory in Comparative Education]]"
   - "[[Path Dependence]]"
 related_methods:
   - "[[Effect Size]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -124,7 +125,7 @@ updated: 2026-11-03
 
 ---
 
-> [!dev-timeline] 技术趋同理论的历史演进历程
+> [!dev-timeline] 技术[[Convergence Theory in Comparative Education|趋同理论]]的历史演进历程
 > - **1963年 — 机床工业技术趋同假说提出** 内森·罗森伯格在分析 19 世纪美国机械工业时首次提出“技术趋同”（Technological Convergence），指出机床技术使枪械、自行车、缝纫机制造等异质行业在机械加工方法上走向统一。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, p. 180)]]
 > - **1960–1970年代 — 微电子与数字技术驱动的趋同** 硅平面工艺与集成电路的崛起，使罗森伯格的理论在电子信息产业中全面复现，跨行业技术基础由机械切削趋同为硅微电子芯片。
 > - **1990年代 — [[General Purpose Technology|通用目的技术]]（GPT）理论融合** 布雷斯纳汉与特拉滕伯格（Bresnahan & Trajtenberg）等学者将技术趋同概念正式纳入通用目的技术经济学模型中。

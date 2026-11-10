@@ -6,10 +6,10 @@ aliases:
 summary: "由 Helgetun & Menter 提出的教育治理范式概念，指教育政策合法化超越单纯依靠量化指标的测量时代，演进为借助学术引用、国际最佳实践、医学类比与随机对照试验等多维证据修辞确立正当性的治理新阶段"
 type: concept
 domain: "educational-policy-reform"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - educational-policy-reform
   - evidence-based-education
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Document]]"
   - "[[Reflexivity]]"
+  - "[[Problematisation]]"
   - "[[Performance Indicators]]"
   - "[[Causality]]"
   - "[[Policy Borrowing]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -69,7 +70,7 @@ updated: 2026-11-03
 > [!citation-card] 从测量时代向证据时代的范式演进
 > 证据时代比测量时代更为贴切，因为政策的新型合法化形式根植于研究[[Document|文献]]、经验观察与教育[[Reflexivity\|反思性]]论证的综合体，其范畴远超大规模数据测量本身；尽管大规模数据仍居于核心，但它不再单独发挥作用。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 96)]]
 >
-> *The term 'evidence era' has become more apt than 'age of measurement' to indicate how even though large-scale data uses are still central, they are not alone, and require new forms of problematization.*
+> *The term 'evidence era' has become more apt than 'age of measurement' to indicate how even though large-scale data uses are still central, they are not alone, and require new forms of [[Problematisation|problematization]].*
 
 > [!boundary]- 概念边界
 > - 不等于 测量时代（Age of Measurement） — 测量时代的核心支柱是大规模标准化测验、[[Performance Indicators\|绩效指标]]与量化审计监控；证据时代则将测量数据整合进更庞大的[[Evidence Network\|证据网络]]中，吸收了学术文章引用、临床实践模式与[[Causality\|因果推断]]实验。

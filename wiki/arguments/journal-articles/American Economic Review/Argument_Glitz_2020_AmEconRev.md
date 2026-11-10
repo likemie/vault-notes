@@ -39,6 +39,7 @@ related_methods:
   - "[[Fixed-Effect Model]]"
   - "[[Perpetual Inventory Method]]"
   - "[[Shift-Share Instrument]]"
+  - "[[Instrumental Variables]]"
   - "[[Ordinary Least Squares]]"
   - "[[Standard Error]]"
   - "[[Cost-Benefit Analysis]]"
@@ -50,14 +51,14 @@ sources:
 part_of:
 status: draft
 created: 2026-06-26
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Glitz_2020_AmEconRev"
 argument_key: "Argument_Glitz_2020_AmEconRev"
 argument_display_title: "Industrial Espionage and Productivity"
 argument_kind: "journal-article"
-argument_related_count: 22
+argument_related_count: 23
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -171,7 +172,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim|step] 论证步骤一：识别策略——从面板固定效应到工具变量
+> [!claim|step] 论证步骤一：识别策略——从面板固定效应到[[Instrumental Variables|工具变量]]
 > 面板[[Fixed-Effect Model\|固定效应模型]]的 [[Ordinary Least Squares\|OLS]] 估计可能因遗漏[[Variable\|变量]]和测量问题产生偏误，需要通过工具变量策略建立情报流入对 [[Total Factor Productivity\|TFP]] 差距缩小的因果效应。
 
 > [!chain-link] 证据到判断

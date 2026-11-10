@@ -9,7 +9,7 @@ aliases:
 summary: "一种主张真正知识唯独建立在感官经验、观察与实验基础之上的认识论立场，预设自然与社会遵循同质客观法则；在启蒙发轫期曾从属于全人道德教化与社会改良，而在20世纪演化为追求价值中立与法则概括的统治性实证范式。"
 type: concept
 domain: "educational-philosophy"
-related_count: 143
+related_count: 145
 related_level: 14
 related_stars: "💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -82,6 +82,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Neo-Taylorism]]"
   - "[[Performance Indicators]]"
+  - "[[Transnational Education]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Critical Theory]]"
@@ -108,6 +109,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Sample Size Determination]]"
+  - "[[Cognitive Extent]]"
   - "[[Qualitative Research]]"
   - "[[Intervention Research]]"
   - "[[Correlational Research]]"
@@ -171,7 +173,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ## 定义
@@ -354,7 +356,7 @@ updated: 2026-11-03
 > **历史维度流失与学科失忆诊断** 该维度关注实证唯方法论主义垄断如何导致历史学方法被急剧边缘化，使学科失去审视制度起源与文化积淀的批判反思力。
 
 > [!claim] Kazamias, A. M.
-> **历史比较研究骤降与实证霸权下的[[Historical Amnesia|历史健忘症]]** 卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）结合[[Val D. Rust|瓦尔·拉斯特]]（Val D. Rust）团队与[[Marianne Larsen|玛丽安·拉森]]（Marianne Larsen）的[[Document|文献]]计量数据指出，实证唯方法论主义对跨国变量与短期经验数据的偏执，导致英美旗舰期刊（CER、CE、IJED）中历史比较研究成果份额从战前的绝对主导急剧跌至不足 5%；学科深陷“历史健忘症”（Historical Amnesia），切断了与历史意识、文化传统与哲学反思的联系，使比较研究退化为无根的技术应用。卡扎米亚斯力倡复兴历史假说检验，重申历史学与社会科学的辩证统一。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 155–156)]]
+> **历史比较研究骤降与实证霸权下的[[Historical Amnesia|历史健忘症]]** 卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）结合[[Val D. Rust|瓦尔·拉斯特]]（Val D. Rust）团队与[[Marianne Larsen|玛丽安·拉森]]（Marianne Larsen）的[[Document|文献]]计量数据指出，实证唯方法论主义对跨国变量与短期经验数据的偏执，导致英美旗舰期刊（CER、[[Cognitive Extent|CE]]、IJED）中历史比较研究成果份额从战前的绝对主导急剧跌至不足 5%；学科深陷“历史健忘症”（Historical Amnesia），切断了与历史意识、文化传统与哲学反思的联系，使比较研究退化为无根的技术应用。卡扎米亚斯力倡复兴历史假说检验，重申历史学与社会科学的辩证统一。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 155–156)]]
 
 ---
 
@@ -375,7 +377,7 @@ updated: 2026-11-03
 实证主义从 17 世纪的归纳思想萌芽，历经启蒙现代性、工业革命体系化、20 世纪[[Paradigm|范式]]危机，直至当代新实证主义回潮，呈现出波澜壮阔的思想图景。
 
 > [!timeline] 思想演进脉络
-> - **17 世纪 — 培根经验归纳法奠定近代科学基础** [[Francis Bacon\|弗朗西斯·培根]]提出唯有经验观察与渐进归纳才能排除心智偏见，为后世实证主义奠定了反经院形而上学的方法论胚胎。
+> - **17 世纪 — [[Francis Bacon|培根]]经验归纳法奠定近代科学基础** [[Francis Bacon\|弗朗西斯·培根]]提出唯有经验观察与渐进归纳才能排除心智偏见，为后世实证主义奠定了反经院形而上学的方法论胚胎。
 > - **1810–1830 年代 — 启蒙现代性准实证构想与道德改良引领** 朱利安与孔德坚信[[Scientific Method\|科学方法]]可推广至社会事务；朱利安创立比较教育分析图表与跨国[[Questionnaire\|问卷]]，其实证操作始终归属于欧陆二级[[Geisteswissenschaften|精神科学]]并服从于全人教化与教育改良。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009)]]
 > - **1830–1850 年代 — 孔德确立实证哲学[[Epistemology\|认识论]]总纲** 孔德出版六卷本《实证哲学教程》，系统确立神学—形而上学—实证三阶段法则，确立社会物理学/社会学的独立学科地位与跨领域方法论统一假设。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 113)]]
 > - **20 世纪前半叶 — 逻辑实证主义鼎盛与波普尔[[Falsification\|证伪主义]]超越** 维也纳学派追求经验证实与物理主义统一语言；波普尔（[[Karl Popper]]）提出证伪原则打破归纳证实神话，推动实证主义由粗糙证实走向批判理性主义。
@@ -475,4 +477,4 @@ updated: 2026-11-03
 > - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart and Towne (2003)]] — 系统考证 2000–2003 年美国联邦立法中法定实证主义与后实证科学原则的历史争鸣。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025, Ch. 14–15)]] — 阐述“极致狐狸”工程实证[[Epistemology|认识论]]，以客观物理运行与解决公共物理苦难为裁判，解构刺猬型教条与奢侈信念。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 从[[Niklas Luhmann|卢曼]]二阶观察与[[Phenomenology|现象学]]批判哈蒂《可见的学习》背后的评价实证主义与“超实证可见性意识形态”，揭示其将具身心智降解为表象化[[Performance Indicators|绩效指标]]的认识论盲点与规范遮蔽（pp. 3–10）。
-> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026, pp. 341, 346–348)]] — 解构跨国教育治理中全球教育证据顾问小组（[[Global Education Evidence Advisory Panel|GEEAP]]）所标榜的实证绝对客观性神话，揭示“[[Smart Buys|智能购买]]”等成本效益排序对地方制度土壤的剥离与实证主义采购清单异化。
+> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026, pp. 341, 346–348)]] — 解构[[Transnational Education|跨国教育]]治理中全球教育证据顾问小组（[[Global Education Evidence Advisory Panel|GEEAP]]）所标榜的实证绝对客观性神话，揭示“[[Smart Buys|智能购买]]”等成本效益排序对地方制度土壤的剥离与实证主义采购清单异化。

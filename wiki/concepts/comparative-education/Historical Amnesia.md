@@ -7,7 +7,7 @@ aliases:
 summary: "指学术学科或产业精英在特定知识生产与意识形态驱动下，主动割裂、边缘化乃至集体遗忘制度生成演化史与公共奠基传统的病理状态；既表现为比较教育学在实证量化狂潮中放逐历史编纂法与长时段历史意识，亦表现为硅谷科技巨头抹杀国家公共研发投资奠基作用的自由市场神话。"
 type: concept
 domain: "comparative-education"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -36,6 +36,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Historical-Comparative Method]]"
+  - "[[Cognitive Extent]]"
 related_instruments: []
 related_persons:
   - "[[Marianne Larsen]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -77,7 +78,7 @@ updated: 2026-11-02
 > - **边界** 历史健忘症不反对量化实证工具或商业市场活力，是反对以牺牲历史反思与公共责任为代价的单向唯技术主义与意识形态漂白。
 
 > [!citation-card] 比较教育学深陷历史健忘症的确证
-> 根据一项最新研究，对 1955 至 1994 年间比较教育研究策略的调查表明，在《[[International Education|国际教育]]发展杂志》（IJED）、《比较教育》（CE）和《比较教育评论》（CER）三大国际旗舰期刊近 2000 篇文章中，仅有 10.5% 的文章依赖史学编纂与历史研究；更为令人失望的是：从 1985 到 1995 年，发表的历史性研究文章占比已不足 5%。这种严峻现状促使一位评论者指出，我们的领域正严重患上‘历史健忘症’。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 156)]]
+> 根据一项最新研究，对 1955 至 1994 年间比较教育研究策略的调查表明，在《[[International Education|国际教育]]发展杂志》（IJED）、《比较教育》（[[Cognitive Extent|CE]]）和《比较教育评论》（CER）三大国际旗舰期刊近 2000 篇文章中，仅有 10.5% 的文章依赖史学编纂与历史研究；更为令人失望的是：从 1985 到 1995 年，发表的历史性研究文章占比已不足 5%。这种严峻现状促使一位评论者指出，我们的领域正严重患上‘历史健忘症’。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 156)]]
 >
 > *According to a recent study, '[[Research Strategies in Comparative Education]] from 1955 to 1994 revealed that only 10.5 per cent of almost 2000 articles in the International Journal of Educational Development, Comparative Education and Comparative Education Review relied on historiography and historical research'. And, even more disappointing: 'From 1985–1995, less than 5 per cent of all articles published were characterized as historical studies'. This state of affairs has prompted one commentator to observe that our [[Champ|field]] suffers from 'historical amnesia' (Larsen, 2001).*
 

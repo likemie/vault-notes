@@ -12,7 +12,7 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -25,7 +25,9 @@ tags:
   - theme/cultural-center
 related_concepts:
   - "[[Public Diplomacy]]"
+  - "[[Study Abroad]]"
   - "[[Public-Private Partnership]]"
+  - "[[Early-Career Researchers]]"
   - "[[Language Skills]]"
   - "[[Grandes Ecoles]]"
   - "[[Open-Mindedness]]"
@@ -40,18 +42,18 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 项目定位
-> 美国空间（American Spaces）是美国国务院教育与文化事务局（Bureau of Educational and Cultural Affairs, ECA）在全球协调运营的旗舰[[Public Diplomacy|公共外交]]实体网络，依托遍布全球 140 多个国家的 600 余处实体场所，为外国公众提供关于美国的官方资讯、学术资源检索、英语技能教学以及赴美留学（EducationUSA）权威咨询服务。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 29–32)]]
+> 美国空间（American Spaces）是美国国务院教育与文化事务局（Bureau of Educational and Cultural Affairs, ECA）在全球协调运营的旗舰[[Public Diplomacy|公共外交]]实体网络，依托遍布全球 140 多个国家的 600 余处实体场所，为外国公众提供关于美国的官方资讯、学术资源检索、英语技能教学以及赴美[[Study Abroad|留学]]（EducationUSA）权威咨询服务。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 29–32)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 始于二战时期的 1941 年，冷战时期作为对抗苏联宣传的核心阵地，进入 21 世纪后转入常态化品牌整合期并持续运营至今。
 > - **发起方与资助机制** 由美国国务院牵头统筹，联合驻外使领馆直接拨款，或与东道国大学、市政图书馆及民间非营利基金会采取[[Public-Private Partnership|公私伙伴关系]]（Public-Private Partnerships）联合出资维护。
-> - **覆盖范围与对象** 全球覆盖逾 600 处实体网点；在南亚与中亚 13 国设有 92 处活跃站点，覆盖当地青年学生、青年学者、媒体记者及民间社团领袖。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 30–31)]]
+> - **覆盖范围与对象** 全球覆盖逾 600 处实体网点；在南亚与中亚 13 国设有 92 处活跃站点，覆盖当地青年学生、[[Early-Career Researchers|青年学者]]、媒体记者及民间社团领袖。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 30–31)]]
 > - **核心问题导向** 通过实体面对面互动与优质教育资源开放，传播美国民主价值观与开放知识理念，对抗竞争性大国的叙事扩张，培育认同自由开放秩序的本土新一代精英。
 
 ---

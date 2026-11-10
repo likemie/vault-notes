@@ -4,13 +4,14 @@ aliases: [终结性课程, 终结课程, terminal course]
 summary: "面向学生在某领域最后一次正式学习的课程设计，强调知识应用、持续兴趣和全人教育，而非预设后续专业学习。"
 type: concept
 domain: "curriculum"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 tags: [theme/curriculum-design, theme/whole-person-education]
 related_concepts:
   - "[[International Baccalaureate]]"
+  - "[[Study Abroad]]"
   - "[[Student Motivation]]"
   - "[[Teacher Support for Students]]"
 related_persons:
@@ -26,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -61,7 +62,7 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题二｜保留学科深度能够为问题导向的综合课程提供基础
+> [!concept-proposition] 命题二｜保[[Study Abroad|留学]]科深度能够为问题导向的综合课程提供基础
 > **学科边界与课程次序** 跨学科学习的适宜阶段，取决于学生已有的学习基础和课程用途，不能只由学科名称决定。
 
 跨领域问题可以进入终结性课程，但仍需说明它怎样与专门学习配合。

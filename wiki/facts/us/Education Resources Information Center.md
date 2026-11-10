@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 25
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: "government-database"
 headquarters: "Washington, D.C., USA"
@@ -30,14 +30,17 @@ related_concepts:
   - "[[International Education]]"
   - "[[Publication Bias]]"
   - "[[Comprehensive Education]]"
+  - "[[Abstract]]"
   - "[[Literature Search]]"
   - "[[Internal Validity]]"
+  - "[[Research Utilization]]"
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"
   - "[[Experimental Research]]"
   - "[[Correlational Research]]"
   - "[[Effect Size]]"
+  - "[[Instrumental Variables]]"
   - "[[Meta-analysis]]"
 related_instruments: []
 related_persons:
@@ -50,6 +53,8 @@ related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[What Works Clearinghouse]]"
   - "[[Evidence for ESSA]]"
+  - "[[Scopus]]"
+  - "[[Web of Science]]"
   - "[[National Center for Education Evaluation and Regional Assistance]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Education Endowment Foundation]]"
@@ -59,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -79,7 +84,7 @@ updated: 2026-11-10
 > - **1964–1970 年代 — 分散清算所网络奠基期** 初期采取分布式网络架构，在全美知名大学与科研机构设立十余个专业分科清算所（Clearinghouses，如阅读、初等教育、测试评价、高等教育等），负责分头采集并加工特定学科领域的学术文献与灰色报告。
 > - **1980–1990 年代 — 光盘索引向互联网检索转型** 引入计算机微缩胶片与光盘检索（CD-ROM），随后全面接入万维网，发布《ERIC 叙词表》（Thesaurus of ERIC Descriptors），成为[[International Education|国际教育]]实证研究通用的受控标引规范。
 > - **2002–2004 年 — [[Institute of Education Sciences|IES]] 成立与中央集权化重构** 随着美国通过《2002 年[[Education Sciences Reform Act 2002|教育科学改革法]]》设立 IES，联邦政府撤并了分散在各大学的 16 个专业清算所，将采购、编目与网络运维集中化，建立了统一管理的单点在线门户与更严格的同行评议文献遴选标准。
-> - **2015 年至今 — [[Every Student Succeeds Act|ESSA]] 循证浪潮下的公共证据中枢** 作为免费公开的国家公共数字文献库，与 [[What Works Clearinghouse|WWC]]、[[Evidence for ESSA]] 等专用证据分级平台相互补充，成为学区管理者与科研人员检索因果[[Experimental Research|实验研究]]与全量证据体的基础平台；在国际教育研究中，与 Scopus、Web of Science 并列为开展跨国[[Systematic Review|系统综述]]的三大核心检索数据源。[[Argument_Ginsberg_2024_EducPolicy|(Ginsberg et al., 2024, p. 171)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 4)]]
+> - **2015 年至今 — [[Every Student Succeeds Act|ESSA]] 循证浪潮下的公共证据中枢** 作为免费公开的国家公共数字文献库，与 [[What Works Clearinghouse|WWC]]、[[Evidence for ESSA]] 等专用证据分级平台相互补充，成为学区管理者与科研人员检索因果[[Experimental Research|实验研究]]与全量证据体的基础平台；在国际教育研究中，与 [[Scopus]]、[[Web of Science]] 并列为开展跨国[[Systematic Review|系统综述]]的三大核心检索数据源。[[Argument_Ginsberg_2024_EducPolicy|(Ginsberg et al., 2024, p. 171)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 4)]]
 
 ---
 
@@ -109,7 +114,7 @@ updated: 2026-11-10
 ---
 
 > [!indicators] 影响力维度与指标
-> - **资源与网络规模** 累积收录逾 170 万篇文献摘要记录，年访问与查询检索量达数千万次，收录覆盖全球数十个国家出版的英语言及双语教育文献。
+> - **资源与网络规模** 累积收录逾 170 万篇[[Abstract|文献摘要]]记录，年访问与查询检索量达数千万次，收录覆盖全球数十个国家出版的英语言及双语教育文献。
 > - **学术与证据生产基底** 被国际各大循证证据机构、Campbell 协作网及 Cochrane 系统综述列为跨学科检索的强制必选文献库。
 > - **政策与实践渗透** 为全美各州教育厅和地方学区落实 ESSA 循证采购提供零门槛的基础检索支撑。
 
@@ -130,7 +135,7 @@ updated: 2026-11-10
 > > 关于 ERIC 与 [[What Works Clearinghouse|WWC]] / [[Evidence for ESSA]] 等专用证据平台职能定位的辨析。
 > >
 > > - **证据库广度优势（文献发现中枢）** [[Mark Ginsburg|金斯伯格]]等（[[Argument_Ginsberg_2024_EducPolicy|Ginsberg et al., 2024, p. 171]]）在审计学区 [[Title I of the Elementary and Secondary Education Act|Title I]] 采购实践时，将 ERIC 与 WWC、Evidence for [[Every Student Succeeds Act|ESSA]] 及 [[Education Endowment Foundation|EEF]] 并列为 4 个核心检索来源。相比后三者只收录经过严格因果质评过滤的少数标准化项目，ERIC 能够提供跨越各细分学科与边缘形态的更广泛实证文献。
-> > - **证据评级缺位（实践筛选门槛高）** ERIC 本质上是[[Literature Search|文献检索]]与索引系统，不提供类似 WWC 的因果[[Effect Size|效应量]]、挂锁评级或 ESSA Tier I–IV 官方认证标志。一线中小学管理者若缺乏足够的科研素养，极难从数千篇相互冲突的检索结果中辨析研究设计的[[Internal Validity|内部效度]]与偏倚风险。
+> > - **证据评级缺位（实践筛选门槛高）** ERIC 本质上是[[Literature Search|文献检索]]与索引系统，不提供类似 WWC 的因果[[Effect Size|效应量]]、挂锁评级或 ESSA Tier I–[[Instrumental Variables|IV]] 官方认证标志。一线中小学管理者若缺乏足够的科研素养，极难从数千篇相互冲突的检索结果中辨析研究设计的[[Internal Validity|内部效度]]与偏倚风险。
 
 ---
 
@@ -148,4 +153,4 @@ updated: 2026-11-10
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Ginsberg_2024_EducPolicy|Ginsberg et al. (2024)]] — 以 2.88 亿美元学区采购实证审计，将 ERIC 与 WWC、Evidence for ESSA、EEF 并列为学区循证采购检索的四大公共证据源（p. 171）。
-> - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 将 ERIC 与 Scopus、Web of Science 并列为开展中小学教师与领导者研究使用全景系统综述的三大核心学术数据库（p. 4）。
+> - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 将 ERIC 与 Scopus、Web of Science 并列为开展中小学教师与领导者[[Research Utilization|研究使用]]全景系统综述的三大核心学术数据库（p. 4）。

@@ -9,7 +9,7 @@ subtype: organization
 region: denmark
 fact_region: "denmark"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Paradigm]]"
+  - "[[Transnational Education]]"
   - "[[Return on Investment]]"
   - "[[Knowledge Mediation]]"
   - "[[Incubation]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -112,7 +113,7 @@ updated: 2026-11-02
 > [!indicators] 影响力维度与指标
 > - **欧陆先驱示范** 在欧洲大陆率先落地[[Systematic Review\|系统综述]]机制，摆脱了长期以来对英美英语平台（如英国 [[EPPI-Centre]]、美国 [[What Works Clearinghouse\|WWC]]）的被动依赖([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 32]])。
 > - **北欧政策渗透** 撰写的综述结论被丹麦议会辩论与教育部白皮书频繁征引，推动了北欧从意识形态争论向实证证据知情的[[Paradigm\|范式]]转型。
-> - **跨国协作贡献** 成为泛欧 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 跨国网络中活跃的核心发起成员，积极探索跨国教育证据的共享与转译。
+> - **跨国协作贡献** 成为泛欧 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 跨国网络中活跃的核心发起成员，积极探索[[Transnational Education|跨国教育]]证据的共享与转译。
 
 > [!stat-cards]- 机构演进与存续关键指标
 > - **2006–2017** 存续历经 **11 年**，成为非英语国家[[Educational Evidence Clearinghouses\|证据清算中心]]从创生到夭折的完整标本

@@ -7,7 +7,7 @@ aliases:
 summary: "由安德鲁·范德文与保罗·约翰逊（2006）开创的学术探究范式，主张将理论与实践的脱节界定为知识生产方式问题，通过学者与实践者在复杂现实问题上的平等合作与协同探究，从源头上弥合学术象牙塔与实践现场的制度与认识论鸿沟。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -46,6 +46,7 @@ related_theories: []
 related_methods:
   - "[[Design-Based Research]]"
   - "[[Classroom Observation]]"
+  - "[[Journal Impact Factor]]"
   - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -131,7 +132,7 @@ updated: 2026-11-03
 > **学术激励机制对[[Knowledge Co-production\|知识共创]]的挤压** 探讨为何参与式学术受到广泛政策倡导，但在大学体制内却遭遇普遍的制度性冷遇。
 
 > [!claim] Cherney et al. (2012) / Burkhardt and Schoenfeld (2021) / [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]]
-> **学术激励错位遏制协同参与** 大学内部的职称晋升、聘任考核与科研资源分配高度依赖在高影响因子学术期刊上的文章发表。参与式学术需要研究者深入实践基层，投入大量的时间与情感劳动以建立人际互信、协调组织矛盾并解决微观学情难题。然而，这些耗费巨大精力的合作过程在现行绩效评价中难以折算为有效业绩，导致学术人员面临参与协同的严重机会成本，驱使学者避开深层合作而回归纯书斋式发表。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 22)]]
+> **学术激励错位遏制协同参与** 大学内部的职称晋升、聘任考核与科研资源分配高度依赖在高[[Journal Impact Factor|影响因子]]学术期刊上的文章发表。参与式学术需要研究者深入实践基层，投入大量的时间与情感劳动以建立人际互信、协调组织矛盾并解决微观学情难题。然而，这些耗费巨大精力的合作过程在现行绩效评价中难以折算为有效业绩，导致学术人员面临参与协同的严重机会成本，驱使学者避开深层合作而回归纯书斋式发表。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 22)]]
 
 ---
 

@@ -10,7 +10,7 @@ aliases:
 summary: "打破按能力或社会阶层过早分流、在统一学校内向所有适龄学生提供相同或共通基础课程的教育组织原则；欧洲战后普遍通过综合化改革促进教育民主化与社会融合，但其实施过程中在追求形式平等与应对学生资质异质性之间持续面临张力。"
 type: concept
 domain: "comparative-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Tracking]]"
   - "[[Dual School System]]"
   - "[[Grade Retention]]"
+  - "[[Professional Interest]]"
   - "[[Champ]]"
   - "[[Academic Achievement]]"
   - "[[Variable]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-11-06
+updated: 2026-11-11
 ---
 
 ---
@@ -58,7 +59,7 @@ updated: 2026-11-06
 > [!citation-card|notitle] [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] 论均质综合教育的局限与平庸化风险
 > 综合教育原则要求在初等与初中阶段实施整合，消除课程与轨道的细节分歧。然而，当这一原则被硬性延伸至 16 岁且强加完全相同的课程时，在缺乏切合实际的分流机制下，极易演变为掩饰不平等与学业冷漠的虚假外壳。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–331)]]
 >
-> *The General Act of Education of 1970 had applied... the comprehensive principle... The 1990 Law, while amplifying obligatory education to 16 years of age also applied to all students up to this age an identical curriculum.*
+> *The [[General Act of Education of 1970]] had applied... the comprehensive principle... The 1990 Law, while amplifying obligatory education to 16 years of age also applied to all students up to this age an identical curriculum.*
 
 > [!boundary]- 概念边界
 > - 区别于 **[[Tracking|学力分轨]]（[[Tracking]]）** — 分轨制主张根据学生能力与意愿在早期分流至学术、技术或职业不同轨道，而综合教育致力于在同一物理空间与核心课程下延缓这种分化。
@@ -106,7 +107,7 @@ updated: 2026-11-06
 > **课程均质性与学业抗拒** 探讨综合教育在延至 14 至 16 岁高龄时，若缺乏弹性化路径，形式上的平等如何异化为大面积的学业失败与厌学情绪。
 
 > [!claim] [[José Luis García Garrido|García Garrido]], J. L.
-> **均质课程导致隐性失败与平庸化** 综合教育原则在早期阶段具有促进教育普及与平等的进步意义；但若将综合教育与义务教育同时硬性延长至 16 岁并强加完全相同的学术课程，就会严重忽视 14 岁以上青少年在志趣、能力与职业倾向上的客观分化。这种脱离现实的做法在学校内部制造了大批缺乏学习兴趣的学业抗拒者（Student Objectors），使初中阶段演变为冲突多发与虚假平等的[[Champ|场域]]，不仅导致极高的学业失败率，更使高[[Academic Achievement|学业成就]]比例受到压制，使整个系统陷入均质平庸。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–331)]]
+> **均质课程导致隐性失败与平庸化** 综合教育原则在早期阶段具有促进教育普及与平等的进步意义；但若将综合教育与义务教育同时硬性延长至 16 岁并强加完全相同的学术课程，就会严重忽视 14 岁以上青少年在[[Professional Interest|志趣]]、能力与职业倾向上的客观分化。这种脱离现实的做法在学校内部制造了大批缺乏学习兴趣的学业抗拒者（Student Objectors），使初中阶段演变为冲突多发与虚假平等的[[Champ|场域]]，不仅导致极高的学业失败率，更使高[[Academic Achievement|学业成就]]比例受到压制，使整个系统陷入均质平庸。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–331)]]
 
 ---
 

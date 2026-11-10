@@ -11,7 +11,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -23,6 +23,7 @@ tags:
   - theme/scientific-literacy
   - theme/public-engagement
 related_concepts:
+  - "[[Early-Career Researchers]]"
   - "[[Chain of Evidence]]"
   - "[[Critical Thinking]]"
   - "[[Document]]"
@@ -42,14 +43,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!policy-context] 组织概况
 > - **发布主体** 2002 年由英国学术界与出版界联合发起成立，总部位于伦敦
-> - **适用对象** 面向全英各级学校师生、青年科研人员、媒体记者、政策制定者及普通公众
+> - **适用对象** 面向全英各级学校师生、[[Early-Career Researchers|青年科研人员]]、媒体记者、政策制定者及普通公众
 > - **政策问题** 面对大众媒体与商业营销中充斥的伪科学宣传、政客对科学证据的选择性断章取义，公众缺乏核实[[Chain of Evidence\|证据链]]的[[Critical Thinking\|批判性思维]]工具，青年学者在应对媒体扭曲时缺乏发声技能
 > - **制度位置** 英国最具社会公信力的独立科学传播与循证问责民间慈善组织（Registered Charity），充当科学界、公众与决策层之间的独立监督看门人
 

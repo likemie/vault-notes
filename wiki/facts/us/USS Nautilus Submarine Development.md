@@ -26,7 +26,6 @@ tags:
   - theme/engineering-mindset
   - region/us
 related_concepts:
-  - "[[Screening Off]]"
   - "[[Reliability]]"
   - "[[Red Tape]]"
   - "[[Engineering Mindset]]"
@@ -38,17 +37,18 @@ related_arguments:
 related_theories:
   - "[[Organizational Culture]]"
 related_facts:
+  - "[[Atomic Energy Commission]]"
   - "[[ASEAN Economic Community]]"
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 项目定位
-> 由美国海军与美国原子能委员会（Atomic Energy Commission, [[ASEAN Economic Community|AEC]]）联合发起、[[Hyman Rickover|海曼·里科弗]]（[[Hyman Rickover|Hyman G. Rickover]]）海军上将直接指挥的颠覆性战略工程；旨在攻克舰载核反应堆小型化与安全控制难题，打造全球第一艘不依赖空气推进（Air-Independent Propulsion, AIP）且具备长期水下航行能力的核动力潜艇。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 183–184)]]
+> 由美国海军与[[Atomic Energy Commission|美国原子能委员会]]（Atomic Energy Commission, [[ASEAN Economic Community|AEC]]）联合发起、[[Hyman Rickover|海曼·里科弗]]（[[Hyman Rickover|Hyman G. Rickover]]）海军上将直接指挥的颠覆性战略工程；旨在攻克舰载核反应堆小型化与安全控制难题，打造全球第一艘不依赖空气推进（Air-Independent Propulsion, AIP）且具备长期水下航行能力的核动力潜艇。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 183–184)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1948 年前后启动反应堆设计论证，1953 年完成陆上样机动力试验，1955 年正式服役并完成历史性潜航。
@@ -63,7 +63,7 @@ updated: 2026-10-30
 
 > [!policy-design] 方案设计
 > - **项目目标** 制造出能够在水下连续潜航数千英里、时速超过 20 节且免遭常规鱼雷与航空兵有效拦截的核动力潜艇。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 184)]]
-> - **关键技术突破** 第一代潜艇热反应堆陆上原型堆（Submarine Thermal Reactor Mark I, S1W）高压密封与辐射[[Screening Off|屏蔽]]、耐压双壳体结构、舰载蒸汽轮机与电力传动系统深度集成。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 183–184)]]
+> - **关键技术突破** 第一代潜艇热反应堆陆上原型堆（Submarine Thermal Reactor Mark I, S1W）高压密封与辐射屏蔽、耐压双壳体结构、舰载蒸汽轮机与电力传动系统深度集成。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 183–184)]]
 > - **工程组织控制** [[Hyman Rickover|里科弗]]推行极端严苛的技术审查与穿透式品控管理，严禁官僚层级拖延与责任推诿，要求关键部件所有供应商直接面对最高质量问责。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 184–185)]]
 
 > [!citation-card] 战术性能的历史性跨越

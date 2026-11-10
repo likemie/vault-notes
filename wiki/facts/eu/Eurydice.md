@@ -10,7 +10,7 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Lifelong Learning]]"
   - "[[European Education Space]]"
+  - "[[Transnational Education]]"
   - "[[Open Method of Coordination]]"
   - "[[Research Utilization]]"
   - "[[Performance Indicators]]"
@@ -36,6 +37,7 @@ related_concepts:
   - "[[Epistemic Infrastructure]]"
   - "[[Subsidiarity Principle]]"
   - "[[Governing by Numbers]]"
+  - "[[Theoretical Standpoint]]"
 related_theories: []
 related_methods:
   - "[[Secondary Analysis]]"
@@ -61,7 +63,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -80,7 +82,7 @@ updated: 2026-11-02
 > [!org-evolution] 组织发展历程
 > - **1980–1995** **信息交换与制度建构期**
 >
->   建立跨国教育政策信息网络原型，聚焦消除成员国间的信息隔阂。
+>   建立[[Transnational Education|跨国教育]]政策信息网络原型，聚焦消除成员国间的信息隔阂。
 >
 >   - **1980** 欧洲理事会通过决议，正式启动 Eurydice 作为欧洲共同体教育信息交换网络。
 >   - **1986** 建立各成员国教育部的官方联络单元（National Units），形成双向信息回流机制。
@@ -158,7 +160,7 @@ updated: 2026-11-02
 > | [[European Education Space]] | Concept | Eurydice 致力于在尊重多样性基础上跨国协同的超国家政策空间。 |
 > | [[Open Method of Coordination]] | Concept | Eurydice 比较数据为之提供情境化支撑的软法治理机制。 |
 > | [[Subsidiarity Principle]] | Concept | 保障成员国教育主权、制约单一排位集权的欧盟宪制原则。 |
-> | [[Governing by Numbers]] | Concept | 揭示 Eurydice 数据与经合组织指标在欧洲治理中双重角色的理论透镜。 |
+> | [[Governing by Numbers]] | Concept | 揭示 Eurydice 数据与经合组织指标在欧洲治理中双重角色的[[Theoretical Standpoint\|理论透镜]]。 |
 > | [[Sotiria Grek]] | Person | [[In-depth Interview\|深度访谈]] Eurydice 核心专家并系统解析其超国家治理功能的学者。 |
 
 ---

@@ -8,7 +8,7 @@ aliases:
 summary: "由彼得·图尔钦（Peter Turchin, 2023）提出并在历史动态学与政治社会学中系统阐述的核心构念，描述高等教育扩张与择优选拔机制导致受过高等教育、具备精英抱负与特权期望的人口供给远超社会现有精英职位容量的结构性失衡状态；在卡普与扎米斯卡（2025）对硅谷技术演进的批判中，精英生产过剩导致拥有贵族式文凭资质却缺乏相应财富基础的新一代高学历工程师，将才智转向开发打车、外卖与社交等生活方式科技，试图在数字空间为自身及同温层模拟贵族阶层的便利生活与虚幻优越感。"
 type: concept
 domain: "sociology-of-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Productization of the Mind]]"
   - "[[Mentorship]]"
+  - "[[Academic Precarity]]"
   - "[[Creativity]]"
   - "[[Innovation Ecosystem]]"
   - "[[Technological Republic]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -72,7 +73,7 @@ updated: 2026-11-03
 > |---|---|---|---|
 > | **分析重点** | 社会结构中候选精英供求失衡引发的政治不稳定与行为异化 | 学术界内部依托研究生低成本维持科研流水线的剥削机制 | 顶尖文凭持有者将智力降格为符合商业市场套利标准的工具 |
 > | **核心机制** | 职位配额固定 vs 文凭供给激增引发阶层地位焦虑与怨恨 | 国家资助与[[Mentorship\|导师制]]驱动科研扩张，缺乏终身教职承接 | 风险规避与期权套利导向金融、咨询与消费软件行业 |
-> | **行为表现** | 转向[[Lifestyle Technology\|生活方式科技]]制造虚幻阶层特权，或形成反体制思潮 | 博士后无限滞留、学术零工化或流向工业界 | 逃避硬科技与公共责任，追求短期微观变现 |
+> | **行为表现** | 转向[[Lifestyle Technology\|生活方式科技]]制造虚幻阶层特权，或形成反体制思潮 | 博士后无限滞留、[[Academic Precarity\|学术零工化]]或流向工业界 | 逃避硬科技与公共责任，追求短期微观变现 |
 
 ---
 

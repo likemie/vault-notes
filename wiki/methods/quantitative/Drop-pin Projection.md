@@ -12,7 +12,7 @@ summary: "一种用于测度与可视化科研人员全生命周期学术发表�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 16
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Heterogeneity]]"
   - "[[Creativity]]"
+  - "[[Sleeping Beauty in Science]]"
 related_theories:
   - "[[Random Impact Rule]]"
 related_methods:
@@ -40,13 +41,15 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Kenneth G. Wilson]]"
-related_facts: []
+related_facts:
+  - "[[Web of Science]]"
+  - "[[American Physical Society]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -71,7 +74,7 @@ updated: 2026-10-30
 > [!method-position] 方法定位
 > - **[[Construct Validity|构念效度]]** 选取发表后十年累积被引数（$c_{10}$）作为图钉高度，平滑了成果面世初期的短期引文噪声，兼顾了科学成果长程检验的稳定性与跨世代横向可比性。
 > - **研究者判断** 学术年龄零点（$t=0$）的界定门槛、十年引用窗口 $c_{10}$ 的选用，以及纳入分析样本的职业持续年限截断（如要求学者生涯跨度不少于 20 年且发文量不少于 20 篇）。
-> - **有效性标准** 依赖于大规模[[Document|文献]]计量数据库（如 Web of Science、APS）中同名学者消歧算法的高精度与高查全率。
+> - **有效性标准** 依赖于大规模[[Document|文献]]计量数据库（如 [[Web of Science]]、[[American Physical Society|APS]]）中同名学者消歧算法的高精度与高查全率。
 > - **不声称回答的问题** 该方法属于纯粹的时序几何映射与描述工具，本身不识别单篇成果取得高引用的微观因果机制，亦不直接解释不同学者个体间的资质[[Heterogeneity|异质性]]。
 
 > [!method-stack] 方法层级
@@ -160,7 +163,7 @@ updated: 2026-10-30
 
 > [!method-limits] 局限与批判反思
 > - **十年时间窗口的滞后性** 依赖十年被引频次 $c_{10}$ 导致无法评价年轻学者最近十年的最新前沿工作，对职业处于上升期的早期研究人员具有系统性分析时滞。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 52–53)]]
-> - **睡美人现象的识别盲区** 对于极少数发表十至二十年内引文极低、数十年后方被后人重新发掘的高延迟唤醒代表作（睡美人成果），$c_{10}$ 高度可能低估其实际历史影响。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 53)]]
+> - **[[Sleeping Beauty in Science|睡美人现象]]的识别盲区** 对于极少数发表十至二十年内引文极低、数十年后方被后人重新发掘的高延迟唤醒代表作（睡美人成果），$c_{10}$ 高度可能低估其实际历史影响。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 53)]]
 
 ---
 

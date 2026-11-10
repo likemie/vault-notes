@@ -9,7 +9,7 @@ summary: "美国哲学家与组织学习学者，反思性实践理论奠基人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 40
+person_related_count: 41
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Discourse]]"
   - "[[Phronesis]]"
   - "[[Independent Variable]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -95,7 +96,7 @@ updated: 2026-11-02
 ---
 
 > [!timeline] 生平与职涯
-> - **1930** 出生于美国马萨诸塞州波士顿，先后就读于耶鲁大学（哲学学士，1951）与哈佛大学（哲学硕士与博士，1955），博士论文师从[[Pragmatic Paradigm|实用主义]]哲学家研究[[John Dewey|杜威]]的探究理论。
+> - **1930** 出生于美国马萨诸塞州波士顿，先后就读于耶鲁大学（哲学学士，1951）与哈佛大学（哲学硕士与博士，1955），[[Doctoral Dissertation|博士论文]]师从[[Pragmatic Paradigm|实用主义]]哲学家研究[[John Dewey|杜威]]的探究理论。
 > - **1950s–1960s** 在理特管理咨询公司（Arthur D. Little）任职，并担任[[Department of Commerce|美国商务部]]国家发明与创新委员会顾问，深入观察工业研发、组织创新与公共政策制定的现实过程。
 > - **1972** 出任麻省理工学院（MIT）城市研究与规划系福特讲席教授，直至 1997 年逝世；期间长期主持组织学习与专业实践研究。
 > - **1974 / 1978** 与克里斯·阿吉里斯合作出版《专业实践中的理论》（*Theory in Practice*）与《组织学习》（*Organizational Learning*），系统界定提倡理论（Espoused Theory）与使用理论（Theory-in-Use）及双环学习。

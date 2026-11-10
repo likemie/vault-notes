@@ -62,6 +62,7 @@ related_concepts:
   - "[[AI Literacy]]"
   - "[[Student Engagement]]"
   - "[[Feedback]]"
+  - "[[Algorithmic Bias]]"
   - "[[Determinism]]"
 related_theories:
   - "[[Extended Mind Theory]]"
@@ -100,14 +101,14 @@ sources:
 part_of:
 status: draft
 created: 2026-09-21
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Du_Yuan_2026_AIS"
 argument_key: "Argument_Du_Yuan_2026_AIS"
 argument_display_title: "Epistemic dependence in AI-mediated learning"
 argument_kind: "journal-article"
-argument_related_count: 70
+argument_related_count: 71
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -402,7 +403,7 @@ issuing_organization: ""
 > *This review positions relational epistemic agency as the normative orientation of AI-mediated learning... The value at stake is not independence from others or tools. Education necessarily involves dependence, and ideals of self-sufficient knowing are both unrealistic and exclusionary. The relevant conception is relational and scaffolded: learners exercise agency through social, material and institutional supports while retaining meaningful capacities to participate in how claims are formed, assessed and accepted. This position extends work on relational autonomy and hybrid human–AI learning.*
 
 > [!citation-card] 分布式责任伦理与认识正义
-> 学习者固然应当对所提交的知识主张承担责任，但这种责任只有在他们享有充分知情权与控制权时才具有公正性。强推或将人工智能常态化的高校机构、设计依赖人工智能考核任务的教师，以及掌控模型算法规则的技术供应商，同样在深刻塑形着这一认识关系。因此，关系性视角必须以分布式责任彻底取代孤立个体用户的虚妄假设。治理规程应当明确界定：在信息来源追溯、算法偏差纠正、技术可及性保障、数据合规使用、模型动态更新以及考评环境构建中，究竟谁应当向公众负责。
+> 学习者固然应当对所提交的知识主张承担责任，但这种责任只有在他们享有充分知情权与控制权时才具有公正性。强推或将人工智能常态化的高校机构、设计依赖人工智能考核任务的教师，以及掌控模型算法规则的技术供应商，同样在深刻塑形着这一认识关系。因此，关系性视角必须以分布式责任彻底取代孤立个体用户的虚妄假设。治理规程应当明确界定：在信息来源追溯、[[Algorithmic Bias|算法偏差]]纠正、技术可及性保障、数据合规使用、模型动态更新以及考评环境构建中，究竟谁应当向公众负责。
 >
 > *Learners should take responsibility for claims they submit, but responsibility is fair only when they have sufficient knowledge and control. Institutions that mandate or normalise AI, teachers who design AI-dependent assessments, and providers that control model behaviour also shape the epistemic relation. A relational [[Accounts\|account]] therefore replaces the fiction of the isolated user with distributed responsibility. Governance should specify who is answerable for provenance, errors, accessibility, data use, model updates and the conditions under which AI-mediated work is assessed.*
 

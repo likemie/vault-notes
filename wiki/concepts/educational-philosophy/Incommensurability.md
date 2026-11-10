@@ -8,7 +8,7 @@ aliases:
 summary: "库恩范式理论的核心认识论构念，指不同科学范式之间缺乏中立公认的共同原则、标准或衡量尺度，因而无法在同一逻辑评价体系下直接比较优劣"
 type: concept
 domain: "educational-philosophy"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Construct]]"
   - "[[Scientific Paradigm]]"
+  - "[[Research Tool]]"
   - "[[Ontology]]"
   - "[[Paradigm Wars]]"
   - "[[Epistemological Beliefs]]"
@@ -72,13 +73,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Incommensurability
-> 不可[[Commensuration\|通约]]性（Incommensurability）是[[Thomas Kuhn\|托马斯·库恩]]（[[Thomas Kuhn]]）[[Paradigm\|范式]]转换理论的核心[[Epistemology\|认识论]][[Construct\|构念]]，指不同[[Scientific Paradigm\|科学范式]]之间不存在中立、公认且跨范式有效的共同原则、评价标准或衡量尺度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 116]]；Kuhn, 1962）。不可通约性意味着范式之间无法通过同一套外在逻辑标准判定高下优劣——采纳一种范式，不仅是选择某种具体研究工具，更是拥抱了一整套关于实在本质（[[Ontology\|本体论]]）、知识性质（[[Epistemology\|认识论]]）与人性假设的根本信念体系，因而研究者无法在同一认知时刻持有两套相互冲突的范式。
+> 不可[[Commensuration\|通约]]性（Incommensurability）是[[Thomas Kuhn\|托马斯·库恩]]（[[Thomas Kuhn]]）[[Paradigm\|范式]]转换理论的核心[[Epistemology\|认识论]][[Construct\|构念]]，指不同[[Scientific Paradigm\|科学范式]]之间不存在中立、公认且跨范式有效的共同原则、评价标准或衡量尺度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 116]]；Kuhn, 1962）。不可通约性意味着范式之间无法通过同一套外在逻辑标准判定高下优劣——采纳一种范式，不仅是选择某种具体[[Research Tool|研究工具]]，更是拥抱了一整套关于实在本质（[[Ontology\|本体论]]）、知识性质（[[Epistemology\|认识论]]）与人性假设的根本信念体系，因而研究者无法在同一认知时刻持有两套相互冲突的范式。
 
 > [!concept-lens] 概念透镜
 > - **含义** 范式更替标志着世界观与概念网络的根本断裂；不同范式下的概念看似使用相同词汇，其实际指涉与评判准则已发生质变。

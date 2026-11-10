@@ -9,7 +9,7 @@ aliases:
 summary: "历史制度主义与政治社会学核心概念，指行动者在具体情境中解释、运用、回避或遵从制度规则的实践过程；与形式规则设计形成结构性张力，源于规则不完备性、认知局限、策略性漏洞试探及反常现象的弹性容忍，是渐进制度变迁的微观动力源泉。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Enforcement Discretion]]"
   - "[[Champ]]"
-  - "[[Social Regime]]"
   - "[[Creativity]]"
   - "[[Strategic Compliance]]"
   - "[[Institutional Drift]]"
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -102,7 +101,7 @@ updated: 2026-11-03
 > **规则不完备性与认知边界** 探讨为何制度无论设计得多么精密，在现实运作中都无法做到绝对封闭与完全自足。
 
 > [!claim] [[Wolfgang Streeck|Streeck, W.]] & [[Kathleen Thelen|Thelen, K.]]
-> **形式设计与经验践行的必然脱节** 施特雷克与希伦指出，从理论上将[[Social Regime|社会规范]]还原为现实互动过程时，规则设计与规则践行之间的鸿沟是一项必然规律。社会现实的无限复杂性注定了形式条文永远处于“不完全界定”状态。甚至法官与执法者在探寻所谓的“立法者原意”时，本身就已经是在参与[[Creativity|创造性]]的规则重构。将制度视为静态不变的硬件，完全违背了社会规范必须在日常践行中不断再生产的动态本质。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 14–15)]]
+> **形式设计与经验践行的必然脱节** 施特雷克与希伦指出，从理论上将社会规范还原为现实互动过程时，规则设计与规则践行之间的鸿沟是一项必然规律。社会现实的无限复杂性注定了形式条文永远处于“不完全界定”状态。甚至法官与执法者在探寻所谓的“立法者原意”时，本身就已经是在参与[[Creativity|创造性]]的规则重构。将制度视为静态不变的硬件，完全违背了社会规范必须在日常践行中不断再生产的动态本质。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 14–15)]]
 
 ---
 

@@ -7,9 +7,9 @@ title: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_key: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_display_title: "Evidence on evidence-informed policy and practice"
 argument_kind: "book-chapter"
-argument_related_count: 79
-argument_related_level: 7
-argument_related_stars: "💎💎⭐"
+argument_related_count: 80
+argument_related_level: 8
+argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
 authors:
   - "[[David Gough|Gough, D.]]"
@@ -96,6 +96,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Metascience]]"
   - "[[Emergence]]"
+  - "[[Eget Arbete]]"
 related_facts:
   - "[[What Works Network]]"
   - "[[Education Endowment Foundation]]"
@@ -122,7 +123,7 @@ related_instruments:
   - "[[EMMIE Framework]]"
 status: draft
 created: 2026-09-13
-updated: 2026-10-29
+updated: 2026-11-11
 sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch07_Gough_2022|Ch07_Gough_2022]]"
 ---
@@ -595,7 +596,7 @@ sources:
 > [!citation-card] [[Knowledge Mediation\|知识中介]]自我循证的信誉危机
 > [[Educational Brokerage Agency\|知识中介机构]]旨在促进决策者对研究证据的利用；如果在自身运作中不采取循证进路，它们不仅可能削弱实际成效，更会因未能遵循自己倡导的循证原则而丧失公信力与信任。必须将明确的循证视角贯穿于需求分析、系统情境整合、[[Theory of Change\|变革理论]]、[[Evidence Standards\|证据标准]]与自我评估五大核心领域。（p. 147）
 >
-> *If KBIs do not take an evidence-informed approach to their own work, they may be less effective than they could be. They may also lose credibility and trust by not following their own advice on using research evidence in decision making. A more overt focus on being evidence-informed can help KBIs reflect on and develop the theory, practice, and study of their work in at least five areas: 1. Needs analysis... 2. Integrating evidence use in wider systems and contexts; 3. Methods and theories of change; 4. Evidence standards; and 5. Evaluation and monitoring.*
+> *If KBIs do not take an evidence-informed approach to their [[Eget Arbete|own work]], they may be less effective than they could be. They may also lose credibility and trust by not following their own advice on using research evidence in decision making. A more overt focus on being evidence-informed can help KBIs reflect on and develop the theory, practice, and study of their work in at least five areas: 1. Needs analysis... 2. Integrating evidence use in wider systems and contexts; 3. Methods and theories of change; 4. Evidence standards; and 5. Evaluation and monitoring.*
 
 > [!citation-card] [[Evidence Ecosystem\|证据生态系统]]的双层嵌套与外层大系统主导性
 > 证据活动绝非孤立存在。它们深嵌于科研之外极其复杂的系统之中，其中交织着多元行动者与主导力量，各方均拥有自身的优先事项、工作节奏、制度流程与内在动机——例如政策体系、改进体系、资助体系以及问责体系。在这一系统模型下，知识中介机构唯有同外部组织及其运转系统深度融合时，方能真正发挥效力。简言之，即便你在理论上打造了一个流程极其严谨、构件紧密相连的优雅证据生态系统，但如果这些活动未能在外层大系统中获得实质性的制度牵引力，其最终产生的影响也将微乎其微。（p. 150）

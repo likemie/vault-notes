@@ -12,7 +12,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
   - theme/stem-education
   - region/uk
 related_concepts:
+  - "[[Citation Aging]]"
   - "[[STEM Education]]"
   - "[[Communities of Practice]]"
 related_theories: []
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -45,7 +46,7 @@ updated: 2026-10-26
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 21 世纪初由英国政府（教育部 [[Department for Education|DfE]]）与[[Wellcome Trust|惠康信托]]（Wellcome Trust）联合投资 5100 万英镑设立。
 > - **适用地区 / 对象** 覆盖全英国的中小学科学教师、学校实验技术人员及领导层。
-> - **问题背景** 应对英国中小学科学教师队伍学科前沿知识老化、教学法更新滞后以及物理、化学等专业师资流失严重的系统性危机。
+> - **问题背景** 应对英国中小学科学教师队伍学科前沿[[Citation Aging|知识老化]]、教学法更新滞后以及物理、化学等专业师资流失严重的系统性危机。
 > - **制度位置** 作为英国国家层面的科学教师持续专业发展（CPD）核心基础设施，后整合演进为国家 [[STEM Education\|STEM]] 学习网络（STEM Learning）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 36)]]
 
 ---

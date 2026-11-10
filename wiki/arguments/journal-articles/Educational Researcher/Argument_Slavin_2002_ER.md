@@ -20,6 +20,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Research Question]]"
+  - "[[System-Wide Improvement]]"
   - "[[Clinical Trial]]"
   - "[[Document]]"
   - "[[Mnemonic Strategies]]"
@@ -46,14 +47,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-01
-updated: 2026-10-30
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Slavin_2002_ER"
 argument_key: "Argument_Slavin_2002_ER"
 argument_display_title: "Evidence-based education policies: Transforming educational practice and research"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -62,7 +63,7 @@ book_title: ""
 issuing_organization: ""
 ---
 > [!info] [[Research Question\|研究问题]]
-> 教育研究能否通过采用证据本位政策——即依赖[[Random Assignment\|随机化]]和严格匹配实验来评估可复制的教育项目——实现类似医学和农业的渐进式、系统性改进？
+> 教育研究能否通过采用证据本位政策——即依赖[[Random Assignment\|随机化]]和严格匹配实验来评估可复制的教育项目——实现类似医学和农业的渐进式、[[System-Wide Improvement|系统性改进]]？
 
 ---
 

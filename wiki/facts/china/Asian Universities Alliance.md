@@ -9,7 +9,7 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -30,6 +30,8 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge Power]]"
   - "[[Knowledge Production]]"
+  - "[[Early-Career Researchers]]"
+  - "[[Scientific Mobility]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Grand Challenges]]"
   - "[[Paradigm]]"
@@ -54,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -66,7 +68,7 @@ updated: 2026-11-02
 > - **成立时间 / 创设背景** 2016年3月在博鳌亚洲论坛上由清华大学倡议提出，2017年4月在北京正式宣告成立，契合[[Belt and Road Initiative|一带一路倡议]]深化亚洲高等教育互联互通与引领区域[[Knowledge Production|知识生产]]的战略部署。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1698)]]
 > - **总部地点 / 业务辐射** 秘书处常设于中国北京清华大学，网络严密覆盖东亚、中亚、南亚、东南亚与中东等亚洲主要次区域的核心旗舰大学。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1700)]]
 > - **法人属性与经费基础** 区域多边非营利性大学合作组织，运营经费由发起高校与成员高校多边自筹，联合研究专项由清华大学及阿拉伯联合酋长国大学等多边科研基金资助。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1702)]]
-> - **核心宗旨与法定职责** 汇聚亚洲优势智力资源，通过学者奖励计划、联合科研资助、青年学者论坛与年度校长峰会，增进亚洲应对区域共同挑战的自主科研实力与全球规则制定权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1702)]]
+> - **核心宗旨与法定职责** 汇聚亚洲优势智力资源，通过学者奖励计划、联合科研资助、[[Early-Career Researchers|青年学者]]论坛与年度校长峰会，增进亚洲应对区域共同挑战的自主科研实力与全球规则制定权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1702)]]
 
 ---
 
@@ -80,7 +82,7 @@ updated: 2026-11-02
 >
 > - **2018–2020** **机制化运作与旗舰项目拓展**
 >
->   设立多层级定向资助项目，推进高水平学者流动与重点科研协同攻关。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1700–1702)]]
+>   设立多层级定向资助项目，推进高水平[[Scientific Mobility|学者流动]]与重点科研协同攻关。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1700–1702)]]
 >
 >   - **2018 年** 启动 AUA 学者奖励计划（Scholars Award Program），资助骨干学者在成员高校间展开深度学术驻留。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1702)]]
 >   - **2020 年 12 月** 联合阿拉伯联合酋长国大学正式设立 AUA 联合研究计划（Joint Research Program），设立高额竞争性科研资助。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1702)]]

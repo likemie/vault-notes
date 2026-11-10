@@ -42,7 +42,6 @@ related_concepts:
   - "[[Meeting-Industrial Complex]]"
   - "[[Social Deafness]]"
   - "[[Constructive Disobedience]]"
-  - "[[Screening Off]]"
   - "[[Luxury Belief]]"
   - "[[Paradigm]]"
   - "[[AI Deterrence]]"
@@ -54,6 +53,7 @@ related_concepts:
   - "[[Engineering Mindset]]"
   - "[[Civic Religion]]"
   - "[[National Character]]"
+  - "[[Screening Off]]"
   - "[[Commercial Off-The-Shelf]]"
 related_theories:
   - "[[Organizational Culture]]"
@@ -91,7 +91,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -126,7 +126,7 @@ updated: 2026-10-26
 > - **即兴演剧与[[Status Transactions|工具性地位]]观** 将[[Keith Johnstone|基思·约翰斯通]]（Keith Johnstone）的《即兴》（*Impro*）作为新员工必读书目，推行本体地位与扮演地位的解耦，将地位界定为服务于实战目标的临时、工具性手段。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 122–126)]]
 > - **交响乐团直连模型** 践行[[Peter Drucker|彼得·德鲁克]]（Peter Drucker）[[Symphony Orchestra Model|交响乐团模型]]，破除多层副总裁管理审批架构，实现首席执行官与一线工程师艺术家的直接信息视线连接。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 128–129)]]
 > - **坚决抵制[[Meeting-Industrial Complex|会议工业复合体]]** 严禁动辄数十人的冗长形式主义例会与多层预备会，将员工稀缺智力资源从科层政治内耗中解放，全力聚焦于物理运行结果与代码攻关。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 126–128)]]
-> - **[[Social Deafness|社交失聪]]与[[Constructive Disobedience|建设性不服从]]** 鼓励一线研发团队根据实战反馈主动修正甚至抗拒上级指令，并在关键演化节点主动[[Screening Off|屏蔽]]外界舆论从众压力与群体非难，保持专注技术探索的战略定力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 136–138)]]
+> - **[[Social Deafness|社交失聪]]与[[Constructive Disobedience|建设性不服从]]** 鼓励一线研发团队根据实战反馈主动修正甚至抗拒上级指令，并在关键演化节点主动屏蔽外界舆论从众压力与群体非难，保持专注技术探索的战略定力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 136–138)]]
 > - **[[Five Whys|五问法]]与免责根因复盘机制** 深度借鉴[[Taiichi Ohno|大野耐一]]（Taiichi Ohno）的根本原因分析法，开展数千次五问法复盘并形成详尽书面报告；抑制指责个人的冲动，将软件交付延期与系统失误深入追溯至预算削减、考核导向与高管人际互动等深层组织根源，培育宽容试错与主动暴露问题的心理安全文化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 164–166)]]
 
 ---

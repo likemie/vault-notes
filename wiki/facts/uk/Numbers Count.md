@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -41,7 +41,8 @@ related_methods:
   - "[[Effect Size]]"
 related_instruments:
   - "[[EEF Padlock Security Rating]]"
-related_persons: []
+related_persons:
+  - "[[Ben Levin]]"
 related_facts:
   - "[[Department for Education]]"
   - "[[Education Endowment Foundation]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -82,7 +83,7 @@ updated: 2026-10-30
 >   - **自我反思与当堂成就记录**
 > - **严苛的师资专业认证门槛** 专任教师须接受边山大学为期一整年的系统理论研修、实地录像反思及国家导师进驻督导，获得特许资质方可执教。
 
-> [!citation-card] 斯莱文论 Numbers Count 专业教师一对一辅导的实证效能
+> [!citation-card] 斯[[Ben Levin|莱文]]论 Numbers Count 专业教师一对一辅导的实证效能
 > 在初等数学领域的一对一个别辅导中，专业教师开展的方案成效显著。例如在英国一至二年级开展的 Numbers Count 辅导方案，在经过独立严格评估后取得了 +0.33 的学业[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）的强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *Tutoring provided by certified teachers was effective in one-to-one formats in mathematics. Numbers Count, evaluated in the United Kingdom with first and second graders in 1:1 sessions, produced an effect size of +0.33, meeting the ESSA Strong rating.*

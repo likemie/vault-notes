@@ -11,7 +11,7 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 15
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -29,7 +29,9 @@ related_concepts:
   - "[[Study Abroad]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[Early-Career Researchers]]"
   - "[[Research Universities]]"
+  - "[[Scientific Mobility]]"
   - "[[Technology Transfer]]"
   - "[[Geopolitics]]"
   - "[[South-South Cooperation]]"
@@ -50,13 +52,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定位
-> 国家留学基金管理委员会（China Scholarship Council, CSC）是[[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]直属的非营利性事业法人机构，承担统筹管理中国官方公派[[Study Abroad|出国留学]]与来华留学基金的法定职责。通过优化配置中央财政专项经费与受托管理行业委培资金，资助高水平科研人才跨国深造与发展中国家工程技术骨干赴华研学，充当中国[[Knowledge Diplomacy|知识外交]]、[[Internationalization of Higher Education|高等教育国际化]]与国家对外开放战略的关键制度载体。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 679, 692–693)]] [[Argument_Liu_2025_IndHE|(Liu et al., 2025, p. 191)]]
+> 国家[[Study Abroad|留学]]基金管理委员会（China Scholarship Council, CSC）是[[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]直属的非营利性事业法人机构，承担统筹管理中国官方公派[[Study Abroad|出国留学]]与来华留学基金的法定职责。通过优化配置中央财政专项经费与受托管理行业委培资金，资助高水平科研人才跨国深造与发展中国家工程技术骨干赴华研学，充当中国[[Knowledge Diplomacy|知识外交]]、[[Internationalization of Higher Education|高等教育国际化]]与国家对外开放战略的关键制度载体。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 679, 692–693)]] [[Argument_Liu_2025_IndHE|(Liu et al., 2025, p. 191)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1996 年经中国国务院批准正式成立，标志着国家公派出国留学工作由传统的行政审批模式转向现代化的法制化、契约化与基金化管理轨道。
@@ -72,7 +74,7 @@ updated: 2026-11-02
 >   推行“个人申请、专家评审、平等竞争、择优录取、签约派出、违约赔偿”的二十四字管理方针，确立国家公派留学的现代法制化运行规程。
 >
 >   - **1996** 国家留学基金管理委员会在京正式挂牌，全面承接原国家教育委员会外事司的公派出国选派审批职能。
->   - **2003** 设立国家优秀自费留学生奖学金，扩大国家对海外拔尖创新青年学者的辐射面与荣誉激励。
+>   - **2003** 设立国家优秀自费留学生奖学金，扩大国家对海外拔尖创新[[Early-Career Researchers|青年学者]]的辐射面与荣誉激励。
 >
 > - **2007–2014** **战略协同与高水平研究生公派扩张期**
 >
@@ -120,7 +122,7 @@ updated: 2026-11-02
 
 > [!indicators] 影响力维度与指标
 > - **年均公派选派规模** 年均选拔公派出国留学人员超过 3 万人，覆盖博士生、访问学者及高级研究学者。
-> - **来华奖学金供给体量** 统筹管理的中国政府奖学金每年资助数万名国际留学生在华深造，构成发展中国家青年学者赴华学术流动的第一大资金支柱。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 679, 692)]]
+> - **来华奖学金供给体量** 统筹管理的中国政府奖学金每年资助数万名国际留学生在华深造，构成发展中国家青年学者赴华[[Scientific Mobility|学术流动]]的第一大资金支柱。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 679, 692)]]
 > - **高层次人才回国服务** 改革开放以来公派留学人员学成回国率保持在 80% 以上，为中国重点高校与科研院所输送了大量领军科学家与工程技术骨干。
 
 > [!finding-cards] 关键成效与辐射影响

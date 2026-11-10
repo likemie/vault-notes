@@ -10,7 +10,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[STEM Education]]"
   - "[[Performance Indicators]]"
   - "[[Venture Philanthropy]]"
+  - "[[Quasi-market]]"
   - "[[Philanthrocapitalism]]"
   - "[[Paradigm]]"
   - "[[Network Governance]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -126,7 +127,7 @@ updated: 2026-10-22
 >
 > > [!axis] 替代国家公平拨款与教育不平等制度化
 > > - **官方与机构立场** 主张自身是公立教育的积极补充，以市场效率动员社会力量，精准扶持最贫困学区的创新实践。
-> > - **批判学者立场** 埃玛·罗威（Emma Rowe）等政策学者指出，学校加计划将本应由国家兜底的公共教育宪制义务转嫁给私人施舍；公立学校陷入乞求企业恩赐的准市场竞争，加剧了具备文书筹款能力的学校与极度边缘化学校之间的二次分化，实质掩盖了联邦政府长期偏向私立学校的结构性拨款失衡。([[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 519, 527, 532]])
+> > - **批判学者立场** 埃玛·罗威（Emma Rowe）等政策学者指出，学校加计划将本应由国家兜底的公共教育宪制义务转嫁给私人施舍；公立学校陷入乞求企业恩赐的[[Quasi-market|准市场]]竞争，加剧了具备文书筹款能力的学校与极度边缘化学校之间的二次分化，实质掩盖了联邦政府长期偏向私立学校的结构性拨款失衡。([[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 519, 527, 532]])
 >
 > > [!axis] 公私利益输送与透明度遮蔽
 > > - **官方与机构立场** 强调自身完全合规并受慈善法监督，坚称独立于其他外部商业利益集团。

@@ -7,7 +7,7 @@ summary: "美国比较教育学与教育政治经济学奠基泰斗，斯坦福�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 31
+person_related_count: 32
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -51,6 +51,7 @@ related_persons:
   - "[[Andreas Kazamias]]"
   - "[[Michael W. Apple]]"
   - "[[Stephen Ball]]"
+  - "[[Ben Levin]]"
   - "[[Carlos Alberto Torres]]"
 related_facts:
   - "[[World Bank]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-28
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -144,7 +145,7 @@ updated: 2026-10-30
 
 > [!person-network] 关系网络
 > - **学术合作者** [[Joel Samoff]] — 斯坦福大学长期同事与合作者，合著《第三世界的教育与社会转型》（1990），共同剖析非洲与第三世界教育的依附政治经济学。
-> - **学术合作者** 亨利·莱文（Henry M. Levin） — 斯坦福大学经济学家与教育学家，合著《民主国家中的学校教育与工作》（1985），奠定资本积累与民主平权张力[[Analytic Framework|分析框架]]。
+> - **学术合作者** 亨利·[[Ben Levin|莱文]]（Henry M. Levin） — 斯坦福大学经济学家与教育学家，合著《民主国家中的学校教育与工作》（1985），奠定资本积累与民主平权张力[[Analytic Framework|分析框架]]。
 > - **理论同盟** [[Carlos Alberto Torres]] — 共同推进比较教育学国家理论与拉美外围国家受限状态研究。
 > - **理论同盟** [[Michael W. Apple|迈克尔·阿普尔]]（Michael W. Apple） — 共同奠定 1970–1980 年代美国批判教育社会学与文化再生产理论阵地。
 > - **学术史家／学科[[Epistemology|认识论]]重构者** [[Andreas Kazamias]] — 将卡诺伊确立为战后第四代比较教育政治经济学与国家理论[[Paradigm|范式]]的代表人物，阐发其对[[Positivism|实证主义]]、正统马克思主义与机械再生产论的三重超越。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 153–155)]]

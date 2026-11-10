@@ -9,7 +9,7 @@ summary: "英美著名哲学家与文化批评家，纽约大学教授，世界�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Cosmopolitanism]]"
   - "[[Avatar]]"
   - "[[Emergence]]"
+  - "[[Nationalism]]"
   - "[[Grand Theory]]"
 related_theories: []
 related_methods: []
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -65,7 +66,7 @@ updated: 2026-10-22
 ---
 
 > [!work-line] 代表著作与学术观点
-> - **1992 — *In My Father's House: Africa in the Philosophy of Culture*** 批判本质主义的种族主义与泛非民族主义神话，倡导多元开放的文[[Avatar|化身]]份。
+> - **1992 — *In My Father's House: Africa in the Philosophy of Culture*** 批判本质主义的种族主义与泛非[[Nationalism|民族主义]]神话，倡导多元开放的文[[Avatar|化身]]份。
 > - **2006 — *[[Cosmopolitanism]]: Ethics in a World of Strangers*** 提出兼顾普遍人权关怀与地方文化特殊性的世界主义伦理框架。
 > - **2016 — *There Is No Such Thing as Western Civilisation*** 指出“西方文明”概念是在19世纪末帝国主义扩张与殖民统治语境中被建构出来的意识形态产物，其内在连贯性高度可疑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85, 89)]]
 > - **2018 — *The Lies That Bind: Rethinking Identity*** 深入解构宗教、国家、阶级、色种与文化等五重本质主义身份神话。

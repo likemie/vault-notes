@@ -9,7 +9,7 @@ summary: "德国比较教育学家与国际教育交流专家，黑森州教育�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 28
+person_related_count: 29
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Praxis]]"
+  - "[[Transnational Education]]"
   - "[[Progressive Education]]"
   - "[[International Schools]]"
   - "[[Liberal Education]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -70,7 +71,7 @@ updated: 2026-11-02
 > - **代表贡献**
 >   - **创立“四步比较方法论”** 系统提出比较研究遵循“描述（Beschreibung）➔ 解释（Interpretation）➔ 并置（Nebeneinanderstellung）➔ 比较（Vergleich）”四个严格递进的科学认知阶梯，该框架后被贝雷迪（[[George Bereday]]）借鉴并普及为西方比较教育学界最经典的通用[[Paradigm|范式]]。
 >   - **出版学科奠基专著** 1962 年出版《比较教育学：历史、理论与实践导论》（*Vergleichende Pädagogik: Eine Einführung in ihre Geschichte, Theorie und [[Praxis]]*），成为战后欧陆比较教育学史的权威经典。
->   - **倡导比较教育作为教育实践艺术的源流考据** 考据古典时代跨国教育观察与风土记录，指出比较探究源远流长且兼具教育实践艺术（educating art）品格，深涉德语语境下比较教育学（Vergleichende Pädagogik）与比较教育科学（Vergleichende Erziehungswissenschaft）的学科分界。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–122)]]
+>   - **倡导比较教育作为教育实践艺术的源流考据** 考据古典时代[[Transnational Education|跨国教育]]观察与风土记录，指出比较探究源远流长且兼具教育实践艺术（educating art）品格，深涉德语语境下比较教育学（Vergleichende Pädagogik）与比较教育科学（Vergleichende Erziehungswissenschaft）的学科分界。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–122)]]
 
 > [!citation-card] 人物定位的关键来源
 > 在德国这一第二核心国家中，第一时期的比较教育代表是弗里德里希·施奈德与弗朗茨·希尔克的个人学术贡献，而他们的后继者才开始掌管各大学的教授讲座席位或独立研究所。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 89)]]

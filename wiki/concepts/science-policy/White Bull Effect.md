@@ -25,36 +25,36 @@ tags:
   - theme/sociology-of-science
   - theme/scientific-credit
 related_concepts:
+  - "[[Early-Career Researchers]]"
   - "[[Guest Authorship]]"
   - "[[Ghost Authorship]]"
+  - "[[Avatar]]"
+  - "[[Creativity]]"
+  - "[[Big Science]]"
   - "[[Academic Precarity]]"
   - "[[Postdoctoral Pileup]]"
   - "[[Matthew Effect in Academia]]"
   - "[[Academic Inbreeding]]"
   - "[[Strategic Conformity in Academia]]"
-  - "[[Epistemic Injustice]]"
 related_theories:
   - "[[Academic Capitalism]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
 related_instruments: []
-related_persons:
-  - "[[Phillip J. Haubrock]]"
-  - "[[Teun Everts]]"
-related_facts:
-  - "[[Declaration on Research Assessment]]"
+related_persons: []
+related_facts: []
 related_arguments:
   - "[[Argument_Haubrock_2026_NHB]]"
 confidence: high
 status: active
 created: 2026-11-03
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] White Bull Effect
-> 指在高等教育与科研组织中，资深学术权威或课题组负责人利用初级科研人员（博士生、博士后与青年讲师）在合同续签、职称晋升或推荐信上的制度性脆弱依附，通过显性施压或隐性权力威胁，强行在未满足实质学术贡献标准的研究成果中获取首位署名、共同一作或通讯署名权的学术霸凌与出版寄生现象。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 2)]]
+> 指在高等教育与科研组织中，资深学术权威或课题组负责人利用[[Early-Career Researchers|初级科研人员]]（博士生、博士后与青年讲师）在合同续签、职称晋升或推荐信上的制度性脆弱依附，通过显性施压或隐性权力威胁，强行在未满足实质学术贡献标准的研究成果中获取首位署名、共同一作或通讯署名权的学术霸凌与出版寄生现象。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 2)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 深度依赖层级权力不对称、向下属青年学者强行索取署名权与学术成果归属的寄生性学术不端行为。
@@ -68,7 +68,7 @@ updated: 2026-11-03
 
 > [!boundary]- 概念边界
 > - 不等于赠予署名（[[Guest Authorship]]）：赠予署名常出于主笔团队主动结交学术权威或同行互利交换，白牛效应则是由权力上位者主动施压与掠夺。
-> - 不等于幽灵署名（[[Ghost Authorship]]）：幽灵署名隐去真实撰写者以掩盖商业资助利益，白牛效应则是强行将无贡献的权威塞入署名名单主导位次。
+> - 不等于[[Ghost Authorship|幽灵署名]]（[[Ghost Authorship]]）：幽灵署名隐去真实撰写者以掩盖商业资助利益，白牛效应则是强行将无贡献的权威塞入署名名单主导位次。
 
 ---
 
@@ -103,10 +103,10 @@ updated: 2026-11-03
 > **层级权力不对称与学术成果掠夺** 考察高等教育机构导师负责制与PI中心制缺乏有效外部制衡时的异化机制。
 
 > [!claim] Kwok (2005)
-> **学术霸凌与出版寄生** 郭丽珊（Lai-Sang Kwok）以希腊神话中宙斯化身白牛诱拐欧罗巴的典故，系统界定学术界权威学者利用资历优势蚕食下属科研成果的现象；这种寄生式合署直接构成了学术不端与伦理侵蚀，损害了科研信用体系。[[Argument_Haubrock_2026_NHB|(Kwok, 2005; Haubrock et al., 2026, p. 2)]]
+> **学术霸凌与出版寄生** 郭丽珊（Lai-Sang Kwok）以希腊神话中宙斯[[Avatar|化身]]白牛诱拐欧罗巴的典故，系统界定学术界权威学者利用资历优势蚕食下属科研成果的现象；这种寄生式合署直接构成了学术不端与伦理侵蚀，损害了科研信用体系。[[Argument_Haubrock_2026_NHB|(Kwok, 2005; Haubrock et al., 2026, p. 2)]]
 
 > [!claim] [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]]
-> **门阀网络中的创造力向上摄取机制** 菲利普·豪布罗克（Phillip J. Haubrock）等学者指出，在意大利等国家的高校体系中，学术领主通过人际网络掌控教职与资源，促成创造力成果向上摄取；青年学者沦为流水线生产工具，其独立成果被资深权威占有，直接阻断了青年独立学术声望的积累。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 2)]]
+> **门阀网络中的[[Creativity|创造力]]向上摄取机制** 菲利普·豪布罗克（Phillip J. Haubrock）等学者指出，在意大利等国家的高校体系中，学术领主通过人际网络掌控教职与资源，促成创造力成果向上摄取；青年学者沦为流水线生产工具，其独立成果被资深权威占有，直接阻断了青年独立学术声望的积累。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 2)]]
 
 ---
 
@@ -129,8 +129,8 @@ updated: 2026-11-03
 > [!dev-timeline] 概念演变
 > - **2005 — 术语确立与医学伦理界定** 郭丽珊（Lai-Sang Kwok）在《医学伦理学杂志》首次正式提出白牛效应（The White Bull effect），系统剖析资深学者强行合署的研究寄生性。
 > - **2014 — 国际署名准则严格化** 国际医学期刊编辑委员会（ICMJE）强化实质贡献标准，要求所有署名者对构思、起草、数据问责承担全盘责任，试图遏制强制署名。
-> - **2024 — 学术诚信与撤稿监管关注** 科学计量学家约安尼迪斯（John P. A. Ioannidis）等开展署名膨胀与超产学者（Hyperprolific Authors）研究，将强行挂名与代写造假、学术不端并列为科研诚信系统危机。
-> - **2026 — 青年学者系统性困境诊断** 豪布罗克等在《自然-人类行为》将白牛效应与门阀网络、隐性无酬劳动及学术资本主义相链接，阐明其如何截断青年学者的独立科研生涯。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 2)]]
+> - **2024 — 学术诚信与撤稿监管关注** [[Bibliometric Analysis|科学计量学]]家约安尼迪斯（John P. A. Ioannidis）等开展署名膨胀与超产学者（Hyperprolific Authors）研究，将强行挂名与代写造假、学术不端并列为科研诚信系统危机。
+> - **2026 — 青年学者系统性困境诊断** 豪布罗克等在《自然-人类行为》将白牛效应与门阀网络、隐性无酬劳动及[[Academic Capitalism|学术资本主义]]相链接，阐明其如何截断青年学者的独立科研生涯。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 2)]]
 
 ---
 
@@ -139,7 +139,7 @@ updated: 2026-11-03
 > > [!axis] 实验室领导统筹贡献 vs 纯粹权力占有
 > > 争论资深实验室主任提供场地、设备与全局宏观指导是否天然构成署名正当性。
 > >
-> > - **宏观支撑主张** 认为大科学时代资深 PI 负责维系实验室硬件运转并提供长程学术指引，理应享有整体成果的通讯署名权益。
+> > - **宏观支撑主张** 认为[[Big Science|大科学]]时代资深 PI 负责维系实验室硬件运转并提供长程学术指引，理应享有整体成果的通讯署名权益。
 > > - **实质贡献原则** 坚持唯有对特定成果完成具体智识输入的人员方具备署名资格，行政管理与日常经费筹措应在致谢中体现而非侵占署名。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 2)]]
 
 > [!warning|limits] 适用局限

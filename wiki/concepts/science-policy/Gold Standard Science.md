@@ -8,10 +8,10 @@ aliases:
 summary: "在生成式人工智能大幅降低假说提出与文章撰写成本背景下提出的科研认识论与治理标准；主张从过度奖励首发与篇数的旧范式，转向生成与核验等规模协同扩建，通过原始数据全量开源、计算算法机器沙盒隔离复现、形式化数学定理证明及设立专职证伪复现奖金，筑牢真实可复现的科学基底。"
 type: concept
 domain: "science-policy"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/science-policy
   - field/metascience
@@ -27,11 +27,13 @@ related_concepts:
   - "[[Dynamic Research Notebook]]"
   - "[[Publication Bias]]"
   - "[[Scientific Paradigm]]"
+  - "[[Early-Career Researchers]]"
   - "[[Document]]"
   - "[[Replication in Education Research]]"
   - "[[Goodhart's Law]]"
 related_theories: []
 related_methods:
+  - "[[Journal Impact Factor]]"
   - "[[Experimental Research]]"
 related_instruments: []
 related_persons:
@@ -46,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -56,7 +58,7 @@ updated: 2026-11-03
 
 > [!concept-lens] 概念透镜
 > - **含义** 将传统依赖同行主观审阅与印刷品信用的科学评价，重构为基于机器自动化沙盒审计与形式化证明的硬核工程标准。
-> - **用途** 诊断生成式 AI 泛滥背景下学术界低质灌水、伪造数据与期刊影响因子博弈导致的“认知污染”，防止存在缺陷的伪知识毒化下游科学大模型训练。
+> - **用途** 诊断生成式 AI 泛滥背景下学术界低质灌水、伪造数据与[[Journal Impact Factor|期刊影响因子]]博弈导致的“认知污染”，防止存在缺陷的伪知识毒化下游科学大模型训练。
 > - **边界** 是作为一种分级分类的规制导向，优先在计算生物学、高能物理、先进材料与应用数学等结构化领域落地，有别于要求所有学科立刻实现全机器自动化证明。
 
 > [!contrast-table] 传统期刊出版评审标准 vs 黄金标准科学对比
@@ -97,7 +99,7 @@ updated: 2026-11-03
 > **机制设计与反向激励** 论证如何通过设立专职复现基金打破只奖首发的古德哈特异化。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
-> **[[Falsification|证伪]]激励制度化假说** 在既有体制下，青年学者花费数年复核他人文章不仅无法获得终身教职，还会因得罪学界权威而遭遇报复。黄金标准科学主张将国家科研经费的 5%–10% 刚性切块用于“复现与证伪基金”，对成功证伪伪科学结论的团队给予与原始发现者等同的学术声誉和资金重奖，在制度上消灭学术作恶的侥幸空间。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 66, 86)]]
+> **[[Falsification|证伪]]激励制度化假说** 在既有体制下，[[Early-Career Researchers|青年学者]]花费数年复核他人文章不仅无法获得终身教职，还会因得罪学界权威而遭遇报复。黄金标准科学主张将国家科研经费的 5%–10% 刚性切块用于“复现与证伪基金”，对成功证伪伪科学结论的团队给予与原始发现者等同的学术声誉和资金重奖，在制度上消灭学术作恶的侥幸空间。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 66, 86)]]
 
 ---
 

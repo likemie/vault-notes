@@ -45,13 +45,17 @@ related_concepts:
   - "[[Red Tape]]"
   - "[[Seniority Barrier in Academia]]"
   - "[[Eroom's Law]]"
+  - "[[Research Tool]]"
+  - "[[Early-Career Researchers]]"
   - "[[Creativity]]"
   - "[[Star Scientists]]"
+  - "[[Original Innovation Capability]]"
   - "[[Document]]"
   - "[[Diversity, Equity, and Inclusion]]"
   - "[[Discourse]]"
   - "[[Scientific Literacy]]"
   - "[[Reproducibility Crisis]]"
+  - "[[Cumulative Innovation]]"
   - "[[Grandes Ecoles]]"
   - "[[Scientific Autarky]]"
   - "[[Center of Calculation]]"
@@ -94,7 +98,9 @@ related_methods:
   - "[[Design-Based Research]]"
   - "[[Experimental Research]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Mechanism Experiments]]"
   - "[[Random Assignment]]"
+  - "[[Journal Impact Factor]]"
 related_instruments:
   - "[[Heilmeier Catechism]]"
 related_persons:
@@ -128,6 +134,7 @@ related_facts:
   - "[[Critical Assessment of Structure Prediction]]"
   - "[[Protein Data Bank]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"
+  - "[[Howard Hughes Medical Institute]]"
   - "[[Fast Grants]]"
   - "[[United Kingdom Metascience Unit]]"
   - "[[National Research Council]]"
@@ -142,14 +149,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-07
-updated: 2026-10-30
+updated: 2026-11-11
 subtype: report
 publication_type: report
 title: "Argument_Kratsios_2026_OSTP"
 argument_key: "Argument_Kratsios_2026_OSTP"
 argument_display_title: "Science: A new golden age (Report to the President)"
 argument_kind: "report"
-argument_related_count: 112
+argument_related_count: 119
 argument_related_level: 11
 argument_related_stars: "💎💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -353,12 +360,12 @@ issuing_organization: "[[Office of Science and Technology Policy]]"
 > - **3–25×** 1969 年以来农业研发投入的扩大倍数，而产出增速大体持平。（p. 14）
 > - **51 / 42** NIH 课题负责人整体平均年龄（从 39 岁升至 51 岁）与首次获资助者平均年龄（从 36 岁升至 42 岁）。（p. 16）
 
-尽管领域成熟度提升会导致易攻克的问题减少，但历史经验证明，科学停滞往往能够被全新实验工具与组织形态的引入所打破。
+尽管领域成熟度提升会导致易攻克的问题减少，但历史经验证明，科学停滞往往能够被全新[[Research Tool|实验工具]]与组织形态的引入所打破。
 
 > [!warrant]- 领域成熟度与组织工具革新的辨析
 > 十九世纪末，经典物理学曾被断言为一座大厦已近完工的学科，但[[Max Planck|马克斯·普朗克]]（Max Planck）对黑体辐射的研究直接引爆了量子力学革命；同期外科医学界曾认为手术刀已无新领域可拓展，但随后现代研究型医院与标准化住院医师制度的建立彻底重塑了临床医学。由此可见，看似进入瓶颈的科研领域，其实质往往是受制于既有组织形式与观测工具，政策重点应转向开辟新型研究范式与突破性实验架构（p. 14）。
 
-> [!sub-claim] 2. 漫长申请周期与膨胀的管理费率先耗尽青年学者科研黄金期
+> [!sub-claim] 2. 漫长申请周期与膨胀的管理费率先耗尽[[Early-Career Researchers|青年学者]]科研黄金期
 
 一名尚未建立起独立实验室的年轻科学家，其宝贵的创新精力往往在繁杂的基金申报与合规流程中被过早消耗。
 
@@ -370,7 +377,7 @@ issuing_organization: "[[Office of Science and Technology Policy]]"
 学徒期的过度拉长导致早期科研选题严重趋于保守，青年学者在学术等级结构中过早丧失了学术探索的胆识与野心。
 
 > [!case] [[Star Scientists|明星科学家]]逝世后的知识垄断打破效应
-> 1980 至 2008 年间，NIH 课题负责人平均年龄自 39 岁攀升至 51 岁，新入选者平均年龄达 42 岁，已显著超越诺贝尔奖级原始创新产出的黄金年龄。生物医学界的实证研究显示，当某领域的[[Star Scientists|明星科学家]]意外离世后，由其学派控制的封闭学术网络被打破，圈外年轻学者发表的论文开始大量涌入，且这些外部成果更易成为该领域的标志性高被引[[Document|文献]]。传统学科规模扩大后，注意力往往固化于既有经典文献，严重阻碍了前沿范式的迭代升级（p. 16）。
+> 1980 至 2008 年间，NIH 课题负责人平均年龄自 39 岁攀升至 51 岁，新入选者平均年龄达 42 岁，已显著超越诺贝尔奖级[[Original Innovation Capability|原始创新]]产出的黄金年龄。生物医学界的实证研究显示，当某领域的[[Star Scientists|明星科学家]]意外离世后，由其学派控制的封闭学术网络被打破，圈外年轻学者发表的论文开始大量涌入，且这些外部成果更易成为该领域的标志性高被引[[Document|文献]]。传统学科规模扩大后，注意力往往固化于既有经典文献，严重阻碍了前沿范式的迭代升级（p. 16）。
 
 > [!figure]- 图4　首次获得 R01 等效资助的研究者平均年龄
 > ![](https://img.mylikemie.icu/sources/Kratsios_2026_OSTP/figures/Kratsios_2026_OSTP_Fig4_Age_First_Time_NIH_Investigators.jpg)
@@ -409,7 +416,7 @@ issuing_organization: "[[Office of Science and Technology Policy]]"
 
 > [!sub-claim] 6. [[Reproducibility Crisis|可重复性危机]]与虚假共识误导科研优先序长达数十年
 
-在追求论文发表的单一激励下，科学界呈现严重的[[Reproducibility Crisis|可重复性危机]]，未经严格复现的虚假结论长期占用公共预算并误导后续研究方向。
+在追求论文发表的单一激励下，科学界呈现严重的[[Reproducibility Crisis|可重复性危机]]，未经严格复现的虚假结论长期占用公共预算并误导[[Cumulative Innovation|后续研究]]方向。
 
 > [!case] 阿尔茨海默病争议论文撤稿与疫情期学校关闭共识反思
 > 2009 年发表于顶级期刊的一篇阿尔茨海默病里程碑论文，在 2012 年即被制药企业证实无法复现并终止相关管线，但该论文仍在学界积累了逾 800 次引用，将联邦科研预算误导长达十余年之久，直至第一作者辞任[[Grandes Ecoles|大学校]]长后方于发表 15 年后撤稿。类似地，新冠疫情期间关于学校全面关闭的官方科学共识压制了知情学者的理性异议，忽视了儿童低传播风险与隔离带来的巨大社会代价。科学能够告知决策，但不能以未经检验的封闭共识代替透明的民主权衡（pp. 18–19）。
@@ -468,9 +475,9 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 
 同行评议在区分合格与劣质研究上成效显著，但在识别颠覆性非共识成果时往往因过度依赖折衷妥协而扼杀真正创新；联邦资助体系必须引入基于机制设计理论的多元选拔工具（pp. 26–28）。
 
-> [!evidence-grid] 已有资助机制试验及其检验假设
+> [!evidence-grid] 已有资助[[Mechanism Experiments|机制试验]]及其检验假设
 > - **[[Golden Ticket Mechanism|金券机制]]（[[Golden Ticket Mechanism]]）** 赋予单名评审专家在缺乏群体共识时强行资助非常规提案的特权，结合双盲评审弱化名校名气偏倚，为青年探索者提供破局通道。（pp. 27–28）
-> - **对人资助模式** 借鉴霍华德·休斯医学研究所（Howard Hughes Medical Institute, HHMI）与 NIH 主任先锋奖模式，提供为期七年、千万美元级且极少文书汇报的稳定支持，学者产出高影响论文的概率翻倍。（p. 28）
+> - **对人资助模式** 借鉴[[Howard Hughes Medical Institute|霍华德·休斯医学研究所]]（Howard Hughes Medical Institute, HHMI）与 NIH 主任先锋奖模式，提供为期七年、千万美元级且极少文书汇报的稳定支持，学者产出高影响论文的概率翻倍。（p. 28）
 > - **可携带式早期学者奖学金（[[Portable Fellowship]]）** 依托 NSF 研究生研究奖学金计划（Graduate Research Fellowship Program, GRFP）等项目，将资助直接赋权博士生本人并允许跨校跨组携带，激发对高水平导师的自主选择权。（p. 28）
 > - **快速资助通道（[[Fast Grants]]）** 简化繁琐流程，将申报审批压缩至 48 小时以内，适用于突发危机应对与窗口期极短的前沿探索。（p. 28）
 
@@ -740,7 +747,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 
 > [!critique-logic] 传统期刊出版模式在智能时代的结构性危机
 > - **人为制造稀缺** 少数匿名审稿人垄断评价权，评审周期冗长且充斥学术派系利益冲突。（p. 67）
-> - **指标异化失效** 论文篇数与影响因子落入[[Goodhart's Law|古德哈特定律]]，沦为学术公关与灌水刷量的博弈工具。（pp. 67–68）
+> - **指标异化失效** 论文篇数与[[Journal Impact Factor|影响因子]]落入[[Goodhart's Law|古德哈特定律]]，沦为学术公关与灌水刷量的博弈工具。（pp. 67–68）
 > - **过程信息缺失** 静态出版物排斥失败实验、原始中间数据与真实排障记录，造成知识沉没。（p. 67）
 
 必须发展适应智能时代科研范式的新型学术交流基础设施。

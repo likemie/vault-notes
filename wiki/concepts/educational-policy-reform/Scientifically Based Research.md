@@ -9,10 +9,10 @@ aliases:
 summary: "由 2001 年美国《不让一个孩子掉队法》（NCLB）与 2002 年《教育科学改革法》（ESRA）确立的联邦法定证据准入标准，强调运用严谨、系统与客观的实证程序（优先青睐实验与准实验设计）获取教育有效知识，后因缺乏操作化分级及对原则与评估的混淆，在 2015 年 ESSA 中被四级循证标准替代"
 type: concept
 domain: "educational-policy-reform"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - concept
   - policy/us-federal
@@ -55,6 +55,7 @@ related_instruments:
   - "[[Study Design and Implementation Assessment Device]]"
 related_persons:
   - "[[Robert Slavin]]"
+  - "[[Ben Levin]]"
   - "[[Zewelanji N. Serpell]]"
   - "[[Keith Morrison]]"
   - "[[G. Reid Lyon]]"
@@ -88,7 +89,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -165,7 +166,7 @@ updated: 2026-11-03
 > **评估对象定位维度** 探讨教育方案的合规依据究竟应当建立在抽象的心理学科学原理之上，还是建立在方案本身经受严格现场实验检验的实证证据之上。
 
 > [!claim] [[Robert Slavin\|Slavin, R.]] E.
-> **基于研究与经过评估的本质分野** 罗伯特·E·斯莱文（Robert E. Slavin, 2002）在 [[No Child Left Behind Act 2001\|NCLB]] 法案出台之初即尖锐指出，法案全文 110 次提及的“基于科学研究”（based on scientifically based research）是一个存在致命漏洞的标准；任何教学项目只要借助认知发展或学习理论的某项抽象原理，都能轻易声称自身符合该标准，导致低质项目长驱直入。Slavin 提出著名的“莱特兄弟类比”：其他航空先驱同样依据真实的流体力学科学研究原理，但只有莱特兄弟的飞机真正离开地面并经受了反复试飞；教育改革需要项目本身在真实课堂中经受严格实验评估并被确凿证明有效。只借用科学理论做概念包装，达不到这一标准。[[Argument_Slavin_2002_ER\|(Slavin, 2002, pp. 18–19)]]
+> **基于研究与经过评估的本质分野** 罗伯特·E·斯[[Ben Levin|莱文]]（Robert E. Slavin, 2002）在 [[No Child Left Behind Act 2001\|NCLB]] 法案出台之初即尖锐指出，法案全文 110 次提及的“基于科学研究”（based on scientifically based research）是一个存在致命漏洞的标准；任何教学项目只要借助认知发展或学习理论的某项抽象原理，都能轻易声称自身符合该标准，导致低质项目长驱直入。Slavin 提出著名的“莱特兄弟类比”：其他航空先驱同样依据真实的流体力学科学研究原理，但只有莱特兄弟的飞机真正离开地面并经受了反复试飞；教育改革需要项目本身在真实课堂中经受严格实验评估并被确凿证明有效。只借用科学理论做概念包装，达不到这一标准。[[Argument_Slavin_2002_ER\|(Slavin, 2002, pp. 18–19)]]
 
 ---
 

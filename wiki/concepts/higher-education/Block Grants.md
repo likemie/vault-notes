@@ -11,10 +11,10 @@ aliases:
 summary: "中央或上级资助主体向学校、地方学区或下级自治实体划拨的未指定微观细项用途的整笔总额预算，由受资助机构在宏观法定框架内自主统筹分配于教学、人事与基建等支出，构成现代高等教育去规制化与远距离操纵治理的核心财政工具。"
 type: concept
 domain: "higher-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/higher-education-governance
   - theme/educational-finance
@@ -31,7 +31,9 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Research Universities]]"
   - "[[Performance Indicators]]"
+  - "[[Slow Science]]"
   - "[[Academic Precarity]]"
+  - "[[Early-Career Researchers]]"
 related_theories: []
 related_methods:
   - "[[External Auditor]]"
@@ -49,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -142,7 +144,7 @@ updated: 2026-11-03
 > - **1985 年 — 荷兰 [[Higher Education Autonomy and Quality|HOAK]] 白皮书确立总额预算[[Paradigm|范式]]** 荷兰教育部在《[[Higher Education Autonomy and Quality|高等教育自主与质量]]》白皮书中正式确立整笔拨款为间接治理的核心支柱，随后在高等专业教育改革与 1986 年法案中率先推行。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 136, 146)]]
 > - **1990 年代初 — 欧洲大陆大学全面法制化推广** 荷兰 1992 年通过《高等教育与科研法》（[[Higher Education and Research Act 1992|WHW]]），正式将 13 所[[Research Universities|研究型大学]]与所有应用科技大学全面纳入整笔拨款体制；英国、北欧等多国陆续跟进，总额预算成为 [[OECD]] 成员国高校财政标准配置。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 146, 154)]]
 > - **2000 年代至今 — [[Performance Indicators|绩效指标]]叠加与有条件整笔拨款分化** 面对[[New Public Management|新公共管理]]冲击，纯粹投入型整笔拨款逐渐与毕业率、科研产出及外部契约挂钩，催生出“基础整笔预算 + 竞争性绩效指标”的复合调控模式。
-> - **2026 年 — 捍卫慢科学与遏止青年学术零工化的基线经费倡导** [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] 针对全球科研过度竞争危机，倡导政府与高校扩充常态化稳定基线整笔拨款（Block Grants），压缩短期项目制竞争拨款比重，为探索长周期、高风险与非共识学术构想提供财务安全冗余，打破过度依赖短期课题对青年学者的生存围剿。
+> - **2026 年 — 捍卫[[Slow Science|慢科学]]与遏止青年[[Academic Precarity|学术零工化]]的基线经费倡导** [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] 针对全球科研过度竞争危机，倡导政府与高校扩充常态化稳定基线整笔拨款（Block Grants），压缩短期项目制竞争拨款比重，为探索长周期、高风险与非共识学术构想提供财务安全冗余，打破过度依赖短期课题对[[Early-Career Researchers|青年学者]]的生存围剿。
 
 ---
 
@@ -161,7 +163,7 @@ updated: 2026-11-03
 > > 争论公共科研财政应侧重通过高淘汰率项目竞争激励产出，还是应以整笔拨款保障机构与学者的基础探索。
 > >
 > > - **竞争选优派** 主张通过竞争性课题评审筛选前沿方案，促进产出效率并强化阶段绩效问责。
-> > - **生态缓冲派（[[Argument_Haubrock_2026_NHB|Haubrock et al., 2026]]）** 指出过度依赖短期竞争性课题诱发了策略性保守与[[Academic Precarity|青年学术零工化]]，主张提升基线整笔拨款比重以捍卫长周期自主探索空间。
+> > - **生态缓冲派（[[Argument_Haubrock_2026_NHB|Haubrock et al., 2026]]）** 指出过度依赖短期竞争性课题诱发了策略性保守与青年学术零工化，主张提升基线整笔拨款比重以捍卫长周期自主探索空间。
 
 ---
 
@@ -179,7 +181,7 @@ updated: 2026-11-03
 > [!entry-map] 条目关联
 > - 治理与财政模式：[[Steering at a Distance|远距离操纵]]、[[Strategic Autonomy|战略自主]]、[[Performance Indicators|绩效指标]]、[[New Public Management|新公共管理]]
 > - 组织与制度环境：[[Research Universities|研究型大学]]、[[Academic Freedom|学术自由]]、[[Bureaucracy|官僚制]]、[[Red Tape|繁文缛节]]
-> - 科研生态与劳工：[[Academic Precarity|青年学术零工化]]、[[Paradigm|范式]]
+> - 科研生态与劳工：青年学术零工化、[[Paradigm|范式]]
 
 ---
 

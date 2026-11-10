@@ -13,7 +13,7 @@ aliases:
 summary: "实验或追踪研究中参与者因各种原因中途脱落导致初始随机等价性被破坏的内部效度威胁，WWC通过整体流失与差异流失二维边界模型度量其潜在因果偏误。"
 type: concept
 domain: "research-methodology"
-related_count: 41
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -24,6 +24,7 @@ tags:
   - internal-validity
   - causal-inference
 related_concepts:
+  - "[[Homophily]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
   - "[[Academic Attrition]]"
@@ -51,6 +52,7 @@ related_methods:
   - "[[Intent-to-Treat Analysis]]"
   - "[[Imputation Methods]]"
   - "[[Complier Average Causal Effect]]"
+  - "[[Instrumental Variables]]"
   - "[[Covariate Adjustment]]"
   - "[[Cross-sectional Study]]"
   - "[[Pilot Testing]]"
@@ -74,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-12
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -82,7 +84,7 @@ updated: 2026-10-30
 > [!def] Attrition
 > **实验流失（Attrition / Experimental Mortality）**，亦称**样本流失**或**受试脱落**，是指在教育实验或纵向[[Cohort Study\|追踪研究]]进行期间，部分参与者因转学、缺勤、失去动机、主动放弃或行政失联等原因中途退出，导致最终进入数据分析的样本（Analytic Sample）不再等同于初始[[Random Assignment\|随机分配]]样本的现象([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 333–334]]; [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 1327]])。
 >
-> 流失的核心破坏力在于：**退出极少是随机发生的**。脱落者与留守者通常在学业基础、家庭支持与动机水平上存在系统性差异，从而破坏了随机分配（Random Assignment）所建立的组间同质性，使原本严密的[[Randomised Controlled Trials\|随机对照试验]]（RCT）退化为带有自选择偏误的[[Quasi-Experimental Designs\|准实验设计]]。在[[United States Department of Education|美国教育部]] [[What Works Clearinghouse\|WWC]] 审查体系中，流失通过**整体流失率（Overall Attrition）** 与**差异流失率（Differential Attrition）** 构建二维边界模型进行刚性因果门控审查([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 8]])。
+> 流失的核心破坏力在于：**退出极少是随机发生的**。脱落者与留守者通常在学业基础、家庭支持与动机水平上存在系统性差异，从而破坏了随机分配（Random Assignment）所建立的组间[[Homophily|同质性]]，使原本严密的[[Randomised Controlled Trials\|随机对照试验]]（RCT）退化为带有自选择偏误的[[Quasi-Experimental Designs\|准实验设计]]。在[[United States Department of Education|美国教育部]] [[What Works Clearinghouse\|WWC]] 审查体系中，流失通过**整体流失率（Overall Attrition）** 与**差异流失率（Differential Attrition）** 构建二维边界模型进行刚性因果门控审查([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 8]])。
 
 > [!concept-lens] 效度视角与方法学定位
 > - **[[Internal Validity\|内部效度]]的核心威胁** 流失不仅使[[Sample Size Determination\|样本量]]缩小，更直接动摇了内部效度（Internal Validity）。两组在实验结束后的表现差异，可能完全源于“谁留下来了”而非“干预是否有效”。
@@ -144,7 +146,7 @@ ight|$$
 > | **[[Intent-to-Treat Analysis\|意向治疗分析]] (ITT)** | **“一旦随机，永远分析”**；将所有最初[[Random Assignment\|随机分配]]的学生（无论是否中途脱落或未完整接受干预）全部纳入最终分析。 | 彻底捍卫随机化基线等价性，防止虚假高估；缺点是可能稀释干预在足额完成者中的真实潜在功效。 |
 > | **基线等值性重新核查 ([[Baseline Standardized Mean Difference\|Baseline Equivalence]])** | 丢弃初始样本基线，仅针对最终留在[[Pre-test and Post-test\|后测]]中的分析样本（Analytic Sample）重新检验前测均值与协[[Variable\|变量]]平衡。 | 高流失 RCT 挽救因果资格的唯一通道；若前测差值在 $0.05–0.25\text{ SD}$ 间必须纳入回归协变量调整。 |
 > | **多重插补 (Multiple [[Imputation Methods\|imputation]], MI) / FIML** | 依据受试者基线成绩、人口学变量与过程数据，通过统计算法多重填补缺失的后测结果。 | 假定数据为**随机缺失（MAR）**；若属于非随机缺失（MNAR，如最差的学生故意缺考），插补结果仍有偏倚。 |
-> | **工具变量法与 [[Complier Average Causal Effect\|CACE]] 估计 (Complier Average Effect)** | 以初始随机分组作为工具变量（IV），剥离脱落与不顺从行为，估计**顺从者平均因果效应（CACE）**。 | 精准识别真正坚持完成干预者的净效应，是现代因果计量经济学纠偏标准[[Paradigm\|范式]]。 |
+> | **工具变量法与 [[Complier Average Causal Effect\|CACE]] 估计 (Complier Average Effect)** | 以初始随机分组作为[[Instrumental Variables\|工具变量]]（IV），剥离脱落与不顺从行为，估计**顺从者平均因果效应（CACE）**。 | 精准识别真正坚持完成干预者的净效应，是现代因果计量经济学纠偏标准[[Paradigm\|范式]]。 |
 
 ---
 

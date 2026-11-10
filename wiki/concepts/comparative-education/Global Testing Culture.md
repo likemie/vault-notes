@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育政策社会学与新制度主义世界社会理论视阈下的宏观分析构念，指二战后在理性主义世界文化扩散下形成的将大规模标准化能力测验视为主权国家现代性与教育质量合法性先验标尺的跨国规范秩序。该文化以实证主义与方法论个体主义为本体论假定，崇尚学术技能竞争与新自由主义绩效问责；通过将参与跨国测评建构为国家现代化的仪式性义务，反向确立了 PISA 等跨国工具的规训合法性，并诱发了国家宏观政策修辞与学校日常实践之间深刻的制度脱节（Decoupling）。"
 type: concept
 domain: "comparative-education"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -20,6 +20,7 @@ tags:
   - theme/standardized-testing
 related_concepts:
   - "[[Construct]]"
+  - "[[Transnational Education]]"
   - "[[Positivism]]"
   - "[[Commensuration]]"
   - "[[Governing by Numbers]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -67,7 +68,7 @@ updated: 2026-11-02
 > 全球考试文化（Global Testing Culture）是比较教育政策社会学与新制度主义[[World Society Theory|世界社会理论]]视阈下的宏观分析[[Construct|构念]]，特指在理性主义世界文化（Rationalistic World Culture）全球扩散背景下确立的一套跨国信念体系与规范秩序：它将大规模标准化学生学业能力测评预设为评价[[National Education|国民教育]]系统质量、效率与治理现代性的普遍标准。在该文化主导下，参与国际大规模学生测评（如 [[PISA]]）成为主权国家确立自身现代国家合法性地位的必要仪式，从而超越了工具性教学评价范畴，演化为重塑全球教育政策议程的核心制度环境。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 72–73)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向支撑大规模跨国教育测评合法性并将其自然化的跨国价值信念、认知模型与制度化实践体系。
+> - **含义** 指向支撑大规模[[Transnational Education|跨国教育]]测评合法性并将其自然化的跨国价值信念、认知模型与制度化实践体系。
 > - **用途** 帮助研究者透视主权国家为何在明知跨国测验存在去情境化与统计偏差的情况下，依然普遍将参与 PISA 视为不可推卸的国家义务，解释全球教育治理中“软治理何以产生硬约束”的宏观制度根源。
 > - **边界** 聚焦于跨国规范层面的文化与制度环境，不等于具体的国家内部考试制度（National Examination System），亦不等于单纯的统计测量学技术（Psychometrics）。
 

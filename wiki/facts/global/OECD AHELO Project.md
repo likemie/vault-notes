@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 35
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ tags:
   - learning-outcomes
   - region/global
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Global Universities Rankings]]"
   - "[[Document]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -68,13 +69,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-11
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 项目定位
-> [[OECD|经合组织]]高等教育学习成果评估（Assessment of Higher Education Learning Outcomes, AHELO）是[[OECD|经济合作与发展组织]]（OECD）于 2008 年启动的跨国高等教育评价先导工程，旨在验证建立类似 [[PISA]] 的跨国高等教育学习成果测评工具的可行性与科学有效性。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 135–136)]]; [[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 194, 200–201)]]
+> [[OECD|经合组织]]高等教育学习成果评估（Assessment of Higher Education Learning Outcomes, AHELO）是[[OECD|经济合作与发展组织]]（OECD）于 2008 年启动的[[Transnational Education|跨国高等教育]]评价先导工程，旨在验证建立类似 [[PISA]] 的跨国高等教育学习成果测评工具的可行性与科学有效性。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 135–136)]]; [[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 194, 200–201)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2008 年正式立项开展可行性研究（Feasibility Study），于 2012 年发布可行性研究总结报告，2013–2015 年在成员国与学术界争议中终止机制化推广。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 136)]]

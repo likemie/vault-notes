@@ -8,7 +8,7 @@ aliases:
 summary: "以投资而非赠款为核心逻辑的金融化慈善模式，将风险投资与私募股权纪律引入公共治理，强调组织能力建设与量化回报；在教育政策中通过跨国资金流动与人事重叠构建影子网络，推动国家向异层治理转型，重构公共财政再分配并引发民主问责侵蚀争议。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 36
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -33,10 +33,12 @@ related_concepts:
   - "[[Boundary Spanner]]"
   - "[[Analytical Stance]]"
   - "[[Educational Privatisation]]"
+  - "[[Quasi-market]]"
   - "[[Deductible Gift Recipient]]"
   - "[[Initial Teacher Training]]"
   - "[[Paradigm]]"
   - "[[Assemblage]]"
+  - "[[Theoretical Standpoint]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
@@ -63,7 +65,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-05-04
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -197,7 +199,7 @@ updated: 2026-11-03
 > | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | [[Foundation North Māori and Pasifika Education Initiative\|Foundation North]]（新西兰） | 净资产逾 10 亿美元；5 年投资总收入 6.32 亿纽币（年均 1.05 亿） | 设立新西兰社会影响中心；支持社区多年期组织赋能与能力建设 | 年均拨款 2460 万纽币，实际资助额仅占投资收益的 23.3%（p. xiii） | 揭示“永续增值”信托逻辑与紧迫社会需求之间的结构性断裂 |
 > | 同上 | [[Teach First New Zealand\|Teach First NZ]]（新西兰） | 多元资助组合（离岸与本土风险慈善、企业赞助、慈善信托） | 选拔非教育学高学历毕业生进入低分数带高中开展两周速成执教 | 借鉴美英 [[Teach Classroom Observation Tool\|Teach]] For All 跨国模式，绕过公立大学正规师训系统（p. ix） | 将教育不平等窄化为教师个体领导力，推行替代性教师资格认证 |
 > | 同上 | [[Partnership Schools Kura Hourua\|特许学校支持实体]]（新西兰） | 混合融资结构（政府配资与风险慈善基金会专项支持） | 支持新西兰国家党政府试行的特许学校体制（如 E Tipu E Rea） | 依托私人慈善资助维持运营，构建公私伙伴基础设施（p. 12） | 为新自由主义[[Educational Privatisation\|教育私有化]]与公立教育非工会化提供财政缓冲带 |
-> | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | [[NEXT Foundation\|NEXT 基金会]]（NEXT Foundation，新西兰） | 商业慈善家尼尔与安妮特·普洛曼（Neal & Annette Plowman）注入 1 亿纽币资本，为新西兰规模最大的专项风险慈善基金（pp. 37–38, 47） | 高介入度资助马奈卡拉尼信托全国外展项目（[[Manaiakalani Education Trust\|Manaiakalani Outreach]] 数百万专款）及新西兰先行者教育（[[Teach First New Zealand\|Teach First NZ]]） | 采取极高介入度（High Engagement）风投考核与明确里程碑分期拨款；强制要求受助学校与社区家庭分摊设备采购与宽带成本（pp. 47–48） | 借助慈善赠款将公立教育数字化基础设施成本向低收入弱势家庭转嫁，以项目化准市场渗透公立学校生态 |
+> | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | [[NEXT Foundation\|NEXT 基金会]]（NEXT Foundation，新西兰） | 商业慈善家尼尔与安妮特·普洛曼（Neal & Annette Plowman）注入 1 亿纽币资本，为新西兰规模最大的专项风险慈善基金（pp. 37–38, 47） | 高介入度资助马奈卡拉尼信托全国外展项目（[[Manaiakalani Education Trust\|Manaiakalani Outreach]] 数百万专款）及新西兰先行者教育（[[Teach First New Zealand\|Teach First NZ]]） | 采取极高介入度（High Engagement）风投考核与明确里程碑分期拨款；强制要求受助学校与社区家庭分摊设备采购与宽带成本（pp. 47–48） | 借助慈善赠款将公立教育数字化基础设施成本向低收入弱势家庭转嫁，以项目化[[Quasi-market\|准市场]]渗透公立学校生态 |
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | [[Social Ventures Australia\|澳大利亚社会创投]]（SVA，澳大利亚） | 管理资产 1.5 亿澳元；年政府补助 120 万澳元、企业捐赠 600 万澳元 | 创设证据中介样板 E4L；运营商业咨询部（年营收近 1000 万澳元） | 获免税与抵税资质，获得公共补贴总额超过其对外发放赠款总和（pp. 5–6） | 充当大企业避税庇护所；主导长达十年政策游说促成 [[Australian Education Research Organisation\|AERO]] 成立 |
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | [[Social Ventures Australia\|SVA]] 与 [[Australian Schools Plus\|Schools Plus]]（澳大利亚） | SVA 获政府拨款 121.6 万澳元；Schools Plus 获 500 万公共注资与第一类可抵税捐赠受赠人（[[Deductible Gift Recipient]] Type 1, DGR1）法定资质 | SVA 构建涵盖 Schools Plus、[[Evidence for Learning\|E4L]] 与 AERO 的辐射网络；获 1500 万保密投标资助 | SVA 实际对外发放赠款仅占政府拨款的 51%（62.5 万澳元）；4 家子公司层级控股（pp. 527–528） | 实证确证风险慈善构建[[Philanthrocapitalism\|慈善资本主义]]再分配反馈回路，迫使公立学校竞逐企业慈善并侵蚀民主问责 |
 > | 同上 | [[Australian Education Research Organisation\|AERO]]（澳大利亚） | 联邦与州政府联合注资 5000 万澳元初始财政预算 | 制定全国 [[Initial Teacher Training\|ITE]] 核心大纲、发布证据量规、桌面审查与证据综合 | 注册为担保有限公司；章程第 6/8 条规定董事须具慈善合作资历（pp. 3, 5） | 依据《公司法》享有前 18 个月审计豁免；特许向营利咨询分包科研 |
@@ -210,7 +212,7 @@ updated: 2026-11-03
 > |:-----|:-----|:-----|
 > | [[Philanthrocapitalism]] | 概念 | 风险慈善在宏观政治经济体制中依附并推进的意识形态[[Paradigm\|范式]]。 |
 > | [[Educational Brokerage Agency]] | 概念 | [[Social Impact Investing\|风险慈善]]机构在教育领域培育与输送资本的核心组织载体。 |
-> | [[Assemblage]] | 概念 | 解构风险慈善公私网络与无生命制度客体耐用固化的理论透镜。 |
+> | [[Assemblage]] | 概念 | 解构风险慈善公私网络与无生命制度客体耐用固化的[[Theoretical Standpoint\|理论透镜]]。 |
 > | [[Policy Network]] | 概念 | 风险慈善赖以进行政策游说与跨界渗透的异质层级组织网络。 |
 > | [[Social Ventures Australia]] | 事实 | 澳大利亚首要的风险慈善机构与政策网络核心枢纽。 |
 > | [[Australian Schools Plus]] | 事实 | 风险慈善网络游说联邦专门立法创设的全国公立学校企业免税筹款中介实体。 |

@@ -8,7 +8,7 @@ aliases:
 summary: "由马克·佩蒂克鲁与海伦·罗伯茨于2003年提出的认识论原则，主张证据的质量与采纳标准取决于研究问题的具体性质，反对将随机对照试验（RCT）机械定为所有政策议题的普遍金标准，强调评估因果效应、探究实施阻力与测算资源需求分别需要匹配异质性的研究方法与证据类型。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Fitness for Purpose]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
+  - "[[Appropriate Research]]"
   - "[[Positivism]]"
   - "[[Counterfactual]]"
   - "[[Output-Oriented Governance]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -65,7 +66,7 @@ updated: 2026-10-30
 
 > [!mechanism] 核心机制与问题矩阵匹配
 >
-> | 政策决策关切问题 | 核心研究关切 | 最优适切证据类型与方法 | 常见方法误用风险 |
+> | 政策决策关切问题 | 核心研究关切 | 最优[[Appropriate Research\|适切证据]]类型与方法 | 常见方法误用风险 |
 > |---|---|---|---|
 > | **干预有效性（Effectiveness）** | 政策或干预是否带来预期提升？因果净效应多大？ | 随机对照试验（RCT）、[[Quasi-Experimental Designs\|准实验设计]]、定量元分析。 | 缺乏因果识别设计的个案反思容易误将相关性当作因果效应。 |
 > | **可行性与接纳度（Acceptability）** | 基层教师与社区能否接受该政策？阻力何在？ | 质性[[In-depth Interview\|深度访谈]]、[[Ethnography\|民族志]]观察、[[Focus Group\|焦点小组]]座谈。 | 机械套用实验量化[[Questionnaire\|问卷]]遮蔽受访者的真实文化抵触。 |

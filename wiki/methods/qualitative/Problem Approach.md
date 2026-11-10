@@ -10,7 +10,7 @@ summary: "由布赖恩·霍姆斯开创的比较教育学假说-演绎方法论�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 38
+method_related_count: 39
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[National Character]]"
   - "[[Document]]"
+  - "[[Transnational Education]]"
   - "[[Policy Borrowing]]"
   - "[[Positivism]]"
   - "[[Refined Mastery]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -166,7 +167,7 @@ updated: 2026-11-02
 ---
 
 > [!method-fit] 适用场景与条件
-> - **高度契合** 跨国教育[[Policy Borrowing|政策借用]]与移植的可行性论证；国家重大教育改革方案的事前评估与后果预测；教育体制与社会政治结构脱节的深层病理诊断。
+> - **高度契合** [[Transnational Education|跨国教育]][[Policy Borrowing|政策借用]]与移植的可行性论证；国家重大教育改革方案的事前评估与后果预测；教育体制与社会政治结构脱节的深层病理诊断。
 > - **资料条件** 目标国家拥有明确的制度政策文本、可资考察的历史文化档案以及基本的教育运行统计数据。
 > - **不宜使用** 脱离现实政策关切的纯书斋式观念考据；追求大样本无情境统计相关、企图建立普适跨国回归模型的宏观测算研究。
 

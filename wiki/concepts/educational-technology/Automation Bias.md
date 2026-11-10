@@ -13,7 +13,7 @@ aliases:
 summary: "人机交互、认知心理学与人工智能伦理核心构念，指人类操作人员过度依赖自动化或人工智能决策支持系统的提示（或沉默），甚至在面对相左证据时仍放弃自主判断或忽视矛盾线索的系统性决策偏差。"
 type: concept
 domain: "educational-technology"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemic Deference]]"
   - "[[Epistemic Friction]]"
+  - "[[Algorithmic Bias]]"
   - "[[Cognitive Deskilling]]"
   - "[[Meaningful Human Control]]"
   - "[[Defeater]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 （自动化偏差 / 弱自动化偏差与强自动化偏差）
@@ -83,7 +84,7 @@ updated: 2026-11-03
 
 > [!boundary]- 概念边界辨析
 > - **区别于 自动化自满（Automation Complacency）** 自动化自满通常指多任务监控负荷下对系统状态的注意力分配不足与全面懈怠；自动化偏差特指决策情境中，启发式规则或过度信任直接扭曲对特定线索的权衡与裁决动作。弱自动化偏差在表现上与自满高度重叠，而强自动化偏差则发生在注意力已经投入且证据已被注意的深层认知加工阶段。
-> - **区别于 算法偏差（Algorithmic Bias）** 算法偏差指模型内部训练数据代表性不足或算法逻辑造成的统计偏误；自动化偏差则是人类操作人员在面对算法输出时的社会认知与心理评价偏差。
+> - **区别于 [[Algorithmic Bias|算法偏差]]（Algorithmic Bias）** 算法偏差指模型内部训练数据代表性不足或算法逻辑造成的统计偏误；自动化偏差则是人类操作人员在面对算法输出时的社会认知与心理评价偏差。
 > - **区别于 理性认识顺从（Rational Epistemic Deference）** 当智能系统在客观能力、计算速度与验证复杂度上显著超越人类且不可验证时，向系统让渡判断属于工具理性；而强自动化偏差特指在人类拥有反常证据且具备反思能力的情境下，仍做出无根据的非理性顺从。
 
 ---

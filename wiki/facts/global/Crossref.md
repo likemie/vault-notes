@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -28,39 +28,35 @@ tags:
   - theme/open-science
   - region/global
 related_concepts:
-  - "[[Data Infrastructure]]"
   - "[[Document]]"
-  - "[[Altmetrics]]"
+  - "[[Data Infrastructure]]"
   - "[[Literature Search]]"
-  - "[[Metascience]]"
-  - "[[Record Linkage]]"
-  - "[[Citation Distribution]]"
+  - "[[Altmetrics]]"
+  - "[[Open-Mindedness]]"
 related_theories: []
 related_methods:
-  - "[[Bibliometric Analysis]]"
   - "[[Record Linkage]]"
+  - "[[Bibliometric Analysis]]"
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Web of Science]]"
-  - "[[Microsoft Academic Graph]]"
   - "[[SciSciNet]]"
-  - "[[Dimensions]]"
   - "[[OpenAlex]]"
-  - "[[COnnecting REpositories]]"
+  - "[[Dimensions]]"
+  - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Lin_2023_SciData]]"
   - "[[Argument_Liu_2023_NHB]]"
 confidence: high
 status: active
 created: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 项目定位
-> Crossref（早期写作 CrossRef，法权主体为国际出版商联合会 Publishers International Linking Association, Inc., PILA）是 2000 年由国际主要学术出版商联合发起设立的非营利性学术元数据清算机构与国际数字对象标识符基金会（International DOI Foundation, IDF）官方注册代理。Crossref 旨在建立跨出版商的开放参考文献持久链接系统，现已拓展为覆盖期刊出版物、学术专著、会议录、预印本、研究资助及数据集的全球综合学术元数据基础设施。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]; [[Argument_Liu_2023_NHB|(Liu et al., 2023)]]
+> Crossref（早期写作 CrossRef，法权主体为国际出版商联合会 Publishers International Linking Association, Inc., PILA）是 2000 年由国际主要学术出版商联合发起设立的非营利性学术元数据清算机构与国际数字对象标识符基金会（International DOI Foundation, IDF）官方注册代理。Crossref 旨在建立跨出版商的开放参考[[Document|文献]]持久链接系统，现已拓展为覆盖期刊出版物、学术专著、会议录、预印本、研究资助及数据集的全球综合学术元[[Data Infrastructure|数据基础设施]]。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]; [[Argument_Liu_2023_NHB|(Liu et al., 2023)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1999 年由学术出版商发起筹备，2000 年 1 月正式成立 PILA 并上线 DOI 参考文献交叉链接服务，常态化持续运营至今。
@@ -94,7 +90,7 @@ updated: 2026-11-02
 > - **2000 — 联合会成立与 DOI 交叉链接体系启动** 出版商联合会（PILA）正式注册，联合上线参考文献跳转服务，首年完成数百万篇期刊成果的 DOI 编目与链接打通。
 > - **2008–2012 — 资助流向追踪与出版诚信模块确立** 推出 FundRef 基金注册体系，统一全球科研资助机构名称编码；发布 Crossmark 标识，建立同行评议文献后续版本修订与撤稿追踪的标准接口。
 > - **2017 — 替代计量数据流 Crossref Event Data 上线** 启动开放事件数据服务，脱敏聚合全球社交媒介、学术博客与公共百科中围绕 DOI 展开的数字化讨论，为大规模[[Altmetrics|替代计量学]]研究开辟官方公共数据管道。
-> - **2023 — 支撑亿级科学学开放数据湖工程** 在林子敬（Zijing Lin）等构建的 SciSciNet 数据湖中，Crossref 成为外部资助校验与社交媒体引流的关键基础设施：通过 Crossref 基金库记录补齐 305,314 条资助关系，并通过 Crossref Event API 接入 5,584 万条推特讨论与 59.5 万条全球主流媒体新闻报道提及。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> - **2023 — 支撑亿级科学学开放数据湖工程** 在林子敬（Zijing Lin）等构建的 [[SciSciNet]] 数据湖中，Crossref 成为外部资助校验与社交媒体引流的关键基础设施：通过 Crossref 基金库记录补齐 305,314 条资助关系，并通过 Crossref Event API 接入 5,584 万条推特讨论与 59.5 万条全球主流媒体新闻报道提及。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
 ---
 
@@ -102,7 +98,7 @@ updated: 2026-11-02
 > - **发起与治理机构** PILA 董事会（由大学出版社、商业出版商及学术学会代表共同组成），负责技术治理标准制定与会员准入规则。
 > - **注册代理与架构维护团队** Crossref 技术工程团队，负责维护高可用元数据收录引擎、REST API 与 OAI-PMH 数据收割接口。
 > - **成员出版机构** 全球各大学术期刊出版商、大学出版社与机构知识库，负责按标准 schema 上传结构化元数据并缴纳年费。
-> - **受益群体与终端应用** 全球图书情报机构、数据聚合平台（OpenAlex、Dimensions、SciSciNet）、科学学研究团队及社会公众。
+> - **受益群体与终端应用** 全球图书情报机构、数据聚合平台（[[OpenAlex]]、[[Dimensions]]、SciSciNet）、科学学研究团队及社会公众。
 
 > [!pathways] 实施路径与管理
 > - **纵向传导与支持** 制定强制性元数据存缴规范（强制要求篇名、出版时间、参考文献列表及 DOI 绑定），通过开发者文档与自动化校验接口辅导中小型出版机构合规接入。
@@ -114,7 +110,7 @@ updated: 2026-11-02
 > [!indicators] 评估指标体系
 > - **标识规模指标** 注册 DOI 总数、覆盖的出版物总量及按年度递增的数字对象存缴率。
 > - **关系网络密度指标** 存缴完整参考文献记录的成果占比、关联科研资助（Grant ID）成果占比与版本修正（Crossmark）匹配率。
-> - **数据开放性与调用量** REST API 日均访问查询吞吐量、全量元数据公共数据转储（Public Data File）下载频次。
+> - **数据[[Open-Mindedness|开放性]]与调用量** REST API 日均访问查询吞吐量、全量元数据公共数据转储（Public Data File）下载频次。
 
 > [!finding-cards] 核心功能特征
 > - **中立非营利的开放数据源** 不设立专有版权护城河，元数据遵循知识共享许可协议（CC0）向全球学术共同体免费开放，成为开放科学知识发现的基础支柱。
@@ -149,7 +145,7 @@ updated: 2026-11-02
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Data Infrastructure]] | Concept | Crossref 是现代全球学术出版体系与文献计量学不可或缺的公共数据基础设施。 |
+> | [[Data Infrastructure]] | Concept | Crossref 是现代全球学术出版体系与[[Bibliometric Analysis\|文献计量学]]不可或缺的公共数据基础设施。 |
 > | [[Document]] | Concept | Crossref 以学术文献为基本注册单元，赋予每篇文本持久唯一的数字化访问标识。 |
 > | [[Altmetrics]] | Concept | Crossref Event Data 提供了追踪学术产出在网络公众媒介中即时扩散的核心数据流。 |
 > | [[Literature Search]] | Concept | 支撑各大学术文献检索引擎实现跨学科跨平台文献的秒级全文跳转。 |

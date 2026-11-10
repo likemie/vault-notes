@@ -9,7 +9,7 @@ aliases:
 summary: "科学教育与探究式学习的元阶段理论模型，由 Margus Pedaste 领衔通过系统综述整合数十种探究框架确立，由定向、概念化（质疑与假设生成）、调查（规划、探索、实验与数据解释）、结论与贯穿始终的反思讨论五大核心阶段构成"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 32
+theory_related_count: 33
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Metacognition]]"
   - "[[Reflexivity]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Scaffolding]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Independent Variable]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -84,7 +85,7 @@ updated: 2026-11-02
 > 4. **得出结论（Conclusion）** 比对假设与证据，生成概念原理解释；
 > 5. **讨论与反思（Discussion）** 贯穿全程的[[Metacognition\|元认知监控]]（[[Reflexivity]]）与班级同伴沟通协商（Communication）（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]）。
 
-> [!concept-lens] 理论透镜
+> [!concept-lens] [[Theoretical Standpoint|理论透镜]]
 > - **含义** 确立了科学探究的宏观逻辑与微观认知路径，消解了将探究教学简单化为“动手做手工”或“放任纯自流”的偏见。
 > - **用途** 指导 K-12 与大学科学课程设计、数字探究平台（如 WISE、[[Inq-ITS]]、Go-Lab）学习路径编排以及[[Scaffolding\|认知脚手架]]的精准投放。
 > - **边界** 探究循环并非线性的流水线；各阶段之间存在密集的回流回路（如数据反常倒逼重新提出假设）。

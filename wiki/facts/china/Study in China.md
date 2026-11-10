@@ -11,7 +11,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 33
+fact_related_count: 34
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Para-Diplomatic Roles]]"
   - "[[Research Universities]]"
   - "[[Rote Learning]]"
+  - "[[International Education Hubs]]"
   - "[[Public Diplomacy]]"
   - "[[Hard Power]]"
 related_theories: []
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -174,7 +175,7 @@ updated: 2026-11-10
 ---
 
 > [!evidence-grid-a] 关联研究索引
-> - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 宏观实证揭示中国作为新兴国际教育枢纽的崛起，系统记录 2019 年亚洲第一、2020 年全球第四大留学目的国地位，阐明《中国教育现代化2035》如何协同打造“留学中国”品牌与“在地国际化”，推动中国从单向生源输出向高能级教育中心演进。
+> - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 宏观实证揭示中国作为新兴[[International Education Hubs|国际教育枢纽]]的崛起，系统记录 2019 年亚洲第一、2020 年全球第四大留学目的国地位，阐明《中国教育现代化2035》如何协同打造“留学中国”品牌与“在地国际化”，推动中国从单向生源输出向高能级教育中心演进。
 > - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] — 系统记录 2008–2018 年间留学生由语言进修向 STEM 工科翻倍转移的宏观统计，结合柬埔寨留学生第一手质性田野揭示前沿科技吸引力与单向灌输式课堂的微观质量短板。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 详尽分析“打造留学中国品牌”在[[Belt and Road Initiative|一带一路]]战略中的政策推进工具（Policy Lever）角色，实证评估了面向非洲1.2万高额奖学金的[[Public Diplomacy|公共外交]]成效，并揭示其对经济[[Hard Power|硬实力]]补贴的深度寄生性。
 > - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 结合中亚、东南亚与非洲重大工程实录，实证检验来华留学生定向联合培养对中资海外重资产长远运维的支撑机制，揭示了超越纯粹政治[[Soft Power|软实力]]的长期经济动因。

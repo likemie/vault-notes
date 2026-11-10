@@ -11,7 +11,7 @@ summary: "科学计量学与信息计量学奠基人，耶鲁大学科学史阿�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,18 +25,20 @@ tags:
   - theme/citation-networks
   - theme/exponential-growth
 related_concepts:
+  - "[[Little Science]]"
   - "[[Big Science]]"
   - "[[Document]]"
   - "[[Citation Distribution]]"
   - "[[Science Immediacy]]"
+  - "[[Primary and Secondary Documents]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
   - "[[Citation Disparity]]"
   - "[[Scientific Productivity]]"
 related_theories:
+  - "[[Price Cumulative Advantage Model]]"
   - "[[Preferential Attachment in Academia]]"
   - "[[Price's Law]]"
-  - "[[Price Cumulative Advantage Model]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
   - "[[Network Analysis]]"
@@ -46,15 +48,17 @@ related_persons:
   - "[[Albert-László Barabási]]"
 related_facts:
   - "[[The Royal Society]]"
+  - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
+  - "[[Argument_Fortunato_2018_Science]]"
 confidence: high
 status: completed
 created: "2026-10-29"
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -62,7 +66,7 @@ updated: 2026-11-02
 > [!person-profile] 人物档案
 > - **身份位置** 英国裔美籍物理学家、科学史家与[[Bibliometric Analysis|科学计量学]]之父，曾任耶鲁大学阿瓦隆科学史讲席教授。
 > - **核心角色** 现代科学计量学（Scientometrics）与宏观科学学的奠基者，开创了运用数理统计与拓扑网络对科学出版物与科研队伍展开宏观定量测度的学科传统。
-> - **代表贡献** 1963 年在《小科学，[[Big Science|大科学]]》中提出科学[[Document|文献]]指数增长律与大科学演化规律，1965 年在《科学》发表《科学文献网络》首次计算出[[Citation Distribution|引文分布]]的幂律形式，1976 年提出累积优势模型（[[Preferential Attachment in Academia]]）与[[Price's Law|普赖斯平方根定律]]。
+> - **代表贡献** 1963 年在《[[Little Science|小科学]]，[[Big Science|大科学]]》中提出科学[[Document|文献]]指数增长律与大科学演化规律，1965 年在《科学》发表《科学文献网络》首次计算出[[Citation Distribution|引文分布]]的幂律形式，1976 年提出[[Price Cumulative Advantage Model|累积优势模型]]（[[Preferential Attachment in Academia]]）与[[Price's Law|普赖斯平方根定律]]。
 
 > [!citation-card] 普赖斯论科学知识与科研队伍的指数增长律
 > 科学文献与从业人员的增长展现出极具规律性的几何级数特征，大约每隔十到十五年总规模便翻一番。这一宏观规律意味着科学知识绝大部分属于现代产物，科学史的核心任务之一正是运用定量测度工具揭示其内部演化动力学。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 8)]]
@@ -88,7 +92,7 @@ updated: 2026-11-02
 > [!work-line] 主要著作
 > - **1963 — *Little Science, Big Science*** 科学计量学奠基之作，系统阐明科学从个体小作坊向量化、建制化与国家资助大科学的结构转型。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 8)]]
 > - **1965 — *Networks of Scientific Papers*** 首次将全量文献引文关系形式化为有向图谱，发现科学引文网络高度偏斜的厚尾拓扑结构。
-> - **1976 — *A General Theory of Bibliometric and Other Cumulative Advantage Processes*** 运用波利亚坛子模型数学推导累积优势过程，构成网络科学优先连接机制的最早前驱模型。后续实验揭示约 78% 的引文源于未查阅原始文献的连环复制，其实验测定的初始引用偏移常数 $c_0 \approx 7$ 亦精确验证了普赖斯累积优势向纯优先连接过渡的临界条件。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 138–140)]]
+> - **1976 — *A General Theory of Bibliometric and Other Cumulative Advantage Processes*** 运用波利亚坛子模型数学推导累积优势过程，构成网络科学优先连接机制的最早前驱模型。后续实验揭示约 78% 的引文源于未查阅[[Primary and Secondary Documents|原始文献]]的连环复制，其实验测定的初始引用偏移常数 $c_0 \approx 7$ 亦精确验证了普赖斯累积优势向纯优先连接过渡的临界条件。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 138–140)]]
 
 ---
 
@@ -104,7 +108,7 @@ updated: 2026-11-02
 
 > [!influence-path] 影响路径
 > - **理论路径** 普赖斯的累积优势模型直接启迪了[[Albert-László Barabási|巴拉巴西]]（Barabási）与阿尔伯特（Albert）提出无标度网络（Scale-Free Networks）及其优先连接机制。
-> - **方法路径** 确立以科学引文索引（SCI）为基础的引文[[Network Analysis|网络分析]]方法，奠定现代文献计量学与图谱测度[[Paradigm|范式]]。
+> - **方法路径** 确立以[[Web of Science|科学引文索引]]（SCI）为基础的引文[[Network Analysis|网络分析]]方法，奠定现代文献计量学与图谱测度[[Paradigm|范式]]。
 > - **政策路径** 促使各国科学决策部门从宏观定量角度审视科研人力投入与产出效率，影响了大科学时代的国家科技政策规划。
 
 > [!evidence-grid-a] 相关研究索引
@@ -124,7 +128,7 @@ updated: 2026-11-02
 > > 普赖斯曾基于细菌菌落养分耗尽模型，预言科学文献的指数级扩张将在 20 世纪 50 年代后迅速遭遇资源瓶颈而走向饱和停滞。
 > >
 > > - **[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]]** 指出普赖斯的增长饱和预言并未成真；Web of Science 百年出版数据显示科学产出平均每 12 年翻番的指数增长已持续逾 110 年，仅在两次世界大战期间短暂受挫。科学未曾枯竭的根源在于科学探索以思想而非物质为燃料，思想具有非消耗性与可组合繁衍性。(pp. 162–163, 173)
-> > - **Fortunato et al. (2018)** 指出单篇文献被引半衰期与注意力窗口趋于缩短，印证了普赖斯关于科学系统必将走向增长饱和的预见。
+> > - **[[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]]** 指出单篇文献被引半衰期与注意力窗口趋于缩短，印证了普赖斯关于科学系统必将走向增长饱和的预见。
 
 ---
 

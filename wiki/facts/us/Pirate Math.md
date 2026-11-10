@@ -10,9 +10,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 18
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2008–至今"
 initiator_organization: "范德堡大学（Vanderbilt University）"
@@ -26,6 +26,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Structured Teaching]]"
+  - "[[Problematisation]]"
   - "[[Small Group Tuition]]"
   - "[[Evidence Standards]]"
   - "[[Teaching Assistant]]"
@@ -40,7 +41,8 @@ related_methods:
   - "[[Effect Size]]"
 related_instruments:
   - "[[Problem Solving Inventory]]"
-related_persons: []
+related_persons:
+  - "[[Ben Levin]]"
 related_facts:
   - "[[United States Department of Education]]"
   - "[[Institute of Education Sciences]]"
@@ -52,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -69,7 +71,7 @@ updated: 2026-10-26
 ---
 
 > [!claim] 核心干预假说
-> 通过显性指导学生识别文字应用题的内在语义结构基模，并结合海盗主题脚本将语义关系转化为含未知数的标准化代数算式（如 $a + b = c$ 或 $a - b = c$），由非专业教学助教实施一对一[[Structured Teaching\|结构化教学]]，能够显著改善高危儿童的问题表征与迁移能力，在标准化应用题测试上取得实质性学业增益。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
+> 通过显性指导学生识别文字应用题的内在语义结构基模，并结合海盗主题脚本将语义关系转化为含未知数的标准化代数算式（如 $a + b = c$ 或 $a - b = c$），由非专业教学助教实施一对一[[Structured Teaching\|结构化教学]]，能够显著改善高危儿童的[[Problematisation|问题表征]]与迁移能力，在标准化应用题测试上取得实质性学业增益。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!policy-design] 方案设计与教学规程
 > - **三大核心数学应用题基模（Schemas）** 方案聚焦加减法文字应用题的三大底层结构：
@@ -79,7 +81,7 @@ updated: 2026-10-26
 > - **海盗寻宝寻“$X$”方程转化规程** 引导学生像海盗寻找宝藏一样在算式中标识未知数“$X$”，无论是求部分量、比较量还是初始状态，统一运用代数平衡原则解题，彻底破除依靠表面关键词猜算题目的习惯。
 > - **助教 1:1 脚本化授课** 教学助教手持高度详细的教学脚本，按“基础事实热身—基模新授—情境引导练习—独立寻宝解题”四步法实施，每次 30 分钟，每周 3 次，持续 16 周。
 
-> [!citation-card] 斯莱文论 Pirate Math 助教辅导的实证效能
+> [!citation-card] 斯[[Ben Levin|莱文]]论 Pirate Math 助教辅导的实证效能
 > 在初等数学领域，不仅[[Small Group Tuition|小组辅导]]成效显著，由教学助教开展的一对一辅导同样被证明高度有效。例如在三年级开展的 Pirate Math 辅导项目，在严格[[Randomised Controlled Trials\|随机对照试验]]中取得了 +0.37 的学业[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）的强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *Tutoring provided by paraprofessionals using structured approaches was also effective in mathematics. For example, Pirate Math, delivered by [[Teaching Assistant|Teaching Assistants]] to third graders in 1:1 sessions, produced an effect size of +0.37, qualifying for the Strong rating under ESSA.*

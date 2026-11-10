@@ -10,9 +10,9 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "澳大利亚教育、就业、培训与青年事务部长级理事会（MCEETYA）"
 tags:
@@ -23,21 +23,25 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Creativity]]"
-  - "[[Wicked Problem]]"
+  - "[[School Leadership]]"
+  - "[[Lifelong Learning]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Wicked Problem]]"
+  - "[[Problem Solving]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[Australian Curriculum]]"
+  - "[[Australian Curriculum, Assessment and Reporting Authority]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Sarbiewska_2019_KiW]]"
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -55,8 +59,8 @@ updated: 2026-11-10
 
 > [!policy-design] 政策设计
 > - **政策目标** 明确将“批判性与创造性思维（Critical and Creative Thinking）”确立为跨学科的 7 大通用能力（General Capabilities）之一，推动教育体系由知识灌输转向全面素养培育。
-> - **适用对象** 澳大利亚各州公立与私立中小学教师、学校领导者及全体学生。
-> - **政策工具** 设立国家级课程研发机构（ACARA）、推行全国统一课程大纲、制定跨学科能力图谱与质量监测框架。
+> - **适用对象** 澳大利亚各州公立与私立中小学教师、[[School Leadership|学校领导]]者及全体学生。
+> - **政策工具** 设立国家级课程研发机构（[[Australian Curriculum, Assessment and Reporting Authority|ACARA]]）、推行全国统一课程大纲、制定跨学科能力图谱与质量监测框架。
 > - **约束机制** 联邦与各州政府签署教育合作协议，通过国家课程改革与全国质量监测共同落实。
 
 > [!citation-card] 墨尔本宣言全澳教育两大目标
@@ -69,7 +73,7 @@ updated: 2026-11-10
 > [!timeline] 政策时间线
 > - **1989** 签署《阿德莱德宣言》（Hobart Declaration），奠定澳大利亚各州与联邦教育协作的制度基础。
 > - **1999** 签署第二版《阿德莱德宣言》（Adelaide Declaration），进一步推进全国教育成效共同标准。
-> - **2008** 澳大利亚联邦与各州教育部长理事会联合发布《墨尔本宣言》，确立面向 21 世纪的创新素养与终身学习目标。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 11)]]
+> - **2008** 澳大利亚联邦与各州教育部长理事会联合发布《墨尔本宣言》，确立面向 21 世纪的创新素养与[[Lifelong Learning|终身学习]]目标。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 11)]]
 > - **2012** 依据《墨尔本宣言》确立的能力维度，澳大利亚课程评估与报告局（ACARA）正式发布全国统一的《[[Australian Curriculum|澳大利亚课程]]》。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, p. 128)]]
 > - **2019** 各州与联邦签署《爱丽丝泉（墨尔本教育）宣言》（Alice Springs Education Declaration），延续并升级墨尔本教育目标体系。
 
@@ -82,7 +86,7 @@ updated: 2026-11-10
 > - **政策工具** 国家课程大纲、通用能力连续发展图谱与国家教育评估项目。
 
 > [!pathways] 实施路径
-> - **顶层目标确立** 通过部长级联合协定协调全澳各州割裂的教育方针，确立公平、卓越与高阶思维的核心愿景。
+> - **顶层目标确立** 通过部长级联合协定协调全澳各州割裂的教育方针，确立公平、卓越与[[Higher-Order Thinking Skills|高阶思维]]的核心愿景。
 > - **课程大纲贯通** ACARA 将宣言目标分解为《澳大利亚课程》的 8 大学习领域、7 项跨学科通用能力与 3 个跨课程优先事项。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 11)]]
 > - **评价与发展跟踪** 建立贯穿学前至高中的连续发展图谱（Learning Continuums），推动学校从机械知识传授转向深层素养培育。
 
@@ -102,5 +106,5 @@ updated: 2026-11-10
 > | [[Australian Curriculum]] | 政策 | 依据《墨尔本宣言》两大国家目标研制并实施的全国统一课程框架。 |
 > | [[Knowledge-Based Economy]] | 概念 | 催生《墨尔本宣言》转向创新素养与终身学习的宏观经济与社会背景。 |
 > | [[Creativity]] | 概念 | 宣言确立的核心培养目标，通过跨学科通用能力框架转化为可操作的学习图谱。 |
-> | [[Higher-Order Thinking Skills]] | 概念 | 宣言推动全澳课程超越单一事实记忆、注重复杂问题解决的关键取向。 |
+> | [[Higher-Order Thinking Skills]] | 概念 | 宣言推动全澳课程超越单一事实记忆、注重[[Problem Solving\|复杂问题解决]]的关键取向。 |
 > | [[Wicked Problem]] | 概念 | 宣言强调培养面对复杂社会现实进行自主决策与反思判断的能力。 |

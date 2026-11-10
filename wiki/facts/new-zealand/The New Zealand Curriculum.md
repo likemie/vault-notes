@@ -8,7 +8,7 @@ subtype: policy
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Outcomes-based Education]]"
+  - "[[Curriculum Connection]]"
   - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
 related_theories:
@@ -33,6 +34,7 @@ related_persons: []
 related_facts:
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Teacher Choices]]"
+  - "[[Education Review Office]]"
   - "[[NZ Curriculum Refresh 2021-2026]]"
 related_arguments:
   - "[[Argument_Sarbiewska_2019_KiW]]"
@@ -40,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-05'
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 > [!info] 背景
@@ -58,12 +60,12 @@ updated: 2026-11-10
 > [!note] 时间线
 > - 2007 年 The New Zealand Curriculum 正式发布
 > - 2010 年学校被要求全面实施
-> - ERO 持续定期评估课程原则在学校课程和课堂中的落实情况
+> - [[Education Review Office|ERO]] 持续定期评估课程原则在学校课程和课堂中的落实情况
 
 > [!example] 实施情况
 > - 新西兰教育部指派 Education Review Office（ERO）定期评估课程原则在各校的实施程度([[Argument_Sarbiewska_2019_KiW\|Sarbiewska, 2019, p. 128]])
 > - 课程提供愿景、价值观、原则和[[21st Century Skills and Competencies Discourse\|关键能力]]框架，但允许各校根据本地需求设计独特的学习项目
-> - 新西兰学校实践"课程连接"（curriculum connection），被认为能有效促进师生之间多层次的协作，区别于主题式教学，有意识地维持各学习领域的严谨性([[Argument_Sarbiewska_2019_KiW\|Sarbiewska, 2019, pp. 128–129]])
+> - 新西兰学校实践"[[Curriculum Connection|课程连接]]"（curriculum connection），被认为能有效促进师生之间多层次的协作，区别于主题式教学，有意识地维持各学习领域的严谨性([[Argument_Sarbiewska_2019_KiW\|Sarbiewska, 2019, pp. 128–129]])
 
 > [!success] 效果与评价
 > - Philip Jellyman（St Dominic's Catholic College 校长）调查了 12 所学校，认为联合课程"有潜力将学生的学习和能力提升到超过单一学科课程通常可能的水平"（cited in Sarbiewska, 2019, p.129）

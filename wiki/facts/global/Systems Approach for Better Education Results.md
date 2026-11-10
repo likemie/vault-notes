@@ -11,7 +11,7 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Policy Brokerage]]"
   - "[[School Autonomy]]"
+  - "[[Transnational Education]]"
   - "[[Epistemic Governance]]"
   - "[[Research Translation]]"
   - "[[Heterogeneity]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -106,7 +107,7 @@ updated: 2026-10-30
 ---
 
 > [!indicators] 评估指标体系
-> - **投入指标** 跨国信托基金投入数千万美元，动员数百名国际咨询顾问与跨国教育法学专家。
+> - **投入指标** 跨国信托基金投入数千万美元，动员数百名国际咨询顾问与[[Transnational Education|跨国教育]]法学专家。
 > - **过程与依从性指标** 全球 100 多个国家完成不同领域的基准测试，形成数百份标准化政策诊断档案与公开数据集。
 > - **产出与制度转化指标** 评分结果直接转化为[[World Bank\|世界银行]]政策贷款的前置触发条件（Prior Actions），重塑受援国教师评价与学校治理立法。
 

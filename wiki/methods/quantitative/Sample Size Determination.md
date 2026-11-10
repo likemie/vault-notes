@@ -10,7 +10,7 @@ summary: "研究设计中确定样本大小的决策过程，权衡统计功效�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 38
+method_related_count: 39
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -31,13 +31,12 @@ related_concepts:
   - "[[Variable]]"
   - "[[Paradigm]]"
   - "[[Purpose Statement]]"
-  - "[[Epistemology]]"
   - "[[Reliability]]"
   - "[[Independent Variable]]"
-  - "[[Attrition]]"
-  - "[[Visible Learning]]"
   - "[[Effective Sample Size]]"
+  - "[[Primary and Secondary Documents]]"
   - "[[Study Population and Sample]]"
+  - "[[Visible Learning]]"
   - "[[Preregistration]]"
 related_theories: []
 related_methods:
@@ -47,21 +46,23 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Sampling Frame]]"
   - "[[Random Sampling]]"
-  - "[[Chi-Squared Test]]"
   - "[[Multiple Regression]]"
-  - "[[Exploratory Factor Analysis]]"
-  - "[[Questionnaire]]"
   - "[[Meta-regression]]"
   - "[[Standard Error]]"
-  - "[[Research Synthesis]]"
-  - "[[Transcription in Qualitative Research]]"
-  - "[[Power Analysis]]"
+  - "[[Questionnaire]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Intraclass Correlation Coefficient]]"
+  - "[[Quasi-Experimental Designs]]"
+  - "[[Multi-phase Sampling]]"
+  - "[[Cohort Study]]"
+  - "[[Exploratory Factor Analysis]]"
+  - "[[Non-probability Sampling]]"
+  - "[[Snowball Sampling]]"
+  - "[[Research Synthesis]]"
+  - "[[Power Analysis]]"
   - "[[Inverse-Variance Weighting]]"
   - "[[Quantitative Research]]"
-related_persons:
-  - "[[Louis Cohen]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-21
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
@@ -129,31 +130,31 @@ updated: 2026-11-04
 > [!method-stack] 数据口径
 > - **数据来源** 调查抽样框、行政登记数据、教育追踪数据库或元分析纳入文献。
 > - **时间与范围** 抽样调查时间窗、受试者纳入与排除标准（学段、地区、年龄等）。
-> - **清洗与归属** 剔除无效作答与极端异常值，对问卷无应答与长期追踪中的[[Attrition|被试损耗]]进行 20%–50% 的安全冗余预留。
-> - **有效性校正** 在[[Cluster Randomized Trials|集群随机试验]]中基于[[Intraclass Correlation Coefficient|群内相关系数]]（ICC）校正[[Effective Sample Size|有效样本量]]；在元分析中严格核验初级文献报告的真实受试样本数。
+> - **清洗与归属** 剔除无效作答与极端异常值，对[[Questionnaire|问卷]]无应答与长期追踪中的被试损耗进行 20%–50% 的安全冗余预留。
+> - **有效性校正** 在[[Cluster Randomized Trials|集群随机试验]]中基于[[Intraclass Correlation Coefficient|群内相关系数]]（ICC）校正[[Effective Sample Size|有效样本量]]；在元分析中严格核验[[Primary and Secondary Documents|初级文献]]报告的真实受试样本数。
 
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 实证调查抽样设计、实验与准实验设计的统计功效（[[Power Analysis|Power]]）前置规划、多元统计模型（多元回归、因子分析）的最低观测样本量论证。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, pp. 143–145)]]
-> - **谨慎使用** 集群抽样与多阶段抽样（需结合群内相关系数校正有效样本量，避免直接套用简单随机抽样公式）；存在预期高流失率的长期追踪研究（需预留充分冗余）。
-> - **不适合使用** 未界定目标总体与抽样框架时盲目套用公式；将样本绝对规模等同于代表性（缺乏科学抽样框架的偏差大样本无法通过增加数量弥补系统性偏差）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, p. 144)]]
+> - **适合使用** 实证调查抽样设计、实验与[[Quasi-Experimental Designs|准实验设计]]的统计功效（Power）前置规划、多元统计模型（多元回归、因子分析）的最低观测样本量论证。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, pp. 143–145)]]
+> - **谨慎使用** 集群抽样与[[Multi-phase Sampling|多阶段抽样]]（需结合群内相关系数校正有效样本量，避免直接套用简单随机抽样公式）；存在预期高流失率的长期[[Cohort Study|追踪研究]]（需预留充分冗余）。
+> - **不适合使用** 未界定[[Study Population and Sample|目标总体]]与抽样框架时盲目套用公式；将样本绝对规模等同于代表性（缺乏科学抽样框架的偏差大样本无法通过增加数量弥补系统性偏差）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, p. 144)]]
 
 > [!ref-table]- 参照基准与经验法则
 > | 场景或模型 | 推荐参照基准 | 说明与来源 |
 > |:---|:---|:---|
 > | 有限总体（$N > 100{,}000$） | $n \approx 384$ | 95% 置信水平与 $\pm 5\%$ 容许误差下的渐近随机样本容量。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen et al. (2011, p. 145)]] |
 > | 多元回归分析 | $N \ge 50 + 8k$ 或 $10k$–$20k$ | 保障自变量系数估计稳健性与控制标准误膨胀的底线样本量（$k$ 为预测变量数）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen et al. (2011, p. 144)]] |
-> | 探索性因子分析 | $N \ge 100$ 至 $300$ | 保障因子载荷估计稳定性与参数可识别性的基本门槛。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen et al. (2011, p. 144)]] |
+> | [[Exploratory Factor Analysis\|探索性因子分析]] | $N \ge 100$ 至 $300$ | 保障因子载荷估计稳定性与参数可识别性的基本门槛。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen et al. (2011, p. 144)]] |
 > | 问卷调查与追踪研究 | 预留 20%–50% 冗余 | 预防无应答与被试损耗导致有效样本跌破统计功效阈值。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen et al. (2011, p. 145)]] |
 
 ---
 
 > [!method-limits] 方法局限
 > - **偏误来源** 总体方差与效应量事前未知导致功效估计依赖先验猜测；问卷无应答与长期追踪中的被试流失导致最终有效样本产生选择性损耗。
-> - **适用边界** 样本量确定依赖明确界定的抽样框架与概率抽样假定；对于非概率抽样或滚雪球抽样，公式计算结果无法保证统计推断有效性。
-> - **误用风险** 机械崇拜样本绝对规模而忽视抽样偏差；在二阶元分析与证据综合中，研究者主观估算或拼凑初级文献样本量（如《可见的学习》全库中高达 72% 的伴随样本量提取错误），直接扭曲逆方差权重与综合结论。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 18–19)]]
-> - **补救方式** 抽样前严格界定目标总体与分层框架；集群研究中基于 ICC 调整有效样本量；在元分析与证据库建设中建立双人独立提取与预注册核查机制，确保样本量提取依据的可审计性与可复现性。
+> - **适用边界** 样本量确定依赖明确界定的抽样框架与概率抽样假定；对于[[Non-probability Sampling|非概率抽样]]或[[Snowball Sampling|滚雪球抽样]]，公式计算结果无法保证统计推断有效性。
+> - **误用风险** 机械崇拜样本绝对规模而忽视抽样偏差；在二阶元分析与[[Research Synthesis|证据综合]]中，研究者主观估算或拼凑初级文献样本量（如《[[Visible Learning|可见的学习]]》全库中高达 72% 的伴随样本量提取错误），直接扭曲逆方差权重与综合结论。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 18–19)]]
+> - **补救方式** 抽样前严格界定目标总体与分层框架；集群研究中基于 ICC 调整有效样本量；在元分析与证据库建设中建立双人独立提取与[[Preregistration|预注册]]核查机制，确保样本量提取依据的可审计性与可复现性。
 
 ---
 

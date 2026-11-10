@@ -9,7 +9,7 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ tags:
   - theme/ecological-conservation
 related_concepts:
   - "[[Mentorship]]"
+  - "[[Early-Career Researchers]]"
   - "[[Paradigm]]"
   - "[[People-to-People Connectivity]]"
   - "[[Soft Power]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -88,7 +89,7 @@ updated: 2026-10-22
 > - **《肯尼亚植物志》（*Flora of Kenya*）编纂** 中肯学者联合编纂的权威生物分类学巨著，系统整理与记录了肯尼亚境内近七千种维管植物，填补了东非生物多样性本底调查的历史空白。
 > - **现代农业高产抗逆技术试验示范** 在肯尼亚试验基地成功试种并推广耐旱甜高粱、杂交水稻、旱稻及高产玉米品种，开展高产栽培农艺培训，助力东非农业减贫。
 > - **东非生态环境遥感数据库与监测系统** 建立覆盖东非大裂谷湖泊群与林地草地的长周期卫星遥感数据库，开展干旱预警与水土流失评估，为区域生态环境治理提供数据支撑。
-> - **高阶科技人才学位教育与短期培训** 依托中国政府专项奖学金资助非洲青年学者攻读硕博学位，并在农业生物技术和遥感应用领域举办数十期技术研修班。
+> - **高阶科技人才学位教育与短期培训** 依托中国政府专项奖学金资助非洲[[Early-Career Researchers|青年学者]]攻读硕博学位，并在农业生物技术和遥感应用领域举办数十期技术研修班。
 
 > [!citation-card] 合作[[Paradigm|范式]]向实体科研基地的深化
 > 2015年[[Forum on China-Africa Cooperation|中非合作论坛]]约翰内斯堡峰会承诺支持中非联合研究中心发展，并提供150个非洲硕博联合研究奖学金资助；2018年北京峰会进一步加大对其支持力度，拓展在生物多样性保护与现代农业领域的联合攻关。这表明中非教育合作正在由单纯的人员单向流动，深化为在地共建现代化科研实体平台与联合攻关网络。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224, 226–227)]]

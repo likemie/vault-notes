@@ -10,10 +10,10 @@ aliases:
 summary: "指生成能够挑战、突破或实质扩展既有学术范式的高风险概念构想与开创性方法的能力与过程。现代科学政策与科学学视角将科学创造力确立为学术生态系统环境下的涌现属性，其培育深度依赖于长探索周期、容忍失败、学术自主权与制度化雇佣稳定保障。"
 type: concept
 domain: "science-policy"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/science-policy
   - theme/sociology-of-science
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Grit]]"
   - "[[Construct]]"
   - "[[Variable]]"
+  - "[[Transnational Education]]"
   - "[[Exploration-Exploitation in Science]]"
   - "[[Academic Precarity]]"
   - "[[Strategic Conformity in Academia]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-03
-updated: 2026-11-05
+updated: 2026-11-11
 ---
 
 ---
@@ -210,7 +211,7 @@ updated: 2026-11-05
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Heinze_2009_RP\|Heinze et al. (2009)]] | 欧美纳米技术与人类遗传学领域 20 项顶尖科研突破（涵盖 689 位专家提名学者与获奖者数据库） | 纵向多案例比较研究（结合专家提名、获奖与引文数据） | 团队规模、互补多样性、资助模式与学术领导对重大突破的作用 | 15/20 案例中小型规模（2–8人）具决定性影响；75%案例依托灵活机构基线资助；突破后团队过度膨胀引发科层化 | 跨领域定性模式匹配与多源数据[[Triangulation\|三角验证]] | 确证突破性科学创造力高度关联于小型敏捷团队与组织互补技能支持 |
-> | [[Argument_Haubrock_2026_NHB\|Haubrock et al. (2026)]] | 德国与法国正职教授初聘队伍 | 跨国高等教育劳动力市场追踪 | 正职教授首次初聘平均年龄 | 德国推迟至 42.5 岁，法国从 32.7 岁推迟至 34.4 岁 | — | 证实学术劳动力市场晋升阶梯延后，压缩了青年学者的长期试错时空 |
+> | [[Argument_Haubrock_2026_NHB\|Haubrock et al. (2026)]] | 德国与法国正职教授初聘队伍 | [[Transnational Education\|跨国高等教育]]劳动力市场追踪 | 正职教授首次初聘平均年龄 | 德国推迟至 42.5 岁，法国从 32.7 岁推迟至 34.4 岁 | — | 证实学术劳动力市场晋升阶梯延后，压缩了青年学者的长期试错时空 |
 > | [[Argument_Haubrock_2026_NHB\|Haubrock et al. (2026)]] | 2025 年欧盟玛丽·居里博士后奖学金申请群体（$N = 17,066$） | 资助评审数据统计与文本审查 | 达标合格比例与最终立项资助率 | 合格率 92.8%（15,836 项），立项资助率骤降至 9.6% | 达标门槛 96 分 | 证实极端竞争导致的智识空转严重消耗青年学者创造精力 |
 > | [[Argument_Haubrock_2026_NHB\|Wu et al. (2019) via Haubrock et al. (2026)]] | 1954–2014 年 6,500 万项论著、专利与软件项目 | 大规模跨学科文献计量分析 | 团队规模对研究颠覆性指标（$D$ 指标）的影响 | 小团队（1–3人）颠覆性得分显著高于大团队；大团队倾向于既有范式增量发展 | $p < .001$ | 确证小团队更具开创新构想的突破活力，大团队更具范式巩固效应 |
 > | [[Argument_Azoulay_2011_RJE\|Azoulay et al. (2011)]] | 417 位美国顶尖生命科学家微观面板（73 位 HHMI 处理组与 344 位 NIH 对照组，1980–2006 年） | [[Inverse Probability of Treatment Weighting\|逆概率加权]]半参数双重差分模型（IPTW-SDD） | 全球前 1% 引文突破、个人基准试错成果（Flops）与医学主题词新颖度 | 入选 HHMI 显著提高前 1% 顶尖产出（$\beta = 0.678$），试错低引论著同步增加（$\beta = 0.317$），主题词重合度显著降低（$\beta = -0.259$） | $p < .01$ / $p < .10$ | 确证容忍早期失败与长程人本资助契约因果驱动高风险探索与重大突破 |

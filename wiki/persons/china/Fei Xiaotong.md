@@ -7,7 +7,7 @@ summary: "中国著名人类学家与社会学家，提出了中华民族多元�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
   - field/ethnic-studies
 related_concepts:
   - "[[Zhonghua Minzu]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Paradigm]]"
   - "[[Depoliticalization of Ethnic Policy]]"
   - "[[Second-generation Ethnic Policy]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-25'
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!person-profile] 人物档案
@@ -60,7 +61,7 @@ updated: 2026-10-30
 > [!timeline] 生平与职涯
 > - **1910** 出生于江苏吴江。
 > - **1930s** 先后在清华大学及英国伦敦政治经济学院（LSE）学习，师从人类学家布罗尼斯瓦夫·马林诺夫斯基（Bronisław Malinowski）。
-> - **1939** 出版博士论文 *Peasant Life in China*（《江村经济》），开创以社会人类学方法研究本国乡村社区的先河。
+> - **1939** 出版[[Doctoral Dissertation|博士论文]] *Peasant Life in China*（《江村经济》），开创以社会人类学方法研究本国乡村社区的先河。
 > - **1948** 出版 *From the Soil*（《乡土中国》），提出“差序格局”等刻画中国乡村社会结构的核心概念。
 > - **1988** 在香港中文大学发表唐纳（Tanner）讲座演讲《[[Zhonghua Minzu\|中华民族]]的多元一体格局》，系统阐发其民族学新观点，深刻影响了国家后续的政策走向与教科书编写。[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 101)]]
 > - **2005** 在北京逝世。

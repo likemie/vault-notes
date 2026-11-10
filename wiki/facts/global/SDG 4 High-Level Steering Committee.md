@@ -11,9 +11,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 18
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: intergovernmental-steering-body
 headquarters: "Paris, France"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Knowledge Mediation]]"
   - "[[Educational Multilateralism]]"
   - "[[Paradigm]]"
+  - "[[Country Ownership]]"
   - "[[Evidence-Informed Decision-Making]]"
   - "[[Educational Brokerage Agency]]"
 related_theories: []
@@ -42,6 +43,7 @@ related_facts:
   - "[[UN Sustainable Development Goals]]"
   - "[[UNESCO]]"
   - "[[Global Education Cooperation Mechanism]]"
+  - "[[Transforming Education Summit 2022]]"
   - "[[International Institute for Educational Planning]]"
   - "[[NORRAG]]"
   - "[[UNESCO Institute for Statistics]]"
@@ -53,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -80,7 +82,7 @@ updated: 2026-10-26
 >
 > - **2022–至今** **转型峰会跟进与循证行动深化**
 >
->   全面承担联合国教育变革峰会（Transforming Education Summit, TES）全球行动跟进职责，推进三大职能领域的制度化落地。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 13, 40)]]
+>   全面承担[[Transforming Education Summit 2022|联合国教育变革峰会]]（Transforming Education Summit, TES）全球行动跟进职责，推进三大职能领域的制度化落地。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 13, 40)]]
 >
 >   - **2022年9月** 联合国教育变革峰会指定委员会作为全球峰会行动承诺的官方跟进与监督机制。
 >   - **2024年** 依据战略审查成果，启动建立跨区域循证支持枢纽，推进全球研究成果向国家政策实践转化。
@@ -115,7 +117,7 @@ updated: 2026-10-26
 
 > [!indicators] 治理辐射与制度影响
 > - **全球政治号召力** 汇聚百余个成员国的最高教育行政长官与全球主要国际组织首脑，成为联合国系统内统筹全球[[Educational Multilateralism|教育多边主义]]的枢纽平台。
-> - **政策[[Paradigm|范式]]重塑** 促成全球教育治理从单纯依靠分散的项目援助，转向以共同基准指标、国家所有权与系统性实证证据为支撑的协同治理架构。
+> - **政策[[Paradigm|范式]]重塑** 促成全球教育治理从单纯依靠分散的项目援助，转向以共同基准指标、[[Country Ownership|国家所有权]]与系统性实证证据为支撑的协同治理架构。
 > - **区域桥梁构建** 推动全球教育合作机制打破自上而下的单向灌输，依托区域组织（如非洲、拉美、亚太区域机构）构建支持国家教育规划的双向反馈网络。
 
 ---

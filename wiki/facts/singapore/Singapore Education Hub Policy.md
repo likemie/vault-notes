@@ -12,7 +12,7 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Discourse]]"
   - "[[Cultural Diplomacy]]"
+  - "[[Education Export]]"
   - "[[Geopolitics]]"
   - "[[Soft Power]]"
   - "[[Liberalization]]"
@@ -38,13 +39,14 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Lee Kuan Yew]]"
-related_facts: []
+related_facts:
+  - "[[Ministry of Education of the People's Republic of China]]"
 related_arguments:
   - "[[Argument_Erfurth_2022_education-hubs]]"
 confidence: medium
 status: draft
 created: 2026-05-19
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!info] 背景
@@ -82,13 +84,13 @@ updated: 2026-10-22
 - **2007 年后** Global Schoolhouse 项目"无声消亡"（silent death），政策转向强化监管和质量保证——对私立高等教育部门进行多轮监管修补（p.209）
 
 > [!note] 文化外交与政治经济的交替节奏
-> "东方波士顿"以文化外交逻辑先行（通过精英大学合作培育区域影响力），"全球校园"随后补充政治经济逻辑（创造教育出口产业）。但两者并非平滑衔接——后者遭遇市场失败后，政策重心被迫回调至监管。这种"文化外交→政治经济→监管回撤"的交替节奏，是新加坡教育枢纽区别于阿联酋"空间分工"模式（阿布扎比=文化外交，迪拜=政治经济）的核心特征([[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, pp.206–211]])。
+> "东方波士顿"以文化外交逻辑先行（通过精英大学合作培育区域影响力），"全球校园"随后补充政治经济逻辑（创造[[Education Export|教育出口]]产业）。但两者并非平滑衔接——后者遭遇市场失败后，政策重心被迫回调至监管。这种"文化外交→政治经济→监管回撤"的交替节奏，是新加坡教育枢纽区别于阿联酋"空间分工"模式（阿布扎比=文化外交，迪拜=政治经济）的核心特征([[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, pp.206–211]])。
 
 ---
 
 > [!example] 实施情况
 
-- **主导机构** 经济发展局（EDB）和贸易与工业部（MTI）牵头，教育部（MOE）协调。高等教育政策被深度嵌入经济和贸易政策框架（p.209）
+- **主导机构** 经济发展局（EDB）和贸易与工业部（MTI）牵头，教育部（[[Ministry of Education of the People's Republic of China|MOE]]）协调。高等教育政策被深度嵌入经济和贸易政策框架（p.209）
 - **核心院校** NUS（按哈佛模式重塑）、NTU（按 MIT 模式重塑）、[[Lee Kuan Yew|李光耀]]公共政策学院（与哈佛肯尼迪学院合作）、耶鲁-NUS 文理学院（2011 年建立）（pp.207–208）
 - **实施逻辑** 国家主导 + 市场机制——新加坡政府负责政策框架、基础设施建设和品牌推广，同时创造自由市场式的高等教育产业环境吸引外国大学和全球人才（p.209）
 - **区域精英培育** 通过教育培训覆盖从企业高管到新加坡及邻国的公共行政人员——"既意味着收入，更意味着通过高等教育和伙伴关系产生的影响力"（p.207）

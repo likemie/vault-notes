@@ -9,18 +9,30 @@ aliases:
 summary: "创新经济学与科技政策的核心构念，指科学技术的发展建立在前人所产出知识、技术构件与实验工具的基础之上；上游基础发现不仅具备独立价值，更充当下游后续发明的直接投入品，因而上游知识产权保护范围与许可模式直接决定了下游技术发明的创新速率与拓展方向。"
 type: concept
 domain: "science-policy"
-related_count: 2
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 14
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/science-policy
   - concept/innovation-economics
   - theme/intellectual-property
   - theme/technology-transfer
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Research Tool]]"
+  - "[[Flow]]"
+  - "[[Document]]"
+  - "[[Data Withholding]]"
+  - "[[Independent Variable]]"
+  - "[[Dependent Variable]]"
+  - "[[Material Transfer Agreement]]"
+related_theories:
+  - "[[Path Dependence]]"
+  - "[[Technological Trajectories]]"
+  - "[[Systems of Innovation]]"
+related_methods:
+  - "[[Analytic Framework]]"
+  - "[[Sample Size Determination]]"
 related_instruments: []
 related_persons:
   - "[[Fiona Murray]]"
@@ -30,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-05
-updated: 2026-11-05
+updated: 2026-11-11
 ---
 
 ---
@@ -39,18 +51,18 @@ updated: 2026-11-05
 > 累积性创新指后续技术发现与科学突破建立在前序发明成果基础之上的创新形态；在这一过程中，早期产生的基础原理、实验数据、生物试剂或专有方法充当了后续探索的直接输入品，使得创新活动的社会收益在很大程度上取决于知识能否在代际与跨机构研究人员之间顺畅流动。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, p. 1060)]]
 
 > [!concept-lens|notitle] 概念透镜
-> - **含义** 刻画科学与技术进步的路径依赖与接力属性，强调前序发明不仅解决既有应用问题，更为后续探索提供“工具与肩膀”。
+> - **含义** 刻画科学与技术进步的[[Path Dependence|路径依赖]]与接力属性，强调前序发明不仅解决既有应用问题，更为后续探索提供“工具与肩膀”。
 > - **用途** 帮助科技政策制定者与法经济学者评估上游专利保护边界，在激励首创者与保障后续开发者之间权衡制度成本。
 > - **边界** 聚焦具有明显上下游技术投入依赖的链条式与网状创新，区别于孤立发生、不依赖前序专有输入的离散型技术改良。
 
 > [!citation-card|notitle] 关键表述
 > 科技进步的核心特征在于知识的累积性。当上游基础研究发明被排他性商业许可锁定时，如果该成果属于后续研究所必需的实体工具，外部科学家的累积探索链条将遭遇严重阻断，导致后续学术引文与技术溢出出现断崖式萎缩。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, pp. 1060, 1067)]]
 >
-> *Licensing of patented discoveries that are also research tools is associated with a reduction in citations to papers linked to these research advances, raising the possibility that licensing may restrict the flow of inputs to 'follow-on' scientific research.*
+> *Licensing of patented discoveries that are also [[Research Tool|research tools]] is associated with a reduction in citations to papers linked to these research advances, raising the possibility that licensing may restrict the [[Flow|flow]] of inputs to 'follow-on' scientific research.*
 
 > [!boundary]- 概念边界
 > - 不等于 独立离散创新（Discrete Innovation） — 离散创新指技术成果彼此独立、互不依赖特定专有输入品的发明形态（如日用塑料构件）；累积性创新强调下游研发必须以特定上游输入品为先决条件。
-> - 不等于 渐进性创新（Incremental Innovation） — 渐进性创新指在既有技术轨道上的微小效率改良；累积性创新强调发明之间的上下游时间序列投入关系，其下游成果完全可能是开创性的突破。
+> - 不等于 渐进性创新（Incremental Innovation） — 渐进性创新指在既有[[Technological Trajectories|技术轨道]]上的微小效率改良；累积性创新强调发明之间的上下游时间序列投入关系，其下游成果完全可能是开创性的突破。
 
 ---
 
@@ -94,15 +106,15 @@ updated: 2026-11-05
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **经济学理论模型** | 上游过度产权保护压缩后续改进者的创新回报 | 涉及两阶段研发投入的技术创新系统 | Scotchmer (1991) |
+> | **经济学理论模型** | 上游过度产权保护压缩后续改进者的创新回报 | 涉及两阶段研发投入的技术[[Systems of Innovation\|创新系统]] | Scotchmer (1991) |
 > | **实证计量因果检验** | 实体研究工具排他垄断导致后续累积引用暴跌过半 | 依赖生物实体输入品的生命科学实验领域 | [[Argument_Thompson_et_al_2018_RP\|Thompson et al. (2018)]] |
 
 ---
 
 > [!dev-timeline] 概念演变
-> - **1991 — 经济学理论奠基** 斯科奇默在《经济学展望杂志》发表经典文献《站在巨人的肩膀上：累积研究与专利法》，正式确立累积创新的跨期外部性分析框架。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, p. 1061)]]
-> - **2007 — 专利与科学出版物配对因果测度开拓** 菲奥娜·[[Fiona Murray|默里]]与斯特恩利用专利与出版物配对方法，在生物技术领域定量检验了上游产权对后续学术知识累积的抑制效应。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, p. 1061)]]
-> - **2017–2018 — 路标效应与物理阻滞机制细分** 德里瓦斯等（2017）提出学术专利可作为后续发明的导航路标；汤普森等（2018）进一步证明只有当上游发明与实体材料扣留相绑定时，累积创新的推进才会遭受系统性阻断。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, p. 1067)]]
+> - **1991 — 经济学理论奠基** 斯科奇默在《经济学展望杂志》发表经典[[Document|文献]]《站在巨人的肩膀上：累积研究与专利法》，正式确立累积创新的跨期外部性[[Analytic Framework|分析框架]]。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, p. 1061)]]
+> - **2007 — 专利与科学出版物配对因果测度开拓** [[Fiona Murray|菲奥娜·默里]]与斯特恩利用专利与出版物配对方法，在生物技术领域定量检验了上游产权对后续学术知识累积的抑制效应。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, p. 1061)]]
+> - **2017–2018 — 路标效应与物理阻滞机制细分** 德里瓦斯等（2017）提出学术专利可作为后续发明的导航路标；汤普森等（2018）进一步证明只有当上游发明与[[Data Withholding|实体材料扣留]]相绑定时，累积创新的推进才会遭受系统性阻断。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, p. 1067)]]
 
 ---
 
@@ -124,7 +136,7 @@ updated: 2026-11-05
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 自变量 | 因变量 | 样本量 | 核心实证统计结果 |
+> | 研究 | [[Independent Variable\|自变量]] | [[Dependent Variable\|因变量]] | [[Sample Size Determination\|样本量]] | 核心实证统计结果 |
 > |:---|:---|:---|:---|:---|
-> | [[Argument_Thompson_et_al_2018_RP\|Thompson et al. (2018)]] | 涉及 MTA 的科研工具专利达成商业许可 | 关联学术出版物后续 1 至 3 年前向期刊引用变动 | $N = 61$ 对配对样本 | 累积引用净减少 14.20 次（$p < 0.01$），后续探索活动收缩超过 50% |
+> | [[Argument_Thompson_et_al_2018_RP\|Thompson et al. (2018)]] | 涉及 [[Material Transfer Agreement\|MTA]] 的科研工具专利达成商业许可 | 关联学术出版物后续 1 至 3 年前向期刊引用变动 | $N = 61$ 对配对样本 | 累积引用净减少 14.20 次（$p < 0.01$），后续探索活动收缩超过 50% |
 > | [[Argument_Thompson_et_al_2018_RP\|Thompson et al. (2018)]] | 未涉及 MTA 的非工具专利达成商业许可 | 关联学术出版物后续 1 至 3 年前向期刊引用变动 | $N = 484$ 对配对样本 | 累积引用净增加 9.58 次（$SE = 5.86$），呈现弱正向引文溢出 |

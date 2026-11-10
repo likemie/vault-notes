@@ -10,7 +10,7 @@ aliases:
 summary: "英国杜伦大学学者斯蒂芬·戈拉德研发的因果研究质评核查表与可信度分级规程，依据研究设计、样本规模、数据缺失与测量质量四个维度进行非补偿性逐级筛查并划定0至4级评级"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 16
+instrument_related_count: 17
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#e5e7eb"
@@ -41,6 +41,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Sample Size Determination]]"
+  - "[[Statistical Significance]]"
   - "[[Random Sampling]]"
   - "[[Effect Size]]"
 related_instruments:
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -81,7 +82,7 @@ updated: 2026-10-30
 > [!proc] 核心核查规程与操作机制
 > 1. **从左至右非补偿性逐级下移** 评估者从左侧第一列（研究设计）开始阅读，仅当下移至某一行能完全满足该列描述时，方可水平移至下一列（样本规模）；在后续列核查中，只能保持在当前行或继续向下移（绝不可回退上移）。任何单项维度的致命缺陷都将直接拉低整体评级，不存在维度间的优势互补。
 > 2. **拒绝人为机械阈值与统计功效假设** 戈拉德筛子明确反对预先设定绝对[[Sample Size Determination\|样本量]]切分点（如机械规定 400 人以上为大、20 人以下为小）或机械流失率阈值（如一律以 2% 为低、50% 为高）。评估者必须结合具体情境审查流失的均衡性与背后的机制动因（例如：对照组因未能接受干预而产生的愤懑退出，与实验组因反感干预而退出，其偏倚性质完全不同）。
-> 3. **彻底摒弃[[Null Hypothesis\|零假设]]显著性检验** 筛子拒绝将基于零假设显著性检验（Null [[Hypothesis]] Significance Testing, NHST）的统计功效计算作为样本充足性的标准。因为真实教育研究几乎无法达成全[[Random Sampling\|随机抽样]]假设，功效计算往往基于循环假设且极具误导性，质评核心在于直接审查实际每组样本规模、[[Effect Size\|效应量]]与数据缺失敏感性。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 601)]]
+> 3. **彻底摒弃[[Null Hypothesis\|零假设]][[Statistical Significance|显著性检验]]** 筛子拒绝将基于零假设显著性检验（Null [[Hypothesis]] Significance Testing, NHST）的统计功效计算作为样本充足性的标准。因为真实教育研究几乎无法达成全[[Random Sampling\|随机抽样]]假设，功效计算往往基于循环假设且极具误导性，质评核心在于直接审查实际每组样本规模、[[Effect Size\|效应量]]与数据缺失敏感性。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 601)]]
 
 ---
 

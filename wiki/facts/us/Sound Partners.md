@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -41,7 +41,8 @@ related_methods:
   - "[[Efficacy Trial]]"
   - "[[Randomised Controlled Trials]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Ben Levin]]"
 related_facts:
   - "[[United States Department of Education]]"
   - "[[Institute of Education Sciences]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -78,7 +79,7 @@ updated: 2026-10-26
 > - **脚本化精准递送模式** 助教手持按分钟细分的操作脚本，严格执行“示范—引导—独立练习”的[[Direct Instruction\|直接教学]]步骤，每次辅导控制在 30 分钟，每周实施 4 至 5 次。
 > - **强保真度质控机制** 配套提供现场观察量规与双周教学录音抽检，确保非专业人员在无监督状态下依然维持极高的[[Implementation Fidelity\|实施保真度]]。
 
-> [!citation-card] 斯莱文论助教一对一辅导的实证突破
+> [!citation-card] 斯[[Ben Levin|莱文]]论助教一对一辅导的实证突破
 > 由经过 1–2 天系统培训、使用高度脚本化和结构化教材的教学助教开展的小组与个别辅导，其学业[[Effect Size\|效应量]]完全能够比肩高薪酬认证专业教师的水平；而助教薪酬仅为认证教师的 1/3 到 1/2。Sound Partners 的多项实验证实了这一结论（效应量达到 +0.43）。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 27–28)]]
 >
 > *Tutoring provided by well-qualified [[Teaching Assistant|Teaching Assistants]] using structured approaches produces positive impacts on reading achievement. Sound Partners validated in randomized trials with teaching assistants yielded an effect size of +0.43, meeting the strong [[Evidence Standards]] of [[Every Student Succeeds Act\|ESSA]].*

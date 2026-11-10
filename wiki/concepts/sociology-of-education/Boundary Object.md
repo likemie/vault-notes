@@ -8,7 +8,7 @@ aliases:
 summary: "指在不同社会群体或学科共同体之间保持足够通用性以维持共同认同，同时又具备充分可塑性以适应各方特定情境需求的物质、符号或数字化人工制品"
 type: concept
 domain: "sociology-of-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Critical Thinking]]"
+  - "[[Algorithmic Bias]]"
   - "[[Variable]]"
 related_theories:
   - "[[Third Generation Activity Theory]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-31
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -135,7 +136,7 @@ updated: 2026-11-03
 > >
 > > - **Star（2010）** 在回顾反思中强调，边界对象必须同时满足“局部可塑性”与“跨界共有鲁棒性”，且植根于具体的合作实践，不能简单等同于泛泛的媒介或通信渠道。
 >
-> > [!warning] 权力不对称与算法偏见
+> > [!warning] 权力不对称与[[Algorithmic Bias|算法偏见]]
 > > 边界对象可能隐藏技术开发者预设的文化与意识形态偏见，弱势群体的声音在与大模型交互时可能被主流算法[[Discourse|话语]]所同化或消解。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 13)]]
 
 ---

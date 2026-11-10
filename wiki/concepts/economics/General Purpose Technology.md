@@ -43,7 +43,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[University-Industry Collaboration]]"
   - "[[Public-Private Partnership]]"
-  - "[[Document]]"
+  - "[[Homophily]]"
 related_theories:
   - "[[Techno-economic Paradigm]]"
   - "[[Technological Trajectories]]"
@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -216,7 +216,7 @@ updated: 2026-11-03
 ---
 
 > [!dev-timeline] 概念演变
-> - **1963 — 机床工业的技术演进起源** 内森·罗森伯格（Nathan Rosenberg）在研究美国机床工业史时首次提出[[Technological Convergence|技术汇合]]（Technological Convergence）思想，指出通用制造技术在不同行业间的通用性传播规律。
+> - **1963 — 机床工业的技术演进起源** 内森·罗森伯格（Nathan Rosenberg）在研究美国机床工业史时首次提出技术汇合（[[Technological Convergence]]）思想，指出通用制造技术在不同行业间的通用性传播规律。
 > - **1980s–1995 — [[Evolutionary Economics|演化经济学]]技术-经济[[Paradigm|范式]]奠定** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）与卡萝塔·佩雷斯（[[Carlota Perez]]）提出[[Techno-economic Paradigm|技术-经济范式]]理论，指出以微电子为代表的根本性通用技术扩散需要跨部门的管理变革、多技能工种培训与国家制度框架调适。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 17–19)]]
 > - **1995 — 通用目的技术形式化模型确立** 布雷斯纳汉与特拉伊滕贝格正式提出通用目的技术（GPT）模型，将其形式化为兼具普遍渗透性、内在动态性与互补性创新的宏观增长引擎。
 > - **1999 — 硅微电子产业史经验确证** 莱屈耶通过[[Fairchild Semiconductor|仙童半导体]]从军用到民用市场的历史[[Case Study|个案研究]]，确证了硅技术确立为通用目的技术的微观企业与制造机理。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 179–209)]]
@@ -289,6 +289,6 @@ updated: 2026-11-03
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 论证电子计算机、计算机软件与半导体组件三大基础部门如何经由国防研发投入、先导采购与第二货源机制在产业萌芽期获得催化，并在成熟期演进为由民用向军用逆向溢出的全局通用目的技术——互联网。
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 系统考察战后半导体、计算机硬件与软件三大产业演化，揭示国防采购、反垄断同意令（1956年AT&T同意令、1956年IBM同意令）、大学[[Disciplinary Institutionalization|学科建制]]与用户[[Co-invention|共同发明]]如何推动信息[[Technological Convergence|技术汇聚]]为互联网这一通用目的技术，并探讨其对气候变化能源创新的镜鉴意义。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 从技术-经济[[Paradigm|范式]]与长波演化视角论证以微电子与计算机为代表的通用目的技术扩散高度依赖劳动力多技能培训与国家社会制度调适，并以日韩与拉美在机器人、数控机床及通信基础设施上的反差确证国家[[Systems of Innovation|创新系统]]的关键作用。
-> - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 深入对比半导体（GPT）与能源电力（非 GPT）的技术经济特征，论证通用目的技术的跨领域渗透性如何赋能宽广的前竞争[[University-Industry Collaboration|产学合作]]空间，并揭示电网长周期基础设施锁定与产出同质性对直接复制半导体联合体模式的结构性约束。
+> - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 深入对比半导体（GPT）与能源电力（非 GPT）的技术经济特征，论证通用目的技术的跨领域渗透性如何赋能宽广的前竞争[[University-Industry Collaboration|产学合作]]空间，并揭示电网长周期基础设施锁定与产出[[Homophily|同质性]]对直接复制半导体联合体模式的结构性约束。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 从国家科技战略与国际标准治理维度，系统阐释微电子作为核心通用目的技术在全球产业链与后摩尔时代创新中的枢纽地位，论证通过国家标准与技术研究院（NIST）深度参与国际标准制定组织（SDOs）、抢先确立小芯片与[[Hardware Security|硬件安全]]开放标准以锁定全球生态架构的战略必要性（Goal 4.5）。
 

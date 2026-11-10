@@ -9,7 +9,7 @@ title: "Argument_Blass_2020_JESP"
 argument_key: "Argument_Blass_2020_JESP"
 argument_display_title: "Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia"
 argument_kind: "journal-article"
-argument_related_count: 14
+argument_related_count: 15
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Critical Thinking]]"
   - "[[Literature Review]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Surface and Deep Learning]]"
   - "[[Causality]]"
   - "[[Direct Instruction]]"
@@ -45,7 +46,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: 2026-10-30
+updated: 2026-11-11
 year: 2020
 doi: ""
 citation_aliases:
@@ -74,7 +75,7 @@ citation_aliases:
 > ### 2. 情境
 >
 > - 澳大利亚在西方国家中人口分布独特——有高度分散的偏远和农村人口，许多学校无法获得专科教师（如数学和科学）
-> - Hattie 分析中的大多数论文来自美国，部分为未发表的美国大学博士论文，少量来自加拿大。美国学校系统、课程和规定与澳大利亚差异很大
+> - Hattie 分析中的大多数论文来自美国，部分为未发表的美国大学[[Doctoral Dissertation|博士论文]]，少量来自加拿大。美国学校系统、课程和规定与澳大利亚差异很大
 > - PBL 在医学教育中的研究表明知识覆盖范围更窄但学习深度更大——如果目标是深度学习则 PBL 合适，目标是广泛[[Surface and Deep Learning\|表层学习]]则不合适。简单的效应量评级和一般排名不允许考虑不同情境或学习目标
 >
 > ### 3. 假设

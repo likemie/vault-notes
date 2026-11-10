@@ -10,7 +10,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 7
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -21,6 +21,7 @@ tags:
   - theme/educational-governance
 related_concepts:
   - "[[International Baccalaureate]]"
+  - "[[Transnational Education]]"
   - "[[International Education]]"
 related_persons:
   - "[[John Goormaghtigh]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -55,7 +56,7 @@ updated: 2026-10-22
 > - **首届代表产生** 比利时、加拿大、丹麦、法国、荷兰、日本、苏丹和英国的代表首先进入 IBO 国际理事会。
 > - **1984 年** IBO 国际理事会扩大到 27 人，使不同组成部分能够实行三年轮换。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 161–162)]]
 
-会议把出资理由从慈善援助改写为公共服务责任。政府会费因此不只是收入来源，也成为政府取得代表权并承担跨国教育责任的制度基础。
+会议把出资理由从慈善援助改写为公共服务责任。政府会费因此不只是收入来源，也成为政府取得代表权并承担[[Transnational Education|跨国教育]]责任的制度基础。
 
 > [!row-contrast] 会议形成的治理安排
 > | 决定 | 具体安排 | 制度作用 | 尚未解决的问题 |

@@ -6,7 +6,7 @@ aliases:
 summary: "由批判教育学与实用主义提出的三环节课程模型，主张主动学习必须由批判性思维、对话与指向变革不公的实践成长（Praxis）共同构成"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 50
+related_count: 52
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Self-Efficacy]]"
   - "[[Rote Learning]]"
+  - "[[Problematisation]]"
   - "[[Wicked Problem]]"
   - "[[Conscientization]]"
   - "[[Critical Pedagogy]]"
@@ -62,6 +63,7 @@ related_persons:
   - "[[John Dewey]]"
   - "[[Paulo Freire]]"
   - "[[Robert Slavin]]"
+  - "[[Ben Levin]]"
 related_facts:
   - "[[Success for All]]"
   - "[[Skills Toward Employment and Productivity]]"
@@ -74,7 +76,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -112,7 +114,7 @@ updated: 2026-11-03
 ---
 
 > [!feature] 主动学习的核心构成要素
-> - **[[Critical Thinking\|批判性思维]]与问题化探究（Problem-Posing & Critical Thinking）** 抛弃[[Rote Learning\|死记硬背]]，以真实[[Wicked Problem|劣构问题]]或认知冲突为起点，引导学生主动检索、质疑与论证。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 8–9)]]
+> - **[[Critical Thinking\|批判性思维]]与[[Problematisation|问题化]]探究（Problem-Posing & Critical Thinking）** 抛弃[[Rote Learning\|死记硬背]]，以真实[[Wicked Problem|劣构问题]]或认知冲突为起点，引导学生主动检索、质疑与论证。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 8–9)]]
 > - **民主对话与同伴意义协商（Dialogue & Peer Collaboration）** 师生与生生建立平等对话关系，在异质交流中相互辩护、纠偏并达成深层共识。
 > - **具身探究与动手做（Experiential Doing）** 依托项目制作、实验探究或[[Role-playing\|角色扮演]]，将抽象符号知识锚定于具体活动情境中。
 > - **[[Conscientization\|批判意识觉醒]]与实践行动（Conscientization & [[Praxis]]）** 将学习收获转化为改造个人生活、社区与社会现实的行动，实现认知与社会性成长。
@@ -158,7 +160,7 @@ updated: 2026-11-03
 > - **1970 年代 — [[Critical Pedagogy\|批判教育学]]与[[Problem-Posing Education\|提问式教育]]重构** [[Paulo Freire\|保罗·弗莱雷]]在《被压迫者教育学》中提出“提问式教育”，以民主对话和[[Conscientization\|批判意识觉醒]]彻底颠覆“[[Banking Model of Education\|储蓄式教育]]”。
 > - **1980–1990 年代 — [[Constructivist Paradigm\|建构主义]]与认知科学转向** 建构主义心理学将主动学习解释为学习者主动将新知识同化与顺应进认知图式的内部加工过程。
 > - **2010 年代 — 高等教育与 [[STEM Education\|STEM]] 领域实证爆发** 针对高校大班讲授的[[Meta-analysis\|元分析]]（如 Freeman et al., 2014）证实主动学习相比传统讲授显著降低挂科率并提[[Gaokao\|高考]]试成绩。
-> - **2019 年至今 — 循证改革对抽象原则的批判与方案化转型** 斯莱文（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019]]）系统指出抽象主动学习原则在基础教育改革中的落地局限，主张转向经过严格 [[Randomised Controlled Trials\|RCT]] 检验的具体结构化项目。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–23)]]
+> - **2019 年至今 — 循证改革对抽象原则的批判与方案化转型** 斯[[Ben Levin|莱文]]（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019]]）系统指出抽象主动学习原则在基础教育改革中的落地局限，主张转向经过严格 [[Randomised Controlled Trials\|RCT]] 检验的具体结构化项目。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–23)]]
 
 ---
 

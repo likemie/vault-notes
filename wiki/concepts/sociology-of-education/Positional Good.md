@@ -10,7 +10,7 @@ aliases:
 summary: "由弗雷德·赫希（Fred Hirsch）提出、教育社会学广泛应用的核心概念。指其价值主要取决于个体相对于其他社会成员的排他性占有程度，而非其绝对效用或物质属性的商品；在教育领域中，高阶文凭与名校排位作为位置性商品，其社会供应总量受到客观结构的严格限制，个体竞相投资教育的理性行为在宏观上导致文凭通胀、中产焦虑与社会零和博弈。"
 type: concept
 domain: "sociology-of-education"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Peer-Supported Learning]]"
   - "[[Paradigm]]"
   - "[[Social Imaginary]]"
+  - "[[Transnational Education]]"
   - "[[Grandes Ecoles]]"
   - "[[Cultural Capital]]"
   - "[[Lifelong Learning]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -125,7 +126,7 @@ updated: 2026-11-03
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **合成谬误命题** | 微观理性追求相对排位在宏观上导致文凭通胀与零和内耗 | 高等教育大众化与求职门槛普遍抬高 | Hirsch; Brown et al. |
-> | **教育性质异化命题** | 知识经济话语将教育从民主公共品剥离为劳动力市场排位筹码 | 全球化背景下跨国教育治理与新自由主义政策重组 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] |
+> | **教育性质异化命题** | 知识经济话语将教育从民主公共品剥离为劳动力市场排位筹码 | 全球化背景下[[Transnational Education\|跨国教育]]治理与新自由主义政策重组 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] |
 
 ---
 

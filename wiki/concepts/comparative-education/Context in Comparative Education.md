@@ -12,7 +12,7 @@ aliases:
 summary: "比较教育学核心认识论概念，批判将背景视为静态地理疆域或既定制度容器的传统小写背景观，主张将背景理解为由跨国话语、知识证据、专家网络与本土合法化需求相互装配而动态生成的大写背景"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Politics of Knowledge]]"
   - "[[Transnational Education]]"
   - "[[Paradigm]]"
+  - "[[Nationalism]]"
   - "[[Scientization of Politics]]"
   - "[[Policy-Based Evidence-Making]]"
   - "[[Nordic Model of Education]]"
@@ -61,7 +62,7 @@ tags:
   - theme/assemblage
   - method/comparative-policy-analysis
 created: 2026-11-09
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -139,7 +140,7 @@ updated: 2026-11-10
 
 > [!dev-timeline] 概念演变
 > - **19 世纪末–20 世纪 — 容器式背景盛行** 早期比较教育研究将国家背景视为由民族性、文化传统与法律构成的既定环境，奠定了小写背景的分析[[Paradigm|范式]]。
-> - **2012–2018 — 关系性背景转向** 索比与科瓦尔奇克 (Sobe & Kowalczyk, 2012, 2014, 2018) 开展系列奠基性研究，批判方法论民族主义与容器式思维，系统提出结合装配理论（Assemblage）的大写背景观。
+> - **2012–2018 — 关系性背景转向** 索比与科瓦尔奇克 (Sobe & Kowalczyk, 2012, 2014, 2018) 开展系列奠基性研究，批判方法论[[Nationalism|民族主义]]与容器式思维，系统提出结合装配理论（Assemblage）的大写背景观。
 > - **2024–2025 — 经验化循证政策追踪** [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] 将大写背景观运用于北欧三国学校改革实证检验，揭示了知识、专家与政策议程如何在微观博弈中共同编织政策背景。
 
 ---

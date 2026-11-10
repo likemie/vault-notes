@@ -6,10 +6,10 @@ aliases:
 summary: "将全球与地方视为对立两极的分析框架，被批评为过度简化、掩盖复杂性，是比较教育需要超越的概念局限"
 type: concept
 domain: "comparative-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theory/social-theory
   - theme/comparative-education
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Charter Schools]]"
   - "[[Relational Space]]"
   - "[[Methodological Nationalism]]"
+  - "[[Nationalism]]"
   - "[[Unit of Analysis]]"
 related_theories:
   - "[[Actor-Network Theory]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -58,7 +59,7 @@ updated: 2026-10-30
 > [!example] 概念辨析
 > - vs [[Relational Space\|关系性空间]] — 关系性空间概念旨在超越全球/地方二元对立，将空间理解为关系的效果而非固定的容器。
 > - vs [[Actor-Network Theory\|行动者网络理论]] — ANT 通过将全球-地方二元对立视为网络效果而非基础假设，提供了超越这一对立的方法论工具。
-> - vs [[Methodological Nationalism\|方法论民族主义]] — 方法论民族主义以民族国家为[[Unit of Analysis\|分析单位]]，隐含着全球/地方二元对立的空间假设。
+> - vs [[Methodological Nationalism\|方法论民族主义]] — 方法论[[Nationalism|民族主义]]以民族国家为[[Unit of Analysis\|分析单位]]，隐含着全球/地方二元对立的空间假设。
 
 ---
 

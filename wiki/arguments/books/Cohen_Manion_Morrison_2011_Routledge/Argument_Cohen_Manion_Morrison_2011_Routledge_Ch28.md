@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28"
 argument_display_title: "Research Methods in Education · Ch28"
 argument_kind: "book-chapter"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Nomothetic]]"
   - "[[Causality]]"
   - "[[Discourse]]"
+  - "[[Research Tool]]"
   - "[[External Validity]]"
   - "[[Research Purpose]]"
   - "[[Informed Consent]]"
@@ -85,7 +86,7 @@ related_facts: []
 related_arguments: []
 status: draft
 created: 2026-08-14
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
@@ -232,7 +233,7 @@ updated: 2026-10-30
 
 > [!chain-link] 厚描述与双重诠释的论证链
 > - **链节一：质性数据天然带诠释**
->   质性数据来自访谈、观察等研究工具，数据如此丰富，分析必然涉及大量选择与排序，因此不可避免地带入研究者的判断。
+>   质性数据来自访谈、观察等[[Research Tool|研究工具]]，数据如此丰富，分析必然涉及大量选择与排序，因此不可避免地带入研究者的判断。
 > - **链节二：数据包裹在社会事件之中**
 >   由于所获数据都包裹在社会事件之中，报告涉及双重诠释过程（[[Anthony Giddens\|安东尼·吉登斯]]（Anthony Giddens）, 1976）。研究者诠释参与者已经诠释过的世界，再以自己的语言转述给受众。
 > - **链节三：事实与诠释不可分离**

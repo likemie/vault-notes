@@ -10,7 +10,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 32
+fact_related_count: 33
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Governing by Numbers]]"
   - "[[Discourse]]"
+  - "[[Transnational Education]]"
   - "[[Commensuration]]"
   - "[[New Public Management]]"
   - "[[Global Educational Policy Field]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -127,7 +128,7 @@ updated: 2026-11-02
 > - **范式转化效应** 开拓了“以数治教”（[[Governing by Numbers]]）政策社会学新研究领域，深刻影响了欧美教育治理学术[[Discourse|话语]]。
 
 > [!finding-cards] 关键研究发现
-> - **确立“以数治教”理论** 论证了跨国教育评估通过制造可[[Commensuration|通约]]性与竞争焦虑来重塑国内教育体制，构成了实质性的软法治理装置。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–26, 34–35)]]
+> - **确立“以数治教”理论** 论证了[[Transnational Education|跨国教育]]评估通过制造可[[Commensuration|通约]]性与竞争焦虑来重塑国内教育体制，构成了实质性的软法治理装置。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–26, 34–35)]]
 > - **揭示政策借用的外在化机制** 阐明各国政府面对跨国测评时，均依据国内政治需求对数据进行策略性裁量与政治转译。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 28–32, 34–35)]]
 
 > [!stat-cards]- 核心数据

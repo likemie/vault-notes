@@ -9,7 +9,7 @@ aliases:
 summary: "个体对认知的主观维度与客观维度的协调能力，以及对认识论理想与可靠认识过程之规范合理性与边界条件的元认知理解。"
 type: concept
 domain: "educational-psychology"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -50,7 +50,8 @@ related_instruments:
 related_persons:
   - "[[Deanna Kuhn]]"
   - "[[Clark A. Chinn]]"
-related_facts: []
+related_facts:
+  - "[[Dimensions]]"
 related_arguments:
   - "[[Argument_Kuhn_2000_CD]]"
   - "[[Argument_Duncan_2025_CI]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-16
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -76,7 +77,7 @@ updated: 2026-11-03
 >
 > 认识论推理不仅包含认知理解（知晓某种程序具有[[Reliability\|可靠性]]），更本质地包含元认识论理解——理解该理想或方法为何是可靠的，以及明确其在何种边界条件下会走向失效。（pp. 207–208）
 >
-> *We propose that the developmental task that underlies the achievement of mature epistemological understanding is the coordination of the subjective and objective dimensions of knowing... Cognitive and meta-epistemic understanding: understanding why an ideal or process is reliable (e.g., blocking bias), and understanding the boundary conditions under which it fails.*
+> *We propose that the developmental task that underlies the achievement of mature epistemological understanding is the coordination of the subjective and objective [[Dimensions|dimensions]] of knowing... Cognitive and meta-epistemic understanding: understanding why an ideal or process is reliable (e.g., blocking bias), and understanding the boundary conditions under which it fails.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Epistemological Beliefs]]（认识论信念）：信念侧重于个体对知识确定性或来源的脱域主观认同；认识论理解强调反思性协调能力与因果机制理解。

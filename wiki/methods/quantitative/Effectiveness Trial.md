@@ -10,7 +10,7 @@ summary: "循证教育研究中用于评估干预方案在日常、真实复杂�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 33
+method_related_count: 34
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -49,6 +49,7 @@ related_methods:
   - "[[Cluster Randomized Trials]]"
   - "[[Questionnaire]]"
   - "[[Analysis of Covariance]]"
+  - "[[Instrumental Variables]]"
   - "[[Pre-test and Post-test]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Effect Size]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 ---
@@ -108,7 +109,7 @@ updated: 2026-10-29
 > [!method-stack] 方法层级
 > - **研究设计** 多地点大规模整群[[Randomised Controlled Trials\|随机对照试验]]（Multi-site [[Cluster Randomized Trials\|Cluster RCT]]）、阶梯楔形整群试验（Stepped-Wedge Cluster RCT）。
 > - **数据收集** 关联国家行政普查数据库（如英国[[National Pupil Database\|国家学生数据库]] NPD）、盲法全纳终点统考、大规模[[Questionnaire\|问卷]]与教师日志。
-> - **分析方法** 多水平协方差模型（Hierarchical [[Analysis of Covariance\|ANCOVA]]）、工具[[Variable\|变量]]法（IV-2SLS 估计 [[Complier Average Causal Effect\|CACE]]）、流失敏感性检验。
+> - **分析方法** 多水平协方差模型（Hierarchical [[Analysis of Covariance\|ANCOVA]]）、工具[[Variable\|变量]]法（[[Instrumental Variables|IV]]-2SLS 估计 [[Complier Average Causal Effect\|CACE]]）、流失敏感性检验。
 > - **辅助技术** IPE 实施过程六维核查矩阵、常态对照基线行为追踪。
 
 ---

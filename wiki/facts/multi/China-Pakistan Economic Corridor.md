@@ -9,7 +9,7 @@ subtype: program
 region: multi
 fact_region: "multi"
 fact_kind: "program"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Industrial District]]"
   - "[[Student Mobility]]"
+  - "[[Study Abroad]]"
   - "[[Financial Diplomacy]]"
   - "[[Public Diplomacy]]"
   - "[[Document]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -65,7 +66,7 @@ updated: 2026-10-30
 
 > [!policy-design] 方案设计
 > - **项目目标** 建设高标准跨国综合经济走廊，打造联通中国西部与印度洋的贸易物流新动脉，提升巴基斯坦自主工业制造能力与劳动力技能水平。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 9–10)]]
-> - **覆盖对象** 巴基斯坦全国各省产业集群、电力能源缺口区、沿海港口特区、当地工程技术工人与青年留学生群体。
+> - **覆盖对象** 巴基斯坦全国各省产业集群、电力能源缺口区、沿海港口特区、当地工程技术工人与青年[[Study Abroad|留学]]生群体。
 > - **干预措施** 规划建设商业发电机组（煤电、水电、风电与太阳能）、改造升级跨境高等级公路与铁路枢纽、铺设跨境高山直连光缆、扩建瓜达尔港及配建临港工业区，同时配建中国政府援助的瓜达尔职业技术学校、拉合尔[[Luban Workshop|鲁班工坊]]实训基地，并向巴基斯坦提供医学（MBBS）与公路工程等重点学科留华奖学金。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 9–10, 26–28)]]
 > - **实施控制** 依托两国政府联合合作委员会（JCC）下设的交通基础设施、能源、瓜达尔港、产业合作等专项联合工作组，定期磋商工程进度、财税优惠与政策协调机制。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 9–10)]]
 

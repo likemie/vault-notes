@@ -8,7 +8,7 @@ aliases:
 summary: "大学与科研体系为保护学术研究、关键技术与知识产权免受外国不当干预、经济间谍活动与未经授权转移而建立的制度性风险防范机制；近年在大国地缘技术博弈中进一步上升为国家科技治理重塑国际科研合作边界、将学术自治置于国家安全合规之下的核心治理工具。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 27
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Geopolitics]]"
   - "[[Operationalization]]"
+  - "[[Scientific Mobility]]"
   - "[[Research Topic]]"
   - "[[Knowledge Production]]"
   - "[[Dual-Use Technology]]"
@@ -45,6 +46,7 @@ related_methods:
   - "[[Case Study]]"
 related_persons: []
 related_facts:
+  - "[[Web of Science]]"
   - "[[CHIPS and Science Act]]"
   - "[[Restoring Gold Standard Science Executive Order]]"
 related_arguments:
@@ -55,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -82,7 +84,7 @@ updated: 2026-11-03
 > [!contrast-table] 研究安全与相近治理概念的维度辨析
 > | 维度 | 研究安全（Research Security） | 网络安全（Cybersecurity） | 出口管制（Export Controls） | [[Academic Freedom\|学术自由]]（Academic Freedom） |
 > |------|-------------------------------|---------------------------|----------------------------|----------------------------|
-> | **管制对象** | 国际学术合作网络、学者流动与联合资助关系 | 计算系统、数据存储设施与通信基础设施 | 敏感物项、军民两用软件与核心工艺数据转移 | 学术共同体对[[Research Topic\|研究选题]]、方法探索与成果发表的自主权 |
+> | **管制对象** | 国际学术合作网络、[[Scientific Mobility\|学者流动]]与联合资助关系 | 计算系统、数据存储设施与通信基础设施 | 敏感物项、军民两用软件与核心工艺数据转移 | 学术共同体对[[Research Topic\|研究选题]]、方法探索与成果发表的自主权 |
 > | **核心风险** | 外国政府不当干预、知识产权无序外溢与隐性利益冲突 | 系统入侵、数据勒索、服务瘫痪与恶意篡改 | 违规向受制裁国家或实体转让关键制造与国防技术 | 外部政治行政干预、学术选题审查与学术共同体失声 |
 > | **主导机制** | 利益申报、风险排查审查与高校保障服务 | 防火墙、身份认证、漏洞修补与加密协议 | 许可证审批、实体清单核验与海关合规监管 | 同行评议、终身教职制度与学术自治规范 |
 > | **规范诉求** | 在地缘博弈中维护国家安全与科研生态的可持续互信 | 保障关键数字资产与科研数据存储的完整与保密 | 防止受控关键硬件与前沿技术外流 | 保障科学[[Knowledge Production\|知识生产]]的客观真理性与独立探索精神 |
@@ -123,7 +125,7 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题三｜科研安全的刚性泛化将诱发学术界避险主义与全球开放科学网络断裂
+> [!concept-proposition] 命题三｜科研安全的刚性泛化将诱发学术界避险主义与全球开放[[Web of Science|科学网]]络断裂
 > **治理过载与微观科研生态异化** 这类命题探讨当科研安全审查突破合理的关键技术边界而全面泛化时，对微观学术研究行为、科研效率与全球科学网络带来的结构性负面影响。
 
 > [!claim] [[Argument_Fan_2026_BCAS|樊春良 (2026)]]

@@ -8,7 +8,7 @@ aliases:
 summary: "由国际同行方法学专家组研制的系统综述与元分析优先报告条目清单，包含27项核心核查条目与四阶段文献流转图，为证据综合提供从数据库检索、去重、初筛、全文合格性审阅到最终纳入全流程的方法学透明度与报告合规性标准。"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 42
+instrument_related_count: 45
 instrument_related_level: 4
 instrument_related_stars: "💎⭐"
 instrument_related_color: "#e5e7eb"
@@ -51,11 +51,12 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Variable]]"
   - "[[Adjunct Aids]]"
+  - "[[School Leadership]]"
+  - "[[Research Utilization]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Creativity]]"
   - "[[Critical Thinking]]"
   - "[[Epistemic Cognition]]"
-  - "[[Research Utilization]]"
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"
@@ -76,9 +77,11 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Education Resources Information Center]]"
+  - "[[Web of Science]]"
+  - "[[Scopus]]"
 related_arguments:
-  - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
+  - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Runco_2026_CRJ]]"
   - "[[Argument_Park_2026_TSC]]"
@@ -88,7 +91,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-11-07
+updated: 2026-11-11
 ---
 
 ---
@@ -198,9 +201,9 @@ updated: 2026-11-07
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | PRISMA 2020 声明 | 109 项中小学教师与学校领导者研究使用实证文献 | 系统综述全流程合规与流程图呈现 | 规范呈现三库检索 32,333 条记录至最终 109 项纳入研究的双盲筛选全流程。 |
+> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | PRISMA 2020 声明 | 109 项中小学教师与[[School Leadership\|学校领导]]者[[Research Utilization\|研究使用]]实证文献 | 系统综述全流程合规与流程图呈现 | 规范呈现三库检索 32,333 条记录至最终 109 项纳入研究的双盲筛选全流程。 |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | PRISMA 2020 | 跨 Web of Science、Scopus、[[Education Resources Information Center\|ERIC]]、PsycINFO 与 CNKI 检索的 66 篇实证研究（72 个[[Effect Size\|效应量]]） | [[Systematic Review\|系统综述]]与[[Meta-analysis\|元分析]]报告规范性 | 严格依循 PRISMA 2020 标准开展双语跨库检索，双人独立背对背完成初筛与全文本审阅，并以规范流转图详尽报告排除理由。 |
-> | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | PRISMA 2020 | Web of Science、Scopus 与 ERIC 检索的 409 篇初始记录至 67 篇最终纳入实证研究 | 高等教育生成式 AI 实证综述规范性 | 严格落实四阶段流转程序，经标题摘要初筛与全文审阅，最终纳入 67 篇研究进行[[Higher-Order Thinking Skills\|高阶思维]]认知模式主题综合。 |
+> | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | PRISMA 2020 | [[Web of Science]]、[[Scopus]] 与 ERIC 检索的 409 篇初始记录至 67 篇最终纳入实证研究 | 高等教育生成式 AI 实证综述规范性 | 严格落实四阶段流转程序，经标题摘要初筛与全文审阅，最终纳入 67 篇研究进行[[Higher-Order Thinking Skills\|高阶思维]]认知模式主题综合。 |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | PRISMA 声明 | 52 项[[Creativity\|创造力]]一阶元分析数据库 | [[Meta-meta-analysis\|二阶元分析]]系统检索与纳入控制 | 依据 PRISMA 规范对初级元分析进行分层提取，严格剔除缺乏定量合并统计量的质性综述。 |
 > | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | PRISMA 声明 | 创造力与[[Critical Thinking\|批判性思维]]相关性实证文献集 | 相关性元分析检索与合规筛选 | 运用 PRISMA 规范流程图完整呈现从初始检索至最终合格研究的筛选漏斗。 |
 > | [[Argument_Song_Choi_2026_FPSYG\|Song and Choi (2026)]] | PRISMA 声明 | [[Epistemic Cognition\|认识论认知]]实证研究文献集 | 多水平元分析文献筛选路径 | 以标准 PRISMA 流程图呈现多数据库检索记录、去重与全文本审阅决策流。 |

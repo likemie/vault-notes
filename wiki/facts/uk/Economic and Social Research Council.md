@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Informed Consent]]"
   - "[[Informal Science Learning]]"
+  - "[[Side Effects]]"
   - "[[Research Impact]]"
 related_theories: []
 related_methods:
@@ -48,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -80,7 +81,7 @@ updated: 2026-10-26
 ---
 
 > [!finding-cards] 影响与评价
-> - **影响力评价的副作用** Gorard et al. 批评 ESRC 与卓越研究框架对单项[[Research Impact|研究影响力]]的追求，诱使研究者夸大成效并提早推广。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020)]]
+> - **影响力评价的[[Side Effects|副作用]]** Gorard et al. 批评 ESRC 与卓越研究框架对单项[[Research Impact|研究影响力]]的追求，诱使研究者夸大成效并提早推广。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020)]]
 > - **证据生态中的资助角色** 通过资助有效性中心，ESRC 参与塑造英国循证政策的中介结构。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022)]]
 
 ---

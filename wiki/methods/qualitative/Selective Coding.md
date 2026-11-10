@@ -8,9 +8,9 @@ summary: "扎根理论质性数据分析的三级编码终局阶段，在开放�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 29
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 31
+method_related_level: 3
+method_related_stars: "💎"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Meaningful Human Control]]"
   - "[[Assemblage]]"
+  - "[[Homophily]]"
   - "[[Heterogeneity]]"
   - "[[Emergence]]"
   - "[[Rich and Thick Description]]"
@@ -51,6 +52,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Dimensions]]"
   - "[[Research in Schools Evaluation]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
@@ -58,7 +60,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -77,7 +79,7 @@ updated: 2026-10-30
 > [!citation-card] Strauss & Corbin 论选择性编码与故事线
 > 创建选择性编码要求首先对主要故事线（即所描述和分析的核心现象及其显著特征）形成深刻理解，进而提炼核心范畴并在维度水平上整合系统关联。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 562)]]
 >
-> *Creating the selective code requires: (a) a deep understanding of the main 'story line' (the descriptive overview of the main phenomenon being described and analysed, and its salient features); then moves to (b) creating the core category; then (c) relating categories at the level of the dimensions identified; then (d) validating those relations in terms of the data that gave [[Research in Schools Evaluation\|RISE]] to them; and then (e) filling in any gaps in categories to ensure the 'conceptual density' of the category. (Strauss & Corbin, 1990, pp. 116–117)*
+> *Creating the selective code requires: (a) a deep understanding of the main 'story line' (the descriptive overview of the main phenomenon being described and analysed, and its salient features); then moves to (b) creating the core category; then (c) relating categories at the level of the [[Dimensions|dimensions]] identified; then (d) validating those relations in terms of the data that gave [[Research in Schools Evaluation\|RISE]] to them; and then (e) filling in any gaps in categories to ensure the 'conceptual density' of the category. (Strauss & Corbin, 1990, pp. 116–117)*
 
 ---
 
@@ -157,7 +159,7 @@ updated: 2026-10-30
 
 > [!decisions] 编码层级建构的两大操作准则
 > - **浅层层级控制原则（Gibbs, 2007）** 格雷厄姆·吉布斯（Graham Gibbs）强调，编码层级能够理顺编码并保持整洁，构建层级本身即是数据分析的一部分。然而，在手动编码及计算机辅助软件中，层级树必须保持**浅层结构（shallow hierarchies）** 而非过度嵌套的深层结构（not too many levels）。层级嵌套过深将导致分类体系二次碎片化，模糊核心范畴对全局的理论统摄力。
-> - **持续比较检验机制（Glaser & Strauss, 1967）** 为确保各层级范畴内部数据的同质性与范畴间的[[Heterogeneity\|异质性]]，研究者必须在整个数据集中反复实施持续比较，比对同一类别下的不同证据片段，确保理论逻辑严密自洽。
+> - **持续比较检验机制（Glaser & Strauss, 1967）** 为确保各层级范畴内部数据的[[Homophily|同质性]]与范畴间的[[Heterogeneity\|异质性]]，研究者必须在整个数据集中反复实施持续比较，比对同一类别下的不同证据片段，确保理论逻辑严密自洽。
 
 ---
 

@@ -107,22 +107,25 @@ related_instruments:
 related_persons:
   - "[[Socrates]]"
 related_facts:
+  - "[[Web of Science]]"
+  - "[[Scopus]]"
   - "[[Education Resources Information Center]]"
 related_arguments:
+  - "[[Argument_Chen_2025_HSSC]]"
   - "[[Argument_Li_2025_HSSC]]"
 sources:
   - "[[sources/Li_2026_CEAI/Li_2026_CEAI|Li_2026_CEAI]]"
 part_of: ""
 status: draft
 created: 2026-08-31
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Li_2026_CEAI"
 argument_key: "Argument_Li_2026_CEAI"
 argument_display_title: "The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes"
 argument_kind: "journal-article"
-argument_related_count: 83
+argument_related_count: 86
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -244,7 +247,7 @@ issuing_organization: ""
 > [!example] 图1：PRISMA 文献筛选流程图
 > ![](https://img.mylikemie.icu/sources/Li_2026_CEAI/figures/Li_2026_CEAI_Fig1_PRISMA_Flow_Diagram.jpg)
 >
-> **流程细节说明** 从 Web of Science (161)、Scopus (177) 与 [[Education Resources Information Center\|ERIC]] (71) 检索共获取 409 篇初始记录；经文献管理软件剔除 185 篇重复记录后，对 224 篇文献进行题目与摘要初筛；排除 128 篇不符合主题文献后，获取 96 篇全文本进入合格性深度审阅；依据预设标准排除 27 篇（6 项非实证、4 项非高校情境、9 项未评测学习成果、8 项缺乏高阶思维分析），再通过 MMAT 质量评价排除 2 项得分低于 60% 的研究，最终纳入 67 篇同行评议实证文献。
+> **流程细节说明** 从 [[Web of Science]] (161)、[[Scopus]] (177) 与 [[Education Resources Information Center\|ERIC]] (71) 检索共获取 409 篇初始记录；经文献管理软件剔除 185 篇重复记录后，对 224 篇文献进行题目与摘要初筛；排除 128 篇不符合主题文献后，获取 96 篇全文本进入合格性深度审阅；依据预设标准排除 27 篇（6 项非实证、4 项非高校情境、9 项未评测学习成果、8 项缺乏高阶思维分析），再通过 MMAT 质量评价排除 2 项得分低于 60% 的研究，最终纳入 67 篇同行评议实证文献。
 
 ---
 
@@ -274,7 +277,7 @@ issuing_organization: ""
 > | 影响维度 | 主题名称与频数（Theme & n） | 代表性教学情境（Representative Contexts） | 调节条件与关键变量（Moderators / Conditions） | 代表性实证研究（Illustrative Studies） |
 > |---|---|---|---|---|
 > | **赋能机制** | **元认知参与与监控（n = 27）** | [[Reflexivity\|反思性]]学术写作、同伴成果对比、文本多轮修订 | 引导性提示词、结构化探究任务、认知对比指引 | Strobl et al. (2024); Tseng and Lin (2024); Zhan and Yan (2025) |
-> | **赋能机制** | **论证结构与逻辑深化（n = 22）** | [[Classroom Debate\|课堂辩论]]设计、论证可视化图谱、学术论文写作 | 迭代对话模式、基于[[Scoring Rubrics\|评分量规]]的评估对齐 | Sykes (2024); Chen et al. (2025); Darmawansah et al. (2025) |
+> | **赋能机制** | **论证结构与逻辑深化（n = 22）** | [[Classroom Debate\|课堂辩论]]设计、论证可视化图谱、学术论文写作 | 迭代对话模式、基于[[Scoring Rubrics\|评分量规]]的评估对齐 | Sykes (2024); [[Argument_Chen_2025_HSSC\|Chen et al. (2025)]]; Darmawansah et al. (2025) |
 > | **赋能机制** | **事实核查与查错机制（n = 19）** | [[STEM Education\|STEM]] 实验报告、程序排错、跨学科文献评述 | 批判性质疑态度、[[AI Literacy\|AI 素养]]、[[AI Hallucination\|幻觉识别培训]] | Archila et al. (2024); Michalon & Camacho-Zúñiga (2023); Šedlbauer et al. (2024) |
 > | **赋能机制** | **[[Self-Regulated Learning\|自我调节学习]]促进（n = 17）** | 形成性反馈循环、自主探究项目、迭代修改 | 提示词工程训练、反思日记、认知监控规程 | Yang et al. (2025); Lee et al. (2024); Shen and Chen (2025) |
 > | **赋能机制** | **学科真实推理深化（n = 15）** | 系统工程设计、商业企划、科学伦理批判 | 任务真实性、专业学科[[Paradigm\|范式]]对齐、深度问题情境 | Kofahi and Husain (2025); George-Reyes et al. (2024); Exintaris et al. (2023) |
@@ -286,7 +289,7 @@ issuing_organization: ""
 
 > [!evidence-grid-a] 批判性思维赋能维度与实证案例细析（[[Educational Affordances\|affordances]], 5 大核心主题）
 > - **元认知监控与反思性审思** 在德语高级 L2 学术写作课程中，Strobl et al. (2024) 设计了将 ChatGPT 作为“写作搭档”的双轨修改任务，迫使学生对比自身草稿与 AI 修改版的句式逻辑，学生在反思日志中展现出极高的元认知监控深度；Tseng and Lin (2024) 与 Zhan and Yan (2025) 同样证实引导性提示能有效激发对机器产出的分析性审视。
-> - **论证结构与辩证深度拓宽** Sykes (2024) 在普适计算学术写作实验中发现，利用 ChatGPT 充当“辩难对手”（Counterargument Generator）并结合[[Argument Mapping\|论证图]]谱量规，使学生论文在反驳力与反思严密性得分上显著优于传统无技术辅助组；Chen et al. (2025) 与 Darmawansah et al. (2025) 也指出结构化对话显著促进了论据整合。
+> - **论证结构与辩证深度拓宽** Sykes (2024) 在普适计算学术写作实验中发现，利用 ChatGPT 充当“辩难对手”（Counterargument Generator）并结合[[Argument Mapping\|论证图]]谱量规，使学生论文在反驳力与反思严密性得分上显著优于传统无技术辅助组；[[Argument_Chen_2025_HSSC|Chen et al. (2025)]] 与 Darmawansah et al. (2025) 也指出结构化对话显著促进了论据整合。
 > - **事实核查与[[Epistemology\|认识论]]怀疑激发** Archila et al. (2024) 在科学写作任务中引导学生专门针对 AI 生成的文献与数据进行“红队测试”（Red-teaming），主动识别出 14 处事实幻觉与逻辑漏洞；Michalon & Camacho-Zúñiga (2023) 与 Šedlbauer et al. (2024) 亦证实显性幻觉识别训练能有效激发学生的实证核验习惯与[[Epistemological Vigilance\|认识论警觉]]。
 > - **自我调节学习与[[Strategy Monitoring|策略监控]]** Yang et al. (2025) 对非传统大学生的追踪表明，经过提示词工程引导的学生学会了根据任务难度分阶段调配 AI 资源，展现出明确的前瞻计划、过程诊断与策略微调能力；Lee et al. (2024) 及 Shen and Chen (2025) 进一步指出反思规程能够促进策略性认知监控。
 > - **学科真实推理与专业情境化** Exintaris et al. (2023) 在药学临床处方分析中，利用 ChatGPT 模拟疑难病患互动，促使学生在专业伦理与药理机制的交叉点上开展高度情境化的临床决断推理；Kofahi and Husain (2025) 与 George-Reyes et al. (2024) 同样发现真实工程与商业情境能驱动高阶学科推理。
@@ -355,7 +358,7 @@ issuing_organization: ""
 > [!ref-table]- 表7：ChatGPT 整合学习中[[Higher-Order Thinking Skills\|高阶思维]]的三大认知共现模式（Co-occurrence Patterns in ChatGPT-Integrated Learning）
 > | 共现模式类型（Pattern Type） | 核心主题描述（Thematic Description） | 实证文献数量（n） | 关键教学调节条件（Moderators / Conditions） | 代表性实证研究（Illustrative Studies） |
 > |---|---|---|---|---|
-> | **双向协同增益（Synergistic Enhancement: CT ↑, CrT ↑）** | ChatGPT 依托结构化教学模型同时促进了学生的深入探究、反思监控、论据分析与多元发散构想，两类思维形成相互强化的共生回路。 | 18 | 探究导向设计（Inquiry-oriented tasks）、反思性支架、多轮对话协商、过程性对齐评价 | Essel et al. (2024); [[Argument_Li_2025_HSSC\|Li et al. (2025)]]; Chen et al. (2025); Darmawansah et al. (2025) |
+> | **双向协同增益（Synergistic Enhancement: CT ↑, CrT ↑）** | ChatGPT 依托结构化教学模型同时促进了学生的深入探究、反思监控、论据分析与多元发散构想，两类思维形成相互强化的共生回路。 | 18 | 探究导向设计（Inquiry-oriented tasks）、反思性支架、多轮对话协商、过程性对齐评价 | Essel et al. (2024); [[Argument_Li_2025_HSSC\|Li et al. (2025)]]; [[Argument_Chen_2025_HSSC\|Chen et al. (2025)]]; Darmawansah et al. (2025) |
 > | **非对称发展（Asymmetrical Development: CrT ↑, CT ↓）** | ChatGPT 极大提升了学生的构想流畅性、发散广度与写作效率，但由于缺乏批判性评价框架与深层论证要求，导致批判性审思显著退化。 | 8 | 非结构化使用、重视生成速度与数量忽视质量检验、缺乏批判性核验规则 | Wang et al. (2024); Azmi et al. (2024); Aldulaijan and Almalki (2025); Klimova & de Campos (2024); Sarwanti et al. (2024); Habib et al. (2024); Esmaeil et al. (2023); Liu et al. (2024) |
 > | **双重认知侵蚀（Joint Cognitive Erosion: CT ↓, CrT ↓）** | 批判性审思停滞且创造性构想与主体性双重萎缩，常见于无指引、工具主义应付或纯任务交付导向的高压情境。 | 4 | 被动接受答案、缺乏元认知支架、任务完成主义导向、评估标准模糊 | Ravšelj et al. (2025); Al-Alami (2024); Zhang et al. (2024); Monib et al. (2025) |
 

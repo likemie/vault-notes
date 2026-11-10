@@ -8,7 +8,7 @@ aliases:
 summary: "西方教育思想史上关于知识组织和传授的一对经典二元范式：disciplina 侧重既有知识的灌训与规训，doctrina 侧重知识的动态生产与开放更新。在当代超国家治理与循证教育中，跨国测评排位赛与新泰勒主义清单监控作为强有力的远处规训机制（disciplina），将教学活动窄化为数据合规，严重压制了教育的人文关系建构与批判性审议（doctrina）。"
 type: concept
 domain: "educational-philosophy"
-related_count: 56
+related_count: 58
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -43,11 +43,13 @@ related_concepts:
   - "[[Performativity]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Externalization]]"
+  - "[[Transnational Education]]"
   - "[[Critical Pedagogy]]"
   - "[[Cognitive Deskilling]]"
   - "[[Individualised Instruction]]"
   - "[[Variable]]"
   - "[[Learning Intentions]]"
+  - "[[Side Effects]]"
   - "[[Discourse]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -82,7 +84,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-06-22
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -224,7 +226,7 @@ updated: 2026-11-03
 > - **中世纪 — 术语起源** 大学和修道院教育中分化出 `disciplina`（强调对学生行为的惩戒、纠错和规训）与 `doctrina`（强调真理的讲授和知识研究的进展）（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。
 > - **现代 — 知识社会学分析** Stichweh (2001) 追溯[[Disciplinary Institutionalization|学科建制]]与社会系统的演化，将二者界定为知识在“静态沉积”与“动态自我更新”之间的基本张力。
 > - **1980s — 批判国家理论引入：Carnoy 论规训与民主化的拉锯** 卡诺伊（Carnoy & Levin, 1985）与卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a, pp. 153–154]]）打破了将学校视为资本主义单向“规训”（disciplina）工具的机械论，确立了学校是经济规训再生产与民主主体赋权（doctrina）双向博弈辩证[[Champ|场域]]的核心命题。
-> - **2000s — 学术体制批判：Mitter 论规训压力的[[Externalization|外部化]]** 米特（[[Argument_Mitter_2009_Europe|Mitter, 2009]]）将“规训”（disciplina）范畴延伸至跨国教育研究体制，揭示超国家机构与国家资助方如何通过[[Performance Indicators|绩效指标]]对学者施加规训压力，迫使自由探究（doctrina）向实用政策合规让步。
+> - **2000s — 学术体制批判：Mitter 论规训压力的[[Externalization|外部化]]** 米特（[[Argument_Mitter_2009_Europe|Mitter, 2009]]）将“规训”（disciplina）范畴延伸至[[Transnational Education|跨国教育]]研究体制，揭示超国家机构与国家资助方如何通过[[Performance Indicators|绩效指标]]对学者施加规训压力，迫使自由探究（doctrina）向实用政策合规让步。
 > - **21世纪初 — 课程政策批判应用** 该二元概念被引入针对[[OECD|经合组织]]/[[PISA]] 测量风暴的政策批判，用以解释为何[[Phenomenon-Based Learning|现象本位学习]]（PhBL）在吸纳进课程政策时会发生技能原子化（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]）。
 > - **2009 — [[Governing by Numbers|数字治理]]与跨国规训装置：Rizvi & Lingard 论 PISA 联赛排位的[[Governing at a Distance|远处治理]]** 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 447–448]]）揭示 PISA 通过建构全球等价空间与发布绩效联赛榜，使“数字政策”成为超国家机构远处规训主权国家课程的主导工具，压制了本土教育共同体对教育目的的批判性审议（doctrina）。
 > - **2011 — 视觉隐喻与全景微观规训：Terhart 论双向可见性对自我监控的内化** [[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 434–435]]）基于福柯权力理论解构《[[Visible Learning|可见的学习]]》，指出“通过学生眼睛看教学”的双向可见性隐喻是现代全景规训（disciplina）的精致变体，将传统外在统治内化为微观自我监控，进一步挤压了实质教化与主体批判（doctrina）的生存空间。
@@ -261,7 +263,7 @@ updated: 2026-11-03
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计与实证发现 | 解释边界 |
 > |---|---|---|---|---|---|
-> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 澳大利亚维多利亚州公立中小学校教师群体（基于 Lilley, 2022 与 Wescott, 2022 实地调研） | 政策文本分析与批判性案例追踪 | 高影响教学策略（[[Victorian HITS and Literacy Toolkit\|HITS]]）政策落地、白板[[Learning Intentions\|学习意图]]强制书写、教师自主权与职业倦怠感 | 维州推行基于 VL 的 10 项 HITS 刚性指标后，管理层将白板打卡与教案格式列为强制考核项；实证访谈显示教师课堂灵活变通权大幅萎缩，同行信任度与执教热情显著下降，滋生严重的合规[[Performativity\|表演性]] | 揭示了在微观课堂推行技术规训清单所伴随的教师去专业化副作用，为规训挤占教学反思提供了政策田野证据 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 澳大利亚维多利亚州公立中小学校教师群体（基于 Lilley, 2022 与 Wescott, 2022 实地调研） | 政策文本分析与批判性案例追踪 | 高影响教学策略（[[Victorian HITS and Literacy Toolkit\|HITS]]）政策落地、白板[[Learning Intentions\|学习意图]]强制书写、教师自主权与职业倦怠感 | 维州推行基于 VL 的 10 项 HITS 刚性指标后，管理层将白板打卡与教案格式列为强制考核项；实证访谈显示教师课堂灵活变通权大幅萎缩，同行信任度与执教热情显著下降，滋生严重的合规[[Performativity\|表演性]] | 揭示了在微观课堂推行技术规训清单所伴随的教师去专业化[[Side Effects\|副作用]]，为规训挤占教学反思提供了政策田野证据 |
 
 ---
 

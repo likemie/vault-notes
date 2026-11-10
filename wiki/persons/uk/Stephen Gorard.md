@@ -8,7 +8,7 @@ summary: "英国杜伦大学教育学与公共政策教授，杜伦大学证据�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Evidence-Based Education]]"
 related_methods:
+  - "[[Statistical Significance]]"
   - "[[Effect Size]]"
   - "[[Analysis of Variance]]"
   - "[[Random Sampling]]"
@@ -55,14 +56,14 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国杜伦大学教育学院（School of Education, Durham University）教育学与公共政策教授，杜伦大学证据教育中心（Durham University Evidence Centre for Education, DECE）主任。
-> - **核心角色** 英国教育实证研究方法学与循证政策领域的领军学者，[[Causality\|因果推断]]可[[Reliability\|信度]]评估标准的主要奠基人之一。长期致力于因果评价质量把关、教育政策实证审查，以及对教育研究内部方法学误区（如滥用显著性检验、夸大单项[[Research Impact\|研究影响力]]）的系统性批判。
+> - **核心角色** 英国教育实证研究方法学与循证政策领域的领军学者，[[Causality\|因果推断]]可[[Reliability\|信度]]评估标准的主要奠基人之一。长期致力于因果评价质量把关、教育政策实证审查，以及对教育研究内部方法学误区（如滥用[[Statistical Significance|显著性检验]]、夸大单项[[Research Impact\|研究影响力]]）的系统性批判。
 > - **代表贡献** 创立因果研究质量阶梯评估工具[[Gorard's Trustworthiness Sieve\|戈拉德研究可信度筛子]]（Gorard's Sieve），深度参与英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）[[EEF Padlock Security Rating\|挂锁安全评级]]的早期研发；提出证据投入使用的两维度分类框架与[[Engineered Evidence\|工程化证据]]命题；倡导终结[[Null Hypothesis\|零假设]]显著性检验并全面转向[[Effect Size\|效应量]]与数据缺失敏感性分析。
 
 > [!citation-card] 学术定位与研究宗旨

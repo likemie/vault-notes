@@ -8,7 +8,7 @@ summary: "发展心理学家，在批判性思维、论辩推理与认识论理�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,13 +33,14 @@ related_methods:
   - "[[In-depth Interview]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Dimensions]]"
 related_arguments:
   - "[[Argument_Kuhn_2000_CD]]"
 confidence: high
 status: active
 created: 2026-08-16
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -57,7 +58,7 @@ updated: 2026-10-22
 > [!citation-card] 关键表述
 > 我们提出，成熟认识论理解发展的本质，是对认知的主观维度和客观维度进行协调。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 310)]]
 >
-> *We propose that the developmental task that underlies the achievement of mature epistemological understanding is the coordination of the subjective and objective dimensions of knowing.*
+> *We propose that the developmental task that underlies the achievement of mature epistemological understanding is the coordination of the subjective and objective [[Dimensions|dimensions]] of knowing.*
 
 ---
 

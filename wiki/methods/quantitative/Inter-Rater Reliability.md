@@ -10,7 +10,7 @@ summary: "多位独立评判者使用同一工具对相同对象评分时彼此�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 63
+method_related_count: 64
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dcfce7"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Halo Effect]]"
   - "[[Construct Validity]]"
   - "[[Document]]"
+  - "[[Homophily]]"
   - "[[Construct]]"
   - "[[Heterogeneity]]"
   - "[[Operationalization]]"
@@ -91,7 +92,7 @@ related_theories:
   - "[[Classical Test Theory]]"
 status: active
 created: 2026-06-01
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 > [!def] Inter-Rater Reliability
@@ -132,7 +133,7 @@ updated: 2026-11-03
 >   - 锚定描述符与操作性定义手册
 >   - 过程监控与防观察者漂移再校准
 
-为厘清评分者间信度在信度家族中的特定功能，需将其与测量时间稳定性及工具内部同质性的指标进行系统对照。
+为厘清评分者间信度在信度家族中的特定功能，需将其与测量时间稳定性及工具内部[[Homophily|同质性]]的指标进行系统对照。
 
 > [!contrast-table] 评分者间信度与相关信度类型对比
 > | 维度 | 评分者间信度（Inter-Rater） | [[Internal Consistency\|内部一致性]]（Internal Consistency） | [[Test-Retest Reliability\|重测信度]]（Test-Retest） |

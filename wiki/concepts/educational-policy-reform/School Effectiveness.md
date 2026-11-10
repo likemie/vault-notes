@@ -8,10 +8,10 @@ aliases:
 summary: "以学校内部组织与教学差异解释学业成就的研究取向，在政策治理中将学校重塑为可量化干预的技术对象，并在全球教育转移中被学术重商主义包装为跨国咨询商品。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - theme/sociology-of-education
   - theme/school-improvement
@@ -26,12 +26,14 @@ related_concepts:
   - "[[Variable]]"
   - "[[School Leadership]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Transnational Education]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
   - "[[Cultural Capital]]"
   - "[[Professional Judgment]]"
   - "[[Socioeconomic Status]]"
   - "[[Naming and Shaming in Education Governance]]"
+  - "[[Policy Translation]]"
   - "[[Global Universities Rankings]]"
   - "[[Champ]]"
   - "[[Policy Network]]"
@@ -54,7 +56,6 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Knowledge Bank]]"
   - "[[School Autonomy]]"
-  - "[[Research Translation]]"
 related_theories:
   - "[[Governmentality]]"
   - "[[Punctuated Equilibrium Theory]]"
@@ -89,7 +90,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 > [!def] School Effectiveness
@@ -98,7 +99,7 @@ updated: 2026-11-03
 > [!concept-lens] 概念透镜
 > - **关注焦点** 学校内部可调控管理变量（如[[School Leadership|学校领导]]、教学常规、期望管理、评估反馈）与标准化测验产出之间的函数关联。
 > - **制度功能** 从战后教育社会学的阶级与宏观不平等批判，转向为政府提供可操作、可审查、可排名的技术官僚问责规程。
-> - **跨国流动** 在高等教育财政紧缩与晚期现代[[Knowledge-Based Economy|知识经济]]中，效能研究成果被大学国际咨询部与跨国教育资本打包为标准化的政策商品向全球兜售。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–344)]]
+> - **跨国流动** 在高等教育财政紧缩与晚期现代[[Knowledge-Based Economy|知识经济]]中，效能研究成果被大学国际咨询部与[[Transnational Education|跨国教育]]资本打包为标准化的政策商品向全球兜售。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–344)]]
 
 > [!boundary]- 适用边界
 > 学校效能框架预设学校内部管理因素与外部社会结构在方法论上具有可分性，其解释力高度依赖于统一可测量的学业评估指标体系。在高度极化、资源匮乏或拒绝标准化绩效排名的社会情境中，其将宏观阶级与种族不平等缩约至校内管理缺陷的倾向面临严重的解释失效。[[Argument_Ball_2008_SR|(Ball, 2008, p. 664)]]
@@ -160,7 +161,7 @@ updated: 2026-11-03
 > **常模化技术与羞辱机制** 从福柯治理术（[[Governmentality]]）视角审视，学校效能将学校区分为“有效/无效”、“健康/病态”、“平庸/卓越”，构造出标准化的常模模型。通过英国教育标准局（[[Ofsted]]）视导检查、公立学校排行榜与“失败学校”公开[[Naming and Shaming in Education Governance|命名羞辱]]机制，教师与校长的[[Professional Judgment|专业判断]]被剥夺，退化为必须接受常态化风险防控的技术操作员。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 663–665)]]
 
 > [!citation-card] Ball论学校效能政策技术对学校客体的常模化塑造
-> [[Ofsted]] 检查、失败学校命名、测试体系和排行榜是学校效能研究被政策转译后的治理技术。它们把学校构造成“一个知识分支的对象”，使学校能够被持续监控、引导和改造。在政策中作为一种正常化技术运作：它建构有效学校的规范模型，同时把无效学校异常化为需要治疗的学校。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 663–665)]]
+> [[Ofsted]] 检查、失败学校命名、测试体系和排行榜是学校效能研究被[[Policy Translation|政策转译]]后的治理技术。它们把学校构造成“一个知识分支的对象”，使学校能够被持续监控、引导和改造。在政策中作为一种正常化技术运作：它建构有效学校的规范模型，同时把无效学校异常化为需要治疗的学校。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 663–665)]]
 >
 > *Inspection regimes, naming and shaming, testing systems, and [[Global Universities Rankings|league tables]] are governance technologies retranslated from school effectiveness research... constructing the school as an object of a branch of knowledge subject to perpetual monitoring and transformation.*
 

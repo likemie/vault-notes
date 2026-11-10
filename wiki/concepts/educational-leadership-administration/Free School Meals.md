@@ -9,34 +9,41 @@ aliases:
 summary: "国家或学区向公立学校适龄儿童免费提供日常营养餐食的公共福利制度与教育补偿干预。既作为保障学生营养摄入、出勤与平等的社会安全网底色，又在英美等国政策研究中作为识别处境不利家庭社会经济地位（SES）的核心代理指标；在国家形象建构中被作为展现人本温度与平等制度的微观叙事载体。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 15
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - metax
   - concept/educational-policy
   - welfare-state
   - educational-equity
 related_concepts:
-  - "[[Social Support]]"
-  - "[[Educational Equity]]"
-  - "[[Academic Achievement]]"
+  - "[[Variable]]"
   - "[[Nation Branding]]"
+  - "[[Academic Achievement]]"
+  - "[[Heterogeneity]]"
+  - "[[Document]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Soft Power]]"
+  - "[[Socioeconomic Status]]"
+  - "[[Social Support]]"
+  - "[[Dependent Variable]]"
 related_theories:
   - "[[Integrated Marketing Communications Theory]]"
 related_methods:
+  - "[[Quantitative Research]]"
   - "[[Meta-analysis]]"
-  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[This is Finland]]"
 related_arguments:
   - "[[Argument_Yang_2023_ICE]]"
 confidence: high
 status: completed
 created: 2026-10-22
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -46,7 +53,7 @@ updated: 2026-11-10
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向以公共财政将基本营养摄入从家庭私人购买范畴转变为公民普遍享有的公共服务权利的制度性干预。
-> - **用途** 帮助研究者透视福利国家如何通过去商品化的微观日常生活安排托底教育公平；在量化研究中充当测度弱势背景的代理变量；在国家品牌研究中透视微观制度故事如何赋能国家形象。
+> - **用途** 帮助研究者透视福利国家如何通过去商品化的微观日常生活安排托底教育公平；在[[Quantitative Research|量化研究]]中充当测度弱势背景的代理[[Variable|变量]]；在[[Nation Branding|国家品牌]]研究中透视微观制度故事如何赋能国家形象。
 > - **边界** 普惠型全员免费校餐（Universal FSM）与基于家庭收入资格审查的补偿型定向免费校餐（Means-Tested FSM）在制度逻辑与排斥污名效应上存在根本分界。
 
 > [!citation-card|notitle] 关键表述：免费校餐作为福利平等与人本形象的微观叙事
@@ -95,19 +102,19 @@ updated: 2026-11-10
 
 ---
 
-> [!concept-proposition] 命题二｜免费校餐主要通过出勤保障与生理支持间接赋能学业表现，其直接认知增益呈现微弱正向
-> **营养干预与学业增益的因果机制** 剖析实证元分析中免费校餐对标准化成绩的效应边界，澄清营养补偿主要作为学习基础保障而非直接学业催化剂的本质。
+> [!concept-proposition] 命题二｜免费校餐主要通过出勤保障与生理支持间接赋能[[Academic Achievement|学业表现]]，其直接认知增益呈现微弱正向
+> **营养干预与学业增益的因果机制** 剖析实证[[Meta-analysis|元分析]]中免费校餐对标准化成绩的效应边界，澄清营养补偿主要作为学习基础保障而非直接学业催化剂的本质。
 > 
 > > [!claim] Ashraf et al. (2021)
-> > **微弱正向效应与学科异质性表现** 基于大规模元分析证据，免费或减免校餐对学生整体学业表现呈现微弱正向效应（$d = 0.04$）；其中对阅读素养的改善效应（$d = 0.06$）略高于对数学素养的改善效应（$d = 0.00$）。实证数据表明，免费校餐的根本价值在于保障出勤率、消除课堂饥饿感并促进儿童长期健康，其无法替代高质量微观教学成为大幅提升认知分数的直接手段。
+> > **微弱正向效应与学科[[Heterogeneity|异质性]]表现** 基于大规模元分析证据，免费或减免校餐对学生整体学业表现呈现微弱正向效应（$d = 0.04$）；其中对阅读素养的改善效应（$d = 0.06$）略高于对数学素养的改善效应（$d = 0.00$）。实证数据表明，免费校餐的根本价值在于保障出勤率、消除课堂饥饿感并促进儿童长期健康，其无法替代高质量微观教学成为大幅提升认知分数的直接手段。
 
 ---
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表文献 |
+> | 命题类型 | 核心指向 | 适用情境 | 代表[[Document\|文献]] |
 > |---|---|---|---|
 > | **普遍平权命题** | 无差别全员供餐消除阶层排斥与身份污名，为全纳教育提供制度底色 | 北欧普遍主义福利国家、全纳教育托底机制 | [[Argument_Yang_2023_ICE\|杨明全和邓丽 (2023)]] |
-> | **营养补偿效应命题** | 免费校餐直接认知增益微弱，主要通过生理健康与出勤率间接支持教学 | 贫困学区营养补偿、循证教育效能评价 | Ashraf et al. (2021) |
+> | **营养补偿效应命题** | 免费校餐直接认知增益微弱，主要通过生理健康与出勤率间接支持教学 | 贫困学区营养补偿、[[Evidence-Based Education\|循证教育]]效能评价 | Ashraf et al. (2021) |
 
 ---
 
@@ -115,7 +122,7 @@ updated: 2026-11-10
 > - **1948 — 芬兰确立普遍主义免费午餐立法** 芬兰在全球率先通过立法，强制要求公立中小学向全体在籍学生免费提供营养午餐，奠定全民福利教育基石。[[Argument_Yang_2023_ICE|(杨明全和邓丽, 2023, p. 7)]]
 > - **1960s–1980s — 欧美确立定向免费校餐与贫困指标化** 英国与美国普遍推行基于家庭收入审查的免费校餐政策，FSM 逐步成为社会学与政策评估中识别经济处境不利的核心指标。
 > - **2021 — 国际实证元分析确立效应边界** Ashraf et al. (2021) 完成 129 项研究元分析，证实免费校餐对学生整体成绩呈现微弱正向效应（$d = 0.04$），明晰了其作为底线保障的定位。
-> - **2023 — 免费校餐升格为国家品牌传播的微观叙事** 比较教育学者指出，芬兰外交部主导的《这就是芬兰》平台将七十余年免费校餐包装为人本关怀故事，推动福利制度向国家软实力品牌资产转化。[[Argument_Yang_2023_ICE|(杨明全和邓丽, 2023, p. 7)]]
+> - **2023 — 免费校餐升格为国家品牌传播的微观叙事** 比较教育学者指出，芬兰外交部主导的《[[This is Finland|这就是芬兰]]》平台将七十余年免费校餐包装为人本关怀故事，推动福利制度向国家[[Soft Power|软实力]]品牌资产转化。[[Argument_Yang_2023_ICE|(杨明全和邓丽, 2023, p. 7)]]
 
 ---
 
@@ -139,7 +146,7 @@ updated: 2026-11-10
 > | [[Socioeconomic Status]] | 概念 | 免费校餐旨在缓冲家庭社会经济地位对学生基础营养与在校发展的制约。 |
 > | [[Social Support]] | 概念 | 免费校餐是福利国家为儿童发展提供全方位社会支持的物质体现。 |
 > | [[Integrated Marketing Communications Theory]] | 理论 | 解释官方如何通过数字网络将微观校餐故事整合为品牌个性叙事。 |
-> | [[Academic Achievement]] | 概念 | 元分析测度免费校餐干预成效的核心结果变量。 |
+> | [[Academic Achievement]] | 概念 | 元分析测度免费校餐干预成效的核心[[Dependent Variable\|结果变量]]。 |
 
 > [!metax-divider]
 

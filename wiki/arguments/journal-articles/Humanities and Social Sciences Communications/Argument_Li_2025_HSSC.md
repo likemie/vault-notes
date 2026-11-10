@@ -78,6 +78,8 @@ related_persons: []
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
+  - "[[Web of Science]]"
+  - "[[Scopus]]"
   - "[[EU]]"
   - "[[European Commission]]"
   - "[[PISA Shock in Germany]]"
@@ -99,14 +101,14 @@ sources:
 part_of:
 status: draft
 created: 2026-07-05
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Li_2025_HSSC"
 argument_key: "Argument_Li_2025_HSSC"
 argument_display_title: "The effects of PISA on global basic education reform: A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 64
+argument_related_count: 66
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -154,7 +156,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **系统综述**<br>[[Systematic Review]] | 按照 [[PRISMA]] 框架执行（Newman & Gough, 2020; Xiao & Watson, 2019）。系统综述作为独立研究方法，通过严格定义的检索策略、文献筛选流程、系统数据提取和分析方法、透明的报告标准，批判性评估相关文献以推动理论发展和创建目标研究领域的关键知识源。 |
-> | **数据库** | Social Sciences Citation Index（Web of Science）和 Scopus。代表性英文期刊包括 *Oxford Review of Education*、*Journal of Education Policy*、*Comparative Education*、*European Journal of Education*、*Assessment in Education: Principles, Policy & Practice* 等。 |
+> | **数据库** | Social Sciences Citation Index（[[Web of Science]]）和 [[Scopus]]。代表性英文期刊包括 *Oxford Review of Education*、*Journal of Education Policy*、*Comparative Education*、*European Journal of Education*、*Assessment in Education: Principles, Policy & Practice* 等。 |
 > | **检索式** | （[[PISA]] OR 'Program for International Student Assessment'）AND（'education polic\*' OR 'educational polic\*' OR 'education reform' OR 'educational reform'）AND（'impact\*' OR 'influence\*' OR 'effect\*' OR 'consequence\*'）。截至 2023 年 9 月 13 日：初始 2,199 篇，去重后 1,754 篇。 |
 
 > [!sample-panel]- 样本与材料快照

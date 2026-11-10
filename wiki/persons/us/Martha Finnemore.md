@@ -8,7 +8,7 @@ summary: "美国著名建构主义国际关系学者，乔治华盛顿大学国�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Epistemic Governance]]"
   - "[[Bureaucracy]]"
   - "[[Performance Indicators]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Knowledge Production]]"
   - "[[Creativity]]"
   - "[[Discourse]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -108,7 +109,7 @@ updated: 2026-10-30
 
 > [!influence-path] 影响路径
 > - **国际关系学理论突破** 彻底革新了全球治理研究，推动国际组织研究走出新现实主义“均势工具论”与新自由制度主义“中介交易成本论”的狭隘框架，开辟了国际组织社会学研究路径。
-> - **比较教育学认知转向** 费丽莫的“规范教师”与官僚分类权力理论被比较教育学者深度借用，成为解构[[OECD|经济合作与发展组织]]（OECD）、[[World Bank|世界银行]]以及联合国教科文组织如何通过[[Performance Indicators|教育指标]]、[[PISA]] 测评与政策基准行使软性认知权威的核心理论透镜。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 2–3)]]
+> - **比较教育学认知转向** 费丽莫的“规范教师”与官僚分类权力理论被比较教育学者深度借用，成为解构[[OECD|经济合作与发展组织]]（OECD）、[[World Bank|世界银行]]以及联合国教科文组织如何通过[[Performance Indicators|教育指标]]、[[PISA]] 测评与政策基准行使软性认知权威的核心[[Theoretical Standpoint|理论透镜]]。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 2–3)]]
 > - **国际组织病态诊断** 提醒政策实务界警惕国际机构将普适理性模式机械套用于本土情境时产生的脱嵌与官僚自我循环。
 
 > [!citation-card] 扎普论费丽莫对认知治理研究的奠基

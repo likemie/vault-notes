@@ -7,7 +7,7 @@ summary: "当总体大且分散时，选择地理或组织上聚集的群组并�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 4
+method_related_count: 5
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -18,6 +18,7 @@ tags:
   - quantitative-research
 related_concepts:
   - "[[Unit of Analysis]]"
+  - "[[Homophily]]"
   - "[[Industrial District]]"
 related_theories: []
 related_methods:
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 > [!def] Cluster Sampling
@@ -45,7 +46,7 @@ updated: 2026-10-29
 > 1. 确定群的定义（如学校、班级、社区）。
 > 2. 从群的总列表中随机或系统选取若干群。
 > 3. 对所选群内的所有成员进行数据收集。
-> 4. 分析时注意群内同质性可能导致的偏差。
+> 4. 分析时注意群内[[Homophily|同质性]]可能导致的偏差。
 
 > [!method-fit] 适用判断
 > - **适合使用** 总体大且地理分散、逐一接触个体行政上不可行。

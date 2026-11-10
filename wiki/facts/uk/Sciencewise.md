@@ -12,7 +12,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ tags:
   - theme/informal-learning
 related_concepts:
   - "[[Counterpart Funds]]"
+  - "[[Early-Career Researchers]]"
   - "[[Scientific Uncertainty]]"
   - "[[Social License to Operate]]"
   - "[[Public Engagement with Science]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -67,7 +68,7 @@ updated: 2026-10-26
 > 4. **政策指引反哺与公开发布** 系统总结公众的社会伦理共识与红线，形成正式公共对话政策报告，直接约束行政规程与科研资助立项。
 
 > [!feature] 培育科研人员与决策者双向素养的三大支撑
-> - **科学家公共参与技能实训** 为高校学者与早期科研人员提供与公众平权沟通、解释[[Scientific Uncertainty\|科学不确定性]]的专业方法论培训。
+> - **科学家公共参与技能实训** 为高校学者与[[Early-Career Researchers|早期科研人员]]提供与公众平权沟通、解释[[Scientific Uncertainty\|科学不确定性]]的专业方法论培训。
 > - **决策层自反性学习** 协助政策制定者走出单纯技术官僚逻辑，深入体察公众对技术风险的真实社会关切。
 > - **公众批判性科学学习** 在沉浸式协商中提升公民对前沿复杂科技证据的鉴别能力与民主参与效能感。
 

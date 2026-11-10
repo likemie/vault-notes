@@ -8,10 +8,10 @@ aliases:
 summary: "主权国家将高等教育体系、国际学生流动、海外分校与语言文化机构等教育资源体系化纳入对外政策与公共外交战略，旨在培育他国精英好感、形塑地缘规范认同与构建准外交纽带的权力投射机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 47
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 52
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - concept/geopolitics
   - theme/educational-diplomacy
@@ -23,12 +23,16 @@ related_concepts:
   - "[[International Branch Campus]]"
   - "[[Public Diplomacy]]"
   - "[[Operationalization]]"
+  - "[[Study Abroad]]"
+  - "[[Transnational Education]]"
   - "[[Cultural Diplomacy]]"
   - "[[Soft Power]]"
   - "[[Knowledge Diplomacy]]"
+  - "[[Education Export]]"
   - "[[Knowledge Production]]"
   - "[[Epistemology]]"
   - "[[Return on Investment]]"
+  - "[[Early-Career Researchers]]"
   - "[[Research Universities]]"
   - "[[Competitiveness]]"
   - "[[Alumnus Effect]]"
@@ -39,6 +43,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Development Education]]"
   - "[[Academic Freedom]]"
+  - "[[Scientific Mobility]]"
   - "[[Innovation Hub]]"
   - "[[Emergence]]"
   - "[[Discourse]]"
@@ -74,7 +79,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -84,8 +89,8 @@ updated: 2026-11-03
 
 > [!concept-lens] 概念透镜
 > - **含义** 聚焦国家如何将高等教育资源[[Operationalization|操作化]]为追求对外战略目标的非强制性制度资源与影响工具。
-> - **用途** 帮助研究者透视大国为何在缺乏即时经济回报的情境下，大规模投资留学生全额奖学金、兴建海外独立校区与设立跨国语言教学机构。
-> - **边界** 区别于纯粹以学费创收为目标的跨境教育商业贸易，区别于去政治化的跨国纯学术合作，区别于侧重艺术、大众传媒与大众文化的通用[[Cultural Diplomacy|文化外交]]。
+> - **用途** 帮助研究者透视大国为何在缺乏即时经济回报的情境下，大规模投资[[Study Abroad|留学]]生全额奖学金、兴建海外独立校区与设立跨国语言教学机构。
+> - **边界** 区别于纯粹以学费创收为目标的[[Transnational Education|跨境教育]]商业贸易，区别于去政治化的跨国纯学术合作，区别于侧重艺术、大众传媒与大众文化的通用[[Cultural Diplomacy|文化外交]]。
 
 > [!citation-card] 教育作为国家影响力的外交工具
 > 高等教育已成为国家[[Soft Power|软实力]]战略的核心工具。大国政府通过系统性招募国际学生、建设海外实体分校以及扩张文化语言机构，将大学塑造为服务国家对外战略的准外交支点，以此缓解邻国不满并重塑区域秩序。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 71, 79–80)]]
@@ -100,7 +105,7 @@ updated: 2026-11-03
 ---
 
 > [!contrast-table] 涉外教育合作与外交工具多维对比
-> | 维度 | 教育外交（Educational Diplomacy） | [[Cultural Diplomacy\|文化外交]]（Cultural Diplomacy） | [[Knowledge Diplomacy\|知识外交]]（Knowledge Diplomacy） | 商业化教育出口（Commercial Export） |
+> | 维度 | 教育外交（Educational Diplomacy） | [[Cultural Diplomacy\|文化外交]]（Cultural Diplomacy） | [[Knowledge Diplomacy\|知识外交]]（Knowledge Diplomacy） | 商业化[[Education Export\|教育出口]]（Commercial Export） |
 > |:---|:---|:---|:---|:---|
 > | **主导驱动逻辑** | 国家大战略、地缘安全与准外交精英网络建构 | 塑造国家好感、消除文化成见与展示文明魅力 | 应对全球性危机、促进互惠共赢与联合[[Knowledge Production\|知识生产]] | 追求外汇收入、平衡大学财政预算与教育产业创收 |
 > | **核心治理载体** | 政府全额奖学金、海外分校、孔子学院、双边联合学位 | 艺术节、文化中心、大众媒体、电影展演与体育赛事 | 国际科研联合体、开放获取平台与多边政策咨询实验室 | 全球自费留学生中介、预科特许经营与海外收费教学点 |
@@ -110,7 +115,7 @@ updated: 2026-11-03
 ---
 
 > [!feature] 核心要素与三大支柱
-> - **国际学生定向扩招与全额奖学金激励** 通过设立政府高额奖学金，重点吸纳地缘周边国家与共建战略区域优秀青年学者赴华深造，构建覆盖技术、管理与政治潜在精英的人才储备库。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 79–84)]]
+> - **国际学生定向扩招与全额奖学金激励** 通过设立政府高额奖学金，重点吸纳地缘周边国家与共建战略区域优秀[[Early-Career Researchers|青年学者]]赴华深造，构建覆盖技术、管理与政治潜在精英的人才储备库。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 79–84)]]
 > - **高水平大学境外办学实体与联合学位项目** 依托国内高水平综合大学跨出国门建立独立海外分校（如[[Xiamen University Malaysia|厦门大学马来西亚分校]]、老挝苏州大学）或与在地大学联合共建二级学院（如泰国曼谷商学院），打造在地化的学术与文化传播实体桥头堡。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 84–85)]]
 > - **语言文化教学机构的深度嵌入与本土整合** 依托[[Confucius Institute|孔子学院]]等跨国中文教学与文化交流平台，同受纳国大学紧密合作，提供语言培训、资格认证与中国国情讲座，行使复合型的文化交流与公共沟通职能。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 85)]]
 > - **职业教育外交与跨国产教出海协同** 伴随跨国产能布局与基础设施互联互通，推动职业院校协同行业龙头企业出海，建立[[Luban Workshop|鲁班工坊]]、[[Chinese-ASEAN Modern Craftsmanship Institute|现代工匠学院]]与海外应用技术大学，为东道国定向输送急需的现场技术骨干，将教育合作直接转化为民间互信与经贸往来的纽带。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 287–289, 298–300)]]
@@ -188,7 +193,7 @@ updated: 2026-11-03
 > > - **在地共建辩护** 指出合作遵循双方大学互利协议，为当地青年掌握专业语言工具与拓展跨国职业发展创造了不可替代的通道。
 
 > [!warning] 适用局限与边界
-> 教育外交概念侧重于由主权国家或受其资助支持的机构开展的自上而下战略行动；对于完全由师生个体自发驱动的学术流动、纯市场化自费留学以及无政府资助的跨国民间科研互访，该概念的解释力相对有限。
+> 教育外交概念侧重于由主权国家或受其资助支持的机构开展的自上而下战略行动；对于完全由师生个体自发驱动的[[Scientific Mobility|学术流动]]、纯市场化自费留学以及无政府资助的跨国民间科研互访，该概念的解释力相对有限。
 
 ---
 

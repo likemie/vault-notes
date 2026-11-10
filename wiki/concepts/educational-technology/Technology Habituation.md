@@ -7,7 +7,7 @@ aliases:
 summary: "英国皇家学会在《科学造福社会》报告中提出的前沿科技教育理念，主张在中小学阶段通过专项资助实现人工智能、增强现实与先进制造等颠覆性技术的常态化、低门槛动手接触，使其成为如铅笔般日常的思维工具，从而在根本上去神秘化并消解社会信任赤字"
 type: concept
 domain: "educational-technology"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Social License to Operate]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Scientific Literacy]]"
+  - "[[Foundational Literacy and Numeracy]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -103,5 +104,5 @@ updated: 2026-11-03
 > |:-----|:-----|:-----|
 > | [[Habituation]] | 概念 | 本概念在教育技术与科学教育哲学层面的专门化发展。 |
 > | [[AI Literacy]] | 概念 | 技术习惯化旨在培养的关键[[21st Century Skills and Competencies Discourse\|核心素养]]。 |
-> | [[Scientific Literacy]] | 概念 | 贯穿全书的基础素养，技术习惯化为其在数字时代提供了具身实践载体。 |
+> | [[Scientific Literacy]] | 概念 | 贯穿全书的[[Foundational Literacy and Numeracy\|基础素养]]，技术习惯化为其在数字时代提供了具身实践载体。 |
 > | [[The Social Value Model]] | 事实 | 政府撬动企业资助学校开展技术习惯化硬件支持的制度手段。 |

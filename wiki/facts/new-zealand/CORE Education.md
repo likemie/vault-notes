@@ -10,7 +10,7 @@ subtype: organization
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Informationalization]]"
   - "[[Blended Learning]]"
   - "[[Normal School]]"
+  - "[[Transnational Education]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -47,7 +48,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-23
+updated: 2026-11-11
 ---
 
 ---
@@ -153,7 +154,7 @@ updated: 2026-10-23
 > | [[Dual-Entity Legal Structure]] | Concept | 该机构组织设计所依托的核心双层法人治理与避税机制。 |
 > | [[Educational Management Organisation]] | Concept | 该机构在教育政治经济学分析中所属的典型制度范畴。 |
 > | [[New Pedagogies for Deep Learning]] | Concept | 该机构在新西兰独家代理特许运营的跨国专有教学法项目。 |
-> | [[Michael Fullan]] | Person | 与该机构建立排他性商业特许合作的跨国教育学者。 |
+> | [[Michael Fullan]] | Person | 与该机构建立排他性商业特许合作的[[Transnational Education\|跨国教育]]学者。 |
 > | [[Cognition Education]] | Fact (Organization) | 新西兰本土另一家共享双层法人架构与公共外包市场的大型教育管理组织。 |
 > | [[Foundation North]] | Fact (Organization) | 新西兰大型资助型社区信托，与核心教育构成业务与资源对接网络。 |
 

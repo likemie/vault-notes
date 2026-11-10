@@ -10,7 +10,7 @@ aliases:
 summary: "起源于循证医学并在公共行政与教育治理中广泛扩散的决策范式与认识论要求，强调以严格实证科学证据（尤其是量化实验评估、随机分配规程与系统评价）作为检验何者有效、制定干预方案与配置公共财政资源的核心依据，并在跨国政策流动中重构了行动者的搜寻机会结构与评估技术硬转移。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 51
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -54,6 +54,9 @@ related_concepts:
   - "[[Deliberative Space]]"
   - "[[Demonstration Effect]]"
   - "[[Heterogeneity]]"
+  - "[[Document]]"
+  - "[[Context in Comparative Education]]"
+  - "[[Scientization of Politics]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -76,11 +79,13 @@ related_arguments:
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
   - "[[Argument_Campbell_2026_JPCC]]"
+  - "[[Argument_Volmari_2025_CE]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
+  - "[[Argument_Barrenechea_2023_JEC]]"
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -248,7 +253,7 @@ updated: 2026-11-10
 > | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | 美国福利改革对标方案（PRWORA / TANF） | 联邦第 1115 条豁免强制要求州级试点开展[[Randomised Controlled Trials\|随机对照实验]] | 1996 年 8 月至 2000 年 6 月全美受助群体数据 | 全美受助总人数从 1224.1 万人锐减至 578.1 万人（降幅达 53%） | 震撼性的降幅构成强[[Demonstration Effect\|示范效应]]，但两国家庭与医疗福利基底存在显著制度[[Heterogeneity\|异质性]] |
 > | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | 英国就业保留与晋升（ERA）示范项目 | 跨国引进美方[[Random Assignment\|随机分配]]实验模型并委托智库 [[MDRC]] 执行 | 2003 至 2007 年开展 3 轮多中心随机分配测试 | 覆盖单亲家庭新政、长期失业者与在职低收入群体 3 大类别 | 证实量化评估技术与外国专业智库可作为独立载体实现跨国[[Hard Policy Transfer\|硬转移]] |
 > | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | [[Swedish Schools Inspectorate\|瑞典学校督察局]]（SSI）常规督导与质量审计 | 《教育法》要求学校建立在科学依据与经验验证之上；评估领域、知识综述、参考研究者与报告审定 | 质性工具性个案；常规督导访谈 7 名高层管理与 3 名督导/法律专家，质量审计访谈 2 名研究者并观察 2 次参考组会议 | 常规督导从成功学校研究提炼约 10 个评估领域；质量审计知识综述声称呈现“当前知识状态”，最终报告经传播秘书处重写 | 显示证据本位治理可同时包含研究选择、文本铭写与合法化，难以用“研究直接指导决策”的线性模型解释 |
-> | [[Argument_Volmari_2025_CE\|Volmari et al. (2025)]] | 丹麦、芬兰与挪威学校改革政策引证与决策机制 | 统计政策引文中文献类型构成，解构循证政策中的科学知识采信机制 | 16 份核心政策文本共计 1,385 条参考文献记录 | 同行评议学术期刊成果仅占 14.5%（挪威 33.3%、丹麦 11.2%、芬兰 8.9%），官方报告与公报占 70.1% | 证实同行评议学术成果在政策引据中实际处于边际地位，证据采信受制于政治议程与熟人网络 |
+> | [[Argument_Volmari_2025_CE\|Volmari et al. (2025)]] | 丹麦、芬兰与挪威学校改革政策引证与决策机制 | 统计政策引文中[[Document\|文献]]类型构成，解构循证政策中的科学知识采信机制 | 16 份核心政策文本共计 1,385 条参考文献记录 | 同行评议学术期刊成果仅占 14.5%（挪威 33.3%、丹麦 11.2%、芬兰 8.9%），官方报告与公报占 70.1% | 证实同行评议学术成果在政策引据中实际处于边际地位，证据采信受制于政治议程与熟人网络 |
 
 ---
 

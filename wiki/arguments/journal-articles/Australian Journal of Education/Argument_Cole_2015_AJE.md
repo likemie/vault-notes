@@ -46,6 +46,7 @@ related_concepts:
 related_theories:
   - "[[Explicit Critical Thinking Instruction]]"
 related_methods:
+  - "[[Statistical Significance]]"
   - "[[Case Study]]"
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
@@ -76,14 +77,14 @@ related_instruments:
   - "[[Academic Self-Concept General Scale]]"
 status: draft
 created: 2026-06-30
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Cole_2015_AJE"
 argument_key: "Argument_Cole_2015_AJE"
 argument_display_title: "Critical thinking skills in the International Baccalaureate's 'Theory of Knowledge' subject: Findings from an Australian study"
 argument_kind: "journal-article"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -95,7 +96,7 @@ journal: "Australian Journal of Education"
 > [[International Baccalaureate\|国际文凭]]（IB）文凭项目（DP）的"[[Theory of Knowledge\|知识论]]"课程。它不教授固定学科内容，而是要求学生反思知识本质，是一门 100 小时独立[[Critical Thinking\|批判性思维]]课程。它是否有效提升了澳大利亚学生的批判性思维技能和倾向？完成 DP 课程的学生在大学学术准备上是否优于未完成的学生？
 
 > [!claim] 核心主张
-> 显性的、独立的批判性思维教学（如 ToK 课程）对学生批判性思维技能的发展有积极影响。12 年级 ToK 学生在批判性思维测量上显著高于 11 年级学生。DP 毕业生的[[Critical Thinking Disposition\|批判性思维倾向]]各维度均值均高于非 DP 毕业生，且大学学术指标（澳大利亚高等教育入学排名 ATAR、[[Academic Self-Concept\|学术自我概念]]、预期大学成果）均显著更高；不过，原文未报告批判性思维倾向差异的显著性检验。ToK 的效果高度依赖学校的实施方式。相同的课程框架在不同学校中产生了从高度整合到近乎随意的差异悬殊的教学实践。
+> 显性的、独立的批判性思维教学（如 ToK 课程）对学生批判性思维技能的发展有积极影响。12 年级 ToK 学生在批判性思维测量上显著高于 11 年级学生。DP 毕业生的[[Critical Thinking Disposition\|批判性思维倾向]]各维度均值均高于非 DP 毕业生，且大学学术指标（澳大利亚高等教育入学排名 ATAR、[[Academic Self-Concept\|学术自我概念]]、预期大学成果）均显著更高；不过，原文未报告批判性思维倾向差异的[[Statistical Significance|显著性检验]]。ToK 的效果高度依赖学校的实施方式。相同的课程框架在不同学校中产生了从高度整合到近乎随意的差异悬殊的教学实践。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 澳大利亚 [[IB Diploma Programme\|IB DP]] 学校的 11–12 年级 ToK 学生（$n = 1,338$），四所新南威尔士州（NSW）案例学校，以及 DP 与非 DP 大学一年级新生（$n = 389$）。

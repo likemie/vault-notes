@@ -10,9 +10,9 @@ summary: "由 Antonis Sidiropoulos et al. (2007) 提出的时间加权文献计�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 9
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 10
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Construct Validity]]"
+  - "[[Citation Aging]]"
   - "[[Document]]"
 related_theories: []
 related_methods:
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -64,7 +65,7 @@ updated: 2026-10-30
 
 > [!method-position] 方法定位
 > - **[[Construct Validity|构念效度]]** 引入显式时间折扣函数，使长期停滞产出或仅依赖数十年历史旧作维系高引的学者指标自然回落，凸显正在产生新知识贡献的活跃学者。
-> - **研究者判断** 衰减参数 $\gamma$（基准倍数）与 $\delta$（衰减幂律指数）通常分别预设为 4 与 1，但特定学科知识老化周期的差异可能需要重新率定参数。
+> - **研究者判断** 衰减参数 $\gamma$（基准倍数）与 $\delta$（衰减幂律指数）通常分别预设为 4 与 1，但特定学科[[Citation Aging|知识老化]]周期的差异可能需要重新率定参数。
 > - **不声称回答的问题** 指标依然基于单篇成果的聚合累加，未解决跨学科引用密度差异与合著署名贡献分割问题。
 
 > [!method-stack] 方法层级

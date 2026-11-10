@@ -7,7 +7,7 @@ aliases:
 summary: "一种以攻克关键科学瓶颈、生产公共品为导向的中等规模新型非营利科研组织；通过固定 5 年周期与严格日落条款（做完即散）、全职专业科学家与工程团队以及 2000 万至 5000 万美元集中资助，填补传统大学小课题组、营利性企业研发与永久国家实验室之间的‘中等规模公共品缺口’。"
 type: concept
 domain: "science-policy"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Construct]]"
   - "[[Convergence Research]]"
+  - "[[Research Tool]]"
 related_theories:
   - "[[Path Dependence]]"
 related_methods: []
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -162,7 +163,7 @@ updated: 2026-11-03
 > [!example] 代表性 FRO 实践案例
 > - **E11 Bio（大脑神经突触回路图谱）** 致力于开发可规模化、高通量的单细胞单突触全脑回路测序工具流水线，为神经科学界提供前所未有的哺乳动物大脑微观连接公共数据集。
 > - **Cultivarium（非模式微生物遗传学开源工具箱）** 针对自然界中 99% 无法在实验室标准培养皿生长的非模式微生物，系统构建开放获取的基因编辑协议、生长介质配方与自动化培育硬件平台。
-> - **Forest Neurotech（微型植入式超声脑机接口）** 研发基于功能性超声（Functional Ultrasound）的非侵入/微创全脑神经影像与调控系统，将软硬件原型作为开源科研工具交付全球临床与基础神经研究者。
+> - **Forest Neurotech（微型植入式超声脑机接口）** 研发基于功能性超声（Functional Ultrasound）的非侵入/微创全脑神经影像与调控系统，将软硬件原型作为开源[[Research Tool|科研工具]]交付全球临床与基础神经研究者。
 > - **[[National Science Foundation|NSF TIP]] X 实验室（[[NSF X-Labs|X-Labs]]）** 联邦政府层面的近邻试验形态，首次打破仅资助传统高校的惯例，由国家科学基金会向具备全职工程团队与敏捷运营权的独立实体提供直接资助，用于攻坚关键共性技术平台。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 25)]]
 
 ---

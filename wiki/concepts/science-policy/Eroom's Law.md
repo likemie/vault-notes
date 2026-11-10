@@ -7,7 +7,7 @@ aliases:
 summary: "生物医药与科学研发经济学中的核心经验规律（摩尔定律 Moore Law 的反向拼写）：指尽管计算机算力、高通量筛选与基因测序技术呈指数级进步，通胀调整后每十亿美元研发投入所产生的新药获批数量却呈现每九年减半的长期指数级下降趋势；在更广阔的科学政策视阈下，该定律用于表征当代科研边际生产率普遍放缓、行政合规成本膨胀与既有研发组织范式陷入瓶颈的系统性困境。"
 type: concept
 domain: "science-policy"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Regulatory Sandbox]]"
   - "[[Seniority Barrier in Academia]]"
   - "[[Academic Risk Aversion]]"
+  - "[[Early-Career Researchers]]"
   - "[[Creativity]]"
   - "[[Red Tape]]"
   - "[[Gold Standard Science]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -79,7 +80,7 @@ updated: 2026-11-03
 > [!feature|notitle]
 > - **“好药在前”与低垂果实摘尽（"Better-than-the-Beatles" Problem）** 易于攻克的基础靶点与常见疾病疗法已被历史性发明，新研发药物必须证明显著优于市场上成熟且低价的通用仿制药，研发门槛呈非线性抬升。
 > - **监管审批合规通胀（Regulatory & Administrative Creep）** 临床伦理审查与审批合规要求急剧膨胀（1991–2025 年联邦新增科研合规要求逾 270 项），高校间接成本膨胀与教师近半科研时间用于文书报销，推高制度沉没成本。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 8, 15)]]
-> - **[[Seniority Barrier in Academia|资历垄断]]与学术避险（Seniority Barrier & [[Academic Risk Aversion]]）** 课题负责人首次获资助平均年龄推迟至 42 岁，同行评议追求共识导致青年学者在[[Creativity|创造力]]黄金期被迫退守低风险增量课题，扼杀颠覆性靶点探索。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 16)]]
+> - **[[Seniority Barrier in Academia|资历垄断]]与学术避险（Seniority Barrier & [[Academic Risk Aversion]]）** 课题负责人首次获资助平均年龄推迟至 42 岁，同行评议追求共识导致[[Early-Career Researchers|青年学者]]在[[Creativity|创造力]]黄金期被迫退守低风险增量课题，扼杀颠覆性靶点探索。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 16)]]
 > - **工具[[Paradigm|范式]]停滞与中等规模工程缺位（Organizational & Tool Mismatch）** 耗资数千万美元、需专职跨学科工程团队攻坚的基础技术工具，既无法被大学单课题组容纳，又缺乏短期商业回报，在国家科研生态中形成结构性断层。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 22–24)]]
 
 ---
@@ -127,7 +128,7 @@ updated: 2026-11-03
 > |:---|:---|:---|:---|:---|
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 13)]] | 全球 1950–2020 年通胀调整后新药研发与审批数据（引自 Scannell et al., 2012） | 每 10 亿美元研发支出产出新药获批数量纵向追踪 | 1950 年来通胀调整后单位研发产出新药下降幅度达 80 倍，平均每 9 年产出效率减半 | 实证确立厄鲁姆定律的核心基准数据，展现生物医药研发效率的长期指数级衰退 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 14)]] | 1970 年代初以来全美半导体与农业研发投入普查 | 维持技术进步所需研究人员规模与农业投入产出比追踪 | 维持晶体管密度历史增长所需研究人员激增 18 倍；农业研发投入扩大 3–25 倍而产出大体持平 | 证实科研边际效率放缓构成了跨学科的普遍系统性趋势 |
-> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 16)]] | 1980–2024 年全美国立卫生研究院（[[National Institutes of Health\|NIH]]）资助项目库 | 课题负责人年龄分布纵向追踪 | 课题负责人平均年龄由 39 岁攀升至 51 岁，首次获资助者平均年龄推迟至 42 岁 | 揭示资历壁垒阻碍青年学者独立探索，加剧研发效率放缓与避险倾向 |
+> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 16)]] | 1980–2024 年全美国立卫生研究院（[[National Institutes of Health\|NIH]]）资助项目库 | 课题负责人年龄分布纵向追踪 | 课题负责人平均年龄由 39 岁攀升至 51 岁，首次获资助者平均年龄推迟至 42 岁 | 揭示资历壁垒阻碍[[Early-Career Researchers\|青年学者]]独立探索，加剧研发效率放缓与避险倾向 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang & Barabási (2021, pp. 166–167)]] | 全美半导体行业与全行业专利与[[Total Factor Productivity\|全要素生产率]]纵向追踪（引自 Bloom et al., 2020） | 维持常态技术增长率所需科研人员规模与个体产出率 | 维持摩尔定律所需研究人员扩大 18 倍，单兵科研产出年均衰减 5.3% | 实证揭示维持常态产出所需投入呈指数增长，验证跨领域生产率衰退规律 |
 
 > [!example] 典型组织创新实践

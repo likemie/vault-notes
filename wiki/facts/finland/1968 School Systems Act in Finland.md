@@ -13,7 +13,7 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 0
+fact_related_count: 4
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -24,10 +24,17 @@ tags:
   - comprehensive-school
   - finland
   - tracking
+related_concepts:
+  - "[[Heterogeneity]]"
+  - "[[Comprehensive Education]]"
+related_methods:
+  - "[[Difference-in-Differences]]"
+related_arguments:
+  - "[[Argument_Sahlgren_2015_CPS]]"
 confidence: medium
 status: active
 created: 2026-11-06
-updated: 2026-11-06
+updated: 2026-11-11
 ---
 
 ---
@@ -35,7 +42,7 @@ updated: 2026-11-06
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1968 年由芬兰议会（Eduskunta）通过，作为构建北欧式福利国家平等教育基石的母法颁布。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 11)]]
 > - **适用地区 / 对象** 覆盖芬兰全境所有市镇与全体 7 至 16 岁义务教育阶段适龄学童。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 11)]]
-> - **问题背景** 二战后旧有的[[Parallel School System in Finland|二元分流学制]]在小学 4 年级（10–11 岁）根据入学考试将学童残酷分流为学术型文法初中（Oppikoulu）与平民小学高段（Kansakoulu），造成底层农业与工人阶级子女在高等教育通道中严重边缘化。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 20–21)]]
+> - **问题背景** 二战后旧有的二元分流学制在小学 4 年级（10–11 岁）根据入学考试将学童残酷分流为学术型文法初中（Oppikoulu）与平民小学高段（Kansakoulu），造成底层农业与工人阶级子女在高等教育通道中严重边缘化。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 20–21)]]
 > - **制度位置** 效仿瑞典与挪威在 1950 至 1960 年代推行的综合学校改革模式，是芬兰构建统一公办九年制综合学校（Peruskoulu）与扩建特殊教育支持体系的法定转折点。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 11)]]
 
 ---
@@ -46,13 +53,13 @@ updated: 2026-11-06
 > [!policy-design] 政策设计
 > - **政策目标** 消除早期学业考试分流引发的阶级固化，保障全体公民享有均等的基础教育机会与直通高中及大学的法权基础。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 11)]]
 > - **适用对象** 芬兰全国各市镇地方政府、全体公立与私立文法中学、小学以及全体入读学龄儿童。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 11)]]
-> - **政策工具** 设立国家全额财政拨款托底、建立统一中央指令性大纲、推行市级综合学校管理委员会，并大幅扩张随班兼职特殊教育资源以应对异质性班级挑战。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 11–12)]]
+> - **政策工具** 设立国家全额财政拨款托底、建立统一中央指令性大纲、推行市级综合学校管理委员会，并大幅扩张随班兼职特殊教育资源以应对[[Heterogeneity|异质性]]班级挑战。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 11–12)]]
 > - **约束机制** 强制市镇按中央时间表分步接管私立文法中学并实行公立合并，取消一切形式的初中阶段升学选拔淘汰考试。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 11)]]
 
 > [!citation-card] 关键条文
 > 芬兰教育经济学者佩卡里宁等（Pekkarinen et al., 2009）在评估该法案因果效应时指出，1968 年法案启动了战后芬兰最深刻的教育重组。法案确立的按市镇分批推行节奏，为微观计量经济学提供了绝佳的外生准实验政策断点，实证评估证实改革虽极大地拉近了贫困家庭子女与高知阶层的代际学业鸿沟，但对全国男青年在算术和逻辑均分上的整体提升效应微乎其微。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 11)]]
 >
-> *“This began when the old two-stream system was abolished gradually across the country in the 1970s, following the Special Systems Act in 1968, in favour of nine-year comprehensive schooling modelled after similar reforms in Sweden and Norway.” (p. 7)*
+> *“This began when the old two-stream system was abolished gradually across the country in the 1970s, following the Special Systems Act in 1968, in favour of nine-year [[Comprehensive Education|comprehensive schooling]] modelled after similar reforms in Sweden and Norway.” (p. 7)*
 
 ---
 
@@ -72,5 +79,5 @@ updated: 2026-11-06
 ---
 
 > [!eval-box] 政策效果评价
-> - **代际流动与公平促进** 双重差分实证检验显示，法案打破阶层早期分流，使低家庭背景子女的学业代差缩减 23%，显著促进了工农子弟的向上社会流动。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 11)]]
+> - **代际流动与公平促进** [[Difference-in-Differences|双重差分]]实证检验显示，法案打破阶层早期分流，使低家庭背景子女的学业代差缩减 23%，显著促进了工农子弟的向上社会流动。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 11)]]
 > - **整体认知水准推动有限** 兵役全样本微观数据显示，法案对全国男性算术和逻辑矩阵均分未带来显著提升，表明综合学校制度在提升全国学业均值方面的解释力微弱。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 10–11)]]

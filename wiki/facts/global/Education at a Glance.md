@@ -9,9 +9,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 29
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 tags:
   - fact/program
@@ -34,6 +34,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Paradigm]]"
   - "[[Policy Brokerage]]"
+  - "[[Study Abroad]]"
   - "[[Science and Technology Studies]]"
   - "[[Global Education Governing Complex]]"
   - "[[Educational Multilateralism]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -120,7 +121,7 @@ updated: 2026-11-02
 > [!indicators] 评估指标体系
 > - **投入指标** 教育总支出占 GDP 比重、生均公共与私人支出、教育经费来源与转移支付结构。
 > - **过程与环境指标** 法定教学时间、教师薪资水平与结构、班级规模、生师比、学校教学与管理自主权。
-> - **产出与效益指标** 学历人口比例、各级毕业率、高等教育就业溢价、跨国留学生流动率、认知素养等级分布。
+> - **产出与效益指标** 学历人口比例、各级毕业率、高等教育就业溢价、跨国[[Study Abroad|留学]]生流动率、认知素养等级分布。
 
 > [!finding-cards] 核心实证结论
 > - **跨国“可计算空间”的生产** 科学知识社会学研究表明，EAG 通过技术抽象与施为性机制，将不可比的各国学校现实建构为跨国可通约的治理空间。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 4, 14)]]

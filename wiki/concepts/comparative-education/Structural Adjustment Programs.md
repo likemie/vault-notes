@@ -8,7 +8,7 @@ aliases:
 summary: "世界银行与国际货币基金组织在华盛顿共识下向债务危机国推行的宏观紧缩与市场化贷款附加方案；在教育领域通过推行使用者付费、私有化与分权化削减公共开支，是导致全球南方国家教育主权沦丧与阶级分化的核心外生制度因素"
 type: concept
 domain: "comparative-education"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -50,6 +50,7 @@ related_methods:
   - "[[Effect Size]]"
 related_persons:
   - "[[Joel Samoff]]"
+  - "[[Tim Cain]]"
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
   - "[[Stephen Ball]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -99,7 +100,7 @@ updated: 2026-11-03
 ---
 
 > [!contrast-table] 宏观政策[[Paradigm|范式]]与教育治理逻辑辨析
-> | 维度 | 结构调整方案（SAPs） | 凯恩斯福利国家模式 | 发展主义[[Import Substitution Industrialisation\|进口替代]]模式（ISI） |
+> | 维度 | 结构调整方案（SAPs） | [[Tim Cain\|凯恩]]斯福利国家模式 | 发展主义[[Import Substitution Industrialisation\|进口替代]]模式（ISI） |
 > |------|---------------------|-------------------|--------------------------|
 > | **制度推手** | [[World Bank\|世界银行]]、IMF 等跨国金融组织 | 民族国家议会与社会民主党工会联盟 | 民族国家[[Developmentalism\|发展主义]]政府与本土工业资本 |
 > | **教育属性定性** | **准私人物品与[[Human Capital Theory\|人力资本]]个人投资** | **基本公民权利与普遍社会福利** | **国家工业化官僚与技术劳动力基础** |

@@ -12,7 +12,7 @@ subtype: program
 region: europe
 fact_region: "europe"
 fact_kind: "program"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Precompetitive Research]]"
   - "[[Competitiveness]]"
   - "[[Return on Investment]]"
+  - "[[Nationalism]]"
   - "[[Pilot Scale Platform]]"
 related_theories: []
 related_methods:
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -107,7 +108,7 @@ updated: 2026-10-26
 > - **产业[[Competitiveness|竞争力]]与市场份额** 欧洲半导体制造商在全球市场的整体份额未获实质性改善（1980 年 16%，1992 年降至约 10%）。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 737–739)]]
 
 > [!finding-cards] 核心实证结论
-> 1. **成功培育泛欧科研协作网络** 打破了欧洲各国长期以来的技术民族主义壁垒，在微电子与软件工程领域建立了制度化的跨国协同研发网络。
+> 1. **成功培育泛欧科研协作网络** 打破了欧洲各国长期以来的技术[[Nationalism|民族主义]]壁垒，在微电子与软件工程领域建立了制度化的跨国协同研发网络。
 > 2. **商业化转化与制造竞争力成效有限** 由于资金被稀释在数百个互不连通的子项目中，且缺乏像 [[Sematech]] 或 [[VLSI Project]] 那样的集中式工程试验线，ESPRIT 未能有效逆转欧洲半导体制造商在全球市场份额中的持续下滑趋势。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 727, 752–754)]]
 > 3. **揭示伞状联盟治理的固有缺陷** 成为科技政策学界分析行政官僚脱离产业需求、研发议题过度分散及[[Precompetitive Research|前竞争研究]]向专有利益漂移的经典对比参照系。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 752–754)]]
 > 4. **缺乏实体[[Pilot Scale Platform|中试平台]]的产业转化阻滞** 证实了单纯的经费补贴和分散案头研发难以替代具备真实生产环境的共性工艺与设备中试测试平台。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 727, 752)]]

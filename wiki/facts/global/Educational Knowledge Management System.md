@@ -12,7 +12,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Knowledge Mediation]]"
   - "[[Knowledge Production]]"
+  - "[[Transnational Education]]"
   - "[[Discourse]]"
   - "[[Epistemic Infrastructure]]"
   - "[[Knowledge Co-production]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-23
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 # Educational Knowledge Management System
@@ -123,7 +124,7 @@ updated: 2026-10-30
 
 > [!finding-cards] 核心实证结论
 > - **确立[[World Bank|世界银行]][[Epistemic Governance|认知治理]]的组织孵化器** 扎普（[[Argument_Zapp_2017_IJED|Zapp, 2017]]）指出，EKMS 不仅是一套内部计算机网络，更是世界银行将[[Knowledge Production|知识生产]]、分类整理与跨国传播实体化的关键试验；它使世界银行率先在教育领域掌握了将学术实证转化为通用政策处方的技术能力。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4–5)]]
-> - **开启全球教育政策标准化风向** 通过主题小组和咨询台，世行系统性推介了[[School Autonomy|校本管理]]、私立参与以及标准化测评等特定政策组合，奠定了 2000 年代后跨国教育治理的[[Discourse|话语]]基调。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4, 7)]]
+> - **开启全球教育政策标准化风向** 通过主题小组和咨询台，世行系统性推介了[[School Autonomy|校本管理]]、私立参与以及标准化测评等特定政策组合，奠定了 2000 年代后[[Transnational Education|跨国教育]]治理的[[Discourse|话语]]基调。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4, 7)]]
 
 > [!stat-cards]- 关键实证数据
 > - **250** EAS 拥有的专职员工与外部咨询专家团队规模。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]

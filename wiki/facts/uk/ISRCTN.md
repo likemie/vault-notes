@@ -32,7 +32,6 @@ related_concepts:
   - "[[Reproducibility Crisis]]"
   - "[[Chain of Evidence]]"
   - "[[Variable]]"
-  - "[[Screening Off]]"
   - "[[Attrition]]"
   - "[[Preregistration]]"
   - "[[Publication Bias]]"
@@ -49,12 +48,13 @@ related_instruments:
 related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
+  - "[[ClinicalTrials.gov]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -75,7 +75,7 @@ updated: 2026-10-22
 
 > [!policy-design] 方案设计与注册规程
 > - **时间戳硬约束机制** 要求试验团队在第一名受试者入组或基线[[Pre-test and Post-test\|前测]]采集前，向注册库提交完整的方案细则；平台审核通过后生成带不可篡改时间戳的唯一 ISRCTN 编号。
-> - **核心[[Variable\|变量]]先验规约** 注册信息必须硬性锁定：试验假设、主要与次要结局指标的测量工具、[[Sample Size Determination\|样本量]]计算依据、[[Random Assignment\|随机分配]]层级与[[Screening Off\|屏蔽]]方法，以及预先指定的统计分析模型。
+> - **核心[[Variable\|变量]]先验规约** 注册信息必须硬性锁定：试验假设、主要与次要结局指标的测量工具、[[Sample Size Determination\|样本量]]计算依据、[[Random Assignment\|随机分配]]层级与屏蔽方法，以及预先指定的统计分析模型。
 > - **实施变更透明化跟踪** 若在实地现场不可抗力下必须变更方案（如[[Attrition\|样本流失]]过大或追加中间指标），所有变更记录必须在平台历史版本树中全量公开留痕，并注明变更理由。
 > - **结局全量公布绑定** 无论试验最终呈现显著正向效应、零效应还是负向效应，试验结束后必须在注册条目中回填主要结局数据与结题公开报告链接。
 
@@ -88,7 +88,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 平台演进与社会科学扩散历程
 > - **2000 — 循证医学先驱倡导创设** 伊恩·查尔默斯联手 BioMed Central 成立 ISRCTN，旨在建立首个跨出版商、跨国界的[[Clinical Trial\|临床试验]]统一识别注册体系。
-> - **2005 — ICMJE 国际期刊准入强制令** 国际医学期刊编辑委员会宣布，未在 ISRCTN 或 ClinicalTrials.gov 等合格公共平台[[Preregistration\|预注册]]的临床试验将一律被国际权威医学期刊拒稿，确立了预注册的行业硬性门槛。
+> - **2005 — ICMJE 国际期刊准入强制令** 国际医学期刊编辑委员会宣布，未在 ISRCTN 或 [[ClinicalTrials.gov]] 等合格公共平台[[Preregistration\|预注册]]的临床试验将一律被国际权威医学期刊拒稿，确立了预注册的行业硬性门槛。
 > - **2011–2013 — 跨界移植与教育实证治理确立** 英国 [[Education Endowment Foundation\|EEF]] 成立后全面借鉴临床治理[[Paradigm\|范式]]，打破社会科学不注册的陋习，在资助协议中强制规定所有学校现场试验必须注册 ISRCTN 并公开发布分析计划。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 52)]]
 > - **2018–至今 — [[CONSORT-SPI]] 报告标准与[[EEF Padlock Security Rating\|挂锁安全评级]]深度咬合** 随着复杂社会干预报告标准全面成型，EEF 将“是否在 ISRCTN 规范预注册”作为评定证据安全性的核心指标，未按时注册直接在[[EEF Padlock Security Rating\|挂锁安全评级]]中扣减 1 把锁。
 

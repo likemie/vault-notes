@@ -8,10 +8,10 @@ aliases:
 summary: "Martin Wight 国际关系三大传统之一（对应 Kant 思想），将政治的终极现实视为普遍人类共同体而非国家间关系，以“武力”为推翻旧秩序的必要手段。在比较教育中，它塑造了以揭露不平等和开辟解放可能性为使命的道德事业形态，涵盖 1970 年代的新马克思主义依附论以及当代的后殖民与去殖民批判。"
 type: concept
 domain: "comparative-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 theory_related_count: 5
 theory_related_level: 1
 theory_related_stars: "⭐"
@@ -44,6 +44,7 @@ related_methods: []
 related_persons:
   - "[[Immanuel Kant]]"
   - "[[Martin Carnoy]]"
+  - "[[Iveta Silova]]"
 related_facts:
   - "[[OECD]]"
 related_arguments:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -111,7 +112,7 @@ updated: 2026-11-03
 > [!concept-proposition] 命题二｜学科自身是[[Re-Westernisation|再西方化]]治理与欧洲殖民扩张分类的隐性载体
 > **去殖民[[Epistemology\|认识论]]** 这一命题揭示学科本身如何被共谋为新资本主义知识积累工具。
 
-> [!claim] Silova, I. & Takayama, K.
+> [!claim] [[Iveta Silova|Silova, I.]] & Takayama, K.
 > **学科殖民性与西方地平线断裂** 指出，革命主义在当代演化为去殖民转向，其最激进的贡献在于将比较教育本身重铸为一种“帝国—殖民”认识型。这表明学科起源（如 Jullien 1817 计划）即深深扎根于欧洲帝国扩张的旅行、观察与差异分类实践；当前的“全球化”其实是掩盖殖民延续的[[Re-Westernisation\|再西方化]]进程，通过英语垄断、西方理论解释非西方现实以及将南方数据作为经验燃料来维系。要摆脱这一束缚，必须实现与西方认识型的“彻底断裂”。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 427–429]])
 
 ---

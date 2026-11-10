@@ -12,7 +12,7 @@ subtype: policy
 region: denmark
 fact_region: "denmark"
 fact_kind: "policy"
-fact_related_count: 26
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -28,19 +28,21 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Academic Achievement]]"
   - "[[Technical Rationality]]"
+  - "[[Document]]"
   - "[[Whole Person Education]]"
+  - "[[Extracurricular Activities]]"
   - "[[Learnification]]"
   - "[[Professional Judgment]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Rote Learning]]"
-  - "[[Learnology]]"
-  - "[[Document]]"
   - "[[Policy-Based Evidence-Making]]"
+  - "[[Learnology]]"
 related_theories:
   - "[[Legitimation Crisis]]"
   - "[[Critical Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Bibliometric Analysis]]"
   - "[[Effect Size]]"
 related_persons:
   - "[[John Hattie]]"
@@ -54,13 +56,13 @@ related_arguments:
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Argument_Nielsen_2021_IRTP]]"
   - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Hansen_2015_Paideia]]"
   - "[[Argument_Volmari_2025_CE]]"
+  - "[[Argument_Hansen_2015_Paideia]]"
 related_instruments: []
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 
 ---
@@ -109,7 +111,7 @@ updated: 2026-11-09
 > - **国家课程目标彻底量化** 传统的自由讨论与教养（Dannelse）传统被全面边缘化，取而代之的是由上至下层层下达的可测量学习指标。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 86)]]
 > - **课堂教学行为的技术控制** 教师被要求严格依照[[John Hattie|哈蒂]]式的反馈程式（向后、向上、向前反馈）监控课堂，将教学活动降格为刺激-强化-纠偏的控制流水线。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 88–89)]]
 > - **学术招牌作为政治盾牌** 当家长和教师对死板考核与课时延长提出强烈抗议时，教育部与市镇官员反复将哈蒂的[[Meta-analysis|元分析]]数据奉为不可抗拒的科学准则，用以压制民主商榷并削弱教师专业自主。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 80, 86)]]
-> - **工具主义实证剪裁与证据逆向制造** 官方提案（2012）在论证延长学时与强化核心学科时表现出强烈的工具主义取向：优先采纳能够直接证明预期干预因果成效的应用型评估方案，极少引用同行评议期刊文献，主要将实证证据用作免于实质辩论的政治合法化背书。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 535–536, 542)]]
+> - **工具主义实证剪裁与证据逆向制造** 官方提案（2012）在论证延长学时与强化核心学科时表现出强烈的工具主义取向：优先采纳能够直接证明预期干预因果成效的应用型评估方案，极少引用同行评议期刊[[Document|文献]]，主要将实证证据用作免于实质辩论的政治合法化背书。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 535–536, 542)]]
 
 ---
 
@@ -123,14 +125,14 @@ updated: 2026-11-09
 
 > [!indicators] 评价指标
 > - **投入指标** 延长全国学生每周在校课时（小学低年级增至每周 30 课时、高年级增至 35 课时）、增加丹麦语与数学核心课时、强制削减教师传统备课工时额度。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 5)]]
-> - **过程指标** 98 个市镇落实近 3,000 个细分学习目标进度、教师在校考勤与微观课堂反馈规程合规率、全日制课外活动与体育活动嵌入度。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 2)]]
+> - **过程指标** 98 个市镇落实近 3,000 个细分学习目标进度、教师在校考勤与微观课堂反馈规程合规率、全日制[[Extracurricular Activities|课外活动]]与体育活动嵌入度。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 2)]]
 > - **结果指标** PISA 国际排名位次、全国标准化统考平均分、骨干教师离职与转岗率、公立基础学校生源流失至私立独立学校（Friskoler）比例。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 86)]]
 
 > [!finding-cards] 效果与评价
 > - **政策合法性与公信力遭遇严重受挫** 改革未能在不增加投入的前提下有效提升学业水平，反而引发大批经验丰富的骨干教师辞职、学生转入私立学校（Friskoler），加剧了公立教育系统的离心倾向。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 86)]]
 > - **学习概念异化为[[Learnification|学习化]]（Learnification）** 斯特恩·内珀·拉森（Steen Nepper Larsen, 2019）指出，改革将教育简化为以结果为中心的狭隘技术逻辑，教育的崇高目的被机械的测试指标所吞噬。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 2)]]
 > - **国家[[Legitimation Crisis|合法化危机]]借[[Technical Rationality|技术理性]]转嫁** [[Klaus Nielsen|克劳斯·尼尔森]]与克利特默勒（[[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）诊断指出：[[John Hattie|哈蒂]]框架风靡丹麦源于丹麦行政系统在遭遇 [[PISA]] 冲击与紧缩危机时，急切需要一套许诺稳定产出成绩的科学说辞向公众交差；哈蒂恰恰提供了一套将教学切片为可控环节的统一工具，被政府视作平息政治合法化危机的技术掩体。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 86–87)]]
-> - **学术期刊文献占比极低与证据封闭性** 文献计量分析显示，丹麦改革官方提案抽取的 231 条参考文献中，同行评议学术期刊文献仅占 16.02%（37 条），高度依赖政府内部报告、委托评估与咨询机构文献；证据主要被用于证明预设政纲（如增加学时）的合理性，而非指导开放探索。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 535–536, 540)]]
+> - **学术期刊文献占比极低与证据封闭性** [[Bibliometric Analysis|文献计量分析]]显示，丹麦改革官方提案抽取的 231 条参考文献中，同行评议学术期刊文献仅占 16.02%（37 条），高度依赖政府内部报告、委托评估与咨询机构文献；证据主要被用于证明预设政纲（如增加学时）的合理性，而非指导开放探索。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 535–536, 540)]]
 
 > [!stat-cards]- 核心数据
 > - **3,000+** 改革在三年制各科目中硬性嵌入的细分“学习目标”（项）。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 2)]]

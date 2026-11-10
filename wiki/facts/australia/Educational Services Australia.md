@@ -9,9 +9,9 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 8
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 issuing_organization: Educational Services Australia
 tags:
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Initial Teacher Training]]"
   - "[[Policy Network]]"
+  - "[[Quasi-market]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -28,6 +29,7 @@ related_facts:
   - "[[Australian Curriculum]]"
   - "[[NAPLAN]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
+  - "[[Australian Curriculum, Assessment and Reporting Authority]]"
   - "[[Australian Education Research Organisation]]"
   - "[[Strong Beginnings Report]]"
 related_arguments:
@@ -35,7 +37,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -50,7 +52,7 @@ updated: 2026-10-26
 > [!timeline] 机构活动与系统支撑
 > - 2010 正式成立，作为澳大利亚教育数据与基础设施的核心承载公司。
 > - 2010s 承建并运营一系列国家级教育技术平台，包括 [[NAPLAN]] 在线测试系统、澳大利亚国家数字内容库（Scootle）等。
-> - 2011后 随着教师教育准入改革的收紧，ESA 在底层为[[Australian Institute for Teaching and School Leadership\|澳大利亚教学与学校领导力协会]]（[[Australian Institute for Teaching and School Leadership\|AITSL]]）和[[Australian Curriculum\|澳大利亚课程]]评估与报告局（ACARA）提供共享的技术支持和行政外包系统。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
+> - 2011后 随着教师教育准入改革的收紧，ESA 在底层为[[Australian Institute for Teaching and School Leadership\|澳大利亚教学与学校领导力协会]]（[[Australian Institute for Teaching and School Leadership\|AITSL]]）和[[Australian Curriculum\|澳大利亚课程]]评估与报告局（[[Australian Curriculum, Assessment and Reporting Authority|ACARA]]）提供共享的技术支持和行政外包系统。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
 > - 2020 [[Australian Education Research Organisation\|澳大利亚教育研究组织]]（[[Australian Education Research Organisation\|AERO]]）成立。ESA 的技术与行政底层系统支撑矩阵进一步扩展，将 AERO 的证据发布平台和标准数据库纳入其技术与托管生态。
 
 ---
@@ -63,7 +65,7 @@ updated: 2026-10-26
 
 > [!tension] 争议焦点
 > - **工具争议（利益冲突与权力集中的隐忧）** 政策社会学者指出，[[Australian Institute for Teaching and School Leadership\|AITSL]]、ACARA 与 [[Australian Education Research Organisation\|AERO]] 在名义上是各自独立的政策和证据机构，但它们在底层系统与行政服务上都由同一个“慈善中介”ESA 支撑，这事实上消解了机构间的权力制衡，大大增加了国家教育问责体系中的权力集聚和隐性利益冲突风险（([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])）。
-> - **“慈善”外衣下的治理商业化** 将关系国家命脉的教育监控与证据中介职能寄托在一只注册慈善公司（Charity）的底层技术系统上，一方面为[[Policy Network\|政策网络]]提供了规避公众直接监督的“公益防雨伞”，另一方面也反映了国家将教育公共事业外包给准市场化技术官僚机构的整体治理转向。
+> - **“慈善”外衣下的治理商业化** 将关系国家命脉的教育监控与证据中介职能寄托在一只注册慈善公司（Charity）的底层技术系统上，一方面为[[Policy Network\|政策网络]]提供了规避公众直接监督的“公益防雨伞”，另一方面也反映了国家将教育公共事业外包给[[Quasi-market|准市场]]化技术官僚机构的整体治理转向。
 
 ---
 

@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_HistoricalReflections"
 argument_key: "Argument_Kazamias_2009_HistoricalReflections"
 argument_display_title: "Comparative education: Historical reflections"
 argument_kind: "book-chapter"
-argument_related_count: 82
+argument_related_count: 85
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -58,7 +58,9 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[International Education]]"
   - "[[Scientific Method]]"
+  - "[[Transnational Education]]"
   - "[[Social Regime]]"
+  - "[[Nationalism]]"
   - "[[Causality]]"
   - "[[Liberal Education]]"
   - "[[Big Science]]"
@@ -85,6 +87,7 @@ related_methods:
   - "[[Vignettes in Research]]"
   - "[[Fieldwork]]"
   - "[[Ethnography]]"
+  - "[[Cognitive Extent]]"
 related_instruments: []
 related_persons:
   - "[[Nicholas Hans]]"
@@ -126,7 +129,7 @@ sources:
 part_of: "[[Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-10-01
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
@@ -216,7 +219,7 @@ updated: 2026-10-30
 > - **借鉴解剖学建立教育观察分类表** 法国学者[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien）在 1817 年发表《比较教育研究计划与初步观点》（*Esquisse et vues préliminaires d'un ouvrage sur l'éducation comparée*）。他借鉴生物学家乔治·居维叶（Georges Cuvier）用比较解剖学推动生物科学发展的做法，主张教育研究也必须建立在客观事实和系统观察之上。朱利安设计了一套详细的事实分类表，希望通过跨国收集和对比办学数据，归纳出切实可行的教育原则，使教育学成为一门近似于实证的科学（nearly positive science）。
 > - **以理性研究消除主观专断** 朱利安提倡收集客观事实，根本目的不是追求纯粹的技术工具，而是希望用可靠的事实知识代替执政者个人的盲目与专断，通过改良学校促进社会的整体道德进步。（p.140）
 
-然而在 19 世纪的大部分时间里，朱利安设想的系统化实证科学并未真正落地，真正主导跨国教育考察的是各国政府委派的行政官员。
+然而在 19 世纪的大部分时间里，朱利安设想的系统化实证科学并未真正落地，真正主导[[Transnational Education|跨国教育]]考察的是各国政府委派的行政官员。
 
 > [!feature] 19 世纪欧美视察官的政策改良取向
 > - **以外国办学现状为中心的描述性考察** 法国的[[Victor Cousin|维克多·库森]]（Victor Cousin），以及美国的[[Horace Mann|霍勒斯·曼]]（Horace Mann）、[[Henry Barnard|亨利·巴纳德]]（Henry Barnard）等人受政府资助前往欧洲考察。他们撰写的考察报告主要记录外国的学校管理、课程设置与教学方法，呈现出[[Scholiocentric Approach|以校为中心]]（scholiocentric）的特征，即把学校孤立起来当成单纯的教学场所进行描述，较少深入分析学校背后的社会结构。（pp.140–141）
@@ -253,7 +256,7 @@ updated: 2026-10-30
 > [!factors] 汉斯提出的塑造民族教育体系的三大因素
 > - **自然因素** 包含语言、地理环境与经济物质基础，构成教育体系赖以建立的自然与物质边界。
 > - **宗教因素** 包含天主教、英国国教与清教等传统，为各民族教育注入独特的道德戒律与伦理信仰。
-> - **世俗动因** 包含人文主义、社会主义思潮与民族主义运动，成为推动现代教育体制变革的核心驱动力。（p.143）
+> - **世俗动因** 包含人文主义、社会主义思潮与[[Nationalism|民族主义]]运动，成为推动现代教育体制变革的核心驱动力。（p.143）
 
 坎德尔则进一步为历史比较研究注入了深层的哲学向度：
 
@@ -374,7 +377,7 @@ updated: 2026-10-30
 >
 > | 调查时间段 | 考察的国际核心期刊范围 | 纳入分析的论文总数 | 运用历史研究方法的论文占比 | 学科研究现状定性 |
 > |---|---|---|---|---|
-> | **1955–1994 年（四十年全期）** | IJED, CE, CER 三大国际旗舰期刊 | 近 2000 篇论文 | **10.5%** | 在近四十年的长周期中，历史研究逐步边缘化，近九成研究转向现时性政策与纯量化调查。（pp.155–156） |
+> | **1955–1994 年（四十年全期）** | IJED, [[Cognitive Extent\|CE]], CER 三大国际旗舰期刊 | 近 2000 篇论文 | **10.5%** | 在近四十年的长周期中，历史研究逐步边缘化，近九成研究转向现时性政策与纯量化调查。（pp.155–156） |
 > | **1985–1995 年（近十年期）** | IJED, CE, CER 三大国际旗舰期刊 | 该十年发表的全部论文 | **不足 5%** | 历史研究比例出现断崖式下跌，历史比较方法降至极低水平。 |
 >
 > **数据解读** 这一统计数据证实，比较教育学已经严重患上了[[Historical Amnesia|历史健忘症]]（Historical Amnesia），只顾眼前政策而遗忘了历史源流。（p.156）

@@ -8,7 +8,7 @@ summary: "美国西北大学社会学教授，量化社会学、评价与指标�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 23
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Policy Brokerage]]"
   - "[[Scaffolding]]"
+  - "[[Homophily]]"
   - "[[Reflexivity]]"
   - "[[Sociology of Valuation and Evaluation]]"
   - "[[Evidence-Based Policy-Making]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -101,7 +102,7 @@ updated: 2026-10-26
 > 量化并非对前存在现实的中立镜像反映，而是一种深刻重塑社会关系的干预技术。数字指标通过[[Commensuration\|通约化]]机制强行剔除情境细节与质性争议，使数字作为客观普适的“[[Façade of Rationality\|理性表象]]”[[Scaffolding\|脚手架]]；与此同时，数字的抽象性并未消除政治，反而激发了具有高度弹性的意识形态叙事，并诱发全系统的反应性焦虑与行为异化。
 
 > [!citation-card] 通约化作为抹除质性差异的社会过程
-> 通约化是将不同质性的差异转化为跨越通用度量的数量差异的过程。通约化通过建立统一的价值关系，消解了原有的质性独特性与道德复杂性，为组织决策提供了去政治化与去语境化的计算外表。转引自 [[Argument_Thompson_2022_Promising_Student\|(Thompson et al., 2022, p. 225)]]
+> 通约化是将不[[Homophily|同质性]]的差异转化为跨越通用度量的数量差异的过程。通约化通过建立统一的价值关系，消解了原有的质性独特性与道德复杂性，为组织决策提供了去政治化与去语境化的计算外表。转引自 [[Argument_Thompson_2022_Promising_Student\|(Thompson et al., 2022, p. 225)]]
 >
 > *Commensuration is the transformation of different qualities into a common metric. It establishes relations between things that are fundamentally different by simplifying information and discarding the contextual nuances.*
 

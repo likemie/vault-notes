@@ -10,7 +10,7 @@ aliases:
 summary: "指优秀学术研究对学术共同体之外的经济、社会、公共政策、医疗健康、文化、教育及生态环境等领域所产生的可证实、可测度的实质性积极贡献与变革；在循证教育中涵盖中间过程产出、使用者行为变革与最终受益人成效三层评价阶梯。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 33
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -23,6 +23,7 @@ tags:
   - policy/evaluation
 related_concepts:
   - "[[Document]]"
+  - "[[Quasi-market]]"
   - "[[Technology Transfer]]"
   - "[[Knowledge Exchange]]"
   - "[[Citizen Science]]"
@@ -30,30 +31,35 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Output-Oriented Governance]]"
   - "[[Research Literacy]]"
+  - "[[Early-Career Researchers]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Research Utilization]]"
   - "[[Academic Achievement]]"
   - "[[Paradigm]]"
   - "[[Public Value]]"
   - "[[Curiosity-Driven Research]]"
-  - "[[Heterogeneity]]"
+  - "[[Variable]]"
+  - "[[Transnational Education]]"
   - "[[New Public Management]]"
   - "[[Quasi-markets in Higher Education]]"
   - "[[Performance Indicators]]"
 related_theories: []
 related_methods:
+  - "[[Journal Impact Factor]]"
   - "[[Case Study]]"
   - "[[h-Index]]"
   - "[[Systematic Review]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[Research Excellence Framework]]"
+  - "[[Web of Science]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[UK Knowledge Exchange Framework]]"
   - "[[Reach]]"
-  - "[[What Works Network]]"
   - "[[OECD]]"
+  - "[[What Works Network]]"
   - "[[Research Schools Network]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06]]"
@@ -64,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-04
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -73,8 +79,8 @@ updated: 2026-11-03
 > 科研影响力（Research Impact），在当代高等教育政策与科研评价语境中，特指经同行评议认定的优秀学术研究对学术共同体之外的广泛领域——包括经济繁荣、公共政策制定、医疗健康改善、文化生活繁荣、教育实践以及生态环境保护等——所带来的可验证、可测度的实质性贡献、效益或积极变革（demonstrable benefits to society and economy）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
 
 > [!concept-lens|notitle] 概念透镜
-> - **含义** 区别于学术界内部的“学术影响”（以引文频次、期刊影响因子等[[Document|文献]]计量为表征），科研影响力关注知识溢出（Knowledge Spillovers）与非学术社会价值创造。
-> - **用途** 作为国家宏观科研资助分配的准市场评价工具，督促大学向纳税人论证公共财政投入的社会回报（Accountability），激励学者走出象牙塔并回应当代重大社会挑战。
+> - **含义** 区别于学术界内部的“学术影响”（以引文频次、[[Journal Impact Factor|期刊影响因子]]等[[Document|文献]]计量为表征），科研影响力关注知识溢出（Knowledge Spillovers）与非学术社会价值创造。
+> - **用途** 作为国家宏观科研资助分配的[[Quasi-market|准市场]]评价工具，督促大学向纳税人论证公共财政投入的社会回报（Accountability），激励学者走出象牙塔并回应当代重大社会挑战。
 > - **边界** 不等于短期的商业化变现或技术专利转让；亦不等于单纯的科研成果宣传公关，必须具备明确的因果转化链条与独立受益人证据。
 
 > [!boundary]- 概念边界
@@ -90,7 +96,7 @@ updated: 2026-11-03
 > | **核心受益人** | 公众、患者、企业、政府与非政府组织 | 学术圈同行与特定学科研究人员 | 工业界客户、投资者与高校技术转移办 |
 > | **成效测量** | 叙述性影响力案例（[[Case Study]]）与佐证链 | 期刊影响因子、[[h-Index\|H指数]]等计量统计 | 授权收入、专利数与孵化企业产值 |
 > | **因果周期** | 5 至 20 年的非线性潜移默化与长周期累积 | 成果面世后 2 至 5 年的引证窗口期 | 依据商业合同周期与产品上市时间决定 |
-> | **代表机制** | 英国科研卓越框架（[[Research Excellence Framework\|REF]]）影响力考评 | 科学引文索引（Web of Science）数据库 | [[Bayh-Dole Act of 1980\|拜杜法案]]框架、[[Knowledge Exchange\|知识交流]]框架（[[UK Knowledge Exchange Framework\|KEF]]） |
+> | **代表机制** | 英国科研卓越框架（[[Research Excellence Framework\|REF]]）影响力考评 | [[Web of Science\|科学引文索引]]（Web of Science）数据库 | [[Bayh-Dole Act of 1980\|拜杜法案]]框架、[[Knowledge Exchange\|知识交流]]框架（[[UK Knowledge Exchange Framework\|KEF]]） |
 
 ---
 
@@ -138,7 +144,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题二｜量化审计评价机制容易诱发商业化偏差并产生早期学术外展的挤出效应
-> **评价偏差与学术分层** 当科研评估与大学核心财政拨款强力挂钩时，单一偏向可量化硬指标的导向会重塑高校管理层的资源配置优先级，导致需要长线培育的草根科学外展与青年学者遭遇制度性边缘化。
+> **评价偏差与学术分层** 当科研评估与大学核心财政拨款强力挂钩时，单一偏向可量化硬指标的导向会重塑高校管理层的资源配置优先级，导致需要长线培育的草根科学外展与[[Early-Career Researchers|青年学者]]遭遇制度性边缘化。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society (2026, Ch. 6)]]
 > **短期商业化优先与早期学者外展挤出** 由于高分案例直接决定大学核心拨款，高校内部资金与法务支持严重向能快速产生经济产值的商业化与专利转化倾斜，投向公众参与的资源相对匮乏；同时，对确定性“最终影响”的过度聚焦，导致高校资源远离了难以量化直接成效的早期职业学者探索性活动与面向公众的通识性传播。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
@@ -194,7 +200,7 @@ updated: 2026-11-03
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society (2026)]] | 英国科研卓越框架（REF 2014 与 REF 2021）提交的全量影响力案例库 | 国家级研究评估数据挖掘 | 涉及公众参与的影响力案例比例与学科分布 | 约 50% 的提交案例将公众参与作为促成社会影响的核心路径；人文与社会科学领域案例比例显著高于理工医（STEMM） | — | 评估因果链微妙弥散，缺乏线性硬证据，部分案例申报积极性受抑制 |
 > | [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] | [[OECD\|经合组织]] 37 个教育系统跨国调查数据（2021–2022年） | 跨国政策体系制度普查 | 政策端与教学实践端研究利用常态化监测机制覆盖率 | 政策端研究利用监测覆盖率为 22%；教学实践端研究利用监测覆盖率仅为 17% | 普查统计指标 | 证实绝大多数教育系统缺乏对研究利用与社会影响的系统化监测 |
@@ -204,7 +210,7 @@ updated: 2026-11-03
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society (2026)]] — 系统解构英国科研卓越框架（REF）中科研影响力的评价机制，揭示约 50% 案例依赖[[Public Engagement with Science|公众科学参与]]的事实，指出商业化挤出效应与归因困难，并提出 REF 2029 设立“参与与影响”独立考评剖面的改革路径。
-> - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a)]] — [[OECD|经合组织]]编著第五章，系统提出科研影响力评估的三层阶梯，并实证测度跨国教育系统对[[Research Utilization|研究利用]]的监测机制覆盖率，揭示“有效机构”面临的最终受益人评估赤字。
+> - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a)]] — [[OECD|经合组织]]编著第五章，系统提出科研影响力评估的三层阶梯，并实证测度[[Transnational Education|跨国教育]]系统对[[Research Utilization|研究利用]]的监测机制覆盖率，揭示“有效机构”面临的最终受益人评估赤字。
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 系统评析[[Knowledge Mobilisation|知识动员]]模型，揭示教育科研影响力的间接缓慢渗透属性，提出乌托邦之喻以强化崇高教育终极目标对生态治理的牵引价值。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford and UIDP (2019)]] — 阐述英国研究评估从单纯资助科学向催化社会经济效益转型的国际政策脉络，分析高校在[[Knowledge Exchange|知识交流]]与产学伙伴中的影响力测度。
 > - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]] — 从[[New Public Management|新公共管理]]与[[Quasi-markets in Higher Education|高等教育准市场]]视角，剖析国家评估机制通过量化[[Performance Indicators|绩效指标]]控制高校资源配置的制度后果。

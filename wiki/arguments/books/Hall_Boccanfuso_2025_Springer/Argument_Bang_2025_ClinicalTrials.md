@@ -20,6 +20,7 @@ related_concepts:
   - "[[Institutional Review Board]]"
   - "[[Performance Indicators]]"
   - "[[Contract Research Organization]]"
+  - "[[Side Effects]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Return on Investment]]"
   - "[[Preregistration]]"
@@ -35,10 +36,12 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Instrumental Variables]]"
   - "[[Typological Analysis]]"
 related_persons: []
 related_facts:
   - "[[Clinical Trials Transformation Initiative]]"
+  - "[[ClinicalTrials.gov]]"
   - "[[Sunshine Act]]"
 related_arguments: []
 sources:
@@ -47,14 +50,14 @@ part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 related_instruments: []
 status: draft
 created: 2026-06-03
-updated: 2026-10-22
+updated: 2026-11-11
 subtype: book-chapter
 publication_type: book
 title: "Argument_Bang_2025_ClinicalTrials"
 argument_key: "Argument_Bang_2025_ClinicalTrials"
 argument_display_title: "University–industry relations in clinical trials"
 argument_kind: "book"
-argument_related_count: 25
+argument_related_count: 28
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -78,7 +81,7 @@ citation_aliases:
 ---
 
 > [!abstract] [[Analytic Framework\|分析框架]]：[[Clinical Trial\|临床试验]]生命周期 × 产业方视角
-> 论证围绕[[Clinical Trial\|临床试验]]的完整生命周期展开——从临床前[[Translational Research\|转化研究]]到上市后监测（IV 期），但分析视角始终设在产业方一侧：在每个阶段，大学为试验贡献什么？产业方承担的成本和风险是什么？双方的制度摩擦在哪里产生？
+> 论证围绕[[Clinical Trial\|临床试验]]的完整生命周期展开——从临床前[[Translational Research\|转化研究]]到上市后监测（[[Instrumental Variables|IV]] 期），但分析视角始终设在产业方一侧：在每个阶段，大学为试验贡献什么？产业方承担的成本和风险是什么？双方的制度摩擦在哪里产生？
 >
 > 核心分析工具是两组对比维度：
 > - **[[Academic Medical Center\|学术医学中心]]与非学术试验基地的启动效率对比（Table 11.2）** 包括从基地选择到激活的周期时间、委员会审查数量、监管包提交到[[Institutional Review Board\|机构审查委员会]]（Institutional Review Board, IRB）批准的时间、合同/预算的审查与签署时间、合同执行到激活的时间
@@ -126,7 +129,7 @@ citation_aliases:
 
 > [!info] 临床试验各阶段速览(pp.203–204)
 > - **0 期（探索性研究性新药，Exploratory Investigational New Drug, IND）** 微剂量给药于少数志愿者，了解药代动力学（Pharmacokinetics, PK）和药效学（Pharmacodynamics, PD），不期待治疗或毒性效果。产出为是否继续推进临床开发的决策信息。
-> - **I 期（安全性与剂量）** 小规模（20–100 人）健康志愿者或患者，确定安全剂量范围和副作用。产出为产业方确定推荐的 II 期剂量。
+> - **I 期（安全性与剂量）** 小规模（20–100 人）健康志愿者或患者，确定安全剂量范围和[[Side Effects|副作用]]。产出为产业方确定推荐的 II 期剂量。
 > - **II 期（疗效与副作用）** 更大规模患者（100–300 人），测试有效性和最佳剂量。产出为判断药物是否对目标病症有效。
 > - **III 期（确证性研究）** 大规模患者（1000–3000 人），通常多中心、随机双盲，将新药与现有标准治疗或安慰剂比较。产出为有效性、获益和不良反应范围的全面数据；成功完成是获得美国食品药品监督管理局（U.S. Food and Drug Administration, FDA）监管批准的[[Necessary and Sufficient Conditions\|必要条件]]。
 > - **IV 期（上市后监测）** 上市后在广泛患者人群中开展，检测罕见或长期不良反应。产出为持续安全性和疗效监测，可能导致用药方式调整或新增警告。
@@ -145,7 +148,7 @@ citation_aliases:
 > [!example] 图11.3：产业方发起试验的功能部门、决策授权流程、平均基地数量和基地选择标准
 > ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_11-3_Industry_Sponsored_Trial_Initiation_Decision_Process.jpg)
 
-试验启动可以通过三种渠道发起：CRO 主动联系大学、产业方直接通过不同职能部门（转化研究、临床开发或医学事务）接洽、或大学主动通过 clinicaltrials.gov 联系人、研究和临床团队或医学事务部门——特别是借助医学科学联络官（Medical Science Liaison, MSL）——联系产业方(pp.204–205)。
+试验启动可以通过三种渠道发起：CRO 主动联系大学、产业方直接通过不同职能部门（转化研究、临床开发或医学事务）接洽、或大学主动通过 [[ClinicalTrials.gov|clinicaltrials.gov]] 联系人、研究和临床团队或医学事务部门——特别是借助医学科学联络官（Medical Science Liaison, MSL）——联系产业方(pp.204–205)。
 
 > [!note] 这为后续的摩擦分析埋下了伏笔
 > 如果产业方的决策核心是"可行性 + 投资回报 + 成功概率"，那么任何增加成本、延长周期或提高不确定性的制度因素，都会将学术机构置于竞争劣势。接下来的分析正是从这些因素展开。

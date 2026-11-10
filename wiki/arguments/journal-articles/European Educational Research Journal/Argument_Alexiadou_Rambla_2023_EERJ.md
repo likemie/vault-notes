@@ -30,6 +30,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Competitiveness]]"
   - "[[Academic Attrition]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Employability]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Peer Pressure]]"
@@ -68,14 +69,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-28
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Alexiadou_Rambla_2023_EERJ"
 argument_key: "Argument_Alexiadou_Rambla_2023_EERJ"
 argument_display_title: "Education policy governance and the power of ideas in constructing the new European Education Area"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -157,7 +158,7 @@ issuing_organization: ""
 > | 政策议题领域 | 里斯本战略目标（2000 年） | [[Education and Training 2020\|ET2020 基准指标]]（2009 年） | 欧洲教育区（EEA）目标指标（2021 年） |
 > |:---|:---|:---|:---|
 > | **早期离校** | 到 2010 年，仅具备初中以下学历且未参与后续教育培训的 18–24 岁青年比例减半。 | 到 2020 年，早期离开教育与培训的比例应低于 10%。 | 到 2030 年，早期离开教育与培训的比例应低于 9%。 |
-> | **基础素养** | 将所有联网的中小学校与培训中心建为面向全民的综合学习中心，采用适宜方法覆盖各类群体。 | 到 2020 年，15 岁学生在阅读、数学和科学领域的低成就比例应低于 15%。 | 到 2030 年，15 岁学生在阅读、数学和科学领域的低成就比例应低于 15%。 |
+> | **[[Foundational Literacy and Numeracy\|基础素养]]** | 将所有联网的中小学校与培训中心建为面向全民的综合学习中心，采用适宜方法覆盖各类群体。 | 到 2020 年，15 岁学生在阅读、数学和科学领域的低成就比例应低于 15%。 | 到 2030 年，15 岁学生在阅读、数学和科学领域的低成就比例应低于 15%。 |
 > | **高等教育完成率** | 欧盟框架应界定通过[[Lifelong Learning\|终身学习]]获得的新基本技能：信息技术技能、外语、科技文化、创业精神与社交技能。 | 到 2020 年，30–34 岁人口中具备高等教育学历的比例应至少达到 40%。 | 到 2030 年，25–34 岁人口中具备高等教育学历的比例应至少达到 45%。 |
 > | **数字化技能** | 鉴于通过教育培训提高[[Employability\|就业能力]]的重要性，邀请委员会在 2010 年底前向理事会提交该领域基准提案。 | 鉴于通过教育培训提高就业能力的重要性，邀请委员会在 2010 年底前向理事会提交该领域基准提案。 | 到 2030 年，八年级学生在计算机与信息素养方面的低成就比例应低于 15%。 |
 > | **职业教育与就业** | 2000 年底前确立促进学生、教师、培训者和研究人员流动的手段；制定通用欧洲格式简历以促进流动。 | 鉴于学习流动性已被广泛认可的附加值，邀请委员会在 2010 年底前向理事会提交该领域基准提案。 | 到 2025 年，职业教育与培训（Vocational Education and Training, VET）新近毕业生在学习期间受益于工作本位学习的比例至少达到 60%。 |

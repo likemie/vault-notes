@@ -7,10 +7,10 @@ summary: "英国爱丁堡大学比较与国际教育荣休教授，国际技术�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 28
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 34
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1940"
 died: ""
 lifespan: "1940–至今"
@@ -27,11 +27,13 @@ related_concepts:
   - "[[South-South Cooperation]]"
   - "[[Discourse]]"
   - "[[Document]]"
+  - "[[Study Abroad]]"
   - "[[Politics of Knowledge]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Geopolitics]]"
   - "[[People-to-People Connectivity]]"
+  - "[[Transnational Education]]"
 related_theories:
   - "[[Dependency Theory]]"
 related_methods:
@@ -45,20 +47,24 @@ related_facts:
   - "[[NORRAG]]"
   - "[[Forum on China-Africa Cooperation]]"
   - "[[Belt and Road Initiative]]"
+  - "[[OECD]]"
+  - "[[Development Assistance Committee]]"
+  - "[[Millennium Development Goals]]"
   - "[[Confucius Institute]]"
   - "[[Belt and Road Education Action Plan]]"
   - "[[World Bank]]"
   - "[[UNESCO]]"
   - "[[International Labour Organization]]"
-  - "[[Institute of South-South Cooperation and Development]]"
+  - "[[International Development Targets]]"
   - "[[Asia-Africa Growth Corridor]]"
+  - "[[Institute of South-South Cooperation and Development]]"
 related_arguments:
-  - "[[Argument_King_2007_CE]]"
   - "[[Argument_King_2020_ECNUROE]]"
+  - "[[Argument_King_2007_CE]]"
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-11-05
+updated: 2026-11-11
 ---
 
 ---
@@ -79,8 +85,8 @@ updated: 2026-11-05
 > - **1970年代** 执教于爱丁堡大学，聚焦非洲泛非主义教育史与非正规部门技能培训研究，奠定历史[[Document|文献]]与[[Fieldwork|田野调查]]相结合的研究取向。
 > - **1986–2005** 出任爱丁堡大学非洲研究中心主任，长期主持并编辑 NORRAG 成果简报，推动国际发展组织教育援助政策的跨国批判分析。
 > - **2000年代** 持续追踪[[Forum on China-Africa Cooperation|中非合作论坛]]历届部长级会议与峰会的人力资源开发政策演变，拓展比较教育对新兴[[South-South Cooperation|南南合作]]力[[Quantitative Research|量的研究]]。
-> - **2007** 在《比较教育》（*Comparative Education*）发表研究，系统考证 1990 至 2006 年间多边机构如何主导建构全球教育发展议程，揭示宗滴恩全纳愿景在经合组织 DAC 报告与千年发展目标转译中被系统性窄化为初等指标的官僚机制。[[Argument_King_2007_CE|(King, 2007, pp. 377–391)]]
-> - **2013** 出版专著《中国对非洲的援助与[[Soft Power|软实力]]：以教育与培训为例》（*China's Aid and Soft Power in Africa: The Case of Education and Training*），系统考察[[Confucius Institute|孔子学院]]、留学生奖学金及对非职业技术培训的政策逻辑与实地效应。
+> - **2007** 在《比较教育》（*Comparative Education*）发表研究，系统考证 1990 至 2006 年间多边机构如何主导建构全球教育发展议程，揭示宗滴恩全纳愿景在[[OECD|经合组织]] [[Development Assistance Committee|DAC]] 报告与[[Millennium Development Goals|千年发展目标]]转译中被系统性窄化为初等指标的官僚机制。[[Argument_King_2007_CE|(King, 2007, pp. 377–391)]]
+> - **2013** 出版专著《中国对非洲的援助与[[Soft Power|软实力]]：以教育与培训为例》（*China's Aid and Soft Power in Africa: The Case of Education and Training*），系统考察[[Confucius Institute|孔子学院]]、[[Study Abroad|留学]]生奖学金及对非职业技术培训的政策逻辑与实地效应。
 > - **2020** 在《华东师大教育评论（英文）》（*ECNU Review of Education*）发表研究，从政策[[Discourse Analysis|话语分析]]与执行机制视角，论证[[Belt and Road Education Action Plan|“一带一路”教育行动]]如何继承并跨大洲拓展了中非合作论坛的人力资源承诺。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 221–234)]]
 
 ---
@@ -105,7 +111,7 @@ updated: 2026-11-05
 ---
 
 > [!claim] 核心思想
-> 真正的跨国教育合作有赖于伙伴国在议程确立过程中的实质参与。[[South-South Cooperation|南南合作]]通过消除传统南北援助中固有的阶序性支配[[Discourse|话语]]，赋予了全球南方国家平等的制度协商身份，但在实际运行中仍高度依赖出资国的单向资源供给。跨国重大经济走廊建设必须深植于以[[People-to-People Connectivity|民心相通]]为核心的社会交往之中，通过产教协同与高层次治国理政经验互鉴建立起长效合作生态。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 222–223, 228–232)]]
+> 真正的[[Transnational Education|跨国教育]]合作有赖于伙伴国在议程确立过程中的实质参与。[[South-South Cooperation|南南合作]]通过消除传统南北援助中固有的阶序性支配[[Discourse|话语]]，赋予了全球南方国家平等的制度协商身份，但在实际运行中仍高度依赖出资国的单向资源供给。跨国重大经济走廊建设必须深植于以[[People-to-People Connectivity|民心相通]]为核心的社会交往之中，通过产教协同与高层次治国理政经验互鉴建立起长效合作生态。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 222–223, 228–232)]]
 
 > [!citation-card] 民心相通作为跨国经济合作的社会根基
 > 四年来，民心相通不断深化。国之交在于民相亲，民相亲在于心相通。在“丝路精神”指引下，各参与国共同推进教育与卫生丝绸之路建设，深化科技、教育、文化、卫生与人文交流合作。此类合作不仅筑牢了民意基础，更构成了推进“[[Belt and Road Initiative|一带一路]]”倡议坚实的社会根基。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 228–229)]]
@@ -120,7 +126,7 @@ updated: 2026-11-05
 > - **政策路径** 持续为[[UNESCO|联合国教科文组织]]（UNESCO）、[[International Labour Organization|国际劳工组织]]（ILO）等国际组织提供咨询，深刻启发了发展中国家职业技术教育与[[South-South Cooperation|南南合作]]政策的设计与评估。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_King_2007_CE|King (2007)]] — 系统考证多边机构在建构全球教育发展议程中的主导作用，揭示由宗滴恩到经合组织 DAC 国际开发目标及千年发展目标对基础教育的连续窄化历程。
+> - [[Argument_King_2007_CE|King (2007)]] — 系统考证多边机构在建构全球教育发展议程中的主导作用，揭示由宗滴恩到经合组织 DAC [[International Development Targets|国际开发目标]]及千年发展目标对基础教育的连续窄化历程。
 > - [[Argument_King_2020_ECNUROE|King (2020)]] — 系统比对[[Forum on China-Africa Cooperation|中非合作论坛]]与[[Belt and Road Education Action Plan|“一带一路”教育行动]]，提出由留学生单向流动向实体机构共建与产教深度协同升级的论断。
 
 ---

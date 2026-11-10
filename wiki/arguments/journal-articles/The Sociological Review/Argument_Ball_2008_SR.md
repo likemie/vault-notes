@@ -24,6 +24,7 @@ related_concepts:
   - "[[Scientific Credit]]"
   - "[[Educational Meliorism]]"
   - "[[Discourse]]"
+  - "[[Problematisation]]"
   - "[[Literature Review]]"
 related_theories:
   - "[[Governmentality]]"
@@ -38,14 +39,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-23
-updated: 2026-10-30
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Ball_2008_SR"
 argument_key: "Argument_Ball_2008_SR"
 argument_display_title: "Some sociologies of education: A history of problems and places, and segments and gazes"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -142,7 +143,7 @@ citation_aliases:
 >
 > ### 论证更偏学科史解释而非系统证据比较
 >
-> 文章通过代表性人物、文本和政策事件组织论证，适合提供问题化的历史解释；但它不是系统[[Literature Review\|文献综述]]，也没有用明确标准比较各时期研究的总体分布。因此，三段历史更像一条批判性解释线索，而不是穷尽性的学科地图。
+> 文章通过代表性人物、文本和政策事件组织论证，适合提供[[Problematisation|问题化]]的历史解释；但它不是系统[[Literature Review\|文献综述]]，也没有用明确标准比较各时期研究的总体分布。因此，三段历史更像一条批判性解释线索，而不是穷尽性的学科地图。
 
 ## 来源
 

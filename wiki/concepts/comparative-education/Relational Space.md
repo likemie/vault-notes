@@ -7,7 +7,7 @@ aliases:
 summary: "将空间理解为社会网络、制度安排与耐用材料构成的动态拓扑构型而非静态领土容器；在教育政策研究中用于解构全球与国家二元对立，透视政策网络中的策略性外在化以及耐用客体构建的异层支配秩序。"
 type: concept
 domain: "comparative-education"
-related_count: 46
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -20,10 +20,12 @@ tags:
 related_concepts:
   - "[[Ontology]]"
   - "[[Paradigm]]"
+  - "[[Transnational Education]]"
   - "[[Policy Network]]"
   - "[[Assemblage]]"
   - "[[Methodological Nationalism]]"
   - "[[Determinism]]"
+  - "[[Nationalism]]"
   - "[[Unit of Analysis]]"
   - "[[Operationalization]]"
   - "[[Space of Flows]]"
@@ -72,13 +74,13 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-07
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Relational Space
-> 关系性空间（Relational Space）是空间社会学与比较教育研究中的核心[[Ontology\|本体论]][[Paradigm\|范式]]，指将空间理解为由社会行动者、制度网络与权力实践相互交织而动态生成的网络拓扑构型，而非先验给定、边界固定的物理领土或静态地理容器（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]; Murdoch, 2006）。在跨国教育政策、批判[[Policy Network\|政策网络]]与社会-物质装配（[[Assemblage]]）视阈中，该范式不仅打破了传统“全球与地方”、“国家与国际”的二元对立，主张将全球与国家视为高度相互依存的关系性空间（interdependent spaces）而非物理隔离的孤立处所（distinct places）（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024, p. 540]]）；更进一步指出，关系性空间不仅是主观人际互动，而且依赖于税法豁免法条、公司法人注册与证据量规等“耐用客体”（durable materials）的持续装配，从而在传统国家科层管辖之外构筑起具有排他性与支配性的异层治理拓扑。[[Argument_Rowe_2022_IJER\|(Rowe, 2022, p. 8)]]; [[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520–522)]]
+> 关系性空间（Relational Space）是空间社会学与比较教育研究中的核心[[Ontology\|本体论]][[Paradigm\|范式]]，指将空间理解为由社会行动者、制度网络与权力实践相互交织而动态生成的网络拓扑构型，而非先验给定、边界固定的物理领土或静态地理容器（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]; Murdoch, 2006）。在[[Transnational Education|跨国教育]]政策、批判[[Policy Network\|政策网络]]与社会-物质装配（[[Assemblage]]）视阈中，该范式不仅打破了传统“全球与地方”、“国家与国际”的二元对立，主张将全球与国家视为高度相互依存的关系性空间（interdependent spaces）而非物理隔离的孤立处所（distinct places）（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024, p. 540]]）；更进一步指出，关系性空间不仅是主观人际互动，而且依赖于税法豁免法条、公司法人注册与证据量规等“耐用客体”（durable materials）的持续装配，从而在传统国家科层管辖之外构筑起具有排他性与支配性的异层治理拓扑。[[Argument_Rowe_2022_IJER\|(Rowe, 2022, p. 8)]]; [[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520–522)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 空间是由社会关系、制度联结与网络[[Assemblage\|组装]]（Assemblage）持续生产的效果，有别于容纳社会事件的客观容器。
@@ -94,7 +96,7 @@ updated: 2026-11-03
 
 > [!boundary]- 概念边界
 > - 不等于 领土性空间（Territorial Space） — 领土性空间以民族国家法定疆界为基准，将空间视作静态、均质且封闭的容器；关系性空间将空间视作流动网络组装与权力关系持续生产的效果。
-> - 不等于 [[Methodological Nationalism\|方法论民族主义]] — 方法论民族主义将国家预设为唯一合法的天然[[Unit of Analysis\|分析单位]]；关系性空间范式主张以跨尺度的网络关系和多维联结为分析枢纽。
+> - 不等于 [[Methodological Nationalism\|方法论民族主义]] — 方法论[[Nationalism|民族主义]]将国家预设为唯一合法的天然[[Unit of Analysis\|分析单位]]；关系性空间范式主张以跨尺度的网络关系和多维联结为分析枢纽。
 > - 不等于 [[Actor-Network Theory\|行动者网络理论]]（ANT） — 关系性空间是关于空间本体论的广泛理论范式；ANT 则是[[Operationalization\|操作化]]分析非人与人类行动者网络共构关系空间的具体方法论工具。
 
 ---

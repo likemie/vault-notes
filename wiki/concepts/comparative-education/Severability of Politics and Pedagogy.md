@@ -12,7 +12,7 @@ aliases:
 summary: "教育政策借用与跨文化影响理论中的经典认识论与政治哲学命题，由斯托、霍勒斯·曼与巴纳德在借用普鲁士教育经验时提出，主张人类心智认知机能具有跨文化普遍性，基础教学法的高效性在认识论上独立于专制政体意志，借用国能够剥离被动顺从的意识形态灌输，将教学模式本土化重塑为培育民主公民的工具。"
 type: concept
 domain: "comparative-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Epistemology]]"
+  - "[[Transnational Education]]"
   - "[[Value Neutrality]]"
   - "[[Structural Coupling]]"
   - "[[Hidden Curriculum]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -59,7 +60,7 @@ updated: 2026-11-03
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向跨国政策借用中，技术性教学组织形式与其原产国政治意识形态之间的可剥离性与可重组性。
-> - **用途** 为跨越政体鸿沟、意识形态对立与文化壁垒的跨国教育借鉴提供坚实的哲学与认识论辩护。
+> - **用途** 为跨越政体鸿沟、意识形态对立与文化壁垒的[[Transnational Education|跨国教育]]借鉴提供坚实的哲学与认识论辩护。
 > - **边界** 该命题聚焦于基础教学规程、师资培养技术与认知规律层面的可分性，并不主张教育系统能完全脱离政治社会结构实现绝对[[Value Neutrality|价值中立]]。
 
 > [!citation-card] 霍勒斯·曼论教学法与被动顺从专制思想的可分性

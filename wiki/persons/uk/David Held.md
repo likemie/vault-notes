@@ -8,7 +8,7 @@ summary: "英国著名政治学家、全球化理论与民主转型奠基学者�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Cosmopolitanism]]"
   - "[[Emergence]]"
   - "[[Paradigm]]"
+  - "[[Country Ownership]]"
   - "[[Time-Space Compression]]"
   - "[[Washington Consensus]]"
   - "[[Global Citizenship]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -85,7 +86,7 @@ updated: 2026-10-22
 > [!thought-timeline] 思想发展
 > - **1980 年代 — 国家[[Critical Theory|批判理论]]与民主模型** 从法兰克福学派与马克思主义国家观出发，考察资本主义[[Legitimation Crisis|合法化危机]]与自由主义民主的局限。
 >   - **代表著作** *Models of Democracy*（1987）；*Political Theory and the Modern State*（1989）。
->   - **关键概念／方法** 民主模型、国家自主性、合法化危机。
+>   - **关键概念／方法** 民主模型、[[Country Ownership|国家自主性]]、合法化危机。
 >   - **阶段转向** 厘清了自由主义、[[Pluralism|多元主义]]与马克思主义在国家职能上的核心分歧。
 > - **1990 年代 — 全球化转型与多维联结机制** 应对冷战终结与跨国资本激增，系统提出全球化作为超越[[Time-Space Compression|时空压缩]]的制度重构。
 >   - **代表著作** *Political Theory Today*（1991）；*Global Transformations: Politics, Economics and Culture*（1999）。

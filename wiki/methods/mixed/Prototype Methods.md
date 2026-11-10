@@ -8,7 +8,7 @@ summary: "基于认知心理学原型理论、通过语言词汇的自由联想�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 15
+method_related_count: 16
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Epistemology]]"
   - "[[Ideal Learner]]"
+  - "[[Cumulative Innovation]]"
   - "[[Study Population and Sample]]"
   - "[[Chain of Evidence]]"
   - "[[Reliability]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -124,7 +125,7 @@ Li 强调文化模型**影响和引导（但不决定）** 成员的思维和行
 > [!success] 适用场景
 > - **比较文化概念结构** 适合回答"X 概念在文化 A 和文化 B 中分别如何被理解和组织？"这类问题。不测量个体差异，而描绘文化层面的共享理解([[Argument_Li_2012_Cambridge\|Li, 2012, p.104]])
 > - **本土概念挖掘** 适合发现外部分类框架无法捕捉的本土概念和概念关系——Li 的研究发现[[Heart and Mind for Wanting to Learn\|好學心]]是中国学习[[Concept Mapping\|概念地图]]中最大的集群（46%），而没有任何西方理论框架曾预测过这一概念的存在和中心性([[Argument_Li_2012_Cambridge\|Li, 2012, pp.94-97]])
-> - **与后续研究方法[[Triangulation\|三角验证]]** 原型方法生成的概念地图可作为[[Cultural Models\|文化模型]]的初步假设，后续可通过访谈、观察、实验等方法进行验证和细化
+> - **与[[Cumulative Innovation|后续研究]]方法[[Triangulation\|三角验证]]** 原型方法生成的概念地图可作为[[Cultural Models\|文化模型]]的初步假设，后续可通过访谈、观察、实验等方法进行验证和细化
 > - **材料类型** 自然语言中的词汇和短语——需要该文化的本土语者参与所有阶段
 
 ---

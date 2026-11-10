@@ -9,7 +9,7 @@ title: "Argument_Slavin_2019_EducPsychol"
 argument_key: "Argument_Slavin_2019_EducPsychol"
 argument_display_title: "How evidence-based reform will transform research and practice in education"
 argument_kind: "journal-article"
-argument_related_count: 101
+argument_related_count: 102
 argument_related_level: 10
 argument_related_stars: "💎💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -135,10 +135,11 @@ related_facts:
   - "[[Tutor-Assisted Math Problem Solving]]"
 related_persons:
   - "[[Robert Slavin]]"
+  - "[[Ben Levin]]"
   - "[[Nancy Madden]]"
 status: draft
 created: 2026-05-01
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
@@ -214,7 +215,7 @@ updated: 2026-10-29
 
 > [!sub-claim] 1. 传统教育改革的意识形态钟摆与通用原则困境
 
-回顾教育改革史，斯莱文指出教育领域长期陷入意识形态与教学时尚的钟摆周期，缺乏类似现代医学与农业的科学累积机制。
+回顾教育改革史，斯[[Ben Levin|莱文]]指出教育领域长期陷入意识形态与教学时尚的钟摆周期，缺乏类似现代医学与农业的科学累积机制。
 
 > [!row-contrast] 跨行业实证累积机制演进对比
 > | 行业领域 | 关键制度转折与准入标准 | 核心因果验证机制 | 实践产出发展轨迹 |

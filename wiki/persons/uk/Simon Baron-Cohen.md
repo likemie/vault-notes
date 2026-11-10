@@ -8,7 +8,7 @@ summary: "英国发展心理病理学家与认知神经科学家，剑桥大学�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
   - theme/team-science
   - theme/autism-research
 related_concepts:
+  - "[[Research Tool]]"
   - "[[Team Science]]"
   - "[[Social Sensitivity]]"
   - "[[Collective Intelligence]]"
@@ -38,7 +39,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-31
+updated: 2026-11-11
 ---
 
 ---
@@ -46,7 +47,7 @@ updated: 2026-10-31
 > [!person-profile] 人物档案
 > - **身份位置** 英国发展心理病理学家与认知神经科学家；剑桥大学（University of Cambridge）发展心理病理学讲席教授，剑桥大学自闭症研究中心（Autism Research Centre）主任。
 > - **核心角色** [[Theory of Mind|心智理论]]（Theory of Mind）、自闭症谱系障碍认知神经科学与社会认知测量领域的国际领军学者。
-> - **代表贡献** 开发[[Reading the Mind in the Eyes Test|眼区读心测试]]（Reading the Mind in the Eyes Test, RMET），将测定心理理解能力的行为实验工具标准化，并在[[Team Science|团队科学]]中广泛应用于测量[[Social Sensitivity|社会敏感度]]对群体[[Collective Intelligence|集体智慧]]的预测效力。
+> - **代表贡献** 开发[[Reading the Mind in the Eyes Test|眼区读心测试]]（Reading the Mind in the Eyes Test, RMET），将测定心理理解能力的行为[[Research Tool|实验工具]]标准化，并在[[Team Science|团队科学]]中广泛应用于测量[[Social Sensitivity|社会敏感度]]对群体[[Collective Intelligence|集体智慧]]的预测效力。
 
 > [!citation-card] 眼区读心测试的开发与标准化
 > 西蒙·巴伦-科恩等学者开发了眼区读心测试（RMET），以36张仅展示眼部区域的黑白面部照片为刺激材料，要求受测者从4个复杂情绪词中选出唯一正确匹配项；测试在全球范围内被用作测量高级心智理论能力与[[Social Sensitivity|社会敏感度]]的标准化行为工具。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 117)]]

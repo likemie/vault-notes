@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-04
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -60,7 +60,7 @@ updated: 2026-11-03
 
 > [!concept-lens] 概念透镜
 > - **含义** 知识问题把对某一事实或事件的讨论提升为对[[Knowledge Production\|知识生产]]、正当化与边界的探究。
-> - **用途** 它为跨学科比较提供共同问题，使学生能够考察不同领域中的证据、解释、方法、视角和确定性。同时它也为学生将个人经验（如[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Activity, Service，[[Chinese Academy of Sciences|CAS]]）中的社区服务）提炼为学术探究（如[[Extended Essay\|拓展文章]]（Extended Essay，EE））提供了[[Epistemology\|认识论]]桥梁。
+> - **用途** 它为跨学科比较提供共同问题，使学生能够考察不同领域中的证据、解释、方法、视角和确定性。同时它也为学生将个人经验（如[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Activity, Service，[[Chinese Academy of Sciences|CAS]]）中的社区服务）提炼为学术探究（如拓展文章（[[Extended Essay]]，EE））提供了[[Epistemology\|认识论]]桥梁。
 > - **课程位置** 在 2013 年指南中，知识问题被置于课程大纲、评估目标、规定题目文章和展示任务的中心。
 > - **边界** 一般性需要保留具体分析支点。知识问题仍需通过知识主张、真实实例和领域材料得到发展。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 36, 38–40)]]
 

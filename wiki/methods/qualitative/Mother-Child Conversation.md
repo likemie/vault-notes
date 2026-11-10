@@ -8,7 +8,7 @@ summary: "一种通过采集模拟母子对话样本来研究文化学习信念�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 25
+method_related_count: 27
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Cognitive Source]]"
   - "[[Benevolence]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Grit]]"
   - "[[Research Question]]"
   - "[[Socratic Tutoring Style]]"
   - "[[Confucian Tutoring Style]]"
@@ -47,6 +48,7 @@ related_theories:
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Discourse Analysis]]"
+  - "[[Natural Experiment]]"
 related_persons:
   - "[[Socrates]]"
 related_arguments:
@@ -55,7 +57,7 @@ related_facts: []
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -162,7 +164,7 @@ Li 团队先将对话按"事件"（event）编码——一个事件就是一个�
 > - **欧裔美国** 母亲仍以"心智活动"和"积极情感"为主——即使在讨论差学习时，她们试图把对话引向积极方向
 > - **台湾** 母亲以"学习美德"为绝对主导，其次是"心智活动"和"消极情感"，"积极情感"排在最后——她们重点引导儿童认识**品德缺失**与**学习失败**之间的[[Causality\|因果关系]]
 
-> [!tip] 差学习讨论差异放大——一个自然实验
+> [!tip] 差学习讨论差异放大——一个[[Natural Experiment|自然实验]]
 > 差学习讨论中差异放大不是偶然的。差学习是一个**需要解释的负面事件**——面对同一个"孩子没学好"的情境，两种文化给出了两个不同的因果解释框架：
 > - EA："你可能只是还没理解——让我们想清楚哪里出了问题"（心智框架）
 > - TW："你是不是懒惰了？你要更努力"（美德框架）
@@ -265,7 +267,7 @@ Li 的话语分析还识别出第二种认知差异：**母亲如何向儿童解
 > [!abstract] TW 过程情感：困难中坚持（pain but perseverance）
 > TW 母亲聚焦于**学习固有的困难（苦）以及如何面对困难**。她们不回避"辛苦"——而是将其重新框定为学习的常态甚至乐趣（"辛苦中有快乐啊！"）。当儿童将"喜欢学习"归因于"考好了"（结果→情感），母亲会将其**重新讲述**为"你坚持了→所以考好了→所以喜欢了"——把"坚持"插入因果链最前端([[Argument_Li_2012_Cambridge\|Li, 2012]])。详细对话见 MCC 示例 19–20。
 
-**第 3 层：不同的成就情感 — [[Pride in Learning|骄傲]] vs 面向未来的毅力**
+**第 3 层：不同的成就情感 — [[Pride in Learning|骄傲]] vs 面向未来的[[Grit|毅力]]**
 
 > [!abstract] EA 成就情感：骄傲（pride）
 > EA 母亲将**骄傲**定位为对学习成就的标准情感反应。母亲不仅自己表达骄傲，还明确追问"你为自己感到骄傲吗？"——要求儿童**也为自己感到骄傲**。父母的骄傲确认成就的社会价值，自我的骄傲确认成就的个人意义([[Argument_Li_2012_Cambridge\|Li, 2012]])。详细对话见 MCC 示例 21。

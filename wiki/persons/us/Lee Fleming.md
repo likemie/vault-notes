@@ -7,7 +7,7 @@ summary: "加州大学伯克利分校教授、冯氏工程领导力研究所主�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -20,15 +20,19 @@ tags:
   - theme/innovation-studies
 related_concepts:
   - "[[Combinatorial Novelty]]"
+  - "[[Paradigm]]"
   - "[[Novelty Paradox]]"
-  - "[[Team Diversity]]"
   - "[[Nature of Innovation]]"
+  - "[[Creativity]]"
+  - "[[Patent Citation]]"
+  - "[[Operationalization]]"
 related_theories: []
 related_methods:
+  - "[[Analytic Framework]]"
   - "[[Combinatorial Novelty Measurement]]"
-  - "[[Bibliometric Analysis]]"
 related_instruments: []
 related_persons:
+  - "[[Joseph Schumpeter]]"
   - "[[Brian Uzzi]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
@@ -38,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-11
 ---
 
 ---
@@ -46,7 +50,7 @@ updated: 2026-10-31
 > [!person-profile] 人物档案
 > - **身份位置** 美国技术创新管理学家与计量科学家，加州大学伯克利分校（UC Berkeley）工业工程与运筹学系教授、冯氏工程领导力研究所（Coleman Fung Institute for Engineering Leadership）主任，曾任哈佛商学院（Harvard Business School）工商管理学教授。
 > - **核心角色** 组合创新理论与专利重组计量领域的开创者；首次将技术分类代码的重组搜索形式化，实证揭示了跨学科合作导致成果价值方差急剧扩大的统计分布规律。
-> - **代表贡献** 奠定 [[Combinatorial Novelty|组合新颖性]] 的技术重组理论根基，推动 [[Combinatorial Novelty Measurement|组合新颖性测度]] 范式建立，揭示 [[Novelty Paradox|新颖性悖论]] 背后的高方差试错机制。
+> - **代表贡献** 奠定 [[Combinatorial Novelty|组合新颖性]] 的技术重组理论根基，推动 组合新颖性测度 [[Paradigm|范式]]建立，揭示 [[Novelty Paradox|新颖性悖论]] 背后的高方差试错机制。
 
 > [!citation-card] 人物定位的关键来源
 > 随着团队成员专业背景的跨界异质程度增加，专利的平均价值略有下降，但产出结果的方差急剧扩大……单学科团队的专利价值分布相对集中，多数成果表现平平；跨学科团队的成果价值则在两端大幅拉宽：团队既有更高概率产出颠覆行业技术的全垒打式重大突破，也更有可能诞生毫无实用价值的失败专利。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 191–192)]]
@@ -65,13 +69,13 @@ updated: 2026-10-31
 ---
 
 > [!work-line] 主要著作
-> - **2001 — *Recombinant Uncertainty in Technological Search*** 奠定技术重组与组合搜索的理论分析框架，阐明构件融合度对发明不确定性的影响。
+> - **2001 — *Recombinant Uncertainty in Technological Search*** 奠定技术重组与组合搜索的[[Analytic Framework|理论分析框架]]，阐明构件融合度对发明不确定性的影响。
 > - **2007 — *Breakthroughs and Blunders of Collaborative Invention*** 基于 1.7 万项专利样本揭示跨学科合作导致平均价值平缓但方差剧烈拉宽的实证图景。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Fleming, 2007; Wang & Barabási, 2021, pp. 191–192)]]
 
 ---
 
 > [!claim] 核心思想
-> 技术发明与科学创新的本质是对存量知识构件的非典型重组搜索；跨学科异质团队合作虽然并不必然抬升产出的平均质量中枢，但能系统性重塑成果的统计概率分布，通过剧烈拉宽结果离散方差，为催生改变技术范式的突破性成果提供核心动力。
+> 技术发明与科学[[Nature of Innovation|创新的本质]]是对存量知识构件的非典型重组搜索；跨学科异质团队合作虽然并不必然抬升产出的平均质量中枢，但能系统性重塑成果的统计概率分布，通过剧烈拉宽结果离散方差，为催生改变技术范式的突破性成果提供核心动力。
 
 > [!citation-card] 跨学科合作与突破方差的统计法则
 > 跨学科合作既更有可能带来革命性的颠覆突破，也更有可能彻底走向技术失败；这一规律揭示了追求高新颖性所必须承担的本质性方差代价。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Fleming, 2007; Wang & Barabási, 2021, pp. 191–192)]]
@@ -81,8 +85,8 @@ updated: 2026-10-31
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 确立了技术代码重组理论，将熊彼特的“创造性重组”概念量化为可在海量专利引文网络中操作化的微观分析框架。
-> - **方法路径** 开创基于专利类别（Class/Subclass）配对频次构建随机零模型的方法，直接启发了乌兹（Brian Uzzi）等学者后续基于期刊共引对测度科学新颖性的标准范式。
+> - **理论路径** 确立了技术代码重组理论，将[[Joseph Schumpeter|熊彼特]]的“[[Creativity|创造性]]重组”概念量化为可在海量[[Patent Citation|专利引文]]网络中[[Operationalization|操作化]]的微观分析框架。
+> - **方法路径** 开创基于专利类别（Class/Subclass）配对频次构建随机零模型的方法，直接启发了乌兹（[[Brian Uzzi]]）等学者后续基于期刊共引对测度科学新颖性的标准范式。
 > - **政策路径** 促使科技管理机构反思对跨学科合作的考核方式，认识到不能仅凭平均产出评估交叉团队，应建立包容试错失败、追求肥尾重大突破的容错机制。
 
 > [!evidence-grid-a] 相关研究索引

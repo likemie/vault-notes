@@ -9,7 +9,7 @@ summary: "阿根廷著名马克思主义政治学家与社会学家，拉丁美�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ tags:
   - region/argentina
 related_concepts:
   - "[[Geopolitics]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Paradigm]]"
   - "[[Praxis]]"
   - "[[Scientism]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -73,7 +74,7 @@ updated: 2026-10-30
 > [!timeline] 生平与职涯
 > - **1943** 出生于阿根廷布宜诺斯艾利斯。
 > - **1965–1968** 在智利天主教大学获得社会学硕士学位，期间在拉美社会科学研究院（FLACSO）师从多位左翼学者。
-> - **1976** 在美国哈佛大学获得政治学博士学位，博士论文探讨智利政治体制动员与阶级冲突。
+> - **1976** 在美国哈佛大学获得政治学博士学位，[[Doctoral Dissertation|博士论文]]探讨智利政治体制动员与阶级冲突。
 > - **1976–1983** 阿根廷军政府独裁统治期间流亡墨西哥，任教于墨西哥国立自治大学（UNAM）并参与拉美左翼智库网络建设。
 > - **1984** 重返阿根廷，出任布宜诺斯艾利斯大学欧洲-拉美关系研究中心主任。
 > - **1997–2006** 连续三届当选拉丁美洲社会科学理事会（CLACSO）执行秘书长，推动 CLACSO 发展为全球南方规模最大的批判社会科学学术网络。

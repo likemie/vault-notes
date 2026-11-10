@@ -11,7 +11,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -32,6 +32,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Random Assignment]]"
+  - "[[Natural Experiment]]"
   - "[[Questionnaire]]"
   - "[[Experimental Research]]"
 related_instruments: []
@@ -44,13 +45,13 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定性
-> 达特茅斯学院室友[[Random Assignment|随机分配]]研究是教育经济学与社会学研究同伴效应（Peer Effects）的奠基性自然实验，它以严密的制度性随机化消除了内生性选择偏误，为个体学业与行为受朝夕相处同侪显著塑造提供了无可置疑的因果证据。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 95)]]
+> 达特茅斯学院室友[[Random Assignment|随机分配]]研究是教育经济学与社会学研究同伴效应（Peer Effects）的奠基性[[Natural Experiment|自然实验]]，它以严密的制度性随机化消除了内生性选择偏误，为个体学业与行为受朝夕相处同侪显著塑造提供了无可置疑的因果证据。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 95)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1997 至 2000 年代初追踪队列，实施于美国新罕布什尔州汉诺威的常春藤盟校达特茅斯学院（Dartmouth College）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 95)]]

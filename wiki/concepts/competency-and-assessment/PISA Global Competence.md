@@ -24,6 +24,7 @@ tags:
   - theme/global-citizenship
   - theme/intercultural-education
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Global Citizenship]]"
   - "[[Language Skills]]"
   - "[[Construct]]"
@@ -39,7 +40,6 @@ related_concepts:
   - "[[PISA Creative Thinking]]"
   - "[[Cross-cultural Validity]]"
   - "[[Space of Equivalence]]"
-  - "[[Document]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
@@ -57,14 +57,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!concept-lens] 概念透镜
 > - **含义** 评估个体在相互依存的全球化世界中分析全球议题、理解多元文化视角、进行有效跨文化互动并采取负责任行动的多维综合能力框架。
-> - **用途** 用于指导大规模跨国教育评价从工具性学科技能向[[Global Citizenship|全球公民]]素养拓展，指导中小学跨学科课程研发与国际理解教育实践。
+> - **用途** 用于指导大规模[[Transnational Education|跨国教育]]评价从工具性学科技能向[[Global Citizenship|全球公民]]素养拓展，指导中小学跨学科课程研发与国际理解教育实践。
 > - **边界** 属于教育评价中的综合素养框架，不直接等同于单一[[Language Skills|语言能力]]或单纯的道德道德说教。
 
 > [!def] PISA Global Competence

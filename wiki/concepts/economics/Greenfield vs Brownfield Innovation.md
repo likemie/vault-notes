@@ -9,7 +9,7 @@ aliases:
 summary: "科技政策与演化经济学中用于区分技术进入环境特征的核心分析概念对；绿地创新指技术进入缺乏庞大存量资产与固定制度网络的全新空白领域（如二战后半导体与互联网），能依托军用性能溢价快速迭代；棕地创新指技术必须嵌入深嵌于强监管、长资产周期与规避风险的存量基础设施网络（如电力与能源大宗商品），无法索取自然性能溢价，高度依赖外部规制与系统级试验"
 type: concept
 domain: "economics"
-related_count: 17
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
   - theme/climate-change
 related_concepts:
   - "[[Pull Mechanisms for Innovation]]"
+  - "[[Homophily]]"
   - "[[Valley of Death]]"
   - "[[Paradigm]]"
   - "[[Big Science]]"
@@ -41,12 +42,13 @@ related_facts:
   - "[[Department of Defense]]"
   - "[[Department of Energy]]"
   - "[[DARPA]]"
+  - "[[National Bureau of Economic Research]]"
 related_arguments:
   - "[[Argument_Mowery_2011_NBER]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -83,7 +85,7 @@ updated: 2026-11-03
 ---
 
 > [!feature] 棕地创新的三大核心制约要素
-> - **大宗商品的同质性约束（Commodity Homogeneity）** 绿色低碳电力在终端物理性能上与火电毫无二致；若无人为碳定价或强制配额，消费者与企业不会仅因其绿色属性而支付商业溢价。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 184–185)]]
+> - **大宗商品的[[Homophily|同质性]]约束（Commodity Homogeneity）** 绿色低碳电力在终端物理性能上与火电毫无二致；若无人为碳定价或强制配额，消费者与企业不会仅因其绿色属性而支付商业溢价。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 184–185)]]
 > - **存量资本沉没与互联刚性（Legacy Capital & Interconnection Rigidity）** 电网与公共事业基础设施的折旧周期长达 30–50 年，且电网要求 99.999% 的绝对供电稳定性，对未经数十万小时运行验证的新型间歇性能源具有极高的排斥壁垒。
 > - **外生规制依赖性（Exogenous Regulatory Dependency）** 棕地技术的发展轨道不取决于市场自然演化，而深度绑定于国家环境规制标准、公用事业费率核定及跨部门行政审批体系。
 
@@ -132,7 +134,7 @@ updated: 2026-11-03
 
 > [!dev-timeline] 概念演变历程
 > - **1980s–1990s — 产业经济学中的早期隐喻** 工业地理学与[[Evolutionary Economics|演化经济学]]学者借用建筑与制造业概念，区分全新设立的“绿地工厂”（Greenfield Plant）与依托老旧厂房改造的“棕地企业”（Brownfield Firm）。
-> - **2011 — Mowery 将其引入[[Big Science|大科学]]与能源科技政策比较** [[David C. Mowery|大卫·莫厄里]]在 NBER 专著《加速能源创新》中系统建构了绿地创新与棕地创新的[[Analytic Framework|理论分析框架]]，奠定了冷战信息技术政策与当代气候政策比较的学理分界。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 184–186)]]
+> - **2011 — Mowery 将其引入[[Big Science|大科学]]与能源科技政策比较** [[David C. Mowery|大卫·莫厄里]]在 [[National Bureau of Economic Research|NBER]] 专著《加速能源创新》中系统建构了绿地创新与棕地创新的[[Analytic Framework|理论分析框架]]，奠定了冷战信息技术政策与当代气候政策比较的学理分界。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 184–186)]]
 > - **2018–至今 — 当代使命导向型政策（[[Mission-Oriented Innovation Policy|MOIP]]）的边界审思** [[Mariana Mazzucato]] 与 [[Rainer Kattel]] 等学者进一步将该概念融入三代使命政策演化框架，指出应对社会难题的第三代使命（如碳中和、医疗照护）普遍具有深刻的棕地与复杂社会系统嵌入属性。
 
 ---

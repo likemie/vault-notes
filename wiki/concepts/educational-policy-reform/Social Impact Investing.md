@@ -10,7 +10,7 @@ aliases:
 summary: "指将金融市场的风险投资与私募股权纪律同明确可测量的社会或教育改善目标相结合的投资范式。主要表现为以社会影响力债券为代表的金融衍生合同，以及以高参与度管理介入为特征的风险慈善。在追求财务保值增值的同时，要求以经审计的因果量规考核社会回报；但在教育实践中，不仅驱动了公共财政向私营资本的逆向输送，而且容易与本土弱势社区的文化自治产生剧烈治理冲突。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 17
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,8 +24,10 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Academic Achievement]]"
   - "[[Venture Philanthropy]]"
+  - "[[Soft Privatisation]]"
   - "[[Return on Investment]]"
   - "[[Public Value]]"
+  - "[[Quasi-market]]"
   - "[[Professional Judgment]]"
   - "[[Public-Private Partnership]]"
   - "[[Disciplina and Doctrina]]"
@@ -47,13 +49,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-20
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Social Impact Investing
-> **社会影响力投资（Social Impact Investing / Impact Investing）**，是指投资者将资本有意识地配置于能够产生明确可测量的积极社会与教育效益、同时获取一定财务本金回收或商业利润回报的投资[[Paradigm|范式]]（Nicholls et al., 2015）。它起源于华尔街与伦敦金融城对“双重底线”（Double Bottom Line，即兼顾商业回报与社会价值）的追求，将风险投资（Venture Capital）与私募股权的审慎尽职调查、高参与度管理介入及量规审计逻辑系统引入公共服务与社会政策领域。在教育政策实践中，影响力投资催生了两大典型运作模式：一是以**社会影响力债券（Social Impact Bonds, SIBs）** 与成果导向合同为核心的金融证券化模式，将学校[[Academic Achievement|学业表现]]或辍学率降幅直接与投资人分红挂钩；二是以**高参与度[[Venture Philanthropy|风险慈善]]（High-Engagement Venture Philanthropy）** 为核心的公益创投模式，通过严密里程碑考核与外部专业咨询强行重塑基层学校治理。批判学者指出，这一范式实质上构成了公共教育深层金融化与隐性私有化的关键手段。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 520, 524, 526)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 61–64, 76–80)]]
+> **社会影响力投资（Social Impact Investing / Impact Investing）**，是指投资者将资本有意识地配置于能够产生明确可测量的积极社会与教育效益、同时获取一定财务本金回收或商业利润回报的投资[[Paradigm|范式]]（Nicholls et al., 2015）。它起源于华尔街与伦敦金融城对“双重底线”（Double Bottom Line，即兼顾商业回报与社会价值）的追求，将风险投资（Venture Capital）与私募股权的审慎尽职调查、高参与度管理介入及量规审计逻辑系统引入公共服务与社会政策领域。在教育政策实践中，影响力投资催生了两大典型运作模式：一是以**社会影响力债券（Social Impact Bonds, SIBs）** 与成果导向合同为核心的金融证券化模式，将学校[[Academic Achievement|学业表现]]或辍学率降幅直接与投资人分红挂钩；二是以**高参与度[[Venture Philanthropy|风险慈善]]（High-Engagement Venture Philanthropy）** 为核心的公益创投模式，通过严密里程碑考核与外部专业咨询强行重塑基层学校治理。批判学者指出，这一范式实质上构成了公共教育深层金融化与[[Soft Privatisation|隐性私有化]]的关键手段。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 520, 524, 526)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 61–64, 76–80)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向运用金融衍生工具、契约安排与风险投资治理纪律，将公共教育改良指标转化为商业[[Return on Investment|投资回报]]现金流或严密审计资本的治理技术。
@@ -109,7 +111,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题一｜社会影响力投资驱动公共教育金融化并重塑国家为买单与兜底节点
-> **金融化转向与国家角色** 探讨影响力投资如何打破主权国家直接供给公共服务的传统边界，将教育治理转变为由私营资本承接、国家按绩效分期回购的金融化准市场。
+> **金融化转向与国家角色** 探讨影响力投资如何打破主权国家直接供给公共服务的传统边界，将教育治理转变为由私营资本承接、国家按绩效分期回购的金融化[[Quasi-market|准市场]]。
 
 > [!claim] Saltman, K. (2010); [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]]
 > **公共教育向金融衍生资产的转变论断** 影响力投资将基础教育系统定义为万亿美元级的未开发市场，通过引入私募股权纪律与社会影响力债券，把国家从直接办学者退化为被动的“成果买单者”（Outcome Payer）。在澳大利亚，[[Social Ventures Australia|澳大利亚社会创投]]（[[Social Ventures Australia|SVA]]）管理 1.5 亿澳元资产，并通过推动联邦设立社会影响力投资工作组，直接参与制定国家金融化政策，使国家财政成为保障私营中介套利与咨询分包的终极担保人。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 520, 524, 526)]]

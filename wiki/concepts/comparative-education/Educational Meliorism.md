@@ -7,7 +7,7 @@ aliases:
 summary: "源自拉丁语更好之意且以改善社会与人类境况为根本导向的探究旨趣，是贯穿19世纪比较与国际教育发端的统治性认识论母题"
 type: concept
 domain: "comparative-education"
-related_count: 74
+related_count: 76
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -36,8 +36,10 @@ related_concepts:
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Paradigm]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Transnational Education]]"
   - "[[Variable]]"
   - "[[Geisteswissenschaften]]"
+  - "[[Nationalism]]"
   - "[[Whiggism]]"
   - "[[Scientific Paradigm]]"
   - "[[Navigation Metaphor in Comparative Education]]"
@@ -100,7 +102,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ## 定义
@@ -209,7 +211,7 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题一｜教育改良主义统领 19 世纪跨国教育探究并确立现代比较认识论的核心问题域
+> [!concept-proposition] 命题一｜教育改良主义统领 19 世纪[[Transnational Education|跨国教育]]探究并确立现代比较认识论的核心问题域
 > **学科起源与认识论问题域维度** 该命题探讨教育改良主义为何构成 19 世纪所有比较先驱的精神底色，揭示其对学科认识论的本体奠基功能。
 
 > [!claim] [[Marc-Antoine Jullien\|Jullien, M.]]
@@ -252,7 +254,7 @@ updated: 2026-11-03
 > **通过理解外国教育精神进入本土传统** 萨德勒在吉尔福德演讲中指出，研究外国教育系统的实践价值，是使我们能够更好地研究、理解本国教育，并进入我们自身国家教育的精神与传统之中，促进关于国家教育最明智发展路线的广泛共识，有别于为了直接照搬外国具体做法。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 44–45)]]
 
 > [!claim] [[Isaac Kandel|Kandel, I. L.]]
-> **发展哲学态度以超越狭隘民族主义** 坎德尔论证指出，妥善开展的比较教育探究能处理基本原则并促成“哲学态度的获得”，使教育者更好地体悟本国教育体系的精神与传统；同时，通过对其他国家真实历史与文化传统的同情性理解，培育基于理智而非盲目激情的国际主义，抵御极权主义威胁。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 46–49)]]
+> **发展哲学态度以超越狭隘[[Nationalism|民族主义]]** 坎德尔论证指出，妥善开展的比较教育探究能处理基本原则并促成“哲学态度的获得”，使教育者更好地体悟本国教育体系的精神与传统；同时，通过对其他国家真实历史与文化传统的同情性理解，培育基于理智而非盲目激情的国际主义，抵御极权主义威胁。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 46–49)]]
 
 > [!claim] Kazamias, A. M.
 > **历史改良主义的内在张力与[[Whiggism|辉格史观]]风险** 卡扎米亚斯总结指出，萨德勒、坎德尔、汉斯与[[Robert Ulich|乌利希]]等学者属于“历史改良主义者（historical-meliorists）”。他们虽致力于探究决定教育形态的历史-文化力量（解释“实然”），但同时怀揣着强烈的规范改良抱负（诉求“应然”）。坎德尔坚信理解教育制度差异的原因将自然昭示“何者是合意的且应当付诸实践”。对此，卡扎米亚斯援引赫伯特·巴特菲尔德（Herbert Butterfield）对“辉格史观（Whig interpretation of history）”的经典批判指出：将历史研究过度从属于改良主义目的，极易导致以当下价值裁剪过去、将历史人物两极化为进步与反动阵营的编年史谬误。历史改良主义虽然成功抵御了表面化、去情境化的跨国政策照搬，但在历史阐释客观求真与道德改良愿景之间始终存在着深刻的认识论张力，必须保持清醒的警惕与审慎。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 40, 54–55)]]
@@ -356,7 +358,7 @@ updated: 2026-11-03
 > > [!axis] 历史客观语境阐释（实然） vs 规范性社会改良（应然）的认识论张力
 > > 围绕历史探究是否应当从属于现实的制度改良，学界形成了深刻的方法论分歧：
 > >
-> > - **[[Isaac Kandel]] (1933, 1955)** 坚信通过历史比较揭示教育背后的民族主义与政治哲学，不仅阐明教育“是什么”与“为什么”，更能够直接推导教育改革的理想价值与实践处方，将比较研究定位为涵养民主信仰与推动全人福祉的改良工具。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 46–49)]]
+> > - **[[Isaac Kandel]] (1933, 1955)** 坚信通过历史比较揭示教育背后的[[Nationalism|民族主义]]与政治哲学，不仅阐明教育“是什么”与“为什么”，更能够直接推导教育改革的理想价值与实践处方，将比较研究定位为涵养民主信仰与推动全人福祉的改良工具。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 46–49)]]
 > > - **[[Andreas Kazamias]] (1961, 2009)** 援引巴特菲尔德（Herbert Butterfield）对“[[Whiggism|辉格史观]]”的经典批判指出，将历史探究绑架为规范改良工具极易造成以今律古的编年史偏差；主张必须在历史客观情境阐释（实然）与规范性社会改良诉求（应然）之间建立清晰边界，防止主观道德诉求削弱历史学求真与批判的认识论力量。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 40, 54–55)]]
 >
 > > [!axis] 古典人本道德改良主义 vs 现代技术官僚效能改良主义（Technocratic Meliorism）

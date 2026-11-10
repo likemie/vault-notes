@@ -7,7 +7,7 @@ aliases:
 summary: "产学合作协议中定义的在合作期间、为履行工作范围而产生的知识产权，通常根据发明人归属原则确定所有权"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,13 +23,14 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[United States Patent and Trademark Office]]"
   - "[[MN-IP Create]]"
   - "[[Bayh-Dole Act of 1980]]"
 related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-03
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -63,7 +64,7 @@ updated: 2026-10-22
 3. **大学保留** 大学为自己和其他非营利研究机构保留免版税、全球范围、不可撤销的研究和教育用途许可
 
 > [!warning|notitle]
-> 授予任何专利权给"大实体"企业会使大学失去向美国专利商标局（United States Patent and Trademark Office, USPTO）支付"小实体"折扣费用的资格（p.282）。因此，大学通常要求产业方主动选择才能获得 NERF 许可——若企业不选择，大学可将同样 FIP 独家许可给其他公司，无需在第三方许可中附加"但书"排除条款。
+> 授予任何专利权给"大实体"企业会使大学失去向[[United States Patent and Trademark Office|美国专利商标局]]（United States Patent and Trademark Office, USPTO）支付"小实体"折扣费用的资格（p.282）。因此，大学通常要求产业方主动选择才能获得 NERF 许可——若企业不选择，大学可将同样 FIP 独家许可给其他公司，无需在第三方许可中附加"但书"排除条款。
 
 > [!example] 替代定价方案
 > 为缓解产业方对许可定价"被绑架"的担忧，一些大学发展出菜单式选项。明尼苏达大学的 [[MN-IP Create]] 项目提供三种 FIP 权利方案（p.283）：

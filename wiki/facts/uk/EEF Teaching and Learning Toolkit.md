@@ -10,7 +10,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 78
+fact_related_count: 79
 fact_related_level: 7
 fact_related_stars: "💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -76,6 +76,7 @@ related_instruments: []
 related_persons:
   - "[[John Hattie]]"
   - "[[Robert Marzano]]"
+  - "[[Ben Levin]]"
 related_facts:
   - "[[Economic and Social Research Council]]"
   - "[[Pupil Premium]]"
@@ -111,7 +112,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -264,7 +265,7 @@ updated: 2026-10-30
 > | [[Self-control]] | Concept | 核心能力；工具包[[Metacognition\|元认知]]与[[Social-Emotional Learning\|社会情感学习]]策略所依托的非学业[[21st Century Skills and Competencies Discourse\|核心素养]][[Construct\|构念]]。 |
 > | [[Evidence Standards]] | Concept | 方法学规范；规范 Toolkit 纳入实证文献、加权[[Meta-analysis\|元分析]]与证据安全挂锁评级的准则。 |
 > | [[Evidence-Based Education]] | Concept | 核心思潮；Toolkit 是当代循证教育运动最具辨识度的标志性政策产品。 |
-> | [[Evidence-Based Reform]] | Theory | 改革框架；体现了斯莱文改革框架中第三方独立证据清算与方案比较的核心条件。 |
+> | [[Evidence-Based Reform]] | Theory | 改革框架；体现了斯[[Ben Levin\|莱文]]改革框架中第三方独立证据清算与方案比较的核心条件。 |
 > | [[Research Utilization]] | Concept | 实践过程；Toolkit 致力于解决教育科研成果向中小学日常决策转化的瓶颈。 |
 > | [[Evidence Ecosystem]] | Concept | 生态理论；解释 Toolkit 在研究生产、中介转译与实践需求之间的枢纽功能。 |
 > | [[Local Knowledge in Evidence-Based Policy]] | Concept | 实践哲学；教师访谈反复证实，校本情境知识与[[Professional Judgment\|专业判断]]是解读工具包数据的前提。 |

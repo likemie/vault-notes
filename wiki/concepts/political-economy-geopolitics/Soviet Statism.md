@@ -5,7 +5,7 @@ aliases:
 summary: "一种围绕国家机器权力最大化而组织的社会系统，在苏联表现为党对国家和国家对社会的全面控制，通过中央计划经济和马克思列宁主义意识形态运作，其内在逻辑与信息化所要求的开放网络和水平协作存在结构性不相容"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Bureaucracy]]"
   - "[[State Vertical]]"
   - "[[Variable]]"
+  - "[[Nationalism]]"
 related_theories:
   - "[[Path Dependence]]"
   - "[[Informationalism]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -85,4 +86,4 @@ updated: 2026-10-30
 ---
 
 > [!tension] 单因解释的局限
-> 将苏联解体归因于国家主义与[[Informationalization\|信息化的]]不相容，可能低估了其他因素（如民族主义动员、帝国过度扩张、个人领导决策等）的相对重要性（[[Argument_Chan_2015_Intersect\|Chan, 2015, p.3]]）。国家主义框架提供了结构性解释，但宏观历史变迁通常涉及多种机制的复合作用。
+> 将苏联解体归因于国家主义与[[Informationalization\|信息化的]]不相容，可能低估了其他因素（如[[Nationalism|民族主义]]动员、帝国过度扩张、个人领导决策等）的相对重要性（[[Argument_Chan_2015_Intersect\|Chan, 2015, p.3]]）。国家主义框架提供了结构性解释，但宏观历史变迁通常涉及多种机制的复合作用。

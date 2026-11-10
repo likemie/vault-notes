@@ -7,7 +7,7 @@ aliases:
 summary: "Stokes (1997) 提出的研究分类概念，指既追求基础理解又受应用考虑驱动的科研模式，以巴斯德为典范，区别于纯基础研究（玻尔象限）和纯应用研究（爱迪生象限），是理解 1980年代后大学研究取向变迁的关键概念"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -48,6 +48,7 @@ related_persons:
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"
+  - "[[Dimensions]]"
   - "[[Research in Schools Evaluation]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Engineering Research Centers]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 > [!def] Use-Inspired Basic Research
@@ -75,7 +76,7 @@ updated: 2026-11-03
 > [!citation-card] 斯托克斯论基础理解与应用考虑的双重结合
 > 唐纳德·斯托克斯指出，科学研究的分类应当打破一维连续谱的陈旧观念；巴斯德的研究清晰地证明，对事物底层深层机理的探索，与对现实世界特定实用目标的关切，完全可以在同一个研究项目中达成完美的共生。
 >
-> *Stokes (1997) argued that scientific research should be classified along two dimensions: the quest for fundamental understanding and considerations of use, giving [[Research in Schools Evaluation|RISE]] to use-inspired basic research exemplified by Louis Pasteur.*
+> *Stokes (1997) argued that scientific research should be classified along two [[Dimensions|dimensions]]: the quest for fundamental understanding and considerations of use, giving [[Research in Schools Evaluation|RISE]] to use-inspired basic research exemplified by Louis Pasteur.*
 
 > [!boundary]- 概念边界
 > - **不等于纯基础研究（玻尔象限）** 纯基础研究仅由探索未知的好奇心驱动，完全不考虑任何短期或长期的实用目标（如玻尔对原子结构的研究）。

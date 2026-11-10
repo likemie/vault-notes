@@ -16,7 +16,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 43
+fact_related_count: 44
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dbeafe"
@@ -56,7 +56,8 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Hierarchical Linear Model]]"
   - "[[Pre-test and Post-test]]"
-related_persons: []
+related_persons:
+  - "[[Ben Levin]]"
 related_facts:
   - "[[United States Congress]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
@@ -82,7 +83,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-09-16
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -164,7 +165,7 @@ updated: 2026-10-26
 > - **结果指标** CSI/TSI 学校阅读与数学标准化测验学业增值（[[Effect Size\|效应量]] $ES$）、特定学习障碍转介率与[[Grade Retention\|留级]]率下降幅度。
 
 > [!finding-cards] 效果与评价
-> 1. **确立全球最高标准的法定证据绑定[[Paradigm\|范式]]** 斯莱文（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019]]）与戈拉德（[[Argument_Gorard_2020_ROE\|Gorard et al., 2020]]）均指出，ESSA 在全球首次以国家核心立法形式确立了公共财政拨款必须与因果实证等级硬性绑定的治理机制，打破了以往凭直觉与商业推销采购无效项目的积弊。
+> 1. **确立全球最高标准的法定证据绑定[[Paradigm\|范式]]** 斯[[Ben Levin|莱文]]（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019]]）与戈拉德（[[Argument_Gorard_2020_ROE\|Gorard et al., 2020]]）均指出，ESSA 在全球首次以国家核心立法形式确立了公共财政拨款必须与因果实证等级硬性绑定的治理机制，打破了以往凭直觉与商业推销采购无效项目的积弊。
 > 2. **激发大规模高质量因果实验供给** 促使联邦 [[Institute of Education Sciences\|IES]] 和第三方基金会资助数百项大型教育 [[Randomised Controlled Trials\|RCT]]，推动全美形成约 100 个达到强与中等[[Evidence Standards\|证据标准]]的 K-12 阅读与数学方案库，使学校在采购时拥有充足的可靠方案选择。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–25)]]
 > 3. **赋能处境不利学生学业保障** 确保联邦学校改进资金精准投向经实验证明切实有效的方案，为处境最不利的高危学生提供确定性的学业托底。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 29)]]
 > 4. **立法落地未促发地方资金分配的实质重构** 大型城市学区三年追踪审计证实，在 ESSA 证据要求正式生效前后，投向循证实践的资金比重仅发生 1 至 4 个百分点的微弱波动（56%–60%），法律规约未能有效破除学区既有师资人事编制与商业软件采购的锁定惯性。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 175–176)]]

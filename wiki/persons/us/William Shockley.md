@@ -10,7 +10,7 @@ summary: "美籍物理学家与发明家，1956 年诺贝尔物理学奖得主�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -40,13 +40,14 @@ related_facts:
   - "[[National Academy of Sciences]]"
   - "[[Bell Labs]]"
   - "[[CREATES Project]]"
+  - "[[American Physical Society]]"
   - "[[Fairchild Semiconductor]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -69,7 +70,7 @@ updated: 2026-10-30
 > - **1936** 在麻省理工学院（MIT）获得固态物理学博士学位，同年入职贝尔实验室从事半导体物理前沿探索。
 > - **1947** 在贝尔实验室与团队成员共同研制出世界上第一只点接触晶体管并构思结型晶体管，开启微电子革命。
 > - **1956** 凭借对半导体物理的杰出研究和晶体管效应的发明荣获诺贝尔物理学奖；同年在加州山景城创办肖克利半导体实验室，将半导体产业核心技术播种于硅谷。
-> - **1957** 在《美国物理学会公报》发表《科研实验室个体生产力变异的统计学》，开创性提出八重关卡概率相乘模型与产出的对数正态概率分布。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 11–14)]]
+> - **1957** 在《[[American Physical Society|美国物理学会]]公报》发表《科研实验室个体生产力变异的统计学》，开创性提出八重关卡概率相乘模型与产出的对数正态概率分布。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 11–14)]]
 > - **1963** 获聘斯坦福大学亚历山大·M·庞尼亚托夫工程与应用科学讲席教授，转向高教与跨学科探索。
 > - **1989** 逝世于加利福尼亚州斯坦福。
 

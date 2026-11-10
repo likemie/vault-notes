@@ -7,13 +7,13 @@ title: "Argument_Mausethagen_2025_ERR"
 argument_key: "Argument_Mausethagen_2025_ERR"
 argument_display_title: "A systematic critical review of research on ‘research use’ in education: Towards more profession-sensitive conceptualisations"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Educational Research Review"
 authors:
-  - "Mausethagen, S."
+  - "[[Sølvi Mausethagen|Mausethagen, S.]]"
   - "Hermansen, H."
   - "Afdal, H."
   - "Lorentzen, M."
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Document]]"
   - "[[Deficit Framing]]"
+  - "[[Cumulative Innovation]]"
   - "[[Teacher Knowledge Base]]"
   - "[[Professional Judgment]]"
   - "[[Problem Finding]]"
@@ -79,7 +80,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-26
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
@@ -87,7 +88,7 @@ updated: 2026-10-29
 > 虽然全球教育政策持续倡导学校与教师依托科研成果改进教学，但大量实证调查表明，中小学教师在日常教学中极少直接套用科研结论。过去 30 年学术界是如何理解与研究[[Research Utilization\|研究使用]]（research use）现象的？既有理论模型在理解教师职业特性与外部科研知识时存在何种盲点？这种分析[[Paradigm\|范式]]又带来了怎样的理论困境？
 
 > [!claim] 核心主张
-> 过去 30 年关于教育领域研究使用的学术[[Document|文献]]，在问题提出方式上长期受[[Deficit Framing\|赤字框架]]（Deficit Framing）主导，习惯将教师预设为缺乏科研素养与技能的被动受体；在调查方法上也多局限于针对教师个体的[[Questionnaire\|问卷]]与自陈访谈。这种思维范式导致了理论僵局：无论后续研究如何丰富调查维度、呼吁加强学校环境支持，实证调查均同质化得出教师日常研究使用不足的结论；而在政策建议中，又机械退回强化技能培训与弥补个体短板的方案，陷入自我循环论证。打破这一困境的出路在于超越将教师视为被动消费者的传统模型，迈向第[[Four Generations of Research Use\|四代研究使用模型]]，确立专业敏感型概念化：将科研成果视为[[Teacher Knowledge Base\|教师知识库]]中的多元资源之一，确立教师基于育人伦理与[[Professional Judgment\|专业判断]]主动筛选、调适与融会研究成果的主体地位。
+> 过去 30 年关于教育领域研究使用的学术[[Document|文献]]，在问题提出方式上长期受[[Deficit Framing\|赤字框架]]（Deficit Framing）主导，习惯将教师预设为缺乏科研素养与技能的被动受体；在调查方法上也多局限于针对教师个体的[[Questionnaire\|问卷]]与自陈访谈。这种思维范式导致了理论僵局：无论[[Cumulative Innovation|后续研究]]如何丰富调查维度、呼吁加强学校环境支持，实证调查均同质化得出教师日常研究使用不足的结论；而在政策建议中，又机械退回强化技能培训与弥补个体短板的方案，陷入自我循环论证。打破这一困境的出路在于超越将教师视为被动消费者的传统模型，迈向第[[Four Generations of Research Use\|四代研究使用模型]]，确立专业敏感型概念化：将科研成果视为[[Teacher Knowledge Base\|教师知识库]]中的多元资源之一，确立教师基于育人伦理与[[Professional Judgment\|专业判断]]主动筛选、调适与融会研究成果的主体地位。
 
 > [!concept-lens] 阅读透镜
 > - **考察对象** 1996–2024 年间发表在同行评议学术期刊上的 34 篇代表性文献，涵盖基础教育（K-12）学校引入外部科研成果的实证与理论研究。

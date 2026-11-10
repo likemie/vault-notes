@@ -13,7 +13,7 @@ title: "Argument_UIDP_2012_PartnershipContinuum"
 argument_key: "Argument_UIDP_2012_PartnershipContinuum"
 argument_display_title: "The partnership continuum: Understanding & developing the pathways for beneficial university-industry engagement"
 argument_kind: "report"
-argument_related_count: 20
+argument_related_count: 22
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dcfce7"
@@ -31,6 +31,8 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Employability]]"
   - "[[Cooperative Education]]"
+  - "[[Material Transfer Agreement]]"
+  - "[[Research Tool]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Clinical Trial]]"
   - "[[Grandes Ecoles]]"
@@ -55,7 +57,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-05
-updated: 2026-10-29
+updated: 2026-11-11
 year: 2012
 doi: ""
 citation_aliases:
@@ -184,7 +186,7 @@ citation_aliases:
 
 > [!sub-claim] 领域二：研究者互动 —— 从单次咨询到联合实验室
 
-研究者互动是产学合作的传统核心，但报告揭示了一个重要的认知偏差：合作不一定要从大额赞助研究合同开始。报告指出，Level 1 的低门槛互动——材料转移协议、教师咨询（大多数大学允许教师每年咨询 50 天）、客座演讲——"发生频繁，可能是因为这些互动的障碍非常低——在某些情况下不需要任何形式的合同或预算"(p.12)。正是这些几乎零成本的低层级互动，为双方提供了在低风险环境中试探合作可能性的机会，是大多数深度研究合作的"孵化器"。
+研究者互动是产学合作的传统核心，但报告揭示了一个重要的认知偏差：合作不一定要从大额赞助研究合同开始。报告指出，Level 1 的低门槛互动——[[Material Transfer Agreement|材料转移协议]]、教师咨询（大多数大学允许教师每年咨询 50 天）、客座演讲——"发生频繁，可能是因为这些互动的障碍非常低——在某些情况下不需要任何形式的合同或预算"(p.12)。正是这些几乎零成本的低层级互动，为双方提供了在低风险环境中试探合作可能性的机会，是大多数深度研究合作的"孵化器"。
 
 > [!abstract] 核心观察
 > 过度跳过 Level 1 直接追求 Level 3 往往导致谈判破裂——因为双方在缺乏信任基础的情况下被迫在合同条款中预判所有可能的风险。报告的层级框架表明：低层级互动虽然合作深度有限，但在建立初始关系和探索未来更深合作路径方面具有不可替代的价值(p.12)。
@@ -193,7 +195,7 @@ citation_aliases:
 > 
 > | 层级 | 活动 | 说明 |
 > |------|------|------|
-> | **Level 1: Transaction** | 材料转移协议（MTA） | 研究人员获取研究工具材料，通常免费且合同义务最低 |
+> | **Level 1: Transaction** | 材料转移协议（MTA） | 研究人员获取[[Research Tool\|研究工具]]材料，通常免费且合同义务最低 |
 > | | 教师咨询安排 | 产业研究者获得学术专家评审；大学通常允许教师每年咨询 50 天 |
 > | | 软件/硬件捐赠 | 为学术研究者提供硬件/软件或采购资助 |
 > | | 专利授权 | 公司将不再继续开发的专利领域权利授予学术研究者 |

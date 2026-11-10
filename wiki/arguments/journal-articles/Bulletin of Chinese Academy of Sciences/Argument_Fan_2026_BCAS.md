@@ -39,7 +39,9 @@ related_concepts:
   - "[[General Purpose Technology]]"
   - "[[Mission-Oriented Research]]"
   - "[[Curiosity-Driven Research]]"
+  - "[[Original Innovation Capability]]"
   - "[[Cognitive Authority]]"
+  - "[[Scientific Mobility]]"
   - "[[Gold Standard Science]]"
   - "[[Strategic Compliance]]"
 related_theories:
@@ -76,20 +78,21 @@ related_facts:
   - "[[A Strategy for American Innovation 2011]]"
   - "[[March for Science 2017]]"
   - "[[Genesis Mission]]"
+  - "[[Web of Science]]"
 related_arguments: []
 sources:
   - "[[sources/Fan_2026_BCAS|Fan_2026_BCAS]]"
 part_of:
 status: draft
 created: 2026-10-05
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Fan_2026_BCAS"
 argument_key: "Argument_Fan_2026_BCAS"
 argument_display_title: "科学还是无止境的边疆吗——从“科学的社会契约”看美国科学政策的过去与未来"
 argument_kind: "journal-article"
-argument_related_count: 52
+argument_related_count: 55
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -299,7 +302,7 @@ journal: "中国科学院院刊"
 > | **核心本位** | 科学知识为本位，追求底层机理理解与认知拓展 | 国家地缘利益与技术工程为本位，追求即时战略能力掌控 |
 > | **资助机制** | 政府提供信任型托底资助，容忍长周期与失败风险 | 总统指令定向拨款与企业采购，动用扣留拨款惩罚非优先领域 |
 > | **自治与评价** | 充分学术自治，立项与评估完全依托同行评议 | 强化行政程序审查与数据复现审计，专业权威从属于政治合规 |
-> | **组织依托** | 以研究型大学为主力军，维系开放科学网络 | 以私营科技巨头与国家实验室为主体，筑牢科研安全壁垒 |
+> | **组织依托** | 以研究型大学为主力军，维系开放[[Web of Science\|科学网]]络 | 以私营科技巨头与国家实验室为主体，筑牢科研安全壁垒 |
 > | **内在脆弱性** | 面临投入膨胀、问责滞后与转化周期长的外部合法性压力 | 切断基础探索活水与自我纠错机制，高度依赖行政高压与短期指标 |
 
 > [!chain-link] 技术型社会契约的确立逻辑及其内在脆弱性
@@ -323,7 +326,7 @@ journal: "中国科学院院刊"
 
 > [!sub-claim] 2. 全球科技治理重塑与中国基础研究的战略协同定力
 
-面对全球科技治理碎片化与阵营化风险，单纯模仿西方短期功利性做法将严重动摇原始创新根基。
+面对全球科技治理碎片化与阵营化风险，单纯模仿西方短期功利性做法将严重动摇[[Original Innovation Capability|原始创新]]根基。
 
 > [!pathways] 全球科技治理变局下中国基础研究战略应对路径
 > - **国际合作边界重塑与开放科学捍卫** 警惕科研安全壁垒与阵营化撕裂全球合作网络，积极构筑具有韧性的国际学术交流机制。
@@ -343,7 +346,7 @@ journal: "中国科学院院刊"
 > |:---|:---|:---|:---|:---|
 > | **合法性基础** | 国家安全独大；科学象征民主、自由与现代化，科学家代表国家理性 | 经济[[Competitiveness\|竞争力]]、社会相关性与公共问责；科学须自证应用转化潜力 | 宏大社会挑战导向；政党极化冲击信任，[[Research Security\|科研安全]]全面上升为国家议题 | 关键新兴技术领先、再工业化与安全供应链；行政可验证性取代[[Cognitive Authority\|认知权威]] |
 > | **制度与资源支持** | 建立多元分布式资助体系；研发经费黄金十年，基础研究获信任型托底 | 转向竞争性项目制与跨部门公私协同；设立 [[National Science and Technology Council\|NSTC]]、ATP 与纳米倡议 | 经费总额虽未大减但预期高度不稳定；资金向战略技术与产业法案倾斜 | 总统统筹与公私伙伴；向国家实验室与企业集中，动用资金扣留惩罚非优先领域 |
-> | **自治空间** | 高自治与高嵌入；[[President's Science Advisory Committee\|PSAC]] 参与最高决策，同行评议保障立项充分自主 | 自治附带透明度与合规前提；科学家维持学术评价主导权但需自证价值 | 国际合作、学者流动全面纳入安全合规审查；自治受政治与安全双重挤压 | 颁布《[[Restoring Gold Standard Science Executive Order\|恢复黄金标准的科学]]》行政令；行政深度介入议题选择，自治极度收缩 |
+> | **自治空间** | 高自治与高嵌入；[[President's Science Advisory Committee\|PSAC]] 参与最高决策，同行评议保障立项充分自主 | 自治附带透明度与合规前提；科学家维持学术评价主导权但需自证价值 | 国际合作、[[Scientific Mobility\|学者流动]]全面纳入安全合规审查；自治受政治与安全双重挤压 | 颁布《[[Restoring Gold Standard Science Executive Order\|恢复黄金标准的科学]]》行政令；行政深度介入议题选择，自治极度收缩 |
 > | **功能期待** | 储备应对未来不确定性的战略技术潜能；无短期即时回报压力 | 推动经济繁荣、创造就业与解决环境健康问题；确立[[Pasteur's Quadrant\|巴斯德象限]][[Paradigm\|范式]] | 承担解决国家重大战略挑战与社会公平责任；多重功能负载剧增 | 产出快速、可量化、可审计的实用技术成果；探索未知功能被系统性弱化 |
 > | **责任结构** | 国家提供资源制度保障，科学家恪守学术共同体规范；两相匹配 | 科学界承担经济效益陈述、公众沟通与伦理规范；转为被管理专业系统 | 责任延伸至合规审计、科研安全与风险治理；从被信任群体转向治理参与者 | 科学共同体单向服从国家竞争与行政指令；互惠契约退化为单向度战略要求 |
 

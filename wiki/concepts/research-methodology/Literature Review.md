@@ -7,7 +7,7 @@ aliases:
 summary: "教育研究与社会科学中对已有研究文献开展系统检索、批判性评估与综合归纳的论证性学术实践；不仅为明确研究问题与构建理论框架提供跳板，而且在不同研究范式中承担从量化变量假设推导到质性归纳比较的差异化认识论功能。"
 type: concept
 domain: "research-methodology"
-related_count: 40
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Construct]]"
   - "[[Definition of Terms]]"
+  - "[[Cumulative Innovation]]"
   - "[[Concept Mapping]]"
   - "[[Reading Strategies]]"
   - "[[Paradigm]]"
@@ -51,6 +52,7 @@ related_methods:
   - "[[Effect Size]]"
 related_persons: []
 related_facts:
+  - "[[Scopus]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
@@ -63,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-30
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -102,7 +104,7 @@ updated: 2026-11-03
 > [!feature|notitle]
 > - **避免重复劳动与确立原创性（Avoiding Reinventing the Wheel）** 确保拟议研究不盲目复制已有发现，精准定位自身在领域学术坐标系中的增量价值。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, Ch. 6, p. 112)]]
 > - **确立学术信誉与合法性（Establishing Credibility & Legitimacy）** 展示研究者对领域前沿学术争鸣与关键议题的系统掌控，为研究方案赢得同行互信与方法合法性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, pp. 126–127)]]
-> - **澄清核心概念与理论框架（Conceptual & Theoretical Framing）** 界定关键[[Construct|构念]]的[[Definition of Terms|操作性定义]]与变量因果逻辑，为后续研究搭建稳固的概念支撑网络。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 25–28)]]
+> - **澄清核心概念与理论框架（Conceptual & Theoretical Framing）** 界定关键[[Construct|构念]]的[[Definition of Terms|操作性定义]]与变量因果逻辑，为[[Cumulative Innovation|后续研究]]搭建稳固的概念支撑网络。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 25–28)]]
 > - **剖析知识盲区与提供研究跳板（Identifying Gaps & Providing Springboards）** 系统检视既有文献在理论解释、抽样代表性或分析工具上的局限，为提出新问题提供充足理据。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 1, p. 18)]]
 > - **批判综合正反论证（Critical Synthesis of Counter-Arguments）** 梳理对立学派的争鸣要点，并置呈现支持与反对的经验证据，保障文献评述的客观公正与思想深度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, p. 127)]]
 
@@ -179,7 +181,7 @@ updated: 2026-11-03
 > **方法学严密性与偏误防御机制维度** 考察文献综述由传统叙事性归纳向透明、可重复之[[Systematic Review|系统综述]]规程的演进机制与治理研究应用。
 
 > [!claim] [[Argument_Verger_2019_Discourse|Verger et al. (2019)]]; Petticrew and Roberts (2006)
-> **透明规范筛选规程对选择偏倚的有效防御** 传统叙事性文献综述常因缺乏明确抽样原则而面临主观挑选与选择性偏倚的批评。引入系统文献综述（SLR）规程——包括设定预先注册的检索语法、覆盖 Scopus 等核心跨国索引数据库、执行严格的入选与排除标准、开展双人背靠背独立初筛与全篇复核，并依托国别提取表进行系统编码——能够有效消除研究者的主观认知偏好，赋予跨国大规模文献综合以高度透明性、可再现性与经验信度。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 252, 269–270)]]
+> **透明规范筛选规程对选择偏倚的有效防御** 传统叙事性文献综述常因缺乏明确抽样原则而面临主观挑选与选择性偏倚的批评。引入系统文献综述（SLR）规程——包括设定预先注册的检索语法、覆盖 [[Scopus]] 等核心跨国索引数据库、执行严格的入选与排除标准、开展双人背靠背独立初筛与全篇复核，并依托国别提取表进行系统编码——能够有效消除研究者的主观认知偏好，赋予跨国大规模文献综合以高度透明性、可再现性与经验信度。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 252, 269–270)]]
 
 ---
 

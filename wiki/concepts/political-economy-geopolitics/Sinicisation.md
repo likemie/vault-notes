@@ -7,7 +7,7 @@ aliases:
 summary: "以汉文化传统为核心重新定义’中国性’的文化同化过程，通过语言替换、课程标准化和历史叙事重构将非汉群体纳入汉文化中心框架"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[Construct]]"
+  - "[[Nationalism]]"
   - "[[Zhonghua Minzu]]"
   - "[[Mutual Learning]]"
   - "[[Discourse]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -56,7 +57,7 @@ updated: 2026-10-30
 > - **宗教边缘化** 在无神论国家框架下，非汉群体的宗教信仰和实践在教育系统中被系统性地排除或贬抑。
 
 > [!note] 概念演变
-> 汉化并非当代独有现象。历史上，儒家"教化"边疆族群的传统——以文明化、同化文化"他者"为使命——支撑了中国帝国的扩张和对少数民族的控制（Vickers 2015; Yi 2008，引自 Yu & Zhao, 2024, p.63–64）。当代汉化区别于历史形式的关键特征在于其与现代国家建构、民族主义和社会主义意识形态的紧密交织。
+> 汉化并非当代独有现象。历史上，儒家"教化"边疆族群的传统——以文明化、同化文化"他者"为使命——支撑了中国帝国的扩张和对少数民族的控制（Vickers 2015; Yi 2008，引自 Yu & Zhao, 2024, p.63–64）。当代汉化区别于历史形式的关键特征在于其与现代国家建构、[[Nationalism|民族主义]]和社会主义意识形态的紧密交织。
 
 > [!note|notitle]
 > [[Pan Yue\|潘岳]]的"[[Wuhu Ruhua\|五胡入华]]"叙事

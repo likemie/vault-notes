@@ -9,10 +9,10 @@ summary: "法国著名统计学家、科学史家与量化社会学先驱，长�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 29
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 30
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1940"
 died: "2013"
 lifespan: "1940–2013"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Space of Equivalence]]"
   - "[[Paradigm]]"
   - "[[Commensuration]]"
+  - "[[Transnational Education]]"
   - "[[Reliability]]"
   - "[[Ontology]]"
   - "[[New Public Management]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -74,7 +75,7 @@ updated: 2026-10-30
 > - **代表贡献** 创立量化历史社会学分析[[Paradigm|范式]]，系统提出[[Space of Equivalence|等值空间]]（Space of Equivalence）与[[Commensuration|通约化]][[Analytic Framework|分析框架]]，揭示统计工具兼具“证明”（Prouver）与“治理”（Gouverner）的双重政治属性。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
 > [!citation-card] 人物定位的关键来源
-> [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]指出，跨国教育评估项目借助[[Alain Desrosières|阿兰·德罗西埃]]所界定的统计建构逻辑，构建出一个高度可通约的全球“等值空间”；在这一空间中，跨国比较的统计[[Reliability|信度]]被赋予了优先于本土效度与[[Ontology|本体论]]多样性的核心地位。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+> [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]指出，[[Transnational Education|跨国教育]]评估项目借助[[Alain Desrosières|阿兰·德罗西埃]]所界定的统计建构逻辑，构建出一个高度可通约的全球“等值空间”；在这一空间中，跨国比较的统计[[Reliability|信度]]被赋予了优先于本土效度与[[Ontology|本体论]]多样性的核心地位。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 >
 > *PISA thus creates a commensurable space of measurement or in Alain Desrosières’ (1998) terms, a global “space of equivalence.” In terms of statistical technologies, reliability and comparison take priority over validity and ontology – being conceptually acute about what is being measured.*
 

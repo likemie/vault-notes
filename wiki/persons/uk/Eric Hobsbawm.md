@@ -10,7 +10,7 @@ summary: "英国马克思主义史学家，现代主义民族理论奠基人之�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ tags:
   - theme/historiography
   - theme/marxism
 related_concepts:
+  - "[[Nationalism]]"
   - "[[Paradigm]]"
   - "[[Document]]"
   - "[[Modular Nationalism]]"
@@ -47,7 +48,7 @@ updated: 2026-11-11
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国马克思主义史学家，长期执教于伦敦大学伯贝克学院（Birkbeck, University of London），英国共产党历史学家小组成员，英国国家学术院院士（FBA）。
-> - **核心角色** 20世纪西方马克思主义史学领军学者，自下而上社会史与全球近现代史巨擘，开创现代民族主义与传统建构研究的现代主义[[Paradigm|范式]]。
+> - **核心角色** 20世纪西方马克思主义史学领军学者，自下而上社会史与全球近现代史巨擘，开创现代[[Nationalism|民族主义]]与传统建构研究的现代主义[[Paradigm|范式]]。
 > - **代表贡献** 提出被发明的传统理论，著有长19世纪史“年代四部曲”与《1780年以来的民族与民族主义》，为[[Imagined Community|想象的共同体]]理论提供了关键史学参照。
 
 > [!citation-card] 马克思主义政权的民族化趋势

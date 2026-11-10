@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch17"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch17"
 argument_display_title: "“The next thousand years”"
 argument_kind: "book-chapter"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Discourse]]"
   - "[[Grit]]"
+  - "[[Nationalism]]"
   - "[[Geopolitics]]"
   - "[[Generative Artificial Intelligence]]"
 related_theories:
@@ -86,7 +87,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
@@ -246,7 +247,7 @@ updated: 2026-10-30
 
 ### 五、 民族是建立在共同牺牲与当下共识之上的每日公民投票，必须依靠共享神话与公民宗教维系
 
-要克服现代虚无主义与社会疏离，需要重新从现代公民民族主义的奠基理论中汲取思想资源。
+要克服现代虚无主义与社会疏离，需要重新从现代公民[[Nationalism|民族主义]]的奠基理论中汲取思想资源。
 
 > [!theory-components] [[Ernest Renan|欧内斯特·勒南]]民族存在论的三大核心要素
 > - **过去维度的共同牺牲**

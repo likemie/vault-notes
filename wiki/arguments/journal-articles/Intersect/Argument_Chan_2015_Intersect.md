@@ -36,6 +36,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Flow]]"
   - "[[Bureaucracy]]"
+  - "[[Nationalism]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Interaction Effect]]"
 related_theories:
@@ -57,14 +58,14 @@ sources:
 part_of:
 status: draft
 created: 2026-06-12
-updated: 2026-10-30
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Chan_2015_Intersect"
 argument_key: "Argument_Chan_2015_Intersect"
 argument_display_title: "Fallen behind: Science, technology, and Soviet statism"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -334,7 +335,7 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 ---
 
 > [!warning] 自述局限
-> 该文坦承其解释侧重于国家主义的体制逻辑，可能低估了其他因素，如民族主义动员（Beissinger, 2002）、帝国过度扩张（Lundestad, 2000; Kennedy, 2002）和领导个人决策，在苏联解体中的相对重要性。论证主要依赖[[Primary and Secondary Documents|二手文献]]的已有[[Research Synthesis|研究综合]]，未提供新的原始档案或定量证据。五机制框架提供了一种结构性解释，但宏观历史变迁通常涉及多种机制的[[Interaction Effect\|交互作用]]，单因框架有其内在局限。
+> 该文坦承其解释侧重于国家主义的体制逻辑，可能低估了其他因素，如[[Nationalism|民族主义]]动员（Beissinger, 2002）、帝国过度扩张（Lundestad, 2000; Kennedy, 2002）和领导个人决策，在苏联解体中的相对重要性。论证主要依赖[[Primary and Secondary Documents|二手文献]]的已有[[Research Synthesis|研究综合]]，未提供新的原始档案或定量证据。五机制框架提供了一种结构性解释，但宏观历史变迁通常涉及多种机制的[[Interaction Effect\|交互作用]]，单因框架有其内在局限。
 
 ---
 ## 来源

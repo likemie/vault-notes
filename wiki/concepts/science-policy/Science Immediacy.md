@@ -8,10 +8,10 @@ aliases:
 summary: "由德里克·J·德索拉·普赖斯依据科学文献指数增长律提出的科学学奠基命题。该命题证明在文献约每 12 年翻番的几何级数扩张系统中，人类历史上生产的全部科学知识有一半产自最近 12 年，人类历史上存在过的科学家中有 80% 至 90% 生活在当代，深刻阐明了科学前沿永恒处于即时探索状态与同行高强度优先权竞争的动力学根源（Price, 1963; Wang & Barabási, 2021）。"
 type: concept
 domain: "science-policy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 23
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/science-of-science
   - theme/scientometrics
@@ -20,8 +20,10 @@ tags:
 related_concepts:
   - "[[Knowledge Production]]"
   - "[[Document]]"
+  - "[[Little Science]]"
   - "[[Big Science]]"
   - "[[Creativity]]"
+  - "[[Early-Career Researchers]]"
   - "[[Paradigm]]"
   - "[[Champ]]"
   - "[[Nature of Science]]"
@@ -29,6 +31,7 @@ related_concepts:
   - "[[Variable]]"
 related_theories:
   - "[[Technological Trajectories]]"
+  - "[[Price Cumulative Advantage Model]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
   - "[[Effect Size]]"
@@ -39,6 +42,7 @@ related_persons:
   - "[[Albert-László Barabási]]"
   - "[[Francis Bacon]]"
 related_facts:
+  - "[[Web of Science]]"
   - "[[The Royal Society]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
@@ -46,13 +50,13 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-31"
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Science Immediacy
-> 科学即时性（Science Immediacy，亦称科学即时性命题）是指科学[[Knowledge Production|知识生产]]建制所特有的一种宏观时间分布特征：在[[Document|文献]]与从业人员保持约 12 年翻一番的持续几何级数增长系统中，人类历史上所积累的全部科学知识总量中，恰有整整一半诞生于最近的一个翻倍周期（即最近 12 年之内）；在人类文明史上所有曾经从事过专业科学探索的人员总数中，高达 80% 至 90% 都集中生活在当代。该命题由[[Bibliometric Analysis|科学计量学]]奠基人[[Derek de Solla Price|德里克·J·德索拉·普赖斯]]（Derek J. de Solla Price, 1963）在《小科学，[[Big Science|大科学]]》（*Little Science, Big Science*）中首次提出，后由[[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]基于跨越百年的全量文献时间序列予以定量确证。科学即时性揭示了科学事业区别于其他人类[[Creativity|创造性]]领域的独特时空拓扑：科学绝大部分属于现代产物，青年科研人员能够与开创学科基础的大师同代竞技，同时这一结构直接加剧了科学界前沿文献消化负担与成果优先权竞争的紧迫度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 163–165)]]
+> 科学即时性（Science Immediacy，亦称科学即时性命题）是指科学[[Knowledge Production|知识生产]]建制所特有的一种宏观时间分布特征：在[[Document|文献]]与从业人员保持约 12 年翻一番的持续几何级数增长系统中，人类历史上所积累的全部科学知识总量中，恰有整整一半诞生于最近的一个翻倍周期（即最近 12 年之内）；在人类文明史上所有曾经从事过专业科学探索的人员总数中，高达 80% 至 90% 都集中生活在当代。该命题由[[Bibliometric Analysis|科学计量学]]奠基人[[Derek de Solla Price|德里克·J·德索拉·普赖斯]]（Derek J. de Solla Price, 1963）在《[[Little Science|小科学]]，[[Big Science|大科学]]》（*Little Science, Big Science*）中首次提出，后由[[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]基于跨越百年的全量文献时间序列予以定量确证。科学即时性揭示了科学事业区别于其他人类[[Creativity|创造性]]领域的独特时空拓扑：科学绝大部分属于现代产物，[[Early-Career Researchers|青年科研人员]]能够与开创学科基础的大师同代竞技，同时这一结构直接加剧了科学界前沿文献消化负担与成果优先权竞争的紧迫度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 163–165)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 标识几何级数指数增长在宏观时间尺度上所塑造的知识绝大部分属于现代产物的结构性时效特征。
@@ -126,7 +130,7 @@ updated: 2026-11-03
 
 > [!dev-timeline] 概念演变
 > - **1963 — 普赖斯正式提出科学即时性命题** 普赖斯在哥伦比亚大学出版《小科学，大科学》，首次基于文献翻番规律提出 80%–90% 科学家在世的经典论断。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Price, 1963, via Wang & Barabási, 2021, pp. 163–164)]]
-> - **1976 — 普赖斯累积优势模型数理补充** 普赖斯进一步将文献几何增长与优先连接动力学结合，阐明新成果进入引文网络时的初始优势积累机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Price, 1976, via Wang & Barabási, 2021, p. 176)]]
+> - **1976 — [[Price Cumulative Advantage Model|普赖斯累积优势模型]]数理补充** 普赖斯进一步将文献几何增长与优先连接动力学结合，阐明新成果进入引文网络时的初始优势积累机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Price, 1976, via Wang & Barabási, 2021, p. 176)]]
 > - **2021 — 科学学依托百年大数据再检验** 王大顺与巴拉巴西基于涵盖物理、生物、天文等学科逾一个世纪的全量数据库，确证各门类均维持约 12 年翻倍的指数特征，全面夯实了科学即时性的实证根基。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 161–165)]]
 
 ---
@@ -151,7 +155,7 @@ updated: 2026-11-03
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang and Barabási (2021)]] | Web of Science 与《物理评论》110 年全量物理学与自然科学出版物矩阵 | 跨越世纪的历史发文量对数线性拟合 | 全球发文总量与学科翻番周期（年） | 全球科技文献总量保持稳定指数扩张，平均每 12 年翻一番；人类历史上全部科学成果中恰好有 50% 诞生于最近 12 年 | 拟合优度跨越两次世界大战波动保持极高稳健性 | 证实科学文献几何翻倍增长具有跨学科的普遍适用性 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang and Barabási (2021)]] | [[Web of Science]] 与《物理评论》110 年全量物理学与自然科学出版物矩阵 | 跨越世纪的历史发文量对数线性拟合 | 全球发文总量与学科翻番周期（年） | 全球科技文献总量保持稳定指数扩张，平均每 12 年翻一番；人类历史上全部科学成果中恰好有 50% 诞生于最近 12 年 | 拟合优度跨越两次世界大战波动保持极高稳健性 | 证实科学文献几何翻倍增长具有跨学科的普遍适用性 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Price (1963)]] | 科学建制自 17 世纪创立以来至 20 世纪中叶的全球科技人力与[[The Royal Society\|皇家学会]]档案 | 历史人口学与文献增长联合积分推导 | 在世科学家占人类历史全部科学家之比 | 历史上曾经从事科学研究的学者中，有 80% 至 90% 集中生活在当代 | 跨不同科学家定义口径测算结果均落在该区间 | 确立了现代大科学时代科研人力存量的高度共时聚集特征 |
 
 ---

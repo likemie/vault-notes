@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_display_title: "Research Methods in Education · Ch12"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Virtual Documents]]"
   - "[[Research Question]]"
   - "[[Chain of Evidence]]"
+  - "[[Cumulative Innovation]]"
   - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Champ]]"
@@ -75,7 +76,7 @@ related_facts:
   - "[[Schulen im Team]]"
 status: draft
 created: 2026-06-24
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
@@ -225,7 +226,7 @@ updated: 2026-10-30
 > - **服务教学流程** 教学层面，为教师的教学安排和学生的学习进程提供结构化框架。
 
 > [!case] Foster（1999）的美国历史教科书研究
-> Stuart Foster 系统研究了美国历史教科书中对族群的呈现方式。他将其[[Analytic Framework\|分析框架]]建立在一个核心判断上：教科书参与了一场指向美国身份的斗争。Foster 发现，这些教科书，无论是内容选择、叙事方式还是插图配置，始终代表了白人、男性、新教中产或上层阶级的观点和利益，并倾向于支持资本主义体系、传统生活方式和西方传统。这一发现的方法论启示是：教科书研究不能停留在内容准确与否的表层判断，而必须进入**谁的视角被呈现、谁的视角被沉默**的权力维度。Clark（2009）的后续研究进一步指出，教科书同时受到商业压力的形塑，成为政治、经济和教学的三重人造物。这意味着研究者需要将教科书置于出版市场、政策环境与课堂实践的多重语境中加以解读。
+> Stuart Foster 系统研究了美国历史教科书中对族群的呈现方式。他将其[[Analytic Framework\|分析框架]]建立在一个核心判断上：教科书参与了一场指向美国身份的斗争。Foster 发现，这些教科书，无论是内容选择、叙事方式还是插图配置，始终代表了白人、男性、新教中产或上层阶级的观点和利益，并倾向于支持资本主义体系、传统生活方式和西方传统。这一发现的方法论启示是：教科书研究不能停留在内容准确与否的表层判断，而必须进入**谁的视角被呈现、谁的视角被沉默**的权力维度。Clark（2009）的[[Cumulative Innovation|后续研究]]进一步指出，教科书同时受到商业压力的形塑，成为政治、经济和教学的三重人造物。这意味着研究者需要将教科书置于出版市场、政策环境与课堂实践的多重语境中加以解读。
 
 #### 报告与议会记录
 

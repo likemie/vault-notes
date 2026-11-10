@@ -11,7 +11,7 @@ summary: "在不同时间点抽取不同独立样本以持续追踪相同因素�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 26
+method_related_count: 29
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Pre-test Sensitisation]]"
   - "[[Attrition]]"
+  - "[[Academic Achievement]]"
 related_methods:
   - "[[Cross-sectional Study]]"
   - "[[Longitudinal Study]]"
@@ -49,14 +50,16 @@ related_methods:
   - "[[Questionnaire]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
+  - "[[Argument_Sahlgren_2015_CPS]]"
   - "[[Argument_Zapp_2017_IJED]]"
 related_facts:
   - "[[National Assessment of Educational Progress]]"
+  - "[[Scopus]]"
   - "[[World Bank]]"
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-11-06
+updated: 2026-11-11
 ---
 
 ---
@@ -85,7 +88,7 @@ updated: 2026-11-06
 
 > [!method-stack] 方法层级
 > - **研究设计** 重复横截面设计（Repeated Cross-Sectional Design）、长时段文献计量追踪设计。
-> - **数据收集** 多期标准化测评数据库（如 [[National Assessment of Educational Progress|NAEP]]）、行政与财务统计年报、大型学术引文索引库（如 Scopus）。
+> - **数据收集** 多期标准化测评数据库（如 [[National Assessment of Educational Progress|NAEP]]）、行政与财务统计年报、大型学术引文索引库（如 [[Scopus]]）。
 > - **分析方法** 时间序列趋势线拟合、跨时期均值比较、自回归分析、[[Bibliometric Analysis|文献计量学]]与引文[[Network Analysis|网络分析]]。
 > - **辅助技术** 滚动样本设计（Rolling Sample）、指标标准化跨期对齐、[[Regression Discontinuity Design|断点回归]]与平滑技术。
 
@@ -141,5 +144,5 @@ updated: 2026-11-06
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011)]] — 系统界定趋势研究的定义、核心特征（规避预试敏感化、滚动样本设计）、优势局限以及与队列研究和面板研究的方法学对比。
-> - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 整合国际测验微观标准化数据库与数十万应征士兵智力数据，长周期追踪芬兰半个世纪以来学业成就的上升与滑坡趋势。
+> - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 整合国际测验微观标准化数据库与数十万应征士兵智力数据，长周期追踪芬兰半个世纪以来[[Academic Achievement|学业成就]]的上升与滑坡趋势。
 > - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 运用趋势计量分析检索 Scopus 跨学科引文数据库与[[World Bank|世行]]出版物库，长时段追踪世界银行 1977–2013 年间教育学术产出与引文影响力的演化轨迹（pp. 6–7）。

@@ -9,7 +9,7 @@ summary: "意大利复杂系统物理学家与计算科学学者，印第安纳�
 type: person
 nationality: italy
 person_region: "italy"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[My-Baby Bias]]"
   - "[[Document]]"
   - "[[Champ]]"
+  - "[[Eget Arbete]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Universality of Citation Distributions]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-11
 ---
 
 ---
@@ -83,7 +84,7 @@ updated: 2026-10-31
 > [!citation-card] 拉迪基论同行评价主观偏误与去中心化引文共识
 > 实验证实学者天然偏爱自己的研究成果，即便面对外部高被引传世经典亦是如此。这种主观自恋盲区说明，学术评价无法单凭学者个人的自我申诉完成；唯有依托全学术界成千上万同行分散而独立的自主引用，才能形成超越个人主观偏狭的客观集体共识。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 182–183)]]
 >
-> *Scientists show a marked bias when evaluating their own work against that of peers... necessitating decentralized citation metrics to reflect the collective wisdom of the scientific community.*
+> *Scientists show a marked bias when evaluating their [[Eget Arbete|own work]] against that of peers... necessitating decentralized citation metrics to reflect the collective wisdom of the scientific community.*
 
 ---
 

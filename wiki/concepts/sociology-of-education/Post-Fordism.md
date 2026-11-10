@@ -7,7 +7,7 @@ aliases:
 summary: "描述全球资本积累由流水线集中生产转向弹性灵活积累的生产组织范式，在教育系统体现为由标准化大众供给转向技能模块化、绩效问责、数字化全景监视与市场竞争性治理。"
 type: concept
 domain: "sociology-of-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -52,6 +52,7 @@ related_methods:
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
+  - "[[Tim Cain]]"
   - "[[Michael W. Apple]]"
   - "[[John Hattie]]"
   - "[[Liliana Esther Olmos]]"
@@ -62,13 +63,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Post-Fordism
-> **后福特制（Post-Fordism）** 是指 20 世纪晚期伴随资本主义全球化与信息技术革命而兴起的新型资本积累与生产组织[[Paradigm|范式]]，用以指称相对于经典福特制（Fordism）集中大工业、标准化流水线与凯恩斯福利国家模式的结构性断裂。在教育社会学与政治经济学视阈中，后福特制体现为生产网络从集中离散化转向跨国弹性布局，驱动教育体系由培养循规遵纪的均质产业工人和统一部署的公共学制，重构为追求灵活转岗、自我规训与终身流动能力的模块化劳动力供给体系，并伴随着国家退出直接兜底、全面引入数字化全景监视、市场竞争与绩效考评机制。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79, 82)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
+> **后福特制（Post-Fordism）** 是指 20 世纪晚期伴随资本主义全球化与信息技术革命而兴起的新型资本积累与生产组织[[Paradigm|范式]]，用以指称相对于经典福特制（Fordism）集中大工业、标准化流水线与[[Tim Cain|凯恩]]斯福利国家模式的结构性断裂。在教育社会学与政治经济学视阈中，后福特制体现为生产网络从集中离散化转向跨国弹性布局，驱动教育体系由培养循规遵纪的均质产业工人和统一部署的公共学制，重构为追求灵活转岗、自我规训与终身流动能力的模块化劳动力供给体系，并伴随着国家退出直接兜底、全面引入数字化全景监视、市场竞争与绩效考评机制。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79, 82)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向全球资本积累弹性化转型与国家公共教育供给模式重组之间的结构性对应关系。

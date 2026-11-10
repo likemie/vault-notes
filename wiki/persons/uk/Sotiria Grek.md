@@ -7,7 +7,7 @@ summary: "英国爱丁堡大学欧洲与全球教育治理讲席教授，英国�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 52
+person_related_count: 53
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Mediatisation of Education Policy]]"
   - "[[Global Educational Policy Field]]"
   - "[[Positivism]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Performance Indicators]]"
   - "[[Subsidiarity Principle]]"
   - "[[Heterogeneity]]"
@@ -84,7 +85,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -162,7 +163,7 @@ updated: 2026-11-10
 > > 格雷克的研究在国际比较教育学界引发了持续的范式争论。
 > >
 > > - **批判政策社会学阵营（格雷克及合作学者）** 警惕跨国指标将复杂的教育人文实践还原为单一可计算指标，批判其消除地方制度多样性、强化新自由主义[[Human Capital Theory|人力资本]]问责的非民主倾向。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 34–35)]]
-> > - **[[Positivism|实证主义]]与循证政策阵营** 认为跨国指标为国家改进学校质量提供了量化参照，批评政策社会学过度侧重政治规训，低估了跨国评估在诊断教育不平等与提升基础素养上的实证效能。
+> > - **[[Positivism|实证主义]]与循证政策阵营** 认为跨国指标为国家改进学校质量提供了量化参照，批评政策社会学过度侧重政治规训，低估了跨国评估在诊断教育不平等与提升[[Foundational Literacy and Numeracy|基础素养]]上的实证效能。
 
 > [!warning] 未解问题与边界
 > 认识论基础设施框架在解构宏观超国家网络与中介载体时具有高度解释力，但格雷克与拉塞尔亦指出，该框架聚焦于顶层专家网络与技术文档，基层高校院系与教师在日常教学实践中的微观应对策略仍有待结合深层组织[[Ethnography|民族志]]作进一步考察。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 234)]]

@@ -41,8 +41,8 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Heterogeneous Integration]]"
   - "[[Counterpart Funds]]"
+  - "[[Little Science]]"
   - "[[University-Based Research Center]]"
-  - "[[Document]]"
 related_persons:
   - "[[Fred Block]]"
   - "[[Erich Bloch]]"
@@ -71,7 +71,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -140,7 +140,7 @@ updated: 2026-11-03
 
 > [!debates] 核心争议与组织张力
 >
-> > [!axis] [[Big Science|大科学]]中心对小科学自由探索的资源挤占争议
+> > [!axis] [[Big Science|大科学]]中心对[[Little Science|小科学]]自由探索的资源挤占争议
 > > ERC 设立之初引发全美学术界强烈震荡：保守派纯基础科学学者担忧，将大量联邦经费以大额中心和合作协议形式集中，会严重抽干传统以院系为依托、面向个人科学家的自由探索 PI 资助池，甚至背离 [[National Science Foundation|NSF]] 守护纯理论探索的崇高使命。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–366)]]
 > >
 > > - **传统学术派** 主张保护个人 PI 的纯学术探索好奇心与去中心化竞争。

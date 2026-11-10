@@ -10,7 +10,7 @@ aliases:
 summary: "指个体与公众在面对自然现象、实证证据与公共决策时所秉持的理性探究倾向与价值取向，涵盖实证怀疑、拥抱不确定性、开放反思等认识论心智，并在历史教育改革（如1920年代民国新教育）与现代公众科学态度调查（如PAS 2025）中扮演核心话语功能。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Scientific Method]]"
   - "[[Scientific Uncertainty]]"
+  - "[[Algorithmic Bias]]"
   - "[[Reliability]]"
   - "[[Solutions Journalism]]"
   - "[[Learned Helplessness]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -101,7 +102,7 @@ updated: 2026-11-03
 > - **1. [[Epistemology\|认识论]]与探究心智维度（Epistemic Disposition & Inquiry Mindset）**
 >   - **实证证据优先** 坚守基于实证数据（Empirical Evidence）与严格检验推导结论，反对无证据的教条臆断。
 >   - **接纳[[Scientific Uncertainty\|科学不确定性]]（Embracing Uncertainty）** 深刻理解科学知识的暂定性（Provisional Nature），将假说修正与同行评议视为科学演进的内在动力。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society, 2026, p. 30]]）
->   - **知觉多样性与理性质疑** 保持开放包容心智，主动识别算法偏见与统计操纵，审慎评估复杂现实情境。
+>   - **知觉多样性与理性质疑** 保持开放包容心智，主动识别[[Algorithmic Bias|算法偏见]]与统计操纵，审慎评估复杂现实情境。
 > - **2. 教育改革与行动方法论维度（Methodological Reform in Education）**
 >   - **客观事实（Objective Facts）** 以社会实际调查为起点，拒绝对外国模式的盲目崇拜与生搬硬套。
 >   - **实验与渐进精神（Experimental & Incremental Spirit）** 采取一步一个脚印的试错改良，通过渐进试点推进教育重组。

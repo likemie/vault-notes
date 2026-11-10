@@ -8,10 +8,10 @@ summary: "英裔美籍教育社会学家与比较教育学家，芝加哥大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 29
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 30
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1927"
 died: "2008"
 lifespan: "1927–2008"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Technical Rationality]]"
   - "[[Operationalization]]"
+  - "[[Professional Interest]]"
   - "[[Working Hypothesis]]"
 related_theories:
   - "[[Structural Functionalism]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -201,6 +202,6 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 详细考证第三论述代际芝加哥学派（Anderson & Foster）的[[Structural Functionalism|结构功能主义]]分析模式，评述其寻找超越时空恒常规律的志趣，并揭示其作为战后国家计划与技术援助[[Social Science as Legitimation Alibi|合法化借口]]的政治功能（pp. 146–147, 150–151）。
+> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 详细考证第三论述代际芝加哥学派（Anderson & Foster）的[[Structural Functionalism|结构功能主义]]分析模式，评述其寻找超越时空恒常规律的[[Professional Interest|志趣]]，并揭示其作为战后国家计划与技术援助[[Social Science as Legitimation Alibi|合法化借口]]的政治功能（pp. 146–147, 150–151）。
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 梳理福斯特 1960 年论文对历史学派个殊性的猛烈批评，以及卡扎米亚斯对[[Crane Brinton|布林顿]]式[[Working Hypothesis|历史探索性假说]]的辩护。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 评析福斯特与安德森在[[Scientific Paradigm|科学范式]]中建立的社会系统恒常关系理论。

@@ -9,7 +9,7 @@ aliases:
 summary: "人才国际循环网络中的不均衡流动状态，表现为高水平科研人才持续流向发达国家，而流入引智则主要依赖学术水平较低的地区，且本土化替代难以弥补流失质量。"
 type: concept
 domain: "comparative-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Variable]]"
   - "[[Research Universities]]"
+  - "[[Scientific Mobility]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-30'
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -105,4 +106,4 @@ updated: 2026-11-03
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Dezhina_2022_ECO\|Dezhina and Egerev (2022)]] — 提出了俄罗斯在面临国际限制和卓越引智压力下所显现的非对称学术流动模式，并展示了[[Project 5-100]]中的考核注水现象。
+> - [[Argument_Dezhina_2022_ECO\|Dezhina and Egerev (2022)]] — 提出了俄罗斯在面临国际限制和卓越引智压力下所显现的非对称[[Scientific Mobility|学术流动]]模式，并展示了[[Project 5-100]]中的考核注水现象。

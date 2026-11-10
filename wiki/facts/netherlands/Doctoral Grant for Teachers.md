@@ -10,7 +10,7 @@ subtype: program
 region: netherlands
 fact_region: "netherlands"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Knowledge Production]]"
   - "[[Research Question]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Mentorship]]"
   - "[[Research Literacy]]"
   - "[[Ecological Validity]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -87,7 +88,7 @@ updated: 2026-11-02
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方（NWO）** 组织独立学术同行评审，设立跨学科评审委员会，按年度下达代课工时补偿拨款并实施中期学术评估。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 89–90)]]
-> - **合作培养高校与博士导师** 提供严谨的实证研究方法学训练、学术伦理把关、学术资源支持及学位论文指导，承担主要学术质量保障责任。
+> - **合作培养高校与博士导师** 提供严谨的实证研究方法学训练、学术伦理把关、学术资源支持及[[Doctoral Dissertation|学位论文]]指导，承担主要学术质量保障责任。
 > - **教师所在执教学校** 签订三方联合协议，依法落实 0.4 FTE 带薪科研工时减免，统筹使用专项资金安排代课师资，保障教师岗位保留与课题开展。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, p. 90)]]
 > - **入选教师（研究型实践者）** 维持每周 60% 教学实操与 40% 学术研究的动态平衡，将严谨学术证据直接反哺所在学校教研。
 

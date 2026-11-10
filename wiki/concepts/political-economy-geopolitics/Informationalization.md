@@ -8,7 +8,7 @@ aliases:
 summary: "以知识和信息为基础优化生产要素组合与使用的发展模式（Castells, 1996）。在宏观政治经济学中与依赖物质投入的工业化形成鲜明对照，要求信息自由流动与水平网络协同；在教育治理中表现为国家将数字基础设施、数据测评与教学服务向科技企业与商业中介外包，重塑公共教育的物质与权力基础。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[State Vertical]]"
   - "[[Public-Private Partnership]]"
   - "[[Educational Privatisation]]"
+  - "[[Quasi-market]]"
   - "[[One-on-one Laptops]]"
   - "[[Document]]"
   - "[[Emergence]]"
@@ -34,7 +35,7 @@ related_concepts:
   - "[[Space of Flows]]"
   - "[[Venture Philanthropy]]"
   - "[[Discourse]]"
-  - "[[Personalized Learning]]"
+  - "[[Transnational Education]]"
 related_theories:
   - "[[Informationalism]]"
   - "[[Network Society]]"
@@ -54,7 +55,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-12
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -124,7 +125,7 @@ updated: 2026-11-02
 > 探讨教育信息化如何从纯粹的教学法革新演变为跨国科技资本与咨询中介重塑公立教育生态的制度通道。
 
 > [!claim] O'Neill, J., Duffy, C., & Fernando, S.
-> **数字基建外包与家庭办学成本转嫁** [[John O'Neill|约翰·奥尼尔]]等学者在解构新西兰近十余年教育私有化进程时指出，教育信息化构成了新自由主义重构公立教育的隐蔽手段。以奥克兰马奈卡拉尼信托（[[Manaiakalani Education Trust]]）和 [[CORE Education]] 为代表的实践表明，政府以“提升原住民与弱势学生数字素养”为道德旗帜，将学校数字化转型整体打包为商业外包项目。一方面，跨国科技巨头（三星电子、电信商 Spark）和私营教育咨询公司借信息化通道直接进驻公立学校，开辟了设备采购、云端订阅与教师培训的盈利准市场；另一方面，项目推行的“[[One-on-one Laptops|一人一机]]”要求公立学校和弱势家庭自行承担硬件购置与网络运维成本，实质上以“技术赋能”之名行“公共教育资助责任外包与成本向下转嫁”之实。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 9, 27, 47)]]
+> **数字基建外包与家庭办学成本转嫁** [[John O'Neill|约翰·奥尼尔]]等学者在解构新西兰近十余年教育私有化进程时指出，教育信息化构成了新自由主义重构公立教育的隐蔽手段。以奥克兰马奈卡拉尼信托（[[Manaiakalani Education Trust]]）和 [[CORE Education]] 为代表的实践表明，政府以“提升原住民与弱势学生数字素养”为道德旗帜，将学校数字化转型整体打包为商业外包项目。一方面，跨国科技巨头（三星电子、电信商 Spark）和私营教育咨询公司借信息化通道直接进驻公立学校，开辟了设备采购、云端订阅与教师培训的盈利[[Quasi-market|准市场]]；另一方面，项目推行的“[[One-on-one Laptops|一人一机]]”要求公立学校和弱势家庭自行承担硬件购置与网络运维成本，实质上以“技术赋能”之名行“公共教育资助责任外包与成本向下转嫁”之实。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 9, 27, 47)]]
 
 ---
 
@@ -158,7 +159,7 @@ updated: 2026-11-02
 > > 审视教育信息化进程中公共性底线的失守。
 > >
 > > - **跨国企业与中介机构立场** 强调科技企业提供先进的数字化解决方案与云计算服务，能以极高效率补足国家公共教育研发能力的不足。
-> > - **教育主权批判视角** 揭示国家退居为被动买方，公共财政预算源源不断流向硬件供应商与专有软件公司；学校被锁定在特定商业生态圈中，学生与教师的日常学习数据沦为商业公司训练算法的数字资产。国家自适应测评 e-asTTle 由教育部全额资助开发后转入商业招标，题库运维被跨国教育资本与外包咨询公司深度介入，并成为量化绩效治理的监控手段（pp. 87–88）。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 9, 47, 87–88)]]
+> > - **教育主权批判视角** 揭示国家退居为被动买方，公共财政预算源源不断流向硬件供应商与专有软件公司；学校被锁定在特定商业生态圈中，学生与教师的日常学习数据沦为商业公司训练算法的数字资产。国家自适应测评 e-asTTle 由教育部全额资助开发后转入商业招标，题库运维被[[Transnational Education|跨国教育]]资本与外包咨询公司深度介入，并成为量化绩效治理的监控手段（pp. 87–88）。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 9, 47, 87–88)]]
 
 ---
 

@@ -13,9 +13,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "government-agency / research-intelligence"
 headquarters: "London, UK"
@@ -28,6 +28,7 @@ tags:
   - theme/educational-intelligence
   - theme/policy-borrowing
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Intangible Spiritual Forces]]"
   - "[[Document]]"
   - "[[Policy Borrowing]]"
@@ -56,13 +57,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定位
-> 英国枢密院教育委员会（后为教育署）于 1895 年设立的官方跨国教育情报与政策调查中枢，由[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）出任首任局长。该机构以德国为核心参照系开创了系统的比较研究，开辟了比较教育由 19 世纪督学行政视察走向国家常设智库与 20 世纪大学建制化转型的历史枢纽。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 89–90)]]
+> 英国枢密院教育委员会（后为教育署）于 1895 年设立的官方[[Transnational Education|跨国教育]]情报与政策调查中枢，由[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）出任首任局长。该机构以德国为核心参照系开创了系统的比较研究，开辟了比较教育由 19 世纪督学行政视察走向国家常设智库与 20 世纪大学建制化转型的历史枢纽。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 89–90)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1895 年创立于英国伦敦。19 世纪末，维多利亚英国面临德国与美国在第二次工业革命中的激烈竞争，朝野迫切需要系统收集大陆国家（尤其是普鲁士与法国）及美国的公立教育经验，以推动本国迟缓的中等与技术教育体系改革。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 43–45)]]

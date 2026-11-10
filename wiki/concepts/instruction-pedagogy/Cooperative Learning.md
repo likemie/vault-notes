@@ -7,7 +7,7 @@ aliases:
 summary: "以异质性小组为基本组织形式，依托积极互赖、面对面互动与个体责任协同促进学生学业成就、高阶思维与社会情感发展的社会建构主义教学范式；二阶元分析证实其对多维产出具有稳健促进效应（ES = 0.71），高阶思维赋能最为突出（ES = 0.76），并受具体技术与学科情境显著调节。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Interaction Effect]]"
   - "[[Ecological Validity]]"
+  - "[[Teacher Expertise]]"
   - "[[Scaffolding]]"
   - "[[Sampling Error]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 > [!def] Cooperative Learning
@@ -155,7 +156,7 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题四｜教师专业素养与五大要素的规范落实是决定合作学习课堂效能的关键瓶颈
+> [!concept-proposition] 命题四｜[[Teacher Expertise|教师专业素养]]与五大要素的规范落实是决定合作学习课堂效能的关键瓶颈
 > **教学转化中的形式主义陷阱与专业赋能路径** 剖析一线教师在实施合作学习时面临的理论理解不足与机械操作问题，阐明专业培训对保障干预质量的核心作用。
 
 > [!claim] Güngör et al.

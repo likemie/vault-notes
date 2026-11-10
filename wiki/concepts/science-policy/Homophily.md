@@ -9,7 +9,7 @@ aliases:
 summary: "在社会网络分析与科学计量学中，指行动者倾向于与在人口统计学特征、学术资历、文化背景或机构隶属上高度相似的个体建立联系与合作的自发倾向。在科研团队组建中，同质偏好虽然降低了前期的沟通与磨合成本，但会导致研究视角的同质化回音室，实证上伴随着期刊影响因子与长期引文表现的系统性偏低。"
 type: concept
 domain: "science-policy"
-related_count: 13
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,10 +25,12 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Paradigm]]"
   - "[[Document]]"
+  - "[[Early-Career Researchers]]"
   - "[[Variable]]"
 related_theories:
   - "[[Team Assembly Model]]"
 related_methods:
+  - "[[Journal Impact Factor]]"
   - "[[Effect Size]]"
 related_instruments: []
 related_persons:
@@ -41,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-30
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -99,7 +101,7 @@ updated: 2026-11-03
 > **既往联结重复率对学术水准的约束机制** 该命题聚焦合作演化中的网络封闭性。在任老手如果过度依赖熟悉旧搭档，将削弱团队吸纳新颖知识的能力。
 >
 > [!claim] [[Roger Guimera|Guimerà, R.]]
-> **重复合作偏好参数与顶刊发表表现呈现负向关联** 在跨经济学、生态学、天文学与社会心理学的实证拟合中，团队组装模型中表征与既往搭档重复合作倾向的参数 $q$ 与期刊影响因子始终保持稳健的负相关关系，证明过度抱团会阻碍团队提出开创性思想。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 119–120)]]
+> **重复合作偏好参数与顶刊发表表现呈现负向关联** 在跨经济学、生态学、天文学与社会心理学的实证拟合中，团队组装模型中表征与既往搭档重复合作倾向的参数 $q$ 与[[Journal Impact Factor|期刊影响因子]]始终保持稳健的负相关关系，证明过度抱团会阻碍团队提出开创性思想。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 119–120)]]
 
 ---
 
@@ -119,7 +121,7 @@ updated: 2026-11-03
 ---
 
 > [!warning|limits] 适用局限
-> 同质偏好是社会网络形成的普遍基础机制，在科研早期阶段有助于青年学者快速建立心理安全感、确立共同语言并降低沟通成本；只有当团队长期处于封闭自洽状态、拒绝外部异质视角介入时，同质偏好才会演化为抑制创新的认知屏障。不能将其简单等同于科研恶意或狭隘主义。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 114–115, 118)]]
+> 同质偏好是社会网络形成的普遍基础机制，在科研早期阶段有助于[[Early-Career Researchers|青年学者]]快速建立心理安全感、确立共同语言并降低沟通成本；只有当团队长期处于封闭自洽状态、拒绝外部异质视角介入时，同质偏好才会演化为抑制创新的认知屏障。不能将其简单等同于科研恶意或狭隘主义。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 114–115, 118)]]
 
 ---
 

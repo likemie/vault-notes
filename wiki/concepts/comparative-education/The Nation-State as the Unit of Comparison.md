@@ -10,7 +10,7 @@ aliases:
 summary: "比较教育学古典历史-哲学母题与实证科学化的基石性认识论假定，将主权清晰、制度与文化边界同质的民族国家及其国民教育体系视为首要比较分析基准，在战后历经批判国家理论、多层分析立方体与反思方法论民族主义的范式重构。"
 type: concept
 domain: "comparative-education"
-related_count: 36
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[National Character]]"
   - "[[Competitiveness]]"
+  - "[[Nationalism]]"
   - "[[Reference Society]]"
   - "[[Unit of Analysis]]"
   - "[[Topological Spatialisation]]"
@@ -32,10 +33,12 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Externalization]]"
   - "[[Variable]]"
+  - "[[Transnational Education]]"
   - "[[Refined Mastery]]"
   - "[[Paradigm]]"
   - "[[Methodological Nationalism]]"
   - "[[Independent Variable]]"
+  - "[[Homophily]]"
   - "[[Policy Network]]"
 related_theories:
   - "[[Institutional Isomorphism]]"
@@ -66,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -80,7 +83,7 @@ updated: 2026-11-03
 > - **边界** 难以解释前现代封建教派教育网络与后冷战时期超国家治理机构（如 [[OECD]]、[[World Bank\|世界银行]]、[[EU|欧盟]]）对国家主权的穿透，亦无法有效捕捉次国家级地方社群与跨国移民流动中的杂糅文化空间。
 
 > [!citation-card] 卡扎米亚斯论民族国家作为历史比较母题的首要认识论基准
-> 比较教育研究与分析的认识论单位是民族国家及其国民教育体系——如英格兰、德国、法国、美国和俄国。在对国民教育体系的诠释与解释中，核心目的在于解释和理解这些国家教育系统何以发展至当前形态，以及为何呈现出独特的特质与个性。在历史解释中，民族主义、国家政治意识形态与国民性格被赋予决定性的解释地位。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 40)]]
+> 比较教育研究与分析的认识论单位是民族国家及其国民教育体系——如英格兰、德国、法国、美国和俄国。在对国民教育体系的诠释与解释中，核心目的在于解释和理解这些国家教育系统何以发展至当前形态，以及为何呈现出独特的特质与个性。在历史解释中，[[Nationalism|民族主义]]、国家政治意识形态与国民性格被赋予决定性的解释地位。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 40)]]
 >
 > *The epistemic units of comparative study and analysis are nation states and national systems of education: English, German, French, American, Russian. In their interpretation and explanation of national systems of education the main aim is explaining and 'understanding' how national systems of education developed the way they did, and why they exhibit the characteristics and peculiarities that they do. In their historical explanations and interpretations of variations in national educational patterns and practices, these historically oriented comparativists considered 'nationalism', national traditions, national political ideologies and 'national character' to be 'determining' factors.*
 
@@ -126,7 +129,7 @@ updated: 2026-11-03
 > **国家意志与制度形态的同构机制** 古典历史学派学者一致认定，比较教育是必须将教育提升至国家政治哲学的高度，有别于对脱离政治母体的分散学校事实的统计白描。教育系统的深层结构由国家主权意志与民族历史斗争所铸就，国家是跨国比较最根本的解释[[Variable\|变量]]。
 
 > [!claim] Kandel, I.
-> **国家作为统领性情境解释变量** [[Isaac Kandel\|坎德尔]]在 1933 年代表作《比较教育》中首次将“国家（The State）”确立为跨国教育研究的核心情境解释变量。他继承[[Plato\|柏拉图]]与[[Aristotle\|亚里士多德]]的政治哲学传统，提出“每个国家都拥有其自身所意愿的教育类型”以及“有什么样的国家，便有什么样的学校”（As is the state, so is the school）。坎德尔强调，比较教育专家若不[[Refined Mastery\|精通]]关于国家与个人关系的政治理论，便无法参透制度差异背后的深层动因。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933: 274–275; Kazamias, 2009: 47–48, 引自 Kazamias, 2009b)]]
+> **国家作为统领性情境解释变量** [[Isaac Kandel\|坎德尔]]在 1933 年代表作《比较教育》中首次将“国家（The State）”确立为[[Transnational Education|跨国教育]]研究的核心情境解释变量。他继承[[Plato\|柏拉图]]与[[Aristotle\|亚里士多德]]的政治哲学传统，提出“每个国家都拥有其自身所意愿的教育类型”以及“有什么样的国家，便有什么样的学校”（As is the state, so is the school）。坎德尔强调，比较教育专家若不[[Refined Mastery\|精通]]关于国家与个人关系的政治理论，便无法参透制度差异背后的深层动因。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933: 274–275; Kazamias, 2009: 47–48, 引自 Kazamias, 2009b)]]
 
 > [!claim] [[Michael Sadler\|Sadler, M.]]
 > **国民教育体系作为历史生命的活体有机体** 萨德勒在 1900 年吉尔福德演讲中指出，国民教育体系是一个活生生的有机体，是漫长历史长河中被遗忘的艰难斗争的结晶；它蕴藏着民族生活的某些秘密运作机制，既反映着[[National Character\|国民性格]]的缺陷，又试图通过制度训练予以补救。因此，以民族国家为单位的研究绝不能仅看校内课业，而必须把握校外深层的国家精神生命。[[Argument_Kazamias_2009_ForgottenThemes\|(Sadler, 1900/1964: 309–310; Kazamias, 2009: 40, 44, 引自 Kazamias, 2009b)]]
@@ -166,7 +169,7 @@ updated: 2026-11-03
 > [!debates] 学术争议
 >
 > > [!axis] 国家内部制度均质性假定 vs 阶级、族群与地方[[Heterogeneity\|异质性]]
-> > 争论焦点在于以民族国家为单一单位是否会将整个国家的教育现实掩盖在虚假的抽象同质性之下。
+> > 争论焦点在于以民族国家为单一单位是否会将整个国家的教育现实掩盖在虚假的抽象[[Homophily|同质性]]之下。
 > >
 > > - **Kandel, I.（1933）** 坚持每个民族国家具有相对统一的主权意志与民族精神，国民教育体系反映了该民族的总体共同期望。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933: xxiv; Kazamias, 2009: 40, 引自 Kazamias, 2009b)]]
 > > - **Kazamias, A.（2009）** 尖锐批评这种宏观概括遮蔽了高级资本主义工业民主国家内部剧烈的阶级分化、种族不平等与地方教育权冲突。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 48)]]

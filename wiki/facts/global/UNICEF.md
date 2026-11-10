@@ -10,9 +10,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 38
-fact_related_level: 3
-fact_related_stars: "💎"
+fact_related_count: 44
+fact_related_level: 4
+fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
 org_type: specialized-un-fund
 headquarters: "纽约（美国）"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Social-Emotional Learning]]"
   - "[[Policy Brokerage]]"
+  - "[[Evidence-Based Policy-Making]]"
   - "[[Smart Buys]]"
   - "[[Learning Crisis]]"
   - "[[Knowledge Production]]"
@@ -36,9 +37,11 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Technical Rationality]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Lifelong Learning]]"
   - "[[Global Education Governing Complex]]"
   - "[[Educational Multilateralism]]"
   - "[[Discourse]]"
+  - "[[White Saviour Mentality]]"
 related_theories:
   - "[[Pluri-Scalar Governance]]"
   - "[[Educational Governance Framework]]"
@@ -48,16 +51,18 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Robert Arnove]]"
+  - "[[Kenneth King]]"
 related_facts:
   - "[[Education for All]]"
-  - "[[UNESCO]]"
   - "[[World Bank]]"
+  - "[[UNESCO]]"
   - "[[Multiple Indicator Cluster Surveys]]"
+  - "[[Millennium Development Goals]]"
   - "[[OECD]]"
-  - "[[Learning Data Compact]]"
   - "[[Global Education Evidence Advisory Panel]]"
-  - "[[Bill & Melinda Gates Foundation]]"
+  - "[[Learning Data Compact]]"
   - "[[INEE]]"
+  - "[[Bill & Melinda Gates Foundation]]"
   - "[[Global Partnership for Education]]"
   - "[[Mastercard Foundation]]"
   - "[[PISA]]"
@@ -65,6 +70,7 @@ related_facts:
   - "[[Building Evidence in Education]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_King_2007_CE]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
@@ -72,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -97,12 +103,12 @@ updated: 2026-11-10
 >   - **1946** 联合国大会决议设立国际儿童紧急救援基金，救济二战受灾儿童。
 >   - **1953** 改组为联合国常设机构，职能扩展至发展中国家儿童的长期福祉。
 >
-> - **1989–2000** **《儿童权利公约》确立与全民教育联盟推进**
+> - **1989–2000** **《儿童权利公约》确立与[[Education for All|全民教育]]联盟推进**
 >
->   确立以儿童最大利益为首要考量原则，深度介入基础教育普及与微观多指标监测；在宗滴恩大会上与世界银行合力推动将资金集中于正规小学教育。[[Argument_King_2007_CE|(King, 2007, pp. 383–384)]]
+>   确立以儿童最大利益为首要考量原则，深度介入基础教育普及与微观多指标监测；在宗滴恩大会上与[[World Bank|世界银行]]合力推动将资金集中于正规小学教育。[[Argument_King_2007_CE|(King, 2007, pp. 383–384)]]
 >
 >   - **1989** 联合国大会通过《儿童权利公约》（UNCRC），将儿童受教育权载入国际法。
->   - **1990** 联合世界银行、教科文组织与开发计划署在泰国宗滴恩发起世界全民教育大会；在大会现场散发《普及所有儿童的教育》（*Schooling All the Children*；Colclough & Lewin, 1993），明确主张将资金重点投向初等学校教育。[[Argument_King_2007_CE|(King, 2007, pp. 383–384)]]
+>   - **1990** 联合世界银行、[[UNESCO|教科文组织]]与开发计划署在泰国宗滴恩发起世界全民教育大会；在大会现场散发《普及所有儿童的教育》（*Schooling All the Children*；Colclough & Lewin, 1993），明确主张将资金重点投向初等学校教育。[[Argument_King_2007_CE|(King, 2007, pp. 383–384)]]
 >   - **1995** 正式研发实施[[Multiple Indicator Cluster Surveys|多指标聚类调查]]（MICS），填补全球南方底层家庭儿童福祉微观数据的空白。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 >   - **1990s** 在印度等地资助小学在职教师教育与女教师发展项目，探索通过微观教学主体增能落实受教育权。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 109)]]
 >
@@ -110,14 +116,14 @@ updated: 2026-11-10
 >
 >   发起联合国女童教育倡议，推动发展中地区女童入学率提升；系统推广爱生学校标准，营造包容安全的校园环境。
 >
->   - **2000** 启动联合国女童教育倡议（UNGEI），配合千年发展目标推动消除教育性别差距。
+>   - **2000** 启动联合国女童教育倡议（UNGEI），配合[[Millennium Development Goals|千年发展目标]]推动消除教育性别差距。
 >   - **2000s** 推广“爱生学校”（CFS）标准框架，倡导健康、安全与反暴力教学环境。
 >
 > - **2015–至今** **社会情感学习先驱、数据契约共治与全球证据咨询**
 >
->   在全球多边机构中率先系统倡导社会情感学习框架；联合教科文组织与世界银行结成数据契约同盟，参与全球循证决策咨询。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 544–545)]]
+>   在全球多边机构中率先系统倡导社会情感学习框架；联合教科文组织与世界银行结成数据契约同盟，参与全球[[Evidence-Based Policy-Making|循证决策]]咨询。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 544–545)]]
 >
->   - **2015** 倡导推广[[Social-Emotional Learning|社会情感学习]]（SEL）框架，后被 OECD 和 UNESCO 吸纳。
+>   - **2015** 倡导推广[[Social-Emotional Learning|社会情感学习]]（SEL）框架，后被 [[OECD]] 和 UNESCO 吸纳。
 >   - **2020** 联合世界银行等机构发起设立[[Global Education Evidence Advisory Panel|全球教育证据咨询小组]]（GEEAP），发布中低收入国家教育改革“[[Smart Buys|智能购买]]”分级指引。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 344)]]
 >   - **2021** 联合 UNESCO 与世界银行签署[[Learning Data Compact|学习数据契约]]。
 
@@ -195,7 +201,7 @@ updated: 2026-11-10
 > > [!axis] 初等学校优先聚焦与全纳基础教育愿景的收缩
 > > 考证联合国儿童基金会在全民教育联盟中聚焦正规小学教育是否加速了全球教育议程的窄化。[[Argument_King_2007_CE|(King, 2007, pp. 383–384, 387)]]
 > >
-> > - **批判历史考证（[[Argument_King_2007_CE|King, 2007]]）** 档案分析指出，儿童基金会作为宗滴恩大会发起方之一，在现场散发《普及所有儿童的教育》（Colclough & Lewin, 1993）专著，主张将资金与政策重点严格锁定于正规小学教育；这一立场与世界银行的技术官僚倾向合流，直接导致宗滴恩原本包含成人识字、青年技能与早期保育的六维广义愿景被收缩为小学入学数量指标，边缘化了终身教育与生产性技能。
+> > - **批判历史考证（[[Argument_King_2007_CE|King, 2007]]）** 档案分析指出，儿童基金会作为宗滴恩大会发起方之一，在现场散发《普及所有儿童的教育》（Colclough & Lewin, 1993）专著，主张将资金与政策重点严格锁定于正规小学教育；这一立场与世界银行的技术官僚倾向合流，直接导致宗滴恩原本包含成人识字、青年技能与早期保育的六维广义愿景被收缩为小学入学数量指标，边缘化了[[Lifelong Learning|终身教育]]与生产性技能。
 > > - **儿童基金会儿童权益立场** 强调儿童生存与基本发展权益具有不可替代的伦理优先性，在资源极度紧缺的全球南方，集中力量保障每个学龄儿童特别是女童享有免费义务初等教育，是阻断贫困代际传递的最坚实防线。
 
 > [!citation-card] 五大国际组织争夺私人慈善资本的竞争生态
@@ -231,4 +237,4 @@ updated: 2026-11-10
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 剖析儿童基金会在五大国际组织生态中率先开辟社会情感学习议程及争夺私人慈善资本的竞争机制。
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 剖析 GEEAP 职责规程的[[Discourse|话语]]修辞，批判其“智能购买”背后的技术理性与去情境化实证倾向。
 > - [[Argument_King_2007_CE|King (2007)]] — 考证联合国儿童基金会与世行在宗滴恩大会推动小学教育优先偏向并收紧全球教育议程的历史。
-> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 访谈曾在联合国儿童基金会任职的芬兰教育专家，揭示其参与建构全球学习危机话语中的白人救世主心态与干预矛盾。
+> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 访谈曾在联合国儿童基金会任职的芬兰教育专家，揭示其参与建构全球学习危机话语中的[[White Saviour Mentality|白人救世主心态]]与干预矛盾。

@@ -12,7 +12,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -36,6 +36,7 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[David Hargreaves]]"
   - "[[Michael Gove]]"
 related_facts:
   - "[[Committee for the Accreditation of Teacher Education]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-11-07
+updated: 2026-11-11
 ---
 
 ---
@@ -66,7 +67,7 @@ updated: 2026-11-07
 ---
 
 > [!dev-timeline] 组织发展历程
-> - **1994–2005 年 — 创设与奠基期（TTA 时代）** 依据《1994 年教育法》正式设立，全面接管原由[[Higher Education Funding Council for England\|英格兰高等教育拨款委员会]]（HEFCE）掌握的 [[Initial Teacher Training\|ITT]] 资金分配权；1996 年戴维·哈格里夫斯（David Hargreaves）在 TTA 年度演说中尖锐批判传统教育学研究与课堂脱节，倡导教学效仿循证医学转型为证据本位专业，由此引爆了英国关于教学究竟属于经验技艺还是实证研究本位专业的广泛争鸣；1998 年颁布第 4/98 号通令（Circular 4/98），首次强制推行国家 ITT 课程大纲，大力扶持校本培训（SCITT）与研究生教师计划（GTP）。
+> - **1994–2005 年 — 创设与奠基期（TTA 时代）** 依据《1994 年教育法》正式设立，全面接管原由[[Higher Education Funding Council for England\|英格兰高等教育拨款委员会]]（HEFCE）掌握的 [[Initial Teacher Training\|ITT]] 资金分配权；1996 年[[David Hargreaves|戴维·哈格里夫斯]]（David Hargreaves）在 TTA 年度演说中尖锐批判传统教育学研究与课堂脱节，倡导教学效仿循证医学转型为证据本位专业，由此引爆了英国关于教学究竟属于经验技艺还是实证研究本位专业的广泛争鸣；1998 年颁布第 4/98 号通令（Circular 4/98），首次强制推行国家 ITT 课程大纲，大力扶持校本培训（SCITT）与研究生教师计划（GTP）。
 > - **2005–2012 年 — 职能扩张与更名（TDA 时代）** 依据《2005 年教育法》重组并更名为学校培训与发展署（TDA），职能由职前培训扩展至全校教育劳动力的终身持续专业发展（CPD）及辅助教职人员培训。
 > - **2012 年 — 撤销与职能回归教育部** 联合政府时期教育大臣[[Michael Gove\|迈克尔·戈夫]]（Michael Gove）推行小政府改革，撤销大量准政府机构（Quangos），TDA 被正式解散；其职能先并入国家教学与领导力学院（NCTL），后彻底回收至英国教育部（DfE）内设司局直接管理。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–91)]]
 

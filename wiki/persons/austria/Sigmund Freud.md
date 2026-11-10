@@ -7,7 +7,7 @@ summary: "奥地利神经学家、精神分析学派创始人；开创无意识�
 type: person
 nationality: austria
 person_region: "austria"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,11 +26,12 @@ related_concepts:
   - "[[Culture of Disbelief]]"
   - "[[Epistemology]]"
   - "[[Theoretical Perspective]]"
-  - "[[Hard Belief]]"
+  - "[[Self-control]]"
+  - "[[Critical Thinking Disposition]]"
   - "[[Falsification]]"
+  - "[[Hard Belief]]"
   - "[[Epoché]]"
   - "[[Engineering Mindset]]"
-  - "[[Critical Thinking Disposition]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Phenomenology]]"
@@ -43,12 +44,12 @@ related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14]]"
-  - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Sahlgren_2015_CPS]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-06
+updated: 2026-11-11
 ---
 
 ---
@@ -105,7 +106,7 @@ updated: 2026-11-06
 > [!citation-card] 文明秩序与权威内化
 > 文明社会的法律、规范与自我调节意识，建立在主体对外部规则权威的心理内化之上；若外部权威载体撤退，个体自律与秩序感便难以自发生成。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 64–66)]]
 >
-> *Civilisation and internalised self-regulation fundamentally depend on individuals psychological assimilation of external authority.*
+> *Civilisation and internalised [[Self-control|self-regulation]] fundamentally depend on individuals psychological assimilation of external authority.*
 
 ---
 
@@ -123,7 +124,7 @@ updated: 2026-11-06
 > [!person-network] 关系网络
 > - **医学先导** 让-马丁·沙可（Jean-Martin Charcot）— 巴黎萨尔佩特里哀医院导师，催眠术与早期歇斯底里症探究引路人。
 > - **家族后裔与艺术共鸣** [[Lucian Freud]] — 弗洛伊德之孙，继承向内穿透性审视并转化为具象肖像艺术。
-> - **科学哲学批评者** [[Karl Popper|卡尔·波普尔]]（[[Karl Popper]]）— 批判精神分析不具备[[Falsification|可证伪性]]的科学哲学家。
+> - **科学哲学批评者** [[Karl Popper|卡尔·波普尔]]（[[Karl Popper]]）— [[Critical Thinking Disposition|批判精神]]分析不具备[[Falsification|可证伪性]]的科学哲学家。
 
 ---
 

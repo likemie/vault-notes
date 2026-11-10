@@ -57,7 +57,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-03
+updated: 2026-11-11
 title: Demand-side Innovation Policy
 aliases:
   - 需求侧创新政策
@@ -147,7 +147,7 @@ aliases:
 > - **1980s — 创新政策工具箱系统分类** 罗思韦尔（Roy Rothwell）在《工业创新与政府政策》中系统提出公共采购、法规标准与用户补贴等需求侧创新政策工具分类。
 > - **2007 — 欧洲先导市场倡议与理论奠基** 埃德勒（Jakob Edler）与乔治乌（Luke Georghiou）正式提出需求侧创新政策综合理论框架，推动[[EU|欧盟]]设立创新公共采购（[[Patient and Public Involvement|PPI]]）与预商用采购（PCP）政策体系。
 > - **2011 — 采购生命周期与跨领域移植边界** 莫厄里基于半导体、计算机和软件史，揭示需求侧采购在技术早期与成熟期的效力分化规律，并阐明向能源脱碳领域迁移时的规制配合前提。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 159–188)]]
-> - **2018 — 三代使命导向政策中的[[Market Shaping and Creating|市场塑造]]** [[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]将战略公共采购确立为[[Mission-Oriented Innovation Policy|使命导向创新政策]]（狮子形态与第三代政策）塑造与创造全新市场的核心支柱。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–813)]]
+> - **2018 — 三代使命导向政策中的[[Market Shaping and Creating|市场塑造]]** 卡特尔与[[Mariana Mazzucato|马祖卡托]]将战略公共采购确立为[[Mission-Oriented Innovation Policy|使命导向创新政策]]（狮子形态与第三代政策）塑造与创造全新市场的核心支柱。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–813)]]
 
 ---
 

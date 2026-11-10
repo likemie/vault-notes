@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 43
+fact_related_count: 44
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Innovation Hub]]"
   - "[[Seed Funding]]"
+  - "[[Early-Career Researchers]]"
   - "[[Mentorship]]"
   - "[[Hypothesis]]"
   - "[[Falsification]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -114,7 +115,7 @@ updated: 2026-11-02
 > - **国家创新网络枢纽（I-Corps Hubs）** 区域中心大学联合体（如新英格兰枢纽、纽约枢纽、五大湖枢纽），负责统筹跨校师资培训、课程标准制定与全国队列选拔。
 > - **学术基地站点（I-Corps Sites & Nodes）** 遍布全美数百所[[Research Universities|研究型大学]]的校内孵化中心，提供早期微额[[Seed Funding|种子基金]]（2,000–5,000 美元）与校级初级创业实训。
 > - **三元攻坚团队架构（The I-Corps Triad）**
->   - **创业领队（Entrepreneurial Lead, EL）** 通常由具备技术背景的高年级博士生、博士后或青年学者担任，全职主导商业模式迭代与客户访谈；
+>   - **创业领队（Entrepreneurial Lead, EL）** 通常由具备技术背景的高年级博士生、博士后或[[Early-Career Researchers|青年学者]]担任，全职主导商业模式迭代与客户访谈；
 >   - **技术主管（Technical Lead / PI）** 由发明核心技术的大学教授或资深科学家担任，负责底层原理验证与实验室技术护航；
 >   - **产业导师（Industry [[Mentorship|mentor]], IM）** 由拥有成功硬科技创业经历、企业高管或天使投资人担任，负责提供行业真实人脉网络与商业陷阱预警。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]
 

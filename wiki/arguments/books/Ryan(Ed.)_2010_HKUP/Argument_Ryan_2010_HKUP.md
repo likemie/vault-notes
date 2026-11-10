@@ -10,7 +10,7 @@ title: "Argument_Ryan_2010_HKUP"
 argument_key: "Argument_Ryan_2010_HKUP"
 argument_display_title: "International Education and the Chinese Learner"
 argument_kind: "book"
-argument_related_count: 15
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Fourth Culture]]"
   - "[[International Schools]]"
+  - "[[Transnational Education]]"
   - "[[Champ]]"
   - "[[Democratic Education]]"
 related_theories: []
@@ -53,7 +54,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-16
-updated: 2026-10-22
+updated: 2026-11-11
 year: 2010
 doi: ""
 citation_aliases:
@@ -75,7 +76,7 @@ citation_aliases:
 
 
 > [!info] 研究方法
-> 本书为编辑论文集（edited volume），各章研究设计各不相同。整体采用论文集的组织方式：将九篇文章按"奠定基础 → 聚焦香港[[International Schools\|国际学校]] → 考察跨国高等教育"的逻辑分为三部分，以实现编者所期望的"中小学与大学教育者之间的跨学段对话"(p.2]])。
+> 本书为编辑论文集（edited volume），各章研究设计各不相同。整体采用论文集的组织方式：将九篇文章按"奠定基础 → 聚焦香港[[International Schools\|国际学校]] → 考察[[Transnational Education|跨国高等教育]]"的逻辑分为三部分，以实现编者所期望的"中小学与大学教育者之间的跨学段对话"(p.2]])。
 
 
 > [!example] 论证结构

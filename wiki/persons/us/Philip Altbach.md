@@ -8,10 +8,10 @@ summary: "美国比较教育与国际高等教育泰斗，波士顿学院国际�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 27
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 31
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1941"
 died: ""
 lifespan: "1941–至今"
@@ -23,6 +23,7 @@ tags:
   - paradigm/pluralism
   - region/us
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Policy Network]]"
   - "[[Paradigm]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
@@ -32,6 +33,8 @@ related_concepts:
   - "[[Champ]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Competitiveness]]"
+  - "[[Scientific Mobility]]"
+  - "[[Study Abroad]]"
   - "[[Protean Episteme]]"
   - "[[Creativity]]"
   - "[[Going Native]]"
@@ -46,6 +49,7 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Ethnography]]"
   - "[[Participant Observation]]"
+  - "[[Cognitive Extent]]"
   - "[[Qualitative Research]]"
 related_instruments: []
 related_persons:
@@ -59,20 +63,20 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国比较教育学家、国际高等教育研究开创宗师，波士顿学院摩农讲席教授（J. Donald Monan, S.J. University Professor）兼国际高等教育中心（CIHE）创办主任；曾任[[Comparative and International Education Society|比较与国际教育学会]]（CIES）会长、《比较教育评论》（*Comparative Education Review*, CER）主编（1978–1988）。
-> - **核心角色** 在全球知识社会学、中心-边缘[[Dependency Theory|依附理论]]与跨国高等教育[[Policy Network|政策网络]]中承担理论中枢角色；在比较教育学科史中，作为第四代际转型的重要亲历者与记录者，权威定性了 20 世纪 70 年代后功能主义垄断被打破、多元[[Paradigm|范式]]并存的历史轨迹。
+> - **核心角色** 在全球知识社会学、中心-边缘[[Dependency Theory|依附理论]]与[[Transnational Education|跨国高等教育]][[Policy Network|政策网络]]中承担理论中枢角色；在比较教育学科史中，作为第四代际转型的重要亲历者与记录者，权威定性了 20 世纪 70 年代后功能主义垄断被打破、多元[[Paradigm|范式]]并存的历史轨迹。
 > - **代表贡献** 1. 创立全球高等教育学术依附与“中心-边缘”[[Analytic Framework|分析框架]]；2. 奠定国际高等教育（International Higher Education）作为成熟独立[[Comparative Education as a Cross-Sectional Area|交叉学科]]领域的建制基础；3. 权威阐释比较教育学向性别研究、课堂[[Ethnography|民族志]]与新马克思主义[[Pluralism|多元主义]]迈进的范式重构。
 
 > [!citation-card] 人物定位的关键来源
 > 正如美国著名的比较教育学者菲利普·阿特巴赫在 1991 年谈及美国比较教育时所写道的：“自 20 世纪 70 年代以来，比较教育学发生了重大变化。那些曾被认为无关紧要的主题（如教育中的性别角色）已成为研究与分析的核心；民族志和[[Participant Observation|参与观察]]等新方法论变得愈发重要；马克思主义等替代性意识形态已被用于启发比较教育分析。[[Structural Functionalism|结构功能主义]]等范式的霸权被彻底打破……各种不同的视角涌入了比较教育研究中。”[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]
 >
-> *As Philip Altbach, a leading American comparative educator, wrote in 1991 about American CE: 'Comparative education has changed significantly since the 1970s. Topics that were considered unimportant, such as the role of gender in education, have become the subject of research and analysis. New methodologies, such as ethnography and participant observation, have become important. And alternative ideologies such as Marxism have been used to inform analysis in comparative education. The domination of such paradigms as structural functionalism was broken... Rather, a variety of different perspectives have entered into comparative education research' (Altbach, 1991: 504).*
+> *As Philip Altbach, a leading American comparative educator, wrote in 1991 about American [[Cognitive Extent|CE]]: 'Comparative education has changed significantly since the 1970s. Topics that were considered unimportant, such as the role of gender in education, have become the subject of research and analysis. New methodologies, such as ethnography and participant observation, have become important. And alternative ideologies such as Marxism have been used to inform analysis in comparative education. The domination of such paradigms as structural functionalism was broken... Rather, a variety of different perspectives have entered into comparative education research' (Altbach, 1991: 504).*
 
 ---
 
@@ -120,8 +124,8 @@ updated: 2026-11-02
 > > - **阿特巴赫** 强调盲目追随西方量化指标与英美办学模式将导致发展中国家大学与本土发展脱节，主张大学必须首先扎根于本土社会的紧迫需求。
 > > - **全球新自由主义政策精英** 坚持只有通过参与国际排名的通用评价标准，大学才能在全球[[Knowledge-Based Economy|知识经济]]与人才竞争中获得世界级[[Competitiveness|竞争力]]。
 >
-> > [!axis] 学术流动的收益评估：人才流失（Brain Drain）vs 智力共享（Brain Gain）
-> > 国际学者与留学生跨国迁徙后果的理论争鸣。
+> > [!axis] [[Scientific Mobility|学术流动]]的收益评估：人才流失（Brain Drain）vs 智力共享（Brain Gain）
+> > 国际学者与[[Study Abroad|留学]]生跨国迁徙后果的理论争鸣。
 > >
 > > - **[[Dependency Theory|依附论]]视角的阿特巴赫** 指出南方国家最优秀青年向北方核心大学单向流动客观上抽空了母国的智力资源储备，强化了边缘依附。
 > > - **跨国主义学者** 强调海外学术网络通过侨民回流、联合科研与跨国投资，能够实现发展中国家的智力红利反哺。

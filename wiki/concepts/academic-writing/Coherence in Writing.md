@@ -7,7 +7,7 @@ aliases:
 summary: "Zinsser (1983) 和 Wilkinson (1991) 在学术写作中阐发的文本组织原则，要求观念相互联结、句子间逻辑推进、段落间自然衔接，可通过钩眼技术逐句检查，在句子、段落和章节三个层面运作"
 type: concept
 domain: "academic-writing"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ related_concepts:
   - "[[Flow]]"
   - "[[Hook and Eye Technique]]"
   - "[[Literature Review]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Purpose Statement]]"
   - "[[Research Question]]"
   - "[[Variable]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -65,7 +66,7 @@ updated: 2026-10-30
 
 ### 章节层面
 
-章节之间的连贯性是最高层次的连贯。McPherson (1988) 的 The Battle Cry of Freedom: The Civil War Era 是典范，每章结尾的观念自然将读者引入下一章。在研究计划和学位论文中，章节间的连贯性同样需要有意设计。
+章节之间的连贯性是最高层次的连贯。McPherson (1988) 的 The Battle Cry of Freedom: The Civil War Era 是典范，每章结尾的观念自然将读者引入下一章。在研究计划和[[Doctoral Dissertation|学位论文]]中，章节间的连贯性同样需要有意设计。
 
 ---
 

@@ -9,7 +9,7 @@ summary: "美国教育学家，密歇根大学首任教学科学与艺术讲座�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,6 +23,8 @@ tags:
   - theme/teacher-education
 related_concepts:
   - "[[Normal School]]"
+  - "[[Transnational Education]]"
+  - "[[Lecturing]]"
   - "[[School Inspection]]"
   - "[[Grandes Ecoles]]"
   - "[[Epistemology]]"
@@ -47,20 +49,20 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国 19 世纪后半叶著名教育学家、师资培训理论家，密歇根大学教学科学与艺术（Science and the Art of Teaching）首任讲座教授，皮博迪[[Normal School|师范学院]]（Peabody Normal College，今范德堡大学皮博迪学院）院长兼[[Roy Nash|纳什]]维尔大学（University of Nashville）校长。
-> - **核心角色** 美国大学教育学专业建制化的奠基者；1879 年在密歇根大学受聘担任全美首个常设大学教育学教席教授，并率先将欧洲各国学校制度与跨国教育经验作为大学教育学第一讲，是美国大学比较教育课程讲座发端的关键历史节点。
+> - **核心角色** 美国大学教育学专业建制化的奠基者；1879 年在密歇根大学受聘担任全美首个常设大学教育学教席教授，并率先将欧洲各国学校制度与[[Transnational Education|跨国教育]]经验作为大学教育学第一讲，是美国大学比较教育课程讲座发端的关键历史节点。
 > - **代表贡献** 出版奠基性著作《教育科学论》（*Contributions to the Science of Education*, 1887）；英译法国思想家贡佩雷（Gabriel Compayré）的《教育史》（*History of Pedagogy*）；在美国高等教育体制内确立教师培养的学术合法性，将比较视野系统注入早期大学教师教育课程。
 
 > [!citation-card] 拉斯特论威廉·H·佩恩与美国大学比较教育讲座的发端
 > 1876 年苏格兰任命了首批大学教育学教授；1879 年威廉·H·佩恩在密歇根大学获得全美首位教育学教授任命。值得强调的是，他在密歇根大学开设的有史以来第一堂讲座，讲授的主题正是欧洲的学校与教育体制。当然，在那个时代比较教育这一学术称谓尚未正式普及。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 135 注 1)]]
 >
-> *"William H. Payne was the first in the United States in 1879 at the University of Michigan. At the time of his appointment, William H. Payne had been serving as the superintendent of Adrian School District in Michigan, and it is significant that the very first lectures he gave at the University of Michigan were on the schools and the educational systems of Europe. Of course, the term comparative education was not in use at the time (see Payne, 1887)."*
+> *"William H. Payne was the first in the United States in 1879 at the University of Michigan. At the time of his appointment, William H. Payne had been serving as the superintendent of Adrian School District in Michigan, and it is significant that the very first [[Lecturing|lectures]] he gave at the University of Michigan were on the schools and the educational systems of Europe. Of course, the term comparative education was not in use at the time (see Payne, 1887)."*
 
 ---
 

@@ -9,10 +9,10 @@ summary: "德国理论物理学家、量子论创立者、诺贝尔物理学奖�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1858"
 died: "1947"
 lifespan: "1858–1947"
@@ -28,7 +28,8 @@ related_concepts:
   - "[[Scientific Paradigm]]"
 related_theories:
   - "[[Planck's Principle]]"
-related_methods: []
+related_methods:
+  - "[[Natural Experiment]]"
 related_instruments: []
 related_persons:
   - "[[Thomas Kuhn]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -87,7 +88,7 @@ updated: 2026-10-30
 > - **制度化路径** 领导威廉皇帝学会，战后改组为马克斯·普朗克科学促进学会，成为全球基础科学研究的卓越重镇。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Wang & Barabási (2021)]] — 依托生命科学明星学者猝逝准自然实验，严格因果检验普朗克原理在当代科学界的微观机制。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Wang & Barabási (2021)]] — 依托生命科学明星学者猝逝[[Natural Experiment|准自然实验]]，严格因果检验普朗克原理在当代科学界的微观机制。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|Karp & Zamiska (2025)]] — 借用普朗克关于信念的科学哲学思考，探讨实证理性对智识勇气的深层挤压。
 
 ---

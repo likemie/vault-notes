@@ -9,10 +9,10 @@ aliases:
 summary: "批判性政策研究概念，指决策者预先确立政治意图与改革方案，再对学术研究与经验数据进行选择性筛选、重构或定制以逆向论证政策正当性的政治过程"
 type: concept
 domain: "educational-policy-reform"
-related_count: 24
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 31
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - educational-policy-reform
   - evidence-based-education
@@ -34,24 +34,31 @@ related_concepts:
   - "[[Deliberative Space]]"
   - "[[Research Topic]]"
   - "[[Epistemology]]"
+  - "[[Scientization of Politics]]"
+  - "[[Context in Comparative Education]]"
 related_theories: []
 related_methods:
   - "[[Critical Policy Analysis]]"
+  - "[[Systematic Review]]"
   - "[[Elite Interview]]"
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[Department for Education]]"
   - "[[Chartered College of Teaching]]"
+  - "[[Danish Public School Reform]]"
+  - "[[Danish National Centre for Social Research]]"
+  - "[[Science Foundation Ireland]]"
   - "[[PISA]]"
   - "[[Education Endowment Foundation]]"
   - "[[Carter Review of Initial Teacher Training]]"
 related_arguments:
   - "[[Argument_Helgetun_2022_JEdPolicy]]"
+  - "[[Argument_Volmari_2025_CE]]"
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 
 ---
@@ -122,7 +129,7 @@ updated: 2026-11-09
 > **议程预设与方案定制** 揭示政治权威如何在缺失问题实证诊断的情况下，直接依从执政议程定向委托定制方案证据。
 
 > [!claim] [[Argument_Volmari_2025_CE|Volmari et al. (2025)]]
-> **政治日程主导与证据工具化委托** 丹麦公立学校改革案例表明，基于政策的证据制造在国家层面上呈现为议程预设与证据委托的二阶段脱节。决策层在缺少对学校实际问题系统诊断的情况下，直接由政治议程确立延长学时与强化问责的改革方向；随后通过官方委托丹麦国家社会研究中心（The Danish National Centre for Social Research, SFI）与坎贝尔协作网研制系统综述，有针对性地为既定政策方案收集有效性证据。证据的采信高度从属于政治日程推进，同行评议学术期刊成果在政策引据中仅占 11.2%，研究证据退化为向选民证明改革科学性的合法化工具。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 537–539)]]
+> **政治日程主导与证据工具化委托** [[Danish Public School Reform|丹麦公立学校改革]]案例表明，基于政策的证据制造在国家层面上呈现为议程预设与证据委托的二阶段脱节。决策层在缺少对学校实际问题系统诊断的情况下，直接由政治议程确立延长学时与强化问责的改革方向；随后通过官方委托[[Danish National Centre for Social Research|丹麦国家社会研究中心]]（The Danish National Centre for Social Research, [[Science Foundation Ireland|SFI]]）与坎贝尔协作网研制[[Systematic Review|系统综述]]，有针对性地为既定政策方案收集有效性证据。证据的采信高度从属于政治日程推进，同行评议学术期刊成果在政策引据中仅占 11.2%，研究证据退化为向选民证明改革科学性的合法化工具。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 537–539)]]
 
 ---
 

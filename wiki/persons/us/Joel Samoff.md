@@ -8,7 +8,7 @@ summary: "美国比较教育学家与非洲政治发展学者，斯坦福大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 32
+person_related_count: 33
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -35,11 +35,12 @@ related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[Policy Conditionalities]]"
   - "[[Researching Up and Researching Down]]"
-  - "[[Development Education]]"
+  - "[[Homophily]]"
   - "[[Heterogeneity]]"
   - "[[Washington Consensus]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Technical Rationality]]"
+  - "[[Development Education]]"
 related_theories:
   - "[[Pluralism]]"
   - "[[Conditioned State Theory]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-28
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -141,7 +142,7 @@ updated: 2026-11-02
 
 > [!debates] 学术争议
 >
-> > [!axis] [[World Bank|世界银行]]政策机器的同质性 vs 内部多元微观[[Heterogeneity|异质性]]
+> > [!axis] [[World Bank|世界银行]]政策机器的[[Homophily|同质性]] vs 内部多元微观[[Heterogeneity|异质性]]
 > > 围绕世界银行内部是否存在真正的学术[[Pluralism|多元主义]]的争论。
 > >
 > > - **主流发展经济学者** 辩称世界银行内部吸收了大量不同背景的社会学家、人类学家与教育学者，其政策并非千篇一律的[[Washington Consensus|华盛顿共识]]，存在不同部门间的微观争鸣。

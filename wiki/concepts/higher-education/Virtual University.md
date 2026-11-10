@@ -8,7 +8,7 @@ aliases:
 summary: "指依托现代信息通信技术开展纯线上或混合式高等教育教学、跨国学位授予与课程特许经营的高等教育机构形态，它打破了实体校园的地理边界，但同时也引发了学术商品化、文凭去脉络化以及大学公共民主职能流失的深刻危机。"
 type: concept
 domain: "higher-education"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Distance Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Massive Open Online Courses]]"
+  - "[[Transnational Education]]"
   - "[[Research Universities]]"
   - "[[Lifelong Learning]]"
   - "[[Paradigm]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -70,7 +71,7 @@ updated: 2026-11-03
 
 > [!boundary]- 概念边界
 > - 不等于[[Massive Open Online Courses|大规模开放在线课程]]（MOOCs）——MOOCs 主要是开放获取的单门数字化课程资源，通常不构成独立的[[Higher Education Act of 1965|高等教育法]]人或综合性学位授予实体；虚拟大学则是拥有独立注册、学费征收、考核与文凭认证机制的完整机构。
-> - 不等于传统广播电视大学——传统远程教育通常依托国家公共财政补贴，旨在弥补本土适龄青年高等教育机会匮乏；当代虚拟大学则深度嵌入全球跨国教育服务贸易网络，具有鲜明的赢利性与市场外包属性。
+> - 不等于传统广播电视大学——传统远程教育通常依托国家公共财政补贴，旨在弥补本土适龄青年高等教育机会匮乏；当代虚拟大学则深度嵌入全球[[Transnational Education|跨国教育]]服务贸易网络，具有鲜明的赢利性与市场外包属性。
 
 ---
 

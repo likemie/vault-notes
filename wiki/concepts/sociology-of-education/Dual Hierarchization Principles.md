@@ -9,7 +9,7 @@ aliases:
 summary: "埃里克·曼格兹与马蒂厄·希尔格斯基于布迪厄场域理论构建的教育知识生产社会学分析框架。指出任何知识场域均受制于两套相互竞争的等级化原则：场域内部等级原则（学术自主极，追求知识内在价值、基础理论与同行承认）与场域外部等级原则（政治经济他律极，将知识视作服务于外部问责与经济增长的实用工具）。两套原则的力量对比决定了知识场域的相对自主性；PISA 的崛起标志着外部等级原则占据支配地位，导致学术知识生产日益从属于政治权力与新自由主义市场需求。"
 type: concept
 domain: "sociology-of-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Evidence-Based Policy-Making]]"
   - "[[Areas of Knowledge]]"
   - "[[Rich and Thick Description]]"
+  - "[[Policy Translation]]"
   - "[[Epistemology]]"
   - "[[Discourse]]"
   - "[[Categorical Funding]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -77,7 +78,7 @@ updated: 2026-11-02
 > | **典型知识形态** | 基础理论建构、概念澄明、教育哲学思辨、长周期质性[[Rich and Thick Description\|深描]] | 测量统计模型、指标监控数据库、政策咨询报告、干预工具箱 |
 > | **合法性评价主体** | 独立的学者同行评议共同体与学术专业学会 | 政府教育行政官僚、跨国组织技术官僚、智库与赞助财团 |
 > | **学术资本形态** | 象征性学术声望、同行推崇与理论典范创立 | 课题经费资助额度、政府决策采纳批示、媒体曝光率与引用排名 |
-> | **对待 PISA 的态度** | 质疑测评的去背景化假设，批判数据对教育复杂性的简化 | 视测评为科学循证的客观金标准，积极承接二次分析与政策转译 |
+> | **对待 PISA 的态度** | 质疑测评的去背景化假设，批判数据对教育复杂性的简化 | 视测评为科学循证的客观金标准，积极承接二次分析与[[Policy Translation\|政策转译]] |
 
 ---
 

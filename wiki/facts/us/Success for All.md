@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 47
+fact_related_count: 48
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
@@ -59,6 +59,7 @@ related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"
   - "[[Nancy Madden]]"
+  - "[[Ben Levin]]"
 related_facts:
   - "[[Investing in Innovation Program]]"
   - "[[China Integrated Circuit Industry Investment Fund]]"
@@ -83,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -119,7 +120,7 @@ updated: 2026-10-30
 ---
 
 > [!dev-timeline] 项目推进历程
-> - **1987–1996 — 原型研发与巴尔的摩试点试验期** 斯莱文与马登在巴尔的摩一所极度贫困的小学开发 SFA 原型，通过实验组与对照组追踪证实早期读写干预能显著缩小贫困儿童学业差距，并逐步建立 [[Cooperative Integrated Reading and Composition\|CIRC]] 与早期阅读拼读模块。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 18)]]
+> - **1987–1996 — 原型研发与巴尔的摩试点试验期** 斯[[Ben Levin|莱文]]与马登在巴尔的摩一所极度贫困的小学开发 SFA 原型，通过实验组与对照组追踪证实早期读写干预能显著缩小贫困儿童学业差距，并逐步建立 [[Cooperative Integrated Reading and Composition\|CIRC]] 与早期阅读拼读模块。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 18)]]
 > - **1997–2008 — 联邦 CSR 法案扶持与全国多中心 [[Randomised Controlled Trials\|RCT]] 验证期** 联邦国会通过全面学校改革计划（CSR），每年拨款 2 亿美元支持薄弱学校采纳实证全校方案；SFA 迅速扩展至全美千余所学校，并在 35 所学校开展全美最大规模的多中心[[Cluster Randomized Trials\|集群随机对照试验]]（Cluster RCT, Borman et al., 2007）。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
 > - **2009–2015 — 联邦 i3 基金注资与方案数字化迭代期** 荣获美国联邦[[Investing in Innovation Program\|创新投资项目]]（i3）最高额度的“规模化放大（Scale-up）”资助，推动计算机辅助协作辅导（如 [[Lightning Squad]]）与西英双语过渡方案研发。
 > - **2015–至今 — [[Every Student Succeeds Act\|ESSA]] 强证据认证与常态化运行期** 在《每一个学生成功法》（ESSA）四级证据框架下被评定为 TIER 1 强证据方案，成为学区使用 [[Title I of the Elementary and Secondary Education Act\|Title I]] 专项改善拨款采购全校改革方案的首选标杆。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 25)]]

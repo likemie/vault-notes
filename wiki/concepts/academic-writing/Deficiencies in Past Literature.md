@@ -9,7 +9,7 @@ aliases:
 summary: "已有研究中存在的空白、方法不足或理论解释局限，在引言缺陷模型中用于确立新研究的学术合法性与独特贡献空间，涵盖主题样本覆盖、测量工具与理论机制整合等多维类型。"
 type: concept
 domain: "academic-writing"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Research Introduction]]"
   - "[[Purpose Statement]]"
+  - "[[Problematisation]]"
   - "[[Analytical Stance]]"
   - "[[Literature Search]]"
 related_theories: []
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-31
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -139,7 +140,7 @@ updated: 2026-11-03
 > [!dev-timeline] 概念演变脉络
 > - **1980 年代 — 学术体裁分析与地位确立** 约翰·斯韦尔斯（John Swales, 1990）提出学术引言 CARS 模型（Create a Research Space），确立了“建立领地（Move 1）— 确立利基（Move 2: 提出反驳、指出缺口或提出疑问）— 占据利基（Move 3）”的三步法结构，奠定了文献缺陷分析的形式语言学基石。
 > - **2000 年代初 — [[Deficiencies Model for an Introduction|引言缺陷模型]]的教学法体系化** 约翰·克雷斯威尔在其《研究设计》经典教材中正式确立“引言缺陷模型”（Deficiencies Model for an Introduction），将文献缺陷归纳为五步引言骨架的核心承上启下枢纽，广泛应用于社会科学与教育研究培训。
-> - **2010 年代 — 从单纯填补缺口向理论问题化的批判反思** 管理与组织学者阿尔维森与桑德伯格（Alvesson & Sandberg, 2011）反思文献缺口，指出庸俗的“找缺口模式（Gap-spotting）”容易诱发增量琐碎研究，主张通过对基础前提进行深度“问题化（Problematization）”来拓展高阶理论缺陷。
+> - **2010 年代 — 从单纯填补缺口向理论[[Problematisation|问题化]]的批判反思** 管理与组织学者阿尔维森与桑德伯格（Alvesson & Sandberg, 2011）反思文献缺口，指出庸俗的“找缺口模式（Gap-spotting）”容易诱发增量琐碎研究，主张通过对基础前提进行深度“问题化（Problematization）”来拓展高阶理论缺陷。
 > - **2020 年代 — 三类范式缺陷维度的标准化与操作规程定型** 克雷斯威尔与克雷斯威尔（2022）在最新版本中系统总结了量化、质性与混合方法在提炼文献缺陷时的规范化用语范式与操作清单，推动了学术写作中的跨学科通用标准。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 91–94)]]
 
 ---

@@ -5,7 +5,7 @@ aliases:
 summary: "Diane Stone (2020) 与 Steiner-Khamsi et al. 倡导的方法论立场，主张超越方法论民族主义与线性层级霸权观，将国家与全球视作相互依存的关系性空间，聚焦全球/国家联结。"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Hard Power]]"
   - "[[Geopolitics]]"
+  - "[[Country Ownership]]"
   - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Document]]"
@@ -54,7 +55,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -161,7 +162,7 @@ updated: 2026-11-03
 > > 探讨在高度强调职能与尺度细分时，是否会稀释中央政权对重大教育战略方向的根本决定权。
 > >
 > > - **跨国网络论** 认为[[Policy Mobility\|政策流动]]始终在碎片化多主体博弈中生成，任何单一归因都是虚妄。
-> > - **国家自主性论** 指出行政官僚对法案的最终签署权表明主权国家仍牢牢掌握政策关卡。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 548)]]
+> > - **[[Country Ownership|国家自主性]]论** 指出行政官僚对法案的最终签署权表明主权国家仍牢牢掌握政策关卡。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 548)]]
 
 > [!critique] 外部批评
 > - **微观实操界限与物质权力稀释** 批评者指出，过于强调跨尺度关系网络与[[Transfer Space\|转移空间]]的[[Discourse|话语]]转译，容易模糊硬性国家财政约束、地缘政治强制与主权安全审查等刚性结构力量对政策流动的决定性封锁作用。

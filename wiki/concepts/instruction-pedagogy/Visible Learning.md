@@ -5,7 +5,7 @@ aliases:
 summary: "John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 163
+related_count: 162
 related_level: 16
 related_stars: "💎💎💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -45,7 +45,6 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Within-School Variance]]"
   - "[[Category Mistake]]"
-  - "[[Screening Off]]"
   - "[[Interaction Effect]]"
   - "[[Independent Variable]]"
   - "[[Socioeconomic Status]]"
@@ -187,7 +186,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 > [!tip] 知识网络与子条目维护分流指引
@@ -286,7 +285,7 @@ updated: 2026-11-10
 > **八项教师思维框架与认识论自觉** 教师的教学效能根本上取决于其内隐的思维框架（Mind Frames）。以“认识自身影响（Know thy impact）”为核心枢纽，成功教师将自己视为变革推动者（Change Agent）、视评价为关于自身教学的反馈、主动与同事校准学业标准、倡导课堂深度对话并视学生错误为宝贵的诊断契机，从而在日常教学中实现持续的自我监控与调整。[[Argument_Hattie_2015_SOTLP\|(Hattie, 2015a, pp. 88–89)]]
 
 > [!claim] Snook et al.
-> **排除校外社会背景与混淆两类方差导致的归因失真** 针对哈蒂将学业成就方差绝大部分归因于校内教师（30%）并将校外家庭与社会结构变量边缘化的论调，斯努克等人指出这是对[[School Effectiveness|学校效能]]实证文献的根本性扭曲。他们援引英国格雷（Gray et al., 1986）针对数十所中学的权威追踪与新西兰哈克（Harker, 1995）的本土大样本实证表明，**70% 至 80% 的校际学业方差均由学生的社会阶层背景与生源构成（Student Mix）所决定**，留给校内所有其他变量（包括教师与[[School Leadership|学校领导]]）解释的方差份额仅占 20% 至 30%。哈蒂混淆了两类完全不同的学校效能[[Paradigm|研究范式]]：第一类研究关注在已知且均等的生源背景下教师教学的具体改善（微观[[Within-School Variance|校内方差]]），而第二类研究关注学校能否克服更广泛的社会不平等（宏观校际方差）。哈蒂误将第一类研究的结论外推至第二类研究，犯下了严重的[[Category Mistake|范畴谬误]]；这种选择性“[[Screening Off|屏蔽]]”校外现实的实证模型，极易导致政策制定者将贫困与阶层不平等的宏观社会问题错误转嫁为一线教师的个人道德与专业责任。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97–99)]]
+> **排除校外社会背景与混淆两类方差导致的归因失真** 针对哈蒂将学业成就方差绝大部分归因于校内教师（30%）并将校外家庭与社会结构变量边缘化的论调，斯努克等人指出这是对[[School Effectiveness|学校效能]]实证文献的根本性扭曲。他们援引英国格雷（Gray et al., 1986）针对数十所中学的权威追踪与新西兰哈克（Harker, 1995）的本土大样本实证表明，**70% 至 80% 的校际学业方差均由学生的社会阶层背景与生源构成（Student Mix）所决定**，留给校内所有其他变量（包括教师与[[School Leadership|学校领导]]）解释的方差份额仅占 20% 至 30%。哈蒂混淆了两类完全不同的学校效能[[Paradigm|研究范式]]：第一类研究关注在已知且均等的生源背景下教师教学的具体改善（微观[[Within-School Variance|校内方差]]），而第二类研究关注学校能否克服更广泛的社会不平等（宏观校际方差）。哈蒂误将第一类研究的结论外推至第二类研究，犯下了严重的[[Category Mistake|范畴谬误]]；这种选择性“屏蔽”校外现实的实证模型，极易导致政策制定者将贫困与阶层不平等的宏观社会问题错误转嫁为一线教师的个人道德与专业责任。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97–99)]]
 
 > [!claim] Nielsen, K. & Klitmøller, J.
 > **剔除社会阶层[[Interaction Effect|调节效应]]制造“阶级盲”教学假象** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）深入考察哈蒂的[[Independent Variable|自变量]]设定指出，哈蒂虽然在元分析综合中汇总了家庭[[Socioeconomic Status|社会经济地位]]（SES）具有高达 $d=0.57$ 的极强效应量，却在后续建构以教师为中心的因果模型时，系统性地将 SES 剔除于调节变量之外。这种做法制造了一种将微观教学孤立于宏观社会结构的“阶级盲”（Class-blind）假象，诱导外界认为教师掌握教学技巧即可完全消除社会不平等。他们援引[[OECD|经济合作与发展组织]]（OECD）及斯努克（Snook）等学者的宏观证据强调，家庭阶层与生源背景在学生学业成就变异中占据主导地位（解释 70%–80% 方差），将社会结构的系统性不平等强行窄化为孤立的教师微观技术问题，不仅违背了教育社会学的基本实证共识，更在客观上掩盖了弱势群体面临的深层阶层壁垒。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 52–54)]]
@@ -380,7 +379,7 @@ updated: 2026-11-10
 >
 > [!tension] 核心张力五：微观[[School Effectiveness|学校效能]]（校内教师改进）vs 宏观社会不平等（70%–80% 生源方差）
 > - **微观可控效能立场（蓝方）** [[John Hattie|哈蒂]]坚持将[[Research Scope|研究范围]]界定在教育者可控的校内因素，主张教师教学效能占 30% 系统方差，是政策能够直接干预的最大枢纽，不应因校外社会因素巨大而陷入无所作为的虚无主义。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 88–90)]]
-> - **结构不平等批判立场（红方）** [[Ivan Snook|斯努克]]等人指出实证显示 70%–80% 校际方差取决于生源构成与阶层背景，混淆校内相对变异与校际绝对差异犯下了严重的[[Category Mistake|范畴谬误]]，选择性[[Screening Off|屏蔽]]校外现实极易沦为政府削减教育经费、将社会不平等转嫁给一线教师的技术官僚武器。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97–99)]] 格雷斯亦指出排除非学校因素制造了单靠教学即可消解不平等的还原主义幻想，成为政策制定者推卸治理贫困责任的便利挡箭牌。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 90–91)]]
+> - **结构不平等批判立场（红方）** [[Ivan Snook|斯努克]]等人指出实证显示 70%–80% 校际方差取决于生源构成与阶层背景，混淆校内相对变异与校际绝对差异犯下了严重的[[Category Mistake|范畴谬误]]，选择性屏蔽校外现实极易沦为政府削减教育经费、将社会不平等转嫁给一线教师的技术官僚武器。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97–99)]] 格雷斯亦指出排除非学校因素制造了单靠教学即可消解不平等的还原主义幻想，成为政策制定者推卸治理贫困责任的便利挡箭牌。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 90–91)]]
 >
 > [!tension] 核心张力六：形式化思维技能训练 vs 教学论教化实质内容（[[Didaktik]] / [[Bildung]]）
 > - **形式化技能综合立场（蓝方）** 哈蒂将学习形式化区分为表层知识、深层思维与理论建构三层级，聚焦跨学科通用思维技能与[[Learning Strategies|学习策略]]的效应量提炼，认为教学内容主要充当策略训练的载体。[[Argument_Hattie_2005_ACER|(Hattie, 2005)]]

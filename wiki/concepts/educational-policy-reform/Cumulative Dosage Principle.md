@@ -9,7 +9,7 @@ aliases:
 summary: "由罗伯特·斯莱文等学者针对教育干预短期效应衰减提出的政策与教学假说，主张克服脉冲式单一干预的局限性，在学前至高中全学段连年推行经过实证检验的高质量教学模式，通过连贯干预剂量的逐年叠加实现学生学业优势的终身稳固累积。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,6 +40,7 @@ related_methods:
   - "[[Cohort Study]]"
 related_instruments: []
 related_persons:
+  - "[[Ben Levin]]"
   - "[[Robert Slavin]]"
 related_facts:
   - "[[Cram Schools]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -64,7 +65,7 @@ updated: 2026-11-03
 > - **用途** 帮助政策制定者与研究者摆脱“单一短期试点即期望一劳永逸”的幼稚政策幻想，系统性化解大规模教育干预中的[[Fade-out Effect\|效应衰减]]（Fade-out Effect）危机。
 > - **边界** 适用于具备贯通性学段进阶规程与实证支持的[[Structured Teaching\|结构化教学]]体系，不适用于彼此孤立、教学哲学相互冲突的碎片化[[Cram Schools\|课后补习]]拼凑。
 
-> [!citation-card] 斯莱文论连年循证干预的累积优势
+> [!citation-card] 斯[[Ben Levin|莱文]]论连年循证干预的累积优势
 > 积极的学校教育体验不能依赖于一次性密集干预，因为这种干预的成效很难长期维持；真正的解决之道在于学校年复一年地使用高保真实施的循证教学模式。虽然无法保证绝对效果，但从学前班到 12 年级连年接受经验证、高保真教学方法的学生，相比未接受者必将获得巨大的累积优势。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *A positive schooling experience depends not on a one-time intense intervention, the impacts of which are unlikely to last, but to schools' use of well-implemented, proven instructional models year after year. It seems likely that students who receive proven, well-implemented instructional methods every year from preschool to 12th grade will have a considerable cumulative advantage over those who do not.*

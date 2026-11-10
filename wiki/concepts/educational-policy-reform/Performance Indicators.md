@@ -7,9 +7,9 @@ aliases:
 summary: "经加工的派生统计量，具技术理性与权力规制双重属性（Le Galès, 2016）。通过将异质系统还原为可比数值与排名，在提供决策信息的同时重塑组织行为；既是构筑“理性表象”的政治脚手架（Steiner-Khamsi et al., 2024），亦在经合组织投入产出系统中以等价空间悬置教育目的哲学辩论（Rizvi & Lingard, 2009），并在超国家治理中形成跨机构数据依附与资产流动（Grek, 2009）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 85
-related_level: 8
-related_stars: "💎💎⭐⭐"
+related_count: 92
+related_level: 9
+related_stars: "💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - concept/educational-policy-reform
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Evidence-Based Policy-Making]]"
   - "[[Social Imaginary]]"
   - "[[Epoché]]"
+  - "[[Transnational Education]]"
   - "[[Policy Brokerage]]"
   - "[[Reflexivity]]"
   - "[[Variable]]"
@@ -63,6 +64,7 @@ related_theories:
   - "[[Policy Instrumentation Theory]]"
   - "[[Educational Governance Framework]]"
   - "[[Human Capital Theory]]"
+  - "[[Governing at a Distance]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Ethnography]]"
@@ -72,6 +74,7 @@ related_persons:
   - "[[Bob Jessop]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
+  - "[[Kenneth King]]"
 related_facts:
   - "[[OECD]]"
   - "[[International Indicators of Education Systems]]"
@@ -89,6 +92,9 @@ related_facts:
   - "[[World Education Indicators]]"
   - "[[World Bank]]"
   - "[[UNESCO]]"
+  - "[[Development Assistance Committee]]"
+  - "[[International Development Targets]]"
+  - "[[Millennium Development Goals]]"
   - "[[Systems Approach for Better Education Results]]"
   - "[[EdStats]]"
   - "[[TIMSS]]"
@@ -106,6 +112,7 @@ related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
   - "[[Argument_Verger_2019_Discourse]]"
+  - "[[Argument_King_2007_CE]]"
   - "[[Argument_Zapp_2017_IJED]]"
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Rust_2009_Reflections]]"
@@ -113,7 +120,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -153,7 +160,7 @@ updated: 2026-11-10
 ---
 
 > [!contrast-table] 统计数据、绩效指标、系统评估与教育排名的多维对比
-> | 维度 | 原始统计（Statistics） | 绩效指标（Performance Indicators） | 教育评估（Educational Evaluation） | 跨国教育排名（Rankings） |
+> | 维度 | 原始统计（Statistics） | 绩效指标（Performance Indicators） | 教育评估（Educational Evaluation） | [[Transnational Education\|跨国教育]]排名（Rankings） |
 > |:---|:---|:---|:---|:---|
 > | **数据性质** | 一阶原始观测计数（如教师数、校舍面积） | 多源合成、模型加权的二阶派生统计量 | 质性与量化综合的深度情境化诊断报告 | 基于指标综合得分进行的高利害名次序数排列 |
 > | **核心功能** | 基础建档、资源摸底、静态备案 | 系统状态概览、异常动态报警（仪表盘警示灯） | 探寻教育现象的因果机理、鉴定政策得失 | 营造制度竞争秩序、触发命名与羞辱 |
@@ -265,8 +272,8 @@ updated: 2026-11-10
 > - **1988 — [[International Indicators of Education Systems|INES]] 项目启动与指标工业化奠基** OECD 正式设立“[[International Education|国际教育]]指标开发项目”（INES），系统研制涵盖产出、投入与过程的三维指标体系，博塔尼（Bottani）确立以实用为主的政策工具导向。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 8)]]
 > - **1990s — [[World Education Indicators|世界教育指标]]（WEI）项目与多边技术同盟** OECD 联合[[World Bank|世界银行]]与[[UNESCO|联合国教科文组织]]发起“世界教育指标”（WEI）项目，向转型期经济体输出比较教育数据与绩效指标技术方案（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 443–444]]）。
 > - **1992 — 《[[Education at a Glance|教育概览]]》（EAG）首版与指标制度化** OECD 正式出版首部《[[Education at a Glance|教育概览]]》，标志着教育绩效指标实现年度常规化出版，确立了全球通用的比较指标标准体系。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 11)]]
-> - **1996 — 经合组织 DAC 报告确立国际发展指标（IDTs）** 经合组织发展援助委员会（DAC）在巴黎闭门通过《塑造21世纪》报告，将全球教育目标首次窄化为初等普及与性别两项国际发展指标。[[Argument_King_2007_CE|(King, 2007, pp. 380–383)]]
-> - **2000 — 联合国千年发展目标（MDGs）量化指标体系** 联合国秘书处会同世界银行等机构的技术官僚，将千年宣言提炼为 8 项目标与 48 项指标，将教育议程压缩为初等与性别两项硬指标。[[Argument_King_2007_CE|(King, 2007, pp. 383–386)]]
+> - **1996 — 经合组织 [[Development Assistance Committee|DAC]] 报告确立国际发展指标（[[International Development Targets|IDTs]]）** 经合组织发展援助委员会（DAC）在巴黎闭门通过《塑造21世纪》报告，将全球教育目标首次窄化为初等普及与性别两项国际发展指标。[[Argument_King_2007_CE|(King, 2007, pp. 380–383)]]
+> - **2000 — [[Millennium Development Goals|联合国千年发展目标]]（MDGs）量化指标体系** 联合国秘书处会同世界银行等机构的技术官僚，将千年宣言提炼为 8 项目标与 48 项指标，将教育议程压缩为初等与性别两项硬指标。[[Argument_King_2007_CE|(King, 2007, pp. 383–386)]]
 > - **2000s — 欧盟里斯本战略与经合组织数据采购共生** 欧盟启动里斯本战略并以开放协调法（OMC）确立教育绩效指标体系，其监测框架中 50%–60% 的指标数据直接采购自 OECD，形成跨机构数据依附网络（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, p. 32]]）。
 > - **2000s — PISA 与心理测量跨国排名的全面渗透** 跨国评估演变为以标准分数排序决定国家教育优劣的全球问责机制，超越了单纯提供系统概况的统计功能。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 13)]]
 > - **2010s — 区域记分牌与多边排他性同盟分化** 欧盟推广区域创新记分牌（[[Regional Innovation System|RIS]]）；世界银行开发“[[Systems Approach for Better Education Results|改善教育成果系统分析法]]”（[[Systems Approach for Better Education Results|SABER]]），各多边机构形成自成体系的指标数据库并建立政策同盟。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 169–170)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 545–546)]]
@@ -322,7 +329,7 @@ updated: 2026-11-10
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Technical Rationality]] | 概念 | 绩效指标获取客观中立外表与数理统计合法性的核心理性形态。 |
-> | [[Governing by Numbers]] | 概念 | 以量化指标、统计审计与评比排名为特征的现代远处治理机制。 |
+> | [[Governing by Numbers]] | 概念 | 以量化指标、统计审计与评比排名为特征的现代[[Governing at a Distance\|远处治理]]机制。 |
 > | [[Façade of Rationality]] | 概念 | 指标为政治决策者在政策歧义性环境下所构筑的理性表象防护脚手架。 |
 > | [[Scaffolding]] | 概念 | 指标作为量化支撑物协助政策制定者抵御问责并激发政治叙事的功能。 |
 > | [[Steering at a Distance]] | 概念 | 超国家组织依托跨国指标与基准考核对主权国家实施的远程调控。 |

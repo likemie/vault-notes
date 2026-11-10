@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,8 @@ related_concepts:
   - "[[Document]]"
   - "[[Knowledge Mediation]]"
   - "[[Paradigm]]"
+  - "[[Policy Translation]]"
+  - "[[Research Integration]]"
   - "[[Policy Brokerage]]"
   - "[[International Education]]"
   - "[[Boundary Spanner]]"
@@ -48,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -73,8 +75,8 @@ updated: 2026-10-30
 ---
 
 > [!mechanism] 运行机制与核心职能
-> - **中间车道敏捷转化（Middle Lane Brokerage）** 针对政务快节奏与科研慢周期的冲突，设立专门的政策转译流水线。将平均需要数年审稿的学术成果与基层评估报告，压缩合成为决策者可在十分钟内审阅的要点简报与逻辑框架图。
-> - **双轨证据包容（Dual-Track Evidence Integration）** 打破单纯尊崇国际顶级期刊的狭隘取向，同等重视全球南方教育部未公开的行业评估报告、非政府组织实地手记与一线教师的实践经验，克服全球北方学术文献的语境偏见。
+> - **中间车道敏捷转化（Middle Lane Brokerage）** 针对政务快节奏与科研慢周期的冲突，设立专门的[[Policy Translation|政策转译]]流水线。将平均需要数年审稿的学术成果与基层评估报告，压缩合成为决策者可在十分钟内审阅的要点简报与逻辑框架图。
+> - **双轨证据包容（Dual-Track [[Research Integration|Evidence Integration]]）** 打破单纯尊崇国际顶级期刊的狭隘取向，同等重视全球南方教育部未公开的行业评估报告、非政府组织实地手记与一线教师的实践经验，克服全球北方学术文献的语境偏见。
 > - **政策对话与[[Peer Debriefing|同行审议]]营建** 依托圆桌会议与在线闭门研讨，直接邀请政策制定官员与课题研究团队进行针对性答辩，促成政学双方在预算约束与实施阻力上的深层共识。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 14, 38)]]
 
 ---

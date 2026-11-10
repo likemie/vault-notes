@@ -7,10 +7,10 @@ status: stable
 created: 2026-10-01
 nationality: uk
 person_region: "uk"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: 1915
 died: 1998
 lifespan: "1915–1998"
@@ -26,6 +26,7 @@ aliases:
   - Harry Armytage
   - Walter Harry Green Armytage
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Intercultural Education]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Humboldtian Model of Higher Education]]"
@@ -38,11 +39,11 @@ related_methods: []
 related_facts:
   - "[[Sputnik Shock 1957]]"
 related_persons: []
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 > [!abstract] 学者生平
-> **沃尔特·哈里·格林·阿米蒂奇（Walter Harry Green Armytage，1915–1998）**，英国著名教育史学家、历史学家。曾长期担任谢菲尔德大学（University of Sheffield）教育学讲座教授与教育系主任。阿米蒂奇学术涉猎极其广博，横跨科技社会史、乌托邦思想史与跨国教育制度互动史。
+> **沃尔特·哈里·格林·阿米蒂奇（Walter Harry Green Armytage，1915–1998）**，英国著名教育史学家、历史学家。曾长期担任谢菲尔德大学（University of Sheffield）教育学讲座教授与教育系主任。阿米蒂奇学术涉猎极其广博，横跨科技社会史、乌托邦思想史与[[Transnational Education|跨国教育]]制度互动史。
 
 在比较教育与跨国教育史研究中，阿米蒂奇以其开创性的[[Intercultural Education|跨文化教育]]影响实证史学研究而著称。
 
@@ -59,7 +60,7 @@ updated: 2026-10-26
 
 ### 学史定性与方法论范式
 如 Val D. [[Argument_Rust_2009_Reflections|Rust et al. (2009)]]在评述比较教育学中的“[[Influences Across Cultures|跨文化影响]]”（Cross-Cultural Influences）研究脉络时所指出的：
-- 阿米蒂奇的四部曲代表了**跨国教育影响实证考证的最高史学[[Paradigm|范式]]**；
+- 阿米蒂奇的四部曲代表了 **[[Transnational Education|跨国教育]]影响实证考证的最高史学[[Paradigm|范式]]**；
 - 这一研究证明：比较教育学中的外部影响考察绝非单纯抽象的政治口号借用，而是建立在浩瀚的历史档案、往来通信、制度立法与思想传播脉络之上的严谨学术探索。
 
 ---

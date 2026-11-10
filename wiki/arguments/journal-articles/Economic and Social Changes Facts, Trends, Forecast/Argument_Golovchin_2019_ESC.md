@@ -9,7 +9,7 @@ title: "Argument_Golovchin_2019_ESC"
 argument_key: "Argument_Golovchin_2019_ESC"
 argument_display_title: "What kind of teacher does the 'school of the future' need? Possibility of using John Hattie's approach in Russian education"
 argument_kind: "journal-article"
-argument_related_count: 46
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
 - meta-analysis
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Homophily]]"
   - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[Paradigm]]"
@@ -68,6 +69,7 @@ related_persons:
 related_facts:
   - "[[Teaching and Learning International Survey]]"
   - "[[Russian Translation of Visible Learning]]"
+  - "[[New Zealand Quality Teaching Strategy]]"
 related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Terhart_2011_JCS]]"
@@ -78,7 +80,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: 2026-10-29
+updated: 2026-11-11
 year: 2019
 doi: "10.15838/esc.2019.5.65.15"
 citation_aliases:
@@ -91,7 +93,7 @@ citation_aliases:
 > [[John Hattie]] 的[[Visible Learning|可见的学习]]在多大程度上适用于俄罗斯教育？其科学论据与[[Effect Size|效应量]]计算的数理基础是否可靠？将 Hattie 的理念纳入俄罗斯各级教育政策是否具有现实可行性？
 
 > [!claim] 核心主张
-> Hattie 的[[Visible Learning|可见的学习]]所依据的 133 项正值[[Effect Size|效应量]]在统计上极度离散不均，变差系数达到 56.87%，远超 33% 的同质性安全标准，其得出的普适指标缺乏坚实的数理依据；同时，该理论将教师降格为学习过程调节者并推行量化考核，与俄罗斯教师职业声望低、行政报表负担沉重的现实直接冲突，盲目借鉴将引发教师大量流失的制度陷阱，因而不应作为俄罗斯教育政策的指导方案。
+> Hattie 的[[Visible Learning|可见的学习]]所依据的 133 项正值[[Effect Size|效应量]]在统计上极度离散不均，变差系数达到 56.87%，远超 33% 的[[Homophily|同质性]]安全标准，其得出的普适指标缺乏坚实的数理依据；同时，该理论将教师降格为学习过程调节者并推行量化考核，与俄罗斯教师职业声望低、行政报表负担沉重的现实直接冲突，盲目借鉴将引发教师大量流失的制度陷阱，因而不应作为俄罗斯教育政策的指导方案。
 
 > [!concept-lens] 阅读透镜
 > - **对象** Hattie 综合的 133 项效应量数据、西方学界针对该书的代表性批评[[Document|文献]]，以及俄罗斯近年教育调查数据，包括全俄民意研究中心（Russian Public Opinion Research Center, VTsIOM）、[[Teaching and Learning International Survey|教师教学国际调查]]（Teaching and Learning International Survey, TALIS-2013）、俄罗斯总统国民经济与公共管理行政学院（Russian Presidential Academy of National Economy and Public Administration, RANEPA）监测与沃洛格达州教师追踪调查。
@@ -268,7 +270,7 @@ citation_aliases:
 > [!sub-claim] 2. 澳大利亚的教训与俄罗斯基层教师的报表困局
 
 > [!case] 澳大利亚引入量化问责的前车之鉴
-> 澳大利亚是推行 Hattie 理念最彻底的国家，其依据《[[Visible Learning|可见的学习]]》原则推行优质教学模型（Quality Teaching Model, QTM），将教学行为细化为一套外部指标监控体系。这一做法导致学校管理深陷无休止的数据制造与留痕自证，被澳大利亚学者 [[Scott Eacott]] 痛批为“澳大利亚教育领导力的悲剧”。
+> 澳大利亚是推行 Hattie 理念最彻底的国家，其依据《[[Visible Learning|可见的学习]]》原则推行优质教学模型（[[New Zealand Quality Teaching Strategy|Quality Teaching]] Model, QTM），将教学行为细化为一套外部指标监控体系。这一做法导致学校管理深陷无休止的数据制造与留痕自证，被澳大利亚学者 [[Scott Eacott]] 痛批为“澳大利亚教育领导力的悲剧”。
 
 > [!policy-context] 俄罗斯教师的行政报表重负与离职危机
 > - **全俄中学的普遍痛点** 俄罗斯总统行政学院全俄监测显示，**79% 的中学教师**反映文书与报表工作量逐年暴增，导致日常教学不堪重负。学者已将这种无休止的文书运转定性为教育体制的组织病理。

@@ -8,7 +8,7 @@ summary: "美国发展心理学家与科研生涯计量早期开拓者，曾任�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Scientific Productivity]]"
   - "[[Champ]]"
   - "[[Creativity]]"
+  - "[[Scientific Creativity]]"
   - "[[Big Science]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Research Universities]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -64,7 +65,7 @@ updated: 2026-10-30
 > - **1930–1942** 任教于弗吉尼亚大学，从事儿童环境剥夺、双生子比较及动作技能发育实验。
 > - **1951–1962** 担任纽约市立大学布鲁克林学院心理学系主任，开拓跨年龄毕生发展与智力[[Creativity|创造力]]轨迹研究。
 > - **1954** 在《科学月刊》（*Scientific Monthly*）发表奠基文献 *Bibliographies of eminent scientists*，首次以 71 位科学院顶尖科学家样本验证生产力与显赫性的正相关。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 15)]]
-> - **1956–1966** 连续在 *Science* 与心理学期刊发表多篇关于科学家学术年龄与科研创造力生命周期的权威论著。
+> - **1956–1966** 连续在 *Science* 与心理学期刊发表多篇关于科学家学术年龄与[[Scientific Creativity|科研创造力]]生命周期的权威论著。
 > - **1976** 逝世，享年 70 岁。
 
 ---

@@ -6,7 +6,7 @@ summary: "通过汇总多项独立初级研究的效应量来综合定量证据�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 124
+method_related_count: 125
 method_related_level: 12
 method_related_stars: "💎💎💎💎"
 method_related_color: "#dcfce7"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Critique of Meta-analysis]]"
   - "[[Document]]"
+  - "[[Homophily]]"
   - "[[Paradigm]]"
   - "[[Months of Progress]]"
   - "[[Variable]]"
@@ -51,6 +52,7 @@ related_concepts:
   - "[[Research Contribution]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Professional Judgment]]"
+  - "[[Policy Translation]]"
   - "[[Critique of Meta-meta-analysis]]"
   - "[[Class Size]]"
   - "[[Academic Achievement]]"
@@ -73,7 +75,6 @@ related_concepts:
 related_theories:
   - "[[Punctuated Equilibrium Theory]]"
   - "[[Critical Realism]]"
-  - "[[Stability vs. Variability Dilemma]]"
   - "[[Third Generation Activity Theory]]"
 related_methods:
   - "[[Effect Size]]"
@@ -152,7 +153,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 
 ---
@@ -189,7 +190,7 @@ updated: 2026-11-09
 
 > [!dev-timeline] 元分析的历史演进脉络
 > - **1904 — 跨研究合并的先声** [[Karl Pearson]] 在 *BMJ* 发表伤寒疫苗接种统计报告，计算并比较多组接种数据中的相关系数并取其平均，是合并多项研究结果的早期尝试 ([[Argument_Higgins_2016_ROE|Higgins, 2016]])。
-> - **1930s–1950s — 合并推断的统计基础** Fisher (1932) 提出合并独立 $p$ 值的方法；Cochran (1954) 提出检验多项研究结果同质性的 $Q$ 统计量。
+> - **1930s–1950s — 合并推断的统计基础** Fisher (1932) 提出合并独立 $p$ 值的方法；Cochran (1954) 提出检验多项研究结果[[Homophily|同质性]]的 $Q$ 统计量。
 > - **1976–1977 — 命名与[[Paradigm|范式]]确立** [[Gene Glass]] (1976) 在美国教育研究协会主席演说中提出 meta-analysis；Smith and Glass (1977) 综合 375 项心理治疗研究，得出平均效应量约 0.68 个标准差，确立以[[Effect Size|效应量]]为通用尺度的综合范式。
 > - **1979–1986 — 统计理论成形** Rosenthal (1979) 提出[[Fail-Safe N|失安全数]]；Hedges (1981) 给出效应量的抽样分布与小样本校正 $g$；Hedges (1983) 提出效应量的[[Random-Effects Model|随机效应模型]]；Orwin (1983) 提出基于效应量阈值的失安全数；Hedges and Olkin (1985) 出版系统的统计方法专著；DerSimonian and Laird (1986) 提出 $\tau^2$ 的矩估计。
 > - **1990s–2000s — 系统综述的制度化** Cochrane 协作网于 1993 年成立；QUOROM 声明 (1999) 及其后继 [[PRISMA]] 声明 (2009, 2020) 规范了[[Systematic Review|系统综述]]与元分析的报告；Higgins and Thompson (2002) 提出 $I^2$ 统计量。
@@ -351,7 +352,7 @@ updated: 2026-11-09
 > 3. **证据库偏倚** [[Publication Bias|发表偏倚]]、选择性报告与数据提取错误会系统扭曲合并结果 ([[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]; [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]])。
 > 4. **统计独立性** 同一研究的多个效应量相关，按独立处理会低估[[Standard Error|标准误]] (Cheung, 2014)。
 > 5. **平均效应掩盖[[Heterogeneity|异质性]]** 平均[[Effect Size|效应量]]不回答“对谁、在何种情境下有效”，Kluger and DeNisi (1996) 的反馈研究中约 38% 的效应为负 ([[Argument_Wiliam_2019_ERE|Wiliam, 2019]])。
-> 6. **政策转译** 效应量排行榜与二阶聚合会放大上述问题 ([[Argument_Terhart_2011_JCS|Terhart, 2011]]; [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]])。
+> 6. **[[Policy Translation|政策转译]]** 效应量排行榜与二阶聚合会放大上述问题 ([[Argument_Terhart_2011_JCS|Terhart, 2011]]; [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]])。
 >
 > 各项局限的论证、案例与支持者回应见 [[Critique of Meta-analysis]]；二阶综合特有的问题见 [[Critique of Meta-meta-analysis]]。
 
@@ -412,4 +413,4 @@ updated: 2026-11-09
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 实证剖析北欧基础教育改革中元分析证据的策略性动员边界：委员会在学习科学领域高度依赖元分析与系统综述以确立政策合法性，而在课程等高度情境依赖领域则因因果可迁移性受限而补充非经验与质性证据（pp. 535–538）。
 > - 针对元分析的批判、审计与[[Epistemology|认识论]]反思文献（Wecker et al., 2016；Nielsen & Klitmøller, 2021a；Terhart, 2011；Larsen, 2019；Kalmendal et al., 2025 等）见 [[Critique of Meta-analysis]]。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 推导两级固定效应合成的等价条件，揭示 SE/SD 混淆与伪[[Standard Error|标准误]]对合成结果的影响；详见 [[Critique of Meta-analysis]]。
-> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 二阶聚合的信息损耗、时效滞后与[[Stability vs. Variability Dilemma|稳定性/变异性]]双重困境；详见 [[Critique of Meta-analysis]]。
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 二阶聚合的信息损耗、时效滞后与稳定性/变异性双重困境；详见 [[Critique of Meta-analysis]]。

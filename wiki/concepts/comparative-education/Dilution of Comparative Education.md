@@ -10,7 +10,7 @@ aliases:
 summary: "沃尔夫冈·米特等学者对当代比较教育学学科边界模糊与专业品质下降提出的警示性概念。指随着全球化与跨国数据热潮，出现“人人都在比较并自称比较学者”的实务蔓延现象，大量研究缺乏对比较哲学、历史脉络与方法论的系统学术训练，放弃了对学科认识论身份的持续界定，致使比较教育学面临丧失鲜明学科轮廓与批判深度、沦为浅层政策对照与技术工具的危机。"
 type: concept
 domain: "comparative-education"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,6 +19,7 @@ tags:
   - theme/epistemology
   - theme/historiography
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Epistemology]]"
   - "[[Rich and Thick Description]]"
   - "[[Policy Borrowing]]"
@@ -47,13 +48,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Dilution of Comparative Education
-> **比较教育的稀释（Dilution of Comparative Education）** 是指在全球化扩张与跨国教育治理热潮中，由于缺乏严格的理论与方法论训练，“人人都在比较并自称比较学者”（everybody compares and claims to be a comparativist），导致比较教育学丧失其独特的学科轮廓（specific contours）与[[Epistemology|认识论]]身份的退化现象。该概念由德国比较教育学家[[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter）于 2009 年系统提出，意在警示浅层经验对照、脱离文化脉络的指标罗列与政策工具主义对两百年比较教育学术根基的侵蚀。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 98–99)]]
+> **比较教育的稀释（Dilution of Comparative Education）** 是指在全球化扩张与[[Transnational Education|跨国教育]]治理热潮中，由于缺乏严格的理论与方法论训练，“人人都在比较并自称比较学者”（everybody compares and claims to be a comparativist），导致比较教育学丧失其独特的学科轮廓（specific contours）与[[Epistemology|认识论]]身份的退化现象。该概念由德国比较教育学家[[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter）于 2009 年系统提出，意在警示浅层经验对照、脱离文化脉络的指标罗列与政策工具主义对两百年比较教育学术根基的侵蚀。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 98–99)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指称伴随比较实务的大众化与国际评测普及，比较教育的专业门槛被解构，沦为无理论深度的现象拼贴或行政报告附庸。

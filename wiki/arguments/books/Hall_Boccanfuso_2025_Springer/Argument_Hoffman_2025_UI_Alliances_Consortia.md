@@ -28,6 +28,7 @@ related_concepts:
   - "[[Technology Transfer Office]]"
   - "[[Workforce Development]]"
   - "[[Foreground IP]]"
+  - "[[Cumulative Innovation]]"
   - "[[Pre-negotiated IP Rights]]"
   - "[[Product-Specific Research]]"
   - "[[Research Translation]]"
@@ -56,14 +57,14 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-28
-updated: 2026-10-26
+updated: 2026-11-11
 subtype: book-chapter
 publication_type: book
 title: "Argument_Hoffman_2025_UI_Alliances_Consortia"
 argument_key: "Argument_Hoffman_2025_UI_Alliances_Consortia"
 argument_display_title: "University-Industry Alliances and Consortia"
 argument_kind: "book"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#ede9fe"
@@ -163,7 +164,7 @@ citation_aliases:
 >
 > 10. CAP 有两种法律形式：**捐赠型（gift-based）** 和**合同型（contract-based）**。捐赠型流程快——因为不承诺直接交付物或知识产权——但企业获得感也少。合同型适合以研究为重点的 CAP：多企业汇集资金，共同投票选择资助哪些项目，研究结束后谈判[[Foreground IP\|前景知识产权]]（Foreground Intellectual Property, FIP）许可。如果所有成员都不追求许可，大学可以许可给第三方。常见做法是先汇集资金做一轮探索性研究，有前景的方向再由个别企业出资做校外聚焦研究(pp.110–111)。
 >
-> > 一个跨校的"学习科学 CAP"由三所大学联合运营，12 家教育科技企业各缴纳 $25K 年费。年度流程是：秋季所有成员在技术委员会上听取教授的项目提案并投票选出入选项目，研究资金从会费池中拨出；次年夏季成果展示会上，成员决定是否对某个成果行使优先许可权。一家做自适应学习平台的公司看中了某项目产出的"知识追踪算法"，在成果展示会后单独出资 $150K 与教授开展专项后续研究。这就是 CAP 的核心功能：**用会费池做探索，用专项研究做转化**。
+> > 一个跨校的"学习科学 CAP"由三所大学联合运营，12 家教育科技企业各缴纳 $25K 年费。年度流程是：秋季所有成员在技术委员会上听取教授的项目提案并投票选出入选项目，研究资金从会费池中拨出；次年夏季成果展示会上，成员决定是否对某个成果行使优先许可权。一家做自适应学习平台的公司看中了某项目产出的"知识追踪算法"，在成果展示会后单独出资 $150K 与教授开展专项[[Cumulative Innovation|后续研究]]。这就是 CAP 的核心功能：**用会费池做探索，用专项研究做转化**。
 >
 > ---
 >

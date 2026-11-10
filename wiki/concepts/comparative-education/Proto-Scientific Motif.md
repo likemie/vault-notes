@@ -9,7 +9,7 @@ aliases:
 summary: "源自朱利安《比较教育工作计划》的学科发端母题，主张将教育比拟于比较解剖学等自然科学，运用标准化问卷与比较观察表归纳普遍法则，并将经验事实探究深嵌于全人体智德启蒙与欧洲永久和平的人道世界主义关怀"
 type: concept
 domain: "comparative-education"
-related_count: 37
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -24,8 +24,8 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
-  - "[[Value Neutrality]]"
   - "[[Perpetual Peace]]"
+  - "[[Value Neutrality]]"
   - "[[Scientific Method]]"
   - "[[Operationalization]]"
   - "[[Variable]]"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Educational Meliorism]]"
   - "[[Geisteswissenschaften]]"
   - "[[Scale of Measurement]]"
+  - "[[Transnational Education]]"
   - "[[Performance Indicators]]"
   - "[[Scientism]]"
   - "[[Leading Questions]]"
@@ -49,6 +50,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Marc-Antoine Jullien]]"
+  - "[[Francis Bacon]]"
   - "[[Victor Cousin]]"
   - "[[Horace Mann]]"
   - "[[Calvin Stowe]]"
@@ -67,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -77,7 +79,7 @@ updated: 2026-11-03
 准科学母题（Proto-Scientific Motif），又称准科学人道改良母题（The Proto-Scientific Humanistic and Meliorist Motif），是指发端于 19 世纪初、以[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）在 1817 年《比较教育工作计划与初步构想》中所奠定的比较教育初始[[Paradigm|范式]]。
 
 > [!def] Proto-Scientific Motif
-> 准科学母题是比较教育学科史中将经验事实归纳法与崇高人道主义关怀高度统一的初始[[Epistemology\|认识论]]形态。该母题受到培根科学统一构想与早期[[Positivism\|实证主义]]触动，将教育类比于居维叶的比较解剖学，主张通过统一编制标准分类[[Questionnaire\|问卷调查]]表与比较观察图表（Comparative Observation Tables），客观系统地收集欧洲各国的教育“事实与观察”，进而归纳推导出确定的教育科学普遍原则；同时，这一科学经验探究是本体性地深嵌于全人体智德教化、消除盲目狂热与实现欧洲[[Perpetual Peace\|永久和平]]的崇高伦理使命之中，有别于[[Value Neutrality\|价值无涉]]的技术测量。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 11–14, 23–24, 33–34)]]
+> 准科学母题是比较教育学科史中将经验事实归纳法与崇高人道主义关怀高度统一的初始[[Epistemology\|认识论]]形态。该母题受到[[Francis Bacon|培根]]科学统一构想与早期[[Positivism\|实证主义]]触动，将教育类比于居维叶的比较解剖学，主张通过统一编制标准分类[[Questionnaire\|问卷调查]]表与比较观察图表（Comparative Observation Tables），客观系统地收集欧洲各国的教育“事实与观察”，进而归纳推导出确定的教育科学普遍原则；同时，这一科学经验探究是本体性地深嵌于全人体智德教化、消除盲目狂热与实现欧洲[[Perpetual Peace\|永久和平]]的崇高伦理使命之中，有别于[[Value Neutrality\|价值无涉]]的技术测量。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 11–14, 23–24, 33–34)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指称现代比较教育学在告别古代轶事游记、迈向现代学科形态时所确立的“准实证科学化（almost nearly a positive science）”冲动与其不可分割的启蒙人文主义底色。
@@ -116,7 +118,7 @@ updated: 2026-11-03
 
 > [!feature] 核心要素
 > - **比较解剖学类比与经验事实归纳（Comparative Anatomy Analogy and Induction）** 坚信人类社会与精神现象与自然界一样受普遍法则支配，主张通过系统收集、分类排列可观测的客观“事实与观察”，借由跨国对比归纳出教育改进的永恒规程。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 12–13)]]
-> - **标准化[[Questionnaire\|问卷]]与分析观察图表（Standardised Questionnaire and Comparative Tables）** 设计涵盖初等、中等、师范、女子教育等领域的精密问卷系统，将复杂的跨国教育实践分解为统一主题下的可比事实图表，开创[[Performance Indicators\|教育指标]]与量化/质性事实调查的制度雏形。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 14–16)]]
+> - **标准化[[Questionnaire\|问卷]]与分析观察图表（Standardised Questionnaire and Comparative Tables）** 设计涵盖初等、中等、师范、女子教育等领域的精密问卷系统，将复杂的[[Transnational Education|跨国教育]]实践分解为统一主题下的可比事实图表，开创[[Performance Indicators\|教育指标]]与量化/质性事实调查的制度雏形。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 14–16)]]
 > - **全人教化与心灵能力平衡的价值基石（Humanistic Tripartite Cultivation）** 恪守身心智三位一体的教育人类学假设，将感官教育（[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]路线）、自然自由（[[Jean-Jacques Rousseau\|卢梭]]路线）与理性道德（[[Immanuel Kant\|康德]]路线）作为问卷指标的隐性评判标准，坚决反对抽离道德灵魂的机械技术主义。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 17–18, 23–24)]]
 > - **超国家制度网络与和平治理基础设施（Transnational Institutional Network）** 设想常设特别教育委员会（Special Commission on Education）、示范师训学院与多语种通报期刊（*[[Revue encyclopédique]]*），将比较探究作为培育世界公民意识与消除野蛮战争的基础设施。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 21–23)]]
 

@@ -8,38 +8,54 @@ aliases:
 summary: "个体对特定学科专业领域长期稳定的内在价值认同、深层探究热情与求知定向，兼具超越情境刺激的认知坚守与学术抱负，构成拔尖创新人才从事深层次知识创造的核心内在动力。"
 type: concept
 domain: "higher-education"
-related_count: 6
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 22
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/higher-education
   - theme/academic-talent
   - theme/talent-cultivation
   - theme/learning-interest
 related_concepts:
+  - "[[Paradigm]]"
+  - "[[Champ]]"
+  - "[[Commensuration]]"
+  - "[[Document]]"
+  - "[[Research Question]]"
+  - "[[Knowledge Production]]"
+  - "[[Heterogeneity]]"
+  - "[[Early-Career Researchers]]"
+  - "[[Variable]]"
   - "[[Doctoral Dissertation]]"
   - "[[Mentorship]]"
   - "[[Scientific Mobility]]"
   - "[[EST Integrated Development]]"
+  - "[[Original Innovation Capability]]"
+  - "[[Continuous Research Funding]]"
 related_theories: []
 related_methods:
+  - "[[Effect Size]]"
   - "[[Curriculum Vitae Analysis]]"
+  - "[[In-depth Interview]]"
+  - "[[Questionnaire]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[John Dewey]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Zhang_Zhao_2026_EDR]]"
+  - "[[Argument_Mo_2026_BNSFC]]"
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Professional Interest
-> 专业志趣（Professional Interest）指学者或受教育者在学术发展历程中形成的对特定学科领域、核心科学问题与理论范式兼具长期稳定性、深层探究热情、学术抱负与价值承诺的内在动力系统。它超越了自发而短暂的情境性好奇，表现为在面临实验挫折、研究瓶颈与长期不确定性时依然坚持深度钻研的认知定向与心智投入。[[Argument_Zhang_Zhao_2026_EDR|(张娟和赵祥辉, 2026, p. 36)]]
+> 专业志趣（Professional Interest）指学者或受教育者在学术发展历程中形成的对特定学科领域、核心科学问题与理论[[Paradigm|范式]]兼具长期稳定性、深层探究热情、学术抱负与价值承诺的内在动力系统。它超越了自发而短暂的情境性好奇，表现为在面临实验挫折、研究瓶颈与长期不确定性时依然坚持深度钻研的认知定向与心智投入。[[Argument_Zhang_Zhao_2026_EDR|(张娟和赵祥辉, 2026, p. 36)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 强调专业抱负、稳定探究好奇与专业学术活动规范化实践的深度结合，是拔尖创新人才实现自主知识创造的心理底色。
@@ -47,7 +63,7 @@ updated: 2026-11-04
 > - **边界** 不等于单一课程的浅层情境兴趣，亦不等于追求功利声望的职业升迁诉求；它始终以深层学术问题为中心。
 
 > [!citation-card|notitle] 专业志趣在卓越学术人才成长中的核心定位
-> 专业志趣是学术人才成长和开展知识探究的内在动力系统。以 1901—2025 年诺贝尔奖得主为代表的卓越学术人才群体，其专业志趣整体上主要形成于高等教育阶段：49.31% 的诺奖得主在本科阶段确立专业志趣，另有 16.07% 在研究生阶段进一步定型，表明高等教育构成专业志趣濡染、强化和定型的核心场域。[[Argument_Zhang_Zhao_2026_EDR|(张娟和赵祥辉, 2026, p. 36)]]
+> 专业志趣是学术人才成长和开展知识探究的内在动力系统。以 1901—2025 年诺贝尔奖得主为代表的卓越学术人才群体，其专业志趣整体上主要形成于高等教育阶段：49.31% 的诺奖得主在本科阶段确立专业志趣，另有 16.07% 在研究生阶段进一步定型，表明高等教育构成专业志趣濡染、强化和定型的核心[[Champ|场域]]。[[Argument_Zhang_Zhao_2026_EDR|(张娟和赵祥辉, 2026, p. 36)]]
 >
 > *Professional interest constitutes the intrinsic driving system for the growth of academic talents and their knowledge inquiry. The professional interest of Nobel laureates was overall mainly formed during the higher education stage.*
 
@@ -62,14 +78,14 @@ updated: 2026-11-04
 > | 维度 | 专业志趣（Professional Interest） | 情境兴趣（Situational Interest） | 学科认同（Disciplinary Identity） |
 > |---|---|---|---|
 > | **核心特征** | 长期探究承诺与学术价值认同 | 即时好奇心与感官新奇感 | 学科范式规范遵从与共同体归属感 |
-> | **形成机制** | 长期科研实践、实验室浸润与理论通约 | 教师生动讲授、偶发性实验现象展示 | 专业学术规训、期刊发表与同行评价 |
+> | **形成机制** | 长期科研实践、实验室浸润与理论[[Commensuration\|通约]] | 教师生动讲授、偶发性实验现象展示 | 专业学术规训、期刊发表与同行评价 |
 > | **维持韧性** | 面临多年研究失败与枯燥训练依然坚守 | 失去外部新颖刺激后迅速衰减 | 依赖学术体制内的组织职位与同行认可 |
 
 ---
 
 > [!feature] 核心要素
 > - **内在价值认同与探究执念** 个体对学科深层知识结构与未解之谜产生不可动摇的敬畏与好奇，确立长程学术生涯锚点。[[Argument_Zhang_Zhao_2026_EDR|(张娟和赵祥辉, 2026, p. 36)]]
-> - **前沿科学实践与环境浸润** 本科或研究生早期的实验室助研经历、前沿文献研读与真实科研课题参与，将模糊好奇转化为具体专业研究问题。[[Argument_Zhang_Zhao_2026_EDR|(张娟和赵祥辉, 2026, p. 36)]]
+> - **前沿科学实践与环境浸润** 本科或研究生早期的实验室助研经历、前沿[[Document|文献]]研读与真实科研课题参与，将模糊好奇转化为具体专业[[Research Question|研究问题]]。[[Argument_Zhang_Zhao_2026_EDR|(张娟和赵祥辉, 2026, p. 36)]]
 > - **跨学科通约与方法迁移** 广泛涉猎相邻学科，通过跨学科阅读领悟方法共通性，从而激发深层专业志趣。[[Argument_Zhang_Zhao_2026_EDR|(张娟和赵祥辉, 2026, p. 36)]]
 > - **学术志趣与国家需求对接** 基础研究攻坚要求学者将求知好奇心与国家战略需求紧密结合，依托战略科学家领航与产业一线实战打破闭门探索局限。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
 
@@ -92,8 +108,8 @@ updated: 2026-11-04
 
 ---
 
-> [!concept-proposition] 命题二｜学科知识生产逻辑差异决定专业志趣形成的时间窗口分布
-> **学科异质性驱动的定型分化** 自然科学与人文社会科学在知识积累范式与观察工具上的区别，直接导致人才志趣萌生周期的结构性差异。
+> [!concept-proposition] 命题二｜学科[[Knowledge Production|知识生产]]逻辑差异决定专业志趣形成的时间窗口分布
+> **学科[[Heterogeneity|异质性]]驱动的定型分化** 自然科学与人文社会科学在知识积累范式与观察工具上的区别，直接导致人才志趣萌生周期的结构性差异。
 
 > [!claim] [[Argument_Zhang_Zhao_2026_EDR|张娟和赵祥辉 (2026)]]
 > **自然科学早期前移与社会科学大学定型** 物理学（49.63%）、化学（40.68%）与生理学或医学（35.93%）诺奖得主在中学及之前便萌生专业兴趣，且随世代演进向基础教育前移；80.43% 的经济学诺奖得主专业志趣形成集中于高等教育阶段（本科 56.52%，研究生 23.91%），其志趣定型高度依托于大学阶段的方法范式领悟、社会现实观察与理论体系学习。[[Argument_Zhang_Zhao_2026_EDR|(张娟和赵祥辉, 2026, p. 36)]]
@@ -109,10 +125,10 @@ updated: 2026-11-04
 ---
 
 > [!dev-timeline] 概念演变
-> - **1910s — 哲学与教育学奠基** 约翰·杜威在《教育中的兴趣与努力》中确立了兴趣与智力活动、持久努力不可分割的哲学命题。
+> - **1910s — 哲学与教育学奠基** [[John Dewey|约翰·杜威]]在《教育中的兴趣与努力》中确立了兴趣与智力活动、持久努力不可分割的哲学命题。
 > - **1980s–1990s — 心理学四阶段兴趣模型** 发展心理学界（Hidi & Renninger）提出从外部引发的情境兴趣向内部维持的个体兴趣演进的多阶段理论。
 > - **2026 — 顶尖科学家成长规律实证** 张娟与赵祥辉基于 757 位诺贝尔奖得主全景简历与回忆录文本，量化确立了专业志趣在高等教育阶段定型的主导规律与理工科前移趋势。[[Argument_Zhang_Zhao_2026_EDR|(张娟和赵祥辉, 2026, pp. 36–37)]]
-> - **2026 — 战略需求牵引与志趣协同** [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]]基于全国 4,569 份基础研究青年学者实证数据，揭示功利考核对学者科研初心的磨损风险，提出通过战略科学家双主席制领航引导青年学者将个人学术志趣主动融入国家重大战略需求。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
+> - **2026 — 战略需求牵引与志趣协同** [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]]基于全国 4,569 份基础研究[[Early-Career Researchers|青年学者]]实证数据，揭示功利考核对学者科研初心的磨损风险，提出通过战略科学家双主席制领航引导青年学者将个人学术志趣主动融入国家重大战略需求。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
 
 ---
 
@@ -137,10 +153,10 @@ updated: 2026-11-04
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Zhang_Zhao_2026_EDR\|张娟和赵祥辉 (2026)]] | 1901—2025 年自然科学与经济学诺奖得主（$N=757$） | 简历编码与传记文本扎根分析 | 专业志趣形成时期分布（中学前、中学、本科、研究生、职业期） | 本科确立占 49.31%，研究生确立占 16.07%，大学及以上合计 65.38%；中学及之前萌生比例由早期 33.33% 攀升至当代 50.00%；经济学 80.43% 形成于大学阶段（本科 56.52%、研究生 23.91%） | 跨七个世代与四大学科全样本 | 刻画了专业志趣形成的阶段时序分布，未提供兴趣发展强度的连续量化测量 |
 
@@ -162,4 +178,4 @@ updated: 2026-11-04
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zhang_Zhao_2026_EDR|张娟和赵祥辉 (2026)]] — 系统考察 1901—2025 年 757 位诺贝尔奖得主专业志趣形成的动态演进与学科异质性，揭示高等教育对学术志趣的濡染与定型功能（pp. 36–37）。
-> - [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]] — 结合深度访谈与 4,569 份全国青年学者问卷调查，探讨青年学者学术志趣在功利考核下的磨损机制，提出通过战略科学家协同领航引导个人志趣对准国家重大战略需求。
+> - [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]] — 结合[[In-depth Interview|深度访谈]]与 4,569 份全国青年学者[[Questionnaire|问卷调查]]，探讨青年学者学术志趣在功利考核下的磨损机制，提出通过战略科学家协同领航引导个人志趣对准国家重大战略需求。

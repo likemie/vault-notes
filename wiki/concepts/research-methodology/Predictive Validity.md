@@ -8,10 +8,10 @@ aliases:
 summary: "效标关联效度的一种核心形式，衡量测量工具在当前时间点的得分对受试者未来认知表现、学业成就或实际成果的跨期预测能力。在教育测评中涵盖从入学考选拔、高阶创造潜能到微观课堂教学行为对学业增益的实证预测，依赖无偏效标与行为锚定规程进行验证。"
 type: concept
 domain: "research-methodology"
-related_count: 57
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - method/research-methods
   - theme/validity
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Paradigm]]"
   - "[[Document]]"
+  - "[[Transnational Education]]"
   - "[[Criterion Problem]]"
   - "[[Chain of Evidence]]"
   - "[[Consequential Validity]]"
@@ -75,16 +76,18 @@ related_persons:
 related_facts:
   - "[[Gaokao]]"
   - "[[World Bank]]"
+  - "[[Dimensions]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Runco_2026_CRJ]]"
   - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
+  - "[[Argument_Sinatra_2016_Science]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
 confidence: high
 status: completed
 created: 2026-06-23
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -109,7 +112,7 @@ updated: 2026-11-03
 > [!citation-card] 世界银行论课堂观察工具对学业增益的预测效力
 > 教学评估框架的效度基石在于将观测到的微观教学实践与学生学习产出直接建立预测链条。吉尔等人对五大主流课堂观察工具的分析表明，有效的工具必须基于能够实际预测学生学业增长的微观教学行为来构建维度，从而在控制[[Class Size|班级规模]]与学生基线背景后，依然对长期学业增益展现出稳健的统计预测力。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, p. 12)]]
 >
-> *"The Teach framework built upon the inventory created by Gill and others (2016), who conducted a [[Content Analysis]] of the differences in dimensions of instructional practice of 5 commonly used classroom observation tools comparing the behaviors they measure with the extent to which they predict student learning... Explicitly linking teaching practices with learning outcomes serves to increase the validity and salience of the assessment."*
+> *"The Teach framework built upon the inventory created by Gill and others (2016), who conducted a [[Content Analysis]] of the differences in [[Dimensions|dimensions]] of instructional practice of 5 commonly used classroom observation tools comparing the behaviors they measure with the extent to which they predict student learning... Explicitly linking teaching practices with learning outcomes serves to increase the validity and salience of the assessment."*
 
 在测量学规范中，准确厘清预测效度与临近效度构念的界限，是避免测量目标混淆的前提。
 
@@ -201,7 +204,7 @@ updated: 2026-11-03
 > |---|---|---|---|
 > | **效标无偏性约束** | 预测效度的测量学真实度严格取决于外部效标是否排除主观偏倚与效标污染 | 选拔考试开发、绩效评估体系设计 | Wolf (1994); [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] |
 > | **预测效度不对称性** | 高阶认知潜能作为预测源时的关联强度（$r = 0.29$）系统性高于作为效标结果（$r = 0.12$） | 纵向[[Cohort Study\|追踪研究]]、拔尖创新人才选拔与发展评估 | [[Mark A. Runco\|Runco et al. (2026)]]; Paek and Runco (2018) |
-> | **教学行为预测效度** | 行为锚定课堂观察对学业增益具备稳健预测效度（0.08–0.12 SD），显著优于零预测力的静态文凭 | 教师效能评价、循证教研督导、跨国教育质量诊断 | Gill et al. (2016); Molina et al. (2018); [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]]; Bau and Das (2017) |
+> | **教学行为预测效度** | 行为锚定课堂观察对学业增益具备稳健预测效度（0.08–0.12 SD），显著优于零预测力的静态文凭 | 教师效能评价、循证教研督导、[[Transnational Education\|跨国教育]]质量诊断 | Gill et al. (2016); Molina et al. (2018); [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]]; Bau and Das (2017) |
 > | **科研指标长程效度** | 复合计量指标（$h$ 指数、Q 因子）对学术卓越的预测效度显著超越单纯发文量与篇均引用 | 学者终身教职评审、科研基金遴选与顶尖学术荣誉预测 | Hirsch (2007); [[Argument_Sinatra_2016_Science\|Sinatra et al. (2016)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03\|Wang & Barabási (2021)]] |
 
 ---

@@ -11,7 +11,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -29,7 +29,8 @@ related_theories: []
 related_methods:
   - "[[Scale Development]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[David Hargreaves]]"
 related_facts:
   - "[[British Educational Research Association]]"
   - "[[Hargreaves 1996 TTA Lecture]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -78,5 +79,5 @@ updated: 2026-10-30
 > |:-----|:-----|:-----|
 > | [[Research Literacy]] | 概念 | 该报告是现代界定与推广教师研究素养的关键政策[[Document\|文献]]。 |
 > | [[Engagement in and with Research]] | 概念 | 该报告确立了做研究与用研究双轨参与的分析[[Paradigm\|范式]]。 |
-> | [[Hargreaves 1996 TTA Lecture]] | 事实 | 承袭并深化了戴维·哈格里夫斯关于将教学建设为循证专业的历史主张。 |
+> | [[Hargreaves 1996 TTA Lecture]] | 事实 | 承袭并深化了[[David Hargreaves\|戴维·哈格里夫斯]]关于将教学建设为循证专业的历史主张。 |
 > | [[Education Endowment Foundation]] | 事实 | 共同构成英国[[Evidence-Based Education\|循证教育]]生态建设的核心支柱。 |

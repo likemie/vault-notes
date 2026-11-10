@@ -26,7 +26,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
-  - "[[Screening Off]]"
+  - "[[Transnational Education]]"
   - "[[Governing by Numbers]]"
   - "[[Policy Brokerage]]"
   - "[[Institutional Displacement]]"
@@ -79,7 +79,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-06
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -100,8 +100,8 @@ updated: 2026-11-10
 > - **1990年代–2000年代初** 长期任教于哥伦比亚大学教师学院，并在日内瓦高等国际关系与发展研究院担任双聘教授，致力于后社会主义转型国家与全球南方国家的教育改革与国际援助政策研究。
 > - **2000** 在尤尔根·施里弗（[[Jurgen Schriewer|Jürgen Schriewer]]）主编的[[Discourse|话语]]形成专著中发表奠基篇章，系统阐明教育转移的政治维度与冲突移位机制。[[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, p. 224)]]
 > - **2004** 出版纲领性论著《[[Policy Borrowing\|教育借用]]与借出的全球政治》（*The Global Politics of Educational Borrowing and Lending*），奠定当代跨国政策借用分析的基准[[Paradigm\|范式]]。
-> - **2004** 在德国教育研究协会苏黎世会议上报告重要研究，创新性结合社会[[Network Analysis\|网络分析]]与创新扩散理论，提出跨国教育政策中的马里斯·[[Maris O'Rourke|奥罗克]]效应（Maris O'Rourke Effect）。
-> - **2009** 在 Cowen 与 Kazamias 主编的《比较教育学国际手册》中，不仅系统概念化了比较教育的历史演进，还率先推动运用口述史方法抢救被[[Screening Off|遮蔽]]的学科个人与学会记忆。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–8)]]
+> - **2004** 在德国教育研究协会苏黎世会议上报告重要研究，创新性结合社会[[Network Analysis\|网络分析]]与创新扩散理论，提出[[Transnational Education|跨国教育]]政策中的马里斯·[[Maris O'Rourke|奥罗克]]效应（Maris O'Rourke Effect）。
+> - **2009** 在 Cowen 与 Kazamias 主编的《比较教育学国际手册》中，不仅系统概念化了比较教育的历史演进，还率先推动运用口述史方法抢救被遮蔽的学科个人与学会记忆。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–8)]]
 > - **2012** 与弗洛里安·瓦尔多（Florian Waldow）共同主编《世界教育年鉴 2012：教育中的政策借用》（*World Yearbook of Education 2012*），进一步将政策借用理论扩展至实证比较。
 > - **2024** 与 [[Kerstin Martens]] 及 [[Christian Ydesen]] 在 *Comparative Education* 合作发表重要成果，正式提出“[[Governing by Numbers\|数字治理]] 2.0”与[[Policy Brokerage\|政策中介]]跨学科比较研究议程。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024)]]
 

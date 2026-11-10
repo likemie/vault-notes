@@ -10,7 +10,7 @@ aliases:
 summary: "要求实证干预评估由与项目开发者无经济利益或学术隶属关联的独立团队完成的方法学准则，用于消除研发者自研自评导致的效应量夸大并确立循证最高认证。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -54,6 +54,7 @@ related_instruments:
   - "[[EEF Padlock Security Rating]]"
 related_persons:
   - "[[Robert Slavin]]"
+  - "[[Ben Levin]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Blueprints for Healthy Youth Development]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -226,7 +227,7 @@ updated: 2026-11-03
 > - **英国 EEF 的三方隔离机制** 英国教育捐赠基金会（EEF）采取更为彻底的结构隔离措施：通过公开竞标组建由权威研究机构构成的评估者专家库（Panel of Evaluators），并在资助项目中分别与开发者和独立评估团队订立相互独立的资助协议。EEF 担任居间协调方，强制要求[[Random Assignment\|随机化]]分组、主要结果数据采集、统计分析以及最终评价报告撰写必须全部由独立评估者全流程独立掌控，从体制根源上切断了研发者干预评估结果的路径。
 
 > [!case] [[Robert Slavin]] 与 [[Success for All]] 的双重角色与独立复制（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, pp. 24–25]]）
-> - **双重身份引发的学术审思** 罗伯特·斯莱文（Robert Slavin）既是全美顶级全校改革方案“全员成功”（Success for All，SFA）的共同创立者，又是[[Best Evidence Encyclopedia\|最佳证据百科全书]]（BEE）评级平台的负责人。SFA 长年在 BEE 榜单中名列前茅，引发了学界对其自评与汇总重叠的审思。
+> - **双重身份引发的学术审思** 罗伯特·斯[[Ben Levin|莱文]]（Robert Slavin）既是全美顶级全校改革方案“全员成功”（Success for All，SFA）的共同创立者，又是[[Best Evidence Encyclopedia\|最佳证据百科全书]]（BEE）评级平台的负责人。SFA 长年在 BEE 榜单中名列前茅，引发了学界对其自评与汇总重叠的审思。
 > - **实证外部独立复制破除疑虑** SFA 之所以能够长期保持公信力，关键在于其成效随后在完全独立的第三方机构（如 [[What Works Clearinghouse\|WWC]]、[[Blueprints for Healthy Youth Development\|Blueprints]]、有效社会项目 [[Social Programs That Work\|SPTW]]）以及外部独立学者（如 Borman et al., 2007 全国整群 RCT）主持的大规模国家试验中均成功实现了效果复制（$ES = +0.25 \sim +0.41$），跨越了研发者自评的信任鸿沟。
 
 ---

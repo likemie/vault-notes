@@ -7,7 +7,7 @@ title: "Argument_Cowen(Ed.)_2009_Springer"
 argument_key: "Argument_Cowen(Ed.)_2009_Springer"
 argument_display_title: "International handbook of comparative education"
 argument_kind: "edited-volume"
-argument_related_count: 127
+argument_related_count: 128
 argument_related_level: 12
 argument_related_stars: "💎💎💎💎"
 argument_related_color: "#fecdd3"
@@ -131,6 +131,7 @@ related_persons:
   - "[[Immanuel Wallerstein]]"
   - "[[José Luis García Garrido]]"
   - "[[Basil Bernstein]]"
+  - "[[Noah Sobe]]"
 related_facts:
   - "[[EU]]"
   - "[[OECD]]"
@@ -170,7 +171,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-09-05
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -251,7 +252,7 @@ updated: 2026-10-30
 >   - Ch. 10 [[Argument_Kazamias_2009_HistoricalReflections]]。Kazamias 系统确立比较教育学作为“[[Protean Episteme|普罗透斯式认识体系]]”的学科本质，梳理从启蒙准科学与行政改良、历史-哲学自由人文主义、战后经验实证主义到批判冲突理论的四重论述代际；借助巴伯（Barber）科学社会学深刻解构将科学狭隘化为单一量化操作的“方法论主义”，并援引拉森（Larsen）等人的旗舰期刊计量数据（历史论文降至不足 5%）实证确证学科面临的“[[Historical Amnesia|历史健忘症]]”危机，最终重申历史学与社会科学理性综合的现代合法性。
 >   - Ch. 20 [[Argument_Garcia_Garrido_2009_SpainEU]]。[[José Luis García Garrido|García Garrido]] 将西班牙教育置于[[EU|欧盟]]多国比较框架，系统梳理从[[Enlightenment|启蒙运动]]、1970 年《[[General Act of Education of 1970|普通教育法]]》到 1990 年《教育体制总组织法》（[[Organic Law on the General Organization of the Education System 1990|LOGSE]]）的亲欧主义与孤立主义历史张力；对比英、美、德、法、意与北欧的权力配置路径，深刻剖析西班牙在短时间内由极度集权滑向狂热分权所导致的“行政肥胖症”与国家教育空间“解体/脱节”（disjoining）危机；并直面初中统一步调[[Comprehensive Education|综合中学制]]滞后延展催生的“学业抗拒者”现象、高中学制过短、[[Academic Inbreeding|学术近亲繁殖]]以及在博洛尼亚对标下的质量平庸，反思[[Plaintive Comparison|诉苦式比较]]与政党频繁废立政策对[[Competitiveness|国家竞争力]]的损耗。
 >   - Ch. 22 [[Argument_Beech_2009_GlobalGarden]]。Beech 运用[[Basil Bernstein|伯恩斯坦]]语篇位置理论与卡斯特[[Space of Flows|流动空间]]理论，解构全球化下超越民族国家的新型跨国行动者；系统剖析 [[UNESCO]]、世行与 [[OECD]] 如何将学术知识过度简化为包含分权化、[[School Autonomy|学校自主]]、教师专业化、能力本位与质量评估的单一[[Global Educational Discourse|全球教育话语]]普遍模型；构建涵盖全球学术、国际组织、国家、本土学术与学校机构的五位置流通模型（[[Beech's Model of Discourse Circulation]]），揭示拉美“[[Gatekeepers|守门人]]群体”身份重叠对国家政策空间的闭合效应，并通过阿根廷课程自主权异化（转抄商业教辅）与巴阿两国教师实习制度冲突，实证确证抽象普遍处方落地微观机构必然遭遇结构性实践脱节。
->   - Ch. 23 [[Argument_Sobe_Fischer_2009_MobilityMigration]]。Sobe 与 Fischer 运用空间转向与[[Governmentality|治理术]]理论，解构欧美政策[[Discourse|话语]]对[[Student Mobility|学生流动性]]的阶层化双重编码（欧洲一体化跨国公民胜任力 vs 美国 [[No Child Left Behind Act 2001|NCLB]] 绩效问责下的病态漂泊与失范指标），剖析学校作为兼具物理封闭与社会资格筛选功能的空间治理容器；通过中（[[Hukou System|户籍制度]]排斥与[[Schools for Migrant Children|打工子弟学校]]整顿）、美（《[[Plyler v. Doe 1982|普莱勒诉多伊案]]》宪法平权与无证农工子女）、西（跨文化教育调适）、英（大篷车游民的空间文化失调）与印（游牧部族以教育避险的能动性）五国经验，揭示国家强制定居规训与边缘少数群体微观能动性的动态博弈，最终将知识理性系统与公平参与结构统合于空间实践[[Analytic Framework|分析框架]]。
+>   - Ch. 23 [[Argument_Sobe_Fischer_2009_MobilityMigration]]。[[Noah Sobe|Sobe]] 与 Fischer 运用空间转向与[[Governmentality|治理术]]理论，解构欧美政策[[Discourse|话语]]对[[Student Mobility|学生流动性]]的阶层化双重编码（欧洲一体化跨国公民胜任力 vs 美国 [[No Child Left Behind Act 2001|NCLB]] 绩效问责下的病态漂泊与失范指标），剖析学校作为兼具物理封闭与社会资格筛选功能的空间治理容器；通过中（[[Hukou System|户籍制度]]排斥与[[Schools for Migrant Children|打工子弟学校]]整顿）、美（《[[Plyler v. Doe 1982|普莱勒诉多伊案]]》宪法平权与无证农工子女）、西（跨文化教育调适）、英（大篷车游民的空间文化失调）与印（游牧部族以教育避险的能动性）五国经验，揭示国家强制定居规训与边缘少数群体微观能动性的动态博弈，最终将知识理性系统与公平参与结构统合于空间实践[[Analytic Framework|分析框架]]。
 >   - Ch. 28 [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]。Rizvi 与 Lingard 系统对比[[OECD]]在 1960–1990 年帕帕多普洛斯社会民主主义妥协期与 1990 年代中期后新自由主义期的深刻断裂，阐明[[OECD]]如何依托[[New Growth Theory|内生新增长理论]]建构“[[Knowledge-Based Economy|知识经济]]的[[Social Imaginary|社会想象]]”，推动学习从“[[Knowledge-that and Know-how-to|知其然]]”向“知其所以操作”与“学习型经济”转型；通过[[PISA]]制造全球可[[Commensuration|通约]]的“[[Space of Equivalence|等值空间]]”与“数字即政策”（以跨国[[Reliability|信度]]压倒[[Construct Validity|构念效度]]）；并在“[[Economic Fundamentalism|经济基要主义]]”逻辑下将教育公平、性别平权与社会资本全面工具化为经济效率的附庸，使自身从政府间开放论坛蜕变为独立的跨国政策行动者。
 >   - Ch. 29 [[Argument_Castro_2009_MultilateralBanks]]。Castro 运用机构政治经济学与长期内部决策视角，解构以[[World Bank|世界银行]]与美洲开发银行为代表的[[Multilateral Development Bank|多边开发银行]]在教育领域的双重性：既是提供廉价硬通货贷款的“资金银行”（Bank of Funds），又是试图通过结构调整附带条件与知识垄断重塑借款国政策的“理念银行”（Bank of Ideas）；系统剖析多边银行在专业官僚傲慢、忽视执行能力、偏好多重目标复杂项目及追逐教育时尚等方面的内在病理，并通过巴西、中非共和国及中东欧转轨国家的实证经验，证明外部贷款能否成功的决定性因素在于借款国的本土意愿与政治治理成熟度，而非外源性政策强制。
 >   - Ch. 30 [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]。Pasias 与 Roussakis 运用福柯权力-知识理论与全景敞视理论，解构 1992–2007 年[[EU|欧盟]]教育与培训政策的三阶段演化；揭示[[European Commission|欧委会]]如何以全球化危机修辞建构市场导向的“[[Europe of Knowledge|知识欧洲]]”话语，将知识降格为易耗商品；并阐明在新千年进程中，欧盟如何以[[Aggressive Intergovernmentalism|激进政府间主义]]与新功能主义取代防御型[[Subsidiarity Principle|辅助性原则]]，依托[[Open Method of Coordination|开放协调法]]（OMC）整合凝视技术、绩效技术与治理技术，最终在各成员国自愿合规表象下确立超国家“欧洲教育全景敞视建筑”。

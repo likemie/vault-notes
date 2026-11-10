@@ -5,7 +5,7 @@ aliases:
 summary: "鲍曼提出的概念，指将理想社会定位于被偷走或遗弃但未死的过去的乌托邦想象，用于分析中国的中华民族复兴话语"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Discourse]]"
   - "[[Zhonghua Minzu]]"
+  - "[[Nationalism]]"
   - "[[Paradigm]]"
   - "[[Grand Theory]]"
 related_theories:
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -78,7 +79,7 @@ updated: 2026-10-22
 ---
 
 > [!critique] 概念建构与政治排斥
-> - **“中华文明”的现代重构** 中共试图复兴的“中华文明”本身是一个现代概念。[[Zhonghua Minzu\|中华民族]]由梁启超（Liang Qichao）于 1902 年引入，而在此之前的 20 世纪初，中国民族主义者的“恢复”主张主要是驱逐作为外来入侵者的满族统治者。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 104]])
+> - **“中华文明”的现代重构** 中共试图复兴的“中华文明”本身是一个现代概念。[[Zhonghua Minzu\|中华民族]]由梁启超（Liang Qichao）于 1902 年引入，而在此之前的 20 世纪初，中国[[Nationalism|民族主义]]者的“恢复”主张主要是驱逐作为外来入侵者的满族统治者。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 104]])
 > - **少数民族主体性的消解** 这种怀旧乌托邦具有根本性的排斥性。它不承认少数民族文化有其内在价值，主张只有在融入中华民族后才获得意义，从而将同化政策包装为“民族团结”。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 112]])
 
 > [!warning] 适用局限

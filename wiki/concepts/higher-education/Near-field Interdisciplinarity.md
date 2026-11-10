@@ -10,7 +10,7 @@ aliases:
 summary: "学者在认知范畴、概念工具与研究方法具有高度亲和性的邻近学科之间开展转轨与交叉融合的创新模式；以方法迁移与工具外溢为核心驱动力，构成重大原始创新的主导跨学科形态。"
 type: concept
 domain: "higher-education"
-related_count: 16
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,8 +23,10 @@ related_concepts:
   - "[[Champ]]"
   - "[[Paradigm]]"
   - "[[Big Science]]"
+  - "[[Original Innovation Capability]]"
   - "[[Commensuration]]"
   - "[[Epistemology]]"
+  - "[[Research Tool]]"
   - "[[Creativity]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Variable]]"
@@ -45,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
@@ -55,7 +57,7 @@ updated: 2026-11-04
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 强调跨学科转轨的知识基础依赖于学科间的认知邻近性（Cognitive Proximity），以硬核方法论技术向邻近问题的溢出渗透为特征。
-> - **用途** 用于矫正研究生教育中盲目推崇“远缘大跨度交叉”的政策迷思，揭示重大原始创新所依赖的“学科根基扎实—近缘工具迁移”的微观机理。
+> - **用途** 用于矫正研究生教育中盲目推崇“远缘大跨度交叉”的政策迷思，揭示重大[[Original Innovation Capability|原始创新]]所依赖的“学科根基扎实—近缘工具迁移”的微观机理。
 > - **边界** 邻近交叉并不排斥知识差异，但要求转轨双方存在可[[Commensuration|通约]]的方法论接口；脱离认知基础的完全异质跨界往往面临极高的知识转换成本与学术沉没风险。
 
 > [!citation-card|notitle] 关键表述
@@ -73,7 +75,7 @@ updated: 2026-11-04
 > [!contrast-table|notitle] 概念辨析
 > | 维度 | 邻近学科交叉（Near-field） | 远缘学科跳跃（Far-field） | 单一学科深耕（Monodisciplinary） |
 > |---|---|---|---|
-> | **认知距离** | 较近，概念与实验工具具有高度亲和性 | 极远，认识论基础与评价规范截然不同 | 零，完全局限于单一专门领域范式 |
+> | **认知距离** | 较近，概念与[[Research Tool\|实验工具]]具有高度亲和性 | 极远，认识论基础与评价规范截然不同 | 零，完全局限于单一专门领域范式 |
 > | **核心驱动力** | 方法迁移（掌握的工具向新问题外溢） | 宏观问题牵引或哲学思辨灵感启发 | 既定学术谱系内部的纵深技术掘进 |
 > | **转换成本** | 适中，原学科训练直接作为跳板赋能 | 极高，面临知识重建与学术社会化阻滞 | 极低，[[Path Dependence\|路径依赖]]强，无范式转换门槛 |
 > | **典型实践形态** | 物理化学、化学生物学、计量经济学 | 神经美学、量子文学批评、科技伦理 | 经典有机合成、纯代数几何推演 |

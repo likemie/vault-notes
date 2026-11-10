@@ -10,7 +10,7 @@ summary: "新西兰裔英国核物理学家，近代核物理学之父，1908 �
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 10
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,7 +26,9 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Letters Format]]"
+  - "[[Study Abroad]]"
   - "[[Megascience Installations]]"
+  - "[[Early-Career Researchers]]"
   - "[[Document]]"
   - "[[Science Immediacy]]"
   - "[[Big Science]]"
@@ -43,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-31
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
@@ -63,7 +65,7 @@ updated: 2026-11-04
 > [!timeline|notitle] 生平与职涯
 > - **1871** 出生于新西兰布莱特沃特。
 > - **1894** 毕业于新西兰大学坎特伯雷学院，获得数学与物理学学士及文学硕士学位。
-> - **1895** 获得 1851 皇家博览会海外留学生奖学金，前往英国剑桥大学卡文迪许实验室，师从 J. J. 汤姆逊（J. J. Thomson）。
+> - **1895** 获得 1851 皇家博览会[[Study Abroad|海外留学]]生奖学金，前往英国剑桥大学卡文迪许实验室，师从 J. J. 汤姆逊（J. J. Thomson）。
 > - **1898–1907** 任加拿大麦吉尔大学物理学讲席教授；1900 年在放射性研究中被居里夫妇抢先发表后，开创利用《自然》“致编辑信”快速发表成果的特洛伊木马策略。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 165–166)]]
 > - **1907–1919** 任曼彻斯特大学物理学教授；1908 年因在元素放射性衰变与放射化学方面的开创性成就斩获诺贝尔化学奖；1911 年通过阿尔法粒子散射实验提出原子核式行星模型。
 > - **1919** 接替汤姆逊出任剑桥大学卡文迪许实验室主任，并成功用阿尔法粒子轰击氮原子实现人工核嬗变。
@@ -100,7 +102,7 @@ updated: 2026-11-04
 > [!debates|notitle] 学术争议
 >
 > > [!axis] 快报加急通道：首发确权敏捷性 vs 同行评审严谨性
-> > 学术界关于快报发表格式的利弊长期存在讨论。一派强调快报栏目能够在全球竞争中保障青年学者的优先发现权并加速科学扩散 [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021)]]；另一派指出极短的篇幅限制与压缩的审稿周期容易牺牲实验细节与复现步骤，导致低质抢发与争议[[Document|文献]]增加。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 165–166)]]
+> > 学术界关于快报发表格式的利弊长期存在讨论。一派强调快报栏目能够在全球竞争中保障[[Early-Career Researchers|青年学者]]的优先发现权并加速科学扩散 [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021)]]；另一派指出极短的篇幅限制与压缩的审稿周期容易牺牲实验细节与复现步骤，导致低质抢发与争议[[Document|文献]]增加。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 165–166)]]
 > >
 > > - **Ernest Rutherford（1900）** 科学首发权的竞争容不得缓慢周期的延误，必须借助即时出版通道抢占发现高地。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 165)]]
 > > - **后世[[Bibliometric Analysis|科学计量学]]家** 快报体裁的泛滥在一定程度上催生了以追逐发表速度为导向的学术短期行为，需依托后续详尽全文给予复核补充。

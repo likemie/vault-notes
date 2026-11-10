@@ -14,9 +14,9 @@ subtype: program
 region: multi
 fact_region: "multi"
 fact_kind: "program"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "1949–1960"
 initiator_organization: "中华人民共和国中央人民政府政务院（后为国务院）、苏联部长会议"
@@ -27,6 +27,8 @@ tags:
   - higher-education
   - theme/geopolitics
 related_concepts:
+  - "[[Transnational Education]]"
+  - "[[Study Abroad]]"
   - "[[Geopolitics]]"
   - "[[General Education]]"
   - "[[Strategic Autonomy]]"
@@ -45,13 +47,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 项目定位
-> 中苏教育科技合作（Sino-Soviet Educational and Scientific Cooperation）是新中国成立初期在“一边倒”外交战略与中苏同盟框架下展开的大规模跨国教育重组与科技援助工程。该工程由中苏两国最高领导层直接推动，旨在依托苏联工业化与高等教育经验，全面重塑中国高等教育组织体制，引进急需的高精尖工程科技人才，为新中国工业化奠定知识与[[Human Capital Theory|人力资本]]基础。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 693)]]
+> 中苏教育科技合作（Sino-Soviet Educational and Scientific Cooperation）是新中国成立初期在“一边倒”外交战略与中苏同盟框架下展开的大规模[[Transnational Education|跨国教育]]重组与科技援助工程。该工程由中苏两国最高领导层直接推动，旨在依托苏联工业化与高等教育经验，全面重塑中国高等教育组织体制，引进急需的高精尖工程科技人才，为新中国工业化奠定知识与[[Human Capital Theory|人力资本]]基础。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 693)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1949年建交与1950年签署《中苏友好同盟互助条约》后全面启动，1960年7月随着苏联政府单方面撤走全部在华专家而骤然中止。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 693)]]
@@ -62,7 +64,7 @@ updated: 2026-10-26
 ---
 
 > [!claim] 核心干预／机制假说
-> 项目假定在同一意识形态阵营内部，依托发展型社会主义大国的顶层计划调配，能够通过成套引进外国教学制度、教材大纲、专家队伍与大规模选派留学生，实现后发国家高等教育系统向现代重工业科研体系的快速重构。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 693)]]
+> 项目假定在同一意识形态阵营内部，依托发展型社会主义大国的顶层计划调配，能够通过成套引进外国教学制度、教材大纲、专家队伍与大规模选派[[Study Abroad|留学]]生，实现后发国家高等教育系统向现代重工业科研体系的快速重构。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 693)]]
 
 > [!policy-design] 方案设计
 > - **项目目标** 建立高度匹配苏联式重工业经济计划的专门化高等工业教育体系，自主培养大规模工程师与科学家队伍。

@@ -8,7 +8,7 @@ aliases:
 summary: "指1960至1970年代美国反文化运动与计算机软件革命深度融合所形成的技术范式，以斯图尔特·布兰德（Stewart Brand）与李·费尔森斯坦（Lee Felsenstein）等为代表，主张将计算技术从冷战军事官僚机器的垄断中夺回，重塑为赋权个体、抵御中央集权与实现精神自由的解放性媒介；在卡普与扎米斯卡（2025）的科技政治批判中，这一范式颠覆了战后布什与奥本海默的国家战略科技动员传统，但也因过度解构国家共同体认同而最终滑向消费主义与政治冷漠。"
 type: concept
 domain: "ethics-of-technology"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Consumer Internet]]"
   - "[[Technological Agnosticism]]"
   - "[[Big Science]]"
+  - "[[Problematisation]]"
   - "[[Hard Power]]"
   - "[[Technological Republic]]"
 related_theories: []
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -112,7 +113,7 @@ updated: 2026-11-03
 > **政治后果与历史异化维度** 该命题剖析了反文化计算在消解国家权威的同时，因缺乏积极的公共共同体建设计划，最终不可避免地被资本主义物质消费文化彻底同化。
 
 > [!claim] Karp, A. C., & Zamiska, N. W.
-> **共同体消解与商业变质命题** 随着美国社会中关于“我们”的集体认同被学术界和反文化思潮全面解构与问题化，技术精英放弃了宏大的政治关怀，将精力聚焦于微观个人消费者。这种对个人需求的极度关注虽催生出卓越的消费硬件与应用，但也为 21 世纪初转变为唯利是图的[[Consumer Internet|消费互联网]]铺平了道路，彻底丧失了早期技术解放的政治潜能。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 100–102)]]
+> **共同体消解与商业变质命题** 随着美国社会中关于“我们”的集体认同被学术界和反文化思潮全面解构与[[Problematisation|问题化]]，技术精英放弃了宏大的政治关怀，将精力聚焦于微观个人消费者。这种对个人需求的极度关注虽催生出卓越的消费硬件与应用，但也为 21 世纪初转变为唯利是图的[[Consumer Internet|消费互联网]]铺平了道路，彻底丧失了早期技术解放的政治潜能。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 100–102)]]
 
 ---
 

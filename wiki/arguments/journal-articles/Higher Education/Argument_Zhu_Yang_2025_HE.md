@@ -7,7 +7,7 @@ title: "Argument_Zhu_Yang_2025_HE"
 argument_key: "Argument_Zhu_Yang_2025_HE"
 argument_display_title: "Deciphering China’s higher education outreach paradigm in Southeast Asia: can a neo-tributary perspective work? Higher Education, 89(4), 1041–1060"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ sources:
 related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Soft Power]]"
+  - "[[Study Abroad]]"
   - "[[Cultural Recognition]]"
   - "[[Hard Power]]"
   - "[[Knowledge Diplomacy]]"
@@ -74,12 +75,12 @@ related_facts:
   - "[[Institute of South-South Cooperation and Development]]"
 status: draft
 created: 2026-10-20
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
 > [!question]
-> 伴随中国经济体量增长，国际学术界对其对外权力战略存在激烈争议。传统现实主义视角倾向将这一崛起视为零和地缘博弈，自由主义与[[Constructivist Paradigm|建构主义]]研究则习惯套用西方[[Soft Power|软实力]]与中心—外围框架。然而，既有讨论多局限于[[Confucius Institute|孔子学院]]和留学生规模等浅层指标，难以解释中国在东南亚及[[Belt and Road Initiative|一带一路倡议]]（Belt and Road Initiative, BRI）沿线密集推进的高校援建、师资培训与校际合作。核心问题在于：基于中国历史经验的[[Neo-Tributary Perspective|新朝贡分析框架]]能否准确解释当代高等教育输出背后的战略行为模式，其在真实教育实践中面临哪些解释局限与现实张力？
+> 伴随中国经济体量增长，国际学术界对其对外权力战略存在激烈争议。传统现实主义视角倾向将这一崛起视为零和地缘博弈，自由主义与[[Constructivist Paradigm|建构主义]]研究则习惯套用西方[[Soft Power|软实力]]与中心—外围框架。然而，既有讨论多局限于[[Confucius Institute|孔子学院]]和[[Study Abroad|留学]]生规模等浅层指标，难以解释中国在东南亚及[[Belt and Road Initiative|一带一路倡议]]（Belt and Road Initiative, BRI）沿线密集推进的高校援建、师资培训与校际合作。核心问题在于：基于中国历史经验的[[Neo-Tributary Perspective|新朝贡分析框架]]能否准确解释当代高等教育输出背后的战略行为模式，其在真实教育实践中面临哪些解释局限与现实张力？
 
 > [!claim] 核心主张
 > 高等教育输出主要通过传播当代国家发展治理经验来[[Cultural Recognition|寻求文化认同]]，大学则成为向外界展示科技[[Hard Power|硬实力]]与大国宽仁形象的展演窗口；但对外教育合作过度依赖经贸外交刺激与超国民待遇供给，导致大量校际协议沦为纸面形式。新朝贡视角长于剖析现实地缘中的功利互动，但必须摒弃单一华夏中心主义的文化同化预设，通过融入[[Tianxia Heuristic|天下启发式]]与[[Knowledge Diplomacy|知识外交]]等多重视角，方能完整理解大国跨国高教战略的复杂全貌。

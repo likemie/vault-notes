@@ -9,7 +9,7 @@ summary: "美籍创新经济学家与科学学者，西北大学凯洛格管理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 29
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,9 +29,11 @@ related_concepts:
   - "[[Team Science]]"
   - "[[Data Infrastructure]]"
   - "[[Multi-University]]"
+  - "[[Dual Frontier]]"
   - "[[Polymath]]"
   - "[[Assemblage]]"
   - "[[Paradigm]]"
+  - "[[Early-Career Researchers]]"
   - "[[Conceptual Innovators]]"
   - "[[The Graying of Science]]"
   - "[[Age and High-Growth Entrepreneurship]]"
@@ -40,6 +42,7 @@ related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Relative Team Impact]]"
+  - "[[Natural Experiment]]"
 related_instruments: []
 related_persons:
   - "[[Stefan Wuchty]]"
@@ -57,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -93,7 +96,7 @@ updated: 2026-11-02
 > - **2008 — *[[Multi-University]] Research Teams: Shifting Ground, Diverse Contributors, or Extreme Collaborators?*（《科学》）** 证实跨校科研团队在过去三十年间迅猛崛起，其产出顶级成果的几率显著超越单一机构内部合作。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 90–92)]]
 > - **2009 — *The Burden of Knowledge and the "Death of the Inventor" Life Cycle*（《经济研究评论》）** 形式化推导了知识前沿扩张推迟科研活跃起始年龄并压低研发人均产出的微观机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 44–45)]]
 > - **2010 — *Age and Great Invention*（《经济学与统计学评论》）** 运用诺贝尔奖得主与大发明家全量数据库，揭示创新巅峰年龄后移 6 岁并实证检验了理论学者与经验学者的生命周期差异。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 40–48)]]
-> - **2017 — *The Dual Frontier: Patented Discoveries and Published Science*（《科学》）** 与艾哈迈德普尔合作绘制千万量级学术成果与全球发明专利的双向引文拓扑网络，揭示基础研究对工业应用技术的广泛渗透。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 247–248)]]
+> - **2017 — *The [[Dual Frontier]]: Patented Discoveries and Published Science*（《科学》）** 与艾哈迈德普尔合作绘制千万量级学术成果与全球发明专利的双向引文拓扑网络，揭示基础研究对工业应用技术的广泛渗透。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 247–248)]]
 
 ---
 
@@ -107,8 +110,8 @@ updated: 2026-11-02
 
 > [!influence-path] 影响路径
 > - **理论路径** 拓展内生经济增长理论，在宏观研发增长模型中补足了[[Human Capital Theory|人力资本]]攀爬前沿的微观摩擦成本与有效创新窗口约束。
-> - **方法路径** 融合专利数据库、诺贝尔奖全样本履历与计量经济学准自然实验（如世界大战受训阻断），确立宏观创新经济学实证[[Paradigm|范式]]。
-> - **政策路径** 直接影响美国科学基金会（[[National Science Foundation|NSF]]）与国立卫生研究院（[[National Institutes of Health|NIH]]）针对青年学者早期独立资助的政策制定，推动跨学科团队资助倾斜。
+> - **方法路径** 融合专利数据库、诺贝尔奖全样本履历与计量经济学[[Natural Experiment|准自然实验]]（如世界大战受训阻断），确立宏观创新经济学实证[[Paradigm|范式]]。
+> - **政策路径** 直接影响美国科学基金会（[[National Science Foundation|NSF]]）与国立卫生研究院（[[National Institutes of Health|NIH]]）针对[[Early-Career Researchers|青年学者]]早期独立资助的政策制定，推动跨学科团队资助倾斜。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 援引其知识负担与年龄成就曲线（Unit 02）、团队科学主导地位与跨校合作（Unit 04）及科学文献与专利双向跨界拓扑网络（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Unit 11]]）。

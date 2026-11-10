@@ -6,16 +6,17 @@ aliases:
 summary: "Christian Ydesen (2019) 提出的概念，指由五大政府间组织、主权国家、跨国企业与私人慈善基金会构成的治理网络，通过标准化与可量化知识施展硬事实软权力。"
 type: concept
 domain: "comparative-education"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - subject/comparative-education
   - theme/global-governance
   - theme/international-organizations
   - theme/policy-brokerage
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Network Governance]]"
   - "[[Policy Brokerage]]"
   - "[[Soft Power by Hard Facts]]"
@@ -63,13 +64,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Global Education Governing Complex
-> 全球教育治理复合体（Global Education Governing Complex）是指由五大核心国际组织——[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）、[[World Bank\|世界银行]]（World Bank）、联合国教育、科学及文化组织（[[UNESCO\|United Nations Educational, Scientific and Cultural Organization]]，UNESCO，简称联合国教科文组织）、[[UNICEF\|联合国儿童基金会]]（United Nations Children's Fund，UNICEF）与[[Global Partnership for Education\|全球教育伙伴关系]]（Global Partnership for Education，GPE）为中枢，深度整合了主权国家资本、跨国教育商业企业与私人慈善基金会的多元跨国[[Network Governance\|网络治理]]形态。该复合体打破了传统民族国家对公共教育政策的专属垄断，将可量化、可比较与可标准化的知识深度工具化与武器化，依靠设定国际目标、基准测验、跨国排名与[[Policy Brokerage\|政策中介]]等“[[Soft Power by Hard Facts\|以硬事实施展软权力]]”的间接治理技术，在缺乏法律强制制裁权的前提下跨尺度重塑全球与国家教育改革议程并实施远距离绩效问责。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 539)]]
+> 全球教育治理复合体（Global Education Governing Complex）是指由五大核心国际组织——[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）、[[World Bank\|世界银行]]（World Bank）、联合国教育、科学及文化组织（[[UNESCO\|United Nations Educational, Scientific and Cultural Organization]]，UNESCO，简称联合国教科文组织）、[[UNICEF\|联合国儿童基金会]]（United Nations Children's Fund，UNICEF）与[[Global Partnership for Education\|全球教育伙伴关系]]（Global Partnership for Education，GPE）为中枢，深度整合了主权国家资本、[[Transnational Education|跨国教育]]商业企业与私人慈善基金会的多元跨国[[Network Governance\|网络治理]]形态。该复合体打破了传统民族国家对公共教育政策的专属垄断，将可量化、可比较与可标准化的知识深度工具化与武器化，依靠设定国际目标、基准测验、跨国排名与[[Policy Brokerage\|政策中介]]等“[[Soft Power by Hard Facts\|以硬事实施展软权力]]”的间接治理技术，在缺乏法律强制制裁权的前提下跨尺度重塑全球与国家教育改革议程并实施远距离绩效问责。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 539)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 刻画冷战以来跨国公共机构与私营资本在教育领域形成的结构性共谋与网络拓扑。

@@ -9,7 +9,7 @@ aliases:
 summary: "指高等教育被整合进跨国区域政治经济项目并成为划定地理合作边界、塑造地缘竞争优势与建构区域身份核心支柱的政治建构现象；在分析视阈上经历了从单纯考察超国家组织对教育的单向影响，向审视教育在想象与建构世界区域本身中的主动性转向，并分化出欧洲全域趋同的旗舰模式与东南亚主权防卫的多轨竞逐模式。"
 type: concept
 domain: "higher-education"
-related_count: 42
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -25,6 +25,8 @@ related_concepts:
   - "[[Student Mobility]]"
   - "[[Unit of Analysis]]"
   - "[[Paradigm]]"
+  - "[[Transnational Education]]"
+  - "[[Education Export]]"
   - "[[International Branch Campus]]"
   - "[[Geopolitics]]"
   - "[[ASEAN Way]]"
@@ -39,6 +41,7 @@ related_concepts:
   - "[[Regulatory Regionalism]]"
   - "[[Competitiveness]]"
   - "[[Politics of Knowledge]]"
+  - "[[Research Tool]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Europe of Knowledge]]"
   - "[[Public Value]]"
@@ -71,7 +74,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -102,9 +105,9 @@ updated: 2026-11-03
 ---
 
 > [!contrast-table] 高等教育区域主义与相近[[Paradigm|范式]]辨析
-> | 维度 | 高等教育区域主义 (Higher Education Regionalism) | [[Internationalization of Higher Education\|高等教育国际化 (Internationalization)]] | 跨国高等教育市场化 (Transnational Education) |
+> | 维度 | 高等教育区域主义 (Higher Education Regionalism) | [[Internationalization of Higher Education\|高等教育国际化 (Internationalization)]] | [[Transnational Education\|跨国高等教育]]市场化 (Transnational Education) |
 > |---|---|---|---|
-> | **主导驱动主体** | 国家权威、超国家实体（如[[European Commission\|欧盟委员会]]）与区域间政府间组织 | 高等院校、学术共同体与科研院所 | 营利性跨国教育集团、私立高校与教育出口经纪人 |
+> | **主导驱动主体** | 国家权威、超国家实体（如[[European Commission\|欧盟委员会]]）与区域间政府间组织 | 高等院校、学术共同体与科研院所 | 营利性跨国教育集团、私立高校与[[Education Export\|教育出口]]经纪人 |
 > | **核心制度目标** | 构建跨国资格框架、互认机制，划定区域政策协调边界与身份认同 | 提升学术声誉、拓展科研合作网络与培养全球视野人才 | 拓展海外生源市场、实现办学收益资本化与品牌输出 |
 > | **治理协调机制** | 区域规制工具（学分转换体系、质量保障基准、政府间部长级公报） | 院校间双边协议、联盟网络与学者学术交往习惯 | 商业特许经营、[[International Branch Campus\|海外分校]]设立与跨国学位认证市场合同 |
 > | **空间与地理属性** | 明确界定特定地理区域的制度边界（如欧洲、东南亚、拉美） | 开放、非边界化的全球学术网络连接 | 遵循资本流向与市场需求的商业网点分布 |
@@ -173,7 +176,7 @@ updated: 2026-11-03
 > | **空间建构认识论转向** | 教育政策是国家与精英主动想象、划界并生产世界区域的制度载体 | 区域整合理论、高等教育空间社会学、地缘[[Politics of Knowledge\|知识政治]] | Robertson et al. (2016); [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] |
 > | **制度模式类型分化** | 宏观治理规范与知识经济话语[[Interaction Effect\|交互作用]]，分化出欧洲旗舰趋同与东南亚双轨竞逐两类治理模式 | 跨区域[[Comparative Case Study\|比较案例研究]]、话语制度主义、欧洲与东盟教育一体化 | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]] |
 > | **扩散假说的经验证伪** | 实证推翻博洛尼亚全球单向扩散假说，确立基于政策部门与实地田野的内生治理分析进路 | 比较区域主义理论批判、政策转移与本土抵抗机制分析 | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]] |
-> | **规制工具与科研工具化** | 规制区域主义与使命导向科研将高等教育工具化为地缘竞争附庸，导致学科层级化割裂 | 超国家科技资助评估、[[Geopolitics of Knowledge\|知识地缘政治]]、学术自主权批判 | [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] |
+> | **规制工具与[[Research Tool\|科研工具]]化** | 规制区域主义与使命导向科研将高等教育工具化为地缘竞争附庸，导致学科层级化割裂 | 超国家科技资助评估、[[Geopolitics of Knowledge\|知识地缘政治]]、学术自主权批判 | [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] |
 
 ---
 

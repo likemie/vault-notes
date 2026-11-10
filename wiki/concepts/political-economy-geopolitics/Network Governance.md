@@ -8,7 +8,7 @@ aliases:
 summary: "以多元行动者横向协作、关系协调与异层结构替代垂直科层或纯粹市场的公共治理方式；在批判教育政策与演化科技政策中揭示国家并未空心化退场，是表现为积极特许赋权、资助中介并缔造市场的异层担保人，以及通过去中心化探索网络引领使命导向创新的催化者。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 83
+related_count: 85
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Red Tape]]"
   - "[[Performance Indicators]]"
   - "[[Educational Management Organisation]]"
+  - "[[Transnational Education]]"
   - "[[Embedded Network Governance]]"
   - "[[Network Plasticity]]"
   - "[[Vertical Disintegration]]"
@@ -48,12 +49,12 @@ related_concepts:
   - "[[Steering at a Distance]]"
   - "[[Critical Pedagogy]]"
   - "[[Philanthrocapitalism]]"
+  - "[[Quasi-market]]"
   - "[[Charter Schools]]"
   - "[[Apprenticeship]]"
   - "[[Selectivity]]"
   - "[[International Baccalaureate]]"
   - "[[Paradigm]]"
-  - "[[Screening Off]]"
   - "[[Variable]]"
   - "[[Lifelong Learning]]"
   - "[[Research Universities]]"
@@ -78,6 +79,7 @@ related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
   - "[[Teach Classroom Observation Tool]]"
 related_persons:
+  - "[[Vilfredo Pareto]]"
   - "[[John O'Neill]]"
   - "[[Amelia Peterson]]"
   - "[[Alec Peterson]]"
@@ -115,7 +117,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-04
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -148,7 +150,7 @@ updated: 2026-11-03
 > | **核心协调机制** | 关系互赖、战略结盟、公私伙伴契约与同侪信任 | 自上而下的法理权威、行政规章与科层指令 | 价格机制、供需波动、分散竞争与即时交易 |
 > | **权力拓扑构型** | 多中心异层结构（Heterarchy），横向弥散与[[Co-affiliation\|多重从属]] | 单中心金字塔层级，垂直权威与下达服从 | 无中心原子化分散，买卖双方地位对称假定 |
 > | **现代国家角色** | 市场缔造者、元治理催化者、制度担保人与跨界经纪人 | 独家公共服务提供者、中心化资助者与直接监管者 | 维护产权与交易秩序的“守夜人”，最小化国家 |
-> | **合法性诉求基础** | 跨部门协商共识、技术量规有效性与社会影响力产出 | 代议制民主普选授权、程序合规性与非人格性 | 消费者自由选择主权与资源配置的帕累托最优 |
+> | **合法性诉求基础** | 跨部门协商共识、技术量规有效性与社会影响力产出 | 代议制民主普选授权、程序合规性与非人格性 | 消费者自由选择主权与资源配置的[[Vilfredo Pareto\|帕累托]]最优 |
 > | **典型失灵形态** | 民主问责赤字、利益合谋、封闭精英俘获与去能力化外包 | 官僚主义僵化、供给效率低下、反应迟缓与部门割裂 | [[Market Failure\|市场失灵]]、教育商品化排斥、劣汰不公与极化分化 |
 > | **核心制度载体** | 公私合作协议（[[Public-Private Partnership\|PPP]]）、担保有限公司章程、特许免税资质 | 议会行政法规、教育部部长令、公立编制与行政督导 | 竞争性代金券（Vouchers）、私立营利学校契约、学费发票 |
 
@@ -199,7 +201,7 @@ updated: 2026-11-03
 > **多元行动者网络对传统科层交付的系统性置换** [[John O'Neill|约翰·奥尼尔]]（John O'Neill）等基于新西兰基础教育改革的大规模实证研究指出，公立学校教育治理正在经历深刻的结构重组；传统的中央教育部统一供给模式被私营商业赞助商、非营利[[Educational Management Organisation|教育管理组织]]（EMOs）、毛利部族信托当局以及国际慈善网络所切分。公立教育的服务交付由单一行政序列演变为涵盖[[Public-Private Partnership|公私合作伙伴关系]]（PPP）、教育软件商业化特许、师资外包培训项目以及竞争性合同分包的多主体协同网络。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. vi–viii, 8–12)]]
 
 > [!claim] [[Amelia Peterson|Peterson, A.]]
-> **跨国教育组织的分布式分层治理网络** 亚历山大·彼得森（[[Alec Peterson]]）对[[United World Colleges|联合世界书院]]（UWC）长达数十年的制度发展史分析表明，跨国非营利教育实体的运转既非依赖垂直行政指令，亦非放任各校完全孤立，是建构了一个由国际董事会、各国国家选拔委员会、东道国政府、地方捐助基金会与自治书院所构筑的多中心治理网络。各方通过长程互赖协议分别承担土地出资、奖学金赞助与学术认证责任，以协商合意维系了全球教育网络的有机运转。[[Argument_Peterson_1987_OpenCourt_Ch05|(Peterson, 1987, pp. 105–109, 119–129)]]
+> **[[Transnational Education|跨国教育]]组织的分布式分层治理网络** 亚历山大·彼得森（[[Alec Peterson]]）对[[United World Colleges|联合世界书院]]（UWC）长达数十年的制度发展史分析表明，跨国非营利教育实体的运转既非依赖垂直行政指令，亦非放任各校完全孤立，是建构了一个由国际董事会、各国国家选拔委员会、东道国政府、地方捐助基金会与自治书院所构筑的多中心治理网络。各方通过长程互赖协议分别承担土地出资、奖学金赞助与学术认证责任，以协商合意维系了全球教育网络的有机运转。[[Argument_Peterson_1987_OpenCourt_Ch05|(Peterson, 1987, pp. 105–109, 119–129)]]
 
 ---
 
@@ -269,7 +271,7 @@ updated: 2026-11-03
 > | 领域分类 | 制度项目名称 | 核心网络形态与公私运作机制 | 关键政策效果与治理变迁 |
 > |---|---|---|---|
 > | **部落契约合作** | **Ngāi Tahu MoU (2001)** | 教育部与 Te Rūnanga o Ngāi Tahu 签署合作备忘录，发布 60 余个 rohe 部落教育概况 | 打破全国均质行政，将毛利部族（iwi）正式制度化为教育治理核心节点 |
-> | **公共软件商业化** | **[[Assessment Tools for Teaching and Learning\|asTTle]] / e-asTTle 商业化** | 原由奥克兰大学公费开发，后将培训支持外包给私营公司，招标私营资本出资现代化 | 投资伙伴享有收费权并可开发海外商业版，公共资产转为准市场专利产品 |
+> | **公共软件商业化** | **[[Assessment Tools for Teaching and Learning\|asTTle]] / e-asTTle 商业化** | 原由奥克兰大学公费开发，后将培训支持外包给私营公司，招标私营资本出资现代化 | 投资伙伴享有收费权并可开发海外商业版，公共资产转为[[Quasi-market\|准市场]]专利产品 |
 > | **慈善信托规模化** | **[[Manaiakalani Education Trust]] (2011)** | 由教育者与商界受托人混合组成，获 [[Foundation North\|ASB 社区信托]]、Spark 基金会与三星资助 | 通过 Manaiakalani Outreach 将技术增强学习推广全国，运营成本转由家庭分摊 |
 > | **咨询联合体竞标** | **Te Toi Tupu 领导力网络 (2009)** | 政府将高校整笔资助改为竞争性合同，由 [[Cognition Education]]、NZCER 等联合中标 | 促成跨国商业咨询公司与大学联合注册 PLD 行业协会，确立商业服务标准 |
 > | **跨国特许教师计划** | **[[Teach First New Zealand]] (TFNZ 2011)** | 纽约 [[Teach Classroom Observation Tool\|Teach]] for All、奥克兰大学、教育部与美资 Robertson 对冲基金会三方合作 | 将英美基于就业的两年制短期师资培养模式植入本土，对接[[Charter Schools\|特许学校]]需求 |
@@ -311,7 +313,7 @@ updated: 2026-11-03
 > > 争论网络治理究竟是打破官僚僵化、吸纳社会活力的治理现代化[[Paradigm|范式]]，还是跨国资本俘获公共领域的特洛伊木马。
 > >
 > > - **新公共治理与[[Pluralism|多元主义]]支持者（Thompson, 1991）** 坚信公私伙伴网络能够引入顶尖商业管理纪律、前沿数字技术与多元社会力量，使公共服务更加灵活敏捷，能精准回应多元群体的个性化需求。
-> > - **批判政治经济学者（[[Argument_Rowe_2023_ECNUROE|Rowe, 2023]]; Ball, 2007; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）** 尖锐指出网络治理构筑了排他的寡头联盟；通过公司法注册外壳[[Screening Off|屏蔽]]公众信息审查，使商业金融资本以中立慈善为幌子，行财政利益输送与公私利益合谋之实。
+> > - **批判政治经济学者（[[Argument_Rowe_2023_ECNUROE|Rowe, 2023]]; Ball, 2007; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）** 尖锐指出网络治理构筑了排他的寡头联盟；通过公司法注册外壳屏蔽公众信息审查，使商业金融资本以中立慈善为幌子，行财政利益输送与公私利益合谋之实。
 >
 > > [!axis] 国家空心化退场论 vs 异层国家权力强化与再分配重构论
 > > 针对私营网络崛起是否意味着民族国家权威的实质性瓦解与边缘化。

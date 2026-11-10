@@ -9,7 +9,7 @@ summary: "奥地利裔美籍数学家与统计学家，在二战哥伦比亚大�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 4
+person_related_count: 7
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -24,6 +24,8 @@ tags:
 related_concepts:
   - "[[Survivorship Bias]]"
   - "[[Causality]]"
+  - "[[Reliability]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Memos]]"
@@ -32,10 +34,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-11
 ---
 
 ---
@@ -76,7 +79,7 @@ updated: 2026-10-31
 > [!influence-path] 影响路径
 > - **理论路径** 建立序贯分析与统计决策论的公理化体系，深刻影响了现代微观经济学博弈论与决策理论。
 > - **方法路径** 提出瓦尔德检验统计量与幸存者偏差条件概率校正算法，成为现代因果推断、样本选择模型与计量经济学的标准工具。
-> - **政策路径** 直接指导二战盟军战机装甲资源分配策略与工业军品批量抽检规范，奠定战后运筹学与可靠性工程的决策范式。
+> - **政策路径** 直接指导二战盟军战机装甲资源分配策略与工业军品批量抽检规范，奠定战后运筹学与[[Reliability|可靠性]]工程的决策[[Paradigm|范式]]。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 记录沃尔德在二战期间纠正轰炸机装甲决策的统计学案例，引申出科学学依赖成功出版样本的偏差困境（Unit 11, pp. 242–243）。

@@ -9,9 +9,9 @@ aliases:
 summary: "由夏洛特·丹尼尔森研发的全面教学表现与教师评价量规体系，将专业教学解构为计划准备、课堂环境、教学指导和专业职责四大领域，包含22个构件与76个具体要素，通过4个表现等级划分专业教学水平，成为美国及国际基础教育阶段应用最广的教师准入、评价考核与专业发展标准之一。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 9
-instrument_related_level: 0
-instrument_related_stars: "☆"
+instrument_related_count: 10
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#cffafe"
 part_of: ""
 developers:
@@ -28,6 +28,7 @@ tags:
   - theme/teaching-quality
   - theme/teacher-evaluation
 related_concepts:
+  - "[[Teacher Expertise]]"
   - "[[Effective Teaching]]"
   - "[[Evaluation Research]]"
   - "[[Predictive Validity]]"
@@ -46,13 +47,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
 
 > [!instrument-profile] Framework for Teaching (FFT)
-> - **工具类型** 课堂外部[[Classroom Observation|教学观察]]与综合教师专业素养评价量规（observation-tool）。
+> - **工具类型** 课堂外部[[Classroom Observation|教学观察]]与综合[[Teacher Expertise|教师专业素养]]评价量规（observation-tool）。
 > - **开发者与年份** Danielson (1996, 2007, 2013)（由夏洛特·丹尼尔森研制）。
 > - **测量目的** 用于中小学教师全周期专业发展评估、课堂教学表现鉴别与形成性导师指导，旨在建立统一的[[Effective Teaching|有效教学]]公共语言。
 > - **实施方式** 他评观察与专业反思档案袋相结合。观察员进入课堂进行全程或片段观察，依据多源证据比对 4 级表现描述符打分。

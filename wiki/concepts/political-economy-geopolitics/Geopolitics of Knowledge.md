@@ -6,7 +6,7 @@ aliases:
 summary: "围绕知识生产、流动、控制和利用展开的地缘政治竞争形态，用于分析高等教育、科研和技术如何成为国际权力关系的一部分。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 92
+related_count: 94
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -68,6 +68,7 @@ related_concepts:
   - "[[Transnational Research Collaboration]]"
   - "[[Research Question]]"
   - "[[Public Diplomacy]]"
+  - "[[Education Export]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
   - "[[Success Criteria]]"
@@ -88,6 +89,7 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Single-Case Design]]"
+  - "[[Journal Impact Factor]]"
   - "[[Discourse Analysis]]"
 related_persons:
   - "[[Doreen Massey]]"
@@ -117,7 +119,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -314,7 +316,7 @@ updated: 2026-10-30
 
 这种多重编码使得[[Transnational Research Collaboration|跨国研究合作]]成为一个不同行动者都能从中找到合法性的话语[[Champ|场域]]（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]]）。
 
-澳大利亚作为最激进的案例展示了这些抽象分析如何落地：2012 年《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》（Henry Report）将亚洲崛起定位为"澳大利亚的机遇"；AISRF（澳印战略研究基金）和 ACSRF（澳中科学与研究基金）将研究合作与贸易和外交目标深度绑定；《国际教育国家战略 2025》将教育出口系统性地整合进国家经济战略([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.99–100]])。
+澳大利亚作为最激进的案例展示了这些抽象分析如何落地：2012 年《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》（Henry Report）将亚洲崛起定位为"澳大利亚的机遇"；AISRF（澳印战略研究基金）和 ACSRF（澳中科学与研究基金）将研究合作与贸易和外交目标深度绑定；《国际教育国家战略 2025》将[[Education Export|教育出口]]系统性地整合进国家经济战略([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.99–100]])。
 
 > [!tension] COVID-19 暴露的结构性矛盾
 > Rizvi 论证疫情的作用不是"颠覆"了原有秩序，而是"暴露"了原有秩序中早已存在的脆弱性——过度依赖单一来源国学生学费的财政模式（"许多英国和澳大利亚的高等教育机构已经过度依赖这一收入来源"）、将商业逻辑优先于伦理和政治考量的价值取向、跨国合作中不对称的权力关系（[[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.100–102]]）。详见 Rizvi 论证 > 第六步。
@@ -350,7 +352,7 @@ updated: 2026-10-30
 > ```
 
 > [!finding-cards|notitle]
-> 1. **SCD 作为 GPK 的话语装置** SCD 不受限于任何特定机构，但占据并再生产新自由主义知识型社会的地缘政治空间——通过排名、影响因子和国际合作标准等隐性[[Success Criteria\|成功标准]]保障霸权地位（[[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, p.259]]）
+> 1. **SCD 作为 GPK 的话语装置** SCD 不受限于任何特定机构，但占据并再生产新自由主义知识型社会的地缘政治空间——通过排名、[[Journal Impact Factor|影响因子]]和国际合作标准等隐性[[Success Criteria\|成功标准]]保障霸权地位（[[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, p.259]]）
 > 2. **主体性生产的三组张力** SCD 通过愿意／不愿主体、结果导向／品质本位素养、经济增长／社会包容三组张力对，将 GPK 的竞争逻辑转化为个体的自我引导模式。详见 [[21st Century Skills and Competencies Discourse#三组张力中的主体性生产]]
 > 3. **[[Self-Entrepreneur\|自我企业家]]：GPK 的全球主体形态** SCD 所生产的自我企业家——以[[Employability\|就业力]]和市场为导向、以意愿和激情为生产要素的主体性——正在全球范围内成为"心灵景观"（Moisio & Kangas, 2016, p.275, cit. by Zelinka, 2022, p.260）
 > 4. **[[Governing at a Distance\|远距治理]]的微观运作** SCD 框架通过界定"未来所需的关键技能"进行远距治理——不依赖直接命令，而是通过创造可欲的自我引导形式使各国和个体"自愿"采纳。详见 [[Governmentality#远距治理]]（[[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, pp.264-265]]）

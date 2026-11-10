@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -23,35 +23,38 @@ tags:
   - level/higher-education
   - higher-education-finance
 related_concepts:
+  - "[[Engineering Education]]"
   - "[[Research Universities]]"
+  - "[[Competitiveness]]"
+  - "[[Early-Career Researchers]]"
+  - "[[Document]]"
   - "[[Academic Freedom]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[James R. Killian Jr.]]"
   - "[[Dwight D. Eisenhower]]"
+  - "[[James R. Killian Jr.]]"
 related_facts:
   - "[[President's Science Advisory Committee]]"
+  - "[[National Defense Education Act of 1958]]"
   - "[[Strengthening American Science 1958]]"
   - "[[Seaborg Report 1960]]"
-  - "[[National Defense Education Act of 1958]]"
-  - "[[Symposium on Basic Research 1959]]"
   - "[[National Science Foundation]]"
 related_arguments:
   - "[[Argument_Yang_2017_MUE]]"
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1959 年 5 月 24 日由美国[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）正式发布，由艾森豪威尔总统科学特别助理兼 PSAC 主席、麻省理工学院校长[[James R. Killian Jr.|詹姆斯·R·基利安]]主持编撰。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
+> - **发布时间 / 发布主体** 1959 年 5 月 24 日由美国[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）正式发布，由[[Dwight D. Eisenhower|艾森豪威尔]]总统科学特别助理兼 PSAC 主席、麻省理工学院校长[[James R. Killian Jr.|詹姆斯·R·基利安]]主持编撰。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 > - **适用地区 / 对象** 美国联邦行政分支、全美基础教育与高等教育机构、各级科学教师与研究生院。
-> - **问题背景** 1957 年苏联人造卫星危机后，美国朝野不仅对尖端防务科技落后产生深切焦虑，更将根源追溯至科学与工程教育体系的整体疲软；联邦政府虽然出台了《国防教育法》，但各行政与军工机构在资助大学时仍然偏向就事论事的应用研发采购，忽视了科学探究与青年人才储备的内生关联。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 37–38)]]
+> - **问题背景** 1957 年苏联人造卫星危机后，美国朝野不仅对尖端防务科技落后产生深切焦虑，更将根源追溯至科学与[[Engineering Education|工程教育]]体系的整体疲软；联邦政府虽然出台了《[[National Defense Education Act of 1958|国防教育法]]》，但各行政与军工机构在资助大学时仍然偏向就事论事的应用研发采购，忽视了科学探究与青年人才储备的内生关联。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 37–38)]]
 > - **制度位置** PSAC 继 1958 年《[[Strengthening American Science 1958|加强美国科学：联邦政府的角色]]》之后的第二份里程碑报告，构成了白宫科学智囊“科技与教育政策三部曲”的承前启后节点，直接启发了 1960 年《[[Seaborg Report 1960|西博格报告]]》关于科教一体化的核心阐述。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 38–39)]]
 
 ---
@@ -95,8 +98,8 @@ updated: 2026-11-04
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 关键行动者** PSAC 科学顾问团队——以学术威望直接打动总统，推动将自由探索和教育扶持确立为国家战略。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
-> - **高权力 · 低利益 — 潜在结盟者** 国会财政拨款委员会——对单纯增加大学经常性补贴持保留态度，但对提升国家反卫星竞争力的科研后备军建设表现出支持意愿。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 38–39)]]
-> - **低权力 · 高利益 — 受影响群体** 大学青年学者与研究生群体——长期依赖不稳定短期合同，迫切需要制度化的联邦长效奖助支持。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
+> - **高权力 · 低利益 — 潜在结盟者** 国会财政拨款委员会——对单纯增加大学经常性补贴持保留态度，但对提升国家反卫星[[Competitiveness|竞争力]]的科研后备军建设表现出支持意愿。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 38–39)]]
+> - **低权力 · 高利益 — 受影响群体** 大学[[Early-Career Researchers|青年学者]]与研究生群体——长期依赖不稳定短期合同，迫切需要制度化的联邦长效奖助支持。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
 > - **低权力 · 低利益 — 边缘行动者** 传统人文学科院系——因冷战科技聚焦而处于联邦资金分配的边缘位置。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 37)]]
 
 ---
@@ -113,7 +116,7 @@ updated: 2026-11-04
 
 > [!stat-cards]- 核心数据
 > - **1959** 报告正式呈报艾森豪威尔总统并向全国公开发布的年份。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
-> - **3** PSAC 在艾森豪威尔第二任期内发布的科技政策核心文献链条数量（1958 年《加强美国科学》、1959 年《科学时代的教育》、1960 年《西博格报告》）。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
+> - **3** PSAC 在艾森豪威尔第二任期内发布的科技政策核心[[Document|文献]]链条数量（1958 年《加强美国科学》、1959 年《科学时代的教育》、1960 年《西博格报告》）。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 
 ---
 

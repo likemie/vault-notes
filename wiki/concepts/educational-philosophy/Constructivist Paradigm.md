@@ -61,7 +61,6 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Dialogue in Education]]"
   - "[[Didaktik]]"
-  - "[[Document]]"
 related_theories:
   - "[[Radical Constructivism]]"
   - "[[Phenomenography]]"
@@ -69,6 +68,7 @@ related_theories:
   - "[[Pragmatic Constructivism]]"
   - "[[Social Realism]]"
   - "[[Knowledge Building Theory]]"
+  - "[[Didactic Triangle]]"
   - "[[Critical Theory]]"
 related_methods:
   - "[[Qualitative Research]]"
@@ -105,7 +105,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -305,7 +305,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > |:-----|:-----|:-----|
 > | [[Constructivist Instruction]] | 概念 | 将建构主义[[Epistemology\|认识论]]与学习理论转化为课堂教学实践的具体形态。 |
 > | [[Constructive Alignment]] | 概念 | 将建构主义应用于大学课程设计的目标、活动与评估对齐模型。 |
-> | [[Didaktik]] | 概念 | 从教学三角形审视建构主义能否直接推导教学操作的理论体系。 |
+> | [[Didaktik]] | 概念 | 从[[Didactic Triangle\|教学三角]]形审视建构主义能否直接推导教学操作的理论体系。 |
 > | [[Visible Learning]] | 概念 | 质疑[[Radical Constructivism\|激进建构主义]]教学效能并强调教师主动激活角色的实证模型。 |
 > | [[Critical Theory]] | 理论 | 批判建构主义在政策演化中可能沦为去情境化技术工具的理论资源。 |
 > | [[Social Realism]] | 理论 | 批判建构主义边缘化系统学科知识与[[Powerful Knowledge\|有力知识]]的教育社会学理论。 |

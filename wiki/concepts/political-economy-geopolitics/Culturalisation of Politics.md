@@ -5,7 +5,7 @@ aliases:
 summary: "Chen (2023) 提出的概念，政权以文化、历史和传统话语包装政治控制，替代公开的政治意识形态论证"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Discourse]]"
   - "[[Zhonghua Minzu]]"
+  - "[[Nationalism]]"
   - "[[Sinicisation]]"
   - "[[Filial Piety]]"
   - "[[Patriotic Education]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -49,7 +50,7 @@ updated: 2026-11-03
 > - **概念边界** 政治的文化化不同于普遍的传统文化传承，其特征在于强烈的去政治化防线建构和消解政治能动性的稳压功能（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.154]]）。
 
 > [!citation-card] 关键学术表述
-> 习近平时代的中国合法性话语出现重大转型，从过去的马克思列宁主义阶级斗争话语，转向以[[Zhonghua Minzu\|中华民族]]伟大复兴和中华优秀传统文化为核心的文化-种族国族主义（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.139]]）。
+> 习近平时代的中国合法性话语出现重大转型，从过去的马克思列宁主义阶级斗争话语，转向以[[Zhonghua Minzu\|中华民族]]伟大复兴和中华优秀传统文化为核心的文化-种族[[Nationalism|国族主义]]（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.139]]）。
 >
 > *“...signalled a decisive shift away from Marxist-Leninist class struggle towards a form of cultural-racial nationalism centered on the 'great rejuvenation of the Chinese nation' and the promotion of 'traditional Chinese culture'.”*
 

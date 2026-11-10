@@ -8,7 +8,7 @@ aliases:
 summary: "Sabine Maasen 与 Peter Weingart (2005) 提出的科学社会学概念，指教育等公共领域由于缺乏排他性专业壁垒与术语隔阂，公众皆自视为专家，导致研究证据高度暴露于公共争议之中，迫使政策中介机构诉诸严苛的证据层级体系重塑中立权威。"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,10 +36,13 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Variable]]"
   - "[[Performance Indicators]]"
+  - "[[Scientization of Politics]]"
+  - "[[Construct]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
+  - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
@@ -48,10 +51,11 @@ related_facts:
   - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Volmari_2025_CE]]"
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 
 ---
@@ -176,4 +180,4 @@ updated: 2026-11-09
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 阐释专业知识民主化如何使得教育政策中介机构承受公信力拷问，倒逼出以随机对照试验为金标准的证据层级体系。
-> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 将专业知识民主化作为质性编码核心构念，比较北欧三国学校改革中科学证据与政治合法化博弈的微观机制。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 将专业知识民主化作为[[Coding in Qualitative Research|质性编码]]核心[[Construct|构念]]，比较北欧三国学校改革中科学证据与政治合法化博弈的微观机制。

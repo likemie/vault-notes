@@ -10,7 +10,7 @@ title: "Argument_Beech_2015_GSE"
 argument_key: "Argument_Beech_2015_GSE"
 argument_display_title: "Interpreting the circulation of educational discourse across space: searching for new vocabularies"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 32
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Circular Transfer]]"
   - "[[Normal School]]"
-  - "[[Grammar of Schooling]]"
   - "[[Epistemology]]"
   - "[[Government to Governance Shift]]"
   - "[[Network Governance]]"
@@ -65,7 +64,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-07
-updated: 2026-10-30
+updated: 2026-11-11
 year: 2015
 doi: ""
 citation_aliases:
@@ -108,7 +107,7 @@ citation_aliases:
 >
 > 然而，随着教育体系的扩展，它逐渐脱离了萨米恩托基于马萨诸塞模型的蓝图，开始追随法国模型(Oría & Gvirtz, 2004)。法国对南美的强大文化影响力以及高度中央集权的教育组织对同质化人口、创建民族国家和巩固新中央政权合法性的政治吸引力，部分解释了这一转变。
 >
-> 从静态的转移视角来看，可以说师范学校的思想从普鲁士和法国移到马萨诸塞，从马萨诸塞到智利，再到阿根廷，后来又受到原始法国模型的影响。但从关系性视角来看，师范[[Grammar of Schooling\|学校的语法]]是在流通过程中、在不同地点之间被建构的，而非在某个特定地点生产然后被转移的。
+> 从静态的转移视角来看，可以说师范学校的思想从普鲁士和法国移到马萨诸塞，从马萨诸塞到智利，再到阿根廷，后来又受到原始法国模型的影响。但从关系性视角来看，师范学校的语法是在流通过程中、在不同地点之间被建构的，而非在某个特定地点生产然后被转移的。
 
 > [!info] [[Relational Space\|关系性空间]]的替代视角
 > 关系性空间概念意味着将空间理解为由社会行动者之间的关系所构成。关键概念是「网络」。网络不被包含在空间中，网络生产和塑造空间。从关系性视角来看，不存在绝对空间，而是不同的网络共存，创造不同的空间。空间研究不再基于传统的地形图分析，而是旨在分析网络配置的过程(Murdoch, 2006)。空间被视为社会过程的效果，而非容器。

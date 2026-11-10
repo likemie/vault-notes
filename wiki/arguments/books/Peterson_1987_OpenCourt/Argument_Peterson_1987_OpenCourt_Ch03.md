@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch03"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch03"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch03"
 argument_kind: "book-chapter"
-argument_related_count: 34
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Advanced Placement Program]]"
   - "[[Epistemology]]"
   - "[[Research Question]]"
+  - "[[Study Abroad]]"
   - "[[Time Management]]"
   - "[[Creativity]]"
   - "[[Areas of Knowledge]]"
@@ -57,6 +58,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Multiple-Choice Questions]]"
+  - "[[Knowledge Extent]]"
   - "[[Pilot Testing]]"
 related_instruments: []
 related_persons:
@@ -74,7 +76,7 @@ sources:
 part_of: "[[Argument_Peterson_1987_OpenCourt]]"
 status: draft
 created: 2026-08-17
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
@@ -139,7 +141,7 @@ updated: 2026-10-30
 
 ### 通识教育被重新定义为多种思维方式（1960–1968）
 
-> [!claim] 通识教育的通识性从知识范围转向思维能力
+> [!claim] 通识教育的通识性从[[Knowledge Extent|知识范围]]转向思维能力
 > 19 世纪至 20 世纪前期的欧洲课程通常把通识理解为广泛传授各科知识，英国则以少数专业科目配合边缘化的通识课程，美国主要把通识教育安排在大学前段。IB 设计者把通识性放在学习过程中：学生应发展参与多种思维方式的能力与意愿，能够运用语言、数学、历史、实验科学以及道德和审美判断理解新的情境。知识仍是思考所需的材料，课程目标则进一步要求学生掌握学科如何提出问题、使用证据、形成判断并认识自身限度。这种能力可以在离开学校后迁移到工作、公共生活与个人经验，因而被概括为学会学习（pp. 38–42）。
 
 > [!feature] 多种思维方式表现为对判断规则的区分与运用
@@ -206,7 +208,7 @@ updated: 2026-10-30
 > [!case] 从个人热情到约 4,000 字的独立研究
 > [[Kurt Hahn\|库尔特·哈恩]]（Kurt Hahn）重视青年人形成强烈而持久的个人热情。六学科和深度选项能够让学生认真研究某一内容，研究方向仍主要由课程大纲和教师确定。EE 再向前推进一步：每位文凭候选人从自己所选的六门学科中确定一个相关题目，完成一项实质性的个人研究，并以约 4,000 字论文呈现。个人兴趣由此获得明确的学术形式和文凭地位（p. 45）。
 >
-> 研究通常安排在两年课程的中段，占用四至六个月，由学生主要在自己的时间内完成。教师提供指导，具体介入程度会因学校和导师而异；最终论文交由外部考官评价。这个安排同时保留学生的选题自主权、学校的指导责任和跨校资格所需的外部判断（p. 45）。
+> 研究通常安排在两年课程的中段，占用四至六个月，由学生主要在自己的时间内完成。教师提供指导，具体介入程度会因学校和导师而异；最终论文交由外部考官评价。这个安排同时保[[Study Abroad|留学]]生的选题自主权、学校的指导责任和跨校资格所需的外部判断（p. 45）。
 
 > [!finding-cards] 早期反馈揭示 EE 的价值与风险
 > - **大学准备** 一些论文只是为了满足要求而提交，许多学生仍把 EE 视为进入大学后最有帮助的 IB 经历，因为它要求长[[Time Management|时间管理]]单一问题、资料和写作。

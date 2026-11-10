@@ -6,9 +6,9 @@ summary: "比较不同干预或变量影响强度的标准化统计指标，被�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 89
-method_related_level: 8
-method_related_stars: "💎💎⭐⭐"
+method_related_count: 90
+method_related_level: 9
+method_related_stars: "💎💎💎"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Category Mistake]]"
   - "[[Academic Achievement]]"
+  - "[[Homophily]]"
   - "[[Zone of Desired Effects]]"
   - "[[Heterogeneity]]"
   - "[[Homework]]"
@@ -117,7 +118,7 @@ related_instruments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 ---
@@ -148,7 +149,7 @@ updated: 2026-10-29
 > - **研究设计** [[Randomised Controlled Trials|随机对照试验]]（RCT）、[[Quasi-Experimental Designs|准实验设计]]（QED）、前[[Pre-test and Post-test|后测]]实验、[[Correlational Research|相关性研究]]。
 > - **数据收集** 标准化学生[[Academic Achievement|学业成绩]]测验、自适应测评软件后台记录、[[Questionnaire|问卷调查]]、行政统考数据库。
 > - **分析方法** 标准化均值差估计、相关系数转换、胜算比对数变换、[[Inverse-Variance Weighting|逆方差加权]]平均。
-> - **辅助技术** 小样本无偏校正（Hedges' $J$ 因子）、基线等效性筛查、[[Covariate Adjustment|协变量校正]]、变差系数同质性诊断、[[EEF Padlock Security Rating|挂锁安全评级]]。
+> - **辅助技术** 小样本无偏校正（Hedges' $J$ 因子）、基线等效性筛查、[[Covariate Adjustment|协变量校正]]、变差系数[[Homophily|同质性]]诊断、[[EEF Padlock Security Rating|挂锁安全评级]]。
 
 > [!dev-timeline] 效应量概念演变与基准框架演进
 > - **1964** — Benjamin Bloom 提出“两个标准差问题”，以标准差为单位探讨一对一辅导与班级教学的效果差距，奠定早期思想雏形（[[Argument_Higgins_2016_ROE|Higgins, 2016, p. 37]]）。

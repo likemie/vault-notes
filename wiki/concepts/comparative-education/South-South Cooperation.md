@@ -8,10 +8,10 @@ aliases:
 summary: "发展中国家之间基于平等互利、不附加政治条件与共同发展原则开展的跨国合作范式，在教育领域强调能力建设、双向人文交流与发展经验互鉴，构成对传统南北援助供求二元结构的制度替代。"
 type: concept
 domain: "comparative-education"
-related_count: 38
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - concept
   - comparative-education
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Mutual Learning]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
+  - "[[Study Abroad]]"
   - "[[Conditional Cash Transfers]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Engineering Education]]"
@@ -47,6 +48,7 @@ related_persons:
 related_facts:
   - "[[Forum on China-Africa Cooperation]]"
   - "[[OECD]]"
+  - "[[Development Assistance Committee]]"
   - "[[Luban Workshop]]"
   - "[[UNESCO]]"
   - "[[Institute of South-South Cooperation and Development]]"
@@ -66,7 +68,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -85,7 +87,7 @@ updated: 2026-11-03
 > *In this way, the FOCAC discourse underlines the sense that the agreements are two-way or win-win; it is, therefore, commonplace for the text to talk of "the two sides agreed..." This affirms the role of African agency... Despite this discourse of two-way collaboration, it is clear that the bulk of the HRD pledges are in reality one-way provision of scholarships and training awards.*
 
 > [!boundary]- 概念边界
-> - 不等于传统官方发展援助（Official Development Assistance, ODA）：后者通常依托[[OECD|经济合作与发展组织]]发展援助委员会（OECD-DAC）规则，附带良治或结构调整等政治经济条件；南南合作坚持不干涉内政与受援国主权主导。
+> - 不等于传统官方发展援助（Official Development Assistance, ODA）：后者通常依托[[OECD|经济合作与发展组织]][[Development Assistance Committee|发展援助委员会]]（OECD-DAC）规则，附带良治或结构调整等政治经济条件；南南合作坚持不干涉内政与受援国主权主导。
 > - 不适用于由北方多边金融机构单向主导的条件性贷款与结构性调整项目。
 
 ---
@@ -158,7 +160,7 @@ updated: 2026-11-03
 > **[[Capability Approach|能力进路]]与长效共生机制** 探讨南南教育合作如何突破传统货币援助局限，依托跨国重大工程构建政产学四方协同网络，在实现出资国海外产业长期效益的同时提升伙伴国自主造血能力。
 
 > [!claim] Liu et al.
-> **实体基建能力建设与四方共生逻辑** 刘文等学者（[[Argument_Liu_2025_IndHE|Liu et al., 2025]]）指出，中国高校深度参与中亚天然气管道、老挝水利电网及非洲干线交通工程人才培养，构建起双边政府、跨国国企、专业院校与青年学生紧密联动的四方协同模式。该实践契合阿马蒂亚·森（Amartya Sen）倡导的[[Capability Approach|能力进路]]理念，跳出传统西方单纯提供资金援助的模式，聚焦交通与能源等实体发展短板；通过全奖定向攻读石油、电力与路桥等工科学位，保障留学生毕业后全员回流母国重点工程一线，既降低了中资海外重资产的运营维护成本，又为伙伴国培育了自主维护现代化工程的核心技术梯队，实现了国家长远经济理性与受援国自主造血的互惠共生。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 193–196)]]
+> **实体基建能力建设与四方共生逻辑** 刘文等学者（[[Argument_Liu_2025_IndHE|Liu et al., 2025]]）指出，中国高校深度参与中亚天然气管道、老挝水利电网及非洲干线交通工程人才培养，构建起双边政府、跨国国企、专业院校与青年学生紧密联动的四方协同模式。该实践契合阿马蒂亚·森（Amartya Sen）倡导的[[Capability Approach|能力进路]]理念，跳出传统西方单纯提供资金援助的模式，聚焦交通与能源等实体发展短板；通过全奖定向攻读石油、电力与路桥等工科学位，保障[[Study Abroad|留学]]生毕业后全员回流母国重点工程一线，既降低了中资海外重资产的运营维护成本，又为伙伴国培育了自主维护现代化工程的核心技术梯队，实现了国家长远经济理性与受援国自主造血的互惠共生。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 193–196)]]
 
 ---
 

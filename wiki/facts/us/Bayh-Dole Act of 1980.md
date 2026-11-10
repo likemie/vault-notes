@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 40
+fact_related_count: 41
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dbeafe"
@@ -49,6 +49,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Fred Block]]"
+  - "[[Ben Levin]]"
 related_facts:
   - "[[United States Congress]]"
   - "[[SBIR and STTR Programs]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -183,7 +184,7 @@ updated: 2026-10-26
 > > [!axis] 公共财政伦理：半市场安排与“双重收费”指责
 > > 批评者质疑该法案制造了“风险由公共承担、利润由私人占有”的系统性不公。
 > >
-> > - **舒尔茨-克莱文等学者（[[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017]]）** 揭示了法案背后[[Academic Capitalism|学术资本主义]]的深层张力：由纳税人出资支撑的科研成果，最终通过专利垄断转化为大学和跨国公司的私有利润；学术界演变为一个通过专利交易进行资产增殖的“半市场”。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 800–801)]]
+> > - **舒尔茨-克[[Ben Levin|莱文]]等学者（[[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017]]）** 揭示了法案背后[[Academic Capitalism|学术资本主义]]的深层张力：由纳税人出资支撑的科研成果，最终通过专利垄断转化为大学和跨国公司的私有利润；学术界演变为一个通过专利交易进行资产增殖的“半市场”。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 800–801)]]
 > > - **[[Fred Block|布洛克]]（[[Argument_Block_2008_PS|Block, 2008]]）** 进一步指出，法案推动的知识产权私有化加剧了“公帑资助研发、私人垄断暴利”的体制断裂；以抗癌药紫杉醇（Taxol）为例，[[National Institutes of Health|NIH]] 承担了关键早期研发却仅获 3500 万美元版税，而联邦医疗保险 Medicare 单独支付了逾 5 亿美元；更严峻的是，排他性专利将知识异化为虚构商品，导致科研机构间因防范侵权而不敢协同，反向阻碍了技术突破。[[Argument_Block_2008_PS|(Block, 2008, pp. 195–197)]]
 > > - **立法捍卫者** 强调若无独家专利保护的超额垄断利润激励，任何商业资本都不会承担将实验室小样推进为安全药品的数亿美元后续临床中试成本，最终受害的依然是缺乏有效疗法的公众。
 >

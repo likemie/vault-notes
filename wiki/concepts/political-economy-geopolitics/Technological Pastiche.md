@@ -6,7 +6,7 @@ aliases:
 summary: "由人类学家大卫·格雷伯（David Graeber, 2012）提出并被卡普与扎米斯卡（2025）引用的科技批判构念，指现代科技产业在物理世界重大工程与颠覆性基础科学创新陷入停滞后，退缩为对既有数字化成果、通信协议与底层突破进行反复包装、微调与派生重组的浅层创新形态；它以海量手机应用、游戏与屏幕注意力争夺掩盖了人类对深空探索、清洁能源与物理世界革命性发明的历史性野心萎缩。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Big Idea Famine]]"
+  - "[[Combinatorial Novelty]]"
   - "[[Technological Republic]]"
   - "[[Nature of Innovation]]"
   - "[[Reliability]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -57,7 +58,7 @@ updated: 2026-11-03
 > *For Graeber, who described himself as an anarchist, the technology industry, and American culture more broadly, were at risk of being reduced to a sort of technical 'pastiche'—the rearrangement and repurposing of existing content and breakthroughs. The end of innovation was perhaps coming into sight.*
 
 > [!boundary]- 概念边界
-> - 不等于 组合式创新 — 健康的组合式创新能够产生乘数效应并推动生产率实质提升，而技术拼贴特指缺乏深层雄心、仅为资本套利服务的浅层衍生化。
+> - 不等于 [[Combinatorial Novelty|组合式创新]] — 健康的组合式创新能够产生乘数效应并推动生产率实质提升，而技术拼贴特指缺乏深层雄心、仅为资本套利服务的浅层衍生化。
 > - 不等于 产业数字化改造 — 产业数字化改造旨在升级实体产业与生产流程，技术拼贴则指工程力量在虚拟屏幕与注意力经济内部的自娱自乐。
 
 ---

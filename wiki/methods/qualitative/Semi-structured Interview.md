@@ -8,7 +8,7 @@ summary: "在预先准备的话题提纲与开放式追问之间取得平衡的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 50
+method_related_count: 55
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -27,9 +27,13 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Reflexivity]]"
   - "[[Reliability]]"
+  - "[[Original Innovation Capability]]"
   - "[[Visible Learning]]"
   - "[[University-Industry Collaboration]]"
   - "[[Soft Power]]"
+  - "[[Study Abroad]]"
+  - "[[Learning Crisis]]"
+  - "[[Discourse]]"
 related_methods:
   - "[[Qualitative Interview]]"
   - "[[Interview Protocol]]"
@@ -47,6 +51,7 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Questionnaire]]"
   - "[[Ethnography]]"
+  - "[[Exploratory Sequential Design]]"
   - "[[Classroom Observation]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
@@ -77,7 +82,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -157,7 +162,7 @@ updated: 2026-11-10
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]] — 在探索性序列设计第一阶段对 14 位取得原始创新突破的青年拔尖人才开展一对一半结构化访谈（单次 60～120 分钟），系统提炼学术职业早期的六重两难抉择。
+> - [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]] — 在[[Exploratory Sequential Design|探索性序列设计]]第一阶段对 14 位取得[[Original Innovation Capability|原始创新突破]]的青年拔尖人才开展一对一半结构化访谈（单次 60～120 分钟），系统提炼学术职业早期的六重两难抉择。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21)]] — 系统介绍了半结构化[[Interview Protocol|访谈提纲]]的构建，包括问题格式、回答模式、提示与追问的设计原则。
 > - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a, p. 107)]] — 在[[OECD|经合组织]]（OECD）跨国政策调查中，针对 6 个入选典型国家开展跟进半结构化访谈，对自陈[[Questionnaire|问卷]]反映出的机制与阻碍障壁（如新西兰资金倾斜、斯洛文尼亚部委思维重塑、南非机制嵌入等）进行定性深挖与三角核实。
 > - [[Argument_Kelly_2025_ROE|Kelly et al. (2025, pp. 9–11)]] — 在英格兰、格拉斯哥与汉堡选取 9 所学校的校长做 1 小时半结构化访谈，探究[[School Leadership|学校领导]]者在不同治理背景下获取与使用证据的渠道和约束。
@@ -165,9 +170,9 @@ updated: 2026-11-10
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014, p. 240)]] — 在[[Semiconductor Research Corporation|SRC]]单机构[[Case Study|案例研究]]中访谈 19 名总裁、主管、成员企业代表与受资助学者，考察[[University-Industry Collaboration|产学合作]]联合体的决策与治理特征。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012, pp. 336, 341–342)]] — 运用半结构化访谈针对[[HM Treasury|英国财政部]]、教育与就业部（DfEE）高级公务员、“新政”特别工作组成员及美国 [[MDRC]] 智库专家展开调研，解构官僚行动者在跨国政策搜寻中采纳美国证据与评估技术的幕后决策逻辑。
 > - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023, pp. 640–644)]] — 针对中柬高等教育合作项目的 40 位柬埔寨知情人开展半结构化访谈，结合四类参与实践全面考察[[Soft Power|软实力]]认知与评估。
-> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025, pp. 1047–1048)]] — 在金边及在华针对 40 位关键知情人（涵盖中柬高教项目管理者、[[Confucius Institute|孔子学院]]教职员、留学生及第三方外援项目协调人）开展半结构化[[In-depth Interview|深度访谈]]，通过平衡利益相关者与转岗/对比官员视角，解构对外高教合作的落地成效与深层张力。
+> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025, pp. 1047–1048)]] — 在金边及在华针对 40 位关键知情人（涵盖中柬高教项目管理者、[[Confucius Institute|孔子学院]]教职员、[[Study Abroad|留学]]生及第三方外援项目协调人）开展半结构化[[In-depth Interview|深度访谈]]，通过平衡利益相关者与转岗/对比官员视角，解构对外高教合作的落地成效与深层张力。
 > - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017, pp. 147–148)]] — 在曼谷、雅加达、新加坡与布鲁塞尔针对[[ASEAN|东盟]]秘书处、高教中心与[[EU|欧盟]]官员开展 53 场匿名半结构化访谈，通过双人独立笔录与跨个案比对揭示跨国政策理念互动。
 
 > - [[Argument_Skipp_Tanner_2015_EEF|(Skipp & Tanner, 2015, pp. 8, 12)]] — 在[[Visible Classroom|可见课堂]]试点的三个交叠批次中开展 27 次半结构访谈，结合两次[[Classroom Observation|课堂观察]]识别技术、反馈使用与专业讨论的实施条件。
 > - [[Argument_Sanders_2021_EEF|(Sanders et al., 2021, pp. 19–20)]] — 在可见课堂效能试验中目的抽样访谈教师和导师共 26 次，逐行编码归纳主题，样本偏向高参与者。
-> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 针对曾在三大国际组织任职的 23 位芬兰教育专家开展 60 至 90 分钟半结构化访谈，系统剖析跨国机构文官面对全球学习危机话语时的反思性认知与深层制度张力。
+> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 针对曾在三大国际组织任职的 23 位芬兰教育专家开展 60 至 90 分钟半结构化访谈，系统剖析跨国机构文官面对[[Learning Crisis|全球学习危机]][[Discourse|话语]]时的反思性认知与深层制度张力。

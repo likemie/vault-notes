@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 25
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Causality]]"
   - "[[School Autonomy]]"
+  - "[[Research Tool]]"
   - "[[School Choice]]"
   - "[[Document]]"
 related_theories: []
@@ -47,6 +48,7 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Sample Size Determination]]"
+  - "[[Natural Experiment]]"
   - "[[Difference-in-Differences]]"
   - "[[Regression Discontinuity Design]]"
   - "[[Experimental Research]]"
@@ -62,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -117,7 +119,7 @@ updated: 2026-11-02
 > - **[[Random Assignment\|随机化]]在宏观组织维度的制度性失灵** Teensleep 证明集群 [[Randomised Controlled Trials\|RCT]] 存在坚硬的治理边界；当实验处理涉及学校底层作息、跨校通勤与社区多主体利益链时，校长坚决拒绝交出办学自主权。
 > - **签约[[Sample Size Determination\|样本量]]断崖式归零导致统计功效坍塌** 极少有学校愿意在未知分组结果的前提下盲目承诺将全校上课时间调整为 10:00，使得试验无法达到预设的最低统计[[Effective Sample Size\|有效样本量]]。
 > - **揭示学校系统与外部社会生态的高度互嵌性** 学校教育绝非封闭的无菌实验室；上学时间变动直接与家长劳动时间、城市交通高峰及儿童监护网络深度绑定，单一技术性政策极易遭遇强大的系统惯性抵制。
-> - **催生[[Evidence-Based Education\|循证教育]]方法学多元化转向** 该试验的夭折成为英格兰教育研究方法论的分水岭，促使资助者从迷信单一 RCT 转向包容并重用自然实验与准实验方法。
+> - **催生[[Evidence-Based Education\|循证教育]]方法学多元化转向** 该试验的夭折成为英格兰教育研究方法论的分水岭，促使资助者从迷信单一 RCT 转向包容并重用[[Natural Experiment|自然实验]]与准实验方法。
 
 > [!stat-cards]- 关键实证数据
 > - **100+** （所） 原计划招募建档的英格兰完全中学数量规模
@@ -137,7 +139,7 @@ updated: 2026-11-02
 
 > [!lessons] 经验教训与启示
 > - **界定因果推断方法的适用边界** 宏观组织变革（如作息重构、能力编班）涉及复杂的组织契约与公共协调，不适宜采取强行[[Random Assignment\|随机化]]指令；而教室内教学微习惯与手册化课程包则更适合开展 RCT。
-> - **依托国家级行政数据库转向[[Quasi-Experimental Designs\|准实验设计]]** 对于学校组织体制变革，应当利用政策自然演变与[[School Autonomy|学校自主]]决策形成的天然方差，借助[[Difference-in-Differences\|双重差分法]]（DID）或回归断点设计（[[Regression Discontinuity Design\|RDD]]）等严谨准实验工具挖掘纵向普查数据，实现因果推断效度与实践可行性的双赢。
+> - **依托国家级行政数据库转向[[Quasi-Experimental Designs\|准实验设计]]** 对于学校组织体制变革，应当利用政策自然演变与[[School Autonomy|学校自主]]决策形成的天然方差，借助[[Difference-in-Differences\|双重差分法]]（DID）或回归断点设计（[[Regression Discontinuity Design\|RDD]]）等严谨准[[Research Tool|实验工具]]挖掘纵向普查数据，实现因果推断效度与实践可行性的双赢。
 
 ---
 

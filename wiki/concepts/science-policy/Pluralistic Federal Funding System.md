@@ -49,20 +49,20 @@ related_facts:
   - "[[DARPA]]"
 related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
-  - "[[Argument_Yang_2017_MUE]]"
 related_persons:
   - "[[Vannevar Bush]]"
   - "[[Franklin D. Roosevelt]]"
+  - "[[Harry S. Truman]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Pluralistic Federal Funding System
-> 多元联邦资助体系（Pluralistic Federal Funding System）是指二战后在美国逐步确立的、由多个不同使命导向的联邦部门与独立机构共同构成的去中心化、多源并存的学术科研经费资助治理格局；该体系打破了[[Vannevar Bush|万尼瓦尔·布什]]在《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》中最初设想由单一国家研究基金会垄断统筹全国基础研究的中央集权式方案，形成了由专注于跨学科纯基础研究的国家科学基金会（[[National Science Foundation|NSF]]）与承担特定国家战略使命的任务型机构（如[[Office of Naval Research|海军研究办公室]] ONR、能源部 [[Department of Energy|DOE]]/原 [[Atomic Energy Commission|AEC]]、国立卫生研究院 [[National Institutes of Health|NIH]]、[[National Aeronautics and Space Administration|国家航空航天局]] NASA 等）分工协作、相互竞争与冗余托底的资助网络。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]
+> 多元联邦资助体系（Pluralistic Federal Funding System）是指二战后在美国逐步确立的、由多个不同使命导向的联邦部门与独立机构共同构成的去中心化、多源并存的学术科研经费资助治理格局；该体系打破了[[Vannevar Bush|万尼瓦尔·布什]]在《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》中最初设想由单一国家研究基金会垄断统筹全国基础研究的中央集权式方案，形成了由专注于跨学科纯基础研究的国家科学基金会（[[National Science Foundation|NSF]]）与承担特定国家战略使命的任务型机构（如[[Office of Naval Research|海军研究办公室]] ONR、能源部 [[Department of Energy|DOE]]/原 [[ASEAN Economic Community|AEC]]、国立卫生研究院 [[National Institutes of Health|NIH]]、[[National Aeronautics and Space Administration|国家航空航天局]] NASA 等）分工协作、相互竞争与冗余托底的资助网络。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]
 
 > [!concept-lens] 概念透镜
 > - **制度本质** 政治妥协与冷战防务需求交织催生的非单一中心科研资源配置生态。
@@ -126,7 +126,7 @@ updated: 2026-11-04
 > - **二战期间（1940–1945）— 战时集中动员与合同机制突破**
 >   [[Franklin D. Roosevelt|罗斯福总统]]设立国家国防研究委员会（NDRC）与[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（OSRD），由[[Vannevar Bush|万尼瓦尔·布什]]统帅；开创性打破政府自建机构旧规，直接与大学签订研发合同，设立 MIT [[MIT Radiation Laboratory|辐射实验室]]与芝加哥大学冶金实验室，动员大学顶级科学家攻坚雷达与[[Manhattan Project|曼哈顿工程]]，确立了学术研究的战略价值。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
 > - **战后博弈与多元成型（1945–1950）— 填补真空与多路并进**
->   布什呈递《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》呼吁设立单一基金会，但杜鲁门总统否决了缺乏行政问责的法案；在长达五年的立法僵局中，[[Office of Naval Research|海军研究办公室]]（ONR, 1946）、原子能委员会（AEC, 1946）及国立卫生研究院（NIH, 1947）等任务型机构率先向大学常规注入基础科研资金；1950 年 [[National Science Foundation|NSF]] 妥协成立，多元联邦资助格局正式定型。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]
+>   布什呈递《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》呼吁设立单一基金会，但[[Harry S. Truman|杜鲁门总统]]否决了缺乏行政问责的法案；在长达五年的立法僵局中，[[Office of Naval Research|海军研究办公室]]（ONR, 1946）、原子能委员会（AEC, 1946）及国立卫生研究院（NIH, 1947）等任务型机构率先向大学常规注入基础科研资金；1950 年 [[National Science Foundation|NSF]] 妥协成立，多元联邦资助格局正式定型。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]
 > - **冷战繁荣与[[Big Science|大科学]]扩展（1950–1975）— 人造卫星危机与体制升级**
 >   1957 年苏联发射 [[Sputnik Shock 1957|Sputnik]] 卫星引发全美震动，NSF 预算两年内激增 250%；国会通过《[[National Defense Education Act of 1958|1958年国防教育法]]案》（NDEA）赋予 NSF 科学课程改革与研究生资助使命；联邦设立由大学托管的[[Federally Funded Research and Development Centers|联邦资助研发中心]]（FFRDC，如伯克利实验室、费米实验室），构筑国家级[[Megascience Installations|大科学装置]]共享网络。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 37–39)]]
 > - **产学协同与现代重组（1975 年至今）— 危机纠偏与[[Technology Transfer|技术转移]]**

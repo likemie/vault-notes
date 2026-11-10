@@ -8,7 +8,7 @@ aliases:
 summary: "围绕学生差异动态调整教学进度、内容难度与支架强度的微观教学组织形式。元分析显示其孤立效应微弱，其实质成效高度依赖教师认知结构的持续在场与小班额等组织条件的交互支撑；在跨国教育治理中亦被提炼为兼顾卓越与公平的可移植政策处方（Grek, 2009）。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Homework]]"
   - "[[Academic Achievement]]"
   - "[[Grade Retention]]"
+  - "[[Eget Arbete]]"
   - "[[Effective Teaching]]"
   - "[[Feedback]]"
   - "[[Chain of Evidence]]"
@@ -85,7 +86,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -193,7 +194,7 @@ updated: 2026-11-03
 > 芬兰在 [[PISA]] 测评中持续展现出极高的教育公平度（校际方差极低），引发了欧洲范围内的考察热潮。索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, p. 33]]）指出，[[EU|欧盟]]委员会依托“[[Open Method of Coordination|开放协调法]]”于 2006 年组织各成员国教育专家赴芬兰开展针对特殊需要教育的“同伴学习活动”（PLA）。实地调研表明，芬兰教育成效的关键在于综合学校对学业困难儿童实施的制度化早期个别化教学支持：学校通过兼职特教教师在常规课堂内为落后学生提供密集的个别化辅导方案，避免了过早的学业分流或[[Grade Retention|留级]]标签，从而使个别化教学被欧盟提炼为实现“兼顾卓越与公平”的标志性跨国政策配方。
 
 > [!case] 瑞典公立学校“个人化工作”改革的反思与再平衡
-> [[Swedish National Agency for Education|瑞典国家教育署]]在 1990 年代末至 2000 年代初大力推广以“学生自主工作时间”（eget arbete）为特征的个别化改革。[[Classroom Observation|课堂观察]]与大规模追踪评估发现，学生将高达三分之一的在校时间用于独立做练习单、自填进度表；教师则将精力耗费于繁复的表格管理与纪律巡视，针对学科概念的系统讲授与深度提问急剧减少。该项实证评估最终证实，这种假性个别化导致瑞典在 [[PISA]] 国际测评中成绩连续下滑，特别是基础薄弱学生因缺乏教师系统示范而遭受重创，迫使瑞典教育界在 2010 年代重新回归强调教师主导、全班结构与个别辅导相结合的专业轨道。（Håkansson, 2015, pp. 586–595）
+> [[Swedish National Agency for Education|瑞典国家教育署]]在 1990 年代末至 2000 年代初大力推广以“学生自主工作时间”（[[Eget Arbete|eget arbete]]）为特征的个别化改革。[[Classroom Observation|课堂观察]]与大规模追踪评估发现，学生将高达三分之一的在校时间用于独立做练习单、自填进度表；教师则将精力耗费于繁复的表格管理与纪律巡视，针对学科概念的系统讲授与深度提问急剧减少。该项实证评估最终证实，这种假性个别化导致瑞典在 [[PISA]] 国际测评中成绩连续下滑，特别是基础薄弱学生因缺乏教师系统示范而遭受重创，迫使瑞典教育界在 2010 年代重新回归强调教师主导、全班结构与个别辅导相结合的专业轨道。（Håkansson, 2015, pp. 586–595）
 
 ---
 

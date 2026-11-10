@@ -30,16 +30,16 @@ tags:
 related_concepts:
   - "[[Educational Management Organisation]]"
   - "[[Visible Learning]]"
+  - "[[Quasi-market]]"
   - "[[Policy Network]]"
   - "[[Dual-Entity Legal Structure]]"
   - "[[International Education]]"
   - "[[International Schools]]"
-  - "[[Screening Off]]"
   - "[[School Leadership]]"
   - "[[Global Education Reform Movement]]"
+  - "[[Transnational Education]]"
   - "[[Implementation Fidelity]]"
   - "[[Class Size]]"
-  - "[[Neo-Taylorism]]"
 related_theories: []
 related_methods:
   - "[[Pilot Testing]]"
@@ -64,13 +64,13 @@ related_arguments:
 confidence: high
 status: stable
 created: "2026-05-23"
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定位
-> Cognition Education（认知教育；前身为 Multi Serve）是伴随 1989 年新西兰《明日学校》（[[Tomorrow's Schools Reforms|Tomorrow's Schools]]）改革而诞生的高校教育后勤承包商与跨国[[Educational Management Organisation|教育管理组织]]（EMO）。该机构横跨慈善信托与营利性商业咨询公司双重实体，核心业务涵盖学校行政承包、教师专业发展、跨国建校咨询以及《[[Visible Learning|可见的学习]]》（[[Visible Learning Branding and Global Influences|Visible Learningplus]]）全球知识产权专营，是新自由主义教育准市场、跨国咨询资本与[[Policy Network|政策网络]]深度交织的代表性枢纽。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 65)]]; [[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 11–12)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 30–31)]]
+> Cognition Education（认知教育；前身为 Multi Serve）是伴随 1989 年新西兰《明日学校》（[[Tomorrow's Schools Reforms|Tomorrow's Schools]]）改革而诞生的高校教育后勤承包商与跨国[[Educational Management Organisation|教育管理组织]]（EMO）。该机构横跨慈善信托与营利性商业咨询公司双重实体，核心业务涵盖学校行政承包、教师专业发展、跨国建校咨询以及《[[Visible Learning|可见的学习]]》（[[Visible Learning Branding and Global Influences|Visible Learningplus]]）全球知识产权专营，是新自由主义[[Quasi-market|教育准市场]]、跨国咨询资本与[[Policy Network|政策网络]]深度交织的代表性枢纽。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 65)]]; [[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 11–12)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 30–31)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1989 年 10 月新西兰推行明日学校改革，撤销原有区域教育委员会，将原本由公共部门承担的学校工资发放与校车运输等行政后勤职能从教育部剥离，交由新设的自负盈亏教育服务中心承接，Multi Serve Education Trust 由此应运而生。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 11–12)]]
@@ -118,7 +118,7 @@ updated: 2026-11-02
 > - **全球特许授权网络（Licensor Network）** 摒弃重资产海外自建分公司模式，在 23 个国家推行商业连锁特许专营（如与英国 Osiris、Challenging Learning、澳大利亚麦克米兰及美国[[Corwin Press|考文出版社]]合作）；依托奥克兰总部进行 5 轮[[Pilot Testing|实地测试]]定型逐字脚本化讲义，全球培训师录取淘汰率达五分之四并严厉禁止分享个人轶事，同时对外部独立学者进入奥克兰总部实地审计数据清洗与建模流程保持严密封闭。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, p. 60)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 67)]]; [[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 254–255)]]
 
 > [!pathways] 业务运行机制
-> - **双层资本流转与税负[[Screening Off|屏蔽]]** 营利子公司 Limited 将运营利润以大额捐赠形式回流给唯一的慈善股东 Trust，凭借新西兰慈善信托免税政策大幅冲抵企业所得税，甚至连续多年实现账面零税负。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 71–73)]]
+> - **双层资本流转与税负屏蔽** 营利子公司 Limited 将运营利润以大额捐赠形式回流给唯一的慈善股东 Trust，凭借新西兰慈善信托免税政策大幅冲抵企业所得税，甚至连续多年实现账面零税负。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 71–73)]]
 > - **从行政外包到知识商品化** 早期依靠承接国家教育部行政职能维持现金流，后期将高校学术科研成果重新封装为模块化、标准化的认证培训包，通过高利润知识产权许可费替代低毛利的现场劳务。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 58–61)]]
 > - **编织河道风险对冲策略** 面对跨国大合同因政局变动而剧烈波动的脆弱性，放弃押注单一大河道，建立由政府联合体（如 Te Toi Tupu）、数学项目、原住民地区干预与海外小额咨询构成的多节点分散组合。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 55–63)]]
 
@@ -204,7 +204,7 @@ updated: 2026-11-02
 >
 > *Hattie served on the board of the Cognition Education Trust while simultaneously receiving substantial third-party royalties and fees totaling at least \$869,453 NZD between 2011 and 2015 from Cognition's commercial operations... Even if this does not technically constitute a formal breach of conflict-of-interest regulations, the optics of converting academic stature into privatized commercial consulting royalties are deeply troubling.*
 
-> [!citation-card] 从准市场后勤承包商向跨国教育实体的转变
+> [!citation-card] 从准市场后勤承包商向[[Transnational Education|跨国教育]]实体的转变
 > 组织的演进轨迹体现为伴随准市场危机被迫转型的求生史。通过文莱贵族学校项目与中东系统改革合同，Multi Serve 摆脱了单纯依靠政府工资发放微薄利润的局限，最终成长为一个横跨五大洲、将新西兰教育治理经验全面商品化的跨国教育管理实体。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 11–13, 21–23)]]
 >
 > *The trajectory of the organisation was not a smooth evolutionary curve, but rather a survival narrative driven by market crises and forced diversification... Through the Jerudong project and Middle Eastern contracts, Multi Serve transitioned from a domestic payroll contractor into an [[International Education]] conglomerate that commodified New Zealand educational reform expertise across the globe.*

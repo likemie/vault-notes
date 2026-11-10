@@ -10,10 +10,10 @@ summary: "美国海军四星上将，被誉为核海军之父；领导开发了�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1900"
 died: "1986"
 lifespan: "1900–1986"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Scapegoat Mechanism]]"
 related_facts:
   - "[[USS Nautilus Submarine Development]]"
+  - "[[Atomic Energy Commission]]"
   - "[[ASEAN Economic Community]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16]]"
@@ -40,7 +41,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -61,7 +62,7 @@ updated: 2026-11-02
 > - **1900** 出生于当时隶属于俄罗斯帝国的波兰马科夫（Maków Mazowiecki）附近小镇，父亲为裁缝。
 > - **1906** 随家人移民美国纽约。
 > - **1922** 毕业于美国海军学院，随后在哥伦比亚大学获得电气工程硕士学位。
-> - **1940 年代后期** 出任美国海军反应堆部门负责人，同时兼任美国原子能委员会（Atomic Energy Commission, [[ASEAN Economic Community|AEC]]）海军反应堆主管，开启潜艇核动力推进研发。
+> - **1940 年代后期** 出任美国海军反应堆部门负责人，同时兼任[[Atomic Energy Commission|美国原子能委员会]]（Atomic Energy Commission, [[ASEAN Economic Community|AEC]]）海军反应堆主管，开启潜艇核动力推进研发。
 > - **1953** 在爱达荷州沙漠监督完成小型舰载核反应堆陆上样机动力试验。
 > - **1955** 世界上首艘核动力潜艇鹦鹉螺号成功首航，确立美军数十年的水下绝对战略均势优势。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 183–184)]]
 > - **1982** 服役长达 63 年后以四星上将军衔正式退役。

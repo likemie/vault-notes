@@ -18,10 +18,14 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Clinical Trial]]"
   - "[[Confidentiality]]"
+  - "[[Material Transfer Agreement]]"
   - "[[Institutional Review Board]]"
   - "[[Informed Consent]]"
   - "[[Creativity]]"
   - "[[Responsible Conduct of Research]]"
+  - "[[Ghost Authorship]]"
+  - "[[Guest Authorship]]"
+  - "[[Author Contribution Disclosures]]"
   - "[[Technology Transfer Office]]"
   - "[[Operationalization]]"
   - "[[Strategic Compliance]]"
@@ -42,14 +46,14 @@ sources:
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 status: draft
 created: 2026-06-04
-updated: 2026-10-23
+updated: 2026-11-11
 subtype: book-chapter
 publication_type: book
 title: "Argument_Hall_2025_EthicalLegalFrameworks"
 argument_key: "Argument_Hall_2025_EthicalLegalFrameworks"
 argument_display_title: "Ethical relationships, legal frameworks, and agreements"
 argument_kind: "book"
-argument_related_count: 21
+argument_related_count: 25
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -139,7 +143,7 @@ citation_aliases:
 | 数据使用协议（Data Use） | 组织间共享数据（通常为研究数据），对接收方有指定的使用限制和责任，通常无付款 |
 | 捐赠（Gift） | 为指定目的（如研究）进行的不可撤销付款，不附带承诺的交付物或知识产权权利 |
 | 合资企业（Joint Venture） | 组织间合作创建新的共同控制和拥有的实体，如商业化企业 |
-| 材料转移协议（Material Transfer / MTA） | 将研究材料（生物材料、化合物或动物）从一方提供给另一方用于指定用途，通常由接收方付款 |
+| [[Material Transfer Agreement\|材料转移协议]]（Material Transfer / MTA） | 将研究材料（生物材料、化合物或动物）从一方提供给另一方用于指定用途，通常由接收方付款 |
 | 会员制（Membership） | 企业付费参与大学中心（如 [[National Science Foundation]] 工程研究中心），享有对中心工作的发言权和共享获取中心产品的权利 |
 | 服务协议（Service） | 利用独特资源（如实验室设备）执行指定任务，成本报销；服务不是研究，因为赞助方定义了工作内容 |
 | [[Sponsored Research Agreement]]（赞助研究 / SRA） | 企业资助大学研究项目的合同关系，有指定时间表、承诺交付物和知识产权权利 |
@@ -204,7 +208,7 @@ citation_aliases:
 > 质量控制是产学协议中的一个隐藏摩擦点。大学通常要求学生和教师完成 RCR 培训作为研究条件，但大学的质量控制远不如企业那样系统化——大学文化重视创造性独立性，制度性控制和研究基础设施支持相对不足，而且研究的实际执行者往往是经验有限的学生。因此大学合同办公室非常谨慎，不愿在协议中"担保"研究质量(p.266)。企业需要理解：大学的 RCR 培训提供了伦理和方法的底线保障，但不是 ISO 式的质量认证。
 
 > [!note] 署名伦理
-> 署名规范（Attribution）要求任何对研究做出实质贡献的人被列为作者，未做贡献的人不得被列入——"幽灵作者"（ghost authorship）和"赠予署名"（gift authorship）均属不当。近年来越来越多期刊采用贡献者角色分类法（Contributor Roles Taxonomy, CRediT）作为署名标准，要求所有作者精确说明各自的贡献类型。在产学合作中，这意味着企业研究人员如果对研究的智力贡献达到作者的实质门槛，应当被列入作者名单；反之，仅提供资金或行政支持的企业人员不应被列入(p.266)。
+> 署名规范（Attribution）要求任何对研究做出实质贡献的人被列为作者，未做贡献的人不得被列入——"[[Ghost Authorship|幽灵作者]]"（ghost authorship）和"[[Guest Authorship|赠予署名]]"（gift authorship）均属不当。近年来越来越多期刊采用[[Author Contribution Disclosures|贡献者角色分类]]法（Contributor Roles Taxonomy, CRediT）作为署名标准，要求所有作者精确说明各自的贡献类型。在产学合作中，这意味着企业研究人员如果对研究的智力贡献达到作者的实质门槛，应当被列入作者名单；反之，仅提供资金或行政支持的企业人员不应被列入(p.266)。
 
 > [!warning] 知识产权的伦理维度
 > 大学[[Technology Transfer Office\|技术转移办公室]]在管理产学合作的知识产权时需要平衡四个冲突性的问题(p.267)：

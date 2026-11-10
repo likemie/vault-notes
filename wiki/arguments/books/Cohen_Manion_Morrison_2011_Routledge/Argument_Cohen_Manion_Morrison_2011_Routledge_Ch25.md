@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25"
 argument_display_title: "Research Methods in Education · Ch25"
 argument_kind: "book-chapter"
-argument_related_count: 31
+argument_related_count: 33
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -36,6 +36,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
   - "[[Concept Mapping]]"
+  - "[[Research Tool]]"
   - "[[Personal Constructs]]"
   - "[[Construct]]"
   - "[[Unit of Analysis]]"
@@ -69,9 +70,11 @@ related_methods:
   - "[[Pre-test and Post-test]]"
 related_persons:
   - "[[George Kelly]]"
+related_facts:
+  - "[[Dimensions]]"
 status: draft
 created: 2026-07-28
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
@@ -80,7 +83,7 @@ updated: 2026-10-30
 
 ## 章节内容
 
-本章由 Richard Bell 撰写，介绍 [[George Kelly]] 的 [[Personal Construct Theory|个人建构理论]]及其核心研究工具，[[Repertory Grid Technique|角色建构库测验]]（repertory grid，又译方格法、方法格）。该技术通过引发个体用于理解世界的维度，即 [[Personal Constructs|个人建构]]（personal [[Construct|constructs]]），同时收集质性数据（构念标签）和量化数据（网格评分），在个体化测量与跨个体比较之间寻求平衡。
+本章由 Richard Bell 撰写，介绍 [[George Kelly]] 的 [[Personal Construct Theory|个人建构理论]]及其核心[[Research Tool|研究工具]]，[[Repertory Grid Technique|角色建构库测验]]（repertory grid，又译方格法、方法格）。该技术通过引发个体用于理解世界的维度，即 [[Personal Constructs|个人建构]]（personal [[Construct|constructs]]），同时收集质性数据（构念标签）和量化数据（网格评分），在个体化测量与跨个体比较之间寻求平衡。
 
 > [!question] 核心问题
 >
@@ -661,7 +664,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > [!citation-card] [[Personal Constructs\|个人建构]]的定义与个体性
 > 个人建构是我们用于概念化日常生活中各个方面的维度，人对事件的建构各不相同。（第25章，25.1节；Kelly, 1955）
 >
-> *Personal [[Construct\|constructs]] are the dimensions that we use to conceptualize aspects of our day-to-day world, and, as Kelly writes, people differ from each other in their construction of events.*
+> *Personal [[Construct\|constructs]] are the [[Dimensions|dimensions]] that we use to conceptualize aspects of our day-to-day world, and, as Kelly writes, people differ from each other in their construction of events.*
 
 > [!citation-card] 基本公设，整个理论体系的基石
 > 一个人的心理过程由他或她预期事件的方式所引导。（第25章，25.1节；Kelly, 1955）

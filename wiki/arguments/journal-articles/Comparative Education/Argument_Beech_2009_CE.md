@@ -35,11 +35,14 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Pragmatism in China]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Nationalism]]"
   - "[[Commensuration]]"
   - "[[Document]]"
   - "[[Post-Fordism]]"
+  - "[[Homophily]]"
   - "[[Policy Network]]"
   - "[[Global Citizenship]]"
+  - "[[Transnational Education]]"
   - "[[Washington Consensus]]"
   - "[[Geopolitics]]"
   - "[[Symbolic Boundary]]"
@@ -78,14 +81,14 @@ sources:
 part_of:
 status: draft
 created: 2026-06-08
-updated: 2026-10-30
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Beech_2009_CE"
 argument_key: "Argument_Beech_2009_CE"
 argument_display_title: "Policy spaces, mobile discourses, and the definition of educated identities"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 53
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -135,7 +138,7 @@ issuing_organization: ""
 
 比较教育长期以国家为空间分析的基本单位。这不是比较教育独有的问题——社会科学普遍假设民族国家是划分社会空间的自然边界。
 
-> [!def] 方法论民族主义 (Methodological Nationalism)
+> [!def] 方法论[[Nationalism|民族主义]] (Methodological Nationalism)
 > 指在社会科学和比较教育研究中，未经反思地将民族国家作为划分社会空间与分析现象的默认/天然边界，从而把所有变化都理解为国家与国家之间横向地理差异的倾向(Wimmer & Glick Schiller, 2002; Dale, 2005)。
 
 > [!critique-logic] 语言概念中隐藏的民族国家预设
@@ -222,7 +225,7 @@ Castells 据此区分了两种空间逻辑：
 > 主张学校知识的价值应以学生能够用知识做什么来衡量，而非以记住了多少事实知识来定义。该概念源自企业管理和职业培训，与[[Post-Fordism|后福特主义]]劳动组织对高素养工人的新需求相关(De Ketele, 2008, 引自 pp.353–354)。
 
 > [!line-b] 追踪线索二：尊重多样性（Respect for Diversity）
-> 被[[World Bank\|世界银行]]、[[OECD]]、[[UNESCO]]、[[UNICEF\|联合国儿童基金会]]（United Nations Children's Fund，UNICEF）和[[Education International\|国际教育协会]]（Education International，[[Education International]]）等意识形态立场各异的机构共同倡导。许多历史上以文化同质性为核心目标的教育系统，也在官方修辞层面接受了该口号(Gvirtz & Beech, 2008, 引自 p.354)。
+> 被[[World Bank\|世界银行]]、[[OECD]]、[[UNESCO]]、[[UNICEF\|联合国儿童基金会]]（United Nations Children's Fund，UNICEF）和[[Education International\|国际教育协会]]（Education International，[[Education International]]）等意识形态立场各异的机构共同倡导。许多历史上以文化[[Homophily|同质性]]为核心目标的教育系统，也在官方修辞层面接受了该口号(Gvirtz & Beech, 2008, 引自 p.354)。
 
 选择这两个线索的理由很清晰：它们都起源于特定的历史语境和社会需求，但在[[Global Educational Discourse|全球教育话语]]中已被高度抽象化，因此是观察意义在空间移动中如何变化的理想样本。
 
@@ -260,7 +263,7 @@ Castells 据此区分了两种空间逻辑：
 > [!actor-grid] 全球教育政策空间中的四类主要行动者
 > - **国际多边机构**[[OECD]]、[[World Bank\|世界银行]]、[[UNESCO]]、[[International Monetary Fund|国际货币基金组织]]（International Monetary Fund，IMF）等。它们之间有悠久的协作历史，但竞争和势力范围的划分同样显著(Jones & Coleman, 2005, 引自 p.351)。
 > - **[[Global Citizenship\|全球公民]]社会与非政府组织（Non-Governmental Organization，NGO）** 多边组织越来越多地与被视作新兴"全球公民社会"代表的 NGO 协作，形成跨国倡导联盟(Mundy & Murphy, 2001, p.86, 引自 p.351)。
-> - **跨国教育服务企业** 以 剑桥教育（Cambridge Education） 为代表的私营公司，向泰国、中国省级政府、美国各州及孟加拉国、柬埔寨等地直接出售“教育政策方案”(Ball, 2009)。
+> - **[[Transnational Education|跨国教育]]服务企业** 以 剑桥教育（Cambridge Education） 为代表的私营公司，向泰国、中国省级政府、美国各州及孟加拉国、柬埔寨等地直接出售“教育政策方案”(Ball, 2009)。
 > - **智库与亲市场基金会** 如 [[Fraser Institute|弗雷泽研究所]]（Fraser Institute）、邓普顿基金会（John Templeton Foundation，Templeton Foundation）、卡托研究所（Cato Institute）和 弗里德曼基金会（Friedman Foundation），为跨国企业在各地的政策咨询和公共服务角色提供理论与合法性支持(Ball, 2007, 2009)。
 
 > [!exegesis]- 同一个行动者，不同的网络，不同的角色

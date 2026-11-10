@@ -5,10 +5,10 @@ aliases:
 summary: "围绕效应量作为教育有效性指标的多维度批评体系，涵盖计算口径不可比、聚合失真、关节点争议、试验清晰度论证及政策排名风险"
 type: concept
 domain: "research-methodology"
-related_count: 58
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - effect-size
   - meta-analysis
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Critique of Meta-analysis]]"
   - "[[Unit of Analysis]]"
+  - "[[Policy Translation]]"
   - "[[Research Utilization]]"
   - "[[Evidence-Based Education]]"
   - "[[Document]]"
@@ -31,6 +32,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Business as Usual]]"
   - "[[Metacognition]]"
+  - "[[Extending School Time]]"
   - "[[Category Mistake]]"
   - "[[Extracurricular Activities]]"
   - "[[Causality]]"
@@ -81,7 +83,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-15
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -109,7 +111,7 @@ updated: 2026-10-30
 ---
 
 > [!warning] 争议结构
-> [[Effect Size\|效应量]]争议不是一个单点问题，而是一条从“计算口径”到“教育政策使用”的问题链。支持者强调它提供跨研究比较的共同尺度；批评者则指出，公式、测量、对照条件、聚合方式和政策转译都会改变效应量的含义。
+> [[Effect Size\|效应量]]争议不是一个单点问题，而是一条从“计算口径”到“教育政策使用”的问题链。支持者强调它提供跨研究比较的共同尺度；批评者则指出，公式、测量、对照条件、聚合方式和[[Policy Translation|政策转译]]都会改变效应量的含义。
 
 ---
 
@@ -254,7 +256,7 @@ updated: 2026-10-30
 > 豆子肥料思想实验——第一位农民比较肥料 vs 无肥料（d=1.0），第二位比较同一肥料 vs 粪肥（d=0.5），不能因此说第一位农民的肥料效果更大。不同研究使用不同的比较基线（无干预 vs 替代处理 vs [[Business as Usual\|照常教学]]），使效应量不可比——"一个分析的实验组是另一个分析的控制组"（p.7）。Camilli et al.（2010）发现比较"无干预"的效应量是"替代处理"的 3 倍以上。系统性含义：反馈研究可在实验室使用"无反馈"比较，行为[[Intervention Research\|干预研究]]只能比较"更密集 vs 现有方案"——反馈效应量系统性地更高，不是因为反馈更有效，而是因为可用的比较组设计不同（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, pp.5–7]]）。
 
 > [!claim] 偏差二：范围限制
-> 选择窄化样本减小方差从而放大效应量——10,000 次模拟显示中等能力组效应量膨胀 40%（pp.8–9）。英国 14 岁数学与 16 岁普通中等教育证书 r≈0.85，按此分班后研究效应量膨胀 50–75%。反馈和[[Metacognition\|元认知]]研究容易限制样本范围（前测失败者），延长学校日或校服研究无法限制——反馈效应量系统性地更高（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, pp.7–11]]）。
+> 选择窄化样本减小方差从而放大效应量——10,000 次模拟显示中等能力组效应量膨胀 40%（pp.8–9）。英国 14 岁数学与 16 岁普通中等教育证书 r≈0.85，按此分班后研究效应量膨胀 50–75%。反馈和[[Metacognition\|元认知]]研究容易限制样本范围（前测失败者），[[Extending School Time|延长学校日]]或校服研究无法限制——反馈效应量系统性地更高（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, pp.7–11]]）。
 
 > [!claim] 偏差三：测量设计——聚焦度与精确度
 > 研究者自编测试效应量比标准化测试平均高约 40%（p.12）；测试长度翻倍可膨胀效应量 20%–100%+。反馈元分析中仅 9/68 效应量用标准化测试，早期干预元分析中 37/39 个——反馈效应量系统性更高，不是因为反馈更有效（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, pp.11–14]]）。

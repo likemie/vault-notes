@@ -9,7 +9,7 @@ aliases:
 summary: "指通用技术或信息技术在下游各行业扩散与应用时，用户端为适应新技术所必须开展的组织重构、流程调整、技能重塑与互补性二次发明过程；是通用目的技术释放全要素生产率收益的必要中介。"
 type: concept
 domain: "economics"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Total Factor Productivity]]"
   - "[[Application Engineering]]"
+  - "[[Homophily]]"
   - "[[Heterogeneity]]"
   - "[[Champ]]"
   - "[[Determinism]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -113,7 +114,7 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题三｜行业产出同质性与产品差异化程度制约用户共同发明机制的跨领域移植
+> [!concept-proposition] 命题三｜行业产出[[Homophily|同质性]]与产品差异化程度制约用户共同发明机制的跨领域移植
 > **产业特质与共同发明边界** 探讨不同工业部门在技术特征与产品差异性上的[[Heterogeneity|异质性]]如何影响用户端共同发明的空间与动力。
 
 > [!claim] Mowery, D. C.

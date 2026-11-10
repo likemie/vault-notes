@@ -9,7 +9,7 @@ aliases:
 summary: "刻画学术出版体制中为应对同行首发优先权竞逐而演化出的短篇极速刊发体裁。起源于欧内斯特·卢瑟福为应对放射性成果确权竞争而巧妙利用《自然》周刊‘致编辑信’栏目快速发表完整研究结果的特洛伊木马策略，后经玻尔团队与哥本哈根学派制度化，最终奠定了现代顶尖期刊（如 Physical Review Letters）标志性快报发表制度的基础（Wang & Barabási, 2021）。"
 type: concept
 domain: "science-policy"
-related_count: 17
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Big Science]]"
   - "[[Epistemic Friction]]"
+  - "[[Side Effects]]"
   - "[[Discipline-Based Theory]]"
   - "[[Variable]]"
 related_theories: []
@@ -39,13 +40,14 @@ related_persons:
   - "[[Ernest Rutherford]]"
 related_facts:
   - "[[The Royal Society]]"
+  - "[[American Physical Society]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: "2026-10-31"
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -125,7 +127,7 @@ updated: 2026-11-03
 > [!dev-timeline] 概念演变
 > - **1902 — 卢瑟福发表具有里程碑意义的早期“来信”** 卢瑟福在《自然》发表放射性研究成果，文稿呈现完整论著形态而非寻常评论，开启特洛伊木马首发尝试。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 166)]]
 > - **1930s — 哥本哈根物理学派全面采纳制度化** 玻尔、哈恩、迈特纳等物理学家系统将关键量子物理发现通过快报体裁发布，使这一体裁成为欧洲物理学界的公认标准。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 166)]]
-> - **1958 — 《物理评论快报》（PRL）独立创刊** 美国物理学会正式将快报栏目剥离为全球顶尖独立学术期刊 *Physical Review Letters*，标志着快报范式在国际建制层面的完全成熟。
+> - **1958 — 《物理评论快报》（PRL）独立创刊** [[American Physical Society|美国物理学会]]正式将快报栏目剥离为全球顶尖独立学术期刊 *Physical Review Letters*，标志着快报范式在国际建制层面的完全成熟。
 > - **2021 — 科学学系统阐释快报体裁的竞争演进史** 王大顺与巴拉巴西在《科学学》中深入剖析卢瑟福案例，揭示优先权竞逐对现代科技信息传播框架的深远塑造。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 166)]]
 
 ---
@@ -133,7 +135,7 @@ updated: 2026-11-03
 > [!debates] 学术争议
 >
 > > [!axis] 快报发表范式利弊：前沿极速确权 vs 实验证据残缺
-> > 科学界对快报格式的高度盛行是否存在削弱实验复现性的潜在副作用展开探讨。
+> > 科学界对快报格式的高度盛行是否存在削弱实验复现性的潜在[[Side Effects|副作用]]展开探讨。
 > >
 > > - **证据完整性质疑派** 指出快报因严格版面限制往往省略详细实验步骤、负面控制对照与原始技术参量，导致同行复现困难，容易引发争议成果或低复现性危机。
 > > - **极速优先权捍卫派（[[Argument_Wang_Barabasi_2021_Cambridge|Wang & Barabási, 2021]]）** 论证快报的核心任务是宣示开创性概念并点燃领域探索之火，完整的支持性证据后续可通过长篇常规论著进行系统补充，两种体裁在学术生态中形成有机互补。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 166)]]

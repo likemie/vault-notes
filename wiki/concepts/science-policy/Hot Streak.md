@@ -9,10 +9,10 @@ aliases:
 summary: "科学学与创造力研究中指学者、艺术家与导演在其职业生涯中出现的短期高集中度卓越产出时期。实证表明约 90% 的科研人员经历至少一次爆发期，大多具有终身唯一性，平均持续约 3.7–4 年；爆发期在学术生涯中的起始时机随机分布，爆发期间发文数量保持平稳，产出表现为成果单篇质量与影响力的集中提高。"
 type: concept
 domain: "science-policy"
-related_count: 24
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/science-of-science
   - theme/scientific-career
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Creativity]]"
   - "[[Emergence]]"
+  - "[[Early-Career Researchers]]"
   - "[[Scientific Productivity]]"
   - "[[Knowledge Framework]]"
   - "[[Paradigm]]"
@@ -37,22 +38,27 @@ related_theories:
 related_methods:
   - "[[Pilot Testing]]"
   - "[[Effect Size]]"
+  - "[[Discounted Cumulative Gain]]"
+  - "[[Fixed-Effect Model]]"
 related_instruments: []
 related_persons:
   - "[[Lu Liu]]"
+  - "[[John B. Fenn]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
-  - "[[John B. Fenn]]"
+  - "[[Ludo Waltman]]"
 related_facts:
   - "[[National Institutes of Health]]"
+  - "[[Microsoft Academic Graph]]"
 related_arguments:
   - "[[Argument_Liu_2018_Nature]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
+  - "[[Argument_Chen_2025_HSSC]]"
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -62,7 +68,7 @@ updated: 2026-11-03
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 揭示学术与艺术生涯中创造力的非平稳释放模式，表征个体从常态基线向卓越高位状态转变的过程。
-> - **用途** 解释顶尖成果扎堆出现的经验事实；反思传统科技资助与青年学者奖励在时间维度上的结构性错配。
+> - **用途** 解释顶尖成果扎堆出现的经验事实；反思传统科技资助与[[Early-Career Researchers|青年学者]]奖励在时间维度上的结构性错配。
 > - **边界** 区别于项目结题或职称考核催生的发文数量井喷；区别于学术声望累积带来的马太效应引文膨胀。
 
 > [!citation-card|notitle] 提出者界定学术爆发期的微观特征
@@ -118,7 +124,7 @@ updated: 2026-11-03
 > [!concept-proposition] 命题二｜资助机构对前期声望的偏好导致科研基金与爆发期黄金窗口系统性错位
 > **科技政策与同行评审时滞** 科技资助机构倾向于依赖稳妥的既往发表记录进行项目择优，这一审查逻辑与爆发期的内在规律产生严重冲突。由于绝大多数学者终身仅有单次爆发期，基于过去辉煌授予的资助往往面临边际效益递减，错过了学者最具原创突破的黄金阶段。
 
-> [!claim] Wang, D., & Barabási, A.-L.
+> [!claim] [[Dashun Wang|Wang, D.]], & [[Albert-László Barabási|Barabási, A.-L.]]
 > **科研基金是爆发期的滞后奖励而非前置诱因** 王大顺与巴拉巴西针对[[National Institutes of Health|美国国立卫生研究院]]（National Institutes of Health, NIH）独立研究项目（Research Project Grant, R01）与首席研究员（Principal Investigator, PI）生涯轨迹的匹配分析表明，PI 在获得其人生首个 R01 资助之前，在统计上就已经启动了爆发期。资助机构高度强调前期[[Pilot Testing|预实验]]数据（Preliminary Results）的稳妥导向，使得基金实质上成为对学者既往爆发成就的追溯性报偿。更为关键的是，由于爆发期大多具备终身唯一性，将巨额资助集中投向刚度过爆发期的学者，非但无法延续其颠覆性突破，反而容易造成对下一代尚处于[[Incubation|潜伏期]]的年轻团队的资源挤出。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 78–79)]]
 
 ---
@@ -142,7 +148,7 @@ updated: 2026-11-03
 
 > [!dev-timeline] 概念演变
 > - **1985 — 体育认知心理学中的“热手谬误”** 吉洛维奇（Thomas Gilovich）等通过篮球投篮数据提出“热手谬误”（[[Hot Hand Fallacy]]），认为连中现象符合随机序列局部聚集。
-> - **2018 — 大数据科学学确立学术爆发期** 刘路（Lu Liu）、汪洋（Yang Wang）、鲁多·沃尔特曼（Ludo Waltman）、C·李·贾尔斯（C. Lee Giles）与王大顺（Dashun Wang）基于跨学科科学家、艺术家及导演的全生命周期大数据，建立爆发期模型，证实创造力爆发期是真实存在的非平稳局域激发态。[[Argument_Liu_2018_Nature|(Liu et al., 2018, pp. 396–399)]]
+> - **2018 — 大数据科学学确立学术爆发期** 刘路（Lu Liu）、汪洋（Yang Wang）、鲁多·[[Ludo Waltman|沃尔特曼]]（Ludo Waltman）、C·李·贾尔斯（C. Lee Giles）与王大顺（Dashun Wang）基于跨学科科学家、艺术家及导演的全生命周期大数据，建立爆发期模型，证实创造力爆发期是真实存在的非平稳局域激发态。[[Argument_Liu_2018_Nature|(Liu et al., 2018, pp. 396–399)]]
 > - **2021 — 探索－利用机制与科技政策拓展** 王大顺与巴拉巴西在《[[Metascience|科学的科学]]》中系统阐释爆发期的“探索后利用”认知驱动机制，并反思基金资助滞后与青年刚性年龄门槛对晚发型人才的淘汰效应。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 77–80)]]
 > - **2025 — 爆发期成果颠覆性与引文时序错位发现** [[Argument_Chen_2025_HSSC|Chen et al. (2025)]] 基于 21,271 位经济学家的大样本追踪，证实学术爆发期也是成果颠覆度显著提升的突破期，揭示最具颠覆性成果出现的年份（入行 14–16 年）系统性领先于最高被引年份。
 
@@ -164,7 +170,7 @@ updated: 2026-11-03
 > | [[Argument_Liu_2018_Nature\|Liu et al. (2018)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03\|Wang & Barabási (2021)]] | 20,040 位科学家、3,480 位艺术家、6,233 位电影导演全生命周期产出记录 | 代表作联合概率矩阵 $\phi(N^\ast, N^{\ast\ast})$ 与变点检测识别 | 前两大代表作紧邻发表概率、爆发期经历比例与持续窗口 | 前两大代表作紧邻发表概率比随机预期高出 57%（1.57 倍）；90% 科学家、91% 艺术家、82% 导演经历至少 1 次爆发期，68% 终身仅 1 次；爆发期平均持续约 3.7–4 年（艺术影视约 5 年） | 显著偏离独立无偏模型（$p < .001$） | 证实爆发期是跨创造性领域的普遍动力学特征，且绝大多数个体终身仅有单次爆发窗口 |
 > | [[Argument_Liu_2018_Nature\|Liu et al. (2018)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03\|Wang & Barabási (2021)]] | 经历爆发期的跨学科科学家队列（按生涯发文时序测度） | 爆发期内外发文频次与引文影响对比 | 发文年均篇数与单篇影响对比 | 爆发期内个体发文频次与非爆发期无统计学差异；代表作引文影响系统性跳升至基线高位状态 | 发文量差异无统计学显著性（$p > .10$） | 证实爆发期源于单篇研究质量与影响力的集中跳跃，而非发文数量维度的产能激增 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit03\|Wang & Barabási (2021)]] | 美国国立卫生研究院（NIH）独立研究项目（R01）首席研究员（PI）队列 | 基金受资助时间与爆发期起止时序匹配 | 首笔 R01 受资助年份相对爆发期起点的时序超前或滞后 | PI 在获得首个 R01 资助前已在统计上显著开启了爆发期；基金资助滞后于爆发期启动 | 队列时序匹配统计显著 | 说明科技资助机构倾向于奖励既往成果，基金往往滞后于科研人员最具原创突破的黄金阶段 |
-> | [[Argument_Chen_2025_HSSC\|Chen et al. (2025)]] | 微软学术图谱 19,152 位成熟经济学家全生命周期发表记录（控制前后 2 年窗口） | 基于 D5 与 DnoR5 指标及 DCG 算法的面板固定效应回归与配对检验 | DCG 颠覆度阶段净增量（$D_{diff}$）、爆发期时长与起始年限、各阶段发文量及被引文献量 | 爆发期内 DCG 颠覆度显著高于爆发期前与后（净增均值 0.03）；爆发期时长正向预测颠覆度增量；最具颠覆性成果发表年份（入行 14–16 年）系统性领先引文峰值年份；发文总量正向预测颠覆度增量 | 配对 t 检验与核心回归系数均达统计显著（$p < .001$） | 证实爆发期兼具高颠覆度特征，揭示探索颠覆早于引文扩散的时序错位机制与规模探索效应 |
+> | [[Argument_Chen_2025_HSSC\|Chen et al. (2025)]] | [[Microsoft Academic Graph\|微软学术图谱]] 19,152 位成熟经济学家全生命周期发表记录（控制前后 2 年窗口） | 基于 D5 与 DnoR5 指标及 [[Discounted Cumulative Gain\|DCG]] 算法的面板[[Fixed-Effect Model\|固定效应]]回归与配对检验 | DCG 颠覆度阶段净增量（$D_{diff}$）、爆发期时长与起始年限、各阶段发文量及被引文献量 | 爆发期内 DCG 颠覆度显著高于爆发期前与后（净增均值 0.03）；爆发期时长正向预测颠覆度增量；最具颠覆性成果发表年份（入行 14–16 年）系统性领先引文峰值年份；发文总量正向预测颠覆度增量 | 配对 t 检验与核心回归系数均达统计显著（$p < .001$） | 证实爆发期兼具高颠覆度特征，揭示探索颠覆早于引文扩散的时序错位机制与规模探索效应 |
 
 ---
 

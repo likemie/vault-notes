@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch18"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch18"
 argument_display_title: "“An aesthetic point of view”"
 argument_kind: "book-chapter"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Buen Vivir]]"
   - "[[Technological Agnosticism]]"
   - "[[Civic Religion]]"
+  - "[[Horizontal Comradeship]]"
   - "[[Founder Culture]]"
   - "[[Enlightenment]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
@@ -219,7 +220,7 @@ updated: 2026-10-30
 > | **公立教育系统的通识正典与公民历史叙事** | 碎片化的文化战争与道德立场站队 | 青年一代切断历史锚桩，陷入[[Technological Agnosticism\|技术不可知论]] |
 > | **普遍国民防卫服役与共同牺牲记忆** | 防务外包与雇佣化，精英阶层逃避兵役 | 国家防卫意志涣散，难以维持常规威慑 |
 > | **[[Civic Religion\|世俗公民宗教]]与超越党派的崇高立约** | 虚无主义与纯粹追求财富的消费主义 | 社会失去道德凝聚力，财富成为唯一分层标准 |
-> | **标准化共同语言与公共新闻论坛** | 算法驱动的信息茧房与部落化语言割裂 | 陌生人间横向同志情谊崩解，失去战略协同力 |
+> | **标准化共同语言与公共新闻论坛** | 算法驱动的信息茧房与部落化语言割裂 | 陌生人间[[Horizontal Comradeship\|横向同志情谊]]崩解，失去战略协同力 |
 
 科技企业构建的封闭式城邦虽然暂时填补了认同真空，但无法承担维系文明存续的政治使命。
 

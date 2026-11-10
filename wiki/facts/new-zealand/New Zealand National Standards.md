@@ -9,7 +9,7 @@ subtype: policy
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[Tomorrow's Schools Reforms]]"
+  - "[[Education Review Office]]"
 related_arguments:
   - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Grace_2010_NZJES]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-06'
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -66,7 +67,7 @@ updated: 2026-10-22
 > - **政策目标** 统一各校对进步的认知标准，强化学校和家庭对增值与学业进步的重视，识别需要早期介入干预的弱势学生群体。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 92–93)]]
 > - **适用对象** 全国小学及初中校长、教师、1–8 年级全体在校学生及家长。
 > - **政策工具** 读写与数学国家标准参考量规、[[Formative Assessment|形成性评估]]工具包（如 [[Assessment Tools for Teaching and Learning|asTTle]]）、国家标准家长汇报模版与年度绩效报告。
-> - **约束机制** 法定年度报告要求、教育审查办公室（ERO）督导评估、公开数据问责，与学校董事会拨款及绩效审查挂钩。
+> - **约束机制** 法定年度报告要求、教育审查办公室（[[Education Review Office|ERO]]）督导评估、公开数据问责，与学校董事会拨款及绩效审查挂钩。
 
 > [!citation-card] 政策预期的核心效能
 > 国家标准能够提供有价值的证据并发挥实质影响：确保学校（以及向家长的汇报中）更加重视学业进步而不仅仅是成就水平；确保教师对进步拥有共同概念；增进对《新西兰国家课程》各阶段水平解释的一致性；证明所有学生都在取得适当进步；在校内和校际共享循证实践；增强学生对自身表现与进步水平的自我评估能力；识别学生未能取得满意进步的学校并进行比以往更迅速的干预。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 92–93)]]

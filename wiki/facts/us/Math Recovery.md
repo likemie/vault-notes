@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -36,7 +36,8 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Ben Levin]]"
 related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[Every Student Succeeds Act]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -74,7 +75,7 @@ updated: 2026-10-22
 >   - **十进制概念与心算策略** 引导儿童跳脱逐一数数，掌握“凑十法”与按十跳数。
 > - **专业教师 1:1 动态临床教学** 教师根据前一课录像与儿童微观反应个性化定制次日教学，严格遵循微阶推进原则，每次 30 分钟，持续约 12 至 15 周。
 
-> [!citation-card] 斯莱文论 Math Recovery 专业教师一对一辅导的实证效能
+> [!citation-card] 斯[[Ben Levin|莱文]]论 Math Recovery 专业教师一对一辅导的实证效能
 > 在一年级个别化深度辅导层面，针对重度数学学困生开展的 Math Recovery 方案，由接受强化研修的专业教师实施 1:1 辅导，在严格多学区随机试验中取得了 +0.24 的学业[[Effect Size\|效应量]]，达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）的中等[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *Math Recovery, evaluated with certified teachers providing one-to-one tutoring in Grade 1, produced an effect size of +0.24, qualifying for the Moderate rating under ESSA.*

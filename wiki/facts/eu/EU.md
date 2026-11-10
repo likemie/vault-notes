@@ -12,7 +12,7 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 45
+fact_related_count: 49
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -40,6 +40,8 @@ related_concepts:
   - "[[Academic Attrition]]"
   - "[[Peer Pressure]]"
   - "[[Policy Network]]"
+  - "[[Early-Career Researchers]]"
+  - "[[Transnational Education]]"
   - "[[European Education Space]]"
   - "[[Governing by Numbers]]"
   - "[[Champ]]"
@@ -70,6 +72,8 @@ related_facts:
   - "[[Evidence Network]]"
   - "[[Horizon Europe]]"
   - "[[National Education]]"
+  - "[[Marie Skłodowska-Curie Actions]]"
+  - "[[Education and Training 2020]]"
 related_arguments:
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
@@ -82,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-16
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -156,8 +160,8 @@ updated: 2026-11-03
 ---
 
 > [!finding-cards] 关键成效与辐射影响
-> - **打造全球最大规模跨国流动区** 依托[[Erasmus Programme|伊拉斯谟计划]]、[[Bologna Process|博洛尼亚进程]]与 ECTS 学分制，成功打破欧洲各国高等教育体系长期存在的语言、体制与文凭壁垒，极大促进了青年学者与学生的流动。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
-> - **以软法超越主权羁绊的治理典范** 欧盟向全球治理展示了如何在缺乏直接宪法立法权力的前提下，巧妙运用指标、项目资助（如[[Horizon Europe|地平线欧洲]]）与同伴评议，形成高度同质化的跨国教育空间。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, pp. 28–31)]]
+> - **打造全球最大规模跨国流动区** 依托[[Erasmus Programme|伊拉斯谟计划]]、[[Bologna Process|博洛尼亚进程]]与 ECTS 学分制，成功打破欧洲各国高等教育体系长期存在的语言、体制与文凭壁垒，极大促进了[[Early-Career Researchers|青年学者]]与学生的流动。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
+> - **以软法超越主权羁绊的治理典范** 欧盟向全球治理展示了如何在缺乏直接宪法立法权力的前提下，巧妙运用指标、项目资助（如[[Horizon Europe|地平线欧洲]]）与同伴评议，形成高度同质化的[[Transnational Education|跨国教育]]空间。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, pp. 28–31)]]
 > - **制度共生重塑[[European Education Space|欧洲教育空间]]** 通过承担经合组织 80% 调查成本并采购 50%–60% 的基础指标，欧盟将国际测评数据无缝接入内部开放协调治理框架，确立以去立法的软性[[Governing by Numbers|数字治理]]技术重构欧洲教育体系的典范。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–35)]]
 
 ---
@@ -190,11 +194,11 @@ updated: 2026-11-03
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 援引 2025 年欧盟玛丽·斯克沃多夫斯卡-居里行动计划（MSCA）博士后奖学金仅 9.6% 获批率的极度内耗案例，实证批判超国家资助体系中预算硬约束引发的学术精力空转与青年人才流失。
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 援引 2025 年欧盟[[Marie Skłodowska-Curie Actions|玛丽·斯克沃多夫斯卡-居里行动计划]]（MSCA）博士后奖学金仅 9.6% 获批率的极度内耗案例，实证批判超国家资助体系中预算硬约束引发的学术精力空转与青年人才流失。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 剖析欧盟委员会如何与经合组织制度共生、依托指标采购与软法技术制作欧洲教育空间的实证[[Document|文献]]。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 剖析欧盟如何在[[Subsidiarity Principle|辅助性原则]]约束下通过三重机制渗透国家教育政策的核心论证文献。
 > - [[Argument_Rambla_2022_Springer|Rambla (2022)]] — 剖析[[EU Skills Agenda|欧盟技能议程]]与创新联盟如何通过绩效指标建构区域治理想象的实证文献。
-> - [[Argument_Pellegrini_2021_ECNUROE|Pellegrini and Vivanet (2021)]] — 追踪欧盟如何通过 ET 2020、EIPPEE [[Knowledge Mediation|知识中介]]网络与 Eurydice 推动证据知情教育政策。
+> - [[Argument_Pellegrini_2021_ECNUROE|Pellegrini and Vivanet (2021)]] — 追踪欧盟如何通过 [[Education and Training 2020|ET 2020]]、EIPPEE [[Knowledge Mediation|知识中介]]网络与 Eurydice 推动证据知情教育政策。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 探讨欧洲教育空间中空间实践与学生流动的历史演变。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 运用福柯理论解构欧盟开放协调法，揭示软法协调如何借助指标与基准构建欧洲教育全景敞视监控体系。
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 剖析欧洲教育区（EEA 2030）战略中欧盟辅助性原则硬约束、理事会与欧委会博弈及开放协调法指标锁定的文献。

@@ -9,7 +9,7 @@ summary: "德籍应用微观经济学与科学学学者，慕尼黑大学应用�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 15
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
+  - "[[Natural Experiment]]"
   - "[[Observation Method]]"
   - "[[Difference-in-Differences]]"
   - "[[Bibliometric Analysis]]"
@@ -41,20 +42,21 @@ related_instruments: []
 related_persons:
   - "[[Pierre Azoulay]]"
 related_facts:
+  - "[[Centre for Policy Studies]]"
   - "[[Nazi Purge of University Scholars]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 德籍劳动经济学与科学经济学学者，伦敦政治经济学院（LSE）经济学博士，慕尼黑大学（LMU Munich）经济学系讲席教授，欧洲经济政策研究中心（CEPR）特聘研究员。
-> - **核心角色** 科学学[[Causality|因果推断]]与历史准自然实验分析[[Paradigm|范式]]的开拓者；利用档案数据重构被外生政治或战争冲击阻断的科研网络，突破了传统[[Observation Method|观察研究]]难以剥离[[Reflection Problem|反射问题]]与环境混杂的瓶颈。
+> - **身份位置** 德籍劳动经济学与科学经济学学者，伦敦政治经济学院（LSE）经济学博士，慕尼黑大学（LMU Munich）经济学系讲席教授，欧洲经济[[Centre for Policy Studies|政策研究中心]]（CEPR）特聘研究员。
+> - **核心角色** 科学学[[Causality|因果推断]]与历史[[Natural Experiment|准自然实验]]分析[[Paradigm|范式]]的开拓者；利用档案数据重构被外生政治或战争冲击阻断的科研网络，突破了传统[[Observation Method|观察研究]]难以剥离[[Reflection Problem|反射问题]]与环境混杂的瓶颈。
 > - **代表贡献** 依托 1933 年纳粹德国大规模清洗解聘大学犹太学者的历史自然实验，系统度量同行学者流失对留守科学家长期生产力的因果净抑制效应。
 
 > [!citation-card] 瓦尔丁格论纳粹驱逐学者对[[Scientific Productivity|科研生产力]]的外生破坏

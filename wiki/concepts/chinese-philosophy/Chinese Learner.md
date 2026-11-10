@@ -6,7 +6,7 @@ aliases:
 summary: "以儒家传统与实证研究为基础的学习者模型，强调向内完善自我、学习美德和贡献社会，并用于批判西方对中国学习者的刻板印象"
 type: concept
 domain: "chinese-philosophy"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Concept Mapping]]"
   - "[[Ideal Learner]]"
+  - "[[Study Abroad]]"
   - "[[Examination Hell]]"
   - "[[Fourth Culture]]"
   - "[[International Schools]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-16
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -263,7 +264,7 @@ updated: 2026-10-30
 **[[Ideal Learner|理想学习者]]研究**。Li 的中美大学生比较研究([[Argument_Li_2012_Cambridge|Li, 2012, pp.98-103]])：欧裔美国模型的核心是"主动参与→思考→探究→沟通"的心智过程（96% 受访者提及）；中国模型的核心是五种[[Learning Virtues|学习美德]]（68% 受访者提及）。完整模型对比见 [[Argument_Li_2012_Cambridge#研究二：理想学习者形象|Li (2012)]]。
 
 > [!info] 流动规模与分布
-> - 1978–2003 年，580,000 名中国学生赴美留学([[Argument_Slethaug_2010_InternationalEducation\|Slethaug, 2010, p.17]])
+> - 1978–2003 年，580,000 名中国学生赴美[[Study Abroad|留学]]([[Argument_Slethaug_2010_InternationalEducation\|Slethaug, 2010, p.17]])
 > - 中国自身也成为留学目的地：2005 年外国大学生超过 140,000 名([[Argument_Slethaug_2010_InternationalEducation\|Slethaug, 2010, p.18]])
 > - [[English Schools Foundation Hong Kong\|ESF]] 系统中本地华人学生占 40%–50%([[Argument_Slethaug_2010_InternationalEducation\|Slethaug, 2010, p.4]])
 

@@ -29,8 +29,10 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Academic Freedom]]"
   - "[[University-Based Research Center]]"
+  - "[[Citation Aging]]"
   - "[[Engineering Education]]"
   - "[[Co-invention]]"
+  - "[[Study Abroad]]"
   - "[[Mentorship]]"
   - "[[Research Universities]]"
   - "[[Grandes Ecoles]]"
@@ -40,6 +42,7 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Active Listening]]"
+  - "[[Knowledge Extent]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -63,14 +66,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-06
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Mody_2017_MOH"
 argument_key: "Argument_Mody_2017_MOH"
 argument_display_title: "Academic centers and/as industrial consortia in American microelectronics research"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -224,14 +227,14 @@ NRRFSS 在运营过程中不仅为 40 余家机构提供微纳实验室建设咨
 > [!sub-claim] 1. 大学中心作为校园技术经纪人的独特组织优势
 
 > [!row-contrast] 产业研发联合体与不同层级大学实体的对接张力横向对比
-> | 对接实体 | 组织响应速度 | 知识广度与学科多样性 | 治理协调成本 | 长期适应能力 |
+> | 对接实体 | 组织响应速度 | [[Knowledge Extent\|知识广度]]与学科多样性 | 治理协调成本 | 长期适应能力 |
 > |---|---|---|---|---|
 > | **大学全校或传统系所** | 极其迟缓且内部争议不断 | 广泛但缺乏统一行动界面 | 极高（需跨越官僚层级） | 难以聚焦行业技术痛点 |
 > | **单个教授课题组** | 响应迅速高效 | 狭窄（局限于单一专业方向） | 极低（点对点合同） | 需求变动时知识迅速过时 |
 > | **大学多学科研究中心**<br>[[University-Based Research Center\|大学研究中心]] | **相对迅速且高度连贯** | **广泛且灵活调配多系所人才** | **适中（中心统一对外接口）** | **持续对接行业动态演进需求** |
 
 > [!warrant]- 为什么多学科中心是理想的校园技术经纪人
-> 产业联合体（如半导体研究公司 SRC、[[Microelectronics and Computer Technology Corporation|微电子与计算机技术公司]] MCC、[[Sematech|半导体制造技术战略联盟]] Sematech）兼具长周期研发与高敏捷协调的双重诉求；多学科研究中心既能代表大学与联盟签订长效整体协议，又能依据产业路线图灵活调动跨系所教员，有效克服了传统系所决策迟缓与单一课题组知识老化的双重组织困境。
+> 产业联合体（如半导体研究公司 SRC、[[Microelectronics and Computer Technology Corporation|微电子与计算机技术公司]] MCC、[[Sematech|半导体制造技术战略联盟]] Sematech）兼具长周期研发与高敏捷协调的双重诉求；多学科研究中心既能代表大学与联盟签订长效整体协议，又能依据产业路线图灵活调动跨系所教员，有效克服了传统系所决策迟缓与单一课题组[[Citation Aging|知识老化]]的双重组织困境。
 
 高水平大学学术中心不仅是技术经纪人，更成为地方政府重塑区域产业生态的强力杠杆。
 
@@ -265,7 +268,7 @@ NRRFSS 在运营过程中不仅为 40 余家机构提供微纳实验室建设咨
 > [!critique-logic] 英特尔诺伊斯对出资大学微电子中心的人才外溢与搭便车顾虑
 > 半导体企业面临日本竞争时，对高水平工科博士短缺（Shortage of Well-Trained Ph.D.s）充满焦虑，这是其向大学大举注资的核心动因；然而，英特尔副董事长罗伯特·诺伊斯在面对斯坦福 CIS 的募捐请求时表现犹豫，揭示出企业赞助与大学研究生培养之间的结构性错配：
 >
-> 我们担忧从斯坦福招募到的毕业生相对太少……斯坦福的研究生许多属于其他企业的进修借调人员，或者是外国留学生……收益的扩散远比成本广泛得多。未参与 CIS 的企业将与出资参与的企业受益一样多。除非一家参与公司着眼于更广泛的宏观收益，否则最优获胜策略就是不参与出资。
+> 我们担忧从斯坦福招募到的毕业生相对太少……斯坦福的研究生许多属于其他企业的进修借调人员，或者是外国[[Study Abroad|留学]]生……收益的扩散远比成本广泛得多。未参与 CIS 的企业将与出资参与的企业受益一样多。除非一家参与公司着眼于更广泛的宏观收益，否则最优获胜策略就是不参与出资。
 
 > [!pathways] 大学中心对齐产业诉求与化解搭便车的微观治理机制
 > - **FMA 三位一体[[Mentorship|导师制]]（Faculty-Mentor-Advisee Teams）** 斯坦福 CIS 创立由“教授—企业导师—在读研究生”组成的联合指导小组，由产业工程师直接介入博士生课题指导，将企业攻关痛点直接列入大学学术日程，同时完成前沿工程隐性学问（Lore）的传授。

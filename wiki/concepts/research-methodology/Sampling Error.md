@@ -7,7 +7,7 @@ aliases:
 summary: "从同一总体中多次随机抽样时样本统计量围绕总体真实参数的理论波动；度量从样本推断总体的随机不确定性，在元分析中作为研究内抽样方差与研究间真实异质性相对立，其准确估计依赖于样本独立性假设与逆方差加权机制"
 type: concept
 domain: "research-methodology"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Floor and Ceiling Effects]]"
   - "[[Variable]]"
+  - "[[Homophily]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Type I and Type II Errors]]"
   - "[[Visible Learning]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-21
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -132,7 +133,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题二｜[[Fixed-Effect Model|固定效应模型]]将所有研究间变异机械归因于抽样误差，违背教育干预的生态现实
-> **双层方差分解与同质性破产** 探讨[[Meta-analysis|元分析]]中将真实情境[[Heterogeneity|异质性]]降格为抽样误差所引发的推断失真。
+> **双层方差分解与[[Homophily|同质性]]破产** 探讨[[Meta-analysis|元分析]]中将真实情境[[Heterogeneity|异质性]]降格为抽样误差所引发的推断失真。
 
 > [!claim] Higgins; Wecker et al.
 > **[[Fixed-Effect Model|固定效应]]同质性假设与异质性降格批判** [[Fixed-Effect Model|固定效应模型]]假定所有纳入研究均在估计同一个永恒不变的真实参数，所有研究间观察到的离散纯粹是由有限样本的抽样误差（$v_i$）引起的。然而[[Christof Wecker|克里斯托夫·韦克尔]]（Christof Wecker）等人指出，在复杂教育研究中，受试学生学段、教师素养、教学时长与组织情境千差万别，必然存在显著的[[Between-Study Variance|研究间真实方差]]（$\tau^2 > 0$）。强行假定所有变异皆属抽样误差，会导致合并估计量的[[Confidence Interval|置信区间]]严重虚假收窄，向外推论的超总体效度彻底破产。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25)]]; [[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 39)]]

@@ -8,7 +8,7 @@ aliases:
 summary: "源自法语机器齿轮传动咬合的隐喻，在区域一体化与超国家治理研究中专指国家科层官僚与区域常设机构在微观委员会网络中通过密集日常互动、专业审议与双重忠诚形成的深层政策偏好融合机制，以欧盟常驻代表委员会及其下属数百个常设工作组为典型体现。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Philomena Murray]]"
+  - "[[Vilfredo Pareto]]"
 related_facts:
   - "[[Coreper]]"
   - "[[EU]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -128,7 +129,7 @@ updated: 2026-11-03
 > > 争论常驻使节的共识反射与齿轮啮合，究竟是超越国家立场的规范认同内化，还是成员国为了在长期博弈中获取最大国家利益的精明理性计算。
 > >
 > > - **[[Constructivist Paradigm|社会建构主义]]观点** 强调闭门交往与规范环境重塑了外交官的认知身份，形成真正的共同体取向与双重忠诚。
-> > - **理性选择制度主义反方** 指出外交官依然时刻受制于母国政府的撤换威胁与汇报机制，齿轮啮合只是降低交易成本与探寻帕累托最优的博弈工具。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 531)]]
+> > - **理性选择制度主义反方** 指出外交官依然时刻受制于母国政府的撤换威胁与汇报机制，齿轮啮合只是降低交易成本与探寻[[Vilfredo Pareto|帕累托]]最优的博弈工具。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 531)]]
 
 ---
 

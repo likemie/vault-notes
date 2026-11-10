@@ -12,7 +12,7 @@ subtype: program
 region: latin-america
 fact_region: "latin-america"
 fact_kind: "program"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ tags:
   - theme/sdg-4
 related_concepts:
   - "[[Social-Emotional Learning]]"
+  - "[[Grit]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -62,7 +63,7 @@ updated: 2026-10-26
 
 > [!policy-design] 方案设计
 > - **课程吻合度分析（Curricular Analysis）** 试题研制前对全拉美 19 国的小学官方教学大纲开展深度比较匹配，确保测评工具高度契合各主权国家的教学标准与课程大纲交集。
-> - **多维学科与情感素养测评** 覆盖三年级与六年级阅读与数学、六年级自然科学，并在 ERCE 2019 中开创性增设社会情感调查模块，测量学生的同理心、开放包容度与自律毅力。
+> - **多维学科与情感素养测评** 覆盖三年级与六年级阅读与数学、六年级自然科学，并在 ERCE 2019 中开创性增设社会情感调查模块，测量学生的同理心、开放包容度与自律[[Grit|毅力]]。
 > - **教育公平与背景[[Variable|变量]]模型** 建立高度精细的家庭社会经济文化指数（ESCS），多维度分离家庭背景效应与学校资源增值效应。
 
 ---

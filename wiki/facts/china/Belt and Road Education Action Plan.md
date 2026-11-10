@@ -11,7 +11,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 33
+fact_related_count: 35
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -23,9 +23,11 @@ tags:
   - level/international
   - higher-education
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[People-to-People Connectivity]]"
   - "[[Soft Power]]"
   - "[[Discourse]]"
+  - "[[Study Abroad]]"
   - "[[Student Mobility]]"
   - "[[Community of Shared Future for Mankind]]"
   - "[[Research Translation]]"
@@ -64,14 +66,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** [[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]（Ministry of Education, MOE）于2016年7月正式印发《推进共建“[[Belt and Road Initiative|一带一路]]”教育行动》（教外〔2016〕46号），并于同年8月召开专题新闻发布会进行官方解读。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 682)]]
-> - **适用地区 / 对象** 面向“一带一路”沿线及签约合作国家的高等院校、职业院校、科研机构、各级教育行政部门及跨国教育交流人员。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 682–684)]]
+> - **适用地区 / 对象** 面向“一带一路”沿线及签约合作国家的高等院校、职业院校、科研机构、各级教育行政部门及[[Transnational Education|跨国教育]]交流人员。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 682–684)]]
 > - **问题背景** “一带一路”重大地缘与经济走廊建设面临沿线国教育协同不足、语言相通受限、重大工程亟需的复合型工程技术人才匮乏等结构性短板。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 683)]]
 > - **制度位置** 政策衔接2015年国家发展和改革委员会（National Development and Reform Commission, NDRC）、外交部、商务部联合发布的《推动共建丝绸之路经济带和21世纪海上丝绸之路的愿景与行动》，落实其中“[[People-to-People Connectivity|民心相通]]”与教育共同体构建要求，构成了新时代中国教育对外开放战略在“一带一路”方向的行动纲领。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 682–685)]]
 
@@ -82,7 +84,7 @@ updated: 2026-11-02
 
 > [!policy-design] 政策设计
 > - **政策目标** 促进区域教育互联互通、深化学历学位互认、搭建多层次人文交流平台，推进中国高等教育与职业教育高水平出海，提升国家文化[[Soft Power|软实力]]与国际[[Discourse|话语]]权。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 683–684)]]
-> - **适用对象** 国内外参与“一带一路”教育行动的高等学校、应用技术大学、高等职业学校、跨国公派留学与来华留学生群体、国际化智库联盟。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–686)]]
+> - **适用对象** 国内外参与“一带一路”教育行动的高等学校、应用技术大学、高等职业学校、跨国公派[[Study Abroad|留学]]与来华留学生群体、国际化智库联盟。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–686)]]
 > - **政策工具** 设立“丝绸之路”中国政府专项奖学金、推进海外办学机构与[[Luban Workshop|鲁班工坊]]建设、设立高等学校科技创新行动平台、签署双边/多边学历学位互认协议、实施高校智库协同网络。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–686)]]
 > - **流动与项目原则** 确立国际[[Student Mobility|学生流动]]“五个并重”导向（坚持出国与来华并重、公派与自费并重、规模与质量并重、规范管理与优化服务并重、培养与发挥作用并重），推进涵盖语言、交通、建筑、能源、环境工程等十个重点学科的“丝绸之路”联合培训提升计划。[[Argument_King_2020_ECNUROE|(King, 2020, p. 230)]]
 > - **约束机制** 建立部省联合推进机制、签署省部共建教育行动备忘录、按重点工程实行年度任务清单与项目督查评估。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 686–687)]]
@@ -209,6 +211,6 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 运用[[Critical Discourse Analysis|批判性政策话语分析]]解构本政策的框架化策略与[[Geopolitics|地缘政治]]内涵的核心文献。
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 运用[[Critical Discourse Analysis|批判性政策话语分析]]解构本政策的框架化策略与[[Geopolitics|地缘政治]]内涵的核心[[Document|文献]]。
 > - [[Argument_King_2020_ECNUROE|King (2020)]] — 对比中非合作论坛与本政策人力资源承诺、揭示教育互联互通宏观蓝图的代表性[[Document|文献]]。
 > - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 实证追踪南亚与中亚教育援助项目、奖学金供给、英文授课课程拓展及签证便利化举措的代表性报告。

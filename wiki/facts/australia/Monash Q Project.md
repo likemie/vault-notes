@@ -11,7 +11,7 @@ subtype: program
 region: australia
 fact_region: "australia"
 fact_kind: "program"
-fact_related_count: 40
+fact_related_count: 41
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
@@ -27,6 +27,8 @@ related_concepts:
   - "[[International Education]]"
   - "[[Research Utilization]]"
   - "[[Professional Learning Community]]"
+  - "[[Appropriate Research]]"
+  - "[[Thoughtful Engagement]]"
   - "[[Document]]"
   - "[[Discipline-Based Theory]]"
   - "[[Research Translation]]"
@@ -42,7 +44,6 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Poor Research Use]]"
   - "[[Push and Pull Models of Knowledge Mobilisation]]"
-  - "[[Rationalism in International Relations]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
   - "[[Path Dependence]]"
@@ -72,7 +73,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -98,9 +99,9 @@ updated: 2026-11-02
 > - **实施控制** 采取[[Mixed Methods Research\|混合方法研究]]设计，结合先验概念综合、大样本多州分层[[Questionnaire\|问卷调查]]与多案例深入[[Qualitative Interview\|质性访谈]][[Triangulation\|三角互证]]。（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al., 2022, pp. 184–185]]）
 
 > [!citation-card] 核心立项使命
-> 提高政策与实践中的证据使用，需要明确回答从政治与专业视角看何谓更好的使用。这要求从关注证据本身的质量，向关注证据使用的质量发生关键位移。莫[[Roy Nash|纳什]] Q 项目旨在探究并支持教育实践中深思熟虑地使用适切证据。（Rickinson et al., 2020; [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al., 2022, p. 183]]）
+> 提高政策与实践中的证据使用，需要明确回答从政治与专业视角看何谓更好的使用。这要求从关注证据本身的质量，向关注证据使用的质量发生关键位移。莫[[Roy Nash|纳什]] Q 项目旨在探究并支持教育实践中深思熟虑地使用[[Appropriate Research|适切证据]]。（Rickinson et al., 2020; [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al., 2022, p. 183]]）
 >
-> *To improve the use of evidence in policy and practice requires an explicit engagement with the question of what constitutes better use from a professional perspective. The Q Project aims to understand and support the thoughtful engagement with and implementation of appropriate research evidence.*
+> *To improve the use of evidence in policy and practice requires an explicit engagement with the question of what constitutes better use from a professional perspective. The Q Project aims to understand and support the [[Thoughtful Engagement|thoughtful engagement]] with and implementation of appropriate research evidence.*
 
 ---
 

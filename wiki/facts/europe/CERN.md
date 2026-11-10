@@ -11,7 +11,7 @@ subtype: organization
 region: europe
 fact_region: "europe"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -30,10 +30,11 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Hyperauthorship]]"
   - "[[Competitiveness]]"
+  - "[[Paradigm]]"
   - "[[Center of Calculation]]"
   - "[[General Purpose Technology]]"
   - "[[New Public Management]]"
-  - "[[Paradigm]]"
+  - "[[Early-Career Researchers]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Market Shaping and Creating]]"
@@ -44,19 +45,20 @@ related_methods:
   - "[[Statistical Process Control]]"
 related_instruments: []
 related_persons:
+  - "[[Santo Fortunato]]"
   - "[[Rainer Kattel]]"
   - "[[Mariana Mazzucato]]"
   - "[[Dashun Wang]]"
 related_facts:
   - "[[UNESCO]]"
 related_arguments:
-  - "[[Argument_Fortunato_2018_Science]]"
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
+  - "[[Argument_Fortunato_2018_Science]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -95,7 +97,7 @@ updated: 2026-11-02
 >   - **2008** 周长 27 公里的大型强子对撞机（LHC）正式启动质子束流回旋。
 >   - **2012** ATLAS 与 CMS 两大独立合作组联合宣布发现希格斯玻色子（Higgs Boson）。
 >   - **2015** ATLAS 与 CMS 联合发表希格斯玻色子质量精密测量成果，署名学者达 5,154 人，刷新单一科研成果署名人数历史纪录。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 124–125)]]
->   - **2018** 桑托·福图纳托等在《科学》封面综述中将 CERN 大型强子对撞机（LHC）作为大科学极端工程协作的标志性范式，指出上万名学者跨国分工虽体现了大团队工程化攻坚的不可替代性，但长达数十页的署名名单也带来了学术贡献难以切分与流水线化的治理困境。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 3)]]
+>   - **2018** [[Santo Fortunato|桑托·福图纳托]]等在《科学》封面综述中将 CERN 大型强子对撞机（LHC）作为大科学极端工程协作的标志性[[Paradigm|范式]]，指出上万名学者跨国分工虽体现了大团队工程化攻坚的不可替代性，但长达数十页的署名名单也带来了学术贡献难以切分与流水线化的治理困境。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 3)]]
 
 ---
 
@@ -147,7 +149,7 @@ updated: 2026-11-02
 > > [!axis] 超级署名（Hyperauthorship）与个体学术贡献认定困境
 > > 伴随大科学工程团队膨胀至数千人规模，学术界对“全员署名”模式的公正性展开持续讨论。
 > >
-> > - **传统评价与青年学者困境** 批评者指出，多达五千人的联合署名导致单篇成果学术贡献边界极度模糊，外部招聘与职称评审委员会难以辨识初级学者与博士后的实质贡献，甚至引发“搭便车”质疑；科学学综述进一步指出此类巨型项目容易带来科研生产流水线化以及外部独立重复成本极其昂贵的系统性挑战。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 124–125)]]; [[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 3)]]
+> > - **传统评价与[[Early-Career Researchers|青年学者]]困境** 批评者指出，多达五千人的联合署名导致单篇成果学术贡献边界极度模糊，外部招聘与职称评审委员会难以辨识初级学者与博士后的实质贡献，甚至引发“搭便车”质疑；科学学综述进一步指出此类巨型项目容易带来科研生产流水线化以及外部独立重复成本极其昂贵的系统性挑战。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 124–125)]]; [[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 3)]]
 > > - **大科学集体协作辩护** 实验组与物理学界指出，现代对撞机实验属于高度依存的系统工程，探测器设计、在线校准、软件编写与数据质控均是物理发现不可分割的前提，按姓氏字母顺序全员署名是维护数千人跨国协同凝聚力的有效制度保障。
 >
 > > [!axis] 后 LHC 时代下一代巨型对撞机建造经济性争议

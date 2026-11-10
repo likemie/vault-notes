@@ -7,7 +7,7 @@ aliases:
 summary: "教育政策社会学借助皮埃尔·布迪厄场域理论构建的分析构念，指由超国家组织、跨国政策网络与主权国家共同构成的相对自主跨国社会空间，通过统计等值空间、专家认知资本与标准化比较指标构建横向规训秩序，并与民族国家内部政策场域发生持续折冲。"
 type: concept
 domain: "comparative-education"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -19,6 +19,7 @@ tags:
   - theory/bourdieu
 related_concepts:
   - "[[Champ]]"
+  - "[[Transnational Education]]"
   - "[[Space of Equivalence]]"
   - "[[Intellectual Capital]]"
   - "[[Methodological Nationalism]]"
@@ -56,13 +57,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-26
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Global Educational Policy Field
-> **全球教育政策[[Champ|场域]]（Global Educational Policy Field）** 是教育政策社会学运用[[Pierre Bourdieu|皮埃尔·布迪厄]]（Pierre Bourdieu）场域理论剖析跨国教育治理秩序的核心概念。该概念指由[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）、[[World Bank|世界银行]]等超国家组织、国际政策咨询中介以及主权国家决策主体共同建构且相对自主的跨国社会空间。在此空间内部，客观权力关系的结构由行动者所占有的特定资本类型与资本体量决定。超国家机构凭借标准化比较数据、心理测量指标体系与政策审查报告积累了丰厚的统计认知资本与象征资本，进而脱离传统行政科层与法定强制管辖，通过构建跨国[[Space of Equivalence|等值空间]]对主权国家的教育政策议程施加结构性规训，并与民族国家本土政治场域发生复杂的资本折冲与权力重组。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021)]]
+> **全球教育政策[[Champ|场域]]（Global Educational Policy Field）** 是教育政策社会学运用[[Pierre Bourdieu|皮埃尔·布迪厄]]（Pierre Bourdieu）场域理论剖析[[Transnational Education|跨国教育]]治理秩序的核心概念。该概念指由[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）、[[World Bank|世界银行]]等超国家组织、国际政策咨询中介以及主权国家决策主体共同建构且相对自主的跨国社会空间。在此空间内部，客观权力关系的结构由行动者所占有的特定资本类型与资本体量决定。超国家机构凭借标准化比较数据、心理测量指标体系与政策审查报告积累了丰厚的统计认知资本与象征资本，进而脱离传统行政科层与法定强制管辖，通过构建跨国[[Space of Equivalence|等值空间]]对主权国家的教育政策议程施加结构性规训，并与民族国家本土政治场域发生复杂的资本折冲与权力重组。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向超越主权国家地理边界、由国际组织与跨国政策行动者凭借量化[[Intellectual Capital|知识资本]]维系的制度化博弈网络。

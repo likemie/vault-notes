@@ -8,7 +8,7 @@ aliases:
 summary: "20 世纪 50 至 70 年代支配英美比较教育学的知识体系与研究纲领，摒弃古典历史学派主观印象与思辨归因，通过变量控制、量化共变检验与假说-演绎问题法探寻跨国规律与政策预测，并在实践中与战后国家理性规划形成合法化共谋"
 type: concept
 domain: "comparative-education"
-related_count: 66
+related_count: 68
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Problem Solving]]"
+  - "[[Transnational Education]]"
   - "[[Knowledge Production]]"
   - "[[Policy Borrowing]]"
   - "[[Creativity]]"
@@ -57,6 +58,7 @@ related_concepts:
   - "[[Research Security]]"
   - "[[Scientism]]"
   - "[[Theoretical Perspective]]"
+  - "[[Theoretical Standpoint]]"
 related_theories:
   - "[[Structural Functionalism]]"
   - "[[Post-structuralism]]"
@@ -93,13 +95,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Scientific Paradigm
-> 科学[[Paradigm\|范式]]（Scientific Paradigm）是指在 20 世纪 50 年代末至 70 年代初席卷英美比较教育学界的一种支配性知识体系与研究纲领。在[[Thomas Kuhn\|托马斯·库恩]]（Thomas Kuhn）的范式理论视阈下，该范式主张彻底清洗古典历史-哲学传统的[[Subjectivism\|主观主义]]、印象主义与道德思辨，将自然科学与行为经验社会科学（特别是[[Structural Functionalism|结构功能主义]]社会学与计量经济学）的实证准则确立为学科规范，通过[[Variable\|变量]][[Operationalization\|操作化]]、跨国量化共变假设检验或假说-演绎[[Problem Solving\|问题解决]]程序，探寻跨国教育制度与社会结构之间的普遍或权变规律，并为现代国家规划提供确定性的政策咨询。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 59–62)]]
+> 科学[[Paradigm\|范式]]（Scientific Paradigm）是指在 20 世纪 50 年代末至 70 年代初席卷英美比较教育学界的一种支配性知识体系与研究纲领。在[[Thomas Kuhn\|托马斯·库恩]]（Thomas Kuhn）的范式理论视阈下，该范式主张彻底清洗古典历史-哲学传统的[[Subjectivism\|主观主义]]、印象主义与道德思辨，将自然科学与行为经验社会科学（特别是[[Structural Functionalism|结构功能主义]]社会学与计量经济学）的实证准则确立为学科规范，通过[[Variable\|变量]][[Operationalization\|操作化]]、跨国量化共变假设检验或假说-演绎[[Problem Solving\|问题解决]]程序，探寻[[Transnational Education|跨国教育]]制度与社会结构之间的普遍或权变规律，并为现代国家规划提供确定性的政策咨询。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 59–62)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指涉战后比较教育学界以现代自然科学与实证社会科学为典范、探寻跨国教育制度运行客观规律与因果/共变解释的整体知识体制与规范标准。
@@ -297,7 +299,7 @@ updated: 2026-11-03
 > | [[Positivism]] | Concept | 为科学范式提供经验证实、客观规律与因果检验支撑的底层[[Epistemology\|认识论]]。 |
 > | [[Epistemology]] | Concept | 科学范式与历史主义、[[Postmodernism\|后现代主义]]进行划界与合法性论辩的哲学基石。 |
 > | [[Structural Functionalism]] | Theory | 科学范式全盛时期支配比较教育跨国制度建模与[[Variable\|变量]][[Operationalization\|操作化]]的核心社会学理论。 |
-> | [[Academic Freedom]] | Concept | 保障学者摆脱单一科学范式教条垄断、自由选择多元理论透镜与解释工具的心智成熟标志。 |
+> | [[Academic Freedom]] | Concept | 保障学者摆脱单一科学范式教条垄断、自由选择多元[[Theoretical Standpoint\|理论透镜]]与解释工具的心智成熟标志。 |
 > | [[Problem Approach]] | Method | 霍姆斯学派在科学范式内推进假说-演绎与情境政策预测的核心方法论路径。 |
 > | [[Pluralism]] | Theory | 科学范式单一垄断瓦解后学科演化形成的 26 种理论传统并存的健康多元主义格局。 |
 > | [[Securitization of Technology]] | Concept | 当代地缘竞争中驱动科学研究范式由自由探索向战略使命与排他防御转向的政治经济动力。 |

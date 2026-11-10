@@ -10,7 +10,7 @@ summary: "质性与高推论实证观察中用于系统记录田野信息、微�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 34
+method_related_count: 35
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Predictive Validity]]"
   - "[[Class Size]]"
+  - "[[Cumulative Innovation]]"
   - "[[Time on Task]]"
   - "[[Discourse]]"
   - "[[Research Question]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-01
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ## 定义
@@ -144,7 +145,7 @@ updated: 2026-11-02
 > | **顶部表头** | 基础情境元数据 | 观察日期、起止时间、物理地点、参与者角色、物理环境简图 | 确立田野记录的时空锚点 |
 > | **左侧栏（占 60%）** | **描述性笔记**<br>（Descriptive Notes） | 参与者外貌肖像、对话[[Transcription in Qualitative Research\|逐字转录]]、特定互动事件过程、活动转换节奏 | 忠实还原客体现场所见所闻 |
 > | **右侧栏（占 40%）** | **反思性笔记**<br>（Reflexive Notes） | 研究者的个人感受、理论预感、方法论疑虑、自身偏误反省、即时假设 | 显性化主体认知与[[Reflexivity\|反身性]]防偏 |
-> | **底部附注** | 场后综合备忘 | 关键疑问总结、下一次访谈需追问线索、突发事件后续跟进备忘 | 衔接后续研究设计与数据清洗 |
+> | **底部附注** | 场后综合备忘 | 关键疑问总结、下一次访谈需追问线索、突发事件后续跟进备忘 | 衔接[[Cumulative Innovation\|后续研究]]设计与数据清洗 |
 
 ---
 

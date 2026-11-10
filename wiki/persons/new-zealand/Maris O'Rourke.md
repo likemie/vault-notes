@@ -9,7 +9,7 @@ summary: "新西兰教育政策家与跨国治理专家，新西兰首任女性�
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
   - theme/educational-governance
 related_concepts:
   - "[[Knowledge Mediation]]"
+  - "[[Transnational Education]]"
   - "[[Policy Entrepreneur]]"
   - "[[Knowledge Bank]]"
   - "[[Normal School]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-23
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 # Maris O'Rourke
@@ -60,7 +61,7 @@ updated: 2026-11-02
 
 > [!person-profile] 人物档案
 > - **身份位置** 新西兰公共管理学者、教育改革家与国际金融组织高级管理者；新西兰历史上首位女性教育总监（Secretary for Education, 1989–1995 年在任），[[World Bank|世界银行]]首任教育总监（Director of Education, 1995–2001 年在任）。
-> - **核心角色** 新西兰“明日学校”（[[Tomorrow's Schools Reforms|Tomorrow's Schools]]）激进分权改革的技术领导者；世界银行教育知识管理架构的总设计师，是将企业[[Knowledge Mediation|知识中介]]理论转化为跨国教育政策治理工具的[[Policy Entrepreneur|政策企业家]]。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
+> - **核心角色** 新西兰“明日学校”（[[Tomorrow's Schools Reforms|Tomorrow's Schools]]）激进分权改革的技术领导者；世界银行教育知识管理架构的总设计师，是将企业[[Knowledge Mediation|知识中介]]理论转化为[[Transnational Education|跨国教育]]政策治理工具的[[Policy Entrepreneur|政策企业家]]。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
 > - **代表贡献** 主持落地新西兰彻底撤销传统教育部的分权改革；在世界银行首倡并构建[[Educational Knowledge Management System|教育知识管理系统]]（EKMS）与教育咨询服务部（EAS），奠定世行“[[Knowledge Bank|知识银行]]”教育业务基础。
 
 > [!citation-card] 奥罗克与世行首个教育知识系统的确立

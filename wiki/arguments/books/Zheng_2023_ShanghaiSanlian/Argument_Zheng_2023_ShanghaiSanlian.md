@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"
-argument_related_count: 114
+argument_related_count: 117
 argument_related_level: 11
 argument_related_stars: "💎💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Credential Inflation]]"
   - "[[Study Abroad]]"
   - "[[Employability]]"
+  - "[[Cumulative Innovation]]"
   - "[[Socioeconomic Status]]"
   - "[[Theoretical Perspective]]"
   - "[[Causality]]"
@@ -64,6 +65,7 @@ related_concepts:
   - "[[Student Involvement]]"
   - "[[Extracurricular Activities]]"
   - "[[Language Skills]]"
+  - "[[Problematisation]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Symbolic Boundary]]"
   - "[[Research Question]]"
@@ -75,6 +77,7 @@ related_concepts:
   - "[[Artefact]]"
   - "[[Objectivism]]"
   - "[[Internal Validity]]"
+  - "[[Research Tool]]"
   - "[[Adjustment to College]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Integration in Mixed Methods]]"
@@ -150,7 +153,7 @@ related_instruments:
   - "[[Remote Associates Test]]"
 status: draft
 created: 2026-05-08
-updated: 2026-11-04
+updated: 2026-11-11
 year: 2023
 doi: ""
 citation_aliases:
@@ -295,7 +298,7 @@ citation_aliases:
 
 **趋势二：全球化引发"出国潮" → 跨境竞争的新维度**
 
-- 2003 年取消自费留学审批和费用征收（刘国福，2009）
+- 2003 年取消自费[[Study Abroad|留学]]审批和费用征收（刘国福，2009）
 - 2018 年[[Study Abroad|出国留学]]总数 66.21 万人（教育部数据），中国为全球最大留学生来源国
 - 北京大学、复旦大学等 4 所部属高校毕业生出国深造率超 30%（《中国留学发展趋势报告》，2017）
 
@@ -337,7 +340,7 @@ citation_aliases:
 
 Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career Paths]]）：基于事件史分析发现，1949–1996 年间，大学学历是获取专业技术职位的先决条件，党员身份是获取高行政管理职位的先决条件；两条路径之间极少发生横向转换。
 
-但郑辉和李路路(2009)的后续研究发现：**代际之间**两类精英的子女在两条路径间实现了自由交换——精英父母可以让子女通过另一条路径进入精英阶层。对名校学生而言，这一发现意味着一件事：无论家境如何，他们有机会进入任何一条精英职业路径——"这意味着他们必须做出一个真正意义上的选择"。
+但郑辉和李路路(2009)的[[Cumulative Innovation|后续研究]]发现：**代际之间**两类精英的子女在两条路径间实现了自由交换——精英父母可以让子女通过另一条路径进入精英阶层。对名校学生而言，这一发现意味着一件事：无论家境如何，他们有机会进入任何一条精英职业路径——"这意味着他们必须做出一个真正意义上的选择"。
 
 **第五步：以以往文献收束——规则已然不平等**
 
@@ -428,7 +431,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 **（a）承认目标对行动的重要性**
 设立清晰目标 → 指引方向并提供动力 → 影响组织行动策略的心态和方式。对大学生而言，树立合宜目标并进行有效自我管理，被认为是一种可习得的重要非认知能力（引 Dweck, 1986, Corno, 1993）
 
-**（b）但目标并非个体的自由选择——社会学的问题化**
+**（b）但目标并非个体的自由选择——社会学的[[Problematisation|问题化]]**
 - Roberts(1975)：决策由个体在劳动力市场上的"机会结构"（opportunity structure）决定，机会结构由工业组织、政策和社会阶层共同塑造
 - Breen and Goldthorpe(1997)的理性行动理论（[[Remote Associates Test|RAT]]）：不同阶层对风险-收益的理性衡量有系统性差异 → 揭示家庭背景在教育选择中的"次属效应"（second effects）
 - Hodkinson and Sparkes(1997)：结合布迪厄习性与场域理论，提出修正模型 —（a）理性选择是[[Pragmatic Paradigm|实用主义]]式的个体选择，但深受习性影响；（b）场域中不平等的资源分配影响与场域中其他人的互动；（c）决策受人生历程中难以预料的转折点和路径影响
@@ -633,7 +636,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 - **第一人称叙述**[[Qualitative Research|质性研究]]报告是研究者与被访者双方参与的结果，"研究者在作品中应该有自己的位置"——后文分析采取第一人称叙述角度，对被访者信息全部匿名化处理
 
 
-**（g）研究工具设计——背景问卷与[[Interview Protocol|访谈提纲]]的配合**
+**（g）[[Research Tool|研究工具]]设计——背景问卷与[[Interview Protocol|访谈提纲]]的配合**
 
 除上述方法论框架外，郑雅君设计了两套彼此配合的研究工具：一份背景信息问卷（附录二）和一份半结构式访谈提纲（附录三）。二者在认识论功能上形成分工——问卷提供可比较的结构化基线，访谈则进入被访者的意义世界进行深度阐释。
 

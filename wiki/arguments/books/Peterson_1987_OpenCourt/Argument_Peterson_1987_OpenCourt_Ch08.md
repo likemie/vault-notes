@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch08"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch08"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch08"
 argument_kind: "book-chapter"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Student Motivation]]"
   - "[[Experiential Learning]]"
 related_persons:
+  - "[[Michael S. Brown]]"
   - "[[Desmond Hoare]]"
   - "[[Louis Mountbatten]]"
   - "[[Plato]]"
@@ -56,7 +57,7 @@ sources:
   - "[[books/Peterson_1987_OpenCourt/Peterson_1987_OpenCourt|Peterson_1987_OpenCourt]]"
 status: draft
 created: 2026-10-07
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 > [!question] [[International Education|国际教育]]的价值、教学与供给责任如何共同成立
 > 国际教育指什么，为什么值得追求？应怎样教、向谁提供？应由私人、国家政府还是国际机构承担？三个问题分别涉及价值分析、教育设计与政治供给，只有相互连接才能确定[[International Baccalaureate|国际文凭]]和[[United World Colleges|联合世界书院]]的未来方向。（p. 193）
@@ -344,7 +345,7 @@ IB 的六组学科结构是折中，其国际性需要更多文化与国家的�
 >
 > **开发网络** 巴林国际学校（Bahrain International School）、科代卡纳尔学校（Kodaikanal，印度南部）与东南亚联合世界书院（United World College of South East Asia）联合开发；中间技术开发组织（Intermediate Technology Development Group）、技术援助志愿者组织（Volunteers in Technical Assistance）、苏塞克斯和埃因霍温大学的顾问参加连续会议。
 >
-> **学术与许可** 苏塞克斯大学科学研究小组主任迈克尔·布朗（Michael Brown）负责指导；IBO 授权三所试点学校实验性采用共同课程。
+> **学术与许可** 苏塞克斯大学科学研究小组主任[[Michael S. Brown|迈克尔·布朗]]（Michael Brown）负责指导；IBO 授权三所试点学校实验性采用共同课程。
 >
 > **培训** 巴林初步会议之后，在科代卡纳尔安排三周在职课程。夏威夷洛阿学院（Hawaii Loa College）、内罗毕圣玛丽学院（St Mary's College Nairobi）和亚得里亚海书院教师也参加，培训网络超出三所发起学校。
 >

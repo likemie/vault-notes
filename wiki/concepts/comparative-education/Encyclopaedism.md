@@ -5,10 +5,10 @@ aliases:
 summary: "一种以广泛覆盖既定学科知识和准确复现事实为通识教育标准的课程范式，可解释多科目课程的浅层学习、考试反拨以及能力改革中旧有分科结构的延续。"
 type: concept
 domain: "comparative-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/curriculum-theory
   - theme/educational-tradition
@@ -24,8 +24,10 @@ related_concepts:
   - "[[Encyclopaedic Definition of Knowledge]]"
   - "[[Discourse]]"
   - "[[Theory of Knowledge]]"
+  - "[[Study Abroad]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Knowledge Extent]]"
 related_persons:
   - "[[Alec Peterson]]"
   - "[[Amelia Peterson]]"
@@ -42,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -75,7 +77,7 @@ updated: 2026-11-03
 ---
 
 > [!feature] 相互强化的四个要素
-> - **知识广度观** 受教育意味着掌握大量系统化事实，学校知识的价值首先表现为覆盖广度以及正误答案的清晰程度。[[Argument_Beech_2009_CE\|Beech (2009a, p. 354)]]
+> - **[[Knowledge Extent|知识广度]]观** 受教育意味着掌握大量系统化事实，学校知识的价值首先表现为覆盖广度以及正误答案的清晰程度。[[Argument_Beech_2009_CE\|Beech (2009a, p. 354)]]
 > - **刚性分科结构** 课程用彼此隔离的学科划分知识。内容增加时通常继续增加科目或单科要求，较少改变知识分类方式。[[Argument_Beech_2009_CE\|Beech (2009a, p. 356)]]
 > - **传递与复现** 教师把事实和解释组织成可教授的内容，学生通过记忆学习吸收，再在限时考试中调取相应知识样本。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 38–39, 43)]]
 > - **制度惯性** 科目建制、教师专长、课表和考试已经围绕分科内容形成。能力改革即使采用跨学科语言，也可能在领域内部完整保留原有科目。[[Argument_Beech_2009_CE\|Beech (2009a, pp. 356–357)]]
@@ -124,7 +126,7 @@ updated: 2026-11-03
 ---
 
 > [!case] IB 以共同核心和深度选项限制内容覆盖
-> 六学科结构仍保留学科知识，也承认学生需要事实才能思考。每门课以概略共同核心建立术语、事实关系和较宽背景，再从若干典型主题中选择部分内容深入研究。学生由此有时间持续使用证据、解释、实验或论证，同时接受课程不可能穷尽整个知识体系。
+> 六学科结构仍保[[Study Abroad|留学]]科知识，也承认学生需要事实才能思考。每门课以概略共同核心建立术语、事实关系和较宽背景，再从若干典型主题中选择部分内容深入研究。学生由此有时间持续使用证据、解释、实验或论证，同时接受课程不可能穷尽整个知识体系。
 >
 > 课程改革的难点在于教师必须具有主动留下空白的勇气。Becker 1979 年回顾德国改革时指出，教师即使知道知识爆炸已使全面覆盖失去可能，仍可能按照旧有知识正典规划课堂，使共同核心与选项在实施中重新变成内容清单。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 43–45)]]
 

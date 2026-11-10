@@ -9,10 +9,10 @@ summary: "美籍分析化学家与诺贝尔化学奖得主，曾任耶鲁大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 17
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1917"
 died: "2010"
 lifespan: "1917–2010"
@@ -27,28 +27,31 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Scientific Productivity]]"
   - "[[Variable]]"
+  - "[[Big Science]]"
+  - "[[Early-Career Researchers]]"
 related_theories:
   - "[[Random Impact Rule]]"
   - "[[Constant-Probability-of-Success Model]]"
-  - "[[Hot-Streak Model]]"
   - "[[R-Model]]"
+  - "[[Hot-Streak Model]]"
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
+  - "[[Frank A. Wilczek]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Liu_2018_Nature]]"
-  - "[[Argument_Fortunato_2018_Science]]"
-  - "[[Argument_Sinatra_2016_Science]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
+  - "[[Argument_Sinatra_2016_Science]]"
+  - "[[Argument_Fortunato_2018_Science]]"
+  - "[[Argument_Liu_2018_Nature]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -72,7 +75,7 @@ updated: 2026-11-03
 > - **1967–1987** 担任耶鲁大学教授，从事分子束与超声速自由射流研究。
 > - **1987** 达到 70 岁规定上限被耶鲁大学强制退休，随后转赴弗吉尼亚联邦大学建立新实验室。
 > - **1988–1989** 发表电喷雾电离质谱技术突破性论著，成功测定完整蛋白质大分子的分子量。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016, p. 596)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 56–58)]]
-> - **2002** 荣获诺贝尔化学奖；其学术经历被科学学界作为打破年龄决定创造力迷思的实证典范。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
+> - **2002** 荣获诺贝尔化学奖；其学术经历被科学学界作为打破年龄决定[[Creativity|创造力]]迷思的实证典范。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
 > - **2010** 逝世于弗吉尼亚州里士满。
 
 ---
@@ -99,9 +102,9 @@ updated: 2026-11-03
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 将芬恩作为验证爆发期起点在全生涯时序随机分布且与生理年龄脱钩的科学界典型代表案例（p. 398）。
-> - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 将芬恩（$N^*=N$）与维尔切克（$N^*=1$）作为导言与图 1 核心案例，实证印证突破位次在学者发表序列中服从均匀随机分布。
+> - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 将芬恩（$N^*=N$）与[[Frank A. Wilczek|维尔切克]]（$N^*=1$）作为导言与图 1 核心案例，实证印证突破位次在学者发表序列中服从均匀随机分布。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 记述芬恩七旬做出诺奖成果的传奇生平，反驳创造力随年龄衰退的迷思，印证爆发期随时可能降临并批评科技资助的刚性年龄红线。
-> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》封面综述中将芬恩作为生涯动力学的经典案例（图 3），印证重大科学突破在毕生发表序列中服从均匀随机分布，证实突破概率与生理年龄脱钩。
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》封面综述中将芬恩作为生涯动力学的经典案例（图 3），印证重[[Big Science|大科学]]突破在毕生发表序列中服从均匀随机分布，证实突破概率与生理年龄脱钩。
 
 ---
 
@@ -114,7 +117,7 @@ updated: 2026-11-03
 > [!debates] 学术争议
 >
 > > [!axis] 强制退休政策合理性 vs 年长学者持续探索潜能
-> > 传统高校管理假定年长教授创造力与科研效益衰退，主张实施严格退休年限以释放编制给青年学者；芬恩的晚年突破与科学学实证表明，只要保持发文与实验活跃，年长学者单位尝试成功率并未衰退，强制退休制度可能造成重大人才与成果损失。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 56–58)]]
+> > 传统高校管理假定年长教授创造力与科研效益衰退，主张实施严格退休年限以释放编制给[[Early-Career Researchers|青年学者]]；芬恩的晚年突破与科学学实证表明，只要保持发文与实验活跃，年长学者单位尝试成功率并未衰退，强制退休制度可能造成重大人才与成果损失。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 56–58)]]
 >
 > > [!axis] 科技资助生理年龄门槛 vs 爆发期全生涯随机分布
 > > 科技资助体系常设立严格的青年学者年龄门槛（如 35 或 40 岁红线），假定青年期后突破几率递减；爆发期模型与芬恩案例表明，突破时机在全生命周期服从随机分布，刚性生理年龄红线会导致科技管理系统性错失大器晚成型顶尖人才。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 78–80)]]

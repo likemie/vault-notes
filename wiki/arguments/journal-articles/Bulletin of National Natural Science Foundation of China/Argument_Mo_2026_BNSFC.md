@@ -34,6 +34,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Effective Sample Size]]"
   - "[[Business as Usual]]"
+  - "[[Cumulative Innovation]]"
 related_theories:
   - "[[Ecological Systems Theory]]"
   - "[[Challenge-Hindrance Stressor Framework]]"
@@ -47,6 +48,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Journal Impact Factor]]"
   - "[[Cluster Analysis]]"
+  - "[[Sample Size Determination]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -59,14 +61,14 @@ sources:
 part_of:
 status: draft
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Mo_2026_BNSFC"
 argument_key: "Argument_Mo_2026_BNSFC"
 argument_display_title: "基础研究青年人才原始创新能力提升的现实挑战、影响因素及应对策略"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 29
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -244,7 +246,7 @@ journal: "中国科学基金"
 > | | 一般 | 4.96 | 4.65 | 3.87 |
 > | | **差值** | **-0.15\*\*** | **-0.22\*\*** | **-0.11\*** |
 >
-> *注：样本量 $N = 4\ 569$；\*\* $p < 0.01$，\* $p < 0.05$。除基金资助数量外均为 6 点计分，分值越高表示程度越强。引自莫申江等 (2026, p. 735, 表1)。*
+> *注：[[Sample Size Determination|样本量]] $N = 4\ 569$；\*\* $p < 0.01$，\* $p < 0.05$。除基金资助数量外均为 6 点计分，分值越高表示程度越强。引自莫申江等 (2026, p. 735, 表1)。*
 
 > [!sub-claim] 1. 好奇心与长远眼光最能产出突破性成果，但因短期成果少反而最难拿到基金
 
@@ -333,7 +335,7 @@ journal: "中国科学基金"
 ---
 
 > [!warning] 研究局限
-> 研究度量主要依托学者自评的突破式创新绩效与自然科学基金立项数据，后续研究有待结合长时段突破性成果追踪与第三方学术同行评议以提升客观性；样本在学科与地域上以华东地区及工程、生命学科为主，更大范围的跨学科普适性仍需持续检验。
+> 研究度量主要依托学者自评的突破式创新绩效与自然科学基金立项数据，[[Cumulative Innovation|后续研究]]有待结合长时段突破性成果追踪与第三方学术同行评议以提升客观性；样本在学科与地域上以华东地区及工程、生命学科为主，更大范围的跨学科普适性仍需持续检验。
 
 ---
 

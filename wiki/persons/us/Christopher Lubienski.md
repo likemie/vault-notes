@@ -9,7 +9,7 @@ summary: "美国教育政策学者，印第安纳大学布卢明顿分校教授�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Surplus of Evidence]]"
   - "[[Academic Achievement]]"
   - "[[Knowledge Mediation]]"
+  - "[[Transnational Education]]"
   - "[[Charter Schools]]"
   - "[[School Vouchers]]"
   - "[[Variable]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -78,7 +79,7 @@ updated: 2026-11-02
 > [!timeline] 生平与职涯
 > - **2001** 获密歇根州立大学教育政策博士学位，早期聚焦教育市场化与公私立学校效益比较。
 > - **2004–2016** 任教于伊利诺伊大学厄巴纳-香槟分校，建立教育智库与政策[[Knowledge Mediation|知识中介]]研究议程，与 Sarah Lubienski 开展大规模学业成绩实证检验。
-> - **2016–至今** 担任印第安纳大学布卢明顿分校教授，出任教育评估与政策中心主任，系统拓展思想市场、信息孤岛与跨国教育治理研究。
+> - **2016–至今** 担任印第安纳大学布卢明顿分校教授，出任教育评估与政策中心主任，系统拓展思想市场、信息孤岛与[[Transnational Education|跨国教育]]治理研究。
 > - **2019** 发表教育思想市场奠基性研究，系统揭示政策智库绕过学术同行评审直接影响决策的政治机制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 537)]]
 
 ---

@@ -5,7 +5,7 @@ aliases:
 summary: "把知识生产、流通和应用置于资本积累核心位置的全球经济秩序概念，用于解释大学、创新体系和地缘竞争的深度重组"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Variable]]"
   - "[[Theoretical Knowledge]]"
+  - "[[Education Export]]"
   - "[[Performance Indicators]]"
   - "[[Knowledge Power]]"
   - "[[Matthew Effect in Academia]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -97,7 +98,7 @@ updated: 2026-10-22
 > - **知识作为首要资本形式** 财富创造的核心从自然资源和有形资产转向无形资产（知识、信息、[[Human Capital Theory\|人力资本]]）（Dunning, 2000, p.8, cited in [[Argument_Moisio_2022_Springer\|Moisio, 2022, p.23]]）
 > - **高等教育的资本化** 大学被重新定位为[[Knowledge-Based Economy\|知识经济]]中产生价值和比较优势的核心基础设施——教学和研究优先级被市场价值所主导([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.89–90]])。详见 知识经济 > 核心要素
 > - **知识的商品化** 知识——包括专家、专业人员、学者和制度行动者的[[Knowledge Production\|知识生产]]过程——成为可交易的商品（Moisio, 2018, p.9, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.39]]）
-> - **教育作为人力资本投资** 教育被重新框定为个人和国家在全球知识经济中竞争的人力资本投资——这一[[Discourse|话语]]深刻影响了从亚洲中产阶级的教育消费到国家教育出口战略的各层面决策([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.95–97]])
+> - **教育作为人力资本投资** 教育被重新框定为个人和国家在全球知识经济中竞争的人力资本投资——这一[[Discourse|话语]]深刻影响了从亚洲中产阶级的教育消费到国家[[Education Export|教育出口]]战略的各层面决策([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.95–97]])
 >
 
 

@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Surplus of Evidence]]"
   - "[[Policy Brokerage]]"
+  - "[[Transnational Education]]"
   - "[[Global Education Governing Complex]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Governing by Numbers]]"
@@ -66,6 +67,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Reference Society]]"
   - "[[Normal School]]"
+  - "[[Differentiated Instruction]]"
   - "[[Soft Power]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
@@ -144,14 +146,14 @@ part_of:
   - "[[Comparative Education]]"
 status: draft
 created: 2026-09-11
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 112
+argument_related_count: 114
 argument_related_level: 11
 argument_related_stars: "💎💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -164,7 +166,7 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 在数字经济催生研究证据严重过剩（[[Surplus of Evidence]]）与信息孤岛（Lubienski & Malin, 2022）林立的时代，更多知识不仅未能消除政策制定的盲区，反而加剧了政策复杂性。在这一生态背景下，作为依托知识开展规制的两大先行机构——[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）与[[World Bank\|世界银行]]（World Bank），是如何以及何时将[[Policy Brokerage\|政策中介]]（Policy Brokerage）建构为教育领域全球治理的核心工具？由五大国际组织、跨国教育资本与私人慈善基金会构成的[[Global Education Governing Complex\|全球教育治理复合体]]如何[[Soft Power by Hard Facts\|以硬事实施展软权力]]？作为主要政策对象的各国政府又如何在政策周期的不同阶段策略性动员或严苛过滤这些中介证据？
+> 在数字经济催生研究证据严重过剩（[[Surplus of Evidence]]）与信息孤岛（Lubienski & Malin, 2022）林立的时代，更多知识不仅未能消除政策制定的盲区，反而加剧了政策复杂性。在这一生态背景下，作为依托知识开展规制的两大先行机构——[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）与[[World Bank\|世界银行]]（World Bank），是如何以及何时将[[Policy Brokerage\|政策中介]]（Policy Brokerage）建构为教育领域全球治理的核心工具？由五大国际组织、[[Transnational Education|跨国教育]]资本与私人慈善基金会构成的[[Global Education Governing Complex\|全球教育治理复合体]]如何[[Soft Power by Hard Facts\|以硬事实施展软权力]]？作为主要政策对象的各国政府又如何在政策周期的不同阶段策略性动员或严苛过滤这些中介证据？
 
 > [!claim] 核心主张
 > 信息过载与知识过剩为中介机构选择性提取并包装政策证据滋生了空间；国际组织通过将核心评测工具与差异化知识产品打包，[[Soft Power by Hard Facts\|以硬事实施展软权力]]，借此巩固自身的组织利基；必须确立基于多学科视角的[[Governing by Numbers\|数字治理]] 2.0比较研究纲领，依托[[Methodological Transnationalism\|方法论跨国主义]]将全球与国家视作相互依存的[[Relational Space\|关系性空间]]，揭示国家行动者在政策议程设置阶段对外在权威的工具性动员与在法定决策出台阶段的深度政治过滤。
@@ -437,7 +439,7 @@ issuing_organization: ""
 > [!citation-card] [[Policy Brokerage\|政策中介]]的政治化实质
 > 当同一个组织不仅将自己在内部生产的知识向外推介，甚至还打着科学理性的旗号，一手包办[[Knowledge Production\|知识生产]]、中介推介并资助相关项目时，[[Knowledge Mediation\|知识中介]]与政策中介之间的界限便不再分明。因此，本项研究主张采用政策中介这一表述，超越更为中立的知识中介概念。
 >
-> *Of course, the differentiation between knowledge brokerage and policy brokerage is fluid when the same organisation brokers knowledge it previously produced in-house or, even more blatantly, produces, brokers, and funds its projects with recourse to scientific rationality. Therefore, we propose to use the term 'policy brokerage' rather than the more neutral term 'knowledge brokerage' throughout this article.*
+> *Of course, the [[Differentiated Instruction|differentiation]] between knowledge brokerage and policy brokerage is fluid when the same organisation brokers knowledge it previously produced in-house or, even more blatantly, produces, brokers, and funds its projects with recourse to scientific rationality. Therefore, we propose to use the term 'policy brokerage' rather than the more neutral term 'knowledge brokerage' throughout this article.*
 
 > [!citation-card] [[Global Education Governing Complex\|全球教育治理复合体]]的武器化知识
 > 目前，教育领域的五大巨头（[[Global Partnership for Education\|全球教育伙伴关系]]、[[OECD\|经合组织]]、[[UNESCO\|联合国教科文组织]]、[[UNICEF\|联合国儿童基金会]]、[[World Bank\|世界银行]]）都在[[Soft Power by Hard Facts\|以硬事实施展软权力]]。五大组织连同其资助者（成员国、跨国企业、私人基金会）共同构成了全球教育治理复合体；该复合体将特定类型的知识——即可量化、可比较且可标准化的知识——武器化，用以迫使各国政府为达成各项国际目标与指标承担问责责任。

@@ -11,7 +11,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Informationalization]]"
   - "[[Innovation Hub]]"
+  - "[[Original Innovation Capability]]"
   - "[[Big Science]]"
   - "[[Technology Transfer]]"
   - "[[Modern Industrial Policy]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-05
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -91,7 +92,7 @@ updated: 2026-10-22
 > [!pathways] 实施路径与地方竞相突破机制
 > - **国家顶层设计与宏观统筹** 重组国家重点实验室体系，系统构建国家实验室、国家科研机构、高水平研究型大学与科技领军企业组成的战略科技力量矩阵；推行“[[Open Competition Mechanism|揭榜挂帅]]”、“赛马制”与首席科学家负责制。
 > - **地方竞争动员与多元化实践** 各省市依据自身禀赋竞相落实中央科技部署，形成特色鲜明的区域创新标杆：
->   - **北京（原始创新与前瞻引领）** R&D 经费投入强度超 6%，聚焦量子、脑科学与智源 AI 等新型研发机构建设，技术合同成交额突破 8500 亿元。
+>   - **北京（[[Original Innovation Capability|原始创新]]与前瞻引领）** R&D 经费投入强度超 6%，聚焦量子、脑科学与智源 AI 等新型研发机构建设，技术合同成交额突破 8500 亿元。
 >   - **上海（科创中心与[[Big Science|大科学]]基础设施）** 建设 15 个重大科技基础设施，集成电路产业规模破 1.6 万亿元，科创板上市市值全国第一。
 >   - **深圳（需求牵引与市场化全链条）** 形成研发人员、研发资金、研发机构与专利“四个 90% 聚集于企业”的市场主导生态，市级研发资金不低于 30% 稳定投向基础研究。
 >   - **武汉与西安（工业立市与职务科技成果转化“三项改革”）** 推进单列管理、[[Technology Transfer|技术转移]]人才评价与横向结余出资改革，盘活庞大军工高校存量资产。

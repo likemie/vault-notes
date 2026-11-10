@@ -10,9 +10,9 @@ summary: "由沈华伟与艾伯特-拉斯洛·巴拉巴西（Shen & Barabási, 2
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 25
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Alphabetical Authorship]]"
   - "[[Coauthorship Network]]"
+  - "[[Early-Career Researchers]]"
   - "[[Emergence]]"
   - "[[Matthew Effect in Academia]]"
   - "[[Author Contribution Disclosures]]"
@@ -45,12 +46,17 @@ related_persons:
   - "[[Douglas Prasher]]"
 related_facts:
   - "[[National Academy of Sciences]]"
+  - "[[Web of Science]]"
+  - "[[Scopus]]"
+  - "[[OpenAlex]]"
+  - "[[Dimensions]]"
+  - "[[American Physical Society]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit06]]"
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: 2026-10-31
+updated: 2026-11-11
 ---
 
 ---
@@ -166,12 +172,12 @@ updated: 2026-10-31
 > > |---|---|---|
 > > | 读法 | 极端案例一：非对称成果库 | 当学者 A 围绕该领域发表了多篇持续被共引的论著，而学者 B 仅参与了 $p_0$ 时，算法将绝大部分声誉赋予学者 A。典型范例为根岸英一（Ei-ichi Negishi）与马场繁（Shigeru Baba）1976 年的诺贝尔奖级成果，马场仅参与该项研究，根岸后续发表多篇高引成果，最终根岸独享诺贝尔奖（pp. 153–154）。 |
 > > | 读法 | 极端案例二：对称[[Coauthorship Network\|合著网络]] | 当两位学者深度绑定并联合发表了该课题下几乎全部高共引文献时，声誉份额各占 50%。典型范例为安德烈·海姆（Andre Geim）与康斯坦丁·诺沃肖洛夫（Konstantin Novoselov）共同获得 2010 年石墨烯诺贝尔物理学奖（p. 154）。 |
-> > | 注意 | 先发声望赤字（Credit Deficit） | 青年学者若与成名大师在成熟领域合作，即便后续独立发表若干成果，由于大师的历史代表作依然会频繁被同行共引，青年学者往往需要经历漫长的文献积累才能稀释大师的先发生誉垄断（p. 156）。 |
+> > | 注意 | 先发声望赤字（Credit Deficit） | [[Early-Career Researchers\|青年学者]]若与成名大师在成熟领域合作，即便后续独立发表若干成果，由于大师的历史代表作依然会频繁被同行共引，青年学者往往需要经历漫长的文献积累才能稀释大师的先发生誉垄断（p. 156）。 |
 
 ---
 
 > [!software-impl] 软件实现
-> - **数据来源** Web of Science、Scopus、OpenAlex 或 Dimensions 等引文数据库；需导出目标成果及其施引文献（Citing papers）与参考文献（Cited references）。
+> - **数据来源** [[Web of Science]]、[[Scopus]]、[[OpenAlex]] 或 [[Dimensions]] 等引文数据库；需导出目标成果及其施引文献（Citing papers）与参考文献（Cited references）。
 > - **核心包或命令** Python 环境下的 `numpy`（矩阵代数运算）、`networkx`（共引网络拓扑构建）与 `pandas`（数据清洗与学者匹配）。
 > - **实现流程** 检索目标论著获取施引集合 $D$；提取 $D$ 的参考文献集合构建共引集 $P$；消歧合署学者并填充参与矩阵 $A$；统计各成果与目标成果的共引频次生成强度向量 $s$；执行矩阵相乘 $c = As$ 并完成归一化。
 > - **报告标准** 完整报告引文数据检索时间窗口、自引处理规则、学者姓名消歧准确率以及参与度权重分配基准。
@@ -223,7 +229,7 @@ updated: 2026-10-31
 
 > [!method-case] 典型应用案例：诺贝尔奖预测与重大错位争议
 > 1. **2013 年希格斯玻色子诺贝尔物理学奖核算**
->    - 历史事实：1964 年共有三组独立团队（六位物理学家）提出玻色子质量机制，分别为恩格勒与布劳特（Englert & Brout）、希格斯（Higgs），以及古拉尼、哈根与基布尔（Guralnik, Hagen & Kibble）。2010 年美国物理学会将樱井奖授予全部六人；但 2013 年诺贝尔委员会仅将物理学奖授予希格斯与恩格勒。
+>    - 历史事实：1964 年共有三组独立团队（六位物理学家）提出玻色子质量机制，分别为恩格勒与布劳特（Englert & Brout）、希格斯（Higgs），以及古拉尼、哈根与基布尔（Guralnik, Hagen & Kibble）。2010 年[[American Physical Society|美国物理学会]]将樱井奖授予全部六人；但 2013 年诺贝尔委员会仅将物理学奖授予希格斯与恩格勒。
 >    - 算法重估：算法计算得出的声誉份额排序依次为：希格斯位居第一，基布尔（Kibble）位居第二，恩格勒位居第三（布劳特已去世）。算法表明，诺贝尔评奖委员会遗漏基布尔的决定偏离了物理学界的集体引文认知（pp. 157–158）。
 > 2. **2008 年绿色荧光蛋白（GFP）诺贝尔化学奖核算**
 >    - 历史事实：奖项授予钱永健、下村脩与马丁·沙尔菲三人，而首位克隆 GFP 基因的先驱[[Douglas Prasher|道格拉斯·普拉谢尔]]（Douglas Prasher）因离开学界而落选。

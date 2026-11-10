@@ -5,7 +5,7 @@ aliases:
 summary: "大学同时扎根于具体城市与国家，又通过学术流动、网络和知识视野跨越边界的双重空间特征。"
 type: concept
 domain: "higher-education"
-related_count: 10
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -14,9 +14,12 @@ tags:
 - level/higher-ed
 - region/global
 related_concepts:
+  - "[[Scientific Mobility]]"
   - "[[Religious Schools]]"
   - "[[Methodological Nationalism]]"
+  - "[[Nationalism]]"
   - "[[Open-Mindedness]]"
+  - "[[Transnational Education]]"
   - "[[Ontology]]"
   - "[[Space-Making]]"
   - "[[Geopolitics of Knowledge]]"
@@ -32,11 +35,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!info] 定义
-> 大学双重空间性（double spatiality of universities）是指大学同时扎根于具体的城市与国家，又通过学术流动和开放心智视野跨越边界的双重空间特征。这一特征贯穿了从北印度佛教寺院、中世纪伊斯兰[[Religious Schools|宗教学校]]（madrasas）到欧洲大学的高等教育历史，至今仍是大学（部分）自主性和组织身份的基础([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 8]])。
+> 大学双重空间性（double spatiality of universities）是指大学同时扎根于具体的城市与国家，又通过[[Scientific Mobility|学术流动]]和开放心智视野跨越边界的双重空间特征。这一特征贯穿了从北印度佛教寺院、中世纪伊斯兰[[Religious Schools|宗教学校]]（madrasas）到欧洲大学的高等教育历史，至今仍是大学（部分）自主性和组织身份的基础([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 8]])。
 
 > [!quote|notitle]
 > "They can hardly not be national, while the global scale frees them to be something of their own that does not derive from states and connects them to all institutions that combine inquiry and learning."([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 8]])
@@ -44,8 +47,8 @@ updated: 2026-10-30
 ---
 
 > [!example] 概念辨析
-> - vs [[Methodological Nationalism\|方法论民族主义]]的"国家容器"观 — 方法论民族主义只看到大学的在地性（民族国家内的机构），双重空间性则同时承认大学的国家嵌入和全球[[Open-Mindedness|开放性]]。Marginson 强调，批判方法论民族主义不等于否定国家的重要性——大学"几乎不可能不是国家的"([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 8]])
-> - vs 跨国高等教育（TNE） — TNE 通常指跨境办学和合作项目等具体活动形式，双重空间性则是对大学[[Ontology\|本体论]]特征的更深层描述：跨国活动只是这一双重性的外在表现
+> - vs [[Methodological Nationalism\|方法论民族主义]]的"国家容器"观 — 方法论[[Nationalism|民族主义]]只看到大学的在地性（民族国家内的机构），双重空间性则同时承认大学的国家嵌入和全球[[Open-Mindedness|开放性]]。Marginson 强调，批判方法论民族主义不等于否定国家的重要性——大学"几乎不可能不是国家的"([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 8]])
+> - vs [[Transnational Education|跨国高等教育]]（TNE） — TNE 通常指跨境办学和合作项目等具体活动形式，双重空间性则是对大学[[Ontology\|本体论]]特征的更深层描述：跨国活动只是这一双重性的外在表现
 
 ---
 

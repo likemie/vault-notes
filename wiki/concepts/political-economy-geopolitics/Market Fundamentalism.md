@@ -7,7 +7,7 @@ aliases:
 summary: "指对市场自发调节与资源配置能力抱有极度夸大信念、主张国家全面撤出经济与社会干预的意识形态教条。在科技政策中，该思潮否认国家资助商业化与前沿产业的合法性，迫使公共发展型干预转向隐形运作，并强化了知识产权垄断与公私收益脱节。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,7 @@ related_theories:
   - "[[Pasteur's Quadrant]]"
 related_persons:
   - "[[Fred Block]]"
+  - "[[Tim Cain]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[DARPA]]"
@@ -48,7 +49,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-12
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -73,7 +74,7 @@ updated: 2026-11-03
 ---
 
 > [!contrast-table] 市场原教旨主义与相关[[Paradigm|范式]]辨析
-> | 维度 | 市场原教旨主义（Market Fundamentalism） | 凯恩斯主义国家干预观 | [[Developmental Network State\|发展型网络国家]]观（DNS） |
+> | 维度 | 市场原教旨主义（Market Fundamentalism） | [[Tim Cain\|凯恩]]斯主义国家干预观 | [[Developmental Network State\|发展型网络国家]]观（DNS） |
 > |---|---|---|---|
 > | **国家核心角色** | 仅限于界定产权与维持治安的“守夜人”；严禁干预市场配置与技术商业化 | 宏观需求管理者与反周期财政调节者；资助基础科学公共品 | 分布式创新网络架构师、前沿技术催化者与跨界经纪人 |
 > | **科技政策立场** | 反对政府资助应用开发与产业化，主张完全由私人资本主导中试与商业化 | 聚焦基础研究公共品投入与国家大工程采购；遵循纯科学到应用转化的线性递进模型 | 通过分布式专业机构网络（如 [[DARPA]]、[[SBIR and STTR Programs\|SBIR]]）嵌入产学研协同，深入[[Pasteur's Quadrant\|巴斯德象限]]推进高风险应用突破 |

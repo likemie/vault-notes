@@ -73,7 +73,9 @@ related_persons:
   - "[[W. V. O. Quine]]"
   - "[[Alvin Goldman]]"
   - "[[Jean Piaget]]"
-related_facts: []
+related_facts:
+  - "[[Web of Science]]"
+  - "[[Google Scholar]]"
 related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
 sources:
@@ -81,14 +83,14 @@ sources:
 part_of: 
 status: draft
 created: 2026-08-18
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Sandoval_2016_RRE"
 argument_key: "Argument_Sandoval_2016_RRE"
 argument_display_title: "Understanding and promoting thinking about knowledge: Origins, issues, and future directions of research on epistemic cognition"
 argument_kind: "journal-article"
-argument_related_count: 55
+argument_related_count: 57
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -128,7 +130,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **文献检索与筛选**<br>Literature Review | 在 Web of Science 数据库中以对应英文术语为检索词，筛选出被引超过10次的文献，结合领域内三本核心著作的章节，锁定267篇核心文献。 |
+> | **文献检索与筛选**<br>Literature Review | 在 [[Web of Science]] 数据库中以对应英文术语为检索词，筛选出被引超过10次的文献，结合领域内三本核心著作的章节，锁定267篇核心文献。 |
 > | **文献计量分析**<br>Bibliometric Analysis | 提取核心文献在不同数据库的被引总数和年均被引数，进行排序和斯皮尔曼等级相关分析（Spearman rank correlation），验证高被引文献的高度一致性（r > .834）。 |
 > | **主题综合与理论批判**<br>Theoretical Synthesis | 放弃按年代线性综述的常规做法，采用识别断层线的方法，横向切割各流派在核心假设上的根本分歧。 |
 
@@ -268,7 +270,7 @@ issuing_organization: ""
 
 > [!stat-cards]- 核心数据
 > - **267** 经过系统的引文网络检索和筛选，纳入综述的核心出版物总数。
-> - **.966** Thomson Reuters 数据库与 Google Scholar 数据库在总被引次数排序上的[[Pearson Product-Moment Correlation\|皮尔逊相关]]系数（Pearson correlation coefficient），验证了核心文献池的稳健性。
+> - **.966** Thomson Reuters 数据库与 [[Google Scholar]] 数据库在总被引次数排序上的[[Pearson Product-Moment Correlation\|皮尔逊相关]]系数（Pearson correlation coefficient），验证了核心文献池的稳健性。
 
 ---
 

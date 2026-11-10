@@ -12,7 +12,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 30
+fact_related_count: 33
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -31,11 +31,14 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Teacher Mobility]]"
   - "[[Competitiveness]]"
+  - "[[Early-Career Researchers]]"
   - "[[Discourse]]"
+  - "[[Study Abroad]]"
   - "[[Heterogeneity]]"
   - "[[Language Skills]]"
   - "[[Cultural Capital]]"
   - "[[Academic Inbreeding]]"
+  - "[[Transnational Education]]"
   - "[[Social Imaginary]]"
   - "[[Paradigm]]"
   - "[[Global Regionalisms]]"
@@ -64,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -85,7 +88,7 @@ updated: 2026-11-02
 
 > [!policy-design] 方案设计
 > - **项目目标** 促进欧洲内部师生自由流动，强化欧洲青年的一体化公民意识，提升毕业生在统一劳动力市场中的就业能力与国际[[Competitiveness|竞争力]]。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]；[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 149)]]
-> - **覆盖对象** 欧洲高等教育区全境公立与私立高校在读大学生、青年学者及教学管理骨干。
+> - **覆盖对象** 欧洲高等教育区全境公立与私立高校在读大学生、[[Early-Career Researchers|青年学者]]及教学管理骨干。
 > - **干预措施**
 >   - **个人流动奖学金（Mobility Grants）** 专项补贴学生跨国生活与交通成本，免除接收校额外学杂费。
 >   - **欧洲学分转换与累加系统（ECTS）** 统一设立每学年 60 ECTS 学分基准与以预期学习成果（Learning Outcomes）为核心的折算量规，保障派出校全额认定海外修读学分。
@@ -110,7 +113,7 @@ updated: 2026-11-02
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** 欧洲联盟委员会教育、青年、体育与文化总司（DG EAC），统筹制定战略指标、分配财政配额并发布执行指南。
 > - **国家执行中枢** 各成员国设立的 Erasmus 国家办事处（National Agencies），负责校际名额分配、资金拨付、资质合规审查与质量监督。
-> - **一线执行高校** 各大学国际合作处与院系教学委员会，负责签署校际双边协议、课程学分互换核销与留学生日常管理。
+> - **一线执行高校** 各大学国际合作处与院系教学委员会，负责签署校际双边协议、课程学分互换核销与[[Study Abroad|留学]]生日常管理。
 > - **受益对象** 欧洲公私立院校在校青年学生、青年学者以及辐射至全球的合作项目研究人员。
 
 > [!pathways] 实施路径与管理
@@ -162,7 +165,7 @@ updated: 2026-11-02
 
 > [!lessons] 经验教训与启示
 > - **实施教训** 单纯依靠财政资助和微观流动补贴无法自发消除各国深层的学制不兼容壁垒，且面临 1% 受益率天花板与阶层参与倾斜；过度沉迷于生源流入规模易引发忽视本土学术质量建设的自满假象。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 149)]]；[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 333)]]
-> - **对未来高教区域合作的启示** 跨国高等教育区域建设必须将资金资助的人际流动与宏观学制结构（学位分层、学分累积、质保准则）的深层协调紧密结合，才能实现可持续的互认互通。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 149–150)]]
+> - **对未来高教区域合作的启示** [[Transnational Education|跨国高等教育]]区域建设必须将资金资助的人际流动与宏观学制结构（学位分层、学分累积、质保准则）的深层协调紧密结合，才能实现可持续的互认互通。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 149–150)]]
 
 ---
 

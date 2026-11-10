@@ -12,7 +12,7 @@ subtype: policy
 region: "uk"
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[New Public Management]]"
   - "[[School Choice]]"
+  - "[[Quasi-market]]"
   - "[[Paradigm]]"
   - "[[Global Universities Rankings]]"
   - "[[Individualised Instruction]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -57,7 +58,7 @@ updated: 2026-10-26
 ---
 
 > [!claim] 政策核心
-> 该法案通过统一确立国家课程大纲、实施关键学段全国标准化测评并公开发布学校成绩排位表，同时下放学校办学财权与推行公开[[School Choice|择校]]，构筑了国家远程监控与教育准市场相融合的治理新[[Paradigm|范式]]。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 256–257)]]
+> 该法案通过统一确立国家课程大纲、实施关键学段全国标准化测评并公开发布学校成绩排位表，同时下放学校办学财权与推行公开[[School Choice|择校]]，构筑了国家远程监控与[[Quasi-market|教育准市场]]相融合的治理新[[Paradigm|范式]]。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 256–257)]]
 
 > [!policy-design] 政策设计
 > - **国家课程大纲（National Curriculum）** 统一规范基础教育核心学科与基础学科教学标准，打破以往各地方自治与教师自主决定教学内容的传统。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]

@@ -10,7 +10,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 45
+fact_related_count: 46
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Document]]"
   - "[[Research-Practice Gap]]"
+  - "[[Professional Interest]]"
   - "[[Reliability]]"
   - "[[Knowledge Mediation]]"
   - "[[Inquiry-Based Learning]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -92,7 +93,7 @@ updated: 2026-11-02
 > - **成立时间与创设背景** 机构于 2017 年正式上线运行，创设背景在于德语区长期缺乏本土化教育证据清算中介，且实证教育研究[[Document|文献]]激增与中小学一线教学实践之间存在深刻的[[Research-Practice Gap\|研究-实践鸿沟]]（Transferproblem）。
 > - **总部地点与官方门户** 总部设于德国慕尼黑，由慕尼黑工业大学教师教育与教学研究团队运营；官方门户为 [www.clearinghouse.edu.tum.de](https://www.clearinghouse.edu.tum.de/)（亦支持 [www.clearinghouse-unterricht.de](https://www.clearinghouse-unterricht.de/)），面向全德语区教育系统提供开放获取服务。
 > - **法人属性与经费资助谱系** 属于公立大学依托型非营利学术服务实体。其发展历经联邦项目孵化 → 大学建设运行 → 私人基金会接续资助的典型治理演进轨迹：创设初期由[[Federal Ministry of Education and Research\|德国联邦教育与研究部]]（BMBF）通过[[Qualitätsoffensive Lehrerbildung\|教师教育质量攻坚计划]]（QLB）全额专项注资；后期成功引入威廉·施特默基金会（Wilhelm Stemmer Stiftung）至少 6 年的战略注资，资金保障刚性延续至 2029 年。
-> - **资助方渊源与 MINT 战略** 威廉·施特默基金会由慕尼黑知名工业家、机器视觉技术先驱威廉·施特默创立，专注于长期扶持青少年与教师的数学、信息学、自然科学与技术（MINT）教育；自 2012 年起，该基金会便长期资助弗劳恩霍夫智能分析与信息系统研究所（Fraunhofer IAIS）开展 Roberta——用机器人学习（Roberta – Lernen mit Robotern）项目，已资助巴伐利亚州超百名 MINT 教师培训并捐赠机器人实验教具。基金会对 CHU 的接续资助旨在通过支持师资培养源头，全面激发中小学生对 MINT 学科的志趣。
+> - **资助方渊源与 MINT 战略** 威廉·施特默基金会由慕尼黑知名工业家、机器视觉技术先驱威廉·施特默创立，专注于长期扶持青少年与教师的数学、信息学、自然科学与技术（MINT）教育；自 2012 年起，该基金会便长期资助弗劳恩霍夫智能分析与信息系统研究所（Fraunhofer IAIS）开展 Roberta——用机器人学习（Roberta – Lernen mit Robotern）项目，已资助巴伐利亚州超百名 MINT 教师培训并捐赠机器人实验教具。基金会对 CHU 的接续资助旨在通过支持师资培养源头，全面激发中小学生对 MINT 学科的[[Professional Interest|志趣]]。
 > - **核心宗旨与服务对象** 宗旨是提供具有高度科学[[Reliability\|信度]]与实践可用性的循证服务，以提升教师教育专业化水平；优先将大学教师教育者（Lehrkräftebildner/innen）与在职进修研训主管定位为核心[[Knowledge Mediation\|知识中介]]乘数群体，着力化解师训骨干直接研读一级实证文献的认知负荷，并进而辐射在读师范生、见习实习教师（Referendare）与一线在岗教师。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 14–15)]]; [[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, pp. 10, 12)]]
 
 ---

@@ -5,7 +5,7 @@ aliases:
 summary: "Deveney 提出的概念，指位于学生母国境内但并不代表其本土文化与信仰的国际学校环境，用于分析本地学生在国际学校中的文化调适复杂性。"
 type: concept
 domain: "sociology-of-education"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -14,6 +14,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[International Schools]]"
+  - "[[Study Abroad]]"
   - "[[Chinese Learner]]"
 related_theories: []
 related_methods: []
@@ -25,7 +26,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-16'
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -35,7 +36,7 @@ updated: 2026-10-22
 
 > [!example] 概念辨析
 > - vs **第一文化**（母国文化）：学生家庭和本地社区的文化
-> - vs **第二文化**（外国文化）：海外留学时所接触的外国文化
+> - vs **第二文化**（外国文化）：[[Study Abroad|海外留学]]时所接触的外国文化
 > - vs **第三文化（海外[[International Schools\|国际学校]]文化）** 在海外就读国际学校时所处的文化空间
 > - **第四文化**的特异之处：学生在自己的家乡城市就读国际学校，但这些学校的价值观、信念和行为规范与家庭和本地社区存在显著差异——"家"与"学校"之间的文化距离在物理上很近、在心理上很远
 

@@ -10,7 +10,7 @@ aliases:
 summary: "利用人工智能算法对学习者认知状态、知识掌握与解题步骤（以及科学探究过程）进行细致建模并提供自适应个性化教学指导的计算机系统，涵盖良构问题解题分步支架与探究式智能导师系统（Inq-ITS），由领域模型、学生模型、教学模型与交互界面四大经典构件组成。"
 type: concept
 domain: "educational-technology"
-related_count: 57
+related_count: 58
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -83,10 +83,11 @@ related_arguments:
   - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Naeem_2026_Episteme]]"
+  - "[[Argument_Chen_2025_HSSC]]"
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 > [!def] Intelligent Tutoring Systems
@@ -291,7 +292,7 @@ updated: 2026-11-03
 >
 > | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Chen et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.52"><span class="b10"></span></span>0.52 | $p < .01$ | 历史多源事实导学 ITS vs. 传统课堂讲授 | 历史事实识记与时间线图式构建 | $N = 84$ | — | 准实验设计；ITS 自适应支架有效提升人文历史事实知识掌握度 |
+> | [[Argument_Chen_2025_HSSC\|Chen et al. (2025)]]，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.52"><span class="b10"></span></span>0.52 | $p < .01$ | 历史多源事实导学 ITS vs. 传统课堂讲授 | 历史事实识记与时间线图式构建 | $N = 84$ | — | 准实验设计；ITS 自适应支架有效提升人文历史事实知识掌握度 |
 > | Tasdelen and Bodemer (2025)，引自同上 | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.21"><span class="b4"></span></span>0.21 | $p < .05$ | 自适应分步微提示 ITS vs. 传统纸笔解题 | 小学数学长除法步骤解题技能 | $N = 114$（干预 $n = 57$, 控制 $n = 57$） | — | 准实验设计；基于认知负荷理论的分步微提示降低外在负荷 |
 > | Khazanchi et al. (2025)，引自同上 | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.05"><span class="b1"></span></span>0.05 | $p > .05$ | 代数几何智能导师 vs. 常规教学 | 中学几何辅助线推导与代数解题 | $N = 96$ | — | [[Quasi-Experimental Designs\|准实验设计]]；高抽象度几何证明任务中短期干预效应较温和 |
 
@@ -326,6 +327,6 @@ updated: 2026-11-03
 > | **中学数学与代数** | 方程求解、多步骤长除法、函数图式演练 | 步骤级错误归因、自适应微提示与分步[[Scaffolding\|脚手架]] | 显著降低外在负荷并提升技能内化；Tasdelen and Bodemer (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] |
 > | **自然科学与物理化学** | 概念规律探究、微观分子反应推演 | 结合动态模拟与知识追踪的因果逻辑诊断 | 促学成效显著优于静态超媒体系统（$g = 0.65$）；Hillmayr et al. (2020)，引自 [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] |
 > | **[[Computer Simulation\|虚拟仿真]]与科学探究** | 虚拟实验室假说检验、[[Variable\|变量]]控制与数据推论 | 操作日志挖掘、智能代理（Rex）微观支架与教师看板（[[Inq-Blotter]]） | 探究技能显著提升并实现跨学期远迁移；Gobert et al. (2023)，引自 [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] |
-> | **人文历史与社会科学** | 多源史料阅读、时空轴线图式构建 | 事实问答导学、因果线索自适应触发与结构化评测 | 人文事实与图式识记效应显著（$g = 0.52$）；Chen et al. (2025)，引自同上 |
+> | **人文历史与社会科学** | 多源史料阅读、时空轴线图式构建 | 事实问答导学、因果线索自适应触发与结构化评测 | 人文事实与图式识记效应显著（$g = 0.52$）；[[Argument_Chen_2025_HSSC\|Chen et al. (2025)]]，引自同上 |
 > | **中学几何与高阶证明** | 辅助线构造、严密逻辑演绎推导 | 产生式规则推理与逆向推演检验 | 面对非标准高阶劣构证明时干预效应温和；Khazanchi et al. (2025)，引自同上 |
 

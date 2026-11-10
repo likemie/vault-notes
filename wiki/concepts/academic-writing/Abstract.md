@@ -9,10 +9,10 @@ aliases:
 summary: "学术写作中包含文献摘要与研究摘要两类体裁，前者用于文献综述中的研究加工与要素提炼，后者置于方案或论著开篇系统整合问题、数据源、方法、发现与启示；在科学学中亦作为高密度语义挖掘语料。"
 type: concept
 domain: "academic-writing"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 33
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - source/textbook
   - method/research-process
@@ -28,9 +28,11 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Variable]]"
+  - "[[Cumulative Innovation]]"
   - "[[Operationalization]]"
   - "[[Discourse]]"
   - "[[Publication Bias]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -41,12 +43,15 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Mixed Methods Research]]"
   - "[[Confidence Interval]]"
+  - "[[Systematic Review]]"
+  - "[[Supervised Learning]]"
 related_persons:
   - "[[John W. Creswell]]"
   - "[[J. David Creswell]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
-related_facts: []
+related_facts:
+  - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit10]]"
@@ -54,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-05-31"
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -94,7 +99,7 @@ updated: 2026-11-03
 > - **数据来源与样本特征（Data Sources & Sample Characteristics）** 说明研究对象、抽样策略、样本容量（$N$）与关键人口统计学或情境[[Variable|变量]]特征。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 5)]]
 > - **方法设计与分析程序（Methodological Design & Analytics）** 交代研究设计类型（如质性[[Case Study|个案研究]]、[[Experimental Research|实验设计]]或[[Mixed Methods Research|混合方法]]顺序解释设计）、数据采集工具与分析程序。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 5)]]
 > - **核心实证发现（Key Empirical Findings）** 呈现研究的核心产出；量化分析须报告[[Effect Size|效应量]]（如 Cohen's $d$）、[[Confidence Interval|置信区间]]与显著性水平，质性研究须明确核心概念主题及其支撑证据。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 5)]]
-> - **结论与实践启示（Conclusions & Implications）** 提炼研究对理论深化、后续研究方向或教育实践干预的增量价值，形成逻辑完备的终局回应。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 5)]]
+> - **结论与实践启示（Conclusions & Implications）** 提炼研究对理论深化、[[Cumulative Innovation|后续研究]]方向或教育实践干预的增量价值，形成逻辑完备的终局回应。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 5)]]
 
 > [!logic-map]- 要素关系与时序流程
 > ```mermaid
@@ -132,11 +137,11 @@ updated: 2026-11-03
 ---
 
 > [!dev-timeline] 摘要文体与功用的演变脉络
-> - **1950s–1970s — 学术期刊工业化与文摘索引体制确立** 伴随二战后科学文献指数级增长，美国化学文摘（CA）与科学引文索引（SCI）确立规范，摘要从早期随笔式前言演进为独立的文献计量单元。
+> - **1950s–1970s — 学术期刊工业化与文摘索引体制确立** 伴随二战后科学文献指数级增长，美国化学文摘（CA）与[[Web of Science|科学引文索引]]（SCI）确立规范，摘要从早期随笔式前言演进为独立的文献计量单元。
 > - **1980s–1990s — 结构化摘要规范在医学与社会科学中推广** 国际顶级医学期刊推行包括“背景、方法、结果、结论”显性小标题的结构化摘要（Structured Abstract），显著提升文献阅读效率。
 > - **2020 — APA 第七版出版手册确立五要素质量准则** 美国心理学会（APA）发布第七版规范，严格界定实证研究摘要客观非评价性、250 词上限及统计量报告标准。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 5)]]
 > - **2021 — 科学学确立摘要作为网络拓扑抽取的计算基石** 王大顺与巴拉巴西系统总结自然语言处理挖掘数百万篇文献摘要构建生化实体网络的里程碑成果，确立了摘要作为前沿科学探索计量载体的核心价值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, p. 227)]]
-> - **2023 — 深度文本嵌入挖掘摘要潜空间实现知识发现** 刘等系统综述指出，机器学习突破传统预设变量约束，利用神经网络无监督学习 330 万篇材料科学文献摘要的词嵌入高维潜空间，成功在前瞻性实验验证前数年准确预测出优质热电材料。[[Argument_Liu_2023_NHB|(Liu et al., 2023, p. 1878)]]
+> - **2023 — 深度文本嵌入挖掘摘要潜空间实现知识发现** 刘等[[Systematic Review|系统综述]]指出，机器学习突破传统预设变量约束，利用神经网络无[[Supervised Learning|监督学习]] 330 万篇材料科学文献摘要的词嵌入高维潜空间，成功在前瞻性实验验证前数年准确预测出优质热电材料。[[Argument_Liu_2023_NHB|(Liu et al., 2023, p. 1878)]]
 
 ---
 
@@ -163,4 +168,4 @@ updated: 2026-11-03
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 系统界定文献摘要与研究方案摘要的构成规范，确立实证研究摘要时序五要素与 APA 第七版非评价性撰写标准（参见第 2、5 章）。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási (2021)]] — 梳理自然语言处理挖掘数百万篇生物医学文献摘要以构建跨世纪化学知识网络的科学学应用，揭示高密度摘要语料在知识图谱计算中的前沿价值（p. 227）。
-> - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 综述机器学习挖掘数百万篇材料科学文献摘要高维嵌入潜空间以前瞻性预测物性的前沿范式（p. 1878）。
+> - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 综述机器学习挖掘数百万篇材料科学文献摘要高维嵌入潜空间以前瞻性预测物性的前沿[[Paradigm|范式]]（p. 1878）。

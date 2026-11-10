@@ -28,6 +28,7 @@ related_concepts:
   - "[[ASEAN Way]]"
   - "[[Educational Diplomacy]]"
   - "[[Student Mobility]]"
+  - "[[Study Abroad]]"
   - "[[Research Universities]]"
   - "[[Lifelong Learning]]"
   - "[[Internationalization of Higher Education]]"
@@ -43,7 +44,6 @@ related_concepts:
   - "[[Internationalization of Vocational Education]]"
   - "[[Institutional Mimesis]]"
   - "[[Global Regionalisms]]"
-  - "[[Document]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Tributary System]]"
@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-20
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -123,7 +123,7 @@ updated: 2026-11-02
 >   - **2010** 首届中国—东盟教育部长圆桌会议通过《贵阳宣言》，正式启动“中国—东盟双十万[[Student Mobility|学生流动]]计划”。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 10)]]
 >   - **2013–2021** 中国高水平大学在东盟多点布局实体办学（如[[Xiamen University Malaysia|厦门大学马来西亚分校]]、老挝苏州大学）与 31 所[[Confucius Institute|孔子学院]]合作网络，推动高教双向深度对接。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 84–85)]]
 >   - **2015** 正式宣布建成以政治安全、经济、社会文化为支柱的“东盟共同体”。
->   - **2018** 在华留学的东盟学生规模攀升至 98,823 人，占中国国际学生总数的 20.08%。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 10)]]
+>   - **2018** 在华[[Study Abroad|留学]]的东盟学生规模攀升至 98,823 人，占中国国际学生总数的 20.08%。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 10)]]
 >   - **2022–2024** 成立[[China-ASEAN Federation for Vocational Education|中国—东盟职业教育联合会]]（汇聚中外 175 家院校机构与企业），推进“双百计划”，并在广西部区协同机制下立项建设约 10 个中国—东盟技术创新学院与[[Chinese-ASEAN Modern Craftsmanship Institute|现代工匠学院]]集群，构建全周期跨国产教协同载体。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 294, 299)]]
 
 ---
@@ -227,4 +227,4 @@ updated: 2026-11-02
 > - [[Argument_Velasco_2022_CSJ|Velasco (2022)]] — 系统剖析面向东盟的教育外交三大支柱及领土争端约束下的软实力权力转化困境。
 > - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 结合中国—东盟全面战略伙伴关系与经贸走廊建设，系统论述职业教育高水平对外开放的政策链条、多边组织平台与现代工匠学院产教协同机制（pp. 286–301）。
 > - [[Argument_Murray_Moxon-Browne_2013_JCMS|Murray and Moxon-Browne (2013)]] — 比较欧盟常驻代表委员会与东盟常驻代表委员会的治理架构，评估东盟在制度拟态中面临的资源约束、协商规范差异与履约机制缺失等治理瓶颈（pp. 522–535）。
-> - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 比较欧洲与东南亚高等教育区域主义，揭示东盟方式如何内生塑造名校结网与部委协调并立的双轨治理格局。
+> - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 比较欧洲与东南亚[[Global Regionalisms|高等教育区域主义]]，揭示东盟方式如何内生塑造名校结网与部委协调并立的双轨治理格局。

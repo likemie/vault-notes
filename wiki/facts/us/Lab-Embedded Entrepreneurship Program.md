@@ -12,7 +12,7 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -23,7 +23,9 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Establishing One's Will]]"
   - "[[Technology Readiness Level]]"
+  - "[[Nation Branding]]"
   - "[[Megascience Installations]]"
+  - "[[Study Abroad]]"
   - "[[Technology Transfer]]"
   - "[[Patient Capital]]"
   - "[[Research Translation]]"
@@ -39,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-11-11
 ---
 
 ---
@@ -73,7 +75,7 @@ updated: 2026-10-10
 
 > [!dev-timeline] 项目推进历程
 > - **2014–2015 — 模式首创与气旋路先导试验期** 能源部先进制造办公室在劳伦斯伯克利国家实验室（LBNL）启动气旋路项目试点，首创“驻场创业学者”（Fellow）制度，允许发明人利用国家实验室设施试制原型，孕育了其后的 [[Activate Fellowship]] 孵化架构。
-> - **2016–2020 — 跨实验室网络化扩张期** 能源部正式确立“实验室嵌入式创业计划”（LEEP）国家品牌，先后在阿贡国家实验室（ANL）设立“链式反应创新”（Chain Reaction Innovations）、橡树岭国家实验室（ORNL）设立“创新十字路口”（Innovation Crossroads），构建起覆盖中西部与东南部制造业基地的创新网络。
+> - **2016–2020 — 跨实验室网络化扩张期** 能源部正式确立“实验室嵌入式创业计划”（LEEP）[[Nation Branding|国家品牌]]，先后在阿贡国家实验室（ANL）设立“链式反应创新”（Chain Reaction Innovations）、橡树岭国家实验室（ORNL）设立“创新十字路口”（Innovation Crossroads），构建起覆盖中西部与东南部制造业基地的创新网络。
 > - **2021–至今 — 新节点纳入与跨部门协同深化期** 在国家可再生能源实验室（NREL）启动“西大门”（West Gate）节点；同时与[[DARPA]]等联邦国防研发机构展开跨部门联动，直接借调 LEEP 基地设立微电子硬件专项，成为美国关键核心技术产业链自主创新的制度样板。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 46)]]
 
 ---
@@ -87,7 +89,7 @@ updated: 2026-10-10
 > [!pathways] 实施路径与管理
 > - **纵向传导与支持** 联邦资金通过能源部研发专项直接下拨至国家实验室及配套基金会，形成“津贴＋研发额度＋差旅咨询”的一体化直接资助包。
 > - **横向跨部门协同** 能源部积极对接[[DARPA]]、国家科学基金会（[[National Science Foundation|NSF]]）及情报界创投机构 In-Q-Tel，实现前沿硬件项目的联合资助与后续资本承接。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 46)]]
-> - **动态反馈与调整** 针对微电子与高端硬件开发周期长的特性，动态建立知识产权托管协议与安全审查通道，允许学者在保留学术成果归属的同时行使商业开发特许权。
+> - **动态反馈与调整** 针对微电子与高端硬件开发周期长的特性，动态建立知识产权托管协议与安全审查通道，允许学者在保[[Study Abroad|留学]]术成果归属的同时行使商业开发特许权。
 
 ---
 

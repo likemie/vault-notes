@@ -5,7 +5,7 @@ aliases:
 summary: "丹麦教育哲学界提出的批判性概念，指一种抽离具体历史时空、政策目标与课程内容，宣称在自调节系统中运作，并将教育活动简化为输入变量与输出指标审查的去情境化评价范式。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Unit of Analysis]]"
   - "[[Operationalization]]"
+  - "[[Transnational Education]]"
   - "[[Visible Learning]]"
   - "[[Variable]]"
   - "[[Research Cage]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: stable
 created: '2026-05-03'
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -84,7 +85,7 @@ updated: 2026-11-03
 > - **去情境化（Decontextualization）** 抽离所有具体教育政策倡议、学校组织形态与学科教学论情境，将多元历史实践还原为孤立参数。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 3)]]
 > - **元层次综合（Meta-level Synthesis）** 绕过一手教学现场，以大量基于异质情境目标的评价报告为原料进行二阶抽象，构建脱域的全球指标体系。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 3)]]
 > - **自指与自调节系统（Self-referential and Self-regulating System）** 评价数据直接定义期望目标，目标反向规定干预方式，形成自足的控制论反馈系统。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 3–4)]]
-> - **全球数字化结构（Global Digital Structure）** 将评价重构为不受地域边界限制的量化管理网络，推动跨国教育治理的技术化与标准化。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 3)]]
+> - **全球数字化结构（Global Digital Structure）** 将评价重构为不受地域边界限制的量化管理网络，推动[[Transnational Education|跨国教育]]治理的技术化与标准化。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 3)]]
 
 > [!logic-map]- 纯粹评价的运转逻辑
 > ```mermaid

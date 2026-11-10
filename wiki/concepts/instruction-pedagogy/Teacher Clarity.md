@@ -10,7 +10,7 @@ aliases:
 summary: "教师在组织教学内容、阐明目标准则、解释概念逻辑与传达行动指令时所呈现的条理透彻与易于理解的专业沟通品质；在二阶元分析中以d=0.75位居教师实践效应量第二位，能通过降低无关认知负荷显著赋通学生的表层吸收与深层思维建构。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Teacher Immediacy]]"
   - "[[Productive Failure]]"
   - "[[Problem Solving]]"
+  - "[[Lecturing]]"
   - "[[Concept Mapping]]"
   - "[[Advance Organizers]]"
   - "[[Homework]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -84,7 +85,7 @@ updated: 2026-11-03
 ---
 
 > [!contrast-table] 教学沟通维度辨析
-> | 维度 | 教师清晰度（Teacher Clarity） | 教师即时亲和力（[[Teacher Immediacy]]） | 讲授流畅性（Lecture Fluency） |
+> | 维度 | 教师清晰度（Teacher Clarity） | 教师即时亲和力（[[Teacher Immediacy]]） | 讲授流畅性（[[Lecturing\|Lecture]] Fluency） |
 > |---|---|---|---|
 > | **核心内涵** | 目标、概念、步骤与准则的逻辑通透与易于理解 | 情感共鸣、人际心理靠近与温暖包容 | 语言表达无卡顿、语音语调自然连贯 |
 > | **认知功能** | 降低无关认知负荷，澄清思维障碍与评定依据 | 提升学习专注动机与心理安全感 | 维持听觉吸引力，但可能诱发“流畅性错觉” |

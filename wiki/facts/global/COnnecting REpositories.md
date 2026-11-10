@@ -14,7 +14,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -34,44 +34,40 @@ related_concepts:
   - "[[Data Infrastructure]]"
   - "[[Document]]"
   - "[[Combinatorial Novelty]]"
-  - "[[Metascience]]"
-  - "[[Citation Distribution]]"
-  - "[[Heterogeneity]]"
+  - "[[Reliability]]"
 related_theories: []
 related_methods:
-  - "[[Bibliometric Analysis]]"
-  - "[[Record Linkage]]"
+  - "[[Cognitive Extent]]"
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Crossref]]"
-  - "[[OpenAlex]]"
-  - "[[Web of Science]]"
-  - "[[Dimensions]]"
-  - "[[SciSciNet]]"
+  - "[[EU]]"
+  - "[[UK Research and Innovation]]"
+  - "[[Open Court Reading]]"
+  - "[[Research Excellence Framework]]"
 related_arguments:
   - "[[Argument_Liu_2023_NHB]]"
 confidence: high
 status: active
 created: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 项目定位
-> COnnecting REpositories（简称 CORE）是由英国开放大学（The Open University）知识媒体研究所（Knowledge Media Institute, KMi）与英国联合信息系统委员会（Jisc）于 2011 年联合发起的全球非营利开放获取学术全文聚合与机器挖掘数据基础设施。该项目旨在跨越全球分散的大学机构知识库与学术期刊孤岛，集中收割、清洗并托管全球海量开放获取科研成果全文及其富元数据，为科学共同体、图书馆系统以及科技政策研究者提供可编程的大规模文本与数据挖掘（Text and Data Mining, TDM）平台。[[Argument_Liu_2023_NHB|(Liu et al., 2023)]]
+> COnnecting REpositories（简称 CORE）是由英国开放大学（The Open University）知识媒体研究所（Knowledge Media Institute, KMi）与英国联合信息系统委员会（Jisc）于 2011 年联合发起的全球非营利开放获取学术全文聚合与机器挖掘[[Data Infrastructure|数据基础设施]]。该项目旨在跨越全球分散的大学机构知识库与学术期刊孤岛，集中收割、清洗并托管全球海量开放获取科研成果全文及其富元数据，为科学共同体、图书馆系统以及科技政策研究者提供可编程的大规模文本与数据挖掘（Text and Data Mining, TDM）平台。[[Argument_Liu_2023_NHB|(Liu et al., 2023)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2010 年底由彼得·诺特（Petr Knoth）与兹德涅克·兹德拉哈尔（Zdenek Zdrahal）提出概念并立项研发，2011 年正式上线运行，作为长周期公共学术基础设施持续稳健运营至今。
-> - **发起方与资助机制** 由英国开放大学与 Jisc 共同主导，曾获欧盟第七研发框架计划（FP7）、英国研究与创新署（UKRI）及微软开放数据行动（Microsoft Open Data Campaign）等专项基金资助，签署《开放学术基础设施原则》（POSI）践行社区治理。
+> - **发起方与资助机制** 由英国开放大学与 Jisc 共同主导，曾获[[EU|欧盟]]第七研发框架计划（FP7）、[[UK Research and Innovation|英国研究与创新署]]（UKRI）及微软开放数据行动（Microsoft Open Data Campaign）等专项基金资助，签署《开放学术基础设施原则》（POSI）践行社区治理。
 > - **覆盖范围与对象** 截至 2020 年代，深度聚合全球 158 个国家和地区、超过 11,000 个学术数据源（包括大学机构知识库、学科预印本库及开放获取学术期刊），收录超过 2.6 亿条元数据记录，直接托管可供文本挖掘的结构化全文学术成果逾 3000 万篇。
-> - **核心问题导向** 破除绿色开放获取（Green OA）背景下文献碎片化分散在全球上万个异构仓储系统中的弊端，消除仅有引文元数据而缺失正文内容对文本挖掘与自然语言处理研究造成的阻隔。[[Argument_Liu_2023_NHB|(Liu et al., 2023)]]
+> - **核心问题导向** 破除绿色开放获取（Green OA）背景下[[Document|文献]]碎片化分散在全球上万个异构仓储系统中的弊端，消除仅有引文元数据而缺失正文内容对文本挖掘与自然语言处理研究造成的阻隔。[[Argument_Liu_2023_NHB|(Liu et al., 2023)]]
 
 ---
 
 > [!claim] 核心干预／机制假说
-> 通过建立自动化跨源协议收割、光学字符识别（OCR）文本抽取与正文语义解析流水线，将分散孤立的 PDF 学术成果转化为标准化、机器可读的结构化纯文本知识库，能够突破传统单纯依赖参考文献引证关系的局限，赋能科学学与计量学直接测度科研成果的真实语义内容、[[Combinatorial Novelty|组合新颖性]]与跨学科认知广度。[[Argument_Liu_2023_NHB|(Liu et al., 2023)]]
+> 通过建立自动化跨源协议收割、光学字符识别（[[Open Court Reading|OCR]]）文本抽取与正文语义解析流水线，将分散孤立的 PDF 学术成果转化为标准化、机器可读的结构化纯文本知识库，能够突破传统单纯依赖参考文献引证关系的局限，赋能科学学与计量学直接测度科研成果的真实语义内容、[[Combinatorial Novelty|组合新颖性]]与跨学科[[Cognitive Extent|认知广度]]。[[Argument_Liu_2023_NHB|(Liu et al., 2023)]]
 
 > [!policy-design] 方案设计
 > - **项目目标** 汇聚全球所有开放获取科研成果并提供可计算的全文访问，促进学术成果的高效发现、文本挖掘与科学学知识动力学建模。
@@ -93,7 +89,7 @@ updated: 2026-11-02
 > - **2010–2011 — 原型研发与全英先导期** 英国开放大学知识媒体研究所研发多仓储元数据自动收割与文本解析系统，初步连通英国本土主要大学知识库。
 > - **2012–2016 — 全球网络扩张与欧盟专项支持** 接入全球数千个机构知识库，与欧洲开放获取基础设施项目（OpenAIRE）深度协作，成为欧洲开放获取合规审计的核心技术支撑组件。
 > - **2017–2020 — 全文数据湖建设与企业战略合作** 推出 CORE 文本数据集供全球机器学习与自然语言处理学者下载，获得微软开放数据计划专项支持，为学术大语言模型预训练提供海量高品质科研语料。
-> - **2021–至今 — POSI 治理规范化与全球学术评价应用** 签署 POSI 原则确保基础设施不可出售并保持长期公益性；在英国卓越科研评价框架（Research Excellence Framework, REF）的开放获取政策核验与全球反造假学术侦测中发挥支柱作用。[[Argument_Liu_2023_NHB|(Liu et al., 2023)]]
+> - **2021–至今 — POSI 治理规范化与全球学术评价应用** 签署 POSI 原则确保基础设施不可出售并保持长期公益性；在英国卓越科研评价框架（[[Research Excellence Framework]], REF）的开放获取政策核验与全球反造假学术侦测中发挥支柱作用。[[Argument_Liu_2023_NHB|(Liu et al., 2023)]]
 
 ---
 
@@ -122,4 +118,4 @@ updated: 2026-11-02
 > > 计算机语言学家与情报分析专家对从各色版式 PDF 中抽取纯文本的清洗质量存在技术讨论。
 > >
 > > - **批评观点** 由于全球各大学知识库上传的文献排版格式极度异构，部分扫描版或复杂双栏排版 PDF 在文本抽取时容易丢失公式、表格结构或将正文与侧边脚注混淆，引入非结构化噪音。
-> > - **回应辩护** CORE 团队持续升级基于深度学习的文档版面分析算法（Document Layout Analysis），在数据集中显式标注文本置信度得分，并呼吁科研出版机构全面推进标准 XML/JATS 机器可读格式的开放存缴。
+> > - **回应辩护** CORE 团队持续升级基于深度学习的文档版面分析算法（Document Layout Analysis），在数据集中显式标注文本置[[Reliability|信度]]得分，并呼吁科研出版机构全面推进标准 XML/JATS 机器可读格式的开放存缴。

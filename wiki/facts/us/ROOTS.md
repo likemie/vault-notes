@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -40,6 +40,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[James C. Scott]]"
+  - "[[Ben Levin]]"
 related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[Every Student Succeeds Act]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -77,7 +78,7 @@ updated: 2026-10-26
 > - **核心概念体系聚焦** 重点聚焦三大陆基概念：十进制位值理解（Place Value）、基数与序数原理（Counting & Cardinality）、以及基于数轴与点阵图的数字量感比较（Magnitude Comparison）。
 > - **助教 1:2–5 弹性小组结构** 既可在 1:2 的微型对子中递送，亦可在 1:5 的标准小组中实施，便于学校根据助教编制弹性排班。
 
-> [!citation-card] 斯莱文论 ROOTS 的实证增益与助教价值
+> [!citation-card] 斯[[Ben Levin|莱文]]论 ROOTS 的实证增益与助教价值
 > 助教辅导模式在数学领域同样产生了极为显著的因果成效。例如针对一年级数学困难儿童开展的 ROOTS 方案，在两项独立的[[Randomised Controlled Trials\|随机对照试验]]中由教学助教以小组形式实施，取得了 +0.24 的平均[[Effect Size\|效应量]]，双双达到《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *Small-group tutoring by paraprofessionals was also effective in elementary mathematics. ROOTS, delivered to first graders in small groups (1:2 to 1:5) by [[Teaching Assistant|Teaching Assistants]] across two randomized trials, produced an effect size of +0.24, meeting the ESSA Strong rating.*

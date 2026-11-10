@@ -12,7 +12,7 @@ subtype: organization
 region: chile
 fact_region: "chile"
 fact_kind: "organization"
-fact_related_count: 41
+fact_related_count: 42
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ tags:
   - evidence-ecosystem
   - knowledge-brokerage
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Evidence Ecosystem]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Evaluation Research]]"
@@ -77,13 +78,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定位
-> 拉美和加勒比教育研究与创新实验室（Laboratorio de Investigación e Innovación en Educación para América Latina y el Caribe，SUMMA）是由美洲开发银行（[[Inter-American Development Bank]]，IDB）联合拉美多国教育部于 2016 年共同发起成立、后依法注册为独立非营利法人的跨国教育实证中介与创新研发中枢。机构法定总部设于智利圣地亚哥，通过搭建跨国多中心[[Evidence Ecosystem|证据生态系统]]，致力于将严谨因果实证转化为可操作的政策与教学方案，推动拉美和加勒比地区教育公平与社会正义。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 49)]]
+> 拉美和加勒比教育研究与创新实验室（Laboratorio de Investigación e Innovación en Educación para América Latina y el Caribe，SUMMA）是由美洲开发银行（[[Inter-American Development Bank]]，IDB）联合拉美多国教育部于 2016 年共同发起成立、后依法注册为独立非营利法人的[[Transnational Education|跨国教育]]实证中介与创新研发中枢。机构法定总部设于智利圣地亚哥，通过搭建跨国多中心[[Evidence Ecosystem|证据生态系统]]，致力于将严谨因果实证转化为可操作的政策与教学方案，推动拉美和加勒比地区教育公平与社会正义。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 49)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2015 年巴拿马美洲峰会期间，拉美 7 国教育部部长联合提出设立区域性证据与创新实体的倡议；美洲开发银行依托区域公共产品倡议（Iniciativa Bienes Públicos Regionales）于 2016 年正式出资孵化设立 SUMMA，并于同年在华盛顿特区与智利圣地亚哥举行官方发布。

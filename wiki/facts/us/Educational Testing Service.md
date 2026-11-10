@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
   - theme/educational-governance
 related_concepts:
   - "[[Praxis]]"
+  - "[[Transnational Education]]"
   - "[[Data Infrastructure]]"
   - "[[Test Production]]"
   - "[[Language Skills]]"
@@ -69,13 +70,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-27
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定位
-> 美国教育考试服务中心（Educational Testing Service, ETS）是全球规模最大的私立非营利性教育评估与心理测量科研机构，1947 年由[[American Council on Education|美国教育理事会]]（American Council on Education, ACE）、卡内基教学促进基金会与大学入学考试委员会联合创立。该机构不仅是托福（TOEFL）、研究生入学考试（GRE）及教师资格考试（[[Praxis]]）等标志性标准化考试的研发与运营中枢，更是国家与跨国教育治理体系中核心的第三方测评生产承包商，与政策决策者形成深度共生网络，驱动[[Data Infrastructure|教育数据基础设施]]扩张与制度锁定。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 18)]]; [[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 252, 260)]]
+> 美国教育考试服务中心（Educational Testing Service, ETS）是全球规模最大的私立非营利性教育评估与心理测量科研机构，1947 年由[[American Council on Education|美国教育理事会]]（American Council on Education, ACE）、卡内基教学促进基金会与大学入学考试委员会联合创立。该机构不仅是托福（TOEFL）、研究生入学考试（GRE）及教师资格考试（[[Praxis]]）等标志性标准化考试的研发与运营中枢，更是国家与[[Transnational Education|跨国教育]]治理体系中核心的第三方测评生产承包商，与政策决策者形成深度共生网络，驱动[[Data Infrastructure|教育数据基础设施]]扩张与制度锁定。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 18)]]; [[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 252, 260)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1947 年正式创立。第二次世界大战后退伍军人大量重返大学，全美高等教育界急需统一、客观且具备跨校可比性的学业与学术潜能选拔标准；三大教育机构协商合并各自测验部门，组建独立全国性专业测评中枢。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 18)]]

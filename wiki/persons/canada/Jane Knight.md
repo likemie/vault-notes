@@ -7,7 +7,7 @@ summary: "加拿大国际高等教育学者，系统界定高等教育国际化�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 34
+person_related_count: 36
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Operationalization]]"
   - "[[Geopolitics of Higher Education]]"
+  - "[[Transnational Education]]"
   - "[[Innovation Models Evolution]]"
   - "[[Heterogeneity]]"
   - "[[Knowledge Power]]"
@@ -51,18 +52,19 @@ related_facts:
   - "[[OECD]]"
   - "[[UNESCO]]"
   - "[[Belt and Road Initiative]]"
+  - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
   - "[[University Alliance of the Silk Road]]"
 related_arguments:
   - "[[Argument_Yu_Xie_2025_JHE]]"
   - "[[Argument_Liu_2025_IndHE]]"
   - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
+  - "[[Argument_Qu_2024_IJED]]"
   - "[[Argument_Erfurth_2022_education-hubs]]"
   - "[[Argument_Zapp_2022_Springer]]"
-  - "[[Argument_Qu_2024_IJED]]"
 confidence: high
 status: active
 created: 2026-05-07
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -90,7 +92,7 @@ updated: 2026-11-10
 >   - **代表著作** *Higher Education in Turmoil: The Changing World of Internationalization* (2008)。
 >   - **关键概念／方法** [[Internationalization of Higher Education|高等教育国际化]]、[[GATS and Trade in Education Services|教育服务贸易]]、[[Case Study|案例研究]]。
 >   - **阶段转向** 将国际化从传统的校际学术交流提升为涉及政策法规、国家战略与跨国服务贸易的系统性制度变革。
-> - **2000 年代末–2010 年代中叶 — [[International Education Hubs|国际教育枢纽]]分类学与空间政治** 聚焦后发国家与城市依托政策激励集群化建设跨境教育特区的现象，建立系统分类学框架。
+> - **2000 年代末–2010 年代中叶 — [[International Education Hubs|国际教育枢纽]]分类学与空间政治** 聚焦后发国家与城市依托政策激励集群化建设[[Transnational Education|跨境教育]]特区的现象，建立系统分类学框架。
 >   - **代表著作** *[[International Education]] Hubs: Student, Talent, Knowledge/[[Innovation Models Evolution|Innovation Models]]* (2014)。
 >   - **关键概念／方法** [[International Education Hubs|国际教育枢纽]]、[[Innovation Hub|创新枢纽]]、[[Analytic Framework|分析框架]]。
 >   - **阶段转向** 从离散的跨境办学机构转向国家与城市层面的空间战略聚集，解构学生枢纽、人才枢纽与知识创新枢纽的功能[[Heterogeneity|异质性]]。
@@ -128,7 +130,7 @@ updated: 2026-11-10
 > - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] — 运用简·奈特的国际教育枢纽三级分类模型，系统解构全球[[Geopolitics of Knowledge|知识地缘政治]]格局下国家战略性知识空间的建构逻辑。
 > - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] — 运用简·奈特的国际教育枢纽模型开展跨国案例对比，同时批判其政策倡导导向在揭示深层[[Geopolitics|地缘政治]]后果方面的局限性。
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 援引简·奈特关于知识村与教育枢纽的空间分析，论证全球化时代大学知识流动与国家地缘政治再领土化之间的结构性张力。
-> - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 运用简·奈特的国际教育枢纽三级演进模型（学生枢纽、人才枢纽与知识／创新枢纽），实证考察中国长三角、粤港澳大湾区与海南自贸港跨国教育枢纽的多轨空间模式与区域产业协同。
+> - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 运用简·奈特的国际教育枢纽三级演进模型（学生枢纽、人才枢纽与知识／创新枢纽），实证考察中国长三角、[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]与海南自贸港跨国教育枢纽的多轨空间模式与区域产业协同。
 
 ---
 

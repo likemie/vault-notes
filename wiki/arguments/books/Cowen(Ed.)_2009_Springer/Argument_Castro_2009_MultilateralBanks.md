@@ -7,7 +7,7 @@ title: "Argument_Castro_2009_MultilateralBanks"
 argument_key: "Argument_Castro_2009_MultilateralBanks"
 argument_display_title: "Can multilateral banks educate the world?"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Document]]"
   - "[[Refined Mastery]]"
+  - "[[Transnational Education]]"
   - "[[Knowledge Bank]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Paradigm]]"
@@ -85,7 +86,7 @@ sources:
   - "[[books/Cowen(Ed.)_2009_Springer/Ch29_Castro_2009|Ch29_Castro_2009]]"
 status: active
 created: 2026-10-14
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
@@ -244,7 +245,7 @@ updated: 2026-10-29
 
 历史经验表明，脱离本土政治土壤的蛮力强加往往以灾难告终，五国实证案例清晰展现了附加条件在不同政治生态下的分化命运。（pp. 466–467）
 
-> [!row-contrast] 跨国教育贷款附加条件履约与失灵实证矩阵（pp. 466–467）
+> [!row-contrast] [[Transnational Education|跨国教育]]贷款附加条件履约与失灵实证矩阵（pp. 466–467）
 > | 案例国家／地区 | 贷款机构与项目内容 | 设定的核心附加条件 | 政治博弈与执行轨迹 | 实证结论与成败定性 |
 > |:---|:---|:---|:---|:---|
 > | **玻利维亚** | [[World Bank\|世界银行]]教育部门综合贷款 | 强制推行教师资格能力测评；全面废止由政府代扣教师工会会费的税收特权。 | 引发全国教师工会无限期总罢工与激烈社会动乱，政府被迫宣布全国进入戒严状态。 | **彻底流产** 脱离政治承受力的盲目强加导致项目彻底被政治海啸吞噬。 |

@@ -7,7 +7,7 @@ summary: "德国教育学家和 Didaktik 代表人物，批判建设性教学论
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 24
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Epochal Key Problems]]"
   - "[[General Education]]"
   - "[[Normal School]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Reform Pedagogy]]"
   - "[[Geisteswissenschaften]]"
   - "[[Disciplina and Doctrina]]"
@@ -34,9 +35,10 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Constructivist Paradigm]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Nationalism]]"
+  - "[[Open-Mindedness]]"
   - "[[Positivism]]"
   - "[[Atomisation of Knowledge and Skills]]"
-  - "[[Open-Mindedness]]"
 related_persons:
   - "[[Edmund Husserl]]"
 related_facts:
@@ -53,7 +55,7 @@ related_methods:
 confidence: high
 status: draft
 created: '2026-05-06'
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -75,7 +77,7 @@ updated: 2026-10-22
 > - **1944–1945** 17岁时获得毕业证明并被征召加入国家劳役团；二战后期作为伤残军人返乡。
 > - **1946–1948** 在汉诺威[[Normal School|师范学院]]接受 Volksschullehrer（国民学校教师）培训。
 > - **1948–1952** 在 Lindhorst 和 Lüdersfeld 担任教师，以其民主教学风格与对学生的关爱而闻名，并在此期间通过第二阶段资格考试。
-> - **1952–1957** 在哥廷根大学师从 Erich Weniger，并在波恩大学师从 Theodor Litt；哲学学习受 Helmuth Plessner and Josef König 影响。1957年凭借博士论文《基本性教学论问题与范畴教育学理论》获得博士学位，奠定了其范畴教育学基础。
+> - **1952–1957** 在哥廷根大学师从 Erich Weniger，并在波恩大学师从 Theodor Litt；哲学学习受 Helmuth Plessner and Josef König 影响。1957年凭借[[Doctoral Dissertation|博士论文]]《基本性教学论问题与范畴教育学理论》获得博士学位，奠定了其范畴教育学基础。
 > - **1963–1992** 任马尔堡大学教育学正教授。在此期间，他引入[[Critical Theory|批判理论]]，使思想转向批判科学，系统发展了“批判建设性教学论”，并主导了马尔堡小学项目（1972年起）。
 > - **1970s** 思想辐射至北欧，丹麦教育学界重读克拉夫基以反对威权灌输式教学，推进以学生为中心的[[Reform Pedagogy|改革教育学]]实验。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]
 > - **1990s** 其课程思想（特别是[[Epochal Key Problems|时代关键问题]]）深度影响了北欧教育改革，特别是芬兰基础教育国家核心课程的修定。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]
@@ -132,7 +134,7 @@ updated: 2026-10-22
 > [!debates] 学术争议
 >
 > > [!axis] 教化与教学论传统的历史误用与现代重释
-> > 历史上，德语区和芬兰的 [[Bildung]] 与 [[Didaktik]] 传统常常被批评为强化社会阶层精英主义以及国家民族主义政治目标的工具。
+> > 历史上，德语区和芬兰的 [[Bildung]] 与 [[Didaktik]] 传统常常被批评为强化社会阶层精英主义以及国家[[Nationalism|民族主义]]政治目标的工具。
 > >
 > > - **Masschelein and Ricken 于 2003 年** 尖锐批评了教化理想在历史中扮演的阶级分化与民族主义意识形态角色。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
 > > - **Klafki 于 1999 年** 反驳指出，这属于对教化原初思想的误用。经典教化理论的真实特质在于其具有激进的社会政治批判力，旨在增进个体的自由、正义和对共同体的责任。

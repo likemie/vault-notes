@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -25,10 +25,12 @@ tags:
   - theme/governing-by-numbers
   - theme/comparative-education
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Data Infrastructure]]"
   - "[[Triangular Cooperation]]"
   - "[[Performance Indicators]]"
   - "[[International Education]]"
+  - "[[Policy Translation]]"
   - "[[Governing by Numbers]]"
   - "[[Paradigm]]"
 related_theories:
@@ -55,13 +57,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 项目定位
-> [[UNESCO|联合国教科文组织]]-[[OECD|经合组织]]-[[EU|欧盟]]统计局联合数据收集机制（UNESCO-OECD-Eurostat Data Collection, UOE）是三大国际组织自 1993 年起共同建立并维持运行的全球核心跨国教育行政统计[[Data Infrastructure|数据基础设施]]。该机制通过统一[[Questionnaire|问卷]]规程与标准分类，从源头上消除了重复填报负担，为全球教育监测与欧盟超国家治理提供了底层共享的数据基石。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–33)]]
+> [[UNESCO|联合国教科文组织]]-[[OECD|经合组织]]-[[EU|欧盟]]统计局联合数据收集机制（UNESCO-OECD-Eurostat Data Collection, UOE）是三大国际组织自 1993 年起共同建立并维持运行的全球核心[[Transnational Education|跨国教育]]行政统计[[Data Infrastructure|数据基础设施]]。该机制通过统一[[Questionnaire|问卷]]规程与标准分类，从源头上消除了重复填报负担，为全球教育监测与欧盟超国家治理提供了底层共享的数据基石。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–33)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1993 年正式签署[[Triangular Cooperation|三方合作]]备忘录并启动首轮联合数据收集，常态化按年度运行至今。
@@ -135,7 +137,7 @@ updated: 2026-11-02
 > | [[OECD]] | Fact (Organization) | UOE 联合数据收集机制的主要技术牵头与协调方。 |
 > | [[UNESCO]] | Fact (Organization) | UOE 机制的三大多边发起方之一，联通全球教育数据。 |
 > | [[EU]] | Fact (Organization) | 依托 Eurostat 深度参与 UOE 并将数据转化为治理指标的超国家主体。 |
-> | [[Eurydice]] | Fact (Organization) | 在欧盟层面与 UOE 数据集密切互动并开展情境化政策转译的网络。 |
+> | [[Eurydice]] | Fact (Organization) | 在欧盟层面与 UOE 数据集密切互动并开展情境化[[Policy Translation\|政策转译]]的网络。 |
 > | [[Lisbon Strategy]] | Fact (Event) | 高度依赖 UOE 数据集实施软性指标监测的欧盟标志性发展战略。 |
 > | [[International Indicators of Education Systems]] | Fact (Program) | 经合组织统筹协调 UOE 数据收集的核心母体指标项目（INES）。 |
 > | [[Education at a Glance]] | Fact (Program) | 基于 UOE 数据集编制出版的经合组织年度旗舰指标报告。 |

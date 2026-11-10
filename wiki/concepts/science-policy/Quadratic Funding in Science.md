@@ -10,7 +10,7 @@ aliases:
 summary: "指基于机制设计理论将公共配比资金池按赞助人数平方根之和的平方进行分配的算法资助模式，旨在通过放大基层小额支持广度以打破学术权威把关偏倚。"
 type: concept
 domain: "science-policy"
-related_count: 6
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,7 +20,9 @@ tags:
   - mechanism-design
   - public-funding
 related_concepts:
+  - "[[Early-Career Researchers]]"
   - "[[Metascience]]"
+  - "[[Research Tool]]"
   - "[[Big Science]]"
   - "[[Gatekeepers]]"
   - "[[Seniority Barrier in Academia]]"
@@ -35,17 +37,17 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Quadratic Funding in Science
-> **科学领域的二次方配比资助机制（Quadratic Funding in Science / Quadratic Research Funding）** 是指源自机制设计（Mechanism Design）与公共品融资理论的一种算法化科研经费配置模式。该机制设立中央匹配资金池，项目的最终获资助总额不仅取决于收到的捐助总金额，更与“赞助人数的平方根之和的平方”（即 $(\sum_{i} \sqrt{c_i})^2$）成正比，从而赋予获得大量基层研究人员、青年学者及跨学科探索者小额背书的课题极高的配比乘数，系统性纠正少数权威评审专家垄断经费把关权所导致的风险规避偏倚。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 30, 87)]]
+> **科学领域的二次方配比资助机制（Quadratic Funding in Science / Quadratic Research Funding）** 是指源自机制设计（Mechanism Design）与公共品融资理论的一种算法化科研经费配置模式。该机制设立中央匹配资金池，项目的最终获资助总额不仅取决于收到的捐助总金额，更与“赞助人数的平方根之和的平方”（即 $(\sum_{i} \sqrt{c_i})^2$）成正比，从而赋予获得大量基层研究人员、[[Early-Career Researchers|青年学者]]及跨学科探索者小额背书的课题极高的配比乘数，系统性纠正少数权威评审专家垄断经费把关权所导致的风险规避偏倚。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 30, 87)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向科研资助中“支持人数广度”优先于“单一大额资金偏好”的去中心化算法配置规则。
-> - **用途** 帮助[[Metascience|元科学]]与政策研究者设计能够识别被传统共识评审边缘化的非主流假说、跨界冷门探索及基础开源科研工具的资助工具。
+> - **用途** 帮助[[Metascience|元科学]]与政策研究者设计能够识别被传统共识评审边缘化的非主流假说、跨界冷门探索及基础开源[[Research Tool|科研工具]]的资助工具。
 > - **边界** 适用于具有公共品属性、广泛外部性且在学术社群中存在真实需求的探索性课题，不适用于必须由国家统筹的单一重资产巨额[[Big Science|大科学工程]]。
 
 > [!citation-card] 二次方配比资助与去中心化科学配置

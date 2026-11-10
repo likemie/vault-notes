@@ -7,7 +7,7 @@ summary: "系统分析开放文本与传播材料的推论性研究方法，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 58
+method_related_count: 59
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -59,6 +59,7 @@ related_methods:
   - "[[Multi-phase Sampling]]"
   - "[[Qualitative Content Analysis]]"
   - "[[Stage Sampling]]"
+  - "[[Cognitive Extent]]"
   - "[[Bibliometric Analysis]]"
   - "[[Narrative Analysis]]"
   - "[[Discourse Analysis]]"
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-16
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -189,7 +190,7 @@ updated: 2026-10-30
 > - **阶段五：提炼实质性理论洞见** 从矩阵表格中提炼出 14 项实质性理论洞见，完成从离散文本片段到深层因果机制解释的跃升。
 
 > [!case] 案例示范二：学科研究策略演进与[[Historical Amnesia|历史健忘症]]的期刊文献计量内容分析（[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias, 2009a, pp. 155–156]]；Larsen, 2001; Rust et al., 1999）
-> - **文本总体与多[[Stage Sampling|阶段抽样]]** 聚焦比较教育领域三大国际旗舰期刊（《比较教育评论》[Comparative Education Review, CER]、《比较教育》[Comparative Education, CE]、《[[International Education|国际教育]]发展杂志》[International Journal of Educational Development, IJED]），将 1955 至 1994 年四十年间发表的近 2,000 篇学术论文作为全样本总体。
+> - **文本总体与多[[Stage Sampling|阶段抽样]]** 聚焦比较教育领域三大国际旗舰期刊（《比较教育评论》[Comparative Education Review, CER]、《比较教育》[Comparative Education, [[Cognitive Extent|CE]]]、《[[International Education|国际教育]]发展杂志》[International Journal of Educational Development, IJED]），将 1955 至 1994 年四十年间发表的近 2,000 篇学术论文作为全样本总体。
 > - **分析单位与编码范畴建构** 以单篇论文为分析单位，构建互斥互补的研究策略分类范畴（涵盖史学编纂与历史研究、跨国量化实证、国别描述性调查、哲学理论思辨等）。
 > - **纵向长周期频次统计与份额测算** 统计各研究策略在不同十年的发表频次与占比：1955–1994 年全期依赖史学编纂与历史研究的论文占比仅为 10.5%；而在 1985–1995 年近十年期，历史比较研究论文占比更是断崖式跌破 5%。
 > - **实质性推论与理论建构** 从词频与策略份额的量化骤降向学科[[Epistemology|认识论]]生态作出推论，实证确证了比较教育学在世纪之交多元理论繁荣的表象之下，深陷近乎彻底放逐历史维度的“历史健忘症”（Historical Amnesia），为学科开展认识论反思与方法综合提供了坚实的经验依据。

@@ -5,7 +5,7 @@ aliases:
 summary: "以校本为场域、以课堂实地观察与持续反馈为载体的教师专业发展模式；在全系统改革中替代脱离情境的离校工作坊，并在资源受限环境中常与脚本化教案紧密嵌合以保障教学效能底线。"
 type: concept
 domain: "teacher-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,13 +31,14 @@ related_methods:
   - "[[Systematic Review]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[London Challenge]]"
 related_arguments:
   - "[[Argument_Barrenechea_2023_JEC]]"
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -78,7 +79,7 @@ updated: 2026-11-10
 > **情境化能力建设机制** 强调[[Teacher Expertise|教师专业素养]]的有效生成高度依赖于在实践场域中的真实体验与即时指导，而非抽象理论的单向灌输。
 
 > [!claim] Barrenechea et al.
-> **现场能力建设对离校工作坊的替代效应** 在全系统教育变革的国际实践中，有效提升教师教学能力的关键特征在于推行情境化专业发展；英国“伦敦挑战”（London Challenge）等成功改革普遍以校本教练替代传统离校工作坊，通过在交付一线构建专业能力，促进教师教学行为的实质改善。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 490)]]
+> **现场能力建设对离校工作坊的替代效应** 在全系统教育变革的国际实践中，有效提升教师教学能力的关键特征在于推行情境化专业发展；英国“伦敦挑战”（[[London Challenge]]）等成功改革普遍以校本教练替代传统离校工作坊，通过在交付一线构建专业能力，促进教师教学行为的实质改善。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 490)]]
 
 ---
 

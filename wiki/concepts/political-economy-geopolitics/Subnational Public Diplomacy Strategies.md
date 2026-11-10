@@ -7,10 +7,10 @@ aliases:
 summary: "基于次国家空间配置与地缘风险差异划分的大国公共外交三类战略范式：在能源过境国重点配置基建贷款的汲取型、在战略对抗敏感区倚重文化教育软性润滑的微调型，以及在战乱动荡区规避次国家纵深布局的规避型。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 17
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/geopolitics
   - theme/public-diplomacy
@@ -19,6 +19,7 @@ tags:
 related_facts:
   - "[[AidData]]"
   - "[[OECD]]"
+  - "[[Development Assistance Committee]]"
   - "[[Confucius Institute]]"
   - "[[Luban Workshop]]"
 related_arguments:
@@ -29,10 +30,12 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Geopolitics]]"
   - "[[Financial Diplomacy]]"
+  - "[[Study Abroad]]"
   - "[[Educational Soft Power]]"
   - "[[Soft Power]]"
   - "[[Hard Power]]"
   - "[[Cultural Diplomacy]]"
+  - "[[Nationalism]]"
 related_methods:
   - "[[Cluster Analysis]]"
 related_persons:
@@ -41,7 +44,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -61,7 +64,7 @@ updated: 2026-11-03
 
 > [!boundary]- 概念边界
 > - 不等于 国家大战略（Grand Strategy）：大战略涵盖军事防御、宏观同盟体系与全球贸易规则制定，次国家公共外交策略聚焦在双边具体交往中如何配置资金与社会纽带。
-> - 不等于 援助类型学（Aid Typology）：传统的官方发展援助（ODA）分类以[[OECD|经合组织]]发展援助委员会（OECD-DAC）资金属性为标准，该策略分类整合了资金金融、文化机构、留学生项目与地方政要互访等多维数据。
+> - 不等于 援助类型学（Aid Typology）：传统的官方发展援助（ODA）分类以[[OECD|经合组织]][[Development Assistance Committee|发展援助委员会]]（OECD-DAC）资金属性为标准，该策略分类整合了资金金融、文化机构、[[Study Abroad|留学]]生项目与地方政要互访等多维数据。
 
 ---
 
@@ -114,7 +117,7 @@ updated: 2026-11-03
 
 > [!debates] 核心学术争论
 > > [!axis] 微调型策略能否有效化解深层地缘敌意
-> > 乐观主义学者认为微调型策略通过教育红利培养了知华亲华的技术精英，有助于在代际更替中逐步改善民间认知；怀疑主义学者则依据实证民调指出，青年学生获取教育红利多基于工具理性，在面临边界危机或国家安全冲突时，教育交往积累的微弱好感往往迅速被强烈的本土民族主义立场压倒。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 27–34, 73–75)]]
+> > 乐观主义学者认为微调型策略通过教育红利培养了知华亲华的技术精英，有助于在代际更替中逐步改善民间认知；怀疑主义学者则依据实证民调指出，青年学生获取教育红利多基于工具理性，在面临边界危机或国家安全冲突时，教育交往积累的微弱好感往往迅速被强烈的本土[[Nationalism|民族主义]]立场压倒。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 27–34, 73–75)]]
 
 ---
 

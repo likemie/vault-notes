@@ -11,9 +11,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 27
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: philanthropy
 headquarters: "New York, United States"
@@ -30,8 +30,10 @@ related_concepts:
   - "[[Research-Practice Partnership]]"
   - "[[Democratising Evidence]]"
   - "[[Research Universities]]"
+  - "[[Transnational Education]]"
   - "[[Discourse]]"
   - "[[Socioeconomic Status]]"
+  - "[[Early-Career Researchers]]"
   - "[[Scientific Method]]"
   - "[[Metascience]]"
   - "[[Discipline-Based Theory]]"
@@ -46,6 +48,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Action Research]]"
+  - "[[Journal Impact Factor]]"
   - "[[Experimental Research]]"
   - "[[Cohort Study]]"
 related_instruments: []
@@ -62,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -72,14 +75,14 @@ updated: 2026-11-02
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 1936 年由美国大型连锁零售业企业家威廉·T·格兰特（William T. Grant）出资设立于纽约，初衷在于通过科学研究支持年轻一代身心健康与潜能发展。
-> - **总部地点与辐射网络** 总部设于美国纽约市曼哈顿，资助业务覆盖全美数百所顶尖[[Research Universities|研究型大学]]、智库、学区教育委员会及社区公益组织，并对跨国教育政策治理具有广泛[[Discourse|话语]]权。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–221)]]
+> - **总部地点与辐射网络** 总部设于美国纽约市曼哈顿，资助业务覆盖全美数百所顶尖[[Research Universities|研究型大学]]、智库、学区教育委员会及社区公益组织，并对[[Transnational Education|跨国教育]]政策治理具有广泛[[Discourse|话语]]权。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–221)]]
 > - **法人属性与资助运作** 独立的非营利性私人慈善基金会，依托长期稳健的慈善捐赠基金运营，以发放竞争性同行评议研究资助（Grants）为主要业务形式。
 > - **核心使命与法定愿景** 支持针对 5–25 岁儿童与青少年的严谨高质实证研究，重点攻坚种族、族裔、[[Socioeconomic Status|社会经济地位]]与语言文化壁垒导致的不平等，使公共决策建立在真实可信的科学证据基础之上。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 220)]]
 
 ---
 
 > [!dev-timeline] 组织发展历程
-> - **1936–1980 年代 — 青少年发展与心理适应奠基期** 早期重点资助青少年心理学、精神卫生与适应力研究，设立著名的“格兰特学者计划”（William T. Grant Scholars Program），重点扶持处于职业早期的杰出青年学者开展前沿探索。
+> - **1936–1980 年代 — 青少年发展与心理适应奠基期** 早期重点资助青少年心理学、精神卫生与适应力研究，设立著名的“格兰特学者计划”（William T. Grant Scholars Program），重点扶持处于职业早期的杰出[[Early-Career Researchers|青年学者]]开展前沿探索。
 > - **1980–2000 年代 — 处境不利儿童实证研究转型期** 伴随美国贫困加剧与城市种族隔离，资助重心转向弱势家庭、少数族裔儿童发展与跨文化教养研究，长期资助包括美籍华裔与亚洲儿童文化适应在内的重要实证工程。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. xii)]]
 > - **2000 年代至今 — 研究证据利用（URE）与[[Democratising Evidence\|证据民主化]]引领期** 在高级副总裁[[Vivian Tseng\|薇薇安·曾]]（Vivian Tseng, 2004–2022 年主政科研）推动下，基金会开创性将 URE 与 [[Research-Practice Partnership\|RPP]] 确立为核心资助支柱；2017 年后全面反思大学学术研究的种族主义历史与“采矿式科研”（Extractive Research），发起声势浩大的证据民主化运动与大学考核停钟机制改革。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–224)]]
 
@@ -118,7 +121,7 @@ updated: 2026-11-02
 > - **政策规范重塑** 深刻影响了包括[[United States Department of Education|美国教育部]][[Institute of Education Sciences\|教育科学研究院]]（IES）在内的官方资助方，促使其在 SEER 卓越标准中纳入公平性与伙伴关系考量。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 208, 221)]]
 
 > [!finding-cards] 关键成效与辐射影响
-> - **破除唯学术发表的象牙塔激励错配** 迫使美国高校社会科学界反思将论文篇数与影响因子作为唯一评价指标的弊端，为从事跨界实践研究的学者拓宽了职业生涯通道。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 222)]]
+> - **破除唯学术发表的象牙塔激励错配** 迫使美国高校社会科学界反思将论文篇数与[[Journal Impact Factor|影响因子]]作为唯一评价指标的弊端，为从事跨界实践研究的学者拓宽了职业生涯通道。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 222)]]
 > - **终结采矿式科研伦理危害** 唤醒了全美学术界对边缘社区“数据采矿”剥削现象的深刻警惕，使权力共享与社区自决成为受资助项目的法定前置伦理标准。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–221)]]
 
 > [!stat-cards]- 核心规模数据

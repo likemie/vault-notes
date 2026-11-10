@@ -11,7 +11,7 @@ title: "Argument_Wadhwa_2024_RER"
 argument_key: "Argument_Wadhwa_2024_RER"
 argument_display_title: "How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs"
 argument_kind: "journal-article"
-argument_related_count: 84
+argument_related_count: 86
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -65,6 +65,7 @@ related_concepts:
   - "[[Evaluator Independence]]"
   - "[[Publication Bias]]"
   - "[[Dependent Variable]]"
+  - "[[Side Effects]]"
   - "[[Academic Achievement]]"
   - "[[Social-Emotional Learning]]"
   - "[[Learning Strategies]]"
@@ -93,6 +94,7 @@ related_methods:
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Standard Error]]"
   - "[[t-test]]"
+  - "[[Natural Experiment]]"
   - "[[Manipulation Check]]"
   - "[[Statistical Significance]]"
   - "[[Sample Size Determination]]"
@@ -128,7 +130,7 @@ sources:
 part_of: ""
 status: active
 created: 2026-05-05
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
@@ -264,7 +266,7 @@ updated: 2026-10-30
 > 2. **意向治疗分析（ITT） vs 顺从者平均因果效应（CACE）之争**
 >    - Blueprints、SPTW 等坚持公共卫生传统的机构强制要求 ITT（即不论学生实际上了几节课，只要被分入实验组均计入分析），以避免依从性偏倚（[[Strategic Compliance|compliance]] bias）；
 >    - WWC 则在严格满足工具[[Variable\|变量]]排除性约束（exclusion restriction）的前提下，允许报告针对实际参与者的 CACE 估计。这反映出各中心在“评估政策推广效果（ITT）”还是“评估干预纯生理/心理效能（CACE）”上的根本哲学分歧。
-> 3. **准实验（QED）与自然实验的系统性边缘化**
+> 3. **准实验（QED）与[[Natural Experiment|自然实验]]的系统性边缘化**
 >    - 在现实教育中，由于伦理与行政限制，海量优秀干预仅能采用准实验或政策断点。然而除 WWC 和 HomVEE 对 RDD（断点回归）制定了完备的强迫变量[[Manipulation Check\|操纵检验]]与带宽拟合标准外，绝大多数清算中心直接无视 RDD 和 ITS（中断时间序列）。
 >    - 这种方法学教条主义导致大量基于大规模行政数据的优质准实验被清算中心粗暴归类为“低证据质量”，人为造成了循证清单与前沿计量经济学证据库的脱节。
 
@@ -297,7 +299,7 @@ updated: 2026-10-30
 > 2. **三大严苛过滤器的拦截效应**
 >    - **独立评估者机制（Evaluator Independence）** 开发者自行开展的评估（developer-led evaluations）因存在[[Publication Bias\|发表偏倚]]、微操干预忠实度及[[Dependent Variable\|结果变量]]选择性报告，其[[Effect Size\|效应量]]平均显著高于第三方独立评估。Blueprints 将“无经济利益关联的独立研究者复制”设为最高评级 Model Plus 的刚性前提，直接将 90% 以上由商业机构或课程发明人主导的项目阻挡在最高荣誉门外；而 WWC 与 CEBC 完全不作此要求。
 >    - **时间衰减与持续效果（Sustained Effects at 12 Months）** 教育干预普遍存在“即时成效显著、随访迅速衰退（fade-out effect）”的规律。Blueprints 与 CEBC 要求在干预彻底结束后 12 个月（而非干预进行期间或刚结束时）维持正向效应。这一要求极其严苛，直接将大量仅具备短期考试提分效应的课程淘汰出局。
->    - **医源性风险规避（Iatrogenic Harm）** 在青少年同伴群体干预中，聚合高危学生可能产生“越轨社会化（deviant peer contagion）”。Blueprints 与 CEBC 严密审查副作用与有害后果，而多数教育类中心缺乏负面效应的系统捕捉机制。
+>    - **医源性风险规避（Iatrogenic Harm）** 在青少年同伴群体干预中，聚合高危学生可能产生“越轨社会化（deviant peer contagion）”。Blueprints 与 CEBC 严密审查[[Side Effects|副作用]]与有害后果，而多数教育类中心缺乏负面效应的系统捕捉机制。
 > 3. **门槛梯度的政策意涵**
 >    - NDPC 设置了最低的准入门槛（单项无需长期随访的 QED 即可入选），旨在最大化包容一线学校的实用项目；
 >    - Blueprints 与 CEBC 设置了接近临床医学的极高门槛，旨在避免无效或有害项目的财政浪费。这种“宽进”与“严出”的制度哲学差异，是造成后续实证评级大面积冲突的根本原因。

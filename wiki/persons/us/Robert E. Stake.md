@@ -9,7 +9,7 @@ summary: "美国教育评估与质性研究方法论学者，伊利诺伊大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 15
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Evaluation Research]]"
   - "[[Sage]]"
+  - "[[Professional Interest]]"
   - "[[Variable]]"
   - "[[Rich and Thick Description]]"
 related_theories:
@@ -46,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -70,7 +71,7 @@ updated: 2026-10-22
 > - **1975** 提出"回应性评估"（Responsive Evaluation）框架，将评估的焦点从预设目标达成度转向评估过程中对各方利益相关者关切的动态回应。
 > - **1995** 出版奠基性著作 *The Art of [[Case Study]] Research*（[[Sage]]），正式建构以[[Naturalistic Generalization|自然主义概括]]为[[Epistemology|认识论]]核心的[[Case Study|案例研究]]方法论。
 > - **2006** 出版 *Multiple Case Study Analysis*，将方法论延伸至多案例跨情境比较分析。
-> - **2010** 出版 *[[Qualitative Research]]: Studying How Things Work*，系统阐述以"理解事物如何运作"为志趣的质性研究哲学。
+> - **2010** 出版 *[[Qualitative Research]]: Studying How Things Work*，系统阐述以"理解事物如何运作"为[[Professional Interest|志趣]]的质性研究哲学。
 
 ---
 

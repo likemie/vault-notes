@@ -11,9 +11,9 @@ aliases:
 summary: "驱动国家科技战略、大学治理变革与劳动力技能重塑的核心逻辑与地缘政治装置。在新自由主义社会想象下，国家经济竞争力被假定为直接取决于由国际标准衡量的教育质量；在宏观上体现为长程战略计算、先进制造、跨国多边监测与地缘威慑；在中观上体现为产学中心破除学科壁垒与排名审计重塑大学；在微观上体现为产线组织学习与学习分析；创始人长期主义与全员股权模式构成了抵御短期金融化的深层制度基石。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 88
-related_level: 8
-related_stars: "💎💎⭐⭐"
+related_count: 95
+related_level: 9
+related_stars: "💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - concept/university-industry-collaboration
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Student Mobility]]"
   - "[[Teacher Mobility]]"
   - "[[Employability]]"
+  - "[[Transnational Education]]"
   - "[[Social Imaginary]]"
   - "[[Founder Culture]]"
   - "[[Return on Investment]]"
@@ -41,6 +42,7 @@ related_concepts:
   - "[[Regulatory Sandbox]]"
   - "[[Discourse]]"
   - "[[Research Translation]]"
+  - "[[Quasi-market]]"
   - "[[Stakeholder University]]"
   - "[[Other Transaction Authority]]"
   - "[[Research Impact]]"
@@ -64,7 +66,9 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Open Method of Coordination]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Education Export]]"
   - "[[Variable]]"
+  - "[[Patent Citation]]"
   - "[[National Innovation System]]"
   - "[[International Education]]"
   - "[[Performance Indicators]]"
@@ -78,7 +82,9 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[External Auditor]]"
   - "[[Discourse Analysis]]"
+  - "[[Effect Size]]"
 related_persons:
+  - "[[Noah Sobe]]"
   - "[[Lee Kuan Yew]]"
   - "[[Henry Kissinger]]"
   - "[[Alexander Karp]]"
@@ -117,12 +123,13 @@ related_arguments:
   - "[[Argument_Zhuo_2026_ICE]]"
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
+  - "[[Argument_Kuortti_2025_JEdPolicy]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Larsen_2019_EducSci]]"
 confidence: high
 status: active
 created: 2026-05-19
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 
 ---
@@ -133,7 +140,7 @@ updated: 2026-11-09
 > 该[[Construct|构念]]在当代跨学科科技政策、高等教育学与政治经济学中包含六个紧密嵌套的层级构型：
 > 1. **宏观国家战略与实体制造竞争力（Macro National & Manufacturing Competitiveness）** 指国家在全球经贸与地缘博弈中确立并维系工业技术主权、制造能力与战略威慑的综合实力。在时间跨度上依托数代人乃至“千年期”（Thousand-Year Horizon）的长程战略决断；在空间与制度上破除规制行政阻滞、开放共享试验场与[[Megascience Installations|大科学装置]]、组建前竞争技术联合体，将基础科学发现深度锚定于本土先进制造与产业链完整形态。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 33–46)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–197, 204)]]; [[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365, 367)]]
 > 2. **超国家一体化与跨国[[Human Capital Theory|人力资本]]流动竞争力（Supranational & Mobile Human Capital Competitiveness）** 指在区域一体化（如[[European Education Space|欧洲教育空间]]）中，通过将跨国人员流动（[[Student Mobility|学生流动]]与[[Teacher Mobility|教师流动]]）建构为时代美德与公民资本，将劳动力市场不确定性与全球竞争风险转化为个体需自负盈亏打造的灵活[[Employability|就业能力]]（Employability-related Competencies）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
-> 3. **跨国教育绩效对标与多边监测竞争力（Transnational Educational Benchmarking Competitiveness）** 指在新自由主义[[Social Imaginary|社会想象]]下，将国家经济繁荣假定为直接取决于由国际标准衡量的教育与培训系统质量（Brown et al., 1997）。[[OECD|经合组织]]通过 [[PISA]] 与数据指标实施多边监测，将原本属于主权国家内部民主审议的教育议程，彻底改造为在全球排行榜中争夺相对位次与人力资本比较优势的经济竞争工具。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–445, 447)]]
+> 3. **[[Transnational Education|跨国教育]]绩效对标与多边监测竞争力（Transnational Educational Benchmarking Competitiveness）** 指在新自由主义[[Social Imaginary|社会想象]]下，将国家经济繁荣假定为直接取决于由国际标准衡量的教育与培训系统质量（Brown et al., 1997）。[[OECD|经合组织]]通过 [[PISA]] 与数据指标实施多边监测，将原本属于主权国家内部民主审议的教育议程，彻底改造为在全球排行榜中争夺相对位次与人力资本比较优势的经济竞争工具。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–445, 447)]]
 > 4. **组织治理与长期创始人溢价竞争力（Institutional Governance & Founder Stewardship）** 指科技企业与研究机构抵御短期资本市场季度财报压力、维系长周期突破性创新的治理机制。卡普与扎米斯卡指出，创始人掌舵（Founder Premium）与全员股权所有权模式（[[Founder Culture|ownership society]]）相比委员会合规治理展现出显著的超额[[Return on Investment|投资回报]]与高价值专利产出优势。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 209–212)]]
 > 5. **中观大学机构治理与地缘声誉竞争力（Meso Institutional & Higher Education Competitiveness）** 指一种重新组织大学及学者行为的治理装置：在科研端通过多用途跨学科研究中心（MMURC）对接国家战略需求；在评价端通过[[Global Universities Rankings|全球大学排名]]、卓越计划与指标审计将大学转化为竞争性市场主体。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 219–220)]]
 > 6. **微观劳动力技能与个体学业竞争力（Micro Student & Workforce Competitiveness）** 指在数字化治理与[[Human Capital Theory|人力资本]]框架下，通过[[Learning Analytics|学习分析]]、在线自评与产线组织学习，将学业与生产不确定性转化为可干预的数据，培养具备自我优化能力的工程技术劳动力。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 220–221)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 117–118)]]
@@ -144,7 +151,7 @@ updated: 2026-11-09
 > - **制度边界** 严格区别于纯粹自由放任的市场自由竞争；高教与国家战略中的竞争力深度依赖公共财政导向、[[Regulatory Sandbox|规制沙盒]]政策、指标基础设施界定与全球地缘政治博弈。
 
 > [!citation-card] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] 论超国家流动网络将竞争力转化为个体就业责任
-> 诺亚·索比与梅丽莎·菲舍尔援引帕帕齐巴（Papatsiba, 2005, 2006）关于欧洲一体化政策的研究指出，在知识与胜任力驱动的欧洲教育空间中，大学生的跨国流动被重塑为一种“个体化教育实践”。这一实践以与就业能力紧密绑定的各项胜任力（Employability-related Competencies）为中心，隐蔽地将应对现代劳动力市场动荡与提升竞争力的全部责任转嫁给流动个体自身；即便这些胜任力[[Discourse|话语]]被粉饰以公民参与和跨文化素养的高尚修辞，其深层治理逻辑依然是将竞争风险内化为个体的道德自律。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
+> [[Noah Sobe|诺亚·索比]]与梅丽莎·菲舍尔援引帕帕齐巴（Papatsiba, 2005, 2006）关于欧洲一体化政策的研究指出，在知识与胜任力驱动的欧洲教育空间中，大学生的跨国流动被重塑为一种“个体化教育实践”。这一实践以与就业能力紧密绑定的各项胜任力（Employability-related Competencies）为中心，隐蔽地将应对现代劳动力市场动荡与提升竞争力的全部责任转嫁给流动个体自身；即便这些胜任力[[Discourse|话语]]被粉饰以公民参与和跨文化素养的高尚修辞，其深层治理逻辑依然是将竞争风险内化为个体的道德自律。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 
 > [!citation-card] 白宫 [[Office of Science and Technology Policy|OSTP]] 论国家[[Research Translation|技术转化]]与实体制造决定国家竞争力
 > 历史表明，决定国家综合实力维度的核心在于技术转化与制造能力。薛定谔方程向战略武器的转化直接塑造了战后世界核秩序，香农信息论向通信协议的转化构建了全球数字基础设施，精密物理向 GPS 的转化支撑了全球精确引导网络。战后形成的“政府资助基础研究、文章公开共享、市场自然承接”的单向线性模型在当代彻底失效。平板显示与锂电池化学的基础原理虽由美国率先突破，但因本土缺乏持续的制造生态支持，量产工艺与供应链红利被竞争对手全面获取。单纯依赖文章层面的学术卓越无法自发维系国家技术领导地位；必须打破行政许可枷锁，全面开放联邦试验测试设施，组建前竞争技术联合体，确保公共研发成果扎根于本土实体产业。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 33–35, 40–45)]]
@@ -162,7 +169,7 @@ updated: 2026-11-09
 > *The outperformance of founder-led companies, for which there is a growing body of evidence, is the result of this privileging of an aesthetic point of view, of space to pronounce and decide... Fahlenbrach found that an investment approach that purchased shares solely in companies run by founders would have earned an excess annual return of 10.7 percent, or 4.4 percent more per year... The team at Purdue found that companies led by founders as opposed to professional CEOs held a 31 percent higher number of significant patents.*
 
 > [!boundary]- 概念边界
-> - **不等于 自由放任的市场竞争** 国家与高教科研体系中的竞争始终由国家政策（如 [[Engineering Research Centers|ERC]] 拨款规则、《[[CHIPS and Science Act|芯片与科学法案]]》、白宫 OSTP 战略）或准市场评价体系进行自上而下的规则设定与资助赋权。
+> - **不等于 自由放任的市场竞争** 国家与高教科研体系中的竞争始终由国家政策（如 [[Engineering Research Centers|ERC]] 拨款规则、《[[CHIPS and Science Act|芯片与科学法案]]》、白宫 OSTP 战略）或[[Quasi-market|准市场]]评价体系进行自上而下的规则设定与资助赋权。
 > - **不等于 单纯的学术文章高产** 现代竞争力逻辑强调技术转化的本土承接力、制造工艺的自主可控性与实际工业产出，而非仅仅追求期刊引文数量。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 33–34)]]
 > - **不等于 职业经理人合规委员会治理** 实证表明，过度依赖合规委员会与短期财报问责会扼杀重大突破性创新；创始人长期主义与全员股权分享构成了深层竞争力的关键支柱。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 209–212)]]
 > - **不等于 抽离国家认同的抽象经济核算** 卡普与扎米斯卡指出，若消解国家认同与威慑意志（如战后德国对集体防卫意识的压制），将使整个地缘区域丧失可靠的战略威慑能力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 204)]]
@@ -338,7 +345,7 @@ updated: 2026-11-09
 > - **1990s–2000s — [[Global Universities Rankings|全球大学排名]]基础设施化、跨国教育对标与欧洲流动性竞争** 英国开展 [[Research Excellence Framework|RAE]]/REF，德国推行卓越计划；[[EU|欧洲联盟]]启动[[Lisbon Strategy|里斯本战略]]，将提升欧洲整体竞争力与大学生的跨国流动能力绑定（Papatsiba, 2005; [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）；[[OECD|经合组织]]启动[[PISA]]，确立国家经济竞争力直接系于教育绩效跨国对标的新自由主义政策[[Paradigm|范式]]（Brown et al., 1997; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）。
 > - **2009 — 超国家全景敞视式竞争力规训批判** 帕西亚斯与鲁萨基斯运用福柯权力-规训理论解构欧盟教育话语，揭示里斯本战略如何以成为全球最具竞争力的[[Knowledge-Based Economy|知识经济]]体为轴心，依托开放协调法与量化指标凝视构筑欧洲教育全景敞视建筑。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480, 486–487, 492–493)]]
 > - **2020s — 国家长程战略、开源标准与深科技竞争力重塑** 《[[CHIPS and Science Act|芯片与科学法案]]》推动建立前竞争中试枢纽（[[Albany NanoTech Complex|Albany NanoTech]] / MIT.nano）与“教育即标准”开源生态锁定机制；卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中系统总结国家千年期战略意志、创始人溢价与所有权公社对抵御短期金融化的决定性意义；白宫 [[Office of Science and Technology Policy|OSTP]] 发布战略报告重塑硬科技试验场与本土制造竞争力。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 17–26)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, Ch. 17)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Ch. 18)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026)]]
-> - **2025 — 北欧教育出口话语与国家竞争力变现** [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] 揭示芬兰政策话语如何将公立教育质量等同于国际竞争力和财政回报，将 PISA 排名优势重塑为教育出口创收的无形资产，同时以国际竞争赤字为由推动公立系统私有化。
+> - **2025 — 北欧[[Education Export|教育出口]]话语与国家竞争力变现** [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] 揭示芬兰政策话语如何将公立教育质量等同于国际竞争力和财政回报，将 PISA 排名优势重塑为教育出口创收的无形资产，同时以国际竞争赤字为由推动公立系统私有化。
 
 ---
 
@@ -375,15 +382,15 @@ updated: 2026-11-09
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | 美国半导体产业与[[Research Universities\|研究型大学]]（SIA/Oxford Economics 预测） | 产业人才供需计量与国家战略嵌入案例剖析 | 半导体产业人才缺口（6.7万人）与技术人员短缺（140万人） | 预测到 2030 年半导体产业面临 6.7 万专业人才缺口，技术工人缺口达 140 万；全美大学设立微凭证、专班机制与跨学科联盟进行制度对冲 | 官方产业预测与多案例追踪 | 揭示国家技术竞争力高度依赖跨层级工程人才梯队与大学“教育即标准”开源底层锁定 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17\|World Bank Group (2023)]] | 新加坡 1960–2023 年国家经济与人均产出长程跨度 | 跨国宏观经济历史核算与时间序列追踪 | 人均国内生产总值（GDP Per Capita, USD） | 新加坡人均 GDP 从 1960 年的 428 美元飙升至 2023 年的 84,734 美元，实现近 200 倍增长 | 官方宏观统计核准 | 证实以千年期战略决断、语言统一与国家[[Human Capital Theory\|人力资本]]投资为支柱的国家能力，能够打破资源匮乏诅咒创造持久竞争力 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|Fahlenbrach (2009)]] | 1992–2002 年间 2,327 家美国上市公司（361 家创始人领导） | 长期投资组合收益回归分析（控制行业与企业年龄） | 创始人担任 CEO 与股票市场年化超额回报 | 创始人领导公司投资组合年化超额回报达 10.7%，比非创始人公司高出 4.4% | $p < 0.05$ | 证实创始人掌舵具有显著市场溢价，单一家族控股若无创始人掌舵则无此效应 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|Lee, Kim, & Bae (2016)]] | 1993–2003 年间标准普尔 500（S&P 500）指数成分股企业 | 专利被引频次与创新产出实证计量 | 创始人 CEO 领导与重大高影响力专利持有量 | 创始人领导的企业所持有的重大、高被引专利数量高出 31% | 原始报告显著差异 | 证实创始人主导模式更倾向于开展突破性、深层次创新而非短视修补 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|Lee, Kim, & Bae (2016)]] | 1993–2003 年间标准普尔 500（S&P 500）指数成分股企业 | [[Patent Citation\|专利被引]]频次与创新产出实证计量 | 创始人 CEO 领导与重大高影响力专利持有量 | 创始人领导的企业所持有的重大、高被引专利数量高出 31% | 原始报告显著差异 | 证实创始人主导模式更倾向于开展突破性、深层次创新而非短视修补 |
 
 ---
 

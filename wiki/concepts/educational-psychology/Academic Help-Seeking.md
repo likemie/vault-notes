@@ -8,7 +8,7 @@ aliases:
 summary: "学习者在面临学业困难或知识盲区时，主动识别障碍、调动外部社会或技术资源以维持学习进程的自我调节学习与认识论策略，涵盖工具性求助、执行性求助与人机交互低威胁求助"
 type: concept
 domain: "educational-psychology"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Epistemic Stances]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Problematisation]]"
   - "[[Champ]]"
   - "[[Humility]]"
   - "[[Intellectual-Social Divide]]"
@@ -57,7 +58,7 @@ related_arguments:
   - "[[Argument_Chen_Cheung_2025_ERR]]"
   - "[[Argument_Li_2012_Cambridge]]"
 created: 2026-09-22
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -119,7 +120,7 @@ updated: 2026-11-03
 > **[[Self-Regulated Learning\|自我调节学习]]与社会资源调控** 探讨个体如何将求助作为主动监控学业进展与调动环境资源的建设性[[Metacognition\|元认知]]策略。
 
 > [!claim] Zimmerman; Pintrich; Karabenick
-> **适应性求助的自我调节属性** 在自我调节学习理论视域下，适应性工具求助是成熟学习者的核心能力。当学生意识到现有策略无法突破瓶颈时，主动寻求专家或同伴启发能够最高效地重构问题表征，避免无效的认知耗竭；相反，拒绝求助往往源于认知监控匮乏或防御性自我保护。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 361–362)]]
+> **适应性求助的自我调节属性** 在自我调节学习理论视域下，适应性工具求助是成熟学习者的核心能力。当学生意识到现有策略无法突破瓶颈时，主动寻求专家或同伴启发能够最高效地重构[[Problematisation|问题表征]]，避免无效的认知耗竭；相反，拒绝求助往往源于认知监控匮乏或防御性自我保护。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 361–362)]]
 
 ---
 

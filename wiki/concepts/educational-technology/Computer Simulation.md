@@ -9,7 +9,7 @@ aliases:
 summary: "对真实世界复杂系统的计算机建模与交互式表征，既作为教育与科学学研究中基于复杂性理论检验假设与探索涌现规律的建模方法，又作为科学教育中为学习者提供可操纵变量与实时反馈的数字化探究微世界"
 type: concept
 domain: "educational-technology"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Coauthorship Network]]"
   - "[[STEM Education]]"
   - "[[Variable]]"
+  - "[[Research Tool]]"
   - "[[Causality]]"
   - "[[Emergence]]"
   - "[[Scaffolding]]"
@@ -79,13 +80,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-19
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Computer Simulation
-> **计算机模拟（Computer Simulation）**，亦称计算机仿真或虚拟仿真，在现代教育科学与网络科学中具有双重[[Epistemology|认识论]]定位：既是研究者用来对复杂动态社会系统与[[Coauthorship Network|合著网络]]进行建模、推理与假设检验的研究方法，又是科学与 [[STEM Education|STEM]] 教育中为学习者提供直观可操纵[[Variable|变量]]、动态交互可视化与反思支架的数字化探究微世界。作为研究工具，计算机模拟是对真实世界系统的计算表征，通过数学模型与算法规则使理论显性化，支持在受控条件下进行“what-if”[[Causality|因果推断]]与多主体[[Emergence|涌现]]分析（Gilbert & Troitzsch, 2005；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al., 2011, Ch. 19]]；[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang & Barabási, 2021, pp. 254–256]]）。作为教学技术，计算机模拟通过将微观分子运动、电磁场分布、天体轨道或生态平衡等隐性机制显性化，为学习者创设安全、可重复、即时反馈的实验探究环境；实证研究确证，配备[[Scaffolding|认知支架]]的计算机模拟探究在促进概念理解、科学推理与学习兴趣上显著优于传统讲授与常规纸笔实验（Smetana & Bell, 2012; d'Angelo et al., 2014；[[Argument_DeJong_2023_ERR|De Jong et al., 2023, p. 5]]）。
+> **计算机模拟（Computer Simulation）**，亦称计算机仿真或虚拟仿真，在现代教育科学与网络科学中具有双重[[Epistemology|认识论]]定位：既是研究者用来对复杂动态社会系统与[[Coauthorship Network|合著网络]]进行建模、推理与假设检验的研究方法，又是科学与 [[STEM Education|STEM]] 教育中为学习者提供直观可操纵[[Variable|变量]]、动态交互可视化与反思支架的数字化探究微世界。作为[[Research Tool|研究工具]]，计算机模拟是对真实世界系统的计算表征，通过数学模型与算法规则使理论显性化，支持在受控条件下进行“what-if”[[Causality|因果推断]]与多主体[[Emergence|涌现]]分析（Gilbert & Troitzsch, 2005；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al., 2011, Ch. 19]]；[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang & Barabási, 2021, pp. 254–256]]）。作为教学技术，计算机模拟通过将微观分子运动、电磁场分布、天体轨道或生态平衡等隐性机制显性化，为学习者创设安全、可重复、即时反馈的实验探究环境；实证研究确证，配备[[Scaffolding|认知支架]]的计算机模拟探究在促进概念理解、科学推理与学习兴趣上显著优于传统讲授与常规纸笔实验（Smetana & Bell, 2012; d'Angelo et al., 2014；[[Argument_DeJong_2023_ERR|De Jong et al., 2023, p. 5]]）。
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向一种通过数学建模与动态图形渲染来表征系统行为的数字介质，兼具“研究建模工具”与“探究教学微世界”双重属性。
@@ -293,4 +294,4 @@ updated: 2026-11-03
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 系统梳理虚拟仿真文献，引用 Smetana and Bell (2012) 61 项综述与 d'Angelo et al. (2014) 59 项元分析，确立配备[[Scaffolding|认知支架]]与即时介入的计算机模拟探究在概念掌握与推理技能上的显著循证优势。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al. (2011)]] — 详尽解构计算机模拟作为研究方法的理论逻辑，剖析其在[[Complexity Theory|复杂性理论]]、系统[[Emergence|涌现]]建模、实验控制与人性保持中的四项优势与十一项反思批判。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang & Barabási (2021)]] — 在附录方框 A1 中通过计算机数值模拟构建团队组装模型，动态仿真老手比例与熟人重复率如何驱动全学科合著网络发生相变并涌现巨连通分支（pp. 254–256）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang & Barabási (2021)]] — 在附录方框 A1 中通过计算机数值模拟构建[[Team Assembly Model|团队组装模型]]，动态仿真老手比例与熟人重复率如何驱动全学科合著网络发生相变并涌现巨连通分支（pp. 254–256）。

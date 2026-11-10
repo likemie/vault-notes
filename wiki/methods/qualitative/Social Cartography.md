@@ -9,7 +9,7 @@ summary: "罗兰·保尔斯顿（Rolland Paulston）开创的比较教育质性�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 36
+method_related_count: 37
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Concept Mapping]]"
   - "[[Document]]"
   - "[[Epistemic Stances]]"
+  - "[[Transnational Education]]"
   - "[[Student Mobility]]"
 related_theories:
   - "[[Governmentality]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -118,7 +119,7 @@ updated: 2026-10-30
 ---
 
 > [!method-fit] 适用场景
-> - 适合梳理复杂学科历史演进中的学派争鸣、分析跨国教育政策[[Discourse|话语]]的流动与竞争，以及呈现后现代多元[[Paradigm|范式]]图景。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
+> - 适合梳理复杂学科历史演进中的学派争鸣、分析[[Transnational Education|跨国教育]]政策[[Discourse|话语]]的流动与竞争，以及呈现后现代多元[[Paradigm|范式]]图景。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
 > - 适合透视跨国空间[[Governmentality|治理术]]如何通过政策话语与学校制度将特定流动人口划分为不同治理范畴。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
 
 > [!method-limits] 方法局限

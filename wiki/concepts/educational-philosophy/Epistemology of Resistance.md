@@ -6,7 +6,7 @@ aliases:
 summary: "从被排斥群体的具体经验出发构建替代性知识形式的认识论取向，用于反抗支配性知识秩序。"
 type: concept
 domain: "educational-philosophy"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Conscientization]]"
   - "[[Ganz-Methode]]"
+  - "[[Side Effects]]"
   - "[[Creativity]]"
   - "[[Paradigm]]"
   - "[[Life Power]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -71,7 +72,7 @@ updated: 2026-10-30
 
 > [!abstract] 核心要素
 > - **实践性而非纯理论性** 抵抗[[Epistemology\|认识论]]不是在学术论著中被论证的哲学立场，而是在具体实践——剧场表演、口述叙事、社区博物馆策展——中被**实践**出来的认识论。它首先存在于行动中，其次才被理论[[Discourse|话语]]捕捉和命名([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.109–110]])
-> - **与[[Official Knowledge\|官方知识]]模型处于张力中** 抵抗认识论不是与世隔绝的"替代知识"——它必然与官方知识模型（大学的学术标准、博物馆的策展权威、书写中心主义）处于紧张关系中。这种张力是其构成性特征，不是偶然的副作用([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110]])
+> - **与[[Official Knowledge\|官方知识]]模型处于张力中** 抵抗认识论不是与世隔绝的"替代知识"——它必然与官方知识模型（大学的学术标准、博物馆的策展权威、书写中心主义）处于紧张关系中。这种张力是其构成性特征，不是偶然的[[Side Effects|副作用]]([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110]])
 > - **从被排除者的经验出发** 抵抗认识论的知识源头是被霸权系统排斥的具体经验——贫民窟居民的暴力创伤、被抹除的地方历史、被贬低的口述传统。知识不是"关于"被排除者的，而是"来自"被排除者的
 > - **承载而非急于消解张力** 抵抗[[Epistemic Practices\|认识论实践]]不需要立即获得官方体制的承认——它首先需要在张力中**存在**。急于让官方体制"认证"抵抗知识，等于用旧标准来评判新知识。这一原则与 [[Ganz-Methode]] 的张力承载逻辑 一致([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.112–113]])
 

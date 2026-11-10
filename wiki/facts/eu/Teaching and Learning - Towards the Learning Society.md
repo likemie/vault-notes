@@ -12,9 +12,9 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "[[European Commission]]"
 tags:
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Competitiveness]]"
   - "[[Europe of Knowledge]]"
+  - "[[Quasi-market]]"
   - "[[Performance Indicators]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -110,7 +111,7 @@ updated: 2026-10-30
 
 > [!finding-cards] 效果与评价
 > - **构筑知识欧洲的新自由主义核心话语** 确立了以灵活性、适应性、质量认证与结果绩效为轴心的政策词汇表，主导了随后十余年欧盟对“知识欧洲”的认知框架。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483–484)]]
-> - **开启教育公共性退潮与成本分担机制** 首次在欧盟官方层面系统挑战教育免费与纯公共品观念，推动成本共担、自筹资金与产出挂钩拨款等准市场机制在各成员国的合法化。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483–484)]]
+> - **开启教育公共性退潮与成本分担机制** 首次在欧盟官方层面系统挑战教育免费与纯公共品观念，推动成本共担、自筹资金与产出挂钩拨款等[[Quasi-market|准市场机制]]在各成员国的合法化。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483–484)]]
 > - **强化社会风险的个体化归因** 将个人的就业前景与社会地位直接绑定于其持续学习与掌握知识的能力，使得结构性经济失业容易被解释为个人的技能缺陷。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 483)]]
 
 ---

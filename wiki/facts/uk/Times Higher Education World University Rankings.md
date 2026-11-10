@@ -12,7 +12,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 35
+fact_related_count: 38
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#fef3c7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Document]]"
   - "[[International Education]]"
   - "[[Student Mobility]]"
+  - "[[Study Abroad]]"
   - "[[Discourse]]"
   - "[[Research Impact]]"
   - "[[Knowledge Transfer]]"
@@ -38,6 +39,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Matthew Effect in Academia]]"
   - "[[Non-monetary Competition]]"
+  - "[[Transnational Education]]"
   - "[[Halo Effect]]"
   - "[[Public Value]]"
 related_theories:
@@ -52,6 +54,7 @@ related_persons:
   - "[[Pepka Boyadjieva]]"
 related_facts:
   - "[[Academic Ranking of World Universities]]"
+  - "[[Scopus]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[THE Impact Ranking]]"
   - "[[OECD]]"
@@ -67,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-19
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -77,9 +80,9 @@ updated: 2026-11-02
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2004 年 11 月在英国伦敦首次公开发布，随后以年度为周期向全球高等教育界持续扩散。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 131)]]
-> - **核心当事主体** 英国《泰晤士高等教育》（Times Higher Education）编辑团队与泰晤士高等教育商业咨询机构（早期合作方为 Quacquarelli Symonds, QS，后期数据合作方涵盖汤森路透与爱思唯尔 Scopus）；参与同行声誉评议的全球学者；各国高等教育管理部门与顶尖[[Research Universities|研究型大学]]。
+> - **核心当事主体** 英国《泰晤士高等教育》（Times Higher Education）编辑团队与泰晤士高等教育商业咨询机构（早期合作方为 Quacquarelli Symonds, QS，后期数据合作方涵盖汤森路透与爱思唯尔 [[Scopus]]）；参与同行声誉评议的全球学者；各国高等教育管理部门与顶尖[[Research Universities|研究型大学]]。
 > - **深层制度与社会背景** 2003 年上海交通大学推出全部基于硬科学[[Document|文献]]计量与诺奖指标的 ARWU 榜单，引发欧美老牌学府震动；[[International Education|国际教育]]市场化与[[Student Mobility|跨国学生流动]]规模空前扩张，亟需一套兼顾传统人文学科声誉与教学环境的多维度跨国综合评估工具。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 130–131)]]
-> - **直接导火索 / 触发事件** ARWU 纯科研指标体系对英国及欧洲人文社科见长的高校形成不利冲击，英国高教界急需制定兼顾声誉与教学产出的跨国排名以争夺全球留学生市场与[[Discourse|话语]]权。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 801–802)]]
+> - **直接导火索 / 触发事件** ARWU 纯科研指标体系对英国及欧洲人文社科见长的高校形成不利冲击，英国高教界急需制定兼顾声誉与教学产出的跨国排名以争夺全球[[Study Abroad|留学]]生市场与[[Discourse|话语]]权。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 801–802)]]
 
 ---
 
@@ -126,7 +129,7 @@ updated: 2026-11-02
 
 > [!finding-cards] 关键历史后果
 > - **确立英联邦与美式高教的声誉霸权** THE 排名通过设立大比例的国际化与同行学术声誉指标，为以英语为主要教学语言的高校确立了天然的跨国制度优势。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 131–132)]]
-> - **倒逼国际组织研发直接测评工具** [[OECD]] 借批评 THE 等排名侧重科研声誉的缺陷，为其自主研发跨国高等教育学习成果测验（[[OECD AHELO Project|AHELO]]）建构政策缺口与治理正当性。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 199)]]
+> - **倒逼国际组织研发直接测评工具** [[OECD]] 借批评 THE 等排名侧重科研声誉的缺陷，为其自主研发[[Transnational Education|跨国高等教育]]学习成果测验（[[OECD AHELO Project|AHELO]]）建构政策缺口与治理正当性。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 199)]]
 > - **展现学生跨境流动与学术排名的结构性脱节** 西班牙在 THE 榜单表现不佳，却成为[[EU|欧盟]][[Erasmus Programme|伊拉斯谟计划]]最大留学生目的地，实证证明了学生的跨国选择深受地缘气候与生活体验支配，与排名的科研声誉指标显著脱节。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 332–333)]]
 
 ---

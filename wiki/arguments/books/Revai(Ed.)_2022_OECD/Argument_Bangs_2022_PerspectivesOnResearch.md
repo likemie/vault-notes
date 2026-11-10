@@ -7,7 +7,7 @@ title: "Argument_Bangs_2022_PerspectivesOnResearch"
 argument_key: "Argument_Bangs_2022_PerspectivesOnResearch"
 argument_display_title: "Perspectives on education research (N. Révai, Ed.)"
 argument_kind: "book-chapter"
-argument_related_count: 87
+argument_related_count: 89
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -54,7 +54,9 @@ related_concepts:
   - "[[Third Space Discourse]]"
   - "[[Discourse]]"
   - "[[Statistical Normalisation]]"
+  - "[[Transnational Education]]"
   - "[[Research-Practice Partnership]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Evidence Standards]]"
   - "[[Dialogue in Education]]"
   - "[[Conatus]]"
@@ -89,13 +91,13 @@ related_concepts:
   - "[[Boundary Spanner]]"
   - "[[Research Utilization]]"
   - "[[Evaluation Research]]"
+  - "[[Early-Career Researchers]]"
   - "[[Academic Achievement]]"
   - "[[Cognitive Deskilling]]"
   - "[[Professional Judgment]]"
   - "[[Variable]]"
   - "[[Agile Governance]]"
   - "[[Constructed Knowledge]]"
-  - "[[Theoretical Standpoint]]"
   - "[[Cumulative Knowledge Base]]"
 related_methods:
   - "[[Action Research]]"
@@ -137,7 +139,7 @@ related_arguments:
   - "[[Argument_Wrigley_2018_BERJ]]"
 status: completed
 created: 2026-09-14
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
@@ -149,7 +151,7 @@ updated: 2026-10-29
 > 教育研究摆脱当前论文产出过剩却实践影响贫乏的系统性困境，既不能退回狭隘技术主义的因果控制与短期功利主义可用性修辞，也不能固守于学术共同体孤立封闭的自说自话；唯有在供给侧推进科学标准的立体化重构，推行涵盖构件拆解、成本核算、通用测量与敏捷复现的教育科研卓越标准（Standards for Excellence in Education Research, SEER）体系，同时在生产机制上全面推进[[Democratising Evidence\|证据民主化]]（democratising evidence），构建承认异质专业价值的[[Third Space Discourse\|第三空间话语]]（third space [[Discourse]]）伙伴关系，将资助评价重心转向长效组织能力建设，并坚守专业伦理以防范[[Statistical Normalisation\|统计正态化]]对社会弱势离群群体的制度性遮蔽。（pp. 202–204, 206–209, 217–223, 225–228, 229–231）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 跨国教育科研生产体系、政府科学资助机构、全球教师工会联合会、一线中小学、国家级[[Research-Practice Partnership\|研究-实践伙伴关系]]（Research-Practice Partnership, RPP）试点与大型教育慈善基金会。
+> - **对象** [[Transnational Education|跨国教育]]科研生产体系、政府科学资助机构、全球教师工会联合会、一线中小学、国家级[[Research-Practice Partnership\|研究-实践伙伴关系]]（Research-Practice Partnership, RPP）试点与大型教育慈善基金会。
 > - **张力** 学科自主化实证因果控制诉求 vs 民主协商多元主体共创诉求；短视追求高性价比与立即可用性修辞 vs 守护统计正态分布两端弱势离群群体（outliers）的专业伦理。
 > - **贡献** 突破学术界单向定义教育科研质量的传统局限，构建起汇聚学术界、官方科学资助方、教师工会、一线示范校、国家试点评估者与慈善资助者的多元论辩矩阵，确立了兼顾高阶科学严谨度、实践专业赋权与社会公平正义的系统证据治理框架。
 
@@ -157,7 +159,7 @@ updated: 2026-10-29
 
 ## 理论框架
 
-全章汇聚了不同学科传统与制度阵营的理论透镜，形成了一套从[[Epistemology|认识论]]基础、中介组织机制到微观行动实践的分析工具箱。
+全章汇聚了不同学科传统与制度阵营的[[Theoretical Standpoint|理论透镜]]，形成了一套从[[Epistemology|认识论]]基础、中介组织机制到微观行动实践的分析工具箱。
 
 > [!framework-table] 理论与分析透镜工具箱
 > | 理论工具 | 解释功能 |
@@ -298,7 +300,7 @@ updated: 2026-10-29
 
 国际教育协会通过长达十余年的制度化努力，开创了教师专业组织深度介入官方科研生产的全新路径：
 
-> [!actor-grid] 国际教育协会（EI）重塑跨国教育科研生产的三大机制
+> [!actor-grid] 国际教育协会（EI）重塑[[Transnational Education|跨国教育]]科研生产的三大机制
 > - **争取官方决策参与权与数据所有权**
 >   2010 年前，[[OECD\|经合组织]]工会咨询委员会（Trade Union Advisory Committee to the OECD, TUAC）被排斥在核心决策层之外；此后 EI 成功争取到在 OECD [[Centre for Educational Research and Innovation\|教育研究与创新中心]]（CERI）、[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）委员会以及[[Teaching and Learning International Survey\|教师教学国际调查]]（TALIS）理事会的常设观察员席位。EI 明确确立了核心原则：**跨国调查的数据与政策结论，既属于教育决策当局，也同样是广大教师及其专业组织的合法财产**。（pp. 210–211）
 > - **将真实的教学境遇反向注入跨国调查量表**
@@ -411,7 +413,7 @@ updated: 2026-10-29
 
 > [!example] Box 10.7　证据民主化科研资助的全球前沿探索案例
 > **一、重新界定成果交付物与高校考评机制**
-> - **纽约卡内基基金会严谨与相关性计划（2014）** 在科研立项中向那些在长聘教职（tenure）评审中承认政策相关活动的大学倾斜；明确要求高校建立政策学术停钟制度，允许青年学者在全职深入公共部门或薄弱学校协作期间暂停终身教职考评钟摆。（p. 231）
+> - **纽约卡内基基金会严谨与相关性计划（2014）** 在科研立项中向那些在长聘教职（tenure）评审中承认政策相关活动的大学倾斜；明确要求高校建立政策学术停钟制度，允许[[Early-Career Researchers|青年学者]]在全职深入公共部门或薄弱学校协作期间暂停终身教职考评钟摆。（p. 231）
 > - **机构挑战资助计划（Institutional Challenge Grants）** 由格兰特基金会、多丽丝·杜克基金会与斯宾塞基金会（Spencer Foundation）联合发起，通过高额资金直接鼓励大学彻底改革内部激励制度，对与政策部门及一线学校深度合作的教授给予实质性破格表彰。（pp. 231–232）
 > 
 > **二、创新立项标准与多元共创评审流程**

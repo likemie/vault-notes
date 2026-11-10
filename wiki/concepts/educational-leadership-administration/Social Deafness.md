@@ -13,7 +13,6 @@ related_stars: "⭐"
 related_color: "#bfdbfe"
 related_concepts:
   - "[[Engineering Mindset]]"
-  - "[[Screening Off]]"
   - "[[Creativity]]"
   - "[[Abstract]]"
   - "[[Construct]]"
@@ -24,6 +23,7 @@ related_concepts:
   - "[[Organizational Culture Change]]"
   - "[[Technological Republic]]"
   - "[[Hard Power]]"
+  - "[[Algorithmic Bias]]"
   - "[[Constructive Disobedience]]"
 related_theories:
   - "[[Organizational Culture]]"
@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -48,7 +48,7 @@ updated: 2026-11-03
 > 社交失聪（Social Deafness，亦称社交钝感），是指科技创新者或前沿研发组织在关键演化节点上，对外部社会舆论的赞许或非难、同侪群体的从众压力以及世俗公认的规范指引所表现出的一种选择性抗拒与认知钝感。在[[Alexander Karp|亚历山大·卡普]]（Alexander Karp）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas Zamiska）关于[[Engineering Mindset|工程思维]]的阐述中，社交失聪是一种极具生产性的自适应心理机制——它使工程师能够摆脱复杂的社交算计与人际逢迎，在面对大众不解与外界道德质疑时坚定地深耕颠覆性软件与实战系统开发，有别于病理性的感知缺陷。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, pp. 136–138)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向对外部群体虚假共识与人际风评的主动[[Screening Off|屏蔽]]或免疫能力，不以世俗赞同为行动导航指标。
+> - **含义** 指向对外部群体虚假共识与人际风评的主动屏蔽或免疫能力，不以世俗赞同为行动导航指标。
 > - **用途** 解释颠覆性技术突破与艺术先锋流派为何往往诞生于特立独行的边缘异类群体之中。
 > - **边界** 严格区别于经验盲目性或对真实世界物理反馈的漠视；社交失聪屏蔽的是**人际社会评价的噪音**，而非**实战系统运行的客观数据**。
 
@@ -80,7 +80,7 @@ updated: 2026-11-03
 ---
 
 > [!feature] 社交失聪在初创工程组织中的三大核心功能
-> - **构筑认知防火墙（Cognitive Firewall）** 在产品探索的极早期，[[Screening Off|屏蔽]]外界质疑与短期舆论唱衰，为前沿架构的萌芽提供不受干扰的孵化空间。
+> - **构筑认知防火墙（Cognitive Firewall）** 在产品探索的极早期，屏蔽外界质疑与短期舆论唱衰，为前沿架构的萌芽提供不受干扰的孵化空间。
 > - **降低人际协调损耗（Minimizing Social Friction）** 工程师不再耗费心力于办公室政治、讨好主管或复杂的地位表演，将全部认知带宽投注于技术攻关。
 > - **破除群体从众陷阱（Countering Herd Conformity）** 凭借对社会算计的天然钝感，坚决抵御类似[[Asch Conformity Experiment|阿施从众实验]]中的群体指白为黑压力，守护事实真相与工程理性。
 
@@ -143,8 +143,8 @@ updated: 2026-11-03
 > > [!axis] 社交失聪 vs 公众问责与科技伦理反馈
 > > 探讨在倡导技术团队保持社交失聪的同时，如何避免组织陷入盲目自大与社会责任脱节。
 > >
-> > - **工程治理学派（Karp & Zamiska）** 强调社交失聪[[Screening Off|屏蔽]]的是人际社交算计与虚假群体共识，绝不意味着忽视真实物理世界的数据与实战检验。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, pp. 137–138)]]
-> > - **科技伦理与公共治理学者** 提醒过度脱离社会舆论可能削弱科技企业对算法偏见、监控隐私等外部伦理风险的自我反思能力。
+> > - **工程治理学派（Karp & Zamiska）** 强调社交失聪屏蔽的是人际社交算计与虚假群体共识，绝不意味着忽视真实物理世界的数据与实战检验。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, pp. 137–138)]]
+> > - **科技伦理与公共治理学者** 提醒过度脱离社会舆论可能削弱科技企业对[[Algorithmic Bias|算法偏见]]、监控隐私等外部伦理风险的自我反思能力。
 
 ---
 

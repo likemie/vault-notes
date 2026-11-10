@@ -91,7 +91,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -224,7 +224,7 @@ updated: 2026-11-03
 > **制度演化与公共组织能力视阈** 剖析使命导向政策在过去一个半世纪中的治理[[Paradigm|范式]]变迁，揭示[[Public Dynamic Capabilities|公共动态能力]]作为使命政策执行基础的理论必然性。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
-> **三代演化与公共动态能力命题** 莱纳·[[Rainer Kattel|卡特尔]]与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]指出，使命导向政策经历了从后发追赶（骆驼形态）、[[Big Science|大科学]]攻坚（狮子形态）到社会–技术挑战敏捷实验（儿童形态）的三代历史演进。为应对 21 世纪的复杂社会使命，公共部门必须打破[[New Public Management|新公共管理]]所主导的被动“支持与衡量”模式，在国家政治合法性、政策协同组合与行政敏捷流动三个层级构建[[Public Dynamic Capabilities|公共部门动态能力]]，确立以主动塑造市场、鼓励跨界实验与全生命周期反思学习为特征的[[Lead-and-Learn Paradigm|引领与学习范式]]，从而有效克服现代政策的[[Complexity Paradox|复杂性悖论]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–798)]]
+> **三代演化与公共动态能力命题** [[Rainer Kattel|莱纳·卡特尔]]与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]指出，使命导向政策经历了从后发追赶（骆驼形态）、[[Big Science|大科学]]攻坚（狮子形态）到社会–技术挑战敏捷实验（儿童形态）的三代历史演进。为应对 21 世纪的复杂社会使命，公共部门必须打破[[New Public Management|新公共管理]]所主导的被动“支持与衡量”模式，在国家政治合法性、政策协同组合与行政敏捷流动三个层级构建[[Public Dynamic Capabilities|公共部门动态能力]]，确立以主动塑造市场、鼓励跨界实验与全生命周期反思学习为特征的[[Lead-and-Learn Paradigm|引领与学习范式]]，从而有效克服现代政策的[[Complexity Paradox|复杂性悖论]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–798)]]
 
 ---
 
@@ -245,7 +245,7 @@ updated: 2026-11-03
 > - **1993 — 新旧使命对比理论化** 索特与阿伦德尔（Soete & Arundel, 1993）首次系统对比了传统国防航天使命与以环境社会挑战为中心的新型使命政策。
 > - **2012 — [[Transformative System Failures|变革性系统失灵]]框架提出** Weber and Rohracher（2012）提出涵盖方向性、需求表达、[[Reflexivity|反思性]]与跨层级协调的四类系统失灵，为新一代使命政策奠定理论基石。
 > - **2018 — [[EU|欧盟]][[Horizon Europe|地平线欧洲]]战略确立与 ROAR 框架** [[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）提出[[Market Shaping and Creating|市场塑造]]、[[Picking the Willing|挑选意愿者]]机制与 ROAR [[Analytic Framework|分析框架]]，推动使命导向框架进入欧盟科研创新顶层设计。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
-> - **2018 — 三代演化理论与[[Public Dynamic Capabilities|公共部门动态能力]]构建** [[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]提出三代使命政策理论，打破 [[New Public Management|NPM]] 束缚，确立国家、政策与行政三层[[Public Dynamic Capabilities|公共动态能力]]及[[Lead-and-Learn Paradigm|引领与学习范式]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–801)]]
+> - **2018 — 三代演化理论与[[Public Dynamic Capabilities|公共部门动态能力]]构建** 卡特尔与[[Mariana Mazzucato|马祖卡托]]提出三代使命政策理论，打破 [[New Public Management|NPM]] 束缚，确立国家、政策与行政三层[[Public Dynamic Capabilities|公共动态能力]]及[[Lead-and-Learn Paradigm|引领与学习范式]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–801)]]
 > - **2020 — 过程导向与问题–解决方案空间建构** [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]]系统解构社会挑战的双重棘手性，提出基于问题–解决方案空间的过程导向汇合路径框架。
 > - **2022–2026 — 战略性关键技术主权与半导体使命重构** 美国《[[CHIPS and Science Act|芯片与科学法案]]》规划向科研与创新体系注入约 2000 亿美元公共投资，推动科技政策由新自由主义市场中立转向战略驱动的使命导向创新政策（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）；通过 [[National Science Foundation|NSF]] 与能源部为 EDA 工具与新型器件注入强方向性，引导大学开展跨界有组织科研与共置中试攻关。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–21)]]
 

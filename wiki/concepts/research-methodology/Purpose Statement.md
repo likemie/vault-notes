@@ -7,7 +7,7 @@ aliases:
 summary: "研究计划中传达研究总体意图和目标的陈述，是连接研究问题与研究问题的核心环节，量化、质性和混合方法三种路径各有不同的写作模板和要素要求"
 type: concept
 domain: "research-methodology"
-related_count: 30
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -15,11 +15,13 @@ tags:
   - subject/research-methodology
 related_concepts:
   - "[[Research Question]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Research Problem]]"
   - "[[Central Phenomenon]]"
   - "[[Variable]]"
   - "[[Nondirectional Language]]"
   - "[[Research Writing Script]]"
+  - "[[Homophily]]"
   - "[[Academic Achievement]]"
   - "[[Document]]"
   - "[[Independent Variable]]"
@@ -52,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -63,7 +65,7 @@ updated: 2026-10-16
 > [!quote|notitle]
 > "The purpose statement indicates why the researcher conducts the study and what the study intends to accomplish."（Locke et al., 2014; 引自 Creswell & Creswell, 2022, p.123）
 
-目的陈述必须明确、具体且信息丰富。研究的其他方面都从目的陈述衍生而来，读者若感到目的模糊，整篇研究的导向就会丧失。在期刊论文中，目的陈述通常在引言和摘要中呈现；在学位论文中，它常常独立成节。
+目的陈述必须明确、具体且信息丰富。研究的其他方面都从目的陈述衍生而来，读者若感到目的模糊，整篇研究的导向就会丧失。在期刊论文中，目的陈述通常在引言和摘要中呈现；在[[Doctoral Dissertation|学位论文]]中，它常常独立成节。
 
 > [!example] 概念辨析
 > **目的陈述 vs [[Research Question\|研究问题]]（[[Research Problem]]）** 研究问题是引发研究需求的议题或困境（如"人们拒绝接种新冠疫苗"）；目的陈述则说明研究将如何回应这一议题（如"识别影响疫苗接种意愿的多种因素"）。目的陈述从研究问题中生长出来，但不是研究问题本身([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.123–124]])。
@@ -92,7 +94,7 @@ updated: 2026-10-16
 
 > 本研究（____质性路径____研究）的目的是（____理解/探索/发现/生成____）____（参与者____在____研究场所____的____（核心现象____）。在研究目前阶段，____（核心现象____的一般定义是____。
 
-以下示例展示了不同质性设计类型的目的陈述：
+以下示例展示了不[[Homophily|同质性]]设计类型的目的陈述：
 
 > [!example] 现象学研究示例（Lauterbach, 1993）
 > 以女性主义视角为透镜，聚焦于母亲们的记忆和她们的"活过"经验，探讨五位在孕晚期失去婴儿的母亲的生活经验意义 ("The phenomenal care of the caregiver: A feminist view of postnatal bereavement." p.134)。

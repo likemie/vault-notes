@@ -11,9 +11,9 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "[[European Commission]]"
 tags:
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Academic Achievement]]"
   - "[[Subsidiarity Principle]]"
+  - "[[Transnational Education]]"
   - "[[Document]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-28
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -134,7 +135,7 @@ updated: 2026-11-02
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Open Method of Coordination]] | Concept | 欧洲学期教育支柱所依托的非强制性软法协调机制。 |
-> | [[Subsidiarity Principle]] | Concept | 欧洲学期推进跨国教育监控时必须恪守的国家专属主权红线。 |
+> | [[Subsidiarity Principle]] | Concept | 欧洲学期推进[[Transnational Education\|跨国教育]]监控时必须恪守的国家专属主权红线。 |
 > | [[Performance Indicators]] | Concept | 欧洲学期用于监控成员国教育改革成效的核心指标工具。 |
 > | [[Human Capital Theory]] | Theory | 将教育与就业指标纳入宏观经济审查的底层理论依据。 |
 > | [[European Commission]] | Fact (Organization) | 欧洲学期全流程的起草、审查与国别建议发布中枢。 |

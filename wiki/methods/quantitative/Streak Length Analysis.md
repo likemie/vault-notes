@@ -11,9 +11,9 @@ summary: "时间序列与序列统计中用于检验离散二元产出序列是�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 0
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 18
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -23,17 +23,35 @@ tags:
   - theme/science-of-science
   - theme/hot-streaks
   - theme/hot-hand
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Null Hypothesis]]"
+  - "[[Unit of Analysis]]"
+  - "[[Construct Validity]]"
+  - "[[Variable]]"
+  - "[[Dependent Variable]]"
+  - "[[Independent Variable]]"
+  - "[[Counterfactual]]"
+  - "[[Hot Streak]]"
+related_theories:
+  - "[[Hot Hand Fallacy]]"
+  - "[[Hot-Streak Model]]"
+  - "[[Random Impact Rule]]"
+related_methods:
+  - "[[Joint Probability Matrix of Hits]]"
+  - "[[Career Shuffling Method]]"
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Web of Science]]"
+  - "[[Scopus]]"
+  - "[[Microsoft Academic Graph]]"
+  - "[[Sense about Science]]"
+related_arguments:
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
 confidence: high
 status: draft
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-11
 ---
 
 ---
@@ -44,7 +62,7 @@ updated: 2026-11-08
 > [!method-scope] 方法范围
 > - **测量或估计对象** 二元离散序列中连续相同结果的分布特征，据以诊断序列自相关性。
 > - **问题类型** 非参数假设检验，判断给定序列是否源于独立同分布过程。
-> - **分析单位** 按时间或出版顺序排列的单条二元序列（如篮球投篮序列、学者逐篇发表记录中的高影响/低影响标记）。
+> - **[[Unit of Analysis|分析单位]]** 按时间或出版顺序排列的单条二元序列（如篮球投篮序列、学者逐篇发表记录中的高影响/低影响标记）。
 > - **输入数据** 有限长度的有序二元序列 $(X_1, \ldots, X_n)$，$X_i \in \{0, 1\}$。
 > - **输出形式** 整数游程数 $R$、期望值 $\mu_R$、方差 $\sigma_R^2$、标准化 $Z$ 统计量及对应 $p$ 值。
 
@@ -56,7 +74,7 @@ updated: 2026-11-08
 ---
 
 > [!method-position] 方法定位
-> - **构念效度** 游程检验直接捕捉序列中相邻事件的一阶状态转移特征，对长程高阶依赖结构（如周期性或非线性趋势）敏感度较低。
+> - **[[Construct Validity|构念效度]]** 游程检验直接捕捉序列中相邻事件的一阶状态转移特征，对长程高阶依赖结构（如周期性或非线性趋势）敏感度较低。
 > - **研究者判断** 二元化阈值的选择（如以何种标准区分"高影响"与"低影响"论著）、序列截断范围。
 > - **有效性标准** 大样本渐近正态近似的精度，序列长度 $n$ 一般要求 $\geq 20$。
 > - **不声称回答的问题** 游程检验仅诊断序列是否偏离独立随机，不能识别偏离的具体模式（如马尔可夫转移矩阵结构），也不能推断偏离的因果机制。
@@ -126,8 +144,8 @@ updated: 2026-11-08
 > > ![[wiki/assets/geogebra/streak_length_analysis.ggb]]
 
 > [!software-impl] 软件实现
-> - **数据来源** 按时间排序的二元序列；在科学学中通常来自 Web of Science、Scopus 或 MAG 的个人全生涯发表时序。
-> - **核心包或命令** Python `statsmodels.sandbox.stats.runs.runstest_1samp`；R `tseries::runs.test`；SAS `PROC NPAR1WAY`。
+> - **数据来源** 按时间排序的二元序列；在科学学中通常来自 [[Web of Science]]、[[Scopus]] 或 [[Microsoft Academic Graph|MAG]] 的个人全生涯发表时序。
+> - **核心包或命令** Python `statsmodels.sandbox.stats.runs.runstest_1samp`；R `tseries::runs.test`；[[Sense about Science|SAS]] `PROC NPAR1WAY`。
 > - **实现流程** 按时间排列个体产出 → 以选定阈值二元化 → 计算 $n_1$、$n_2$、$R$ → 代入公式计算 $\mu_R$、$\sigma_R^2$、$Z$ → 与正态分位数比较判定。
 > - **报告标准** 报告 $n$、$n_1$、$n_2$、$R$、$\mu_R$、$Z$ 及对应 $p$ 值，注明二元化标准与双侧/单侧检验选择。
 
@@ -162,9 +180,9 @@ updated: 2026-11-08
 >     return runs, mu, sigma, z, p
 > ```
 
-> [!method-stack] 变量与诊断
+> [!method-stack] [[Variable|变量]]与诊断
 > - **数据结构** 单条有序二元时间序列（如按发表年份排列的"高影响/低影响"论著标记）。
-> - **变量** 因变量为每个观测位点的二元取值（0/1）；自变量为时间或序列位次。
+> - **变量** [[Dependent Variable|因变量]]为每个观测位点的二元取值（0/1）；[[Independent Variable|自变量]]为时间或序列位次。
 > - **识别假设** 零假设为序列中各元素独立同分布（i.i.d.），即不存在时间自相关。
 > - **诊断与检验** $Z$ 统计量的渐近正态性在 $n_1, n_2 \geq 10$ 时较可靠；序列较短时需查精确分布表或使用蒙特卡洛置换检验。
 
@@ -181,7 +199,7 @@ updated: 2026-11-08
 > - **测量偏误** 二元化阈值的选择（如以中位数、均值还是百分位截断）直接影响 $n_1/n_2$ 比例，从而影响检验的统计功效。
 > - **可比边界** 游程检验仅捕捉一阶相邻依赖；高阶自相关结构（如"每隔两篇出现一次高峰"）不被该方法检出。
 > - **误用风险** 将"未拒绝零假设"等同于"序列确实随机"；吉洛维奇等人 1985 年的游程检验结论在 2018 年被米勒与桑胡尔霍证明受到有限样本条件概率偏差的系统性影响。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 71–72)]]
-> - **补救方式** 搭配[[Joint Probability Matrix of Hits|代表作联合概率矩阵]]进行二维位置共现检测；使用[[Career Shuffling Method|生涯洗牌法]]生成反事实基准；使用变点检测算法识别爆发期的精确起止点。
+> - **补救方式** 搭配[[Joint Probability Matrix of Hits|代表作联合概率矩阵]]进行二维位置共现检测；使用生涯洗牌法生成[[Counterfactual|反事实]]基准；使用变点检测算法识别爆发期的精确起止点。
 
 ---
 

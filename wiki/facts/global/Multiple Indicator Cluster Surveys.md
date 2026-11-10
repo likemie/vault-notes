@@ -10,9 +10,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 18
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1995–至今"
 initiator_organization: "[[UNICEF]]"
@@ -23,6 +23,7 @@ tags:
   - theme/survey-research
   - theme/educational-equity
 related_concepts:
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Policy Brokerage]]"
   - "[[Social-Emotional Learning]]"
   - "[[Knowledge Mediation]]"
@@ -39,6 +40,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[UNICEF]]"
+  - "[[Millennium Development Goals]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[OECD]]"
   - "[[World Bank]]"
@@ -50,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -67,10 +69,10 @@ updated: 2026-10-30
 ---
 
 > [!claim] 核心干预／机制假说
-> MICS 的核心假说认为：教育机会均等与基础素养的达成，深深嵌套于儿童早期生命周期的家庭营养、卫生、心理关爱与社会保护微观生态之中；脱离家庭处境的孤立学校测评无法诊断不平等的根源，必须依托入户全样本追踪揭示多维剥夺机制。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 544)]]
+> MICS 的核心假说认为：教育机会均等与[[Foundational Literacy and Numeracy|基础素养]]的达成，深深嵌套于儿童早期生命周期的家庭营养、卫生、心理关爱与社会保护微观生态之中；脱离家庭处境的孤立学校测评无法诊断不平等的根源，必须依托入户全样本追踪揭示多维剥夺机制。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 544)]]
 
 > [!policy-design] 方案设计
-> - **项目目标** 协助各国采集具有国际可比性的高质量微观数据，监测联合国千年发展目标（MDGs）与[[UN Sustainable Development Goals\|可持续发展目标]]（[[UN Sustainable Development Goals\|SDG 4]]）核心指标。
+> - **项目目标** 协助各国采集具有国际可比性的高质量微观数据，监测[[Millennium Development Goals|联合国千年发展目标]]（MDGs）与[[UN Sustainable Development Goals\|可持续发展目标]]（[[UN Sustainable Development Goals\|SDG 4]]）核心指标。
 > - **覆盖对象** 全国多阶段分层[[Cluster Sampling\|整群抽样]]的住户样本，涵盖住户户主、15–49 岁妇女、15–49 岁男子、5–17 岁儿童及 5 岁以下幼儿。
 > - **干预措施** 实施模块化调查[[Questionnaire\|问卷]]，专设幼儿早期发展指数（ECDI）模块、基础学习技能（FLS，直接测查 7–14 岁儿童基础识字与计算能力）模块、儿童抚育纪律与童工剥夺模块。
 > - **实施控制** 统一采用计算机辅助面访（CAPI）系统、面对面严格入户质检、双重录入校验规程，调查原始微观数据集经匿名化后全部向全球科研界免费公开发布。

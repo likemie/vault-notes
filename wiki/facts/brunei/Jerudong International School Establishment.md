@@ -10,7 +10,7 @@ subtype: event
 region: brunei
 fact_region: "brunei"
 fact_kind: "event"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[International Schools]]"
   - "[[Academic Achievement]]"
+  - "[[Transnational Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -30,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!info] 背景
@@ -54,7 +55,7 @@ updated: 2026-10-22
 > - Jerudong 项目成为公司国际化雄心的心理催化剂，但其突然终止也说明海外教育市场高度受本地政治经济条件影响，难以维持稳定常驻业务。
 
 > [!warning] 争议与评论
-> - 项目虽然成功完成，但实施过程需要比预期更高程度的人际接触与政治文化协调，说明跨国教育咨询的关键困难不只在技术方案，而在复杂关系管理。([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.22]])
+> - 项目虽然成功完成，但实施过程需要比预期更高程度的人际接触与政治文化协调，说明[[Transnational Education|跨国教育]]咨询的关键困难不只在技术方案，而在复杂关系管理。([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.22]])
 > - 董事会一度因东南亚区域山火烟霾讨论是否临时把学校迁往英国，显示该项目还受环境与后勤风险影响。
 
 > [!example] 相关概念／政策

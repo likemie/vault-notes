@@ -9,7 +9,7 @@ subtype: organization
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Learner Autonomy]]"
   - "[[Critical Pedagogy]]"
   - "[[Educational Privatisation]]"
+  - "[[Quasi-market]]"
   - "[[Network Governance]]"
   - "[[Public-Private Partnership]]"
 related_theories: []
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -129,7 +130,7 @@ updated: 2026-11-02
 > > [!axis] 国家资助责任让渡与隐性[[Educational Privatisation|教育私有化]]
 > > 该信托的运作模式代表了新西兰教育由国家统一财政全额供给向混合资助与[[Exogenous Privatisation|外生私有化]]演变的转折点。
 > >
-> > - **批判分析** 奥尼尔等人将其列为新西兰基础教育近十余年来现代化与私有化的九个典型制度实例之一。国家逐步退出基础设施全额兜底保障，由非营利信托充当中介，引入[[Venture Philanthropy|风险慈善]]资本与跨国科技寡头（三星、电信商）开拓学校软硬件市场，使得公立学校体系沦为私人商业技术产品的试验田与准市场。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 9, 27)]]
+> > - **批判分析** 奥尼尔等人将其列为新西兰基础教育近十余年来现代化与私有化的九个典型制度实例之一。国家逐步退出基础设施全额兜底保障，由非营利信托充当中介，引入[[Venture Philanthropy|风险慈善]]资本与跨国科技寡头（三星、电信商）开拓学校软硬件市场，使得公立学校体系沦为私人商业技术产品的试验田与[[Quasi-market|准市场]]。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 9, 27)]]
 
 ---
 

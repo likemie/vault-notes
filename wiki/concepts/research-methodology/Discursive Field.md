@@ -7,7 +7,7 @@ aliases:
 summary: "文化社会学与批判话语分析的重要分析范畴，由罗伯特·伍斯诺系统阐发。指特定社会历史情境中塑造并制约人们思考、言说与意义建构的结构性话语空间；它为多元话语提供了竞争与被框架化的场所，从根本上确立了思考得以发生的基底性分类范畴，划定了何种问题能够被讨论与命名的合法边界。"
 type: concept
 domain: "research-methodology"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Problem Finding]]"
   - "[[Ontology]]"
+  - "[[Transnational Education]]"
   - "[[Century of Humiliation]]"
   - "[[National Rejuvenation Narrative]]"
   - "[[Washington Consensus]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -129,7 +130,7 @@ updated: 2026-11-03
 > **宏观社会历史情境对政策叙事的决定作用** 批判政策分析将具体的政策文件置于更广阔的历史社会学场域中进行检验，透视权力意志的转化机制。
 
 > [!claim] Woo, E.
-> **宏观历史与地缘场域决定跨国教育政策话语** 伍国雄（Eric Woo, 2023）研究指出，中国[[Belt and Road Initiative|一带一路]]教育政策话语的生成，深刻受制于由“[[Century of Humiliation|百年屈辱史]]的创伤记忆”、“[[National Rejuvenation Narrative|中华民族伟大复兴]]的两个一百年目标”以及“对西方治理模式的反思与对[[Washington Consensus|华盛顿共识]]的替代诉求”共同构成的话语场域。这一深层话语场域确立了思考中国高等教育跨国使命的根本范畴，促使政策制定者将教育交流必然地框架化为服务国家大战略、输出[[China Solution|中国方案]]与重塑国际治理秩序的战略工具。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–691)]]
+> **宏观历史与地缘场域决定[[Transnational Education|跨国教育]]政策话语** 伍国雄（Eric Woo, 2023）研究指出，中国[[Belt and Road Initiative|一带一路]]教育政策话语的生成，深刻受制于由“[[Century of Humiliation|百年屈辱史]]的创伤记忆”、“[[National Rejuvenation Narrative|中华民族伟大复兴]]的两个一百年目标”以及“对西方治理模式的反思与对[[Washington Consensus|华盛顿共识]]的替代诉求”共同构成的话语场域。这一深层话语场域确立了思考中国高等教育跨国使命的根本范畴，促使政策制定者将教育交流必然地框架化为服务国家大战略、输出[[China Solution|中国方案]]与重塑国际治理秩序的战略工具。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–691)]]
 
 ---
 

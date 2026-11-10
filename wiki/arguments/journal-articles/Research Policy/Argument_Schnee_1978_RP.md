@@ -52,6 +52,7 @@ related_facts:
   - "[[American Diploma Project]]"
   - "[[Brookings Institution]]"
   - "[[Fairchild Semiconductor]]"
+  - "[[Atomic Energy Commission]]"
   - "[[ASEAN Economic Community]]"
   - "[[National Institute of Standards and Technology]]"
   - "[[System Development Corporation]]"
@@ -65,14 +66,14 @@ sources:
   - "[[sources/Schnee_1978_RP/Schnee_1978_RP|Schnee_1978_RP]]"
 status: active
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Schnee_1978_RP"
 argument_key: "Argument_Schnee_1978_RP"
 argument_display_title: "Government programs and the growth of high-technology industries"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -148,7 +149,7 @@ journal: "Research Policy"
 > [!evidence-grid] 半导体与早期计算机研发资助的关键证据
 > - **半导体直接研发资助** 1955 至 1961 年间，联邦机构对半导体直接资助研发经费达 6600 万美元；其中美国陆军通信兵团（Signal Corps）在 1961 年单年即雇佣 27 家商业承包商攻关半导体器件、40 家开发电子零部件与材料、13 家开发石英晶体，使商业开发周期缩短达 15%。
 > - **国防部间接转包研发规模** 1960 年 DOD 调查显示，武器系统主承包商向下转包给半导体企业的研发经费超过直接资助的一倍以上；1958 和 1959 年 DOD 直接与间接研发资助分别占全美半导体行业总研发支出的 25% 与 23%。
-> - **早期电子计算机军方全程资助** 从 1942–1946 年陆军资助宾夕法尼亚大学研制首台电子数值积分计算机（Electronic Numerical Integrator and Computer, ENIAC）用于弹道计算起，至 1950 年代中期，陆海空三军、美国原子能委员会（Atomic Energy Commission, [[ASEAN Economic Community|AEC]]）与美国国家标准局（[[National Institute of Standards and Technology|National Bureau of Standards]], NBS）对雷明顿兰德（Remington Rand / Univac）与 IBM 等企业下达巨额合同，攻克了逻辑设计、内存存储与编程技术；1950 年代 IBM 约 60% 的研发预算直接来自政府合同。
+> - **早期电子计算机军方全程资助** 从 1942–1946 年陆军资助宾夕法尼亚大学研制首台电子数值积分计算机（Electronic Numerical Integrator and Computer, ENIAC）用于弹道计算起，至 1950 年代中期，陆海空三军、[[Atomic Energy Commission|美国原子能委员会]]（Atomic Energy Commission, [[ASEAN Economic Community|AEC]]）与美国国家标准局（[[National Institute of Standards and Technology|National Bureau of Standards]], NBS）对雷明顿兰德（Remington Rand / Univac）与 IBM 等企业下达巨额合同，攻克了逻辑设计、内存存储与编程技术；1950 年代 IBM 约 60% 的研发预算直接来自政府合同。
 
 > [!sub-claim] 2. 国防系统间接转包与英德对照证实缺乏持续公共资助会导致先发技术优势丧失
 

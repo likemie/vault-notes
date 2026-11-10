@@ -7,10 +7,10 @@ summary: "美国当代著名科学技术政策与STS学者，亚利桑那州立�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 21
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1965"
 lifespan: "1965–至今"
 tags:
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Science and Technology Studies]]"
   - "[[Creativity]]"
+  - "[[Scientific Creativity]]"
   - "[[Responsible Innovation]]"
   - "[[Paradigm]]"
   - "[[Technology Transfer]]"
@@ -34,6 +35,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
   - "[[EU]]"
+  - "[[Basic Research and National Goals 1965]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Office of Science and Technology Policy]]"
 related_arguments:
@@ -46,7 +48,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -59,7 +61,7 @@ updated: 2026-11-02
 > [!citation-card] 科学契约的政治经济学解析
 > 科学与国家之间的契约关系是一套高度制度化的委托—代理体制。抽象的道德共识讲的是另一套关系。出资方（国家）通过赋予中介与边界组织特定的规范权，既防范科学家的欺诈与学术不端，又避免直接官僚干预扼杀科学家的[[Creativity|创造力]]。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1056)]]
 >
-> *The contractual relationship between science and the state is an institutionalized principal-agent structure: by empowering boundary organizations, the patron ensures integrity and productivity without imposing heavy-handed bureaucratic controls that stifle scientific creativity.*
+> *The contractual relationship between science and the state is an institutionalized principal-agent structure: by empowering boundary organizations, the patron ensures integrity and productivity without imposing heavy-handed bureaucratic controls that stifle [[Scientific Creativity|scientific creativity]].*
 
 ---
 
@@ -101,7 +103,7 @@ updated: 2026-11-02
 ---
 
 > [!person-network] 关系网络
-> - **师承／共事者** [[Donald Stokes|唐纳德·斯托克斯]] — 共同参与 1990 年代关于后冷战基础研究与国家目标关系的学术大讨论。
+> - **师承／共事者** [[Donald Stokes|唐纳德·斯托克斯]] — 共同参与 1990 年代关于后冷战[[Basic Research and National Goals 1965|基础研究与国家目标]]关系的学术大讨论。
 > - **师承／共事者** 肯·肯尼斯顿（Kenneth Keniston） — 共同合编出版《弱化的契约？》，奠定契约危机研究传统。
 
 ---

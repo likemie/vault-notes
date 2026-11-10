@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Corporate R&D Labs]]"
   - "[[Open-Mindedness]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Multi-University]]"
   - "[[Precompetitive Research]]"
   - "[[Research Translation]]"
@@ -39,7 +40,6 @@ related_concepts:
   - "[[Institutional Displacement]]"
   - "[[University-Industry Collaboration]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Interview]]"
@@ -57,6 +57,7 @@ related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
+  - "[[Development Assistance Committee]]"
 related_arguments:
   - "[[Argument_Macher_1998_CMR]]"
   - "[[Argument_Ramming_2025_CorporateSupport]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -89,7 +90,7 @@ updated: 2026-11-02
 >   - **互连技术焦点中心（Interconnect Focus Center, IFC）** 佐治亚理工学院牵头，斯坦福、MIT 等协同，攻坚多层金属互连、光电互连与热管理。
 >   - **设计与测试焦点中心（Gigascale Systems Research Center, GSRC）** 加州大学伯克利分校牵头，探索十亿门级超大规模集成电路系统架构与 EDA 工具。
 >   - **纳米级材料与结构中心（FENA / MSD）** 加州大学洛杉矶分校（UCLA）、MIT 等牵头，攻坚高介电常数（High-k）材料与后 CMOS 新器件。
-> - **[[Open-Mindedness|开放性]]与人才培养设计** 坚持完全公开学术发表原则，所有研究生的学位论文对成员企业全面开放，将博士生的高质量科研过程与紧缺人才培养深度捆绑。
+> - **[[Open-Mindedness|开放性]]与人才培养设计** 坚持完全公开学术发表原则，所有研究生的[[Doctoral Dissertation|学位论文]]对成员企业全面开放，将博士生的高质量科研过程与紧缺人才培养深度捆绑。
 
 > [!citation-card] 长周期前竞争科研与人才供给定位
 > 为了应对长期基础研究投入不足的隐患，半导体行业协会与 [[Sematech]] 于 1998 年设立了焦点研究中心计划，通过建立大学微电子研究中心网络，专注于 10 至 15 年视野的前竞争探索，并为全行业持续培养高水平研究生。
@@ -128,7 +129,7 @@ updated: 2026-11-02
 ---
 
 > [!indicators] 评估指标体系
-> - **学科前沿产出指标** 国际微电子顶会（IEDM, ISSCC, DAC）论文发表数、顶级学术期刊引用频次、颠覆性器件发明专利数。
+> - **学科前沿产出指标** 国际微电子顶会（IEDM, ISSCC, [[Development Assistance Committee|DAC]]）论文发表数、顶级学术期刊引用频次、颠覆性器件发明专利数。
 > - **高端工程人才输出指标** 资助培养的博士与硕士研究生毕业人数、进入半导体核心产业与国家实验室的比例。
 > - **[[Research Translation|技术转化]]外溢指标** 被国际半导体技术路线图（ITRS）采纳的新材料/新器件标准数、催生的硬科技初创企业数。
 

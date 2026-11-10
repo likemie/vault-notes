@@ -10,7 +10,7 @@ summary: "通过引导大语言模型显式生成逐步推理路径以解决复�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 26
+method_related_count: 28
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -24,10 +24,12 @@ related_concepts:
   - "[[Man-Computer Symbiosis]]"
   - "[[Scaffolding]]"
   - "[[Unit of Analysis]]"
+  - "[[Algorithmic Bias]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemology]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Scoring Rubrics]]"
+  - "[[Problematisation]]"
   - "[[Paradigm]]"
   - "[[Document]]"
   - "[[Externalization]]"
@@ -56,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -71,7 +73,7 @@ updated: 2026-10-30
 > - **输出形式** 分步推理链条、中间参数推导轨迹、纠错反思文本与最终问题解答。
 
 > [!citation-card] [[Man-Computer Symbiosis|人机共生]]中的思维链技术干预功能
-> 在人机协同学习的双轨干预矩阵中，思维链策略通过指令大模型分步骤展示其推理过程，不仅能够显著减少算法偏差与事实幻觉，更为先验知识匮乏的学习者提供了清晰的思维脚手架，提升了人机交互的透明度与可解释性。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 366)]]
+> 在人机协同学习的双轨干预矩阵中，思维链策略通过指令大模型分步骤展示其推理过程，不仅能够显著减少[[Algorithmic Bias|算法偏差]]与事实幻觉，更为先验知识匮乏的学习者提供了清晰的思维脚手架，提升了人机交互的透明度与可解释性。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 366)]]
 >
 > *Using the chain of thoughts strategy by asking the [[Generative Artificial Intelligence\|GenAI]] to reflect on its generation of output step by step, learners can enhance the GenAI's performance by generating more unbiased and accurate output... making complex concepts easier to grasp.*
 
@@ -95,7 +97,7 @@ updated: 2026-10-30
 ---
 
 > [!proc] 通用操作程序
-> 1. **任务分解与问题表征** 明确复杂学科任务的核心目标，识别出解决该任务所必需的逻辑子步骤（如在统计假设检验中分解为：假设陈述 $\to$ 尺度诊断 $\to$ 公式选择 $\to$ 自由度与统计量计算 $\to$ 结论裁决）。
+> 1. **任务分解与[[Problematisation|问题表征]]** 明确复杂学科任务的核心目标，识别出解决该任务所必需的逻辑子步骤（如在统计假设检验中分解为：假设陈述 $\to$ 尺度诊断 $\to$ 公式选择 $\to$ 自由度与统计量计算 $\to$ 结论裁决）。
 > 2. **提示词模板构建** 选择适宜的 CoT [[Paradigm\|范式]]（零样本或少样本），在提示语中显式嵌入分步要求指令（如：“请按步骤推导[[Analysis of Variance\|方差分析]][[Effect Size\|效应量]] $\omega^2$ 的公式等价性，并明确每个参数在平衡设计下的含义”）。
 > 3. **人机多轮质询与中间链条审查** 学习者逐一审查大模型输出的各推导步骤，针对模糊或存疑环节发起定向追问。
 > 4. **结合外部证据溯源核验** 将思维链中的推导前提与教材、期刊[[Document|文献]]或原始数据实施交叉比对，排查逻辑跳跃或虚假假设。

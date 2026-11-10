@@ -7,7 +7,7 @@ aliases:
 summary: "指国际组织在面临教育技术赤字与未来不确定性时，将其治理权威建立在对教育未来的期许与危机规避允诺之上的正当化机制。国际组织将未来危机描绘为当下脆弱现实的逻辑延伸，并向各国政府推销即可采取行动的循证方案以生产确定性。"
 type: concept
 domain: "comparative-education"
-related_count: 23
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Epistemology]]"
+  - "[[Transnational Education]]"
   - "[[Governing by Numbers]]"
   - "[[Policy Ambiguity]]"
   - "[[Variable]]"
@@ -44,12 +45,13 @@ related_facts:
   - "[[PISA]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[Education for All]]"
+  - "[[Millennium Development Goals]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -136,7 +138,7 @@ updated: 2026-11-03
 > [!dev-timeline] 概念演变
 > - **1979 — 系统论中的技术赤字假说** 鲁曼与肖尔（Luhmann & Schorr, 1979）提出教育缺乏因果技术的论断，指明教育无法保证投入与产出的必然联结，奠定了不确[[Qualitative Research\|定性研究]]的[[Epistemology\|认识论]]基础。
 > - **2000–2010s — 预期社会学与虚构期望** 贝克特（Jens Beckert）等经济社会学家提出资本主义依赖“虚构期望”（Fictional Expectations）的理论，论证经济行动的实质是基于对未来的前瞻性想象而非历史计算。
-> - **2023 — 允诺合法性概念正式提出** 罗伯逊与比奇（Robertson & Beech, 2023）在《Comparative Education》发表里程碑文章，系统将期许性合法性引入跨国教育治理分析，揭示国际组织如何凭借未来允诺重塑合法性空间。
+> - **2023 — 允诺合法性概念正式提出** 罗伯逊与比奇（Robertson & Beech, 2023）在《Comparative Education》发表里程碑文章，系统将期许性合法性引入[[Transnational Education|跨国教育]]治理分析，揭示国际组织如何凭借未来允诺重塑合法性空间。
 > - **2024 — 整合进[[Governing by Numbers\|数字治理]] 2.0 [[Policy Brokerage\|政策中介]]框架** 施泰纳-哈姆西等学者（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024]]）将期许性合法性与[[Policy Ambiguity\|决策歧义性]]、公共争议性并列，提炼为解释国际组织政策中介机制的三大生态基石之一。
 
 ---
@@ -156,7 +158,7 @@ updated: 2026-11-03
 > > - **比较教育学者** 警示由未来危机驱动的标准化解决方案导致了全球教育生态的高度同质化，抹杀了主权社会根据在地文化探索其他教育未来的可能性。
 
 > [!critique] 外部批评
-> - **承诺透支与公信力赤字** 随着 2000 年“[[Education for All\|全民教育]]”（EFA）达喀尔目标与 2015 年千年发展目标（MDGs）的相继逾期未达，国际组织依靠不断延期未来时间表（如推迟至 2030 年 SDG 4、2050 年未来教育）维系期许合法性的策略正遭遇边际效用递减与严峻的信任危机。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 541, 546)]]
+> - **承诺透支与公信力赤字** 随着 2000 年“[[Education for All\|全民教育]]”（EFA）达喀尔目标与 2015 年[[Millennium Development Goals|千年发展目标]]（MDGs）的相继逾期未达，国际组织依靠不断延期未来时间表（如推迟至 2030 年 SDG 4、2050 年未来教育）维系期许合法性的策略正遭遇边际效用递减与严峻的信任危机。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 541, 546)]]
 
 > [!warning] 适用局限
 > 该概念高度依赖于研究对象所处领域的“时间递延性”与“因果模糊性”；在能够进行快速短期实验验证或具有严格刚性因果反馈的实操场景中，治理者无法依靠未来期许维系权威，概念解释力将显著衰减。

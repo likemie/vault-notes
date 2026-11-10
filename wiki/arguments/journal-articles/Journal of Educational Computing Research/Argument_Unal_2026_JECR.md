@@ -58,6 +58,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Chain of Evidence]]"
   - "[[Interaction Effect]]"
+  - "[[Homophily]]"
   - "[[Creativity]]"
   - "[[Abstract]]"
   - "[[Problem Solving]]"
@@ -94,22 +95,25 @@ related_instruments:
 related_persons:
   - "[[Socrates]]"
 related_facts:
+  - "[[Web of Science]]"
+  - "[[Scopus]]"
   - "[[Education Resources Information Center]]"
 related_arguments:
+  - "[[Argument_Chen_2025_HSSC]]"
   - "[[Argument_Liu_2025_IndHE]]"
   - "[[Argument_Wecker_2016_ZfE]]"
 sources:
   - "[[sources/Unal_2026_JECR/Unal_2026_JECR|Unal_2026_JECR]]"
 status: draft
 created: 2026-08-25
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Unal_2026_JECR"
 argument_key: "Argument_Unal_2026_JECR"
 argument_display_title: "A second-order meta-analysis on the effects of artificial intelligence applications on student outcomes"
 argument_kind: "journal-article"
-argument_related_count: 71
+argument_related_count: 75
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -163,8 +167,8 @@ issuing_organization: ""
 > | **AI 赋能评估与自动化评分反馈工具（AI-enabled Assessment & Automated [[Feedback]] Tools）** | 运用自然语言处理与机器学习算法对学生主观产出（如作文、口语录音、开放问答）实施自动作文评分（Automated Essay Scoring, AES）、错误诊断并生成多维度形成性反馈的专用评估技术。 | 教学规程：学生提交初稿 $\to$ AI 算法即时生成语法、篇章、逻辑层级诊断报告 $\to$ 学生根据反馈进行多轮自主修改与反思 $\to$ 终结性测评；典型工具：ETS Criterion, 批改网, Grammarly Edu；纳入 Chen et al. (2025, K12 英语写作与口语评估, $ES = .39$, 95% CI [-.19, .97]) 1 项专属 FOM。 |
 > | **生成式 AI 编程助手与[[Computational Thinking\|计算思维]]支架（GenAI Code Assistants & Computational Scaffolds）** | 利用代码大模型与生成式[[AI Agent in Education\|智能体]]为学生提供实时代码解释、语法与逻辑纠错、算法思路拆解与伪代码转化的认知脚手架。 | 教学规程：复杂编程任务拆解 $\to$ 提示词构建与代码框架生成 $\to$ AI 代码审查与错误定位 $\to$ 算法效率优化与同伴讨论；典型工具：GitHub Copilot, ChatGPT Code Interpreter；纳入 Tlili (2024, 计算机科学, $ES = 1.36$)、García-Martínez et al. (2023, 计算机科学, $ES = .72$)；亚组加权平均 $ES = .99$（95% CI [.62, 1.35]）。 |
 > | **综合多类型 AI 教育平台与智能媒体（Multi-type AI Learning Media & Platforms）** | 涵盖多种 AI 技术的集成化智慧学习环境，或一阶元分析未对具体技术子类作拆分的统合型智能教学干预。 | 教学规程：融合自适应内容推送、智能推荐、多模态互动练习与学习分析数据看板；纳入 14 项独立 FOM：Dong et al. (2025, $ES = .92$)、Setiawan et al. (2025, $ES = .58$)、Dai et al. (2024, $ES = .43$)、Dibek et al. (2025, $ES = .63$)、Yi et al. (2025, $ES = .32$)、Zheng et al. (2023, $ES = .70$)、Tlili et al. (2025, $ES = 1.10$)、Wu (2024, $ES = .98$) 等；亚组加权平均 $ES = .66$（95% CI [.53, .79]）。 |
-> | **教育阶段（Education Level）** | 学习者所处学段划分：包含 K12 基础教育（小学至高中）与涵盖本科、研究生及跨学段综合样本的 K12 与高等教育混合学段。 | K12 专属样本（4 项 FOM：Yi et al., 2025; Hwang, 2022; Chen et al., 2025; Zhang et al., 2024，加权平均 $ES = .40$）；K12 与高等教育混合样本（15 项 FOM，如 Tlili, 2024; Dong et al., 2025; Wu, 2024，加权平均 $ES = .73$）；组间差异显著（$Q_{bg}(1) = 6.95, p = .01$）。 |
-> | **学科领域（Education [[Champ\|field]]）** | 教学内容所属学科领域分类：包含计算机科学、作为外语的英语（English as a Foreign Language, EFL）与第二语言（Second Language, L2）读写听说的语言学习领域、多学科综合领域、数学领域。 | 计算机科学（2 项 FOM，加权平均 $ES = .99$）；语言学习（5 项 FOM：Wu, 2024; [[Argument_Liu_2025_IndHE\|Liu et al., 2025]]; Chen et al., 2025; Wu & Li, 2024; Lee & Lee, 2024，加权平均 $ES = .69$）；多学科综合（10 项 FOM，加权平均 $ES = .68$）；数学（2 项 FOM：Yi et al., 2025; Hwang, 2022，加权平均 $ES = .34$）；组间差异显著（$Q_{bg}(3) = 8.36, p = .04$）。 |
+> | **教育阶段（Education Level）** | 学习者所处学段划分：包含 K12 基础教育（小学至高中）与涵盖本科、研究生及跨学段综合样本的 K12 与高等教育混合学段。 | K12 专属样本（4 项 FOM：Yi et al., 2025; Hwang, 2022; [[Argument_Chen_2025_HSSC\|Chen et al., 2025]]; Zhang et al., 2024，加权平均 $ES = .40$）；K12 与高等教育混合样本（15 项 FOM，如 Tlili, 2024; Dong et al., 2025; Wu, 2024，加权平均 $ES = .73$）；组间差异显著（$Q_{bg}(1) = 6.95, p = .01$）。 |
+> | **学科领域（Education [[Champ\|field]]）** | 教学内容所属学科领域分类：包含计算机科学、作为外语的英语（English as a Foreign Language, EFL）与第二语言（Second Language, L2）读写听说的语言学习领域、多学科综合领域、数学领域。 | 计算机科学（2 项 FOM，加权平均 $ES = .99$）；语言学习（5 项 FOM：Wu, 2024; [[Argument_Liu_2025_IndHE\|Liu et al., 2025]]; [[Argument_Chen_2025_HSSC\|Chen et al., 2025]]; Wu & Li, 2024; Lee & Lee, 2024，加权平均 $ES = .69$）；多学科综合（10 项 FOM，加权平均 $ES = .68$）；数学（2 项 FOM：Yi et al., 2025; Hwang, 2022，加权平均 $ES = .34$）；组间差异显著（$Q_{bg}(3) = 8.36, p = .04$）。 |
 > | **发表偏倚状态（Publication Bias Status）** | 一阶元分析自身经统计检验（[[Funnel Plot\|漏斗图]]、Begg 秩相关、Egger 回归、[[Trim and Fill Method\|剪补法]]）判定的偏倚程度：无偏倚（No）、低偏倚（Low）、中等偏倚（Medium）、高偏倚（Large）。 | 无偏倚（12 项 FOM，加权平均 $ES = .58$）；低偏倚（3 项 FOM，加权平均 $ES = .86$）；中等偏倚（1 项 FOM，加权平均 $ES = 1.10$）；高偏倚（3 项 FOM，加权平均 $ES = .63$）；组间差异显著（$Q_{bg}(3) = 8.90, p = .03$）。 |
 > | **方法学质量等级（Quality Level）** | 基于 R-AMSTAR 12 项评分量表（排除临床项后总分 44 分）的分级标准：不充分（0–11 分）、低质量（12–22 分）、中等质量（23–33 分）、高质量（34–44 分）。 | 高质量（13 项 FOM，得分 34–36 分，加权平均 $ES = .70$）；中等质量（6 项 FOM，得分 29–33 分，加权平均 $ES = .60$）；全样本平均得分 33.84（标准差（Standard Deviation, SD）为 2.97）；组间差异不显著（$Q_{bg}(1) = .62, p = .43$）。 |
 >
@@ -173,7 +177,7 @@ issuing_organization: ""
 > [!contrast-table] Zawacki-Richter (2019) 理论四维与 SOMA 实证调节分类的映射与收敛关系
 > | 理论四维架构 | 本研究实证调节编码 | 纳入 FOM 数量与占比 | 统计结果（$ES$ 与 95% CI） | 编码收敛原因与方法论反思 |
 > |---|---|---|---|---|
-> | **评估与评定（Assessment & Evaluation）** | **`AI-enabled assessment tools`（AI 赋能评估工具）** | $k = 1$（5.3%） | $ES = .39$ [-.19, .97] | 仅 1 项 FOM（Chen et al., 2025）聚焦于 K12 写作与口语自动评分与形成性反馈，构成独立的纯评估工具对照组。 |
+> | **评估与评定（Assessment & Evaluation）** | **`AI-enabled assessment tools`（AI 赋能评估工具）** | $k = 1$（5.3%） | $ES = .39$ [-.19, .97] | 仅 1 项 FOM（[[Argument_Chen_2025_HSSC\|Chen et al., 2025]]）聚焦于 K12 写作与口语自动评分与形成性反馈，构成独立的纯评估工具对照组。 |
 > | **自适应系统与个性化（Adaptive Systems）**<br>+ **智能导学系统（ITS）** | **`Multi-type`（多类型综合平台与智能系统）** | $k = 14$（73.7%） | $ES = .66$ [.53, .79] | **二阶元分析数据打包约束** 一阶元分析普遍将自适应平台、智能导师与推荐系统混合综述，无法向下解构，故统合编码为多类型综合组。 |
 > | **新兴交互形态（NLP / 大语言模型扩展）** | **`Chatbots`（智能对话机器人与代理）** | $k = 4$（21.1%） | $ES = .74$ [.49, .98] | 近年以 ChatGPT、Dialogflow 为代表的对话系统呈爆发式增长，一阶文献中出现了 4 项专属综述，因而独立成组。 |
 > | **画像与预测（Profiling & Prediction）** | *（依准入标准排除）* | $k = 0$（0%） | — | 涉及学业风险与辍学预测的 FOM 偏离了本研究关注的“课堂教学干预与学习成效”标准，在文献筛选阶段被系统排除。 |
@@ -241,7 +245,7 @@ issuing_organization: ""
 > 现有 AI 教育一阶[[Meta-analysis\|元分析]]由于[[Research Scope\|研究范围]]差异、学科聚焦局限及方法学决策不同，导致宏观[[Effect Size\|效应量]]在微弱正向（$ES = .32$）至极高正向（$ES = 1.36$）之间剧烈震荡；必须通过严密的 [[PRISMA]] 2020 流程进行系统检索与准入筛选，以建立高质量[[Meta-meta-analysis\|二阶元分析]]数据集。
 
 > [!chain-link] 证据到判断
-> - **证据一：检索规模与初步过滤** 五大数据库（WoS、Scopus、[[Education Resources Information Center\|ERIC]]、Academic Search Ultimate、ProQuest）双组关键词配对检索共获得 4,558 篇初始记录；在去除跨数据库重复文献（$n = 37$）并剔除 2 篇无法获取全文的付费墙文献后，依据 Table 1 标准初步确定 35 篇潜在 FOM 进行全文精读。
+> - **证据一：检索规模与初步过滤** 五大数据库（[[Web of Science|WoS]]、[[Scopus]]、[[Education Resources Information Center\|ERIC]]、Academic Search Ultimate、ProQuest）双组关键词配对检索共获得 4,558 篇初始记录；在去除跨数据库重复文献（$n = 37$）并剔除 2 篇无法获取全文的付费墙文献后，依据 Table 1 标准初步确定 35 篇潜在 FOM 进行全文精读。
 > - **证据二：排除原因与证据流向** 进一步排除 16 篇不合格文献，具体排除原因为：考察 AI 使用影响因素而非学习成果（$n = 2$）、仅调查对 AI 的态度与焦虑压力（$n = 2$）、预测辍学风险（$n = 1$）、AI 知识本身的教学（$n = 2$）、测试 AI 答题准确率而非学生表现（$n = 3$），以及初级研究严重重叠（$n = 6$）。
 > - **证据三：最终数据集构成** 最终纳入 19 项独立一阶元分析，时间跨越 2020 至 2025 年，全面覆盖[[Academic Achievement\|学业成就]]与[[Higher-Order Thinking Skills\|高阶思维]]，奠定了宏观二阶综合的数据底座。
 
@@ -290,7 +294,7 @@ issuing_organization: ""
 > | **García-Martínez et al. (2023)** | 25 | .72 | 0.43 | 1.01 | 计算机科学（Com. Sci） | 综合成果（Combined） | 多类型（Multi-type） | K12 与高等教育 | 高偏倚（Large） | 2010–2020 | 未报告（Not） | 高质量（High） |
 > | **Wu (2024)** | 49 | .98 | 0.75 | 1.21 | 语言（Language） | 综合成果（Combined） | 多类型（Multi-type） | K12 与高等教育 | 低偏倚（Low） | 2013–2024 | 6,434 | 高质量（High） |
 > | **[[Argument_Liu_2025_IndHE\|Liu et al. (2025)]]** | 25 | .97 | 0.76 | 1.18 | 语言（Language） | 综合成果（Combined） | 聊天机器人（Chatbots） | K12 与高等教育 | 无偏倚（No） | 2022–2024 | 4,179 | 高质量（High） |
-> | **Chen et al. (2025)** | 25 | .39 | 0.01 | 0.77 | 语言（Language） | 学业成就（A. Ach） | 评估工具（AI assessment） | K12 | 无偏倚（No） | 2012–2024 | 2,523 | 高质量（High） |
+> | **[[Argument_Chen_2025_HSSC\|Chen et al. (2025)]]** | 25 | .39 | 0.01 | 0.77 | 语言（Language） | 学业成就（A. Ach） | 评估工具（AI assessment） | K12 | 无偏倚（No） | 2012–2024 | 2,523 | 高质量（High） |
 > | **Wu and Li (2024)** | 21 | .65 | 0.41 | 0.89 | 语言（Language） | 学业成就（A. Ach） | 聊天机器人（Chatbots） | K12 与高等教育 | 无偏倚（No） | 2008–2023 | 1,232 | 高质量（High） |
 > | **Wang et al. (2024)** | 45 | .70 | 0.49 | 0.90 | 多学科（Multi-field） | 综合成果（Combined） | 多类型（Multi-type） | K12 与高等教育 | 无偏倚（No） | 2010–2022 | 3,750 | 高质量（High） |
 > | **Zhang et al. (2024)** | 29 | .59 | 0.35 | 0.83 | 多学科（Multi-field） | 综合成果（Combined） | 聊天机器人（Chatbots） | K12 | 高偏倚（Large） | 1994–2023 | 残障学生（Students with Disabilities, SWD） | 中等质量（Medium） |
@@ -450,7 +454,7 @@ issuing_organization: ""
 > [!stat-cards]- 核心统计数据与[[Interaction Effect\|调节效应]]矩阵
 > - **$ES = .67$** 总体二阶合并效应量，95% CI [.55, .78]
 > - **$I^2 = 84.78\%$** 数据集总体[[Heterogeneity\|异质性]]比例
-> - **$Q(18) = 118.26$** 总体同质性检验统计量，$p < .001$
+> - **$Q(18) = 118.26$** 总体[[Homophily|同质性]]检验统计量，$p < .001$
 > - **$ES = .40$ vs $.73$** K12 阶段与混合学段效应量对比（$p = .01$）
 > - **$ES = .99$ vs $.34$** 计算机科学与数学学科效应量对比（$p = .04$）
 > - **$\text{Coef.} = .01$** 初级研究数量 $n$ 对效应量的[[Meta-regression\|元回归]]正向预测系数（$p = .01$）

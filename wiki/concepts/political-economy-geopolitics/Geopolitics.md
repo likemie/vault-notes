@@ -11,9 +11,9 @@ aliases:
 summary: "探讨地理空间、权力运作与国际秩序构建相互关系的政治学与政治地理学核心概念及分析视角，涵盖物质—实践端的古典领土博弈范式、观念—科学端的新地缘与批判地缘范式，并在当代跨国高等教育与科技竞争中体现为制度性知识权力与全球空间秩序的争夺。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 65
-related_level: 6
-related_stars: "💎💎"
+related_count: 73
+related_level: 7
+related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - concept/political-economy-geopolitics
@@ -27,8 +27,10 @@ related_concepts:
   - "[[New Geopolitics]]"
   - "[[Discourse]]"
   - "[[Knowledge Production]]"
+  - "[[Transnational Education]]"
   - "[[Space Production]]"
   - "[[Geopolitics of Higher Education]]"
+  - "[[Scientific Mobility]]"
   - "[[Ontology]]"
   - "[[Theoretical Standpoint]]"
   - "[[Constructivist Paradigm]]"
@@ -54,11 +56,14 @@ related_concepts:
   - "[[Securitization of Technology]]"
   - "[[Unit of Analysis]]"
   - "[[Research Security]]"
+  - "[[Nationalism]]"
   - "[[Competitiveness]]"
   - "[[Geopolitical Subject]]"
   - "[[Outward-Oriented Internationalization]]"
   - "[[Variable]]"
   - "[[Public Diplomacy]]"
+  - "[[Study Abroad]]"
+  - "[[Academic Freedom]]"
   - "[[Open-Mindedness]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
@@ -74,6 +79,7 @@ related_persons:
   - "[[Sotiria Grek]]"
   - "[[Confucius]]"
 related_facts:
+  - "[[Web of Science]]"
   - "[[EU]]"
   - "[[European Commission]]"
   - "[[Confucius Institute]]"
@@ -82,6 +88,7 @@ related_facts:
   - "[[ASEAN]]"
   - "[[European Association for Quality Assurance in Higher Education]]"
   - "[[Xiamen University Malaysia]]"
+  - "[[Sputnik Shock 1957]]"
   - "[[European Education Area]]"
 related_arguments:
   - "[[Argument_Yu_Xie_2025_JHE]]"
@@ -93,20 +100,21 @@ related_arguments:
   - "[[Argument_Rizvi_2022_Springer]]"
   - "[[Argument_Custer_2021_AidData]]"
   - "[[Argument_Velasco_2022_CSJ]]"
+  - "[[Argument_Yang_2017_MUE]]"
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Geopolitics
-> 地缘政治（Geopolitics）是研究地理空间、权力运作与国际秩序构建相互关系的政治学与政治地理学核心概念及分析视角。在词源与演化谱系上，该概念由瑞典学者鲁道夫·契伦（Rudolf Kjellén）于 1899 年提出，涵盖处于物质—实践端的[[Classical Geopolitics|古典地缘政治]]（聚焦主权国家对领土、战略通道与资源的物理控制及[[Hard Power|硬实力]]博弈）以及处于观念—科学端的[[New Geopolitics|新地缘政治]]与[[Critical Geopolitics|批判地缘政治]]（聚焦空间的[[Discourse|话语]]建构、[[Knowledge Production|知识生产]]、制度规程与象征秩序）。在当代跨国高等教育治理与全球科技竞争中，地缘政治表现为国家借助学术体系、人才流动与知识联盟争夺全球空间治理主导权与制度性话语权的战略实践。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 3–4, 11–13)]]；[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1697)]]
+> 地缘政治（Geopolitics）是研究地理空间、权力运作与国际秩序构建相互关系的政治学与政治地理学核心概念及分析视角。在词源与演化谱系上，该概念由瑞典学者鲁道夫·契伦（Rudolf Kjellén）于 1899 年提出，涵盖处于物质—实践端的[[Classical Geopolitics|古典地缘政治]]（聚焦主权国家对领土、战略通道与资源的物理控制及[[Hard Power|硬实力]]博弈）以及处于观念—科学端的[[New Geopolitics|新地缘政治]]与[[Critical Geopolitics|批判地缘政治]]（聚焦空间的[[Discourse|话语]]建构、[[Knowledge Production|知识生产]]、制度规程与象征秩序）。在当代[[Transnational Education|跨国高等教育]]治理与全球科技竞争中，地缘政治表现为国家借助学术体系、人才流动与知识联盟争夺全球空间治理主导权与制度性话语权的战略实践。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 3–4, 11–13)]]；[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1697)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向地理空间与权力关系的互动机制，既包括物理领土与战略通道的竞争控制，也包括依托制度、话语和象征体系对全球空间秩序的生产与规范。
-> - **用途** 帮助研究者透视国家安全防卫、对外战略拓展以及跨国科研合作背后的权力配置机制，揭示高等教育与科学网络在塑造全球地缘政治格局中的战略功能。
+> - **用途** 帮助研究者透视国家安全防卫、对外战略拓展以及跨国科研合作背后的权力配置机制，揭示高等教育与[[Web of Science|科学网]]络在塑造全球地缘政治格局中的战略功能。
 > - **边界** 适用于解释具有权力界定、安全博弈或空间秩序建构意图的跨国互动，不适用于纯粹微观的人格心理机制分析，亦不宜泛化为解释所有常规文化交流与日常校际行政往来的唯一万能视角。
 
 > [!citation-card] 空间、权力与地缘政治的本体转向
@@ -117,7 +125,7 @@ updated: 2026-11-04
 > [!boundary]- 概念边界
 > - 区别于 政治地理学（Political Geography） 政治地理学是一门研究政治过程与地理环境空间分布相互作用的广泛学科分支；地缘政治更侧重考察国家安全、大国竞争战略以及跨国空间秩序建构中的权力运作逻辑。
 > - 区别于 国际关系现实主义 现实主义聚焦无政府状态下主权国家基于物质军事实力的生存自助与权力平衡，常将空间简化为均匀平面的博弈背景；地缘政治将空间本身的物质形态、地理区位与[[Space Production|空间生产]]过程视作权力博弈的内生构成要素。
-> - 区别于 [[Geopolitics of Higher Education|高等教育地缘政治]] 地缘政治是宏观政治学与空间理论的元概念；高等教育地缘政治是将该视角运用于分析高等教育系统、学术流动与跨国大学联盟的中观衍生领域。
+> - 区别于 [[Geopolitics of Higher Education|高等教育地缘政治]] 地缘政治是宏观政治学与空间理论的元概念；高等教育地缘政治是将该视角运用于分析高等教育系统、[[Scientific Mobility|学术流动]]与跨国大学联盟的中观衍生领域。
 
 ---
 
@@ -230,7 +238,7 @@ updated: 2026-11-04
 > > 科技哲学与比较教育学探讨科学知识究竟应作为无国界的普世人类公物自由扩散，还是应作为战略资产实施严格的国家边境管控。
 > >
 > > - **[[Argument_Marginson_2025_ECNUROE|Marginson (2025)]]** 主张全球科学系统具有相对自主的水平合作网络特征，过度将[[Research Security|科研安全]]化将损害全人类共同知识进步。[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, pp. 10–13)]]
-> > - **技术民族主义学者** 强调核心技术直接关涉国家生死存亡与产业[[Competitiveness|竞争力]]，在科技竞争常态化背景下必须建立严格的技术边境与排他性安全审查。
+> > - **技术[[Nationalism|民族主义]]学者** 强调核心技术直接关涉国家生死存亡与产业[[Competitiveness|竞争力]]，在科技竞争常态化背景下必须建立严格的技术边境与排他性安全审查。
 
 > [!critique] 批评索引
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 批判[[Classical Geopolitics|古典地缘政治]]陷入国家中心主义的“领土陷阱”，指出其忽视微观教育实践在生产[[Geopolitical Subject|地缘政治主体]]认同中的关键机制。
@@ -249,8 +257,8 @@ updated: 2026-11-04
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] | 南亚与中亚 13 国[[Public Diplomacy\|公共外交]]与地缘安全审查（2000–2021 年） | 跨国[[Mixed Methods Research\|混合方法]]评估与案例[[Audit Trail\|审查追踪]] | 文化中心在各国内陆分布、涉华高教备忘录安全审查数量及外语政策调整 | 设立 65 所文化交流机构（孔子学院等），落后于美国（92 所）但领先于俄罗斯（32 所）；印度因边境冲突对 7 所孔院及 54 项高校合作备忘录启动安全审查，并在 NEP 2020 中剔除中文 | — | 聚焦南亚与中亚地缘断层线，反映主权安全冲突对跨国教育制度合作的阻断效应 |
-> | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | 东南亚在华留学生群体、东盟 31 所孔院与境外分校案例 | 跨国高教外交政策追踪与地缘安全案例分析 | 留学生规模、孔院嵌入模式及地缘安全制约 | 2018 年东南亚在华留学生约 8 万人；设立 31 所孔院与[[Xiamen University Malaysia\|厦大马校]]等；专业学术吸引与南海主权争议安全防范并存 | — | 聚焦东南亚地缘弧，揭示核心领土主权争端对跨国高教合作政治互信转化的刚性约束 |
-| [[Argument_Yang_2017_MUE\|杨九斌 (2017, pp. 36–39)]] | 1945–1978 年冷战背景下美国联邦大学科研资助政策演进 | 历史制度与政策追踪 | 联邦资助占高校科研总收入比例变迁、地缘周期对预算的调控 | 联邦资助占大学科研收入比例由 1953 年的 54.6% 攀升至 1963 年的 68% 与 1970 年的 69.7%；1968 年因越战危机与财政紧缩发生首度断崖式削减 | 揭示大学基础研究繁荣与学术自由高度依附于冷战科技争霸的地缘周期波动 |
+> | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | 东南亚在华[[Study Abroad\|留学]]生群体、东盟 31 所孔院与境外分校案例 | 跨国高教外交政策追踪与地缘安全案例分析 | 留学生规模、孔院嵌入模式及地缘安全制约 | 2018 年东南亚在华留学生约 8 万人；设立 31 所孔院与[[Xiamen University Malaysia\|厦大马校]]等；专业学术吸引与南海主权争议安全防范并存 | — | 聚焦东南亚地缘弧，揭示核心领土主权争端对跨国高教合作政治互信转化的刚性约束 |
+| [[Argument_Yang_2017_MUE\|杨九斌 (2017, pp. 36–39)]] | 1945–1978 年冷战背景下美国联邦大学科研资助政策演进 | 历史制度与政策追踪 | 联邦资助占高校科研总收入比例变迁、地缘周期对预算的调控 | 联邦资助占大学科研收入比例由 1953 年的 54.6% 攀升至 1963 年的 68% 与 1970 年的 69.7%；1968 年因越战危机与财政紧缩发生首度断崖式削减 | 揭示大学基础研究繁荣与[[Academic Freedom\|学术自由]]高度依附于冷战科技争霸的地缘周期波动 |
 
 ---
 
@@ -270,7 +278,7 @@ updated: 2026-11-04
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Yang_2017_MUE|杨九斌 (2017)]] — 从冷战地缘博弈与国家安全焦虑演进视角，系统剖析苏联卫星危机前后美国大学科研资助政策的博弈转型，揭示学术自由黄金时代高度受制于冷战地缘周期的历史脆弱性（pp. 35–39）。
+> - [[Argument_Yang_2017_MUE|杨九斌 (2017)]] — 从冷战地缘博弈与国家安全焦虑演进视角，系统剖析[[Sputnik Shock 1957|苏联卫星危机]]前后美国大学科研资助政策的博弈转型，揭示学术自由黄金时代高度受制于冷战地缘周期的历史脆弱性（pp. 35–39）。
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 系统梳理[[Geopolitics of Higher Education|高等教育地缘政治]]视角的发展谱系，阐释从[[Classical Geopolitics|古典地缘政治]]到批判[[New Geopolitics|新地缘政治]]的[[Ontology|本体论]]分化与互补机制。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 结合跨国大学联盟实践，辨析地缘政治视角下的[[Knowledge Power|知识权力]]构建同[[Developmentalism|发展主义]]视角下的[[Knowledge Diplomacy|知识外交]]合作。
 > - [[Argument_Moisio_2022_Springer|Moisio (2022)]] — 论述古典硬领土控制逻辑与当代[[Knowledge-Based Economization|知识经济化]]进程的共构演进，解析科技竞争中的势力范围重组。

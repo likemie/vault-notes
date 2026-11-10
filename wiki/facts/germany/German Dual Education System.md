@@ -32,6 +32,7 @@ related_concepts:
   - "[[Market Failure]]"
   - "[[Champ]]"
   - "[[General Education]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Tacit Knowledge]]"
   - "[[Technology Transfer]]"
   - "[[Research Universities]]"
@@ -40,7 +41,6 @@ related_concepts:
   - "[[Institutional Complementarity]]"
   - "[[National Innovation System]]"
   - "[[Process Knowledge]]"
-  - "[[Document]]"
 related_theories:
   - "[[Varieties of Capitalism]]"
   - "[[Developmental Network State]]"
@@ -59,7 +59,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-06-05
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -82,7 +82,7 @@ updated: 2026-11-02
 > - **双元[[Champ|场域]]（Dual Locations）** 学员身份兼具“学校学生”与“企业学徒”双重属性。通常每周 3–4 天在企业车间接受高级技师（Meister）的带徒实训，学习精密机床操作、工艺排障与装配技术；每周 1–2 天在职业学校接受专业理论与[[General Education|通识教育]]。
 > - **三方协同治理（Tripartite System）** 联邦与州政府负责出资保障公立职业学校教学；行业协会（工商业联合会（Industrie- und Handelskammer, IHK）、手工业联合会（Handwerkskammer, HWK））负责监督企业培训资质并组织全国统一的中期与结业资格考试；工会代表参与培训内容谈判，确保学徒津贴按年递增并保障工人权益。[[Argument_Block_2008_PS|(Block, 2008, p. 198)]]
 > - **独立高等职业教育体系** 德国打破了传统“职业教育等于蓝领断头桥”的偏见，建立了贯通“专业学士”（Bachelor Professional）、“专业硕士”（Master Professional）乃至“专业博士”的独立高等职业教育学位序列，与普通学术高等教育具有同等法定地位。
-> - **校企无缝对接与高留存机制** 约 90% 的理工科应用型研究生直接在企业研发与生产现场完成毕业学位论文；约 80% 的双元制毕业学员在通过国家考试后直接留在签约培训企业转正就业，极大降低了产业界的搜寻匹配与摩擦性失业成本。
+> - **校企无缝对接与高留存机制** 约 90% 的理工科应用型研究生直接在企业研发与生产现场完成毕业[[Doctoral Dissertation|学位论文]]；约 80% 的双元制毕业学员在通过国家考试后直接留在签约培训企业转正就业，极大降低了产业界的搜寻匹配与摩擦性失业成本。
 
 > [!citation-card] [[Fred Block|布洛克]]论三方协同技能体系与美国模式的反差
 > 美国的一些竞争对手建立起政府、工会与企业三方协同合作体系，以此组织针对生产工人技能发展的超大规模投资。美国对这一发展型政策关键维度的长期漠视是一项重大体制缺陷，极大地削弱了其其他科技创新举措的实效。[[Argument_Block_2008_PS|(Block, 2008, p. 198)]]

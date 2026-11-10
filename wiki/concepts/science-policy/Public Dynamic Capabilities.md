@@ -9,7 +9,7 @@ aliases:
 summary: "指公共机构在面对高度不确定性与重大社会挑战时，识别前沿方向、协调跨部门资源、进行实验试错并实现制度化反思学习的组织能力；强调建立内部专业研判能力以抵御外部咨询机构带来的去能力化风险。"
 type: concept
 domain: "science-policy"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -48,6 +48,7 @@ related_persons:
   - "[[Rainer Kattel]]"
   - "[[Mariana Mazzucato]]"
   - "[[Joseph Schumpeter]]"
+  - "[[Ben Levin]]"
 related_facts:
   - "[[DARPA]]"
   - "[[Investing in Innovation Program]]"
@@ -62,7 +63,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -96,7 +97,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜公共部门动态能力是两种学术传统在[[Evolutionary Economics|演化经济学]]视阈下的理论综合
-> **解释** 既有研究长期存在两套割裂的传统：一是探讨企业在不确定环境中如何兼顾利用现有优势与探索未来机会的[[Joseph Schumpeter|熊彼特]]式双元动态能力传统（Teece & Pisano, 1994; March, 1991）；二是聚焦官僚功绩制与[[Embedded Autonomy|嵌入式自主性]]的韦伯式国家能力传统（Evans & Rauch, 1999; Johnson, 1982）。[[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]将二者综合为公共部门动态能力：动态能力是存在于国家、政策与行政各层级能力内部的技能与例规，而包含媒体、选民、利益集团与制度制衡在内的社会政治反馈机制构成了能力演进的选择环境。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–797)]]
+> **解释** 既有研究长期存在两套割裂的传统：一是探讨企业在不确定环境中如何兼顾利用现有优势与探索未来机会的[[Joseph Schumpeter|熊彼特]]式双元动态能力传统（Teece & Pisano, 1994; March, 1991）；二是聚焦官僚功绩制与[[Embedded Autonomy|嵌入式自主性]]的韦伯式国家能力传统（Evans & Rauch, 1999; Johnson, 1982）。卡特尔与[[Mariana Mazzucato|马祖卡托]]将二者综合为公共部门动态能力：动态能力是存在于国家、政策与行政各层级能力内部的技能与例规，而包含媒体、选民、利益集团与制度制衡在内的社会政治反馈机制构成了能力演进的选择环境。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–797)]]
 
 > [!concept-proposition] 命题二｜公共部门动态能力是克服传统科层僵化与被动市场修复的组织根基
 > **解释** 传统新古典[[Market Failure|市场失灵理论]]预设公共部门只能在市场出现外部性或公共品短缺时进行消极修补，导致政府能力被系统性限缩为合规性行政管理。面对21世纪复杂的[[Grand Challenges|重大挑战]]，唯有当公共机构建立起涵盖方向设定、敏捷探索与战略投资的动态能力体系，国家才能真正摆脱被动补贴者的角色，成长为有能力主动引领社会技术系统转型的企业型国家。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 808)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–788)]]
@@ -105,7 +106,7 @@ updated: 2026-11-02
 > **解释** 自 1980 年代[[New Public Management|新公共管理]]运动以来，欧美多国政府与公立大学将战略规划、数字化转型与绩效评估大规模外包给麦肯锡、波士顿等私营管理咨询公司，催生了所谓的[[Consultocracy|顾问统治]]（Consultocracy）。这种外包不仅耗费了巨额公共财政，更剥离了公共部门内生解决问题的实践机会，导致公共管理者丧失战略决断与技术研判能力，陷入组织[[Cognitive Deskilling|去技能化]]（De-skilling）与治理空心化的恶性循环。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 808)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 791–792)]]
 
 > [!concept-proposition] 命题四｜机构学习与[[Absorptive Capacity|吸收能力]]构建是公共部门在探索试错中沉淀组织记忆的关键
-> **解释** 公共机构并非静态的规则执行机器，而是一个在投资、发现与实验中持续演进的学习型系统。正如科恩与莱文萨尔（Cohen & Levinthal, 1990）及约翰逊（Johnson, 1992）所强调的，[[Absorptive Capacity|吸收能力]]与机构学习构成了组织应对外部环境变化的中枢。公共机构唯有亲自参与高风险前沿项目的论证与全周期管理，才能在失败与成功中积累深厚的技术鉴别力与危机应对经验。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 808)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 797–798)]]
+> **解释** 公共机构并非静态的规则执行机器，而是一个在投资、发现与实验中持续演进的学习型系统。正如科恩与[[Ben Levin|莱文]]萨尔（Cohen & Levinthal, 1990）及约翰逊（Johnson, 1992）所强调的，[[Absorptive Capacity|吸收能力]]与机构学习构成了组织应对外部环境变化的中枢。公共机构唯有亲自参与高风险前沿项目的论证与全周期管理，才能在失败与成功中积累深厚的技术鉴别力与危机应对经验。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 808)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 797–798)]]
 
 > [!concept-proposition] 命题五｜使命型公共组织通过前沿挑战塑造成为吸引和培育顶尖拔尖人才的引力场
 > **解释** 当公共机构（如 [[DARPA]]、[[National Aeronautics and Space Administration|NASA]]、[[National Institutes of Health|NIH]]）致力于开辟前沿技术疆界并解决人类重大生存难题时，其崇高的公共使命与浓厚的探索氛围能够赋予工作极高的社会荣誉感与智力挑战性，从而在与高薪私营部门的竞争中胜出，成为吸引、锻炼并源源不断向全社会输送顶尖科学家与战略管理人才的卓越孵化平台。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 806)]]
@@ -116,7 +117,7 @@ updated: 2026-11-02
 >
 > - **第一阶段（1997 年）：私营企业动态能力理论奠基** 戴维·蒂斯（David Teece）等提出动态能力理论（Dynamic Capabilities），强调私营企业在快速变化环境中感知、捕获并转化资产以维系竞争优势的能力。
 > - **第二阶段（2000 年代至 2010 年代初）：[[New Public Management|新公共管理]]反思与公共能力缺失** 随着金融危机与外包弊端暴露，学者们开始反思将政府降格为被动监管者的做法，指出新公共管理导致公共部门丧失了应对系统性风险的内生能力。
-> - **第三阶段（2018 年至今）：使命导向公共部门动态能力确立** 莱纳·[[Rainer Kattel|卡特尔]]与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]在《工业与企业变革》专刊中系统将动态能力引入公共治理，奠定涵盖国家合法性、政策协调与行政敏捷性的动态能力理论，并提出从“支持与衡量”转向[[Lead-and-Learn Paradigm|引领与学习范式]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–801)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
+> - **第三阶段（2018 年至今）：使命导向公共部门动态能力确立** 莱纳·卡特尔与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]在《工业与企业变革》专刊中系统将动态能力引入公共治理，奠定涵盖国家合法性、政策协调与行政敏捷性的动态能力理论，并提出从“支持与衡量”转向[[Lead-and-Learn Paradigm|引领与学习范式]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–801)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
 
 ---
 

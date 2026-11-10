@@ -7,7 +7,7 @@ summary: "英国资深教育政策学者与教师工会战略家，剑桥大学�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 33
+person_related_count: 34
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ tags:
   - theme/evidence-informed-policy
   - theme/social-dialogue
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[International Education]]"
   - "[[Teacher Professional Agency]]"
   - "[[New Public Management]]"
@@ -65,14 +66,14 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国教育政策学者、教师劳工战略家；剑桥大学教育学院高级研究员（Senior Research Associate）、前全英教师联合会（National Union of Teachers, NUT）教育与平等事务部负责人；现任[[Education International\|国际教育协会]]（Education International, EI）特别顾问。
-> - **核心角色** 全球教师专业组织介入跨国教育证据治理的奠基人；[[International Summits on the Teaching Profession\|国际教师职业峰会]]（ISTP）核心发起人兼联合主席；致力于打破新自由主义官僚对教育决策的排他性垄断，搭建部级高官与教师工会基于实证研究展开闭门平等协商的跨国机制。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 209–213)]]
+> - **核心角色** 全球教师专业组织介入[[Transnational Education|跨国教育]]证据治理的奠基人；[[International Summits on the Teaching Profession\|国际教师职业峰会]]（ISTP）核心发起人兼联合主席；致力于打破新自由主义官僚对教育决策的排他性垄断，搭建部级高官与教师工会基于实证研究展开闭门平等协商的跨国机制。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 209–213)]]
 > - **代表贡献** 推动设立[[International Summits on the Teaching Profession\|国际教师职业峰会]]（ISTP）；促成在[[OECD\|经合组织]]大型调查中确立工会的数据共同所有权原则；主导向[[Teaching and Learning International Survey\|教师教学国际调查]]（TALIS）反向注入教师工作压力与分布式领导力量表。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–212)]]
 
 > [!citation-card] 人物定位的关键来源

@@ -5,7 +5,7 @@ aliases:
 summary: "行动者通过动员科技与隐性知识、建立知识领导力并重塑全球治理关系与制度语境的行动能力。在高等教育地缘政治中体现为国家依托多边学术联盟辐射知识治理模式，在跨国政策流动中展现为全球南方源于本土扎根与道义团结的代表性知识对北方技术专长垄断的挑战与反向扩散。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Open-Mindedness]]"
   - "[[Seed Funding]]"
+  - "[[Scientific Mobility]]"
   - "[[Epistemic Governance]]"
   - "[[Research Universities]]"
   - "[[Representational Knowledge]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-10-19
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -95,7 +96,7 @@ updated: 2026-11-03
 
 > [!feature] 知识权力的构成要素
 > - **知识领导力诉求** 行动者将自身高等教育机构、前沿科研平台与优质教育资源转化为关键治理资源，旨在让国际伙伴认可其潜在或现实的知识引领地位。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
-> - **不对称影响力的培育** 借助定向科研资助、旗舰学术流动项目与制度性平台，在多边合作中逐步积累战略信誉，推进着眼长期演进的制度博弈。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
+> - **不对称影响力的培育** 借助定向科研资助、旗舰[[Scientific Mobility|学术流动]]项目与制度性平台，在多边合作中逐步积累战略信誉，推进着眼长期演进的制度博弈。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
 > - **精英化准入与议程设定** 优先联合区域内综合声誉顶尖的旗舰高校，通过限制成员规模、同行举荐准入与闭门战略协商，确保多边行动始终围绕核心议题推进。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1700)]]
 
 ---

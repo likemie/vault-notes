@@ -8,7 +8,7 @@ summary: "新西兰教育统计学家，著有 Visible Learning，是元分析�
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 161
+person_related_count: 164
 person_related_level: 16
 person_related_stars: "💎💎💎💎💎⭐"
 person_related_color: "#fef3c7"
@@ -79,12 +79,13 @@ related_concepts:
   - "[[Document]]"
   - "[[Web-Based Learning]]"
   - "[[Category Mistake]]"
+  - "[[Homophily]]"
   - "[[PICO Framework]]"
   - "[[Whole Language]]"
   - "[[Educational Management Organisation]]"
   - "[[Dual-Entity Legal Structure]]"
-  - "[[Screening Off]]"
   - "[[Creativity]]"
+  - "[[Side Effects]]"
   - "[[Didaktik]]"
   - "[[Variable]]"
   - "[[Socioeconomic Status]]"
@@ -115,6 +116,7 @@ related_methods:
   - "[[Common Language Effect Size]]"
   - "[[Standard Error]]"
   - "[[Random-Effects Model]]"
+  - "[[Statistical Significance]]"
   - "[[Sample Size Determination]]"
   - "[[Confidence Interval]]"
   - "[[Intraclass Correlation Coefficient]]"
@@ -184,6 +186,7 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[Visible Learning Branding and Global Influences]]"
+  - "[[Dimensions]]"
   - "[[COACTIV]]"
   - "[[OECD]]"
 related_instruments:
@@ -192,7 +195,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -323,7 +326,7 @@ updated: 2026-11-10
 > [!citation-card] 特哈特论终结教学圣杯神话与修补金字塔隐喻
 > 既然他的超级分析同时支持了[[Stability vs. Variability Dilemma|稳定性假说]]与变异性假说，显而易见的是，哈蒂事实上并没有找到研究学校、教学与教师的圣杯。与此相反，他正在极其辛劳地建造一座庞大的金字塔：一方面，它稳固矗立，已经具有相当的宽度与高度以及相对稳定的形态，自然无法被轻易搬移；但另一方面，这座金字塔的某些部分在不断被修复，而且最重要的是，在所有维度上不断被扩建。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 436–437)]]
 >
-> *Since his mega-analysis supports the stability and the variability [[Hypothesis|hypotheses]] as well, it is obvious that Hattie in fact has not found the Holy Grail of research on schooling, teaching, and teachers. Instead of this he intensely labours on a very large pyramid, which on the one hand is firmly placed, already has a considerable width and height and a rather stable form... However, on the other hand, the pyramid is constantly restored in some parts and—above all—constantly extended in all its dimensions.*
+> *Since his mega-analysis supports the stability and the variability [[Hypothesis|hypotheses]] as well, it is obvious that Hattie in fact has not found the Holy Grail of research on schooling, teaching, and teachers. Instead of this he intensely labours on a very large pyramid, which on the one hand is firmly placed, already has a considerable width and height and a rather stable form... However, on the other hand, the pyramid is constantly restored in some parts and—above all—constantly extended in all its [[Dimensions|dimensions]].*
 
 > [!citation-card] 贝热隆与里瓦尔论脆弱纸牌屋与伪科学定性
 > 当以专业专家的眼光对《[[Visible Learning|可见的学习]]》展开必要的深入审视时，所见全无坚固城堡的结构，唯有一座迅速崩塌的脆弱纸牌屋。轻信哈蒂意味着在评估科学严谨性时存在[[Critical Thinking|批判性思维]]的盲点；推崇其工作不幸陷入了对伪科学的宣介；而在获知对其方法论的严肃批评后仍坚持为其辩护，则构成了蓄意的学术盲目。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, pp. 238–239)]]
@@ -366,7 +369,7 @@ updated: 2026-11-10
 > > - **[[Christof Wecker]] 等人** 依据两级[[Fixed-Effect Model|固定效应模型]]代数等价性（$D = \bar{d}, v_D = v_{\bar{d}}$）与六步规程严格审查，判定跨本体范畴的超级元分析在科学上不可行：
 > >   - *数据提取与权重失真*：混淆[[Standard Error|标准误]]与标准差使 Eisenstaedt 数据虚假放大十倍（$-0.80 \to -8.291$），依据离散度硬造伪标准误使[[Direct Instruction|直接教学]]权重被削减 53.5%；
 > >   - *[[Document|文献]]重叠导致效应量大幅缩减*：容忍 93.3% 文献重叠致[[Web-Based Learning|网络学习]][[Effect Size|效应量]]暴跌并跌破关节点（$0.59 \to 0.23$，排名由 26 跌至 98）；
-> >   - *模型错配与[[Category Mistake|德甲联赛隐喻]]*：面临一级同质性假设破产与二级[[Random-Effects Model|随机效应]]样本不足的双重错配，138 个跨本体范畴因素的比较犯了[[Category Mistake|范畴错误]]。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–34)]]
+> >   - *模型错配与[[Category Mistake|德甲联赛隐喻]]*：面临一级[[Homophily|同质性]]假设破产与二级[[Random-Effects Model|随机效应]]样本不足的双重错配，138 个跨本体范畴因素的比较犯了[[Category Mistake|范畴错误]]。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–34)]]
 > > - **Bergeron 与 Rivard** 从数理统计学底层开展专业审计，确证二阶元分析存在多重不可克服的数理失范，定性其为伪科学纸牌屋：
 > >   - *初等概率计算崩溃*：[[Common Language Effect Size|普通语言效应量]]（[[Common Language Effect Size|CLES]]）汇报出负概率与超过 100% 的概率，公然违背数学公理；
 > >   - *基线比较主观任意*：忽视相对测量本质，基线反转使[[Class Size|班级规模]]从微正（$d=+0.20$）变为有害（$d=-0.20$），混淆现实总体与已发表研究总体（“超市鱼子酱”隐喻）；
@@ -374,7 +377,7 @@ updated: 2026-11-10
 > >   - *相关换算极值发散*：$r \to d$ 换算在 $r \to 1$ 时急剧发散，仅需 $r=0.196$（仅解释 3.85% 方差）即可虚增至 $d=0.40$ [[Zone of Desired Effects|期望效应区]]，将横向相关包装为因果干预。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, pp. 237–246)]]
 > > - **Golovchin** 对 133 项正向效应量开展变差系数（$V_\sigma$）检验，发现总体变差系数高达 56.87%（学生特征 71.24%、学校环境 65.97%），证实效应量呈极端不均匀分布，$d=0.40$ 无法充当普遍有效的因果基准线。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 238–241)]]
 > > - **Kalmendal et al.** 开展针对全库 322 个影响因素的[[Preregistration|预注册]][[Metascience|元科学]]审计，证实仅 19% 满足 [[PICO Framework|PICO]] 纳入基准，仅 0.66%（2 项）可完全复现数据提取，44% 报告的效应量在所引文献中完全不存在，实证瓦解了聚合效应量的科学可[[Reliability|信度]]。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–19)]]
-> > - **Allerup 与 O'Connor** 指出排名缺乏显著性检验且[[Societies of Control|控制社会]]背景后边际效应骤降，[[Whole Language|全语言]]案例审查揭示出分类错误与先验偏见驱动的单向修正。[[Argument_Allerup_2015_Paideia|(Allerup, 2015)]]; [[Argument_OConnor_2020_AJLL|(O'Connor, 2020)]]
+> > - **Allerup 与 O'Connor** 指出排名缺乏[[Statistical Significance|显著性检验]]且[[Societies of Control|控制社会]]背景后边际效应骤降，[[Whole Language|全语言]]案例审查揭示出分类错误与先验偏见驱动的单向修正。[[Argument_Allerup_2015_Paideia|(Allerup, 2015)]]; [[Argument_OConnor_2020_AJLL|(O'Connor, 2020)]]
 > > - **Terhart 提出[[Stability vs. Variability Dilemma|双重困境模型]]** 针对二阶元分析的累加逻辑提出“稳定性假说与变异性假说”双重困境：[[Effective Teaching|有效教学]]因素仅能渐近逼近教科书已知常识而缺乏知识增量，特定关键领域又因文献陈旧被最新实证（如 [[COACTIV]] 证实教师专业知识关键性）推翻，论证巨型综合陷入了修补金字塔困境。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 436–437)]]
 >
 > > [!axis] 文化政治批判：[[Cult of the Guru|大师崇拜]]、[[Neo-Taylorism|新泰勒主义]]与[[Policy Brokerage|政策中介]]制度落差
@@ -385,10 +388,10 @@ updated: 2026-11-10
 > > - **Steiner-Khamsi et al.** 揭示跨国政策中介的制度落差：在北欧政策咨询网络中，专家咨询报告虽高频引用哈蒂，但在法定行政法令阶段被清洗过滤超 95%，个体学术明星威权远逊于 [[OECD]] 等跨国治理复合体。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 547–548)]]
 >
 > > [!axis] 教育哲学审视：[[Technical Rationality|技术理性]]、盲视框架与 [[Bildung]] 替代
-> > 质询技术理性在教育系统中的合法化功能，以及对潜隐性、历时性非外显学习维度的系统性[[Screening Off|屏蔽]]。
+> > 质询技术理性在教育系统中的合法化功能，以及对潜隐性、历时性非外显学习维度的系统性屏蔽。
 > >
 > > - **Nielsen 与 Klitmøller 以及 Rømer** 从[[Jürgen Habermas|哈贝马斯]][[Legitimation Crisis|合法化危机]]理论出发，指出《[[Visible Learning|可见的学习]]》之所以流行，在于其技术理性契合了教育行政系统的合法化需求而非凭借客观科学质量；批评评价理论篡位教育目的、[[Radical Constructivism|激进建构主义]]消解实质教学。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b)]]; [[Argument_Rømer_2018_EPT|(Rømer, 2018)]]
-> > - **Larsen 与 Zhao** 提出“观看盲视”（Blindness in Seeing）批判框架，强调主体的理解与教化具有潜在、历时与非线性特征，难以完全外显为即时测度指标，呼吁以 [[Bildung]]（教化）替代机械产出；警示直接教学（[[Discursive Institutionalism|DI]]）证据背后对[[Creativity|创造力]]与探索精神的副作用。[[Argument_Larsen_2019_EducSci|(Larsen, 2019)]]; [[Argument_Zhao_2017_JEC|(Zhao, 2017)]]
+> > - **Larsen 与 Zhao** 提出“观看盲视”（Blindness in Seeing）批判框架，强调主体的理解与教化具有潜在、历时与非线性特征，难以完全外显为即时测度指标，呼吁以 [[Bildung]]（教化）替代机械产出；警示直接教学（[[Discursive Institutionalism|DI]]）证据背后对[[Creativity|创造力]]与探索精神的[[Side Effects|副作用]]。[[Argument_Larsen_2019_EducSci|(Larsen, 2019)]]; [[Argument_Zhao_2017_JEC|(Zhao, 2017)]]
 > > - **Terhart 提出教学论实质与全景规训审视** 从德语区教学论（[[Didaktik]]）与教化传统指出，形式化学习模型抽空了学科教学内容的教育学意义；双向可见性模型在福柯视角下展现为将外显行政强制转化为内化自我监控的全景规训技术。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431, 434)]]
 
 

@@ -65,6 +65,7 @@ related_persons:
   - "[[Carl Bereiter]]"
 related_facts:
   - "[[COACTIV]]"
+  - "[[Dimensions]]"
 related_arguments:
   - "[[Argument_Snook_2010_NZJES]]"
 sources:
@@ -72,14 +73,14 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Terhart_2011_JCS"
 argument_key: "Argument_Terhart_2011_JCS"
 argument_display_title: "Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -287,7 +288,7 @@ journal: "Journal of Curriculum Studies"
 > [!citation-card] 特哈特论未找到教学圣杯与修补金字塔隐喻
 > 既然他的超级分析同时支持了[[Stability vs. Variability Dilemma|稳定性假说]]与变异性假说，显而易见的是，哈蒂事实上并没有找到研究学校、教学与教师的圣杯。与此相反，他正在极其辛劳地建造一座庞大的金字塔：一方面，它稳固矗立，已经具有相当的宽度与高度以及相对稳定的形态，自然无法被轻易搬移；但另一方面，这座金字塔的某些部分在不断被修复，而且最重要的是，在所有维度上不断被扩建。
 >
-> *Since his mega-analysis supports the stability and the variability [[Hypothesis|hypotheses]] as well, it is obvious that Hattie in fact has not found the Holy Grail of research on schooling, teaching, and teachers. Instead of this he intensely labours on a very large pyramid, which on the one hand is firmly placed, already has a considerable width and height and a rather stable form. Of course it cannot be removed from its place. However, on the other hand, the pyramid is constantly restored in some parts and—above all—constantly extended in all its dimensions.*
+> *Since his mega-analysis supports the stability and the variability [[Hypothesis|hypotheses]] as well, it is obvious that Hattie in fact has not found the Holy Grail of research on schooling, teaching, and teachers. Instead of this he intensely labours on a very large pyramid, which on the one hand is firmly placed, already has a considerable width and height and a rather stable form. Of course it cannot be removed from its place. However, on the other hand, the pyramid is constantly restored in some parts and—above all—constantly extended in all its [[Dimensions|dimensions]].*
 
 ---
 

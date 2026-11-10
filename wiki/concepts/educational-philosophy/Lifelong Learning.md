@@ -7,7 +7,7 @@ aliases:
 summary: "指贯穿个体全生命周期的持续性、适应性与累积性学习过程。在人本主义视阈下涵盖支撑健康、理性协商与社会文化基础设施的全人发展生态；在经合组织等主导的知识经济与学习型经济中，则被重塑为应对知识快速折旧、以掌握实践诀窍（knowing how）为核心的生产力生存命令与可测倾向。"
 type: concept
 domain: "educational-philosophy"
-related_count: 98
+related_count: 99
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -65,6 +65,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Socioeconomic Status]]"
   - "[[Variable]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[International Education]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
@@ -125,7 +126,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -321,7 +322,7 @@ updated: 2026-11-03
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 揭示终身学习作为核心认知理念在欧洲教育区战略重构中的制度韧性，阐明欧盟委员会试图以“包容”替代终身学习的认知转向为何遭致欧盟理事会与成员国的普遍抵制与纠偏。
 > - [[Argument_Yan_2025_JCS|Yan and Morris (2025)]] — 深度剖析终身学习[[Discourse|话语]]在香港课程改革中的政策[[Externalization|外部化]]与修辞借用机制。
-> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 倡导面向全体公民的全生命周期[[Scientific Literacy|科学素养]]建设，以[[Data Literacy|数据素养]]与批判性 AI 素养重构跨人生阶段的基础素养支撑，并将[[Informal Science Learning|非正式科学学习]]场馆与社区参与网络确立为国家终身学习不可或缺的公共社会文化基础设施。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 倡导面向全体公民的全生命周期[[Scientific Literacy|科学素养]]建设，以[[Data Literacy|数据素养]]与批判性 AI 素养重构跨人生阶段的[[Foundational Literacy and Numeracy|基础素养]]支撑，并将[[Informal Science Learning|非正式科学学习]]场馆与社区参与网络确立为国家终身学习不可或缺的公共社会文化基础设施。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, p. 110)]] — 揭示终身学习在战后[[International Education|国际教育]]多边主义转型中的权力位移，分析[[UNESCO|联合国教科文组织]]人本主义终身教育构想如何在[[World Bank|世界银行]]等金融机构崛起中被新自由主义规训与[[Human Capital Theory|人力资本]]导向所取代。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009, pp. 362–363)]] — 批判性揭示欧洲终身学习计划（LLP）如何将跨国流动性（[[Student Mobility|学生流动性]]）工具化整合为个体生存技能，将劳动力市场结构性动荡风险个体化为维持终身流动的个人问责，展现超国家空间[[Governmentality|治理术]]对个体主体性的塑造。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 445–447)]] — 阐明[[OECD|经合组织]]如何借由学习型经济理论将终身学习重构为应对知识折旧的经济命令，并依托 [[PISA]] 测查学生的终身学习倾向。

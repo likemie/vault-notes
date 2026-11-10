@@ -7,7 +7,7 @@ title: "Argument_Edovald_Nevill_2021_ECNUROE"
 argument_key: "Argument_Edovald_Nevill_2021_ECNUROE"
 argument_display_title: "Working out what works: The case of the Education Endowment Foundation in England"
 argument_kind: "journal-article"
-argument_related_count: 138
+argument_related_count: 139
 argument_related_level: 13
 argument_related_stars: "💎💎💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -174,12 +174,13 @@ related_facts:
   - "[[Teensleep]]"
   - "[[Incentivised Pay and Coaching Trial]]"
   - "[[Thinking, Doing, Talking Science]]"
+  - "[[New Zealand Quality Teaching Strategy]]"
 sources:
   - "[[sources/Edovald_Nevill_2021_ECNUROE|Edovald_Nevill_2021_ECNUROE]]"
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
@@ -530,7 +531,7 @@ RCT 绝非全能的方法学灵丹妙药，强推随机化在特定决策层级�
 > [!citation-card] 常态对照基线与无效证据的实践价值
 > What Works 运动不仅要能指出什么有效，更必须明确什么无效，因为耗费在低效做法上的公共资源本可用于更需要的地方。绝大多数流行项目并不显著优于学校正在开展的[[Business as Usual\|常态教学]]，这一信息极具价值；而缺乏干预影响恰恰可能反映了常态教学本身的高质量。
 >
-> *In addition, it is essential that the [[What Works Movement]] is not only able to say what does work but also what does not, as resources spent on ineffective practices could be better used elsewhere... as the lack of intervention impacts may reflect high-quality teaching practice.*
+> *In addition, it is essential that the [[What Works Movement]] is not only able to say what does work but also what does not, as resources spent on ineffective practices could be better used elsewhere... as the lack of intervention impacts may reflect high-[[New Zealand Quality Teaching Strategy|quality teaching]] practice.*
 
 > [!citation-card] 规模化推广与[[Implementation Fidelity\|实施保真度]]的内在张力
 > 在[[Efficacy Trial\|效力试验]]向[[Effectiveness Trial\|实效试验]]推进中，实施规模与试验[[Sample Size Determination\|样本量]]越大，就越难发现超越[[Business as Usual\|常态教学]]的有意义效应。小规模效力试验中呈现出的显著成效往往无法在实效试验阶段复现。在高质量实施与追求更大统计功效之间存在直接张力：过大的[[Study Population and Sample\|研究样本]]迫使提供方过快扩张，从而侵蚀了递送机制与培训质量。

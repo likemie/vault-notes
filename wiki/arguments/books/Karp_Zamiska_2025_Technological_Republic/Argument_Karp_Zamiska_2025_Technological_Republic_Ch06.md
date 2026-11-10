@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch06"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch06"
 argument_display_title: "Technological agnostics"
 argument_kind: "book-chapter"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Technological Republic]]"
   - "[[Epistemology]]"
   - "[[The Right and the Good]]"
+  - "[[Professional Interest]]"
   - "[[Hard Belief]]"
   - "[[Historical Amnesia]]"
   - "[[Refined Mastery]]"
@@ -74,7 +75,7 @@ related_arguments: []
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 ---
 
@@ -134,7 +135,7 @@ updated: 2026-10-26
 > [!case] 扎克伯格确立纯建造主义：脱离国家战略的世界观真空
 > - **用户规模扩张打破认知极限** 2004 年马克·扎克伯格（Mark Zuckerberg）共同创立 Facebook（现 Meta），向世界展示了从数十人扩展至数十亿用户的惊人能力，彻底突破了人类对平台潜力的传统理解。
 > - **反驳地位动机确立纯建造伦理** 2010 年电影《社交网络》（*The Social Network*）上映后，扎克伯格在斯坦福大学演讲中公开反驳了电影将其创业动机归结为追求地位或异性青睐的设定，强调有人建造事物仅仅是因为他们喜欢建造事物。
-> - **技术不可知论者的典型特征** 扎克伯格的表述代表了一整代软件工程师的共同心态：其主要志趣在于纯粹的创造行为本身，而与任何宏大的国家战略、政治方案或公共目的彻底脱钩。这群建造者正是典型的[[Technological Agnosticism|技术不可知论者]]（pp. 71–72）。
+> - **技术不可知论者的典型特征** 扎克伯格的表述代表了一整代软件工程师的共同心态：其主要[[Professional Interest|志趣]]在于纯粹的创造行为本身，而与任何宏大的国家战略、政治方案或公共目的彻底脱钩。这群建造者正是典型的[[Technological Agnosticism|技术不可知论者]]（pp. 71–72）。
 
 > [!logic-map]- 选择权崇拜与技术不可知论的生成机制
 > ```mermaid

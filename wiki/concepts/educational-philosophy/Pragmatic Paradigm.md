@@ -8,7 +8,7 @@ aliases:
 summary: "先完整论述古典哲学层面（杜威等的经验、探究与行动后果），再阐述延伸出的研究方法论层次（混合方法研究的问题驱动与方法自由），并剖析跨国治理中将教育窄化为绩效精算的实用主义范式与紧迫实用主义认知盲区。"
 type: concept
 domain: "educational-philosophy"
-related_count: 68
+related_count: 69
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Research Ethics]]"
   - "[[Technological Republic]]"
+  - "[[Transnational Education]]"
   - "[[Economic Fundamentalism]]"
 related_theories:
   - "[[Pluralism]]"
@@ -95,7 +96,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -329,7 +330,7 @@ updated: 2026-11-03
 > | [[Operation Paperclip]] | 事实 | 历史案例：国家安全危机中以行动后果与实际技术收益为首要考量的[[Engineering Pragmatism\|工程实用主义]]典范。 |
 > | [[Herbert Hoover]] | 人物 | 历史人物：阐述工程实践直接面对客观物理结果、拒绝语言辩解的实用主义责任观。 |
 > | [[Alexander Karp]] | 人物 | 现代学者：《[[Technological Republic\|技术共和国]]》撰写者，将实用主义重新激活为高科技组织与防务工程的治理认识论。 |
-> | [[OECD]] | 事实 | 治理机构：将实用主义范式作为跨国教育政策去政治化与技能绩效管理的技术装置。 |
+> | [[OECD]] | 事实 | 治理机构：将实用主义范式作为[[Transnational Education\|跨国教育]]政策去政治化与技能绩效管理的技术装置。 |
 > | [[Fazal Rizvi]] | 人物 | 政策学者：与林加德共同揭示经合组织教育政策从民主论坛向实用主义技能精算的范式转型。 |
 > | [[Bob Lingard]] | 人物 | 政策学者：分析超国家组织如何借助实用主义解题理性掩蔽新自由主义[[Economic Fundamentalism\|经济基要主义]]。 |
 > | [[Jason Beech]] | 人物 | 比较教育学者：揭示国际组织受制于“紧迫实用主义”而过度简化知识并自限政策空间。 |

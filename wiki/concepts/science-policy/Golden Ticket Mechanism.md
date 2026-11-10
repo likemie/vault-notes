@@ -9,10 +9,10 @@ aliases:
 summary: "元科学与科技资助机制设计中的非共识突破型评审工具；赋予每位评审委员会专家一张具有绝对自由裁量权的“金券”，允许其在缺乏群体共识甚至遭遇广泛质疑的情况下，强行全额资助一项极具争议的高风险前沿提案，以制度化打破同行评议追求均值妥协的避险平庸化陷阱。"
 type: concept
 domain: "science-policy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/science-policy
   - theme/research-funding
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Portfolio-Based Research Funding]]"
   - "[[Reliability]]"
   - "[[Document]]"
+  - "[[Early-Career Researchers]]"
   - "[[Seniority Barrier in Academia]]"
   - "[[Portable Fellowship]]"
 related_theories: []
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -109,7 +110,7 @@ updated: 2026-11-03
 >
 > | 研究[[Document\|文献]] | 样本与情境 | 考察指标与设计 | 原始实证结果 | 理论解释边界 |
 > |:---|:---|:---|:---|:---|
-> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 28)]] | 德国大众汽车基金会（VolkswagenStiftung）与前沿先导项目试点 | 引入金券机制（Golden Ticket）前后非传统学科交叉与青年学者获资助比例对比 | 金券机制的引入使高风险非主流方案的立项比例从不足 3% 提升至 18%，青年第一完成人占比提高 35% | 验证金券机制打破[[Seniority Barrier in Academia\|资历垄断]]与名校学术藩篱的制度实效 |
+> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 28)]] | 德国大众汽车基金会（VolkswagenStiftung）与前沿先导项目试点 | 引入金券机制（Golden Ticket）前后非传统学科交叉与[[Early-Career Researchers\|青年学者]]获资助比例对比 | 金券机制的引入使高风险非主流方案的立项比例从不足 3% 提升至 18%，青年第一完成人占比提高 35% | 验证金券机制打破[[Seniority Barrier in Academia\|资历垄断]]与名校学术藩篱的制度实效 |
 
 ---
 

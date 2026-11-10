@@ -8,7 +8,7 @@ aliases:
 summary: "20世纪下半叶兴起的激进教育批判思潮，主张废除制度化学校的垄断地位，倡导以学习网络与生活化非正式社群替代强制性学校规训"
 type: concept
 domain: "educational-philosophy"
-related_count: 21
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Conscientization]]"
   - "[[Paradigm]]"
   - "[[Champ]]"
+  - "[[Study Abroad]]"
   - "[[Credential Inflation]]"
   - "[[Self-Efficacy]]"
   - "[[Discourse]]"
@@ -33,6 +34,7 @@ related_concepts:
   - "[[Learner Autonomy]]"
   - "[[New Public Management]]"
   - "[[Flipped Classrooms]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Creativity]]"
   - "[[Cultural Capital]]"
   - "[[Visible Learning]]"
@@ -50,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-10-16'
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -77,7 +79,7 @@ updated: 2026-11-03
 > [!contrast-table] 教学理念[[Paradigm|范式]]辨析
 > | 维度 | 去学校化思潮（Deschooling） | 传统教学论五支柱（Traditional Didactics） | 渐进新学校运动（New School Movement） |
 > |---|---|---|---|
-> | **制度定位** | **彻底去制度化** 废除学校垄断，倡导自然生活即学习[[Champ\|场域]] | **强科层建制** 以实体学校和班级授课制为神圣基石 | **体制内重构** 保留学校形式，但引入微型小组、自主游戏与去评分化 |
+> | **制度定位** | **彻底去制度化** 废除学校垄断，倡导自然生活即学习[[Champ\|场域]] | **强科层建制** 以实体学校和班级授课制为神圣基石 | **体制内重构** 保[[Study Abroad\|留学]]校形式，但引入微型小组、自主游戏与去评分化 |
 > | **教师角色** | **非专业伙伴 / 外部向导** 主张在体制外生活互动，人人皆可施教 | **绝对权威 / 学科知识导师** 以夸美纽斯、第斯多惠奠定的师道尊严为中心 | **活动观察者 / 协调员** 如塞莱斯坦·弗雷内（Célestin Freinet）强调的顾问与辅导者 |
 > | **课程与评价** | 废除固定大纲与文凭制度，以自主目标与自发网络驱动 | 严格遵循知识进阶体系与[[Bloom's Taxonomy\|布鲁姆分类学]]认知目标分层 | 取消标准教科书与考试打分，转为档案袋与活动展示 |
 
@@ -131,7 +133,7 @@ updated: 2026-11-03
 > - **1970 — 伊里奇发表《非学校化社会》（*Deschooling Society*）** 提出打破学校垄断、建立去中心化“伙伴网络”与技能交换中心，引发全球反建制教育震荡。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 231)]]
 > - **1970s–1980s — 霍尔特开创在家上学（Homeschooling）与[[Learner Autonomy|自主学习]]运动** 约翰·霍尔特出版《儿童如何失败》（*How Children Fail*）并创办《不成长于学校》杂志，将去学校化思潮转化为切实的在家上学与自然学习实践。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 231–232)]]
 > - **1980s–1990s — 边缘化与古典教学论复兴** 随着西方工业转型与[[New Public Management|新公共管理主义]]兴起，激进无政府主义色彩的去学校化思潮在官方教育政策中被边缘化，古典教学传统（如塞耶斯的《学习的失落工具》）重回主流。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 232)]]
-> - **2010s–至今 — 数字时代变体与政策[[Discourse|话语]]共振** 在互联网微课、生成式AI与[[Flipped Classrooms|翻转课堂]]大潮中，去学校化思潮借由“学校终结论”与“教师调节者”话语回潮，成为反思当代循证量化治理及教师去专业化风险的重要理论透镜。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 232, 240)]]
+> - **2010s–至今 — 数字时代变体与政策[[Discourse|话语]]共振** 在互联网微课、生成式AI与[[Flipped Classrooms|翻转课堂]]大潮中，去学校化思潮借由“学校终结论”与“教师调节者”话语回潮，成为反思当代循证量化治理及教师去专业化风险的重要[[Theoretical Standpoint|理论透镜]]。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 232, 240)]]
 
 ---
 

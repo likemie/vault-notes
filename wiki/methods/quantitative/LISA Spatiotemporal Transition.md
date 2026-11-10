@@ -9,7 +9,7 @@ summary: "一种基于Moran散点图像限转移矩阵的探索性时空数据�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 4
+method_related_count: 5
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -19,7 +19,8 @@ tags:
   - method/spatial-analysis
   - method/panel-data
   - method/spatiotemporal
-related_concepts: []
+related_concepts:
+  - "[[Null Hypothesis]]"
 related_theories:
   - "[[Path Dependence]]"
 related_methods:
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 ---
@@ -148,7 +149,7 @@ updated: 2026-10-29
 > - **Type3A vs Type3B** 需根据转移方向手动判定——LL→HH（同向好）和 HH→LL（同向差）均为 Type3A，HL→LH and LH→HL 为 Type3B
 > - **分子系统对比** 对外层循环包装——对每个子系统分别运行为 Q 赋值，独立构造 M 并计算指标
 > - **零行处理** 如果某行之和为 0（某象限从未出现），需在计算 P 时跳过该行（或填充 NaN）
-> - **统计检验** 可对转移矩阵做 $\chi^2$ 独立性检验（原假设：转移与起始象限无关），以判断转移是否显著偏离随机期望。同样可检验不同子系统之间的转移概率差异
+> - **统计检验** 可对转移矩阵做 $\chi^2$ 独立性检验（[[Null Hypothesis|原假设]]：转移与起始象限无关），以判断转移是否显著偏离随机期望。同样可检验不同子系统之间的转移概率差异
 
 ---
 

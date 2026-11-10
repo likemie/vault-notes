@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -29,8 +29,10 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Big Science]]"
   - "[[Research Translation]]"
+  - "[[Early-Career Researchers]]"
   - "[[Sunset Provisions]]"
   - "[[Paradigm]]"
+  - "[[Little Science]]"
   - "[[University-Industry Collaboration]]"
   - "[[University-Based Research Center]]"
 related_persons:
@@ -46,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -66,7 +68,7 @@ updated: 2026-10-30
 > 通过建立长期资助的跨学科实体科学中心，汇聚大学跨院系顶尖科学家团队并配备共享大型科研仪器，打破学科院系壁垒，推动重大基础科学问题攻关、高阶人才培养与多机构知识网络扩散。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 367, 369)]]
 
 > [!policy-design] 方案设计
-> - **项目目标** 推动基础科学领域的跨学科重大突破，促进科学知识向工程[[Research Translation|技术转化]]，培养具备多学科系统思维的拔尖青年学者。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 369)]]
+> - **项目目标** 推动基础科学领域的跨学科重大突破，促进科学知识向工程[[Research Translation|技术转化]]，培养具备多学科系统思维的拔尖[[Early-Career Researchers|青年学者]]。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 369)]]
 > - **覆盖对象** 全美高水平大学跨学科理科科研团队、国家实验室研发人员、博士生与博士后。
 > - **干预措施** [[National Science Foundation|NSF]] 提供为期 5 年并可竞争性延长至 10 年的高强度资助（2003 财年工程学学部子支出即达约 796 万美元，全基金会总资助达数千万美元）；要求中心设立教育与公众参与网络，整合共享前沿实验设施。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 369)]]
 > - **实施控制** 实行严格的期中实地考察与同行专家评估；贯彻[[Sunset Provisions|日落条款]]，要求中心在 10 年资助期满前自建多元外部造血机制。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 369, 374)]]
@@ -106,7 +108,7 @@ updated: 2026-10-30
 
 > [!debates] 核心争议与组织张力
 >
-> > [!axis] [[Big Science|大科学]]中心对小科学个人自由探索的经费挤压争议
+> > [!axis] [[Big Science|大科学]]中心对[[Little Science|小科学]]个人自由探索的经费挤压争议
 > > 与 [[Engineering Research Centers|ERC]] 设立时类似，STC 在基础科学界同样引发激烈争辩：许多纯基础科学家批评，大额中心资助会将原本属于个人科学家自由探索的常规课题经费集中化，降低科学探索的多样性与容错空间。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–366)]]
 >
 > > [!axis] 十年日落机制与基础研究漫长积累周期的张力

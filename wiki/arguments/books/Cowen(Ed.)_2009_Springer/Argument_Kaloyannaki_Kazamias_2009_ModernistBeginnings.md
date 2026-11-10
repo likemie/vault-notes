@@ -7,7 +7,7 @@ title: "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings"
 argument_key: "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings"
 argument_display_title: "The modernist beginnings of comparative education: The proto-scientific and the reformist-meliorist administrative motif"
 argument_kind: "book-chapter"
-argument_related_count: 74
+argument_related_count: 76
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Faculty Psychology]]"
   - "[[International Education]]"
+  - "[[Transnational Education]]"
   - "[[Policy Borrowing]]"
   - "[[Comparative History of Comparative Education]]"
   - "[[Geopolitics of Knowledge]]"
@@ -76,6 +77,7 @@ related_concepts:
 related_theories:
   - "[[Behaviorism]]"
 related_methods:
+  - "[[Cognitive Extent]]"
   - "[[Questionnaire]]"
   - "[[Survey Research]]"
   - "[[Ethnography]]"
@@ -118,12 +120,12 @@ sources:
 part_of: "[[Argument_Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-06
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
 > [!question]
-> 比较教育学（Comparative Education, CE）在 19 世纪前中期的现代主义起源具有何种[[Epistemology\|认识论]]根基、方法论程序与意识形态诉求？作为公认学科始祖的[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）所倡导的准实证科学（science positive），与同时代活跃于大西洋两岸的政策制定者（如法国的[[Victor Cousin\|维克多·库森]]（Victor Cousin）与美国的[[Horace Mann\|霍勒斯·曼]]（Horace Mann）等）的[[Auslandspadagogik\|外国教育学]]（Auslandspädagogik）考察[[Discourse|话语]]之间，存在怎样的内在承继与结构性裂痕？贯穿于所有异域教育探究背后的[[Educational Meliorism\|教育改良主义]]（Educational Meliorism），如何将跨国事实探究分化为以国家主权为核心的制度移植（transplantation）与以抗衡国内政治阻力为目的的合法化依据（legitimating rationales）双重机制？（pp.11–13, 24–25, 33–34）
+> 比较教育学（Comparative Education, [[Cognitive Extent|CE]]）在 19 世纪前中期的现代主义起源具有何种[[Epistemology\|认识论]]根基、方法论程序与意识形态诉求？作为公认学科始祖的[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）所倡导的准实证科学（science positive），与同时代活跃于大西洋两岸的政策制定者（如法国的[[Victor Cousin\|维克多·库森]]（Victor Cousin）与美国的[[Horace Mann\|霍勒斯·曼]]（Horace Mann）等）的[[Auslandspadagogik\|外国教育学]]（Auslandspädagogik）考察[[Discourse|话语]]之间，存在怎样的内在承继与结构性裂痕？贯穿于所有异域教育探究背后的[[Educational Meliorism\|教育改良主义]]（Educational Meliorism），如何将跨国事实探究分化为以国家主权为核心的制度移植（transplantation）与以抗衡国内政治阻力为目的的合法化依据（legitimating rationales）双重机制？（pp.11–13, 24–25, 33–34）
 
 > [!claim] 核心主张
 > 比较教育学的现代主义发端由后启蒙现代性[[Paradigm\|范式]]所催生的两种核心母题共同塑造：
@@ -140,7 +142,7 @@ updated: 2026-10-30
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Educational Meliorism\|教育改良主义]]**<br>Educational Meliorism | 源自拉丁语 *melior*（更好），界定以改善现实制度与人类境况为先验目标的探究旨趣，统摄了 19 世纪跨国教育事实收集与社会病理诊断的共生关系。（pp.33–34） |
+> | **[[Educational Meliorism\|教育改良主义]]**<br>Educational Meliorism | 源自拉丁语 *melior*（更好），界定以改善现实制度与人类境况为先验目标的探究旨趣，统摄了 19 世纪[[Transnational Education\|跨国教育]]事实收集与社会病理诊断的共生关系。（pp.33–34） |
 > | **[[Auslandspadagogik\|外国教育学]]**<br>Auslandspädagogik | 德语区指称对异域教育开展描述性、报道性与编年史式考察的知识形态，界定早期比较教育学者在缺乏因果解释模型时的经验积累特征。（pp.24–25, 32–33） |
 > | **[[Policy Borrowing\|政策借用]]**<br>Policy Borrowing / Educational Borrowing | 解释跨国教育流动机制，区分将外国法案直接吸纳为实定法的制度移植，以及将外部声望作为解决国内争议的合法化依据。（pp.23–24, 30, 34） |
 > | **[[Comparative History of Comparative Education\|比较教育学的比较史]]**<br>Comparative History of Comparative Education | 批判性学科史编纂纲领，破除线性起源神话，将先驱思想置于启蒙现代性、民族国家建构与大西洋[[Geopolitics of Knowledge\|知识地缘政治]]脉络中展开历史还原。（pp.11–13） |

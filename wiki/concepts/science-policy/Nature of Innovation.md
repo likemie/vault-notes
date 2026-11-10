@@ -2,7 +2,7 @@
 summary: "演化经济学与科技政策的核心本体论概念，指创新具有根本不确定性、存量知识重组、累积路径依赖、集体分布式共创及非中性方向性，属于非线性的复杂系统演化过程；构成了超越新古典市场失灵假说与确立现代使命导向治理的理论原点。"
 type: concept
 domain: "science-policy"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -51,7 +51,8 @@ related_persons:
   - "[[Albert-László Barabási]]"
   - "[[Joseph Schumpeter]]"
   - "[[Richard Nelson]]"
-related_facts: []
+related_facts:
+  - "[[United States Patent and Trademark Office]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
@@ -62,7 +63,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-03
+updated: 2026-11-11
 title: Nature of Innovation
 aliases:
   - 创新本质
@@ -137,7 +138,7 @@ aliases:
 > **组合创新机制与大数据计量证据** 探讨科学发现与技术发明的微观构架，论证创新主要源于对既有构件的跨界重构而非凭空突发。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Wang, D. & Barabási, A.-L.]]
-> **重大发明与科学突破的构件重组本质** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]指出，人类的新思想多源于对已有知识构件的[[Creativity|创造性]]拼装。1885 年卡尔·本茨制造的第一辆现代汽车由自行车、马车与内燃机三大既有构件重组而成；对美国专利商标局 1790 至 2010 年全部专利的计量分析揭示，19 世纪近半数专利属于单一技术类别代码，而当代超过 90% 的专利跨越两个以上技术类别，证实技术与科学创造已经全面演进为跨领域要素的组合重组过程。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 189–190)]]
+> **重大发明与科学突破的构件重组本质** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]指出，人类的新思想多源于对已有知识构件的[[Creativity|创造性]]拼装。1885 年卡尔·本茨制造的第一辆现代汽车由自行车、马车与内燃机三大既有构件重组而成；对[[United States Patent and Trademark Office|美国专利商标局]] 1790 至 2010 年全部专利的计量分析揭示，19 世纪近半数专利属于单一技术类别代码，而当代超过 90% 的专利跨越两个以上技术类别，证实技术与科学创造已经全面演进为跨领域要素的组合重组过程。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 189–190)]]
 
 ---
 

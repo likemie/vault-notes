@@ -8,7 +8,7 @@ aliases:
 summary: "假定现代信息通信技术的普及将彻底消除地理空间对知识生产与协作阻碍的理论假说；科学学大数据实证表明该假说并不成立：虽然跨机构与跨国合作带来了显著的引用溢价，但学术合作频率仍随物理距离呈严格的幂律衰减，面对面交流与地理邻近集聚依然是驱动深度知识创新的关键粘性要素。"
 type: concept
 domain: "science-policy"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Document]]"
   - "[[Research Universities]]"
+  - "[[Scientific Mobility]]"
   - "[[Team Science]]"
   - "[[Central Phenomenon]]"
   - "[[Coauthorship Network]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -119,7 +120,7 @@ updated: 2026-11-03
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **地理衰减律** | 合作概率随物理距离严格幂律下降，远程通信未消解空间阻尼 | 跨校/跨国合作网络与学者流动分析 | Wang & Barabási |
+> | **地理衰减律** | 合作概率随物理距离严格幂律下降，远程通信未消解空间阻尼 | 跨校/跨国合作网络与[[Scientific Mobility\|学者流动]]分析 | Wang & Barabási |
 > | **默会知识集聚** | 未编码知识传递依赖实体面对面接触，维系大学与集群价值 | 创新集群、研究型大学空间规划分析 | Wang & Barabási |
 
 ---

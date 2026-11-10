@@ -9,7 +9,7 @@ aliases:
 summary: "指公民对政治共同体怀有连贯的历史叙事、共享的伦理抱负及承担防卫与公共奉献义务的实质认同形态；与仅遵循市场规则和消费主义流行文化的薄弱归属感（Thin Belonging）相对立。在技术共和国理论中，通识正典的瓦解导致国家认同退化为薄弱归属，进而造成科技精英在道德真空中的政治脱嵌与技术不可知论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
   - theme/higher-education
 related_concepts:
   - "[[Technological Agnosticism]]"
+  - "[[Nationalism]]"
   - "[[Hard Belief]]"
   - "[[Civic Religion]]"
   - "[[General Education]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -56,7 +57,7 @@ updated: 2026-11-03
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种将个人命运与国家历史演进、宪政使命和集体安全紧密绑定的实质政治伦理纽带。
 > - **用途** 诊断当代西方社会（尤其是硅谷科技精英阶层）在通识正典瓦解后陷入的政治脱嵌、公民责任虚无与[[Technological Agnosticism|技术不可知论]]病理。
-> - **边界** 区别于排他性、沙文主义的极端民族主义效忠，丰厚归属感建立在自由宪政制度的自我完善与理性求真基础之上。
+> - **边界** 区别于排他性、沙文主义的极端[[Nationalism|民族主义]]效忠，丰厚归属感建立在自由宪政制度的自我完善与理性求真基础之上。
 
 > [!citation-card] 共同体丰厚归属与薄弱归属的本质分野
 > 薄弱的共同体归属感仅包含对他人权利的消极尊重以及对自由贸易与市场力量等新自由主义经济政策的遵循。而丰厚的归属感则需要一套关于这个国家事业过去、现在与未来的连贯叙事——即参与这场构建共和国的宏大而丰富实验究竟意味着什么。在当代西方，国家共同体成员身份面临退化为狭隘不全的风险，沦为仅仅因共享语言或娱乐、体育、时尚等流行文化而产生的松散关联。失去丰厚历史叙事的年轻一代（包括硅谷先驱）最终将注意力完全转向个体消费者，对国家公共事业漠不关心。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 95–96)]]

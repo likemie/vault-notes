@@ -9,7 +9,7 @@ aliases:
 summary: "西方地缘政治与国际发展话语中的批判性构念。指控债权国故意向发展中国家发放不可持续的主权贷款，在借款国陷入偿债危机时施压掠夺关键战略资产并确立排他性地缘依附；实证与比较高教研究表明该指控多属缺乏跨国微观证据的政治迷因，跨国工程产教协同依托能力进路开展本土工程人才定向培育且高校不参与主权债务设定，从微观层面解构了单向债务依附假说。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,8 +28,10 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Soft Power]]"
+  - "[[Transnational Education]]"
   - "[[Cultural Diplomacy]]"
   - "[[Student Mobility]]"
+  - "[[Study Abroad]]"
   - "[[Variable]]"
 related_theories:
   - "[[Dependency Theory]]"
@@ -46,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-20
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -73,7 +75,7 @@ updated: 2026-11-03
 > [!contrast-table] 债务陷阱外交 vs [[Knowledge Diplomacy|知识外交]] vs [[Soft Power|软实力]]
 > | 维度 | 债务陷阱外交（Debt-Trap Diplomacy） | [[Knowledge Diplomacy\|知识外交（Knowledge Diplomacy）]] | [[Soft Power\|软实力（Soft Power）]] |
 > |---|---|---|---|
-> | **分析对象** | 跨国基建借贷、债务危机与[[Geopolitics\|地缘政治]]施压手段 | 跨国高等教育、科研网络与全球危机协同应对 | 国家文化吸引力、制度价值观与对外说服力 |
+> | **分析对象** | 跨国基建借贷、债务危机与[[Geopolitics\|地缘政治]]施压手段 | [[Transnational Education\|跨国高等教育]]、科研网络与全球危机协同应对 | 国家文化吸引力、制度价值观与对外说服力 |
 > | **核心机制** | 假定通过不可持续债务强行让渡主权战略资产 | 通过双边或多边对等协商与知识共享实现互利共赢 | 依托非强制性文化与制度认同诱导他国配合自身利益 |
 > | **适用范围** | 批判西方对新兴大国跨国基建投资的地缘政治叙事 | 解释超越零和博弈的跨国高等教育与联合研发合作 | 解释国家间[[Cultural Diplomacy\|文化外交]]、国际[[Student Mobility\|学生流动]]与公共外交展示 |
 
@@ -82,7 +84,7 @@ updated: 2026-11-03
 > [!feature] 核心要素
 > - **不可持续的主权债务堆积** 指控的核心前提是债权国无视受援国的财政承受极限，推动巨额重资产工程上马，诱发系统性主权违约风险。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, p. 194)]]
 > - **战略抵押资产与主权让渡** 叙事假定的最终目的在于债权国借债务违约契机，夺取借款国关键港口码头、铁路干线或能源通道的特许经营权。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, p. 189)]]
-> - **大学作为学术主体的结构独立性** 在高等教育与重大工程协同中，高校免收学费，依托政企资金全额资助留学生，完全不介入主权债务条约制定，其功能聚焦于知识扩散与人才造血。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, p. 194)]]
+> - **大学作为学术主体的结构独立性** 在高等教育与重大工程协同中，高校免收学费，依托政企资金全额资助[[Study Abroad|留学]]生，完全不介入主权债务条约制定，其功能聚焦于知识扩散与人才造血。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, p. 194)]]
 > - **实体基建与人才属地化[[Capability Approach|能力进路]]** 国际合作通过定向培养本土工程师与管理队伍，扭转对外派员工的依赖，从根本上培育受援国自主运营现代化重大工程的能力，打破单向依附假说。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 194–195)]]
 > - **务实化的小而美战略转型** 面对实际存在的债务偿付压力，贷款国主动调整项目标准，优先推进投资体量适度、见效快、惠民生且生态友好的高标准项目。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, p. 194)]]
 

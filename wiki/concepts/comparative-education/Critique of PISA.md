@@ -8,7 +8,7 @@ aliases:
 summary: "对经合组织国际学生评估项目（PISA）的系统性学术反思与理论批判，涵盖未来技能构念拟制与增长神话证伪、统计等值空间对本体效度的消解、“数字即政策”的去政治化规训、单一西方中心主义与狭隘经济主义扭曲、高分低趣低幸福感悖论、美化威权教育机制、比较教育学科航海隐喻侵蚀及本土政治罗生门推诿。"
 type: concept
 domain: "comparative-education"
-related_count: 82
+related_count: 83
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -89,6 +89,7 @@ related_persons:
   - "[[Yong Zhao]]"
   - "[[Alain Desrosières]]"
   - "[[Nikolas Rose]]"
+  - "[[Eric Hanushek]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
   - "[[Andreas Schleicher]]"
@@ -112,7 +113,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -159,7 +160,7 @@ updated: 2026-11-03
 > - **[[Epistemology|认识论]]与学科史面向** 指责 PISA 瓦解了欧洲比较教育深厚的历史、哲学与文化诠释传统，破除了学者的超然领航员地位，导致比较学者面临被超国家技术官僚收编的危机。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–99)]]
 > - **[[Space of Equivalence|统计等值空间]]建构面向** 引入[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières）公约理论，揭示 PISA 凭空制造出跨国可[[Commensuration|通约]]的[[Space of Equivalence|等值空间]]，在方法论上确立了统计[[Reliability|信度]]优先于[[Construct Validity|构念效度]]与教育[[Ontology|本体论]]多样性。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 > - **[[Governing by Numbers|数字治理]]与去政治化面向** 引入[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose）[[Governmentality|治理术]]理论，剖析“数字即政策”如何将充满价值争议的政治决断与意识形态偏好黑箱化，通过远处掌舵重构各国教育主权并将教育异化为[[Positional Good|位置性商品]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–452)]]
-> - **未来技能拟制与增长神话[[Falsification|证伪]]面向** 揭露 PISA 宣称测量未来生活所需技能的主张完全缺乏实证依据，测验构念与传统认知能力高度重合，且 Hanushek 和 Woessmann 宣称提高测试分数将带来百万亿美元增长的预测模型在逻辑与后续检验中全面破裂。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
+> - **未来技能拟制与增长神话[[Falsification|证伪]]面向** 揭露 PISA 宣称测量未来生活所需技能的主张完全缺乏实证依据，测验构念与传统认知能力高度重合，且 [[Eric Hanushek|Hanushek]] 和 Woessmann 宣称提高测试分数将带来百万亿美元增长的预测模型在逻辑与后续检验中全面破裂。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 > - **单一教育观与西方中心主义面向** 揭露 PISA 假定存在普适指标来衡量所有国家教育质量的预设，实质上是将 35 个 OECD 发达经济体的经济与文化现实强加于近 200 个面临完全不同历史与现实挑战的国家。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 > - **扭曲教育观与高分负效应面向** 揭示 PISA 将经济竞争力作为教育唯一目的，导致人文、艺术与公民素养被系统性边缘化，并引发高分国家学生在学科兴趣、幸福感与创业信心上普遍低落的实证悖论。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 > - **美化威权教育机制面向** 批判官方将东亚高绩效归因为学生“自我谴责”与责任担当的修辞，揭示自我谴责实为威权体制压制质疑、迫使个体为系统性不平等承担责任的控制机制。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]

@@ -10,7 +10,7 @@ summary: "英国历史学家与政治学家，东欧与俄罗斯史权威学者�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Empiricism]]"
   - "[[Paradigm]]"
+  - "[[Nationalism]]"
   - "[[Geopolitics]]"
   - "[[Everyday Plebiscite]]"
   - "[[Modular Nationalism]]"
@@ -66,7 +67,7 @@ updated: 2026-11-11
 > - **1939–1945** 二战期间供职于英国特别行动执行处（SOE），深入巴尔干半岛从事外交联络与反法西斯抵抗力量协调。
 > - **1946–1951** 任教于牛津大学大学学院，开创现代东欧政治史教学。
 > - **1951–1983** 执掌伦敦大学斯拉夫与东欧研究院俄罗斯史教席长达三十二年，奠定英国东欧区域国别[[Paradigm|研究范式]]。
-> - **1977** 出版集大成之作《民族与国家：对民族起源与民族主义政治的探究》（*Nations and States*），全面梳理欧亚与第三世界民族国家的生成历程。
+> - **1977** 出版集大成之作《民族与国家：对民族起源与[[Nationalism|民族主义]]政治的探究》（*Nations and States*），全面梳理欧亚与第三世界民族国家的生成历程。
 > - **1984** 逝世于美国华盛顿特区，终年68岁。
 
 ---

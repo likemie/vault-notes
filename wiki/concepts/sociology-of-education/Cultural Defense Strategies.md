@@ -6,10 +6,10 @@ aliases:
 summary: "Li 提出的文化面对外来价值冲击时维持核心的三种策略，包括直接拒绝、选择性吸收与大尺度采纳，以及同化表层改变不等于根本改变的区分"
 type: concept
 domain: "sociology-of-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/cultural-transmission
   - theme/cultural-persistence
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Learning Virtues]]"
   - "[[Enculturation]]"
+  - "[[Study Abroad]]"
   - "[[Virtue-Oriented Learning Process]]"
 related_theories:
   - "[[Cultural Models]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -91,7 +92,7 @@ updated: 2026-10-22
 >
 > 想象一个中国家庭在 2020 年代：孩子的学校引入了"[[Inquiry-Based Learning\|探究式学习]]"（西方教育方法），但家长每天晚上仍然督促孩子完成大量习题（传统[[Learning Virtues\|学习美德]]）。孩子周末上钢琴课（西方艺术形式，被选择性吸收），同时也被要求背诵《论语》选段（传统[[Enculturation\|濡化]]）。家长送孩子去美国读大学（大尺度采纳——整建制接受西方高等教育），但同时反复叮嘱"不要忘记自己是中国人"。
 >
-> 这个家庭不是在"保守"和"西化"之间二选一——他们在**不同层次上同时运作三种策略** 在身份层面拒绝同化（"不要忘记自己是谁"），在工具层面吸收西方（英语、钢琴、留学），在核心价值层面——即什么算"好好学习"——保留儒家的[[Virtue-Oriented Learning Process\|美德导向]]。
+> 这个家庭不是在"保守"和"西化"之间二选一——他们在**不同层次上同时运作三种策略** 在身份层面拒绝同化（"不要忘记自己是谁"），在工具层面吸收西方（英语、钢琴、[[Study Abroad|留学]]），在核心价值层面——即什么算"好好学习"——保留儒家的[[Virtue-Oriented Learning Process\|美德导向]]。
 
 ---
 

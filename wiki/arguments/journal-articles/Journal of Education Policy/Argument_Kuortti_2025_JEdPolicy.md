@@ -40,6 +40,7 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Public-Private Partnership]]"
   - "[[Policy Translation]]"
+  - "[[Study Abroad]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Academic Freedom]]"
   - "[[Transnational Education]]"
@@ -60,26 +61,25 @@ related_persons:
 related_facts:
   - "[[Finnish Government Education Export Programme]]"
   - "[[Finnish National Board of Education]]"
+  - "[[Finnish Country Brand Report]]"
+  - "[[Strategic Programme of Prime Minister Juha Sipilä's Government]]"
+  - "[[Stepping Up Finland's Global Role in Education]]"
+  - "[[Government Bill 191-2021]]"
   - "[[Education Finland]]"
   - "[[Finnish Education Evaluation Centre]]"
   - "[[Finnish PISA Miracle]]"
+  - "[[Omnia Education Partnerships]]"
   - "[[GATS and Trade in Education Services]]"
   - "[[PISA]]"
   - "[[EU]]"
   - "[[Trade Union of Education in Finland]]"
-  - "[[Finnish Country Brand Report]]"
-  - "[[Government Bill 191-2021]]"
-  - "[[Strategic Programme of Prime Minister Juha Sipilä's Government]]"
-  - "[[Tuition Fees for Non-EU-EEA Students in Finland]]"
-  - "[[Stepping Up Finland's Global Role in Education]]"
-  - "[[Omnia Education Partnerships]]"
 related_arguments: []
 sources:
   - "[[sources/Kuortti_2025_JEdPolicy|Kuortti_2025_JEdPolicy]]"
 part_of: ""
 status: completed
 created: 2026-11-08
-updated: 2026-11-10
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kuortti_2025_JEdPolicy"
@@ -108,7 +108,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **对象** 2010 至 2020 年间芬兰教育文化部（Ministry of Education and Culture, MINEDU）、经济事务与就业部（Ministry of Economic Affairs and Employment, TEM）、外交部（Ministry for Foreign Affairs, FORMIN）、总理府（Prime Minister's Office, VNK）及芬兰国家教育局（[[Finnish National Board of Education|Finnish National Agency for Education]], FNAE）发布的 16 份核心政策文本、战略路线图与官方评估档案。
 > - **张力** 北欧福利国家长期坚持的教育去商品化、普惠均等与公法保障传统，与全球[[Competition State|竞争国家]][[Paradigm|范式]]下将教育打包为可交易商品、追求商业创收之间的深层价值冲突。
-> - **贡献** 金莫·库尔蒂（Kimmo Kuortti）运用福柯治理理性理论与[[Carol Bacchi|巴奇（Carol Bacchi）]]提出的问题表征分析法（[[Bacchi's WPR Approach|What's the Problem Represented to be]]?, WPR）框架，突破了以往仅聚焦单一教育学段学费争端或宏观[[Nation Branding|国家品牌]]营销的经验局限，揭示出次要政策议题如何充当治理实验室，将各级异质教育学段串联为服务于出口竞争的知识社会基础生产系统。
+> - **贡献** 金莫·库尔蒂（Kimmo Kuortti）运用福柯治理理性理论与巴奇（[[Carol Bacchi]]）提出的问题表征分析法（[[Bacchi's WPR Approach|What's the Problem Represented to be]]?, WPR）框架，突破了以往仅聚焦单一教育学段学费争端或宏观[[Nation Branding|国家品牌]]营销的经验局限，揭示出次要政策议题如何充当治理实验室，将各级异质教育学段串联为服务于出口竞争的知识社会基础生产系统。
 
 ---
 
@@ -167,7 +167,7 @@ issuing_organization: ""
 > | **无法满足外部商业需求** | 供需关系被视为教育的自然属性；外部对[[Finnish PISA Miracle\|国际学生评估项目]]（Programme for International Student Assessment, PISA）测评表现的兴趣等同于商业市场需求 | 源自古典经济学供需理论；吸纳高校自费生政策讨论历史 | 排除除商业买卖之外的国际互惠、学术交流与公共援助等替代性回应 | 公共教育被界定为反应迟缓的主体；重构公立教育的国际交流语境 | FGEE 战略文件、高校拨款公式谈判、教育部专项咨询组 |
 > | **缺乏可规模化产品** | 教育必须被视为可解构、可封装的标准化产品；产品应具备模块化与可扩展性 | 公共部门[[New Public Management\|新公共管理]]与商业化演进；将芬兰特质简化为品牌符号 | 掩盖教育在社会整体福利网络中的高度嵌入性，忽视文化情境不可移植性 | 推动学校与大学设立产品开发部门，简化复杂教学为技术解决方案 | 官方认证培训项目、国家创新基金会、教育科技商业孵化器 |
 > | **现行法律规制构成阻碍** | 法律被表征为束缚商业活力的僵化障碍；呼吁简政放权与弹性监管 | 2015 年西皮莱政府规制松绑运动；将国家定位为消除商业壁垒的服务者 | 法律作为公民基本权利屏障的法治功能被系统性遮蔽 | 推动修改职业教育法与高等教育法，解除公立机构设立营利子公司的属地限制 | 议会法案委员会、教育部法务司、[[Education Finland]] 产业游说团 |
-> | **教育从业人员商业技能匮乏** | 教师与管理人员被假定为缺乏市场运作意识；教育被等同于劳动力与产业生产环节 | 教师专业化历史的商业化转折；企业培训机制向公立教育领域的渗透 | 排除教育学专业智慧与教学伦理，仅将商业技能界定为发展资本 | 启动国家资助的教育出口微专业培训，促使教师向教育型企业家角色靠拢 | 哈梅应用科学大学（Häme University of Applied Sciences, HAMK）、[[Omnia Education Partnerships|Omnia]] 职业学院、各公立[[Further Education\|继续教育]]学院 |
+> | **教育从业人员商业技能匮乏** | 教师与管理人员被假定为缺乏市场运作意识；教育被等同于劳动力与产业生产环节 | 教师专业化历史的商业化转折；企业培训机制向公立教育领域的渗透 | 排除教育学专业智慧与教学伦理，仅将商业技能界定为发展资本 | 启动国家资助的教育出口微专业培训，促使教师向教育型企业家角色靠拢 | 哈梅应用科学大学（Häme University of Applied Sciences, HAMK）、[[Omnia Education Partnerships\|Omnia]] 职业学院、各公立[[Further Education\|继续教育]]学院 |
 > | **封闭受保护的国内公立生态** | 将公立垄断表征为效率低下；主张构建公私合作模式（[[Public-Private Partnership\|Public-Private Partnerships]], PPP）生态与国内准市场 | [[GATS and Trade in Education Services\|服务贸易总协定]]（General Agreement on Trade in Services, GATS）话语；私营教育提供者要求公平竞争的诉求 | 规避私营资本侵蚀公共福利基础的结构性风险，忽视公私合作的不对称性 | 依托公办经费扶持商业网络，为本土教育科技公司搭建产品测试平台 | 《教育政策报告 2020》、城市教育局创新采购试点、行业公会 |
 
 ---
@@ -175,7 +175,7 @@ issuing_organization: ""
 > [!claim|step] 论证步骤一　官方借[[PISA|国际学生评估项目]]盛誉构建海外市场需求，将公立教育不营利定性为体制缺陷
 > 芬兰教育出口政策文献通过[[Policy Translation|政策转译]]机制，将海外对芬兰公立基础教育的参访考察兴趣直接等同于全球对芬兰教育产品的巨大商业需求；这种修辞将缺乏商业出口界定为公立教育系统的供给缺陷，为全面引入市场逻辑制造了正当性缺口。
 
-> [!sub-claim] 1. 官方借用综合学校的测评声誉，为大学收取留学生学费提供正当性
+> [!sub-claim] 1. 官方借用综合学校的测评声誉，为大学收取[[Study Abroad|留学]]生学费提供正当性
 
 > [!phase] 芬兰教育出口话语与政策演进脉络（2005–2020）
 >
@@ -185,13 +185,13 @@ issuing_organization: ""
 >
 > - **2010–2015 国家战略成型与制度破冰期**
 >
->   2010 年《从兴趣到需求与产品》战略与[[Finnish Country Brand Report|国家品牌委员会报告（CBR, 2010）]]相继出台，教育出口正式升格为国家跨部委行动；2015 年法律修正案通过，正式推行[[Tuition Fees for Non-EU-EEA Students in Finland|对欧盟/欧洲经济区以外学生强制开征学费]]。
+>   2010 年《从兴趣到需求与产品》战略与国家品牌委员会报告（CBR, 2010）相继出台，教育出口正式升格为国家跨部委行动；2015 年法律修正案通过，正式推行对[[EU|欧盟]]/欧洲经济区以外学生强制开征学费。
 >
 > - **2016–2020 全领域渗透与生态化扩张期**
 >
 >   西皮莱政府推行规制松绑运动，教育出口路线图贯通中等职业教育与学前阶段；国家教育局设立专属品牌网络 [[Education Finland]]，启动微专业培训并构建国内准市场生态。
 
-> [!case] 案例：从公立基础教育 PISA 成绩向[[Tuition Fees for Non-EU-EEA Students in Finland|高等教育学费制度]]的跨越
+> [!case] 案例：从公立基础教育 PISA 成绩向高等教育学费制度的跨越
 > - **声誉资本积累** 芬兰自 2000 年参与首届国际学生评估项目（Programme for International Student Assessment, PISA）以来，凭借卓越的学业均值与极小的校际差距赢得国际瞩目。官方纲领性文献（MINEDU, 2010b, 2013）频繁征引 PISA 结果，宣称“国际教育市场对芬兰专业知识存在明确需求”（MINEDU, 2010b, p. 5）。
 > - **跨学段错位挪用** PISA 测查的是完全由公共财政保障、免收学费且由地方自治管理的 7–16 岁综合基础学校；但政策文献提出的核心干预举措，却是要求公立大学向非欧盟留学生征收高额学费（MINEDU, 2010b, p. 7）。
 > - **合法性逻辑转换** 政策文本在此完成了逻辑跨越：将不可买卖的公共基础教育所积累的国家公信力，直接挪用为支持高等教育进行商业化收费的正当性支撑。
@@ -324,7 +324,7 @@ issuing_organization: ""
 > - **5** （份） 构成具体干预措施基石的官方实践文本（MINEDU, 2010b 至 FNAE, 2020）。
 > - **30** （ECTS 学分） 芬兰教育部全额出资设立、由 HAMK 与 Omnia 承办的教育出口专业化微专业学分数。
 > - **2016** （年） 芬兰打破长期免费教育宪政传统、对非欧盟/欧洲经济区留学生正式强制征收学费的转折年份。
-> - **[[Government Bill 191-2021|191/2021]]** （号法案） 芬兰议会修改职业教育法、正式允许公立职业院校通过离岸法人开展营利性办学的政府法案编号。
+> - **191/2021** （号法案） 芬兰议会修改职业教育法、正式允许公立职业院校通过离岸法人开展营利性办学的政府法案编号。
 
 ---
 

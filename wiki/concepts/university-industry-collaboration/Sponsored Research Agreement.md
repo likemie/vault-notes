@@ -9,7 +9,7 @@ aliases:
 summary: "产学合作中最核心的定制化契约工具，企业向大学特定科研项目提供全额定向经费支持，标准条款包含前景知识产权的非排他免版税内部使用许可、限期商业独家谈判选择权及学术文章限期审查发表机制；在企业内部依赖学术参与团队实行两阶段监护机制以平衡学术长周期与季度交付节奏。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Valley of Death]]"
   - "[[Technology Transfer]]"
-  - "[[Screening Off]]"
   - "[[Variable]]"
   - "[[Research Universities]]"
 related_theories: []
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -142,7 +141,7 @@ updated: 2026-11-03
 > > [!axis] 业务部门早期免打扰与后期承接脱节的两难困境
 > > [[Academic Engagement Team|AET]] 实施的两阶段监护模式在实践中极易面临内部信任赤字。
 > >
-> > - **隔离保护的代价** 若在早期彻底将业务部门[[Screening Off|屏蔽]]在赞助研究之外，当 3 年后 AET 试图移交成熟技术时，业务团队常因缺乏对研究前因后果的理解，或因“非本处发明”（Not-Invented-Here, [[National Institutes of Health|NIH]]）综合征而冷漠拒绝承接。
+> > - **隔离保护的代价** 若在早期彻底将业务部门屏蔽在赞助研究之外，当 3 年后 AET 试图移交成熟技术时，业务团队常因缺乏对研究前因后果的理解，或因“非本处发明”（Not-Invented-Here, [[National Institutes of Health|NIH]]）综合征而冷漠拒绝承接。
 > > - **协同应对方案** AET 必须在早期精心设计“轻量级战略输入”，邀请业务骨干兼职列席中期成果评审，既不转嫁硬性考核负担，又预先培育承接土壤。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 230–231)]]
 
 > [!tension] 成果转化的内在张力

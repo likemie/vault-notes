@@ -6,7 +6,7 @@ aliases:
 summary: "英国教育社会学早期传统，以可测量数据把教育机会、阶级流动和人口管理连接起来，并为战后福利国家政策提供知识基础。"
 type: concept
 domain: "sociology-of-education"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
+  - "[[Problematisation]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -52,7 +53,7 @@ updated: 2026-10-22
 
 > [!note] 发展脉络
 > - 1938 年，Lancelot Hogben 编辑的 Political Arithmetic_A Symposium of Population Studies 将教育机会研究放入人口、阶级流动和社会结构变化的议题中；Hogben 将社会算术的问题表述为估计由社会组织缺陷造成、可以补救的浪费([[Argument_Ball_2008_SR\|Ball, 2008, p.654]])。
-> - 1930 年代，政治算术在与优生学的争论中形成自身位置：Hogben 一类研究者反对把人口问题化约为“错误的人在繁殖”，转而主张通过提高离校年龄和普及中等教育来更好使用人口能力([[Argument_Ball_2008_SR\|Ball, 2008, pp.654-655]])。
+> - 1930 年代，政治算术在与优生学的争论中形成自身位置：Hogben 一类研究者反对把人口[[Problematisation|问题化]]约为“错误的人在繁殖”，转而主张通过提高离校年龄和普及中等教育来更好使用人口能力([[Argument_Ball_2008_SR\|Ball, 2008, pp.654-655]])。
 > - 战后，LSE 的左翼社会学网络为福利国家提供部分知识基础，使教育成为现代福利国家的重要支柱；干预主义和福利主义压过了市场自由主义与优生学在战后重建中的影响([[Argument_Ball_2008_SR\|Ball, 2008, p.655]])。
 > - 1950-1960 年代，政治算术集中研究大众教育参与、经济和物质匮乏、家庭与学校因素，以及教育成就与社会阶级之间的稳定关联；这使阶级成为英国教育社会学长期核心问题([[Argument_Ball_2008_SR\|Ball, 2008, pp.656-657]])。
 

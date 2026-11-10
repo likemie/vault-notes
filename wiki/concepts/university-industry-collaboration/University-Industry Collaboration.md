@@ -10,7 +10,7 @@ aliases:
 summary: "大学与企业之间在正式协议框架下建立的有目的、深协同的制度化参与关系，横跨研究学术、教育学习与公共效益三大维度；其历史历经战后脱钩与 1980 年代法制重构，在释放实体创新潜力的同时伴生微观组织碎片化与代工车间异化的深层张力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 103
+related_count: 105
 related_level: 10
 related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Technology Transfer Office]]"
   - "[[Research Security]]"
   - "[[Partnership Continuum]]"
+  - "[[Material Transfer Agreement]]"
   - "[[Clinical Trial]]"
   - "[[University-Industry Co-location]]"
   - "[[Tacit Knowledge]]"
@@ -80,6 +81,7 @@ related_methods:
   - "[[In-depth Interview]]"
 related_persons:
   - "[[Fred Block]]"
+  - "[[Ben Levin]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Engineering Research Centers]]"
@@ -130,7 +132,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -263,7 +265,7 @@ updated: 2026-11-03
 > [!feature] 全谱系产学互动模式与操作工具
 > - **前沿生成 vs 前沿内扩散** 产学合作涵盖前沿颠覆性大企业共同攻关（前沿生成）与广大中小企业技术消化吸收（前沿内扩散）的双轨逻辑。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 18–19)]]
 > - **[[Partnership Continuum|伙伴关系连续体]]（Partnership Continuum）** 合作沿“交易型（单次外包）→ 协作型（互惠分享）→ 战略联盟（长期愿景与资源绑定）”非线性演进。[[Argument_UIDP_2012_PartnershipContinuum|(Southerton et al., 2012, p. 7)]]
-> - **机构协议矩阵（11 类协议工具）** 包括[[Sponsored Research Agreement|赞助研究协议]]（SRA）、保密协议（NDA）、数据使用协议（DUA）、材料转移协议（MTA）、[[Clinical Trial|临床试验]]协议、会员制协议及长期[[Master Agreement|主协议]]（Master Agreement）。[[Argument_Hall_2025_EthicalLegalFrameworks|(Hall, 2025, pp. 261–262)]]
+> - **机构协议矩阵（11 类协议工具）** 包括[[Sponsored Research Agreement|赞助研究协议]]（SRA）、保密协议（NDA）、数据使用协议（DUA）、[[Material Transfer Agreement|材料转移协议]]（MTA）、[[Clinical Trial|临床试验]]协议、会员制协议及长期[[Master Agreement|主协议]]（Master Agreement）。[[Argument_Hall_2025_EthicalLegalFrameworks|(Hall, 2025, pp. 261–262)]]
 > - **校企共同选址（[[University-Industry Co-location|co-location]]）** 企业团队入驻大学园区（如 Mars 在 UC Davis、联合利华在瓦赫宁根），以物理临近性消除文化阻隔与[[Tacit Knowledge|隐性知识]]流转摩擦。[[Argument_Wolf_2025_InternationalResearchCollab|(Wolf et al., 2025, pp. 317–318)]]
 
 ### 伙伴关系建设与合作条件
@@ -305,7 +307,7 @@ updated: 2026-11-03
 > > [!axis] 财政伦理与知识产权控制：纳税人出资 vs 商业利润垄断
 > > 公共财政资助的科研成果在商业化中衍生“风险公共承担、利润私人占有”的系统性质疑。
 > >
-> > - **舒尔茨-克莱文等学者（[[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017]]）** 揭示[[Academic Capitalism|学术资本主义]]将公共资助转化为跨国公司垄断专利的“半市场”本质，指责其造成纳税人出资后又需承担高昂产品价格的双重剥削。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 800–801)]]
+> > - **舒尔茨-克[[Ben Levin|莱文]]等学者（[[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017]]）** 揭示[[Academic Capitalism|学术资本主义]]将公共资助转化为跨国公司垄断专利的“半市场”本质，指责其造成纳税人出资后又需承担高昂产品价格的双重剥削。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 800–801)]]
 > > - **[[Technology Transfer|技术转移]]实践派（[[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone, 2025]]）** 坚称若无排他许可保护的商业利润预期，工业资本绝无可能承担数亿美元的高风险后续中试与[[Clinical Trial|临床试验]]。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, pp. 276–277)]]
 >
 > > [!axis] 协作协调机制：[[Market Fundamentalism|市场原教旨主义]] vs [[Developmental Network State|发展型网络国家]]

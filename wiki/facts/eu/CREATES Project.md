@@ -10,7 +10,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ tags:
   - theme/higher-order-thinking
 related_concepts:
   - "[[Learner Autonomy]]"
+  - "[[Transnational Education]]"
   - "[[Liberal Education]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -54,13 +55,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 项目定位
-> 欧洲共创[[Learner Autonomy|自主学习]]项目（Creating Responsive, Engaging and Active Tertiary Education with Students, CREATES）是由[[European Commission|欧盟委员会]]通过伊拉斯谟+（[[Erasmus Programme|Erasmus+]]）战略合作伙伴计划资助的跨国高等教育教学改革先锋项目（2017–2020）。项目联合荷兰、德国、英国等 6 所欧洲文理学院，聚焦本科拔尖[[Liberal Education|博雅教育]]创新，旨在研制并推广以学生为中心、自主探究与师生共创为核心的成套教学与评价工具包。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 8)]]
+> 欧洲共创[[Learner Autonomy|自主学习]]项目（Creating Responsive, Engaging and Active Tertiary Education with Students, CREATES）是由[[European Commission|欧盟委员会]]通过伊拉斯谟+（[[Erasmus Programme|Erasmus+]]）战略合作伙伴计划资助的[[Transnational Education|跨国高等教育]]教学改革先锋项目（2017–2020）。项目联合荷兰、德国、英国等 6 所欧洲文理学院，聚焦本科拔尖[[Liberal Education|博雅教育]]创新，旨在研制并推广以学生为中心、自主探究与师生共创为核心的成套教学与评价工具包。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 8)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2017 年立项启动，执行周期为 2017 至 2020 年，现已结项并作为开源教育资源（OER）持续向全欧高校开放。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 8)]]

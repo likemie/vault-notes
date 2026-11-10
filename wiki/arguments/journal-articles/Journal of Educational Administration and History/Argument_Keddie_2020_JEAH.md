@@ -16,7 +16,7 @@ title: "Argument_Keddie_2020_JEAH"
 argument_key: "Argument_Keddie_2020_JEAH"
 argument_display_title: "School autonomy, marketisation and social justice: the plight of principals and schools"
 argument_kind: "journal-article"
-argument_related_count: 10
+argument_related_count: 12
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -32,7 +32,9 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[School Autonomy]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Document]]"
+  - "[[System-Wide Improvement]]"
   - "[[Socioeconomic Status]]"
 related_theories: []
 related_methods:
@@ -50,7 +52,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: 2026-10-30
+updated: 2026-11-11
 year: 2020
 doi: ""
 citation_aliases:
@@ -61,7 +63,7 @@ citation_aliases:
 > 当[[School Autonomy\|学校自主权]]改革与市场逻辑（经济效率、竞争和公共问责）汇聚时，对澳大利亚公立学校系统中的**校长**和**特定学校**（尤其是小型、农村、偏远和弱势学校）产生了什么样的社会正义后果？
 
 > [!abstract] 理论框架
-> 以 **Nancy Fraser**(2009)的社会正义框架（再分配、承认、代表权）为理论透镜，区分**经济正义**（资源分配的公平性）和**政治正义**（决策参与的公平性）。论文将市场驱动的[[School Autonomy\|学校自主权]]改革诊断为同时损害这两种正义的机制。
+> 以 **Nancy Fraser**(2009)的社会正义框架（再分配、承认、代表权）为[[Theoretical Standpoint|理论透镜]]，区分**经济正义**（资源分配的公平性）和**政治正义**（决策参与的公平性）。论文将市场驱动的[[School Autonomy\|学校自主权]]改革诊断为同时损害这两种正义的机制。
 
 > [!info] 研究方法
 > - **方法**[[Qualitative Interview\|质性访谈]]研究
@@ -78,7 +80,7 @@ citation_aliases:
 >
 > 3. **校长的困境**
 >    - 预算自主权缺乏透明度和问责：公平资金的使用不受监控，"除了校长没有人知道"资金流向
->    - 企业家压力导致"目标置换"——从系统性改进转向个别学校的竞争性成功
+>    - 企业家压力导致"目标置换"——从[[System-Wide Improvement|系统性改进]]转向个别学校的竞争性成功
 >    - 工作量激增损害校长健康，尤其在缺乏经验的校长中——他们往往集中在最弱势的学校
 >    - 即使在提供高额金钱激励的情况下，偏远学校也难以招聘到校长
 >

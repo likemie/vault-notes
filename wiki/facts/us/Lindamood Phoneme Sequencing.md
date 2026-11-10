@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -40,7 +40,8 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Ben Levin]]"
 related_facts:
   - "[[National Institute of Child Health and Human Development]]"
   - "[[Institute of Education Sciences]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -76,7 +77,7 @@ updated: 2026-10-26
 > - **彩色几何方块表征音素序列** 摆脱字母符号的初始干扰，让学生用不同颜色的方块代表口语中听到的连续音素，直观练习音素的添加、删除、替换与调换顺序。
 > - **字母符号与正字法映射** 在学生完全掌握口语动觉序列感知后，将发音动作精准映射到对应的正规印刷英文字母，进阶到假词与真实词汇的快速连贯拼读。
 
-> [!citation-card] 斯莱文论 LiPS 在[[Multi-tiered Systems of Support|多层支持系统]]中的突出效能
+> [!citation-card] 斯[[Ben Levin|莱文]]论 LiPS 在[[Multi-tiered Systems of Support|多层支持系统]]中的突出效能
 > 在针对面临学业困境学生的阅读方案中，LiPS 展现出极为强劲的实证证据。在教师主导的[[Small Group Tuition|小组辅导]]（Tier 2，1 年级，1 项研究）中其[[Effect Size\|效应量]]达到 +0.64，在教师主导的一对一密集个别辅导（Tier 3，K–2 年级，1 项研究）中其效应量更是高达 +0.69，在两层架构中均斩获了 [[Every Student Succeeds Act\|ESSA]] 的强证据评级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *LiPS meets the ESSA strong evidence rating across both one-to-small-group tutoring (Tier 2, effect size +0.64) and one-to-one tutoring (Tier 3, effect size +0.69).*

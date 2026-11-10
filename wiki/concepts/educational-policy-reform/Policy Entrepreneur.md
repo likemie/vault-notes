@@ -6,10 +6,10 @@ aliases:
 summary: "指在教育系统内外通过建立跨界网络、识别政策机会窗口并策略性整合实证证据与价值话语推动政策变迁的能动主体。在理性主义比较教育传统中，政策企业家是全球治理与多行动者网络中开展远处治理的核心协调力量；在公共政策生命周期中，他们动态整合实证差距指标与两党核心价值以打破既有体制垄断；在新自由主义教育私有化改革中，他们依托教育管理组织（EMO）的双层法人架构，在公共行政、非营利信托与营利性商业公司之间无缝切换，实现学术知识产权的品牌化变现与制度套利，进而对传统代议制民主问责构成严峻挑战。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 47
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - concept/policy-entrepreneur
   - theme/educational-privatisation
@@ -24,10 +24,12 @@ related_concepts:
   - "[[Bureaucracy]]"
   - "[[Policy Borrowing]]"
   - "[[Pre-Transfer Agency]]"
+  - "[[Policy Translation]]"
   - "[[Externalization]]"
   - "[[Educational Management Organisation]]"
   - "[[Policy Mobility]]"
   - "[[Homework]]"
+  - "[[Transnational Education]]"
   - "[[Educational Privatisation]]"
   - "[[Visible Learning]]"
   - "[[Competitiveness]]"
@@ -36,6 +38,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Policy Ambassador]]"
   - "[[Construct]]"
+  - "[[Quasi-market]]"
   - "[[Variable]]"
 related_theories:
   - "[[Governing at a Distance]]"
@@ -73,7 +76,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -106,7 +109,7 @@ updated: 2026-11-03
 > [!contrast-table] 概念辨析
 > | 维度 | 政策企业家（Policy Entrepreneur） | 前转移代理人（[[Pre-Transfer Agency]]） | 政策借用（[[Policy Borrowing]]） |
 > |---|---|---|---|
-> | **主要分析对象** | 在公共部门、智库、慈善信托与商业资本间跨界流动的网络化能动主体 | 桥接国际政策源地和本土接纳地之间的政策翻译与引介中介 | 主权国家或地方政府吸收外部教育体制与实践的宏观决策行为 |
+> | **主要分析对象** | 在公共部门、智库、慈善信托与商业资本间跨界流动的网络化能动主体 | 桥接国际政策源地和本土接纳地之间的[[Policy Translation\|政策翻译]]与引介中介 | 主权国家或地方政府吸收外部教育体制与实践的宏观决策行为 |
 > | **核心机制** | [[Policy Window\|政策窗口]]捕捉、跨界资源打包、证据与价值双轨对接、知识商业化与制度套利 | 政治化翻译、引介性倡导、本土合法性背书与政策引资 | [[Externalization\|外部化]]（Externalisation）、本土化调适与制度再语境化 |
 > | **组织载体** | 个人学术权威、[[Educational Management Organisation\|教育管理组织]]（EMO）、跨界智库与基金会 | 国际中介咨询机构、考察团组、比较教育专家小组 | 国家教育部、地方学区委员会、议会立法机构 |
 > | **适用范围** | 分散权威空间、[[Network Governance\|网络治理]]及公私混合教育改革 | 跨国[[Policy Mobility\|政策流动]]初期与试点引介阶段 | 宏观制度比较与国家公共政策变迁分析 |
@@ -132,7 +135,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题一｜政策企业家是全球分散权威空间中[[Governing at a Distance|远处治理]]的核心协调力量
-> **全球多行动者网络与[[Governing at a Distance|远处治理]]维度** 探讨在去中心化的跨国教育空间中，政策企业家如何利用量化指标与评估基准，绕过传统民族国家主权屏障，在跨国尺度上实施软性政策调控与规范输出。
+> **全球多行动者网络与[[Governing at a Distance|远处治理]]维度** 探讨在去中心化的[[Transnational Education|跨国教育]]空间中，政策企业家如何利用量化指标与评估基准，绕过传统民族国家主权屏障，在跨国尺度上实施软性政策调控与规范输出。
 
 > [!claim] [[Eleftherios Klerides|Klerides, E.]]
 > **分散权威空间中的远处治理协调论断** 埃莱夫塞里奥斯·克莱里德斯论证指出，二战后比较教育研究经历了从国家单向[[Policy Borrowing|政策借用]]工具到新自由主义全球治理的重大转变；2000 年代以降，全球教育治理步入分散权威空间，传统自上而下的国家主权控制被多层网络所取代。在此背景下，政策企业家与跨国国际组织、非政府组织及商业咨询机构深度嵌合，依托大规模国际测评数据、标准化基准指标与绩效比较，以客观科学之名行使[[Governing at a Distance|远处治理]]。政策企业家作为[[Policy Mobility|政策流动]]（[[Policy Mobility]]）的活跃节点，推动了理性化教育治理规范的全球扩散。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 425)]]
@@ -204,7 +207,7 @@ updated: 2026-11-03
 > - **公共资金流失与商业价值抽取** 财务审计表明，许多由政策企业家引领的[[Educational Management Organisation|教育管理组织]]（EMO），以提供循证优质服务为名吸纳巨额公共采购预算，但在扣除运营成本、管理咨询费及个人版税后，真正向公立薄弱学校返还的慈善服务微乎其微，构成了制度性的公共资源抽取。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. xv, 47–51)]]
 
 > [!warning] 适用局限
-> 政策企业家的解释力高度依赖于国家治理向[[Network Governance|网络化治理]]、合同承包或准市场机制开放的制度环境；在高度集权、行政指令纵向垄断且排斥外部多元中介的传统刚性科层制体制下，政策企业家的活动空间极其受限。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xv)]]
+> 政策企业家的解释力高度依赖于国家治理向[[Network Governance|网络化治理]]、合同承包或[[Quasi-market|准市场机制]]开放的制度环境；在高度集权、行政指令纵向垄断且排斥外部多元中介的传统刚性科层制体制下，政策企业家的活动空间极其受限。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xv)]]
 
 ---
 

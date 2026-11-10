@@ -58,8 +58,10 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Tacit Knowledge]]"
   - "[[Literature Review]]"
+  - "[[Transnational Education]]"
   - "[[Output-Oriented Governance]]"
   - "[[Performativity]]"
+  - "[[Policy Translation]]"
   - "[[Knowledge Production]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Epistemic Governance]]"
@@ -92,14 +94,14 @@ sources:
 part_of:
 status: completed
 created: 2026-10-23
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Campbell_2026_JPCC"
 argument_key: "Argument_Campbell_2026_JPCC"
 argument_display_title: "Research and evidence use in education policy: supranational discourses, systemic conditions and implications for decision-making communities"
 argument_kind: "journal-article"
-argument_related_count: 55
+argument_related_count: 57
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -276,7 +278,7 @@ issuing_organization: ""
 > [!sub-claim] 3. 核心案例深度解构：全球实证霸权与地方行政现实的碰撞
 
 > [!policy-design] 案例三｜全球教育证据咨询小组（GEEAP, 2024）：“[[Smart Buys|智能购买]]”成本效益评价与技术理性矩阵
-> - **政策目标** 在资源约束情境下优化跨国教育干预决策效率，识别最具成本效益的改革方案。
+> - **政策目标** 在资源约束情境下优化[[Transnational Education|跨国教育]]干预决策效率，识别最具成本效益的改革方案。
 > - **适用对象** 面向中低收入国家教育部委、发展援助机构与一线项目规划人员。
 > - **政策工具** “极佳投资 / 智能购买（Smart Buys） / 不良投资”三级因果证据采购分级清单。
 > - **约束机制** 预设去情境化通用实验指标，忽视本土历史文化土壤、行政实施能力与非量化默会智慧。
@@ -313,7 +315,7 @@ issuing_organization: ""
 > [!sub-claim] 2. 理论模型重构将四大宏观体制张力与本土审议权确立为决策根基
 
 > [!theory-framework] 包容性证据生态模型的理论演进
-> 基于对 6 份超国家核心政策文本的话语解构，初始的五维静态概念框架获得了理论升华。修订后的框架不仅涵盖证据观念、多元行动者、政策转译过程、机制与基础设施、制度使能条件五大核心领域，更将四重外围宏观体制张力与三大动态中介环路系统融入其中，将认识论正义与民主审议空间置于整个生态的枢纽位置。
+> 基于对 6 份超国家核心政策文本的话语解构，初始的五维静态概念框架获得了理论升华。修订后的框架不仅涵盖证据观念、多元行动者、[[Policy Translation|政策转译]]过程、机制与基础设施、制度使能条件五大核心领域，更将四重外围宏观体制张力与三大动态中介环路系统融入其中，将认识论正义与民主审议空间置于整个生态的枢纽位置。
 
 > [!figure]- 图3：修订后的教育政策制定中研究与证据使用理论框架
 > | 框架层次与系统模块 | 核心构成要素与制度内涵 | 对教育政策制定的理论重塑功能 |

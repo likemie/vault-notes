@@ -11,7 +11,7 @@ summary: "比较两组均值的推断统计方法，包括比较两个独立组�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 10
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Homophily]]"
   - "[[Type I and Type II Errors]]"
 related_theories: []
 related_methods:
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -51,7 +52,7 @@ updated: 2026-10-29
 
 1. 明确分组[[Variable|变量]]（二分类，如实验组 vs 对照组）和[[Dependent Variable|结果变量]]（连续变量）。
 2. 检查两组是否独立（独立样本 t 检验）或配对（配对样本 t 检验）。
-3. 检查正态分布假设和方差同质性假设。
+3. 检查正态分布假设和方差[[Homophily|同质性]]假设。
 4. 计算 t 统计量并比较 p 值与预设显著性水平。
 5. 报告[[Effect Size|效应量]]（如 Cohen's d）和[[Confidence Interval|置信区间]]。
 

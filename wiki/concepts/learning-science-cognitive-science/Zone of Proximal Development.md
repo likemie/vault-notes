@@ -9,7 +9,7 @@ aliases:
 summary: "由维果茨基提出的心智发展与教学核心构念，指个体独立解决问题的实际水平与在他人指导或协作下的潜在水平之间的动态差距。现代教育理论已将其从儿童认知与自适应智能体脚手架，进一步拓展至基于课堂观察诊断的教师专业发展与循证辅导。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Intellectual Capital]]"
   - "[[Test Validity]]"
   - "[[Reliability]]"
+  - "[[Side Effects]]"
   - "[[Metacognitive Laziness]]"
   - "[[Peer-Supported Learning]]"
   - "[[Dependent Variable]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ## 定义
@@ -247,7 +248,7 @@ ZPD [[Construct|构念]]不仅支配儿童认知成长，同样统治着成年�
 > > - **动态评估倡导派** 认为传统静态测试歧视文化背景不利但学习潜能巨大的儿童。
 > > - **心理测量审慎派** 指出动态测试中“干预提示”的标准化难度极高，考量[[Reliability|信度]]与大规模施测成本受限。
 
-在教学实践中，支架设计不当极易引发副作用。
+在教学实践中，支架设计不当极易引发[[Side Effects|副作用]]。
 
 > [!warning] 实践误用
 > 1. **过度支架阻断独立性** 外部提示未及时衰减撤退，导致学生产生支架依赖与[[Metacognitive Laziness|元认知惰性]]；

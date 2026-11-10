@@ -11,7 +11,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 33
+fact_related_count: 32
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[School Inspection]]"
   - "[[Dual School System]]"
   - "[[School Autonomy]]"
+  - "[[Transnational Education]]"
   - "[[Commensuration]]"
   - "[[Socioeconomic Status]]"
   - "[[Performance Indicators]]"
@@ -49,8 +50,6 @@ related_concepts:
   - "[[Test-Based Accountability]]"
   - "[[Paradigm]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Document]]"
-  - "[[Reflexivity]]"
 related_facts:
   - "[[PISA]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
@@ -66,7 +65,7 @@ related_methods: []
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -85,7 +84,7 @@ updated: 2026-11-02
 > [!dev-timeline] 组织发展与职能演进
 > - **2006–2010 — 创设奠基与测评体系本土化** 依据 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 2006 年[[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]正式创设，整合汉堡原有的分散评估机构。初期聚焦于研发契合汉堡[[Dual School System\|双轨制学制]]的 KERMIT（Kompetenzen ermitteln）全州统一能力诊断测试，确立从小学到高中的标准化测评基准。
 > - **2011–2018 — [[Data Infrastructure\|数据基础设施]]制度化与社会指数研发** 主导开发“汉堡社会指数”（Hamburger Sozialindex），依据全州普查家庭背景数据将全州学校划分为 1–6 级，奠定了补偿性教育资源精准配置的科学基石；同步上线面向校长的“学校一览表”（SchÜb）数字化概览系统，推动数据向[[School Autonomy|校本管理]]下沉（[[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler, 2019, pp. 5–6]]）。
-> - **2019–至今 — 跨国比较视域下的形成性模式示范与深层协同** 在跨国教育治理研究中，IfBQ 被广泛确立为欧洲低利害形成性治理的典范（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025]]）。该机构在坚持去排名、去高利害淘汰的前提下，与汉堡州立师训与学校发展研究所（Landesinstitut für Lehrerbildung und Schulentwicklung, LI）深度协同，为基层校长开展同侪案例会商（Kollegiale Fallberatung）提供客观实证支撑。
+> - **2019–至今 — 跨国比较视域下的形成性模式示范与深层协同** 在[[Transnational Education|跨国教育]]治理研究中，IfBQ 被广泛确立为欧洲低利害形成性治理的典范（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025]]）。该机构在坚持去排名、去高利害淘汰的前提下，与汉堡州立师训与学校发展研究所（Landesinstitut für Lehrerbildung und Schulentwicklung, LI）深度协同，为基层校长开展同侪案例会商（Kollegiale Fallberatung）提供客观实证支撑。
 
 ---
 

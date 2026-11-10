@@ -9,7 +9,7 @@ title: "Argument_Cowen_2019_ERE"
 argument_key: "Argument_Cowen_2019_ERE"
 argument_display_title: "For whom does 'what works' work? The political economy of evidence-based education"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 29
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Learning Styles]]"
   - "[[Policy Borrowing]]"
+  - "[[Cumulative Innovation]]"
 related_theories:
   - "[[Tullock's Bureaucracy Theory]]"
   - "[[Historical Institutionalism]]"
@@ -48,6 +49,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Analytic Framework]]"
   - "[[Random Sampling]]"
+  - "[[Natural Experiment]]"
   - "[[Process Tracing]]"
   - "[[Effect Size]]"
   - "[[Random Assignment]]"
@@ -63,7 +65,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: 2026-10-30
+updated: 2026-11-11
 year: 2019
 doi: ""
 citation_aliases:
@@ -105,7 +107,7 @@ citation_aliases:
 > > “即使是对许多高质量 RCT 进行的[[Systematic Review\|系统综述]]或元分析，也不能为将其应用于新人群提供多少认识论保证。”
 > ("Even a systematic review or meta-analysis of many high-quality RCTs provides little epistemic warrant for applying to a new population.")
 >
-> 其他方法（准实验、自然实验、工具[[Variable\|变量]]、差异中差、定性方法如[[Process Tracing|过程追踪]]和分析性叙事）在特定条件下可能提供更准确的政策效应估计。
+> 其他方法（准实验、[[Natural Experiment|自然实验]]、工具[[Variable\|变量]]、差异中差、定性方法如[[Process Tracing|过程追踪]]和分析性叙事）在特定条件下可能提供更准确的政策效应估计。
 >
 > ### 2. 官僚[[Knowledge Questions\|知识问题]]（Tullock 的应用）
 >
@@ -200,7 +202,7 @@ citation_aliases:
 >
 > **可能的扩展方向** 将 Tullock 模型与[[Policy Borrowing\|政策借用]]框架(Steiner-Khamsi, 2012)或[[Historical Institutionalism|历史制度主义]](Thelen, 2004)结合——前者解释时机选择和全球扩散，后者解释制度功能的持续性。
 >
-> **目前状态** 此局限尚未被后续研究系统填补。Cowen 的框架更多被用作分析 EBE 制度功能的诊断工具，而非预测政策变迁时机的因果理论。
+> **目前状态** 此局限尚未被[[Cumulative Innovation|后续研究]]系统填补。Cowen 的框架更多被用作分析 EBE 制度功能的诊断工具，而非预测政策变迁时机的因果理论。
 
 ## 来源
 

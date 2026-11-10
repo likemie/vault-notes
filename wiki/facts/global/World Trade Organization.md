@@ -11,9 +11,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 28
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: intergovernmental-organization
 headquarters: "Geneva, Switzerland"
@@ -27,6 +27,8 @@ tags:
 related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Liberalization]]"
+  - "[[Transnational Education]]"
+  - "[[Study Abroad]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Strategic Autonomy]]"
   - "[[Commensuration]]"
@@ -62,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -81,7 +83,7 @@ updated: 2026-10-30
 > [!dev-timeline] 组织发展历程
 > - **1947–1994 — GATT 货物贸易时代** 关税与贸易总协定长期聚焦于工业品与农产品的关税减让与货物贸易争端协调，教育、文化与卫生等公共领域被严格视为国家不可让渡的主权行政事务，排斥在多边商业协定管辖之外。
 > - **1995 — WTO 成立与服务贸易扩张** 世贸组织正式运行并实施 [[GATS and Trade in Education Services|GATS]]，确立了全球服务贸易分类标准（W/120），将高等教育、成人教育与其他教育服务明确列为第 5 类受国际贸易法规范的商业服务部门，开启教育服务商品化时代。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]; [[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
-> - **2000 年代初 — 多哈发展议程与教育贸易谈判** WTO 发起多哈回合谈判，积极推动成员国扩大教育服务市场准入与国民待遇承诺；同时，欧美主要发达国家与大型跨国教育集团将跨境办学、留学生招募与远程高等教育作为核心服务出口增长点。
+> - **2000 年代初 — 多哈发展议程与教育贸易谈判** WTO 发起多哈回合谈判，积极推动成员国扩大教育服务市场准入与国民待遇承诺；同时，欧美主要发达国家与大型[[Transnational Education|跨国教育]]集团将跨境办学、[[Study Abroad|留学]]生招募与远程高等教育作为核心服务出口增长点。
 > - **2000 年代中期至 2010 年代末 — 全球[[Knowledge-Based Economy|知识经济]]与[[Pluri-Scalar Governance|多标度治理]]重组** 世贸组织规则深度渗透学历学位跨国互认、资质认证与知识产权流动，促使教育治理从单一民族国家制度容器转向由超国家协定、国家法规与次国家学区相互交织的多标度治理矩阵；但在金融危机与地缘冲突下，也遭遇逆全球化与国家安全保护主义的强力反弹。
 > - **2020 年代 — 地缘科技博弈与多边贸易规约边缘化** 随着中美高科技竞争加剧与供应链安全危机爆发，主要经济体绕过 WTO 多边规制，密集出台大规模单边产业补贴与出口管制；[[EU|欧盟]]在 2019 年前仍坚持诉诸 WTO 多边贸易解决方案，但此后被迫转向[[Strategic Autonomy|战略自主]]与防卫性产业政策，凸显 WTO 在规约尖端科技产业与单边补贴竞赛中的制度失灵与边缘化。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 8)]]
 

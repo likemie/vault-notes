@@ -8,7 +8,7 @@ aliases:
 summary: "计算机科学等快速演进学科特有的学术发表与评价制度，以高选择性、带严格同行评议的顶级学术会议录（Conference Proceedings）作为原创突破的核心首发阵地；2017 年 US News 全球计算机系排名的教训揭示了机械照搬期刊文献计量带来的系统性失真，同时该范式也为科学学提供了开展严谨双盲同行评审随机对照试验的实验场域。"
 type: concept
 domain: "academic-writing"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -34,6 +34,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Web of Science]]"
   - "[[Computing Research Association]]"
   - "[[Times Higher Education World University Rankings]]"
   - "[[National Research Council]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -57,7 +58,7 @@ updated: 2026-11-03
 > - **边界** 仅适用于计算机科学、人机交互与部分计算工程前沿领域；生物医学、化学与人文社科等传统学科依然以期刊或学术专著为法定权威载体。
 
 > [!citation-card] 学科发表惯例与计量评价失真
-> 计算机科学作为一门极年轻的学科，采取了极为独特的发表传统。鉴于该学科日新月异的技术迭代速度，计算机学者选择会议录而非学术期刊作为学术交流的核心载体。这种方式极好地服务了从互联网到人工智能的飞速演进，但对学科之外的观察者而言却极易产生严重误解。2017 年《美国新闻与世界报道》因仅仅依赖 Web of Science 期刊数据给全球计算机系排榜，导致排名彻底脱离学术界共识，遭致[[Computing Research Association|计算机研究协会]]的严正抗议。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 9–10)]]
+> 计算机科学作为一门极年轻的学科，采取了极为独特的发表传统。鉴于该学科日新月异的技术迭代速度，计算机学者选择会议录而非学术期刊作为学术交流的核心载体。这种方式极好地服务了从互联网到人工智能的飞速演进，但对学科之外的观察者而言却极易产生严重误解。2017 年《美国新闻与世界报道》因仅仅依赖 [[Web of Science]] 期刊数据给全球计算机系排榜，导致排名彻底脱离学术界共识，遭致[[Computing Research Association|计算机研究协会]]的严正抗议。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 9–10)]]
 >
 > *Due to the rapidly developing nature of the [[Champ|field]], computer scientists choose conference proceedings rather than journals as their primary venue to communicate their advances. In 2017, the US News and World Report calculated their rankings based on journal publications recorded by Web of Science. By ignoring peer-reviewed papers published in conferences, [[Times Higher Education World University Rankings|the rankings]] were completely divorced from computer scientists’ own perceptions of quality and impact.*
 

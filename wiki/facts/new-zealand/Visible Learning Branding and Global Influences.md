@@ -10,7 +10,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 65
+fact_related_count: 66
 fact_related_level: 6
 fact_related_stars: "💎💎"
 fact_related_color: "#fecdd3"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Learning Intentions]]"
   - "[[Critiques of Visible Learning]]"
+  - "[[Document]]"
 related_theories:
   - "[[Legitimation Crisis]]"
   - "[[Panopticism]]"
@@ -100,7 +101,7 @@ related_instruments:
 confidence: high
 status: stable
 created: '2026-05-04'
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 （[[Visible Learning|可见的学习]]品牌化与全球影响）
@@ -262,6 +263,6 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 详尽调查揭露 Hattie、奥克兰大学与 Cognition 之间商业化利益网络与财务轨迹的权威报告。
-> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 从新自由主义[[Global Education Reform Movement|全球教育改革运动]]（GERM）视角深度批判 VL 商业化与利益冲突的代表性文献。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 从新自由主义[[Global Education Reform Movement|全球教育改革运动]]（GERM）视角深度批判 VL 商业化与利益冲突的代表性[[Document|文献]]。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 剖析丹麦 2014 年公立学校改革采纳可见学习作为防御国家教育[[Legitimation Crisis|合法化危机]]的[[Technical Rationality|技术理性]]机制。
 > - [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] — 针对 Meta-X 数据库开展实证评测、揭示早期历史人工录入局限并确立人机验证[[Paradigm|范式]]的最新研究。

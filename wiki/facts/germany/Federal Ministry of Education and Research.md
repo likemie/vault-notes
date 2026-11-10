@@ -11,7 +11,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 38
+fact_related_count: 39
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Research-Practice Gap]]"
   - "[[Document]]"
+  - "[[Total War]]"
   - "[[Data Infrastructure]]"
 related_theories: []
 related_methods: []
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -201,5 +202,5 @@ updated: 2026-11-02
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 剖析 BMBF 如何利用 2000 年 PISA 冲击冲破各州文化主权束缚，推行 40 亿欧元全日制学校计划（IZBB）并协同确立国家教育标准。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 记录 BMBF 在 PISA 震荡后资助 CHIK 与 SINUS 等理科改进工程并转向产出监控的实证[[Document|文献]]。
 > - [[Argument_Knogler_2025_BB|Knogler et al. (2025)]] — 剖析 BMBF 在 QLB 框架下孵化 CHU 清算中心并协同 ZIB 的文献。
-> - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 剖析 BMBF 在国家教育监测总体战略与跨尺度[[Data Infrastructure|数据基础设施]]中的联邦治理定位。
+> - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 剖析 BMBF 在国家教育监测[[Total War|总体战]]略与跨尺度[[Data Infrastructure|数据基础设施]]中的联邦治理定位。
 > - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 剖析 BMBF 实证教育研究框架规划（聚焦转移与实施研究）与 QLB 教师教育攻坚中的多[[Paradigm|范式]]治理张力。

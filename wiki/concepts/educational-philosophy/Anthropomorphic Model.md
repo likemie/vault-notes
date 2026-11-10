@@ -25,7 +25,6 @@ related_concepts:
   - "[[Intentionality]]"
   - "[[Social Episodes]]"
   - "[[Decodification]]"
-  - "[[Paradigm]]"
   - "[[Creativity]]"
   - "[[Variable]]"
   - "[[Dialogue in Education]]"
@@ -33,12 +32,13 @@ related_concepts:
   - "[[Incubation]]"
   - "[[Ontology]]"
   - "[[Determinism]]"
-  - "[[Epistemology]]"
   - "[[Interpretive Paradigm]]"
-  - "[[Operationalization]]"
+  - "[[Epistemology]]"
   - "[[Tacit Knowledge]]"
+  - "[[Operationalization]]"
   - "[[Homework]]"
   - "[[Habitus]]"
+  - "[[Paradigm]]"
   - "[[Voluntarism]]"
 related_theories:
   - "[[Behaviorism]]"
@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-09
-updated: 2026-11-06
+updated: 2026-11-11
 ---
 
 ---
@@ -117,11 +117,11 @@ updated: 2026-11-06
 
 ---
 
-> [!concept-proposition] 命题一｜拟人化模型将反思性自我监控确立为人类行动的本体论特质
-> **人性观重塑与能动性奠基** 批判行为主义机械决定论，阐明人类行动者内在的反思理性与意向性能力，为诠释范式确立本体论基石。
+> [!concept-proposition] 命题一｜拟人化模型将反思性自我监控确立为人类行动的[[Ontology|本体论]]特质
+> **人性观重塑与能动性奠基** 批判行为主义机械[[Determinism|决定论]]，阐明人类行动者内在的反思理性与意向性能力，为[[Interpretive Paradigm|诠释范式]]确立本体论基石。
 
 > [!claim] Harré & Secord (1972)
-> **反思能动性确立与机械模型解构** 二十世纪六七十年代，以[[B. F. Skinner|斯金纳]]（B. F. Skinner）为代表的操作性[[Behaviorism|行为主义]]在教育心理学与社会科学中占据统治地位，将学习过程简化为外在强化强加于被动有机体的机械链条。哈雷与塞科德出版《社会行为的解释》，向这种机械[[Determinism|决定论]]发起认识论反思。他们指出，社会心理学必须采纳拟人化模型，承认人类行动者天生具备反思能力与[[Intentionality|意向性]]能力。布勒与艾伦（Buhler & Allen, 1972）以及[[Carl Rogers|卡尔·罗杰斯]]的人本主义心理学同样强调关注作为有机整体的全人。将人类尊严与能动性注入科学研究，为自然主义与[[Interpretive Paradigm|诠释范式]]奠定了人性[[Ontology|本体论]]根基。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 18)]]
+> **反思能动性确立与机械模型解构** 二十世纪六七十年代，以[[B. F. Skinner|斯金纳]]（B. F. Skinner）为代表的操作性[[Behaviorism|行为主义]]在教育心理学与社会科学中占据统治地位，将学习过程简化为外在强化强加于被动有机体的机械链条。哈雷与塞科德出版《社会行为的解释》，向这种机械[[Determinism|决定论]]发起[[Epistemology|认识论]]反思。他们指出，社会心理学必须采纳拟人化模型，承认人类行动者天生具备反思能力与[[Intentionality|意向性]]能力。布勒与艾伦（Buhler & Allen, 1972）以及[[Carl Rogers|卡尔·罗杰斯]]的人本主义心理学同样强调关注作为有机整体的全人。将人类尊严与能动性注入科学研究，为自然主义与[[Interpretive Paradigm|诠释范式]]奠定了人性[[Ontology|本体论]]根基。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 18)]]
 
 ---
 
@@ -129,7 +129,7 @@ updated: 2026-11-06
 > **微观情境脉络与默会理解解码** 探讨如何通过长周期社会事件与当事人理由说明透视师生互动秩序，超越去情境化的高频切片行为编码。
 
 > [!claim] Delamont (1976); Walker and Adelman (1975)
-> **情境默会知识对量化编码局限的突破** 拟人化模型催生了具体[[Operationalization|操作化]]的质性方法论——事件分析法（[[Ethogenic Approach]]）。在传统量化[[Classroom Observation|课堂观察]]中，研究者依托预设系统对师生言语进行高频切片记录（例如[[Flanders Interaction Analysis Categories|弗兰德斯互动分析系统]]，FIAC）。德拉蒙特以及沃克与阿德尔曼记录的草莓事件显示：学生面对教师训话突然喊出“草莓！草莓！”并引发全班大笑，FIAC 机械编码记录下的“7-4-9-10”序列无法解释该打断的幽默内涵；唯有借助拟人化模型调取师生共享的历史[[Tacit Knowledge|默会知识]]（教师曾调侃学生[[Homework|作业]]“像草莓一样好，但保鲜时间太短”），才能洞悉这一社会事件的内在秩序。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 18–19)]]
+> **情境[[Tacit Knowledge|默会知识]]对量化编码局限的突破** 拟人化模型催生了具体[[Operationalization|操作化]]的质性方法论——事件分析法（[[Ethogenic Approach]]）。在传统量化[[Classroom Observation|课堂观察]]中，研究者依托预设系统对师生言语进行高频切片记录（例如[[Flanders Interaction Analysis Categories|弗兰德斯互动分析系统]]，FIAC）。德拉蒙特以及沃克与阿德尔曼记录的草莓事件显示：学生面对教师训话突然喊出“草莓！草莓！”并引发全班大笑，FIAC 机械编码记录下的“7-4-9-10”序列无法解释该打断的幽默内涵；唯有借助拟人化模型调取师生共享的历史[[Tacit Knowledge|默会知识]]（教师曾调侃学生[[Homework|作业]]“像草莓一样好，但保鲜时间太短”），才能洞悉这一社会事件的内在秩序。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 18–19)]]
 
 ---
 
@@ -137,14 +137,14 @@ updated: 2026-11-06
 > **多重视角整合与行动边界审视** 剖析拟人化模型过度依赖理性反思所面临的局限，揭示深层无意识与阶级权力结构对主体能动性的塑型效应。
 
 > [!claim] Bernstein (1971); Bourdieu (1977)
-> **客观权力结构与惯习对行动意志的塑型** 精神分析学派指出，拟人化模型过度强调行动者的理性自我监控与明确理由说明，容易低估潜意识冲突与情感冲动对人类行为的深层驱使。同时，批判社会学家[[Basil Bernstein|伯恩斯坦]]与[[Pierre Bourdieu|布迪厄]]提出，行动者虽然行使着能动意志，但这种意志本身是在被客观阶级地位与制度权力潜移默化塑型的“[[Habitus|惯习]]”中展开的。现代[[Qualitative Research|质性研究]]因而在接纳拟人化模型尊重能动性的前提下，将其与批判社会学的宏观权力透镜有机结合。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 18, 32)]]
+> **客观权力结构与[[Habitus|惯习]]对行动意志的塑型** 精神分析学派指出，拟人化模型过度强调行动者的理性自我监控与明确理由说明，容易低估潜意识冲突与情感冲动对人类行为的深层驱使。同时，批判社会学家[[Basil Bernstein|伯恩斯坦]]与[[Pierre Bourdieu|布迪厄]]提出，行动者虽然行使着能动意志，但这种意志本身是在被客观阶级地位与制度权力潜移默化塑型的“[[Habitus|惯习]]”中展开的。现代[[Qualitative Research|质性研究]]因而在接纳拟人化模型尊重能动性的前提下，将其与批判社会学的宏观权力透镜有机结合。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 18, 32)]]
 
 ---
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **人性观重塑** | 行动者具备反思性自我监控与意向性赋意能力，拒斥机械决定论 | 理论范式转型、人本主义心理学与诠释范式本体论奠基 | Harré & Secord (1972); Rogers (1969); Buhler and Allen (1972) |
+> | **人性观重塑** | 行动者具备反思性自我监控与意向性赋意能力，拒斥机械决定论 | 理论[[Paradigm\|范式]]转型、人本主义心理学与诠释范式本体论奠基 | Harré & Secord (1972); Rogers (1969); Buhler and Allen (1972) |
 > | **情境脉络解码** | 行为意义深嵌于特定社会事件中，依赖默会知识与当事人叙事理解 | 课堂微观观察、师生互动解码与实地事件分析 | Delamont (1976); Walker and Adelman (1975); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] |
 > | **行动边界审视** | 理性能动性与无意识冲动、制度权力及阶级惯习相互交织 | 批判社会学、深层心理动力学与综合质性探究 | Bernstein (1971); Bourdieu (1977) |
 
@@ -167,7 +167,7 @@ updated: 2026-11-06
 > > - **拟人化模型倡导者（Harré & Secord, 1972）** 强调行动者能够监控并安排自身行动，当事人对行动意图的陈述构成首要科学数据。
 > > - **精神分析与动力心理学学者** 指出人类决策常伴随无意识防御与非理性冲动，当事人的表层陈述常构成事后合理化的伪叙事。
 >
-> > [!axis] 唯意志论自主行动 vs 客观结构与阶级惯习制约
+> > [!axis] [[Voluntarism|唯意志论]]自主行动 vs 客观结构与阶级惯习制约
 > > 探讨行动者的自由选择权在多大程度上受制于客观社会阶层与制度环境。
 > >
 > > - **微观诠释学者** 强调师生在日常课堂生态中具备灵活协商规则与重构情境秩序的自主能动性。

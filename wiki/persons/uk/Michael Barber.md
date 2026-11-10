@@ -9,7 +9,7 @@ summary: "英国著名教育政策顾问与跨国管理咨询领袖，“交付�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 40
+person_related_count: 42
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -23,6 +23,8 @@ tags:
   - theme/policy-network
   - theme/evidence-based-education
 related_concepts:
+  - "[[Deliverology]]"
+  - "[[Transnational Education]]"
   - "[[School Effectiveness]]"
   - "[[Bureaucracy]]"
   - "[[Champ]]"
@@ -61,8 +63,8 @@ related_facts:
   - "[[World Bank]]"
   - "[[OECD]]"
   - "[[HM Treasury]]"
-  - "[[Social Ventures Australia]]"
   - "[[Evidence for Learning]]"
+  - "[[Social Ventures Australia]]"
 related_arguments:
   - "[[Argument_Rowe_2022_IJER]]"
   - "[[Argument_Rowe_2023_ECNUROE]]"
@@ -72,14 +74,14 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-04
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国著名教育政策顾问、政府治理专家与跨国商业咨询领袖。曾任英国教育与就业部（[[Department for Education]] and Employment, DfEE）学校标准与效能组（Standards and Effectiveness Unit, SEU）首席顾问（1997–2001）、托尼·布莱尔（Tony Blair）内阁首相交付组（Prime Minister's Delivery Unit, PDU）首任负责人（2001–2005）、麦肯锡公司（McKinsey & Company）全球教育业务主管兼合伙人（2005–2011）、培生集团（Pearson）首席教育顾问（2011–2017）及英国学生办公室（Office for Students, OfS）创会主席（2017–2021）。
-> - **核心角色** 绩效治理技术“交付学”（Deliverology）体系的奠基人，跨国教育商业咨询网络的核心枢纽。在全球范围内推动基于量化绩效目标、因果实证基准与跨界政策交付的公共部门及教育系统改革；其咨询理念深刻影响了英国保守党与自民党联合政府创设[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）的顶层白皮书制度规划。
+> - **核心角色** 绩效治理技术“交付学”（[[Deliverology]]）体系的奠基人，[[Transnational Education|跨国教育]]商业咨询网络的核心枢纽。在全球范围内推动基于量化绩效目标、因果实证基准与跨界政策交付的公共部门及教育系统改革；其咨询理念深刻影响了英国保守党与自民党联合政府创设[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）的顶层白皮书制度规划。
 > - **代表贡献** 创立“交付学”政府运作与执行监控体系；领衔撰写具有全球政策风向标意义的 2007 年麦肯锡教育报告《顶尖学校体系如何脱颖而出》（*How the World's Best-Performing School Systems Come Out on Top*）；深度参与推动英国[[The Importance of Teaching\|《教学的重要性》]]白皮书规划并催生国家级证据中介 EEF（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
 
 > [!citation-card] 比较教育学视阈下交付学与指标崇拜的技术官僚批判

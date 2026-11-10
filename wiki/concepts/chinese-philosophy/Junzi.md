@@ -8,7 +8,7 @@ aliases:
 summary: "儒家传统中通过终身学习与修身追求仁的理想人格与典范人物，兼具审美、伦理与自发道德实践维度；在现代政治哲学与国家治理视阈下，君子德性被李光耀等思想家阐释为抵御地缘政治脆弱性与维持社会凝聚力的实质性道德锚点，为超越形式主义程序中立提供了具体的文化伦理支撑。"
 type: concept
 domain: "chinese-philosophy"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -45,14 +45,15 @@ related_persons:
   - "[[Nicholas Zamiska]]"
   - "[[Zhu Xi]]"
   - "[[Wang Yangming]]"
-related_facts: []
+related_facts:
+  - "[[Dimensions]]"
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18]]"
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -68,7 +69,7 @@ updated: 2026-11-03
 > [!citation-card] 罗思文论君子的审美与伦理维度
 > 君子在道上已经走过了相当的距离，承担着相当数量的角色……他们在自身之中宁静安详……他们不仅凭借技巧，更是带着优雅、尊严与美来履行所有社会功能，并在此种践行中感受到愉悦……他们致力于为他人——特别是身处困境者——服务……他们的行动是从容、自发且富有[[Creativity|创造性]]的，有别于被迫的。简而言之，君子的生活兼具极强的审美与伦理维度。[[Argument_Li_2012_Cambridge|(Rosemont, 引自 Li, 2012, pp. 41–42)]]
 >
-> *They have traveled a considerable distance along the way, living a considerable number of roles... they are serene and at peace in their persons... they perform all functions not only with skill but with grace, dignity and beauty, and find pleasure in this performance... they now work for others... especially those in need... their actions are not forced, but easy, spontaneous and creative. In short, the life of a junzi has very strong aesthetic and ethical dimensions.*
+> *They have traveled a considerable distance along the way, living a considerable number of roles... they are serene and at peace in their persons... they perform all functions not only with skill but with grace, dignity and beauty, and find pleasure in this performance... they now work for others... especially those in need... their actions are not forced, but easy, spontaneous and creative. In short, the life of a junzi has very strong aesthetic and ethical [[Dimensions|dimensions]].*
 
 > [!citation-card] 李光耀论儒家君子美德作为小国生存与治理基石
 > 对李光耀而言，追求的理想是成为[[Confucius|孔子]]在两千多年前所倡导的“君子”——一个孝顺父母、忠于配偶、悉心教子并效忠国家的典范人物。对于当今许多人而言，这样具体的美德概念必须作为偏狭和排他而被抵制。但是，在以包容之名抛弃了这些美德之后，我们又愿意提出并捍卫何种崇高或典范生活的美德呢？[[John Rawls|约翰·罗尔斯]]的政治自由主义主张在目标上保持中立，其列出的美德（公平合作、礼貌、宽容与合理性）被证明是有限和温和的——不过是一套维持公民社会运作的无可争议的背景要求，根本无法为公共生活提供任何丰富性或文化特质。空洞的中立正使我们的辨别本能发生萎缩。我们现在必须认真对待这种可能性：正是共享文化的复兴，而非对其放弃，才能使我们继续生存与保持凝聚。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–216)]]

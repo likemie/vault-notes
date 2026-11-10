@@ -6,7 +6,7 @@ aliases:
 summary: "Richard Feynman 提出的科学哲学概念，指具备数据、图表等严密外在形式却缺失认识论诚信与自我证伪诚意的伪科学实践；在教育领域表现为以不透明的量化指标和商业包装实施认知威慑与教条化控制。"
 type: concept
 domain: "educational-philosophy"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Neo-Taylorism]]"
   - "[[Chain of Evidence]]"
   - "[[Educational Privatisation]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Feedback]]"
   - "[[Analytical Stance]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-04
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -178,7 +179,7 @@ updated: 2026-11-03
 > - **1974 — 费曼加州理工学院毕业演讲首创概念** 物理学家理查德·费曼在演讲中回顾南太平洋岛民在二战结束后修建木制跑道和竹制雷达、模仿盟军降落仪式的货物崇拜现象，指出教育学、心理学等领域存在大量模仿物理学实验形式却缺失科学精神的草包族科学（Cargo Cult Science）。
 > - **1980–1990年代 — 科学哲学划界探讨与方法论延展** 学界将货物崇拜科学与波普尔的[[Falsification|证伪主义]]、库恩的[[Paradigm|范式]]理论及[[Robert K. Merton|默顿]]的科学规范相对照，探讨其在社会科学与医学应用中的制度化表现。
 > - **2017–2020 — [[Epistemology|认识论]]诚信研究与真实数据伪科学解构** 伯杰龙与里瓦尔（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017]]）从数理统计学角度系统阐明如何用真实数据搞伪科学，论证了以形式复杂性掩盖初等计算崩溃与基线颠倒的纸牌屋机制，并确立了对揭露数理缺陷后仍坚持推广之“蓄意盲目”（Willful Blindness）的认识论批判；莫伯格（Moberger, 2020）进一步将费曼的诊断提炼为现代认识论中的认识论诚信（Epistemic Conscientiousness）准则。
-> - **2023 — 教育政策与循证教学体系的系统解构** 约翰逊与詹森（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）在《Critical Education》发表长篇批判文章，将货物崇拜科学作为核心理论透镜，对《[[Visible Learning|可见的学习]]》的方法论不透明性、简单算术平均、商业利益冲突与拒绝证伪[[Discourse|话语]]展开系统解构，标志着该概念深度融入当代教育政治经济学与循证政策批判。
+> - **2023 — 教育政策与循证教学体系的系统解构** 约翰逊与詹森（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）在《Critical Education》发表长篇批判文章，将货物崇拜科学作为核心[[Theoretical Standpoint|理论透镜]]，对《[[Visible Learning|可见的学习]]》的方法论不透明性、简单算术平均、商业利益冲突与拒绝证伪[[Discourse|话语]]展开系统解构，标志着该概念深度融入当代教育政治经济学与循证政策批判。
 
 ---
 

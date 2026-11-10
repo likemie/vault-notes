@@ -3,10 +3,10 @@ title: Xenophon
 type: person
 status: stable
 created: 2026-10-01
-updated: 2026-10-30
+updated: 2026-11-11
 nationality: greece
 person_region: "greece"
-person_related_count: 7
+person_related_count: 8
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -24,6 +24,7 @@ aliases:
 related_concepts:
   - "[[Document]]"
   - "[[Liberal Education]]"
+  - "[[Transnational Education]]"
   - "[[Scientific Paradigm]]"
 related_theories: []
 related_methods: []
@@ -50,7 +51,7 @@ related_persons:
 ### 2. 比较探究作为“教育实践艺术”（Educating Art）
 在学科史溯源中，比较教育学家[[William W. Brickman|威廉·布里克曼]]（William W. Brickman）与斯图尔特·弗雷泽（Stewart E. Fraser, 1968）将色诺芬与希罗多德（Herodotus）、西塞罗（Cicero）、凯撒（Julius Caesar）等人并列，视其为西方比较教育在古典古代经验游记与风土记录的先驱代表：
 - **超越本土中心** 色诺芬的研究体现了希腊学者跨出本土城邦边界、客观审视外邦教育经验的冲动；
-- **实践艺术定位** 如[[Franz Hilker|弗朗茨·希尔克]]（Franz Hilker, 1962）与[[Val D. Rust|瓦尔·拉斯特]]（Val D. Rust et al., 2009）所评述，这一古典时期的跨国教育观察尚未形成现代大学意义上的抽象[[Scientific Paradigm|科学范式]]，而本质上是一门**面向学习与教学改良的教育实践艺术（an educating art concerned with the practice of learning and teaching）**，旨在从外国实践中提炼切实的政治教化与治国理政鉴戒。
+- **实践艺术定位** 如[[Franz Hilker|弗朗茨·希尔克]]（Franz Hilker, 1962）与[[Val D. Rust|瓦尔·拉斯特]]（Val D. Rust et al., 2009）所评述，这一古典时期的[[Transnational Education|跨国教育]]观察尚未形成现代大学意义上的抽象[[Scientific Paradigm|科学范式]]，而本质上是一门**面向学习与教学改良的教育实践艺术（an educating art concerned with the practice of learning and teaching）**，旨在从外国实践中提炼切实的政治教化与治国理政鉴戒。
 
 ---
 

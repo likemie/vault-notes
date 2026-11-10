@@ -8,7 +8,7 @@ aliases:
 summary: "朱俊成与杨锐于2025年提出的对外高等教育输出分析概念。指主权国家超越古代基于文化优越感单向灌输的文化同化预设，通过在课程设置、高阶研修与跨国办学中系统传授当代国家发展治理经验与现代化成就，谋求国际社会特别是全球南方精英对自身发展道路、制度模式与价值观念的理性理解与实质承认。"
 type: concept
 domain: "comparative-education"
-related_count: 15
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,9 +19,12 @@ tags:
   - culture
   - international-education
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Washington Consensus]]"
   - "[[Soft Power]]"
   - "[[Enculturation]]"
+  - "[[Early-Career Researchers]]"
+  - "[[Study Abroad]]"
   - "[[Beijing Consensus]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Variable]]"
@@ -43,13 +46,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Cultural Recognition
-> 文化认同探索（Cultural Recognition）指主权国家在跨国高等教育交流与文化对外传播中，打破预设周边国家自愿接受宗主国传统伦理感召的文化同化预设，转向以传播当代国家治理实践、经济转型经验与现代科技成就为载体，谋求受援国及国际社会对本国发展道路与文明价值的理性理解与实质承认。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1048–1050)]]
+> 文化认同探索（Cultural Recognition）指主权国家在[[Transnational Education|跨国高等教育]]交流与文化对外传播中，打破预设周边国家自愿接受宗主国传统伦理感召的文化同化预设，转向以传播当代国家治理实践、经济转型经验与现代科技成就为载体，谋求受援国及国际社会对本国发展道路与文明价值的理性理解与实质承认。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1048–1050)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向大国对外文化传播重心从古代民俗哲学向当代治理知识与发展模式的结构性转移。
@@ -78,7 +81,7 @@ updated: 2026-11-03
 
 > [!feature] 核心要素
 > - **传播内容当代化转型** 教学资源从以古代民俗和传统哲学为主转向当代社会治理、数字经济、宏观政策与产业发展经验。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1048–1049)]]
-> - **以受援国精英为核心受众** 依托高端学位项目与官员研修班，重点面向全球南方国家决策层与青年学者传播发展经验。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1049, 1052)]]
+> - **以受援国精英为核心受众** 依托高端学位项目与官员研修班，重点面向全球南方国家决策层与[[Early-Career Researchers|青年学者]]传播发展经验。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1049, 1052)]]
 > - **替代性制度叙事供给** 将本国经济高速增长与脱贫治理作为成功范例，为全球南方提供不同于[[Washington Consensus|华盛顿共识]]的发展道路选择。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1050)]]
 > - **双向互动中的策略性共识** 受援国出于自身工业化与技术提升需求主动寻求借鉴，在非对称结构中达成务实利益与理念认同的动态平衡。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1050, 1053)]]
 
@@ -102,7 +105,7 @@ updated: 2026-11-03
 > **文化认同替代文化同化** 探讨当代大国在跨国高教实践中如何通过重构知识传播内容，以现代治理经验的理性认可取代传统[[Tributary System|朝贡体系]]所预设的文明从属。
 
 > [!claim] Zhu, K. & [[Rui Yang|Yang, R.]]
-> **治理经验知识分享构建实质认同** 朱俊成与杨锐（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）通过中柬高等教育合作实证研究指出，来华留学教育与[[Confucius Institute|孔子学院]]教学重心已全面发生转向。教育部在《中国概况》课程中将古代与当代知识点比例调整为 1:1.2，重点讲授改革开放与现代科技治理；孔子学院与顶尖高校研讨班将移动支付、数字经济与特区建设作为核心内容。实证表明周边受援国主要通过研学中国治理模式激发对母国发展路径的深度反思，确立了以发展治理理性为纽带的文化认同机制。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1048–1050)]]
+> **治理经验知识分享构建实质认同** 朱俊成与杨锐（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）通过中柬高等教育合作实证研究指出，来华[[Study Abroad|留学]]教育与[[Confucius Institute|孔子学院]]教学重心已全面发生转向。教育部在《中国概况》课程中将古代与当代知识点比例调整为 1:1.2，重点讲授改革开放与现代科技治理；孔子学院与顶尖高校研讨班将移动支付、数字经济与特区建设作为核心内容。实证表明周边受援国主要通过研学中国治理模式激发对母国发展路径的深度反思，确立了以发展治理理性为纽带的文化认同机制。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1048–1050)]]
 
 ---
 

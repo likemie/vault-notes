@@ -12,10 +12,10 @@ aliases:
 summary: "以国家引导、资本积累与现代化转型为导向的宏观政治经济学范式与意识形态话语，在战后比较教育中具体化为将教育视作开启现代化大门的工具性范式，在当代跨国高等教育治理中则体现为强调多边对等互惠、公共产品供给与共同应对危机的知识外交叙事。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 42
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - concept/political-economy-geopolitics
   - modernization
@@ -34,13 +34,16 @@ related_concepts:
   - "[[Classical Geopolitics]]"
   - "[[Geopolitics]]"
   - "[[Mutual Learning]]"
+  - "[[Study Abroad]]"
   - "[[Open-Mindedness]]"
   - "[[Scientism]]"
   - "[[Technical Rationality]]"
+  - "[[Transnational Education]]"
   - "[[Document]]"
   - "[[Lifelong Learning]]"
   - "[[South-South Cooperation]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Scientific Mobility]]"
   - "[[Knowledge Exchange]]"
   - "[[Critical Pedagogy]]"
   - "[[Epistemology]]"
@@ -72,7 +75,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -109,7 +112,7 @@ updated: 2026-11-03
 > [!feature] 核心要素
 > - **现代化与经济增长导向** 将社会生产力提升、基础设施建设与产业结构升级确立为国家治理的核心目标，推动教育资源与劳动力市场需求紧密绑定。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–148)]]
 > - **技术官僚规划理性** 依赖由经济学与量化实证指标武装的技术官僚阶层，将教育规划、人力需求预测与课程开发作为普适中立的社会技术方案在跨国范围内移植。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 345)]]
-> - **公共产品与非零和共赢** 在涉外合作中倡导正和收益，强调通过建立共享性科研设施、学术交流营地与专项留学生资助，共同应对气候、能源与公共卫生等跨国危机。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1698)]]
+> - **公共产品与非零和共赢** 在涉外合作中倡导正和收益，强调通过建立共享性科研设施、学术交流营地与专项[[Study Abroad|留学]]生资助，共同应对气候、能源与公共卫生等跨国危机。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1698)]]
 > - **多边连接与包容互惠** 偏好设立低门槛、多主体的[[Open-Mindedness|开放性]]合作平台，通过扩大跨国校际网络覆盖面促进[[People-to-People Connectivity|民心相通]]与协同创新。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1699–1701)]]
 
 > [!logic-map]- 要素演进与治理架构
@@ -136,7 +139,7 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题二｜当代跨国高等教育中的发展主义叙事强调多边公共产品供给与对等共赢
+> [!concept-proposition] 命题二｜当代[[Transnational Education|跨国高等教育]]中的发展主义叙事强调多边公共产品供给与对等共赢
 > **跨国知识合作中的发展主义叙事与非零和逻辑** 探讨新兴国家在推进多边高教合作时如何动员发展主义叙事，构建对等互惠的[[Knowledge Diplomacy|知识外交]]平台。
 
 > [!claim] [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]]
@@ -176,7 +179,7 @@ updated: 2026-11-03
 > | 维度 | 地缘政治叙事（追求[[Knowledge Power\|知识权力]]） | 发展主义叙事（追求[[Knowledge Diplomacy\|知识外交]]） |
 > |---|---|---|
 > | **世界格局本体预设** | 国际体系是各国争夺霸权与地缘排他性势力范围的零和角斗场 | 国际体系是各国休戚与共、通过多边连接协同应对共同危机的生态网络 |
-> | **高等教育机构角色** | 精英大学充当国家地缘战略抓手，建立规则壁垒与学术议程垄断 | 开放大学联盟作为跨国公共产品孵化器，提供包容普惠的学术流动网络 |
+> | **高等教育机构角色** | 精英大学充当国家地缘战略抓手，建立规则壁垒与学术议程垄断 | 开放大学联盟作为跨国公共产品孵化器，提供包容普惠的[[Scientific Mobility\|学术流动]]网络 |
 > | **战略推进动力机制** | 追求相对收益与技术安全制衡，防范竞争对手获取核心科技知识 | 追求绝对收益与区域共同繁荣，视[[Knowledge Exchange\|知识交流]]为互利共生的民心桥梁 |
 > | **经验代表组织形态** | 严格准入、闭门提名的精英旗舰联盟（如[[Asian Universities Alliance\|亚洲大学联盟]] AUA） | 低门槛准入、学科子网自主运行的大众化联盟（如[[University Alliance of the Silk Road\|丝绸之路大学联盟]] UASR） |
 

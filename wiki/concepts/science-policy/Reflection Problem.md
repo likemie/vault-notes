@@ -8,7 +8,7 @@ aliases:
 summary: "由计量经济学家 Charles F. Manski (1993) 提出的同伴效应因果识别难题；指在观测数据中，由于个体自选择进入同质群体、成员间双向同时性影响以及未观测的外部共有冲击，研究者难以将真正的同伴因果溢出与虚假混杂关联区分开来。"
 type: concept
 domain: "science-policy"
-related_count: 16
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,8 +29,10 @@ related_methods:
   - "[[Ordinary Least Squares]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
+  - "[[Instrumental Variables]]"
   - "[[Fixed-Effect Model]]"
   - "[[Design-Based Research]]"
+  - "[[Natural Experiment]]"
   - "[[Experimental Research]]"
   - "[[Difference-in-Differences]]"
   - "[[Quasi-Experimental Designs]]"
@@ -43,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -73,7 +75,7 @@ updated: 2026-11-03
 > | 发生时序 | 组队或交往发生之前的前置偏好 | 成员互动过程中的即时共变 | 外部变量对群体成员的同步侵入 |
 > | 混杂实质 | 优秀个体倾向于主动寻找优秀同伴 | 个体 A 影响 B 的同时 B 亦在影响 A | 新建实验楼、教学大纲改革或科研经费激增 |
 > | 镜像隐喻 | 两面镜子被特意摆放在一起 | 镜中影像与本体彼此对称映射 | 房间内光线变亮使本体与倒影同时变清晰 |
-> | 解决方法 | 强制[[Random Assignment\|随机分配]]（如寝室随机抽签） | 工具变量法、滞后项模型或变点识别 | 引入双向[[Fixed-Effect Model\|固定效应]]与准自然实验外生冲击 |
+> | 解决方法 | 强制[[Random Assignment\|随机分配]]（如寝室随机抽签） | [[Instrumental Variables\|工具变量法]]、滞后项模型或变点识别 | 引入双向[[Fixed-Effect Model\|固定效应]]与准自然实验外生冲击 |
 
 ---
 
@@ -104,7 +106,7 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题二｜准自然实验外生冲击能够有效阻断反射问题的混杂回路
+> [!concept-proposition] 命题二｜[[Natural Experiment|准自然实验]]外生冲击能够有效阻断反射问题的混杂回路
 > **外生变异引入与[[Causality|因果推断]]解决路径** 探讨如何借助外生突变切断反向因果与共有冲击。
 
 > [!claim] [[Pierre Azoulay|Azoulay, P.]]

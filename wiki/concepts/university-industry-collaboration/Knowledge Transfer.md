@@ -7,7 +7,7 @@ aliases:
 summary: "指知识在主体、组织或地缘权力关系中流动、传递与挪用的多义概念，横跨知识地缘政治、产学合作与循证知识动员三大理论脉络。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -61,6 +61,7 @@ related_methods:
   - "[[Effect Size]]"
 related_persons:
   - "[[Plato]]"
+  - "[[Francis Bacon]]"
 related_facts:
   - "[[SPECTRUM]]"
   - "[[Silicon Structures Project]]"
@@ -77,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-10'
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -206,7 +207,7 @@ updated: 2026-11-03
 
 > [!dev-timeline] 知识转移的演变历程
 > - **古典与经院哲学根基** 希腊哲学善的理论经伪狄奥尼修斯与托马斯·阿奎那提炼为拉丁箴言 *omne bonum diffusum sui est*（一切善倾向于自我扩散），确立知识天然具有在人群中扩散的本体倾向；但古典等级制（[[Plato|柏拉图]]智者、儒家[[Junzi|君子]]）始终制约着转移的平权性（[[Argument_Partaken_2022_Springer|Partaken, 2022, p. 75]]）。
-> - **17–19世纪 — 从神学权力到地缘教义** 培根“知识即权力”（1597）在 19 世纪德国统一后被改造为扩张主义[[Geopolitics|地缘政治]]教义——“地理知识即世界权力”，知识转移成为服务于国家霸权领土扩张的工具（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp. 67–68]]）。
+> - **17–19世纪 — 从神学权力到地缘教义** [[Francis Bacon|培根]]“知识即权力”（1597）在 19 世纪德国统一后被改造为扩张主义[[Geopolitics|地缘政治]]教义——“地理知识即世界权力”，知识转移成为服务于国家霸权领土扩张的工具（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp. 67–68]]）。
 > - **1970–1980s — 产学隐性经验（Lore）与驻留机制确立** 加州理工 [[Silicon Structures Project|SSP]]、康奈尔 [[National Research and Resource Facility for Submicron Structures|NRRFSS]] 与斯坦福 CIS 探索轮转科学家、驻留工程师与 FMA 联合[[Mentorship|导师制]]，确立高技术重资产环境下以人员流动为载体的隐性经验转移[[Paradigm|范式]]。[[Argument_Mody_2017_MOH\|(Mody, 2017, pp. 290–292, 297)]]
 > - **1980s — 大学[[Bayh-Dole Act of 1980|拜杜法案]]与产学知识转移兴起** 伴随[[Knowledge-Based Economy|知识经济]]崛起，欧美大学成立知识转移办公室（KTO），知识转移在管理学中确立为技术商业化与校企[[Tacit Knowledge|隐性知识]]流动的核心概念。
 > - **2003 — 循证卫生决策中的 Lavis 战略框架** Lavis et al. (2003) 提出“五问”受众战略模型，标志着循证政策领域第一代知识转移分析工具的成熟。

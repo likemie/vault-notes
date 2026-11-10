@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Advance Market Commitments]]"
   - "[[Academic Medical Center]]"
+  - "[[Policy Translation]]"
   - "[[Paradigm]]"
 related_theories: []
 related_methods:
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-10-26
 
 > [!pathways] 业务运行机制与证据利用
 > - **严谨实证评估与因果推断** 综合运用[[Randomised Controlled Trials|随机对照试验]]（RCTs）、准实验匹配与宏观计量模型，系统评估各类教育与发展干预措施的成本效益比。
-> - **政策转译与敏捷简报分发** 设立专职政策外联团队，将长篇计量经济学工作文稿迅速压缩为面向内阁部长与国会议员的 2 页政策简报（Policy Briefs），精准适配快车道决策时间窗口。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 23, 58)]]
+> - **[[Policy Translation|政策转译]]与敏捷简报分发** 设立专职政策外联团队，将长篇计量经济学工作文稿迅速压缩为面向内阁部长与国会议员的 2 页政策简报（Policy Briefs），精准适配快车道决策时间窗口。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 23, 58)]]
 
 ---
 

@@ -10,7 +10,7 @@ aliases:
 summary: "以人为研究对象、按预设试验方案分阶段评估新药、医疗器械或前沿疗法安全性、有效性与风险收益比的前瞻性干预研究。在产学合作中构成生物医药领域资金体量最大、规制约束最严苛的转化载体；当代规制科学正通过接受真实世界证据、推行单项高统计效力确证性研究、设立受控监管沙盒以及搭建公私伙伴加速平台重塑临床试验范式。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 43
+related_count: 49
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -29,50 +29,56 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Contract Research Organization]]"
   - "[[Public-Private Partnership]]"
-  - "[[Advance Market Commitments]]"
   - "[[Paradigm]]"
   - "[[Valley of Death]]"
   - "[[Cooperative Research and Development Agreement]]"
+  - "[[Preregistration]]"
+  - "[[Publication Bias]]"
+  - "[[Advance Market Commitments]]"
   - "[[Meta-Representational Competence]]"
   - "[[Informed Consent]]"
   - "[[Professional Judgment]]"
   - "[[Variable]]"
   - "[[External Validity]]"
-  - "[[Translational Research]]"
-  - "[[Research Translation]]"
-  - "[[Causality]]"
-  - "[[Permissionless Innovation]]"
+  - "[[Document]]"
 related_theories:
   - "[[Developmental Network State]]"
   - "[[Complex Systems Model of Evidence]]"
 related_methods:
   - "[[Intervention Research]]"
   - "[[Blinding]]"
+  - "[[Instrumental Variables]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
   - "[[Sample Size Determination]]"
   - "[[Pre-test and Post-test]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
+  - "[[Record Linkage]]"
+  - "[[Documentary Analysis]]"
 related_persons:
   - "[[Fred Block]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
   - "[[Michael Kratsios]]"
 related_facts:
-  - "[[Office of Science and Technology Policy]]"
   - "[[Accelerating Medicines Partnership]]"
-  - "[[Clinical Trials Transformation Initiative]]"
   - "[[National Institutes of Health]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[ClinicalTrials.gov]]"
+  - "[[Clinical Trials Transformation Initiative]]"
+  - "[[Office of Science and Technology Policy]]"
   - "[[Science A New Golden Age 2026]]"
 related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Block_2008_PS]]"
-  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit10]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Lin_2023_SciData]]"
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -107,7 +113,7 @@ updated: 2026-11-03
 > | **I 期（安全性与耐受性）** | 20–100 人（健康人或晚期患者） | 评估安全性、最大耐受剂量（MTD）、剂量限制性毒性（DLT） | 确定 II 期推荐给药剂量（RP2D），肿瘤学占新增试验 10.5% |
 > | **II 期（初步疗效探索）** | 100–300 人目标适应症患者 | 初步评估药物有效性、生物标志物响应及短期不良反应 | 验证靶点机制有效性，优化给药频次与患者亚群分层 |
 > | **III 期（大规模确证性研究）** | 1000–3000+ 人大规模多中心 | 随机双盲对照（vs 标准治疗或安慰剂），确证总体风险收益比 | 法定获批的[[Necessary and Sufficient Conditions\|必要条件]]；现代改革提倡单项高功效确证试验 |
-> | **IV 期（上市后监测）** | 广泛真实世界患者群体 | 监测罕见/长期不良反应、探索新适应症与补充新药申请（sNDA） | 持续优化临床用药指南，或通过补充申请拓展全新治疗领域 |
+> | **[[Instrumental Variables\|IV]] 期（上市后监测）** | 广泛真实世界患者群体 | 监测罕见/长期不良反应、探索新适应症与补充新药申请（sNDA） | 持续优化临床用药指南，或通过补充申请拓展全新治疗领域 |
 
 ---
 
@@ -122,7 +128,7 @@ updated: 2026-11-03
 > [!concept-proposition] 命题一｜审批迟滞与重资产成本构成临床试验本土转化的主要摩擦
 > **规制成本与创新外移** 探讨双重三期临床试验的高额财务与时间成本如何阻碍前沿突破性疗法落地，诱发临床试验向海外基地转移。
 
-> [!claim] [[Michael Kratsios|Kratsios, M.]]
+> [!claim] Kratsios, M.
 > **规制摩擦驱动临床试验外移与成本攀升** 传统的双重三期临床试验要求与冗长的行政伦理审批，导致新药与医疗器械的临床转化面临高昂的时间与财务门槛；国际试验基地低廉的运营成本进一步加剧了本土临床科研的竞争压力。加利福尼亚州研发的创新视网膜假体由于本土审批流程漫长被迫转移至欧洲开展临床；典型学术医学中心在招募首名患者前的管理与启动成本达 2.5 万至 20 万美元，启动流程通常耗时 120 天至一年以上，极大延误了救命疗法的上市进程。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 38)]]
 
 ---
@@ -130,7 +136,7 @@ updated: 2026-11-03
 > [!concept-proposition] 命题二｜现代规制科学通过真实世界证据、单项确证试验与监管沙盒重塑临床评估[[Paradigm|范式]]
 > **审评机制创新与效度再平衡** 探讨监管机构如何在确保受试者安全的同时，通过真实世界证据（RWE）与单项高功效确证试验权衡审批拖延带来的不行动代价。
 
-> [!claim] [[Michael Kratsios|Kratsios, M.]]
+> [!claim] Kratsios, M.
 > **规制松绑与证据创新实现安全性与敏捷性的再平衡** 监管机构推行基于真实世界数据（RWE）的审评创新，以单项高统计效力确证性研究取代机械的两项大规模重复试验，并在受控监管沙盒中先行先试，能够有效将临床试验周期压缩数年，同时严谨权衡审批拖延带来的“不行动代价”。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 38)]]
 
 ---
@@ -138,7 +144,7 @@ updated: 2026-11-03
 > [!concept-proposition] 命题三｜独立公私伙伴平台有效化解早期临床试验的高失败率风险
 > **前竞争联合与靶点共性去风险** 探讨通过非营利法定基金会汇聚公共与私人资本，在临床前与早期临床中共享数据如何降低转化试错成本。
 
-> [!claim] [[Michael Kratsios|Kratsios, M.]]
+> [!claim] Kratsios, M.
 > **前竞争联合体分摊靶点验证共性风险** 依托独立法定基金会聚合公共财政与制药龙头资本，在临床前和早期临床阶段共享数据与样本库（如加速药物伙伴关系 AMP），能够显著提高 II/III 期临床试验的成功概率，大幅降低全行业试错成本。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 42)]]
 
 ---
@@ -151,11 +157,11 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题五｜临床试验强制预注册与顶刊出版准入绑定确立了抵御发表偏倚的制度防线
+> [!concept-proposition] 命题五｜临床试验强制[[Preregistration|预注册]]与顶刊出版准入绑定确立了抵御[[Publication Bias|发表偏倚]]的制度防线
 > **出版准入与透明度规制** 探讨将试验方案事前登记作为学术期刊审稿的前置刚性门槛，如何从根源上遏制负面结果隐匿与选择性报告。
 
 > [!claim] [[Dashun Wang|Wang, D.]] & [[Albert-László Barabási|Barabási, A.-L.]]
-> **方案事前锁定与期刊拒收铁律破除抽屉效应** 王大顺（Dashun Wang）与阿尔伯特-拉斯洛·巴拉巴西（Albert-László Barabási）指出，医学研究历来面临医药企业隐匿无效或负面实验结果的严峻挑战；为彻底封堵文件抽屉效应的逃避通道，医学界于 2000 年建立 ClinicalTrials.gov 平台，强制要求在招募受试者前完成方案预注册；2005 年国际医学期刊编辑委员会（ICMJE）更是强力执行铁律：未在公开试验库中预先登记的临床试验，顶级期刊均严格拒收其后续的三期临床试验报告。这一刚性准入机制将临床试验合规与学术发表生命线彻底绑定，为全学科防范科研偏倚树立了标杆。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 228–229)]]
+> **方案事前锁定与期刊拒收铁律破除抽屉效应** 王大顺（Dashun Wang）与阿尔伯特-拉斯洛·巴拉巴西（Albert-László Barabási）指出，医学研究历来面临医药企业隐匿无效或负面实验结果的严峻挑战；为彻底封堵文件抽屉效应的逃避通道，医学界于 2000 年建立 [[ClinicalTrials.gov]] 平台，强制要求在招募受试者前完成方案预注册；2005 年国际医学期刊编辑委员会（ICMJE）更是强力执行铁律：未在公开试验库中预先登记的临床试验，顶级期刊均严格拒收其后续的三期临床试验报告。这一刚性准入机制将临床试验合规与学术发表生命线彻底绑定，为全学科防范科研偏倚树立了标杆。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 228–229)]]
 
 ---
 
@@ -212,13 +218,13 @@ updated: 2026-11-03
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Lin_2023_SciData\|Lin et al. (2023)]] | ClinicalTrials.gov 全库 398,598 项临床试验记录（截至 2022 年） | 跨库实体消歧与记录链接 | 临床试验与基础科研成果的引用转化率 | 398,598 项临床试验中，73,346 项（18.4%）至少直接引用 1 项基础学术成果，累计建立 338,705 条“基础成果—临床试验”下游转化关联 | 官方数据库全量对齐与严格标识符匹配 | 仅能捕捉正式登记且规范著录文献引用的临床试验；未直接著录学术成果引用的试验或早期未登记试验未纳入统计 |
-> | [[Argument_Block_2008_PS\|Block (2008, pp. 196–198)]] | 抗癌药紫杉醇（Taxol）研发与临床试验（美国公共部门与药企） | 历史个案与政府审计文献分析 | 联邦公共出资 vs 商业销售 vs 政府版税回收 | 联邦政府早期基础合成与临床试验投入 3200 万美元；施贵宝商业销售达数十亿美元，仅 Medicare 支付药费达 5 亿美元，政府收回版税仅 3500 万美元 | GAO (2003) 官方审计核验 | 揭示隐蔽网络国家下公共出资承担关键试错风险与商业排他独占的利益倒挂困境 |
+> | [[Argument_Lin_2023_SciData\|Lin et al. (2023)]] | ClinicalTrials.gov 全库 398,598 项临床试验记录（截至 2022 年） | 跨库实体消歧与[[Record Linkage\|记录链接]] | 临床试验与基础科研成果的引用转化率 | 398,598 项临床试验中，73,346 项（18.4%）至少直接引用 1 项基础学术成果，累计建立 338,705 条“基础成果—临床试验”下游转化关联 | 官方数据库全量对齐与严格标识符匹配 | 仅能捕捉正式登记且规范著录[[Document\|文献]]引用的临床试验；未直接著录学术成果引用的试验或早期未登记试验未纳入统计 |
+> | [[Argument_Block_2008_PS\|Block (2008, pp. 196–198)]] | 抗癌药紫杉醇（Taxol）研发与临床试验（美国公共部门与药企） | 历史个案与政府审计[[Documentary Analysis\|文献分析]] | 联邦公共出资 vs 商业销售 vs 政府版税回收 | 联邦政府早期基础合成与临床试验投入 3200 万美元；施贵宝商业销售达数十亿美元，仅 Medicare 支付药费达 5 亿美元，政府收回版税仅 3500 万美元 | GAO (2003) 官方审计核验 | 揭示隐蔽网络国家下公共出资承担关键试错风险与商业排他独占的利益倒挂困境 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 38)]] | 美国加州创新视网膜假体研发及全美学术医学中心临床试验 | 政策文献与国家科技战略调研 | 跨国临床基地成本比与学术机构启动周期 | 国际试验基地运营成本仅为美国学术医学中心的 1/6；学术机构启动耗时 120–365 天（高效支持团队可缩短至 60 天内）；首例患者招募前管理成本为 25,000 至 200,000 美元 | 产学合作财务与运营审计数据 | 证实传统严苛双重三期审批与冗长伦理审查推高本土转化摩擦并诱发临床试验外流 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 42)]] | 加速药物伙伴关系（AMP）公私协同研发平台 | 旗舰公私伙伴机制追踪 | 候选靶点验证产出 | 在阿尔茨海默病领域成功验证 20 个高价值候选靶点 | 跨药企与 NIH 共享数据验证 | 证实混合公共与私人资本的前竞争联合体能够有效分摊早期临床前与临床试验风险 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit10\|Wang & Barabási (2021, pp. 228–229)]] | 全球临床试验预注册与顶级医学期刊发表准入联动机制 | 科学学规制与计量分析 | 未预先注册试验的三期报告顶刊录用率 | 2005 年起 ICMJE 成员期刊对未在公开库（如 ClinicalTrials.gov）事前注册的临床试验执行 100% 拒收铁律 | 国际医学期刊编辑委员会制度统计 | 证实方案事前锁定与出版刚性准入绑定能够从根源上遏制文件抽屉效应与发表偏倚 |

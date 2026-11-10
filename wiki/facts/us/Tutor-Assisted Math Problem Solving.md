@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -44,6 +44,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Jack Douglas]]"
+  - "[[Ben Levin]]"
 related_facts:
   - "[[United States Department of Education]]"
   - "[[Institute of Education Sciences]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -82,7 +83,7 @@ updated: 2026-10-26
 >   - **代数算式转化与求解** 运用未知数代数方程式表征图式关系，解出目标量并验证答案合理性。
 > - **助教 1:1 密集递送** 教学助教接受 1–2 天集中培训，每周开展 3 次、每次 30 分钟的一对一个别化辅导，共持续 12–16 周。
 
-> [!citation-card] 斯莱文论 TAMPS 助教辅导的高额实证效能
+> [!citation-card] 斯[[Ben Levin|莱文]]论 TAMPS 助教辅导的高额实证效能
 > 在初等数学应用题个别化辅导领域，助教辅导方案展现出极为惊人的因果效益。由教学助教针对三年级学困儿童开展的一对一 Tutor-Assisted Math [[Problem Solving]] 方案，在严格[[Randomised Controlled Trials\|随机对照试验]]中取得了高达 +0.42 的学业[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）的强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *Tutor-Assisted Math Problem Solving, delivered by [[Teaching Assistant|Teaching Assistants]] to third graders in 1:1 sessions, produced an effect size of +0.42, qualifying for the Strong rating under ESSA.*

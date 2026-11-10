@@ -9,9 +9,9 @@ subtype: organization
 region: france
 fact_region: "france"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 国家级公共科研机构／科学技术公立机构（EPST）
 headquarters: 法国巴黎（Paris, France）
@@ -38,6 +38,7 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Ben Levin]]"
   - "[[Pierre Bourdieu]]"
   - "[[Dan Sperber]]"
 related_facts:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -93,7 +94,7 @@ updated: 2026-11-02
 > - **国家最高学术荣誉评选** 每年颁发全法最具声望的科学奖项——CNRS 金奖（Médaille d'or du CNRS），用以表彰为世界科学做出开创性贡献的杰出学者。
 > - **产学联合与国际合作** 与道达尔、空客、赛诺菲等跨国工业巨头设立联合实验室，并在全球运营数十个国际前沿研究实体。
 
-> [!citation-card] 舒尔茨-克莱文论 CNRS 代表的高等教育治理跨国多样性
+> [!citation-card] 舒尔茨-克[[Ben Levin|莱文]]论 CNRS 代表的高等教育治理跨国多样性
 > 卓越标准在全球范围内并未被统一化。只要不同国家政府使用不同的标准和机制来决定资源分配——法国的 CNRS 和美国的 [[National Science Foundation|NSF]] 采用完全不同的拨款逻辑——符号等级与财政手段分配就不会被系统地强制协调。跨国差异展示了高等教育治理并非只有一条通向卓越的路径。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, p. 809)]]
 >
 > *"As long as national governments use diverse criteria and mechanisms to allocate resources... France's CNRS and the US National Science Foundation operate on different allocation rationales, symbolic hierarchies and the distribution of financial means will not be systematically aligned. This divergence highlights spaces for alternative pathways and institutional experimentation."*

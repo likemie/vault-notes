@@ -8,7 +8,7 @@ aliases:
 summary: "由 Stevens et al.（1987）开发的综合性语言与读写合作学习模式。该技术将教师主导的阅读理解策略精讲与异质性同伴配对朗读、词汇协商、故事语法图解、同伴互评修改及故事续写系统整合，是合作学习中干预效应最为突出的技术模式（ES = 2.04）。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Decodification]]"
   - "[[Peer-Supported Learning]]"
   - "[[Reading Strategies]]"
+  - "[[Feedback]]"
   - "[[Scaffolding]]"
   - "[[Peer Assessment]]"
   - "[[Teacher Professional Agency]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -94,7 +95,7 @@ updated: 2026-11-03
 > - **同伴审阅与清单互评修改（Peer Editing & Writing Process）** 依据标准化清单相互审阅写作草稿，提供具体修改建议并完成定稿打磨。
 > - **个体独立测试与团队进步表彰（Individual Accountability & Team Recognition）** 学生独立参加阅读理解与写作测验，依据个人进步分为团队赢取集体表彰。
 
-> [!logic-map]- CIRC 五步读写教学反馈回路
+> [!logic-map]- CIRC 五步读写[[Feedback|教学反馈]]回路
 > ```mermaid
 > flowchart LR
 >     A["1. 教师显性策略示范<br>（阅读技巧建模）"] --> B["2. 配对朗读与纠音<br>（高频口头输出）"]

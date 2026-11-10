@@ -11,7 +11,7 @@ aliases:
 summary: "将神经科学发现应用于教育实践的跨学科领域，主张以大脑学习机制为依据设计教学。被批评为简化主义，忽视社会互动和情境因素，且在历史上曾被用于为压迫性政策提供科学依据。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ tags:
   - policy-analysis
 related_concepts:
   - "[[Comparative Education as a Cross-Sectional Area]]"
-  - "[[Screening Off]]"
   - "[[Discourse]]"
   - "[[What Works Movement]]"
   - "[[Working Memory]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -57,7 +56,7 @@ updated: 2026-10-30
 > 该领域试图通过[[Functional Magnetic Resonance Imaging\|功能性磁共振成像]]（fMRI）等神经影像技术与认知心理学实验，将脑部的生理活动（如神经元连接、脑区激活）映射为人类的学习行为（如识字、计算、记忆）。
 
 > [!boundary]- 科学边界与警戒
-> 虽然神经科学可以“为教育提供关键信息”，但它绝不是解决所有教育问题的万能药（OECD, 2007, p. 21）。过度强调单一的生理机制而[[Screening Off\|屏蔽]]社会、文化和制度因素，会导致教育治理滑向生物简化主义，甚至产生严重的政策滥用。
+> 虽然神经科学可以“为教育提供关键信息”，但它绝不是解决所有教育问题的万能药（OECD, 2007, p. 21）。过度强调单一的生理机制而屏蔽社会、文化和制度因素，会导致教育治理滑向生物简化主义，甚至产生严重的政策滥用。
 
 ---
 

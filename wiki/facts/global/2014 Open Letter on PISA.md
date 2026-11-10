@@ -13,7 +13,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 30
+fact_related_count: 32
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#fef3c7"
@@ -25,6 +25,7 @@ tags:
   - educational-governance
 related_concepts:
   - "[[Media Logic]]"
+  - "[[Transnational Education]]"
   - "[[Progressive Education]]"
   - "[[Positivism]]"
   - "[[Epistemology]]"
@@ -33,6 +34,7 @@ related_concepts:
   - "[[Rashomon Effect]]"
   - "[[Policy Avoidance]]"
   - "[[Educational Meliorism]]"
+  - "[[Cumulative Innovation]]"
   - "[[Academic Achievement]]"
   - "[[Test-Based Accountability]]"
   - "[[Document]]"
@@ -63,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -81,7 +83,7 @@ updated: 2026-11-02
 
 > [!dev-timeline] 事件推进历程
 > - **2014-05-06 — 联名公开信刊发与全球舆论引爆** 83 位国际顶尖学者在《卫报》刊发题为《[[OECD]] 与 [[PISA]] 测验正在损害全球教育》（OECD and Pisa tests are damaging education worldwide）的联名信，列举 PISA 六大系统性弊端，公开发出呼吁要求暂停下一轮 PISA 测评（PISA 2015）。
-> - **2014-05-15 — OECD 官方辩护与公关反驳** [[Andreas Schleicher]] 代表 OECD 迅速发表公开回应，辩称 PISA 的根本宗旨在于促进跨国教育经验交流与促进教育公平，否认 PISA 造成了短期功利主义，并坚称跨国量化数据是各国改进教育系统的必要工具。
+> - **2014-05-15 — OECD 官方辩护与公关反驳** [[Andreas Schleicher]] 代表 OECD 迅速发表公开回应，辩称 PISA 的根本宗旨在于促进[[Transnational Education|跨国教育]]经验交流与促进教育公平，否认 PISA 造成了短期功利主义，并坚称跨国量化数据是各国改进教育系统的必要工具。
 > - **2014-06–2015 — 国际多方阵营的大论战** 围绕公开信的争论在《比较教育》（*Comparative Education*）等顶级国际学术期刊以及各大国际学术年会上深化，形成了批判学者、经济测量专家与各国内政官员之间的持续博弈；公开信迅速征集到来自 80 多个国家的数千名一线教师、校长与研究者的追加签名支持。
 > - **2016–至今 — 制度性溢出与北欧等国杯葛 [[Baby PISA]]** 公开信所确立的批判框架（民主授权赤字、过度标准化与全生命周期监控）成为后续跨国抵制运动的核心理论源泉，直接促成了瑞典、挪威、丹麦等北欧国家集体拒绝参与 OECD 后续发起的幼儿版评估项目（[[Baby PISA]]）。
 
@@ -145,7 +147,7 @@ updated: 2026-11-02
 > > 探讨对于 PISA 这一庞然大物，学术界的理性策略是协助其改善测量信效度，还是应当坚决予以抵制和终结。
 > >
 > > - **[[Educational Meliorism\|改良主义]]视角** 部分心理测量学者认为应通过改善跨语言等价性、引入过程数据与拓宽评价领域来拯救 PISA。
-> > - **废除主义视角** 公开信核心签署者及后续研究者指出，PISA 的根本缺陷在于其将经济竞争作为教育唯一目的的哲学根基，任何技术维度的修补都无法改变其压抑教育人本价值的本质，唯有终结排列表文化方能拯救教育。
+> > - **废除主义视角** 公开信核心签署者及[[Cumulative Innovation|后续研究]]者指出，PISA 的根本缺陷在于其将经济竞争作为教育唯一目的的哲学根基，任何技术维度的修补都无法改变其压抑教育人本价值的本质，唯有终结排列表文化方能拯救教育。
 
 ---
 

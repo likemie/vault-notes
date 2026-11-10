@@ -7,7 +7,7 @@ summary: "德裔美籍著名政治哲学家、思想家，20世纪最具原创�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 27
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -24,9 +24,6 @@ related_concepts:
   - "[[Bureaucracy]]"
   - "[[Document]]"
   - "[[Critical Thinking]]"
-  - "[[Bildung]]"
-  - "[[Positivism]]"
-  - "[[Visible Learning]]"
   - "[[Technological Republic]]"
   - "[[Constructive Disobedience]]"
   - "[[Evidence-Based Education]]"
@@ -41,7 +38,7 @@ related_persons:
   - "[[Stanley Milgram]]"
   - "[[Thomas Aastrup Rømer]]"
   - "[[Gert Biesta]]"
-  - "[[John Hattie]]"
+  - "[[Gabriel Heller Sahlgren]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
   - "[[Immanuel Kant]]"
@@ -51,12 +48,12 @@ related_facts:
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12]]"
   - "[[Argument_Rømer_2018_EPT]]"
-  - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Sahlgren_2015_CPS]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-06
+updated: 2026-11-11
 ---
 
 ---
@@ -124,7 +121,7 @@ updated: 2026-11-06
 > [!influence-path] 影响路径
 > - **理论路径** 深刻重塑了 20 世纪政治哲学、极权主义研究与民主审议理论；其复多性与公共领域概念直接启发了[[Jürgen Habermas|哈贝马斯]]（Jürgen Habermas）的交往行动理论，以及当代共和主义政治学。
 > - **实证互证路径** 艾希曼审判中提出的“[[Banality of Evil|平庸之恶]]”哲学论断，在社会心理学黄金时期与斯坦利·[[Stanley Milgram|米尔格拉姆]]（Stanley Milgram）的权威服从实验（[[Milgram Obedience Experiment|米尔格拉姆服从实验]]）形成严密互证，从经验数据上证实了普通人在层级权威压迫下以礼貌合规执行致命残酷指令的微观机制。
-> - **教育哲学路径** 经由托马斯·奥斯特鲁普·勒梅尔（[[Thomas Aastrup Rømer]]）与赫特·比斯塔（[[Gert Biesta]]）等学者，阿伦特的判断力理论被引入当代教育哲学，成为抵抗新自由主义工具化测评、捍卫主体化的关键资源；其在《教育的危机》（1954）中关于学校作为保护性建制及维持成人权威必要性的论断，被加布里埃尔·赫勒·萨尔格伦（[[Argument_Sahlgren_2015_CPS|Sahlgren, 2015, pp. 64–66]]）用于剖析学生中心探究教学法推卸教学主导责任导致的课堂纪律与学业滑坡。
+> - **教育哲学路径** 经由托马斯·奥斯特鲁普·勒梅尔（[[Thomas Aastrup Rømer]]）与赫特·比斯塔（[[Gert Biesta]]）等学者，阿伦特的判断力理论被引入当代教育哲学，成为抵抗新自由主义工具化测评、捍卫主体化的关键资源；其在《教育的危机》（1954）中关于学校作为保护性建制及维持成人权威必要性的论断，被[[Gabriel Heller Sahlgren|加布里埃尔·赫勒·萨尔格伦]]（[[Argument_Sahlgren_2015_CPS|Sahlgren, 2015, pp. 64–66]]）用于剖析学生中心探究教学法推卸教学主导责任导致的课堂纪律与学业滑坡。
 > - **组织与治理路径** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]在《[[Technological Republic|技术共和国]]》中，将阿伦特对平庸之恶的剖析延伸至科技企业与国家安全工程治理，强调现代科技创新组织必须坚决打破选拔唯命是从者的官僚文化，通过制度化包容[[Constructive Disobedience|建设性不服从]]来防范挑战者号式的系统性决策灾难。
 
 > [!evidence-grid-a] 相关研究索引

@@ -8,10 +8,10 @@ aliases:
 summary: "由公共财政出资但引入市场化竞争与自由选择机制的公共服务配置制度。在教育领域，准市场通过券款随生、多元供给者竞争与契约化管理打破国家直接垄断；晚近批判政策分析揭示，主权国家亦通过公共采购与试验床建设，在公立系统内人为培植支撑私营资本向海外扩张的非对称国内准市场。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 17
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept
   - subject/educational-policy-reform
@@ -19,25 +19,33 @@ tags:
   - marketisation
   - quasi-market
 related_concepts:
+  - "[[Education Export]]"
+  - "[[Document]]"
   - "[[Educational Privatisation]]"
-  - "[[School Choice]]"
   - "[[Public-Private Partnership]]"
+  - "[[Bureaucracy]]"
+  - "[[School Choice]]"
   - "[[New Public Management]]"
+  - "[[Soft Privatisation]]"
+  - "[[Commensuration]]"
+  - "[[Discourse]]"
   - "[[Competitiveness]]"
+  - "[[Paradigm]]"
   - "[[Global Education Industry]]"
 related_theories:
   - "[[Governmentality]]"
-  - "[[Human Capital Theory]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Finnish Government Education Export Programme]]"
 related_arguments:
   - "[[Argument_Kuortti_2025_JEdPolicy]]"
 confidence: high
 status: completed
 created: 2026-11-09
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 
 ---
@@ -51,18 +59,18 @@ updated: 2026-11-09
 > - **边界** 不等于完全依靠价格机制和个人全额自费的纯粹自由市场；亦不等于由中央或地方政府直接层级统制的传统科层官僚垄断。
 
 > [!citation-card|notitle] 关键表述：库尔蒂（2025）论国内准市场的国家孵化
-> 芬兰教育出口政策文献关于国内市场的论述假定，教育出口无法与国内公共教育割裂。政策明确主张构建一个具备公立部门深度参与产品研发、教育机构承担商业运作风险、通过公共采购帮助出口企业获取参考凭据，以及公私协作确保资本投资的国内市场。国家通过公共采购将公立学校开放为教育科技企业的平台、实验室与原材料，体现了国家在受保护的公立系统内人为培育准市场的治理理性。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 391–392)]]
+> 芬兰[[Education Export|教育出口]]政策[[Document|文献]]关于国内市场的论述假定，教育出口无法与国内公共教育割裂。政策明确主张构建一个具备公立部门深度参与产品研发、教育机构承担商业运作风险、通过公共采购帮助出口企业获取参考凭据，以及公私协作确保资本投资的国内市场。国家通过公共采购将公立学校开放为教育科技企业的平台、实验室与原材料，体现了国家在受保护的公立系统内人为培育准市场的治理理性。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 391–392)]]
 >
-> *The FGEE documents' focus on the domestic market assumes that education export cannot be considered as something separate from domestic public education... the FGEE programme is articulate and explicit about the idea of creating a domestic market with features such as public involvement in educational product development, education institutions assuming risks of business operations, public procurement to assist education export companies in acquiring references, and public- and private-sector cooperation...*
+> *The [[Finnish Government Education Export Programme|FGEE]] documents' focus on the domestic market assumes that education export cannot be considered as something separate from domestic public education... the FGEE programme is articulate and explicit about the idea of creating a domestic market with features such as public involvement in educational product development, education institutions assuming risks of business operations, public procurement to assist education export companies in acquiring references, and public- and private-sector cooperation...*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Educational Privatisation|教育私有化]] — 教育私有化侧重产权转移与私人资本对学校资产的直接占有；准市场则保留了国家公共财政兜底出资的核心属性，属于“公有资金、市场运作”的混合型治理工具。
-> - 不等于 [[Public-Private Partnership|公私伙伴关系（PPP）]] — PPP 侧重特定工程项目或基础设施建设中的政府与私营资本联合契约；准市场则是面向全域教育系统、以消费者自由选择驱动多元供给者系统性竞争的宏观体制安排。
+> - 不等于 [[Public-Private Partnership|公私伙伴关系]]（PPP） — PPP 侧重特定工程项目或基础设施建设中的政府与私营资本联合契约；准市场则是面向全域教育系统、以消费者自由选择驱动多元供给者系统性竞争的宏观体制安排。
 
 ---
 
 > [!contrast-table|notitle] 概念辨析
-> | 维度 | 准市场（Quasi-market） | 纯粹自由市场（Pure Market） | 传统公共科层体制（Bureaucracy） |
+> | 维度 | 准市场（Quasi-market） | 纯粹自由市场（Pure Market） | 传统公共科层体制（[[Bureaucracy]]） |
 > |:---|:---|:---|:---|
 > | **资金来源** | 公共财政与国家税收统一兜底（如代金券、生均公用经费） | 个人与家庭直接支付市场价格，缺乏普遍公共兜底 | 国家预算按机构编制与行政级别直接定额划拨 |
 > | **供给主体** | 公立、私立非营利及私立营利机构共同竞标提供 | 私营商业公司与市场机构自主提供 | 唯一的政府公立学校网络直接垄断提供 |
@@ -97,7 +105,7 @@ updated: 2026-11-09
 > > **准市场条件假说** 准市场要达成提高效率、回应需求与保障公平的目标，必须同时满足结构竞争（足够数量的买家与卖家）、信息对称、交易成本可控以及规避“奶油抽吸”（cream-skimming）四项苛刻制度前提；一旦供给方具有选择消费者的权力，市场机制将不可避免地导致优质机构争抢富裕生源而排斥边缘弱势群体。
 > 
 > > [!claim] Ball (2007)
-> > **隐性私有化与新自由主义渗透** 准市场是国家主动瓦解公共教育整体性的关键媒介；通过在公立系统内部植入商业竞争规则，国家将原本属于公民基本权利的公共教育转变为可量化通约、可买卖消费的准商品，为私营资本深度介入国家教育治理搭建了制度跳板。
+> > **[[Soft Privatisation|隐性私有化]]与新自由主义渗透** 准市场是国家主动瓦解公共教育整体性的关键媒介；通过在公立系统内部植入商业竞争规则，国家将原本属于公民基本权利的公共教育转变为可量化[[Commensuration|通约]]、可买卖消费的准商品，为私营资本深度介入国家教育治理搭建了制度跳板。
 
 ---
 
@@ -118,16 +126,16 @@ updated: 2026-11-09
 ---
 
 > [!dev-timeline] 概念演变
-> - **1990 年代 — 理论奠基与福利制度重构** 英国社会学家勒格兰德与巴特利特（1993）系统提出“准市场”分析框架，为撒切尔与大西洋两岸新公共管理改革提供理论阐释，界定公有资金与市场化多元供给结合的治理机制。
+> - **1990 年代 — 理论奠基与福利制度重构** 英国社会学家勒格兰德与巴特利特（1993）系统提出“准市场”[[Analytic Framework|分析框架]]，为撒切尔与大西洋两岸新公共管理改革提供理论阐释，界定公有资金与市场化多元供给结合的治理机制。
 > - **2000 年代 — 批判政策社会学审视** 鲍尔（2007）等学者深入剖析英美基础教育准市场改革，揭示教育准市场如何促使学校管理层异化为追逐排位与高阶生源的企业家主体，导致社会不平等制度化。
-> - **2020 年代 — 产业生态化与国家测试床转向** 库尔蒂（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025]]）等学者将准市场分析推向国家教育出口与产业创新领域，揭示后福利国家如何通过“生态系统”话语在国内人为制造准市场，将公立教育降格为私人资本出海的孵化测试场。
+> - **2020 年代 — 产业生态化与国家测试床转向** 库尔蒂（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025]]）等学者将准市场分析推向国家教育出口与产业创新领域，揭示后福利国家如何通过“生态系统”[[Discourse|话语]]在国内人为制造准市场，将公立教育降格为私人资本出海的孵化测试场。
 
 ---
 
 > [!debates|notitle] 学术争议
 >
 > > [!axis] 资源配置效率提升 vs 公共教育公平底线侵蚀
-> > 新自由主义经济学与公共政策分析学者认为，准市场通过打破官僚行政垄断引入优胜劣汰，激励学校提升教学质量与服务敏捷度；批判教育社会学者则指出，准市场必然促发择校竞争与阶层隔离，将弱势群体滞留在缺乏资源竞争力的残余学校中。
+> > 新自由主义经济学与公共政策分析学者认为，准市场通过打破官僚行政垄断引入优胜劣汰，激励学校提升教学质量与服务敏捷度；批判教育社会学者则指出，准市场必然促发择校竞争与阶层隔离，将弱势群体滞留在缺乏资源[[Competitiveness|竞争力]]的残余学校中。
 >
 > > [!axis] 创新产业孵化载体 vs 公共资源非对称外溢
 > > 产业政策倡导者认为公立教育应当积极承担创新测试床职能，通过公私合作带动国家整体数字经济与高新产业出口竞争力；批判学者则指出这种准市场安排使公共财政承担所有研发失败成本，而成功利润与专利完全由私人资本攫取，严重损害了纳税人利益与教育公共性。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 391–393)]]
@@ -141,7 +149,7 @@ updated: 2026-11-09
 > | [[Educational Privatisation]] | Concept | 准市场构成了当代教育隐性私有化与外包网络扩张的核心制度载体。 |
 > | [[School Choice]] | Concept | 赋予家长与学生自由择校权是驱动准市场机构间竞争的关键需求端前提。 |
 > | [[Public-Private Partnership]] | Concept | 准市场中公立部门与私营资本联合提供公共服务的微观契约组织形态。 |
-> | [[New Public Management]] | Concept | 为准市场提供分权改革、契约外包、绩效审计与客户导向理论支撑的行政范式。 |
+> | [[New Public Management]] | Concept | 为准市场提供分权改革、契约外包、绩效审计与客户导向理论支撑的行政[[Paradigm\|范式]]。 |
 > | [[Global Education Industry]] | Concept | 准市场通过政府采购与测试床建设，为全球教育产业扩张培育本土母港与实验空间。 |
 > | [[Governmentality]] | Theory | 解释国家如何通过准市场竞争指标与自我审计技术对教育从业人员实施规训的理论框架。 |
 

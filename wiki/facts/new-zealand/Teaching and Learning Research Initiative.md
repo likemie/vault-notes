@@ -10,7 +10,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -45,6 +45,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[New Zealand Council for Educational Research]]"
   - "[[OECD]]"
   - "[[Best Evidence Synthesis]]"
   - "[[Education Endowment Foundation]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -63,7 +64,7 @@ updated: 2026-10-30
 
 > [!program-context] 项目背景档案
 > - **立项时间 / 周期** 2003 年由新西兰政府正式设立并持续稳定运作至今。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 109)]]
-> - **发起方与资助机制** 由新西兰政府全额拨款设立专项基金，由新西兰教育研究委员会（New Zealand Council for Educational Research, NZCER）负责日常运营管理；2021 年度资助总额为 150 万新西兰元，竞争性分配给 5 项重点课题。
+> - **发起方与资助机制** 由新西兰政府全额拨款设立专项基金，由[[New Zealand Council for Educational Research|新西兰教育研究委员会]]（New Zealand Council for Educational Research, NZCER）负责日常运营管理；2021 年度资助总额为 150 万新西兰元，竞争性分配给 5 项重点课题。
 > - **覆盖范围与对象** 贯通学前早期教育（Early Childhood Education, ECE）、初等与中等教育、第三级高等教育全学段；截至 2022 年累计资助 167 个重点研究项目，发表 150 余部研究报告，吸纳逾 400 名专业研究人员与一线教育实践者深入参与。
 > - **核心问题导向** 破除大学学术生产与课堂实践脱节的孤岛现象，改变教师仅作为被动受试客体的状况，探索以平等伙伴关系实现[[Knowledge Co-production\|知识共创]]的长效机制。
 

@@ -6,7 +6,7 @@ aliases:
 summary: "国际学生流动研究中的短期微观社会心理机制，指留学生在留学所在国建立日常人际友谊与积极生活体验后形成的积极怀旧感，归国后自发产生的口碑效应能够有效对冲外部大众媒体对留学国的负面刻板印象"
 type: concept
 domain: "comparative-education"
-related_count: 14
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,8 +16,10 @@ tags:
   - educational-diplomacy
   - soft-power
 related_concepts:
+  - "[[Study Abroad]]"
   - "[[Public Diplomacy]]"
   - "[[Para-Diplomatic Roles]]"
+  - "[[Nation Branding]]"
   - "[[Power Conversion Dilemma]]"
   - "[[Soft Power]]"
   - "[[Geopolitics]]"
@@ -39,13 +41,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Alumnus Effect
-> 校友效应（Alumnus Effect）指国际留学生在留学所在国求学期间，通过跨文化沉浸、校园生活与人际交往所建立的积极情感依恋与怀旧记忆（positive nostalgia）；在完成学业返回母国后，这种个体亲历好感通过人际口碑与社交网络向民间舆论自发扩散，从而在短期与微观层面对冲外部主流媒体对留学国所建构的负面刻板印象与偏见。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 84)]]
+> 校友效应（Alumnus Effect）指国际[[Study Abroad|留学]]生在留学所在国求学期间，通过跨文化沉浸、校园生活与人际交往所建立的积极情感依恋与怀旧记忆（positive nostalgia）；在完成学业返回母国后，这种个体亲历好感通过人际口碑与社交网络向民间舆论自发扩散，从而在短期与微观层面对冲外部主流媒体对留学国所建构的负面刻板印象与偏见。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 84)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向留学生跨国求学体验向微观社会资本与情感认同转化的心理传导机制。
@@ -59,7 +61,7 @@ updated: 2026-11-03
 
 > [!boundary]- 概念边界
 > - 不等于 [[Para-Diplomatic Roles]] — 校友效应聚焦于学生归国后在民间日常生活交往中的微观情感怀旧与人际口碑；准外交角色则聚焦于校友进入母国政企与智库体系后所发挥的长周期制度化跨国沟通职能。
-> - 不等于 [[Public Diplomacy]] — 公共外交属于国家自上而下开展的对外战略沟通与国家品牌塑造工程；校友效应属于自下而上、由受教育者自主生成的非正式心理认同产物。
+> - 不等于 [[Public Diplomacy]] — 公共外交属于国家自上而下开展的对外战略沟通与[[Nation Branding|国家品牌]]塑造工程；校友效应属于自下而上、由受教育者自主生成的非正式心理认同产物。
 
 ---
 

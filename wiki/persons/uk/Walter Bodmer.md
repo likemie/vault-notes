@@ -9,7 +9,7 @@ summary: "英国人类遗传学家、牛津大学教授，1985年主持撰写皇
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
   - theme/public-engagement
 related_concepts:
   - "[[Public Engagement with Science]]"
+  - "[[Lecturing]]"
   - "[[General Education]]"
   - "[[Deficit Model of Science Communication]]"
   - "[[Scientific Literacy]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -47,7 +48,7 @@ updated: 2026-11-02
 > [!person-profile] 人物档案
 > - **身份位置** 英国人类遗传学家、牛津大学分子医学研究所教授、[[The Royal Society|皇家学会]]会士（FRS）、医学科学院院士（FMedSci）。
 > - **核心角色** 英国现代[[Public Engagement with Science\|公众科学参与]]与科学传播政策的奠基者；1985 年主持撰写皇家学会《公众理解科学》报告（[[Bodmer Report 1985\|The Bodmer Report]]），推动科学界将面向公众的传播与对话确立为科学家的核心职责。
-> - **代表贡献** 主持发布《公众理解科学》报告（1985）、推动英国建立全国科学周（National Science Week）与法拉第讲座（Faraday Lecture）、倡导 16 岁前全员必修科学教育及 16–18 岁跨学科[[General Education\|通识教育]]。
+> - **代表贡献** 主持发布《公众理解科学》报告（1985）、推动英国建立全国科学周（National Science Week）与法拉第讲座（Faraday [[Lecturing|Lecture]]）、倡导 16 岁前全员必修科学教育及 16–18 岁跨学科[[General Education\|通识教育]]。
 
 > [!citation-card] 人物定位的关键来源
 > 《公众理解科学》报告出版至今已有 40 年，其产生的整体影响超出了所有预期。报告发布后，研究理事会被要求资助公众理解科学活动，研究基金申请必须说明如何促进公众理解科学。[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026, p. 4)]]

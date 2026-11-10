@@ -7,7 +7,7 @@ summary: "当代著名美国社会学家、伦敦政治经济学院与纽约大�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
   - theme/labor-studies
   - region/us
 related_concepts:
+  - "[[Nationalism]]"
   - "[[Geopolitics]]"
   - "[[Technological Republic]]"
   - "[[Post-Nationalism]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -60,7 +61,7 @@ updated: 2026-10-22
 > [!timeline] 生平与职涯
 > - **1943** 出生于美国芝加哥，后就读于芝加哥大学并在哈佛大学获得博士学位（师从戴维·里斯曼）。
 > - **1977** 出版《公共人的衰落》（*The Fall of Public Man*），诊断现代社会的过度私人化与公共领域萎缩。
-> - **1994** 在《纽约时报》发表《身份神话》（*The Identity Myth*），反思民族主义认同的排他风险。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
+> - **1994** 在《纽约时报》发表《身份神话》（*The Identity Myth*），反思[[Nationalism|民族主义]]认同的排他风险。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
 > - **2008** 出版《匠人》（*The Craftsman*），探讨物质劳动中的实践伦理与卓越技艺。
 
 ---

@@ -12,7 +12,7 @@ summary: "由乔治·贝雷迪开创的比较教育学经典经验归纳研究�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 34
+method_related_count: 35
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
   - theme/comparative-methodology
   - theme/scientific-paradigm
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Working Hypothesis]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
@@ -67,13 +68,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Bereday's Comparative Method
-> 贝雷迪四步比较法是由美籍波兰裔比较教育学家[[George Bereday|乔治·贝雷迪]]（[[George Bereday|George Z. F. Bereday]]）在 1964 年经典专著《教育中的比较方法》（*Comparative Method in Education*）中系统阐明的经验归纳比较程序。该方法将跨国教育研究划分为由浅入深、逻辑连贯的四个操作阶段：以搜集单国客观事实为起点的**描述（Description）**、以跨学科人文社科视角深挖制度动因的**解释（Interpretation）**、将多国事实与解释依循统一范畴横向对照并提出[[Working Hypothesis|工作假说]]的**并置（Juxtaposition）**，以及在同一[[Analytic Framework|分析框架]]下同时比对多国证据以提炼跨国通则或结构类型学的**综合分析（Comparison / Total Analysis）**。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 127–128)]]; [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 61–62)]]
+> 贝雷迪四步比较法是由美籍波兰裔比较教育学家[[George Bereday|乔治·贝雷迪]]（[[George Bereday|George Z. F. Bereday]]）在 1964 年经典专著《教育中的比较方法》（*Comparative Method in Education*）中系统阐明的经验归纳比较程序。该方法将[[Transnational Education|跨国教育]]研究划分为由浅入深、逻辑连贯的四个操作阶段：以搜集单国客观事实为起点的**描述（Description）**、以跨学科人文社科视角深挖制度动因的**解释（Interpretation）**、将多国事实与解释依循统一范畴横向对照并提出[[Working Hypothesis|工作假说]]的**并置（Juxtaposition）**，以及在同一[[Analytic Framework|分析框架]]下同时比对多国证据以提炼跨国通则或结构类型学的**综合分析（Comparison / Total Analysis）**。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 127–128)]]; [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 61–62)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 两个或两个以上主权国家或文化区域的[[National Education|国民教育]]制度、法令规程、课程教学实践及相关宏观社会背景数据。

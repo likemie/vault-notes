@@ -10,10 +10,10 @@ aliases:
 summary: "科学社会学与科学学的核心构念，指科学共同体向学者及其成果赋予的专业承认与声望资本，充当学术奖励系统的基础通货并支配职称晋升、终身教职、科研资助与顶尖大奖的评定。在合著成为主流的现代科学中，署名名单的信息不对称导致实际科研劳动投入与共同体感知贡献产生系统性脱节，受到学科署名序位惯例、马太效应与隐性偏见的结构性调节。"
 type: concept
 domain: "science-policy"
-related_count: 17
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 24
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/science-policy
   - theme/sociology-of-science
@@ -24,22 +24,29 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Document]]"
   - "[[Literature Search]]"
+  - "[[Early-Career Researchers]]"
   - "[[Flow]]"
   - "[[Author Contribution Disclosures]]"
-  - "[[Variable]]"
   - "[[Alphabetical Authorship]]"
+  - "[[Construct]]"
+  - "[[Variable]]"
   - "[[Matthew Effect in Academia]]"
+  - "[[Study Abroad]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
+  - "[[Systematic Review]]"
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
+  - "[[Bibliometric Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Werner Heisenberg]]"
   - "[[Hua-Wei Shen]]"
   - "[[Albert-László Barabási]]"
+  - "[[Santo Fortunato]]"
   - "[[Robert K. Merton]]"
+  - "[[Dashun Wang]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit06]]"
@@ -47,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -83,7 +90,7 @@ updated: 2026-11-03
 > [!feature] 核心要素
 > - **生产与分配的结构性脱节** 现代科研攻关高度依赖跨机构、大规模团队协作，而职称评聘与终身教职制度依然维系着单兵评估模式，造成成果贡献切分成为贯穿职业生涯的核心利益协商点。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 135–136)]]
 > - **署名名单的信息不对称性** 读者仅凭期刊成果上排列的署名次序，无法直接透视[[Experimental Research|实验设计]]、代码编写、数据搜集与文稿起草等具体任务的真实负荷分配。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 136)]]
-> - **责任与承认的非对称分配** 在成功成果中声望向知名资深学者集中；但在遭遇学术造假与撤稿危机时，惩罚却残酷地单向转嫁给初级青年学者。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 150–151)]]
+> - **责任与承认的非对称分配** 在成功成果中声望向知名资深学者集中；但在遭遇学术造假与撤稿危机时，惩罚却残酷地单向转嫁给初级[[Early-Career Researchers|青年学者]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 150–151)]]
 > - **感知驱动的集体建构属性** 声誉份额由整个科学共同体基于该学者在后续历史成果中的持续独立产出集体赋予，脱离合署成员之间的私下约定。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 154–156)]]
 
 > [!logic-map]- 科学信誉的分配机制
@@ -120,7 +127,7 @@ updated: 2026-11-03
 > **超大团队协作与算法信誉解构** 探讨合作团队规模扩张背景下合署声誉被成名学者不成比例截留的机制，以及基于引文网络的去偏测度算法。
 
 > [!claim] [[Santo Fortunato|Fortunato, S.]], et al.
-> **合署成果声誉马太效应与集体信誉分配算法** 福图纳托等在《科学》科学学综述中指出，团队规模扩张加剧了个体学术贡献归算的困境；成名学者在合署成果中往往分得不成比例的过多赞誉，形成强烈的[[Matthew Effect in Academia|马太效应]]；单纯依据署名位次难以还原同行认知中的真实权重，基于施引成果在引用该研究时同时引述合署者代表作的拓扑共引网络，集体信誉分配算法能够客观解构学术界赋予各合作成员的实际声誉份额，为团队评价提供了去偏计算基准。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 3)]]
+> **合署成果声誉马太效应与集体信誉分配算法** 福图纳托等在《科学》科学学综述中指出，团队规模扩张加剧了个体学术贡献归算的困境；成名学者在合署成果中往往分得不成比例的过多赞誉，形成强烈的马太效应；单纯依据署名位次难以还原同行认知中的真实权重，基于施引成果在引用该研究时同时引述合署者代表作的拓扑共引网络，集体信誉分配算法能够客观解构学术界赋予各合作成员的实际声誉份额，为团队评价提供了去偏计算基准。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 3)]]
 
 ---
 
@@ -134,13 +141,13 @@ updated: 2026-11-03
 ---
 
 > [!dev-timeline] 科学信誉分配理论演变
-> - **1957 — 默顿确立学术优先权与承认制度基石** [[Robert K. Merton|罗伯特·K·默顿]]发表经典成果，将同行承认与优先权确立为科学建制的核心激励机制与制度通货。
+> - **1957 — [[Robert K. Merton|默顿]]确立学术优先权与承认制度基石** [[Robert K. Merton|罗伯特·K·默顿]]发表经典成果，将同行承认与优先权确立为科学建制的核心激励机制与制度通货。
 > - **1968 — 默顿提出马太效应与多合署人声誉垄断** 默顿在《科学》阐明合作成果中成名学者系统性占有不成比例名誉的社会学偏倚。
 > - **2006 — Marušić et al. 实证揭示自述贡献的认知冲突** 调查证实近七成团队内部通讯学者与合作成员在具体任务认领上存在不可调和的主观分歧。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 139)]]
 > - **2014 — Shen & Barabási 提出共引拓扑集体信誉算法** 沈华伟与巴拉巴西在 PNAS 建立矩阵算法，成功以 81% 的高精度在大样本合署诺贝尔奖成果中预测最终得主。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 153–156)]]
-> - **2017 — Corrêa et al. 确立首尾位署名者主导规律** 大数据挖掘证实非字母序署名中第一与通讯署名者承担绝大部分智力与实验劳动。
-> - **2018 — Fortunato et al. 系统综述大团队信誉困境与算法去偏方案** 福图纳托等在《科学》科学学综述中指出团队规模膨胀加剧马太效应，系统引介共引拓扑算法作为团队贡献评价的客观基准。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 3)]]
-> - **2021 — Wang & Barabási 系统化科学信誉动力学** 王大顺与巴拉巴西系统解构科学信誉构念，阐明责任转嫁、性别偏见与后续代表作对感知信誉份额的决定性机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 135–156)]]
+> - **2017 — Corrêa et al. 确立首尾位署名者主导规律** 大数据挖掘证实非[[Alphabetical Authorship|字母序署名]]中第一与通讯署名者承担绝大部分智力与实验劳动。
+> - **2018 — Fortunato et al. [[Systematic Review|系统综述]]大团队信誉困境与算法去偏方案** 福图纳托等在《科学》科学学综述中指出团队规模膨胀加剧马太效应，系统引介共引拓扑算法作为团队贡献评价的客观基准。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 3)]]
+> - **2021 — Wang & Barabási 系统化科学信誉动力学** [[Dashun Wang|王大顺]]与巴拉巴西系统解构科学信誉[[Construct|构念]]，阐明责任转嫁、性别偏见与后续代表作对感知信誉份额的决定性机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 135–156)]]
 
 ---
 
@@ -179,7 +186,7 @@ updated: 2026-11-03
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Matthew Effect in Academia]] | 概念 | 合著成果中资深学者不成比例截留学术声誉的社会学偏倚机制。 |
+> | [[Matthew Effect in Academia]] | 概念 | 合著成果中资深学者不成比例截[[Study Abroad\|留学]]术声誉的社会学偏倚机制。 |
 > | [[Alphabetical Authorship]] | 概念 | 人文社科等领域规避序位偏倚但在大团队中导致感知信誉模糊的署名传统。 |
 > | [[Author Contribution Disclosures]] | 概念 | 细粒度自述任务分工以缓解署名名单信息不对称的制度性工具。 |
 > | [[Bibliometric Analysis]] | 方法 | 基于施引成果拓扑图谱构建共引矩阵、客观测算个体信誉份额的技术工具。 |

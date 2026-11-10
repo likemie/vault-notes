@@ -21,14 +21,14 @@ tags:
   - theme/sociology-of-science
   - theme/scientometrics
 related_concepts:
-  - "[[Media Amplification in Science]]"
-  - "[[Science Journalism]]"
-  - "[[Citation Disparity]]"
   - "[[Causality]]"
+  - "[[Media Amplification in Science]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods:
-  - "[[Quasi-Experimental Designs]]"
+  - "[[Natural Experiment]]"
   - "[[Bibliometric Analysis]]"
+  - "[[Quasi-Experimental Designs]]"
 related_instruments: []
 related_persons:
   - "[[Dashun Wang]]"
@@ -40,15 +40,15 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国计量社会学家、科学社会学家与流行病学家，加州大学圣迭戈分校（UCSD）社会学系荣休教授。
-> - **核心角色** 运用准自然实验解决社会学与科学学因果推断难题的代表人物；以 1978 年《纽约时报》印刷大罢工构筑自然对照组，干净分离了大众媒介对科学引文的因果驱动力。
-> - **代表贡献** 设计 [[Newspaper Strike Natural Experiment|报纸罢工自然实验]]，实证确立 [[Media Amplification in Science|科学媒体放大效应]]，推进 [[Quasi-Experimental Designs|准实验因果推断设计]] 在科学计量学中的应用。
+> - **核心角色** 运用[[Natural Experiment|准自然实验]]解决社会学与科学学[[Causality|因果推断]]难题的代表人物；以 1978 年《纽约时报》印刷大罢工构筑自然对照组，干净分离了大众媒介对科学引文的因果驱动力。
+> - **代表贡献** 设计 报纸罢工自然实验，实证确立 [[Media Amplification in Science|科学媒体放大效应]]，推进 准实验因果推断设计 在[[Bibliometric Analysis|科学计量学]]中的应用。
 
 > [!citation-card] 人物定位的关键来源
 > 一项自然实验让研究人员找到了明确答案：1978 年 8 月 10 日至 11 月 5 日，《纽约时报》员工进行了为期 12 周的罢工……被《纽约时报》选中的文章在引用上完全没有超越未入选文章。因此，受关注文章的引文优势不仅仅由其更高质量、新颖性或大众吸引力决定，也是媒体报道本身的直接产物。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 194)]]
@@ -58,10 +58,10 @@ updated: 2026-10-31
 ---
 
 > [!timeline] 生平与职涯
-> - **1970 年代初** 获得社会学博士学位，受聘于加州大学圣迭戈分校任教，开辟运用时间序列与外生事件研究群体行为的定量范式。
+> - **1970 年代初** 获得社会学博士学位，受聘于加州大学圣迭戈分校任教，开辟运用时间序列与外生事件研究群体行为的定量[[Paradigm|范式]]。
 > - **1974** 在《美国社会学评论》（*American Sociological Review*）发表奠基性论著，首次提出大众媒介报道自杀事件引发群体模仿的“维特效应”（Werther Effect）。
 > - **1991** 在《新英格兰医学杂志》（*New England Journal of Medicine*, NEJM）发表标志性实证论著，利用 1978 年《纽约时报》印刷大罢工窗口，实测确立大众媒体报道对学术引文的净因果增益。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Phillips et al., 1991; Wang & Barabási, 2021, p. 194)]]
-> - **2021** 王大顺与巴拉巴西在科学学奠基教材中系统评述其罢工实验，确立其作为科学传播与引文动力学因果识别的标准范例。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 193–194)]]
+> - **2021** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]在科学学奠基教材中系统评述其罢工实验，确立其作为科学传播与引文动力学因果识别的标准范例。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 193–194)]]
 
 ---
 

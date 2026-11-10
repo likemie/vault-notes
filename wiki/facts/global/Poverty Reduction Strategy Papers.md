@@ -11,7 +11,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Learning Crisis]]"
   - "[[Public-Private Partnership]]"
   - "[[Development Education]]"
+  - "[[Country Ownership]]"
   - "[[Performance Indicators]]"
   - "[[Policy Conditionalities]]"
   - "[[Document]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -81,7 +82,7 @@ updated: 2026-10-26
 > [!timeline] 政策时间线
 > - 1999 [[World Bank\|世界银行]]与[[International Monetary Fund|国际货币基金组织]]正式引入 PRSP 框架，替代传统的结构调整计划。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 > - 2002 [[Global Partnership for Education\|全球教育伙伴关系]]前身“全民教育快车道倡议”（EFA-FTI）要求受援国以 PRSP 为基础提交国家教育规划。
-> - 2005 巴黎援助实效高级别论坛强调“国家自主权（Country Ownership）”，PRSP 成为衡量受援国体制成熟度的核心凭证。
+> - 2005 巴黎援助实效高级别论坛强调“国家自主权（[[Country Ownership]]）”，PRSP 成为衡量受援国体制成熟度的核心凭证。
 > - 2015 至今 PRSP 演变为对接[[UN Sustainable Development Goals\|联合国可持续发展目标]]（SDG 4）的跨部门国家综合融资框架。
 
 ---

@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -34,13 +34,14 @@ related_persons:
   - "[[Horace Mann]]"
 related_facts:
   - "[[Elementary and Secondary Education Act of 1965]]"
+  - "[[Second International Mathematics Study]]"
   - "[[Early Warning Indicator System]]"
 related_arguments:
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -58,7 +59,7 @@ updated: 2026-10-30
 
 > [!feature] 核心数据工具与治理机制
 > - **集中式数据仓库与多源摄取（Data Warehouse）**
->   建立全州统一的集中式数据仓库，通过学生信息管理系统（SIMS）与教育人员信息管理系统（EPIMS）等渠道，定期自学区和学校吸纳覆盖出勤、测评、课程与师资的海量微观数据，运用自动化业务规则（Data Business Rules）执行格式与逻辑质检[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 4, 7)]]。
+>   建立全州统一的集中式数据仓库，通过学生信息管理系统（[[Second International Mathematics Study|SIMS]]）与教育人员信息管理系统（EPIMS）等渠道，定期自学区和学校吸纳覆盖出勤、测评、课程与师资的海量微观数据，运用自动化业务规则（Data Business Rules）执行格式与逻辑质检[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 4, 7)]]。
 > - **[[Early Warning Indicator System\|早期预警指标系统]]（EWIS）**
 >   开发早期预警指标系统（Early Warning Indicator System, EWIS），依托纵向预测模型评估学生在不同学段面临的学术掉队或未能进入大学的风险等级，为一线教师提供针对性干预信息，但同时面临被一线错误用作学业劝退工具的技术误读张力[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 6)]]。
 > - **学区分析与审查工具（DART）**

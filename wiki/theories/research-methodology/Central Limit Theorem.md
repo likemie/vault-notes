@@ -5,7 +5,7 @@ aliases:
 summary: "概率论核心定理，指从任何总体中反复抽取等大随机样本时样本均值趋近正态分布，且样本均值的均值逼近总体均值，是抽样误差理论和统计推论的数学基础"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 12
+theory_related_count: 13
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_methods:
   - "[[Random Sampling]]"
   - "[[Standard Error]]"
   - "[[Confidence Interval]]"
+  - "[[Statistical Significance]]"
   - "[[Sample Size Determination]]"
   - "[[Quantitative Research]]"
 related_persons: []
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -43,7 +44,7 @@ updated: 2026-10-22
 > - **解释对象** 为什么从同一总体中多次[[Random Sampling\|随机抽样]]时，样本均值的分布呈现规律性，即趋向正态分布，且样本均值的均值逼近总体均值。
 > - **理论问题** 样本统计量与总体参数之间的随机偏离是否有规律可循。中心极限定理（Central Limit Theorem, CLT）回答：有，且规律是正态分布。
 > - **理论类型** 概率论与数理统计中的数学定理，构成推论统计（Inferential Statistics）的理论基石。
-> - **知识位置** 位于概率论与研究方法之间，中心极限定理是数学定理，但其推论（[[Standard Error\|标准误]]、[[Confidence Interval\|置信区间]]、显著性检验）直接支撑教育研究的量化方法。
+> - **知识位置** 位于概率论与研究方法之间，中心极限定理是数学定理，但其推论（[[Standard Error\|标准误]]、[[Confidence Interval\|置信区间]]、[[Statistical Significance|显著性检验]]）直接支撑教育研究的量化方法。
 
 ---
 
@@ -96,7 +97,7 @@ updated: 2026-10-22
 > - **1810 年 Laplace 证明独立同分布之和的中心极限定理** 奠定经典拉普拉斯定理形式。
 > - **1901 年 Lyapunov 给出一般条件** 极大放宽了独立随机[[Variable\|变量]]的同分布约束。
 > - **20世纪 纳入现代统计学基础教程** 成为推论统计与参数估计的理论基石。
-> - **1996 年 Hopkins 等人[[Computer Simulation\|计算机模拟]]验证** 通过 10,000 次模拟为教育研究者提供可视化验证。
+> - **1996 年 Hopkins et al. [[Computer Simulation\|计算机模拟]]验证** 通过 10,000 次模拟为教育研究者提供可视化验证。
 
 ---
 

@@ -10,7 +10,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -18,7 +18,7 @@ issuing_organization: ''
 confidence: high
 status: active
 created: '2026-05-21'
-updated: 2026-10-22
+updated: 2026-11-11
 tags:
   - region/china
   - theme/confucianism
@@ -27,6 +27,7 @@ tags:
   - theme/ideology
 related_concepts:
   - "[[Soft Power]]"
+  - "[[Nationalism]]"
   - "[[Discourse]]"
   - "[[Zhonghua Minzu]]"
   - "[[Beijing Consensus]]"
@@ -59,7 +60,7 @@ related_arguments:
 ---
 
 > [!claim] 事件核心
-> 中国儒家复兴经历了从 1980 年代末民间半独立的“国学热”，演变为国家战略性收编儒家伦理以对冲西化冲击、填补意识形态真空、构建[[Soft Power\|软实力]]，并在习近平时代与复仇主义民族主义（Revanchist Nationalism）深深绑定，最终在 2017 年后随着意识形态收紧而重新服从于党国统一控制[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 63, 72)]]。
+> 中国儒家复兴经历了从 1980 年代末民间半独立的“国学热”，演变为国家战略性收编儒家伦理以对冲西化冲击、填补意识形态真空、构建[[Soft Power\|软实力]]，并在习近平时代与复仇主义[[Nationalism|民族主义]]（Revanchist Nationalism）深深绑定，最终在 2017 年后随着意识形态收紧而重新服从于党国统一控制[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 63, 72)]]。
 
 > [!dev-timeline] 复兴阶段图谱
 > - **1980s末–2000s初 — 民间自发与半独立拓展** — 1989 年后复兴加速，民间儒家书院与“国学热”兴起，学者呼吁回归传统伦理[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 63)]]。

@@ -16,7 +16,7 @@ aliases:
 summary: "指通过量化指标、跨国测评与数据比较实现全球教育治理的软性机制，又译数目化治理或以数字治理。Grek (2009) 奠基该概念，Rizvi 与 Lingard (2009) 揭示经合组织依托 PISA 自建跨国等价空间并推行“数字即政策”，以技术排位压制价值判断并维系知识经济社会想象；Steiner-Khamsi et al.（2024）进一步拓展为数目化治理 2.0，聚焦信息过载下政策中介的证据包装与组织利基争夺。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 58
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -28,6 +28,7 @@ tags:
   - region/global
   - theme/global-governance
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Policy Brokerage]]"
   - "[[Document]]"
   - "[[Space of Equivalence]]"
@@ -95,13 +96,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-05
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Governing by Numbers
-> 数目化治理（Governing by Numbers，亦称数字治理、以数字治理或 Governance by Numbers）指通过量化指标、国际排名和数据比较来实现跨国教育治理的软性机制。该概念由 [[Nikolas Rose|尼古拉斯·罗斯]]（Rose, 1991）与 [[Alain Desrosières|阿兰·德罗西埃]]（Desrosières, 1998）奠基统计政治学与计算理性传统，经 [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 23–24, 34–35)]] 等学者引入比较教育与政策社会学，最初指大型国际评估（如 [[PISA]]）提供的跨国可比数据使政策制定者能够在全球尺度上比较教育系统，用指标制定政策并形成远距离指导；[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] 进一步提出“数目化治理 2.0”（Governance by numbers 2.0），指出在数字经济与信息过载时代，治理重点已从单纯发布测验排名深化为通过[[Policy Brokerage|政策中介]]筛选、包装与转译海量证据，以此在多重不确定性下维系软治理。
+> 数目化治理（Governing by Numbers，亦称数字治理、以数字治理或 Governance by Numbers）指通过量化指标、国际排名和数据比较来实现[[Transnational Education|跨国教育]]治理的软性机制。该概念由 [[Nikolas Rose|尼古拉斯·罗斯]]（Rose, 1991）与 [[Alain Desrosières|阿兰·德罗西埃]]（Desrosières, 1998）奠基统计政治学与计算理性传统，经 [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 23–24, 34–35)]] 等学者引入比较教育与政策社会学，最初指大型国际评估（如 [[PISA]]）提供的跨国可比数据使政策制定者能够在全球尺度上比较教育系统，用指标制定政策并形成远距离指导；[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] 进一步提出“数目化治理 2.0”（Governance by numbers 2.0），指出在数字经济与信息过载时代，治理重点已从单纯发布测验排名深化为通过[[Policy Brokerage|政策中介]]筛选、包装与转译海量证据，以此在多重不确定性下维系软治理。
 
 > [!concept-lens] 概念透镜
 > - **含义** 教育治理依托数据生产、排名比较、指标标准化以及政策中介的证据包装，以软治理方式引导各国教育政策向特定方向协调推进。

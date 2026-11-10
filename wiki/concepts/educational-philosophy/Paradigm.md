@@ -8,9 +8,9 @@ aliases:
 summary: "研究共同体共享的世界观、信念体系与原则集合，涵盖本体论、认识论与方法论承诺，决定何为合法的科学知识；在科学学与社会科学中历经科学革命、实证论战与当代跨学科计量对范式开创成果注意力极化的实证确证。"
 type: concept
 domain: "educational-philosophy"
-related_count: 86
-related_level: 8
-related_stars: "💎💎⭐⭐"
+related_count: 107
+related_level: 10
+related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/epistemology
@@ -43,18 +43,27 @@ related_concepts:
   - "[[Open Method of Coordination]]"
   - "[[European Education Space]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Scientific Mobility]]"
   - "[[Paradigm Wars]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Intercultural Education]]"
   - "[[Document]]"
+  - "[[Combinatorial Novelty]]"
   - "[[Geopolitics]]"
+  - "[[Transnational Education]]"
   - "[[Politics of Knowledge]]"
   - "[[Knowledge Power]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Output-Oriented Governance]]"
   - "[[Literature Review]]"
+  - "[[Operationalization]]"
+  - "[[Hot Streak]]"
+  - "[[Early-Career Researchers]]"
   - "[[Research Question]]"
+  - "[[Strategic Conformity in Academia]]"
+  - "[[Interpretivism]]"
   - "[[Developmentalism]]"
+  - "[[System-Wide Improvement]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Autopoiesis]]"
@@ -73,11 +82,16 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Problem Approach]]"
+  - "[[Disruption Index]]"
   - "[[Network Analysis]]"
   - "[[Mixed Methods Research]]"
+  - "[[Follow-on Engagement]]"
   - "[[Effect Size]]"
+  - "[[Discounted Cumulative Gain]]"
+  - "[[Fixed-Effect Model]]"
 related_persons:
   - "[[Thomas Kuhn]]"
+  - "[[Santo Fortunato]]"
   - "[[Louis Cohen]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
@@ -97,6 +111,10 @@ related_facts:
   - "[[EU]]"
   - "[[Lisbon Strategy]]"
   - "[[European Commission]]"
+  - "[[SciSciNet]]"
+  - "[[Web of Science]]"
+  - "[[Microsoft Academic Graph]]"
+  - "[[OpenAlex]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Mitter_2009_Europe]]"
@@ -105,14 +123,17 @@ related_arguments:
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
-  - "[[Argument_Chou_Demiryol_2024_HE]]"
-  - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Lin_2023_SciData]]"
+  - "[[Argument_Chou_Demiryol_2024_HE]]"
+  - "[[Argument_Chen_2025_HSSC]]"
   - "[[Argument_Haubrock_2026_NHB]]"
+  - "[[Argument_Hao_2026_Nature]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Barrenechea_2023_JEC]]"
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -156,7 +177,7 @@ updated: 2026-11-10
 > - **[[Epistemology|认识论]]确证（Epistemological Stance）** 界定知识与求知者之间的合法关系，主客二分、追求中立客观与普遍规律发现（实证主义[[Critical Dualism|批判二元论]]），还是主客交融、强调历史情境化[[Rich and Thick Description|深描]]与价值反思（文化主义与历史传统）。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–94)]]
 > - **方法论规程（Methodological Axioms）** 决定了获取有效证据的正当通道与逻辑路径，推导假设、量化测量与因果法则检验，抑或是阐释学理解、制度发生学考证与意义[[Externalization|外化]]追踪。
 > - **典型范例（Exemplars）与学科基质** 库恩所指的科学共同体公认的经典[[Problem Solving|问题解决]]方案。在比较教育中，汉斯的历史文化因素分析、霍姆斯的[[Problem Approach|问题法]]以及施里维尔的世界体系系统论构成了各自范式的标志性范例。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
-> - **团队规模与范式创新职能分工（Team-Scale Paradigm Specialization）** 福图纳托等（[[Argument_Fortunato_2018_Science|Fortunato et al., 2018]]）揭示，小型科研团队倾向于通过引述分散、早期的冷门成果颠覆既有范式并提出全新假说（具有显著更高的颠覆性指数）；大型团队则倾向于跟进近期热门成果以深化成熟主流范式，形成颠覆与工程化完善的互补生态（p. 3）。
+> - **团队规模与范式创新职能分工（Team-Scale Paradigm Specialization）** [[Santo Fortunato|福图纳托]]等（[[Argument_Fortunato_2018_Science|Fortunato et al., 2018]]）揭示，小型科研团队倾向于通过引述分散、早期的冷门成果颠覆既有范式并提出全新假说（具有显著更高的[[Disruption Index|颠覆性指数]]）；大型团队则倾向于跟进近期热门成果以深化成熟主流范式，形成颠覆与工程化完善的互补生态（p. 3）。
 > - **宏观注意力极化载体（Focal Attractors of Attention）** 在知识网络演化中，开创范式的关键突破在发表后数十年内持续吸纳高比例引用，构成共同体解谜的理论基石。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 180–181)]]
 
 > [!logic-map]- 库恩科学发展循环
@@ -233,7 +254,7 @@ updated: 2026-11-10
 > |---|---|---|---|
 > | **革命更迭** | 科学进步由非常规科学革命驱动，异常积累打破常规解谜；顶层开创成果长期锁定共同体注意力 | 自然科学与基础理论发展历史考察；引文[[Network Analysis\|网络分析]] | [[Thomas Kuhn\|Kuhn]]; [[Louis Cohen\|Cohen et al.]]; Wang & Barabási; [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018)]] |
 > | **不可通约与权力建制** | 范式间缺乏中立裁决公理，范式正统性深度依附学术权威与社会权力；行政审计通过锁定单一范式消除知识争议 | 跨范式论战、研究方法争鸣、学术体制与国家质量审计 | [[Thomas Kuhn\|Kuhn]]; [[Louis Cohen\|Cohen et al.]]; [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] |
-> | **多范式地缘演进** | 比较教育百年呈现从历史文化、实证论战到自创生系统论的多范式变迁，欧陆坚守文化主干 | 比较教育学科史、地缘知识社会学与跨国学术迁移 | [[Wolfgang Mitter\|Mitter]]; [[Jurgen Schriewer\|Schriewer]]; [[Brian Holmes\|Holmes]] |
+> | **多范式地缘演进** | 比较教育百年呈现从历史文化、实证论战到自创生系统论的多范式变迁，欧陆坚守文化主干 | 比较教育学科史、地缘知识社会学与跨国[[Scientific Mobility\|学术迁移]] | [[Wolfgang Mitter\|Mitter]]; [[Jurgen Schriewer\|Schriewer]]; [[Brian Holmes\|Holmes]] |
 > | **评价与治理双重转换** | 评价认识论从大纲知识转向成人生活技能，超国家治理从硬法指令转向软性数字治理 | 跨国大规模测评认识论分析、超国家区域一体化治理与软法政策协调 | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]]; [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] |
 
 ---
@@ -247,12 +268,12 @@ updated: 2026-11-10
 > - **2009 — 超国家教育治理全景敞视范式断裂** 帕西亚斯与鲁萨基斯阐明欧盟教育治理从基于辅助性原则的主权多样性传统范式，向依托里斯本战略、开放协调法与量化监控的全景敞视治理范式发生历史性断裂。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 488–491)]]
 > - **2018 — 团队规模在范式颠覆与深化中的功能分工确立** [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] 系统量化跨学科成果，确立小团队颠覆既有范式、大团队深化主流成熟路径的功能生态位分工（pp. 3–4）。
 > - **2021 — 科学学引文网络与范式成果注意力极化** 王大顺与巴拉巴西基于跨越百年的物理学[[Document|文献]]追踪，量化证实了开辟新范式的顶尖 1% 成果在次年所占引文份额从 20% 稳步攀升至 35%，为库恩科学革命论提供了长周期经验文献计量证据。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 180–181)]]
-> - **2023 — 科学学数据湖对范式颠覆与组合新颖性的实证度量（[[Argument_Lin_2023_SciData|Lin et al., 2023]]）** 林泽、尹亚楠、刘鲁与王大顺开源构建覆盖 1.34 亿篇跨学科文献的 SciSciNet 数据湖，大规模预计算 2,800 万篇颠覆性指数与 4,500 万篇组合新颖性测度，实证再现了小团队开辟新范式探索（颠覆性显著更高）与高引突破兼顾常规性基底与尾部新颖性的普遍规律，为宏观范式演进与知识拓扑重构提供了计算实证基底。
-> - **2020s 至今 — [[Geopolitics|地缘政治]]竞争中的范式对立与整合突破** 在跨国高等教育与地缘[[Politics of Knowledge|知识政治]]研究中，现实主义[[Knowledge Power|知识权力]]范式与自由主义[[Knowledge Diplomacy|知识外交]]范式呈现出明显的解释张力；学者引入辩证整合框架（如[[Tianxia Heuristic|天下启发式]]体系），旨在超越单一范式的[[Incommensurability|不可通约性]]与认知盲区，解释开放大众化与精英排他性网络的双轨并存。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]
+> - **2023 — [[SciSciNet|科学学数据湖]]对范式颠覆与[[Combinatorial Novelty|组合新颖性]]的实证度量（[[Argument_Lin_2023_SciData|Lin et al., 2023]]）** 林泽、尹亚楠、刘鲁与王大顺开源构建覆盖 1.34 亿篇跨学科文献的 SciSciNet 数据湖，大规模预计算 2,800 万篇颠覆性指数与 4,500 万篇组合新颖性测度，实证再现了小团队开辟新范式探索（颠覆性显著更高）与高引突破兼顾常规性基底与尾部新颖性的普遍规律，为宏观范式演进与知识拓扑重构提供了计算实证基底。
+> - **2020s 至今 — [[Geopolitics|地缘政治]]竞争中的范式对立与整合突破** 在[[Transnational Education|跨国高等教育]]与地缘[[Politics of Knowledge|知识政治]]研究中，现实主义[[Knowledge Power|知识权力]]范式与自由主义[[Knowledge Diplomacy|知识外交]]范式呈现出明显的解释张力；学者引入辩证整合框架（如[[Tianxia Heuristic|天下启发式]]体系），旨在超越单一范式的[[Incommensurability|不可通约性]]与认知盲区，解释开放大众化与精英排他性网络的双轨并存。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]
 > - **2020s — [[Output-Oriented Governance|循证治理]]与教育审计中的单一范式锁定与反思** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 揭示国家质量审计机构通过在[[Literature Review|文献综述]]中定向锚定单一研究范式来消解学术争议、制造确定性幻觉；而受邀学者在审议研讨中通过揭示教学情境性与教师真实生存环境，打破了单一范式的规范性垄断（pp. 649–651）。
-> - **2025 — 库恩范式革命微观操作化与常规科学挤出效应** Chen et al.（[[Argument_Chen_2025_HSSC|2025]]）基于 19,152 位经济学家全生命周期产出，以颠覆度指标实证操作化库恩科学革命（开启新轨迹）与常规解谜（巩固旧传统）分工，发现颠覆突破集中于学术爆发期且峰值（入行 14–16 年）显著早于引文峰值，证实爆发期内追求常规高引论著对范式颠覆突破产生净挤出效应（边际贡献 −0.097）。
-> - **2026 — 既有范式守门机制与同行评审保守化** 豪布罗克等系统阐明同行评审与学术考评体制如何演变为既有范式的守门工具，通过对非常规概念打折与量化指标考核压制范式突破，迫使青年学者采取策略性顺应。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026)]]
-> - **2026 — 人工智能对新兴科学范式形成的拓扑阻滞** [[Argument_Hao_2026_Nature|Hao et al. (2026)]] 基于 4,130 万篇自然科学文献引文拓扑分析，检验了库恩（Kuhn, 1962）关于新兴前沿形成密集互联共同体范式的理论假定；证实 AI 采纳使后继学术卷入度系统性下降 22%（$t \ge 8.10, p < .001$），引文网络退化为孤立发散的星状结构，表明算法工具更倾向于将既有成熟数据赛道自动化，未能催生密集对话与理论整合的新兴范式网络。[[Argument_Hao_2026_Nature|(Hao et al., 2026, p. 1241)]]
+> - **2025 — 库恩范式革命微观[[Operationalization|操作化]]与常规科学挤出效应** Chen et al.（[[Argument_Chen_2025_HSSC|2025]]）基于 19,152 位经济学家全生命周期产出，以颠覆度指标实证操作化库恩科学革命（开启新轨迹）与常规解谜（巩固旧传统）分工，发现颠覆突破集中于[[Hot Streak|学术爆发期]]且峰值（入行 14–16 年）显著早于引文峰值，证实爆发期内追求常规高引论著对范式颠覆突破产生净挤出效应（边际贡献 −0.097）。
+> - **2026 — 既有范式守门机制与同行评审保守化** 豪布罗克等系统阐明同行评审与学术考评体制如何演变为既有范式的守门工具，通过对非常规概念打折与量化指标考核压制范式突破，迫使[[Early-Career Researchers|青年学者]]采取策略性顺应。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026)]]
+> - **2026 — 人工智能对新兴科学范式形成的拓扑阻滞** [[Argument_Hao_2026_Nature|Hao et al. (2026)]] 基于 4,130 万篇自然科学文献引文拓扑分析，检验了库恩（Kuhn, 1962）关于新兴前沿形成密集互联共同体范式的理论假定；证实 AI 采纳使[[Follow-on Engagement|后继学术卷入度]]系统性下降 22%（$t \ge 8.10, p < .001$），引文网络退化为孤立发散的星状结构，表明算法工具更倾向于将既有成熟数据赛道自动化，未能催生密集对话与理论整合的新兴范式网络。[[Argument_Hao_2026_Nature|(Hao et al., 2026, p. 1241)]]
 
 ---
 
@@ -288,10 +309,10 @@ updated: 2026-11-10
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang and Barabási (2021)]] | 《物理评论》1893 至 2009 年刊载之 463,348 篇全量出版物及引文链条 | 百年长跨度期刊文献计量追踪与洛伦兹曲线分析 | 前 1% 顶层范式论著次年被引份额随历史演变序列 | 顶层 1% 成果次年被引份额由 1900 年代的约 20% 稳步攀升至 2000 年代的 35% | 跨越百年全量期刊数据拟合 | 证实开辟新范式的顶尖突破在宏观引文网络中具有持续增强的注意力极化效应 |
-> | [[Argument_Lin_2023_SciData\|Lin et al. (2023)]] | 全球 1.34 亿篇跨学科文献（1800–2020）与多源资助及应用数据湖 | 高通量拓扑网络计算与科学学经典实证规律复现 | 范式开辟度量（颠覆性指数 $CD_5$）、非典型引文组合与团队规模关联 | 预计算 2,834.9 万篇 $CD_5$ 颠覆性指数与 4,571.5 万篇非典型组合度量；在大规模跨学科样本中复现小团队开辟新范式（颠覆性显著更高）与高引突破平衡常规性基底与尾部新颖性的普遍规律 | 跨 Web of Science、MAG 与官方资助库交叉验证 | 证实预计算指标能有效刻画宏观范式演进与知识拓扑重构，但对早期长尾文献存在测度覆盖边界 |
+> | [[Argument_Lin_2023_SciData\|Lin et al. (2023)]] | 全球 1.34 亿篇跨学科文献（1800–2020）与多源资助及应用数据湖 | 高通量拓扑网络计算与科学学经典实证规律复现 | 范式开辟度量（颠覆性指数 $CD_5$）、非典型引文组合与团队规模关联 | 预计算 2,834.9 万篇 $CD_5$ 颠覆性指数与 4,571.5 万篇非典型组合度量；在大规模跨学科样本中复现小团队开辟新范式（颠覆性显著更高）与高引突破平衡常规性基底与尾部新颖性的普遍规律 | 跨 [[Web of Science]]、[[Microsoft Academic Graph\|MAG]] 与官方资助库交叉验证 | 证实预计算指标能有效刻画宏观范式演进与知识拓扑重构，但对早期长尾文献存在测度覆盖边界 |
 > | [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018)]] | 6,500 万项学术论著、发明专利及开源软件跨学科数据库（1954–2014） | 团队规模、颠覆性指数（$CD$）与长周期引文计量分析 | 团队规模对范式颠覆与巩固深化的作用 | 1–2 人小型团队显著具有更高颠覆性指数 $CD$，更倾向于引述早期冷门文献以颠覆既有范式；随规模扩大 $CD$ 单调递减，大型团队更多吸纳近期高引文献以巩固深化成熟范式 | 跨期刊成果、专利与软件三大领域高度一致（$p < .001$） | 实证确立了团队规模与范式创新职能的系统性功能分工，反驳了大团队全面优越论 |
-> | [[Argument_Chen_2025_HSSC\|Chen et al. (2025)]] | 微软学术图谱 19,152 位资深经济学家（241,158 篇论著） | 折损累积增益算法（DCG）与控制领域固定效应多元计量回归 | 爆发期颠覆度增量（$D_{diff}$）、常规高引论著与发文总量 | 爆发期内颠覆度显著高于前后常态期（均值差 0.03）；发文总量正向拉动颠覆突破（$\beta = 0.029$）；期内被引论著负向抑制颠覆度（$\beta = -0.126$；边际贡献 −0.097） | $p < .001$；主模型 $R^2 = 0.822$ | 确证颠覆性范式开创峰值（入行 14–16 年）显著领先引文峰值，常规解谜成果过度累积挤出范式突破 |
-> | [[Argument_Hao_2026_Nature\|Hao et al. (2026)]] | OpenAlex 数据库 2,334.3 万篇具有后继引文的自然科学成果（六大门类） | 引文网络拓扑测度与后继卷入度分析（Follow-on Engagement） | AI 采纳对新兴学术范式共同体形成（后继交叉互引）的影响 | 后继学术卷入度系统性暴跌 22%（$EG$）；未互引成果在高维空间最小距离缩短 76.51%；引文网络退化为围绕基准论著孤立发散的星状拓扑 | $t \ge 8.10, p < .001, df > 10^3$ | 实证检验库恩范式形成假定，证实 AI 工具自动化既有成熟范式而非催生密集互联的新范式网络 |
+> | [[Argument_Chen_2025_HSSC\|Chen et al. (2025)]] | 微软学术图谱 19,152 位资深经济学家（241,158 篇论著） | [[Discounted Cumulative Gain\|折损累积增益]]算法（DCG）与控制领域[[Fixed-Effect Model\|固定效应]]多元计量回归 | 爆发期颠覆度增量（$D_{diff}$）、常规高引论著与发文总量 | 爆发期内颠覆度显著高于前后常态期（均值差 0.03）；发文总量正向拉动颠覆突破（$\beta = 0.029$）；期内被引论著负向抑制颠覆度（$\beta = -0.126$；边际贡献 −0.097） | $p < .001$；主模型 $R^2 = 0.822$ | 确证颠覆性范式开创峰值（入行 14–16 年）显著领先引文峰值，常规解谜成果过度累积挤出范式突破 |
+> | [[Argument_Hao_2026_Nature\|Hao et al. (2026)]] | [[OpenAlex\|OpenAlex 数据库]] 2,334.3 万篇具有后继引文的自然科学成果（六大门类） | 引文网络拓扑测度与后继卷入度分析（Follow-on Engagement） | AI 采纳对新兴学术范式共同体形成（后继交叉互引）的影响 | 后继学术卷入度系统性暴跌 22%（$EG$）；未互引成果在高维空间最小距离缩短 76.51%；引文网络退化为围绕基准论著孤立发散的星状拓扑 | $t \ge 8.10, p < .001, df > 10^3$ | 实证检验库恩范式形成假定，证实 AI 工具自动化既有成熟范式而非催生密集互联的新范式网络 |
 
 ---
 
@@ -305,7 +326,7 @@ updated: 2026-11-10
 > | [[Knowledge Production]] | 概念 | 范式规定了知识生产的合法性边界、认识论假定与方法论准则。 |
 > | [[Positivism]] | 概念 | 强调客观现实与因果规律验证的经典实证科学范式。 |
 > | [[Constructivist Paradigm]] | 概念 | 强调意义生成与主体互构的解释学与建构主义范式。 |
-> | [[Critical Realism]] | 理论 | 调和实证主义本体论与诠释主义认识论的后实证主义理论框架。 |
+> | [[Critical Realism]] | 理论 | 调和实证主义本体论与[[Interpretivism\|诠释主义]]认识论的后实证主义理论框架。 |
 
 ---
 
@@ -323,4 +344,4 @@ updated: 2026-11-10
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 以瑞典国家[[School Inspection|学校督导]]为工具性个案，分析行政审计如何通过编制锚定单一研究范式的知识综述消除学术争议，以及外部学者如何通过情境化辩驳打破单一范式的确定性幻觉（pp. 649–651）。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 历史社会学解构欧盟教育治理范式从《马斯特里赫特条约》辅助性原则向[[Lisbon Strategy|里斯本战略]][[Open Method of Coordination|开放协调法]]（OMC）[[Panopticism|全景敞视]]治理范式的断裂性重构（pp. 488–491）。
 > - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 系统揭示当代同行评审与量化考评如何作为既有主流范式的守门机制，抑制高风险的非典型理论假说并阻碍科学范式更迭。
-> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对教育系统改进文献开展主题综合，提炼出理性选择、文化制度、课程规制与能力建设四大理论范式，解析不同范式的认识论假定与政策干预张力。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对[[System-Wide Improvement|教育系统改进]]文献开展主题综合，提炼出理性选择、文化制度、课程规制与能力建设四大理论范式，解析不同范式的认识论假定与政策干预张力。

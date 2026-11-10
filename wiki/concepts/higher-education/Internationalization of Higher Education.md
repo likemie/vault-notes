@@ -6,7 +6,7 @@ aliases:
 summary: "高等教育系统在办学宗旨、教学、科研与治理中整合跨国维度的制度化过程，经历从二战后发展主义、新自由主义市场化到大国再国家化安全规训、外向型多边地缘网络重塑与第三代跨境教育枢纽集聚的历史演进。"
 type: concept
 domain: "higher-education"
-related_count: 53
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -20,11 +20,12 @@ related_concepts:
   - "[[Developmentalism]]"
   - "[[Epistemic Governance]]"
   - "[[Outward-Oriented Internationalization]]"
-  - "[[Geopolitics]]"
   - "[[International Education Hubs]]"
+  - "[[Geopolitics]]"
   - "[[Innovation Hub]]"
   - "[[Transnational Research Collaboration]]"
   - "[[Knowledge Production]]"
+  - "[[Transnational Education]]"
   - "[[Innovation Ecosystem]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Big Science]]"
@@ -32,15 +33,19 @@ related_concepts:
   - "[[Student Mobility]]"
   - "[[Endogenous Privatisation]]"
   - "[[New Public Management]]"
+  - "[[Nationalism]]"
   - "[[International Branch Campus]]"
   - "[[Public Diplomacy]]"
+  - "[[Internationalization at Home]]"
   - "[[Public Value]]"
+  - "[[Study Abroad]]"
   - "[[Multiplicity]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Knowledge Power]]"
   - "[[Soft Power]]"
   - "[[Educational Diplomacy]]"
   - "[[Alumnus Effect]]"
+  - "[[Regional Innovation System]]"
   - "[[Multi-University]]"
   - "[[Academic Freedom]]"
   - "[[Cosmopolitanism]]"
@@ -49,6 +54,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Document]]"
   - "[[Scientific Mobility]]"
+  - "[[Theoretical Perspective]]"
 related_theories:
   - "[[Governmentality]]"
   - "[[Capability Approach]]"
@@ -57,13 +63,13 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Comparative Case Study]]"
 related_instruments: []
-related_persons:
-  - "[[Fazal Rizvi]]"
+related_persons: []
 related_facts:
   - "[[Asian Universities Alliance]]"
   - "[[ASEAN]]"
   - "[[Xiamen University Malaysia]]"
   - "[[Confucius Institute]]"
+  - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
   - "[[Belt and Road Initiative]]"
   - "[[World Trade Organization]]"
   - "[[GATS and Trade in Education Services]]"
@@ -71,21 +77,21 @@ related_facts:
 related_arguments:
   - "[[Argument_Rizvi_2022_Springer]]"
   - "[[Argument_Chou_Demiryol_2024_HE]]"
+  - "[[Argument_Qu_2024_IJED]]"
   - "[[Argument_Yu_Xie_2025_JHE]]"
   - "[[Argument_Velasco_2022_CSJ]]"
   - "[[Argument_Marginson_2025_ECNUROE]]"
   - "[[Argument_Liu_2025_IndHE]]"
-  - "[[Argument_Qu_2024_IJED]]"
 confidence: high
 status: active
 created: '2026-05-10'
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Internationalization of Higher Education
-> 高等教育国际化（Internationalization of Higher Education）指高等教育系统在办学宗旨、教学、科研与社会服务功能中整合国际、跨文化与全球维度的制度化过程。批判教育研究指出，国际化不仅是教育要素的跨境流动，更是国家地缘战略、[[Governmentality|治理性]]与制度塑造深度交织的复杂实践；其驱动理性经历了从早期以能力建设和援助为特征的现代化[[Developmentalism|发展主义]]，到以全额学费和商业出口为导向的市场理性，并向以主导多边学术网络与重塑全球[[Epistemic Governance|知识治理]]为特征的[[Outward-Oriented Internationalization|外向型国际化]]，以及依托特定空间特区打造的第三代跨境教育枢纽集聚形态演进。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 96–97)]]；[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1697)]]；[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, p. 2)]]
+> 高等教育国际化（Internationalization of Higher Education）指高等教育系统在办学宗旨、教学、科研与社会服务功能中整合国际、跨文化与全球维度的制度化过程。批判教育研究指出，国际化不仅是教育要素的跨境流动，更是国家地缘战略、[[Governmentality|治理性]]与制度塑造深度交织的复杂实践；其驱动理性经历了从早期以能力建设和援助为特征的现代化[[Developmentalism|发展主义]]，到以全额学费和商业出口为导向的市场理性，并向以主导多边学术网络与重塑全球[[Epistemic Governance|知识治理]]为特征的[[Outward-Oriented Internationalization|外向型国际化]]，以及依托特定空间特区打造的第三代[[International Education Hubs|跨境教育枢纽]]集聚形态演进。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 96–97)]]；[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1697)]]；[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, p. 2)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 聚焦高等教育机构在人员跨境流动、科研跨国协同、跨文化课程设置以及多边学术联盟建设中的制度安排与行动机制。
@@ -107,7 +113,7 @@ updated: 2026-11-10
 > [!contrast-table|notitle] 概念辨析
 > | 维度 | 高等教育国际化（Internationalization of Higher Education） | [[International Education Hubs\|国际教育枢纽]]（IEHs） | [[Transnational Research Collaboration\|跨国研究合作]]（TRC） |
 > |---|---|---|---|
-> | **分析对象** | 国家高教系统与大学整体的跨国办学与学术交往战略 | 特定国家或城市打造的跨境教育与科研集聚实体空间 | 跨越国界的科研团队、学术网络与实验室协同研发 |
+> | **分析对象** | 国家高教系统与大学整体的跨国办学与学术交往战略 | 特定国家或城市打造的[[Transnational Education\|跨境教育]]与科研集聚实体空间 | 跨越国界的科研团队、学术网络与实验室协同研发 |
 > | **核心机制** | 整合人员流动、科研协同、课程互认与多边联盟构建 | 吸引外国名校设立分校、提供土地与税收优惠、集聚高端人才 | 联合申报跨国科学基金、共建国际实验室与共享实验数据 |
 > | **功能定位** | 拓展全球学术连接、提升办学声誉与服务国家地缘战略 | 培育[[Innovation Ecosystem\|区域创新生态]]系统、促进[[Knowledge-Based Economy\|知识经济]]转型与高教产业升级 | 攻关全球重[[Big Science\|大科学]]挑战、提升科研产出质量与拓展学术前沿 |
 
@@ -118,9 +124,9 @@ updated: 2026-11-10
 > - **跨境流动与要素配置** 依托[[Student Mobility|跨国学生流动]]、学者学术驻留以及校际联合培养项目，实现国际学术资本、智力资源与财政收益的高效流动与配置。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 95–96)]]；[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 5–6)]]
 > - **多边联盟与网络中心性构建** 通过主动发起设立跨国大学联盟、专业学科子网络与高层政策论坛，从传统的双向点对点交流拓展为多对多的高密度网络协同，确立常态化的网络枢纽地位。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1699–1704)]]
 > - **[[Endogenous Privatisation|内生私有化]]与新自由主义运作** 国际学生学费成为公立高校抵御财政削减的核心收入来源，推动高校全面采纳企业化运作模式与[[New Public Management|新公共管理]]技术。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
-> - **再国家化与边界安全审查** 在大国竞争加剧与技术民族主义抬头的背景下，国家安全与出口管制逻辑深刻渗透至签证配额、敏感领域审查及跨境学术合作审核中。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 5–10)]]
+> - **再国家化与边界安全审查** 在大国竞争加剧与技术[[Nationalism|民族主义]]抬头的背景下，国家安全与出口管制逻辑深刻渗透至签证配额、敏感领域审查及跨境学术合作审核中。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 5–10)]]
 > - **国家战略外交使命对接** 发展型国家将大学国际化与涉外办学定位为外交战略支柱，依托政府高额奖学金、实体[[International Branch Campus|海外分校]]与文化交流网络协同推进区域[[Public Diplomacy|公共外交]]。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 79–85)]]
-> - **在地国际化与教育枢纽集聚** 依托本土学习环境整合国际化课程与联合培养，并在重点战略区规划建设跨境教育枢纽，实现全球智力资源空间集聚。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2–3)]]
+> - **[[Internationalization at Home|在地国际化]]与教育枢纽集聚** 依托本土学习环境整合国际化课程与联合培养，并在重点战略区规划建设跨境教育枢纽，实现全球智力资源空间集聚。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2–3)]]
 
 > [!logic-map]- 高等教育国际化的驱动机制与治理逻辑
 > ```mermaid
@@ -145,7 +151,7 @@ updated: 2026-11-10
 > **市场理性挤出教育[[Public Value|公共价值]]与加剧制度脆弱性** 战后国际化早期基于促进跨文化理解与发展中国家制度建设的[[Developmentalism|发展主义]]理性，自20世纪末期逐步被新自由主义市场逻辑取代。高等教育被视作服务贸易与出口创收部门，国际学生演变为教育消费客户，促使公立大学深陷[[Endogenous Privatisation|内生私有化]]变革。这种高度依赖亚洲中产阶级学费的商业模式在遭遇突发全球危机时展现出极高的系统性脆弱性。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 96–102)]]
 
 > [!claim] [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]]
-> **全球霸权式扩张走向部分去全球化反弹** 1990至2015年间，美国依托冷战后的政治经济主导权推行霸权式全球化，英语大学通过[[International Branch Campus|海外分校]]、科研合作网络与留学生招募确立主导地位，将国际化等同于西方化。2015年以来，由于全球[[Multiplicity|多重性]]增长与西方内部民粹政治抬头，规范性的国际主义框架瓦解，高等教育跨境连接遭遇严重的本土主义反弹。[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, pp. 15–23)]]
+> **全球霸权式扩张走向部分去全球化反弹** 1990至2015年间，美国依托冷战后的政治经济主导权推行霸权式全球化，英语大学通过[[International Branch Campus|海外分校]]、科研合作网络与[[Study Abroad|留学]]生招募确立主导地位，将国际化等同于西方化。2015年以来，由于全球[[Multiplicity|多重性]]增长与西方内部民粹政治抬头，规范性的国际主义框架瓦解，高等教育跨境连接遭遇严重的本土主义反弹。[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, pp. 15–23)]]
 
 > [!claim] Yu and Xie (2025)
 > **国家安全逻辑强化高等教育的再国家化与再边界化** 21世纪以来，大国战略竞争、技术民族主义与跨国流动安全化共同驱动高等教育深陷[[Geopolitics|地缘政治]]旋涡。敏感领域的科研合作受阻，理工科师生跨境流动面临严格审查，大学行政人员被卷入边境监管责任，国际化日益演变为主权国家谋求地缘战略优势的工具性政策。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 5–10)]]
@@ -178,7 +184,7 @@ updated: 2026-11-10
 > **在地国际化与教育枢纽空间演进** 探讨高等教育国际化如何从单一的人员跨境流动，演进为在本土学习环境中深度整合国际化课程（在地国际化），并依托特定政策特区建设跨境教育枢纽，实现全球智力资源的空间集聚与回流替代。
 
 > [!claim] [[Argument_Qu_2024_IJED|Qu and Dai (2024)]]
-> **高教国际化三代演化与三大本土路径** 屈丽娟与代玉文指出，跨境高等教育经历了学术人员流动（第一代）、项目与机构跨境流动（第二代）至教育枢纽战略集聚（第三代）的历时演进。在承接全球化与应对留学生外流背景下，中国高教国际化走出三项协同推进的本土化路径：一是出国留学与国际生招揽双向流动（2020 年位列全球第四大留学目的国）；二是立足本土环境推动课程与跨文化维度的系统整合（在地国际化）；三是在长三角、粤港澳大湾区与海南自贸港规划建设跨境教育枢纽，通过体制机制创新集聚世界一流大学，将国际化从零散的办学合作提升为嵌入区域创新体系的战略生态。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2–3, 9–10)]]
+> **高教国际化三代演化与三大本土路径** 屈丽娟与代玉文指出，跨境高等教育经历了学术人员流动（第一代）、项目与机构跨境流动（第二代）至教育枢纽战略集聚（第三代）的历时演进。在承接全球化与应对留学生外流背景下，中国高教国际化走出三项协同推进的本土化路径：一是出国留学与国际生招揽双向流动（2020 年位列全球第四大留学目的国）；二是立足本土环境推动课程与跨文化维度的系统整合（在地国际化）；三是在长三角、[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]与海南自贸港规划建设跨境教育枢纽，通过体制机制创新集聚世界一流大学，将国际化从零散的办学合作提升为嵌入[[Regional Innovation System|区域创新体系]]的战略生态。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2–3, 9–10)]]
 
 ---
 
@@ -232,7 +238,7 @@ updated: 2026-11-10
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Qu_2024_IJED\|Qu and Dai (2024)]] | 2020 年中国高等教育规模与跨境教育集聚区 | 比较案例研究与政策文本追踪 | 高教毛入学率、全球留学目的国排位与三大教育枢纽布局 | 2020 年高教毛入学率达 58.4%；2020 年位列全球第四大留学目的国（2019 年亚洲第一）；确立长三角、大湾区、海南三大教育集聚区 | — | 聚焦中国跨境高教政策演变与空间集聚区实践 |
+> | [[Argument_Qu_2024_IJED\|Qu and Dai (2024)]] | 2020 年中国高等教育规模与跨境教育集聚区 | [[Comparative Case Study\|比较案例研究]]与政策文本追踪 | 高教毛入学率、全球留学目的国排位与三大教育枢纽布局 | 2020 年高教毛入学率达 58.4%；2020 年位列全球第四大留学目的国（2019 年亚洲第一）；确立长三角、大湾区、海南三大教育集聚区 | — | 聚焦中国跨境高教政策演变与空间集聚区实践 |
 > | [[Argument_Chou_Demiryol_2024_HE\|Chou and Demiryol (2024)]] | 亚洲 13 个国家和地区的 15 所顶尖旗舰大学（[[Asian Universities Alliance\|AUA]] 样本） | [[Comparative Case Study\|比较案例研究]]与多边制度分析 | 联盟成员规模与联合研究资助额度 | 成员严格限定为 15 所代表性国家顶尖[[Research Universities\|研究型大学]]；设立最高 13.5 万美元（实验类）与 6.8 万美元（非实验类）联合研究资助 | — | 揭示国家依托顶尖高教多边网络构建排他性精英合作与知识权力的机制 |
 > | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | 2010–2020 年中国高等教育财政支出、科技[[Document\|文献]]产出、来华留学生及东南亚分校建设 | 宏观统计时间序列追踪与跨国教育外交案例分析 | 高教公共财政支出、科技文献发表总量、来华外国留学生总数、东盟在华生源及境外分校 | ① 高教财政支出由 2016 年 10,110 亿元增至 2020 年约 14,000 亿元；② 科技文献由 2010 年 142 万篇增至 2020 年 195 万篇（2018 年超越美国）；③ 来华留学生由 2014 年 37.7 万增至 2018 年 49.2 万人（东盟生源约 8 万人）；④ 在东南亚运营 31 所孔院，设立厦大马校等 4 所境外分校 | 官方教育部统计与权威国际机构数据 | 揭示高强度公共投入推动高教综合实力跨越，进而为教育外交与境外办学延伸提供实体支撑 |
 
@@ -248,7 +254,7 @@ updated: 2026-11-10
 > | [[Knowledge-Based Economy]] | 概念 | 驱动高等教育国际化由传统文化交流转向经济竞争与技能投资的宏观背景。 |
 > | [[Outward-Oriented Internationalization]] | 概念 | 新兴大国从被动引进转向主动发起多边学术网络与境外办学的外向型路径。 |
 > | [[Transnational Research Collaboration]] | 概念 | 高等教育国际化在科学发现与技术创新领域的跨国协作机制。 |
-> | [[Governmentality]] | 理论 | 剖析国际化背后国家治理理性、安全规训与主体塑造的理论视角。 |
+> | [[Governmentality]] | 理论 | 剖析国际化背后国家治理理性、安全规训与主体塑造的[[Theoretical Perspective\|理论视角]]。 |
 
 ---
 

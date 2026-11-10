@@ -10,7 +10,7 @@ summary: "英国统计物理学家与复杂网络领军学者，密歇根大学 
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 15
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_persons:
   - "[[Albert-László Barabási]]"
 related_facts:
   - "[[National Academy of Sciences]]"
+  - "[[American Physical Society]]"
   - "[[American Association for the Advancement of Science]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-31
+updated: 2026-11-11
 ---
 
 ---
@@ -69,7 +70,7 @@ updated: 2026-10-31
 > - **1991–1996** 在美国康奈尔大学与英国牛津大学从事统计物理与凝聚态物理博士后研究。
 > - **1996–2002** 加盟美国圣塔菲研究所担任研究员，系统转向复杂系统、复杂网络拓扑与流行病传播建模。
 > - **2001** 在 PNAS 连发三篇合著网络奠基长文，系统量化物理学、计算机科学与生物医学的科学家合作拓扑。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 104–106)]]
-> - **2002–至今** 执教于美国密歇根大学物理学系与复杂系统研究中心，先后当选美国物理学会（APS）会士与[[American Association for the Advancement of Science|美国科学促进会]]（AAAS）会士，荣获 Paul Dirac 讲席教授荣衔。
+> - **2002–至今** 执教于美国密歇根大学物理学系与复杂系统研究中心，先后当选[[American Physical Society|美国物理学会]]（APS）会士与[[American Association for the Advancement of Science|美国科学促进会]]（AAAS）会士，荣获 Paul Dirac 讲席教授荣衔。
 
 ---
 

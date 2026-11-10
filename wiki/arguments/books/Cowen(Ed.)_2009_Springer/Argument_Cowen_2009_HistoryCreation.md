@@ -7,7 +7,7 @@ title: "Argument_Cowen_2009_HistoryCreation"
 argument_key: "Argument_Cowen_2009_HistoryCreation"
 argument_display_title: "On history and on the creation of comparative education"
 argument_kind: "book-chapter"
-argument_related_count: 34
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -38,10 +38,12 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Enlightenment]]"
   - "[[Areas of Knowledge]]"
+  - "[[Early-Career Researchers]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Nomothetic]]"
   - "[[National Character]]"
   - "[[Rationalism in International Relations]]"
+  - "[[Transnational Education]]"
   - "[[Reflexivity]]"
   - "[[International Education]]"
 related_theories:
@@ -75,7 +77,7 @@ sources:
 part_of: "[[Argument_Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-05
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
@@ -147,7 +149,7 @@ updated: 2026-10-30
 > 在比较教育学制度化的早期阶段，学科经典史学著作主要承担了为学者提供学科存在感与职业合法性的功能；然而数十年后，这种对合法性的满足反而遮蔽了学科真实历史的大量空白。（p.7）
 
 > [!evidence-grid] 起源叙事合法化与历史真空的实证依据
-> - **青年学者的合法化认同** Noah and Eckstein (1969) 在经典著作中极其清晰地梳理了学科源流，Bereday (1964) 则详尽记载了各国学者与院系分布。这些著作让青年学者确信比较教育学作为一个独立领域而存在，并为其提供了坚实的职业踏板（The history legitimated me）。（p.7）
+> - **[[Early-Career Researchers|青年学者]]的合法化认同** Noah and Eckstein (1969) 在经典著作中极其清晰地梳理了学科源流，Bereday (1964) 则详尽记载了各国学者与院系分布。这些著作让青年学者确信比较教育学作为一个独立领域而存在，并为其提供了坚实的职业踏板（The history legitimated me）。（p.7）
 > - **合法化后的历史真空** 数十年过去，在学科获得充分体制合法性之后，深层的历史探究却陷入停滞：大量大学档案未被触碰，皮特·哈克特（Peter Hackett）与理查德·拉帕茨（Richard Rapacz）等学者的私人通信未获系统整理，口述史研究尚在起步阶段。
 
 > [!exegesis]- 经典奠基著作的学科合法化与认同功能
@@ -212,7 +214,7 @@ updated: 2026-10-30
 > [!exegesis]- 拉美教育先驱与被遮蔽女性学者的历史考察
 > 考恩强调，一部名副其实的比较教育学比较史必须正视两类触目惊心的结构性空白：
 > 1. **拉美先锋思想的沉沦** 阿根廷的 Sarmiento 既是深刻洞察美洲文明与野蛮冲突的政治家，又是以跨国考察重构阿根廷[[National Education|国民教育]]体系的杰出比较教育实践家；巴西的 Teixeira 则是[[John Dewey\|约翰·杜威]]（John Dewey）哲学的积极传播者与巴西现代公立教育的奠基人，其跨国学术联结横跨美洲与欧洲。然而，西方主导的比较教育正史对两国的历史记载几乎为零，学者们只能在专业期刊零星片段中寻觅线索。（pp.8–9）
-> 2. **女性在[[Disciplinary Institutionalization|学科建制]]中的隐形** 考恩点名指出了 Ann Dryland 与 Madame Hattinguais 等女性学者的历史遭遇。她们在大学课堂、学会建立和战后跨国教育交流中做出了不可磨灭的贡献，真实地活在历史之中；但在男性学者垄断的文献编纂中，她们却彻底消失了。比较史必须承担起让隐匿者重新显影（make visible）的道义责任。（p.9）
+> 2. **女性在[[Disciplinary Institutionalization|学科建制]]中的隐形** 考恩点名指出了 Ann Dryland 与 Madame Hattinguais 等女性学者的历史遭遇。她们在大学课堂、学会建立和战后[[Transnational Education|跨国教育]]交流中做出了不可磨灭的贡献，真实地活在历史之中；但在男性学者垄断的文献编纂中，她们却彻底消失了。比较史必须承担起让隐匿者重新显影（make visible）的道义责任。（p.9）
 
 为将宏观倡议转化为可执行的学术实践，考恩提出了依托大型基金会（如 Gulbenkian 或 Hoover Foundation）资助的跨国协同研究架构，由 Harold Noah、Max Eckstein、[[Andreas Kazamias]]、Wolfgang Mitter 与瓦尔·鲁斯特（[[Val D. Rust|Val Rust]]）等资深学者组成学术顾问委员会（Advisory Board），指导研究团队系统推进五大探究维度：
 

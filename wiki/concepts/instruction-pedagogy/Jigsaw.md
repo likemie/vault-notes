@@ -9,7 +9,7 @@ aliases:
 summary: "由 Elliot Aronson（1978）开创、Robert Slavin 发展的角色互补型合作学习模式。通过任务信息不对称构建高度积极互赖，经历原属组分工、专家组研讨、原属组轮流传授与个体独立测评，实现学业提升、偏见消除与同伴支持。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Creativity]]"
 related_theories: []
 related_methods:
+  - "[[Instrumental Variables]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
@@ -47,11 +48,11 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 > [!def] Jigsaw
-> Jigsaw（拼图法 / 切块拼接法）是由社会心理学家 Elliot Aronson 于 1978 年开创、后经 Robert Slavin（1986）系统改进（演进为 Jigsaw II/III/IV）的经典角色互补型[[Cooperative Learning\|合作学习]]教学模式。该方法的核心机制在于通过**结构化的任务信息不对称**建立强制性积极互赖：教师将整体学习内容切割为若干独立模块，原属组（Home Group）内的组员分别负责不同模块；负责相同模块的学生先汇聚至“专家组（Expert Group）”深入研讨并掌握内容，随后返回原属组轮流向组员传授讲解，最终通过个体独立测评检验全员对整体知识的掌握。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
+> Jigsaw（拼图法 / 切块拼接法）是由社会心理学家 Elliot Aronson 于 1978 年开创、后经 Robert Slavin（1986）系统改进（演进为 Jigsaw II/III/[[Instrumental Variables|IV]]）的经典角色互补型[[Cooperative Learning\|合作学习]]教学模式。该方法的核心机制在于通过**结构化的任务信息不对称**建立强制性积极互赖：教师将整体学习内容切割为若干独立模块，原属组（Home Group）内的组员分别负责不同模块；负责相同模块的学生先汇聚至“专家组（Expert Group）”深入研讨并掌握内容，随后返回原属组轮流向组员传授讲解，最终通过个体独立测评检验全员对整体知识的掌握。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 通过“信息分割—专家研讨—交互传授—全息拼合”的教学流程，使每位组员都拥有同伴不可替代的信息资源，强制消除课堂搭便车与边缘化现象。

@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 31
+fact_related_count: 34
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Evidence-Based Policy-Making]]"
   - "[[Tacit Knowledge]]"
   - "[[Learning by Doing]]"
+  - "[[Grandes Ecoles]]"
   - "[[Research Topic]]"
   - "[[Science Journalism]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -45,12 +46,14 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Richard C. Atkinson]]"
+  - "[[Dwight D. Eisenhower]]"
   - "[[Vannevar Bush]]"
   - "[[Zewelanji N. Serpell]]"
 related_facts:
   - "[[United States Congress]]"
   - "[[National Science Foundation]]"
   - "[[Science, The Endless Frontier 1945]]"
+  - "[[Symposium on Basic Research 1959]]"
   - "[[American Educational Research Association]]"
   - "[[Society for Research in Child Development]]"
   - "[[Office of Science and Technology Policy]]"
@@ -64,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
@@ -85,7 +88,7 @@ updated: 2026-11-04
 >   - 推动美国早期国家科研机构的设立；1900 年正式收购托马斯·爱迪生创办的《科学》（*Science*）杂志并将其确立为官方旗舰学刊，奠定了全球综合学术界的崇高权威。
 > - **1945–1972 — 战后科学政策建制化与国家科学基金会创设**
 >   - 二战后深度参与《[[Science, The Endless Frontier 1945|无尽的前沿]]》所倡导的国家科研体制构建，积极推动民事独立的[[National Science Foundation|美国国家科学基金会]]（NSF）立法设立与冷战初期科技政策审议；前 NSF 主任[[Richard C. Atkinson|理查德·C·阿特金森]]等顶尖科技领袖先后出任 AAAS 会长。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37, 48)]]
->   - 1959 年与国家科学院及斯隆基金会联合主办全美基础研究研讨会，促成艾森豪威尔总统发表《科学：自由的女仆》演讲，为国家保障大学学术自由与基础研究财政支持确立最高政治担保。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
+>   - 1959 年与国家科学院及斯隆基金会联合主办全美[[Symposium on Basic Research 1959|基础研究研讨会]]，促成[[Dwight D. Eisenhower|艾森豪威尔]]总统发表《科学：自由的女仆》演讲，为国家保障大学学术自由与基础研究财政支持确立最高政治担保。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 >   - 拓展教育学部（Section Q），深度参与全美中小学科学教材现代化与课程标准化改革。
 > - **1973–2000 — 科技政策研究员制度化与联邦 R&D 预算权威监测**
 >   - 1973 年面对水门事件后国会山专业科学幕僚极其匮乏的困境，AAAS 开创性设立国会科学研究员计划，此后迅速扩展为全美科技政策研究员计划（STPF）。在 [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] 的分析中，该计划与 [[American Educational Research Association|AERA]] 等专业学会联合，成为教育研究者全职沉浸于国会山立法生态的最具变革性的制度通道。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, pp. 46–47)]]
@@ -130,7 +133,7 @@ updated: 2026-11-04
 
 > [!finding-cards] 关键成效与辐射影响
 > - **破除政治认知壁垒并内化立法[[Tacit Knowledge|隐性知识]]** 在 [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] 的实证反思中，AAAS 开创的研究员沉浸机制具有不可替代的“在[[Learning by Doing|干中学]]”效能；一年的全职幕僚经历彻底消除了学者对国会政治的傲慢与偏见，使研究者掌握了如何将复杂数据压缩为三分钟听证口径的实战艺术。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, pp. 46–47)]]
-> - **构建终身政策影响力辐射网络** 结项后的学者展现出极强的制度穿透力：部分学者选择留在联邦行政机构（如 [[Institute of Education Sciences|IES]] 或 [[National Science Foundation|NSF]]）主导国家科研指南设定；部分出任国会委员会常设专业主任；返回大学校园的高校教师则彻底重构了自己的[[Research Topic|研究选题]]视野，将科学传播实战深度注入研究生培养之中。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, p. 47)]]
+> - **构建终身政策影响力辐射网络** 结项后的学者展现出极强的制度穿透力：部分学者选择留在联邦行政机构（如 [[Institute of Education Sciences|IES]] 或 [[National Science Foundation|NSF]]）主导国家科研指南设定；部分出任国会委员会常设专业主任；返回[[Grandes Ecoles|大学校]]园的高校教师则彻底重构了自己的[[Research Topic|研究选题]]视野，将科学传播实战深度注入研究生培养之中。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, p. 47)]]
 > - **搭建科学界与白宫/国会的制度性对话桥梁** 作为全美非官方科学共同体的联合代言人，AAAS 在历次冷战危机、科研伦理辩论与联邦预算紧缩关头，为捍卫大学基础研究独立性与反击政治干预提供了坚实的制度屏障。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 48)]]
 
 > [!stat-cards]- 核心规模数据

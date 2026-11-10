@@ -11,7 +11,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Research Topic]]"
   - "[[Champ]]"
+  - "[[Early-Career Researchers]]"
   - "[[Scientific Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Mentorship]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
@@ -106,7 +107,7 @@ updated: 2026-11-04
 > [!pathways] 业务运行机制
 > - **自由宽松的实验室微观生态** 打破繁琐行政考核壁垒，允许学者长期沉潜于具有极高失败风险的重大未知科学命题。
 > - **下午茶学术研讨文化（Tea Club）** 坚持每日茶歇学术研讨传统，为不同课题组、不同代际学者提供平权交锋、思想碰撞与跨学科知识外溢的低焦虑非正式交流[[Champ|场域]]。
-> - **实验仪器自主研制传统** 强调“手脑并用”，鼓励青年学者亲手设计、调试实验装备，通过掌握独一无二的仪器技术构筑核心研究壁垒。
+> - **实验仪器自主研制传统** 强调“手脑并用”，鼓励[[Early-Career Researchers|青年学者]]亲手设计、调试实验装备，通过掌握独一无二的仪器技术构筑核心研究壁垒。
 
 ---
 

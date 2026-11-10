@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17"
 argument_display_title: "Research Methods in Education · Ch17"
 argument_kind: "book-chapter"
-argument_related_count: 70
+argument_related_count: 72
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -50,10 +50,12 @@ related_concepts:
   - "[[Tacit Knowledge]]"
   - "[[Fitness for Purpose]]"
   - "[[External Validity]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Sampling Error]]"
   - "[[Humility]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Homophily]]"
   - "[[Class Size]]"
   - "[[Research Scope]]"
   - "[[Emergence]]"
@@ -111,7 +113,7 @@ related_theories:
   - "[[Realist Evaluation]]"
 status: draft
 created: 2026-07-13
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 > [!knowledge-map] 第17章 [[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_17_Concept_Map.jpg)
@@ -196,7 +198,7 @@ Fitz-Gibbon（1996）的提醒不会消失：教育界需要证据作为其判�
 
 ### 17.2 元分析
 
-Bhadwal and Panda（1991）的研究是探索课堂方法有效性的典型例子，这类研究常常被埋没，尤其是作为学位论文的那部分（p. 341）。
+Bhadwal and Panda（1991）的研究是探索课堂方法有效性的典型例子，这类研究常常被埋没，尤其是作为[[Doctoral Dissertation|学位论文]]的那部分（p. 341）。
 
 > [!def] 元分析的核心定义
 > 元分析（Meta-analysis）是"对分析的分析"（the analysis of other analyses），即聚合和合并可比较研究的结果以发现主要效应。定量元分析的核心操作是：对多项独立研究的[[Effect Size\|效应量]]进行统计综合，同时分析效应量与纳入研究特征之间的关系。统计处理用于减弱污染因素的影响，如[[Sampling Error\|抽样误差]]、测量误差和范围限制。研究发现被编码为实质性类别以便概括（Glass et al., 1981），使传统叙事综述会错过的发现一致性得以揭示。质性元分析同样被倡导（p. 341–343）。
@@ -286,7 +288,7 @@ McGaw（1997, p. 371）认为，定量元分析用透明和明确的程序替代
 >
 > 其中 $M_{\text{实验组}}$ 为实验组均值，$M_{\text{对照组}}$ 为控制组均值，$SD_{\text{控制组}}$ 为控制组标准差。
 
-Wood（1995, p. 393）建议效应量也可通过将显著性水平除以样本量来计算。Hedges（1981）和 Hunter et al.（1982）提出了考虑样本量差异的不同权重的替代公式。最常用的两种效应量指标是标准化均值差和相关系数（Glass et al., 1981, p. 373），尽管非参数统计量（如中位数）也可使用。Lipsey（1992, pp. 93–100）列出了处理效应量、效应量均值和同质性的系列统计检验（pp. 349–353）。
+Wood（1995, p. 393）建议效应量也可通过将显著性水平除以样本量来计算。Hedges（1981）和 Hunter et al.（1982）提出了考虑样本量差异的不同权重的替代公式。最常用的两种效应量指标是标准化均值差和相关系数（Glass et al., 1981, p. 373），尽管非参数统计量（如中位数）也可使用。Lipsey（1992, pp. 93–100）列出了处理效应量、效应量均值和[[Homophily|同质性]]的系列统计检验（pp. 349–353）。
 
 > [!warning] 适用范围限制
 > Glass et al. 假设元分析仅适用于实验型研究而非所有类型的研究，这可能限制其适用性（pp. 350–351）。

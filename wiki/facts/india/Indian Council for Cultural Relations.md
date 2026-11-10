@@ -10,7 +10,7 @@ subtype: organization
 region: "india"
 fact_region: "india"
 fact_kind: "organization"
-fact_related_count: 5
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,8 @@ related_arguments:
   - "[[Argument_Custer_2021_AidData]]"
 related_concepts:
   - "[[Educational Diplomacy]]"
+  - "[[Study Abroad]]"
+  - "[[Transnational Education]]"
   - "[[Cultural Diplomacy]]"
 related_persons:
   - "[[Confucius]]"
@@ -36,19 +38,19 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定位
-> 印度文化关系委员会（Indian Council for Cultural Relations, ICCR）是印度政府外交部（Ministry of External Affairs, MEA）直属的法定半自主文化与[[Educational Diplomacy|教育外交]]专门机构，统筹负责制定和实施印度对外文化交流政策、管理跨国官方留学生全额奖学金计划，并在海外建立和运营印度文化中心网络。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 26–27, 30–31)]]
+> 印度文化关系委员会（Indian Council for Cultural Relations, ICCR）是印度政府外交部（Ministry of External Affairs, MEA）直属的法定半自主文化与[[Educational Diplomacy|教育外交]]专门机构，统筹负责制定和实施印度对外文化交流政策、管理跨国官方[[Study Abroad|留学]]生全额奖学金计划，并在海外建立和运营印度文化中心网络。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 26–27, 30–31)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1950 年由印度首任教育部长毛拉纳·阿布尔·卡拉姆·阿扎德（Maulana Abul Kalam Azad）倡导创设，旨在复兴独立后印度的国际文化纽带与亚非团结。
 > - **总部地点 / 业务辐射** 总部设于印度首都新德里阿扎德大厦（Azad Bhavan），在全球运营近 40 处文化中心，面向 140 余个国家提供跨国高教奖学金。
 > - **法人属性与经费基础** 印度外交部下辖法定自主事业单位，业务运营资金与跨国全额奖学金经费全额列入印度中央财政对外援助与外交预算。
-> - **核心宗旨与法定职责** 弘扬印度的多元民主价值观与传统文明精粹，促进国际社会对印度思想、艺术与语言的了解，通过跨国教育培育深谙印度社会的外国知识与政治精英。
+> - **核心宗旨与法定职责** 弘扬印度的多元民主价值观与传统文明精粹，促进国际社会对印度思想、艺术与语言的了解，通过[[Transnational Education|跨国教育]]培育深谙印度社会的外国知识与政治精英。
 
 ---
 

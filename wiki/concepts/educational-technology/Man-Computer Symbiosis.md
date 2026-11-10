@@ -8,10 +8,10 @@ aliases:
 summary: "由约瑟夫·利克莱德于1960年提出的计算交互范式，主张计算机与人类心智形成紧密协作的协同体，由机器承担常规计算与数据存取，人类负责形成假设与战略决策，开创了交互式计算、网络通信与以人为中心的智能技术发展方向。"
 type: concept
 domain: "educational-technology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 31
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept/educational-technology
   - theme/human-computer-interaction
@@ -26,28 +26,40 @@ related_concepts:
   - "[[Homework]]"
   - "[[Creativity]]"
   - "[[Knowledge Production]]"
+  - "[[Metascience]]"
+  - "[[Tacit Knowledge]]"
   - "[[Document]]"
-  - "[[Technological Republic]]"
+  - "[[Trust Calibration]]"
+  - "[[Reliability]]"
+  - "[[Scientific Paradigm]]"
+  - "[[Variable]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Cognitive Extent]]"
+  - "[[Effect Size]]"
+  - "[[Network Analysis]]"
 related_instruments: []
 related_persons:
   - "[[J. C. R. Licklider]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
+  - "[[Lingfei Wu]]"
   - "[[Santo Fortunato]]"
 related_facts:
   - "[[ARPANET]]"
   - "[[DARPA]]"
-  - "[[Semi-Automatic Ground Environment]]"
+  - "[[AlphaFold]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit10]]"
   - "[[Argument_Fortunato_2018_Science]]"
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -139,15 +151,15 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题四｜全文本语言模型与专家指标人机共生预测可有效化解科学复现性危机
-> **混合协同智能与元科学评价** 探讨纯算法语言特征与人类专家同行评审指标在应对复杂科学结论可复现性预测时的互补性，确证人机协同对单一主体的预测优势。
+> **混合协同智能与[[Metascience|元科学]]评价** 探讨纯算法语言特征与人类专家同行评审指标在应对复杂科学结论可复现性预测时的互补性，确证人机协同对单一主体的预测优势。
 
 > [!claim] [[Dashun Wang|Wang, D.]] & [[Albert-László Barabási|Barabási, A.-L.]]
-> **全文本深层语义与同行评审元数据的人机协同增益** 吴令飞等（Wu et al., 2021）针对达特茅斯可复现性项目构建大规模混合预测系统，实证检验人机共生在科研元评价中的效能。当仅依赖机器学习算法对论著全文本的复杂语言学特征（词袋、叙述深度与句法网络）进行盲测时，其复现性预测受试者工作特征曲线下面积（AUC）为 0.68；而由领域资深科学家组成的传统同行评审专家主观预测 AUC 仅为 0.64；当构建融合全文本语言特征与同行评审指标的人机协同混合模型时，AUC 提升至 0.74（95% CI [0.69, 0.79]），显著超越任何单一纯人类专家或纯算法决策主体。这一实证确证了人机共生在科学前沿评价中的关键价值：算法敏锐捕捉专家易忽略的深层文本逻辑漏洞，专家贡献高阶领域常识与前瞻判断，二者协同形成互补智能增强。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 230–232)]]
+> **全文本深层语义与同行评审元数据的人机协同增益** [[Lingfei Wu|吴令飞]]等（Wu et al., 2021）针对达特茅斯可复现性项目构建大规模混合预测系统，实证检验人机共生在科研元评价中的效能。当仅依赖机器学习算法对论著全文本的复杂语言学特征（词袋、叙述深度与句法网络）进行盲测时，其复现性预测受试者工作特征曲线下面积（AUC）为 0.68；而由领域资深科学家组成的传统同行评审专家主观预测 AUC 仅为 0.64；当构建融合全文本语言特征与同行评审指标的人机协同混合模型时，AUC 提升至 0.74（95% CI [0.69, 0.79]），显著超越任何单一纯人类专家或纯算法决策主体。这一实证确证了人机共生在科学前沿评价中的关键价值：算法敏锐捕捉专家易忽略的深层文本逻辑漏洞，专家贡献高阶领域常识与前瞻判断，二者协同形成互补智能增强。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 230–232)]]
 
 ---
 
-> [!concept-proposition] 命题五｜机器学习跨领域提取隐性概念关联，人机协同拓展科学发现认知疆界
-> **隐性知识关联与前沿发现** 探讨算法在海量文献超图与高维数据中跨领域发现隐藏模式的能力，阐明人机协同在突破人类学科壁垒与探索避险倾向中的互补优势。
+> [!concept-proposition] 命题五｜机器学习跨领域提取隐性概念关联，人机协同拓展科学发现[[Cognitive Extent|认知疆界]]
+> **[[Tacit Knowledge|隐性知识]]关联与前沿发现** 探讨算法在海量[[Document|文献]]超图与高维数据中跨领域发现隐藏模式的能力，阐明人机协同在突破人类学科壁垒与探索避险倾向中的互补优势。
 
 > [!claim] [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]]
 > **算法挖掘隐性关联拓宽选题前沿** [[Santo Fortunato|桑托·福图纳托]]（Santo Fortunato）等指出，传统科研探索受限于个体认知负荷与学术社群的保守避险倾向，仅能揭示全领域少部分的潜在实体关联；现代机器学习能够跨领域提取隐性概念关联，在预测新材料物性、解析复杂分子结构等未知空间中展现超越人类直觉的联想能力，推动人机协同成为突破学科壁垒与拓宽选题前沿的关键发现范式。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 5)]]
@@ -169,7 +181,7 @@ updated: 2026-11-03
 > - **1960 — 利克莱德奠定人机共生范式** 利克莱德（Licklider, 1960）发表奠基论著，界定人机紧密协作的交互范式，开创分时系统与现代图形交互哲学。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 7)]]
 > - **1968 — 计算机作为通信媒介与分布式互联** 利克莱德与泰勒（Licklider & Taylor, 1968）将人机共生由单机交互拓展为分布式网络化协作，催生 ARPANET 与互联网原型。
 > - **2018 — 跨领域隐性知识发现的人机协同** 福图纳托等（[[Argument_Fortunato_2018_Science|Fortunato et al., 2018]]）在《科学》发文指出，针对学者受评价与避险激励锁定导致的探索狭窄化，机器学习通过跨领域挖掘文献与生化实体隐性关联，使人机协同成为克服学科壁垒、拓展选题前沿与未知规律发现的重要范式。
-> - **2021 — 人工智能与科研元评价的人机共生演进** 王大顺与巴拉巴西（[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási, 2021]]）系统总结现代人工智能与科学前沿的交汇，指出从蛋白质三维结构预测（AlphaFold）到复杂科学成果可复现性预测，人机协同预测模型（AUC = 0.74）显著超越纯算法（0.68）与纯人类同行评审（0.64），确立了人机共生在科学评价中的不可替代性。
+> - **2021 — 人工智能与科研元评价的人机共生演进** 王大顺与巴拉巴西（[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási, 2021]]）系统总结现代人工智能与科学前沿的交汇，指出从蛋白质三维结构预测（[[AlphaFold]]）到复杂科学成果可复现性预测，人机协同预测模型（AUC = 0.74）显著超越纯算法（0.68）与纯人类同行评审（0.64），确立了人机共生在科学评价中的不可替代性。
 
 ---
 
@@ -180,19 +192,19 @@ updated: 2026-11-03
 ---
 
 > [!warning|limits] 适用局限
-> - 算法系统的黑盒特性与不可解释性可能削弱人类专家的信任校准；当深度学习系统给出高置信度预测却无法提供因果链条解释时，人类决策者面临采纳伦理困境。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 224–226)]]
-> - 专用人工智能系统受限于符号接地与常识推理瓶颈，缺乏形成宏观科学范式突破的原创假说生成能力，无法在无人类战略指引下独立驱动根本性理论创新。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 230–232)]]
+> - 算法系统的黑盒特性与不可解释性可能削弱人类专家的[[Trust Calibration|信任校准]]；当深度学习系统给出高置[[Reliability|信度]]预测却无法提供因果链条解释时，人类决策者面临采纳伦理困境。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 224–226)]]
+> - 专用人工智能系统受限于符号接地与常识推理瓶颈，缺乏形成宏观[[Scientific Paradigm|科学范式]]突破的原创假说生成能力，无法在无人类战略指引下独立驱动根本性理论创新。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 230–232)]]
 
 ---
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit10\|Wang & Barabási (2021)]]; Wu et al. (2021) | 达特茅斯可复现性项目与大规模跨学科复现评估队列（涵盖心理学等学科经典实验） | 全文本自然语言网络分析结合专家元数据的盲测预测模型 | 成果可复现性预测的受试者工作特征曲线下面积（AUC） | 人机协同混合模型 AUC = 0.74；纯算法模型 AUC = 0.68；传统专家同行评审主观预测 AUC = 0.64 | 人机协同模型 95% CI [0.69, 0.79] | 确证人机协同在应对复杂科学文本可复现性评价时具备显著超越单一主体的预测优势 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit10\|Wang & Barabási (2021)]]; Wu et al. (2021) | 达特茅斯可复现性项目与大规模跨学科复现评估队列（涵盖心理学等学科经典实验） | 全文本自然语言[[Network Analysis\|网络分析]]结合专家元数据的盲测预测模型 | 成果可复现性预测的受试者工作特征曲线下面积（AUC） | 人机协同混合模型 AUC = 0.74；纯算法模型 AUC = 0.68；传统专家同行评审主观预测 AUC = 0.64 | 人机协同模型 95% CI [0.69, 0.79] | 确证人机协同在应对复杂科学文本可复现性评价时具备显著超越单一主体的预测优势 |
 
 ---
 

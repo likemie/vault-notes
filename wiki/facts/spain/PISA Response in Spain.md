@@ -11,7 +11,7 @@ subtype: event
 region: spain
 fact_region: "spain"
 fact_kind: "event"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[Plaintive Comparison]]"
   - "[[Comprehensive Education]]"
+  - "[[Nationalism]]"
   - "[[Bilingual Education Policy]]"
   - "[[Discourse]]"
   - "[[Paradigm]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -82,7 +83,7 @@ updated: 2026-10-22
 > [!actor-grid] 权力—立场矩阵
 > - **中央教育部与中左翼执政党（PSOE）** 坚持纯粹[[Comprehensive Education|综合教育]]理念与区域分权，指责批评者制造精英主义分流，强调教育公平但回避学业平庸。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 325–327)]]
 > - **保守派在野党（PP）与传统学界** 借 [[PISA]] 低分抨击 1990 年 [[Organic Law on the General Organization of the Education System 1990|LOGSE]] 彻底失败，主张初中早期分流、重设高中全国毕业统考与严密学术评估。
-> - **17 个自治区地方民族主义教育当局** 严密捍卫地方课程控制权与[[Bilingual Education Policy|双语政策]]，坚决抵制中央设立任何全国统测或督导机制。
+> - **17 个自治区地方[[Nationalism|民族主义]]教育当局** 严密捍卫地方课程控制权与[[Bilingual Education Policy|双语政策]]，坚决抵制中央设立任何全国统测或督导机制。
 > - **广大受影响学生群体** 在 12–16 岁均质初中内缺乏适性发展通道，初中毕业时学业失败率高企，过早脱离正规升学与技能培养体系。
 
 > [!tension]- 阵营对立与斗争结构

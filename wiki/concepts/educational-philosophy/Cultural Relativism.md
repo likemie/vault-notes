@@ -8,7 +8,7 @@ aliases:
 summary: "指发端于20世纪人类学、主张所有文化模式与生活形态同等有效且免受外部规范审查的理论范式；在当代被批评为一种不敢声称真理、美与美好生活的集体心理防御，泛化后不仅将审美品味贬低为单纯的地位争夺，更导致社会丧失辨别卓越与平庸的本能，构成战后通识正典瓦解与技术不可知论的哲学根源。"
 type: concept
 domain: "educational-philosophy"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Grand Theory]]"
   - "[[Pride in Learning]]"
   - "[[Civic Rituals]]"
+  - "[[Nationalism]]"
   - "[[Innovation Ecosystem]]"
   - "[[Buen Vivir]]"
   - "[[Discourse]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-09
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -84,7 +85,7 @@ updated: 2026-11-03
 > | **价值前提** | 一切文化生活模式同等有效，禁止优劣评判 | 文明是通往美、真理与卓越的客观进军 | 必须确立具体的伦理特质与审美裁量权 |
 > | **审美与品味** | 还原为阶级地位争夺符号（凡勃伦还原论） | 承载客观崇高与人类心智扩大的成果 | 前沿技术创新依赖创始人不可妥协的审美品味 |
 > | **对国家与教育的影响** | 拆解通识大纲，诱发[[Technological Agnosticism\|技术不可知论]] | 维系精英贵族[[Pride in Learning\|自豪]]感，但易陷入排他狭隘 | 以公立教育正典与[[Civic Rituals\|公民仪式]]重铸国家价值锚桩 |
-> | **潜在危机** | 导致文化虚无主义、辨别力萎缩与平庸陷阱 | 容易忽视非西方本土经验的多样性贡献 | 若缺乏开放包容易滑向盲目民族主义 |
+> | **潜在危机** | 导致文化虚无主义、辨别力萎缩与平庸陷阱 | 容易忽视非西方本土经验的多样性贡献 | 若缺乏开放包容易滑向盲目[[Nationalism\|民族主义]] |
 
 ---
 

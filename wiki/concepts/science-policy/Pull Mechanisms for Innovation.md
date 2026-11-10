@@ -8,7 +8,7 @@ aliases:
 summary: "按最终验证结果而非前期投入付费的创新政策工具，涵盖重大技术悬赏奖金、高级市场承诺（AMC）与事后追溯资助；适用于攻坚目标明确但技术路径开放的战略瓶颈，能以高手段激发多元解题主体并行试错。"
 type: concept
 domain: "science-policy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Quadratic Funding in Science]]"
   - "[[Grand Challenges]]"
   - "[[Document]]"
+  - "[[Early-Career Researchers]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
 related_theories:
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -89,7 +90,7 @@ updated: 2026-11-03
 > **机制设计与激励相容** 探讨研发资助中如何最大化激发试错广度并规避评审把关者偏倚。
 
 > [!claim] Kratsios, M. J.
-> **将支付节点由过程移至结果能够重塑技术探索拓扑** 项目资助购买的是科研人员的时间与耗材，无论研究是否达到预期，经费均已沉没；拉动机制则将失败风险转移给多元参赛者，同时给予成功者巨大的声誉与财务回报。这使得拥有非主流构想的小型初创团队与跨界青年学者敢于采取非共识策略，从而以远低于传统专款的成本在短期内攻克重大技术卡点（如商业亚轨道飞行、自动驾驶感知）。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 28–29)]]
+> **将支付节点由过程移至结果能够重塑技术探索拓扑** 项目资助购买的是科研人员的时间与耗材，无论研究是否达到预期，经费均已沉没；拉动机制则将失败风险转移给多元参赛者，同时给予成功者巨大的声誉与财务回报。这使得拥有非主流构想的小型初创团队与跨界[[Early-Career Researchers|青年学者]]敢于采取非共识策略，从而以远低于传统专款的成本在短期内攻克重大技术卡点（如商业亚轨道飞行、自动驾驶感知）。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 28–29)]]
 
 ---
 

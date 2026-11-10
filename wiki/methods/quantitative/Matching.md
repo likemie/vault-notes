@@ -6,7 +6,7 @@ summary: "观察性研究中的因果推断方法，通过匹配协变量分布�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
+method_related_count: 25
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Stable Unit Treatment Value Assumption]]"
   - "[[Interaction Effect]]"
+  - "[[Technology Transfer]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"
 related_methods:
@@ -39,17 +40,19 @@ related_methods:
   - "[[Covariate Adjustment]]"
   - "[[Non-intervention Research]]"
   - "[[Ex Post Facto Research]]"
+  - "[[Genetic Matching]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
   - "[[Argument_Berk_2011_EvalRev]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15]]"
+  - "[[Argument_Thompson_et_al_2018_RP]]"
 related_facts:
   - "[[Advanced Technological Education]]"
 confidence: low
 status: draft
 created: 2026-05-03
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 > [!def] Matching
@@ -121,5 +124,5 @@ updated: 2026-11-04
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Berk_2011_EvalRev\|Berk (2011)]] — 将匹配推荐为[[Causal Modeling\|因果建模]]的替代方法，论证其更少依赖不可检验假设，更多受实证诊断约束。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15\|Cohen et al. (2011, Ch. 15)]] — 将匹配列为[[Ex Post Facto Research\|事后回溯研究]]中最常用的控制手段之一，在因果-比较设计中通过匹配实验组与对照组的关键特征提高可比性；同时指出匹配可能导致样本大幅缩减（Lewis-Beck, 1993 报告从 1,194 缩减至 46 的实例）。
-> - [[Argument_Thompson_et_al_2018_RP|Thompson et al. (2018)]] — 在大学技术转移与专利许可的因果研究中运用遗传匹配算法，在多维协变量空间中为许可成果匹配高质量的对照组。
+> - [[Argument_Thompson_et_al_2018_RP|Thompson et al. (2018)]] — 在[[Technology Transfer|大学技术转移]]与专利许可的因果研究中运用[[Genetic Matching|遗传匹配算法]]，在多维协变量空间中为许可成果匹配高质量的对照组。
 

@@ -8,7 +8,7 @@ aliases:
 summary: "大学主动重构内部文化、组织架构与激励机制以融入经济社会发展的学术转型范式；经历从早期技术转移与专利创收（第二代）向应对重大社会挑战的使命型活体实验室（第三代）的演进；在欧洲大陆高教治理中，极端自由市场企业化方案因侵蚀公共品属性而遭到否决，转而探索法团网络间接操纵路径。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Valley of Death]]"
   - "[[Technology Readiness Level]]"
   - "[[Global Universities Rankings]]"
+  - "[[Quasi-market]]"
   - "[[Grand Challenges]]"
   - "[[Knowledge Co-production]]"
   - "[[Block Grants]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -151,7 +152,7 @@ updated: 2026-11-03
 > **批判高等教育政治经济学与[[Academic Capitalism|学术资本主义]]视阈** 剖析[[Global Universities Rankings|全球大学排名]]与绩效量规如何将大学推向符号声望争夺，从而边缘化不可量化的深层[[Public Value|公共价值]]。
 
 > [!claim] [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]]
-> **准市场指标崇拜对广义公共价值的挤压与遮蔽** 创业型大学与[[Academic Capitalism|学术资本主义]]的发展使学术界深陷准市场竞争与指标崇拜之中。[[Global Universities Rankings|全球大学排名]]与评价指标普遍以高引文章与大额科研经费为绝对导向，导致大学间的竞争异化为符号声望争夺，反而遮蔽了那些专注于本地社区服务、教学创新与长期公共福祉但难以短期量化的深层[[Public Value|公共价值]]。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 797–802)]]
+> **[[Quasi-market|准市场]]指标崇拜对广义公共价值的挤压与遮蔽** 创业型大学与[[Academic Capitalism|学术资本主义]]的发展使学术界深陷准市场竞争与指标崇拜之中。[[Global Universities Rankings|全球大学排名]]与评价指标普遍以高引文章与大额科研经费为绝对导向，导致大学间的竞争异化为符号声望争夺，反而遮蔽了那些专注于本地社区服务、教学创新与长期公共福祉但难以短期量化的深层[[Public Value|公共价值]]。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 797–802)]]
 
 ---
 

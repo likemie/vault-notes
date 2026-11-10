@@ -10,7 +10,7 @@ aliases:
 summary: "指学术成果在经历发表初期的迅速上升与随后长期的关注衰退后，因外部重大实验突破、新学科诞生或新范式重振而迎来爆发性二次引用的非典型引文动力学现象。巴丁等人的BCS超导理论是典型代表（发表获诺奖后于1985年触底，1986年因高温超导发现迎来第二峰）；综合期刊中此类非典型成果占比超7%，扩展双峰WSB模型可有效预测约90%的案例（Wang & Barabási, 2021）。"
 type: concept
 domain: "science-policy"
-related_count: 11
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,33 +20,36 @@ tags:
   - theme/scientific-impact
   - theme/scientometrics
 related_concepts:
+  - "[[Paradigm]]"
   - "[[Sleeping Beauty in Science]]"
-  - "[[Citation Distribution]]"
-  - "[[Citation Disparity]]"
-  - "[[Citation Aging]]"
-  - "[[Ultimate Impact]]"
-  - "[[Emergence]]"
-related_theories:
-  - "[[WSB Model]]"
+  - "[[Document]]"
+  - "[[Variable]]"
+  - "[[Big Science]]"
+  - "[[Construct]]"
+related_theories: []
 related_methods:
-  - "[[Bibliometric Analysis]]"
+  - "[[Effect Size]]"
+  - "[[Participatory Research]]"
 related_instruments: []
 related_persons:
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
+  - "[[Eugene Garfield]]"
+  - "[[Hua-Wei Shen]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: "2026-11-02"
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Second Act in Science
-> 科学中的二次激活（Second Act in Science，或称成果二次唤醒 / 双峰引文模式）是指学术论著在发表初期经历常规的快速上升并抵达首轮引用峰值、随后经历漫长注意力衰减跌入低谷后，因后续外部重大实验突破、跨学科范式重构或独立新科学领域的诞生而被重新大规模引用并形成第二轮甚至更高获引高峰的非典型引文演化现象。该现象由王大顺（Dashun Wang）与艾伯特-拉斯洛·巴拉巴西（Albert-László Barabási）等人在总结非典型引文生命周期时形式化阐释，与“[[Sleeping Beauty in Science|睡美人现象]]”共同构成偏离经典单峰跳跃衰减规律的代表性长程引文动力学形态。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 213–214)]]
+> 科学中的二次激活（Second Act in Science，或称成果二次唤醒 / 双峰引文模式）是指学术论著在发表初期经历常规的快速上升并抵达首轮引用峰值、随后经历漫长注意力衰减跌入低谷后，因后续外部重大实验突破、跨学科[[Paradigm|范式]]重构或独立新科学领域的诞生而被重新大规模引用并形成第二轮甚至更高获引高峰的非典型引文演化现象。该现象由[[Dashun Wang|王大顺]]（Dashun Wang）与[[Albert-László Barabási|艾伯特-拉斯洛·巴拉巴西]]（Albert-László Barabási）等人在总结非典型引文生命周期时形式化阐释，与“[[Sleeping Beauty in Science|睡美人现象]]”共同构成偏离经典单峰跳跃衰减规律的代表性长程引文动力学形态。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 213–214)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 标识已被学术共同体充分消化甚至淡忘的奠基性成果，在外部新知识语境激活下所展现出的非线性二次爆发能力。
@@ -59,7 +62,7 @@ updated: 2026-11-03
 > *The "theory of superconductivity" paper by Bardeen, Cooper, and Schrieffer (BCS) offers an example of a "second act", another form of atypical trajectories. The paper took off quickly after its publication in 1957, and even won its authors the Nobel Prize in physics in 1972. Yet, soon the enthusiasm dwindled, bottoming out in 1985. However, the 1986 discovery of high-temperature superconductivity made the BCS paper relevant again, helping it experience a "second act"... helping to predict about 90 percent of the atypical cases.*
 
 > [!boundary]- 概念边界
-> - 不等于[[Sleeping Beauty in Science|睡美人文献]]。睡美人文献在发表之初长期处于休眠静默状态，未曾经历早期的关注爬坡与同行加冕；二次激活成果在发表初期即获得高度认可乃至顶级学术荣誉，其生命周期呈现鲜明的“首峰爆发—深谷沉寂—二次引爆”双峰特征。
+> - 不等于[[Sleeping Beauty in Science|睡美人文献]]。睡美人[[Document|文献]]在发表之初长期处于休眠静默状态，未曾经历早期的关注爬坡与同行加冕；二次激活成果在发表初期即获得高度认可乃至顶级学术荣誉，其生命周期呈现鲜明的“首峰爆发—深谷沉寂—二次引爆”双峰特征。
 > - 不等于常规的长尾持续获引。常规长尾文献在达峰后仅维持微弱平缓的新增获引流，而二次激活具有明确的第二轮加速攀升波形，其第二峰的年度获引规模往往显著超越首轮峰值。
 
 ---
@@ -70,7 +73,7 @@ updated: 2026-11-03
 > | 初始轨迹 | 早期迅速走红，达峰后衰减 | 长期近乎零被引，处于休眠期 | 早期 2–3 年迅速达峰后单调滑落 |
 > | 峰值结构 | 具有明确的两个分离峰值（双峰形态） | 仅在延迟数十年后出现单一迟滞峰值 | 单一尖锐峰值伴随指数截断衰减 |
 > | 激活机制 | 外部新实验突破赋予经典理论新场景 | 跨学科独立发现或新工具消除认知时滞 | 正常同行评议与出版扩散推动短期关注 |
-> | 典型案例 | BCS 超导理论（Bardeen et al., 1957） | 尤金·加菲尔德 1955 年引文索引奠基文 | 绝大多数常规期刊出版物（占据全网 90%+） |
+> | 典型案例 | BCS 超导理论（Bardeen et al., 1957） | [[Eugene Garfield\|尤金·加菲尔德]] 1955 年引文索引奠基文 | 绝大多数常规期刊出版物（占据全网 90%+） |
 
 ---
 
@@ -78,7 +81,7 @@ updated: 2026-11-03
 > - **双峰引文波形（Bimodal Citation Waveform）** 具有两个明确的极大值点：第一峰由常规出版同行评议驱动，第二峰由外生范式更迭驱动。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, p. 213)]]
 > - **外生催化契机（Exogenous Awakening Trigger）** 二次激活的发生高度依赖外部学科环境的突变（如 1986 年高温超导发现之于 BCS 理论），而非文献内部文本的自发变化。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, p. 213)]]
 > - **多学科期刊客观占比（7% Prevalence）** 在综合性与多学科顶级期刊（如 *Nature*、*Science*、*PNAS*）中，非典型长周期轨迹成果占比超过 7%，构成稳定的经验分布形态。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, p. 213)]]
-> - **动力学扩展预测力（90% Model Prediction）** 在基础单峰 [[WSB Model|WSB 模型]]中引入二次激活概率项，能够对约 90% 的非典型时序轨迹实现精准拟合与长程投射。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, p. 213)]]
+> - **动力学扩展预测力（90% Model Prediction）** 在基础单峰 WSB 模型中引入二次激活概率项，能够对约 90% 的非典型时序轨迹实现精准拟合与长程投射。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, p. 213)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -112,7 +115,7 @@ updated: 2026-11-03
 > - **1957 — BCS 理论发表** 约翰·巴丁等提出超导微观理论，开启首轮引用与 1972 年诺贝尔奖历程。
 > - **1986 — 高温超导突破触发第二峰** 柏诺兹与缪勒发现高温超导现象，推动 BCS 理论在沉寂近十年后迎来远超以往的第二波被引激增。
 > - **2004 — 睡美人概念确立** 范·兰（Van Raan）形式化提出“睡美人”，引发学界对迟滞承认成果的广泛量化探索。
-> - **2014 — 多峰动力学模型构建** 沈华伟、王大顺等将二次激活形式化纳入扩展引文动力学模型。
+> - **2014 — 多峰动力学模型构建** [[Hua-Wei Shen|沈华伟]]、王大顺等将二次激活形式化纳入扩展引文动力学模型。
 > - **2021 — 科学学系统化归纳** 王大顺与巴拉巴西在专著中将二次激活与睡美人并列为两大非典型引文时序范式。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 213–214)]]
 
 ---
@@ -132,15 +135,15 @@ updated: 2026-11-03
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit09\|Bardeen et al. (1957)]] | 1957 年发表于《物理评论》（PR）的超导理论论著跨越 60 年引文时序 | 纵向引文时序追踪与诺贝尔奖/高温超导关键事件对照 | 年度新增被引频次与时间节点 | 1957 年起步走红，1972 年获诺奖后持续下滑至 1985 年触底；**1986 年**高温超导发现后迅速引爆第二轮峰值（图 20-4） | 历史时序轨迹确定客观 | 确立二次激活为外生重大科学发现重塑理论价值的典型实证形态 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit09\|Bardeen et al. (1957)]] | 1957 年发表于《物理评论》（[[Participatory Research\|PR]]）的超导理论论著跨越 60 年引文时序 | 纵向引文时序追踪与诺贝尔奖/高温超导关键事件对照 | 年度新增被引频次与时间节点 | 1957 年起步走红，1972 年获诺奖后持续下滑至 1985 年触底；**1986 年**高温超导发现后迅速引爆第二轮峰值（图 20-4） | 历史时序轨迹确定客观 | 确立二次激活为外生重[[Big Science\|大科学]]发现重塑理论价值的典型实证形态 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit09\|Wang & Barabási (2021)]] | 综合性与多学科顶级期刊发表的大样本科学出版物全集 | 非典型引文轨迹统计聚类与模型拟合 | 非典型轨迹发生占比及双峰模型拟合预测准确度 | 多学科期刊中非典型轨迹成果占比超过 **7%**；引入二次峰值的扩展引文模型能够成功预测约 **90%** 的非典型案例 | 大样本拟合效果显著 | 证实二次激活构成现代科学计量模型的重要解释对象 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang & Barabási (2021)]] — 在专著第 20 章 Box 20.1 中系统界定二次激活构念，深入剖析 BCS 超导理论案例并展示双峰扩展模型的预测表现（pp. 213–214）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang & Barabási (2021)]] — 在专著第 20 章 Box 20.1 中系统界定二次激活[[Construct|构念]]，深入剖析 BCS 超导理论案例并展示双峰扩展模型的预测表现（pp. 213–214）。

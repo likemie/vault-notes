@@ -11,9 +11,9 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 19
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "芬兰议会"
 tags:
@@ -23,31 +23,43 @@ tags:
   - theme/comprehensive-school
   - theme/equity
 related_concepts:
-  - "[[Comprehensive Education]]"
+  - "[[School Inspection]]"
+  - "[[Norm-Referenced Test]]"
+  - "[[Educational Level]]"
+  - "[[Tracking]]"
+  - "[[School Autonomy]]"
+  - "[[Free School Meals]]"
   - "[[Academic Achievement]]"
+  - "[[Direct Instruction]]"
+  - "[[Comprehensive Education]]"
 related_theories: []
 related_methods:
   - "[[Difference-in-Differences]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Experimental Research]]"
 related_instruments: []
 related_persons:
   - "[[Pasi Sahlberg]]"
 related_facts:
+  - "[[Finnish National Board of Education]]"
+  - "[[Grammar School]]"
   - "[[Finnish PISA Miracle]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Sahlgren_2015_CPS]]"
 confidence: high
 status: completed
 created: 2026-11-06
-updated: 2026-11-06
+updated: 2026-11-11
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 芬兰议会于 1968 年正式通过《基础教育制度法》（School System Act 1968），由芬兰教育文化部与芬兰国家教育委员会统筹推行。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 7)]]
+> - **发布时间 / 发布主体** 芬兰议会于 1968 年正式通过《基础教育制度法》（School System Act 1968），由芬兰教育文化部与[[Finnish National Board of Education|芬兰国家教育委员会]]统筹推行。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 7)]]
 > - **适用地区 / 对象** 覆盖芬兰全境 7 至 16 岁适龄青少年，自 1972 年起由北部拉普兰地区向南部城镇阶梯式推行，于 1977 年完成全国覆盖。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7–8)]]
-> - **问题背景** 战后芬兰沿袭历史悠久的二元双轨制：学生在小学四年级后即面临分流考核，少数精英进入学术型文法学校（oppikoulu），多数普通工农子女进入公民学校（kansakoulu），造成严重的阶层固化与地域不均。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7–8)]]
+> - **问题背景** 战后芬兰沿袭历史悠久的二元双轨制：学生在小学四年级后即面临分流考核，少数精英进入学术型[[Grammar School|文法学校]]（oppikoulu），多数普通工农子女进入公民学校（kansakoulu），造成严重的阶层固化与地域不均。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7–8)]]
 > - **制度位置** 借鉴瑞典和挪威 1950 至 1960 年代的综合初中平民化运动经验，构成了战后北欧福利国家重塑教育公平的核心基石。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 7)]]
 
 ---
@@ -59,10 +71,10 @@ updated: 2026-11-06
 > - **政策目标** 消除家庭出身与地理偏远对求学机会的阻碍，提升全民族基础认知素养，促进战后社会融合与代际阶层流动。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7–8)]]
 > - **适用对象** 芬兰全国各市镇公立初等教育学区、全体 7 至 16 岁基础学龄儿童及中小学教职工。
 > - **政策工具** 设立统一全国统编教材审定程序；制定精确到课时的国家课程大纲（NBE Prescriptive Curriculum）；设置专任兼职补习的特殊教育（Special Education）支持岗位，约 30% 学生在学期间获得针对性干预。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7–8, 12)]]
-> - **约束机制** 建立国家教育督导制度与课堂教学日志逐日审核；直至 1985 年前，义务教育结业成绩仍采用全国常模参照测验进行校际间水准校准。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 12)]]
+> - **约束机制** 建立国家[[School Inspection|教育督导]]制度与课堂教学日志逐日审核；直至 1985 年前，义务教育结业成绩仍采用全国[[Norm-Referenced Test|常模参照测验]]进行校际间水准校准。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 12)]]
 
 > [!citation-card] 标志性政策归纳：佩卡里宁等（2009）论综合学校改革的实证效应
-> 对芬兰征兵入伍男青年认知测验数据的微观计量分析证实，综合学校改革消除了早期分轨的不平等，显著改善了低收入家庭子女的受教育年限与代际收入弹性，但在算术逻辑与一般智力测验中，该改革对全国总体验收均分的直接提振作用微乎其微。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 10–11)]]
+> 对芬兰征兵入伍男青年认知测验数据的微观计量分析证实，综合学校改革消除了早期分轨的不平等，显著改善了低收入家庭子女的[[Educational Level|受教育年限]]与代际收入弹性，但在算术逻辑与一般智力测验中，该改革对全国总体验收均分的直接提振作用微乎其微。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 10–11)]]
 >
 > *Econometric evaluations show that the 1970s comprehensive school reform had marginal overall impacts on cognitive test scores among male conscripts, although it improved educational mobility and intergenerational earnings elasticity for disadvantaged children.*
 
@@ -72,15 +84,15 @@ updated: 2026-11-06
 > - 1968 芬兰议会通过《基础教育制度法案》，确立九年制 Peruskoulu 蓝图。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 7)]]
 > - 1972 改革正式启动，自北部与东部边缘省份率先开始试点更替。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7–8)]]
 > - 1977 赫尔辛基首都圈完成最终切换，全国综合学校体制全面成型。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 8)]]
-> - 1985 取消以能力分组教学的严格分流轨迹，转向目标参照评估标准。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 12)]]
-> - 1990 年代初 废除中央教科书审定、国家督导检查制与指令性课表，开启地方学校自主管理时代。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 12–13)]]
+> - 1985 取消以[[Tracking|能力分组]]教学的严格分流轨迹，转向目标参照评估标准。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 12)]]
+> - 1990 年代初 废除中央教科书审定、国家督导检查制与指令性课表，开启地方[[School Autonomy|学校自主]]管理时代。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 12–13)]]
 
 ---
 
 > [!actor-grid] 实施角色分工
 > - **政策设计与立法方** 芬兰中左翼政党联盟与社会民主党 — 推动消除特权学校并建立平等主义公共服务。
 > - **中央行政监管方** 芬兰国家教育委员会（NBE） — 编制精细课程指南并推行严密督导考查。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 12)]]
-> - **基层市镇当局** 承担公办校舍合并改造、校车免费接送与全免费学生午餐供给责任。
+> - **基层市镇当局** 承担公办校舍合并改造、校车免费接送与全[[Free School Meals|免费学生午餐]]供给责任。
 > - **一线教师群体** 在高度结构化中央指令与统编教材指导下落实大纲，开展普遍兼职补习。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7–8)]]
 
 > [!pathways] 实施路径
@@ -97,7 +109,7 @@ updated: 2026-11-06
 
 > [!finding-cards] 效果与评价
 > - **促进底层家庭代际流动与公平** 微观计量实证证实，废除早期分轨显著提高了受教育机会均等化，低收入家庭子女的受教育年限与代际收入弹性获得显著改善。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 10–11)]]
-> - **对总体认知水准提振效应有限** 佩卡里宁等（2009）基于征兵测试数据的双重差分估计显示，综合学校改革对男青年在算术和逻辑推理上的总体认知均分提升效应极其微弱，未直接促成全国学术水准飞跃。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 10–11, 178)]]
+> - **对总体认知水准提振效应有限** 佩卡里宁等（2009）基于征兵测试数据的[[Difference-in-Differences|双重差分]]估计显示，综合学校改革对男青年在算术和逻辑推理上的总体认知均分提升效应极其微弱，未直接促成全国学术水准飞跃。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 10–11, 178)]]
 > - **特殊教育密集托底保障底线** 普及兼职特殊教育抽离支持有效化解了未分轨班级内的两极分化，使学习困难学生获得高频个别化补救，维持了极小的校内与校际离散度。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7–8)]]
 
 > [!stat-cards]- 核心实证数据
@@ -109,14 +121,14 @@ updated: 2026-11-06
 
 > [!debates] 政策争议
 >
-> > [!axis] 芬兰奇迹的制度基石 vs 认知均值无关性
-> > 比较学者围绕综合学校改革是否是造就芬兰优异学业成绩的决定性动因存在严重分歧。
+> > [!axis] [[Finnish PISA Miracle|芬兰奇迹]]的制度基石 vs 认知均值无关性
+> > 比较学者围绕综合学校改革是否是造就芬兰优异[[Academic Achievement|学业成绩]]的决定性动因存在严重分歧。
 > >
 > > - **萨尔伯格视角（制度基石论）** 将废除早期分流与推行均等综合基础学校视作芬兰教育成功与高平等的首要制度支撑。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7–9)]]
-> > - **萨尔格伦视角（微观计量反思）** 指出实证计量表明改革的主要成就在于保障底线公平与促进代际流动，对整体学术均分提升收益微弱；芬兰在国际测验上的学术飞跃主要发生在集权旧体制与传统直接教学之下。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 10–15, 178)]]
+> > - **萨尔格伦视角（微观计量反思）** 指出实证计量表明改革的主要成就在于保障底线公平与促进代际流动，对整体学术均分提升收益微弱；芬兰在国际测验上的学术飞跃主要发生在集权旧体制与传统[[Direct Instruction|直接教学]]之下。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 10–15, 178)]]
 >
 > > [!axis] 能力分组取消的长期影响
-> > 1985 年取消按能力分班教学在芬兰国内引发争议：支持者认为彻底消除了隐性贴标签与歧视；批评者担忧无差异班级教学难以满足拔尖学生的高阶学术挑战需求。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 12)]]
+> > 1985 年取消按能力分班教学在芬兰国内引发争议：支持者认为彻底消除了隐性[[Coding in Qualitative Research|贴标签]]与歧视；批评者担忧无差异班级教学难以满足拔尖学生的高阶学术挑战需求。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 12)]]
 
 ---
 
@@ -125,10 +137,10 @@ updated: 2026-11-06
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Comprehensive Education]] | Concept | 芬兰综合学校改革所确立的面向全体国民的统一九年一贯制基础教育形态。 |
-> | [[Finnish PISA Miracle]] | Fact | 国际政策界常将 2000 年代芬兰在 PISA 中的优异表现归功于该改革的平等基石。 |
+> | [[Finnish PISA Miracle]] | Fact | 国际政策界常将 2000 年代芬兰在 [[PISA]] 中的优异表现归功于该改革的平等基石。 |
 > | [[Pasi Sahlberg]] | Person | 将芬兰奇迹归因于综合学校模式与教师专业信任的代表性国际倡导者。 |
 > | [[Difference-in-Differences]] | Method | 佩卡里宁等学者评估芬兰综合学校改革因果效应所采用的准实验计量方法。 |
-> | [[Quasi-Experimental Designs]] | Method | 利用芬兰 1972–1977 年分地区阶梯推行改革的时间窗口构建的自然准实验设计。 |
+> | [[Quasi-Experimental Designs]] | Method | 利用芬兰 1972–1977 年分地区阶梯推行改革的时间窗口构建的自然准[[Experimental Research\|实验设计]]。 |
 > | [[Academic Achievement]] | Concept | 改革试图全面提升但经微观实证检验在总体均值上收益有限的核心评估指标。 |
 
 ---

@@ -9,7 +9,7 @@ aliases:
 summary: "将教师薪酬与教学表现或测试产出挂钩的激励制度，新自由主义常视其为提升质量的手段，但面临跨国实证脱节、破坏合作文化及现场试验中遭教师强烈伦理抵制而流产等多重批判"
 type: concept
 domain: "educational-policy-reform"
-related_count: 44
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Effective Teaching]]"
   - "[[Visible Learning]]"
+  - "[[Transnational Education]]"
   - "[[Evaluation Research]]"
   - "[[Statistical Analysis Plan]]"
   - "[[Mediatised Governance]]"
@@ -42,6 +43,8 @@ related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[Heterogeneity]]"
   - "[[Academic Achievement]]"
+  - "[[Document]]"
+  - "[[Professional Capital]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
@@ -70,12 +73,13 @@ related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Snook_2010_NZJES]]"
+  - "[[Argument_Barrenechea_2023_JEC]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 > [!def] Performance Pay
@@ -161,7 +165,7 @@ updated: 2026-11-10
 
 ---
 
-> [!concept-proposition] 命题二｜跨国教育实证评估显示绩效工资与学生表现缺乏相关，其推行常依赖政治精英的象征性转译与遗漏话语
+> [!concept-proposition] 命题二｜[[Transnational Education|跨国教育]]实证评估显示绩效工资与学生表现缺乏相关，其推行常依赖政治精英的象征性转译与遗漏话语
 > **跨国实证证据赤字与[[Policy Borrowing\|政策借用]]中的合法化包装** 比较教育学与政策社会学学者揭示：在新自由主义全球治理中，绩效工资的合法性脱离了坚实的实证数据支撑，主要构成为政客动用媒介资本、利用国际评估数据实施逆向裁剪的政治产物。
 
 > [!claim] [[Argument_Grey_2018_CE\|Grey and Morris (2018, pp. 116–122)]]
@@ -333,5 +337,5 @@ updated: 2026-11-10
 > - [[Argument_Terhart_2011_JCS\|Terhart (2011)]] — 评析新西兰依据可见学习推行绩效工资与 [[Assessment Tools for Teaching and Learning|asTTle]] 行政化监控引发的政策争议，揭示技术官僚问责对教师专业文化的制度冲击。
 > - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 深度解构英格兰 2013 年教师绩效工资改革，揭示政治精英如何动用媒介资本、利用“遗漏[[Discourse|话语]]”将 [[PISA]] 数据与上海案例逆向裁剪为推行国内争议政策的合法化修辞。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 剖析英格兰 [[Incentivised Pay and Coaching Trial\|ICR]] 教师绩效奖金随机试验因教师强烈伦理抗议与内在动机排斥而招募流产的典型案例，反思外部物质激励在公立校园落地的可行性边界。
-> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对系统改进实证文献开展质性综合，批判基于理性选择的绩效工资等微观经济激励，论证个体竞争逻辑忽视协作文化与专业资本建设。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对系统改进实证[[Document|文献]]开展质性综合，批判基于理性选择的绩效工资等微观经济激励，论证个体竞争逻辑忽视协作文化与[[Professional Capital|专业资本]]建设。
 

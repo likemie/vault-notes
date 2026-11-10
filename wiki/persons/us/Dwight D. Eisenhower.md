@@ -9,10 +9,10 @@ summary: "美国第34任总统、陆军五星上将，在二战中担任盟军�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1890"
 died: "1969"
 lifespan: "1890–1969"
@@ -23,39 +23,43 @@ tags:
   - theme/science-policy
   - theme/democracy
 related_concepts:
+  - "[[Grandes Ecoles]]"
   - "[[Academic Freedom]]"
   - "[[Document]]"
-  - "[[Technological Agnosticism]]"
+  - "[[Big Science]]"
   - "[[Technological Republic]]"
-  - "[[Hard Power]]"
   - "[[Paradigm]]"
+  - "[[Technological Agnosticism]]"
+  - "[[Hard Power]]"
 related_theories:
   - "[[Social Contract of Science]]"
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[James R. Killian Jr.]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
 related_facts:
+  - "[[Sputnik Shock 1957]]"
+  - "[[President's Science Advisory Committee]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[DARPA]]"
   - "[[National Defense Education Act of 1958]]"
-  - "[[President's Science Advisory Committee]]"
-  - "[[Sputnik Shock 1957]]"
+  - "[[Symposium on Basic Research 1959]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06]]"
   - "[[Argument_Yang_2017_MUE]]"
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国陆军五星上将、第 34 任美国总统（1953–1961），哥伦比亚大学前校长（1948–1953）。
-> - **核心角色** 二战盟军欧洲远征军最高统帅，领导诺曼底登陆；冷战时期因应苏联卫星危机，搭建总统科学顾问委员会（PSAC）直通最高决策层，推动联邦科研资助格局向民用自由基础探索转移；在 1961 年告别演说中深刻预警军工复合体与技术官僚精英俘获公共政策的双重治理风险。
+> - **核心角色** 二战盟军欧洲远征军最高统帅，领导诺曼底登陆；冷战时期因应[[Sputnik Shock 1957|苏联卫星危机]]，搭建[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）直通最高决策层，推动联邦科研资助格局向民用自由基础探索转移；在 1961 年告别演说中深刻预警军工复合体与技术官僚精英俘获公共政策的双重治理风险。
 > - **代表贡献** 签署法案创建[[National Aeronautics and Space Administration|美国国家航空航天局]]（NASA）与国防部高级研究计划局（[[DARPA]]）；签署《[[National Defense Education Act of 1958|国防教育法]]》（NDEA）；重组[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）；首次提出并系统警示军工复合体与科技精英俘获公共政策的宪政危机。
 
 > [!citation-card] 科技精英俘获公共政策的宪政危险
@@ -74,11 +78,11 @@ updated: 2026-11-04
 > - **1890** 出生于美国德克萨斯州丹尼森。
 > - **1915** 毕业于美国西点军校。
 > - **1943–1945** 出任欧洲盟军最高远征统帅，组织实施霸王行动（Operation Overlord）。
-> - **1948–1953** 担任哥伦比亚大学校长。
+> - **1948–1953** 担任哥伦比亚[[Grandes Ecoles|大学校]]长。
 > - **1953–1961** 连任两届美国总统，推动州际公路系统建设与民权立法。
-> - **1957** 因应[[Sputnik Shock 1957|苏联卫星危机]]在白宫正式重组[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC），任命麻省理工学院校长詹姆斯·基利安为主席，开启学术界直通白宫最高决策的制度化通道。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 37–38)]]
+> - **1957** 因应[[Sputnik Shock 1957|苏联卫星危机]]在白宫正式重组[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC），任命麻省理工学院校长[[James R. Killian Jr.|詹姆斯·基利安]]为主席，开启学术界直通白宫最高决策的制度化通道。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 37–38)]]
 > - **1958** 签署《[[National Defense Education Act of 1958|国防教育法]]》（NDEA），以成文法形式将高教与基础科研确立为国家战略防线；设立高级研究计划局（ARPA，后更名为 [[DARPA]]）与国家航空航天局（[[National Aeronautics and Space Administration|NASA]]）。
-> - **1959** 出席全美基础研究研讨会并发表《科学：自由的女仆》主旨演讲，公开宣布政府乐于在顾问建言下慷慨资助学术探索，为[[Academic Freedom|学术自由]]与基础研究确立最高政治背书。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
+> - **1959** 出席全美[[Symposium on Basic Research 1959|基础研究研讨会]]并发表《科学：自由的女仆》主旨演讲，公开宣布政府乐于在顾问建言下慷慨资助学术探索，为[[Academic Freedom|学术自由]]与基础研究确立最高政治背书。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 > - **1961** 1 月 17 日发表著名总统告别演说，深刻警示军工复合体的无序膨胀与公共政策被科技精英俘获的宪政危机。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 71)]]
 > - **1969** 逝世于华盛顿哥伦比亚特区。
 
@@ -106,7 +110,7 @@ updated: 2026-11-04
 
 > [!influence-path] 影响路径
 > - **科技政策与资助路径** 因应苏联卫星危机重构白宫科学咨询建制（PSAC），推动立法出台《国防教育法》，打通了联邦财政对大学自由基础科学的长期规模化拨款通道。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 37–38)]]
-> - **大科学与国家工程路径** 签署法案创建 NASA 与 DARPA，确立了太空竞赛与前沿国防颠覆性技术研发的战略组织平台。
+> - **[[Big Science|大科学]]与国家工程路径** 签署法案创建 NASA 与 DARPA，确立了太空竞赛与前沿国防颠覆性技术研发的战略组织平台。
 > - **民主治理与宪政反思路径** 告别演说关于“军工复合体”与“科技精英俘获”的诊断，成为批判技术官僚专断与审视现代科技治理制度张力的经典理论基准。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 71)]]
 
 > [!evidence-grid-a] 相关研究索引
@@ -117,7 +121,7 @@ updated: 2026-11-04
 
 > [!person-network] 关系网络
 > - **科学顾问与智囊领袖** [[James R. Killian Jr.|詹姆斯·基利安]]（James R. Killian Jr.） — 任命其为首任总统科学顾问兼 PSAC 主席，开启学者精英直接辅佐总统的体制通道。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
-> - **当代历史与战略对话者** [[Alexander Karp]]、[[Nicholas Zamiska]] — 在《技术共和国》中对照艾森豪威尔的宪政预警与当代人工智能战略竞争。
+> - **当代历史与战略对话者** [[Alexander Karp]]、[[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》中对照艾森豪威尔的宪政预警与当代人工智能战略竞争。
 
 ---
 
@@ -138,7 +142,7 @@ updated: 2026-11-04
 > | [[National Defense Education Act of 1958]] | 政策 | 签署立法将高教与基础科学置于国家安全战略地位，开启规模化联邦资助。 |
 > | [[President's Science Advisory Committee]] | 机构 | 借卫星危机重组该顾问委员会，确立学术精英直通最高决策的中枢通道。 |
 > | [[DARPA]] | 机构 | 签署政令创建该机构，奠定战后美国底层数字技术与互联网创新的战略支柱。 |
-> | [[National Aeronautics and Space Administration]] | 机构 | 签署法案创建民用航天机构，开启大科学工程攻坚范式。 |
+> | [[National Aeronautics and Space Administration]] | 机构 | 签署法案创建民用航天机构，开启大科学工程攻坚[[Paradigm\|范式]]。 |
 > | [[Social Contract of Science]] | 理论 | 其治下通过科教一体信条与慷慨资助实践，缔造了科学社会契约的黄金时代。 |
 > | [[Technological Agnosticism]] | 概念 | 其 1961 年演说被用作批判技术精英脱离公共目标盲目建造的经典参照。 |
 > | [[Technological Republic]] | 概念 | 为平衡国家[[Hard Power\|硬实力]]、科技创新与民主问责提供国家战略建构[[Paradigm\|范式]]。 |

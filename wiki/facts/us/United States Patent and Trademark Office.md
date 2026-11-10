@@ -11,9 +11,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 8
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 17
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: 联邦知识产权主管与审查机构
 headquarters: 美国弗吉尼亚州亚历山大（Alexandria, Virginia）
@@ -26,29 +26,38 @@ tags:
   - region/us
 related_concepts:
   - "[[Survivorship Bias]]"
-  - "[[Dual Frontier]]"
-  - "[[Patent Citation]]"
   - "[[Technology Transfer]]"
+  - "[[Research Translation]]"
+  - "[[Patent Citation]]"
+  - "[[Document]]"
+  - "[[Dual Frontier]]"
+  - "[[Demonstration Effect]]"
+  - "[[Data Infrastructure]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Bibliometric Analysis]]"
+  - "[[Sample Size Determination]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Santo Fortunato]]"
 related_facts:
+  - "[[Department of Commerce]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[Education Policy Outlook]]"
   - "[[National Institutes of Health]]"
 related_arguments:
-  - "[[Argument_Fortunato_2018_Science]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
+  - "[[Argument_Fortunato_2018_Science]]"
 confidence: high
 status: active
 created: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定位
-> 美国专利商标局（United States Patent and Trademark Office, USPTO）是美国商务部主管全美发明专利授予与商标注册的联邦法定专门机构；作为国家知识产权治理与技术创新的法定中枢，自 2001 年起实施专利申请 18 个月强制全量公开制度，打破了长期仅观测获批成功专利的[[Survivorship Bias|幸存者偏差]]，为科学计量学与创新经济学提供了完整还原创新管线的公共底层数据库。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 242)]]
+> 美国专利商标局（United States Patent and Trademark Office, USPTO）是[[Department of Commerce|美国商务部]]主管全美发明专利授予与商标注册的联邦法定专门机构；作为国家知识产权治理与技术创新的法定中枢，自 2001 年起实施专利申请 18 个月强制全量公开制度，打破了长期仅观测获批成功专利的[[Survivorship Bias|幸存者偏差]]，为[[Bibliometric Analysis|科学计量学]]与创新经济学提供了完整还原创新管线的公共底层数据库。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 242)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 宪法第一条第八款赋予国会保护著作权人与发明人排他性专有权利；1790 年颁布首部《专利法》，1802 年设立专职专利办公室，1975 年正式更名为美国专利商标局（USPTO）。
@@ -66,9 +75,9 @@ updated: 2026-11-02
 >   - **1836** 建立专职专利审查员制度与连续编号专利体系，设立专利图书馆向公众公开技术蓝图。
 >   - **1925** 正式由内政部整体划转至联邦商务部管辖。
 >
-> - **1980–2000** **技术转移浪潮与知识产权资产化扩张**
+> - **1980–2000** **[[Technology Transfer|技术转移]]浪潮与知识产权资产化扩张**
 >
->   伴随联邦科技政策转向，全面服务于高校、国家实验室与私营企业的技术转化需求。
+>   伴随联邦科技政策转向，全面服务于高校、国家实验室与私营企业的[[Research Translation|技术转化]]需求。
 >
 >   - **1980** 《[[Bayh-Dole Act of 1980|拜杜法案]]》颁布，大学与学术医疗中心向 USPTO 提交的专利申请出现爆发式增长。
 >   - **1999** 国会通过《美国发明人保护法》（AIPA），确立与国际接轨的专利申请定期公开准则。
@@ -79,7 +88,7 @@ updated: 2026-11-02
 >
 >   - **2001** 正式执行申请在优先权日起 18 个月内强制公开机制，使被驳回、撤回与审批中的完整申请池进入公共视野。
 >   - **2011** 《美国发明法》（Leahy-Smith America Invents Act, AIA）通过，美国专利制度从“先发明制”彻底转向国际通行的“发明人先申请制”（First-Inventor-to-File）。
->   - **2018** 桑托·福图纳托等在《科学》发表封面综述，依托 USPTO 涵盖的数百万件发明专利，将专利引文与科学文献网络交叉映射，全景揭示科技跨界扩散与团队规模演化规律。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, pp. 1, 3)]]
+>   - **2018** [[Santo Fortunato|桑托·福图纳托]]等在《科学》发表封面综述，依托 USPTO 涵盖的数百万件发明专利，将[[Patent Citation|专利引文]]与科学[[Document|文献]]网络交叉映射，全景揭示科技跨界扩散与团队规模演化规律。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, pp. 1, 3)]]
 
 ---
 
@@ -97,7 +106,7 @@ updated: 2026-11-02
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **全量公开数据库（PatFT / AppFT / PatentsView）** 向学术界与产业界免费开放可检索的已授权专利全文及未决申请全量文档库，成为计算科学学的重要数据源。
-> - **专利合作分类体系（CPC）** 与欧洲专利局（EPO）共同制定的联合专利分类体系，精细化标引全球技术知识树。
+> - **专利合作分类体系（CPC）** 与欧洲专利局（[[Education Policy Outlook|EPO]]）共同制定的联合专利分类体系，精细化标引全球技术知识树。
 > - **知识产权统计与分析报告** 定期发布技术领域创新分布报告、女性与弱势群体发明参与指数及跨国技术竞争简报。
 
 > [!citation-card] 代表性政策：18 个月公开制度打破成功者偏差
@@ -110,12 +119,12 @@ updated: 2026-11-02
 > [!indicators] 影响力维度与指标
 > - **年处理规模** 每年接收超过 60 万件专利申请，维持有效发明专利数百万件，为全球技术创新的核心集聚地。
 > - **科学文献渗透度** USPTO 审查卷宗记载了数千万次对学术文献的非专利引用，直接支撑了[[Dual Frontier|双重前沿]]模型与跨界技术扩散网络的测绘。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 247–248)]]
-> - **制度示范效应** 其设立的申请审查规程与公开披露准则长期作为全球知识产权标准制定的核心标杆。
+> - **制度[[Demonstration Effect|示范效应]]** 其设立的申请审查规程与公开披露准则长期作为全球知识产权标准制定的核心标杆。
 
 > [!stat-cards]- 核心规模数据
 > - **18 Months** 专利申请从优先权日起至强制全量公开的法定时间窗口。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 242)]]
 > - **600,000+** USPTO 年均处理的新增发明专利申请总量。
-> - **2.1M** 科学学团队规模跨越半个世纪历时演化研究所依托的 USPTO 发明专利样本量（210 万件）。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 3)]]
+> - **2.1M** 科学学团队规模跨越半个世纪历时演化研究所依托的 USPTO 发明专利[[Sample Size Determination|样本量]]（210 万件）。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 3)]]
 > - **80% $\leftrightarrow$ 61%** 全球科学文献与 USPTO 发明专利在双重前沿拓扑网络中建立直接与间接连通的双向比例。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 247)]]
 
 ---
@@ -144,5 +153,5 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 记录 USPTO 自 2001 年起实行申请 18 个月强制公开制度，为科学学克服技术创新全生命周期中的幸存者偏差提供了关键数据基础设施（p. 242）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 记录 USPTO 自 2001 年起实行申请 18 个月强制公开制度，为科学学克服技术创新全生命周期中的幸存者偏差提供了关键[[Data Infrastructure|数据基础设施]]（p. 242）。
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 在《科学》封面综述中将 USPTO 专利数据库作为技术前沿与发明网络的核心实证样本，揭示团队规模扩张与科学技术双重知识流动的演化规律。

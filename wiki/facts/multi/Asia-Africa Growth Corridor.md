@@ -9,7 +9,7 @@ subtype: program
 region: multi
 fact_region: "multi"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ tags:
   - theme/infrastructure
   - theme/south-south-cooperation
 related_concepts:
+  - "[[Early-Career Researchers]]"
   - "[[Regional Innovation System]]"
   - "[[Document]]"
   - "[[Geopolitics]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -70,7 +71,7 @@ updated: 2026-10-22
 >   1. 发展与合作项目：重点支持农产品加工、医疗卫生以及可再生能源投资。
 >   2. 高质量基础设施与制度联通：开发深水海港、跨国物流园区及通关便利化制度。
 >   3. 能力建设与技能提升：由印日两国机构协助非洲开展公共管理、工程技术与师资联合培训。
->   4. 人文合作伙伴关系：推动大学智库联盟、青年学者互访与文化艺术交流。[[Argument_King_2020_ECNUROE|(King, 2020, p. 232)]]
+>   4. 人文合作伙伴关系：推动大学智库联盟、[[Early-Career Researchers|青年学者]]互访与文化艺术交流。[[Argument_King_2020_ECNUROE|(King, 2020, p. 232)]]
 > - **实施控制** 强调严格遵循[[OECD|经济合作与发展组织]]（OECD）债务透明度与环境评估准则，通过多边联合研究报告论证可行性。
 
 > [!citation-card] 愿景文件的智库起草主导性

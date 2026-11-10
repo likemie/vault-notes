@@ -8,7 +8,7 @@ summary: "19世纪法国著名哲学家与历史学家；在巴黎索邦大学�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 15
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - theme/citizenship
   - region/france
 related_concepts:
+  - "[[Nationalism]]"
   - "[[Everyday Plebiscite]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
@@ -40,9 +41,9 @@ related_persons:
   - "[[Nicholas Zamiska]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Anderson_2016_Verso_Ch01]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
+  - "[[Argument_Anderson_2016_Verso_Ch01]]"
 confidence: high
 status: active
 created: 2026-10-08
@@ -53,7 +54,7 @@ updated: 2026-11-11
 
 > [!person-profile] 人物档案
 > - **身份位置** 19 世纪法国著名哲学家、语文学家、历史学家，法兰西学术院院士，法兰西公学（Collège de France）总管。
-> - **核心角色** 现代公民民族主义（Civic Nationalism）理论的奠基性先驱，在破除种族主义血缘国家观、确立主观精神契约国家观中承担里程碑节点功能。
+> - **核心角色** 现代公民[[Nationalism|民族主义]]（Civic Nationalism）理论的奠基性先驱，在破除种族主义血缘国家观、确立主观精神契约国家观中承担里程碑节点功能。
 > - **代表贡献** 提出将民族定义为[[Everyday Plebiscite|每日公民投票]]，强调共同历史牺牲记忆与当下共同生活意愿。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
 
 > [!citation-card] 人物定位的关键来源

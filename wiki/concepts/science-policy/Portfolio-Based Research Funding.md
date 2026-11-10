@@ -8,10 +8,10 @@ aliases:
 summary: "国家科技政策与科研资助治理中主动构建和优化资助工具、风险梯度、资助对象与组织形态的战略配置框架；通过融合对人资助、金券制、拉动机制、聚焦研究组织与元科学随机对照实验，克服单一同行评议的避险惯性并平衡纯好奇探索与应用导向攻坚。"
 type: concept
 domain: "science-policy"
-related_count: 37
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 46
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - theme/science-policy
   - theme/research-funding
@@ -29,43 +29,52 @@ related_concepts:
   - "[[Golden Ticket Mechanism]]"
   - "[[Advance Market Commitments]]"
   - "[[Academic Medical Center]]"
+  - "[[Disciplinary Institutionalization]]"
+  - "[[Early-Career Researchers]]"
   - "[[Red Tape]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Academic Freedom]]"
   - "[[Scientific Method]]"
+  - "[[People, Not Projects]]"
   - "[[Document]]"
   - "[[Epistemology]]"
+  - "[[Publication Bias]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
   - "[[Path Dependence]]"
   - "[[Pool of Knowledge]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
-  - "[[Random Assignment]]"
   - "[[Mechanism Experiments]]"
+  - "[[Random Assignment]]"
+  - "[[Longitudinal Study]]"
 related_instruments:
   - "[[Heilmeier Catechism]]"
 related_persons:
   - "[[Michael Kratsios]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
   - "[[Donald Stokes]]"
   - "[[Vannevar Bush]]"
 related_facts:
   - "[[Fast Grants]]"
-  - "[[National Institutes of Health]]"
-  - "[[United Kingdom Metascience Unit]]"
-  - "[[Office of Science and Technology Policy]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
+  - "[[National Institutes of Health]]"
+  - "[[Howard Hughes Medical Institute]]"
+  - "[[United Kingdom Metascience Unit]]"
   - "[[Science A New Golden Age 2026]]"
+  - "[[Office of Science and Technology Policy]]"
 related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Stephan_2013_NBER]]"
   - "[[Argument_Atkinson_2008_TIS]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit10]]"
   - "[[Argument_Fan_2026_BCAS]]"
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -103,7 +112,7 @@ updated: 2026-11-03
 > **偶然组合与[[Path Dependence|路径依赖]]** 剖析联邦科研资助若仅依赖传统院系面板评审与上一年度历史基数，为何必然导致资助流向固化与系统性学术避险。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]; [[Argument_Stephan_2013_NBER|Stephan (2013)]]
-> **偶然组合与在位者垄断假说** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios）领衔的白宫科技战略报告论证指出，美国联邦政府每年分配约 2000 亿美元研发经费，但长期缺乏系统性的顶层组合配置框架。当资助机构仅仅被动汇总各个学科评审面板通过的项目时，其形成的资助组合受消耗经费的既有学科建制惯性驱动，由同一批高校在位者和资深学者主导形成“偶然组合”（Accidental Portfolio），脱离了科学前沿的理性设计。在极低的资助率下，共识评审迫使青年学者回避高风险探索并退守增量课题，导致巨额公共预算在[[Red Tape|繁文缛节]]中固化为保守平庸的利益分配。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 20, 30–31)]]; [[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 41–44)]]
+> **偶然组合与在位者垄断假说** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios）领衔的白宫科技战略报告论证指出，美国联邦政府每年分配约 2000 亿美元研发经费，但长期缺乏系统性的顶层组合配置框架。当资助机构仅仅被动汇总各个学科评审面板通过的项目时，其形成的资助组合受消耗经费的既有[[Disciplinary Institutionalization|学科建制]]惯性驱动，由同一批高校在位者和资深学者主导形成“偶然组合”（Accidental Portfolio），脱离了科学前沿的理性设计。在极低的资助率下，共识评审迫使[[Early-Career Researchers|青年学者]]回避高风险探索并退守增量课题，导致巨额公共预算在[[Red Tape|繁文缛节]]中固化为保守平庸的利益分配。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 20, 30–31)]]; [[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 41–44)]]
 
 ---
 
@@ -127,12 +136,12 @@ updated: 2026-11-03
 > **系统性风险对冲与容错资助** 探讨如何借鉴现代金融资产组合分散风险的原理，在宏观资助组合层面吸收高风险未知探索的失败成本。
 
 > [!claim] [[Dashun Wang|Wang, D.]] & [[Albert-László Barabási|Barabási, A.-L.]]
-> **投资组合容错与从单项目向对人资助转型** 王大顺（Dashun Wang）与阿尔伯特-拉斯洛·巴拉巴西（Albert-László Barabási）指出，人类科学家在知识网络中严重扎堆于少数中心实体周边的拥挤前沿，其根源在于个体学者必须独立承担未知探索失败导致的职业声誉与资助断流风险。解决之道在于科技资助机构借鉴现代金融投资组合策略：资助机构应在宏观资产组合层面吸收个别高风险实验的不可预测性，允许相当比例的探索性项目遭遇失败；在微观机制上，将评价重心由对单一项目的短期成败考核，转向对团队与科学家个人长周期能力的信任资助（fund people, not projects），为科研人员开拓外围广阔知识空白提供制度性安全网。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 227–230)]]
+> **投资组合容错与从单项目向对人资助转型** 王大顺（Dashun Wang）与阿尔伯特-拉斯洛·巴拉巴西（Albert-László Barabási）指出，人类科学家在知识网络中严重扎堆于少数中心实体周边的拥挤前沿，其根源在于个体学者必须独立承担未知探索失败导致的职业声誉与资助断流风险。解决之道在于科技资助机构借鉴现代金融投资组合策略：资助机构应在宏观资产组合层面吸收个别高风险实验的不可预测性，允许相当比例的探索性项目遭遇失败；在微观机制上，将评价重心由对单一项目的短期成败考核，转向对团队与科学家个人长周期能力的信任资助（fund [[People, Not Projects|people, not projects]]），为科研人员开拓外围广阔知识空白提供制度性安全网。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 227–230)]]
 
 ---
 
 > [!contrast-table] 组合式科研资助核心命题归纳
-> | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证文献 |
+> | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证[[Document\|文献]] |
 > |:---|:---|:---|:---|
 > | **治理诊断** | **偶然组合与在位者惯性打破** | 克服学科面板被动汇总与历史基数惯性，消除在位者垄断与青年学术避险 | [[Argument_Stephan_2013_NBER\|Stephan (2013)]] |
 > | **认知权衡** | **[[Pasteur's Quadrant\|巴斯德象限]]与纯好奇探索平衡** | 协调战略用途驱动攻坚与深厚迷雾自由搜索，持续充实国家公共知识蓄水池 | [[Argument_Atkinson_2008_TIS\|Atkinson and Blanpied (2008)]] |
@@ -145,7 +154,7 @@ updated: 2026-11-03
 > - **1945 — [[Science, The Endless Frontier 1945|布什报告]]奠定联邦公共资助基石与单向线性模式** 《[[Science, The Endless Frontier 1945|布什报告]]》确立政府出资基础科学以充实国家知识池的公共品契约，但预设了基础研究专属于大学、开发专属于企业的单向分工。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 1–3)]]
 > - **1950s–1980s — 分散同行评议竞争资助体系的确立与成熟** [[National Science Foundation|NSF]] 与 [[National Institutes of Health|NIH]] 确立直接面向大学教师竞争性下拨课题的同行评审体制，极大激发了科研产出，但也逐步固化为对大学单课题组的[[Path Dependence|路径依赖]]。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 > - **1990s — [[Pasteur's Quadrant|巴斯德象限]]提出打破基础与应用二分法** [[Donald Stokes|唐纳德·斯托克斯]]提出[[Pasteur's Quadrant|巴斯德象限]]理论，论证由应用启发同时探究根本机理的研究范式，为资助组合的多样化提供了[[Epistemology|认识论]]基础。
-> - **2000s–2010s — 学术避险危机与对人资助机制试验** 随着资助成功率持续走低与学者年龄老化，科学界反思同行评议的保守倾向；HHMI 与 NIH 先锋奖等长周期“对人资助”模式展现出卓越的突破性创新激发效应。[[Argument_Stephan_2013_NBER|(Stephan, 2013)]]
+> - **2000s–2010s — 学术避险危机与对人资助[[Mechanism Experiments|机制试验]]** 随着资助成功率持续走低与学者年龄老化，科学界反思同行评议的保守倾向；[[Howard Hughes Medical Institute|HHMI]] 与 NIH 先锋奖等长周期“对人资助”模式展现出卓越的突破性创新激发效应。[[Argument_Stephan_2013_NBER|(Stephan, 2013)]]
 > - **2021 — 科学学确立科研投资组合与风险对冲框架** 王大顺与巴拉巴西（[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási, 2021]]）系统构建拥挤前沿网络动力学模型，实证确证微观避险导致的 10 倍探索效能差距，正式提出借鉴金融资产组合策略实行全系统风险对冲、由项目资助转向对人资助的治理机制。
 > - **2024 — [[United Kingdom Metascience Unit|英国元科学单元]]成立开启资助机制实证检验** [[United Kingdom Metascience Unit|英国元科学单元]]正式将[[Randomised Controlled Trials|随机对照实验]]引入国家科研基金评审与分配机制评估。
 > - **2025–2026 — 白宫《[[Science A New Golden Age 2026|科学：新的黄金时代]]》确立国家组合式科研资助战略** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）主持起草报告，正式提出构建涵盖多元工具、新型组织（如 [[Focused Research Organization|FRO]]）、巴斯德象限与[[Metascience|元科学]] RCT 的国家组合式科研资助战略，并纳入 2028 财年预算强制合规科目。
@@ -178,7 +187,7 @@ updated: 2026-11-03
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 20)]] | 美国联邦年度研发支出与资助机构网络 | 宏观预算计量与资助组合结构分析 | 联邦机构每年分配研发经费逾 2,000 亿美元，但传统单课题组项目制占据绝对支配地位 | 确立了组合式配置的宏观体量基数，揭示单一模式无法适配复杂国家创新需求的结构性矛盾 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 27)]] | 霍华德·休斯医学研究所（HHMI）长期对人资助学者与联邦 [[National Institutes of Health\|NIH]] 资助对照组 | 准实验因果对比分析（产出质量与新颖性） | 获得长周期、免考核“对人资助”的学者，产出高影响标志性成果的概率接近对照组的 2 倍（200%），且更倾向开辟全新前沿路线 | 实证检验了“对人资助”作为组合核心机制在激发突破性创新与承担高风险上的显著优势 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 32)]] | [[United Kingdom Metascience Unit\|英国元科学单元]]（UK Metascience Unit, 2024–2025） | 资助选拔机制[[Randomised Controlled Trials\|随机对照试验]]与一致性检验 | 成立首年即完成分布式同行评议、部分[[Random Assignment\|随机化资助]]（Lottery Funding）与跨专家评审一致性实证评估 | 证实国家设立专职[[Metascience\|元科学]]部门开展循证[[Mechanism Experiments\|机制实验]]对于优化资助组合的实操可行性与政策效能 |
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit10\|Wang & Barabási (2021)]] | 生物医学文献化学网络与科研探索模拟（1983–2008） | 500 次独立探索策略仿真与发表偏倚元科学纵向调查 | 科学家从众聚集度与全局最优探索策略效率比 | 全局最优探索策略揭示半数拓扑网络的效率接近纯随机探索策略的 10 倍，人类聚集策略效率显著更低；负面结果报告率从 30% 降至 14% | 证实单纯依赖单项目短期考核加剧学术扎堆，确立组合式风险对冲与对人资助的必要性 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit10\|Wang & Barabási (2021)]] | 生物医学文献化学网络与科研探索模拟（1983–2008） | 500 次独立探索策略仿真与[[Publication Bias\|发表偏倚]]元科学[[Longitudinal Study\|纵向调查]] | 科学家从众聚集度与全局最优探索策略效率比 | 全局最优探索策略揭示半数拓扑网络的效率接近纯随机探索策略的 10 倍，人类聚集策略效率显著更低；负面结果报告率从 30% 降至 14% | 证实单纯依赖单项目短期考核加剧学术扎堆，确立组合式风险对冲与对人资助的必要性 |
 
 ---
 

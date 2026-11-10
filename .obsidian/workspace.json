@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 284.01953125
   },
   "right": {
     "id": "ec50234132d5cb15",
@@ -330,12 +330,21 @@
   },
   "active": "3ac2639cc8584945",
   "lastOpenFiles": [
+    "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md",
+    "wiki/theories/political-economy-geopolitics/Imagined Community.md",
+    "wiki/templates/template-theory.md",
+    "tmp/callout-refinement/untitled-example-light-1440.png",
+    "tmp/callout-refinement/untitled-example-dark-390.png",
+    "tmp/callout-refinement/untitled-example-dark-1440.png",
+    "tmp/callout-refinement/untitled-example-check.mjs",
+    "tmp/callout-refinement/untitled-example.html",
+    "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Santos_Silova_2026_Discourse.md",
+    "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
     "wiki/concepts/political-economy-geopolitics/Nationalism.md",
     "wiki/facts/asia/1978-1979 Indochina Armed Conflicts.md",
     "wiki/facts/us/New York City Community School District 2.md",
     "wiki/arguments/journal-articles/Journal of Educational Computing Research/Argument_Unal_2026_JECR.md",
     "wiki/theories/science-policy/Chaperone Effect.md",
-    "wiki/theories/political-economy-geopolitics/Imagined Community.md",
     "wiki/facts/ecuador/Ecuadorian Education Reform 2006-2017.md",
     "wiki/facts/ecuador",
     "wiki/facts/us/Sanger Unified School District.md",
@@ -360,22 +369,13 @@
     "wiki/templates/template-argument.md",
     "wiki/templates/template-method.md",
     "wiki/templates/template-metax.md",
-    "wiki/templates/template-theory.md",
-    "wiki/concepts/educational-philosophy/Screening Off.md",
-    "wiki/arguments/books/Popkewitz_2005_Palgrave/Argument_Popkewitz_2005_Palgrave.md",
-    "wiki/facts/global/McKinsey Education Reports.md",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch01-ba2e4e21/batch-005/result.json",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch01-ba2e4e21/batch-004/result.json",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch01-ba2e4e21/batch-003/result.json",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch01-ba2e4e21/batch-002/result.json",
-    "output/related-updates/Argument_Anderson_2016_Verso_Ch01-ba2e4e21/batch-001/result.json",
-    "output/related-updates/Argument_Anderson_2016_Verso_Ch01-ba2e4e21/batch-001/batch-result.schema.json",
     "sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig6_GBA_Cities.jpg",
     "sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig5_World_Major_Bay_Areas.jpg",
     "sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig4_iZJU_Governance_Model.jpg",
-    "sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig3_China_Regional_Development_Areas.jpg",
-    "sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig2_Tertiary_Enrollment_Comparison_2020.jpg",
-    "sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig1_Tertiary_Enrollment_China.jpg",
     "未命名.canvas"
   ]
 }

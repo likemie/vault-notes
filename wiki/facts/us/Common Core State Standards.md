@@ -12,7 +12,7 @@ subtype: policy
 region: "us"
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 40
+fact_related_count: 41
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Test-Based Accountability]]"
 related_theories:
   - "[[Punctuated Equilibrium Theory]]"
+  - "[[Backward Mapping]]"
   - "[[Human Capital Theory]]"
   - "[[Six-Stage Model of Policymaking]]"
 related_methods:
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-24
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -119,7 +120,7 @@ updated: 2026-10-30
 > - **政策工具** 学科标准明细表、跨州测评联合体规程、教师专业培训模块与地方课程对比映射表（Crosswalks）。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 17–18)]]
 
 > [!pathways] 实施路径
-> - **国家网络设计** 起草专家组基于[[College and Career Readiness|大学与职业就绪]]标准自上而下逆向倒推（Backward Mapping）形成年级标准；整合认知心理学学习轨迹研究（如 K–2 早期数学进阶）与国际基准比较。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 13–14)]]
+> - **国家网络设计** 起草专家组基于[[College and Career Readiness|大学与职业就绪]]标准自上而下逆向倒推（[[Backward Mapping]]）形成年级标准；整合认知心理学学习轨迹研究（如 K–2 早期数学进阶）与国际基准比较。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 13–14)]]
 > - **专业中介审阅** [[American Federation of Teachers|美国教师联合会]]（AFT）与[[National Education Association|全美教育协会]]（[[National Education Association|NEA]]）组建骨干教师评审团队，多轮面谈反馈文本可行性与课堂教学适用性，剔除过于抽象的学术行话。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 15)]]
 > - **慈善资金网络** [[Bill & Melinda Gates Foundation|比尔与梅琳达·盖茨基金会]]在 2009–2010 年间注资 8,900 万美元（5,000 万美元直接资助 18 个全国组织，3,900 万美元资助 10 家服务商与 20 个州地方教育局），构建起全美统一游说、信息推广与技术辅导网络。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 22)]]
 > - **各州差异化采纳落地** 各州教育行政首长与州教育委员会（SBE）主导法定采纳；高标准州（马萨诸塞、加州）依托智库逐条对标（Crosswalks）化解严苛派阻力，低及格线州（田纳西）以 90% 州测 vs 28% [[National Assessment of Educational Progress|NAEP]] 熟练断层的危机证据说服议会并夺得[[Race to the Top|力争上游]]（RTTT）首期资助。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 17–18)]]

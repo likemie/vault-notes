@@ -8,7 +8,7 @@ summary: "法国社会学家，场域-习性-资本理论创立者，著有《�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 55
+person_related_count: 56
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Global Educational Policy Field]]"
   - "[[Epistemological Vigilance]]"
   - "[[Discourse]]"
+  - "[[Transnational Education]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[School Choice]]"
   - "[[School Leadership]]"
@@ -50,11 +51,11 @@ related_concepts:
   - "[[Cultural Disorientation]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Self Explanation]]"
-  - "[[Creative Self-Efficacy]]"
   - "[[Determinism]]"
   - "[[Scientific Method]]"
   - "[[Positivism]]"
   - "[[Praxis]]"
+  - "[[Creative Self-Efficacy]]"
 related_theories:
   - "[[Post-structuralism]]"
   - "[[Phenomenology]]"
@@ -84,7 +85,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -163,7 +164,7 @@ updated: 2026-10-30
 > [!influence-path] 影响路径
 > - **理论路径** 彻底改写了战[[Post-structuralism|后结构主义]]与功利主义的对抗格局，其习性、资本与[[Champ|场域]]框架成为教育社会学、文化社会学与批判政策分析的基础[[Paradigm|范式]]语言；后继学者（Lingard & Rawolle, 2011）将其延伸至超国家层面的[[Global Educational Policy Field|全球教育政策场域]]研究。
 > - **方法路径** 主张超越量化实证与质性[[Phenomenology|现象学]]的二元对立，将多维对应分析（MCA）与深度[[Ethnography|民族志]]结合，为社会空间的关系性建模提供了实证模版；倡导以[[Epistemological Break|认识论断裂]]和[[Epistemological Vigilance|认识论警觉]]开展反思性研究。
-> - **政策路径** 其教育再生产学说强力拆穿了贤能主义（Meritocracy）的客观神话，推动了西方对弱势阶层教育补偿、平权法案以及多元评价的政策讨论；晚期对新自由主义全球化的政治介入启发了对超国家组织物化全球化、强推[[Liberalization|经济自由化]]的政策[[Discourse|话语]]解构；并在跨国治理分析中揭示 [[OECD]] 如何凭借统计测量资本与象征资本确立跨国教育仲裁权威。
+> - **政策路径** 其教育再生产学说强力拆穿了贤能主义（Meritocracy）的客观神话，推动了西方对弱势阶层教育补偿、平权法案以及多元评价的政策讨论；晚期对新自由主义全球化的政治介入启发了对超国家组织物化全球化、强推[[Liberalization|经济自由化]]的政策[[Discourse|话语]]解构；并在跨国治理分析中揭示 [[OECD]] 如何凭借统计测量资本与象征资本确立[[Transnational Education|跨国教育]]仲裁权威。
 > - **跨国／跨领域传播** 在进入中国高等教育与基础教育研究中，其资本转换模型被相继改造，用以解析转型期大学生的求职分化（目标掌控与[[Intuition-Dependent Mode|直觉依赖模式]]）以及农村随迁家庭的[[School Choice|择校]]博弈；在澳大利亚与英美，其场域分析被广泛应用于解构校长培训体制的管理主义 Doxa 与高等教育学术界的新封建主义依附关系。
 
 > [!evidence-grid-a] 相关研究索引
@@ -231,5 +232,5 @@ updated: 2026-10-30
 > | [[Global Educational Policy Field]] | 理论 | 理论渊源；场域与资本理论被后继学者引申为全球教育政策场域分析模型。 |
 > | [[OECD]] | 政策 | 治理分析；揭示跨国组织凭借统计测量资本与象征资本确立跨国教育仲裁权威。
 > | 法兰西学院（Collège de France） | 组织 | 实践社会学与反思性研究的制度阵地。
-> | 欧洲社会学中心（Centre de sociologie européenne, CSE） | 组织 | 实践社会学与反思性研究的制度阵地。
+> | 欧洲社会学中心（Centre de sociologie européenne, [[Creative Self-Efficacy\|CSE]]） | 组织 | 实践社会学与反思性研究的制度阵地。
 > | 《社会科学研究学术活动》（ARSS） | 组织 | 实践社会学与反思性研究的制度阵地。 |

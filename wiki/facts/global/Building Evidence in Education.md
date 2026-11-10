@@ -11,9 +11,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 29
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: multilateral-donor-coalition
 headquarters: Washington, D.C.
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Multilateral Development Bank]]"
   - "[[International Education]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Transnational Education]]"
   - "[[Governing by Numbers]]"
   - "[[Policy Brokerage]]"
   - "[[Discourse]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-27
+updated: 2026-11-11
 ---
 
 ---
@@ -73,7 +74,7 @@ updated: 2026-10-27
 > 构建教育证据工作组（Building Evidence in Education Working Group，简称 BE2）是由主要双边援助署、[[Multilateral Development Bank|多边发展银行]]及联合国机构组成的高级别捐助国协同组织，旨在通过统一实证证据评估规程、协调科研资助标准与推行严格评估技术，主导[[International Education\|国际教育]]发展领域的循证政策议程。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 545–546)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 2012 年在伦敦由[[World Bank\|世界银行]]、英国国际发展部（DFID，现 FCDO）与美国国际开发署（USAID）共同发起设立。当时正值新自由主义[[Output-Oriented Governance\|结果导向治理]]深化，主要出资国要求对动辄数十亿美元的跨国教育援助项目实施更加严苛的证据审查与成本效益核算。
+> - **成立时间 / 创设背景** 2012 年在伦敦由[[World Bank\|世界银行]]、英国国际发展部（DFID，现 FCDO）与美国国际开发署（USAID）共同发起设立。当时正值新自由主义[[Output-Oriented Governance\|结果导向治理]]深化，主要出资国要求对动辄数十亿美元的[[Transnational Education|跨国教育]]援助项目实施更加严苛的证据审查与成本效益核算。
 > - **业务辐射** 辐射全球国际教育发展合作领域，特别针对撒哈拉以南非洲、南亚等低收入和中等收入受援国的教育政策方案制定。
 > - **法人属性与经费基础** 非实体化的捐助机构政策工作组网络，日常运行依托世界银行教育局与轮值主席机构的联合资助，参与方均为西方主要捐助国与官方国际金融实体。
 > - **核心宗旨** 推动高质量教育研究的生产与利用，提升教育援助支出的实证有效性，确立跨国教育评估的黄金标准与统一方法论指引。

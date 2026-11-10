@@ -13,7 +13,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 37
+fact_related_count: 38
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Scientific Paradigm]]"
   - "[[Epistemology]]"
+  - "[[Transnational Education]]"
   - "[[Global Education Governing Complex]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -188,7 +189,7 @@ updated: 2026-11-02
 > | [[Scientific Paradigm]] | Concept | 支撑战后 IIEP 宏观人力规划与投入产出预测的核心[[Epistemology\|认识论]][[Paradigm\|范式]]。 |
 > | [[Human Capital Theory]] | Theory | IIEP 战后初期推行教育投资驱动经济增长的核心理论支柱。 |
 > | [[Sputnik Shock 1957]] | Fact (Event) | 触发大西洋两岸对科技人力规划狂热的源头事件。 |
-> | [[OECD]] | Fact (Organization) | 与 IIEP 共同构成二战后推动跨国教育规划与统计规制的西方“双翼”。 |
+> | [[OECD]] | Fact (Organization) | 与 IIEP 共同构成二战后推动[[Transnational Education\|跨国教育]]规划与统计规制的西方“双翼”。 |
 > | [[Comparative Education Center at Chicago 1958]] | Fact (Organization) | 芝加哥学派学术阵地，为 IIEP 输送了大量人力资本实证研究与理论支持。 |
 > | [[Global Education Governing Complex]] | Concept | IIEP 早期深度介入的跨国公共机构与外部资金混合治理网络。 |
 

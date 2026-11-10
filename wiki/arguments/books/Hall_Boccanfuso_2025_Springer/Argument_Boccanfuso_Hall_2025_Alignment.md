@@ -45,6 +45,7 @@ related_persons:
   - "[[Vannevar Bush]]"
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
+  - "[[AlphaFold]]"
   - "[[National Science Foundation]]"
   - "[[Advanced Manufacturing Research Centre]]"
   - "[[Morrill Land-Grant Act of 1862]]"
@@ -62,16 +63,16 @@ related_instruments:
   - "[[Heilmeier Catechism]]"
 status: draft
 created: 2026-05-26
-updated: 2026-10-30
+updated: 2026-11-11
 subtype: book-chapter
 publication_type: book
 title: "Argument_Boccanfuso_Hall_2025_Alignment"
 argument_key: "Argument_Boccanfuso_Hall_2025_Alignment"
 argument_display_title: "Alignment, engagement, and public benefits"
 argument_kind: "book"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#ede9fe"
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 year: 2025
@@ -108,7 +109,7 @@ citation_aliases:
 
 **步骤 1：起点观察——创新发生在"界面"上**
 
-2024 年诺贝尔奖提供了一个醒目的起点：物理学奖表彰了神经网络的基础研究，化学奖授予了预测蛋白质结构的 AlphaFold 软件。物理学奖得主 Geoffrey Hinton 曾在 Google 工作十年；化学奖得主 Dennis Hassabis and John Jumper 通过 Google DeepMind 开发了 AlphaFold。这些获奖成果的共同特征是：它们都产生于大学与产业之间的"界面"（interface）——即大学和产业为共同目标而协作的中间地带(pp.3–4)。
+2024 年诺贝尔奖提供了一个醒目的起点：物理学奖表彰了神经网络的基础研究，化学奖授予了预测蛋白质结构的 [[AlphaFold]] 软件。物理学奖得主 Geoffrey Hinton 曾在 Google 工作十年；化学奖得主 Dennis Hassabis and John Jumper 通过 Google DeepMind 开发了 AlphaFold。这些获奖成果的共同特征是：它们都产生于大学与产业之间的"界面"（interface）——即大学和产业为共同目标而协作的中间地带(pp.3–4)。
 
 > [!example|notitle]
 > 换句话说，如果 Hinton 从未进入 Google，或者 Hassabis and Jumper 不在 DeepMind 工作，这些获得诺贝尔奖的成果可能根本不会以同样的方式出现。这挑战了"基础研究只需要在大学里做"的传统假设。

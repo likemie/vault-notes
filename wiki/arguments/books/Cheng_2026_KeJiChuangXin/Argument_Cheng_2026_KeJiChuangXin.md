@@ -12,7 +12,7 @@ title: "Argument_Cheng_2026_KeJiChuangXin"
 argument_key: "Argument_Cheng_2026_KeJiChuangXin"
 argument_display_title: "科技创新和产业创新融合：中国的发展路径与对策研究报告"
 argument_kind: "book"
-argument_related_count: 54
+argument_related_count: 56
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -40,11 +40,13 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Entrepreneurial University]]"
   - "[[Innovation Park]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Apprenticeship]]"
   - "[[Clinical Trial]]"
   - "[[Areas of Knowledge]]"
   - "[[Innovation Ecosystem]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Original Innovation Capability]]"
   - "[[Megascience Installations]]"
   - "[[Center of Calculation]]"
   - "[[Industry Affiliate Program]]"
@@ -89,7 +91,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-03
-updated: 2026-10-26
+updated: 2026-11-11
 year: 2026
 doi: ""
 citation_aliases:
@@ -329,7 +331,7 @@ citation_aliases:
 > 高校方面，允许教师创办企业，工科教授须有五年以上企业实践经验，大学可推广教授发明专利。柏林工业大学设立技术转让部专门负责校企合作，政府实施"PRO INNO II"计划促进人才跨界流动。史太白技术转移中心在全球设立分支机构，依托专家网络提供灵活专业服务。标准化方面，德国标准化协会（1917年成立）制定的标准90%以上已被采纳为国际标准，电气工程师协会认证标志被全球约20万种设备采用。自1983年起建立[[Innovation Park\|科技园区]]体系，形成大学产业园、政府科技园、孵化园、企业研发中心等多样化形态(p.47)。
 
 > [!info] 人才：[[German Dual Education System\|双元制]]职业教育
-> 德国教育体系以高等教育与职业教育并重为突出特点。全国有106所综合性大学、207所应用技术大学及2455所职业专科学校。研究型大学强调"教学与研究相结合"，鼓励学生尽早参与科研项目；应用技术大学专注于应用研究和实践技能培养。德国建立了包括"专业学士""专业硕士""专业博士"在内的独立高等职业教育学位体系。约90%理工科研究生在企业实习期间完成学位论文(p.48)。
+> 德国教育体系以高等教育与职业教育并重为突出特点。全国有106所综合性大学、207所应用技术大学及2455所职业专科学校。研究型大学强调"教学与研究相结合"，鼓励学生尽早参与科研项目；应用技术大学专注于应用研究和实践技能培养。德国建立了包括"专业学士""专业硕士""专业博士"在内的独立高等职业教育学位体系。约90%理工科研究生在企业实习期间完成[[Doctoral Dissertation|学位论文]](p.48)。
 >
 > 双元制要求学员在职业学校和企业两个场所完成培训。1969年《联邦职业教育法》将其纳入国家公法体系，通过将学校教育与企业实践紧密结合并持续更新教学内容以适应产业技术需求。政府积极推动校企合作和[[Apprenticeship|现代学徒制]]，支持企业开展产教融合试点，不断完善职业技能等级评定标准。据杜伊斯堡-埃森大学统计，约80%完成培训的学员留在签约企业工作(pp.48–49)。
 
@@ -483,7 +485,7 @@ citation_aliases:
 > 2023年印发《北京市创新联合体组建工作指引》，支持领军企业牵头组建创新联合体。首批16个技术创新中心累计专利申请超500项，与50余所高校签署合作协议，与70余家产业链上下游企业协同开展技术攻关(p.68)。
 
 > [!info] 成果转化：应用场景与产业开发研究院
-> 中关村国家自主创新示范区作为我国第一个国家级高新技术产业开发区和第一个国家级自主创新示范区，形成"一区多园"发展格局，已成为原始创新策源地和高科技企业成长源头。2017年发布《加快科技创新发展新一代信息技术等十个高精尖产业的指导意见》，构建"10+3"高精尖产业体系(pp.68–69)。
+> 中关村国家自主创新示范区作为我国第一个国家级高新技术产业开发区和第一个国家级自主创新示范区，形成"一区多园"发展格局，已成为[[Original Innovation Capability|原始创新]]策源地和高科技企业成长源头。2017年发布《加快科技创新发展新一代信息技术等十个高精尖产业的指导意见》，构建"10+3"高精尖产业体系(pp.68–69)。
 >
 > 2023年支持五家单位围绕新一代信息技术、医药健康、人工智能等领域开展产业开发研究院建设。布局建设概念验证中心和中试基地（如北京中科概念验证中心等）。2023年技术合同成交额突破8500亿元(p.69)。
 

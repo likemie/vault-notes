@@ -7,7 +7,7 @@ title: "Argument_Rust_2009_Reflections"
 argument_key: "Argument_Rust_2009_Reflections"
 argument_display_title: "Reflections on the development of comparative education"
 argument_kind: "book-chapter"
-argument_related_count: 122
+argument_related_count: 125
 argument_related_level: 12
 argument_related_stars: "💎💎💎💎"
 argument_related_color: "#fecdd3"
@@ -50,6 +50,8 @@ related_concepts:
   - "[[Scientific Paradigm]]"
   - "[[Dissimilar Units]]"
   - "[[Postpositivism]]"
+  - "[[Policy Translation]]"
+  - "[[Transnational Education]]"
   - "[[Normal School]]"
   - "[[Comparative Pedagogy]]"
   - "[[Severability of Politics and Pedagogy]]"
@@ -146,6 +148,7 @@ related_persons:
   - "[[Calvin Stowe]]"
   - "[[Henry Barnard]]"
   - "[[W. H. G. Armytage]]"
+  - "[[David P. Phillips]]"
   - "[[George Bereday]]"
   - "[[Brian Holmes]]"
   - "[[John Dewey]]"
@@ -167,7 +170,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
@@ -193,7 +196,7 @@ updated: 2026-10-29
 > | **批判教育学与解放实践**<br>Critical Pedagogy and Praxis of Liberation | 引入[[Henry Giroux\|亨利·吉鲁]]（Henry Giroux）的再生产理论与保罗·弗莱雷（[[Paulo Freire]]）的“教育即政治”命题，揭示资本主义现代性对教育伦理的侵蚀，为学科确立促进和平与社会正义的人道主义伦理锚点。（pp.134–135） |
 
 > [!warrant]- 理论如何支撑论证
-> 作者首先运用跨文化影响理论，驳斥了战[[Postpositivism|后实证主义]]者将早期考察贬为业余见闻与粗浅赞歌的偏见，证明其蕴含着精细的政治语境权衡与政策转译逻辑；随后，借助实证科学[[Paradigm|范式]]审视学科在大学建制化时期的认识论大论战，阐明比较研究在处理非同质文化单位与自然情境时的特殊认识论边界；最后，通过引入[[Critical Pedagogy|批判教育学]]的结构再生产视角，将传统基于共识与自愿假定的全球化借用模型拓展为兼顾跨国不对等强加与草根反抗的四维批判模型，逻辑严密地推导出比较教育学走向解放实践的历史必然性。（pp.123–126, 128–130, 133–135）
+> 作者首先运用跨文化影响理论，驳斥了战[[Postpositivism|后实证主义]]者将早期考察贬为业余见闻与粗浅赞歌的偏见，证明其蕴含着精细的政治语境权衡与[[Policy Translation|政策转译]]逻辑；随后，借助实证科学[[Paradigm|范式]]审视学科在大学建制化时期的认识论大论战，阐明比较研究在处理非同质文化单位与自然情境时的特殊认识论边界；最后，通过引入[[Critical Pedagogy|批判教育学]]的结构再生产视角，将传统基于共识与自愿假定的全球化借用模型拓展为兼顾跨国不对等强加与草根反抗的四维批判模型，逻辑严密地推导出比较教育学走向解放实践的历史必然性。（pp.123–126, 128–130, 133–135）
 
 ---
 
@@ -226,7 +229,7 @@ updated: 2026-10-29
 ---
 
 > [!claim|step] 论证步骤一　早期跨文化考察奠定了比较教育的实务基石，恶政与优良教学法在认识论上完全可分
-> 战[[Postpositivism|后实证主义]]者将前建制期的跨国教育考察贬为缺乏科学价值的业余见闻，这一定性本身折射了论者自身的[[Epistemology|认识论]]偏见。早期考察者如[[Horace Mann|霍勒斯·曼]]（Horace Mann）早已证明，政治恶政与优良教学法在认识论上完全可分；借鉴比较文学的[[Influences Across Cultures|跨文化影响]][[Paradigm|研究范式]]，足以确立这类考察作为学科基石的学术正当性。（pp.121–126）
+> 战[[Postpositivism|后实证主义]]者将前建制期的[[Transnational Education|跨国教育]]考察贬为缺乏科学价值的业余见闻，这一定性本身折射了论者自身的[[Epistemology|认识论]]偏见。早期考察者如[[Horace Mann|霍勒斯·曼]]（Horace Mann）早已证明，政治恶政与优良教学法在认识论上完全可分；借鉴比较文学的[[Influences Across Cultures|跨文化影响]][[Paradigm|研究范式]]，足以确立这类考察作为学科基石的学术正当性。（pp.121–126）
 
 > [!sub-claim] 1. 学科起源叙事反映论者学术预设，前建制期实务考察与现代大学课程同属连贯的学术传统
 
@@ -310,7 +313,7 @@ updated: 2026-10-29
 > - **[[Henry Barnard|亨利·巴纳德]]（Henry Barnard, 1854/1872）** 以一己之力编纂《[[National Education in Europe|欧洲国民教育]]》与 31 卷《美国教育杂志》，全景记录欧洲各国学校制度与教学法，被霍姆斯誉为独立完成了"世界教育百科全书"的宏伟目标，是 19 世纪跨文化影响调研的最高成就。（pp.124–126）
 > - **[[W. H. G. Armytage|W·H·G·阿米蒂奇]]（[[W. H. G. Armytage]]，1967–1969）** 四部曲系统考证美、法、德、俄对英国教育体系的历史影响，树立了跨国教育实证史学的典范。（p.126）
 > - **施奈德（Friedrich Schneider, 1943）** 历史考证德国教育哲学与学校规程在国外的多重辐射。
-> - **戴维·菲利普斯与金伯利·奥克斯（David Phillips & Kimberly Ochs, 2003）** 提炼出跨国政策借用的四阶段分析模型。
+> - **[[David P. Phillips|戴维·菲利普斯]]与金伯利·奥克斯（David Phillips & Kimberly Ochs, 2003）** 提炼出跨国政策借用的四阶段分析模型。
 > - **吉塔·施泰纳-哈姆西（Gita Steiner-Khamsi, 2004）** 推进了教育借贷政治学研究，揭示外部借用在本土政治博弈中的合法化功能。（pp.125–126）
 
 ---

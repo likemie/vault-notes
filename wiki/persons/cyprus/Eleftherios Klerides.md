@@ -8,7 +8,7 @@ summary: "塞浦路斯比较教育与教育史学者，塞浦路斯大学副教�
 type: person
 nationality: cyprus
 person_region: "cyprus"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
   - region/cyprus
   - region/greece
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Geopolitics]]"
   - "[[Revolutionism]]"
   - "[[Agendas of Attention]]"
@@ -49,14 +50,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 塞浦路斯比较教育与教育史学者，塞浦路斯大学（University of Cyprus）副教授。曾任[[Comparative Education Society in Europe\|欧洲比较教育学会]]（[[Comparative and International Education Society\|Comparative Education Society]] in Europe，CESE）秘书长。
-> - **核心角色** 比较教育与国际关系交叉研究的开创性学者。他通过引入[[Wight's Three Traditions of International Theory\|国际关系理论]]（特别是马丁·怀特物国际理论三大传统），打破了比较教育长期存在的“去政治化”技术官僚叙事，系统揭示了跨国教育知识流动的[[Geopolitics|地缘政治]]本质。
+> - **核心角色** 比较教育与国际关系交叉研究的开创性学者。他通过引入[[Wight's Three Traditions of International Theory\|国际关系理论]]（特别是马丁·怀特物国际理论三大传统），打破了比较教育长期存在的“去政治化”技术官僚叙事，系统揭示了[[Transnational Education|跨国教育]]知识流动的[[Geopolitics|地缘政治]]本质。
 > - **代表贡献** 将怀特国际理论三大传统（现实主义、理性主义、[[Revolutionism\|革命主义]]）引入比较教育；提出“[[Agendas of Attention\|注意力议程]]”（Agendas of Attention）概念分析学科随地缘变迁的[[Paradigm\|范式]]转移。
 
 ---

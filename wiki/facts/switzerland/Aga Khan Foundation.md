@@ -9,7 +9,7 @@ subtype: organization
 region: switzerland
 fact_region: "switzerland"
 fact_kind: "organization"
-fact_related_count: 15
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -26,6 +26,8 @@ tags:
   - theme/sdg-4
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Transnational Education]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[School Inspection]]"
   - "[[Emergence]]"
   - "[[Funder Coalition for URE]]"
@@ -49,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -68,13 +70,13 @@ updated: 2026-10-26
 
 > [!dev-timeline] 组织发展历程
 > - **1967–1999 边远社区学校网络与早期教育拓荒期** 在巴基斯坦北部山区、东非农村等极端落后地带兴建乡村公办学校支持网络，开创以社区管理为重心的教育帮扶[[Paradigm|范式]]。
-> - **2000–2019 教师能力与跨国教育评估建设期** 创立阿迦汗大学教育发展学院（IED），系统开展本土教师培训与师资认证，推进由南方学者主导的纵向[[Cohort Study|追踪研究]]。
+> - **2000–2019 教师能力与[[Transnational Education|跨国教育]]评估建设期** 创立阿迦汗大学教育发展学院（IED），系统开展本土教师培训与师资认证，推进由南方学者主导的纵向[[Cohort Study|追踪研究]]。
 > - **2020–至今 Schools2030 十年旗舰与全球循证倡导期** 正式发起覆盖 10 个国家、1,000 所学校的跨国[[Action Research|行动研究]]项目“Schools2030”，在 UNESCO 全球战略审查中作为推动自下而上实践证据进入国家宏观政策的典型基金会接受深度调研。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 14, 19, 58)]]
 
 ---
 
 > [!mechanism] 运行机制与核心职能
-> - **教师主导的课堂行动研究（Teacher-Led Inquiry）** 旗舰项目 Schools2030 改变传统由外部专家居高临下开列处方的模式，支持一线公办教师运用循证工具评估学生的非认知素养与基础读写算能力，开展微观课堂干预微创新。
+> - **教师主导的课堂行动研究（Teacher-Led Inquiry）** 旗舰项目 Schools2030 改变传统由外部专家居高临下开列处方的模式，支持一线公办教师运用循证工具评估学生的非认知素养与[[Foundational Literacy and Numeracy|基础读写算能力]]，开展微观课堂干预微创新。
 > - **基层实证向国家政策的自下而上传导** 建立定期的国家教育政策对话平台，将来自 1,000 所一线乡村学校的微观教学改良案例与成效数据，打包转译为政策备忘录，直接呈送参涉国教育部部委，推动地方实践经验进入国家课程标准与[[School Inspection|教学督导]]细则。
 > - **多边资助联盟与知识共同体营建** 作为多边教育证据资助网络（[[Building Evidence in Education|BE2]]）的活跃核心成员，协同多国双边援助机构与慈善资助方，共同确立支持发展中国家本土科研能力的长效标准。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 46–47, 58)]]
 

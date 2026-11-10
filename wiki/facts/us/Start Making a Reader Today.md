@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -40,6 +40,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[James C. Scott]]"
+  - "[[Ben Levin]]"
 related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[What Works Clearinghouse]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -77,7 +78,7 @@ updated: 2026-10-30
 >   - **赠书带回家（Book Giveaway）** 项目每月免费赠予受试儿童两本优质正版图书，培育家庭藏书与持续阅读习惯。
 > - **校本站点协调员质控** 每所学校常驻一名受训校本协调员（Site Coordinator），负责接待志愿者、匹配学生并监督伴读环境的安全性与准时率。
 
-> [!citation-card] 斯莱文论 SMART 在志愿者辅导中的实证标杆价值
+> [!citation-card] 斯[[Ben Levin|莱文]]论 SMART 在志愿者辅导中的实证标杆价值
 > 令人欣喜的是，由有偿乃至无偿志愿者主导的一对一辅导同样被证明能够产生稳健成效。例如针对一至二年级开展的 SMART 志愿伴读项目，在随机试验中取得了 +0.42 的学业[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *One-to-one tutoring provided by paid or unpaid volunteers was also found to be effective. For example, SMART, evaluated with first and second graders in one-to-one tutoring by volunteers, produced an effect size of +0.42, meeting the Strong evidence standards of ESSA.*

@@ -12,7 +12,7 @@ subtype: program
 region: russia
 fact_region: "russia"
 fact_kind: "program"
-fact_related_count: 7
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Competitiveness]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[Study Abroad]]"
   - "[[Performance Indicators]]"
   - "[[Scientific Autarky]]"
 related_facts:
@@ -35,7 +36,7 @@ related_persons: []
 confidence: medium
 status: draft
 created: '2026-06-26'
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -54,7 +55,7 @@ updated: 2026-10-22
 > [!policy-design] 政策设计
 > - **目标** 提升俄罗斯科研型大学的国际排名，实现高等教育的全球突围。
 > - **对象** 入选计划的21所俄罗斯高校（包括高等经济学院、新西伯利亚国立大学等）。
-> - **工具** 大规模的联邦政府专项经费资助，将外籍专家和留学生比例、国际合著论文数等指标作为高校的核心KPI（关键[[Performance Indicators\|绩效指标]]） [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022, p. 41)]]。
+> - **工具** 大规模的联邦政府专项经费资助，将外籍专家和[[Study Abroad|留学]]生比例、国际合著论文数等指标作为高校的核心KPI（关键[[Performance Indicators\|绩效指标]]） [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022, p. 41)]]。
 > - **约束方式** 竞争性选拔与定期评估机制，实施差异化经费支持。
 
 ---

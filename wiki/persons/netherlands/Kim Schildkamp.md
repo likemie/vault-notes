@@ -7,7 +7,7 @@ summary: "荷兰特温特大学教育学教授，国际数据驱动决策与数�
 type: person
 nationality: netherlands
 person_region: "netherlands"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Data-Based Decision Making]]"
   - "[[Data Literacy]]"
   - "[[School Enquiry Cycle]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Research-Informed Teaching Practice]]"
   - "[[Evidence-Based Education]]"
   - "[[Professional Capital]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-15
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -56,7 +57,7 @@ updated: 2026-10-22
 ---
 
 > [!timeline] 生平与职涯
-> - **2007** 于荷兰特温特大学获得教育科学博士学位，博士论文聚焦学校自我评估与数据利用机制。
+> - **2007** 于荷兰特温特大学获得教育科学博士学位，[[Doctoral Dissertation|博士论文]]聚焦学校自我评估与数据利用机制。
 > - **2010–2015** 创立并领衔特温特大学“[[Data Team Intervention\|数据团队]]”（Data Teams）研究项目，系统开发面向中小学的八步数据探究干预规程，并在荷兰及瑞典基础教育系统开展大规模追踪评估。
 > - **2016–2017** 与英国学者 [[Chris Brown]] 合作，推动数据驱动决策（[[Data-Based Decision Making\|DBDM]]）与[[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP）的理论整合，在《Educational Research》等刊物发表一系列奠基性论文。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 154–172)]]
 > - **2018–2022** 当选[[International Schools\|国际学校]]效能与改进学会（ICSEI）核心领导并出任主席，持续倡导[[Evidence-Based Education\|循证教育]]与数据知情实践在全球学校生态中的情境化落地。

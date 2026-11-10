@@ -8,10 +8,10 @@ aliases:
 summary: "教育决策权从中央官僚机构向个别学校下放的制度安排。在微观实践中体现为资源配置与人事管理的权责重构，但深受新自由主义市场化逻辑扭曲而诱发学校残余化与不平等加剧；在全球治理中被世界银行与经合组织构造成全球教育话语五大支柱之一，通过与中央质量评估系统的捆绑实施远处治理并挤压受援国的政策探索空间；而在分权管辖中亦可与学校自我评估相结合，被地方教育当局作为抵御外来集权审计与市场化移植的专业防御机制。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 43
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 53
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/educational-policy-reform
   - theme/school-autonomy
@@ -20,6 +20,7 @@ tags:
   - paradigm/neoliberal
 related_concepts:
   - "[[Global Educational Discourse]]"
+  - "[[Quasi-market]]"
   - "[[Discourse]]"
   - "[[Performance Indicators]]"
   - "[[Social Support]]"
@@ -27,8 +28,8 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Discursive Field]]"
   - "[[Construct]]"
-  - "[[New Public Management]]"
-  - "[[Avatar]]"
+  - "[[Test-Based Accountability]]"
+  - "[[Academic Achievement]]"
   - "[[Paradigm]]"
   - "[[Whole Person Education]]"
   - "[[Document]]"
@@ -38,21 +39,29 @@ related_concepts:
   - "[[Institutional Displacement]]"
   - "[[School Leadership]]"
   - "[[Champ]]"
+  - "[[New Public Management]]"
   - "[[Policy Borrowing]]"
   - "[[Professional Judgment]]"
-  - "[[Scientific Paradigm]]"
-  - "[[Teacher Professional Agency]]"
-  - "[[Steering at a Distance]]"
+  - "[[Institutional Complementarity]]"
   - "[[Variable]]"
+  - "[[Development Education]]"
+  - "[[Steering at a Distance]]"
+  - "[[Teacher Professional Agency]]"
 related_theories:
   - "[[Governing at a Distance]]"
   - "[[Human Capital Theory]]"
+  - "[[Historical Institutionalism]]"
   - "[[Critical Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[External Auditor]]"
+  - "[[Effect Size]]"
+  - "[[Questionnaire]]"
+  - "[[Research Synthesis]]"
+  - "[[Discourse Analysis]]"
 related_persons:
   - "[[Jason Beech]]"
+  - "[[Gabriel Heller Sahlgren]]"
 related_facts:
   - "[[World Bank]]"
   - "[[OECD]]"
@@ -61,17 +70,18 @@ related_facts:
   - "[[PISA]]"
   - "[[UNESCO]]"
   - "[[Ofsted]]"
-  - "[[Independent Public Schools Western Australia]]"
+  - "[[TIMSS]]"
   - "[[Local Schools Local Decisions]]"
+  - "[[Independent Public Schools Western Australia]]"
 related_arguments:
   - "[[Argument_Beech_2009_GlobalGarden]]"
-  - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Sahlgren_2015_CPS]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
 related_instruments: []
 confidence: high
 status: completed
 created: 2026-05-02
-updated: 2026-11-06
+updated: 2026-11-11
 ---
 
 ---
@@ -80,7 +90,7 @@ updated: 2026-11-06
 > **学校自主权（School Autonomy）**，是指将教育行政、财务预算、课程教学及人员配置等关键决策权，从中央或地方集权官僚机构向单一学校组织层级下放的制度重组安排。在政策修辞中，学校自主权常被标榜为赋予学校创新自由、灵活响应社区需求与提升学术标准的民主化工具（Keddie et al., 2020, p. 432）；但在当代全球治理与新自由主义改革语境中，它日益演变为一种双重规训技术：一方面通过将公共财政削减与办学绩效风险转嫁至基层学校，诱发不同阶层生源之间的分层与残余化；另一方面作为国际组织跨国推销的“[[Global Educational Discourse|全球教育话语]]五大支柱”之一，与中央质量评估系统紧密捆绑，成为推行“远处调控”并限缩外围国家自主探索空间的标准技术方案。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]; (Keddie et al., 2020, pp. 436–437)
 
 > [!concept-lens|notitle] 概念透镜
-> - **双重视野交汇** 涵盖微观与中观维度的“学校组织赋权与准市场竞争（澳大利亚与英美实践）”，以及宏观维度的“跨国组织全球教育[[Discourse|话语]]标准化包裹输出（[[World Bank|世界银行]]与[[OECD|经合组织]]实践）”。
+> - **双重视野交汇** 涵盖微观与中观维度的“学校组织赋权与[[Quasi-market|准市场]]竞争（澳大利亚与英美实践）”，以及宏观维度的“跨国组织全球教育[[Discourse|话语]]标准化包裹输出（[[World Bank|世界银行]]与[[OECD|经合组织]]实践）”。
 > - **治理功能悖论** 表面上高扬“去中心化、地方赋权与解放学校”，实质上往往伴随着更为严密的中央标准化评测与量化问责，形成“行政治理放权与[[Performance Indicators|绩效指标]]收权”的结构性张力。
 > - **批判边界** 警惕将学校自主权混同于纯粹的教育民主自治；当自主权缺乏透明公正的财政兜底与[[Social Support|社会支持]]网络时，极易退化为推卸国家公共供给责任的免责工具。
 > - **专业信任与管辖防卫** 除市场化放权外，自主权亦可体现为以“学校自我评估”与专业信任为核心的协商治理模式（如苏格兰经验），成为次国家[[Pedagogical Subject|教育主体]]抵御外部集权审计与市场化政策殖民的合法性制度屏障。
@@ -90,7 +100,7 @@ updated: 2026-11-06
 >
 > *Most stakeholders supported school autonomy in principle—for its potential 'political justice' and 'economic justice'—but when autonomy was driven by market logics of economic efficiency, competition, and public accountability, it generated systemic injustices.*
 
-> [!citation-card|notitle] 比奇论学校自主权作为全球教育话语支柱与远处治理机制
+> [!citation-card|notitle] 比奇论学校自主权作为全球教育话语支柱与[[Governing at a Distance|远处治理]]机制
 > 顺应信息时代的普世逻辑，国际机构成套推销标准化改革方案：包括行政治理上的分权化、学校自主权、教师队伍专业化、能力本位课程，以及中央质量评估系统……国际机构首先为借款国界定什么是合法的教育危机，接着唯独提供该模型作为唯一解决方案，从而在[[Epistemology|认识论]]层面直接封杀了发展中国家探索本土替代性道路的[[Discursive Field|话语空间]]。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
 >
 > *...administrative decentralisation and school autonomy, teacher professionalisation, competency-based and flexible curricula, and national assessment systems... International agencies define the problems of education and propose their model as the only solution, closing down the space for peripheral countries to conceptualise alternative policies.*
@@ -98,11 +108,11 @@ updated: 2026-11-06
 > [!boundary]- 概念边界
 > - **不等于纯粹校本管理（School-Based Management, SBM）** 校本管理多指具体的行政管理程序与校务委员会操作技术；学校自主权则是更具政治哲学意味的权力重构[[Construct|构念]]，牵涉国家、市场与公民社会的权力再分配。
 > - **不等于完全去监管化（Deregulation）** 新自由主义下的学校自主权体现为国家治理机制的转型，即国家从“直接划桨（rowing）”转向“间接掌舵（steering）”，依托中央统考与排名数据实施更高密度的远处治理。
-> - **不等于无条件提升学业质量的充要条件** 跨国微观计量实证（Hanushek et al., 2013; [[Argument_Sahlgren_2015_CPS|Sahlgren, 2015]]）表明，学校自主权的学术效益严格取决于是否与外部考试问责相挂钩；在缺乏集中统考的去问责体制中，盲目扩大自主权反而对学生学业表现产生显著抑制作用。
+> - **不等于无条件提升学业质量的充要条件** 跨国微观计量实证（Hanushek et al., 2013; [[Argument_Sahlgren_2015_CPS|Sahlgren, 2015]]）表明，学校自主权的学术效益严格取决于是否与外部[[Test-Based Accountability|考试问责]]相挂钩；在缺乏集中统考的去问责体制中，盲目扩大自主权反而对学生[[Academic Achievement|学业表现]]产生显著抑制作用。
 
 ---
 
-> [!contrast-table|notitle] 学校自主权在三大政策范式中的理想型辨析
+> [!contrast-table|notitle] 学校自主权在三大政策[[Paradigm|范式]]中的理想型辨析
 > | 比较维度 | 参与民主型自主权（Democratic Autonomy） | 新自由主义市场型自主权（Neoliberal Market Autonomy） | 跨国技术官僚打包型自主权（Technocratic Global Package） |
 > |---|---|---|---|
 > | **核心价值取向** | 社区赋权、师生民主参与与地方化[[Whole Person Education\|全人教育]] | 经济效率、家长选择、学校间优胜劣汰竞争 | 适应信息经济、优化教育投入产出与对接国际标准 |
@@ -126,7 +136,7 @@ updated: 2026-11-06
 > - **学校自我评估与专业自主权防御机制（School Self-Evaluation & Professional Autonomy Defense）** 在秉持专业协商传统的体系中，学校自主权与学校自我评估（School Self-Evaluation, SSE）制度紧密结合；索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 31–32]]）揭示，地方教育决策精英借助跨国测评（[[PISA]]）的优异成绩确证本土自主传统与协商伙伴关系的有效性，从而将学校自主权构造成抵御中央高压外部督导与市场化集权渗透的制度盾牌。
 > - **问责机制的必要协同（Accountability Requirement）** 萨尔格伦（[[Argument_Sahlgren_2015_CPS|Sahlgren, 2015, pp. 10–15]]）结合跨国微观计量文献指出，自主权的正面效益存在明确的制度前提，高度依赖于是否存在集中统考与外部问责机制；若缺乏外部问责，地方市镇与学校自主权的扩大往往导致教学标准松动与学业表现滑坡。
 
-> [!logic-map]- 学校自主权在宏微观场域中的多重异化机制
+> [!logic-map]- 学校自主权在宏微观[[Champ|场域]]中的多重异化机制
 > ```mermaid
 > flowchart TD
 >     subgraph Global["全球治理层级：国际组织方案输出 (Beech, 2009b)"]
@@ -179,7 +189,7 @@ updated: 2026-11-06
 ---
 
 > [!concept-proposition] 命题四｜跨国测评数据可被次国家主体挪用为捍卫专业自主权与抵御政策移植的政治护盾
-> **政策借用与政治防御维度：本土专业自主与跨国数据的合法化整合** 探讨次国家或分权教育实体如何借助外部客观测评数据确证本国专业信任模式，阻断激进外部审计政策的入侵。
+> **[[Policy Borrowing|政策借用]]与政治防御维度：本土专业自主与跨国数据的合法化整合** 探讨次国家或分权教育实体如何借助外部客观测评数据确证本国专业信任模式，阻断激进[[External Auditor|外部审计]]政策的入侵。
 
 > [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
 > **专业自主权的外部确证与抵御外来审计政策殖民** 格雷克对苏格兰教育治理的比较研究表明，学校自主权的存在形式并不局限于新自由主义的市场化放权。苏格兰长期坚持依托教师[[Professional Judgment|专业判断]]、伙伴关系与“学校自我评估”（School Self-Evaluation）的温和自治传统，拒绝建立英格兰式的严苛督导（[[Ofsted|OFSTED]]）与公开排名榜。在 [[PISA]] 2000 中，苏格兰各领域均位列前茅且数学表现超越英格兰，这一跨国数据迅速被苏格兰政策精英构造成对“专业自主与自我评估模式”的科学确证。苏格兰教育当局借此成功反击了引入英格兰集权审计与市场化政策的政治呼声，将外部测评转化为筑牢地方教育管辖权、捍卫专业自决不受中央市场化模式侵蚀的防御性资产。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 31–32)]]
@@ -187,10 +197,10 @@ updated: 2026-11-06
 ---
 
 > [!concept-proposition] 命题五｜学校自主权的学业产出效应依赖外部问责协同，去问责分权改革存在滞后负向效应
-> **历史制度主义与计量检验维度：自主权与问责的制度互补性** 探讨单纯下放学校自主权与学业成就之间的因果关联，反思去中心化改革对国家学业表现的时序影响。
+> **[[Historical Institutionalism|历史制度主义]]与计量检验维度：自主权与问责的[[Institutional Complementarity|制度互补性]]** 探讨单纯下放学校自主权与学业成就之间的因果关联，反思去中心化改革对国家学业表现的时序影响。
 
 > [!claim] [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]]
-> **去中心化自主权改革的时序倒置与滞后滑坡** 萨尔格伦（Gabriel Heller Sahlgren）通过历史档案考证与长周期测验数据分析指出，将芬兰教育成就归因于 1990 年代废除中央统编大纲、废除教科书核准制度并赋予学校完全自主权，存在严重的因果时序谬误。芬兰在国际测验（PISA/TIMSS）中的学术峰值在 1980 年代集权视导与统考时期便已确立；1990 年代去中心化改革全面铺开后，随着政策滞后效应显现，芬兰学生国际表现从 2000 年代中后期开始出现不可逆的系统性滑落。跨国微观计量文献（Hanushek et al., 2013）进一步确证：在具有集中毕业统考与外部问责的系统中，赋予学校人事与流程自主权能带来显著的学业增益；而在缺乏外部集中统考的去问责系统中，扩大自主权反而对学生表现产生负向破坏作用。芬兰在 1990 年代同步推行扩大自主权与彻底取消外部督导测试，直接为后续的学业衰退埋下了制度诱因。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 10–15)]]
+> **去中心化自主权改革的时序倒置与滞后滑坡** 萨尔格伦（[[Gabriel Heller Sahlgren]]）通过历史档案考证与长周期测验数据分析指出，将芬兰教育成就归因于 1990 年代废除中央统编大纲、废除教科书核准制度并赋予学校完全自主权，存在严重的因果时序谬误。芬兰在国际测验（PISA/[[TIMSS]]）中的学术峰值在 1980 年代集权视导与统考时期便已确立；1990 年代去中心化改革全面铺开后，随着政策滞后效应显现，芬兰学生国际表现从 2000 年代中后期开始出现不可逆的系统性滑落。跨国微观计量文献（Hanushek et al., 2013）进一步确证：在具有集中毕业统考与外部问责的系统中，赋予学校人事与流程自主权能带来显著的学业增益；而在缺乏外部集中统考的去问责系统中，扩大自主权反而对学生表现产生负向破坏作用。芬兰在 1990 年代同步推行扩大自主权与彻底取消外部督导测试，直接为后续的学业衰退埋下了制度诱因。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 10–15)]]
 
 ---
 
@@ -231,15 +241,15 @@ updated: 2026-11-06
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | Rowe and Perry (2020) | 澳大利亚公立学校自主权实施社区调查 | 校际筹资对比与问卷调查 | 高 SES 与低 SES 学校自主筹资能力差距 | 高 SES 社区公立学校依托自主权筹集的家长捐赠与校庆收入达低 SES 学校的 4 倍（东郊单次校庆筹资 30,000 澳元，西郊不足 2,000 澳元） | 描述性统计实录 | 反映市场化自主权在缺乏补偿机制下加剧校际资源分化 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, p. 346)]] | 跨国金融机构向发展中国家教育贷款项目数据库 | 机构财务与政策文献综合分析 | 外部教育贷款占受援国公共教育总预算份额 | 国际金融机构教育贷款占受援国总开支比重不足 0.5%，却凭借政策捆绑撬动了整套五大支柱转轨 | 跨国官方统计 | 揭示跨国组织凭借极低资金份额撬动整套五大支柱转轨的制度不对称性 |
-> | [[Argument_Sahlgren_2015_CPS\|Sahlgren (2015, pp. 13–15)]] | 芬兰 1965–2012 跨周期国际测验微观数据与兵役智力普查 | 历史制度档案追踪与跨国计量证据综合 | 1990 年代去中心化与学校自主权改革对学业成就的滞后影响 | 芬兰 PISA 科学成绩在去中心化改革全面显现后从 2006 年 563 分持续滑落至 2012 年 545 分（降 18 分）；跨国微观计量显示自主权在无统考国家中对成绩产生显著负效应 | 历史时序微观校准与跨国因果检验 | 证实缺乏集中外部统考与问责的学校自主权放权不仅未促进卓越，反伴随学业衰退 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 31–32)]] | 英国苏格兰应对 PISA 2000 国际测评的政策场域与官方档案 | 比较政策社会学话语分析 | 跨国测评排位对本土学校自我评估与专业自主权模式的确证 | 苏格兰阅读第 6、科学第 9、数学第 6，全面超越英格兰，被官方策略性确证为学校自我评估模式优于外部严苛审计的科学依据 | 质性政策档案分析 | 揭示次国家主体如何将外部数据转化为捍卫专业自决、抵御集权审计的政治资产 |
+> | Rowe and Perry (2020) | 澳大利亚公立学校自主权实施社区调查 | 校际筹资对比与[[Questionnaire\|问卷调查]] | 高 SES 与低 SES 学校自主筹资能力差距 | 高 SES 社区公立学校依托自主权筹集的家长捐赠与校庆收入达低 SES 学校的 4 倍（东郊单次校庆筹资 30,000 澳元，西郊不足 2,000 澳元） | 描述性统计实录 | 反映市场化自主权在缺乏补偿机制下加剧校际资源分化 |
+> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, p. 346)]] | 跨国金融机构向[[Development Education\|发展中国家教育]]贷款项目数据库 | 机构财务与政策文献综合分析 | 外部教育贷款占受援国公共教育总预算份额 | 国际金融机构教育贷款占受援国总开支比重不足 0.5%，却凭借政策捆绑撬动了整套五大支柱转轨 | 跨国官方统计 | 揭示跨国组织凭借极低资金份额撬动整套五大支柱转轨的制度不对称性 |
+> | [[Argument_Sahlgren_2015_CPS\|Sahlgren (2015, pp. 13–15)]] | 芬兰 1965–2012 跨周期国际测验微观数据与兵役智力普查 | 历史制度档案追踪与跨国计量[[Research Synthesis\|证据综合]] | 1990 年代去中心化与学校自主权改革对学业成就的滞后影响 | 芬兰 PISA 科学成绩在去中心化改革全面显现后从 2006 年 563 分持续滑落至 2012 年 545 分（降 18 分）；跨国微观计量显示自主权在无统考国家中对成绩产生显著负效应 | 历史时序微观校准与跨国因果检验 | 证实缺乏集中外部统考与问责的学校自主权放权不仅未促进卓越，反伴随学业衰退 |
+> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 31–32)]] | 英国苏格兰应对 PISA 2000 国际测评的政策场域与官方档案 | 比较政策社会学[[Discourse Analysis\|话语分析]] | 跨国测评排位对本土学校自我评估与专业自主权模式的确证 | 苏格兰阅读第 6、科学第 9、数学第 6，全面超越英格兰，被官方策略性确证为学校自我评估模式优于外部严苛审计的科学依据 | 质性政策档案分析 | 揭示次国家主体如何将外部数据转化为捍卫专业自决、抵御集权审计的政治资产 |
 
 ---
 
@@ -258,13 +268,13 @@ updated: 2026-11-06
 > | **历史沿革与政策案例** | [[Local Schools Local Decisions]] | 事实 | 新南威尔士州推行的学校自主权政策，被批评实质为财政紧缩削减公共成本的技术工具。 |
 > | **历史沿革与政策案例** | [[Independent Public Schools Western Australia]] | 事实 | 西澳州将数百所学校转为独立公立学校的激进改组，体现了自主权的大规模体制化实践。 |
 > | **历史沿革与政策案例** | [[My School Website]] | 事实 | 澳大利亚全国高风险学校测试信息比对公开平台，驱动了自主权下的恶性择校竞争与层级化。 |
-> | **核心学者与批判理论家** | [[Jason Beech]] | 人物 | 比较教育学者，揭示学校自主权作为全球教育话语支柱与跨国机构双重垄断机制的核心代表。 |
+> | **核心学者与[[Critical Theory\|批判理论]]家** | [[Jason Beech]] | 人物 | 比较教育学者，揭示学校自主权作为全球教育话语支柱与跨国机构双重垄断机制的核心代表。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 结合历史时序考证与微观计量文献，揭示芬兰 1990 年代去问责分权改革导致后续学业滑坡，确立自主权与外部统考问责的互补性（pp. 13–15）。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 揭示世行等跨国组织如何将学校自主权作为全球教育话语五大支柱之一进行标准化捆绑输出，并实施远处治理与政策空间压缩（pp. 348–349）。
-> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 比较英格兰与苏格兰对跨国测评的吸纳机制，揭示苏格兰如何以 PISA 数据确证学校自我评估与教师专业自主权，抵御英格兰式集权督导（pp. 31–32）。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 比较英格兰与苏格兰对跨国测评的吸纳机制，揭示苏格兰如何以 PISA 数据确证学校自我评估与[[Teacher Professional Agency|教师专业自主权]]，抵御英格兰式集权督导（pp. 31–32）。
 > - Keddie et al. (2020) — 深入调研澳大利亚四州公立教育体系，系统解构新自由主义市场逻辑如何腐蚀学校自主权并诱发严重的校际分层与残余化。
 > - Smyth (2011) — 提出学校自主权的激进政治民主替代方案，倡导以社区集体行动与社会正义伦理取代会计师市场问责。

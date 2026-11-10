@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ tags:
   - theme/lifelong-learning
 related_concepts:
   - "[[Lifelong Learning]]"
+  - "[[Policy Translation]]"
   - "[[South-South Cooperation]]"
   - "[[Knowledge Mediation]]"
 related_theories: []
@@ -47,13 +48,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定位
-> [[UNESCO|联合国教科文组织]]国际职业技术教育与培训中心（UNESCO-UNEVOC International Centre for Technical and Vocational Education and Training）是教科文组织设立于德国波恩的一类专职机构（Category 1 Centre）。该机构致力于协助各成员国完善职业技术教育与培训（TVET）体系，促进青年就业、体面工作、[[Lifelong Learning|终身学习]]与可持续发展技能普及。在教科文组织的全球[[Evidence for Education Network|教育证据网络]]测绘中，UNEVOC 作为多边专门知识中枢，在决策者调阅的高频证据源中获得逾 15 次用户引用，成为全球职业技能领域不可替代的政策转译节点。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 22–24, 44)]]
+> [[UNESCO|联合国教科文组织]]国际职业技术教育与培训中心（UNESCO-UNEVOC International Centre for Technical and Vocational Education and Training）是教科文组织设立于德国波恩的一类专职机构（Category 1 Centre）。该机构致力于协助各成员国完善职业技术教育与培训（TVET）体系，促进青年就业、体面工作、[[Lifelong Learning|终身学习]]与可持续发展技能普及。在教科文组织的全球[[Evidence for Education Network|教育证据网络]]测绘中，UNEVOC 作为多边专门知识中枢，在决策者调阅的高频证据源中获得逾 15 次用户引用，成为全球职业技能领域不可替代的[[Policy Translation|政策转译]]节点。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 22–24, 44)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1999 年第二届国际职业技术教育大会在首尔召开，大会决议设立国际职教中心；经联合国教科文组织第 30 届大会批准，于 2000 年在德国波恩联合国园区正式落成运营。

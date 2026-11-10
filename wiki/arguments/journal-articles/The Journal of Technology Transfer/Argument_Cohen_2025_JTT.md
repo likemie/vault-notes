@@ -11,7 +11,7 @@ title: "Argument_Cohen_2025_JTT"
 argument_key: "Argument_Cohen_2025_JTT"
 argument_display_title: "Measuring the impacts of university-industry R&D collaborations: a systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 39
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -42,12 +42,14 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Knowledge Exchange]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Altmetrics]]"
   - "[[Variable]]"
   - "[[Causality]]"
 related_theories:
   - "[[Organizational Culture]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Journal Impact Factor]]"
   - "[[Longitudinal Study]]"
   - "[[Case Study]]"
   - "[[In-depth Interview]]"
@@ -56,18 +58,21 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Cohort Study]]"
   - "[[h-Index]]"
+  - "[[Instrumental Variables]]"
   - "[[Propensity Score Matching]]"
   - "[[Matching]]"
   - "[[Systematic Review]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Scopus]]"
+  - "[[Web of Science]]"
 related_arguments: []
 sources:
   - "[[sources/Cohen_2025_JTT/Cohen_2025_JTT|Cohen_2025_JTT]]"
 part_of:
 status: draft
 created: 2026-06-05
-updated: 2026-10-30
+updated: 2026-11-11
 year: 2025
 doi: ""
 citation_aliases:
@@ -98,7 +103,7 @@ UIC 影响测量长期面临三个相互交织的困难。
 
 - **[[University-Industry Collaboration|产学合作]]（UIC）的多视角研究** UIC 是大学与产业之间以联合研发为目的的正式或非正式合作关系，涵盖合同研究、联合发表、研发咨询等活动(Pinto & Fernandes, 2021)。合作产生的影响可从跨组织关系视角分为三个层次——微观（个体研究者、学生、企业家）、中观（研究团队、行业协会、合作共同体内部）和宏观（产业界、学术界、区域社会及更广泛的受合作间接影响的群体）(Siemieniako et al., 2021)。这三个层次并非割裂的：一个博士生的技能提升（微观）可能转化为其所在企业的创新能力（中观），进而催生区域产业集群（宏观）。
 
-- **[[Mode 2 Knowledge Production|Mode 2 知识生产]]理论(Gibbons et al., 1994)** UIC 在本质上与 Mode 2 [[Knowledge Production|知识生产]]高度一致。Mode 1 以学术共同体自身兴趣为驱动，追求高影响因子的学科内发表；Mode 2 则是跨学科的、多利益相关者协商的知识生产方式，更适合产生对社会有用的研究(Nightingale & Scott, 2007)。然而这里的张力在于：Mode 2 研究虽更具社会相关性，其影响因子往往低于 Mode 1 研究。这正是大学研究者在参与 UIC 时面临的核心矛盾——社会影响力与学术声誉之间的取舍。
+- **[[Mode 2 Knowledge Production|Mode 2 知识生产]]理论(Gibbons et al., 1994)** UIC 在本质上与 Mode 2 [[Knowledge Production|知识生产]]高度一致。Mode 1 以学术共同体自身兴趣为驱动，追求高[[Journal Impact Factor|影响因子]]的学科内发表；Mode 2 则是跨学科的、多利益相关者协商的知识生产方式，更适合产生对社会有用的研究(Nightingale & Scott, 2007)。然而这里的张力在于：Mode 2 研究虽更具社会相关性，其影响因子往往低于 Mode 1 研究。这正是大学研究者在参与 UIC 时面临的核心矛盾——社会影响力与学术声誉之间的取舍。
 
 - **[[Absorptive Capacity|吸收能力]]（absorptive capacity）** 被识别为制约 UIC 影响实现的关键调节因素。高吸收能力的企业能从合作中获得独特的竞争优势，迅速将大学的研究成果转化为市场产品；低吸收能力的企业即便参与合作也难以从中受益(Tian et al., 2021; Vega-Jurado et al., 2020)。这一因素也影响了政府的资助决策——在分配合作项目资金时，政府倾向于选择吸收能力强的企业，从而进一步拉大了企业间的不平等(Cui et al., 2022)。
 
@@ -109,7 +114,7 @@ UIC 影响测量长期面临三个相互交织的困难。
 
 **阶段一：检索与筛选**
 
-在 Scopus and Web of Science 中以 UIC 相关术语组合检索标题、摘要和关键词，限定英文论文、2000–2022 年出版。初始命中 1,593 篇，经文档类型过滤（排除会议论文等）后保留 973 篇，去重后余 665 篇。以两个包含标准——"是否讨论 UIC 影响"和"是否提供测量机制或标准"——筛选摘要（必要时阅读全文），保留 172 篇。经全文深度阅读排除贡献深度不足的[[Document|文献]]，最终核心文献 77 篇，再通过滚雪球策略追加 15 篇，合计分析 92 篇。
+在 [[Scopus]] and [[Web of Science]] 中以 UIC 相关术语组合检索标题、摘要和关键词，限定英文论文、2000–2022 年出版。初始命中 1,593 篇，经文档类型过滤（排除会议论文等）后保留 973 篇，去重后余 665 篇。以两个包含标准——"是否讨论 UIC 影响"和"是否提供测量机制或标准"——筛选摘要（必要时阅读全文），保留 172 篇。经全文深度阅读排除贡献深度不足的[[Document|文献]]，最终核心文献 77 篇，再通过滚雪球策略追加 15 篇，合计分析 92 篇。
 
 **阶段二：影响识别与分类**
 
@@ -332,7 +337,7 @@ Fig. 4 以绿色、淡紫色和黄色三层可视化地展示了挑战与策略�
 > [!success] 策略 5：数字与技术工具
 > **digital and technological tools**
 > 
-> 利用网络计量指标（altmetrics）和其他数字工具，[[Cohort Study\|追踪研究]]产出在学术圈之外的传播和讨论——包括社交媒体、新闻媒体报道、政策文件和行业白皮书中的引用和提及(Bornmann, 2017)。
+> 利用网络计量指标（[[Altmetrics|altmetrics]]）和其他数字工具，[[Cohort Study\|追踪研究]]产出在学术圈之外的传播和讨论——包括社交媒体、新闻媒体报道、政策文件和行业白皮书中的引用和提及(Bornmann, 2017)。
 > 
 > 传统引用指标（如期刊影响因子、[[h-Index|h-index]]）只能捕捉学术共同体内部的关注度，但 UIC 的核心目标之一是产生社会影响——政策制定者是否参考了合作研究成果？从业者是否采纳了合作开发的新技术？患者群体是否从中受益？这些社会层面的影响不会出现在学术引用统计中，但可能在以下数字痕迹中留下信号：政府白皮书引用了合作项目的技术报告；非营利组织在社交平台上传播合作研究成果；行业媒体对合作的商业化进展做了专题报道。
 > 
@@ -357,7 +362,7 @@ Fig. 4 以绿色、淡紫色和黄色三层可视化地展示了挑战与策略�
 > 使用计量经济学和统计学工具处理 UIC 影响测量中最棘手的挑战——效果的因果归因。具体方法分为两大类：
 > 
 > **量化反事实方法**
-> - **工具[[Variable\|变量]]估计（instrumental variables）** 寻找一个影响是否参与 UIC、但不直接影响结果的第三方变量，以此分离 UIC 的净效应
+> - **工具[[Variable\|变量]]估计（[[Instrumental Variables|instrumental variables]]）** 寻找一个影响是否参与 UIC、但不直接影响结果的第三方变量，以此分离 UIC 的净效应
 > - **[[Propensity Score Matching\|倾向得分匹配]]（propensity score [[Matching]]）** 为每个参与 UIC 的企业匹配一个"如果不参与合作应该跟它差不多"的对照组企业，比较两组的差异作为 UIC 影响的估计值(Lööf & Broström, 2008)
 > - **回归模型与对照组比较**Scandura(2016)使用企业层面的面板数据，比较参与合作的企业组与未参与的对照组在多期中的表现差异
 > 

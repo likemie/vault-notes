@@ -27,8 +27,10 @@ related_concepts:
   - "[[Debt-Trap Diplomacy]]"
   - "[[Soft Power]]"
   - "[[Knowledge Diplomacy]]"
+  - "[[Study Abroad]]"
   - "[[Knowledge Power]]"
   - "[[International Education]]"
+  - "[[Transnational Education]]"
   - "[[Paradigm]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
@@ -63,16 +65,16 @@ sources:
 part_of:
 status: draft
 created: 2026-10-20
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Liu_2025_IndHE"
 argument_key: "Argument_Liu_2025_IndHE"
 argument_display_title: "International higher education as knowledge diplomacy: The role of Chinese universities in China’s belt and road initiative"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 31
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Industry and Higher Education"
 book_title: ""
@@ -90,7 +92,7 @@ issuing_organization: ""
 
 > [!concept-lens] 阅读透镜
 > - **考察对象** [[University Alliance of the Silk Road|丝绸之路大学联盟]]（University Alliance of the Silk Road, UASR）旗下三所中国行业骨干高校（匿名化处理为 SY 大学、HH 大学、CA 大学），分别对应中亚油气输送管道、东南亚水电电网建设、非洲干线公路与铁路三大跨国重点工程。
-> - **核心张力** 西方关于债务陷阱与单向权力渗透的抽象指控，与微观层面通过校企协同提供工程公共产品、培育当地技术力量的实况之间的冲突；以及传统留学生教育仅用于政治宣传的假设与海外工程长期投资效益现实之间的张力。
+> - **核心张力** 西方关于债务陷阱与单向权力渗透的抽象指控，与微观层面通过校企协同提供工程公共产品、培育当地技术力量的实况之间的冲突；以及传统[[Study Abroad|留学]]生教育仅用于政治宣传的假设与海外工程长期投资效益现实之间的张力。
 > - **理论贡献** 将知识外交框架从宏观政策思辨推进到高校微观实证与多案例检验，论证了国家正当经济利益与多边互惠合作的相容性，并从能力进路视角阐释了以实体基础设施为核心的国际发展新路径。
 
 ---
@@ -129,7 +131,7 @@ issuing_organization: ""
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **案例院校** | 三所行业优势突出的中国骨干高校（匿名化处理为 SY 大学、HH 大学、CA 大学），分别对应中亚油气输送管道、东南亚水电电网建设、非洲干线公路与铁路三大工程场景。 |
-> | **培养对象** | 涵盖塔吉克斯坦全国高考前 1000 名选拔的 30 名石油工程定向本科生；老挝电力系统定向培养的 138 人（含 60 名水利电气五年制本科生、37 名工商管理硕士（Master of Business Administration, MBA）、41 名水利防灾硕士）；非洲交通基建全额资助定向培养的 135 名留学生（刚果（布）101 人、塞内加尔 15 人、马达加斯加 15 人、加蓬 4 人）及加蓬 4 名短期实训工程师。 |
+> | **培养对象** | 涵盖塔吉克斯坦全国高考前 1000 名选拔的 30 名石油工程定向本科生；老挝电力系统定向培养的 138 人（含 60 名水利电气五年制本科生、37 名工商管理硕士（Master of Business Administration, MBA）、41 名水利防灾硕士）；非洲交通基建全额资助定向培养的 135 名[[Study Abroad\|留学]]生（刚果（布）101 人、塞内加尔 15 人、马达加斯加 15 人、加蓬 4 人）及加蓬 4 名短期实训工程师。 |
 > | **档案情境** | 依托高校涉外办学档案、双边政府间协定、校企合作协议及毕业生追踪记录；材料参照 Birt et al. (2016) 执行[[Member Checking\|成员检验]]（Member Checking），经多轮核实与文字修订，确保叙事实证链条完整对齐。 |
 
 ---
@@ -146,7 +148,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim|step] 论证步骤一　跨国教育合作需要以双向互惠的[[Knowledge Diplomacy|知识外交]]取代单向地缘权力竞争
+> [!claim|step] 论证步骤一　[[Transnational Education|跨国教育]]合作需要以双向互惠的[[Knowledge Diplomacy|知识外交]]取代单向地缘权力竞争
 > 依靠[[Soft Power|软实力]]宣介或单向争夺知识主导权的竞争[[Paradigm|范式]]，无法解释致力于解决全球发展不平等的教育合作实践，必须引入以互信互惠、平等协作为核心的[[Knowledge Diplomacy|知识外交]][[Analytic Framework|分析框架]]。
 
 > [!sub-claim] 1. 单向争夺主导权的权力逻辑无法解释减贫与缩小差距的教育援助

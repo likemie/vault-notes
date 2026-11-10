@@ -10,7 +10,7 @@ summary: "在研究人类行为的某一方面时使用两种或更多资料收�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 36
+method_related_count: 38
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -38,6 +38,8 @@ related_concepts:
   - "[[Virtual World]]"
   - "[[Critical Thinking]]"
   - "[[Man-Computer Symbiosis]]"
+  - "[[Study Abroad]]"
+  - "[[Big Science]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
@@ -63,7 +65,7 @@ related_arguments:
 related_instruments: []
 status: draft
 created: 2026-06-01
-updated: 2026-11-05
+updated: 2026-11-11
 ---
 
 ---
@@ -188,5 +190,5 @@ updated: 2026-11-05
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011)]] — 详述 Denzin (1970) 六种类型框架并回应批评（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Ch. 10]]），并在[[Virtual World|虚拟世界]]研究中探讨多渠道数据三角验证（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Ch. 19]]）。
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 采用三阶段汇聚设计结合问卷调查、质性案例与组间比较，检验 ToK 与[[Critical Thinking|批判性思维]]的关系。
 > - [[Argument_Han_Gutierez_2026_IJSE|Han and Gutierez (2026)]] — 在科学教育[[Man-Computer Symbiosis|人机协同]]研究中，结合课堂录像、交互提示词日志、反思访谈与田野手记实现多源数据三角互证。
-> - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] — 结合留学生统计年鉴、合作备忘录政策文本、跨国民调与媒体报道，对 40 位知情人的[[Semi-structured Interview|半结构化访谈]]口述数据展开多源三角互证。
-> - [[Argument_Heinze_2009_RP|Heinze et al. (2009)]] — 在欧美 20 项重大科学突破的历史回溯案例中，结合 68 场关键知情人半结构化访谈、实验室学术出版物、专利申报书与机构历史档案实施多源数据三角互证。
+> - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] — 结合[[Study Abroad|留学]]生统计年鉴、合作备忘录政策文本、跨国民调与媒体报道，对 40 位知情人的[[Semi-structured Interview|半结构化访谈]]口述数据展开多源三角互证。
+> - [[Argument_Heinze_2009_RP|Heinze et al. (2009)]] — 在欧美 20 项重[[Big Science|大科学]]突破的历史回溯案例中，结合 68 场关键知情人半结构化访谈、实验室学术出版物、专利申报书与机构历史档案实施多源数据三角互证。

@@ -9,7 +9,7 @@ aliases:
 summary: "由 Alexander Oettl (2012) 提出的科学社会学概念；指在学术成果致谢部分频繁被同行公开致谢、以提供高价值概念实质反馈（如批评思路、概念澄清与假设把关）见长的学者。实证表明热心学者意外离世会导致其科研伙伴的产出质量显著下跌而数量保持不变，揭示出无形学院中非正式智识互助的隐性社会认知维度。"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,11 +26,15 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Star Scientists]]"
   - "[[Peer Effects in Science]]"
+  - "[[Research Tool]]"
+  - "[[Original Innovation Capability]]"
   - "[[Paradigm]]"
   - "[[Construct Validity]]"
+  - "[[Early-Career Researchers]]"
   - "[[Emergence]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Natural Experiment]]"
 related_instruments: []
 related_persons:
   - "[[Alexander Oettl]]"
@@ -43,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -98,7 +102,7 @@ updated: 2026-11-03
 > **同行溢出的认知机制** 探讨[[Peer Effects in Science|学术同侪效应]]究竟源于设备物资共享还是思想碰撞，实证揭示深层学术互助的认知本质。
 
 > [!claim] [[Alexander Oettl|Oettl, A.]]
-> **概念反馈与质量维持** 学术成果产出质量极度依赖日常非正式的思想检验。通过大数据解析 10 万篇医学文献致谢语料并运用猝逝准自然实验，证明提供概念实质反馈（如批评思路与纠正假设）的热心科学家离世后，其学术伙伴的成果平均质量急剧下滑；相比之下，仅提供物理材料或实验工具借用的同行离世并未引发同等波动，确立了概念反馈是驱动科学质量的根本无形资产。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 100)]]
+> **概念反馈与质量维持** 学术成果产出质量极度依赖日常非正式的思想检验。通过大数据解析 10 万篇医学文献致谢语料并运用猝逝[[Natural Experiment|准自然实验]]，证明提供概念实质反馈（如批评思路与纠正假设）的热心科学家离世后，其学术伙伴的成果平均质量急剧下滑；相比之下，仅提供物理材料或[[Research Tool|实验工具]]借用的同行离世并未引发同等波动，确立了概念反馈是驱动科学质量的根本无形资产。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 100)]]
 
 ---
 
@@ -106,7 +110,7 @@ updated: 2026-11-03
 > **科技评价制度与组织生态** 剖析现代科研管理中仅关注第一/通讯署名对学术生态公共品供给造成的制度扭曲。
 
 > [!claim] [[Dashun Wang|Wang, D.]] & [[Albert-László Barabási|Barabási, A.-L.]]
-> **无形互助维度的制度挤压** 现代科学评价体系普遍以署名成果与项目到款为核心指标，导致提供细致同行评议与思路把关的热心学者成为无名奉献者。然而大数据实证确证科学卓越背后存在着深层的无形社会与认知交互维度，正是无数热心学者的思想碰撞构筑了无形学院的日常繁荣。若评价机制持续漠视这一维度，将诱发学术利己主义并危及全系统的原始创新活力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 100)]]
+> **无形互助维度的制度挤压** 现代科学评价体系普遍以署名成果与项目到款为核心指标，导致提供细致同行评议与思路把关的热心学者成为无名奉献者。然而大数据实证确证科学卓越背后存在着深层的无形社会与认知交互维度，正是无数热心学者的思想碰撞构筑了无形学院的日常繁荣。若评价机制持续漠视这一维度，将诱发学术利己主义并危及全系统的[[Original Innovation Capability|原始创新]]活力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 100)]]
 
 ---
 
@@ -131,7 +135,7 @@ updated: 2026-11-03
 > > 致谢段落的计量学有效性争论。支持者主张致谢是学者在正式署名之外唯一能够公开表达智识感激的渠道，具有极高的[[Construct Validity|构念效度]][[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 100)]]；怀疑者指出致谢用语常常受到学术人情、赞助关系与礼节性修辞的干扰，容易产生测量噪声。
 >
 > > [!axis] 互助投入的个人机会成本 vs 机构集体创新资本
-> > 青年学者时间配置导向的冲突。一派观点担忧过多参与同行互助会挤占青年学者独立撰写成果的黄金时间；另一派观点强调高互助度能够促进团队整体认知[[Emergence|涌现]]，属于机构不可或缺的社会资本。
+> > [[Early-Career Researchers|青年学者]]时间配置导向的冲突。一派观点担忧过多参与同行互助会挤占青年学者独立撰写成果的黄金时间；另一派观点强调高互助度能够促进团队整体认知[[Emergence|涌现]]，属于机构不可或缺的社会资本。
 
 ---
 

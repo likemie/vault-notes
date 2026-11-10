@@ -11,9 +11,9 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 6
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "芬兰议会"
 tags:
@@ -23,14 +23,19 @@ tags:
   - history/20th-century
   - nation-building
 related_concepts:
-  - "[[Educational Level]]"
+  - "[[Class Size]]"
   - "[[Kansankynttilä]]"
+  - "[[Grade Retention]]"
+  - "[[Nationalism]]"
+  - "[[Educational Level]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Uno Cygnaeus]]"
 related_facts:
+  - "[[National Education]]"
+  - "[[1918 Finnish Civil War]]"
   - "[[Comprehensive School Reform in Finland]]"
   - "[[Fennoman Movement]]"
 related_arguments:
@@ -38,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-06
-updated: 2026-11-06
+updated: 2026-11-11
 ---
 
 ---
@@ -52,12 +57,12 @@ updated: 2026-11-06
 ---
 
 > [!claim] 政策核心
-> 1921 年法案正式在芬兰确立了 6 年制义务初等教育体制，强制规定父母与地方市镇共同承担保障全体适龄儿童接受国民教育的法定义务，奠定了芬兰后发现代化普及教育的基础骨架。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–21)]]
+> 1921 年法案正式在芬兰确立了 6 年制义务初等教育体制，强制规定父母与地方市镇共同承担保障全体适龄儿童接受[[National Education|国民教育]]的法定义务，奠定了芬兰后发现代化普及教育的基础骨架。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–21)]]
 
 > [!policy-design] 政策设计
-> - **政策目标** 消除乡村与边远地区教育空白，普及基本读写算术能力，通过国民教育统一国家认同并平复 1918 年芬兰内战带来的深刻社会阶级裂痕。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–21)]]
+> - **政策目标** 消除乡村与边远地区教育空白，普及基本读写算术能力，通过国民教育统一国家认同并平复 1918 年[[1918 Finnish Civil War|芬兰内战]]带来的深刻社会阶级裂痕。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–21)]]
 > - **适用对象** 芬兰境内全体 7 至 13 岁儿童及其监护人；各地方自治市镇。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 20)]]
-> - **政策工具** 设立市镇办学最低距离与班额标准、国家对贫困市镇提供专项校舍建设与教师薪酬财政补贴、对未按期送子女入学的家庭处以罚金。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–21)]]
+> - **政策工具** 设立市镇办学最低距离与[[Class Size|班额]]标准、国家对贫困市镇提供专项校舍建设与教师薪酬财政补贴、对未按期送子女入学的家庭处以罚金。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–21)]]
 > - **约束机制** 强化地方政府与学校董事会对适龄儿童学籍的登记与强制清查，确保每个适龄儿童均有学可上。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 20)]]
 
 > [!citation-card] 斯堪的纳维亚对比下的后发特征
@@ -72,7 +77,7 @@ updated: 2026-11-06
 > - 1921 芬兰议会正式通过《义务教育法》（Oppivelvollisuuslaki），规定 7 至 13 岁儿童必须强制接受六年制初等教育。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 20)]]
 > - 1937 经过十余年乡村校舍扩建，仍有 13% 的偏远农村儿童未能入学。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 21)]]
 > - 1940 年代初 经历冬季战争与继续战争，初等义务教育网络终于实现全国地理完全覆盖。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 20)]]
-> - 1968 芬兰议会通过《学校系统基础法》，开启九年制[[Comprehensive School Reform in Finland|综合学校改革]]，取代旧有六年制初等义务教育体系。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 7)]]
+> - 1968 芬兰议会通过《学校系统基础法》，开启九年制综合学校改革，取代旧有六年制初等义务教育体系。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 7)]]
 
 ---
 
@@ -91,7 +96,7 @@ updated: 2026-11-06
 
 > [!indicators] 评价指标
 > - **投入指标** 国家教育转移支付占财政支出比重、乡村国民学校数量与平均服务半径。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–21)]]
-> - **过程指标** 适龄儿童初等教育净入学率、留级与辍学率。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–21)]]
+> - **过程指标** 适龄儿童初等教育净入学率、[[Grade Retention|留级]]与辍学率。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–21)]]
 > - **结果指标** 国民总体识字率、完成全阶段初等教育人口比例、初等教育向文法中学升学过渡率。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 20–21)]]
 
 > [!finding-cards] 效果与评价
@@ -110,7 +115,7 @@ updated: 2026-11-06
 > [!debates] 政策争议
 >
 > > [!axis] 自愿教育与国家强制的权界之争
-> > 独立前保守地主阶层担忧强制就读抽走乡村农忙劳动力，民族主义知识分子与社会民主党人则主张唯有国家强制立法才能保卫民族生存。
+> > 独立前保守地主阶层担忧强制就读抽走乡村农忙劳动力，[[Nationalism|民族主义]]知识分子与社会民主党人则主张唯有国家强制立法才能保卫民族生存。
 > >
 > > - **民族派立法者（1921）** 强调全民义务教育是巩固新兴共和国独立地位与培养合格现代公民的不可逾越之途。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 20)]]
 > > - **保守乡村地主（1920s）** 批评强制性集中学制脱离农业生产周期，加重边远地方市镇的财政摊派负担。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–21)]]

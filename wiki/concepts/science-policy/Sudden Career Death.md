@@ -9,35 +9,40 @@ aliases:
 summary: "指在科学技术研究职业生涯中，由于非终身轨短期聘用合同主导的制度设计，科研人员在面临偶发性成果产出间歇时所遭遇的学术生涯突然且难以逆转的意外终结；科学学生涯复杂系统动力学模型揭示，竞争性时间尺度的冲突是引发学者生产力剧烈波动与学术淘汰的核心机制（Petersen et al., 2012; Fortunato et al., 2018）。"
 type: concept
 domain: "science-policy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 14
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/science-policy
   - field/scientometrics
   - theme/scientific-career
   - theme/academic-labor
 related_concepts:
-  - "[[Soft-Money Faculty Model]]"
-  - "[[Postdoctoral Pileup]]"
   - "[[Scientific Productivity]]"
-  - "[[Seniority Barrier in Academia]]"
-related_theories: []
-related_methods:
-  - "[[Descriptive Analysis]]"
-  - "[[Quasi-Experimental Designs]]"
+  - "[[Postdoctoral Pileup]]"
+  - "[[Early-Career Researchers]]"
+  - "[[Soft-Money Faculty Model]]"
+  - "[[Research Universities]]"
+  - "[[Externalization]]"
+  - "[[New Public Management]]"
+  - "[[Dependent Variable]]"
+related_theories:
+  - "[[Human Capital Theory]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Alexander M. Petersen]]"
   - "[[Santo Fortunato]]"
-related_facts: []
+related_facts:
+  - "[[Howard Hughes Medical Institute]]"
+  - "[[National Institutes of Health]]"
 related_arguments:
   - "[[Argument_Fortunato_2018_Science]]"
 confidence: high
 status: active
 created: 2026-11-03
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -51,13 +56,13 @@ updated: 2026-11-03
 > - **边界** 不等于年老教授的法定退休，亦不等于学者因更高薪酬而主动离开学界的自愿跳槽；特指具备科研意愿与潜力的研究人员因制度刚性考核而发生的非自愿学术离散。
 
 > [!citation-card|notitle] 短期合同引发的学术生涯突然终结
-> 具有相互竞争时间尺度的交互系统是复杂系统科学的经典问题。科学的多维本质推动了生成式模型的发展，用以揭示政策的非预期后果。例如，生涯增长模型表明，非终身轨短期聘用合同是导致学者生产力剧烈波动的根源，而这种波动往往直接造成学术生涯的突然终结。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
+> 具有相互竞争时间尺度的交互系统是复杂系统科学的经典问题。科学的多维本质推动了生成式模型的发展，用以揭示政策的非预期后果。例如，生涯增长模型表明，非终身轨短期聘用合同是导致[[Scientific Productivity|学者生产力]]剧烈波动的根源，而这种波动往往直接造成学术生涯的突然终结。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
 >
 > *Interacting systems with competing time scales are a classic problem in complex systems science... For example, models of career growth show that non-tenure (short-term) contracts are responsible for productivity fluctuations, which often result in a sudden career death.*
 
 > [!boundary]- 概念边界
 > - 不等于正常学术转行 — 正常的学术跨界转行通常伴随个人职业意愿转向，而学术生涯猝死主要由外部制度契约到期且缺乏容错缓冲机制所诱发。
-> - 不等于 [[Postdoctoral Pileup]] — 博士后蓄水池淤积指青年学者长期滞留在临时研究职位难以获得独立教职，学术生涯猝死指遭遇合同终止而彻底退出学术研究。
+> - 不等于 [[Postdoctoral Pileup]] — 博士后蓄水池淤积指[[Early-Career Researchers|青年学者]]长期滞留在临时研究职位难以获得独立教职，学术生涯猝死指遭遇合同终止而彻底退出学术研究。
 
 ---
 
@@ -65,7 +70,7 @@ updated: 2026-11-03
 > | 维度 | 本概念（学术生涯猝死） | [[Postdoctoral Pileup]] | [[Soft-Money Faculty Model]] |
 > |------|--------|----------------|----------------|
 > | 分析对象 | 短期合同科研人员在产出间歇期面临的职业终结 | 青年学者滞留于多轮博士后岗位的劳动力过剩 | 依靠竞争性科研课题间接费维持薪资的教师模式 |
-> | 核心机制 | 复杂系统内竞争性时间尺度冲突与制度容错缺失 | 独立终身教职空缺有限与博士培养规模扩张 | 医学院与研究型大学将专任教师薪资外部化至基金 |
+> | 核心机制 | 复杂系统内竞争性时间尺度冲突与制度容错缺失 | 独立终身教职空缺有限与博士培养规模扩张 | 医学院与[[Research Universities\|研究型大学]]将专任教师薪资[[Externalization\|外部化]]至基金 |
 > | 适用范围 | 青年教师“非升即走”与合同制研究员聘期考核 | 博士后阶段科研人员向独立研究员的晋升瓶颈 | 全职科研人员的薪资财务结构与制度脆弱性 |
 
 ---
@@ -114,8 +119,8 @@ updated: 2026-11-03
 ---
 
 > [!dev-timeline] 概念演变
-> - **1970s–1990s — 新公共管理与学术劳动力零工化** 全球高校引入企业化管理，大幅扩充非终身轨合同工、博士后与编外科研岗，形成结构性二元劳动力市场。
-> - **2012 — 复杂网络模型形式化界定** 彼得森（Alexander M. Petersen）等建立生涯增长与衰退模型，正式从数理动力学层面定义了短期合同引发的“学术生涯猝死”（Sudden Career Death）机制。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
+> - **1970s–1990s — [[New Public Management|新公共管理]]与学术劳动力零工化** 全球高校引入企业化管理，大幅扩充非终身轨合同工、博士后与编外科研岗，形成结构性二元劳动力市场。
+> - **2012 — 复杂网络模型形式化界定** 彼得森（[[Alexander M. Petersen]]）等建立生涯增长与衰退模型，正式从数理动力学层面定义了短期合同引发的“学术生涯猝死”（Sudden Career Death）机制。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
 > - **2018 — 科学学实证共识与政策反思** 科学学综述将学术生涯猝死归结为多重时间尺度竞争的典型系统性失灵，呼吁构建容忍早期失败、奖励长周期成功的学术资助生态。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
 
 ---
@@ -126,13 +131,13 @@ updated: 2026-11-03
 > > 争论焦点在于严苛的短期合同能否提高学术系统的整体产出效率。
 > >
 > > - **市场效率论** 认为短期合同能够形成外部竞争压力，快速淘汰低产出人员，维持学术劳动力市场的敏捷流动。
-> > - **创新资本损耗论** 科学学指出生涯猝死会过早切断高风险探索者的职业生命，加剧学者的避险平庸化趋势，造成严重的人力资本与财政浪费。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
+> > - **创新资本损耗论** 科学学指出生涯猝死会过早切断高风险探索者的职业生命，加剧学者的避险平庸化趋势，造成严重的[[Human Capital Theory|人力资本]]与财政浪费。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
 >
 > > [!axis] 短周期课题制考核 vs 长周期稳定对人资助
 > > 探讨科技资助体系应采用以项目为中心频繁评审，还是采用稳定对人支持。
 > >
 > > - **短期课题把关论** 强调高频次同行评审是保证公共经费负责任使用、防范学术懈怠的必要手段。
-> > - **长周期容错激励论** 倡导推广霍华德·休斯医学研究所（HHMI）或 NIH 先锋奖模式，给予学者 5 至 7 年的稳定免考核期以容忍探索初期的失败。
+> > - **长周期容错激励论** 倡导推广[[Howard Hughes Medical Institute|霍华德·休斯医学研究所]]（HHMI）或 [[National Institutes of Health|NIH]] 先锋奖模式，给予学者 5 至 7 年的稳定免考核期以容忍探索初期的失败。
 
 ---
 
@@ -142,7 +147,7 @@ updated: 2026-11-03
 > |:-----|:-----|:-----|
 > | [[Soft-Money Faculty Model]] | 概念 | 依赖外部课题软钱支撑薪资的高校聘任形态，为学术生涯猝死提供了脆弱的制度温床。 |
 > | [[Postdoctoral Pileup]] | 概念 | 青年学者为规避生涯猝死而被迫反复滞留于临时流动岗位的劳动力淤积现象。 |
-> | [[Scientific Productivity]] | 概念 | 衡量微观产出涨落与决定短期合同存续的核心因变量。 |
+> | [[Scientific Productivity]] | 概念 | 衡量微观产出涨落与决定短期合同存续的核心[[Dependent Variable\|因变量]]。 |
 > | [[Alexander M. Petersen]] | 人物 | 科学学奠基学者，建立生涯增长数理模型并首次系统刻画学术生涯猝死机制。 |
 > | [[Santo Fortunato]] | 人物 | 综述系统揭示时间尺度冲突导致学术生涯猝死的复杂系统机理。 |
 

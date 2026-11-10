@@ -7,9 +7,9 @@ title: "Argument_Gorard_2020_ROE"
 argument_key: "Argument_Gorard_2020_ROE"
 argument_display_title: "What is the evidence on the best way to get evidence into use in education? Review of Education, 8(2), 570–610"
 argument_kind: "journal-article"
-argument_related_count: 78
-argument_related_level: 7
-argument_related_stars: "💎💎⭐"
+argument_related_count: 83
+argument_related_level: 8
+argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
 related_concepts:
   - "[[Knowledge Mobilisation]]"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Implementation Fidelity]]"
   - "[[Data Literacy]]"
   - "[[Clinical Trial]]"
+  - "[[Scripted Curriculum]]"
   - "[[Business as Usual]]"
   - "[[Teacher Questioning]]"
   - "[[Homework]]"
@@ -64,6 +65,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Qualitative Interview]]"
   - "[[Quantitative Research]]"
+  - "[[Statistical Significance]]"
   - "[[Analysis of Variance]]"
   - "[[Random Sampling]]"
   - "[[Sample Size Determination]]"
@@ -78,6 +80,9 @@ related_persons:
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Education Resources Information Center]]"
+  - "[[Web of Science]]"
+  - "[[MEDLINE]]"
+  - "[[Google Scholar]]"
   - "[[What Works Clearinghouse]]"
   - "[[Education Endowment Foundation]]"
   - "[[Institute of Education Sciences]]"
@@ -96,7 +101,7 @@ related_facts:
   - "[[Strategic School Improvement Fund]]"
 status: completed
 created: 2026-09-15
-updated: 2026-10-29
+updated: 2026-11-11
 journal: Review of Education
 citation: "Gorard, S., See, B. H., & Siddiqui, N. (2020). What is the evidence on the best way to get evidence into use in education? Review of Education, 8(2), 570–610."
 authors:
@@ -176,11 +181,11 @@ sources:
 > | 数据库名称 | 初检命中记录数 | 检索特征与主要覆盖领域 |
 > |:---|---:|:---|
 > | EBSCOhost | 31,291 | 涵盖 BEI、PsycINFO、[[Education Resources Information Center\|ERIC]] 等 11 个专业子库 |
-> | Web of Science | 1,717 | 核心期刊引文数据库，高集中度学术文献 |
-> | Ovid MEDLINE | 107 | 临床医学与循证医疗专业数据库 |
+> | [[Web of Science]] | 1,717 | 核心期刊引文数据库，高集中度学术文献 |
+> | Ovid [[MEDLINE]] | 107 | 临床医学与循证医疗专业数据库 |
 > | First Search 电子书专著遴选 | 6,856 | 电子书与专著文献遴选 |
 > | JSTOR | 263,242 | 人文与社会科学核心历史典藏期刊库 |
-> | Google Scholar | 3,050,000 | 全球学术网络开放检索，高覆盖度灰色文献与行业报告 |
+> | [[Google Scholar]] | 3,050,000 | 全球学术网络开放检索，高覆盖度灰色文献与行业报告 |
 > | **总计** | **3,353,213** | **初筛排除 99.98% 噪声后锁定 582 篇，全文深研 323 篇** |
 
 对纳入文献的方法学核查采用专为教育[[Causality|因果推断]]设计的评价工具。
@@ -255,7 +260,7 @@ sources:
 > [!claim] 核心主张：被动分发与通俗改写的因果失效
 > 大规模反事实因果试验表明，无论是被动开放获取原始学术期刊，还是由智库与中介机构将研究压缩为通俗摘要与工具包（如 EEF 工具包），在严格因果检验中均无法穿透至一线教师教学行为的实质改变，在学生统考成绩上呈现出高度一致的零效应，宣告了“单纯提供信息即可驱动实践变革”假设的破产。
 
-> [!sub-claim] 1. 原始学术文献被动开放面临时间与素养双重壁垒，且[[Null Hypothesis|零假设]]显著性检验存在系统性误导
+> [!sub-claim] 1. 原始学术文献被动开放面临时间与素养双重壁垒，且[[Null Hypothesis|零假设]][[Statistical Significance|显著性检验]]存在系统性误导
 
 降低证据的物理获取成本或将其压缩改写为通俗文本，是政策界最青睐的低预算手段，但在因果检验中全军覆没。
 
@@ -424,7 +429,7 @@ sources:
 
 > [!case] 核心数学结构化教案与课程工件试验（Doabler et al., 2014）
 > - **样本与观察规模** 该项核心数学干预评估（评级 2 级）覆盖美国俄勒冈州与德克萨斯州 46 所小学 2,700 名低年级学生，并在 129 间教室（68 间干预组，61 间常态对照组）执行了 379 次现场[[Classroom Observation|课堂教学观察]]。
-> - **免除[[Audit Trail\|审计追踪]]的预制工件封装** 干预的核心特征在于将高质量认知实证规律直接预制封装进成套脚本化教案（Scripted Lesson Plans）与教学辅助软件中。教师完全无需知晓背后复杂的循证研究审计追踪链条，更无需研读统计报告，只需忠实遵从预制工件开展教学。
+> - **免除[[Audit Trail\|审计追踪]]的预制工件封装** 干预的核心特征在于将高质量认知实证规律直接预制封装进成套脚本化教案（[[Scripted Curriculum|Scripted Lesson Plans]]）与教学辅助软件中。教师完全无需知晓背后复杂的循证研究审计追踪链条，更无需研读统计报告，只需忠实遵从预制工件开展教学。
 > - **课堂有效实践率的因果跃升** 379 次课堂观察数据显示，使用工程化课程教案的干预组教师，向全班及个体学生提供的有效数学练习机会与高质量师生互动频次，显著超越了采用学区常规教学指南的对照组教师。
 
 这种模式彻底重构了一线教学与科学研究的关系。

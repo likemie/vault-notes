@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Evidence-Based Education]]"
   - "[[Self-Efficacy]]"
+  - "[[Free School Meals]]"
   - "[[Teacher Knowledge Base]]"
 related_theories:
   - "[[AIR Model of Epistemic Cognition]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -127,7 +128,7 @@ updated: 2026-10-22
 >   2. **常态对照基线抬升（[[Counterfactual]] Creep）** 2013 至 2018 年间，英国全国小学自发加强了探究与对话式科学教学，对照组学校的“[[Business as Usual\|常态教学]]（BAU）”水平显著跃升，抹平了干预方案与常规课堂的质性边界。
 
 > [!stat-cards]- 关键实证数据
-> - **42** 效力试验覆盖的小学数量（所），五年级学童 $N = 1,240$ 名，核心[[Effect Size\|效应量]] $d = +0.22$（FSM 学生 $d = +0.38$），[[EEF Padlock Security Rating\|挂锁安全评级]] 4 把锁。
+> - **42** 效力试验覆盖的小学数量（所），五年级学童 $N = 1,240$ 名，核心[[Effect Size\|效应量]] $d = +0.22$（[[Free School Meals|FSM]] 学生 $d = +0.38$），[[EEF Padlock Security Rating\|挂锁安全评级]] 4 把锁。
 > - **205** 实效试验覆盖的小学数量（所），五年级学童 $N > 8,000$ 名，核心效应量 $d = 0.00$（FSM 学生 $d = -0.01$），挂锁安全评级 4 把锁。
 
 ---

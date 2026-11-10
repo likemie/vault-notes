@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -390,6 +390,6 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 在创造力二阶元分析中将 164 个一阶效应量统一转换为 $r$ 并行 Fisher's $z$ 变换。
+> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 在[[Creativity|创造力]][[Meta-meta-analysis|二阶元分析]]中将 164 个一阶效应量统一转换为 $r$ 并行 Fisher's $z$ 变换。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统揭示[[Standard Error|标准误]]当作标准差导致效应量虚增十倍、三大均值差测度混用以及伪标准误拼凑失范等典型灾难案例。
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 揭示 CLES 负概率失范，并以数值实验证实 $r \to d$ 极值爆炸及三类公式导致完全矛盾排名。

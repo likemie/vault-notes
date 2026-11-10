@@ -11,7 +11,7 @@ summary: "在教育干预试验与复杂项目评价中与量化成效评估并�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 53
+method_related_count: 54
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#fef3c7"
@@ -68,6 +68,7 @@ related_methods:
   - "[[Classroom Observation]]"
   - "[[Questionnaire]]"
   - "[[Qualitative Interview]]"
+  - "[[Instrumental Variables]]"
   - "[[Complier Average Causal Effect]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Semi-structured Interview]]"
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 ---
@@ -138,7 +139,7 @@ updated: 2026-10-29
 >    - 全面评估对照组的教学基线质量，排查对照组学校是否自发引介同类培训或产生补偿性努力（compensatory rivalry），排除实验污染。
 > 4. **阶段四：多源数据混合整合与机制解释（Mixed-Methods Integration）**
 >    - 将[[Qualitative Interview\|质性访谈]]、反思日志与观察个案进行主题编码，深度解释量化因果效应（或未显现效应）背后的微观人际、心理与制度动因。
->    - 将量化依从性指标作为工具变量代入[[Complier Average Causal Effect\|依从者平均因果效应]]（Complier Average Causal Effect，CACE）模型，精准区分成效不足究竟源于干预的理论无效（genuine ineffectiveness）还是执行失败（implementation failure）。
+>    - 将量化依从性指标作为[[Instrumental Variables|工具变量]]代入[[Complier Average Causal Effect\|依从者平均因果效应]]（Complier Average Causal Effect，CACE）模型，精准区分成效不足究竟源于干预的理论无效（genuine ineffectiveness）还是执行失败（implementation failure）。
 
 ---
 

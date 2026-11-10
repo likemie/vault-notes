@@ -9,7 +9,7 @@ aliases:
 summary: "19 世纪早期欧美官方教育考察者所采取的一种描述性比较取向，将外国具体学校机构与教学管理规程孤立于社会历史脉络之外进行白描记录与政策借用，后被萨德勒等学者批判并推动学科发生文化转向"
 type: concept
 domain: "comparative-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
   - theme/educational-transfer
   - paradigm/positivism
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Unit of Analysis]]"
   - "[[Policy Borrowing]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
@@ -48,13 +49,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Scholiocentric Approach
-> **以校为中心取向（Scholiocentric Approach）** 是 19 世纪早期欧美官方教育视察者（如法国的[[Victor Cousin|维克多·库森]]、美国的[[Horace Mann|霍勒斯·曼]]与[[Henry Barnard|亨利·巴纳德]]等）在开展跨国教育考察时所普遍采取的一种经验描述性研究取向。该取向以具体的外国学校机构、校舍设施、课程科目、教学方法与日常行政督导规程作为核心[[Unit of Analysis|分析单位]]，倾向于将学校孤立地视为自给自足的教学与管理场所进行静态白描，忽视甚至抽离了深嵌于学校背后的宏观政治结构、阶级冲突与文化传统，主要服务于新兴民族国家的公共教育制度建设、[[Policy Borrowing|政策借用]]与立法辩护。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 140–141)]]
+> **以校为中心取向（Scholiocentric Approach）** 是 19 世纪早期欧美官方教育视察者（如法国的[[Victor Cousin|维克多·库森]]、美国的[[Horace Mann|霍勒斯·曼]]与[[Henry Barnard|亨利·巴纳德]]等）在开展[[Transnational Education|跨国教育]]考察时所普遍采取的一种经验描述性研究取向。该取向以具体的外国学校机构、校舍设施、课程科目、教学方法与日常行政督导规程作为核心[[Unit of Analysis|分析单位]]，倾向于将学校孤立地视为自给自足的教学与管理场所进行静态白描，忽视甚至抽离了深嵌于学校背后的宏观政治结构、阶级冲突与文化传统，主要服务于新兴民族国家的公共教育制度建设、[[Policy Borrowing|政策借用]]与立法辩护。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 140–141)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将比较研究的焦点狭隘局限在砖石构建的学校建筑、教师与学生等校内技术参数，呈现出去语境化的白描特征。

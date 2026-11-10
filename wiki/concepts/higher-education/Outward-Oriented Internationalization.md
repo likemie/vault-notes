@@ -8,7 +8,7 @@ aliases:
 summary: "表征新兴大国高等教育国际化战略由被动引进西方经验向主动对外输出模式、提供公共产品与重塑治理规则转变的理论构念，以境外办学、教育对外援助与战略性留学生招生为支柱，并以多边大学联盟为制度化载体。"
 type: concept
 domain: "higher-education"
-related_count: 30
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -23,11 +23,13 @@ related_concepts:
   - "[[Geopolitics of Higher Education]]"
   - "[[Construct]]"
   - "[[Paradigm]]"
+  - "[[Study Abroad]]"
   - "[[Discourse]]"
   - "[[Academic Freedom]]"
   - "[[South-South Cooperation]]"
   - "[[Cultural Diplomacy]]"
   - "[[Epistemic Governance]]"
+  - "[[Transnational Education]]"
   - "[[Normalization through Knowledge Cooperation]]"
   - "[[Knowledge Power]]"
   - "[[Knowledge Diplomacy]]"
@@ -58,13 +60,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Outward-Oriented Internationalization
-> 外向型[[Internationalization of Higher Education|高等教育国际化]]（Outward-Oriented Higher Education Internationalization）是由吴菡/吴林（Wu, 2019a, 2019b）提出、并在[[Geopolitics of Higher Education|高等教育地缘政治]]研究中得到广泛引用的[[Construct|理论构念]]。该概念特指新兴国家（尤其是中国）的高等教育国际化战略发生根本性[[Paradigm|范式]]转向：由改革开放初期至 2000 年代以“向西方先进模式取经、大规模选派公派留学生、引进海外原版课程与聘请外国专家”为主导的**内向型阶段（Inward-Oriented Phase）**，转向以“主动向海外输出高等教育机构与项目、提供高教对外发展援助、实施政府主导的大规模国际留学生吸纳工程”为特征的**外向型战略布局**。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1697)]]
+> 外向型[[Internationalization of Higher Education|高等教育国际化]]（Outward-Oriented Higher Education Internationalization）是由吴菡/吴林（Wu, 2019a, 2019b）提出、并在[[Geopolitics of Higher Education|高等教育地缘政治]]研究中得到广泛引用的[[Construct|理论构念]]。该概念特指新兴国家（尤其是中国）的高等教育国际化战略发生根本性[[Paradigm|范式]]转向：由改革开放初期至 2000 年代以“向西方先进模式取经、大规模选派公派[[Study Abroad|留学]]生、引进海外原版课程与聘请外国专家”为主导的**内向型阶段（Inward-Oriented Phase）**，转向以“主动向海外输出高等教育机构与项目、提供高教对外发展援助、实施政府主导的大规模国际留学生吸纳工程”为特征的**外向型战略布局**。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1697)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 标识高等教育国际化由单向接收与依附学习转变为主动赋形全球治理、提供跨国公共产品与争夺学术[[Discourse|话语]]权的发展阶段。
@@ -94,7 +96,7 @@ updated: 2026-11-03
 ---
 
 > [!feature] 核心支柱矩阵
-> - **跨国教育机构与项目境外输出** 依托境内母体高水平大学在海外独立办学或建立联合学院，直接向东道国输出学位认证课程与专业教学方案。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1697)]]
+> - **[[Transnational Education|跨国教育]]机构与项目境外输出** 依托境内母体高水平大学在海外独立办学或建立联合学院，直接向东道国输出学位认证课程与专业教学方案。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1697)]]
 > - **高等教育对外发展援助** 聚焦发展中国家基础设施与工业化紧缺人才需求，提供全额政府奖学金、教师海外培训及应用技术示范基地建设。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
 > - **战略性国际留学生招生工程** 由国家财政与部委统筹设立专项奖学金矩阵，优化留学生生源结构，重点吸引具有政策决策潜能与学术研究潜质的复合型青年人才。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
 > - **多边大学联盟制度化载体** 跨越传统的点对点双边交流模式，发起并主导构建多元多边校际网络，实现多边规则研制与[[Normalization through Knowledge Cooperation|网络中心性常态化]]。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1697–1703)]]

@@ -11,7 +11,7 @@ summary: "用于刻画并分析两类异质性行动实体（如决策人员与�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 23
+method_related_count: 24
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#fef3c7"
@@ -51,12 +51,13 @@ related_facts:
   - "[[World Bank]]"
   - "[[UNICEF]]"
   - "[[International Institute for Educational Planning]]"
+  - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -138,7 +139,7 @@ updated: 2026-10-30
 > |---|---|---|---|
 > | **节点性质** | 两类不同性质的节点集合（行动者与机构/事件） | 单一性质的节点集合（如学者与学者，或官员与官员） | 单一学术文献或期刊实体节点 |
 > | **连边含义** | 跨异质实体的从属、参与、调阅或咨询行为 | 同类实体之间直接的人际交往、合作或通联 | 学术文献被第三方共同引用的客观计量关联 |
-> | **数据源** | 调查问卷、委员会花名册、参会签到表 | 人际交往问卷、社交通讯记录、邮件往来 | 商业学术引文数据库（如 Web of Science） |
+> | **数据源** | 调查问卷、委员会花名册、参会签到表 | 人际交往问卷、社交通讯记录、邮件往来 | 商业学术引文数据库（如 [[Web of Science]]） |
 > | **核心用途** | 揭示行动者与组织制度平台的重合度及生态割裂 | 测度群体内部人际关系密度、小世界效应与小团体 | 评估学术学术界的知识演进脉络与[[Paradigm\|范式]]分化 |
 
 ---

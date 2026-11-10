@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16"
 argument_display_title: "Research Methods in Education · Ch16"
 argument_kind: "book-chapter"
-argument_related_count: 87
+argument_related_count: 89
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -70,6 +70,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Boarding Schools]]"
   - "[[Informed Consent]]"
+  - "[[Research Tool]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Homework]]"
   - "[[Language Skills]]"
@@ -92,6 +93,7 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Random Sampling]]"
   - "[[Blinding]]"
+  - "[[Natural Experiment]]"
   - "[[Pretest-Posttest Control Group Design]]"
   - "[[Solomon Four-Group Design]]"
   - "[[Randomised Controlled Trials]]"
@@ -131,7 +133,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-07-12
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 > [!knowledge-map] 第16章 [[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_16_Concept_Map.jpg)
@@ -263,7 +265,7 @@ Holland (1986, p. 947) 建议通过**随机化和平均效应的测量**来统�
 教育研究中有三种主要的实验设计（p. 316）：
 
 > [!contrast-table] 三种实验类型
-> | 维度 | 实验室实验（真实验） | 实地实验（准实验） | 自然实验 |
+> | 维度 | 实验室实验（真实验） | 实地实验（准实验） | [[Natural Experiment\|自然实验]] |
 > |---|---|---|---|
 > | **环境** | 专门建造的人为环境 | 自然情境（真实世界） | 自然情境 |
 > | **变量控制** | 变量可隔离、控制和操纵 | 变量可隔离、控制和操纵，但控制弱于实验室 | 无法隔离和控制变量 |
@@ -836,7 +838,7 @@ Adeyemi (1992) 使用单组前后测设计研究 1991–92 年度研究生教育
 > - **实验组** ==O₁== `X` ==O₂==
 
 > [!case] 研究详情
-> **研究工具** Barth/Shermis 社会科偏好量表（BSSPS），45 题 Likert 量表，在美国、埃及和尼日利亚等不同文化中广泛使用，已满足信度和[[Internal Consistency\|内部一致性]]信度的常规标准。
+> **[[Research Tool|研究工具]]** Barth/Shermis 社会科偏好量表（BSSPS），45 题 Likert 量表，在美国、埃及和尼日利亚等不同文化中广泛使用，已满足信度和[[Internal Consistency\|内部一致性]]信度的常规标准。
 >
 > **三种社会科传统／哲学取向**
 > - **公民传递（Citizenship Transmission）** 向年轻人灌输社会基本价值观，最古老的传统。

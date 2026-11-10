@@ -12,9 +12,9 @@ subtype: policy
 region: "finland"
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 10
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 9
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: "Parliament of Finland"
 tags:
@@ -24,35 +24,34 @@ tags:
   - level/vocational
   - policy/educational-reform
 related_concepts:
-  - "[[Soft Privatisation]]"
-  - "[[Quasi-market]]"
   - "[[Education Export]]"
-  - "[[Transnational Education]]"
-  - "[[Competition State]]"
-related_theories:
-  - "[[Governmentality]]"
-related_methods:
-  - "[[Post-structural Policy Analysis]]"
+  - "[[Discourse]]"
+  - "[[Study Abroad]]"
+  - "[[Soft Privatisation]]"
+related_theories: []
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Finnish Government Education Export Programme]]"
-  - "[[Education Finland]]"
+  - "[[Omnia Education Partnerships]]"
+  - "[[EU]]"
+  - "[[GATS and Trade in Education Services]]"
+  - "[[Finnish National Board of Education]]"
 related_arguments:
   - "[[Argument_Kuortti_2025_JEdPolicy]]"
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2021 年由芬兰总理府与教育文化部（MINEDU）向国会正式提交，并经国会审议立法通过生效。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 384, 388)]]
-> - **适用地区 / 对象** 全芬所有经国家教育部许可的公立职业院校、市镇联合职业培训中心（如 Omnia）以及参与教育出口的职教联盟。
-> - **问题背景** 在既有《职业教育与培训法》框架下，文凭授予被严格限定在芬兰本土境内且必须遵循免收学费的福利原则，导致公立职校赴海外设立分校或开展跨境文凭收费面临直接违法风险。官方政策话语将这一保障公民受教育权的法律防线定性为束缚商业出海的过时壁垒。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 384, 388)]]
-> - **制度位置** 继 2015 年国会立法强制对大学非欧盟留学生征收学费后，国家在中等职业教育领域推行去规制化与市场准入的最重大法律修订。
+> - **适用地区 / 对象** 全芬所有经国家教育部许可的公立职业院校、市镇联合职业培训中心（如 [[Omnia Education Partnerships|Omnia]]）以及参与[[Education Export|教育出口]]的职教联盟。
+> - **问题背景** 在既有《职业教育与培训法》框架下，文凭授予被严格限定在芬兰本土境内且必须遵循免收学费的福利原则，导致公立职校赴海外设立分校或开展跨境文凭收费面临直接违法风险。官方政策[[Discourse|话语]]将这一保障公民受教育权的法律防线定性为束缚商业出海的过时壁垒。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 384, 388)]]
+> - **制度位置** 继 2015 年国会立法强制对大学非[[EU|欧盟]][[Study Abroad|留学]]生征收学费后，国家在中等职业教育领域推行去规制化与市场准入的最重大法律修订。
 
 ---
 
@@ -60,7 +59,7 @@ updated: 2026-11-10
 > 法案正式破除了公立职业教育文凭的法定属地办学限制与免费禁令，依法特许经国家认证的公立职业培训机构，在公办体制外单独设立拥有独立法人地位的私法有限责任公司（LLC），面向欧盟／欧洲经济区以外的海外机构、政府或个人提供全额有偿的学历与专业资格认证。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 388–389)]]
 
 > [!policy-design] 政策设计
-> - **政策目标** 激活职业教育机构出海开拓国际商业生源的积极性；填补芬兰职业教育服务贸易空白；实现以离岸文凭创收反哺国内公共职业办学经费。
+> - **政策目标** 激活职业教育机构出海开拓国际商业生源的积极性；填补芬兰职业[[GATS and Trade in Education Services|教育服务贸易]]空白；实现以离岸文凭创收反哺国内公共职业办学经费。
 > - **适用对象** 芬兰境内全部公立职业学院、市镇职业教育联合体及其新设的商业出口控股实体。
 > - **政策工具** 设立出口专门特许资质（Export Licensing）、赋权设立私法全资子公司、松绑跨境学历授予地域范围。
 > - **双轨法人约束机制** 明确规定公办母体本身的法定免费办学性质不变，跨境有偿培训必须严格剥离至外部有限责任公司运作，实行公私分账核算以规避不正当竞争质疑。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 388)]]
@@ -82,7 +81,7 @@ updated: 2026-11-10
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 芬兰国会（Parliament of Finland）与总理府。
-> - **执行与监管主体** 芬兰教育文化部（MINEDU）与芬兰国家教育局（FNAE/OPH）。
+> - **执行与监管主体** 芬兰教育文化部（MINEDU）与芬兰国家教育局（FNAE/[[Finnish National Board of Education|OPH]]）。
 > - **运作实体** 埃斯波职业学院（Omnia）、哈梅职业联合会等公立机构旗下设立的私营教育出口有限责任公司。
 > - **政策工具** 商业牌照审核、离岸质量合规抽检及海外签证外事协调。
 

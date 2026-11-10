@@ -5,7 +5,7 @@ aliases:
 summary: "中国二十一世纪初提出的一种关于民族整合的政策主张，主张借鉴美国熔炉模式，废除区域自治与优惠政策，将各民族融为统一的中华民族国族"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Boarding Schools]]"
   - "[[Discourse]]"
   - "[[Depoliticalization of Ethnic Policy]]"
+  - "[[Nationalism]]"
   - "[[Retrotopia]]"
 related_theories:
   - "[[Necropolitics]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -57,7 +58,7 @@ updated: 2026-11-03
 > |------|--------|----------------|----------------|
 > | **分析与建构目标** | 建立单一“[[Zhonghua Minzu\|中华民族]]”国族（熔炉模式） | 维系“多民族国家”与 56 个平行的民族身份 | 将“民族”降格为去政治的文化“族群” |
 > | **核心治理机制** | 废除区域自治与优惠，推广国家通用语言，强化公民权 | 实施民族识别，建立民族区域自治与优惠制度 | 解构少数民族的宪法政治地位，消除主权索求 |
-> | **理论渊源** | 美国熔炉论、国家安全与单一国族主义 | 马列主义民族理论、苏联民族自治模式 | 西方社会建构论、人类学族群学说 |
+> | **理论渊源** | 美国熔炉论、国家安全与单一[[Nationalism\|国族主义]] | 马列主义民族理论、苏联民族自治模式 | 西方社会建构论、人类学族群学说 |
 
 ---
 

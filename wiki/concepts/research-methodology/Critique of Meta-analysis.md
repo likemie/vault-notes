@@ -5,7 +5,7 @@ aliases:
 summary: "围绕元分析方法论前提、证据库与操作程序、统计推断、聚合后的政策用途和认识论立场形成的批评体系，并对照各项批评的方法学回应与遗留问题"
 type: concept
 domain: "research-methodology"
-related_count: 82
+related_count: 83
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Web-Based Learning]]"
   - "[[Cargo Cult Science]]"
+  - "[[Homophily]]"
   - "[[Bildung]]"
   - "[[Discourse]]"
   - "[[PICO Framework]]"
@@ -105,7 +106,7 @@ related_theories:
 confidence: medium
 status: draft
 created: 2026-07-13
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -283,7 +284,7 @@ updated: 2026-11-03
 > **提取失真与选择性处理** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 指出，《[[Visible Learning|可见的学习]]》隐去计算公式，对样本量悬殊的元分析做无加权平均，呈现出[[Cargo Cult Science\|货物崇拜科学]]的特征。Glass and Smith 的[[Class Size\|班级规模]]研究显示班额从 40 人降到 1 人时成绩百分位从 50 升至 80 以上、班额低于 20 人时曲线明显变陡，却被压缩为线性的 $d = 0.09$，且混入了大学大班讲座的研究 [[Argument_Johnson_2023_CritEduc\|(Johnson & Janzen, 2023, pp. 32–33)]]。[[Argument_OConnor_2020_AJLL|O'Connor (2020)]] 以[[Whole Language\|全语言]]（$d = 0.06$）为例，揭示分类错误、不对称审查与选择性修正；[[Argument_ONeill_2012_NZJES|O'Neill (2012)]] 指出把早教、学校与高等教育研究混合综合会扭曲排名，例如“教学质量”的证据全部来自大学生评教，却被用来论证增加中小学班级规模的合理性 [[Argument_ONeill_2012_NZJES\|(O'Neill, 2012, pp. 155–156)]]。
 
 > [!claim] [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]]
-> **效应量过度离散** 对《可见的学习》133 项正值效应量计算变差系数，全库达 56.87%，远超 33% 的同质性标准，学生、学校、教师三个子领域分别为 71.24%、65.97%、51.01%；在如此离散的数据上输出单一的 $d = 0.40$ 关节点缺乏数理依据。[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019, pp. 238–241)]]
+> **效应量过度离散** 对《可见的学习》133 项正值效应量计算变差系数，全库达 56.87%，远超 33% 的[[Homophily|同质性]]标准，学生、学校、教师三个子领域分别为 71.24%、65.97%、51.01%；在如此离散的数据上输出单一的 $d = 0.40$ 关节点缺乏数理依据。[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019, pp. 238–241)]]
 
 > [!concept-proposition] 命题十｜排行榜与通俗化指标把不确定的证据变成伪精确的政策信号
 > **从证据到决策的降维** 当平均效应量被排成气压计、排行榜或“额外学习月数”时，变异、比较组与证据质量等信息在转译中进一步流失，决策者看到的是一个看似确定的顺序。

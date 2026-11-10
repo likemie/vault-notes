@@ -11,7 +11,7 @@ subtype: organization
 region: "us"
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 7
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -30,7 +30,8 @@ related_concepts:
   - "[[Demonstration Effect]]"
   - "[[Research Universities]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Cognitive Extent]]"
 related_instruments: []
 related_persons:
   - "[[J. Robert Oppenheimer]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -53,7 +54,7 @@ updated: 2026-10-22
 > - **成立时间 / 创设背景** 创设于 1930 年，由教育改革家亚伯拉罕·弗莱克斯纳（Abraham Flexner）与班伯格兄妹慈善捐资联合设立，践行“无用知识的有用性（The Usefulness of Useless Knowledge）”办学理念。
 > - **总部地点 / 业务辐射** 位于美国新泽西州普林斯顿，虽毗邻普林斯顿大学并在学术上紧密合作，但在法人、财务与治理上保持完全独立。
 > - **法人属性与经费基础** 501(c)(3) 独立非营利研究机构，经费依托数十亿美元独立捐赠基金、私人慈善捐款与国家级竞争性研究资助。
-> - **核心宗旨与法定职责** 聚集全球最杰出的学术头脑，在其学术生涯全盛期赋予绝对的思想自由，推动人类在基础科学与人文学科认知疆界的根本突破。
+> - **核心宗旨与法定职责** 聚集全球最杰出的学术头脑，在其学术生涯全盛期赋予绝对的思想自由，推动人类在基础科学与人文学科[[Cognitive Extent|认知疆界]]的根本突破。
 
 ---
 

@@ -29,7 +29,7 @@ title: "Argument_Zhao_2025_JIntell"
 argument_key: "Argument_Zhao_2025_JIntell"
 argument_display_title: "Does generative artificial intelligence improve students' higher-order thinking? A meta-analysis based on 29 experiments and quasi-experiments"
 argument_kind: "journal-article"
-argument_related_count: 64
+argument_related_count: 67
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -37,7 +37,7 @@ sources:
   - "[[sources/Zhao_2025_JIntell/Zhao_2025_JIntell|Zhao_2025_JIntell]]"
 journal: "Journal of Intelligence"
 created: 2026-09-05
-updated: 2026-10-29
+updated: 2026-11-11
 related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -61,6 +61,7 @@ related_concepts:
   - "[[Learner Autonomy]]"
   - "[[Domain Specificity]]"
   - "[[Structured Teaching]]"
+  - "[[Algorithmic Bias]]"
   - "[[Divergent Thinking]]"
   - "[[Project-Based Learning]]"
   - "[[Blended Learning]]"
@@ -76,6 +77,7 @@ related_concepts:
   - "[[Brainstorming]]"
   - "[[AI Hallucination]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Grit]]"
   - "[[Interaction Effect]]"
   - "[[Task Structure]]"
   - "[[Coding Education]]"
@@ -102,6 +104,7 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Analysis of Variance]]"
 related_facts:
+  - "[[Dimensions]]"
   - "[[FocusMath]]"
 related_persons:
   - "[[Socrates]]"
@@ -137,7 +140,7 @@ status: draft
 > | **[[Cognitive Offloading\|认知外包]]与捷径学习假设（Cognitive Offloading & Shortcut Learning Hypothesis）**<br>Risko & Gilbert / Kooli / Du et al. | 揭示学生过度依赖大模型输出时的“心智委托”机制；阐明当缺乏主动反思与批判意识时，学生极易直接照搬 AI 给出的现成答案，跳过动脑思考的过程，导致独立分析能力退化、创意枯竭。 |
 
 > [!row-contrast] 跨学科[[Higher-Order Thinking Skills\|高阶思维]]核心维度分类
-> | 代表学者（年份） | 学科领域 | 高阶思维核心维度（Core Dimensions of HOT） | 理论共识与[[Operationalization\|操作化]]焦点 |
+> | 代表学者（年份） | 学科领域 | 高阶思维核心维度（Core [[Dimensions]] of HOT） | 理论共识与[[Operationalization\|操作化]]焦点 |
 > |---|---|---|---|
 > | **Liu (2022)** | 数学教育 | [[Critical Thinking\|批判性思维]]、[[Creativity\|创造性思维]]、问题解决技能、[[Metacognition\|元认知]] | [[FocusMath\|聚焦数学]]劣构情境中的多路径建模与反思推演 |
 > | **Xu et al. (2024)** | 信息技术教育 | 问题解决能力、[[Computational Thinking\|计算思维]]、[[Creativity\|创造力]] | 关注算法设计、逻辑排错与动态情境适应能力 |
@@ -162,7 +165,7 @@ status: draft
 > | **干预变量：多模态与生成式共创工具**<br>（Multimodal & Co-Creative Generative AI Tools） | 具备文本、代码、图像、三维草图跨模态实时生成能力的协同创作工具，通过提供多样化的联想线索与构想草图，帮助学生拓宽创意思路并快速生成原型。 | 教学规程：开放提示词设计 $\to$ AI 实时生成多样化方案原型与视觉变体 $\to$ 学生对比甄别、重组并开展人工迭代深化；典型工具：Midjourney, DALL-E, 智能协同设计平台；纳入 Huang et al. (2024a, 创新设计工坊)、Alzubi et al. (2025, 发散思维训练)。 |
 > | **结果变量：[[Higher-Order Thinking Skills\|高阶思维总体表现]]**<br>（Overall HOT Outcome） | 超越机械事实回忆与常规算法套用的高级复杂心智运作系统，要求在非结构化真实情境中进行深层认知加工、证据评估、多路径探索与综合判断。 | 提取实验组（Gen-AI 介入）与对照组（传统教学或无 Gen-AI）的后测均值、标准差与样本量，汇总为无偏 Hedges' $g$ [[Effect Size\|效应量]]；纳入 29 项实验/准实验的全部 59 个独立效应量（总体合并 $g = 0.609$）。 |
 > | **结果变量：[[Problem Solving\|问题解决能力]]**<br>（Problem-Solving Dimension） | 面对复杂且没有现成既定解法的情境时，学习者拆解问题、分析约束条件、多路径探索方案并反复调试验证的综合实践能力。 | 编码为 16 个独立效应量（$k = 16, g = 0.745$）；采用复杂编程排错任务评分、真实劣构情境解决测验或项目表现性量规评定（如 Sun et al., 2024; Xu et al., 2024）。 |
-> | **结果变量：[[Critical Thinking\|批判性思维]]**<br>（Critical Thinking Dimension） | 审视论据效力、识别逻辑漏洞与算法偏见、基于理性标准展开反思评估、质疑辩驳与多源求证的高阶思维能力。 | 编码为 20 个独立效应量（$k = 20, g = 0.691$）；采用加州批判性思维倾向/技能问卷（CCTDI/CCTST）、人机辩论对抗表现量规或学术论证质量评估测定（如 Guo et al., 2023; Zheng et al., 2024）。 |
+> | **结果变量：[[Critical Thinking\|批判性思维]]**<br>（Critical Thinking Dimension） | 审视论据效力、识别逻辑漏洞与[[Algorithmic Bias\|算法偏见]]、基于理性标准展开反思评估、质疑辩驳与多源求证的高阶思维能力。 | 编码为 20 个独立效应量（$k = 20, g = 0.691$）；采用加州批判性思维倾向/技能问卷（CCTDI/CCTST）、人机辩论对抗表现量规或学术论证质量评估测定（如 Guo et al., 2023; Zheng et al., 2024）。 |
 > | **结果变量：[[Creativity\|创造力]]与[[Divergent Thinking\|发散思维]]**<br>（Creativity & Divergent Thinking Dimension） | 突破思维定势、构想新颖独特视角、建立远距离联想并提出兼具独创性与可行性解决方案的生成性思维品质。 | 编码为 23 个效应量（$k = 23, g = 0.444$）；采用托兰斯发散思维测验（TTCT）、创意产品设计量规、开放任务构想新颖性与多样性评分测定（如 Huang et al., 2024a; Alzubi et al., 2025）。 |
 > | **调节变量：干预持续时长**<br>（Intervention Duration） | 生成式 AI 教学干预周期的持续时间跨度，分为三分类：短周期（$1 = 0$–8 周）、中周期（$2 = 8$–16 周）、长周期（$3 = >16$ 周）。 | 0–8 周（$k = 15, g = 0.494$）；8–16 周（$k = 31, g = 0.759$）；$>16$ 周（$k = 13, g = 0.372$）；组间差异显著（$p = 0.011$），检验技术新奇效应衰减与长期认知依赖风险。 |
 > | **调节变量：学习者学段层次**<br>（Educational Stage） | 学习者所处的正规教育梯次，分为两分类：基础教育阶段（$1 =$ K-12）与高等教育及成人阶段（$2 =$ Post-secondary）。 | K-12 阶段（$k = 13, g = 0.857$）；高等教育阶段（$k = 46, g = 0.539$）；组间边缘显著（$p = 0.067$），检验不同教师监管力度与学术自主性情境下的促学效应差异。 |
@@ -307,7 +310,7 @@ status: draft
 > 这一级差深刻揭示了大语言模型的统计规律与人类不同思维方式之间的契合度：
 > 1. **AI 与[[Problem Solving\|问题解决]]的探索流程天然吻合** 解决复杂问题高度依赖多路径探索、分析边界约束与反复测试排错。生成式 AI 擅长快速提供多种替代解法和排错建议，与问题解决循序渐进的步骤非常契合，能高效充当“解题助手”，因此对问题解决能力的提升最为显著（$g = 0.745$）。
 > 2. **AI 偶尔犯错反而成了训练批判性思维的“磨刀石”** 批判性思维的核心在于“反思与求证”。在合理的教学引导下，生成式 AI 偶尔出现的事实错误与“胡说八道”（算法幻觉）并没有成为学习障碍，反而带来了一个绝佳的反思训练契机：正因为 AI 会犯错，学生不敢再盲从它的回答，而是带着怀疑眼光主动去查阅一手资料与[[Primary and Secondary Documents\|原始文献]]、推敲逻辑漏洞并提出质疑。这种“给 AI 挑错”的人机互动，在客观上极大地激发了学生的审思意识，使批判性思维得到了显著提升（$g = 0.691$）。
-> 3. **AI 内容同质化对突破性创意的制约（平庸均值瓶颈）** 真正的创造力重在“打破常规与独创性”。然而大语言模型本质上是基于海量语料计算概率，其输出天然偏向挑不出错但也最平庸的“大众平均水平”（即中规中矩的常规套路与模板）；学生在使用时若缺乏深究毅力，极易偷懒直接套用 AI 给出的现成思路（走捷径），导致作品千篇一律、缺乏突破性灵感，因而在客观上限缩了创造力维度的提升幅度（$g = 0.444$）。
+> 3. **AI 内容同质化对突破性创意的制约（平庸均值瓶颈）** 真正的创造力重在“打破常规与独创性”。然而大语言模型本质上是基于海量语料计算概率，其输出天然偏向挑不出错但也最平庸的“大众平均水平”（即中规中矩的常规套路与模板）；学生在使用时若缺乏深究[[Grit|毅力]]，极易偷懒直接套用 AI 给出的现成思路（走捷径），导致作品千篇一律、缺乏突破性灵感，因而在客观上限缩了创造力维度的提升幅度（$g = 0.444$）。
 
 > [!case] 代表性实证案例：导向型化学学习助手 GCLA（Lee et al., 2024）
 > - **研究背景与系统机制** Lee et al. (2024) 针对高校化学学习中多步反应机理推演难度大、学生易退缩的问题，开发了基于 ChatGPT 的**导向型化学学习助手（Guided Chemistry Learning Assistant, GCLA）**。

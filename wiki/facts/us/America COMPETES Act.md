@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ tags:
 related_concepts:
   - "[[Research Universities]]"
   - "[[STEM Education]]"
+  - "[[Early-Career Researchers]]"
   - "[[Competitiveness]]"
   - "[[Externalization]]"
 related_theories: []
@@ -53,7 +54,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -72,7 +73,7 @@ updated: 2026-10-30
 > [!policy-design] 政策设计
 > - **政策目标** 巩固美国在前沿物理科学与工程领域的全球领导地位，充盈国家基础科研知识池，扩充高层次理工科拔尖创新人才梯队。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
 > - **适用对象** 联邦资助机构主管、[[Research Universities|研究型大学]]科研人员、K-12 理科教师及 STEM 领域研究生。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]
-> - **政策工具** 设立预算倍增轨道（Budget Doubling Path）、创建高级能源研究计划署（[[DARPA|ARPA]]-E）、设立国家数学与科学教师奖学金（Robert Noyce 奖学金）并资助大学青年学者早期职业发展（CAREER 奖项）。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]
+> - **政策工具** 设立预算倍增轨道（Budget Doubling Path）、创建高级能源研究计划署（[[DARPA|ARPA]]-E）、设立国家数学与科学教师奖学金（Robert Noyce 奖学金）并资助大学[[Early-Career Researchers|青年学者]]早期职业发展（CAREER 奖项）。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]
 > - **约束机制** 建立[[National Science and Technology Council|国家科学技术委员会]]（NSTC）跨部门统筹与绩效问责，要求政府问责局（GAO）定期实施项目执行审计。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]]
 
 > [!citation-card] 历史审计揭示的拨款落差

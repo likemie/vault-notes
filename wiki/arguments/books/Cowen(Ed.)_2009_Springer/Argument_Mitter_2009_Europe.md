@@ -28,6 +28,7 @@ related_concepts:
   - "[[Allgemeine Pädagogik]]"
   - "[[Knowledge Production]]"
   - "[[Document]]"
+  - "[[Transnational Education]]"
   - "[[Unit of Analysis]]"
   - "[[Enlightenment]]"
   - "[[Geisteswissenschaften]]"
@@ -42,6 +43,7 @@ related_concepts:
   - "[[Development Education]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Competitiveness]]"
+  - "[[Dual Frontier]]"
   - "[[Insider-Outsider Perspective in Comparative Education]]"
   - "[[Educational Meliorism]]"
   - "[[Disciplinary Institutionalization]]"
@@ -127,16 +129,16 @@ sources:
 part_of: "[[Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-28
-updated: 2026-10-30
+updated: 2026-11-11
 subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Mitter_2009_Europe"
 argument_key: "Argument_Mitter_2009_Europe"
 argument_display_title: "Comparative Education in Europe"
 argument_kind: "book-chapter"
-argument_related_count: 99
-argument_related_level: 9
-argument_related_stars: "💎💎💎"
+argument_related_count: 101
+argument_related_level: 10
+argument_related_stars: "💎💎💎⭐"
 argument_related_color: "#fecdd3"
 book_title: "International Handbook of Comparative Education"
 publication_place: "Dordrecht"
@@ -217,7 +219,7 @@ publisher: "Springer"
 19 世纪民族国家的崛起，将公共教育主权牢牢锚定在领土边界之内，确立了比较教育最基本的经验容器。（p.87）
 
 > [!claim] 民族国家对教育主权的垄断奠定了比较教育的经验容器
-> 19 世纪初，[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）曾构想在神圣同盟的欧洲版图内建立跨国教育比较体系，寄望以实证数据促进欧洲的和平治理。然而，这一启蒙主义构想很快被法国大革命后席卷全欧的民族国家浪潮所取代。（p.87）在整个 19 和 20 世纪，民族国家确立了对公共教育主权的全面垄断，使得以领土为边界的[[National Education|国民教育]]体制成为比较教育最主要、最持久的[[Unit of Analysis|分析单元]]。（pp.87, 94）
+> 19 世纪初，[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）曾构想在神圣同盟的欧洲版图内建立[[Transnational Education|跨国教育]]比较体系，寄望以实证数据促进欧洲的和平治理。然而，这一启蒙主义构想很快被法国大革命后席卷全欧的民族国家浪潮所取代。（p.87）在整个 19 和 20 世纪，民族国家确立了对公共教育主权的全面垄断，使得以领土为边界的[[National Education|国民教育]]体制成为比较教育最主要、最持久的[[Unit of Analysis|分析单元]]。（pp.87, 94）
 
 然而，欧洲比较教育学者从未放弃对共同精神传统的追寻。在国别制度的多样性背后，欧洲统一性的文化理想始终发挥着向心凝聚作用。（p.88）
 
@@ -335,7 +337,7 @@ publisher: "Springer"
 
 ### 论证步骤六　全球化扩张、跨文化教育挑战与重返欧洲维度共同塑造学科未来走向
 
-置身 21 世纪初的新全球化语境，欧洲比较教育在地理跨度与学术语言上面临双重前沿挑战：（pp.96–97）
+置身 21 世纪初的新全球化语境，欧洲比较教育在地理跨度与学术语言上面临[[Dual Frontier|双重前沿]]挑战：（pp.96–97）
 
 > [!challenges] 跨洲比较视界扩张与学术语言张力
 > - **[[Insider-Outsider Perspective in Comparative Education|内外视角]]的辩证平衡** 全球化要求展开跨大洲横向比较，研究者必须将本土专家的深度内部洞察与外来学者的审慎疏离视界（Verfremdung）辩证结合，确立[[Insider-Outsider Perspective in Comparative Education|比较教育中的内外视角]]，克服各自的认知盲区。（pp.96–97）

@@ -11,7 +11,7 @@ aliases:
 summary: "通过显性认知策略、启发式重构工具、建构主义探究环境与情境指导语，系统识别、激发与提升个体与群体创造潜能的教育教学干预方案。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -55,6 +55,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Domain Specificity]]"
   - "[[Independent Knowing]]"
+  - "[[Grit]]"
   - "[[Champ]]"
   - "[[Criterion Problem]]"
   - "[[Heterogeneity]]"
@@ -86,7 +87,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 > [!def] Creativity Training
@@ -326,7 +327,7 @@ updated: 2026-11-03
 > > 争论脱敏[[Divergent Thinking\|发散思维]]测验分数的提升能否有效转化为真实生活中的重大创新成果。
 > >
 > > - **Rose and Lin (1984)** 证实训练对标准化发散思维测验具有即时且显著的促进效应（$d = 0.47 \sim 0.58$）。
-> > - **Runco (2026)** 指出测验分数的提升主要反映构想生成潜能，向真实世界复杂产品与卓越成就的跨越受到动机毅力、知识积淀与社会[[Champ\|场域]]的多重约束。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 8)]]
+> > - **Runco (2026)** 指出测验分数的提升主要反映构想生成潜能，向真实世界复杂产品与卓越成就的跨越受到动机[[Grit|毅力]]、知识积淀与社会[[Champ\|场域]]的多重约束。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 8)]]
 >
 > > [!axis] 训练周期：长程持续灌输 vs 短期高强度工作坊
 > > 争论创造力培养应贯穿数年常规教学，还是依托短期密集模块化干预。

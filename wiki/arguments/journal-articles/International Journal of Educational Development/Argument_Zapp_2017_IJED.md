@@ -38,7 +38,9 @@ related_concepts:
   - "[[Virtual University]]"
   - "[[Online Education]]"
   - "[[Structural Adjustment Programs]]"
+  - "[[Early-Career Researchers]]"
   - "[[Heterogeneity]]"
+  - "[[Transnational Education]]"
   - "[[General Purpose Technology]]"
   - "[[Gamification]]"
   - "[[School Autonomy]]"
@@ -53,6 +55,7 @@ related_methods:
   - "[[Secondary Analysis]]"
   - "[[Trend Study]]"
   - "[[Documentary Analysis]]"
+  - "[[Journal Impact Factor]]"
   - "[[Bibliometric Analysis]]"
   - "[[Analytic Framework]]"
 related_instruments: []
@@ -70,6 +73,7 @@ related_facts:
   - "[[Open Knowledge Repository]]"
   - "[[Systems Approach for Better Education Results]]"
   - "[[Skills Toward Employment and Productivity]]"
+  - "[[Scopus]]"
   - "[[Third Elementary Education Project in India]]"
   - "[[Open Learning Campus]]"
   - "[[Strategic Compact]]"
@@ -97,16 +101,16 @@ sources:
 part_of: ""
 status: active
 created: 2026-10-22
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Zapp_2017_IJED"
 argument_key: "Argument_Zapp_2017_IJED"
 argument_display_title: "The World Bank and education: Governing (through) knowledge"
 argument_kind: "journal-article"
-argument_related_count: 67
-argument_related_level: 6
-argument_related_stars: "💎💎"
+argument_related_count: 71
+argument_related_level: 7
+argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
 journal: "International Journal of Educational Development"
 book_title: ""
@@ -151,7 +155,7 @@ issuing_organization: ""
 > [!index-table] 核心[[Variable|变量]][[Operationalization|操作化]]定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
-> | **知识生产规模与产出强度**<br>（Outcome Code: Knowledge Production） | 国际组织直接从事或资助原创性社会科学研究所调动的物质资本与学术产出总量。 | 测量指标包括：DEC 专属科研预算（2009–2012 年为 2.44 亿美元）、教育专项研究支出（2001–2010 年为 4,900 万美元完成 280 项课题）、Scopus 跨期学术发表成果（1977–2013 年达 106 篇核心论著）及出版物总库（19,000+ 份成果，教育产出达 13 所顶尖高校均值 3 倍）。 |
+> | **知识生产规模与产出强度**<br>（Outcome Code: Knowledge Production） | 国际组织直接从事或资助原创性社会科学研究所调动的物质资本与学术产出总量。 | 测量指标包括：DEC 专属科研预算（2009–2012 年为 2.44 亿美元）、教育专项研究支出（2001–2010 年为 4,900 万美元完成 280 项课题）、[[Scopus]] 跨期学术发表成果（1977–2013 年达 106 篇核心论著）及出版物总库（19,000+ 份成果，教育产出达 13 所顶尖高校均值 3 倍）。 |
 > | **知识管理集中化与标准化程度**<br>（Intervention / Mechanism Code: Knowledge Management） | 将碎片化国别经验清洗、归纳为普适最佳实践，并构建跨国可比度量量规的制度化能力。 | 测量指标包括：开放知识库（OKR，收录 6,900+ 份教育文献，日均下载 6,164 次）、改善教育成果系统分析法（SABER，13 个政策领域，4 级成熟度量规，2014 年完成 200+ 次跨国诊断与 55 份国别报告）及 [[Skills Toward Employment and Productivity\|STEP]] 成人技能测试（9 国测评数据）。 |
 > | **知识传播广度与实地干预深度**<br>（Outcome / Diffusion Code: Knowledge Transmission） | 将标准化知识向全球科学界、决策官员和借贷项目一线进行全方位灌输与制度化植入。 | 测量指标包括：开放学习园区（Open Learning Campus, OLC，开设 100+ 门政策研修课程并颁发认证）、教育援助与贷款项目总数（1947 年以来逾 10,000 个项目，总投资 690 亿美元，1998–2013 年覆盖 110 国）及典型实地巨型项目（[[Third Elementary Education Project in India\|印度基础教育三期项目]] 10 亿美元、罗马尼亚中等教育项目 2 亿欧元）。 |
 >
@@ -167,7 +171,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **[[Secondary Analysis\|二手数据分析]]与纵向统计**<br>Secondary and Longitudinal Data Analysis | 采集并分析[[World Bank\|世界银行]]年度研究汇编（1973–2009 年官方研究课题）、教育统计数据库（Education Statistics, EdStats，涵盖 1962–2010 年教育贷款与项目数据）及官方财务与人力报告，对教育投资序列与科研项目总量展开长时段趋势追踪。 |
-> | **[[Trend Study\|趋势计量分析]]与文献检索**<br>Bibliometric and Trend Analysis | 检索爱思唯尔 Scopus 跨学科引文数据库中 1977 至 2013 年间标题或关键词含教育相关词汇的世界银行学术产出（共 106 篇核心学术文献），结合世行出版物数据库（1973 年以来逾 19,000 份成果）与 Ravallion and Wagstaff (2012) 的高校产出对比数据进行计量评估。 |
+> | **[[Trend Study\|趋势计量分析]]与文献检索**<br>Bibliometric and Trend Analysis | 检索爱思唯尔 [[Scopus]] 跨学科引文数据库中 1977 至 2013 年间标题或关键词含教育相关词汇的世界银行学术产出（共 106 篇核心学术文献），结合世行出版物数据库（1973 年以来逾 19,000 份成果）与 Ravallion and Wagstaff (2012) 的高校产出对比数据进行计量评估。 |
 > | **[[Documentary Analysis\|政策文献与引文演化分析]]**<br>Documentary and Citation Analysis | 系统解构 1978–2013 年间历届《世界发展报告》（World Development Report, WDR）及 1971、1974、1980、1999、2006、2011 年六部旗舰教育部门政策与战略文本，统计并对比其报告篇幅、学术引文数量与引用构成的演化规律。 |
 
 > [!sample-panel]- 样本与材料快照
@@ -264,7 +268,7 @@ issuing_organization: ""
 
 > [!feature] 实体化科研机构与预算管理构件
 > - **专职科研编制** [[Development Economics Vice Presidency|发展经济学研究局]]（DEC）拥有 122 名拥有终身或短期研究合同的专职研究员，下设研究部与数据部负责基础实证知识生成。
-> - **旗舰学术科研资助** 自 1980 年代起设立[[Robert S. McNamara Fellowships Program|麦克纳马拉研究员奖学金项目]]（Robert S. McNamara Fellowships Program）与日本/世行联合研究生奖学金计划，专项全额资助发展中国家青年学者开展境外政策实证研究，累计培育逾 5,000 名青年科研骨干并形成全球校友网络。
+> - **旗舰学术科研资助** 自 1980 年代起设立[[Robert S. McNamara Fellowships Program|麦克纳马拉研究员奖学金项目]]（Robert S. McNamara Fellowships Program）与日本/世行联合研究生奖学金计划，专项全额资助发展中国家[[Early-Career Researchers|青年学者]]开展境外政策实证研究，累计培育逾 5,000 名青年科研骨干并形成全球校友网络。
 > - **科研课题规模** 涵盖 8 大跨领域研究计划，每年持续推进超过 360 项研究课题；其中人类发展与公共服务计划承载了最密集的教育研究。
 > - **科研经费投资** 2009–2012 年间 DEC 专属科研预算达 2.44 亿美元（占总行政预算的 2.9%）；2001 至 2010 年间教育科研直接支出达 4,900 万美元，完成了 280 项高阶研究与分析成果。
 > - **历时性课题激增** 1973–2009 年官方研究课题汇编统计表明，世行资助的研究课题总数由 1973 年的 54 项增至 1985 年的 110 项、1995 年的 180 项，并在 2006 年达到 285 项的峰值。
@@ -278,7 +282,7 @@ issuing_organization: ""
 > [!figure]- 图 3　世界银行全行出版物组合演变趋势（1978–2006年）
 > ![](https://img.mylikemie.icu/sources/Zapp_2017_IJED/figures/Zapp_2017_IJED_Fig3_WB_Publication_Portfolio_Evolution_1978-2006.png)
 
-Scopus 文献计量数据进一步揭示了世界银行在教育学科领域的惊人发表增长。
+[[Scopus]] 文献计量数据进一步揭示了世界银行在教育学科领域的惊人发表增长。
 
 > [!figure]- 图 4　世界银行教育领域学术出版物规模演化趋势（1977–2013年，基于 Scopus）
 > ![](https://img.mylikemie.icu/sources/Zapp_2017_IJED/figures/Zapp_2017_IJED_Fig4_WB_Publications_in_Education_1977-2013.png)
@@ -289,7 +293,7 @@ Scopus 文献计量数据进一步揭示了世界银行在教育学科领域的�
 > - **总量规模庞大** [[Martin Ravallion|马丁·拉瓦利安]]与瓦格斯塔夫（Ravallion & Wagstaff, 2012）统计显示，世行累计生产逾 19,000 份出版物（近 2,000 部学术专著、9,000 篇期刊篇目、4,000 篇政策研究工作文稿及 5,000 篇图书章节）；内部调查显示，69% 的教育部门专业人员具有极高科研倾向。
 > - **学科发表起飞** Scopus 数据库教育学术发表自 1990 年代中期起步并在 2000 年代初爆发式增长；1992 至 2005 年间年发文量由 4 篇增至 81 篇，2013 年达 106 篇，其中社会科学与经济管理学路径各占逾半数。
 > - **顶尖大学对比优势** 世界银行在教育领域的学术成果发表量达到全球 13 所最具产出能力顶尖大学平均水平的 3 倍；在高校对比测算中，仅哈佛大学在部分指标上接近世行产出水平，哥伦比亚大学、斯坦福大学与牛津大学均在发表总量上明显落后。
-> - **旗舰学术期刊网络** 世行出版物细分为 10 大类别与 484 个子系列，其中旗舰期刊《[[World Bank Economic Review|世界银行经济评论]]》（WBER，5 年影响因子 2.48）向非 OECD 国家 9,500 多个机构免费流通，与《世界银行研究观察》（WBRO）共同构成了全球覆盖面最广的专业发展经济学期刊阵地。
+> - **旗舰学术期刊网络** 世行出版物细分为 10 大类别与 484 个子系列，其中旗舰期刊《[[World Bank Economic Review|世界银行经济评论]]》（WBER，5 年[[Journal Impact Factor|影响因子]] 2.48）向非 OECD 国家 9,500 多个机构免费流通，与《世界银行研究观察》（WBRO）共同构成了全球覆盖面最广的专业发展经济学期刊阵地。
 
 ---
 
@@ -302,7 +306,7 @@ Scopus 文献计量数据进一步揭示了世界银行在教育学科领域的�
 
 > [!feature] 数字化文献仓储与多源测评汇聚网络
 > - **开放知识库（OKR）** 2012 年正式上线，收录全行 19,000 余份智力成果；教育是其中最大的单一领域，收录逾 6,900 份免费文献。2013 年单年下载量即达 225 万次，日均下载达 6,164 次，成为全球最具辐射力的数据仓库。
-> - **多源学生评估数据库合并** [[EdStats|教育统计查询系统]]（EdStats）整合了覆盖 242 个国家和地区的 3,261 项指标，更将高收入国家的国际测验（如[[PISA|国际学生评估项目]] [Programme for International Student Assessment, PISA]、[[TIMSS|国际数学与科学趋势研究]] [Trends in International Mathematics and Science Study, TIMSS]）与全球南方的区域性评估（如南部和东部非洲教育质量监测联合会 ([[SACMEQ|Southern and Eastern Africa Consortium for Monitoring Educational Quality]], SACMEQ)、法语国家教育系统分析项目 [Programme d'Analyse des Systèmes Éducatifs de la CONFEMEN, [[PASEC]]]、[[LLECE|拉丁美洲教育质量评估实验室]] [Latin American Laboratory for Assessment of the Quality of Education, LLECE] 及其第二次区域比较与解释性研究 [Second Regional Comparative and Explanatory Study, SERCE]）融合至统一中枢，构建了跨国教育成就的全球度量衡。
+> - **多源学生评估数据库合并** [[EdStats|教育统计查询系统]]（EdStats）整合了覆盖 242 个国家和地区的 3,261 项指标，更将高收入国家的国际测验（如[[PISA|国际学生评估项目]] [Programme for International Student Assessment, PISA]、[[TIMSS|国际数学与科学趋势研究]] [Trends in International Mathematics and Science Study, TIMSS]）与全球南方的区域性评估（如南部和东部非洲教育质量监测联合会 ([[SACMEQ|Southern and Eastern Africa Consortium for Monitoring Educational Quality]], SACMEQ)、法语国家教育系统分析项目 [Programme d'Analyse des Systèmes Éducatifs de la CONFEMEN, [[PASEC]]]、[[LLECE|拉丁美洲教育质量评估实验室]] [Latin American Laboratory for Assessment of the Quality of Education, LLECE] 及其第二次区域比较与解释性研究 [Second Regional Comparative and Explanatory Study, SERCE]）融合至统一中枢，构建了[[Transnational Education|跨国教育]]成就的全球度量衡。
 
 > [!sub-claim] 2. 四级成熟度量规将主权教育体制转译为[[General Purpose Technology|通用技术]]指标
 

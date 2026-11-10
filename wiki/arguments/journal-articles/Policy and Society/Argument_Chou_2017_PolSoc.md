@@ -7,9 +7,9 @@ title: "Argument_Chou_2017_PolSoc"
 argument_key: "Argument_Chou_2017_PolSoc"
 argument_display_title: "Higher education regionalism in Europe and Southeast Asia: Comparing policy ideas"
 argument_kind: "journal-article"
-argument_related_count: 59
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
+argument_related_count: 60
+argument_related_level: 6
+argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 journal: "Policy and Society"
 authors:
@@ -33,6 +33,7 @@ tags:
   - region/southeast-asia
   - level/higher-ed
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Bologna Process Export Thesis]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Discourse]]"
@@ -103,13 +104,13 @@ sources:
 part_of:
 status: active
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 ---
 
 > [!question]
-> 跨国高等教育区域合作如何在复杂的国际治理中形成持续动力？欧洲主导的[[Bologna Process Export Thesis|博洛尼亚进程输出假说]]能否解释东南亚的高教合作经验？宏观区域传统与全球[[Knowledge-Based Economy|知识经济]][[Discourse|话语]]如何塑造不同区域的政策理念、组织分工与治理结构？
+> [[Transnational Education|跨国高等教育]]区域合作如何在复杂的国际治理中形成持续动力？欧洲主导的[[Bologna Process Export Thesis|博洛尼亚进程输出假说]]能否解释东南亚的高教合作经验？宏观区域传统与全球[[Knowledge-Based Economy|知识经济]][[Discourse|话语]]如何塑造不同区域的政策理念、组织分工与治理结构？
 
 > [!claim] 核心主张
 > 欧洲与东南亚的[[Global Regionalisms|高等教育区域主义]]属于两种截然不同的制度类型。两地演进深受各自区域合作传统与全球知识话语的影响：欧洲依托[[Bologna Process|博洛尼亚进程]]形成了追求全域趋同的旗舰模式；东南亚立足[[ASEAN|东南亚国家联盟]]（Association of Southeast Asian Nations, ASEAN）倡导的[[ASEAN Way|东盟方式]]，发展出名校结网与部委协调并立的竞逐模式。这一实证发现[[Falsification|证伪]]了欧洲政策单向扩散的理论假说，表明[[Comparative Regionalism|比较区域主义]]应当以具体政策部门为[[Unit of Analysis|分析单位]]，立足实地田野开展扎根研究。

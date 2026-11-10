@@ -9,7 +9,7 @@ summary: "美国教育史学家与比较教育学家，密歇根大学比较教�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -24,6 +24,8 @@ related_concepts:
   - "[[Intercultural Education]]"
   - "[[International Education]]"
   - "[[Champ]]"
+  - "[[Transnational Education]]"
+  - "[[Nationalism]]"
   - "[[Influences Across Cultures]]"
   - "[[Scientific Paradigm]]"
   - "[[Postpositivism]]"
@@ -51,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -74,7 +76,7 @@ updated: 2026-11-02
 > - **1939** 受聘密歇根大学（University of Michigan）任教，迅速成长为美国公共教育发展史领域的代表性青年史学家。
 > - **1942–1945** 二战期间入伍服役，深入战地与跨国军事前线，亲历世界性动荡对人类文明的冲击，对单一民族国家史学的封闭性产生深刻反思。
 > - **1946–1960年代** 战后重返密歇根大学安娜堡校区，主导创立密歇根比较教育研究中心；参与筹建美国比较教育学会，积极联络欧美与非西方学者，成为 1950–1960 年代学科国际化拓展的领航学者之一。
-> - **1970年代** 持续主持跨国教育考察与比较教育研究生教学，指导[[Val D. Rust|瓦尔·拉斯特]]等人完成博士研究；从密歇根大学荣休。
+> - **1970年代** 持续主持[[Transnational Education|跨国教育]]考察与比较教育研究生教学，指导[[Val D. Rust|瓦尔·拉斯特]]等人完成博士研究；从密歇根大学荣休。
 > - **1997** 逝世于美国密歇根州。
 
 ---
@@ -82,7 +84,7 @@ updated: 2026-11-02
 > [!thought-timeline] 思想发展
 > - **1930年代至二战前 — 本土公共教育史学深耕** 恪守实证档案考据，系统梳理美国[[Common School Movement|公学运动]]、地方学区治理与平民教育普及史。
 >   - **阶段转向** 局限于单一美利坚民族国家内部制度演进的考据视野。
-> - **1940年代中至 1960年代 — 跨国比较视阈的奠立与建制化探索** 战后反思狭隘民族主义危害，将历史主义批判方法扩展至欧洲、亚洲及跨大西洋教育互动；呼吁比较教育学者必须具备全球视野与人道主义关怀。
+> - **1940年代中至 1960年代 — 跨国比较视阈的奠立与建制化探索** 战后反思狭隘[[Nationalism|民族主义]]危害，将历史主义批判方法扩展至欧洲、亚洲及跨大西洋教育互动；呼吁比较教育学者必须具备全球视野与人道主义关怀。
 >   - **代表著作** *Studies in the History of Higher Education* (1965); 密歇根大学系列比较教育考察报告。
 >   - **关键概念** [[Influences Across Cultures]]、人文历史传统、国际理解教育。
 >   - **阶段转向** 由“美国的学生”彻底转变为“世界的学生”，将单国历史方法升华提升为跨文化历史比较方法。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 123)]]

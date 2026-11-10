@@ -9,7 +9,7 @@ summary: "丹麦教育哲学学者，Visible Learning 五线批评与纯粹评�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 45
+person_related_count: 46
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -46,6 +46,7 @@ related_concepts:
 related_theories:
   - "[[Postmodernism]]"
   - "[[Radical Constructivism]]"
+  - "[[Didactic Triangle]]"
   - "[[Behaviorism]]"
 related_methods:
   - "[[Meta-analysis]]"
@@ -74,7 +75,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -119,7 +120,7 @@ updated: 2026-11-10
 ---
 
 > [!claim] 核心思想
-> 罗默的思想立足于欧陆教化与教学论传统，以[[John Dewey|杜威]]、[[Immanuel Kant|康德]]、[[Hannah Arendt|阿伦特]]、波普尔与比斯塔的批判哲学为思想资源，主张教育本质上是面向不确定未来的生长、启迪与精神交往，坚决抵制将教育降格为技术控制与绩效测量的“评价主义”异化。他断言《[[Visible Learning|可见的学习]]》在学理上表征为简陋评价图式吞噬教育后吐出的残渣，缺乏作为独立教育学或学习理论的[[Epistemology|认识论]]基石；[[Positivism|实证主义]][[Meta-analysis|元分析]]将师生与文化中介构成的三元教学三角形解构为个体孤立的主观认知调节，构建了脱离教育现实的“[[Research Cage|研究牢笼]]”。
+> 罗默的思想立足于欧陆教化与教学论传统，以[[John Dewey|杜威]]、[[Immanuel Kant|康德]]、[[Hannah Arendt|阿伦特]]、波普尔与比斯塔的批判哲学为思想资源，主张教育本质上是面向不确定未来的生长、启迪与精神交往，坚决抵制将教育降格为技术控制与绩效测量的“评价主义”异化。他断言《[[Visible Learning|可见的学习]]》在学理上表征为简陋评价图式吞噬教育后吐出的残渣，缺乏作为独立教育学或学习理论的[[Epistemology|认识论]]基石；[[Positivism|实证主义]][[Meta-analysis|元分析]]将师生与文化中介构成的三元[[Didactic Triangle|教学三角]]形解构为个体孤立的主观认知调节，构建了脱离教育现实的“[[Research Cage|研究牢笼]]”。
 
 > [!citation-card] 论评价理论吞噬教育本质与“研究牢笼”
 > 评价理论吞噬了它本应评价的对象，随后将残留物吐出为一套反思贫乏的评价逻辑，一个在统计与因果上建构出来却无法看见其评定对象的封闭系统……构建了一个具有高[[Reliability|信度]]与内部自洽却丧失任何与对象真实接触的‘研究牢笼’。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 5–6)]]

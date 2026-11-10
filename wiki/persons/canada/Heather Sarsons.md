@@ -9,7 +9,7 @@ summary: "加拿大经济学家，不列颠哥伦比亚大学温哥华经济学�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 5
+person_related_count: 6
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -30,19 +30,20 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[National Bureau of Economic Research]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit06]]"
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 加拿大劳动经济学与应用微观经济学家，不列颠哥伦比亚大学温哥华经济学院副教授，加拿大国家经济研究局（NBER）研究员。
+> - **身份位置** 加拿大劳动经济学与应用微观经济学家，不列颠哥伦比亚大学温哥华经济学院副教授，加拿大国家经济研究局（[[National Bureau of Economic Research|NBER]]）研究员。
 > - **核心角色** 探索学术职业晋升性别差异、[[Scientific Credit|学术承认]]归属机制与无意识偏见的代表性青年经济学者。
 > - **代表贡献** 发现并严格量化了女性在学术科研合作中的合作惩罚，证实姓氏[[Alphabetical Authorship|字母序署名]]规则放大了晋升委员会对女性合作贡献的主观怀疑。
 

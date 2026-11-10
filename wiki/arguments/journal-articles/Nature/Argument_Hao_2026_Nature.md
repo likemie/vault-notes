@@ -25,6 +25,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Paradigm]]"
   - "[[Document]]"
+  - "[[Early-Career Researchers]]"
   - "[[Matthew Effect in Academia]]"
   - "[[Scientific Productivity]]"
   - "[[Variable]]"
@@ -33,19 +34,24 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Citation Distribution]]"
   - "[[Reliability]]"
-  - "[[Early-Career Researchers]]"
   - "[[Research Problem]]"
   - "[[Causality]]"
 related_methods:
   - "[[Knowledge Extent]]"
+  - "[[Follow-on Engagement]]"
   - "[[Analytic Framework]]"
   - "[[Bibliometric Analysis]]"
+  - "[[Knowledge Entropy]]"
+  - "[[Cognitive Extent]]"
   - "[[Experimental Research]]"
   - "[[Multiple Regression]]"
 related_facts:
   - "[[OpenAlex]]"
+  - "[[Web of Science]]"
+  - "[[AlphaFold]]"
   - "[[Protein Data Bank]]"
-  - "[[Reach]]"
+related_theories:
+  - "[[Chaperone Effect]]"
 status: draft
 subtype: journal-article
 publication_type: journal-article
@@ -53,7 +59,7 @@ title: "Argument_Hao_2026_Nature"
 argument_key: "Argument_Hao_2026_Nature"
 argument_display_title: "Artificial intelligence tools expand scientists’ impact but contract science’s focus"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 28
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -61,7 +67,7 @@ journal: "Nature"
 sources:
   - "[[sources/Hao_2026_Nature/Hao_2026_Nature|Hao_2026_Nature]]"
 created: 2026-11-08
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -70,7 +76,7 @@ updated: 2026-11-10
 > 人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）工具在现代自然科学各学科中的全方位渗透如何重塑科学探索生态？AI 工具在显著提高科研人员个人发文速率、成果可见度与职涯进阶速度的同时，是否会对科学共同体整体的研究视野广度、知识[[Heterogeneity|异质性]]以及学术交流网络产生系统性的收缩效应？
 
 > [!claim] 核心主张
-> 大规模实证表明，人工智能技术在自然科学领域的扩散呈现出个体学术收益扩张与集体科学视野收窄的结构性悖论：采用 AI 工具的科研人员在个体层面获得了显著的职业溢价，年均发文量达到非 AI 学者的 3.02 倍、被引量高出 4.84 倍，且提前 1.37 年晋升为课题组负责人；但在科学整体层面，AI 的扩散导致学科[[Knowledge Extent|知识广度]]（Knowledge Extent, KE）中位数收缩 4.63%，超过 70% 的细分学科探索范围窄化，后续学术卷入度（[[Follow-on Engagement|Follow-on Engagement, EG]]）下降 22%，引文基尼系数攀升至 0.754。AI 工具通过深度绑定已知且数据富集的热门领域，加速了既有[[Paradigm|范式]]内部的技术改良，挤压了对边缘未知疆界的探索空间。
+> 大规模实证表明，人工智能技术在自然科学领域的扩散呈现出个体学术收益扩张与集体科学视野收窄的结构性悖论：采用 AI 工具的科研人员在个体层面获得了显著的职业溢价，年均发文量达到非 AI 学者的 3.02 倍、被引量高出 4.84 倍，且提前 1.37 年晋升为课题组负责人；但在科学整体层面，AI 的扩散导致学科[[Knowledge Extent|知识广度]]（Knowledge Extent, KE）中位数收缩 4.63%，超过 70% 的细分学科探索范围窄化，后续学术卷入度（[[Follow-on Engagement]], EG）下降 22%，引文基尼系数攀升至 0.754。AI 工具通过深度绑定已知且数据富集的热门领域，加速了既有[[Paradigm|范式]]内部的技术改良，挤压了对边缘未知疆界的探索空间。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 涵盖 [[OpenAlex|OpenAlex 数据库]]中 41,298,433 篇跨越生物学、化学、地学、材料科学、医学与物理学六大自然科学门类的学术出版成果，并以 [[Web of Science]] 数据库作为交叉验证基准，长周期追踪 5,377,346 名学者跨越传统机器学习（Machine Learning, ML）、深度学习（Deep Learning, DL）及生成式大型语言模型（Large Language Model, LLM）三大技术时代的学术演进轨迹。
@@ -82,7 +88,7 @@ updated: 2026-11-10
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **学术伴随效应**<br>[[Chaperone Effect]] | 揭示青年学者学术进阶与顶级发文对资深学者的结构性依附，解释 AI 工具如何通过自动化基础实验劳动打破传统学徒链条，使初级研究人员提前 1.37 年晋升为课题组长。 |
+> | **学术伴随效应**<br>[[Chaperone Effect]] | 揭示[[Early-Career Researchers\|青年学者]]学术进阶与顶级发文对资深学者的结构性依附，解释 AI 工具如何通过自动化基础实验劳动打破传统学徒链条，使初级研究人员提前 1.37 年晋升为课题组长。 |
 > | **学术马太效应**<br>[[Matthew Effect in Academia]] | 阐明学术资源与声誉的累积优势循环，解释 AI 驱动的研究如何加剧引文向极少数明星成果过度集聚（基尼系数高达 0.754），形成注意力与学术声誉的极端极化。 |
 > | **科研生产力**<br>[[Scientific Productivity]] | 测度学者在特定时间跨度内贡献知识单元的速率，量化 AI 工具为学者个体带来的年发文量 3.02 倍与引用量 4.84 倍的超额产出增益。 |
 > | **文献计量分析**<br>[[Bibliometric Analysis]] | 运用数学与计算语言学方法对全量学术文献外部特征与语义向量进行测度，作为基础分析架构，结合预训练模型实现文献识别与高维拓扑建模。 |
@@ -341,7 +347,7 @@ updated: 2026-11-10
 > [!citation-card] 科学研究中人工智能采纳的结构性悖论
 > 人工智能在科学中的应用展现出令人瞩目的悖论：个体科学家获得了扩大的学术影响，科学集体的辐射范围却遭遇收缩，AI 增强型研究集体涌向数据最为富集的成熟领域。由于后继学术卷入度降低，AI 工具倾向于将既有成熟领域自动化，未能有效探索全新领域，彰显了个体晋升与科学集体进步之间的内在张力。
 >
-> *By consequence, adoption of AI in science presents what seems to be a paradox: an expansion of individual scientists’ impact but a contraction in collective science’s [[Reach|reach]], as AI-augmented work moves collectively towards areas richest in data. With reduced follow-on engagement, AI tools seem to automate established fields rather than explore new ones, highlighting a tension between personal advancement and collective scientific progress.*
+> *By consequence, adoption of AI in science presents what seems to be a paradox: an expansion of individual scientists’ impact but a contraction in collective science’s reach, as AI-augmented work moves collectively towards areas richest in data. With reduced follow-on engagement, AI tools seem to automate established fields rather than explore new ones, highlighting a tension between personal advancement and collective scientific progress.*
 
 ---
 

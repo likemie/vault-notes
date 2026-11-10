@@ -9,7 +9,7 @@ subtype: organization
 region: "us"
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -22,6 +22,7 @@ tags:
   - research-institute
   - science-policy
 related_concepts:
+  - "[[Original Innovation Capability]]"
   - "[[Red Tape]]"
   - "[[Heterogeneity]]"
   - "[[Knowledge Exchange]]"
@@ -37,13 +38,14 @@ related_facts:
   - "[[National Institutes of Health]]"
   - "[[National Science Foundation]]"
   - "[[Nobel Prize in Physiology or Medicine]]"
+  - "[[Education Review Office]]"
   - "[[Protein Data Bank]]"
 related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -55,7 +57,7 @@ updated: 2026-10-22
 > - **成立时间 / 创设背景** 始创于 1890 年，最初作为布鲁克林文理学院的生物实验室，后逐步演变为独立的现代遗传学与分子生物学国际重镇。
 > - **总部地点 / 业务辐射** 位于美国纽约州长岛冷泉港，建有包含实验室、学术会议中心与冷泉港实验室出版社的完整园区。
 > - **法人属性与经费基础** 501(c)(3) 非营利独立研究机构，经费来自联邦科研经费（如 [[National Institutes of Health|NIH]]、[[National Science Foundation|NSF]]）、慈善基金会资助、企业捐赠以及学术出版与会议服务收入。
-> - **核心宗旨与法定职责** 推动生物医学原始创新发现，培养下一代生命科学领军科学家，提供全球顶尖的生物学学术交流与培训平台。
+> - **核心宗旨与法定职责** 推动生物医学[[Original Innovation Capability|原始创新]]发现，培养下一代生命科学领军科学家，提供全球顶尖的生物学学术交流与培训平台。
 
 ---
 
@@ -89,7 +91,7 @@ updated: 2026-10-22
 > [!debates] 核心争议交锋
 >
 > > [!axis] 历史优生学档案与机构责任
-> > 20 世纪初优生学记录办公室（ERO）历史遗产的清算与科学反思。
+> > 20 世纪初优生学记录办公室（[[Education Review Office|ERO]]）历史遗产的清算与科学反思。
 > >
 > > - **历史反思与纠偏** 机构公开承认并谴责早期优生学伪科学对社会的历史伤害，将相关档案完全数字化公开作为历史警示教材。
 

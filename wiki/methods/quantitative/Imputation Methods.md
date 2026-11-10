@@ -9,7 +9,7 @@ summary: "用合理值填充缺失数据以呈现完整数据集并减少无回�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Epistemology]]"
   - "[[Heterogeneity]]"
+  - "[[Homophily]]"
   - "[[Response Bias]]"
 related_methods:
   - "[[Questionnaire]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-11
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 > [!def] Imputation Methods
@@ -105,7 +106,7 @@ updated: 2026-10-29
 > [!method-limits] 方法局限
 > - **偏误来源** 插补值依赖于插补模型的假设——模型错误指定会导致系统性偏倚；单次插补低估[[Standard Error\|标准误]]，使后续推断过于"显著"；插补可能掩盖数据质量的真实问题，使研究者对结论过度自信。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13\|Cohen et al. (2011d)]]
 > - **适用边界** 插补的有效性取决于辅助[[Variable\|变量]]的质量——辅助变量需与缺失变量高度相关且自身几乎完整；不同插补方法假设不同的缺失机制，方法选择错误会导致偏倚。
-> - **误用风险** 对[[Heterogeneity\|异质性]]总体使用均值插补，假设同质性可能严重扭曲结果；将插补后的数据当作真实观测值进行后续分析而不报告插补过程；忽视插补引入的额外不确定性。
+> - **误用风险** 对[[Heterogeneity\|异质性]]总体使用均值插补，假设[[Homophily|同质性]]可能严重扭曲结果；将插补后的数据当作真实观测值进行后续分析而不报告插补过程；忽视插补引入的额外不确定性。
 > - **补救方式** 优先使用多重插补而非单一插补以反映不确定性；进行敏感性分析（比较不同插补方法的结果稳定性）；明确报告缺失比例、缺失模式、插补方法和假设；当缺失比例较高时，同时报告完整案例分析作为参照。
 
 ---

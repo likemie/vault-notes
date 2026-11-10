@@ -9,7 +9,7 @@ aliases:
 summary: "沙维尔·庞斯在追踪欧洲各国对 PISA 测评的政策吸纳过程中提出的知识分类学构念。区分了两类截然不同的知识形态：学习性知识（为深入理解测评数据库、挖掘学生认知规律而展开的专门认知操作结果，如复杂多层回归与参数表）与政策性知识（一套基于证据外表但高度简化、用于为既定公共政策提供诊断与正当性辩护的修辞话语）。实证表明两类知识在公共辩论中存在严重的结构性脱节，政治精英仅剪裁吸纳政策性知识作为执政弹药，导致跨国测评难以自发催生理性的跨国政策学习与政策趋同。"
 type: concept
 domain: "comparative-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Policy Network]]"
   - "[[Technical Rationality]]"
+  - "[[Policy Translation]]"
   - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Interaction Effect]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -72,7 +73,7 @@ updated: 2026-11-02
 > - **用途** 帮助研究者破除“数据越客观、政策学习越充分”的[[Technical Rationality|技术理性]]迷信，精准识别政治精英如何策略性利用量化指标的科学外衣推销既定意识形态议程。
 > - **边界** 该构念聚焦于知识在政策网络中的流转与功能转化，不用于评价测量学统计模型本身在心理计量学层面的数学优劣。
 
-> [!citation-card] [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] 论两类知识形态与政策转译的脱节
+> [!citation-card] [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] 论两类知识形态与[[Policy Translation|政策转译]]的脱节
 > 庞斯认为要区分两类知识：(1) 学习性知识，即为加深对 [[PISA]] 数据库的分析、增进对其结果的理解而实施的专门知识操作的认知结果；(2) 政策性知识，可以定义为一套或多或少稳定、连贯和基于证据的[[Discourse|话语]]，使人们能够对教育政策形成诊断和建议。他指出，当 PISA 结果出现时，葡萄牙、匈牙利、罗马尼亚、苏格兰等国对它的描述都停留在一般层面，研究人员、专家和专业评估人员对其解读较少，只被用来支持特定时期的国内公共政策辩论。对法国、苏格兰和葡萄牙关于 PISA 公开辩论的社会学分析也表明，在许多国家，针对学生成绩的评论和对相关表格或图表的解读二者是脱节的。换言之，像 PISA 这类国际调查，无论多么有用和扎实，都不足以必然引发教育系统内的行动者学习他国的教育政策，带来政策趋同。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 70–71)]]
 
 ---

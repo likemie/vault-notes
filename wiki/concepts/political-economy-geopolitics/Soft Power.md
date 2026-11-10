@@ -7,7 +7,7 @@ aliases:
 summary: "约瑟夫·奈（Joseph S. Nye）提出的国际关系与地缘政治核心概念，指行为体通过文化吸引力、政治价值观感召与具有合法性的对外政策来塑造他者偏好而非诉诸军事或经济强制的能力。在当代全球教育治理与跨国比较中，软实力演进为“以硬事实施展软权力”（Soft Power by Hard Facts），国际组织通过探究模式与调解模式输出量化指标、跨国测评排名与最佳实践工具箱，对主权国家教育体系实施远处规制与政策趋同。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 73
+related_count: 74
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Community of Shared Future for Mankind]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Façade of Rationality]]"
+  - "[[Study Abroad]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Epistemic Community]]"
   - "[[Educational Soft Power]]"
@@ -102,7 +103,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-29
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -148,7 +149,7 @@ updated: 2026-11-03
 > | **核心资源** | 军事装备、金融储备、经济制裁壁垒 | 文化产品、政治哲学、对外援助声誉 | 物质惩罚工具与规范认同工具的战略组合 | 跨国可比统计量、标准化测评、[[Performance Indicators\|绩效指标]]数据库 |
 > | **权力作用机制** | 指挥式权力：强制服从、威慑与金钱收买 | 同化式权力：规范吸引、制度示范与价值内化 | 上下文智力：依据情境灵活配置胡萝卜与大棒 | 认识论规制：通过“事实”定义问题、数字作为[[Façade of Rationality\|理性表象]]的脚手架与同行互评 |
 > | **主导行为体** | 主权民族国家、地缘军事集团 | 主权国家、国家文化机构（[[Confucius\|孔子]]学院/歌德学院） | 国家外交决策层、国防与外贸联合部门 | 国际政府间组织（[[OECD]]、世界银行）、跨国智库与非政府评估网络 |
-> | **在教育中的表现** | 冻结留学签证、科研禁运、关闭涉外办学项目 | 设立政府奖学金、输出本国课程、推广国家语言 | 附带政治条件的教育贷款、定向人才培养协议 | [[PISA]] 跨国排名的软治理、SABER 政策工具箱、最佳实践模板推介 |
+> | **在教育中的表现** | 冻结[[Study Abroad\|留学]]签证、科研禁运、关闭涉外办学项目 | 设立政府奖学金、输出本国课程、推广国家语言 | 附带政治条件的教育贷款、定向人才培养协议 | [[PISA]] 跨国排名的软治理、SABER 政策工具箱、最佳实践模板推介 |
 
 ---
 

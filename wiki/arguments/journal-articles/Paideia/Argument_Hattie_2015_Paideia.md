@@ -9,7 +9,7 @@ title: "Argument_Hattie_2015_Paideia"
 argument_key: "Argument_Hattie_2015_Paideia"
 argument_display_title: "Synlig læring i dag"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Surface and Deep Learning]]"
   - "[[Success Criteria]]"
+  - "[[Problematisation]]"
   - "[[Self Explanation]]"
 related_theories: []
 related_methods:
@@ -55,7 +56,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-21
-updated: 2026-10-30
+updated: 2026-11-11
 year: 2015
 doi: ""
 citation_aliases:
@@ -130,7 +131,7 @@ citation_aliases:
 > - 教师影响的六个关键条件包括：理解自身角色是评价影响、与同事共同评价影响、清楚学生先前学习、开端明确[[Success Criteria\|成功标准]]、平衡表层与[[Surface and Deep Learning\|深层学习]]、提供适当挑战而不是满足于“尽力而为”。
 > - Visible Learning 的实施需要学校和网络层面的集体评价文化，孤立教师很难单独完成；校长要为影响讨论提供时间、资源和安全环境。
 > - Hattie 接受[[Research Synthesis|研究综合]]仍需更好地处理调节[[Variable\|变量]]、学习结果类型和定性证据综合，但拒绝把这些问题理解为对全部证据综合工作的否定。
-> - 文章最后把 Visible Learning 的公共问题化为三个民主讨论题：什么算影响、期望影响多大、影响应覆盖多少学生；这些问题不能只由研究综合决定。
+> - 文章最后把 Visible Learning 的公共[[Problematisation|问题化]]为三个民主讨论题：什么算影响、期望影响多大、影响应覆盖多少学生；这些问题不能只由研究综合决定。
 
 > [!info] 核心数据
 > - Visible Learning 最初综合 800+ 项[[Meta-analysis\|元分析]]，文章写作时提到数据已扩展到 1200+ 项元分析。

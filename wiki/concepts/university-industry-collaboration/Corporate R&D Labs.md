@@ -28,6 +28,7 @@ related_concepts:
   - "[[Academic Engagement]]"
   - "[[Governance by Spin]]"
   - "[[Research Translation]]"
+  - "[[Research Integration]]"
   - "[[Paradigm]]"
   - "[[Technology Transfer]]"
   - "[[Market Failure]]"
@@ -40,7 +41,6 @@ related_concepts:
   - "[[Absorptive Capacity]]"
   - "[[Discourse]]"
   - "[[Variable]]"
-  - "[[Document]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Developmental Network State]]"
@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -105,7 +105,7 @@ updated: 2026-11-02
 ---
 
 > [!feature] 核心要素
-> - **全链条科研覆盖（Full-[[SPECTRUM]] Research Integration）** 打破基础研究与应用开发的人为割裂，在一个组织内部完整覆盖从底层机理探索、材料合成、设备研制到系统软件架构的全过程。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 35–37)]]
+> - **全链条科研覆盖（Full-[[SPECTRUM]] [[Research Integration]]）** 打破基础研究与应用开发的人为割裂，在一个组织内部完整覆盖从底层机理探索、材料合成、设备研制到系统软件架构的全过程。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 35–37)]]
 > - **跨学科人才高密度集聚（Multidisciplinary Talent Concentration）** 物理学家、材料学家、机械工程师与数学家在同一物理园区内高频互动，具备系统攻克跨学科复杂技术瓶颈的独特能力。
 > - **[[Patient Capital|耐心资本]]与非竞争性资金支持（Patient Internal Capital）** 依托母公司电信特许垄断（如 AT&T）或主导市场地位（如 IBM、Xerox）的垄断租金，享受不受短期季度财报干扰的长期稳定资助。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 126–128)]]
 > - **与大学的双轨人才机制（Dual-Track University Relations）** 一方面充当[[Research Universities|研究型大学]]博士毕业生的最大雇主与知识溢出承接者，另一方面凭借匹敌大学的科研实力保持高度自主性。

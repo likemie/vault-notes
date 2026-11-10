@@ -9,7 +9,7 @@ aliases:
 summary: "指美国参众两院议员在联邦预算法案中利用立法特权直接塞入、定向划拨给本选区特定大学或产学中心的科研资助；该机制彻底绕开了同行评议程序，既引发学术界关于科研政治分肥、资源错配与择优公信力受损的严厉批评，又在保守派意识形态打压显性产业政策的背景下充当了向地方输送研发资本、建立产学协同中心的隐蔽制度通道。"
 type: concept
 domain: "science-policy"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Academic Risk Aversion]]"
   - "[[Evaluation Research]]"
   - "[[Academic Start-up Packages]]"
+  - "[[Early-Career Researchers]]"
   - "[[Grandes Ecoles]]"
 related_theories:
   - "[[Developmental Network State]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -198,7 +199,7 @@ updated: 2026-11-02
 > | [[Research Universities]] | Concept | 专项拨款争夺中的受惠高校与同行评议制度基石所在。 |
 > | [[Academic Risk Aversion]] | Concept | 伴随经费竞争白热化而出现的微观学术行为异化。 |
 > | [[Evaluation Research]] | Concept | 检验专项拨款使用效率与科研政策绩效的方法学参照。 |
-> | [[Academic Start-up Packages]] | Concept | 与专项大楼形成对比的、面向一线青年科研人员的校级实质性科研配套启动机制。 |
+> | [[Academic Start-up Packages]] | Concept | 与专项大楼形成对比的、面向一线[[Early-Career Researchers\|青年科研人员]]的校级实质性科研配套启动机制。 |
 > | [[Fred Block]] | Person | 揭示专项拨款作为隐蔽发展型网络国家财政通道与产学中心生产性功能的社会学家。 |
 > | [[Richard C. Atkinson]] | Person | 前加州[[Grandes Ecoles\|大学校]]长与 NSF 主任，系统批判科研专项拨款规避同行评议的代表学者。 |
 

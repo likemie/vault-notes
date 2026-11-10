@@ -7,9 +7,9 @@ title: "Argument_Custer_2021_AidData"
 argument_key: "Argument_Custer_2021_AidData"
 argument_display_title: "Corridors of Power: How Beijing uses economic, social, and network ties to exert influence along the Silk Road"
 argument_kind: "report"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dcfce7"
 authors:
   - "[[Samantha Custer|Custer, S.]]"
@@ -46,6 +46,7 @@ tags:
 sources:
   - "[[sources/Custer_2021_AidData/Custer_2021_AidData|Custer_2021_AidData]]"
 related_concepts:
+  - "[[Study Abroad]]"
   - "[[Soft Power]]"
   - "[[Public Diplomacy]]"
   - "[[Educational Diplomacy]]"
@@ -57,6 +58,7 @@ related_concepts:
   - "[[Language Income Premium]]"
   - "[[Foreign Languages]]"
   - "[[Student Mobility]]"
+  - "[[Transnational Education]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Construct]]"
@@ -67,7 +69,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Sage]]"
   - "[[Century of Humiliation]]"
-  - "[[Study Abroad]]"
   - "[[Education Going Global]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -90,12 +91,12 @@ related_facts:
   - "[[China-Pakistan Economic Corridor]]"
 status: draft
 created: 2026-10-22
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
 > [!question]
-> 探究中国在周边南亚与中亚地区如何统筹运用教育援助、跨国留学、语言推广与技能培训等社会纽带构建[[Soft Power|软实力]]？这些教育[[Public Diplomacy|公共外交]]举措在内容结构与空间投向上呈现何种演进特征？对象国青年与社会精英在面对汉语与外部教育资源时表现出怎样的实用主义取向？以及大国[[Educational Diplomacy|教育外交]]在转化为实质性民意认同与地缘战略支持时面临哪些结构性制约？
+> 探究中国在周边南亚与中亚地区如何统筹运用教育援助、跨国[[Study Abroad|留学]]、语言推广与技能培训等社会纽带构建[[Soft Power|软实力]]？这些教育[[Public Diplomacy|公共外交]]举措在内容结构与空间投向上呈现何种演进特征？对象国青年与社会精英在面对汉语与外部教育资源时表现出怎样的实用主义取向？以及大国[[Educational Diplomacy|教育外交]]在转化为实质性民意认同与地缘战略支持时面临哪些结构性制约？
 
 > [!claim] 核心主张
 > 中国在南亚与中亚构建了以奖学金资助、全英文授课、[[Luban Workshop|鲁班工坊]]技能实训与[[Confucius Institute|孔子学院]]语言推广为支柱的教育公共外交网络，推动教育合作从早期的校舍基建援建转向以高校人才培养与工业技术标准输出为主的人才通道；但在对象国内部，教育资源的吸引力主要取决于经贸与就业带来的实际收益，且在空间上高度集聚在 16 个核心城市，面临大国地缘博弈、本土语言安全审查以及民意认同脱节的多重制约。（pp. 14–34, 72–75）
@@ -118,7 +119,7 @@ updated: 2026-10-29
 > | **[[Public Diplomacy\|公共外交]]与社会纽带**<br>Social Ties in Public Diplomacy | 将留[[Student Mobility\|学生流动]]、校企职教合作与友城网络界定为国家对外战略中的社会纽带（Social Ties），剖析跨国人际交往如何转化为国家双边经贸与政治互信资本。（pp. 1–3, 20） |
 
 > [!warrant]- 理论如何支撑论证
-> 理论框架将跨国教育交流置于大国外交战略与地缘竞争的复合视野中。通过引入文化引力与收入溢价模型，框架揭示了南亚与中亚社会对中国教育语言输出的响应机制：吸引青年学习汉语或赴华求学的核心动力源于对中国经济增长与经贸红利的理性预期；权力转化困境则为解释大规模教育资助未能平息印度等国的安全审查、草根民意为何依然存在战略戒备提供了分析透镜。（pp. 20–24, 28–34, 62–66）
+> 理论框架将[[Transnational Education|跨国教育]]交流置于大国外交战略与地缘竞争的复合视野中。通过引入文化引力与收入溢价模型，框架揭示了南亚与中亚社会对中国教育语言输出的响应机制：吸引青年学习汉语或赴华求学的核心动力源于对中国经济增长与经贸红利的理性预期；权力转化困境则为解释大规模教育资助未能平息印度等国的安全审查、草根民意为何依然存在战略戒备提供了分析透镜。（pp. 20–24, 28–34, 62–66）
 
 > [!index-table] 核心[[Variable|变量]][[Operationalization|操作化]]定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心测量工具、指标界定与数据来源 |

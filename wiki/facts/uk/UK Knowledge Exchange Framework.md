@@ -10,7 +10,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -31,10 +31,12 @@ related_arguments:
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 related_facts:
   - "[[Oxford UIDP Summit 2019]]"
+related_methods:
+  - "[[Knowledge Extent]]"
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 > [!info] 背景
@@ -44,7 +46,7 @@ updated: 2026-10-26
 
 > [!abstract] 政策文本摘要
 > KEF 的度量组件旨在提供两个层面的价值（pp.26–27）：
-> - 为高校（HEIs）提供一个关于其[[Knowledge Exchange\|知识交流]]活动（KE activities）的有用信息和数据来源，用于理解、基准化和改进自身绩效
+> - 为高校（HEIs）提供一个关于其[[Knowledge Exchange\|知识交流]]活动（[[Knowledge Extent|KE]] activities）的有用信息和数据来源，用于理解、基准化和改进自身绩效
 > - 为高校知识的用户和潜在用户提供另一个信息来源，可能增加潜在大学伙伴的可见度和优势，从而贡献于内部决策过程
 
 > [!note|notitle]

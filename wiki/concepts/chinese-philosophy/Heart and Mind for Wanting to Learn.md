@@ -7,7 +7,7 @@ aliases:
 summary: "中国本土学习概念，指一个人内在的求知欲望与向学之心，Jin Li 将其置于中国学习传统六主题框架中作为核心动力机制"
 type: concept
 domain: "chinese-philosophy"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,6 +16,7 @@ tags:
   - theme/cross-cultural-learning
   - theme/learning-motivation
 related_concepts:
+  - "[[Doctoral Dissertation]]"
   - "[[Student Motivation]]"
   - "[[Faust]]"
   - "[[Ways of Knowing]]"
@@ -42,11 +43,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!info] 定义
-> 好學心（hao-xue-xin, heart and mind for wanting to learn）是一个中国本土学习概念，指一个人内在的、自发的求知欲望与向学之心。[[Jin Li]] 在博士论文研究中以该概念替代西方心理学的"成就动机"（[[Student Motivation|achievement motivation]]），并随后将其发展为描述中国学习模型的核心概念([[Argument_Li_2012_Cambridge\|Li, 2012, p.ix–x]])。
+> 好學心（hao-xue-xin, heart and mind for wanting to learn）是一个中国本土学习概念，指一个人内在的、自发的求知欲望与向学之心。[[Jin Li]] 在[[Doctoral Dissertation|博士论文]]研究中以该概念替代西方心理学的"成就动机"（[[Student Motivation|achievement motivation]]），并随后将其发展为描述中国学习模型的核心概念([[Argument_Li_2012_Cambridge\|Li, 2012, p.ix–x]])。
 
 > [!quote|notitle]
 > Li 及其中国同侪尝试为 hao-xue-xin 寻找更好的英文翻译但未能成功，最终保留了"heart and mind for wanting to learn"这一略显拗口的译文，因为他们认为"该翻译在含义和情感上是准确的，而且对我们来说是有共鸣的"([[Argument_Li_2012_Cambridge\|Li, 2012, p.x]])。

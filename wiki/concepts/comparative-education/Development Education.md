@@ -9,7 +9,7 @@ aliases:
 summary: "聚焦全球南方国家教育现代化、体制重塑与国际援助合作的专门学术研究与政策实务领域。二战后因去殖民化与冷战地缘博弈而兴起，长期与侧重理论建构的主流比较教育学保持建制分流；后伴随多边开发银行的主权借贷与结构调整，从学术系所分立转向以项目评估、信贷约束与政策咨询为主轴的实务运作，但面临设计端理念前沿与执行端官僚失能、资金拨付考核与实质学习成效脱节的深层制度张力。"
 type: concept
 domain: "comparative-education"
-related_count: 65
+related_count: 67
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Policy Conditionalities]]"
   - "[[Epistemology]]"
+  - "[[Study Abroad]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
   - "[[Causality]]"
@@ -40,6 +41,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Global Educational Discourse]]"
   - "[[Formative Assessment]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Document]]"
   - "[[Washington Consensus]]"
   - "[[Learning Crisis]]"
@@ -95,7 +97,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -123,7 +125,7 @@ updated: 2026-11-02
 > | 比较维度 | 发展教育（Development Education） | 理论比较教育学（Comparative Education） | [[International Education\|国际教育]]（International Education） |
 > |:---|:---|:---|:---|
 > | **核心地理[[Champ\|场域]]** | **全球南方国家（亚非拉发展中与极度贫困国）** | 欧美发达工业化国家及跨国区域体系 | 跨国流动网络、[[International Schools\|国际学校]]与全球学术空间 |
-> | **核心驱动机制** | **去殖民化建设、主权信贷约束与[[Policy Conditionalities\|政策附加条件]]** | 学术[[Epistemology\|认识论]]建构、历史哲学诠释与实证归纳 | 跨文化交流、市场化留学与全球精英培育 |
+> | **核心驱动机制** | **去殖民化建设、主权信贷约束与[[Policy Conditionalities\|政策附加条件]]** | 学术[[Epistemology\|认识论]]建构、历史哲学诠释与实证归纳 | 跨文化交流、市场化[[Study Abroad\|留学]]与全球精英培育 |
 > | **主导行动主体** | **[[Multilateral Development Bank\|多边开发银行]]（世行/泛美行）、[[UNESCO]]、受援国教育部** | 大学教授、学术学会（[[Comparative and International Education Society\|CIES]]、[[British Association for International and Comparative Education\|BAICE]]）、智库研究员 | [[International Baccalaureate\|国际文凭组织]]（IBO）、非政府组织、跨国办学实体 |
 > | **[[Knowledge Production\|知识生产]][[Paradigm\|范式]]** | **应用政策评估、项目周期监测、成本效益与[[Causality\|因果推断]]** | [[Historical-Comparative Method\|历史比较法]]、[[Phenomenology\|现象学]]阐释、[[Structural Functionalism\|结构功能主义]]或[[Critical Theory\|批判理论]] | 跨文化心理学、国际化课程开发与学生适应研究 |
 > | **典型实践成果** | **初等普及教育贷款、职业培训基金、校舍基建与评价系统** | 经典国别研究专著、学科方法论体系、比较理论框架 | 国际课程标准、海外游学项目、[[Global Citizenship\|全球公民教育]]大纲 |
@@ -181,7 +183,7 @@ updated: 2026-11-02
 > 探讨多边机构在推行发展教育贷款时，内部官僚激励与微观执行工具如何导致项目偏离实质教学质量改进。
 
 > [!claim] [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]]
-> **组织学习的双重断裂与投入导向异化** 卡斯特罗通过对世界银行与[[Inter-American Development Bank|泛美开发银行]]教育贷款项目的追踪分析指出，发展教育实务存在制度性脱节：在项目设计端，银行技术团队具有突出的学习能力，能够迅速将前沿研究（如[[Formative Assessment|形成性评价]]、早期阅读、标准化教材）转化为详尽的立项文本；在执行端，改善微观教学与组织管理的实务工具相对欠缺，容易受制于会计报销、跨国采购审查与程序合规要求。此外，银行内部的官僚考核偏重于资金拨付进度（Disbursement），只要资金划拨到位、规定数量的校舍与课本采购完成，项目即被判定为达标，而学生实际是否掌握了基础读写算能力却缺乏长效追踪，导致部分发展贷款转化为了缺乏实质教学效益的工程资产。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 468–472)]]
+> **组织学习的双重断裂与投入导向异化** 卡斯特罗通过对世界银行与[[Inter-American Development Bank|泛美开发银行]]教育贷款项目的追踪分析指出，发展教育实务存在制度性脱节：在项目设计端，银行技术团队具有突出的学习能力，能够迅速将前沿研究（如[[Formative Assessment|形成性评价]]、早期阅读、标准化教材）转化为详尽的立项文本；在执行端，改善微观教学与组织管理的实务工具相对欠缺，容易受制于会计报销、跨国采购审查与程序合规要求。此外，银行内部的官僚考核偏重于资金拨付进度（Disbursement），只要资金划拨到位、规定数量的校舍与课本采购完成，项目即被判定为达标，而学生实际是否掌握了[[Foundational Literacy and Numeracy|基础读写算能力]]却缺乏长效追踪，导致部分发展贷款转化为了缺乏实质教学效益的工程资产。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 468–472)]]
 
 ---
 

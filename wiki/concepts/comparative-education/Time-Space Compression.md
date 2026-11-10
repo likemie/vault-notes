@@ -8,7 +8,7 @@ aliases:
 summary: "指由信息通信技术和交通革命驱动的物理距离与沟通时滞的急剧缩减，它深刻改变了资本、劳动力与知识的流动方式，成为界定全球化时代教育变革与传统世界体系历史阶段质性差异的关键本体论基础。"
 type: concept
 domain: "comparative-education"
-related_count: 23
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Ontology]]"
   - "[[Discourse]]"
+  - "[[Transnational Education]]"
   - "[[Virtual University]]"
   - "[[Informationalization]]"
   - "[[Space Production]]"
@@ -45,13 +46,14 @@ related_persons:
   - "[[Manuel Castells]]"
   - "[[Anthony Giddens]]"
   - "[[David Held]]"
-related_facts: []
+related_facts:
+  - "[[Dimensions]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -61,13 +63,13 @@ updated: 2026-11-03
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向全球范围内信息、资本、政策[[Discourse|话语]]与人员流动所经历的技术加速与时空壁垒瓦解。
-> - **用途** 帮助研究者解释为何外部教育政策冲击在当代能够即时穿透民族国家边界，以及为何跨国高等教育、[[Virtual University|虚拟大学]]与全球社会运动能够迅速崛起。
+> - **用途** 帮助研究者解释为何外部教育政策冲击在当代能够即时穿透民族国家边界，以及为何[[Transnational Education|跨国高等教育]]、[[Virtual University|虚拟大学]]与全球社会运动能够迅速崛起。
 > - **边界** 不等于纯粹的技术进步或[[Informationalization|信息化]]本身；它关涉资本主义积累动力学在[[Space Production|空间生产]]上的根本转变，必须将时空物理维度的压缩与经由网络流通的意识形态内容（如新自由主义）严加区分。
 
 > [!citation-card] 时空压缩作为全球化与世界体系的质性分水岭
 > 简要地说，若全球化与[[World-Systems Theory|世界体系分析]]之间存在质的差异，这种差异可归因于时间和空间的急剧压缩。大幅改进的现代技术促进了信息和资本跨越国界的即时流动，以前所未有的方式将遥远的全球力量与本土场景紧密联系在一起。必须将全球化的时空维度与这些信息和资金流动的实质内容严加区分。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106–107)]]
 >
-> *Briefly, however, if there is a qualitative difference between globalization and WSA, it may be attributed to the dramatic compression of time and space (Harvey, 1989), with greatly improved technologies facilitating the [[Flow]] of information and capital across national boundaries and bringing the distant and the local into closer relation in ways previously unimagined... What is important to note here is that the space-time dimensions of globalization be distinguished from the content of these informational and financial flows.*
+> *Briefly, however, if there is a qualitative difference between globalization and WSA, it may be attributed to the dramatic compression of time and space (Harvey, 1989), with greatly improved technologies facilitating the [[Flow]] of information and capital across national boundaries and bringing the distant and the local into closer relation in ways previously unimagined... What is important to note here is that the space-time [[Dimensions|dimensions]] of globalization be distinguished from the content of these informational and financial flows.*
 
 > [!boundary]- 概念边界
 > - 不等于单纯的教育信息化（Educational Informationalization）——教育信息化侧重于技术工具在教学环境中的软硬件部署；时空压缩关注资本周转速度、劳动力组织方式与主权地理格局在时间尺度上的深层重构。

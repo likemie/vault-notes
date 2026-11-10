@@ -8,7 +8,7 @@ aliases:
 summary: "在教育与创新政策研究中具有双重维度的构念：在学生发展视域下指学生向学术性教育活动投入的时间、精力和注意力（学业投入）；在产学合作视域下指学者个人或团队与企业展开的赞助研究、咨询、联合培养与人才双向流动的非排他知识性合作（产学学术参与），当代科技政策正通过资助产业博士、设立创业科学家计划与打破学术晋升壁垒深化这一机制。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Academic Engagement Team]]"
   - "[[Technology Transfer Office]]"
   - "[[Concierge Service]]"
+  - "[[Early-Career Researchers]]"
   - "[[Paradigm]]"
   - "[[Research Translation]]"
   - "[[Research Universities]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -101,7 +102,7 @@ updated: 2026-10-30
 
 > [!feature] 产学学术参与的核心运作支柱
 > - **企业侧学术参与团队（Academic Engagement Teams, AET）** 企业内部专职负责[[University-Industry Collaboration|产学合作]]的组织叠加层，通过中央预算、业务部门联合出资或企业基金会，架设学术探索与商业工程之间的认知桥梁。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 217–223)]]
-> - **产业博士与定向资助（Industrial PhD Fellowships）** 国家支持青年学者在顶尖企业实验室或国家实验室完成博士课题，以全额津贴保障直接解决产业关键工艺难题。
+> - **产业博士与定向资助（Industrial PhD Fellowships）** 国家支持[[Early-Career Researchers|青年学者]]在顶尖企业实验室或国家实验室完成博士课题，以全额津贴保障直接解决产业关键工艺难题。
 > - **伯克利 Activate 创业科学家模式（Activate Fellows）** 选拔具备深科技创业潜力的青年科学家进驻国家实验室，提供科研设备机时、商业导师辅导与生活薪资保障，打造从实验室走向产业的学术参与[[Paradigm|范式]]。
 > - **打破学术与产业晋升壁垒（Eliminating Promotion Penalties）** 改革大学传统唯论文论的终身教职（Tenure）评审，将跨部门产业任职、产学合作成果与[[Research Translation|技术转化]]贡献实质性纳入学术晋升加分项。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 42–43)]]
 

@@ -6,7 +6,7 @@ aliases:
 summary: "将积分、徽章、排行榜与即时反馈等游戏机制应用于非游戏情境以激发参与和行为塑造的设计策略；在教育与治理中，一方面作为行为主义调节与商业黏性技术被广泛嵌入数字平台，另一方面在批判教育学视域下面临解构知识逻辑、异化师生评价与压缩深层教化反思空间的结构性危机。"
 type: concept
 domain: "educational-technology"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Homework]]"
   - "[[Paradigm]]"
+  - "[[Transnational Education]]"
   - "[[Critical Pedagogy]]"
   - "[[Procedural Skill]]"
   - "[[Variable]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-20
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -181,7 +182,7 @@ updated: 2026-11-03
 > - **2002 — 术语萌芽** 英国程序员尼克·佩林（Nick Pelling）首次提出“游戏化”（Gamification）一词，最初用于将电子游戏界面逻辑应用于商业电子消费产品。
 > - **2011 — 商业与平台设计手册体系化** 齐克曼与坎宁安出版《游戏化设计》（*Gamification by Design*），系统提炼出积分、徽章、排行榜与挑战等级的经典设计[[Paradigm|范式]]，明确以可预测、可重复与商业回报为核心开发目标。
 > - **2014 — 操作条件反射批评与赌博算法反思** 舒尔（Schüll）出版关于老虎机成瘾机制的经典专著，揭示硅谷开发者明确吸纳行为主义操作条件反射理论；施拉佩（Schrape）指出纯粹行为调控正在终结理性反思。
-> - **2017 — 国际组织专业研修网络的游戏化升级** 迈克·扎普（[[Argument_Zapp_2017_IJED|Zapp, 2017, p. 8]]）实证揭示世界银行开放学习园区（OLC）与 WBI 深度引入游戏化、情境模拟与同行互评模块，构建起跨国教育技术官僚的专业微认证与认知治理体系。
+> - **2017 — 国际组织专业研修网络的游戏化升级** 迈克·扎普（[[Argument_Zapp_2017_IJED|Zapp, 2017, p. 8]]）实证揭示世界银行开放学习园区（OLC）与 WBI 深度引入游戏化、情境模拟与同行互评模块，构建起[[Transnational Education|跨国教育]]技术官僚的专业微认证与认知治理体系。
 > - **2022 — 德国[[Critical Pedagogy|批判教学论]]对游戏化教育学的系统解构** 约尔尼茨与克林格（[[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022]]）结合格鲁施卡教学理论与教化（[[Bildung]]）概念，深入剖析中小学数学与阅读软件界面，指出游戏化奖励系统不仅消解了知识内容，更对人格教化反思造成结构性损害。
 
 ---

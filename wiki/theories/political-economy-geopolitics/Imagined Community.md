@@ -9,7 +9,7 @@ aliases:
 summary: "本尼迪克特·安德森提出的民族主义核心理论，主张民族是被想象的有边界和主权的政治共同体。成员虽互不相识却共享同属一体的心理图像；印刷资本主义与统一学校系统提供了物质制度基础；卡普与扎米斯卡进一步将其拓展至认知人类学与科技政治学，论证想象链接克服了邓巴数极限并维系超大规模技术协作，批判后国家思潮对“情感民族”防线的放弃导致公民认同崩解与商业技术公社的替代性兴起。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 31
+theory_related_count: 32
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Official Knowledge]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Nationalism]]"
   - "[[Geopolitics]]"
   - "[[Dunbar's Number]]"
   - "[[Civic Rituals]]"
@@ -67,7 +68,7 @@ updated: 2026-11-11
 > - **解释对象** 现代民族国家认同的生成机理、大规模陌生人群体间政治与文化纽带的维持机制、历史教育中[[Official Knowledge|官方知识]]对集体记忆的塑造，以及超大规模复杂技术协作的精神基础。
 > - **理论问题** 回应原生主义（Primordialism）将民族视作自古存在之自然实体的迷思；解释为何互不相识的陌生人能够产生深厚同志情谊并甘愿为共同体牺牲；阐明后现代去国家化思潮下放弃巡守“情感民族”边界（Emotional Nation）所诱发的社会解体风险。
 > - **理论类型** [[Constructivist Paradigm|建构主义]]解释理论与文化政治学[[Analytic Framework|分析框架]]。
-> - **知识位置** 现代性转型与民族主义理论（Anderson, Gellner, Hobsbawm），跨界延伸至比较教育学（[[Argument_Xu_2024_CE|Xu, 2024]]）与科技[[Geopolitics|地缘政治]]哲学（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）。
+> - **知识位置** 现代性转型与[[Nationalism|民族主义]]理论（Anderson, Gellner, Hobsbawm），跨界延伸至比较教育学（[[Argument_Xu_2024_CE|Xu, 2024]]）与科技[[Geopolitics|地缘政治]]哲学（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）。
 
 > [!claim] 核心判断
 > 民族是一个被想象的、有边界的和主权的政治共同体。民族之所以是“想象的”，是因为即便最小民族的成员也绝不可能认识大部分同胞，但每个人心中都活着他们共属一体的心理图像。印刷资本主义与统一学校系统奠定了民族想象的物质与制度基础（Anderson, 1983/2006）；在认知人类学与科技政治视域下，这种由语言和共同叙事构筑的“想象链接”是人类克服[[Dunbar's Number|邓巴数]]生理社交上限（约 150 人）、组织数百万陌生人协同推进尖端技术攻坚的战略基石。卡普与扎米斯卡进一步指出，当代知识阶层误将建构性当作解构国家的理由，放弃了对“情感民族”边界的守护（如 Sennett, 1994; Nussbaum, 1994）；当国家制造认同的[[Civic Rituals|公民仪式]]被系统拆解时，社会迅速退化为消费主义种姓与硅谷高科技封闭公社，偏离了后现代思潮预期的普遍[[Cosmopolitanism|世界主义]]。[[Argument_Xu_2024_CE|(Xu, 2024, p. 575)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–198)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 216–218)]]

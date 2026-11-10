@@ -9,7 +9,7 @@ summary: "通过识别行动者、关系、节点和连接来测量社会与学�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 66
+method_related_count: 68
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#fef3c7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Coauthorship Network]]"
   - "[[Policy Network]]"
+  - "[[Soft Privatisation]]"
   - "[[Policy Entrepreneur]]"
   - "[[Giant Component]]"
   - "[[Public-Private Partnership]]"
@@ -50,6 +51,7 @@ related_concepts:
   - "[[Collaborative Learning]]"
   - "[[Knowledge Production]]"
   - "[[Heterogeneity]]"
+  - "[[Transnational Education]]"
   - "[[Policy Brokerage]]"
   - "[[Causality]]"
   - "[[Epistemic Responsibility]]"
@@ -63,6 +65,7 @@ related_theories:
   - "[[Knowledge Building Theory]]"
   - "[[Complexity Theory]]"
   - "[[Small-World Collaboration Model]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Questionnaire]]"
@@ -82,8 +85,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Participant Observation]]"
 related_instruments: []
-related_persons:
-  - "[[Santo Fortunato]]"
+related_persons: []
 related_facts:
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
 related_arguments:
@@ -98,13 +100,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-22
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Network Analysis
-> 网络分析（Network Analysis / Social Network Analysis, SNA）是一门用于测量、绘制和解释社会情境中行动者及其连接关系结构规律性的混合研究方法（Knoke & Yang, 2008, p. 4）。其核心理论假定认为，行动者在网络中的位置与连接形态（即宏观-结构关系）比年龄、性别、阶级等个体传统属性能够更深刻地解释其社会行为、认知流动与[[Knowledge Building Theory|知识建构]]表现，且网络关系具有高度的情境特定性（Context-Specific）与时间演进动态性（Dynamic）。在微观教育研究中，它用于诊断课堂人际互动与分布式认知；在中观科学学与[[Document|文献]]计量中，它用于解析学者[[Coauthorship Network|合著网络]]的拓扑结构与小世界特征（Newman, 2001; [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási, 2021]]）；而在教育政策社会学与政治经济学视阈中（Ball, 2012; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]），网络分析进一步发展为解构跨界[[Policy Network|政策网络]]、连锁董事（Interlocking Directorates）兼职与隐性私有化资本渗透的核心分析工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|(Cohen et al., 2011, pp. 625–626)]]; [[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 899, 903–905)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–75)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 102–109)]]
+> 网络分析（Network Analysis / Social Network Analysis, SNA）是一门用于测量、绘制和解释社会情境中行动者及其连接关系结构规律性的混合研究方法（Knoke & Yang, 2008, p. 4）。其核心理论假定认为，行动者在网络中的位置与连接形态（即宏观-结构关系）比年龄、性别、阶级等个体传统属性能够更深刻地解释其社会行为、认知流动与[[Knowledge Building Theory|知识建构]]表现，且网络关系具有高度的情境特定性（Context-Specific）与时间演进动态性（Dynamic）。在微观教育研究中，它用于诊断课堂人际互动与分布式认知；在中观科学学与[[Document|文献]]计量中，它用于解析学者[[Coauthorship Network|合著网络]]的拓扑结构与小世界特征（Newman, 2001; [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási, 2021]]）；而在教育政策社会学与政治经济学视阈中（Ball, 2012; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]），网络分析进一步发展为解构跨界[[Policy Network|政策网络]]、连锁董事（Interlocking Directorates）兼职与[[Soft Privatisation|隐性私有化]]资本渗透的核心分析工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|(Cohen et al., 2011, pp. 625–626)]]; [[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 899, 903–905)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–75)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 102–109)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 社会与组织网络中的行动者（Actors / 节点 Nodes，包括学生、教师、学者、政客、商业高管与学者型[[Policy Entrepreneur|政策企业家]]）、关系与纽带（Relations / 连接 Ties，包括发帖互动、共同署名合著、资源流转、跨机构兼任与商标特许授权），以及网络整体的拓扑结构特征。
@@ -204,7 +206,7 @@ updated: 2026-11-02
 >   - 测度计算机支持的[[Collaborative Learning|协作学习]]（CSCL）与课堂[[Theory of Knowledge|知识论]]坛（KF）中学生的分布式认知网络与跨组互动密度；[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 899, 903)]]
 >   - 分析学校内部教师专业学习社群中的同行建议寻求网络结构；
 >   - 解析科学学与[[Knowledge Production|知识生产]]中的跨学科[[Coauthorship Network|合著网络]]拓扑，评估度分布重尾[[Heterogeneity|异质性]]、小世界商数与巨连通分支规律；[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 102–109)]]
->   - 解析跨区域、跨国教育[[Policy Brokerage|政策中介]]机构（如 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]]）之间的合作与资源共享拓扑；
+>   - 解析跨区域、[[Transnational Education|跨国教育]][[Policy Brokerage|政策中介]]机构（如 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]]）之间的合作与资源共享拓扑；
 >   - 识别教育改革推进中的关键[[Boundary Spanner|知识经纪人]]（Boundary Spanners）与孤立学校；
 >   - 绘制教育政策社会学中的公私跨界[[Policy Network|政策网络]]，解构政客、对冲基金、商业智库与[[Policy Entrepreneur|政策企业家]]构成的连锁董事治理拓扑与全球商标特许网络。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–75)]]
 > - **谨慎使用** 参与者流动频繁的临时项目网络；网络边界模糊且难以界定纳入排除标准的社会群体。
@@ -247,4 +249,4 @@ updated: 2026-11-02
 > - [[Argument_Brown_Greany_2018_LPS|Brown and Greany (2018)]] — 其基线[[Questionnaire|问卷]]从属于更大规模的社会网络分析设计，研究团队因此掌握每所学校教师与[[School Leadership|学校领导]]者的姓名与确切人数，得以逐校计算个体应答率。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 运用跨界[[Policy Network|政策网络]]与连锁董事分析，绘制新西兰公立[[Educational Privatisation|教育私有化]]中的学术特许网络与政商学同盟拓扑。
 > - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 抓取南亚与中亚 12 国 1,864 名政商学界精英与 115 个中国官方媒体及外交官的 Twitter 互动网络，运用 Louvain 社区发现算法、度中心度与中介中心度分析跨国社交信息扩散，揭示官方媒体作为前沿推送方与外交官作为守门人的结构特征。
-> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 综合运用超图知识网络与跨学科合著网络分析，揭示生物医药实体关联局限于近邻节点的拓扑路径依赖，并通过网络随机游走演化模型精准复现新兴学科合作巨连通分支相变与生产力分布。（pp. 2–3）
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 综合运用超图知识网络与跨学科合著网络分析，揭示生物医药实体关联局限于近邻节点的拓扑[[Path Dependence|路径依赖]]，并通过网络随机游走演化模型精准复现新兴学科合作巨连通分支相变与生产力分布。（pp. 2–3）

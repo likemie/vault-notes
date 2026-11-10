@@ -7,7 +7,7 @@ aliases:
 summary: "学习科学与教学设计中的前置探究时序模型，指在正式直接讲授前让学生先行尝试解决复杂的劣构问题，通过挫折激活先验图式并暴露认知盲区，为后续显性讲授创设最佳认知准备状态，进而促进深层概念理解与长效远迁移"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemic Agency]]"
   - "[[Variable]]"
+  - "[[Feedback]]"
   - "[[Problem Solving]]"
   - "[[Computer Simulation]]"
   - "[[Learned Helplessness]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ## 定义
@@ -169,7 +170,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题三｜生产性失败的促学效能严格依赖探究后教师的显性讲授与概念统整否则将退化为非生产性失败
-> **教学反馈回路与系统统整维度** 澄清生产性失败与放任自流的本质区别，确立教师讲授在失败转化中的核心地位。
+> **[[Feedback|教学反馈]]回路与系统统整维度** 澄清生产性失败与放任自流的本质区别，确立教师讲授在失败转化中的核心地位。
 
 > [!claim] Kapur, M. & [[Cindy E. Hmelo-Silver\|Hmelo-Silver, C. E.]]
 > **讲授统整环节对失败成效转化的决定性作用** 生产性失败的核心在于“失败的生产性转化”，有别于“失败”本身。如果探索阶段结束后没有教师对典型错误解法的比较剖析，没有对学科本质概念的显性梳理，学生就会停留在挫败感与错误图式中，导致实验退化为无成效的认知损耗。唯有将探究的自主建构性与教师讲授的结构精确性有机融合，才能构成完整的循证教学反馈回路。（Hmelo-Silver, Kapur, & Hamstra, 2018；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 8, 10]]）

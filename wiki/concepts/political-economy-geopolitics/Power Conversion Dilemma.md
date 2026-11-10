@@ -8,10 +8,10 @@ aliases:
 summary: "指大国在海外大规模投入资金援助、教育交流与文化推广等公共外交资源后，因受制于受援国国内政治博弈、族群生计摩擦、地缘安全审查及学历认证壁垒，无法顺畅将资源转化为持久草根好感度与政策协同倾向的结构性脱节现象。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/geopolitics
   - theme/soft-power
@@ -19,6 +19,7 @@ tags:
   - theme/educational-diplomacy
 related_concepts:
   - "[[Soft Power]]"
+  - "[[Study Abroad]]"
   - "[[Geopolitics]]"
   - "[[Public Diplomacy]]"
   - "[[International Education]]"
@@ -44,13 +45,13 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Power Conversion Dilemma
-> 权力转化困境（Power Conversion Dilemma），亦称[[Soft Power|软实力]]转化悖论，指外部大国在海外大规模投入资金外交、校舍援建、留学生奖学金及语言文化机构等资源后，因受制于对象国内部的族群生计冲突、国家安全审查、[[Geopolitics|地缘政治]]猜忌与专业学历认证壁垒，导致投入的巨额物质与文化资源无法顺畅转化为对象国社会自发的政治好感、价值认同及对外政策协同的结构性脱节现象。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 62–68, 73–75)]]
+> 权力转化困境（Power Conversion Dilemma），亦称[[Soft Power|软实力]]转化悖论，指外部大国在海外大规模投入资金外交、校舍援建、[[Study Abroad|留学]]生奖学金及语言文化机构等资源后，因受制于对象国内部的族群生计冲突、国家安全审查、[[Geopolitics|地缘政治]]猜忌与专业学历认证壁垒，导致投入的巨额物质与文化资源无法顺畅转化为对象国社会自发的政治好感、价值认同及对外政策协同的结构性脱节现象。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 62–68, 73–75)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向权力转化过程中的耗散与摩擦机制，揭示了“拥有权力资源”与“实现期望治理结果”之间的非线性断裂。

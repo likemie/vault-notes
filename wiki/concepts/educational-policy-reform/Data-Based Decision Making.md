@@ -7,7 +7,7 @@ aliases:
 summary: "教育管理与教学中以系统层面和课堂层面的多元数据为依据作出决策的取向，经历目标设定、数据收集、质检分析、改进落实与循环评估的探究过程；虽能精准诊断校本学情病因，但自身不包含现成教学解决方案，亟需与外部研究知情教学实践（RITP）在学校探究循环中深度整合。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Technical Rationality]]"
   - "[[Teacher Collaboration]]"
+  - "[[Algorithmic Bias]]"
   - "[[Variable]]"
   - "[[Dialogue in Education]]"
   - "[[Paradigm]]"
@@ -65,7 +66,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -163,7 +164,7 @@ updated: 2026-11-03
 > - **2000s — 美国 [[No Child Left Behind Act 2001\|NCLB]] 法案驱动与高利害问责** 美国颁布《不让一个孩子掉队法案》（NCLB），DBDM 在强问责背景下兴起，早期过度聚焦终结性标准化考试成绩与行政达标监控。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 157)]]
 > - **2010s — 形成性改进转向与[[Data Team Intervention\|数据团队]]模型确立** 国际学界反思数据单一问责弊端，主张数据使用应聚焦课堂教学革新；[[Kim Schildkamp]] 团队在荷兰开发八步数据团队（Data Team）干预模型，推动 DBDM 走向[[Teacher Collaboration|教师协作]]探究与形成性学情反馈。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 157–158)]]
 > - **2017 — 证据知情视阈下的两界整合（[[School Enquiry Cycle\|ESTI]]）** [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] 与 [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] 汇聚国际前沿实证，系统论述 DBDM 与 [[Research-Informed Teaching Practice\|RITP]] 割裂的固有盲区，提出贯通两界的 ESTI 八步[[Inquiry Cycle\|探究循环]]与定性定量[[Triangulation\|三角验证]]机制。
-> - **2020s — 复杂生态、算法审思与质性证据回归** 伴随对大数据与算法偏见的批判性审视，学界与实践界愈发强调将质性课堂证据、学生声音与教师[[Professional Judgment\|专业判断]]置于数据决策的核心枢纽。
+> - **2020s — 复杂生态、算法审思与质性证据回归** 伴随对大数据与[[Algorithmic Bias|算法偏见]]的批判性审视，学界与实践界愈发强调将质性课堂证据、学生声音与教师[[Professional Judgment\|专业判断]]置于数据决策的核心枢纽。
 
 ---
 

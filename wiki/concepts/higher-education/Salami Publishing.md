@@ -10,7 +10,7 @@ aliases:
 summary: "指涉科研人员在量化考核导向下，将一项原本连贯完整的研究发现人为拆解割裂为多个仅满足基本发表门槛的最小数据单元分别投递的发表策略；该现象虚假推高了学者表观生产力，却稀释了单篇文献的知识增量与平均长程被引影响力。"
 type: concept
 domain: "higher-education"
-related_count: 14
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Document]]"
   - "[[Scientific Productivity]]"
+  - "[[Cumulative Innovation]]"
   - "[[Variable]]"
   - "[[Knowledge Exchange]]"
   - "[[Chain of Evidence]]"
@@ -32,6 +33,8 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Network Analysis]]"
+  - "[[Journal Impact Factor]]"
+  - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
   - "[[Dashun Wang]]"
@@ -44,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-29"
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -63,7 +66,7 @@ updated: 2026-11-03
 > *There have also been more discussions about LPUs, which stands for least publishable unit or the "salami publishing" approach, which could further contribute to inflated productivity counts... while great scientists tend to be very productive, not all scientists who are productive make long-lasting contributions.*
 
 > [!boundary]- 概念边界
-> - 不等于 系列跟进研究（Follow-up Studies） — 合法后续研究在原有发现基础上拓展新[[Variable|变量]]、新样本或新机理，展现出实质知识递进；切香肠式发表仅对同一数据集做排列组合或同一论点换汤不换药式拆割。
+> - 不等于 系列跟进研究（Follow-up Studies） — 合法[[Cumulative Innovation|后续研究]]在原有发现基础上拓展新[[Variable|变量]]、新样本或新机理，展现出实质知识递进；切香肠式发表仅对同一数据集做排列组合或同一论点换汤不换药式拆割。
 > - 不等于 分阶段跨学科成果发表 — 大型跨学科综合课题在不同子领域期刊发表不同侧重点的独立成果属于合理[[Knowledge Exchange|知识交流]]，切香肠式发表特指将单一自洽的完整成果刻意切分成零散碎片。
 
 ---
@@ -123,9 +126,9 @@ updated: 2026-11-03
 
 > [!dev-timeline] 概念演变
 > - **1981 — 现象警示** 威廉·J·布罗德在《科学》杂志撰文《切香肠式发表的兴起》（The Salami Slicing of Science），首次将 LPU 作为概念提出。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 15)]]
-> - **2000s — 文献计量实证反思** 学界开始结合引文[[Network Analysis|网络分析]]碎片化发表对期刊影响因子与个人指标的扭曲作用。
+> - **2000s — 文献计量实证反思** 学界开始结合引文[[Network Analysis|网络分析]]碎片化发表对[[Journal Impact Factor|期刊影响因子]]与个人指标的扭曲作用。
 > - **2021 — 科学学系统检视** 王大顺与巴拉巴西在《科学学》专著中将切香肠策略作为解释为何“发文量在所有指标中[[Predictive Validity|预测效度]]最差”的关键机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 15–16)]]
-> - **2023 — 计量指标偏差系统综述** 刘等系统总结引文指标的构念偏差，将切分发表（Salami Slicing）列为诱发学术生产力虚假膨胀与科研评价扭曲的核心微观策略。[[Argument_Liu_2023_NHB|(Liu et al., 2023, p. 1877)]]
+> - **2023 — 计量指标偏差[[Systematic Review|系统综述]]** 刘等系统总结引文指标的构念偏差，将切分发表（Salami Slicing）列为诱发学术生产力虚假膨胀与科研评价扭曲的核心微观策略。[[Argument_Liu_2023_NHB|(Liu et al., 2023, p. 1877)]]
 
 ---
 

@@ -9,7 +9,7 @@ summary: "源自社会学的经典质性研究设计，通过理论抽样、多�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 63
+method_related_count: 61
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dbeafe"
@@ -33,6 +33,8 @@ related_concepts:
   - "[[Fitness for Purpose]]"
   - "[[Epistemology]]"
   - "[[Meaningful Human Control]]"
+  - "[[Research Question]]"
+  - "[[Epoché]]"
   - "[[Objectivism]]"
   - "[[Postpositivism]]"
   - "[[Reliability]]"
@@ -45,18 +47,17 @@ related_concepts:
   - "[[Variable]]"
   - "[[Assemblage]]"
   - "[[Externalization]]"
-  - "[[Generative Artificial Intelligence]]"
   - "[[Man-Computer Symbiosis]]"
-  - "[[Research Question]]"
-  - "[[Epoché]]"
   - "[[Rich and Thick Description]]"
   - "[[Causal Processes]]"
   - "[[Concept Mapping]]"
   - "[[Scaffolding]]"
   - "[[Embedded Network Governance]]"
+  - "[[System-Wide Improvement]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Phenomenology]]"
+  - "[[Theories of the Driving Forces]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Open Coding]]"
@@ -70,11 +71,9 @@ related_methods:
   - "[[Theoretical Sampling]]"
   - "[[Constant Comparison]]"
   - "[[Qualitative Computer Software]]"
-  - "[[Random Sampling]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Audit Trail]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Ethnography]]"
-  - "[[Quantitative Research]]"
   - "[[Content Analysis]]"
   - "[[Questionnaire]]"
   - "[[Domain Analysis]]"
@@ -83,18 +82,17 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Dimensions]]"
   - "[[DARPA]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
   - "[[Argument_Fuchs_2010_RP]]"
   - "[[Argument_Barrenechea_2023_JEC]]"
 confidence: high
 status: stable
 created: 2026-05-30
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -107,7 +105,7 @@ updated: 2026-11-10
 > [!method-scope] 方法范围
 > - **研究对象** [[In-depth Interview|深度访谈]]逐字稿、现场[[Participant Observation|参与观察]]笔记、当事人生命史[[Reflexivity|反思性]]自述、组织制度文本、田野日记等多源质性材料。
 > - **问题类型** 适合回答关于“某一社会现象、心理转变或制度实践如何在特定情境中随时间推移而演变、各方行动者如何互动以及导致何种结果”的过程性与机制性问题。
-> - **[[Unit of Analysis|分析单位]]** 词句微观意群、本土概念、行动策略范畴、六要素[[Paradigm|范式]]联结模型、理论[[Story Line|故事线]]以及核心范畴。
+> - **[[Unit of Analysis|分析单位]]** 词句微观意群、本土概念、行动策略范畴、六要素[[Paradigm|范式]]联结模型、理论[[Story Line|故事线]]以及[[Central Phenomenon|核心范畴]]。
 > - **输出形式** 概念范畴体系、属性与维度连续统矩阵、主轴因果条件模型、理论故事线叙述架构、实质性扎根理论模型与假说命题系统。
 
 > [!citation-card] Creswell 论扎根理论的核心定位
@@ -115,14 +113,14 @@ updated: 2026-11-10
 >
 > *Grounded theory is a qualitative design in which the researcher generates a general explanation (a theory) of a process, action, or interaction shaped by the views of a large number of participants.*
 
-> [!citation-card] Glaser 论扎根理论的方法论包容性与范式实用主义
+> [!citation-card] Glaser 论扎根理论的方法论包容性与范式[[Pragmatic Paradigm|实用主义]]
 > 扎根理论的创立初衷之一正是将量化分析工具与严谨精神运用于质性材料；在经验分析的真实世界中，[[Research Purpose|研究目的]]适切性始终高于教条的范式纯洁性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|(Cohen et al., 2011, Ch. 30, p. 569)]]
 >
 > *Glaser (1996) is on record as saying that not only did grounded theory develop out of a desire to apply a quantitative paradigm to qualitative data, but that paradigmatic purity was unacceptable in the real world of qualitative data analysis, in which [[Fitness for Purpose]] should be the guide.*
 
 ---
 
-> [!method-position] 认识论与方法定位
+> [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 社会世界充斥着动态演进的行动、意义与情境互动；扎根理论主张理论通过系统的经验提炼与持续比较建构而成，形成立足经验事实的解释性认知图景。
 > - **研究者角色** 研究者是理论建构的核心催化者与编织工具，既须保持对未知概念的高度理论敏感度，又须通过[[Reflexivity|反身性]]自省与备忘录（[[Memos]]）防范将主观学术前见先验强加于经验事实。
 > - **有效性标准** 概念的经验拟合度（fit）、理论的可理解性（grasp / understandability）、对相关领域的普遍适用性（generality）、对情境实践的指导控制力（control），以及范畴网络的[[Saturation|理论饱和]]度（theoretical saturation）。
@@ -137,8 +135,8 @@ updated: 2026-11-10
 ---
 
 > [!proc] 通用程序
-> 1. 明确研究问题、核心现象、分析单位与探索性边界，采用过程导向设问。
-> 2. 开展首轮经验材料收集，建立研究反思备忘录与审计追踪记录。
+> 1. 明确[[Research Question|研究问题]]、核心现象、分析单位与探索性边界，采用过程导向设问。
+> 2. 开展首轮经验材料收集，建立研究反思备忘录与[[Audit Trail|审计追踪]]记录。
 > 3. 实施逐行微观意群切片与开放编码，展开概念属性与连续统维度。
 > 4. 依托理论抽样定向增补经验样本，围绕轴心范畴开展主轴因果机制拼装。
 > 5. 识别核心故事线与核心范畴，系统整合所有范畴直至达成理论饱和。
@@ -152,7 +150,7 @@ updated: 2026-11-10
 > | 资料边界 | 资料收集与多轮编码同步交织推进，以范畴维度不再增加的[[Saturation\|理论饱和]]为终止准则。 |
 
 > [!proc] 质性分析程序
-> 1. **文本切片与开放编码** 将转录稿细切为微观分析单元，提炼初始范畴并展开特征属性与维度连续统。
+> 1. **文本切片与开放编码** 将[[Transcription in Qualitative Research|转录]]稿细切为微观分析单元，提炼初始范畴并展开特征属性与维度连续统。
 > 2. **范式拼装与主轴编码** 围绕轴心范畴依据条件、脉络、行动策略与结果模型建立因果机制网络。
 > 3. **故事线提炼与选择性编码** 围绕主要故事线识别核心范畴，在维度层面系统整合所有主轴范畴。
 > 4. **全程持续比较与备忘录撰写** 持续开展片段间、概念间与范畴间的四重比较，记录研究者反思决策轨迹。
@@ -169,10 +167,10 @@ updated: 2026-11-10
 > [!layer] 扎根理论三级编码进阶谱系
 >
 > > [!col-l] 基础碎化与属性维度
-> > - **[[Open Coding|开放编码]]（Open Coding）** 将[[Transcription in Qualitative Research|转录]]稿细切为微观[[Unit of Analysis|分析单元]]，提炼初始范畴并展开其特征属性（properties）与连续统维度（dimensions），奠定概念变异的操作弹性（Strauss & Corbin, 1990, pp. 61–72）。
+> > - **[[Open Coding|开放编码]]（Open Coding）** 将[[Transcription in Qualitative Research|转录]]稿细切为微观[[Unit of Analysis|分析单元]]，提炼初始范畴并展开其特征属性（properties）与连续统维度（[[Dimensions|dimensions]]），奠定概念变异的操作弹性（Strauss & Corbin, 1990, pp. 61–72）。
 > > - **分析编码（Analytic Coding）** 超越表层活动描述，赋予更具解释力的推论性标签（如将“做实验、控[[Variable|变量]]”提炼为“像科学家一样工作”）。
 >
-> > [!col-r] 局部组装与理论整合
+> > [!col-r] 局部[[Assemblage|组装]]与理论整合
 > > - **[[Axial Coding|主轴编码]]（Axial Coding）** 围绕轴心范畴依据六要素[[Paradigm|范式]]模型（因果条件、情境、中介条件、[[Central Phenomenon|核心现象]]、行动互动策略、结果）重新拼装碎化数据，建立因果机制网络（Strauss & Corbin, 1990, pp. 96–106）。
 > > - **[[Selective Coding|选择性编码]]（Selective Coding）** 围绕主要[[Story Line|故事线]]识别并确立核心范畴，在维度层面上系统整合所有主轴范畴，填补空缺以达成概念密度与[[Saturation|理论饱和]]（Strauss & Corbin, 1990, pp. 116–117）。
 
@@ -193,10 +191,10 @@ updated: 2026-11-10
 
 > [!example] 理论备忘录、范畴层级控制与 CAQDAS / 大模型协同
 > - **范畴浅层控制（Shallow Hierarchies）** 编码构建形成自下而上的包容层级；格雷厄姆·吉布斯（Graham Gibbs, 2007, pp. 75–77）警示，编码树应当保持浅层结构而非过度嵌套的深层结构，避免分类系统二次碎片化而削弱核心理论的解释穿透力（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 562]]）。
-> - **传统 CAQDAS 的软件实现逻辑** 计算机辅助[[Qualitative Computer Software|质性数据分析软件]]架构设计深受扎根理论塑造；隆基拉（Markku Lonkila, 1995）论证了计算机如何通过节点标记、持续检索、超链接联结与交互概念网络图为理论生成提供认知外化支撑；凯勒（Udo Kelle, 2000, p. 295）提出了软件辅助扎根分析的六步序列。
-> - **大模型人机协同与人在回路防线** 大模型可辅助执行海量文本语义扫描与概念启发，但核心范畴确立、故事线提炼与反常案例核验必须由人类研究者掌控，确保[[Meaningful Human Control|人在回路]]（HITL）并维持完整[[Audit Trail|审计追踪]]。
+> - **传统 CAQDAS 的软件实现逻辑** 计算机辅助[[Qualitative Computer Software|质性数据分析软件]]架构设计深受扎根理论塑造；隆基拉（Markku Lonkila, 1995）论证了计算机如何通过节点标记、持续检索、超链接联结与交互概念网络图为理论生成提供认知[[Externalization|外化]]支撑；凯勒（Udo Kelle, 2000, p. 295）提出了软件辅助扎根分析的六步序列。
+> - **大模型[[Man-Computer Symbiosis|人机协同]]与人在回路防线** 大模型可辅助执行海量文本语义扫描与概念启发，但核心范畴确立、故事线提炼与反常案例核验必须由人类研究者掌控，确保[[Meaningful Human Control|人在回路]]（HITL）并维持完整[[Audit Trail|审计追踪]]。
 
-> [!contrast-table] 扎根理论 vs 现象学 vs 民族志 vs 内容分析
+> [!contrast-table] 扎根理论 vs [[Phenomenology|现象学]] vs [[Ethnography|民族志]] vs [[Content Analysis|内容分析]]
 > | 比较维度 | 扎根理论（Grounded Theory） | [[Phenomenology\|现象学]]（Phenomenology） | [[Ethnography\|民族志]]（Ethnography） | [[Content Analysis\|内容分析]]（Content Analysis） |
 > |---|---|---|---|
 > | **核心探究目的** | 生成解释某一过程或互动的实质理论 | 描述个体对某一现象的活生生经验本质 | 阐释特定文化群体的共享行为与价值模式 | 从传播文本向使用情境作出系统推论 |
@@ -246,4 +244,4 @@ updated: 2026-11-10
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al. (2011)]] — 整合第 30 章编码三阶进阶与[[Story Line|故事线]]规程、第 28 章计算机辅助理论生成及第 29 章[[Constant Comparison|持续比较法]]，系统剖析扎根理论从经验切片到核心范畴构建的操作规程与去情境化防范。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 阐释扎根理论聚焦社会互动过程的[[Research Question|研究问题]]设计逻辑，系统论述基于[[Theoretical Sampling|理论抽样]]与多阶段编码生成实质性解释理论的完整研究规程（Ch. 1, 7, 9）。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 以扎根理论方法对 [[DARPA]] MTO 16 年的半导体材料资助案例做编码与持续比较，提炼 5 项非正式治理机制，建构[[Embedded Network Governance|嵌入型网络治理]]理论。
-> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 遵循扎根理论三级编码程序对 43 篇低中收入国家教育系统改进文献进行归纳提炼，构建涵盖战略连贯、教师资本、治理桥接与资源倾斜的四大核心驱动力理论框架（pp. 3–5）。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 遵循扎根理论三级编码程序对 43 篇低中收入国家[[System-Wide Improvement|教育系统改进]]文献进行归纳提炼，构建涵盖战略连贯、教师资本、治理桥接与资源倾斜的四大核心[[Theories of the Driving Forces|驱动力理论]]框架（pp. 3–5）。

@@ -19,7 +19,6 @@ related_concepts:
   - "[[Revolutionism]]"
   - "[[Knowledge Production]]"
   - "[[Geopolitics]]"
-  - "[[Screening Off]]"
   - "[[Knowledge Power]]"
   - "[[Epistemology]]"
   - "[[Discourse]]"
@@ -34,6 +33,7 @@ related_concepts:
   - "[[Global Citizenship]]"
   - "[[Hard Power]]"
   - "[[International Mind]]"
+  - "[[Transnational Education]]"
   - "[[Knowledge Exchange]]"
 related_theories:
   - "[[Governing at a Distance]]"
@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -69,7 +69,7 @@ updated: 2026-11-03
 > **注意力议程（Agendas of Attention）** 指比较教育研究由于受到特定国际关系传统（现实主义、理性主义、[[Revolutionism\|革命主义]]）的影响，而在[[Knowledge Production\|知识生产]]中有选择地关注某些问题（在场）并排斥、遗忘另一些问题（缺席）的过滤与控制机制。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 416]])
 
 > [!concept-lens] 概念透镜
-> - **含义** 该概念指向比较教育知识生产中由于底层[[Geopolitics|地缘政治]]和国际关系设想的不同，导致研究重点呈现系统性偏倚、[[Screening Off\|屏蔽]]和选择性呈现的规律。
+> - **含义** 该概念指向比较教育知识生产中由于底层[[Geopolitics|地缘政治]]和国际关系设想的不同，导致研究重点呈现系统性偏倚、屏蔽和选择性呈现的规律。
 > - **用途** 它帮助研究者批判性地识别特定学术研究“照亮了什么，又遮蔽了什么”，进而解构看似客观的比较研究背后的地缘利益与[[Knowledge Power|知识权力]]分配。
 > - **边界** 它侧重于宏观地缘和[[Epistemology\|认识论]]层次上的[[Discourse|话语]]屏蔽分析，不适合用来解释学者个人微观主观学术兴趣的偶然转变。
 
@@ -95,7 +95,7 @@ updated: 2026-11-03
 
 > [!feature] 核心要素
 > - **在场（Presences）** 指在特定国关传统影响下，在比较教育研究中被高度强调、制度化显现并占据统治地位的主题（如现实主义下的民族国家、借用吸引与[[Reference Society\|参考社会]]；或理性主义下的[[Governing at a Distance\|远处治理]]与大数据评估）。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 420–425]])
-> - **缺席（Absences）** 指被学术[[Discourse|话语]]系统性[[Screening Off\|屏蔽]]、遗忘、排斥在研究视线之外的主题（如现实主义下被掩盖的殖民扩张暗面与权力不对称；或理性主义下被掩盖的[[OECD\|经合组织]]数据独裁与新自由主义资本统治）。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 421]])
+> - **缺席（Absences）** 指被学术[[Discourse|话语]]系统性屏蔽、遗忘、排斥在研究视线之外的主题（如现实主义下被掩盖的殖民扩张暗面与权力不对称；或理性主义下被掩盖的[[OECD\|经合组织]]数据独裁与新自由主义资本统治）。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 421]])
 > - **[[Epistemology\|认识论]]混合（Intermixing of Epistemologies）** 三大传统的注意力议程有别于割裂的，它们在比较教育的实际文本与历史演进中往往呈现出复杂的混合、妥协和交叉共存状态。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 431]])
 
 > [!logic-map]- 要素关系
@@ -118,7 +118,7 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题类型二｜现实主义注意力议程在关注国家竞争借用的同时[[Screening Off|屏蔽]]了权力不对称与殖民扩张历史
+> [!concept-proposition] 命题类型二｜现实主义注意力议程在关注国家竞争借用的同时屏蔽了权力不对称与殖民扩张历史
 > **实力竞争与殖民盲区** 探讨现实主义假设下学科对国家能力的过度聚焦与对政治压迫的视而不见。学者们倾向于揭示现代主义比较工具的[[Geopolitics|地缘政治]]暗面。
 
 > [!claim] Klerides, E.
@@ -167,13 +167,13 @@ updated: 2026-11-03
 
 > [!critique] 学理与方法论批判
 > - **过度欧洲中心主义** 整个注意力议程的基础依赖于怀特对欧洲国际理论的归纳，其三位代表学者（马基雅维利、格劳秀斯、[[Immanuel Kant\|康德]]）以及所涉及的哲学底色皆源于西欧传统，限制了其对非西方世界自主国际关系思想及注意力重组的解释力。
-> - **非西方帝国主义的[[Screening Off\|屏蔽]]** 该概念自身在强力反思西方[[Discourse|话语]]对非西方心智的殖民时，也选择性地将历史上和现实中“非西方帝国”的地缘扩张和殖民奴役列为了缺席。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 430]])
+> - **非西方帝国主义的屏蔽** 该概念自身在强力反思西方[[Discourse|话语]]对非西方心智的殖民时，也选择性地将历史上和现实中“非西方帝国”的地缘扩张和殖民奴役列为了缺席。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 430]])
 
 ---
 
 > [!evidence-grid] 典型研究与应用案例
 > - **冷战人造卫星（[[Sputnik Shock 1957\|Sputnik]]）冲击后的议程转换** 1957 年苏联成功发射首颗人造卫星触发了美国对自身科技教育落后的恐慌。这一现实主义的地缘生存与安全焦虑迅速主导了美国的注意力议程，促使联邦政府强力干预教育，并通过《[[National Defense Education Act of 1958|国防教育法]]》直接借用苏联的理工与外语重视。这一转变展示了地缘秩序危机如何瞬间改变学科的注意力在场。
-> - **后冷战时期国际组织远程评估的注意力重构** 随着多边协商与[[Governing at a Distance\|远处治理]]成为理性主义全球化的主导，[[World Bank\|世界银行]]和[[OECD\|经合组织]]等通过基准测试和[[PISA\|国际学生评估项目]]（PISA），将复杂的跨国教育比较重塑为技术性的全球排名。它选择性地让跨国治理指标和[[Human Capital Theory\|人力资本]]效能占据在场，同时掩盖了数据霸权背后的西方主导权，将政治权力冲突成功“技术化”。
+> - **后冷战时期国际组织远程评估的注意力重构** 随着多边协商与[[Governing at a Distance\|远处治理]]成为理性主义全球化的主导，[[World Bank\|世界银行]]和[[OECD\|经合组织]]等通过基准测试和[[PISA\|国际学生评估项目]]（PISA），将复杂的[[Transnational Education|跨国教育]]比较重塑为技术性的全球排名。它选择性地让跨国治理指标和[[Human Capital Theory\|人力资本]]效能占据在场，同时掩盖了数据霸权背后的西方主导权，将政治权力冲突成功“技术化”。
 > - **[[Dependency Theory\|依附理论]]与去殖民比较教育的议程开辟** 1970 年代新马克思主义学者（如卡诺伊等）采用依附理论，将西方的教育援助和评估体系解构为对边缘国家心智的奴役。去殖民路径进一步致力于打破学科自身的殖民认识型（包括朱利安 1817 年学科奠基方案的帝国扩张烙印），将南南[[Knowledge Exchange\|知识交流]]和原住民认知确立为在场，实现了对传统注意力边界的突破。
 > - **两次世界大战之间的教科书去民族偏见运动** 两次大战之间，国际联盟的国际知识合作组织与北欧协会等致力于通过教科书比较审查，消除历史叙事中的遗漏、歪曲和刻板印象。这一实践服务于塑造适应多边合作的“[[International Mind\|国际心智]]”，标志着理性主义和平政治对学术界注意力在场的首次大规模制度化构建。
 

@@ -7,7 +7,7 @@ aliases:
 summary: "新古典福利经济学核心概念，指由于公共品、外部性、信息不对称与不完全竞争导致自由市场价格机制无法实现帕累托最优资源配置；在科技政策中构成了传统研发资助与产业政策（集聚外部性、干中学效应）的基准依据，但在演化经济学与当代地缘政治产业政策实践中，该框架因无法指引演化方向并被国家安全与供应链保险动机所超越，成为理论反思与扩展的核心对象。"
 type: concept
 domain: "science-policy"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -48,6 +48,7 @@ related_theories:
   - "[[Technological Trajectories]]"
   - "[[Path Dependence]]"
 related_persons:
+  - "[[Vilfredo Pareto]]"
   - "[[Mariana Mazzucato]]"
   - "[[Rainer Kattel]]"
   - "[[Richard Nelson]]"
@@ -82,13 +83,13 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Market Failure
-> **市场失灵（Market Failure / 市场失灵理论）** 是新古典福利经济学（Neoclassical Welfare Economics）的核心基石概念，指在自由放任的市场环境中，由于价格机制无法满足完全竞争与完备市场的理想假设，导致资源配置无法自发达到帕累托最优（Pareto Optimality）状态的经济现象（Bator, 1958; Arrow, 1962）。在传统科技与产业政策中，市场失灵理论构成了国家干预的唯一合法性基准——包括因知识外溢导致的基础研发供给不足、因生产规模经济引发的[[Learning by Doing|干中学]]（[[Learning by Doing]]）壁垒，以及由于地理集聚带来的[[Agglomeration Externalities|集聚外部性]]（Agglomeration Externalities）错配。然而，在[[Evolutionary Economics|演化经济学]]中，[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）与[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）批评该框架只能被动修补失灵而无法指引创新战略方向（[[Directionality of Innovation|directionality]]）；而在当代前沿高科技博弈中，查德·鲍恩（Chad P. Bown）与王丹（Dan Wang）进一步指出，[[Modern Industrial Policy|现代产业政策]]的动因已由单纯的效率失灵修补转变为国家安全保障、地缘技术遏制与供应链韧性保险，甚至不惜以牺牲集聚外部性与经济效率为代价。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]; [[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 81–83, 102)]]
+> **市场失灵（Market Failure / 市场失灵理论）** 是新古典福利经济学（Neoclassical Welfare Economics）的核心基石概念，指在自由放任的市场环境中，由于价格机制无法满足完全竞争与完备市场的理想假设，导致资源配置无法自发达到[[Vilfredo Pareto|帕累托]]最优（Pareto Optimality）状态的经济现象（Bator, 1958; Arrow, 1962）。在传统科技与产业政策中，市场失灵理论构成了国家干预的唯一合法性基准——包括因知识外溢导致的基础研发供给不足、因生产规模经济引发的[[Learning by Doing|干中学]]（[[Learning by Doing]]）壁垒，以及由于地理集聚带来的[[Agglomeration Externalities|集聚外部性]]（Agglomeration Externalities）错配。然而，在[[Evolutionary Economics|演化经济学]]中，[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）与[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）批评该框架只能被动修补失灵而无法指引创新战略方向（[[Directionality of Innovation|directionality]]）；而在当代前沿高科技博弈中，查德·鲍恩（Chad P. Bown）与王丹（Dan Wang）进一步指出，[[Modern Industrial Policy|现代产业政策]]的动因已由单纯的效率失灵修补转变为国家安全保障、地缘技术遏制与供应链韧性保险，甚至不惜以牺牲集聚外部性与经济效率为代价。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]; [[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 81–83, 102)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 确立了新古典经济学中公共干预的严格边界：国家只能在经证明存在市场缺陷处充当修补者与被动去风险者，目标在于“平整竞争场地”（Leveling the Playing [[Champ|field]]）。

@@ -12,10 +12,10 @@ aliases:
 summary: "本意为促进发展的教育或心理干预在实施后反而对受试者产生系统性负面损害或越轨行为加剧的现象，在循证清算体系中被设立为不可豁免的一票否决红线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/research-methodology
   - research-ethics
@@ -35,6 +35,7 @@ related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
   - "[[Effect Size]]"
+  - "[[Cognitive Extent]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
   - "[[Cluster Randomized Trials]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -78,7 +79,7 @@ updated: 2026-10-30
 > 2. **标签化效应与[[Learned Helplessness\|习得性无助]]（Stigmatization & Self-Fulfilling Prophecy）**
 >    - 将学困生强制抽离出常规班级进行低阶补救教学（Pull-out Remediation），容易使学生被同伴和教师贴上“差生”标签，破坏其学业自尊心与归属感，诱发破罐子破摔的消极应对。
 > 3. **教学时间挤压与学科偏食（Instructional [[Institutional Displacement|displacement]]）**
->    - 过度拉长某一单项高强度干预的时间（如每日 2.5 小时机械式阅读集训），系统性挤占了科学、艺术、体育及自主探索的时间，造成认知广度受损与[[Student Motivation|学习动机]]倦怠。
+>    - 过度拉长某一单项高强度干预的时间（如每日 2.5 小时机械式阅读集训），系统性挤占了科学、艺术、体育及自主探索的时间，造成[[Cognitive Extent|认知广度]]受损与[[Student Motivation|学习动机]]倦怠。
 
 ---
 

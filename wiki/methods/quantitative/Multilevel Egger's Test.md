@@ -10,7 +10,7 @@ summary: "在多水平与聚类依赖元分析数据中检验小研究效应与�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Research Contribution]]"
   - "[[Sampling Error]]"
   - "[[Heterogeneity]]"
+  - "[[Creativity]]"
 related_methods:
   - "[[Egger Regression Test]]"
   - "[[Meta-meta-analysis]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -173,4 +174,4 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 检验发现显著小研究效应（$p = .002$），并将创造力总体效应量校正为 $r = 0.17$。
+> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 检验发现显著小研究效应（$p = .002$），并将[[Creativity|创造力]]总体效应量校正为 $r = 0.17$。

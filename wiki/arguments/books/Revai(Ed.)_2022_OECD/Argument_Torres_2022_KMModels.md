@@ -7,7 +7,7 @@ title: "Argument_Torres_2022_KMModels"
 argument_key: "Argument_Torres_2022_KMModels"
 argument_display_title: "Louder than words: Review and comparative analysis of knowledge mobilisation models"
 argument_kind: "book-chapter"
-argument_related_count: 46
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Research Utilization]]"
   - "[[Evidence-Informed Decision-Making]]"
+  - "[[Third Voice]]"
   - "[[Innovation Ecosystem]]"
   - "[[Paradigm]]"
   - "[[Heterogeneity]]"
@@ -53,6 +54,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Research-Informed Teaching Practice]]"
   - "[[Phronesis]]"
+  - "[[Appropriate Research]]"
   - "[[Reliability]]"
   - "[[Critical Thinking]]"
   - "[[Research Literacy]]"
@@ -88,7 +90,7 @@ sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch02_Torres_2022|Ch02_Torres_2022]]"
 status: draft
 created: 2026-09-12
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
@@ -99,7 +101,7 @@ updated: 2026-10-29
 > 知识动员模型经历由单向线性包装交付向关系互动网络与自适应复杂系统的代际演进；既有主流模型依然残留着功能割裂、窄化单一证据源及遮蔽终极教育目标的局限。唯有统合多元知识形态、明确系统战略目标并将研究与教育创新有机共生，才能构建驱动学生与专业深度学习的下一代教育证据生态系统模型。（pp.34, 51–52）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 卫生、社会政策与教育领域被高频引用的四大经典知识动员模型——Lavis et al. (2003) 的[[Knowledge Transfer\|知识转移]]战略框架、Graham et al. (2006) 的知识到行动框架（Knowledge-to-Action, KTA）、Levin (2004, 2013) 的[[Research Knowledge Mobilisation Model\|研究知识动员模型]]（Research Knowledge Mobilisation, RKM）、Gough et al. (2011, 2019) 的[[Research Utilization\|证据使用]]生态框架，以及四组新兴微观机制模型——Langer et al. (2016) 的[[Evidence-Informed Decision-Making\|证据知情决策]]行为改变框架（Evidence-Informed Decision-Making, EIDM）、Cain (2015) 的教师三种声音理论、Rickinson et al. (2020) 的[[Quality Use of Research Evidence Framework\|高质量研究使用框架]]（[[Quality Use of Research Evidence Framework\|Quality Use of Research Evidence]], QURE）、Révai (2020) 的证据-[[Innovation Ecosystem\|创新生态]]知识动力学模型。
+> - **对象** 卫生、社会政策与教育领域被高频引用的四大经典知识动员模型——Lavis et al. (2003) 的[[Knowledge Transfer\|知识转移]]战略框架、Graham et al. (2006) 的知识到行动框架（Knowledge-to-Action, KTA）、Levin (2004, 2013) 的[[Research Knowledge Mobilisation Model\|研究知识动员模型]]（Research Knowledge Mobilisation, RKM）、Gough et al. (2011, 2019) 的[[Research Utilization\|证据使用]]生态框架，以及四组新兴微观机制模型——Langer et al. (2016) 的[[Evidence-Informed Decision-Making\|证据知情决策]]行为改变框架（Evidence-Informed Decision-Making, EIDM）、Cain (2015) 的教师[[Third Voice|三种声音]]理论、Rickinson et al. (2020) 的[[Quality Use of Research Evidence Framework\|高质量研究使用框架]]（[[Quality Use of Research Evidence Framework\|Quality Use of Research Evidence]], QURE）、Révai (2020) 的证据-[[Innovation Ecosystem\|创新生态]]知识动力学模型。
 > - **张力** 过程-产品（Process-Product）的单向还原论 vs 复杂自适应系统的自组织与双向循环；学术研究证据的排他性崇拜 vs 教师专业经验与多元知识源泉的包容性吸纳。
 > - **贡献** [[José Manuel Torres\|何塞·曼努埃尔·托雷斯]]（José Manuel Torres）运用 Best and Holmes (2010) 三代透镜构建首个跨领域知识动员模型的系统性[[Typological Analysis\|类型学分析]]矩阵，揭示既有框架中功能人为割裂与终极目标隐匿的盲区，为全书实证调查与未来生态治理指明方向。
 
@@ -356,7 +358,7 @@ Cain (2015) 聚焦一线中小学教师面对学术研究文献时的真实认�
 
 > [!sub-claim] 3. Rickinson 高质量研究使用框架：超越“用不用”二元论的质量定义
 
-Rickinson et al. (2020) 基于澳大利亚莫[[Roy Nash|纳什]]大学 Q 项目（The [[Monash Q Project|Q Project]]），针对教育实践中研究使用的质量标准给出了突破性定义，提出[[Quality Use of Research Evidence Framework|高质量研究使用框架]]（[[Quality Use of Research Evidence Framework|Quality Use of Research Evidence]], QURE），将核心聚焦于对恰当研究证据的深思熟虑参与与实施。（pp.47–50）
+Rickinson et al. (2020) 基于澳大利亚莫[[Roy Nash|纳什]]大学 Q 项目（The [[Monash Q Project|Q Project]]），针对教育实践中研究使用的质量标准给出了突破性定义，提出[[Quality Use of Research Evidence Framework|高质量研究使用框架]]（[[Quality Use of Research Evidence Framework|Quality Use of Research Evidence]], QURE），将核心聚焦于对[[Appropriate Research|恰当研究证据]]的深思熟虑参与与实施。（pp.47–50）
 
 > [!example] 图2-9：高质量研究使用框架（Quality Use of Research Evidence, QURE framework）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_2-9_Quality_Use_of_Research_Evidence_framework.jpg)

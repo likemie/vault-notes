@@ -12,9 +12,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14"
 argument_display_title: "Research Methods in Education · Ch14"
 argument_kind: "book-chapter"
-argument_related_count: 69
-argument_related_level: 6
-argument_related_stars: "💎💎"
+argument_related_count: 72
+argument_related_level: 7
+argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
 book_title: "Research Methods in Education"
 publication_place: "London"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Creativity]]"
   - "[[Ways of Knowing]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Research Purpose]]"
   - "[[Research Question]]"
   - "[[Formative Assessment]]"
@@ -46,6 +47,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Interpretive Paradigm]]"
   - "[[Analytic Generalization]]"
+  - "[[Homophily]]"
   - "[[External Validity]]"
   - "[[Reliability]]"
   - "[[Positivism]]"
@@ -65,6 +67,7 @@ related_concepts:
   - "[[Research Problem]]"
   - "[[Research Ethics]]"
   - "[[Covert Research]]"
+  - "[[Cumulative Innovation]]"
   - "[[Champ]]"
   - "[[Note-Taking]]"
   - "[[Fitness for Purpose]]"
@@ -105,7 +108,7 @@ related_facts:
   - "[[Skills Toward Employment and Productivity]]"
 status: draft
 created: 2026-07-11
-updated: 2026-10-30
+updated: 2026-11-11
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
@@ -210,7 +213,7 @@ Simons（1996）认为个案研究需要同时拥抱六组看似矛盾的立场�
 > - **承认[[Creativity\|创造性]]相遇的价值** 真正的新理解往往来自研究者与情境之间的偶然碰撞，而非按预设程序操作。要为这种创造性空间留出余地
 > - **不同的观看方式就是不同的[[Ways of Knowing\|认知方式]]** 换一个角度看同一现象，不是同一个知识的另一种表述，而是产生了新的知识
 > - **接近艺术家的工作方式** 艺术家不依赖标准化流程，而是在反复的感知、表达和修正中逼近真实。个案研究也应如此
-> - **从传统分析中解放心智** 不预设[[Analytic Framework\|分析框架]]和理论透镜，让材料本身引导理解的方向，避免过早将复杂现实塞进既有概念格子
+> - **从传统分析中解放心智** 不预设[[Analytic Framework\|分析框架]]和[[Theoretical Standpoint|理论透镜]]，让材料本身引导理解的方向，避免过早将复杂现实塞进既有概念格子
 > - **以对人的压倒性兴趣拥抱所有悖论** 以上每条都涉及矛盾——平等对待却要做出判断、自由探索却要产出结论。最终驱动研究的是对人的深切关注，而非方法论的完美
 
 ---
@@ -364,7 +367,7 @@ Yin（2009, p. 43）做出了有力论断：推定推广只能是从样本到总
 
 ---
 
-Verschuren（2003, p. 136）为个案研究的推广性提供了更有力的辩护。首先他论证统计推广基于总体和样本的同质性（或变异性）以及样本所需的确定水平（见第8章）。因此如果总体高度标准化和不变（如生产相同、统一、标准化机器的工厂），用于质量控制的样本可以非常小；而在高度变异的总体中[[Sample Size Determination|样本量]]必须很大。他随后转向可能需要的个案研究数量，并论证实际上可以用非常少量的个案研究，每个个案研究包含相关变量的范围，从而减少所需的总体案例数量。这是因为复杂议题总体上比单独变量具有低得多的变异性（p. 137）。
+Verschuren（2003, p. 136）为个案研究的推广性提供了更有力的辩护。首先他论证统计推广基于总体和样本的[[Homophily|同质性]]（或变异性）以及样本所需的确定水平（见第8章）。因此如果总体高度标准化和不变（如生产相同、统一、标准化机器的工厂），用于质量控制的样本可以非常小；而在高度变异的总体中[[Sample Size Determination|样本量]]必须很大。他随后转向可能需要的个案研究数量，并论证实际上可以用非常少量的个案研究，每个个案研究包含相关变量的范围，从而减少所需的总体案例数量。这是因为复杂议题总体上比单独变量具有低得多的变异性（p. 137）。
 
 > [!chain-link] Verschuren（2003, pp. 136–137）的低变异性论证链
 > - **前提一：个案研究包含许多[[Variable\|变量]]** 每个案例承载多维度的信息，是多个维度的综合，不限于单一维度上的一个数据点
@@ -521,7 +524,7 @@ Nisbet and Watt（1984, p. 78）建议个案研究的三个主要阶段：
 
 > [!phase] 三阶段开放-聚焦-验证模型（Nisbet & Watt, 1984, p. 78）
 > 1. **开放阶段（open phase）** 以非常宽的焦点领域开始，不加选择或预先判断。因为个案研究捕捉展开情境的动态，这是可取的
-> 2. **渐进聚焦（[[Progressive Focussing\|progressive focusing]]）** 建立更窄的焦点领域，识别后续研究和数据收集的关键焦点
+> 2. **渐进聚焦（[[Progressive Focussing\|progressive focusing]]）** 建立更窄的焦点领域，识别[[Cumulative Innovation|后续研究]]和数据收集的关键焦点
 > 3. **草稿解释（draft interpretation）** 准备草稿解释，需要在最终形式出现前与受访者检查
 
 Nisbet & Watt（p. 79）建议不要在个案研究中过早生成假设；重要的是先开放地收集数据。受访者验证特别有用，受访者可能建议更好的表述方式或希望添加或限定观点。但存在风险：他们可能不同意某种解释。Nisbet and Watt（1984, p. 81）指出需要谈判否决权的权利。他们还建议研究者：(a) 承诺受访者可以看到报告中涉及他们的章节（受保密控制，如个案研究中的其他人）；(b) 充分采纳受访者的建议和回应并尽可能修改叙述；(c) 在研究者与受访者分歧的情况下，承诺将受访者的评论和批评与研究者的报告并列发布（pp. 293–294）。

@@ -13,7 +13,7 @@ subtype: program
 region: norway
 fact_region: "norway"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Soft Accountability]]"
   - "[[Transparency Bypass]]"
+  - "[[Quasi-market]]"
   - "[[Global Universities Rankings]]"
   - "[[New Public Management]]"
   - "[[Critical Pedagogy]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -100,7 +101,7 @@ updated: 2026-10-30
 ---
 
 > [!citation-card] 挪威国家统考的行政折射与透明度绕道
-> 挪威于 2004 年在保守党联合政府主导下引入国家统考，但工会和学生强烈抵制排位表，中左翼新政府上台后于 2005 年叫停排名，将统考定位回归诊断工具；然而奥斯陆等大城市的地方保守派当局与商业媒体随即援引信息公开法调取数据自行编制非官方排行榜，造成了民间准市场问责机制的变相复活。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 254–255, 258)]]
+> 挪威于 2004 年在保守党联合政府主导下引入国家统考，但工会和学生强烈抵制排位表，中左翼新政府上台后于 2005 年叫停排名，将统考定位回归诊断工具；然而奥斯陆等大城市的地方保守派当局与商业媒体随即援引信息公开法调取数据自行编制非官方排行榜，造成了民间[[Quasi-market|准市场]]问责机制的变相复活。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 254–255, 258)]]
 >
 > *In Norway, the National Tests were introduced in 2004 under a center-right coalition to monitor educational standards following decentralization. Initial attempts to publish [[Global Universities Rankings|league tables]] were met with student boycotts and teacher union strikes. Following the election of a center-left government in 2005, official league tables were banned and the tests were explicitly repurposed as diagnostic tools for school improvement. However, in municipalities like Oslo, local authorities and commercial media used public access laws to obtain and publish unofficial school rankings, generating market pressures through [[Transparency Bypass|transparency bypass]] mechanisms.*
 

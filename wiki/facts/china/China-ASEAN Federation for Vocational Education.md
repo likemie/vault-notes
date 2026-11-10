@@ -28,9 +28,9 @@ tags:
   - level/international
 related_concepts:
   - "[[Student Mobility]]"
+  - "[[Study Abroad]]"
   - "[[Internationalization of Vocational Education]]"
   - "[[Industry-Education Integration Community]]"
-  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -88,7 +88,7 @@ updated: 2026-11-02
 > [!pathways] 业务运行机制
 > - **议程设置** 围绕中国—东盟教育高层磋商共识，结合跨国产能转移用工动态，确定年度重点合作专业门类与研讨议题。
 > - **协同推进** 采取自上而下政策引导与自下而上自主结对相结合的模式，依托专业委员会开展教学标准与课程开发。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 298–299)]]
-> - **质量保障** 建立双边联合办学质量监测机制与留学生跨国实习跟踪评估规程。
+> - **质量保障** 建立双边联合办学质量监测机制与[[Study Abroad|留学]]生跨国实习跟踪评估规程。
 
 ---
 

@@ -9,10 +9,10 @@ summary: "美国比较教育学家，加州大学洛杉矶分校（UCLA）荣休
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 39
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 41
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1934"
 lifespan: "1934–至今"
 tags:
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Influences Across Cultures]]"
   - "[[Multiplist]]"
   - "[[Champ]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Intercultural Education]]"
   - "[[Epistemology]]"
   - "[[Document]]"
@@ -33,10 +34,11 @@ related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[Postpositivism]]"
   - "[[State Educational Sovereignty]]"
+  - "[[Early-Career Researchers]]"
   - "[[Critical Pedagogy]]"
   - "[[Academic Freedom]]"
-  - "[[Commensuration]]"
   - "[[Historical Amnesia]]"
+  - "[[Commensuration]]"
 related_theories:
   - "[[Pluralism]]"
   - "[[Typology of Educational Responses to Globalization]]"
@@ -57,18 +59,18 @@ related_persons:
 related_facts:
   - "[[Comparative and International Education Society]]"
   - "[[Research Strategies in Comparative Education]]"
-  - "[[World Council of Comparative Education Societies]]"
-  - "[[UNESCO]]"
-  - "[[Education for All]]"
   - "[[World Bank]]"
   - "[[International Monetary Fund]]"
+  - "[[UNESCO]]"
+  - "[[Education for All]]"
+  - "[[World Council of Comparative Education Societies]]"
 related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -87,7 +89,7 @@ updated: 2026-11-02
 
 > [!timeline] 生平与职涯
 > - **1934** 出生于美国犹他州。早年求学于杨百翰大学（Brigham Young University）攻读历史学，随后在斯坦福大学与明尼苏达大学深造。
-> - **1967** 在密歇根大学师从美国著名教育史学家与比较教育奠基人[[Claude A. Eggertsen|克劳德·埃格特森]]（Claude A. Eggertsen），完成博士论文《一战以来德国对外国教育的兴趣》（*German Interest in Foreign Education Since World War I*），开创[[Intercultural Education|跨文化教育]]双向影响的专精研究。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 126)]]
+> - **1967** 在密歇根大学师从美国著名教育史学家与比较教育奠基人[[Claude A. Eggertsen|克劳德·埃格特森]]（Claude A. Eggertsen），完成[[Doctoral Dissertation|博士论文]]《一战以来德国对外国教育的兴趣》（*German Interest in Foreign Education Since World War I*），开创[[Intercultural Education|跨文化教育]]双向影响的专精研究。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 126)]]
 > - **1969** 加入加州大学洛杉矶分校（UCLA）教育研究生院，历任助理教授、副教授、正教授，主持比较与[[International Education|国际教育]]研究中心，培养了跨越数十年的跨国博士生团队。
 > - **1988–1989** 当选并出任美国[[Comparative and International Education Society|比较与国际教育学会]]（CIES）会长，发表多篇反思学科[[Epistemology|认识论]]基础与方法演化的会长演说与纲领性[[Document|文献]]。
 > - **1990s–2000s** 深入开展挪威教育改革长程制度追踪、德美双向[[Policy Borrowing|教育借用]]比较，并主持 UCLA 团队对全球比较教育主流期刊的研究策略与[[Theoretical Perspective|理论取向]]展开大规模文献计量调查。
@@ -108,7 +110,7 @@ updated: 2026-11-02
 > [!contribution] 核心学术贡献
 > - **平反“[[Influences Across Cultures|跨文化影响]]”的史学遗产** 拉斯特借鉴比较文学的方法论自觉，严厉批判了战[[Postpositivism|后实证主义]]学者将十九世纪先驱作品贬低为“粗糙描述”与“功利赞歌”的傲慢偏见；他论证追溯教育观念、实践与制度在时空维度中的跨文化流动（如美德跨大西洋互动与挪威多边借用）不仅构成了比较教育学极其厚重的学科传统，更是当代[[Policy Borrowing|政策借用]]理论不可割裂的源流。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 123–126)]]
 > - **揭示理论[[Pluralism|多元主义]]的健康本质** 面对 1970 年代[[Structural Functionalism|结构功能主义]]与现代化理论霸权瓦解后学术界对“学科四分五裂”的恐慌，拉斯特通过扎实的经验文献计量，证明并存的 26 种[[Theoretical Perspective|理论视角]]反映的是一种极具生命力的学科成熟；多元主义是摆脱狭隘意识形态与方法论正统的必要标志，而非走向无序失控的解体。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 131–132)]]
-> - **开拓[[Typology of Educational Responses to Globalization|全球化教育响应类型学]]** 拉斯特敏锐捕捉到全球化对民族[[State Educational Sovereignty|国家教育主权]]的重塑，最初提炼出接受、抵制与恢复三重响应模式；在 2009 年的对话中，他支持青年学者将[[Critical Pedagogy|批判教育学]]的再生产视角注入分析，形成涵盖不平等权力强加维度的四重分析架构，为解构资本主义现代性与推进全球教育正义提供了有力概念透镜。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 133–135)]]
+> - **开拓[[Typology of Educational Responses to Globalization|全球化教育响应类型学]]** 拉斯特敏锐捕捉到全球化对民族[[State Educational Sovereignty|国家教育主权]]的重塑，最初提炼出接受、抵制与恢复三重响应模式；在 2009 年的对话中，他支持[[Early-Career Researchers|青年学者]]将[[Critical Pedagogy|批判教育学]]的再生产视角注入分析，形成涵盖不平等权力强加维度的四重分析架构，为解构资本主义现代性与推进全球教育正义提供了有力概念透镜。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 133–135)]]
 
 ---
 

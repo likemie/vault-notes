@@ -9,7 +9,7 @@ aliases:
 summary: "罗伯逊、博纳尔与戴尔开创的教育全球化批判性空间治理分析框架，通过治理标度、治理实体与治理活动三维矩阵，解构全球化与跨国经贸规则下国家教育主权的再领土化与公共性重组。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 42
+theory_related_count: 43
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Rescaling]]"
   - "[[International Education]]"
+  - "[[Nationalism]]"
   - "[[International Branch Campus]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Competitiveness]]"
@@ -98,7 +99,7 @@ updated: 2026-11-11
 > - **1999年 — [[Globally Structured Agenda for Education|全球结构化议程]]奠基** 罗杰·戴尔（Dale, 1999）提出全球结构化教育议程（GSAE），确立全球化通过强加、协调与渗透等非传统机制影响国家政策，奠定了超越国家容器的治理问题域。
 > - **2002年 — 三维多标度治理框架成型** 罗伯逊、博纳尔与戴尔（Robertson, Bonal, & Dale, 2002）系统确立三维多标度治理模型，提出 WTO 正在构建一个“消除边境壁垒的假想全球教育系统”，引起[[International Education|国际教育]]学界广泛反响。
 > - **2007–2009年 — [[Robert Arnove|阿诺夫]]的世界体系整合与非对称权力批判** [[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove, 2009）将多标度治理模型系统吸纳进[[World-Systems Theory|世界体系分析]]中，揭示超国家多标度规则在核心大国与边缘脆弱经济体之间造成的非对称战略空间鸿沟。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
-> - **2021年 — 跨国测评与后民族国家治理图景** [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] 将多标度治理用于解构 [[PISA]] 跨国测评网络，揭示超国家组织、跨国商业机构与地方学区共同交织的后民族国家治理图景，批判方法论民族主义的国家容器预设。（pp. 438–439, 480）
+> - **2021年 — 跨国测评与后民族国家治理图景** [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] 将多标度治理用于解构 [[PISA]] 跨国测评网络，揭示超国家组织、跨国商业机构与地方学区共同交织的后民族国家治理图景，批判方法论[[Nationalism|民族主义]]的国家容器预设。（pp. 438–439, 480）
 
 ---
 

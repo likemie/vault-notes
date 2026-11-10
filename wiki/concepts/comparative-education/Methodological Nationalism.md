@@ -5,7 +5,7 @@ aliases:
 summary: "把民族国家视为现代社会自然单位与唯一分析容器的认识论立场，容易遮蔽跨国网络、非国家主体漫步全球花园对国家边界的横切，以及跨尺度流动空间与地方空间交互关系的复杂性"
 type: concept
 domain: "comparative-education"
-related_count: 51
+related_count: 53
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -16,6 +16,7 @@ tags:
   - theme/comparative-education
   - theme/global-governance
 related_concepts:
+  - "[[Nationalism]]"
   - "[[Epistemology]]"
   - "[[Space of Flows]]"
   - "[[Discourse]]"
@@ -25,6 +26,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[International Education]]"
   - "[[Open Method of Coordination]]"
+  - "[[Transnational Education]]"
   - "[[Methodological Statism]]"
   - "[[Methodological Educationism]]"
   - "[[Recontextualization]]"
@@ -75,13 +77,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-12
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Methodological Nationalism
-> **方法论民族主义（Methodological Nationalism）** 是指在社会科学和比较教育研究中，未经反思地将民族国家作为划分社会空间与分析现象的默认/天然边界，从而把所有变化都理解为国家与国家之间横向地理差异的[[Epistemology\|认识论]]预设（Wimmer & Glick Schiller, 2002; Dale, 2005; [[Argument_Beech_2009_CE\|Beech, 2009a]]；[[Argument_Beech_2009_GlobalGarden\|Beech, 2009b]]）。这一信念预设了“国家即社会”，并将世界性现象视为由国家内部生成，系统性地遮蔽了全球系统的独立存在和跨国[[Space of Flows|流动空间]]。
+> **方法论[[Nationalism|民族主义]]（Methodological Nationalism）** 是指在社会科学和比较教育研究中，未经反思地将民族国家作为划分社会空间与分析现象的默认/天然边界，从而把所有变化都理解为国家与国家之间横向地理差异的[[Epistemology\|认识论]]预设（Wimmer & Glick Schiller, 2002; Dale, 2005; [[Argument_Beech_2009_CE\|Beech, 2009a]]；[[Argument_Beech_2009_GlobalGarden\|Beech, 2009b]]）。这一信念预设了“国家即社会”，并将世界性现象视为由国家内部生成，系统性地遮蔽了全球系统的独立存在和跨国[[Space of Flows|流动空间]]。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向将“国家/社会/领土”天然等同，并将国家地理边界视为分析起点与终点的认识预设。
@@ -113,7 +115,7 @@ updated: 2026-11-03
 > - **国家作为唯一[[Unit of Analysis|分析单位]]** 将教育系统理解为只能在各自国家范畴内被理解，跨境活动被视为边缘性或衍生性的。[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p. 8]]; [[Argument_Beech_2009_CE|Beech, 2009a, p. 348]]
 > - **遮蔽全球性现象** 系统性阻挡了对科学（就其[[Epistemology|认识论]]自主性而言）、生态和跨国网络等无法还原为国家属性的全球性现象的观察。
 > - **语言概念的潜在偏见** 比较教育常用的“跨国”（transnational，跨越国家）与“国际”（international，国家之间）均预设了国家作为活动基础；即使是“超国家”（supranational，国家之上）也仍是以民族国家为基准定位该空间。[[Argument_Beech_2009_CE|Beech, 2009a, pp. 348–349]]
-> - **非国家主体漫步全球花园横切国家区隔** 全球化时代的国际影响以“无界限空间”的形态直接横切（Crosscut）国家内部区隔（Giddens, 1990; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）。魅力型教育咨询顾问、面临财政削减而推行新重商主义咨询出口的英国大学（Cowen, 1996; Lyotard, 1984）、确立区域基准与[[Open Method of Coordination|开放协调法]]的[[EU|欧洲联盟]]（Nóvoa, 2002），以及运营跨国连锁学校并直接向多国政府提供政策建议的跨国教育公司（如 [[Nord Anglia Education|Nord Anglia]]、[[GEMS Education|GEMS]]），这些新兴非国家主体漫步于“全球花园”，彻底瓦解了传统的国家孤立容器假设。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–345)]]
+> - **非国家主体漫步全球花园横切国家区隔** 全球化时代的国际影响以“无界限空间”的形态直接横切（Crosscut）国家内部区隔（Giddens, 1990; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）。魅力型教育咨询顾问、面临财政削减而推行新重商主义咨询出口的英国大学（Cowen, 1996; Lyotard, 1984）、确立区域基准与[[Open Method of Coordination|开放协调法]]的[[EU|欧洲联盟]]（Nóvoa, 2002），以及运营跨国连锁学校并直接向多国政府提供政策建议的[[Transnational Education|跨国教育]]公司（如 [[Nord Anglia Education|Nord Anglia]]、[[GEMS Education|GEMS]]），这些新兴非国家主体漫步于“全球花园”，彻底瓦解了传统的国家孤立容器假设。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–345)]]
 > - **三主义的叠加效应** 在全球化世界中仅关注国家教育系统不仅是方法论民族主义，还会与[[Methodological Statism|方法论国家中心主义]]（methodological statism，将国家视为唯一行动者）和[[Methodological Educationism|方法论教育主义]]（methodological educationism，将教育等同于学校教育）叠加。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]
 > - **与规范性民族主义共谋** 认为“国家是唯一分析单位”的预设会强化“本国优先”的价值立场，Massey（2005）称之为“对连贯国族性的浪漫幻想”和净化国家空间的徒劳尝试。
 > - **高等教育中的具体表现** 表现为大学排名将“国家表现”作为关键指标；研究将大学的国际合作与流动视为国家政策的附属物。[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 8–9]]

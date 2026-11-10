@@ -7,7 +7,7 @@ summary: "一种批判理论驱动的质性与行动研究方法，主张研究�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -21,16 +21,18 @@ tags:
 related_concepts:
   - "[[Reflexivity]]"
   - "[[Unit of Analysis]]"
+  - "[[Problem Finding]]"
   - "[[Epistemology]]"
+  - "[[Discourse]]"
+  - "[[Informed Consent]]"
   - "[[Variable]]"
-  - "[[Causality]]"
-  - "[[Paradigm]]"
-  - "[[Pragmatic Paradigm]]"
+  - "[[Theoretical Perspective]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
   - "[[Action Research]]"
-  - "[[Design-Based Research]]"
+  - "[[Focus Group]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Ideology Critique]]"
   - "[[Mixed Methods Research]]"
 related_instruments: []
@@ -41,13 +43,13 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-06-16
-updated: 2026-10-31
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Participatory Research
-> 参与式研究（Participatory Research, PR）是一种以批判理论为底色的质性与行动研究方法。该方法主张研究者与边缘或基层社区建立平等的合作探究关系，确立普通人对自身生活境况具有[[Reflexivity|反思性]]和批判性分析能力，将议题界定、方案设计、资料收集与行动决策的全过程主导权赋予参与者，致力于通过知识共享推动微观民主赋权与社会变革。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 151–162)]]
+> 参与式研究（Participatory Research, PR）是一种以[[Critical Theory|批判理论]]为底色的质性与[[Action Research|行动研究]]方法。该方法主张研究者与边缘或基层社区建立平等的合作探究关系，确立普通人对自身生活境况具有[[Reflexivity|反思性]]和批判性分析能力，将议题界定、方案设计、资料收集与行动决策的全过程主导权赋予参与者，致力于通过知识共享推动微观民主赋权与社会变革。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 151–162)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 基层社区生活境况、边缘群体的教育与生计困境、工作场所组织权力关系。
@@ -58,7 +60,7 @@ updated: 2026-10-31
 > [!citation-card] 参与式研究的核心机制
 > 参与式研究的核心在于参与：参与者与研究者平等掌控研究全过程，并通过赋权促进现实变革。这种平等控制贯穿于问题识别、研究设计、实地推进、资料分析、成果汇报以及社区发展催化的所有阶段。赋权与发展既构成了研究的实施中介，也构成了研究的最终产出。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, p. 152)]]
 >
-> *The essence of participatory research, as its name suggests, is participation, the equal control of the research by both participants and researchers and the movement towards change through empowerment. These features enter all stages of the research, from problem identification through to project design, implementation, analysis, reporting, and the changes catalyzed in the community.*
+> *The essence of participatory research, as its name suggests, is participation, the equal control of the research by both participants and researchers and the movement towards change through empowerment. These features enter all stages of the research, from [[Problem Finding|problem identification]] through to project design, implementation, analysis, reporting, and the changes catalyzed in the community.*
 
 ---
 
@@ -70,15 +72,15 @@ updated: 2026-10-31
 
 > [!method-stack] 方法层级
 > - **研究设计** 参与式[[Action Research|行动研究]]、社区赋权探索性设计。
-> - **数据收集** 对话式访谈、集体研讨、焦点小组、大众戏剧演练、社区普查与口述历史记录。
-> - **分析方法** 社区集体意义赋予、参与式主题聚类、批判性话语协商。
+> - **数据收集** 对话式访谈、集体研讨、[[Focus Group|焦点小组]]、大众戏剧演练、社区普查与口述历史记录。
+> - **分析方法** 社区集体意义赋予、参与式主题聚类、批判性[[Discourse|话语]]协商。
 > - **辅助技术** 意识觉醒动员、反身性工作备忘录、社区议事规则设计。
 
 ---
 
 > [!proc] 通用程序
 > 1. **社区协商与议题识别** 研究者深入现场与社区建立平等伙伴关系，引导社区成员自主提炼核心现实困境与研究诉求。
-> 2. **合作构建探究方案** 共同界定探究边界，协商确定资料收集方式、参与分工与知情同意规范。
+> 2. **合作构建探究方案** 共同界定探究边界，协商确定资料收集方式、参与分工与[[Informed Consent|知情同意]]规范。
 > 3. **全员推进实地收集** 社区成员作为研究主体参与对话、口述访谈与场景记录。
 > 4. **集体协商与意义阐释** 组织全员参与的意义讨论会，对收集到的材料展开归纳、聚类与批判性审议。
 > 5. **行动落地与循环迭代** 基于共同认识制定具体改善方案，推进实践行动并持续评估反思。
@@ -92,7 +94,7 @@ updated: 2026-10-31
 > | **资料边界** | 聚焦微观社区互动与行动周期，以达成阶段性赋权行动为阶段终点。 |
 
 > [!proc] 质性分析程序
-> 1. **转录与本土化初读** 整理对话与研讨记录，使用社区成员易懂的语言文本进行初步汇总。
+> 1. **[[Transcription in Qualitative Research|转录]]与本土化初读** 整理对话与研讨记录，使用社区成员易懂的语言文本进行初步汇总。
 > 2. **集体编码与主题凝聚** 组织社区骨干开展互动式归纳，提取阻碍发展的关键结构性障碍与行动抓手。
 > 3. **反思性协商与对齐** 研究者与社区开展多轮对话，排查外部专业预设对本土声音的掩蔽。
 > 4. **实践转化与追踪验证** 将归纳主题转化为具体行动计划，在实践中检验分析判断的适切性。
@@ -102,7 +104,7 @@ updated: 2026-10-31
 > [!method-fit] 适用判断
 > - **适合使用** 处于边缘或弱势地位社区的生计改善、参与式教育课程开发、基层公共卫生健康动员。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 151–162)]]
 > - **谨慎使用** 社区内部存在严重派系冲突或权力压制的情境，外部推动极易激化矛盾。
-> - **不适合使用** 追求变量严格隔离以确立统计因果规律的验证性研究，或时间极为紧迫的应急决策调查。
+> - **不适合使用** 追求[[Variable|变量]]严格隔离以确立统计因果规律的验证性研究，或时间极为紧迫的应急决策调查。
 
 ---
 
@@ -126,4 +128,4 @@ updated: 2026-10-31
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 151–191)]] — 阐释批判理论视角下的参与式研究全流程规范，系统分析平等伙伴关系、行动赋权逻辑与社区变革实践。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 151–191)]] — 阐释批判[[Theoretical Perspective|理论视角]]下的参与式研究全流程规范，系统分析平等伙伴关系、行动赋权逻辑与社区变革实践。

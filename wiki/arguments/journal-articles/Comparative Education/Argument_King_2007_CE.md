@@ -19,12 +19,14 @@ tags:
   - theme/millennium-development-goals
   - source/comparative-education
 related_concepts:
+  - "[[Country Ownership]]"
+  - "[[Policy Translation]]"
   - "[[Discourse]]"
   - "[[Politics of Knowledge]]"
   - "[[Theoretical Perspective]]"
   - "[[International Education]]"
+  - "[[Basic Learning Needs]]"
   - "[[Document]]"
-  - "[[Comprehensive Education]]"
   - "[[Further Education]]"
   - "[[Performance Indicators]]"
   - "[[Cultural Capital]]"
@@ -32,33 +34,38 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Documentary Analysis]]"
-  - "[[Accounts]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Wadi Haddad]]"
+  - "[[Richard Jolly]]"
+  - "[[Michael Clemens]]"
 related_facts:
   - "[[Education for All]]"
   - "[[OECD]]"
+  - "[[Development Assistance Committee]]"
   - "[[Millennium Development Goals]]"
+  - "[[International Development Targets]]"
   - "[[Global Education Monitoring Report]]"
+  - "[[World Declaration on Education for All]]"
+  - "[[Dakar Framework for Action]]"
   - "[[UNESCO]]"
   - "[[UNICEF]]"
   - "[[World Bank]]"
   - "[[International Monetary Fund]]"
-  - "[[Dimensions]]"
 related_arguments: []
 sources:
   - "[[sources/King_2007_CE/King_2007_CE|King_2007_CE]]"
 part_of: null
 status: draft
 created: 2026-11-05
-updated: 2026-11-10
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_King_2007_CE"
 argument_key: "Argument_King_2007_CE"
 argument_display_title: "Multilateral agencies in the construction of the global agenda on education"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 28
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -75,7 +82,7 @@ issuing_organization: ""
 > 1990 至 2006 年间全球教育发展议程是如何被一步步建构起来的？多边援助机构在这一议程的设计、指标选择与跨国监测体系中发挥了何种主导作用？国际援助界高调宣称的[[Country Ownership|国家自主拥有]]（country ownership）在多大程度上反映了南方发展中国家的真实需求与制度意志？
 
 > [!claim] 核心主张
-> 全球教育发展议程本质上是由少数北方主导的多边机构在闭门协商中建构的技术官僚产物；在政策转译与指标化过程中，原本具有包容性的基础教育愿景被系统性窄化为易测量的初等教育普及与性别均等指标，脱离了南方国家赖以维系的经济增长与生产能力基础，并借由庞大的外部监测官僚体制施加于受援国，导致国家自主拥有修辞与外部强加现实之间产生深刻分裂。
+> 全球教育发展议程本质上是由少数北方主导的多边机构在闭门协商中建构的技术官僚产物；在[[Policy Translation|政策转译]]与指标化过程中，原本具有包容性的基础教育愿景被系统性窄化为易测量的初等教育普及与性别均等指标，脱离了南方国家赖以维系的经济增长与生产能力基础，并借由庞大的外部监测官僚体制施加于受援国，导致国家自主拥有修辞与外部强加现实之间产生深刻分裂。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 1990 年宗滴恩世界[[Education for All|全民教育]]大会、1996 年[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）下属[[Development Assistance Committee|发展援助委员会]]（Development Assistance Committee, DAC）《塑造21世纪》报告、2000 年达喀尔世界教育论坛以及 2000 年联合国千年峰会的政策文本、起草档案、官员书信与监测体制。
@@ -138,12 +145,12 @@ issuing_organization: ""
 > [!claim|step] 论证步骤一　宗滴恩大会确立的全民基础教育广义愿景被多边出资机构迅速收缩为小学教育
 > 1990 年泰国宗滴恩世界全民教育大会原本致力于构建一个涵盖幼儿、初等、成人扫盲与青年技能的宽泛概念；然而核心多边发起机构在执行中迅速将其聚焦于易于操作的正规小学教育。
 
-> [!sub-claim] 1. 宗滴恩宣言有意用满足基本学习需求取代传统学段划分
+> [!sub-claim] 1. 宗滴恩宣言有意用满足[[Basic Learning Needs|基本学习需求]]取代传统学段划分
 
 > [!case] 宗滴恩文本对基础教育范畴的界定与传统学段排除
 > 宗滴恩会议由联合国开发计划署（UNDP）、[[UNESCO|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）、[[UNICEF|联合国儿童基金会]]（United Nations Children's Fund, UNICEF）与[[World Bank|世界银行]]（World Bank）四大机构联合发起。文本统计表明，初等教育（primary education）在《宣言》及《行动框架》全篇 37 页中仅出现 10 次，而基础教育（basic education）出现 76 次，[[Basic Learning Needs|基本学习需求]]（basic learning needs）出现 47 次，全民教育（education for all）出现 22 次。中等教育、职业技术教育与高等教育等传统学段被有意排除，高等教育在整部[[Document|文献]]中仅提及一次。基础教育被界定为一个高度包容的概念，涵盖早期儿童保育、初等教育、成人识字、青年与成人实用技能，以及通过大众传媒获取生活知识六个向度。
 
-> [!tension] 机构职责分歧：教科文组织的[[Comprehensive Education|综合教育]]观 vs 世行与儿童基金会的初等优先偏向
+> [!tension] 机构职责分歧：教科文组织的综合教育观 vs 世行与儿童基金会的初等优先偏向
 > 围绕宗滴恩大会的资金投向与战略重点，四大发起机构之间存在深刻的路线分歧。
 > - **联合国教科文组织的人道主义全域观** 坚持维护其传统职能，强调成人扫盲、母语教学与社区教育的不可替代性，主张将教育视为覆盖全年龄段的普遍人权。
 > - **世界银行与联合国儿童基金会的技术效率观** 认为初等学校教育在政治动员与数量核算上最具吸引力，在大会现场即公开宣布将资金严格集中于正规小学教育。联合国儿童基金会为大会散发了论述初等教育普及的专著《普及所有儿童的教育》（*Schooling All the Children*；Colclough & Lewin, 1993）；世界银行亦带去了即将定稿的 1990 年《初等教育》政策白皮书。
@@ -151,7 +158,7 @@ issuing_organization: ""
 > [!sub-claim] 2. 宗滴恩行动框架赋予主权国家依国情自主设定发展目标的弹性空间
 
 > [!chain-link] 宗滴恩目标从弹性建议向单一硬指标的异化机制
-> - **原初建议性质** 宗滴恩行动框架第 8 段使用了审慎的建议性措辞，指出各国可以根据所提建议维度设定自身在 1990 年代的发展目标（Countries may wish to set their own targets for the 1990s in terms of the following proposed dimensions...），保持了本土弹性的建议维度（proposed [[Dimensions|dimensions]]）。
+> - **原初建议性质** 宗滴恩行动框架第 8 段使用了审慎的建议性措辞，指出各国可以根据所提建议维度设定自身在 1990 年代的发展目标（Countries may wish to set their own targets for the 1990s in terms of the following proposed dimensions...），保持了本土弹性的建议维度（proposed dimensions）。
 > - **转译过程过滤** 在随后的国际传播与多边倡导中，这一以国家为主体的限定性前提被迅速遗忘，自主选择机制被技术官僚剥离。
 > - **硬性指标固化** 宗滴恩最终被简化为到 2000 年实现普及初等教育的单一世界目标；大会执行秘书沃迪·哈达德后来坦言，将主权国家自主抉择转化为单一全球指标是历史性错误。
 
@@ -240,7 +247,7 @@ issuing_organization: ""
 > [!critique] 跨国监测超结构与受援国被动受检现实
 > MDGs 确立后，国际援助界迅速搭建起庞大的跟踪与评估网络。联合国开发计划署在全球设立国别联合监测机构，联合国教科文组织设立了具有独立编辑权的《全球教育监测报告》，联合国千年项目设立了多项专家工作组。这套庞大的监测机器运作的前提，是假定所有被监测的目标得到了发展中国家的真实拥有。然而在实践中，许多发展中国家参与这些评估更接近于被动接受联合国开发计划署和教科文组织专家团队的既定程序。
 
-> [!factors] 决定学校入学率长期演化的核心因素（[[Michael Clemens|Clemens]], 2004）
+> [!factors] 决定学校入学率长期演化的核心因素（Clemens, 2004）
 > - **宏观经济增长基础** 持续的经济增长与家庭收入提升构成支撑儿童长期入学的物质前提。
 > - **代际[[Cultural Capital|文化资本]]积累** 父母[[Educational Level|受教育水平]]的缓慢提高对子女在学留存率具有决定性影响，其演变速度受制于历史周期。
 > - **短期政策干预局限** 外部援助机构短期设定的政策补贴与宣誓性时间表，在脱离社会经济基础时往往成效有限且容易反弹。
@@ -282,7 +289,7 @@ issuing_organization: ""
 > [!citation-card] 历史视角下教育指标设定期限的不可持续性
 > [[Michael Clemens|迈克尔·克莱门斯]]（Michael Clemens）通过从历史视角考察国际教育目标指出，频繁设定与重置目标所伴随的狭隘短期时间跨度适得其反。这些目标忽视了长时段内真正保障和维持学校入学率的根本因素。提高入学率与整体经济发展一样需要漫长的历史进程。海量经验证据表明，相较于具体的教育政策干预，宏观经济条件以及父母受教育水平的缓慢演进在更大程度上决定了儿童的入学状况。
 >
-> *Michael Clemens, through examining 'international education goals in historical perspective', had affirmed that the short time horizons associated with the constant setting and re-setting of goals were counterproductive. They take insufficient [[Accounts|account]] of the factors that have really secured and sustained school enrolment over time: Raising school enrolment, like economic development in general, takes a long time. This is partly because, as a mountain of empirical evidence now shows, economic conditions and slowly-changing parental education levels determine children's school enrolment to a greater degree than education policy interventions.* (Clemens, 2004, p. 1; cited in p. 387)
+> *Michael Clemens, through examining 'international education goals in historical perspective', had affirmed that the short time horizons associated with the constant setting and re-setting of goals were counterproductive. They take insufficient account of the factors that have really secured and sustained school enrolment over time: Raising school enrolment, like economic development in general, takes a long time. This is partly because, as a mountain of empirical evidence now shows, economic conditions and slowly-changing parental education levels determine children's school enrolment to a greater degree than education policy interventions.* (Clemens, 2004, p. 1; cited in p. 387)
 
 ---
 

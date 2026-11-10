@@ -11,9 +11,9 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 8
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "芬兰议会"
 tags:
@@ -23,38 +23,40 @@ tags:
   - history/20th-century
   - social-stratification
 related_concepts:
+  - "[[Comprehensive Education]]"
+  - "[[Tracking]]"
+  - "[[Dual School System]]"
   - "[[Educational Level]]"
-  - "[[Cultural Capital]]"
-  - "[[Herbart-Zillerist Pedagogy]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Uno Cygnaeus]]"
 related_facts:
+  - "[[Grammar School]]"
   - "[[Comprehensive School Reform in Finland]]"
-  - "[[Great Migration in Finland]]"
   - "[[Compulsory Education Act 1921]]"
+  - "[[Great Migration in Finland]]"
 related_arguments:
   - "[[Argument_Sahlgren_2015_CPS]]"
 confidence: high
 status: draft
 created: 2026-11-06
-updated: 2026-11-06
+updated: 2026-11-11
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **制度渊源 / 存续时期** 承袭 19 世纪欧陆传统的二元分轨学制，1921 年[[Compulsory Education Act 1921|《义务教育法》]]颁布后得到法律固化，持续运行至 1970 年代被统一综合学校改革取代。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 20)]]
+> - **制度渊源 / 存续时期** 承袭 19 世纪欧陆传统的二元分轨学制，1921 年《义务教育法》颁布后得到法律固化，持续运行至 1970 年代被统一综合学校改革取代。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 20)]]
 > - **适用地区 / 对象** 芬兰全国全体初等学校四年级在读学生及其家庭。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 7)]]
-> - **问题背景** 二战后伴随爆发性工业化与[[Great Migration in Finland|战后大迁徙]]，数以十万计的乡村与工薪家庭渴望子女获得高中与大学教育；旧有双轨制将绝大多数底层学生早早拦截在学术轨道之外，引发了严重的教育公平与社会流动瓶颈。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 30–31)]]
-> - **制度位置** 构成了 1968 年芬兰议会立法启动[[Comprehensive School Reform in Finland|综合学校改革]]之前，芬兰基础教育领域最核心的历史制度基准。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 7)]]
+> - **问题背景** 二战后伴随爆发性工业化与战后大迁徙，数以十万计的乡村与工薪家庭渴望子女获得高中与大学教育；旧有双轨制将绝大多数底层学生早早拦截在学术轨道之外，引发了严重的教育公平与社会流动瓶颈。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 30–31)]]
+> - **制度位置** 构成了 1968 年芬兰议会立法启动综合学校改革之前，芬兰基础教育领域最核心的历史制度基准。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 7)]]
 
 ---
 
 > [!claim] 政策核心
-> 芬兰二元分流学制实行早期严格的学业轨道隔离：儿童在 10 至 11 岁（初等学校四年级）即面临分流考核，少数选拔进入学术性文法学校（Oppikoulu），直通高中与高等教育；绝大多数学生则留在初等国民学校（Kansakoulu）并进入公民学校（Kansalaiskoulu），接受以实用劳作和技能为主的终结性义务教育。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7–8, 30)]]
+> 芬兰二元分流学制实行早期严格的学业轨道隔离：儿童在 10 至 11 岁（初等学校四年级）即面临分流考核，少数选拔进入学术性[[Grammar School|文法学校]]（Oppikoulu），直通高中与高等教育；绝大多数学生则留在初等国民学校（Kansakoulu）并进入公民学校（Kansalaiskoulu），接受以实用劳作和技能为主的终结性义务教育。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7–8, 30)]]
 
 > [!policy-design] 政策设计
 > - **政策目标** 为国家机关、专业阶层选拔与储备少数高级学术精英，同时使多数平民劳动力及早适应农业、林业与工厂体力生产。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 30)]]
@@ -65,14 +67,14 @@ updated: 2026-11-06
 > [!citation-card] 二元学制的废除与综合学校兴起
 > 芬兰对平等的强力关注始于 1970 年代。遵循 1968 年通过的专门学制法案，旧有的二元分流学制（two-stream system）在全国范围内被分批阶梯式废除，取而代之的是仿照瑞典与挪威模式建立的九年一贯制综合学校。为了在同一所学校内接纳具有不同学习需求的全部学生，特殊教育辅导体系应运而生。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 7)]]
 >
-> *This began when the old two-stream system was abolished gradually across the country in the 1970s, following the Special Systems Act in 1968, in favour of nine-year comprehensive schooling modelled after similar reforms in Sweden and Norway. To succeed in accommodating pupils with diverse learning needs in the same schools, special education, often part-time, increased rapidly as a result of the reform.*
+> *This began when the old two-stream system was abolished gradually across the country in the 1970s, following the Special Systems Act in 1968, in favour of nine-year [[Comprehensive Education|comprehensive schooling]] modelled after similar reforms in Sweden and Norway. To succeed in accommodating pupils with diverse learning needs in the same schools, special education, often part-time, increased rapidly as a result of the reform.*
 
 ---
 
 > [!timeline] 政策时间线
 > - 1860 年代 [[Uno Cygnaeus|乌诺·西格纽斯]]建立国民学校（Kansakoulu），与既有贵族与市民学术文法学校形成平行的二元初始格局。
 > - 1921 《义务教育法》颁布，法定推行 6 年制初等国民学校，但保留文法学校的 4 年级精英分流机制。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 20)]]
-> - 1950–1960 年代 战后大迁徙催生文法学校申请人数几何级暴增，地方出现大量私立文法中学，分轨制难以承载大众教育诉求。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 30–31)]]
+> - 1950–1960 年代 战后大迁徙催生文法学校申请人数几何级暴增，地方出现大量私立文法中学，[[Tracking|分轨制]]难以承载大众教育诉求。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7, 30–31)]]
 > - 1968 芬兰议会通过《学校系统法》，正式从法律上判决二元分流学制的终结。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 7)]]
 > - 1972–1977 综合学校由北部（拉普兰）向南部城市阶梯推进，旧有二元分轨学制在芬兰全境彻底退出历史舞台。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7–8)]]
 
@@ -104,7 +106,7 @@ updated: 2026-11-06
 > - **4** 学生在初等学校面临学术与职业命运分流的法定修业年级。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 7)]]
 > - **10–11** 芬兰儿童参加文法学校淘汰性分流考试的标准生理年龄。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 7)]]
 > - **1968** 芬兰议会立法决定废除二元分流学制的法案通过年。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 7)]]
-> - **1972–1977** 芬兰在全境由北向南分批彻底淘汰双轨学制的时间跨度。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7–8)]]
+> - **1972–1977** 芬兰在全境由北向南分批彻底淘汰[[Dual School System|双轨学制]]的时间跨度。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 7–8)]]
 
 ---
 

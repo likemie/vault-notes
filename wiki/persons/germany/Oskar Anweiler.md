@@ -7,7 +7,7 @@ summary: "德国比较教育学家与历史学家，波鸿鲁尔大学教育学�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 23
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Epistemology]]"
   - "[[Allgemeine Pädagogik]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Document]]"
   - "[[Bildung]]"
   - "[[Rich and Thick Description]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -70,7 +71,7 @@ updated: 2026-11-02
 
 > [!timeline] 生平与职涯
 > - **1925** **波兰劳维奇出生与东欧历史渊源** 出生于波兰劳维奇（Łowicz），早年经历造就了其对东欧语言、历史与社会政治生态的深邃洞察。
-> - **1954** **汉堡大学获博士学位奠定苏维埃史学权威** 在汉堡大学完成博士论文，系统研究 1905–1921 年俄国苏维埃委员会运动的起源与制度演进，出版奠基性专著《俄国的苏维埃运动》（*Die Rätebewegung in Russland 1905–1921*）。
+> - **1954** **汉堡大学获博士学位奠定苏维埃史学权威** 在汉堡大学完成[[Doctoral Dissertation|博士论文]]，系统研究 1905–1921 年俄国苏维埃委员会运动的起源与制度演进，出版奠基性专著《俄国的苏维埃运动》（*Die Rätebewegung in Russland 1905–1921*）。
 > - **1964–1990** **执掌波鸿鲁尔大学确立全欧东欧教育研究中枢** 出任波鸿鲁尔大学比较教育学教授，创建并领导东欧教育研究室（Arbeitsstelle für vergleichende Bildungsforschung），汇集海量俄语与东欧教育档案[[Document|文献]]，成为冷战时期西方世界研究社会主义教育体制无可替代的学术高地。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 89–90, 93)]]
 > - **1967** **发表经典构想确立“[[Comparative Education as a Cross-Sectional Area|交叉领域]]”学术定位** 发表代表作《比较教育学的构想》（*Konzeptionen der Vergleichenden Pädagogik*），正式提出比较教育是依附于[[Allgemeine Pädagogik|普通教育学]]母体、同时向历史学与社会学纵深切入的交叉领域（Querschnittsbereich）。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
 > - **1980年代末–1990** **领衔两德教育体制宏大比较实证工程** 受西德联邦教育与科学部委托，主持大型国家课题并出版《联邦德国与民主德国的教育比较》（*Vergleich von [[Bildung]] und Erziehung in der Bundesrepublik Deutschland und in der Deutschen Demokratischen Republik*），以客观严密的文献与数据剖析两德学制的意识形态分歧与结构异同。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 96)]]

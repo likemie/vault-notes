@@ -6,7 +6,7 @@ aliases:
 summary: "跨学科研究领域，主张科学知识与技术媒介是由异质性行动者网络、物质实践与制度权力共同生产的社会技术成就，核心关注知识如何被制造、动员、验证与施行，并在教育治理中表现为指标规程、特许脚本与数据库网络的物质建构。"
 type: concept
 domain: "curriculum"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Knowledge Co-production]]"
   - "[[Performance Indicators]]"
   - "[[International Education]]"
+  - "[[Transnational Education]]"
   - "[[Visible Learning]]"
   - "[[Implementation Fidelity]]"
   - "[[Epistemic Infrastructure]]"
@@ -60,7 +61,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -123,7 +124,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题二｜教育改革方案依托商业特许与逐字脚本等物质网络行使跨国治理权力
-> **跨国教育商业与技术规训网络** 考察循证方案如何通过商业特许专营、逐字脚本与数字记录工具突破主权国家边界，行使集权化规训并实现数据资产回收。
+> **[[Transnational Education|跨国教育]]商业与技术规训网络** 考察循证方案如何通过商业特许专营、逐字脚本与数字记录工具突破主权国家边界，行使集权化规训并实现数据资产回收。
 
 > [!claim] [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]]
 > **特许合同与逐字脚本对专业自主的技术规训** 科学技术研究视角揭示出《[[Visible Learning|可见的学习]]》跨国扩散实质上是非国家行动者依托商事特许网络实施的标准化治理；项目方借助严格的法律解约条款、精确到一字一句的工作坊脚本以及对教师课堂轶事的全面禁止，将统计[[Meta-analysis|元分析]]成果转化为工业化流水线，在维系[[Implementation Fidelity|实施忠实度]]的同时与地方民主教养传统爆发深刻冲突。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 253–256)]]

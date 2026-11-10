@@ -10,7 +10,7 @@ summary: "在存在不完全依从（Non-compliance）的实验中，通过工�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 21
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -37,11 +37,13 @@ related_theories:
 related_methods:
   - "[[Intent-to-Treat Analysis]]"
   - "[[Random Assignment]]"
+  - "[[Instrumental Variables]]"
   - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Regression Discontinuity Design]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Joshua Angrist]]"
 related_facts:
   - "[[Blueprints for Healthy Youth Development]]"
   - "[[Social Programs That Work]]"
@@ -53,15 +55,15 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Complier Average Causal Effect
-> **顺从者平均因果效应（Complier Average Causal Effect, CACE）**，亦称**依从者平均因果效应**，是由统计学家 Donald B. Rubin 与经济学家 Joshua Angrist、Guido Imbens 于 1996 年形式化建立的现代[[Causality\|因果推断]]核心概念，是指在存在**不完全依从（Non-[[Strategic Compliance|compliance]] / Treatment Non-adherence）** 的随机实验中，干预措施对那些“若被分配至干预组就会实际接受干预、若被分配至对照组就会实际接受对照”的**顺从者群体（Compliers）** 所产生的平均因果净效应([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 10]])。
+> **顺从者平均因果效应（Complier Average Causal Effect, CACE）**，亦称**依从者平均因果效应**，是由统计学家 Donald B. Rubin 与经济学家 [[Joshua Angrist]]、Guido Imbens 于 1996 年形式化建立的现代[[Causality\|因果推断]]核心概念，是指在存在**不完全依从（Non-[[Strategic Compliance|compliance]] / Treatment Non-adherence）** 的随机实验中，干预措施对那些“若被分配至干预组就会实际接受干预、若被分配至对照组就会实际接受对照”的**顺从者群体（Compliers）** 所产生的平均因果净效应([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 10]])。
 >
-> 在现代因果计量框架中，CACE 与[[Intent-to-Treat Analysis\|意向治疗分析]]（[[Initial Teacher Training\|ITT]]）构成了因果推断的两大支柱：ITT 评估的是“干预机会的分配政策效应（Effect of Assignment）”，而 CACE 借助初始[[Random Assignment\|随机分配]]作为工具[[Variable\|变量]]（Instrumental Variable, IV），在排除性约束（Exclusion Restriction）下准确剥离了中途违约与逃避行为，估计出干预措施本身的“纯净生理/教学效能（Pure Treatment Efficacy）”([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 333–334]])。
+> 在现代因果计量框架中，CACE 与[[Intent-to-Treat Analysis\|意向治疗分析]]（[[Initial Teacher Training\|ITT]]）构成了因果推断的两大支柱：ITT 评估的是“干预机会的分配政策效应（Effect of Assignment）”，而 CACE 借助初始[[Random Assignment\|随机分配]]作为工具[[Variable\|变量]]（[[Instrumental Variables|Instrumental Variable]], IV），在排除性约束（Exclusion Restriction）下准确剥离了中途违约与逃避行为，估计出干预措施本身的“纯净生理/教学效能（Pure Treatment Efficacy）”([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 333–334]])。
 
 > [!concept-lens] 效度视角与方法学定位
 > - **效度张力化解** 真实教育现场中学生常有缺勤或拒绝参与现象。若直接对比实际接受者与未接受者（As-Treated 分析），会引入严重的选择偏差（破坏[[Internal Validity\|内部效度]]）；若仅看 ITT，[[Effect Size\|效应量]]会被大量未依从者稀释。CACE 在不破坏随机化基础的前提下精确识别出干预的真实效能。

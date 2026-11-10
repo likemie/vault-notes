@@ -12,7 +12,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Public Engagement with Science]]"
   - "[[Scientific Attitude]]"
+  - "[[Transnational Education]]"
   - "[[Paradigm]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Informal Science Learning]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -66,7 +67,7 @@ updated: 2026-10-26
 > [!boundary]- 调查性质澄清与易混概念辨析（PAS vs [[PISA]]）
 > - **PAS（Public Attitudes to Science，英国公众对[[Scientific Attitude\|科学态度]]调查）** 英国本土专属的**成年公众宏观社会民意调查**，由 UKRI 主导，受众为 16 岁以上全体成年公民，核心测量公众对科学家的信任、科学信息需求、科普场馆访问及国家科技政策参与感。
 > - **[[PISA]]（Programme for International Student Assessment，国际学生评估项目）** [[OECD\|经济合作与发展组织]]（OECD）主导的**全球跨国基础教育学业测评**，覆盖全球 80 多个国家和地区，受众为 **15 岁在校中学生**，核心评估青少年在真实情境中应用科学、数学与阅读素养解决问题的认知胜任力。
-> - **二者区别** PAS 并非 PISA 的一部分，二者在发起机构（UKRI vs OECD）、调查对象（英国成年公众 vs 全球 15 岁学生）及研究性质（社会民意与科技治理调查 vs 跨国教育质量测评）上均截然不同。
+> - **二者区别** PAS 并非 PISA 的一部分，二者在发起机构（UKRI vs OECD）、调查对象（英国成年公众 vs 全球 15 岁学生）及研究性质（社会民意与科技治理调查 vs [[Transnational Education|跨国教育]]质量测评）上均截然不同。
 
 ---
 

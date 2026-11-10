@@ -7,7 +7,7 @@ title: "Argument_Nelson_2017_EducRes"
 argument_key: "Argument_Nelson_2017_EducRes"
 argument_display_title: "Evidence-informed practice in education: meanings and applications"
 argument_kind: "journal-article"
-argument_related_count: 56
+argument_related_count: 57
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -58,6 +58,7 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Pragmatism in China]]"
   - "[[Evidence-Based Education]]"
+  - "[[Appropriate Research]]"
   - "[[Research Literacy]]"
   - "[[Analytical Stance]]"
   - "[[Boundary Spanner]]"
@@ -101,7 +102,7 @@ sources:
 part_of: ""
 status: draft
 created: "2026-05-01"
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
@@ -256,7 +257,7 @@ updated: 2026-10-30
 > 1. **两界的长期割裂** [[Data-Based Decision Making\|基于数据的决策]]（DBDM）聚焦校内测评数据诊断，而[[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP）侧重外部学术文献转化；在现有学校体系中二者高度割裂、鲜有协同。
 > 2. **整合性改进模型** 提出证据知情学校与教师改进模型，萃取 DBDM 的精确诊断优势与 RITP 的外生新知优势，将其统一嵌入系统的[[School Enquiry Cycle\|学校探究循环]]（School Enquiry Cycle）中，实现数据与研究的双向互补。
 
-> [!case] 案例三：政策制定作为实践与可得证据向适切证据的情境转化（Rickinson et al., 2017）
+> [!case] 案例三：政策制定作为实践与可得证据向[[Appropriate Research|适切证据]]的情境转化（Rickinson et al., 2017）
 > 澳大利亚莫[[Roy Nash|纳什]]大学与新西兰环境部团队提出了跨领域新视角：
 > 1. **政策与实践的同构性** 将政策制定视为一种特殊的专业实践，揭示政策制定者与一线教育者在证据使用特征上存在高度相似性：二者均面临从浩瀚信息中筛选证据的挑战。
 > 2. **习惯依赖与适切性断裂** 经验表明，政策与实践两端均存在严重依赖熟知证据（well known）而非任务适切证据（appropriate to task）的认知惰性。

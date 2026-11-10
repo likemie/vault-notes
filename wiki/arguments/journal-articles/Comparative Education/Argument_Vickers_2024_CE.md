@@ -9,9 +9,9 @@ title: "Argument_Vickers_2024_CE"
 argument_key: "Argument_Vickers_2024_CE"
 argument_display_title: "The motherland's suffocating embrace: schooling and public discourse on Hong Kong identity under the National Security Law"
 argument_kind: "journal-article"
-argument_related_count: 28
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 30
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: Comparative Education
 citation: "Vickers, E. (2024). The motherland's suffocating embrace: schooling and public discourse on Hong Kong identity under the National Security Law. Comparative Education, 60(1), 138–158."
@@ -30,8 +30,10 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Psychologisation]]"
   - "[[One Country, Two Systems]]"
+  - "[[Homophily]]"
   - "[[Culturalisation of Politics]]"
   - "[[Grand Theory]]"
+  - "[[Nationalism]]"
   - "[[Schmittian Sovereignty]]"
   - "[[Decolonial Paradox]]"
   - "[[Civic Rituals]]"
@@ -63,7 +65,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-05-25
-updated: 2026-10-30
+updated: 2026-11-11
 year: 2024
 doi: "10.1080/03050068.2023.2212351"
 citation_aliases:
@@ -80,7 +82,7 @@ citation_aliases:
 
 > [!concept-lens] 阅读透镜
 > - **对象** 2020年版通识教育科教科书与2022年版公民与社会发展科教科书的对比分析，重点对比香港今日与[[One Country, Two Systems\|一国两制]]下的香港及改革开放以来的国家分册，并配合官方课程框架与青年发展政策文件。
-> - **张力** 批判性参与公民培养与同质性、总体性国家安全及身份认同灌输之间的根本冲突。
+> - **张力** 批判性参与公民培养与[[Homophily|同质性]]、总体性国家安全及身份认同灌输之间的根本冲突。
 > - **贡献** 揭示了通过政治文化化（[[Culturalisation of Politics]]）与青年不满心理化消解政治能动性的课程落地机制，并反思了西方学术界过度沉迷于去殖民[[Grand Theory\|宏大叙事]]而忽视香港本土能动性与生存困境的理论盲区。
 
 ---
@@ -88,7 +90,7 @@ citation_aliases:
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **文化-种族国族主义（culturalist-racialist nationalism）** | 官方在习近平时代将统治合法性基础全面转向以中华优秀传统文化为核心的本质主义国族观，强调以汉族为中心的血缘与文化认同的绝对绑定。 |
+> | **文化-种族[[Nationalism\|国族主义]]（culturalist-racialist nationalism）** | 官方在习近平时代将统治合法性基础全面转向以中华优秀传统文化为核心的本质主义国族观，强调以汉族为中心的血缘与文化认同的绝对绑定。 |
 > | **[[Schmittian Sovereignty\|施密特（Carl Schmitt）式主权理论]]** | 主权者的本质在于决定例外状态（state of exception），而非制定规则。这一逻辑被[[Jiang Shigong\|强世功]]应用于香港，认为中央对香港主权在于定义法律的权力本身。国家安全法即是例外状态的制度化，将香港宪制从法治转变为以法而治。 |
 > | **[[Culturalisation of Politics\|政治的文化化（culturalisation of politics）]]** | 当政权无法或不愿直接以赤裸的政治意识形态论证合法性时，转而使用文化、传统和身份[[Discourse\|话语]]来包装政治控制，将政治归属转化为文化责任。 |
 > | **[[Psychologisation\|青年问题的心理化（psychologisation）]]** | 当社会不满无法通过政治途径解决时，官方推行积极思维和感恩教育话语，将结构性的政治与社会矛盾转化为个体的心理适应问题，从而消解集体行动的合法性。 |

@@ -11,9 +11,9 @@ summary: "文献计量学、科学学与计算社会科学领域的基础计算�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 21
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -32,15 +32,20 @@ related_concepts:
   - "[[Research Topic]]"
   - "[[Variable]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
+  - "[[Early-Career Researchers]]"
   - "[[Counterfactual]]"
 related_theories:
   - "[[Random Impact Rule]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
+  - "[[Record Linkage]]"
   - "[[Career Shuffling Method]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Scopus]]"
+  - "[[Web of Science]]"
+  - "[[Google Scholar]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
@@ -48,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -57,8 +62,8 @@ updated: 2026-11-03
 > 著者姓名消歧（Author Name Disambiguation）是[[Bibliometric Analysis|文献计量学]]、科学学与学术知识图谱构建中的基础数据工程与计算方法。其核心任务是将海量学术[[Document|文献]]中的署名文本精准映射至真实世界的唯一物理学者实体，同时化解“同人异名”（同一学者以不同拼写、变体或改名发表）与“同名异人”（多个独立学者共享完全相同的文字署名）的双向混淆难题，为微观个体科研轨迹追踪与宏观科学学生产力计量提供高保真的底层数据基座。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 16)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 学术文献数据库中的署名字符串、机构归属文本、学科分类标签、引用关系图谱以及学者数字标识档案（如 ORCID、Scopus ID、ResearcherID）。
-> - **问题类型** 数据清洗、无监督聚类、图结构实体匹配与记录链接（Record Linkage）。
+> - **研究对象** 学术文献数据库中的署名字符串、机构归属文本、学科分类标签、引用关系图谱以及学者数字标识档案（如 ORCID、[[Scopus]] ID、ResearcherID）。
+> - **问题类型** 数据清洗、无监督聚类、图结构实体匹配与[[Record Linkage|记录链接]]（Record Linkage）。
 > - **[[Unit of Analysis|分析单位]]** 单篇文献中的署名节点、跨文献的学者个体发表档案。
 > - **输出形式** 经去重与聚类后的标准化学者标识符及其完整归属的论著产出序列集合。
 
@@ -113,7 +118,7 @@ updated: 2026-11-03
 ---
 
 > [!method-limits] 方法局限与科学学系统偏倚
-> - **偏误来源** 非对称的识别能力偏差：算法对长期持续高产的资深知名学者拥有极其丰富的上下文先验信息，极易完成可靠精准的消歧识别；而对于学术起步阶段仅发表过少量论著的新生代青年学者，由于缺乏合作网络与学术特征锚点，算法错配与漏配率偏高。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 16)]]
+> - **偏误来源** 非对称的识别能力偏差：算法对长期持续高产的资深知名学者拥有极其丰富的上下文先验信息，极易完成可靠精准的消歧识别；而对于学术起步阶段仅发表过少量论著的新生代[[Early-Career Researchers|青年学者]]，由于缺乏合作网络与学术特征锚点，算法错配与漏配率偏高。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 16)]]
 > - **适用边界** 适用于具有相对连续学术出版周期的科研群体，对短暂停留后离职或转向非公开发表领域的边缘群体识别度有限。
 > - **误用风险** 文献计量宏观分布扭曲风险：未完全消歧的数据库往往倾向于将常见姓名学者的产出机械合并为超高产超级巨星（人为加剧右偏幂律），或将频繁跨单位变动学者的产出割裂为数个单篇发表者，从而系统性误导科学计量学生产力模型的实证估计。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 16)]]
 > - **补救方式** 引入学者唯一数字标识符（如 ORCID）进行主动认证绑定；在下游计量模型中报告消歧算法敏感性检验与误差带区间。
@@ -133,4 +138,4 @@ updated: 2026-11-03
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 系统阐释著者消歧的四大瓶颈（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit01]]），并依托消歧技术重构学者全样本发表序列以检验[[Random Impact Rule|随机影响法则]]（[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Unit02]]）。
-> - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 融合科学网与谷歌学术开展大规模学者姓名消歧，准确重构 20,040 位跨越 20 年以上职业生涯的跨学科科学家全量成果时序，支撑职业爆发期动力学检验。
+> - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 融合[[Web of Science|科学网]]与[[Google Scholar|谷歌学术]]开展大规模学者姓名消歧，准确重构 20,040 位跨越 20 年以上职业生涯的跨学科科学家全量成果时序，支撑职业爆发期动力学检验。

@@ -10,9 +10,9 @@ subtype: organization
 region: europe
 fact_region: "europe"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "政府间跨国政策协调与执行常设机构"
 headquarters: "由部长级会议主办国轮值秘书处支持（轮值制）"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Epistemic Infrastructure]]"
   - "[[Peer Pressure]]"
+  - "[[Transnational Education]]"
 related_theories: []
 related_methods: []
 related_instruments:
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-28
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -144,7 +145,7 @@ updated: 2026-10-30
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Bologna Process]] | Fact (Policy) | BFUG 所支撑与维系的常设跨国教育改革母体。 |
+> | [[Bologna Process]] | Fact (Policy) | BFUG 所支撑与维系的常设[[Transnational Education\|跨国教育]]改革母体。 |
 > | [[E4 Group]] | Fact (Organization) | BFUG 内部起草质保标准并创设独立注册实体的核心咨询联盟。 |
 > | [[European Commission]] | Fact (Organization) | 拥有 BFUG 正式表决权并依托大额资助引导战略议程的超国家主体。 |
 > | [[European Association for Quality Assurance in Higher Education]] | Fact (Organization) | 在 BFUG 会议桌旁代表外部质保机构行使专家智识职能的咨询成员。 |

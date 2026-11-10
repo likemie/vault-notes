@@ -10,9 +10,9 @@ summary: "通过交叉分类多个理论维度或显性属性，将复杂经验�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 39
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 40
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Theoretical Perspective]]"
   - "[[Reflexivity]]"
+  - "[[Homophily]]"
   - "[[Empiricism]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 ---
@@ -99,7 +100,7 @@ updated: 2026-10-29
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 类型不是客观现实中自然天然割裂的实体，而是研究者基于特定[[Theoretical Perspective|理论视角]]与分类准则对经验世界进行的属性空间抽象；类型学架起了归纳性经验观察与演绎性因果解释之间的桥梁。
 > - **研究者角色** 在归纳进路中，研究者扮演[[Reflexivity|反思性]]的编码整合者；在演绎进路中，研究者作为理论维度的构作师，负责界定属性边界、检验象限完备性并推导各象限对应的微观发生机制。
-> - **有效性标准** 遵循组内同质性（同一类型内的案例或数据具有高度相似的核心特征）、组间互斥性（不同类型之间界限分明）、空间穷尽性（理论维度组合能覆盖现实变异范围）以及机制清晰性（每个类型能指涉明确的因果传导链条）。
+> - **有效性标准** 遵循组内[[Homophily|同质性]]（同一类型内的案例或数据具有高度相似的核心特征）、组间互斥性（不同类型之间界限分明）、空间穷尽性（理论维度组合能覆盖现实变异范围）以及机制清晰性（每个类型能指涉明确的因果传导链条）。
 > - **因果解释维度的澄清** 传统[[Empiricism|经验主义]]常误认为“类型学仅仅是描述分类、无法回答因果问题”；当代方法论（George & Bennett, 2005；Mahoney & Thelen, 2009）明确指出，**因果类型学**通过将[[Independent Variable|自变量]]的离散状态组合与特定[[Dependent Variable|结果变量]]及因果机制绑定，能够产生极具解释力的条件性因果命题。
 
 > [!method-stack] 方法层级

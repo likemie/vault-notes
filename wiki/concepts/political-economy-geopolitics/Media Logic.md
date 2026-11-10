@@ -26,9 +26,9 @@ related_concepts:
   - "[[Policy Avoidance]]"
   - "[[Falling Standards Template]]"
   - "[[Dramatic Tension]]"
-  - "[[Screening Off]]"
   - "[[Discourse]]"
   - "[[Performance Pay]]"
+  - "[[Transnational Education]]"
   - "[[Determinism]]"
   - "[[Data Infrastructure]]"
   - "[[Rashomon Effect]]"
@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -110,7 +110,7 @@ updated: 2026-11-03
 > **传播生产规律对政策议程的结构性重塑** 探讨大众传媒的商业竞争、发稿时效与受众心理机制如何系统性剪裁教育议题，将复杂微妙的教育生态压缩为直观的一维排行与衰退危机。
 
 > [!claim] Altheide & Snow; Mazzoleni
-> **媒介化规则的制度支配** 媒介逻辑确立了一种传播霸权：当政治、宗教或教育等制度领域依赖大众媒介获取合法性时，它们不可避免地被媒介的内部语法所同化；媒介偏爱[[Dramatic Tension\|戏剧张力]]、速度与简明性，使得任何需要漫长酝酿与条件限制的政策反思被系统性[[Screening Off\|屏蔽]]。
+> **媒介化规则的制度支配** 媒介逻辑确立了一种传播霸权：当政治、宗教或教育等制度领域依赖大众媒介获取合法性时，它们不可避免地被媒介的内部语法所同化；媒介偏爱[[Dramatic Tension\|戏剧张力]]、速度与简明性，使得任何需要漫长酝酿与条件限制的政策反思被系统性屏蔽。
 
 > [!claim] Grey & Morris
 > **排列表迷狂与危机建构** 在 [[PISA]] 结果传播中，英国媒体无视客观数据长期平稳的实证事实，全盘顺应媒介逻辑，将细微的位次波动渲染为国家教育崩盘；严肃大报、商业电视乃至公共广播集体套用“[[Falling Standards Template\|水平下降模板]]”，以“全球竞赛中被亚洲对手碾压”为头条噱头，完成了对公众认知的危机锁定。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 120–122)]]
@@ -149,7 +149,7 @@ updated: 2026-11-03
 > - **1979 — 理论创立** David Altheide 与 Robert Snow 出版《Media Logic》，首次系统界定媒介逻辑是拥有自身符号机制与组织规程的文化制度，有别于技术工具。
 > - **2004 — 引入教育政策研究** [[Bob Lingard]] 与 Shaun Rawolle 将[[Pierre Bourdieu\|布迪厄]][[Champ\|场域]]论与媒介化结合，提出“媒介资本”（Medial Capital）在教育政策生产中的渗透；Warmington and Murphy (2004) 提出教育新闻中的“[[Falling Standards Template\|水平下降模板]]”。
 > - **2008–2014 — 政治媒介化元进程确立** Jesper Strömback 与 Frank Esser 确立政治媒介化的四阶段模型，将媒介逻辑的内化视为政治系统丧失自主性的核心标志。
-> - **2018 — 跨国教育数据治理批判** [[Paul Morris]] 与 Sue Grey 深入剖析英格兰应对 [[PISA]] 2012 案例，阐发媒介逻辑如何与政治媒介资本共谋催生[[Mediatised Governance\|媒介化治理]]与[[Policy Avoidance\|政策规避]]。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018)]]
+> - **2018 — [[Transnational Education|跨国教育]]数据治理批判** [[Paul Morris]] 与 Sue Grey 深入剖析英格兰应对 [[PISA]] 2012 案例，阐发媒介逻辑如何与政治媒介资本共谋催生[[Mediatised Governance\|媒介化治理]]与[[Policy Avoidance\|政策规避]]。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018)]]
 
 ---
 

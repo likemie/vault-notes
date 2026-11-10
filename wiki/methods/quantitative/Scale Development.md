@@ -12,7 +12,7 @@ summary: "在心理学与教育学中开发和验证测量不可直接观测潜�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 52
+method_related_count: 53
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dcfce7"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Literature Review]]"
   - "[[External Validity]]"
+  - "[[Homophily]]"
   - "[[Research Literacy]]"
   - "[[Epistemological Beliefs]]"
   - "[[Ontology]]"
@@ -84,7 +85,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -201,7 +202,7 @@ updated: 2026-11-02
 > |:---|:---|:---|:---|:---|
 > | **[[Confirmatory Factor Analysis\|验证性因子分析（CFA）]]** | **理论模型拟合确证** | 检验 [[Education for All\|EFA]] 探索出的因子结构是否能在独立新样本中稳定复现，对比竞争模型并检验高阶二阶构念。 | 拟合优良标准：$\chi^2/df < 3.0$，**$\text{RMSEA} < 0.08$**（优选 $< 0.06$），**$\text{SRMR} < 0.08$**，**$\text{CFI} \ge 0.90$**，**$\text{TLI} \ge 0.90$**。 | 🔗 [[Confirmatory Factor Analysis]] |
 > | **[[Model Fit Indices in SEM and CFA\|结构方程拟合指数体系]]** | **多维模型适配度量化判定** | 提供绝对拟合（$\chi^2/df, \text{RMSEA}, \text{SRMR}$）与增量拟合（$\text{CFI}, \text{TLI}$）的综合决策标准。 | Hu & Bentler 准则：**$\text{CFI} \ge .95$**，**$\text{TLI} \ge .95$**，**$\text{RMSEA} \le .06$**，**$\text{SRMR} \le .08$**。 | 🔗 [[Model Fit Indices in SEM and CFA]] |
-> | **[[Cronbach's Alpha\|克隆巴赫 α 系数]]** | **经典测量[[Internal Consistency\|内部一致性]]基准** | 评估量表各题项在同质性测量中的一致性，提供基线信度参考。 | 决策阈值：**$\alpha \ge .70$**（可接受），**$\alpha \ge .80$**（良好），**$\alpha \ge .90$**（卓越）。 | 🔗 [[Cronbach's Alpha]] |
+> | **[[Cronbach's Alpha\|克隆巴赫 α 系数]]** | **经典测量[[Internal Consistency\|内部一致性]]基准** | 评估量表各题项在[[Homophily\|同质性]]测量中的一致性，提供基线信度参考。 | 决策阈值：**$\alpha \ge .70$**（可接受），**$\alpha \ge .80$**（良好），**$\alpha \ge .90$**（卓越）。 | 🔗 [[Cronbach's Alpha]] |
 > | **[[McDonald's Omega\|麦克唐纳 ω 系数]]** | **现代潜变量内部一致性首选** | 突破等载荷假设，精准估计异质载荷下的总信度（$\omega_t$）与分层信度（$\omega_h$）。 | 决策阈值：**$\omega_t \ge .70$**，若作为单维合成总分要求 **$\omega_h \ge .80$**。 | 🔗 [[McDonald's Omega]] |
 > | **[[Average Variance Extracted\|平均方差抽取量（AVE）]]** | **收敛与[[Convergent and Discriminant Validity\|区分效度]]判定标准** | 解决传统方法无法量化潜变量真实解释变异比例的痛点，提供 Fornell-Larcker 区分效度基准。 | 收敛标准：**$\text{AVE} \ge .50$**；区分标准：各因子 $\text{AVE}_j > r_{jk}^2$（或 $\sqrt{\text{AVE}_j} > \lvert r_{jk}\rvert$）。 | 🔗 [[Average Variance Extracted]] |
 > | **[[Composite Reliability\|组合信度（CR）]]** | **结构方程潜变量合成信度** | 基于 CFA 标准化载荷直接计算潜变量合成信度，克服 $\alpha$ 低估缺陷。 | 决策阈值：**$\text{CR} \ge .70$**（探索性研究 $\ge .60$，高精度要求 $\ge .80$）。 | 🔗 [[Composite Reliability]] |

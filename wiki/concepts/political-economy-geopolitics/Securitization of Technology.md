@@ -8,7 +8,7 @@ aliases:
 summary: "指主权国家在地缘政治博弈加剧背景下，将半导体、人工智能等战略性关键技术、基础科研与产业链控制力上升为关乎国家生存与主权安全的核心议程；通过出口管制、投资审查、定向产业立法与有组织科研动员，将大学等创新主体深度嵌入国家安全体系。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 52
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -31,11 +31,13 @@ related_concepts:
   - "[[Market Failure]]"
   - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Scientific Mobility]]"
   - "[[Process Knowledge]]"
   - "[[National Innovation System]]"
   - "[[Knowledge Production]]"
   - "[[Heterogeneous Integration]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Study Abroad]]"
   - "[[Document]]"
   - "[[Counterpart Funds]]"
   - "[[Technology-Oriented Social Contract]]"
@@ -79,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -127,7 +129,7 @@ updated: 2026-11-03
 > - **战略叙事安全化** 将原本属于商业贸易与民用领域的科技研发重新定性为国家主权与国防安全基础设施，确立排他性的战略防御目标。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–25)]]
 > - **治理手段刚性化** 广泛采用小院高墙式出口管制、实体清单制裁、外资准入审查与联邦[[Research Security|科研安全]]问责等行政干预工具。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19, 25)]]
 > - **创新主体制度性嵌入** 将[[Research Universities|研究型大学]]、国家实验室与领军企业编织进国家主导的协同创新网络，要求学术研究直接对接国家战略使命。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 21–24)]]
-> - **学术流动排他化** 收紧国际学者签证、强化意识形态审查与跨国学术合作合规限制，以防御性逻辑阻隔知识外流。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 25–26)]]
+> - **[[Scientific Mobility|学术流动]]排他化** 收紧国际学者签证、强化意识形态审查与跨国学术合作合规限制，以防御性逻辑阻隔知识外流。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 25–26)]]
 > - **契约关系重构** 推动二战后由[[Science, The Endless Frontier 1945|布什报告]]确立的自由探索型科学契约，向国家意志主导的技术导向型社会契约转变。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 20–22)]]
 > - **中试共置与反馈回路制造** 依托国家级 300 毫米晶圆中试线与共置洁净室（[[Albany NanoTech Complex|Albany NanoTech]], MIT.nano），打破设计制造割裂，将默会[[Process Knowledge|过程知识]]重新锚定在本土工业基座之上。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 22–24)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 22–26)]]
 > - **硬件全生命周期根信任与零信任治理** 将技术安全化从外生出口管制下沉至微观芯片设计、异构封装与晶圆制造全栈，确立防伪、抗物理篡改、混淆加密与可证明安全度量衡，构建全生命周期硬件溯源与零信任生态。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 37–44)]]
@@ -234,7 +236,7 @@ updated: 2026-11-03
 
 > [!warning] 适用局限与警示
 > - **过度安全化与科研摩擦成本** 若[[Research Security|科研安全]]审查范围无限泛化，将大幅增加大学教师申请与合规的文书负担（目前已占教师时间的 42%–44%），诱发严重的学术避险与创新停滞。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 22–24)]]
-> - **跨国人才断流风险** 针对国际留学生与外籍学者的排他性壁垒，将直接冲击美国高校微电子等工程专业高度依赖留学生的脆弱生源结构（全美研究生中留学生占比高达 41%）。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 41)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 25)]]
+> - **跨国人才断流风险** 针对国际[[Study Abroad|留学]]生与外籍学者的排他性壁垒，将直接冲击美国高校微电子等工程专业高度依赖留学生的脆弱生源结构（全美研究生中留学生占比高达 41%）。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 41)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 25)]]
 
 ---
 

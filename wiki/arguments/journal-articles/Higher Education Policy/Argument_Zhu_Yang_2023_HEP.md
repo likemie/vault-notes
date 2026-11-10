@@ -7,9 +7,9 @@ title: "Argument_Zhu_Yang_2023_HEP"
 argument_key: "Argument_Zhu_Yang_2023_HEP"
 argument_display_title: "Emerging resources of China’s soft power: A case study of Cambodian participants from Chinese higher education programs"
 argument_kind: "journal-article"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 42
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "Higher Education Policy"
 authors:
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Champ]]"
   - "[[Emergence]]"
+  - "[[Study Abroad]]"
   - "[[Grandes Ecoles]]"
   - "[[Educational Soft Power]]"
   - "[[Public Diplomacy]]"
@@ -44,6 +45,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Knowledge-Based Economy]]"
   - "[[International Education]]"
+  - "[[Transnational Education]]"
   - "[[Paradigm]]"
   - "[[STEM Education]]"
   - "[[South-South Cooperation]]"
@@ -65,6 +67,7 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Qualitative Interview]]"
   - "[[Design-Based Research]]"
+  - "[[Cognitive Extent]]"
 related_persons:
   - "[[Joseph S. Nye Jr.]]"
   - "[[Rui Yang]]"
@@ -80,7 +83,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-25
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
@@ -91,7 +94,7 @@ updated: 2026-10-29
 > 立足中柬跨境高等教育拓展实践，中国软实力资源在东南亚呈现出由传统历史文化符号向当代科技与治理经验的实质转移，[[Emergence|涌现]]出当代生活吸引力、科技创新能力、理工科教育声誉与经济发展模式四项新兴软实力资源。一带一路经贸投资发挥了显著的催化拉动作用，但微观教学缺乏互动、国内涉外主体协同不足以及校际合作协议形式化，使软实力向深层社会互信的转化面临结构性制约。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 深入考察中柬高等教育项目的 40 位柬埔寨知情人，涵盖在华留学生、[[Confucius Institute|孔子学院]]师生、高教援助受训骨干以及[[Grandes Ecoles|大学校]]长、院系主管与教育部委决策官员。
+> - **对象** 深入考察中柬高等教育项目的 40 位柬埔寨知情人，涵盖在华[[Study Abroad|留学]]生、[[Confucius Institute|孔子学院]]师生、高教援助受训骨干以及[[Grandes Ecoles|大学校]]长、院系主管与教育部委决策官员。
 > - **张力** 宏观经贸投资与大型基建的强劲势头，同微观课堂缺乏互动、校际备忘录流于纸面形式以及普通民众对华防范心理之间的转化落差。
 > - **贡献** 突破[[Joseph S. Nye Jr.|约瑟夫·奈]]（Nye, 2004）传统的文化、政治价值观与外交政策三要素框架，整合[[Educational Soft Power|教育软实力]]运作机制与五维软实力模型，系统实证剖析跨境高等教育拓展中涌现的新型吸引力资源与在地治理挑战。
 
@@ -248,7 +251,7 @@ updated: 2026-10-29
 > - **资源卓越机制（Resources）**
 >   代表大学的学术声誉、科研实力、重点学科排名与国际化办学水准，作为吸引外国受众的硬核学术资本。
 > - **价值传导机制（Values）**
->   通过跨国教育沉浸向海外受众展现高品质的生活方式、社会文化环境与未来发展机遇，赢得心智认同。
+>   通过[[Transnational Education|跨国教育]]沉浸向海外受众展现高品质的生活方式、社会文化环境与未来发展机遇，赢得心智认同。
 > - **政策工具机制（Tools）**
 >   使高等教育直接服务于特定的对外战略目标，通过政府奖学金、涉外高教援助与校际合作网络塑造受援国政策偏好。
 
@@ -291,7 +294,7 @@ updated: 2026-10-29
 > [!sub-claim] 1. 便捷的数字生活和现代城市体验成为最直接的文化吸引力
 
 > [!evidence-grid] 现代数字生活吸引力的[[Qualitative Interview|质性访谈]]与民调证据
-> - **数字化生活方式的高度黏性** 微信支付、支付宝、淘宝网购、美团外卖、高铁路网与共享单车频繁出现在受访者叙述中。15 位受访留学生（I1、I3、I4、I6、I7、I8、I9、I10、I11、I13、I16、I17、I25、I27、I31）高度认同当代中国生活的便捷、高效与安全，部分学生甚至担忧回国后难以适应缺乏数字服务的生活。
+> - **数字化生活方式的高度黏性** 微信支付、支付宝、淘宝网购、美团外卖、高铁路网与共享单车频繁出现在受访者叙述中。15 位受访[[Study Abroad|留学]]生（I1、I3、I4、I6、I7、I8、I9、I10、I11、I13、I16、I17、I25、I27、I31）高度认同当代中国生活的便捷、高效与安全，部分学生甚至担忧回国后难以适应缺乏数字服务的生活。
 > - **现代生活体验超越传统文化符号** 访谈中仅有 2 位受访者提及长城或传统民俗，且其中 1 人在留华期间转向喜爱当代流行文化，表明当代生活方式已成为最直接的文化感染源。
 > - **科技品牌好感度的跨国民调佐证** 当代中国与世界研究院发布的全球民调显示，华为、阿里巴巴、小米等科技企业在东南亚拥有较高好感度，科技创新与数字生活共同构筑起当代文化的实体载体。
 
@@ -406,7 +409,7 @@ updated: 2026-10-29
 > [!warning] 自述局限
 > - **样本选择性偏差风险** 受访者主要为参与中国高教项目的留学生、孔院学员、受训官员与大学决策层，作为项目直接参与者或受益人，其叙述可能存在特定立场倾向。
 > - **单一国别情境推广局限** 结论深植于中柬特定地缘友好合作语境，东南亚各国内部政治体制、对华历史渊源及地缘关切存在显著[[Heterogeneity|异质性]]，向存在领土争议或历史纠葛的周边国家推广时需充分考量情境差异。
-> - **宏观社会认知实证缺口** 质性案例调查聚焦参与高教拓展的特定群体，未能量化测度普通社会大众对新兴软实力资源的认知广度与动态变迁。
+> - **宏观社会认知实证缺口** 质性案例调查聚焦参与高教拓展的特定群体，未能量化测度普通社会大众对新兴软实力资源的[[Cognitive Extent|认知广度]]与动态变迁。
 
 ---
 

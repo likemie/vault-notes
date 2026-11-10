@@ -9,7 +9,7 @@ title: "Argument_Boyadjieva_2022_Springer"
 argument_key: "Argument_Boyadjieva_2022_Springer"
 argument_display_title: "(Un)avoidable clash: Higher education at the altar of its missions and rankings"
 argument_kind: "book"
-argument_related_count: 25
+argument_related_count: 27
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -55,13 +55,15 @@ related_persons:
 related_facts:
   - "[[Academic Ranking of World Universities]]"
   - "[[UN Sustainable Development Goals]]"
+  - "[[Web of Science]]"
+  - "[[Scopus]]"
 related_arguments: []
 sources:
   - "[[books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022|Ch8_Boyadjieva_2022]]"
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-11
-updated: 2026-10-30
+updated: 2026-11-11
 year: 2022
 doi: ""
 citation_aliases:
@@ -295,7 +297,7 @@ Boyadjieva 公平地承认，一些排名系统已经意识到了上述问题并
 
 > **锁链 5：[[Path Dependence|技术锁定]]——你不上榜也不会消失**
 >
-> 主要全球排名（ARWU、THE、QS）并不依赖高校主动提交数据——它们使用大型公开研究数据库（如 Web of Science、Scopus）和声誉调查。这意味着，即使某所大学决定"不理排名"，它仍然会在排名中出现——排名方从公开数据库中提取了它的论文和引用数据，自动计算了它的"分数"(p.138)。
+> 主要全球排名（ARWU、THE、QS）并不依赖高校主动提交数据——它们使用大型公开研究数据库（如 [[Web of Science]]、[[Scopus]]）和声誉调查。这意味着，即使某所大学决定"不理排名"，它仍然会在排名中出现——排名方从公开数据库中提取了它的论文和引用数据，自动计算了它的"分数"(p.138)。
 >
 > > [!example|notitle]
 > > 你是一所地方教学型大学的校长。你决定："我们专注教学使命，不参与排名游戏。"但 ARWU 会从 Web of Science 上自动抓取你校教师发表的论文数据；THE 会向全球学者发放声誉[[Questionnaire\|问卷]]（你无法阻止有人提名你的大学）；QS 会从 Scopus 上拉取你校的引用数据。你的大学仍然会被排名——只是排得很低。一旦你"被排得很低"，学生、家长、媒体、政府就会注意到这个"低排名"，开始质疑你的质量。**不理排名，不等于不受排名影响**。

@@ -9,9 +9,9 @@ title: "Argument_Nordahl_2015_Paideia"
 argument_key: "Argument_Nordahl_2015_Paideia"
 argument_display_title: "Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet"
 argument_kind: "journal-article"
-argument_related_count: 19
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 20
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Paideia
 citation: "Nordahl, T. (2015). Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet. Paideia, 9, 61–69."
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Homework]]"
   - "[[Empiricism]]"
+  - "[[System-Wide Improvement]]"
   - "[[Teacher Collaboration]]"
   - "[[Learning Gap]]"
 related_theories: []
@@ -51,7 +52,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-21'
-updated: 2026-10-30
+updated: 2026-11-11
 year: 2015
 doi: ""
 citation_aliases:
@@ -153,7 +154,7 @@ citation_aliases:
 > 21. 因此，[[Visible Learning]] 在这里最终被塑造成一种学校改进起点：它迫使教育系统围绕学习效果、研究知识、专业判断与组织能力重新安排改革重点。
 
 > [!success] 主要发现
-> 1. 学习结果被提升为教育系统改进的核心尺度。教育若深刻影响个人一生和社会延续，就不能把“是否真正促进学习”放到次要位置。
+> 1. 学习结果被提升为[[System-Wide Improvement|教育系统改进]]的核心尺度。教育若深刻影响个人一生和社会延续，就不能把“是否真正促进学习”放到次要位置。
 > 2. [[Visible Learning]] 的关键作用，不是提供一张可以直接照搬的干预排行榜，而是打破“各种教法都差不多”的惯性认知，迫使学校认真比较不同做法的学习效果。
 > 3. [[Evidence-Based Education\|循证教育]]被界定为一种“提高成功概率”的知识基础，而不是替教师自动下命令的技术系统；研究证据与 [[Professional Judgment]] 因而被处理成互补关系，而非彼此排斥。
 > 4. 改革失败常常不是因为学校缺少压力，而是因为把问题误诊成“动机不足”。[[No Child Left Behind Act 2001]] 被当作反例，用来说明单靠问责、竞争和奖惩并不会自然生成更好的教学。

@@ -54,6 +54,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
+  - "[[Harry S. Truman]]"
   - "[[Franklin D. Roosevelt]]"
   - "[[Michael Kratsios]]"
   - "[[Chris Freeman]]"
@@ -83,17 +84,16 @@ related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Stephan_2013_NBER]]"
   - "[[Argument_Freeman_1995_CJE]]"
-  - "[[Argument_Yang_2017_MUE]]"
 confidence: high
 status: completed
 created: 2026-05-26
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定性
-> 《科学：无止境的前沿》（*Science, The Endless Frontier*）是美国[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（[[Office of Scientific Research and Development]], OSRD）主任[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）于 1945 年 7 月向哈里·S·杜鲁门（Harry S. Truman）总统提交的划时代科技政策报告。该报告构成了二战后美国国家科研资助体制的基石宪章与[[Social Contract of Science|科学社会契约]]原型，亦是美国[[Technological Republic|技术共和国]]政产学研协同动员模式的总体蓝图；确立了政府出资、科学自治与长期公共回报的三位一体体制，催生了国家科学基金会（[[National Science Foundation]], NSF）与多元分布式资助网络，并在政策分类上制度化了[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]与单向[[Linear Model of Innovation|线性创新模型]]。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
+> 《科学：无止境的前沿》（*Science, The Endless Frontier*）是美国[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（[[Office of Scientific Research and Development]], OSRD）主任[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）于 1945 年 7 月向[[Harry S. Truman|哈里·S·杜鲁门]]（Harry S. Truman）总统提交的划时代科技政策报告。该报告构成了二战后美国国家科研资助体制的基石宪章与[[Social Contract of Science|科学社会契约]]原型，亦是美国[[Technological Republic|技术共和国]]政产学研协同动员模式的总体蓝图；确立了政府出资、科学自治与长期公共回报的三位一体体制，催生了国家科学基金会（[[National Science Foundation]], NSF）与多元分布式资助网络，并在政策分类上制度化了[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]与单向[[Linear Model of Innovation|线性创新模型]]。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
 
 > [!event-context] 事件背景档案
 > - **时间跨度 / 空间地理** 1944 年 11 月（[[Franklin D. Roosevelt|罗斯福总统]]致信垂询）至 1945 年 7 月（正式提交报告），美国华盛顿特区。
@@ -105,7 +105,7 @@ updated: 2026-11-04
 
 > [!dev-timeline] 报告编制与契约演变历程
 > - **1944–1945 — 战时动员与报告起草呈递** [[Vannevar Bush|万尼瓦尔·布什]]组织四个独立专门委员会（医学研究、自然科学资助、人才发现、战时知识解密）开展起草；1945 年 7 月将报告《科学——无止境的边疆》呈交继任总统杜鲁门，将战时研发合同经验升华为国家科学资助蓝图。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1057–1058)]]
-> - **1945–1950 — 五年立法博弈与多元分布式资助网络奠基** 布什主张设立由非政府科学家独立掌控的半自治基金会，而杜鲁门行政团队坚持总统任免权与公众民主监督问责，杜鲁门于 1947 年否决首版法案。在立法僵局期间，原子能委员会（[[Atomic Energy Commission|AEC]]）、[[Office of Naval Research|海军研究办公室]]（ONR）与国立卫生研究院（[[National Institutes of Health|NIH]]）先行启动大学科研资助，直至 1950 年双方妥协成立国家科学基金会（[[National Science Foundation|NSF]]），形成了多机构并行的分布式资助网络。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
+> - **1945–1950 — 五年立法博弈与多元分布式资助网络奠基** 布什主张设立由非政府科学家独立掌控的半自治基金会，而杜鲁门行政团队坚持总统任免权与公众民主监督问责，杜鲁门于 1947 年否决首版法案。在立法僵局期间，原子能委员会（[[ASEAN Economic Community|AEC]]）、[[Office of Naval Research|海军研究办公室]]（ONR）与国立卫生研究院（[[National Institutes of Health|NIH]]）先行启动大学科研资助，直至 1950 年双方妥协成立国家科学基金会（[[National Science Foundation|NSF]]），形成了多机构并行的分布式资助网络。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 > - **1950s–1980s — 冷战安全驱动下的契约黄金期与二分法[[Paradigm|范式]]固化** 美苏对抗将国家安全确立为资助科学的主导性合法性来源，科学家精英通过[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）直接参与最高国策；1957 年苏联人造卫星危机后迎来经费高速增长，二分法与单向线性范式成为联邦预算编制的黄金法则，直接催生了[[ARPANET|阿帕网]]、早期人工智能与硅谷半导体微电子革命的底层硬件基础。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
 > - **1990s–2000s — 冷战终结、赤字攀升与[[Pasteur's Quadrant|巴斯德象限]]的再签约妥协** 安全红利消退与财政紧缩迫使科学界回应经济回报与社会问责诉求；唐纳德·斯托克斯（1997）提出[[Pasteur's Quadrant|巴斯德象限]]，确立用启发性基础研究的合法性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
 > - **2010–2024 — 刚性绩效问责与[[Research Security|科研安全]]壁垒** GPRAMA 法案出台与 NSF 强化“更广泛的影响”（[[NSF Broader Impacts Criterion|Broader Impacts]]）评审门槛，叠加生物医学[[Reproducibility Crisis|可重复性危机]]与《[[CHIPS and Science Act|芯片与科学法案]]》，终结了基础科学无需自证的免检地位。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1060–1061)]]

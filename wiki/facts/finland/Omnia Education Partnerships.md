@@ -12,7 +12,7 @@ subtype: organization
 region: "finland"
 fact_region: "finland"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -26,35 +26,36 @@ tags:
   - theme/soft-privatisation
   - level/vocational
 related_concepts:
-  - "[[Soft Privatisation]]"
-  - "[[Transnational Education]]"
+  - "[[Champ]]"
+  - "[[Apprenticeship]]"
+  - "[[Lifelong Learning]]"
   - "[[Education Export]]"
-  - "[[Quasi-market]]"
-related_theories:
-  - "[[Governmentality]]"
-related_methods:
-  - "[[Post-structural Policy Analysis]]"
+  - "[[Soft Privatisation]]"
+  - "[[Paradigm]]"
+related_theories: []
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Government Bill 191-2021]]"
   - "[[Finnish Government Education Export Programme]]"
+  - "[[EU]]"
   - "[[Trade Union of Education in Finland]]"
+  - "[[Government Bill 191-2021]]"
 related_arguments:
   - "[[Argument_Kuortti_2025_JEdPolicy]]"
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定位
-> 芬兰规模最大且最具代表性的市镇公立职业教育联合体，由埃斯波等市镇政府联合出资设立；通过组建专属私法有限责任公司（Omnia Education Partnerships Ltd），开创了公办职教母体与外围营利法人并行的双轨法人模式，成为推动芬兰中等职业教育去规制化出海与教职人员微专业转型的标杆性微观治理场域。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 384, 388, 390)]]
+> 芬兰规模最大且最具代表性的市镇公立职业教育联合体，由埃斯波等市镇政府联合出资设立；通过组建专属私法有限责任公司（Omnia Education Partnerships Ltd），开创了公办职教母体与外围营利法人并行的双轨法人模式，成为推动芬兰中等职业教育去规制化出海与教职人员微专业转型的标杆性微观治理[[Champ|场域]]。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 384, 388, 390)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 始建于 1980 年代初期，由埃斯波市（Espoo）、考尼艾宁市（Kauniainen）与基尔科努米市（Kirkkonummi）依法组建为区域联合教育机构（Kuntayhtymä），统一承担该都市圈的中等职业学历教育、学徒培训与成人终身教育。
+> - **成立时间 / 创设背景** 始建于 1980 年代初期，由埃斯波市（Espoo）、考尼艾宁市（Kauniainen）与基尔科努米市（Kirkkonummi）依法组建为区域联合教育机构（Kuntayhtymä），统一承担该都市圈的中等职业学历教育、[[Apprenticeship|学徒培训]]与成人[[Lifelong Learning|终身教育]]。
 > - **总部地点 / 业务辐射** 总部位于芬兰埃斯波市，服务大赫尔辛基西部数万名本土学生；其商业出口实体业务辐射海湾国家、东南亚、东亚与撒哈拉以南非洲。
 > - **法人属性与经费基础** 母体为公立市镇联合体法人，基础经费由国家教育部与市镇财政按人头拨款支持；离岸业务由旗下 100% 控股的私法有限责任公司（LLC）运作，经费源于境外全额商业合同、外事委托与学费收益。
 > - **核心宗旨与法定职责** 维护大都市区技能人才供给与终身学习公平；在全球范围内推行基于芬兰国家资格框架（NQF）的跨国职业技能培训。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 388)]]
@@ -71,10 +72,10 @@ updated: 2026-11-10
 >
 > - **2010–2020 年** **出海试点与双轨混合法人探索**
 >
->   随着国家教育出口计划（FGEE）启动，率先探索面向非欧盟市场的职业技术出海。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 384)]]
+>   随着国家[[Education Export|教育出口]]计划（[[Finnish Government Education Export Programme|FGEE]]）启动，率先探索面向非[[EU|欧盟]]市场的职业技术出海。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 384)]]
 >
 >   - **2015 年** 正式设立私法有限责任公司 Omnia Education Partnerships Ltd（OEP），以独立商业法人开展离岸投标。
->   - **2018 年** 参与由教育部出资、芬兰教育工会（OAJ）支持的全国首批 30 学分教育出口专业化培训项目。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 390)]]
+>   - **2018 年** 参与由教育部出资、[[Trade Union of Education in Finland|芬兰教育工会]]（OAJ）支持的全国首批 30 学分教育出口专业化培训项目。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 390)]]
 >
 > - **2021 年至今** **法规松绑后的常态化运营与资格出口**
 >
@@ -113,5 +114,5 @@ updated: 2026-11-10
 > [!debates] 核心争议与学术反思
 >
 > > [!axis] 公益资产保全 vs 离岸外壳营利带来的结构性风险
-> > 批判政策学者（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025]]）指出，Omnia 开创的“公办母体 + 私法有限责任公司”双轨法人架构，是典型的[[Soft Privatisation|软性私有化]]治理范式。国家和市镇政府在表面上坚守了国内公办职教全面免费的宪政伦理，却在体制外围设立商业实体承揽暴利业务。公立学校积累的师资、声誉和纳税人投入的公共资产被外围公司用于商业竞争，使得公共利益边界高度模糊，引发了公共资源被私人市场逻辑隐性蚕食的治理忧虑。
+> > 批判政策学者（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025]]）指出，Omnia 开创的“公办母体 + 私法有限责任公司”双轨法人架构，是典型的[[Soft Privatisation|软性私有化]]治理[[Paradigm|范式]]。国家和市镇政府在表面上坚守了国内公办职教全面免费的宪政伦理，却在体制外围设立商业实体承揽暴利业务。公立学校积累的师资、声誉和纳税人投入的公共资产被外围公司用于商业竞争，使得公共利益边界高度模糊，引发了公共资源被私人市场逻辑隐性蚕食的治理忧虑。
 > >

@@ -7,7 +7,7 @@ summary: "英国教育社会学家，伦敦大学学院教育学院政策社会�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 55
+person_related_count: 57
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -33,11 +33,13 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Policy Entrepreneur]]"
   - "[[School Choice]]"
+  - "[[Soft Privatisation]]"
   - "[[Philanthrocapitalism]]"
   - "[[Recontextualization]]"
   - "[[Policy Mobility]]"
   - "[[Document]]"
   - "[[Governing by Numbers]]"
+  - "[[Transnational Education]]"
   - "[[Champ]]"
   - "[[Evidence-Based Education]]"
   - "[[Value Neutrality]]"
@@ -87,7 +89,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-05'
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -104,7 +106,7 @@ updated: 2026-11-10
 > - **1994 年** 出版著作 *Education Reform: A Critical and Post-structural Approach*，确立政策文本、政策语境与政策实践动态互动的批判[[Analytic Framework|分析框架]]。
 > - **2000 年代初** 加盟伦敦大学教育学院（IOE），任教育政策卡尔·曼海姆讲座教授；系统考察新工党政府的教育市场化与公私伙伴网络。
 > - **2003 年** 发表开创性专论 *The teacher's soul and the terrors of [[Performativity]]*，提出[[Performativity|表演性]]概念，奠定批判量化问责对教师主体性异化研究的理论基石。
-> - **2008 年** 与德博拉·尤德尔（Deborah Youdell）合作发布全球报告《公共教育中的隐性私有化》，正式确立内生与[[Exogenous Privatisation|外生私有化]]的双轨分析[[Paradigm|范式]]；同年发表 *Some sociologies of education*，反思教育社会学史上的治理目光转向。
+> - **2008 年** 与德博拉·尤德尔（Deborah Youdell）合作发布全球报告《公共教育中的[[Soft Privatisation|隐性私有化]]》，正式确立内生与[[Exogenous Privatisation|外生私有化]]的双轨分析[[Paradigm|范式]]；同年发表 *Some sociologies of education*，反思教育社会学史上的治理目光转向。
 > - **2012 年** 出版 *Global Education Inc.*，系统绘制全球教育商业化、[[Philanthrocapitalism|慈善资本主义]]与跨国[[Policy Network|政策网络]]图景。
 
 ---
@@ -119,7 +121,7 @@ updated: 2026-11-10
 > - **2003 — *The teacher's soul and the terrors of [[Performativity]]*** 确立表演性理论范式，剖析以指标生产和外在审计为核心的管理主义技术如何重塑教师灵魂，诱发伦理认知撕裂与职业异化。[[Argument_Johnson_2023_CritEduc|(Ball, 2003, cited in Johnson & Janzen, 2023, p. 29)]]
 > - **2008 — *Hidden Privatisation in Public Education*** （与 Deborah Youdell 合著）系统提出内生与[[Exogenous Privatisation|外生私有化]]分析范式，成为国际比较教育政策研究的奠基[[Document|文献]]。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 4)]]
 > - **2008 — *Some sociologies of education: A history of problems and places, and segments and gazes*** 批判性总结教育社会学史，揭示量化审计指标如何将学校重构为可规训的[[Governing by Numbers|数字治理]]组织。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 650–669)]]
-> - **2012 — *Global Education Inc.: New [[Policy Network|policy networks]] and the Neoliberal Imaginary*** 聚焦跨国教育商业化与[[Policy Entrepreneur|政策企业家]]网络，剖析商业媒体对排位竞技的渲染如何加速教育政策的部长化与政治化。[[Argument_Xie_Li_Huang_2021_GEO|(Ball, 2012; Xie et al., 2021, p. 404)]]
+> - **2012 — *Global Education Inc.: New [[Policy Network|policy networks]] and the Neoliberal Imaginary*** 聚焦[[Transnational Education|跨国教育]]商业化与[[Policy Entrepreneur|政策企业家]]网络，剖析商业媒体对排位竞技的渲染如何加速教育政策的部长化与政治化。[[Argument_Xie_Li_Huang_2021_GEO|(Ball, 2012; Xie et al., 2021, p. 404)]]
 
 ---
 

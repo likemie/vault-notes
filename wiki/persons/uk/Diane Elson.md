@@ -9,7 +9,7 @@ summary: "英国著名女性主义经济学家、社会学家，埃塞克斯大�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 15
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
   - oecd
   - region/uk
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Value Neutrality]]"
   - "[[Paradigm]]"
   - "[[Total Factor Productivity]]"
@@ -49,14 +50,14 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国当代著名女性主义经济学家、社会学家，英国社会科学院院士（FAcSS），埃塞克斯大学社会学与经济学荣休教授，曾任国际女性主义经济学会（IAFFE）主席，2016 年列昂惕夫推进经济思想前沿奖（Leontief Prize）得主。
-> - **核心角色** 女性主义宏观经济学与性别反应型预算（Gender-Responsive Budgeting）的全球开创者。在跨国教育政策研究网络中，其理论成果常被国际组织援引，亦成为批判政策社会学者剖析新自由主义工具化收编女性解放议题的典型分析样本。
+> - **核心角色** 女性主义宏观经济学与性别反应型预算（Gender-Responsive Budgeting）的全球开创者。在[[Transnational Education|跨国教育]]政策研究网络中，其理论成果常被国际组织援引，亦成为批判政策社会学者剖析新自由主义工具化收编女性解放议题的典型分析样本。
 > - **代表贡献** 揭示宏观经济模型的“性别盲视”（Gender-Blindness），开创国家公共财政预算的性别影响评估方法体系，系统阐明无偿照料劳动与正规市场经济之间的结构性依存关系。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–450)]]
 
 > [!citation-card] 人物定位的关键来源

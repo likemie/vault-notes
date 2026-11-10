@@ -7,7 +7,7 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 176
+related_count: 177
 related_level: 17
 related_stars: "💎💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Study Population and Sample]]"
   - "[[Variable]]"
+  - "[[Homophily]]"
   - "[[Sampling Error]]"
   - "[[Type I and Type II Errors]]"
   - "[[Interaction Effect]]"
@@ -69,6 +70,7 @@ related_concepts:
   - "[[Theoretical Standpoint]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Writing Programs]]"
+  - "[[Research Tool]]"
   - "[[Predictive Validity]]"
   - "[[General Purpose Technology]]"
   - "[[Epoché]]"
@@ -86,7 +88,6 @@ related_concepts:
   - "[[Neuroplasticity]]"
   - "[[Category Mistake]]"
   - "[[Discourse]]"
-  - "[[Screening Off]]"
   - "[[Cultural Capital]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Value Neutrality]]"
@@ -138,11 +139,11 @@ related_methods:
   - "[[Standard Error]]"
   - "[[Fixed-Effect Model]]"
   - "[[Random-Effects Model]]"
+  - "[[Statistical Significance]]"
   - "[[Systematic Review]]"
   - "[[Common Language Effect Size]]"
   - "[[Random Assignment]]"
   - "[[Meta-regression]]"
-  - "[[Statistical Significance]]"
   - "[[Confidence Interval]]"
   - "[[Qualitative Research]]"
   - "[[Internal Consistency]]"
@@ -203,7 +204,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 > [!tip] 知识网络与批评条目维护分流指引
@@ -322,12 +323,12 @@ updated: 2026-11-03
 #### 模型假设系统违背与跨层异质性方差失控
 
 > [!critique-method] 一级与二级层面模型假设的系统性违反（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p. 32]]）
-> - **一级[[Fixed-Effect Model|固定效应模型]]同质性假设遭到系统违反** 固定效应模型要求所有主要研究估计同一恒定真实效应，差异仅来自[[Sampling Error|抽样误差]]。但在教学主题、实施方法、实验材料与组织框架各异的现实下，研究间差异远超抽样误差，统计检验在多数情况下拒绝同质性假说。在一级分析中强行使用固定效应模型，导致标准误被系统性低估（省略了真实效应的方差分量 $\tau^2$）。
+> - **一级[[Fixed-Effect Model|固定效应模型]][[Homophily|同质性]]假设遭到系统违反** 固定效应模型要求所有主要研究估计同一恒定真实效应，差异仅来自[[Sampling Error|抽样误差]]。但在教学主题、实施方法、实验材料与组织框架各异的现实下，研究间差异远超抽样误差，统计检验在多数情况下拒绝同质性假说。在一级分析中强行使用固定效应模型，导致标准误被系统性低估（省略了真实效应的方差分量 $\tau^2$）。
 > - **二级[[Random-Effects Model|随机效应模型]]约束与参数估计失效** 一级已存在显著方差，二级汇总不可避免适用于随机效应模型。但每个影响因素平均仅约 5.8 项元分析（$800/138$），样本量严重不足以可靠估计 $\tau^2$。规范做法是汇总所有一级元分析的主要研究原始数据进行综合元分析，但这需要获取第一手数据，哈蒂并未执行。
 
 > [!case] 容忍高达 93% 样本重叠引发虚假显著性膨胀（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp. 29–30]]）
 > - **高比例样本重叠** 在基于网络的学习中，Olson and Wisher (2002) 包含 15 项主要研究，Sitzmann et al. (2006) 涵盖了其中 14 项，样本重叠率高达 93%。哈蒂将二者作为独立来源纳入二级汇总，导致同一批受试者被重复计数。
-> - **三重统计扭曲** 重复数据未被中和引发三重偏差：效应量虚增、二级标准误被系统性压缩（重复数据被误作独立证据）、显著性检验过度膨胀（[[Type I and Type II Errors|第一类错误]]率 $\alpha$ 严重升高）。Cooper and Koenka (2012) 记录教育[[Systematic Review|系统综述]]通常严格排除 25% 以上的重叠，而哈蒂完全忽视了样本重复问题。
+> - **三重统计扭曲** 重复数据未被中和引发三重偏差：效应量虚增、二级标准误被系统性压缩（重复数据被误作独立证据）、[[Statistical Significance|显著性检验]]过度膨胀（[[Type I and Type II Errors|第一类错误]]率 $\alpha$ 严重升高）。Cooper and Koenka (2012) 记录教育[[Systematic Review|系统综述]]通常严格排除 25% 以上的重叠，而哈蒂完全忽视了样本重复问题。
 
 > [!stat-cards]- 变差系数检验确证方差极度失控（[[Argument_Golovchin_2019_ESC|Golovchin, 2019, pp. 238–239]]）
 > - **56.87%** 整体变差系数（Vσ）：133 个正值效应量的总体变差系数属极端不均匀，远超 33% 的同质性门槛。
@@ -501,7 +502,7 @@ updated: 2026-11-03
 > - **统计方法缺陷** 效应量平均化不当，强行合并不可通约的异质对象；$d=0.40$ 阈值武断设定并排斥微小但关键的有效干预。
 > - **结构性证据排除** [[Qualitative Research|质性研究]]被系统性排除；校外因素（阶级、贫困、种族、结构不平等）被置之不顾，以统计相关性替代因果推论。
 > - **生态推广局限** 结论源自英语国家高度受限情境，无法无缝迁移至非西方国家或普通教师的微观课堂。
-> - **测量效度缺失** 缺乏对原始研究工具效度的审慎核查，未提供清晰的质量准入标准，缺乏实践[[Predictive Validity|预测效度]]。
+> - **测量效度缺失** 缺乏对原始[[Research Tool|研究工具]]效度的审慎核查，未提供清晰的质量准入标准，缺乏实践[[Predictive Validity|预测效度]]。
 > - **文化政治从属** 框架与新自由主义绩效问责、能力主义及性别偏见形成隐秘意识形态结盟。
 
 > [!critique-fatal] 二阶元分析在科学上不可行的终审技术判定（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp. 34–36]]；[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025, p. 23]]；[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p. 245]]）
@@ -612,7 +613,7 @@ updated: 2026-11-03
 > [!critique-logic] 教学概念的双重瓦解与波普尔第三世界的蒸发（[[Argument_Rømer_2018_EPT|Rømer, 2018, pp. 7–8, 11]]）
 > - **教师文化权威的瓦解与学生中心视角的幻象** [[Constructivist Paradigm|建构主义]]首先消解了作为文化与专业权威的教师，继而在废墟上建立起学生中心视角的幻象（让教师通过学生的眼睛看学习，让学生成为自己的教师），导致师生交往异化为机械的自我观察。
 > - **波普尔第三世界（World 3）的认识论蒸发** 波普尔的第三世界包含客观文化客体、科学理论与经典艺术（如贝多芬交响乐）；哈蒂通过[[Carl Bereiter|卡尔·贝莱特]]（Carl Bereiter）消除个人学习与客观[[Knowledge Building Theory|知识建构]]的界限，将哲学实在论彻底滑向极端主观建构主义，最终创造出一个抽离了客观科学能量与文化经典的失语世界。
-> - **社会维度的系统性[[Screening Off|屏蔽]]** 激进建构主义将学习框定在个体唯我论内部，使得可见学习体系在面对阶级不平等、贫困、教育社会正义与[[Cultural Capital|文化资本]]再生产等外部结构性议题时，保持着制度性的盲区。
+> - **社会维度的系统性屏蔽** 激进建构主义将学习框定在个体唯我论内部，使得可见学习体系在面对阶级不平等、贫困、教育社会正义与[[Cultural Capital|文化资本]]再生产等外部结构性议题时，保持着制度性的盲区。
 
 > [!critique-logic] 存在论控制悖论与中央集权数据规训链条（[[Argument_Rømer_2018_EPT|Rømer, 2018, pp. 9–10]]）
 > - **存在论控制悖论** 教学在表面上标榜让学生成为自主监控的独立学习者，实质上却要求通过高度外在于学生的测量工具和实时反馈实施全方位监控，形成了追求自主却施加严密外控的存在论悖论。
@@ -878,7 +879,7 @@ updated: 2026-11-03
 > | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 《[[Visible Learning\|可见的学习]]》（1.2 版）全库 301 个影响因素（1,369 篇一阶[[Meta-analysis\|元分析]]） | [[Preregistration\|预注册]]全量元科学系统审计 | [[PICO Framework\|PICO]] 合规率；数据复现率；效应量缺失率 | 仅 **19%** 完全合规；仅 **2 项**（<1%）可复现数据；**44%** 效应量在一阶文献中完全缺失 | 样本量报告错误率达 72%；技术类研究停滞于 1980 年代 | 全面判定其数据提取链彻底崩溃，严禁作为决策依据 |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | VL [[Effect Size\|效应量]]提取与计算程序 | 计量统计学 6 步检验模型 | 固定效应假设、样本重叠、加权算法、[[Confidence Interval\|置信区间]] | 6 项方法论要求全部遭到系统性违反；混用不可[[Commensuration\|通约]]的效应量公式 | 统计学上完全无效 | 证实其[[Meta-meta-analysis\|二阶元分析]]在当前学术发表条件下在科学上不可行 |
 > | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | VL 统计合成程序、[[Common Language Effect Size\|普通语言效应量]]与附录换算表 | 数理统计审计与受控数值模拟反证（$\mu=75, \sigma=5$ 平行对照设计） | 概率公理边界；公式选择稳定性；比较基线反转；$r \to d$ 极值发散 | ① CLES 计算出现负百分比与超 100% 概率；② 三类合法公式得出完全冲突排名（$3>2>1>0$ vs. $1=2=3$ vs. $0>1>2>3$）；③ $r=0.196$ 解释仅 3.85% 方差即虚增至 $d=0.40$ | 基线反转使班额（$-0.20$）与 SES（$-0.59$）政策含义彻底颠倒；对照组因变异为零出现 $d \to \infty$ | 确证二阶元分析违背基础数理统计公理，定性为伪科学虚假构架，确立教育研究全流程必须引入独立专业统计咨询 |
-> | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] | 纳入检验的 133 项正向效应量及六大分维度分布 | 统计离散度与变差系数（$V_\sigma$）检验 | 效应量变异程度（标准差与均值比率）；同质性安全阈值（33%） | 总体变差系数高达 **56.87%**（学生源达 **71.24%**，学校达 **65.97%**） | 数据集极度不均匀，击穿同质性基准 | 证实效应量分布离散剧烈，均值 $d=0.40$ 无法作为普遍有效的决策标尺 |
+> | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] | 纳入检验的 133 项正向效应量及六大分维度分布 | 统计离散度与变差系数（$V_\sigma$）检验 | 效应量变异程度（标准差与均值比率）；[[Homophily\|同质性]]安全阈值（33%） | 总体变差系数高达 **56.87%**（学生源达 **71.24%**，学校达 **65.97%**） | 数据集极度不均匀，击穿同质性基准 | 证实效应量分布离散剧烈，均值 $d=0.40$ 无法作为普遍有效的决策标尺 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]<br>（含援引 [[Argument_ONeill_2016_Report\|O'Neill et al., 2016]]） | VL 附录 A 元分析表（[[Homework\|作业]]/[[Class Size\|班额]]）、核心词频与新西兰官方财务档案 | 数学逆向还原、文献溯源、词频分布与政商财务追踪多维审查 | 简单平均 vs. 加权算法；原始文献平坦化截取；词频关注度；第三方商业酬金明细 | ① 隐藏 5 个 $d$ 值直接算术平均（$d=0.29$），样本量权重丢失；② Glass & Smith 的研究中 $40 \to 1$ 人差异超 30 百分位，正文未见 $d=0.09$；③ 班额提及 95 次 vs. 自我报告成绩仅 6 次（反差 16 倍）；④ 2011–2015 商业咨询向学者支付累计超 **86.9 万新西兰元** | 算术平均掩盖小学（0.15）与高中（0.64）关键差异；词频与截取失衡服务于财政紧缩；政商旋转门利益输送 | 确证 VL 核心算法无加权、数据提取平坦化且严重关注度失衡，实质充当紧缩政策与商业变现的工具 |
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 新西兰与[[International Schools\|国际学校]]效能多层实证研究（Gray et al., 1986; Harker, 1995; Nash, 2004） | 社会学与计量经济学方差分解比对 | 校外社会背景 vs. 校内因素方差解释率 | 阶级、贫困、家庭资源与健康营养解释学生成绩方差的 **70–80%**；校内可控变量仅占 20–30% | 排除校外因素产生根本归因偏航；0.40 门槛主观武断（阿司匹林 $d=0.07$ 反例） | 证实其排除非学校因素的假说严重脱离教育现实，将结构不平等转嫁给一线教师 |
 > | [[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] | VL [[Whole Language\|全语言]]阅读教学元分析处理流程 | 原始引文核验与效应量溯源 | 审查偏倚；删除标准；手动修正方向 | 800+ 项元分析中唯一被手动修正效应量的案例；选择性删除支持全语言的原始研究 | 修正方向完全契合[[John Hattie\|哈蒂]]先验立场 | 证实先验理论偏见直接驱动了次级文献的选择性筛选与篡改 |

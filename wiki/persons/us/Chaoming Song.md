@@ -8,7 +8,7 @@ summary: "美籍华裔理论物理学家与复杂系统科学家，美国迈阿�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 15
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,31 +22,34 @@ tags:
   - theme/science-of-science
   - theme/statistical-physics
 related_concepts:
+  - "[[Metascience]]"
+  - "[[Document]]"
+  - "[[Ultimate Impact]]"
+  - "[[Heterogeneity]]"
+  - "[[Reflexivity]]"
+  - "[[Citation Prediction Envelope]]"
   - "[[Citation Distribution]]"
   - "[[Citation Disparity]]"
-  - "[[Ultimate Impact]]"
-  - "[[Citation Prediction Envelope]]"
-  - "[[Document]]"
-  - "[[Emergence]]"
 related_theories:
+  - "[[Hot-Streak Model]]"
   - "[[WSB Model]]"
-  - "[[Universality of Citation Distributions]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
-  - "[[Network Analysis]]"
+  - "[[Confidence Interval]]"
 related_instruments: []
 related_persons:
-  - "[[Albert-László Barabási]]"
   - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
   - "[[Stefan Wuchty]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
+  - "[[Argument_Liu_2018_Nature]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: 2026-11-02
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -54,10 +57,10 @@ updated: 2026-11-03
 > [!person-profile] 人物档案
 > - **身份位置** 美籍华裔理论物理学家与计算科学学者，美国迈阿密大学（University of Miami）文理学院物理系终身副教授，复杂系统研究组成员。
 > - **核心角色** 推动统计物理、重整化群与非线性随机过程全面融入科学学（[[Metascience|Science of Science]]）的核心数理物理学者之一，在复杂网络自相似分形结构、人类移动规律与微观引文动力学模型求解领域做出了奠基性贡献。
-> - **代表贡献** 与[[Dashun Wang|王大顺]]、[[Albert-László Barabási|阿尔伯特-拉斯洛·巴拉巴西]]联袂创立单篇文献引文动力学最小模型（[[WSB Model|WSB 模型]]，Wang, Song, & Barabási, 2013, *Science*），独立主导了随机速率方程的微观物理建模并推导出累积引文轨迹封闭解析解与[[Ultimate Impact|终极影响力]]极限解；在《自然》（*Nature*）开创复杂网络自相似性与重整化箱计数分析；在《科学》（*Science*）提出人类空间移动轨迹高达 93% 潜在可预测性定理。
+> - **代表贡献** 与[[Dashun Wang|王大顺]]、阿尔伯特-拉斯洛·[[Albert-László Barabási|巴拉巴西]]联袂创立单篇[[Document|文献]]引文动力学最小模型（WSB 模型，Wang, Song, & Barabási, 2013, *Science*），独立主导了随机速率方程的微观物理建模并推导出累积引文轨迹封闭解析解与[[Ultimate Impact|终极影响]]力极限解；在《自然》（*Nature*）开创复杂网络自相似性与重整化箱计数分析；在《科学》（*Science*）提出人类空间移动轨迹高达 93% 潜在可预测性定理。
 
 > [!citation-card] 宋超明等论学术文献引文轨迹背后的统一物理律
-> 尽管单篇科学文献在表观经验层面的被引历史看似呈现出杂乱无章的巨大异质性，但整合了优先连接、内在相对适应度以及对数正态注意力衰退的随机主方程，能够完全精确地刻画个体文献的全周期获引轨迹，并推导出具有确定性参数依赖的封闭解析解；通过无量纲重标度，跨越不同学科与年代的异质轨迹最终完全坍缩于标准正态累积分布主曲线上。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang, Song, & Barabási, 2013; via Wang & Barabási, 2021, pp. 210–213)]]
+> 尽管单篇科学文献在表观经验层面的被引历史看似呈现出杂乱无章的巨大[[Heterogeneity|异质性]]，但整合了优先连接、内在相对适应度以及对数正态注意力衰退的随机主方程，能够完全精确地刻画个体文献的全周期获引轨迹，并推导出具有确定性参数依赖的封闭解析解；通过无量纲重标度，跨越不同学科与年代的异质轨迹最终完全坍缩于标准正态累积分布主曲线上。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang, Song, & Barabási, 2013; via Wang & Barabási, 2021, pp. 210–213)]]
 >
 > *We develop a model that collapses citation histories of papers from different journals and disciplines into a single universal curve. The model allows us to predict the ultimate impact of an individual paper based on its early citation dynamics.*
 
@@ -90,12 +93,12 @@ updated: 2026-11-03
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 将严格的统计物理微观主方程与重标度解析方法引入科学文献引文动力学，使科学计量学迈入具有解析预测力的新阶段。
+> - **理论路径** 将严格的统计物理微观主方程与重标度解析方法引入科学文献引文动力学，使[[Bibliometric Analysis|科学计量学]]迈入具有解析预测力的新阶段。
 > - **方法路径** 构建了由相对适应度 $\lambda$、紧迫性 $\mu$ 与寿命 $\sigma$ 构成的微观引文参数求解方法，开创了终身影响力测算与引文前瞻预测技术体系。
 > - **跨领域传播** 其在分形网络与人类移动动力学方面的奠基成果，被广泛迁移至城市规划、流行病传播建模及位置服务大数据挖掘领域。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 合作推导学术爆发期模型与引文动力学的联合解析解，求解科学家全生涯累积引文总量的闭式表达式。
+> - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 合作推导[[Hot-Streak Model|学术爆发期模型]]与引文动力学的联合解析解，求解科学家全生涯累积引文总量的闭式表达式。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 在专著第 20 章（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]，pp. 209–219）以王大顺、宋超明与巴拉巴西（Wang et al., 2013）的 WSB 模型为核心支柱，系统推导累积被引解析解与期刊脱钩法则。
 
 ---
@@ -110,7 +113,7 @@ updated: 2026-11-03
 > [!debates] 学术争议
 >
 > > [!axis] 微观引文模型的前瞻预测边界与自实现预言效应
-> > 针对 WSB 模型等引文预测工具在长程追踪中的有效性，学界围绕预测窗口最小要求与评价指标反身性展开讨论。
+> > 针对 WSB 模型等引文预测工具在长程追踪中的有效性，学界围绕预测窗口最小要求与评价指标[[Reflexivity|反身性]]展开讨论。
 > >
 > > - **Wang, Song, & Barabási (2013)** 强调依托早期 5–10 年文献时序能够给出高度精准的未来 20–30 年引文包络预测。
 > > - **Penner et al. (2013)** 指出基于早期引文的计量预测在微观个体层面存在较高的不可约随机误差，过度依赖算法预测易诱发自实现预言并压制非共识探索。
@@ -123,6 +126,6 @@ updated: 2026-11-03
 > |:-----|:-----|:-----|
 > | [[WSB Model]] | 理论 | 核心创立者之一，建立随机速率主方程并推导累积被引封闭解析解。 |
 > | [[Ultimate Impact]] | 概念 | 推导出文献终身总被引稳态极限定理 $c_\infty = m(e^\lambda - 1)$，证明长期影响与发表期刊脱钩。 |
-> | [[Citation Prediction Envelope]] | 概念 | 基于微观引文动力学参数建立动态预测置信区间，实现长程引文轨迹前瞻投射。 |
+> | [[Citation Prediction Envelope]] | 概念 | 基于微观引文动力学参数建立动态预测[[Confidence Interval\|置信区间]]，实现长程引文轨迹前瞻投射。 |
 > | [[Citation Distribution]] | 概念 | 证实消除参数差异后异质文献轨迹跨学科坍缩于正态累积分布主曲线。 |
 > | [[Citation Disparity]] | 概念 | 实证分析学术出版物引文分布的重尾特征与极端集中现象。 |

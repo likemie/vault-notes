@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -34,12 +34,14 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Research Question]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Early-Career Researchers]]"
   - "[[Theory of Knowledge]]"
   - "[[Value Neutrality]]"
   - "[[Knowledge Mediation]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Journal Impact Factor]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -60,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-25
+updated: 2026-11-11
 ---
 
 ---
@@ -94,12 +96,12 @@ updated: 2026-10-25
 > [!pathways] 业务运行机制
 > - **同行评议与学术质量控制** 运营严谨的双盲同行评议系统，编纂出版涵盖理论、实证、综述与开放获取的顶尖学术学术刊物群。
 > - **政策议程追踪与学术敏捷匹配** 政府关系办公室全天候监测联邦国会两院委员会（[[House Committee on Education and the Workforce\|众议院教育与劳动力委员会]]、参议院 HELP 委员会）的听证动态与立法日历，精准匹配学会内部顶级学者资源，在立法窗口开启时迅速提供客观证词与学术备忘录。
-> - **专业研究者政策赋能** 定期开展“从学者到政策参与者”的实战工作坊，向跨学科青年学者讲授如何将学术成果压缩为一页纸立法备忘录，并资助高级学者深入国会办公室开展全职立法服务。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 46–47)]]
+> - **专业研究者政策赋能** 定期开展“从学者到政策参与者”的实战工作坊，向跨学科[[Early-Career Researchers|青年学者]]讲授如何将学术成果压缩为一页纸立法备忘录，并资助高级学者深入国会办公室开展全职立法服务。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 46–47)]]
 
 ---
 
 > [!finding-cards] 核心业务矩阵
-> - **全球旗舰学术出版群** 出版教育学界最高影响因子的期刊群，包括《美国教育研究杂志》（AERJ）、《教育研究者》（Educational Researcher）、《教育研究评论》（Review of Educational Research, RER）以及开放获取期刊《AERA Open》。
+> - **全球旗舰学术出版群** 出版教育学界最高[[Journal Impact Factor|影响因子]]的期刊群，包括《美国教育研究杂志》（AERJ）、《教育研究者》（Educational Researcher）、《教育研究评论》（Review of Educational Research, RER）以及开放获取期刊《AERA Open》。
 > - **年度国际学术盛会（AERA Annual Meeting）** 全球规模最大的教育研究学术会议，每年吸引全球超过 1.5 万名研究者、决策者与实践者就上万篇前沿论文开展研讨交流。
 > - **AERA [[AERA Congressional Fellowship Program\|国会政策研究员计划]]** 选拔处于职业生涯中前期的优秀教育学者，全额资助其入驻美国参众两院议员或专门委员会办公室担任为期一年的全职立法幕僚，培育兼通高深学问与政策逻辑的领军人才。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 46–47)]]
 > - **行业黄金标准指南** 与美国心理学会（APA）、全美教育测量学会（NCME）联合研制并定期修订出版《教育与心理测试标准》（Standards for Educational and Psychological Testing），成为全美教育评价、法庭裁判与行政问责的法定技术基石。

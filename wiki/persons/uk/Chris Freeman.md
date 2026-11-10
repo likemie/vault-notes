@@ -9,7 +9,7 @@ summary: "英国著名演化经济学家、创新经济学开拓者，萨塞克�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 34
+person_related_count: 33
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -53,7 +53,6 @@ related_persons:
   - "[[Carlota Perez]]"
   - "[[Michael Porter]]"
   - "[[Kenichi Ohmae]]"
-  - "[[Rainer Kattel]]"
 related_facts:
   - "[[OECD]]"
   - "[[Frascati Manual]]"
@@ -65,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -158,7 +157,7 @@ updated: 2026-11-02
 > > [!axis] 全球化背景下国家边界的效力：无国界世界 vs. 母国制度锚固
 > > 围绕跨国公司全球扩张与资本流动是否已经使“国家”失去作为创新[[Unit of Analysis|分析单位]]的有效性展开争论。
 > >
-> > - **大前研一（1990）** 认为全球投资、电信网络与跨国消费者的崛起抹平了国界，民族国家已沦为无效率的[[Rainer Kattel|卡特尔]]。
+> > - **大前研一（1990）** 认为全球投资、电信网络与跨国消费者的崛起抹平了国界，民族国家已沦为无效率的卡特尔。
 > > - **[[Argument_Freeman_1995_CJE|Freeman (1995)]]** 指出专利统计证实美日跨国公司九成以上战略研发仍在母国进行，母国教育、科学与文化制度依然深刻决定技术能力生成。（[[Argument_Freeman_1995_CJE|Freeman, 1995, pp. 16–17]]）
 >
 > > [!axis] 研发指标的政策有效性：单一投入规模 vs. 制度整合效率

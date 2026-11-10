@@ -11,7 +11,7 @@ title: "Argument_Wecker_2016_ZfE"
 argument_key: "Argument_Wecker_2016_ZfE"
 argument_display_title: "Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties Visible Learning [Visionary and impressive – but also robust? A critique of the methodology of Hattie's Visible Learning]"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 45
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Study Population and Sample]]"
   - "[[Direct Instruction]]"
   - "[[Web-Based Learning]]"
+  - "[[Cumulative Innovation]]"
   - "[[Dependent Variable]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Variable]]"
@@ -66,6 +67,7 @@ related_methods:
   - "[[Effect Size Conversion]]"
   - "[[Sample Size Determination]]"
   - "[[Confidence Interval]]"
+  - "[[Statistical Significance]]"
   - "[[Role-playing]]"
   - "[[Between-Study Variance]]"
   - "[[Random-Effects Model]]"
@@ -83,7 +85,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
@@ -209,7 +211,7 @@ updated: 2026-10-29
 > 3. **方差与标准误确定** 合并效应量的标准误（Standard Error, SE）必须依据原始研究的[[Sample Size Determination|样本量]]和效应量计算，或从已报告的 95% [[Confidence Interval|置信区间]]（Confidence Interval, CI）中如实推算，严禁使用原始研究效应量的标准差（Standard Deviation, SD）伪造标准误。
 > 4. **重复数据中和** 详细核对各元分析纳入的研究目录；若存在重复文献，必须剔除重叠部分或在模型中扣除相关性，防止同一批学生的数据被重复计入。
 > 5. **效应量加权估计** 二级合并必须采用逆方差加权法（$W_j = 1/v_{d_j}$），样本量大、误差小的元分析赋予大权重，严禁不分质量粗暴取算术平均。
-> 6. **总体标准误与推断检验** 按照精度累加法则准确计算二级总体标准误（$\text{SE}_D = \sqrt{1/\sum W_j}$），汇报置信区间与显著性检验，严禁直接对几个元分析的标准误取算术平均。
+> 6. **总体标准误与推断检验** 按照精度累加法则准确计算二级总体标准误（$\text{SE}_D = \sqrt{1/\sum W_j}$），汇报置信区间与[[Statistical Significance|显著性检验]]，严禁直接对几个元分析的标准误取算术平均。
 
 ---
 
@@ -244,7 +246,7 @@ updated: 2026-10-29
 > - **测度指标交替混用** [[Gene Glass|吉恩·格拉斯]]（Gene Glass）的 Glass' $\Delta$ 拿对照组标准差作除数，而[[Jacob Cohen|雅各布·科恩]]（Jacob Cohen）的 Cohen's $d$ 与拉里·赫奇斯（Larry Hedges）的 Hedges' $g$ 则拿合并标准差作除数（如 Nesbit & Adesope, 2006 对比 Horton et al., 1993）。当方差不齐时两者数值差异悬殊，哈蒂未做转换直接合并。
 > - **提取口径严重冲突** 以 Dansky (1980) 为例，Fisher (1992, p. 166) 提取的相关系数为 $r = 0.428$，而 Spies (1987) 对同一研究提取的数值均在 $r \ge 0.62$ 以上。
 > - **一级内部未加权平均** 以 Levie and Lentz (1982, p. 198) 为例，汇报的总效应量 0.55 实际上是对 24 项研究取简单算术平均，完全未按样本量加权。
-> - **关键参数矩阵大面积缺失** 直接教学（White, 1988）与分散与集中练习（Lee & Genovese, 1988）等研究完全隐去主要[[Study Population and Sample|研究样本]]量，致使后续研究无法校验。
+> - **关键参数矩阵大面积缺失** 直接教学（White, 1988）与分散与集中练习（Lee & Genovese, 1988）等研究完全隐去主要[[Study Population and Sample|研究样本]]量，致使[[Cumulative Innovation|后续研究]]无法校验。
 
 在所有输入错误中，最具破坏性的是因统计概念混淆引发的计算灾难：
 

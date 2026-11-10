@@ -10,9 +10,9 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "1995–2019"
 initiator_organization: "中华人民共和国国家教育委员会（现教育部） / 国家计划委员会（现国家发改委） / 财政部"
@@ -35,13 +35,14 @@ related_facts:
   - "[[Double First-Class Initiative]]"
   - "[[Project 985]]"
   - "[[Thousand Talents Program]]"
+  - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
 related_arguments:
   - "[[Argument_Velasco_2022_CSJ]]"
   - "[[Argument_Qu_2024_IJED]]"
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -144,5 +145,5 @@ updated: 2026-11-10
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 考证中国高等教育重点建设工程的历史演进脉络，指出 1995 年启动的 211 工程面向 21 世纪重点建设百所高校与重点学科，为后续大湾区与长三角建设跨国高教枢纽奠定了本土一流大学体系基座（p. 2）。
+> - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 考证中国高等教育重点建设工程的历史演进脉络，指出 1995 年启动的 211 工程面向 21 世纪重点建设百所高校与重点学科，为后续[[Guangdong-Hong Kong-Macau Greater Bay Area|大湾区]]与长三角建设跨国高教枢纽奠定了本土一流大学体系基座（p. 2）。
 > - [[Argument_Velasco_2022_CSJ|Velasco (2022)]] — 实证记录 211 工程重点建设约 112 所大学以提升教学科研质量的政策实证文献。

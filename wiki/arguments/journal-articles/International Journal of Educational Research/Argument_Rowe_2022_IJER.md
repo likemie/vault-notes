@@ -65,6 +65,7 @@ related_facts:
   - "[[Evidence for Learning]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[National Education Evidence Base Inquiry]]"
+  - "[[American Physical Society]]"
   - "[[BHP Foundation]]"
   - "[[Building a Global Evidence Ecosystem for Teaching]]"
   - "[[Impetus]]"
@@ -75,14 +76,14 @@ sources:
 part_of:
 status: completed
 created: 2026-09-18
-updated: 2026-10-30
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Rowe_2022_IJER"
 argument_key: "Argument_Rowe_2022_IJER"
 argument_display_title: "The assemblage of inanimate objects in educational research: Mapping venture philanthropy, policy networks and evidence brokers"
 argument_kind: "journal-article"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -190,7 +191,7 @@ issuing_organization: ""
 > - **2011 — 英国设立 EEF** 英国教育大臣 [[Michael Gove]] 在前麦肯锡全球总裁 [[Michael Barber]] 理念影响下，利用缩减免费学生校餐的沉淀资金注资 1.25 亿英镑设立英国教育捐赠基金会（EEF）。
 > - **2014 — 试验原型 [[Evidence for Learning\|E4L]] 启动** 英国 EEF 与澳大利亚联邦银行联合出资，支持 SVA 成立全资中介子公司[[Evidence for Learning\|证据学习中心]]（Evidence for Learning, E4L），由商业律师 Matthew Deeble 掌舵，率先本土化 EEF《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》，作为国家证据经纪人的试验样板。
 > - **2016 — 生产力委员会[[National Education Evidence Base Inquiry\|国家教育证据基础审查]]** 联邦财长 Scott Morrison 委托生产力委员会开展国家教育证据基础审查；同期 SVA 董事 Richard Spencer 获委任为委员会社会政策专员；SVA 提交 50 页专项建议书，报告最终建议以英国 EEF 为蓝本建立本土机构。
-> - **2017–2018 — [[Gonski 2.0]] 审查与资助承诺** 联邦政府启动卓越学校教育审查，由 SVA 前子公司[[Australian Philanthropic Services\|澳大利亚慈善服务社]]（APS）董事长[[David Gonski\|戴维·冈斯基]]（David Gonski）领衔；报告正式提出设立独立证据机构的第 23 条建议；澳大利亚政府理事会（Council of Australian Governments, COAG）《全国学校改革协议》承诺联合注资 5000 万澳元。
+> - **2017–2018 — [[Gonski 2.0]] 审查与资助承诺** 联邦政府启动卓越学校教育审查，由 SVA 前子公司[[Australian Philanthropic Services\|澳大利亚慈善服务社]]（[[American Physical Society|APS]]）董事长[[David Gonski\|戴维·冈斯基]]（David Gonski）领衔；报告正式提出设立独立证据机构的第 23 条建议；澳大利亚政府理事会（Council of Australian Governments, COAG）《全国学校改革协议》承诺联合注资 5000 万澳元。
 > - **2018 — EEF 全球生态扩张** 英国 EEF 与跨国铁矿石巨头必和必拓旗下基金会（[[BHP Foundation]]）建立合作，启动为期五年的“[[Building a Global Evidence Ecosystem for Teaching\|构建全球教学证据生态系统]]”项目，进一步加速模式向澳洲输出。
 > - **2020 — 立法特许慈善合作** 联邦政府通过行政立法规则修正，正式授权 AERO 与慈善组织开展合作并制定国家议程。
 > - **2021 — AERO 正式注册成立** AERO 依据《公司法》注册为担保有限公司；其首任董事会充斥 SVA 董事、SVA 长期捐赠人及英国 EEF 首任首席执行官[[Sir Kevan Collins\|柯文·科林斯爵士]]（Sir Kevan Collins）。

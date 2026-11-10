@@ -7,7 +7,7 @@ summary: "英国利兹大学社会研究方法论名誉教授，科学实在论�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 41
+person_related_count: 42
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Causality]]"
   - "[[What Works Movement]]"
+  - "[[Policy-Based Evidence-Making]]"
   - "[[Heterogeneity]]"
   - "[[Meta-Representational Competence]]"
   - "[[Critical Pedagogy]]"
@@ -40,7 +41,6 @@ related_concepts:
   - "[[Institutional Layering]]"
   - "[[Document]]"
   - "[[Counterfactual]]"
-  - "[[Policy-Based Evidence-Making]]"
 related_theories:
   - "[[Realist Evaluation]]"
   - "[[Critical Realism]]"
@@ -52,6 +52,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Research Synthesis]]"
   - "[[Effect Size]]"
+  - "[[Critical Policy Analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Factorial Design]]"
 related_persons:
@@ -64,13 +65,13 @@ related_arguments:
   - "[[Argument_VanDerHeijden_2011_Politics]]"
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
-  - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
-  - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Volmari_2025_CE]]"
+  - "[[Argument_Biesta_2010_SPE]]"
+  - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 
 ---
@@ -143,7 +144,7 @@ updated: 2026-11-09
 > - **方法路径** 创立的 CMO 模型与[[Realist Evaluation|实在论综合]]被英国医学研究理事会（[[Meta-Representational Competence|MRC]]）、英国国家卫生研究院（NIHR）以及国际评估联合会广泛采纳，成为复杂干预评估的标准工具。
 > - **政策与教育路径** 深刻启发了[[Critical Pedagogy|批判教育学]]者（如 [[Terry Wrigley]]）对英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）教学工具包去情境化[[Effect Size|效应量]]排行的解构，纠正了因简单平均数导致的[[Teaching Assistant|教学助理]]岗位错误裁剪。
 > - **跨学科制度分析扩展** [[Jeroen van der Heijden|范德海登]]（Van der Heijden et al., 2007; 2011）等学者将波森的实在论视角引入比较政治经济学与[[Historical Institutionalism|历史制度主义]]，成功破解了间断均衡突变论与历史渐进演进论在变迁定性上的[[Epistemology|认识论]]循环。
-> - **批判性政策分析路径** 波森对[[Policy-Based Evidence-Making|基于政策的证据制造]]（PBEM）与去情境化有效性的剖析，成为比较教育学者解构现代教育改革“科学化”修辞的批判武器（如 [[Argument_Volmari_2025_CE|Volmari et al., 2025]]）。
+> - **[[Critical Policy Analysis|批判性政策分析]]路径** 波森对[[Policy-Based Evidence-Making|基于政策的证据制造]]（PBEM）与去情境化有效性的剖析，成为比较教育学者解构现代教育改革“科学化”修辞的批判武器（如 [[Argument_Volmari_2025_CE|Volmari et al., 2025]]）。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 引入波森的医学对比、开放系统与能动性命题，批判循证教学中[[Randomised Controlled Trials|随机对照试验]]的不适用性。

@@ -7,7 +7,7 @@ aliases:
 summary: "跨国学习比较中的概念，指美国学生倾向以能力解释成就而东亚学生倾向以努力解释成就的系统性文化差异"
 type: concept
 domain: "comparative-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Learning Virtues]]"
   - "[[Homework]]"
+  - "[[Cumulative Innovation]]"
   - "[[Document]]"
 related_theories:
   - "[[Cultural Models]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-22'
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -78,7 +79,7 @@ updated: 2026-10-30
 ---
 
 > [!success] 实证发现
-> ### 后续研究深化
+> ### [[Cumulative Innovation|后续研究]]深化
 
 [[Stevenson and Stigler]] 的研究激发了更多比较研究：
 

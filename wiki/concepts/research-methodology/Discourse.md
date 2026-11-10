@@ -10,9 +10,9 @@ alias_reviewed:
 summary: "通过情境化文本、谈话与制度实践建构知识、主体性与权力关系的意义体系；在微观层面指向文本性七标准与课堂互动中微观秩序与权力的协商，在宏观层面指向跨国流动空间中去情境化的普遍主义政策话语、过度简化转译与外围本土的再情境化形变。"
 type: concept
 domain: "research-methodology"
-related_count: 75
-related_level: 7
-related_stars: "💎💎⭐"
+related_count: 82
+related_level: 8
+related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - research-methodology
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Regimes of Truth]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Intentionality]]"
+  - "[[Transnational Education]]"
   - "[[School Autonomy]]"
   - "[[Gatekeepers]]"
   - "[[Recontextualization]]"
@@ -52,6 +53,7 @@ related_concepts:
   - "[[Evidence Culture]]"
   - "[[Constructivist Paradigm]]"
   - "[[Order of Discourse]]"
+  - "[[Paradigm]]"
   - "[[Space of Places]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Social Imaginary]]"
@@ -59,12 +61,14 @@ related_concepts:
   - "[[International Education]]"
   - "[[Positivism]]"
   - "[[Interdiscursivity]]"
+  - "[[Education Export]]"
 related_theories:
   - "[[Governing at a Distance]]"
   - "[[Discursive Institutionalism]]"
   - "[[Post-structuralism]]"
   - "[[Cultural Political Economy]]"
   - "[[Panopticism]]"
+  - "[[Bacchi's WPR Approach]]"
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Analytic Framework]]"
@@ -78,6 +82,7 @@ related_persons:
   - "[[Jason Beech]]"
   - "[[Basil Bernstein]]"
   - "[[Manuel Castells]]"
+  - "[[Carol Bacchi]]"
 related_facts:
   - "[[World Bank]]"
   - "[[OECD]]"
@@ -97,15 +102,17 @@ related_arguments:
   - "[[Argument_Beech_2009_CE]]"
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_King_2020_ECNUROE]]"
+  - "[[Argument_King_2007_CE]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
-  - "[[Argument_Haubrock_2026_NHB]]"
+  - "[[Argument_Kuortti_2025_JEdPolicy]]"
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
@@ -166,7 +173,7 @@ updated: 2026-11-04
 
 ### 2. 宏观政策话语的多维空间与权力机制
 
-结合[[Jason Beech|杰森·比奇]]（Jason Beech, 2009a, 2009b）、[[Basil Bernstein|巴兹尔·伯恩斯坦]]（Basil Bernstein）、[[Manuel Castells|曼纽尔·卡斯特]]（Manuel Castells）与[[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]]的理论推进，跨国教育政策话语展现出多维空间与权力机制：
+结合[[Jason Beech|杰森·比奇]]（Jason Beech, 2009a, 2009b）、[[Basil Bernstein|巴兹尔·伯恩斯坦]]（Basil Bernstein）、[[Manuel Castells|曼纽尔·卡斯特]]（Manuel Castells）与[[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]]的理论推进，[[Transnational Education|跨国教育]]政策话语展现出多维空间与权力机制：
 
 > [!feature] 宏观政策话语的多维机制
 > - **[[Floating Signifier|漂浮能指]]性（Floating Signifier）** 政策话语（如“能力本位”、“[[School Autonomy|学校自主权]]”、“尊重多样性”）被故意剥离具体的历史脉络与实体定义，演化为语义空虚的高包容性符号容器，使立场迥异的利益主体能够达成表面共识。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 353–355)]]
@@ -266,7 +273,7 @@ updated: 2026-11-04
 > | [[Critical Discourse Analysis]] | 方法 | 批判话语分析，揭示话语实践与社会权力、意识形态及不平等结构的隐秘共谋。 |
 > | [[Conversation Analysis]] | 方法 | 会话分析，考察面对面言语互动中发言轮次与微观秩序的建构。 |
 > | [[Knowledge Power]] | 概念 | 知识权力，话语建构真理标准并实施主体规训的核心机制。 |
-> | [[Epistemic Governance]] | 概念 | 认知治理，通过概念范式、数据指标与专业话语间接塑造治理对象的认知。 |
+> | [[Epistemic Governance]] | 概念 | 认知治理，通过概念[[Paradigm\|范式]]、数据指标与专业话语间接塑造治理对象的认知。 |
 > | [[Discursive Institutionalism]] | 理论 | 话语制度主义，区分协调性话语与交流性话语在政策变迁中的制度功能。 |
 > | [[Global Educational Discourse]] | 概念 | 全球教育话语，跨国多边机构在流动空间中生产的去情境化普遍主义政策话语。 |
 > | [[Floating Signifier]] | 概念 | 漂浮能指，高语义可塑性与形象稳定性的空洞符号，用于动员跨国政策共识。 |
@@ -291,4 +298,4 @@ updated: 2026-11-04
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 运用解释性政策分析（IPA）剖析经合组织、联合国教科文组织与世界银行官方文本中的超国家话语，揭示修辞隐喻如何建构认知等级与掩饰制度性障碍。
 > - [[Argument_King_2007_CE|King (2007)]] — 考证多边援助机构建构全球教育议程的历程，揭示“国家拥有”修辞如何掩盖北方技术官僚对南方受援国的指标规训与政策控制（pp. 377–389）。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 运用福柯话语-权力理论批判解构 1992–2007 年[[EU|欧盟]]教育政策话语，揭示危机修辞与市场化话语如何将教育工具化，并依托软法话语构筑欧洲教育[[Panopticism|全景敞视]]式治理（pp. 479–494）。
-> - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 运用巴奇（Bacchi）“问题被表征为何”（WPR）后结构主义分析框架，解构芬兰高中教育出口政策话语，揭示危机叙事如何将公立教育赤字建构为本体性问题并合法化商业外包。
+> - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 运用巴奇（[[Carol Bacchi|Bacchi]]）“问题被表征为何”（[[Bacchi's WPR Approach|WPR]]）后结构主义分析框架，解构芬兰高中[[Education Export|教育出口]]政策话语，揭示危机叙事如何将公立教育赤字建构为本体性问题并合法化商业外包。

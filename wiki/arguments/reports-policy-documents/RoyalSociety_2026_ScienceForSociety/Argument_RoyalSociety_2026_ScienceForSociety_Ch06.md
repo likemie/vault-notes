@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch06"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch06"
 argument_display_title: "Chapter six: Academic scientific community"
 argument_kind: "book-chapter"
-argument_related_count: 45
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -46,10 +46,13 @@ related_concepts:
   - "[[Patient and Public Involvement]]"
   - "[[Clinical Trial]]"
   - "[[Informed Consent]]"
+  - "[[Side Effects]]"
   - "[[Document]]"
+  - "[[Professional Interest]]"
   - "[[Soft Power]]"
   - "[[Conatus]]"
   - "[[STEM Education]]"
+  - "[[Early-Career Researchers]]"
   - "[[Knowledge Co-production]]"
   - "[[Research Impact]]"
   - "[[Research Proposal]]"
@@ -85,7 +88,7 @@ related_facts:
 related_arguments: []
 status: draft
 created: 2026-09-04
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
@@ -160,7 +163,7 @@ updated: 2026-10-29
 > [!case] 案例研究三：英国癌症研究中心（CRUK）全生命周期[[Patient and Public Involvement\|患者与公众参与]]机制（pp. 74, 92, 100）
 > 英国癌症研究中心（Cancer Research UK, CRUK）构建了一套覆盖科研全生命周期的患者与公众参与（[[Patient and Public Involvement\|PPI]]）制度规范：
 > - **研究议程设定的源头参与** 设立患者顾问委员会，让癌症患者及照护者直接作为评审委员进入科研资助战略决策层，共同决定“哪些临床迫切问题最优先获得资助”。
-> - **课题申请与[[Clinical Trial\|临床试验]]方案共创** 资助机构要求所有科研团队在提交项目申请书时，必须阐明 PPI 方案；患者代表深度参与临床试验方案的审查，优化入组标准[[Informed Consent\|知情同意书]]的语言可读性，并对治疗副作用监测指标的设计提出宝贵修正。
+> - **课题申请与[[Clinical Trial\|临床试验]]方案共创** 资助机构要求所有科研团队在提交项目申请书时，必须阐明 PPI 方案；患者代表深度参与临床试验方案的审查，优化入组标准[[Informed Consent\|知情同意书]]的语言可读性，并对治疗[[Side Effects|副作用]]监测指标的设计提出宝贵修正。
 > - **研究成果转化与临床依从性反哺** 通过将患者的真实生活经验（Lived experience）内嵌于[[Experimental Research|实验设计]]，极大地提升了癌症临床试验的受试者依从度与留存率，展示了上游参与对提升医学科学研究质量的硬性价值。
 
 > [!sub-claim] 主题三：科研理事会提炼的学者个体五大参与收益（RCUK 框架，pp. 92–93）
@@ -174,7 +177,7 @@ updated: 2026-10-29
 >   在越来越多竞争性前沿科研资助计划中，成功获得项目拨款高度依赖于研究团队是否具备成熟的公众参与经验、合格的沟通技能以及切实可行的公众参与实施规划。
 > - **道德与伦理责任践行（Moral and ethical）**
 >   获得公共财政资金支持的科学家承担着基本的道德契约，必须向纳税人与社会大众解释其研究的社会意义、坦诚分享研究发现，并虚心倾听公众的真实关切与反馈意见。
-> - **工作成就感与研究志趣（Morale and enjoyment）**
+> - **工作成就感与研究[[Professional Interest|志趣]]（Morale and enjoyment）**
 >   公众参与和科学传播是一项能带来极高精神回报的职业体验。在跳出狭隘专业文献与实验室日常的过程中，科研人员通过向非专业受众阐释前沿知识，能够更深刻地领悟自身研究的社会价值，从而重燃研究激情。
 > - **综合[[Soft Power\|软实力]]技能发展（Skills development）**
 >   参与实践能全方位锤炼科研人员的公众演讲、叙事沟通、危机公关与人际跨界交往技能；而这些复合型能力反过来对科研团队建设、课题协作及学术会议交流带来极为显著的积极外溢效应。（pp. 92–93）
@@ -229,7 +232,7 @@ updated: 2026-10-29
 
 科研人员对公众参与在学术体系中的地位认知发生了结构性转变：参与不仅被广泛视为一项崇高的道德职责，更被科研人员自身深刻体会到其对激发自身研究激情以及拓展研究深度的巨大价值。
 
-最引人瞩目的变化在于参与主体的“去精英化”与“全员化”——认为公众参与“最适合由资深研究人员承担”（Best done by senior researchers）的受访者比例，从 2006 年的 44% 骤降至 2015 年的 21%，并在 2025 年彻底跌至 9% 的冰点；同时，认为参与应由“受训专业人员全权承担”（Best done by trained professionals）的比例亦回落至 20%。这充分表明，广大早期职业研究人员（Early-Career Researchers, ECRs）、博士后与普通教职学者已经普遍建立起直面公众的自主信心，彻底终结了“科普是资深学者专利”的旧有范式（图 7，p. 95）。
+最引人瞩目的变化在于参与主体的“去精英化”与“全员化”——认为公众参与“最适合由资深研究人员承担”（Best done by senior researchers）的受访者比例，从 2006 年的 44% 骤降至 2015 年的 21%，并在 2025 年彻底跌至 9% 的冰点；同时，认为参与应由“受训专业人员全权承担”（Best done by trained professionals）的比例亦回落至 20%。这充分表明，广大早期职业研究人员（[[Early-Career Researchers]], ECRs）、博士后与普通教职学者已经普遍建立起直面公众的自主信心，彻底终结了“科普是资深学者专利”的旧有范式（图 7，p. 95）。
 
 > [!example] 图7：英国科研人员对公众参与的态度演进分布（2006–2025，p. 95）
 > ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig7_Attitudes_toward_Public_Engagement.jpg)

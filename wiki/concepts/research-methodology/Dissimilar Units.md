@@ -10,7 +10,7 @@ aliases:
 summary: "比较社会科学与比较教育学中的核心认识论与方法论困境，指出跨国比较的分析单位深嵌于异质的历史脉络与制度文化中，表面相同的教育指标具有截然不同的社会功能与价值意涵，决定了比较研究无法套用实验室控制干预，必须以自然情境观察与质性情境化为依托。"
 type: concept
 domain: "research-methodology"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Academic Achievement]]"
   - "[[Heterogeneity]]"
+  - "[[Transnational Education]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Paradigm]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -61,7 +62,7 @@ updated: 2026-11-03
 > [!concept-lens] 概念透镜
 > - **含义** 指向跨国跨文化比较研究中，分析单位之间由于内在制度生态与意义系统的[[Heterogeneity|异质性]]所导致的不可机械公度性。
 > - **用途** 帮助研究者警惕将自然科学的实验控制逻辑直接移植至社会科学的误区，确立历史脉络化与自然[[Situative Perspective|情境观]]察的合法性。
-> - **边界** 该困境并不主张跨国教育现实完全处于不可知论的极端相对主义状态，是划定了量化指标等值比较的前提条件与解释边界。
+> - **边界** 该困境并不主张[[Transnational Education|跨国教育]]现实完全处于不可知论的极端相对主义状态，是划定了量化指标等值比较的前提条件与解释边界。
 
 > [!citation-card] 斯梅尔塞与拉斯特论非同质单位分析的复杂性
 > 比较研究并不在本质上迥异于一般社会科学，因为一切科学思维在广义上都具有比较性质。比较研究最主要的复杂并发症在于它必须处理对非同质单位（不同社会与文化）的分析。在比较教育中，分析单位通常是两个或多个民族国家中的教育体制或其子集。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 129)]]

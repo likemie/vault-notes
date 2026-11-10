@@ -6,7 +6,7 @@ aliases:
 summary: "国际文凭大学预科项目的必修核心要素，通过学生自主选题、长期研究、导师指导和外部评价，把个人兴趣转化为一项可纳入跨国文凭的独立学术探究。"
 type: concept
 domain: "curriculum"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Advanced Placement Program]]"
   - "[[Academic Achievement]]"
+  - "[[Curriculum Connection]]"
   - "[[Document]]"
   - "[[Necessary and Sufficient Conditions]]"
 related_theories: []
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -140,7 +141,7 @@ updated: 2026-11-03
 
 ---
 
-> [!dev-timeline] 从个人深究要求到核心课程连接点
+> [!dev-timeline] 从个人深究要求到核心[[Curriculum Connection|课程连接]]点
 > - **1960 年代后期　六学科之外增加个人研究** 六学科及深度选项提供通识与专门化的平衡，学生仍缺少自主提出问题并持续研究的正式空间。EE 由此成为所有文凭候选人的个人研究要求。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 43–45)]]
 > - **早期实施　形成四至六个月、约 4,000 字、导师指导和外部评价的基本形态** 研究通常安排在两年课程中段，由学生主要使用自己的时间完成，教师给予指导，外部考官负责评价。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 45)]]
 > - **早期调整　提交期限因学生过度投入而提前** 一些学生沉浸于自选题目，开始忽视其他课程并危及文凭考试。[[International Baccalaureate\|国际文凭]]办公室（International Baccalaureate Office，IBO）把截止日期提前到课程结束前数月，为六学科恢复学习时间。

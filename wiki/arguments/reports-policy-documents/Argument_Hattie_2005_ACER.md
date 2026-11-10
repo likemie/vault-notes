@@ -7,7 +7,7 @@ title: "Argument_Hattie_2005_ACER"
 argument_key: "Argument_Hattie_2005_ACER"
 argument_display_title: "What is the nature of evidence that makes a difference to learning? In Using data to support learning: Proceedings of the ACER Research Conference 2005 (pp. 11–21)"
 argument_kind: "conference-paper"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#e5e7eb"
@@ -24,7 +24,7 @@ citation_aliases:
 isbn: ""
 status: active
 created: 2026-09-16
-updated: 2026-10-29
+updated: 2026-11-11
 tags:
   - theme/accountability
   - theme/formative-assessment
@@ -77,6 +77,7 @@ related_methods:
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
+  - "[[Eric Hanushek]]"
   - "[[John Hattie]]"
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
@@ -205,7 +206,7 @@ sources:
 > | **教师教龄中位数（年）** | 11 年 | 8 年 | 12 年 | 15 年 | 15 年 | **资深教师结构**，队伍经验显著增加 |
 > | **NAEP 17岁学生学业表现** | —（未开测） | 数学: 304<br>阅读: 285<br>科学: 305 | 数学: 298<br>阅读: 285<br>科学: 283 | 数学: 305<br>阅读: 290<br>科学: 290 | 数学: 308<br>阅读: 288<br>科学: 295<br>写作: 288 | **长达三十年近乎完全平缓的水平线**，学业表现并未随巨额财政投入产生实质跃升 |
 
-埃里克·汉努舍克（Eric Hanushek, 2005）的数据清晰证实：向传统学校体系持续倾斜资源并不能自动带来学业成就的飞跃。
+[[Eric Hanushek|埃里克·汉努舍克]]（Eric Hanushek, 2005）的数据清晰证实：向传统学校体系持续倾斜资源并不能自动带来学业成就的飞跃。
 
 > [!example] 图1：美国过去40年公立学校资源投入与NAEP学业表现变迁指标
 > ![](https://img.mylikemie.icu/sources/Hattie_2005_ACER/figures/Hattie_2005_ACER_Fig1_Resources_NAEP_40Years.jpg)

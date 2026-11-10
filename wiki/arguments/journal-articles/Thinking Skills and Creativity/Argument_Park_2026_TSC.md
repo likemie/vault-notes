@@ -40,6 +40,7 @@ related_concepts:
   - "[[Creativity Assessment]]"
   - "[[Unit of Analysis]]"
   - "[[Document]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Critical Thinking Assessment]]"
   - "[[Publication Bias]]"
   - "[[Sampling Error]]"
@@ -47,6 +48,7 @@ related_concepts:
   - "[[Critical Thinking Disposition]]"
   - "[[Self-Efficacy]]"
   - "[[Computational Thinking]]"
+  - "[[Scientific Creativity]]"
   - "[[Cognitive Flexibility]]"
   - "[[Literature Search]]"
   - "[[Reliability]]"
@@ -101,14 +103,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-25
-updated: 2026-10-30
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Park_2026_TSC"
 argument_key: "Argument_Park_2026_TSC"
 argument_display_title: "Exploring the intersection of creativity and critical thinking among students: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 70
+argument_related_count: 72
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -193,7 +195,7 @@ issuing_organization: ""
 > [!search-protocol] 检索与纳入方案
 > - **数据库** PsycINFO、Academic Search Ultimate、ProQuest、ScienceDirect。
 > - **关键词** "creativity"、"creative"、"creativ*" 与 "critical thinking"，使用高级检索排除书籍章节、综述与非同行评审[[Document|文献]]。
-> - **纳入** 同行评审期刊论文与公开学位论文；须同时包含创造力与批判性思维两种测量、报告两者定量相关、且样本为学生。
+> - **纳入** 同行评审期刊论文与公开[[Doctoral Dissertation|学位论文]]；须同时包含创造力与批判性思维两种测量、报告两者定量相关、且样本为学生。
 > - **文献量** 在 Park et al. (2023) 综述数据基础上新增 16 项发表、剔除 4 项不合标准的研究，最终纳入 29 项发表。
 
 > [!method-panel] 研究设计与编码流程
@@ -247,7 +249,7 @@ issuing_organization: ""
 > | Orakci (2023) | NA | College | Middle East | Critical Thinking Scale（主观） | Creativity Scale (How Creative Are You?)（主观） |
 > | Pepe (2018) | 23.5 | College | Middle East | [[California Critical Thinking Disposition Inventory\|CCTDI]]（主观） | The Creativity Level Scale（主观） |
 > | Prakoso et al. (2021) | NA | College | East Asia | Critical Thinking Disposition Instrument（主观） | Creativity Scale（主观） |
-> | Qiang et al. (2020) | 16.2 | Middle/High school | East Asia | CCTDI（主观） | Scientific Creativity（客观） |
+> | Qiang et al. (2020) | 16.2 | Middle/High school | East Asia | CCTDI（主观） | [[Scientific Creativity]]（客观） |
 > | Qiang et al. (2020) | 16.2 | Middle/High school | East Asia | CCTDI（主观） | Trait-like Creative Self Efficacy（主观） |
 > | Runco et al. (1992) | 21.7 | College | North America | The Advanced Structure of Intellect Test for Critical and Analytical Thinking（客观） | Divergent Thinking Test (Originality - uniqueness)（客观） |
 > | Runco et al. (1992) | 21.7 | College | North America | The Advanced Structure of Intellect Test for Critical and Analytical Thinking（客观） | Divergent Thinking Test (Fluency - popular)（客观） |

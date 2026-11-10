@@ -10,7 +10,7 @@ summary: "运用历史因果考证与跨国情境对照解释教育制度、国�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 93
+method_related_count: 97
 method_related_level: 9
 method_related_stars: "💎💎💎"
 method_related_color: "#dbeafe"
@@ -38,11 +38,13 @@ related_concepts:
   - "[[Whiggism]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Document]]"
+  - "[[Nationalism]]"
   - "[[Technological Catch-up]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Policy Borrowing]]"
   - "[[Institutional Drift]]"
   - "[[Institutional Layering]]"
+  - "[[Transnational Education]]"
   - "[[Geopolitics]]"
   - "[[State Educational Sovereignty]]"
   - "[[Paradigm]]"
@@ -85,6 +87,7 @@ related_methods:
   - "[[Process Tracing]]"
   - "[[Mixed Methods Research]]"
   - "[[Triangulation]]"
+  - "[[Cognitive Extent]]"
   - "[[Content Analysis]]"
   - "[[Case Study]]"
 related_instruments: []
@@ -106,6 +109,7 @@ related_facts:
   - "[[UNESCO]]"
   - "[[DARPA]]"
   - "[[Government Digital Service]]"
+  - "[[Finnish PISA Miracle]]"
   - "[[EU]]"
 related_arguments:
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
@@ -118,14 +122,14 @@ related_arguments:
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
   - "[[Argument_Bown_2024_JEconPersp]]"
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
+  - "[[Argument_Sahlgren_2015_CPS]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Cowen_2009_HistoryCreation]]"
   - "[[Argument_Mowery_2011_NBER]]"
-  - "[[Argument_Sahlgren_2015_CPS]]"
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-11-06
+updated: 2026-11-11
 ---
 
 > [!def] Historical-Comparative Method
@@ -176,7 +180,7 @@ updated: 2026-11-06
 > [!proc] 质性史料分析与因果推导程序
 > 1. **外在考证（External Criticism）** 严密核定历史[[Document|文献]]的原始载体、签署者身份、撰写时间、版本源流与真伪完整性，排除伪造与年代错置。
 > 2. **内在考证（Internal Criticism）** 深度考掘文本字里行间的真实语义、修辞策略与撰述者意图，结合时代背景辨析立法陈述背后的隐秘利益博弈与阶级诉求。
-> 3. **因素结构化分解（Factorial Analysis）** 依据[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans, 1949）三维框架，将纷繁史料归纳为自然因素（语言、地理、种族）、宗教因素（天主教、新教、东正教）与世俗动因（人文主义、民族主义、民主平等）。
+> 3. **因素结构化分解（Factorial Analysis）** 依据[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans, 1949）三维框架，将纷繁史料归纳为自然因素（语言、地理、种族）、宗教因素（天主教、新教、东正教）与世俗动因（人文主义、[[Nationalism|民族主义]]、民主平等）。
 > 4. **跨国矩阵对照与类型学提炼** 建立国别-历史时段-制度维度的跨国对照矩阵，提炼理想类型（如双轨制精英教育 vs 单轨制大众教育；去中心化分层竞争科研体制 vs 中央集权部属院所分立科研体制；后发追赶型骆驼形态 vs [[Big Science|大科学]]狮子形态 vs 敏捷实验孩童形态）。
 > 5. **非普适探索性假说生成与检验** 从具体历史形态中归纳中程假说（Limited Working [[Hypothesis|hypotheses]]），并将其运用于新案例的阐释与双向修正。
 
@@ -199,7 +203,7 @@ updated: 2026-11-06
 >   - 追踪超国家组织（IOs）在长周期历史演变中如何确立其教育法定职责，以及从二战后经济重建转向全球[[Policy Brokerage|政策中介]]与[[Soft Power by Hard Facts|硬事实软权力]]治理的历史轨迹（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al., 2024]]）；
 >   - 揭示跨国制度移植与[[Policy Borrowing|政策借用]]中的[[Path Dependence|路径依赖]]与结构阻碍（如欧亚四国模仿美式大学体制时遭遇的讲席制、行政集权与科学院分立壁垒，[[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008, pp. 45–48]]）；
 >   - 穿透宏观静态量化指标与表面法律条文，通过档案考据与长周期[[Process Tracing|过程追踪]]识别[[Institutional Drift|制度漂移]]（Drift）、规则转换（conversion）与分层（[[Institutional Layering|layering]]）等深层[[Theory of Gradual Institutional Change|渐进制度变迁]]形态（如揭示德国劳资集体谈判在法律条文未变背景下的渐进侵蚀与自由化演化，[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005]]）；
->   - 建立跨国教育与科技制度类型学并阐明各民族或国际组织的独特文化精神底色与组织利基。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 38–42)]]
+>   - 建立[[Transnational Education|跨国教育]]与科技制度类型学并阐明各民族或国际组织的独特文化精神底色与组织利基。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 38–42)]]
 >   - 剖析冷战或[[Geopolitics|地缘政治]]分裂背景下，同一民族不同意识形态阵营的教育制度分化与重聚过程（如西德与东德教育体制历史比较，[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 91–92)]]）；
 >   - 解构学科制度史的演进逻辑，透视大学教席分布、学会建制与[[State Educational Sovereignty|国家教育主权]]博弈对比较教育学科[[Paradigm|范式]]的长周期塑造。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88–94)]]
 > - **谨慎使用**
@@ -223,7 +227,7 @@ updated: 2026-11-06
 > - **补救方式** 坚持[[Primary and Secondary Documents|一手文献]]与二手研究的多重[[Triangulation|三角互证]]；公开反思研究者的价值前设与[[Theoretical Perspective|理论视角]]；引入中程社会学理论规范因果机制推导。
 
 > [!danger] 当代危机与学科“[[Historical Amnesia|历史健忘症]]”（Historical Amnesia）
-> 20 世纪下半叶经验[[Positivism|实证主义]]与[[Empiricism|唯方法论主义]]的兴起，使历史比较法遭遇严重的边缘化危机。实证学派指责历史法依赖个人主观洞见、缺乏可[[Operationalization|操作化]][[Variable|变量]]与假说检验规程，贬低其为“前科学”（Noah & Eckstein, 1969）。[[Marianne Larsen|玛丽安·拉森]]（Marianne Larsen, 2001）与[[Val D. Rust|瓦尔·D·拉斯特]]（Val D. Rust et al., 1999）对英美三大旗舰学术期刊（《比较教育评论》[Comparative Education Review, CER]、《比较教育》[Comparative Education, CE]、《[[International Education|国际教育]]发展杂志》[International Journal of Educational Development, IJED]）长达四十年的文献计量[[Content Analysis|内容分析]]证实，历史比较研究成果的占比从 1955–1994 年间的 10.5% 断崖式下跌至 1985–1995 年间的不足 5%。学科在沉醉于去情境化的现时性政策与纯量化调查的同时，付出了近乎彻底放逐历史维度的沉重[[Epistemology|认识论]]代价，患上了严重的“历史健忘症”。[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）疾呼必须通过历史学与社会科学的理性综合，重申历史比较法在破除技术工具主义、维系批判理性与人文底蕴方面的不可替代性。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 151–152, 155–156)]]
+> 20 世纪下半叶经验[[Positivism|实证主义]]与[[Empiricism|唯方法论主义]]的兴起，使历史比较法遭遇严重的边缘化危机。实证学派指责历史法依赖个人主观洞见、缺乏可[[Operationalization|操作化]][[Variable|变量]]与假说检验规程，贬低其为“前科学”（Noah & Eckstein, 1969）。[[Marianne Larsen|玛丽安·拉森]]（Marianne Larsen, 2001）与[[Val D. Rust|瓦尔·D·拉斯特]]（Val D. Rust et al., 1999）对英美三大旗舰学术期刊（《比较教育评论》[Comparative Education Review, CER]、《比较教育》[Comparative Education, [[Cognitive Extent|CE]]]、《[[International Education|国际教育]]发展杂志》[International Journal of Educational Development, IJED]）长达四十年的文献计量[[Content Analysis|内容分析]]证实，历史比较研究成果的占比从 1955–1994 年间的 10.5% 断崖式下跌至 1985–1995 年间的不足 5%。学科在沉醉于去情境化的现时性政策与纯量化调查的同时，付出了近乎彻底放逐历史维度的沉重[[Epistemology|认识论]]代价，患上了严重的“历史健忘症”。[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）疾呼必须通过历史学与社会科学的理性综合，重申历史比较法在破除技术工具主义、维系批判理性与人文底蕴方面的不可替代性。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 151–152, 155–156)]]
 
 ---
 
@@ -256,7 +260,7 @@ updated: 2026-11-06
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 运用历史比较分析与制度发生学考据，对比芬兰与斯堪的纳维亚邻国的长周期现代化历程，解构芬兰教育奇迹的深层社会历史动因。
+> - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 运用历史比较分析与制度发生学考据，对比芬兰与斯堪的纳维亚邻国的长周期现代化历程，解构[[Finnish PISA Miracle|芬兰教育奇迹]]的深层社会历史动因。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 运用历史比较考证英、德、美、日、苏及新兴工业体在教育体制、研发建制与[[Absorptive Capacity|吸收能力]]协同上的[[Heterogeneity|异质性]]路径，论证[[Systems of Innovation|创新系统]]的有效性。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 运用历史比较与制度演化分析考察三代使命导向政策轨迹，对比美、英、法、德、日与[[EU|欧盟]]制度差异，提炼[[Public Dynamic Capabilities|公共动态能力]]矩阵。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 卡扎米亚斯运用历史比较法梳理比较教育史中历史-哲学母题的起源、演变、[[Paradigm|范式]]分支与[[Positivism|实证主义]]危机，系统重构该方法论的现代合法性。

@@ -5,7 +5,7 @@ aliases:
 summary: "指在具体学习任务情境下教师、学生与学科知识三者之间不可分割的微观互动网络；全系统教育改进理论视其为检验一切政策干预实质效能的终极基准，强调任何宏观结构变革若无法穿透并改善核心内的任务难度与互动质量，改革必然陷入表层仪式化空转。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,20 +30,21 @@ related_theories: []
 related_methods:
   - "[[Classroom Observation]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Richard Elmore]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Barrenechea_2023_JEC]]"
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Instructional Core
-> **教学核心（Instructional Core）** 是指在具体真实课堂情境中，**教师、学生与学科知识（具体学习任务）** 三者之间不可分割的微观互动网络。由理查德·埃尔莫尔（Richard Elmore）等学者提出，该概念强调教育系统的实质学业产出完全取决于教室内师生互动与学科任务加工的微观质量；任何宏观治理政策、课程标准调整或行政重组，若未能直接影响并提升教学核心的三维要素及其相互关系，均无法产生实质的教育改进效能。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 488, 492)]]
+> **教学核心（Instructional Core）** 是指在具体真实课堂情境中，**教师、学生与学科知识（具体学习任务）** 三者之间不可分割的微观互动网络。由[[Richard Elmore|理查德·埃尔莫尔]]（Richard Elmore）等学者提出，该概念强调教育系统的实质学业产出完全取决于教室内师生互动与学科任务加工的微观质量；任何宏观治理政策、课程标准调整或行政重组，若未能直接影响并提升教学核心的三维要素及其相互关系，均无法产生实质的教育改进效能。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 488, 492)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向课堂教学实践中最不可还原的微观因果核，即教师专业专长、学生主动投入度与学习任务智力挑战度的联结枢纽。

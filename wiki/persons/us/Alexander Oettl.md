@@ -11,7 +11,7 @@ summary: "创新经济学与科学社会学学者，佐治亚理工学院施勒�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Cohort Study]]"
+  - "[[Natural Experiment]]"
   - "[[Difference-in-Differences]]"
   - "[[Propensity Score Matching]]"
   - "[[Bibliometric Analysis]]"
@@ -44,19 +45,20 @@ related_instruments: []
 related_persons:
   - "[[Robert K. Merton]]"
   - "[[Pierre Azoulay]]"
-related_facts: []
+related_facts:
+  - "[[National Bureau of Economic Research]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美籍创新经济学与科学学学者，佐治亚理工学院施勒商学院（Scheller College of Business, Georgia Institute of Technology）战略与创新学终身教授，美国国家经济研究局（National Bureau of Economic Research, NBER）生产力、创新与创业项目特聘研究员。
+> - **身份位置** 美籍创新经济学与科学学学者，佐治亚理工学院施勒商学院（Scheller College of Business, Georgia Institute of Technology）战略与创新学终身教授，[[National Bureau of Economic Research|美国国家经济研究局]]（National Bureau of Economic Research, NBER）生产力、创新与创业项目特聘研究员。
 > - **核心角色** 学术同伴效应与隐性科学贡献计量的先驱学者之一；率先将自然语言挖掘引入学术出版物致谢语料，建立识别非正式思想互助网络与评测“[[Invisible College|无形学院]]”认知基底的微观因果识别[[Paradigm|范式]]。
 > - **代表贡献** 提出并实测[[Helpful Scientists|热心科学家]][[Construct|构念]]；与阿贾伊·阿格拉瓦尔（Ajay Agrawal）、约翰·麦克海尔（John McHale）合作揭示[[Star Scientists|明星科学家]]加盟对在职同事生产力提升 48% 与后继相关学科新聘学者学术质量激增 434% 的长效智识集聚效应。
 
@@ -77,7 +79,7 @@ updated: 2026-10-30
 ---
 
 > [!work-line] 主要著作
-> - **2012 — *Reconceptualizing Stars: Scientist Helpfulness and Peer Performance*（《管理科学》）** 通过挖掘 10 万篇医学[[Document|文献]]致谢语料与意外逝世准自然实验，确立概念反馈是推动科研伙伴成果质量突破的决定性隐性生产要素。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 100)]]
+> - **2012 — *Reconceptualizing Stars: Scientist Helpfulness and Peer Performance*（《管理科学》）** 通过挖掘 10 万篇医学[[Document|文献]]致谢语料与意外逝世[[Natural Experiment|准自然实验]]，确立概念反馈是推动科研伙伴成果质量突破的决定性隐性生产要素。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 100)]]
 > - **2012 — *Sociology: Honour the Helpful*（《自然》）** 评述学术评价仅奖励第一/通讯署名与引文工分的制度弊端，倡导通过公共记录认可同行评议与思路指引的公共品价值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 100)]]
 > - **2017 — *Why Stars Matter: How Top Performers Shape the Quantity, Quality, and Direction of Scientific Research*（《经济学与管理战略期刊》）** 追踪 1980 至 2008 年间全美 255 个进化生物学系，系统量化顶尖学者到岗对原有同事产出与后续引才梯队的结构性重塑。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 97)]]
 

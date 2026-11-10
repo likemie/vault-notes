@@ -12,9 +12,9 @@ summary: "运用数学与统计学方法对学术文献外部特征、引文网�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 30
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 41
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -37,33 +37,44 @@ related_concepts:
   - "[[Causality]]"
   - "[[Knowledge Hotspots]]"
   - "[[Variable]]"
+  - "[[Survivorship Bias]]"
   - "[[Research Utilization]]"
-related_theories: []
+  - "[[Data Infrastructure]]"
+  - "[[Citation Disparity]]"
+related_theories:
+  - "[[Academic Capitalism]]"
 related_methods:
   - "[[Systematic Review]]"
+  - "[[Record Linkage]]"
+  - "[[Journal Impact Factor]]"
   - "[[Network Analysis]]"
   - "[[Survey Research]]"
   - "[[Questionnaire]]"
   - "[[Disruption Index]]"
 related_instruments: []
 related_persons:
-  - "[[Santo Fortunato]]"
-related_facts: []
+  - "[[Lingfei Wu]]"
+related_facts:
+  - "[[Web of Science]]"
+  - "[[Scopus]]"
+  - "[[Dimensions]]"
+  - "[[Microsoft Academic Graph]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
+  - "[[Argument_Fortunato_2018_Science]]"
+  - "[[Argument_Hao_2026_Nature]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
   - "[[Argument_Lin_2023_SciData]]"
   - "[[Argument_Sinatra_2016_Science]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
-  - "[[Argument_Fortunato_2018_Science]]"
-  - "[[Argument_Haubrock_2026_NHB]]"
   - "[[Argument_Volmari_2025_CE]]"
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 
 ---
@@ -87,13 +98,13 @@ updated: 2026-11-09
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 视学术成果的引用关系与发表记录为[[Knowledge Production|知识生产]]、流动与合法化过程的物质化痕迹；认为文献之间的引证关联反映了概念亲缘性、学术认同与范式分化。
 > - **研究者角色** 研究者在检索式设计、数据库选择、停用词清洗、共被引阈值设定及聚类算法挑选过程中扮演裁量角色，需要结合领域专长对计算图谱进行实质性质性解读。
-> - **有效性标准** 遵循[[Literature Search|文献检索]]策略的全面性与可复现性、数据清洗与实体对齐的严谨度、网络拓扑统计量（中心度、模块化指数）的稳健性，以及定性[[Literature Review|文献综述]]与定量计量图谱之间的互证度。
+> - **有效性标准** 遵循[[Literature Search|文献检索]]策略的全面性与可复现性、数据清洗与[[Record Linkage|实体对齐]]的严谨度、网络拓扑统计量（中心度、模块化指数）的稳健性，以及定性[[Literature Review|文献综述]]与定量计量图谱之间的互证度。
 > - **不声称回答的问题** 不能仅凭被引频次高低直接推断单篇文献的内在真理性或方法严谨性，也不能从共引关联直接确立两派学者之间存在直接的思想师承[[Causality|因果关系]]。
 
 > [!method-stack] 方法层级
 > - **研究设计** 描述性文献计量调查、共被引网络拓扑分析、知识图谱测绘、跨时期比较研究、时序引文动力学建模。
-> - **数据收集** Web of Science 核心合集、Scopus、Dimensions、PubMed 等标准化引文数据库全记录导出，以及预印本与专利数据库采集。
-> - **分析方法** 频次统计与增长率测算、布拉德福文献离散分析、共词分析（Co-word Analysis）、文献共被引分析（Co-citation Analysis）、引文关联分析（Bibliographic Coupling）、社区发现聚类算法（如 Louvain 算法、InfoMap），以及引文年龄分布测算（[[Retrospective vs Prospective Citation Approaches|Citation Age Analysis]]）与知识热点四象限分析（[[Knowledge Hotspots]]）。
+> - **数据收集** [[Web of Science]] 核心合集、[[Scopus]]、[[Dimensions]]、PubMed 等标准化引文数据库全记录导出，以及预印本与专利数据库采集。
+> - **分析方法** 频次统计与增长率测算、布拉德福文献离散分析、共词分析（Co-word Analysis）、文献共被引分析（Co-citation Analysis）、引文关联分析（Bibliographic Coupling）、社区发现聚类算法（如 Louvain 算法、InfoMap），以及引文年龄分布测算（Citation Age Analysis）与[[Knowledge Hotspots|知识热点]]四象限分析（[[Knowledge Hotspots]]）。
 > - **辅助技术** 关键词同义词映射与停用词清洗、学者同名异义消歧算法、网络节点度与中介中心度计算、VOSviewer 与 CiteSpace 拓扑可视化。
 
 ---
@@ -109,7 +120,7 @@ updated: 2026-11-09
 > [!method-stack] 数据与[[Variable|变量]]
 > - **数据结构** 纵向时间序列文献题录数据、非对称引文有向网络、对称共引/共词无向加权网络。
 > - **样本与单位** 经检索式筛选的全部目标成果记录；分析单位为单篇论著、学者、机构或关键词。
-> - **变量或测量** 历年发文量、发文年均复合增长率、被引频次、十年被引窗口指标 $c_{10}$、相对引文影响因子、参考文献平均年龄 $\langle T \rangle$、年龄离散系数 $\sigma_T$、节点度中心度、中介中心度、模块度（Modularity $Q$ 值）。
+> - **变量或测量** 历年发文量、发文年均复合增长率、被引频次、十年被引窗口指标 $c_{10}$、相对引文[[Journal Impact Factor|影响因子]]、参考文献平均年龄 $\langle T \rangle$、年龄离散系数 $\sigma_T$、节点度中心度、中介中心度、模块度（Modularity $Q$ 值）。
 
 ---
 
@@ -122,7 +133,7 @@ updated: 2026-11-09
 
 > [!method-limits] 方法局限
 > - **偏误来源** 国际商业引文数据库存在明显的英语中心主义倾向与全球北方出版物偏好；学术引用行为包含赞同、借鉴、仪式性堆叠或批判反驳等多种动机，不能简单将引用等同于正面认可。
-> - **发表前夭折团队的幸存者数据盲区** 文献计量分析立足于通过同行评审并正式发表的成果数据库，无法直接观测在手稿出版前因沟通破裂、协调成本过高而中途夭折的团队，导致对团队合作与多样性红利的评估存在前置幸存者偏差。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 117–118, 133)]]
+> - **发表前夭折团队的幸存者数据盲区** 文献计量分析立足于通过同行评审并正式发表的成果数据库，无法直接观测在手稿出版前因沟通破裂、协调成本过高而中途夭折的团队，导致对团队合作与多样性红利的评估存在前置[[Survivorship Bias|幸存者偏差]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 117–118, 133)]]
 > - **适用边界** 严重依赖成熟的引文索引网络，对著作出版物或引文稀疏的人文艺术领域解释力受限；存在新近成果被引偏低的时滞马太效应。
 > - **误用风险** 将文献计量指标直接等同于个体的学术水平或聘任晋升标准，诱发功利性互引联盟或碎化成果灌水。
 > - **补救方式** 结合定性系统文献综述进行交叉互证，采用学科与年代归一化算法（如相对引文百分位）校正发表时延偏误。
@@ -143,9 +154,9 @@ updated: 2026-11-09
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 汇聚全球大规模文献题录与引文网络数据，运用文献计量分析测度概念空间线性扩张特征、跨学科引文普适主曲线及团队规模世纪演化规律。
 > - [[Argument_Hao_2026_Nature|Hao et al. (2026)]] — 基于 4,130 万篇跨学科论著与预训练文本嵌入模型展开文献计量分析，揭示人工智能工具加剧个体科研生产力提升与集体知识视野收缩的悖论特征。
-> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 结合吴令飞等（Wu et al., 2019）团队规模颠覆性定律等科学计量学与文献计量分析实证，揭示学术资本主义驱动下的过度竞争如何抑制科学颠覆性创新并加剧科研平庸化。
-> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 对微软学术图谱 1.34 亿篇核心出版物与 15.89 亿条引文网络实施规范化清洗与指标预计算，构建多源关联的大规模开放科学学数据基础设施。
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 结合[[Lingfei Wu|吴令飞]]等（Wu et al., 2019）团队规模颠覆性定律等科学计量学与文献计量分析实证，揭示[[Academic Capitalism|学术资本主义]]驱动下的过度竞争如何抑制科学颠覆性创新并加剧科研平庸化。
+> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 对[[Microsoft Academic Graph|微软学术图谱]] 1.34 亿篇核心出版物与 15.89 亿条引文网络实施规范化清洗与指标预计算，构建多源关联的大规模开放科学学[[Data Infrastructure|数据基础设施]]。
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 依托跨世纪文献计量全量引文网络与高精度学者消歧追踪，构建长周期物理学家与跨学科学者发表序列，实证解构个体学术生产力与影响力的生命周期演变机制。
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024, pp. 29–32)]] — 运用文献计量分析比对公共卫生与教育循证政策研究发文增长率，揭示教育证据社群自指与碎片化的结构特征。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 测定科研生产力分布（Unit 01），反思流产团队幸存者盲区（Unit 05），解构引文差距与相对标准化（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]），并在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]] 建立引文动力学模型与知识热点架构。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 测定科研生产力分布（Unit 01），反思流产团队幸存者盲区（Unit 05），解构[[Citation Disparity|引文差距]]与相对标准化（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]），并在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]] 建立引文动力学模型与知识热点架构。
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 提取丹麦、芬兰与挪威 16 份基础教育改革核心官方文献中的 1,314 条参考文献展开文献计量分析，量化揭示同行评议学术期刊在政策引证网络中仅占 9.45%–16.02% 的边缘地位（pp. 535–538）。

@@ -8,7 +8,7 @@ summary: "一种无监督或半监督的多变量统计降维技术，用于在�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 25
+method_related_count: 26
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -33,6 +33,7 @@ related_methods:
   - "[[Likert Scale]]"
   - "[[Questionnaire]]"
   - "[[Causal Modeling]]"
+  - "[[Statistical Significance]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[Scale Development]]"
   - "[[Survey Research]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -79,7 +80,7 @@ updated: 2026-10-30
 > - **知识观** 假定人类复杂的心理特质、制度态度与组织行为并非孤立存在，而是受深层不可直接观测的潜在[[Construct\|构念]]（Latent Constructs）所驱动；观测指标是潜在构念在现实中的不完全投影并伴生测量误差。
 > - **研究者角色** 在因子提取方法（主轴因子 vs 最大似然）、因子的保留数目判定准则（Kaiser 准则、碎石图、平行分析）、旋转方式（正交 vs 斜交）以及最终维度的理论命名中，研究者兼具统计裁决者与理论阐释者的双重角色。
 > - **有效性标准** 遵循统计拟合准则（KMO 抽样适度检验、Bartlett 球形检验显著性、因子的方差累积解释率）与理论构念可解释性的双重收敛。
-> - **不声称回答的问题** EFA 本身不提供全模型整体拟合优度的卡方或结构方程显著性检验（此为[[Confirmatory Factor Analysis\|验证性因子分析]]的职能）；亦不能确定[[Variable\|变量]]间的定向因果影响。
+> - **不声称回答的问题** EFA 本身不提供全模型整体拟合优度的卡方或结构方程[[Statistical Significance|显著性检验]]（此为[[Confirmatory Factor Analysis\|验证性因子分析]]的职能）；亦不能确定[[Variable\|变量]]间的定向因果影响。
 
 > [!method-stack] 方法层级与技术谱系
 > - **研究设计** [[Scale Development\|量表开发]]、实证[[Survey Research\|调查研究]]、潜在维度挖掘。

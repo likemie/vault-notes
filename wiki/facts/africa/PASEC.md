@@ -10,9 +10,9 @@ subtype: program
 region: africa
 fact_region: "africa"
 fact_kind: "program"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "1991–至今"
 initiator_organization: "法语国家教育部部长会议（CONFEMEN）"
@@ -25,6 +25,7 @@ tags:
   - theme/sdg-4
 related_concepts:
   - "[[Academic Achievement]]"
+  - "[[Transnational Education]]"
   - "[[Grade Retention]]"
   - "[[Socioeconomic Status]]"
 related_theories: []
@@ -42,13 +43,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 项目定位
-> 法语国家教育部部长会议教育系统分析计划（Programme d’Analyse des Systèmes Éducatifs de la CONFEMEN, PASEC）是 1991 年由法语国家教育部长会议在塞内加尔达喀尔设立的区域大规模[[Academic Achievement|学业成就]]评估体系。该计划覆盖撒哈拉以南非洲西部与中部的广大法语国家，常态化开展小学二年级（初小早期读写算术）与六年级（初小毕业阶段）学力测量，是法语非洲地区最具权威性的跨国教育质量实证诊断中枢。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 8, 16)]]
+> 法语国家教育部部长会议教育系统分析计划（Programme d’Analyse des Systèmes Éducatifs de la CONFEMEN, PASEC）是 1991 年由法语国家教育部长会议在塞内加尔达喀尔设立的区域大规模[[Academic Achievement|学业成就]]评估体系。该计划覆盖撒哈拉以南非洲西部与中部的广大法语国家，常态化开展小学二年级（初小早期读写算术）与六年级（初小毕业阶段）学力测量，是法语非洲地区最具权威性的[[Transnational Education|跨国教育]]质量实证诊断中枢。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 8, 16)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1991 年发起成立，早期以国别诊断为主，2014 年起改组为四年至五年一轮的跨国标准化同步测评，已成功实施 PASEC2014 与 PASEC2019 等大型跨国轮次。

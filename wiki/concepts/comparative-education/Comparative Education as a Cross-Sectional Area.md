@@ -10,7 +10,7 @@ aliases:
 summary: "德国比较教育学家奥斯卡·安维勒于1967年提出的学科建制概念。主张比较教育牢固依托于母体学科普通教育学，同时在问题意识与研究工具上面向历史学、政治学与社会学纵深切入，形成兼具规范育人关怀与跨学科实证解释力的横截面知识领域。"
 type: concept
 domain: "comparative-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Epistemology]]"
   - "[[Public Value]]"
+  - "[[Transnational Education]]"
   - "[[Intercultural Education]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Navigation Metaphor in Comparative Education]]"
@@ -50,7 +51,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -114,7 +115,7 @@ updated: 2026-11-03
 > **全球[[Knowledge Production|知识生产]]网络重组下的[[Paradigm|范式]]趋同** 考察世纪之交比较教育学在全球范围内的制度重组。随着超学科研究的发展与全球教育治理的兴起，欧陆传统的交叉领域论与英国的系所分支论正走向更高维度的综合。
 
 > [!claim] Mitter, W.
-> **制度二元性走向历史终结** 米特指出，传统上德国以交叉领域挂钩普通教育学、英国以独立系所平铺并列的二元结构正在逐步过时。在当代全球科学体系与跨国教育治理浪潮下，跨大洲比较、大规模测评与[[Intercultural Education|跨文化教育]]研究均要求超越传统学科门户，比较教育正不可逆转地融入更为广阔的跨学科社会科学大潮之中。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
+> **制度二元性走向历史终结** 米特指出，传统上德国以交叉领域挂钩普通教育学、英国以独立系所平铺并列的二元结构正在逐步过时。在当代全球科学体系与[[Transnational Education|跨国教育]]治理浪潮下，跨大洲比较、大规模测评与[[Intercultural Education|跨文化教育]]研究均要求超越传统学科门户，比较教育正不可逆转地融入更为广阔的跨学科社会科学大潮之中。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
 
 ---
 
@@ -135,7 +136,7 @@ updated: 2026-11-03
 
 > [!debates|notitle]
 >
-> > [!axis] 母体依附 vs 独立学科建制
+> > [!axis] 母体依附 vs 独立[[Disciplinary Institutionalization|学科建制]]
 > > 围绕比较教育是否需要固守[[Allgemeine Pädagogik|普通教育学]]母体地位的建制路线分歧。
 > >
 > > - **欧陆教化传统立场（Anweiler, Mitter）** 坚持比较教育必须依附普通教育学母体，以人的教化（[[Bildung]]）与育人价值为不可动摇的规范基石。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]

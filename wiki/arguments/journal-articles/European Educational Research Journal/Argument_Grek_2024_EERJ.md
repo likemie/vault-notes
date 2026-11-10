@@ -21,6 +21,7 @@ tags:
   - theme/governance
   - theme/infrastructure
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Epistemic Infrastructure]]"
   - "[[Geopolitics]]"
   - "[[Heterogeneity]]"
@@ -77,14 +78,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-28
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Grek_2024_EERJ"
 argument_key: "Argument_Grek_2024_EERJ"
 argument_display_title: "Beyond Bologna? Infrastructuring quality in European higher education"
 argument_kind: "journal-article"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -98,7 +99,7 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 在 1999 年签署《[[Bologna Process|博洛尼亚宣言]]》并启动跨国高等教育趋同改革二十余年后，欧洲高等教育质量保障体系如何从单一的政府间政策协调中心，演变为多行动者、多标尺且分立互依的复合治理网络？质量保障（Quality Assurance, QA）领域的《[[European Standards and Guidelines|欧洲高等教育区质量保障标准与准则]]》（Standards and Guidelines for Quality Assurance in the European Higher Education Area, [[European Standards and Guidelines|ESG]]）、准入机构与数据库如何交织为多层级的[[Epistemic Infrastructure|认识论基础设施]]（Epistemic Infrastructure）？[[European Association for Quality Assurance in Higher Education|欧洲高等教育质量保障协会]]（European Association for Quality Assurance in Higher Education, [[European Association for Quality Assurance in Higher Education|ENQA]]）、[[European Quality Assurance Register for Higher Education|欧洲高等教育质量保障注册局]]（European Quality Assurance Register for Higher Education, [[European Quality Assurance Register for Higher Education|EQAR]]）、[[European Commission|欧盟委员会]]及[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]，简称经合组织）等关键行动者如何在分工共生、声誉竞争与边界调试中推动欧洲化深层演进？这一持续自组织扩张的技术度量网络如何支撑[[European Education Area|欧洲教育区]]（European Education Area, EEA）的制度落地，并赋予大学服务于全球欧洲的[[Geopolitics|地缘政治]]使命？
+> 在 1999 年签署《[[Bologna Process|博洛尼亚宣言]]》并启动[[Transnational Education|跨国高等教育]]趋同改革二十余年后，欧洲高等教育质量保障体系如何从单一的政府间政策协调中心，演变为多行动者、多标尺且分立互依的复合治理网络？质量保障（Quality Assurance, QA）领域的《[[European Standards and Guidelines|欧洲高等教育区质量保障标准与准则]]》（Standards and Guidelines for Quality Assurance in the European Higher Education Area, [[European Standards and Guidelines|ESG]]）、准入机构与数据库如何交织为多层级的[[Epistemic Infrastructure|认识论基础设施]]（Epistemic Infrastructure）？[[European Association for Quality Assurance in Higher Education|欧洲高等教育质量保障协会]]（European Association for Quality Assurance in Higher Education, [[European Association for Quality Assurance in Higher Education|ENQA]]）、[[European Quality Assurance Register for Higher Education|欧洲高等教育质量保障注册局]]（European Quality Assurance Register for Higher Education, [[European Quality Assurance Register for Higher Education|EQAR]]）、[[European Commission|欧盟委员会]]及[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]，简称经合组织）等关键行动者如何在分工共生、声誉竞争与边界调试中推动欧洲化深层演进？这一持续自组织扩张的技术度量网络如何支撑[[European Education Area|欧洲教育区]]（European Education Area, EEA）的制度落地，并赋予大学服务于全球欧洲的[[Geopolitics|地缘政治]]使命？
 
 > [!claim] 核心主张
 > 欧洲高等教育治理已经跨越以博洛尼亚进程为单一中心的协调阶段，发展出由度量工具（涵盖准则规范 ESG、注册局 EQAR、[[European Tertiary Education Register|欧洲高等教育机构注册库]]〔European Tertiary Education Register, [[European Tertiary Education Register|ETER]]〕与[[Database of External Quality Assurance Results|外部质量保障结果数据库]]〔Database of External Quality Assurance Results, [[Database of External Quality Assurance Results|DEQAR]]〕）、专家网络互联与宏观政策目标三层机制紧密交织的[[Epistemic Infrastructure|认识论基础设施]]。质量保障超越了纯粹技术性的院校审查范畴，演变成为跨国高等教育治理的核心引擎；通过建立标准化的注册审核、高校微观数据库互联与自动化文凭核验体系，该网络支撑了欧洲教育区建设，促使欧洲大学成为维系欧洲生活方式与参与全球竞争的战略载体。

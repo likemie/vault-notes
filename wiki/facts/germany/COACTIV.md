@@ -11,7 +11,7 @@ subtype: program
 region: "germany"
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ tags:
   - germany
   - pisa
 related_concepts:
+  - "[[Teacher Expertise]]"
   - "[[Classroom Management]]"
   - "[[Socioeconomic Status]]"
   - "[[Variable]]"
@@ -60,13 +61,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 项目定位
-> 德国“教师专业能力与认知激活教学项目”（COACTIV）是由[[Max Planck Institute for Human Development|马克斯·普朗克人类发展研究所]]（[[Max Planck]] Institute for Human Development）领衔、德国研究联合会（DFG）重点资助的国家级纵向实证研究项目。项目嵌套于[[PISA|国际学生评估项目]]（[[PISA]]）2003 / 2004 德国国家扩展样本，旨在实证测定教师专业素养如何转化为课堂教学质量并决定学生的学业发展。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 437)]]
+> 德国“教师专业能力与认知激活教学项目”（COACTIV）是由[[Max Planck Institute for Human Development|马克斯·普朗克人类发展研究所]]（[[Max Planck]] Institute for Human Development）领衔、德国研究联合会（DFG）重点资助的国家级纵向实证研究项目。项目嵌套于[[PISA|国际学生评估项目]]（[[PISA]]）2003 / 2004 德国国家扩展样本，旨在实证测定[[Teacher Expertise|教师专业素养]]如何转化为课堂教学质量并决定学生的学业发展。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 437)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2001 年启动预研与[[Scale Development|量表开发]]，2003 至 2004 年依托 PISA 开展为期一年的纵向追踪测验，后续数据深化分析与模型建构持续至 2010 年代。

@@ -10,30 +10,49 @@ aliases:
 summary: "指科研人员尤其是基础研究人才在探索自然科学本质、发现新规律与创立新原理过程中，实现从0到1根本性与源头性突破的创新素养与产出潜能；该构念强调开拓新方向或颠覆既有范式，与聚焦已有技术路径局部改良或成果转化的渐进性创新相对立，受微观个体特征、中观组织设计与宏观政策环境等多层生态系统要素协同塑造。"
 type: concept
 domain: "science-policy"
-related_count: 12
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 31
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/science-policy
   - theme/basic-research
   - theme/talent-development
   - field/science-policy
 related_concepts:
+  - "[[Early-Career Researchers]]"
+  - "[[Nature of Science]]"
+  - "[[Creativity]]"
+  - "[[Construct]]"
+  - "[[Paradigm]]"
+  - "[[Combinatorial Novelty]]"
+  - "[[Scientific Uncertainty]]"
+  - "[[Academic Freedom]]"
+  - "[[Continuous Research Funding]]"
+  - "[[Grit]]"
+  - "[[Professional Interest]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
+  - "[[Epistemology]]"
+  - "[[Variable]]"
   - "[[Scientific Creativity]]"
   - "[[Curiosity-Driven Research]]"
-  - "[[Basic-Applied Research Dichotomy]]"
-  - "[[Slow Science]]"
-  - "[[Combinatorial Novelty]]"
-  - "[[Continuous Research Funding]]"
 related_theories:
+  - "[[Path Dependence]]"
   - "[[Ecological Systems Theory]]"
   - "[[Challenge-Hindrance Stressor Framework]]"
 related_methods:
-  - "[[Exploratory Sequential Design]]"
+  - "[[Qualitative Research]]"
+  - "[[Mixed Methods Research]]"
+  - "[[Journal Impact Factor]]"
+  - "[[Effect Size]]"
+  - "[[Questionnaire]]"
+  - "[[Multiple Regression]]"
+  - "[[Analytic Framework]]"
+  - "[[In-depth Interview]]"
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Web of Science]]"
   - "[[National Natural Science Foundation of China]]"
   - "[[Shuangqing Forum]]"
 related_arguments:
@@ -41,13 +60,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Original Innovation Capability
-> 原始创新能力（Original Innovation Capability）是指科研人员尤其是从事基础研究的青年学者，在揭示自然科学本质、发现客观新规律与创立科学新原理过程中，实现从 0 到 1 源头突破的创造力素养、认知特质与产出潜能。该构念的核心在于开辟全新科学认知边界、提出非共识科学问题或开创独特研究范式，与针对已有理论、技术路径进行边际修补或成果推广的渐进性创新（Incremental Innovation）形成鲜明区隔。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
+> 原始创新能力（Original Innovation Capability）是指科研人员尤其是从事基础研究的[[Early-Career Researchers|青年学者]]，在揭示自然[[Nature of Science|科学本质]]、发现客观新规律与创立科学新原理过程中，实现从 0 到 1 源头突破的[[Creativity|创造力]]素养、认知特质与产出潜能。该[[Construct|构念]]的核心在于开辟全新科学认知边界、提出非共识科学问题或开创独特[[Paradigm|研究范式]]，与针对已有理论、技术路径进行边际修补或成果推广的渐进性创新（Incremental Innovation）形成鲜明区隔。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向科技人员探索自然本质、发现科学新原理与开创新方向的源头创新素养与突破性产出特征。
@@ -59,7 +78,7 @@ updated: 2026-11-04
 
 > [!boundary]- 概念边界
 > - 不等于 [[Combinatorial Novelty|组合新颖性]] 前者更强调源头原理、底层定律与新假说的全新创立；后者侧重于在已有技术构件或跨学科知识库之间建立非常规的跨界连接。
-> - 不等于 技术改良或应用创新 前者承担极高的认知不确定性与试验失败风险，产出周期长且前期成果难以量化；后者具有明确的技术标准与市场检验指标。
+> - 不等于 技术改良或应用创新 前者承担极高的[[Scientific Uncertainty|认知不确定性]]与试验失败风险，产出周期长且前期成果难以量化；后者具有明确的技术标准与市场检验指标。
 > - 不适用于 侧重短期工程交付或例行技术服务的实用型开发任务。
 
 ---
@@ -75,11 +94,11 @@ updated: 2026-11-04
 ---
 
 > [!feature] 核心要素
-> - **内在好奇心与求知动机** 科研人员对未知自然现象怀有持久探索冲动，在面对高不确定性研究时保持探索动力。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
+> - **内在好奇心与求知动机** 科研人员对未知自然现象怀有持久探索冲动，在面对高不确[[Qualitative Research|定性研究]]时保持探索动力。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
 > - **长期目标导向** 具备坚守冷门前沿选题的战略定力，抵制短期功利化成果产出的诱惑，专注于解决核心科学难题。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
-> - **充足稳定的组织资源支持** 科研院所提供满足基本科研需求的实验设备、保障性经费与学术自由空间，降低研究人员对短期经费的生计依赖。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
+> - **充足稳定的组织资源支持** 科研院所提供满足基本科研需求的实验设备、保障性经费与[[Academic Freedom|学术自由]]空间，降低研究人员对短期经费的生计依赖。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
 > - **大团队与资深专家点拨引领** 战略科学家与资深学科专家在关键节点帮助青年学者把握战略需求、凝练核心科学问题，并提供探索非共识想法的容错环境。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
-> - **宽松宽容的政策环境与延续性资助** 科技资助机构建立容忍探索失败、注重同行过程性评估、长周期动态滚动的资助体系，保障研究方向的持续深耕。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
+> - **宽松宽容的政策环境与[[Continuous Research Funding|延续性资助]]** 科技资助机构建立容忍探索失败、注重同行过程性评估、长周期动态滚动的资助体系，保障研究方向的持续深耕。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
 
 > [!logic-map]- 原始创新能力培育生态系统模型
 > ```mermaid
@@ -105,7 +124,7 @@ updated: 2026-11-04
 ---
 
 > [!concept-proposition] 命题一｜内在好奇心与长期目标导向是驱动青年学者取得原始创新突破的决定性内在驱动力
-> **个体特征驱动机制** 基础研究源头探索伴随极高的智力挑战与反复失败风险，外部功利性奖惩与即时发表压力无法维持持久探索毅力。强烈的好奇心与追求长期重大价值的内在动机，使青年科研人员能够在缺乏即时正反馈的情境下持续专注深耕，有效缓冲职业早期的竞争压力与不安全感。
+> **个体特征驱动机制** 基础研究源头探索伴随极高的智力挑战与反复失败风险，外部功利性奖惩与即时发表压力无法维持持久探索[[Grit|毅力]]。强烈的好奇心与追求长期重大价值的内在动机，使青年科研人员能够在缺乏即时正反馈的情境下持续专注深耕，有效缓冲职业早期的竞争压力与不安全感。
 
 > [!claim] [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]]
 > **内在动机与长期导向对创新绩效的正向促进** 实证调查表明，具有较高好奇心和内在动机的基础研究青年人才产出的突破性创新绩效显著高于对照组（$M = 4.70 > 4.28, p < 0.01$），且对竞争程度和工作压力的感知更弱；追求长期目标的学者同样产出更高的创新绩效（$M = 4.76 > 4.40, p < 0.01$），其工作不安全感感知亦显著偏低（$M = 3.73 < 3.90, p < 0.01$）。这表明内在求知动机与长期主义是实现从 0 到 1 原始创新的核心心理资本。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
@@ -123,15 +142,15 @@ updated: 2026-11-04
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **个体特征驱动命题** | 好奇心、探索志趣与长期目标导向是支撑从 0 到 1 源头创新的核心内驱力 | 基础研究职业早期青年科研人员的创新探索 | [[Argument_Mo_2026_BNSFC\|莫申江等 (2026)]] |
-> | **生态系统协同命题** | 稳定组织资源供给、资深专家方向点拨与长周期延续性资助构成制度保障 | 高风险、慢热型基础科学前沿与交叉学科攻坚 | [[Argument_Mo_2026_BNSFC\|莫申江等 (2026)]] |
+> | **个体特征驱动命题** | 好奇心、探索[[Professional Interest\|志趣]]与长期目标导向是支撑从 0 到 1 源头创新的核心内驱力 | 基础研究职业早期青年科研人员的创新探索 | [[Argument_Mo_2026_BNSFC\|莫申江等 (2026)]] |
+> | **生态系统协同命题** | 稳定组织资源供给、资深专家方向点拨与长周期延续性资助构成制度保障 | 高风险、慢热型基础科学前沿与[[Comparative Education as a Cross-Sectional Area\|交叉学科]]攻坚 | [[Argument_Mo_2026_BNSFC\|莫申江等 (2026)]] |
 
 ---
 
 > [!dev-timeline] 概念演变
 > - **1980 年代 — 国家科技体制改革发轫** 伴随国家自然科学基金设立与重大基础科学计划实施，原始性创新逐步上升为国家科技自立自强的战略命题。
-> - **2000 年代 — 基础研究评价从数量向源头质量转型** 科技界逐步反思以科学引文索引（Science Citation Index, SCI）发文数量为导向的评价倾向，确立重视从 0 到 1 重大突破的评价导向。
-> - **2026 年 — 青年基础研究人才生态系统研究** [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]]基于混合方法研究，系统揭示了制约青年人才原始创新能力的六股结构性张力，确立了涵盖个体、组织与政策的三层生态影响因素体系。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
+> - **2000 年代 — 基础研究评价从数量向源头质量转型** 科技界逐步反思以[[Web of Science|科学引文索引]]（Science Citation Index, SCI）发文数量为导向的评价倾向，确立重视从 0 到 1 重大突破的评价导向。
+> - **2026 年 — 青年基础研究人才生态系统研究** [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]]基于[[Mixed Methods Research|混合方法研究]]，系统揭示了制约青年人才原始创新能力的六股结构性张力，确立了涵盖个体、组织与政策的三层生态影响因素体系。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
 
 ---
 
@@ -141,21 +160,21 @@ updated: 2026-11-04
 > > 争论聚焦于现行科研评价资助体系是否对追求原始创新的青年人才产生逆向筛选：
 > >
 > > - **[[Argument_Mo_2026_BNSFC|莫申江等 (2026)]]** 指出极具好奇心与长期目标导向的青年学者往往挑战周期长、风险大的前沿选题，慢热型学者在以近期成果产出为指标的常规评审中易被判定为前期基础薄弱，导致基金资助数量反而呈现显著劣势（$M = 0.85 < 0.95, p < 0.01$）。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
-> > - **传统科研管理取向** 强调财政科技资金的即时可问责性与产出确定性，倾向于通过量化发文篇数与影响因子控制资助风险，客观上导致资源流向低风险、渐进性的短平快选题。
+> > - **传统科研管理取向** 强调财政科技资金的即时可问责性与产出确定性，倾向于通过量化发文篇数与[[Journal Impact Factor|影响因子]]控制资助风险，客观上导致资源流向低风险、渐进性的短平快选题。
 
 > [!warning|limits] 适用局限
-> 原始创新能力的识别与评价具有显著的滞后性与认识论模糊性。在科学发现的初期阶段，极具革命性的颠覆性想法往往呈现非共识特征，难以通过常规专家多数票表决获得一致认同，容易受到评审偏见与路径依赖的抑制。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
+> 原始创新能力的识别与评价具有显著的滞后性与[[Epistemology|认识论]]模糊性。在科学发现的初期阶段，极具革命性的颠覆性想法往往呈现非共识特征，难以通过常规专家多数票表决获得一致认同，容易受到评审偏见与[[Path Dependence|路径依赖]]的抑制。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
 
 ---
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Mo_2026_BNSFC\|莫申江等 (2026)]] | $N = 4,569$；中国高校与科研院所 25～45 岁基础研究青年人才（平均 35.6 岁，副高及以下为主） | 大样本问卷调查（6 点量表）与多元回归分析 | 充足稳定科研资源对突破式创新绩效的影响 | $B = 0.15$ | $p < 0.01$ | 自评创新绩效；反映组织支持对创新产出的促进效应 |
+> | [[Argument_Mo_2026_BNSFC\|莫申江等 (2026)]] | $N = 4,569$；中国高校与科研院所 25～45 岁基础研究青年人才（平均 35.6 岁，副高及以下为主） | 大样本[[Questionnaire\|问卷调查]]（6 点量表）与[[Multiple Regression\|多元回归]]分析 | 充足稳定科研资源对突破式创新绩效的影响 | $B = 0.15$ | $p < 0.01$ | 自评创新绩效；反映组织支持对创新产出的促进效应 |
 > | [[Argument_Mo_2026_BNSFC\|莫申江等 (2026)]] | $N = 4,569$；同上青年人才样本 | 同上设计 | 获得延续性资助对突破式创新绩效的影响 | $B = 0.19$ | $p < 0.01$ | 自评创新绩效；反映政策长周期资助的关键驱动作用 |
 > | [[Argument_Mo_2026_BNSFC\|莫申江等 (2026)]] | $N = 4,569$；同上青年人才样本 | 相关分析 | 感知科研竞争程度与自评创新绩效的相关 | $r = 0.11$ | $p < 0.01$ | 揭示适度竞争压力对科研创新的挑战性驱动属性 |
 > | [[Argument_Mo_2026_BNSFC\|莫申江等 (2026)]] | $N = 4,569$；同上青年人才样本 | 组间差异比较（独立样本检验） | 好奇心与内在动机水平较高组 vs 一般组的创新绩效均值 | $M = 4.70$ vs $4.28$（差值 $0.42$） | $p < 0.01$ | 证实内在动机对突破性创新的主导促进效应 |
@@ -173,7 +192,7 @@ updated: 2026-11-04
 > | [[Scientific Creativity]] | 概念 | 原始创新能力是科学创造力在自然科学基础研究领域追求源头颠覆与范式重塑的集中体现。 |
 > | [[Curiosity-Driven Research]] | 概念 | 好奇心驱动是孕育原始创新想法的核心心理土壤，保障学者深入无人区探索。 |
 > | [[Continuous Research Funding]] | 概念 | 延续性资助为原始创新能力的持续发挥提供长周期、抗风险的制度保障。 |
-> | [[Ecological Systems Theory]] | 理论 | 为解析微观个体特质、中观组织设计与宏观资助政策如何协同塑造原始创新能力提供系统分析框架。 |
+> | [[Ecological Systems Theory]] | 理论 | 为解析微观个体特质、中观组织设计与宏观资助政策如何协同塑造原始创新能力提供系统[[Analytic Framework\|分析框架]]。 |
 > | [[Challenge-Hindrance Stressor Framework]] | 理论 | 解释科研竞争压力如何作为挑战性压力源促进原始创新，而行政干扰如何作为阻碍性压力源抑制创新。 |
 > | [[National Natural Science Foundation of China]] | 实体 | 承担国家基础研究资助统筹使命，推动实施青年人才结题分级评价与择优延续资助改革。 |
 > | [[Shuangqing Forum]] | 实体 | 为青年科技人员搭建与战略科学家研讨学术前沿、打磨非共识原始创新想法的战略交流平台。 |
@@ -181,4 +200,4 @@ updated: 2026-11-04
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]] — 结合深度访谈与 4,569 份全国青年科技人才调查，揭示基础研究青年人才面临的六大结构性张力，并从个体、组织与政策三维生态系统实证确立原始创新能力的关键影响因素与协同治理路径。
+> - [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]] — 结合[[In-depth Interview|深度访谈]]与 4,569 份全国青年科技人才调查，揭示基础研究青年人才面临的六大结构性张力，并从个体、组织与政策三维生态系统实证确立原始创新能力的关键影响因素与协同治理路径。

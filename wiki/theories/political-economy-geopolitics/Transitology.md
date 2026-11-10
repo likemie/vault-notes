@@ -6,10 +6,10 @@ aliases:
 summary: "比较教育学概念，由 Robert Cowen 提出，指国家机器、社会分层与政治未来愿景在大约十年内同时崩解与重建的压缩历史时刻，此时教育被赋予摧毁过去与重构未来的核心象征性功能"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 19
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 20
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 domain: "political-economy-geopolitics"
 related_count: 18
 related_level: 1
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Religious Schools]]"
   - "[[Pragmatic Paradigm]]"
   - "[[New Public Management]]"
+  - "[[Quasi-market]]"
   - "[[Operationalization]]"
 related_theories: []
 related_methods: []
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-08'
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -111,7 +112,7 @@ updated: 2026-10-30
 > - **1990s至今（帝国崩解与后殖民碎片化：东欧与前殖民地的教育认同）**
 >   奥匈帝国、大英帝国及苏联帝国的解体伴随着教育模式的密集转移。如波罗的海三国（拉脱维亚、立陶宛、爱沙尼亚）脱苏后引入欧洲指标重建认同，在近二十年里重构了去苏联化的后殖民教育体系（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 279]]）。
 > - **2010s后期至今（国家中心向市场中心的隐性漂移：全球新自由主义改革）**
->   在非革命性状态下，晚期现代性国家从福利治理向[[New Public Management\|新公共管理]]/准市场治理模式的静默漂移，同样构成了一场隐性的转型学运动。在这一过程中，教育的未来愿景从培养民主公民，被彻底重定义为服务于全球知识竞争的“人力资源储备”（[[Argument_Amos_2022_Springer\|Amos, 2022]]）。
+>   在非革命性状态下，晚期现代性国家从福利治理向[[New Public Management\|新公共管理]]/[[Quasi-market|准市场]]治理模式的静默漂移，同样构成了一场隐性的转型学运动。在这一过程中，教育的未来愿景从培养民主公民，被彻底重定义为服务于全球知识竞争的“人力资源储备”（[[Argument_Amos_2022_Springer\|Amos, 2022]]）。
 
 > [!evidence-grid] 转型学与社会转型研究
 > - **[[Argument_Cowen_2009_CE\|Cowen (2009b)]]** 奠定转型学的三维理论基础，识别出 19 至 20 世纪教育流动性的三大历史形态，并将六大现代化时刻归为转型学的经典案例。

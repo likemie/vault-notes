@@ -7,7 +7,7 @@ aliases:
 summary: "本尼迪克特·安德森界定民族共同体属性的核心构念，指不论现实社会内部存在何种深刻的阶级剥削与物质不平等，民族在集体心理图景中始终被表象为一种深沉平等的横向兄弟纽带；该构念为解释近现代千百万人甘愿为有限的民族想象牺牲献身提供了关键的情感与伦理基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 10
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,10 +22,12 @@ tags:
   - theme/nation-building
   - political-philosophy
 related_concepts:
-  - "[[Modular Nationalism]]"
+  - "[[Construct]]"
+  - "[[Cosmopolitanism]]"
   - "[[Dunbar's Number]]"
-  - "[[Everyday Plebiscite]]"
   - "[[Technological Republic]]"
+  - "[[Everyday Plebiscite]]"
+  - "[[Modular Nationalism]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods: []
@@ -47,7 +49,7 @@ updated: 2026-11-11
 ---
 
 > [!def] Horizontal Comradeship
-> 横向同志情谊（Horizontal Comradeship）是[[Benedict Anderson|本尼迪克特·安德森]]在界定现代民族本性时确立的核心构念，指即便在现实社会中充斥着严酷的阶级分化、权力压迫与财富不平等，民族在成员心理表象中始终被构想为一种深沉平等的兄弟手足联盟（fraternity）。这种超越现实利益割裂的横向联结，为解释近代两百年来千百万大众甘愿为有限的政治共同体奉献牺牲提供了决定性的伦理与情感支点。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 7)]]
+> 横向同志情谊（Horizontal Comradeship）是[[Benedict Anderson|本尼迪克特·安德森]]在界定现代民族本性时确立的核心[[Construct|构念]]，指即便在现实社会中充斥着严酷的阶级分化、权力压迫与财富不平等，民族在成员心理表象中始终被构想为一种深沉平等的兄弟手足联盟（fraternity）。这种超越现实利益割裂的横向联结，为解释近代两百年来千百万大众甘愿为有限的政治共同体奉献牺牲提供了决定性的伦理与情感支点。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 7)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向民族成员之间跨越现实制度性不平等的均质化主观心理联结与道德兄弟情谊。
@@ -60,7 +62,7 @@ updated: 2026-11-11
 > *Finally, it is imagined as a community, because, regardless of the actual inequality and exploitation that may prevail in each, the nation is always conceived as a deep, horizontal comradeship. Ultimately it is this fraternity that makes it possible, over the past two centuries, for so many millions of people, not so much to kill, as willingly to die for such limited imaginings.*
 
 > [!boundary]- 概念边界
-> - 不等于无差别的普遍人道博爱 — 横向情谊始终限定在主权国家的有限疆界之内，具有明确的内外区分，有别于面向全人类的世界主义道德主张。
+> - 不等于无差别的普遍人道博爱 — 横向情谊始终限定在主权国家的有限疆界之内，具有明确的内外区分，有别于面向全人类的[[Cosmopolitanism|世界主义]]道德主张。
 > - 不等于现实阶级结构的实质均质化 — 横向情谊属于一种主观文化表象与情感符码，并不消除现实社会中客观存在的资本剥削、权力等级与阶层差异。
 
 ---
@@ -102,7 +104,7 @@ updated: 2026-11-11
 > **认知协同与国家共同体防护** 说明在后现代社会与高科技竞争格局下，维护横向情感纽带对维系超大规模复杂技术协作的关键意义。
 
 > [!claim] Karp, A., & Zamiska, N.
-> **横向情感纽带突破邓巴数限制以支撑尖端协作** 卡普与扎米斯卡（2025）将安德森的横向同志情谊延伸至认知人类学与科技政治学领域，指出正是这种超越面对面熟人交往（[[Dunbar's Number|邓巴数]]约150人）的横向共同体情感，构成了组织数百万陌生人协同推进尖端技术研发与国家防卫的信任基石；批评后现代去国家化思潮主动拆解横向手足纽带与情感防线，导致公民认同碎裂为商业技术公社与财富部落。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–198)]]
+> **横向情感纽带突破[[Dunbar's Number|邓巴数]]限制以支撑尖端协作** 卡普与扎米斯卡（2025）将安德森的横向同志情谊延伸至认知人类学与科技政治学领域，指出正是这种超越面对面熟人交往（[[Dunbar's Number|邓巴数]]约150人）的横向共同体情感，构成了组织数百万陌生人协同推进尖端技术研发与国家防卫的信任基石；批评后现代去国家化思潮主动拆解横向手足纽带与情感防线，导致公民认同碎裂为商业技术公社与财富部落。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–198)]]
 
 ---
 

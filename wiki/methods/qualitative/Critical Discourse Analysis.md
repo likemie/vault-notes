@@ -13,9 +13,9 @@ summary: "关注语言与符号实践如何建构、维持和重塑权力关系�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 39
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 40
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Explanatory Critique]]"
   - "[[Reflexivity]]"
+  - "[[Transnational Education]]"
   - "[[Regimes of Truth]]"
   - "[[Academic Achievement]]"
   - "[[Chain of Evidence]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -132,7 +133,7 @@ updated: 2026-10-30
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 适合分析国家宏观教育战略演进、跨国教育合作政策的意识形态合法化过程（[[Argument_Woo_2023_HEP|Woo, 2023, pp. 680–682]]）、超国家机构政策白皮书中新自由主义[[Regimes of Truth|真理政制]]的建构（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009, pp. 479–481]]）、国际组织（如 [[OECD]]、[[World Bank|世界银行]]）教育评价报告的[[Discourse|话语]]霸权解构。
+> - **适合使用** 适合分析国家宏观教育战略演进、[[Transnational Education|跨国教育]]合作政策的意识形态合法化过程（[[Argument_Woo_2023_HEP|Woo, 2023, pp. 680–682]]）、超国家机构政策白皮书中新自由主义[[Regimes of Truth|真理政制]]的建构（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009, pp. 479–481]]）、国际组织（如 [[OECD]]、[[World Bank|世界银行]]）教育评价报告的[[Discourse|话语]]霸权解构。
 > - **谨慎使用** 纯技术性教学流程测量、课堂微观师生语言互动的秒级编码（更宜采用[[Conversation Analysis|会话分析]] Conversation Analysis）。
 > - **不适合使用** 评估教育干预措施的大样本平均因果效应或开展跨国[[Academic Achievement|学业成绩]]排名的量化统计建模。
 

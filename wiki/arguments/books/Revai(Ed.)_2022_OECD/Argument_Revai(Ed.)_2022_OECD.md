@@ -7,7 +7,7 @@ title: "Argument_Revai(Ed.)_2022_OECD"
 argument_key: "Argument_Revai(Ed.)_2022_OECD"
 argument_display_title: "Who cares about using education research in policy and practice?: Strengthening research engagement"
 argument_kind: "edited-volume"
-argument_related_count: 65
+argument_related_count: 66
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -90,6 +90,7 @@ related_facts:
   - "[[Strengthening the Impact of Education Research Project]]"
   - "[[Education Endowment Foundation]]"
   - "[[What Works Clearinghouse]]"
+  - "[[Web of Science]]"
   - "[[Monash Q Project]]"
 related_arguments:
   - "[[Argument_Revai_2022_ChangingLandscape]]"
@@ -105,7 +106,7 @@ sources:
 part_of: null
 status: draft
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -189,7 +190,7 @@ updated: 2026-10-22
 >   - **阅读价值** 对比各国中介组织（如英国 [[Education Endowment Foundation\|EEF]]、新西兰 BES、美国 [[What Works Clearinghouse\|WWC]] 等）在治理依附、[[Research Synthesis|证据综合]]、工具包开发与转化指导上的差异，剖析其受制于短期政治与预算周期的生存悖论，以及迈向“中介的中介”的元治理进路。
 > - **跨界合作、[[Knowledge Co-production\|知识共创]]与学术[[Varieties of Capitalism\|生产体制]]的结构性制约**
 >   - **相关章节** Ch. 01 [[Argument_Revai_2022_ChangingLandscape]]；Ch. 08（Halász）；Ch. 09 [[Argument_Rickinson_2022_UsingResearchWell]]；Ch. 10（Bangs et al.）。
->   - **阅读价值** 深入探讨研究者、教师与政策制定者在知识共建过程中的文化冲突，揭示传统学术评价（SCI/SSCI 期刊崇拜）与实践导向[[Knowledge Production\|知识生产]]之间的制度断裂。
+>   - **阅读价值** 深入探讨研究者、教师与政策制定者在知识共建过程中的文化冲突，揭示传统学术评价（[[Web of Science|SCI]]/SSCI 期刊崇拜）与实践导向[[Knowledge Production\|知识生产]]之间的制度断裂。
 
 ---
 

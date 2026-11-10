@@ -9,9 +9,9 @@ summary: "一种专门用于系统综述中整合质性与混合方法研究证�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 38
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 41
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -37,6 +37,7 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Reflexivity]]"
   - "[[Literature Search]]"
+  - "[[System-Wide Improvement]]"
   - "[[Man-Computer Symbiosis]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -58,17 +59,19 @@ related_methods:
   - "[[Audit Trail]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Axial Coding]]"
+  - "[[Grounded Theory]]"
 related_instruments:
   - "[[PRISMA]]"
   - "[[Mixed Methods Appraisal Tool]]"
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
+  - "[[Argument_Barrenechea_2023_JEC]]"
 related_facts:
   - "[[Education Resources Information Center]]"
 confidence: high
 status: draft
 created: 2026-08-31
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -152,5 +155,5 @@ updated: 2026-11-10
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 遵循扎根理论编码程序对 43 篇系统改进实证文献进行三级归纳与模式提炼，综合识别出全系统改进的四大关键驱动要素。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 遵循[[Grounded Theory|扎根理论]]编码程序对 43 篇系统改进实证文献进行三级归纳与模式提炼，综合识别出[[System-Wide Improvement|全系统改进]]的四大关键驱动要素。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — 遵循 Thomas and Harden (2008) 的主题综合法，对 67 篇探讨 ChatGPT 对高校学生批判与[[Creativity\|创造性思维]]影响的实证文献进行三阶段[[Coding in Qualitative Research\|质性编码]]与主题聚类，构建[[Man-Computer Symbiosis|人机协同]]认知共现演进模型。

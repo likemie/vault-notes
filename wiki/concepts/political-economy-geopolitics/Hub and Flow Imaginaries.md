@@ -7,7 +7,7 @@ aliases:
 summary: "把世界想象为由枢纽中心和边缘区域构成流动结构的空间想象，用于解释知识经济中的集中、连接和不平等。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[International Branch Campus]]"
   - "[[Progressive Neoliberalism]]"
+  - "[[Nationalism]]"
   - "[[Geopolitical Subject]]"
 related_theories:
   - "[[Fixity-Motion Tension]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -118,7 +119,7 @@ Moisio 借用 Jessop（2005）对"想象"（imaginaries）的分析——想象�
 > [!warning] 争议与批评
 > - 枢纽与流动想象将复杂的世界空间简化为"枢纽"与"边缘"的二元对立，遮蔽了那些既非枢纽也非边缘的"中间地带"——比如区域性的中等城市、不以创新经济为主导的产业城镇——的空间经验和政策需求
 - 该想象内含的增长逻辑——"无限增长的诱人承诺"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.24]])——与生态可持续性之间存在根本张力：枢纽的繁荣以高密度的资源消耗和碳排放为代价
-- Moisio 提醒，作为 枢纽与流动想象政治基底的"[[Progressive Neoliberalism|进步新自由主义]]"和"硅谷世界观"可能正在消退——民粹民族主义的回潮和[[Geopolitics|地缘政治]]对抗的加剧正在催生替代性的空间想象，可能根本性地重构枢纽与流动的空间逻辑([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.31–32]])
+- Moisio 提醒，作为 枢纽与流动想象政治基底的"[[Progressive Neoliberalism|进步新自由主义]]"和"硅谷世界观"可能正在消退——民粹[[Nationalism|民族主义]]的回潮和[[Geopolitics|地缘政治]]对抗的加剧正在催生替代性的空间想象，可能根本性地重构枢纽与流动的空间逻辑([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.31–32]])
 - **枢纽逻辑依赖落差而非绝对优势** 对教育枢纽的实证研究揭示了一个被 Moisio 理论化但未被充分经验验证的机制——枢纽通过制造和维持区域"空隙"来繁荣，这使该想象内含的不平等逻辑具有了**自我强化**的属性：成功的枢纽有意维持周边地区的低高教发展水平以确保持续的优势地位（[[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p. 211]]）。详见该文步骤三的地缘政治意涵论述。
 
 ---

@@ -8,7 +8,7 @@ aliases:
 summary: "由理查德·范·诺登等人在纪念科学引文索引创立五十周年时提出的学术影响力分层实体模型。该模型将 5,800 万篇科技论著首页垂直堆叠至逼近乞力马扎罗山高度（近 6,000 米），直观展示山底 2,500 米（占总高度逾 43%）全由零被引文献组成，而被引突破万次的超级名作仅占山巅 1.5 厘米薄层，具象化确立了学术影响力分布的极端肥尾极化与文献沉没特征（Van Noorden et al., 2014; Wang & Barabási, 2021）。"
 type: concept
 domain: "science-policy"
-related_count: 15
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,11 +22,13 @@ related_concepts:
   - "[[Citation Distribution]]"
   - "[[Citation Disparity]]"
   - "[[Knowledge Production]]"
+  - "[[Research Tool]]"
   - "[[Variable]]"
   - "[[Sampling Error]]"
 related_theories: []
 related_methods:
   - "[[Bibliometric Analysis]]"
+  - "[[Journal Impact Factor]]"
   - "[[Effect Size]]"
 related_instruments: []
 related_persons:
@@ -35,6 +37,7 @@ related_persons:
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
 related_facts:
+  - "[[Web of Science]]"
   - "[[Reach]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
@@ -42,13 +45,13 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-31"
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Mountain of Science
-> 科学之山（Mountain of Science，亦称科学[[Document|文献]]山岳模型）是指[[Bibliometric Analysis|科学计量学]]中用于直观刻画全球科技文献影响力分布极端层级分化与长尾沉没状态的实体化物理比例模型。该模型由理查德·范·诺登（Richard Van Noorden, 2014）等人为纪念[[Eugene Garfield|尤金·加菲尔德]]（Eugene Garfield）创立科学引文索引（SCI）五十周年而提出：假定将当时 Web of Science 索引的全部 5,800 万篇科技论著首页打印成纸张并逐一垂直堆叠，其总厚度接近东非最高峰乞力马扎罗山（近 6,000 米）。若将全部文献按历史累计被引频次自顶向下分层排布，整座山体底部的 2,500 米（占总高度 43% 以上）全部由从未获得任何同侪引证的“零被引”沉没文献构成；被引突破 1,000 次的高影响论著仅占山尖 1.5 米厚度；而被引突破 10,000 次的传世经典仅占峰顶 1.5 厘米的极微截面。该模型为学术共同体直观理解肥尾[[Citation Distribution|引文分布]]的方差极大性与[[Citation Disparity|引文差距]]的极端垄断性提供了具象化视觉锚点。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 174–176)]]
+> 科学之山（Mountain of Science，亦称科学[[Document|文献]]山岳模型）是指[[Bibliometric Analysis|科学计量学]]中用于直观刻画全球科技文献影响力分布极端层级分化与长尾沉没状态的实体化物理比例模型。该模型由理查德·范·诺登（Richard Van Noorden, 2014）等人为纪念[[Eugene Garfield|尤金·加菲尔德]]（Eugene Garfield）创立[[Web of Science|科学引文索引]]（SCI）五十周年而提出：假定将当时 Web of Science 索引的全部 5,800 万篇科技论著首页打印成纸张并逐一垂直堆叠，其总厚度接近东非最高峰乞力马扎罗山（近 6,000 米）。若将全部文献按历史累计被引频次自顶向下分层排布，整座山体底部的 2,500 米（占总高度 43% 以上）全部由从未获得任何同侪引证的“零被引”沉没文献构成；被引突破 1,000 次的高影响论著仅占山尖 1.5 米厚度；而被引突破 10,000 次的传世经典仅占峰顶 1.5 厘米的极微截面。该模型为学术共同体直观理解肥尾[[Citation Distribution|引文分布]]的方差极大性与[[Citation Disparity|引文差距]]的极端垄断性提供了具象化视觉锚点。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 174–176)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 标识宏观科学出版文献全集在被引频次维度上呈现出的基底超大沉没层与尖端超微精英层的极端空间堆叠拓扑。
@@ -63,7 +66,7 @@ updated: 2026-11-03
 > [!boundary]- 概念边界
 > - 不等于单纯的幂律数学公式。幂律公式（$P(c) \sim c^{-\gamma}$）提供抽象概率函数，科学之山模型将抽象连续函数折算为具有物理厚度感知（米、厘米）的宏观地貌隐喻。
 > - 不等于文献存在真理价值与谬误价值的二元对立。零被引文献构成了科学知识大厦的试错土壤，峰顶高被引突破往往建立在底层海量沉没探索所划定的技术禁区基础之上。
-> - 不等同于单本期刊的影响因子阶梯。该模型跨越自然科学全部门类全量出版物，反映的是人类科学[[Knowledge Production|知识生产]]总集合在数百年引文积累下的整体地貌。
+> - 不等同于单本期刊的[[Journal Impact Factor|影响因子]]阶梯。该模型跨越自然科学全部门类全量出版物，反映的是人类科学[[Knowledge Production|知识生产]]总集合在数百年引文积累下的整体地貌。
 
 ---
 
@@ -106,7 +109,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题二｜排名前百名经典成果高度由方法与实验技术创新所垄断
-> **峰巅高被引论著的内容拓扑属性** 检视科学之山最高顶点成果的学术类型，阐明通用科研工具在吸附学术注意力中的特殊溢价。
+> **峰巅高被引论著的内容拓扑属性** 检视科学之山最高顶点成果的学术类型，阐明通用[[Research Tool|科研工具]]在吸附学术注意力中的特殊溢价。
 
 > [!claim] [[Dashun Wang|Wang, D.]] & [[Albert-László Barabási|Barabási, A.-L.]]
 > **山巅超高被引名作的实验方法主导性** 王大顺与艾伯特-拉斯洛·巴拉巴西检视科学之山顶峰前 100 篇被引突破万次的旷世经典发现，这些成果绝大多数属于生物化学测定（如 Lowry 蛋白定量法）、实验技术、软件算法（如 BLAST 序列比对）或通用分析工具；基础实验工具充当了整个科学界日常研究的基础设施，因而在山巅薄层吸附了超常规的注意力资本。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 176)]]

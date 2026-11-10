@@ -8,7 +8,7 @@ aliases:
 summary: "Polanyi 虚拟商品理论在知识领域的延伸，揭示知识因非竞争性和非排他性而抗拒完全商品化，学术排名和评估正是为虚拟商品化的知识制造符号价格的基础设施"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -27,7 +27,8 @@ related_concepts:
   - "[[Knowledge Rents]]"
 related_theories:
   - "[[Academic Capitalism]]"
-related_methods: []
+related_methods:
+  - "[[Journal Impact Factor]]"
 related_persons: []
 related_facts:
   - "[[Research Excellence Framework]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -49,7 +50,7 @@ updated: 2026-10-22
 
 > [!example] 概念辨析
 > - vs [[Quasi-commodification of Knowledge]]：两者紧密相关但侧重不同。虚拟商品关注知识的**本体地位**，知识是什么（它本质上不是为市场交换而生产的），因此它只能是"虚拟的"商品。准商品化关注知识的**转化过程**，知识如何被推向市场、被定价和交易，但这一过程始终是不完全的。虚拟商品是知识在资本主义中的**存在形式**，准商品化是制造这一形式的**制度过程**。
-> - vs 普通商品：一袋土豆是为市场交换而种植的，其存在本身就是商品。一篇学术论文不是为市场交换而写的，它被生产出来的目的是知识贡献和学术交流。然而，围绕这篇论文，期刊订阅费、影响因子的"市场价值"、基于引用数的拨款分配，构成了一整套将非商品当作商品来处理的制度安排。这就是虚拟商品的"虚拟性"所在。
+> - vs 普通商品：一袋土豆是为市场交换而种植的，其存在本身就是商品。一篇学术论文不是为市场交换而写的，它被生产出来的目的是知识贡献和学术交流。然而，围绕这篇论文，期刊订阅费、[[Journal Impact Factor|影响因子]]的"市场价值"、基于引用数的拨款分配，构成了一整套将非商品当作商品来处理的制度安排。这就是虚拟商品的"虚拟性"所在。
 > - vs Polanyi 的原始概念：Polanyi 论证土地、劳动力和货币的完全商品化将摧毁社会，因为社会本身嵌入在这些"商品"之中。Jessop 的延伸论证知识的完全商品化将摧毁科学共同体，因为知识的进步依赖开放交流、累积引用和集体验证，而这些在纯商品逻辑下无法维持。
 
 > [!abstract] 核心逻辑：为什么知识只能是虚拟商品

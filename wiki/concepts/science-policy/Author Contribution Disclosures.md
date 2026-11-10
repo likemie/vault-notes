@@ -12,7 +12,7 @@ aliases:
 summary: "学术期刊为克服成果署名位次的信息不对称与模糊性而推行的结构化自陈制度；通过要求合署学者明确勾选各自承担的具体任务角色（构思、实验、数据、撰写等），揭示多学者团队内部的实际劳动分工；实证表明首末位署名者主导核心贡献，但通讯联络人与合署学者之间存在显著的自陈认知分歧。"
 type: concept
 domain: "science-policy"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,14 +33,15 @@ related_methods:
   - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Crossref]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit06]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -120,7 +121,7 @@ updated: 2026-11-03
 > [!dev-timeline] 概念演变
 > - **1999 — 机制首倡阶段** 《自然》率先宣布推行合署贡献声明政策，倡导公开透明的分工自陈。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 137)]]
 > - **2006–2014 — 规范化推广阶段** 《公共科学图书馆》等主流期刊确立六大通用分类，推动贡献自陈进入大规模出版实践。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 137)]]
-> - **2014–至今 — CRediT 元数据国际标准化阶段** 科学贡献者角色分类法（CRediT）确立 14 项机器可读的结构化角色标签，正式纳入 Crossref 等数字出版基础设施。
+> - **2014–至今 — CRediT 元数据国际标准化阶段** 科学贡献者角色分类法（CRediT）确立 14 项机器可读的结构化角色标签，正式纳入 [[Crossref]] 等数字出版基础设施。
 
 ---
 

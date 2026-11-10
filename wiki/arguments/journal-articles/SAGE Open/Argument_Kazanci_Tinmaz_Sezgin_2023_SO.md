@@ -40,6 +40,7 @@ related_concepts:
   - "[[Convergent and Discriminant Validity]]"
   - "[[Null Hypothesis]]"
   - "[[Falsification]]"
+  - "[[Homophily]]"
   - "[[Floor and Ceiling Effects]]"
   - "[[Engagement in and with Research]]"
   - "[[Heterogeneity]]"
@@ -79,14 +80,14 @@ related_theories:
 related_persons: []
 status: draft
 created: 2026-08-26
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_key: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_display_title: "Development of the Research Literacy Scale for Teachers"
 argument_kind: "journal-article"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -272,7 +273,7 @@ journal: "SAGE Open"
 >
 > *注：矩阵右上角为皮尔逊[[Pearson Product-Moment Correlation\|积差相关]]系数（$r$），左下角为决定系数（$r^2$）；** $p < .01$。*
 >
-> **图表解读** 概括分量表相关与心理测量指标表现：各维度间呈显著中高度正相关（$r = .56 \sim .77$），且 AVE 普遍大于共享方差 $r^2$（仅技能与使用稍高但依然收敛），确立了优良的收敛与区分效度；$\omega$ 与 $\alpha$ 高度吻合，证实指标载荷具备高同质性。
+> **图表解读** 概括分量表相关与心理测量指标表现：各维度间呈显著中高度正相关（$r = .56 \sim .77$），且 AVE 普遍大于共享方差 $r^2$（仅技能与使用稍高但依然收敛），确立了优良的收敛与区分效度；$\omega$ 与 $\alpha$ 高度吻合，证实指标载荷具备高[[Homophily|同质性]]。
 
 > [!ref-table]- 表5：跨性别多组验证性因子分析[[Measurement Invariance\|测量等值性检验]]（N=258）
 >

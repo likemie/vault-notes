@@ -8,7 +8,7 @@ aliases:
 summary: "由多个主权国家共同创立持股的超国家开发性金融机构；其金融本质是依托发达出资国的最高信用评级在国际债券市场极低息筹集资金、以保本微利原则向发展中借款国发放长期优惠贷款的主权信用合作社；在教育治理中，其通过信贷资金注入、对等资金绑定、政策附加条件与技术建议施加深层影响，但深陷繁琐官僚报销与评估重投入轻产出的执行困境。"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Counterpart Funds]]"
   - "[[International Education]]"
   - "[[Policy Conditionalities]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Zone of Discretion]]"
   - "[[Disbursement-Driven Evaluation]]"
   - "[[Academic Achievement]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -85,7 +86,7 @@ updated: 2026-11-03
 > | **信贷风险机制** | **依托 [[International Monetary Fund\|IMF]] 违约黑名单机制，享有事实上的零违约率保障** | 不涉及借贷资本回收与偿付风险 | 由本国纳税人承担违约或项目失败成本 |
 > | **政策干预手段** | **大额资金流 ＋ 刚性借贷法权契约 ＋ [[Policy Conditionalities\|政策附加条件]]** | 国际公约倡议、自愿同行审查与规范性建议 | 双边外交谈判、地缘战略绑定与采购回扣限制 |
 > | **对借款国施加压力** | **极强；能够迫使借款国打破国内阻力推行痛苦改革** | 极弱；受制于成员国共识，多采取不具约束力的折衷表述 | 较强但高度受制于双边外交关系的政治波动 |
-> | **典型教育业务重心** | **学校规模化改扩建、系统级课程改革、全套测评体系、职业培训** | [[Education for All\|全民教育]]规范宣示、弱势群体包容、和平教育指南 | 基础读写算试点项目、奖学金、特定地缘目标国援助 |
+> | **典型教育业务重心** | **学校规模化改扩建、系统级课程改革、全套测评体系、职业培训** | [[Education for All\|全民教育]]规范宣示、弱势群体包容、和平教育指南 | [[Foundational Literacy and Numeracy\|基础读写算]]试点项目、奖学金、特定地缘目标国援助 |
 
 ---
 

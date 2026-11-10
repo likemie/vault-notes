@@ -13,7 +13,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -24,35 +24,39 @@ tags:
   - level/higher-education
   - higher-education-finance
 related_concepts:
-  - "[[Little Science]]"
   - "[[Big Science]]"
+  - "[[Little Science]]"
+  - "[[Operationalization]]"
+  - "[[Document]]"
   - "[[Research Universities]]"
   - "[[Academic Freedom]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Matching]]"
 related_instruments: []
 related_persons:
   - "[[George Kistiakowsky]]"
 related_facts:
-  - "[[Committee on Science and Public Policy]]"
   - "[[National Academy of Sciences]]"
-  - "[[Basic Research and National Goals 1965]]"
+  - "[[Committee on Science and Public Policy]]"
+  - "[[United States Congress]]"
   - "[[National Science Foundation]]"
+  - "[[Basic Research and National Goals 1965]]"
 related_arguments:
   - "[[Argument_Yang_2017_MUE]]"
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1962 至 1966 年间由美国[[National Academy of Sciences|国家科学院]]常设学术机构[[Committee on Science and Public Policy|科学与公共政策委员会]]（COSPUP）统一主持，由各学科资深院士小组主导编制。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
-> - **适用地区 / 对象** 美国国会两院委员会、白宫行政分支、联邦资助机构（如[[National Science Foundation|NSF]]、农业部等）及各大学基础学科院系。
-> - **问题背景** 1960 年代初，联邦研发开支总体猛增，但大量资金被阿波罗登月等巨型工程装置的大科学（[[Big Science]]）吸纳，多数从事经典无定向探索的小科学（[[Little Science]]）实验室不仅面临常规经常费紧缩，更遭受尖端实验设备老旧和经费增长停滞的困境。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
-> - **制度位置** COSPUP 响应国会众议院科学与航天委员会对基础研究拨款基准的咨询，在 1965 年出台纲领性报告《[[Basic Research and National Goals 1965|基础研究与国家目标]]》后，将顶层宏观构想转化为分学科具体量化诉求的操作化规程。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
+> - **发布时间 / 发布主体** 1962 至 1966 年间由[[National Academy of Sciences|美国国家科学院]]常设学术机构[[Committee on Science and Public Policy|科学与公共政策委员会]]（COSPUP）统一主持，由各学科资深院士小组主导编制。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
+> - **适用地区 / 对象** [[United States Congress|美国国会]]两院委员会、白宫行政分支、联邦资助机构（如[[National Science Foundation|NSF]]、农业部等）及各大学基础学科院系。
+> - **问题背景** 1960 年代初，联邦研发开支总体猛增，但大量资金被阿波罗登月等巨型工程装置的[[Big Science|大科学]]（[[Big Science]]）吸纳，多数从事经典无定向探索的[[Little Science|小科学]]（[[Little Science]]）实验室不仅面临常规经常费紧缩，更遭受尖端实验设备老旧和经费增长停滞的困境。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
+> - **制度位置** COSPUP 响应国会众议院科学与航天委员会对基础研究拨款基准的咨询，在 1965 年出台纲领性报告《[[Basic Research and National Goals 1965|基础研究与国家目标]]》后，将顶层宏观构想转化为分学科具体量化诉求的[[Operationalization|操作化]]规程。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
 
 ---
 
@@ -68,14 +72,14 @@ updated: 2026-11-04
 > [!citation-card] 学科调查报告的核心诉求逻辑
 > 各学科调查报告向立法机构明确指出：大学基础研究的进展严重依赖实验装备的更新迭代。忽视常规学科的实验设备积累，将削弱科学整体的均衡发展；联邦政府必须按照科学发展内在规律所要求的复合增长率，为基础实验室提供持续、可预期的设备与研究经费保障。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
 >
-> *The disciplinary surveys made clear to the legislature that modern basic research hinges upon continuous instrument modernization. Starving classical disciplines of foundational facilities will undermine scientific equilibrium; the federal government must guarantee sustained and predictable funding matching the organic growth of discovery.*
+> *The disciplinary surveys made clear to the legislature that modern basic research hinges upon continuous instrument modernization. Starving classical disciplines of foundational facilities will undermine scientific equilibrium; the federal government must guarantee sustained and predictable funding [[Matching|matching]] the organic growth of discovery.*
 
 ---
 
 > [!timeline] 政策时间线
 > - 1962 COSPUP 启动首批全国性基础学科发展现状与长远需求调研。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
 > - 1964 惠特福德（A. E. Whitford）主持完成《陆基天文：一个十年计划》（*Ground-Based Astronomy: A Ten-Year Program*）。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
-> - 1965 COSPUP 出台纲领文献《[[Basic Research and National Goals 1965|基础研究与国家目标]]》，设立每年 15% 的资助增长标尺；同年威斯特海默（F. H. Westheimer）主持完成《化学：机遇与寻求》（*Chemistry: Opportunities and Needs*）。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
+> - 1965 COSPUP 出台纲领[[Document|文献]]《[[Basic Research and National Goals 1965|基础研究与国家目标]]》，设立每年 15% 的资助增长标尺；同年威斯特海默（F. H. Westheimer）主持完成《化学：机遇与寻求》（*Chemistry: Opportunities and Needs*）。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
 > - 1966 佩克（G. E. Pake）主持完成《物理：调查与展望》（*Physics: Survey and Outlook*）；同年戈达德（D. R. Goddard）专家组发布《植物学：当前及未来几十年发展》（*The Plant Sciences: Now and in the Coming Decades*）。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
 
 ---

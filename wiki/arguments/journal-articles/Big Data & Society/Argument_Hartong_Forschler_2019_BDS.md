@@ -26,7 +26,7 @@ title: "Argument_Hartong_Forschler_2019_BDS"
 argument_key: "Argument_Hartong_Forschler_2019_BDS"
 argument_display_title: "Opening the black box of data-based school monitoring: Data infrastructures, flows and practices in state education agencies"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Heterogeneity]]"
   - "[[Test-Based Accountability]]"
   - "[[Document]]"
@@ -76,12 +77,13 @@ related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[PISA]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
+  - "[[Second International Mathematics Study]]"
   - "[[United States Department of Education]]"
   - "[[Early Warning Indicator System]]"
   - "[[EU]]"
 status: stable
 created: 2026-09-18
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
@@ -115,7 +117,7 @@ updated: 2026-10-29
 | **量化评价功能** | 发现客观差距以提供中立的改进依据 | 制造通约度量，建立跨时空可比性并分配制度合法性与资源 |
 
 > [!warrant]- 理论工具如何支撑全景论证
-> 借助批判性数据研究的理论透镜，研究摆脱了将数据仅仅视为信息容器的工具主义迷思。通过将数据基础设施作为实体考察对象，将数量通约化作为微观转化机制，作者得以系统审视从原始数据录入、数据库清洗、跨系统互操作、算法加权建模到可视化呈报的全生命周期，论证看似中立的代码与算法指标如何深度嵌入甚至重构了国家行使教育权力的基本方式。
+> 借助批判性数据研究的[[Theoretical Standpoint|理论透镜]]，研究摆脱了将数据仅仅视为信息容器的工具主义迷思。通过将数据基础设施作为实体考察对象，将数量通约化作为微观转化机制，作者得以系统审视从原始数据录入、数据库清洗、跨系统互操作、算法加权建模到可视化呈报的全生命周期，论证看似中立的代码与算法指标如何深度嵌入甚至重构了国家行使教育权力的基本方式。
 
 ---
 
@@ -179,7 +181,7 @@ updated: 2026-10-29
 
 > [!proc] 州级学校监测的技术流转支柱与操作层级
 > 1. **全域数据源头与标准化采集层（Input & Ingestion）**
->    自基层学校与学区学生信息系统（Student Information System, SIS；包含马萨诸塞州学籍管理信息系统〔Student Information Management System, SIMS〕与教职员信息管理系统〔Education Personnel Information Management System, EPIMS〕）定期抽取海量原始数据，时间跨度从年度、季度延伸至高频乃至每日出勤记录，学区在这一环节充当核心数据中介。
+>    自基层学校与学区学生信息系统（Student Information System, SIS；包含马萨诸塞州学籍管理信息系统〔Student Information Management System, [[Second International Mathematics Study|SIMS]]〕与教职员信息管理系统〔Education Personnel Information Management System, EPIMS〕）定期抽取海量原始数据，时间跨度从年度、季度延伸至高频乃至每日出勤记录，学区在这一环节充当核心数据中介。
 > 2. **数据清洗、校验与集中仓储层（Validation & Warehousing）**
 >    在州级层面实施人机结合的多重质检，利用自动化数据业务规则过滤逻辑矛盾值，清洗后的合规数据注入中央数据仓库（Data Warehouse）或甲骨文后台数据库予以规范化固锁。
 > 3. **算法分析、模型拟合与深度挖掘层（Analysis & Modelling）**

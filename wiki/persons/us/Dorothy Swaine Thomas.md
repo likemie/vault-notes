@@ -9,10 +9,10 @@ summary: "美籍社会学家与人口学家，宾夕法尼亚大学社会学讲�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1899"
 died: "1977"
 lifespan: "1899–1977"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Scientific Credit]]"
   - "[[Matthew Effect in Academia]]"
+  - "[[Early-Career Researchers]]"
 related_theories:
   - "[[Thomas Theorem]]"
   - "[[Symbolic Interactionism]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: 2026-10-31
+updated: 2026-11-11
 ---
 
 ---
@@ -110,4 +111,4 @@ updated: 2026-10-31
 > | [[Thomas Theorem]] | 理论 | 共同确立主观情境定义与客观行动后果之间的因果法则。 |
 > | [[Symbolic Interactionism]] | 理论 | 提供微观人际互动、主观赋意与角色采纳的理论资源。 |
 > | [[Scientific Credit]] | 概念 | 作为学术声誉非对称分配与女性学者学术贡献遮蔽的经典案例。 |
-> | [[Matthew Effect in Academia]] | 理论 | 展现成名大师对合作青年学者声誉形成的压制与吸附效应。 |
+> | [[Matthew Effect in Academia]] | 理论 | 展现成名大师对合作[[Early-Career Researchers\|青年学者]]声誉形成的压制与吸附效应。 |

@@ -4,7 +4,7 @@ aliases: [EUA, 认识论理解评估工具]
 summary: "由 Deanna Kuhn 及其团队（2000）开发的一套包含 15 个题项的评估工具，用于测量个体在五个不同判断领域（个人品味、审美、价值观、社会事实、物理事实）中的认识论发展阶段（绝对论、多元论、评价论）。"
 type: instrument
 instrument_type: questionnaire
-instrument_related_count: 10
+instrument_related_count: 11
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#fef3c7"
@@ -35,13 +35,14 @@ related_instruments:
   - "[[VALUE Rubrics]]"
 related_persons:
   - "[[Deanna Kuhn]]"
-related_facts: []
+related_facts:
+  - "[[Dimensions]]"
 related_arguments:
   - "[[Argument_Kuhn_2000_CD]]"
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-10-16
+updated: 2026-11-11
 ---
 
 ---
@@ -53,7 +54,7 @@ updated: 2026-10-16
 > - **实施方式** 自陈纸笔测验（或访谈，如针对低龄儿童）。
 
 > [!citation-card] 理论支撑
-> “The instrument we constructed to assess epistemological understanding was designed to focus on what we propose to be the key elements in achieving this coordination [of subjective and objective dimensions] for each of the transitions (from absolutist to multiplist and from multiplist to evaluativist) examined.”
+> “The instrument we constructed to assess epistemological understanding was designed to focus on what we propose to be the key elements in achieving this coordination [of subjective and objective [[Dimensions|dimensions]]] for each of the transitions (from absolutist to multiplist and from multiplist to evaluativist) examined.”
 >
 > *[[Deanna Kuhn\|Kuhn, D.]], Cheney, R., & Weinstock, M. (2000). The development of epistemological understanding. Cognitive Development, 15(3), p. 315.*
 

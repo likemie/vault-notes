@@ -8,7 +8,7 @@ aliases:
 summary: "由奥斯本与帕内斯创立的经典结构化认知干预模型，通过理解挑战、生成观念与准备行动三大阶段六大循环，交替实施发散与收敛思维以系统解决不良结构问题。"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 27
+theory_related_count: 28
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Creativity Training]]"
   - "[[Divergent Thinking]]"
+  - "[[Problematisation]]"
   - "[[Scaffolding]]"
   - "[[Emergence]]"
   - "[[Brainstorming]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -89,7 +90,7 @@ updated: 2026-10-22
 
 > [!proposition-chain] 核心命题一｜结构化启发式训练显著打破思维定势并提升[[Problem Solving\|复杂问题解决]]效能
 > - **前提一** 学习者在自然状态下容易受制于功能固着与思维惯性，倾向于提取近距离常规联想。
-> - **前提二** 显性讲授可操作的认知启发式策略（如属性重构、逆向设问）能为[[Divergent Thinking\|发散思维]]与问题表征提供有效[[Scaffolding\|认知支架]]。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 6)]]
+> - **前提二** 显性讲授可操作的认知启发式策略（如属性重构、逆向设问）能为[[Divergent Thinking\|发散思维]]与[[Problematisation|问题表征]]提供有效[[Scaffolding\|认知支架]]。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 6)]]
 >   > [!evidence-grid]- 证据
 >   > - **证据一** Scott et al. (2004) [[Meta-analysis\|元分析]]（$k = 70$）显示 CPS 对问题解决表现的促进效应达到 **$d = 0.84$**，对观念生成达到 **$d = 0.75$**。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 7)]]
 >   > - **证据二** Ma (2006) 元分析证实基于 CPS 的复合干预程序平均[[Effect Size\|效应量]]达 **$d = 0.77$**。

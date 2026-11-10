@@ -6,7 +6,7 @@ aliases:
 summary: "在量化实验研究中可能混淆自变量与因变量之间真实因果关系的系统性偏差来源，Campbell and Stanley 经典框架列出十种主要威胁，Onwuegbuzie and Leech 将其扩展至质性研究中的十二种威胁"
 type: concept
 domain: "research-methodology"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Type I and Type II Errors]]"
   - "[[Attrition]]"
+  - "[[Research Tool]]"
   - "[[Classroom Breaks]]"
   - "[[Null Hypothesis]]"
   - "[[Descriptive Validity]]"
@@ -49,7 +50,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -105,7 +106,7 @@ Campbell and Stanley (1963)、Bracht and Glass (1968) 和 Lewis-Beck (1993) 建�
 > - **补偿性竞争（Compensatory Rivalry）**
 >   对照组因未接受处理而感到被低估，从而产生竞争性行为。应对：降低对照组预期或明确说明对照组的价值，创造两组平等感。
 > - **工具反应性（Instrument reactivity, Vulliamy et al., 1990）**
->   研究工具本身对参与者产生的效应。例如观察者的在场改变被观察者的行为，[[Questionnaire\|问卷]]中的问题措辞引发受试者的防御性回答。与前述威胁不同，工具反应性关注的是工具本身作为"处理"的一部分对参与者行为的影响。
+>   [[Research Tool|研究工具]]本身对参与者产生的效应。例如观察者的在场改变被观察者的行为，[[Questionnaire\|问卷]]中的问题措辞引发受试者的防御性回答。与前述威胁不同，工具反应性关注的是工具本身作为"处理"的一部分对参与者行为的影响。
 
 > [!example] 处理威胁的案例
 > **处理扩散（Diffusion of Treatment）** 同一所学校内，实验班使用新教学法，对照班使用传统教学法。[[Classroom Breaks|课间休息]]时实验班的学生把新方法教给了对照班的朋友，导致对照班也部分接触了处理。两组结果因此趋同，处理效应被低估。将实验组和对照组放在不同学校可以解决，但成本更高。

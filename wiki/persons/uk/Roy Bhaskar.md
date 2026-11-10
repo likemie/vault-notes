@@ -7,7 +7,7 @@ summary: "英国哲学家，批判实在论创始人，为教育研究在实证�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 32
+person_related_count: 33
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Governing by Numbers]]"
   - "[[Evidence-Based Education]]"
+  - "[[Transnational Education]]"
   - "[[Geopolitics]]"
   - "[[Scientific Method]]"
   - "[[Operationalization]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -123,7 +124,7 @@ updated: 2026-10-30
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 将巴斯卡的开放系统和因果机制概念应用于[[Evidence-Based Education|证据本位教育]]，剖析 [[Education Endowment Foundation|EEF]] 评估案例中的简单民间科学观。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 运用批判实在论的分层本体论解构循证教学中 RCT 的实验神话以及元分析对因果机制的遮蔽，主张以基于实在论的[[Pluralism|多元主义]]替代单一排行榜。
-> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 结合巴斯卡的批判实在论解释性批判与费尔克拉夫批判[[Discourse Analysis|话语分析]]，解构跨国高等教育政策话语背后的[[Geopolitics|地缘政治]]与权力再生产机制。
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 结合巴斯卡的批判实在论解释性批判与费尔克拉夫批判[[Discourse Analysis|话语分析]]，解构[[Transnational Education|跨国高等教育]]政策话语背后的[[Geopolitics|地缘政治]]与权力再生产机制。
 
 ---
 

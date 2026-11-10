@@ -8,7 +8,7 @@ aliases:
 summary: "由皮埃尔·阿祖莱等人（Pierre Azoulay et al., 2019）在实证检验普朗克原理时提出的科学学构念；描述学科内顶尖权威学者在世期间对研究议程、评价标准与基金资源形成强大的中心引力与隐性门槛，抑制年轻学者与领域外部新人进入核心领地开展范式挑战的结构性阻滞现象。"
 type: concept
 domain: "science-policy"
-related_count: 15
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,11 +22,13 @@ related_concepts:
   - "[[Document]]"
   - "[[Champ]]"
   - "[[Matthew Effect in Academia]]"
+  - "[[Early-Career Researchers]]"
   - "[[Scientific Paradigm]]"
   - "[[Variable]]"
 related_theories:
   - "[[Planck's Principle]]"
 related_methods:
+  - "[[Natural Experiment]]"
   - "[[Effect Size]]"
 related_instruments: []
 related_persons:
@@ -42,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -100,12 +102,12 @@ updated: 2026-11-03
 > **学术权威的微观生态阻滞** 探讨学科顶尖领军学者对潜在竞争者的威慑机制，证实权威在世对局外学者与非正统课题的现实压制。
 
 > [!claim] [[Pierre Azoulay|Azoulay, P.]]
-> **权威在世的威慑与替代路径挤出** 针对生命科学领域 452 位在职业顶峰突逝的明星学者的准自然实验表明，学术权威在世期间形成了强大的阴影屏障；在其健在时，未曾与其合作过的外部学者极力避免进入该领军人物的细分领域展开正面学术竞争，导致该领域的理论[[Paradigm|范式]]长期受制于领袖学派的既定路线。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 50)]]
+> **权威在世的威慑与替代路径挤出** 针对生命科学领域 452 位在职业顶峰突逝的明星学者的[[Natural Experiment|准自然实验]]表明，学术权威在世期间形成了强大的阴影屏障；在其健在时，未曾与其合作过的外部学者极力避免进入该领军人物的细分领域展开正面学术竞争，导致该领域的理论[[Paradigm|范式]]长期受制于领袖学派的既定路线。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 50)]]
 
 ---
 
 > [!concept-proposition] 命题二｜领军学者的生理退场释放出孕育高影响颠覆性创新的学术空间
-> **代际更替与前沿范式演化** 探讨权威退场后学术领地的结构性重组，阐明局外青年学者如何驱动[[Scientific Paradigm|科学范式]]颠覆。
+> **代际更替与前沿范式演化** 探讨权威退场后学术领地的结构性重组，阐明局外[[Early-Career Researchers|青年学者]]如何驱动[[Scientific Paradigm|科学范式]]颠覆。
 
 > [!claim] Packalen, M.
 > **局外年轻学者接掌学术领导权** 当明星学者离世消除歌利亚阴影后，该细分领域迎来未曾建立合作关系的独立研究团队大规模涌入，这些新进入者在人口统计学上呈现显著的年轻化特征，且其发表的论著收获了不成比例的高学术引用；标题与摘要新词汇计量分析进一步证实，青年学者尝试前沿新词的概率显著更高，代际更替直接推动了前沿新概念的扩散。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 50)]]

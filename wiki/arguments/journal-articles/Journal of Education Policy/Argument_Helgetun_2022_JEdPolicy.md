@@ -42,6 +42,7 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Doxa]]"
   - "[[Construct]]"
+  - "[[Cumulative Innovation]]"
 related_theories:
   - "[[Institutional Isomorphism]]"
 related_methods:
@@ -75,14 +76,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-09-16
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Helgetun_2022_JEdPolicy"
 argument_key: "Argument_Helgetun_2022_JEdPolicy"
 argument_display_title: "From an age of measurement to an evidence era? Policy-making in teacher education in England"
 argument_kind: "journal-article"
-argument_related_count: 44
+argument_related_count: 45
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -300,7 +301,7 @@ issuing_organization: ""
 
 > [!warning] 自述局限
 > - **领域制度序列的特殊性** 研究结论主要植根于英格兰教师教育政策的特定历史发展脉络（其早在 1984 年即通过 CATE 和视导要求开启了显性证据准入，早于普通中小学的 1988 年集中化改革）；向其他公共政策领域外推时必须审慎评估具体制度情境。
-> - **新媒体与中介效应的探索性** 对社交媒体和非正式中介在[[Policy Network\|政策网络]]中影响机制的考察主要依托[[Qualitative Interview\|质性访谈]]知情人的主观叙述，关于新媒体具体网络拓扑结构与传播效能的全面刻画仍有待后续研究拓展。
+> - **新媒体与中介效应的探索性** 对社交媒体和非正式中介在[[Policy Network\|政策网络]]中影响机制的考察主要依托[[Qualitative Interview\|质性访谈]]知情人的主观叙述，关于新媒体具体网络拓扑结构与传播效能的全面刻画仍有待[[Cumulative Innovation|后续研究]]拓展。
 
 ---
 

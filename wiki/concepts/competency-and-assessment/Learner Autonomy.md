@@ -8,7 +8,7 @@ aliases:
 summary: "学习者在明确目标与支架支持下对自身学习过程主动承担责任、进行批判性反思与元认知调节的能力与意愿。在现代因果试验中，技术辅助的自主学习需与教师主导教学脱钩并析因测量，缺乏支架的放任个别化易诱发认知负荷失控与弱势学童掉队。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -38,22 +38,22 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[IB Diploma Programme]]"
   - "[[Heterogeneity]]"
-  - "[[Constructivist Paradigm]]"
   - "[[Creativity]]"
   - "[[Document]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Technology Infusion]]"
   - "[[Epistemological Vigilance]]"
-  - "[[Techno-Utopianism]]"
-  - "[[Learnification]]"
-  - "[[Variable]]"
-  - "[[Knowledge Questions]]"
-  - "[[Paradigm]]"
   - "[[Working Memory]]"
+  - "[[Techno-Utopianism]]"
+  - "[[Falsification]]"
+  - "[[Variable]]"
+  - "[[Learnology]]"
+  - "[[Knowledge Questions]]"
+  - "[[Constructivist Paradigm]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
   - "[[Behaviorism]]"
-  - "[[Radical Constructivism]]"
   - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Factorial Design]]"
@@ -63,22 +63,23 @@ related_methods:
   - "[[Multi-Arm Trial]]"
   - "[[Systematic Review]]"
 related_facts:
+  - "[[TIMSS]]"
   - "[[PISA]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Lakhani_2012_AKUIED]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Håkansson_2015_TT]]"
+  - "[[Argument_Sahlgren_2015_CPS]]"
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Rømer_2018_EPT]]"
-  - "[[Argument_Sahlgren_2015_CPS]]"
 related_instruments:
   - "[[Watson-Glaser Critical Thinking Appraisal]]"
 confidence: high
 status: active
 created: 2026-07-02
-updated: 2026-11-06
+updated: 2026-11-11
 ---
 
 ---
@@ -99,7 +100,7 @@ updated: 2026-11-06
 > [!citation-card|notitle] 技术软件自主学习与教师主导辅导的因果剥离（McNally et al., 2018; [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]）
 > 在大规模因果评估中，复杂干预常常将技术软件自主学习与面对面教学混杂在一起。通过多臂析因现场试验，研究者得以清晰剥离技术工具辅助下的学生自主学习与教师[[Direct Instruction|直接教学]]辅导的独立效应与[[Interaction Effect|交互效应]]。实证数据表明：唯有将软件自主操作与结构化教师引导有机结合，方能产生显著的阅读学业增益，孤立推行纯粹的算法自学则收效微弱。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 54)]]
 >
-> *“In factorial evaluations like ABRA, evaluators separated the independent and interaction effects of pupil-led autonomous learning via educational technology from teacher-led structured instruction... unpicking the black box of multi-component interventions.”*
+> *“In factorial evaluations like ABRA, evaluators separated the independent and interaction effects of pupil-led autonomous learning via educational technology from teacher-led [[Structured Teaching|structured instruction]]... unpicking the black box of multi-component interventions.”*
 
 > [!boundary]- 概念边界辨析
 > - **不等于完全孤立自学（Isolated Self-Study）** 孤立自学缺乏社会交往与外部参照；学习者自主性强调在社会文化情境中通过师生对话、[[Peer-Supported Learning|同伴互助]]反思达成自主的相互依存（Autonomous Interdependence）。
@@ -135,7 +136,7 @@ updated: 2026-11-06
 ---
 
 > [!concept-proposition] 命题一｜认识论训练与元认知反思自信是发展实质性自主性的心理基石
-> **批判性思维与自主性生成的深层机制** 探讨自主性如何通过[[Epistemology|认识论]]训练建立批判反思能力与意义建构自信，阐明高阶心智成果与表层行为自由的实质差异。
+> **[[Critical Thinking|批判性思维]]与自主性生成的深层机制** 探讨自主性如何通过[[Epistemology|认识论]]训练建立批判反思能力与意义建构自信，阐明高阶心智成果与表层行为自由的实质差异。
 
 > [!claim] [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]]
 > **能力与自信的双轨生成模型** 基于[[International Baccalaureate|国际文凭]]（IB）[[Theory of Knowledge|知识论]]（TOK）课程的质性实证表明，学习者自主性必须通过两条相辅相成的路径实现：其一是通过显性批判性思维与认识论分析工具武装学生的认知能力；其二是通过持续反思训练，让学生对自身的独立判断与意义建构能力建立坚定的心理自信。缺乏自信的学生即便掌握内容知识，在面对自由探究时也会陷入恐慌，过度依赖外部指令与权威背书。（pp. 176–178）
@@ -146,10 +147,10 @@ updated: 2026-11-06
 ---
 
 > [!concept-proposition] 命题二｜技术环境下的学习者自主性必须与教师结构化指导协同产生效益
-> **现代因果评估中自主学习的机制解构** 探讨教育干预中学生自主利用软件学习与教师直接教学辅导的独立贡献，以及析因设计在解开自主学习黑箱中的方法学价值。
+> **现代因果评估中自主学习的机制解构** 探讨教育干预中学生自主利用软件学习与教师直接教学辅导的独立贡献，以及[[Factorial Design|析因设计]]在解开自主学习黑箱中的方法学价值。
 
 > [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]]; McNally et al. (2018)
-> **多臂析因设计下的自主效应剥离** 复杂教育干预往往将软件自主训练与教师辅导打包递送，导致无法厘清何者起效。在覆盖全英小学的 ABRA 在线阅读多臂 [[Randomised Controlled Trials|RCT]] 中，评估团队通过析因架构将学生在技术软件支持下的自主学习与教师面对面的结构化小步教学辅导完全拆解。实证表明：技术工具驱动的自主探究与教师人际指导各自发挥了异质性的因果中介作用，两者的协同交互显著优于单一孤立的软件自学，证明技术环境下的学习者自主性必须与教师人际支架紧密结合、相互支撑。（pp. 53–54）
+> **多臂析因设计下的自主效应剥离** 复杂教育干预往往将软件自主训练与教师辅导打包递送，导致无法厘清何者起效。在覆盖全英小学的 ABRA 在线阅读多臂 [[Randomised Controlled Trials|RCT]] 中，评估团队通过析因架构将学生在技术软件支持下的自主学习与教师面对面的结构化小步教学辅导完全拆解。实证表明：技术工具驱动的自主探究与教师人际指导各自发挥了[[Heterogeneity|异质性]]的因果中介作用，两者的协同交互显著优于单一孤立的软件自学，证明技术环境下的学习者自主性必须与教师人际支架紧密结合、相互支撑。（pp. 53–54）
 
 ---
 
@@ -157,15 +158,15 @@ updated: 2026-11-06
 > **激进自主主张在实证政策田野中的现实触礁** 探讨过度崇拜学生完全自决如何导致认知负荷失控、算法心智侵蚀与教育不平等的恶化。
 
 > [!claim] [[Argument_Håkansson_2015_TT|Håkansson (2015a)]]; [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]]
-> **去结构化个别化改革的学业危机与时序实证** 瑞典自 1990 年代起在大规模新课程大纲中强制推行学生自主排期与独立探索，自主学习占总课时比例从 1980 年代的 26% 飙升至 2000 年的 41%，每天多次独立自主自学的学生比例从 25% 翻倍至 50%（[[Argument_Sahlgren_2015_CPS|Sahlgren, 2015, p. 47]]）。大规模元综合与微观数据表明，抽离教师结构化领导的极端自决引发了严重的假自主真掉队现象：对于缺乏家庭学术资本与元认知技能的弱势儿童，无支架的自由直接转化为认知迷失与学业崩溃，成为导致瑞典在 TIMSS 与 PISA 测试中遭遇历史性坠落的核心制度诱因。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a, pp. 586–587)]]; [[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 46–47)]]
+> **去结构化个别化改革的学业危机与时序实证** 瑞典自 1990 年代起在大规模新课程大纲中强制推行学生自主排期与独立探索，自主学习占总课时比例从 1980 年代的 26% 飙升至 2000 年的 41%，每天多次独立自主自学的学生比例从 25% 翻倍至 50%（[[Argument_Sahlgren_2015_CPS|Sahlgren, 2015, p. 47]]）。大规模[[Meta-meta-analysis|元综合]]与微观数据表明，抽离教师结构化领导的极端自决引发了严重的假自主真掉队现象：对于缺乏家庭学术资本与元认知技能的弱势儿童，无支架的自由直接转化为认知迷失与学业崩溃，成为导致瑞典在 [[TIMSS]] 与 [[PISA]] 测试中遭遇历史性坠落的核心制度诱因。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a, pp. 586–587)]]; [[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 46–47)]]
 
 > [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
-> **算法交互中的认知卸载陷阱** 在缺乏反思提示与批判性量规的非结构化技术环境中，所谓自主探索往往迅速退化为投机取巧的[[Cognitive Offloading|认知卸载]]：学生全盘依赖生成式 AI 产生终稿，表面上维持了高效独立交差的伪自主，实质上导致深层批判性思维与创造性心智的严重侵蚀。（pp. 9–11）
+> **算法交互中的认知卸载陷阱** 在缺乏反思提示与批判性量规的非结构化技术环境中，所谓自主探索往往迅速退化为投机取巧的[[Cognitive Offloading|认知卸载]]：学生全盘依赖生成式 AI 产生终稿，表面上维持了高效独立交差的伪自主，实质上导致深层批判性思维与[[Creativity|创造性]]心智的严重侵蚀。（pp. 9–11）
 
 ---
 
 > [!contrast-table] 学习者自主性三大理论命题比较
-> | 命题维度 | 核心论断 | 因果作用机制 | 代表文献与实证载体 |
+> | 命题维度 | 核心论断 | 因果作用机制 | 代表[[Document\|文献]]与实证载体 |
 > |---|---|---|---|
 > | **认识论与元认知基石** | 自主性取决于批判思维能力与意义建构自信的双轨养成。 | 知识论探究破除被动接受，反思训练激活风险承担与自主表达。 | [[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]]; [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] |
 > | **技术析因机制脱钩** | 软件自主学习与教师主导教学存在异质效应与协同红利。 | 多臂析因试验剥离独立因果贡献，揭示软件自主需人际支架互补。 | McNally et al. (2018); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] |
@@ -176,20 +177,20 @@ updated: 2026-11-06
 > [!dev-timeline] 学习者自主性概念演进脉络
 > - **1970s–1980s — 欧洲成人与应用语言学奠基** 法国南锡大学 CRAPEL 中心（Holec, 1981）首次系统提出自主学习理论，旨在打破传统以教师为中心的语言灌输，确立学习者自我规划、执行与评估的主体地位。
 > - **1990s — 课堂反思、元认知与社会相互依存转向** Little (1991) 与 Dam (1995) 丰富了自主性的理论内涵，阐明自主性是在内部反思、元认知自评与同伴对话互动中生成的相互依存的自主，拓展了早期个人主义孤独学习的狭隘视阈。
-> - **2010s — 国际文凭跨学科素养与认识论深化** [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]] 与 [[Argument_Cole_2015_AJE|Cole et al. (2015)]] 将自主性拓展为现代教育的核心素养，依托 IB 知识论课程揭示认识论严谨性与元认知自信对培养自主思考者的决定性价值。
+> - **2010s — 国际文凭跨学科素养与认识论深化** [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]] 与 [[Argument_Cole_2015_AJE|Cole et al. (2015)]] 将自主性拓展为现代教育的[[21st Century Skills and Competencies Discourse|核心素养]]，依托 IB 知识论课程揭示认识论严谨性与元认知自信对培养自主思考者的决定性价值。
 > - **2015 — 激进自主学习转型的宏观滑坡审查** 萨尔格伦（[[Argument_Sahlgren_2015_CPS|Sahlgren, 2015, p. 47]]）结合瑞典教育统计局微观调查，揭示 1990 年代瑞典自主学习课时比例激增（26% 增至 41%）直接伴随其国际测验成绩的断崖式暴跌，从经验时序上反驳了激进自主化自发促成卓越的假设。
-> - **2018 — 大规模现场因果试验对自主学习的实证解构** EEF 在全英小学开展 ABRA 在线阅读多臂集群 RCT（McNally et al., 2018; [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]），运用析因设计将技术软件支持的自主学习与教师课堂辅导进行实验性剥离。
-> - **2020s — 智能技术整合与认识论自主** 伴随生成式 AI 普及，自主性研究转向探讨如何在算法便利诱惑下维持认识论警觉，防范认知卸载，构建自适应专业特长（[[Argument_Li_2026_CEAI|Li et al., 2026]]）。
+> - **2018 — 大规模现场因果试验对自主学习的实证解构** [[Education Endowment Foundation|EEF]] 在全英小学开展 ABRA 在线阅读多臂集群 RCT（McNally et al., 2018; [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]），运用析因设计将技术软件支持的自主学习与教师课堂辅导进行实验性剥离。
+> - **2020s — 智能[[Technology Infusion|技术整合]]与认识论自主** 伴随生成式 AI 普及，自主性研究转向探讨如何在算法便利诱惑下维持[[Epistemological Vigilance|认识论警觉]]，防范认知卸载，构建自适应专业特长（[[Argument_Li_2026_CEAI|Li et al., 2026]]）。
 
 ---
 
 > [!tension] 核心张力：自由探索能动性 vs 认知支架与外部引导
 > - **建构自主与自由探索立场（蓝方）** 倡导者强调认知不平衡与自主探索是知识建构的根本动力，学生应当拥有选择学习进度与课题的完全主体地位（Moon, 2008）。
-> - **支架互补与教学领导立场（红方）** 实证研究与认知心理学表明，人类工作记忆存在严格负荷约束；脱离教师结构化引导的极端自主在现实田野中必然诱发认知迷失与学业崩溃，尤其会对弱势背景学生造成严重伤害。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a)]]; [[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015)]]
+> - **支架互补与教学领导立场（红方）** 实证研究与认知心理学表明，人类[[Working Memory|工作记忆]]存在严格负荷约束；脱离教师结构化引导的极端自主在现实田野中必然诱发认知迷失与学业崩溃，尤其会对弱势背景学生造成严重伤害。[[Argument_Håkansson_2015_TT|(Håkansson, 2015a)]]; [[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015)]]
 
 > [!critique] 外部批评
 > - **主观自足的唯我论风险** 比斯塔与罗默（[[Argument_Rømer_2018_EPT|Rømer, 2018, p. 8]]）指出，将教育还原为个体内部的自主调节与自我监控，抽离了教学的实质意涵；真正的教育成长包含面向外部世界、向不可预见的教导与文化他者开放的被动维度。
-> - **技术乌托邦的技术替代神话** 宣称自适应算法软件可完全替代教师实现个性化自主学习的假设已被多项严谨因果试验证伪；软件自主若缺乏教师面对面深层支架，难以产生高阶学业增益。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021)]]
+> - **[[Techno-Utopianism|技术乌托邦]]的技术替代神话** 宣称自适应算法软件可完全替代教师实现个性化自主学习的假设已被多项严谨因果试验[[Falsification|证伪]]；软件自主若缺乏教师面对面深层支架，难以产生高阶学业增益。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021)]]
 
 > [!warning] 适用局限
 > 学习者自主性是渐进培育的心智素养而非先验具备的天赋；在基础学科教育与复杂任务中，前置的教师直接示范与结构化支架是实质自主能够成立的充要前提，不可过早撤除指导。
@@ -204,17 +205,17 @@ updated: 2026-11-06
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]; McNally et al. (2018) | 英格兰小学学童（ABRA 在线阅读试验） | 2x2 析因整群 [[Randomised Controlled Trials\|RCT]] | 技术软件辅助自主学习、教师直接小步辅导、阅读理解与流利度 | 多臂析因比较证实：单独使用技术软件自主自学组取得微弱正向增益，但与教师面对面结构化辅导相结合的多组分臂产生最大协同效益；系统剥离了技术自主与教师直接教学的独立因果贡献 | $p < .05$ | 证实教育技术支持的学习者自主学习具有情境依存性，其因果潜能高度依赖于教师人际支架的协同配合 |
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 澳大利亚私立与公立学校高中毕业生（$N = 432$） | 准实验对照设计与结构方程模型 | 批判性思维（WGCTA 测验）、探究主动性、学术成就 | 经历 TOK 课程训练的学生在推理独立性、证据权衡及自主探究取向上的标准化得分显著高于对照组 | $p < .01$ | 为课程促进学习者批判性自主思维提供了量化证据支撑 |
-> | [[Argument_Sahlgren_2015_CPS\|Sahlgren (2015, p. 47)]]; Statistics Sweden | 瑞典基础教育全国课堂调查与 PISA/TIMSS 追踪（1980–2003） | 全国纵向抽样调查与跨国测验时序对齐 | 独立自主学习占课时比例、每天多次自主学习学生比例及国际排位走势 | 独立自主学习占总课时比例从 1980 年代的 26% 飙升至 2000 年的 41%；每天多次独立自主自学的学生比例从 1995 年的 25% 翻倍至 2003 年的 50%；伴随瑞典 PISA 与 TIMSS 成绩遭遇欧洲最剧烈滑坡 | 官方抽样统计与测验全样本对齐 | 经验反驳了激进推行自主学习自发带来学业卓越的主张，揭示去结构化自决与成绩崩溃的时序关联 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 澳大利亚私立与公立学校高中毕业生（$N = 432$） | 准实验对照设计与结构方程模型 | 批判性思维（[[Watson-Glaser Critical Thinking Appraisal\|WGCTA]] 测验）、探究主动性、学术成就 | 经历 TOK 课程训练的学生在推理独立性、证据权衡及自主探究取向上的标准化得分显著高于对照组 | $p < .01$ | 为课程促进学习者批判性自主思维提供了量化证据支撑 |
+> | [[Argument_Sahlgren_2015_CPS\|Sahlgren (2015, p. 47)]]; Statistics Sweden | 瑞典基础教育全国课堂调查与 PISA/TIMSS 追踪（1980–2003） | 全国纵向抽样调查与跨国测验时序对齐 | 独立自主学习占课时比例、每天多次自主[[Learnology\|学习学]]生比例及国际排位走势 | 独立自主学习占总课时比例从 1980 年代的 26% 飙升至 2000 年的 41%；每天多次独立自主自学的学生比例从 1995 年的 25% 翻倍至 2003 年的 50%；伴随瑞典 PISA 与 TIMSS 成绩遭遇欧洲最剧烈滑坡 | 官方抽样统计与测验全样本对齐 | 经验反驳了激进推行自主学习自发带来学业卓越的主张，揭示去结构化自决与成绩崩溃的时序关联 |
 
 ---
 
 > [!example] 典型教学与干预案例
 > - **国际文凭（IB）知识论课程对自主探究的培养机制（[[Argument_Lakhani_2012_AKUIED|Lakhani, 2012]]）**
 >   - **打破标准答案迷思** 教师通过展示同一历史事件的多重矛盾史料，引导学生经历认知不协调，认识到知识的主观建构性与多元视角。
->   - **学生主导的探究展示** 要求学生自主从现实生活争议（如算法伦理、艺术真实性）中提炼知识问题，并独立设计辩护框架，由教师退居倾听者与同伴反驳者。
+>   - **学生主导的探究展示** 要求学生自主从现实生活争议（如算法伦理、艺术真实性）中提炼[[Knowledge Questions|知识问题]]，并独立设计辩护框架，由教师退居倾听者与同伴反驳者。
 >   - **元认知日志反思** 记录自身观点从二元对立向审慎包容演化的心智轨迹，确立深层智识自主。
-> - **英国 EEF ABRA 在线阅读多臂试验中的自主—支架协同（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]）**
+> - **英国 EEF ABRA 在线阅读[[Multi-Arm Trial|多臂试验]]中的自主—支架协同（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]）**
 >   - **软件独立自学阶段** 学生每日在电脑端自主完成 15 分钟基于语音识别与交互游戏的拼读闯关任务，软件提供即时正误反馈与自适应进度推演。
 >   - **教师深度介入与反思收住** 教师每周两次调取后台学习日志，对学生在自主闯关中遭遇的核心拼读瓶颈进行 20 分钟面对面结构化点拨，成功化解软件自学的疲劳与迷失效应。
 
@@ -226,7 +227,7 @@ updated: 2026-11-06
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 量化评估 IB 课程对学生批判性思维与独立探究能力的长期因果促进效应。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 总结 EEF 多臂析因试验经验，实证解构技术软件自主学习与教师主导辅导的独立效应与交互机制。
 > - [[Argument_Håkansson_2015_TT|Håkansson (2015a)]] — 比较元综合反思瑞典极端去结构化个人主义自学的实践灾难，确立结构化支架作为真自主前提的理论地位。
-> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 系统综述生成式 AI 时代学习者在人机协同中维持认识论警觉与抵御算法认知卸载的自主防御机制。
+> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]]生成式 AI 时代学习者在人机协同中维持认识论警觉与抵御算法认知卸载的自主防御机制。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从存在论教育学视角批判将自主学习还原为主观自足内部监控的唯我论倾向，重申教学面向外部他者开放的核心价值（p. 8）。
 
 ---
@@ -239,5 +240,5 @@ updated: 2026-11-06
 > | [[Metacognition]] | 概念 | 自主学习者监控与调节自身认知进程的关键心智能力。 |
 > | [[Scaffolding]] | 概念 | 培育自主性所必需的渐退式支架，防止去结构化掉队。 |
 > | [[Structured Teaching]] | 概念 | 与学习者自主性构成动态平衡的教学组织维度。 |
-> | [[Constructivist Paradigm]] | 概念 | 将学习者确立为能动意义建构主体的基础理论范式。 |
+> | [[Constructivist Paradigm]] | 概念 | 将学习者确立为能动意义建构主体的基础理论[[Paradigm\|范式]]。 |
 > | [[Cognitive Load Theory]] | 理论 | 解释缺乏支架的极端自主导致工作记忆过载的认知机制。 |

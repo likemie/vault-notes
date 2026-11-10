@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -42,6 +42,7 @@ related_facts:
   - "[[EU]]"
   - "[[World Trade Organization]]"
   - "[[GATS and Trade in Education Services]]"
+  - "[[Dimensions]]"
   - "[[Teaching and Learning - Towards the Learning Society]]"
   - "[[European Employment Strategy]]"
   - "[[Lisbon Strategy]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-10-30
 > [!citation-card] 关键条文
 > 共同体应当坚定明确地为教育和培训的政策与举措确立基本要求和长期目标，以促进构建一种新的增长、竞争力和就业模型；在此模型中，教育与培训发挥核心作用，并确保基本的机会均等以及欧洲教育和培训体系三维结构（教育、培训与文化）的协调发展。
 >
-> *The Community should set firmly and clearly the essential requirements and the long-term objectives for measures and policies [in education and training] in order to make it easier to develop a new model for growth, competitiveness and employment in which education and training play a key role and to ensure essential equality of opportunity and the coherent development of the three dimensions of the European system of education and training (education, training and culture).* (European Commission, 1993b, p. 122; cited in Pasias & Roussakis, 2009, p. 483)
+> *The Community should set firmly and clearly the essential requirements and the long-term objectives for measures and policies [in education and training] in order to make it easier to develop a new model for growth, competitiveness and employment in which education and training play a key role and to ensure essential equality of opportunity and the coherent development of the three [[Dimensions|dimensions]] of the European system of education and training (education, training and culture).* (European Commission, 1993b, p. 122; cited in Pasias & Roussakis, 2009, p. 483)
 
 ---
 

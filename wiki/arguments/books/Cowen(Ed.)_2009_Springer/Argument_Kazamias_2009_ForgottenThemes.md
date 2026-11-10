@@ -7,9 +7,9 @@ title: "Argument_Kazamias_2009_ForgottenThemes"
 argument_key: "Argument_Kazamias_2009_ForgottenThemes"
 argument_display_title: "Forgotten men, forgotten themes: The historical-philosophical-cultural and liberal humanist motif in comparative education"
 argument_kind: "book-chapter"
-argument_related_count: 89
-argument_related_level: 8
-argument_related_stars: "💎💎⭐⭐"
+argument_related_count: 93
+argument_related_level: 9
+argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
 authors:
   - "[[Andreas Kazamias|Kazamias, A. M.]]"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Historical-Philosophical-Cultural Motif]]"
   - "[[Empiricism]]"
   - "[[Determinism]]"
+  - "[[Transnational Education]]"
   - "[[Discourse]]"
   - "[[Rationalism in International Relations]]"
   - "[[Educational Meliorism]]"
@@ -66,6 +67,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Cultural Nationalism vs. Political Nationalism]]"
+  - "[[Nationalism]]"
   - "[[Factorial Interpretive Framework]]"
   - "[[Educational Decentralization]]"
   - "[[Incommensurability]]"
@@ -79,6 +81,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Epoché]]"
   - "[[Operationalization]]"
+  - "[[Early-Career Researchers]]"
   - "[[Doxa]]"
   - "[[Hypothesis]]"
   - "[[Humanistic Episteme]]"
@@ -110,6 +113,7 @@ related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Plato]]"
   - "[[Aristotle]]"
+  - "[[Francis Bacon]]"
   - "[[René Descartes]]"
   - "[[Jean-Jacques Rousseau]]"
   - "[[Johann Heinrich Pestalozzi]]"
@@ -129,7 +133,7 @@ related_theories:
   - "[[Behaviorism]]"
 status: draft
 created: 2026-09-06
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
@@ -196,7 +200,7 @@ updated: 2026-10-30
 
 > [!sub-claim] 1. 早期行政官员考察受制于描述性、功利借用与先验改良三重局限
 
-19 世纪初至中叶的比较教育发端存在明显的认知断裂：[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）在 1817 年试图仿效解剖学建立实证分类量表与普遍科学法则，而随后几十年主导跨国教育研究的却是一批行政官员与政策顾问的视察报告。（pp.37–38）
+19 世纪初至中叶的比较教育发端存在明显的认知断裂：[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）在 1817 年试图仿效解剖学建立实证分类量表与普遍科学法则，而随后几十年主导[[Transnational Education|跨国教育]]研究的却是一批行政官员与政策顾问的视察报告。（pp.37–38）
 
 > [!contrast-table] 19 世纪初中期比较教育早期[[Discourse|话语]]模式对照
 > | 比较维度 | 朱利安的实证科学构想（1817） | 行政官员与政策顾问考察话语（1830s–1860s） |
@@ -318,7 +322,7 @@ updated: 2026-10-30
 在政治改良诉求上，坎德尔推崇国家对社会政策的有限介入，倡导依托学校培育国际理解，以此构筑[[Cultural Nationalism vs. Political Nationalism|文化民族主义与政治民族主义]]的二元价值防线：（Herzog, 1960; Kazamias, 1963: 385; 2009: 47–49）
 
 > [!tension] 坎德尔论[[Cultural Nationalism vs. Political Nationalism\|文化民族主义与政治民族主义]]的二元价值分野
-> - **文化民族主义（Cultural Nationalism）** 倡导多元文化传承、精神自主与思想包容，坚信依托学校教育培育公民批判理智与国际理解（International understanding），筑牢和平共处的人道主义底线。（Kandel, 1933; Kazamias, 1963: 385）
+> - **文化[[Nationalism|民族主义]]（Cultural Nationalism）** 倡导多元文化传承、精神自主与思想包容，坚信依托学校教育培育公民批判理智与国际理解（International understanding），筑牢和平共处的人道主义底线。（Kandel, 1933; Kazamias, 1963: 385）
 > - **政治民族主义（Political Nationalism）** 沦为军国主义扩张与极权国家崇拜的政治工具，推行同质化灌输与狂热盲从，将教育系统彻底异化为排他性霸权扩张与对外征服的动员机器。（Herzog, 1960; pp.48–49）
 
 然而，卡扎米亚斯结合自身青年时期的学术批判（Kazamias, 1961, 1963），深刻指出坎德尔的政治国家[[Analytic Framework|分析框架]]存在三大内在缺陷：
@@ -385,7 +389,7 @@ updated: 2026-10-30
 >
 > - **理性主义时代的启蒙科学与世俗国家塑造（Rationalism）**
 >
->   培根、[[René Descartes\|笛卡尔]]、洛克、[[Jean-Jacques Rousseau\|卢梭]]与康德掀起的科学革命与[[Enlightenment\|启蒙运动]]，以人类自主理性、经验观察与自然法则彻底驱逐了传统神学权威与经院残余。启蒙哲人坚信人性的无限可塑性与通过教育实现社会进步的历史乐观主义；卢梭《爱弥儿》开创遵循儿童天性的自然主义教育，[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]推进现代要素教学法。在政治维度上，民族主权国家崛起并将教育视为培育公民国家认同、传播科学知识与强化[[Competitiveness|国家竞争力]]的战略杠杆，国家政权逐步从教会手中收回教育领导权（如普鲁士 1794 年《普通邦法》与法国大革命及拿破仑帝国大学），由此确立了由国家集中规划的现代公共教育系统。
+>   [[Francis Bacon|培根]]、[[René Descartes\|笛卡尔]]、洛克、[[Jean-Jacques Rousseau\|卢梭]]与康德掀起的科学革命与[[Enlightenment\|启蒙运动]]，以人类自主理性、经验观察与自然法则彻底驱逐了传统神学权威与经院残余。启蒙哲人坚信人性的无限可塑性与通过教育实现社会进步的历史乐观主义；卢梭《爱弥儿》开创遵循儿童天性的自然主义教育，[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]推进现代要素教学法。在政治维度上，民族主权国家崛起并将教育视为培育公民国家认同、传播科学知识与强化[[Competitiveness|国家竞争力]]的战略杠杆，国家政权逐步从教会手中收回教育领导权（如普鲁士 1794 年《普通邦法》与法国大革命及拿破仑帝国大学），由此确立了由国家集中规划的现代公共教育系统。
 >
 > - **工业科学技术时期的大众教育与人性异化危机（Science and Technology）**
 >
@@ -449,7 +453,7 @@ updated: 2026-10-30
 
 > [!sub-claim] 2. 卡扎米亚斯反思并检讨历史学派混淆实然与应然的[[Whiggism|辉格史观]]及国民性格循环论证
 
-作为战后青年学者，卡扎米亚斯早在 1961 年与 1963 年便对老一代历史学者展开过尖锐剖析，指出其确实存在两大方法论硬伤：
+作为战后[[Early-Career Researchers|青年学者]]，卡扎米亚斯早在 1961 年与 1963 年便对老一代历史学者展开过尖锐剖析，指出其确实存在两大方法论硬伤：
 
 > [!critique-method] 卡扎米亚斯对历史学派两大方法论陷阱的早期批判反思
 > - **混淆实然与应然引发的[[Whiggism\|辉格史观]]（Whiggism）** 卡扎米亚斯援引著名史学家赫伯特·巴特菲尔德（Herbert Butterfield）的经典论断，批评坎德尔试图在历史考察中寄托民主改良愿望，将现状是怎样的（What is）与未来应当怎样（What ought to be）混为一谈。历史学家的天职是客观厘清事物为何发生，一旦历史写作被先验的道德改良狂热所绑架，必然堕落为剪裁史料的辉格主义。（pp.54–55）

@@ -9,7 +9,7 @@ aliases:
 summary: "主张个体首要伦理忠诚应归于全人类共同体而非特定民族国家的规范哲学与教育思潮。在比较教育中主张超越狭隘爱国主义培育世界公民；在政治哲学与战略治理中则引发深层张力——批评者指出抽象世界主义常制造公共道德真空，弱化民主政体的防卫意志与制度凝聚力。"
 type: concept
 domain: "comparative-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
   - theme/national-identity
   - theme/moral-philosophy
 related_concepts:
+  - "[[Nationalism]]"
   - "[[Pride in Learning]]"
   - "[[Post-Nationalism]]"
   - "[[Paradigm]]"
@@ -49,13 +50,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Cosmopolitanism
-> **世界主义（Cosmopolitanism）** 是一种主张所有人类在道德上均属于单一普遍共同体的规范政治与伦理哲学。它认为个体的最高道德责任应当跨越种族、地域与国界，将普世人权、人类尊严与全球正义置于对特定民族国家的政治忠诚之上。在教育研究中，它延伸为旨在培养学生全球视野与跨文化同理心的世界公民教育；在当代国家建构与地缘安全研究中，它构成了批判狭隘民族主义的理论支柱，同时也因可能消解本土共同体纽带、掏空公共认同与防卫意志而面临重大反思。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 198–201)]]
+> **世界主义（Cosmopolitanism）** 是一种主张所有人类在道德上均属于单一普遍共同体的规范政治与伦理哲学。它认为个体的最高道德责任应当跨越种族、地域与国界，将普世人权、人类尊严与全球正义置于对特定民族国家的政治忠诚之上。在教育研究中，它延伸为旨在培养学生全球视野与跨文化同理心的世界公民教育；在当代国家建构与地缘安全研究中，它构成了批判狭隘[[Nationalism|民族主义]]的理论支柱，同时也因可能消解本土共同体纽带、掏空公共认同与防卫意志而面临重大反思。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 198–201)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向超越特定政体边界的普遍人类道德连带机制，主张将道德义务扩展至全人类尺度。

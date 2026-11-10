@@ -10,7 +10,7 @@ summary: "元分析中衡量跨研究总变异中由真实异质性而非抽样�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 15
+method_related_count: 16
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Scale of Measurement]]"
   - "[[Study Population and Sample]]"
+  - "[[Homophily]]"
   - "[[Research Utilization]]"
   - "[[Critical Thinking]]"
 related_theories: []
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 ---
@@ -67,7 +68,7 @@ updated: 2026-10-29
 >
 > 其中：
 > - $Q$ 为加权离差平方和统计量；
-> - $k$ 为纳入研究数，$k - 1$ 为同质性假定下的期望离差。
+> - $k$ 为纳入研究数，$k - 1$ 为[[Homophily|同质性]]假定下的期望离差。
 >
 > **方差分解等价表述**（Higgins & Thompson, 2002）：
 > $$I^2 = \frac{\tau^2}{\tau^2 + s^2} \times 100\%$$

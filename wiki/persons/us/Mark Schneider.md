@@ -6,7 +6,7 @@ summary: "美国政治学者与教育科研管理专家，曾任美国教育科�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -44,6 +44,7 @@ related_facts:
   - "[[EdStats]]"
   - "[[National Assessment of Educational Progress]]"
 related_persons:
+  - "[[Ben Levin]]"
   - "[[Robert Slavin]]"
   - "[[Vivian Tseng]]"
   - "[[Dirk Van Damme]]"
@@ -54,7 +55,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -105,7 +106,7 @@ updated: 2026-10-26
 > *Imagine a medical trial where the intervention consisted of a bag of pills – some green, some red, some yellow. Patients take these pills and at the end of the experiment, we find that these pills improved outcomes. It is unlikely that any medical review board would ever approve such a treatment and the results would likely (and deservedly) be denied publication. Yet, far too many education interventions are exactly like the bag of pills – a collection of parts, many of which have never been clearly identified, let alone evaluated.*
 
 > [!citation-card] 警惕自编测验过度对齐造成的[[Effect Size\|效应量]]虚高
-> 正如斯莱文（Robert Slavin, 2014）所指出，由干预措施开发者自身设计的测验往往出现过度匹配（over-aligned），其效应量经常数倍于使用独立测验所获得的结果。这常常营造出干预成功的假象。为了确保研究结果真实可靠并具跨研究可比性，[[Institute of Education Sciences\|IES]] 资助建立了 EdInstruments 开放测验工具库，积极鼓励研究者采用高质量的第三方通用测量。（pp. 207–208）
+> 正如斯[[Ben Levin|莱文]]（Robert Slavin, 2014）所指出，由干预措施开发者自身设计的测验往往出现过度匹配（over-aligned），其效应量经常数倍于使用独立测验所获得的结果。这常常营造出干预成功的假象。为了确保研究结果真实可靠并具跨研究可比性，[[Institute of Education Sciences\|IES]] 资助建立了 EdInstruments 开放测验工具库，积极鼓励研究者采用高质量的第三方通用测量。（pp. 207–208）
 >
 > *Slavin (2014) pointed out that tests made by the developers of interventions are often over-aligned, producing effect sizes often several times larger than those found with independent tests. This can create an illusion of success. To address this, IES supported the creation of EdInstruments, encouraging the use of high-quality, independent measures.*
 

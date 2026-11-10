@@ -8,7 +8,7 @@ aliases:
 summary: "非英语母语国家顶尖高等教育机构为了破除国际生源语言壁垒、提升全球学术影响力与国际化水平，在本科与研究生阶段以英语讲授学术专业课程并授予学位的课程教学机制。"
 type: concept
 domain: "higher-education"
-related_count: 6
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,8 @@ tags:
 related_arguments:
   - "[[Argument_Custer_2021_AidData]]"
 related_concepts:
+  - "[[Study Abroad]]"
+  - "[[Scientific Mobility]]"
   - "[[Heterogeneity]]"
   - "[[Competitiveness]]"
 related_facts:
@@ -30,13 +32,13 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] English-Medium Instruction in Higher Education
-> 高等教育全英文授课（English-Medium Instruction in Higher Education, EMI），指在非英语作为母语或官方主导语言的国家的大学及科研院所中，直接采用英语作为课堂讲授、教材选用、学术考核和毕业学位成果撰写主要媒介语言的教学与课程组织机制，旨在快速破除跨国留学生的民族语言壁垒，直接接入全球高等教育与学术流动市场。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 23, 27–28)]]
+> 高等教育全英文授课（English-Medium Instruction in Higher Education, EMI），指在非英语作为母语或官方主导语言的国家的大学及科研院所中，直接采用英语作为课堂讲授、教材选用、学术考核和毕业学位成果撰写主要媒介语言的教学与课程组织机制，旨在快速破除跨国[[Study Abroad|留学]]生的民族语言壁垒，直接接入全球高等教育与[[Scientific Mobility|学术流动]]市场。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 23, 27–28)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向非英语国家大学在教学语言层面的战略性制度借径，通过吸纳全球学术通用语（Lingua Franca）扩大国际办学辐射面。

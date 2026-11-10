@@ -10,9 +10,9 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 18
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: higher-education-institution
 headquarters: 雪兰莪州雪邦（马来西亚）
@@ -30,11 +30,13 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Grandes Ecoles]]"
   - "[[International Education]]"
+  - "[[Study Abroad]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Public Diplomacy]]"
   - "[[International Branch Campus]]"
   - "[[Soft Power]]"
   - "[[South-South Cooperation]]"
+  - "[[Theoretical Standpoint]]"
   - "[[People-to-People Connectivity]]"
   - "[[Document]]"
 related_theories: []
@@ -52,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -93,7 +95,7 @@ updated: 2026-11-02
 > - **最高决策机构（分校理事会）** 由厦门[[Grandes Ecoles|大学校]]方领导、马来西亚在地政商界贤达与[[International Education|国际教育]]专家共同组成，负责审定重大发展战略、财务预算与学科布局。
 > - **执行管理团队（校长与行政团队）** 由厦门大学选派资深学者出任分校校长与管理骨干，协同本土专业行政团队，负责日常教学运行与法务合规。
 > - **学术委员会与质量保证机构** 设立独立的学术委员会，对接马来西亚学术资格鉴定机构（MQA）与中国教育部学位认证中心双重标准。
-> - **多元文化师生社群** 汇聚来自中国本土的公派骨干师资、国际全球招聘学者与多国留学生，构建跨文化包容共生的大学社区。
+> - **多元文化师生社群** 汇聚来自中国本土的公派骨干师资、国际全球招聘学者与多国[[Study Abroad|留学]]生，构建跨文化包容共生的大学社区。
 
 > [!pathways] 业务运行机制
 > - **全英文国际化课程体系与双重互认** 所有专业课程均采用全英文授课，教学大纲严格对接国际专业认证标准，毕业证书与学位由厦门大学本部统一颁授并获国际通认。
@@ -153,7 +155,7 @@ updated: 2026-11-02
 > |:-----|:-----|:-----|
 > | [[International Branch Campus]] | Concept | 厦门大学马来西亚分校是中国高等教育在海外创设全功能国际分校的标志性实体。 |
 > | [[Educational Diplomacy]] | Concept | 厦大马校作为中国面向东南亚开展教育外交与软实力延伸的三大支柱之一。 |
-> | [[Soft Power]] | Concept | 大国通过在海外设立高水平大学校区输出制度声誉与文化认同的理论透镜。 |
+> | [[Soft Power]] | Concept | 大国通过在海外设立高水平大学校区输出制度声誉与文化认同的[[Theoretical Standpoint\|理论透镜]]。 |
 > | [[Double First-Class Initiative]] | Fact (Policy) | 厦门大学作为国家双一流建设高校承担走出去与服务国家大战略的顶层政策依托。 |
 > | [[ASEAN]] | Fact (Organization) | 厦大马校办学所在区位与重点辐射的东南亚十国区域治理平台。 |
 > | [[Belt and Road Initiative]] | Fact (Program) | 厦大马校深度融入并服务的一带一路[[People-to-People Connectivity\|民心相通]]与互联互通战略工程。 |

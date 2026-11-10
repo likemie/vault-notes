@@ -9,7 +9,7 @@ aliases:
 summary: "依托网络交互痕迹与数字媒体传播数据，测度学术成果在学术界与公众领域即时注意力与多元社会影响力的补充性评价指标体系"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -34,6 +34,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[SciSciNet]]"
+  - "[[Crossref]]"
   - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-31
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -123,7 +124,7 @@ updated: 2026-11-03
 > - **2010 — 《Altmetrics 宣言》发表** 杰森·普里姆（Jason Priem）等学者正式发表倡议，呼吁利用网络足迹建立超越传统期刊同行评审与引文的多元科研评价体系。
 > - **2012–2015 — 商业聚合平台与出版商整合** Altmetric.com 与 PlumX 等商业服务相继建立标准化评分（如 Altmetric Attention Score），主流国际期刊平台在论著首页嵌入替代计量徽章。
 > - **2015 至今 — 批判性审思与互补定位确立** 文献计量学界完成大规模实证检验，证实替代指标与被引指标呈低度相关，学界达成共识将其定位于科研评价的补充性参考，禁止作为刚性考核硬指标。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 246–248)]]
-> - **2023 — 开放数据湖工程对齐与融合** Lin et al. 构建 [[SciSciNet]]，通过 Crossref Event Data 将 5,584 万条推特讨论与 59.5 万条全球新闻报道精准映射至 1.34 亿篇学术成果主表，使大规模检验替代计量注意力与同行评议、基金转化之间的动态关联具备开放数据基础。[[Argument_Lin_2023_SciData|(Lin et al., 2023, pp. 2–5)]]
+> - **2023 — 开放数据湖工程对齐与融合** Lin et al. 构建 [[SciSciNet]]，通过 [[Crossref]] Event Data 将 5,584 万条推特讨论与 59.5 万条全球新闻报道精准映射至 1.34 亿篇学术成果主表，使大规模检验替代计量注意力与同行评议、基金转化之间的动态关联具备开放数据基础。[[Argument_Lin_2023_SciData|(Lin et al., 2023, pp. 2–5)]]
 
 ---
 

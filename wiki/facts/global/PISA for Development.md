@@ -11,9 +11,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 21
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2014–至今"
 official_website: "https://www.oecd.org/pisa/pisa-for-development/"
@@ -25,7 +25,9 @@ tags:
   - theme/development-education
   - theme/global-governance
 related_concepts:
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Floor and Ceiling Effects]]"
+  - "[[Policy Translation]]"
   - "[[Grade Retention]]"
   - "[[Variable]]"
   - "[[Learning Crisis]]"
@@ -53,13 +55,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 项目定位
-> 发展中国家[[PISA\|国际学生评估项目]]（PISA for Development，PISA-D）是[[OECD\|经合组织]]（[[OECD]]）于 2014 年启动的战略性定制测评工程，旨在通过改进 [[PISA]] 测量工具以适应中低收入国家的教育现实；标志着经合组织正式打破传统富国俱乐部边界，跨界进军全球南方，与[[World Bank\|世界银行]]和[[UNESCO\|联合国教科文组织]]争夺全球基础素养监测的制度主导权。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 544–545)]]
+> 发展中国家[[PISA\|国际学生评估项目]]（PISA for Development，PISA-D）是[[OECD\|经合组织]]（[[OECD]]）于 2014 年启动的战略性定制测评工程，旨在通过改进 [[PISA]] 测量工具以适应中低收入国家的教育现实；标志着经合组织正式打破传统富国俱乐部边界，跨界进军全球南方，与[[World Bank\|世界银行]]和[[UNESCO\|联合国教科文组织]]争夺全球[[Foundational Literacy and Numeracy|基础素养]]监测的制度主导权。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 544–545)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2014 年正式立项启动试点研发，2014–2018 年推进在校与校外青少年的野外实测，其工具改良成果于 2020 年代全盘被常规主线 PISA 吸收整合。
@@ -74,7 +76,7 @@ updated: 2026-10-26
 > [[PISA]]-D 的核心假说认为：全球南方国家无法通过机械套用发达国家的测验直接指导改革，必须通过扩展低阶能力测量刻度并打通校外家庭抽样，建立能够灵敏反映极端贫困与师资匮乏背景的跨国量化坐标系，从而为落实[[UN Sustainable Development Goals\|联合国可持续发展目标]]（[[UN Sustainable Development Goals\|SDG 4]]）提供科学基准。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 544–545)]]
 
 > [!policy-design] 方案设计
-> - **项目目标** 开发适应中低收入国家认知水平的普适性测评量表，构建覆盖在校与校外青少年的统一评估架构，提升伙伴国自主实证分析与政策转译能力。
+> - **项目目标** 开发适应中低收入国家认知水平的普适性测评量表，构建覆盖在校与校外青少年的统一评估架构，提升伙伴国自主实证分析与[[Policy Translation|政策转译]]能力。
 > - **覆盖对象** 试点国正规学校 15 岁在校生（Strand A & B）以及深入社区入户抽样的 14–16 岁失学或严重[[Grade Retention\|留级]]青少年（Strand C）。
 > - **干预措施** 细化 1 级以下能力等级划分（拆分为 1a、1b、1c 三级细粒度阶梯）；增加低难度情境阅读与数学题比重；增设本土贫困、家庭语言差异及基础设施匮乏背景[[Variable\|变量]]。
 > - **实施控制** 采用纸笔测验与平板入户调查并行模式，建立严格的跨国等值化参数锚定规程，确保其得分与主线 PISA 量表绝对互通。

@@ -8,7 +8,7 @@ summary: "美国哲学家、心理学家与教育改革家，实用主义与进�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 71
+person_related_count: 73
 person_related_level: 7
 person_related_stars: "💎💎⭐"
 person_related_color: "#fef3c7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Progressive Education]]"
   - "[[Empiricism]]"
+  - "[[Transnational Education]]"
   - "[[Engineering Mindset]]"
   - "[[Epistemology]]"
   - "[[Education as Growth]]"
@@ -33,6 +34,7 @@ related_concepts:
   - "[[Active Learning]]"
   - "[[Recontextualization]]"
   - "[[Democratic Education]]"
+  - "[[Lecturing]]"
   - "[[Cultural Diplomacy]]"
   - "[[Critical Thinking]]"
   - "[[Reflexivity]]"
@@ -57,12 +59,12 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Theory of Knowledge]]"
   - "[[Technological Republic]]"
-  - "[[Normal School]]"
   - "[[Habituation]]"
   - "[[Visible Learning]]"
   - "[[Performance Pay]]"
   - "[[Praxis]]"
   - "[[Dialogue in Education]]"
+  - "[[Normal School]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
@@ -72,6 +74,7 @@ related_persons:
   - "[[Stanislav Shatskii]]"
   - "[[Tao Xingzhi]]"
   - "[[Paulo Freire]]"
+  - "[[John Hattie]]"
   - "[[Bob Darwish]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
@@ -80,7 +83,6 @@ related_persons:
   - "[[Hu Shi]]"
   - "[[Jiang Menglin]]"
   - "[[Robert Cowen]]"
-  - "[[John Hattie]]"
   - "[[Ivan Snook]]"
   - "[[Thomas Aastrup Rømer]]"
 related_facts:
@@ -102,20 +104,20 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国哲学家、心理学家、教育改革家与公共知识分子；[[Pragmatic Paradigm|实用主义]]、功能心理学与[[Progressive Education|进步教育]]核心代表人物；曾任芝加哥大学系主任、哥伦比亚大学哲学与教育学教授。
-> - **核心角色** 在教育哲学、[[Empiricism|经验论]]、探究理论、跨国教育转移网络乃至现代[[Engineering Mindset|工程思维]][[Epistemology|认识论]]中担任关键奠基节点；提出“[[Education as Growth|教育即生长]]（Education is Growth）”、“学校即社会”与“民主作为联合生活方式”的解释框架，深刻重构了现代教育、实验探究与公共生活关系。
+> - **核心角色** 在教育哲学、[[Empiricism|经验论]]、探究理论、[[Transnational Education|跨国教育]]转移网络乃至现代[[Engineering Mindset|工程思维]][[Epistemology|认识论]]中担任关键奠基节点；提出“[[Education as Growth|教育即生长]]（Education is Growth）”、“学校即社会”与“民主作为联合生活方式”的解释框架，深刻重构了现代教育、实验探究与公共生活关系。
 > - **代表贡献** 奠定[[Progressive Education|进步教育]]与[[Pragmatic Paradigm|实用主义]]教育[[Paradigm|范式]]；提出基于“做”（doing）的探究与以生长为终极标准的[[Active Learning|主动学习]]论；发表《实用主义美国》（*Pragmatic America*, 1922）倡导踏入具体事物激流的经验实验态度；推动1919–1921年中国[[New Education Movement|新教育运动]]及美苏跨国教育传播与[[Recontextualization|再脉络化]]（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009]]；[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024]]；[[Argument_Darwish_2009_Queens|Darwish, 2009]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025]]）。
 
 > [!citation-card] 杜威思想在跨国传播中的悖论与再重构
 > 虽然[[Democratic Education|民主教育]]的理想与渐进式改革在杜威的著作和演讲中是一致且和谐的，但它们之间的关系在民国时期的中国却变得复杂得多，在那里，教育民主化的实现需要激进的变革。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.611]]）
 >
-> *While the ideal of democratic education and gradual and incremental reform were consistent and in harmony with each other in Dewey's writings and lectures, their relationship turned out to be much more complex in Republican China, where the actualisation of democracy in education would require radical changes.*
+> *While the ideal of democratic education and gradual and incremental reform were consistent and in harmony with each other in Dewey's writings and [[Lecturing|lectures]], their relationship turned out to be much more complex in Republican China, where the actualisation of democracy in education would require radical changes.*
 
 ---
 

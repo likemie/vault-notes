@@ -8,7 +8,7 @@ aliases:
 summary: "Merton (1968) 提出、经 Schulze-Cleven et al. (2017) 制度化并由 Wang and Barabási (2021) 拓展至科学计量与引文网络的概念，描述个体声望溢价、机构评估拨款循环及优先连接机制如何驱动学术资源与注意力持续向既有优势方集中。"
 type: concept
 domain: "higher-education"
-related_count: 45
+related_count: 49
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -22,13 +22,13 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Global Universities Rankings]]"
+  - "[[Quasi-market]]"
   - "[[Early-Career Researchers]]"
   - "[[Paradigm]]"
   - "[[Quasi-markets in Higher Education]]"
   - "[[Performance Indicators]]"
   - "[[Non-monetary Competition]]"
   - "[[Document]]"
-  - "[[Screening Off]]"
   - "[[Citation Distribution]]"
   - "[[New Public Management]]"
   - "[[Creativity]]"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Literature Search]]"
   - "[[Variable]]"
+  - "[[Cumulative Innovation]]"
   - "[[Status Bias in Peer Review]]"
   - "[[Academic Inbreeding]]"
   - "[[Scientific Creativity]]"
@@ -54,12 +55,14 @@ related_methods:
   - "[[Disruption Index]]"
 related_persons:
   - "[[Robert K. Merton]]"
+  - "[[Ben Levin]]"
   - "[[Santo Fortunato]]"
   - "[[Derek de Solla Price]]"
   - "[[Albert-László Barabási]]"
 related_facts:
   - "[[EU]]"
   - "[[Marie Skłodowska-Curie Actions]]"
+  - "[[OpenAlex]]"
 related_arguments:
   - "[[Argument_Schulze-Cleven_2017_HE]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
@@ -71,10 +74,11 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
   - "[[Argument_Chen_2025_HSSC]]"
   - "[[Argument_Haubrock_2026_NHB]]"
+  - "[[Argument_Hao_2026_Nature]]"
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-11-08
+updated: 2026-11-11
 ---
 
 ---
@@ -83,7 +87,7 @@ updated: 2026-11-08
 > 学术马太效应（Matthew Effect in Academia）源自[[Robert K. Merton|罗伯特·K·默顿]]（Robert K. Merton, 1968）对科学社会学中优势累积现象的经典概括，描述已有崇高声望的学者在同行评审、合作成果所有权确认及学术引文中获得不成比例的认可；[[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]]将其进一步概念化为制度化的马太效应（institutionalized Matthew effect），揭示当代高等教育通过卓越评估、竞争性拨款及[[Global Universities Rankings|全球大学排名]]，使办学资金、声誉资本与顶尖人才系统性向头部机构集聚；[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Wang and Barabási (2021)]]则将这一机制数理化为无标度引文网络中的优先连接动力学，阐明早期可见度与声望如何通过正反馈滚雪球效应形成重尾分布。
 
 > [!concept-lens|notitle] 概念透镜
-> - **含义** 指涉学术界中优势积累的自增强正反馈循环，既包含个体微观声望对同行认知评价的信号替代，也包含中观大学组织通过评估准市场对资源的结构性吸附，以及宏观引文网络对既有节点的优先连接。
+> - **含义** 指涉学术界中优势积累的自增强正反馈循环，既包含个体微观声望对同行认知评价的信号替代，也包含中观大学组织通过评估[[Quasi-market|准市场]]对资源的结构性吸附，以及宏观引文网络对既有节点的优先连接。
 > - **用途** 帮助研究者透视同行评审偏倚、[[Early-Career Researchers|青年学者]]合作声誉被截留、高校两极分化加剧及学术引文极度不平等的深层制度与网络动力学成因。
 > - **边界** 学术马太效应侧重于累积优势的正反馈过程，无法涵盖学术[[Paradigm|范式]]转移时的颠覆性重构，也无法完全否定高内生适应度成果实现后发赶超的动力学可能。
 
@@ -92,7 +96,7 @@ updated: 2026-11-08
 >
 > *The Matthew effect consists in the accruing of greater increments of recognition for particular scientific contributions to scientists of considerable repute and the withholding of such recognition from scientists who have not yet made their mark.*
 
-> [!citation-card|notitle] 舒尔茨-克莱文论[[Quasi-markets in Higher Education|高等教育准市场]]与制度化马太效应
+> [!citation-card|notitle] 舒尔茨-克[[Ben Levin|莱文]]论[[Quasi-markets in Higher Education|高等教育准市场]]与制度化马太效应
 > 作为制度化的马太效应，即公共与社会资源向已有资源的优势机构进一步累积，这一学术版本的准市场在众多国家已演进为高等教育体系的核心资源配置机制。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, p. 801)]]
 >
 > *As an institutionalized Matthew effect—the accumulation of resources to those institutions already having them—this academic version of a 'quasi-market' has become the dominant allocation mechanism in several countries.*
@@ -116,7 +120,7 @@ updated: 2026-11-08
 
 > [!feature] 核心要素
 > - **微观声誉溢价（Reputational Premium）** 在同行评审与成果接收过程中，知名学者与顶尖机构标签充当快速质量信号，在评审专家面临信息过载时发挥启发式替代功能。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 29–31)]]
-> - **合作声誉截留（Credit Usurpation）** 在跨资历学者合作署名中，学术共同体习惯将整体创新权归属于成名学者，导致青年学者的实质劳动与独创贡献被系统性[[Screening Off|遮蔽]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 147–150)]]
+> - **合作声誉截留（Credit Usurpation）** 在跨资历学者合作署名中，学术共同体习惯将整体创新权归属于成名学者，导致青年学者的实质劳动与独创贡献被系统性遮蔽。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 147–150)]]
 > - **中观拨款-声誉螺旋（Funding-Reputation Spiral）** 高等教育体系中评估得分高的高校获得更多质量挂钩拨款与社会捐赠，得以改善科研条件并虹吸顶尖人才，在后续评估与排名中巩固领先优势。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 798–802)]]
 > - **宏观优先连接网络（Preferential Attachment）** 学者顺沿参考文献拓展检索的微观引文习惯，使已被高频引用的经典论著获得更高的新增被引概率，推动[[Citation Distribution|引文分布]]形成宏观幂律重尾。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 185–186)]]
 
@@ -228,7 +232,7 @@ updated: 2026-11-08
 > | [[Argument_Haubrock_2026_NHB\|Haubrock et al. (2026)]] | 法国国家研究署（ANR）经费库与 2025 [[EU\|欧盟]] [[Marie Skłodowska-Curie Actions\|MSCA]] 博士后奖学金申请全量数据 | 竞争性科研经费分布计量与资助选择分析 | 头部机构经费集中度与资助竞争淘汰率 | 法国前 20% 头部机构吸纳全法 80% 竞争性总经费池；MSCA 奖学金申请 17,066 份中 92.8% 合格，但仅 9.6%（1,610 项）获批，要求评审总评超 96 分；高风险研究资助受挫率达 42% | 欧洲多国官方基金大数据交叉验证 | 实证揭示资助体系中极度严苛的准入与资源向头部过度倾斜加剧了马太效应并挤出边缘颠覆性探索 |
 > | [[Argument_Chen_2025_HSSC\|Chen et al. (2025)]] | 21,271 名经历爆发期的经济学家长周期职业轨迹 | 面板计量回归与[[Instrumental Variables\|两阶段最小二乘法]]（2SLS） | 累积被引对成果颠覆性（[[Disruption Index\|CD 指数]]）的影响 | 累积被引对颠覆性呈现显著负向效应（$\beta = -0.126$），控制内生性后负向关联依然稳健 | 回归模型高度显著（$p < .001$） | 证实学术声誉与常规被引的马太效应积累会促使学者深耕既有范式，从而挤出范式颠覆型研究 |
 > | [[Argument_Heinze_2009_RP\|Heinze et al. (2009, pp. 614, 620–621)]] | 欧美纳米科技与人类遗传学 20 起重大突破实验室历时追踪 | 多案例回溯与访谈（$N=68$） | 突破产出时的团队规模及突破后声望资源倾斜带来的规模演化 | 突破全部（20/20）由 2 至 8 人小团队或中团队做出；突破后声望与大额资助倾斜驱使团队普遍膨胀至 15–30 人以上，导致 PI 行政超载并削弱后续突破能力 | 历史个案对比分析 | 实证揭示资助与声望向成名团队过度倾斜的马太效应，在微观组织层面诱发团队超载并损害实质创造力 |
-> | [[Argument_Hao_2026_Nature\|Hao et al. (2026)]] | OpenAlex 数据库 2,740.5 万篇自然科学文献引文网络（跨越 6 个学科领域） | 引文累积分布、基尼系数测算与配对网络距离分析 | 引文分布基尼系数、前 20% 高引集中度与后续引文卷入度 | AI 成果引文基尼系数达到 0.754（非 AI 成果为 0.690）；前 22.20% 的顶级论著吸纳 80% 的总引用，前 54.14% 吸纳 95% 引用；后续研究卷入度降低 22% | 双侧 $t$ 检验高度显著（$t = 27.86, p < .001, df = 198$） | 证实 AI 驱动研究形成以明星成果为中心的星状发散结构，显著加剧引文注意力的马太效应与认可度极化 |
+> | [[Argument_Hao_2026_Nature\|Hao et al. (2026)]] | [[OpenAlex\|OpenAlex 数据库]] 2,740.5 万篇自然科学文献引文网络（跨越 6 个学科领域） | 引文累积分布、基尼系数测算与配对网络距离分析 | 引文分布基尼系数、前 20% 高引集中度与后续引文卷入度 | AI 成果引文基尼系数达到 0.754（非 AI 成果为 0.690）；前 22.20% 的顶级论著吸纳 80% 的总引用，前 54.14% 吸纳 95% 引用；[[Cumulative Innovation\|后续研究]]卷入度降低 22% | 双侧 $t$ 检验高度显著（$t = 27.86, p < .001, df = 198$） | 证实 AI 驱动研究形成以明星成果为中心的星状发散结构，显著加剧引文注意力的马太效应与认可度极化 |
 
 ---
 

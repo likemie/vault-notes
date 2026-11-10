@@ -4,10 +4,10 @@ aliases: ["研究伦理", "研究伦理规范", "research ethics in social scien
 summary: "贯穿研究全过程的一套伦理原则和实践策略，涵盖研究前 IRB 审批与知情同意、研究中避免欺骗与剥削、研究后诚实报告与数据保护，各专业协会均发布伦理守则作为行业标准"
 type: concept
 domain: "research-methodology"
-related_count: 38
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags: [method/research-ethics, theme/research-governance]
 related_concepts:
   - "[[Costs Benefits Ratio in Research Ethics]]"
@@ -20,6 +20,9 @@ related_concepts:
   - "[[Purpose Statement]]"
   - "[[Research Purpose]]"
   - "[[Conflict of Interest in Research]]"
+  - "[[Doctoral Dissertation]]"
+  - "[[Guest Authorship]]"
+  - "[[Ghost Authorship]]"
   - "[[Falsification]]"
   - "[[Socioeconomic Status]]"
   - "[[Non-maleficence and Beneficence in Research]]"
@@ -56,7 +59,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -158,11 +161,11 @@ updated: 2026-10-22
 
 **选择无利益关系的研究场所。** 选择研究者对结果没有个人利害关系的场所，以保持[[Quantitative Research|量化研究]]的客观性或[[Qualitative Research|质性研究]]中多元视角的完整呈现。
 
-**发表署名协商。** 若计划发表（如学位论文项目），在研究开始前就作者顺序和贡献达成初步理解。需避免两种不伦理行为：
+**发表署名协商。** 若计划发表（如[[Doctoral Dissertation|学位论文]]项目），在研究开始前就作者顺序和贡献达成初步理解。需避免两种不伦理行为：
 
 > [!warning] 署名伦理
-> - **赠予署名（gift authorship）** 将未做出实质贡献的个人列入作者名单
-> - **幽灵署名（ghost authorship）** 将做出重要贡献的初级研究人员从作者名单中省略（Israel & Hay, 2006）
+> - **[[Guest Authorship|赠予署名]]（gift authorship）** 将未做出实质贡献的个人列入作者名单
+> - **[[Ghost Authorship|幽灵署名]]（ghost authorship）** 将做出重要贡献的初级研究人员从作者名单中省略（Israel & Hay, 2006）
 
 ---
 

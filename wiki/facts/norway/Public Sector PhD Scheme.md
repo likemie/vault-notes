@@ -11,7 +11,7 @@ subtype: program
 region: norway
 fact_region: "norway"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -27,9 +27,11 @@ related_concepts:
   - "[[Evidence-Based Policy-Making]]"
   - "[[Champ]]"
   - "[[Intellectual Capital]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Embedded Researcher]]"
   - "[[Evidence Ecosystem]]"
   - "[[Knowledge Mediation]]"
+  - "[[Policy Translation]]"
   - "[[Document]]"
 related_theories: []
 related_methods: []
@@ -43,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -84,7 +86,7 @@ updated: 2026-11-02
 
 > [!actor-grid] 实施协同矩阵
 > - **资助与统筹方（挪威研究理事会）** 统筹全国申报评审，提供 50% 课题财政配比资金，监控项目学术规范与中期答辩进展。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, p. 89)]]
-> - **合作大学教育学院与导师** 负责完整的博士培养方案实施、理论方法学训练及学位论文答辩审核。
+> - **合作大学教育学院与导师** 负责完整的博士培养方案实施、理论方法学训练及[[Doctoral Dissertation|学位论文]]答辩审核。
 > - **行政雇主机构（如教育部及直属机构）** 承担配套薪资与行政支持，保障公职人员享有充足带薪脱产研修时间，并为实证调研提供一手行政数据通道。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 80–81, 89)]]
 > - **公共部门博士生（嵌入式公务员）** 在学术前沿探索与政务政策拟拟定之间发挥无缝衔接的桥梁作用。
 
@@ -130,7 +132,7 @@ updated: 2026-11-02
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Embedded Researcher]] | Concept | 计划是挪威系统化培育部委嵌入式研究者的核心制度支柱。 |
-> | [[Knowledge Mediation]] | Concept | 计划培养的复合型人才直接承担部内知识中介与政策翻译功能。 |
+> | [[Knowledge Mediation]] | Concept | 计划培养的复合型人才直接承担部内知识中介与[[Policy Translation\|政策翻译]]功能。 |
 > | [[Kunnskapssenter for utdanning]] | Fact (Organization) | 挪威国家教育知识中心，与该计划联合构筑挪威教育循证中枢。 |
 > | [[Doctoral Grant for Teachers]] | Fact (Program) | 荷兰针对中小学一线教师的博士资助计划，形成行政端 vs 实践端的机制互补。 |
 

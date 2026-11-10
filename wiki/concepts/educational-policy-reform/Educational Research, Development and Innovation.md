@@ -7,7 +7,7 @@ aliases:
 summary: "指新加坡教育体系建构的政-学-校三方枢纽驱动的知识动员与系统革新范式；由新加坡教育部（MOE）提供国家战略规划与专项资助，南洋理工大学国立教育学院（NIE/OER/CRPP）主导高水平实证研究与工具开发，依托教师学院（AST）与学校网络将研发成果转化为一线教学干预与专业实践，形成高度协调的循证政策与实践创新生态。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -34,19 +34,20 @@ related_instruments: []
 related_persons:
   - "[[Mark Rickinson]]"
 related_facts:
+  - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Rickinson_2022_EducRes]]"
 confidence: medium
 status: draft
 created: 2026-09-18
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Educational Research, Development and Innovation
-> **教育研发与创新（Educational Research, Development and Innovation, RDI）** 指新加坡教育体系在国家层面建构的、以“研究者、政策制定者与实践者三方枢纽”（Nexus of Researchers, Policy Makers and Practitioners）为核心动力的一体化[[Knowledge Mobilisation\|知识动员]]与系统革新模式（[[Argument_Rickinson_2022_EducRes\|Rickinson, Cirkony, et al., 2022, p. 134]]）。在该[[Paradigm\|范式]]下，新加坡教育部（Ministry of Education, MOE）主导设立国家教育研究资助计划（Education Research Funding Programme, ERFP）；南洋理工大学国立教育学院（National Institute of Education, NIE）及其教育研究办公室（Office of Education Research, OER）与教育研究中心（Centre for Research in Pedagogy and Practice, CRPP）承担高水平实证探究与教学原型开发；新加坡教师学院（Academy of Singapore Teachers, AST）与中小学校群则依托[[Professional Learning Community\|专业学习共同体]]，将经过检验的教学成果转化为课堂教学法与教师专业发展方案，从而实现实证知识在系统各层级的流动与转化。
+> **教育研发与创新（Educational Research, Development and Innovation, RDI）** 指新加坡教育体系在国家层面建构的、以“研究者、政策制定者与实践者三方枢纽”（Nexus of Researchers, Policy Makers and Practitioners）为核心动力的一体化[[Knowledge Mobilisation\|知识动员]]与系统革新模式（[[Argument_Rickinson_2022_EducRes\|Rickinson, Cirkony, et al., 2022, p. 134]]）。在该[[Paradigm\|范式]]下，新加坡教育部（Ministry of Education, [[Ministry of Education of the People's Republic of China|MOE]]）主导设立国家教育研究资助计划（Education Research Funding Programme, ERFP）；南洋理工大学国立教育学院（National Institute of Education, NIE）及其教育研究办公室（Office of Education Research, OER）与教育研究中心（Centre for Research in Pedagogy and Practice, CRPP）承担高水平实证探究与教学原型开发；新加坡教师学院（Academy of Singapore Teachers, AST）与中小学校群则依托[[Professional Learning Community\|专业学习共同体]]，将经过检验的教学成果转化为课堂教学法与教师专业发展方案，从而实现实证知识在系统各层级的流动与转化。
 
 > [!concept-lens] 概念透镜
 > - **核心内涵** 强调教育[[Knowledge Production\|知识生产]]与教育改革实践是依托高整合性体制形成的政-学-校协同网络，有别于单向线性的自上而下行政分发。

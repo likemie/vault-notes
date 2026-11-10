@@ -9,7 +9,7 @@ aliases:
 summary: "指由三个及以上主权国家基于普遍行为原则建立的制度化教育协调与援助机制，其历史演进经历了从战后教科文组织主导的有限再分配模式，到后殖民抗争，再到新自由主义防御性与规训性模式的重大范式转型。"
 type: concept
 domain: "comparative-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
   - level/cross-phase
   - region/global
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Paradigm]]"
   - "[[Geopolitics]]"
   - "[[Shadow State]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -63,7 +64,7 @@ updated: 2026-11-03
 > 教育多边主义（Educational Multilateralism）是指由三个或三个以上民族国家在普遍行为原则（generalized principles of conduct）基础上，通过国际组织协调国家间教育政策、规则制定与资源分配的制度化机制。在比较教育政治经济学分析中，教育多边主义不仅是一种国际组织合作形式，更是全球权力格局与国际资本流动塑造主权国家教育发展路径的关键制度中介。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向主权国家之间跨国教育援助、规则建构与政策协调的多边制度安排，重点揭示主权国家、超国家组织与全球资本之间的权力关系。
+> - **含义** 指向主权国家之间[[Transnational Education|跨国教育]]援助、规则建构与政策协调的多边制度安排，重点揭示主权国家、超国家组织与全球资本之间的权力关系。
 > - **用途** 帮助研究者透视国际援助与教育政策扩散背后的意识形态[[Paradigm|范式]]演变，解析为何国际组织从人道主义普惠转向市场化规训。
 > - **边界** 不等于双边点对点教育援助（Bilateral Aid），也不等同于自发形成的草根跨国倡导网络；它依托由条约、国际官僚组织与章程维系的正式多边治理架构。
 

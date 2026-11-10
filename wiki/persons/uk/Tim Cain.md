@@ -8,10 +8,10 @@ summary: "英国 Edge Hill 大学教育学教授，教师研究使用与循证�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 12
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 29
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "c. 1960"
 died: ""
 lifespan: "c. 1960–至今"
@@ -21,61 +21,78 @@ tags:
   - theme/evidence-informed-practice
   - theme/teacher-professionalism
 related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Research Utilization]]"
+  - "[[Technical Rationality]]"
+  - "[[Paradigm]]"
   - "[[Third Voice]]"
+  - "[[Source of Knowledge]]"
+  - "[[Thoughtful Engagement]]"
+  - "[[Document]]"
+  - "[[Research-Informed Teaching Practice]]"
+  - "[[Engagement in and with Research]]"
+  - "[[Phronesis]]"
+  - "[[Reflexivity]]"
+  - "[[Research Literacy]]"
+  - "[[Epistemology]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Profession-Sensitive Conceptualisations of Research Use]]"
   - "[[Teacher Professional Agency]]"
   - "[[Professional Judgment]]"
-  - "[[Research Utilization]]"
-  - "[[Engagement in and with Research]]"
-  - "[[Research-Informed Teaching Practice]]"
 related_theories:
+  - "[[Situated Ethics]]"
   - "[[Governing Mechanisms of Research Use]]"
-  - "[[Quality Use of Research Evidence Framework]]"
 related_methods:
-  - "[[Qualitative Research]]"
-  - "[[Case Study]]"
+  - "[[Action Research]]"
+  - "[[Framework Synthesis]]"
 related_instruments: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Mark Rickinson]]"
+  - "[[Sølvi Mausethagen]]"
+related_facts:
+  - "[[Teacher Training Agency]]"
+  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Torres_2022_KMModels]]"
+  - "[[Argument_Slavin_2002_ER]]"
 confidence: high
 status: active
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 英国教育学者，知名的教师专业发展与循证教育研究者，历任英国 Edge Hill 大学教育学教授、巴斯斯巴大学（Bath Spa University）教师教育教授。
-> - **核心角色** 教师研究使用（Teachers' Use of Research）经验研究领域的重要开拓者，系统反思并突破了将循证教学窄化为工具性操作规训的技术理性范式。
-> - **代表贡献** 提出教学专业审议中的[[Third Voice|第三声音（Third Voice）]]理论，构建教师面对研究文本的五类能动反应模型，系统刻画教师对学术研究的阻抗类型学（否认、反对与拒绝）。
+> - **身份位置** 英国教育学者，知名的教师专业发展与[[Evidence-Based Education|循证教育]]研究者，历任英国 Edge Hill 大学教育学教授、巴斯斯巴大学（Bath Spa University）教师教育教授。
+> - **核心角色** 教师[[Research Utilization|研究使用]]（Teachers' Use of Research）经验研究领域的重要开拓者，系统反思并突破了将循证教学窄化为工具性操作规训的[[Technical Rationality|技术理性]][[Paradigm|范式]]。
+> - **代表贡献** 提出教学专业审议中的[[Third Voice|第三声音]]（Third Voice）理论，构建教师面对研究文本的五类能动反应模型，系统刻画教师对学术研究的阻抗类型学（否认、反对与拒绝）。
 
 > [!citation-card] 专业审议中的第三声音论断
-> 在针对研究建议开展的深入讨论中，教师的专业抉择表现为审慎的情境权变决策，兼顾批判反思与建设性采纳；当研究与其它知识来源深度整合并在长时间聚焦研讨中被充分审议时，它在教师对话中充当平等的第三声音，独立于行政指令，保障实践者的专业审议自主。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 11–12, 18–19)]]
+> 在针对研究建议开展的深入讨论中，教师的专业抉择表现为审慎的情境权变决策，兼顾批判反思与建设性采纳；当研究与其它[[Source of Knowledge|知识来源]]深度整合并在长时间聚焦研讨中被充分审议时，它在教师对话中充当平等的第三声音，独立于行政指令，保障实践者的专业审议自主。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 11–12, 18–19)]]
 >
-> *When research is integrated with other sources of knowledge, and is engaged with in "long, focused discussions", it seems to serve as "thoughtful engagement" even though it is not always followed by "implementation"... remaining a 'third voice' in a three-way dialogue between research knowledge, professional experience and contextual wisdom.*
+> *When research is integrated with other sources of knowledge, and is engaged with in "long, focused discussions", it seems to serve as "[[Thoughtful Engagement|thoughtful engagement]]" even though it is not always followed by "implementation"... remaining a 'third voice' in a three-way dialogue between research knowledge, professional experience and contextual wisdom.*
 
 ---
 
 > [!timeline] 生平与职涯
-> - **2000s** 长期深耕英国中小学教师教育与课堂教学一线，关注教师如何在行动研究与日常教研中接触学术文献。
+> - **2000s** 长期深耕英国中小学教师教育与课堂教学一线，关注教师如何在[[Action Research|行动研究]]与日常教研中接触学术[[Document|文献]]。
 > - **2015** 在《教育教学杂志》（*Journal of Education for Teaching*）发表代表性实证研究，正式提出教师与研究文本互动中的“三种声音”理论与五类能动反应模式。[[Argument_Torres_2022_KMModels|(Torres, 2022b, pp. 47–49)]]
 > - **2017** 在《英国教育研究杂志》（*British Educational Research Journal*）发表专文，系统剖析教师对研究证据的负向反应机制（否认、反对、拒绝），深化对循证阻碍的制度根源分析。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 10–11)]]
-> - **2020s** 持续推动研究知情教学实践（Research-Informed Teaching Practice）在英国教育政策与教师持续专业发展中的机制化落地。
+> - **2020s** 持续推动[[Research-Informed Teaching Practice|研究知情教学实践]]（Research-Informed Teaching Practice）在英国教育政策与教师持续专业发展中的机制化落地。
 
 ---
 
 > [!work-line] 主要著作
-> - **2015 — *Teachers' engagement with research texts: Beyond instrumental, conceptual or strategic use*** 突破 Weiss 传统的工具性、概念性与策略性三分法，提出教师审议中个人经验、同行文化与外部实证的三种声音对话模型。[[Argument_Torres_2022_KMModels|(Torres, 2022b, pp. 47–49)]]
+> - **2015 — *Teachers' [[Engagement in and with Research|engagement with research]] texts: Beyond instrumental, conceptual or strategic use*** 突破 Weiss 传统的工具性、概念性与策略性三分法，提出教师审议中个人经验、同行文化与外部实证的三种声音对话模型。[[Argument_Torres_2022_KMModels|(Torres, 2022b, pp. 47–49)]]
 > - **2017 — *Denial, opposition and rejection: Depicting teachers' negative responses to research*** 质性深剖教师在外部高压问责与行政督导下对学术研究的防卫心态与认知隔离。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 10–11)]]
 > - **2019 — *Becoming a Research-Informed School: Why? What? How?*** 系统总结中小学培育研究文化、创设长效研讨结构与开展基于证据的专业审议的操作指南。
 
 ---
 
 > [!claim] 核心思想
-> 教学实践本质上是由教师个人默会信念与情境伦理深度维系的专业技艺，科学实证研究进入教学现场绝不可能自动成为唯一的行动指南；外部研究唯有作为平等的第三声音，在受保护的制度化空间内与教师的实践智慧展开从容对话和反思性审议，才能促成实质性的专业成长与教学改进。
+> 教学实践本质上是由教师个人默会信念与[[Situated Ethics|情境伦理]]深度维系的专业技艺，科学实证研究进入教学现场绝不可能自动成为唯一的行动指南；外部研究唯有作为平等的第三声音，在受保护的制度化空间内与教师的[[Phronesis|实践智慧]]展开从容对话和[[Reflexivity|反思性]]审议，才能促成实质性的专业成长与教学改进。
 
 > [!citation-card] 对话协商与反思性审议
 > 教师在审视学术研究文献时处于三种声音的动态碰撞之中：教师自身的个人价值与教学信念（第一声音）、学校同事与同行共同体的本土实践文化（第二声音），以及外来学术研究文献的实证主张（第三声音）。由于前两种声音在日常课堂中占据基础地位，第三声音若要产生实质影响，必须经由教师的反思性审议展开协商对话。[[Argument_Torres_2022_KMModels|(Torres, 2022b, pp. 47–49)]]
@@ -83,10 +100,10 @@ updated: 2026-11-07
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 开创“三种声音”理论模型，打破了传统证据转化中的线性传递神话，为当代证据整合范式与教师研究素养理论提供了坚实的认识论基础。
+> - **理论路径** 开创“三种声音”理论模型，打破了传统证据转化中的线性传递神话，为当代证据整合范式与教师[[Research Literacy|研究素养]]理论提供了坚实的[[Epistemology|认识论]]基础。
 > - **方法路径** 倡导采用质性个案追踪与扎根反思法捕捉教师研读学术文本时的微观认知表述，示范了如何在课堂真实场景中测量研究使用的深层形态。
-> - **政策路径** 深度参与英国教师教育大纲与教师培训署倡导的循证教研改革，警示高压问责可能引发的行政合规异化。
-> - **跨国／跨领域传播** 思想被经合组织（OECD）知识动员项目（[[Argument_Torres_2022_KMModels|Torres, 2022b]]）与欧洲多国框架综合（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026]]）广泛吸纳，成为国际循证教育领域的重要理论资源。
+> - **政策路径** 深度参与英国教师教育大纲与[[Teacher Training Agency|教师培训署]]倡导的循证教研改革，警示高压问责可能引发的行政合规异化。
+> - **跨国／跨领域传播** 思想被[[OECD|经合组织]]（OECD）[[Knowledge Mobilisation|知识动员]]项目（[[Argument_Torres_2022_KMModels|Torres, 2022b]]）与欧洲多国[[Framework Synthesis|框架综合]]（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026]]）广泛吸纳，成为国际循证教育领域的重要理论资源。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 将 Tim Cain 的第三声音概念作为核心支柱，论证学校研究使用必须从外推实施转向情境整合（pp. 11–12, 18–19）。
@@ -96,7 +113,7 @@ updated: 2026-11-07
 
 > [!person-network] 关系网络
 > - **学术共鸣者** [[Mark Rickinson]] — 共同倡导超越“用不用”二元论、聚焦深思熟虑参与的证据质量使用研究。
-> - **理论承继者** [[Sølvi Mausethagen]] — 同样关注教师认识论主体性与专业敏感型研究使用。
+> - **理论承继者** [[Sølvi Mausethagen]] — 同样关注教师认识论主体性与[[Profession-Sensitive Conceptualisations of Research Use|专业敏感型研究使用]]。
 
 ---
 

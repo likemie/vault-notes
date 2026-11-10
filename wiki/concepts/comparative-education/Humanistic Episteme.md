@@ -9,7 +9,7 @@ aliases:
 summary: "卡扎米亚斯概括历史-哲学-文化与自由人文主义学派的核心元理论范畴，主张比较教育学必须超越将教育降格为技术性学校教育规训（schooling）的工具主义，建构以人（Anthropos）与文化全人教化（Paideia / Bildung）为核心的人本认识论，直面人类生存的政治与伦理危机。"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Unit of Analysis]]"
   - "[[Variable]]"
+  - "[[Transnational Education]]"
   - "[[Intangible Spiritual Forces]]"
   - "[[Governing by Numbers]]"
   - "[[National Character]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -100,7 +101,7 @@ updated: 2026-11-03
 > - **全人文化教化（[[Paideia]] / [[Bildung]]）本体** 超越职业培训与技能传授的狭隘功利算计，将教育理解为涵养伦理自觉、理性判断与文化认同的精神培育过程。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
 > - **以人（Anthropos）为中心的价值取向（Anthropocentrism）** 坚决抵制将人异化为国家官僚机器或经济增长引擎的工具化倾向，坚守教育服务于人的全面自由发展的至高地位。[[Argument_Kazamias_2009_ForgottenThemes\|(Nash, 1977; Kazamias, 2009: 52, 引自 Kazamias, 2009b)]]
 > - **跨越学科边界的广义科学观（Wissenschaft）** 视比较教育学为跨越人文学科与[[Scientific Method\|经验科学]]边界的综合智慧系统，与哲学、历史学和宗教学深度贯通。[[Argument_Kazamias_2009_ForgottenThemes\|(Hans, 1959: 299; Kazamias, 2009: 39, 引自 Kazamias, 2009b)]]
-> - **伦理政治关怀与公民防线（Ethical-Political Concerns）** 将跨国教育比较与民主价值捍卫、极权主义防范及国际主义理解紧密结合，构筑文明抵御野蛮化的思想堤坝。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933; Kazamias, 2009: 47–49, 引自 Kazamias, 2009b)]]
+> - **伦理政治关怀与公民防线（Ethical-Political Concerns）** 将[[Transnational Education|跨国教育]]比较与民主价值捍卫、极权主义防范及国际主义理解紧密结合，构筑文明抵御野蛮化的思想堤坝。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933; Kazamias, 2009: 47–49, 引自 Kazamias, 2009b)]]
 
 > [!logic-map]- 概念逻辑拓扑
 > ```mermaid

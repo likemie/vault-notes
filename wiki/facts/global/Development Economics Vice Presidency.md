@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Epistemic Governance]]"
   - "[[Construct]]"
+  - "[[Transnational Education]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-23
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 # Development Economics Vice Presidency
@@ -184,7 +185,7 @@ updated: 2026-10-30
 > | [[Epistemic Governance]] | 概念 | DEC 依托学术发表与指标制定实施认知治理的理论框架。 |
 > | [[Cognitive Authority]] | 概念 | DEC 的实证研究为世界银行赢得全球学术与政策信誉的核心[[Construct\|构念]]。 |
 > | [[World Bank Institute]] | 机构事实 | 与 DEC 协同构成世界银行“研究生产—官员培训”的知识分工双翼。 |
-> | [[EdStats]] | 项目事实 | 由 DEC 发展数据部主导研发与维护的跨国教育统计基准中枢。 |
+> | [[EdStats]] | 项目事实 | 由 DEC 发展数据部主导研发与维护的[[Transnational Education\|跨国教育]]统计基准中枢。 |
 > | [[Open Knowledge Repository]] | 项目事实 | DEC 生产的大量学术出版物与工作文稿的主要开放获取仓储。 |
 
 ---

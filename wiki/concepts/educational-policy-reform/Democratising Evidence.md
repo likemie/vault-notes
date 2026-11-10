@@ -9,7 +9,7 @@ aliases:
 summary: "将民主参与原则拓展至教育研究证据生产与利用全过程的学术思潮与治理议程，主张终结学者与资助者对科研议程的排他性垄断，将实践者与边缘社群确立为议程设定与知识转化的平等主体，同时反思功利主义实用性修辞对离群弱势群体的潜在排斥"
 type: concept
 domain: "educational-policy-reform"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Statistical Normalisation]]"
   - "[[Variable]]"
   - "[[Engaged Scholarship]]"
+  - "[[Early-Career Researchers]]"
   - "[[Operationalization]]"
   - "[[Research Problem]]"
   - "[[Causality]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -149,7 +150,7 @@ updated: 2026-11-03
 > [!dev-timeline] 概念演变
 > - **2000s — 开源获取与公共参与萌芽** 学界开始反思学术期刊出版壁垒对公众知识获取的阻碍，开放获取（Open Access）运动兴起，为证据大众化奠定技术基础。
 > - **2006 — [[Engaged Scholarship\|参与式学术]]奠定[[Epistemology\|认识论]]基础** Van de Ven & Johnson 提出[[Engaged Scholarship\|参与式学术]]，将理论与实践的断层定性为[[Knowledge Production\|知识生产]]方式问题，倡导学者与实践者共同研究复杂挑战。
-> - **2014 — 卡内基基金会严谨与相关性计划启动** 率先倡导大学建立政策学术停钟制度，允许青年学者在全职深入公共部门或薄弱学校协作期间暂停终身教职考评钟摆，打破唯文章考核惯性。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 231)]]
+> - **2014 — 卡内基基金会严谨与相关性计划启动** 率先倡导大学建立政策学术停钟制度，允许[[Early-Career Researchers|青年学者]]在全职深入公共部门或薄弱学校协作期间暂停终身教职考评钟摆，打破唯文章考核惯性。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 231)]]
 > - **2017 — Henrick et al. 确立 [[Research-Practice Partnership\|RPP]] 五大有效性评估框架** 建立衡量研究-实践伙伴关系健康度与产出效能的五维[[Operationalization\|操作化]]标准，成为资助机构评定共创研究成熟度的权威工具。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 232)]]
 > - **2018 — 机构挑战资助计划设立** [[William T. Grant Foundation\|威廉·T·格兰特基金会]]联合多丽丝·杜克基金会与斯宾塞基金会发起机构挑战资助（Institutional Challenge Grants），直接出资引导高校重塑内部晋升与奖励规程。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 231–232)]]
 > - **2022 — 证据民主化作为系统纲领正式确立** [[Vivian Tseng\|薇薇安·曾]]（[[Vivian Tseng]]）在[[OECD\|经济合作与发展组织]]（[[OECD]]）专题报告中正式系统阐述证据民主化纲领，提出长周期弹性资助、重塑结项标准、多元共创评审及资助机构自省四大行动支柱。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–224)]]

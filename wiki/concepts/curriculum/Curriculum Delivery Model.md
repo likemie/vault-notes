@@ -7,7 +7,7 @@ aliases:
 summary: "杰夫·马斯特斯等学者界定的传统教育范式构念，假定同龄学生具备同质学习准备度，将教学简化为自上而下按年级大纲机械传递知识、学生被动接受并通过终结性考试分级评定，与关注个体年度增量成长的现代发展性评价模型相对立。"
 type: concept
 domain: "curriculum"
-related_count: 11
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,55 +17,58 @@ tags:
   - theme/assessment-paradigm
   - theme/gonski
 related_concepts:
-  - "[[Academic Achievement]]"
-  - "[[Personalized Learning]]"
-  - "[[Effective Teaching]]"
+  - "[[Paradigm]]"
+  - "[[Homework]]"
+  - "[[Learning Progression]]"
   - "[[Zone of Proximal Development]]"
+  - "[[Differentiated Instruction]]"
+  - "[[Personalized Learning]]"
+  - "[[Surface and Deep Learning]]"
+  - "[[Academic Achievement]]"
 related_theories: []
-related_methods:
-  - "[[Analytic Framework]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Geoff Masters]]"
-  - "[[David Gonski]]"
 related_facts:
-  - "[[Gonski 2.0]]"
-  - "[[Australian Curriculum]]"
   - "[[Australian Council for Educational Research]]"
+  - "[[Gonski 2.0]]"
+  - "[[CORE Education]]"
+  - "[[Australian Curriculum]]"
 related_arguments:
   - "[[Argument_Sarbiewska_2019_KiW]]"
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Curriculum Delivery Model
-> 年级课程交付模型（Curriculum Delivery Model）是指将学校教育理解为向固定年级的所有同龄学生机械交付既定大纲内容的传统教育范式；该范式假定同龄群体具有同质的学习准备度，将教师角色限定为大纲交付者、学生角色限定为被动接受者、测评功能限定为依据年级大纲标准分级评定（[[Argument_Sarbiewska_2019_KiW|Sarbiewska, 2019, pp. 119–120, 127]]）。
+> 年级课程交付模型（Curriculum Delivery Model）是指将学校教育理解为向固定年级的所有同龄学生机械交付既定大纲内容的传统教育[[Paradigm|范式]]；该范式假定同龄群体具有同质的学习准备度，将教师角色限定为大纲交付者、学生角色限定为被动接受者、测评功能限定为依据年级大纲标准分级评定（[[Argument_Sarbiewska_2019_KiW|Sarbiewska, 2019, pp. 119–120, 127]]）。
 
 > [!concept-lens|notitle] 概念透镜
-> - **含义** 指向传统工业化学校教育中“大纲设计—机械交付—应试分等”的流水线作业机制。
+> - **含义** 指向传统工业化学校教育中“大纲设计—机械交付—应试分等”的流水线[[Homework|作业]]机制。
 > - **用途** 帮助批判性审视按年龄一刀切交付课程对不同认知准备度学生造成的实质性学习抑制。
-> - **边界** 严格区别于关注个体认知起点的发展性学习进阶模型，不适用于解释以最近发展区为导向的自适应教学实践。
+> - **边界** 严格区别于关注个体认知起点的发展性[[Learning Progression|学习进阶]]模型，不适用于解释以[[Zone of Proximal Development|最近发展区]]为导向的自适应教学实践。
 
-> [!citation-card|notitle] 杰夫·马斯特斯论课程交付模型的三位一体假定
+> [!citation-card|notitle] [[Geoff Masters|杰夫·马斯特斯]]论课程交付模型的三位一体假定
 > 改革前的教学基于向所有学生交付适切的年级水平课程。按照这种观念，教师的角色是交付相关课程；学生的工作是学习教师所教的内容；而评估的作用则是检验学生对教师讲授内容的掌握程度并以此进行等级评定。（Masters, 2018；引自 [[Argument_Sarbiewska_2019_KiW|Sarbiewska, 2019, p. 119]]）
 >
-> *According to Geoff Masters, Chief Executive of the Australian Council for Educational Research, teaching in the pre-reform was based on ‘[…] the delivery of the appropriate year-level curriculum to all students. Under this view, the role of teachers is to deliver the relevant curriculum; the job of students is to learn what teachers teach; and the role of assessment is to establish how well students have learnt what teachers have taught and to grade them accordingly.’*
+> *According to Geoff Masters, Chief Executive of the [[Australian Council for Educational Research]], teaching in the pre-reform was based on ‘[…] the delivery of the appropriate year-level curriculum to all students. Under this view, the role of teachers is to deliver the relevant curriculum; the job of students is to learn what teachers teach; and the role of assessment is to establish how well students have learnt what teachers have taught and to grade them accordingly.’*
 
 > [!boundary]- 概念边界
 > - 不等于发展性学习进阶模型（Developmental Progression Model） — 交付模型以年龄年级大纲为终极参照系；发展性模型以学生个体实际认知起点与年度增量为基准。
-> - 不适用于差异化教学环境 — 交付模型假定同质进度，对先备知识落后或超前的学生均无法提供适切支架。
+> - 不适用于[[Differentiated Instruction|差异化教学]]环境 — 交付模型假定同质进度，对先备知识落后或超前的学生均无法提供适切支架。
 
 ---
 
 > [!contrast-table|notitle] 概念辨析
-> | 维度 | 年级课程交付模型（Curriculum Delivery Model） | Gonski 2.0 个体增量成长模型（Growth Model） |
+> | 维度 | 年级课程交付模型（Curriculum Delivery Model） | [[Gonski 2.0]] 个体增量成长模型（Growth Model） |
 > |------|----------------------------------------------|-------------------------------------------|
 > | 核心假定 | 假定同龄学生在同一时间具备完全相同的学习准备度 | 承认同龄学生先备知识差异显著，以个性化最近发展区为基准 |
-> | 教学与课程 | 自上而下机械交付既定年级水平课程 | 依据学生起点制定具有挑战性的个性化学习目标 |
+> | 教学与课程 | 自上而下机械交付既定年级水平课程 | 依据学生起点制定具有挑战性的[[Personalized Learning\|个性化学习]]目标 |
 > | 教师角色 | 知识内容的单向传递者与进度追赶者 | 诊断学生起点、提供形成性反馈与搭建自适应支架的协同者 |
 > | 学生角色 | 被动接受并复现教师讲授内容的受体 | 拥有学习主权、主动监控理解进程的自律参与者 |
 > | 评价机制 | 终结性横向常模考试，按掌握年级大纲百分比进行应试分级 | 纵向形成性成长测评，衡量每个学生在一年内的实质学业增量 |
@@ -91,7 +94,7 @@ updated: 2026-11-10
 
 ---
 
-> [!concept-proposition] 命题一｜脱离学生真实认知起点的课程交付无法引发实质性深层学习
+> [!concept-proposition] 命题一｜脱离学生真实认知起点的课程交付无法引发实质性[[Surface and Deep Learning|深层学习]]
 > **认知准备度机制** 当教学内容重复学生已知、或强行传授学生缺乏必要先备知识的概念时，真正的学习均无法发生。
 
 > [!claim] Masters, G.
@@ -117,7 +120,7 @@ updated: 2026-11-10
 > |:-----|:-----|:-----|
 > | [[Academic Achievement]] | 概念 | 交付模型下的学业成就被窄化为年级大纲掌握百分比。 |
 > | [[Gonski 2.0]] | 事实 (政策) | 旨在终结传统年级课程交付模型并代之以个体成长增量模型的纲领性政策报告。 |
-> | [[Geoff Masters]] | 人物 | 提出并系统批判年级课程交付模型的核心教育测评学家。 |
+> | [[Geoff Masters]] | 人物 | 提出并系统批判年级课程交付模型的[[CORE Education\|核心教育]]测评学家。 |
 > | [[Personalized Learning]] | 概念 | 打破统一交付大纲、依据学生起点自适应调整教学进度的替代性范式。 |
 > | [[Australian Curriculum]] | 事实 (政策) | 交付模型在澳大利亚所依赖的国家课程大纲载体。 |
 

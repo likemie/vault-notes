@@ -7,7 +7,7 @@ aliases:
 summary: "空间的时间化是欧洲启蒙运动确立的一种单向演化认识论偏见，指将全球地理空间的横向并列与文化差异生硬地折算为垂直的文明演进历史时间阶梯；该观念将异域原住民与少数群体贬抑为处于低级发展阶段的原始人，为帝国殖民同化、文明开化工程以及现代教育中残留的欠缺补偿话语提供了正当性辩护。"
 type: concept
 domain: "comparative-education"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -37,13 +37,14 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Thomas S. Popkewitz]]"
+  - "[[Noah Sobe]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -128,7 +129,7 @@ updated: 2026-11-03
 > [!dev-timeline] 概念演变
 > - **17–18 世纪 — 启蒙单线进步史观确立** 欧洲哲学家建立普遍历史（Universal History）框架，将空间上共存的全球人群编排为从狩猎野蛮、游牧畜牧到农业乃至欧洲工商业文明的垂直序列。
 > - **20世纪末 — 空间转向与后现代解构** 文化地理学与[[Post-colonial Theory|后殖民理论]]（如 Paul Gilroy 的“黑人大西洋”研究）发起猛烈批判，指出时间优先性实质上是欧洲帝国主义霸权的[[Epistemology|认识论]]支柱。
-> - **2000年代至今 — 比较教育学认识论反思** Sobe、Fischer 与 Popkewitz 等学者揭示出空间时间化在当代课程改革、流动群体教育干预与全球治理绩效[[Discourse|话语]]中的隐蔽运作。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–360)]]
+> - **2000年代至今 — 比较教育学认识论反思** [[Noah Sobe|Sobe]]、Fischer 与 Popkewitz 等学者揭示出空间时间化在当代课程改革、流动群体教育干预与全球治理绩效[[Discourse|话语]]中的隐蔽运作。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–360)]]
 
 ---
 

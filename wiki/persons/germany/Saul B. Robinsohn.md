@@ -9,7 +9,7 @@ summary: "德国与以色列比较教育学家、课程改革理论家，曾任�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 15
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
   - region/germany
 related_concepts:
   - "[[Navigation Metaphor in Comparative Education]]"
+  - "[[Transnational Education]]"
   - "[[Paradigm]]"
   - "[[Post-Nationalism]]"
   - "[[Academic Freedom]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -63,7 +64,7 @@ updated: 2026-10-30
 
 > [!timeline] 生平与职涯
 > - **1916** **柏林出生与流亡巴勒斯坦** 出生于德国柏林的一个犹太知识分子家庭。纳粹上台后，被迫于 1930 年代流亡巴勒斯坦，在耶路撒冷希伯来大学攻读历史学、社会学与教育学，后投身历史教学与学术研究。
-> - **1958–1963** **执掌汉堡[[UNESCO|教科文组织]]教育研究所** 战后重返欧洲，出任联合国教科文组织汉堡教育研究所（UNESCO Institute for Education, UIE）所长，利用多边国际平台推动跨国教育研究与战后和解。
+> - **1958–1963** **执掌汉堡[[UNESCO|教科文组织]]教育研究所** 战后重返欧洲，出任联合国教科文组织汉堡教育研究所（UNESCO Institute for Education, UIE）所长，利用多边国际平台推动[[Transnational Education|跨国教育]]研究与战后和解。
 > - **1961** **联合发起成立[[Comparative Education Society in Europe|欧洲比较教育学会]]** 与英国比较教育学者约瑟夫·劳威斯密切合作，在伦敦组织创立欧洲比较教育学会（[[Comparative Education Society in Europe|CESE]]），力主确立超越冷战阵营与民族国家界限的“跨国个人会员制”与学术独立原则。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 91)]]
 > - **1963–1972** **组建柏林[[Max Planck Institute for Human Development|马克斯·普朗克人类发展研究所]]** 接受赫尔穆特·贝克尔（Hellmut Becker）邀请，赴柏林共同创建[[Max Planck|马克斯·普朗克]]教育研究所（MPIB），与迪特里希·戈尔德施密特（Dietrich Goldschmidt）共同担任所长，开辟了德国教育科学基于实证经验与跨学科协作的全新[[Paradigm|研究范式]]。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 90)]]
 > - **1967** **出版《作为课程修订的教育改革》引发德意志课程革命** 出版划时代名著《作为课程修订的教育改革》（*Bildungsreform als Revision des Curriculum*），系统颠覆了德国传统以人文经典教养为中心的教学大纲（Lehrplan）体系，确立以现实生活情境、社会功能与行为胜任力为导向的科学课程研制范式。

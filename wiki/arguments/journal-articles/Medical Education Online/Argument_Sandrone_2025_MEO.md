@@ -9,7 +9,7 @@ title: "Argument_Sandrone_2025_MEO"
 argument_key: "Argument_Sandrone_2025_MEO"
 argument_display_title: "Analysis of more than 200 Nobel Lectures in Physiology or Medicine across a century reveals a surprising lack of mentor recognition by awardees"
 argument_kind: "journal-article"
-argument_related_count: 10
+argument_related_count: 11
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Mentorship]]"
   - "[[Mentorship Recognition]]"
+  - "[[Lecturing]]"
   - "[[STEM Education]]"
   - "[[Research Topic]]"
 related_theories:
@@ -41,7 +42,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-07
-updated: 2026-10-22
+updated: 2026-11-11
 year: 2025
 doi: ""
 citation_aliases:
@@ -72,7 +73,7 @@ citation_aliases:
 > [!info] 研究方法
 > 使用[[Content Analysis\|内容分析]]方法，对 208 篇[[Nobel Prize in Physiology or Medicine\|诺贝尔生理学或医学奖]]演讲进行探索性分析。使用 PDF 阅读器和纯文本阅读器软件的搜索功能，计算 [[Mentorship\|mentor]] 一词在演讲中出现的次数。
 >
-> 分析范围涵盖 1901-2023 年间所有可用的诺贝尔演讲， except where only the slides, but not the lecture transcript, were uploaded（即 2017 年的 Young 和 2022、2023 年的获奖者），以及当只有视频录像但没有演讲或其[[Transcription in Qualitative Research\|转录]]本可用时（即 2020 和 2021 年）。1915-1918、1921、1925 年未颁奖，因此没有诺贝尔演讲可用。
+> 分析范围涵盖 1901-2023 年间所有可用的诺贝尔演讲， except where only the slides, but not the [[Lecturing|lecture]] transcript, were uploaded（即 2017 年的 Young 和 2022、2023 年的获奖者），以及当只有视频录像但没有演讲或其[[Transcription in Qualitative Research\|转录]]本可用时（即 2020 和 2021 年）。1915-1918、1921、1925 年未颁奖，因此没有诺贝尔演讲可用。
 >
 > 同时分析了 2014-2023 年拉斯克奖的获奖感言和 1961-2022 年奥斯卡奖的获奖感言作为对比。
 

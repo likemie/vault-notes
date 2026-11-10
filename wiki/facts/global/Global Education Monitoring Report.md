@@ -12,7 +12,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Peer Pressure]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Learning Crisis]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Discourse]]"
   - "[[Constructivist Paradigm]]"
   - "[[Governing by Numbers]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -117,7 +118,7 @@ updated: 2026-11-10
 > [!indicators] 评估指标体系
 > - **投入指标** 各国公共教育支出占 GDP 比重（法定基准 4%–6%）及占政府总开支比重（基准 15%–20%）、官方发展援助（ODA）教育分配额。
 > - **过程与依从性指标** 义务教育法定免费年限立法率、合格持证教师配置到位率。
-> - **产出与结果指标** 各学段净入学率与完成率、基础素养达标率、教育不平等基尼系数。
+> - **产出与结果指标** 各学段净入学率与完成率、[[Foundational Literacy and Numeracy|基础素养]]达标率、教育不平等基尼系数。
 
 > [!finding-cards] 核心实证结论
 > - **巨额资金缺口与发展承诺违约** 报告系统测算指出，要实现 2030 年低收入和中低收入国家普及中小学教育的 [[UN Sustainable Development Goals\|SDG 4]] 目标，年均面临高达 970 亿至 1,480 亿美元的严重结构性融资缺口，批评发达国家远未兑现 0.7% 国民总收入用于官方援助的政治承诺。

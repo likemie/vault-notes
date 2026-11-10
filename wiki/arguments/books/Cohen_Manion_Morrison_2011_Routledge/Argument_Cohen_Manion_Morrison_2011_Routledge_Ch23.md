@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23"
 argument_display_title: "Research Methods in Education · Ch23"
 argument_kind: "book-chapter"
-argument_related_count: 68
+argument_related_count: 69
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -67,6 +67,7 @@ related_concepts:
   - "[[Observer Drift]]"
   - "[[Institutional Drift]]"
   - "[[Habituation]]"
+  - "[[Research Tool]]"
   - "[[Rich and Thick Description]]"
 related_theories:
   - "[[Situative Perspective]]"
@@ -106,7 +107,7 @@ related_facts:
   - "[[British Educational Research Association]]"
 status: draft
 created: 2026-07-23
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
@@ -977,7 +978,7 @@ Lofland（1971, pp. 104–106）为克服信度问题提出了田野笔记书写
 > - **记录方式** 选择合适的结构化观察和记录类型，事件取样、瞬时取样、全/部分间隔记录、持续时间记录、二分量表/评定量表记录
 > - **信效度保障** 操作化观察使什么算作证据**一致、明确和有效**；对信度和效度的威胁需要认真对待
 >
-> 观察可以是非常有用的研究工具，但它也需要付出代价：可能需要**长时间**才能捕捉到所需行为或现象，在**时间和精力**上可能昂贵，并且容易出现**解释或推断数据含义**的困难。
+> 观察可以是非常有用的[[Research Tool|研究工具]]，但它也需要付出代价：可能需要**长时间**才能捕捉到所需行为或现象，在**时间和精力**上可能昂贵，并且容易出现**解释或推断数据含义**的困难。
 >
 > 最重要的是，这或许是本章最核心的论点，观察将**观察者置于道德领域**。仅仅将观察描述为非侵入性、非干预性技术从而推卸对参与者的责任是不够的。与人文科学中的其他数据收集形式一样，**观察不是道德中立的事业**。观察者和其他研究者一样，**对参与者和研究社群都负有义务**。（23.13 节）
 

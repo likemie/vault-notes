@@ -15,7 +15,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 37
+fact_related_count: 39
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Data Infrastructure]]"
   - "[[Lifelong Learning]]"
   - "[[Commensuration]]"
+  - "[[Early-Career Researchers]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
   - "[[Socioeconomic Status]]"
@@ -69,6 +70,7 @@ related_facts:
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
   - "[[Programme for the International Assessment of Adult Competencies]]"
   - "[[Institute for Educational Quality Improvement]]"
+  - "[[Dimensions]]"
   - "[[German Dual Education System]]"
 related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
@@ -78,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -128,7 +130,7 @@ updated: 2026-11-02
 > 
 > 在[[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]的四大支柱中，国家教育报告系统由德国[[International Education\|国际教育]]研究所（DIPF）主导的独立专家联合体定期编制，汇聚人口统计、财政核算与跨学段指标，与 IQB 负责的标准题库及 [[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]] 负责的国际测评共同构成了德国教育治理的跨尺度数据基础设施。（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 140–141, 145]]）
 > 
-> *The joint national educational reporting system, led by DIPF together with scientific partners, compiles macro-statistical indicators on demographic, financial, and structural dimensions of the German education system, providing the foundational infrastructure alongside IQB and ZIB.*
+> *The joint national educational reporting system, led by DIPF together with scientific partners, compiles macro-statistical indicators on demographic, financial, and structural [[Dimensions|dimensions]] of the German education system, providing the foundational infrastructure alongside IQB and ZIB.*
 
 > [!citation-card] 米特论德国国际教育研究所（DIPF）在战后比较教育建制中的支柱地位
 > 米特（[[Wolfgang Mitter]]）指出，二战后德国比较教育的学术建制化不仅在汉堡、波鸿、海德堡等大学全面铺开，更在大学系统之外确立了实体化的研究中枢。德国国际教育研究所（DIPF，在舒尔策与米特主持下）与[[Max Planck Institute for Human Development|柏林马克斯·普朗克教育研究所]]（在罗宾逊与戈尔德施密特主持下）先后设立了专门的比较教育教席与独立研究实体，为西德重建国际学术联系、开展跨国实证调查奠定了不可替代的国家制度依托。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90)]]
@@ -140,7 +142,7 @@ updated: 2026-11-02
 > [!finding-cards] 关键成效与辐射影响
 > - **确立德国跨学段[[Lifelong Learning\|终身教育]]宏观基准** 通过《德国教育报告》连续 20 年的定期发布，终结了德国教育统计长期割裂的局面，使全社会能够依据客观可[[Commensuration\|通约]]的数据评估教育扩张、早教普及与技能转型。
 > - **赋能国际大型测评的数字化转型** 依托 TBA 技术中心，DIPF 在推动 [[PISA]] 测验由纸笔施测全面转向计算机化自适应测评中发挥了核心技术中介作用。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
-> - **推动教育数据开放与基础设施共享** 构筑起覆盖全德的教育文献与研究数据开放生态（FDZ [[Bildung]] 与 BBF），极大降低了青年学者开展实证教育学研究的制度门槛。
+> - **推动教育数据开放与基础设施共享** 构筑起覆盖全德的教育文献与研究数据开放生态（FDZ [[Bildung]] 与 BBF），极大降低了[[Early-Career Researchers|青年学者]]开展实证教育学研究的制度门槛。
 
 ---
 

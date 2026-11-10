@@ -8,7 +8,7 @@ aliases:
 summary: "在教育研究-实践伙伴关系（RPP）与证据治理中，指大学研究者与学校一线实践者在跨界交往中形成的一种超越传统象牙塔学术话语与日常教学经验话语二元对立的杂合型公共沟通体系；该机制明确承认并包容两类群体的专业异质性与价值差异，拒绝单向强行同化，通过平等研讨场域实现协同问题界定、概念情境化重构与循证教学改进。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Reliability]]"
   - "[[Discipline-Based Theory]]"
+  - "[[Early-Career Researchers]]"
   - "[[Causality]]"
   - "[[Research Question]]"
   - "[[Institutional Drift]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -126,7 +127,7 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题二｜高成效伙伴关系依托专业角色审议互补而非将实践者强行改造为初级科研人员
+> [!concept-proposition] 命题二｜高成效伙伴关系依托专业角色审议互补而非将实践者强行改造为[[Early-Career Researchers|初级科研人员]]
 > **实践主体分工与角色定位** 剖析一线教师在跨界科研网络中的合理定位，防止强行学术化对教学主业造成耗竭。
 
 > [!claim] Prøitz, T. S.

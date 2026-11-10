@@ -13,7 +13,7 @@ aliases:
 summary: "大学为工业界设立的会员制产学合作组织机制，企业通过缴纳固定年会费获得对大学研究社区的优先接触权、技术简报、人才招聘通道与同行网络，采用资金池共议探索与非排他共享机制，是连接前沿学术探索与后续专项研发转化的关键战略接口。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Mentorship]]"
   - "[[Tacit Knowledge]]"
+  - "[[Original Innovation Capability]]"
   - "[[Research Topic]]"
   - "[[Variable]]"
   - "[[Academic Engagement Team]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -169,7 +170,7 @@ updated: 2026-11-03
 > > 企业管理层常对数万美元联盟会费能否产生实质经济效益提出严苛审计。
 > >
 > > - **批评观点** 部分企业研发管理者认为捐赠型联盟缺乏强制交付指标与明确知识产权保障，容易沦为企业对大学的“社交赞助费”或仅仅买来几份没有实操价值的技术年报。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, p. 110)]]
-> > - **生态辩护** 资深[[University-Industry Collaboration|产学合作]]专家强调，联盟的核心价值在于建立早期战略雷达、高阶人才直通车与前竞争行业标准对话平台，过早追求短期交付反而扼杀了跨学科原始创新的火花，有别于技术直接下线。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 230)]]
+> > - **生态辩护** 资深[[University-Industry Collaboration|产学合作]]专家强调，联盟的核心价值在于建立早期战略雷达、高阶人才直通车与前竞争行业标准对话平台，过早追求短期交付反而扼杀了跨学科[[Original Innovation Capability|原始创新]]的火花，有别于技术直接下线。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 230)]]
 >
 > > [!axis] 成果外溢与非出资企业的“搭便车”顾虑
 > > 由于大学学术成果具有公共品属性，企业出资赞助大学联盟是否会面临收益被非出资竞争对手免费搭便车的困境。

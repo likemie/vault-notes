@@ -9,7 +9,7 @@ aliases:
 summary: "指世俗民族国家用于维系大规模陌生人之间政治团结与“想象亲密感”的制度化国民装置，涵盖公立教育通识正典、普遍国民防卫服役、世俗公民宗教、标准化共同语言与公共新闻论坛；在当代因后现代解构与多元主义冲击而全面荒废，导致大众退守娱乐亚文化、科技精英构建封闭技术城邦，构成现代西方国家防卫意志涣散与地缘脆弱性的深层根源。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,12 +22,14 @@ tags:
 related_concepts:
   - "[[Civic Religion]]"
   - "[[Hard Power]]"
+  - "[[Horizontal Comradeship]]"
   - "[[Cultural Relativism]]"
   - "[[Innovation Park]]"
   - "[[Technological Republic]]"
   - "[[Creativity]]"
   - "[[Market Shaping and Creating]]"
   - "[[Patriotic Education]]"
+  - "[[Nationalism]]"
   - "[[General Education]]"
   - "[[Western Civilization Course]]"
   - "[[Soft Belief]]"
@@ -44,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-09
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -80,7 +82,7 @@ updated: 2026-11-03
 
 > [!feature] 核心要素
 > - **制造国家的四大制度化支柱（Four Pillars of Manufacturing a Nation）** 涵盖公立教育正典（传承共同历史叙事）、国民防卫服役（铸就共同牺牲记忆）、标准化共同语言（保障公共理性商谈）以及超越党派的[[Civic Religion|公民宗教]]立约。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, p. 216)]]
-> - **陌生人间“想象亲密感”的维系纽带（Tether of Imagined Intimacy）** 在高度异质化的大型现代社会中，通过共有仪式使素不相识的公民产生深厚的横向同志情谊，为现代公共生活提供不可或缺的情感与道德粘合剂。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 216–217)]]
+> - **陌生人间“想象亲密感”的维系纽带（Tether of Imagined Intimacy）** 在高度异质化的大型现代社会中，通过共有仪式使素不相识的公民产生深厚的[[Horizontal Comradeship|横向同志情谊]]，为现代公共生活提供不可或缺的情感与道德粘合剂。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 216–217)]]
 > - **仪式废弃后的娱乐亚文化退缩（Retreat into Entertainment Subcultures）** 当国家撤出提供崇高公民意义的阵地时，公众共同体验退化为体育、明星、时尚与娱乐消费，导致政治共同体失去战略动员与抵御地缘渗透的免疫力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, p. 217)]]
 > - **硅谷技术城邦对国家真空的填补（Silicon Valley Tech City-States）** 科技巨头通过提供全方位生活保障与全员股权，建构起封闭自足的“现代技术公社/艺术聚落”，在满足人才对集体体验渴求的同时，加剧了技术阶层与民族国家母体的政治脱离。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 217–218)]]
 
@@ -148,7 +150,7 @@ updated: 2026-11-03
 > > - **技术共和主义（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska, 2025, pp. 216–218]]）** 指出完全放弃共同生活与公民仪式会导致社会失去抵御外部地缘危机的免疫力；强调必须在保护自由创造的同时重塑公民仪式，实现个体活力与集体崇高的平衡。
 
 > [!warning] 适用边界
-> 倡导公民仪式旨在恢复民主法治框架下的国民团结与制度防卫意志，必须严格警惕将其异化为压制言论自由或排斥少数群体的狭隘民族主义工具。
+> 倡导公民仪式旨在恢复民主法治框架下的国民团结与制度防卫意志，必须严格警惕将其异化为压制言论自由或排斥少数群体的狭隘[[Nationalism|民族主义]]工具。
 
 ---
 

@@ -8,7 +8,7 @@ summary: "美国卡耐基梅隆大学认知心理学与学习科学荣休讲席�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 21
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[STEM Education]]"
   - "[[Inquiry-Based Learning]]"
+  - "[[Cumulative Innovation]]"
   - "[[Scientific Method]]"
   - "[[Scientific Literacy]]"
 related_arguments:
@@ -44,17 +45,18 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
 related_facts:
+  - "[[American Physical Society]]"
   - "[[American Educational Research Association]]"
 related_theories:
   - "[[Behaviorism]]"
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 > [!def] 学者生平与定位
-> 戴维·克拉尔（David Klahr，1939–至今）是美国当代著名认知心理学家、学习科学与科学教育研究巨擘，卡耐基梅隆大学（Carnegie Mellon University, CMU）心理学系荣休讲席教授，美国心理科学协会（APS）与美国教育研究协会（[[American Educational Research Association\|AERA]]）会士。Klahr 的毕生研究聚焦于儿童科学推理、[[Problem Solving\|问题解决]]与概念发展的认知心理机制，其与凯文·邓巴（Kevin Dunbar）共同创立了著名的**科学发现双空间搜索模型（Scientific Discovery as Dual Search, SDDS）**，并开创了中小学[[Control of Variables Strategy\|变量控制策略]]（Control of [[Variable\|variables]] Strategy, CVS）的教学实验[[Paradigm\|范式]]。其在 2004 年发表的关于[[Direct Instruction\|直接教学]]与[[Discovery Learning\|发现学习]]对比的实证研究，成为[[International Education\|国际教育]]界二十年来争论教学法优劣的风暴中心（Klahr & Nigam, 2004; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 4, 10]]）。
+> 戴维·克拉尔（David Klahr，1939–至今）是美国当代著名认知心理学家、学习科学与科学教育研究巨擘，卡耐基梅隆大学（Carnegie Mellon University, CMU）心理学系荣休讲席教授，美国心理科学协会（[[American Physical Society|APS]]）与美国教育研究协会（[[American Educational Research Association\|AERA]]）会士。Klahr 的毕生研究聚焦于儿童科学推理、[[Problem Solving\|问题解决]]与概念发展的认知心理机制，其与凯文·邓巴（Kevin Dunbar）共同创立了著名的**科学发现双空间搜索模型（Scientific Discovery as Dual Search, SDDS）**，并开创了中小学[[Control of Variables Strategy\|变量控制策略]]（Control of [[Variable\|variables]] Strategy, CVS）的教学实验[[Paradigm\|范式]]。其在 2004 年发表的关于[[Direct Instruction\|直接教学]]与[[Discovery Learning\|发现学习]]对比的实证研究，成为[[International Education\|国际教育]]界二十年来争论教学法优劣的风暴中心（Klahr & Nigam, 2004; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 4, 10]]）。
 
 ---
 
@@ -104,7 +106,7 @@ Klahr 的实证研究构成了[[International Education|国际教育]]学界探�
 > |:-----|:-----|:-----|
 > | [[Control of Variables Strategy]] | 概念 | Klahr 是变量控制策略教学[[Experimental Research\|实验设计]]与认知机制评估的开创者。 |
 > | [[Inquiry-Based Learning]] | 概念 | Klahr 的实验深刻触发了学习科学界关于探究教学中指导时机与形式的全面反思。 |
-> | [[Direct Instruction]] | 概念 | 其 2004 年论文常被直接讲授倡导派援引为核心证据，但后续研究深化了对其局限的认识。 |
+> | [[Direct Instruction]] | 概念 | 其 2004 年论文常被直接讲授倡导派援引为核心证据，但[[Cumulative Innovation\|后续研究]]深化了对其局限的认识。 |
 > | [[Discovery Learning]] | 概念 | Klahr 实验中的对照组对比了无指导发现与显性讲授的习得差异。 |
 > | [[Scientific Method]] | 概念 | 双空间搜索模型（SDDS）为科学方法的认知心理机制提供了严密的计算表征。 |
 > | [[Scientific Literacy]] | 概念 | 掌握变量控制策略是学生形成现代科学素养与实证因果推理的核心门槛。 |

@@ -7,7 +7,7 @@ aliases:
 summary: "指教育研究从问题界定、实地观察、数据分析直至政策转译与课堂应用的完整链条中，必须保持内在认识论逻辑的统一性与不间断性，用以抵御去语境化偏误与政策伪科学"
 type: concept
 domain: "research-methodology"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Document]]"
   - "[[Reflexivity]]"
+  - "[[Policy Translation]]"
   - "[[Champ]]"
   - "[[Policy Network]]"
   - "[[Gatekeepers]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -93,7 +94,7 @@ updated: 2026-11-03
 > [!feature] 核心要素
 > - **逻辑链条的完整不间断性（Unbroken Chain of Logic）** 严密的因果推导与[[Epistemology\|认识论]]前提必须无缝贯通于问题定义、工具测量、实证分析、政策概括与一线操作五大阶段。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 88)]]
 > - **真知与意见的严格划界（Demarcation of Episteme from [[Doxa]]）** 坚持区分经过严谨同行评议、明确情境边界的科学真知（$\text{episteme}$）与在官僚体系和网络媒介中口口相传的流行意见或常识教条（doxa）。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 96)]]
-> - **情境边界与[[Reflexivity\|反思性]]保真（Contextual Preservation）** 坚决拒绝将特定样本情境下的局部有效性粗暴抽象为普适法则，强调政策转译必须完整保留原始研究的边界条件与反思性警示。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 94–95)]]
+> - **情境边界与[[Reflexivity\|反思性]]保真（Contextual Preservation）** 坚决拒绝将特定样本情境下的局部有效性粗暴抽象为普适法则，强调[[Policy Translation|政策转译]]必须完整保留原始研究的边界条件与反思性警示。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 94–95)]]
 
 > [!logic-map]- 认识论连贯性贯通与断裂对比
 > ```mermaid

@@ -6,9 +6,9 @@ summary: "批判理论的核心质性方法论，通过反思实践揭示社会�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 39
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 40
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -31,12 +31,13 @@ related_concepts:
   - "[[Causality]]"
   - "[[Reflexivity]]"
   - "[[Interpretive Paradigm]]"
+  - "[[Side Effects]]"
   - "[[Hidden Curriculum]]"
   - "[[Reliability]]"
   - "[[Problem-Posing Education]]"
   - "[[Culture of Silence]]"
-  - "[[Paradigm]]"
   - "[[Postpositivism]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Structural Functionalism]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-16
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -109,7 +110,7 @@ updated: 2026-11-02
 > 1. **阶段一：描述与诠释（Description and Interpretation）** 对现有情境进行诠释学分析，识别并理解行动者的日常生活现实，回应[[Interpretive Paradigm|诠释范式]]的理解取向。
 > 2. **阶段二：归因与利益分析（Reasons, Causes and Purposes）** 揭示造成现有不平等情境的深层历史动因与政治目的，系统解构各方既得利益与合法化修辞。哈贝马斯将此比作社会精神分析：将行动者被压抑、扭曲和支配的经验上升到自觉意识层面，一旦暴露即具解放潜能。
 > 3. **阶段三：变革议程（Agenda for Altering the Situation）** 提出破除意识形态遮蔽、改变压迫性结构的具体行动策略，推动走向平等与民主协商。
-> 4. **阶段四：实践评估（Evaluation of Achievement in Practice）** 在社会与教育实践中持续检验变革措施的实际解放成效与潜在副作用。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 93–101)]]
+> 4. **阶段四：实践评估（Evaluation of Achievement in Practice）** 在社会与教育实践中持续检验变革措施的实际解放成效与潜在[[Side Effects|副作用]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 93–101)]]
 
 > [!proc] Smyth 的四阶段平行反思框架（Smyth, 1989）
 > 1. **描述（Describe）** 我在做什么？（What am I doing?）记录教育实践中的真实行为。

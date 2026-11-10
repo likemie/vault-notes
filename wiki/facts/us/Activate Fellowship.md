@@ -14,7 +14,7 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 24
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -31,10 +31,12 @@ tags:
 related_concepts:
   - "[[Valley of Death]]"
   - "[[Megascience Installations]]"
+  - "[[Study Abroad]]"
   - "[[Mentorship]]"
   - "[[Paradigm]]"
   - "[[Big Science]]"
   - "[[Non-dilutive Funding]]"
+  - "[[Early-Career Researchers]]"
   - "[[Competitiveness]]"
   - "[[Technology Readiness Level]]"
   - "[[Portable Fellowship]]"
@@ -62,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -79,7 +81,7 @@ updated: 2026-10-22
 ---
 
 > [!claim] 核心干预／机制假说
-> 通过为青年硬科技科学家提供为期两年的非稀释性全额生活津贴、零边际成本使用国家实验室数亿美元[[Megascience Installations|大科学装置]]、以及高强度产业导师指导，使创业者在保留学术深度的同时迅速完成技术原型验证（PoC），极大提升硬科技初创企业的存活率与商业化成功率。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 43)]]
+> 通过为青年硬科技科学家提供为期两年的非稀释性全额生活津贴、零边际成本使用国家实验室数亿美元[[Megascience Installations|大科学装置]]、以及高强度产业导师指导，使创业者在保[[Study Abroad|留学]]术深度的同时迅速完成技术原型验证（PoC），极大提升硬科技初创企业的存活率与商业化成功率。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 43)]]
 
 > [!policy-design] 方案设计与四大支柱
 > - **非稀释性生活年薪与研究启动金（Personal & Project Support）**
@@ -129,7 +131,7 @@ updated: 2026-10-22
 > > 探讨利用纳税人全额资助的国家实验室公共设备为私人营利性初创企业赋能的合规边界与知识产权归属。
 > >
 > > - **合规与公地占用质疑（反方）** 批评者担忧公共高端科研仪器被少数特定私营公司过度占用，可能挤占基础科学探索资源，并引发潜在的公职利益冲突与国家知识产权流失风险。
-> > - **国家战略收益辩护（正方）** 政策制定者强调，在关键核心技术博弈背景下，若不向青年学者开放国家实验室基础设施，大量前沿专利将直接在象牙塔内沉没；通过严格的合规协议与准入审查，能够实现公共投入向产业[[Competitiveness|竞争力]]的高效转化。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 43)]]
+> > - **国家战略收益辩护（正方）** 政策制定者强调，在关键核心技术博弈背景下，若不向[[Early-Career Researchers|青年学者]]开放国家实验室基础设施，大量前沿专利将直接在象牙塔内沉没；通过严格的合规协议与准入审查，能够实现公共投入向产业[[Competitiveness|竞争力]]的高效转化。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 43)]]
 >
 > > [!axis] 实验室中试局限与后续大规模制造资金断层
 > > 探讨完成两年实验室孵化后的硬科技初创企业在迈向商业化量产时面临的重资产资金瓶颈。

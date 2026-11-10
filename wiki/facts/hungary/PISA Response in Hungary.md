@@ -12,7 +12,7 @@ subtype: event
 region: hungary
 fact_region: "hungary"
 fact_kind: "event"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -26,6 +26,7 @@ tags:
   - theme/ideology
 related_concepts:
   - "[[School Autonomy]]"
+  - "[[Nationalism]]"
   - "[[Pragmatic Paradigm]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Soft Accountability]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -60,7 +61,7 @@ updated: 2026-11-02
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2001 年首届 PISA 放榜至今，主要制度攻防与翻转发生于 2001 至 2006 年间，波及匈牙利全境基础教育体系。
 > - **核心当事主体** 欧尔班·维克托（Viktor Orbán）领导的青年民主主义者联盟（Fidesz）右翼保守内阁、自由民主战士联盟（SZDSZ）与匈牙利社会党（MSZP）组成的中左翼联合政府（时任教育部长巴林特·马贾尔，Bálint Magyar）、匈牙利国家公共教育研究所（OKI）以及[[OECD|经合组织]]（[[OECD]]）。
-> - **深层制度与社会背景** 经历东欧剧变后，匈牙利在 1990 年代完成了极度激进的市政分权化与[[School Autonomy|学校自主]]化改革；中央政府长期缺乏统一监控办学质量的技术工具；国内政治形成了坚守传统基督教民族主义教育的保守右翼与倡导欧洲一体化及新自由主义市场问责的自由左翼之间的持久极化对立。
+> - **深层制度与社会背景** 经历东欧剧变后，匈牙利在 1990 年代完成了极度激进的市政分权化与[[School Autonomy|学校自主]]化改革；中央政府长期缺乏统一监控办学质量的技术工具；国内政治形成了坚守传统基督教[[Nationalism|民族主义]]教育的保守右翼与倡导欧洲一体化及新自由主义市场问责的自由左翼之间的持久极化对立。
 > - **直接导火索 / 触发事件** PISA 2000 结果出炉：匈牙利学生在阅读素养上显著落后于经合组织平均线（排第 23 位），暴露出严重的教育不平等与家庭阶层背景对学业分化的深层固化。
 
 ---

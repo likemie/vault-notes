@@ -37,6 +37,7 @@ related_concepts:
   - "[[Valley of Death]]"
   - "[[Multi-Project Wafer]]"
   - "[[Research Translation]]"
+  - "[[Study Abroad]]"
   - "[[Open-Mindedness]]"
   - "[[Pilot Scale Platform]]"
   - "[[Competitiveness]]"
@@ -54,14 +55,13 @@ related_facts:
   - "[[DARPA]]"
   - "[[National Advanced Packaging Manufacturing Program]]"
   - "[[Subcommittee on Microelectronics Leadership]]"
-  - "[[National Strategy on Microelectronics Research]]"
 related_arguments:
   - "[[Argument_NIST_2023_NSTC]]"
   - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -152,7 +152,7 @@ updated: 2026-11-02
 > > [!axis] 国防涉密管控 vs 大学学术开放交流冲突
 > > 争论国防部主导的资助网络是否会因涉密限制（如 ITAR/EAR 出口管制与外籍研究人员审查）而阻碍高水平大学的开放科研。
 > >
-> > - **学术界担忧** 顶尖大学工程实验室高度依赖国际留学生与博士后，过于严苛的国防安全审查可能导致核心学术团队无法参与共用体攻关。
+> > - **学术界担忧** 顶尖大学工程实验室高度依赖国际[[Study Abroad|留学]]生与博士后，过于严苛的国防安全审查可能导致核心学术团队无法参与共用体攻关。
 > > - **国防部治理平衡** 国防部采取分级管理机制，将前竞争前沿探索与涉密原型设计在物理空间与访问权限上严格区隔，最大化保留学术[[Open-Mindedness|开放性]]。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 11, 27)]]
 >
 > > [!axis] 区域枢纽利益分散 vs 国家战略资源聚焦争议

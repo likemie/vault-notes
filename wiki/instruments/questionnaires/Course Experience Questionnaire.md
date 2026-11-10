@@ -8,7 +8,7 @@ aliases:
 summary: "由保罗·拉姆斯登（Paul Ramsden）开创、澳大利亚教育研究委员会（ACER）与澳大利亚政府标准化的全国性大学毕业生调查工具，包含优良教学、通用技能及适度工作量等核心分量表。"
 type: instrument
 instrument_type: questionnaire
-instrument_related_count: 10
+instrument_related_count: 11
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#fef3c7"
@@ -36,6 +36,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
+  - "[[Reinforcement Learning]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-20
+updated: 2026-11-11
 ---
 
 ---
@@ -95,4 +96,4 @@ updated: 2026-10-20
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
 > | CEQ 23 题原始版 | 英语（澳大利亚/英国） | 大学本科毕业生 | 23 题 | 确立教学、技能、目标、负荷与评价 5 个经典分量表 | Ramsden (1991) |
-> | CEQ 扩展版（[[Graduate Outcomes Survey\|GOS]] 模块） | 英语（全球多国） | 高校毕业生各学段 | 30 题 | 强化学习共同体与学习资源维度，深度整合至澳大利亚毕业生成果调查（GOS） | ACER (2002, 2015) |
+> | CEQ 扩展版（[[Graduate Outcomes Survey\|GOS]] 模块） | 英语（全球多国） | 高校毕业生各学段 | 30 题 | [[Reinforcement Learning\|强化学习]]共同体与学习资源维度，深度整合至澳大利亚毕业生成果调查（GOS） | ACER (2002, 2015) |

@@ -7,9 +7,9 @@ summary: "利用学年 vs 暑假作为自然实验的准实验研究设计，比
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 9
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 10
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -28,6 +28,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
+  - "[[Natural Experiment]]"
   - "[[Repeated Measures Design]]"
   - "[[Longitudinal Study]]"
 related_persons: []
@@ -36,11 +37,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 > [!info] 定义
-> 季节性比较（Seasonal Comparison）是一种准[[Experimental Research\|实验研究]]设计，利用学校日历的季节性特征——九个月的学年后接三个月的暑假——作为自然实验来理解学校如何影响不平等。其核心逻辑类似于医学研究中的交叉设计（[[Repeated Measures Design\|crossover design]]）：被试在治疗期（学年）和非治疗期（暑假）被反复观测，通过比较两种条件下成就差距的变化来推断学校的因果效应([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.4]])。
+> 季节性比较（Seasonal Comparison）是一种准[[Experimental Research\|实验研究]]设计，利用学校日历的季节性特征——九个月的学年后接三个月的暑假——作为[[Natural Experiment|自然实验]]来理解学校如何影响不平等。其核心逻辑类似于医学研究中的交叉设计（[[Repeated Measures Design\|crossover design]]）：被试在治疗期（学年）和非治疗期（暑假）被反复观测，通过比较两种条件下成就差距的变化来推断学校的因果效应([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.4]])。
 >
 > > "Similar to a crossover design in medical research, where patients are observed on and off treatment, seasonal comparison researchers observe how achievement gaps change when children are on treatment (in school) versus out (summer)."
 

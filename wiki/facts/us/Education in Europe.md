@@ -13,7 +13,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ tags:
 related_concepts:
   - "[[Document]]"
   - "[[Normal School]]"
+  - "[[Transnational Education]]"
   - "[[Influences Across Cultures]]"
 related_theories: []
 related_methods:
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -87,7 +88,7 @@ updated: 2026-10-30
 
 > [!finding-cards] 关键历史后果
 > - **奠定北美现代高中与技术课程** 贝奇将其欧洲考察成果直接应用于费城中央高中的改组，开创了全美首个涵盖现代科学、实科工业与外语的公立高中体系。
-> - **确立比较教育文献典范** 其 666 页巨型篇幅与对 278 所学校的系统调研，树立了实地多案例比较研究的典范，被后世史学家公认为早期科学化跨国教育考察的巅峰之作。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124–125)]]
+> - **确立比较教育文献典范** 其 666 页巨型篇幅与对 278 所学校的系统调研，树立了实地多案例比较研究的典范，被后世史学家公认为早期科学化[[Transnational Education|跨国教育]]考察的巅峰之作。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124–125)]]
 
 ---
 

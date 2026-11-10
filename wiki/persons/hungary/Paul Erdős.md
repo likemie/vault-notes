@@ -10,7 +10,7 @@ summary: "匈牙利传奇数学家，20 世纪发表论著最多的学者之一�
 type: person
 nationality: hungary
 person_region: "hungary"
-person_related_count: 17
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -30,10 +30,11 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
   - "[[Heterogeneity]]"
+  - "[[Early-Career Researchers]]"
   - "[[Creativity]]"
+  - "[[Sleeping Beauty in Science]]"
   - "[[Team Science]]"
   - "[[Six Degrees of Separation]]"
-  - "[[Sleeping Beauty in Science]]"
 related_theories:
   - "[[Preferential Attachment in Academia]]"
   - "[[Small-World Collaboration Model]]"
@@ -43,13 +44,14 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Institute for Advanced Study]]"
+  - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-31
+updated: 2026-11-11
 ---
 
 ---
@@ -75,7 +77,7 @@ updated: 2026-10-31
 ---
 
 > [!work-line] 主要著作
-> - **1959 — *On Random Graphs I*** 与阿尔弗雷德·雷尼（Alfréd Rényi）合作提出随机图理论（Erdős–Rényi 模型），奠定现代复杂网络理论数学基石。该论著也是科学界著名的“[[Sleeping Beauty in Science|睡美人]]”：在发表后的四十年间长期沉寂，直至 20 世纪末网络科学兴起后被全面唤醒，引文出现爆发式增长。
+> - **1959 — *On Random Graphs I*** 与阿尔弗雷德·雷尼（Alfréd Rényi）合作提出随机图理论（Erdős–Rényi 模型），奠定现代复杂网络理论数学基石。该论著也是科学界著名的“睡美人”：在发表后的四十年间长期沉寂，直至 20 世纪末网络科学兴起后被全面唤醒，引文出现爆发式增长。
 > - **1960 — *On the Evolution of Random Graphs*** 形式化发现网络中[[Giant Component|巨连通分支]]的相变[[Emergence|涌现]]规律。
 > - **1979 — *On the Complexity of Facets on Polyhedra*** 与克里斯托斯·帕帕季米特里乌（Christos Papadimitriou）合撰，比尔·盖茨通过与后者合作撰写成果而间接获得埃尔德什数 4。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 104)]]
 
@@ -92,7 +94,7 @@ updated: 2026-10-31
 > - **科学学路径** 其实证合作数据被广泛用于验证学者度分布重尾[[Heterogeneity|异质性]]与学术网络演化动力学。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]] — 作为学术合著网络核心案例，分析埃尔德什数与小世界拓扑（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]]）；以 1959 年随机图奠基论著作为被网络科学唤醒的[[Sleeping Beauty in Science|睡美人]]范例（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]] — 作为学术合著网络核心案例，分析埃尔德什数与小世界拓扑（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]]）；以 1959 年随机图奠基论著作为被网络科学唤醒的睡美人范例（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]）。
 
 ---
 
@@ -109,7 +111,7 @@ updated: 2026-10-31
 > > 埃尔德什多达 1,500 篇的高频合作发表风格曾在数学界引发深入讨论。
 > >
 > > - **传统学派观点** 担忧过于聚焦具体离散问题的协作可能分散精力，难以构建鸿篇巨制的庞大系统性理论公理体系。
-> > - **现代网络学派抗辩** 认为这种敏捷协作与开放猜想激励机制极大地激发了跨学科青年学者的[[Creativity|创造力]]，是科学网络化时代最高效的协同攻关典范。
+> > - **现代网络学派抗辩** 认为这种敏捷协作与开放猜想激励机制极大地激发了跨学科[[Early-Career Researchers|青年学者]]的[[Creativity|创造力]]，是[[Web of Science|科学网]]络化时代最高效的协同攻关典范。
 
 ---
 

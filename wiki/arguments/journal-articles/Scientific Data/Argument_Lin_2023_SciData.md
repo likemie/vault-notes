@@ -35,6 +35,7 @@ related_concepts:
   - "[[Patent Citation]]"
   - "[[Altmetrics]]"
   - "[[Citation Distribution]]"
+  - "[[Study Abroad]]"
   - "[[Research Translation]]"
   - "[[Team Science]]"
   - "[[Scientific Method]]"
@@ -58,13 +59,15 @@ related_persons:
 related_facts:
   - "[[SciSciNet]]"
   - "[[Web of Science]]"
+  - "[[Scopus]]"
+  - "[[Dimensions]]"
+  - "[[Crossref]]"
   - "[[Microsoft Academic Graph]]"
   - "[[National Institutes of Health]]"
   - "[[National Science Foundation]]"
-  - "[[Education Policy Outlook]]"
-  - "[[Crossref]]"
-  - "[[Dimensions]]"
   - "[[ClinicalTrials.gov]]"
+  - "[[Education Policy Outlook]]"
+  - "[[United States Patent and Trademark Office]]"
 related_arguments: []
 sources:
   - "[[sources/Lin_2023_SciData/Lin_2023_SciData|Lin_2023_SciData]]"
@@ -75,9 +78,9 @@ title: "Argument_Lin_2023_SciData"
 argument_key: "Argument_Lin_2023_SciData"
 argument_display_title: "SciSciNet: A large-scale open data lake for the science of science research"
 argument_kind: "journal-article"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 42
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: Scientific Data
 ---
@@ -95,7 +98,7 @@ journal: Scientific Data
 
 > [!concept-lens] 阅读透镜
 > - **对象** 全球跨学科多源科研大数据，涵盖 134,129,188 篇学术出版物、4.14 亿条学者-机构关系、15.89 亿条引文对、上游资助与下游社会经济应用关联。
-> - **张力** 专有商业数据库（如[[Web of Science|科学引文索引数据库]]（Web of Science, WoS）、Scopus、Dimensions）的高昂获取成本及封闭处理规则，同学术界对透明、可复现、低门槛公共实证基础设施迫切需求之间的矛盾。
+> - **张力** 专有商业数据库（如[[Web of Science|科学引文索引数据库]]（Web of Science, WoS）、[[Scopus]]、[[Dimensions]]）的高昂获取成本及封闭处理规则，同学术界对透明、可复现、低门槛公共实证基础设施迫切需求之间的矛盾。
 > - **贡献** 开源发布包含 22 张规范化数据表（制表符分隔值，Tab-Separated Values, TSV）的完整科学学数据湖，公布可复现的预处理与模糊记录匹配算法，并预计算颠覆性、新颖性、引文动力学等多维指标。
 
 ---
@@ -154,7 +157,7 @@ journal: Scientific Data
 > | `SciSciNet_PaperDetails` | 136,726,948 | `PaperID, DOI, DocType, PaperTitle, BookTitle, Year, Date, Publisher, JournalID, ConferenceSeriesID, OriginalVenue, Volume, Issue, FirstPage, LastPage` | 成果详细信息表，保留家族附属版本与撤稿成果的篇名及卷期页码 |
 > | `SciSciNet_Link_NSF` | 1,309,518 | `PaperID, NSF_Award_Number, Type, Diff_ZScore` | 论著与 NSF 资助对齐表（区分 Exact 与 Fuzzy 匹配类型） |
 > | `SciSciNet_Link_NIH` | 6,013,187 | `PaperID, NIH_Project_Number` | 论著与 NIH 资助项目对齐表 |
-> | `SciSciNet_Link_Patents` | 38,740,313 | `PaperID, PatentID, Type` | 论著与专利引文关联表（Type=1 为 USPTO，0 为 EPO） |
+> | `SciSciNet_Link_Patents` | 38,740,313 | `PaperID, PatentID, Type` | 论著与专利引文关联表（Type=1 为 [[United States Patent and Trademark Office\|USPTO]]，0 为 EPO） |
 > | `SciSciNet_Link_ClinicalTrials` | 438,220 | `PaperID, NCT_Number` | 论著与 [[ClinicalTrials.gov]] 临床试验引用关联表（NCT 注册号） |
 > | `SciSciNet_Link_Twitter` | 55,846,550 | `PaperID, TweetID` | 论著与推特社交媒体讨论对齐表 |
 > | `SciSciNet_Link_Newsfeed` | 595,241 | `PaperID, NewsfeedID` | 论著与全球主流媒体新闻报道提及对齐表 |
@@ -214,7 +217,7 @@ journal: Scientific Data
 > [!chain-link] 版本合并引发的引用失真与内部重算校正链条
 > - **版本聚合引发引用虚高** 多版本归并后旧库计数会导致引用叠加膨胀，且大量外部连线指向已被吸纳的次级版本。
 > - **核心集内部逐条重查重构** 在 1.34 亿篇核心出版物范围内重新核验施引与被引关系，剔除同家族内部自引与重复连线，构建 1,588,739,703 条真实引文对。
-> - **高等级相关确证拓扑保真** 重算前后的斯皮尔曼等级相关系数在被引频次（0.991）与参考文献数（0.994）上高度吻合，忠实保留学术引用格局。
+> - **高等级相关确证拓扑保真** 重算前后的斯皮尔曼等级相关系数在被引频次（0.991）与参考文献数（0.994）上高度吻合，忠实保[[Study Abroad|留学]]术引用格局。
 
 > [!figure]- 图 1：SciSciNet 实体关系架构
 > ![](https://img.mylikemie.icu/sources/Lin_2023_SciData/figures/Lin_2023_SciData_Fig1_Entity_Relationship_Diagram.jpg)

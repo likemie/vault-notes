@@ -7,10 +7,10 @@ summary: "美国当代科技政策制定者与战略管理者，曾任美国第4
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 39
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 40
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1986"
 lifespan: "1986–至今"
 tags:
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Permissionless Innovation]]"
   - "[[Competitiveness]]"
   - "[[Research Universities]]"
+  - "[[Early-Career Researchers]]"
   - "[[Linear Model of Innovation]]"
   - "[[Technology-Oriented Social Contract]]"
 related_theories:
@@ -67,7 +68,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -144,7 +145,7 @@ updated: 2026-10-26
 > > [!axis] 高校中心地位争论：赋能个人科学家 vs. 制度性边缘化
 > > 对报告对待[[Research Universities|研究型大学]]地位的不同解读。
 > >
-> > - **报告自我定位（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）** 强调大学对于人才培养与根本问题探索依然不可或缺；改革并非打压大学，而是打破遗留行政文书对青年学者个人的束缚，赋权科学家个人自由探索。
+> > - **报告自我定位（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）** 强调大学对于人才培养与根本问题探索依然不可或缺；改革并非打压大学，而是打破遗留行政文书对[[Early-Career Researchers|青年学者]]个人的束缚，赋权科学家个人自由探索。
 > > - **外部制度观察（樊春良）** [[Argument_Fan_2026_BCAS|樊春良 (2026, pp. 1062–1063)]] 认为其大力扶持国家实验室、[[Focused Research Organization|FRO]] 与商业巨头的做法，在客观上分流了传统高校的中心地位，重构了国家创新的权力格局。
 
 ---

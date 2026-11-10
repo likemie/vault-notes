@@ -10,7 +10,7 @@ subtype: program
 region: "china"
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ tags:
   - theme/scholarship
   - theme/educational-diplomacy
 related_concepts:
+  - "[[Study Abroad]]"
   - "[[Public-Private Partnership]]"
 related_facts:
   - "[[Ministry of Education of the People's Republic of China]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -46,7 +47,7 @@ updated: 2026-10-26
 > - **立项时间 / 周期** 2016 年由教育部正式印发启动，作为“一带一路”教育国际合作的标志性资助平台持续常态化运行至今。[[Argument_Custer_2021_AidData|(Custer et al., 2021, p. 26)]]
 > - **发起方与资助机制** 由教育部统筹部署，委托[[China Scholarship Council|国家留学基金管理委员会]]（CSC）具体执行，资助资金由中央财政全额专项核拨，并鼓励地方政府与重点高校设立配套平行奖学金。
 > - **覆盖范围与对象** 重点覆盖沿线 60 余个共建国家的本科生、硕士生、博士生以及高级研修学者，优先资助交通基础设施、能源电力、装备制造与国际商法等重点领域生源。
-> - **核心问题导向** 针对发展中国家青年面临的自费赴华留学学费压力、外汇管制与跨国生活成本壁垒，通过国家兜底性资助构建稳定的人才培养通道。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 26–27)]]
+> - **核心问题导向** 针对发展中国家青年面临的自费赴华[[Study Abroad|留学]]学费压力、外汇管制与跨国生活成本壁垒，通过国家兜底性资助构建稳定的人才培养通道。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 26–27)]]
 
 ---
 

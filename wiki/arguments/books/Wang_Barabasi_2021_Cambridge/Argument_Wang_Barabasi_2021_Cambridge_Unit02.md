@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit02"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit02"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 47
+argument_related_count: 46
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Experimental Innovators]]"
   - "[[Creativity]]"
   - "[[Counterfactual]]"
-  - "[[Screening Off]]"
   - "[[Goliath's Shadow]]"
   - "[[Lost Winners]]"
   - "[[The Graying of Science]]"
@@ -87,7 +86,7 @@ sources:
 part_of: "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 status: active
 created: "2026-10-29"
-updated: 2026-11-05
+updated: 2026-11-11
 ---
 
 ---
@@ -100,7 +99,7 @@ updated: 2026-11-05
 
 > [!concept-lens] 阅读透镜
 > - **分析对象** 20 世纪全量诺贝尔奖得主与重大发明家档案、[[National Institutes of Health|美国国立卫生研究院]]（National Institutes of Health, NIH）独立研究课题资助（Research Project Grant, R01）队列、2,856 位长周期活跃物理学者、数万名艺术家与电影导演，以及 270 万家初创企业创始人。
-> - **核心张力** 资助机构偏好资深学者的老龄化稳妥管理与前沿突破倚重年轻活力的政策张力、传统青年等于[[Creativity|创造力]]的刻板印象与长周期大数据[[Counterfactual|反事实]]统计的认知冲突、以及终身奖项生存偏误对晚期突破的制度性[[Screening Off|屏蔽]]。
+> - **核心张力** 资助机构偏好资深学者的老龄化稳妥管理与前沿突破倚重年轻活力的政策张力、传统青年等于[[Creativity|创造力]]的刻板印象与长周期大数据[[Counterfactual|反事实]]统计的认知冲突、以及终身奖项生存偏误对晚期突破的制度性屏蔽。
 > - **方法贡献** 运用两次世界大战作为学术中断的外生[[Natural Experiment|准自然实验]]检验知识积累门槛；依托大样本同名消歧算法构建[[Drop-pin Projection|学者生涯图钉投影]]；提出生涯序列随机置换零模型与相对位置均匀分布检验法，严密分离年龄效应与生产力效应。
 
 ---

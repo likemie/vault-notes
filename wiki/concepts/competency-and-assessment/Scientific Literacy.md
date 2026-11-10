@@ -10,7 +10,7 @@ aliases:
 summary: "个体理解科学运作机制、批判性评估多源证据质量、接纳科学知识暂定性与不确定性，并在日常生活和公共审议中做出理性判断的核心公民素养，涵盖科学本质理解、证据辨析、认识论实践、抵御虚假信息与大模型幻觉，以及在公共政策中坚守基于客观实证可复现性与学术卓越的“金标准科学”评价心智。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 75
+related_count: 76
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[AI Literacy]]"
   - "[[Cultural Capital]]"
   - "[[AI Hallucination]]"
+  - "[[Algorithmic Bias]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Source Evaluation]]"
   - "[[Evaluation Research]]"
@@ -105,7 +106,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -146,7 +147,7 @@ updated: 2026-11-03
 > | 比较维度 | [[Scientific Literacy\|科学素养（Scientific Literacy）]] | [[Science Capital\|科学资本（Science Capital）]] | [[Data Literacy\|数据素养（Data Literacy）]] | [[AI Literacy\|人工智能素养（AI Literacy）]] |
 > |---|---|---|---|---|
 > | **核心关注** | 理解科学运作、评估证据质量、接纳不确定性与坚守实证客观性 | 解释个体为何认为科学是否适合我的综合社会[[Cultural Capital\|文化资本]] | 评估日常生活与媒体中海量数据、图表、统计与风险的能力 | 理解算法推荐逻辑、识别[[AI Hallucination\|大模型幻觉]]与人机协作伦理 |
-> | **构念构成** | [[Nature of Science\|科学本质]]、探究方法、证据辨析、怀疑与可复现性、反意识形态偏误 | 科学素养、科学相关态度、媒体消费、校外参与、家庭人脉 | 样本代表性、[[Effect Size\|效应量]]、因果推论、概率认知与统计偏误识别 | 提示词工程、算法偏见审计、合成伪证鉴别、版权溯源意识 |
+> | **构念构成** | [[Nature of Science\|科学本质]]、探究方法、证据辨析、怀疑与可复现性、反意识形态偏误 | 科学素养、科学相关态度、媒体消费、校外参与、家庭人脉 | 样本代表性、[[Effect Size\|效应量]]、因果推论、概率认知与统计偏误识别 | 提示词工程、[[Algorithmic Bias\|算法偏见]]审计、合成伪证鉴别、版权溯源意识 |
 > | **在知识生态中的定位** | 全民[[21st Century Skills and Competencies Discourse\|核心素养]]基础与国家循证治理基石 | 社会学阶层与认同分析工具；涵盖素养但延伸至社会网络 | 科学素养在量化实证维度的必要技术支撑与量化延伸 | 科学素养在生成式数字时代的全新延伸与认知护栏 |
 > | **主要政策场景** | 基础教育科学课程改革、公民素养监测、联邦科研评审去意识形态化 | 促进教育公平、打破边缘群体与女性科学参与壁垒 | 应对数字媒体统计误导、公共卫生与气候危机风险沟通 | 防范算法虚假信息扩散、规范智能检索与科研辅助使用 |
 

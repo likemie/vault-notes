@@ -9,7 +9,7 @@ aliases:
 summary: "布雷彻等创立、阿诺夫引入比较教育学的批判社会运动与教育改革理论，指跨国界基层社会运动、原住民团体与教师工会依托数字通信构筑的以太流散空间，利用普世人权话语反哺抗争新自由主义自上而下的政策规训，通过跨国社会连带争取教育公平并推动世界体系向全球社会民主转型"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 35
+theory_related_count: 36
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[School Vouchers]]"
   - "[[Costs Benefits Ratio in Research Ethics]]"
   - "[[Geopolitics]]"
+  - "[[Nationalism]]"
   - "[[Creativity]]"
   - "[[Epistemology]]"
 related_theories:
@@ -218,7 +219,7 @@ updated: 2026-11-11
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 跨国基层社会运动、教师工会维权、原住民自治教育保护以及由非国家行动者发起的批判性跨国网络研究。
 > - **成立条件** 基层行动者必须具备最低限度的信息通信渠道接入能力（跨越数字鸿沟），且能够维持起码的结社与跨国通信自由。
-> - **解释不足** 容易滑入对民间力量的“草根浪漫主义”（grassroots romanticism），低估了民间组织极易被国际捐助资金收编并蜕变为去政治化“[[Shadow State|影子国家]]”的结构性风险；未能充分预见[[Geopolitics|地缘政治]]回归与民粹民族主义对跨国草根团结的严重撕裂。
+> - **解释不足** 容易滑入对民间力量的“草根浪漫主义”（grassroots romanticism），低估了民间组织极易被国际捐助资金收编并蜕变为去政治化“[[Shadow State|影子国家]]”的结构性风险；未能充分预见[[Geopolitics|地缘政治]]回归与民粹[[Nationalism|民族主义]]对跨国草根团结的严重撕裂。
 > - **转化困难** 流散空间中的网络声援与点赞动员难以直接折算为现实中的制度化立法成果；在缺乏超国家主权执法机制的前提下，草根抗争成果容易被既得利益阶层反扑逆转。
 > - **不能直接推出** 不能单凭出现了自下而上的草根网络，就直接推论资本主义世界体系的终结或全球教育平等的必然实现。
 

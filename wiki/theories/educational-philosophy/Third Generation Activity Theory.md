@@ -15,7 +15,7 @@ aliases:
 summary: "在 Vygotsky 中介三角与 Engeström 六要素模型基础上发展出的理论范式，聚焦多活动系统相遇时的矛盾、边界跨越、人机协同分工与扩展性改造机制，包含教育技术领域的 AT-MCSCL 分析框架。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 52
+theory_related_count: 53
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Constructivist Paradigm]]"
   - "[[Variable]]"
+  - "[[Policy Translation]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Cognitive Offloading]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -84,7 +85,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -93,7 +94,7 @@ updated: 2026-10-30
 > - **解释对象** 集体活动系统（Activity System）、多系统相遇与互动、中介工具介入（如生成式 AI、跨国新教学法）、制度与系统内部矛盾（Contradictions）及扩展性组织改造机制（Expansive Transformation）。
 > - **理论问题** 如何超越个体主义认知还原论与机械技术[[Determinism\|决定论]]，从中观社会文化历史情境与系统结构性矛盾切入，解释制度变迁、教学改革、人机认知分工以及边界跨越（Boundary Crossing）现象？
 > - **理论类型** 文化历史活动理论[[Paradigm\|范式]]（Cultural-Historical Activity Theory, CHAT）、社会文化历史[[Constructivist Paradigm\|建构主义]]中层机制模型与[[Analytic Framework\|分析框架]]，涵盖专用于解构数字协同学习调节[[Variable\|变量]]的 AT-MCSCL [[Domain Analysis\|领域分析]]架构。
-> - **知识位置** 承袭 Vygotsky 中介三角与 Leont'ev 活动层级论，由 Engeström (1987, 2001) 形式化为六要素模型与多系统互动网络；近期在教育政策转译（[[Argument_Wang_2025_CE\|Wang & McLaughlin, 2025]]）、高等教育生成式 AI 教学重构（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）与[[Meta-analysis\|元分析]]编码（[[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung, 2025]]）中获得前沿拓展。
+> - **知识位置** 承袭 Vygotsky 中介三角与 Leont'ev 活动层级论，由 Engeström (1987, 2001) 形式化为六要素模型与多系统互动网络；近期在教育[[Policy Translation|政策转译]]（[[Argument_Wang_2025_CE\|Wang & McLaughlin, 2025]]）、高等教育生成式 AI 教学重构（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）与[[Meta-analysis\|元分析]]编码（[[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung, 2025]]）中获得前沿拓展。
 
 > [!claim] 核心主张
 > 人类实践应被概念化为集体的、对象导向的、由工具与符号中介的活动系统。第三代活动理论的核心主张在于：不同活动系统之间的相遇与碰撞，或新型中介工具的强力介入，必然触发系统内在与系统之间的结构性矛盾（Contradictions）；当行动者通过边界跨越识别矛盾并建构“共享客体（Shared Object）”时，活动系统能够推动工具、规则、分工与共同体全要素的协同重组，实现“扩展性改造（Expansive Transformation）”。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 590–591, 600)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 11–13)]]

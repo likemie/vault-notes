@@ -9,7 +9,7 @@ aliases:
 summary: "安德烈亚斯·卡扎米亚斯用希腊神话普罗透斯隐喻界定的比较教育学认识论特征，指学科在两百余年演进中因应不同时代的认识论、方法论与意识形态风尚而持续变换形态与论述代际"
 type: concept
 domain: "comparative-education"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -56,6 +56,7 @@ related_theories:
   - "[[Pluralism]]"
   - "[[Structural Functionalism]]"
 related_methods:
+  - "[[Cognitive Extent]]"
   - "[[Problem Approach]]"
   - "[[Effect Size]]"
   - "[[Content Analysis]]"
@@ -83,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -99,7 +100,7 @@ updated: 2026-11-03
 > [!citation-card] 卡扎米亚斯论比较教育学的普罗透斯式认识体系
 > 比较教育学这一术语有别于一个单一面向或单音调的概念或智识体系。它是一门跨学科与多学科的“人文科学”，是[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）意义上的教育科学（Vergleichende Erziehungswissenschaft）。从历史上看，比较教育学的谱系渊源可以追溯到十八世纪末和十九世纪初欧洲[[Enlightenment|启蒙运动]]的“现代主义”时期。自那时起，人们便从各种各样的视角、通过各种各样的方法论棱镜、并运用各种各样的研究方法和技术，来对教育系统、问题、现象或过程展开比较研究并进行概念化构建。如同希腊神话中的半神普罗透斯一样，比较教育学在不同的历史时期穿戴着由不同颜色的认识论、方法论和意识形态丝线所编织的不同装束。因此，它以各种各样的伪装形态出现，在很大程度上折射出时代的智识、方法论和文化潮流与风尚。这就是为何将比较教育学称为一种普罗透斯式认识体系。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140)]]
 >
-> *The term comparative education (CE) is not a mono-faceted or monophonic concept/intellectual system. It is an inter- and multidisciplinary 'human science', an episteme in Nicholas Hans' sense of Vergleichende Erziehungwissenschaft... Like the Greek mythical demigod Proteus, CE at different historical periods has donned different attire, woven by differently coloured epistemological, methodological and ideological threads. Consequently, it has appeared in a variety of guises reflecting to a large degree, the intellectual, methodological and cultural strands and fads of the times. Hence, the appellation of CE as a protean episteme (Kazamias, 2001).*
+> *The term comparative education ([[Cognitive Extent|CE]]) is not a mono-faceted or monophonic concept/intellectual system. It is an inter- and multidisciplinary 'human science', an episteme in Nicholas Hans' sense of Vergleichende Erziehungwissenschaft... Like the Greek mythical demigod Proteus, CE at different historical periods has donned different attire, woven by differently coloured epistemological, methodological and ideological threads. Consequently, it has appeared in a variety of guises reflecting to a large degree, the intellectual, methodological and cultural strands and fads of the times. Hence, the appellation of CE as a protean episteme (Kazamias, 2001).*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Comparative Educations|复数比较教育学]] — “复数比较教育学”侧重于共时态下多元范式与学派并存的碎片化格局；“普罗透斯式认识体系”侧重于历时态下学科因应时代语境不断重塑自身、变换方法论装束与论述代际的动态演变特质。

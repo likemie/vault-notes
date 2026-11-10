@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 34
+fact_related_count: 35
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -62,6 +62,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"
+  - "[[Ben Levin]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Every Student Succeeds Act]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -124,7 +125,7 @@ updated: 2026-11-02
 ---
 
 > [!finding-cards] 核心实证结论
-> - **助教主导一对一辅导的稳健因果增益** 在早期小学 1–5 年级评估中（Rutt et al., 2014），经培训助教执行的 1:1 辅导获得了 $+0.21$ 的显著学业[[Effect Size\|效应量]]，被斯莱文团队评定为达到美国《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）“强证据（Strong）”最高等级，证实了低成本助教替代认证教师提供 Tier 3 密集辅导的技术可行性与高性价比。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
+> - **助教主导一对一辅导的稳健因果增益** 在早期小学 1–5 年级评估中（Rutt et al., 2014），经培训助教执行的 1:1 辅导获得了 $+0.21$ 的显著学业[[Effect Size\|效应量]]，被斯[[Ben Levin|莱文]]团队评定为达到美国《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）“强证据（Strong）”最高等级，证实了低成本助教替代认证教师提供 Tier 3 密集辅导的技术可行性与高性价比。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **[[Pre-test and Post-test\|后测]]工具量程截断危机** 终期评估采用的独立商业标准化数学测验暴露出严重缺陷：题项缺乏足够的区分度梯阶，导致基础较好的学生大量触及满分天花板，而基础薄弱学生集中在零分地板。
 > - **干预效应量的严重低估** [[Floor and Ceiling Effects\|天花板与地板效应]]截断了学生能力的真实变异分布，使得干预组在细分数学技能上的微小但真实进展无法被测验灵敏捕获，导致统计模型输出的效应量大幅衰减至微弱或不显著水平。
 > - **助教辅导保真度差异** [[Implementation and Process Evaluation\|实施与过程评估]]（IPE）表明，助教在一对一微辅导中的操作保真度高度依赖学校日常排课保障；部分学校因人员调配紧张导致辅导课次被挤占取消。

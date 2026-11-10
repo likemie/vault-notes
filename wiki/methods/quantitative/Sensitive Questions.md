@@ -10,9 +10,9 @@ summary: "问卷设计与调查研究中针对受访者私密、威胁或具社�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 20
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -41,13 +41,14 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Survey Research]]"
   - "[[Rating Scale]]"
+  - "[[Statistical Significance]]"
   - "[[Chi-Squared Test]]"
   - "[[Triangulation]]"
   - "[[Pilot Testing]]"
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -93,7 +94,7 @@ updated: 2026-10-30
 > - **数据结构** 问卷题项自陈数据、敏感行为报告频度与外部基准校验数据。
 > - **样本与单位** 抽样个体、高敏感度特殊群体（如曾有违纪行为的学生或承受考核压力的教师）。
 > - **变量或指标** 目标敏感行为发生率、社会期望行为报告频次、未填答率（Non-response）。
-> - **模型或统计量** 报告频率差异显著性检验（[[Chi-Squared Test|卡方检验]]）、不同提问模式下报告率变异检验。
+> - **模型或统计量** 报告频率差异[[Statistical Significance|显著性检验]]（[[Chi-Squared Test|卡方检验]]）、不同提问模式下报告率变异检验。
 > - **诊断与检验** 双风险检测（低报检验与夸大检验）、敏感度感知与回答真实度相关检验。
 
 > [!contrast-table]- 敏感问题处理的四大维度策略系统

@@ -39,6 +39,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Counterpart Funds]]"
   - "[[Document]]"
+  - "[[Research Tool]]"
   - "[[Epistemic Ascent]]"
   - "[[Learning Progression]]"
   - "[[Scaffolding]]"
@@ -52,6 +53,7 @@ related_concepts:
 related_theories:
   - "[[Six-Stage Model of Policymaking]]"
   - "[[Punctuated Equilibrium Theory]]"
+  - "[[Backward Mapping]]"
 related_methods:
   - "[[Process Tracing]]"
   - "[[Elite Interview]]"
@@ -93,14 +95,14 @@ sources:
 part_of:
 status: draft
 created: 2026-09-24
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_McDonnell_2013_AmJE"
 argument_key: "Argument_McDonnell_2013_AmJE"
 argument_display_title: "Evidence use and the Common Core State Standards movement: From problem definition to policy adoption"
 argument_kind: "journal-article"
-argument_related_count: 62
+argument_related_count: 64
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -245,7 +247,7 @@ issuing_organization: ""
 > [!proc] 防范外部政治干预的研制程序
 > 1. **确立实证至上原则** 州首席教育官理事会（CCSSO）负责人吉恩·威洛伊特（Gene Wilhoit）公开声明标准完全由研究证据驱动，拒绝将起草过程变成各利益团体的政治交易与谈判妥协。
 > 2. **明确专业起草团队与广泛工作组** 数学标准由新标准项目前主任菲尔·达罗（Phil Daro）、亚利桑那大学数学系教授威廉·麦卡勒姆（William McCallum）及本宁顿学院物理与数学学者贾森·津巴（Jason Zimba）主持；英语语言艺术（English Language Arts, ELA）标准由学生成就伙伴组织创始人[[David Coleman|戴维·科尔曼]]（David Coleman）与标准工作组织联合创始人休·皮门特尔（Sue Pimentel）主持；各团队配备约 50 人的跨学科工作组（涵盖认知发展、评估设计、英语学习者专家）与 20 余人的同行反馈组。
-> 3. **自上而下逆向推导** 率先确立高中毕业生升入大学与职场所必须掌握的[[College and Career Readiness|大学与职业就绪]]（College and Career Ready, CCR）终极目标，再从十二年级向下逐级倒推（Backward Mapping）至幼儿园，确保各学段技能梯度的因果连贯。
+> 3. **自上而下逆向推导** 率先确立高中毕业生升入大学与职场所必须掌握的[[College and Career Readiness|大学与职业就绪]]（College and Career Ready, CCR）终极目标，再从十二年级向下逐级倒推（[[Backward Mapping]]）至幼儿园，确保各学段技能梯度的因果连贯。
 > 4. **组建独立验证委员会** 设立由 29 位跨学科顶尖学者与评估专家组成的外部把关委员会，依据证据充分性、清晰度与国际可比性三大原则实施质量认证。
 
 > [!warrant]- 诉诸研究证据作为去政治化盾牌的技术防御机制
@@ -257,7 +259,7 @@ issuing_organization: ""
 
 > [!challenges] 学术实证研究在各领域的分布失衡与供给空白
 > - **低年级数学拥有扎实研究基础** 在幼儿园至小学二年级（K–2）数学领域，儿童发展心理学数十年积累的实证研究（如 Clements, 2011; Daro et al., 2011）提供了清晰的学习轨迹（Learning Trajectories/Progressions），揭示出儿童数感与几何直觉发展的关键思维节点。
-> - **高年级数学与语文阅读缺乏实证支撑** 在初高中高阶数学以及 ELA 的文本复杂度（Text Complexity）递进方面，学术界几乎拿不出严格的对照实验来证明某种教学顺序明显优于其他顺序。尽管美国大学测验组织（ACT, 2006）报告指出高阶文本阅读能力是大学成功的首要预测指标，但如何科学测量多维度的文本复杂度（不仅是词汇难易，还包括知识背景与篇章结构）依然缺乏成熟的研究工具。
+> - **高年级数学与语文阅读缺乏实证支撑** 在初高中高阶数学以及 ELA 的文本复杂度（Text Complexity）递进方面，学术界几乎拿不出严格的对照实验来证明某种教学顺序明显优于其他顺序。尽管美国大学测验组织（ACT, 2006）报告指出高阶文本阅读能力是大学成功的首要预测指标，但如何科学测量多维度的文本复杂度（不仅是词汇难易，还包括知识背景与篇章结构）依然缺乏成熟的[[Research Tool|研究工具]]。
 > - **研究仅能提供框架护栏** 起草专家坦言，现有研究成果只构成了顶层设计的安全护栏（Guardrails）与大方向原则，无法精确决定某个具体知识点究竟该放在六年级还是七年级教授。
 
 > [!sub-claim] 3. 编写组依托数学专家的内在学科逻辑与一线教师的课堂经验填补证据空白

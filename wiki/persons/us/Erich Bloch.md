@@ -6,7 +6,7 @@ summary: "美国电气工程师与科技管理领袖，首位产业界出身的�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Sunset Provisions]]"
   - "[[Engineering Education]]"
   - "[[Paradigm]]"
+  - "[[Little Science]]"
   - "[[Technology Transfer]]"
   - "[[Research Universities]]"
   - "[[University-Based Research Center]]"
@@ -46,7 +47,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -78,7 +79,7 @@ updated: 2026-11-02
 >   - **阶段转向** 从微观工程技术攻坚转向对美国[[Engineering Education|高等工程教育]]与基础科研脱节问题的制度反思。
 > - **1984–1990 — [[National Science Foundation|NSF]] 政策掌舵与产学中心[[Paradigm|范式]]重构阶段** 出任 NSF 主任，推行工程学学部独立与 [[Engineering Research Centers|ERC]] 旗舰计划，确立以[[Competitiveness|国家竞争力]]为导向、以跨学科中心为实体、以十年[[Sunset Provisions|日落条款]]与合作协议为抓手的重大资助制度。
 >   - **关键实践** 创设工程学学部（ENG），推行 ERC 与 [[Science and Technology Centers|STC]] 计划。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365, 369–370)]]
->   - **阶段转向** 冲破"小科学自由探索"单一范式，将产学协同[[Big Science|大科学]]中心确立为国家科技资助的核心支柱。
+>   - **阶段转向** 冲破"[[Little Science|小科学]]自由探索"单一范式，将产学协同[[Big Science|大科学]]中心确立为国家科技资助的核心支柱。
 > - **1990–2016 — 国家产业竞争力建言与中心形态学反思阶段** 卸任后在竞争力委员会与智库持续建言，力主破除大学系所壁垒，并前瞻性指出全美大学研究中心缺乏统一形态学与分类体系的政策盲区。
 >   - **关键实践** 推动产学[[Technology Transfer|技术转移]]政策与工程教育改革；接受 ERC 二十周年政策口述史访谈。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365, 374)]]
 >   - **阶段转向** 从联邦资助的顶层设计者转为客观审视大学研究中心演化规律的政策反思者。

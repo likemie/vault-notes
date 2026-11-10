@@ -13,32 +13,35 @@ aliases:
 summary: "指未达到学术合署最低贡献标准，仅因行政职权、实验室空间提供、资金获取或人际礼遇而被列入正式署名名单的学术失范现象；其发生率随团队规模膨胀呈显著非线性上升，在依赖位次贡献序的学科中尤为普遍，主要受学术职称晋升激励与科层权力交换驱动。"
 type: concept
 domain: "science-policy"
-related_count: 17
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/science-policy
   - theme/research-integrity
   - theme/scientific-credit
 related_concepts:
   - "[[Big Science]]"
+  - "[[Early-Career Researchers]]"
   - "[[Ghost Authorship]]"
   - "[[Paradigm]]"
   - "[[Heterogeneity]]"
   - "[[Alphabetical Authorship]]"
   - "[[Science Programs]]"
   - "[[Author Contribution Disclosures]]"
+  - "[[Creativity]]"
   - "[[Variable]]"
   - "[[Document]]"
+  - "[[Academic Inbreeding]]"
+  - "[[Strategic Conformity in Academia]]"
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
+  - "[[Journal Impact Factor]]"
   - "[[Effect Size]]"
 related_instruments: []
-related_persons:
-  - "[[Phillip J. Haubrock]]"
-  - "[[Teun Everts]]"
+related_persons: []
 related_facts:
   - "[[Research in Schools Evaluation]]"
 related_arguments:
@@ -48,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -58,7 +61,7 @@ updated: 2026-11-03
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指涉科研评价体系中不劳而获的符号性署名赠予与权力寻租。
-> - **用途** 帮助研究者透视[[Big Science|大科学]]时代团队膨胀伴生的人情挂名现象，解析署名膨胀对青年学者真实贡献份额的蚕食。
+> - **用途** 帮助研究者透视[[Big Science|大科学]]时代团队膨胀伴生的人情挂名现象，解析署名膨胀对[[Early-Career Researchers|青年学者]]真实贡献份额的蚕食。
 > - **边界** 不等于合理的资深导师通讯指导（导师提供了决定性智力构想、经费支撑与关键修订）；亦不适用于早期理论界定尚存争议的边界性学术贡献。
 
 > [!citation-card|notitle] 挂名署名的普遍蔓延与规模递增法则
@@ -85,7 +88,7 @@ updated: 2026-11-03
 
 > [!feature] 核心要素
 > - **团队规模非线性膨胀** 随着合作团队规模扩大，单篇成果内部的责任分散效应加剧，审核把关松懈，导致名义挂名发生率从 9% 上升至 30%。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 143)]]
-> - **职称晋升锦标赛压力** 数量导向与影响因子挂钩的高校考评体制，诱使科研人员通过互换署名、赠予挂名等合谋策略换取量化指标。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 143)]]
+> - **职称晋升锦标赛压力** 数量导向与[[Journal Impact Factor|影响因子]]挂钩的高校考评体制，诱使科研人员通过互换署名、赠予挂名等合谋策略换取量化指标。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 143)]]
 > - **学科署名[[Paradigm|范式]]的门槛防御** 在贡献位次学科中中间署名容易被寻租利用；而在字母序学科中，增添挂名者会直接均摊全体成员的声誉，因而形成了严苛的抵制门槛。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 141–143)]]
 
 > [!logic-map]- 要素关系
@@ -129,7 +132,7 @@ updated: 2026-11-03
 > - **20 世纪中叶 — 团队规模化萌生阶段** 随着大[[Science Programs|科学项目]]兴起，合著人数迅速递增，资助人挂名与教研室主任惯例列名现象初现端倪。
 > - **2000s — 实证调查与伦理规训阶段** 国际医学期刊编辑委员会（ICMJE）出台四项合署资格标准，实证研究证实 33% 成果存在不当合署。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 143)]]
 > - **2010s — 细粒度[[Author Contribution Disclosures|贡献声明]]推行阶段** 期刊通过强制自陈各个具体任务分工，试图利用信息透明度遏制纯粹名义挂名空间。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 137)]]
-> - **2026 — 学术门阀网络与成果向上摄取批判** 豪布罗克等系统批判学术领主庇护体系下的赠礼署名（Gift Authorship）与互引卡特尔，揭示资深学术权威对青年学者创造力成果的无偿向上摄取机制。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026)]]
+> - **2026 — 学术门阀网络与成果向上摄取批判** 豪布罗克等系统批判学术领主庇护体系下的赠礼署名（Gift Authorship）与互引卡特尔，揭示资深学术权威对青年学者[[Creativity|创造力]]成果的无偿向上摄取机制。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026)]]
 
 ---
 

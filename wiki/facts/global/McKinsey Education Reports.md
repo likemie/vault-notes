@@ -8,7 +8,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 18
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Policy Borrowing]]"
   - "[[Epistemology]]"
-  - "[[Screening Off]]"
   - "[[Deliverology]]"
   - "[[Scripted Curriculum]]"
   - "[[Instructional Core]]"
@@ -91,7 +90,7 @@ updated: 2026-11-11
 > > [!axis] 方法学设计与因果推断效度争议
 > > 学界对报告的抽样程序、回溯性访谈与因果归因提出尖锐质疑。
 > >
-> > - **批评观点** Morris (2015) 批评报告严重[[Screening Off|遮蔽]]了因果关系的复杂性，缺乏严格的[[Counterfactual|反事实对照]]；依赖参与改革官员事后美化式的经验访谈，容易将偶发相关性误读为因果定律。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 486)]]
+> > - **批评观点** Morris (2015) 批评报告严重遮蔽了因果关系的复杂性，缺乏严格的[[Counterfactual|反事实对照]]；依赖参与改革官员事后美化式的经验访谈，容易将偶发相关性误读为因果定律。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 486)]]
 > > - **实证反驳** Feniger and Lefstein (2014) 等学者指出，报告所归纳的成功系统（如芬兰与新加坡）其实践机理存在完全相悖的文化前提，被强行装入统一发展梯次具有严重的理论牵强性。
 >
 > > [!axis] 去情境化的通用说明书争议

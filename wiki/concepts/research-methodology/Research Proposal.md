@@ -9,7 +9,7 @@ aliases:
 summary: "教育研究中将研究问题转化为可操作的研究方案的系统过程，包括课题类型区分、选题过程、开题论证和课题设计论证书的撰写"
 type: concept
 domain: "research-methodology"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Research Scope]]"
   - "[[Study Population and Sample]]"
+  - "[[Research Tool]]"
   - "[[Research Purpose]]"
   - "[[Research Topic]]"
   - "[[Praxis]]"
@@ -49,13 +50,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-25
-updated: 2026-10-20
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Research Proposal
-> 课题论证是将[[Research Question\|研究问题]]或[[Hypothesis\|研究假设]]转化为具体化研究目标的系统过程。课题不仅是一个研究题目，它还要体现[[Research Scope\|研究范围]]、[[Study Population and Sample\|研究样本]]、研究工具、研究内容与[[Research Purpose\|研究目的]]等。课题论证部分是研究写作的重要组成部分（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.2）。
+> 课题论证是将[[Research Question\|研究问题]]或[[Hypothesis\|研究假设]]转化为具体化研究目标的系统过程。课题不仅是一个研究题目，它还要体现[[Research Scope\|研究范围]]、[[Study Population and Sample\|研究样本]]、[[Research Tool|研究工具]]、研究内容与[[Research Purpose\|研究目的]]等。课题论证部分是研究写作的重要组成部分（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.2）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 课题论证是从研究问题到研究实施的桥梁，它将模糊的研究兴趣转化为可操作的、结构化的研究方案。
@@ -79,7 +80,7 @@ updated: 2026-10-20
 > [!contrast-table] [[Qualitative Research\|质的研究]] vs [[Quantitative Research\|量的研究]]
 > | 维度 | 质的研究（[[Qualitative Research]]） | 量的研究（[[Quantitative Research]]） |
 > |---|---|---|
-> | 核心特征 | 以研究者本人作为研究工具，在自然情境下采用多种资料收集方法进行深入的整体性探究 | 将问题与现象用数量来表示，进而去分析、考验、解释 |
+> | 核心特征 | 以研究者本人作为[[Research Tool\|研究工具]]，在自然情境下采用多种资料收集方法进行深入的整体性探究 | 将问题与现象用数量来表示，进而去分析、考验、解释 |
 > | 理论基础 | 人种学、[[Phenomenology\|现象学]]、解释学等 | [[Positivism\|实证主义]]、统计学 |
 > | 呈现方式 | 文字描述的方式 | 通过数据的形式展现或说明 |
 > | 关注点 | 理解、阐释所研究的现象，提供历程性、描述性、脉络性的资料 | 现象之间的相关联性及其[[Causality\|因果]]效应 |
@@ -105,7 +106,7 @@ updated: 2026-10-20
 > [!feature] 课题的三种功能
 > - **反映研究的价值** 课题是实践向理论发展的必经之路。它不仅反映了现有理论推动社会发展的程度，也反映了向未知研究领域的探索。爱因斯坦指出，提出一个问题比解决一个问题更重要。
 > - **引导研究的方向** 课题的选取直接关系到整个研究的发展目标和方向。课题是对研究对象、研究范畴、[[Research Topic\|研究主题]]的界定，整个研究工作在课题的整体指引下发展。课题明确，整个研究活动的方向就清晰。
-> - **制约研究工作的进行** 课题是教育科学研究的起始部分，带动着整个教育研究的发展和运作。不同的研究课题有不同的研究方法、研究工具等，资料的收集方式也存在本质上的差异。
+> - **制约研究工作的进行** 课题是教育科学研究的起始部分，带动着整个教育研究的发展和运作。不同的研究课题有不同的研究方法、[[Research Tool|研究工具]]等，资料的收集方式也存在本质上的差异。
 
 ---
 

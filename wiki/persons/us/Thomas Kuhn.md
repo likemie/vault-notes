@@ -33,6 +33,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Constructivist Paradigm]]"
   - "[[Falsification]]"
+  - "[[Transnational Education]]"
   - "[[Reflexivity]]"
   - "[[Problem Solving]]"
   - "[[Nature of Science]]"
@@ -46,7 +47,6 @@ related_persons:
   - "[[Karl Popper]]"
   - "[[Brian Holmes]]"
   - "[[Andreas Kazamias]]"
-  - "[[Deanna Kuhn]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -144,7 +144,7 @@ updated: 2026-11-02
 > [!person-network] 关系网络
 > - **论辩同行 / 哲学家** [[Karl Popper]] — 围绕常规科学的性质、科学革命与[[Falsification\|证伪主义]]展开著名的“波普尔-库恩大论战”；
 > - **科学哲学继承与争鸣** 保罗·费耶阿本德（Paul Feyerabend）、伊姆雷·拉卡托斯（Imre Lakatos）— 激化或修正[[Incommensurability\|不可通约性]]与科学研究纲领理论；
-> - **教育研究与比较教育应用** [[Brian Holmes]]、[[Andreas Kazamias]]、迪米特里斯·马修（Dimitris Mattheou）— 将[[Paradigm\|范式]]理论引入跨国教育研究与学科史方法论反思。
+> - **教育研究与比较教育应用** [[Brian Holmes]]、[[Andreas Kazamias]]、迪米特里斯·马修（Dimitris Mattheou）— 将[[Paradigm\|范式]]理论引入[[Transnational Education|跨国教育]]研究与学科史方法论反思。
 
 ---
 

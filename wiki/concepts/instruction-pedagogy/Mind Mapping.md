@@ -10,7 +10,7 @@ aliases:
 summary: "围绕单一中心概念向外辐射多级分支，借助色彩、关键词与自由联想规则外显化非线性思维过程的低认知开销空间视觉组织工具。在创造力干预与高阶思维培养中，它以极简拓扑结构最大化降低认知负荷，是激发发散思维与概念远距组合的核心教学支架。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -51,6 +51,7 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
+  - "[[Follow-on Engagement]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Prediction Interval]]"
   - "[[Effect Size]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -150,7 +151,7 @@ updated: 2026-11-03
 > **概念组合与打破思维定势** 传统导图容易受习惯性语义网络限制；嵌入随机刺激的复合导图能够强行激活非典型概念联结。
 
 > [!claim] Malycha & Maier; Guo et al.
-> **随机图技术（Random-Map）增益命题** [[Experimental Research\|实验研究]]（$EG = 80 / CG = 80$）表明，传统思维导图虽能大幅提高观念流畅性，但在独创性（Originality）维度常陷入语义邻近词的自动化联想。通过将思维导图与概念组合技术相结合构建“随机图”（Random-Map Technique）——在导图绘制中强行注入不相关的随机刺激词汇并要求建立意义连接，受试者在[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（[[Torrance Tests of Creative Thinking\|TTCT]]）中的独创性表现显著超越传统导图组与对照组（$p < .01$）。这证明思维导图与启发式发散技术的结合能够有效瓦解心理固着。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10)]]; Malycha and Maier (2017)
+> **随机图技术（Random-Map）增益命题** [[Experimental Research\|实验研究]]（$[[Follow-on Engagement|EG]] = 80 / CG = 80$）表明，传统思维导图虽能大幅提高观念流畅性，但在独创性（Originality）维度常陷入语义邻近词的自动化联想。通过将思维导图与概念组合技术相结合构建“随机图”（Random-Map Technique）——在导图绘制中强行注入不相关的随机刺激词汇并要求建立意义连接，受试者在[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（[[Torrance Tests of Creative Thinking\|TTCT]]）中的独创性表现显著超越传统导图组与对照组（$p < .01$）。这证明思维导图与启发式发散技术的结合能够有效瓦解心理固着。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10)]]; Malycha and Maier (2017)
 
 ---
 

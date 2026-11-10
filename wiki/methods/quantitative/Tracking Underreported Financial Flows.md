@@ -9,7 +9,7 @@ summary: "由 AidData 开发的系统化非官方披露跨境资金流追踪方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 15
+method_related_count: 17
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -29,11 +29,13 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Causality]]"
   - "[[Grandes Ecoles]]"
+  - "[[Study Abroad]]"
   - "[[Geopolitics]]"
 related_facts:
   - "[[TUFF]]"
   - "[[AidData]]"
   - "[[OECD]]"
+  - "[[Development Assistance Committee]]"
   - "[[Luban Workshop]]"
 related_arguments:
   - "[[Argument_Custer_2021_AidData]]"
@@ -42,13 +44,13 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Tracking Underreported Financial Flows
-> 未充分报告资金流追踪法（[[Tracking]] Underreported Financial Flows, [[TUFF]]）是由威廉与玛丽学院 [[AidData]] 研究实验室开发的一套标准化量化数据搜集与空间编码方法，旨在系统收集、清洗和交叉验证非[[OECD|经济合作与发展组织]]发展援助委员会（OECD-DAC）成员国对外提供的发展金融、官方援助、教育援建与人力资源培训项目数据。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 77–78)]]
+> 未充分报告资金流追踪法（[[Tracking]] Underreported Financial Flows, [[TUFF]]）是由威廉与玛丽学院 [[AidData]] 研究实验室开发的一套标准化量化数据搜集与空间编码方法，旨在系统收集、清洗和交叉验证非[[OECD|经济合作与发展组织]][[Development Assistance Committee|发展援助委员会]]（OECD-DAC）成员国对外提供的发展金融、官方援助、教育援建与人力资源培训项目数据。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 77–78)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 未加入国际发展援助透明度机制的国家所实施的跨境资助、贷款、校舍援建、全额奖学金发放、职业技术培训中心及语言文化机构。
@@ -101,7 +103,7 @@ updated: 2026-10-30
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 评估非 OECD-DAC 国家（如中国、俄罗斯、沙特阿拉伯等）在全球南方实施的教育基础设施援建、留学生奖学金配额、职业实训中心及医疗援助。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 14–16, 77)]]
+> - **适合使用** 评估非 OECD-DAC 国家（如中国、俄罗斯、沙特阿拉伯等）在全球南方实施的教育基础设施援建、[[Study Abroad|留学]]生奖学金配额、职业实训中心及医疗援助。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 14–16, 77)]]
 > - **谨慎使用** 涉及军事防务秘密合作、短期秘密现金转移或非公开物资援助的项目，公开信源可能存在系统性截断风险。
 > - **不适合使用** 试图单凭资金流规模直接推论公众态度或政策偏好的研究，必须与受援地微观民调相结合。
 

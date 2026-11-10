@@ -12,7 +12,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_theories:
 related_methods:
   - "[[Peer Debriefing]]"
   - "[[In-depth Interview]]"
+  - "[[Instrumental Variables]]"
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons: []
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -90,7 +91,7 @@ updated: 2026-10-30
 > - **1998–2001 — 早期探索与体系整合（Starting Strong I）** 完成首轮 12 个成员国的比较政策审查，重点倡导打破以往“保育”与“教育”割裂的二元行政体制，倡导幼教照护一体化整合管理。
 > - **2002–2006 — 政策框架系统化（Starting Strong II）** 扩展至 20 个国家，系统提炼出促进早期儿童发展的 10 项核心政策建议，确立了普及普惠与公共投资优先导向。
 > - **2007–2011 — 质量工具箱开发（Starting Strong III）** 推出具有里程碑意义的《质量工具箱》（Quality Toolbox），将工作重心从规模扩张转向质量内涵建设，详细拆解课程、师资与监测评估等 5 大核心政策领域。
-> - **2012–2017 — 质量监测与幼小衔接（Starting Strong IV & V）** 深入研究早期教育质量监测规程（IV 卷）以及从学前到小学的过渡机制（V 卷），为消除教育断层提供国际实证方案。
+> - **2012–2017 — 质量监测与幼小衔接（Starting Strong [[Instrumental Variables|IV]] & V）** 深入研究早期教育质量监测规程（IV 卷）以及从学前到小学的过渡机制（V 卷），为消除教育断层提供国际实证方案。
 > - **2018–至今 — 师生互动深化与测评衔接（Starting Strong VI）** 聚焦教室内师幼互动的微观过程质量（VI 卷），并与幼儿国际测评[[Baby PISA|国际早期学习与儿童福祉研究]]（IELS）形成互补联动，形成全链条早期治理网络。
 
 ---

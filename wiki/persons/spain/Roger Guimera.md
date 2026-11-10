@@ -10,7 +10,7 @@ summary: "西班牙统计物理学家与复杂网络科学家，加泰罗尼亚�
 type: person
 nationality: spain
 person_region: "spain"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
 related_theories:
   - "[[Team Assembly Model]]"
 related_methods:
+  - "[[Journal Impact Factor]]"
   - "[[Internet-Based Experiments]]"
 related_instruments: []
 related_persons:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -56,7 +57,7 @@ updated: 2026-10-30
 > [!citation-card] 团队[[Assemblage|组装]]微观机制对创新产出的调控
 > 团队组建规则同时决定了宏观[[Coauthorship Network|合著网络]]的连通拓扑与微观团队的研究质量。资历参数保障了成果水准，而过高的重复合作参数则会因思维定势造成团队创新活力的系统性折损。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 118–121, 254–256)]]
 >
-> *Across economics, ecology, and social psychology, there is consistent evidence that a journal’s impact factor is positively correlated with the incumbency parameter p, but negatively correlated with the diversity parameter, q.*
+> *Across economics, ecology, and social psychology, there is consistent evidence that a journal’s [[Journal Impact Factor|impact factor]] is positively correlated with the incumbency parameter p, but negatively correlated with the diversity parameter, q.*
 
 ---
 

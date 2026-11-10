@@ -5,10 +5,10 @@ aliases:
 summary: "教师系统组织课堂学习环境的综合机制，涵盖时间在任务利用、积极行为预期、规则常规、非惩罚性重定向与支持性学习文化。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - classroom-management
   - subject/instruction
@@ -17,6 +17,7 @@ tags:
   - metax
 related_concepts:
   - "[[Student-Teacher Relationship]]"
+  - "[[Study Abroad]]"
   - "[[Feedback]]"
   - "[[Operationalization]]"
   - "[[Structured Teaching]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -80,7 +81,7 @@ updated: 2026-11-03
 > - **边界** 区别于以惩戒和威慑为核心的消极纪律管束；同时不局限于特定教学法序列，是渗透于全班讲授、小组协作与个别学习等多元组织形式中。
 
 > [!citation-card] Håkansson 对宽课堂管理机制的界定
-> 课堂管理不只是维持秩序或控制行为的狭义纪律管理，是教师组织课堂学习的一组更宽机制。它包括时间使用、目标说明、活动组织、理解检查、反馈、学习气氛与支持性关系，目的是让教学过程更有结构，并真正服务学生学习。研究支持的是教师以清晰、可见、支持性的方式组织学习，同时保留学生参与、动机和逐步发展的自我调节空间，有别于“教师更强硬”。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 591–595)]]
+> 课堂管理不只是维持秩序或控制行为的狭义纪律管理，是教师组织课堂学习的一组更宽机制。它包括时间使用、目标说明、活动组织、理解检查、反馈、学习气氛与支持性关系，目的是让教学过程更有结构，并真正服务学生学习。研究支持的是教师以清晰、可见、支持性的方式组织学习，同时保[[Study Abroad|留学]]生参与、动机和逐步发展的自我调节空间，有别于“教师更强硬”。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 591–595)]]
 >
 > *Classroom management is not mere disciplinary control or silencing students, but a wider set of mechanisms for organizing learning: time use, goal clarity, activity organization, [[Feedback]], and supportive teacher-student relationships.*
 

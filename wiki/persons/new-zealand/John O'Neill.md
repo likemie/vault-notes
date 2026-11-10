@@ -7,7 +7,7 @@ summary: "新西兰梅西大学教育学院教授、批判教育政策学者，2
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[International Education]]"
   - "[[Effective Teaching]]"
+  - "[[Transnational Education]]"
   - "[[Educational Decentralization]]"
 related_theories: []
 related_methods:
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -118,5 +119,5 @@ updated: 2026-10-30
 > |:-----|:-----|:-----|
 > | [[Class Size]] | 概念 | 坚决捍卫小班教学的育人价值，阻遏新西兰政府借低[[Effect Size\|效应量]]借口扩大公立班额。 |
 > | [[Visible Learning]] | 概念 | 披露其政商利益捆绑历史，提供第三方审计级财务流向数据。 |
-> | [[Cognition Education]] | 组织事实 | 深度调查其从公共后勤中心转变为营利性跨国教育咨询巨头的制度轨迹与报酬输送。 |
+> | [[Cognition Education]] | 组织事实 | 深度调查其从公共后勤中心转变为营利性[[Transnational Education\|跨国教育]]咨询巨头的制度轨迹与报酬输送。 |
 > | [[Educational Decentralization]] | 概念 | 批判新西兰 1989 年明日学校改制对教育公共性的侵蚀与中介外包弊端。 |

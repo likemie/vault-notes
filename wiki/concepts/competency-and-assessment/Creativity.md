@@ -11,7 +11,7 @@ aliases:
 summary: "个体或群体在特定情境中综合调动认知、情绪与环境资源生成新颖且适切成果的心理能力与综合表现，在教育与心理学中兼具预测变量与发展结果的双重属性；在科学学与创新政策视阈下，个体科学创造力呈现显著的早年黄金生命周期，易受学术评价增量偏好与共识评审的体制性抑制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 128
+related_count: 129
 related_level: 12
 related_stars: "💎💎💎💎"
 related_color: "#ddd6fe"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Man-Computer Symbiosis]]"
   - "[[Brainstorming]]"
   - "[[Reflexivity]]"
+  - "[[Study Abroad]]"
   - "[[Self-Regulated Learning]]"
   - "[[Creative Deskilling]]"
   - "[[Counterfactual]]"
@@ -158,7 +159,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-11-05
+updated: 2026-11-11
 ---
 
 ---
@@ -264,7 +265,7 @@ updated: 2026-11-05
 > **ChatGPT 对创造性思维的赋能维度与局限机制** 对高等教育实证研究的[[Systematic Review|系统综述]]表明，ChatGPT 作为发散性认知中介展现出强大的创意激发潜能：能有效拓展构想空间并打破头脑风暴僵局，提供多模态结构支架，并促进跨学科视角转换。然而，在缺乏[[Reflexivity|反思性]]规制的自由使用中，模型基于统计概率生成的输出极易导致文风均质化、探索停滞与过早定型，以及个体独特学术声音的湮没。唯有将 AI 定位于启发式初稿探索，并强制要求学生进行批判性改写与个体化经验注入，才能实现真正的高质量创造。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 7–8, 11)]]
 
 > [!claim] Urban et al.; Monib et al.
-> **创意构想发散与个人叙事声音稀释的实证确证** Urban et al. (2024) 发现 ChatGPT 显著提升了学生在设计任务中的构想流畅度与灵活性，但生成的方案独创性呈现向主流统计均值靠拢的倾向；Monib et al. (2025) 针对留学生写作的研究进一步证实，无节制的 AI 润色会系统性抹平撰写者的原生文化叙事与个体声音，造成创意的表面光滑与实质平庸。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 8, 11)]]
+> **创意构想发散与个人叙事声音稀释的实证确证** Urban et al. (2024) 发现 ChatGPT 显著提升了学生在设计任务中的构想流畅度与灵活性，但生成的方案独创性呈现向主流统计均值靠拢的倾向；Monib et al. (2025) 针对[[Study Abroad|留学]]生写作的研究进一步证实，无节制的 AI 润色会系统性抹平撰写者的原生文化叙事与个体声音，造成创意的表面光滑与实质平庸。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 8, 11)]]
 
 > [!claim] Zhao et al.
 > **生成式 AI 对创造力促进相对有限与内容同质化瓶颈** 一阶[[Meta-analysis|元分析]]证实，生成式 AI 对学生创造力与创造性思维的促进效应呈现中等偏小幅度，不仅显著落后于程序性[[Problem Solving|问题解决能力]]与批判性思维，而且在三大高阶认知维度中处于末位。创造力本质上要求打破常规、提出独特的创新构想；然而大语言模型本质上是根据训练数据生成概率最高的文本，其输出天然倾向于中规中矩的“大众平均水平”与常规套路。当学生缺乏[[Self-Regulated Learning|自主调节学习]]能力与显性反思支架时，极易走捷径直接套用 AI 给出的现成方案，导致产出千篇一律，难以形成真正的突破性创意。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 10–11, 13–15)]]

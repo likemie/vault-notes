@@ -9,7 +9,7 @@ summary: "加拿大与美国政治学家，哈佛大学欧洲研究讲席教授�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Document]]"
   - "[[Institutional Complementarity]]"
+  - "[[Country Ownership]]"
   - "[[Industry Affiliate Program]]"
   - "[[Epistemology]]"
   - "[[Determinism]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -90,7 +91,7 @@ updated: 2026-10-30
 ---
 
 > [!thought-timeline] 思想发展
-> - **1980年代 — 国家自主性、制度结构与经济治理** 反思[[Pluralism|多元主义]]与早期马克思主义将国家视为社会利益被动反射的倾向，将中观制度结构确立为因果分析核心。
+> - **1980年代 — [[Country Ownership|国家自主性]]、制度结构与经济治理** 反思[[Pluralism|多元主义]]与早期马克思主义将国家视为社会利益被动反射的倾向，将中观制度结构确立为因果分析核心。
 >   - **代表著作** *Governing the Economy: The Politics of State Intervention in Britain and France* (1986)。
 >   - **关键概念／方法** 国家自主性、组织结构偏向、制度权力分配、[[Historical Institutionalism|历史制度主义]]。
 >   - **阶段转向** 证明英法两国宏观经济政策分歧并非仅源于阶级力量对比，而是受制于国家官僚体制、金融中介与[[Industry Affiliate Program|产业联盟]]长期沉淀的组织结构路径。

@@ -11,7 +11,7 @@ subtype: organization
 region: canada
 fact_region: "canada"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Policy Brokerage]]"
   - "[[South-South Cooperation]]"
+  - "[[Transnational Education]]"
   - "[[Development Education]]"
   - "[[Discourse]]"
 related_theories: []
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -69,7 +70,7 @@ updated: 2026-10-26
 
 > [!dev-timeline] 组织发展历程
 > - **1970–1990 发展中国家科研承载力奠基期** 确立直接资助全球南方研究机构的法人模式，打破传统由北方大学包揽科研资金的格局，培养了亚非拉多国初代公共政策与教育研究骨干。
-> - **1991–2018 跨国[[Policy Brokerage|政策中介]]与[[South-South Cooperation|南南合作]]扩展期** 重点支持跨国政策调研网络与智库联盟建设，开创性出资开展跨国教育规划能力研讨，并推动将实证评估成果转化为区域政策公报。
+> - **1991–2018 跨国[[Policy Brokerage|政策中介]]与[[South-South Cooperation|南南合作]]扩展期** 重点支持跨国政策调研网络与智库联盟建设，开创性出资开展[[Transnational Education|跨国教育]]规划能力研讨，并推动将实证评估成果转化为区域政策公报。
 > - **2019–至今 GPE KIX 全球四大枢纽运营期** 联合 GPE 正式启动 KIX 计划，主导建立欧洲亚太（EAP）、东非及南非（Africa 19）、西非及中非（Africa 21）与拉美加勒比（LAC）四大区域证据枢纽，并在 UNESCO 全球教育战略审查中作为区域化中介管理的制度范例接受深度调研。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 19, 57, 74)]]
 
 ---

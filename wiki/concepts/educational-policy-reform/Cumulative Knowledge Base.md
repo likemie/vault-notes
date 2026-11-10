@@ -7,7 +7,7 @@ aliases:
 summary: "教育知识治理的核心终极命题，指通过跨机构协作、多元方法证据综合与元中介机制，建构一套被全球教育系统准普遍公认为基础坚实、可跨情境调适并经得起时间检验的共享性知识体系。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -44,6 +44,7 @@ related_methods:
   - "[[Research Synthesis]]"
   - "[[Effect Size]]"
   - "[[Case Study]]"
+  - "[[Journal Impact Factor]]"
   - "[[Meta-analysis]]"
   - "[[Qualitative Research]]"
 related_instruments: []
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -93,7 +94,7 @@ updated: 2026-11-03
 > |---|---|---|---|
 > | **组织治理属性** | 跨国、跨系统元中介协作网络与二阶综合平台 | 单一中介机构面向基层研发的通俗转化工具 | 大学、出版商或学术学会的离散期刊集合 |
 > | **知识集成形态** | 二阶[[Systematic Review\|系统综述]]（Reviews of Reviews）与情境调适模型 | [[Effect Size\|效应量]]、成本估算与实践警示卡片 | 单篇[[Case Study\|个案研究]]、实验报告与理论性文章 |
-> | **公信力来源** | 全球共同体准普遍公认、多元方法互证与时间检验 | 权威因果实验准入筛选与一线学校采纳度 | 期刊同行评议与影响因子引文计量 |
+> | **公信力来源** | 全球共同体准普遍公认、多元方法互证与时间检验 | 权威因果实验准入筛选与一线学校采纳度 | 期刊同行评议与[[Journal Impact Factor\|影响因子]]引文计量 |
 > | **核心治理功能** | 为全系统提供长效知识护城河，抵御政治与商业颠覆 | 指导一线教师与校领导微观教育教学日常决策 | 供专业研究人员进行学术争鸣与前沿创新 |
 
 ---

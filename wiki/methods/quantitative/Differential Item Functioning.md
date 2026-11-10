@@ -32,12 +32,12 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Interaction Effect]]"
   - "[[Heterogeneity]]"
-  - "[[Document]]"
   - "[[Cultural Validity]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
   - "[[Measurement Invariance]]"
+  - "[[Statistical Significance]]"
   - "[[Questionnaire]]"
   - "[[Item Response Theory]]"
   - "[[Intraclass Correlation Coefficient]]"
@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -85,7 +85,7 @@ updated: 2026-11-02
 >   - **题目影响（Impact）** 两组人群在题目得分上的原始平均差异，反映了两组在所测目标[[Construct|构念]]整体能力分布上的真实差距。
 >   - **题目功能差异（DIF）** 在严格控制了两组学生真实能力水平完全相同（Matched Ability）后依然残存的作答差异，属于测量技术上的系统偏差。
 > - **[[Epistemic Stances|认识论立场]]** 现代测验公平观认为，测验题目的有效性必须建立在跨群体[[Measurement Invariance|测量不变性]]（Measurement Invariance）的基础之上；任何未加控制的文化、语言或情境特异性载荷均是对被测构念纯粹性的污染。
-> - **有效性标准** 显著性检验（卡方值）与[[Effect Size|效应量]]门槛（如 Mantel-Haenszel 变换效应量绝对值判定）的双重把关。
+> - **有效性标准** [[Statistical Significance|显著性检验]]（卡方值）与[[Effect Size|效应量]]门槛（如 Mantel-Haenszel 变换效应量绝对值判定）的双重把关。
 > - **不声称回答的问题** DIF 统计检验只能指出“某道题在两组能力相等的学生中存在表现差异”，不能直接自动解释“差异由何种具体的文化、语言或翻译漏洞所致”；最终定性必须依赖领域专家与语言学家的质性内容审查。
 
 > [!method-stack] 方法层级

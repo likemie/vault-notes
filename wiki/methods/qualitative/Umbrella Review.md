@@ -9,9 +9,9 @@ summary: "对已有系统综述和元分析进行高阶再综合的方法学体�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 39
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 41
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Interpretive Validity]]"
   - "[[Construct]]"
   - "[[Gatekeepers]]"
+  - "[[Homophily]]"
   - "[[Chain of Evidence]]"
   - "[[PICO Framework]]"
   - "[[Preregistration]]"
@@ -65,6 +66,7 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Education Resources Information Center]]"
+  - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
@@ -72,7 +74,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -95,13 +97,13 @@ updated: 2026-10-30
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 秉承宏观循证综合视角，认为单一试验或孤立[[Meta-analysis|元分析]]因情境局限难以支撑广泛政策推论，必须通过多重综述的横向映射识别普遍规律与情境边界。然而，伞状综述高度依赖底层[[Document|文献]]的[[Interpretive Validity|解释效度]]与[[Construct|构念]]一致性；若底层综述存在定义滑移，顶层综合将陷入虚假精确。
-> - **研究者角色** 从“一手数据分析者”转变为“二阶证据[[Gatekeepers|把关人]]与审计者”，核心任务在于确立纳入标准的同质性、辨析概念边界并核验底层[[Chain of Evidence|证据链]]的可溯源性。
+> - **研究者角色** 从“一手数据分析者”转变为“二阶证据[[Gatekeepers|把关人]]与审计者”，核心任务在于确立纳入标准的[[Homophily|同质性]]、辨析概念边界并核验底层[[Chain of Evidence|证据链]]的可溯源性。
 > - **有效性标准** 遵循 [[PRISMA]] 声明与 Campbell 协作网 MECCIR 规范，以研究对象（Population）、干预措施（Intervention）、对照条件（Comparison）与结局指标（Outcome）的 [[PICO Framework|PICO]] 框架对齐为核心准入门槛，严格评估文献重叠率（如[[Corrected Covered Area|校正覆盖面积]] CCA）与报告质量。
 > - **不声称回答的问题** 不能脱离底层初级试验直接解释微观因果机制，无法消除由低质一阶综述输入导致的根本性偏差（“垃圾进，垃圾出”）。
 
 > [!method-stack] 方法层级
 > - **研究设计** 二阶[[Research Synthesis|证据综合]]（Overview of Reviews / Umbrella Review）
-> - **数据检索** 跨领域多数据库系统检索（[[Education Resources Information Center|ERIC]]、PsycInfo、Web of Science 及灰色文献）
+> - **数据检索** 跨领域多数据库系统检索（[[Education Resources Information Center|ERIC]]、PsycInfo、[[Web of Science]] 及灰色文献）
 > - **分析工具** [[AMSTAR]] 质量评级、[[GROOVE]] 重叠矩阵分析、[[Corrected Covered Area|CCA]] 计算
 > - **转化技术** [[Effect Size|效应量]]尺度统一转换、额外学习月数转化、证据安全挂锁评级
 

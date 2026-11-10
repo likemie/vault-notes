@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
   - world-bank
   - educational-development
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Smart Buys]]"
   - "[[Document]]"
   - "[[Discourse]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-23
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -68,7 +69,7 @@ updated: 2026-11-02
 > 全球教育证据咨询小组（Global Education Evidence Advisory Panel，GEEAP）是由[[World Bank|世界银行]]（World Bank）、英国外交联邦及发展事务部（Foreign, Commonwealth & Development Office，FCDO）、[[UNICEF|联合国儿童基金会]]（United Nations Children's Fund，UNICEF）与美国国际开发署（United States Agency for International Development，USAID）于 2020 年联合发起建立的独立国际专家咨询机构。该小组通过系统综合全球前沿因果实证研究，针对低收入和中等收入国家（Low- and Middle-Income Countries，LMICs）教育资源配置与教学改革提出兼具成本效益与可实施性的分级循证指引，在塑造全球教育发展援助投资标准中扮演着核心智库角色。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 344)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 创设于 2020 年。当时全球新冠疫情引发严重学习损失，且受援国面临严峻财政紧缩压力，四大召集机构联合组建该小组，旨在确立跨国教育投资的优先次序。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 344)]]
+> - **成立时间 / 创设背景** 创设于 2020 年。当时全球新冠疫情引发严重学习损失，且受援国面临严峻财政紧缩压力，四大召集机构联合组建该小组，旨在确立[[Transnational Education|跨国教育]]投资的优先次序。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 344)]]
 > - **总部地点 / 业务辐射** 秘书处常设于美国华盛顿特区的世界银行总部，业务覆盖全球所有低收入和中等收入国家的教育部委、财政部门与国际发展援助主体。
 > - **法人属性与经费基础** 由多边发展机构与双边主权援助方联合出资组建的独立国际顾问专家团，资金来源于四大多边与双边召集方的联合专项赠款。
 > - **核心宗旨与法定职责** 汇集全球最具方法严谨性的教育评估证据，测算单位投入产出效益，制定“[[Smart Buys|智能购买]]”（Smart Buys）分级投资建议清单，协助受援国政府与资助方规避低效支出。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 344, 346)]]

@@ -8,10 +8,10 @@ aliases:
 summary: "指单纯依赖机械重复与表层记忆、缺乏深层因果推论与概念重构的认知加工方式。在现代认知心理学与教育测量中构成程序性知识习得的低阶层级，而在跨文化教育研究中，其与理解的非二元对立关系构成了理解东亚学习者成就悖论的关键。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - theme/memorization
   - theme/deep-learning
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Procedural Knowledge]]"
   - "[[Developer-Made Measures]]"
   - "[[Outcomes-based Education]]"
+  - "[[Cognitive Decoupling]]"
   - "[[Paradigm]]"
   - "[[Critical Thinking]]"
   - "[[Working Memory]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -173,7 +174,7 @@ updated: 2026-11-03
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **文化递进命题** | 重复记忆在东亚语境下是通往理解的初始阶梯，反驳西方四大观察谬误 | 跨文化比较教育、东亚学习者课堂教学分析 | Li; Marton et al. |
-> | **认知脱钩命题** | 认识论干预大幅撬动论证与概念理解，但与机械程序记忆完全脱节 | 教学干预设计、学习结果分类评估 | Cartiff et al.; Greene et al. |
+> | **[[Cognitive Decoupling\|认知脱钩]]命题** | 认识论干预大幅撬动论证与概念理解，但与机械程序记忆完全脱节 | 教学干预设计、学习结果分类评估 | Cartiff et al.; Greene et al. |
 > | **测量盲区命题** | 常规期末考聚焦死记硬背导致认识论提分假阴性，自编深度测验高度敏感 | 测量与评价设计、因果效应量偏倚诊断 | Cartiff et al. |
 > | **知识辩护命题** | 反对机械死记不能滑向极端建构主义，捍卫学科概念知识体系的育人价值 | 基础教育课程改革、知识社会学反思 | McPhail et al. |
 

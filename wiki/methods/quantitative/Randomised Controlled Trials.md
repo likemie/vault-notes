@@ -10,9 +10,9 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 168
-method_related_level: 16
-method_related_stars: "💎💎💎💎💎⭐"
+method_related_count: 170
+method_related_level: 17
+method_related_stars: "💎💎💎💎💎⭐⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -46,7 +46,6 @@ related_concepts:
   - "[[Business as Usual]]"
   - "[[Internal Validity]]"
   - "[[Policy Brokerage]]"
-  - "[[Screening Off]]"
   - "[[Credibility Revolution]]"
   - "[[External Validity]]"
   - "[[Metascience]]"
@@ -71,6 +70,7 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Counterfactual]]"
   - "[[Chain of Evidence]]"
+  - "[[Side Effects]]"
   - "[[PICO Framework]]"
   - "[[Access and Acceptance in Research]]"
   - "[[Fundamental Problem of Causal Inference]]"
@@ -84,6 +84,7 @@ related_concepts:
   - "[[Validity as Inferences]]"
   - "[[Evidence Standards]]"
   - "[[Recommendations for Practice]]"
+  - "[[Screening Off]]"
   - "[[Discourse]]"
   - "[[Visible Learning]]"
 related_theories:
@@ -129,6 +130,7 @@ related_methods:
   - "[[Mechanism Experiments]]"
   - "[[Black Box RCTs]]"
   - "[[Research Synthesis]]"
+  - "[[Knowledge Extent]]"
   - "[[Non-intervention Research]]"
   - "[[Observation Method]]"
   - "[[Correlational Research]]"
@@ -198,7 +200,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-11-05
+updated: 2026-11-11
 ---
 
 > [!def] Randomised Controlled Trials
@@ -250,7 +252,7 @@ updated: 2026-11-05
 >
 >   *因果识别技术在全球治理与地方采购中面临建制化异化与供给赤字。*
 >
->   - 2024 — Steiner-Khamsi et al. 剖析[[World Bank|世界银行]]将 RCT 确立为自身[[Policy Brokerage|政策中介]]与循证放贷的专属技术利基，微观技术隔离系统性“[[Screening Off|屏蔽]]”了宏观财政与结构性责任（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al., 2024, pp. 544–548]]）。
+>   - 2024 — Steiner-Khamsi et al. 剖析[[World Bank|世界银行]]将 RCT 确立为自身[[Policy Brokerage|政策中介]]与循证放贷的专属技术利基，微观技术隔离系统性“屏蔽”了宏观财政与结构性责任（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al., 2024, pp. 544–548]]）。
 >   - 2024 — Ginsberg et al. 实证审计 15 个学区 138 项受资助干预，揭示 [[Every Student Succeeds Act|ESSA]] Tier I 法定单项合格门槛导致合规假象（全量研究支持率由 >95% 腰斩至 49%–58%）、学段供给断层与微观交付要素因果黑箱（[[Argument_Ginsberg_2024_EducPolicy|Ginsberg et al., 2024, pp. 11–13]]）。
 >   - 2017 — Boudreau et al. 在哈佛医学院内部研讨会中实施大规模随机对照实地试验，从 400 名科学家中随机结对进行 90 分钟面对面交流，证实消除物理搜寻成本使后续实际科研合作概率相对净增 75%，确立了实验设计在科学组织与学术合作机制评估中的因果识别效力（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási, 2021, pp. 249–250]]）。
 >   - 2021 — [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]在《科学学》中系统评估微观计量经济学[[Credibility Revolution|可信性革命]]对科学学的塑造，确立随机对照试验在平衡不可观测变量上的最高内部效度，同时揭示微观局部实验确定性与宏观科学政策[[External Validity|可推广性]]之间的内在权衡（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási, 2021, pp. 248–251]]）。
@@ -352,7 +354,7 @@ updated: 2026-11-05
 > [!method-fit] 适用判断
 > - **适合使用** 评估界定清晰、可标准化交付的教学干预、课程包、技术辅助工具或结构化辅导的因果效能；当[[Research Ethics\|研究伦理]]允许[[Random Assignment\|随机分配]]、[[Sample Size Determination\|样本量]]足以保证统计功效（MDES）、且能在班级或学校层面控制干预污染时（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 54–56]]; [[Argument_Kraft_2023_ER\|Kraft, 2023, p. 185]]）。
 > - **谨慎使用** 复杂组织变革或系统性政策评估（如学区重组、教师编制改革、高中排课作息调整），极易遭遇学校拒斥导致招募流产或高流失率；存在强同伴互动与溢出效应的微观课堂（违背 [[Stable Unit Treatment Value Assumption\|SUTVA]] 假设）；从高度受控的小规模[[Efficacy Trial\|效力试验]]向[[Business as Usual\|常态教学]]推广的大规模[[Effectiveness Trial\|实效试验]]阶段（需防范[[Effect Size\|效应量]]断崖式衰减与[[Implementation Fidelity\|实施保真度]]稀释）（[[Argument_Berk_2011_EvalRev\|Berk, 2011, p. 195]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]; [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, pp. 11–13]]）。
-> - **不适合使用** 探索性理论建构、深层意义诠释与质性文化生态研究；涉及剥夺基础受教育权益或已知救济措施的伦理禁区；宏观历史变迁、制度演化与政治经济结构性制约分析（如财政紧缩、种族隔离制度演变），将此类系统性问题强行降维为微观隔离[[Variable\|变量]]的 RCT 会造成严重的[[Epistemology\|认识论]][[Screening Off\|屏蔽]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, pp. 28–30]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024, p. 548]]）。
+> - **不适合使用** 探索性理论建构、深层意义诠释与质性文化生态研究；涉及剥夺基础受教育权益或已知救济措施的伦理禁区；宏观历史变迁、制度演化与政治经济结构性制约分析（如财政紧缩、种族隔离制度演变），将此类系统性问题强行降维为微观隔离[[Variable\|变量]]的 RCT 会造成严重的[[Epistemology\|认识论]]屏蔽（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, pp. 28–30]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024, p. 548]]）。
 
 ---
 
@@ -360,7 +362,7 @@ updated: 2026-11-05
 > - **偏误来源** 差异性[[Attrition\|样本流失]]偏差（Attrition Bias）、主体间干扰与溢出（[[Stable Unit Treatment Value Assumption\|SUTVA]] 违背）、对照组代偿性努力（亨利效应）与[[Business as Usual\|常态教学]][[Heterogeneity\|异质性]]基线、评估工具偏袒干预内容的测量偏倚（Ginsburg & Smith 12 威胁）。
 > - **对照组性质异质性（Active vs. Passive Control Baseline）** 对照条件的性质直接决定 RCT [[Effect Size|效应量]]的理论含义与相对量级。将干预与常规教学对照（Business as Usual，无额外支持）相比通常能观察到显著正向效应；而若与另一种经过精细设计的优质替代干预（Active Control）面对面对比，两组效应差异往往极度微弱。宏观[[Research Synthesis|证据综合]]若混淆这两类性质相异的对照基线，将系统性拉低[[Effective Teaching|有效教学]]策略的合并数值（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025, pp. 14–15]]）。
 > - **适用边界** [[External Validity\|外部效度]]与情境依赖性受限（[[Efficacy Trial\|效力试验]]向[[Effectiveness Trial\|实效试验]]的[[Fade-out Effect\|效应衰减]]；跨学段与跨地区迁移阻滞）；[[Causality\|因果推断]]基本问题限制个体级[[Counterfactual\|反事实]]观察；科学发现周期与政策时效刚性的结构性脱节（建立 RCT 稳固证据共识需历时数年至十年，在教育信息化等快速迭代领域极易诱发“报告公布时技术已淘汰”；政策决策对证据及时性与相关性的客观诉求压倒对单一方法学的执念；[[Argument_Serpell_2020_EducPsychol\|Serpell, 2020, p. 42]]）。
-> - **误用风险** “黄金标准”教条化与法定单项合格门槛（单项合格即可获全美采购资质，掩盖全[[Chain of Evidence\|证据链]]中仅 49%–58% 获支持的合规假象）；黑箱[[Effect Size\|效应量]]掩盖微观因果机制与系统性副作用；微观技术[[Variable\|变量]]隔离[[Screening Off\|屏蔽]]宏观政治经济结构；规制型政策进路下的高利害问责异化（如 NCLB 刚性绑定基于科学的实证指标，诱发教学窄化与集体篡改机读卡丑闻；[[Argument_Serpell_2020_EducPsychol\|Serpell, 2020, p. 41]]）。二阶[[Metascience|元科学]]审计证实，仅 30% 的宏观影响因素纯粹基于组间实验，过度合并相关与观察性研究彻底削弱了试验的因果诊断力（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]]）。
+> - **误用风险** “黄金标准”教条化与法定单项合格门槛（单项合格即可获全美采购资质，掩盖全[[Chain of Evidence\|证据链]]中仅 49%–58% 获支持的合规假象）；黑箱[[Effect Size\|效应量]]掩盖微观因果机制与系统性[[Side Effects|副作用]]；微观技术[[Variable\|变量]]隔离屏蔽宏观政治经济结构；规制型政策进路下的高利害问责异化（如 NCLB 刚性绑定基于科学的实证指标，诱发教学窄化与集体篡改机读卡丑闻；[[Argument_Serpell_2020_EducPsychol\|Serpell, 2020, p. 41]]）。二阶[[Metascience|元科学]]审计证实，仅 30% 的宏观影响因素纯粹基于组间实验，过度合并相关与观察性研究彻底削弱了试验的因果诊断力（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]]）。
 > - **补救方式** 预先注册[[Statistical Analysis Plan\|统计分析计划]]（SAP）；严格基于 [[PICO Framework|PICO]] 框架审查[[Access and Acceptance in Research|研究准入]]与对照组定义；采用[[Mechanism Experiments\|机制实验]]（鼓励设计）拆解因果机制；深度整合[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）；建立不良反应与副作用报告机制；推行多地点独立外部复制与全证据库综合。
 
 > [!assumptions] [[Random Assignment\|随机分配]]逻辑与 ceteris paribus 假定
@@ -380,7 +382,7 @@ updated: 2026-11-05
 > [!debates] 真实课堂复合干预 vs 纯净实验室 RCT 的效度论战
 > [[Cognitive Load Theory\|认知负荷理论]]学派（如 Zhang et al., 2022）指责支持探究教学的实证证据多为涵盖师训、技术工具等多重组件的宏观“项目式研究”（Program-based Studies），缺乏高度真空化的单变量实验室 RCT，并质疑常态教学（[[Business as Usual\|BAU]]）对照组的设计公平性。针对这一方法学争论，学习科学学者（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 4–6]]）展开了系统方法学辩护：
 > - **[[Meta-analysis\|元分析]]设计效应检验** Lazonder and Harmsen (2016) 对 72 项科学探究实验的元分析实证检验表明，**实验设计类型（严格 RCT vs 准实验 Quasi-experiment）对效应量大小没有统计学上的显著影响（did not influence the magnitude of the effect sizes, p. 4）**，确证探究教学增益在不同实验控制严格度下具有稳健的跨设计一致性；Alfieri et al. (2011) 基于 164 项对照研究的元分析同样证实了有指导探究优于[[Direct Instruction\|直接讲授]]。
-> - **真实课堂严格单变量 RCT 的存在** Schuster et al. (2018) 在真实物理课堂针对完全同质的教学内容实施了严格控制的随机对照试验，直接证实在相同知识范围与课时约束下，探究组在深层概念理解上显著超越直接讲授组。
+> - **真实课堂严格单变量 RCT 的存在** Schuster et al. (2018) 在真实物理课堂针对完全同质的教学内容实施了严格控制的随机对照试验，直接证实在相同[[Knowledge Extent|知识范围]]与课时约束下，探究组在深层概念理解上显著超越直接讲授组。
 > - **复合干预的[[Ecological Validity\|生态效度]]辩护** 真实教育情境中的常规教学或直接讲授本身同样由示范、练习与即时反馈等复合组件构成，要求探究干预剔除技术支架与协同组件是方法学上的“双重标准”；全课程项目式研究在保持真实课堂情境的同时，提供了更高的生态效度与实践迁移力。
 
 > [!debates] 黄金标准大规模 RCT 证据 vs [[Meta-meta-analysis|二阶元分析]]均值稀释的认识论冲突

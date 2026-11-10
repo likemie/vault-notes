@@ -10,7 +10,7 @@ aliases:
 summary: "18世纪欧洲以理性批判、经验科学、世俗化与普遍人权为核心的现代性奠基运动，主张摆脱未成熟状态，将公共教育确立为培育自主公民、重构公共领域与推进立宪法权的本体机制；同时通过消解神权王权合法性催生世俗主权想象，当代延伸至科学实践的理性证据协商与实质伦理重构。"
 type: concept
 domain: "educational-philosophy"
-related_count: 64
+related_count: 67
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -24,19 +24,21 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Perpetual Peace]]"
-  - "[[Technical Rationality]]"
+  - "[[Nationalism]]"
   - "[[Positivism]]"
+  - "[[Technical Rationality]]"
   - "[[Emergence]]"
   - "[[Epistemology]]"
   - "[[Scientific Method]]"
   - "[[Grand Theory]]"
   - "[[Empiricism]]"
   - "[[Proto-Scientific Motif]]"
-  - "[[Educational Meliorism]]"
   - "[[Value Neutrality]]"
   - "[[Epoché]]"
   - "[[Technological Agnosticism]]"
   - "[[Cosmopolitanism]]"
+  - "[[Transnational Education]]"
+  - "[[Educational Meliorism]]"
   - "[[Historical Amnesia]]"
   - "[[Epistemic Practices]]"
   - "[[Civic Rituals]]"
@@ -54,13 +56,15 @@ related_concepts:
   - "[[Modular Nationalism]]"
 related_persons:
   - "[[Marc-Antoine Jullien]]"
-  - "[[Victor Cousin]]"
   - "[[Immanuel Kant]]"
   - "[[Jean-Jacques Rousseau]]"
   - "[[Jürgen Habermas]]"
   - "[[Jean-François Lyotard]]"
   - "[[Johann Heinrich Pestalozzi]]"
+  - "[[Francis Bacon]]"
+  - "[[Victor Cousin]]"
   - "[[Horace Mann]]"
+  - "[[Benedict Anderson]]"
   - "[[Andreas Kazamias]]"
   - "[[John Rawls]]"
   - "[[Lee Kuan Yew]]"
@@ -69,23 +73,22 @@ related_persons:
   - "[[Robert Arnove]]"
   - "[[John W. Meyer]]"
   - "[[Alexander Karp]]"
-  - "[[Benedict Anderson]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Kelly_Licona_2018_EpistemicPractices]]"
-  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
+  - "[[Argument_Anderson_2016_Verso_Ch01]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18]]"
+  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
-  - "[[Argument_Anderson_2016_Verso_Ch01]]"
 related_theories:
   - "[[Postmodernism]]"
   - "[[Cultural Models]]"
   - "[[Critical Theory]]"
   - "[[Hegemony]]"
   - "[[World Society Theory]]"
-  - "[[World-Systems Theory]]"
   - "[[Imagined Community]]"
+  - "[[World-Systems Theory]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Observation Method]]"
@@ -100,12 +103,12 @@ updated: 2026-11-11
 ---
 
 > [!def] Enlightenment
-> 启蒙运动（Enlightenment，德语：*Aufklärung*），又称启蒙现代性[[Paradigm|范式]]，是指18世纪发端于西欧并扩展至全大西洋世界的理性批判、制度重构与现代性奠基思想文化运动。在教育哲学与政治现代性视阈下，启蒙运动将人确立为拥有先验理性与自我完善潜能的自主行动者，主张启蒙即人类脱离自己所加之于自己的不成熟状态（*Unmündigkeit*）；它颠覆了传统原罪救赎与等级特权的人性假设，在法权上将普及公共教育确立为世俗现代国家培育独立公民、重构公共领域、保障立宪民主与走向世界[[Perpetual Peace|永久和平]]的本体性制度载体（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 18–20, 25]]；[[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona, 2018, pp. 147–148, 161]]）。在政治共同体与民族主义起源视阈下，启蒙运动瓦解了神权天命与世袭王权的形而上学合法性，促使现代人以享有主权且有限的想象政治共同体确认自身自由与政治自决（[[Argument_Anderson_2016_Verso_Ch01|Anderson, 2016, p. 7]]）。
+> 启蒙运动（Enlightenment，德语：*Aufklärung*），又称启蒙现代性[[Paradigm|范式]]，是指18世纪发端于西欧并扩展至全大西洋世界的理性批判、制度重构与现代性奠基思想文化运动。在教育哲学与政治现代性视阈下，启蒙运动将人确立为拥有先验理性与自我完善潜能的自主行动者，主张启蒙即人类脱离自己所加之于自己的不成熟状态（*Unmündigkeit*）；它颠覆了传统原罪救赎与等级特权的人性假设，在法权上将普及公共教育确立为世俗现代国家培育独立公民、重构公共领域、保障立宪民主与走向世界[[Perpetual Peace|永久和平]]的本体性制度载体（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 18–20, 25]]；[[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona, 2018, pp. 147–148, 161]]）。在政治共同体与[[Nationalism|民族主义]]起源视阈下，启蒙运动瓦解了神权天命与世袭王权的形而上学合法性，促使现代人以享有主权且有限的想象政治共同体确认自身自由与政治自决（[[Argument_Anderson_2016_Verso_Ch01|Anderson, 2016, p. 7]]）。
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指西方现代文明以理性、自由、进步与科学为轴心的世界观重构，及其将公共教育系统与主权国家制度化为现代社会大厦基础的文明进程。
 > - **用途** 揭示现代比较教育学始祖[[Marc-Antoine Jullien|马克-安托万·朱利安]]为何将实证归纳事实与人道主义熔铸为一体，透视行政改革派将公共教育确立为共和防卫基石的法哲学逻辑，并解释现代世俗主权民族国家的观念起源。
-> - **边界** 严格区别于去伦理化的狭隘[[Positivism|实证主义]]或冷酷的技术官僚理性；启蒙运动坚守求真经验探索与规范价值教化的共生统一，追求心智自主与人类解放。
+> - **边界** 严格区别于去伦理化的狭隘[[Positivism|实证主义]]或冷酷的[[Technical Rationality|技术官僚理性]]；启蒙运动坚守求真经验探索与规范价值教化的共生统一，追求心智自主与人类解放。
 
 > [!citation-card] [[Immanuel Kant|康德]]论启蒙的本质与理性的公共运用
 > 康德在 1784 年《回答这个问题：什么是启蒙？》中确立了启蒙运动的定言命令：启蒙就是人类脱离自己所加之于自己的不成熟状态。敢于求知（*Sapere aude!*），要有勇气运用你自己的理智！只要赋予公众在一切事务中公开运用理性的自由，公众的自我启蒙就是必然的历史进程。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, p. 20)]]；引自 Kant (1784)
@@ -127,12 +130,12 @@ updated: 2026-11-11
 > [!contrast-table|notitle] 概念辨析
 > | 维度 | 启蒙现代性范式（Enlightenment Paradigm of Modernity） | 旧制度神权传统（Old Regime & Scholasticism） | 后现代反奠基主义（[[Postmodernism]]） |
 > |---|---|---|---|
-> | **[[Epistemology|认识论]]基石** | 理性批判、经验观察与[[Scientific Method|实证科学统一]] | 启示真理、经院哲学与教会教条权威 | 话语建构、解构主义与拒绝[[Grand Theory|宏大叙事]] |
+> | **[[Epistemology\|认识论]]基石** | 理性批判、经验观察与[[Scientific Method\|实证科学统一]] | 启示真理、经院哲学与教会教条权威 | 话语建构、解构主义与拒绝[[Grand Theory\|宏大叙事]] |
 > | **人性假设** | 人拥有自我启蒙与理性自主潜能，生而平等 | 人性本恶（原罪论），需神恩驯化救赎 | 主体是由权力网络历史性建构的虚构产物 |
 > | **教育终极目的** | 培育理性独立公民、增进普遍福祉与全人教化 | 灌输教区教理问答、涤荡异端与培育顺民 | 揭露知识与权力共谋、赋权多元异质主体 |
-> | **公共治理载体** | 世俗民族国家法制与统一[[Common School Movement|公共学校]]网络 | 宗教修士会与教区私塾特许垄断 | 去中心化社区网络与多元微观抵抗空间 |
+> | **公共治理载体** | 世俗民族国家法制与统一[[Common School Movement\|公共学校]]网络 | 宗教修士会与教区私塾特许垄断 | 去中心化社区网络与多元微观抵抗空间 |
 > | **政治合法性** | 有限且享有主权的现代世俗政治共同体 | 神权天命秩序与世袭王朝血缘等级 | 流动解构、微观抗争与地方性社群网络 |
-> | **代表思想家** | [[Immanuel Kant|康德]]、[[Jean-Jacques Rousseau|卢梭]]、朱利安、[[Jürgen Habermas|哈贝马斯]]、安德森 | 阿奎那、波舒哀、旧制度神学教权派 | [[Jean-François Lyotard|利奥塔]]、福柯、德里达 |
+> | **代表思想家** | [[Immanuel Kant\|康德]]、[[Jean-Jacques Rousseau\|卢梭]]、朱利安、[[Jürgen Habermas\|哈贝马斯]]、安德森 | 阿奎那、波舒哀、旧制度神学教权派 | [[Jean-François Lyotard\|利奥塔]]、福柯、德里达 |
 
 ---
 
@@ -142,7 +145,7 @@ updated: 2026-11-11
 > - **教育、政治学与民族国家构建的三位一体（Triad of Education, Politics, and State-Building）** 启蒙运动将国民公共教育定位为国家公共工程与政治科学的核心维度，将学校确立为塑造具有爱国认同与法律敬畏的现代公民的根本熔炉。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 19–20, 25)]]
 > - **世俗政治主权与神权王朝秩序的解构（Secular Sovereignty and Dynastic Demise）** 启蒙运动摧毁了神授王朝秩序与宗教宇宙论等级的形而上学合法性，促使主权概念由超越性神权转移至世俗政治共同体自身，奠定了现代民族国家作为有限主权实体的观念基座。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 7)]]
 > - **公共领域的理性重构与现代性工程（Reconstruction of the Public Sphere）** 如[[Jürgen Habermas|哈贝马斯]]所论证，启蒙现代性工程的核心任务在于通过客观科学、普遍道德与法律理性重构公共领域，而各级公共学校的理性化组织正是实现这一现代性工程的必要前提。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, p. 25)]]
-> - **经验实证归纳与超国家和平治理愿景（Transnational [[Empiricism]] and Peace Governance）** 催生了比较教育的[[Proto-Scientific Motif|准科学母题]]：将培根知识统一观、居维叶比较解剖学类比与标准化[[Questionnaire|问卷]]相结合，致力于通过跨国比较经验事实消除偏见，构建人类[[Perpetual Peace|永久和平]]共同体。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 11–13, 21–24)]]
+> - **经验实证归纳与超国家和平治理愿景（Transnational [[Empiricism]] and Peace Governance）** 催生了比较教育的[[Proto-Scientific Motif|准科学母题]]：将[[Francis Bacon|培根]]知识统一观、居维叶比较解剖学类比与标准化[[Questionnaire|问卷]]相结合，致力于通过跨国比较经验事实消除偏见，构建人类[[Perpetual Peace|永久和平]]共同体。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 11–13, 21–24)]]
 > - **科学分析的道德迟钝预设与[[Value Neutrality|价值中立]]张力（Dialectic of Moral Obtuseness and Scientific Neutrality）** 启蒙运动与科学革命为了探寻自然规律与经验事实，以暂时[[Epoché|悬置]]善恶价值界定的道德迟钝（Leo Strauss, 1959）作为科学分析的前提条件；然而，当代高科技社会若将这一事实/价值二分法绝对化，则会导致公共生活失去规范锚桩，滑向漫无目的的[[Technological Agnosticism|技术不可知论]]与文化虚无主义。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 214–215)]]
 
 > [!logic-map]- 启蒙现代性范式与现代制度体系建构机制图
@@ -185,8 +188,8 @@ updated: 2026-11-11
 > [!concept-proposition] 命题二｜启蒙运动摧毁神权王朝天命合法性并催生主权想象政治共同体
 > **神圣秩序消解与世俗主权转型** 阐明启蒙运动如何通过消解神权统治与世袭王朝秩序的形而上学合法性，促使现代政治共同体被构想为享有主权且有限的想象实体。
 
-> [!claim] [[Benedict Anderson|Anderson, B.]]
-> **神授王朝秩序解体与世俗主权民族确立** 本尼迪克特·安德森论证指出，现代民族之所以在本质上被构想为享有主权的政治共同体，其直接历史关口在于启蒙运动与政治革命对神圣王朝秩序合法性的根本摧毁。在传统宗教世界观中，王朝统治依托神圣天命与普世宗教语言获得超越性合法性；当启蒙理性摧毁了这种神权统治根基时，主权国家成为现代人确认自身自由与政治自决的最高象征，推动了将政治共同体想象为有限、自主且享有主权的现代民族国家范式。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 7)]]
+> [!claim] Anderson, B.
+> **神授王朝秩序解体与世俗主权民族确立** [[Benedict Anderson|本尼迪克特·安德森]]论证指出，现代民族之所以在本质上被构想为享有主权的政治共同体，其直接历史关口在于启蒙运动与政治革命对神圣王朝秩序合法性的根本摧毁。在传统宗教世界观中，王朝统治依托神圣天命与普世宗教语言获得超越性合法性；当启蒙理性摧毁了这种神权统治根基时，主权国家成为现代人确认自身自由与政治自决的最高象征，推动了将政治共同体想象为有限、自主且享有主权的现代民族国家范式。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 7)]]
 
 ---
 
@@ -194,7 +197,7 @@ updated: 2026-11-11
 > **学科发端的初始认识论地基** 揭示比较教育作为一门独立学科的诞生，深嵌于启蒙运动的科学归纳与[[Cosmopolitanism|世界主义]]问题域。
 
 > [!claim] [[Marc-Antoine Jullien|Jullien, M.]]-A.
-> **比较探究是实现启蒙世界主义与[[Perpetual Peace|永久和平]]的基础设施** 朱利安将培根科学统一构想、居维叶比较解剖学与启蒙世界公民理念系统融通，断言唯有通过跨国标准化教育事实调查、常设特别教育委员会与百科通报，才能将教育提升为准实证科学，使跨国教育互鉴直接服务于全人类文明进步与欧洲永久和平。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 11–14, 20–24)]]；引自 Palmer (1993:205)
+> **比较探究是实现启蒙世界主义与[[Perpetual Peace|永久和平]]的基础设施** 朱利安将培根科学统一构想、居维叶比较解剖学与启蒙世界公民理念系统融通，断言唯有通过跨国标准化教育事实调查、常设特别教育委员会与百科通报，才能将教育提升为准实证科学，使[[Transnational Education|跨国教育]]互鉴直接服务于全人类文明进步与欧洲永久和平。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 11–14, 20–24)]]；引自 Palmer (1993:205)
 
 > [!claim] Kaloyannaki, P. and [[Andreas Kazamias|Kazamias, A.]] M.
 > **现代主义发端由启蒙后现代性催生的两大母题共同奠基** 卡洛扬纳基与卡扎米亚斯阐明，比较教育学的发端扎根于启蒙运动催生的现代性范式：朱利安开创的[[Proto-Scientific Motif|准科学人道改良母题]]与欧美改革者推进的政策导向行政[[Educational Meliorism|改良主义]]母题，二者在认识论上同源共生，合力构成了学科兼具经验求真与规范价值关怀的核心比较认识论问题域。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 11–13, 33–34)]]

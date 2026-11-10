@@ -12,7 +12,7 @@ aliases:
 summary: "指选拔顶尖机械师与高级技师进驻研究型大学与国家实验室，赋予其正式教职、联合指导权与成果署名权，以弥合工程理论与动手排障断层的师资与培养制度。"
 type: concept
 domain: "higher-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,7 +33,8 @@ related_concepts:
   - "[[Industrial Commons]]"
   - "[[Document]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Journal Impact Factor]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -70,7 +71,7 @@ updated: 2026-11-03
 > [!contrast-table] 概念辨析
 > | 维度 | 驻校实践者项目（Practitioner-in-Residence） | 传统终身教职轨道（Tenure-Track Faculty） | 产业兼职导师（Adjunct Industry Lecturer） |
 > |---|---|---|---|
-> | **选拔标准** | 一线排障手感、仪器建造技艺与[[Process Knowledge\|默会过程知识]] | 博士文凭、高影响因子文章与理论基金获取力 | 产业管理经验或特定应用领域业务知识 |
+> | **选拔标准** | 一线排障手感、仪器建造技艺与[[Process Knowledge\|默会过程知识]] | 博士文凭、高[[Journal Impact Factor\|影响因子]]文章与理论基金获取力 | 产业管理经验或特定应用领域业务知识 |
 > | **核心职能** | 仪器样机攻坚、现场排障指导与实训实操融入 | 理论模型构建、[[Research Proposal\|课题申报]]与学术文章撰写 | 行业趋势讲授与就业实习资源对接 |
 > | **产权与地位** | 正式教职同等待遇、专利文章共同署名权 | 传统学术阶梯主导者与课题负责人（PI） | 临时合同制、不享有核心成果署名与治理权 |
 

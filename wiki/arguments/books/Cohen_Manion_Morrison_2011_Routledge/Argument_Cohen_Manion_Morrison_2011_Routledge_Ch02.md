@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_display_title: "Research Methods in Education · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 80
+argument_related_count: 81
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Rich and Thick Description]]"
   - "[[Reflexivity]]"
+  - "[[Problematisation]]"
   - "[[Constructivist Paradigm]]"
   - "[[Emergence]]"
   - "[[Scientism]]"
@@ -117,7 +118,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-16
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 > [!logic-map]- 第2章总体论证结构
 > ```mermaid
@@ -303,7 +304,7 @@ updated: 2026-10-29
 > 意识形态批判的倡导本身，可能和它所禁止的方法一样具有意识形态性（Roderick, 1986, p. 65）。哈贝马斯在坚持知识通过兴趣的社会建构这一观点时，也招致了**相对主义**的指控：如果所有知识都由利益构成，那么批判理论自身的知识同样由利益构成，其规范主张并不享有[[Epistemology\|认识论]]上的特权。
 
 > [!critique-data] 批评四：三种兴趣概念地位模糊
-> 我们至今不清楚哈贝马斯的三种兴趣究竟是一个**概念模型、政治分析、一套普遍性陈述、一套超历史原则、一组特定时间的观察，还是一套仅靠歧义存活的松散定义的口号（Morrison, 1995a, p. 71; Kolakowski, 1978）**。Lakomski（1999）质疑哈贝马斯著作所依赖的共识真理论的接受性，认为哈贝马斯的著作对社会变革保持沉默，不过是**思辨**。Fendler（1999）则批评批判理论未充分问题化主体性和非历史性（pp.110–112）。
+> 我们至今不清楚哈贝马斯的三种兴趣究竟是一个**概念模型、政治分析、一套普遍性陈述、一套超历史原则、一组特定时间的观察，还是一套仅靠歧义存活的松散定义的口号（Morrison, 1995a, p. 71; Kolakowski, 1978）**。Lakomski（1999）质疑哈贝马斯著作所依赖的共识真理论的接受性，认为哈贝马斯的著作对社会变革保持沉默，不过是**思辨**。Fendler（1999）则批评批判理论未充分[[Problematisation|问题化]]主体性和非历史性（pp.110–112）。
 
 > [!critique-data] 批评五：行动研究的赋权声称缺乏证据
 > Bernstein（1970）的名言**教育无法补偿社会**对此做了精辟概括：给予行动研究者在小范围内的一点权力（研究自己的处境），对真正的权力和决策中心——往往在行动研究者的控制之外——几乎没有影响。**行动研究的赋权和解放性真的那么彻底吗？证据在哪？（pp.114–116）**

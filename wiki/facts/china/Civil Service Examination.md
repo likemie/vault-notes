@@ -11,7 +11,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 10
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Academic-Administrator Entrepreneurs]]"
   - "[[Self-Cultivation]]"
   - "[[Test-Based Accountability]]"
+  - "[[Grit]]"
   - "[[Learner-Centred Education]]"
   - "[[Chinese Learner]]"
   - "[[Student Attitude]]"
@@ -29,10 +30,12 @@ related_arguments:
   - "[[Argument_Wang_2025_CE]]"
 related_facts:
   - "[[Gaokao]]"
+related_methods:
+  - "[[Cognitive Extent]]"
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -48,7 +51,7 @@ updated: 2026-10-30
 ---
 
 > [!dev-timeline] 制度演变
-> - **206 BCE–220 CE — 汉代荐举起源** 建立“荐举”或察举制度，基于地方德行推荐与声望选拔人才进入朝廷。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 47)]]
+> - **206 BCE–220 [[Cognitive Extent|CE]] — 汉代荐举起源** 建立“荐举”或察举制度，基于地方德行推荐与声望选拔人才进入朝廷。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 47)]]
 > - **7 世纪 — 隋唐制度化创制** 废除九品中正制，科举制度正式制度化，鼓励不同社会背景（而非仅贵族）的年轻男子从小接受严格儒家经典训练。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 47–48)]]
 > - **10–19 世纪 — 宋明清成熟与经义化** 考察对儒家经典、文学技能以及治理理念的理解，通过考试者成为“学者型官员”，确立了文官政治统治结构。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 48)]]
 > - **1905 — 清末正式废除** 伴随西学东渐与新式学堂兴起，科举制度在清末改革中被正式废除。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 48–49)]]
@@ -67,7 +70,7 @@ updated: 2026-10-30
 > [!debates] 学术争议与批判
 >
 > > [!axis] 功利化追求 vs 过程本身的神圣化
-> > 科举制度客观上引发了功利化倾向，许多学者更多地被物质回报驱动；但文化哲学研究强调，不论实际动机如何，愿意经受严酷学习过程本身就被社会视为证明了个人承诺与道德毅力。
+> > 科举制度客观上引发了功利化倾向，许多学者更多地被物质回报驱动；但文化哲学研究强调，不论实际动机如何，愿意经受严酷学习过程本身就被社会视为证明了个人承诺与道德[[Grit|毅力]]。
 > >
 > > - **[[Argument_Li_2012_Cambridge\|Li (2012, pp. 47–48)]]** 承认功利驱动的存在，但指出学习过程本身依然赢得了社会的最高尊重。
 >

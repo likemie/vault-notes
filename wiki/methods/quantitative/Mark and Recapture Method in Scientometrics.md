@@ -10,7 +10,7 @@ summary: "一种借鉴种群生态学调查原理测算互联网与数据库不�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
+method_related_count: 19
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -42,13 +42,15 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Google Scholar]]"
   - "[[Microsoft Academic Graph]]"
+  - "[[OpenAlex]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
 confidence: high
 status: active
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-11
 ---
 
 ---
@@ -60,7 +62,7 @@ updated: 2026-10-31
 > - **测量或估计对象** 互联网公开可访问或特定学术数据库未完全编目的全球科技文献总体规模（Total Volume of Scholarly Documents）。
 > - **问题类型** 总体容量无偏参数估计（Population Size Estimation）与数据库覆盖率测度。
 > - **[[Unit of Analysis|分析单位]]** 科技论著、学术专著、会议报告或预印本独立条目实体。
-> - **输入数据** 两个或多个独立学术搜索引擎（如 Google Scholar、[[Microsoft Academic Graph|Microsoft Academic]] Search）通过均匀随机关键词检索抽取的文献条目标识符集合。
+> - **输入数据** 两个或多个独立学术搜索引擎（如 [[Google Scholar]]、[[Microsoft Academic Graph|Microsoft Academic]] Search）通过均匀随机关键词检索抽取的文献条目标识符集合。
 > - **输出形式** 连续型正实数总体估计量 $\hat{N}$、查普曼小样本偏误修正值及其方差与渐近置信区间。
 
 > [!citation-card|notitle] 关键定义
@@ -158,7 +160,7 @@ updated: 2026-10-31
 ---
 
 > [!software-impl] 软件实现
-> - **数据来源** Google Scholar、Microsoft Academic Search 或 OpenAlex 等学术检索系统开放接口。
+> - **数据来源** Google Scholar、Microsoft Academic Search 或 [[OpenAlex]] 等学术检索系统开放接口。
 > - **核心包或命令** Python 标准库 `math`、科学计算包 `numpy`、`scipy.stats`。
 > - **实现流程** 提取两[[Systematic Sampling|系统抽样]]数据列表，基于 DOI 与规范化标题计算交集，代入查普曼公式计算点估计值与 95% 置信区间。
 > - **报告标准** 明确报告抽样检索词列表、两系统抽取样本数、重叠篇数、消歧算法准确度以及最终估计区间。

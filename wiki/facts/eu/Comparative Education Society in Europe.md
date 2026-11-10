@@ -10,7 +10,7 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 35
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Disciplinary Institutionalization]]"
   - "[[Geopolitics]]"
   - "[[Soft Power]]"
+  - "[[Nationalism]]"
   - "[[Perpetual Peace]]"
   - "[[Epistemology]]"
   - "[[Rich and Thick Description]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -133,7 +134,7 @@ CESE 的演进催生并伴随了欧洲比较教育学术学会的多中心分化
 > [!debates] 核心学术争议交锋
 >
 > > [!axis] 和平改良理想 vs 冷战西方[[Geopolitics|地缘政治]][[Soft Power|软实力]]
-> > - **理性改良视角（Lauwerys et al.）** 坚信学会通过客观、消除偏见的学制与课程对比，能够在多边契约下消除极权仇恨与狭隘民族主义，服务于崇高的[[Perpetual Peace|永久和平]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 424)]]
+> > - **理性改良视角（Lauwerys et al.）** 坚信学会通过客观、消除偏见的学制与课程对比，能够在多边契约下消除极权仇恨与狭隘[[Nationalism|民族主义]]，服务于崇高的[[Perpetual Peace|永久和平]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 424)]]
 > > - **地缘批判视角** 批判学者指出，CESE 在冷战分裂格局中客观依附于西方多边机构资源，其倡导的科学人道主义与民主模式不可避免地带有推广西方自由资本主义体制的意识形态软实力色彩。
 >
 > > [!axis] 超然学术精英主义 vs 基层实务开放与政策直接干预

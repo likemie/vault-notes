@@ -10,10 +10,10 @@ summary: "德国理论物理学家、量子力学奠基人之一、1932 年诺�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1901"
 died: "1976"
 lifespan: "1901–1976"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Abstract]]"
   - "[[Epistemology]]"
   - "[[Experimental Innovators]]"
+  - "[[Early-Career Researchers]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -99,7 +100,7 @@ updated: 2026-10-30
 > [!debates] 学术争议
 >
 > > [!axis] 概念早熟公理演绎 vs 经验归纳深度积累
-> > 创新学者对理论颠覆的最佳心智路径存在分歧。一派强调海森堡式公理突破的早熟优势，认为不受传统经验羁绊有利于青年学者打破旧范式；另一派强调经验长跑积累的重要性，指出唯有长周期实验与事实沉潜才能夯实科学大厦。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 46–48)]]
+> > 创新学者对理论颠覆的最佳心智路径存在分歧。一派强调海森堡式公理突破的早熟优势，认为不受传统经验羁绊有利于[[Early-Career Researchers|青年学者]]打破旧范式；另一派强调经验长跑积累的重要性，指出唯有长周期实验与事实沉潜才能夯实科学大厦。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 46–48)]]
 
 ---
 

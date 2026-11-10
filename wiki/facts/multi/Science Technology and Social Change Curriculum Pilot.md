@@ -7,7 +7,7 @@ subtype: program
 region: multi
 fact_region: "multi"
 fact_kind: "program"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -24,10 +24,12 @@ related_facts:
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch08]]"
   - "[[Argument_Peterson_1987_OpenCourt]]"
+related_persons:
+  - "[[Michael S. Brown]]"
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-11-11
 ---
 
 ---
@@ -51,7 +53,7 @@ updated: 2026-10-16
 > [!timeline] 试点推进
 > - **1982 年** 新的应用课程倡议提出，获得两家信托支持。
 > - **随后，具体年份未报告** 三所发起学校与中间技术开发组织（Intermediate Technology Development Group）、技术援助志愿者组织（Volunteers in Technical Assistance）、苏塞克斯与埃因霍温大学顾问连续开会。
-> - **实验准备阶段** 苏塞克斯大学科学研究小组主任迈克尔·布朗（Michael Brown）指导共同课程；巴林初步会议后，在科代卡纳尔安排三周在职培训。
+> - **实验准备阶段** 苏塞克斯大学科学研究小组主任[[Michael S. Brown|迈克尔·布朗]]（Michael Brown）指导共同课程；巴林初步会议后，在科代卡纳尔安排三周在职培训。
 > - **培训网络扩大** 夏威夷洛阿学院、内罗毕圣玛丽学院与亚得里亚海[[United World Colleges|联合世界书院]]的教师也参加培训。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–206)]]
 
 > [!actor-grid] 跨校开发与实施支持

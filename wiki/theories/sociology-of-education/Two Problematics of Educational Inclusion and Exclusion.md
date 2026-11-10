@@ -9,7 +9,7 @@ aliases:
 summary: "教育包容与排斥的双重问题式是托马斯·S·波普科维茨与斯韦克·林德布拉德提出的教育社会学批判分析框架，区隔了聚焦入学机会、资源分配与国家制度代表性的“公平-参与问题式”，以及聚焦思维理性系统、文化分类图式与主体资格筛选的“知识问题式”；在比较教育学中，空间治理实践被视作沟通并统一这两大问题式的关键纽带。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 26
+theory_related_count: 28
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Educational Meliorism]]"
   - "[[Knowledge Questions]]"
   - "[[Champ]]"
+  - "[[Problematisation]]"
   - "[[Migrant Children]]"
   - "[[Scale of Measurement]]"
   - "[[Cultural Capital]]"
@@ -45,6 +46,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Thomas S. Popkewitz]]"
+  - "[[Noah Sobe]]"
 related_facts:
   - "[[Plyler v. Doe 1982]]"
   - "[[Hukou System]]"
@@ -55,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -64,7 +66,7 @@ updated: 2026-10-30
 > - **解释对象** 现代教育改革与政策治理中，“包容”（Inclusion）与“排斥”（Exclusion）如何在宏观制度结构与微观知识[[Discourse|话语]]双重层面上交织生成。
 > - **理论问题** 传统自由主义与[[Positivism|实证主义]]政策研究长期将“教育排斥”窄化为入学机会不足、资源短缺或社会代表性失衡，忽视了看似崇高和普惠的包容性改革政策，往往在其内部推理系统与分类规则中内生性地生产出对边缘人群的深层否定与文化排斥。
 > - **理论类型** 教育社会学[[Critical Theory|批判理论]]、社会[[Epistemology|认识论]]（Social Epistemology）[[Analytic Framework|分析框架]]。
-> - **知识位置** 由[[Thomas S. Popkewitz|托马斯·S·波普科维茨]]（Thomas S. Popkewitz）与斯韦克·林德布拉德（Sverker Lindblad）于 2000 年在《教育研究评论》（*Review of Educational Research*）中提出，由诺亚·索比（Noah W. Sobe）与梅丽莎·菲舍尔（Melissa G. Fischer）等学者引入空间治理与跨国比较教育学研究中。
+> - **知识位置** 由[[Thomas S. Popkewitz|托马斯·S·波普科维茨]]（Thomas S. Popkewitz）与斯韦克·林德布拉德（Sverker Lindblad）于 2000 年在《教育研究评论》（*Review of Educational Research*）中提出，由[[Noah Sobe|诺亚·索比]]（Noah W. Sobe）与梅丽莎·菲舍尔（Melissa G. Fischer）等学者引入空间治理与跨国比较教育学研究中。
 
 > [!claim] 核心判断
 > 分析教育中的包容与排斥必须双轨并进：仅从“公平-参与问题式”出发，只能看到国家作为利益协调者在物质和机会层面的再分配，容易陷入制度[[Educational Meliorism|改良主义]]的盲区；而必须结合“[[Knowledge Questions|知识问题]]式”，解剖教育理性体系如何以“常态/异常”、“卓越/匮乏”的文化图式对学生进行无形归类与资格剥夺。现代学校的“空间实践”（Spatial Practices）正是连接宏观国家行政再分配与微观知识分类规训的关键物理与象征[[Champ|场域]]。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 367–368)]]
@@ -73,7 +75,7 @@ updated: 2026-10-30
 
 ## 理论架构与核心问题式区隔
 
-[[Thomas S. Popkewitz|波普科维茨]]与林德布拉德（Popkewitz & Lindblad, 2000）将教育治理中的问题化机制划分为两个既独立又纠缠的分析维度：
+[[Thomas S. Popkewitz|波普科维茨]]与林德布拉德（Popkewitz & Lindblad, 2000）将教育治理中的[[Problematisation|问题化]]机制划分为两个既独立又纠缠的分析维度：
 
 ```mermaid
 graph TD
@@ -143,7 +145,7 @@ graph TD
 
 ## 理论拓展：空间实践作为统合纽带
 
-将这两大问题式有机统合起来，长期是教育社会学与比较教育研究中的重大分析难题。诺亚·索比与梅丽莎·菲舍尔（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）提出，**空间实践（Spatial Practices）** 是弥合二者鸿沟的核心钥匙：
+将这两大问题式有机统合起来，长期是教育社会学与比较教育研究中的重大分析难题。[[Noah Sobe|诺亚·索比]]与梅丽莎·菲舍尔（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）提出，**空间实践（Spatial Practices）** 是弥合二者鸿沟的核心钥匙：
 
 > [!citation-card] 空间实践对双重问题式的统合
 > 现代学校不仅坐落在特定的地理坐标上，学校本身就是一种生产治理空间的权力装置。从公平-参与维度看，学校是通过校舍建筑、学区围墙与行政编制将特定人群圈禁（Enclosure）并分配资源的物理场所；从[[Knowledge Questions|知识问题]]式维度看，学校通过课桌排列、时间节律、学籍档案分类以及对学生身体流动的合规性界定，将抽象的文化价值具象化为空间纪律。因此，考察空间实践（包括边界设立、地理流动与停留阻断）能够完整呈现国家行政力量与微观知识[[Discourse|话语]]如何协同运作，既制造出物理准入的限制，又塑造出谁具备进入主流社会空间资格的判定标准。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 367–368)]]

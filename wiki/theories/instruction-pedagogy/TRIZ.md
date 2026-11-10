@@ -10,7 +10,7 @@ aliases:
 summary: "由阿奇舒勒创立的算法化发明问题解决理论体系，主张技术与心智系统的演化遵循客观规律，通过识别并消除系统内在矛盾（技术与物理矛盾）、应用 40 条通用发明原理与理想最终解（IFR）启发式，系统克服思维定势并实现高阶创新。"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 23
+theory_related_count: 26
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -30,11 +30,13 @@ related_concepts:
   - "[[Champ]]"
   - "[[Nature of Innovation]]"
   - "[[Engineering Mindset]]"
+  - "[[Side Effects]]"
   - "[[Scaffolding]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Variable]]"
+  - "[[Problematisation]]"
   - "[[Rote Learning]]"
   - "[[Paradigm]]"
   - "[[Student Engagement]]"
@@ -43,6 +45,7 @@ related_theories:
 related_methods:
   - "[[Experimental Research]]"
   - "[[Meta-analysis]]"
+  - "[[Follow-on Engagement]]"
 related_instruments:
   - "[[Creative Engineering Design Assessment]]"
 related_arguments:
@@ -52,7 +55,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -95,7 +98,7 @@ updated: 2026-10-22
 > [!proposition-chain] 核心命题二｜系统演化遵循向“理想度（Ideality）”渐进逼近的客观规律
 > - **前提一** 任何技术系统或人造心智方案均沿着 S 曲线发展，经历婴儿期、成长期、成熟期与衰退期。Altshuller (1984)
 > - **前提二** 系统演化的总方向是提高理想度（$\text{Ideality} = \frac{\sum \text{有用功能}}{\sum \text{有害效应} + \sum \text{引入成本}}$）。
-> - **推导** 创新者在面对问题时不应从当前手段出发顺向推演，而应先定义“理想最终解（IFR）”——即假定系统要素零开销、零副作用却完美实现目标，再以 IFR 为锚点倒推现实约束，从根本上破除“现实资源有限”的心智枷锁。
+> - **推导** 创新者在面对问题时不应从当前手段出发顺向推演，而应先定义“理想最终解（IFR）”——即假定系统要素零开销、零[[Side Effects|副作用]]却完美实现目标，再以 IFR 为锚点倒推现实约束，从根本上破除“现实资源有限”的心智枷锁。
 
 > [!proposition-chain] 核心命题三｜外显发明原理与矛盾矩阵能够作为[[Scaffolding\|认知支架]]大幅降低盲目试错开销
 > - **前提一** 人类大脑在面对新颖问题时极易受“心理惯性（Psychological Inertia）”驱动，自动在熟悉的旧经验范畴内打转。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10)]]
@@ -140,7 +143,7 @@ updated: 2026-10-22
 
 > [!theory-use] 如何用于教育研究与实践
 > - **作为课程教学内容** 在[[Engineering Education|高等工程教育]]、职业教育与创新创业教育中开设专修课程，系统讲授 TRIZ 矩阵与 40 原理；
-> - **作为[[Creativity Training\|创造力干预]]工具** 在准[[Experimental Research\|实验研究]]中，作为“技术型训练（Technique-based training）”的核心实验处理[[Variable\|变量]]，检验其对学生问题表征、灵活性与工程设计[[Creativity\|创造力]]（如 [[Creative Engineering Design Assessment\|CEDA]] 得分）的促进效应；
+> - **作为[[Creativity Training\|创造力干预]]工具** 在准[[Experimental Research\|实验研究]]中，作为“技术型训练（Technique-based training）”的核心实验处理[[Variable\|变量]]，检验其对学生[[Problematisation|问题表征]]、灵活性与工程设计[[Creativity\|创造力]]（如 [[Creative Engineering Design Assessment\|CEDA]] 得分）的促进效应；
 > - **作为跨学科[[Scaffolding\|认知脚手架]]** 引导学生从自然科学向社会科学类比迁移，利用分离原理解决教育组织管理或课程改革中的制度矛盾。
 
 ---
@@ -179,4 +182,4 @@ updated: 2026-10-22
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — [[Meta-analysis\|元分析]]确立技术型训练（以 TRIZ 与 [[SCAMPER]] 为代表）对大学生[[Creativity\|创造力]]表现的稳健促学效应（$g = 0.552, N = 20$），解析其具象认知锚点与迁移特征。
 > - Altshuller (1984) — TRIZ 理论奠基之作，系统阐明矛盾消除、理想度规律与 40 发明原理的算法体系。
-> - Morin et al. (2018) — 加拿大高校开展的长周期技术型发明工程训练准实验（$EG = 59 / CG = 59$），结合 [[Creative Engineering Design Assessment\|CEDA]] 测验检验学生工程设计创造力增益。
+> - Morin et al. (2018) — 加拿大高校开展的长周期技术型发明工程训练准实验（$[[Follow-on Engagement|EG]] = 59 / CG = 59$），结合 [[Creative Engineering Design Assessment\|CEDA]] 测验检验学生工程设计创造力增益。

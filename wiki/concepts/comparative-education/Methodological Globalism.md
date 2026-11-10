@@ -5,7 +5,7 @@ aliases:
 summary: "把全球尺度视为完全决定国家尺度的方法论立场，常作为方法论民族主义的镜像，并倾向弱化地方和制度的相对自主性"
 type: concept
 domain: "comparative-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Epistemology]]"
+  - "[[Nationalism]]"
   - "[[Scale in Higher Education]]"
   - "[[Determinism]]"
   - "[[Falsification]]"
@@ -33,11 +34,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!info] 定义
-> 方法论全球主义（methodological globalism）是 [[Argument_Marginson_2025_ECNUROE|Marginson（2025）]]提出的批判性概念，指一种与 [[Methodological Nationalism\|方法论民族主义]] 对称但方向相反的[[Epistemology\|认识论]]错误：认为国家尺度和地方现象完全由全球尺度决定，否定了国家和其他尺度的相对自主性。如果说方法论民族主义"只看见国家"，方法论全球主义则"只看见全球系统"——两者都犯了将复杂多重空间还原为单一尺度的错误([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 13]])。
+> 方法论全球主义（methodological globalism）是 [[Argument_Marginson_2025_ECNUROE|Marginson（2025）]]提出的批判性概念，指一种与 [[Methodological Nationalism\|方法论民族主义]] 对称但方向相反的[[Epistemology\|认识论]]错误：认为国家尺度和地方现象完全由全球尺度决定，否定了国家和其他尺度的相对自主性。如果说方法论[[Nationalism|民族主义]]"只看见国家"，方法论全球主义则"只看见全球系统"——两者都犯了将复杂多重空间还原为单一尺度的错误([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 13]])。
 
 > [!quote|notitle]
 > "[[World-Systems Theory]] commits the error of methodological globalism, whereby the national scale is wholly determined by the global."([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 13]])

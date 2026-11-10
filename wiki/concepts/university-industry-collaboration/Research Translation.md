@@ -12,7 +12,7 @@ aliases:
 summary: "连接科学研究发现与实际应用的跨界转化过程。在产学合作中体现为成果商业化漏斗，在学校教育中体现为基于行动理论的再脉络化课例探究，在行政督导中体现为将成功学校研究编码为法定评估常模并服务于国家简化，在宏观立法中体现为依托政策简报的法条采纳，在前沿科技中体现为公共代理人依托嵌入型网络治理引导颠覆性轨道，在硬科技与安全治理中体现为依托共享试验场与首要买家拉动将前沿突破转化为本土实体制造与战略交付能力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 132
+related_count: 137
 related_level: 13
 related_stars: "💎💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -92,6 +92,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Translational Research]]"
   - "[[Public-Private Partnership]]"
+  - "[[Patent Citation]]"
   - "[[Forensic Style of Inspection]]"
   - "[[Technical Rationality]]"
   - "[[Implementation Fidelity]]"
@@ -108,6 +109,8 @@ related_instruments: []
 related_persons:
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
   - "[[Nancy Cartwright]]"
 related_facts:
   - "[[DARPA]]"
@@ -147,7 +150,9 @@ related_facts:
   - "[[National Science and Technology Council]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[Science A New Golden Age 2026]]"
+  - "[[National Institutes of Health]]"
   - "[[What Works Clearinghouse]]"
+  - "[[SciSciNet]]"
   - "[[Global Education Monitoring Report]]"
 related_arguments:
   - "[[Argument_Ramming_2025_CorporateSupport]]"
@@ -164,12 +169,12 @@ related_arguments:
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
-  - "[[Argument_Torres_2022_KMModels]]"
   - "[[Argument_Lin_2023_SciData]]"
+  - "[[Argument_Torres_2022_KMModels]]"
 confidence: high
 status: completed
 created: 2026-06-03
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -458,7 +463,7 @@ updated: 2026-11-02
 > - **2010s — 产学漏斗、三轨协同与微观协同探究并进** 企业界确立覆盖学术原型至产品路线图的六阶段漏斗模型与“内部吸收-初创并购-开源生态”三轨转化框架（[[Argument_Ramming_2025_CorporateSupport|Ramming, 2025]]）；教育界兴起英国 [[Education Endowment Foundation|EEF]] 实践中介，并依托[[Research Learning Communities|研究学习共同体]]探索基于因果行动理论的情境[[Recontextualization|再脉络化]]（[[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018]]）。
 > - **2020 — 宏观立法转化导航与学会敏捷机制确立** [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] 系统提出研究者导航宏观立法的实操框架，确立了[[Legislative Policy Brief|立法政策简报]]法条化、象征性法案证据储备、极简定调传播及专业学会快速响应机制（[[Rapid Assessment and Response Strategy|RARS]]），补齐了研究转化的宏观政治拼图。
 > - **2021 — 科学计量揭示观念非穷尽性与技术转化摩擦** [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] 区分了非消耗性基础学术思想与面临边际收益递减的工业技术转化轨迹，揭示了工程学科中技术转化周期对引文基线的塑造作用（Ch. 7, pp. 166–169, 180）。
-> - **2021 — 双层网络全口径量化基础科学向产业专利的转化渗透** 王大顺与巴拉巴西基于数千万篇学术成果与专利的大规模网络匹配，揭示 80% 的已发表基础学术论著在级联引用拓扑上直接或间接支撑了下游产业技术专利，量化确立了基础科研对工业实体转化的全局渗透图景。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 247–248)]]
+> - **2021 — 双层网络全口径量化基础科学向产业专利的转化渗透** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]基于数千万篇学术成果与专利的大规模网络匹配，揭示 80% 的已发表基础学术论著在级联引用拓扑上直接或间接支撑了下游产业技术专利，量化确立了基础科研对工业实体转化的全局渗透图景。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 247–248)]]
 > - **2022 — 跨国证据生态中的转化中介实证审视** [[OECD]] [[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]首次在 29 国 37 个教育系统测度转化主体分布，实证确立了学术生产过剩与实践转化贫瘠、生产依附偏误等结构性规律。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022)]]
 > - **2022 — 国家督导规程中的研究转译与行政文本重写揭示** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 剖析[[Swedish Schools Inspectorate|瑞典学校督察局]]，揭示常规督导如何将“成功学校”研究编码固化为法定评估指标，以及质量审计如何通过预设单一范式与终审定稿清洗将学术实证转译为服务于国家简化的行政问责工具。
 > - **2024 — 全球教育治理借鉴公共卫生构建三维知识转化框架** [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] 为[[UNESCO|联合国教科文组织]]撰写全球报告，借镜公共卫生领域证据知情政策网络经验，系统提出产品、关系与系统三维知识转化框架，指出 74% 证据平台脱离决策的孤立现状，主张建立国家知识转化平台与部委常设证据评估处室以实现转化制度化。
@@ -493,7 +498,7 @@ updated: 2026-11-02
 > | **教育行政规程与审计转译** | 4 个月（指标起草）至 1–2 年（专题审计） | 从“成功学校”文献萃取编码为十项法定督导常模，或印发质量审计终审报告 | 法规缺乏教学指引致起草僵局、学术争鸣与单一范式冲突、传播秘书处定稿清洗制度归因 | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] |
 > | **宏观国家立法转化** | 2–7 年 | 从象征性法案起草至法典重新授权条文采纳 | 政治意识形态相悖、缺乏示范法条、错过[[Policy Window\|政策窗口]] | [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]]; Weiss (1989) |
 > | **工程控制与自动化技术转化** | 3–6 年 | 篇均被引 12.91 次，完成从控制理论算法至工业自动化软硬件系统转化 | 基础理论重组繁衍 vs 工业工程落地摩擦 | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang & Barabási (2021, pp. 166–169, 180)]] |
-> | **基础科学跨界专利级联转化** | 2–5 年（直接）至 10–20 年（级联） | 10% 成果获专利直接引用，80% 成果在 2–3 跳级联网络中连接下游商业专利；31% NIH 资助项目成果获专利直接引用，84% 生物医药专利引用 NIH 资助成果 | 基础科学概念抽象性、学科跨界认知鸿沟与商业化时滞 | [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Wang & Barabási (2021, pp. 247–248)]]; Li et al. (2017) |
+> | **基础科学跨界专利级联转化** | 2–5 年（直接）至 10–20 年（级联） | 10% 成果获专利直接引用，80% 成果在 2–3 跳级联网络中连接下游商业专利；31% [[National Institutes of Health\|NIH]] 资助项目成果获专利直接引用，84% 生物医药[[Patent Citation\|专利引用]] NIH 资助成果 | 基础科学概念抽象性、学科跨界认知鸿沟与商业化时滞 | [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Wang & Barabási (2021, pp. 247–248)]]; Li et al. (2017) |
 > | **多源科学数据湖全链条转化** | 即时/动态计算 | 建立 2223 万条专利引用与 33.8 万条临床试验引用，打通 18.4% 临床试验对基础成果的直接转化关联 | 长尾文献元数据缺失与非英语专利覆盖局限 | [[Argument_Lin_2023_SciData\|Lin et al. (2023)]] |
 
 ---
@@ -551,7 +556,7 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a|notitle]
-> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 开源构建覆盖 1.34 亿篇文献的 SciSciNet 数据湖，打通联邦资助、学术发表与 2200 万篇专利及 33.8 万条临床试验跨界转化网络，为追踪基础研究向下游实体产业与临床医学转化提供宏观计量基石。
+> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 开源构建覆盖 1.34 亿篇文献的 [[SciSciNet]] 数据湖，打通联邦资助、学术发表与 2200 万篇专利及 33.8 万条临床试验跨界转化网络，为追踪基础研究向下游实体产业与临床医学转化提供宏观计量基石。
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 联合国教科文组织《[[Global Education Monitoring Report|全球教育监测报告]]》背景报告，借镜公共卫生领域经验提出产品、关系与系统三维知识转化框架，揭示全球 654 个证据平台中 74% 脱离决策的孤立现状，论证部委常设证据评估处室与国家知识转化平台的制度化机制。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 以[[Swedish Schools Inspectorate|瑞典学校督察局]]为工具性个案，揭示教育行政督导如何将“成功学校”研究转译编码为十项法定评估指标，以及质量审计如何通过预设单一范式与传播秘书处终审定稿清洗将学术实证重塑为国家简化的问责工具。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统剖析[[Research Universities|研究型大学]]在国家半导体体系中的四维角色重构，揭示中试共置（[[Albany NanoTech Complex|Albany NanoTech]]/MIT.nano）与“教育即标准”开源生态作为深科技研究转化的新型制度机制。

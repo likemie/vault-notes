@@ -3,10 +3,10 @@ title: Henry Giroux
 type: person
 status: stable
 created: 2026-10-01
-updated: 2026-10-20
+updated: 2026-11-11
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Policy Borrowing]]"
   - "[[Geopolitics]]"
+  - "[[Transnational Education]]"
   - "[[Critical Thinking]]"
 related_theories:
   - "[[Critical Theory]]"
@@ -69,7 +70,7 @@ related_persons:
 
 在比较与[[International Education|国际教育]]研究中，吉鲁的理论成为解构新自由主义全球化教育输出的关键[[Epistemology|认识论]]武器：
 - **解构自愿借用神话** 如[[Val D. Rust|瓦尔·拉斯特]]、布赖恩·约翰斯通与卡琳·阿拉夫（Rust, Johnstone, & Allaf, 2009）在拓展全球化教育响应模型时所论证，主流比较教育学长期将跨国制度流动假定为平等自愿的“[[Policy Borrowing|政策借用]]”（Policy Borrowing）或改良型“接受”；
-- **确立“强制再生产”维度** 援引吉鲁的理论，学者们指出核心发达国家与跨国金融机构往往凭借不平等的经济与[[Geopolitics|地缘政治]]支配力，强行向发展中国家植入资本主义市场化体制，这种跨国教育输出本质上是**旨在维系中心—外围依附关系的强制再生产（Reproduction）**；
+- **确立“强制再生产”维度** 援引吉鲁的理论，学者们指出核心发达国家与跨国金融机构往往凭借不平等的经济与[[Geopolitics|地缘政治]]支配力，强行向发展中国家植入资本主义市场化体制，这种[[Transnational Education|跨国教育]]输出本质上是**旨在维系中心—外围依附关系的强制再生产（Reproduction）**；
 - **激发本土抵制与文化恢复** 吉鲁关于霸权与反抗的辩证阐释，为比较教育学者理解全球南方师生与原住民社群抵制西方同质化、维护本土知识与文化自主性（Restoration）提供了坚实的理论支撑。
 
 ---

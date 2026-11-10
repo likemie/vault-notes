@@ -10,7 +10,7 @@ subtype: organization
 region: multi
 fact_region: "multi"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Student Mobility]]"
   - "[[Dialogue in Education]]"
   - "[[Policy Network]]"
+  - "[[Early-Career Researchers]]"
   - "[[Lifelong Learning]]"
   - "[[University Social Responsibility]]"
   - "[[People-to-People Connectivity]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -66,7 +67,7 @@ updated: 2026-10-30
 > [!org-evolution] 组织发展历程
 > - **1997–2007 年** **创设奠基与跨区域交流拓展**
 >
->   重点搭建亚欧青年学者、文化艺术家与非政府组织之间的民间交流桥梁。
+>   重点搭建亚欧[[Early-Career Researchers|青年学者]]、文化艺术家与非政府组织之间的民间交流桥梁。
 >
 >   - **1997** 在新加坡正式建立常设总部并投入运作。
 >   - **2000 年代初** 启动系列亚欧智库网络与青年领袖峰会。

@@ -10,7 +10,7 @@ subtype: organization
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -24,14 +24,19 @@ tags:
   - theme/accountability
   - theme/effective-teaching
 related_concepts:
-  - "[[Effective Teaching]]"
-  - "[[Evidence-Based Education]]"
-  - "[[School Inspection]]"
   - "[[New Public Management]]"
-  - "[[Individualised Instruction]]"
+  - "[[School Inspection]]"
+  - "[[Effective Teaching]]"
+  - "[[School Choice]]"
+  - "[[Socioeconomic Status]]"
+  - "[[Construct]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Positivism]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods:
-  - "[[Case Study]]"
+  - "[[Implementation and Process Evaluation]]"
+  - "[[Research Synthesis]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -43,13 +48,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定位
-> 新西兰依据 1989 年《明日学校》新公共管理改革设立的法定独立教育督导与评估机构，直接向新西兰议会负责，承担对全国中小学校及幼儿机构的外部审查、国家课程实施评估及循证教学指南研制职能（[[Argument_Sarbiewska_2019_KiW|Sarbiewska, 2019, p. 124, 126]]）。
+> 新西兰依据 1989 年《明日学校》[[New Public Management|新公共管理]]改革设立的法定独立[[School Inspection|教育督导]]与评估机构，直接向新西兰议会负责，承担对全国中小学校及幼儿机构的外部审查、国家课程[[Implementation and Process Evaluation|实施评估]]及循证教学指南研制职能（[[Argument_Sarbiewska_2019_KiW|Sarbiewska, 2019, p. 124, 126]]）。
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1989 年伴随《1989年教育法》（Education Act 1989）及《明日学校》（[[Tomorrow's Schools Reforms|Tomorrow's Schools]]）分权改革正式创设，取代原集权式教育部学校督察团，确立对校本自治学校的外部独立绩效审计机制。
@@ -77,7 +82,7 @@ updated: 2026-11-10
 > 
 >   强化内部评价与政策分析部门，系统提炼并推广高影响教学实践；
 > 
->   - **2018** 发布《引领新西兰学校创新学习》（*Leading Innovative Learning in New Zealand Schools*）与《课堂里的有效教学》（*Effective Teaching*），倡导教师灵活应对多元学情、调动社区资源与师生共担学习责任（[[Argument_Sarbiewska_2019_KiW|Sarbiewska, 2019, p. 126]]）。
+>   - **2018** 发布《引领新西兰学校创新学习》（*Leading Innovative Learning in New Zealand Schools*）与《课堂里的[[Effective Teaching|有效教学]]》（*Effective Teaching*），倡导教师灵活应对多元学情、调动社区资源与师生共担学习责任（[[Argument_Sarbiewska_2019_KiW|Sarbiewska, 2019, p. 126]]）。
 
 ---
 
@@ -90,7 +95,7 @@ updated: 2026-11-10
 > [!pathways] 业务运行机制
 > - **差异化周期审查机制** 依据学校过往办学绩效与风险等级确定审查周期（对成熟薄弱校实施短期针对性支持，对高质量学校实施常规周期视导）。
 > - **循证主题综合报告研制** 结合日常进校审查获取的微观一线数据，围绕重点学科与教学法提炼国家级改进报告（如阅读素养、创新学习空间、跨校教研合作）（[[Argument_Sarbiewska_2019_KiW|Sarbiewska, 2019, p. 124]]）。
-> - **公开透明报告制度** 所有学校审查报告（ERO School Reports）向社会全网公开，为家长择校与校董会整改提供权威凭据。
+> - **公开透明报告制度** 所有学校审查报告（ERO School Reports）向社会全网公开，为家长[[School Choice|择校]]与校董会整改提供权威凭据。
 
 ---
 
@@ -107,7 +112,7 @@ updated: 2026-11-10
 > > [!axis] 外部高压问责 vs 专业发展支持
 > > 批评者指出公开的低评级审查报告易使处于弱势社区的学校遭受声誉冲击与招生困难，引发基层教师的防御性合规心理；ERO 辩护并逐步转向“合作式评估”，强调通过诊断性反馈与专家伙伴机制支持学校自我完善（[[Argument_Sarbiewska_2019_KiW|Sarbiewska, 2019, p. 126]]）。
 > > 
-> > - **基层批评视角** 弱势学校校领导认为简单问责未能充分考虑复杂的社会经济背景约束。
+> > - **基层批评视角** 弱势学校校领导认为简单问责未能充分考虑复杂的[[Socioeconomic Status|社会经济背景]]约束。
 > > - **机构辩护立场** ERO 坚持独立的外部视角是打破学校内部盲区、保障学生基本受教育权的关键制度安排。
 > 
 > > [!axis] 通用评估指标与本土文化敏感性
@@ -124,6 +129,6 @@ updated: 2026-11-10
 > |:-----|:-----|:-----|
 > | [[The New Zealand Curriculum]] | Fact (Policy) | ERO 负责依法常态化视导与评估其实施效能的国家课程标准。 |
 > | [[Tomorrow's Schools Reforms]] | Fact (Policy) | 创设 ERO 并奠定新西兰校本自治与外部独立督导双轨体制的历史性改革。 |
-> | [[Best Evidence Synthesis]] | Fact (Program) | 新西兰教育部开展的证据综合项目，为 ERO 制定教学指南提供实证基准。 |
-> | [[Effective Teaching]] | Concept | ERO 研制教学评估指南并开展微观课堂质量督导的核心指标构念。 |
-> | [[Evidence-Based Education]] | Concept | ERO 在推进督导实践与发布改进指南中践行的实证主义教育范式。 |
+> | [[Best Evidence Synthesis]] | Fact (Program) | 新西兰教育部开展的[[Research Synthesis\|证据综合]]项目，为 ERO 制定教学指南提供实证基准。 |
+> | [[Effective Teaching]] | Concept | ERO 研制教学评估指南并开展微观课堂质量督导的核心指标[[Construct\|构念]]。 |
+> | [[Evidence-Based Education]] | Concept | ERO 在推进督导实践与发布改进指南中践行的[[Positivism\|实证主义]]教育[[Paradigm\|范式]]。 |

@@ -8,7 +8,7 @@ summary: "英国杜伦大学教育学教授，循证教育与元分析方法学�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 35
+person_related_count: 36
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Preregistration]]"
   - "[[Educational Brokerage Agency]]"
   - "[[International Education]]"
+  - "[[Policy Translation]]"
   - "[[Implementation Fidelity]]"
 related_theories: []
 related_methods:
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -123,7 +124,7 @@ updated: 2026-11-02
 > - **跨国传播** 工具包架构被澳大利亚（[[Evidence for Learning]]）、拉丁美洲及全球[[Educational Brokerage Agency\|证据中介机构]]（[[What Works Network]]）广泛本土化引介，成为[[International Education\|国际教育]]循证综合的标准模板。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 系统阐述[[Meta-analysis\|元分析]]综合的方法论风险与政策转译价值，奠定工具包的学理基础。
+> - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 系统阐述[[Meta-analysis\|元分析]]综合的方法论风险与[[Policy Translation|政策转译]]价值，奠定工具包的学理基础。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 记录 Higgins et al. 对 17 项早期试验的复算如何揭示模型依赖性，并催生《EEF 评估统计分析指南》（2018）。
 > - [[Argument_Simpson_2017_JEdPolicy\|Simpson (2017)]] — 杜伦大学同僚 Simpson 对 Higgins 领衔的工具包提出尖锐批判，指责[[Effect Size\|效应量]]排序混淆了试验敏感度操纵与教学有效性。
 

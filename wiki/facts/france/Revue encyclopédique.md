@@ -12,7 +12,7 @@ subtype: event
 region: france
 fact_region: "france"
 fact_kind: "event"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -25,6 +25,7 @@ tags:
   - theme/nineteenth-century
 related_concepts:
   - "[[Cosmopolitanism]]"
+  - "[[Nationalism]]"
   - "[[International Education]]"
   - "[[Establishing One's Will]]"
   - "[[Geisteswissenschaften]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-25
+updated: 2026-11-11
 ---
 
 ---
@@ -61,14 +62,14 @@ updated: 2026-10-25
 
 > [!event-context] 创办背景
 > - **创办时间 / 核心创办人** 1819 年由比较教育学先驱与启蒙自由主义学者[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris, 1775–1848）在巴黎创办并亲自担任主编，持续按期发行至 1830 年七月革命前夕。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 12, 21)]]
-> - **时代背景** 拿破仑帝国瓦解后，波旁复辟时期的欧洲陷入政治保守反动与狭隘民族主义高涨；朱利安痛感战争野蛮与极端偏狭对文明的摧残，决心创办一份面向全世界文明国家的学术刊物，以启蒙理性、国际合作与科学传播对抗暴力革命与战争。（pp. 12, 21–22）
+> - **时代背景** 拿破仑帝国瓦解后，波旁复辟时期的欧洲陷入政治保守反动与狭隘[[Nationalism|民族主义]]高涨；朱利安痛感战争野蛮与极端偏狭对文明的摧残，决心创办一份面向全世界文明国家的学术刊物，以启蒙理性、国际合作与科学传播对抗暴力革命与战争。（pp. 12, 21–22）
 > - **制度与学科史定位** 19 世纪[[International Education\|国际教育]]与比较文化探究的核心常设平台；也是[[Jürgen Habermas\|哈贝马斯]]（[[Jürgen Habermas]]）所谓的启蒙现代性工程中“重构理性得以彰显的公共领域（public sphere）”的经典物质实体。（pp. 21–22, 25）
 
 ---
 
 ## 刊物宗旨与知识架构
 
-朱利安在《[[Revue encyclopédique|百科评论]]》中系统贯彻了培根式的科学统一哲学与博大的世界公民理想：
+朱利安在《[[Revue encyclopédique|百科评论]]》中系统贯彻了[[Francis Bacon|培根]]式的科学统一哲学与博大的世界公民理想：
 
 > [!claim] 核心宗旨
 > 朱利安宣布《百科评论》决不仅满足于做一个被动的百科全书记录者，而是[[Establishing One's Will\|立志]]成为促进全人类智力与道德升华的“世界公民（cosmopolites）”；期刊旨在落实[[Francis Bacon\|弗朗西斯·培根]]关于“科学统一”的伟大思想，将全球各地的文学、科学与艺术成就汇聚为一个面向人类未来的“普世思想国会（universal Congress）”，通过普及真理与教育革新荡涤旧时代残存的野蛮与战争。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 20–22]]; Palmer, 1993:178–181）

@@ -7,7 +7,7 @@ title: "Argument_Wang_Liang_Chen_2025_CES"
 argument_key: "Argument_Wang_Liang_Chen_2025_CES"
 argument_display_title: "High-level open cooperation in vocational education: Purpose, criteria and pathways—Observations on Chinese-ASEAN cooperation in vocational education"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 32
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Educational Diplomacy]]"
   - "[[People-to-People Connectivity]]"
   - "[[Regulatory Impact Analysis]]"
+  - "[[Transnational Education]]"
   - "[[Document]]"
   - "[[Community of Shared Future for Mankind]]"
   - "[[Empiricism]]"
@@ -49,6 +50,7 @@ related_concepts:
   - "[[Emergent Talents]]"
   - "[[Competitiveness]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Study Abroad]]"
   - "[[Further Education]]"
   - "[[Institutional Displacement]]"
 related_theories: []
@@ -74,7 +76,7 @@ sources:
 status: draft
 confidence: medium
 created: 2026-10-22
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
@@ -97,7 +99,7 @@ updated: 2026-10-29
 > | **职业教育国际化**<br>[[Internationalization of Vocational Education]] | 指职业教育系统在办学理念、专业标准、人才培养与产教协同中整合国际维度的制度化进程，用以剖析从单向要素输出向双向协同生态演进的逻辑转换。 |
 > | **教育外交**<br>[[Educational Diplomacy]] | 指国家运用教育资源与交流合作服务总体外交战略、促进[[People-to-People Connectivity\|民心相通]]的机制，用以阐明职业教育开放合作如何支撑双边全面战略伙伴关系。 |
 > | **系统思维与生态圈演化理论** | 强调组织要素的纵向贯通、横向协同以及跨区域多元主体的利益互惠与动态共生，用以指导化解政策执行断裂并构建跨国跨区域产教协同网络的韧性机制。 |
-> | **规制影响分析**<br>[[Regulatory Impact Analysis]] | 强调在政策制定前后系统权衡社会、经济与制度成本效益（Haibo, 2004），用以评估跨国教育规制的前瞻性、适应性与效能稳定性。 |
+> | **规制影响分析**<br>[[Regulatory Impact Analysis]] | 强调在政策制定前后系统权衡社会、经济与制度成本效益（Haibo, 2004），用以评估[[Transnational Education\|跨国教育]]规制的前瞻性、适应性与效能稳定性。 |
 
 > [!warrant]- 理论如何支撑论证
 > 理论工具将宏观国家对外战略需求、中观区域制度安排与微观办学实践紧密衔接。通过将职业教育定位于新型战略资源，把双边经贸发展与出海企业用工瓶颈转化为职业教育国际化发展的内生动力；依托系统思维厘清中央、地方、学校与行业企业在跨国育人中的协同结构，推导由经验型合作走向制度型开放的必然路径。
@@ -305,7 +307,7 @@ updated: 2026-10-29
 > - **外在协同能力** 敏锐把握区域产业链重组趋势，主动适应跨文化职场生态，具备现场工艺革新与跨团队协作素养。
 > - **育人路径重塑** 推动职业院校重构模块化课程与工程实训流程，将人才培育深度嵌入区域产业链协作网络。
 
-这一人才素养构架为双边职业教育协同育人确立了明确的规格标准，具体组织实践中则依托来华留学生教育实现双向互通。
+这一人才素养构架为双边职业教育协同育人确立了明确的规格标准，具体组织实践中则依托来华[[Study Abroad|留学]]生教育实现双向互通。
 
 > [!case] 来华职教留学生全过程培养与双向人文交流
 > 

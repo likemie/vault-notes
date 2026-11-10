@@ -33,6 +33,7 @@ related_concepts:
   - "[[Educational Research, Development and Innovation]]"
   - "[[Evidence-Based School Development]]"
   - "[[Research Utilization]]"
+  - "[[Appropriate Research]]"
   - "[[Paradigm]]"
   - "[[Professional Judgment]]"
   - "[[Document]]"
@@ -48,6 +49,7 @@ related_concepts:
   - "[[Fitness for Purpose]]"
   - "[[Knowledge Transfer]]"
   - "[[Discourse]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Problem Solving]]"
   - "[[Definition of Terms]]"
   - "[[Internal Validity]]"
@@ -61,6 +63,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Research Problem]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
+  - "[[Thoughtful Engagement]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
   - "[[Ecological Systems Theory]]"
@@ -79,6 +82,8 @@ related_persons:
 related_facts:
   - "[[Centre for Evidence and Implementation]]"
   - "[[Education Resources Information Center]]"
+  - "[[Scopus]]"
+  - "[[Web of Science]]"
   - "[[British Educational Research Association]]"
   - "[[Education Endowment Foundation]]"
   - "[[Monash Q Project]]"
@@ -91,14 +96,14 @@ part_of:
 status: stable
 confidence: high
 created: 2026-09-17
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Rickinson_2022_EducRes"
 argument_key: "Argument_Rickinson_2022_EducRes"
 argument_display_title: "A framework for understanding the quality of evidence use in education"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 59
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -116,7 +121,7 @@ issuing_organization: ""
 > 2. 如何从教育专业视角出发，系统定义并建构一个立足教育实践的[[Quality Use of Research Evidence Framework\|研究证据质量使用框架]]？
 
 > [!claim] 核心主张
-> 研究证据使用不能被简化为外部信息的被动输入或现成方案的机械套用，高质量研究证据使用（Quality Use of Research Evidence, QURE）是在复杂教育系统内，由个体使能构件（技能集、心智倾向、人际关系）与组织使能构件（领导力、文化、基础架构）协同支持的、对适切研究证据的审慎参与与实施；推动证据使用改善必须实现从聚焦证据本身质量向聚焦证据使用质量的[[Paradigm\|范式]]转向，充分发挥一线教育工作者的[[Professional Judgment\|专业判断力]]与情境调适能力。
+> 研究证据使用不能被简化为外部信息的被动输入或现成方案的机械套用，高质量研究证据使用（Quality Use of Research Evidence, QURE）是在复杂教育系统内，由个体使能构件（技能集、心智倾向、人际关系）与组织使能构件（领导力、文化、基础架构）协同支持的、对[[Appropriate Research|适切研究]]证据的审慎参与与实施；推动证据使用改善必须实现从聚焦证据本身质量向聚焦证据使用质量的[[Paradigm\|范式]]转向，充分发挥一线教育工作者的[[Professional Judgment\|专业判断力]]与情境调适能力。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 跨越卫生保健、社会关照、教育与公共政策四大实践领域的 112 篇代表性核心[[Document|文献]]，以及澳大利亚教育系统一线教师、校长、政策制定者与中介专家的多轮咨询反馈。
@@ -155,7 +160,7 @@ issuing_organization: ""
 ---
 
 > [!search-protocol] 跨领域[[Literature Search\|文献检索]]方案与关键词矩阵
-> 为全面掌握跨领域关于[[Research Utilization\|证据使用]]质量的文献，系统综述构建了兼顾证据使用行为、[[Research Literacy\|研究素养]]与质量评估维度的综合检索式，覆盖[[Education Resources Information Center\|教育资源信息中心]]（ERIC）、Scopus、Web of Science 与 ProQuest 四大数据库。
+> 为全面掌握跨领域关于[[Research Utilization\|证据使用]]质量的文献，系统综述构建了兼顾证据使用行为、[[Research Literacy\|研究素养]]与质量评估维度的综合检索式，覆盖[[Education Resources Information Center\|教育资源信息中心]]（ERIC）、[[Scopus]]、[[Web of Science]] 与 ProQuest 四大数据库。
 >
 > | 检索维度 | 核心检索词与布尔逻辑算符 |
 > |:---|:---|
@@ -240,7 +245,7 @@ issuing_organization: ""
 
 除了微观专业裁决外，四大实践领域同样认识到，证据利用不能被割裂为孤立线性的信息输入—输出过程，而是深植于复杂演进的组织与生态系统之中。
 
-> [!quad-grid] 四大实践领域系统动态性与非线性演化的理论透镜
+> [!quad-grid] 四大实践领域系统动态性与非线性演化的[[Theoretical Standpoint|理论透镜]]
 > - **卫生保健领域**<br>将证据使用重构为动态演进过程（Adams & Titler, 2013; Ward et al., 2010）；经典框架突出行动者、证据与情境的多维互动（Ellen et al., 2011; Kitson et al., 1998）；依托[[Dynamic Sustainability Framework\|动态可持续性框架]]（Chambers et al., 2013; Chambers & Norton, 2016），强调干预措施的长期适应性调整，指出实施本质上是持续学习、[[Problem Solving\|问题解决]]与情境调适。
 > - **社会关照领域**<br>指出证据使用应当内化为专业系统内生演进的日常实践（Avby et al., 2014）；Ghate and Hood (2019) 提出深远论断，强调社会关照中必须是在实践中动员证据（mobilise evidence in practice），而非单纯将证据移入实践（moving evidence into practice），证据不能成为附加程序。
 > - **教育实践领域**<br>聚焦跨越教育系统的结构性联动，包括职前教育内置[[Research Literacy\|研究素养]]培训、改进准入标准证据要求；[[Education Endowment Foundation\|教育捐赠基金会]]（EEF, 2019）、[[British Educational Research Association\|英国教育研究协会]]（BERA, 2014）、Coldwell et al. (2017)、Tripney et al. (2018)、Farley-Ripple et al. (2018)、Park (2018) 与 Sharples (2013) 明确倡导将研究利用确立为战略优先事项。
@@ -438,7 +443,7 @@ QURE 框架不仅提供了一套概念分类，更旨在打破教育实践中形
 > [!citation-card] 高质量研究[[Research Utilization\|证据使用]]的双核与使能界定
 > 高质量研究证据使用是指在复杂系统内，由个体与组织使能构件协同支持的、对适切研究证据的审慎参与和实施。适切研究证据强调优质证据的情境特异性。从使用视角来看，优[[Qualitative Research\|质的研究]]证据不仅需要在方法学上保持严谨，更必须切合具体教育问题、情境脉络以及既定用途。审慎参与和实施则体现了教育者对研究证据的批判性研读、对其内涵的共同审议，以及将证据要素有效整合进日常专业实践的过程。
 >
-> *[[Quality Use of Research Evidence Framework\|Quality Use of Research Evidence]] in education as: the thoughtful engagement with and implementation of appropriate research evidence, supported by a blend of individual and organisational enabling components within a complex system. Appropriate research evidence is about the quality and the context-specific nature of research evidence. From a use perspective, quality research evidence needs to be not only methodologically rigorous but also appropriate for the educational issues, the context and the intended use... thoughtful engagement and implementation reflect critical engagement with the research evidence, shared deliberation about its meaning and effective integration of aspects of the evidence within practice.*
+> *[[Quality Use of Research Evidence Framework\|Quality Use of Research Evidence]] in education as: the [[Thoughtful Engagement|thoughtful engagement]] with and implementation of appropriate research evidence, supported by a blend of individual and organisational enabling components within a complex system. Appropriate research evidence is about the quality and the context-specific nature of research evidence. From a use perspective, quality research evidence needs to be not only methodologically rigorous but also appropriate for the educational issues, the context and the intended use... thoughtful engagement and implementation reflect critical engagement with the research evidence, shared deliberation about its meaning and effective integration of aspects of the evidence within practice.*
 
 > [!citation-card] 临床[[Professional Judgment\|专业判断]]在[[Evidence-Based Policy-Making|循证决策]]中的不可替代性
 > 外部临床证据能够提供参考，但绝不能替代个体临床专业判断；正是这种专业判断决定了外部证据是否适用于具体患者。（Sackett et al., 1996, p. 72; 引于 p. 138）

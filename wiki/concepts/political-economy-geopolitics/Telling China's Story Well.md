@@ -9,7 +9,7 @@ aliases:
 summary: "中国官方新时代对外传播与意识形态话语建构的战略范式，旨在通过多元主体主动宣介中国发展成就、制度道路与文明价值，以抗衡西方话语霸权并争夺国际话语权"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 36
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -21,14 +21,17 @@ tags:
   - region/china
 related_concepts:
   - "[[Public Diplomacy]]"
+  - "[[Study Abroad]]"
   - "[[Discourse]]"
   - "[[Beijing Consensus]]"
+  - "[[Nation Branding]]"
   - "[[Geopolitics]]"
   - "[[Soft Power]]"
   - "[[Cultural Diplomacy]]"
   - "[[China Solution]]"
   - "[[Washington Consensus]]"
   - "[[Developmentalism]]"
+  - "[[Transnational Education]]"
   - "[[Language Skills]]"
   - "[[Buen Vivir]]"
   - "[[Cultural Recognition]]"
@@ -65,13 +68,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Telling China's Story Well
-> 讲好中国故事（Telling China's Story Well，全称“讲好中国故事，传播好中国声音”）是中国官方在新时代确立的对外战略传播与[[Public Diplomacy|公共外交]]核心理念。该理念主张突破西方主流媒体与政治叙事对中国形象的垄断定性，动员政府、媒体、高校学者、海外留学生及在华外籍师生等多重主体，生动展示中国发展成就、阐释中国特色社会主义制度优势，并向全球南方国家积极推介治国理政经验，以此构建客观多元的国际[[Discourse|话语]]权。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 686–687)]]
+> 讲好中国故事（Telling China's Story Well，全称“讲好中国故事，传播好中国声音”）是中国官方在新时代确立的对外战略传播与[[Public Diplomacy|公共外交]]核心理念。该理念主张突破西方主流媒体与政治叙事对中国形象的垄断定性，动员政府、媒体、高校学者、[[Study Abroad|海外留学]]生及在华外籍师生等多重主体，生动展示中国发展成就、阐释中国特色社会主义制度优势，并向全球南方国家积极推介治国理政经验，以此构建客观多元的国际[[Discourse|话语]]权。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 686–687)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种由执政党顶层理念主导、跨部门广泛动员的外向型符号表征与意义建构战略。
@@ -85,7 +88,7 @@ updated: 2026-11-03
 
 > [!boundary]- 概念边界
 > - 不等于传统单向宣传（Propaganda） — 传统宣传侧重于教条化口号与自上而下的政策灌输；讲好中国故事更侧重跨文化转译、共情式叙事以及在教育科研双向互动中自发展示制度效能。
-> - 不适用于商业性国家品牌营销 — 该概念的核心主旨在于政治话语权的再平衡与国际秩序合法性争夺，具有强烈的意识形态与[[Geopolitics|地缘政治]]属性。
+> - 不适用于商业性[[Nation Branding|国家品牌]]营销 — 该概念的核心主旨在于政治话语权的再平衡与国际秩序合法性争夺，具有强烈的意识形态与[[Geopolitics|地缘政治]]属性。
 
 ---
 
@@ -118,7 +121,7 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题一｜跨国教育与对外学术交流被赋予讲好中国故事与宣介发展模式的政治职能
+> [!concept-proposition] 命题一｜[[Transnational Education|跨国教育]]与对外学术交流被赋予讲好中国故事与宣介发展模式的政治职能
 > **教育[[Discourse|话语]]工具化维度** 探究教育对外合作政策如何将中外师生的人际交往转化为国家叙事建构的制度化通道。
 
 > [!claim] Woo, E.

@@ -15,7 +15,7 @@ summary: "在多组验证性因子分析（MG-CFA）中检验测量工具在不�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Epistemology]]"
   - "[[Heterogeneity]]"
+  - "[[Homophily]]"
   - "[[Research Literacy]]"
   - "[[External Validity]]"
   - "[[Construct Validity]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-28
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-10-29
 >   - 比较因子协方差/回归路径：需达到**弱等值（Metric Invariance）**；
 >   - 比较潜变量均值/方差分析：需达到**强等值（Scalar Invariance）** 或部分强等值；
 >   - 直接使用简易加总总分比较：需达到**严格等值（Strict Invariance）**。
-> - **不声称回答的问题** 测量等值性仅检验[[Scale of Measurement\|测量尺度]]本身的跨组同质性，不能解释为何某群体潜变量水平显著高于另一群体（群体间真实水平差异由后续实质性因果模型解释）。
+> - **不声称回答的问题** 测量等值性仅检验[[Scale of Measurement\|测量尺度]]本身的跨组[[Homophily|同质性]]，不能解释为何某群体潜变量水平显著高于另一群体（群体间真实水平差异由后续实质性因果模型解释）。
 
 ---
 

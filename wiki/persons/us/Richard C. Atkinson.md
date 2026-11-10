@@ -9,7 +9,7 @@ summary: "美国认知心理学家、科学政策制定者与高等教育领袖�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,10 +28,12 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Import Substitution Industrialisation]]"
   - "[[Document]]"
+  - "[[Early-Career Researchers]]"
   - "[[Congressional Earmarks]]"
   - "[[Technology Transfer]]"
   - "[[Critical Thinking]]"
   - "[[Intellectual Capital]]"
+  - "[[Study Abroad]]"
   - "[[Academic Start-up Packages]]"
   - "[[Academic Risk Aversion]]"
 related_theories:
@@ -52,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-02
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -83,7 +85,7 @@ updated: 2026-11-02
 > [!work-line] 主要著作与政策[[Document|文献]]
 > - **1968 — *Human Memory: A Proposed System and Its Control Processes***（with R. M. Shiffrin）提出将人类记忆划分为感觉记忆、短时记忆和长时记忆的三阶段理论模型，成为认知科学奠基之作。
 > - **1990 — *Supply and Demand for Scientists and Engineers: A National Crisis in the Making*** 预警美国科学与工程高层次拔尖创新人才供需结构失衡与国家科技人力资源战略危机。
-> - **1992 — *Equilibrium in the [[Research Universities|Research University]]***（with D. Tuzin）首次系统剖析现代研究型大学面临的科研经费学科倾斜、青年学者项目申请负担与机构运转失衡难题。
+> - **1992 — *Equilibrium in the [[Research Universities|Research University]]***（with D. Tuzin）首次系统剖析现代研究型大学面临的科研经费学科倾斜、[[Early-Career Researchers|青年学者]]项目申请负担与机构运转失衡难题。
 > - **1999 — *The Golden Fleece, Science Education, and US Science Policy*** 回顾国会对基础科研资助的政治质询与反思，阐发科学教育与国家科学资助合法性之建构逻辑。
 > - **2008 — *Research Universities: Core of the US Science and Technology System***（with W. A. Blanpied）从长时段历史比较与体制分析视角，系统重构美国研究型大学的崛起机制、国际竞争优势与避险平庸化等深层危机。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 30–48)]]
 
@@ -121,7 +123,7 @@ updated: 2026-11-02
 > > - **激进商业化立场** 主张大学应以专利转让与衍生企业创收为核心导向，充分适应[[Intellectual Capital|知识资本]]化的市场诉求。
 
 > [!warning] 未解问题与体制边界
-> 阿特金森指出，美国[[Research Universities|研究型大学]]的高度繁荣建立在二战后冷战红利与独特的非中央集权生态之上；这一模式对公立州立大学面临的州财政周期性削减、高层次理工科人才对国际留学生的高度依赖（留学生占比超 40%），以及女性学者职业晋升天花板等深层结构性瓶颈，尚未形成系统性解法。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 45–47)]]
+> 阿特金森指出，美国[[Research Universities|研究型大学]]的高度繁荣建立在二战后冷战红利与独特的非中央集权生态之上；这一模式对公立州立大学面临的州财政周期性削减、高层次理工科人才对国际[[Study Abroad|留学]]生的高度依赖（留学生占比超 40%），以及女性学者职业晋升天花板等深层结构性瓶颈，尚未形成系统性解法。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 45–47)]]
 
 ---
 

@@ -7,7 +7,7 @@ summary: "德国当代著名哲学家、社会理论家，法兰克福学派第�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Visible Learning]]"
   - "[[Intentionality]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Infusion Approach]]"
   - "[[Document]]"
   - "[[Evidence-Based Education]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 （阿克塞尔·霍耐特）
@@ -73,7 +74,7 @@ updated: 2026-11-02
 > [!timeline] 生平与职涯
 > - **1949** 出生于德国埃森。
 > - **1970 年代** 在波恩大学与波鸿大学研读哲学与社会学，深受青年[[Georg Wilhelm Friedrich Hegel|黑格尔]]派与早期[[Critical Theory|批判理论]]启发。
-> - **1982** 在柏林自由大学完成博士论文，受[[Jürgen Habermas|尤尔根·哈贝马斯]]（[[Jürgen Habermas]]）邀请赴[[Max Planck|马克斯·普朗克]]研究所担任助理研究员，正式[[Infusion Approach|融入法]]兰克福学派正统谱系。
+> - **1982** 在柏林自由大学完成[[Doctoral Dissertation|博士论文]]，受[[Jürgen Habermas|尤尔根·哈贝马斯]]（[[Jürgen Habermas]]）邀请赴[[Max Planck|马克斯·普朗克]]研究所担任助理研究员，正式[[Infusion Approach|融入法]]兰克福学派正统谱系。
 > - **1992** 发表德文奠基作《承认的斗争》（*Kampf um Anerkennung*），英译本于 1996 年出版，震动西方哲学与政治学界，被公认为法兰克福学派第三代崛起的代表标志。
 > - **2001** 接任法兰克福社会研究所（IfS）所长，执掌阿多诺与霍克海默开创的批判理论重镇长达 17 年。
 > - **2003** 与美国批判女权主义哲学家南希·弗雷泽（Nancy Fraser）展开载入当代政治哲学史的“再分配还是承认”世纪大论战，出版合著《再分配还是承认？一个政治-哲学交换》（*Redistribution or Recognition?*）。

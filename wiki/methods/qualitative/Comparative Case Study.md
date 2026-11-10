@@ -8,7 +8,7 @@ summary: "Bartlett 与 Vavrus 提出的突破传统封闭单元的比较研究�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 65
+method_related_count: 66
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dbeafe"
@@ -78,11 +78,13 @@ related_facts:
   - "[[Asian Universities Alliance]]"
   - "[[OECD]]"
   - "[[European Commission]]"
+  - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
 related_arguments:
   - "[[Argument_Erfurth_2022_education-hubs]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Qu_2024_IJED]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_SpronkenSmith_2024_AEHE]]"
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
@@ -90,11 +92,10 @@ related_arguments:
   - "[[Argument_Castro_2009_MultilateralBanks]]"
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
   - "[[Argument_Chou_2017_PolSoc]]"
-  - "[[Argument_Qu_2024_IJED]]"
 confidence: high
 status: active
 created: 2026-05-19
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -198,4 +199,4 @@ updated: 2026-11-10
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 采用探索性比较案例研究设计，对比[[Belt and Road Initiative|一带一路倡议]]下的[[University Alliance of the Silk Road|丝绸之路大学联盟]]与[[Asian Universities Alliance|亚洲大学联盟]]在组织治理、准入门槛与合作机制上的制度异同，论证中国在[[Areas of Knowledge|知识领域]]兼具[[Knowledge Diplomacy|知识外交]]与[[Knowledge Power|知识权力]]的多元网络布局（pp. 1698–1699）。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 采用跨国比较案例研究设计，横向对比德国、英格兰、苏格兰与芬兰对 PISA 测评的政策反响，并在垂直尺度上追踪[[OECD|经合组织]]与[[European Commission|欧盟委员会]]的数据动员，实证揭示全球指标与国内政治议程的[[Externalization|策略性外在化]]机制（pp. 28–35）。
 > - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 采用基于政策部门的跨区域比较案例研究设计，深度对比欧洲与东南亚高等教育区域治理的制度建构路径，揭示两地在政策理念、组织分工与知识话语吸纳机制上的类型差异（pp. 146–148）。
-> - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 采用比较案例研究设计，系统对比中国长三角、粤港澳大湾区与海南自贸港三个国际教育枢纽的办学形态、产学政合作机制与区域经济转型路径。
+> - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 采用比较案例研究设计，系统对比中国长三角、[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]与海南自贸港三个国际教育枢纽的办学形态、产学政合作机制与区域经济转型路径。

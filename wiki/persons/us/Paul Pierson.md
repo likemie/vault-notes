@@ -8,7 +8,7 @@ summary: "美国政治学家，加州大学伯克利分校讲席教授，美国�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Institutional Layering]]"
+  - "[[Cumulative Innovation]]"
 related_theories:
   - "[[Historical Institutionalism]]"
   - "[[Path Dependence]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -136,7 +137,7 @@ updated: 2026-10-30
 > >
 > > - **Paul Pierson（1994, 1996）** 由于福利项目创造了庞大的受惠阶层并诱发自强化锁定，政治家因恐惧选民惩罚而极力规避指责，导致福利国家具有强大的抗削减韧性。
 > > - **Wolfgang Streeck and Kathleen Thelen（2005）** 皮尔逊将变迁狭隘地等同于显性的成文法废止（explicit legislative repeal），陷入严重的连续性偏误；保守派无需发动正面的修法大战，只需借助[[Institutional Drift|制度漂移]]（拒绝随通胀与外部风险更新保障）或[[Institutional Layering|制度层叠]]（扶持私人替代支柱），就能在法条未改的外壳下瓦解福利保障。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 6–8)]]
-> > - **Paul Pierson（2004, 2010）** 在后续研究中充分吸收渐进演化视角，与哈克合著《赢家通吃的政治》深入剖析有组织商业集团如何利用政策漂移与规制阻滞重塑美国不平等结构。
+> > - **Paul Pierson（2004, 2010）** 在[[Cumulative Innovation|后续研究]]中充分吸收渐进演化视角，与哈克合著《赢家通吃的政治》深入剖析有组织商业集团如何利用政策漂移与规制阻滞重塑美国不平等结构。
 
 ---
 

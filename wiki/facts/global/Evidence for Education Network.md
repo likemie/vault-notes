@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 40
+fact_related_count: 41
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
   - evidence-ecosystem
   - policy/what-works
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Evidence Ecosystem]]"
   - "[[Research Utilization]]"
   - "[[Boundary Spanner]]"
@@ -74,13 +75,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定位
-> **教育[[Evidence Network\|证据网络]]（Evidence for Education Network, EEN）** 是由英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）牵头组建并常态化协调的全球多边跨国教育证据协作网络。该网络在[[BHP Foundation\|必和必拓基金会]]长期资助的“[[Building a Global Evidence Ecosystem for Teaching\|构建全球教学证据生态系统]]”项目成果基础上于 2023 年正式升格设立，常设官方门户为 [evidence.education](https://evidence.education)。EEN 汇聚了全球约 20 个国家和地区的权威教育证据中介与评价机构，旨在打破跨国证据孤岛，推动以因果实证为核心的教学决策与实践变革，缩小全球弱势儿童的学业差距。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
+> **教育[[Evidence Network\|证据网络]]（Evidence for Education Network, EEN）** 是由英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）牵头组建并常态化协调的全球多边[[Transnational Education|跨国教育]]证据协作网络。该网络在[[BHP Foundation\|必和必拓基金会]]长期资助的“[[Building a Global Evidence Ecosystem for Teaching\|构建全球教学证据生态系统]]”项目成果基础上于 2023 年正式升格设立，常设官方门户为 [evidence.education](https://evidence.education)。EEN 汇聚了全球约 20 个国家和地区的权威教育证据中介与评价机构，旨在打破跨国证据孤岛，推动以因果实证为核心的教学决策与实践变革，缩小全球弱势儿童的学业差距。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2023 年正式制度化设立。前身为 EEF 自 2014 年起逐步拓展的国际双边合作网络，以及 2018–2025 年由必和必拓基金会全额资助的“构建全球教学[[Evidence Ecosystem\|证据生态系统]]”战略项目；为推动项目成果长效维系，各主权伙伴决定将松散的阶段性资助项目升格为常设的全球多边机制。

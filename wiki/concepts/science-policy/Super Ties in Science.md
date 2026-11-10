@@ -9,13 +9,14 @@ aliases:
 summary: "描述科研人员合作网络中极度紧密、持久且高产的深度伙伴关系的科学学概念；尽管科学界绝大多数合作属于仅维系一两年的弱联结，但平均每 25 位合署学者中即存在 1 位终身超级搭档，其成果产出速率高出常规合作 8 倍且享有显著超额引文溢价。"
 type: concept
 domain: "science-policy"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 related_concepts:
   - "[[Coauthorship Network]]"
   - "[[Scientific Productivity]]"
+  - "[[Early-Career Researchers]]"
   - "[[Academic Inbreeding]]"
   - "[[Construct]]"
   - "[[Assemblage]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -48,7 +49,7 @@ updated: 2026-11-03
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 标识科研职业生涯中具有决定性意义的终身学术伙伴，揭示[[Scientific Productivity|学术生产力]]高度向少数核心合作关系集聚的极值特征。
-> - **用途** 用于解释学者个人科研生命周期中的非对称产出峰值，指导青年学者学术网络构建与长期科研团队维护。
+> - **用途** 用于解释学者个人科研生命周期中的非对称产出峰值，指导[[Early-Career Researchers|青年学者]]学术网络构建与长期科研团队维护。
 > - **边界** 适用于基于知识互补与长效互信形成的学术共同体，不包括挂名搭便车或基于行政从属权力的形式化署名。
 
 > [!citation-card|notitle] 弱纽带主导中的超级联结奇迹

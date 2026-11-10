@@ -13,7 +13,7 @@ aliases:
 summary: "指科技资助机构对展现出持久学术内驱力、明确研究方向和原创突破潜能的科研人员，突破基于短期量化指标的一次性竞争评审，通过结题分级评价、长期成长跟踪和阶段性深度问诊，提供长周期、动态衔接的接续性科研经费资助制度；旨在缓解青年人才的短期生存焦虑，保障高风险、慢热型基础科学前沿选题的持续深耕。"
 type: concept
 domain: "science-policy"
-related_count: 11
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,33 +23,38 @@ tags:
   - policy/science-policy
   - field/science-policy
 related_concepts:
+  - "[[Early-Career Researchers]]"
   - "[[Original Innovation Capability]]"
-  - "[[Curiosity-Driven Research]]"
-  - "[[Slow Science]]"
   - "[[Academic Start-up Packages]]"
-  - "[[Portfolio-Based Research Funding]]"
+  - "[[Block Grants]]"
+  - "[[Interaction Effect]]"
+  - "[[Side Effects]]"
+  - "[[Professional Interest]]"
+  - "[[Paradigm]]"
+  - "[[Variable]]"
+  - "[[Curiosity-Driven Research]]"
 related_theories:
   - "[[Ecological Systems Theory]]"
   - "[[Challenge-Hindrance Stressor Framework]]"
 related_methods:
-  - "[[Exploratory Sequential Design]]"
+  - "[[Qualitative Interview]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[National Natural Science Foundation of China]]"
-  - "[[Shuangqing Forum]]"
 related_arguments:
   - "[[Argument_Mo_2026_BNSFC]]"
 confidence: high
 status: draft
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Continuous Research Funding
-> 延续性资助（Continuous Research Funding，亦称滚动资助或接续性资助）是指面向基础研究领域的科研人才（特别是职业早期的青年学者），在首期项目执行期满后，打破重新经历常规一次性同质化竞争申报的制度壁垒，通过结题成果分级评价、长期学术轨迹追踪与同行专家深度问诊，对展现出重大原创突破潜力和明确研究方向的学者给予持续稳定、动态梯次推进的长期科研经费资助机制。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
+> 延续性资助（Continuous Research Funding，亦称滚动资助或接续性资助）是指面向基础研究领域的科研人才（特别是职业早期的[[Early-Career Researchers|青年学者]]），在首期项目执行期满后，打破重新经历常规一次性同质化竞争申报的制度壁垒，通过结题成果分级评价、长期学术轨迹追踪与同行专家深度问诊，对展现出重大原创突破潜力和明确研究方向的学者给予持续稳定、动态梯次推进的长期科研经费资助机制。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向基于前期实质性探索质量与原创潜力实施的长周期接续性科研资源供给机制。
@@ -57,7 +62,7 @@ updated: 2026-11-04
 > - **边界** 聚焦基础前沿探索的持续深入，不适用于结题即终止的工程交付类项目或短平快委托咨询课题。
 
 > [!citation-card|notitle] 延续资助与资源配置适配
-> 连续性资助能够对内在动机强烈、研究方向明确的青年人才发挥显著效能。科研资助的核心在于实现资源配置的精准性与适配度，让有限资源流向最能产生原始创新突破的关键节点与人群。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
+> 连续性资助能够对内在动机强烈、研究方向明确的青年人才发挥显著效能。科研资助的核心在于实现资源配置的精准性与适配度，让有限资源流向最能产生[[Original Innovation Capability|原始创新突破]]的关键节点与人群。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
 
 > [!boundary]- 概念边界
 > - 不等于 [[Academic Start-up Packages|高校科研启动配套金]] 启动资金主要用于新入职教研人员的基本设备购置与初期实验室搭建，属于一次性门槛支持；延续性资助是基于前期探索潜力的滚动接续支持。
@@ -96,7 +101,7 @@ updated: 2026-11-04
 > **精准适配与因才施策机制** 科研经费的边际效应受科研人员个体特征的调节。对于方向明确且内驱力强劲的学者，延续性资助能够放大探索效能；对于缺乏稳定研究方向的学者，盲目增加资助反而可能分散研究焦点。
 
 > [!claim] [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]]
-> **资助精准性与内在动机的调节效应** 质性访谈与量化分析表明，盲目增加早期经费规模对缺乏明确方向的青年学者易产生副作用；延续性资助对内在动机强烈、主攻战略方向明确的青年人才效能最强。资助机制应注重因才施策，将有限资源精准对接至最具原始创新潜能的学者群体。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
+> **资助精准性与内在动机的[[Interaction Effect|调节效应]]** [[Qualitative Interview|质性访谈]]与量化分析表明，盲目增加早期经费规模对缺乏明确方向的青年学者易产生[[Side Effects|副作用]]；延续性资助对内在动机强烈、主攻战略方向明确的青年人才效能最强。资助机制应注重因才施策，将有限资源精准对接至最具原始创新潜能的学者群体。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
 
 ---
 
@@ -104,12 +109,12 @@ updated: 2026-11-04
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **绩效产出与减压命题** | 延续性资助直接提升突破性创新产出，并显著降低青年人才的工作不安全感与竞争重负 | 承担高风险基础科学前沿选题的青年学者 | [[Argument_Mo_2026_BNSFC\|莫申江等 (2026)]] |
-> | **精准适配调节命题** | 资助效能依赖于对学者内在志趣与持久研究方向的精准甄别，追求资源供给与发展阶段的适配 | 科学基金资助策略调整与长周期项目管线设计 | [[Argument_Mo_2026_BNSFC\|莫申江等 (2026)]] |
+> | **精准适配调节命题** | 资助效能依赖于对学者内在[[Professional Interest\|志趣]]与持久研究方向的精准甄别，追求资源供给与发展阶段的适配 | 科学基金资助策略调整与长周期项目管线设计 | [[Argument_Mo_2026_BNSFC\|莫申江等 (2026)]] |
 
 ---
 
 > [!dev-timeline] 概念演变
-> - **2023 年 — 科学基金结题评价机制试点改革** 国家自然科学基金委员会在青年科学基金项目（A类）中推行结题分级评价与择优延续资助机制试点，确立分级资助范式。
+> - **2023 年 — 科学基金结题评价机制试点改革** [[National Natural Science Foundation of China|国家自然科学基金委员会]]在青年科学基金项目（A类）中推行结题分级评价与择优延续资助机制试点，确立分级资助[[Paradigm|范式]]。
 > - **2024 年 — 科技人才制度体系化支撑推进** 中共中央与国务院印发加强青年科技人才培养若干措施，明确提出对探索性基础研究人才建立长周期支持与动态滚动资助机制。
 > - **2026 年 — 延续性资助效应实证确立** [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]]基于全国 4,569 份基础研究青年学者实证数据，确立了延续性资助对突破式创新绩效（$B = 0.19$）的显著正向预测效应。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026)]]
 
@@ -130,10 +135,10 @@ updated: 2026-11-04
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Mo_2026_BNSFC\|莫申江等 (2026)]] | $N = 4,569$；中国基础研究青年人才（平均年龄 35.6 岁，副高及以下为主） | 多元线性回归分析 | 获得延续性资助对自评突破式创新绩效的影响系数 | $B = 0.19$ | $p < 0.01$ | 证实延续性资助在三类政策环境要素中对创新绩效具有显著促进作用 |
 > | [[Argument_Mo_2026_BNSFC\|莫申江等 (2026)]] | $N = 4,569$；同上青年人才样本 | 组间差异检验（获得延续性资助组 vs 对照组） | 创新绩效主观评分均值 | $M = 4.81$ vs $4.39$（差值 $0.42$） | $p < 0.01$ | 表明获得稳定连续资助群体的原创突破水平显著更高 |

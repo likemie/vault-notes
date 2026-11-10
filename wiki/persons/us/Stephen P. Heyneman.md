@@ -10,7 +10,7 @@ summary: "美国著名国际教育政策与比较教育学者，范德堡大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 33
+person_related_count: 34
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[School Effectiveness]]"
+  - "[[Transnational Education]]"
   - "[[Discourse]]"
   - "[[Academic Achievement]]"
   - "[[Development Education]]"
@@ -66,14 +67,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名比较教育与[[International Education|国际教育]]政策学者，范德堡大学皮博迪教育学院荣休讲席教授，[[World Bank|世界银行]]教育与社会政策前资深首席专家（1976–1998），[[Comparative and International Education Society|比较与国际教育学会]]（CIES）前主席。
-> - **核心角色** 发展中国家[[School Effectiveness|学校效能]]实证研究与世界银行跨国教育援助政策的核心参与者与反思批判者。
+> - **核心角色** 发展中国家[[School Effectiveness|学校效能]]实证研究与世界银行[[Transnational Education|跨国教育]]援助政策的核心参与者与反思批判者。
 > - **代表贡献** 与威廉·洛克斯利（William Loxley）共同提出里程碑式的“海尼曼-洛克斯利效应”（Heyneman-Loxley Effect, 1983）；发表权威学术自省长文《世界银行教育政策制定的历史与问题（1960–2000）》（Heyneman, 2003），系统解构世界银行基于新古典经济学的跨国放贷逻辑，并因揭示世行高层与一线专业官员之间的教条主义激烈内战，成为[[Claudio de Moura Castro|卡斯特罗]]（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）等圈内学者实证互证的重要基准。
 
 > [!citation-card] [[Robert Arnove|阿诺夫]]论海尼曼对世界银行[[Analytic Framework|分析框架]]局限性的反思

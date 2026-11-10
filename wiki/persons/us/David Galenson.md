@@ -10,7 +10,7 @@ summary: "美籍经济学家，芝加哥大学经济学教授，美国国家经�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Conceptual Innovators]]"
   - "[[Experimental Innovators]]"
+  - "[[Scientific Creativity]]"
   - "[[Abstract]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
@@ -43,24 +44,25 @@ related_persons:
   - "[[Albert-László Barabási]]"
   - "[[John B. Fenn]]"
 related_facts:
+  - "[[National Bureau of Economic Research]]"
   - "[[Achieve]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美籍计量经济学家与艺术经济学家，芝加哥大学经济学教授，美国国家经济研究局（NBER）研究员。
+> - **身份位置** 美籍计量经济学家与艺术经济学家，芝加哥大学经济学教授，[[National Bureau of Economic Research|美国国家经济研究局]]（NBER）研究员。
 > - **核心角色** [[Creativity|创造力]]双模态分类体系的奠基人；将拍卖市场拍卖价格与教科书插图引用等经济学计量工具引入人类巅峰创造力生命周期研究，为理解学术峰值年龄方差提供了[[Epistemology|认识论]]维度的微观解释框架。
 > - **代表贡献** 提出并实证检验[[Conceptual Innovators|概念型创新者]]与[[Experimental Innovators|实验型创新者]]两分法，揭示演绎与经验两类学者在巅峰产出年龄上存在的二十年规律性差距。
 
 > [!citation-card] 加伦森论两类创造力风格的本质分歧
-> 学术创造力广义上存在两个极端取向：概念型与实验型。实验型创新者采用归纳方式推进工作，从经验事实中持续积累知识，高度依赖前人积累并展现出更强的经验实证属性；概念型创新者采用演绎方式推进工作，运用先验抽象公理，研究展现出深厚的理论性与逻辑推理属性。这种方法论分歧直接决定了学者在生命周期的何时产出最佳代表作。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 46)]]
+> [[Scientific Creativity|学术创造力]]广义上存在两个极端取向：概念型与实验型。实验型创新者采用归纳方式推进工作，从经验事实中持续积累知识，高度依赖前人积累并展现出更强的经验实证属性；概念型创新者采用演绎方式推进工作，运用先验抽象公理，研究展现出深厚的理论性与逻辑推理属性。这种方法论分歧直接决定了学者在生命周期的何时产出最佳代表作。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 46)]]
 >
 > *There are, broadly speaking, two polar extremes in scholarly creativity: conceptual and experimental. Experimental innovators work inductively, accumulating knowledge from experience. This type of work relies heavily on the works of others and tends to be more empirical. Conceptual innovators work deductively, applying [[Abstract|abstract]] principles. Consequently, their work tended to be more theoretical and derived from a priori logic. This distinction between experimental and conceptual creativity suggests that the nature of the work a scientist does affects when they do their best work.*
 

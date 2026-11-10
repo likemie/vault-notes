@@ -24,6 +24,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Homework]]"
   - "[[Champ]]"
+  - "[[Lecturing]]"
   - "[[Flipped Classrooms]]"
   - "[[Paradigm]]"
   - "[[Self-control]]"
@@ -44,7 +45,6 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Variable]]"
   - "[[Dialogue in Education]]"
-  - "[[Epistemological Theories]]"
 related_arguments:
   - "[[Argument_Zhao_2025_JIntell]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
@@ -54,7 +54,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 > [!def] Blended Learning
@@ -68,7 +68,7 @@ updated: 2026-11-03
 > [!citation-card] 混合教学的促学机制与高阶思维协同
 > 课堂教学组织形态构成了调节技术干预促学成效的重要环境因子。实证数据显示，在整合生成式 AI 的教学中，混合式学习显著超越了传统讲授式课堂，展现出极具[[Statistical Significance\|统计显著性]]的促学效能；它将线下面对面研讨与线上智能探究相结合，为学生提供了既有结构支持又有自主探索空间的理想教学[[Champ\|场域]]。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 11–12)]]
 >
-> *Instructional method represents an important contextual moderator... Blended learning, combining in-person classroom discussion with online intelligent exploration, yielded significant gains and substantially outperformed traditional lecture-based instruction, providing a flexible learning environment with both structural support and autonomous agency.*
+> *Instructional method represents an important contextual moderator... Blended learning, combining in-person classroom discussion with online intelligent exploration, yielded significant gains and substantially outperformed traditional [[Lecturing|lecture]]-based instruction, providing a flexible learning environment with both structural support and autonomous agency.*
 
 > [!boundary]- 概念边界
 > - **浅层技术叠加** 若只是在传统讲授课堂中放映数字课件，或将纸质练习题扫描上网，而未重塑师生互动流程，属于浅层媒体替换，不构成混合学习。

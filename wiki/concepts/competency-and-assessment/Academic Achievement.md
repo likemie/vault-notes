@@ -10,9 +10,9 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（Official Academic Achievement, OAA）、预估总评成绩（Estimated Overall Academic Achievement, EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 168
-related_level: 16
-related_stars: "💎💎💎💎💎⭐"
+related_count: 178
+related_level: 17
+related_stars: "💎💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/academic-achievement
@@ -94,20 +94,21 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Social-Emotional Learning]]"
   - "[[Preregistration]]"
-  - "[[Professional Learning Community]]"
+  - "[[Achievement and Aptitude Tests]]"
   - "[[Deficit Framing]]"
+  - "[[Evidence-Based Policy-Making]]"
+  - "[[Professional Learning Community]]"
   - "[[Critical Thinking]]"
   - "[[Problem-Based Learning]]"
   - "[[Document]]"
-  - "[[Achievement and Aptitude Tests]]"
   - "[[Rote Learning]]"
   - "[[Tutoring Interventions]]"
+  - "[[Socioeconomic Status]]"
   - "[[Gender Differences in Academic Achievement]]"
   - "[[Paradigm]]"
   - "[[Engineered Evidence]]"
   - "[[Predictive Validity]]"
   - "[[Research Scope]]"
-  - "[[Socioeconomic Status]]"
   - "[[Interaction Effect]]"
   - "[[Policy Borrowing]]"
   - "[[Learnification]]"
@@ -135,8 +136,10 @@ related_methods:
   - "[[Multinomial Logistic Regression]]"
   - "[[Systematic Review]]"
   - "[[Comparative Policy Analysis]]"
+  - "[[Natural Experiment]]"
   - "[[Matching]]"
   - "[[Secondary Analysis]]"
+  - "[[Thematic Synthesis]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
@@ -146,6 +149,7 @@ related_persons:
   - "[[Ivan Snook]]"
   - "[[John Hattie]]"
   - "[[Gerald Grace]]"
+  - "[[Eric Hanushek]]"
 related_facts:
   - "[[National Pupil Database]]"
   - "[[Gaokao]]"
@@ -159,6 +163,10 @@ related_facts:
   - "[[Organic Law on the General Organization of the Education System 1990]]"
   - "[[Organic Law on Education 2006]]"
   - "[[EU]]"
+  - "[[TIMSS]]"
+  - "[[Danish Evaluation Institute]]"
+  - "[[Finnish Education Evaluation Centre]]"
+  - "[[Best Evidence Synthesis]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Greene_2018_JEP]]"
@@ -189,14 +197,16 @@ related_arguments:
   - "[[Argument_Abrami_2015_RER]]"
   - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Erdem_2026_SHE]]"
+  - "[[Argument_Sahlgren_2015_CPS]]"
+  - "[[Argument_Volmari_2025_CE]]"
+  - "[[Argument_Sarbiewska_2019_KiW]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
-  - "[[Argument_Sahlgren_2015_CPS]]"
-  - "[[Argument_Sarbiewska_2019_KiW]]"
+  - "[[Argument_Barrenechea_2023_JEC]]"
 confidence: high
 status: active
 created: 2026-08-15
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 （学业成就）
@@ -439,11 +449,11 @@ updated: 2026-11-10
 ---
 
 > [!entry-map] 概念图谱
-> - 上位概念：[[Education|教育学]] · [[Educational Psychology|教育心理学]] · [[Competency|能力构念]]
+> - 上位概念：教育学 · 教育心理学 · 能力构念
 > - 核心维度：知识掌握 · 高阶思维 · 技能熟练度 · 形成性进阶 · 终结性测验
-> - 测量与评价载体：标准化成就测验 · 课程总评（GPA/OAA） · 劣构表现性任务 · [[National Pupil Database|国家学生数据库 (NPD)]]
-> - 关联/辨析概念：[[Academic Aptitude|学业潜能]] · [[Cognitive Offloading|认知卸载]] · [[Higher-Order Thinking Skills|高阶思维]] · [[Surface and Deep Learning|表层与深层学习]]
-> - 治理与政策归因：[[Output-Oriented Governance|产出导向治理]] · [[International Large-Scale Assessments|跨国大规模评估 (PISA)]] · [[Deficit Framing|赤字归因]] · [[Evidence-Based Policy-Making|循证政策制定]]
+> - 测量与评价载体：标准化[[Achievement and Aptitude Tests|成就测验]] · 课程总评（GPA/OAA） · 劣构表现性任务 · 国家学生数据库 (NPD)
+> - 关联/辨析概念：学业潜能 · [[Cognitive Offloading|认知卸载]] · [[Higher-Order Thinking Skills|高阶思维]] · 表层与深层学习
+> - 治理与政策归因：[[Output-Oriented Governance|产出导向治理]] · 跨国大规模评估 (PISA) · [[Deficit Framing|赤字归因]] · [[Evidence-Based Policy-Making|循证政策制定]]
 
 ---
 
@@ -538,9 +548,9 @@ updated: 2026-11-10
 > | Gray, Jesson and Jones (1986)（引自 [[Argument_Snook_2009_NZJES\|Snook et al., 2009, p. 98]]） | 英国多所中学与多个地方教育当局（LEAs）大规模调查样本 | 大规模调查与校际方差分解 | 生源背景、学校考试政策 vs 校际考试成绩总差异 | 约 80% 的校际成绩差异由生源背景解释；剩余 20% 中有一半由考试分流政策解释；校内其他因素（含教师）仅解释约 10% | 统计方差分解 | 证实生源背景主导学业产出，否定教师是最大决定因素的判断 |
 > | Richard Harker (1995, 1996)（引自 [[Argument_Snook_2009_NZJES\|Snook et al., 2009, p. 98]]） | 新西兰全国中学生纵向追踪大样本（控制家庭阶层背景） | 全国纵向追踪与多层方差分解 | 生源构成（student mix） vs 校际学业成绩差异 | 校际成绩差异中有 70% 至 80% 归因于生源构成；控制背景后，学校自身的增值贡献仅占 20% 至 30% | 纵向大样本多层模型 | 证实即便在均质公立教育体系下，阶层生源依然决定绝大部分学业方差 |
 > | Nye et al. (2004)（引自 [[Argument_Terhart_2011_JCS\|Terhart, 2011, p. 432]]） | 全美中小学生大样本（涵盖数学与阅读学科测验） | 元分析与多层方差分解 | 教师效能（优秀、平均与薄弱教师） vs 学生学业成就成绩方差 | 教师因素解释学业成就 8% 至 21% 的变异（对应 $d = 0.32$）；数学学科解释力强于阅读；对低 SES 学生具有关键决定性，对高 SES 学生影响微弱 | $p < .05$ | 证实教师仅解释部分学业方差，家庭阶层对教师效能发挥具有调节作用 |
-> | [[Argument_Sahlgren_2015_CPS\|Sahlgren (2015)]] | 芬兰 1965–2015 历次国际测验标准化微观追踪（Altinok et al., 2014）、国防军数十万入伍男青年认知全样本及芬/瑞双语自然实验 | 历史时间序列分析、全样本档案分析与境内自然实验对比 | 国际测验标准化分、征兵智力测验认知分及瑞典语少数族裔学业表现 | 芬兰学业表现飞跃发生于 1970–1980 年代中央集权期（TIMSS 分增 55 分），征兵测验分在 1988–1997 年增 24 分并在分权后回落 21 分；高 SES 的瑞典语少数派因师资选拔门槛低，PISA 数学落后 14 分、阅读落后 27 分、科学落后 28 分 | 跨历史时期与全样本档案一致 | 证实宏观学业成就飞跃依赖严格中央督导与高师资门槛，推翻了去问责与高自主带来高成就的政策假设（pp. 11–17, 25–29） |
-> | [[Argument_Volmari_2025_CE\|Volmari et al. (2025, pp. 535, 538)]] | 丹麦（2014）与芬兰（2014）基础教育国家改革官方文献库 | 话语分析与政策文献计量 | 国家统考与国家评估对学业成就监测的循证定位 | 丹麦将延长学时直接绑定学业成就提升假设（援引国家评估机构 EVA 报告）；芬兰通过国家教育评估中心（KARVI）抽样监测维持去高利害排名的学业成就保障体系 | 跨国改革文本与评估报告系统解构 | 证实学业成就在不同治理体制下呈现分化的循证监测定位：从高利害问责工具到低利害质量诊断载体 |
-| [[Argument_Sarbiewska_2019_KiW\|Sarbiewska (2019)]]（引自 Alton-Lee, 2003; Hanushek, 1992） | 新西兰 2003 年优质教学最佳证据综合（BES）与美国实证模型 | 国家政策演化分析与多层方差分解 | 校内班级方差 vs 校际方差；优秀教师与低效教师年增长率 | 班级与教师层面的方差贡献高达 59%，远超学校间差异；高成效教师可使学生年学业进步达 1.5 年，低效教师仅 0.5 年 | — | 确立国家政策从宏观结构改革向微观课堂优质教学聚焦的实证依据 |
+> | [[Argument_Sahlgren_2015_CPS\|Sahlgren (2015)]] | 芬兰 1965–2015 历次国际测验标准化微观追踪（Altinok et al., 2014）、国防军数十万入伍男青年认知全样本及芬/瑞双语[[Natural Experiment\|自然实验]] | 历史时间序列分析、全样本档案分析与境内自然实验对比 | 国际测验标准化分、征兵智力测验认知分及瑞典语少数族裔学业表现 | 芬兰学业表现飞跃发生于 1970–1980 年代中央集权期（[[TIMSS]] 分增 55 分），征兵测验分在 1988–1997 年增 24 分并在分权后回落 21 分；高 [[Socioeconomic Status\|SES]] 的瑞典语少数派因师资选拔门槛低，PISA 数学落后 14 分、阅读落后 27 分、科学落后 28 分 | 跨历史时期与全样本档案一致 | 证实宏观学业成就飞跃依赖严格中央督导与高师资门槛，推翻了去问责与高自主带来高成就的政策假设（pp. 11–17, 25–29） |
+> | [[Argument_Volmari_2025_CE\|Volmari et al. (2025, pp. 535, 538)]] | 丹麦（2014）与芬兰（2014）基础教育国家改革官方文献库 | 话语分析与政策文献计量 | 国家统考与国家评估对学业成就监测的循证定位 | 丹麦将延长学时直接绑定学业成就提升假设（援引国家评估机构 [[Danish Evaluation Institute\|EVA]] 报告）；芬兰通过国家教育评估中心（[[Finnish Education Evaluation Centre\|KARVI]]）抽样监测维持去高利害排名的学业成就保障体系 | 跨国改革文本与评估报告系统解构 | 证实学业成就在不同治理体制下呈现分化的循证监测定位：从高利害问责工具到低利害质量诊断载体 |
+| [[Argument_Sarbiewska_2019_KiW\|Sarbiewska (2019)]]（引自 Alton-Lee, 2003; Hanushek, 1992） | 新西兰 2003 年优质教学[[Best Evidence Synthesis\|最佳证据综合]]（BES）与美国实证模型 | 国家政策演化分析与多层方差分解 | 校内班级方差 vs 校际方差；优秀教师与低效教师年增长率 | 班级与教师层面的方差贡献高达 59%，远超学校间差异；高成效教师可使学生年学业进步达 1.5 年，低效教师仅 0.5 年 | — | 确立国家政策从宏观结构改革向微观课堂优质教学聚焦的实证依据 |
 
 ---
 
@@ -573,5 +583,5 @@ updated: 2026-11-10
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 以德国 PISA 2000 为案例，揭示 PISA 将学业成就与家庭社会经济背景的绑定程度列为核心诊断指标，德国的绑定程度在发达国家中居首位，由此引发 PISA 休克并驱动德国以国家统一标准和全日制学校扩建回应阶层与学业成就的结构性挂钩。
 > - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 整合国际测验半世纪标准化追踪微观数据与应征士兵认知档案，证实芬兰学业成就腾飞始于集权督导时期，并借助境内双语自然实验确立教师职业地位与选拔门槛对学业表现的因果决定作用（pp. 11–17, 25–29）。
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 比较北欧三国改革中基于学业成就提升的话语合法化机制，展现丹麦将学时与学业挂钩的问责逻辑与芬兰依托 KARVI 抽样监测维护教育公平的治理分野。
-> - [[Argument_Sarbiewska_2019_KiW|Sarbiewska (2019)]] — 梳理新西兰 2003 年《面向多元背景学生的优质教学》国家战略演进，借助 Alton-Lee 方差分解（校内班级方差达 59%）与 Hanushek 教师年成长增量数据，论证教育治理从宏观治理结构向微观有效教学转型的制度轨迹。
-> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对 43 篇系统改进实证文献开展质性主题综合，揭示全系统研究普遍将大规模标准化统考分数作为评判改进的核心标尺，反思其忽视非认知与全人发展目标的绩效主义倾向。
+> - [[Argument_Sarbiewska_2019_KiW|Sarbiewska (2019)]] — 梳理新西兰 2003 年《面向多元背景学生的优质教学》国家战略演进，借助 Alton-Lee 方差分解（校内班级方差达 59%）与 [[Eric Hanushek|Hanushek]] 教师年成长增量数据，论证教育治理从宏观治理结构向微观有效教学转型的制度轨迹。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对 43 篇系统改进实证文献开展[[Thematic Synthesis|质性主题综合]]，揭示全系统研究普遍将大规模标准化统考分数作为评判改进的核心标尺，反思其忽视非认知与全人发展目标的绩效主义倾向。

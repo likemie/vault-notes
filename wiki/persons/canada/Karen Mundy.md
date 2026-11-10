@@ -7,7 +7,7 @@ summary: "加拿大著名比较教育学者，多伦多大学安大略教育研�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 22
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,9 +25,11 @@ related_concepts:
   - "[[Educational Multilateralism]]"
   - "[[Research Topic]]"
   - "[[Lifelong Learning]]"
+  - "[[Transnational Education]]"
   - "[[Shadow State]]"
   - "[[Geopolitics]]"
   - "[[Educational Meliorism]]"
+  - "[[Country Ownership]]"
   - "[[Analytical Stance]]"
 related_theories:
   - "[[Dependency Theory]]"
@@ -52,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-23
+updated: 2026-11-11
 ---
 
 ---
@@ -73,7 +75,7 @@ updated: 2026-10-23
 > - **1990s** 在加拿大多伦多大学获得博士学位，聚焦于非洲南部教育援助与国际组织政策，出版关于战后[[International Education|国际教育]]援助体系演进的开创性研究。
 > - **1998** 在顶尖国际关系与比较教育学界发表代表作《[[Educational Multilateralism|教育多边主义]]与世界（无）秩序》（*Educational Multilateralism and World (Dis)order*），确立了其在教育全球治理研究领域的权威地位。
 > - **2000s** 先后任职于美国斯坦福大学教育学院与加拿大多伦多大学 OISE，主持跨国公民社会与[[Education for All|全民教育运动]][[Cohort Study|追踪研究]]。
-> - **2014–2018** 借调出任发展中国家基础教育领域最大的多边基金——[[Global Partnership for Education|全球教育伙伴关系]]（GPE）首席技术官，直接指导数十亿美元跨国教育发展援助的战略投放。
+> - **2014–2018** 借调出任发展中国家基础教育领域最大的多边基金——[[Global Partnership for Education|全球教育伙伴关系]]（GPE）首席技术官，直接指导数十亿美元[[Transnational Education|跨国教育]]发展援助的战略投放。
 > - **2018–至今** 返回多伦多大学 OISE 全职任教，担任全球教育政策与创新研究中心主任，领导[[UN Sustainable Development Goals|联合国可持续发展目标]]（SDG 4）国际评估。
 
 ---
@@ -118,7 +120,7 @@ updated: 2026-10-23
 > > [!axis] 多边主义改革的可行性争议
 > > 现行多边金融体系究竟能够通过渐进式技术改良实现公平，还是必须推翻其既有权力结构。
 > >
-> > - **[[Educational Meliorism|改良主义]]实践立场（曼迪政策经验）** 认为通过引入民间社会监督、强化本土所有权（country ownership）与透明度标准，多边基金（如 [[Global Partnership for Education|GPE]]）仍能有效动员全球资源支持弱势群体教育。
+> > - **[[Educational Meliorism|改良主义]]实践立场（曼迪政策经验）** 认为通过引入民间社会监督、强化本土所有权（[[Country Ownership|country ownership]]）与透明度标准，多边基金（如 [[Global Partnership for Education|GPE]]）仍能有效动员全球资源支持弱势群体教育。
 > > - **激进世界体系论[[Analytical Stance|批判立场]]** 认为只要核心大国的加权投票权与资本积累逻辑未变，任何多边倡议都无法摆脱服务于中心利益的结构性宿命。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–106)]]
 
 ---

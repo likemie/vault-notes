@@ -11,7 +11,7 @@ aliases:
 summary: "Geertz 提出的质性研究核心范畴，要求超越行为表面物理记录，将行动嵌入完整社会文化脉络，囊括意义、主观诠释与不可观察的情境要素，使读者获得现场共鸣并支持自然主义概括。"
 type: concept
 domain: "research-methodology"
-related_count: 62
+related_count: 64
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Homework]]"
   - "[[Indexicality]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Creativity]]"
   - "[[Tacit Knowledge]]"
   - "[[Discourse]]"
@@ -45,6 +46,7 @@ related_concepts:
   - "[[Lesson Study]]"
   - "[[Interpretive Paradigm]]"
   - "[[Operationalization]]"
+  - "[[Transnational Education]]"
   - "[[Epistemic Agency]]"
 related_theories:
   - "[[Behaviorism]]"
@@ -92,7 +94,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -117,7 +119,7 @@ updated: 2026-11-03
 
 > [!boundary]- 概念边界
 > - 不等于 质性数据编码 — 编码是对文本资料的标签化分类与模式提炼，而深描是呈现情境生命力与完整意义链条的厚实叙事；
-> - 不等于 原始[[Field Notes\|田野笔记]]全盘复刻 — 深描是经过研究者反思性筛选与理论透镜聚焦的分析性写作，区别于巨细靡遗的流水账；
+> - 不等于 原始[[Field Notes\|田野笔记]]全盘复刻 — 深描是经过研究者反思性筛选与[[Theoretical Standpoint|理论透镜]]聚焦的分析性写作，区别于巨细靡遗的流水账；
 > - 不适用于 寻求去情境化法则概括的大[[Sample Size Determination\|样本量]]化测验与受控因果实验。
 
 ---
@@ -227,7 +229,7 @@ updated: 2026-11-03
 > - **1985 — 质性规范化：Lincoln & Guba 的[[Interpretive Paradigm|自然主义探究]]** 林肯与古巴在《自然主义探究》中系统确立了[[Qualitative Research|质性研究]]的四大可[[Reliability|信度]]标准，将深描正式提升为保障质性研究迁移性（transferability）的核心方法论规范。
 > - **1990s — 批判性重构与微观[[Operationalization|操作化]]** Carspecken（1996）提出[[Critical Ethnography|批判民族志]]中的低推断深描六构件；教育研究者广泛将深描用于解构课堂微观权力、教师反思实践与学生亚文化。
 > - **2000s — [[Mixed Methods Research|混合方法]]中的[[Qualitative Validity|质性效度]]共识** Creswell（2022）等学者将深描固化为质性探究与混合方法研究中公认的八大效度检验支柱之一。
-> - **2009 — 比较教育[[Epistemology|认识论]]抗辩：Mitter 论深描对技术官僚排名的反拨** 米特（[[Argument_Mitter_2009_Europe|Mitter, 2009]]）将“深描”拓展至跨国教育体系比较，确立文化与历史深描为抵御去情境化量化基准评估（benchmarking）与表面化“[[Policy Borrowing|政策借用]]”的核心学术武器。
+> - **2009 — 比较教育[[Epistemology|认识论]]抗辩：Mitter 论深描对技术官僚排名的反拨** 米特（[[Argument_Mitter_2009_Europe|Mitter, 2009]]）将“深描”拓展至[[Transnational Education|跨国教育]]体系比较，确立文化与历史深描为抵御去情境化量化基准评估（benchmarking）与表面化“[[Policy Borrowing|政策借用]]”的核心学术武器。
 > - **2009 — 宏观世界体系与微观民族志深描的辩证融合** [[Robert Arnove|阿诺夫]]（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）在比较教育学中倡导将宏观世界体系批判与微观田野民族志深描紧密结合，借助多地点微观教学深描揭示地方行动者对全球同质化模式的主观抵制与文化再造，并辩证审视跨尺度推论的解释边界。
 > - **2020s — 学习科学中的微观话语深描与典型案例追踪** [[Jianwei Zhang|张建伟]]等（[[Argument_Zhang_2022_SE|Zhang et al., 2022]]）将深描与[[Interactional Ethnography|互动民族志]]、典型案例追踪（Telling Case）深度融合，通过[[Transcription in Qualitative Research|逐字转录]]、时序事件地图与多轮探究线索追踪，细腻刻画了课堂生态中学生[[Epistemic Agency|认识能动性]]与群体知识创造的微观突现过程。
 

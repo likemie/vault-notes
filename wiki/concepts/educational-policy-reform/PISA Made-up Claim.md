@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育学者赵勇等针对经合组织 PISA 提出的批判性构念，指 PISA 宣称能够测量 15 岁学生面向未来生活与现代社会所需的基本素养，但这一主张缺乏前瞻实证支持，其测验构念与传统认知能力高度重合，且宏观经济增长预测模型存在逻辑断裂。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 20
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Discourse]]"
   - "[[Predictive Validity]]"
   - "[[PISA Monolithic View of Education]]"
@@ -35,6 +36,7 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons:
   - "[[Yong Zhao]]"
+  - "[[Eric Hanushek]]"
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
@@ -45,13 +47,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] PISA Made-up Claim
-> **[[PISA]] 捏造的主张（PISA Made-up Claim）**，是由华裔比较教育学者[[Yong Zhao|赵勇]]针对[[OECD|经济合作与发展组织]]（OECD）国际学生评估项目（[[PISA]]）提出的批判性学术[[Construct|构念]]，指 PISA 官方宣称能够评估 15 岁学生在义务教育结束时是否掌握了应对未来生活与现代社会充分参与所需的[[21st Century Skills and Competencies Discourse|关键能力]]与基础素养。批判学者指出，这一主张完全缺乏长期纵向追踪实证支持，本质上属于测验设计团队的经验推断与商业化[[Discourse|话语]]包装；其测验构念在经验测量上与传统的学术考试及一般认知能力高度重合，且基于此主张建构的宏观经济增长预测模型存在严重逻辑缺陷。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
+> **[[PISA]] 捏造的主张（PISA Made-up Claim）**，是由华裔比较教育学者[[Yong Zhao|赵勇]]针对[[OECD|经济合作与发展组织]]（OECD）国际学生评估项目（[[PISA]]）提出的批判性学术[[Construct|构念]]，指 PISA 官方宣称能够评估 15 岁学生在义务教育结束时是否掌握了应对未来生活与现代社会充分参与所需的[[21st Century Skills and Competencies Discourse|关键能力]]与[[Foundational Literacy and Numeracy|基础素养]]。批判学者指出，这一主张完全缺乏长期纵向追踪实证支持，本质上属于测验设计团队的经验推断与商业化[[Discourse|话语]]包装；其测验构念在经验测量上与传统的学术考试及一般认知能力高度重合，且基于此主张建构的宏观经济增长预测模型存在严重逻辑缺陷。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示跨国大规模测试将常规学术试题包装为面向不确定未来挑战的所谓“普适生存技能”的话语拟制机制。
@@ -81,7 +83,7 @@ updated: 2026-11-03
 > [!feature] 核心要素与论证机制
 > - **未来技能前瞻实证依据的缺失** PISA 题目的选取主要基于设计者在[[Pilot Testing|预测试]]中跨情境作答的统计操作性，而非基于对未来社会工作与生活能力需求的系统科学研究。没有任何长程纵向追踪证据表明 PISA 测验中表现优秀的学生在成年后具备显著更高的创新能力或社会成功度。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 > - **测验构念与传统学术认知的实质重叠** 尽管 PISA 声称测量有别于课程知识的应用素养，但实证研究证实 PISA 国家均分与 [[TIMSS]] 等传统课程测验高度相关（$r > 0.85$），不同认知测验方法在国家层面测量的本质上是同一个国家一般认知能力构念。
-> - **宏观经济增长预测模型的逻辑断裂** 经合组织广泛引用的 Hanushek 和 Woessmann 经济增长模型声称提高 PISA 分数可带来百万亿美元 GDP 增量；然而该模型比较的是 1964–2003 年的分数与 1960–2000 年的经济增长，受测学生当时甚至尚未进入劳动力市场；后续独立复查证实测试分数与后一时期的经济增长之间缺乏强一致性关联。
+> - **宏观经济增长预测模型的逻辑断裂** 经合组织广泛引用的 [[Eric Hanushek|Hanushek]] 和 Woessmann 经济增长模型声称提高 PISA 分数可带来百万亿美元 GDP 增量；然而该模型比较的是 1964–2003 年的分数与 1960–2000 年的经济增长，受测学生当时甚至尚未进入劳动力市场；后续独立复查证实测试分数与后一时期的经济增长之间缺乏强一致性关联。
 
 ---
 
@@ -97,7 +99,7 @@ updated: 2026-11-03
 > **计量实证检验与增长神话[[Falsification|证伪]]维度** 检视将测试成绩直接推导为国家长期[[Total Factor Productivity|全要素生产率]]与 GDP 增长的因果模型的实证脆弱性。
 
 > [!claim] Komatsu and Rappleye
-> **增长预测模型的时间错位与经验证伪** Komatsu 和 Rappleye 针对[[OECD|经合组织]]宣称的“提分带动经济增长神话”开展了精确计量复验。研究证实 Hanushek 等人的宏观生产函数存在严重的时间错位问题，当使用相同数据集对真实的滞后经济产出进行检验时，学生测试成绩与国家后续 GDP 增长之间不存在稳健的因果关联，推翻了基于测试分数的经济增长预测。
+> **增长预测模型的时间错位与经验证伪** Komatsu 和 Rappleye 针对[[OECD|经合组织]]宣称的“提分带动经济增长神话”开展了精确计量复验。研究证实 Hanushek et al. 的宏观生产函数存在严重的时间错位问题，当使用相同数据集对真实的滞后经济产出进行检验时，学生测试成绩与国家后续 GDP 增长之间不存在稳健的因果关联，推翻了基于测试分数的经济增长预测。
 
 ---
 

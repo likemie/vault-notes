@@ -6,7 +6,7 @@ aliases:
 summary: "学术场域中以声望、认可和区隔等 Bourdieu 意义上的符号商品为核心通货的竞争形式，区别于以价格和利润驱动的常规市场，用于解释排名和评估为何能驱动大学行为"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 14
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Success Criteria]]"
+  - "[[Quasi-market]]"
   - "[[Champ]]"
   - "[[Matthew Effect in Academia]]"
   - "[[Global Universities Rankings]]"
@@ -30,7 +31,8 @@ related_theories:
   - "[[Academic Capitalism]]"
   - "[[Post-structuralism]]"
   - "[[Neo-feudalism in Higher Education]]"
-related_methods: []
+related_methods:
+  - "[[Journal Impact Factor]]"
 related_persons: []
 related_facts:
   - "[[Academic Ranking of World Universities]]"
@@ -40,13 +42,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!info] 定义
 > 非货币竞争（Non-monetary Competition）指高等教育和学术领域中不以金钱为唯一交换媒介和[[Success Criteria\|成功标准]]的竞争形式。学术竞争围绕"符号商品"（symbolic goods）——如声望（prestige）、认可（recognition）和区隔（distinction）——展开，这些商品之所以具有价值，是因为学科共同体和更广泛的公众已将其视为代表独特专业知识和智力成就的标志([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.797–798]])。
 
-这一概念直接回应了[[Academic Capitalism|学术资本主义]]（[[Academic Capitalism]]）概念的一个核心局限：与常规价格型市场不同，学术界扩散的准市场和声望竞争并不依赖显性的货币供需机制。在许多情况下，学术机构并不以财务利润为导向，学术人员追求的不仅是经济报酬，更是同行认可和学科地位([[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017, p.797]])。
+这一概念直接回应了[[Academic Capitalism|学术资本主义]]（[[Academic Capitalism]]）概念的一个核心局限：与常规价格型市场不同，学术界扩散的[[Quasi-market|准市场]]和声望竞争并不依赖显性的货币供需机制。在许多情况下，学术机构并不以财务利润为导向，学术人员追求的不仅是经济报酬，更是同行认可和学科地位([[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017, p.797]])。
 
 > [!quote|notitle]
 > "金钱不是科学和教育[[Champ\|场域]]中唯一的'通货'，因为学术人员之间的竞争也围绕'符号商品'（Bourdieu, 1984）——如声望、认可或区隔——展开。"([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p.797]])
@@ -60,7 +62,7 @@ updated: 2026-10-22
 
 ### 指标化评估与排名
 
-指标体系（影响因子、引用数、拨款金额）将异质的学术质量数据压缩为单一或极少数维度。[[Global Universities Rankings|全球大学排名]]——从 2003 年上海交通大学的[[Academic Ranking of World Universities|世界大学学术排名]]到 2004 年 Times Higher Education 的世界大学排名——为国家和学科层面的既有排名体系增加了普遍性层级。这些工具直接塑造了学术[[Champ|场域]]中的经济资源分配和政府支出，也影响了声誉——声誉又决定了特定机构对研究者、学生和捐赠者的吸引力([[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017, pp.801–802]])。
+指标体系（[[Journal Impact Factor|影响因子]]、引用数、拨款金额）将异质的学术质量数据压缩为单一或极少数维度。[[Global Universities Rankings|全球大学排名]]——从 2003 年上海交通大学的[[Academic Ranking of World Universities|世界大学学术排名]]到 2004 年 Times Higher Education 的世界大学排名——为国家和学科层面的既有排名体系增加了普遍性层级。这些工具直接塑造了学术[[Champ|场域]]中的经济资源分配和政府支出，也影响了声誉——声誉又决定了特定机构对研究者、学生和捐赠者的吸引力([[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017, pp.801–802]])。
 
 ### 同行评审
 

@@ -51,6 +51,7 @@ related_concepts:
   - "[[Educational Level]]"
   - "[[Paradigm]]"
   - "[[Study Population and Sample]]"
+  - "[[Side Effects]]"
   - "[[Creativity]]"
   - "[[Co-Teaching]]"
   - "[[Individualised Instruction]]"
@@ -95,14 +96,14 @@ sources:
 part_of: ""
 status: completed
 created: 2026-05-03
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Snook_2009_NZJES"
 argument_key: "Argument_Snook_2009_NZJES"
 argument_display_title: "Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement"
 argument_kind: "journal-article"
-argument_related_count: 60
+argument_related_count: 61
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -269,7 +270,7 @@ journal: "New Zealand Journal of Educational Studies"
 除了门槛设定随意之外，把统计相关性直接当成现实因果关系并推导教学指令，同样存在严重的[[Epistemology|认识论]]缺陷。
 
 > [!warrant]- [[Pragmatic Paradigm|实用主义]]认识论：实证证据是解决问题的假设而非行动规则
-> 效应量本身容易在文字上让人产生因果联想，但统计上的相关往往并不能证明现实的因果机制。例如反馈在统计上效应量很高，但这绝不意味着教师应当盲目要求学生多提反馈；从某个因素在统计上显著，根本不能直接推导出一线教师在课堂上具体该怎么做。[[John Dewey|杜威]]早就指出，实证数据不能替代行动规则，它只是为明智地探究问题提供假设；每一项具体的教学决定都包含着对价值、成本以及潜在副作用（例如单纯应试训练伤害学生的[[Creativity|创造力]]与人际交往）的权衡，脱离实际情境的技术化套用只会损害教育生态。
+> 效应量本身容易在文字上让人产生因果联想，但统计上的相关往往并不能证明现实的因果机制。例如反馈在统计上效应量很高，但这绝不意味着教师应当盲目要求学生多提反馈；从某个因素在统计上显著，根本不能直接推导出一线教师在课堂上具体该怎么做。[[John Dewey|杜威]]早就指出，实证数据不能替代行动规则，它只是为明智地探究问题提供假设；每一项具体的教学决定都包含着对价值、成本以及潜在[[Side Effects|副作用]]（例如单纯应试训练伤害学生的[[Creativity|创造力]]与人际交往）的权衡，脱离实际情境的技术化套用只会损害教育生态。
 
 ---
 

@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21"
 argument_display_title: "Research Methods in Education · Ch21"
 argument_kind: "book-chapter"
-argument_related_count: 55
+argument_related_count: 58
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -59,6 +59,8 @@ related_concepts:
   - "[[Response Bias]]"
   - "[[Gatekeepers]]"
   - "[[Deficiencies Model for an Introduction]]"
+  - "[[Homophily]]"
+  - "[[Research Tool]]"
   - "[[Note-Taking]]"
   - "[[Commensuration]]"
   - "[[Reflexivity]]"
@@ -83,6 +85,7 @@ related_methods:
   - "[[Focused Interview]]"
   - "[[Content Analysis]]"
   - "[[Active Listening]]"
+  - "[[Instrumental Variables]]"
   - "[[Cross-checking]]"
   - "[[Projection Technique]]"
   - "[[Case Study]]"
@@ -92,7 +95,7 @@ related_methods:
   - "[[Accounts]]"
 status: draft
 created: 2026-07-22
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
@@ -700,7 +703,7 @@ Scheurich（1995, p. 240）：即使常规信度程序也力不从心：保持�
 > - **I 凝视的巨大性** 以从未有过的方式看 Mary（1, 3）；眼睛盯着（4）；意识到它是巨大的（5）；只是在看她（6）；很多事情在发生（13）；想继续看（18）
 > - **II 实现** 突然的领悟（2，几乎像闯入）；通过她的问题意识到巨大（5）；他不知道发生了什么（13, 14，觉知的节奏）
 > - **III 延续** 两人继续坐着（7）；他继续坐着（15）
-> - **IV 无法移动** 无法移动（16，意志）；不想移动（17，欲望）
+> - **[[Instrumental Variables|IV]] 无法移动** 无法移动（16，意志）；不想移动（17，欲望）
 > - **V 人际维度** 从未有过的方式看她（1, 3）；她的问题引出巨大的实现（5）；他说"我在看着你"（6）；两人坐着（7）
 
 ---
@@ -837,7 +840,7 @@ Parker and Lynn（2002, p. 13）：大量教育研究通过不关注边缘群体
 > 1. **焦点小组数量** 单一话题至少需要两个，一个不足以判断结果是否对群体行为独特
 > 2. **群体规模** 规模太小则群体内动态产生不成比例的影响，规模太大则群体臃肿、难以管理并碎片化。Morgan（1988, p. 43）建议 4–12 人，Fowler（2009, p. 117）建议 6–8 人
 > 3. **超额招募** 应对当天缺席，超额招募多达 20%（Morgan（1988, p. 44））
-> 4. **抽样极度谨慎** 每人是所需特征承载者或群体有背景**同质性**，否则讨论将失去焦点或变得不具代表性。**抽样是主要关键**
+> 4. **抽样极度谨慎** 每人是所需特征承载者或群体有背景 **[[Homophily|同质性]]**，否则讨论将失去焦点或变得不具代表性。**抽样是主要关键**
 > 5. **确保有东西要说**且舒服说出来
 > 6. **主持技能** 在过于引导和偏离要点之间取得平衡，保持开放但围绕要点
 > 7. **清晰议程** Newby（2010, pp. 350–351）：议程和焦点清晰，在有利于讨论的环境中进行，有技能性主持人促使发言、促进思考和反思，并保留讨论记录
@@ -862,7 +865,7 @@ Parker and Lynn（2002, p. 13）：大量教育研究通过不关注边缘群体
 > - **允许自主** 允许当事人以自身方式解释问题
 > - **不唤起防御** 不做任何可能唤起当事人防御的事
 
-> [!warning] 作为研究工具的局限
+> [!warning] 作为[[Research Tool|研究工具]]的局限
 > 1. 受访者启动访谈，而非研究者
 > 2. 受访者主要动机是缓解症状，而非提供信息
 > 3. 访谈者是帮助来源，而非信息获取者

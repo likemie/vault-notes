@@ -10,7 +10,7 @@ summary: "美国理论物理学家，二战期间曼哈顿工程洛斯阿拉莫�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 42
+person_related_count: 45
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -52,6 +52,7 @@ related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
   - "[[Percy Williams Bridgman]]"
+  - "[[Harry S. Truman]]"
   - "[[Lee Felsenstein]]"
   - "[[Stewart Brand]]"
   - "[[Steve Jobs]]"
@@ -61,6 +62,8 @@ related_persons:
   - "[[Nicholas Zamiska]]"
 related_facts:
   - "[[Manhattan Project]]"
+  - "[[Atomic Energy Commission]]"
+  - "[[ASEAN Economic Community]]"
   - "[[Institute for Advanced Study]]"
   - "[[Cavendish Laboratory]]"
   - "[[Office of Scientific Research and Development]]"
@@ -76,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
@@ -84,7 +87,7 @@ updated: 2026-11-04
 > [!person-profile] 人物档案
 > - **身份位置** J. 罗伯特·奥本海默（J. Robert Oppenheimer, 1904–1967）是美国理论物理学家，加利福尼亚大学伯克利分校物理学教授，二战期间受命担任[[Manhattan Project|曼哈顿工程]]新墨西哥州洛斯阿拉莫斯实验室（Y计划）科学主任。
 > - **核心角色** 主持研制了人类历史上第一批核裂变武器，被称为“原子弹之父”；开创了 20 世纪美国由国家战略目标驱动、高度集中的[[Big Science|大科学]]研发模式，成为战时科研动员与国家安全战略深度融合的标志性人物；其在战时践行的[[Engineering Pragmatism|工程实用主义]]与战后对核扩散及人类道德困境的深刻反思，构成了现代科技与大国地缘博弈关系的核心思想透镜。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 16–18)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 37–40)]]
-> - **代表贡献** 领导[[Manhattan Project|曼哈顿工程]]洛斯阿拉莫斯实验室成功研制原子弹，主导 1945 年 7 月“三位一体”（Trinity）核试验；开创军政学产协同攻坚机制；战后出任美国原子能委员会（Atomic Energy Commission, AEC）总顾问委员会主席与[[Institute for Advanced Study|普林斯顿高等研究院]]院长，推动理论物理前沿探索与国际核军控倡议。
+> - **代表贡献** 领导[[Manhattan Project|曼哈顿工程]]洛斯阿拉莫斯实验室成功研制原子弹，主导 1945 年 7 月“三位一体”（Trinity）核试验；开创军政学产协同攻坚机制；战后出任[[Atomic Energy Commission|美国原子能委员会]]（Atomic Energy Commission, [[ASEAN Economic Community|AEC]]）总顾问委员会主席与[[Institute for Advanced Study|普林斯顿高等研究院]]院长，推动理论物理前沿探索与国际核军控倡议。
 
 > [!citation-card] 战时科研动员与地缘格局重塑
 > 奥本海默将原子弹视为一项更为根本的基础科学探索的体现。正是对非定向学术探索的执着，与战时集中资源和行动意志的结合，催生了那个时代最具决定性影响的武器，并深刻塑造了此后至少半个世纪的国际大国关系。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 16)]]
@@ -114,7 +117,7 @@ updated: 2026-11-04
 > - **1927年** 师从马克斯·玻恩（Max Born）获哥廷根大学哲学博士学位，提出分子物理学著名的玻恩-奥本海默近似（Born-Oppenheimer approximation）。
 > - **1929–1942年** 任教于加利福尼亚大学伯克利分校与加州理工学院，创立美国西海岸理论物理学派，在量子电动力学、核物理、中子星与黑洞理论（奥本海默-沃尔科夫极限）领域做出开创性贡献。
 > - **1942–1945年** 接受美国陆军格罗夫斯将军与[[Vannevar Bush|万尼瓦尔·布什]]委任，出任[[Manhattan Project|曼哈顿工程]]洛斯阿拉莫斯实验室（Project Y）科学主任，统领数千名顶尖科学家与工程师攻坚核裂变武器，1945 年 7 月 16 日主导完成人类首次“三位一体”核试验。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 16)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, p. 37)]]
-> - **1947–1952年** 早在 1945 年即起草秘密报告呼吁政府不要在研制氢弹上耗费精力；1949 年苏联试爆原子弹后，杜鲁门政府确立遏制战略并强推氢弹工程，奥本海默作为美国原子能委员会（AEC）总顾问委员会（GAC）主席，基于技术可行性与战略伦理坚决反对紧急研制热核聚变武器，其专业建言遭到行政当局压制，大学实验室被深度卷入以武器研制为核心的政治议程。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 36)]]
+> - **1947–1952年** 早在 1945 年即起草秘密报告呼吁政府不要在研制氢弹上耗费精力；1949 年苏联试爆原子弹后，[[Harry S. Truman|杜鲁门]]政府确立遏制战略并强推氢弹工程，奥本海默作为美国原子能委员会（AEC）总顾问委员会（GAC）主席，基于技术可行性与战略伦理坚决反对紧急研制热核聚变武器，其专业建言遭到行政当局压制，大学实验室被深度卷入以武器研制为核心的政治议程。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 36)]]
 > - **1947–1966年** 担任新泽西州[[Institute for Advanced Study|普林斯顿高等研究院]]院长，吸纳爱因斯坦、哥德尔、杨振宁等顶尖学者，推动理论物理与数学交叉前沿探索。
 > - **1954年** 在冷战麦卡锡主义高潮期间遭遇政治安全审查听证会（奥本海默安全听证会），被撤销绝密安全许可，成为科学精英介入国家安全决策与[[Geopolitics|地缘政治]]争议的悲剧性象征。
 > - **1963年** 获美国联邦政府颁发恩里科·费米奖（Enrico Fermi Award），标志着官方对其科学贡献与国家服务的正式平反。

@@ -10,7 +10,7 @@ aliases:
 summary: "社会科学研究中的结构性倾向：研究下（studying down）指向无权群体——更容易进入、敏感性更低；研究上（studying up）指向有权群体——方法论难度更高但平衡了学术知识生产的权力不对称"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Research Problem]]"
   - "[[Sensitive Research]]"
   - "[[Gatekeepers]]"
-  - "[[Screening Off]]"
   - "[[Discourse]]"
   - "[[Knowledge Power]]"
   - "[[Politics of Knowledge]]"
@@ -34,7 +33,7 @@ related_methods:
   - "[[Semi-structured Interview]]"
 status: draft
 created: 2026-06-22
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!def] Researching Up and Researching Down
@@ -52,7 +51,7 @@ updated: 2026-10-30
 > - **研究上（studying up）——方法论的逆向选择** [[Sensitive Research\|敏感教育研究]]可以作为弱者、被压迫者、没有声音或不被倾听者的发声渠道；但它同样可以——而且应当——聚焦于有权者和高调人物。研究有权者虽然困难，但它是平衡学术[[Knowledge Production\|知识生产]]权力不对称的必要实践。
 
 > [!factors] 研究上困难更大的原因
-> - **准入控制更严** 有权者周围存在多层[[Gatekeepers\|守门人]]——人员准入、场所准入（精英场所）、时间准入（忙碌受访者的时间稀缺）、制度惯例（将政策制定日常从公众和学术目光中[[Screening Off\|屏蔽]]）。
+> - **准入控制更严** 有权者周围存在多层[[Gatekeepers\|守门人]]——人员准入、场所准入（精英场所）、时间准入（忙碌受访者的时间稀缺）、制度惯例（将政策制定日常从公众和学术目光中屏蔽）。
 > - **研究在对方地盘上进行** 研究的场所、议程、[[Discourse|话语]]、信息可披露的边界都由有权者设定（Fitz & Halpin, 1994, p. 42）。
 > - **受访者权力优势** 有权者习惯于自己的意见被重视，善于应对访谈者、回避特定问题以服务于自身目的。Walford (1994c, p. 225) 指出他们在教育世界中的权力在访谈情境中得到回响，访谈对其地位几乎没有威胁。
 > - **保密性无法保证** 有权者是公众人物，可以被识别，这产生了审查和自我审查的问题（Walford, 1994c, p. 229）。

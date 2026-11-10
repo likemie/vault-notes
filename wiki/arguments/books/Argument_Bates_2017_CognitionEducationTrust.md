@@ -7,7 +7,7 @@ title: "Argument_Bates_2017_CognitionEducationTrust"
 argument_key: "Argument_Bates_2017_CognitionEducationTrust"
 argument_display_title: "Darwin's Finch: A Short History of Cognition"
 argument_kind: "book"
-argument_related_count: 8
+argument_related_count: 9
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#ede9fe"
@@ -19,6 +19,7 @@ citation: "Bates, T. (2017). Darwin's finch: A short history of cognition. Cogni
 publication_place: "Auckland"
 tags: [region/new-zealand, source/book, theme/organisational-history, theme/education-marketisation]
 related_concepts:
+  - "[[Quasi-market]]"
   - "[[Self Explanation]]"
   - "[[Chain of Evidence]]"
 related_theories: []
@@ -37,7 +38,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-22
-updated: 2026-10-30
+updated: 2026-11-11
 year: 2017
 doi: ""
 citation_aliases:
@@ -49,7 +50,7 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - 达尔文雀（Darwin finch）隐喻构成全书最核心的解释框架。组织被写成会随环境压力改变形态、重点和规模的适应性生命体，而不是依赖单一稳定业务的公司。(p.8-9, p.76)
-> - [[Tomorrow's Schools Reforms]] 形成的并不是稳定自由市场，而是由国家不断设定合同、采购与治理规则的准市场。组织的每次扩张和收缩，都被放回这一国家塑形的市场环境中理解。(p.11-18, p.76)
+> - [[Tomorrow's Schools Reforms]] 形成的并不是稳定自由市场，而是由国家不断设定合同、采购与治理规则的[[Quasi-market|准市场]]。组织的每次扩张和收缩，都被放回这一国家塑形的市场环境中理解。(p.11-18, p.76)
 > - 商业公司与慈善信托的双重结构，不只是背景设定，而是解释组织合法性、治理调整和长期延续性的另一条主轴。商业利润、公益授权与制度问责被写成彼此嵌套的关系。(p.7, p.69-74)
 
 > [!info] 研究方法
@@ -72,7 +73,7 @@ citation_aliases:
 
 ### 第1章 奠基（Foundations）
 
-第一章不是单纯交代公司起源，而是在为整本书建立解释前提。作者借 [[Tomorrow's Schools Reforms]] 说明，[[Cognition Education]] 从一开始就处在国家制造的准市场中，所以其脆弱性、收缩与多元化冲动，都应理解为制度环境的产物，而不是管理者单纯决策的结果。(p.11-18)具体组织史细节可直接看 [[Cognition Education]]. 本章真正重要的是它把“适应”定义为在有限政策空间里的被迫试错。(p.16-17)
+第一章不是单纯交代公司起源，而是在为整本书建立解释前提。作者借 [[Tomorrow's Schools Reforms]] 说明，[[Cognition Education]] 从一开始就处在国家制造的[[Quasi-market|准市场]]中，所以其脆弱性、收缩与多元化冲动，都应理解为制度环境的产物，而不是管理者单纯决策的结果。(p.11-18)具体组织史细节可直接看 [[Cognition Education]]. 本章真正重要的是它把“适应”定义为在有限政策空间里的被迫试错。(p.16-17)
 
 ### 第2章 更广阔的视野（Broader Horizons）
 

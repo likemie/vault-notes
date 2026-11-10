@@ -9,10 +9,10 @@ aliases:
 summary: "20世纪80年代半导体产业界与政策界的主导信条，主张大宗标准化存储芯片（DRAM）的大规模制造是掌握先进微细加工工艺与设备良率学习不可或缺的技术驱动载体；90年代被微观晶圆厂实证标杆数据证伪。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/innovation-policy
   - theme/semiconductor
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Determinism]]"
   - "[[Vertical Disintegration]]"
+  - "[[Homophily]]"
   - "[[Competitiveness]]"
   - "[[Total Quality Management]]"
   - "[[Paradigm]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-11-03
 > - **规则几何拓扑前提（Regular Geometric Topology）** 假设存储芯片由于存储单元高度重复规整，能够以最高灵敏度暴露光刻机与薄膜沉积设备中的物理缺陷，从而充当设备调试的最佳试验品。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 114–115)]]
 > - **先导工艺探针角色（Process Debugging Vehicle）** 主张新一代线宽（如 0.8 微米、0.5 微米）必须先在 DRAM 产线上试错成熟，然后才能迁移至微处理器等复杂逻辑芯片。
 > - **巨额资本折旧分摊（Capex Absorption）** 认为只有大宗存储芯片的海量晶圆通量，才能支撑新型先进制程晶圆厂数十亿美元的高昂设备折旧。
-> - **跨产品工艺同质性假设（Process Homogeneity Assumption）** 假定逻辑芯片制造与存储芯片制造在物理工艺上高度重叠，存储工艺的改进能够无缝迁移至逻辑芯片。
+> - **跨产品工艺[[Homophily|同质性]]假设（Process Homogeneity Assumption）** 假定逻辑芯片制造与存储芯片制造在物理工艺上高度重叠，存储工艺的改进能够无缝迁移至逻辑芯片。
 
 > [!logic-map]- 要素关系
 > ```mermaid

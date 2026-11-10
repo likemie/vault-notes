@@ -10,7 +10,7 @@ summary: "由 Wineburg 与 McGrew (2019) 提出的网络信息与证据核验方
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 26
+method_related_count: 29
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Reading Strategies]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Algorithmic Bias]]"
   - "[[Unit of Analysis]]"
   - "[[Reliability]]"
   - "[[Epistemology]]"
@@ -51,13 +52,15 @@ related_methods:
   - "[[Confidence Interval]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Google Scholar]]"
+  - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Du_Yuan_2026_AIS]]"
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 （横向阅读法 / 侧向[[Reading Strategies|阅读策略]]）
@@ -69,7 +72,7 @@ updated: 2026-10-30
 
 > [!method-scope] 方法范围
 > - **研究与实践对象** 网页信息、社交媒体帖子、智库报告、未经同行评议的预印本，以及大语言模型生成的内容。
-> - **问题类型** 回答真实性鉴别、权威性来源考证、利益冲突辨析、算法偏倚检测与证据充分性检验等批判性评价问题。
+> - **问题类型** 回答真实性鉴别、权威性来源考证、利益冲突辨析、[[Algorithmic Bias|算法偏倚]]检测与证据充分性检验等批判性评价问题。
 > - **[[Unit of Analysis\|分析单位]]** 网页或大模型输出中的具体知识断言（Claim）、信源机构、作者资质与论据链条。
 > - **输出形式** 证据多源对比矩阵、信源[[Reliability\|信度]]评级表、事实核查备忘录与修改决策辩护词。
 
@@ -90,7 +93,7 @@ updated: 2026-10-30
 > - **研究设计** 质性文本考证、数字民俗学、批判性[[Discourse Analysis\|话语分析]]与网络公民推理。
 > - **数据收集** 跨平台开放网页检索、学术引文数据库穿透、公开企业股权与资助数据库核查、大模型对话日志。
 > - **分析方法** 多源交叉比对（[[Cross-checking]]）、来源偏见定性编码、[[Chain of Evidence\|证据链]]条重构与论证前提质询。
-> - **辅助工具** 浏览器标签页群组、专业学术检索工具（Google Scholar, Web of Science）、反向图像检索工具与事实核查档案库。
+> - **辅助工具** 浏览器标签页群组、专业学术检索工具（[[Google Scholar]], [[Web of Science]]）、反向图像检索工具与事实核查档案库。
 
 ---
 

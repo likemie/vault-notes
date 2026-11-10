@@ -9,7 +9,7 @@ aliases:
 summary: "适应智能与数据密集型科学范式的新型学术交流与成果发布基础设施；批判并替代源自17世纪印刷时代的静态PDF期刊文章，以集成实时数据流、可执行代码容器（Docker/Conda）、环境依赖与自动化测试管道的动态交互式笔记本为知识发布基准，支持自动化AI复现代理进行秒级验证与跨平台审计。"
 type: concept
 domain: "science-policy"
-related_count: 17
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,11 +29,13 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Goodhart's Law]]"
   - "[[Seniority Barrier in Academia]]"
+  - "[[Early-Career Researchers]]"
   - "[[National Innovation System]]"
   - "[[Document]]"
   - "[[Gold Standard Science]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Journal Impact Factor]]"
 related_instruments: []
 related_persons:
   - "[[Michael Kratsios]]"
@@ -46,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -82,7 +84,7 @@ updated: 2026-11-03
 > **出版[[Paradigm|范式]]异化与知识沉没** 批判源自印刷时代的静态出版如何系统性排斥科学探索中的真实过程数据。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
-> **出版载体滞后假说** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios）领衔的白宫科技战略报告论证指出，源自 17 世纪的学术期刊同行评议制度已无法承载全球数百万学者的复杂[[Knowledge Production|知识生产]]。静态 PDF 文章为了在有限版面内展示“完美阳性故事”，迫使科学家隐瞒大量实验排障细节、敏感性检验参数与失败尝试，导致全球数百亿美元研究成果沦为无法被验证的“暗知识”。这种载体缺陷与影响因子考核紧密共谋，全面触发了[[Goodhart's Law|古德哈特定律]]的刷量异化。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 67–68)]]
+> **出版载体滞后假说** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios）领衔的白宫科技战略报告论证指出，源自 17 世纪的学术期刊同行评议制度已无法承载全球数百万学者的复杂[[Knowledge Production|知识生产]]。静态 PDF 文章为了在有限版面内展示“完美阳性故事”，迫使科学家隐瞒大量实验排障细节、敏感性检验参数与失败尝试，导致全球数百亿美元研究成果沦为无法被验证的“暗知识”。这种载体缺陷与[[Journal Impact Factor|影响因子]]考核紧密共谋，全面触发了[[Goodhart's Law|古德哈特定律]]的刷量异化。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 67–68)]]
 
 ---
 
@@ -98,7 +100,7 @@ updated: 2026-11-03
 > **模块化创新与贡献计量** 论证动态笔记本对重组学术劳动力分工与打破[[Seniority Barrier in Academia|资历垄断]]的制度支撑。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
-> **微知识网络假说** 传统单篇长篇文章门槛过高，严重阻碍了数据工程师、软件开发者与实验技师获得应有的学术认可。动态研究笔记本支持以模块化“微知识单元（Micro-Knowledge Modules）”进行发布，任何学者对他人笔记本中的某段算法进行提速优化或清洗出更高质量的数据集，均能被系统自动记录并赋予可计量引用，极大地激发了全社会极客、技师与跨学科青年学者融入[[National Innovation System|国家创新体系]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 68–69)]]
+> **微知识网络假说** 传统单篇长篇文章门槛过高，严重阻碍了数据工程师、软件开发者与实验技师获得应有的学术认可。动态研究笔记本支持以模块化“微知识单元（Micro-Knowledge Modules）”进行发布，任何学者对他人笔记本中的某段算法进行提速优化或清洗出更高质量的数据集，均能被系统自动记录并赋予可计量引用，极大地激发了全社会极客、技师与跨学科[[Early-Career Researchers|青年学者]]融入[[National Innovation System|国家创新体系]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 68–69)]]
 
 ---
 

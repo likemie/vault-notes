@@ -7,7 +7,7 @@ title: "Argument_Kelly_Licona_2018_EpistemicPractices"
 argument_key: "Argument_Kelly_Licona_2018_EpistemicPractices"
 argument_display_title: "Epistemic practices and science education"
 argument_kind: "book-chapter"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -80,6 +80,7 @@ related_methods:
   - "[[Peer Debriefing]]"
   - "[[Ethnography]]"
   - "[[Qualitative Observation]]"
+  - "[[Instrumental Variables]]"
   - "[[Statistical Significance]]"
 related_instruments:
   - "[[Views of Nature of Science Questionnaire]]"
@@ -91,7 +92,7 @@ sources:
   - "[[books/Matthews(Ed.)_2018_Springer/Ch05_Kelly_Licona_2018|Ch05_Kelly_Licona_2018]]"
 status: draft
 created: 2026-09-21
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
@@ -209,7 +210,7 @@ updated: 2026-10-29
 >   - **设计语境与受众** 小学三年级学生分组设计太阳能集热烹饪装置，在小组内协商材料折中方案，在全班汇报集热原理，并以实测升温数据回应指定科学小记者的严苛质询。
 >   - **认识论机制** 沟通是[[Knowledge Building Theory|知识建构]]的核心中介而非事后包装。学生根据受众调整论证，与专业科学家撰写报告和答辩时的修辞工作完全同构（Bazerman, 1988; Traweek, 1988）。
 > - **评估主张：大学海洋地质学论文写作**（Takao & Kelly, 2003）
->   - **学术写作与编码** 大学生利用全球地质数据集撰写板块构造论文。研究运用认识论层级（EL）[[Analytic Framework\|分析框架]]，从原始地震波观测数据（EL I）平稳上升到大洋板块俯冲理论模型（EL IV/V）。
+>   - **学术写作与编码** 大学生利用全球地质数据集撰写板块构造论文。研究运用认识论层级（EL）[[Analytic Framework\|分析框架]]，从原始地震波观测数据（EL I）平稳上升到大洋板块俯冲理论模型（EL [[Instrumental Variables|IV]]/V）。
 >   - **认识论机制** 话语分析揭示了高水平论证跨越不同认识论层级的逻辑融贯性，将助教难以言传的默会证据评估标准显性化，使其成为可教可评的体裁规范。
 > - **合法化主张：小学科学课堂教师元话语**（Reveles et al., 2004）
 >   - **师生互动与引导** 小学三年级教师 Cordova 巧妙运用元话语（meta-discourse），提请全班注意刚才发言调用了实测温度数据，明确指出这正是科学家解决分歧的专业做法。

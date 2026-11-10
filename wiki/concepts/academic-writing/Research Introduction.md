@@ -4,16 +4,18 @@ aliases: ["引言（研究写作）", "研究引言", "scholarly introduction", 
 summary: "期刊论文或学位论文中为读者提供研究背景信息的第一部分文字，具有建立研究框架、创造读者兴趣、确立研究问题和触及受众四大功能"
 type: concept
 domain: "academic-writing"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags: [source/textbook, method/research-process]
 related_concepts:
+  - "[[Doctoral Dissertation]]"
   - "[[Document]]"
   - "[[Narrative Hook]]"
   - "[[Research Question]]"
   - "[[Variable]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Deficiencies Model for an Introduction]]"
   - "[[Purpose Statement]]"
   - "[[Literature Review]]"
@@ -27,11 +29,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!info] 定义
-> 引言（Introduction）是期刊文章、学位论文或学术研究中的第一部分文字，为整个研究项目搭建舞台。Wilkinson（1991）将其定义为"为读者提供研究报告背景信息的部分，其目的是为研究建立框架，使读者能够理解该研究如何与其他研究相关联"（p.96；引自 Creswell & Creswell, 2022, 第5章）。
+> 引言（Introduction）是期刊文章、[[Doctoral Dissertation|学位论文]]或学术研究中的第一部分文字，为整个研究项目搭建舞台。Wilkinson（1991）将其定义为"为读者提供研究报告背景信息的部分，其目的是为研究建立框架，使读者能够理解该研究如何与其他研究相关联"（p.96；引自 Creswell & Creswell, 2022, 第5章）。
 
 引言之所以需要特别关注，是因为它是研究或研究方案中最先被阅读的段落。它必须在短短几页内完成多项任务：创造读者对主题的兴趣、确立引导研究的问题、将研究置于学术[[Document|文献]]的更大语境中，以及触及目标受众（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）。
 
@@ -76,7 +78,7 @@ Creswell & Creswell（2022, 第5章）指出了研究者在引言中陈述[[Rese
 |---|---|---|---|
 | 问题类型 | 理解哪些因素或[[Variable\|变量]]影响某一结果 | 探索一个概念或现象 | 可能结合两者 |
 | 典型结构 | 固定、标准化 | 多样、灵活 | 取决于设计中哪一方权重更大 |
-| 理论使用 | 描述已有理论，检验或扩展 | 三种方式：演绎解释、理论透镜、归纳生成 | 取决于设计类型 |
+| 理论使用 | 描述已有理论，检验或扩展 | 三种方式：演绎解释、[[Theoretical Standpoint\|理论透镜]]、归纳生成 | 取决于设计类型 |
 | 写作视角 | 非个人视角、过去时态、客观 | 可能使用第一人称、主观、个人经验开头 | 灵活选择 |
 | 变革性取向 | 较少 | 可能使用变革性透镜（如性别、种族） | 可能纳入社会正义框架 |
 

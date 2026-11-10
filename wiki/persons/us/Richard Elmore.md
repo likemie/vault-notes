@@ -9,7 +9,7 @@ summary: "哈佛大学教育领导学荣休讲席教授，教育政策执行、�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Professional Accountability]]"
   - "[[Professional Capital]]"
 related_theories:
+  - "[[Backward Mapping]]"
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -44,14 +45,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名教育政策与领导学学者，哈佛大学教育研究生院（Harvard Graduate School of Education, HGSE）格雷戈里·安斯诺夫教育领导学荣休讲席教授。
-> - **核心角色** 公共政策执行研究中由下而上“逆向映射”（Backward Mapping）分析[[Paradigm|范式]]的开创者，学校改进研究中微观“教学核心”理论的奠基人，搭建了宏观政策设计与微观课堂互动之间的严密因果桥梁。
+> - **核心角色** 公共政策执行研究中由下而上“逆向映射”（[[Backward Mapping]]）分析[[Paradigm|范式]]的开创者，学校改进研究中微观“教学核心”理论的奠基人，搭建了宏观政策设计与微观课堂互动之间的严密因果桥梁。
 > - **代表贡献** 提出教学核心理论（[[Instructional Core]]），剖析纽约市第二学区持续提质的跨校专业网络与校长带教模式（Elmore & Burney, 1998），开创借鉴临床医学查房规程的教学巡视法（Instructional Rounds）。
 
 > [!citation-card] 埃尔莫尔论学校改进的唯一直接基石

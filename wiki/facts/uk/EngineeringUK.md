@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Socioeconomic Status]]"
   - "[[Engineering Mindset]]"
   - "[[Apprenticeship]]"
+  - "[[Professional Interest]]"
   - "[[Science Capital]]"
 related_facts:
   - "[[Department for Education]]"
@@ -39,7 +40,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -60,7 +61,7 @@ updated: 2026-10-26
 ---
 
 > [!feature] 标志性研究与实证监测
-> - **联合委托发布《科学教育追踪调查》（SET）** 联合英国皇家学会长期纵向监测英格兰中学生的实验课时、学科志趣与职业认知，实证揭示了 14–16 岁青少年动手实验双周率持续滑坡的系统性危机（2016 年 44% $\rightarrow$ 2023 年 26%）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 33)]]
+> - **联合委托发布《科学教育追踪调查》（SET）** 联合英国皇家学会长期纵向监测英格兰中学生的实验课时、学科[[Professional Interest|志趣]]与职业认知，实证揭示了 14–16 岁青少年动手实验双周率持续滑坡的系统性危机（2016 年 44% $\rightarrow$ 2023 年 26%）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 33)]]
 > - **年度《英国工程现状报告》（EngineeringUK State of Engineering）** 持续测算国家关键基础设施与前沿制造对技能人才的实际需求缺口，为英国技能委员会和各级政府教育投资提供循证依据。
 
 ---

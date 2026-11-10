@@ -8,7 +8,7 @@ summary: "德国古典哲学奠基人，以三大批判重塑认识论、伦理�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 34
+person_related_count: 35
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Mind and Its Wonders]]"
   - "[[Realism in International Relations]]"
   - "[[Rationalism in International Relations]]"
+  - "[[Transnational Education]]"
 related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
   - "[[Cognitive Constructivism]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -219,4 +220,4 @@ updated: 2026-10-22
 > | [[Revolutionism]] | 概念 | 国际关系英国学派界定的[[Cosmopolitanism\|世界主义]]传统原型，以普遍人类共同体与永久和平为终极指针。 |
 > | [[Wight's Three Traditions of International Theory]] | 理论 | 构成三大传统中与[[Realism in International Relations\|现实主义]]、[[Rationalism in International Relations\|理性主义]]并立的康德式世界主义道德传统。 |
 > | [[Bildung]] | 概念 | 将教育界定为人从动物自然走向理性自律的唯一途径，深远滋养德意志教化传统。 |
-> | [[Marc-Antoine Jullien]] | 人物 | 启迪朱利安将启蒙理性与永久和平诉求转化为跨国教育比较观察表的行动蓝图。 |
+> | [[Marc-Antoine Jullien]] | 人物 | 启迪朱利安将启蒙理性与永久和平诉求转化为[[Transnational Education\|跨国教育]]比较观察表的行动蓝图。 |

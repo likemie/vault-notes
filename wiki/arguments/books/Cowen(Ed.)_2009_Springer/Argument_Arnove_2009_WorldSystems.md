@@ -7,7 +7,7 @@ title: "Argument_Arnove_2009_WorldSystems"
 argument_key: "Argument_Arnove_2009_WorldSystems"
 argument_display_title: "World-systems analysis and comparative education in the age of globalization"
 argument_kind: "book-chapter"
-argument_related_count: 58
+argument_related_count: 59
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -33,6 +33,7 @@ tags:
   - level/cross-phase
   - region/global
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Time-Space Compression]]"
   - "[[Unit of Analysis]]"
   - "[[Soft Policy Transfer]]"
@@ -102,12 +103,12 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-29
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
 > [!question]
-> 比较教育学在步入全球化时代后，如何运用[[World-Systems Theory|世界体系分析]]（World-Systems Analysis, WSA）解释跨国教育改革趋势与各国的实际发展差异？面对[[Stanford School|斯坦福学派]]的新制度主义[[World Society Theory|世界文化理论]]与拉美[[Dependency Theory|依附论]]渊源的政治现实主义理论的分歧，如何摆脱将各个民族国家孤立看待的局限？在跨国经贸协定、国际金融机构以及非政府组织（Non-Governmental Organizations, NGOs）深度介入教育治理的背景下，如何建立一套既能把握全球宏观权力格局、又能解释微观学校与社区抗争的完整[[Analytic Framework|分析框架]]？（pp.101–102）
+> 比较教育学在步入全球化时代后，如何运用[[World-Systems Theory|世界体系分析]]（World-Systems Analysis, WSA）解释[[Transnational Education|跨国教育]]改革趋势与各国的实际发展差异？面对[[Stanford School|斯坦福学派]]的新制度主义[[World Society Theory|世界文化理论]]与拉美[[Dependency Theory|依附论]]渊源的政治现实主义理论的分歧，如何摆脱将各个民族国家孤立看待的局限？在跨国经贸协定、国际金融机构以及非政府组织（Non-Governmental Organizations, NGOs）深度介入教育治理的背景下，如何建立一套既能把握全球宏观权力格局、又能解释微观学校与社区抗争的完整[[Analytic Framework|分析框架]]？（pp.101–102）
 
 > [!claim] 核心主张
 > 全球化不仅没有削弱世界体系分析的解释力，反而因技术的[[Time-Space Compression|时空压缩]]进一步强化了世界体系作为宏观[[Unit of Analysis|分析单元]]的必要性；比较教育研究应当将新制度主义对普世教育[[Soft Policy Transfer|理念扩散]]的观察，与政治现实主义对中心-边缘不平等依附的政治经济学批判结合起来，既看清超国家经贸规制（如[[World Trade Organization|世界贸易组织]]（World Trade Organization, WTO）与《[[GATS and Trade in Education Services|服务贸易总协定]]》（General Agreement on Trade in Services, GATS））及非政府组织外包对民族[[State Educational Sovereignty|国家教育主权]]的削弱，又通过微观案例认识到地方行动者的反抗与调适潜能，从而为基层社会运动推动的自下而上全球化提供坚实的理论支撑。（pp.101–102, 106–107, 113–114）

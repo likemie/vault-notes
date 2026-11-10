@@ -9,7 +9,7 @@ aliases:
 summary: "法国思想家欧内斯特·勒南提出的民族存在论核心概念。主张民族是基于历史共同牺牲的深厚记忆以及全体成员当下每日自愿联合的动态精神契约，有别于由种族、语言或地理等客观血缘界定的实体。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
   - theme/citizenship
   - theme/social-cohesion
 related_concepts:
+  - "[[Nationalism]]"
   - "[[Paradigm]]"
   - "[[Cosmopolitanism]]"
   - "[[Global Citizenship]]"
@@ -41,13 +42,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Everyday Plebiscite
-> **每日公民投票（Everyday Plebiscite，法文：*Un plébiscite de tous les jours*）**由法国思想家[[Ernest Renan|欧内斯特·勒南]]（[[Ernest Renan]]）于 1882 年在巴黎索邦大学著名演讲《什么是民族？》（*Qu'est-ce qu'une nation?*）中提出，是现代公民民族主义（Civic Nationalism）的基石概念。勒南主张，民族的实质是一种宏大的道德团结（a vast solidarity），由过去共同付出的牺牲记忆与当下明确表达的共同生活意愿所构成；民族的存在是依靠全体国民在精神上每天自愿进行的默示投票与持续确认，有别于取决于血缘、语言、宗教或地理疆界的客观强加。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
+> **每日公民投票（Everyday Plebiscite，法文：*Un plébiscite de tous les jours*）**由法国思想家[[Ernest Renan|欧内斯特·勒南]]（[[Ernest Renan]]）于 1882 年在巴黎索邦大学著名演讲《什么是民族？》（*Qu'est-ce qu'une nation?*）中提出，是现代公民[[Nationalism|民族主义]]（Civic Nationalism）的基石概念。勒南主张，民族的实质是一种宏大的道德团结（a vast solidarity），由过去共同付出的牺牲记忆与当下明确表达的共同生活意愿所构成；民族的存在是依靠全体国民在精神上每天自愿进行的默示投票与持续确认，有别于取决于血缘、语言、宗教或地理疆界的客观强加。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将国家与民族定义为一种动态维系的精神原则与主观契约，强调共同记忆、共同牺牲与持续自愿联合。

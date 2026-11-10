@@ -8,10 +8,10 @@ summary: "当代著名比较教育学家与参与式民主学者，长期任教�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1958"
 died: ""
 lifespan: "1958–至今"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Selective Affinity]]"
   - "[[Policy Conditionalities]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Global Citizenship]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Democratic Education]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -70,7 +71,7 @@ updated: 2026-10-30
 > [!timeline] 生平与职涯
 > - **1958** 出生于阿根廷布宜诺斯艾利斯，早年在布宜诺斯艾利斯大学攻读社会科学，深受拉美批判政治社会学与参与式民主运动影响。
 > - **1980s** 赴加拿大阿尔伯塔大学（University of Alberta）深造，师从比较教育学与发展研究学者，专攻全球化下的拉美高等教育转型。
-> - **1994** 完成博士论文《全球经济重组与大学变革：布宜诺斯艾利斯大学案例》（*Global economic restructuring and university change*），系统揭露[[World Bank|世界银行]]如何通过跨国智识网络与信贷附加条件改造发展中国家公立大学。
+> - **1994** 完成[[Doctoral Dissertation|博士论文]]《全球经济重组与大学变革：布宜诺斯艾利斯大学案例》（*Global economic restructuring and university change*），系统揭露[[World Bank|世界银行]]如何通过跨国智识网络与信贷附加条件改造发展中国家公立大学。
 > - **1998–2011** 长期执教于多伦多大学安大略教育研究院（OISE/UT），担任成人教育与社区发展研究中心核心教授，主导公民教育与参与式民主跨国比较项目。
 > - **2011–至今** 加盟亚利桑那州立大学，担任公共服务与公共政策专业讲席教授，持续关注[[Global Citizenship|全球公民身份]]、参与式预算与去殖民化教育实践。
 

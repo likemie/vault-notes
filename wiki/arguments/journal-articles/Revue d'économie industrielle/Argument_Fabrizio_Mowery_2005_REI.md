@@ -49,6 +49,7 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Historical-Comparative Method]]"
+  - "[[Instrumental Variables]]"
   - "[[Network Analysis]]"
 related_instruments: []
 related_persons:
@@ -72,14 +73,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-05
-updated: 2026-10-30
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Fabrizio_Mowery_2005_REI"
 argument_key: "Argument_Fabrizio_Mowery_2005_REI"
 argument_display_title: "Defense-related R&D and the growth of the postwar information technology industrial complex in the United States"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -240,7 +241,7 @@ issuing_organization: ""
 > | **MIT Whirlwind** | $4,000–$5,000 | 海军 / 空军 | 1951 | 麻省理工学院旋风计算机，磁芯存储与实时飞行模拟，耗资巨大 |
 > | **[[Institute for Advanced Study\|Princeton IAS]] Computer** | $650 | 陆军 / 海军 / RCA / 原子能委员会 | 1951 | 普林斯顿[[Von Neumann Architecture\|冯·诺依曼架构]]原型，跨部门联合资助 |
 > | **Univ. of Cal. CALDIC** | $95 | 海军（Navy） | 1951 | 加州大学[[Kenneth Burke\|伯克]]利分校低成本教学科研计算平台 |
-> | **Harvard Mark IV** | n.a. | 空军（Air Force） | 1951 | 哈佛大学艾肯团队最后一代军资计算机 |
+> | **Harvard Mark [[Instrumental Variables\|IV]]** | n.a. | 空军（Air Force） | 1951 | 哈佛大学艾肯团队最后一代军资计算机 |
 > | **EDVAC** | $467 | 陆军（Army） | 1952 | 离散[[Variable\|变量]]自动电子计算机（Electronic Discrete Variable Automatic Computer, EDVAC），冯·诺依曼存储程序设计 |
 > | **Raytheon Hurricane (RAYDAC)** | $460 | 海军（Navy） | 1952 | 雷神公司为海军防空导弹飞控研制的计算机 |
 > | **ORDVAC** | $600 | 陆军（Army） | 1952 | 军械离散变量自动计算机（Ordnance Discrete Variable Automatic Computer, ORDVAC），阿伯丁试验场第二代弹道计算机 |

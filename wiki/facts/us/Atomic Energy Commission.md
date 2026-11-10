@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -24,38 +24,43 @@ tags:
   - military-research
   - nuclear-policy
 related_concepts:
-  - "[[Mission-Oriented Research]]"
-  - "[[Big Science]]"
-  - "[[Social Contract of Science]]"
+  - "[[Research Universities]]"
   - "[[Academic Freedom]]"
+  - "[[Categorical Funding]]"
+  - "[[Megascience Installations]]"
+  - "[[Big Science]]"
+  - "[[Knowledge Production]]"
+  - "[[Paradigm]]"
+  - "[[Mission-Oriented Research]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Harry S. Truman]]"
   - "[[J. Robert Oppenheimer]]"
-  - "[[Dwight D. Eisenhower]]"
+  - "[[James B. Conant]]"
 related_facts:
+  - "[[ASEAN Economic Community]]"
+  - "[[Manhattan Project]]"
   - "[[Department of Defense]]"
   - "[[National Science Foundation]]"
+  - "[[National Research Council]]"
   - "[[Office of Naval Research]]"
-  - "[[President's Science Advisory Committee]]"
-  - "[[Office of Scientific Research and Development]]"
 related_arguments:
   - "[[Argument_Yang_2017_MUE]]"
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定位
-> 美国原子能委员会（United States Atomic Energy Commission, AEC）是依据1946年《麦克马洪法案》设立的联邦战略科技与核能专职主管机构；冷战初期作为主导学术研究军事化与任务合同制的代表性国防任务机构，同国防部合计掌控了全美研究型大学76%的科研经费支出，决定了二战后初期联邦资助高度有偿性与计划性的基本走向。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35, 37)]]
+> 美国原子能委员会（United States Atomic Energy Commission, [[ASEAN Economic Community|AEC]]）是依据1946年《麦克马洪法案》设立的联邦战略科技与核能专职主管机构；冷战初期作为主导学术研究军事化与任务合同制的代表性国防任务机构，同国防部合计掌控了全美[[Research Universities|研究型大学]]76%的科研经费支出，决定了二战后初期联邦资助高度有偿性与计划性的基本走向。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35, 37)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1946年8月由哈里·S·杜鲁门总统签署《1946年原子能法案》（麦克马洪法案）设立，旨在战时曼哈顿工程结束后将核材料与武器研发权自军方移交至文职委员会管理。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 35)]]
+> - **成立时间 / 创设背景** 1946年8月由[[Harry S. Truman|哈里·S·杜鲁门]]总统签署《1946年原子能法案》（麦克马洪法案）设立，旨在战时[[Manhattan Project|曼哈顿工程]]结束后将核材料与武器研发权自军方移交至文职委员会管理。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 35)]]
 > - **总部地点 / 业务辐射** 总部设于华盛顿特区及马里兰州日耳曼敦，业务辐射全美各大国家实验室、主要研究型大学核物理与化学实验室及核能工业承包网络。
 > - **法人属性与经费基础** 属于联邦独立行政管制与战略研发机构，享有巨额国库全额专项拨款支持，统筹分配全国裂变材料与核科技研发合同。
 > - **核心宗旨与法定职责** 确保美国在核武器与热核武器研发领域的绝对军事优势，开发核动力与核能民用和平利用潜力，对全美核技术机密与放射性材料实施垄断管制。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 35)]]
@@ -65,20 +70,20 @@ updated: 2026-11-04
 > [!org-evolution] 组织发展历程
 > - **1946–1953** **战后建制与国防科研垄断期**
 >
->   承接曼哈顿工程庞大资产并实体化为国家实验室网络；在杜鲁门主义与朝鲜战争推动下全面转向军工核武冲刺，排斥奥本海默等学者的降温建议推进氢弹试爆，与五角大楼并列垄断大学学术科研投入。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–37)]]
+>   承接曼哈顿工程庞大资产并实体化为国家实验室网络；在杜鲁门主义与朝鲜战争推动下全面转向军工核武冲刺，排斥[[J. Robert Oppenheimer|奥本海默]]等学者的降温建议推进氢弹试爆，与[[Department of Defense|五角大楼]]并列垄断大学学术科研投入。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–37)]]
 >
 >   - **1946** 国会通过麦克马洪法案，AEC 正式确立文职治理框架。
 >   - **1949** 苏联原子弹试爆成功，杜鲁门指令 AEC 开展氢弹超级攻关。
 >
 > - **1954–1957** **核武审判与民用原子能拓展期**
 >
->   推进“原子能和平利用”计划并资助大学核反应堆建设，但在冷战安全审查风潮中剥夺奥本海默安全许可，加剧了科学界与政界在学术自由和政策咨询上的尖锐对立。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–36)]]
+>   推进“原子能和平利用”计划并资助大学核反应堆建设，但在冷战安全审查风潮中剥夺奥本海默安全许可，加剧了科学界与政界在[[Academic Freedom|学术自由]]和政策咨询上的尖锐对立。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–36)]]
 >
 >   - **1954** 国会修订原子能法案允许私营企业参与核反应堆开发；奥本海默安全听证会举行。
 >
 > - **1958–1974** **卫星危机冲击与机构分拆终结**
 >
->   卫星危机促使联邦科研向 NSF 等民事自由探索机构倾斜，AEC 在大学资助中的支配地位逐步下降；1974年国会通过《能源重组法案》正式废止 AEC，将其职能分拆为能源研究与开发署（后并入能源部）和核管理委员会（NRC）。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 37, 40)]]
+>   卫星危机促使联邦科研向 [[National Science Foundation|NSF]] 等民事自由探索机构倾斜，AEC 在大学资助中的支配地位逐步下降；1974年国会通过《能源重组法案》正式废止 AEC，将其职能分拆为能源研究与开发署（后并入能源部）和核管理委员会（[[National Research Council|NRC]]）。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 37, 40)]]
 >
 >   - **1974** AEC 正式解散重组。
 
@@ -92,14 +97,14 @@ updated: 2026-11-04
 
 > [!pathways] 业务运行机制
 > - **议程设置** 以白宫国家安全目标与军备竞赛为核心导向，将核火箭、氢弹爆炸物理与辐射防护列为最高优先级任务。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 35)]]
-> - **研究与开发** 通过定向研究合同（Research Contracts）向高校定向采购具体科研成果，推行严格的任务指标管理与保密分级制度。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35, 40)]]
+> - **研究与开发** 通过[[Categorical Funding|定向研究]]合同（Research Contracts）向高校定向采购具体科研成果，推行严格的任务指标管理与保密分级制度。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35, 40)]]
 > - **质量控制与透明度** 实行严密的国家机密审查与人员忠诚审查程序，排斥对国家战略政策持有异议的学者接触核心科研资产。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–36)]]
 
 ---
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **国家战略核武体系** 主导完成了氢弹全流程研制、紧凑型核弹头与洲际导弹核载荷的工程化突破。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 35)]]
-> - **国家实验室大科学装置** 资助建造了高能回旋加速器、核裂变测试堆与早期重水反应堆，构筑战后美国大科学实验基座。
+> - **国家实验室[[Megascience Installations|大科学装置]]** 资助建造了高能回旋加速器、核裂变测试堆与早期重水反应堆，构筑战后美国[[Big Science|大科学]]实验基座。
 > - **大学定向科研合同流** 向全美综合性大学投放数以亿计的定向研发专款，资助核工程系科建设与粒子物理实验室。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35, 37)]]
 > - **民用核能技术扩散规程** 建立放射性同位素医学分发机制与第一代商用轻水反应堆技术验证标准。
 
@@ -112,13 +117,13 @@ updated: 2026-11-04
 
 > [!indicators] 影响力维度与指标
 > - **资源与网络规模** 掌控全美超过二十处国家级实验室与生产基地，年度研发拨款长期位居联邦任务机构前两位。
-> - **学术与知识生产** 衍生出粒子物理学、核工程学、放射生物学等多个全新学科门类，资助成果中产生多项诺贝尔物理学与化学奖。
+> - **学术与[[Knowledge Production|知识生产]]** 衍生出粒子物理学、核工程学、放射生物学等多个全新学科门类，资助成果中产生多项诺贝尔物理学与化学奖。
 > - **政策与制度渗透** 在冷战初期深度塑造了大学学术研究服从国家军事安全议程的体制格局。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–37)]]
 
 > [!finding-cards] 关键成效与辐射影响
-> - **奠定战后大科学与国家实验室格局** 通过 GOCO 运营模式，开辟了政府提供巨额硬件资金、大学提供智力托管的新型科研协同范式。
+> - **奠定战后大科学与国家实验室格局** 通过 GOCO 运营模式，开辟了政府提供巨额硬件资金、大学提供智力托管的新型科研协同[[Paradigm|范式]]。
 > - **塑造冷战初期大学科研的计划性依赖** 同五角大楼主导了大学研发经费的绝对份额，强化了以具体应用产出为考核指标的计划性资助机制。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35, 37)]]
-> - **激发学术界争取自由研究的制度化博弈** 其单一军事任务导向直接引发哈佛大学柯南特与加州理工学院杜布里奇等学术领袖的抵制，促使科学家通过白宫顾问委员会游说转向同行评议与基础探索。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 36, 40)]]
+> - **激发学术界争取自由研究的制度化博弈** 其单一军事任务导向直接引发哈佛大学[[James B. Conant|柯南特]]与加州理工学院杜布里奇等学术领袖的抵制，促使科学家通过白宫顾问委员会游说转向同行评议与基础探索。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 36, 40)]]
 
 > [!stat-cards]- 核心规模数据
 > - **76%** 二战后至卫星危机前五角大楼与原子能委员会大学研究支出占全美学术科研投入总额比重。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 37)]]

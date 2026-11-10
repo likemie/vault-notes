@@ -10,7 +10,7 @@ summary: "法裔美籍实证经济学家与科学学学者，麻省理工学院�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 32
+person_related_count: 36
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -29,10 +29,12 @@ related_concepts:
   - "[[Star Scientists]]"
   - "[[Invisible College]]"
   - "[[Paradigm]]"
+  - "[[Causality]]"
+  - "[[Translational Research]]"
+  - "[[Patent Citation]]"
   - "[[Goliath's Shadow]]"
   - "[[Age and High-Growth Entrepreneurship]]"
   - "[[Creativity]]"
-  - "[[Causality]]"
   - "[[Variable]]"
   - "[[Peer Effects in Science]]"
   - "[[Reflection Problem]]"
@@ -42,6 +44,7 @@ related_theories:
 related_methods:
   - "[[Bibliometric Analysis]]"
   - "[[Descriptive Analysis]]"
+  - "[[Natural Experiment]]"
   - "[[Difference-in-Differences]]"
   - "[[Network Analysis]]"
   - "[[Quasi-Experimental Designs]]"
@@ -52,6 +55,7 @@ related_persons:
   - "[[Robert K. Merton]]"
   - "[[Benjamin F. Jones]]"
 related_facts:
+  - "[[National Bureau of Economic Research]]"
   - "[[Howard Hughes Medical Institute]]"
   - "[[National Institutes of Health]]"
 related_arguments:
@@ -64,15 +68,15 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-29"
-updated: 2026-11-05
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 法裔美籍实证经济学家与[[Bibliometric Analysis|科学计量学]]者，麻省理工学院（MIT）斯隆管理学院国际管理与战略学讲席教授，美国国家经济研究局（NBER）生产力、创新与创业项目资深研究人员。
-> - **核心角色** 当代科学经济学与实证科学计量学的方法论革新者；主张超越单纯[[Document|文献]]计量[[Descriptive Analysis|描述统计]]，运用严谨微观计量经济学工具与准自然实验识别学术制度、声望符号与科研团队网络的因果效应。
-> - **代表贡献** 通过霍华德·休斯医学研究所（HHMI）入选者准自然实验检验[[Matthew Effect in Academia|学术马太效应]]与[[The 41st Chair|第四十一把交椅]]的因果纯度；追踪[[Star Scientists|明星科学家]]猝逝对团队知识溢出的因果冲击，证实[[Invisible College|无形学院]]的客观存在。
+> - **身份位置** 法裔美籍实证经济学家与[[Bibliometric Analysis|科学计量学]]者，麻省理工学院（MIT）斯隆管理学院国际管理与战略学讲席教授，[[National Bureau of Economic Research|美国国家经济研究局]]（NBER）生产力、创新与创业项目资深研究人员。
+> - **核心角色** 当代科学经济学与实证科学计量学的方法论革新者；主张超越单纯[[Document|文献]]计量[[Descriptive Analysis|描述统计]]，运用严谨微观计量经济学工具与[[Natural Experiment|准自然实验]]识别学术制度、声望符号与科研团队网络的因果效应。
+> - **代表贡献** 通过[[Howard Hughes Medical Institute|霍华德·休斯医学研究所]]（HHMI）入选者准自然实验检验[[Matthew Effect in Academia|学术马太效应]]与[[The 41st Chair|第四十一把交椅]]的因果纯度；追踪[[Star Scientists|明星科学家]]猝逝对团队知识溢出的因果冲击，证实[[Invisible College|无形学院]]的客观存在。
 
 > [!citation-card] 阿祖莱论声望符号的独立因果力
 > 针对霍华德·休斯医学研究所研究员评选的准自然实验证明，声望效应展现出独立于学者内在隐性天资的实质因果力；即便完全剔除资助带来的后续新成果，仅考察入选前已发表的历史代表作，荣誉宣布本身亦促使既往成果在引文网络中获得显著超额增长。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 36–37)]]
@@ -89,9 +93,9 @@ updated: 2026-11-05
 > - **2006** 加入麻省理工学院斯隆管理学院，历任副教授、讲席正教授。
 > - **2010** 在《经济学季刊》（QJE）发表《超级巨星陨落》（*Superstar Extinction*），开创利用明星学者意外逝世外生冲击测度知识扩散与合作网络脆弱性的因果分析[[Paradigm|范式]]，实证证实学术合作同行质量调整产出率下降 5% 至 8%，为[[Invisible College|无形学院]]的客观存在确立因果证据。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 99–100)]]
 > - **2011** 在《兰德经济学杂志》（*RAND Journal of Economics*）发表针对 HHMI 资助模式的研究，证实对早期失败的宽容与长周期支持显著提升高风险探索性成果的产出概率。[[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011)]]
-> - **2012** 在《科学》（*Science*）发文呼吁运用实验与因果推断方法重新审视二战后固化的科研体制与同行评议机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 251)]]
+> - **2012** 在《科学》（*Science*）发文呼吁运用实验与[[Causality|因果推断]]方法重新审视二战后固化的科研体制与同行评议机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 251)]]
 > - **2014** 在《管理科学》（*Management Science*）发表《马太效应：事实还是神话？》（*Matthew: Effect or Fable?*），依托 HHMI 评选准自然实验证实外生声望符号具备独立于个体天资的引文因果力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 33–37)]]
-> - **2017** 与丹妮尔·李（Danielle Li）等在《科学》发表 NIH 资助专利转化研究，证实 10% 课题直接产生专利，30% 学术成果被商业专利引用。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 247)]]
+> - **2017** 与丹妮尔·李（Danielle Li）等在《科学》发表 [[National Institutes of Health|NIH]] 资助专利[[Translational Research|转化研究]]，证实 10% 课题直接产生专利，30% 学术成果被商业[[Patent Citation|专利引用]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 247)]]
 > - **2019** 在《美国经济评论》（AER）发表《科学真理真的随着反对者死去而胜利吗？》（*Does Science Advance One Funeral at a Time?*），通过 452 位生命科学明星学者猝逝准自然实验实证检验[[Planck's Principle|普朗克原理]]，揭示“[[Goliath's Shadow|歌利亚阴影]]”阻碍新人进场的因果机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 49–50)]]
 > - **2020** 在《美国经济评论：洞见》（*AER: Insights*）发表《年龄与高成长创业》（[[Age and High-Growth Entrepreneurship]]），运用美国 270 万初创企业全量税收与人口档案证实，全美增长最快的前 0.1% 高科技企业创始人平均年龄为 45 岁，打破硅谷年轻极客神话。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 58–59)]]
 

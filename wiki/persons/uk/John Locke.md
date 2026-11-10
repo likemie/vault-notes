@@ -7,7 +7,7 @@ summary: "英国哲学家与医生，经验论奠基人与自由主义政治哲�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_persons:
   - "[[Socrates]]"
   - "[[George Berkeley]]"
   - "[[Jean-Jacques Rousseau]]"
+  - "[[Francis Bacon]]"
   - "[[Immanuel Kant]]"
 related_facts: []
 related_arguments:
@@ -46,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!person-profile] 人物档案
@@ -96,7 +97,7 @@ updated: 2026-10-22
 
 > [!success] 影响
 > - **对[[Empiricism\|经验论]]传统** 洛克是经验论的奠基人——他"开启了对心智本质和运作方式的替代性探究，要求分析我们的经验及其对心智和认知的影响"([[Argument_Li_2012_Cambridge\|Li, 2012, pp.29-30]])。[[George Berkeley\|贝克莱]]和 Hume紧随其后进一步论证心智的经验性和主观性([[Argument_Li_2012_Cambridge\|Li, 2012, p.30]])
-> - **对西方学习传统** Li 指出洛克"并未否弃心智本身，而是指出了我们心智运作的不同方式"——经验论同样是"心智的奇迹"的探索途径。在 [[Certainty of Knowledge]] 的演变中，洛克是培根之后以"更可行的方法"为求知道路注入活力的思想家([[Argument_Li_2012_Cambridge\|Li, 2012, pp.25-26]])
+> - **对西方学习传统** Li 指出洛克"并未否弃心智本身，而是指出了我们心智运作的不同方式"——经验论同样是"心智的奇迹"的探索途径。在 [[Certainty of Knowledge]] 的演变中，洛克是[[Francis Bacon|培根]]之后以"更可行的方法"为求知道路注入活力的思想家([[Argument_Li_2012_Cambridge\|Li, 2012, pp.25-26]])
 > - **对政治学** 洛克的自然权利论和社会契约论深刻塑造了现代宪政民主——美国《独立宣言》中"生命、自由和追求幸福"是对洛克"生命、自由和财产"的直接改写
 > - **对教育学** 《教育漫话》被 Li 与[[Immanuel Kant\|康德]]的教育论著并列引用([[Argument_Li_2012_Cambridge\|Li, 2012, p.35]])。它的务实和渐进风格——通过经验、习惯和榜样而非权威来教育——至今仍是英美教育思想的基础性资源
 > - **对[[Enlightenment\|启蒙运动]]** 洛克是启蒙运动的主要灵感来源。伏尔泰曾盛赞洛克说："那么多推理者写出了灵魂的浪漫故事，却来了一位智者，[[Humility\|谦逊]]地写出了灵魂的历史"（待核原文出处）

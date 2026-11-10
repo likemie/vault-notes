@@ -6,7 +6,7 @@ aliases:
 summary: "官僚制作为信息处理金字塔，主权者面临的核心挑战是知识问题与委托困境，Cowen 将其应用于解释 EBE 的制度韧性"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 21
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Methodological Individualism]]"
   - "[[Document]]"
   - "[[Policy Borrowing]]"
+  - "[[Cumulative Innovation]]"
 related_theories:
   - "[[Bounded Rationality]]"
   - "[[Historical Institutionalism]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!info] 核心主张
@@ -147,7 +148,7 @@ updated: 2026-10-30
 > - **Cowen 的自我限定** Cowen 明确表示仅提供"尝试性假说"而非确定解释。他指向两个可能的外部因素——英国 1988 年以来的中央化教育改革（创造了需要"远程控制"学校的主权者）和行为经济学的兴起（提供了 RCT 方法论的技术合法性）。
 > - **可能的扩展方向** 将 Tullock 模型与[[Policy Borrowing\|政策借用]]框架（Steiner-Khamsi, 2012）或[[Historical Institutionalism|历史制度主义]]结合——前者解释时机（为什么是现在），后者解释功能（解决了什么问题）。
 >
-> **目前状态** 此局限尚未被后续研究系统填补。Cowen 的框架更多被用作分析 EBE 制度功能的工具，而非预测政策变迁时机的理论。
+> **目前状态** 此局限尚未被[[Cumulative Innovation|后续研究]]系统填补。Cowen 的框架更多被用作分析 EBE 制度功能的工具，而非预测政策变迁时机的理论。
 
 > [!success] 应用领域
 > - [[Evidence-Based Education]] — Cowen 用 Tullock 框架解释 EBE 的官僚功能

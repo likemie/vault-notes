@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 40
+fact_related_count: 41
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Co-Design]]"
   - "[[Big Science]]"
   - "[[Process Design Kit]]"
+  - "[[Early-Career Researchers]]"
   - "[[Research Translation]]"
   - "[[Artefact]]"
   - "[[Von Neumann Architecture]]"
@@ -43,8 +44,8 @@ related_concepts:
   - "[[Hardware Security]]"
   - "[[Academic Freedom]]"
   - "[[Creativity]]"
+  - "[[Study Abroad]]"
   - "[[Open-Mindedness]]"
-  - "[[Innovation Ecosystem]]"
   - "[[Academic Engagement Team]]"
 related_theories:
   - "[[Path Dependence]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -105,7 +106,7 @@ updated: 2026-11-02
 > - **牵头主导高校（Lead Universities）** 宾夕法尼亚州立大学、乔治亚理工学院、哥伦比亚大学、加州大学圣地亚哥分校、UIUC、康奈尔大学、弗吉尼亚大学等 7 所牵头高校，设立中心主任与专属运营架构，负责[[Big Science|大科学]]实验设施协调与子课题任务分解。
 > - **协同[[Research Universities|研究型大学]]网络（Partner Universities）** 斯坦福大学、麻省理工学院（MIT）、加州大学伯克利分校等全美数十所顶尖[[Research Universities|研究型大学]]实验室深度参与，组建跨学科攻关团队。
 > - **产业导师与技术联络员（Industrial Liaisons & Mentors）** SRC 成员企业资深研发工程师被直接派驻至各中心课题组，每月跟踪进展、提供真实工业级设计套件（[[Process Design Kit|PDK]]）与测试数据支持。
-> - **受资助青年学者与研究生（SRC-JUMP Scholars）** 覆盖数百名博士后、博士与硕士研究生，通过前沿攻关与企业流片实操成长为高端微电子工程领军人才。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 23–24)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
+> - **受资助[[Early-Career Researchers|青年学者]]与研究生（SRC-JUMP Scholars）** 覆盖数百名博士后、博士与硕士研究生，通过前沿攻关与企业流片实操成长为高端微电子工程领军人才。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 23–24)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
 
 > [!pathways] 研发协同与[[Research Translation|技术转化]]运行机制
 > - **网络化组织替代单校单兵作战** 打破传统以单个教员课题组或单一高校为边界的封闭科研[[Paradigm|范式]]，将全美顶尖微电子、材料、算法与系统学者编织为 7 大跨校协同网络，实现重大实验仪器与知识资产的全网共享。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]
@@ -159,7 +160,7 @@ updated: 2026-11-02
 > > [!axis] 国防安全战略管控 vs 大学学术开放自由与国际合作
 > > JUMP 2.0 深度嵌入 [[DARPA]] 的国家防务与技术主权目标，对关键技术路线、流片数据与参与人员提出严格的安全审查与合规要求。
 > >
-> > - **学术开放摩擦** 严格的安全审查与出口管制收窄了国际留学生与外籍学者参与前沿微电子研发的渠道，与[[Research Universities|研究型大学]]长期依赖的全球化开放学术生态产生制度张力。
+> > - **学术开放摩擦** 严格的安全审查与出口管制收窄了国际[[Study Abroad|留学]]生与外籍学者参与前沿微电子研发的渠道，与[[Research Universities|研究型大学]]长期依赖的全球化开放学术生态产生制度张力。
 > > - **分层合规调适** 实践中推行前竞争底层科学探索（全面开放发表）与敏感军用原型流片验证（严格合规隔离）的分层治理架构，在维护国家科技安全的前提下最大限度保护高校基础科研的[[Open-Mindedness|开放性]]。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 23–24)]]
 >
 > > [!axis] 从实验室走向中试验证的“试验线依赖”短板

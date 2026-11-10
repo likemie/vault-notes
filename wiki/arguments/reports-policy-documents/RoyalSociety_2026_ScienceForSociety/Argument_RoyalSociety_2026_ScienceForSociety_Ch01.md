@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_display_title: "Chapter one: Education"
 argument_kind: "book-chapter"
-argument_related_count: 62
+argument_related_count: 64
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[AI Literacy]]"
   - "[[Sustainability Education]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Algorithmic Bias]]"
   - "[[Creativity]]"
   - "[[Falsification]]"
   - "[[Cognitive Offloading]]"
@@ -64,6 +65,7 @@ related_concepts:
   - "[[Science Capital]]"
   - "[[Socioeconomic Status]]"
   - "[[Authentic Science Practices]]"
+  - "[[Free School Meals]]"
   - "[[Seed Funding]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Teacher Professional Agency]]"
@@ -102,7 +104,7 @@ sources:
 part_of: "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 status: draft
 created: 2026-08-22
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 ---
 
@@ -182,7 +184,7 @@ updated: 2026-10-26
 > - **数学与数据素养（Mathematical and Data Literacy）**
 >   依托概率论与统计学基础，培养对现实海量数据来源、[[Reliability\|可靠性]]、完整性、采样偏差及可视化图表表达的批判性审视与量化推理能力。（p. 31）
 > - **人工智能与批判性数字素养（AI and Critical Digital Literacy）**
->   深刻理解大语言模型（Large Language Models, LLMs）等人工智能（[[Generative Artificial Intelligence\|Artificial Intelligence]], AI）算法模型的运作机制与算法偏见、幻觉黑箱等固有局限，坚守放大人类认知与[[Creativity\|创造力]]的应用底线。（p. 32）
+>   深刻理解大语言模型（Large Language Models, LLMs）等人工智能（[[Generative Artificial Intelligence\|Artificial Intelligence]], AI）算法模型的运作机制与[[Algorithmic Bias|算法偏见]]、幻觉黑箱等固有局限，坚守放大人类认知与[[Creativity\|创造力]]的应用底线。（p. 32）
 > - **可持续发展素养与绿色技能（Sustainability Literacy and Green Skills）**
 >   系统把握气候变化与生态承载力的多学科复杂性，掌握服务国家低碳转型的绿色技能，将生态文明内化为跨学科行动力。
 > - **科学本质素养（Nature of Science Literacy）**
@@ -225,7 +227,7 @@ updated: 2026-10-26
 > - **科学资本（Science Capital）与社会阶层固化** 伦敦大学学院 ASPIRES 2 纵向追踪表明，高[[Socioeconomic Status|社会经济地位]]家庭子女拥有更丰富的课外科技网络与文化资源，科学抱负显著高于弱势群体；而在物理、计算机等学科上，女性选修比例长期偏低。（p. 32）
 
 > [!case] 案例研究：真实科研课题探究与课外 STEM 拓展机制（[[Authentic Science Practices|authentic inquiry]] & STEM Enrichment）
-> - **[[CREST Awards\|CREST]] 科学与技术成就奖的分级探究与阶层赋权** 详见 [[CREST Awards]]：由英国科学协会（BSA）设立的国家级分级探究奖励机制（Star/Bronze/Silver/Gold），支持中学生自主选定具有现实应用价值的长周期工程与科学课题；独立实证评估（Pro Bono Economics, 2016）证实，参与 CREST Silver/Gold 探究的学生后续选修 STEM A-levels 的比例显著提高，且对弱势背景（FSM）学生的阶层流动与科学抱负提升幅度尤为突出（达 38%）。
+> - **[[CREST Awards\|CREST]] 科学与技术成就奖的分级探究与阶层赋权** 详见 [[CREST Awards]]：由英国科学协会（BSA）设立的国家级分级探究奖励机制（Star/Bronze/Silver/Gold），支持中学生自主选定具有现实应用价值的长周期工程与科学课题；独立实证评估（Pro Bono Economics, 2016）证实，参与 CREST Silver/Gold 探究的学生后续选修 STEM A-levels 的比例显著提高，且对弱势背景（[[Free School Meals|FSM]]）学生的阶层流动与科学抱负提升幅度尤为突出（达 38%）。
 > - **[[Institute for Research in Schools\|学校科研研究所]]（IRIS）的前沿科研数据直通模式** 详见 [[Institute for Research in Schools]]：搭建中学与顶尖高校、[[CERN|欧洲核子研究组织]]（CERN）及产业实验室的深度合作网络，让中学生直接分析真实粒子对撞数据、开展基因测序与平流层空间探测，彻底将学生从教科书验证者转变为真正未知问题的探究者。
 > - **[[The Royal Society|皇家学会]]伙伴资助计划（Partnership Grants）的科研共同体协同** 每年为学校与一线科研人员/工程师联合申报的实验项目提供专项[[Seed Funding|种子基金]]，科研人员深度嵌入课堂探究指导，作为鲜活的学术与行业榜样（Role Models），直接扩充弱势青少年的科学社会资本网络。
 > - **课外拓展活动（STEM Enrichment）对大纲局限的生态补偿** 通过课后科技社团、机器人工程挑战赛与野外生态考察，有效弥补国家核心大纲中工程技术与野外调查的缺失，为不同兴趣倾向的学生提供多元赋能通道。

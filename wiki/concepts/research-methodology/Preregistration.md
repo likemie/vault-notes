@@ -5,7 +5,7 @@ aliases:
 summary: "在研究开始前公开登记研究设计、结果测量和分析计划的做法，用于减少事后调整、选择性报告和可疑研究实践。"
 type: concept
 domain: "research-methodology"
-related_count: 60
+related_count: 65
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Implementation Fidelity]]"
   - "[[Replication in Education Research]]"
   - "[[Evaluator Independence]]"
+  - "[[Crowded Frontier]]"
   - "[[Evidence-Based Education]]"
   - "[[Paradigm]]"
   - "[[Visible Learning]]"
@@ -70,23 +71,27 @@ related_instruments:
   - "[[EEF Padlock Security Rating]]"
 related_persons:
   - "[[Robert Slavin]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[ISRCTN]]"
   - "[[Education Endowment Foundation]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Education Innovation and Research]]"
+  - "[[ClinicalTrials.gov]]"
   - "[[National Pupil Database]]"
   - "[[Institute of Education Sciences]]"
 related_arguments:
   - "[[Argument_Wolf_2020_JREE]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Slavin_2019_EducPsychol]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit10]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
 confidence: high
 status: active
 created: '2026-05-02'
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -169,7 +174,7 @@ updated: 2026-11-03
 > **前置质控与外部独立评估破除[[Replication in Education Research\|复现危机]]** 早期教育[[Intervention Research\|干预研究]]屡现复现危机（[[Reproducibility Crisis|Replication Crisis]]），主要根源于小样本抽样、开发者自评利益冲突以及随意挑选自编测验等可疑研究实践。在《每个学生都成功法案》（[[Every Student Succeeds Act\|ESSA]]）循证改革中，大型联邦资助项目（如 i3 与 [[Education Innovation and Research\|EIR]]）和英国 EEF 强制要求在公共登记处（如 REES、ISRCTN）进行时间戳预注册并锁定统计分析计划（SAP），与[[Evaluator Independence\|第三方独立评估]]、多中心大样本整群试验共同构筑了坚实的质控标准，从根本上阻断了事后数据钓鱼与选择性报告，使达到循证标准的教育项目展现出高度可复现的实证效能。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 24–25, 27)]]
 
 > [!claim] [[Dashun Wang|Wang, D.]] & [[Albert-László Barabási|Barabási, A.-L.]]
-> **全学科预注册革命截断从众避险与失败隐匿** 传统学术资助与期刊评价体制偏爱显著正结果，导致负面结论报告占比由 1990 年的 30% 萎缩至 2007 年的 14%，诱发学者退守已知节点的拥挤前沿现象。借鉴 2000 年 ClinicalTrials.gov 与 2005 年国际医学期刊编辑委员会（ICMJE）强制预注册的铁律，自 2019 年以来心理学率先发起的全学科“预注册革命”，通过在独立平台预先锁定设计假设与统计模型，并将预注册确立为资助审批与成果发表的硬性准入门槛，能从系统根源上截断从众跟风与隐匿失败的逃避通道。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 228–229)]]
+> **全学科预注册革命截断从众避险与失败隐匿** 传统学术资助与期刊评价体制偏爱显著正结果，导致负面结论报告占比由 1990 年的 30% 萎缩至 2007 年的 14%，诱发学者退守已知节点的[[Crowded Frontier|拥挤前沿现象]]。借鉴 2000 年 [[ClinicalTrials.gov]] 与 2005 年国际医学期刊编辑委员会（ICMJE）强制预注册的铁律，自 2019 年以来心理学率先发起的全学科“预注册革命”，通过在独立平台预先锁定设计假设与统计模型，并将预注册确立为资助审批与成果发表的硬性准入门槛，能从系统根源上截断从众跟风与隐匿失败的逃避通道。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 228–229)]]
 
 ---
 

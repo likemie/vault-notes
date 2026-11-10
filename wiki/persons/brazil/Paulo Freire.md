@@ -8,7 +8,7 @@ summary: "巴西教育家与哲学家，批判教育学奠基人，以《被压�
 type: person
 nationality: brazil
 person_region: "brazil"
-person_related_count: 48
+person_related_count: 49
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Champ]]"
   - "[[Culture of Silence]]"
+  - "[[Problematisation]]"
   - "[[Politicity of Education]]"
   - "[[Received Knowledge]]"
   - "[[Alien Intelligence]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-10'
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -117,7 +118,7 @@ updated: 2026-10-30
 ---
 
 > [!claim] 核心思想
-> 教育是一场关涉自由与支配的深刻文化政治。传统的[[Banking Model of Education|储蓄式教育]]将学生贬低为等待知识存款的被动空容器，维系了压迫性的[[Culture of Silence|沉默文化]]；真正的教育是[[Problem-Posing Education|提问式教育]]，要求师生在平等的对话遭遇中共同将现实问题化，通过反思与行动高度统一的实践（[[Praxis]]）唤醒批判意识，促成求知者自主性与社会正义的实现。弗莱雷终其一生强调教育天然具备内在的政治性（[[Politicity of Education]]），贯穿于认识论（谁的知识被界定为真理）、分析性（揭示权力支配与阶级利益）与伦理维度；课程设置与技术评估等治理机制始终承载着特定阶级维系统治与资本积累的政治意图。（Freire, 1972; [[Argument_Darwish_2009_Queens|Darwish, 2009]]; [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）
+> 教育是一场关涉自由与支配的深刻文化政治。传统的[[Banking Model of Education|储蓄式教育]]将学生贬低为等待知识存款的被动空容器，维系了压迫性的[[Culture of Silence|沉默文化]]；真正的教育是[[Problem-Posing Education|提问式教育]]，要求师生在平等的对话遭遇中共同将现实[[Problematisation|问题化]]，通过反思与行动高度统一的实践（[[Praxis]]）唤醒批判意识，促成求知者自主性与社会正义的实现。弗莱雷终其一生强调教育天然具备内在的政治性（[[Politicity of Education]]），贯穿于认识论（谁的知识被界定为真理）、分析性（揭示权力支配与阶级利益）与伦理维度；课程设置与技术评估等治理机制始终承载着特定阶级维系统治与资本积累的政治意图。（Freire, 1972; [[Argument_Darwish_2009_Queens|Darwish, 2009]]; [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）
 
 > [!citation-card] 知识赠予与储蓄式教育压迫本质
 > 在教育中，知识是那些自认为有知识的人赠予那些被认为一无所知的人的礼物。教育由此成为一种压迫性储蓄行为：教师存入知识，学生被动[[Received Knowledge|接收知识]]，知识流动完全自上而下，将学生客体化并固化社会支配结构。[[Argument_Partaken_2022_Springer|(Freire, 1972, p. 17; cited in Partaken, 2022, p. 75)]]

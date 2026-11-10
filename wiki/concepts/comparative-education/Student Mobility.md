@@ -8,9 +8,9 @@ aliases:
 summary: "比较教育与教育政策中指向学生跨校、跨区或跨国空间位移的核心构念；在欧美政策话语中呈现对立的治理逻辑，既被欧洲一体化塑造成培育公民认同与灵活就业能力的制度资产，又在美国绩效问责制下被问题化为表征贫困、学业阻滞与学校失范的流动漂泊；在发展型大国南南合作中则体现为国家奖学金驱动的双向话语与单向供给张力，并推动合作载体由单纯留学生流动迈向产教融合实体共建。"
 type: concept
 domain: "comparative-education"
-related_count: 66
-related_level: 6
-related_stars: "💎💎"
+related_count: 71
+related_level: 7
+related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - concept/comparative-education
@@ -24,8 +24,10 @@ related_concepts:
   - "[[Construct]]"
   - "[[Discourse]]"
   - "[[Employability]]"
+  - "[[Problematisation]]"
   - "[[Transiency]]"
   - "[[South-South Cooperation]]"
+  - "[[Study Abroad]]"
   - "[[Policy Mobility]]"
   - "[[Shape-Shifting]]"
   - "[[Migrant Children]]"
@@ -42,6 +44,8 @@ related_concepts:
   - "[[Educational Diplomacy]]"
   - "[[Alumnus Effect]]"
   - "[[Para-Diplomatic Roles]]"
+  - "[[Transnational Education]]"
+  - "[[Education Export]]"
   - "[[Teacher Mobility]]"
   - "[[Multiple Institution Attendance]]"
   - "[[Academic Achievement]]"
@@ -89,17 +93,18 @@ related_arguments:
   - "[[Argument_Velasco_2022_CSJ]]"
   - "[[Argument_Zhu_Yang_2023_HEP]]"
 related_persons:
+  - "[[Noah Sobe]]"
   - "[[Nikolas Rose]]"
   - "[[Rui Yang]]"
   - "[[Kenneth King]]"
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 > [!def] Student Mobility
-> **学生流动性（Student Mobility）** 指学生在教育系统内部跨越学校、学区、地域乃至国家地理边界的空间位移与机构转换过程。在比较教育与政策社会学中，该[[Construct|构念]]不仅描述物理迁移现象，更是现代国家[[Spatial Governmentality|空间治理术]]（Spatial [[Governmentality]]）建构出的核心政策议题。其在跨国政策[[Discourse|话语]]与地缘战略中呈现多元价值编码：在欧洲一体化语境中被建构为促进超国家公民认同与灵活[[Employability|就业能力]]的高级制度资本；在美国基础教育问责语境下被问题化为伴随贫困与家庭失范风险、危及学校绩效达标的[[Transiency|流动漂泊]]（Transiency）；在发展型大国[[South-South Cooperation|南南合作]]与“[[Belt and Road Initiative|一带一路]]”建设中，则经历从依赖国家全额奖学金补贴单向吸引留学生，向统筹“五个并重”（出国与来华、公派与自费、规模与质量、规范管理与优化服务、培养与发挥作用）以及结合重大工程推进产教协同实体办学演进。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–364)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–693)]]; [[Argument_King_2020_ECNUROE|(King, 2020, pp. 222–226, 230)]]
+> **学生流动性（Student Mobility）** 指学生在教育系统内部跨越学校、学区、地域乃至国家地理边界的空间位移与机构转换过程。在比较教育与政策社会学中，该[[Construct|构念]]不仅描述物理迁移现象，更是现代国家[[Spatial Governmentality|空间治理术]]（Spatial [[Governmentality]]）建构出的核心政策议题。其在跨国政策[[Discourse|话语]]与地缘战略中呈现多元价值编码：在欧洲一体化语境中被建构为促进超国家公民认同与灵活[[Employability|就业能力]]的高级制度资本；在美国基础教育问责语境下被[[Problematisation|问题化]]为伴随贫困与家庭失范风险、危及学校绩效达标的[[Transiency|流动漂泊]]（Transiency）；在发展型大国[[South-South Cooperation|南南合作]]与“[[Belt and Road Initiative|一带一路]]”建设中，则经历从依赖国家全额奖学金补贴单向吸引[[Study Abroad|留学]]生，向统筹“五个并重”（出国与来华、公派与自费、规模与质量、规范管理与优化服务、培养与发挥作用）以及结合重大工程推进产教协同实体办学演进。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–364)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–693)]]; [[Argument_King_2020_ECNUROE|(King, 2020, pp. 222–226, 230)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 学生在不同教育机构与地理空间之间的移动行为，以及权力网络对该移动施加的制度性分类、资助机制与合法性编码。
@@ -150,7 +155,7 @@ updated: 2026-11-03
 > [!concept-proposition] 命题一｜欧美政策[[Discourse|话语]]对学生流动施加了两极对立的阶层道德评价
 > **跨国政策[[Discourse|话语]]的价值对质** 探讨同一空间移动[[Construct|构念]]如何在不同制度文化背景下被建构为完全相悖的政策对象，反映文化精英与底层弱势群体在流动正当性上的阶层分野。
 
-> [!claim] Sobe, N. W. & Fischer, M. G.
+> [!claim] [[Noah Sobe|Sobe]], N. W. & Fischer, M. G.
 > **政策话语的两极分化** 欧美政策[[Document|文献]]极少在学生流动议题上形成中间折衷立场。[[EU|欧洲联盟]]通过[[Erasmus Programme|伊拉斯谟计划]]（European Community Action Scheme for the Mobility of University Students，ERASMUS）与[[TEMPUS|天普计划]]（Trans-European Mobility Programme for University Studies，TEMPUS）将大学生跨境流动塑造成构建欧洲公民身份、灵活性与[[Lifelong Learning|终身学习]]能力的核心象征符号；相反，美国在《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（No Child Left Behind Act，NCLB）的绩效问责框架下，将中小学生学年中途频繁转校直接等同于[[Transiency|流动漂泊]]（Transiency），视作与贫困、单亲监护、失范家庭紧密绑定的负面障碍，并在学校报告卡中列为解释绩效未达标的减分项。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–363)]]
 
 > [!claim] Chou & Ravinet
@@ -235,8 +240,8 @@ updated: 2026-11-03
 > - **立场 A（欧洲[[Discourse|话语]]：制度资本与公民美德）** 欧洲一体化话语将跨国高校流动赞颂为自主开拓的时代美德，强调流动能增强超国家公民认同与弹性应变胜任力。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–363)]]
 > - **立场 B（美国话语：失范偏离与绩效危机）** 美国联邦问责话语将中小学频繁转学贬斥为破坏规训与秩序的越轨行为，将其与家庭贫困、学业滞后及学校问责减分相绑定。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 363–364)]]
 
-> [!tension] 跨国高等教育流动的驱动机制之争
-> - **立场 A（英美市场化学费模式）** 依赖大学学术声誉与全球语言资本，将国际学生流动运营为重要的自费教育出口与大学创收源泉。
+> [!tension] [[Transnational Education|跨国高等教育]]流动的驱动机制之争
+> - **立场 A（英美市场化学费模式）** 依赖大学学术声誉与全球语言资本，将国际学生流动运营为重要的自费[[Education Export|教育出口]]与大学创收源泉。
 > - **立场 B（发展型国家地缘补贴模式）** 依托主权政府大额奖学金与涉外基建项目对口就业驱动生源流动，服务双边地缘经济战略，但面临内生学术吸引力不足与外部环境逆转的系统风险。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–693)]]
 
 > [!tension] [[South-South Cooperation|南南教育合作]]的话语承诺与资源流向张力

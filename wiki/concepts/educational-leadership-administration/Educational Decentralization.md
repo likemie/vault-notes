@@ -9,10 +9,10 @@ aliases:
 summary: "国家教育行政权力从中央向地方区域、市镇或基层学校转移的治理重构。在民主化与公共行政视界中，旨在提升响应效率与公民参与，但面临官僚膨胀与体系割裂风险；在国际组织普遍模型中，表现为剥离中央兜底责任的远处治理；在新自由主义试验中（如新西兰明日学校），则常沦为拆解公共服务、迫使学校市场化采购并滋生商业外包垄断的私有化跳板。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - concept
   - educational-governance
@@ -36,6 +36,8 @@ related_concepts:
   - "[[Document]]"
   - "[[Bureaucracy]]"
   - "[[Corporate Education]]"
+  - "[[Nationalism]]"
+  - "[[Transnational Education]]"
   - "[[Variable]]"
   - "[[Shape-Shifting]]"
   - "[[Educational Privatisation]]"
@@ -71,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-11
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -188,7 +190,7 @@ updated: 2026-11-03
 >
 > > [!axis] 民主赋权诉求 vs 国家教育空间解体隐患
 > > - **分权倡导者叙事** 分权是民主转型的天然法定理据，通过权力下放保障基层自治，尊重历史性区域独特的语言文化传统。
-> > - **制度批判学者（[[José Luis García Garrido|García Garrido]]）** 分权在缺乏中央调控基底时极易被激进地方民族主义绑架，导致国家教育空间撕裂为各自为政的排他性领地，破坏国民学历对等与社会整体凝聚力。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 328–329)]]
+> > - **制度批判学者（[[José Luis García Garrido|García Garrido]]）** 分权在缺乏中央调控基底时极易被激进地方[[Nationalism|民族主义]]绑架，导致国家教育空间撕裂为各自为政的排他性领地，破坏国民学历对等与社会整体凝聚力。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 328–329)]]
 >
 > > [!axis] 行政响应敏捷度 vs 官僚冗员行政肥胖
 > > - **公共管理新自由主义叙事** 贴近公民能够优化资源配置，提升教育服务对社区与家庭个性化需求的响应效率。
@@ -206,7 +208,7 @@ updated: 2026-11-03
 
 > [!empirical-divider]
 
-> [!ref-table]- 跨国教育权力纵向配置与分权实证指标
+> [!ref-table]- [[Transnational Education|跨国教育]]权力纵向配置与分权实证指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |

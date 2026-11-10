@@ -8,7 +8,7 @@ aliases:
 summary: "指超越单一学科、产业与国家疆界，涉及广泛社会、技术、生态与行为维度的系统性复杂难题；构成了现代使命导向科技创新治理的根本战略锚点；在 AI 与前沿科学时代，重大挑战演化为通过高手段问题表述与客观盲测基准（如 CASP、创世纪计划 20 项国家挑战）将庞大组合搜索空间转化为可验证技术阶梯的核心政策工具。"
 type: concept
 domain: "science-policy"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -51,6 +51,7 @@ related_facts:
   - "[[Lund Declaration 2009]]"
   - "[[EU]]"
   - "[[Critical Assessment of Structure Prediction]]"
+  - "[[AlphaFold]]"
   - "[[Human Genome Project]]"
   - "[[DARPA]]"
   - "[[Genesis Mission]]"
@@ -63,7 +64,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -82,7 +83,7 @@ updated: 2026-11-03
 > *Addressing grand challenges—whether traveling to the moon, battling climate change, or tackling modern care problems—requires investments by both private and public actors. The role of the public sector here is not just about de-risking, and leveling the playing [[Champ|field]], but tilting the playing field in the direction of the desired goals... Missions have emerged as perhaps the primary approach to tackle grand challenges through innovations.*
 
 > [!citation-card] 问题表述与基准评估作为重大挑战的技术催化剂
-> 明确的问题表述与客观基准是攻克重大科技挑战的核心手段。自 1994 年发起的[[Critical Assessment of Structure Prediction|蛋白质结构预测关键评估]]（Critical Assessment of Structure Prediction, CASP）通过两年一度的双盲评测，为全球结构生物学界建立了无可争议的标准真值，直接奠定了 AlphaFold 解决 50 年蛋白质折叠难题的基础。正如[[Human Genome Project|人类基因组计划]]将测序从象牙塔手工转变为工业级可购买能力、[[DARPA]] 自动驾驶挑战赛开启智能交通产业一样，2025 年[[Genesis Mission|创世纪计划]]为[[Department of Energy|美国能源部]]（DOE）锁定了 20 项国家关键挑战，要求具备巨大的组合搜索空间、丰富的数据积累与明确的评测指标。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 43–44, 62)]]
+> 明确的问题表述与客观基准是攻克重大科技挑战的核心手段。自 1994 年发起的[[Critical Assessment of Structure Prediction|蛋白质结构预测关键评估]]（Critical Assessment of Structure Prediction, CASP）通过两年一度的双盲评测，为全球结构生物学界建立了无可争议的标准真值，直接奠定了 [[AlphaFold]] 解决 50 年蛋白质折叠难题的基础。正如[[Human Genome Project|人类基因组计划]]将测序从象牙塔手工转变为工业级可购买能力、[[DARPA]] 自动驾驶挑战赛开启智能交通产业一样，2025 年[[Genesis Mission|创世纪计划]]为[[Department of Energy|美国能源部]]（DOE）锁定了 20 项国家关键挑战，要求具备巨大的组合搜索空间、丰富的数据积累与明确的评测指标。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 43–44, 62)]]
 >
 > *Well-formulated grand challenges with rigorous benchmarking unlock downstream discovery trees... The Genesis Mission directs the Department of Energy to identify at least 20 grand science and technology challenges characterized by massive combinatorial search spaces, rich structured data, and clear benchmarks.*
 

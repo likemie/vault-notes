@@ -12,7 +12,7 @@ subtype: event
 region: "global"
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Competitiveness]]"
   - "[[Cosmopolitanism]]"
+  - "[[Transnational Education]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Critical Geopolitics]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -133,4 +134,4 @@ updated: 2026-10-26
 > | [[International Institute for Educational Planning]] | Fact (Organization) | 库姆斯领导的联合国多边机构，会议成果的执行与传播中心。 |
 > | [[Policy Brokerage]] | Concept | 会议奠定了国际组织以危机调停者和政策中介介入国家治理的基础[[Paradigm\|范式]]。 |
 > | [[A Nation at Risk 1983]] | Fact (Policy) | 会议所确立的危机叙事[[Discourse\|话语]]在 20 世纪 80 年代美国国内的延续与升级。 |
-> | [[OECD]] | Fact (Organization) | 协同参会并承接跨国教育量化指标开发的核心多边机构。 |
+> | [[OECD]] | Fact (Organization) | 协同参会并承接[[Transnational Education\|跨国教育]]量化指标开发的核心多边机构。 |

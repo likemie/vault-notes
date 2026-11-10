@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[International Education]]"
+  - "[[Transnational Education]]"
   - "[[International Schools]]"
   - "[[Policy Brokerage]]"
   - "[[Public-Private Partnership]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -58,7 +59,7 @@ updated: 2026-10-22
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1959 年由瓦尔基家族（Sunny Varkey 等）在阿联酋迪拜创立，最初为满足波斯湾外籍劳工子女就学需求设立小型私立学校，后伴随海湾地区石油繁荣与全球跨国精英流动迅速演化为[[International Education|国际教育]]财阀。
 > - **总部地点 / 业务辐射** 全球总部设于阿联酋迪拜；业务纵深覆盖阿联酋、英国、印度、卡塔尔、德国、利比亚与约旦等多个国家与地区。
-> - **法人属性与经费基础** 私营营利性跨国教育集团，依托学生高昂学费、海外办学特许经营权、私人股权投资与商业咨询服务获取充沛资本。
+> - **法人属性与经费基础** 私营营利性[[Transnational Education|跨国教育]]集团，依托学生高昂学费、海外办学特许经营权、私人股权投资与商业咨询服务获取充沛资本。
 > - **核心宗旨与法定职责** 自诩为“全球教育变革的催化剂（Catalyst for education change）”，宣称通过提供全阶段高品质国际课程培养全球化未来领袖。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
 
 ---

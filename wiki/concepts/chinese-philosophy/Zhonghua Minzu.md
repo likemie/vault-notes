@@ -7,14 +7,14 @@ aliases:
 summary: "梁启超 1902 年引入的现代国族概念，经费孝通 1988 年以“多元一体”重新阐释后进入中共主流话语，指以当代物理领土或汉文化为边界、包容 56 个民族的单一国族共同体"
 type: concept
 domain: "chinese-philosophy"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
 confidence: high
 status: active
 created: '2026-05-25'
-updated: 2026-11-03
+updated: 2026-11-11
 tags:
   - region/china
   - theme/national-identity
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Official Knowledge]]"
   - "[[Discourse]]"
+  - "[[Nationalism]]"
   - "[[Paradigm]]"
   - "[[Second-generation Ethnic Policy]]"
   - "[[Sinicisation]]"
@@ -73,7 +74,7 @@ related_arguments:
 
 > [!boundary]- 概念边界
 > - **不等于 汉族（Han Ethnicity）** — 汉族是中华民族内部人口占绝大多数的族群，但在官方话语中，中华民族是涵盖 56 个民族的更高阶政治共同体[[Argument_Xu_2024_CE\|(Xu, 2024, p. 576)]]。
-> - **不等于 传统“天下”观念** — 传统[[Tianxia Heuristic|天下观]]基于天命与儒家文明礼义，而中华民族是借用西方现代主权国家与民族主义概念重构的国族实体[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 104)]]。
+> - **不等于 传统“天下”观念** — 传统[[Tianxia Heuristic|天下观]]基于天命与儒家文明礼义，而中华民族是借用西方现代主权国家与[[Nationalism|民族主义]]概念重构的国族实体[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 104)]]。
 > - **不等于 宪制多民族联邦** — 中华民族话语在当代强化单一国族同一性，与苏联式的联邦制多民族国家模式产生[[Paradigm\|范式]]分野[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 102)]]。
 
 ---

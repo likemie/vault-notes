@@ -9,10 +9,10 @@ summary: "意大利复杂网络科学家与计算科学学者，哥本哈根信�
 type: person
 nationality: italy
 person_region: "italy"
-person_related_count: 18
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 21
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1983"
 died: ""
 lifespan: "1983–至今"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Paradigm]]"
   - "[[Creativity]]"
+  - "[[Hot Streak]]"
   - "[[Emergence]]"
   - "[[Document]]"
 related_theories:
@@ -43,13 +44,15 @@ related_persons:
   - "[[Dashun Wang]]"
 related_facts: []
 related_arguments:
+  - "[[Argument_Sinatra_2016_Science]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
+  - "[[Argument_Liu_2018_Nature]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -94,7 +97,7 @@ updated: 2026-11-03
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 领衔发表奠基论著，实证提出随机影响规律并形式化构建 Q 模型与 Q 因子，确立微观学术生涯动力学范式。
-> - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 合作发表学术爆发期奠基成果，将生涯置换与独立零模型拓展至连胜成簇与累积引文动力学研究。
+> - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 合作发表[[Hot Streak|学术爆发期]]奠基成果，将生涯置换与独立零模型拓展至连胜成簇与累积引文动力学研究。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 详尽介绍西纳特拉团队在物理学家全样本中的[[Drop-pin Projection|图钉投影]]与生涯打乱实验，以及 Q 模型构建、能力稳定性检验与诺奖预测 ROC 竞赛。
 
 ---

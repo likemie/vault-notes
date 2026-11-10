@@ -8,10 +8,10 @@ summary: "德裔美籍教育哲学家与文化史学家，哈佛大学教授，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 49
-person_related_level: 4
-person_related_stars: "💎⭐"
-person_related_color: "#fce7f3"
+person_related_count: 52
+person_related_level: 5
+person_related_stars: "💎⭐⭐"
+person_related_color: "#ffedd5"
 born: "1890"
 died: "1977"
 lifespan: "1890–1977"
@@ -50,6 +50,7 @@ related_methods:
   - "[[Historical-Comparative Method]]"
 related_instruments: []
 related_persons:
+  - "[[James B. Conant]]"
   - "[[Michael Sadler]]"
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
@@ -58,6 +59,7 @@ related_persons:
   - "[[Andreas Kazamias]]"
   - "[[Roy Nash]]"
   - "[[Aristotle]]"
+  - "[[Francis Bacon]]"
   - "[[René Descartes]]"
   - "[[Jean-Jacques Rousseau]]"
   - "[[Immanuel Kant]]"
@@ -67,6 +69,7 @@ related_persons:
   - "[[William W. Brickman]]"
   - "[[Val D. Rust]]"
 related_facts:
+  - "[[Dimensions]]"
   - "[[National Education]]"
   - "[[Grammar School]]"
   - "[[Comparative Education Society in Europe]]"
@@ -79,13 +82,13 @@ related_theories:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 德裔美籍教育史学家、教育哲学家与比较教育学者，哈佛大学教育研究生院（Harvard Graduate School of Education）科南特讲座教授（James Bryant Conant Professor of Education），魏玛共和国时期萨克森州教育部高等教育司司长（Ministerialrat）与德累斯顿工业大学教育学教授。
+> - **身份位置** 德裔美籍教育史学家、教育哲学家与比较教育学者，哈佛大学教育研究生院（Harvard Graduate School of Education）科南特讲座教授（[[James B. Conant|James Bryant Conant]] Professor of Education），魏玛共和国时期萨克森州教育部高等教育司司长（Ministerialrat）与德累斯顿工业大学教育学教授。
 > - **核心角色** 比较教育第二论述代际（历史-哲学与自由人文主义代际）的核心支柱，与[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）及[[Friedrich Schneider|弗里德里希·施奈德]]（Friedrich Schneider）共同确立了以[[Geisteswissenschaften|精神科学]]（*Geisteswissenschaften*）与文明史为根基的解释性认识[[Paradigm|范式]]。作为坚定的社会民主主义者，乌利希在 44 岁时断然拒绝向纳粹暴政妥协而流亡美国；在哈佛执教二十六载，以深厚的人文底蕴培育了包括[[George Bereday|乔治·贝雷迪]]（George Bereday）、[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）、保罗·[[Roy Nash|纳什]]（Paul Nash）与亨利·珀金森（Henry Perkinson）在内的整整一代战后史学派比较教育领军学者。
 > - **代表贡献** 巨著《国家教育：历史视角下的比较》（*The Education of Nations: A Comparison in Historical Perspective*, 1961）；坚持以“人（anthropos）”为中心的比较哲学；将西方文明史演进与教师人文教育深度整合。
 
@@ -97,7 +100,7 @@ updated: 2026-11-02
 > [!citation-card] 人物定位的关键来源
 > 纳什在罗伯特·乌利希（Robert Ulich）逝世后的纪念悼文中将其对比较教育的贡献定性为“来自欧洲的人文主义厚礼”。纳什指出，乌利希的人文主义路径具有四个鲜明维度：第一，坚决将人牢牢置于教育画卷的绝对中心，对于乌利希而言，人的价值永远先于课程、学科、建制或纯粹学术研究；第二，其研究路径是彻底且毫不妥协的历史主义，坚信不理解历史语境便无法领会教育进程的本质；第三，高度重视比较教育对教师教育的人文意义，排斥那些仅供研究者内部自我欣赏的枯燥图表和理论；第四，具有鲜明的政治价值系统，终生践行社会民主主义理念。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 52)]]；引自 Nash (1977:147–149)
 >
-> *Paul Nash characterised Ulich's 'contribution to comparative education' as quintessentially 'humanistic'... There were four 'dimensions' to Ulich's humanistic approach. First, there was Ulich's 'determination to keep the human being firmly at the center of the educational picture; for Ulich, the person was always central, rather than the curriculum, the discipline, the [[Champ\|field]], the institution, or the research'. Second, Ulich's approach was 'unapologetically and thoroughly historical'... The third dimension... lay in the human relevance he saw in comparative education for the education of teachers... Lastly... Ulich's humanistic approach was marked by a strongly political value system... he was a lifelong social democrat.*
+> *Paul Nash characterised Ulich's 'contribution to comparative education' as quintessentially 'humanistic'... There were four '[[Dimensions|dimensions]]' to Ulich's humanistic approach. First, there was Ulich's 'determination to keep the human being firmly at the center of the educational picture; for Ulich, the person was always central, rather than the curriculum, the discipline, the [[Champ\|field]], the institution, or the research'. Second, Ulich's approach was 'unapologetically and thoroughly historical'... The third dimension... lay in the human relevance he saw in comparative education for the education of teachers... Lastly... Ulich's humanistic approach was marked by a strongly political value system... he was a lifelong social democrat.*
 
 ---
 
@@ -132,7 +135,7 @@ updated: 2026-11-02
 > - **文艺复兴的人文觉醒与宗教改革的教派分立（Renaissance and Reformation）**
 >   文艺复兴打破经院哲学禁锢，重新发掘古希腊罗马古典文明，高扬人的尊严、世俗个性与审美自由，将教育从枯燥教义辩论转向古典人文主义博雅教养（*Studia humanitatis*），催生了以培养文雅绅士和公民领袖为宗旨的精英古典中学（如文理中学与[[Grammar School\|文法学校]]）。宗教改革中路德与加尔文确立信徒皆祭司信条，为了使信徒能够直接研读母语圣经，首次赋予平民母语识字与初等教育以绝对的宗教义务性，强力推动世俗政权承担设立公共初等学校的法定责任。两者共同奠定了近代西方中等精英[[Liberal Education\|博雅教育]]与初等大众普及教育并行的双轨制雏形。
 > - **理性主义时代的启蒙科学与世俗国家塑造（Rationalism）**
->   培根、[[René Descartes\|笛卡尔]]、洛克、[[Jean-Jacques Rousseau\|卢梭]]与[[Immanuel Kant\|康德]]掀起科学革命与[[Enlightenment\|启蒙运动]]，以人类自主理性、经验观察与自然法则驱逐了神学权威与经院残余。启蒙哲人坚信人性的可塑性与社会进步；卢梭开创遵循儿童天性的自然主义教育，[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]推进现代要素教学法。民族主权国家崛起并将教育视为培育公民国家认同、传播科学知识与强化[[Competitiveness|国家竞争力]]的战略杠杆，国家政权逐步从教会手中收回教育领导权（如普鲁士 1794 年《普通邦法》与法国拿破仑帝国大学），由此确立了由国家统一规划的现代公共教育系统。
+>   [[Francis Bacon|培根]]、[[René Descartes\|笛卡尔]]、洛克、[[Jean-Jacques Rousseau\|卢梭]]与[[Immanuel Kant\|康德]]掀起科学革命与[[Enlightenment\|启蒙运动]]，以人类自主理性、经验观察与自然法则驱逐了神学权威与经院残余。启蒙哲人坚信人性的可塑性与社会进步；卢梭开创遵循儿童天性的自然主义教育，[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]推进现代要素教学法。民族主权国家崛起并将教育视为培育公民国家认同、传播科学知识与强化[[Competitiveness|国家竞争力]]的战略杠杆，国家政权逐步从教会手中收回教育领导权（如普鲁士 1794 年《普通邦法》与法国拿破仑帝国大学），由此确立了由国家统一规划的现代公共教育系统。
 > - **工业科学技术时期的大众教育与人性异化危机（Science and Technology）**
 >   工业化大生产与机器技术推动自然科学、实用技术与大众中等教育走向历史舞台中心。乌利希在此阶段详尽考察了英法德俄四国应对现代性冲击的制度形态：英国在自由自治与精英公学传统中妥协推进中等教育普及；法国依托拿破仑集权[[Bureaucracy|官僚制]]维系国立中学的高深学术理性；德国在洪堡新人文主义全人教化（*[[Bildung]]*）理想与威权军国主义之间爆发悲剧性分裂；俄国与苏联则从沙皇专制断裂走向无产阶级统一劳动学校。乌利希警示工业主义与技术至上导致了严重的工具理性膨胀与人的异化危险，这一文明演进规律为战后亚非拉新兴国家应对工业化与文化认同冲突提供了至关重要的历史镜鉴。(Kazamias, 1963: 387)
 

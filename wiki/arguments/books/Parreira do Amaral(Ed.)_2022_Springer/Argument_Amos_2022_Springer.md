@@ -9,7 +9,7 @@ title: "Argument_Amos_2022_Springer"
 argument_key: "Argument_Amos_2022_Springer"
 argument_display_title: "Which vision of education for late modernity? In M"
 argument_kind: "book"
-argument_related_count: 56
+argument_related_count: 57
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Learner Autonomy]]"
   - "[[Self-Directed Learning]]"
   - "[[Research Universities]]"
+  - "[[Lecturing]]"
   - "[[Wicked Problem]]"
   - "[[Emergence]]"
   - "[[Haraway's SF]]"
@@ -90,7 +91,7 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-08
-updated: 2026-10-30
+updated: 2026-11-11
 year: 2022
 doi: ""
 citation_aliases:
@@ -203,7 +204,7 @@ citation_aliases:
 > - **教师的数字素养** 专业技能的分布极不均衡
 > - **学生的[[Learner Autonomy\|自主学习]]准备度** 低收入家庭的学生更依赖学校提供的结构和指导，数字化的"[[Self-Directed Learning\|自导学习]]"模式对他们更不友好
 >
-> > 例：两所同一城市的大学——一所富裕的[[Research Universities|研究型大学]]和一所资源紧张的社区学院——同时转向在线教学。前者投资了虚拟现实实验室、专业视频制作团队和教学设计师。后者用 Zoom 的免费版本，教师独自对着屏幕讲课。两所学校的学生的"在线学习体验"完全不同。数字化没有消除差距，它在数字化层面重新创造了差距。(p.58, 60–61)
+> > 例：两所同一城市的大学——一所富裕的[[Research Universities|研究型大学]]和一所资源紧张的社区学院——同时转向在线教学。前者投资了虚拟现实实验室、专业视频制作团队和教学设计师。后者用 Zoom 的免费版本，教师独自对着屏幕[[Lecturing|讲课]]。两所学校的学生的"在线学习体验"完全不同。数字化没有消除差距，它在数字化层面重新创造了差距。(p.58, 60–61)
 >
 > 更根本的是，**教育的"成员身份创造"功能在弱化**。大型公立学校承担着最重要的社会化任务——把年轻人培养成公民、培养他们对"共同善"的担当。但如果未来教育变成了高度个性化的微证书和自导学习路径的拼贴，那么"共同经验"在哪里？民主社会需要公民共享的基础知识和公共叙事，而超个性化的教育对这一基础构成威胁。
 >

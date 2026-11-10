@@ -8,10 +8,10 @@ aliases:
 summary: "将严谨科学方法、实证评估与机制设计工具反身应用于科学事业自身的研究与治理领域；通过对同行评议、资助规则、项目经理自由裁量权及机构组织形态开展对照实验与量化追踪，旨在降低科研行政摩擦、破除平庸共识避险偏好，优化国家科学企业的整体配置效率。"
 type: concept
 domain: "science-policy"
-related_count: 54
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 87
+related_level: 8
+related_stars: "💎💎⭐⭐"
+related_color: "#ddd6fe"
 tags:
   - theme/science-policy
   - theme/research-funding
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Reproducibility Crisis]]"
   - "[[Golden Ticket Mechanism]]"
+  - "[[People, Not Projects]]"
   - "[[Pull Mechanisms for Innovation]]"
   - "[[Advance Market Commitments]]"
   - "[[Academic Medical Center]]"
@@ -35,16 +36,26 @@ related_concepts:
   - "[[Scientific Productivity]]"
   - "[[Evaluative Validity]]"
   - "[[Paradigm]]"
+  - "[[Counterfactual]]"
+  - "[[Data Infrastructure]]"
+  - "[[Goodhart's Law]]"
+  - "[[Construct Validity]]"
+  - "[[Causality]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Commensuration]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Invisible College]]"
+  - "[[Clinical Trial]]"
   - "[[Visible Learning]]"
   - "[[Variable]]"
+  - "[[Citation Distribution]]"
   - "[[Focused Research Organization]]"
   - "[[Epistemology]]"
   - "[[Predictive Validity]]"
 related_theories:
   - "[[Path Dependence]]"
+  - "[[Random Impact Rule]]"
+  - "[[Q-Model]]"
 related_methods:
   - "[[Random Assignment]]"
   - "[[Bibliometric Analysis]]"
@@ -54,17 +65,34 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Effect Size]]"
   - "[[Research Synthesis]]"
+  - "[[Propensity Score Matching]]"
+  - "[[Fixed-Effect Model]]"
+  - "[[Difference-in-Differences]]"
+  - "[[Instrumental Variables]]"
+  - "[[Regression Discontinuity Design]]"
   - "[[Quantitative Research]]"
+  - "[[Record Linkage]]"
+  - "[[Disruption Index]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[Relative Citation Normalization]]"
 related_instruments:
   - "[[Heilmeier Catechism]]"
 related_persons:
   - "[[Michael Kratsios]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
+  - "[[Roberta Sinatra]]"
+  - "[[Lu Liu]]"
+  - "[[Santo Fortunato]]"
   - "[[Derek de Solla Price]]"
+  - "[[Benjamin F. Jones]]"
+  - "[[Brian Uzzi]]"
 related_facts:
   - "[[Fast Grants]]"
+  - "[[Web of Science]]"
   - "[[DARPA]]"
+  - "[[Howard Hughes Medical Institute]]"
+  - "[[SciSciNet]]"
   - "[[United Kingdom Metascience Unit]]"
   - "[[UK Research and Innovation]]"
   - "[[Science A New Golden Age 2026]]"
@@ -72,16 +100,21 @@ related_facts:
   - "[[National Institutes of Health]]"
   - "[[Department of Energy]]"
   - "[[Department of Defense]]"
+  - "[[Microsoft Academic Graph]]"
+  - "[[MEDLINE]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"
 related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
+  - "[[Argument_Sinatra_2016_Science]]"
+  - "[[Argument_Liu_2023_NHB]]"
+  - "[[Argument_Fortunato_2018_Science]]"
   - "[[Argument_Lin_2023_SciData]]"
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -136,7 +169,7 @@ updated: 2026-11-03
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
 > **多元资助机制组合拓宽探索边界命题** 元科学的实证研究表明，不存在放之四海而皆准的单一资助模式，必须构建多元工具组合：
 > 1. **[[Golden Ticket Mechanism|金券机制]]（Golden Tickets）** 赋予单名专家在缺乏共识时强行资助非共识提案的特权；
-> 2. **长周期对人资助（People, not projects）** 提供为期 7 年、免于频繁中期汇报的稳定支持，使学者产出高影响力颠覆成果的概率翻倍；
+> 2. **长周期对人资助（[[People, Not Projects|People, not projects]]）** 提供为期 7 年、免于频繁中期汇报的稳定支持，使学者产出高影响力颠覆成果的概率翻倍；
 > 3. **48 小时快速资助（[[Fast Grants]]）** 简化申请审批流程，适应窗口期极短的前沿探索；
 > 4. **事后买单的[[Pull Mechanisms for Innovation|拉动机制]]（[[Pull Mechanisms for Innovation|拉动机制]]）** 通过技术悬赏与[[Advance Market Commitments|高级市场承诺]]（[[Academic Medical Center|AMC]]）激发跨界外部解题者的突破潜力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 27–30)]]
 
@@ -159,13 +192,13 @@ updated: 2026-11-03
 > **大数据计算与学术机制建模命题** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]确立了定量微观科学学（Science of Science）的实证[[Paradigm|研究范式]]。通过对跨世纪数千万学者与论著大数据的建模分析，证实科学知识爆炸主要源于科研队伍基数的膨胀，而个体生产力服从多重能力乘法放大的对数正态长尾分布；同时实证检验了 $h$ 指数在预测学者未来科研卓越度上的长期效度，并揭示了同行评审中资深学者的声望信号如何诱发选择性正向偏见。计算科学学通过微观机制建模，为理解学术分层与优化科研评价体系提供了坚实的实证基底。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 8–14, 21–23, 28–30)]]
 
 > [!claim] Sinatra et al.
-> **反事实生涯置换与双因子能力微观机制建模** 西纳特拉等基于物理学与跨学科 2.8 万余名学者发表大数据，运用生涯序列随机置换构建反事实零模型，确立了学术重大突破在发表序列中均匀随机分布的“随机影响法则”；并通过双因子乘积模型（Q 模型）证实选题潜在价值与学者个人转化能力在统计上严格独立（协方差为零），且学者能力因子终身保持平稳，为元科学理解学术生涯微观动力学与预测顶尖成就提供了严密的数理实证基底。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016)]]
+> **[[Counterfactual|反事实]]生涯置换与双因子能力微观机制建模** [[Roberta Sinatra|西纳特拉]]等基于物理学与跨学科 2.8 万余名学者发表大数据，运用生涯序列随机置换构建反事实零模型，确立了学术重大突破在发表序列中均匀随机分布的“[[Random Impact Rule|随机影响法则]]”；并通过双因子乘积模型（[[Q-Model|Q 模型]]）证实选题潜在价值与学者个人转化能力在统计上严格独立（协方差为零），且学者能力因子终身保持平稳，为元科学理解学术生涯微观动力学与预测顶尖成就提供了严密的数理实证基底。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016)]]
 
 > [!claim] [[Argument_Liu_2023_NHB|Liu et al. (2023)]]
-> **科学学全景数据与实证方法谱系命题** 刘路（Lu Liu）等系统构建了科学学的方法学全景体系：数据层由单一出版物引文向向上链接公共研发资助、向下贯通专利与临床转化的大数据基础设施拓展；测度层强调区分引文语境、防范古德哈特定律引发的构念效度异化；实证方法层则将经验规律、微观机制模型与机器学习预测（如词向量预测物性发现），同倾向得分匹配、面板固定效应与准实验（DID、IV、RDD）因果推断框架深度打通，确立了兼顾关联预测与因果政策评估的方法论基石。[[Argument_Liu_2023_NHB|(Liu et al., 2023, pp. 1046–1055)]]
+> **科学学全景数据与实证方法谱系命题** [[Lu Liu|刘路]]（Lu Liu）等系统构建了科学学的方法学全景体系：数据层由单一出版物引文向向上链接公共研发资助、向下贯通专利与临床转化的大[[Data Infrastructure|数据基础设施]]拓展；测度层强调区分引文语境、防范[[Goodhart's Law|古德哈特定律]]引发的[[Construct Validity|构念效度]]异化；实证方法层则将经验规律、微观机制模型与机器学习预测（如词向量预测物性发现），同[[Propensity Score Matching|倾向得分匹配]]、面板[[Fixed-Effect Model|固定效应]]与准实验（[[Difference-in-Differences|DID]]、[[Instrumental Variables|IV]]、[[Regression Discontinuity Design|RDD]]）[[Causality|因果推断]]框架深度打通，确立了兼顾关联预测与因果政策评估的方法论基石。[[Argument_Liu_2023_NHB|(Liu et al., 2023, pp. 1046–1055)]]
 
 > [!claim] [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]]
-> **科学学的多尺度复杂网络与定量机制范式** 桑托·福图纳托（Santo Fortunato）等在《科学》（*Science*）发表奠基性综述，系统确立科学学（SciSci）的研究纲领：将科学实践置于实证显微镜下，整合科学网络拓扑、选题保守性权衡、学者生涯随机影响法则、团队规模生态位分工与引文动力学普适性五大维度；指出揭示底层自组织规律能有效打破依赖主观经验的科技管理传统，为优化资助配置、同行评议与人机协同探索提供制度设计工具。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, pp. 1–6)]]
+> **科学学的多尺度复杂网络与定量机制范式** [[Santo Fortunato|桑托·福图纳托]]（Santo Fortunato）等在《科学》（*Science*）发表奠基性综述，系统确立科学学（SciSci）的研究纲领：将科学实践置于实证显微镜下，整合[[Web of Science|科学网]]络拓扑、选题保守性权衡、学者生涯随机影响法则、团队规模生态位分工与引文动力学普适性五大维度；指出揭示底层自组织规律能有效打破依赖主观经验的科技管理传统，为优化资助配置、同行评议与[[Man-Computer Symbiosis|人机协同]]探索提供制度设计工具。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, pp. 1–6)]]
 
 ---
 
@@ -185,10 +218,10 @@ updated: 2026-11-03
 > - **2000s–2010s — [[Reproducibility Crisis|可重复性危机]]与科研方法反思（Ioannidis 学派）** 约翰·约阿尼迪斯（John Ioannidis）发表《为什么大多数已发表的研究发现都是虚假的》，引发对生物医学与心理学可重复性危机的大反思，元科学正式成为独立学术研究领域。
 > - **2016 年 — 随机影响法则与 Q 模型确立（[[Argument_Sinatra_2016_Science|Sinatra et al., 2016]]）** 西纳特拉等在《科学》（*Science*）发表奠基性成果，提出生涯序列置换反事实检验法与双因子 Q 模型，证实突破成果的早年聚集纯由发文速率驱动，确立了选题运气与个体能力相互独立的微观生涯动力学规律。
 > - **2018 年 — 《科学》发表科学学标志性纲领综述（[[Argument_Fortunato_2018_Science|Fortunato et al., 2018]]）** 福图纳托等汇聚物理学、计算科学、网络科学与科学社会学领军力量，系统确立科学学（Science of Science, SciSci）作为利用海量数字足迹探索科学发展规律的跨学科定量实证范式，奠定了涵盖科学网络、选题权衡、生涯动力学、团队演化与引文机制的研究蓝图。
-> - **2020s 初 — 政策元科学萌芽与 [[DARPA]] / HHMI [[Paradigm|范式]]重估** 科技政策界开始从单纯揭露问题转向**机制干预**，系统总结 [[DARPA]] 项目经理自由裁量制与霍华德·休斯医学研究所（HHMI）对人资助模式的制度优越性。
+> - **2020s 初 — 政策元科学萌芽与 [[DARPA]] / [[Howard Hughes Medical Institute|HHMI]] [[Paradigm|范式]]重估** 科技政策界开始从单纯揭露问题转向**机制干预**，系统总结 [[DARPA]] 项目经理自由裁量制与霍华德·休斯医学研究所（HHMI）对人资助模式的制度优越性。
 > - **2021 年 — 大数据与复杂网络科学学范式奠基（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási, 2021]]）** 王大顺与巴拉巴西出版《科学的科学》（The Science of Science），系统整合跨世纪数千万学术出版物与科研人员大数据、复杂网络科学与人工智能分析工具，将科学学拓展为涵盖科研生涯演化、团队协同与影响力动力学的定量微观实证学科。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 1–4)]]
-> - **2023 年 — 大规模开放科学学数据基础设施构建（[[Argument_Lin_2023_SciData|Lin et al., 2023]]）** 林泽（Zheng Lin）、尹亚楠（Yanan Yin）、[[Lu Liu|刘鲁]]（Lu Liu）与[[Dashun Wang|王大顺]]（Dashun Wang）开源构建覆盖 1.34 亿篇跨学科文献的科学学数据湖 SciSciNet，完成成果家族消歧归并，建立联邦资助与专利、临床试验的多源记录链接，并高通量预计算颠覆性指数与非典型引文组合，为元科学实证研究提供了降低准入门槛并提升可复现性的公共数据基础设施。
-> - **2023 年 — 科学学实证方法与全景数据体系确立（[[Argument_Liu_2023_NHB|Liu et al., 2023]]）** [[Lu Liu|刘路]]（Lu Liu）、[[Benjamin F. Jones|本杰明·琼斯]]（Benjamin F. Jones）、[[Brian Uzzi|布赖恩·乌齐]]（Brian Uzzi）与[[Dashun Wang|王大顺]]（Dashun Wang）在《自然·人类行为》（*Nature Human Behaviour*）发表长篇综述，系统确立涵盖多源数据湖、微观测度构念效度、生成机制模型、机器学习表征与计量因果推断（DID、IV、RDD 与 RCT）的科学学全景实证方法论体系。[[Argument_Liu_2023_NHB|(Liu et al., 2023, pp. 1046–1058)]]
+> - **2023 年 — 大规模开放科学学数据基础设施构建（[[Argument_Lin_2023_SciData|Lin et al., 2023]]）** 林泽（Zheng Lin）、尹亚楠（Yanan Yin）、刘鲁（Lu Liu）与[[Dashun Wang|王大顺]]（Dashun Wang）开源构建覆盖 1.34 亿篇跨学科文献的[[SciSciNet|科学学数据湖]] SciSciNet，完成成果家族消歧归并，建立联邦资助与专利、[[Clinical Trial|临床试验]]的多源[[Record Linkage|记录链接]]，并高通量预计算[[Disruption Index|颠覆性指数]]与非典型引文组合，为元科学实证研究提供了降低准入门槛并提升可复现性的公共数据基础设施。
+> - **2023 年 — 科学学实证方法与全景数据体系确立（[[Argument_Liu_2023_NHB|Liu et al., 2023]]）** [[Lu Liu|刘路]]（Lu Liu）、[[Benjamin F. Jones|本杰明·琼斯]]（Benjamin F. Jones）、[[Brian Uzzi|布赖恩·乌齐]]（Brian Uzzi）与[[Dashun Wang|王大顺]]（Dashun Wang）在《自然·人类行为》（*Nature Human Behaviour*）发表长篇综述，系统确立涵盖多源数据湖、微观测度构念效度、生成机制模型、机器学习表征与计量因果推断（DID、IV、RDD 与 [[Randomised Controlled Trials|RCT]]）的科学学全景实证方法论体系。[[Argument_Liu_2023_NHB|(Liu et al., 2023, pp. 1046–1058)]]
 > - **2024 年 — [[United Kingdom Metascience Unit|英国元科学单元]]（UK Metascience Unit）设立** 英国科学、创新和技术部（DSIT）与[[UK Research and Innovation|英国研究与创新署]]（UKRI）联合创立全球首个国家级元科学专门机构，率先针对分布式同行评议、部分[[Random Assignment|随机化]]资助及评审一致性开展大规模实证试验。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 32)]]
 > - **2025 年 — 教育学首个[[Preregistration|预注册]]全库元科学质量审计（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）** 瑞典卡尔门达尔（Kalmendal）等学者对全球最庞大的教育[[Research Synthesis|证据综合]]库《[[Visible Learning|可见的学习]]》（1.2 版）实施全量预注册元科学质量审计，构建了涵盖[[Research Question|研究问题]]纳入、设计分类与数据提取复现的三阶审计规程。实证揭示该体系仅 19% 满足 [[PICO Framework|PICO]] 标准且数据提取复现率仅 0.66%，为元科学从“资助[[Mechanism Experiments|机制实验]]”拓展至“海量合成证据的全生命周期质量审查”树立了标杆范式。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–19)]]
 > - **2026 年 — 美国联邦元科学单元法定化与国家科技新政** 白宫科技政策办公室在《[[Science A New Golden Age 2026|科学：新的黄金时代]]》中正式提出：要求全美所有联邦科研资助机构（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]、[[Department of Energy|DOE]]、[[Department of Defense|DoD]]）均设立直属于局长的元科学单元，将资助对照实验确立为国家研发预算管理的法定优先序。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 31–32, 86)]]
@@ -203,11 +236,11 @@ updated: 2026-11-03
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 全球教育证据综合库《可见的学习》（322 个影响因素） | 全量预注册元科学质量审计 | 研究问题标准（PICO）、设计分类与数据提取复现率 | 仅 19% 满足 PICO 标准；301 项因素中仅 2 项（0.66%）完全复现数据提取；44% 效应量在底层原始文献中不存在 | 全量预注册审计数据 | 证实宏观合成证据在缺乏端到端元科学审计时存在严重的系统性提取与汇总失真 |
-> | [[Argument_Lin_2023_SciData\|Lin et al. (2023)]] | 全球 1.34 亿篇跨学科文献（1800–2020）与多源资助及应用数据湖 | 记录链接管道与高通量科学学指标计算 | 数据湖规模、实体链接覆盖率与前沿指标产出 | 覆盖 134,228,883 篇核心出版物与 14 亿条引文；链接 454 万项基金资助与 2200 万篇专利引文；预计算 2800 万篇 $CD_5$ 颠覆性指数与 4500 万篇非典型引文度量 | 跨 Web of Science、MAG 与官方资助库交叉验证；一致性相关系数 CCC > 0.99 | 证实大规模多源链接与前沿指标预计算可显著降低科学学实证准入门槛，但对长尾非英语文献与无标识符小额资助捕获率受原始数据源限制 |
+> | [[Argument_Lin_2023_SciData\|Lin et al. (2023)]] | 全球 1.34 亿篇跨学科文献（1800–2020）与多源资助及应用数据湖 | 记录链接管道与高通量科学学指标计算 | 数据湖规模、实体链接覆盖率与前沿指标产出 | 覆盖 134,228,883 篇核心出版物与 14 亿条引文；链接 454 万项基金资助与 2200 万篇专利引文；预计算 2800 万篇 $CD_5$ 颠覆性指数与 4500 万篇非典型引文度量 | 跨 Web of Science、[[Microsoft Academic Graph\|MAG]] 与官方资助库交叉验证；一致性相关系数 CCC > 0.99 | 证实大规模多源链接与前沿指标预计算可显著降低科学学实证准入门槛，但对长尾非英语文献与无标识符小额资助捕获率受原始数据源限制 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]] | 全球 5,300 万学者与近 9,000 万篇跨学科文献（1900–2015） | 跨世纪大规模[[Bibliometric Analysis\|文献计量分析]] | 科学家总量与人均年发表量 | 人均年发文量在整个 20 世纪稳定在约 2 篇；至 2015 年微增至约 2.5 篇 | 文献时间序列平稳拟合 | 证实科学文献爆炸由队伍基数扩张驱动，学者个体人均产出率保持认知与生理稳态 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]] | 全球 1,500 万发表学者（1996–2011 纵向追踪队列） | 终身连续产出队列追踪 | 持续发表学者比例与高引贡献率 | 不足 1% 学者保持每年至少 1 篇产出；该群体生产全库 41.7% 文献及 87.1% 超千引成果 | 纵向普查数据 | 揭示科研生产力的极度倾斜，少数核心学者承载绝大多数持续知识增量 |
 > | [[Argument_Sinatra_2016_Science\|Sinatra et al. (2016)]] | 跨越一个世纪的 2,887 位长周期物理学家与 7 大学科 24,630 位跨学科学者 | 反事实生涯序列置换实验与双因子乘积参数建模 | 代表作相对位次 $N^*/N$、能力因子 $Q$ 与构想潜力 $p$ | 相对位次服从均匀分布；三元似然估计证实 $\sigma_{p, Q} = 0.00$；Q 参数预测诺贝尔奖得主 ROC 达 0.88 | 经验数据拟合优度显著 | 确立随机影响法则与 Q 模型，揭示选题运气与学者能力的统计独立性，为定量微观科学学奠基 |
-> | [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018)]] | 全球数千万篇文献（WoS 与 MEDLINE）、专利与跨学科学者发表队列 | 大规模计量分析、超图网络建模与三参数动力学拟合 | 团队占比、千引优势倍数、相对引文分布重合性 | 团队成果占比达 90% 且千引概率为单人 6.3 倍；相对引文标准化后各学科分布完全收拢至统一对数正态主曲线；单篇代表作在发表序列中均匀随机分布 | 全学科海量实证数据综合 | 确立现代科学自组织复杂网络演化规律，为重构科研资助、评价与团队激励提供定量依据 |
+> | [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018)]] | 全球数千万篇文献（WoS 与 [[MEDLINE]]）、专利与跨学科学者发表队列 | 大规模计量分析、超图网络建模与三参数动力学拟合 | 团队占比、千引优势倍数、相对[[Citation Distribution\|引文分布]]重合性 | 团队成果占比达 90% 且千引概率为单人 6.3 倍；[[Relative Citation Normalization\|相对引文标准化]]后各学科分布完全收拢至统一对数正态主曲线；单篇代表作在发表序列中均匀随机分布 | 全学科海量实证数据综合 | 确立现代科学自组织复杂网络演化规律，为重构科研资助、评价与团队激励提供定量依据 |
 
 ---
 

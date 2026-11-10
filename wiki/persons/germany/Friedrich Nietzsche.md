@@ -10,7 +10,7 @@ summary: "19世纪德国著名哲学家、古典语文学家与文化批判家�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 22
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -47,7 +47,6 @@ related_instruments: []
 related_persons:
   - "[[Max Weber]]"
   - "[[Socrates]]"
-  - "[[Rainer Kattel]]"
   - "[[Mariana Mazzucato]]"
   - "[[Jean-François Lyotard]]"
 related_facts: []
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -110,7 +109,7 @@ updated: 2026-10-22
 ---
 
 > [!influence-path] 影响路径
-> - **科技与创新政策跨学科映射** [[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]）将尼采“骆驼–狮子–儿童”精神三变隐喻转化为创新政策演进模型，阐释国家治理如何从追赶负重（第一代）、规制突破（第二代）走向应对气候与健康复杂挑战的敏捷共创（第三代）。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 792)]]
+> - **科技与创新政策跨学科映射** 卡特尔与[[Mariana Mazzucato|马祖卡托]]（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]）将尼采“骆驼–狮子–儿童”精神三变隐喻转化为创新政策演进模型，阐释国家治理如何从追赶负重（第一代）、规制突破（第二代）走向应对气候与健康复杂挑战的敏捷共创（第三代）。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 792)]]
 > - **后现代教育哲学与[[Critical Pedagogy|批判教育学]]** 尼采的视角主义与权力谱系学直接启发了福柯、[[Jean-François Lyotard|利奥塔]]与德里达，构成了解构[[Grand Theory|宏大叙事]]、标准化知识霸权与发展多元主体审议批判教育学的哲学源头。
 > - **现代社会学与诸神纷争** 启迪了[[Max Weber|马克斯·韦伯]]关于价值[[Pluralism|多元主义]]、终极价值冲突与工具理性铁笼的现代性诊断。
 > - **德意志教化传统的批判向度** 欧陆批判教育学者（如 Larsen, 2019）将尼采列为德意志[[Paideia|古典教化]]（[[Bildung]]）传统中极富批判穿透力的坐标，援引其对庸俗现代性与教育技术化的深刻批判，抵抗将学习降维为即时可见测量的当代[[Positivism|实证主义]]风潮。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]

@@ -7,7 +7,7 @@ aliases:
 summary: "指超越特定专业学科知识、可跨领域迁移的高阶认知与社会行为能力复合体，核心涵盖批判性思维、分析推理、劣构问题解决与书面沟通，已成为现代高等教育质量保障与跨国学习成效测量的关键构念与争议焦点。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 31
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -24,7 +24,9 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Commensuration]]"
   - "[[Employability]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Epistemology]]"
+  - "[[Transnational Education]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Discourse]]"
   - "[[Operationalization]]"
@@ -58,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-19
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -69,10 +71,10 @@ updated: 2026-11-03
 > [!concept-lens] 概念透镜
 > - **含义** 指向脱离特定学术学科知识细节的普适性思维心智与分析策略，假定[[Higher-Order Thinking Skills|高阶思维]]能力能够作为独立特质被跨情境测量与评估。
 > - **用途** 帮助研究者透视超国家组织与决策者如何通过建构[[Commensuration|通约]]标尺，将高度异质的高校办学质量转化为统一排位的度量数据，借以推动以[[Employability|就业能力]]与劳动力市场需求为导向的高教改革。
-> - **边界** 不等同于特定专业领域的学科专业能力（Discipline-Specific Competencies），也不等于孤立的基础读写算识字素养；当剥离具体文化语境与学科[[Epistemology|认识论]]土壤时，通用技能面临构念合法性与跨文化测量效度的严重质疑。
+> - **边界** 不等同于特定专业领域的学科专业能力（Discipline-Specific Competencies），也不等于孤立的[[Foundational Literacy and Numeracy|基础读写算]]识字素养；当剥离具体文化语境与学科[[Epistemology|认识论]]土壤时，通用技能面临构念合法性与跨文化测量效度的严重质疑。
 
 > [!citation-card] 通用技能在跨国高教测评中的战略定位与争议
-> 通用技能构成了跨国高等教育学习成效测评的关键支柱；然而围绕通用技能能否以及是否有必要脱离具体学科情境进行独立测评，学术界与政策制定者之间持续存在深刻的分歧与张力。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 202)]]
+> 通用技能构成了[[Transnational Education|跨国高等教育]]学习成效测评的关键支柱；然而围绕通用技能能否以及是否有必要脱离具体学科情境进行独立测评，学术界与政策制定者之间持续存在深刻的分歧与张力。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 202)]]
 >
 > *Further, the creators of [[OECD AHELO Project|AHELO]] did not have adequate knowledge capacity to build the generic skills component and faced several challenges in constructing the instrument. Namely, tensions arose between the different stakeholders involved in constructing instruments. For example, there continues to be debates about the relevance of assessing generic skills outside of disciplinary contexts.*
 

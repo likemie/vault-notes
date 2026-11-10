@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 15
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,8 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Champ]]"
   - "[[Soft Power]]"
+  - "[[Early-Career Researchers]]"
+  - "[[Document]]"
 related_theories:
   - "[[Neo-Tributary Perspective]]"
 related_methods:
@@ -48,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -128,4 +130,4 @@ updated: 2026-11-02
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] — 针对金边皇家大学管理层与师生开展[[Semi-structured Interview|半结构化访谈]]，考察高教合作项目中的新兴[[Soft Power|软实力]]资源与校际协议形式化张力。
-> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 针对金边皇家大学数十位校领导、院系主管及青年学者开展[[Semi-structured Interview|半结构化访谈]]与实证剖析的代表性文献。
+> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 针对金边皇家大学数十位校领导、院系主管及[[Early-Career Researchers|青年学者]]开展[[Semi-structured Interview|半结构化访谈]]与实证剖析的代表性[[Document|文献]]。

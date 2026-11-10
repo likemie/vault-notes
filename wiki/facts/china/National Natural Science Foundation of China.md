@@ -13,7 +13,7 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,12 +28,17 @@ tags:
   - theme/peer-review
   - theme/basic-research
 related_concepts:
+  - "[[Categorical Funding]]"
   - "[[Research Universities]]"
   - "[[Continuous Research Funding]]"
-  - "[[Paradigm]]"
-  - "[[National Innovation System]]"
-  - "[[Original Innovation Capability]]"
   - "[[Early-Career Researchers]]"
+  - "[[Original Innovation Capability]]"
+  - "[[Knowledge Production]]"
+  - "[[Paradigm]]"
+  - "[[Scientific Productivity]]"
+  - "[[National Innovation System]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[Professional Interest]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Chinese Academy of Sciences]]"
@@ -46,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
@@ -72,7 +77,7 @@ updated: 2026-11-04
 >
 > - **1990s–2010s** **资助谱系完善与青年人才梯队建设**
 >
->   建立分层分类资助体系，推动[[Research Universities|研究型大学]]与科研院所开展学术竞争。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 43)]]
+>   建立分层[[Categorical Funding|分类资助]]体系，推动[[Research Universities|研究型大学]]与科研院所开展学术竞争。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 43)]]
 >
 >   - **1994** 设立国家杰出青年科学基金，确立国家级战略拔尖青年人才资助赛道。
 >   - **2005** 创办[[Shuangqing Forum|双清论坛]]，搭建前沿基础研究学科交叉与国家重大战略需求研讨平台。
@@ -83,7 +88,7 @@ updated: 2026-11-04
 >   深化基于科学问题属性的分类评审改革，探索资助关口前移与长周期延续性支持机制。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026, pp. 737–738)]]
 >
 >   - **2023** 启动青年学生基础研究项目，将基础研究资助端口前移至优秀本科生与博士生阶段。
->   - **2026** 深化青年科学基金结题分级评价与优秀项目长周期滚动资助机制，推进双清论坛双主席制协同领题。
+>   - **2026** 深化青年科学基金结题分级评价与优秀项目长周期[[Continuous Research Funding|滚动资助]]机制，推进双清论坛双主席制协同领题。
 
 ---
 
@@ -102,31 +107,31 @@ updated: 2026-11-04
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **探索型自由选题项目矩阵** 面上项目、青年科学基金项目、地区科学基金项目，旨在广泛吸纳基础研究科研人员的自由探索，夯实学科发展根基。
-> - **战略拔尖人才培育赛道** 青年学生基础研究项目（本博阶段）、优秀青年科学基金、国家杰出青年科学基金及创新研究群体项目，构建起贯通青年学者学术生涯的阶梯式培养通道。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026, p. 737)]]
+> - **战略拔尖人才培育赛道** 青年学生基础研究项目（本博阶段）、优秀青年科学基金、国家杰出青年科学基金及创新研究群体项目，构建起贯通[[Early-Career Researchers|青年学者]]学术生涯的阶梯式培养通道。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026, p. 737)]]
 > - **重大战略突破与交叉攻关专项** 重点项目、重大项目、国家重大科研仪器研制项目与重大研究计划，聚焦国家关键攻关任务背后的深层机制与跨学科协同突破。
 > - **战略研讨与思想孵化平台** 常态化举办的[[Shuangqing Forum|双清论坛]]，通过战略科学家与青年学者双主席制，打造前沿学术交叉探讨与非共识假说孵化的学术平台。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026, p. 737)]]
 
 > [!citation-card] 代表性章程／使命宣言
-> 坚持依靠专家、发扬民主、择优支持、公正合理的评审原则，坚持支持基础研究、坚持自由探索、发挥导向作用的战略定位，培育具有原始创新能力的拔尖人才，促进学科交叉融合，提升自主创新能力。
+> 坚持依靠专家、发扬民主、择优支持、公正合理的评审原则，坚持支持基础研究、坚持自由探索、发挥导向作用的战略定位，培育具有[[Original Innovation Capability|原始创新能力]]的拔尖人才，促进学科交叉融合，提升自主创新能力。
 
 ---
 
 > [!indicators] 影响力维度与指标
 > - **资源与资助规模** 年财政拨款从创立初期的 8000 万元人民币增长至数百亿元规模，年资助各类项目达数万项，成为中国支持自然科学基础研究最主要的公共财政渠道。
-> - **学术与知识生产** 支持高校与科研院所学者在前沿自然科学领域取得系统性科研突破，中国学者在国际主流学术期刊发表的高水平成果及国家自然科学奖获奖成果中，绝大多数均获得过科学基金资助。
-> - **科技体制与评价重塑** 彻底打破计划经济时代的部门所有制和行政分配格局，推动全国[[Research Universities|高水平大学]]与[[Chinese Academy of Sciences|中国科学院]]在同一学术平台上展开公开公平竞争，确立了中国现代科学研究以学术质量与同行评议为核心的评价准则。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 43)]]
+> - **学术与[[Knowledge Production|知识生产]]** 支持高校与科研院所学者在前沿自然科学领域取得系统性科研突破，中国学者在国际主流学术期刊发表的高水平成果及国家自然科学奖获奖成果中，绝大多数均获得过科学基金资助。
+> - **科技体制与评价重塑** 彻底打破计划经济时代的部门所有制和行政分配格局，推动全国高水平大学与[[Chinese Academy of Sciences|中国科学院]]在同一学术平台上展开公开公平竞争，确立了中国现代科学研究以学术质量与同行评议为核心的评价准则。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 43)]]
 
 > [!finding-cards] 关键成效与辐射影响
-> - **学术引领与范式转变** 在全社会普及并牢固确立了竞争性同行评议科学基金制[[Paradigm|范式]]，激活了高校科研队伍的学术自主性，推动中国基础科研向原始创新转型。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 43)]]
-> - **大学与科研院所良性竞争** 推动中国高水平研究型大学与中国科学院各研究所同台竞技，极大释放了大学体系内青年教师的科研生产力，为中国[[National Innovation System|国家创新体系]]培育了大批战略科学家。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 43)]]
-> - **青年人才创新生态塑造** 探索资助关口前移、滚动支持与过程性问诊机制，为有志于攀登科学高峰的青年科技人才提供抵御短期发文焦虑的制度支撑。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026, pp. 737–738)]]
+> - **学术引领与[[Paradigm|范式]]转变** 在全社会普及并牢固确立了竞争性同行评议科学基金制[[Paradigm|范式]]，激活了高校科研队伍的学术自主性，推动中国基础科研向原始创新转型。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 43)]]
+> - **大学与科研院所良性竞争** 推动中国高水平研究型大学与中国科学院各研究所同台竞技，极大释放了大学体系内青年教师的[[Scientific Productivity|科研生产力]]，为中国[[National Innovation System|国家创新体系]]培育了大批战略科学家。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 43)]]
+> - **青年人才[[Innovation Ecosystem|创新生态]]塑造** 探索资助关口前移、滚动支持与过程性问诊机制，为有志于攀登科学高峰的青年科技人才提供抵御短期发文焦虑的制度支撑。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026, pp. 737–738)]]
 
 ---
 
 > [!debates] 核心争议交锋
 >
 > > [!axis] 常规评审逆淘汰与原创非共识假说包容度争议
-> > 批评常规同行评审机制偏爱具有前期成果积累、低风险的渐进性研究，导致具备探索志趣与高风险潜质的慢热型学者面临评审逆淘汰。
+> > 批评常规同行评审机制偏爱具有前期成果积累、低风险的渐进性研究，导致具备探索[[Professional Interest|志趣]]与高风险潜质的慢热型学者面临评审逆淘汰。
 > >
 > > - **批评视角（反方）** 大样本实证表明，在以短期显性产出为主的常规评审中，追求长期高风险重大选题的青年学者获批基金数量显著偏少（$M = 0.85 < 0.95, p < 0.01$），容易因缺乏前期连续发文而在常规同行评议中受挫。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026, pp. 735–736)]]
 > > - **机构改革应对（正方）** 基金委推行原创探索计划项目，试点评审机制创新；同时在双清论坛设立原创思想专项打磨环节，建立非共识假说快速探索资助通道，降低对前期成果单薄的苛求。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026, p. 737)]]

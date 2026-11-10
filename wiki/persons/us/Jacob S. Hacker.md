@@ -9,7 +9,7 @@ summary: "美国政治学家，耶鲁大学政治学讲席教授，美国文理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Institutional Drift]]"
   - "[[Paradigm]]"
   - "[[Institutional Displacement]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Institutional Layering]]"
   - "[[Veto Possibilities]]"
 related_theories:
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -69,7 +70,7 @@ updated: 2026-10-30
 > - **1971** 出生于美国俄勒冈州尤金市。
 > - **1994** 于哈佛大学获社会研究学士学位（最优等）。
 > - **2000** 于耶鲁大学获政治学博士学位，受教于美国政治与[[Historical Institutionalism|历史制度主义]]学界前沿学者。
-> - **2002** 出版博士论文专著《分裂的福利国家：美国公共与私人社会福利的政治斗争》（剑桥大学出版社），获美国政治学会多项最佳著作奖。
+> - **2002** 出版[[Doctoral Dissertation|博士论文]]专著《分裂的福利国家：美国公共与私人社会福利的政治斗争》（剑桥大学出版社），获美国政治学会多项最佳著作奖。
 > - **2004** 发表论文《未私有化福利国家的风险私有化》（*Privatizing Risk without Privatizing the Welfare State*），首次系统形式化提出“[[Institutional Drift|政策漂移]]”（Policy Drift）机制。
 > - **2005** 在[[Wolfgang Streeck|施特雷克]]与希伦合编的《制度变迁的超越》中撰写核心章节《政策漂移：美国福利国家紧缩的隐秘政治》，提出“否决门槛 × 制度特征”双维变迁[[Analytic Framework|分析框架]]，被马奥尼与希伦（2009）直接吸收为理论原型。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 40–82)]]
 > - **2006** 出版专著《大风险转移》（*The Great Risk Shift*，牛津大学出版社），深刻论证美国中产阶级经济不安全感的制度根源，引发全美政策界巨大共鸣。

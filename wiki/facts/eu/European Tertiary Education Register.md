@@ -10,7 +10,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -22,6 +22,7 @@ tags:
   - theme/data-infrastructure
   - theme/higher-education
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Epistemic Infrastructure]]"
   - "[[Data Infrastructure]]"
   - "[[Document]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -125,7 +126,7 @@ updated: 2026-11-02
 > | [[Database of External Quality Assurance Results]] | Fact (Program) | 与 ETER 实现高校代码级互操作对接的欧洲质保报告数据库。 |
 > | [[European Quality Assurance Register for Higher Education]] | Fact (Organization) | 协同推进 DEQAR Connect 项目以对接 ETER 数据的欧洲质保注册实体。 |
 > | [[European Commission]] | Fact (Organization) | 发起设立并全额资助 ETER 数据库建设的超国家执行中枢。 |
-> | [[OECD]] | Fact (Organization) | 深度借鉴 ETER 微观数据库架构以拓展跨国教育统计分析的国际组织。 |
+> | [[OECD]] | Fact (Organization) | 深度借鉴 ETER 微观数据库架构以拓展[[Transnational Education\|跨国教育]]统计分析的国际组织。 |
 > | [[Epistemic Infrastructure]] | Concept | ETER 构成欧洲高等教育质量治理认识论基础设施中的基础底账与数字载体。 |
 > | [[Data Infrastructure]] | Concept | ETER 建设所体现的跨国教育数据基础设施标准化运作。 |
 > | [[European Education Area]] | Fact (Policy) | ETER 为欧盟推进 2030 欧洲教育区建设提供的微观统计基础。 |

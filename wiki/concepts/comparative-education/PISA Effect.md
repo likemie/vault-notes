@@ -9,7 +9,7 @@ aliases:
 summary: "比较教育政策社会学中的核心分析构念，指经合组织国际学生评估项目（PISA）对主权国家教育体系产生的深层制度化重组与长效治理效应；区别于短期的急性 PISA 震荡危机，该构念阐明 PISA 作为多标度政策工具如何通过跨国等价空间构建、数目化治理常态化以及产出导向标准化改革，驱动全球教育政策在表层话语趋同与深层制度同构"
 type: concept
 domain: "comparative-education"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Center of Calculation]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Whole Person Education]]"
+  - "[[Transnational Education]]"
   - "[[European Education Space]]"
   - "[[Subsidiarity Principle]]"
   - "[[Global Educational Policy Field]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-27
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -119,7 +120,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题一｜[[PISA]] 效应依托政策工具化重塑[[Pluri-Scalar Governance|多标度教育治理]]空间
-> **跨国软治理与空间重构** 探讨国际大型评估如何通过去立法的技术工具，在超国家与主权国家之间建立连通性，促成跨国教育治理空间的[[Institutional Isomorphism|制度同构]]。
+> **跨国软治理与空间重构** 探讨国际大型评估如何通过去立法的技术工具，在超国家与主权国家之间建立连通性，促成[[Transnational Education|跨国教育]]治理空间的[[Institutional Isomorphism|制度同构]]。
 
 > [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
 > **[[Governing by Numbers|数目化治理]]构建[[European Education Space|欧洲教育空间]]** 索蒂里亚·格雷克（[[Sotiria Grek]]）对芬兰、德国与英国的比较研究表明，PISA 不仅是一项统计测量，更构成了新型的政策技术装置。在[[EU|欧洲联盟]]层面，由于[[Subsidiarity Principle|辅助性原则]]限制了欧盟在教育事务上的直接立法权，[[European Commission|欧盟委员会]]通过与[[OECD|经合组织]]建立紧密的制度共生关系（分担 80% 的调研经费并高度依赖其指标体系），借助 PISA 效应成功推进了欧洲教育空间的实质整合。数据生产创造了共同的比较语言，使跨国[[Peer Debriefing|同行审议]]与最佳实践对标成为超越主权法律约束的规制力量。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–34)]]

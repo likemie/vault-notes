@@ -8,7 +8,7 @@ aliases:
 summary: "刻画学术科研人才从研究生入学、学位攻读、博士后科研训练至分流高校常任教职或实体产业的技术路线与劳动力流通模型。现代大科学体制下该管道呈现修业年限延长、学位淘汰率高企、终身教职出口严重收窄以及跨国制度吸纳能力分化的深层结构性危机（Cyranoski et al., 2011; Schillebeeckx et al., 2013; Wang & Barabási, 2021）。"
 type: concept
 domain: "higher-education"
-related_count: 20
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,7 +22,9 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Apprenticeship]]"
   - "[[Postdoctoral Pileup]]"
+  - "[[Scientific Mobility]]"
   - "[[Evidence Standards]]"
+  - "[[Early-Career Researchers]]"
   - "[[National Innovation System]]"
   - "[[Research Translation]]"
   - "[[Document]]"
@@ -47,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-31"
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -76,7 +78,7 @@ updated: 2026-11-03
 > | 维度 | 本概念（[[Academic Pipeline]]） | [[Postdoctoral Pileup]] | 学术漏斗（Academic Leaky Pipeline） |
 > |---|---|---|---|
 > | 考察范围 | 人才生产、科研训练与跨界分流全流程 | 博士毕业至常任教职之间的特定堆积阶段 | 女性与少数群体在特定晋升节点的系统性流失 |
-> | 核心关注 | 知识前沿负担、修业耗时与整体供需失衡 | 临时科研岗位的薪酬偏低与生涯延误惩罚 | 性别、种族等身份结构在学术流动中的代表性缺失 |
+> | 核心关注 | 知识前沿负担、修业耗时与整体供需失衡 | 临时科研岗位的薪酬偏低与生涯延误惩罚 | 性别、种族等身份结构在[[Scientific Mobility\|学术流动]]中的代表性缺失 |
 > | 分析视角 | 宏观科技[[Human Capital Theory\|人力资本]]再生产与产业溢出 | 中观实验室运作成本与劳动力非正规化 | 微观[[Organizational Culture\|组织文化]]偏见与无形歧视壁垒 |
 > | 政策落点 | 博士培养规模调控与产学协同就业吸纳 | 博士后最低薪资保障与常任教职名额拓宽 | 评审去偏、育儿支持与科研反歧视制度 |
 
@@ -102,7 +104,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题一｜知识存量膨胀与[[Evidence Standards|证据标准]]抬升系统性拉长了学术管道的学位修业周期
-> **认知负荷向人才培养环节的转嫁机制** 探讨学术界前沿拓展与期刊审稿证据要求如何演化为延长青年学者培养耗时的制度刚性。
+> **认知负荷向人才培养环节的转嫁机制** 探讨学术界前沿拓展与期刊审稿证据要求如何演化为延长[[Early-Career Researchers|青年学者]]培养耗时的制度刚性。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Cyranoski et al. (2011)]]
 > **博士修业年限普遍延长与高淘汰率** 戴维·西兰诺斯基（David Cyranoski）等学者测定指出，面对不断外推的知识前沿，2007 年全美科学与工程博士毕业中位年限已攀升至 7.2 年，超过 55% 的学生耗时 7 年以上；仅有不足 25% 的学生能在名义宣传的 5 年内毕业，全美 40% 至 50% 的注册生最终无法完成学业，确立了学术管道入口端极高的沉没成本。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Cyranoski et al., 2011, via Wang & Barabási, 2021, p. 167)]]

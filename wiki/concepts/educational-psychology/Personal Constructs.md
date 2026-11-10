@@ -6,7 +6,7 @@ aliases:
 summary: "George Kelly的个人建构理论中的基本分析单位——个体用于概念化日常世界的双极维度。"
 type: concept
 domain: "educational-psychology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,16 +30,18 @@ related_methods:
   - "[[Pyramiding]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]]"
+related_facts:
+  - "[[Dimensions]]"
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Personal Constructs
-> 个人建构是个体用于概念化日常生活中各个方面的维度（dimensions）。它们是 [[Personal Construct Theory\|个人建构理论]] 中的基本[[Unit of Analysis\|分析单位]]——个体通过建构系统来预测事件、预演情境，并在行为之前进行心理模拟。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 4–5)]]
+> 个人建构是个体用于概念化日常生活中各个方面的维度（[[Dimensions|dimensions]]）。它们是 [[Personal Construct Theory\|个人建构理论]] 中的基本[[Unit of Analysis\|分析单位]]——个体通过建构系统来预测事件、预演情境，并在行为之前进行心理模拟。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 4–5)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 个人建构是每个人独有的意义维度。它们是个体用来理解、预测和组织其经验的主观工具，有别于客观存在于世界中的分类。

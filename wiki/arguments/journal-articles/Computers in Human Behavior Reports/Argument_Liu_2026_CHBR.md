@@ -7,7 +7,7 @@ title: "Argument_Liu_2026_CHBR"
 argument_key: "Argument_Liu_2026_CHBR"
 argument_display_title: "Meta-analysis on the influence of AI agents on K-12 student cognitive performance"
 argument_kind: "journal-article"
-argument_related_count: 70
+argument_related_count: 72
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -60,6 +60,7 @@ related_concepts:
   - "[[General Education]]"
   - "[[Divergent Thinking]]"
   - "[[Literature Search]]"
+  - "[[Homophily]]"
   - "[[Dynamic Assessment]]"
   - "[[Problem Solving]]"
   - "[[Cognitive Offloading]]"
@@ -103,6 +104,7 @@ related_instruments:
   - "[[Computational Thinking Scale]]"
   - "[[PRISMA]]"
 related_arguments:
+  - "[[Argument_Chen_2025_HSSC]]"
   - "[[Argument_Liu_2025_IndHE]]"
 status: draft
 tags:
@@ -113,7 +115,7 @@ tags:
   - method/meta-analysis
   - method/quantitative
 created: 2026-08-25
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
@@ -149,8 +151,8 @@ updated: 2026-10-30
 > |---|---|---|
 > | **[[Higher-Order Thinking Skills\|高阶思维技能]]**<br>（Higher-Order Thinking, HOTS） | 依据布鲁姆修订版认知目标分类学的高阶层级（分析、评价、创造），指在复杂劣构情境中超越机械识记与常规运算的深层认知加工能力，涵盖批判性思维、[[Computational Thinking\|计算思维]]、科学探究推理与发散[[Creativity\|创造力]]。 | **测量工具与量规** 表现性评估量规、开放式探究项目评审、加州批判性思维倾向问卷（[[California Critical Thinking Disposition Inventory\|California Critical Thinking Disposition Inventory, CCTDI]]）、沃森-格拉瑟批判性思维测验（[[Watson-Glaser Critical Thinking Appraisal\|Watson-Glaser Critical Thinking Appraisal, WGCTA]]）、计算思维量表（[[Computational Thinking Scale\|Computational Thinking Scale, CTS]]）；<br>**纳入案例** 协作绘画发散创造力评估（Ali et al., 2021, $g = 0.63$）；植物多样性科学探究与推理评估（Liang et al., 2024, $g = 0.08$）；计算思维高阶问题解决测试（Huang & Qiao, 2024, $g = 0.64$; Hsu & Hsu, 2025, $g = 0.40$）；反思性代码调试（Fang et al., 2025, $g = 0.40$）；共纳入 13 个效应量，加权平均 $g = 0.540$。 |
 > | **[[Procedural Skill\|技能类认知结果（程序技能）]]**<br>（Skill-Based Outcomes） | 评估学习者应用[[Procedural Knowledge\|程序性知识]]、执行标准化操作规则及解决良构问题的熟练程度与自动化水平，涵盖解题技巧、编程技能、口语听说流利度、阅读技能与四则运算操作。 | **测量工具与形式** 标准化上机测试、编程代码单元测试通过率、每分钟正确阅读字数（Words Correct Per Minute, WCPM）测算、学科标准化解题测试；<br>**纳入案例** 自动化 Python 代码测试（Fang et al., 2025, $g = 0.40$; Ye et al., 2025, $g = 0.16$）；英语作为外语（English as a Foreign Language, EFL）口语阅读流利度（Elmaadaway et al., 2025, $g = 2.12$）；双语伴读听说训练（Feng & Wang, 2023, $g = 0.76$）；数学自适应解题（Tasdelen & Bodemer, 2025, $g = 0.21$）；共纳入 42 个效应量，加权平均 $g = 0.391$。 |
-> | **知识类认知结果**<br>（Knowledge-Based Outcomes） | 评估学习者对学科事实性信息、专有名词、核心术语及陈述性概念知识的再认、回忆与基本领会程度，属于布鲁姆认知目标分类的记忆与理解层级。 | **测量工具与形式** 标准化纸笔客观题、单选题与多选题、术语匹配测验、填空题与概念召回测试；<br>**纳入案例** 哈萨克语字母识记与笔画书写测验（Zhexenova et al., 2020, $g = 0.17$）；历史艺术事实知识测验（Chen et al., 2025, $g = 0.52$）；电磁学概念掌握测验（Alneyadi & Wardat, 2023, $g = 0.51$）；EFL 词汇自适应习得（Liu & Chen, 2023, $g = 0.45$）；共纳入 18 个效应量，加权平均 $g = 0.344$。 |
-> | **[[Intelligent Tutoring Systems\|智能导师系统]]**<br>（Intelligent Tutoring Systems, ITS） | 基于领域知识图谱、学生认知状态模型与教学决策算法构建的结构化导学系统；能够细粒度追踪学习者答题步骤，提供自适应规则分流与分步解题提示。 | **教学规程** 题项级诊断测试 $\to$ 错误归因分析 $\to$ 递进线索脚手架（微提示、中提示、底线解析） $\to$ 自适应变式强化；<br>**纳入案例** 数学自适应问题解决平台（Tasdelen & Bodemer, 2025, $g = 0.21$）；代数几何自适应导师（Xing et al., 2025, $g = 0.01$; Khazanchi et al., 2025, $g = 0.05$）；历史导学系统（Chen et al., 2025, $g = 0.52$）；共纳入 10 个效应量，加权平均 $g = 0.540$。 |
+> | **知识类认知结果**<br>（Knowledge-Based Outcomes） | 评估学习者对学科事实性信息、专有名词、核心术语及陈述性概念知识的再认、回忆与基本领会程度，属于布鲁姆认知目标分类的记忆与理解层级。 | **测量工具与形式** 标准化纸笔客观题、单选题与多选题、术语匹配测验、填空题与概念召回测试；<br>**纳入案例** 哈萨克语字母识记与笔画书写测验（Zhexenova et al., 2020, $g = 0.17$）；历史艺术事实知识测验（[[Argument_Chen_2025_HSSC\|Chen et al., 2025]], $g = 0.52$）；电磁学概念掌握测验（Alneyadi & Wardat, 2023, $g = 0.51$）；EFL 词汇自适应习得（Liu & Chen, 2023, $g = 0.45$）；共纳入 18 个效应量，加权平均 $g = 0.344$。 |
+> | **[[Intelligent Tutoring Systems\|智能导师系统]]**<br>（Intelligent Tutoring Systems, ITS） | 基于领域知识图谱、学生认知状态模型与教学决策算法构建的结构化导学系统；能够细粒度追踪学习者答题步骤，提供自适应规则分流与分步解题提示。 | **教学规程** 题项级诊断测试 $\to$ 错误归因分析 $\to$ 递进线索脚手架（微提示、中提示、底线解析） $\to$ 自适应变式强化；<br>**纳入案例** 数学自适应问题解决平台（Tasdelen & Bodemer, 2025, $g = 0.21$）；代数几何自适应导师（Xing et al., 2025, $g = 0.01$; Khazanchi et al., 2025, $g = 0.05$）；历史导学系统（[[Argument_Chen_2025_HSSC\|Chen et al., 2025]], $g = 0.52$）；共纳入 10 个效应量，加权平均 $g = 0.540$。 |
 > | **[[Educational Robotics\|人工智能教育机器人]]**<br>（AI Educational Robotics） | 具备拟人化物理具身或外显虚拟实体的智能交互中介；通过语音指令、面部表情、手势动作与触控多模态感知，提供伴读辅导与[[Dialogue in Education\|对话]]探究。 | **教学规程** 具身手势示范 $\to$ 双语认读纠音 $\to$ 多模态情感激励 $\to$ 合作式角色扮演游戏；<br>**纳入案例** 伴读机器人辅助哈萨克语书写与认读（Zhexenova et al., 2020, $g = 0.17$）；人机双语伴读（Feng & Wang, 2023, $g = 0.76$）；卡牌算术自适应对战（Pareto et al., 2022, $g = 0.24$）；共纳入 16 个效应量，加权平均 $g = 0.474$。 |
 > | **[[Generative AI Agent in Education\|生成式智能体]]**<br>（Generative AI Agents, GenAI Agents） | 基于大型语言模型（Large Language Models, LLM）或多模态生成架构的开放式智能交互系统；支持自然语言问答、代码辅助调试、写作支架生成与探究任务共创。 | **教学规程** 开放式追问 $\to$ 代码反思性调试 $\to$ 生成式图像辅助计算思维 $\to$ 写作分步润色与头脑风暴；<br>**纳入案例** 结合反思策略的 Python 编程调试智能体（Fang et al., 2025, $g = 0.40$）；生成式 AI 绘图与计算思维（Hsu & Hsu, 2025, $g = 0.40$）；EFL 写作辅助（Pei et al., 2025, $g = 0.45$）；共纳入 17 个效应量，加权平均 $g = 0.421$。 |
 > | **[[Conversational AI in Education\|对话式智能体]]**<br>（Conversational AI Agents） | 依托自然语言理解（Natural Language Understanding, NLU）与语音识别驱动的文本或语音聊天机器人；支持多轮任务型与闲聊型对话，提供即时语法与发音矫正反馈。 | **教学规程** 拟真口语会话情境 $\to$ 实时词汇与句式提示 $\to$ 发音流利度自动评分 $\to$ 自适应语料推送；<br>**纳入案例** 智能语音聊天机器人训练 EFL 口语流利度（Elmaadaway et al., 2025, $g = 2.12$）；段落写作助手（Sapan & Uzun, 2024, $g = 0.08$）；古诗词交互式教学（Chen et al., 2024, $g = 1.15$）；共纳入 30 个效应量，加权平均 $g = 0.468$。 |
@@ -193,7 +195,7 @@ updated: 2026-10-30
 > | **Tong et al. (2025)** | 中国 | 115 (未报告) | 高中学段 | 物理（科学解题与探究） | 未报告 (120分/次) | 技能类 + 高阶思维 (2) | -0.73 | 0.04 |
 > | **Pei et al. (2025)** | 中国 | 99 (未报告) | 高中学段 | EFL 英语（[[Generative Artificial Intelligence\|生成式 AI]] 写作辅助） | 2周 (13课时, 40分/次) | 技能类 (1) | 0.45 | 0.04 |
 > | **Tasdelen and Bodemer (2025)** | 德国 | 114 (59/55) | 高小学段 | 数学（自适应解题支架） | 未报告 (60分/次) | 技能类 (1) | 0.21 | 0.04 |
-> | **Chen et al. (2025)** | 中国 | 66 (30/36) | 初中阶段 | 历史（基于艺术的智能导学系统） | 8周 | 技能类 (1) | 0.52 | 0.06 |
+> | **[[Argument_Chen_2025_HSSC\|Chen et al. (2025)]]** | 中国 | 66 (30/36) | 初中阶段 | 历史（基于艺术的智能导学系统） | 8周 | 技能类 (1) | 0.52 | 0.06 |
 > | **Chen and Liu (2024)** | 中国 | 81 (40/41) | 初中阶段 | 生物（细胞分裂交互模拟） | 2周 (135分/次) | 技能类 (1) | 0.42 | 0.05 |
 > | **Ye et al. (2025)** | 中国 | 75 (39/36) | 初中阶段 | 计算机科学（Python 基础与[[Computational Thinking\|计算思维]]） | 11周 (11课时, 40分/次) | 技能类 + 高阶思维 (2) | 0.16 | 0.05 |
 > | **Liu et al. (2024)** | 中国 | 65 (0/65) | 高小学段 | EFL 英语（写作发展支架） | 5周 (10课时) | 技能类 (1) | 0.31 | 0.06 |
@@ -246,7 +248,7 @@ updated: 2026-10-30
 > [!chain-link] 总体[[Effect Size\|效应量]]分布与高[[Heterogeneity\|异质性]]分解
 > - **加权合并效应量** [[Fixed-Effect Model|固定效应模型]]下 $g = 0.269$ $[0.221, 0.316]$，随机效应模型下 $g = 0.404$ $[0.242, 0.567]$，证实 AI 智能体干预显著优于传统常规教学。
 > - **效应量分布区间** 在纳入的 73 个观测效应量中，17.81%（13个）为大效应（$g \ge 0.8$），10.95%（8个）为中等效应（$0.5 \le g < 0.8$），21.92%（16个）为小效应（$0.2 \le g < 0.5$），49.32%（36个）为微弱或负向效应（$g < 0.2$）。
-> - **实质异质性检验** 同质性检验显示极显著的高异质性（$Q = 813.560, \text{df} = 72, p < .001, I^2 = 91.2\%, \tau^2 = 0.448$），表明初级研究间的效应差异不能归结为抽样误差，必须采用随机效应模型并进一步开展亚组调节分析。
+> - **实质异质性检验** [[Homophily|同质性]]检验显示极显著的高异质性（$Q = 813.560, \text{df} = 72, p < .001, I^2 = 91.2\%, \tau^2 = 0.448$），表明初级研究间的效应差异不能归结为抽样误差，必须采用随机效应模型并进一步开展亚组调节分析。
 
 > [!ma-table]- 表3：同质性检验结果与加权合并效应量
 > | 模型 | Hedges' $g$ | 95% [[Confidence Interval\|置信区间]] | $Q$ 统计量 | $I^2$ | 自由度 $\text{df}$ | $p$ 值 | $\tau^2$ | $\text{SE}(\tau^2)$ | $\tau$ |

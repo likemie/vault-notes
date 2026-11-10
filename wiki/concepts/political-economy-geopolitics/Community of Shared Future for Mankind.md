@@ -9,7 +9,7 @@ aliases:
 summary: "当代中国外交战略与全球治理哲学的核心话语纲领与社会想象（Social Imaginary）。主张超越传统零和博弈与西方中心主义霸权逻辑，追求持久和平、普遍安全、共同繁荣、开放包容与清洁美丽的全球治理新秩序；在对外政策与教育出海实践中，作为核心激励性框架（Motivational Framing），赋予国家倡议以道德崇高性与多边共赢正当性。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 31
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Social Imaginary]]"
   - "[[Washington Consensus]]"
+  - "[[Transnational Education]]"
   - "[[Policy Framing]]"
   - "[[South-South Cooperation]]"
   - "[[People-to-People Connectivity]]"
@@ -31,6 +32,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Knowledge Diplomacy]]"
   - "[[International Education]]"
+  - "[[Quasi-market]]"
   - "[[Discourse]]"
   - "[[Geopolitics]]"
   - "[[Education Going Global]]"
@@ -60,13 +62,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Community of Shared Future for Mankind
-> **人类命运共同体（Community of Shared Future for Mankind，早期译为 Community of Shared Destiny）** 是当代中国外交哲学、对外大战略与全球治理愿景的顶层叙事核心与全局性[[Social Imaginary|社会想象]]（Social Imaginary）。由中国最高决策层系统阐发并写入宪法序言与执政纲领，旨在倡导建立一个持久和平、普遍安全、共同繁荣、开放包容、清洁美丽的世界。在[[Discourse Analysis|话语分析]]与政策社会学视阈下，该概念构成了中国应对西方[[Washington Consensus|华盛顿共识]]失灵与全球治理赤字的替代性意识形态方案；在“[[Belt and Road Initiative|一带一路]]”倡议及跨国教育扩张中，它充当了核心的[[Policy Framing|激励性框架]]（Motivational Framing），通过强化[[South-South Cooperation|南南合作]]、文明互鉴与[[People-to-People Connectivity|民心相通]]等包容性修辞，赋予国家主导的对外战略行动以崇高的道德号召力与多边合法性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 682, 684, 688–691)]]
+> **人类命运共同体（Community of Shared Future for Mankind，早期译为 Community of Shared Destiny）** 是当代中国外交哲学、对外大战略与全球治理愿景的顶层叙事核心与全局性[[Social Imaginary|社会想象]]（Social Imaginary）。由中国最高决策层系统阐发并写入宪法序言与执政纲领，旨在倡导建立一个持久和平、普遍安全、共同繁荣、开放包容、清洁美丽的世界。在[[Discourse Analysis|话语分析]]与政策社会学视阈下，该概念构成了中国应对西方[[Washington Consensus|华盛顿共识]]失灵与全球治理赤字的替代性意识形态方案；在“[[Belt and Road Initiative|一带一路]]”倡议及[[Transnational Education|跨国教育]]扩张中，它充当了核心的[[Policy Framing|激励性框架]]（Motivational Framing），通过强化[[South-South Cooperation|南南合作]]、文明互鉴与[[People-to-People Connectivity|民心相通]]等包容性修辞，赋予国家主导的对外战略行动以崇高的道德号召力与多边合法性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 682, 684, 688–691)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种将全人类生存繁衍、经济互惠与文明共存视为高度相互依存有机整体的全球治理[[Epistemology|认识论]]构想。
@@ -90,7 +92,7 @@ updated: 2026-11-03
 > | **核心价值前提** | 主权平等、共商共建共享、多元文明互鉴 | 普世人权、自由民主体制、自由放任市场化 | 国家生存优先、权力最大化、无政府自助 |
 > | **治理动力机制** | 发展优先、政府主导的大型基础设施与产业协同 | 私有化、市场去监管、跨国跨界资本自由流动 | 军事威慑、地缘防务集团化、均势遏制 |
 > | **教育与知识角色** | [[Knowledge Diplomacy\|知识外交]]、民心相通纽带、发展经验双向互鉴 | [[International Education\|国际教育]]产业化、[[Academic Capitalism\|学术资本主义]]、全球人才争夺 | 国防科技封锁、战略前沿技术断供、防范渗透 |
-> | **在批判视角中的功能** | 充当国家大战略出海的道德正当性与激励性修辞 | 确立全球新自由主义高等教育评价与准市场霸权 | 强化冷战式地缘阵营审查与学术交流政治化限制 |
+> | **在批判视角中的功能** | 充当国家大战略出海的道德正当性与激励性修辞 | 确立全球新自由主义高等教育评价与[[Quasi-market\|准市场]]霸权 | 强化冷战式地缘阵营审查与学术交流政治化限制 |
 
 ---
 

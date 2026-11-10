@@ -5,7 +5,7 @@ aliases:
 summary: "解释后社会主义社会精英流动如何沿政治管理路径与专业技术路径分化展开的理论，用于分析教育、身份与职业机会的不同连接方式"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 11
+theory_related_count: 12
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -16,6 +16,7 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
+  - "[[Cumulative Innovation]]"
   - "[[Graduation Pathway Typology]]"
   - "[[Value Conformist Mode]]"
   - "[[Discourse]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-08'
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!info] 核心主张
@@ -47,7 +48,7 @@ updated: 2026-10-22
 > [!abstract] 核心命题
 > - **路径分立** 政治精英和技术精英两种职业路径在准入条件、选拔机制和职业轨迹上有系统性的区别——前者以政治忠诚（党员身份）为核心凭证，后者以教育文凭为门槛条件（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Walder et al., 2000）
 > - **路径的低流动性** 在 Walder 研究覆盖的半个世纪中，专业技术精英和政治管理精英之间很少发生横向转换（，引 Walder et al., 2000）
-> - **代际间的路径交换**郑辉和李路路（2009）的后续研究发现，精英群体在代际之间并非保持着二元路径的分立传递——两类精英的下一代在两条路径之间实现了自由交换。这意味着精英身份的代际再生产不一定锁定在原有路径类型上（，引郑辉和李路路，2009）
+> - **代际间的路径交换**郑辉和李路路（2009）的[[Cumulative Innovation|后续研究]]发现，精英群体在代际之间并非保持着二元路径的分立传递——两类精英的下一代在两条路径之间实现了自由交换。这意味着精英身份的代际再生产不一定锁定在原有路径类型上（，引郑辉和李路路，2009）
 >
 
 ## 对名校毕业生的意涵

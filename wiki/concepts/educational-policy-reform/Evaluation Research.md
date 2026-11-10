@@ -7,7 +7,7 @@ aliases:
 summary: "运用社会科学研究方法回答特定政策或项目之有效性、实施与效果的应用研究分支；在分类资助驱动下成为政策议程塑形知识生产的重要载体（Cohen et al., 2011），与探索普遍规律的蓝天研究共享方法论工具但以决策效用为归宿，其结论采纳高度受制于政治契合度与方法学因果证据门槛（Berk, 2011）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 32
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Conformative Evaluation]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Ontology]]"
+  - "[[Concept Mapping]]"
   - "[[Document]]"
   - "[[Literature Review]]"
   - "[[Attrition]]"
@@ -42,6 +43,7 @@ related_arguments:
   - "[[Argument_Berk_2011_EvalRev]]"
   - "[[Argument_Gorard_2020_ROE]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
+  - "[[Argument_Volmari_2025_CE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
 related_methods:
@@ -49,13 +51,15 @@ related_methods:
   - "[[Regression Discontinuity Design]]"
   - "[[Random Assignment]]"
   - "[[Effect Size]]"
+  - "[[Bibliometric Analysis]]"
 related_facts:
   - "[[Coleman Report 1966]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Danish Evaluation Institute]]"
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -186,11 +190,11 @@ updated: 2026-11-10
 
 ---
 
-> [!entry-map] 概念图谱
+> [!entry-map] [[Concept Mapping|概念图]]谱
 > - 上位概念：[[Scientific Method|科学方法]] · [[Epistemic Governance|认知治理]]
 > - 核心维度：[[Counterfactual|反事实]]因果设计 · 政策效用 · 合同制资助
 > - 对立/辨析概念：[[Curiosity-Driven Research|好奇心驱动研究]] · [[Pure Evaluation|纯粹评价]] · [[School Inspection|学校督导]]
-> - 实践载体与效应：[[Randomised Controlled Trials|随机对照试验]] · [[Evidence-Based Policy-Making|循证政策制定]] · [[Policy-Based Evidence-Making|基于政策的证据炮制]]
+> - 实践载体与效应：[[Randomised Controlled Trials|随机对照试验]] · [[Evidence-Based Policy-Making|循证政策制定]] · 基于政策的证据炮制
 
 ---
 
@@ -203,7 +207,7 @@ updated: 2026-11-10
 > |---|---|---|---|---|---|---|
 > | [[Argument_Gorard_2020_ROE\|Gorard et al. (2020, pp. 576, 597)]] | 国际核心学术期刊收录的 324 项基础教育实证干预评估[[Document\|文献]] | 系统[[Literature Review\|文献综述]]与因果推断设计质量审查 | 反事实因果设计达标率、[[Attrition\|样本流失]]率与威胁效度因素 | 仅 33 篇评估研究（10.2%）达到最低反事实因果设计标准；近九成文献存在严重选择偏差或样本流失缺陷 | 全样本系统审查 | 实证揭示教育评估研究在因果推断质量上普遍存在的方法学短板 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, pp. 48–49)]] | 英格兰教育捐赠基金会（EEF）资助的中小学实证干预项目（截至 2020 年） | 机构运行监测与评估项目库统计 | 合作学校覆盖量、受惠学生规模与独立评估项目数 | 超过 14,000 所学校（占英格兰公立中小学半数以上）及 158 万名儿童青少年参与 EEF 资助的独立评估研究 | 官方机构普查记录 | 展现了证据中介机构推动大规模标准化评估研究制度化的实际规模 |
-> | [[Argument_Volmari_2025_CE\|Volmari et al. (2025, pp. 538–540)]] | 丹麦、芬兰、挪威 16 份基础教育改革核心官方文献（含 1,385 条参考文献） | 混合文献计量与知识社会学政策分析 | 官方评估报告在政策循证论述中的引用占比与学术期刊对照 | 丹麦 2014 年改革高度依赖国家评估机构（如丹麦评估研究所 EVA）委托报告（灰色文献占比 61.1%，同行评议学术期刊仅占 13.9%）；挪威（2020）评估与咨询报告占 67.7%（学术期刊占 14.5%） | 跨国比较全样本的文献计量分析 | 揭示国家评估研究在政策制定中多充当工具性与象征性合法化载体，受托评估往往呈现议题设置驱动特征 |
+> | [[Argument_Volmari_2025_CE\|Volmari et al. (2025, pp. 538–540)]] | 丹麦、芬兰、挪威 16 份基础教育改革核心官方文献（含 1,385 条参考文献） | 混合文献计量与知识社会学政策分析 | 官方评估报告在政策循证论述中的引用占比与学术期刊对照 | 丹麦 2014 年改革高度依赖国家评估机构（如丹麦评估研究所 EVA）委托报告（灰色文献占比 61.1%，同行评议学术期刊仅占 13.9%）；挪威（2020）评估与咨询报告占 67.7%（学术期刊占 14.5%） | 跨国比较全样本的[[Bibliometric Analysis\|文献计量分析]] | 揭示国家评估研究在政策制定中多充当工具性与象征性合法化载体，受托评估往往呈现议题设置驱动特征 |
 
 ---
 
@@ -212,4 +216,4 @@ updated: 2026-11-10
 > - [[Argument_Berk_2011_EvalRev|Berk (2011)]] — 结合数十年编审实践，阐发评估研究中因果推断防线的重要性，提出团队化专业评估以抵御政策伪科学。
 > - [[Argument_Gorard_2020_ROE|Gorard et al. (2020)]] — 大规模系统审查基础教育干预评估研究，揭示仅一成研究达到反事实因果标准的严峻现实。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 追踪英格兰 EEF 评估研究体系的发展历程，实证展现专业证据中介在大规模 [[Randomised Controlled Trials|RCT]] 评估中的制度运作。
-> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 比较北欧三国教育改革循证实践，实证揭示国家评估机构（如丹麦 EVA）受托评估报告在政策合法化中的主导地位与同行评议学术研究的边缘化。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 比较北欧三国教育改革循证实践，实证揭示国家评估机构（如丹麦 [[Danish Evaluation Institute|EVA]]）受托评估报告在政策合法化中的主导地位与同行评议学术研究的边缘化。

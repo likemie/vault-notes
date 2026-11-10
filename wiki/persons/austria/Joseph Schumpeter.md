@@ -3,7 +3,7 @@ summary: "奥地利裔美国著名经济学家，演化经济学与现代创新�
 type: person
 nationality: austria
 person_region: "austria"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -36,10 +36,12 @@ related_persons:
   - "[[Immanuel Kant]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
+related_facts:
+  - "[[Dimensions]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-30
+updated: 2026-11-11
 title: Joseph Schumpeter
 aliases:
   - "Schumpeter, J."
@@ -63,7 +65,7 @@ aliases:
 
 > [!feature] 熊彼特经济学的四大核心理论构件
 > - **[[Creativity|创造性]]破坏（[[Creative Destruction]]）** 在《资本主义、社会主义与民主》（*Capitalism, Socialism and Democracy*, 1942）中提出，论证经济增长源于创新对既有市场结构与技术[[Paradigm|范式]]的革命性淘汰，而非静态价格竞争。
-> - **创新的概念与五种形式（Five Dimensions of Innovation）** 在《经济发展理论》（1911）中将创新界定为“建立一种新的生产函数”，涵盖：
+> - **创新的概念与五种形式（Five [[Dimensions]] of Innovation）** 在《经济发展理论》（1911）中将创新界定为“建立一种新的生产函数”，涵盖：
 >   1. 引入一种新产品或新质量；
 >   2. 采用一种新生产方法或工艺；
 >   3. 开辟一个新市场；

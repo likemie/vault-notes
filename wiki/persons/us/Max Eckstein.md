@@ -9,7 +9,7 @@ summary: "美籍著名比较教育学家，纽约城市大学皇后学院教育�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 54
+person_related_count: 55
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Comparative History of Comparative Education]]"
   - "[[Scientific Paradigm]]"
+  - "[[Nationalism]]"
   - "[[Academic Achievement]]"
   - "[[Policy Borrowing]]"
   - "[[Social Science as Legitimation Alibi]]"
@@ -44,11 +45,11 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Operationalization]]"
   - "[[Epistemology]]"
+  - "[[Transnational Education]]"
   - "[[Champ]]"
   - "[[Super Ties in Science]]"
   - "[[Critical Dualism]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
-  - "[[Geisteswissenschaften]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
@@ -86,7 +87,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-05
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -119,7 +120,7 @@ updated: 2026-11-02
 ---
 
 > [!thought-timeline] 思想发展
-> - **1960年代 — 科学实证规程构建与学科起源编纂** 回应早期比较教育充斥主观描述和民族主义偏见的缺陷，主张以可操作[[Variable|变量]]和经验指标重新武装比较研究。
+> - **1960年代 — 科学实证规程构建与学科起源编纂** 回应早期比较教育充斥主观描述和[[Nationalism|民族主义]]偏见的缺陷，主张以可操作[[Variable|变量]]和经验指标重新武装比较研究。
 >   - **代表著作** *Toward a Science of Comparative Education* (1969); *Scientific Investigations in Comparative Education* (1969). [[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 7)]]; [[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, p. 53)]]
 >   - **关键方法** 跨国经验调查、假说检验模型、[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]函数共变分析、量化统计控制。
 >   - **阶段转向** 确立学科从见闻、借用、因素分析走向实证科学的四阶段规律，将教育命题形式化为函数共变关系，借助统计技术清洗主观偏见与任意武断，在解释的终极目标下为战后宏观教育规划提供实用咨询依据。Noah & Eckstein (1969, pp. 58, 93–96), 引自 [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 62, 64–66)]]
@@ -168,7 +169,7 @@ updated: 2026-11-02
 ---
 
 > [!influence-path] 影响路径
-> - **[[Positivism|实证主义范式]]推广** 与诺亚共同倡导的[[Scientific Paradigm|科学范式]]，深刻重塑了 1970–1980 年代北美及国际比较教育研究的主流取向，直接催化了大规模跨国教育测评（如 [[IEA]]）的理论与方法基础；
+> - **[[Positivism|实证主义范式]]推广** 与诺亚共同倡导的[[Scientific Paradigm|科学范式]]，深刻重塑了 1970–1980 年代北美及国际比较教育研究的主流取向，直接催化了大规模[[Transnational Education|跨国教育]]测评（如 [[IEA]]）的理论与方法基础；
 > - **学科合法性建构** 其合作著作为后继学者提供了清晰、自信的学科起源图景，在二战后高等教育扩张期有效奠定了学科的建制地位；
 > - **学会组织领导** 长期活跃于 [[Comparative and International Education Society|CIES]] 核心领导层并出任会长，推动学会与国际测量组织及各大学术研究机构的跨界协同；
 > - **史学反思的论辩起点** 考恩将 Noah & Eckstein 的经典起源叙事视为学科合法化历史的典范，但同时也指出必须超越这种单一功能性叙事，走向多中心与批判反思的[[Comparative History of Comparative Education|比较教育学比较史]]。

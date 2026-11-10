@@ -12,7 +12,7 @@ subtype: policy
 region: europe
 fact_region: "europe"
 fact_kind: "policy"
-fact_related_count: 54
+fact_related_count: 55
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Research Universities]]"
   - "[[Subsidiarity Principle]]"
+  - "[[Transnational Education]]"
   - "[[Competitiveness]]"
   - "[[Peer Pressure]]"
   - "[[Employability]]"
@@ -88,7 +89,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-29
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -97,7 +98,7 @@ updated: 2026-11-02
 > - **发布时间 / 发布主体** 1999 年 6 月，欧洲 29 国教育部长在意大利博洛尼亚大学共同签署《博洛尼亚宣言》（Bologna Declaration），正式启动该进程；此前 1998 年由法、德、意、英四国教育部长签署的《索邦宣言》（Sorbonne Declaration）确立了建设[[Europe of Knowledge|知识欧洲]]的基调并构成直接先导；随后[[European Commission|欧盟委员会]]由最初的审慎转向积极介入，将博洛尼亚进程与面向普通教育的里斯本进程、面向职业培训的[[Copenhagen Process|哥本哈根进程]]并列为重塑欧洲教育版图的三大支柱。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480, 488–490)]]
 > - **适用地区 / 对象** 欧洲高等教育区 49 个成员国（覆盖[[EU|欧盟]]与非欧盟泛欧国家）、全境高等教育机构、研究人员与大学生群体。
 > - **问题背景** 冷战结束后欧洲经济与政治一体化迅猛推进，但各国高等教育体系高度封闭且充满[[Heterogeneity|异质性]]（学制长短不一、学位缺乏可比性、学分互不承认），构成了阻碍专业人才自由流动与劳动力市场一体化的核心制度壁垒；同时面对北美[[Research Universities|研究型大学]]的全球学术与科技竞争压力，欧洲迫切需要打破碎片化割裂格局、构建具备规模效应与国际吸引力的“欧洲高等教育区”（EHEA）。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
-> - **制度位置** 《欧洲联盟运作条约》第 165 条确立的教育[[Subsidiarity Principle|辅助性原则]]明确排除了超国家统一立法的可能性；博洛尼亚进程作为政府间自愿发起的柔性协调网络，为绕开立法禁区、实现跨国高等教育趋同提供了关键战略通道。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
+> - **制度位置** 《欧洲联盟运作条约》第 165 条确立的教育[[Subsidiarity Principle|辅助性原则]]明确排除了超国家统一立法的可能性；博洛尼亚进程作为政府间自愿发起的柔性协调网络，为绕开立法禁区、实现[[Transnational Education|跨国高等教育]]趋同提供了关键战略通道。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
 
 ---
 

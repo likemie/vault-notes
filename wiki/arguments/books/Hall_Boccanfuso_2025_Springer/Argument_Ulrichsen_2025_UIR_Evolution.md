@@ -9,7 +9,7 @@ title: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_key: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_display_title: "Evolution of university-industry relationships for driving innovation"
 argument_kind: "book"
-argument_related_count: 46
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#ede9fe"
@@ -50,7 +50,9 @@ related_concepts:
   - "[[Innovation Park]]"
   - "[[Research Universities]]"
   - "[[Knowledge Transfer]]"
+  - "[[Lecturing]]"
   - "[[Technology Infusion]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Executive Education]]"
   - "[[Professors of Practice]]"
   - "[[Seed Funding]]"
@@ -80,7 +82,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-27
-updated: 2026-10-30
+updated: 2026-11-11
 year: 2025
 doi: ""
 citation_aliases:
@@ -235,7 +237,7 @@ Schot and Steinmueller(2018)与 Lindner et al.(2024)识别出三个政策[[Parad
 
 **转变二：关系型互动取代交易型互动成为主导。** 这是四个转变中最根本的一个，因为它代表了合作性质的变化(pp.44–45)。
 
-交易型互动的特征是企业提供资金、大学执行研究、交付报告后合作结束，下次有需求时重新寻找合作方。关系型互动的特征则是建立长期伙伴关系，包括联合实验室、联合聘任研究人员、博士生在企业完成论文、企业科学家在大学兼职讲课、知识产权框架性协议替代逐项谈判等。
+交易型互动的特征是企业提供资金、大学执行研究、交付报告后合作结束，下次有需求时重新寻找合作方。关系型互动的特征则是建立长期伙伴关系，包括联合实验室、联合聘任研究人员、博士生在企业完成论文、企业科学家在大学兼职[[Lecturing|讲课]]、知识产权框架性协议替代逐项谈判等。
 
 关系型互动之所以成为主导，一个核心原因是隐性知识（tacit knowledge）在技术转移中的关键作用(Schartinger et al., 2002)(p.44)。专利文件可以被发送到世界任何地方，但如果接收方缺乏能够理解该专利并将其与现有[[Technology Infusion|技术整合]]的工程师，专利本身无法产生价值。关系型互动创造的是传递隐性知识的管道。
 
@@ -254,7 +256,7 @@ Schot and Steinmueller(2018)与 Lindner et al.(2024)识别出三个政策[[Parad
 - 合同研究：企业委托大学执行特定研究
 - 研究伙伴关系：共同设计、共同出资、共同执行
 - 咨询：学术人员以个人身份向企业提供专家建议
-- 研究生奖学金与联合培养：博士论文在企业完成
+- 研究生奖学金与联合培养：[[Doctoral Dissertation|博士论文]]在企业完成
 - 原型开发与测试：企业利用大学的先进设备进行产品测试
 - 联合设施：大学和企业合资建设实验室或中试车间
 - 培训与[[Executive Education|高管教育]]：大学为企业员工开设课程

@@ -8,7 +8,7 @@ summary: "法国当代著名教育政治社会学家，巴黎东岱大学（UPEC
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 22
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,10 +26,12 @@ tags:
   - theme/knowledge-utilization
 related_concepts:
   - "[[Sociology of Valuation and Evaluation]]"
+  - "[[Policy Translation]]"
   - "[[Learning Knowledge and Policy Knowledge]]"
   - "[[Habitus]]"
   - "[[Document]]"
   - "[[School Autonomy]]"
+  - "[[Transnational Education]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Determinism]]"
   - "[[Research Contribution]]"
@@ -56,14 +58,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 法国当代著名教育政治社会学家，巴黎东岱大学（Université Paris-Est Créteil, UPEC）教育科学教授，[[CNRS|法国国家科学研究中心]]（CNRS）与巴黎政治大学组织社会学中心（CSO）副研究员。
-> - **核心角色** 欧洲教育[[Sociology of Valuation and Evaluation|评估社会学]]与政策转译研究的代表学者，在知识库网络中充当解构 [[PISA]] 接收机制、法国第四象限（政策背书 × 范围小）制度根源以及知识类型学转化的核心理论节点。
+> - **核心角色** 欧洲教育[[Sociology of Valuation and Evaluation|评估社会学]]与[[Policy Translation|政策转译]]研究的代表学者，在知识库网络中充当解构 [[PISA]] 接收机制、法国第四象限（政策背书 × 范围小）制度根源以及知识类型学转化的核心理论节点。
 > - **代表贡献** 提出区分技术参数与政客修辞的 [[Learning Knowledge and Policy Knowledge|学习性知识与政策性知识]] 框架；系统论证法国教育治理中的“国家科学”（science d’État）垄断机制对跨国新自由主义问责的阻滞作用（[[PISA Response in France]]）。
 
 > [!citation-card] 庞斯论政策转译与接收社会学的核心论断
@@ -90,7 +92,7 @@ updated: 2026-11-02
 ---
 
 > [!claim] 核心思想
-> 现代跨国教育测评是深嵌于主权国家本土权力网络中的政治工具。庞斯强调，[[International Large-Scale Assessments|国际大规模评估]]的信息流动必然经历高度选择性的转译过程：一方面，复杂的“学习性知识”在跨越国界后被极度简化为迎合选举政治与媒体轰动的“政策性知识”，成为执政联盟推介预设法案的修辞弹药；另一方面，具有深厚行政集权传统的民族国家能够依托本土官方精英生产的“国家科学”抵御去背景化量化冲击，坚守教育平权底线，从而使全球测试所引发的政策后果在不同国别呈现出深刻的制度分流。
+> 现代[[Transnational Education|跨国教育]]测评是深嵌于主权国家本土权力网络中的政治工具。庞斯强调，[[International Large-Scale Assessments|国际大规模评估]]的信息流动必然经历高度选择性的转译过程：一方面，复杂的“学习性知识”在跨越国界后被极度简化为迎合选举政治与媒体轰动的“政策性知识”，成为执政联盟推介预设法案的修辞弹药；另一方面，具有深厚行政集权传统的民族国家能够依托本土官方精英生产的“国家科学”抵御去背景化量化冲击，坚守教育平权底线，从而使全球测试所引发的政策后果在不同国别呈现出深刻的制度分流。
 
 > [!citation-card] 庞斯论法国国家科学对跨国新自由主义的抵制
 > 由于历史和制度原因，法国的中央行政精英所生产的“国家科学”（science d’État）仍然强大，政府和官方学者依然是知识的合法和权威来源。在对 PISA 的解读上，他们一直强调其新自由主义实质，并提醒人们注意其所倡导的原则可能危及教育平等，导致人们对 PISA 持深深的怀疑态度。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 70)]]

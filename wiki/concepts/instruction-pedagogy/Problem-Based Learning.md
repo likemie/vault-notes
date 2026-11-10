@@ -6,7 +6,7 @@ aliases:
 summary: "以经过选择的问题组织目标、学习活动与评估的教学系统，强调先备知识激活、协作探究、知识应用、模型修正和自我监控。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 62
+related_count: 63
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -64,6 +64,7 @@ related_theories:
 related_methods:
   - "[[Research Synthesis]]"
   - "[[Effect Size]]"
+  - "[[Knowledge Extent]]"
   - "[[Sample Size Determination]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
@@ -87,7 +88,7 @@ related_instruments:
 confidence: medium
 status: active
 created: 2026-05-04
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 > [!def] Problem-Based Learning
@@ -137,7 +138,7 @@ updated: 2026-11-03
 ---
 
 > [!feature] PBL 系统的七个要素
-> - **问题选择** 问题需要具有专业相关性，并共同覆盖课程目标中的主要知识范围。问题序列决定学生接触哪些概念以及在哪些情境中使用它们。[[Argument_Biggs_1999_HERD\|Biggs (1999, p. 71)]]
+> - **问题选择** 问题需要具有专业相关性，并共同覆盖课程目标中的主要[[Knowledge Extent|知识范围]]。问题序列决定学生接触哪些概念以及在哪些情境中使用它们。[[Argument_Biggs_1999_HERD\|Biggs (1999, p. 71)]]
 > - **先备知识激活** 学生先调用已有知识解释问题，由此暴露理解缺口。知识基础不足会增加无关信息、错误模型和逆向推理。[[Argument_Hattie_2015_SOTLP\|Hattie (2015a, pp. 85–86)]]
 > - **小组协作** 小型[[Problem Solving\|问题解决]]小组让学生比较解释、分配检索任务，并与教师、同伴和服务对象互动。
 > - **知识检索** 学生建立与案例相关的知识库，同时学习到哪里寻找更多信息。信息检索服务于当前解释，不以资料数量作为终点。

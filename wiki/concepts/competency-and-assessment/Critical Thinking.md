@@ -6,7 +6,7 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，整合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 121
+related_count: 125
 related_level: 12
 related_stars: "💎💎💎💎"
 related_color: "#ddd6fe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Problem Solving]]"
   - "[[Creativity]]"
+  - "[[Problematisation]]"
   - "[[Reliability]]"
   - "[[Epistemology]]"
   - "[[Evidence Standards]]"
@@ -63,6 +64,7 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Discourse]]"
   - "[[Learning Gain]]"
+  - "[[Early-Career Researchers]]"
   - "[[Competitiveness]]"
   - "[[Public Value]]"
   - "[[Variable]]"
@@ -80,6 +82,8 @@ related_concepts:
   - "[[IB Diploma Programme]]"
   - "[[Extended Essay]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[General Education]]"
+  - "[[International Baccalaureate]]"
   - "[[Constructivist Paradigm]]"
   - "[[Scoring Rubrics]]"
   - "[[Formative Assessment]]"
@@ -131,9 +135,9 @@ related_arguments:
   - "[[Argument_Zhao_2025_JIntell]]"
   - "[[Argument_Han_Gutierez_2026_IJSE]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Erdem_2026_SHE]]"
-  - "[[Argument_Haubrock_2026_NHB]]"
 related_instruments:
   - "[[Critical Thinking Strategies Scale]]"
   - "[[California Critical Thinking Disposition Inventory]]"
@@ -146,7 +150,7 @@ related_instruments:
 confidence: medium
 status: stable
 created: 2026-06-30
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 > [!def] Critical Thinking
@@ -168,7 +172,7 @@ updated: 2026-11-03
 > [!contrast-table|notitle] 相近思维[[Construct\|构念]]
 > | 维度 | 批判性思维 | 纯形式推理 | [[Higher-Order Thinking Skills\|高阶思维]] | [[Creativity\|创造性]]思维与问题解决 |
 > |---|---|---|---|---|
-> | **核心对象** | 知识主张、证据、论证、判断与行动 | 命题形式及推导有效性 | 超越记忆和理解的复杂认知活动 | 新方案、问题表征与可行解法 |
+> | **核心对象** | 知识主张、证据、论证、判断与行动 | 命题形式及推导有效性 | 超越记忆和理解的复杂认知活动 | 新方案、[[Problematisation\|问题表征]]与可行解法 |
 > | **典型过程** | 解释、分析、评价、推论、说明、自我调节 | 演绎、证明、检验一致性 | 应用、分析、评价、创造 | 发散、重构、生成、试验与修正 |
 > | **质量标准** | 理由相关且权重适当，证据可信，结论范围合宜 | 推导有效且前后一致 | 达到任务规定的认知层级 | 方案新颖、适切且能够解决问题 |
 > | **关系** | 广泛运用理性，并加入倾向、语境与判断 | 构成批判性思维的一项基础资源 | 与分析、评价和创造层级高度重叠 | 在 Halpern 框架中属于构念，在 Black 框架中位于边缘或外部 |
@@ -339,7 +343,7 @@ updated: 2026-11-03
 > - **2000 年代　[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]下的工具化窄化与反思遮蔽** 批判政策学者揭示，在新自由主义全球治理与知识经济[[Discourse|话语]]下，批判性思维在政策层面被窄化为适应劳动力市场的非政治性技能，其民主公民批判与价值反思功能面临系统性遮蔽。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 446)]]
 > - **2010 年代至今　微观策略协同与高阶实证综合** [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 通过大规模[[Meta-analysis|元分析]]确立了[[Authentic Instruction|真实性教学]]、对话与[[Mentorship|导师制]]三维协同干预机制；[[Argument_Li_2026_CEAI|Li et al. (2026)]] [[Systematic Review|系统综述]] 67 项高校实证研究，揭示生成式 AI 对批判性思维的双向塑造机制，确立了以反思提示和[[Epistemological Vigilance|认识论警觉]]防范[[Cognitive Offloading|认知卸载]]的教学干预体系。
 > - **2019 年　全球微观[[Classroom Observation|课堂观察]]与[[Rote Learning|死记硬背]]打破** [[World Bank|世界银行]]发布《Teach 观察员手册》（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019]]），将批判性思维下沉为发展中国家初等教育课堂的核心评价要素（要素 6）；打破了将批判性思维视为仅属于高等教育或发达国家的精英偏见，在基础教育语境中将死记硬背（Rote Learning）与实质性[[Higher-Order Thinking Skills|高阶思维]]任务（Substantial Thinking Tasks）作出了严格的学科化行为锚定。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 26–27)]]
-> - **2026 年　学术过度竞争对青年学者批判性反思的挤压** [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] 揭示以末位淘汰和短期项目制为特征的学术评价生态，逼迫青年科研人员将策略性从众作为生存策略，在学者独立性孕育的关键期严重压制了批判性思维与高风险学术质疑。
+> - **2026 年　学术过度竞争对[[Early-Career Researchers|青年学者]]批判性反思的挤压** [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] 揭示以末位淘汰和短期项目制为特征的学术评价生态，逼迫青年科研人员将策略性从众作为生存策略，在学者独立性孕育的关键期严重压制了批判性思维与高风险学术质疑。
 
 ---
 
@@ -488,9 +492,9 @@ updated: 2026-11-03
 
 > [!entry-map] 条目关联
 > - 核心认知与倾向：[[Higher-Order Thinking Skills|高阶思维]]、[[Reflective Thinking|反思性思维]]、[[Critical Thinking Disposition|批判性思维倾向]]、[[Metacognition|元认知]]、[[Problem Solving|问题解决]]、[[Creativity|创造力]]
-> - 认识论与规范标准：[[Epistemic Cognition|认识论认知]]、[[Epistemological Understanding|认识论理解]]、[[Evaluativist|评价论]]、[[Evidence Standards|证据标准]]、[[Scientific Explanation|科学解释]]
-> - 教学法与环境支架：[[Authentic Instruction|真实性教学]]、[[Explicit Critical Thinking Instruction|显性批判性思维教学]]、[[Dialogue in Education|对话教育]]、[[Cooperative Learning|合作学习]]、[[Problem-Based Learning|基于问题的学习]]、[[Generative Artificial Intelligence|生成式人工智能]]
-> - 测评与课程转化：[[Critical Thinking Assessment|批判性思维测评]]、[[Construct Validity|构念效度]]、[[Constructive Alignment|建构性对齐]]、[[General Education|通识教育]]、[[IB Diploma Programme|国际文凭大学预科项目]]
+> - 认识论与规范标准：[[Epistemic Cognition|认识论认知]]、[[Epistemological Understanding|认识论理解]]、评价论、[[Evidence Standards|证据标准]]、[[Scientific Explanation|科学解释]]
+> - 教学法与环境支架：[[Authentic Instruction|真实性教学]]、[[Explicit Critical Thinking Instruction|显性批判性思维教学]]、对话教育、[[Cooperative Learning|合作学习]]、[[Problem-Based Learning|基于问题的学习]]、[[Generative Artificial Intelligence|生成式人工智能]]
+> - 测评与课程转化：[[Critical Thinking Assessment|批判性思维测评]]、[[Construct Validity|构念效度]]、[[Constructive Alignment|建构性对齐]]、[[General Education|通识教育]]、[[International Baccalaureate|国际文凭]]大学预科项目
 
 ---
 

@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 35
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -48,6 +48,7 @@ related_methods:
   - "[[Systematic Review]]"
 related_persons:
   - "[[Robert Slavin]]"
+  - "[[Ben Levin]]"
 related_facts:
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
   - "[[Department for Education]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -76,7 +77,7 @@ updated: 2026-10-30
 > 有效教育研究所（Institute for Effective Education, IEE）是英国约克大学（University of York）设立的独立慈善科研与中介机构，由国际知名[[Evidence-Based Education\|循证教育]]学者[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）等领衔创立；机构定位于连接“高标准实证因果生产”与“一线学校实践转化”的综合[[Knowledge Mediation\|知识中介]]纽带，致力于通过促进教育政策与实践中的[[Research Utilization\|研究利用]]（[[Research Utilization]]），系统改善处境不利儿童的教育成效。[[Argument_Pellegrini_2021_ECNUROE\|(Pellegrini & Vivanet, 2021, p. 33)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–150)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 机构于 2008 年前后由约克大学联合慈善基金会出资创立，其深层学术血脉承接了美国约翰霍普金斯大学教育研究与改革中心（CRRE）及斯莱文倡导的[[Evidence-Based Reform\|证据本位改革]]（[[Evidence-Based Reform]]）理念，旨在将严密因果证据引入英国中小学教育体系。
+> - **成立时间 / 创设背景** 机构于 2008 年前后由约克大学联合慈善基金会出资创立，其深层学术血脉承接了美国约翰霍普金斯大学教育研究与改革中心（CRRE）及斯[[Ben Levin|莱文]]倡导的[[Evidence-Based Reform\|证据本位改革]]（[[Evidence-Based Reform]]）理念，旨在将严密因果证据引入英国中小学教育体系。
 > - **总部地点 / 业务辐射** 总部设于英国约克大学教育系，业务全面辐射英格兰及联合王国中小学教育系统，并在欧洲证据知情[[Policy Network\|政策网络]]（[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]）中担任核心研究与清算节点。
 > - **法人属性与经费基础** 注册为大学依托型独立慈善组织（Independent Charity）；运营资金依托大学科研支持、独立慈善信托基金捐赠（如 Bowland Trust）、[[Department for Education|英国教育部]]及政府专项课题资助。
 > - **核心宗旨与法定职责** 打破学术界象牙塔研究与课堂真实教学之间的脱节壁垒，既开展严格的独立因果评估（[[Randomised Controlled Trials\|RCT]]）与[[Systematic Review\|系统综述]]（[[Systematic Review]]），又开发面向[[School Leadership\|学校领导]]者与教师的通俗化决策支持工具。[[Argument_Pellegrini_2021_ECNUROE\|(Pellegrini & Vivanet, 2021, p. 33)]]

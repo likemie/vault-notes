@@ -8,7 +8,7 @@ summary: "法国人类学家、哲学家，结构主义人类学奠基人，法�
 type: person
 nationality: "france"
 person_region: "france"
-person_related_count: 13
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,8 +23,10 @@ tags:
   - theme/civilization-studies
 related_concepts:
   - "[[Grand Theory]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Paradigm]]"
   - "[[Family Social Model]]"
+  - "[[Homophily]]"
   - "[[Technological Republic]]"
   - "[[Western Civilization Course]]"
 related_theories:
@@ -44,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-25
+updated: 2026-11-11
 ---
 
 ---
@@ -65,7 +67,7 @@ updated: 2026-10-25
 > - **1908年** 出生于比利时布鲁塞尔的一个法国犹太家庭，后就读于巴黎大学获法学与哲学学位。
 > - **1935–1939年** 赴巴西圣保罗大学任社会学教授，并在亚马逊流域开展对卡杜韦奥族与博罗罗族等原住民部落的经典田野考察。
 > - **1941–1945年** 因二战流亡美国，在纽约新社会研究学院任教，深受语言学家罗曼·雅各布森（Roman Jakobson）结构语言学影响。
-> - **1949年** 出版博士论文《亲属的基本结构》（*Les Structures élémentaires de la parenté*），确立结构人类学[[Paradigm|范式]]。
+> - **1949年** 出版[[Doctoral Dissertation|博士论文]]《亲属的基本结构》（*Les Structures élémentaires de la parenté*），确立结构人类学[[Paradigm|范式]]。
 > - **1955年** 出版自传体人类学名著《忧郁的热带》（*Tristes Tropiques*），引发战后西方知识界对文明优越论的深刻忏悔。
 > - **1959年** 当选法兰西公学院社会人类学讲席教授。
 > - **1973年** 当选法兰西学术院院士。
@@ -88,7 +90,7 @@ updated: 2026-10-25
 ---
 
 > [!claim] 核心思想
-> [[Claude Lévi-Strauss|列维-斯特劳斯]]打破了 19 世纪进化论人类学关于“野蛮-文明”的单向线性阶梯，确立了人类心智结构的普遍同质性。他主张非西方原始社会的野性思维与现代西方科学理性在认知复杂性上处于对等地位，而西方现代性的全球殖民扩张则对原始生态与异质文化带来了不可逆的毁灭性浩劫。在《[[Technological Republic|技术共和国]]》中，卡普与扎米斯卡指出，列维-斯特劳斯对西方文明的道德定性，与[[Kwame Anthony Appiah|阿皮亚]]（Appiah）和[[Edward Said|萨义德]]（Said）等后现代批评一同构成了战后知识界彻底瓦解西方文明正典[[Grand Theory|宏大叙事]]的重要思想源头。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 89–90)]]
+> [[Claude Lévi-Strauss|列维-斯特劳斯]]打破了 19 世纪进化论人类学关于“野蛮-文明”的单向线性阶梯，确立了人类心智结构的普遍[[Homophily|同质性]]。他主张非西方原始社会的野性思维与现代西方科学理性在认知复杂性上处于对等地位，而西方现代性的全球殖民扩张则对原始生态与异质文化带来了不可逆的毁灭性浩劫。在《[[Technological Republic|技术共和国]]》中，卡普与扎米斯卡指出，列维-斯特劳斯对西方文明的道德定性，与[[Kwame Anthony Appiah|阿皮亚]]（Appiah）和[[Edward Said|萨义德]]（Said）等后现代批评一同构成了战后知识界彻底瓦解西方文明正典[[Grand Theory|宏大叙事]]的重要思想源头。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 89–90)]]
 
 ---
 

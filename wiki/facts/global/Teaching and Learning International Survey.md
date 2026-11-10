@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 32
+fact_related_count: 33
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Knowledge Mediation]]"
   - "[[Policy Brokerage]]"
+  - "[[Distributed Leadership]]"
   - "[[Constructivist Paradigm]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Direct Instruction]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -100,7 +101,7 @@ updated: 2026-10-26
 
 > [!dev-timeline] 项目推进历程
 > - **2008 年 — TALIS 奠基与首轮框架确立期** 确立初中教师为核心测量对象，发布首部国际综合报告，聚焦教学实践、教师评价与专业发展需求，24 个国家参与试点。
-> - **2013 年 — 学段拓展与分布式领导力量表引入期** 增设小学与高中可选模块，首次推出“TALIS-[[PISA]] 联动调查”；同时，[[Education International\|国际教育协会]]（EI）资助开展跨国教师领导力质性调研（Bangs & Frost, 2012），直接推动 TALIS 2013 引入分布式领导力（Distributed Leadership）测评维度，促成[[OECD\|经合组织]]官方报告将转向分布式领导列为系统性政策建议（OECD, 2014）。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 210)]]
+> - **2013 年 — 学段拓展与分布式领导力量表引入期** 增设小学与高中可选模块，首次推出“TALIS-[[PISA]] 联动调查”；同时，[[Education International\|国际教育协会]]（EI）资助开展跨国教师领导力质性调研（Bangs & Frost, 2012），直接推动 TALIS 2013 引入分布式领导力（[[Distributed Leadership]]）测评维度，促成[[OECD\|经合组织]]官方报告将转向分布式领导列为系统性政策建议（OECD, 2014）。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 210)]]
 > - **2018 年至今 — 教师工作压力指标突破与全球素养扩张期** 全面引入数字化教学能力、多元文化包容素养与社会情感技能培养支持；更重要的是，经合组织采纳 EI 建议，在 2018 年调查中首次增设针对教师工作压力来源与性质的专属量表（OECD, 2020），使一线教师身心耗竭获得客观量化实证确证；覆盖近 50 个经济体，成为联合国《[[UN Sustainable Development Goals\|可持续发展目标]] 4》（[[UN Sustainable Development Goals\|SDG 4]]）教师关键指标的核心数据源。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–211)]]；[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 544)]]
 
 ---

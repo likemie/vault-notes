@@ -12,10 +12,10 @@ aliases:
 summary: "指以最终实质成效与产出为核心裁判尺度的现代治理范式。在教育领域，表现为以国家质量标准、系统成效监测与数据反馈为核心，强调路径自主而非目标自主的调控模式；在国家战略与公共治理领域，表现为以物理世界实质成果（如建造战略重器、攻克疾病、消除犯罪）为最高衡量基准，反对以程序合规和道德表演替代实质战功的防卫型官僚主义。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 53
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/governance
   - theme/evidence-based-reform
@@ -48,14 +48,16 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Data Literacy]]"
   - "[[Variable]]"
+  - "[[Document]]"
+  - "[[Discourse]]"
   - "[[Dependent Variable]]"
   - "[[Competitiveness]]"
-  - "[[Document]]"
   - "[[Pragmatic Paradigm]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Cluster Analysis]]"
   - "[[Intraclass Correlation Coefficient]]"
+  - "[[Bibliometric Analysis]]"
 related_facts:
   - "[[Vergleichsarbeiten]]"
   - "[[PISA]]"
@@ -70,7 +72,9 @@ related_arguments:
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
+  - "[[Argument_Volmari_2025_CE]]"
   - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Barrenechea_2023_JEC]]"
 related_persons:
   - "[[Herbert Altrichter]]"
   - "[[Lee Kuan Yew]]"
@@ -82,7 +86,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -263,7 +267,7 @@ updated: 2026-11-10
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 28)]] | 奥地利施泰尔马克州 362 名公立义务教育学校校长 | 问卷调查与 $k$ 均值[[Cluster Analysis\|聚类分析]]（22 项治理工具评价） | 治理态度亚群分布比例 | [[Evidence-Based School Development\|循证学校发展]]型（27.5%）；资源驱动发展型（37.5%）；弱发展取向型（35.0%） | [[Intraclass Correlation Coefficient\|组内相关系数]]（ICC）介于 0.09 至 0.41；资源类题项组间方差最高 | 针对奥地利中小学样本，揭示了真正认同产出导向与循证工具的校长仅占少数 |
-> | [[Argument_Volmari_2025_CE\|Volmari et al. (2025, pp. 535–540)]] | 丹麦、芬兰、挪威 16 份基础教育改革核心官方文献（含 1,385 条引文） | 政策知识社会学与文献计量分析 | 循证产出治理的话语修辞与实际文献引用结构 | 改革文本普遍将产出导向与循证治理作为核心合法化话语，但实际引用中同行评议学术研究仅占 13.9%–14.5%，逾六成依赖政府委托报告与评估文献 | 跨国全样本的文献计量与话语追踪 | 证实产出导向循证治理在实际政治运作中脱离了理性技术主义模型，常异化为选择性引用与政治后置合法化工具 |
+> | [[Argument_Volmari_2025_CE\|Volmari et al. (2025, pp. 535–540)]] | 丹麦、芬兰、挪威 16 份基础教育改革核心官方[[Document\|文献]]（含 1,385 条引文） | 政策知识社会学与[[Bibliometric Analysis\|文献计量分析]] | 循证产出治理的[[Discourse\|话语]]修辞与实际文献引用结构 | 改革文本普遍将产出导向与循证治理作为核心合法化话语，但实际引用中同行评议学术研究仅占 13.9%–14.5%，逾六成依赖政府委托报告与评估文献 | 跨国全样本的文献计量与话语追踪 | 证实产出导向循证治理在实际政治运作中脱离了理性技术主义模型，常异化为选择性引用与政治后置合法化工具 |
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

@@ -12,9 +12,9 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 29
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 31
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
 issuing_organization: "Council of the European Union"
 tags:
@@ -26,11 +26,13 @@ tags:
   - theme/benchmarking
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[Transnational Education]]"
   - "[[Subsidiarity Principle]]"
   - "[[Open Method of Coordination]]"
   - "[[Lifelong Learning]]"
   - "[[Creativity]]"
   - "[[Academic Attrition]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Educational Level]]"
   - "[[Paradigm]]"
   - "[[Construct]]"
@@ -63,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-28
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -77,7 +79,7 @@ updated: 2026-11-02
 ---
 
 > [!claim] 政策核心
-> 《教育与培训 2020》（Education and Training 2020, ET 2020）是欧洲联盟 2010 至 2020 年间的跨国教育与培训顶层战略框架。在严格恪守[[Subsidiarity Principle|辅助性原则]]的前提下，该战略确立四大战略目标与五大核心量化基准指标，通过[[Open Method of Coordination|开放协调法]]（OMC）与常设指标工作组，深化了去立法的跨国数据监控与同侪学习网络，奠定了欧洲教育治理不可动摇的历史制度惯性。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 854, 858–860)]]
+> 《教育与培训 2020》（Education and Training 2020, ET 2020）是欧洲联盟 2010 至 2020 年间的[[Transnational Education|跨国教育]]与培训顶层战略框架。在严格恪守[[Subsidiarity Principle|辅助性原则]]的前提下，该战略确立四大战略目标与五大核心量化基准指标，通过[[Open Method of Coordination|开放协调法]]（OMC）与常设指标工作组，深化了去立法的跨国数据监控与同侪学习网络，奠定了欧洲教育治理不可动摇的历史制度惯性。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 854, 858–860)]]
 
 > [!policy-design] 政策设计
 > - **政策目标（四大战略目标）** 使[[Lifelong Learning|终身学习]]与学习流动成为现实；提高教育与培训的质量与效率；促进公平、社会凝聚与积极公民素养；强化各级教育的创新与[[Creativity|创造力]]。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, p. 858)]]
@@ -109,7 +111,7 @@ updated: 2026-11-02
 
 > [!pathways] 实施路径
 > - **量化基准指标导向** 设定明确的 2020 年达标百分比，将抽象政治愿景转化为具体的跨国衡量公尺。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 858–859)]]
-> - **常设工作组深度对话** 设立按主题细分的专家工作组，在学前教育、基础素养、高教改革与成人学习领域研制政策指南。
+> - **常设工作组深度对话** 设立按主题细分的专家工作组，在学前教育、[[Foundational Literacy and Numeracy|基础素养]]、高教改革与成人学习领域研制政策指南。
 > - **欧洲学期与资金联动** 通过将早期离校与高教指标接入欧洲学期国别建议，成员国调配欧洲社会基金（[[English Schools Foundation Hong Kong|ESF]]）落实改革措施。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 855, 865)]]
 
 ---

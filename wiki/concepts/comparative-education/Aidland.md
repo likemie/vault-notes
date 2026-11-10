@@ -7,7 +7,7 @@ aliases:
 summary: "由戴维·莫斯（David Mosse）提出并被政策流动与国际发展研究广泛引用的批判性构念，指代由国际组织官员、跨国顾问、发展技术官僚及非政府组织精英构成的封闭职业亚文化圈与跨国制度场域，具有将地方复杂政治实践去政治化为标准化技术工具的过滤机制。"
 type: concept
 domain: "comparative-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Policy Mobility]]"
   - "[[Policy Ambassador]]"
   - "[[Policy Network]]"
+  - "[[Homophily]]"
   - "[[Grandes Ecoles]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Paradigm]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-25
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -53,7 +54,7 @@ updated: 2026-11-03
 
 > [!boundary]- 概念边界
 > - 不等于 [[Policy Network|政策网络]]（Policy Network） 政策网络强调不同利益主体在特定议题上的结构性拓扑连接形态；Aidland 侧重于揭示特定跨国职业群体共享的文化惯习、等级认同与象征性权力资本。
-> - 不等于 场域（Champ） Aidland 可以视为国际发展援助这一特定宏观场域内部具有高度封闭性与同质性的专业行动空间与文化生态圈。
+> - 不等于 场域（Champ） Aidland 可以视为国际发展援助这一特定宏观场域内部具有高度封闭性与[[Homophily|同质性]]的专业行动空间与文化生态圈。
 
 ---
 

@@ -7,7 +7,7 @@ summary: "由 Stefan Wuchty, Benjamin F. Jones 与 Brian Uzzi (2007) 提出的�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 20
+method_related_count: 24
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -43,13 +43,17 @@ related_persons:
   - "[[Stefan Wuchty]]"
   - "[[Benjamin F. Jones]]"
   - "[[Brian Uzzi]]"
-related_facts: []
+related_facts:
+  - "[[Web of Science]]"
+  - "[[Scopus]]"
+  - "[[OpenAlex]]"
+  - "[[United States Patent and Trademark Office]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-31
+updated: 2026-11-11
 ---
 
 ---
@@ -125,7 +129,7 @@ updated: 2026-10-31
 > > > ![[wiki/assets/geogebra/relative_team_impact.ggb]]
 
 > [!software-impl] 软件实现
-> - **数据来源** Web of Science、Scopus、OpenAlex 或美国专利商标局（USPTO）数据库。
+> - **数据来源** [[Web of Science]]、[[Scopus]]、[[OpenAlex]] 或[[United States Patent and Trademark Office|美国专利商标局]]（USPTO）数据库。
 > - **核心包或命令** Python (`pandas`, `numpy`), R (`dplyr`, `data.table`)。
 > - **实现流程** 提取[[Document|文献]]题录元数据，依据署名人数字段将样本划分为单人组与团队组，按学科代码与出版年分组汇总被引均值，两列相除生成 RTI。
 > - **报告标准** 明确汇报学科分类标准、成果类型（仅 Article 或包含 Review）、引文窗口统计截至年份以及是否剔除自引。

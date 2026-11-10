@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 22
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -30,9 +30,11 @@ tags:
 related_concepts:
   - "[[Rote Learning]]"
   - "[[Normal School]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Discourse]]"
   - "[[Ontology]]"
   - "[[Paradigm]]"
+  - "[[Transnational Education]]"
   - "[[Policy Borrowing]]"
   - "[[Educational Meliorism]]"
   - "[[Institutional Mimesis]]"
@@ -59,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -141,7 +143,7 @@ updated: 2026-11-02
 > **知识分配作为自由前提** 劳伦斯·克雷明指出，[[Horace Mann\|霍勒斯·曼]]深刻理解自由、大众教育与共和政体之间的内在因果纽带：一个国家绝不可能在长久的愚昧无知中保有自由；任何宪政架构无论构想得多么精密，都无法天然保证公民的权利与自由，因为自由唯有在知识广泛普及于全体民众时才能牢固确立。因此，普遍的公共教育是共和政府赖以安身立命的唯一基石。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 32)]]；引自 Cremin (1957:7)
 
 > [!claim] Butts, R. F.
-> **公共学校与民主制度再生产** 弗里曼·巴茨论证，在北美独立后的一百年中，合众国选择公共学校不仅是为了传授基础读写算，更核心的功能在于通过全体阶层子弟的共同就读，瓦解欧洲式的封建等级观念，培育现代公民参与民主审议所需的道德自制与公共理性，实现民主制度在代际间的稳定再生产。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 31)]]；引自 Butts (1973:408)
+> **公共学校与民主制度再生产** 弗里曼·巴茨论证，在北美独立后的一百年中，合众国选择公共学校不仅是为了传授[[Foundational Literacy and Numeracy|基础读写算]]，更核心的功能在于通过全体阶层子弟的共同就读，瓦解欧洲式的封建等级观念，培育现代公民参与民主审议所需的道德自制与公共理性，实现民主制度在代际间的稳定再生产。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 31)]]；引自 Butts (1973:408)
 
 ---
 
@@ -199,7 +201,7 @@ updated: 2026-11-02
 > | [[National Education in Europe]] | 政策 | 巴纳德全景式记录欧洲公共教育体制的百科全书巨著，为美国公学运动提供权威法典与统计参照。 |
 > | [[Horace Mann]] | 人物 | 公学运动的灵魂领袖，主导马萨诸塞州改革并确立公共学校四大信条。 |
 > | [[Calvin Stowe]] | 人物 | 撰写 1837 年欧洲报告，推动公学运动在中西部边疆俄亥俄州完成立法突破。 |
-> | [[Henry Barnard]] | 人物 | 编纂跨国教育百科全书，推进康涅狄格与罗得岛公学改革并出任首任联邦专员。 |
+> | [[Henry Barnard]] | 人物 | 编纂[[Transnational Education\|跨国教育]]百科全书，推进康涅狄格与罗得岛公学改革并出任首任联邦专员。 |
 > | [[Policy Borrowing]] | 概念 | 公学运动展示了将外国教育实绩转译为国内政治合法化依据的跨国政策借用机制。 |
 > | [[Educational Meliorism]] | 概念 | 公学运动是教育改良主义母题在 19 世纪美洲最重要的实践形态。 |
 > | [[Seventh Annual Report of the Massachusetts Board of Education]] | 政策 | 曼欧洲考察后提交的报告，将普鲁士公学经验转译为公学运动核心政治合法化依据。 |

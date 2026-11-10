@@ -12,7 +12,7 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -25,29 +25,34 @@ tags:
   - natural-experiment
   - school-effectiveness
 related_concepts:
+  - "[[Normal School]]"
   - "[[Academic Achievement]]"
-  - "[[Direct Instruction]]"
-  - "[[School Autonomy]]"
-  - "[[Cultural Capital]]"
   - "[[Educational Level]]"
+  - "[[Homework]]"
+  - "[[Structured Teaching]]"
+  - "[[Socioeconomic Status]]"
+  - "[[Falsification]]"
+  - "[[Competitiveness]]"
+  - "[[Direct Instruction]]"
+  - "[[Lecturing]]"
 related_theories:
   - "[[Wealth Effect in Education]]"
 related_methods:
   - "[[Natural Experiment]]"
+  - "[[Questionnaire]]"
 related_instruments: []
-related_persons:
-  - "[[Gabriel Heller Sahlgren]]"
+related_persons: []
 related_facts:
-  - "[[Finnish PISA Miracle]]"
-  - "[[Svecoman Movement]]"
-  - "[[Fennoman Movement]]"
+  - "[[Finnish National Board of Education]]"
   - "[[PISA]]"
+  - "[[TIMSS]]"
+  - "[[Svecoman Movement]]"
 related_arguments:
   - "[[Argument_Sahlgren_2015_CPS]]"
 confidence: high
 status: completed
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-11
 ---
 
 ---
@@ -61,7 +66,7 @@ updated: 2026-11-07
 ---
 
 > [!claim] 政策核心
-> 芬兰国家通过宪法性法案保障瑞典语少数族裔享有完全独立的公立学校与师范教育系统，提供均等财政配资与自治教学大纲；在现代实证计量中，该体系构成了一组剔除宏观制度差异的境内[[Natural Experiment|自然实验]]，揭示了师资社会地位与课堂教学法对学业表现的实质决定力。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 25–29)]]
+> 芬兰国家通过宪法性法案保障瑞典语少数族裔享有完全独立的公立学校与[[Normal School|师范教育]]系统，提供均等财政配资与自治教学大纲；在现代实证计量中，该体系构成了一组剔除宏观制度差异的境内[[Natural Experiment|自然实验]]，揭示了师资社会地位与课堂教学法对[[Academic Achievement|学业表现]]的实质决定力。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 25–29)]]
 
 > [!policy-design] 政策设计
 > - **政策目标** 保护并延续芬兰瑞典族的语言遗产与文化认同，建立与芬兰语公立学制在法律地位和升学效力上完全等价的平行教育网络。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 26–27)]]
@@ -70,7 +75,7 @@ updated: 2026-11-07
 > - **约束机制** 虽遵循国家基本课标指导框架，但在地方层面享有高度选科自由，且瑞典语学校全面免除芬兰语母语测试。
 
 > [!citation-card] 境内自然实验的生源与学业反差
-> 芬兰境内的瑞典语少数族裔构成了一组极佳的制度内自然实验对照组。该群体享有极高的经济与社会优势，人均投资财富为芬兰语人群的三倍，在受教育水平、健康与预期寿命上全面占优。然而在历次学业评估中，瑞典语学校学生的表现却系统性落后于芬兰语学校学生。在 PISA 2009 超额抽样调查中，瑞典语学校数学落后 14 分、阅读落后 27 分、科学落后 28 分。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 25, 29)]]
+> 芬兰境内的瑞典语少数族裔构成了一组极佳的制度内自然实验对照组。该群体享有极高的经济与社会优势，人均投资财富为芬兰语人群的三倍，在[[Educational Level|受教育水平]]、健康与预期寿命上全面占优。然而在历次学业评估中，瑞典语学校学生的表现却系统性落后于芬兰语学校学生。在 [[PISA]] 2009 超额抽样调查中，瑞典语学校数学落后 14 分、阅读落后 27 分、科学落后 28 分。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 25, 29)]]
 >
 > *The Finland Swedes constitute a natural experiment... the minority enjoys high socio-economic status... Yet in PISA 2009, in which the minority was oversampled, Swedish-speaking schools scored considerably lower: 14 points in math, 27 points in reading, and 28 points in science.*
 
@@ -79,8 +84,8 @@ updated: 2026-11-07
 > [!timeline] 政策推进历程
 > - **1919–1922** 《宪法》与《语言法》确立双国语与建立独立瑞典语学校委员会的法定原则。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 26)]]
 > - **1974** 随综合学校改革推进，瑞典语初等与初中学制全面并入九年一贯制体系，保留独立瑞典语教学大纲细则。
-> - **1990年代** 瑞典语学校率先吸纳斯堪的纳维亚邻国的自由探究理念，加速向自导作业与非结构化教学转型。
-> - **2000年代至今** 在 PISA、TIMSS 以及全国各轮次学业监测中，瑞典语学校表现持续与芬兰语学校拉开差距，促使芬兰官方与学术界反思其师范生源门槛与课堂教学法。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 28–29, 50–51)]]
+> - **1990年代** 瑞典语学校率先吸纳斯堪的纳维亚邻国的自由探究理念，加速向自导[[Homework|作业]]与非[[Structured Teaching|结构化教学]]转型。
+> - **2000年代至今** 在 PISA、[[TIMSS]] 以及全国各轮次学业监测中，瑞典语学校表现持续与芬兰语学校拉开差距，促使芬兰官方与学术界反思其师范生源门槛与课堂教学法。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 28–29, 50–51)]]
 
 ---
 
@@ -93,10 +98,10 @@ updated: 2026-11-07
 ---
 
 > [!finding-cards] 核心实证结论与机制解释
-> - **家庭社会经济地位优势失灵** 实证数据表明，瑞典语族群人均财富为芬兰语人群的 3 倍，父母受教育程度显著偏高（2011 年赫尔辛基证券交易所前 50 大企业董事会成员中 24% 为瑞典语人口），但在严格的认知测验中却持续处于劣势，彻底证伪了家庭背景可单独决定学业卓越的传统假说。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 25–29)]]
-> - **师范生源选拔激烈程度悬殊** 2000 至 2009 年间，瑞典语教师教育专业的平均录取率高达 40%，而同期芬兰语教师教育专业的录取率仅为 10%；校长在 PISA 问卷中对合格师资短缺的抱怨程度显著高于芬兰语学校。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 27–28)]]
-> - **教师职业社会声望的分层** 斯韦科曼（[[Svecoman Movement]]）运动具有保守防守性，教师仅被视作维持族群语言的工具而非民族启蒙英雄；在瑞典语社区中，从教常被视作缺乏市场竞争力的退路，无法吸引最顶尖的拔尖青年。
-> - **教学模式的过早宽松化** 瑞典语学校更早移植了瑞典本土强调学生自主的探究式模式，课堂纪律要求与传统直接教学（[[Direct Instruction]]）强度显著低于芬兰语课堂，直接导致学科认知基础掌握薄弱。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 47–51)]]
+> - **家庭[[Socioeconomic Status|社会经济地位]]优势失灵** 实证数据表明，瑞典语族群人均财富为芬兰语人群的 3 倍，父母受教育程度显著偏高（2011 年赫尔辛基证券交易所前 50 大企业董事会成员中 24% 为瑞典语人口），但在严格的认知测验中却持续处于劣势，彻底[[Falsification|证伪]]了家庭背景可单独决定学业卓越的传统假说。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 25–29)]]
+> - **师范生源选拔激烈程度悬殊** 2000 至 2009 年间，瑞典语教师教育专业的平均录取率高达 40%，而同期芬兰语教师教育专业的录取率仅为 10%；校长在 PISA [[Questionnaire|问卷]]中对合格师资短缺的抱怨程度显著高于芬兰语学校。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 27–28)]]
+> - **教师职业社会声望的分层** 斯韦科曼（[[Svecoman Movement]]）运动具有保守防守性，教师仅被视作维持族群语言的工具而非民族启蒙英雄；在瑞典语社区中，从教常被视作缺乏市场[[Competitiveness|竞争力]]的退路，无法吸引最顶尖的拔尖青年。
+> - **教学模式的过早宽松化** 瑞典语学校更早移植了瑞典本土强调学生自主的探究式模式，课堂纪律要求与传统[[Direct Instruction|直接教学]]（[[Direct Instruction]]）强度显著低于芬兰语课堂，直接导致学科认知基础掌握薄弱。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 47–51)]]
 
 ---
 
@@ -105,6 +110,6 @@ updated: 2026-11-07
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Natural Experiment]] | 方法 | 在同一主权制度下剔除财政体制干扰的经典比较教育实证范例。 |
-> | [[Direct Instruction]] | 概念 | 芬兰语学校坚守的显性讲授法解释了其相对瑞典语学校的学业优势。 |
+> | [[Direct Instruction]] | 概念 | 芬兰语学校坚守的显性[[Lecturing\|讲授法]]解释了其相对瑞典语学校的学业优势。 |
 > | [[Wealth Effect in Education]] | 理论 | 揭示单纯的高家庭财富无法自动转化为学生的学业成就。 |
 > | [[Svecoman Movement]] | 事实 | 塑造瑞典语社区防守性文化与较低教师声望的历史渊源。 |

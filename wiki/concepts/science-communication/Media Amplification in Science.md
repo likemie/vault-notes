@@ -9,7 +9,7 @@ aliases:
 summary: "指学术成果经由大众媒体报道后，跨越专业壁垒而获得超额学术引用的因果放大效应；准自然实验证实《纽约时报》报道使医学成果首年引用净增 72.8%，其机制在于广泛受众触达与权威信誉背书；但媒体偏好初步简单、阳性关联结论且忽视后续复现失败的偏差，亦对科学公共认知带来结构性失真。"
 type: concept
 domain: "science-communication"
-related_count: 10
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,26 +19,28 @@ tags:
   - theme/scientometrics
   - theme/citation-dynamics
 related_concepts:
-  - "[[Science Journalism]]"
-  - "[[Scientific Misinformation]]"
-  - "[[Citation Disparity]]"
+  - "[[Document]]"
   - "[[Causality]]"
+  - "[[Chain of Evidence]]"
+  - "[[Cumulative Innovation]]"
+  - "[[Variable]]"
 related_theories: []
 related_methods:
-  - "[[Bibliometric Analysis]]"
-  - "[[Quasi-Experimental Designs]]"
+  - "[[Natural Experiment]]"
+  - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
-related_facts:
-  - "[[Newspaper Strike Natural Experiment]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: 2026-10-31
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -57,7 +59,7 @@ updated: 2026-11-03
 > *They found that overall, articles covered by the Times received 72.8 percent more citations in the first year than the non-covered group... Therefore, the citation advantage of attention-grabbing papers cannot be explained solely by their higher quality, novelty, or even mass appeal – it is also the result of media coverage itself.*
 
 > [!boundary]- 概念边界
-> - 不等于学术同行内部自发传播 — 同行传播依赖专业期刊订阅、学术会议与参考文献引述；媒体放大是由大众新闻媒介推动的自外向内跨界破圈过程。
+> - 不等于学术同行内部自发传播 — 同行传播依赖专业期刊订阅、学术会议与参考[[Document|文献]]引述；媒体放大是由大众新闻媒介推动的自外向内跨界破圈过程。
 > - 不等于单纯的优质成果挑选效应 — 该效应强调大众媒体曝光行为本身具备独立的因果促增力，超出成果内在学术质量所决定的基准引文范畴。
 > - 不适用于全封闭、保密或高度专业抽象缺乏公众兴趣的基础数学与理论物理细分分支。
 
@@ -92,18 +94,18 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题一｜大众媒体公开报道对学术论著的同行引文具有显著的独立因果放大作用
-> **媒体曝光因果性与挑选效应剥离** 考察大众传媒宣传究竟是带来了纯粹的引文增量，还是仅仅事后挑选了本来就具备高质量的名篇。
+> **媒体曝光[[Causality|因果性]]与挑选效应剥离** 考察大众传媒宣传究竟是带来了纯粹的引文增量，还是仅仅事后挑选了本来就具备高质量的名篇。
 > 
 > > [!claim] Phillips et al. (1991)
-> > **大众曝光的因果溢价** 顶级医学期刊成果经大众主流报刊报道后在发表首年展现出超过七成的显著超额引用；报纸印刷罢工的准自然实验证明，在完全剔除成果被选中这一内生质量信号后，失去大众发行的成果其引文溢价彻底归零，确立了媒体曝光本身的独立因果驱动机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Phillips et al., 1991; Wang & Barabási, 2021, p. 194)]]
+> > **大众曝光的因果溢价** 顶级医学期刊成果经大众主流报刊报道后在发表首年展现出超过七成的显著超额引用；报纸印刷罢工的[[Natural Experiment|准自然实验]]证明，在完全剔除成果被选中这一内生质量信号后，失去大众发行的成果其引文溢价彻底归零，确立了媒体曝光本身的独立因果驱动机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Phillips et al., 1991; Wang & Barabási, 2021, p. 194)]]
 
 ---
 
 > [!concept-proposition] 命题二｜大众媒体报道偏好初步阳性结论导致科学公共认知的系统性失真
-> **新闻传播偏倚与科学证据完整性的结构性冲突** 考察新闻业追求时效突破与科学界依赖完整证据链之间的制度张力。
+> **新闻传播偏倚与科学证据完整性的结构性冲突** 考察新闻业追求时效突破与科学界依赖完整[[Chain of Evidence|证据链]]之间的制度张力。
 > 
 > > [!claim] Dumas-Mallet et al. (2017)
-> > **阳性报道偏好与复现脱节** 大众媒介高度热衷报道提示特定疾病风险或保护效应的初步单项成果，对未能发现显著关联的稳健研究缺乏关注；在大众报刊广泛宣传的疾病关联结论中仅有不足半数能获得后续研究证实，且媒体极少跟进报道后续复现失败的事实，对公众科学认知造成长期误导。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Dumas-Mallet et al., 2017; Wang & Barabási, 2021, p. 195)]]
+> > **阳性报道偏好与复现脱节** 大众媒介高度热衷报道提示特定疾病风险或保护效应的初步单项成果，对未能发现显著关联的稳健研究缺乏关注；在大众报刊广泛宣传的疾病关联结论中仅有不足半数能获得[[Cumulative Innovation|后续研究]]证实，且媒体极少跟进报道后续复现失败的事实，对公众科学认知造成长期误导。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Dumas-Mallet et al., 2017; Wang & Barabási, 2021, p. 195)]]
 
 ---
 
@@ -118,13 +120,13 @@ updated: 2026-11-03
 > [!dev-timeline] 概念演变
 > - **1991 — 报纸大罢工准自然实验确立因果性** 菲利普斯等学者利用 1978 年《纽约时报》印刷工人大罢工，严格证实大众曝光对学术引用的因果性增益。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Phillips et al., 1991; Wang & Barabási, 2021, p. 194)]]
 > - **2017 — 5,000 篇医学报道全量失真追踪** 杜马斯-马莱（Isabelle Dumas-Mallet）等学者量化揭示新闻媒体在报道医学成果时的阳性偏好与低复现率危机。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Dumas-Mallet et al., 2017; Wang & Barabási, 2021, p. 195)]]
-> - **2021 — 科学学实证综合与传播伦理反思** 王大顺与巴拉巴西系统总结媒体放大效应对学术注意力配置与公共卫生的深远影响。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 193–195)]]
+> - **2021 — 科学学实证综合与传播伦理反思** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]系统总结媒体放大效应对学术注意力配置与公共卫生的深远影响。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 193–195)]]
 
 ---
 
 > [!tension|notitle] 核心张力
 > - **新闻时效逻辑** 追求最新颖、轰动、简明且具有个人相关性的初步探索突破，将单篇发表视作事实确立。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 195)]]
-> - **科学证据整体逻辑** 强调科学事实的成立取决于跨实验室、长周期的累积证据链与严格元分析，单篇初期成果天然具备高度可推翻性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 195)]]
+> - **科学证据整体逻辑** 强调科学事实的成立取决于跨实验室、长周期的累积证据链与严格[[Meta-analysis|元分析]]，单篇初期成果天然具备高度可推翻性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 195)]]
 
 > [!warning|limits] 适用局限
 > 媒体放大效应的高度显现通常要求研究成果具备大众可感知的公共相关性（如癌症预防、长寿、流行病或气候变化）；对于深奥抽象的基础科学分支，即便媒体偶尔尝试通俗化报道，在同行引文上的因果加成亦显著衰减。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 193–194)]]
@@ -133,10 +135,10 @@ updated: 2026-11-03
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|Phillips et al. (1991)]] | 《新英格兰医学杂志》（NEJM）发表成果及《纽约时报》同期报道跟踪 | 报纸大罢工准自然实验对照分析 | 大众媒体是否报道与成果发表第一年同行累积被引数 | 被《纽约时报》正常报道的论著首年被引频次相较未报道对照组净增 72.8%（罢工期间未发行报道成果优势归零） | — | 确立大众媒体曝光的独立因果效应，排除了报社单纯挑选优质成果的挑选假说 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit08\|Dumas-Mallet et al. (2017)]] | 5,029 篇关于疾病风险与保护因素的医学科研论著及大众新闻追踪 | 媒体传播偏好与后续证据复现实证追踪 | 报纸最初广泛报道具有正相关成果在后续研究中的证实比例 | 156 项被报纸宣传具有疾病正关联风险的成果中，仅有 48.7% 得到后续独立研究证实（超半数未能复现） | — | 揭示新闻媒体系统性过度报道初步阳性结果且忽视后续复现失败的失真特征 |

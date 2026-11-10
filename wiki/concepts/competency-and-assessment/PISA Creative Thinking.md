@@ -30,6 +30,7 @@ related_concepts:
   - "[[Divergent Thinking]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Open-Mindedness]]"
+  - "[[Side Effects]]"
   - "[[Variable]]"
   - "[[Internal Validity]]"
   - "[[Man-Computer Symbiosis]]"
@@ -40,7 +41,6 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[PISA Global Competence]]"
-  - "[[Document]]"
   - "[[Discourse]]"
 related_theories: []
 related_methods: []
@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -80,7 +80,7 @@ updated: 2026-11-02
 > |:---|:---|:---|:---|:---|
 > | **产生多样化构想**<br>Generating Diverse Ideas | 针对[[Open-Mindedness\|开放性]]对话情境给出多种语义不同的话题延伸或故事分支。 | 利用简单几何图形组合出多种截然不同语义图案或海报构图。 | 针对学校塑料垃圾减量提出多个不同机制路径的社区行动方案。 | 针对生态失衡现象提出多个不同方向的科学因果解释假说。 |
 > | **产生原创构想**<br>Generating Original Ideas | 创作具有高度新颖隐喻、反常规逻辑且符合情境要求的短篇故事情节。 | 设计打破视觉陈规、兼具审美隐喻与主题呼应的原创徽标。 | 设计解决独居老人孤立问题的非传统新型代际互动机制。 | 设计能够绕过特定技术限制检验物理假说的实验探究方案。 |
-> | **评估与改进构想**<br>Evaluating & Improving Ideas | 识别文本草稿在感染力或修辞上的不足，通过修改使其更具表现力。 | 根据目标受众需求，对已有视觉传达方案调整要素布局与色彩隐喻。 | 评估已有社会倡议方案的潜在副作用，修改方案以提升社会公平性。 | 识别现有实验设计的控制[[Variable\|变量]]漏洞，改进设计以提升[[Internal Validity\|内部效度]]。 |
+> | **评估与改进构想**<br>Evaluating & Improving Ideas | 识别文本草稿在感染力或修辞上的不足，通过修改使其更具表现力。 | 根据目标受众需求，对已有视觉传达方案调整要素布局与色彩隐喻。 | 评估已有社会倡议方案的潜在[[Side Effects\|副作用]]，修改方案以提升社会公平性。 | 识别现有实验设计的控制[[Variable\|变量]]漏洞，改进设计以提升[[Internal Validity\|内部效度]]。 |
 
 > [!proc] 计算机化人机交互实施模式
 > 1. **情境化引导界面** 学生在计算机屏幕上进入模拟真实生活的数字化操作平台（如交互式画板、科学实验模拟器或社区论坛）。

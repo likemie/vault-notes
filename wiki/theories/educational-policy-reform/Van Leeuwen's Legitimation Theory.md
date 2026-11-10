@@ -7,7 +7,7 @@ aliases:
 summary: "分析公共论述如何取得正当性的四层次框架，包括权威与传统、道德价值、理性与真理、奖励叙事，可用于解释教育政策如何包装证据立场"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 18
+theory_related_count: 19
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_theories: []
 related_methods:
   - "[[Carnivalesque Analysis]]"
   - "[[Case Study]]"
+  - "[[Knowledge Extent]]"
   - "[[Discourse Analysis]]"
 related_persons:
   - "[[John Hattie]]"
@@ -45,7 +46,7 @@ related_instruments: []
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!info] 核心主张
@@ -85,7 +86,7 @@ updated: 2026-10-22
 >
 
 > [!note-] 发展脉络
-> [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]提供的唯一来源是 Van Leeuwen（2007）的原始框架，未涉及该理论的后续发展或修订，本条目的知识范围因此受限于此单一来源。
+> [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]提供的唯一来源是 Van Leeuwen（2007）的原始框架，未涉及该理论的后续发展或修订，本条目的[[Knowledge Extent|知识范围]]因此受限于此单一来源。
 >
 > 该理论被 Bainbridge et al. 引入教育政策分析，与 Stevens（2019）的 道德侧步 概念、Malone and Hogan（2020）的 正当理由 框架、以及 Archer（2000）的 corporate agency / primary agency 区分共同构成论文的理论框架([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.9]])。
 >

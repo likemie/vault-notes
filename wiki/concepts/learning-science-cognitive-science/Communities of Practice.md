@@ -9,7 +9,7 @@ aliases:
 summary: "由一群围绕共同关注的问题、事业或追求，通过持续而规律的社会交往与共享实践，共同深化专业知识并逐步建构专业身份认同的社会化协作群体。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,7 +20,9 @@ tags:
 related_concepts:
   - "[[Professional Learning Community]]"
   - "[[Construct]]"
+  - "[[Research Tool]]"
   - "[[Knowledge Co-production]]"
+  - "[[Early-Career Researchers]]"
   - "[[Tacit Knowledge]]"
   - "[[Heterogeneity]]"
   - "[[Apprenticeship]]"
@@ -46,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -73,7 +75,7 @@ updated: 2026-11-03
 > [!feature] 实践共同体的三大结构性支柱
 > - **共同事业领域（Domain）** 共同体赖以凝聚的共同身份与主题边界；成员对半导体等前沿领域的重大战略攻坚拥有共同的使命认同与价值承诺。
 > - **人际互动社群（Community）** 成员在共同探索中建立的信任关系与社会网络；通过正式研讨与非正式社交建立长效沟通管道，开展平等的智识交往。
-> - **共享实践资源（Practice）** 共同体在历史演进中积累的共享知识库、专业术语、研究工具、案例库、工作规程与未言明的经验习惯。
+> - **共享实践资源（Practice）** 共同体在历史演进中积累的共享知识库、专业术语、[[Research Tool|研究工具]]、案例库、工作规程与未言明的经验习惯。
 
 > [!logic-map]- 要素相互关系
 > ```mermaid
@@ -94,7 +96,7 @@ updated: 2026-11-03
 > **合法边缘性参与机制** 学习是学习者以“合法[[Legitimate Peripheral Participation|边缘参与]]者”（Legitimate Peripheral Participation, LPP）身份介入真实实践共同体文化的过程，有别于去情境化的知识符号灌输；初学者通过观察、倾听、承担外围边缘性任务获得共同体成员身份认同，并在日常互动中逐渐向核心主导参与演进。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2–3, 6)]]
 
 > [!claim] [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]]
-> **国家战略跨学科共同体孵化效应** 在高校面向国家重大产业政策开展跨学科动员时，单次宣讲无法建立[[Knowledge Co-production|协同生产]]力，唯有多期迭代工作坊能够为初涉芯片研究的青年学者开辟合法边缘性参与空间，容纳其先作为“倾听者与观察者”逐步沉浸，进而与资深学者共同构建跨学科科研实践共同体。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, p. 6)]]
+> **国家战略跨学科共同体孵化效应** 在高校面向国家重大产业政策开展跨学科动员时，单次宣讲无法建立[[Knowledge Co-production|协同生产]]力，唯有多期迭代工作坊能够为初涉芯片研究的[[Early-Career Researchers|青年学者]]开辟合法边缘性参与空间，容纳其先作为“倾听者与观察者”逐步沉浸，进而与资深学者共同构建跨学科科研实践共同体。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, p. 6)]]
 
 ---
 

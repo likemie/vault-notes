@@ -25,13 +25,13 @@ tags:
   - theme/science-of-science
 related_concepts:
   - "[[Counterfactual]]"
-  - "[[Learning Economy]]"
   - "[[Unit of Analysis]]"
   - "[[Creativity]]"
   - "[[Epistemology]]"
   - "[[Scientific Productivity]]"
   - "[[Emergence]]"
   - "[[Document]]"
+  - "[[Scientific Creativity]]"
   - "[[Big Science]]"
   - "[[Variable]]"
 related_theories:
@@ -51,15 +51,15 @@ related_persons:
   - "[[Lu Liu]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Liu_2018_Nature]]"
   - "[[Argument_Sinatra_2016_Science]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
+  - "[[Argument_Liu_2018_Nature]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -124,7 +124,7 @@ updated: 2026-11-03
 > - $n(t)$：学者在学术年龄 $t$ 时的实际发文产出篇数。
 > - $t^*_{\text{rand}}$：置换反事实序列中最高引文成果所在的学术年龄。
 >
-> **数学直觉** 构造时间无偏的反事实对照基准。若科学创造力具有某种特定的青年生理优势或经验老成机制，则真实巅峰时间分布 $P(t^*)$ 应显著偏离打乱时序后的 $P_{\text{rand}}(t^*)$；若两曲线完全重合，则证实时间维度的波峰纯粹是由各年龄阶段发文抽样频率 $n(t)$ 差异所决定的统计必然。
+> **数学直觉** 构造时间无偏的反事实对照基准。若[[Scientific Creativity|科学创造力]]具有某种特定的青年生理优势或经验老成机制，则真实巅峰时间分布 $P(t^*)$ 应显著偏离打乱时序后的 $P_{\text{rand}}(t^*)$；若两曲线完全重合，则证实时间维度的波峰纯粹是由各年龄阶段发文抽样频率 $n(t)$ 差异所决定的统计必然。
 >
 > > [!example]- 手算示例
 > > 假定某学者终身发表 4 篇成果（$N=4$），学术年龄与十年引文分别为：$(t_1=2, c_1=15)$、$(t_2=5, c_2=80)$、$(t_3=6, c_3=10)$、$(t_4=18, c_4=5)$。真实巅峰成果为第 2 篇（$t^*=5, c_{10}=80$）。

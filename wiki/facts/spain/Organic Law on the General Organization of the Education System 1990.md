@@ -12,7 +12,7 @@ subtype: policy
 region: spain
 fact_region: "spain"
 fact_kind: "policy"
-fact_related_count: 16
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -26,10 +26,12 @@ tags:
 related_concepts:
   - "[[Educational Decentralization]]"
   - "[[Educational Level]]"
+  - "[[Professional Interest]]"
   - "[[Comprehensive Education]]"
   - "[[Grade Retention]]"
   - "[[Constructivist Paradigm]]"
   - "[[Discourse]]"
+  - "[[Nationalism]]"
   - "[[Going Native]]"
   - "[[Academic Achievement]]"
   - "[[Competitiveness]]"
@@ -46,7 +48,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -64,7 +66,7 @@ updated: 2026-10-30
 
 > [!policy-design] 政策设计
 > - **政策目标** 追求教育形式平等，消灭 14 岁时的早期制度化筛选淘汰，提高全民[[Educational Level|受教育水平]]，融入欧洲一体化现代教育标准。
-> - **适用对象** 全体 12 至 16 岁适龄青少年，无论学业基础、志趣或职业倾向，一律强制纳入同一综合初中轨道修习相同课程。
+> - **适用对象** 全体 12 至 16 岁适龄青少年，无论学业基础、[[Professional Interest|志趣]]或职业倾向，一律强制纳入同一综合初中轨道修习相同课程。
 > - **政策工具** 设立四年初中（ESO）学制，后接两年制多样化高中（Bachillerato）或中级职业培训（Formación Profesional de Grado Medio，CFGM）；下放学校课程 35%–45% 的自主规划权给自治区。
 > - **约束机制** 实行初中统一步调结业文凭（Graduado en ESO），未取得文凭者不得升入普通高中；全面取消全国性统一学术水平测试。
 
@@ -109,7 +111,7 @@ updated: 2026-10-30
 > |:---|:---|:---|:---|:---|
 > | 社会党政府与教育部官僚 | 权威、立法权与政党意识形态纲领 | 推进形式平等，兑现民主化转型平权承诺 | 坚决支持 | 延长义务综合学制至 16 岁，废除选拔性分流 |
 > | 人民党与保守教育阵营 | 议会反对党地位与保守媒体[[Discourse\|话语]]权 | 维护学术严谨性、拔尖英才选拔与国家统一 | 反对批判 | 批判均质学制平庸化，主张 14 岁分轨与国家统考 |
-> | 自治区民族主义政党 | 地方行政控制权与区域立法权 | 争取最大程度教育自治，构建区域排他体系 | 条件支持 | 推动课程[[Going Native\|本土化]]与管理权全盘下放，蚕食中央统筹权 |
+> | 自治区[[Nationalism\|民族主义]]政党 | 地方行政控制权与区域立法权 | 争取最大程度教育自治，构建区域排他体系 | 条件支持 | 推动课程[[Going Native\|本土化]]与管理权全盘下放，蚕食中央统筹权 |
 > | 中学一线教职工工会 | 专业劳动时间与职业健康诉求 | 缓解教学纪律失控，降低职业负荷 | 普遍受挫 | 呼吁降低生师比，增加学业辅导资源，申请病假与提早退休 |
 
 > [!tension]- 联盟结构与冲突

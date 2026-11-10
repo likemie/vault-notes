@@ -9,7 +9,7 @@ subtype: policy
 region: multi
 fact_region: "multi"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -24,13 +24,14 @@ tags:
   - region/east-asia
   - level/international
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Liberalization]]"
   - "[[Total Factor Productivity]]"
+  - "[[Study Abroad]]"
   - "[[Education Going Global]]"
   - "[[Competitiveness]]"
   - "[[Internationalization of Vocational Education]]"
   - "[[Industry-Education Integration Community]]"
-  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -59,11 +60,11 @@ updated: 2026-11-02
 ---
 
 > [!claim] 政策核心
-> 区域全面经济伙伴关系协定（Regional Comprehensive Economic Partnership, RCEP）通过全面消减关税壁垒、统一区域原产地累积规则与放宽服务贸易准入，重塑亚太跨国供应链与生产网络；在教育与劳动力领域，客观倒逼成员国推进专业技术资格互认、搭建跨国教育协作联盟并培育复合型工程技术技能人才。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288, 291)]]
+> 区域全面经济伙伴关系协定（Regional Comprehensive Economic Partnership, RCEP）通过全面消减关税壁垒、统一区域原产地累积规则与放宽服务贸易准入，重塑亚太跨国供应链与生产网络；在教育与劳动力领域，客观倒逼成员国推进专业技术资格互认、搭建[[Transnational Education|跨国教育]]协作联盟并培育复合型工程技术技能人才。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288, 291)]]
 
 > [!policy-design] 政策设计
 > - **政策目标** 达成高水平货物与服务贸易[[Liberalization|自由化]]，构建多边经贸与产能合作生态，带动区域[[Total Factor Productivity|全要素生产率]]与技术创新协同。
-> - **适用对象** 成员国政府经贸与教育部门、跨国制造与服务企业、高等院校与职业院校，以及跨境流动的专业人才与国际留学生。
+> - **适用对象** 成员国政府经贸与教育部门、跨国制造与服务企业、高等院校与职业院校，以及跨境流动的专业人才与国际[[Study Abroad|留学]]生。
 > - **政策工具** 统一原产地累积规则、服务贸易负面清单、投资便利化机制、标准与合格评定互认，以及配套的跨国技能人才联合培养。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288, 291)]]
 > - **约束机制** 具有刚性国际法效力的经贸协定条文、定期部长级磋商评估机制与争端解决规程。
 

@@ -7,7 +7,7 @@ summary: "美国社会学家和计量方法论学者，因果建模和社会科�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 7
+person_related_count: 8
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
+  - "[[Doctoral Dissertation]]"
 related_theories: []
 related_methods:
   - "[[Causal Modeling]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!person-profile] 人物档案
@@ -56,4 +57,4 @@ updated: 2026-10-30
 > [!success] 影响
 > - Blalock 的[[Causal Modeling\|因果建模]]方法为后来的路径分析（path analysis）和[[Causal Modeling\|结构方程建模]]（[[Causal Modeling\|SEM]]）提供了概念基础
 > - 他的视觉因果图符号规则至今仍是[[Quantitative Research\|量化研究]]论文中绘制理论模型图的基本规范
-> - Jungnickel (1990) 在其博士论文中遵循 Blalock 的符号规则构建了关于药学院教师研究生产力的复杂视觉模型([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.59–60]])
+> - Jungnickel (1990) 在其[[Doctoral Dissertation|博士论文]]中遵循 Blalock 的符号规则构建了关于药学院教师研究生产力的复杂视觉模型([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.59–60]])

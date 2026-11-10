@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[National Innovation System]]"
   - "[[Educational Privatisation]]"
   - "[[Knowledge Mediation]]"
+  - "[[Early-Career Researchers]]"
   - "[[Research Utilization]]"
 related_theories: []
 related_methods:
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -84,7 +85,7 @@ updated: 2026-11-02
 
 > [!finding-cards] 核心业务与学术产品矩阵
 > - **旗舰出版物《NORRAG 特刊》（NORRAG Special Issue, [[National Innovation System|NSI]]）** 定期围绕全球教育热点议题（如[[Educational Privatisation|教育私有化]]、[[Knowledge Mediation|知识中介]]、人工智能与数据治理）组织跨国多视角特刊，提供多语种全文开放获取。
-> - **多语种政策博客与资源门户** 运营全球多语种政策分析博客，为全球南方中青年学者提供直接向全球政策制定者表达批判性学术见解的公共空间。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 60–61)]]
+> - **多语种政策博客与资源门户** 运营全球多语种政策分析博客，为全球南方中[[Early-Career Researchers|青年学者]]提供直接向全球政策制定者表达批判性学术见解的公共空间。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 60–61)]]
 > - **受托跨国战略审查与项目评估** 承担联合国教科文组织、[[Global Partnership for Education|全球教育伙伴关系]]（[[Knowledge and Innovation Exchange|GPE KIX]]）等全球多边机构在[[Research Utilization|知识利用]]、区域枢纽运行及跨国援助效能方面的实证评估课题。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 7–9)]]
 
 ---

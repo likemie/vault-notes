@@ -9,7 +9,7 @@ summary: "美国社会学家，加州大学圣地亚哥分校荣休教授，存�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Interpretive Paradigm]]"
   - "[[Positivism]]"
   - "[[Reflexivity]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Commensuration]]"
   - "[[Indexicality]]"
   - "[[Determinism]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -71,7 +72,7 @@ updated: 2026-10-22
 
 > [!timeline] 生平与职涯
 > - **1937** 出生于美国，早年在普林斯顿大学接受严格的社会学理论与方法论训练，获社会学博士学位。
-> - **1967** 出版博士论文《自杀的社会意义》（*The Social Meanings of Suicide*），彻底颠覆涂尔干自杀论的实证神话，证明官方自杀统计数据实质上是验尸官与官方官僚机构分类建构的产物。
+> - **1967** 出版[[Doctoral Dissertation|博士论文]]《自杀的社会意义》（*The Social Meanings of Suicide*），彻底颠覆涂尔干自杀论的实证神话，证明官方自杀统计数据实质上是验尸官与官方官僚机构分类建构的产物。
 > - **1969–1990s** 长期执教于加州大学圣迭戈分校（UCSD），汇聚舒茨[[Phenomenology\|现象学]]、常人方法学与存在主义哲学，开创极具影响力的“UCSD 日常生活社会学派”。
 > - **1970** 编著出版《理解日常生活》（*Understanding Everyday Life*），向美国主流社会学界系统引介欧洲现象学与质性微观社会学。
 > - **1973** 出版《社会学导论：情境与结构》（*Introduction to Sociology: Situations and Structures*），提出[[Normative Paradigm\|规范范式]]与[[Interpretive Paradigm\|诠释范式]]两大体系的经典两分法。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 17–18)]]

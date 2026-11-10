@@ -58,6 +58,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Divergent Thinking]]"
   - "[[Ontology]]"
+  - "[[Cumulative Innovation]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Epoché]]"
 related_theories:
@@ -79,14 +80,14 @@ sources:
 part_of:
 status: draft
 created: 2026-09-22
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Naeem_2026_Episteme"
 argument_key: "Argument_Naeem_2026_Episteme"
 argument_display_title: "Teaching skills and intellectual virtues with generative AI"
 argument_kind: "journal-article"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -414,7 +415,7 @@ issuing_organization: ""
 > > [!axis] 质疑二：生动故事所唤起的着迷感，能否真正转化为持久稳定的求真品格？
 > > 怀疑论者提出，儿童在听故事时感受到的着迷与惊奇可能只是一种稍纵即逝的娱乐消遣心理；当面对枯燥艰深的硬核学习任务时，这种短暂的情感极易消散，无法可靠沉淀为克服认知挫折的坚毅求真品格。
 > >
-> > - **纳伊姆回应立场（理论自洽与实证接轨）** 布雷迪与巴塔利的情感认识论在理论层面上严谨论证了情感对动机重塑的决定性机理；为了在现实中检验这一转化成效，教育界完全可以在后续研究中引入先进的纵向实证测量工具，例如奥罗纳等人（Orona et al., 2024）开发的理智品格多维测评框架，对长期使用 Q-Tutor 系统的儿童进行追踪评估。哲学规范推演与实证心理测量相辅相成，共同构成了验证美德养成假说的完整科学进路。
+> > - **纳伊姆回应立场（理论自洽与实证接轨）** 布雷迪与巴塔利的情感认识论在理论层面上严谨论证了情感对动机重塑的决定性机理；为了在现实中检验这一转化成效，教育界完全可以在[[Cumulative Innovation|后续研究]]中引入先进的纵向实证测量工具，例如奥罗纳等人（Orona et al., 2024）开发的理智品格多维测评框架，对长期使用 Q-Tutor 系统的儿童进行追踪评估。哲学规范推演与实证心理测量相辅相成，共同构成了验证美德养成假说的完整科学进路。
 
 ---
 

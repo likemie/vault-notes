@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 31
+fact_related_count: 32
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -47,6 +47,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Research Synthesis]]"
+  - "[[Knowledge Extent]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-26
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -114,7 +115,7 @@ updated: 2026-11-02
 
 > [!pathways] 业务运行机制
 > - **议程设置与选题确立** 接受国会法定授权、联邦行政部门委托或基金会定向资助，确保课题切中重大国家战略需求与政策前沿。
-> - **实证证据精细梳理与转译** 在 [[Common Core State Standards|CCSS]] 研讨中，NRC 重点聚焦两大实证研究线索：一是安德鲁·波特（Andrew Porter）团队对全美 31 个州课程标准的精细微观比对，揭露各州大纲在知识广度与深度上的巨大混乱；二是将各州及格标准映射到[[National Assessment of Educational Progress|全国教育进展评估]]（[[National Assessment of Educational Progress|NAEP]]）上的实证研究。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 10)]]
+> - **实证证据精细梳理与转译** 在 [[Common Core State Standards|CCSS]] 研讨中，NRC 重点聚焦两大实证研究线索：一是安德鲁·波特（Andrew Porter）团队对全美 31 个州课程标准的精细微观比对，揭露各州大纲在[[Knowledge Extent|知识广度]]与深度上的巨大混乱；二是将各州及格标准映射到[[National Assessment of Educational Progress|全国教育进展评估]]（[[National Assessment of Educational Progress|NAEP]]）上的实证研究。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 10)]]
 > - **质量控制与透明度保障** 执行严格的利益申报公开、委员会构成平衡审查、独立同行评议以及审查意见强制答辩机制，确保研究过程免受资助方意志干预。
 
 ---

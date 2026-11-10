@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -24,6 +24,7 @@ tags:
   - region/global
 related_concepts:
   - "[[Discipline-Based Theory]]"
+  - "[[Transnational Education]]"
   - "[[International Education]]"
   - "[[Lifelong Learning]]"
   - "[[Paradigm]]"
@@ -56,13 +57,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定位
-> 世界比较教育学会联合会（World Council of Comparative Education Societies, WCCES）是全球比较教育学界唯一的国际非政府伞状学术联合组织（NGO），享有[[UNESCO|联合国教科文组织]]（[[UNESCO]]）正式业务合作与咨商地位。其核心使命是联结各大洲与各国比较教育专业学会，抵御政治与意识形态霸权对教育研究的干预，推动全球学术平等对话、[[Discipline-Based Theory|学科理论]]反思与跨国教育合作。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
+> 世界比较教育学会联合会（World Council of Comparative Education Societies, WCCES）是全球比较教育学界唯一的国际非政府伞状学术联合组织（NGO），享有[[UNESCO|联合国教科文组织]]（[[UNESCO]]）正式业务合作与咨商地位。其核心使命是联结各大洲与各国比较教育专业学会，抵御政治与意识形态霸权对教育研究的干预，推动全球学术平等对话、[[Discipline-Based Theory|学科理论]]反思与[[Transnational Education|跨国教育]]合作。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1970 年 8 月在加拿大渥太华召开的第 1 届世界比较教育大会期间正式宣布成立，主要发起方包括美国[[Comparative and International Education Society|比较与国际教育学会]]（[[Comparative and International Education Society|CIES]]）、[[Comparative Education Society in Europe|欧洲比较教育学会]]（[[Comparative Education Society in Europe|CESE]]）、加拿大比较与[[International Education|国际教育]]学会（CIESC）及日本比较教育学会（JCES）等先驱学术社团。

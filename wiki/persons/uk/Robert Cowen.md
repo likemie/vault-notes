@@ -7,7 +7,7 @@ summary: "英国比较教育学者，以 transitology、现代／晚期现代教
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 54
+person_related_count: 56
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Vergegenkunft]]"
   - "[[Reflexivity]]"
   - "[[Ontology]]"
+  - "[[Transnational Education]]"
   - "[[Geometries of Insertion]]"
   - "[[Document]]"
   - "[[Academic Iconography]]"
@@ -42,6 +43,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Deductive Rationality]]"
   - "[[Totally Pedagogised Society]]"
+  - "[[Problematisation]]"
   - "[[Policy Mobility]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Assemblage]]"
@@ -83,7 +85,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-08
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -123,7 +125,7 @@ updated: 2026-11-02
 >   界定教育转移在学科实践建制中的本体地位，确立学科[[Reflexivity|反思性]]边界。
 >   - **代表著作** *Acting comparatively upon the educational world: puzzles and possibilities* (2006)。（引自 [[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 341]]）
 >   - **关键概念** 应用比较教育（Applied Comparative Education）、教育转移[[Ontology|本体论]]。
->   - **阶段转向** 明确界定跨国教育转移（educational transfer）始终是“应用比较教育”的立身之本与存在理由（*raison d'être*），强调学者介入政策咨询时必须警惕去语境化的浅层移植。
+>   - **阶段转向** 明确界定[[Transnational Education|跨国教育]]转移（educational transfer）始终是“应用比较教育”的立身之本与存在理由（*raison d'être*），强调学者介入政策咨询时必须警惕去语境化的浅层移植。
 > - **2009 — [[Transfer Translation Transformation\|3T 框架]]与[[Shape-Shifting\|形变]]阶段**
 >   处理教育现象在跨国移动中的“物理与化学变化”，探讨外来思想如何在地发生本土变异。
 >   - **代表著作** *The transfer, translation, and transformation of educational processes: And their shape-shifting?* (2009)。[[Argument_Cowen_2009_CE\|(Cowen, 2009b, pp. 315–327)]]
@@ -151,7 +153,7 @@ updated: 2026-11-02
 > 原文：*"As it moves, it morphs."* ([[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 315]])
 
 > [!citation-card] 考恩论战后比较教育的方法论拜物教与借贷善行迷思
-> 1950 年代与 1960 年代是比较教育学极度匮乏理论思考的时期：“换言之，当时被当作理论化的东西，实际上是强硬方法论[[Discourse|话语]]与方法论流派的建构”。除多元文化问题外，文化并未在政治视野中被问题化，而是屈从于关于科学实证方法的讨论。这一时期的比较教育研究被一种智识与政治上的盲目自信所主导——确信“作为贷方是一种善行，只要有资金和优质的咨询建议，作为借方就并不危险”。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 344–345)]]；引自 Cowen (1994:102)
+> 1950 年代与 1960 年代是比较教育学极度匮乏理论思考的时期：“换言之，当时被当作理论化的东西，实际上是强硬方法论[[Discourse|话语]]与方法论流派的建构”。除多元文化问题外，文化并未在政治视野中被[[Problematisation|问题化]]，而是屈从于关于科学实证方法的讨论。这一时期的比较教育研究被一种智识与政治上的盲目自信所主导——确信“作为贷方是一种善行，只要有资金和优质的咨询建议，作为借方就并不危险”。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 344–345)]]；引自 Cowen (1994:102)
 >
 > *...a period in which little theorising occurred: 'That is, what passed as theorizing was the construction of a strong methodological discourse, and methodological schools'... culture was not problematized in terms of the political universe... dominated by an 'intellectual and political confidence that being a lender was a benign act, and that being a borrower was not too dangerous if money and good consultancy advice was available'.*
 

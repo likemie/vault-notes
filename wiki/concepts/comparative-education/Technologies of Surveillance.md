@@ -9,7 +9,7 @@ aliases:
 summary: "在跨国教育软法治理与比较教育研究中，指依托数据化表征、跨国排位与同行评审促成政策合规的整套操作化技术工具，主要由凝视技术（Theasis）、绩效技术（Performance）与治理技术（Governance）三重维度构成，促使被监视国家在无行政强制的情境下实现政策自我审查与看齐。"
 type: concept
 domain: "comparative-education"
-related_count: 17
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
   - benchmarking
   - educational-governance
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Operationalization]]"
   - "[[Open Method of Coordination]]"
   - "[[Research Translation]]"
@@ -30,6 +31,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Performance Indicators]]"
   - "[[Peer Pressure]]"
+  - "[[Research Tool]]"
   - "[[Governing by Numbers]]"
   - "[[Epistemology]]"
 related_theories:
@@ -47,13 +49,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Technologies of Surveillance
-> **监视技术（Technologies of Surveillance）** 在比较教育学与跨国教育治理研究中，指国际组织与超国家实体在缺乏强制立法权的前提下，依托数据表征、基准比对与同行评审促成各成员国政策自我约束与持续趋同的整套[[Operationalization|操作化]]规训工具网络。该概念由诺沃亚（[[António Nóvoa]]）、亚里夫-马沙尔（Tali Yariv-Mashal）以及帕西亚斯（George Pasias）等学者系统阐述，提炼为包含凝视技术（Theasis）、绩效技术（Performance）与治理技术（Governance）的三重操作矩阵，揭示了[[Open Method of Coordination|开放协调法]]（OMC）等软法治理如何将企业绩效审计[[Research Translation|技术转化]]为全景式的国家教育监控机制。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 492–493)]]
+> **监视技术（Technologies of Surveillance）** 在比较教育学与[[Transnational Education|跨国教育]]治理研究中，指国际组织与超国家实体在缺乏强制立法权的前提下，依托数据表征、基准比对与同行评审促成各成员国政策自我约束与持续趋同的整套[[Operationalization|操作化]]规训工具网络。该概念由诺沃亚（[[António Nóvoa]]）、亚里夫-马沙尔（Tali Yariv-Mashal）以及帕西亚斯（George Pasias）等学者系统阐述，提炼为包含凝视技术（Theasis）、绩效技术（Performance）与治理技术（Governance）的三重操作矩阵，揭示了[[Open Method of Coordination|开放协调法]]（OMC）等软法治理如何将企业绩效审计[[Research Translation|技术转化]]为全景式的国家教育监控机制。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 492–493)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向权力主体用于捕获、呈现并考核行动者表现的具体规程与工具形态，旨在制造可见性差距与合规焦虑。
@@ -98,7 +100,7 @@ updated: 2026-10-30
 
 > [!applications] 比较教育与政策治理应用
 > - **解构跨国教育软法治理的微观效力** 阐明为何没有法律强制与制裁措施的开放协调法能够强力促动主权国家推进教育改革，揭示数据可见性所具有的深层政治强制力。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 492–493)]]
-> - **揭示比较教育研究工具的治理化异化** 诺沃亚等人指出，传统以促进国际理解为初衷的比较教育指标与比较调查，在监视技术的作用下异化为超国家集团掌舵与控制民族国家的权力工具。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480, 492)]]
+> - **揭示比较教育[[Research Tool|研究工具]]的治理化异化** 诺沃亚等人指出，传统以促进国际理解为初衷的比较教育指标与比较调查，在监视技术的作用下异化为超国家集团掌舵与控制民族国家的权力工具。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480, 492)]]
 
 ---
 

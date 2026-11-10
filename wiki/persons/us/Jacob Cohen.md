@@ -37,11 +37,11 @@ related_theories: []
 related_methods:
   - "[[Power Analysis]]"
   - "[[Effect Size]]"
+  - "[[Statistical Significance]]"
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
   - "[[Experimental Research]]"
   - "[[Quantitative Research]]"
-  - "[[Statistical Significance]]"
   - "[[Meta-analysis]]"
   - "[[Research Synthesis]]"
   - "[[Standard Error]]"
@@ -59,14 +59,14 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-05
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名定量心理学家与统计学家，纽约大学（New York University）心理学荣休教授，行为科学[[Power Analysis|统计功效分析]]（Statistical Power Analysis）与[[Effect Size|效应量]]（Effect Size）测量运动的奠基人。
-> - **核心角色** 批判传统[[Null Hypothesis|虚无假设]]显著性检验（NHST）对实证推论的垄断，开创性构建了以标准化均值差 Cohen's $d$ 为核心的效应量量化体系，并提出小/中/大（0.2 / 0.5 / 0.8）经验参考阈值，深刻改变了当代社会科学与教育研究的证据评价基准。[[Argument_Allerup_2015_Paideia|(Allerup, 2015, p. 43)]]
+> - **核心角色** 批判传统[[Null Hypothesis|虚无假设]][[Statistical Significance|显著性检验]]（NHST）对实证推论的垄断，开创性构建了以标准化均值差 Cohen's $d$ 为核心的效应量量化体系，并提出小/中/大（0.2 / 0.5 / 0.8）经验参考阈值，深刻改变了当代社会科学与教育研究的证据评价基准。[[Argument_Allerup_2015_Paideia|(Allerup, 2015, p. 43)]]
 > - **代表贡献** 奠基性专著《行为科学的统计功效分析》（*Statistical Power Analysis for the Behavioral Sciences*, 1969, 1988）；提出标准化均值差指标 Cohen's $d$；倡导摆脱 $p$ 值崇拜，转向[[Effect Size|效应量]]与[[Confidence Interval|置信区间]]的综合报告。
 
 > [!citation-card] 雅各布·科恩的标准化差异语言

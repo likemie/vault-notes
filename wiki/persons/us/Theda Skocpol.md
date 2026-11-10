@@ -9,7 +9,7 @@ summary: "美国比较历史社会学家与政治学家，哈佛大学政府与�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -42,6 +42,7 @@ related_methods:
   - "[[Typological Analysis]]"
 related_instruments: []
 related_persons:
+  - "[[Vilfredo Pareto]]"
   - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"
 related_facts:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -62,7 +63,7 @@ updated: 2026-10-30
 > - **代表贡献** 出版比较历史分析奠基之作《国家与社会革命》（*States and Social Revolutions*，1979）；主编《找回国家》（*Bringing the State Back In*，1985）；出版社会政策与福利制度经典《保护士兵与母亲》（*Protecting Soldiers and Mothers*，1992）；倡导比较历史分析（CHA）的宏观因果构型方法。
 
 > [!citation-card] 制度作为权力与资源分配的非中性工具
-> 制度绝非社会行动者之间达成帕累托最优的[[Value Neutrality|价值中立]]协调工具，而是深深浸润着权力含义的分配性工具（distributional instruments laden with power implications）；制度的设计、运行与变迁，本质上都是在不平等地向不同社会群体和政治集团分配关键资源与权力优势。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 8)]]
+> 制度绝非社会行动者之间达成[[Vilfredo Pareto|帕累托]]最优的[[Value Neutrality|价值中立]]协调工具，而是深深浸润着权力含义的分配性工具（distributional instruments laden with power implications）；制度的设计、运行与变迁，本质上都是在不平等地向不同社会群体和政治集团分配关键资源与权力优势。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 8)]]
 
 > [!evidence-grid-a] 相关研究索引
 > - 制度变迁与权力分配模型：[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]]

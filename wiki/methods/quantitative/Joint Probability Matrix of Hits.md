@@ -10,7 +10,7 @@ summary: "科学学与创造力计量中量化个体职业生涯中高影响代�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 23
+method_related_count: 27
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -48,6 +48,10 @@ related_persons:
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
 related_facts:
+  - "[[Victorian HITS and Literacy Toolkit]]"
+  - "[[Internet Movie Database]]"
+  - "[[Web of Science]]"
+  - "[[Scopus]]"
   - "[[Microsoft Academic Graph]]"
 related_arguments:
   - "[[Argument_Liu_2018_Nature]]"
@@ -55,19 +59,19 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-06
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Joint Probability Matrix of Hits
-> 代表作联合发生概率矩阵（Joint Probability Matrix of Hits，$\phi(N^\ast, N^{\ast\ast})$）是科学学中用于检验学者、艺术家及电影导演全生命周期产出序列中顶级代表作是否具有时序自相关成簇特征的量化检验矩阵。通过统计个体最高被引论著（第 $N^\ast$ 篇）与次高被引论著（第 $N^{\ast\ast}$ 篇）在全产生涯序列中同时出现的经验联合概率分布 $P(N^\ast, N^{\ast\ast})$，并除以基于生涯洗牌法置换生成的独立随机[[Null Hypothesis|零假设]]期望 $P_{\text{rand}}(N^\ast, N^{\ast\ast})$，输出归一化比值矩阵 $\phi(N^\ast, N^{\ast\ast})$。[[Argument_Liu_2018_Nature|(Liu et al., 2018, pp. 396–397)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 72–74)]]
+> 代表作联合发生概率矩阵（Joint Probability Matrix of [[Victorian HITS and Literacy Toolkit|Hits]]，$\phi(N^\ast, N^{\ast\ast})$）是科学学中用于检验学者、艺术家及电影导演全生命周期产出序列中顶级代表作是否具有时序自相关成簇特征的量化检验矩阵。通过统计个体最高被引论著（第 $N^\ast$ 篇）与次高被引论著（第 $N^{\ast\ast}$ 篇）在全产生涯序列中同时出现的经验联合概率分布 $P(N^\ast, N^{\ast\ast})$，并除以基于生涯洗牌法置换生成的独立随机[[Null Hypothesis|零假设]]期望 $P_{\text{rand}}(N^\ast, N^{\ast\ast})$，输出归一化比值矩阵 $\phi(N^\ast, N^{\ast\ast})$。[[Argument_Liu_2018_Nature|(Liu et al., 2018, pp. 396–397)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 72–74)]]
 
 > [!method-scope] 方法范围
 > - **测量或估计对象** 测度个体学术生涯中的成果时序自相关性与[[Hot Streak|学术爆发期]]成簇强度。
 > - **问题类型** [[Creativity|创造力]]动力学中的随机过程检验、时序自相关诊断与局部成簇识别。
 > - **[[Unit of Analysis|分析单位]]** 具有长周期发表记录（通常产出成果数 $N \ge 20$）的学者、艺术家或电影导演个体全序列。
-> - **输入数据** 个体全生命周期发表成果的时间时序排列、各成果的十年被引频次（$c_{10}$）或拍卖成交额/IMDb 评分。
+> - **输入数据** 个体全生命周期发表成果的时间时序排列、各成果的十年被引频次（$c_{10}$）或拍卖成交额/[[Internet Movie Database|IMDb]] 评分。
 > - **输出形式** 二维实数归一化概率比值矩阵 $\phi \in \mathbb{R}^{N \times N}$ 及热力图。
 
 > [!citation-card] 关键定义
@@ -92,7 +96,7 @@ updated: 2026-11-06
 > [!dev-timeline] 方法演变
 > - **2016 — 随机影响法则与独立基准确立** [[Roberta Sinatra]] et al. 提出随机影响规律，确立单篇成果在全生涯服从均匀抽样，为联合矩阵提供了基线零假设。
 > - **2018 — 《自然》刊载成果正式提出代表作联合概率矩阵** [[Lu Liu|刘路]]与[[Dashun Wang|王大顺]]等人发明归一化联合概率矩阵 $\phi(N^\ast, N^{\ast\ast})$，首次在大样本实证中量化证实对角线峰值达到 1.57 倍，为学术爆发期提供首要实证支柱。[[Argument_Liu_2018_Nature|(Liu et al., 2018, pp. 396–397)]]
-> - **2021 — 科学学专著系统推广** 王大顺与巴拉巴西在《[[Metascience|科学的科学]]》专著中将该矩阵列为检验科研、艺术与影视跨界创造力动力学的标准诊断[[Paradigm|范式]]。
+> - **2021 — 科学学专著系统推广** 王大顺与[[Albert-László Barabási|巴拉巴西]]在《[[Metascience|科学的科学]]》专著中将该矩阵列为检验科研、艺术与影视跨界创造力动力学的标准诊断[[Paradigm|范式]]。
 
 ---
 
@@ -146,7 +150,7 @@ updated: 2026-11-06
 > > ![[wiki/assets/geogebra/joint_probability_matrix.ggb]]
 
 > [!software-impl] 软件实现
-> - **数据来源** Web of Science、Scopus 或 [[Microsoft Academic Graph|MAG]] 的长周期学者发表与引文序列。
+> - **数据来源** [[Web of Science]]、[[Scopus]] 或 [[Microsoft Academic Graph|MAG]] 的长周期学者发表与引文序列。
 > - **核心包或命令** Python `numpy`、`scipy`、`matplotlib` 或 `seaborn`。
 > - **实现流程** 提取个体作品被引排名 → 定位前两大成果发表位次 → 统计经验频数构建网格 → 通过洗牌模拟生成基准分母 → 矩阵逐元素相除输出热力图。
 > - **报告标准** 报告样本学者总数、单人最低成果门槛、归一化分箱精度（Bin size）及对角线统计显著性区间。

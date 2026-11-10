@@ -9,7 +9,7 @@ title: "Argument_Larsen_2019_EducSci"
 argument_key: "Argument_Larsen_2019_EducSci"
 argument_display_title: "Blindness in seeing: A philosophical critique of the Visible Learning paradigm in education"
 argument_kind: "journal-article"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -59,6 +59,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Academic Achievement]]"
   - "[[Blind Spot in Observation]]"
+  - "[[Cumulative Innovation]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Luhmann's Systems Theory]]"
@@ -94,7 +95,7 @@ sources:
 part_of: ''
 status: stable
 created: '2026-05-04'
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
@@ -402,7 +403,7 @@ updated: 2026-10-30
 > [!warning] 自述局限
 > - **个人哲学随笔的方法定位** 研究采取个人哲学随笔的学理进路，未系统汇总或依赖学术界对[[John Hattie|约翰·哈蒂]]已有的大量实证与统计技术批评。
 > - **未深究跨国政策成功的制度根由** 未能系统回答“可见学习为何能在[[International Education|国际教育]]政治中斩获如此巨大影响与狂热追捧”这一复杂的政治经济学问题，作者承认自身仅专注于[[Epistemology|认识论]]与存在论维度的学理解剖。
-> - **替代性教化构想仍待系统固化** 作为反思方案提出的德意志教化主张与具身化-延展辩证法，作者坦承其内涵与实操方案仍需在后续研究中进一步强化、固化与展开系统论证。
+> - **替代性教化构想仍待系统固化** 作为反思方案提出的德意志教化主张与具身化-延展辩证法，作者坦承其内涵与实操方案仍需在[[Cumulative Innovation|后续研究]]中进一步强化、固化与展开系统论证。
 > - **纯理论义理推演而未提供经验测算** 立足哲学、社会学与概念史展开学理辩证，未对大规模经验数据库进行复算或提出定量实证模型。
 
 ---

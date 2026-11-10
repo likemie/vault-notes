@@ -10,7 +10,7 @@ summary: "由 Roberta Sinatra、王大顺与 Albert-László Barabási (2016) �
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 20
+method_related_count: 25
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Research Impact]]"
   - "[[Unit of Analysis]]"
   - "[[Construct Validity]]"
+  - "[[Early-Career Researchers]]"
   - "[[Citation Distribution]]"
   - "[[Interaction Effect]]"
 related_theories:
@@ -45,13 +46,17 @@ related_persons:
   - "[[Roberta Sinatra]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
-related_facts: []
+related_facts:
+  - "[[Web of Science]]"
+  - "[[Scopus]]"
+  - "[[OpenAlex]]"
 related_arguments:
+  - "[[Argument_Sinatra_2016_Science]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-01
+updated: 2026-11-11
 ---
 
 ---
@@ -77,7 +82,7 @@ updated: 2026-11-01
 > - **[[Construct Validity|构念效度]]** 基于几何均值的设计有效避免了算术平均易受单一高引暴击成果扭曲的缺陷，聚焦于科研输出的一致性与稳定性，契合同行专家评审中对学者综合学术水准的定性感知。
 > - **研究者判断** 需确定长期引文统计窗口（默认采用 10 年窗口 $c_{10}$）与学科基准归一化常数 $\mu_p$。
 > - **有效性标准** 在受试者工作特征（[[Receiver Operating Characteristic Analysis|Receiver Operating Characteristic]], ROC）曲线中，以 Q 因子排序物理学者预测诺贝尔奖得主的曲线下面积（Area Under the Curve, AUC）达到最高，显著优于总引文数、最高单篇被引数及 h 指数。
-> - **不声称回答的问题** 不能直接用于仅发表两三篇论著的初级青年学者；无法反映单一成果涉及的实际产业效益与社会应用价值。
+> - **不声称回答的问题** 不能直接用于仅发表两三篇论著的初级[[Early-Career Researchers|青年学者]]；无法反映单一成果涉及的实际产业效益与社会应用价值。
 
 > [!method-stack] 方法层级
 > - **上位方法** [[Bibliometric Analysis|文献计量分析]] 与学者职业生涯动力学建模。
@@ -131,7 +136,7 @@ updated: 2026-11-01
 > > ![[wiki/assets/geogebra/sinatra_q_factor.ggb]]
 
 > [!software-impl] 软件实现
-> - **数据来源** Web of Science、Scopus、OpenAlex 等标准化引文数据库；需提取成果发表十年后的精确被引截断记录。
+> - **数据来源** [[Web of Science]]、[[Scopus]]、[[OpenAlex]] 等标准化引文数据库；需提取成果发表十年后的精确被引截断记录。
 > - **核心包或命令** Python `numpy`, `pandas`, `scipy.optimize`。
 > - **实现流程** 数据提取清洗、同名消歧、对数转换、学科常数扣除、指数还原。
 > - **报告标准** 报告学者样本纳入门槛（如 $N \ge 10$）、引文观测窗口年份、学科基准常数 $\mu_p$ 计算来源与估计[[Standard Error|标准误]]差。

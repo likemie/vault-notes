@@ -9,10 +9,10 @@ summary: "美国第四任总统，政治哲学家，美国宪法之父，《联�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1751"
 died: "1836"
 lifespan: "1751–1836"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Civic Religion]]"
   - "[[Procedural Piety]]"
+  - "[[Side Effects]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -91,7 +92,7 @@ updated: 2026-10-30
 
 > [!influence-path] 影响路径
 > - **宪政与制度设计路径** 确立的宪政分权与制衡机制成为全球现代民主宪制设计的典范标准。
-> - **现代国家能力与薪酬治理反思路径** 麦迪逊关于“议员不得自肥”的严苛道德警惕，在近代西方演化为一种僵化的[[Procedural Piety|程序虔敬]]与公职禁欲主义；卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中指出，麦迪逊时期的防腐设想在 21 世纪催生了意想不到的副作用——导致美联储主席年薪仅 19 万美元，直接阻断了无产阶级与中产专业英才参政通道，迫使现代治国者必须将麦迪逊的防腐审慎与[[Lee Kuan Yew|李光耀]]的市场化务实激励重新统合。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 181–183)]]
+> - **现代国家能力与薪酬治理反思路径** 麦迪逊关于“议员不得自肥”的严苛道德警惕，在近代西方演化为一种僵化的[[Procedural Piety|程序虔敬]]与公职禁欲主义；卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中指出，麦迪逊时期的防腐设想在 21 世纪催生了意想不到的[[Side Effects|副作用]]——导致美联储主席年薪仅 19 万美元，直接阻断了无产阶级与中产专业英才参政通道，迫使现代治国者必须将麦迪逊的防腐审慎与[[Lee Kuan Yew|李光耀]]的市场化务实激励重新统合。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 181–183)]]
 
 ---
 

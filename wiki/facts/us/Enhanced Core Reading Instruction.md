@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -41,6 +41,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[James C. Scott]]"
+  - "[[Ben Levin]]"
 related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[Success for All]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -80,7 +81,7 @@ updated: 2026-10-26
 > - **Tier 1 与 Tier 2 规程无缝对齐** Tier 2 干预教师或专业辅导人员在每日额外 30 分钟的小组辅导中，采用与全班 Tier 1 完全相同的提示语、纠错程序与手势信号，对当天核心课程的难点展开预先教学或二次高密度巩固，杜绝传统干预中“干预所教与全班所学两张皮”的认知冲突。
 > - **高频即时纠错反馈** 制定严格的课堂互动步调，要求教师在学生拼读出现停顿或错误时，立即按照“示范—引导—独立检查”标准规程在 3 秒内给予中性矫正。
 
-> [!citation-card] 斯莱文论 ECRI 在全校阅读改革中的实证地位
+> [!citation-card] 斯[[Ben Levin|莱文]]论 ECRI 在全校阅读改革中的实证地位
 > 在多层全校方案（Tier 1 + 辅导）层面，除了成熟的全员成功方案（[[Success for All]]）外，Enhanced Core Reading Instruction 在小学一年级由多所学校参与的严格因果试验中测得 +0.22 的学业[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）的强[[Evidence Standards\|证据标准]]，构成了全校性早期阅读改革的重要实证支柱。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *In whole-school/multitier approaches, besides Success for All, Enhanced Core Reading Instruction (ECRI) evaluated in first grade across multiple schools produced an effect size of +0.22, qualifying for the Strong rating under ESSA.*

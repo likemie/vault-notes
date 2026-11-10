@@ -10,7 +10,7 @@ aliases:
 summary: "指科技初创企业与敏捷工程组织中客观存在但未被刚性明文固化的隐性权力与协调结构；与传统企业森严僵化的显性科层制不同，影子层级具备高度流动性与快速重构性，通过保留适度的组织模糊性为雄心勃勃的基层人才创造主动填补真空的开放空间。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -32,12 +32,13 @@ related_persons:
   - "[[Nicholas Zamiska]]"
 related_facts:
   - "[[Palantir Technologies]]"
+  - "[[National Bureau of Economic Research]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11]]"
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -84,5 +85,5 @@ updated: 2026-11-03
 ---
 
 > [!dev-timeline] 概念演变
-> - **2003 — 实证经济学先声** 拉詹与沃尔夫（Rajan & Wulf, 2003）在美国全国经济研究所（National Bureau of Economic Research, NBER）发表《扁平化企业》，揭示美国大型企业首席执行官（Chief Executive Officer, CEO）直管人数从 4 人翻倍至 8 人的去中介化趋势。
+> - **2003 — 实证经济学先声** 拉詹与沃尔夫（Rajan & Wulf, 2003）在[[National Bureau of Economic Research|美国全国经济研究所]]（National Bureau of Economic Research, NBER）发表《扁平化企业》，揭示美国大型企业首席执行官（Chief Executive Officer, CEO）直管人数从 4 人翻倍至 8 人的去中介化趋势。
 > - **2025 — 理论提炼** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]在《[[Technological Republic|技术共和国]]》中提出影子层级理论，系统辩护生产性组织模糊性在激发前沿创新中的战略价值。

@@ -8,7 +8,7 @@ summary: "德国教育统计学家、经合组织（OECD）教育与技能司司
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 42
+person_related_count: 43
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[High-Stakes Testing]]"
   - "[[Critical Thinking]]"
   - "[[Problem Solving]]"
+  - "[[Transnational Education]]"
   - "[[Media Logic]]"
   - "[[Teacher Professional Agency]]"
   - "[[Creativity]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -149,7 +150,7 @@ updated: 2026-10-30
 > > - **施莱歇尔与[[OECD\|经合组织]]** 坚持全球化劳动力市场对[[Critical Thinking\|批判性思维]]与高阶[[Problem Solving\|问题解决]]提出了普遍要求，跨国标尺是促进教育公平与打破国内利益集团阻碍的利器。
 > > - **比较学者与批判教育家** 指责 [[PISA]] 抹杀各主权国家独特的历史文化传统与人文主义价值追求，将复杂的教育生态简化为单一维度的奥林匹克竞赛。(Open Letter, 2014)
 >
-> > [!axis] [[Policy Brokerage\|政策中介]]的中立性 vs 跨国教育产业与新自由主义推销
+> > [!axis] [[Policy Brokerage\|政策中介]]的中立性 vs [[Transnational Education|跨国教育]]产业与新自由主义推销
 > > 学者质疑经合组织披着客观中立外衣，实质推销特定市场化与私有化改革处方。
 > >
 > > - **施莱歇尔团队** 宣称经合组织仅提供客观实证数据与国际同行镜鉴，政策裁量权始终由主权国家政府保留。

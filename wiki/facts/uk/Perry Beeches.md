@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -41,7 +41,8 @@ related_methods:
   - "[[Cluster Randomized Trials]]"
 related_instruments:
   - "[[EEF Padlock Security Rating]]"
-related_persons: []
+related_persons:
+  - "[[Ben Levin]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Every Student Succeeds Act]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-10-22
 > - **一对一高强度师生互动** 助教手持结构化进度表，每天开展高频对话式精读，杜绝传统课后[[Homework\|作业]]托管的形式主义。
 > - **校级[[School Inspection\|教学督导]]严格把关** 资深阅读学科主管每周抽检助教个案档案，动态调整辅导策略。
 
-> [!citation-card] 斯莱文论 Perry Beeches 助教辅导的稳健增益
+> [!citation-card] 斯[[Ben Levin|莱文]]论 Perry Beeches 助教辅导的稳健增益
 > 在初等阅读高年级（六年级）助教辅导中，Perry Beeches 方案在经过英国 [[Education Endowment Foundation\|EEF]] 严格的[[Randomised Controlled Trials\|随机对照试验]]评估[[Pre-test and Post-test\|后测]]得了 +0.36 的学业[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *Tutoring provided by paraprofessionals in one-to-one formats was effective in Grade 6. Perry Beeches, evaluated in England, produced an effect size of +0.36, qualifying for the Strong rating under ESSA.*

@@ -7,10 +7,10 @@ aliases:
 summary: "比较教育学者赵勇与斯约伯格等针对经合组织 PISA 提出的批判性学术构念，指 PISA 预设存在一套独立于各民族国家历史传统、社会结构与发展情境的普适教育质量评价标准，将少数 OECD 发达市场经济体的现实偏好强加于全球近 200 个多样性社会。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/educational-policy-reform
   - theory/critical-theory
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Whole Person Education]]"
   - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Policy Borrowing]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Problem Solving]]"
 related_theories:
   - "[[Hegemony]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -110,7 +111,7 @@ updated: 2026-11-03
 > [!debates] 学术争议
 >
 > > [!axis] 全球通用素养 vs 本土文化特异性
-> > 围绕在高度全球化的现代世界中，是否存在超越特定国界的共同教育基础素养展开争论。
+> > 围绕在高度全球化的现代世界中，是否存在超越特定国界的共同教育[[Foundational Literacy and Numeracy|基础素养]]展开争论。
 > >
 > > - **全球化通用学派** 认为数字经济与全球供应链要求各国青年具备相同的阅读、数学与[[Problem Solving|问题解决]]基底。
 > > - **文化多元批判学派** 坚信教育的首要使命是传承本土文化认同与解决特定社会的生存发展矛盾，反对同质化指标规训。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]

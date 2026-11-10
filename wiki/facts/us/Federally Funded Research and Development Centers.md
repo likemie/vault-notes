@@ -12,9 +12,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 27
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: 联邦全额资助特设公私伙伴研发机构（GOCO）
 headquarters: 美国华盛顿特区及全美各专属基地（Washington, D.C. & Nationwide, USA）
@@ -29,11 +29,14 @@ related_concepts:
   - "[[Categorical Funding]]"
   - "[[Big Science]]"
   - "[[Megascience Installations]]"
+  - "[[Early-Career Researchers]]"
   - "[[Modern Industrial Policy]]"
   - "[[Public-Private Partnership]]"
   - "[[Block Grants]]"
   - "[[Research Universities]]"
   - "[[Academic Freedom]]"
+  - "[[Scientific Mobility]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Industry Affiliate Program]]"
 related_persons:
   - "[[Richard C. Atkinson]]"
@@ -60,7 +63,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -72,7 +75,7 @@ updated: 2026-10-30
 > - **成立时间 / 创设背景** 二战期间[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（OSRD）通过合同委托大学设立秘密攻关实验室（如加利福尼亚大学托管洛斯阿拉莫斯实验室、芝加哥大学托管冶金实验室）；战后为保留这一“政府所有、承包商运营”（Government-Owned, Contractor-Operated, GOCO）的高效动员模式，联邦政府于 1940 年代末将其制度化为常态化的 FFRDC 体系。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35, 38)]]
 > - **总部地点 / 业务辐射** 分布于全美数十个专门园区与前沿天文台址（如芝加哥费米实验室、伯克利国家实验室、夏威夷与智利的双子星天文台等），辐射全美大学学者共同体与联邦国家安全中枢。
 > - **法人属性与经费基础** 依据《联邦采购条例》（FAR）认定的法定研发特设实体；其土地、厂房、粒子加速器与超级计算机等[[Megascience Installations|大科学装置]]产权全部属于联邦政府，年度预算由联邦能源部（[[Department of Energy|DOE]]）、国防部（[[Department of Defense|DOD]]）、国家科学基金会（[[National Science Foundation|NSF]]）等单一部门全额保障。
-> - **核心宗旨与法定职责** 承担具有国家战略紧迫性、高度敏感涉密或耗资极其庞大的前沿科学与国防攻关任务；作为国家公共科研基础设施，面向全美大学教授与青年学者公平开放世界级大科学装置。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
+> - **核心宗旨与法定职责** 承担具有国家战略紧迫性、高度敏感涉密或耗资极其庞大的前沿科学与国防攻关任务；作为国家公共科研基础设施，面向全美大学教授与[[Early-Career Researchers|青年学者]]公平开放世界级大科学装置。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
 
 ---
 
@@ -88,11 +91,11 @@ updated: 2026-10-30
 > - **联邦出资与监管部门** 联邦能源部（[[Department of Energy|DOE]]）、国防部（DOD）、国家科学基金会（[[National Science Foundation|NSF]]）及[[National Aeronautics and Space Administration|国家航空航天局]]（NASA）等，负责设定国家战略目标、拨付年度[[Block Grants|总额预算]]并监督合规安全。
 > - **承包运营管理主体** 顶尖[[Research Universities|研究型大学]]联盟（如加利福尼亚大学系统、芝加哥大学联合体）、非营利研究机构或大型工业集团；负责组建管理团队、招聘科学家并维护[[Academic Freedom|学术自由]]探索文化。
 > - **大学学者用户委员会** 针对高能物理与天文观测等[[Big Science|大科学]]设施，设立全国科学家使用委员会，通过竞争性项目评审分配有限的高端装置运行机时。
-> - **常设研究梯队与访问学者流动网络** 拥有数千名专职高级科学家与工程技术人员，同时常年吸纳数百所国内外高校的教授、博士后与博士研究生在此开展前沿实验。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
+> - **常设研究梯队与访问[[Scientific Mobility|学者流动]]网络** 拥有数千名专职高级科学家与工程技术人员，同时常年吸纳数百所国内外高校的教授、博士后与博士研究生在此开展前沿实验。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
 
 > [!pathways] 竞争性开放与协同运作机制
 > - **装置运行机时的竞争性分配** 联邦资助机构（如 DOE 与 NSF）并不按行政级别平分实验机时，而是通过设立竞争性科研课题基金，让全美各高校科研人员凭借高水平学术申请书竞争费米实验室加速器束流或双子星望远镜观测机时。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
-> - **研究型大学与国家实验室深度共生** 承包大学的教授常兼任实验室研究员，大批博士研究生在此完成学位论文的关键实验；大学为实验室输送了源源不断的拔尖智力，实验室则为大学突破常规校园空间与经费上限提供了世界级大科学平台。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 38, 42)]]
+> - **研究型大学与国家实验室深度共生** 承包大学的教授常兼任实验室研究员，大批博士研究生在此完成[[Doctoral Dissertation|学位论文]]的关键实验；大学为实验室输送了源源不断的拔尖智力，实验室则为大学突破常规校园空间与经费上限提供了世界级大科学平台。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 38, 42)]]
 
 ---
 

@@ -11,7 +11,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Evaluator Independence]]"
   - "[[Policy Network]]"
   - "[[Discourse]]"
+  - "[[Theoretical Standpoint]]"
   - "[[European Education Space]]"
   - "[[Discursive Field]]"
   - "[[Document]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -137,7 +138,7 @@ updated: 2026-11-02
 > | [[PISA]] | Fact (Program) | 塑造同行学习活动旅行路线与芬兰考察热潮的核心评价指标。 |
 > | [[Lisbon Strategy]] | Fact (Event) | 催生同行学习活动作为软法治理工具的宏观发展战略。 |
 > | [[Open Method of Coordination]] | Concept | 同行学习活动所属的上位超国家软法治理机制。 |
-> | [[Policy Borrowing]] | Concept | 揭示同行学习活动中跨国经验转移与本土脱嵌风险的理论透镜。 |
+> | [[Policy Borrowing]] | Concept | 揭示同行学习活动中跨国经验转移与本土脱嵌风险的[[Theoretical Standpoint\|理论透镜]]。 |
 > | [[European Education Space]] | Concept | 同行学习活动致力于在实践层面加以编织的超国家[[Discursive Field\|话语空间]]。 |
 > | [[Individualised Instruction]] | Concept | 成员国专家赴芬兰考察中重点探讨的典型教学经验。 |
 > | [[Sotiria Grek]] | Person | 访谈欧盟官员并揭示同行学习活动方法论缺陷与表象模仿局限的学者。 |

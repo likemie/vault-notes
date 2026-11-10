@@ -9,10 +9,10 @@ aliases:
 summary: "围绕教育数据的去情境化抽取、算法通约折算与选择性再呈现而动态装配的社会-技术网络；是充斥算法选择性与即兴调配的实验性系统，深陷简化、通约、时效、公开与博弈五维张力，通过次级代表表象生产分布式治理权力。"
 type: concept
 domain: "sociology-of-education"
-related_count: 56
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 61
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - concept/sociology-of-education
   - theme/datafication
@@ -28,6 +28,7 @@ related_methods:
   - "[[Comparative Case Study]]"
   - "[[In-depth Interview]]"
   - "[[Case Study]]"
+  - "[[Record Linkage]]"
   - "[[Analytic Framework]]"
 related_arguments:
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
@@ -57,6 +58,7 @@ related_concepts:
   - "[[Topological Spatialisation]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
+  - "[[Clinical Trial]]"
   - "[[Center of Calculation]]"
 related_persons:
   - "[[Rob Kitchin]]"
@@ -78,13 +80,16 @@ related_facts:
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Massachusetts Department of Elementary and Secondary Education]]"
   - "[[Institute for Educational Monitoring and Quality Improvement]]"
+  - "[[Web of Science]]"
+  - "[[Microsoft Academic Graph]]"
+  - "[[SciSciNet]]"
   - "[[European Education Area]]"
 related_theories:
   - "[[Governing at a Distance]]"
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -241,12 +246,12 @@ updated: 2026-11-03
 > | [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019, p. 3)]] | 美国[[Massachusetts Department of Elementary and Secondary Education\|马萨诸塞州中小学教育部]]（DESE）、德国汉堡市学校与职业教育局（BSB）及[[Institute for Educational Monitoring and Quality Improvement\|汉堡教育监测与质量发展研究所]]（IfBQ） | 跨国[[Comparative Case Study\|比较案例研究]]与半结构化专家访谈 | 基础设施运作节点、数据流转规程与官员认知张力 | 开展 16 场[[In-depth Interview\|深度访谈]]（涵盖 20 位州级专业数据与政策官员）；确认数据流转贯穿采集、校验、建模与呈报四级架构 | 质性深度饱和 | 揭示了美德先锋州在全域数据化监测中普遍遭遇的五维做数据张力，证实系统非线性烹饪本质 |
 > | [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019, pp. 6–7)]] | 马萨诸塞州 RADAR 系统与汉堡社会指数（Hamburger Sozialindex） | 政策技术规程与在线仪表盘系统实证分析 | 统计对标算法推荐上限与社会指数分级体系 | RADAR 系统默认向学区推荐 10 所跨地域人口统计特征相似的学区展开资源对标；汉堡社会指数设立 1–6 级阶梯作为资源倾斜与统计基准 | 法定技术规程 | 呈现[[Commensuration\|通约]]算法在基层遭遇的地域文化抵制及行政系统的妥协应对 |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, pp. 34–36)]] | 针对可见学习收录的 800 余项一级[[Meta-analysis\|元分析]]及实证证据库生态 | 方法学批判与基础设施设计重构 | 中央证据数据库规范、主要研究全量元数据表、Hedges' $g$ 标准化与出版清单（Publikationslisten）认证 | 指出商业期刊篇幅与显著性偏爱导致基础统计量（$n_E, n_C, s_E, s_C$）大面积缺失；证明二阶元分析无法替代一级元分析；提出独立于商业出版的中央标准化证据数据库 | 逻辑论证与元分析数学等价性推导 | 确立了从制度与基础设施源头终结[[Publication Bias\|发表偏倚]]并实现动态一级元分析的方法学纲领 |
-> | [[Argument_Lin_2023_SciData\|Lin et al. (2023)]] | 全球 1.34 亿篇跨学科文献（1800–2020）与多源资助/应用数据湖 | 记录链接管道与高通量科学学指标计算 | 数据湖规模、实体链接覆盖率与前沿指标产出 | 覆盖 134,228,883 篇核心出版物与 14 亿条引文；链接 454 万项基金资助与 2200 万篇专利引文；预计算 2800 万篇 $CD_5$ 颠覆性指数与 4500 万篇非典型引文度量 | 跨 Web of Science、MAG 与官方资助库交叉验证；一致性相关系数 CCC > 0.99 | 证实构建打通资助、产出与下游转化的开放科学数据基础设施，能破除商业数据库壁垒并免除重复清洗摩擦 |
+> | [[Argument_Lin_2023_SciData\|Lin et al. (2023)]] | 全球 1.34 亿篇跨学科文献（1800–2020）与多源资助/应用数据湖 | [[Record Linkage\|记录链接]]管道与高通量科学学指标计算 | 数据湖规模、实体链接覆盖率与前沿指标产出 | 覆盖 134,228,883 篇核心出版物与 14 亿条引文；链接 454 万项基金资助与 2200 万篇专利引文；预计算 2800 万篇 $CD_5$ 颠覆性指数与 4500 万篇非典型引文度量 | 跨 [[Web of Science]]、[[Microsoft Academic Graph\|MAG]] 与官方资助库交叉验证；一致性相关系数 CCC > 0.99 | 证实构建打通资助、产出与下游转化的开放科学数据基础设施，能破除商业数据库壁垒并免除重复清洗摩擦 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 开源构建覆盖 1.34 亿篇文献的 SciSciNet 数据基础设施，打通联邦资助、学术发表与专利/临床试验全链条链接并预计算颠覆性等核心指标，为科学学提供兼具高复现性与低准入门槛的公共实证基石。
+> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 开源构建覆盖 1.34 亿篇文献的 [[SciSciNet]] 数据基础设施，打通联邦资助、学术发表与专利/[[Clinical Trial|临床试验]]全链条链接并预计算颠覆性等核心指标，为科学学提供兼具高复现性与低准入门槛的公共实证基石。
 > - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 考察欧洲高等教育机构注册库（ETER）与质保结果数据库（DEQAR）的系统互联，阐明跨国数据基础设施如何从底层打通机构识别与质保认证，支撑[[European Education Area|欧洲教育区]]一体化治理。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 揭示欧盟如何通过资助 80% 成本、采购 50%–60% 统计数据并嵌入 INES 委员会，依托经合组织数据基础设施在缺乏立法权下协调欧洲教育空间。
 > - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 系统解剖德国建立跨尺度绩效数据基础设施与国家[[Center of Calculation|计算中心]]的演化过程，论证数据流动如何促成教育政策的[[Topological Spatialisation|拓扑学重组]]。

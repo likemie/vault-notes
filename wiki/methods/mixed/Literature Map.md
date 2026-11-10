@@ -5,9 +5,9 @@ summary: "Creswell 提出的文献组织工具，以层级结构、流程图或�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 9
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 10
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#fef3c7"
 cssclasses:
   - method-manual
@@ -16,6 +16,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Literature Review]]"
   - "[[Research Topic]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Variable]]"
   - "[[Recommendations for Practice]]"
 related_theories: []
@@ -30,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -76,7 +77,7 @@ updated: 2026-10-30
 > [!success] 适用场景
 > 文献地图适用于以下场景([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]])：
 > - 研究者首次接触一个主题，需要系统梳理已有文献的结构
-> - 撰写学位论文或开题报告，需要向委员会展示研究在文献中的定位
+> - 撰写[[Doctoral Dissertation|学位论文]]或开题报告，需要向委员会展示研究在文献中的定位
 > - 准备学术会议报告或期刊投稿，需要组织[[Literature Review\|文献综述]]的结构
 > - 自身研究跨越多个文献体系，需要理清不同体系之间的关系
 

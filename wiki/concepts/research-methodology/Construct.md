@@ -7,7 +7,7 @@ aliases:
 summary: "变量在理论层面的抽象意义表达，代表不可直接观察的潜在概念实体；必须通过明确的操作化转化为具有可测属性的变量才能被经验检验（Creswell & Creswell, 2022），在二阶证据综合与元分析中依赖严格的 PICO 门禁以防范构念错位与因果解释力瓦解（Kalmendal et al., 2025）。"
 type: concept
 domain: "research-methodology"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Abstract]]"
   - "[[Socioeconomic Status]]"
   - "[[Educational Level]]"
+  - "[[Homophily]]"
   - "[[Construct Validity]]"
   - "[[Commensuration]]"
   - "[[Evidence-Based Policy-Making]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -74,7 +75,7 @@ updated: 2026-11-03
 >
 > *Constructs is a term used for a more [[Abstract|abstract]], general meaning of a variable.*
 
-> [!citation-card|notitle] 关键表述：宏观证据综合中的构念一致性门禁
+> [!citation-card|notitle] 关键表述：宏观[[Research Synthesis|证据综合]]中的构念一致性门禁
 > 缺乏严格 PICO 门禁的宏观综合会导致构念严重错配并破坏证据的因果解释力。在二阶综合中，将名不副实的干预、非学业结局测试或异质对照混为一谈，会使合并[[Effect Size|效应量]]丧失明确的理论所指与政策指导价值。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 14–16)]]
 >
 > *Without rigorous PICO criteria, secondary synthesis suffers severe construct misalignment, eroding the causal interpretability of effect sizes and invalidating policy guidance.*
@@ -100,7 +101,7 @@ updated: 2026-11-03
 > - **潜在不可直观性（Latent Unobservability）** 构念本身无法直接通过感官测量，量表或试题记录的仅是该构念的外显行为指标（Indicators）。
 > - **理论网络嵌入性（Nomological Network Embedding）** 构念的内涵依赖其在特定理论网络中的定位，由它与其他构念在理论命题中的因果或关联关系共同界定。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 53)]]
 > - **操作化对齐（Operational Alignment）** 从抽象构念向外显变量的转换必须保持概念内涵的一致性，防范构念低代表性与无关变异。
-> - **PICO 构念一致性门禁（PICO Construct Integrity）** 在证据综合与系统评价中，必须严格审查人群、干预、对照与结局四维构念的同质性。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 14–16)]]
+> - **PICO 构念一致性门禁（PICO Construct Integrity）** 在证据综合与系统评价中，必须严格审查人群、干预、对照与结局四维构念的[[Homophily|同质性]]。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 14–16)]]
 
 > [!logic-map]- 从理论构念到经验变量的转化链条
 > ```mermaid

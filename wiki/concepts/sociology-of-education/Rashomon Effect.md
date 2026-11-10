@@ -8,7 +8,7 @@ aliases:
 summary: "源自黑泽明电影的社会科学概念，指同一事件或数据集被不同利益行动者基于自身立场建构出矛盾且不可兼容的多重因果叙事，在质性研究中体现为因果的多重性，在全球治理中体现为数据可塑性引发的政策罗生门"
 type: concept
 domain: "sociology-of-education"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Policy Avoidance]]"
   - "[[Paradigm]]"
   - "[[Reflexivity]]"
+  - "[[Transnational Education]]"
   - "[[Falsification]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -170,7 +171,7 @@ updated: 2026-11-03
 > - **1988 — 人类学与[[Ethnography\|民族志研究]]的首次理论引入** 人类学家 Karl Heider 正式将该词引入学术界，用于解释不同人类学家对同一原住民社区（如萨摩亚人）做出截然相反的民族志定性，引发了[[Fieldwork\|田野调查]]的[[Reflexivity\|反思性]]转向。
 > - **2002 — 法学与社会学因果叙事模型建构** Roth & Mehta 将罗生门效应系统化为社会科学概念，用以刻画诉讼各方与冲突群体围绕历史事件建构的竞争性因果版本。
 > - **2011 — 教育研究方法论的系统阐发** [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]] 将其纳入教育研究核心方法论，界定因果[[Multiplicity\|多重性]]与[[Action Narratives\|行动叙事]]，警告研究者警惕单一因果归因的盲区。
-> - **2018 — 跨国教育量化治理与政策分析的拓展** [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] 突破传统微观人际互动视角，将其成功升级为解构超国家组织、国家执政精英与大众媒介在面对大规模评估（[[PISA]]）数据时各取所需建构“多重真实”的宏观政治学与传播学分析工具。
+> - **2018 — [[Transnational Education|跨国教育]]量化治理与政策分析的拓展** [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] 突破传统微观人际互动视角，将其成功升级为解构超国家组织、国家执政精英与大众媒介在面对大规模评估（[[PISA]]）数据时各取所需建构“多重真实”的宏观政治学与传播学分析工具。
 
 ---
 

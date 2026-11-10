@@ -9,7 +9,7 @@ summary: "比利时数学家与信息计量学家，哈瑟尔特大学荣休教�
 type: person
 nationality: belgium
 person_region: "belgium"
-person_related_count: 11
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -36,13 +36,15 @@ related_instruments: []
 related_persons:
   - "[[Derek de Solla Price]]"
   - "[[Jorge E. Hirsch]]"
-related_facts: []
+related_facts:
+  - "[[Web of Science]]"
+  - "[[Scopus]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: 2026-10-31
+updated: 2026-11-11
 ---
 
 ---
@@ -80,7 +82,7 @@ updated: 2026-10-31
 
 > [!influence-path] 影响路径
 > - **理论路径** 推进了[[Lotka's Law|洛特卡定律]]与[[Price's Law|普赖斯定律]]在微观个体产出评价中的数理统一，奠定了信息生产过程（IPP）的公理化基础。
-> - **方法路径** 提出的 $g$ 指数被主流学术数据库（如 Web of Science、Scopus、Publish or Perish）集成采纳，成为与 $h$ 指数并驾齐驱的标准评估工具。
+> - **方法路径** 提出的 $g$ 指数被主流学术数据库（如 [[Web of Science]]、[[Scopus]]、Publish or Perish）集成采纳，成为与 $h$ 指数并驾齐驱的标准评估工具。
 > - **学术建制** 创办 *Journal of Informetrics*，为全球科学学、图情学与计量政策研究确立了高水平交流平台。
 
 > [!evidence-grid-a] 相关研究索引

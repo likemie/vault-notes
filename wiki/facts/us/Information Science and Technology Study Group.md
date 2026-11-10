@@ -11,9 +11,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: advisory-group
 headquarters: "阿灵顿（Arlington, VA）"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Broad Agency Announcement]]"
   - "[[DARPA Model]]"
+  - "[[Document]]"
 related_theories:
   - "[[Technological Trajectories]]"
 related_methods: []
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -95,4 +96,4 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 记录 ISAT 在国家[[Technological Trajectories|技术轨道]]前瞻研判中制度功能的核心文献。
+> - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 记录 ISAT 在国家[[Technological Trajectories|技术轨道]]前瞻研判中制度功能的核心[[Document|文献]]。

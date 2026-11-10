@@ -9,7 +9,7 @@ title: "Argument_Moisio_2022_Springer"
 argument_key: "Argument_Moisio_2022_Springer"
 argument_display_title: "In what sense a geopolitical knowledge-based economy? In M"
 argument_kind: "book"
-argument_related_count: 37
+argument_related_count: 39
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#ede9fe"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Spatial Sortings]]"
   - "[[Research Problem]]"
   - "[[Progressive Neoliberalism]]"
+  - "[[Nationalism]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -63,6 +64,7 @@ related_methods:
   - "[[Ethnography]]"
 related_persons:
   - "[[Friedrich List]]"
+  - "[[Tim Cain]]"
 related_facts:
   - "[[OECD]]"
 related_arguments:
@@ -72,7 +74,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-07'
-updated: 2026-10-22
+updated: 2026-11-11
 year: 2022
 doi: ""
 citation_aliases:
@@ -186,13 +188,13 @@ Moisio 引用 Hardt & Negri（2000, p.xiii）论证知识密集型资本主义�
 
 Moisio 在结论中勾勒了知识经济化的当代演变和后果：
 
-1. **三阶段演变** 知识经济化自 1990 年代初以来经历了质变——从晚期凯恩斯主义"技术极化"（technopolization）和"创业型国家"策略，到 1990 年代末基于"智能性"（smartness）的各种想象和实践，到 2008 年全球衰退后的创业经济（start-up economy）形式。发达资本主义社会正在经历"创业化和民族国家城市化过程的显著扩展"(pp.29–30)。
+1. **三阶段演变** 知识经济化自 1990 年代初以来经历了质变——从晚期[[Tim Cain|凯恩]]斯主义"技术极化"（technopolization）和"创业型国家"策略，到 1990 年代末基于"智能性"（smartness）的各种想象和实践，到 2008 年全球衰退后的创业经济（start-up economy）形式。发达资本主义社会正在经历"创业化和民族国家城市化过程的显著扩展"(pp.29–30)。
 
 2. **[[Spatial Sortings|空间分选]]与极化** Moisio 论证知识经济化"有能力将某些地点和人口置于发展和资本积累的中心，同时将其他地点和人口边缘化"。城市创新综合体(Zukin, 2020)在主要城市中心兴起，与较小城市群和农村地区的边缘化同步发生——"支持创业生态系统形成的政策实际上生产了民族国家的战略性城市化"(pp.30–31)。
 
 3. **三个[[Research Problem|研究议题]]** (1) KBE 通过不同种类的空间分选被根本性地构成——这些分选既包含又排斥地点和行动者；(2) 后凯恩斯主义世界的核心组织逻辑是对人和传统资本主义的"驱逐"(expulsion, Sassen, 2010)以喂养高科技和高金融的需求；(3) 国家在导致空间分裂的过程中扮演关键但研究不足的角色(pp.31–32)。
 
-4. **[[Progressive Neoliberalism|进步新自由主义]]的消退** Moisio 援引 Davidson and Rees-Mogg(1999)近二十年前的预测——信息社会将产生"跨国认知精英"（赢家）与无法适应新跨国世界的人（输家）之间的深刻分化——论证这正是在欧洲和其他地区过去十年中实际发生的现象，"那些处于金字塔底部的人转向了高度报复性的民族主义政治"(pp.31–32)。Nancy Fraser(2019)关于 [[Progressive Neoliberalism|进步新自由主义]] 正在蒸发的论断被用来支撑这一观察——这种作为过去三十年知识经济化主要政治推力的"硅谷世界观"正在受到挑战。
+4. **[[Progressive Neoliberalism|进步新自由主义]]的消退** Moisio 援引 Davidson and Rees-Mogg(1999)近二十年前的预测——信息社会将产生"跨国认知精英"（赢家）与无法适应新跨国世界的人（输家）之间的深刻分化——论证这正是在欧洲和其他地区过去十年中实际发生的现象，"那些处于金字塔底部的人转向了高度报复性的[[Nationalism|民族主义]]政治"(pp.31–32)。Nancy Fraser(2019)关于 [[Progressive Neoliberalism|进步新自由主义]] 正在蒸发的论断被用来支撑这一观察——这种作为过去三十年知识经济化主要政治推力的"硅谷世界观"正在受到挑战。
 
 Moisio 以对批判研究者的呼吁结束：(1) 不仅要审视 KBE 的空间组织，还要考察"知识工作者在这样一种经济形式之下和之中工作和生活的肉身表现和体验"；(2) 分析"日常国家性"（everyday statehood）——国家政策如何在日常层面控制和操纵公民和人力资本；(3) 将大学作为"知识经济化下的地缘政治场所"进行系统研究，需要"各种创新的[[Ethnography|民族志]]和其他方法"(pp.31–32)。
 

@@ -12,7 +12,7 @@ aliases:
 summary: "由全球教育治理中的多边组织、国家政府和跨国智库共同推动的政策修辞与规范框架，旨在界定未来劳动力市场所需关键能力并塑造教育政策与自我企业家主体性；实证研究揭示其存在技能空心化、实践转译断裂以及高教宏观倡导与微观评价滞后的制度脱节，二阶元分析证实合作学习对21世纪综合高阶技能具有显著促进效应（ES = 0.76/0.84）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 73
+related_count: 77
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -31,18 +31,19 @@ related_concepts:
   - "[[Employability]]"
   - "[[Self-Entrepreneur]]"
   - "[[Generic Skills]]"
+  - "[[Floating Signifier]]"
+  - "[[Global Policy Space]]"
   - "[[Graduate Attributes]]"
   - "[[Global Citizenship]]"
   - "[[Critical Thinking]]"
   - "[[Champ]]"
-  - "[[Global Policy Space]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Big Ideas]]"
-  - "[[Floating Signifier]]"
   - "[[Rote Learning]]"
   - "[[Construct]]"
   - "[[Creativity]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Scientific Literacy]]"
   - "[[Data Literacy]]"
   - "[[AI Literacy]]"
@@ -67,6 +68,7 @@ related_concepts:
   - "[[Cooperative Integrated Reading and Composition]]"
   - "[[Science Capital]]"
   - "[[Socioeconomic Status]]"
+  - "[[Context in Comparative Education]]"
   - "[[Operationalization]]"
   - "[[Public Value]]"
 related_theories:
@@ -87,6 +89,7 @@ related_facts:
   - "[[OECD]]"
   - "[[UNESCO]]"
   - "[[EU]]"
+  - "[[Achieve]]"
   - "[[European Qualifications Framework]]"
   - "[[The Royal Society]]"
   - "[[Lisbon Strategy]]"
@@ -98,9 +101,10 @@ related_arguments:
   - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
+  - "[[Argument_Volmari_2025_CE]]"
+  - "[[Argument_Beech_2009_CE]]"
   - "[[Argument_Wong_2022_HERD]]"
   - "[[Argument_SpronkenSmith_2024_AEHE]]"
-  - "[[Argument_Beech_2009_CE]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Gungor_2026_CP]]"
@@ -108,7 +112,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-20
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 
 ---
@@ -122,9 +126,9 @@ updated: 2026-11-09
 > - **边界** 区别于具体学科内的专业知识教学，SCD 侧重于超越学科门类的横向可迁移技能（Transversal / [[Generic Skills]]）；但若脱离具体学科知识脉络、实体制造公地与实证探究载体，极易沦为抽象口号与技能空心化。
 
 > [!citation-card|notitle] 关键表述
-> 核心素养话语作为去情境化的漂浮能指在全球政策空间流通，使立场迥异的行动者能够达成表面共识；当其降落至国家课程改革时，主要充当向公众证明改革前沿性与合法性的政治背书。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 540–542)]]; [[Argument_Beech_2009_CE|(Beech, 2009a, pp. 353–355)]]
+> 核心素养话语作为去情境化的[[Floating Signifier|漂浮能指]]在[[Global Policy Space|全球政策空间]]流通，使立场迥异的行动者能够达成表面共识；当其降落至国家课程改革时，主要充当向公众证明改革前沿性与合法性的政治背书。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 540–542)]]; [[Argument_Beech_2009_CE|(Beech, 2009a, pp. 353–355)]]
 >
-> *The discourse of 21st-century skills functions as a decontextualized floating signifier in global policy space, enabling diverse actors to achieve superficial consensus and serving primarily as a political legitimation device in national reforms.*
+> *The discourse of 21st-century skills functions as a decontextualized floating signifier in global policy space, enabling diverse actors to [[Achieve|achieve]] superficial consensus and serving primarily as a political legitimation device in national reforms.*
 
 > [!boundary]- 概念边界
 > - 不等于 **[[Graduate Attributes|毕业生特质]]** —— SCD 运作于全球与国家政策话语层，界定哪些通用能力具有市场合法性；毕业生特质则是高等院校对这些技能的制度化转译与课程操作，兼顾学术传承与公民责任。[[Argument_Wong_2022_HERD|(Wong et al., 2022, p. 1341)]]
@@ -153,7 +157,7 @@ updated: 2026-11-09
 > | 框架名称（发布年） | 主导机构 / 来源 | 核心素养分类与集群 | [[Epistemology\|认识论]]倾向与重点 |
 > |---|---|---|---|
 > | **P21 框架 (2009)** | 美国 21 世纪技能伙伴组织 | 基础学科核心、4C 学习创新技能、信息媒体技术、生活职业技能 | 奠定 4C 技能作为全球通用最小公分母的基础 |
-> | **WEF 技能框架 (2016)** | 世界经济论坛 | 基础素养（读写/数理/ICT/财商）、能力（4C）、性格品质（好奇心/韧性） | 劳动力市场直接需求导向，强调适应性与灵活性 |
+> | **WEF 技能框架 (2016)** | 世界经济论坛 | [[Foundational Literacy and Numeracy\|基础素养]]（读写/数理/ICT/财商）、能力（4C）、性格品质（好奇心/韧性） | 劳动力市场直接需求导向，强调适应性与灵活性 |
 > | **OECD Learning Compass 2030 (2019)** | [[OECD\|经合组织]] | 变革性胜任力（创造新价值、调和张力、承担责任）、核心基础素养 | 强调学生能动性（Student Agency）与复合素养 |
 > | **[[European Qualifications Framework\|欧洲资格框架]] (EQF, 2008/2017)** | 欧洲议会与[[EU\|欧盟]]理事会 | 知识、技能、自主与责任（6–8 级聚焦批判分析与前沿创新） | 具法律效力的区域文凭元框架，驱动成果本位课程改革 |
 > | **皇家学会交叉素养蓝图 (2026)** | [[The Royal Society\|英国皇家学会]] | [[Scientific Literacy\|科学素养]]（证据评估）、[[Data Literacy\|数据素养]]（风险概率）、[[AI Literacy\|AI 素养]]、气候生态素养 | 纠正技能空心化，扎根于学科[[Big Ideas\|大概念]]与面向 18 岁宽口径大纲（p. 31） |

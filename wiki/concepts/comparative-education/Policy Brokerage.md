@@ -8,10 +8,10 @@ aliases:
 summary: "在信息过载与教育决策多重不确定性背景下，跨国组织、智库或国家官方扶植机构通过筛选、转译和打包研究证据以施展软治理或服务政策落地的政治化机制。"
 type: concept
 domain: "comparative-education"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 61
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - subject/comparative-education
   - theme/global-governance
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Research Translation]]"
   - "[[Policy Mobility]]"
+  - "[[Differentiated Instruction]]"
   - "[[Boundary Spanner]]"
   - "[[Policy Borrowing]]"
   - "[[Knowledge Production]]"
@@ -44,6 +45,7 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[Rationalized Myth]]"
   - "[[Policy-Based Evidence-Making]]"
+  - "[[Policy Translation]]"
   - "[[Conditional Cash Transfers]]"
   - "[[Going Native]]"
   - "[[Network Governance]]"
@@ -85,7 +87,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -101,7 +103,7 @@ updated: 2026-11-03
 > [!citation-card] 政策中介的政治化定性
 > 当同一组织对其在内部生产的知识进行中介，甚至更明显地以科学理性为依据自主生产、中介推销并资助其项目时，知识中介与政策中介之间的界限便具有了流动性。因此，在考察全球治理工具时，使用政策中介而非更为中立的知识中介是更为准确的概念表述。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 538)]]
 >
-> *The differentiation between knowledge brokerage and policy brokerage is fluid when the same organisation brokers knowledge it previously produced in-house or, even more blatantly, produces, brokers, and funds its projects with recourse to scientific rationality. Therefore, we propose to use the term 'policy brokerage' rather than the more neutral term 'knowledge brokerage' throughout this article.*
+> *The [[Differentiated Instruction|differentiation]] between knowledge brokerage and policy brokerage is fluid when the same organisation brokers knowledge it previously produced in-house or, even more blatantly, produces, brokers, and funds its projects with recourse to scientific rationality. Therefore, we propose to use the term 'policy brokerage' rather than the more neutral term 'knowledge brokerage' throughout this article.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Boundary Spanner]] — 跨界者侧重于微观组织社会学中跨越部门边界的个体协调行为；政策中介侧重于宏观治理中连接科学与政治、制度化生产与包装政策证据的系统机制。
@@ -194,7 +196,7 @@ updated: 2026-11-03
 > **跨国中介生态与多向转译** 探讨智库、跨国管理咨询公司与穿梭[[Policy Ambassador|政策大使]]如何在全球南方与北方之间开展非对称中介，重塑[[Policy Mobility|政策流动]]的知识形态。
 
 > [!claim] [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]]
-> **软行动者网络与多阶段政策转译** 跨国政策流动高度依托由智库、大型跨国管理咨询公司与具有个人魅力的[[Policy Ambassador|政策大使]]构成的中介网络。政策中介在流动各阶段表现为持续展开的转译（Translation）过程；中介主体在方案输出前即对知识展开异质化解读与混合剪裁，推动南方治理方案（如[[Participatory Budgeting|参与式预算]]、[[Conditional Cash Transfers|有条件现金转移支付]]）向全球公共产品转化，同时伴随国际多边科层对地方扎根经验的去政治化包装与工具化吸收。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 8–10, 14, 16)]]
+> **软行动者网络与多阶段[[Policy Translation|政策转译]]** 跨国政策流动高度依托由智库、大型跨国管理咨询公司与具有个人魅力的[[Policy Ambassador|政策大使]]构成的中介网络。政策中介在流动各阶段表现为持续展开的转译（Translation）过程；中介主体在方案输出前即对知识展开异质化解读与混合剪裁，推动南方治理方案（如[[Participatory Budgeting|参与式预算]]、[[Conditional Cash Transfers|有条件现金转移支付]]）向全球公共产品转化，同时伴随国际多边科层对地方扎根经验的去政治化包装与工具化吸收。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 8–10, 14, 16)]]
 
 ---
 

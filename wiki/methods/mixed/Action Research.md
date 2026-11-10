@@ -6,9 +6,9 @@ summary: "研究者与实践者合作，通过计划—行动—观察—反思�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 66
-method_related_level: 6
-method_related_stars: "💎💎"
+method_related_count: 51
+method_related_level: 5
+method_related_stars: "💎⭐⭐"
 method_related_color: "#fef3c7"
 cssclasses:
   - method-manual
@@ -20,34 +20,21 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Unit of Analysis]]"
   - "[[Communities of Practice]]"
-  - "[[Scientific Method]]"
-  - "[[Reflexivity]]"
-  - "[[Problem Solving]]"
-  - "[[Practical Epistemology]]"
-  - "[[Self-Efficacy]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Interpretive Paradigm]]"
+  - "[[Practical Epistemology]]"
   - "[[Chain of Evidence]]"
   - "[[Value Neutrality]]"
   - "[[Homework]]"
+  - "[[Reflexivity]]"
   - "[[Brainstorming]]"
   - "[[Concept Mapping]]"
-  - "[[Scientific Attitude]]"
-  - "[[Hypothesis]]"
-  - "[[Professional Judgment]]"
-  - "[[Teacher-as-Researcher]]"
-  - "[[Grand Theory]]"
-  - "[[Concurrency of Learning]]"
-  - "[[Discourse]]"
   - "[[Document]]"
-  - "[[Research Question]]"
-  - "[[Creativity]]"
-  - "[[Research Problem]]"
-  - "[[Success Criteria]]"
+  - "[[Problem Solving]]"
+  - "[[Professional Judgment]]"
   - "[[Variable]]"
   - "[[Evaluation Research]]"
-  - "[[Counterfactual]]"
   - "[[Technical Rationality]]"
   - "[[Ideal Speech Situation]]"
   - "[[Engineered Evidence]]"
@@ -56,6 +43,7 @@ related_concepts:
 related_theories:
   - "[[Critical Theory]]"
   - "[[Critical Pluralism]]"
+  - "[[Pluralism]]"
   - "[[Subgovernment Theory]]"
 related_methods:
   - "[[Pre-test and Post-test]]"
@@ -66,32 +54,29 @@ related_methods:
   - "[[Nominal Group Technique]]"
   - "[[Delphi Technique]]"
   - "[[Effect Size]]"
-  - "[[Observation Method]]"
-  - "[[External Auditor]]"
+  - "[[Between-Subjects and Within-Subjects Designs]]"
+  - "[[Qualitative Observation]]"
   - "[[Case Study]]"
   - "[[Correlational Research]]"
 related_persons:
   - "[[Kurt Lewin]]"
   - "[[Stephen Kemmis]]"
-  - "[[Jürgen Habermas]]"
 related_arguments:
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
-  - "[[Argument_Edmondson_2005_EPAA]]"
   - "[[Argument_Gorard_2020_ROE]]"
+  - "[[Argument_Edmondson_2005_EPAA]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch02]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch04]]"
   - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
 related_facts:
   - "[[Reading Excellence Act]]"
-  - "[[National Reading Panel]]"
   - "[[International Schools Examination Syndicate]]"
   - "[[Complex Instruction Programme]]"
 confidence: high
 status: stable
 created: 2026-06-25
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -134,7 +119,7 @@ updated: 2026-11-10
 > [!proc] 通用程序
 > 1. **识别、评价和表述问题** 从日常教学情境中明确亟待改进的核心议题或创新需求。
 > 2. **初步讨论与多方协商** 利益相关方共同商议，明确研究目标、指导假设与合作伦理边界。
-> 3. **审查相关研究文献** 研读既有研究成果，借鉴类似干预的成熟程序与教训。
+> 3. **审查相关研究[[Document|文献]]** 研读既有研究成果，借鉴类似干预的成熟程序与教训。
 > 4. **重新界定并聚焦问题** 将宽泛问题提炼为具体可检验的假设或行动目标。
 > 5. **选择研究设计与程序** 确定抽样、材料、教学方案与资源配置，灵活嵌入准实验、问卷或案例分析。
 > 6. **确立持续评价标准** 制定明确、可操作的形成性与总结性评价准则。
@@ -142,24 +127,24 @@ updated: 2026-11-10
 > 8. **数据解释、结论提炼与传播** 参照预设标准评估成效，反思失误，撰写报告并通过教研交流或专业成果发表转化成果。
 
 > [!method-stack] 整合设计
-> - **设计类型** 循环交织式混合设计（Cyclical Embedded Mixed Design），在各行动阶段系统整合量化监测与质性反思。
-> - **先后顺序** 依据“计划 ➔ 行动 ➔ 观察 ➔ 反思”循环推进，前测评估先行，干预过程质性观察伴随，后测检验跟进，驱动再计划。
+> - **设计类型** 循环交织式混合设计（Cyclical Embedded [[Between-Subjects and Within-Subjects Designs|Mixed Design]]），在各行动阶段系统整合量化监测与质性反思。
+> - **先后顺序** 依据“计划 ➔ 行动 ➔ 观察 ➔ 反思”循环推进，前测评估先行，干预过程[[Qualitative Observation|质性观察]]伴随，后测检验跟进，驱动再计划。
 > - **整合点** 在问题诊断（问卷调查与深度座谈互证）、干预监控（课堂实录与作业质检匹配）以及成效评测（统计增量与教师质性日志交叉审议）等多节点实施整合。
-> - **整合逻辑** 兼顾量化指标的测量严谨性与质性反思的情境深度，以实践问题解决与知情专业判断为整合准绳。
+> - **整合逻辑** 兼顾量化指标的测量严谨性与质性反思的情境深度，以实践[[Problem Solving|问题解决]]与知情[[Professional Judgment|专业判断]]为整合准绳。
 
 ---
 
 > [!method-fit] 适用判断
 > - **适合使用** 教学策略改进、校本课程研发、班级管理优化、师生互动质量提升、教育政策在地转化等强调实践变革的情境。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 9)]]
 > - **谨慎使用** 旨在建构普适性宏观理论的研究；需要向大规模异质总体进行统计推论的课题。
-> - **不适合使用** 要求严格控制所有外部[[Variable|变量]]的纯实验室实验；需要精确计算全域[[Effect Size|效应量]]并推导无偏因果净值的评估研究。
+> - **不适合使用** 要求严格控制所有外部[[Variable|变量]]的纯实验室实验；需要精确计算全域[[Effect Size|效应量]]并推导无偏因果净值的[[Evaluation Research|评估研究]]。
 
 ---
 
 > [!method-limits] 方法局限
 > - **偏误来源** 实践者同时作为研究者容易导致评估结果的主观性偏倚；强烈的团队群体动力可能压制个别教师的异议。
 > - **实施的变异风险** 一线教师在缺乏严密方法学训练的情况下直接开展行动研究，易将复杂的因果干预原理曲解为繁琐的表面形式主义操作，导致教学改善受阻。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 594–596)]]
-> - **适用边界与制度合法性弱势** 对宏观社会制度结构的直接改造能力有限；在技术理性主导的量化循证政策体系中，行动研究容易因缺乏控制组而遭遇权威评定机构的合法性质疑。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 10)]]
+> - **适用边界与制度合法性弱势** 对宏观社会制度结构的直接改造能力有限；在[[Technical Rationality|技术理性]]主导的量化循证政策体系中，行动研究容易因缺乏控制组而遭遇权威评定机构的合法性质疑。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 10)]]
 > - **误用风险** 以行动研究为借口规避研究严谨性，将缺乏系统数据与反思的日常琐碎教学经验包装为学术研究。
 > - **补救方式** 建立规范透明的数据收集与分析程序；构建多源证据链；坚持撰写反思日志并引入外部同行审阅。
 
@@ -176,7 +161,7 @@ updated: 2026-11-10
 > | [[Primary and Secondary Documents]] | 概念 | 行动研究中教师直接研读专业一手文献与依赖二手转译材料的方法学载体 |
 > | [[Nominal Group Technique]] | 支撑工具 | 结构化群体议题聚焦与共识凝聚方法 |
 > | [[Delphi Technique]] | 支撑工具 | 匿名多轮书面迭代凝聚专家意见的技术 |
-> | [[Case Study]] | 相关设计 | 行动研究常以案例研究为载体，核心区分在于是否主动实施变革干预 |
+> | [[Case Study]] | [[Correlational Research\|相关设计]] | 行动研究常以案例研究为载体，核心区分在于是否主动实施变革干预 |
 > | [[Reading Excellence Act]] | 政策事实 | 展现官方排斥一线教师行动研究、强推预制拼读教材规制的标志性法案 |
 > | [[Reflexivity]] | 核心概念 | 研究者兼具行动者双重身份时的认识论自省要求 |
 
@@ -185,7 +170,7 @@ updated: 2026-11-10
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch. 9)]] — 系统阐释行动研究的历史渊源、核心特征、九步螺旋程序及本土群体研讨工具。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch. 18)]] — 全面梳理行动研究的定义谱系、类型学划分、螺旋循环操作程序及反身性控制方法。
-> - [[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2)]]；[[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4)]] — 国际学校考试辛迪加将国际文凭项目组织为长期行动研究，在真实教学与升学过程中检验课程可行性。
-> - [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]] — 记录匈牙利小学与大学科研团队平等协作改进斯坦福复合教学计划的高质量行动研究范例。
+> - [[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2)]]；[[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4)]] — [[International Schools Examination Syndicate|国际学校考试辛迪加]]将[[International Baccalaureate|国际文凭]]项目组织为长期行动研究，在真实教学与升学过程中检验课程可行性。
+> - [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]] — 记录匈牙利小学与大学科研团队平等协作改进斯坦福[[Complex Instruction Programme|复合教学计划]]的高质量行动研究范例。
 > - [[Argument_Gorard_2020_ROE|Gorard et al. (2020)]]；See et al. (2016) — 评估英格兰 9 所小学教师围绕课堂反馈开展的行动研究循环，实证揭示教师方法学素养不足对干预成效的制约。
-> - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 从批判多元主义与次政府理论切入，批判国家量化循证政策对教师行动研究的排挤，阐发基层教育者依托本土实践证据维护自主权的行动路径。
+> - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 从批判[[Pluralism|多元主义]]与[[Subgovernment Theory|次政府理论]]切入，批判国家量化循证政策对教师行动研究的排挤，阐发基层教育者依托本土实践证据维护自主权的行动路径。

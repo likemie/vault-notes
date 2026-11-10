@@ -7,7 +7,7 @@ title: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_key: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_display_title: "Research on research use in schools: A systematic review with a framework synthesis"
 argument_kind: "journal-article"
-argument_related_count: 92
+argument_related_count: 91
 argument_related_level: 9
 argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
@@ -54,7 +54,6 @@ related_concepts:
   - "[[Research Literacy]]"
   - "[[Epistemic Stances]]"
   - "[[Literature Search]]"
-  - "[[Screening Off]]"
   - "[[Professional Learning Community]]"
   - "[[Data Literacy]]"
   - "[[Source of Knowledge]]"
@@ -108,10 +107,10 @@ related_instruments:
   - "[[PRISMA]]"
   - "[[Mixed Methods Appraisal Tool]]"
 related_persons:
+  - "[[David Hargreaves]]"
   - "[[John Hattie]]"
   - "[[Elizabeth Farley-Ripple]]"
   - "[[Pasi Sahlberg]]"
-  - "[[David Hargreaves]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
@@ -134,7 +133,7 @@ sources:
 part_of:
 status: completed
 created: 2026-08-25
-updated: 2026-11-08
+updated: 2026-11-11
 ---
 
 ---
@@ -149,7 +148,7 @@ updated: 2026-11-08
 > - **阻碍瓶颈与深层机制** 一线教师与[[School Leadership|学校领导]]者在研究使用中面临哪些普遍障碍与促成条件，背后的深层治理机制究竟为何？
 
 > [!claim] 核心主张
-> 学校中的研究使用深受宏观系统性制度条件的制约，但既有实证研究严重局限于个体归因的缺陷框定，将问题狭隘归咎于教师个人的技能缺乏与态度消极。事实上，最顽固的障碍与最关键的促成条件均横向穿透个体、组织与系统三个层级，由信任、技能发展、可持续结构与关系四类相互强化的跨层治理机制协同塑造。因此，学校研究使用无法依靠自上而下的行政指令强制落地，必须实现[[Paradigm|范式]]转型：从外推方案的工具性实施（implementation）转向扎根专业实践的[[Research Integration|研究整合]]（research integration），依托制度化的可持续结构培育[[Teacher Professional Agency|教师专业能动性]]，使研究证据作为平等的[[Third Voice|第三声音]]融入集体研讨与[[Professional Judgment|专业判断]]。
+> 学校中的研究使用深受宏观系统性制度条件的制约，但既有实证研究严重局限于个体归因的缺陷框定，将问题狭隘归咎于教师个人的技能缺乏与态度消极。事实上，最顽固的障碍与最关键的促成条件均横向穿透个体、组织与系统三个层级，由信任、技能发展、可持续结构与关系四类相互强化的跨层治理机制协同塑造。因此，学校研究使用无法依靠自上而下的行政指令强制落地，必须实现[[Paradigm|范式]]转型：从外推方案的工具性实施（implementation）转向扎根专业实践的研究整合（[[Research Integration|research integration]]），依托制度化的可持续结构培育[[Teacher Professional Agency|教师专业能动性]]，使研究证据作为平等的[[Third Voice|第三声音]]融入集体研讨与[[Professional Judgment|专业判断]]。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 2025 年 1 月在 [[Scopus]]、[[Web of Science]] 与[[Education Resources Information Center|教育资源信息中心]]（Education Resources Information Center, ERIC）三大数据库规范检索，历经两轮独立双盲筛选后纳入的 109 项关于中小学教师与学校领导者研究使用的同行评议实证研究（涵盖 28 个国家，横跨定量、质性与[[Mixed Methods Research|混合方法]]设计）。
@@ -226,7 +225,7 @@ updated: 2026-11-08
 > [!sub-claim] 1. 八成文献聚焦教师个人，形成片面的缺陷预设
 
 > [!dimension] 实证文献对研究使用的四个分析层面
-> 实证文献在问题设定上普遍秉持缺陷框定（[[Argument_Mausethagen_2025_ERR|Mausethagen et al., 2025]]）：研究者预设一线从业者理应遵从实证证据，因而将注意力集中于微观缺陷，[[Screening Off|遮蔽]]了外部系统性支撑的缺位。
+> 实证文献在问题设定上普遍秉持缺陷框定（[[Argument_Mausethagen_2025_ERR|Mausethagen et al., 2025]]）：研究者预设一线从业者理应遵从实证证据，因而将注意力集中于微观缺陷，遮蔽了外部系统性支撑的缺位。
 > - **系统层面（k = 46，占比 42%）**
 >   主要探讨外部宏观环境对学校的影响，实证文献揭示了两种截然对立的模型。
 >   **自上而下工具性预设** 政策制定者将教育实践单纯视为证据的直接应用场域，但在高利害督导中仅以统一考试成绩考核学校，完全缺乏对教师专业合作使用研究的制度激励。
@@ -416,10 +415,10 @@ updated: 2026-11-08
 ---
 
 > [!claim|step] 论证步骤四　学校用好研究必须转向扎根课堂情境的专业整合
-> 面对实证研究揭示的复杂机制网络，学校研究使用必须实现根本转型：抛弃自上而下单向灌输的工具性实施范式，转向立足专业智慧与情境调和的[[Research Integration|研究整合]]范式，依托可持续结构充分激发[[Teacher Professional Agency|教师专业能动性]]。
+> 面对实证研究揭示的复杂机制网络，学校研究使用必须实现根本转型：抛弃自上而下单向灌输的工具性实施范式，转向立足专业智慧与情境调和的研究整合范式，依托可持续结构充分激发[[Teacher Professional Agency|教师专业能动性]]。
 
 > [!sub-claim] 1. 专业整合要求把科学证据与本土智慧结合并固化为学校常规
-> [[Research Integration|专业整合]]概念克服了传统工具性应用的僵化与概念性使用的虚化，确立了具有高度操作性的双重专业内涵。
+> 专业整合概念克服了传统工具性应用的僵化与概念性使用的虚化，确立了具有高度操作性的双重专业内涵。
 
 > [!evidence-grid] 支持从实施转向整合的理论与经验证据
 > - **研究在实践决策中始终充当第三声音** 跨越 109 项研究的广泛经验证据一致表明，在现实复杂生动的课堂面前，外部科研成果无法直接自动推导出唯一的教学法。科学证据在实践决策中充当实践经验与情境智慧对话中的[[Third Voice|第三声音]]（Third Voice; Cain, 2015b），避免沦为发号施令的教条指令。因此，整合以教师充分的专业裁量权为第一前提，由教师自主审定证据在具体情境下的可适用性。
@@ -470,7 +469,7 @@ updated: 2026-11-08
 ---
 
 > [!citation-card] 整合的界定与双重维度
-> 从工具性实施转向[[Research Integration|专业整合]]，比概念性使用更推进一步：概念性使用仅描述研究在不直接应用的情况下潜移默化地改变思维，而整合则意味着一个更加积极、更加刻意的专业过程，旨在将科学研究知识与实践者的专业智慧、情境判断紧密调和起来。在组织层面上，整合是指将研究参与制度化内嵌于学校的日常文化、规程与结构之中，使之扎根为持续的集体实践。
+> 从工具性实施转向专业整合，比概念性使用更推进一步：概念性使用仅描述研究在不直接应用的情况下潜移默化地改变思维，而整合则意味着一个更加积极、更加刻意的专业过程，旨在将科学研究知识与实践者的专业智慧、情境判断紧密调和起来。在组织层面上，整合是指将研究参与制度化内嵌于学校的日常文化、规程与结构之中，使之扎根为持续的集体实践。
 >
 > *Integration here can be understood in two complementary senses. Epistemologically, it refers to the active reconciliation of research knowledge with professional wisdom, contextual judgment and the experiential knowledge of teachers and school leaders - research as a third voice in professional dialogue rather than a directive. Organizationally, it refers to the embedding of [[Engagement in and with Research|research engagement]] into the culture, routines, and structures of schools as a sustained collective practice rather than an individual or occasional activity.*
 

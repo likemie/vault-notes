@@ -8,7 +8,7 @@ aliases:
 summary: "Jason Beech 结合伯恩斯坦话语再情境化理论与卡斯特流动空间建构的全球教育场域五位置模型，揭示话语在跨国流动中的过度简化、守门人垄断与实践脱节机制"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 54
+theory_related_count: 55
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Policy Borrowing]]"
   - "[[Methodological Nationalism]]"
+  - "[[Nationalism]]"
   - "[[Unit of Analysis]]"
   - "[[Discursive Field]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
@@ -89,7 +90,7 @@ updated: 2026-11-11
 
 > [!theory-position] 理论定位
 > - **解释对象** 该理论旨在系统解释教育思想、政策建议与[[Discourse|话语]]在全球教育[[Champ|场域]]（Global Educational Field）的不同主体位置之间如何循环流动、相互转译，并在流动过程中发生意义变异与制度异化的全过程。
-> - **理论问题** 传统比较教育学中的“[[Policy Borrowing|教育借用]]与转移”（Educational Borrowing and Transfer）研究长期受困于“[[Methodological Nationalism|方法论民族主义]]”（Methodological Nationalism），默认以民族国家作为封闭的[[Unit of Analysis|分析单位]]，将其简化为单纯的国家间线性移植或二元借贷关系。这既无法捕捉全球化时代跨国企业、国际多边机构、咨询智库等新型跨界行动者的崛起，也无法解释为何外来政策往往在受援国政策制定层引发[[Discursive Field|话语空间]]封闭，并在基层学校机构引发不可预测的反常后果。
+> - **理论问题** 传统比较教育学中的“[[Policy Borrowing|教育借用]]与转移”（Educational Borrowing and Transfer）研究长期受困于“[[Methodological Nationalism|方法论民族主义]]”（Methodological [[Nationalism]]），默认以民族国家作为封闭的[[Unit of Analysis|分析单位]]，将其简化为单纯的国家间线性移植或二元借贷关系。这既无法捕捉全球化时代跨国企业、国际多边机构、咨询智库等新型跨界行动者的崛起，也无法解释为何外来政策往往在受援国政策制定层引发[[Discursive Field|话语空间]]封闭，并在基层学校机构引发不可预测的反常后果。
 > - **理论类型** 批判性跨国空间[[Analytic Framework|分析框架]]与教育话语社会学理论。
 > - **知识位置** 植根于比较教育学与教育社会学的[[Comparative Education as a Cross-Sectional Area|交叉领域]]，批判性继承并改造了[[Basil Bernstein|巴兹尔·伯恩斯坦]]（Basil Bernstein）关于教育语篇结构与[[Recontextualization|再情境化]]（Recontextualization）理论，并融合了[[Manuel Castells|曼纽尔·卡斯特]]（Manuel Castells）关于[[Network Society|网络社会]]中“[[Space of Flows|流动空间]]”（Space of Flows）的空间社会学视角。
 

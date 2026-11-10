@@ -20,6 +20,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Creativity]]"
   - "[[Grandes Ecoles]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Technology Transfer Office]]"
 related_theories: []
 related_methods: []
@@ -28,20 +29,21 @@ related_facts:
   - "[[University Industry Demonstration Partnership]]"
   - "[[MN-IP Create]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[United States Patent and Trademark Office]]"
 related_arguments: []
 sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch15_Susalka_Carbone_2025|Ch15_Susalka_Carbone_2025]]"
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 status: draft
 created: 2026-06-03
-updated: 2026-10-22
+updated: 2026-11-11
 subtype: book-chapter
 publication_type: book
 title: "Argument_Susalka_Carbone_2025_IP_Web"
 argument_key: "Argument_Susalka_Carbone_2025_IP_Web"
 argument_display_title: "Untangling the IP web: Ownership, rights, and strategies in university–industry collaboration"
 argument_kind: "book"
-argument_related_count: 11
+argument_related_count: 13
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -168,7 +170,7 @@ Bayh-Dole Act 改变了这一切：大学和其他联邦研究资助接受者现
 **发表与 IP 保护的矛盾**。学术规范强调材料共享和知识公开，而产业界期望 IP 保护和排他性。一家企业可能希望将某项技术作为商业秘密保护，或对未专利或不可专利的材料获取排他性保证。但大学的研究人员不可能被禁止与学术界分享其专长，大学固有的"泄漏性"使得对大学创新追求商业秘密保护实际上不可能(p.277)。
 
 > [!example] 一个典型场景
-> 某大学的材料科学实验室与企业合作开发一种新型复合材料。合作过程中，实验室意外发现了一种改良的制造工艺，该工艺在企业看来具有巨大的竞争价值。企业希望将这一工艺作为商业秘密无限期保持，并要求大学签署保密协议禁止研究人员在学术会议上讨论。但实验室的研究生正在以此为主题撰写博士论文。延迟或禁止发表等同于延迟其毕业。这种冲突触及了两个部门最根本的制度逻辑，法律条款难以轻易化解(p.277)。
+> 某大学的材料科学实验室与企业合作开发一种新型复合材料。合作过程中，实验室意外发现了一种改良的制造工艺，该工艺在企业看来具有巨大的竞争价值。企业希望将这一工艺作为商业秘密无限期保持，并要求大学签署保密协议禁止研究人员在学术会议上讨论。但实验室的研究生正在以此为主题撰写[[Doctoral Dissertation|博士论文]]。延迟或禁止发表等同于延迟其毕业。这种冲突触及了两个部门最根本的制度逻辑，法律条款难以轻易化解(p.277)。
 
 **FTO 与避免 IP 负担的矛盾**。产业方希望获得免费的、广泛定义的大学 BIP 使用权以保证充分的 FTO。但从大学的角度看，这一诉求面临多重困境(p.277)：
 
@@ -260,7 +262,7 @@ IP 权利的转让条款取决于合作类型。不同类型的产学安排构�
 **标准赞助研究**是大多数产学合作的位置。在此模式下，产业方自动获得 FIP 的非排他、免版税（Non-Exclusive Royalty-Free, NERF）内部使用许可，即企业可以制造和使用但不可对外销售。协议通常还包含 6 个月的选择期，企业可在此期间通知大学其希望协商含版税的商业许可。如果企业未在 6 个月内行使选择权，或双方未能在后续 3 个月内达成许可协议，大学可自由将 FIP 许可给任何其他方(pp.281–282)。
 
 > [!warning] 小实体 vs 大实体的费用差异
-> 一项常被忽视但重要的技术细节：美国大多数大学有资格向美国专利商标局（United States Patent and Trademark Office, USPTO）支付"小实体"折扣费用。大多数产业方属于"大实体"，不符合折扣资格。向大实体授予**任何**专利权会使大学失去对相关专利支付折扣费用的资格。因此，大学通常要求产业方**主动选择**才能获得 NERF 许可。如果企业不主动选择，则无许可被授予。这样做的好处是：如果原始产业方无意使用 FIP，大学可将同一 FIP 独家许可给其他公司，无需在第三方许可中附加"但书"排除条款(p.282)。
+> 一项常被忽视但重要的技术细节：美国大多数大学有资格向[[United States Patent and Trademark Office|美国专利商标局]]（United States Patent and Trademark Office, USPTO）支付"小实体"折扣费用。大多数产业方属于"大实体"，不符合折扣资格。向大实体授予**任何**专利权会使大学失去对相关专利支付折扣费用的资格。因此，大学通常要求产业方**主动选择**才能获得 NERF 许可。如果企业不主动选择，则无许可被授予。这样做的好处是：如果原始产业方无意使用 FIP，大学可将同一 FIP 独家许可给其他公司，无需在第三方许可中附加"但书"排除条款(p.282)。
 
 > [!quote] 标准 NERF 许可与选择权条款(p.282)
 > "Company will receive a nonexclusive, worldwide, royalty-free license in the Field to use University FIP for its own internal purposes. ... Company will receive a time-limited option to negotiate an exclusive or non-exclusive commercial, worldwide, royalty-bearing license in the Field to University FIP ... If Company wishes to negotiate a license, it shall notify University in writing within six (6) months following University's written disclosure of University FIP."

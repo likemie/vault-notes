@@ -9,7 +9,7 @@ aliases:
 summary: "由中央或联邦教育行政部门主导，面向特定学段或年龄群体实施的标准化外部学业成就测评体系。作为规制型治理中扩张最快的数据密集型政策工具，它在技术上充当系统监测基础设施，在政治上常与基于测验的问责制绑定，并在政体行政传统调节下经历从抽样到全样、从诊断到高利害惩戒的分层演化。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 38
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Reliability]]"
   - "[[Document]]"
-  - "[[Screening Off]]"
   - "[[Creativity]]"
   - "[[Variable]]"
 related_methods:
@@ -65,7 +64,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -159,7 +158,7 @@ updated: 2026-11-10
 > > - **专业测量与减负立场** 主张抽样监测足以支撑宏观系统性政策决断，全员统考耗费巨资并必然诱发严重的应试训练与教学异化。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 255–256)]]
 
 > [!critique] 外部批评
-> - **技术去政治化对深层不平等的[[Screening Off|遮蔽]]** 评估工具将复杂的教育社会不平等还原为抽象的分数差异，诱导公众将结构性资源匮乏误读为个体学校和教师的努力不足。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 264)]]
+> - **技术去政治化对深层不平等的遮蔽** 评估工具将复杂的教育社会不平等还原为抽象的分数差异，诱导公众将结构性资源匮乏误读为个体学校和教师的努力不足。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 264)]]
 > - **课程狭窄化与投机性博弈** 普查性国家统考直接引发为考而教、挤压非统考学科（如艺术、体育、公民教育），促使学校采取操纵应试群体、排除弱势考生的防御性策略。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 250)]]
 
 > [!warning] 适用局限

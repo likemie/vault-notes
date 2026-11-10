@@ -9,7 +9,7 @@ aliases:
 summary: "实用主义哲学在中国的传播、选择性吸收、制度转译与政治再脉络化历史，揭示外来理论在危机与救国语境中的拆解、重构与话语变形。"
 type: concept
 domain: "comparative-education"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Discourse]]"
   - "[[Knowledge Transfer]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Paradigm]]"
   - "[[Fitness for Purpose]]"
   - "[[Revoicing]]"
@@ -31,6 +32,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Scientific Attitude]]"
+  - "[[Nationalism]]"
   - "[[Axiology]]"
   - "[[Quality Education]]"
   - "[[Examination-Oriented Education]]"
@@ -50,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -60,7 +62,7 @@ updated: 2026-11-03
 
 > [!concept-lens] 概念透镜
 > - **含义** 聚焦外来复合学术思想在进入非西方危机社会时的[[Knowledge Transfer\|知识转移]]、翻译编码、制度转译与政治可塑性。
-> - **用途** 为比较教育学与教育史研究提供超越“忠实度/误读”二元评价的理论透镜，解释同一理论如何被不同政治阵营各取所需。
+> - **用途** 为比较教育学与教育史研究提供超越“忠实度/误读”二元评价的[[Theoretical Standpoint|理论透镜]]，解释同一理论如何被不同政治阵营各取所需。
 > - **边界** 专指实用主义在中国历史与政治情境中的本土化演变；不等于作为通用研究方法论基础的 [[Pragmatic Paradigm\|实用主义范式]]。
 
 > [!citation-card] 关键表述：杜威思想在华的不断重新发明与碎片化
@@ -86,7 +88,7 @@ updated: 2026-11-03
 > - **语义前史与“有用之学”压印** 继承17世纪实学“经世致用”传统，1864年李鸿章提出“所需非所学”，1913年黄炎培发表《学校教育采用[[Pragmatic Paradigm\|实用主义]]之商榷》。中文“用”字将 Pragmatism 整个体系压印为服务现实危机的“有用之学”（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.71]]）。
 > - **[[Hu Shi\|胡适]]的极端化转译与反迷信工具化** 胡适将[[John Dewey\|杜威]]“主要是一种方法”重构为“从头到尾只是一种方法”，消解了温和改革空间；并另选“实验主义”作为打倒迷信的唯一武器（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.72]]）。
 > - **[[Transfer Translation Transformation|3T 框架]]下的结构性拆解（1919–1928）** 经历 Cowen [[Transfer Translation Transformation\|3T 框架]]演进：**转移阶段**拥抱民主理想而忽略渐进方法；**转译阶段**在1922新学制中对民主实施去政治化折算并在1923课程中产生取消农业科的美式错位；**转化阶段**转向《新教育评论》下[[Tao Xingzhi\|陶行知]]与赵乃传倡导的[[Scientific Attitude\|科学态度]]与乡村教育（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.614–621]]）。
-> - **“白光与三棱镜”比喻** 杜威统一的思想白光落入民国三棱镜后被折射为民主、渐进、科学态度与国家建设等光束，被激进派、温和派与民族主义者各取所需（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.622–623]]）。
+> - **“白光与三棱镜”比喻** 杜威统一的思想白光落入民国三棱镜后被折射为民主、渐进、科学态度与国家建设等光束，被激进派、温和派与[[Nationalism|民族主义]]者各取所需（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.622–623]]）。
 
 > [!logic-map]- 要素关系
 > ```mermaid

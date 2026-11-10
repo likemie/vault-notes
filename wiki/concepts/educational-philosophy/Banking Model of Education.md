@@ -10,10 +10,10 @@ aliases:
 summary: "保罗·弗莱雷提出的经典批判概念，指将学生客体化为被动接受知识存款之空容器的驯化性教育模式；在当代进一步拓展为批判生成式人工智能全流程代劳导致的数字储蓄式教育异化。"
 type: concept
 domain: "educational-philosophy"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - field/educational-philosophy
   - field/critical-pedagogy
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Problem-Posing Education]]"
   - "[[Epistemology]]"
   - "[[Scaffolding]]"
+  - "[[Problematisation]]"
   - "[[Reflexivity]]"
   - "[[Problem Solving]]"
   - "[[Culture of Silence]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-25
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ## 定义
@@ -109,7 +110,7 @@ updated: 2026-11-02
 > | 比较维度 | 储蓄式教育（Freire, 1970） | [[Problem-Posing Education\|提问式教育]]（Freire, 1970） | [[Active Learning\|主动学习]]（Dewey; [[Argument_Darwish_2009_Queens\|Darwish, 2009]]） | 数字储蓄式教育（[[Argument_Smith_2026_SPE\|Smith, 2026]]） |
 > |---|---|---|---|---|
 > | **权力结构与角色** | 教师作为存款员单向灌输，学生作为储蓄罐被动接纳 | 确立师生平等对话，成为批判性共同探究者 | 教师提供[[Scaffolding\|脚手架]]支架，学生作为能动主体建构意义 | 大模型被误设为权威先知，学生退化为算法成品的享用者 |
-> | **知识与认知机制** | 静态现成事实的机械背诵，割裂生活真实处境 | 将现实处境“问题化”，在反思与行动统一的实践中生成 | 做中学与[[Reflexivity\|反思性]][[Problem Solving\|问题解决]]，重视认知发现与经验重构 | 概率统计模式黑箱匹配，思维过程被代劳，推理理由被隐匿 |
+> | **知识与认知机制** | 静态现成事实的机械背诵，割裂生活真实处境 | 将现实处境“[[Problematisation\|问题化]]”，在反思与行动统一的实践中生成 | 做中学与[[Reflexivity\|反思性]][[Problem Solving\|问题解决]]，重视认知发现与经验重构 | 概率统计模式黑箱匹配，思维过程被代劳，推理理由被隐匿 |
 > | **核心育人后果** | 强化驯化与“[[Culture of Silence\|沉默文化]]”，消解反思好奇心 | 唤醒[[Conscientization\|批判意识觉醒]]，促进主体自由与解放 | 发展高阶探究技能，培育民主社会审议参与者 | 导致[[Cognitive Deskilling\|认知去技能化]]，诱发[[Formative Epistemic Injustice\|成长性认识不正义]] |
 > | **对技术/权威的态度** | 盲从既定教科书与教师权威，排斥批判质疑 | 师生共同审视权威前提，在对话中重塑权力关系 | 将工具作为心智延伸支架，保持主动调控 | 崇拜算法为权威私厨，丧失独立审问与自我评估能力 |
 

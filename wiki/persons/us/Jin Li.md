@@ -7,7 +7,7 @@ summary: "华人教育研究者，布朗大学教授，以中西文化学习模�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 43
+person_related_count: 44
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Liberal Education]]"
   - "[[Creativity Training]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Nerd]]"
   - "[[Peer-Supported Learning]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!person-profile] 人物档案
@@ -89,7 +90,7 @@ updated: 2026-10-22
 > - 初到美国时英语很差，在佛蒙特州高中担任代课教师（本应教德语却被安排了英语课），对美国学生对学习的冷漠态度感到震惊——这段经历后来成为研究议程的重要触发点([[Argument_Li_2012_Cambridge\|Li, 2012, pp.6–7]])
 > - 在匹兹堡大学学习儿童[[Creativity Training\|创造力培养]]([[Argument_Li_2012_Cambridge\|Li, 2012, p.xiii, p.8]])
 > - 阅读 Howard Gardner 的《Frames of Mind》后决定申请哈佛大学教育学院，随后被录取，师从 Howard Gardner 与 [[Kurt Fischer]] 攻读人类发展与心理学博士([[Argument_Li_2012_Cambridge\|Li, 2012, p.8]])
-> - 1990 年代末完成博士论文，以[[Heart and Mind for Wanting to Learn\|好學心]]为核心研究概念([[Argument_Li_2012_Cambridge\|Li, 2012, p.ix]])
+> - 1990 年代末完成[[Doctoral Dissertation|博士论文]]，以[[Heart and Mind for Wanting to Learn\|好學心]]为核心研究概念([[Argument_Li_2012_Cambridge\|Li, 2012, p.ix]])
 > - 现任布朗大学教授（[[Argument_Li_2012_Cambridge\|Li, 2012]], 封面）
 > - 研究先后获 [[William T. Grant Foundation]]、Foundation for Child Development (FCD)、Chiang-ching Kuo Foundation、Spencer Foundation 资助([[Argument_Li_2012_Cambridge\|Li, 2012, p.xii]])
 - Li 的儿子在美国公立初中就读期间经历了典型的 [[Nerd]] 骚扰：因为性格有些内向、运动能力低于平均水平，但擅长并热爱数学、成绩优秀，他的姓名上了学校的荣誉榜并张贴于走廊。同伴每天对他进行言语嘲笑和社交排斥——一个大男孩曾试图将他扔进垃圾桶。Li 和家人收集了他受到的约十二种侮辱性称呼。这种骚扰严重到使她的儿子一度拒绝上学，要求要么在家教育、要么转学。Li 和丈夫向校长和辅导员提议开展"尊重你的同伴"项目，但校方以"孩子就是这样——这是人性"为由拒绝了。最终他们别无选择，将儿子转入一所私立学校——在那里，"孩子突然就不再'是这样'了"，知性与社交终于整合在了一起([[Argument_Li_2012_Cambridge|Li, 2012, pp.92–94]])。

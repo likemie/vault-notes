@@ -51,7 +51,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -141,7 +141,7 @@ updated: 2026-11-03
 > **后[[New Public Management|新公共管理]]时代的政企协作关系** 传统的行政外包与防错审计模式将意愿者视为被动的合同承包商，扼杀了不确定性探索中的知识积累与敏捷响应。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
-> **共创与引领学习命题** 莱纳·[[Rainer Kattel|卡特尔]]与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]指出，挑选意愿者机制的本质是建立国家与社会行动者之间的共创实验网络。公共部门必须摒弃新公共管理被动的“支持与衡量”模式，在国家、政策与行政三层重塑[[Public Dynamic Capabilities|公共部门动态能力]]，践行“[[Lead-and-Learn Paradigm|引领与学习]]”[[Paradigm|范式]]，通过持续的用户研究、[[Agile Governance|敏捷试错]]与全流程组织反思，与意愿者共同开辟与拓展新市场。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–791, 796–798)]]
+> **共创与引领学习命题** [[Rainer Kattel|莱纳·卡特尔]]与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]指出，挑选意愿者机制的本质是建立国家与社会行动者之间的共创实验网络。公共部门必须摒弃新公共管理被动的“支持与衡量”模式，在国家、政策与行政三层重塑[[Public Dynamic Capabilities|公共部门动态能力]]，践行“[[Lead-and-Learn Paradigm|引领与学习]]”[[Paradigm|范式]]，通过持续的用户研究、[[Agile Governance|敏捷试错]]与全流程组织反思，与意愿者共同开辟与拓展新市场。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–791, 796–798)]]
 
 ---
 
@@ -160,7 +160,7 @@ updated: 2026-11-03
 > - **第一阶段（1960 年代至 1980 年代）：挑选赢家与国家冠军（Picking Winners）** 战后西欧与东亚发展型国家广泛对煤炭、钢铁、造船等战略部门推行指令性干预和排他性补贴，在创造工业化奇迹的同时也积累了产能过剩与寻租弊端。
 > - **第二阶段（1990 年代至 2000 年代）：新自由主义反弹与横向中性政策** 面对寻租批判，主流政策全面转向普适性、横向非干预手段（如一般性研发税收减免、“专利盒”减税），但导致国家丧失对创新方向的战略引导力，未能遏制气候危机与脱实向虚。
 > - **第三阶段（2018 年至今）：使命导向与挑选意愿者（Picking the Willing）** [[Mariana Mazzucato|马祖卡托]]系统提出挑选意愿者新[[Paradigm|范式]]，成为[[EU|欧盟]][[Horizon Europe Missions|地平线欧洲战略使命]]与各国现代绿色工业战略的核心实施工具，实现了国家战略引领与市场多元竞争的高水平协同。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–807)]]
-> - **第三阶段深化（2018 年至今）：[[Public Dynamic Capabilities|公共动态能力]]与引领学习范式融合** 莱纳·[[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]将意愿者协同置于国家、政策与行政三层[[Public Dynamic Capabilities|公共动态能力]]架构之中，确立从被动合规监管向共创学习的范式演进。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–801)]]
+> - **第三阶段深化（2018 年至今）：[[Public Dynamic Capabilities|公共动态能力]]与引领学习范式融合** 莱纳·卡特尔与[[Mariana Mazzucato|马祖卡托]]将意愿者协同置于国家、政策与行政三层[[Public Dynamic Capabilities|公共动态能力]]架构之中，确立从被动合规监管向共创学习的范式演进。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–801)]]
 
 ---
 

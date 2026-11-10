@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Feedback]]"
   - "[[Paradigm]]"
+  - "[[Early-Career Researchers]]"
   - "[[Falsification]]"
   - "[[Technology Driver Hypothesis]]"
   - "[[Causality]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -96,7 +97,7 @@ updated: 2026-10-22
 > - **发起与资助方（Sloan Foundation）** 阿尔弗雷德·P·斯隆基金会提供稳定经费资助，倡导将学术研究与产业实务深度结合的“行业研究”（Industry Studies）[[Paradigm|范式]]。
 > - **学术主持与跨学科研究中心（UC Berkeley）** 工程学院（提供微电子物理、洁净室工艺与制造装备专业支撑）、哈斯商学院与 BRIE（提供组织行为、运营管理与产业经济分析）。
 > - **参与企业与晶圆制造厂** 提供高敏性产线运行参数、缺陷记录与工程排障案例，开放高管、工艺工程师及一线操作工访谈。
-> - **高校研究生与青年学者团队** 选拔跨学科博士生深度参与驻厂调研与数据清洗，为全美高校培养了一批兼通微电子技术与现代运营管理的复合型工程领军人才。
+> - **高校研究生与[[Early-Career Researchers|青年学者]]团队** 选拔跨学科博士生深度参与驻厂调研与数据清洗，为全美高校培养了一批兼通微电子技术与现代运营管理的复合型工程领军人才。
 
 > [!pathways] 调研路径与数据保护机制
 > - **严格保密与非公开数据脱敏协议** 为打消直接市场竞争企业对工艺诀窍泄露的顾虑，CSM 项目制定了严密的双盲编码与数据脱敏规则，所有对外发布的图表均进行类别化匿名处理。

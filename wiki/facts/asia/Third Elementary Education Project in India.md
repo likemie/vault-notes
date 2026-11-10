@@ -11,7 +11,7 @@ subtype: program
 region: asia
 fact_region: "asia"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[School Autonomy]]"
   - "[[Counterpart Funds]]"
   - "[[Discourse]]"
+  - "[[Transnational Education]]"
   - "[[Policy Conditionalities]]"
   - "[[Epistemic Governance]]"
   - "[[Performance Indicators]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-11-11
 ---
 
 # Third Elementary Education Project in India
@@ -145,7 +146,7 @@ updated: 2026-10-23
 
 > [!lessons] 经验教训与启示
 > - **实施教训** 单纯依赖高强度的数字化监控与量化问责，容易诱发基层学校的形式主义应付，必须配套以实质性的专业支持与资源补足。
-> - **对未来改革的启示** 巨型跨国教育贷款项目应在强调标准化监管的同时，留足地方政府因地制宜的自主探索空间，兼顾外源技术工具与内生文化生态的协调。
+> - **对未来改革的启示** 巨型[[Transnational Education|跨国教育]]贷款项目应在强调标准化监管的同时，留足地方政府因地制宜的自主探索空间，兼顾外源技术工具与内生文化生态的协调。
 
 ---
 

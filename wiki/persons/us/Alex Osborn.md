@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -96,7 +96,7 @@ updated: 2026-11-02
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 奠定了当代[[Creativity\|创造力]]心理学对“[[Divergent Thinking\|发散思维]]（Divergent Thinking）”与“[[Convergent Thinking\|辐合思维]]（Convergent Thinking）”交替循环的经典认知[[Paradigm\|范式]]，深刻启发了吉尔福德（Guilford）与托兰斯（Torrance）。
+> - **理论路径** 奠定了当代[[Creativity\|创造力]]心理学对“[[Divergent Thinking\|发散思维]]（Divergent Thinking）”与“辐合思维（[[Convergent Thinking]]）”交替循环的经典认知[[Paradigm\|范式]]，深刻启发了吉尔福德（Guilford）与托兰斯（Torrance）。
 > - **方法路径** 创立的[[Brainstorming\|头脑风暴]]规程成为全球使用率最高的发散技法；其 73 问检核表被埃伯尔（Eberle, 1971）精炼为广泛普及的 [[SCAMPER]] 模型。
 > - **政策与组织路径** 发起成立的创造性教育基金会（CEF）推动了布法罗大学设立全球首个创造学硕士学位，使创造力正式进入美国正规高等教育与 K-12 课程体系。
 

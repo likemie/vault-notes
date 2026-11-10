@@ -77,8 +77,8 @@ related_concepts:
   - "[[General Purpose Technology]]"
   - "[[Paradigm]]"
   - "[[Web-Based Learning]]"
+  - "[[Homophily]]"
   - "[[Critique of Meta-meta-analysis]]"
-  - "[[Replication in Education Research]]"
 related_theories:
   - "[[Walberg's Educational Productivity Model]]"
   - "[[Punctuated Equilibrium Theory]]"
@@ -153,7 +153,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-05-03
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -512,7 +512,7 @@ updated: 2026-11-02
 > - **大语言模型二阶元分析[[Automated Data Extraction\|自动化数据提取]]** [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] 基于《[[Visible Learning\|可见的学习]]》证据库中的 156 项一阶教育元分析，通过专家仲裁校准确立金标准，系统评估了三大前沿大语言模型（Gemini 2.5 Pro、[[General Purpose Technology|GPT]]-4.1、GPT-o3）自动提取效应量、研究数与[[Sample Size Determination\|样本量]]的准确性（$\text{[[Intraclass Correlation Coefficient\|ICC]]} = 0.96–0.97$），确立大模型提取达到人类专家水准并为人机混合验证提供[[Paradigm\|范式]]。
 > - **[[Fixed-Effect Model|固定效应]]等价性推导与二阶元分析方法论批判** [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 从两级固定效应数学模型严格推导等价性定理（$D = \bar{d}, v_D = v_{\bar{d}}$），确立六项方法论操作规范；通过实证案例（Eisenstaedt [[Standard Error|标准误]]混淆致效应量虚增十倍、Haas 伪造标准误削减权重 53.5%、Olson & Wisher 93.3% 重叠致[[Web-Based Learning|网络学习]]排名自第 26 位雪崩至第 98 位）揭示二阶粗放综合在当前发表体制下的不可行性，并提出建设中央标准化证据数据库。
 > - **二阶元分析全库[[Metascience|元科学]]质量与复现性审计** [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 依据 [[PICO Framework|PICO]] 与伞状综述规范，对《可见的学习》全库 322 个影响因素开展独立复现检验，发现仅 19% 满足 PICO 纳入标准，301 项中仅 2 项可复现数据提取（<1% 复现率），44% 报告效应量在原始报告中缺失，为二阶元分析方法学规范与质量控制提供了里程碑式全量审计实证。
-> - **二阶元综合效应量离散度与同质性检验** [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] 采用变差系数（$V_\sigma = \frac{\sigma}{\bar{x}} \times 100\%$）对《可见的学习》133 项效应量展开统计测算，证实全库变差系数达 $56.87\%$（严重突破 $33\%$ 阈值），实证揭示第一代粗放二阶综合在未经同质性控制下输出单一线性均值与关节点的数理缺陷（pp. 238–241）。
+> - **二阶元综合效应量离散度与[[Homophily|同质性]]检验** [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] 采用变差系数（$V_\sigma = \frac{\sigma}{\bar{x}} \times 100\%$）对《可见的学习》133 项效应量展开统计测算，证实全库变差系数达 $56.87\%$（严重突破 $33\%$ 阈值），实证揭示第一代粗放二阶综合在未经同质性控制下输出单一线性均值与关节点的数理缺陷（pp. 238–241）。
 
 ---
 

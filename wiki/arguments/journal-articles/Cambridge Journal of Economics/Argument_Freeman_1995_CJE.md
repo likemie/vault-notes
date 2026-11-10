@@ -45,6 +45,7 @@ related_theories:
   - "[[Techno-economic Paradigm]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
+  - "[[Knowledge Extent]]"
 related_instruments: []
 related_persons:
   - "[[Chris Freeman]]"
@@ -72,14 +73,14 @@ sources:
 part_of:
 status: completed
 created: 2026-10-05
-updated: 2026-11-10
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Freeman_1995_CJE"
 argument_key: "Argument_Freeman_1995_CJE"
 argument_display_title: "The 'National System of Innovation' in historical perspective"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -196,7 +197,7 @@ issuing_organization: ""
 > [!contrast-table] 研发支出量化指标与[[Systems of Innovation|创新系统]]实际运行的张力
 > | 观察维度 | 单一量化研发指标（GERD/GNP）的局限 | [[National Innovation System\|国家创新系统]]的实质运作机制 |
 > |---|---|---|
-> | **技能与知识范围** | 仅统计正规实验室里的专业研发人员与经费支出。 | 创新不仅依赖研发，更依赖普通技工培训、车间生产工程、工装设计与[[Total Quality Management\|全面质量管理]]。 |
+> | **技能与[[Knowledge Extent\|知识范围]]** | 仅统计正规实验室里的专业研发人员与经费支出。 | 创新不仅依赖研发，更依赖普通技工培训、车间生产工程、工装设计与[[Total Quality Management\|全面质量管理]]。 |
 > | **知识流动方向** | 假定科技成果自上而下单向由实验室流向市场。 | 生产车间、供应链上下游与市场用户之间存在大量密集的双向信息反馈回路。 |
 > | **政策评价效果** | 容易诱导各国盲目攀比研发经费排名，掩盖科研与产业严重脱节的体制弊端。 | 经济增长更依赖于成熟技术在企业之间的快速扩散与工艺改良，而非单纯追求实验室突破。 |
 

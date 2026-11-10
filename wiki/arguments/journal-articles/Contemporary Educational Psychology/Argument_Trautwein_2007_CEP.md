@@ -43,6 +43,7 @@ related_concepts:
   - "[[Source of Knowledge]]"
   - "[[Justification for Knowing]]"
   - "[[Rote Learning]]"
+  - "[[Homophily]]"
   - "[[Theoretical Perspective]]"
   - "[[Hypothesis]]"
   - "[[Independent Variable]]"
@@ -52,8 +53,10 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Scientific Paradigm]]"
   - "[[Tracking]]"
+  - "[[Cumulative Innovation]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Effective Sample Size]]"
+  - "[[Lecturing]]"
   - "[[Domain Specificity]]"
   - "[[Learning Strategies]]"
   - "[[Ecological Validity]]"
@@ -92,16 +95,16 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-19
-updated: 2026-10-26
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Trautwein_2007_CEP"
 argument_key: "Argument_Trautwein_2007_CEP"
 argument_display_title: "Epistemological beliefs, school achievement, and college major: A large-scale longitudinal study on the impact of certainty beliefs"
 argument_kind: "journal-article"
-argument_related_count: 59
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
+argument_related_count: 62
+argument_related_level: 6
+argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 journal: "Contemporary Educational Psychology"
 book_title: ""
@@ -173,7 +176,7 @@ issuing_organization: ""
 > > [!axis] Wood and Kardash (2002) 的三大方法论诊断
 > > 早期认识论实证研究结果之所以高度矛盾，主要源于三大设计缺陷：
 > > 1. **统计功效不足（Lack of Statistical Power）** [[Sample Size Determination\|样本量]]过小，缺乏检验中低[[Effect Size\|效应量]]（Small-to-Moderate Effect Sizes）的统计功效；
-> > 2. **偶遇样本局限（Convenience Samples）** 多依赖同质性极高的高校便利样本，限制了变异范围；
+> > 2. **偶遇样本局限（Convenience Samples）** 多依赖[[Homophily|同质性]]极高的高校便利样本，限制了变异范围；
 > > 3. **关键混淆[[Variable\|变量]]遗漏（Omission of Third Variables）** 多数研究未同时控制基础认知智力与家庭社会经济背景（SES 与文化资本），导致潜在虚假相关难以排除。
 
 ---
@@ -440,7 +443,7 @@ issuing_organization: ""
 >    - *认知机制*：强迫学生走出寻找“单一标准答案”的认知舒适区，激发认识论困惑与认知失调，引导学生学习如何权衡不同研究的方法学局限、样本代表性与论证逻辑，从而从二元论心智跃升至反思性判断（[[Reflective Judgment Model\|Reflective Judgment]]）。
 > 2. **干预路径二：通过历史教科书与当代前沿对照展示[[Scientific Paradigm\|科学范式]]更迭（Historical Textbook Comparison & Paradigm Shift [[Tracking]]）** 
 >    - *设计范式*：对照展示不同历史时期的科学教科书（Historical Textbooks）与当代最新同行评审论文；
->    - *操作流程*：选取胃溃疡病因、大陆漂移学说（从被视为伪科学到被板块构造论确立）、经典力学向相对论与量子力学的拓展等经典节点，向学生展示曾经在教科书中被加粗强调的“真理”如何被后续研究所修正或颠覆；
+>    - *操作流程*：选取胃溃疡病因、大陆漂移学说（从被视为伪科学到被板块构造论确立）、经典力学向相对论与量子力学的拓展等经典节点，向学生展示曾经在教科书中被加粗强调的“真理”如何被[[Cumulative Innovation|后续研究]]所修正或颠覆；
 >    - *认知机制*：直观打破学生对“教科书即真理”的盲从，帮助学生建立科学知识的可证伪性（Falsifiability）信念，认识到教科书所呈现的仅仅是人类当前认知边界下的“最佳暂定解释”。
 
 > [!warrant]- 教学干预如何赋能高阶学术学习
@@ -465,7 +468,7 @@ issuing_organization: ""
 > [!citation-card] 确定性信念对学习的长期阻碍
 > 帮助学生建立关于人类知识的成熟信念系统，其本身就是一项重要的教育目标，同时也是提升[[Academic Achievement\|学业成就]]的重要途径。如果课堂或讲堂上使用的教学材料能够体现人类知识的暂时性与未定性，这一目标就更有可能实现。
 >
-> *Hence, helping students to acquire a sophisticated beliefs system about human knowledge is an important educational goal in itself and a means of enhancing academic achievement. It is more likely that this objective will be achieved if the materials used in the classroom or lecture hall reflect the tentative nature of human knowledge.*
+> *Hence, helping students to acquire a sophisticated beliefs system about human knowledge is an important educational goal in itself and a means of enhancing academic achievement. It is more likely that this objective will be achieved if the materials used in the classroom or [[Lecturing|lecture]] hall reflect the tentative nature of human knowledge.*
 
 > [!citation-card] 科学教育直面不确定性的必要性
 > 接触不确定性在硬科学中可能尤为重要。媒体往往将硬科学的发现描绘成“事实”。一些学生可能正是因为硬科学似乎提供事实而非模糊的理论或假设而被其吸引。因此，科学教育去探讨知识及其获取过程中的复杂性显得尤为重要。

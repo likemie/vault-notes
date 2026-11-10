@@ -9,10 +9,10 @@ summary: "美国复杂系统科学与科学计量学者，加利福尼亚大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 11
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1980"
 died: ""
 lifespan: "1980–至今"
@@ -25,12 +25,14 @@ related_concepts:
   - "[[Metascience]]"
   - "[[Citation Distribution]]"
   - "[[Matthew Effect in Academia]]"
+  - "[[Early-Career Researchers]]"
 related_theories: []
 related_methods:
   - "[[Bibliometric Analysis]]"
   - "[[Reputation Velocity Threshold Model]]"
 related_instruments: []
 related_persons:
+  - "[[Santo Fortunato]]"
   - "[[Robert K. Merton]]"
   - "[[Albert-László Barabási]]"
 related_facts:
@@ -40,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: 2026-10-31
+updated: 2026-11-11
 ---
 
 ---
@@ -66,7 +68,7 @@ updated: 2026-10-31
 ---
 
 > [!work-line] 主要著作
-> - **2014 — *Reputation and impact in academic careers*** 联合 Santo Fortunato 等学者在 PNAS 发表，提出声望速度阈值模型，发现知名物理学者新著在 $c < 40$ 区间享受 4 倍于青年学者的早期引文溢价。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 31–33)]]
+> - **2014 — *Reputation and impact in academic careers*** 联合 [[Santo Fortunato]] 等学者在 PNAS 发表，提出声望速度阈值模型，发现知名物理学者新著在 $c < 40$ 区间享受 4 倍于青年学者的早期引文溢价。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 31–33)]]
 > - **2012 — *Persistence and uncertainty in the academic career*** 在 PNAS 发表，以纵向物理学者数据集揭示学术生涯长尾停滞与高淘汰率的幂律微观机制。
 > - **2011 — *Quantitative patterns of quality and impact in science*** 系统分析学者产出数量与[[Citation Distribution|成果引文分布]]之间的相对独立与分离现象。
 
@@ -78,7 +80,7 @@ updated: 2026-10-31
 > [!influence-path] 影响路径
 > - **理论路径** 深化了[[Robert K. Merton|罗伯特·K·默顿]]的[[Matthew Effect in Academia|学术马太效应]]理论，首次用统计物理学模型给出了声誉加速向内在无标度连接过渡的数学表述与临界点测量。
 > - **方法路径** 将生存分析、随机过程与引文网络建模相结合，为[[Bibliometric Analysis|科学计量学]]提供了可拟合验证的宏观参数估计体系。
-> - **政策路径** 为高校中青年科研人员早期发展资助与终身教职评审提供了实证依据，强调对缺乏初始声望标签的新人必须给予制度性扶持。
+> - **政策路径** 为高校中[[Early-Career Researchers|青年科研人员]]早期发展资助与终身教职评审提供了实证依据，强调对缺乏初始声望标签的新人必须给予制度性扶持。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 将 Petersen et al. (2014) 的实证研究作为揭示学术声誉在成果生命周期中跨越效应的核心依据。

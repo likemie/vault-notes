@@ -6,10 +6,10 @@ aliases:
 summary: "指专业从业者（教师与公职决策者）以维护专业实践完整性与批判思维的方式理解、审视与整合多元方法论研究的能力与德性；不仅是在有效性与适切性之间进行专业判断的中介素养，更是抵御后真相算法操纵、捍卫作为基本民主权利的科学素养的制度基石"
 type: concept
 domain: "teacher-education"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 61
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - field/teacher-education
   - theme/research-use
@@ -21,6 +21,8 @@ related_concepts:
   - "[[Epistemic Governance]]"
   - "[[Scientific Literacy]]"
   - "[[Areas of Knowledge]]"
+  - "[[Thoughtful Engagement]]"
+  - "[[Appropriate Research]]"
   - "[[Professional Judgment]]"
   - "[[Phronesis]]"
   - "[[Literature Search]]"
@@ -84,7 +86,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -108,7 +110,7 @@ updated: 2026-11-03
 > *And lastly, we must design teacher education and public servant training to hone the capacity to critically engage with and use research of various kinds and from multiple methodologies. This is an essential [[Skills Toward Employment and Productivity|step]] in defending scientific literacy as a basic democratic right (Chalmers et al., 2018), key to asserting the importance of and trust in science and the scientific process in education and beyond.*
 
 > [!citation-card] Rickinson et al. 论研究素养与深思熟虑参与的个体使能
-> [[British Educational Research Association\|英国教育研究协会]]（BERA, 2014）与埃文斯等（Evans et al., 2017）指出，建立教师的研究素养是促进实践与研究融合的基石。在 [[Quality Use of Research Evidence Framework\|QURE]] 框架中，研究素养被明确界定为支撑“深思熟虑参与”（Thoughtful Engagement）的核心个体使能构件（技能网络与态度价值观），它要求教师教育与专业发展打破孤立的技能操练，促使专业人员在特定情境中对适切证据展开审慎权衡与批判吸纳。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, pp. 142–143)]]
+> [[British Educational Research Association\|英国教育研究协会]]（BERA, 2014）与埃文斯等（Evans et al., 2017）指出，建立教师的研究素养是促进实践与研究融合的基石。在 [[Quality Use of Research Evidence Framework\|QURE]] 框架中，研究素养被明确界定为支撑“深思熟虑参与”（[[Thoughtful Engagement]]）的核心个体使能构件（技能网络与态度价值观），它要求教师教育与专业发展打破孤立的技能操练，促使专业人员在特定情境中对[[Appropriate Research|适切证据]]展开审慎权衡与批判吸纳。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, pp. 142–143)]]
 >
 > *Building teachers' research literacy involves integrating practice and research... In developing thoughtful engagement with and implementation of appropriate research evidence, research literacy forms a core individual enabler that connects practitioner skillsets and mindsets with [[Organizational Culture\|organisational culture]].*
 

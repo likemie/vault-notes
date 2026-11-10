@@ -9,7 +9,7 @@ summary: "世界银行第九任行长（1995–2005），知名投资银行家�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 28
+person_related_count: 29
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Washington Consensus]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Construct]]"
+  - "[[Country Ownership]]"
   - "[[Policy Brokerage]]"
   - "[[Knowledge Production]]"
   - "[[Evidence Standards]]"
@@ -60,7 +61,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -93,7 +94,7 @@ updated: 2026-10-30
 > - **1995–1998 — 从“消除腐败之癌”到“知识银行”[[Paradigm|范式]]确立** 针对冷战后国际社会对“[[Washington Consensus|华盛顿共识]]”与结构调整计划（[[Structural Adjustment Programs|SAPs]]）强制贷款的广泛批判，沃尔芬森打破以往世界银行对政治与腐败议题的禁忌，强调制度透明、反腐败与善治；同时确立发展研究是跨国援助的先决中介，提出将世界银行由单一的资本转贷方重构为全球最大的发展知识集散库。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 1, 4)]]
 >   - **代表成果** 1996 年世行年会演说《面对挑战》（*People and Development*）、1998 年世界发展报告《知识与发展》（*[[Knowledge for Development]]*）。
 >   - **关键[[Construct|构念]]** [[Knowledge Bank|知识银行]]、战略契约、反腐败机制。
-> - **1999–2005 — 全面发展框架、国家所有权与多边治理重构** 倡导超越单纯宏观经济稳定与 GDP 指标的全面发展框架（Comprehensive Development Framework, CDF），强调社会公平、教育与卫生投资的不可替代性；推行强调受援国“国家自主权（Country Ownership）”的减贫战略文件（PRSPs），试图重构多边机构与全球南方国家的伙伴关系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
+> - **1999–2005 — 全面发展框架、[[Country Ownership|国家所有权]]与多边治理重构** 倡导超越单纯宏观经济稳定与 GDP 指标的全面发展框架（Comprehensive Development Framework, CDF），强调社会公平、教育与卫生投资的不可替代性；推行强调受援国“国家自主权（Country Ownership）”的减贫战略文件（PRSPs），试图重构多边机构与全球南方国家的伙伴关系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 >   - **代表成果** 启动全面发展框架试点、发起[[Global Development Network|全球发展网络]]（GDN）、创立世界银行开放知识与远程学习网络。
 >   - **关键机制** 减贫战略规划、多边债务减免、受援国[[Policy Brokerage|政策中介]]。
 

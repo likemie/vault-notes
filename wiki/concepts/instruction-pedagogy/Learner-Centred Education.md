@@ -10,15 +10,16 @@ aliases:
 summary: "以学生为学习主体、强调学生自主性与对话探究的教学理念，在不同文化和高利害考试语境下被重构为具备不同功能与权力边界的教学实践"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Critical Thinking]]"
   - "[[Recontextualization]]"
   - "[[Paradigm]]"
+  - "[[Transnational Education]]"
   - "[[Policy Borrowing]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Constructivist Paradigm]]"
@@ -52,7 +53,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-11-03
+updated: 2026-11-11
 tags:
   - metax
 ---
@@ -62,7 +63,7 @@ tags:
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向打破教师单向灌输、强调以学生的学习体验、认知参与、自主探究与对话互动为重心的教学[[Paradigm\|范式]]。
-> - **用途** 帮助研究者解构课堂权力关系，分析跨国教育[[Policy Borrowing\|政策借用]]与本土教学实践之间的张力、转译及扩展性改造机制。
+> - **用途** 帮助研究者解构课堂权力关系，分析[[Transnational Education|跨国教育]][[Policy Borrowing\|政策借用]]与本土教学实践之间的张力、转译及扩展性改造机制。
 > - **边界** 在统一课程大纲与高利害升学考试约束下，LCE 的实施往往被重构为提升学习效率与[[Higher-Order Thinking Skills\|高阶思维]]的认知工具，而排除了学生共决课程与评估形式的权力共享维度。
 
 > [!citation-card] 关键表述

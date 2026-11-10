@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Response to Intervention]]"
   - "[[Innovation Park]]"
   - "[[International Education]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Research Translation]]"
   - "[[Structured Teaching]]"
   - "[[Output-Oriented Governance]]"
@@ -55,13 +56,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定位
-> [[Response to Intervention|RTI]] International（三角[[Innovation Park|研究园区]]国际研究所）是一家成立于 1958 年的全球独立非营利科学研究与国际发展实施智库。在[[International Education|国际教育]]与全球治理领域，该机构作为[[World Bank|世界银行]]与美国国际开发署的核心技术承包方，主导研制了覆盖数十个发展中国家的基础学习测评工具，并在非洲、亚洲及拉美广泛执行教育系统因果干预项目。在[[UNESCO|联合国教科文组织]]全球教育证据利用战略审查中，该机构作为全球南方教育关键实施智库与测评研发代表接受专项审阅与访谈。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 19, 57)]]
+> [[Response to Intervention|RTI]] International（三角[[Innovation Park|研究园区]]国际研究所）是一家成立于 1958 年的全球独立非营利科学研究与国际发展实施智库。在[[International Education|国际教育]]与全球治理领域，该机构作为[[World Bank|世界银行]]与美国国际开发署的核心技术承包方，主导研制了覆盖数十个发展中国家的[[Foundational Literacy and Numeracy|基础学习]]测评工具，并在非洲、亚洲及拉美广泛执行教育系统因果干预项目。在[[UNESCO|联合国教科文组织]]全球教育证据利用战略审查中，该机构作为全球南方教育关键实施智库与测评研发代表接受专项审阅与访谈。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 19, 57)]]
 
 > [!org-context] 机构背景
 > - **创设契机与历史渊源** 1958 年由北卡罗来纳州政府、当地工商业界领袖联合杜克大学、北卡罗来纳大学教堂山分校以及北卡罗来纳州立大学共同创立，旨在依托跨学科产学协作搭建独立科研服务中枢。

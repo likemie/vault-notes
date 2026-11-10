@@ -11,7 +11,7 @@ title: "Argument_ONeill_2016_Report"
 argument_key: "Argument_ONeill_2016_Report"
 argument_display_title: "Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand"
 argument_kind: "report"
-argument_related_count: 52
+argument_related_count: 54
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -45,8 +45,10 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Dual-Entity Legal Structure]]"
   - "[[Visible Learning]]"
+  - "[[Education Export]]"
   - "[[New Pedagogies for Deep Learning]]"
   - "[[Informationalization]]"
+  - "[[Transnational Education]]"
   - "[[Efficacy Framework]]"
   - "[[Return on Investment]]"
   - "[[Emergence]]"
@@ -87,7 +89,7 @@ related_instruments:
   - "[[Visible Classroom]]"
 status: active
 created: '2026-05-04'
-updated: 2026-10-29
+updated: 2026-11-11
 year: 2016
 doi: ""
 citation_aliases:
@@ -311,7 +313,7 @@ citation_aliases:
 > | 案例机构 | 组织属性与法律治理 | 核心业务范畴 | 资金规模（2015） | 资本流动与留存特征 | 核心网络连接节点 |
 > |---|---|---|---|---|---|
 > | **Pearson plc** | 跨国上市集团；NZ 由本地公司 Edify 代理 | 标准化测试、数字化教材、Open Ideas 智库出版 | 全球营收 £44.68 亿；NZ 代理商业绩未单列 | 商业利润回流全球股东；基金会慈善支出仅占税前利润 2% | [[Michael Barber\|迈克尔·巴伯]]爵士、全球测试联盟、培生廉价学习基金（PALF） |
-> | **[[Cognition Education]]** | 慈善信托 100% 控股商业咨询有限公司 | 教师研修合同、中东教育出口、Visible Learningplus | 集团营收 NZD 2809 万（峰值 6915 万） | 商业利润免税转入信托；2015 外部捐赠仅 25.1 万（占营收 0.9%） | 约翰·哈蒂、教育部评审专家、各大区公立学校校长协会 |
+> | **[[Cognition Education]]** | 慈善信托 100% 控股商业咨询有限公司 | 教师研修合同、中东[[Education Export\|教育出口]]、Visible Learningplus | 集团营收 NZD 2809 万（峰值 6915 万） | 商业利润免税转入信托；2015 外部捐赠仅 25.1 万（占营收 0.9%） | 约翰·哈蒂、教育部评审专家、各大区公立学校校长协会 |
 > | **[[CORE Education]]** | 慈善信托全资控股商业有限责任公司 | 数字化学习研发、ULearn 研讨会、[[New Pedagogies for Deep Learning\|NPDL]] 跨国特许 | 集团营收 NZD 2277 万；员工 180 人 | 营收高度依赖政府合同；对外慈善捐赠仅占总收入 1.3% | 德里克·温茅斯、坎特伯雷大学、教育部[[Informationalization\|信息化]]司 |
 > | **[[Foundation North]]** | 依据 1957 年法案设立的永久性社区信托 | 战略性[[Venture Philanthropy\|风险慈善]]、社会影响力投资、MPEI 专项 | 年投资收益 NZD 1.37 亿；净资产 NZD 12.15 亿 | 2010–2015 年均仅将 23.3% 投资收益用于捐赠；76% 留存滚存 | 奥克兰商界领袖、星径项目、社会影响力中心 |
 > | **[[COMET Auckland]]** | 地方政府控制机构（CCO）暨注册慈善信托 | 教育政策倡导、南区技能提升、跨界合作网络构建 | 财政拨款与项目营收约 NZD 89 万 | 几无资金留存；以 20 万议会基础拨款带动 180 万外部政府与慈善配套资助 | 奥克兰市议会、工会代表、毛利部族机构、企业雇主联盟 |
@@ -327,7 +329,7 @@ citation_aliases:
 > - **法人经费属性** 跨国上市教育集团（伦敦证券交易所与纽约证券交易所上市公司）
 > - **核心宗旨** 通过学习帮助人们改善生活，追求股东商业回报与全球教育市场份额。（pp.77–78）
 
-> [!case] 案例一：Pearson plc——跨国教育集团的实效性标准塑造与全球教育商业扩张
+> [!case] 案例一：Pearson plc——[[Transnational Education|跨国教育]]集团的实效性标准塑造与全球教育商业扩张
 > - **[[Efficacy Framework|实效性框架]]（Efficacy Framework）** 在首席教育顾问迈克尔·巴伯爵士（Sir [[Michael Barber]]）主导下，培生推行[[Efficacy Framework|实效性框架]]与审计体系，要求所有商业产品均出具提升学习成效的证据，将商业测评包装为客观科学法则。（pp.11, 77–81）
 > - **智库思想倡导** 通过 Pearson Open Ideas 丛书资助全球知名学者（包括致谢约翰·哈蒂与彼得·希尔），打造权威学术形象，深度介入各国课标与评价制度改革。
 > - **廉价私立学校投资** 通过培生廉价学习基金（Pearson Affordable Learning Fund, PALF），在加纳与肯尼亚投资营利性私立连锁学校，积极游说将公共教育经费转化为私立代金券。（pp.77–81）

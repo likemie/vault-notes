@@ -7,7 +7,7 @@ title: "Argument_Ramming_2025_CorporateSupport"
 argument_key: "Argument_Ramming_2025_CorporateSupport"
 argument_display_title: "Gaining support within companies for collaboration"
 argument_kind: "book"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#ede9fe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Discourse]]"
   - "[[Counterpart Funds]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Corporate R&D Labs]]"
   - "[[Corporate Venture Capital]]"
   - "[[Academic Entrepreneurship]]"
@@ -81,7 +82,7 @@ sources:
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 status: active
 created: 2026-06-03
-updated: 2026-10-29
+updated: 2026-11-11
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 publication_place: "Cham"
 publisher: "Springer"
@@ -286,7 +287,7 @@ publisher: "Springer"
 > | **技术咨询协议** | 最短<br>（数周至数月） | 解决产品线当前急需攻克的专有工程难题，技术参数严格保密，交付指标具体且排期紧迫。 | 由提出需求的业务工程团队直接发起并负责全流程独立管理，中央 AET 仅保留项目备案以掌握校企合作全局。（pp. 229–230） |
 > | **学生实习与客座访问** | 中期<br>（数月至一年） | 邀请博士生承担具有前瞻性的探索课题；资深教授在学术休假期间进入企业开展深度技术合作。 | 工程部门负责现场技术对接；人力招聘团队跟进优秀毕业生储备。即便顶尖实习生毕业后选择留校任教，企业也因此收获了长期的外部学术伙伴。（p. 230） |
 > | **双重聘用[[Joint Faculty Appointments\|联合教职]]** | 双重并发尺度<br>（常态化并存） | 专家同时保留大学教授与企业顾问员工双重身份，既能攻关企业核心商业技术，又能指导前沿基础学术探索。 | 需中央 AET 介入与校方高层统一协调知识产权归属与利益冲突申报，确保符合 [[University Industry Demonstration Partnership\|UIDP]] 联合聘用操作规范。 |
-> | **[[Sponsored Research Agreement\|赞助研究协议（SRA）]]** | 最长<br>（3 年至 5 年以上） | 探索前沿未知领域，支持博士论文课题，接受高度试错与不确定性，产出以顶级论文为主。 | 初期由中央 AET 全额孵化并隔离业务部门考核；中期邀请业务骨干以兼职顾问身份提供工业场景输入；成熟后整体交接。（pp. 230–231） |
+> | **[[Sponsored Research Agreement\|赞助研究协议（SRA）]]** | 最长<br>（3 年至 5 年以上） | 探索前沿未知领域，支持[[Doctoral Dissertation\|博士论文]]课题，接受高度试错与不确定性，产出以顶级论文为主。 | 初期由中央 AET 全额孵化并隔离业务部门考核；中期邀请业务骨干以兼职顾问身份提供工业场景输入；成熟后整体交接。（pp. 230–231） |
 
 > [!stat-cards]- 跨领域[[Research Translation|技术转化]]时间基准
 > - **3–8 / > 10** 大学许可技术在企业内部开发至产品上市，与生命科学从 I 期临床至监管批准的周期（年）。（p. 224）

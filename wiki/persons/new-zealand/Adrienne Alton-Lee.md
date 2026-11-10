@@ -7,7 +7,7 @@ summary: "新西兰教育学家，新西兰教育部《最佳证据综合》（B
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -40,6 +40,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[Best Evidence Synthesis]]"
+  - "[[New Zealand Quality Teaching Strategy]]"
   - "[[OECD]]"
   - "[[Education Review Office]]"
   - "[[Tomorrow's Schools Reforms]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -69,7 +70,7 @@ updated: 2026-11-10
 > [!timeline] 生平与职涯
 > - **1980–1990年代** 长期从事微观课堂[[Ethnography|民族志]]、多元文化学情及师生互动过程的质性实证研究。
 > - **2001–2003** 受新西兰教育部委托创设《最佳证据综合》（BES）国家循证[[Knowledge Mediation|知识中介]]项目，旨在打破英美传统[[Meta-analysis|元分析]]对质性证据的排斥，开创质性与定量融合的本土化综合范式。
-> - **2003** 正式发布《运用最佳证据综合协助多样化学困生》，其实证发现直接促成了 2003 年教育部长 Trevor Mallard 将“优质教学”（Quality Teaching）确立为国家战略最高优先级的历史转折。
+> - **2003** 正式发布《运用最佳证据综合协助多样化学困生》，其实证发现直接促成了 2003 年教育部长 Trevor Mallard 将“优质教学”（[[New Zealand Quality Teaching Strategy|Quality Teaching]]）确立为国家战略最高优先级的历史转折。
 > - **2004–2015** 持续主持编制教师专业学习、[[School Leadership|学校领导力]]与家长社区协同等系列 BES 报告，成为 [[OECD]] 循证教育网络中的标志性学者。
 
 ---

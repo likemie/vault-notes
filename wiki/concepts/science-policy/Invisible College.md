@@ -6,10 +6,10 @@ aliases:
 summary: "源自 17 世纪罗伯特·波义耳并由现代科学学形式化的科学社会学构念；指跨越物理地理与行政边界、以共同科学问题与思想互动为纽带的学者合作网络，其客观实在性由顶尖学者意外离世引发的核心学术网络成员产出永久下滑所证实。"
 type: concept
 domain: "science-policy"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/science-of-science
   - theme/sociology-of-science
@@ -17,12 +17,14 @@ tags:
   - theme/peer-effects
 related_concepts:
   - "[[Construct]]"
+  - "[[Professional Interest]]"
   - "[[Coauthorship Network]]"
   - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Helpful Scientists]]"
   - "[[Ontology]]"
+  - "[[Little Science]]"
   - "[[Big Science]]"
   - "[[Star Scientists]]"
   - "[[Peer Effects in Science]]"
@@ -43,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -57,7 +59,7 @@ updated: 2026-11-03
 > - **边界** 不等同于具有官方规章与行政编制的实体学术单位，亦不局限于同一大学内部的实体实验室。
 
 > [!citation-card|notitle] 无形学院的实质存在
-> 这些结果共同证实了 17 世纪科学家罗伯特·波义耳所称的无形学院的存在。他们因对特定科学议题与思想的共同志趣而凝聚在一起；当失去一位明星学者时，这一无形学院便遭受持久且深远的智识损失。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 99–100)]]
+> 这些结果共同证实了 17 世纪科学家罗伯特·波义耳所称的无形学院的存在。他们因对特定科学议题与思想的共同[[Professional Interest|志趣]]而凝聚在一起；当失去一位明星学者时，这一无形学院便遭受持久且深远的智识损失。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 99–100)]]
 >
 > *These results together provide evidence of what seventeenth-century scientist Robert Boyle called an "invisible college" of scientists, bound together by interests in specific scientific topics and ideas – a college which suffers a permanent and reverberating intellectual loss when a star is lost.*
 
@@ -122,7 +124,7 @@ updated: 2026-11-03
 
 > [!dev-timeline] 概念演变
 > - **1646 — 概念发端** 罗伯特·波义耳（Robert Boyle）在信件中首次提出无形学院概念，指代早期围绕自然哲学开展学术交流与实验通信的学者网络。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 99)]]
-> - **1963 — 科学社会学规范化** [[Derek de Solla Price|德里克·德索拉·普赖斯]]（Derek de Solla Price）在《小科学，[[Big Science|大科学]]》中将无形学院形式化为围绕前沿问题定期交换预印本的小型精英学者圈。
+> - **1963 — 科学社会学规范化** [[Derek de Solla Price|德里克·德索拉·普赖斯]]（Derek de Solla Price）在《[[Little Science|小科学]]，[[Big Science|大科学]]》中将无形学院形式化为围绕前沿问题定期交换预印本的小型精英学者圈。
 > - **2010 — 因果实证检验确立客观实在性** 皮埃尔·阿祖莱（Pierre Azoulay）等通过[[Star Scientists|明星科学家]]意外猝逝外生冲击，证实无形学院是由知识互补性构成的实质因果网络。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 99–100)]]
 
 ---

@@ -9,7 +9,7 @@ aliases:
 summary: "由全球教育证据咨询小组（GEEAP）与世界银行、英国外交发展部、联合国儿童基金会及美国国际开发署联合提出的教育循证决策与援助投资分级框架；该框架依据因果实验证据与单位成本学习收益率，将全球教育干预措施划分为极佳投资、智能购买、前景良好但证据有限及不良投资四级采购矩阵，旨在资源约束情境下指导中低收入国家实现高性价比的教育干预选优；因其强烈的技术官僚理性倾向与去情境化偏颇，在比较教育学中引发广泛批判。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 13
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,8 @@ tags:
   - theme/world-bank
 related_concepts:
   - "[[Technical Rationality]]"
+  - "[[Transnational Education]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Discourse]]"
   - "[[Heterogeneity]]"
   - "[[Dependent Variable]]"
@@ -42,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-25
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -93,10 +95,10 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题一｜智能购买框架强化了量化实验在教育援助决策中的绝对特权
-> **证据等级与技术官僚选优** 这类命题探讨智能购买如何依托因果科学声望，确立实验经济学对跨国教育政策议程的仲裁权。
+> **证据等级与技术官僚选优** 这类命题探讨智能购买如何依托因果科学声望，确立实验经济学对[[Transnational Education|跨国教育]]政策议程的仲裁权。
 
 > [!claim] [[Global Education Evidence Advisory Panel|GEEAP]] (2020, 2024)
-> **成本效益最大化** 在公共财政资源极度紧张的治理情境中，教育决策必须超越政治直觉与利益诉求游说，依靠因果实验严谨测算的成本效益指标配置资金，以最小投入换取学生基础读写算能力的最大提升。
+> **成本效益最大化** 在公共财政资源极度紧张的治理情境中，教育决策必须超越政治直觉与利益诉求游说，依靠因果实验严谨测算的成本效益指标配置资金，以最小投入换取学生[[Foundational Literacy and Numeracy|基础读写算能力]]的最大提升。
 
 > [!claim] [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]]
 > **[[Technical Rationality|技术理性]]去情境化** 智能购买框架通过宣称绝对学术独立与纯粹依托证据，构建了去政治化的技术理性神话；这种[[Discourse|话语]]策略将复杂的教育治理简化为现成方案的采购比对，剥离了干预落实所需的组织生态与本土支持条件。

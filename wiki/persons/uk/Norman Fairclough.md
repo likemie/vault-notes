@@ -7,7 +7,7 @@ summary: "英国语言学学者、社会学家，兰卡斯特大学语言学荣�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 33
+person_related_count: 35
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Social Imaginary]]"
   - "[[Objectivism]]"
   - "[[Operationalization]]"
+  - "[[Transnational Education]]"
   - "[[Policy Framing]]"
   - "[[Education Going Global]]"
   - "[[Ontology]]"
@@ -56,6 +57,7 @@ related_persons:
   - "[[Bob Jessop]]"
   - "[[Roy Bhaskar]]"
 related_facts:
+  - "[[Dimensions]]"
   - "[[Belt and Road Initiative]]"
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
@@ -63,7 +65,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -108,7 +110,7 @@ updated: 2026-10-30
 > [!citation-card] [[Critical Discourse Analysis|CDA]] 三维分析模型与政策改造
 > 费尔克拉夫的三维模型将分析划分为三个相互关联的层次：微观文本层面的描述（文本结构与框架化）、中观话语实践层面的阐释（互文性、文本生产与流通过程），以及宏观社会实践层面的因果解释（社会结构、意识形态与权力博弈）。在教育政策分析中，该框架鼓励研究者审视政策问题是如何被建构的、由谁建构以及服务于何种政治意图。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–682)]]
 >
-> *In Fairclough's CDA model, analysis spans three dimensions: description, interpretation, and explanation... investigating the relationships of texts, practices, social processes, and social structures.*
+> *In Fairclough's CDA model, analysis spans three [[Dimensions|dimensions]]: description, interpretation, and explanation... investigating the relationships of texts, practices, social processes, and social structures.*
 
 > [!citation-card] 话语想象（Imaginaries）与投射性建构
 > 费尔克拉夫使用“想象”（Imaginaries）一词来界定话语或叙事中超越现实表象的投射性维度：话语不仅表征现实世界，更致力于表征不同于实际世界的可能世界，并与推动世界朝着特定方向演进的实践工程紧密绑定。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 691)]]
@@ -125,7 +127,7 @@ updated: 2026-10-30
 > [!influence-path] 影响路径
 > - **理论路径** 确立[[Critical Discourse Analysis|批判话语分析]]流派，推动应用语言学向社会理论的“批判转向”，深刻影响社会学、传播学与政治学研究。
 > - **方法路径** 提供了从文本到社会结构的可[[Operationalization|操作化]]质性分析[[Paradigm|范式]]，广泛应用于政策文本分析、媒体[[Discourse|话语]]研究与组织话语研究。
-> - **政策与教育学应用** 为批判性教育政策社会学提供核心分析武器；在跨国教育政策解构中，其模型被应用于剖析超国家组织报告如何通过中立语言将新自由主义权力关系自然化（[[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等, 2021, p. 423]]），以及剖析跨国高等教育政策的话语框架化与地缘政治意图（[[Argument_Woo_2023_HEP|Woo, 2023]]）。
+> - **政策与教育学应用** 为批判性教育政策社会学提供核心分析武器；在[[Transnational Education|跨国教育]]政策解构中，其模型被应用于剖析超国家组织报告如何通过中立语言将新自由主义权力关系自然化（[[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等, 2021, p. 423]]），以及剖析跨国高等教育政策的话语框架化与地缘政治意图（[[Argument_Woo_2023_HEP|Woo, 2023]]）。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 将费尔克拉夫批判[[Discourse Analysis|话语分析]]三维模型与[[Policy Framing|政策框架化]]理论改造融合，解构中国[[Belt and Road Initiative|一带一路]][[Education Going Global|高教出海]]政策的话语实践与[[Geopolitics|地缘政治]]意图。

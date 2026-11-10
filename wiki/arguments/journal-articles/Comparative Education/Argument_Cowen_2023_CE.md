@@ -9,7 +9,7 @@ title: "Argument_Cowen_2023_CE"
 argument_key: "Argument_Cowen_2023_CE"
 argument_display_title: "Comparative education: and now? Comparative Education, 59(3), 326–340"
 argument_kind: "journal-article"
-argument_related_count: 71
+argument_related_count: 74
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -45,14 +45,17 @@ related_concepts:
   - "[[Hierarchy of Future Issues in Comparative Education]]"
   - "[[Posthumanism]]"
   - "[[Emergence]]"
+  - "[[Nationalism]]"
   - "[[Conversational AI in Education]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Discourse]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Research Question]]"
   - "[[Politics of Knowledge]]"
   - "[[Democratic Education]]"
   - "[[Revolutionism]]"
   - "[[Discipline-Based Theory]]"
+  - "[[Deliverology]]"
   - "[[Academic Freedom]]"
 related_theories:
   - "[[Policy Instrumentation Theory]]"
@@ -103,7 +106,7 @@ part_of: ""
 related_instruments: []
 status: draft
 created: 2026-06-06
-updated: 2026-10-29
+updated: 2026-11-11
 year: 2023
 doi: ""
 citation_aliases:
@@ -221,7 +224,7 @@ citation_aliases:
 > - **[[Hierarchy of Future Issues in Comparative Education\|未来议题分类原则]]** 决定学科智识命运与前瞻方向的五个核心议题层级：
 >   1. **常规谜题 (Normal-puzzle topics)** 学科日常运转的核心业务，侧重于对学校系统及其各个组成部分的运转和改革分析。具体包括：学前教育、初等教育、中等教育、考试、课程、教师教育、职业技术教育、衡量学校与大学质量、以及新型教学技术。
 >   2. **热门主题 (Hot topics)** 产出极其丰厚、学者关注度极高且将持续维持热度的领域。具体包括：种族与性别（例如 Unterhalter 于 2023 年编辑的女孩教育专刊），以及各种以“后”（POST）为标志的新理论研究，如后社会主义、后现代、[[Posthumanism\|后人类主义]]理论，以及系统装配 (assemblages) 解释视角。
->   3. **突破性主题 (Break-through themes)** 近年[[Emergence\|涌现]]、不仅突然显性化且直穿未来的突破性议题。具体包括：治理与控制模式 (governance and modes of control)；数据霸权；后殖民主义与全球南方 (post-colonialism and the Global South)；[[PISA]] 等国际测试批判；从全球化洪流中重新解救民族主义概念；以及人工智能尤其是智能[[Conversational AI in Education|对话机器人]]（如 ChatGPT）带来的急剧技术变革与行业恐慌。
+>   3. **突破性主题 (Break-through themes)** 近年[[Emergence\|涌现]]、不仅突然显性化且直穿未来的突破性议题。具体包括：治理与控制模式 (governance and modes of control)；数据霸权；后殖民主义与全球南方 (post-colonialism and the Global South)；[[PISA]] 等国际测试批判；从全球化洪流中重新解救[[Nationalism|民族主义]]概念；以及人工智能尤其是智能[[Conversational AI in Education|对话机器人]]（如 ChatGPT）带来的急剧技术变革与行业恐慌。
 >   4. **冷门主题与重大沉默 (Cold topics / Major silences)** 学科历史上面对重大地缘政治剧变却长期失声、几乎从未进入学术过去的冷门领域。具体包括：战争、革命、帝国以及宗教。Cowen 强调，这些领域不能仅靠短文章来拯救，而应当被全盘重估，放在不以提供政策建议为目的的纯粹学术比较教育中进行深刻探讨。
 >   5. **全球解读** 学科对外部政治与经济大叙事变化的宏观回应，直接决定了比较教育在不同历史分期中的理解风格与研究议程。
 
@@ -262,7 +265,7 @@ citation_aliases:
 > 比较教育的行动议程（资助项目、政策咨询、出售易读教材等应用性实践）赚取了大量资金，客观上保护并维持了学术性、理论性比较教育的自由度。然而，这种曲线救国的代价是高昂的：它将学者牢牢套在学术界微观政治的工量化枷锁中。
 
 > [!challenges] 管理主义对大学学术性的腐蚀表现
-> 1. **即时影响命令 (Impact Injunction)** 大学系统强迫要求学术工作产生即时影响。例如，英格兰某些大学甚至规定博士论文必须在摘要前附上一份明确的影响声明（Impact statement），将学术合法性简化为实用效果。
+> 1. **即时影响命令 (Impact Injunction)** 大学系统强迫要求学术工作产生即时影响。例如，英格兰某些大学甚至规定[[Doctoral Dissertation|博士论文]]必须在摘要前附上一份明确的影响声明（Impact statement），将学术合法性简化为实用效果。
 > 2. **世界一流大学命令 (World-Class University Injunction)** 狂热追求世界排名。这套量化管理系统重新定义了大学的本真目标，将教授变成功绩制机器上的螺丝钉，将大学降格为顺从经济的纯粹企业。
 
 > [!warrant]- 推理桥梁
@@ -304,7 +307,7 @@ citation_aliases:
 > > 叙事聚焦于日本与中国比较教育的发展史，通过三层历史叙事揭示比较教育如何作为为世界统治服务的认识论权力游戏（epistemological power games for world domination）——即教育改革如何总是伴随着政治大国的意识形态输出和话语征服。
 > 
 > > [!case] Euan Auld and Paul Morris (2023) 的“拯救神学”与 Delivery
-> > 采用神学与哲学透镜分析交付学（Deliverology）创始人 [[Michael Barber]] 的全球教育改革。Barber 将自己塑造成提供末日拯救的政治神学家，通过设定比较指标和效率交付标准，成功让国家机器降格为指标管理的附属品，挤压了教育的本真伦理。
+> > 采用神学与哲学透镜分析交付学（[[Deliverology]]）创始人 [[Michael Barber]] 的全球教育改革。Barber 将自己塑造成提供末日拯救的政治神学家，通过设定比较指标和效率交付标准，成功让国家机器降格为指标管理的附属品，挤压了教育的本真伦理。
 
 ---
 

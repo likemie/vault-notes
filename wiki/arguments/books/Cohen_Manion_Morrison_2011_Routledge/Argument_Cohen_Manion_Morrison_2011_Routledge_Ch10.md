@@ -11,9 +11,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 139
-argument_related_level: 13
-argument_related_stars: "💎💎💎💎⭐"
+argument_related_count: 141
+argument_related_level: 14
+argument_related_stars: "💎💎💎💎⭐⭐"
 argument_related_color: "#fecdd3"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
@@ -59,6 +59,7 @@ related_concepts:
   - "[[Catalytic Validity]]"
   - "[[Consequential Validity]]"
   - "[[Threats to Internal Validity]]"
+  - "[[Research Tool]]"
   - "[[Type I and Type II Errors]]"
   - "[[Null Hypothesis]]"
   - "[[Trust Calibration]]"
@@ -164,6 +165,7 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Participant Observation]]"
   - "[[Observation Method]]"
+  - "[[Instrumental Variables]]"
   - "[[Item Response Theory]]"
   - "[[Multiple-Choice Questions]]"
   - "[[Accounts]]"
@@ -175,7 +177,7 @@ sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-22
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 > [!logic-map]- 章节论证结构
 > ```mermaid
@@ -413,7 +415,7 @@ Onwuegbuzie & Leech (2006b: 239–46) 整合 Lincoln and Guba (1985) 等人的�
 > > | | 选择（Selection） | 组间系统性差异被误判为处理效应 |
 > > | | 实验损耗（Mortality） | 退出者可能恰好是效果最差的受试者 |
 > > | | 选择-成熟交互 | 实验组和对照组成熟速度不同 |
-> > | **实验处理** | 工具反应性（Instrument reactivity） | 研究工具本身改变了参与者行为 |
+> > | **实验处理** | 工具反应性（Instrument reactivity） | [[Research Tool\|研究工具]]本身改变了参与者行为 |
 > > | **实验程序** | 测验（Testing） | [[Pre-test and Post-test\|前测]]使受试者熟悉工具或记住答案 |
 > > | | 工具（Instrumentation） | 前后测之间测量工具或评分者变化 |
 > > | | [[Type I and Type II Errors\|第一类与第二类错误]] | 拒绝真假设或接受假假设的决策错误 |
@@ -1357,7 +1359,7 @@ Feldt and Brennan (1993) 提出四类信度威胁：
 >   测验的心理和物理条件——**情境**。一天的时段、学年的时段、测验室温度、测验的感知重要性、测验情境的正式程度、"考试紧张"、测验实施方式。
 > - **评分者因素（Test marker factors）**
 >   特异性和主观性——不同评分者对相同或相似作品给出不同分数。
-> - **工具变量（Instrument variables）**
+> - **[[Instrumental Variables|工具变量]]（Instrument variables）**
 >   不良领域抽样、任务抽样错误、任务的真实性和与受试者经验的相关性、不良问题项目、[[Item Response Theory\|项目反应理论]]中单维度性的假设或范围、**测验长度、机械错误、评分错误、计算机错误**。
 
 ---

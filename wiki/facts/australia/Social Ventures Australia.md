@@ -11,7 +11,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 38
+fact_related_count: 39
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -51,6 +51,7 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Gonski 2.0]]"
   - "[[Australian Philanthropic Services]]"
+  - "[[American Physical Society]]"
   - "[[BHP Foundation]]"
   - "[[Sutton Trust]]"
   - "[[Impetus]]"
@@ -69,7 +70,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -100,7 +101,7 @@ updated: 2026-10-30
 > - **2013 — 发起亮点学校连接与孵化学校加计划** 发起由联邦政府、澳大利亚联邦银行与三星联合资助的亮点学校连接项目以重塑 50 所弱势公立学校；同年作为核心发起方孵化全澳首家面向公立学校的企业免税捐赠中介学校加计划（[[Australian Schools Plus\|Schools Plus]]），SVA 首席执行官迈克尔·特雷尔出任首任董事长，初创三年直接共用 SVA 注册法人地址（Traill, 2016; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 530]]）。
 > - **2014 — 全资试验原型 [[Evidence for Learning\|E4L]] 启动** 获英国 EEF 及澳大利亚联邦银行联合出资，SVA 设立全资教育中介子公司证据学习中心（E4L），由商业律师 Matthew Deeble 掌舵，率先本土化 EEF《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》，作为游说国家级证据机构的样板试验田（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
 > - **2016 — 渗透联邦生产力委员会国家证据调查** 联邦财长委托生产力委员会开展“国家教育证据基础”审查；同期 SVA 董事 Richard Spencer 获委任为委员会社会政策专员；SVA 提交 50 页专项建议书，以 EEF 为范本游说，报告最终采纳建议（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 7]]）。
-> - **2017–2018 — [[Gonski 2.0]] 审查借道与 5000 万澳元注资承诺** 联邦启动卓越学校教育审查，由 SVA 前子公司[[Australian Philanthropic Services\|澳大利亚慈善服务社]]（APS）董事长[[David Gonski\|戴维·冈斯基]]领衔；报告正式提出设立独立证据机构的第 23 条建议；《全国学校改革协议》锁定联邦与各州 5000 万澳元联合注资（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 8]]）。
+> - **2017–2018 — [[Gonski 2.0]] 审查借道与 5000 万澳元注资承诺** 联邦启动卓越学校教育审查，由 SVA 前子公司[[Australian Philanthropic Services\|澳大利亚慈善服务社]]（[[American Physical Society|APS]]）董事长[[David Gonski\|戴维·冈斯基]]领衔；报告正式提出设立独立证据机构的第 23 条建议；《全国学校改革协议》锁定联邦与各州 5000 万澳元联合注资（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 8]]）。
 > - **2018–2020 — 跨国矿业资本注入与立法特许合作** 英国 EEF 与跨国铁矿石巨头必和必拓旗下基金会（[[BHP Foundation]]）启动为期五年项目，加速模式输入；联邦政府修订《公共治理、绩效与问责规则》（PGPA Rule），正式在法律上确立新机构与慈善资本合作并向私营咨询分包的特许权（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–9]]）。
 > - **2021–至今 — [[Australian Education Research Organisation\|AERO]] 实体落成与董事交叉任职网络** AERO 依据《公司法》注册为担保有限公司，首任董事会充斥 SVA 董事（Lisa O'Brien）、SVA 长期主要捐赠人（Roger Massy-Greene）及 EEF 首任 CEO（[[Sir Kevan Collins]]），实现[[Policy Network\|政策网络]]对国家证据议程的实质把控（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 9–10]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 531]]）。
 

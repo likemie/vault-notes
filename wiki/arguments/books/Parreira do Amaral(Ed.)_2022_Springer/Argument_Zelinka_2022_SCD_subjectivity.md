@@ -11,6 +11,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Geopolitics]]"
   - "[[Discourse]]"
+  - "[[Side Effects]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Discursive Opportunity Structures]]"
   - "[[Literature Review]]"
@@ -20,6 +21,7 @@ related_concepts:
   - "[[Self-Entrepreneur]]"
   - "[[Employability]]"
   - "[[Lifelong Learning]]"
+  - "[[Problematisation]]"
   - "[[VUCA]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
@@ -30,6 +32,7 @@ related_methods:
   - "[[Single-Case Design]]"
   - "[[Discourse Analysis]]"
   - "[[Critical Companion]]"
+  - "[[Journal Impact Factor]]"
 related_persons: []
 related_facts:
   - "[[National Research Council]]"
@@ -41,14 +44,14 @@ sources:
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 status: draft
 created: 2026-05-20
-updated: 2026-10-30
+updated: 2026-11-11
 subtype: book-chapter
 publication_type: book
 title: "Argument_Zelinka_2022_SCD_subjectivity"
 argument_key: "Argument_Zelinka_2022_SCD_subjectivity"
 argument_display_title: "Subjects and subjectivities of the (new) geopolitics of knowledge"
 argument_kind: "book"
-argument_related_count: 23
+argument_related_count: 26
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -60,7 +63,7 @@ citation_aliases:
   - "Zelinka (2022)"
 ---
 > [!question]
-> 新[[Geopolitics of Knowledge\|知识地缘政治]]（(new) [[Geopolitics]] of Knowledge）通过全球教育治理[[Discourse|话语]]生产了什么样的主体性（subjectivities）？这些主体性被呈现为"需要和可欲的"，其副作用是制造了哪些新的脆弱性？具体而言，该章以 21 世纪技能与素养话语（[[21st Century Skills and Competencies Discourse]]，以下简称 [[Single-Case Design\|SCD]]）为分析焦点，追问：SCD 如何塑造个体的自我引导模式，以及这种塑造过程的非对称性和排斥机制是什么(pp.251-252)。
+> 新[[Geopolitics of Knowledge\|知识地缘政治]]（(new) [[Geopolitics]] of Knowledge）通过全球教育治理[[Discourse|话语]]生产了什么样的主体性（subjectivities）？这些主体性被呈现为"需要和可欲的"，其[[Side Effects|副作用]]是制造了哪些新的脆弱性？具体而言，该章以 21 世纪技能与素养话语（[[21st Century Skills and Competencies Discourse]]，以下简称 [[Single-Case Design\|SCD]]）为分析焦点，追问：SCD 如何塑造个体的自我引导模式，以及这种塑造过程的非对称性和排斥机制是什么(pp.251-252)。
 
 > [!abstract] 理论框架
 > 该章的分析建立在三个相互嵌套的理论资源之上：
@@ -97,7 +100,7 @@ citation_aliases:
 1. **强制同质化** 七个框架在核心技能上的惊人一致意味着，个体从众多终生习得的技能中只有一部分被认定为"必要的"，这从一开始就限定了技能选择的方向。
 2. **个体化与竞争性** "competence"的词根与"compete"相同；[[Success Criteria|成功标准]]看似个人化，实则由外部期望设定，使个体长期处于竞争和自我实现模式中。
 3. **自我呈现为自然必然** 关键技能被呈现为不证自明的事实——未来主体被想象为不假思索地愿意获取任何必要技能的形象，技能的获取是"事件的必然进程"而非审慎选择。
-4. **地缘政治维度** SCD 不受限于特定机构，但占据并再生产新自由主义知识型社会的地缘政治空间，通过排名、影响因子等隐性标准保障霸权。
+4. **地缘政治维度** SCD 不受限于特定机构，但占据并再生产新自由主义知识型社会的地缘政治空间，通过排名、[[Journal Impact Factor|影响因子]]等隐性标准保障霸权。
 
 这四个面向奠定了对主体性生产过程进行精细化分析的基础——它们回答了"[[Discourse|话语]]如何为特定种类的自我引导创造条件"。
 
@@ -131,7 +134,7 @@ SCD 将焦点从结构变革转向个体技能发展，主体有义务获取新�
 
 三个分析层次最终收敛于一个综合判断(pp.264-265)：（新）知识地缘政治可以作为一种全球治理技术来理解，其运作机制有三：
 
-1. **问题化与个体化** 教育挑战被表述为 [[VUCA]]（波动性、不确定性、复杂性、模糊性，Hughes, 2018, p.xiv），回应方式被锁定为"让个体装备必要技能"。
+1. **[[Problematisation|问题化]]与个体化** 教育挑战被表述为 [[VUCA]]（波动性、不确定性、复杂性、模糊性，Hughes, 2018, p.xiv），回应方式被锁定为"让个体装备必要技能"。
 2. **授权的[[Knowledge Production|知识生产]]手段** 全球治理术成功想象出一个空间，其中特定人群可以决定什么算作"卓越"和"创新"，什么值得获得资源分配，由此强化了那些被授权定义未来进步者的权力地位。
 3. **通过主体化、区分和创造自由来引导行为** 一方面推崇自我企业家精神；另一方面将排除者框定为脆弱或需要帮助的——不留出拒绝或抵抗的空间。
 

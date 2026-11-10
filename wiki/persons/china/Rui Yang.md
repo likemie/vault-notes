@@ -8,7 +8,7 @@ summary: "香港比较教育与高等教育学者，香港大学教育学院讲�
 type: person
 nationality: "china"
 person_region: "china"
-person_related_count: 33
+person_related_count: 34
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -28,9 +28,10 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Beijing Consensus]]"
   - "[[Outward-Oriented Internationalization]]"
-  - "[[Emergence]]"
+  - "[[Early-Career Researchers]]"
   - "[[Paradigm]]"
   - "[[Knowledge Transfer]]"
+  - "[[Study Abroad]]"
   - "[[Public Diplomacy]]"
   - "[[Benevolence]]"
   - "[[Pragmatic Paradigm]]"
@@ -42,9 +43,9 @@ related_concepts:
   - "[[Hard Power]]"
 related_theories:
   - "[[Educational Soft Power Framework]]"
-  - "[[Neo-Tributary Perspective]]"
   - "[[Wight's Three Traditions of International Theory]]"
   - "[[Tianxia Heuristic]]"
+  - "[[Neo-Tributary Perspective]]"
 related_persons:
   - "[[Roy Nash]]"
   - "[[Joseph S. Nye Jr.]]"
@@ -64,7 +65,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-26
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -98,7 +99,7 @@ updated: 2026-11-02
 > - **2001** 获澳大利亚悉尼大学哲学博士（Ph.D.）学位，师从知名国际比较教育学者安东尼·韦尔奇（Anthony Welch），博士学位研究专注于中国高等教育国际化与文化转型。
 > - **2002–2008** 先后任教于澳大利亚西澳大学（University of Western Australia）与莫[[Roy Nash|纳什]]大学（Monash University），在国际顶级期刊发表多篇关于中国大学改革与软实力的奠基性成果。
 > - **2008 至今** 加盟香港大学教育学院，历任副教授、教授、讲座教授及比较教育研究中心主任，随后担任香港大学教育学院院长，全面引领亚太地区比较高教研究学术网络。
-> - **2023–2025** 与青年学者朱克金（Kejin Zhu）合作，依托中柬等东南亚跨境高等教育[[Fieldwork|田野研究]]，连续在《高等教育政策》（*Higher Education Policy*）与《高等教育》（*Higher Education*）发表系列突破性成果，系统推进教育软实力与新朝贡高教研究。
+> - **2023–2025** 与[[Early-Career Researchers|青年学者]]朱克金（Kejin Zhu）合作，依托中柬等东南亚跨境高等教育[[Fieldwork|田野研究]]，连续在《高等教育政策》（*Higher Education Policy*）与《高等教育》（*Higher Education*）发表系列突破性成果，系统推进教育软实力与新朝贡高教研究。
 
 ---
 
@@ -107,7 +108,7 @@ updated: 2026-11-02
 >   - **代表著作** *Third Delight: Internationalization of Higher Education in China* (2002).
 >   - **关键概念／方法** [[Internationalization of Higher Education|高等教育国际化]]、文化依附、[[Knowledge Transfer|知识转移]]。
 >   - **阶段转向** 奠定跨文化比较与大学制度转型的社会学分析基础。
-> - **2000 年代中后期至 2010 年代 — 教育软实力与大国高教外向拓展** 敏锐捕捉中国综合国力崛起与高等教育战略转向，将[[Joseph S. Nye Jr.|约瑟夫·奈]]的软实力概念系统引介并重构于高等教育领域，分析[[Confucius Institute|孔子学院]]布点、来华留学扩招与涉外高教援助的战略功能。
+> - **2000 年代中后期至 2010 年代 — 教育软实力与大国高教外向拓展** 敏锐捕捉中国综合国力崛起与高等教育战略转向，将[[Joseph S. Nye Jr.|约瑟夫·奈]]的软实力概念系统引介并重构于高等教育领域，分析[[Confucius Institute|孔子学院]]布点、来华[[Study Abroad|留学]]扩招与涉外高教援助的战略功能。
 >   - **代表著作** *China's Soft Power in Higher Education* (2007); *Soft Power and Higher Education: An Examination of China's [[Confucius]] Institutes* (2010); *Internationalizing Chinese Higher Education: A Regional Perspective* (2012).
 >   - **关键概念／方法** [[Educational Soft Power|教育软实力]]、[[Outward-Oriented Internationalization|外向型高教国际化]]、[[Public Diplomacy|公共外交]]。
 >   - **阶段转向** 由早期的被动学习与内向引进，转向主动研究中国高教向外投射制度影响力的机制。
@@ -135,7 +136,7 @@ updated: 2026-11-02
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] — 结合沃伊丘克教育机制与霍利克模型，以中柬跨境高教拓展为质性案例，系统识别当代生活方式、科技突破、工科教育与发展模式四项新兴软实力资源。
-> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 引入新朝贡视角解析东南亚跨境高教输出，剖析科技卓越展演与国家治理经验探索在微观学术机制中的制度张力。
+> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 引入[[Neo-Tributary Perspective|新朝贡视角]]解析东南亚跨境高教输出，剖析科技卓越展演与国家治理经验探索在微观学术机制中的制度张力。
 
 ---
 

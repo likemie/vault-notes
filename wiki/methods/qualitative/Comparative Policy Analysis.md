@@ -8,7 +8,7 @@ summary: "公共政策与比较政治经济学中系统比较不同国家、地�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 51
+method_related_count: 55
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
   - comparative-political-economy
 related_concepts:
   - "[[Discourse]]"
+  - "[[Problematisation]]"
   - "[[Paradigm]]"
   - "[[Unit of Analysis]]"
   - "[[Document]]"
@@ -39,6 +40,7 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
   - "[[Academic Achievement]]"
   - "[[Policy Borrowing]]"
+  - "[[Transnational Education]]"
   - "[[Institutional Mimesis]]"
 related_theories:
   - "[[Cultural Political Economy]]"
@@ -59,6 +61,7 @@ related_methods:
   - "[[Analytic Framework]]"
 related_facts:
   - "[[EU]]"
+  - "[[Dimensions]]"
   - "[[Erasmus Programme]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[PISA]]"
@@ -75,17 +78,18 @@ related_arguments:
   - "[[Argument_Wang_Liang_Chen_2025_CES]]"
   - "[[Argument_Murray_Moxon-Browne_2013_JCMS]]"
 related_persons:
+  - "[[Noah Sobe]]"
   - "[[José Luis García Garrido]]"
 confidence: high
 status: completed
 created: 2026-10-06
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Comparative Policy Analysis
-> **比较政策分析（Comparative Policy Analysis）** 是公共政策学、比较政治经济学（Comparative Political Economy，[[Cultural Political Economy|CPE]]）与比较教育学中用于系统对比不同国家、地区或跨国政治实体公共政策设计、[[Discourse|话语]]建构与规训机制的质性与制度研究方法。该方法通过将特定辖区的政策演进置于跨国或多层级坐标系下，构建涵盖治理主体、战略目标、资源承诺、政策工具箱与约束条件的多维分析矩阵，揭示制度背景与宪制结构如何塑造相异的政策路径（[[Argument_Bulfone_2024_IAI|Bulfone et al., 2024, pp. 3, 16–17]]）；通过跨国政策话语的平行对质，解构不同政体如何对社会现象进行道德编码与问题化（Problematization），暴露制度文本背后的空间规训逻辑（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009, pp. 361–362]]）；并通过跨国制度横向对照诊断后发国家激进照搬政策原则时脱离审慎调适共识所诱发的结构性病理（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 325–331]]）。
+> **比较政策分析（Comparative Policy Analysis）** 是公共政策学、比较政治经济学（Comparative Political Economy，[[Cultural Political Economy|CPE]]）与比较教育学中用于系统对比不同国家、地区或跨国政治实体公共政策设计、[[Discourse|话语]]建构与规训机制的质性与制度研究方法。该方法通过将特定辖区的政策演进置于跨国或多层级坐标系下，构建涵盖治理主体、战略目标、资源承诺、政策工具箱与约束条件的多维分析矩阵，揭示制度背景与宪制结构如何塑造相异的政策路径（[[Argument_Bulfone_2024_IAI|Bulfone et al., 2024, pp. 3, 16–17]]）；通过跨国政策话语的平行对质，解构不同政体如何对社会现象进行道德编码与[[Problematisation|问题化]]（Problematization），暴露制度文本背后的空间规训逻辑（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009, pp. 361–362]]）；并通过跨国制度横向对照诊断后发国家激进照搬政策原则时脱离审慎调适共识所诱发的结构性病理（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 325–331]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 法律法规文本、中长期战略规划、直接与间接财政预算、监管审查准则、国家评估指标手册、学制结构设计与公私契约条款。
@@ -96,9 +100,9 @@ updated: 2026-10-30
 > [!citation-card] Bulfone et al. 论五维比较政策分析架构
 > 借鉴产业政策[[Document|文献]]中的关键概念，可从五个维度对美国与欧洲联盟的半导体产业政策展开系统比较：行动主体（推进产业政策的主导力量）、目标、规模与财政承诺、所采用的政策工具类型（如直接补贴、税收减免或行政便利），以及附带于公共资金支持之上的条件约束形态。这一框架能够清晰呈现不同政体在面对[[Geopolitics|地缘政治]]调整时的治理逻辑差异。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 3)]]
 >
-> *In section two, we compare the industrial policy plans adopted by the United States and the EU along five dimensions identified as crucial in the industrial policy literature: protagonists (the main actors carrying out the industrial policy effort), goals, size/financial commitment, type of policy instruments used [...], and the forms of [[Policy Conditionalities|Conditionalities]] attached to public support.*
+> *In section two, we compare the industrial policy plans adopted by the United States and the EU along five [[Dimensions|dimensions]] identified as crucial in the industrial policy literature: protagonists (the main actors carrying out the industrial policy effort), goals, size/financial commitment, type of policy instruments used [...], and the forms of [[Policy Conditionalities|Conditionalities]] attached to public support.*
 
-> [!citation-card] Sobe and Fischer 论跨大西洋政策话语与[[Spatial Governmentality|空间治理术]]比较
+> [!citation-card] [[Noah Sobe|Sobe]] and Fischer 论跨大西洋政策话语与[[Spatial Governmentality|空间治理术]]比较
 > 比较政策分析通过对质跨大西洋教育政策话语，揭示了流动性意义建构的深层分野：在欧洲联盟政策语境中，[[Student Mobility|学生流动性]]被赞颂为培育超国家欧洲公民认同与[[Knowledge-Based Economy|知识经济]][[Competitiveness|竞争力]]的理想资本（如[[Erasmus Programme|伊拉斯谟计划]]）；而在美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》框架下，学生跨校流动却被规训为表征贫困、家庭破裂与学业失败的漂泊（[[Transiency]]），沦为解释学校未能达标的病态指标。政策对比不仅展现了工具差异，更暴露了空间围堵与人口治理理性的根本分歧。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
 >
 > *Mobility can be valued and promoted as an essential attribute of the flexible, cosmopolitan citizen... or it can be pathologized as a sign of disorder, social dislocation, and academic failure requiring spatial containment.*
@@ -189,7 +193,7 @@ updated: 2026-10-30
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 采用跨国比较政策分析视角，将西班牙教育置于欧盟多国治理坐标系下，系统对比英、美、德、法、意与北欧的分权模式演变，解构西班牙教育激进分权导致的行政膨胀与中等学制平庸化困境。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 运用历史与跨国比较政策分析方法，对比[[OECD]]在1960–1990年社会民主主义妥协期与1990年代中期后新自由主义期的治理架构、工作模式及[[PISA]]指标体系，揭示国际组织从政府间论坛向独立跨国政策行动者的制度转型。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 在英国新工党福利改革案例中，横向对比英国决策者对美、瑞、新、澳四国政策及评估方案的选择性筛选过程，揭示因果评估证据充沛性如何决定跨国借用的最终取舍。
-> - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 运用比较政策分析视角审视现存 254 个跨国职教合作平台的空间分布与专业结构数据，剖析主权规制差异对跨境教育合作成效的制度制约（pp. 294–295）。
+> - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 运用比较政策分析视角审视现存 254 个跨国职教合作平台的空间分布与专业结构数据，剖析主权规制差异对[[Transnational Education|跨境教育]]合作成效的制度制约（pp. 294–295）。
 > - [[Argument_Murray_Moxon-Browne_2013_JCMS|Murray and Moxon-Browne (2013)]] — 采用比较政策与制度分析设计，系统对照欧盟[[Coreper|常驻代表委员会]]与[[Committee of Permanent Representatives to ASEAN|东盟常驻代表委员会]]的决策架构、履约约束力与协商规范，评估区域一体化中[[Institutional Mimesis|制度拟态]]的复制边界（pp. 522–534）。
 
 ---

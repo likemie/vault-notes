@@ -7,9 +7,9 @@ summary: "以单个或少数个案为分析单位深入追踪过程、情境和�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 99
-method_related_level: 9
-method_related_stars: "💎💎💎"
+method_related_count: 103
+method_related_level: 10
+method_related_stars: "💎💎💎⭐"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -50,8 +50,11 @@ related_concepts:
   - "[[Precompetitive Research]]"
   - "[[Steering at a Distance]]"
   - "[[Educational Management Organisation]]"
+  - "[[Soft Privatisation]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Soft Power]]"
+  - "[[Complementary Variety]]"
+  - "[[Scientific Creativity]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Knowledge Building Theory]]"
@@ -110,6 +113,7 @@ related_arguments:
   - "[[Argument_Liu_2025_IndHE]]"
   - "[[Argument_Zhu_Yang_2023_HEP]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
+  - "[[Argument_Heinze_2009_RP]]"
   - "[[Argument_Volmari_2025_CE]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
@@ -126,7 +130,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-05-08
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 
 ---
@@ -235,11 +239,11 @@ updated: 2026-11-09
 > - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 采用单机构案例研究设计，结合参与描述性统计与开放式问卷主题分析，深度追踪美国一所大型[[Research Universities|研究型大学]]面向《[[CHIPS and Science Act|芯片与科学法案]]》战略需求开展的系列学者发展工作坊演进过程与行动者参与体验。
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 采用单机构嵌入式定性案例研究（Case Study）设计，结合半结构化访谈与机构历史档案分析，深入解构美国[[Semiconductor Research Corporation|半导体研究公司]]（SRC）作为会员制[[Precompetitive Research|前竞争研发]]联合体在连接产业需求、高校基础科研与联邦资助中的治理机制、人才管道建设与跨领域经验迁移边界。
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 采用反思性实践者国别行政案例研究设计，深度追踪荷兰高教治理从层级指令向[[Steering at a Distance|远距离操纵]]演进的制度历程。
-> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 采用多案例制度与财务报表追踪设计，深度解构跨国出版商、[[Educational Management Organisation|教育管理组织]]与慈善基金会等六大机构的隐性私有化机制。
+> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 采用多案例制度与财务报表追踪设计，深度解构跨国出版商、[[Educational Management Organisation|教育管理组织]]与慈善基金会等六大机构的[[Soft Privatisation|隐性私有化]]机制。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 采用探索性比较案例研究设计，对比“[[Belt and Road Initiative|一带一路]]”框架下[[University Alliance of the Silk Road|丝绸之路大学联盟]]与[[Asian Universities Alliance|亚洲大学联盟]]在组织治理、准入门槛与资助模式上的制度异同与地缘战略逻辑（pp. 1698–1699）。
 > - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 采用叙事案例研究设计，通过[[Purposeful Sampling|目的性抽样]]选取三所丝绸之路大学联盟高校，运用跨案例分析评估高校在“一带一路”重点能源与基建合作中的[[Knowledge Diplomacy|知识外交]]实践。
 > - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] — 采用定性案例研究（Case Study）设计，结合半结构化访谈与政策文本分析，深入解构中柬高等教育合作项目中[[Soft Power|软实力]]资源的当代变迁。
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 采用定性案例研究设计，结合文档分析、机构数据与针对中柬高教项目 40 位受访者的半结构化访谈，评估新朝贡分析视角的解释效力。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 采用斯塔克式工具性个案研究，以[[Swedish Schools Inspectorate|瑞典学校督察局]]为总体个案，内嵌常规督导与质量审计两个迷你个案，结合 12 次半结构化访谈、两次内部会议观察与机构文件，追踪教育研究如何进入督导标准与报告（pp. 642–657）。
-> - [[Argument_Heinze_2009_RP|Heinze et al. (2009)]] — 结合专家提名、学术获奖与引文数据，对欧美纳米技术与人类遗传学领域的 20 个重大科研突破开展多案例比较研究，提炼微观团队规模、互补多样性与制度资助对科学创造力的复合影响机制。
+> - [[Argument_Heinze_2009_RP|Heinze et al. (2009)]] — 结合专家提名、学术获奖与引文数据，对欧美纳米技术与人类遗传学领域的 20 个重大科研突破开展多案例比较研究，提炼微观团队规模、[[Complementary Variety|互补多样性]]与制度资助对[[Scientific Creativity|科学创造力]]的复合影响机制。
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 采用北欧跨国比较案例研究设计，对比丹麦、芬兰与挪威基础教育改革中的政策文本、引文网络与决策者访谈，揭示不同福利国家制度情境下证据利用与政治合法化的共生机制（pp. 531–535）。

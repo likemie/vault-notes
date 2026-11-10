@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Indirect Costs of Research]]"
   - "[[Grandes Ecoles]]"
   - "[[Lifelong Learning]]"
+  - "[[Study Abroad]]"
   - "[[Academic Freedom]]"
 related_theories: []
 related_methods: []
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-11-10
 > - **高等教育政府关系协同网络** 领导全美“华盛顿高等教育秘书处”（Washington Higher Education Secretariat），协调全美数十个细分高等教育团体的游说步调与法案修正案策略。
 
 > [!pathways] 业务运行机制
-> - **统一立法发声机制** 面对国会出台的重大法案修正案，ACE 负责组织跨党派大学校长联名上书，并在关键听证会前出具代表全行业的深度实证经济与人口学影响评估报告。
+> - **统一立法发声机制** 面对国会出台的重大法案修正案，ACE 负责组织跨党派[[Grandes Ecoles|大学校]]长联名上书，并在关键听证会前出具代表全行业的深度实证经济与人口学影响评估报告。
 > - **最高法院司法之友简报（Amicus Briefs）** 在涉及高校招生自主权、学术言论自由与移民学生保护的联邦最高法院案件中，组织全美顶级宪法学者起草具有学术共识的权威简报，对司法裁决产生深远影响。
 > - **政策实证转译** 将高校科研数据、学生债务违约率及毕业生就业增值模型转译为简明的政策行动清单，定向呈送国会两院专职委员会。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, p. 45)]]
 
@@ -85,7 +86,7 @@ updated: 2026-11-10
 > - **ACE 领导力学苑（ACE Fellows Program）** 全美历史最悠久、最负盛名的高等教育高层领袖领导力孵化项目，已培养数百名全美大学校长与教务长。
 > - **全美学分评估服务（ACE CREDIT）** 为非传统学习（如军队服役训练、企业职业培训）出具经严谨同行评议的大学学分等值认定标准，极大拓展了[[Lifelong Learning|终身学习]]路径。
 > - **高等教育动态与平权白皮书** 定期发布全美高校校长群体人口学普查（*The American College President Study*）及种族公平评估报告，揭示高等教育治理层结构演变。
-> - **国会立法备忘录与政策建议** 在每年联邦预算案审议期间，就联邦研究经费拨付（如 [[National Science Foundation|NSF]] 与 [[Institute of Education Sciences|IES]]）、联邦助学金最大额度及国际留学生签证政策提供直接立法支持。
+> - **国会立法备忘录与政策建议** 在每年联邦预算案审议期间，就联邦研究经费拨付（如 [[National Science Foundation|NSF]] 与 [[Institute of Education Sciences|IES]]）、联邦助学金最大额度及国际[[Study Abroad|留学]]生签证政策提供直接立法支持。
 
 ---
 

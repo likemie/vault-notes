@@ -7,7 +7,7 @@ summary: "澳大利亚与美国著名教育政策与跨国治理学者，墨尔�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 53
+person_related_count: 55
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -24,6 +24,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Internationalization of Higher Education]]"
+  - "[[Transnational Education]]"
   - "[[Social Imaginary]]"
   - "[[Geopolitics]]"
   - "[[Knowledge-Based Economy]]"
@@ -46,6 +47,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Commensuration]]"
   - "[[Independent Variable]]"
+  - "[[Study Abroad]]"
   - "[[New Public Management]]"
   - "[[Transnational Research Collaboration]]"
   - "[[Public Diplomacy]]"
@@ -84,14 +86,14 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-11'
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 澳大利亚与美国著名全球化与教育政策研究学者，墨尔本大学荣誉教授（Emeritus Professor），曾任美国伊利诺伊大学厄巴纳-香槟分校教育政策、组织与领导系教授及全球研究中心主任。
-> - **核心角色** [[Internationalization of Higher Education|高等教育国际化]]、全球教育政策社会学与[[Critical Geopolitics|批判地缘政治学]]代表人物。与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）长期深度合作，在跨国教育政策、[[Social Imaginary|社会想象]]物化与量化治理研究中承担枢纽节点功能，系统揭示国际组织如何重塑民族国家教育议程，并率先将批判[[Geopolitics|地缘政治视角]]引入亚洲崛起与全球高等教育重构分析。
+> - **核心角色** [[Internationalization of Higher Education|高等教育国际化]]、全球教育政策社会学与[[Critical Geopolitics|批判地缘政治学]]代表人物。与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）长期深度合作，在[[Transnational Education|跨国教育]]政策、[[Social Imaginary|社会想象]]物化与量化治理研究中承担枢纽节点功能，系统揭示国际组织如何重塑民族国家教育议程，并率先将批判[[Geopolitics|地缘政治视角]]引入亚洲崛起与全球高等教育重构分析。
 > - **代表贡献** 与林加德等合著《[[OECD|经合组织]]、全球化与教育政策》（Henry et al., 2001）与《全球化教育政策》（Rizvi & Lingard, 2010）；提出并系统阐明[[Knowledge-Based Economy|知识经济]]社会想象在跨国政策中的建构与规范机制（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009)]]）；系统论证亚洲崛起作为高等教育转型的独立因果力量，辨析国际化理性的双重结构与跨国科研合作的多重理性融合（[[Argument_Rizvi_2022_Springer|(Rizvi, 2022)]]）。
 
 > [!citation-card] 里兹维论知识经济社会想象与教育政策全球化
@@ -135,7 +137,7 @@ updated: 2026-10-30
 > [!feature] 里兹维教育政策与高等教育批判研究的四大分析支柱
 > - **知识经济的全球社会想象** 结合泰勒与阿帕杜莱的想象理论，揭示经合组织如何将日常竞争焦虑与经济增长叙事交织在一起，建构出[[Doxa|不言自明]]的政策常识；通过 [[PISA]] 构筑全球可[[Commensuration|通约]]的等值空间与数字即政策治理网络。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–448)]]
 > - **亚洲崛起作为独立因果动力** 区别于将亚洲仅仅视为全球资本主义扩张受体或例证的西方中心论视角，强调亚洲经济腾飞与地缘政治位移本身就是主动塑造全球知识秩序、重构跨国大学形态的关键[[Independent Variable|自变量]]。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 89–90)]]
-> - **国际化理性的双重结构：发展主义 vs 市场理性** 揭示驱动[[Internationalization of Higher Education|高等教育国际化]]的两种对立逻辑：早期基于现代化援助、技术支持与跨文化理解的“发展主义理性”，逐步被将留学生视为全额付费创收来源与出口产业的“市场理性”所排挤和取代，成为加速[[New Public Management|新公共管理]]（New Public Management, NPM）在大学渗透的核心催化剂。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 96–97)]]
+> - **国际化理性的双重结构：发展主义 vs 市场理性** 揭示驱动[[Internationalization of Higher Education|高等教育国际化]]的两种对立逻辑：早期基于现代化援助、技术支持与跨文化理解的“发展主义理性”，逐步被将[[Study Abroad|留学]]生视为全额付费创收来源与出口产业的“市场理性”所排挤和取代，成为加速[[New Public Management|新公共管理]]（New Public Management, NPM）在大学渗透的核心催化剂。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 96–97)]]
 > - **[[Transnational Research Collaboration|跨国研究合作]]中的多重理性缝合** 剖析推动[[Transnational Research Collaboration|跨国研究合作]]的四重异质诉求——个体学者的纯粹学术兴趣、大学机构的全球声誉与基建考量、主权国家的对外贸易与[[Public Diplomacy|公共外交]]，如何在现代政策[[Discourse|话语]]中被无缝拼接进同一套协同创新叙事中。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 98–99)]]
 
 ---

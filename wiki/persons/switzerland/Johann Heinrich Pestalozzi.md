@@ -9,7 +9,7 @@ summary: "瑞士近代著名民主主义教育家与小学教学法之父，首�
 type: person
 nationality: switzerland
 person_region: "switzerland"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Paradigm]]"
   - "[[Establishing One's Will]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Educational Meliorism]]"
   - "[[Document]]"
 related_theories: []
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -82,7 +83,7 @@ updated: 2026-10-30
 
 > [!timeline] 生平与职涯
 > - **1746** 出生于瑞士苏黎世（Zürich），早年受[[Jean-Jacques Rousseau\|卢梭]]《爱弥儿》思想深刻感召，[[Establishing One's Will\|立志]]投身改善劳苦平民命运的社会事业。
-> - **1769–1798** 在阿尔高州创办新庄（Neuhof）贫民农工学校，尝试将农业生产、纺织手工业与基础读写算教育相结合，探索平民教育自我造血机制。
+> - **1769–1798** 在阿尔高州创办新庄（Neuhof）贫民农工学校，尝试将农业生产、纺织手工业与[[Foundational Literacy and Numeracy|基础读写算]]教育相结合，探索平民教育自我造血机制。
 > - **1798** 瑞士爆发反法战争后，受海尔维第共和国政府委托接管斯坦茨（Stans）战争孤儿院；在极端艰难环境中以理智、无私母爱与互助取代体罚，创造了震惊瑞士的教育奇迹。
 > - **1800–1804** 创办布格多夫（Burgdorf）学院与教师培训讲习所；出版经典著作《林哈德与葛笃德》（*Lienhard und Gertrud*）与《葛笃德如何教育她的子女》（*Wie Gertrud ihre Kinder lehrt*），系统奠定要素教学法与心理学化原则。
 > - **1805–1825** 创办享誉全欧的伊弗东学院（Yverdon Institute）；普鲁士在 1806 年耶拿战败后痛定思痛，派遣大批青年骨干教师常驻伊弗东向裴斯泰洛齐求艺，回国后成为普鲁士[[Normal School\|师范学校]]的核心领导力量；朱利安（1810）、费伦伯格（Fellenberg）、福禄贝尔（Froebel）等人相继赴伊弗东实地学习。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 12, 20)]]

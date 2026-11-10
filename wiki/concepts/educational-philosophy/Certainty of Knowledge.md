@@ -10,7 +10,7 @@ aliases:
 summary: "关于知识本质的底层认知假设与哲学追求。在西方思想史中体现为以数学和逻辑为范式追求客观永恒真知的文化传统；在教育心理学中则是衡量个体认识论成熟度（绝对固定 vs 相对演变）的核心维度，实证表明其独立负向预测学业成绩并受学科选择与社会化的双重塑造。"
 type: concept
 domain: "educational-philosophy"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -74,6 +74,7 @@ related_persons:
   - "[[Jin Li]]"
   - "[[Socrates]]"
   - "[[Aristotle]]"
+  - "[[Francis Bacon]]"
   - "[[Immanuel Kant]]"
 related_facts:
   - "[[TOSCA]]"
@@ -86,7 +87,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -226,7 +227,7 @@ updated: 2026-11-03
 > - **古希腊 — 哲学渊源** [[Socrates\|苏格拉底]]与[[Plato\|柏拉图]]将几何公理视为注视永恒存在的工具，Pythagoras 将数学提升为通往绝对真知的沉思阶梯。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 24–25)]]
 > - **中世纪 — 神学借用** 经院哲学借用[[Aristotle\|亚里士多德]]的形式逻辑，用严密推理去论证上帝的确定性与全知全能。
 > - **17 世纪 — 科学革命** 牛顿、伽利略、开普勒与[[René Descartes\|笛卡尔]]确立了以数学为语言、以机械确定性为特征的现代自然科学[[Paradigm\|范式]]。
-> - **17 至 18 世纪 — [[Epistemology\|认识论]]重构** 培根引入经验归纳，[[Immanuel Kant\|康德]]通过先验范畴划分现象界与物自体，确定性由[[Ontology\|本体论]]实在转向主体认知架构。
+> - **17 至 18 世纪 — [[Epistemology\|认识论]]重构** [[Francis Bacon|培根]]引入经验归纳，[[Immanuel Kant\|康德]]通过先验范畴划分现象界与物自体，确定性由[[Ontology\|本体论]]实在转向主体认知架构。
 > - **20 世纪下半叶 — 降维为心理学[[Construct\|构念]]** 现代科学哲学（如波普尔[[Falsification\|证伪主义]]、库恩范式论）动摇了绝对确定的哲学根基。Perry (1970) 与 Schommer (1990) 将其转化为衡量个体认知发展阶段的经验测量维度，确立“摒弃绝对确定性”为心智成熟标志。
 > - **2000 年代 — 大规模纵向因果与[[Disciplinary Socialization\|学科社会化]]验证** [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] 运用大样本纵向追踪与结构方程模型，确立了确定性信念对[[Academic Achievement\|学业成就]]的独立净负向预测力，并厘清了学科分化中的自我选择与社会化机制。
 > - **2021 年 — 认识论干预[[Meta-analysis\|元分析]]确立解构确定性信念的因果提分价值** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 针对[[Epistemic Cognition\|认识论认知]]干预展开首个因果元分析，实证证实以解构绝对确定性信念为核心的多维干预对学业成就具有中等强度促进效应（$d = 0.509$），中小学阶段效果显著，且在延时测试中持续发酵（$d = 0.966$）。

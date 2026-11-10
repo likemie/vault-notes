@@ -9,10 +9,10 @@ summary: "美国当代著名科学经济学家，佐治亚州立大学经济学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 18
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1947"
 died: ""
 lifespan: "1947–至今"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Scientific Productivity]]"
   - "[[Creativity]]"
   - "[[Knowledge Production]]"
+  - "[[Early-Career Researchers]]"
   - "[[Externalization]]"
 related_theories:
   - "[[Academic Capitalism]]"
@@ -38,6 +39,7 @@ related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
 related_facts:
+  - "[[National Bureau of Economic Research]]"
   - "[[American Association for the Advancement of Science]]"
   - "[[National Research Council]]"
   - "[[Science, The Endless Frontier 1945]]"
@@ -50,13 +52,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国科学经济学家，佐治亚州立大学（Georgia State University）经济学荣休教授，美国国家经济研究局（NBER）研究员，[[American Association for the Advancement of Science|美国科学促进会]]（AAAS）会士。
+> - **身份位置** 美国科学经济学家，佐治亚州立大学（Georgia State University）经济学荣休教授，[[National Bureau of Economic Research|美国国家经济研究局]]（NBER）研究员，[[American Association for the Advancement of Science|美国科学促进会]]（AAAS）会士。
 > - **核心角色** 科学经济学（Economics of Science）领域的代表性学者，系统研究了战后科研资助制度对大学组织行为、科研人员劳动力市场及科学家职业激励的深远塑造。
 > - **代表贡献** 揭示科研实验室对廉价研究生与博士后劳动力的结构性依赖、分析高校科研[[Soft-Money Faculty Model|软钱聘任制]]（[[Soft-Money Faculty Model]]）与高档商场模式（[[Shopping Mall Model of Research Universities]]），并对科研体制的过度扩张与博士生产过剩（[[PhD Overproduction in Science]]）提出系统反思。
 
@@ -90,7 +92,7 @@ updated: 2026-10-29
 
 > [!influence-path] 影响路径
 > - **理论路径** 将微观经济学与劳动经济学工具引入科学社会学与高等教育研究，深化了关于学术劳动力供给、学术资本化与实验室经济生态的制度性理解。
-> - **政策路径** 多次参与[[National Academy of Sciences|美国国家科学院]]、[[National Research Council|国家研究委员会]]及国立卫生研究院关于青年学者职业发展、博士后处境及科研基础设施资助的政策咨询，有力推动了联邦科技界对资助过度向老年PI集中和软钱风险的广泛反思。
+> - **政策路径** 多次参与[[National Academy of Sciences|美国国家科学院]]、[[National Research Council|国家研究委员会]]及国立卫生研究院关于[[Early-Career Researchers|青年学者]]职业发展、博士后处境及科研基础设施资助的政策咨询，有力推动了联邦科技界对资助过度向老年PI集中和软钱风险的广泛反思。
 
 ---
 

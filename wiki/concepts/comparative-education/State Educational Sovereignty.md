@@ -10,7 +10,7 @@ aliases:
 summary: "近代世俗民族国家在打破宗教神权与宗族私权中确立的最高教育管辖权与视察责任，主张教育属神圣国家公共资源。20世纪末以来，国家教育主权面临超国家测评治理、WTO/GATS经贸协定、影子国家外包与认识论基础设施微观数据互操作性的多重重塑，并在多层网络治理中转型为跨国软法测评、元标准互联与国内改革合法化共同维系的权力共享行使机制。"
 type: concept
 domain: "comparative-education"
-related_count: 61
+related_count: 67
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -33,7 +33,9 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Unit of Analysis]]"
   - "[[Intercultural Education]]"
+  - "[[Transnational Education]]"
   - "[[Competitiveness]]"
+  - "[[Nationalism]]"
   - "[[New Public Management]]"
   - "[[Epistemic Infrastructure]]"
   - "[[Policy Borrowing]]"
@@ -42,6 +44,8 @@ related_concepts:
   - "[[Subsidiarity Principle]]"
   - "[[Open Method of Coordination]]"
   - "[[Peer Pressure]]"
+  - "[[Developmentalism]]"
+  - "[[White Saviour Mentality]]"
   - "[[Dual School System]]"
   - "[[Data Infrastructure]]"
   - "[[Academic Freedom]]"
@@ -52,6 +56,7 @@ related_theories:
   - "[[Panopticism]]"
 related_methods:
   - "[[Peer Debriefing]]"
+  - "[[In-depth Interview]]"
 related_instruments: []
 related_persons:
   - "[[Victor Cousin]]"
@@ -89,10 +94,11 @@ related_arguments:
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
   - "[[Argument_Grek_2024_EERJ]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
+  - "[[Argument_Santos_Silova_2026_Discourse]]"
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -194,7 +200,7 @@ updated: 2026-11-10
 > **超国家穿透与[[Shadow State|影子国家]]外包双重侵蚀** 探讨全球化时代[[World Trade Organization|世贸组织]]经贸协定与民间组织外包如何深度穿透传统民族国家主权边界，导致国家公共调控责任严重流失。
 
 > [!claim] [[Robert Arnove|Arnove, R.]] and Robertson, S.
-> **超国家经贸规制削弱小国调控主权与造成非对称分化** 阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）与罗伯逊等人（2002）指出，WTO/[[GATS and Trade in Education Services|GATS]] 致力于消除跨境教育壁垒，导致大国与小国陷入极不平等的自主权鸿沟。大国（如加入世贸后的中国）能够主动借力规则增强[[Competitiveness|国家竞争力]]，而牙买加、尼加拉瓜等经济弱小国家则在世贸规则面前丧失了宏观调控教育与维护国民福利的主权能力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
+> **超国家经贸规制削弱小国调控主权与造成非对称分化** 阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）与罗伯逊等人（2002）指出，WTO/[[GATS and Trade in Education Services|GATS]] 致力于消除[[Transnational Education|跨境教育]]壁垒，导致大国与小国陷入极不平等的自主权鸿沟。大国（如加入世贸后的中国）能够主动借力规则增强[[Competitiveness|国家竞争力]]，而牙买加、尼加拉瓜等经济弱小国家则在世贸规则面前丧失了宏观调控教育与维护国民福利的主权能力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
 
 > [!claim] Sutton, Arnove and Kamat
 > **公共服务外包异化为去政治化影子国家并架空主权权威** 萨顿与阿诺夫（Sutton & Arnove, 2004）及卡马特（Kamat, 2004）揭示，国际援助机构出于对受援国官僚的不信任，普遍绕过国家教育部直接委托非政府组织提供教育；这种公共服务外包使国家丧失了统筹教育与颁发文凭的核心权威，不仅导致国民教育碎片化，更将民间组织异化为依附于外部指标的影子国家，彻底架空了国家公共教育主权。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 111–112)]]
@@ -206,7 +212,7 @@ updated: 2026-11-10
 
 ---
 
-> [!concept-proposition] 命题五｜欧洲多层级治理下国家教育主权遭遇成员国排他性防守与次国家民族主义争夺的双重挤压
+> [!concept-proposition] 命题五｜欧洲多层级治理下国家教育主权遭遇成员国排他性防守与次国家[[Nationalism|民族主义]]争夺的双重挤压
 > **多层级主权张力与教育国家化分裂** 探讨欧洲联盟多层级治理架构中，国家教育主权如何在超国家层面受到成员国宪制壁垒的顽固防守，同时在次国家层面遭遇区域民族主义谋求独立国家体系的撕裂性争夺。
 
 > [!claim] [[José Luis García Garrido|García Garrido]], J. L.
@@ -254,7 +260,7 @@ updated: 2026-11-10
 > - **20世纪末至今 — 经贸穿透、[[Pluri-Scalar Governance|多标度治理]]、跨国网络权力共享与次国家解构危机** 一方面，[[World Trade Organization|世贸组织]]（WTO/[[GATS and Trade in Education Services|GATS]]）推进教育商业化市场准入，侵蚀主权国家宏观调控权（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）；国际援助方绕过政府直接资助非政府组织造成[[Shadow State|影子国家]]现象；在[[EU|欧洲联盟]]多层级治理下，各成员国对外严防死守主权边界，对内则面临激进分权与次国家民族主义争夺独立教育系统的分裂危机（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009]]）。另一方面，[[OECD|经济合作与发展组织]]（OECD）推行软法治理与[[PISA]]量化测评，国家教育主权在跨国多层[[Network Governance|网络治理]]中转型为由多边组织与国内精英“权力共享行使”并用于破除国内改革阻力的外部合法化机制（Held & McGrew, 2005; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）。
 > - **2009 — 超国家[[Panopticism|全景敞视]]对主权防线的主动消解** 帕西亚斯与鲁萨基斯揭示欧盟成员国推行“[[Aggressive Intergovernmentalism|进取型政府间主义]]”，在恪守[[Subsidiarity Principle|辅助性原则]]的宪制假象下，主动将国家教育主权让渡给以[[Open Method of Coordination|开放协调法]]、量化指标凝视与[[Peer Pressure|同侪压力]]为核心的超国家全景敞视监视网络。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 481, 485–487, 492–493)]]
 > - **2024 — 认识论基础设施对宪制主权壁垒的技术规避与实质重构** 索蒂里亚·格雷克与伊恩·拉塞尔（[[Argument_Grek_2024_EERJ|Grek & Russell, 2024]]）揭示，面对欧盟条约第 165 条禁止超国家立法协调的宪制限制，欧委会依托 ESG 元标准、EQAR 官方注册局与 DEQAR/ETER 数据库互操作性，绕开正面主权对抗，将跨国文凭互认下沉为数据系统的自动化校验，实现了对国家教育主权防线的底层穿透。
-> - **2026 — 去殖民反思与受援国教育主权权柄辩护** [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] 深入访谈国际组织内部的芬兰教育专家，揭示发展主义危机叙事与白人救世主心态对全球南方国家教育主权的系统性侵蚀，强调教育作为公民身份基石的不可让渡性，主张国际合作重回受援国本土主权主体性。
+> - **2026 — 去殖民反思与受援国教育主权权柄辩护** [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] 深入访谈国际组织内部的芬兰教育专家，揭示[[Developmentalism|发展主义]]危机叙事与[[White Saviour Mentality|白人救世主心态]]对全球南方国家教育主权的系统性侵蚀，强调教育作为公民身份基石的不可让渡性，主张国际合作重回受援国本土主权主体性。
 
 ---
 
@@ -306,6 +312,6 @@ updated: 2026-11-10
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合[[David Held|赫尔德]]与麦克格鲁的主权理论，深刻阐明全球化下国家教育主权在跨国多层[[Network Governance|网络治理]]中转型为“权力共享行使”机制，揭示国内政策精英如何将[[OECD|经合组织]]多边测评工具化为推进本土改革的外部合法化工具（pp. 443–444, 447）。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 结合福柯权力-规训理论揭示欧盟成员国如何推行“进取型政府间主义”，在表面维系宪制辅助性原则防线的同时，通过开放协调法与量化[[Technologies of Surveillance|监视技术]]主动将国家教育主权让渡于超国家全景敞视治理（pp. 481, 485–487, 492–493）。
 > - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 阐释在欧盟条约禁止法规协调的宪制约束下，超国家机构如何依托认识论基础设施（ESG、EQAR、DEQAR）实现跨国文凭自动互认，底层穿透并重塑传统国家教育主权。
-> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 深度访谈三大国际组织的芬兰教育专家，揭示白人救世主心态对全球南方国家教育主权的侵蚀，辩护教育主权的不可让渡性。
+> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — [[In-depth Interview|深度访谈]]三大国际组织的芬兰教育专家，揭示白人救世主心态对全球南方国家教育主权的侵蚀，辩护教育主权的不可让渡性。
 
 ---

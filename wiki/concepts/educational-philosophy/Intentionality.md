@@ -41,7 +41,7 @@ related_concepts:
   - "[[Incommensurability]]"
   - "[[Positivism]]"
   - "[[Independent Variable]]"
-  - "[[Document]]"
+  - "[[Foundational Literacy and Numeracy]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Critical Theory]]"
@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 （主体意向性 / 意向性）
@@ -159,7 +159,7 @@ updated: 2026-11-02
 > > [!axis] 教学效率优先 vs 意向性培育优先
 > > 辨析在有限学时内应聚焦于标准达标还是主体反思。
 > >
-> > - **效率至上论者** 认为基础教育的首要任务是让学生高效掌握基础读写算技能，过早强调意向性会导致课堂纪律涣散。
+> > - **效率至上论者** 认为基础教育的首要任务是让学生高效掌握[[Foundational Literacy and Numeracy|基础读写算]]技能，过早强调意向性会导致课堂纪律涣散。
 > > - **人文解放论者** 强调缺乏意向性的熟练操作只是机械驯化；若教育摧毁了学生探求意义的内在火种，其培养出的只是冷漠服从流水线规训的现代工具人。
 
 ---

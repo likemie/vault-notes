@@ -7,7 +7,7 @@ aliases:
 summary: "指基于实证证据对社会、环境与健康议题应对方案进行系统调查、成效评估与局限审视的严谨新闻实践范式；旨在克服传统轰动性负面报道引发的“新闻回避”与受众习得性无助，在肯定行动希望的同时恪守证据批判与反思边界。"
 type: concept
 domain: "science-communication"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ tags:
   - theme/scientific-literacy
   - theme/public-engagement
 related_concepts:
+  - "[[Side Effects]]"
   - "[[Paradigm]]"
   - "[[Techno-Utopianism]]"
   - "[[Science Journalism]]"
@@ -41,13 +42,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-03
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Solutions Journalism
-> **解决方案新闻（Solutions Journalism）** 指新闻从业者在系统揭示复杂社会、环境或科技危机的同时，聚焦于各方针对该问题所采取的应对路径、干预机制及其实际成效，并基于严谨经验证据对其有效性、局限性与潜在副作用展开深度批判与调查评估的专业新闻采编[[Paradigm\|范式]]。其宗旨是通过展现理性的解决路径与行动希望，重塑受众的公共效能感，逆转现代社会普遍弥漫的“新闻回避（News Avoidance）”心理，有别于鼓吹未经检验的[[Techno-Utopianism|技术乌托邦]]或宣扬英雄主义奇迹。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 59–60)]]
+> **解决方案新闻（Solutions Journalism）** 指新闻从业者在系统揭示复杂社会、环境或科技危机的同时，聚焦于各方针对该问题所采取的应对路径、干预机制及其实际成效，并基于严谨经验证据对其有效性、局限性与潜在[[Side Effects|副作用]]展开深度批判与调查评估的专业新闻采编[[Paradigm\|范式]]。其宗旨是通过展现理性的解决路径与行动希望，重塑受众的公共效能感，逆转现代社会普遍弥漫的“新闻回避（News Avoidance）”心理，有别于鼓吹未经检验的[[Techno-Utopianism|技术乌托邦]]或宣扬英雄主义奇迹。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 59–60)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向超越单纯“揭露灾难、冲突与腐败”的传统侦查报道模式，将新闻聚光灯对准“问题应对机制与实证评估”的建设性实践。

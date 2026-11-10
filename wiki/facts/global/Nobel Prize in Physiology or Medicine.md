@@ -10,7 +10,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Super Ties in Science]]"
   - "[[Team Science]]"
+  - "[[Early-Career Researchers]]"
   - "[[Big Science]]"
   - "[[Scientific Paradigm]]"
   - "[[Discourse]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -103,7 +104,7 @@ updated: 2026-11-02
 > - **遴选与决策中枢** 卡罗林斯卡学院诺贝尔大会（50 名教授）与诺贝尔委员会（5 名常设委员），掌握提名筛选、终审表决与获奖者确认的最终裁决权。
 > - **全球受邀提名网络** 涵盖往届诺奖得主、北欧医学院教授、全球至少 6 所顶尖大学正教授及受邀知名生命科学家的庞大提名池（提名资料严格保密 50 年）。
 > - **获奖核心群体与超级搭档** 处于全球科研网络顶端的精英学者，包括学术家族树核心学者以及形成紧密深层协作的终身学术搭档（如布朗与戈尔茨坦）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 122–123)]]
-> - **外部科学共同体与未被充分代表群体** 广大青年学者、女性科学家、少数族裔学者以及承担[[Big Science|大科学工程]]关键任务的实验技术员群体。
+> - **外部科学共同体与未被充分代表群体** 广大[[Early-Career Researchers|青年学者]]、女性科学家、少数族裔学者以及承担[[Big Science|大科学工程]]关键任务的实验技术员群体。
 
 ---
 

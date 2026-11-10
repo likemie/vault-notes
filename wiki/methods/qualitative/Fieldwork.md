@@ -10,9 +10,9 @@ summary: "研究者深入研究现场进行长期观察、参与和深度体验�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 39
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 40
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Research Question]]"
   - "[[Gatekeepers]]"
+  - "[[Transnational Education]]"
   - "[[International Education]]"
   - "[[Going Native]]"
   - "[[Historical Amnesia]]"
@@ -63,12 +64,12 @@ related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Rust_2009_Reflections]]"
-  - "[[Argument_Wang_2025_CE]]"
   - "[[Argument_Haubrock_2026_NHB]]"
+  - "[[Argument_Wang_2025_CE]]"
 confidence: high
 status: completed
 created: 2026-06-25
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -131,7 +132,7 @@ updated: 2026-11-03
 > [!method-fit] 适用判断
 > - **适合使用**
 >   - 深入理解特定教育群体（如留守儿童、少数族裔学生、职校青年）的文化特征与隐秘意义世界。
->   - 揭示跨国教育改革政策在微观学校落地的真实转化、教师抵抗与地方重构机制（如 Anderson-Levitt、Demerath 等人的比较田野案例）。
+>   - 揭示[[Transnational Education|跨国教育]]改革政策在微观学校落地的真实转化、教师抵抗与地方重构机制（如 Anderson-Levitt、Demerath 等人的比较田野案例）。
 >   - 探索边界模糊、充满不确定性且无法人为分离[[Variable|变量]]的自然教育情境。
 > - **谨慎使用**
 >   - [[Research Question|研究问题]]高度程式化（如简单的学费支出统计），[[Questionnaire|问卷调查]]往往比长期田野更具成本效益。

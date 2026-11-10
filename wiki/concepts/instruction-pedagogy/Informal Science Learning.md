@@ -10,7 +10,7 @@ aliases:
 summary: "发生在传统学校课堂之外、具有自愿性与情境化的科学学习形态，涵盖科技馆、探索中心与公民科学。既是维系公民科学素养的文化基建，也是国家微电子等战略产业开展早期启蒙、破除认知盲区并培育多元人才池的先导阵地。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -45,6 +45,7 @@ related_facts:
   - "[[The Royal Society]]"
   - "[[Wellcome Trust]]"
   - "[[Dippy on Tour]]"
+  - "[[Web of Science]]"
   - "[[National Science and Technology Council]]"
   - "[[National Strategy on Microelectronics Research]]"
   - "[[Department for Education]]"
@@ -64,7 +65,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -144,7 +145,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题四｜关键战略产业早期认知引导与微电子非正式科普生态构建
-> **战略产业认知启蒙与人才管道源头拓展** 探讨如何通过校外非正式科学网络打破前沿高精尖制造业的“隐形黑箱”，激发多元青少年对微电子领域的早期抱负。
+> **战略产业认知启蒙与人才管道源头拓展** 探讨如何通过校外非正式[[Web of Science|科学网]]络打破前沿高精尖制造业的“隐形黑箱”，激发多元青少年对微电子领域的早期抱负。
 
 > [!claim] [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]]
 > **微电子公众科普与多元职业通路引导** [[National Science and Technology Council|国家科学技术委员会]]（National Science and Technology Council, NSTC）在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》第三目标（Goal 3, 3.2 节）中指出，半导体产业长期受困于“隐形产业”（Invisible Industry）的公众认知盲区，K-12 阶段学生与家长对芯片制造与硬件工程缺乏具身体验。战略提出系统激活全美非正式科学教育网络（National Informal [[STEM Education]] Network, NISE Network）、各地科技馆（Science Museums）、探索中心及创客空间（Maker Spaces）：通过开发晶圆动手加工互动模型、微纳超净室虚拟现实漫游体验、芯片微缩科学秀与青年挑战赛，将高门槛的深科技概念转化为可感知的探究式游戏；打破芯片制造仅属于“少数顶尖名校博士”的精英刻板印象，向早期青少年及历史代表性不足群体（Underrepresented Groups）普及半导体操作员、设备技师与工艺工程师的职业通路，从源头拓展国家硬科技人才蓄水池。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 34–35)]]

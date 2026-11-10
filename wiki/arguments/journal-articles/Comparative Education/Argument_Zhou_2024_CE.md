@@ -10,7 +10,7 @@ title: "Argument_Zhou_2024_CE"
 argument_key: "Argument_Zhou_2024_CE"
 argument_display_title: "A fragmentation of Dewey: Dewey in the political and educational reforms of China, 1910s–1920s"
 argument_kind: "journal-article"
-argument_related_count: 25
+argument_related_count: 27
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Pragmatism in China]]"
   - "[[Democratic Education]]"
+  - "[[Nationalism]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Scientific Attitude]]"
   - "[[Discourse]]"
@@ -40,6 +41,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Praxis]]"
   - "[[Normal School]]"
+  - "[[Lecturing]]"
 related_theories: []
 related_methods:
   - "[[Discourse Analysis]]"
@@ -61,7 +63,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-26
-updated: 2026-10-30
+updated: 2026-11-11
 year: 2024
 doi: "10.1080/03050068.2024.2346654"
 citation_aliases:
@@ -74,7 +76,7 @@ citation_aliases:
 > 在[[John Dewey\|杜威]]（John Dewey）访华百周年（2019年）的学术纪念热潮中，学界长期形成了一个主流叙事：杜威的[[Pragmatic Paradigm\|实用主义]]哲学（[[Pragmatism in China]]）不仅深刻推动了中国1922年新学制改革的民主化方向，其渐进改良的实验方法也落实在了民国教育实践中。然而，这一传统叙事忽略了一个深层悖论——杜威在其原典体系中将[[Democratic Education\|民主教育]]理想（democratic education）与渐进实验方法（gradualist experimental approach）融为一体，是因为美国社会已具备基本的民主框架，渐进改良是巩固民主的手段；但在尚无民主制度保障的民国中国，要实现民主教育本身就需要激进变革，这使得追求民主与坚持渐进变成了不可兼得的冲突选项。本文旨在回答：在1910–1920年代民国动荡的社会政治语境中，这一内在张力如何重塑了杜威思想的引入、转译与演变路径？
 
 > [!claim] 核心主张
-> [[John Dewey\|杜威]]思想在民国中国的传播并非一次忠实或扭曲的整体移植，而是遭遇了结构性的碎片化（fragmentation）。民国教育界受制于缺乏民主与国家危亡的现实语境，将原本统一的杜威体系拆解为彼此隔离的知识碎片——激进派抽取其民主目标与儿童中心，温和派抽取其实验主义与渐进方法，民族主义者抽取其教育服务社会——杜威由此被重构成了一组服务于不同乃至相反政治议程的知识资源。
+> [[John Dewey\|杜威]]思想在民国中国的传播并非一次忠实或扭曲的整体移植，而是遭遇了结构性的碎片化（fragmentation）。民国教育界受制于缺乏民主与国家危亡的现实语境，将原本统一的杜威体系拆解为彼此隔离的知识碎片——激进派抽取其民主目标与儿童中心，温和派抽取其实验主义与渐进方法，[[Nationalism|民族主义]]者抽取其教育服务社会——杜威由此被重构成了一组服务于不同乃至相反政治议程的知识资源。
 
 > [!concept-lens] 分析视角与核心张力
 > - **对象** 1910–1920年代民国教育改革史料，包括[[John Dewey\|杜威]]在华演讲集、民国教育法规法令、《新教育》与《新教育评论》等核心期刊及报刊争论。
@@ -284,7 +286,7 @@ citation_aliases:
 > [!citation-card] 民主理想与渐进改革在民国语境中的悖论性分离
 > 虽然[[Democratic Education\|民主教育]]的理想与渐进式改革在[[John Dewey\|杜威]]的著作和演讲中是一致且和谐的，但它们之间的关系在民国时期的中国却变得复杂得多，在那里，教育民主化的实现需要激进的变革。
 >
-> *While the ideal of democratic education and gradual and incremental reform were consistent and in harmony with each other in Dewey's writings and lectures, their relationship turned out to be much more complex in Republican China, where the actualisation of democracy in education would require radical changes.*
+> *While the ideal of democratic education and gradual and incremental reform were consistent and in harmony with each other in Dewey's writings and [[Lecturing|lectures]], their relationship turned out to be much more complex in Republican China, where the actualisation of democracy in education would require radical changes.*
 
 > [!citation-card] 杜威思想在华的不断重新发明与碎片化接收
 > 杜威的思想在民国时期的中国不断被重新发明，被接受的杜威在很大程度上是一个碎片化的杜威，诞生于其不断变化的社会政治和文化语境之中。

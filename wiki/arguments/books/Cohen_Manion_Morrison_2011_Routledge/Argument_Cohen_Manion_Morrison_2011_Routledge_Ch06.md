@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_display_title: "Research Methods in Education · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 72
+argument_related_count: 74
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Informed Consent]]"
   - "[[Student Depression]]"
+  - "[[Grit]]"
   - "[[Literature Review]]"
   - "[[Research Practicability]]"
   - "[[Research Scope]]"
@@ -61,6 +62,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Epistemology]]"
   - "[[Emergence]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Creativity]]"
   - "[[Research Problem]]"
   - "[[Champ]]"
@@ -109,7 +111,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-19
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 > [!logic-map]- 论证结构
 > ```mermaid
@@ -362,7 +364,7 @@ updated: 2026-10-30
 > [!case] 案例三：研究者人格与研究主题的灾难性失配
 > 一位研究者想研究[[Student Depression|学生抑郁]]症，但她内心认为学生只是懒惰或工作回避，把情绪低落当作借口，即**拒绝承认抑郁症作为临床状况或病理障碍的严重性**。这样的研究者去研究抑郁症，对研究者和参与者都可能是灾难。
 >
-> 同样，毅力有限或即将移居海外时，选择长期投入的研究也不明智。
+> 同样，[[Grit|毅力]]有限或即将移居海外时，选择长期投入的研究也不明智。
 
 > [!dimension] 研究者自我评估的六个维度
 > - **人格适配**
@@ -524,7 +526,7 @@ updated: 2026-10-30
 ---
 
 > [!info] 文献综述的多重角色
-> [[Literature Review\|文献综述]]是大多数研究的重要组成部分，尤其是学位论文。它的存在理由不是"展示研究者读过一些相关材料"，这是一个琐碎且自恋的理由。**文献综述必须有用，必须为研究提供形成性的（formative）信息。**
+> [[Literature Review\|文献综述]]是大多数研究的重要组成部分，尤其是[[Doctoral Dissertation|学位论文]]。它的存在理由不是"展示研究者读过一些相关材料"，这是一个琐碎且自恋的理由。**文献综述必须有用，必须为研究提供形成性的（formative）信息。**
 
 ---
 

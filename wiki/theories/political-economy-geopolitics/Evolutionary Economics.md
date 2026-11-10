@@ -8,7 +8,7 @@ aliases:
 summary: "以 Nelson & Winter（1982）为奠基的经济学流派，将经济变迁视为多样性变异、组织惯例学习、路径依赖与动态选择的演化过程；批判新古典静态均衡假设，为技术轨迹、创新系统、公共动态能力与引领和学习范式提供底层理论基石"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 63
+theory_related_count: 64
 theory_related_level: 6
 theory_related_stars: "💎💎"
 theory_related_color: "#fef3c7"
@@ -78,6 +78,7 @@ related_persons:
   - "[[Bengt-Åke Lundvall]]"
   - "[[Mariana Mazzucato]]"
   - "[[Rainer Kattel]]"
+  - "[[Vilfredo Pareto]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Bogliacino_Pianta_2016_EconPol]]"
@@ -90,7 +91,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-10
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -111,7 +112,7 @@ updated: 2026-10-30
 > - **奠基著作** [[Richard Nelson|理查德·纳尔逊]]与西德尼·温特（Nelson & Winter, 1982）出版里程碑著作《经济变迁的演化理论》（*An Evolutionary Theory of Economic Change*），系统确立了以“组织惯例（Organizational Routines）”替代边际最优、以“市场选择”替代均衡出清的微观–中观演化[[Paradigm|范式]]。
 > - **中观拓展与技术范式** 乔瓦尼·多西（Dosi, 1982, 1988）提出技术[[Paradigm|范式]]（Technological Paradigms）与[[Technological Trajectories|技术轨迹]]（Technological Trajectories），基思·帕维特（[[Argument_Pavitt_1984_RP|Pavitt, 1984]]）构建了产业创新分类学，将演化逻辑[[Operationalization|操作化]]为中观产业分析工具。
 > - **技术差距与后发赶超模型** 波斯纳（Posner, 1961）、弗里曼（Freeman, 1963, 1965）与法格伯格（Fagerberg, 1987, 1988）构建技术差距（Technology Gaps）与模仿滞后模型，证明跨国增长分化取决于本土知识积累，打破了新古典要素禀赋自发趋同假说。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–8)]]
-> - **宏观系统与治理转向** [[Chris Freeman|克里斯·弗里曼]]（Freeman, 1987, 1995）与[[Bengt-Åke Lundvall|本格特-奥克·伦德瓦尔]]（Lundvall, 1992）将演化视角拓展至国家[[Systems of Innovation|创新系统]]与长波技术–经济范式调适；[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）与莱纳·[[Rainer Kattel|卡特尔]]（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]）进一步将其推进为融合韦伯国家能力与熊彼特企业双元能力的主动[[Market Shaping and Creating|市场塑造]]、[[Public Dynamic Capabilities|公共动态能力]]与[[Lead-and-Learn Paradigm|引领与学习范式]]。
+> - **宏观系统与治理转向** [[Chris Freeman|克里斯·弗里曼]]（Freeman, 1987, 1995）与[[Bengt-Åke Lundvall|本格特-奥克·伦德瓦尔]]（Lundvall, 1992）将演化视角拓展至国家[[Systems of Innovation|创新系统]]与长波技术–经济范式调适；[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）与[[Rainer Kattel|莱纳·卡特尔]]（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]）进一步将其推进为融合韦伯国家能力与熊彼特企业双元能力的主动[[Market Shaping and Creating|市场塑造]]、[[Public Dynamic Capabilities|公共动态能力]]与[[Lead-and-Learn Paradigm|引领与学习范式]]。
 
 > [!dev-timeline] 演化经济学思想演化脉络
 > - **1841/1995 — 思想史先声与李斯特传统** 李斯特批判古典物质资本观，确立国家智力资本与教育培训积累的演化追赶逻辑。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–7)]]
@@ -147,7 +148,7 @@ updated: 2026-10-30
 > | **基本[[Unit of Analysis\|分析单元]]** | 同质化的代表性企业（Representative Agent） | 具有[[Heterogeneity\|异质性]]惯例与能力的差异化组织（Heterogeneous Firms） |
 > | **行为假设** | 完全理性与全局边际利润最大化 | [[Bounded Rationality\|有限理性]]、满意准则与搜寻试错学习 |
 > | **技术性质** | 外生的通用信息蓝图，可无摩擦自由获取与复制 | 具有内生性、默会性、路径依赖与累积性学习特征 |
-> | **系统状态** | 静态帕累托最优与市场自发出清（Equilibrium） | 远离均衡的动态开放系统、持续变异与结构演化（Open Evolution） |
+> | **系统状态** | 静态[[Vilfredo Pareto\|帕累托]]最优与市场自发出清（Equilibrium） | 远离均衡的动态开放系统、持续变异与结构演化（Open Evolution） |
 > | **市场本质认知** | 先验给定的资源配置自发实体 | 由公私行动者与制度共同演化建构的制度形态 |
 > | **公共干预正当性** | **消极市场修复（Market Fixing）** 修补外部性与信息不对称 | **[[Market Shaping and Creating\|主动市场塑造（Market Shaping）]]** 共创全新市场、引导转型方向与承担早期高风险 |
 > | **政策评估准则** | 静态[[Cost-Benefit Analysis\|成本收益分析]]（CBA）与防范私人挤出 | 动态公共价值创造（Public Value）、战略挤入与系统[[Reflexivity\|反思性]]学习 |
@@ -217,7 +218,7 @@ updated: 2026-10-30
 > 传统演化经济学主要关注企业在既定市场环境中的微观惯例变异与试错，忽视了公共部门自身同样具有演化能力，能够主动开辟搜索空间并重构选择环境。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
-> **公共动态能力与引领学习范式命题** 演化经济学不仅适用于私营企业与市场竞争，更必须向公共部门治理深度延伸。莱纳·[[Rainer Kattel|卡特尔]]与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]指出，应对 21 世纪的复杂[[Grand Challenges|重大挑战]]，公共部门必须综合[[Joseph Schumpeter|熊彼特]]式探索与利用双元动态能力与韦伯式国家能力，在国家政治合法性、政策协同组合与行政敏捷流动三个层级构建[[Public Dynamic Capabilities|公共部门动态能力]]，推动公共治理从[[New Public Management|新公共管理]]被动的“支持与衡量”模式，彻底转向主动开辟新市场、培育多元自下而上探索并实现组织进化的“[[Lead-and-Learn Paradigm|引领与学习]]”范式。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–791, 795–798)]]
+> **公共动态能力与引领学习范式命题** 演化经济学不仅适用于私营企业与市场竞争，更必须向公共部门治理深度延伸。[[Rainer Kattel|莱纳·卡特尔]]与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]指出，应对 21 世纪的复杂[[Grand Challenges|重大挑战]]，公共部门必须综合[[Joseph Schumpeter|熊彼特]]式探索与利用双元动态能力与韦伯式国家能力，在国家政治合法性、政策协同组合与行政敏捷流动三个层级构建[[Public Dynamic Capabilities|公共部门动态能力]]，推动公共治理从[[New Public Management|新公共管理]]被动的“支持与衡量”模式，彻底转向主动开辟新市场、培育多元自下而上探索并实现组织进化的“[[Lead-and-Learn Paradigm|引领与学习]]”范式。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–791, 795–798)]]
 
 ---
 

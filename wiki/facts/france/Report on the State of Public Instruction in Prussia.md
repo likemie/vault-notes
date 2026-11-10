@@ -15,7 +15,7 @@ subtype: policy
 region: france
 fact_region: "france"
 fact_kind: "policy"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Normal School]]"
   - "[[Culture Générale]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Faculty Psychology]]"
   - "[[Positivism]]"
   - "[[Empiricism]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -89,7 +90,7 @@ updated: 2026-10-30
 > - **公共教育的治理机器与行政架构（The Government of Public Instruction）**
 >   详尽剖析普鲁士如何通过中央内政与宗教教育事务部统领各省督学公署，并下设地方市镇管理委员会（*Schulvorstand*）；力主法国借鉴其“中央顶层立法规制与基层市镇分权实施”相结合的科层化行政网络，强制各市镇自筹建校并保障贫困儿童免费就读。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, p. 27]]; Cousin, 1930:130–155）
 > - **学制层级分流与[[Culture Générale\|普通文化]]通识课程（Hierarchical Gradation and General Culture）**
->   推崇普鲁士初等小学（*Elementarschulen*）与市民学校（*Bürgerschulen*）的垂直双轨设计：前者向大众传授基础读写算与爱国道德，后者向工商中产子弟传授外语与现代实用数理，上方衔接精英中学的古典普通文化（*culture générale*）。主张依据[[Faculty Psychology\|官能心理学]]设计融通科学与人文学科的课程，全面陶冶青少年的灵魂、理智与体魄。（pp. 27–28; Cousin, 1930:155–164）
+>   推崇普鲁士初等小学（*Elementarschulen*）与市民学校（*Bürgerschulen*）的垂直双轨设计：前者向大众传授[[Foundational Literacy and Numeracy|基础读写算]]与爱国道德，后者向工商中产子弟传授外语与现代实用数理，上方衔接精英中学的古典普通文化（*culture générale*）。主张依据[[Faculty Psychology\|官能心理学]]设计融通科学与人文学科的课程，全面陶冶青少年的灵魂、理智与体魄。（pp. 27–28; Cousin, 1930:155–164）
 > - **初等师资培训与专业地位保障（Training and Status of Primary Schoolmasters）**
 >   报告以极长篇幅密集引述普鲁士 1819年[[Prussian Draft Education Law of 1819\|聚芬法案]] 关于初等[[Normal School\|师范学校]]（*Lehrerseminare*）的条文，强调“学校之优劣完全取决于教师之素养”；坚决要求法国在各省强制设立正规师范学校，推行国家资格认证、终身任用阶梯与法定最低俸禄制度，彻底淘汰游方兼差者。（pp. 27–28; Cousin, 1930:167–188）
 

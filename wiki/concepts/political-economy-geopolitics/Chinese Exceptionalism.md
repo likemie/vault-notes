@@ -6,7 +6,7 @@ aliases:
 summary: "探讨中国在历史文明传统、当代治理经验与大国崛起轨迹上自具独特性的政治与学术构想，涵盖基于天下体系的文明优越论与融合现代科学技术、发展模式与善意关照的实用主义例外论，兼具大国认同构建功能与地缘战略张力"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,10 +18,12 @@ tags:
   - ideology
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Transnational Education]]"
   - "[[Public Diplomacy]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Benevolence]]"
   - "[[Developmentalism]]"
+  - "[[Study Abroad]]"
   - "[[Academic Freedom]]"
   - "[[Pride in Learning]]"
   - "[[Hard Power]]"
@@ -47,13 +49,13 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Chinese Exceptionalism
-> 中国例外论指一种主张中国在历史传统、文明形态、现代化道路与全球秩序构想上自具独特性且不适用西方普世发展[[Paradigm|范式]]的政治与学术构想。当代研究将其阐释为兼具大国卓越追求与道德善意展示的复合心智，在跨国高等教育与[[Public Diplomacy|公共外交]]中表现为融合传统[[Tianxia Heuristic|天下观]]念与现代科学技术、发展经验的[[Pragmatic Paradigm|实用主义]]形态。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1044, 1051)]]
+> 中国例外论指一种主张中国在历史传统、文明形态、现代化道路与全球秩序构想上自具独特性且不适用西方普世发展[[Paradigm|范式]]的政治与学术构想。当代研究将其阐释为兼具大国卓越追求与道德善意展示的复合心智，在[[Transnational Education|跨国高等教育]]与[[Public Diplomacy|公共外交]]中表现为融合传统[[Tianxia Heuristic|天下观]]念与现代科学技术、发展经验的[[Pragmatic Paradigm|实用主义]]形态。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1044, 1051)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向中国在探索国家崛起、制度构建与国际交往时依托本土历史哲学与当代成就形成的独特性信念。
@@ -76,7 +78,7 @@ updated: 2026-11-03
 > |------|------------|------------|---------------------|
 > | 核心合法性来源 | 数千年文明连续性、当代脱贫发展经验与关系性善意 | 天赋使命、自由市场民主与立宪普遍原则 | 民族国家主权平等、法定契约与国际法实体对等 |
 > | 秩序建构模式 | 基于差序关系的中心辐射、包容互惠与天下和谐构想 | 基于价值观联盟的同质扩展与跨国干预 | 基于国家利益平衡、地缘均势与条约制约 |
-> | 教育输出侧重点 | 国家发展治理经验、科技实力展演与留学生政策优待 | 价值观念同化、[[Academic Freedom\|学术自由]]标杆与私立市场化扩张 | 依附学术标准对等互认与机构法权合作 |
+> | 教育输出侧重点 | 国家发展治理经验、科技实力展演与[[Study Abroad\|留学]]生政策优待 | 价值观念同化、[[Academic Freedom\|学术自由]]标杆与私立市场化扩张 | 依附学术标准对等互认与机构法权合作 |
 
 ---
 

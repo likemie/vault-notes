@@ -12,9 +12,9 @@ summary: "基于方差分解比较两组或多组连续变量均值差异的推�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 39
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 41
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -25,6 +25,7 @@ tags:
   - hypothesis-testing
 related_concepts:
   - "[[Variable]]"
+  - "[[Null Hypothesis]]"
   - "[[Dependent Variable]]"
   - "[[Interaction Effect]]"
   - "[[Unit of Analysis]]"
@@ -38,6 +39,7 @@ related_concepts:
   - "[[Type I and Type II Errors]]"
   - "[[Internal Validity]]"
   - "[[Academic Achievement]]"
+  - "[[Homophily]]"
   - "[[Construct]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Document]]"
@@ -72,13 +74,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Analysis of Variance
-> 方差分析（Analysis of Variance, ANOVA）是一族用于检验三个或更多处理组（或两个及以上独立样本）在连续数值因[[Variable\|变量]]上的总体均值是否存在统计学显著差异的推断统计方法，由罗纳德·费希尔（Ronald Fisher）开创并以 $F$ 检验统计量为核心判定工具。其数学本质在于将总离差平方和（Total Sum of Squares, $SS_{\text{total}}$）正交分解为可由实验处理解释的“组间变异”（Between-group Variance / $SS_{\text{between}}$）与由随机误差造成的“组内变异”（Within-group Variance / $SS_{\text{within}}$），通过两类均方的比值 $F = MS_{\text{between}} / MS_{\text{within}}$ 检验各组总体均值相等的原假设。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 362–365)]]
+> 方差分析（Analysis of Variance, ANOVA）是一族用于检验三个或更多处理组（或两个及以上独立样本）在连续数值因[[Variable\|变量]]上的总体均值是否存在统计学显著差异的推断统计方法，由罗纳德·费希尔（Ronald Fisher）开创并以 $F$ 检验统计量为核心判定工具。其数学本质在于将总离差平方和（Total Sum of Squares, $SS_{\text{total}}$）正交分解为可由实验处理解释的“组间变异”（Between-group Variance / $SS_{\text{between}}$）与由随机误差造成的“组内变异”（Within-group Variance / $SS_{\text{within}}$），通过两类均方的比值 $F = MS_{\text{between}} / MS_{\text{within}}$ 检验各组总体均值相等的[[Null Hypothesis|原假设]]。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 362–365)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 多组独立或相关实验处理条件下的连续[[Dependent Variable\|因变量]]测量数据。
@@ -205,7 +207,7 @@ updated: 2026-10-30
 > | 单因素方差分析（One-Way ANOVA） | 1 个分类变量（$\ge 2$ 水平） | 1 个连续变量 | 无 | 比较单因子不同水平下的组间均值差异 | 独立性、正态性、方差齐性（Levene 检验） |
 > | 双因素/多因素方差分析（Factorial ANOVA） | $\ge 2$ 个分类变量（交叉分组） | 1 个连续变量 | 无 | 分离检验各因子主效应与[[Interaction Effect\|交互效应]] | 需警惕高阶交互效应解释困难与单元格不平衡 |
 > | 重复测量方差分析（[[Repeated Measures Design\|repeated measures]] ANOVA） | 组内因子（同一被试多次测量） | 1 个连续变量 | 无 | 消除个体间系统变异，提高检验被试自身前后变化的功效 | 需满足球形假设（Sphericity，违反时用 GG 校正） |
-> | [[Analysis of Covariance\|协方差分析（ANCOVA）]] | 1 个或多个分类变量 | 1 个连续变量 | $\ge 1$ 个连续协变量 | 扣除与因变量相关的混淆变量（基线分等），提高处理效应估计精度 | 要求回归斜率同质性（Homogeneity of Regressions） |
+> | [[Analysis of Covariance\|协方差分析（ANCOVA）]] | 1 个或多个分类变量 | 1 个连续变量 | $\ge 1$ 个连续协变量 | 扣除与因变量相关的混淆变量（基线分等），提高处理效应估计精度 | 要求回归斜率[[Homophily\|同质性]]（Homogeneity of Regressions） |
 > | [[Multivariate Analysis of Variance\|多元方差分析（MANOVA）]] | 1 个或多个分类变量 | $\ge 2$ 个**相互关联的连续因变量** | 无 | 控制族误差率（Familywise Error），综合评估组别对多维结果[[Construct\|构念]]的影响 | 需满足多元正态性与协方差矩阵同质性（Box's M 检验） |
 > | 独立样本 [[t-test]] | 1 个分类变量（**严格限定 2 水平**） | 1 个连续变量 | 无 | 检验两组总体均值是否相等 | $t^2 \equiv F$；无法直接扩展至 3 组以上（会膨胀 Type I 错误） |
 > | Kruskal-Wallis 检验 | 1 个分类变量（$\ge 2$ 水平） | 1 个连续或等级变量 | 无 | ANOVA 前提严重违背时的非参数替代方案（基于秩次） | 仅检验中位数/分布位置，统计功效略低于满足正态假定的 ANOVA |

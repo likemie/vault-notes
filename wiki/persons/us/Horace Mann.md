@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Scholiocentric Approach]]"
+  - "[[Transnational Education]]"
   - "[[Popular Education]]"
   - "[[Normal School]]"
   - "[[Educational Meliorism]]"
@@ -41,7 +42,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Protean Episteme]]"
   - "[[Knowledge Production]]"
-  - "[[Disciplinary Institutionalization]]"
 related_theories:
   - "[[Situative Perspective]]"
 related_methods: []
@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ## 简介
@@ -79,7 +79,7 @@ updated: 2026-11-02
 > [!person-profile] 人物档案
 > - **身份位置** 美国 19 世纪自由共和主义社会改革家、政治家、律师、马萨诸塞州教育委员会首任秘书（1837–1848）、国会众议员（1848–1853）、安提阿学院首任校长（1853–1859），全美公立学校运动的最高领袖。
 > - **学科代际定位** 比较教育学第一重论述代际（“启蒙准科学与行政改良代际”）美洲核心代表；与[[Victor Cousin|维克多·库森]]、[[Henry Barnard|亨利·巴纳德]]共同确立了“[[Scholiocentric Approach|以校为中心]]”（Scholiocentric）描述性考察外国办学经验，并以此作为游说立法机关、争取公共财政建立国民学校体系之政治合法化依据的经典模式。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 140–141)]]
-> - **核心角色** 美国公立学校运动（[[Common School Movement]]）的旗手与灵魂人物；在跨国教育借鉴中突破欧陆机械制度移植，开创“将外部经验转译为国内争议改革政治合法化依据（Legitimating Rationale）”的比较范式。
+> - **核心角色** 美国公立学校运动（[[Common School Movement]]）的旗手与灵魂人物；在[[Transnational Education|跨国教育]]借鉴中突破欧陆机械制度移植，开创“将外部经验转译为国内争议改革政治合法化依据（Legitimating Rationale）”的比较范式。
 > - **代表贡献** 推动建立全美首批由公共税收维持、面向全体平民且无宗派偏见的公共学校（Common School）；建立马萨诸塞州列克星敦全美首所州立公立师范学校（1839）；发表 12 篇里程碑式的年度教育报告，特别是 1844 年《[[Seventh Annual Report of the Massachusetts Board of Education\|第七次年度报告]]》详尽考察欧洲与普鲁士初等学校，推行[[Johann Heinrich Pestalozzi\|约翰·海因里希·裴斯泰洛齐]]（Johann Heinrich Pestalozzi）直观教学法与温和人道纪律；确立普及公共教育是自由共和政体得以存续之唯一基石的经典政治教育学命题。
 
 历史学家对其教育思想与美国立国精神的内在关联给出了经典定论：
@@ -136,7 +136,7 @@ updated: 2026-11-02
 霍勒斯·曼将美利坚建国自由理想与 19 世纪社会[[Educational Meliorism|改良主义]]深度熔铸，构筑起以知识普及、社会平等与合法化转译为核心的教育哲学体系：
 
 > [!claim] 核心主张
-> 曼主张普及的大众教育是自由共和民主政体得以长久存续的唯一基石。自由与愚昧绝不可能共存；任何宪政架构无论构想得多么精密，若缺乏广泛深入的民众知识分配，均无法抵御寡头僭政或民粹暴民统治的腐蚀。公共学校（[[Common School Movement\|Common School]]）超越阶层与财富界限，是全人类境况“最伟大的平等发生器（great equalizer of the conditions of men）”。在跨国教育借鉴中，曼确立了“既寻找引路明灯，也发掘示警烽火”的辩证准则；针对美国联邦分权与民主协商体制，曼战略性地剥离欧洲君主专制外壳，抽取其公学成效与人道教学实绩，将其转译为击溃国内反对派、为建立公税公立学校确立政治合法化依据（legitimating rationale）的核心武器。
+> 曼主张普及的大众教育是自由共和民主政体得以长久存续的唯一基石。自由与愚昧绝不可能共存；任何宪政架构无论构想得多么精密，若缺乏广泛深入的民众知识分配，均无法抵御寡头僭政或民粹暴民统治的腐蚀。公共学校（[[Common School Movement\|Common School]]）超越阶层与财富界限，是全人类境况“最伟大的平等发生器（great equalizer of the conditions of men）”。在[[Transnational Education|跨国教育]]借鉴中，曼确立了“既寻找引路明灯，也发掘示警烽火”的辩证准则；针对美国联邦分权与民主协商体制，曼战略性地剥离欧洲君主专制外壳，抽取其公学成效与人道教学实绩，将其转译为击溃国内反对派、为建立公税公立学校确立政治合法化依据（legitimating rationale）的核心武器。
 
 这一思想体系在具体的改革实践中展开为四大坚实理论支柱：
 

@@ -11,9 +11,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 123
-fact_related_level: 12
-fact_related_stars: "💎💎💎💎"
+fact_related_count: 131
+fact_related_level: 13
+fact_related_stars: "💎💎💎💎⭐"
 fact_related_color: "#fecdd3"
 org_type: multilateral-development-bank
 headquarters: "华盛顿特区（美国）"
@@ -54,15 +54,17 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Going Native]]"
   - "[[Refined Mastery]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Policy Borrowing]]"
   - "[[Smart Buys]]"
-  - "[[Document]]"
   - "[[Causality]]"
   - "[[Paradigm]]"
   - "[[Structural Adjustment Programs]]"
+  - "[[Document]]"
   - "[[Market Fundamentalism]]"
   - "[[International Education]]"
   - "[[Selective Affinity]]"
+  - "[[Transnational Education]]"
   - "[[Class Size]]"
   - "[[Reliability]]"
   - "[[Constructivist Paradigm]]"
@@ -83,11 +85,11 @@ related_concepts:
   - "[[Exogenous Privatisation]]"
   - "[[Global Educational Discourse]]"
   - "[[Gatekeepers]]"
-  - "[[State Educational Sovereignty]]"
-  - "[[Epistemic Governance]]"
   - "[[South-South Cooperation]]"
   - "[[Triangular Cooperation]]"
   - "[[Mutual Learning]]"
+  - "[[State Educational Sovereignty]]"
+  - "[[Epistemic Governance]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Evolutionary Economics]]"
@@ -109,6 +111,7 @@ related_persons:
   - "[[George Psacharopoulos]]"
   - "[[Robert Arnove]]"
   - "[[Chris Freeman]]"
+  - "[[Wadi Haddad]]"
   - "[[Martin Carnoy]]"
   - "[[James Wolfensohn]]"
   - "[[Claudio de Moura Castro]]"
@@ -117,13 +120,17 @@ related_persons:
   - "[[Bob Lingard]]"
   - "[[Rainer Kattel]]"
   - "[[Jason Beech]]"
+  - "[[Kenneth King]]"
 related_facts:
   - "[[UNESCO]]"
   - "[[OECD]]"
   - "[[International Development Association]]"
   - "[[International Monetary Fund]]"
+  - "[[UNICEF]]"
+  - "[[Education for All]]"
   - "[[World Education Indicators]]"
   - "[[Poverty Reduction Strategy Papers]]"
+  - "[[Millennium Development Goals]]"
   - "[[Educational Knowledge Management System]]"
   - "[[Global Development Network]]"
   - "[[Participatory Budgeting]]"
@@ -131,13 +138,13 @@ related_facts:
   - "[[Skills Toward Employment and Productivity]]"
   - "[[Systems Approach for Better Education Results]]"
   - "[[Building Evidence in Education]]"
+  - "[[World Development Report 2018]]"
   - "[[UNESCO Institute for Statistics]]"
   - "[[Development Economics Vice Presidency]]"
   - "[[Inter-American Development Bank]]"
   - "[[Global Education Evidence Advisory Panel]]"
   - "[[English Schools Foundation Hong Kong]]"
   - "[[World Development Indicators]]"
-  - "[[UNICEF]]"
   - "[[Learning Data Compact]]"
   - "[[Chartered College of Teaching]]"
   - "[[EdStats]]"
@@ -149,6 +156,7 @@ related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
   - "[[Argument_Castro_2009_MultilateralBanks]]"
   - "[[Argument_Freeman_1995_CJE]]"
+  - "[[Argument_King_2007_CE]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Zapp_2017_IJED]]"
@@ -156,12 +164,12 @@ related_arguments:
   - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Campbell_2026_JPCC]]"
-  - "[[Argument_Santos_Silova_2026_Discourse]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
+  - "[[Argument_Santos_Silova_2026_Discourse]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -202,12 +210,12 @@ updated: 2026-11-10
 >   - **1980s** 激进强推附加条件遭遇借款国强烈的本土政治抵制与官僚消极应对，多达三分之一的教育借贷项目陷入停摆与低效（赶猫式失败），迫使世行认识到外部银行无法以蛮力强推深层体制重组。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 465–466)]]
 >   - **1980s** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman, 1995）从[[Evolutionary Economics|演化经济学]]指出，世行与[[International Monetary Fund|国际货币基金组织]]强推的紧缩与外债偿付方案重创了巴西等拉美国家的国家[[Systems of Innovation|创新系统]]，迫使政府削减高校科研与[[Engineering Education|工程教育]]投资，使其与依靠自主研发和教育扩张赶超的韩国等东亚经济体拉开差距。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]
 >   - **1980s–1990s** 政策议程呈现剧烈的教育时尚周期：自 1960 年代积极资助高等教育后，骤然推行长达十余年的高等教育借贷禁令，资金单一倾斜于基础教育，给发展中国家高阶人才培养造成结构性断层。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 473–474)]]
->   - **1990** 联合联合国教科文组织、儿童基金会与开发计划署发起宗滴恩世界全民教育大会，其原教育部门负责人沃迪·哈达德（Wadi Haddad）出任大会执行秘书；世行在现场公开宣布将贷款重心集中于正规小学，并发布 1990 年《初等教育》政策白皮书，确立以小学普及为核心的多边资助基调。[[Argument_King_2007_CE|(King, 2007, pp. 383–384)]]
+>   - **1990** 联合联合国教科文组织、[[UNICEF|儿童基金会]]与开发计划署发起宗滴恩世界[[Education for All|全民教育]]大会，其原教育部门负责人[[Wadi Haddad|沃迪·哈达德]]（Wadi Haddad）出任大会执行秘书；世行在现场公开宣布将贷款重心集中于正规小学，并发布 1990 年《初等教育》政策白皮书，确立以小学普及为核心的多边资助基调。[[Argument_King_2007_CE|(King, 2007, pp. 383–384)]]
 >   - **1995** 成为南方国家最大的单一外部教育资助来源，并在《教育优先与战略》报告中自称其研究在广度与严谨性上无可匹敌（World Bank, 1995: 21），将三十余年的回报率与成本效益核算确立为最高评判准绳。比奇指出其悖论在于，世行贷款仅占[[Development Education|发展中国家教育]]总开支的 0.5%，却伴随全方位的体制干预。[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy, 1999）进一步揭示，其成本效益模型将教材、黑板与粉笔定为最划算的教学物资，把教师薪酬视作削减成本的核心障碍，并以“若 1960 年韩国入学率同巴基斯坦一样低，其 1985 年人均国内生产总值将萎缩 40%”一类宏观计量推论作为修辞武器。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–347)]]
 >   - **1996 起** 在 [[OECD]] 发布《以知识为基础的经济》后迅速跟进，拥抱[[Knowledge-Based Economy|知识经济]]概念并发布系列专题报告。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–445)]]
 >   - **1997** 联合[[OECD|经合组织]]与教科文组织发起世界[[Performance Indicators|教育指标]]（[[World Education Indicators]]，WEI）项目，将量化指标方法学推广至非成员转型经济体。
 >   - **1999** 联合国际货币基金组织引入《[[Poverty Reduction Strategy Papers|减贫战略文件]]》（PRSPs），将受援国国际开发协会（IDA）优惠信贷资格与普及初等教育及消除性别差距等量化指标挂钩，借由减贫规训深度重塑南方国家教育财政。[[Argument_King_2007_CE|(King, 2007, pp. 380–382)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 542)]]
->   - **2002** 主导发起“[[Global Partnership for Education|快速通道倡议]]”（Fast Track Initiative，FTI），设立以初等教育完成率与宏观财政支出为核心的基准指标框架（Indicative Framework）；该倡议绕开教科文组织达喀尔六大全纳目标，聚焦于千年发展目标两项初等教育指标，成为多边捐助国协调基础教育资金供给的核心操作平台。[[Argument_King_2007_CE|(King, 2007, pp. 386–388)]]
+>   - **2002** 主导发起“快速通道倡议”（Fast Track Initiative，FTI），设立以初等教育完成率与宏观财政支出为核心的基准指标框架（Indicative Framework）；该倡议绕开教科文组织达喀尔六大全纳目标，聚焦于[[Millennium Development Goals|千年发展目标]]两项初等教育指标，成为多边捐助国协调基础教育资金供给的核心操作平台。[[Argument_King_2007_CE|(King, 2007, pp. 386–388)]]
 >
 > - **1999–2018** **[[Knowledge Bank|知识银行]]转型、[[Shadow State|影子国家]]外包与买方市场危机**
 >
@@ -226,7 +234,7 @@ updated: 2026-11-10
 >
 >   面对宏观制度改革与微观课堂教学长期脱节，世行教育业务转向微观教学实践，把介入触角直接延伸至教室内部。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–6)]]
 >
->   - **2018** 发布首部完全聚焦教育的《世界发展报告：学习以实现教育的承诺》（World Development Report 2018，WDR 2018），确立全球学习危机（Global Learning Crisis）政策议程，指出发展中国家数以亿计儿童在校却缺乏基本读写算技能；并联合[[UNESCO Institute for Statistics|联合国教科文组织统计研究所]]（UIS）提出学习贫困（Learning Poverty）指标。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, p. 2)]]
+>   - **2018** 发布首部完全聚焦教育的《世界发展报告：[[World Development Report 2018|学习以实现教育的承诺]]》（World Development Report 2018，WDR 2018），确立全球学习危机（Global Learning Crisis）政策议程，指出发展中国家数以亿计儿童在校却缺乏基本读写算技能；并联合[[UNESCO Institute for Statistics|联合国教科文组织统计研究所]]（UIS）提出学习贫困（Learning Poverty）指标。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, p. 2)]]
 >   - **2019** 推出面向发展中国家小学课堂的标准化观察工具Teach，并配套开发在职教师辅导规程 Coach，构建起衡量课堂时间利用、教学质量与社会情感技能培养的开源公共品体系。
 
 ---
@@ -249,7 +257,7 @@ updated: 2026-11-10
 > | **改革附加条件力度** | 激进捆绑宏观体制重构条件（人事编制冻结、民营化），易在借款国引发政治僵局与“赶猫”困境。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 465–466)]] | 长期坚守物理基建与技术培训项目，虽较少触碰深层体制病灶，但履约顺利度与拨付率显著更高。 |
 
 > [!pathways] 业务运行机制
-> - **议程设置** 依据全球宏观经济动态与自身发展指标库，将战略重点依次锁定于“初等教育普及”、“女童教育”、“[[Learning Crisis|学习贫困]]（Learning Poverty）”与“基础素养”，通过全球旗舰报告引领受援国改革议程。
+> - **议程设置** 依据全球宏观经济动态与自身发展指标库，将战略重点依次锁定于“初等教育普及”、“女童教育”、“[[Learning Crisis|学习贫困]]（Learning Poverty）”与“[[Foundational Literacy and Numeracy|基础素养]]”，通过全球旗舰报告引领受援国改革议程。
 > - **研究与开发** 依托内部 DEC 团队开展大规模微观计量与田野 RCT 实验，将各借贷国的试点数据回流华盛顿总部清洗，提炼为具有普适指导意义的最佳政策组合（Best Practice Portfolio）。
 > - **[[Policy Brokerage|政策中介]]与跨国政策转移（Policy Brokerage and Transfer）** 在跨国[[Policy Borrowing|政策借用]]多维连续谱中，世界银行扮演着兼具协商性转移与条件性受迫转移的双重中介枢纽（[[Argument_Legrand_2012_PolStud|Legrand, 2012, p. 322]]）：一方面依托专属的最佳实践政策工具库与 [[Systems Approach for Better Education Results|SABER]] 诊断基准引导借款国协商采纳外部经验，在结构调整与紧急援助时捆绑贷款附加条件促成受迫转移；另一方面也扮演吸纳全球南方微观政策创新（如参与式预算、有条件现金转移支付）的多标量聚合中枢，依托南方政策大使穿梭推动多向度跨国政策循环。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 200, 204, 237–244)]]
 > - **质量控制与透明度** 实行严格的项目周期监管（识别、准备、评估、谈判、执行监督、后评价），所有借贷协议与实证工作报告公开归档，但评估标准具有鲜明的华盛顿经济学主导色彩。
@@ -306,7 +314,7 @@ updated: 2026-11-10
 > - **1,120** （项） 教育投资回报率数据库整合的 139 国微观计量估算总数。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 542, 548)]]
 > - **1,600** （项） [[World Development Indicators|世界发展指标]]（WDI）数据库涵盖的宏观指标总数。
 > - **3×** 世界银行教育学术产出达到全球前 13 所高产大学均值的倍数。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 6)]]
-> - **6,900+** （份） 开放知识库（OKR）收录的免费教育学术文献总数，累计下载近 900 万次。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 7)]]
+> - **6,900+** （份） 开放知识库（OKR）收录的免费教育学术[[Document|文献]]总数，累计下载近 900 万次。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 7)]]
 > - **3,261** （项） [[EdStats|教育统计查询系统]]（EdStats）整合的跨国可比教育指标数量。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 7)]]
 > - **10,000+** （个） 1947 年以来世界银行发起的教育项目总数，总投资累计达 690 亿美元。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 9)]]
 
@@ -332,7 +340,7 @@ updated: 2026-11-10
 > > - **组织反思论者** 强调世行内部研究人员具备多元理论视野，其内部实证研究成果频繁探讨教育紧缩的负面社会后果。
 > > - **批判政治经济学者（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）** 援引 Samoff 与 Schugurensky 的研究指出，世行负责贷款发放的管理层与微观研究者严重脱节，在实践中毫不妥协地推行单一化的市场规训逻辑，其在[[International Education|国际教育]]中发挥着类似[[Business Roundtable|美国商业圆桌会]]议的作用，与新自由主义推行私有化、削减国家投资的诉求呈现出深度的[[Selective Affinity|选择性亲和]]。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 81)]]
 >
-> > [!axis] 跨国教育援助本质：现代化赋权 vs 固化国际分层与[[Shadow State|影子国家]]异化
+> > [!axis] [[Transnational Education|跨国教育]]援助本质：现代化赋权 vs 固化国际分层与[[Shadow State|影子国家]]异化
 > > 争论世界银行的教育援助究竟推动了第三世界的社会流动，还是固化了不平等的国际秩序。
 > >
 > > - **[[Robert Arnove|阿诺夫]]（Arnove, 1980, 2009）** 运用世界体系现实主义视角指出，世行推广的教育革新实质上固化了既有的中心-边缘与国内阶层分层；同时，世行等援助方绕过受援国政府直接出资委托非政府组织提供教育，导致国家丧失了统筹教育的核心权威，使 NGO 异化为去政治化的“影子国家”，严重侵蚀了公共教育主权。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–106, 111–112)]]

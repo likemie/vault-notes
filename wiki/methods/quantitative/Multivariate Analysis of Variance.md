@@ -10,7 +10,7 @@ summary: "用于同时检验一个或多个分类自变量对两个或多个相�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 31
+method_related_count: 33
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Construct Validity]]"
   - "[[Construct]]"
+  - "[[Homophily]]"
   - "[[Hypothesis]]"
   - "[[Research Literacy]]"
   - "[[Reliability]]"
@@ -51,6 +52,7 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Sample Size Determination]]"
   - "[[Analysis of Covariance]]"
+  - "[[Instrumental Variables]]"
   - "[[Confirmatory Factor Analysis]]"
 related_instruments: []
 related_persons: []
@@ -63,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -98,7 +100,7 @@ updated: 2026-10-30
 >   - 协方差矩阵分解（SSCP 矩阵计算）
 >   - 事后单变量[[Analysis of Variance\|方差分析]]（Follow-up Univariate ANOVAs with Bonferroni Correction）
 >   - 描述性判别分析（Descriptive Discriminant Analysis）
-> - **辅助技术** Mardia 多元正态检验、Box's M 协方差同质性检验、Levene 方差齐性检验、多元偏 $\eta^2$ 计算。
+> - **辅助技术** Mardia 多元正态检验、Box's M 协方差[[Homophily|同质性]]检验、Levene 方差齐性检验、多元偏 $\eta^2$ 计算。
 
 ---
 
@@ -232,7 +234,7 @@ updated: 2026-10-30
 > |:-----|:-----|:-----|
 > | [[Analysis of Variance]] | 基础方法 | MANOVA 的单变量特例（$p=1$），MANOVA 多元检验显著后的主要分解工具。 |
 > | [[Analysis of Covariance]] | 拓展方法 | 引入连续协[[Variable\|变量]]进行控制的多元协方差分析（MANCOVA）的单变量对应物。 |
-> | 判别分析（Discriminant Analysis） | 对偶方法 | MANOVA 关注“组别（IV）如何影响变量组合（DV）”，判别分析关注“变量组合如何反向预测组别归属”。 |
+> | 判别分析（Discriminant Analysis） | 对偶方法 | MANOVA 关注“组别（[[Instrumental Variables\|IV]]）如何影响变量组合（DV）”，判别分析关注“变量组合如何反向预测组别归属”。 |
 > | [[Confirmatory Factor Analysis\|结构方程模型（SEM）]] | 进阶替代 | 当[[Dependent Variable\|因变量]]包含测量误差或需要同时拟合复杂中介/调节链条时的现代结构化替代框架。 |
 > | [[Classical Test Theory]] | 测量理论 | 为多维度量表的[[Reliability\|信度]]与因变量相关结构提供心理测量学理论基础。 |
 

@@ -9,10 +9,10 @@ aliases:
 summary: "研究规划中的边界管理概念，指将研究课题收窄到可管理的比例以实现严谨性和可操作性，涉及范围限定、边界设定和窄聚焦策略"
 type: concept
 domain: "research-methodology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 22
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - method/research-design
   - source/textbook
@@ -27,10 +27,13 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Document]]"
   - "[[Paradigm]]"
+  - "[[Grand Theory]]"
   - "[[External Validity]]"
+  - "[[Dependent Variable]]"
 related_theories: []
 related_methods:
   - "[[In-depth Interview]]"
+  - "[[Case Study]]"
 related_instruments: []
 related_persons:
   - "[[Jean Piaget]]"
@@ -46,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-20
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -128,7 +131,7 @@ updated: 2026-11-03
 ---
 
 > [!dev-timeline] 概念演变
-> - **1932 — 皮亚杰奠定微观窄聚焦观察范式** 让·皮亚杰（Piaget, 1932）通过观察极少数儿童游戏构建儿童道德发展阶段论，确立了小样本深度聚焦构建宏大理论的范例。
+> - **1932 — 皮亚杰奠定微观窄聚焦观察[[Paradigm|范式]]** 让·皮亚杰（Piaget, 1932）通过观察极少数儿童游戏构建儿童道德发展阶段论，确立了小样本深度聚焦构建[[Grand Theory|宏大理论]]的范例。
 > - **1961 — 普莱斯展示研究范围的跨尺度扩展** 普莱斯（Price, 1961）从书房内单刊文献厚度测算起步，逐步扩展至全球文献总量与科研人员规模，验证了指数增长的宏观尺度不变性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, Ch. 7, p. 161)]]
 > - **1985–2011 — 教育研究规划中范围管理纪律的形式化** 霍普金斯与科恩等（Hopkins, 1985; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011]]）系统确立“想小而非大”的课题窄化操作原则，将范围管理界定为保障实证研究可操作性与方法严谨性的首要专业纪律。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, pp. 92–93)]]
 
@@ -146,7 +149,7 @@ updated: 2026-11-03
 
 > [!warning|limits] 适用局限
 > - 过度收窄研究范围可能损害结论的[[External Validity|外部效度]]；当研究课题涉及跨系统宏观政策效应或复杂制度互动时，机械切割范围会导致关键宏观结构变量被遗漏，造成去脉络化的人工简化。
-> - 窄聚焦个案研究对研究者的理论敏锐度与[[Rich and Thick Description|深描]]质量具有极高依赖性，若缺乏深层概念建构能力，容易滑向琐碎碎屑的经验记录而无法提炼具有普遍启发的理论洞见。
+> - 窄聚焦[[Case Study|个案研究]]对研究者的理论敏锐度与[[Rich and Thick Description|深描]]质量具有极高依赖性，若缺乏深层概念建构能力，容易滑向琐碎碎屑的经验记录而无法提炼具有普遍启发的理论洞见。
 
 ---
 
@@ -157,7 +160,7 @@ updated: 2026-11-03
 > | [[Research Topic]] | 概念 | 研究规划中与范围相互界定的选题概念，范围管理将宽泛主题裁切至可操作尺度。 |
 > | [[Research Practicability]] | 概念 | 范围管理是可行性评估的核心支撑，课题收窄保障时间与资源约束下的可落地性。 |
 > | [[Fitness for Purpose]] | 概念 | 范围设定与方法选择需共同适配研究的核心目的与问题类型。 |
-> | [[Variable]] | 概念 | 范围管理要求收窄并明确自变量与因变量的数量边界，防范全面铺摊导致失控。 |
+> | [[Variable]] | 概念 | 范围管理要求收窄并明确自变量与[[Dependent Variable\|因变量]]的数量边界，防范全面铺摊导致失控。 |
 > | [[External Validity]] | 概念 | 过度收窄研究范围可能限制结论的外部效度，需在可管理性与推广性间审慎权衡。 |
 > | [[Jean Piaget]] | 人物 | 发展心理学家，通过对少数儿童的极小样本窄聚焦观察奠定道德发展阶段论经典。 |
 > | [[Lawrence Manion]] | 人物 | 经典研究方法论学者，与科恩共同系统确立教育研究规划中的范围管理规范。 |

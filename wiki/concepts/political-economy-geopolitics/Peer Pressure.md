@@ -7,7 +7,7 @@ aliases:
 summary: "指主权国家或公共治理主体在面对同侪组织、多边共同体或国际基准的横向对标、集体审议与声誉评价时所感受到的规范性合规压力与心理紧迫感；在跨国教育政策中，它依托绩效指标、联赛排名与公开问责，将技术比较转化为国内政治焦虑与改革倒逼动力，充当远处掌舵的核心动力机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Cognitive Authority]]"
   - "[[Reflexivity]]"
+  - "[[Nationalism]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Panopticism]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -170,7 +171,7 @@ updated: 2026-11-03
 > > - **批判政策学者（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）** 警告排位诱发的恶性同行压力极易导致盲目的“政策借用”（Policy Borrowing）与表象化模仿，破坏本土教育生态的历史连续性与深层文化本真性。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441, 447)]]
 
 > [!warning] 适用局限
-> 同行压力机制的有效运转高度依赖于受测国家具备开放的公共舆论空间、敏锐的媒体生态以及对国际多边声誉的重视。在政治封闭、高度民族主义防御或拒绝西方标准化发展[[Paradigm|范式]]的政体中，外部排位与同侪审议往往难以激活国内政策调整动力，甚至可能诱发激烈的反弹与制度脱嵌。
+> 同行压力机制的有效运转高度依赖于受测国家具备开放的公共舆论空间、敏锐的媒体生态以及对国际多边声誉的重视。在政治封闭、高度[[Nationalism|民族主义]]防御或拒绝西方标准化发展[[Paradigm|范式]]的政体中，外部排位与同侪审议往往难以激活国内政策调整动力，甚至可能诱发激烈的反弹与制度脱嵌。
 
 ---
 

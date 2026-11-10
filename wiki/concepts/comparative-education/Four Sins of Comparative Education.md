@@ -6,7 +6,7 @@ aliases:
 summary: "Cowen（2023）对比较教育学术史中不断重演的四类理论与方法论偏差的批判性诊断，包括进步假设、地方主义、借用成瘾与科学混乱"
 type: concept
 domain: "comparative-education"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Scientific Method]]"
   - "[[Paradigm]]"
-  - "[[Screening Off]]"
   - "[[Variable]]"
   - "[[Causality]]"
 related_theories: []
@@ -33,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -52,7 +51,7 @@ updated: 2026-10-30
 > - **进步假设（Assumption of Progress）**
 >   默认学科的发展是目的论式的，即认为学科在经历早期的“天真错误”后，必然会渐进、累积式地成熟为接受实证[[Scientific Method\|科学方法]]的比较社会科学。这忽视了[[Paradigm\|范式]]断裂以及随[[Geopolitics|地缘政治]]起舞的断代特征。
 > - **地方主义（Parochialism）**
->   默认大西洋中部（Mid-Atlantic，即美英轴心）是定义全球比较教育政治、视角和研究方向的唯一世界中心，将特定区域的学术地方主义强加为全球通用的学科准则，[[Screening Off\|屏蔽]]了非西方世界的地缘政治特异性。[[Argument_Cowen_2023_CE\|(Cowen, 2023, pp. 328–329)]]
+>   默认大西洋中部（Mid-Atlantic，即美英轴心）是定义全球比较教育政治、视角和研究方向的唯一世界中心，将特定区域的学术地方主义强加为全球通用的学科准则，屏蔽了非西方世界的地缘政治特异性。[[Argument_Cowen_2023_CE\|(Cowen, 2023, pp. 328–329)]]
 > - **借用成瘾（Addiction to Borrowing）**
 >   不加批判地从其他学科或政策界“进口”[[Big Ideas\|大概念]]（如全球化）或快速引用的别致编码（如模式[[Variable\|变量]]、多文化社会、儒家学说等），用它们作为保护伞，逃避对复杂地方社会情境进行严肃的历史与社会学深耕分析。
 > - **科学混乱（Scientific Confusion）**

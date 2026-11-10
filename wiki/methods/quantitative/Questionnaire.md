@@ -9,7 +9,7 @@ summary: "一种广泛使用的调查研究工具，通过结构化或半结构�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 61
+method_related_count: 62
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dcfce7"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Heterogeneity]]"
   - "[[Common Method Variance]]"
+  - "[[Continuous Research Funding]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Language Skills]]"
 related_methods:
@@ -89,7 +90,7 @@ related_theories:
 confidence: medium
 status: draft
 created: 2026-07-20
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
@@ -185,7 +186,7 @@ updated: 2026-11-04
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]] — 面向全国 4,569 名基础研究青年拔尖人才开展大规模问卷调查，结合李克特量表测评六重两难抉择认知、竞争压力与创新绩效，实证检验延续性资助与环境支持的保护性效能。（pp. 18–21）
+> - [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]] — 面向全国 4,569 名基础研究青年拔尖人才开展大规模问卷调查，结合李克特量表测评六重两难抉择认知、竞争压力与创新绩效，实证检验[[Continuous Research Funding|延续性资助]]与环境支持的保护性效能。（pp. 18–21）
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] — 结合全球 400 位顶级生物医学科学家自我评估问卷实证，揭示学者对自身最佳突破的主观认定与客观高被引成果之间仅有 23% 重合的认知张力（p. 181）。
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 采用联合国六种官方语言设计多语种在线问卷，收集覆盖 103 国 898 名政策利益相关者的数据，系统测评全球 654 个证据平台的使用习惯与 [[UN Sustainable Development Goals|SDG 4]] 目标支撑度（pp. 18–20）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al. (2011, Ch. 20)]] — 系统介绍问卷设计的全流程：从伦理议题到规划[[Operationalization|操作化]]、题型选择、[[Sensitive Questions|敏感问题]]、[[Questionnaire Wording|措辞陷阱]]、排序、布局、[[Covering Letter|封面信]]、[[Pilot Testing|预测试]]、施测和数据处理。

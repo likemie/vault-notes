@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ tags:
   - policy/computing-infrastructure
 related_concepts:
   - "[[Center of Calculation]]"
+  - "[[Research Tool]]"
   - "[[Big Science]]"
   - "[[Paradigm]]"
   - "[[Scientific Productivity]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 ---
@@ -54,7 +55,7 @@ updated: 2026-10-29
 > - **立项时间 / 周期** 1985 年由 NSF 正式批准建立首批中心，作为美国国家先导性先进科研计算基础设施跨越数十年持续升级迭代。
 > - **发起方与资助机制** 由 NSF 出资并统筹实施，采取“联邦大额资助专项 + 依托大学与州政府联合配套 + 计算机产业巨头设备赞助”的多元共建机制。
 > - **覆盖范围与对象** 选址设立于全美 5 所大学，计算算力与网络终端面向全美所有通过学术评审的合格高校教授与研究生无偿或低成本开放。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 41)]]
-> - **核心问题导向** 20 世纪 80 年代初，量子化学、天体物理、气候气象建模及非线性动力学等学科亟需超级计算算力；然而昂贵的 Cray 等超级计算机仅为少数国防国家实验室或石油巨头垄断，广大大学科学家面临“算力饥渴”与严重的科研工具壁垒。
+> - **核心问题导向** 20 世纪 80 年代初，量子化学、天体物理、气候气象建模及非线性动力学等学科亟需超级计算算力；然而昂贵的 Cray 等超级计算机仅为少数国防国家实验室或石油巨头垄断，广大大学科学家面临“算力饥渴”与严重的[[Research Tool|科研工具]]壁垒。
 
 ---
 

@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
 related_instruments: []
 related_persons:
+  - "[[Ben Levin]]"
   - "[[Robert Slavin]]"
 related_facts:
   - "[[United States Department of Education]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -70,7 +71,7 @@ updated: 2026-10-26
 > - **州促进员中介网络（State Facilitators）** 联邦在每个州出资聘设常驻的“州促进员”，专门负责连接州内各学区校长与外州优秀项目提供者，组织现场方案路演、实地学校观摩与需求匹配诊断。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 6–7)]]
 > - **开发者输出支持（Developer-Demonstrator Grants）** 资助通过 JDRP 认证的项目研发者建立专业培训团队，负责向全国采纳学校提供配套教材、工作坊指导与持续技术援助。
 
-> [!citation-card] 斯莱文论 NDN 的制度启示
+> [!citation-card] 斯[[Ben Levin|莱文]]论 NDN 的制度启示
 > 经验表明，只要给予鼓励和适度资源，许多学校都会采纳外部开发的项目。1980 年代的国家扩散网络（National Diffusion Network）借助州促进员协助推广有前景的模型，在成千上万所学校中推广了 500 多个项目。……这些早期努力所欠缺的是绝大多数被采纳模型缺乏坚实的证据基础，而这一局限目前正被 i3、[[Education Innovation and Research\|EIR]]、[[Institute of Education Sciences\|IES]] 和 [[Education Endowment Foundation\|EEF]] 的投资迅速化解。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 6–7)]]
 >
 > *Experience is clear that with encouragement and modest resources, many schools will adopt externally developed programs. The National Diffusion Network of the 1980s reached thousands of schools with more than 500 programs, using state facilitators to help disseminate promising models. ... Lacking in these earlier efforts was a strong evidence base for most of the adopted models, but that limitation is being rapidly solved by the i3, EIR, IES, and EEF investments, among others.*

@@ -11,7 +11,7 @@ summary: "在元分析中处理复杂依赖与嵌套效应量的统计方法，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 24
+method_related_count: 25
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -45,6 +45,7 @@ related_methods:
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Multilevel Egger's Test]]"
   - "[[Inverse-Variance Weighting]]"
+  - "[[Statistical Significance]]"
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
   - "[[Argument_Wecker_2016_ZfE]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -143,7 +144,7 @@ updated: 2026-11-02
 >    $$\mathbf{X}^T \mathbf{W} \boldsymbol{\Sigma} \mathbf{W} \mathbf{X} = \sum_{j=1}^m w_j^2 \operatorname{Var}(y_j) + \sum_{j \neq k} w_j w_k \operatorname{Cov}(y_j, y_k) = \sum_{j=1}^m w_j + \sum_{j \neq k} w_j w_k \sigma_{jk}$$
 >    此时真实方差为：
 >    $$\operatorname{Var}_{\text{true}}(\hat{\boldsymbol{\beta}}) = \frac{1}{\sum w_j} + \frac{\sum_{j \neq k} w_j w_k \sigma_{jk}}{\left( \sum w_j \right)^2} > \frac{1}{\sum w_j}$$
-> 4. **后果** 经典方差完全忽略了大于零的正协方差交叉项 $\sum_{j \neq k} w_j w_k \sigma_{jk}$，导致计算出的[[Standard Error\|标准误]]虚假收缩，[[Confidence Interval\|置信区间]]严重偏窄，显著性检验假阳性率（Type-I Error）急剧膨胀。
+> 4. **后果** 经典方差完全忽略了大于零的正协方差交叉项 $\sum_{j \neq k} w_j w_k \sigma_{jk}$，导致计算出的[[Standard Error\|标准误]]虚假收缩，[[Confidence Interval\|置信区间]]严重偏窄，[[Statistical Significance|显著性检验]]假阳性率（Type-I Error）急剧膨胀。
 
 ---
 

@@ -12,7 +12,7 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ tags:
   - theme/stratification
   - theme/competition
 related_concepts:
+  - "[[Quasi-market]]"
   - "[[Quasi-markets in Higher Education]]"
   - "[[Field Images]]"
 related_theories: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!info] 内容
@@ -47,7 +48,7 @@ updated: 2026-10-22
 > [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017, pp.801–802, 806–807)]]识别了该计划的几项核心制度效应：
 
 - **陡峭化等级** 不同于英国 [[Research Excellence Framework]]（REF）覆盖所有大学的评估模式，卓越倡议创造了一种"选优"逻辑——被选中的大学获得了巨额额外资助和符号标签，未被选中的大学在资源和声望上遭受双重打击。这制造了比覆盖式评估更陡峭的等级结构
-- **准市场的制度化** 卓越倡议是[[Quasi-markets in Higher Education|高等教育准市场]]的典型案例——政府不直接分配资源，而是通过竞争性评选来间接治理。标准化产出指标（研究产出、引用数、国际知名度）被用作评选的基础
+- **[[Quasi-market|准市场]]的制度化** 卓越倡议是[[Quasi-markets in Higher Education|高等教育准市场]]的典型案例——政府不直接分配资源，而是通过竞争性评选来间接治理。标准化产出指标（研究产出、引用数、国际知名度）被用作评选的基础
 - **[[Field Images|场域图像]]的符号效应** 被标记为"卓越"不只是一项拨款，更是一个符号标签。Bloch & Mitterle 发现，在被卓越倡议认可后，研究生院的申请数量飙升——不是因为实际教育质量在短期内变化，而是因为[[Field Images|场域图像]]（"这里是卓越的"）驱动了学生和教师的选择([[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017, pp.806–807]])
 - **制度化马太效应** 卓越倡议作为制度化马太效应运作——资源向已有资源的机构进一步集中。在评选之前已经处于领先地位的大学更有可能被选为卓越大学，而额外的资助进一步扩大了领先优势
 

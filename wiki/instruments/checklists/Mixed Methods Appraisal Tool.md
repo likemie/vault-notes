@@ -7,7 +7,7 @@ aliases:
 summary: "用于系统综述中评估定性、定量与混合方法研究设计的方法学质量的标准化核查清单，包含2项通用筛选问题与针对定性、定量RCT、定量非随机、定量描述及混合方法5类设计的各5项核心准则。"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 11
+instrument_related_count: 16
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#e5e7eb"
@@ -40,17 +40,22 @@ tags:
   - mixed-methods
 related_concepts:
   - "[[Research Question]]"
+  - "[[Variable]]"
+  - "[[Document]]"
   - "[[Reliability]]"
+  - "[[School Leadership]]"
+  - "[[Research Utilization]]"
+  - "[[Higher-Order Thinking Skills]]"
 related_theories: []
 related_methods:
-  - "[[Mixed Methods Research]]"
   - "[[Systematic Review]]"
+  - "[[Mixed Methods Research]]"
   - "[[Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
   - "[[Blinding]]"
-related_instruments:
-  - "[[PRISMA]]"
+  - "[[Research Synthesis]]"
+related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
@@ -59,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-11-07
+updated: 2026-11-11
 ---
 
 ---
@@ -77,10 +82,10 @@ updated: 2026-11-07
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | 通用筛选（Screening Questions） | 2 | 考察是否有明确研究问题及数据是否足以回答该问题 | 二元筛查（通过 / 未通过；未通过则不予继续评估） |
+> | 通用筛选（Screening Questions） | 2 | 考察是否有明确[[Research Question\|研究问题]]及数据是否足以回答该问题 | 二元筛查（通过 / 未通过；未通过则不予继续评估） |
 > | [[Qualitative Research\|定性研究]]（Qualitative） | 5 | 方法取向恰当性、数据收集充分性、发现源自数据、阐释论证度及各环节连贯性 | 三分类评定（Yes / No / Can't tell），计算达标项数或百分比 |
 > | 定量[[Randomised Controlled Trials\|随机对照试验]]（Quantitative RCT） | 5 | [[Random Assignment\|随机化]]恰当性、基线均衡性、结局数据完整性、评估者[[Blinding\|盲法]]及干预依从性 | 三分类评定（Yes / No / Can't tell），计算达标项数或百分比 |
-> | 定量非随机研究（Quantitative Non-randomized） | 5 | 目标人群代表性、暴露与结局测量恰当性、结局数据完整性、混杂变量控制及干预执行度 | 三分类评定（Yes / No / Can't tell），计算达标项数或百分比 |
+> | 定量非随机研究（Quantitative Non-randomized） | 5 | 目标人群代表性、暴露与结局测量恰当性、结局数据完整性、混杂[[Variable\|变量]]控制及干预执行度 | 三分类评定（Yes / No / Can't tell），计算达标项数或百分比 |
 > | 定量描述性研究（Quantitative Descriptive） | 5 | 抽样策略相关性、样本代表性、测量工具恰当性、无应答偏倚风险及统计分析恰当性 | 三分类评定（Yes / No / Can't tell），计算达标项数或百分比 |
 > | [[Mixed Methods Research\|混合方法]]设计（Mixed Methods） | 5 | 混合设计理据、质性与定量成分有效整合、整合产出阐释、分歧解释及各成分传统规范依从性 | 三分类评定（Yes / No / Can't tell），计算达标项数或百分比 |
 
@@ -89,7 +94,7 @@ updated: 2026-11-07
 > [!instrument-items] 核查与评分规则
 > - **题项形式** 标准化方法学质量核查条目（Checklist Criteria）。
 > - **作答格式** 三分类评定（Yes = 符合标准，No = 不符合标准，Can't tell = 报告信息不足无法判断）。
-> - **筛选与评分逻辑** 必须先完成 2 项通用筛选问题；若研究未能满足筛选条件，表明该文献不属于实证研究或报告严重缺失，不作后续设计类别的质量评分。各类别不推荐计算单一机械总分，建议呈现详细的维度剖面与达标条目比率。
+> - **筛选与评分逻辑** 必须先完成 2 项通用筛选问题；若研究未能满足筛选条件，表明该[[Document|文献]]不属于实证研究或报告严重缺失，不作后续设计类别的质量评分。各类别不推荐计算单一机械总分，建议呈现详细的维度剖面与达标条目比率。
 
 ### MMAT 2018 核心核查清单
 
@@ -169,8 +174,8 @@ updated: 2026-11-07
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | MMAT 2018 版 | 109 项中小学教师与学校领导者研究使用实证文献 | 方法学质量评级与证据门槛控制 | 两位研究人员独立双盲评级并由第三方裁定分歧；41 项（38%）评 5 分，18 项（17%）评 4 分，31 项（28%）评 3 分，18 项（17%）评 2 分及以下；低质量研究发现仅在获得高质量研究佐证时方予采纳。 |
-> | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | MMAT 2018 版 | 67 项探讨生成式 AI 对大学生高阶思维影响的实证研究 | 质性、量化与混合方法多类型文献质控 | 双人独立双盲评价，初始一致性达 92%，协商达成完全共识；排除 2 项得分低于 60% 的文献，58 项（87%）达到 80% 及以上高严谨性标准。 |
+> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | MMAT 2018 版 | 109 项中小学教师与[[School Leadership\|学校领导]]者[[Research Utilization\|研究使用]]实证文献 | 方法学质量评级与证据门槛控制 | 两位研究人员独立双盲评级并由第三方裁定分歧；41 项（38%）评 5 分，18 项（17%）评 4 分，31 项（28%）评 3 分，18 项（17%）评 2 分及以下；低质量研究发现仅在获得高质量研究佐证时方予采纳。 |
+> | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | MMAT 2018 版 | 67 项探讨生成式 AI 对大学生[[Higher-Order Thinking Skills\|高阶思维]]影响的实证研究 | 质性、量化与混合方法多类型文献质控 | 双人独立双盲评价，初始一致性达 92%，协商达成完全共识；排除 2 项得分低于 60% 的文献，58 项（87%）达到 80% 及以上高严谨性标准。 |
 
 ---
 
@@ -180,4 +185,4 @@ updated: 2026-11-07
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
 > | MMAT 2011 版 | 英语（全球） | 系统综述研究人员 | 21 项（各设计类别 3–4 项 + 2 项筛选） | 确立针对定性、定量与混合方法研究的统一批判性评价框架 | Pluye et al. (2011) |
-> | MMAT 2018 版 | 英语（全球） | 系统综述与证据综合研究团队 | 27 项（5 大类别各 5 项 + 2 项筛选） | 增加定量描述性研究独立类别，完善各设计评价准则，取消机械数字打分建议，强调报告质量剖面 | Hong et al. (2018) |
+> | MMAT 2018 版 | 英语（全球） | 系统综述与[[Research Synthesis\|证据综合]]研究团队 | 27 项（5 大类别各 5 项 + 2 项筛选） | 增加定量描述性研究独立类别，完善各设计评价准则，取消机械数字打分建议，强调报告质量剖面 | Hong et al. (2018) |

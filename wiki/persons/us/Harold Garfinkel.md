@@ -6,7 +6,7 @@ summary: "美国社会学家，常人方法学（Ethnomethodology）创始人，
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Indexicality]]"
   - "[[Reflexivity]]"
   - "[[Determinism]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Discourse]]"
   - "[[Epistemology]]"
   - "[[Multiplist]]"
@@ -53,7 +54,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-10-22
 > - **1935–1939年** 在纽瓦克大学（现罗格斯大学纽瓦克分校）攻读商业与会计，在此期间接触社会学理论并确立了对日常实际操作推理的兴趣。
 > - **1939–1942年** 进入北卡罗来纳大学教堂山分校攻读社会学硕士，师从霍华德·奥杜姆（Howard W. Odum），开展跨种族人际互动与法律刑罚的实地[[Ethnography\|民族志]]调查。
 > - **1942–1946年（二战服役）** 在美国陆军航空兵服役，从事战车操作与人员培训系统的实践测试，积累了大量关于人类在危机情境中如何协调规则的经验观察。
-> - **1946–1952年** 进入哈佛大学社会关系学系攻读博士，师从[[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons）。期间深入反思帕森斯的顶层规范[[Determinism\|决定论]]，前往纽约新社会研究学院旁听[[Alfred Schutz\|阿尔弗雷德·舒茨]]（[[Alfred Schutz]]）的[[Phenomenology\|现象学]]讲座，1952年完成博士论文《感知他人行动者的知觉与反应研究》。
+> - **1946–1952年** 进入哈佛大学社会关系学系攻读博士，师从[[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons）。期间深入反思帕森斯的顶层规范[[Determinism\|决定论]]，前往纽约新社会研究学院旁听[[Alfred Schutz\|阿尔弗雷德·舒茨]]（[[Alfred Schutz]]）的[[Phenomenology\|现象学]]讲座，1952年完成[[Doctoral Dissertation|博士论文]]《感知他人行动者的知觉与反应研究》。
 > - **1954年** 在参与美国陪审团决策录音研究中正式铸造“常人方法学”（[[Ethnomethodology]]）这一学术术语，用以指称普通人理解与产生日常社会秩序的方法技巧。同年受聘为加利福尼亚大学洛杉矶分校（UCLA）助理教授并任教至1987年荣休。
 > - **1967年** 出版里程碑式代表作《常人方法学研究》（*Studies in Ethnomethodology*），在学术界掀起微观社会学海啸，全面奠定常人方法学作为独立研究流派的国际地位。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 > - **1970s–1990s** 推动“常人方法学工作研究”（Studies of Work），深入科学实验室、神经外科手术室与天文台，剖析高度专业化知识与科学事实的现场制造过程；其弟子哈维·萨克斯（Harvey Sacks）与伊曼纽尔·谢格洛夫（Emanuel Schegloff）在其启迪下开创了微观[[Conversation Analysis|会话分析]]（Conversation Analysis）。

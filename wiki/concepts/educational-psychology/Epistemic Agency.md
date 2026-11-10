@@ -7,7 +7,7 @@ aliases:
 summary: "学习者在知识建构、标准评估与探究决策中作为认知主体深度参与的能动权能，强调超越机械遵循预设程序，共同协商并塑造共同体的认识论准则，是指导式探究区别于直接讲授的核心标志"
 type: concept
 domain: "educational-psychology"
-related_count: 70
+related_count: 71
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Epistemological Understanding]]"
+  - "[[Lecturing]]"
   - "[[Working Memory]]"
   - "[[Source Evaluation]]"
   - "[[Absolutist]]"
@@ -96,7 +97,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -181,7 +182,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题二｜认识能动性是区分有效[[Inquiry-Based Learning|指导式探究]]与传统[[Direct Instruction|直接教学]]的核心分水岭并驱动深层概念建构
-> **[[Knowledge Production\|知识生成]]与概念内化机制** 探讨认识能动性在促进抽象概念转变与跨情境远迁移中的决定性作用，反思缺乏能动权的纯讲授教学局限。
+> **[[Knowledge Production\|知识生成]]与概念内化机制** 探讨认识能动性在促进抽象概念转变与跨情境远迁移中的决定性作用，反思缺乏能动权的纯[[Lecturing|讲授教学]]局限。
 
 > [!claim] [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] & Chinn & Duncan
 > **认识能动性对概念重构的实质支撑** 在[[Direct Instruction\|直接教学]]中，认识能动权几乎完全由教师垄断，学生仅负责接收与消化，容易导致知识仅停留在表层程序记忆，在长周期保持中严重衰减；而在包含有效支架的[[Inquiry-Based Learning\|探究式教学]]中，学生行使认识能动性，通过假设提出、变量协调与证据检验主动协调认知冲突，促成[[Working Memory\|工作记忆]]资源向关联认知加工的高效转化，达成直接讲授无法企及的深度概念理解与长期保持。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2–3)]]

@@ -9,7 +9,7 @@ aliases:
 summary: "从国际学校共同资格发展而来的跨国课程与质量保障体系，通过课程核心、考试评价、区域支持和公共治理协调共同标准与地方实施。"
 type: concept
 domain: "curriculum"
-related_count: 57
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Chinese Learner]]"
   - "[[Whole Person Education]]"
+  - "[[Study Abroad]]"
   - "[[Teacher Support for Students]]"
   - "[[Student Motivation]]"
   - "[[Epistemology]]"
@@ -54,6 +55,7 @@ related_instruments:
   - "[[California Critical Thinking Disposition Inventory]]"
 related_persons:
   - "[[Alec Peterson]]"
+  - "[[Michael S. Brown]]"
 related_facts:
   - "[[Chinese Academy of Sciences]]"
   - "[[International School of Geneva]]"
@@ -83,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-17
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -220,7 +222,7 @@ updated: 2026-11-03
 > **升学准备与终结性学习** 严格学术训练可以发展一般心智能力，但大学选拔偏重专门学术表现，未必覆盖行动意愿、道德判断、审美和对社会问题的回应。辅助层级的改革应由学生的后续用途决定。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 199–204)]]
 
 > [!claim] Peterson, A. D. C.
-> **缩减内容无法自动改变专业预备的取向** 高等教育的学科分化会向下影响大学选拔，教师也可能倾向提前培养未来学者。把辅助课程处理为高级课程的一部分，便于学校混班授课，却仍以继续专业学习为隐含目标。对于不再正式学习该科的学生，课程需要把已有知识转化为校外应用、持续兴趣与社会理解：未来科学从业者应能持续享受文学、历史，未来人文学科学生应理解科学如何发展及影响生活。高级学习保留学术深度，辅助学习提供这种平衡，才能兼顾大学资格与[[Whole Person Education|全人教育]]；撰写者没有主张取消学术标准或把所有课程改为应用训练。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 200–204)]]
+> **缩减内容无法自动改变专业预备的取向** 高等教育的学科分化会向下影响大学选拔，教师也可能倾向提前培养未来学者。把辅助课程处理为高级课程的一部分，便于学校混班授课，却仍以继续专业学习为隐含目标。对于不再正式学习该科的学生，课程需要把已有知识转化为校外应用、持续兴趣与社会理解：未来科学从业者应能持续享受文学、历史，未来人文学科学生应理解科学如何发展及影响生活。高级学习保[[Study Abroad|留学]]术深度，辅助学习提供这种平衡，才能兼顾大学资格与[[Whole Person Education|全人教育]]；撰写者没有主张取消学术标准或把所有课程改为应用训练。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 200–204)]]
 
 ---
 
@@ -340,7 +342,7 @@ updated: 2026-11-03
 > [[United World Colleges|联合世界书院]]（United World Colleges，UWC）的东南亚书院把[[International Baccalaureate Nutritional Science Course|国际文凭营养科学课程]]设为校内评价的第六科。学生调查当地饮食，直接接触周围社会，并综合不同学科学习处理人类问题。Peterson 认为这有助于跨越发展中国家[[International Schools|国际学校]]与周围村落、贫困城市地区的隔离，同时把社会接触放入学术文凭。[[UNESCO]] 的资助让专家与其他远东学校商讨纳入常规选项的可能；马尼拉、雅加达及香港学校表示兴趣，最终均未采用。撰写者判断主要原因是缺少合格教师，而小额资助不足以建设培训及后续会议。所读文本记述时课程仍仅作为新加坡和墨西哥城的内部第六科；这是推广受阻，有别于所有校内实践终止。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–205)]]
 
 > [!case] [[Science Technology and Social Change Curriculum Pilot|科学、技术与社会变迁]]将培训纳入课程研发
-> 在营养科学推广经验之后，1982 年提出的科学、技术与社会变迁课程试点获得英国朗特里信托和印度塔塔信托较充足支持。巴林国际学校、印度科代卡纳尔学校及东南亚书院，与适宜技术和技术援助组织、萨塞克斯及埃因霍温大学顾问共同开发。IBO 授权共同课程试验，由萨塞克斯大学迈克尔·布朗（Michael Brown）指导；巴林预备会议后，在科代卡纳尔安排三周在职培训，夏威夷洛亚学院、内罗毕圣玛丽学校及亚得里亚海书院教师也参加。撰写者预期可能扩展到更多学校，但明确其成功尚不确定。因此这一案例说明实施支持已经改变，不构成扩散成效的最终证明。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–206)]]
+> 在营养科学推广经验之后，1982 年提出的科学、技术与社会变迁课程试点获得英国朗特里信托和印度塔塔信托较充足支持。巴林国际学校、印度科代卡纳尔学校及东南亚书院，与适宜技术和技术援助组织、萨塞克斯及埃因霍温大学顾问共同开发。IBO 授权共同课程试验，由萨塞克斯大学[[Michael S. Brown|迈克尔·布朗]]（Michael Brown）指导；巴林预备会议后，在科代卡纳尔安排三周在职培训，夏威夷洛亚学院、内罗毕圣玛丽学校及亚得里亚海书院教师也参加。撰写者预期可能扩展到更多学校，但明确其成功尚不确定。因此这一案例说明实施支持已经改变，不构成扩散成效的最终证明。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–206)]]
 
 ---
 

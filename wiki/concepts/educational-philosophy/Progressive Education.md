@@ -9,7 +9,7 @@ aliases:
 summary: "以儿童发展与经验学习为核心的教育改革运动，在跨国传播中演化出民主参与、社会主义改造、实用主义提分与修辞合法化等多重再脉络化形态"
 type: concept
 domain: "educational-philosophy"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Paradigm]]"
+  - "[[Transnational Education]]"
   - "[[Constructivist Paradigm]]"
   - "[[Test-Based Accountability]]"
   - "[[Lecturing]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-10-30
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向打破教师单向灌输与机械背诵、强调儿童心理发展、自主探究、经验建构与社会参与的整体教育[[Paradigm\|范式]]。
-> - **用途** 帮助研究者解构传统与现代教学法的阵营分歧，分析跨国教育政策借用中的理念变异、教学法转译与制度张力。
+> - **用途** 帮助研究者解构传统与现代教学法的阵营分歧，分析[[Transnational Education|跨国教育]]政策借用中的理念变异、教学法转译与制度张力。
 > - **边界** 进步教育不等于无结构的放任自流，也非脱离中观社会情境的纯心理学[[Constructivist Paradigm\|建构主义]]；在硬性考核环境下，其理想型民主育人维度常受限于统一大纲与高利害[[Test-Based Accountability\|考试问责]]。
 
 > [!citation-card] 关键表述

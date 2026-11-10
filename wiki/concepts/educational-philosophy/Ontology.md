@@ -10,7 +10,7 @@ aliases:
 summary: "关于实在本质的哲学假设，决定研究者如何看待社会现象的存在方式；在教育心理学中，也指代个体对知识属性进行分类的心智认知系统。"
 type: concept
 domain: "educational-philosophy"
-related_count: 32
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -29,6 +29,8 @@ related_concepts:
   - "[[Axiology]]"
   - "[[Objectivism]]"
   - "[[Subjectivism]]"
+  - "[[Transnational Education]]"
+  - "[[Discourse]]"
   - "[[Positivism]]"
   - "[[Variable]]"
   - "[[Interpretive Paradigm]]"
@@ -37,6 +39,7 @@ related_concepts:
   - "[[Co-invention]]"
   - "[[Externalization]]"
   - "[[Knowledge Power]]"
+  - "[[Assemblage]]"
   - "[[Network Governance]]"
 related_theories:
   - "[[Complexity Theory]]"
@@ -49,6 +52,7 @@ related_persons:
   - "[[Thomas Barr Greenfield]]"
   - "[[Aristotle]]"
 related_facts:
+  - "[[Evidence Network]]"
   - "[[Chinese Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
@@ -59,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 
 ---
@@ -100,8 +104,8 @@ updated: 2026-11-09
 > - **动态[[Emergence\|涌现]]的复杂实在（Emergent Reality）** [[Complexity Theory\|复杂性理论]]确立社会实在处于永恒生成之中，呈现非线性、自组织与不可还原的系统共生属性（Kuhn, 2007）。
 > - **学习者的本体论认知（Ontological Cognition）** 心理认知结构中对知识属性的范畴分类，经历从“知识是绝对客观事实”向“知识是多重视角建构”的本体论转变[[Argument_Greene_2010_JEP\|(Greene et al., 2010, p. 237)]]。
 > - **具身存在的[[Phenomenology|现象学]]本体论（Embodied Process Ontology）** 现象学与身体哲学强调，人作为“身处世界之身体中的大脑”（brain-in-the-body-in-the-world）处于向生活世界敞开的动态生成过程之中，拒绝被还原为孤立的客体实体或可测量的认知公分母[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 4–6)]]。
-> - **空间治理与关系共生的开放本体论（Open Ontology of Spatial Governance / [[Tianxia Heuristic|Tianxia]]）** [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024, p. 1704)]] 引入非西方天下观的开放空间本体论。天下本体论将世界视作无外部边界的有机共生整体，将跨国空间治理建构为动态包容、层级与网络并存的演进秩序，超越威斯特伐利亚主权国家实体绝对二分的封闭设定，为理解跨国高等教育区域化与全球知识流动提供了全新的本体基础。
-> - **大写背景的关系性本体论（Relational Ontology of Context）** 比较教育与政策知识社会学确立背景不仅是包含政策实施的外部容器或给定的物理地理疆域（小写 context），更是由政策行动者、知识证据网络与跨国流动话语相互装配并纠缠生成的动态社会实在（大写 Context；Volmari et al., 2025）。
+> - **空间治理与关系共生的开放本体论（Open Ontology of Spatial Governance / [[Tianxia Heuristic|Tianxia]]）** [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024, p. 1704)]] 引入非西方天下观的开放空间本体论。天下本体论将世界视作无外部边界的有机共生整体，将跨国空间治理建构为动态包容、层级与网络并存的演进秩序，超越威斯特伐利亚主权国家实体绝对二分的封闭设定，为理解[[Transnational Education|跨国高等教育]]区域化与全球知识流动提供了全新的本体基础。
+> - **大写背景的关系性本体论（Relational Ontology of Context）** 比较教育与政策知识社会学确立背景不仅是包含政策实施的外部容器或给定的物理地理疆域（小写 context），更是由政策行动者、知识[[Evidence Network|证据网络]]与跨国流动[[Discourse|话语]]相互装配并纠缠生成的动态社会实在（大写 Context；Volmari et al., 2025）。
 
 > [!logic-map]- 本体论假设的光谱展开与方法论映射
 > ```mermaid

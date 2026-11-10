@@ -10,7 +10,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 32
+fact_related_count: 34
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -22,7 +22,9 @@ tags:
   - theme/open-method-of-coordination
   - theme/educational-governance
 related_concepts:
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Subsidiarity Principle]]"
+  - "[[Transnational Education]]"
   - "[[Open Method of Coordination]]"
   - "[[Lifelong Learning]]"
   - "[[Data Infrastructure]]"
@@ -63,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-28
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -71,13 +73,13 @@ updated: 2026-11-02
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2020 年 9 月[[European Commission|欧盟委员会]]发布战略公报《在 2025 年前建成欧洲教育区》（文档编号 COM(2020) 625 final）；2021 年 2 月[[EU|欧盟]]理事会正式通过决议《欧洲教育与培训合作迈向欧洲教育区及更远（2021—2030）战略框架》（2021/C 66/01）。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 856–857)]]
 > - **适用地区 / 对象** 覆盖欧盟 27 个成员国的学前教育、初等与中等教育、职业教育与培训、高等教育以及成人持续学习全生命周期体系。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, p. 858)]]
-> - **问题背景** 在[[Education and Training 2010|ET 2010]]与 [[Education and Training 2020|ET 2020]] 两轮战略规划相继收官的背景下，欧洲教育面临疫情冲击、劳动力绿色与数字双转型技能短缺、基础素养低成就群体固化等多重挑战，迫切需要确立新十年的顶层合作议程。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 853–854)]]
+> - **问题背景** 在[[Education and Training 2010|ET 2010]]与 [[Education and Training 2020|ET 2020]] 两轮战略规划相继收官的背景下，欧洲教育面临疫情冲击、劳动力绿色与数字双转型技能短缺、[[Foundational Literacy and Numeracy|基础素养]]低成就群体固化等多重挑战，迫切需要确立新十年的顶层合作议程。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 853–854)]]
 > - **制度位置** 承接自 2000 年[[Lisbon Strategy|里斯本战略]]确立的超国家教育治理体系，依托《欧洲联盟运作条约》第 165 条（教育）与第 166 条（职业培训），严格受制于[[Subsidiarity Principle|辅助性原则]]。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, p. 854)]]
 
 ---
 
 > [!claim] 政策核心
-> 欧洲教育区（EEA 2030）是欧洲联盟确立的跨国教育软治理战略框架。在严格受制于条约辅助性原则与成员国主权共识否决权的前提下，战略确立五大优先事项与七大量化基准指标，依托[[Open Method of Coordination|开放协调法]]（OMC）协同[[European Semester|欧洲学期]]国别建议及欧洲社会基金（[[English Schools Foundation Hong Kong|ESF]]+），驱动成员国教育改革朝向包容、高质量与双转型自愿靠拢。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 855–857, 858–860)]]
+> 欧洲教育区（EEA 2030）是欧洲联盟确立的[[Transnational Education|跨国教育]]软治理战略框架。在严格受制于条约辅助性原则与成员国主权共识否决权的前提下，战略确立五大优先事项与七大量化基准指标，依托[[Open Method of Coordination|开放协调法]]（OMC）协同[[European Semester|欧洲学期]]国别建议及欧洲社会基金（[[English Schools Foundation Hong Kong|ESF]]+），驱动成员国教育改革朝向包容、高质量与双转型自愿靠拢。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 855–857, 858–860)]]
 
 > [!policy-design] 政策设计
 > - **政策目标** 消除跨境学习流动制度性障碍，提升全欧教育质量与公平性，增强教师队伍专业胜任力与职业声望，支持双转型技能供给，构建贯穿全生命周期的[[Lifelong Learning|终身学习]]生态。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 860, 863)]]

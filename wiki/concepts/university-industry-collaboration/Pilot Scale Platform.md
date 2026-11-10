@@ -11,7 +11,7 @@ aliases:
 summary: "介于大学与科研机构实验室基础研发与工业规模化量产之间的关键共性技术基础设施。通过中立的测试验证线、共享微纳洁净室、湿实验室与 GMP 级中试制造环境，提供工艺可行性验证、设备成熟度评估与小批量试生产服务，是跨越技术就绪度（TRL 4–7）“死亡之谷”、降低产业链协同风险并支撑先进制造能力的核心制度载体。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 61
+related_count: 62
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -35,9 +35,9 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Technology Transfer Office]]"
   - "[[Multi-Project Wafer]]"
-  - "[[Membership-based Research Consortium]]"
   - "[[Dual-Use Technology]]"
   - "[[General Purpose Technology]]"
+  - "[[Membership-based Research Consortium]]"
   - "[[Research Universities]]"
   - "[[Paradigm]]"
   - "[[Innovation Ecosystem]]"
@@ -68,11 +68,12 @@ related_facts:
   - "[[Microelectronics Commons]]"
   - "[[DARPA]]"
   - "[[National Science Foundation]]"
-  - "[[CHIPS and Science Act]]"
-  - "[[Albany NanoTech Complex]]"
   - "[[Semiconductor Research Corporation]]"
   - "[[National Institute of Standards and Technology]]"
+  - "[[Albany NanoTech Complex]]"
   - "[[Subcommittee on Microelectronics Leadership]]"
+  - "[[International Collaborative Education Exemplary Zone]]"
+  - "[[CHIPS and Science Act]]"
   - "[[Ministry of International Trade and Industry]]"
   - "[[VLSI Project]]"
   - "[[National Strategy on Microelectronics Research]]"
@@ -87,12 +88,12 @@ related_arguments:
   - "[[Argument_Mowery_2011_NBER]]"
   - "[[Argument_Logar_2014_Minerva]]"
   - "[[Argument_Zhuo_2026_ICE]]"
-  - "[[Argument_Mody_2017_MOH]]"
   - "[[Argument_Qu_2024_IJED]]"
+  - "[[Argument_Mody_2017_MOH]]"
 confidence: high
 status: active
 created: 2026-06-05
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -197,7 +198,7 @@ updated: 2026-11-10
 
 ---
 
-> [!concept-proposition] 命题三｜开放中试设施有效弥补会员制联合体的排他缺陷并支撑重资产基础设施跨越
+> [!concept-proposition] 命题三｜开放中试设施有效弥补[[Membership-based Research Consortium|会员制联合体]]的排他缺陷并支撑重资产基础设施跨越
 > **开放准入、中小企业支持与重资产基础设施锁定** 探讨公共开放中试平台如何突破私营大企业垄断联合体的排他壁垒，支持中小初创企业。
 
 > [!claim] [[Argument_Logar_2014_Minerva|Logar et al. (2014)]]
@@ -217,7 +218,7 @@ updated: 2026-11-10
 > **产学空间共置、300毫米中试线与跨学科开放平台** 探讨[[Research Universities|研究型大学]]如何通过主导建设工业级中试线，使师生与工程师在真实设备上共置攻关。
 
 > [!claim] [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]]
-> **产学空间共置与跨学科开放设备平台降低原型导入距离** 大学依托 Albany NanoTech 建立 300 毫米晶圆制造中试平台，促成科研人员与企业工程师在真实洁净室环境中一体化完成材料研发与工艺优化，极大消除了实验室样片与量产导入之间的制度距离；MIT.nano 开放微纳加工平台面向多学科与企业统一接口，有效弥补了传统院系分割难以支撑复杂共性技术工程放大的组织缺陷。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 22–24)]]
+> **产学空间共置与跨学科开放设备平台降低原型导入距离** 大学依托 [[Albany NanoTech Complex|Albany NanoTech]] 建立 300 毫米晶圆制造中试平台，促成科研人员与企业工程师在真实洁净室环境中一体化完成材料研发与工艺优化，极大消除了实验室样片与量产导入之间的制度距离；MIT.nano 开放微纳加工平台面向多学科与企业统一接口，有效弥补了传统院系分割难以支撑复杂共性技术工程放大的组织缺陷。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 22–24)]]
 
 ---
 
@@ -233,7 +234,7 @@ updated: 2026-11-10
 > **地方政府出资、大学国际校区与成果就地中试转化** 探讨地方政府如何通过提供土地与重资产资金支持，依托大学高水平国际联合学院建立成果中试转化基地，破解县域经济向高端制造转型的技术与空间制约。
 
 > [!claim] [[Argument_Qu_2024_IJED|Qu and Dai (2024)]]
-> **国际校区中试转化基地驱动县域传统制造业升级** 针对皮革、经编等传统县域产业面临的技术锁定与结构升级困境，地方政府（如浙江海宁）规划建设 7.1 平方公里的鹃湖科技城，协同浙江大学国际联合学院（与伊利诺伊大学厄巴纳-香槟分校、爱丁堡大学合作）共建国际联合研究中心与成果转化中试基地；这一机制为国际前沿生物健康与智能工程原型提供了中试工程验证与小规模试制空间，打通了跨国前沿知识从大学实验室向县域高新产业集群就地转化的中间链条。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 6, 10)]]
+> **国际校区中试转化基地驱动县域传统制造业升级** 针对皮革、经编等传统县域产业面临的[[Path Dependence|技术锁定]]与结构升级困境，地方政府（如浙江海宁）规划建设 7.1 平方公里的鹃湖科技城，协同[[International Collaborative Education Exemplary Zone|浙江大学国际联合学院]]（与伊利诺伊大学厄巴纳-香槟分校、爱丁堡大学合作）共建国际联合研究中心与成果转化中试基地；这一机制为国际前沿生物健康与智能工程原型提供了中试工程验证与小规模试制空间，打通了跨国前沿知识从大学实验室向县域高新产业集群就地转化的中间链条。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 6, 10)]]
 
 ---
 

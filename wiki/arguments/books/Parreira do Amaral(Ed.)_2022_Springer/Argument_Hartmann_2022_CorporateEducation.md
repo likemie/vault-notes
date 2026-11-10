@@ -9,7 +9,7 @@ title: "Argument_Hartmann_2022_CorporateEducation"
 argument_key: "Argument_Hartmann_2022_CorporateEducation"
 argument_display_title: "The internationalisation of further education: Between geoeconomics and geopolitics"
 argument_kind: "book"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Soft Power]]"
   - "[[Apprenticeship]]"
+  - "[[Transnational Education]]"
   - "[[Lifelong Learning]]"
   - "[[Research Scope]]"
 related_theories:
@@ -48,7 +49,7 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-18
-updated: 2026-10-30
+updated: 2026-11-11
 year: 2022
 doi: ""
 citation_aliases:
@@ -148,7 +149,7 @@ IVET 是德国双元[[Apprenticeship|学徒制]]这类教育——学徒一半�
 
 **国际型 MNC（高整合 + 低本地响应）**
 
-这类公司总部牢牢控制全球运作，追求标准化以降低复杂性。企业教育以高度标准化的"学校型"为主，确保全球统一合规。这种模式支持 World Business 论题——公司确实能创造独立于国家的跨国教育空间。
+这类公司总部牢牢控制全球运作，追求标准化以降低复杂性。企业教育以高度标准化的"学校型"为主，确保全球统一合规。这种模式支持 World Business 论题——公司确实能创造独立于国家的[[Transnational Education|跨国教育]]空间。
 
 > 例：一家美国国际型制药公司生产"重磅炸弹"（blockbuster）药物——高度标准化的大规模生产，不需要中等技术工人有多少判断力。它的培训就像麦当劳汉堡大学——全球每一个分支的操作流程都一模一样。这类公司总部多在美国（[[Varieties of Capitalism|自由市场经济体]]），其企业教育带有美国管理实践的烙印，因此有地缘政治维度(pp.187–188)。
 

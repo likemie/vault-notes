@@ -7,7 +7,7 @@ aliases:
 summary: "研究者对研究质量的基本义务，涵盖伦理规范、数据管理、实验设计和成果报告，大学通常要求师生完成 RCR 培训作为从事研究的条件"
 type: concept
 domain: "research-methodology"
-related_count: 14
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,9 @@ related_concepts:
   - "[[Creativity]]"
   - "[[University-Industry Collaboration]]"
   - "[[Academic Freedom]]"
+  - "[[Ghost Authorship]]"
+  - "[[Guest Authorship]]"
+  - "[[Author Contribution Disclosures]]"
   - "[[Trustworthiness]]"
   - "[[Causality]]"
   - "[[Scientific Uncertainty]]"
@@ -38,7 +41,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-06-04
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -77,11 +80,11 @@ updated: 2026-10-26
 
 > [!note|notitle]
 > 署名伦理强调两项禁止行为：
-> - **幽灵作者（ghost authorship）** 对研究有实质贡献的人未被列入作者名单
-> - **赠予署名（gift authorship）** 未做实质贡献的人被列入作者名单
+> - **[[Ghost Authorship|幽灵作者]]（ghost authorship）** 对研究有实质贡献的人未被列入作者名单
+> - **[[Guest Authorship|赠予署名]]（gift authorship）** 未做实质贡献的人被列入作者名单
 
 > [!note|notitle]
-> 近年来越来越多期刊采用 **CRediT Taxonomy**（Contributor Roles Taxonomy）作为署名标准，要求所有作者精确说明各自在研究中的贡献类型（p.266）。
+> 近年来越来越多期刊采用 **CRediT Taxonomy**（[[Author Contribution Disclosures|Contributor Roles Taxonomy]]）作为署名标准，要求所有作者精确说明各自在研究中的贡献类型（p.266）。
 
 ---
 

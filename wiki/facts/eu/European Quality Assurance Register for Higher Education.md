@@ -10,7 +10,7 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Gatekeepers]]"
   - "[[Reliability]]"
+  - "[[Transnational Education]]"
   - "[[Commensuration]]"
   - "[[Epistemic Infrastructure]]"
   - "[[Document]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -60,7 +61,7 @@ updated: 2026-11-02
 > - **成立时间 / 创设背景** 2008 年依据 2005 年博洛尼亚进程卑尔根部长级会议建议正式成立，由 [[E4 Group|E4 集团]]（[[European Association for Quality Assurance in Higher Education|ENQA]]、ESU、[[Epistemological Understanding Assessment|EUA]]、EURASHE）联合发起创设；旨在解决各国质保机构可[[Reliability|信度]]参差不齐、跨国办学审查互不认可的问题。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 221, 223)]]
 > - **总部地点 / 业务辐射** 总部设于比利时布鲁塞尔，注册效力覆盖欧洲高等教育区全体 49 个成员国，成为各国高教行政部门与大学评判外部质保机构资格的权威法定参照。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 223)]]
 > - **法人属性与经费基础** 独立的国际非营利法人，资金源自成员国政府缴纳的会费、注册机构申请与年费以及[[European Commission|欧盟委员会]]的专项科研与基础设施资助。
-> - **核心宗旨与法定职责** 维护官方注册名录的公正透明，监督审查机构对 ESG 的遵守情况，增进跨国高等教育互信，降低跨国文凭认证与学生跨境流动阻碍。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 223)]]
+> - **核心宗旨与法定职责** 维护官方注册名录的公正透明，监督审查机构对 ESG 的遵守情况，增进[[Transnational Education|跨国高等教育]]互信，降低跨国文凭认证与学生跨境流动阻碍。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 223)]]
 
 ---
 

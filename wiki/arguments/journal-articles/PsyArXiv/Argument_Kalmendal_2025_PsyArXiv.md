@@ -36,6 +36,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Reproducibility Crisis]]"
   - "[[Reliability]]"
+  - "[[Homophily]]"
   - "[[Construct]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
@@ -46,6 +47,7 @@ related_concepts:
   - "[[Incommensurability]]"
   - "[[Research Topic]]"
   - "[[School Bullying]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Within-Class Grouping]]"
   - "[[Falsification]]"
   - "[[Classroom Management]]"
@@ -83,14 +85,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-16
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kalmendal_2025_PsyArXiv"
 argument_key: "Argument_Kalmendal_2025_PsyArXiv"
 argument_display_title: "Visible flaws: A comprehensive quality assessment of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 47
+argument_related_count: 49
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -122,7 +124,7 @@ issuing_organization: ""
 > | **[[Umbrella Review\|伞状综述]]方法学规范**<br>[[Umbrella Review]] | 依据国际系统评价方法学标准（如坎贝尔协作网干预综述方法学期望标准，MECCIR），评估[[Meta-meta-analysis\|二阶元分析]]在跨领域综合时的同质性、加权适切性与偏倚控制。 |
 > | **元科学可复现性框架**<br>[[Reproducibility Crisis]] | 以独立重复数据提取为检验工具，诊断知识综合基础设施在数据链条上的透明度与测量[[Reliability\|可靠性]]。 |
 
-二阶元综合的方法学基石在于底层证据的同质性与测量的一致性。理论规范表明，跨[[Research Synthesis|研究综合]]必须建立在对人群、干预机制与测量指标的严格限定之上。
+二阶元综合的方法学基石在于底层证据的[[Homophily|同质性]]与测量的一致性。理论规范表明，跨[[Research Synthesis|研究综合]]必须建立在对人群、干预机制与测量指标的严格限定之上。
 
 > [!warrant]- 理论如何支撑论证
 > 研究者通过将证据综合的黄金准则（PICO 框架与伞状综述规范）引入对二阶元分析的审计，确立了客观评价《[[Visible Learning|可见的学习]]》的外部标准。若底层元分析在人群或干预[[Construct|构念]]上存在错配，或将替代干预对比当做常规教学对照，则后续任何高阶统计合成在数学上均失去意义；再结合直接的数据复现规程，形成了概念对齐到设计同质再到提取精度与专家效度层层递进的批判闭环。
@@ -303,7 +305,7 @@ issuing_organization: ""
 > | 文献出版类型 | 纳入数量（$n$） | 占总数比例（%） |
 > |---|---|---|
 > | 期刊论文 | 1,520 | 76% |
-> | 未发表学位论文 | 275 | 14% |
+> | 未发表[[Doctoral Dissertation\|学位论文]] | 275 | 14% |
 > | 会议论文 | 97 | 5% |
 > | 专著与章节 | 44 | 2% |
 > | 研究报告 | 42 | 2% |

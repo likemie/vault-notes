@@ -10,7 +10,7 @@ summary: "一种通过系统评估文献的真实性、可靠性、意义和语�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 92
+method_related_count: 93
 method_related_level: 9
 method_related_stars: "💎💎💎"
 method_related_color: "#dbeafe"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Test Production]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Hard Policy Transfer]]"
+  - "[[Study Abroad]]"
   - "[[Epistemic Governance]]"
   - "[[Soft Power]]"
   - "[[Educational Diplomacy]]"
@@ -123,7 +124,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -229,7 +230,7 @@ updated: 2026-11-10
 > - [[Argument_Block_2008_PS|Block (2008, pp. 176–188)]] — 运用政策文献分析（Documentary Analysis）系统梳理了 1980 至 1988 年间[[United States Congress|美国国会]]立法的六项关键科技法案及相关联邦行政规程，结合联邦实验室[[Technology Transfer|技术转移]]与商业化数据，论证了去中心化[[Developmental Network State|发展型网络国家]]制度架构的历史成因。
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014, pp. 194–203)]] — 运用制度文献分析系统比对经合组织解密档案、理事会会议纪要、招标规程与可行性评估报告，解构国际组织在[[Test Production|测验生产]]早期确立全球教育治理权力的多维机制。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 结合政府白皮书、财政部与内阁府政策规程（《[[The Green Book|绿皮书]]》《紫红皮书》）以及议会特别委员会调研报告等官方政策文献，系统考察英国新工党[[Evidence-Based Policy-Making|循证决策]]治理制度对跨国政策借鉴与评估技术[[Hard Policy Transfer|硬转移]]的驱动机制。
-> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025, pp. 1047–1048)]] — 综合梳理[[Ministry of Education of the People's Republic of China|中国教育部]]与[[MOFCOM Scholarship|商务部奖学金]]政策指南、中柬高校合作谅解备忘录（MOU）、官方来华留学生统计年鉴、受援国发展合作报告以及高教 ICT 研修班日程记录等一手政策文献与机构数据，对对外高教合作机制开展三角核实。
+> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025, pp. 1047–1048)]] — 综合梳理[[Ministry of Education of the People's Republic of China|中国教育部]]与[[MOFCOM Scholarship|商务部奖学金]]政策指南、中柬高校合作谅解备忘录（MOU）、官方来华[[Study Abroad|留学]]生统计年鉴、受援国发展合作报告以及高教 ICT 研修班日程记录等一手政策文献与机构数据，对对外高教合作机制开展三角核实。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 24, 28–32)]] — 结合经合组织官方白皮书、各国教育部政策报告与大众媒体报道篇幅统计（如德国 687 个版面 vs 芬兰 8 个版面），运用政策与媒体文献分析揭示跨国测评数据的媒介化传播与国内政策合法化辩护机制。
 > - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 对[[World Bank|世界银行]]历届教育部门政策战略与《世界发展报告》展开文献引文分析，揭示多边机构从行政声明向学术化[[Epistemic Governance|认知治理]]的演变（pp. 7–8）。
 > - [[Argument_Velasco_2022_CSJ|Velasco (2022, pp. 79–86)]] — 结合中国高教改革法规、留学生统计年鉴与智库[[Soft Power|软实力]]指数开展政策文献与统计综合分析，解构[[Educational Diplomacy|教育外交]]的三大支柱与[[Geopolitics|地缘政治]]转化制约。

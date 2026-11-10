@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -24,7 +24,10 @@ tags:
   - higher-education-finance
 related_concepts:
   - "[[Research Universities]]"
+  - "[[Pragmatic Paradigm]]"
+  - "[[Paradigm]]"
   - "[[Big Science]]"
+  - "[[Little Science]]"
   - "[[Academic Freedom]]"
 related_theories:
   - "[[Social Contract of Science]]"
@@ -33,30 +36,32 @@ related_instruments: []
 related_persons:
   - "[[George Kistiakowsky]]"
 related_facts:
+  - "[[National Academy of Sciences]]"
   - "[[Committee on Science and Public Policy]]"
   - "[[United States Congress]]"
   - "[[National Science Foundation]]"
   - "[[Seaborg Report 1960]]"
+  - "[[Manhattan Project]]"
 related_arguments:
   - "[[Argument_Yang_2017_MUE]]"
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1965 年 3 月由美国国家科学院[[Committee on Science and Public Policy|科学与公共政策委员会]]（COSPUP）向美国国会正式提交并公开发布，由哈佛大学教授、COSPUP 主席[[George Kistiakowsky|乔治·基斯佳科夫斯基]]（George Kistiakowsky）统筹 15 位顶尖科学家共同编撰完成。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
+> - **发布时间 / 发布主体** 1965 年 3 月由[[National Academy of Sciences|美国国家科学院]][[Committee on Science and Public Policy|科学与公共政策委员会]]（COSPUP）向[[United States Congress|美国国会]]正式提交并公开发布，由哈佛大学教授、COSPUP 主席[[George Kistiakowsky|乔治·基斯佳科夫斯基]]（George Kistiakowsky）统筹 15 位顶尖科学家共同编撰完成。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
 > - **适用地区 / 对象** [[United States Congress|美国国会]]众议院科学与航天委员会、联邦各科学资助机构（[[National Science Foundation|NSF]] 等）、全美主要[[Research Universities|研究型大学]]基础科学系科。
-> - **问题背景** 卫星危机后美国联邦科研预算急剧扩张，国会两院习惯于从实用主义与政治考核角度审视预算产出，对于过度抽象的大学基础科研拨款心存疑虑，向科学界直接发出根本性质询：“为了美国的安全与福祉，联邦政府应该在基础研究中投入多少？”[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
-> - **制度位置** 承接 1960 年白宫《[[Seaborg Report 1960|西博格报告]]》，构成了美国历史上由顶尖科学家联合会直接向国会立法机构提供宏观科技预算顶层设计的首份标志性政策文件，开创了学术界越过行政官僚部门直接对接国会的制度新范式。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
+> - **问题背景** 卫星危机后美国联邦科研预算急剧扩张，国会两院习惯于从[[Pragmatic Paradigm|实用主义]]与政治考核角度审视预算产出，对于过度抽象的大学基础科研拨款心存疑虑，向科学界直接发出根本性质询：“为了美国的安全与福祉，联邦政府应该在基础研究中投入多少？”[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
+> - **制度位置** 承接 1960 年白宫《[[Seaborg Report 1960|西博格报告]]》，构成了美国历史上由顶尖科学家联合会直接向国会立法机构提供宏观科技预算顶层设计的首份标志性政策文件，开创了学术界越过行政官僚部门直接对接国会的制度新[[Paradigm|范式]]。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
 
 ---
 
 > [!claim] 政策核心
-> 《基础研究与国家目标》（*Basic Research and National Goals*）在联邦政策层面明确划定了[[Big Science|大科学]]与小科学的制度边界，确立小科学与大学自由基础探索的同构关系，提出联邦对小科学基础研究应维持每年 15% 的刚性复合增长率基准，为学术界抵御政治实用性干预与防范大工程对基础学科的资源挤出提供了法定测量标尺。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
+> 《基础研究与国家目标》（*Basic Research and National Goals*）在联邦政策层面明确划定了[[Big Science|大科学]]与[[Little Science|小科学]]的制度边界，确立小科学与大学自由基础探索的同构关系，提出联邦对小科学基础研究应维持每年 15% 的刚性复合增长率基准，为学术界抵御政治实用性干预与防范大工程对基础学科的资源挤出提供了法定测量标尺。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
 
 > [!policy-design] 政策设计
 > - **政策目标** 为国会编制国家科研预算提供理论依据与量化基准，保护大学分散式基础研究免受军工巨型工程与应用开发的侵蚀，确立自由基础探索在国家大战略中的优先地位。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
@@ -81,7 +86,7 @@ updated: 2026-11-04
 ---
 
 > [!actor-grid] 实施角色分工
-> - **发布主体** [[Committee on Science and Public Policy|国家科学院科学与公共政策委员会]]（COSPUP），发挥国家最高学术共同体的咨询中枢职能。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
+> - **发布主体** 国家科学院科学与公共政策委员会（COSPUP），发挥国家最高学术共同体的咨询中枢职能。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
 > - **执行主体** [[United States Congress|美国国会]]众议院科学与航天委员会接纳报告并指导拨款立法；[[National Science Foundation|NSF]] 作为主要执行载体落实资助增长。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
 > - **适用对象** 全美各[[Research Universities|研究型大学]]数理化生等基础学科系科、实验室学者。
 > - **政策工具** 15% 复合增长测算模型、学科普查报告、先进科研仪器专款。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
@@ -122,7 +127,7 @@ updated: 2026-11-04
 > [!debates] 政策争议
 >
 > > [!axis] 大科学工程与小科学基础探索的资源配额之争
-> > 探讨国家有限科研公帑应优先满足曼哈顿工程式巨型技术攻坚，抑或均衡资助大学分散自由探索的分配冲突。
+> > 探讨国家有限科研公帑应优先满足[[Manhattan Project|曼哈顿工程]]式巨型技术攻坚，抑或均衡资助大学分散自由探索的分配冲突。
 > >
 > > - **小科学支持立场（COSPUP）** 坚称大学实验室分散式的自由探索才是技术创新的底层活水，大工程若缺乏小科学支撑将沦为空壳，必须刚性保障 15% 的小科学增长率。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
 > > - **大科学与任务机构立场** 认为冷战太空竞赛与核防卫面临明确敌对威胁，唯有集中力量办大事的大型工程装置才能迅速建立威慑，纯好奇心驱动的零散小课题见效慢且难以直接问责。

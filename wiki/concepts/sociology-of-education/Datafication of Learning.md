@@ -6,7 +6,7 @@ aliases:
 summary: "指在全球量化治理与新自由主义基于结果的规制驱动下，教育系统将关注焦点从教学转移到学习，并将复杂的育人过程与认知成长还原为可追踪、可量化、跨国可比的数字流、能力指标与数据库资产的认识论与社会技术过程。"
 type: concept
 domain: "sociology-of-education"
-related_count: 35
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -30,9 +30,11 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Discourse]]"
   - "[[Governing by Numbers]]"
+  - "[[Algorithmic Bias]]"
   - "[[Cultural Capital]]"
   - "[[Visible Learning]]"
   - "[[Positivism]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Variable]]"
   - "[[Performance Indicators]]"
   - "[[Policy Brokerage]]"
@@ -60,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -156,7 +158,7 @@ updated: 2026-11-03
 
 > [!debates] 学术争议
 >
-> > [!axis] 教育公平争鸣：精准扶智诊断 vs 新型算法歧视
+> > [!axis] 教育公平争鸣：精准扶智诊断 vs 新型[[Algorithmic Bias|算法歧视]]
 > > 围绕学习数据化究竟是赋权弱势学生的诊断工具，还是固化阶层区隔的新型技术隔离机制。
 > >
 > > - **多边倡导者与数据专家** 认为细粒度的学习数据能够精准识别“[[Learning Crisis|学习贫困]]”（Learning Poverty）群体，为教育干预提供前所未有的科学针对。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 546)]]
@@ -169,7 +171,7 @@ updated: 2026-11-03
 > > - **欧陆教化（[[Bildung]]）传统学者** 抨击数据化是将生命还原为数字的“测验还原论”，导致学校彻底沦为应试与指标跑分工厂，瓦解了师生之间深沉的伦理与情感联结。
 
 > [!critique] 外部批评
-> - **数据主权侵蚀与数字新殖民主义** 全球南方的基础学习数据被[[World Bank\|世行]]、[[Building Evidence in Education\|BE2]] 联盟与西方商业平台免费吸纳、分析与垄断，而受援国却丧失了对自己国民认知数据的解释权与治理自主性。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 545–546)]]
+> - **数据主权侵蚀与数字新殖民主义** 全球南方的[[Foundational Literacy and Numeracy|基础学习]]数据被[[World Bank\|世行]]、[[Building Evidence in Education\|BE2]] 联盟与西方商业平台免费吸纳、分析与垄断，而受援国却丧失了对自己国民认知数据的解释权与治理自主性。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 545–546)]]
 
 > [!warning] 适用局限
 > 该概念聚焦于批判性制度与文化宏观社会学透视，不适合用于微观课堂环境下具体的心理测量模型参数校准或技术排障。

@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-08-06
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -48,7 +48,7 @@ updated: 2026-11-03
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调学习进程的时间同步性与跨学科认知维度的互联性。
-> - **用途** 广泛用于评估[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）项目（如中学项目（Middle Years Programme，MYP）、预科项目（Diploma Programme，DP））等强调整体教育的课程体系中，各科目与核心组件（如[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）、[[Extended Essay\|拓展文章]]（Extended Essay，EE）、[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Activity, Service，[[Chinese Academy of Sciences|CAS]]））是否形成了连贯的教育体验。
+> - **用途** 广泛用于评估[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）项目（如中学项目（Middle Years Programme，MYP）、预科项目（Diploma Programme，DP））等强调整体教育的课程体系中，各科目与核心组件（如[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）、拓展文章（[[Extended Essay]]，EE）、[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Activity, Service，[[Chinese Academy of Sciences|CAS]]））是否形成了连贯的教育体验。
 > - **边界** 它有别于单纯的多学科串行拼盘，要求学习者和教师具备跨领域建立知识链接的能力，通常需要强制的反思与协同备课机制来支撑。
 
 ---

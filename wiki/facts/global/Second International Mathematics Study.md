@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -27,44 +27,42 @@ tags:
   - iea
 related_concepts:
   - "[[Academic Achievement]]"
-  - "[[International Large-Scale Assessments]]"
   - "[[Direct Instruction]]"
+  - "[[Self-Improving School System]]"
 related_theories: []
-related_methods:
-  - "[[Trend Study]]"
-  - "[[Historical-Comparative Method]]"
+related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Gabriel Heller Sahlgren]]"
+related_persons: []
 related_facts:
   - "[[IEA]]"
+  - "[[National Science Foundation]]"
   - "[[First International Mathematics Study]]"
+  - "[[Finnish Institute for Educational Research]]"
   - "[[TIMSS]]"
-  - "[[PISA]]"
   - "[[Finnish PISA Miracle]]"
 related_arguments:
   - "[[Argument_Sahlgren_2015_CPS]]"
 confidence: high
 status: completed
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 项目定位
-> 第二届国际数学研究（Second International Mathematics Study, SIMS）是由[[IEA|国际教育成就评价协会]]（IEA）在 1980 至 1982 年主持开展的第二轮全球多国大规模标准化数学学业成就比较项目，覆盖全球 20 余个国家与地区的数十万名中小学生，首创三级课程架构与“学习机会”（Opportunity to Learn, OTL）微观度量模型。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 13–15)]]
+> 第二届国际数学研究（Second International Mathematics Study, SIMS）是由[[IEA|国际教育成就评价协会]]（IEA）在 1980 至 1982 年主持开展的第二轮全球多国大规模标准化数学[[Academic Achievement|学业成就]]比较项目，覆盖全球 20 余个国家与地区的数十万名中小学生，首创三级课程架构与“学习机会”（Opportunity to Learn, OTL）微观度量模型。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 13–15)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1976 年启动国际研制，1980 至 1982 年开展多国实地抽样测试，1987 至 1989 年由佩加蒙出版社（Pergamon Press）正式出版三卷本国际实证报告。
-> - **发起方与资助机制** 由 IEA 国际技术委员会与美国伊利诺伊大学香槟分校国际协调中心牵头，受美国国家科学基金会（NSF）、各参测国教育部以及国际信托基金联合资助。
+> - **发起方与资助机制** 由 IEA 国际技术委员会与美国伊利诺伊大学香槟分校国际协调中心牵头，受[[National Science Foundation|美国国家科学基金会]]（NSF）、各参测国教育部以及国际信托基金联合资助。
 > - **覆盖范围与对象** 涵盖全球 20 余个发达工业化与发展中国家及地区（包括芬兰、日本、法国、英格兰与威尔士、美国、比利时、新西兰、瑞典、泰国等），测试 13 岁初中低年级群体（群组 A）与高中毕业年级群组（群组 B）。
 > - **核心问题导向** 追踪 1960 年代[[First International Mathematics Study|第一届国际数学研究]]（FIMS）以来的跨期学业演进趋势，探究不同国家初中数学大纲实施广度、课堂教师讲解策略对认知掌握的微观因果贡献。
 
 ---
 
 > [!claim] 核心机制假说
-> 通过建立“意向课程（Intended Curriculum）— 实施课程（Implemented Curriculum）— 获得课程（Attained Curriculum）”的三级解析模型，实证检验教师在课堂上对大纲知识点的显性覆盖与直接讲授时长对学生最终测验得分的独立决定力。
+> 通过建立“意向课程（Intended Curriculum）— 实施课程（Implemented Curriculum）— 获得课程（Attained Curriculum）”的三级解析模型，实证检验教师在课堂上对大纲知识点的显性覆盖与[[Direct Instruction|直接讲授]]时长对学生最终测验得分的独立决定力。
 
 > [!policy-design] 方案设计
 > - **测量对象界定** 群组 A 为 13.0 至 13.11 岁学生（对应九年制学校八年级），考察义务教育中段的大众普及素养；群组 B 为中等教育最终年级修读高阶数学的学生（准备升入大学理科），考察精英数学能力。
@@ -89,7 +87,7 @@ updated: 2026-11-07
 
 > [!actor-grid] 实施协同矩阵
 > - **国际统筹中心** IEA 国际理事会与伊利诺伊大学国际研究中心。
-> - **国家执行研究机构** 各参测国大学教育研究中心（如芬兰于韦斯屈莱大学教育研究所）。
+> - **国家执行研究机构** 各参测国大学教育研究中心（如芬兰[[Finnish Institute for Educational Research|于韦斯屈莱大学教育研究所]]）。
 > - **基层受试样本** 20 余国数千所中学、一线数学教师及抽检学生。
 
 ---
@@ -105,6 +103,6 @@ updated: 2026-11-07
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[First International Mathematics Study]] | 项目 | 前序奠基研究，与 SIMS 共同构成跨期测试比较基准。 |
-> | [[TIMSS]] | 项目 | 承接 SIMS 与 SISS（科学研究）发展而来的四年周期性长期测评框架。 |
+> | [[TIMSS]] | 项目 | 承接 SIMS 与 [[Self-Improving School System\|SISS]]（科学研究）发展而来的四年周期性长期测评框架。 |
 > | [[Direct Instruction]] | 概念 | SIMS 的学习机会数据为教师显性讲授的认知有效性提供了量化证据。 |
 > | [[Finnish PISA Miracle]] | 事实 | SIMS 成绩证实芬兰教育飞跃发生在旧集权时期，为解构神话提供关键依据。 |

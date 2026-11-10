@@ -64,6 +64,7 @@ related_methods:
   - "[[Semi-structured Interview]]"
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
+  - "[[Instrumental Variables]]"
   - "[[Cost-Benefit Analysis]]"
 related_instruments: []
 related_persons: []
@@ -83,14 +84,14 @@ sources:
   - "[[sources/Ginsberg_2024_EducPolicy/Ginsberg_2024_EducPolicy|Ginsberg_2024_EducPolicy]]"
 status: stable
 created: 2026-09-17
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Ginsberg_2024_EducPolicy"
 argument_key: "Argument_Ginsberg_2024_EducPolicy"
 argument_display_title: "Does ESSA assure the use of evidence-based educational practices? Educational Policy, 38(1), 161–185"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -344,7 +345,7 @@ issuing_organization: ""
 > - **单学区微观样本限制** 研究聚焦于一所特大型南部城市学区（SUD），其人口结构（少数族裔与贫困生比例极高）与资金统筹模式可能不同于中小型或农村学区，影响结论的普适性。
 > - **校级支出样本代表性局限** 校级详细实践分析基于由学区推荐的 4 所典型学校，虽覆盖小初高不同学段，但可能未能穷尽全学区 200 余所学校所有个性化采购。
 > - **检索范围局限于四大公开数据库** 证据检索限定于 [[What Works Clearinghouse\|WWC]]、[[Evidence for ESSA]]、[[Education Endowment Foundation\|EEF]] 和 [[Education Resources Information Center\|ERIC]] 四大公开平台，虽贴近学区决策者的真实检索场景，但未穷尽 PsycINFO 等专业商业付费文献库。
-> - **排除 Tier IV 理论依据层级** 因无法清晰[[Operationalization\|操作化]]何为合格的基于高质量研究或积极评价的理论逻辑，研究排除了 Tier IV 证据，可能低估了早期创新实践的理论支持度。
+> - **排除 Tier [[Instrumental Variables|IV]] 理论依据层级** 因无法清晰[[Operationalization\|操作化]]何为合格的基于高质量研究或积极评价的理论逻辑，研究排除了 Tier IV 证据，可能低估了早期创新实践的理论支持度。
 > - **缺乏直接因果影响检验** 研究旨在量化审计资金分配在证据等级上的分布与纵向变动，未直接建立学区资金转移与学生标准化测验成绩增值之间的微观因果模型。
 
 ---

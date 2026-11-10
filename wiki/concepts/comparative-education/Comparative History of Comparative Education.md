@@ -7,10 +7,10 @@ aliases:
 summary: "比较教育学学科史编纂方法论纲领，主张超越孤立的国别学科史与合法性起源神话，将比较视野、多中心历史、边缘学者与批判史学反思引入学科发展研究"
 type: concept
 domain: "comparative-education"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - subject/comparative-education
   - theme/historiography
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Disciplinary Institutionalization]]"
   - "[[Positivism]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Early-Career Researchers]]"
   - "[[Document]]"
   - "[[Empiricism]]"
   - "[[Proto-Scientific Motif]]"
@@ -42,6 +43,7 @@ related_theories:
   - "[[Critical Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Cognitive Extent]]"
   - "[[Archival Research]]"
 related_instruments: []
 related_persons:
@@ -64,13 +66,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Comparative History of Comparative Education
-> 比较教育学的比较史（Comparative History of Comparative Education）是指将比较[[Analytic Framework\|分析框架]]、多元区域脉络与批判史学反思引入比较教育学（Comparative Education, CE）学科自身演变历程的[[Paradigm\|研究范式]]。它主张超越单一国别或英美中心主义的线性起源神话，将学科的制度化历程、元[[Epistemology\|认识论假设]]（Meta-Epistemic Assumptions）、跨国学术网络与被遮蔽的历史主体（包括女性学者与非西方地区经验）置于动态的比较视野中展开考察，以此揭示学科[[Knowledge Production\|知识生产]]的社会建构本质与历史偶联性[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 8–9)]]。
+> 比较教育学的比较史（Comparative History of Comparative Education）是指将比较[[Analytic Framework\|分析框架]]、多元区域脉络与批判史学反思引入比较教育学（Comparative Education, [[Cognitive Extent|CE]]）学科自身演变历程的[[Paradigm\|研究范式]]。它主张超越单一国别或英美中心主义的线性起源神话，将学科的制度化历程、元[[Epistemology\|认识论假设]]（Meta-Epistemic Assumptions）、跨国学术网络与被遮蔽的历史主体（包括女性学者与非西方地区经验）置于动态的比较视野中展开考察，以此揭示学科[[Knowledge Production\|知识生产]]的社会建构本质与历史偶联性[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 8–9)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向对比较教育学学科史编纂本身的方法论与历史诠释学审视。
@@ -95,7 +97,7 @@ updated: 2026-11-03
 > | **分析对象** | 比较教育学学科自身的多元演进轨迹、跨国学者网络、被遮蔽的边缘经验与深层档案 | 以英美和西欧为核心的[[Disciplinary Institutionalization\|学科制度化]]里程碑、标志性院系建立与经典教材谱系 | 学科集体记忆中被神圣化的先驱图腾、经典演说与开山宪章 |
 > | **核心机制** | 批判史学反思、解构起源神话、由当下与未来危机重塑历史提问逻辑 | 辉格史叙事、功能性合法化建构、将学科演进裁剪为向实证科学单向迈进的序列 | 传统的发明、去语境化拔高、象征符号化与英雄主义叙事 |
 > | **[[Epistemology\|认识论假设]]** | [[Knowledge Production\|知识生产]]具有历史偶联性、社会建构性与多元中心特征，拒绝单一普适模板 | [[Positivism\|实证主义]]科学进步信念，假定学科发展具有线性不可逆的成熟轨迹 | 象征[[Constructivist Paradigm\|建构主义]]，认为学科共同体需要神圣符号维系专业认同与纯洁性 |
-> | **学术功能与局限** | 破除西方中心与男性垄断，提供多元批判反思视野；依赖深度档案挖掘，面临资源匮乏挑战 | 为初建学科争取院系席位、科研资助与青年学者职业归属感；严重遮蔽历史复杂性 | 维系学科共同体的内部凝聚力；易导致思想盲从并推迟对理论断裂处的审视 |
+> | **学术功能与局限** | 破除西方中心与男性垄断，提供多元批判反思视野；依赖深度档案挖掘，面临资源匮乏挑战 | 为初建学科争取院系席位、科研资助与[[Early-Career Researchers\|青年学者]]职业归属感；严重遮蔽历史复杂性 | 维系学科共同体的内部凝聚力；易导致思想盲从并推迟对理论断裂处的审视 |
 
 ---
 

@@ -5,7 +5,7 @@ aliases:
 summary: "Knight 界定的分析概念，指通过高等教育、科学研究与创新合作建立国家间互信互惠关系，超越零和博弈以协同应对全球共同危机。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 32
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -23,8 +23,10 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Knowledge Power]]"
   - "[[Geopolitics]]"
+  - "[[Study Abroad]]"
   - "[[People-to-People Connectivity]]"
   - "[[Paradigm]]"
+  - "[[Transnational Education]]"
   - "[[Discourse]]"
   - "[[Hard Power]]"
   - "[[Developmentalism]]"
@@ -59,7 +61,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-29
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -89,7 +91,7 @@ updated: 2026-11-03
 > | **核心价值追求** | 双向对等互惠，协同应对全球重大危机 | 提升单向吸引力与文化感召力 | 确立知识领导地位与重塑国际治理规则 |
 > | **[[Geopolitics\|地缘政治]]逻辑** | 非零和博弈，追求多边共同收益 | 潜在零和博弈，通过吸引塑造他者偏好 | 纵向非对称影响力培育与战略规则主导 |
 > | **组织网络形态** | 开放包容的大众化多边高校联盟 | [[Confucius Institute\|孔子学院]]、文化中心与海外单向奖学金 | 排他性、高门槛的精英旗舰大学网络 |
-> | **典型代表案例** | [[University Alliance of the Silk Road\|丝绸之路大学联盟]]（UASR） | 传统国家形象推广与单向留学生项目 | [[Asian Universities Alliance\|亚洲大学联盟]]（AUA） |
+> | **典型代表案例** | [[University Alliance of the Silk Road\|丝绸之路大学联盟]]（UASR） | 传统国家形象推广与单向[[Study Abroad\|留学]]生项目 | [[Asian Universities Alliance\|亚洲大学联盟]]（AUA） |
 
 ---
 
@@ -110,7 +112,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题一｜知识外交提供超越地缘博弈的非零和国际合作[[Paradigm|范式]]
-> **合作[[Paradigm|范式]]的价值革新** 该命题探讨知识外交如何打破传统现实主义地缘竞争框架，为跨国高等教育交流确立以对等互惠为核心的全新合法性基础。
+> **合作[[Paradigm|范式]]的价值革新** 该命题探讨知识外交如何打破传统现实主义地缘竞争框架，为[[Transnational Education|跨国高等教育]]交流确立以对等互惠为核心的全新合法性基础。
 
 > [!claim] [[Jane Knight|Knight, J.]]
 > **多边知识协作解构传统[[Soft Power|软实力]]的零和博弈** 跨境高等教育合作属于以互信互惠和共同应对全球挑战为导向的外交实践。传统的软实力视角将教育交流视为国家扩大单向文化影响力的竞争工具，而知识外交则强调所有参与主体在[[Knowledge Production|知识生产]]与经验互鉴中的对等获益，为多边教育交往提供了非零和的价值合法性。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]

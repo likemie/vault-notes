@@ -11,7 +11,7 @@ subtype: event
 region: russia
 fact_region: "russia"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -33,6 +33,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Bibliometric Analysis]]"
+  - "[[Natural Experiment]]"
   - "[[Difference-in-Differences]]"
 related_instruments: []
 related_persons:
@@ -45,13 +46,13 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定性
-> 苏联解体引发的苏联顶尖数学家外流，是 20 世纪下半叶规模最大的国际科技人才单向大迁徙事件之一；它为[[Bibliometric Analysis|科学计量学]]与劳动经济学评估同伴效应中的知识溢出机制与学术竞争动态提供了极为罕见的外生准自然实验场景。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 99–100)]]
+> 苏联解体引发的苏联顶尖数学家外流，是 20 世纪下半叶规模最大的国际科技人才单向大迁徙事件之一；它为[[Bibliometric Analysis|科学计量学]]与劳动经济学评估同伴效应中的知识溢出机制与学术竞争动态提供了极为罕见的外生[[Natural Experiment|准自然实验]]场景。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 99–100)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1991 至 2000 年代初，发源于莫斯科、圣彼得堡及[[Akademgorodok|新西伯利亚科学城]]，波及全美与西欧顶级数学教研机构。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 99)]]

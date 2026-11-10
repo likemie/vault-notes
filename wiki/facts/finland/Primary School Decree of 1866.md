@@ -27,24 +27,24 @@ tags:
   - primary-education
 related_concepts:
   - "[[Kansankynttilä]]"
-  - "[[Herbart-Zillerist Pedagogy]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Uno Cygnaeus]]"
   - "[[Johan Vilhelm Snellman]]"
 related_facts:
   - "[[Jyväskylä Teacher Seminary]]"
-  - "[[Fennoman Movement]]"
+  - "[[National Board of General Education in Finland]]"
   - "[[Compulsory Education Act 1921]]"
-  - "[[Parallel School System in Finland]]"
 related_arguments:
   - "[[Argument_Sahlgren_2015_CPS]]"
 confidence: high
 status: completed
 created: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-11
 ---
 
 ---
@@ -52,7 +52,7 @@ updated: 2026-11-07
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1866 年 5 月 11 日由沙皇亚历山大二世批准、芬兰大公国参议院正式颁布《关于芬兰国民学校制度之组织的法令》（*Förordning angående folkskoleväsendets i Finland organisation*）。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–22)]]
 > - **适用地区 / 对象** 芬兰大公国全境城乡各级地方市镇、初等教育适龄儿童及师范讲习所学员。
-> - **问题背景** 19 世纪中叶芬兰初等教育极度落后且完全受制于路德宗教区教会，教学局限于认字与教理问答；芬诺曼知识精英深受黑格尔国家哲学启发，急需通过世俗化教育培育现代芬兰民族意识。
+> - **问题背景** 19 世纪中叶芬兰初等教育极度落后且完全受制于路德宗教区教会，教学局限于认字与教理问答；芬诺曼知识精英深受[[Georg Wilhelm Friedrich Hegel|黑格尔]]国家哲学启发，急需通过世俗化教育培育现代芬兰民族意识。
 > - **制度位置** 芬兰历史上第一部专门规范初等教育的系统性法规，终结了教会对学校教育的排他性控制，开创了现代世俗国家教育行政体制。
 
 ---
@@ -67,7 +67,7 @@ updated: 2026-11-07
 > - **约束机制** 虽未立即推行强制入学（Compulsory Attendance），但严格规定接受国家资助的学校必须聘用经由国家正规师范讲习所结业认证的合格师资。
 
 > [!citation-card] 世俗初等教育的法制诞生
-> 《1866年国民学校法令》标志着芬兰教育彻底摆脱教会庇护、成为现代民族国家建构的核心支柱。根据乌诺·西格纽斯确立的大纲，学校的首要任务是教育儿童刻苦认真工作并遵守严明纪律，投身公立教育的教师因而被全社会赋予了神圣的民族启蒙使命。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–21, 40)]]
+> 《1866年国民学校法令》标志着芬兰教育彻底摆脱教会庇护、成为现代民族国家建构的核心支柱。根据[[Uno Cygnaeus|乌诺·西格纽斯]]确立的大纲，学校的首要任务是教育儿童刻苦认真工作并遵守严明纪律，投身公立教育的教师因而被全社会赋予了神圣的民族启蒙使命。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–21, 40)]]
 >
 > *According to Uno Cygnaeus's educational programme, the primary task of schools was to educate children to work hard and seriously, then to follow strict discipline and behave obediently.*
 
@@ -77,8 +77,8 @@ updated: 2026-11-07
 > - **1858–1861** 西格纽斯受参议院委托赴西欧考察初等教育，提交系统建制报告《关于芬兰国民学校制度的提案》。
 > - **1863** 为该法令落地储备专业师资，西格纽斯先行创办[[Jyväskylä Teacher Seminary|于韦斯屈莱师范学院]]。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 24)]]
 > - **1866** 参议院正式颁布法令，并在随后设立专门的世俗学校管理部门。
-> - **1869** 成立世俗的芬兰最高学校管理局（Skolstyrelsen），全面接管全国学校行政管辖权。
-> - **1921** 法令所奠定的市镇校舍与师资网络，为最终出台[[Compulsory Education Act 1921|1921年义务教育法]]提供了不可或缺的制度基础。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 21–22)]]
+> - **1869** 成立世俗的[[National Board of General Education in Finland|芬兰最高学校管理局]]（Skolstyrelsen），全面接管全国学校行政管辖权。
+> - **1921** 法令所奠定的市镇校舍与师资网络，为最终出台1921年义务教育法提供了不可或缺的制度基础。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 21–22)]]
 
 ---
 
@@ -91,7 +91,7 @@ updated: 2026-11-07
 ---
 
 > [!finding-cards] 历史制度影响与评价
-> - **手工劳作（Slöjd）的国际范式创立** 法令在全球教育史上首开先河，将手工劳作（木工、编织、器具修理）确立为全体国民儿童的必修核心科目，该模式迅速被瑞典、英国及北美广泛借用，成为欧洲工艺教育运动（Manual Training Movement）的灵感母体。
+> - **手工劳作（Slöjd）的国际[[Paradigm|范式]]创立** 法令在全球教育史上首开先河，将手工劳作（木工、编织、器具修理）确立为全体国民儿童的必修核心科目，该模式迅速被瑞典、英国及北美广泛借用，成为欧洲工艺教育运动（Manual Training Movement）的灵感母体。
 > - **乡村教育网络的渐进铺设** 克服了保守农业阶层对增税办学的抵触，至 1900 年代全芬兰已建成数千所世俗国民学校，乡村儿童入学率从接近于零提升至三分之一以上，为后发工业化储备了高素养劳动力。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 21)]]
 > - **教师神圣威望的制度确立** 赋予教师国家级专业人员地位，使之与牧师、医生并列为地方乡村社会的三大权威支柱，为芬兰教育长达一个多世纪吸引顶尖生源从教筑牢了制度根基。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 19–21)]]
 

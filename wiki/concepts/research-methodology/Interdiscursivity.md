@@ -7,7 +7,7 @@ aliases:
 summary: "批判话语分析的核心分析概念，由诺曼·费尔克拉夫基于巴赫金互文理论提出。指特定文本或话语实践中不同体裁、话语类型与风格之间复杂的相互渗透与异质性杂糅；作为连接微观文本语言特征与宏观社会权力结构的分析枢纽，既表征制度变迁与话语秩序重构的动态过程，也在政策实践中被用于融合外交、经济与教育等多重领域话语，赋予国家战略行动以正当性修辞。"
 type: concept
 domain: "research-methodology"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Grand Theory]]"
   - "[[People-to-People Connectivity]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[Transnational Education]]"
   - "[[Education Going Global]]"
   - "[[Operationalization]]"
   - "[[Reliability]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-19
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -126,7 +127,7 @@ updated: 2026-11-03
 > **政策正当化与意识形态遮蔽** 跨国战略政策在推进过程中往往面临地缘对抗、主权敏感性与利益失衡的风险。决策层借助互话语实践，将政治与经济的硬性扩张需求转译为中立友善的社会文化交流语言，从而达成平滑推进行动并吸纳合法性质疑的治理目标。
 
 > [!claim] Woo, E.
-> **多领域话语互穿服务于国家大局并赋予战略行动正当性** 政策文本将表层的多边合作修辞与深层的地缘经济布局融为一体。中国[[Belt and Road Initiative|一带一路]]教育政策话语在文本表层强调多边教育交流、文化互鉴与[[People-to-People Connectivity|民心相通]]等激励性修辞，在深层话语实践中则将高职院校与海外工程基建紧密捆绑、将重点高校与战略科研攻关对接，实现了外交地缘战略、产业产能出海与[[Internationalization of Higher Education|高等教育国际化]]三类[[Heterogeneity|异质性]]话语的深度互穿。这种互话语建构既有效赋予了国家跨国教育布局以崇高的道德正当性，又为地缘经济战略的稳步落地提供了制度化工具。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–682, 684–687)]]
+> **多领域话语互穿服务于国家大局并赋予战略行动正当性** 政策文本将表层的多边合作修辞与深层的地缘经济布局融为一体。中国[[Belt and Road Initiative|一带一路]]教育政策话语在文本表层强调多边教育交流、文化互鉴与[[People-to-People Connectivity|民心相通]]等激励性修辞，在深层话语实践中则将高职院校与海外工程基建紧密捆绑、将重点高校与战略科研攻关对接，实现了外交地缘战略、产业产能出海与[[Internationalization of Higher Education|高等教育国际化]]三类[[Heterogeneity|异质性]]话语的深度互穿。这种互话语建构既有效赋予了国家[[Transnational Education|跨国教育]]布局以崇高的道德正当性，又为地缘经济战略的稳步落地提供了制度化工具。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–682, 684–687)]]
 
 ---
 

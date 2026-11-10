@@ -11,9 +11,9 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
   - fact/event
@@ -21,6 +21,7 @@ tags:
   - theme/peer-effects
   - theme/sociology-of-education
 related_concepts:
+  - "[[Professional Interest]]"
   - "[[Champ]]"
   - "[[Peer Effects in Science]]"
   - "[[Peer-Supported Learning]]"
@@ -39,13 +40,13 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定性
-> 孟母三迁是中国古代教育史与儒家经典叙事中流传最广的幼年教化典故，它在人类思想史上极早确立了微观社交生态、物理邻里环境与同辈模仿效应对个体认知与志趣塑造的决定性力量。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 96)]]
+> 孟母三迁是中国古代教育史与儒家经典叙事中流传最广的幼年教化典故，它在人类思想史上极早确立了微观社交生态、物理邻里环境与同辈模仿效应对个体认知与[[Professional Interest|志趣]]塑造的决定性力量。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 96)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 约公元前 4 世纪（战国中期），发生于中国邹国（今山东省邹城市）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 96)]]

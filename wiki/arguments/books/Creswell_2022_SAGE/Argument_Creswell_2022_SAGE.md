@@ -7,7 +7,7 @@ title: "Argument_Creswell_2022_SAGE"
 argument_key: "Argument_Creswell_2022_SAGE"
 argument_display_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_kind: "book"
-argument_related_count: 195
+argument_related_count: 199
 argument_related_level: 19
 argument_related_stars: "💎💎💎💎💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -68,6 +68,7 @@ related_concepts:
   - "[[Open-Ended and Closed-Ended Data]]"
   - "[[Metainferences]]"
   - "[[Integration Statement]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Document]]"
   - "[[Emergence]]"
   - "[[Determinism]]"
@@ -89,8 +90,11 @@ related_concepts:
   - "[[Interpretivism]]"
   - "[[Time Management]]"
   - "[[Narrative Thought Types]]"
+  - "[[Guest Authorship]]"
+  - "[[Ghost Authorship]]"
   - "[[Self-Efficacy]]"
   - "[[Descriptive Research Question]]"
+  - "[[Homophily]]"
   - "[[Paradigm]]"
   - "[[Open-Mindedness]]"
   - "[[STEM Education]]"
@@ -225,7 +229,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-30
-updated: 2026-10-30
+updated: 2026-11-11
 year: 2022
 doi: ""
 citation_aliases:
@@ -262,7 +266,7 @@ citation_aliases:
 > “本书提出了一套框架、过程和写作方法，用于在人类科学、健康科学和社会科学领域设计质性、量化和混合方法研究计划或项目。”
 > ("This book advances a framework, a process, and compositional approaches for designing a proposal or research project for qualitative, quantitative, and [[Mixed Methods Research]] in the human, health, and social sciences.")（前言）
 
-教材面向需要撰写期刊论文、学位论文、开题报告或资助申请的学生和教师，也可作为研究方法课程的教材和参考书。书中术语在正文中高亮，书末附有术语表。读者群体广泛，涵盖人文、健康和社会科学的多个领域。
+教材面向需要撰写期刊论文、[[Doctoral Dissertation|学位论文]]、开题报告或资助申请的学生和教师，也可作为研究方法课程的教材和参考书。书中术语在正文中高亮，书末附有术语表。读者群体广泛，涵盖人文、健康和社会科学的多个领域。
 
 > [!quote|notitle]
 > “本书不是一本详细的方法论教材；相反，我们强调研究设计的核心特征。我们试图将研究简化为其核心理念，以便研究者能够规划一项彻底而深思熟虑的研究。”
@@ -787,7 +791,7 @@ Rossman and Rallis (2012) 将批判和后现代视角概括为四个相互关联
 > ("Research involves collecting data from and about people, leading to difficult ethical issues. Writing about these ethical issues is a cornerstone of good research writing.")（第4章）
 
 核心制度包括查阅专业协会伦理守则、通过 [[Institutional Review Board|IRB]] 审批、获得 [[Informed Consent|知情同意]]。
-关键原则包括避免赠予署名和幽灵署名(Israel & Hay, 2006)、识别权力失衡、避免剥削参与者、完整报告发现、不得重复或拆分发表，以及通过个人协议明确数据所有权归属(Berg, 2001; Punch, 2014)。
+关键原则包括避免[[Guest Authorship|赠予署名]]和[[Ghost Authorship|幽灵署名]](Israel & Hay, 2006)、识别权力失衡、避免剥削参与者、完整报告发现、不得重复或拆分发表，以及通过个人协议明确数据所有权归属(Berg, 2001; Punch, 2014)。
 
 ---
 
@@ -1060,7 +1064,7 @@ Script 是一种填空式模板工具，将质性目的陈述的所有要素串�
 > “我们经常会问：‘你想要探索的那唯一一个单一概念是什么？’”
 > ("We often ask, 'What is the one single concept that you want to explore?'")（第7章）
 
-不同质性路径对研究问题有各自的规范：
+不[[Homophily|同质性]]路径对研究问题有各自的规范：
 
 | 质性路径 | 研究问题的特征 | 关键来源 |
 |---|---|---|

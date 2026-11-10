@@ -10,7 +10,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Further Education]]"
   - "[[Language Skills]]"
+  - "[[Transnational Education]]"
   - "[[Red Tape]]"
   - "[[Bureaucracy]]"
   - "[[Open Method of Coordination]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -103,7 +104,7 @@ updated: 2026-10-30
 ---
 
 > [!finding-cards] 效果与评价
-> - **制度化跨国教育流动网络的建立** 奠定了全欧高校与中小学校际跨国合作的基础设施，显著提升了欧洲青年人口的跨国流动性与跨文化交往。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 485)]]
+> - **制度化[[Transnational Education|跨国教育]]流动网络的建立** 奠定了全欧高校与中小学校际跨国合作的基础设施，显著提升了欧洲青年人口的跨国流动性与跨文化交往。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 485)]]
 > - **科层行政繁琐与官僚膨胀瓶颈** 后期评估暴露严重弊端，被学术界与政策界批评为管理效率低下且充斥着不成比例的[[Red Tape|繁文缛节]]（disproportionate [[Bureaucracy|bureaucracy]]）。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 486)]]
 > - **难以撬动国家教育宏观体制趋同** 单纯依靠项目申报模式无法直接促成成员国宏观教育体制的结构性趋同，促使欧盟转向里斯本[[Open Method of Coordination|开放协调法]]。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 486, 490)]]
 

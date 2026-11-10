@@ -33,6 +33,7 @@ related_concepts:
   - "[[Illusion of Competence]]"
   - "[[Epistemology]]"
   - "[[Data Literacy]]"
+  - "[[Algorithmic Bias]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Scientific Literacy]]"
   - "[[Nature of Science]]"
@@ -57,7 +58,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemic Agency]]"
   - "[[Epistemic Dependence]]"
-  - "[[Interaction Effect]]"
 related_theories: []
 related_methods:
   - "[[Triangulation]]"
@@ -73,7 +73,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 （人工智能素养）
@@ -99,7 +99,7 @@ updated: 2026-11-03
 > *AI literacy training empowers students to critically examine outputs rather than passively accept them... fostering the epistemic vigilance needed for synergistic higher-order thinking.*
 
 > [!boundary]- 概念边界辨析
-> - **[[Data Literacy\|数据素养]]（Data Literacy）** 数据素养侧重于数据采集、统计图表解读、概率推断与风险评估，是 AI 素养的数理基础；AI 素养进一步聚焦于深度学习黑箱、大语言模型生成逻辑、算法偏见与[[Man-Computer Symbiosis|人机协同]]认知分工。
+> - **[[Data Literacy\|数据素养]]（Data Literacy）** 数据素养侧重于数据采集、统计图表解读、概率推断与风险评估，是 AI 素养的数理基础；AI 素养进一步聚焦于深度学习黑箱、大语言模型生成逻辑、[[Algorithmic Bias|算法偏见]]与[[Man-Computer Symbiosis|人机协同]]认知分工。
 > - **[[Scientific Literacy\|科学素养]]（Scientific Literacy）** 科学素养涵盖对自然现象的实证探究、假说检验与[[Nature of Science\|科学本质]]理解；AI 素养是科学素养在智能化时代的延伸，强调如何利用智能工具赋能科学探究而非侵蚀实证精神。
 > - **[[Computational Thinking\|计算思维]]（Computational Thinking）** 计算思维强调问题分解、模式识别、抽象建模与算法设计；AI 素养更偏向技术使用者对黑箱系统的认识论评估、对话策略与社会伦理审视。
 

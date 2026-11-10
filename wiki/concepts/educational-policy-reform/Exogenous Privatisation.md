@@ -10,7 +10,7 @@ aliases:
 summary: "由斯蒂芬·鲍尔与德博拉·尤德尔界定的教育私有化核心形态，特指通过合同承包、公私伙伴关系（PPP）、特许学校以及购买教育管理组织（EMO）服务，将公共教育的基础设施、教学交付、评价研发乃至政策制定权全面向私营资本和非民选精英网络开放。当代外生私有化呈现出以免税信托控股营利实体的双层法人避税架构，并进一步演变为国家教育立法议程本身的隐性私有化。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,14 +25,15 @@ related_concepts:
   - "[[Charter Schools]]"
   - "[[Educational Management Organisation]]"
   - "[[Dual-Entity Legal Structure]]"
+  - "[[Soft Privatisation]]"
   - "[[Endogenous Privatisation]]"
   - "[[Epoché]]"
-  - "[[Screening Off]]"
   - "[[Venture Philanthropy]]"
   - "[[Policy Network]]"
   - "[[Educational Privatisation]]"
   - "[[Network Governance]]"
   - "[[International Education]]"
+  - "[[Transnational Education]]"
   - "[[Policy Entrepreneur]]"
   - "[[Normal School]]"
 related_theories: []
@@ -52,13 +53,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-17
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Exogenous Privatisation
-> **外生私有化（Exogenous Privatisation）**，亦称**针对公立教育的私有化（Privatisation of Public Education）**，是由[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）与德博拉·尤德尔（Deborah Youdell, 2007）提出的理论范畴，特指通过合同承包、[[Public-Private Partnership|公私伙伴关系]]（PPP）、[[Charter Schools|特许学校]]（Charter Schools / Partnership Schools）以及向私营[[Educational Management Organisation|教育管理组织]]（EMO）采购核心业务，将原本由公共部门承担的校舍建设、课程开发、测验评价与日常教学交付全面向营利或非营利私营实体开放的制度过程。当代实证研究（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）进一步揭示，外生私有化已经从早期的后勤基建承包，演进为涵盖免税慈善信托控股营利实体的[[Dual-Entity Legal Structure|双层法人架构]]，并最终演变为跨界商业网络直接主导国家教育立法与政策议程设置的**政策制定权隐性私有化**。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 4–6)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]
+> **外生私有化（Exogenous Privatisation）**，亦称**针对公立教育的私有化（Privatisation of Public Education）**，是由[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）与德博拉·尤德尔（Deborah Youdell, 2007）提出的理论范畴，特指通过合同承包、[[Public-Private Partnership|公私伙伴关系]]（PPP）、[[Charter Schools|特许学校]]（Charter Schools / Partnership Schools）以及向私营[[Educational Management Organisation|教育管理组织]]（EMO）采购核心业务，将原本由公共部门承担的校舍建设、课程开发、测验评价与日常教学交付全面向营利或非营利私营实体开放的制度过程。当代实证研究（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）进一步揭示，外生私有化已经从早期的后勤基建承包，演进为涵盖免税慈善信托控股营利实体的[[Dual-Entity Legal Structure|双层法人架构]]，并最终演变为跨界商业网络直接主导国家教育立法与政策议程设置的**政策制定权[[Soft Privatisation|隐性私有化]]**。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 4–6)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 剖析私营资本与非民选精英网络如何以合同契约和特许权为通道，系统性接管公共教育交付职能并分割公共财政税收。
@@ -91,7 +92,7 @@ updated: 2026-11-03
 > - **公共税收定向转移与合同契约化** 国家改变直接办学角色，将经常性教育税收预算打包为巨额商业合同，向私营承包商与商业化 [[Educational Management Organisation|EMO]] 购买服务，将公共财政转化为私营企业的营运利润与高管薪酬。
 > - **特许办学与去工会化劳动关系** 通过设立特许学校或[[Partnership Schools Kura Hourua|伙伴学校]]，豁免公立教师工会薪酬集体谈判协议（Collective Bargaining Agreements），允许聘用非持证教师，压低教学人工成本以实现财务盈余。
 > - **[[Dual-Entity Legal Structure|双层法人架构]]与税收合法归零** 商业机构设立免税慈善信托（Charitable Trust）作为母体，全资控股一家营利性有限责任公司（LLC）；有限责任公司向母体信托进行利润捐赠从而冲抵企业所得税，实现税负实质归零。
-> - **信息审计[[Screening Off|屏蔽]]与规避公开问责** 依托有限责任公司的私法自治属性，私营 EMO 合法拒绝公众依据《官方信息法》（Official Information Act, OIA）对其财务流水、高管薪酬与管理费进行独立审计，将公私合营运行置于民主视线之外。
+> - **信息审计屏蔽与规避公开问责** 依托有限责任公司的私法自治属性，私营 EMO 合法拒绝公众依据《官方信息法》（Official Information Act, OIA）对其财务流水、高管薪酬与管理费进行独立审计，将公私合营运行置于民主视线之外。
 > - **政策制定权的隐性私有化（Privatisation of Policy-Making）** 凭借与执政精英的非正式社会网络和旋转门机制，商业顾问与[[Venture Philanthropy|风险慈善]]家直接参与修改国家教育法案、起草特许学校准入标准并把控政府专项采购评审委员会。
 
 > [!logic-map]- 外生私有化资本运作与政策俘获环节
@@ -117,7 +118,7 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题二｜[[Dual-Entity Legal Structure|双层法人架构]]借助慈善信托合法实现税收抵扣并[[Screening Off|屏蔽]]信息公开法审查
+> [!concept-proposition] 命题二｜[[Dual-Entity Legal Structure|双层法人架构]]借助慈善信托合法实现税收抵扣并屏蔽信息公开法审查
 > **法人治理与避税遮蔽维度** 揭示私营教育机构如何利用法律结构规避公众财务审查与国家税赋。
 
 > [!claim] O'Neill, J. et al.
@@ -156,7 +157,7 @@ updated: 2026-11-03
 > - **2000 年代初 — 跨国出版集团与商业 [[Educational Management Organisation|EMO]] 规模扩张** 爱迪生学校（Edison Schools）等大型教育管理组织在美英大量承接薄弱学区全校运营，资本市场教育概念股盛行；[[International Education|国际教育]]组织对商业资本渗透公立教育敲响警钟。
 > - **2007–2008 年 — 外生私有化理论模型确立** [[Stephen Ball|斯蒂芬·鲍尔]]与德博拉·尤德尔正式提出“外生私有化”（[[Educational Privatisation|privatisation of education]]），界定其为私营资本将公共教育转化为商业套利场所的系统性过程。
 > - **2013–2016 年 — [[Partnership Schools Kura Hourua|新西兰特许学校]]与双层法人治理审计** 新西兰国家党政府通过立法创设伙伴学校（[[Partnership Schools Kura Hourua|PSKH]]）；[[John O'Neill|约翰·奥尼尔]]等发布标志性实证报告，系统揭露[[Dual-Entity Legal Structure|双层法人架构]]避税机制与“政策制定权本身的外生私有化”。
-> - **2020 年代 — 全球数字技术垄断与跨国教育平台托管** 随着智慧校园与数字化转型推进，跨国科技巨头全面接管公立学校云端数据、课程流媒体与智能测评服务，外生私有化迈向数字基础设施依赖阶段。
+> - **2020 年代 — 全球数字技术垄断与[[Transnational Education|跨国教育]]平台托管** 随着智慧校园与数字化转型推进，跨国科技巨头全面接管公立学校云端数据、课程流媒体与智能测评服务，外生私有化迈向数字基础设施依赖阶段。
 
 ---
 

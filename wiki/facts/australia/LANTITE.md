@@ -9,7 +9,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Initial Teacher Training]]"
   - "[[What Works Movement]]"
+  - "[[Teacher Expertise]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -74,7 +75,7 @@ updated: 2026-10-26
 > [!tension] 争议焦点
 > - **工具争议：中介机构的经济红利与守门性质** LANTITE 被批判政策社会学者描述为一种“守门机制”（gate-keeping mechanism）。同时，其承办机构 [[Australian Council for Educational Research\|ACER]] 作为非政府中介组织，通过收取考生高昂考试费获取了直接而庞大的经济利益。这种利益绑定导致政策在制度惯性下极难被撤销，偏离了政策原初的质量改进目标。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
 > - **执行争议：初期的完全混乱** 政策推行过于仓促，初期在系统稳定性、地区覆盖度和信息传导上管理极其混乱，将改革的行政成本与心理焦虑不公平地转嫁到了职前教师和大学教育者身上。
-> - **问责逻辑争议** 测试的强制推行构成了“[[What Works Movement\|什么有效运动]]”下惩罚性问责链条的起点，强化了用单一、脱离情境的量化考核结果来代表和决定教师专业素养的政策倾向。
+> - **问责逻辑争议** 测试的强制推行构成了“[[What Works Movement\|什么有效运动]]”下惩罚性问责链条的起点，强化了用单一、脱离情境的量化考核结果来代表和决定[[Teacher Expertise|教师专业素养]]的政策倾向。
 
 ---
 

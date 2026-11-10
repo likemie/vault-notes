@@ -7,7 +7,7 @@ aliases:
 summary: "用于系统评价和元分析中评估初级定量与质性实证研究内部效度与方法学质量的 14 项标准化核查清单"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 16
+instrument_related_count: 17
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#e5e7eb"
@@ -47,13 +47,14 @@ related_methods:
   - "[[Experimental Research]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Dimensions]]"
 related_arguments:
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -67,7 +68,7 @@ updated: 2026-10-30
 > [!citation-card] 关键表述
 > 两位作者运用 Kmet, Lee, and Cook's (2004) 14 项检查清单独立评估了纳入研究的方法学质量，从多个维度全面评估[[Quantitative Research\|定量研究]]的内部效度；所有 66 项初级研究得分均在 50% 以上（总分 28 分，均分 23.75 分，质量达标率为 85%）。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, p. 5)]]
 >
-> *Two authors independently assessed the quality of each study with Kmet, Lee, and Cook's (2004) fourteen-item checklist. These items helped assess the internal validity of quantitative research across multiple methodological dimensions...*
+> *Two authors independently assessed the quality of each study with Kmet, Lee, and Cook's (2004) fourteen-item checklist. These items helped assess the internal validity of quantitative research across multiple methodological [[Dimensions|dimensions]]...*
 
 ---
 

@@ -9,7 +9,7 @@ summary: "Csikszentmihalyi (1970s) 开发的研究方法，通过随机信号让
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 2
+method_related_count: 3
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -21,6 +21,7 @@ tags:
   - method/ecological-momentary-assessment
 related_concepts:
   - "[[Flow]]"
+  - "[[Cumulative Innovation]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -68,7 +69,7 @@ Csikszentmihalyi 的团队正是通过该方法从大量青少年日常体验数
 ---
 
 > [!example] 使用此方法的研究
-> - Li_2012_Cambridge — Li 提及该方法作为 Csikszentmihalyi 发现[[Flow\|心流]]的方法基础，并指出后续研究也使用该方法收集了跨文化的真实情感体验数据([[Argument_Li_2012_Cambridge\|Li, 2012, p.77–78]])
+> - Li_2012_Cambridge — Li 提及该方法作为 Csikszentmihalyi 发现[[Flow\|心流]]的方法基础，并指出[[Cumulative Innovation|后续研究]]也使用该方法收集了跨文化的真实情感体验数据([[Argument_Li_2012_Cambridge\|Li, 2012, p.77–78]])
 
 ---
 

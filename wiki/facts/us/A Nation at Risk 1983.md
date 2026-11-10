@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 45
+fact_related_count: 46
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#fef3c7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Policy Window]]"
   - "[[Cross-National Attraction]]"
   - "[[Governing by Numbers]]"
+  - "[[Transnational Education]]"
   - "[[Competitiveness]]"
   - "[[Technical Rationality]]"
   - "[[Policy Brokerage]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -104,7 +105,7 @@ updated: 2026-10-30
 >   - 1984–1987 美国教育界与联邦政府对日本教育爆发高强度的[[Cross-National Attraction\|跨国吸引力]]与危机化（Scandalization）操作，将日本高强度课程、长学时与全国统一标准树立为正面镜像，并于 1987 年由联邦教育部专设发布《今日日本教育》（*Japanese Education Today*）。
 > - **1987 至今 — 跨国指标委托与全球[[Governing by Numbers\|数字治理]]制度化** 说明美国推动[[OECD\|经合组织]]创建指标项目，开启全球教育治数而治的跨国演变。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]
 >   - 1987–1988 面对国内各州数据缺乏可比性及跨国实证的匮乏，美国联邦政府直接向经济合作与发展组织（Organisation for Economic Co-operation and Development，OECD）施压并注资，力推创建[[International Education\|国际教育]]指标；[[Centre for Educational Research and Innovation\|经合组织教育研究与创新中心]]（Centre for Educational Research and Innovation，CERI）正式设立[[International Indicators of Education Systems\|国际教育系统指标项目]]（International Indicators of Education Systems，INES）。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 8, 12)]]
->   - 1992 经合组织基于 INES 项目正式出版首期旗舰年度报告《[[Education at a Glance\|教育概览]]》（Education at a Glance，EAG），标志着全球跨国教育数据基准与数字治理体系的正式成型。
+>   - 1992 经合组织基于 INES 项目正式出版首期旗舰年度报告《[[Education at a Glance\|教育概览]]》（Education at a Glance，EAG），标志着全球[[Transnational Education|跨国教育]]数据基准与数字治理体系的正式成型。
 >   - 2000 至今 经合组织推出[[PISA\|国际学生评估项目]]（Programme for International Student Assessment，PISA），危机叙事在跨国范围制度化为常规规制机制，每当测评数据发布即在参测国定期引爆政策恐慌与改革动员。
 
 ---

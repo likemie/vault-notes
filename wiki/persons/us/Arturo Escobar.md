@@ -7,10 +7,10 @@ summary: "哥伦比亚裔美国人类学家和设计理论家，Designs for the 
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1951"
 died: ""
 lifespan: "1951–至今"
@@ -24,6 +24,7 @@ tags:
 - region/colombia
 related_concepts:
   - "[[Mondialisation]]"
+  - "[[Homophily]]"
   - "[[Wicked Problem]]"
   - "[[Emergence]]"
   - "[[Ubuntu]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!person-profile] 人物档案
@@ -50,7 +51,7 @@ updated: 2026-10-22
 
 > [!tip] 核心思想
 
-**Pluriverse（多元世界）** Escobar 的核心概念——不是单一世界（universe）而是多元世界（pluriverse）的制造。这与全球化作为霸权项目形成对照：[[Mondialisation]]（世界化）以具体的生活世界为主要参照，而非市场、劳动灵活化和文化同质性([[Argument_Amos_2022_Springer|Amos, 2022, pp.61–62]])。
+**Pluriverse（多元世界）** Escobar 的核心概念——不是单一世界（universe）而是多元世界（pluriverse）的制造。这与全球化作为霸权项目形成对照：[[Mondialisation]]（世界化）以具体的生活世界为主要参照，而非市场、劳动灵活化和文化[[Homophily|同质性]]([[Argument_Amos_2022_Springer|Amos, 2022, pp.61–62]])。
 
 **[[Transition Design]]（转型设计）** Escobar 以"设计"作为应对 [[Wicked Problem|wicked problems]] 的核心工具，超越单一学科或行动领域的限制。转型不是被设计出来的，而是[[Emergence|涌现]]的——依赖自组织与被组织过程的混合交互（Escobar, 2018, p.152；Amos, 2022, p.61）。
 

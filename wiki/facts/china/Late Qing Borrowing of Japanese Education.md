@@ -9,7 +9,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ tags:
 - late-qing
 related_concepts:
   - "[[Discourse]]"
+  - "[[Study Abroad]]"
   - "[[Normal School]]"
   - "[[Cross-National Attraction]]"
   - "[[Pre-Transfer Agency]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!info] 背景
@@ -71,7 +72,7 @@ updated: 2026-10-22
 >
 > 借用并非仅限于政策文本，而是通过多条渠道同步推进（Abe, 1987; Hayhoe, 1992，引自 [[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 234]]）：
 >
-> - **赴日留学** 数以千计的中国学生赴日留学，1905–1906 年达到高峰（约 8,000–10,000 人同时在日），学习师范、法政、军事等科目
+> - **赴日[[Study Abroad|留学]]** 数以千计的中国学生赴日留学，1905–1906 年达到高峰（约 8,000–10,000 人同时在日），学习师范、法政、军事等科目
 > - **日本教习招聘** 大量日本教师和教育顾问被聘请到中国新式学堂任教，参与课程设计和[[Normal School\|师范教育]]
 > - **教科书编译** 日本教科书被系统翻译和改编为中文教材，尤其是自然科学和师范教育领域
 

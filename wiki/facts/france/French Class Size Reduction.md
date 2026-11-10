@@ -9,7 +9,7 @@ subtype: policy
 region: france
 fact_region: "france"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Class Size]]"
   - "[[Academic Achievement]]"
+  - "[[Cumulative Innovation]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!info] 背景
@@ -50,7 +51,7 @@ updated: 2026-10-22
 > 政策实施需要大量新增教师。它是 Pellegrini & Vivanet 所说“部分基于证据”的案例：法国教育部在政策前查阅了 Bressoux 等 2003 年研究，该研究显示[[Class Size\|班额]]缩减对阅读和拼写有小幅正效应([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.27]])。
 
 > [!success] 效果与评价
-> 这一政策体现了政策制定者愿意使用证据的积极态度，但相关证据并不强。Bressoux 等后续研究显示[[Class Size\|班额]]对[[Academic Achievement\|学业成就]]的效果会随时间减弱；[[Campbell Collaboration]] 的[[Meta-analysis\|元分析]]显示，班额缩减对阅读有小但显著的正效应，对数学则为负且不显著([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp.27-28]])。
+> 这一政策体现了政策制定者愿意使用证据的积极态度，但相关证据并不强。Bressoux 等[[Cumulative Innovation|后续研究]]显示[[Class Size\|班额]]对[[Academic Achievement\|学业成就]]的效果会随时间减弱；[[Campbell Collaboration]] 的[[Meta-analysis\|元分析]]显示，班额缩减对阅读有小但显著的正效应，对数学则为负且不显著([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp.27-28]])。
 
 > [!info] 核心数据
 > - 班额从 24 人降至 12 人([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.27]])

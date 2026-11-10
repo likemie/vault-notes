@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Student Attitude]]"
   - "[[Business as Usual]]"
   - "[[Reading Strategies]]"
+  - "[[Research Tool]]"
   - "[[Attrition]]"
 related_theories: []
 related_methods:
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -81,7 +82,7 @@ updated: 2026-10-30
 > - **近端敏感指标测量** 测量工具主要[[Anchored Instruction\|锚定教学]]单元结束后的近端学业测验、课堂行为即时编码记录与学生[[Student Attitude\|学习态度]][[Questionnaire\|问卷]]，在干预发生后数周内即时抓取因果微弱效应，避免远端统考指标被长期[[Business as Usual\|常态教学]]噪声所稀释。
 
 > [!citation-card] 教师日常决策因果试验的设计突破（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）
-> 2018 年，[[Education Endowment Foundation\|EEF]] 启动了探索‘教师选择’的试点项目，这是一套用于研究日常课堂教学决策（如作业批改方式或全班[[Reading Strategies|阅读策略]]）的方法学框架。与需要学校额外采购手册化干预项目的传统试验不同，教师选择试验直接将研究工具嵌入教师现有的日常教研习惯中，采用被试内设计等创新架构，从而以更低的研究成本与更敏捷的反馈周期检验微观教学假设。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 55)]]
+> 2018 年，[[Education Endowment Foundation\|EEF]] 启动了探索‘教师选择’的试点项目，这是一套用于研究日常课堂教学决策（如作业批改方式或全班[[Reading Strategies|阅读策略]]）的方法学框架。与需要学校额外采购手册化干预项目的传统试验不同，教师选择试验直接将[[Research Tool|研究工具]]嵌入教师现有的日常教研习惯中，采用被试内设计等创新架构，从而以更低的研究成本与更敏捷的反馈周期检验微观教学假设。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 55)]]
 >
 > *“In 2018, the EEF began piloting ‘Teacher Choices’—a methodology to investigate the everyday classroom decisions that teachers make (e.g., approaches to marking homework or whole-class reading), rather than manualised interventions... Teacher Choices trials offer a promising route to evaluate cost-free, high-leverage pedagogical habits.”*
 

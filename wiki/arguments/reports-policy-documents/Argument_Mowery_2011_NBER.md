@@ -33,12 +33,14 @@ related_concepts:
   - "[[Valley of Death]]"
   - "[[Sage]]"
   - "[[Von Neumann Architecture]]"
+  - "[[Homophily]]"
   - "[[Greenfield vs Brownfield Innovation]]"
 related_theories:
   - "[[Path Dependence]]"
   - "[[Systems of Innovation]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
+  - "[[Instrumental Variables]]"
 related_instruments: []
 related_persons:
   - "[[David C. Mowery]]"
@@ -65,14 +67,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: report
 publication_type: report
 title: "Argument_Mowery_2011_NBER"
 argument_key: "Argument_Mowery_2011_NBER"
 argument_display_title: "Federal policy and the development of semiconductors, computer hardware, and computer software: A policy model for climate change R&D? In R"
 argument_kind: "report"
-argument_related_count: 32
+argument_related_count: 34
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dcfce7"
@@ -80,7 +82,7 @@ journal: ""
 book_title: "Accelerating Energy Innovation: Insights from Multiple Sectors"
 publication_place: "Chicago"
 publisher: "University of Chicago Press"
-issuing_organization: "National Bureau of Economic Research"
+issuing_organization: "[[National Bureau of Economic Research]]"
 ---
 ---
 
@@ -223,7 +225,7 @@ issuing_organization: "National Bureau of Economic Research"
 > | **MIT Whirlwind** | \$4,000–\$5,000 | 海军 / 空军 | 1951 |
 > | **[[Institute for Advanced Study\|Princeton IAS]] Computer** | \$650 | 陆军 / 海军 / RCA / 原子能委员会（Atomic Energy Commission, [[ASEAN Economic Community\|AEC]]） | 1951 |
 > | **UC Berkeley CALDIC** | \$95 | 海军（Navy） | 1951 |
-> | **Harvard Mark IV** | 不详 | 空军（Air Force） | 1951 |
+> | **Harvard Mark [[Instrumental Variables\|IV]]** | 不详 | 空军（Air Force） | 1951 |
 > | **EDVAC** | \$467 | 陆军（Army） | 1952 |
 > | **Raytheon Hurricane (RAYDAC)** | \$460 | 海军（Navy） | 1952 |
 > | **ORDVAC** | \$600 | 陆军（Army） | 1952 |
@@ -308,7 +310,7 @@ issuing_organization: "National Bureau of Economic Research"
 ---
 
 > [!claim|step] 论证步骤四　冷战信息技术政策范式向气候变化与清洁能源研发迁移的结构性边界
-> 冷战时期信息技术政策所依赖的军用性能溢价、军民双向技术溢出及绿地产业生态在清洁能源领域完全缺失；应对气候变化研发必须直面大宗商品同质性与存量基础设施刚性，审慎构建以碳规制、稳定研发投入与大型基础设施试验为核心的政策组合。（pp.184–186）
+> 冷战时期信息技术政策所依赖的军用性能溢价、军民双向技术溢出及绿地产业生态在清洁能源领域完全缺失；应对气候变化研发必须直面大宗商品[[Homophily|同质性]]与存量基础设施刚性，审慎构建以碳规制、稳定研发投入与大型基础设施试验为核心的政策组合。（pp.184–186）
 
 > [!sub-claim] 1. 能源与信息技术产业的根本属性差异：[[Greenfield vs Brownfield Innovation|绿地创新与棕地创新]]
 

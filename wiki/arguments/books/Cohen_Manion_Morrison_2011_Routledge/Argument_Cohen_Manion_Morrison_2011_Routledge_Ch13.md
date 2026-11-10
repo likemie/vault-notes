@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
 argument_display_title: "Research Methods in Education · Ch13"
 argument_kind: "book-chapter"
-argument_related_count: 57
+argument_related_count: 58
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Null Hypothesis]]"
   - "[[Alternative Hypothesis]]"
   - "[[Informed Consent]]"
+  - "[[Homophily]]"
   - "[[Heterogeneity]]"
   - "[[Research Purpose]]"
   - "[[Fitness for Purpose]]"
@@ -93,7 +94,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-07-09
-updated: 2026-10-30
+updated: 2026-11-11
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
@@ -302,7 +303,7 @@ Fowler (2009, p. 15)指出受访者给出的答案是**真实回答 + 回答误�
 无回应是许多调查研究的一个严重问题。它分为两类(Durrant, 2009, p. 293)：**单位无回应（unit non-response）**. 整份问卷无回应；**题项无回应（item non-response）**. 特定题项无回应。Denscombe (2009, p. 282)指出[[Internet-based Survey|在线调查]]往往比纸笔调查的题项无回应更低，但在完成在线调查之前中途退出的情况可能更多（p.265）。
 
 > [!claim] 无回应如何威胁效度与信度
-> Dale (2006, p. 148)的核心断言：**"无回应者几乎总是与回应者不同"**。这影响所获回应及其分析的效度和信度。如果无回应来自非常同质性的样本，问题可能较小；如果无回应随机分布在样本中，问题也可能较小。但如果无回应来自特定子群体（如非常低或非常高的社会经济群体），则会系统性偏倚结果。题项无回应中的缺失数据不应忽视(Dale, 2006, p. 15) (p.265）。
+> Dale (2006, p. 148)的核心断言：**"无回应者几乎总是与回应者不同"**。这影响所获回应及其分析的效度和信度。如果无回应来自非常[[Homophily|同质性]]的样本，问题可能较小；如果无回应随机分布在样本中，问题也可能较小。但如果无回应来自特定子群体（如非常低或非常高的社会经济群体），则会系统性偏倚结果。题项无回应中的缺失数据不应忽视(Dale, 2006, p. 15) (p.265）。
 
 ---
 

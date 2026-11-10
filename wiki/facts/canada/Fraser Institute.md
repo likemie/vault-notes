@@ -10,9 +10,9 @@ subtype: organization
 region: canada
 fact_region: "canada"
 fact_kind: "organization"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 12
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: think-tank
 headquarters: "Vancouver, Canada"
@@ -25,6 +25,7 @@ tags:
   - theme/accountability
 related_concepts:
   - "[[School Choice]]"
+  - "[[Quasi-market]]"
   - "[[Policy Network]]"
   - "[[Transparency Bypass]]"
   - "[[School Vouchers]]"
@@ -35,23 +36,25 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Tim Cain]]"
+related_facts:
+  - "[[Centre for Policy Studies]]"
 related_arguments:
   - "[[Argument_Verger_2019_Discourse]]"
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定位
-> 弗雷泽研究所（Fraser Institute，又译菲沙研究所）是加拿大极具政治影响力的独立自由市场公共政策智库，在教育治理领域充当了运用信息公开法规突破行政壁垒、自主编制民间学校排行榜以建构[[School Choice|择校]]准市场竞争的关键行动主体。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
+> 弗雷泽研究所（Fraser Institute，又译菲沙研究所）是加拿大极具政治影响力的独立自由市场公共政策智库，在教育治理领域充当了运用信息公开法规突破行政壁垒、自主编制民间学校排行榜以建构[[School Choice|择校]][[Quasi-market|准市场]]竞争的关键行动主体。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1974 年创立于加拿大温哥华，由经济学家迈克尔·沃克（Michael Walker）与商界领袖共同发起，旨在对抗凯恩斯主义国家干预，倡导自由放任市场经济。
+> - **成立时间 / 创设背景** 1974 年创立于加拿大温哥华，由经济学家迈克尔·沃克（Michael Walker）与商界领袖共同发起，旨在对抗[[Tim Cain|凯恩]]斯主义国家干预，倡导自由放任市场经济。
 > - **总部地点 / 业务辐射** 总部设于不列颠哥伦比亚省温哥华，并在多伦多、蒙特利尔、卡尔加里设立分支机构，业务辐射加拿大全境及北美公共[[Policy Network|政策网络]]。
 > - **法人属性与经费基础** 注册为独立非营利慈善智库（Registered Charity），完全依赖私人基金会资助、企业赞助与个人捐赠维系运营，恪守拒绝接受政府任何财政资助的资助原则。
 > - **核心宗旨与法定职责** 宣称致力于通过研究与普及市场竞争机制提升公民生活质量；在基础教育领域，核心使命在于破除公立学校的垄断壁垒，主张赋予家长充分的择校权与学业质量知情权。
@@ -78,7 +81,7 @@ updated: 2026-10-30
 
 > [!actor-grid] 组织治理架构
 > - **理事会（Board of Trustees）** 由加拿大金融界高管、工业界领袖与资深学者组成，把控宏观研究方针与财务独立性。
-> - **执行管理层** 设执行总裁（CEO）与执行副总裁，下设教育政策研究中心、财政税收中心及健康政策中心。
+> - **执行管理层** 设执行总裁（CEO）与执行副总裁，下设教育[[Centre for Policy Studies|政策研究中心]]、财政税收中心及健康政策中心。
 > - **教育政策中心（Center for Education Policy）** 专门配备计量统计学家、教育经济学者与法务专员，专责学校报告卡数据的清洗与算法标定。
 
 > [!pathways] 业务运行机制

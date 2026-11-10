@@ -8,7 +8,7 @@ summary: "国际著名教育经济学家、世界银行资深教育顾问与人�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 24
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Scientism]]"
   - "[[Empiricism]]"
+  - "[[Transnational Education]]"
   - "[[Document]]"
   - "[[Paradigm]]"
   - "[[International Education]]"
@@ -39,7 +40,8 @@ related_concepts:
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Dependency Theory]]"
-related_methods: []
+related_methods:
+  - "[[Natural Experiment]]"
 related_instruments: []
 related_persons:
   - "[[Bernard Barber]]"
@@ -54,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -62,7 +64,7 @@ updated: 2026-11-02
 > [!person-profile] 人物档案
 > - **身份位置** 希腊裔美籍经济学家、教育经济学奠基人之一、[[World Bank\|世界银行]]长期首席教育顾问与前教育及社会政策部主管。
 > - **核心角色** 将芝加哥学派[[Human Capital Theory\|人力资本理论]]系统注入国际多边金融机构与比较教育学，建立起跨越半个多世纪的全球[[Return on Investment\|教育投资回报率]]（RORE）计量基准体系；在比较教育学科史中，被视为战后第三代际实证[[Scientism\|科学主义]]运动中“实证[[Empiricism|经验主义]]与唯方法论主义”（Methodological Empiricism）的技术经济学支柱，推动比较研究从历史文化转向跨国大样本计量回归。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 147–148)]]
-> - **代表贡献** 开创跨国教育成本效益与明瑟收益率横向比较框架；主持编制世界银行历次十年期全球教育投资回报率全景综述（1973, 1985, 1994, 2004, 2018）；推动初等教育高社会收益率理论成为世界银行向全球南方放贷的法定准则。
+> - **代表贡献** 开创[[Transnational Education|跨国教育]]成本效益与明瑟收益率横向比较框架；主持编制世界银行历次十年期全球教育投资回报率全景综述（1973, 1985, 1994, 2004, 2018）；推动初等教育高社会收益率理论成为世界银行向全球南方放贷的法定准则。
 
 > [!citation-card] 独立研究帝国与比较教育材料宝库
 > 标志着两大组织决心在教育领域独立开展工作的新时代到来的，是世界银行于 1980 年 4 月发布的首份《教育部门政策文件》（World Bank 1980）。正如曾长期担任世界银行高级顾问的著名教育经济学家乔治·萨卡罗普洛斯所指出的：‘1980 年的政策文件不仅反映出世行的业务运作正日益建立在研究成果的基础之上，而且表明世行正在开展属于自己的研究，并将在未来继续如此推进。这是极其令人欣喜的，因为世行掌握着局外人做梦都想不到的丰富比较教育材料。’[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
@@ -142,7 +144,7 @@ updated: 2026-11-02
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 批判萨卡罗普洛斯等人将比较教育降格为单一计量实证模型，指出战后新实证[[Paradigm|范式]]本质上是用方法论的严密性遮蔽复杂的历史政治情境，充当规避问责的合法化借口。
 
 > [!warning] 未解问题与边界
-> 萨卡罗普洛斯的研究传统严重依赖横截面收入数据与明瑟收益率模型，在面对现代因果推断（如工具[[Variable|变量]]法、孪生子设计、自然实验）对能力内生性偏差（Ability Bias）的严格识别时，早期估算普遍存在高估教育因果回报的偏误。
+> 萨卡罗普洛斯的研究传统严重依赖横截面收入数据与明瑟收益率模型，在面对现代因果推断（如工具[[Variable|变量]]法、孪生子设计、[[Natural Experiment|自然实验]]）对能力内生性偏差（Ability Bias）的严格识别时，早期估算普遍存在高估教育因果回报的偏误。
 
 ---
 

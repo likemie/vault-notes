@@ -8,7 +8,7 @@ aliases:
 summary: "指在非西方威权情境中，部分去殖民学者因过度审查社会制度与自由法治的西方殖民起源（pedigree），而在客观上否定并剥夺了本土人（native agency）选择和保留这些制度的权利，与威权统治者在文化相对主义上达成合流的理论矛盾"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Discourse]]"
   - "[[Cultural Relativism]]"
+  - "[[Nationalism]]"
   - "[[Geopolitics]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Grand Theory]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-07-13'
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -59,7 +60,7 @@ updated: 2026-11-03
 
 ---
 
-> [!contrast-table] 去殖民悖论与传统反殖民及威权民族主义的区别
+> [!contrast-table] 去殖民悖论与传统反殖民及威权[[Nationalism|民族主义]]的区别
 > | 比较维度 | 去殖民悖论视角（Vickers / Táíwò） | 传统去殖民[[Discourse\|话语]]（如 Mignolo） | 威权去殖民修辞（如[[Jiang Shigong\|强世功]] / 官方） |
 > |---|---|---|---|
 > | **核心关注点** | 本地人（native agency）选择和保留有效制度的自主权。 | 解构西方“[[Geopolitics\|地缘政治]]知识霸权”，追求彻底的脱钩（de-linking）。 | 以“反帝”和“去殖民”为名，确立国家主权的绝对控制。 |

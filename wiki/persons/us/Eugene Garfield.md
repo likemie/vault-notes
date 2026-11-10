@@ -9,7 +9,7 @@ summary: "科学计量学与现代信息检索之父，科学信息研究所（I
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -36,26 +36,27 @@ related_theories:
   - "[[Universality of Citation Distributions]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
-  - "[[Relative Citation Normalization]]"
   - "[[Journal Impact Factor]]"
+  - "[[Relative Citation Normalization]]"
 related_instruments: []
 related_persons:
   - "[[Derek de Solla Price]]"
-related_facts: []
+related_facts:
+  - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国语言学家、信息科学家，科学信息研究所（Institute for Scientific Information, [[Import Substitution Industrialisation|ISI]]）创办人，现代[[Bibliometric Analysis|科学计量学]]与信息计量学奠基者。
-> - **核心角色** 构想并建立了全球首个结构化大规模科学引文索引系统，打破以学科分类表为主的传统主题检索模式，开创以“引文链接”映射科学思想渊源与学科交叉脉络的量化科学学[[Paradigm|范式]]。
+> - **核心角色** 构想并建立了全球首个结构化大规模[[Web of Science|科学引文索引]]系统，打破以学科分类表为主的传统主题检索模式，开创以“引文链接”映射科学思想渊源与学科交叉脉络的量化科学学[[Paradigm|范式]]。
 > - **代表贡献** 1955 年在《科学》发表开创性论著构想科学引文索引，1964 年正式商业化发布科学引文索引（Science Citation Index, SCI）；与欧文·H·谢尔（Irving H. Sher）整理早期引文数据，为[[Derek de Solla Price|德里克·J·德索拉·普赖斯]]（Derek J. de Solla Price）发现引文网络幂律分布提供数据奠基；创立[[Journal Impact Factor|期刊影响因子]]（Journal Impact Factor, JIF）体系。
 
 > [!citation-card] 加菲尔德论引文索引作为科学思想网络的构建逻辑
@@ -80,7 +81,7 @@ updated: 2026-11-02
 ---
 
 > [!work-line] 主要著作
-> - **1955 — *Citation Indexes for Science*** 奠定引文索引思想根基，提出引文可用于衡量学术出版物的历史影响力与知识源流。(Garfield, 1955) 此文自身亦成为科学界“[[Sleeping Beauty in Science|睡美人]]”的典型经验范例：在发表后的近四十年间年均仅获个位数引用，直至 2000 年后伴随网络科学与数字化检索的兴起而被重新唤醒，引文出现爆发式增长。
+> - **1955 — *Citation Indexes for Science*** 奠定引文索引思想根基，提出引文可用于衡量学术出版物的历史影响力与知识源流。(Garfield, 1955) 此文自身亦成为科学界“睡美人”的典型经验范例：在发表后的近四十年间年均仅获个位数引用，直至 2000 年后伴随网络科学与数字化检索的兴起而被重新唤醒，引文出现爆发式增长。
 > - **1963 — 与 Sher 合撰早期引文计量技术报告** 建立首个全自动学术文献被引统计流水线，为发现引文幂律分布与科学规模指数扩张提供原始大数据支撑。(Garfield & Sher, 1963)
 > - **1972 — *Citation Analysis as a Tool in Journal Evaluation*** 系统阐述[[Journal Impact Factor|期刊影响因子]]（JIF）的数理算法与在图书馆藏书选订中的应用准则。(Garfield, 1972)
 > - **1979 — *Citation Indexing: Its Theory and Application in Science, Technology, and Humanities*** 集大成专著，系统总结引文分析的理论基础、科学史编纂算法与引文社会学机制。
@@ -104,7 +105,7 @@ updated: 2026-11-02
 > - **产业与基础设施路径** 创立 ISI（现科睿唯安 Clarivate / Web of Science），建立起全球科技文献数据商业化运营与跨国流通的技术标准。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] — 依托加菲尔德科学引文索引揭示[[Citation Disparity|引文差距]]与同行认可的集体智慧（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]）；以其 1955 年 SCI 奠基成果作为科学界[[Sleeping Beauty in Science|睡美人]]典型案例（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] — 依托加菲尔德科学引文索引揭示[[Citation Disparity|引文差距]]与同行认可的集体智慧（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]）；以其 1955 年 SCI 奠基成果作为科学界睡美人典型案例（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]）。
 
 ---
 

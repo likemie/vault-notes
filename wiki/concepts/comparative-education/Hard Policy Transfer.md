@@ -9,7 +9,7 @@ aliases:
 summary: "政策转移研究中指代政策技术、评价工具、法律文本或具体操作规程直接硬性复制的分析概念，区别于理念与话语扩散的软政策转移；在跨国教育与社会政策治理中，硬政策转移常体现为国际组织或主权国家将标准化指标体系、评估规程及专业执行机构跨国直接复制。"
 type: concept
 domain: "comparative-education"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Policy Mobility]]"
   - "[[Paradigm]]"
   - "[[Cross-cultural Validity]]"
+  - "[[Transnational Education]]"
   - "[[Positivism]]"
   - "[[Analytical Stance]]"
   - "[[Operationalization]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-19
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -125,7 +126,7 @@ updated: 2026-11-03
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **[[Cross-cultural Validity\|跨文化效度]]危机命题** | 直接复制特定文化情境下的评价工具必然引发制度排异与测量失效 | 跨国高等教育测评研发、通用技能评价工具照搬与制度硬移植 | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] |
+> | **[[Cross-cultural Validity\|跨文化效度]]危机命题** | 直接复制特定文化情境下的评价工具必然引发制度排异与测量失效 | [[Transnational Education\|跨国高等教育]]测评研发、通用技能评价工具照搬与制度硬移植 | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] |
 > | **评估技术硬转移命题** | 实验评估规程与专业机构可作为独立载体完成跨境硬转移 | 循证政策跨国学习、实证评估工具引进与国际智库跨境承接 | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] |
 > | **软硬机制双轨命题** | 刚性工具复制与弹性理念扩散构成政策转移的双轨形态 | 跨国[[Policy Network\|政策网络]]分析、知识行动者中介研究与制度移植机制界分 | Stone (1999, 2004) |
 

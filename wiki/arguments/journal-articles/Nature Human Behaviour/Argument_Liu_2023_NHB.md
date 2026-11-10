@@ -21,8 +21,6 @@ tags:
   - method/causal-inference
   - method/machine-learning
 related_concepts:
-  - "[[Streetlight Effect]]"
-  - "[[Retraction Penalty]]"
   - "[[Metascience]]"
   - "[[Construct]]"
   - "[[Document]]"
@@ -37,6 +35,8 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Altmetrics]]"
   - "[[Research Translation]]"
+  - "[[Streetlight Effect]]"
+  - "[[Cumulative Innovation]]"
   - "[[Publication Bias]]"
   - "[[Heterogeneity]]"
   - "[[Negative Citation]]"
@@ -50,22 +50,19 @@ related_concepts:
   - "[[Citation Distribution]]"
   - "[[Falsification]]"
   - "[[Abstract]]"
-  - "[[Screening Off]]"
   - "[[Team Diversity]]"
   - "[[Research Impact]]"
+  - "[[Retraction Penalty]]"
   - "[[Star Scientists]]"
-  - "[[School Choice]]"
   - "[[Internal Validity]]"
   - "[[Research Universities]]"
   - "[[Counterfactual]]"
-  - "[[Emergence]]"
   - "[[Scientific Method]]"
 related_theories:
   - "[[Preferential Attachment in Academia]]"
   - "[[Bianconi-Barabási Model]]"
   - "[[Random Impact Rule]]"
 related_methods:
-  - "[[Instrumental Variables]]"
   - "[[Fixed-Effect Model]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Descriptive Analysis]]"
@@ -75,35 +72,41 @@ related_methods:
   - "[[Propensity Score Matching]]"
   - "[[Experimental Research]]"
   - "[[Disruption Index]]"
+  - "[[Supervised Learning]]"
   - "[[Matching]]"
+  - "[[Instrumental Variables]]"
+  - "[[Natural Experiment]]"
   - "[[Random Assignment]]"
 related_instruments: []
 related_persons:
   - "[[Derek de Solla Price]]"
 related_facts:
   - "[[Web of Science]]"
-  - "[[National Science Foundation]]"
-  - "[[National Institutes of Health]]"
-  - "[[Declaration on Research Assessment]]"
   - "[[OpenAlex]]"
   - "[[Dimensions]]"
   - "[[Crossref]]"
   - "[[COnnecting REpositories]]"
+  - "[[National Science Foundation]]"
+  - "[[National Institutes of Health]]"
+  - "[[Scopus]]"
+  - "[[Declaration on Research Assessment]]"
+  - "[[Howard Hughes Medical Institute]]"
 related_arguments:
   - "[[Argument_Sinatra_2016_Science]]"
+  - "[[Argument_Azoulay_2011_RJE]]"
 sources:
   - "[[sources/Liu_2023_NHB/Liu_2023_NHB|Liu_2023_NHB]]"
 part_of:
 status: active
 created: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Liu_2023_NHB"
 argument_key: "Argument_Liu_2023_NHB"
 argument_display_title: "Data, measurement and empirical methods in the science of science"
 argument_kind: "journal-article"
-argument_related_count: 64
+argument_related_count: 67
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -181,7 +184,7 @@ issuing_organization: ""
 
 > [!feature] 科学学全链条多源数据基础设施
 > - **上游研发资助** 链接 [[National Science Foundation|NSF]] 与 [[National Institutes of Health|NIH]]、[[Dimensions]]、[[Crossref]] 等公共科研资助记录，系统追踪科研经费对基础研究产出与公共[[Return on Investment|投资回报]]的驱动机制。
-> - **中游学术发表与人才档案** 依托大规模文献库（[[Web of Science]]、Scopus、[[OpenAlex]]、[[Dimensions]]、[[Crossref]]、PubMed）与开放全文仓储（[[COnnecting REpositories|CORE]]）实现跨学科全量覆盖，结合学者履历、师承渊源与大学教学大纲刻画科研人才流动网络与知识代际传承。
+> - **中游学术发表与人才档案** 依托大规模文献库（[[Web of Science]]、[[Scopus]]、[[OpenAlex]]、[[Dimensions]]、[[Crossref]]、PubMed）与开放全文仓储（CORE）实现跨学科全量覆盖，结合学者履历、师承渊源与大学教学大纲刻画科研人才流动网络与知识代际传承。
 > - **下游应用转化与社会效益** 链接专利数据库、药品临床试验数据、政策文本与[[Altmetrics|替代计量指标]]（Alternative Metrics, Altmetrics），系统测度科学发现的产业[[Research Translation|技术转化]]周期与公共政策效益。
 
 > [!figure]- 图1：科学学全景数据类型与上下游关联图谱
@@ -192,7 +195,7 @@ issuing_organization: ""
 > [!sub-claim] 2. 既有文献数据库存在严重的非英语盲区与阴性结果遗漏
 
 > [!challenges] 既有文献数据库的四大系统性偏差
-> 1. **[[Streetlight Effect|街灯效应]]（Streetlight Effect）** 数据库偏向收录成熟与易发表议题，诱导后续研究过度聚焦于已知领域，忽视高风险探索。
+> 1. **[[Streetlight Effect|街灯效应]]（Streetlight Effect）** 数据库偏向收录成熟与易发表议题，诱导[[Cumulative Innovation|后续研究]]过度聚焦于已知领域，忽视高风险探索。
 > 2. **抽屉效应（File Drawer Problem）** 阴性结果与失败实验极少被录用发表，导致知识库呈现系统性正向[[Publication Bias|发表偏倚]]。
 > 3. **非英语覆盖盲区** 主流引文库中超过 90% 为英语出版物，对区域性母语学术期刊与非西方科学贡献的覆盖严重不足。
 > 4. **商业数据壁垒** 头部商业引文数据库依赖昂贵的订阅与授权费用，加剧了全球学术机构之间的数据获取不平等。
@@ -277,9 +280,9 @@ issuing_organization: ""
 > - **跨领域泛化潜力** 前瞻预测从新材料发现延伸至前沿成果可复现性预测、期刊跨界影响力识别与机构知识重组潜力评估。
 
 > [!case] 经典实证案例 · 自然语言处理词向量嵌入预测材料物性发现 (Tshitoyan et al., 2019)
-> - **无监督学习语料** 抓取 1922 至 2018 年间发表于材料科学领域的 330 万篇学术文献摘要，包含超 5 亿词次文本。
+> - **无[[Supervised Learning|监督学习]]语料** 抓取 1922 至 2018 年间发表于材料科学领域的 330 万篇学术文献摘要，包含超 5 亿词次文本。
 > - **嵌入表征架构** 运用三层全连接神经网络训练 Word2vec Skip-gram 模型，将每个专业词汇与化学式映射为 200 维稠密隐层向量；语义相似与共同出现的词汇在潜空间中紧密相邻。
-> - **回溯式验证与预测** [[Screening Off|屏蔽]] 2009 年之后的文献，仅利用 2009 年之前的词向量空间，计算候选化合物向量与热电性（thermoelectric）等物性词向量的余弦相似度。模型预测的前十种候选材料中，有数种在 2012 年之后被实验独立证实为优质热电材料，且实际预测成功率达到随机挑选基准材料的 8 倍。
+> - **回溯式验证与预测** 屏蔽 2009 年之后的文献，仅利用 2009 年之前的词向量空间，计算候选化合物向量与热电性（thermoelectric）等物性词向量的余弦相似度。模型预测的前十种候选材料中，有数种在 2012 年之后被实验独立证实为优质热电材料，且实际预测成功率达到随机挑选基准材料的 8 倍。
 
 > [!figure]- 图2：基于自然语言处理词向量嵌入预测新材料物性的机器学习架构
 > ![](https://img.mylikemie.icu/sources/Liu_2023_NHB/figures/Liu_2023_NHB_Fig2_Prediction_with_Machine_Learning.jpg)
@@ -298,17 +301,17 @@ issuing_organization: ""
 > - **面板固定效应（Fixed Effects）** 通过引入个体虚拟变量完全吸收学者、机构或学科内部所有不随时间变化的时不变特征（如学者天赋、家庭文化背景与机构声誉），排除恒定遗漏变量的干扰。
 
 > [!case] 经典实证案例 · 匹配与固定效应在资助模式与[[Team Diversity|团队多样性]]中的应用
-> - **对人资助模式对创新突破的因果促进 (Azoulay et al., 2011)** 比较霍华德·休斯医学研究所（Howard Hughes Medical Institute, HHMI）资助人而非项目的长周期容错支持与 NIH 传统 R01 课题资助。采用精确匹配与倾向得分匹配控制学者的入选前产出基线、引文历史与学术年龄，发现长周期容错支持使学者转向高风险前沿课题的几率显著提高，产出顶尖高引成果（Top 1%）的几率翻倍。
+> - **对人资助模式对创新突破的因果促进 ([[Argument_Azoulay_2011_RJE|Azoulay et al., 2011]])** 比较[[Howard Hughes Medical Institute|霍华德·休斯医学研究所]]（Howard Hughes Medical Institute, HHMI）资助人而非项目的长周期容错支持与 NIH 传统 R01 课题资助。采用精确匹配与倾向得分匹配控制学者的入选前产出基线、引文历史与学术年龄，发现长周期容错支持使学者转向高风险前沿课题的几率显著提高，产出顶尖高引成果（Top 1%）的几率翻倍。
 > - **性别多样性团队提升[[Research Impact|科研影响力]] (Yang et al., 2022)** 分析跨越两千余万篇跨学科文献，在回归模型中引入个体固定效应（Individual Fixed Effects）与学科-年份固定效应。在完全吸收个体先天能力与机构环境恒定差异的前提下，实证证实男女混合团队发表的研究在被引频次与跨界新颖性上均显著高于单一性别团队。
 
 > [!sub-claim] 2. 准实验利用意外冲击与评审门槛，能够准确识别人才溢出与资助效应
 
 > [!feature] 科学学三大准实验因果识别机制
 > - **双重差分法（Difference-in-Differences, DID）** 借助外生突发事件（如学者猝逝、撤稿丑闻引起的[[Retraction Penalty|撤稿惩罚]]、地缘变局）作为冲击，通过比较处理组与对照组在冲击前后的双重变化量扣除共有时间趋势，因果识别学术溢出与同伴效应（[[Difference-in-Differences]]）。
-> - **工具变量法（Instrumental Variables, IV）** 寻找仅通过影响处理变量进而作用于结果变量的外生工具，阻断未观测时变混杂与反向因果路径（[[Instrumental Variables]]）。
+> - **[[Instrumental Variables|工具变量法]]（Instrumental Variables, IV）** 寻找仅通过影响处理变量进而作用于结果变量的外生工具，阻断未观测时变混杂与反向因果路径（[[Instrumental Variables]]）。
 > - **断点回归设计（Regression Discontinuity Design, RDD）** 利用资助评审打分线等刚性截断门槛，在阈值紧邻邻域内利用个体的局域随机性，无偏测度资助的局部平均处理效应（Local Average Treatment Effect, LATE）（[[Regression Discontinuity Design]]）。
 
-> [!design-notation] 准自然实验双重差分设计（明星学者猝逝因果识别）
+> [!design-notation] [[Natural Experiment|准自然实验]]双重差分设计（明星学者猝逝因果识别）
 > 比较明星学者猝逝前后，受冲击合作同行（处理组）与匹配未受冲击合作同行（对照组）的科研产出变化：
 >
 > - **受冲击合作组** *NR* ==O₁== `X` ==O₂==
@@ -324,7 +327,7 @@ issuing_organization: ""
 >   - **识别检验** 严格验证事前平行趋势假定；实证显示巨星猝逝后，合作同行的年均发文量与引文表现出现 5%–8% 的持久性断崖式下滑，且该损失在高度依赖巨星专业知识的紧密合作群体中尤为显著，确立了学术明星对知识溢出的真实因果贡献。
 > - **[[Instrumental Variables|工具变量法]]：二战时期学者政治清洗对高校科学产出的因果冲击 (Waldinger, 2010, 2012)**
 >   - **外生工具** 1933 年德国纳粹政权颁布法令强制解聘所有具有犹太血统的高校学者。清洗比例由各大学历史教研人员的族裔构成决定，与各院系当时的科研发展趋势严格外生。
->   - **因果识别** 以各院系犹太学者被解聘比例作为工具变量，剥离学者主动流动或[[School Choice|择校]]选择效应，因果识别资深同行流失对德国大学留任教员与博士生后续长期产出的负向因果溢出。
+>   - **因果识别** 以各院系犹太学者被解聘比例作为工具变量，剥离学者主动流动或择校选择效应，因果识别资深同行流失对德国大学留任教员与博士生后续长期产出的负向因果溢出。
 > - **断点回归设计：基金评审截断门槛与科学资助马太效应 (Bol et al., 2018)**
 >   - **驱动变量与断点** 荷兰研究理事会（Dutch Research Council, NWO）青年早期创新基金（Veni）严格依据同行评议的量化评审打分排序划定资助线。
 >   - **局域随机性** 处于资助线紧邻两侧（险胜与惜败）的申请人在前期学术成果、博士毕业年限与研究质量上保持严格平滑连续。
@@ -372,7 +375,7 @@ issuing_organization: ""
 ---
 
 > [!citation-card] 科学学实证方法全景体系与政策使命
-> 随着追踪科学运行的大规模数据资源的[[Emergence|涌现]]，来自不同学科背景的研究者开始将[[Scientific Method|科学方法]]反身应用于科学本身，孕育出蓬勃发展的科学学。新的实证研究发展为检验传统信念与理论框架、发掘科研生产力关联要素、前瞻预测科学突破并优化科技政策设计提供了坚实的实证基底。
+> 随着追踪科学运行的大规模数据资源的涌现，来自不同学科背景的研究者开始将[[Scientific Method|科学方法]]反身应用于科学本身，孕育出蓬勃发展的科学学。新的实证研究发展为检验传统信念与理论框架、发掘科研生产力关联要素、前瞻预测科学突破并优化科技政策设计提供了坚实的实证基底。
 >
 > *The advent of large-scale datasets that trace the workings of science has encouraged researchers from many different disciplinary backgrounds to turn scientific methods into science itself, cultivating a rapidly expanding 'science of science'... Overall, new empirical developments provide enormous capacity to test traditional beliefs and conceptual frameworks about science, discover factors associated with scientific productivity, predict scientific outcomes and design policies that facilitate scientific progress.*
 

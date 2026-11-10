@@ -8,7 +8,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 6
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -20,9 +20,9 @@ tags:
   - theme/teacher-agency
   - theme/evidence-based-education
 related_concepts:
+  - "[[Phronesis]]"
   - "[[Evidence-Based Education]]"
   - "[[Teacher Professional Agency]]"
-  - "[[Effective Teaching]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -30,12 +30,14 @@ related_persons: []
 related_facts:
   - "[[Australian Council for Educational Research]]"
   - "[[ResearchED]]"
+  - "[[Australian Institute for Teaching and School Leadership]]"
+  - "[[American Council on Education]]"
 related_arguments:
   - "[[Argument_Sarbiewska_2019_KiW]]"
 confidence: medium
 status: draft
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -47,7 +49,7 @@ updated: 2026-11-10
 > - **成立时间 / 创设背景** 澳大利亚全国性专业教师学会，旨在为不同教育体系（公立、天主教与独立学校）的教师提供跨部门交流与专业认同平台。
 > - **总部地点 / 业务辐射** 业务覆盖全澳各州与领地，面向学前、中小学及高等教育领域的教师及教育专家开放会员网络。
 > - **法人属性与经费基础** 独立的非营利专业学会法人，主要依托会员会费、专业发展会议收益及项目合作维持运营。
-> - **核心宗旨与法定职责** 提升教师群体的专业地位与学术声誉，倡导循证教学实践，推动一线教师实践智慧的跨校传播。
+> - **核心宗旨与法定职责** 提升教师群体的专业地位与学术声誉，倡导循证教学实践，推动一线教师[[Phronesis|实践智慧]]的跨校传播。
 
 ---
 
@@ -58,7 +60,7 @@ updated: 2026-11-10
 > 
 > - **证据中介平台建设与跨界协同**
 > 
->   响应循证教育改革趋势，联合国家研究机构搭建教师实践证据共享渠道。
+>   响应[[Evidence-Based Education|循证教育]]改革趋势，联合国家研究机构搭建教师实践证据共享渠道。
 > 
 >   - **2017** 联合[[Australian Council for Educational Research|澳大利亚教育研究委员会]]（ACER）举办专业实践卓越大会（Excellence in Professional Practice Conference），并协同推动 [[ResearchED]] 平台在澳大利亚创设，建立旨在“使优秀实践成为普遍实践”的草根证据中介机制（Deeble & Vaughan, 2018；[[Argument_Sarbiewska_2019_KiW|Sarbiewska, 2019, p. 126]]）。
 
@@ -85,7 +87,7 @@ updated: 2026-11-10
 > [!debates] 核心争议交锋
 > 
 > > [!axis] 专业团体自主性 vs 国家法定规制
-> > 在全澳推行由 AITSL 主导的官方统一教师专业标准与认证考核背景下，民间专业学会如何维持专业独立自主性并避免边缘化。
+> > 在全澳推行由 [[Australian Institute for Teaching and School Leadership|AITSL]] 主导的官方统一教师专业标准与认证考核背景下，民间专业学会如何维持专业独立自主性并避免边缘化。
 > > 
 > > - **专业自治诉求** 倡导尊重教师共同体的内在专业反思与自下而上的经验共识。
 > > - **国家规制压力** 官方自上而下的严格资质问责对传统学会的动员模式带来结构性调整压力。
@@ -97,6 +99,6 @@ updated: 2026-11-10
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Australian Council for Educational Research]] | Fact (Organization) | 协同主办专业实践卓越大会并推进证据中介机制建设的紧密合作机构。 |
-> | [[ResearchED]] | Fact (Event) | ACE 在澳大利亚支持创设并推动落地的草根循证教师研讨网络。 |
+> | [[ResearchED]] | Fact (Event) | [[American Council on Education\|ACE]] 在澳大利亚支持创设并推动落地的草根循证教师研讨网络。 |
 > | [[Evidence-Based Education]] | Concept | ACE 在推进专业发展与经验共享中倡导的实证教育理念。 |
 > | [[Teacher Professional Agency]] | Concept | 强调教师作为证据主动使用者与课堂探究主体的专业能动性。 |

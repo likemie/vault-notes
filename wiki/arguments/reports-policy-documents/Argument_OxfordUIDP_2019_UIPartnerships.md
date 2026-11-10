@@ -7,7 +7,7 @@ title: "Argument_OxfordUIDP_2019_UIPartnerships"
 argument_key: "Argument_OxfordUIDP_2019_UIPartnerships"
 argument_display_title: "Developing university-industry partnerships fit for the future: Report of the inaugural Oxford UIDP Summit 2019"
 argument_kind: "report"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -79,6 +79,7 @@ related_facts:
   - "[[ROI Initiative for Unleashing American Innovation]]"
   - "[[Social Science One]]"
   - "[[National Science Foundation]]"
+  - "[[Web of Science]]"
   - "[[Manufacturing USA]]"
   - "[[UK Knowledge Exchange Framework]]"
   - "[[OECD]]"
@@ -91,7 +92,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-10
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 ---
 > [!question]
@@ -282,7 +283,7 @@ updated: 2026-10-26
 以下五条路径正是**前沿内扩散**逻辑的[[Operationalization|操作化]]——峰会识别了大学触达技术前沿内部企业的具体方式：
 
 > [!pathways] 前沿内扩散的五条可行路径
-> - **供应链传导** 通过大型企业的供应链工作，帮助缺乏与大学互动经验的中小企业定位合适的活动和会议、获取专业和科学网络。
+> - **供应链传导** 通过大型企业的供应链工作，帮助缺乏与大学互动经验的中小企业定位合适的活动和会议、获取专业和[[Web of Science|科学网]]络。
 > - **中介导航** 利用研究和技术中介机构（如英国 Catapult、德国 Fraunhofer、美国 [[Manufacturing USA]]）帮助公司导航研究格局、识别潜在伙伴和资助机会。
 > - **偶遇设计** 创造机会让创新系统不同部分的人员相互遇见，发现与自身创新需求相关的新兴技术。
 > - **网络效应** 前沿内部企业看到越多同行采用新技术、与大学合作，自己越可能跟进——早期的成功案例具有超出自身的扩散价值。

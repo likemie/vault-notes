@@ -9,9 +9,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 tags:
   - region/global
@@ -23,6 +23,7 @@ related_concepts:
   - "[[International Schools]]"
   - "[[International Education]]"
   - "[[International Baccalaureate]]"
+  - "[[Curriculum Connection]]"
   - "[[Experiential Learning]]"
   - "[[Space of Places]]"
   - "[[Theory of Knowledge]]"
@@ -45,7 +46,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -107,7 +108,7 @@ updated: 2026-10-22
 
 > [!feature] 共同使命落实为四类教育业务
 > - **跨国选拔与资助** 国家委员会组织择优选拔与奖学金筹措，力求使家庭财富不决定入学机会。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 210–212)]]
-> - **共同生活与学术教育** 经典寄宿书院把不同国家青年放入共同生活环境，并以[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）课程连接严格学术训练与国际升学。关联学校则扩大年龄和入学渠道。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, pp. 115–125)]]
+> - **共同生活与学术教育** 经典寄宿书院把不同国家青年放入共同生活环境，并以[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）[[Curriculum Connection|课程连接]]严格学术训练与国际升学。关联学校则扩大年龄和入学渠道。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, pp. 115–125)]]
 > - **服务与[[Experiential Learning|经验学习]]** 书院以救援、地方社区服务及其他实践联系学术学习和行动责任，第二个十年进一步强调饥饿与南北差距。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, pp. 168–170, 184–185)]]
 > - **地方适应与新项目开发** 网络允许学校回应当地社会问题，探索农业教育和农村发展课程；拟议项目需要逐一确认筹资、许可、课程和成员身份。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 214–215)]]
 

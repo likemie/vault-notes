@@ -10,7 +10,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 11
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -24,6 +24,8 @@ tags:
   - south-south-cooperation
   - university-alliances
 related_concepts:
+  - "[[Study Abroad]]"
+  - "[[Transnational Education]]"
   - "[[South-South Cooperation]]"
   - "[[Mutual Learning]]"
   - "[[People-to-People Connectivity]]"
@@ -44,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -56,7 +58,7 @@ updated: 2026-10-26
 > - **立项时间 / 周期** 2009年11月在中非合作论坛第四届部长级会议（埃及沙姆沙伊赫）上作为对非合作新八项举措之一正式提出，2010年由教育部正式印发实施方案并在各高校实质推进。[[Argument_King_2020_ECNUROE|(King, 2020, p. 224)]]
 > - **发起方与资助机制** 由中国教育部国际合作与交流司牵头组织，设立专项财政对口扶持资金，并由[[China Scholarship Council|国家留学基金管理委员会]]（CSC）定向划拨中国政府全额奖学金名额，支持对口高校间开展师资研修与学生联合培养。
 > - **覆盖范围与对象** 严格遴选20所中国高水平综合性大学与专业特色高校（如北京大学、清华大学、浙江大学、中国农业大学、北京交通大学、华东师范大学等），同20所非洲重点高校（如开罗大学、达累斯萨拉姆大学、内罗毕大学、雅温得第二大学等）建立一对一合作关系。
-> - **核心问题导向** 针对早期对非教育交流呈现的零散自发、层级偏低、留学生回国后与母校缺乏长效联系等弊端，通过高校对口结对建立制度化的跨国高教合作纽带。
+> - **核心问题导向** 针对早期对非教育交流呈现的零散自发、层级偏低、[[Study Abroad|留学]]生回国后与母校缺乏长效联系等弊端，通过高校对口结对建立制度化的跨国高教合作纽带。
 
 ---
 
@@ -126,7 +128,7 @@ updated: 2026-10-26
 > > - **对口校方的机制优化回应** 高校管理者指出，一对一结对需要双方建立深层学术共同体认同，通过转向科研项目联合申报与产教联合体合作，能够有效激活非方高校的内生动力。
 
 > [!lessons] 经验教训与启示
-> - **机构对口结对破解援助短期性** 跨国高等教育援助必须摆脱单一的人员单向流动模式，通过机构层面的学科结对，能够将政府外交承诺转化为大学内部长效的学术内生演进机制。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224–225)]]
+> - **机构对口结对破解援助短期性** [[Transnational Education|跨国高等教育]]援助必须摆脱单一的人员单向流动模式，通过机构层面的学科结对，能够将政府外交承诺转化为大学内部长效的学术内生演进机制。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224–225)]]
 
 ---
 

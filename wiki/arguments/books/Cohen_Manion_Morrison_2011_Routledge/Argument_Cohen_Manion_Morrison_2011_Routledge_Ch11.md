@@ -11,9 +11,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
 argument_display_title: "Research Methods in Education · Ch11"
 argument_kind: "book-chapter"
-argument_related_count: 88
-argument_related_level: 8
-argument_related_stars: "💎💎⭐⭐"
+argument_related_count: 91
+argument_related_level: 9
+argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Naturalistic Generalization]]"
   - "[[Creativity]]"
+  - "[[Research Tool]]"
   - "[[Emergence]]"
   - "[[Construct]]"
   - "[[Researcher as Key Instrument]]"
@@ -52,6 +53,7 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Praxis]]"
   - "[[Ontology]]"
+  - "[[Cumulative Innovation]]"
   - "[[Causality]]"
   - "[[Discourse]]"
   - "[[Artefact]]"
@@ -105,6 +107,7 @@ related_methods:
   - "[[Snowball Sampling]]"
   - "[[Theoretical Sampling]]"
   - "[[Analytic Induction]]"
+  - "[[Knowledge Extent]]"
   - "[[Field Notes]]"
   - "[[Semi-structured Interview]]"
   - "[[Audiovisual, Social Media, and Digital Materials]]"
@@ -125,7 +128,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-24
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 > [!knowledge-map] 第11章：[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_11-1_Concept_Map.jpg)
@@ -171,7 +174,7 @@ updated: 2026-10-29
 > - **现实是多元的、建构的、整体的** 认识者与被认识者互动且不可分；一切实体处于相互同时塑造的状态中，不可能区分原因和效果。只有时间和情境绑定的工作假设（个体描述性陈述）是可能的。
 > - **探究是价值负载的** 研究受研究者价值观影响于四个层面：问题、评价对象或政策选项的选择与框架界定；指导研究的范式选择；指导数据收集和分析的实质理论选择；情境中固有的价值观。探究要么是价值一致性的（强化/一致的），要么是价值不一致的（冲突的）。问题、范式和理论必须与情境展现出一致性才能产生有意义的结果（pp.403–404）。
 > - **[[Rich and Thick Description\|厚描述]]的必要性** 研究须包含对情境化行为的[[Rich and Thick Description\|厚描述]]（Geertz, 1973），不仅是详细观察数据，还包括意义、参与者对情境的诠释及不可观察因素的数据。意义归因持续演化；人是深思熟虑的、有意图的、[[Creativity\|创造性]]的行动者；历史与传记交织；我们创造自己的未来，但未必在自选的情境中。
-> - **研究者即研究工具（Eisner, 1991）** 研究者生成而非检验假设，不知事先会看到什么、寻求什么。社会研究须以参与者眼光审视情境. 民族志的任务如 Malinowski（1922, p. 25）所言，是把握"土著的视角"。研究应在自然、非人为的、真实世界场景中进行，研究者干预尽可能少。
+> - **研究者即[[Research Tool|研究工具]]（Eisner, 1991）** 研究者生成而非检验假设，不知事先会看到什么、寻求什么。社会研究须以参与者眼光审视情境. 民族志的任务如 Malinowski（1922, p. 25）所言，是把握"土著的视角"。研究应在自然、非人为的、真实世界场景中进行，研究者干预尽可能少。
 > - **归纳式数据分析和[[Emergence\|涌现]]式理论** 数据分析是归纳的，[[Construct\|构念]]从数据中衍生。理论是派生的、扎根的（Glaser & Strauss, 1967）；数据提示理论而非相反。概括性被重释为对可识别特定场景和主体的概括，而非普遍概括。情境独特；研究过程和结果同等重要。
 
 Lincoln and Guba（1985, pp. 39–43）将这些公理转化为以下几组操作性含义：
@@ -247,7 +250,7 @@ Lincoln and Guba（1985, pp. 39–43）将这些公理转化为以下几组操�
 ---
 
 > [!claim|step] 论证步骤一：确立认识论基础
-> 自然主义/质性/民族志研究共享一个连贯的认识论范式，系统地区别于[[Positivism\|实证主义]]传统。此范式不仅提供了替代性的[[Ontology\|本体论]]和认识论立场，也为后续研究规划、抽样、数据收集和分析提供了内在一致的操作原则。
+> 自然主义/质性/民族志研究共享一个连贯的认识论范式，系统地区别于[[Positivism\|实证主义]]传统。此范式不仅提供了替代性的[[Ontology\|本体论]]和认识论立场，也为[[Cumulative Innovation|后续研究]]规划、抽样、数据收集和分析提供了内在一致的操作原则。
 
 **民族志研究的核心要素。** LeCompte and Preissle（1993）定义民族志为兼具探究方法、结果和记录的过程，旨在尽可能生动地重构所研究的文化或群体（p.235）：
 
@@ -581,7 +584,7 @@ Loftland（1971）建议采用"**可接受的无能者**"（acceptable incompete
 
 #### 阶段6：寻找信息提供者（Finding Informants）
 
-要求研究者评估信息提供者的众多维度：谁叙述更重要？谁有能力评论？谁可靠？地位如何？代表性和中心性如何？在不同场景中的表现？知识广度和深度？对接触他人的守门人角色的关键性？以及信息提供者与情境中他人的关系（pp.427–428）。
+要求研究者评估信息提供者的众多维度：谁叙述更重要？谁有能力评论？谁可靠？地位如何？代表性和中心性如何？在不同场景中的表现？[[Knowledge Extent|知识广度]]和深度？对接触他人的守门人角色的关键性？以及信息提供者与情境中他人的关系（pp.427–428）。
 
 **核心警告：** LeCompte and Preissle（1993, p. 95）指出民族志学者遇到的第一个信息提供者可能是自我选择的，在群体中边缘、地位低，通过参与研究提升声望。Lincoln and Guba（1985, p. 252）因此区分**信息提供者（informant）** 与**告密者（informer）**，后者可能有个人恩怨需要清算。
 Morse（1994, p. 228）将信息提供者分为两类：
@@ -820,7 +823,7 @@ Larsson（2009, p. 36）最终论证：**质性研究概括化的责任在于受
 
 ---
 
-> [!citation-card] 卓越的研究工具
+> [!citation-card] 卓越的[[Research Tool|研究工具]]
 > 研究者是卓越的研究工具。行为和态度通常在跨情境中不稳定，而研究者可能在塑造情境中发挥关键作用，这成为分析的核心……我们发展的用来解释所研究人群行为的理论，也应在相关时适用于我们自身作为研究者的活动。（p.409，引自 Hammersley & Atkinson, 1983, pp. 18–19）
 > *He or she [the researcher] is the research instrument par excellence. The fact that behaviour and attitudes are often not stable across contexts and that the researcher may play a part in shaping the context becomes central to the analysis... The theories we develop to explain the behaviour of the people we study should also, where relevant, be applied to our own activities as researchers.*
 

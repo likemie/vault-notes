@@ -10,7 +10,7 @@ subtype: organization
 region: turkey
 fact_region: "turkey"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Centre for Policy Studies]]"
   - "[[OECD]]"
   - "[[Education Endowment Foundation]]"
   - "[[Australian Education Research Organisation]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -52,7 +53,7 @@ updated: 2026-11-02
 > 土耳其教育改革倡议（土耳其语：Eğitim Reformu Girişimi, ERG；英文：Education Reform Initiative）是设于萨班哲大学（Sabancı University）的独立政策研究与[[Educational Brokerage Agency\|知识中介机构]]。其最大体制特色在于**完全由土耳其领先的民间慈善基金会联合出资维系**，在政府既不设立官方中介亦不提供直接经常性资助的政治环境下，依托大学自治地位与民间社会资本，独立向政策制定者、教育实践者与公众提供基于实证证据的教育监测与改革方案。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]将其列为“独立慈善基金型”中介中少有的非西方、非英美代表案例。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 62]])
 
 > [!org-context] 机构背景与设立渊源
-> - **成立时间 / 依托单位** 成立于 2003 年，常设于伊斯坦布尔萨班哲大学政策研究中心体系内。
+> - **成立时间 / 依托单位** 成立于 2003 年，常设于伊斯坦布尔萨班哲大学[[Centre for Policy Studies|政策研究中心]]体系内。
 > - **创设背景** 21 世纪初土耳其基础教育面临严重的质量差距与区域不平等，同时官方教育决策过程高度集权且缺乏系统实证依据。在此背景下，以萨班哲基金会（Sabancı Foundation）为代表的多家主流慈善基金会联手设立 ERG，意在构建一个基于科学证据、致力于推动“全民优质教育”（[[Quality Education]] for All）的独立公民社会中介平台。
 > - **法人属性与经费基础** 依托大学的独立非营利智库，资金完全来源于企业与家族慈善基金会的联合资助网络，形式上与财务上均独立于国家教育部，但教育部及其地方机构始终是其开展政策对话的关键伙伴。
 > - **核心使命** 提升土耳其教育政策决策的循证水平，保障儿童受教育权利与教育公平，并促进公众对关键教育议题的批判性讨论与理性审议。

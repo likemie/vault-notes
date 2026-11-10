@@ -37,17 +37,17 @@ related_instruments: []
 related_persons:
   - "[[Michael Kratsios]]"
 related_facts:
-  - "[[AlphaFold]]"
   - "[[National Institutes of Health]]"
   - "[[National Science Foundation]]"
   - "[[Protein Data Bank]]"
+  - "[[AlphaFold]]"
 related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit10]]"
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -81,7 +81,7 @@ updated: 2026-11-02
 > [!dev-timeline] CASP 关键里程碑历程
 > - **1994 — CASP1 创设与盲测[[Paradigm|范式]]确立** 首次证明计算生物学界宣称的算法在盲测面前误差巨大，奠定了“无盲测不采信”的严密科学基准。
 > - **1996–2016 — 缓慢爬坡期与自由建模瓶颈** 二十年间全球团队在同源建模上稳步进步，但在缺乏已知模板的从头预测（*ab initio* / Free Modeling）中 GDT-TS 分数长期停滞在 30–40 分的低效区间。
-> - **2018 — CASP13 与 AlphaFold 首度惊艳亮相** DeepMind 团队携初代 AlphaFold 参赛，在自由建模类别中以显著优势碾压传统物理化学方法，引发全球关注。
+> - **2018 — CASP13 与 [[AlphaFold]] 首度惊艳亮相** DeepMind 团队携初代 AlphaFold 参赛，在自由建模类别中以显著优势碾压传统物理化学方法，引发全球关注。
 > - **2020 — CASP14 与蛋白质折叠半世纪难题的历史性攻克** AlphaFold 2 在绝大多数靶点上取得了中位数超过 90 分的 GDT-TS 成绩，达到与 X 射线晶体衍射和冷冻电镜实验误差相当的原子级精度，宣告蛋白质折叠空间预测问题基本解决。
 > - **2025–2026 — 白宫国家科技战略总结其为中等规模工程科学典范** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告第二章将 CASP 盲测竞赛与 [[Protein Data Bank|PDB]] 数据公地共同确立为中等规模工程科学与跨学科颠覆性突破的制度范本。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 22)]]
 

@@ -7,10 +7,10 @@ summary: "剑桥大学教育学教授、英国学术院院士，跨国课堂教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 29
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 30
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1941"
 lifespan: 1941–至今
 tags:
@@ -43,6 +43,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Patricia Broadfoot]]"
+  - "[[David P. Phillips]]"
   - "[[David Phillips]]"
   - "[[Lev Vygotsky]]"
   - "[[Michael Sadler]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -89,7 +90,7 @@ updated: 2026-11-02
 ---
 
 > [!work-line] 代表著作
-> - **1999 — *Learning from Comparing: New Directions in Comparative Educational Research* (Ed.)** 与[[Patricia Broadfoot|帕特丽夏·布罗德富特]]（Patricia Broadfoot）及戴维·菲利普斯（[[David Phillips]]）合编，奠定英国学派微观比较方法论转向。
+> - **1999 — *Learning from Comparing: New Directions in Comparative Educational Research* (Ed.)** 与[[Patricia Broadfoot|帕特丽夏·布罗德富特]]（Patricia Broadfoot）及[[David P. Phillips|戴维·菲利普斯]]（[[David Phillips]]）合编，奠定英国学派微观比较方法论转向。
 > - **2000 — *Culture and Pedagogy: International Comparisons in Primary Education*** 跨国课堂教学研究的里程碑巨著，系统建构了解析课堂微观运作与宏观文化理念的多维理论矩阵。
 > - **2006 — *Towards [[Dialogue in Education|dialogic teaching]]: Rethinking Classroom Talk*** 系统提出对话教学的五大原则（集体性、互惠性、支持性、累积性、目的性），推动全球课堂[[Discourse|话语]]革命。
 > - **2010 — *Children, Their World, Their Education: Final Report and Recommendations of the Cambridge Primary Review*** 主笔全英初等教育综合调查终期报告，全方位重构初等教育目标、课程与评估框架。

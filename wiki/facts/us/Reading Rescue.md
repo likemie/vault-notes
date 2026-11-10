@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[John Rex]]"
+  - "[[Ben Levin]]"
 related_facts:
   - "[[Reading Recovery]]"
   - "[[Every Student Succeeds Act]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-10-30
 >   - **引入并精读分级新书（Introducing and Reading a New Book，10 分钟）** 在助教[[Scaffolding\|脚手架]]支持下出声朗读新文本，当堂矫正阅读偏差。
 > - **“校本协调员—助教”专业支持架构** 每所学校指定一名资深专职阅读专家担任“校本读写协调员（Literacy Coordinator）”，每周对助教进行集体微教研与现场看课指导，确保非专业人员始终维持极高的教学依从度。
 
-> [!citation-card] 斯莱文论 Reading Rescue 助教辅导的超常[[Effect Size\|效应量]]
+> [!citation-card] 斯[[Ben Levin|莱文]]论 Reading Rescue 助教辅导的超常[[Effect Size\|效应量]]
 > 在初等阅读一对一辅导中，助教主导的干预不仅成本极低，且能够产生巨大的学业增益。例如针对一年级学生实施的 Reading Rescue 辅导方案，在因果实证评估中取得了高达 +0.81 的超常效应量，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）的中等[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *One-to-one tutoring provided by [[Teaching Assistant|Teaching Assistants]] yielded large effects in reading. Reading Rescue, delivered to first graders by paraprofessionals under the supervision of a school coordinator, produced an extraordinary effect size of +0.81, meeting the ESSA Moderate rating.*

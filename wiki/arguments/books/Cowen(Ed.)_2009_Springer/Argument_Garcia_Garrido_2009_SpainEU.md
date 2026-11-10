@@ -7,7 +7,7 @@ title: "Argument_Garcia_Garrido_2009_SpainEU"
 argument_key: "Argument_Garcia_Garrido_2009_SpainEU"
 argument_display_title: "The European Union and education in Spain"
 argument_kind: "book-chapter"
-argument_related_count: 30
+argument_related_count: 32
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -40,10 +40,12 @@ related_concepts:
   - "[[Plaintive Comparison]]"
   - "[[Educational Decentralization]]"
   - "[[Discourse]]"
+  - "[[Nationalism]]"
   - "[[Comprehensive Education]]"
   - "[[Heterogeneity]]"
   - "[[State Educational Sovereignty]]"
   - "[[Critique of PISA]]"
+  - "[[Study Abroad]]"
   - "[[Academic Achievement]]"
   - "[[Class Size]]"
   - "[[Global Universities Rankings]]"
@@ -69,7 +71,7 @@ related_facts:
   - "[[Times Higher Education World University Rankings]]"
 status: completed
 created: 2026-10-11
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
@@ -81,7 +83,7 @@ updated: 2026-10-29
 
 > [!concept-lens] 阅读透镜
 > - **对象** 西班牙现代教育体制（从 19 世纪自由主义改革、1970 年弗朗哥晚期改革到当代民主转型立法）及其在欧盟主要成员国（英国、美国、德国、法国、意大利、比利时与北欧国家）比较坐标中的定位。
-> - **张力** 亲欧话语（Europeanist rhetoric）与孤立心态的张力；超国家趋同诉求与 17 个自治区地方民族主义割据的张力；追求形式平等的一体化[[Comprehensive Education|综合教育]]与学生资质[[Heterogeneity|异质性]]导致的学业失败之间的张力。
+> - **张力** 亲欧话语（Europeanist rhetoric）与孤立心态的张力；超国家趋同诉求与 17 个自治区地方[[Nationalism|民族主义]]割据的张力；追求形式平等的一体化[[Comprehensive Education|综合教育]]与学生资质[[Heterogeneity|异质性]]导致的学业失败之间的张力。
 > - **贡献** 打破了将欧洲一体化简单等同于单向进步与自愿趋同的理想化叙事，从学术自省视角深入解剖了后发国家在教育现代化借用过程中产生的制度排异、行政膨胀与质量异化。
 
 ---
@@ -140,7 +142,7 @@ updated: 2026-10-29
 > - **迟缓被动的国民体系** 18 世纪前期的体系被定性为受挫的国民体系（frustrated national system）。1813 年金塔纳报告与 1857 年《[[Moyano Law of 1857|莫亚诺法案]]》均属于迟缓胆怯的被动立法，后者竟原封不动维系了一个世纪，未能及时回应工业化与大众教育的需求。
 > - **封闭自足的文化定式** 历史文化研究揭示，抗拒倾听外部经验是一种深层的社会心理定式。社会长期流传两种孤立主义偏见：一是盲目自信本国文明完满自足而无须向外人学习，二是认为吸收外国经验必然破坏本土传统纯粹性。尽管费霍神父（Feijoo）等启蒙思想家早在 18 世纪就系统批驳了这些观念，封闭心态依然长期主导教育实践。
 > - **借鉴外部经验时的歉意与顾虑** 19 世纪跨国考察者在引介外国教育时往往背负沉重的心理顾虑。例如加西亚·纳瓦罗（García Navarro, 1874）引介福禄贝尔幼儿园制度时甚至公开向读者致歉；丰塔纳尔斯·德尔·卡斯蒂略（Joaquín Fontanals del Castillo, 1865）则告诫西班牙并非法、英、德，盲目照搬断不可行，主张必须立足本土现实展开审慎比较。
-> - **面向欧洲的零星突围** 20 世纪初，思想界开始尝试打破封闭。罗马诺内斯（Romanones）伯爵在 1901 年法令序言中指出，西班牙教育的每一次实质进步都源于与欧洲学术思想的交流；1907 年设立的扩大研究与科学调查委员会（Board for Advanced Studies and Scientific Research, JAE）主动资助学者赴法德留学，第二共和国时期也广泛汲取了西欧与苏联经验。
+> - **面向欧洲的零星突围** 20 世纪初，思想界开始尝试打破封闭。罗马诺内斯（Romanones）伯爵在 1901 年法令序言中指出，西班牙教育的每一次实质进步都源于与欧洲学术思想的交流；1907 年设立的扩大研究与科学调查委员会（Board for Advanced Studies and Scientific Research, JAE）主动资助学者赴法德[[Study Abroad|留学]]，第二共和国时期也广泛汲取了西欧与苏联经验。
 
 > [!sub-claim] 2. 追赶欧洲的立法节律严重滞后，频繁政党更替更陷入推倒重来的恶性循环
 

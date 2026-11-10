@@ -8,7 +8,7 @@ aliases:
 summary: "一种协调理解、行动与享受能力的完整发展理念，把智识学习与社会、道德、审美、身体和精神经验纳入共同教育目标。"
 type: concept
 domain: "educational-philosophy"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,6 +39,7 @@ related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Natural Experiment]]"
 related_instruments: []
 related_persons:
   - "[[Alec Peterson]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -126,7 +127,7 @@ updated: 2026-11-03
 > **思想工具多样性与课程容量张力维度** 揭示理解客观世界所需的多[[Metacognition|元认知]]框架，与高中阶段有限课时容量之间的结构性取舍。
 
 > [!claim] Peterson, A. D. C.
-> **理解环境的课程结构经过审慎取舍而非机械堆砌** 皮特森强调，全人理解需要掌握多种思想工具。国际文凭将母语文学与数学确立为基础思维工具，同时必修自然实验科学与人类社会科学。设计团队在规划时曾考虑普通语言学，后因国际身份认同与[[Student Motivation|学习动机]]选择外语教学，但同时警惕外语若不明确指向语言本质理解则难以达成预期；历史学科曾被建议列为必修，但若强制必修则会挤出其他社会科学门类；道德、审美与宗教判断最终统整于[[Theory of Knowledge|知识论]]（TOK），艺术与音乐则保留为个性化选修。理解环境的目标由此表现为经过取舍的多元均衡结构，而非无限累加的百科全书式科目清单。[[Argument_Peterson_1987_OpenCourt_Ch03|(Peterson, 1987, pp. 57–58)]]
+> **理解环境的课程结构经过审慎取舍而非机械堆砌** 皮特森强调，全人理解需要掌握多种思想工具。国际文凭将母语文学与数学确立为基础思维工具，同时必修[[Natural Experiment|自然实验]]科学与人类社会科学。设计团队在规划时曾考虑普通语言学，后因国际身份认同与[[Student Motivation|学习动机]]选择外语教学，但同时警惕外语若不明确指向语言本质理解则难以达成预期；历史学科曾被建议列为必修，但若强制必修则会挤出其他社会科学门类；道德、审美与宗教判断最终统整于[[Theory of Knowledge|知识论]]（TOK），艺术与音乐则保留为个性化选修。理解环境的目标由此表现为经过取舍的多元均衡结构，而非无限累加的百科全书式科目清单。[[Argument_Peterson_1987_OpenCourt_Ch03|(Peterson, 1987, pp. 57–58)]]
 
 ---
 

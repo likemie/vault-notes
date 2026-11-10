@@ -8,7 +8,7 @@ summary: "美国著名社会学家与计算社会科学先驱，芝加哥大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,12 +24,19 @@ related_concepts:
   - "[[Collective Intelligence]]"
   - "[[Paradigm]]"
   - "[[Document]]"
+  - "[[Generative Artificial Intelligence]]"
+  - "[[Scientific Productivity]]"
   - "[[Knowledge Production]]"
+  - "[[Big Science]]"
+  - "[[Early-Career Researchers]]"
   - "[[Team Science]]"
   - "[[Creativity]]"
-related_theories: []
+related_theories:
+  - "[[Chaperone Effect]]"
 related_methods:
   - "[[Disruption Index]]"
+  - "[[Knowledge Extent]]"
+  - "[[Follow-on Engagement]]"
 related_instruments: []
 related_persons:
   - "[[Lingfei Wu]]"
@@ -38,10 +45,11 @@ related_facts:
   - "[[Laser Interferometer Gravitational-Wave Observatory]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
+  - "[[Argument_Hao_2026_Nature]]"
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 
 ---
@@ -70,7 +78,7 @@ updated: 2026-11-09
 > - **2008 — *Electronic Publication and the Narrowing of Science and Scholarship* (*Science*)** 揭示学术数字化出版并未扩大参考[[Document|文献]]广度，反而通过算法超链接加剧了引文向少数顶尖文献集聚的窄化倾向。
 > - **2019 — *Large teams develop and small teams disrupt science and technology* (*Nature*)** 跨越科学论著、专利与开源代码多领域，揭示团队规模与科研成果颠覆性的单调负向关联。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 128–132)]]
 > - **2021 — *Attention and the growth of scientific ideas* (*Nature Human Behaviour*)** 形式化建模注意力瓶颈对科学思想传播与遗忘的调节动力学。
-> - **2026 — *Artificial intelligence tools expand scientists’ impact but contract science’s focus* (*Nature*)** 跨越自然科学多领域实证揭示人工智能工具加剧个体科研生产力与集体科学探索广度的结构性张力，加速学者生涯晋升的同时导致科学[[Knowledge Extent|知识广度]]收缩与[[Follow-on Engagement|后继学术卷入度]]下降。[[Argument_Hao_2026_Nature|(Hao et al., 2026)]]
+> - **2026 — *[[Generative Artificial Intelligence|Artificial intelligence]] tools expand scientists’ impact but contract science’s focus* (*Nature*)** 跨越自然科学多领域实证揭示人工智能工具加剧个体[[Scientific Productivity|科研生产力]]与集体科学探索广度的结构性张力，加速学者生涯晋升的同时导致科学[[Knowledge Extent|知识广度]]收缩与[[Follow-on Engagement|后继学术卷入度]]下降。[[Argument_Hao_2026_Nature|(Hao et al., 2026)]]
 
 ---
 
@@ -88,7 +96,7 @@ updated: 2026-11-09
 > - **政策路径** 其关于小团队颠覆性优势与引文过度同质化风险的实证发现，引发全球科技基金与学术出版机构对评审机制与搜索算法的系统性反思。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hao_2026_Nature|Hao et al. (2026)]] — 基于 4,130 万篇自然科学论著揭示人工智能工具扩大科学家个体学术影响却收缩科学集体关注焦点，导致知识广度收缩 4.63% 并减少 22% 的后续学术交流（pp. 1237–1243）。
+> - [[Argument_Hao_2026_Nature|Hao et al. (2026)]] — 基于 4,130 万篇自然科学论著揭示人工智能工具扩[[Big Science|大科学]]家个体学术影响却收缩科学集体关注焦点，导致知识广度收缩 4.63% 并减少 22% 的后续学术交流（pp. 1237–1243）。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang & Barabási (2021)]] — 深度征引埃文斯关于小团队颠覆规律的封面实证研究，探讨科技资助对大团队过度倾斜的潜在风险（pp. 128–133）。
 
 ---
@@ -106,7 +114,7 @@ updated: 2026-11-09
 > | [[Disruption Index]] | 方法 | 共同推动颠覆性指数在千万级科技大数据中的应用与检验。 |
 > | [[Knowledge Extent]] | 方法 | 共同提出基于密集向量空间测度科学集体探索边界的几何指标。 |
 > | [[Follow-on Engagement]] | 方法 | 共同形式化测度同引文献群体内部学术互动密度的网络拓扑指标。 |
-> | [[Chaperone Effect]] | 理论 | 实证检验人工智能对青年学者学术伴随依附关系的重构与松绑效应。 |
+> | [[Chaperone Effect]] | 理论 | 实证检验人工智能对[[Early-Career Researchers\|青年学者]]学术伴随依附关系的重构与松绑效应。 |
 > | [[Team Science]] | 概念 | 系统揭示团队规模对颠覆型与发展型科研模式的结构性约束。 |
 > | [[Creativity]] | 概念 | 从知识检索宽度与注意力集聚视角剖析学术创新的发生机制。 |
 > | 芝加哥大学知识实验室（Knowledge Lab） | 组织 | 创立并领导该全球领先的计算科学学与创新动力学学术重镇。 |

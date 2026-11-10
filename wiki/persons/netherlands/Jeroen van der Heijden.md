@@ -8,7 +8,7 @@ summary: "荷兰著名公共管理与规制治理学者，新西兰惠灵顿维�
 type: person
 nationality: netherlands
 person_region: "netherlands"
-person_related_count: 23
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Regulatory Ratchet]]"
   - "[[Epistemology]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Problem of Many Hands]]"
@@ -40,6 +41,7 @@ related_theories:
   - "[[Evolutionary Economics]]"
 related_methods:
   - "[[Experimental Research]]"
+  - "[[Instrumental Variables]]"
   - "[[Analytic Framework]]"
   - "[[Critical Review]]"
 related_persons:
@@ -53,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -68,7 +70,7 @@ updated: 2026-10-30
 ---
 
 > [!academic-timeline] 生平与学术节点
-> - **2007 年 — 建筑规制执行追踪与[[Realist Evaluation|实在论评估]]发轫** 在代尔夫特理工大学完成博士论文并发表关于荷兰建筑规制执行困境的研究，提出运用实在论视角解构不同层级主体对规制变革性质的时空感知差异。(Van der Heijden et al., 2007)
+> - **2007 年 — 建筑规制执行追踪与[[Realist Evaluation|实在论评估]]发轫** 在代尔夫特理工大学完成[[Doctoral Dissertation|博士论文]]并发表关于荷兰建筑规制执行困境的研究，提出运用实在论视角解构不同层级主体对规制变革性质的时空感知差异。(Van der Heijden et al., 2007)
 > - **2010 年 — [[Theory of Gradual Institutional Change|渐进制度变迁]]研究批判** 在国际权威期刊 *Regulation & Governance* 发表综述论文，系统反思[[James Mahoney|马奥尼]]与希伦等人关于渐进制度变迁理论的解释力边界与实证检验限度。
 > - **2011 年 — [[Institutional Layering|制度层叠]]理论史经典定音** 在 *Politics* 发表里程碑综述 *Institutional Layering: A Review of the Use of the Concept*，系统梳理跨学科六十年 166 篇核心文献，确立行动者与工具[[Variable|变量]]的因果桥梁价值，批判当代文献混淆制度再生产的概念漂移。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011)]]
 > - **2014–2017 年 — 城市气候治理与规制实验拓展** 出版专著 *Innovations in Urban Climate Governance*（Cambridge University Press, 2017），将比较制度分析延伸至悉尼等全球典型城市的低碳规制[[Experimental Research|实验研究]]。
@@ -76,7 +78,7 @@ updated: 2026-10-30
 
 > [!thought-timeline] 核心学术思想演进
 > - **第一阶段：建筑规制执行与实在论多维观察（2007–2009）** 从荷兰 1992 年住房法引入私营认证体制的实证史料出发，发现微观承包商、中层官员与宏观历史学家对同一次改革有着截然相反的变迁定性，奠定其情境敏感与位置相对的评估哲学。
-> - **第二阶段：制度层叠理论谱系与因果[[Operationalization|操作化]]（2010–2012）** 开展大规模文献史考证，系统挖掘贝利斯尔（Belisle, 1944）、克雷普斯（Kreps, 1966）、巴达克与卡根（Bardach & Kagan, 1982）等思想前史，将制度层叠操作化为新加入的行动者与政策工具变量，弥合间断均衡与渐变论鸿沟。
+> - **第二阶段：制度层叠理论谱系与因果[[Operationalization|操作化]]（2010–2012）** 开展大规模文献史考证，系统挖掘贝利斯尔（Belisle, 1944）、克雷普斯（Kreps, 1966）、巴达克与卡根（Bardach & Kagan, 1982）等思想前史，将制度层叠操作化为新加入的行动者与政策[[Instrumental Variables|工具变量]]，弥合间断均衡与渐变论鸿沟。
 > - **第三阶段：实验性规制与城市环境治理（2013–至今）** 转向应对气候变化与可持续发展的实验性规制设计，探索如何通过自愿认证、绿色金融与跨部门网络克服传统科层[[Regulatory Ratchet|规制棘轮]]与[[Problem of Many Hands|多手难题]]。
 
 ---

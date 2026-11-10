@@ -7,7 +7,7 @@ aliases:
 summary: "由雷默（J. C. Ramo）于2004年提出并在后危机时代演进的非西方发展范式与治理模式，强调国家战略规划、实验主义渐进改革、社会稳定与自主创新，在跨国高等教育中体现为国家战略驱动、全额奖学金供给与治国理政经验输出，与新自由主义华盛顿共识形成深刻对照。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 33
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -19,10 +19,12 @@ tags:
   - global-governance
   - region/china
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Discourse]]"
   - "[[Washington Consensus]]"
   - "[[Paradigm]]"
   - "[[Geopolitics]]"
+  - "[[Quasi-market]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Hard Power]]"
   - "[[Epistemology]]"
@@ -30,6 +32,8 @@ related_concepts:
   - "[[International Education]]"
   - "[[Soft Power]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[Early-Career Researchers]]"
+  - "[[Study Abroad]]"
   - "[[Developmentalism]]"
   - "[[South-South Cooperation]]"
   - "[[Policy Framing]]"
@@ -60,13 +64,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Beijing Consensus
-> 北京共识（Beijing Consensus）最初由美国学者乔舒亚·库珀·雷默（Joshua Cooper Ramo, 2004）提出，指当代中国在经济社会现代化转型中形成的非西方发展模式。在跨国高等教育与全球治理视阈下，该概念演进为一种以强政府战略规划、威权发展型国家协调、社会稳定优先及自立自强为特征的替代性治理[[Discourse|话语]]体系。与依赖新自由主义市场化和去监管的“[[Washington Consensus|华盛顿共识]]”相对立，北京共识在教育领域体现为国家战略深度统辖、全额专项奖学金供给、产教协同出海及发展经验制度化传播。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 689–691)]]
+> 北京共识（Beijing Consensus）最初由美国学者乔舒亚·库珀·雷默（Joshua Cooper Ramo, 2004）提出，指当代中国在经济社会现代化转型中形成的非西方发展模式。在[[Transnational Education|跨国高等教育]]与全球治理视阈下，该概念演进为一种以强政府战略规划、威权发展型国家协调、社会稳定优先及自立自强为特征的替代性治理[[Discourse|话语]]体系。与依赖新自由主义市场化和去监管的“[[Washington Consensus|华盛顿共识]]”相对立，北京共识在教育领域体现为国家战略深度统辖、全额专项奖学金供给、产教协同出海及发展经验制度化传播。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 689–691)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向全球治理与高等教育现代化中由国家战略引领、强调发展实效与政治秩序稳定的非西方替代性[[Paradigm|范式]]。
@@ -79,7 +83,7 @@ updated: 2026-11-03
 > *China’s governing model is more appealing to the developing world and some of the middle-sized powers than America’s market-democratic model. Given a choice between market democracy and its freedoms and market authoritarianism and its high growth, stability, improved living standards, and limits on expression—a majority in the developing world and many middle-sized, non-western powers prefer the authoritarian model.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Washington Consensus|华盛顿共识]] — 后者以新自由主义、私有化、大学自治与市场竞争为支柱，将高等教育视作创汇商品与准市场服务；北京共识视高等教育为服务国家战略与大国外交的公共制度工具。
+> - 不等于 [[Washington Consensus|华盛顿共识]] — 后者以新自由主义、私有化、大学自治与市场竞争为支柱，将高等教育视作创汇商品与[[Quasi-market|准市场]]服务；北京共识视高等教育为服务国家战略与大国外交的公共制度工具。
 > - 不等于纯粹利他的 [[Knowledge Diplomacy|知识外交]] — 知识外交强调非零和、平等互惠的研究伙伴关系；北京共识在实践中深度依附于中央统领、财政补贴与地缘经济[[Hard Power|硬实力]]。
 
 ---
@@ -97,7 +101,7 @@ updated: 2026-11-03
 
 > [!feature] 核心要素
 > - **强政府战略统领** 国家最高领导意志与中央部委顶层设计统辖跨国教育整体议程，将[[Internationalization of Higher Education|高等教育国际化]]内嵌于国家对外开放总格局。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–686)]]
-> - **全额国家财政补贴** 设立专项中国政府奖学金，以全额学费免除与高额生活津贴直接调动沿线发展中国家青年学者与留学生跨国流动。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 679, 685)]]
+> - **全额国家财政补贴** 设立专项中国政府奖学金，以全额学费免除与高额生活津贴直接调动沿线发展中国家[[Early-Career Researchers|青年学者]]与[[Study Abroad|留学]]生跨国流动。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 679, 685)]]
 > - **产教协同与标准输出** 职业教育与战略工程深度捆绑，通过设立海外[[Luban Workshop|鲁班工坊]]与工程实训基地，直接向沿线重大基建输出中国专业技术标准。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 685)]]
 > - **发展经验制度化传播** 面向合作国关键官员设立专属公共管理与治国理政高端培训项目，提供非西方现代化的发展示范。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 679)]]
 

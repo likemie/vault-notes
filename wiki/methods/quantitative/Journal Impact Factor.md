@@ -9,9 +9,9 @@ summary: "由 Eugene Garfield (1955, 1972) 提出并由科学信息研究所建�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 14
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 21
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -21,21 +21,28 @@ tags:
   - theme/scientometrics
   - theme/research-evaluation
 related_concepts:
+  - "[[Document]]"
+  - "[[Unit of Analysis]]"
+  - "[[Construct Validity]]"
   - "[[Citation Distribution]]"
-  - "[[Citation Disparity]]"
+  - "[[Import Substitution Industrialisation]]"
+  - "[[Ecological Fallacy]]"
+  - "[[Altmetrics]]"
+  - "[[Patent Citation]]"
+  - "[[Ultimate Impact]]"
+  - "[[Early-Career Researchers]]"
 related_theories:
   - "[[WSB Model]]"
-  - "[[Universality of Citation Distributions]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
-  - "[[h-Index]]"
   - "[[Relative Citation Normalization]]"
 related_instruments: []
 related_persons:
   - "[[Eugene Garfield]]"
   - "[[Dashun Wang]]"
-  - "[[Albert-László Barabási]]"
-related_facts: []
+related_facts:
+  - "[[Web of Science]]"
+  - "[[National Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
@@ -44,18 +51,18 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-31"
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Journal Impact Factor
-> **期刊影响因子（Journal Impact Factor, JIF）** 由[[Eugene Garfield|尤金·加菲尔德]]（Eugene Garfield）于 1955 年构想并于 1972 年正式形式化，是衡量学术期刊整体引文反响与平均影响力的经典文献计量学指标。其基本数学规则为：**特定期刊在评价年度前两年内公开发表的所有研究型论著与综述，在评价年度内所获得的总被引频次，除以该期刊前两年发表论著与综述的总篇数**。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 206–207)]]
+> **期刊影响因子（Journal Impact Factor, JIF）** 由[[Eugene Garfield|尤金·加菲尔德]]（Eugene Garfield）于 1955 年构想并于 1972 年正式形式化，是衡量学术期刊整体引文反响与平均影响力的经典[[Bibliometric Analysis|文献计量学]]指标。其基本数学规则为：**特定期刊在评价年度前两年内公开发表的所有研究型论著与综述，在评价年度内所获得的总被引频次，除以该期刊前两年发表论著与综述的总篇数**。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 206–207)]]
 
 > [!method-scope] 方法范围
 > - **测量或估计对象** 学术期刊在特定学科知识流通网络中的短期引文吸引力与群体可见度。
-> - **问题类型** 描述期刊层级的平均引文表现、支持文献采购决策与期刊分级。
-> - **分析单位** 学术期刊（出版物媒介载体），不可直接作为单项成果或单名学者的评价度量。
+> - **问题类型** 描述期刊层级的平均引文表现、支持[[Document|文献]]采购决策与期刊分级。
+> - **[[Unit of Analysis|分析单位]]** 学术期刊（出版物媒介载体），不可直接作为单项成果或单名学者的评价度量。
 > - **输入数据** 期刊在连续三个自然年内的完整论著发表量与全域引文收录数据。
 > - **输出形式** 一个保留三位小数的正实数。
 
@@ -67,7 +74,7 @@ updated: 2026-11-03
 ---
 
 > [!method-position] 方法定位
-> - **构念效度** 测量期刊在两年滑动时间窗内的短期平均注意力，严重受制于引文分布的高度偏斜性；算术平均值在重尾分布下丧失代表性，导致少数超级高引论著虚假拔高整刊指标。
+> - **[[Construct Validity|构念效度]]** 测量期刊在两年滑动时间窗内的短期平均注意力，严重受制于[[Citation Distribution|引文分布]]的高度偏斜性；算术平均值在重尾分布下丧失代表性，导致少数超级高引论著虚假拔高整刊指标。
 > - **研究者判断** 选用两年作为分子与分母的时间窗口，该设定契合多数自然科学论著在发表后两到三年迎来获引速率峰值的经验规律。
 > - **有效性标准** 宏观文献采购与期刊横向对比的区分度，在长程成果评价与跨学科直接比较上无效。
 > - **不声称回答的问题** 不能度量成果发表三年以后的长程学术贡献，不能跨学科直接比对原始数值，不能替代同行评议对单项研究理论质量的实质裁定。
@@ -80,10 +87,10 @@ updated: 2026-11-03
 ---
 
 > [!dev-timeline] 方法演变
-> - **1955 — 构想提出** [[Eugene Garfield|加菲尔德]]提出建立科学引文索引的构想，并建议计算期刊被引均值以协助图书馆员筛选订购馆藏。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 207, 213)]]
-> - **1972 — 指标正式确立** 加菲尔德在 Science 刊文正式确立现行两年期计算公式，推动科学信息研究所（Institute for Scientific Information, ISI）发布《期刊引证报告》（Journal Citation Reports, JCR）。
+> - **1955 — 构想提出** [[Eugene Garfield|加菲尔德]]提出建立[[Web of Science|科学引文索引]]的构想，并建议计算期刊被引均值以协助图书馆员筛选订购馆藏。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 207, 213)]]
+> - **1972 — 指标正式确立** 加菲尔德在 Science 刊文正式确立现行两年期计算公式，推动科学信息研究所（Institute for Scientific Information, [[Import Substitution Industrialisation|ISI]]）发布《期刊引证报告》（Journal Citation Reports, JCR）。
 > - **1997 — 偏斜度批评** 塞格伦（Per O. Seglen）在 BMJ 撰文证实期刊内部引文分布高度偏斜，顶端 15% 到 20% 的成果贡献了期刊一半以上的被引，批判将期刊指标转移至研究者评价的系统性谬误。
-> - **2013 — 终极独立证明** [[Dashun Wang|王大顺]]等学者依托 [[WSB Model|WSB 模型]] 证实单篇文献的长程终极引文完全取决于内生适应度，名刊论著与普通期刊论著在长周期下的累积被引分布高度均等，在数学机制上确立了影响因子与单篇长程价值的彻底分离。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 207, 216–217)]]
+> - **2013 — 终极独立证明** [[Dashun Wang|王大顺]]等学者依托 WSB 模型 证实单篇文献的长程终极引文完全取决于内生适应度，名刊论著与普通期刊论著在长周期下的累积被引分布高度均等，在数学机制上确立了影响因子与单篇长程价值的彻底分离。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 207, 216–217)]]
 
 ---
 
@@ -140,17 +147,17 @@ updated: 2026-11-03
 > | 期刊 | 影响因子基准 (1992 年) | 十年累积被引分布方差跨度 | 来源 |
 > |---|---|---|---|
 > | 《细胞》（Cell） | 33.62 | 跨越 0 至数千次（跨 3 个数量级） | [[Argument_Wang_Barabasi_2021_Cambridge_Unit09\|(Wang & Barabási, 2021, p. 207)]] |
-> | 《美国国家科学院院刊》（PNAS） | 10.48 | 跨越 0 至数千次（跨 3 个数量级） | [[Argument_Wang_Barabasi_2021_Cambridge_Unit09\|(Wang & Barabási, 2021, p. 207)]] |
+> | 《[[National Academy of Sciences\|美国国家科学院]]院刊》（PNAS） | 10.48 | 跨越 0 至数千次（跨 3 个数量级） | [[Argument_Wang_Barabasi_2021_Cambridge_Unit09\|(Wang & Barabási, 2021, p. 207)]] |
 > | 《物理评论B》（Physical Review B） | 3.26 | 跨越 0 至数千次（跨 3 个数量级） | [[Argument_Wang_Barabasi_2021_Cambridge_Unit09\|(Wang & Barabási, 2021, p. 207)]] |
 
 ---
 
 > [!method-limits] 方法局限
-> - **单篇外推谬误（ecological fallacy）** 严禁用期刊群体均值推断单项成果或具体个人的学术水平，同行评审应回归文本本身。
+> - **单篇外推谬误（[[Ecological Fallacy|ecological fallacy]]）** 严禁用期刊群体均值推断单项成果或具体个人的学术水平，同行评审应回归文本本身。
 > - **短期时间窗扭曲** 两年窗口系统性惩罚了具有漫长吸收周期、概念复杂的慢热型重大理论研究与跨学科论著，鼓励追逐短期学术热点的快餐式生产。
 > - **非对称计分漏洞** 分子统计包含对通讯、社论等非研究型材料的全部引用，而分母仅统计研究型论著与综述，使得出版方能够通过发表大量带引用的社论人为操纵指标。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 207–208)]]
-> - **破除单一指标迷思的多元评价转向** 科学评价应走出对期刊影响因子的狭隘崇拜，结合替代计量学（Altmetrics，捕捉即时公众与社会注意力）与产业专利引用网络（度量基础研究对工业发明的长期渗透）构建多维评价体系，使学术产出衡量摆脱单一引文数量的局限。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 244–248)]]
-> - **补救方式** 采用单篇归一化指标（如相对引文标准化 $c_f$），或运用 WSB 动力学模型拟合成果内生适应度 $\lambda$。
+> - **破除单一指标迷思的多元评价转向** 科学评价应走出对期刊影响因子的狭隘崇拜，结合[[Altmetrics|替代计量学]]（Altmetrics，捕捉即时公众与社会注意力）与产业[[Patent Citation|专利引用]]网络（度量基础研究对工业发明的长期渗透）构建多维评价体系，使学术产出衡量摆脱单一引文数量的局限。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 244–248)]]
+> - **补救方式** 采用单篇归一化指标（如[[Relative Citation Normalization|相对引文标准化]] $c_f$），或运用 WSB 动力学模型拟合成果内生适应度 $\lambda$。
 
 ---
 
@@ -159,7 +166,7 @@ updated: 2026-11-03
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Citation Distribution]] | 测量对象 | 影响因子试图刻画特定出版物媒介在引文分布中的短期吸附能力。 |
-> | [[WSB Model]] | 理论 | 证明成果终极影响力由内在适应度决定，期刊初始品牌溢价长程必然消退。 |
+> | [[WSB Model]] | 理论 | 证明成果[[Ultimate Impact\|终极影响]]力由内在适应度决定，期刊初始品牌溢价长程必然消退。 |
 > | [[Bibliometric Analysis]] | 上位方法 | 影响因子属于期刊级科技计量评价指标。 |
 > | [[Relative Citation Normalization]] | 替代方法 | 消除学科偏差的单篇无量纲引文标准化工具。 |
 
@@ -167,4 +174,4 @@ updated: 2026-11-03
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 证实同一期刊内部成果被引存在极端方差，确立影响因子不能预测单篇成果影响（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]，p. 207）；论证破除影响因子崇拜并引入替代计量与专利实现多维评价（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Unit 11]]，pp. 244–248）。
-> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 剖析学术界将期刊影响因子作为人才晋升与资助分配决定性依据的评价异化，论证该指标加剧了青年学者避险心理与成果增量化。
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 剖析学术界将期刊影响因子作为人才晋升与资助分配决定性依据的评价异化，论证该指标加剧了[[Early-Career Researchers|青年学者]]避险心理与成果增量化。

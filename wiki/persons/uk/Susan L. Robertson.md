@@ -7,7 +7,7 @@ summary: "英国著名教育社会学家与批判全球化理论家，剑桥大�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Educational Privatisation]]"
   - "[[New Public Management]]"
+  - "[[Transnational Education]]"
   - "[[European Education Space]]"
   - "[[Global Education Industry]]"
   - "[[State Educational Sovereignty]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -67,7 +68,7 @@ updated: 2026-10-22
 > [!timeline] 生平与职涯
 > - **1980s–1990s** 早年在澳大利亚与新西兰任教，深入考察澳新两国率先推进的[[New Public Management|新公共管理]]与教育市场化试验，奠定批判教育政治经济学学术关怀。
 > - **2000s** 任职于英国布里斯托尔大学教育研究生院，创立全球化与教育治理研究中心，2003 年创办权威期刊 GSE 并长期担任主编。
-> - **2002** 联合发表关于 [[GATS and Trade in Education Services|GATS]] 与教育[[Pluri-Scalar Governance|多标度治理]]的系列重磅论文，引发国际比较教育学界对[[World Trade Organization|世贸组织]]与跨境教育投资的激烈讨论。
+> - **2002** 联合发表关于 [[GATS and Trade in Education Services|GATS]] 与教育[[Pluri-Scalar Governance|多标度治理]]的系列重磅论文，引发国际比较教育学界对[[World Trade Organization|世贸组织]]与[[Transnational Education|跨境教育]]投资的激烈讨论。
 > - **2016–至今** 调任剑桥大学教育系讲席教授，历任系主任，持续领衔[[European Education Space|欧洲教育空间]]政策监测与全球教育工业（[[Global Education Industry]]）批判研究。
 
 ---

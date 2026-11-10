@@ -16,7 +16,7 @@ title: "Argument_Keddie_2020_IJLE"
 argument_key: "Argument_Keddie_2020_IJLE"
 argument_display_title: "The constitution of school autonomy in Australian public education: areas of paradox for social justice"
 argument_kind: "journal-article"
-argument_related_count: 6
+argument_related_count: 7
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Discourse]]"
   - "[[School Autonomy]]"
+  - "[[Problematisation]]"
   - "[[Socioeconomic Status]]"
 related_theories: []
 related_methods:
@@ -45,7 +46,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-23
+updated: 2026-11-11
 year: 2020
 doi: ""
 citation_aliases:
@@ -61,7 +62,7 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - **Fraser (2009) 的再分配正义（redistributive justice）** 将社会正义界定为"对学生的人力和物质资源的更公平分配"(IJLE, p.3, 5)
-> - **Dolan (2020) 的悖论分析（paradox analysis）** 将悖论理解为"由[[Discourse|话语]]的构成性实践所形成，而非作为冲突或复杂性的表征"——目的是"问题化并使主导当代学校教育的话语变得脆弱，揭示塑造和影响[[School Autonomy\|学校自主权]]的竞争性利益"(IJLE, p.5-6)
+> - **Dolan (2020) 的悖论分析（paradox analysis）** 将悖论理解为"由[[Discourse|话语]]的构成性实践所形成，而非作为冲突或复杂性的表征"——目的是"[[Problematisation|问题化]]并使主导当代学校教育的话语变得脆弱，揭示塑造和影响[[School Autonomy\|学校自主权]]的竞争性利益"(IJLE, p.5-6)
 
 > [!info] 研究方法
 > - **方法** 质性半结构式访谈研究

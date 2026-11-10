@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 90
+fact_related_count: 91
 fact_related_level: 9
 fact_related_stars: "💎💎💎"
 fact_related_color: "#fecdd3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Scientifically Based Research]]"
   - "[[Research Translation]]"
   - "[[Clinical Trial]]"
+  - "[[Scientific Method]]"
   - "[[Variable]]"
   - "[[Internal Validity]]"
   - "[[Document]]"
@@ -128,7 +129,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-11-07
+updated: 2026-11-11
 ---
 
 ---
@@ -149,7 +150,7 @@ updated: 2026-11-07
 > - **1960 年代 — 因果问责诉求起源** 参议员罗伯特·肯尼迪（Robert F. Kennedy）质问教育专员：“你是说你花了十亿美元却不知道他们是否会读写？”奠定了联邦追求教育实证确定性的政治动因([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p. 3]])。
 > - **2001 — [[No Child Left Behind Act 2001|NCLB]] 法案确立科学标准** 《不让一个孩子掉队法案》要求联邦资助项目必须具备严格科学证据支撑，直接推动设立国家级因果审查清算中心([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p. 109]])。
 > - **2002 — [[Office of Educational Research and Improvement|OERI]] 拨付初始合同与发布 [[Study Design and Implementation Assessment Device|Study DIAD]] 草案** 2002 年 8 月联邦[[Office of Educational Research and Improvement|教育研究与改进办公室]]（OERI）向 WWC 资助 1850 万美元初始合同，以医学[[Clinical Trial|临床试验]]为原型启动教育有效性证据审查；同年 11 月发布设计与[[Implementation and Process Evaluation|实施评估]]规程（Study Design and Implementation Assessment Device, Study DIAD）草案并向学界公开征求意见。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 34–35)]]
-> - **2003 — 吸纳 47 条公众评议大幅重构审查规程** WWC 针对 47 条公众评议意见大幅修改 [[Study Design and Implementation Assessment Device|Study DIAD]]，在引言中澄清科学方法包含多元设计取向，并增设[[Regression Discontinuity Design|断点回归设计]]评估模块、独立[[Quasi-Experimental Designs|准实验设计]]部分、30 余项调节[[Variable|变量]]编码特征以及干预与测量指标对齐（Intervention-Outcome Alignment）审查。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 35–36)]]
+> - **2003 — 吸纳 47 条公众评议大幅重构审查规程** WWC 针对 47 条公众评议意见大幅修改 [[Study Design and Implementation Assessment Device|Study DIAD]]，在引言中澄清[[Scientific Method|科学方法]]包含多元设计取向，并增设[[Regression Discontinuity Design|断点回归设计]]评估模块、独立[[Quasi-Experimental Designs|准实验设计]]部分、30 余项调节[[Variable|变量]]编码特征以及干预与测量指标对齐（Intervention-Outcome Alignment）审查。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 35–36)]]
 > - **2010 — [[Single-Subject Design|单一被试设计]]标准确立** 发布单一被试设计（Single-Subject Design, [[Single-Case Design|SCD]]）试点标准，确立[[Internal Validity|内部效度]]门控与 5-3-20 规则([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p. 460]])。
 > - **2015 — [[Every Student Succeeds Act|ESSA]] 法案法定绑定** 《每个学生都成功法案》（ESSA）确立四级证据体系，WWC 成为学区申请联邦第 1 篇（[[Title I of the Elementary and Secondary Education Act|Title I]]）学校改善拨款时认定“强证据（TIER 1）”与“中等证据（Tier 2）”的法定裁定基准。
 > - **2022 — Handbook v5.0 升级与十五年存续审视** 优化集群校正、流失边界与[[Regression Discontinuity Design|断点回归设计]]（Regression Discontinuity Design, RDD）标准；[[OECD|经合组织]]回顾确认其为 2007 年 6 大国际标杆中保持持续完全活跃的唯二幸存者之一([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]])。

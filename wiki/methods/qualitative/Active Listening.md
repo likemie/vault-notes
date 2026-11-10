@@ -7,7 +7,7 @@ summary: "访谈中访谈者通过非语言反馈、反映和澄清来表明专�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 1
+method_related_count: 2
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dbeafe"
@@ -19,11 +19,12 @@ tags:
   - communication
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
-related_concepts: []
+related_concepts:
+  - "[[Research Tool]]"
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 ---
@@ -32,7 +33,7 @@ updated: 2026-10-29
 > 积极倾听（Active Listening）是访谈中访谈者通过非语言和语言反馈来表明专注、理解并鼓励受访者继续深入表达的技术。它区别于被动聆听——积极倾听要求访谈者有意识地控制自己的非语言表达（面部表情、身体姿势、眼神接触）和语言回应（反映、澄清、总结），以营造安全、接纳的访谈环境（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 438–443]]）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 积极倾听是访谈者作为研究工具的体现——访谈者不仅需要听受访者说什么，还需要通过自身的表达让受访者感受到被倾听和被理解。
+> - **含义** 积极倾听是访谈者作为[[Research Tool|研究工具]]的体现——访谈者不仅需要听受访者说什么，还需要通过自身的表达让受访者感受到被倾听和被理解。
 > - **用途** 建立和维持融洽关系；鼓励受访者从表面回答进入深层叙述；减少受访者因访谈者走神或缺乏回应而产生的焦虑和自我审查。
 > - **边界** 积极倾听不等于同意或赞同受访者的观点——访谈者应保持中立和接纳，但不给出价值判断。积极倾听也不等于被动接受所有内容——访谈者需要在倾听中判断何时需要追问。
 

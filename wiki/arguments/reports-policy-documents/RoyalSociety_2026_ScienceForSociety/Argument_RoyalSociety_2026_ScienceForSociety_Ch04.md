@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_display_title: "Chapter four: Industry and business sector"
 argument_kind: "book-chapter"
-argument_related_count: 46
+argument_related_count: 47
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Deficit Model of Science Communication]]"
   - "[[Citizen Science]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Algorithmic Bias]]"
   - "[[Paradigm]]"
   - "[[Competitiveness]]"
   - "[[Informed Consent]]"
@@ -85,7 +86,7 @@ related_facts:
   - "[[Gatsby Benchmarks]]"
 status: draft
 created: 2026-09-04
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
@@ -236,7 +237,7 @@ updated: 2026-10-29
 > | **欧洲转基因生物（GMOs）推广危机** | 食品安全风险、生态基因漂移、跨国企业种子垄断 | 居高临下的赤字模型说教，试图隐瞒标识强推 | 引发全欧范围抵制，超级市场下架，立法事实性冻结数十载（p. 69） | 科技越颠覆，越不能依赖单向灌输，早期双向协商是生死线 |
 > | **传统烟草工业危害隐瞒丑闻** | 吸烟致癌与尼古丁成瘾的致命健康危害 | 系统性出资操纵研究结论，长期掩盖真实医学证据 | 彻底摧毁产业科学家声誉，深植了“资本唯利是图”的普遍偏见（pp. 69–70） | 科研诚信与信息披露是维系社会许可的前提，造假必遭历史清算 |
 > | **核能工业社会许可重塑** | 辐射安全、核废料长期储存及切尔诺贝利等灾难创伤 | 早期封闭保密，近年来全面转向透明信息披露与多轮社区协商（p. 71） | 过去十年间全国支持率稳步微升，反对率下降（Statista, 2024） | 真诚面对不确定性与风险，在地深耕是化解邻避效应（Not In My Back Yard, NIMBY）的关键 |
-> | **新兴人工智能（AI）审议危机** | 算法偏见、失业冲击、隐私泄露与不可控自主决策 | 停留在公关层面的零散公民陪审团试验，缺乏决策闭环 | 仅 33% 公众认同利大于弊（疫苗为 80%），存在严重信任赤字（p. 73） | 亟需终结碎片化探索，将公众审议制度化内嵌于模型架构与治理体系 |
+> | **新兴人工智能（AI）审议危机** | [[Algorithmic Bias\|算法偏见]]、失业冲击、隐私泄露与不可控自主决策 | 停留在公关层面的零散公民陪审团试验，缺乏决策闭环 | 仅 33% 公众认同利大于弊（疫苗为 80%），存在严重信任赤字（p. 73） | 亟需终结碎片化探索，将公众审议制度化内嵌于模型架构与治理体系 |
 
 ---
 

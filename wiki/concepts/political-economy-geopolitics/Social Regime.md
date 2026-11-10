@@ -8,7 +8,7 @@ aliases:
 summary: "经济社会学与历史制度主义核心概念，指由具备合法暴力垄断权的第三方强制机构所背书的集体行为预期与规则体系；区分规则制定者与规则遵从者，将制度视为蕴含权力不对称的支配组织，构成理解制度设计与基层践行内生脱节的元理论基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,10 +30,10 @@ related_concepts:
   - "[[Learning Intentions]]"
   - "[[Institutional Drift]]"
   - "[[Performativity]]"
+  - "[[Transnational Education]]"
   - "[[Teacher Professional Agency]]"
   - "[[New Public Management]]"
   - "[[Variable]]"
-  - "[[Document]]"
 related_theories:
   - "[[Historical Institutionalism]]"
   - "[[Theory of Gradual Institutional Change]]"
@@ -44,6 +44,7 @@ related_instruments: []
 related_persons:
   - "[[Max Weber]]"
   - "[[Wolfgang Streeck]]"
+  - "[[Eric Hanushek]]"
 related_facts:
   - "[[OECD]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -149,7 +150,7 @@ updated: 2026-11-03
 > - **1922 — 支配组织理论的提出** [[Max Weber|马克斯·韦伯]]在《经济与社会》中系统提出统治联合体／支配组织（*Herrschaftsverband*）概念，将秩序的维系奠立在专门执行人员的强制保障之上。
 > - **1980年代 — 国际规范与产业民主理论的拓展** 国际政治经济学（Krasner）将规范引入跨国原则与决策程序分析；[[Wolfgang Streeck|施特雷克]]在德国劳资关系研究中将共同决定制阐释为约束资本的“有益的社会规范”。
 > - **2005 — 渐进变迁形态学的[[Ontology|本体论]]确立** 施特雷克与希伦在《制度变迁的超越》中正式将社会规范确立为[[Historical Institutionalism|历史制度主义]]分析[[Paradigm|范式]]的基石，以此破除均衡模型的静态偏误（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, pp. 9–14]]）。
-> - **2017–2023 — 全球教育政策规范与策略性践行批判** 小松与拉普利（Komatsu & Rappleye, 2017）以及约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）将规范理论引入跨国教育治理分析，揭露全球量化政策规范（Global Policy Regime）如何在国家强制力背书下侵蚀[[Teacher Professional Agency|教师专业自主权]]并诱发[[Performativity|表演性]][[Institutional Drift|制度漂移]]。
+> - **2017–2023 — 全球教育政策规范与策略性践行批判** 小松与拉普利（Komatsu & Rappleye, 2017）以及约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）将规范理论引入[[Transnational Education|跨国教育]]治理分析，揭露全球量化政策规范（Global Policy Regime）如何在国家强制力背书下侵蚀[[Teacher Professional Agency|教师专业自主权]]并诱发[[Performativity|表演性]][[Institutional Drift|制度漂移]]。
 
 ---
 
@@ -177,7 +178,7 @@ updated: 2026-11-03
 > [!citation-card] 小松与拉普利论基于无效统计建立的全球政策规范
 > [[OECD|经合组织]]（OECD）的 [[PISA]] 排位与计量经济学家的模型结合，在全球范围内建立起一种强大的新型政策规范（Policy Regime）。这一规范声称建立在实证证据之上，但在统计学底层却充斥着因果倒置与有效性缺失的严重缺陷；然而凭借国家行政力量的强制背书，它深刻规制了各国的教育立法与资源分配。[[Argument_Johnson_2023_CritEduc|(Komatsu & Rappleye, 2017, pp. 166–168, cited in Johnson & Janzen, 2023, p. 17)]]
 >
-> *A new global policy regime founded on invalid statistics? Hanushek, Woessmann, PISA, and economic growth... The institutional authority of international testing regimes exerts powerful compliance pressures regardless of underlying methodological validity.*
+> *A new global policy regime founded on invalid statistics? [[Eric Hanushek|Hanushek]], Woessmann, PISA, and economic growth... The institutional authority of international testing regimes exerts powerful compliance pressures regardless of underlying methodological validity.*
 
 ---
 

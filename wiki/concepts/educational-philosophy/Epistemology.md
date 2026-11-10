@@ -8,7 +8,7 @@ aliases:
 summary: "关于知识本质、形式与获取方式的哲学假设，在研究哲学中决定不同范式的有效知识判准；在教育心理学与学习科学中，表现为个体心智协调主观与客观维度的认识论理解演进。"
 type: concept
 domain: "educational-philosophy"
-related_count: 114
+related_count: 118
 related_level: 11
 related_stars: "💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -84,6 +84,8 @@ related_concepts:
   - "[[Learning Strategies]]"
   - "[[Hard Policy Transfer]]"
   - "[[Knowledge Power]]"
+  - "[[Transnational Education]]"
+  - "[[Document]]"
 related_theories:
   - "[[World-Systems Theory]]"
   - "[[Tianxia Heuristic]]"
@@ -120,6 +122,7 @@ related_persons:
   - "[[Karl Popper]]"
   - "[[Deanna Kuhn]]"
 related_facts:
+  - "[[Dimensions]]"
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[Swedish Schools Inspectorate]]"
@@ -135,13 +138,14 @@ related_arguments:
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
-  - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Volmari_2025_CE]]"
+  - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Barrenechea_2023_JEC]]"
 related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -183,7 +187,7 @@ updated: 2026-11-10
 > - **[[Pragmatic Paradigm|实用主义]]认识论支柱（Pragmatism）** 以“适应目的”（[[Fitness for Purpose]]）与效用即真理为准则，打破量质认识论的机械隔阂，协同整合数值测度与叙事[[Rich and Thick Description|深描]]（Onwuegbuzie & Leech, 2005a）。
 > - **观察的理论与价值负载（Theory-Ladenness & Value-Ladenness）** [[Postpositivism|后实证主义]]确立[[Observation Method|科学观察]]受理论与预设渗透，所有经验事实均内嵌先验概念与价值假定，知识具有可错性（Phillips & Burbules, 2000）。
 > - **认识论与存在论的范畴界限（Epistemological vs. Ontological Boundaries）** 认识论处理“知道关于某事物的条件”，属于科学认识的理论判准；人类存在的本体论基础（如学生在世界之中的存在、具身情境与情感）在逻辑上先于科学认识论。教育研究若将动态生成的生命存在降维还原为静态的分数、[[Effect Size|效应量]]或评价陈述等认识论指标，容易造成存在论视角的盲视。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 4–5)]]
-> - **主客观双维协调（Coordination of Knowing Dimensions）** 在个体心智认知中，成熟认识论经历绝对论（客观主导）→多元论（主观主导）→评价论（主客协调）的三次重构，实现基于证据与批判论证的理性判断[[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, p. 310)]]。
+> - **主客观双维协调（Coordination of Knowing [[Dimensions]]）** 在个体心智认知中，成熟认识论经历绝对论（客观主导）→多元论（主观主导）→评价论（主客协调）的三次重构，实现基于证据与批判论证的理性判断[[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, p. 310)]]。
 > - **批判认识论与世界体系抗争（Critical Epistemology & Epistemological Protest）** [[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 2000; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）将[[World-Systems Theory|世界体系分析]]界定为对抗“欺骗性认识论”（deceptive epistemologies）的智识反抗，主张必须彻底反思并解构 19 世纪社会科学将学科割裂、将事实与价值绝对二分的非[[Reflexivity|反思性]]前提，确立“探寻真理”（the search for the true）与“追求正义社会”（the search for the good）在批判认识论上的内在同构与不可分割。
 > - **[[Protean Episteme|普罗透斯式认识体系]]（Protean Episteme）** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）将跨学科探究（如比较教育学）的知识体系定义为能够随时代智识思潮、方法风尚与意识形态诉求而不断变换装束的“[[Protean Episteme|普罗透斯式认识体系]]”，揭示了社会探究认识论历史性、流变性与多学科交叉融合的内在本质。
 > - **[[Empiricism|唯方法论主义]]批判（Critique of Methodologism）** [[Bernard Barber|伯纳德·巴伯]]（Bernard Barber, 1973）与卡扎米亚斯揭示了实证主义认识论在现代社会科学中异化出的技术拜物教——将科学严谨性狭隘等同于统计建模与[[Variable|变量]]测算，误把方法工具当成实质知识本身，导致认识论深度的严重贫困与价值伦理的彻底放逐。
@@ -373,10 +377,10 @@ updated: 2026-11-10
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯从[[Protean Episteme|普罗透斯式认识体系]]视角系统反思比较教育学两百余年论述代际更迭，揭示实证主义对单一方法的迷信与[[Empiricism|唯方法论主义]]弊端，以期刊计量数据诊断学科面临的[[Historical Amnesia|历史健忘症]]危机，确立历史学与社会科学综合纲领的现代合法性（pp. 139–156）。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 从存在论与认识论的边界出发批判可见学习[[Paradigm|范式]]，强调认识论关乎关于某物的认知条件，不能替代或降维还原先于科学的人类存在论根基，警告教育科学莫将动态生命成长狭隘简化为实证分数或[[Effect Size|效应量]]指标（pp. 4–5）。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 将认识论视角拓展至公共政策与比较治理领域，实证揭示国家决策层对“证据本位”的认识论追求如何构成偏向实证强国的政策学习机会结构，阐明认识论取向对跨国政策转移与评估技术[[Hard Policy Transfer|硬转移]]的驱动机制（pp. 344–345）。
-> - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 引入源自古代中国哲学的“天下”认识论启发框架（[[Tianxia Heuristic|Tianxia heuristic]]），以关系性思维解构全球[[Knowledge Power|知识权力]]结构，揭示等级制集中与多边平权网络并存的跨国高等教育治理图景（pp. 1703–1705）。
+> - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 引入源自古代中国哲学的“天下”认识论启发框架（[[Tianxia Heuristic|Tianxia heuristic]]），以关系性思维解构全球[[Knowledge Power|知识权力]]结构，揭示等级制集中与多边平权网络并存的[[Transnational Education|跨国高等教育]]治理图景（pp. 1703–1705）。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 结合[[Jean Piaget|让·皮亚杰]]发生认识论与[[Basil Bernstein|伯恩斯坦]]知识社会学，解构国家学校督察局将学术研究固化为“当前知识状态”与静态审计标准的官僚认识论幻觉（pp. 654–655）。
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 解构传统比较教育将国家情境视作外部物理容器的认识论预设，确立证据与制度背景共生生成的动态关系性认识论（pp. 531, 542–544）。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 阐明经济合作与发展组织（OECD）如何通过 PISA 确立脱离国家具体课程的全新评价认识论，将教育产出重新界定为面向未来生活与知识经济的通用胜任力及非认知自我效能感，驱动欧洲教育治理的量化技术理性（pp. 26–27, 35）。
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 结合[[Interpretive Policy Analysis|解释性政策分析]]解构超国家政策文本中的修辞隐喻与排他性认识论层级，倡导重构兼顾制度使能环境与地方认知正义的包容性决策生态。
-> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对系统改进实证文献开展质性综合，对比了理性选择、文化制度、课程规制与协作网络四大路径在因果解释与变革机制上的认识论假设分歧。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对系统改进实证[[Document|文献]]开展质性综合，对比了理性选择、文化制度、课程规制与协作网络四大路径在因果解释与变革机制上的认识论假设分歧。
 

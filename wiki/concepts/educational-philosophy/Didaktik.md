@@ -6,7 +6,7 @@ aliases:
 summary: "作为德语教学理论传统的欧陆教学论（Didaktik），关注课程内容的选择价值、人性的教化目的与教学判断，在教育研究中用于协调规训与生成、内容与规范之间的复杂张力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -30,8 +30,8 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Pure Evaluation]]"
   - "[[Central Phenomenon]]"
-  - "[[Document]]"
 related_theories:
+  - "[[Didactic Triangle]]"
   - "[[Radical Constructivism]]"
   - "[[Panopticism]]"
 related_methods:
@@ -41,6 +41,7 @@ related_persons:
   - "[[Wolfgang Klafki]]"
   - "[[Thomas Aastrup Rømer]]"
   - "[[John Hattie]]"
+  - "[[Johan Vilhelm Snellman]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Schaffar_2024_CogentEdu]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -103,7 +104,7 @@ updated: 2026-11-03
 > - **[[Epochal Key Problems|时代关键问题]]作为课程主轴** 克拉夫基提出以时代关键问题（Epochal key problems）作为课程组织原则（如环境危机、社会不平等和战争危机），以此作为连接学科深度与跨学科合作的教学[[Champ|场域]]。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7]]
 > - **学科[[Ontology|本体论]]深度的保护** 澳大利亚教育学家莉萨·维拉汉（Leesa Wheelahan）的课程论强调学科知识拥有自身的内在结构与逻辑脉络，反对能力本位课程将系统知识拆散为细碎、可测量的技能包。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
 > - **培养反思、论证与共情** 教学论致力于促进学生的[[Critical Thinking|批判性思维]]、自我反思、论证水平与限制共情，与通过标准化问责管理已知知识的逻辑保持距离。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 10]]
-> - **教学三角形（Didactic Triangle）的三元中介结构** 德语教学论传统确立了教师、学生与学科内容三者构成的教学三角形。教学由具有教育学价值的学科具体知识作为中介展开，反对将教学过程降维为脱离学科内容的二元人际互看或纯形式化技巧训练。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431, 434)]]
+> - **[[Didactic Triangle|教学三角]]形（Didactic Triangle）的三元中介结构** 德语教学论传统确立了教师、学生与学科内容三者构成的教学三角形。教学由具有教育学价值的学科具体知识作为中介展开，反对将教学过程降维为脱离学科内容的二元人际互看或纯形式化技巧训练。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431, 434)]]
 > - **教学分析与课程正当性辩护（Didaktische Analyse）** 以克拉夫基为代表的教学论将教学分析置于备课核心，深入追问具体学科内容如何向学生展现生活世界的意义，以及学生如何通过该内容获得对现实的洞察，要求备课必须完成课程内容选择的价值辩护。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431)]]
 
 ---
@@ -149,7 +150,7 @@ updated: 2026-11-03
 
 > [!dev-timeline] 概念演变
 > - **中世纪大学时期 — 规训与生成的词义分化** 欧洲教学实践中形成规训（[[Disciplina and Doctrina|disciplina]]，侧重训诫与纠错）与生成（doctrina，侧重[[Knowledge Production|知识生产]]）的二元区分。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
-> - **19世纪初 — 德国教学论在芬兰的发展** 伴随芬兰哲学家约翰·威廉·斯内尔曼（Johan Wilhelm Snellman）对教化观的推动，德国教学理论开始影响芬兰的教师教育和学术构建。
+> - **19世纪初 — 德国教学论在芬兰的发展** 伴随芬兰哲学家[[Johan Vilhelm Snellman|约翰·威廉·斯内尔曼]]（Johan Wilhelm Snellman）对教化观的推动，德国教学理论开始影响芬兰的教师教育和学术构建。
 > - **20世纪末 — 批判建设性教学论转向** 克拉夫基提出[[Epochal Key Problems|时代关键问题]]假说，旨在通过重组课程结构，使教育直面社会的全球性正义与危机。
 > - **2014年 — 芬兰跨学科课程改革的理论整合** 教学论传统的时代危机意识与[[Phenomenon-Based Learning|现象本位学习]]取向融合，成为芬兰核心课程政策的哲学底色。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 7]]
 

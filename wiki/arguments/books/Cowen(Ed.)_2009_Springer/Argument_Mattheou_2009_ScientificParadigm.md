@@ -7,9 +7,9 @@ title: "Argument_Mattheou_2009_ScientificParadigm"
 argument_key: "Argument_Mattheou_2009_ScientificParadigm"
 argument_display_title: "The scientific paradigm in comparative education"
 argument_kind: "book-chapter"
-argument_related_count: 78
-argument_related_level: 7
-argument_related_stars: "💎💎⭐"
+argument_related_count: 80
+argument_related_level: 8
+argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
 authors:
   - Mattheou, D.
@@ -51,12 +51,14 @@ related_concepts:
   - "[[Liberal Education]]"
   - "[[Positivism]]"
   - "[[Educational Meliorism]]"
+  - "[[Nationalism]]"
   - "[[Intangible Spiritual Forces]]"
   - "[[Discourse]]"
   - "[[Research Scope]]"
   - "[[Scientific Method]]"
   - "[[Subjectivism]]"
   - "[[Creativity]]"
+  - "[[Transnational Education]]"
   - "[[Value Neutrality]]"
   - "[[Falsification]]"
   - "[[Independent Variable]]"
@@ -117,7 +119,7 @@ related_facts:
   - "[[World Bank]]"
 status: draft
 created: 2026-09-07
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
@@ -198,7 +200,7 @@ updated: 2026-10-29
 > [!assumptions] 古典历史学派的核心知识前提与研究范畴
 > - **改良主义立场（Meliorism）** 坚信教育是推动人类文明进步、改善社会处境与促进道德净化的崇高事业；比较研究的终极抱负在于促进不同民族国家之间的精神理解与人道主义制度改良。（Kazamias & Schwartz, 1977）
 > - **唯心主义与观念支配论（Idealism）** 坚信思想观念与文化理想从根本上支配着人类的历史行动；理解一国教育制度的关键，在于考掘其背后潜藏的哲学理想与文化信仰。
-> - **历史整体主义视界（Holism）** 强调教育制度深植于民族漫长历史的长河中，绝不可孤立抽离考察；萨德勒（1964）主张探究历史深处被遗忘的斗争与旧战役（battles long ago），汉斯（1958）系统提炼宗教（天主教、新教、正教）与世俗要素（民主、人文主义、民族主义、社会主义）对教育的综合塑造。
+> - **历史整体主义视界（Holism）** 强调教育制度深植于民族漫长历史的长河中，绝不可孤立抽离考察；萨德勒（1964）主张探究历史深处被遗忘的斗争与旧战役（battles long ago），汉斯（1958）系统提炼宗教（天主教、新教、正教）与世俗要素（民主、人文主义、[[Nationalism|民族主义]]、社会主义）对教育的综合塑造。
 > - **[[Intangible Spiritual Forces\|不可捉摸的精神力量]]（Intangible Spiritual Forces）** 坎德尔（Kandel, 1955, p. xix）将潜藏于教育制度之下的无形精神与文化力量作为核心分析对象；两次世界大战之间的经济大萧条、极端民族主义与极权意识形态崛起（Noah & Eckstein, 1969, p. 50），促使历史学派将全部精力倾注于通过人文哲学洞察捍卫民主制度的文化根基。
 
 然而，第二次世界大战的浩劫彻底终结了古典人文教化的神话信仰。残酷的历史事实表明，受过良好古典人文熏陶的精英阶层不仅未能构筑抵御野蛮的堤坝，反而在诸多极权暴行中充当了核心同谋，迫使战后欧洲知识界直面文明的道德与制度废墟。
@@ -247,7 +249,7 @@ updated: 2026-10-29
 在战后乐观主义与科学理性的推动下，比较教育学在 1950 年代末全面开启了争夺科学身份的学术转型，其首要前提即是清洗古典传统遗留的主观主义、印象主义、道德思辨与价值负荷（Templeton, 1958; Epperson & Schmuck, 1963; Clayton, 1972）。依据[[Thomas Kuhn|托马斯·库恩]]（Kuhn, 1970, p. 7）的科学革命理论，既有范式绝不会自愿消亡，学界对何谓科学亦缺乏共识，从而在 1960 年代爆发了关于目标、理论、法则与方法的广泛论辩。借由库恩的四维范式构件，这场学科转型呈现出四个核心维度（Kuhn, 1970, pp. 10 ff.; pp. 61–62）：
 
 > [!quad-grid] 比较教育学科学范式的库恩式四维构件
-> - **研究目标与主题** 终结无序事实堆砌与个案直觉白描，旨在揭示跨国教育制度运行的内在规律、类型学建构以及对政策干预后果的精确预见。
+> - **研究目标与主题** 终结无序事实堆砌与个案直觉白描，旨在揭示[[Transnational Education|跨国教育]]制度运行的内在规律、类型学建构以及对政策干预后果的精确预见。
 > - **理论框架与典范实践** 依托[[Structural Functionalism|结构功能主义]]社会学模型与逻辑实证主义原则，以大样本跨国实证调查与标准化比较程序为学科示范。
 > - **研究规则与规范标准** 恪守[[Value Neutrality\|价值中立]]、客观观察、概念严格操作化、假设可检验性与[[Falsification\|可证伪性]]，彻底清洗不可检验的神秘主义范畴。
 > - **应用技术与测量工具** 开发跨国标准化[[Questionnaire\|问卷]]、多元统计模型、国家指标数据库，以及服务于中央五年计划的系统预测技术。

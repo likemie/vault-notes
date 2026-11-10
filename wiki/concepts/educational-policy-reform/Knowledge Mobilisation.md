@@ -12,7 +12,7 @@ aliases:
 summary: "教育研究利用领域的全系统构念，指研究知识通过沟通传播、能力建设、伙伴关系与系统化方法进入政策与实践的社会交互与多方共创过程，旨在克服证据供需脱节与双向能力赤字。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 67
+related_count: 68
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -77,6 +77,7 @@ related_methods:
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Stephen Gorard]]"
+  - "[[Ben Levin]]"
 related_facts:
   - "[[Knowledge Network for Applied Education Research]]"
   - "[[Schlegel-UW Research Institute for Aging]]"
@@ -99,7 +100,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-21"
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -369,7 +370,7 @@ updated: 2026-11-10
 > [!dev-timeline] 概念演变
 > - **1979 — [[Research Utilization\|研究利用]]理论的多元起源** Weiss (1979) 提出工具性、概念性与象征性等利用模式，揭示研究对政策实践的渗透具有复杂非线性特征。
 > - **2000s — 线性[[Knowledge Transfer\|知识转移]]与扩散模型的局限** 早期的知识转移（Knowledge Transfer, KT）聚焦单向推送与文献分发，实践壁垒促使学界反思线性模式的失效。
-> - **2008 — 线性与关系模型的系统梳理** Ben Levin 系统分析了知识动员的推力、拉力与中介机制，揭示了单纯信息分发的局限性。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 18–19)]]
+> - **2008 — 线性与关系模型的系统梳理** [[Ben Levin]] 系统分析了知识动员的推力、拉力与中介机制，揭示了单纯信息分发的局限性。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 18–19)]]
 > - **2010 — 三代演进与系统思维奠基** Allan Best 与 Beverly Holmes 正式确立三代知识动员演进模型，明确提出了复杂自适应系统视角的四维核心构件。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 19)]]
 > - **2010s — 知识动员概念兴起与全系统实践** 加拿大社会科学与人文研究理事会（SSHRC）倡导 KMb；安大略省建立 [[Knowledge Network for Applied Education Research\|KNAER]] 网络，开创全系统多方协作[[Paradigm\|范式]]。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 130)]]
 > - **2015 — 北欧学校改进中的知识动员实践** [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]] 将 KMb 引入斯堪的纳维亚 [[Visible Learning]] 改革，阐明证据进入课堂必须依赖[[Teacher Collaboration|教师协作]]与反思重组。

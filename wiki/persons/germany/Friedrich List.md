@@ -8,7 +8,7 @@ summary: "19 世纪德国著名历史学派经济学家、后发国家追赶与�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[National Innovation System]]"
   - "[[Paradigm]]"
   - "[[Intellectual Capital]]"
+  - "[[Nationalism]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Evolutionary Economics]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -119,7 +120,7 @@ updated: 2026-10-22
 
 ---
 
-> [!warning] 时代局限与民族主义色彩
+> [!warning] 时代局限与[[Nationalism|民族主义]]色彩
 > 李斯特著作中带有鲜明的民族中心主义与殖民主义时代烙印，例如主张荷兰与丹麦因血统与民族性应当并入德意志联邦，与二战后基于主权平等的国际经贸合作体系存在明显隔阂，但其关于后发工业追赶与技术学习的机制性分析依然具有高度学术价值。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 5)]]
 
 ---

@@ -5,7 +5,7 @@ aliases:
 summary: "两次世界大战期间国际联盟知识合作组织推动的概念，指世界各国人民中间一种比民族主义心态更适合国际合作的普遍心态。在理性主义国际关系传统下，该概念通过跨国教科书去偏见化和客观学校知识构建，成为二战后UNESCO和欧洲比较教育学会（CESE）推进科学治理与和平承诺的认知基础。"
 type: concept
 domain: "comparative-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -15,6 +15,7 @@ tags:
   - subject/comparative-education
   - region/global
 related_concepts:
+  - "[[Nationalism]]"
   - "[[Discourse]]"
   - "[[Revolutionism]]"
   - "[[Cosmopolitanism]]"
@@ -38,13 +39,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] International Mind
-> **国际心智（International Mind）** 是指两次世界大战之间（Interwar period）由国际联盟（League of Nations）知识合作组织（ICIC/IIIC）推动的[[CORE Education|核心教育]]观念。国际知识合作研究所首任副主任阿尔弗雷德·齐默恩（Alfred Zimmern）将其定义为：世界各国人民中间一种比狭隘民族主义心态更适合开展跨国合作的普遍心态。这一概念构成了理性主义比较教育传统的认知基石，旨在通过教育的科学化重构来超越地缘冲突与国家沙文主义。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 424]])
+> **国际心智（International Mind）** 是指两次世界大战之间（Interwar period）由国际联盟（League of Nations）知识合作组织（ICIC/IIIC）推动的[[CORE Education|核心教育]]观念。国际知识合作研究所首任副主任阿尔弗雷德·齐默恩（Alfred Zimmern）将其定义为：世界各国人民中间一种比狭隘[[Nationalism|民族主义]]心态更适合开展跨国合作的普遍心态。这一概念构成了理性主义比较教育传统的认知基石，旨在通过教育的科学化重构来超越地缘冲突与国家沙文主义。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 424]])
 
 > [!concept-lens] 概念透镜
 > - **指向关系** 它代表了一种超越本国中心主义（ethnocentrism）的心理认知状态，强调在承认民族国家主权的前提下，通过消除教科书偏见和增进学者跨国流动，形塑具有包容性和客观性的国际主义主体意识。

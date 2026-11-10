@@ -7,7 +7,7 @@ title: "Argument_Revai_2022_ChangingLandscape"
 argument_key: "Argument_Revai_2022_ChangingLandscape"
 argument_display_title: "The changing landscape of research use in education"
 argument_kind: "book-chapter"
-argument_related_count: 64
+argument_related_count: 67
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Evidence Ecosystem]]"
   - "[[Evidence-Based Education]]"
   - "[[Discourse]]"
+  - "[[Transnational Education]]"
   - "[[Phronesis]]"
   - "[[Knowledge Co-production]]"
   - "[[Research Utilization]]"
@@ -86,6 +87,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Research Synthesis]]"
   - "[[Effect Size]]"
+  - "[[Journal Impact Factor]]"
   - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
@@ -101,12 +103,13 @@ related_facts:
   - "[[Research Schools Network]]"
   - "[[Research Excellence Framework]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Dimensions]]"
 related_arguments: []
 sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch01_Revai_2022|Ch01_Revai_2022]]"
 status: draft
 created: 2026-09-12
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
@@ -117,7 +120,7 @@ updated: 2026-10-29
 > 解决教育研究、政策与实践长期脱节的根本出路，在于超越将知识视为现成货品的单向线性转移思维，转向以多方共创与动态反馈为核心的[[Evidence Ecosystem\|证据生态系统]]（Evidence Ecosystem）；唯有重塑学术研究评价体制、激活多元行动者关系网络并建立国家级协调战略，才能真正释放教育研究在公共治理与学校改进中的变革潜能。（pp.18–22）
 
 > [!concept-lens] 阅读透镜
-> - **对象** [[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）成员国[[Evidence-Based Education\|循证教育]]政策与实践（Evidence-Informed Policy and Practice in Education, EIPP）[[Discourse|话语]]演进、知识动员模型演变及跨国教育研发体制。
+> - **对象** [[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）成员国[[Evidence-Based Education\|循证教育]]政策与实践（Evidence-Informed Policy and Practice in Education, EIPP）[[Discourse|话语]]演进、知识动员模型演变及[[Transnational Education|跨国教育]]研发体制。
 > - **张力** 狭隘循证医学金标准对教育复杂现实的裁剪 vs [[Phronesis\|实践智慧]]的包容性诉求；学术期刊发表导向的传统激励 vs 实践导向[[Knowledge Co-production\|知识共创]]的时间与信任成本。
 > - **贡献** 厘清了研究、证据与知识的边界，构建了线性-关系-复杂系统三层嵌套的动员模型[[Analytic Framework\|分析框架]]，并为 OECD 跨国政策调查确立了多维度评估路标。
 
@@ -274,7 +277,7 @@ updated: 2026-10-29
 ---
 
 > [!claim|step] 论证步骤三　期刊至上的学术评价体系阻碍跨界协作，知识共创模式深陷实践相关性与方法严谨性的双重张力
-> 大学现行以高影响因子期刊为导向的学术评价体制与实践导向的知识共创存在深层结构性冲突；多方共创虽能内生保障现实关涉度，但面临严密性与跨情境迁移的治理张力。（pp.21–22）
+> 大学现行以高[[Journal Impact Factor|影响因子]]期刊为导向的学术评价体制与实践导向的知识共创存在深层结构性冲突；多方共创虽能内生保障现实关涉度，但面临严密性与跨情境迁移的治理张力。（pp.21–22）
 
 为何经过二十余年的持续呼吁，系统论范式依然难以在现实中全面兑现？作者深入研究生产的供给侧机制，指出传统大学科研[[Varieties of Capitalism|生产体制]]存在结构性固疾，阻碍了研究向政策与教学的渗透。（pp.21–22）
 
@@ -336,7 +339,7 @@ updated: 2026-10-29
 
 调查与全书各章立足于一个系统性分析框架，将提升教育研究影响力的关键要素分解为五大互为支撑的维度，为全书后续章节对调查数据的深入挖掘提供了逻辑罗盘。（pp.24–25）
 
-> [!example] 图1-1：强化教育研究影响力的核心维度（Dimensions of Strengthening the Impact of Education Research）
+> [!example] 图1-1：强化教育研究影响力的核心维度（[[Dimensions]] of Strengthening the Impact of Education Research）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_1-1_Dimensions_of_strengthening_impact_of_education_research.jpg)
 > 
 > *来源：受澳大利亚莫纳什大学 Rickinson et al. (2020)研究证据高质量使用框架（[[Quality Use of Research Evidence Framework\|Quality Use of Research Evidence]], QURE）启发。*

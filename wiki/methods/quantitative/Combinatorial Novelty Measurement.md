@@ -10,9 +10,9 @@ summary: "由 Brian Uzzi et al. (2013) 开创的文献计量学量化测度方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 23
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -40,16 +40,22 @@ related_methods:
   - "[[Network Analysis]]"
 related_instruments: []
 related_persons:
+  - "[[Lee Fleming]]"
   - "[[Brian Uzzi]]"
 related_facts:
+  - "[[Web of Science]]"
+  - "[[Scopus]]"
   - "[[Microsoft Academic Graph]]"
+  - "[[Dimensions]]"
+  - "[[United States Patent and Trademark Office]]"
+  - "[[SciSciNet]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
   - "[[Argument_Lin_2023_SciData]]"
 confidence: high
 status: active
 created: 2026-10-31
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -61,13 +67,13 @@ updated: 2026-11-02
 > - **测量或估计对象** 学术论著或发明专利在知识组合层面的结构特征，关联 [[Combinatorial Novelty]] 与常规性知识基底[[Construct|构念]]。
 > - **问题类型** 测度、分类与回归预测（检验知识组合模式对后续引文影响与突破概率的因果或关联效应）。
 > - **[[Unit of Analysis|分析单位]]** 单篇学术论著、专利发明或学者个人产出组合。
-> - **输入数据** 大规模学术数据库（如 Web of Science、Scopus、[[Microsoft Academic Graph|MAG]]）中带精确期刊标识与发表年份的参考文献列表。
+> - **输入数据** 大规模学术数据库（如 [[Web of Science]]、[[Scopus]]、[[Microsoft Academic Graph|MAG]]）中带精确期刊标识与发表年份的参考文献列表。
 > - **输出形式** 连续型无量纲分数（中位数常规性 $z$ 分数与第 10 百分位数新颖性 $z$ 分数），以及离散化象限分类（常规/非典型交叉类别）。
 
 > [!citation-card] 关键定义
 > 如果一项成果引用的期刊对在以往文献中极少同时出现，这表明该论著引入了前人知识的全新组合。通过与随机重配的零模型进行对比，计算各期刊引证对的共现概率偏离程度，能够在全量文献尺度上精确刻画科学成果的常规基底深度与非典型创新程度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 190–191)]]
 >
-> *If a paper cites a pair of journals that are rarely brought together, it may suggest that the paper introduces a novel combination of prior work... Comparing observed co-citations with randomized null models allows researchers to quantify both the conventional and atypical dimensions of science.*
+> *If a paper cites a pair of journals that are rarely brought together, it may suggest that the paper introduces a novel combination of prior work... Comparing observed co-citations with randomized null models allows researchers to quantify both the conventional and atypical [[Dimensions|dimensions]] of science.*
 
 ---
 
@@ -83,10 +89,10 @@ updated: 2026-11-02
 > - **变体与扩展** 关键词组合新颖性测度（基于申请书或摘要关键词共现）、专利技术代码分类对（CPC/IPC co-occurrence）组合测度。
 
 > [!dev-timeline] 方法演变
-> - **2001 — 技术专利发明组合测度初探** 弗莱明（Lee Fleming）利用美国专利局技术分类号的首次组合频度，初步测定发明专利的重组不确定性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 191)]]
+> - **2001 — 技术专利发明组合测度初探** [[Lee Fleming|弗莱明]]（Lee Fleming）利用[[United States Patent and Trademark Office|美国专利局]]技术分类号的首次组合频度，初步测定发明专利的重组不确定性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 191)]]
 > - **2013 — [[Brian Uzzi|乌齐]]期刊引文对双重测度体系** [[Brian Uzzi|布赖恩·乌齐]]（Brian Uzzi）等人在《科学》（*Science*）正式确立中位数常规性与第 10 百分位数非典型性的双维标准化测度体系，完成对 1,790 万篇科技论著的大规模测算。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 193)]]
 > - **2015 — 团队[[Creativity|创造力]]与引文新颖性解构** 李允娜（Youn-Na Lee）等将该测度扩展至科学家跨界团队协作与个体多学科背景的匹配分析。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 191)]]
-> - **2023 — 全量数据湖工程化预解算与规律复现** [[Argument_Lin_2023_SciData|Lin et al. (2023)]] 在 SciSciNet 中建立高效并行算法，全量解算 44,142,423 篇期刊成果的共引非典型性 Z 分数（包括中位数常规性、第 10 百分位数新颖性及引文对数量），在大规模异构数据上稳健复现了兼具高常规性与高新颖性成果的高被引优势。
+> - **2023 — 全量数据湖工程化预解算与规律复现** [[Argument_Lin_2023_SciData|Lin et al. (2023)]] 在 [[SciSciNet]] 中建立高效并行算法，全量解算 44,142,423 篇期刊成果的共引非典型性 Z 分数（包括中位数常规性、第 10 百分位数新颖性及引文对数量），在大规模异构数据上稳健复现了兼具高常规性与高新颖性成果的高被引优势。
 
 ---
 

@@ -11,7 +11,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Research Universities]]"
   - "[[Academic Freedom]]"
+  - "[[Transnational Education]]"
   - "[[Competitiveness]]"
   - "[[Discourse]]"
   - "[[Hard Power]]"
@@ -47,13 +48,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定性
-> 复旦大学布达佩斯分校事件（Fudan University Budapest Campus Controversy）是中国高等教育跨国出海历程中遭遇西方草根抗议与制度排异的标志性[[Geopolitics|地缘政治]]事件。作为中国顶尖[[Research Universities|研究型大学]]在[[EU|欧盟]]成员国境内设立的首座实体分校，该项目在匈牙利国内引发了关于纳税人主权负担、国家安全审查与高校[[Academic Freedom|学术自由]]的大规模政治动员与公众抗议，深刻暴露了跨国教育合作在缺乏深层制度互信时的结构性脆弱。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 694)]]
+> 复旦大学布达佩斯分校事件（Fudan University Budapest Campus Controversy）是中国高等教育跨国出海历程中遭遇西方草根抗议与制度排异的标志性[[Geopolitics|地缘政治]]事件。作为中国顶尖[[Research Universities|研究型大学]]在[[EU|欧盟]]成员国境内设立的首座实体分校，该项目在匈牙利国内引发了关于纳税人主权负担、国家安全审查与高校[[Academic Freedom|学术自由]]的大规模政治动员与公众抗议，深刻暴露了[[Transnational Education|跨国教育]]合作在缺乏深层制度互信时的结构性脆弱。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 694)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2019年意向提出，2021年春季项目方案泄露并激化为全国性政治危机，地点位于匈牙利首都布达佩斯第九区（Ferencváros）。

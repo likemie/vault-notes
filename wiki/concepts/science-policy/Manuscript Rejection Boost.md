@@ -9,26 +9,35 @@ aliases:
 summary: "揭示学术出版过程中手稿初审遭拒重投后最终刊发成果引文表现反常提升的文献计量学现象；追踪 8 万余篇生物科学论著发表流转证实，初投被拒并在重投后见刊的手稿，其后续 6 年累积引文量系统性超越一次性直接接收的手稿，验证了同行评审审稿反馈与追加修改对科研成果质量的实际增益机制。"
 type: concept
 domain: "science-policy"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 17
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/science-policy
   - theme/scientometrics
   - theme/peer-review
   - theme/scholarly-communication
 related_concepts:
+  - "[[Knowledge Production]]"
+  - "[[Feedback]]"
   - "[[Survivorship Bias]]"
   - "[[Matthew Effect in Academia]]"
+  - "[[Gatekeepers]]"
+  - "[[Variable]]"
   - "[[Citation Distribution]]"
   - "[[Benefit of the Doubt in Peer Review]]"
   - "[[Grit]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Bibliometric Analysis]]"
+  - "[[Journal Impact Factor]]"
+  - "[[Regression Discontinuity Design]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
   - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
@@ -36,27 +45,27 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-02
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Manuscript Rejection Boost
-> 手稿拒稿增益效应（Manuscript Rejection Boost）指学术成果在初次投稿遭遇期刊拒稿后，经过同行评审意见修订并改投见刊的成果，其在发表后获得的长期学术引文表现系统性优于初次投稿即被顺利接收的手稿的反直觉文献计量学现象。该现象由文森特·卡尔卡尼奥（Vincent Calcagno）等人于 2012 年实证证实，揭示了同行评审反馈与修改打磨对成果质量与学术影响力的真实促进机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 244)]]
+> 手稿拒稿增益效应（Manuscript Rejection Boost）指学术成果在初次投稿遭遇期刊拒稿后，经过同行评审意见修订并改投见刊的成果，其在发表后获得的长期学术引文表现系统性优于初次投稿即被顺利接收的手稿的反直觉[[Bibliometric Analysis|文献计量学]]现象。该现象由文森特·卡尔卡尼奥（Vincent Calcagno）等人于 2012 年实证证实，揭示了同行评审反馈与修改打磨对成果质量与学术影响力的真实促进机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 244)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 刻画科研手稿在同行评审投稿流转网络中的筛选与质量演变规律。
-> - **用途** 帮助科学计量学者与期刊管理者评估同行评审修改流程对知识生产质量的真实促进作用。
+> - **用途** 帮助科学计量学者与期刊管理者评估同行评审修改流程对[[Knowledge Production|知识生产]]质量的真实促进作用。
 > - **边界** 该效应建立在手稿成功完成重投并发表的幸存样本之上，未能进入后续发表流程的彻底流失手稿不在其度量范畴之内。
 
 > [!citation-card|notitle] 拒稿重投提升最终学术成果引文表现
 > 卡尔卡尼奥等人追踪了 2006 至 2008 年间发表于 923 种生物科学期刊的 80,748 篇成果的手稿投递历史。数据表明，首次投稿被拒但在二次投稿中成功发表的手稿，在发表后 6 年内的被引频次显著高于在相同期刊首次投递即被接收的手稿。同行评议的严苛反馈与重投过程中的追加修订，构成了提升成果最终影响力的关键机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 244)]]
 >
-> *Papers rejected on the first submission but published on the second were more highly cited within six years of publication than papers accepted immediately in the same journal... Feedback from editors and reviewers, and the additional time spent revising the paper for resubmission, make for a better – and more citable – final product.*
+> *Papers rejected on the first submission but published on the second were more highly cited within six years of publication than papers accepted immediately in the same journal... [[Feedback]] from editors and reviewers, and the additional time spent revising the paper for resubmission, make for a better – and more citable – final product.*
 
 > [!boundary]- 概念边界
 > - 区别于[[Survivorship Bias|幸存者偏差]]：幸存者偏差关注失败样本被彻底隐没所导致推断倒错；手稿拒稿增益效应则是在已成功发表的样本中比对初投成功与初投失败两组群体的引文轨迹分化。
-> - 区别于单纯的学者天资筛选假说：实证表明即便重投至平均影响因子更低的期刊，改投手稿的引文优势依然稳健存在，证明增益来自文本质量的内在改进而非单纯依赖期刊层级背书。
+> - 区别于单纯的学者天资筛选假说：实证表明即便重投至平均[[Journal Impact Factor|影响因子]]更低的期刊，改投手稿的引文优势依然稳健存在，证明增益来自文本质量的内在改进而非单纯依赖期刊层级背书。
 
 ---
 
@@ -87,7 +96,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题一｜同行评审的批判性阻断与团队修改投入具有实质性的成果质量增值功能
-> **同行评议制度的价值创造** 该命题探讨同行评议是否仅承担被动把关人功能，抑或对科研成果的内在学术水准具备建设性重塑作用。
+> **同行评议制度的价值创造** 该命题探讨同行评议是否仅承担被动[[Gatekeepers|把关人]]功能，抑或对科研成果的内在学术水准具备建设性重塑作用。
 
 > [!claim] Calcagno et al. (2012)
 > **拒稿反馈改进假说** 文森特·卡尔卡尼奥等通过大规模期刊手稿流动数据证实，拒稿重投具有显著的质量重塑功能；审稿人提供的建设性批评与团队投入的后续打磨时间，切实消除了手稿原有的论证瑕疵，促使二次重投刊发的成果在同行群体中展现出更持久的学术认同与被引生命力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 244)]]
@@ -103,7 +112,7 @@ updated: 2026-11-03
 
 > [!dev-timeline] 概念演变
 > - **2012 — 现象发现与实证** Calcagno 等人在《科学》发表成果，首次基于 8 万篇手稿数据实证揭示改投成果的被引溢价。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 244)]]
-> - **2021 — 科学学挫折动力学整合** [[Dashun Wang|王大顺]]与巴拉巴西在专著中将拒稿增益效应与青年基金申请惜败的断点回归研究相互印证，构筑起从手稿层面到学者生涯层面的科学挫折成长理论。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 243–245)]]
+> - **2021 — 科学学挫折动力学整合** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]在专著中将拒稿增益效应与青年基金申请惜败的[[Regression Discontinuity Design|断点回归]]研究相互印证，构筑起从手稿层面到学者生涯层面的科学挫折成长理论。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 243–245)]]
 
 ---
 
@@ -119,10 +128,10 @@ updated: 2026-11-03
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Calcagno et al. (2012)]] | 2006–2008 年发表于 923 种生物科学期刊的 80,748 篇论著 | 期刊手稿流转追踪与 6 年期引文对比 | 初投接收率、重投比率、6 年期累积引文量 | 75% 的成果在其首次投递的期刊中直接录用发表；初投被拒但在二次投递中见刊的手稿，在发表后 6 年内获得的累积引文显著超越在同一目标期刊初投即被录用的手稿，且在向更高或更低影响因子期刊转投时均稳健成立 | $p < 0.001$ | 样本局限于生物科学领域期刊，其他学科差异性有待检验 |
 

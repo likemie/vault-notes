@@ -7,9 +7,9 @@ title: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_key: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_display_title: "Strategic review: Improving the use of evidence for education policy, planning and implementation"
 argument_kind: "report"
-argument_related_count: 116
-argument_related_level: 11
-argument_related_stars: "💎💎💎⭐⭐"
+argument_related_count: 120
+argument_related_level: 12
+argument_related_stars: "💎💎💎💎"
 argument_related_color: "#fecdd3"
 authors:
   - "[[Gita Steiner-Khamsi|Steiner-Khamsi, G.]]"
@@ -63,7 +63,9 @@ related_concepts:
   - "[[Regional Large-Scale Assessments]]"
   - "[[Reform Fatigue]]"
   - "[[Normal School]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Global Citizenship]]"
+  - "[[Appropriate Research]]"
   - "[[Clinical Trial]]"
   - "[[Paradigm]]"
   - "[[Commensuration]]"
@@ -79,6 +81,7 @@ related_concepts:
   - "[[Knowledge Co-production]]"
   - "[[Knowledge Exchange]]"
   - "[[Boundary Spanner]]"
+  - "[[Transnational Education]]"
   - "[[Effective Teaching]]"
   - "[[Regional URE Hubs]]"
   - "[[Communities of Practice]]"
@@ -146,6 +149,7 @@ related_facts:
   - "[[RISE Programme]]"
   - "[[Education Endowment Foundation]]"
   - "[[Evidence Network]]"
+  - "[[Web of Science]]"
   - "[[International Initiative for Impact Evaluation]]"
   - "[[EVIPNet]]"
   - "[[Center for Rapid Evidence Synthesis]]"
@@ -164,7 +168,7 @@ related_facts:
   - "[[Lemann Foundation]]"
 status: draft
 created: 2026-10-22
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
@@ -330,7 +334,7 @@ updated: 2026-10-30
 
 ---
 
-> [!sub-claim] 3. 实证研究过度扎堆基础学习，职业与高等教育缺乏数据支撑
+> [!sub-claim] 3. 实证研究过度扎堆[[Foundational Literacy and Numeracy|基础学习]]，职业与高等教育缺乏数据支撑
 
 > [!figure]- 图 3.1　SDG 4 各子目标政策实证支撑受访者认知分布
 > 各方生产的实证成果在具体发展目标之间分布极不均衡，调查参与者对各项可持续发展目标的实证支撑程度给出了高度分化的评估（pp. 22, 24–25）。
@@ -349,7 +353,7 @@ updated: 2026-10-30
 > | 调研实证诊断 | 对应政策治理建议 |
 > |---|---|
 > | SDG 4 各子目标、主题与议题所获得的实证支撑极不均衡（p. 27）。 | 在全球教育议程中强化对未受充分服务目标（如 4.3、4.4、4.b）的重视，设立专项资金支持相应实证研究（p. 27）。 |
-> | 全球普遍存在海量证据过剩，但决策者仍然认为关键政策议题缺乏适切证据（p. 27）。 | 设立具备中介协调职能的区域支持枢纽，促进证据库之间的双向流通，推动生产符合本土优先需求的实证成果（p. 27）。 |
+> | 全球普遍存在海量证据过剩，但决策者仍然认为关键政策议题缺乏[[Appropriate Research\|适切证据]]（p. 27）。 | 设立具备中介协调职能的区域支持枢纽，促进证据库之间的双向流通，推动生产符合本土优先需求的实证成果（p. 27）。 |
 > | 主要证据平台多集中于国际层级，本土与全球证据源处于松散脱节状态（p. 27）。 | 依托运作良好的区域性网络，连接国家教育部委与全球国际组织，打破信息孤岛（p. 27）。 |
 > | 国际大平台信息主要采用英语，多语种支持存在巨大差异（p. 27）。 | 为证据平台提供多语种专项资助，推动研究产出向联合国官方语言及主要本土语言转译（p. 27）。 |
 > | 不同专业群体（政府官员与公民社会）的证据获取渠道高度分化（p. 27）。 | 促进战略性跨部门伙伴协作，推动政府行政部门吸纳民间社会组织已建立的多元[[Evidence Network\|证据网络]]（p. 27）。 |
@@ -366,7 +370,7 @@ updated: 2026-10-30
 > [!sub-claim] 1. 公共卫生的循证研究发文增速与权威文献积累大幅领先教育领域
 
 > [!figure]- 图 4.1　公共卫生与教育领域政策证据利用年学术产出对比
-> 研究团队通过 Web of Science 数据库检索了公共卫生（1,660 篇）与教育领域（1,825 篇）关于政策证据利用的系统综述文献，开展跨部门科学计量比对（pp. 29–32）。
+> 研究团队通过 [[Web of Science]] 数据库检索了公共卫生（1,660 篇）与教育领域（1,825 篇）关于政策证据利用的系统综述文献，开展跨部门科学计量比对（pp. 29–32）。
 >
 > ![图4.1：公共卫生与教育领域政策证据利用年学术产出对比](https://img.mylikemie.icu/sources/Steiner-Khamsi_2024_UNESCO/figures/Steiner-Khamsi_2024_UNESCO_Fig4-1_Annual_Scientific_Production.jpg)
 
@@ -464,7 +468,7 @@ updated: 2026-10-30
 > | | **5.1.12 嵌入长效 MEL 自适应学习** | 建立契合系统性变革的监测、评估与学习（Monitoring, Evaluation, and Learning, MEL）指标体系，确立政策自适应管理机制（p. 42）。 |
 
 > [!case] 三维干预路径的代表性实践形态（pp. 15, 51, 74）
-> 报告依据研究证据利用的三维分类，提炼出跨国教育生态中的典型中介形态：
+> 报告依据研究证据利用的三维分类，提炼出[[Transnational Education|跨国教育]]生态中的典型中介形态：
 > - **产品型线性供给** 聚焦研究成果向决策者的单向分发与检索便利，如[[Effective Teaching|有效教学]]信息库（What Works Clearinghouses）、[[RISE Programme]] 系统诊断工具包，以及 IIEP 建立的国家教育行业规划官方文献库 [[Planipolis]]。
 > - **关系型网络协同** 促进知识生产者与使用者之间的双向人际互动与跨界学习。例如[[Early Childhood Development Action Network|早期儿童发展行动网络]]（Early Childhood Development Action Network, ECDAN），将各国决策官员、科研专家、多边机构与民间社会联合接入同一行动空间，依托常设同行研讨推进 SDG 4.2 早期发展议题。
 > - **系统型制度嵌入** 致力于改善决策机构接纳实证的制度承载力与财政约束。例如全球教育伙伴关系 KIX 与联合国儿童基金会联合推进的[[Better Early Learning and Development at Scale|大规模优质早期学习与发展计划]]（Better Early Learning and Development at Scale, BELDS），通过制度化介入推动成员国教育部将严谨的早期儿童实证指标与成本预算模型深度嵌入国家教育部门规划（ESP）编制流程。

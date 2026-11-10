@@ -10,7 +10,7 @@ aliases:
 summary: "指由国家公共教育与培训体系、企业专职研发实验室、产业网络、前竞争技术联合体、实体制造公地、政府协调规制以及承接战略使命并贯通中试研发的研究型大学所构成的制度网络，是解释跨国技术赶超、无形知识积累与经济长期分化的核心分析单位。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 91
+related_count: 92
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Regulatory Sandbox]]"
   - "[[Intellectual Capital]]"
   - "[[Determinism]]"
+  - "[[Study Abroad]]"
   - "[[Total Quality Management]]"
   - "[[Market Failure]]"
   - "[[Measurement Alignment]]"
@@ -119,7 +120,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -191,7 +192,7 @@ updated: 2026-11-03
 > **[[Intellectual Capital|知识资本]]积累与后发赶超机制** 探讨后发国家如何跨越技术差距，论证国家主导的技术教育、熟练技能培养与逆向工程能力构建，为何是经济增长的深层根基。
 
 > [!claim] [[Chris Freeman|Freeman, C.]]
-> **知识资本[[Determinism|决定论]]** [[Friedrich List|弗里德里希·李斯特]]（Friedrich List）在 1841 年对亚当·斯密物质资本观的批判深刻揭示了国家繁荣的本质：国家的生产力不仅取决于既有厂房机器等实物资本的多寡，更根本取决于全社会继承、消化并发展前人智力遗产的生产力能力。19 世纪普鲁士面对英国机床出口禁运的技术封锁，正是通过创办工艺学校（[[Gewerbe-Institut]]）提供免学费工科教育、公派留学、引进工业母机开展逆向工程，并吸纳英国资深工匠传递隐性工艺经验，方才成功奠定了超越英国制造业优势的技术基石；这表明缺乏国家级教育培训与技能积累，单纯依靠自由贸易与资本引进绝不可能实现[[Technological Catch-up|技术赶超]]。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–8)]]
+> **知识资本[[Determinism|决定论]]** [[Friedrich List|弗里德里希·李斯特]]（Friedrich List）在 1841 年对亚当·斯密物质资本观的批判深刻揭示了国家繁荣的本质：国家的生产力不仅取决于既有厂房机器等实物资本的多寡，更根本取决于全社会继承、消化并发展前人智力遗产的生产力能力。19 世纪普鲁士面对英国机床出口禁运的技术封锁，正是通过创办工艺学校（[[Gewerbe-Institut]]）提供免学费工科教育、公派[[Study Abroad|留学]]、引进工业母机开展逆向工程，并吸纳英国资深工匠传递隐性工艺经验，方才成功奠定了超越英国制造业优势的技术基石；这表明缺乏国家级教育培训与技能积累，单纯依靠自由贸易与资本引进绝不可能实现[[Technological Catch-up|技术赶超]]。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–8)]]
 
 ---
 

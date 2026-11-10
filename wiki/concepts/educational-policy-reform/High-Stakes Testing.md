@@ -9,7 +9,7 @@ aliases:
 summary: "测验结果对受试者、教师或学校产生重大后果的评估情境，风险程度与不伦理行为发生率正相关，表现为从回冲效应到直接泄题的准备方式连续体；在读写教育中诱发套路化公式写作并驱逐主观阐释，与生成式人工智能合谋加剧成长性认识不正义。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 24
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -45,12 +45,15 @@ related_theories:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
   - "[[Argument_Smith_2026_SPE]]"
+  - "[[Argument_Yang_2023_ICE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
-related_methods: []
+  - "[[Argument_Barrenechea_2023_JEC]]"
+related_methods:
+  - "[[Knowledge Extent]]"
 confidence: high
 status: active
 created: 2026-07-25
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -84,7 +87,7 @@ updated: 2026-11-10
 
 > [!spectrum] 测验准备方式的九级伦理连续体（Mehrens & Kaminski, 1989）
 > - **1. 正常覆盖（Normal Coverage）** 在达成广泛课程目标与能力素养的过程中，自然涵盖将被测验的知识点。（完全合规）
-> - **2. 课程窄化（Curriculum Narrowing）** 削减非测验内容，教学时间与目标完全收缩至测验限定的知识范围。（教育性受损）
+> - **2. 课程窄化（Curriculum Narrowing）** 削减非测验内容，教学时间与目标完全收缩至测验限定的[[Knowledge Extent|知识范围]]。（教育性受损）
 > - **3. 考试技巧训练（Test-Taking Strategies）** 专门训练排除法、时间分配与猜题技巧。（工具化应试）
 > - **4. 刷题训练（Practice with Past Papers）** 密集使用往年试卷或同类模拟题进行机械化操练。（熟练度强化）
 > - **5. 对题教学（Teaching to Specific Items）** 教学内容与题库中的具体题目一一精确对应。（扭曲测量真实性）

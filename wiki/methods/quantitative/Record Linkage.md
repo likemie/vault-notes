@@ -12,7 +12,7 @@ summary: "在缺乏统一个人或实体物理标识符的情境下，跨异构�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
+method_related_count: 18
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -42,13 +42,15 @@ related_instruments: []
 related_persons:
   - "[[René Descartes]]"
 related_facts:
+  - "[[Crossref]]"
   - "[[Open Court Reading]]"
   - "[[National Science Foundation]]"
+  - "[[Dimensions]]"
 related_arguments:
   - "[[Argument_Lin_2023_SciData]]"
 confidence: high
 status: active
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -89,7 +91,7 @@ updated: 2026-11-02
 >    - **第一阶段（确定性强标识匹配）** 利用 DOI、身份证号或社保编号等全局唯一键进行绝对匹配。
 >    - **第二阶段（规范化字段精确匹配）** 对题名、姓名进行大小写规整、标点与停用词过滤后比对。
 >    - **第三阶段（搜索引擎零模型得分与概率判定）** 依托倒排索引（如 Elasticsearch）获取多字段综合相关度得分，以次优候选得分分布作为零模型基准，依据极值显著性（如 $P = 0.05$）划定匹配边界。
->    - **第四阶段（启发式微调与外部数据源补强）** 计算成对得分差值提取高置信度模糊匹配，并引入 Crossref 等第三方权威数据交叉验证。
+>    - **第四阶段（启发式微调与外部数据源补强）** 计算成对得分差值提取高置信度模糊匹配，并引入 [[Crossref]] 等第三方权威数据交叉验证。
 > 4. **阈值判定与物理约束过滤** 设定分类决策边界，并结合业务逻辑施加硬性排他约束（如成果发表年份不能早于资助立项过多，$t-1 \le t_{\text{pub}} \le t+5$）。
 > 5. **质量核验与基准校准** 采用人工抽样复查，或与权威商业基准进行跨库重合度交叉验证。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
@@ -125,4 +127,4 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 融合文本抽取、模糊匹配与年份约束，对齐 131 万条[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）项目非结构化引文与主图谱，并经 Dimensions 基准交叉核验。
+> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 融合文本抽取、模糊匹配与年份约束，对齐 131 万条[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）项目非结构化引文与主图谱，并经 [[Dimensions]] 基准交叉核验。

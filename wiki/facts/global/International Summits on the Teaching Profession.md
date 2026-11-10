@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[School Leadership]]"
   - "[[Whole Person Education]]"
+  - "[[Transnational Education]]"
   - "[[International Education]]"
   - "[[Performance Indicators]]"
   - "[[Discourse]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -102,7 +103,7 @@ updated: 2026-10-26
 > [!pathways] 实施路径与管理
 > - **双向循证议程设定** 峰会讨论议题由 OECD、EI 与主办国三方联合筹备委员会协商确定，确保政策议程兼顾政府治理关切与工会权益关切。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–212)]]
 > - **国别行动承诺机制** 每届峰会闭幕环节，各国代表团需联合提出针对未来一年的 1–2 项具体改革目标，并在下一届峰会上通报执行进展。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 211)]]
-> - **数据共有与知情赋权** 彻底打破官方垄断大型跨国教育调查的旧制，制度化确立调查数据归政策制定者与教师专业组织共同所有的原则。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–211)]]
+> - **数据共有与知情赋权** 彻底打破官方垄断大型[[Transnational Education|跨国教育]]调查的旧制，制度化确立调查数据归政策制定者与教师专业组织共同所有的原则。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–211)]]
 
 ---
 

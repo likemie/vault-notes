@@ -8,7 +8,7 @@ aliases:
 summary: "以规范、认知与知识体系为基石的全球与跨国治理机制；剖析高等教育机构与国际组织如何通过观念建构、议程设置与专业网络确立知识权威，并在地缘博弈中充当认识论规则重塑与软实力投射的制度载体。"
 type: concept
 domain: "higher-education"
-related_count: 63
+related_count: 64
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -18,6 +18,7 @@ tags:
   - theme/educational-governance
   - subject/higher-education
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Discourse]]"
   - "[[Geopolitics]]"
   - "[[Hard Power]]"
@@ -89,13 +90,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-11
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Epistemic Governance
-> 知识治理（Epistemic Governance）是指以观念、规范、专业知识与认知分类为基石的全球与跨国治理机制，与依靠强制制裁和行政规制的传统硬治理（Hard Governance）形成互补。该概念在跨国教育与全球治理研究中揭示了高等教育机构、智库与国际组织如何超越单纯的物质权力，通过生产科学证据、确立[[Discourse|话语]]标准、培养全球专家以及输出评估规程，在去中心化网络中行使知识权威，塑造“何谓合理政策与有效知识”的全球认知基准。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 145–147)]]; [[Argument_Huang_2020_APJE|(Huang & Kan, 2020, p. 423)]]; [[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1705)]]
+> 知识治理（Epistemic Governance）是指以观念、规范、专业知识与认知分类为基石的全球与跨国治理机制，与依靠强制制裁和行政规制的传统硬治理（Hard Governance）形成互补。该概念在[[Transnational Education|跨国教育]]与全球治理研究中揭示了高等教育机构、智库与国际组织如何超越单纯的物质权力，通过生产科学证据、确立[[Discourse|话语]]标准、培养全球专家以及输出评估规程，在去中心化网络中行使知识权威，塑造“何谓合理政策与有效知识”的全球认知基准。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 145–147)]]; [[Argument_Huang_2020_APJE|(Huang & Kan, 2020, p. 423)]]; [[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1705)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 治理的实质不仅是行政规章的执行或物质利益的博弈，更是一套关于现实如何被分类、问题如何被界定以及真理如何被认证的认知符号系统。

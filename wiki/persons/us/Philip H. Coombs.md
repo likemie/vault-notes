@@ -8,10 +8,10 @@ summary: "美国著名教育经济学家、高级外交官与国际教育规划�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 22
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1915"
 died: "2006"
 lifespan: "1915–2006"
@@ -27,8 +27,11 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Policy Brokerage]]"
   - "[[Cosmopolitanism]]"
+  - "[[Transnational Education]]"
   - "[[Discourse]]"
+  - "[[Learning Crisis]]"
   - "[[Geopolitics]]"
+  - "[[Crisis Epistemology]]"
   - "[[Technology Deficit of Education]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -49,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -69,7 +72,7 @@ updated: 2026-11-10
 > [!timeline] 生平与职涯
 > - **1915** 出生于美国马萨诸塞州圣十字学院，先后在阿默斯特学院与芝加哥大学接受正规经济学训练。
 > - **1940–1950年代** 二战期间在美国战略情报局（OSS）及战时物价管制局任职，战后出任福特基金会教育发展基金研究总监，深入介入战后美国教育资源统筹。
-> - **1961–1962** 获约翰·肯尼迪总统任命，出任美国历史上首任主管教育与文化事务的助理国务卿，全力推动将跨国教育与文化交流纳入冷战时期美国大战略。
+> - **1961–1962** 获约翰·肯尼迪总统任命，出任美国历史上首任主管教育与文化事务的助理国务卿，全力推动将[[Transnational Education|跨国教育]]与文化交流纳入冷战时期美国大战略。
 > - **1963–1968** 赴巴黎参与创建[[UNESCO\|联合国教科文组织]][[International Institute for Educational Planning\|国际教育规划研究所]]（IIEP）并担任创始所长，奠定现代跨国教育规划学的方法论与专业培训规程。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 > - **1967–1968** 主持召开弗吉尼亚威廉斯堡“世界教育危机国际会议”，并在 1968 年正式出版专著《世界教育危机：系统分析》，将教育危机推向全球公共舆论中枢。
 > - **1970–1990年代** 担任[[International Education\|国际教育]]发展理事会（International Council for Educational Development，ICED）主席，开创性地开辟了面向第三世界农村贫困群体的“非正规教育（Non-formal Education）”研究前沿。
@@ -96,7 +99,7 @@ updated: 2026-11-10
 > - **制度化路径** 亲手缔造[[International Institute for Educational Planning\|联合国教科文组织国际教育规划研究所]]（IIEP），开创了联合国体系以跨国培训、指标规划与数据建模向第三世界输出规划技术的治理样板。
 > - **[[Discourse|话语]][[Paradigm\|范式]]路径** 确立了以“危机叙事”动员财政资源、重塑公众预期并为跨国专家干预提供合法性辩护的话语模型，直接启发了后来的《国家处在危险之中》及[[OECD\|经合组织]]跨国指标体系。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 > - **政策转移路径** 促成了美国国内教育规划技术与多边国际组织的无缝咬合，为冷战时期西方大国主导全球南方教育发展合作提供了关键思想弹药。
-> - **当代危机治理演化** 其奠定的危机动员与技术赤字修辞构成了 21 世纪联合国与世界银行“全球学习危机”及“学习贫困”治理叙事的历史雏形。[[Argument_Santos_Silova_2026_Discourse\|(Santos & Silova, 2026, pp. 671–673)]]
+> - **当代危机治理演化** 其奠定的危机动员与技术赤字修辞构成了 21 世纪联合国与世界银行“[[Learning Crisis|全球学习危机]]”及“学习贫困”治理叙事的历史雏形。[[Argument_Santos_Silova_2026_Discourse\|(Santos & Silova, 2026, pp. 671–673)]]
 
 ---
 
@@ -115,7 +118,7 @@ updated: 2026-11-10
 
 > [!critique] 批评索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] — 指出库姆斯所具象化的人格化普遍危机叙事在冷战中具有鲜明的西方[[Geopolitics|地缘政治]]烙印，将特定资本主义工业社会的问题外推为全球普世问题。
-> - [[Argument_Santos_Silova_2026_Discourse\|Santos and Silova (2026)]] — 批评库姆斯开创的危机认识论传统将教育挑战窄化为跨国技术官僚的干预契机，遮蔽了殖民掠夺与地缘政治等级。
+> - [[Argument_Santos_Silova_2026_Discourse\|Santos and Silova (2026)]] — 批评库姆斯开创的[[Crisis Epistemology|危机认识论]]传统将教育挑战窄化为跨国技术官僚的干预契机，遮蔽了殖民掠夺与地缘政治等级。
 
 > [!warning] 未解问题与边界
 > 库姆斯的系统[[Analytic Framework\|分析框架]]高度依赖国家层面的宏观投入-产出可量化指标，难以深入捕捉微观教室层面的教学情境复杂性与文化差异。

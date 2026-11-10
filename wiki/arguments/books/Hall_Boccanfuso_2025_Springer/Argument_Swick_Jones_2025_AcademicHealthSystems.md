@@ -21,12 +21,14 @@ related_concepts:
   - "[[Team Science]]"
   - "[[Partnership Continuum]]"
   - "[[Document]]"
+  - "[[Academic Pipeline]]"
   - "[[Technology Transfer Office]]"
   - "[[Valley of Death]]"
   - "[[Competitiveness]]"
   - "[[Institutional Review Board]]"
   - "[[Data Infrastructure]]"
   - "[[Informed Consent]]"
+  - "[[Algorithmic Bias]]"
   - "[[T-Shaped Skills]]"
   - "[[Return on Investment]]"
   - "[[Incubation]]"
@@ -48,14 +50,14 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-06-02
-updated: 2026-10-30
+updated: 2026-11-11
 subtype: book-chapter
 publication_type: book
 title: "Argument_Swick_Jones_2025_AcademicHealthSystems"
 argument_key: "Argument_Swick_Jones_2025_AcademicHealthSystems"
 argument_display_title: "The unique role of academic health systems in facilitating innovative UI partnerships"
 argument_kind: "book"
-argument_related_count: 26
+argument_related_count: 28
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -126,7 +128,7 @@ citation_aliases:
 > [!example] Houston Methodist 的"中心辐射"结构
 > 以 Houston Methodist 为例，AHS 呈现"中心辐射"（hub-and-spoke）模式（Fig. 10.2）：旗舰医院与研究所为核心，八个区域性医院为辐射节点，外层为初级保健诊所、急诊中心等接入点，并通过与联邦认证健康中心（Federally Qualified Health Center, FQHC）合作覆盖服务不足人群(pp.180–181)。详见 [[Academic Health System]]。
 >
-> 论证关键在于：这种结构创造出 **"双向学术管线"（bidirectional academic pipeline）**——创新从旗舰研究所向外推送至多样化诊疗环境接受验证，临床需求从区域和社区反馈回研究所触发新发现。**将研究带到患者身边**，而非要求患者来到研究所，从根本上扩展了临床试验的入口和部署场景。
+> 论证关键在于：这种结构创造出 **"双向学术管线"（bidirectional [[Academic Pipeline|academic pipeline]]）**——创新从旗舰研究所向外推送至多样化诊疗环境接受验证，临床需求从区域和社区反馈回研究所触发新发现。**将研究带到患者身边**，而非要求患者来到研究所，从根本上扩展了临床试验的入口和部署场景。
 
 > [!example] 图10-2：学术健康系统的组织结构（Structure of an Academic Health System）
 > ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_10-2_Structure_of_Academic_Health_System.jpg)
@@ -160,7 +162,7 @@ citation_aliases:
 ---
 
 > [!warning] 挑战四：问题复杂性与技术变革速度的叠加
-> 当代医学问题已超出单个机构甚至单一类型机构的解决能力(pp.184–186)。历史上有看似不可解的问题（如感染预防）在巴斯德、[[Friedrich List|李斯特]]和科赫做出发现后被证明并非不可解，但当代挑战多了一层额外因素：技术本身的发展速度。技术驱动创新，同时也创造新问题，如数据安全和算法偏见。摩尔定律（Moore's Law）预测芯片元件数每两年翻一番，已持续近 60 年；在深度学习时代，计算能力现每 6 个月翻一番(p.186)。单一医院很难独立承担这种技术投入速度。
+> 当代医学问题已超出单个机构甚至单一类型机构的解决能力(pp.184–186)。历史上有看似不可解的问题（如感染预防）在巴斯德、[[Friedrich List|李斯特]]和科赫做出发现后被证明并非不可解，但当代挑战多了一层额外因素：技术本身的发展速度。技术驱动创新，同时也创造新问题，如数据安全和[[Algorithmic Bias|算法偏见]]。摩尔定律（Moore's Law）预测芯片元件数每两年翻一番，已持续近 60 年；在深度学习时代，计算能力现每 6 个月翻一番(p.186)。单一医院很难独立承担这种技术投入速度。
 
 ---
 

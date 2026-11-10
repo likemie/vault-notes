@@ -8,7 +8,7 @@ aliases:
 summary: "可能对参与或曾参与其中的人构成实质性威胁的研究，其敏感性主要来源于研究的社会情境而非话题本身，涵盖侵入性威胁、越轨与社会控制、政治联盟三大类"
 type: concept
 domain: "research-methodology"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
   - method/research-ethics
   - theme/sensitive-research
 related_concepts:
+  - "[[Cumulative Innovation]]"
   - "[[Evaluation Research]]"
 related_methods:
   - "[[Qualitative Research]]"
@@ -23,7 +24,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-22
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!def] Sensitive Research
@@ -45,7 +46,7 @@ updated: 2026-10-22
 
 ### 敏感性的十一种来源
 
-Lee (1993) 和后续研究者总结了敏感性的多种来源（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 199–201]]）：
+Lee (1993) 和[[Cumulative Innovation|后续研究]]者总结了敏感性的多种来源（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 199–201]]）：
 
 > [!factors] 敏感性的来源
 > - **对参与者的后果** 研究可能带来心理、社会或职业上的负面后果（Sieber & Stanley, 1988）。

@@ -9,7 +9,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 46
+fact_related_count: 48
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Knowledge Production]]"
   - "[[Assemblage]]"
+  - "[[Theoretical Standpoint]]"
   - "[[What Works Movement]]"
   - "[[Social Impact Investing]]"
   - "[[Network Governance]]"
@@ -65,6 +66,7 @@ related_facts:
   - "[[Comparative Education Society in Europe]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Australian Curriculum]]"
+  - "[[Australian Curriculum, Assessment and Reporting Authority]]"
   - "[[Educational Services Australia]]"
   - "[[Sutton Trust]]"
   - "[[BHP Foundation]]"
@@ -79,7 +81,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -106,7 +108,7 @@ updated: 2026-11-02
 > [!actor-grid] 组织治理架构
 > - **决策机构（董事会）** 设立由政府、商界与慈善界高管主导的专家董事会；首任主席莉萨·奥布莱恩（Lisa O'Brien，曾任 [[Social Ventures Australia\|SVA]] 董事），核心成员包括[[Sir Kevan Collins\|柯文·科林斯爵士]]（Sir Kevan Collins，英国 [[Education Endowment Foundation\|EEF]] 首任 CEO、SVA 顾问）、罗杰·马西-格林（Roger Massy-Greene，SVA 长期捐赠人、力拓集团与美洲银行前高管、[[Australian Schools Plus\|Schools Plus]] 先驱者委员会成员）及莱斯利·洛布尔（Leslie Loble，保罗·拉姆齐基金会会士）。公司章程第 6 条与第 8 条明文规定董事选任必须具备与慈善界合作的资历。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5, 9–10]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 529–530]])
 > - **执行机构（高管管理团队）** 首席执行官杰妮·多诺万（Jenny Donovan，曾任[[Centre for Educational Statistics and Evaluation\|新南威尔士州教育统计与评估中心]] [[Comparative Education Society in Europe\|CESE]] 主任）全面主持业务运作，直接参与联邦教育部委核心专家委员会（TEEP）。
-> - **底层网络与系统统筹** 与澳大利亚教学与[[School Leadership\|学校领导力]]研究所（[[Australian Institute for Teaching and School Leadership\|AITSL]]）及[[Australian Curriculum\|澳大利亚课程]]、评估与报告局（ACARA）共享澳大利亚教育服务社（[[Educational Services Australia\|ESA]]）底层数字化中介架构。
+> - **底层网络与系统统筹** 与澳大利亚教学与[[School Leadership\|学校领导力]]研究所（[[Australian Institute for Teaching and School Leadership\|AITSL]]）及[[Australian Curriculum\|澳大利亚课程]]、评估与报告局（[[Australian Curriculum, Assessment and Reporting Authority|ACARA]]）共享澳大利亚教育服务社（[[Educational Services Australia\|ESA]]）底层数字化中介架构。
 > - **外部咨询与学术分包网络** 深度委托外部中介实体[[Centre for Evidence and Implementation\|证据与实施中心]]（CEI）及各类商业咨询智库承担桌面审查与干预评估分包。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]])
 
 > [!logic-map]- 机构组织架构与多方关系网络
@@ -265,7 +267,7 @@ updated: 2026-11-02
 > |:-----|:-----|:-----|
 > | [[Educational Brokerage Agency]] | 概念 | AERO 属于 2020 年代全球教育中介机构扩张的典型案例。 |
 > | [[Venture Philanthropy]] | 概念 | 催生、塑造并深度嵌入 AERO 董事会治理与法规的资本力量。 |
-> | [[Assemblage]] | 概念 | 解构 AERO 表面客观中立与底层法律条文耐用固化的理论透镜。 |
+> | [[Assemblage]] | 概念 | 解构 AERO 表面客观中立与底层法律条文耐用固化的[[Theoretical Standpoint\|理论透镜]]。 |
 > | [[What Works Movement]] | 概念 | AERO 所依循的以因果干预与标准化工具包为核心的全球循证运动。 |
 > | [[Social Ventures Australia]] | 事实 | 主导 AERO 十年政策游说、原型试验与董事人事输送的[[Social Impact Investing\|风险慈善]]母体。 |
 > | [[Education Endowment Foundation]] | 事实 | 为 AERO 提供组织模板、试验工具包资助及首任董事的英国母本机构。 |

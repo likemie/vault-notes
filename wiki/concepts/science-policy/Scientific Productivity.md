@@ -10,10 +10,10 @@ aliases:
 summary: "科研人员向学术领域贡献与传播知识单元的速率，通常以同行评审出版物数量度量；实证表明人均年均产出在百年尺度上保持约2篇的长期稳定，在个体层面呈现极度不均衡的对数正态长尾分布，且单纯生产力与长远学术影响存在实质性脱钩。"
 type: concept
 domain: "science-policy"
-related_count: 37
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 50
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/science-policy
   - theme/scientometrics
@@ -28,45 +28,58 @@ related_concepts:
   - "[[Coauthorship Network]]"
   - "[[Heterogeneity]]"
   - "[[Salami Publishing]]"
+  - "[[Counterfactual]]"
+  - "[[Causality]]"
+  - "[[Grit]]"
   - "[[Knowledge Production]]"
+  - "[[Creativity]]"
   - "[[Predictive Validity]]"
   - "[[Star Scientists]]"
   - "[[Tacit Knowledge]]"
+  - "[[Variable]]"
+  - "[[Early-Career Researchers]]"
   - "[[Evaluative Validity]]"
   - "[[Reflection Problem]]"
-  - "[[Variable]]"
-  - "[[Causality]]"
-  - "[[Counterfactual]]"
-  - "[[Grit]]"
 related_theories:
   - "[[Lotka's Law]]"
+  - "[[Random Walk Coauthorship Model]]"
+  - "[[Random Impact Rule]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
   - "[[h-Index]]"
-  - "[[Receiver Operating Characteristic Analysis]]"
   - "[[Q-Factor]]"
+  - "[[Natural Experiment]]"
+  - "[[Mechanism Experiments]]"
+  - "[[Peer Debriefing]]"
   - "[[Author Name Disambiguation]]"
   - "[[Effect Size]]"
+  - "[[Fixed-Effect Model]]"
+  - "[[Regression Discontinuity Design]]"
 related_instruments: []
 related_persons:
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
-  - "[[Paul Erdős]]"
+  - "[[Santo Fortunato]]"
   - "[[Alfred J. Lotka]]"
   - "[[William Shockley]]"
 related_facts:
   - "[[National Research Council]]"
+  - "[[Microsoft Academic Graph]]"
+  - "[[OpenAlex]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
+  - "[[Argument_Sinatra_2016_Science]]"
+  - "[[Argument_Fortunato_2018_Science]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
-  - "[[Argument_Fortunato_2018_Science]]"
+  - "[[Argument_Chen_2025_HSSC]]"
+  - "[[Argument_Hao_2026_Nature]]"
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-11-08
+updated: 2026-11-11
 ---
 
 ---
@@ -77,7 +90,7 @@ updated: 2026-11-08
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 科研生产力测度的是学者学术劳动的输出节奏与知识公开发表频率，表征个体或科研团队在学术交流网络中的知识注入速率。
 > - **用途** 充当高校教师聘期考核、科研院所资源配置、终身教职资格筛选以及科研资助分配中的基础工作量评价基准。
-> - **边界** 生产力仅反映论著产出的数量规模，不能等同于成果被学术共同体接受、吸收与转化的实质影响力，亦无法单独作为预测学者未来开创性重大科学发现的可靠指针。
+> - **边界** 生产力仅反映论著产出的数量规模，不能等同于成果被学术共同体接受、吸收与转化的实质影响力，亦无法单独作为预测学者未来开创性重[[Big Science|大科学]]发现的可靠指针。
 
 > [!citation-card] [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]论科研生产力的长期稳定性与实质局限
 > 过去一个世纪科学知识库呈现指数级爆炸，但这主要是因为科学家总人数急剧膨胀，前人与今人的个体生产速率未现大幅跃变。整个 20 世纪学者年均发文量始终稳定在 2 篇左右。在用于量化科学卓越的众多指标中，生产力恰恰是预测长远影响最不可靠的一个，多产既包含着卓越探索，也混杂着挂名搭便车与碎化发表。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 8, 15–16)]]
@@ -106,9 +119,9 @@ updated: 2026-11-08
 > - **微观极度倾斜的核心圈分布** 全球活跃发表学者中，不足 1% 能够保持每年至少发表 1 项成果的稳定产出；这部分核心学者产出了全学科绝大多数的学术出版物以及高影响成果。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 10–11)]]
 > - **学科交流载体的[[Heterogeneity|异质性]]** 人文学科以耗时漫长的专著为核心；物理学偏好篇幅受限的快报短文；计算机科学以顶级同行评审会议录为首要沟通载体。忽视学科载体差异会导致高校评价体系失真。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 9–10)]]
 > - **与长期学术影响的脱钩** 生产力在预测长期学术成就上效度较弱。实验技术人员常规挂名上百项论著、为应付考核采取的[[Salami Publishing|切香肠式发表]]以及最小可发表单元均会虚假膨胀生产力指标。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 15–16)]]
-> - **生命周期发文速率的单峰非对称演进** 科学家的年度发文生产力 $n(t)$ 随学术年龄增长呈现先升后降的单峰偏态分布：在入行前 10–15 年稳步攀升并在学术年龄 15–20 年间达到波峰，随后逐步递减；反事实生涯置换实验证实，这一发文速率的时序起伏完全解释了重大突破在学术生涯早中期聚集的经验假象。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016)]]
-> - **合作网络随机游走演化复现（Random-Walk Reproduction of Productivity）** 福图纳托等（[[Argument_Fortunato_2018_Science|Fortunato et al., 2018]]）追踪 8 个代表性前沿学科演化证实，在成熟学科合署网络巨连通分量上运行随机游走动力学模型，能够精准复现学者个体的科研生产力分布、各学科体量以及跨学科合著特征（p. 2）。
-> - **因果推断中的不可观测混杂威胁** 科研资助与学者长期产出之间的经验相关容易受到个人心理特质的混杂干扰；类似[[Grit|坚毅]]等未观测禀赋既能提高申请立项几率，又直接决定长期的科研产出，导致传统回归模型产生内生性偏倚。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 248–249)]]
+> - **生命周期发文速率的单峰非对称演进** 科学家的年度发文生产力 $n(t)$ 随学术年龄增长呈现先升后降的单峰偏态分布：在入行前 10–15 年稳步攀升并在学术年龄 15–20 年间达到波峰，随后逐步递减；[[Counterfactual|反事实]]生涯置换实验证实，这一发文速率的时序起伏完全解释了重大突破在学术生涯早中期聚集的经验假象。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016)]]
+> - **合作网络随机游走演化复现（Random-Walk Reproduction of Productivity）** [[Santo Fortunato|福图纳托]]等（[[Argument_Fortunato_2018_Science|Fortunato et al., 2018]]）追踪 8 个代表性前沿学科演化证实，在成熟学科合署网络巨连通分量上运行随机游走动力学模型，能够精准复现学者个体的科研生产力分布、各学科体量以及跨学科合著特征（p. 2）。
+> - **[[Causality|因果推断]]中的不可观测混杂威胁** 科研资助与学者长期产出之间的经验相关容易受到个人心理特质的混杂干扰；类似[[Grit|坚毅]]等未观测禀赋既能提高申请立项几率，又直接决定长期的科研产出，导致传统回归模型产生内生性偏倚。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 248–249)]]
 
 ---
 
@@ -119,7 +132,7 @@ updated: 2026-11-08
 > **基数驱动与人均稳态** 现代科学出版物总量的指数级增长，其根本推动力在于受过高等科研训练的学者总人数呈现出同步的指数级扩张。在学者个体层面，受制于人类构思、实验验证与撰写文本的生理与认知上限，整个 20 世纪跨学科科研人员的人均年发表量始终稳定在固定均值区间。新世纪以来的微弱增幅本质上是科研团队[[Coauthorship Network|合著网络]]深化带来的联署效应，单纯依赖提高个人考核指标并不能无限制压榨个体产出。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 8–9)]]
 
 > [!claim] [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]]
-> **早期突破假象源于发文高峰而非创造力衰竭** 桑托·福图纳托等跨学科综合证实，学者青年时期集中诞生重大发现的经验表象完全由早年生涯发文速率高峰所主导；一旦控制年度发文生产力波动，个体重大突破在职业发表序列的任意位置服从均匀随机分布，年龄本身并不直接制约创新潜能。同时，扩展团队基于科研生产力累积优势加速吸附新成员，驱动团队规模以每十年 17% 的速率增长。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, pp. 3–4)]]
+> **早期突破假象源于发文高峰而非[[Creativity|创造力]]衰竭** 桑托·福图纳托等跨学科综合证实，学者青年时期集中诞生重大发现的经验表象完全由早年生涯发文速率高峰所主导；一旦控制年度发文生产力波动，个体重大突破在职业发表序列的任意位置服从均匀随机分布，年龄本身并不直接制约创新潜能。同时，扩展团队基于科研生产力累积优势加速吸附新成员，驱动团队规模以每十年 17% 的速率增长。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, pp. 3–4)]]
 
 ---
 
@@ -143,7 +156,7 @@ updated: 2026-11-08
 ---
 
 > [!concept-proposition] 命题四｜学者的科研生产力深受所处学术网络与同行质量的结构性塑造
-> **同伴效应与学术网络对个体产出的影响机制** 探讨科研生产力是个体独立禀赋的体现，还是依赖于所嵌入的学术共同体与思想网络。准自然实验表明，顶尖同行的加盟能显著提振同事的产出率，而关键学术伙伴的丧失则会导致个体生产力遭受不可逆的滑坡。
+> **同伴效应与学术网络对个体产出的影响机制** 探讨科研生产力是个体独立禀赋的体现，还是依赖于所嵌入的学术共同体与思想网络。[[Natural Experiment|准自然实验]]表明，顶尖同行的加盟能显著提振同事的产出率，而关键学术伙伴的丧失则会导致个体生产力遭受不可逆的滑坡。
 
 > [!claim] Waldinger (2010); Agrawal et al. (2017); [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]]
 > **同伴效应与学术伙伴对科研生产力的支撑** 二战前解聘德国大学教授的历史准实验证实，高水平学术伙伴遭到驱逐直接导致留守学者的科研生产力永久萎缩；高校进化生物学系纵向追踪进一步显示，[[Star Scientists|明星科学家]]加盟可在长周期内持续带动该系在职同事的加权发表产出，并显著提升后续新进教师的质量。这表明学者的科研生产力高度依赖于学术网络中同行间的思想激荡与[[Tacit Knowledge|隐性知识]]溢出，独立闭门探索难以维系长期高产。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 99–101)]]
@@ -151,10 +164,10 @@ updated: 2026-11-08
 ---
 
 > [!concept-proposition] 命题五｜科研资助对长期生产力的因果推断极易遭受坚毅等不可观测心理特质的混淆偏倚
-> **科技政策因果推断中的内生性与遗漏变量识别** 探讨公共财政资助对科研生产力的真实促进机制，揭示传统观察性模型混淆资助效应与个体内在心理特质的方法学困境。
+> **科技政策因果推断中的内生性与遗漏[[Variable|变量]]识别** 探讨公共财政资助对科研生产力的真实促进机制，揭示传统观察性模型混淆资助效应与个体内在心理特质的方法学困境。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]]
-> **不可观测坚毅特质对资助生产力因果链的混杂威胁** 传统文献将获得项目资助视为推动学者长期多产的直接原因，但两者相关性在因果识别上面临致命挑战。个体内在的[[Grit|坚毅]]（Grit）与自我驱动等心理学特质属于无法直接量化测度的变量，这些特质既显著提高学者在同行评审中的中标几率，又直接主导了学者在整个职业生涯中的科研生产力。如果资助与高产的关系完全由个体内在的坚毅品质所驱动，单纯向冷门或低产领域追加资助将收效甚微。科学政策决策必须依靠准实验断点或机制试验剥离不可观测混杂，精准识别并支持具备内在坚毅特质的青年科研人员。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 248–249)]]
+> **不可观测坚毅特质对资助生产力因果链的混杂威胁** 传统文献将获得项目资助视为推动学者长期多产的直接原因，但两者相关性在因果识别上面临致命挑战。个体内在的[[Grit|坚毅]]（Grit）与自我驱动等心理学特质属于无法直接量化测度的变量，这些特质既显著提高学者在同行评审中的中标几率，又直接主导了学者在整个职业生涯中的科研生产力。如果资助与高产的关系完全由个体内在的坚毅品质所驱动，单纯向冷门或低产领域追加资助将收效甚微。科学政策决策必须依靠准实验断点或[[Mechanism Experiments|机制试验]]剥离不可观测混杂，精准识别并支持具备内在坚毅特质的[[Early-Career Researchers|青年科研人员]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 248–249)]]
 
 ---
 
@@ -182,7 +195,7 @@ updated: 2026-11-08
 
 > [!debates|notitle] 学术争议
 >
-> > [!axis] 数量导向发文考核 vs 代表作实质贡献同行审议
+> > [!axis] 数量导向发文考核 vs 代表作实质贡献[[Peer Debriefing|同行审议]]
 > > 高校聘任与科研管理应以量化发文篇数考核学者产出，还是以代表作同行审议作为核心评价依据。
 > >
 > > - **量化绩效派** 认为发表计数提供了客观透明的工作量衡量基准，能够克服同行人际关系造成的评审偏倚。
@@ -215,12 +228,12 @@ updated: 2026-11-08
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit03\|Wang & Barabási (2021)]]; [[Argument_Sinatra_2016_Science\|Sinatra et al. (2016)]] | 《物理评论》跨世纪物理学者引文网络与诺贝尔物理学奖得主样本 | 多指标受试者工作特征（ROC）竞争检验 | 预测诺贝尔奖的曲线下面积（AUC）：发文量 $N$、总被引、h 指数与 Q 因子 | 发文量 $N$ 的受试者工作特征曲线下面积（AUC）仅为 0.62，在所有指标中排名垫底；Q 因子 AUC 达到 0.88（总被引 0.85、h 指数 0.83） | 竞赛对比显著 | 证实单纯发文量在识别顶尖卓越成就上预测力最弱 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit03\|Wang & Barabási (2021)]] | 经历爆发期的跨学科科学家队列（按生涯发文时序测度） | 爆发期内外发文频次对比分析 | 爆发期与非爆发期年均发文篇数 | 爆发期内学者年均发文篇数与基线期相比无统计学差异（保持平稳） | 差异不显著（$p > .10$） | 证实[[Hot Streak\|学术爆发期]]由单篇成果质量提高驱动，与发文生产力短期激增无关 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit04\|Wang & Barabási (2021)]]; Waldinger (2010) | 1925–1938 年德国大学留守物理学与化学教授队列 | 纳粹解聘资深教授的外生冲击准实验 | 合作学术伙伴流失对留守教授科研产出率的影响 | 驱逐一位高于均值的学术伙伴，导致留守教授物理学产出永久萎缩 13%、化学产出永久萎缩 16.5% | 差异在统计上显著（$p < .05$） | 证实高质量学术网络对维持个体科研生产力具有不可替代的结构性支撑 |
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit04\|Wang & Barabási (2021)]]; Agrawal et al. (2017) | 1980–2008 年全美 255 个进化生物学系与 149,947 篇教师论著 | 明星学者入职前后双向固定效应面板回归 | 在职教师加权论著产出率及后续新聘教师质量 | 明星科学家入职显著提振既有同事产出率长达 8 年，并产生高达 434% 的相关新秀吸附增益 | 面板回归系数显著（$p < .01$） | 证实顶尖同侪对院系生产力具有持久的知识溢出与梯队提振效应 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit04\|Wang & Barabási (2021)]]; Agrawal et al. (2017) | 1980–2008 年全美 255 个进化生物学系与 149,947 篇教师论著 | 明星学者入职前后双向[[Fixed-Effect Model\|固定效应]]面板回归 | 在职教师加权论著产出率及后续新聘教师质量 | 明星科学家入职显著提振既有同事产出率长达 8 年，并产生高达 434% 的相关新秀吸附增益 | 面板回归系数显著（$p < .01$） | 证实顶尖同侪对院系生产力具有持久的知识溢出与梯队提振效应 |
 > | [[Argument_Sinatra_2016_Science\|Sinatra et al. (2016)]] | 跨越一个世纪的 2,887 位长周期物理学家与 7 大门类跨学科学者 | 反事实生涯序列置换实验 | 年度发文速率 $n(t)$ 与生涯代表作时序 | 代表作相对位次 $N^*/N$ 在 $(0, 1]$ 上服从均匀分布（$P=1.0$，累积分布斜率 $-1$），单篇先验突破概率恒为 $1/N$；打乱时序后模拟曲线与真实早年突破峰值曲线完全重合 | 置换检验与经验数据拟合显著 | 确证重大突破在早中期的扎堆聚集完全由年发文生产力演进曲线所主导，个体创造力终身不衰退 |
-> | Wang, Lee, & Walsh (2019); [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Wang & Barabási (2021)]] | 美国国家卫生研究院（NIH）首度申请 R01 资助资历线附近的青年学者（$N = 1,162$ 惜败组 vs $N = 1,007$ 险胜组） | 断点回归设计（RDD）准实验反事实追踪 | 学术系统永久流失率；后续 10 年篇均被引；前 5% 高被引成果比例 | 惜败组流失率高 2.6 个百分点（12.6% vs 10.0%, $p < 0.05$）；坚守者后续 10 年篇均被引高 6.1%；前 5% 高被引成果比例为 16.0% vs 13.3%（$p < 0.01$） | 断点局域随机性保障了反事实同质性 | 证实剥离内在坚毅等不可测混杂后，资助未获批带来的早期挫折促使坚守学者后续产出更高影响力的成果 |
+> | Wang, Lee, & Walsh (2019); [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Wang & Barabási (2021)]] | 美国国家卫生研究院（NIH）首度申请 R01 资助资历线附近的青年学者（$N = 1,162$ 惜败组 vs $N = 1,007$ 险胜组） | [[Regression Discontinuity Design\|断点回归设计]]（RDD）准实验反事实追踪 | 学术系统永久流失率；后续 10 年篇均被引；前 5% 高被引成果比例 | 惜败组流失率高 2.6 个百分点（12.6% vs 10.0%, $p < 0.05$）；坚守者后续 10 年篇均被引高 6.1%；前 5% 高被引成果比例为 16.0% vs 13.3%（$p < 0.01$） | 断点局域随机性保障了反事实同质性 | 证实剥离内在坚毅等不可测混杂后，资助未获批带来的早期挫折促使坚守学者后续产出更高影响力的成果 |
 > | [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018)]] | 8 个前沿学术领域全生命周期合作网络与引文库 | 拓扑演化追踪与随机游走机制建模 | 巨连通分量规模、生产力分布与团队扩张速率 | 在成熟学科合作网络巨连通分量上运行随机游走模型，精准复现学者科研生产力分布与学科规模；扩展团队依托生产力累积优势吸附成员，十年增长 17% | 跨 8 个学科门类高度一致 | 证实个体科研生产力受底层合作拓扑与团队组织形态的系统性塑造 |
-> | [[Argument_Chen_2025_HSSC\|Chen et al. (2025)]] | 微软学术图谱 19,152 位资深经济学家全生命周期发表记录 | 控制领域固定效应的多元计量回归模型（主模型 4） | 爆发期发文量（#pub_during）、前期发文量与颠覆度增量 $D_{diff}$ | 爆发期发文量显著正向提升颠覆度增量（$\beta = 0.029, p < .001$）；即使无引用试错成果边际贡献亦为 $+0.029$；前期发文量呈负向基线效应（$\beta = -0.031$） | 主模型 $R^2 = 0.822, p < .001$ | 确证密集发文通过概念重组与试验空间提高颠覆突破概率，支持试错机会构型机制 |
-> | [[Argument_Hao_2026_Nature\|Hao et al. (2026)]] | OpenAlex 数据库 4,129.8 万篇自然科学出版论著与 537.7 万名学者（跨越机器学习、深度学习与生成式 AI 三大发展浪潮） | 基于双阶段微调语言模型（BERT）识别与生存分析队列追踪 | 年均发文量、年均被引频次与升任课题负责人（末位通讯署名）年限 | 采用 AI 工具的学者年均发文量为非 AI 学者的 3.02 倍，年均被引高出 4.84 倍；提前 1.37 年成为科研项目负责人 | 跨 6 大自然科学门类均高度显著（$t \ge 47.18, p < .001$） | 证实 AI 工具显著放大个体学术影响与职业晋升速率，但伴随研究团队平均缩减 1.33 人且初级学者减少 31.14% |
+> | [[Argument_Chen_2025_HSSC\|Chen et al. (2025)]] | [[Microsoft Academic Graph\|微软学术图谱]] 19,152 位资深经济学家全生命周期发表记录 | 控制领域固定效应的多元计量回归模型（主模型 4） | 爆发期发文量（#pub_during）、前期发文量与颠覆度增量 $D_{diff}$ | 爆发期发文量显著正向提升颠覆度增量（$\beta = 0.029, p < .001$）；即使无引用试错成果边际贡献亦为 $+0.029$；前期发文量呈负向基线效应（$\beta = -0.031$） | 主模型 $R^2 = 0.822, p < .001$ | 确证密集发文通过概念重组与试验空间提高颠覆突破概率，支持试错机会构型机制 |
+> | [[Argument_Hao_2026_Nature\|Hao et al. (2026)]] | [[OpenAlex\|OpenAlex 数据库]] 4,129.8 万篇自然科学出版论著与 537.7 万名学者（跨越机器学习、深度学习与生成式 AI 三大发展浪潮） | 基于双阶段微调语言模型（BERT）识别与生存分析队列追踪 | 年均发文量、年均被引频次与升任课题负责人（末位通讯署名）年限 | 采用 AI 工具的学者年均发文量为非 AI 学者的 3.02 倍，年均被引高出 4.84 倍；提前 1.37 年成为科研项目负责人 | 跨 6 大自然科学门类均高度显著（$t \ge 47.18, p < .001$） | 证实 AI 工具显著放大个体学术影响与职业晋升速率，但伴随研究团队平均缩减 1.33 人且初级学者减少 31.14% |
 
 ---
 
@@ -239,7 +252,7 @@ updated: 2026-11-08
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Chen_2025_HSSC|Chen et al. (2025)]] — 结合 19,152 位经济学家长周期产出数据，实证确证爆发期发文生产力扩张对颠覆度增量的显著试错拉动效应（$\beta = 0.029$）。
-> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 确立合作网络随机游走模型可复现科研生产力分布，并实证早年突破假象完全源于发文高峰而非创造力衰竭（pp. 2–4）。
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 确立[[Random Walk Coauthorship Model|合作网络随机游走模型]]可复现科研生产力分布，并实证早年突破假象完全源于发文高峰而非创造力衰竭（pp. 2–4）。
 > - [[Argument_Hao_2026_Nature|Hao et al. (2026)]] — 基于 4,130 万篇自然科学论著追踪实证发现，采用人工智能工具的学者年均发文量高出 3.02 倍、被引高出 4.84 倍并提前 1.37 年成为项目负责人。
-> - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 基于跨世纪物理学与多学科大数据提出生涯置换反事实检验法，证实年度发文生产力 $n(t)$ 的生命周期演进驱动了重大突破的时序分布，确立随机影响法则。
+> - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 基于跨世纪物理学与多学科大数据提出生涯置换反事实检验法，证实年度发文生产力 $n(t)$ 的生命周期演进驱动了重大突破的时序分布，确立[[Random Impact Rule|随机影响法则]]。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 结合跨世纪文献计量与外生冲击准实验（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|第 1]]、[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|3]]、[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|4]]、[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|11 单元]]），系统论证科研生产力的人均稳态、对数正态分布、同行学术网络溢出效应以及资助因果推断中坚毅特质的混杂识别。

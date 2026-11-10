@@ -7,7 +7,7 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 131
+related_count: 133
 related_level: 13
 related_stars: "💎💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Scholiocentric Approach]]"
   - "[[Enlightenment]]"
+  - "[[Transnational Education]]"
   - "[[Geopolitics]]"
   - "[[Reference Society]]"
   - "[[Hard Power]]"
@@ -44,6 +45,7 @@ related_concepts:
   - "[[Performance Pay]]"
   - "[[Policy Avoidance]]"
   - "[[Chain of Evidence]]"
+  - "[[Quasi-market]]"
   - "[[School Choice]]"
   - "[[Re-Westernisation]]"
   - "[[PISA Shock]]"
@@ -158,7 +160,7 @@ related_arguments:
 confidence: high
 status: stable
 created: '2026-05-01'
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -335,7 +337,7 @@ updated: 2026-11-03
 > - **政治合法化转译机制（Legitimation Rationale Translation）** 北美分权民主语境下，改革者（如[[Horace Mann|霍勒斯·曼]]）战略性剥离外部专制外壳，抽取公学实绩作为反击本土保守派、为争议改革确立政治正当性的论证依据（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 31–34]]）。
 > - **学校中心主义借用与启蒙改良合法化（[[Scholiocentric Approach|scholiocentric]] Borrowing & [[Enlightenment]] [[Educational Meliorism|Meliorism]]）** 19 世纪美欧先驱（如曼、巴纳德、斯托、哈里斯、库森与阿诺德）的借用具有鲜明的“准[[Ethnography|民族志]]”、“准历史”与描述性特征，聚焦于学校内部的学制与教学规程（学校中心主义，scholiocentric）。这些借用的核心驱动力是为本国改革搜寻实用方案，其实质是将外国经验作为推进国家公共教育建构与政治意识形态改良的合法化依据（legitimating rationales），深植于启蒙运动的改良主义与现代性规划精神（Kazamias & Massialas, 1965；Kazamias, 2009a）。
 > - **翻译与变异（Translation and Morphing）** 借用的政策元素在进入本地语境时发生实质性的形态翻译与功能转译，以适应本土环境并承载不同的政治意图（[[Argument_Cowen_2009_CE|Cowen, 2009b]]）。
-> - **认证效应（Certification Effect）** 跨国教育理念或实践的借用对本地教育改革产生认证效应，为本地已启动或酝酿中的改革提供声望与正当性。
+> - **认证效应（Certification Effect）** [[Transnational Education|跨国教育]]理念或实践的借用对本地教育改革产生认证效应，为本地已启动或酝酿中的改革提供声望与正当性。
 
 ---
 
@@ -387,7 +389,7 @@ updated: 2026-11-03
 > **[[Mediatised Governance|媒介化治理]]与跨国借用的遗漏话语操作** 当代跨国政策借用不仅依赖官方文本，更演化为政治精英操纵个人与体制媒介资本的公关战。在英格兰 2013 年教师[[Performance Pay|绩效工资]]制（Performance-Related Pay, PRP）改革中，教育大臣动用新闻首发特权，高调借用 PISA 评估中的上海高分样板与 OECD 专家言论，声称重奖优秀教师是全球前沿趋势。然而，这一借用过程在[[Epistemology|认识论]]上严重依赖“遗漏话语（discourse of omission）”：系统性剔除经合组织全样本数据中“绩效工资与成绩无相关性”的核心事实，并掩盖上海依托教研组开展专业合作的制度真貌。大众媒介出于时效与流量压力集体陷入[[Policy Avoidance|政策规避]]（policy avoidance），未对借用主张的真实[[Chain of Evidence|证据链]]展开实质审查，从而使缺乏本土民意授权与科学依据的激进私有化议程成功披上了国际循证的合法化外衣。
 
 > [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
-> **策略性外在化与差异化本土借用模式** 索蒂里亚·格雷克（[[Sotiria Grek]]）在实证比较英格兰、苏格兰、德国与芬兰对 PISA 测评的政策反响时指出，跨国政策借用是决策者操纵外部世界情境以平息国内争议的“策略性外在化”（strategic externalization）机制（pp. 34–35）。各国借用模式深受本土权力结构制约：德国借助低排位制造“丑闻化（scandalisation）”以冲破各州长期僵局并确立联邦国家标准；英格兰借助高排位为其准市场[[School Choice|择校]]与高利害问责模式确立合法性依据并压制阶级不平等质疑；苏格兰则将良好排位作为确证教师专业自决的制度护盾以主动抵御来自英格兰的政策移植；而[[EU|欧盟]]委员会则将芬兰经验提炼为“同伴学习”的可移植处方。跨国测评数据因而成为政策行动者依循各自政治逻辑按需裁量、用于平息辩论与确立国内合法性的多功能工具。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 28–32, 34–35)]]
+> **策略性外在化与差异化本土借用模式** 索蒂里亚·格雷克（[[Sotiria Grek]]）在实证比较英格兰、苏格兰、德国与芬兰对 PISA 测评的政策反响时指出，跨国政策借用是决策者操纵外部世界情境以平息国内争议的“策略性外在化”（strategic externalization）机制（pp. 34–35）。各国借用模式深受本土权力结构制约：德国借助低排位制造“丑闻化（scandalisation）”以冲破各州长期僵局并确立联邦国家标准；英格兰借助高排位为其[[Quasi-market|准市场]][[School Choice|择校]]与高利害问责模式确立合法性依据并压制阶级不平等质疑；苏格兰则将良好排位作为确证教师专业自决的制度护盾以主动抵御来自英格兰的政策移植；而[[EU|欧盟]]委员会则将芬兰经验提炼为“同伴学习”的可移植处方。跨国测评数据因而成为政策行动者依循各自政治逻辑按需裁量、用于平息辩论与确立国内合法性的多功能工具。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 28–32, 34–35)]]
 
 ---
 
@@ -488,7 +490,7 @@ updated: 2026-11-03
 > - **2009 — 德英双轨传统消解与浅层借用[[Epistemology|认识论]]警示** [[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter, 2009）系统对比了欧洲比较教育的德英双轨建制模式：英国面向专业实践、政策借用与实务咨询，德国依托[[Allgemeine Pädagogik|普通教育学]]（Allgemeine Pädagogik）与教化哲学（[[Bildung]]）坚守形而上学价值反思；并在当代大规模国际测评热潮下警示：比较学者必须坚守“[[Navigation Metaphor in Comparative Education|航海隐喻]]”的中立警示职责，抵御去情境化的浅层政策借用对学科批判认识论身份的消解。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89, 95–99)]]
 > - **2009 — 全球化四重响应模型与早期借用认识论平反** [[Val D. Rust|瓦尔·拉斯特]]、约翰斯通与阿拉夫（Rust, Johnstone & Allaf, 2009）批判传统借用理论的自愿互惠假设，确立涵盖“接受、抵制、恢复、强制再生产”的四维批判分析框架；同时系统考证挪威改革委员会与美国[[Common School Movement|公学运动]]，平反早期借用考察，确立“恶政良教自然可分”原则为政策借用的学术认识论基石。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 124–126, 133–134)]]
 > - **2009 — 第一代学校中心主义借用与启蒙改良合法化史学定性** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias, 2009a）系统定性 19 世纪第一代美欧先驱的借用行为：阐明其“学校中心主义”（[[Scholiocentric Approach|scholiocentric]]）与劝诱性特征，揭示将外国经验作为国内政治与道德改良合法化依据的启蒙现代性底色，并阐述[[Michael Sadler|萨德勒]]历史文化转向对素朴借用移植的认识论批判。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 141–142)]]
-> - **2009 — 跨国网络借用主体扩散与[[Knowledge Bank|知识银行]]双重收拢机制** [[Jason Beech|杰森·比奇]]（Jason Beech, 2009b）批判主权国家官方官员垄断花园采撷的传统假设，揭示高校咨询、跨国教育集团、区域联盟与国际组织构成的新型跨国借用网络；论证多边机构充当“知识银行”，通过垄断危机定义权与改革解方捆绑对受援国实施双重收拢，并依托拉美等后发国家官僚/学术精英[[Gatekeepers|守门人]]网络收窄本土政策[[Discursive Field|话语空间]]。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–344, 348–353)]]
+> - **2009 — 跨国网络借用主体扩散与[[Knowledge Bank|知识银行]]双重收拢机制** [[Jason Beech|杰森·比奇]]（Jason Beech, 2009b）批判主权国家官方官员垄断花园采撷的传统假设，揭示高校咨询、[[Transnational Education|跨国教育]]集团、区域联盟与国际组织构成的新型跨国借用网络；论证多边机构充当“知识银行”，通过垄断危机定义权与改革解方捆绑对受援国实施双重收拢，并依托拉美等后发国家官僚/学术精英[[Gatekeepers|守门人]]网络收窄本土政策[[Discursive Field|话语空间]]。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–344, 348–353)]]
 > - **2009 — 欧洲跨国测评借用的策略性外在化机制** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 28–32, 34–35]]）基于德、英、芬四地比较，实证揭示国家政策行动者如何将 [[PISA]] 跨国数据作为策略性外在化资源：既可用作制造危机以冲破体制阻力并确立国家标准的政策工具（德国），亦可用作确证既有市场模式合法性的依据（英格兰），或作为抵御[[External Auditor|外部审计]]移植的防御工具（苏格兰）。
 > - **2012 — 政治借用与实质学习的系统区隔** 施泰纳-哈姆西系统界定“政治借用”（选择性、仪式性）与“实质学习”（开放、交流性）的分野。
 > - **2018 — 媒介化全球治理与罗生门借用模型** 格雷与莫里斯（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）揭示以 [[PISA]] 为代表的大规模跨国测评时代政策借用的新特征：政策借用从传统的官方行政调研升级为高度依赖大众媒介公关的“媒介化借用”；决策者通过“遗漏话语”剪裁外部卓越样板（如上海），而新闻媒体的[[Policy Avoidance\|政策规避]]使得未经检验的合法化借用得以逃避民主问责，使政策借用与[[Rashomon Effect\|罗生门效应]]深度咬合。
@@ -519,7 +521,7 @@ updated: 2026-11-03
 > > - **[[Val D. Rust|瓦尔·拉斯特]]、约翰斯通与阿拉夫（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）** 早期借用预设掩盖了非对称权力强加，必须将强制再生产与依附机制纳入核心[[Analytic Framework|分析框架]]。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 133–134)]]
 >
 > > [!axis] 主权国家特派官员垄断借用 vs 跨国多元网络行动者与知识垄断
-> > 争论政策借用是否仍由主权国家政府特派官员在领土边界间主导进行，抑或已被大学咨询单位、跨国教育资本与多边国际机构构成的跨国网络所重构。
+> > 争论政策借用是否仍由主权国家政府特派官员在领土边界间主导进行，抑或已被大学咨询单位、[[Transnational Education|跨国教育]]资本与多边国际机构构成的跨国网络所重构。
 > >
 > > - **传统主权国家借用取向（Sadler, 1900; Cousin, 1831; Mann, 1844）** 将借用视为民族国家官方专员出于国内危机应对而展开的外国考察与选择性采撷，分析聚焦于主权政府的立法与行政转化。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 24–34)]]
 > > - **跨国流动网络与[[Knowledge Bank|知识银行]]取向（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）** 论证营利性跨国教育集团、大学发展咨询部与国际组织已打破国家垄断；国际组织通过[[Knowledge Production|知识生产]]与双重收拢机制在超国家网络中设定议程，并依托本土[[Gatekeepers|守门人]]垄断借用渠道，使政策借用转变为去领土化的全球[[Network Governance|网络治理]]。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–344, 350–352)]]

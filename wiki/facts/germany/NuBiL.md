@@ -12,7 +12,7 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ tags:
 related_concepts:
   - "[[Output-Oriented Governance]]"
   - "[[Research Contribution]]"
+  - "[[Cumulative Innovation]]"
   - "[[Educational Science Communication]]"
   - "[[Reflexivity]]"
   - "[[Educational Evidence Clearinghouses]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-10-20
+updated: 2026-11-11
 ---
 
 ---
@@ -66,7 +67,7 @@ updated: 2026-10-20
 
 > [!program-context] 项目背景
 > - **立项时间与调查周期** 2017 年正式立项启动先导性[[Qualitative Interview|质性访谈]]；2018–2019 年在德国多个联邦州展开大规模中小学在岗教师[[Questionnaire|问卷调查]]，阶段性成果首发于《学校发展[[Research Contribution|研究贡献]]》（Beiträge zur Schulentwicklung）文集（Otto, Hinzke & Besa, 2019）。
-> - **发起机构与学术网络** 明斯特大学教育学研究所（IfE）联合汉堡大学师资培养中心统筹实施，后续研究直接拓展至德语区[[Educational Science Communication|教育科学传播]]与[[Reflexivity|反思性]]循证实践的前沿辩论（[[Argument_Besa_2024_UW|Besa, 2024]]）。
+> - **发起机构与学术网络** 明斯特大学教育学研究所（IfE）联合汉堡大学师资培养中心统筹实施，[[Cumulative Innovation|后续研究]]直接拓展至德语区[[Educational Science Communication|教育科学传播]]与[[Reflexivity|反思性]]循证实践的前沿辩论（[[Argument_Besa_2024_UW|Besa, 2024]]）。
 > - **核心治理与实践痛点** 传统政策与中介平台（如各类 [[Educational Evidence Clearinghouses|Clearinghouse]]）普遍抱持“[[Technical Rationality|技术理性]]传导假定”，预设只要向教师提供客观科研结论，教师就会按部就班优化教学；然而实践中教师普遍显现出对抽象科研结论的冷漠与防御，政策界与研究界对教师真实主观利用心理长期处于认知黑箱状态。
 
 ---

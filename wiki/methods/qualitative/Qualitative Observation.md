@@ -8,7 +8,7 @@ summary: "质性研究中研究者在研究现场对个体行为和活动进行�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 27
+method_related_count: 28
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Reflexivity]]"
   - "[[Epistemology]]"
+  - "[[Research Tool]]"
   - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Internal Validity]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-01'
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 ---
@@ -76,7 +77,7 @@ updated: 2026-10-29
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 主张知识是脉络化的、建构的，强调通过近距离、浸润式的身体在场获取一手的社会学与教育学经验。
-> - **研究者角色** 作为有意识的“研究工具”，在完全参与到完全观察的谱系中动态调整，反思自身的[[Reflexivity\|反身性]]（Reflexivity）与伦理关系。
+> - **研究者角色** 作为有意识的“[[Research Tool|研究工具]]”，在完全参与到完全观察的谱系中动态调整，反思自身的[[Reflexivity\|反身性]]（Reflexivity）与伦理关系。
 > - **有效性标准** 主要通过可[[Reliability\|信度]]（Credibility）、转移性（Transferability）、确认性（Confirmability）与[[Triangulation\|三角验证]]（Triangulation）来确立研究质量。
 > - **不声称回答的问题** 不能声称回答大规模[[Variable\|变量]]之间的统计相关，也不能进行高[[Internal Validity\|内部效度]]的净因果效果识别。
 

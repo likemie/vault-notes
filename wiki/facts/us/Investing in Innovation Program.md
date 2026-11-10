@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 33
+fact_related_count: 34
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -44,6 +44,7 @@ related_methods:
   - "[[Effectiveness Trial]]"
   - "[[Efficacy Trial]]"
   - "[[Random Assignment]]"
+  - "[[Instrumental Variables]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Effect Size]]"
 related_instruments: []
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -107,7 +108,7 @@ updated: 2026-10-26
 > [!dev-timeline] 项目推进历程
 > - **2009–2010 年 — 方案奠基与首轮启动** 奥巴马政府在 ARRA 经济刺激计划中注入 6.5 亿美元设立 i3 首期基金，教育部发布首轮招标指南，吸引全美近 1,700 份方案竞标，最终确立首批 49 个资助项目。
 > - **2011–2015 年 — 规模化推进与证据爆发期** i3 连续开展多轮分层拨款，推动“全员成功”（[[Success for All\|SFA]]）、[[Reading Recovery]] 等项目进入全国大规模 [[Randomised Controlled Trials\|RCT]] 试验，极大丰富了全美符合 [[What Works Clearinghouse\|WWC]] 认证的实证数据库。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–24)]]
-> - **2015 年 — 法定化沉淀与标准输出** i3 实践经验直接推动了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA 2015）第四条款（Title IV）的确立，将强、中、有希望和展示合理逻辑四级[[Evidence Standards\|证据标准]]正式写入联邦成文法。
+> - **2015 年 — 法定化沉淀与标准输出** i3 实践经验直接推动了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA 2015）第四条款（Title [[Instrumental Variables|IV]]）的确立，将强、中、有希望和展示合理逻辑四级[[Evidence Standards\|证据标准]]正式写入联邦成文法。
 > - **2016 年至今 — 机制升级与 [[Education Innovation and Research\|EIR]] 接轨** 2016 年 i3 正式收官结项；2017 年起由性质相同、覆盖更广的教育创新与研究项目（EIR）全面接替，延续开发、早期阶段及中晚期规模化的分层资助架构。
 
 ---

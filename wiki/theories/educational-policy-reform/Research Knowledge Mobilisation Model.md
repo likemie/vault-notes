@@ -8,7 +8,7 @@ aliases:
 summary: "由 Ben Levin 提出的经典教育知识动员系统理论模型，将研究流动表征为生产、使用与中介三大功能情境的动态重叠与双向反馈，提出五阶段研究利用阶梯与机制-障壁诊断比率，并深嵌于宏观社会背景之中"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 24
+theory_related_count: 27
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -32,15 +32,18 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Academic Achievement]]"
   - "[[Document]]"
+  - "[[Third Voice]]"
   - "[[Evidence-Informed Decision-Making]]"
   - "[[Operationalization]]"
+  - "[[Transnational Education]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Network Analysis]]"
   - "[[Cohort Study]]"
   - "[[Meta-analysis]]"
-related_persons: []
+related_persons:
+  - "[[Ben Levin]]"
 related_facts:
   - "[[OECD]]"
 related_arguments:
@@ -50,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -59,7 +62,7 @@ updated: 2026-10-30
 > - **解释对象** 教育领域中研究证据如何在大学、学校、智库、媒体与政策部门之间流动、转化、重组与扩散的多维系统机制。
 > - **理论问题** 破除将知识流动视为“大学单向生产后交付学校使用”的线性[[Technical Rationality\|技术理性]]迷思，解释为何[[Knowledge Mediation\|知识中介]]与使用情境往往比单纯的生产情境更为庞大，以及宏观社会制度如何时刻形塑着知识吸收。
 > - **理论类型** 系统论中层[[Analytic Framework\|分析框架]]（Systems-Based Analytical Model）、功能主义知识流动拓扑模型。
-> - **知识位置** 由加拿大著名教育政策学者 Ben Levin（2004, 2008, 2011, 2013）系统建构，是教育学界最早且最具国际影响力的[[Knowledge Mobilisation\|知识动员]]基础理论之一（被引近千次），在 Best and Holmes (2010) 与 [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 的代际谱系中被定位于从第二代关系模型向第三代系统模型跨越的核心标志。
+> - **知识位置** 由加拿大著名教育政策学者 [[Ben Levin]]（2004, 2008, 2011, 2013）系统建构，是教育学界最早且最具国际影响力的[[Knowledge Mobilisation\|知识动员]]基础理论之一（被引近千次），在 Best and Holmes (2010) 与 [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 的代际谱系中被定位于从第二代关系模型向第三代系统模型跨越的核心标志。
 
 > [!claim] 核心主张
 > 教育[[Research Impact\|研究影响力]]的实现绝非单一科研部门的自上而下输出，而是深嵌于**研究生产（Production）、[[Research Utilization\|研究使用]]（Use）与研究中介（Mediation）** 三大功能情境的重叠交叉网络之中。这三大情境指涉的是系统“功能”而非僵化的“行政组织”，知识动员恰恰发生在不同功能相互渗透的交织地带；全系统整体浸润于变动不居的宏观社会与法制环境之中，多元行动者可在复合功能间动态跨界穿梭。
@@ -140,7 +143,7 @@ updated: 2026-10-30
 
 > [!theory-boundary] 适用边界
 > - **适合解释** 宏观与中观层面的教育科研体系治理、大学-学区伙伴关系网络、中介组织职能演化。
-> - **谨慎使用** 微观单个教师阅读[[Document|文献]]时的心理认知过程（此时需结合 Cain 的三种声音理论或 Langer 的 [[Evidence-Informed Decision-Making\|EIDM]] 框架）。
+> - **谨慎使用** 微观单个教师阅读[[Document|文献]]时的心理认知过程（此时需结合 Cain 的[[Third Voice|三种声音]]理论或 Langer 的 [[Evidence-Informed Decision-Making\|EIDM]] 框架）。
 > - **常见误用** 误将模型中的三个三角形当成具体的三个行政办公室，忽略了 Levin 所强调的“功能流动”本质。
 
 ---
@@ -149,7 +152,7 @@ updated: 2026-10-30
 > - **2004 — 奠基论文发表** Levin 在 *Education Policy Analysis Archives* 发表《Making research matter more》，首次系统阐发生产、使用、中介与社会大背景四[[Meta-analysis\|元分析]]框架。
 > - **2008–2011 — 动员模型图式成熟** Levin 在加拿大教育委员会报告与 *London Review of Education* 中将模型图式化为三大重叠三角形与变粗双向箭头，并提出五阶段[[Research Utilization\|研究利用]]阶梯。
 > - **2013 — 理论集大成论述** Levin 在 *Review of Education* 创刊号发表经典论文《To know is not enough: Research knowledge and its use》，系统阐述研究[[Knowledge Mobilisation\|知识动员]]模型的系统论原理与政策含义。
-> - **2022 — [[OECD\|经合组织]]知识动员模型类型学横向比照与实证拓展** [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 将 Levin RKM 框架确立为主流知识动员四大基石之一，盛赞其凭借简洁优雅的“功能重叠”设计克服了传统组织的僵化分割；[[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] 进一步将其[[Operationalization\|操作化]]为跨国教育系统促成机制与阻碍障壁的实证诊断基准。
+> - **2022 — [[OECD\|经合组织]]知识动员模型类型学横向比照与实证拓展** [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 将 Levin RKM 框架确立为主流知识动员四大基石之一，盛赞其凭借简洁优雅的“功能重叠”设计克服了传统组织的僵化分割；[[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] 进一步将其[[Operationalization\|操作化]]为[[Transnational Education|跨国教育]]系统促成机制与阻碍障壁的实证诊断基准。
 
 ---
 

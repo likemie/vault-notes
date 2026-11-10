@@ -10,7 +10,7 @@ summary: "葡萄牙著名比较教育学家与历史学家，里斯本大学前�
 type: person
 nationality: portugal
 person_region: "portugal"
-person_related_count: 34
+person_related_count: 35
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -51,6 +51,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Jean Piaget]]"
+  - "[[Noah Sobe]]"
   - "[[Jason Beech]]"
 related_facts:
   - "[[UNESCO]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -152,7 +153,7 @@ updated: 2026-11-02
 
 > [!person-network] 关系网络
 > - **学术同道与合作** Martin Lawn — 合著合编 *Fabricating Europe*，确立欧洲空间批判范式；塔马尔·雅里夫-马沙尔（Tamar Yariv-Mashal）— 合作剖析媒体化与数目化应急治理体系；让·皮亚杰（[[Jean Piaget]]）— 早期日内瓦学术渊源。
-> - **学生／继承者** 诺亚·索比（Noah W. Sobe）与罗兰·菲舍尔（Roland Fischer）— 引用其空间与[[Discourse Analysis|话语分析]]解构学生跨国流动修辞；[[Jason Beech|杰森·比奇]]（[[Jason Beech]]）— 深入引申欧盟三轨软治理分析模型。
+> - **学生／继承者** [[Noah Sobe|诺亚·索比]]（Noah W. Sobe）与罗兰·菲舍尔（Roland Fischer）— 引用其空间与[[Discourse Analysis|话语分析]]解构学生跨国流动修辞；[[Jason Beech|杰森·比奇]]（[[Jason Beech]]）— 深入引申欧盟三轨软治理分析模型。
 > - **批评者／论敌** 部分比较制度学者 — 强调各成员国宪制结构与深层福利体制的制度黏性与过滤[[Absorptive Capacity|吸收能力]]，质疑超国家话语软治理存在被夸大之嫌。
 
 ---

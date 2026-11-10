@@ -6,7 +6,7 @@ aliases:
 summary: "教师在复杂、非线性的教学情境中整合研究证据、伦理标准、教育学原则与实践经验做出决策的核心专业能力，是 EIP 多源整合的枢纽与抵御技术官僚主义去专业化的关键防线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 94
+related_count: 96
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -52,11 +52,13 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Variable]]"
   - "[[Phronesis]]"
+  - "[[Thoughtful Engagement]]"
   - "[[Feedback]]"
   - "[[Technical Rationality]]"
   - "[[School Inspection]]"
   - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
+  - "[[Appropriate Research]]"
   - "[[Reliability]]"
   - "[[Critical Pedagogy]]"
   - "[[Ecological Validity]]"
@@ -120,7 +122,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-05-03
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -249,7 +251,7 @@ updated: 2026-11-03
 > **四源整合枢纽与翻转系统** 证据知情实践（EIP）定义为专业判断、系统层面数据、课堂数据与研究证据的整合，专业判断是多源信息汇聚与审议的决定性枢纽。成为证据知情既需要严谨的证据，也需要严谨的专业判断过程；翻转系统（Flip the System）运动倡导以教师专业判断引领教育变革、抗衡自上而下的行政技术问责，使证据在教师主动批判、实施与改编的肥沃土壤中发挥效能。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, pp. 127–129, 132)]]
 
 > [!claim] [[Argument_Rickinson_2022_EducRes|Rickinson, Cirkony, et al. (2022)]]; Boaz et al. (2019); Sharples (2013)
-> **跨领域[[Epistemology|认识论]]转向与双核融合** 跨越卫生、社会关照、教育与公共政策四大领域的[[Research Utilization|证据使用]][[Systematic Review|系统综述]]证实，各领域正经历由“证据本位（evidence-based）”向“证据知情（evidence-informed）”的深刻认识论转向（Boaz et al., 2019）。该转向的核心在于确立研究证据对专业知识是支持与补充（complementing）而非替代（replacing）关系。在 QURE 框架中，审慎参与和实施（Thoughtful Engagement and Implementation）要求教育者打破“证据自行发声”的被动迷思，通过批判研读与集体审议，将来自研究的最佳外生证据与实践者的现场专业判断及默会经验深度融通（Sharples, 2013; Spencer et al., 2012）。[[Argument_Rickinson_2022_EducRes|(Rickinson, Cirkony, et al., 2022, pp. 139–141)]]
+> **跨领域[[Epistemology|认识论]]转向与双核融合** 跨越卫生、社会关照、教育与公共政策四大领域的[[Research Utilization|证据使用]][[Systematic Review|系统综述]]证实，各领域正经历由“证据本位（evidence-based）”向“证据知情（evidence-informed）”的深刻认识论转向（Boaz et al., 2019）。该转向的核心在于确立研究证据对专业知识是支持与补充（complementing）而非替代（replacing）关系。在 QURE 框架中，审慎参与和实施（[[Thoughtful Engagement]] and Implementation）要求教育者打破“证据自行发声”的被动迷思，通过批判研读与集体审议，将来自研究的最佳外生证据与实践者的现场专业判断及默会经验深度融通（Sharples, 2013; Spencer et al., 2012）。[[Argument_Rickinson_2022_EducRes|(Rickinson, Cirkony, et al., 2022, pp. 139–141)]]
 
 ---
 
@@ -296,7 +298,7 @@ updated: 2026-11-03
 > - **2019 — 跨国测验问责对教师专业判断的侵蚀与政体折射** [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] 通过 158 篇文献的系统综述，揭示基于测验的问责工具如何赋权商业测评专家并边缘化一线教师的专业判断，同时指出教师对专业裁量权受损的抵抗受本土行政传统深刻调节（挪威规范抗争与南欧工会抵制）。
 > - **2021 — 复杂改革评价的多维解读** [[Argument_Ross_Morrison_2021_ECNUROE|Ross and Morrison (2021)]] 结合巴尔的摩 [[Students and Teachers Accessing Tomorrow|STAT]] 项目，论证专业判断在解读复杂评估报告与权衡地方价值中的不可替代作用。
 > - **2022 — 循证医学危机镜像与反算法[[Cognitive Deskilling|去技能化]]** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] 引入循证医学（EBM）发展后期的危机教训（Greenhalgh et al., 2014），警示自动化算法与离散任务拆解对教师专业判断的剥夺，确立教学作为知识型专业的不可替代性。
-> - **2022 — 跨领域[[Research Utilization|证据使用]]框架确立专业判断的补充与支持地位** [[Argument_Rickinson_2022_EducRes|Rickinson, Cirkony, et al. (2022)]] 基于跨卫生、社会关照、教育与政策四大领域的[[Systematic Review|系统综述]]（[[PRISMA]] 10,813 $\to$ 112 篇核心文献），正式确立证据知情转向的[[Epistemology|认识论]]核心：研究证据旨在支持与补充专业专长而非替代专业判断，在 [[Quality Use of Research Evidence Framework|QURE]] 框架中将审慎实施与适切证据确立为双核互构支柱。
+> - **2022 — 跨领域[[Research Utilization|证据使用]]框架确立专业判断的补充与支持地位** [[Argument_Rickinson_2022_EducRes|Rickinson, Cirkony, et al. (2022)]] 基于跨卫生、社会关照、教育与政策四大领域的[[Systematic Review|系统综述]]（[[PRISMA]] 10,813 $\to$ 112 篇核心文献），正式确立证据知情转向的[[Epistemology|认识论]]核心：研究证据旨在支持与补充专业专长而非替代专业判断，在 [[Quality Use of Research Evidence Framework|QURE]] 框架中将审慎实施与[[Appropriate Research|适切证据]]确立为双核互构支柱。
 > - **2022 — 循证[[Governing by Inspection|督导治理]]中践行智慧与专业判断的微观缝合机制** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 揭示，在国家学校督察局的常规督导与质量审计中，面对技术官僚将标准静态化的企图，一线督导员与研究者依靠微观情境中的具身与践行判断来缝合规程裂隙，确立了专业判断在官僚循证体制运转中的隐性支柱地位（pp. 648–655）。
 > - **2023 — [[Venture Philanthropy|风险慈善]]商业量规对专业判断的异层规训** [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] 基于对澳大利亚公共教育中风险慈善网络（[[Social Ventures Australia|SVA]]）的实证研究，指出弱势公立学校在竞逐企业项目赠款时，一线教师与校长的办学自主权与教育专业判断深度受制于外部商业问责与因果量规规训。
 > - **2023 — 新泰勒制监控软件与工业清单拜物教批判** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 揭露《[[Visible Learning|可见的学习]]》借用行政监控软件（[[Assessment Tools for Teaching and Learning|asTTle]]）管理界面气压计推行新泰勒制规训，贬抑教师专业判断为轶事传闻，以医学手术清单比附教学，导致澳大利亚维多利亚州推行 [[Victorian HITS and Literacy Toolkit|HITS]] 时一线教师日常专业直觉被形式主义板书打卡彻底取代（pp. 28–30）。

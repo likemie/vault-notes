@@ -11,9 +11,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 8
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2018–至今"
 initiator_organization: "DeepMind Technologies"
@@ -26,24 +26,26 @@ tags:
   - theme/structural-biology
   - region/global
 related_concepts:
+  - "[[Topological Spatialisation]]"
   - "[[Paradigm]]"
-  - "[[Scientific Paradigm]]"
-  - "[[Man-Computer Symbiosis]]"
-  - "[[Algorithmic Bias]]"
-  - "[[Trend Study]]"
+  - "[[Epistemology]]"
+  - "[[Empiricism]]"
 related_theories: []
-related_methods:
-  - "[[Network Analysis]]"
+related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
 related_facts:
+  - "[[Protein Data Bank]]"
   - "[[Critical Assessment of Structure Prediction]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit10]]"
+  - "[[Argument_Hao_2026_Nature]]"
 confidence: high
 status: draft
 created: 2026-11-02
-updated: 2026-11-08
+updated: 2026-11-11
 ---
 
 ---
@@ -60,11 +62,11 @@ updated: 2026-11-08
 ---
 
 > [!claim] 核心干预／机制假说
-> 运用深层神经网络对全球蛋白质数据库（PDB）进行特征抽取与高维参数调谐，通过学习氨基酸残基对之间的空间距离与几何角度概率分布，替代传统手工力场计算与穷举构象搜索，实现前所未有的折叠构象预测精度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 232–234)]]
+> 运用深层神经网络对全球[[Protein Data Bank|蛋白质数据库]]（PDB）进行特征抽取与高维参数调谐，通过学习氨基酸残基对之间的空间距离与几何角度概率分布，替代传统手工力场计算与穷举构象搜索，实现前所未有的折叠构象预测精度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 232–234)]]
 
 > [!policy-design] 方案设计
-> - **多层深度网络表征** 构建包含海量隐藏层的深层非线性网络，将原始一维序列映射为高维几何拓扑空间，系统自主完成特征工程调谐。
-> - **盲测竞技与客观评估** 参与[[Critical Assessment of Structure Prediction|国际蛋白质结构预测关键评估]]（Critical Assessment of Structure Prediction, CASP），在完全不知晓目标蛋白质真实空间构象的前提下提交盲测预测。
+> - **多层深度网络表征** 构建包含海量隐藏层的深层非线性网络，将原始一维序列映射为高维几何[[Topological Spatialisation|拓扑空间]]，系统自主完成特征工程调谐。
+> - **盲测竞技与客观评估** 参与国际[[Critical Assessment of Structure Prediction|蛋白质结构预测关键评估]]（Critical Assessment of Structure Prediction, CASP），在完全不知晓目标蛋白质真实空间构象的前提下提交盲测预测。
 > - **开放获取与科学公共基础设施** 联合欧洲生物信息学研究所（EMBL-EBI）建立公开数据库，向全球学术界免费开放数以亿计的预测蛋白质空间结构。
 
 > [!citation-card] AlphaFold 跨界突破传统学科边界
@@ -77,7 +79,7 @@ updated: 2026-11-08
 > [!dev-timeline] 项目推进历程
 > - **2016–2018 — 初代模型攻坚与 CASP13 夺冠** DeepMind 设立蛋白质折叠研发团队，2018 年 12 月初代 AlphaFold 在 CASP13 夺得榜首，预测精度实现历史性飞跃。
 > - **2020 — AlphaFold 2 原子级突破与 CASP14 绝尘** 引入空间演化几何约束与注意力机制，预测精度在 CASP14 达到可匹敌 X 射线晶体学实验的 90 分以上的 GDT 评分，公认基本攻克折叠难题。
-> - **2021–至今 — 全球结构数据库开源与生态扩散** 联合 EMBL-EBI 上线 AlphaFold 数据库，覆盖人类全蛋白质组及数亿种已知生命蛋白结构，深刻重塑生物医药研发范式。
+> - **2021–至今 — 全球结构数据库开源与生态扩散** 联合 EMBL-EBI 上线 AlphaFold 数据库，覆盖人类全蛋白质组及数亿种已知生命蛋白结构，深刻重塑生物医药研发[[Paradigm|范式]]。
 > - **2026 — 科学学实证检验与计算生物学重构** [[Argument_Hao_2026_Nature|Hao et al. (2026)]] 将其作为自然科学 AI 渗透的典型代表，实证揭示 AlphaFold 预测结构绕过传统实验成本，驱动分子生物学 AI 成果激增 4.70 倍。[[Argument_Hao_2026_Nature|(Hao et al., 2026, p. 1237)]]
 
 ---
@@ -97,7 +99,7 @@ updated: 2026-11-08
 > [!finding-cards] 核心实证结论
 > - **预测精度打破历史慢速积累** 单届竞赛实现的算法预测精度增幅，相当于 CASP 过去两届（四年）常规进展的总和。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, p. 231)]]
 > - **非建制团队展现颠覆性优势** 完全缺乏分子生物学传统建制背景的计算团队跨界击败全部顶尖领域学者，验证了通用深层网络在特定高维科学空间内的求解效率。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 231–232)]]
-> - **窄域智能的边界与互补性** 汪大胜（Dashun Wang）与阿尔伯特-拉斯洛·巴拉巴西（Albert-László Barabási）指出，AlphaFold 展现了专用解题工具的极致性能，但其成功高度依赖海量高质量训练数据与明确的优化目标，无法自行提出新的前沿科学命题或替代人类直觉。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 238–239)]]
+> - **窄域智能的边界与互补性** 汪大胜（[[Dashun Wang]]）与阿尔伯特-拉斯洛·[[Albert-László Barabási|巴拉巴西]]（Albert-László Barabási）指出，AlphaFold 展现了专用解题工具的极致性能，但其成功高度依赖海量高质量训练数据与明确的优化目标，无法自行提出新的前沿科学命题或替代人类直觉。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 238–239)]]
 
 > [!stat-cards]- 关键实证数据
 > 在针对 90 种已知但未公开构象的盲测蛋白质中全面领先；击败全场 97 支由资深科学家领衔的国际顶尖参赛团队；预测精度单届提升增量达到过去两届赛事总和。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 231–232)]]
@@ -107,9 +109,9 @@ updated: 2026-11-08
 > [!debates] 核心争议
 >
 > > [!axis] 科学理解深度 vs 黑箱拟合精度
-> > 算法预测空间构象是否等同于真正理解折叠物理定律的认识论分歧。
+> > 算法预测空间构象是否等同于真正理解折叠物理定律的[[Epistemology|认识论]]分歧。
 > >
-> > - **计算经验主义立场** 算法能够以原子级精度直接输出正确构象并支持新药研发，已达成自然科学的实用目标。
+> > - **计算[[Empiricism|经验主义]]立场** 算法能够以原子级精度直接输出正确构象并支持新药研发，已达成自然科学的实用目标。
 > > - **物理因果机制立场** 批评指出 AlphaFold 预测出静态折叠终态，并未揭示蛋白质折叠在真实细胞微秒级尺度下的动力学生理热力学路径，机器智能未能完全替代对第一性原理物理定律的因果解释。
 
 ---

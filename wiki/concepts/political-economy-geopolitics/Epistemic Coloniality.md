@@ -6,7 +6,7 @@ aliases:
 summary: "米尼奥洛和康奈尔指出的全球知识体系以欧洲中心主义认识论为基础的隐性权力结构，通过界定哪些知识可被看见与接受来固化象征空间的等级边界"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -34,13 +34,14 @@ related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Yu_Xie_2025_JHE]]"
 confidence: medium
 status: draft
 created: 2026-06-29
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -81,7 +82,7 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid] 全球南方国家的回应策略
-> - **中国的破唯政策** 中国近年来出台多项政策提出破除唯SCI或SSCI的导向，强调科研质量与社会价值导向，鼓励人文社会科学聚焦国家发展中的现实问题，许多高校将中文成果纳入核心考核指标。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, p. 9)]]
+> - **中国的破唯政策** 中国近年来出台多项政策提出破除唯[[Web of Science|SCI]]或SSCI的导向，强调科研质量与社会价值导向，鼓励人文社会科学聚焦国家发展中的现实问题，许多高校将中文成果纳入核心考核指标。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, p. 9)]]
 > - **区域学术出版平台** 以拉丁美洲、非洲和南亚为代表的多个地区性学术社群积极推动建立本土主导的学术出版平台，强调使用本土语言、以区域问题为研究导向，并重视研究方法论的多样性。
 > - **去殖民视角的[[Epistemology\|认识论]]反思** 米尼奥洛主张以去殖民视角反转"我思故我在"，提出"我在我思之处"——知识并非无处不在的普遍理性，而是扎根于具体的空间、语境与身体经验之中的位置性实践。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 8–9)]]
 

@@ -42,6 +42,7 @@ related_concepts:
   - "[[Multiplist]]"
   - "[[Subjectivism]]"
   - "[[Evaluativist]]"
+  - "[[Cumulative Innovation]]"
   - "[[Learning Strategies]]"
   - "[[Domain Specificity]]"
   - "[[Self-Regulated Learning]]"
@@ -63,14 +64,14 @@ sources:
 part_of:
 status: active
 created: 2026-08-13
-updated: 2026-10-26
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Hofer_1997_RER"
 argument_key: "Argument_Hofer_1997_RER"
 argument_display_title: "The development of epistemological theories: Beliefs about knowledge and knowing and their relation to learning"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -274,7 +275,7 @@ Schommer (1990) 编制了包含 63 个题目的量表，提取出了四到五个
 
 > [!critique] 对 Schommer 独立维度模型的批评
 > - **混入非[[Epistemology\|认识论]]成分** 固定能力实质属于隐性智力理论（Dweck & Leggett），快速学习涉及对学习任务难度的预期。二者已偏离了严格哲学意义上对知识本身的认识论假设。
-> - **因子结构不稳定** 后续研究发现，其量表在不同样本中的因子结构缺乏一致的重现性。
+> - **因子结构不稳定** [[Cumulative Innovation|后续研究]]发现，其量表在不同样本中的因子结构缺乏一致的重现性。
 
 ---
 

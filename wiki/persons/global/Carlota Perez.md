@@ -7,10 +7,10 @@ summary: "委内瑞拉/英国著名演化经济学家、技术创新与长波理
 type: person
 nationality: global
 person_region: "global"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1939"
 died: ""
 lifespan: "1939–至今"
@@ -37,6 +37,7 @@ related_methods:
 related_persons:
   - "[[Chris Freeman]]"
   - "[[Joseph Schumpeter]]"
+  - "[[Tim Cain]]"
   - "[[Bengt-Åke Lundvall]]"
   - "[[Richard Nelson]]"
 related_facts:
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -77,7 +78,7 @@ updated: 2026-10-22
 > - **1980s — [[Techno-economic Paradigm|技术-经济范式]]与制度滞后机制** 结合[[Joseph Schumpeter|熊彼特]]长波假说，指出重大技术变迁绝非仅发生在经济子系统内部，必然要求整个社会制度框架的重塑。
 >   - **代表著作** *Structural Change and Assimilation of New Technologies in the Economic and Social Systems* (1983)。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 18)]]
 >   - **关键概念／方法** [[Techno-economic Paradigm]]、制度滞后（Institutional Drag）。
->   - **阶段转向** 突破传统凯恩斯主义与新古典增长模型的平滑技术外生假设，确立技术革命与制度调整的非对称性规律。
+>   - **阶段转向** 突破传统[[Tim Cain|凯恩]]斯主义与新古典增长模型的平滑技术外生假设，确立技术革命与制度调整的非对称性规律。
 > - **1990s 至今 — [[National Innovation System|国家创新系统]]与金融资本双周期** 进一步研究微电子与信息革命下各国的制度响应差异，论证国家公共政策在引导资本脱虚向实与避免[[Path Dependence|技术锁定]]中的不可替代性。
 >   - **代表著作** *Technological Revolutions and Financial Capital* (2002)。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 18–19)]]
 >   - **关键概念／方法** 导入期与展开期、金色复兴时代（Golden Age）。

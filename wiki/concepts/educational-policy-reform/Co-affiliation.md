@@ -10,7 +10,7 @@ aliases:
 summary: "指涉政策网络中的精英行动者跨越政府公权力机构、跨国投资银行、营利性咨询公司、慈善信托基金与智库，同时或先后兼任多重董事会席位、高级顾问或审查专员的拓扑结构；揭示其如何通过多重兼职打破科层界限，促成跨界政策理念与商业资本的隐蔽流通，构筑起去中心化但认识论高度同质的异质治理层级。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 40
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Bureaucracy]]"
   - "[[Epistemology]]"
+  - "[[Homophily]]"
   - "[[Champ]]"
   - "[[Multiplicity]]"
   - "[[Venture Philanthropy]]"
@@ -55,6 +56,7 @@ related_persons:
 related_facts:
   - "[[Australian Education Research Organisation]]"
   - "[[Social Ventures Australia]]"
+  - "[[American Physical Society]]"
   - "[[Education Endowment Foundation]]"
   - "[[Australian Schools Plus]]"
   - "[[Evidence for Learning]]"
@@ -68,13 +70,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Co-affiliation
-> **共同从属（Co-affiliation / 机构多重从属性）** 是指[[Policy Network\|政策网络]]中的核心精英行动者跨越公权力机关、跨国金融机构、营利性咨询寡头、非营利组织与慈善基金会，同时（concurrently）或先后（sequentially）担任多重董事兼职（interlocking directorships）、法定理事或政策审查专员的拓扑关联现象。该机制打破了传统韦伯式[[Bureaucracy|科层制]]单一组织忠诚与清晰公私界限的假定，使资金、意识形态与政策模型得以借助行动者的多重身份在异质网络中自由穿梭，进而构筑起“去中心化但[[Epistemology\|认识论]]高度同质”（epistemic homophily）的杂合治理层级（heterarchy）（Ball & Exley, 2010；Avelar & Ball, 2019；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–10]]）。
+> **共同从属（Co-affiliation / 机构多重从属性）** 是指[[Policy Network\|政策网络]]中的核心精英行动者跨越公权力机关、跨国金融机构、营利性咨询寡头、非营利组织与慈善基金会，同时（concurrently）或先后（sequentially）担任多重董事兼职（interlocking directorships）、法定理事或政策审查专员的拓扑关联现象。该机制打破了传统韦伯式[[Bureaucracy|科层制]]单一组织忠诚与清晰公私界限的假定，使资金、意识形态与政策模型得以借助行动者的多重身份在异质网络中自由穿梭，进而构筑起“去中心化但[[Epistemology\|认识论]]高度同质”（epistemic [[Homophily|homophily]]）的杂合治理层级（heterarchy）（Ball & Exley, 2010；Avelar & Ball, 2019；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–10]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 聚焦于精英个体在不同组织之间重叠兼职所构成的隐性制度通道与关系拓扑网络。
@@ -174,7 +176,7 @@ updated: 2026-11-03
 > **异质治理层级对民主代表性的解构** 全球政策网络的共同从属性催生出一种新型的“异质层级”（heterarchy）协调机制；在这一机制中，合法性不再完全依赖选民普选或议会科层问责，是被置换为跨国精英之间的同侪信任、资金撮合与董事会互选，直接造成了公共决策领域的结构性民主赤字（Avelar & Ball, 2019）。
 
 > [!claim] Rowe, E.
-> **[[Australian Education Research Organisation\|AERO]] 董事会共同从属对国家科研议程的隐秘把持** 澳大利亚教育研究组织（AERO）在公司登记名册上展现出高度集中的共同从属性；AERO 董事会主席 Lisa O'Brien 曾任 [[Social Ventures Australia\|SVA]] 董事；董事 Roger Massy-Greene 曾任美洲银行与力拓高管且为 SVA 长期资助人，其配偶出任 SVA 子公司 APS 董事；英国 [[Education Endowment Foundation\|EEF]] 首任首席执行官 [[Sir Kevan Collins]] 跨洋兼任董事；保罗·拉姆齐基金会会士 Leslie Loble 亦在董事之列。这些精英在商业投行、麦肯锡系[[Venture Philanthropy\|风险慈善]]与国家教育部之间循环往复，促成了立法将 AERO 定位为依据《公司法》设立的担保有限公司，并法定特许其向营利咨询机构分包科研议程，使国家公共科研资金深层沦为服务于私营资本利益的反馈回路工具。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–11]]
+> **[[Australian Education Research Organisation\|AERO]] 董事会共同从属对国家科研议程的隐秘把持** 澳大利亚教育研究组织（AERO）在公司登记名册上展现出高度集中的共同从属性；AERO 董事会主席 Lisa O'Brien 曾任 [[Social Ventures Australia\|SVA]] 董事；董事 Roger Massy-Greene 曾任美洲银行与力拓高管且为 SVA 长期资助人，其配偶出任 SVA 子公司 [[American Physical Society|APS]] 董事；英国 [[Education Endowment Foundation\|EEF]] 首任首席执行官 [[Sir Kevan Collins]] 跨洋兼任董事；保罗·拉姆齐基金会会士 Leslie Loble 亦在董事之列。这些精英在商业投行、麦肯锡系[[Venture Philanthropy\|风险慈善]]与国家教育部之间循环往复，促成了立法将 AERO 定位为依据《公司法》设立的担保有限公司，并法定特许其向营利咨询机构分包科研议程，使国家公共科研资金深层沦为服务于私营资本利益的反馈回路工具。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–11]]
 
 ---
 

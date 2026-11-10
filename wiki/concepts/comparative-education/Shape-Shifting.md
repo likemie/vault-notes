@@ -7,10 +7,10 @@ aliases:
 summary: "教育制度、思想或实践在跨越空间、场域或制度边界流动过程中发生的深层结构重组与形态变异，由 Cowen (2009b) 提出‘移动即变形’命题，并由 Beech (2009a, 2009b) 深化为涵盖话语截断、政策杂糅与微观反常替代的多层级形态分析。"
 type: concept
 domain: "comparative-education"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - theme/comparative-education
   - theme/educational-transfer
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Pillarization]]"
   - "[[Discourse]]"
+  - "[[Transnational Education]]"
   - "[[Ontology]]"
   - "[[Heterogeneity]]"
   - "[[Knowledge Production]]"
@@ -41,6 +42,7 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[Creativity]]"
   - "[[Variable]]"
+  - "[[Policy Translation]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Institutional Isomorphism]]"
@@ -64,7 +66,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -136,7 +138,7 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题一｜跨国教育流动必然伴随深层结构与实践形态的[[Recontextualization|再情境化]]变形
+> [!concept-proposition] 命题一｜[[Transnational Education|跨国教育]]流动必然伴随深层结构与实践形态的[[Recontextualization|再情境化]]变形
 > **空间转移与结构变形的必然性** 探讨教育构件跨越国界或制度边界时形态变异的必然性机制，确认变异非偶然实施瑕疵是社会学[[Recontextualization|再情境化]]的根本法则。
 
 > [!claim] [[Argument_Cowen_2009_CE|Cowen (2009b)]]
@@ -232,6 +234,6 @@ updated: 2026-11-03
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cowen_2009_CE|Cowen (2009b)]] — 提出“移动即变形”的理论命题，系统批评比较教育学[[Methodological Nationalism|方法论民族主义]]，援引美式蓝图在战后日本与西德截然相反演化的学制实证（Shibata, 2005），奠定形变理论的基石。
-> - [[Argument_Beech_2009_CE|Beech (2009a)]] — 将形变理论运用于[[Network Society|网络社会]]政策分析，通过巴西中等教育改革中国家政策对跨学科[[Discourse|话语]]与 14 门传统分科的杂糅并置，实证揭示全球话语在国家政策翻译中的形态变异。
+> - [[Argument_Beech_2009_CE|Beech (2009a)]] — 将形变理论运用于[[Network Society|网络社会]]政策分析，通过巴西中等教育改革中国家政策对跨学科[[Discourse|话语]]与 14 门传统分科的杂糅并置，实证揭示全球话语在国家[[Policy Translation|政策翻译]]中的形态变异。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 构建五位置[[Champ|场域]]流通模型，深入剖析国际组织紧迫[[Pragmatic Paradigm|实用主义]]驱动的话语截断、拉美[[Gatekeepers|守门人]]垄断机制，以及阿根廷教师翻抄商业教辅图书目录与巴阿两国实训改革瘫痪等微观实践反常形变，提出外来残枝枯萎亦改变本土生态的微生物隐喻。
 > - [[Argument_Zhou_2024_CE|Zhou and Westberg (2024)]] — 运用形变理论分析民国时期[[John Dewey|杜威]]教育思想在中国的引介，展示了实用主义哲学在近代政治激进化与战时动员下的三阶段形态转变。

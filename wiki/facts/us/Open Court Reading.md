@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 37
+fact_related_count: 38
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Whole Language]]"
   - "[[Phonemic Awareness]]"
+  - "[[Scripted Curriculum]]"
   - "[[Direct Instruction]]"
   - "[[Paradigm]]"
   - "[[Teacher Professional Agency]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -95,7 +96,7 @@ updated: 2026-10-30
 > [!policy-design] 课程设计与教学架构
 > - **核心教学取向** 强调系统性与显性自然拼读（Systematic and Explicit Phonics）、[[Phonemic Awareness|音素意识]]（Phonemic Awareness）、词汇构建、流畅度训练与受控读本的阅读理解整合。
 > - **干预实施强度** 方案要求高度结构化的教学时间安排，标准实施要求每天分配 **2.5 小时（150 分钟）** 的综合读写教学时间。
-> - **脚本化教学设计（Scripted Curriculum）** 教材为教师提供精确到字句的“指导脚本”，教师被要求严格按照教材指示提问、朗读和纠错，将课堂教学流程极度工具化。
+> - **脚本化教学设计（[[Scripted Curriculum]]）** 教材为教师提供精确到字句的“指导脚本”，教师被要求严格按照教材指示提问、朗读和纠错，将课堂教学流程极度工具化。
 > - **适用对象与目标** 早期小学阶段（K–3 年级）处于阅读习得关键期的儿童，特别聚焦缩小低收入家庭与薄弱学校学生的早期读写能力鸿沟。
 
 ---

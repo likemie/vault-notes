@@ -11,9 +11,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2003–至今"
 initiator_organization: "俄勒冈大学（University of Oregon）"
@@ -43,7 +43,8 @@ related_methods:
   - "[[Efficacy Trial]]"
   - "[[Cohort Study]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Ben Levin]]"
 related_facts:
   - "[[United States Department of Education]]"
   - "[[Institute of Education Sciences]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -82,7 +83,7 @@ updated: 2026-10-26
 >   - **可解码连贯文本朗读（Decodable Book Reading）** 每日在助教点拨下朗读与当日拼读规则完全一致的分级小册子。
 > - **助教 1:3–5 微组授课** 助教手持高度脚本化的教学操作卡，遵循“示范（My Turn）—带领（Our Turn）—独立（Your Turn）”的标准步调，确保每名组员获得充分的口头应答机会。
 
-> [!citation-card] 斯莱文论 ERI 在幼儿园助教辅导中的实证效能
+> [!citation-card] 斯[[Ben Levin|莱文]]论 ERI 在幼儿园助教辅导中的实证效能
 > 在初等阅读[[Small Group Tuition|小组辅导]]层面，助教主导的干预在幼儿园阶段同样展现出强劲效能。例如针对幼儿园高危儿童开展的 Early Reading Intervention 方案，在[[Randomised Controlled Trials\|随机对照试验]]中由教学助教在 1:3 至 1:5 的小组中实施，取得了 +0.31 的学业[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）的强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *Small-group tutoring provided by [[Teaching Assistant|Teaching Assistants]] was effective in kindergarten reading. Early Reading Intervention, evaluated with paraprofessionals working with groups of three to five, produced an effect size of +0.31, qualifying for the Strong rating under ESSA.*

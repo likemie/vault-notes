@@ -48,6 +48,7 @@ related_concepts:
   - "[[Executive Function]]"
   - "[[Creative Self-Efficacy]]"
   - "[[Structured Teaching]]"
+  - "[[Research Tool]]"
   - "[[Heterogeneity]]"
   - "[[External Validity]]"
   - "[[Document]]"
@@ -70,6 +71,7 @@ related_concepts:
   - "[[Concept Mapping]]"
   - "[[Self-Efficacy]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Scientific Creativity]]"
   - "[[Determinism]]"
   - "[[Emergence]]"
 related_methods:
@@ -110,14 +112,14 @@ related_theories:
   - "[[Creative Problem Solving]]"
 status: draft
 created: 2026-08-23
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Runco_2026_CRJ"
 argument_key: "Argument_Runco_2026_CRJ"
 argument_display_title: "Second-order meta-analysis of the creativity research"
 argument_kind: "journal-article"
-argument_related_count: 80
+argument_related_count: 82
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -172,7 +174,7 @@ issuing_organization: ""
 > | **研究设计**<br>（Study Design） | 原始一阶实证研究所采用的研究架构（考察自然状态关联或实验操纵效应）。 | 相关设计（自然关联横截面/追踪） vs 比较设计（实验组/控制组[[Pre-test and Post-test\|前-后测]]）。 |
 > | **方法学质量**<br>（Methodological Quality） | 基于[[AMSTAR\|系统评价方法学质量评估工具]]（A MeaSurement Tool to Assess systematic Reviews, AMSTAR）12 项准则评定的一阶元分析规范度与偏倚控制水平。 | 高质量（AMSTAR 得分 $\ge 0.75$，至少满足 9 项） vs 非高质量。 |
 >
-> **图表解读** 本表系统界定了[[Meta-meta-analysis\|二阶元分析]]所涵盖的全部 13 个核心变量与调节因素的操作化定义、测量范式及代表性实证研究工具，为理解二阶统计建模、亚组[[Heterogeneity\|异质性]]与跨模型比较提供了统一的概念基准。
+> **图表解读** 本表系统界定了[[Meta-meta-analysis\|二阶元分析]]所涵盖的全部 13 个核心变量与调节因素的操作化定义、测量范式及代表性实证[[Research Tool|研究工具]]，为理解二阶统计建模、亚组[[Heterogeneity\|异质性]]与跨模型比较提供了统一的概念基准。
 
 ---
 
@@ -408,7 +410,7 @@ issuing_organization: ""
 > [!evidence-grid] 支持创造力教育干预有效性的一阶元分析实证证据
 > - **创造性问题解决与专门训练课程** Rose and Lin (1984)（$d = 0.47$）、Ma (2006, 2009)（$d = 0.77$）及 Scott et al. (2004)（$d = 0.74$）元分析表明，系统化训练课程能够持续显著提升学生的创造性思维表现。
 > - **显式指导语对发散思维的即时激发** Acar, Runco and Park (2020)（$g = 0.53$）元分析证实，在施测发散思维时提供明确的独创性指导语能即时显著提升被试的独创构想产出。
-> - **教学模式改革与情境化学习** Yunita et al. (2020)（数学 PBL $g = 0.87$）与 Suganda et al. (2021)（STEAM $g = 0.76$）证实问题驱动教学与跨学科整合教学对学生数学与科学创造力具有中等以上的正向促进效应。
+> - **教学模式改革与情境化学习** Yunita et al. (2020)（数学 PBL $g = 0.87$）与 Suganda et al. (2021)（STEAM $g = 0.76$）证实问题驱动教学与跨学科整合教学对学生数学与[[Scientific Creativity|科学创造力]]具有中等以上的正向促进效应。
 > - **协作与电子头脑风暴技术** DeRosa et al. (2007)（数量 $d = 0.44$、质量 $d = 0.38$）与 Ayutthaya and Damrongpanit (2022)（$g = 0.65$）表明基于技术中介的群体构想交互与[[Structured Teaching\|结构化教学]]管理模型能有效克服生产力阻滞。
 
 > [!implication]- 理论与实践后果

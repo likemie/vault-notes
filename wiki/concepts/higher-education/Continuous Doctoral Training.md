@@ -11,7 +11,7 @@ aliases:
 summary: "将硕士与博士阶段统筹衔接、取消中间硕士学位硬性答辩与再选拔的研究生培养制度；通过连贯长周期的学术场域支持高风险创新深耕，呈现出自然科学普遍采纳与人文社科依赖分段训练的显著学科分化。"
 type: concept
 domain: "higher-education"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Professional Interest]]"
   - "[[Knowledge Production]]"
+  - "[[Early-Career Researchers]]"
   - "[[Paradigm]]"
   - "[[Research Topic]]"
   - "[[Big Science]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
@@ -106,7 +107,7 @@ updated: 2026-11-04
 > **连贯实验场域与长周期探索机制** 自然科学前沿问题涉及复杂的实验平台搭建、精密仪器操作与长程试错，贯通培养与后续博士后训练共同构成完整的[[Knowledge Production|知识生产]]链条。
 
 > [!claim] 张娟、赵祥辉
-> **自然科学贯通优势与博士后衔接** 对 757 位诺贝尔奖得主的实证计量显示，自然科学诺奖得主绝大多数接受贯通式培养（物理学 70.37%、化学 63.31%、生理学或医学 85.83%），整体高等教育年限为 8.75 至 9.09 年。自然科学研究需在连贯的培养场域中接受高强度学术训练；且 58.04% 的诺奖得主在获得博士学位后继续开展博士后研究，实证表明青年学者在获得博士学位后紧密衔接博士后阶段，继续拓展独立研究能力并实现学术转轨。[[Argument_Zhang_Zhao_2026_EDR|(张娟和赵祥辉, 2026, p. 32)]]
+> **自然科学贯通优势与博士后衔接** 对 757 位诺贝尔奖得主的实证计量显示，自然科学诺奖得主绝大多数接受贯通式培养（物理学 70.37%、化学 63.31%、生理学或医学 85.83%），整体高等教育年限为 8.75 至 9.09 年。自然科学研究需在连贯的培养场域中接受高强度学术训练；且 58.04% 的诺奖得主在获得博士学位后继续开展博士后研究，实证表明[[Early-Career Researchers|青年学者]]在获得博士学位后紧密衔接博士后阶段，继续拓展独立研究能力并实现学术转轨。[[Argument_Zhang_Zhao_2026_EDR|(张娟和赵祥辉, 2026, p. 32)]]
 
 ---
 

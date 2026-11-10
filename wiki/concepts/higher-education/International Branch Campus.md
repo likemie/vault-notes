@@ -15,7 +15,7 @@ aliases:
 summary: "高等教育机构在母国境外部署全资或联合拥有的实体校园，提供全日制学位教育并冠以母校名称的跨境教育办学形态"
 type: concept
 domain: "higher-education"
-related_count: 15
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,8 +27,11 @@ tags:
   - theme/geopolitics
 related_concepts:
   - "[[Geopolitics]]"
+  - "[[Scientific Mobility]]"
   - "[[Soft Power]]"
+  - "[[Transnational Education]]"
   - "[[Education Going Global]]"
+  - "[[Study Abroad]]"
   - "[[International Education Hubs]]"
   - "[[Triangular Cooperation]]"
   - "[[Educational Diplomacy]]"
@@ -50,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -60,17 +63,17 @@ updated: 2026-11-03
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向高等教育机构跨越国家主权边界所设立的具有独立实体校园、全日制教学体系与学位授予资质的境外分支机构。
-> - **用途** 帮助研究者透视高等教育跨国流动从单一的“人员跨界（学生与学者流动）”向“制度与实体跨界（校区与标准输出）”的结构性转变。
+> - **用途** 帮助研究者透视高等教育跨国流动从单一的“人员跨界（学生与[[Scientific Mobility|学者流动]]）”向“制度与实体跨界（校区与标准输出）”的结构性转变。
 > - **边界** 区别于无实体校区的联合培养项目、远程函授教学点或纯属短期学分互认的海外交流基地。
 
 > [!citation-card] 中国高校设立国际分校的实践探索（[[Argument_Woo_2023_HEP|Woo, 2023]]）
-> 为了提升教育[[Soft Power|软实力]]，部分中国高校已经开始启动跨国高等教育项目，例如厦门大学在马来西亚建立独立分校。然而，缺乏基层社会互信的高层顶层海外分校项目，极易在东道国地方政治选举与市民社会的抗议中遭遇严重挫折。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 693–694)]]
+> 为了提升教育[[Soft Power|软实力]]，部分中国高校已经开始启动[[Transnational Education|跨国高等教育]]项目，例如厦门大学在马来西亚建立独立分校。然而，缺乏基层社会互信的高层顶层海外分校项目，极易在东道国地方政治选举与市民社会的抗议中遭遇严重挫折。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 693–694)]]
 >
 > *Some Chinese universities have begun embarking on transnational education projects for education soft power, such as [[Xiamen University Malaysia]]... in contrast to top-level ideological agreements, plans to build a campus faced massive protests.*
 
 > [!boundary]- 概念边界
 > - 不等于双联学位项目（Dual-Degree Programs） — 双联学位通常借用东道国既有大学的教学设施开展课程衔接，无需母校在海外购置土地或建设独立校园实体。
-> - 不等于 [[Education Going Global|教育出海]] — 教育出海是涵盖海外办学、职业技能培训、多边多校联盟及留学生奖学金在内的总体国家战略；国际分校则是教育出海在高等教育领域的标志性实体载体。
+> - 不等于 [[Education Going Global|教育出海]] — 教育出海是涵盖海外办学、职业技能培训、多边多校联盟及[[Study Abroad|留学]]生奖学金在内的总体国家战略；国际分校则是教育出海在高等教育领域的标志性实体载体。
 
 ---
 

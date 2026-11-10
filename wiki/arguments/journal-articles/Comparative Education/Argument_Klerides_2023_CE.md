@@ -9,9 +9,9 @@ title: "Argument_Klerides_2023_CE"
 argument_key: "Argument_Klerides_2023_CE"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
-argument_related_count: 58
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
+argument_related_count: 60
+argument_related_level: 6
+argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 journal: Comparative Education
 citation: "Klerides, E. (2023). Comparative education and international relations. Comparative Education, 59(3), 416–435."
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Policy Borrowing]]"
   - "[[Paradigm]]"
+  - "[[Transnational Education]]"
   - "[[Agendas of Attention]]"
   - "[[Readings of the Global]]"
   - "[[Revolutionism]]"
@@ -55,6 +56,7 @@ related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Ways of Knowing]]"
   - "[[De-Westernisation]]"
+  - "[[Nationalism]]"
   - "[[Re-Westernisation]]"
   - "[[Champ]]"
 related_theories:
@@ -91,7 +93,7 @@ sources:
 part_of: ''
 status: active
 created: 2026-06-08
-updated: 2026-10-30
+updated: 2026-11-11
 year: 2023
 doi: "10.1080/03050068.2023.2216045"
 citation_aliases:
@@ -114,7 +116,7 @@ citation_aliases:
 > 比较教育在学说、制度和建制上均是国际关系的产物与实践。对国际社会性质和政治运作规则的不同理解（无论是否被学者自觉持有），塑造了不同的比较教育学术形态与实践逻辑。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 比较教育的学科发展史、学术体制建制、[[Policy Borrowing\|政策借用]]与流动的分析[[Paradigm\|范式]]以及跨国教育治理网络。
+> - **对象** 比较教育的学科发展史、学术体制建制、[[Policy Borrowing\|政策借用]]与流动的分析[[Paradigm\|范式]]以及[[Transnational Education|跨国教育]]治理网络。
 > - **张力** 比较教育学术实践与国家权力、殖民扩张和新自由主义治理的深层纠缠，与学科自我定位中缺乏国际关系理论自觉之间的冲突。
 > - **贡献** 引入马丁·怀特（Martin Wight）的国际理论三大传统，提供了解构比较教育[[Agendas of Attention\|注意力议程]]（agendas of attention）的[[Analytic Framework\|分析框架]]，阐明了借用与情境、技术与解放等学科内核心争议的哲学根源，并前瞻了地缘格局转变下的学科走向。
 
@@ -284,7 +286,7 @@ citation_aliases:
 > 这一转变带来了新的比较议程：主权领土国家将如何与恐惧政治(Wodak, 2015)结合来面对核威胁的回归？教育系统将被要求如何支持或阻碍美俄之间为支配或生存而进行的竞争？
 
 > [!case] 案例二：中国的“[[De-Westernisation\|去西方化]]”挑战
-> 中国的挑战与经济而非军事更为相关。北京拒绝华盛顿的经济教义，但寻求的不是变革世界经济秩序，而是从美国手中夺取对它的控制。不加约束的资本主义扩张与儒家家族主义式民族主义的结合，展示了中国对这一秩序的承诺。
+> 中国的挑战与经济而非军事更为相关。北京拒绝华盛顿的经济教义，但寻求的不是变革世界经济秩序，而是从美国手中夺取对它的控制。不加约束的资本主义扩张与儒家家族主义式[[Nationalism|民族主义]]的结合，展示了中国对这一秩序的承诺。
 > 
 > Mignolo (2011, p. 47)指出，中国的去西方化与美国的[[Re-Westernisation\|再西方化]]共享资本主义的生存，对抗发生在殖民权力矩阵的其他层面（权威、知识与主体性领域）。这将在比较教育中产生新的注意力议程：
 > 

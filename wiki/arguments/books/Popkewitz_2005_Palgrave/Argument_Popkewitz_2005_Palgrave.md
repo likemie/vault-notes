@@ -7,7 +7,7 @@ title: "Argument_Popkewitz_2005_Palgrave"
 argument_key: "Argument_Popkewitz_2005_Palgrave"
 argument_display_title: "Inventing the modern self and John Dewey: Modernities and the traveling of pragmatism in education"
 argument_kind: "edited-volume"
-argument_related_count: 10
+argument_related_count: 11
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#e5e7eb"
@@ -35,13 +35,14 @@ related_persons:
   - "[[John Dewey]]"
   - "[[Thomas S. Popkewitz]]"
   - "[[Daniel Tröhler]]"
+  - "[[Noah Sobe]]"
 related_facts:
   - "[[New Education Movement]]"
 sources:
   - "[[books/Popkewitz_2005_Palgrave/Popkewitz_2005_Palgrave|Popkewitz_2005_Palgrave]]"
 status: "draft"
 created: "2026-10-11"
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!volume-profile] 阅读档案
@@ -75,7 +76,7 @@ updated: 2026-10-30
 > - **第 5 章，葡萄牙新教育话语建构中的杜威与社会义肢** Dewey on Lima or the Social Prosthesis in the Construction of [[New Education Movement|The New Education]] Discourse in Portugal (1925–1936)。Jorge Ramos do Ó，原书 pp. 111–132。[TXT](../../../../raw/Popkewitz_2005_Palgrave_txt/Ch05_RamosDoO_New_Education_in_Portugal.txt)。待解读。
 
 > [!chapter-index] 原文入口
-> - **第 6 章，杜威的巴尔干化** Balkanizing John Dewey。Noah W. Sobe，原书 pp. 135–151。[TXT](../../../../raw/Popkewitz_2005_Palgrave_txt/Ch06_Sobe_Balkanizing_John_Dewey.txt)。待解读。
+> - **第 6 章，杜威的巴尔干化** Balkanizing John Dewey。[[Noah Sobe|Noah W. Sobe]]，原书 pp. 135–151。[TXT](../../../../raw/Popkewitz_2005_Palgrave_txt/Ch06_Sobe_Balkanizing_John_Dewey.txt)。待解读。
 > - **第 7 章，杜威思想进入土耳其现代性工程** John Dewey’s Travelings into the Project of Turkish Modernity。Sabiha Bilgi; Seçkin Özsoy，原书 pp. 153–177。[TXT](../../../../raw/Popkewitz_2005_Palgrave_txt/Ch07_Bilgi_Ozsoy_Dewey_in_Turkey.txt)。待解读。
 
 > [!chapter-index] 原文入口

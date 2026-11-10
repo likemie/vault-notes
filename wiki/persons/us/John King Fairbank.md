@@ -8,7 +8,7 @@ summary: "美国著名历史学家、汉学家，哈佛大学费正清东亚研�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Document]]"
   - "[[Cultural Hierarchy]]"
+  - "[[Transnational Education]]"
   - "[[Falsification]]"
   - "[[Geopolitics]]"
   - "[[Cultural Recognition]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -98,7 +99,7 @@ updated: 2026-10-30
 > [!influence-path] 影响路径
 > - **理论路径** 奠定了西方近现代中国研究的“[[Tributary System|朝贡体系]]模型”与“冲击—反应模型”，成为后世修正派学者（柯文、康灿雄、周方银、濮德培）开展理论对话的永恒靶标。
 > - **方法路径** 倡导深度整合多语种原始档案（汉文、满文、外文）与制度[[Documentary Analysis|文献分析]]，开创了近代中国制度史与外交史的跨学科[[Paradigm|研究范式]]。
-> - **跨国与当代传播** 其理论被后世比较教育与政治学者发展为当代跨国高等教育输出的[[Neo-Tributary Perspective|新朝贡视角]]（Pan & Lo, 2017, 2018；[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）。
+> - **跨国与当代传播** 其理论被后世比较教育与政治学者发展为当代[[Transnational Education|跨国高等教育]]输出的[[Neo-Tributary Perspective|新朝贡视角]]（Pan & Lo, 2017, 2018；[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 梳理费正清经典朝贡模型在当代高等教育地缘战略研究中的理论投射，实证检验并[[Falsification|证伪]]了源自费正清学说的文化同化假设。

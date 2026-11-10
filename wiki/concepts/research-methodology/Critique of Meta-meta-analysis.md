@@ -11,7 +11,7 @@ aliases:
 summary: "对元-元分析（二阶元分析）在认识论假设、试验清晰度混淆、偏倚逐级复合、方法论不透明及政策排名误用层面的系统性学术批判"
 type: concept
 domain: "research-methodology"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Epistemological Break]]"
   - "[[Metacognition]]"
+  - "[[Research Tool]]"
   - "[[Socioeconomic Status]]"
   - "[[Variable]]"
   - "[[Cargo Cult Science]]"
@@ -82,7 +83,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -102,7 +103,7 @@ updated: 2026-10-30
 > > [!axis] 维度一：概念基础与测量对象错位（试验灵敏度 vs 教育有效性）
 > > 质疑二阶聚合所依赖的[[Effect Size\|效应量]]指标是否真正测量了教育干预的实质效能。
 > >
-> > - **[[Argument_Simpson_2017_JEdPolicy\|Simpson (2017)]]** 论证效应量联盟表是对研究设计操纵开放程度的排名。反馈与[[Metacognition\|元认知]]等领域高效应量源于易于设计低噪声聚焦测验（反馈研究中仅 9/68 个效应量使用标准化测验），而早期[[Intervention Research\|干预研究]]几乎必须使用标准化测验（37/39 个效应量）；标准化效应量是研究工具而非公共预算政策工具。（pp. 2, 13–15）
+> > - **[[Argument_Simpson_2017_JEdPolicy\|Simpson (2017)]]** 论证效应量联盟表是对研究设计操纵开放程度的排名。反馈与[[Metacognition\|元认知]]等领域高效应量源于易于设计低噪声聚焦测验（反馈研究中仅 9/68 个效应量使用标准化测验），而早期[[Intervention Research\|干预研究]]几乎必须使用标准化测验（37/39 个效应量）；标准化效应量是[[Research Tool|研究工具]]而非公共预算政策工具。（pp. 2, 13–15）
 > > - **[[Argument_Simpson_2019_ERE\|Simpson (2019)]]** 提出教匈牙利单词思想实验，展示同一干预可因测试设计产生从 0 到无穷大的效应量；论证效应量测量的是试验清晰度，元-[[Meta-analysis\|元分析]]是对已经无效的指标进行更高级的统计操作。（pp. 105–106）
 >
 > > [!axis] 维度二：技术方法论缺陷与数学模型违背

@@ -6,7 +6,7 @@ aliases:
 summary: "以严格实验研究有效性证据作为选择教育项目和产品核心标准的政策治理框架，强调已验证项目存量、独立证据审查与政府财政激励三者的联动循环"
 type: concept
 domain: "educational-policy-reform"
-related_count: 85
+related_count: 86
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -69,6 +69,7 @@ related_methods:
   - "[[Analysis of Variance]]"
 related_persons:
   - "[[Robert Slavin]]"
+  - "[[Ben Levin]]"
   - "[[John Hattie]]"
   - "[[Alan C. K. Cheung]]"
   - "[[Tengteng Zhuang]]"
@@ -112,7 +113,7 @@ related_arguments:
   - "[[Argument_Altrichter_2019_ZfB]]"
 status: draft
 created: '2026-05-01'
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -133,7 +134,7 @@ updated: 2026-11-03
 > [!boundary]- 概念边界
 > - **不等于[[Evidence-Based Education\|循证教育]]（EBE）** 循证教育是指“教育决策应当参考研究证据”的宏观哲学与倡导理念；证据本位改革（EBR）则是推动该理念落地的**法定政策、拨款手段与审查管线**。
 > - **不等于[[Evidence-Informed Practice\|证据知情实践]]（EIP）** 证据知情实践往往允许教师依据宽泛原则进行自由情境裁剪；而 EBR 强调必须依托经过完整对照实验验证的**具体结构化方案与配套培训**。
-> - **不等于抽象的“[[Scientifically Based Research\|基于科学研究]]”（Research-Based）** 斯莱文（[[Argument_Slavin_2002_ER\|Slavin, 2002, p. 19]]）提出著名的“莱特兄弟类比”，指出发明家使用了完全相同的航空物理学原理，但只有莱特兄弟的飞机飞上了天空；仅“基于研究原理”设计的项目在现实课堂中极易因过于繁难或培训不足而失效，只有经过**严格实验评估验证（Proven / Evaluated）** 的项目才能作为改革依据。
+> - **不等于抽象的“[[Scientifically Based Research\|基于科学研究]]”（Research-Based）** 斯[[Ben Levin|莱文]]（[[Argument_Slavin_2002_ER\|Slavin, 2002, p. 19]]）提出著名的“莱特兄弟类比”，指出发明家使用了完全相同的航空物理学原理，但只有莱特兄弟的飞机飞上了天空；仅“基于研究原理”设计的项目在现实课堂中极易因过于繁难或培训不足而失效，只有经过**严格实验评估验证（Proven / Evaluated）** 的项目才能作为改革依据。
 
 ---
 

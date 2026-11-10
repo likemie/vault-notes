@@ -5,7 +5,7 @@ aliases:
 summary: "国家战略力量、公共福利与民主合法性同前沿科技与软件工程深度绑定的政治经济体制形态。强调国家战略与技术共同体结盟，以软件硬实力与人工智能威慑替代原子时代工业化防御；破除胜者谬误、大构想饥荒与创新荒漠，依托审美品味、创始人长期主义、全员所有权社会与实质伦理美德，在微观工程思维与宏观国家使命中重构自由民主政体的地缘优势与社会治理效能。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 121
+related_count: 122
 related_level: 12
 related_stars: "💎💎💎💎"
 related_color: "#ddd6fe"
@@ -82,6 +82,7 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Global Citizenship]]"
   - "[[Variable]]"
+  - "[[Patent Citation]]"
 related_theories:
   - "[[End of History Thesis]]"
   - "[[Legitimation Crisis]]"
@@ -149,7 +150,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -450,7 +451,7 @@ updated: 2026-11-03
 > | 研究与来源 | 考察样本与情境 | 研究设计与方法 | 核心[[Variable\|变量]]与指标 | 原始实证结果 | 显著性或不确定性 | 理论与政策启示 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|Fahlenbrach (2009)]] | 1992–2002 年间 2,327 家美国上市公司（其中 361 家为创始人领导） | 长期投资组合收益回归分析（控制行业与企业年龄） | 创始人担任 CEO 与股票市场年化超额回报 | 创始人领导公司投资组合年化超额回报达 10.7%，比非创始人领导公司高出 4.4% | $p < 0.05$ | 证实创始人掌舵具有显著市场溢价，单一家族控股若无创始人掌舵则无此效应 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|Lee, Kim, & Bae (2016)]] | 1993–2003 年间标准普尔 500（S&P 500）指数成分股企业 | 专利被引频次与创新产出实证计量 | 创始人 CEO 领导与重大高影响力专利持有量 | 创始人领导的企业所持有的重大、高被引专利数量高出 31% | 原始报告显著差异 | 证实创始人主导模式更倾向于开展突破性、深层次创新而非短视修补 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|Lee, Kim, & Bae (2016)]] | 1993–2003 年间标准普尔 500（S&P 500）指数成分股企业 | [[Patent Citation\|专利被引]]频次与创新产出实证计量 | 创始人 CEO 领导与重大高影响力专利持有量 | 创始人领导的企业所持有的重大、高被引专利数量高出 31% | 原始报告显著差异 | 证实创始人主导模式更倾向于开展突破性、深层次创新而非短视修补 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17\|Dunbar (1993)]] | 全球狩猎采集部落与灵长类社会 | 演化人类学调查与神经生物学计算 | 新皮质比率与稳定面对面社交群体规模上限 | 人类直接互动社群规模均值为 148.4 人（通常取整为 150 人） | $95\% \text{ CI } [90, 221]$ | 证实超大规模人类协作无法依赖生理梳毛，必须依托语言与共享想象共同体维系 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17\|World Bank (2023)]] | 1960–2023 年新加坡国家经济发展数据 | 宏观经济纵向追踪 | 人均 GDP（现价美元） | 人均 GDP 从 1960 年的 428 美元提升至 2023 年的 84,734 美元 | 官方统计数据 | 印证长期国家文化整合与卓越领导力能创造跨越式经济与技术繁荣奇迹 |
 

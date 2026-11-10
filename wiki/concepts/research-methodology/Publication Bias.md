@@ -8,10 +8,10 @@ aliases:
 summary: "正面或显著结果比零结果或负面结果更可能被发表或传播的系统性倾向，导致已发表文献库系统性高估干预的真实有效性；元分析中常结合漏斗图、Egger检验、剪补法与失安全数进行综合诊断与稳健性校正"
 type: concept
 domain: "research-methodology"
-related_count: 54
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 62
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - publication-bias
   - file-drawer-effect
@@ -20,8 +20,6 @@ tags:
   - evidence-based-education
 related_concepts:
   - "[[Document]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Internal Validity]]"
   - "[[Epistemology]]"
   - "[[Developer Effect]]"
   - "[[Implementation Fidelity]]"
@@ -33,13 +31,16 @@ related_concepts:
   - "[[Cumulative Knowledge Base]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Visible Learning]]"
+  - "[[Hypothesis]]"
   - "[[Epistemic Cognition]]"
   - "[[Data Infrastructure]]"
   - "[[Paradigm]]"
+  - "[[Evidence-Based Education]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Heterogeneity]]"
   - "[[Zone of Desired Effects]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Survivorship Bias]]"
 related_theories: []
 related_methods:
   - "[[Statistical Significance]]"
@@ -53,6 +54,7 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Confidence Interval]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Literature Map]]"
   - "[[Meta-meta-analysis]]"
   - "[[Systematic Review]]"
   - "[[Research Synthesis]]"
@@ -62,6 +64,9 @@ related_methods:
 related_persons:
   - "[[Ivan Snook]]"
   - "[[John Hattie]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
+  - "[[Santo Fortunato]]"
   - "[[Christof Wecker]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
@@ -74,18 +79,21 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Kraft_2023_ER]]"
   - "[[Argument_Hattie_2010_NZJES]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit10]]"
+  - "[[Argument_Fortunato_2018_Science]]"
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Zhao_2025_JIntell]]"
   - "[[Argument_Higgins_2016_ROE]]"
-  - "[[Argument_Fortunato_2018_Science]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
+  - "[[Argument_Barrenechea_2023_JEC]]"
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 > [!def] Publication Bias
-> 发表偏倚（Publication Bias），也称文件抽屉效应（File Drawer Effect），指具有[[Statistical Significance\|统计显著性]]或正向结论的研究比零效应或负面结果的研究更有可能被学术期刊接收、发表或传播的系统性倾向。在教育实证与教学干预评估中，发表偏倚意味着公开学术文献库中的加权平均[[Effect Size\|效应量]]往往系统性高估了干预措施的真实有效性；元分析研究者通常通过[[Funnel Plot\|漏斗图]]、Egger 线性回归、[[Trim and Fill Method\|剪补法]]与[[Fail-Safe N\|失安全数]]等多重统计工具对发表偏倚进行系统性审计与效应量下调校正（Rosenthal, 1991; [[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 429]]）。
+> 发表偏倚（Publication Bias），也称文件抽屉效应（File Drawer Effect），指具有[[Statistical Significance\|统计显著性]]或正向结论的研究比零效应或负面结果的研究更有可能被学术期刊接收、发表或传播的系统性倾向。在教育实证与教学干预评估中，发表偏倚意味着公开学术[[Document|文献]]库中的加权平均[[Effect Size\|效应量]]往往系统性高估了干预措施的真实有效性；[[Meta-analysis|元分析]]研究者通常通过[[Funnel Plot\|漏斗图]]、Egger 线性回归、[[Trim and Fill Method\|剪补法]]与[[Fail-Safe N\|失安全数]]等多重统计工具对发表偏倚进行系统性审计与效应量下调校正（Rosenthal, 1991; [[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 429]]）。
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 学术出版与资助体系对显著和正面结果的选择性偏好，使公开证据池系统性右偏并脱离真实因果分布。
@@ -146,10 +154,10 @@ updated: 2026-11-03
 > **商业偏倚镜像与宏观二阶综合的偏倚继承** 约翰·[[Ivan Snook|斯努克]]等学者指出，商业学术出版对正向结果的偏好与医药研发中的药企偏倚高度相似；当缺乏对未发表文献的严格检索与事后统计校正时，进入[[Meta-analysis|元分析]]的公开文献天然带有正向偏向。[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中直接对 800 余项元分析进行二阶合并，却未能对这些元分析是否经过[[Funnel Plot|漏斗图]]或[[Trim and Fill Method|剪补法]]校正进行系统审查。尽管哈蒂（2010）抗辩称同行评审本身就是一种质量控制，但批评者指出同行评审机制恰恰是优先发表显著正向结果、加剧文件抽屉效应的制度源头；二阶综合非但未能消除发表偏倚，反而使底层文献池的系统性虚高在宏观排行榜中被固化和合法化。
 
 > [!claim] [[Dashun Wang|Wang, D.]], & [[Albert-László Barabási|Barabási, A.-L.]]
-> **知识空白认知扭曲与负面数据隐匿** 指出发表偏倚对显著正向结果的系统性筛选，在宏观知识图谱层面引发了严重的认知陷阱：文献图谱中的拓扑空白并不意味着前沿无人涉足，许多空白往往是前人多次尝试但因零效应或反常数据而沉入“文件抽屉”的负面记录；这种负面数据的系统性隐匿使得学者无法将正向结论置于全量实验背景中核验，不仅导致后继研究盲目重蹈覆辙，更损害了实证结论的可复现性与证据强度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 227–229)]]
+> **知识空白认知扭曲与负面数据隐匿** 指出发表偏倚对显著正向结果的系统性筛选，在宏观知识图谱层面引发了严重的认知陷阱：[[Literature Map|文献图谱]]中的拓扑空白并不意味着前沿无人涉足，许多空白往往是前人多次尝试但因零效应或反常数据而沉入“文件抽屉”的负面记录；这种负面数据的系统性隐匿使得学者无法将正向结论置于全量实验背景中核验，不仅导致后继研究盲目重蹈覆辙，更损害了实证结论的可复现性与证据强度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 227–229)]]
 
 > [!claim] [[Santo Fortunato|Fortunato, S.]], et al.
-> **发表筛选对错误假说的经典化定论效应** 福图纳托等在评述科学出版生态时指出，发表偏倚不仅导致效应量虚高，更深刻扭曲了科学自我纠错进程：由于期刊与资助系统系统性倾向于发表证实假设的阳性结果，并系统性压制未能复现或呈零效应的阴性结果，导致即便某个假说最初仅源于统计假象，缺乏反例制衡的学术传播链条也会将其迅速“确立”并固化为长周期内难以动摇的学科经典定论（Canonization of False Hypotheses）。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 5)]]
+> **发表筛选对错误假说的经典化定论效应** 福图纳托等在评述科学出版生态时指出，发表偏倚不仅导致效应量虚高，更深刻扭曲了科学自我纠错进程：由于期刊与资助系统系统性倾向于发表证实假设的阳性结果，并系统性压制未能复现或呈零效应的阴性结果，导致即便某个假说最初仅源于统计假象，缺乏反例制衡的学术传播链条也会将其迅速“确立”并固化为长周期内难以动摇的学科经典定论（Canonization of False [[Hypothesis|Hypotheses]]）。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 5)]]
 
 ---
 
@@ -237,5 +245,5 @@ updated: 2026-11-03
 > - [[Creation of REES]] — 实证教育研究[[Preregistration|预注册]]（REES）制度，旨在通过研究设计前置公开防范发表偏倚与选择性报告。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 结合医药工业药企偏倚镜像，系统批判二阶综合重度依赖公开文献导致发表偏倚被层级放大，揭露缺乏未发表研究审查的方法论漏洞。
 > - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — 回应 Snook et al. 批评，援引 Schulze (2004) 阐明元分析对偏倚控制的方法论关切，辩护同行评审对文献库的质量把关功能。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási (2021)]] — 阐释正结果偏好对前沿空白探索的扭曲，并在[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|第 23 章]]指出科学学依赖发表数据陷入幸存者偏差，主张打通专利与基金全量申请底表以还原完整科研管线。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási (2021)]] — 阐释正结果偏好对前沿空白探索的扭曲，并在[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|第 23 章]]指出科学学依赖发表数据陷入[[Survivorship Bias|幸存者偏差]]，主张打通专利与基金全量申请底表以还原完整科研管线。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 系统性综述反思文献语种局限与发表偏倚，指出仅依赖国际英文数据库可能遗漏非英语国家未翻译的本土实证改革经验（p. 5）。

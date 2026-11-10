@@ -28,42 +28,42 @@ tags:
   - theme/science-policy
   - horizon-europe
 related_concepts:
-  - "[[Academic Precarity]]"
-  - "[[Postdoctoral Pileup]]"
+  - "[[Competitiveness]]"
+  - "[[Early-Career Researchers]]"
+  - "[[Creativity]]"
   - "[[Modified Lottery in Research Funding]]"
-  - "[[Precarity Paradox]]"
+  - "[[Academic Precarity]]"
   - "[[Strategic Conformity in Academia]]"
-  - "[[Novelty Bias in Peer Review]]"
+  - "[[Precarity Paradox]]"
   - "[[Matthew Effect in Academia]]"
-related_theories:
-  - "[[Academic Capitalism]]"
-related_methods:
-  - "[[Bibliometric Analysis]]"
+related_theories: []
+related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Phillip J. Haubrock]]"
-  - "[[Teun Everts]]"
+related_persons: []
 related_facts:
-  - "[[Horizon Europe]]"
   - "[[EU]]"
+  - "[[Horizon Europe]]"
+  - "[[European Commission]]"
+  - "[[Reading Excellence Act]]"
+  - "[[European Research Area]]"
 related_arguments:
   - "[[Argument_Haubrock_2026_NHB]]"
 confidence: high
 status: active
 created: 2026-11-03
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 项目定位
-> 欧盟设立的跨国科研人才培养旗舰资助框架；旨在打破国家边界与学科壁垒，通过提供具有国际竞争力的全额薪酬与研究启动经费，支持全球优秀科研人员在欧洲开展前沿跨国博士联合培养与博士后独立研究。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 5)]]
+> [[EU|欧盟]]设立的跨国科研人才培养旗舰资助框架；旨在打破国家边界与学科壁垒，通过提供具有国际[[Competitiveness|竞争力]]的全额薪酬与研究启动经费，支持全球优秀科研人员在欧洲开展前沿跨国博士联合培养与博士后独立研究。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 5)]]
 
 > [!program-context] 项目背景
-> - **立项时间 / 周期** 始建于 1996 年，先后作为欧盟第四至第八研发框架计划及现行“地平线欧洲”（Horizon Europe, 2021–2027）的核心支柱长效运行。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 5)]]
-> - **发起方与资助机制** 由欧洲委员会（European Commission）主管，欧盟研究执行局（European Research Executive Agency, REA）负责实施；依托全额公共财政资助，采取严格的自下而上（Bottom-Up）自由选题申报模式。
-> - **覆盖范围与对象** 面向全球所有学科门类（自然科学、工程技术、生命医学、社会科学与人文学科）的博士研究生与持有博士学位的早期科研人员（ECRs）。
-> - **核心问题导向** 促进欧洲研究区（European Research Area, ERA）内部及与全球其他地区之间的高端人才双向流动，缓解欧洲在尖端科技创新领域面临的人才外流压力。
+> - **立项时间 / 周期** 始建于 1996 年，先后作为欧盟第四至第八研发框架计划及现行“[[Horizon Europe|地平线欧洲]]”（Horizon Europe, 2021–2027）的核心支柱长效运行。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 5)]]
+> - **发起方与资助机制** 由欧洲委员会（[[European Commission]]）主管，欧盟研究执行局（European Research Executive Agency, [[Reading Excellence Act|REA]]）负责实施；依托全额公共财政资助，采取严格的自下而上（Bottom-Up）自由选题申报模式。
+> - **覆盖范围与对象** 面向全球所有学科门类（自然科学、工程技术、生命医学、社会科学与人文学科）的博士研究生与持有博士学位的[[Early-Career Researchers|早期科研人员]]（ECRs）。
+> - **核心问题导向** 促进[[European Research Area|欧洲研究区]]（European Research Area, ERA）内部及与全球其他地区之间的高端人才双向流动，缓解欧洲在尖端科技创新领域面临的人才外流压力。
 
 ---
 
@@ -87,7 +87,7 @@ updated: 2026-11-03
 > - **1996 — 计划初创** 欧盟正式整合玛丽·居里研究培训资助计划，确立以学者个体为资助核心的跨国流动政策基础。
 > - **2014–2020 — 地平线2020阶段标准化** 正式更名为玛丽·斯克沃多夫斯卡-居里行动计划（MSCA），确立博士网络（Doctoral Networks）、博士后奖学金（Postdoctoral Fellowships）与人员交换计划三大核心支柱。
 > - **2021–2027 — 地平线欧洲与超竞争异化** 计划总预算达到约 66 亿欧元，全球申请规模呈爆炸性增长，边际评审分数通胀严重，引发学界对申请内耗与科研平庸化的广泛反思。
-> - **2026 — 成为科学政策与抽签改革实证焦点** 豪布罗克等在《自然-人类行为》引用 MSCA 2025 年超竞争数据，实证论证微小分值淘汰机制对全球青年学者创造力的系统性折损，倡导在类似高水准项目中推行适度抽签机制。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 5)]]
+> - **2026 — 成为科学政策与抽签改革实证焦点** 豪布罗克等在《自然-人类行为》引用 MSCA 2025 年超竞争数据，实证论证微小分值淘汰机制对全球青年学者[[Creativity|创造力]]的系统性折损，倡导在类似高水准项目中推行适度抽签机制。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 5)]]
 
 ---
 

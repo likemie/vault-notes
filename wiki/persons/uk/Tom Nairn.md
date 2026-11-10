@@ -9,10 +9,10 @@ summary: "苏格兰政治理论家与历史学家，西方马克思主义民族�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: 1932
 died: 2023
 lifespan: "1932–2023"
@@ -23,6 +23,7 @@ tags:
   - theme/marxism
   - political-philosophy
 related_concepts:
+  - "[[Nationalism]]"
   - "[[Determinism]]"
   - "[[Ontology]]"
   - "[[Normal School]]"
@@ -48,7 +49,7 @@ updated: 2026-11-11
 
 > [!person-profile] 人物档案
 > - **身份位置** 苏格兰政治理论家、马克思主义学者，曾任英国《新左翼评论》（*New Left Review*）核心编委、跨国研究所（TNI）研究员与墨尔本皇家理工大学全球化讲席教授。
-> - **核心角色** 西方新左翼阵营内反思不列颠国家形态与民族主义动员机制的核心思想家，打破传统阶级[[Determinism|决定论]]对民族问题的回避。
+> - **核心角色** 西方新左翼阵营内反思不列颠国家形态与[[Nationalism|民族主义]]动员机制的核心思想家，打破传统阶级[[Determinism|决定论]]对民族问题的回避。
 > - **代表贡献** 提出民族主义是马克思主义历史性理论败笔的著名论断，著有《不列颠的解体》与《现代雅努斯》，深刻启发并推动了[[Benedict Anderson|本尼迪克特·安德森]]对民族文化[[Ontology|本体论]]的探究。
 
 > [!citation-card] 马克思主义关于民族主义的历史性理论失败

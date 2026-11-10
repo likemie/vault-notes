@@ -8,7 +8,7 @@ summary: "英国教育慈善家、萨顿信托（Sutton Trust）创始人兼董�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 26
+person_related_count: 28
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Paradigm]]"
   - "[[Months of Progress]]"
+  - "[[Research Tool]]"
   - "[[Educational Meliorism]]"
   - "[[Evaluator Independence]]"
 related_theories: []
@@ -50,6 +51,7 @@ related_facts:
   - "[[Pupil Premium]]"
   - "[[Impetus]]"
   - "[[BHP Foundation]]"
+  - "[[New Zealand Quality Teaching Strategy]]"
   - "[[Grammar School]]"
   - "[[CORE Education]]"
 related_arguments:
@@ -57,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -103,7 +105,7 @@ updated: 2026-10-26
 > [!citation-card] 社会流动性与打破阶层背景[[Determinism\|决定论]]
 > “我们必须打破出身决定命运的怪圈。低收入家庭儿童之所以在学业上落后，不是因为他们缺乏天赋，而是因为他们无法享有同等质量的教学资源与成长机会。通过独立、严谨、客观的证据为学校提供指引，将每一笔教育经费投向真正能够提升弱势学生学业表现的刀刃上，是实现社会公平最坚实的途径。”
 >
-> *"We need to break the cycle where background determines destiny. Children from low-income homes fall behind not because of a lack of talent, but because they lack equal access to high-quality teaching and opportunities. Using independent, rigorous evidence to guide schools and ensure resources target what truly lifts attainment is the most powerful path to social mobility."*
+> *"We need to break the cycle where background determines destiny. Children from low-income homes fall behind not because of a lack of talent, but because they lack equal access to high-[[New Zealand Quality Teaching Strategy|quality teaching]] and opportunities. Using independent, rigorous evidence to guide schools and ensure resources target what truly lifts attainment is the most powerful path to social mobility."*
 
 ---
 
@@ -126,7 +128,7 @@ updated: 2026-10-26
 
 > [!person-network] 关系网络
 > - **战略合作伙伴** [[Michael Gove\|迈克尔·戈夫]]（Michael Gove） — 2010 年英国教育大臣，响应兰普尔倡议并拍板向 EEF 划拨 1.25 亿英镑政府初始捐赠。
-> - **研究工具合作** [[Steve Higgins\|史蒂夫·希金斯]]（Steve Higgins） — 杜伦大学团队负责人，受兰普尔与萨顿信托资助主持研制初代《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》。
+> - **[[Research Tool|研究工具]]合作** [[Steve Higgins\|史蒂夫·希金斯]]（Steve Higgins） — 杜伦大学团队负责人，受兰普尔与萨顿信托资助主持研制初代《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》。
 
 ---
 

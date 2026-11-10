@@ -12,7 +12,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Network Governance]]"
   - "[[Educational Management Organisation]]"
+  - "[[Quasi-market]]"
   - "[[Document]]"
 related_theories:
   - "[[Theory of Change]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -149,7 +150,7 @@ updated: 2026-11-02
 > | [[Social Impact Investing]] | Concept | 运作[[Paradigm\|范式]]：项目倡导以量规审计、因果[[Theory of Change\|变革理论]]与社会回报为导向的影响力投资机制。 |
 > | [[Network Governance]] | Concept | 治理形态：项目依托基金会既有精英[[Policy Network\|政策网络]]进行第二阶段的定向项目识别与资源输送。 |
 > | [[Educational Management Organisation]] | Concept | 组织载体：私营 EMO 与商业咨询中介在项目中深度介入受助学校治理。 |
-> | [[Tomorrow's Schools Reforms]] | Fact (Policy) | 宏观制度背景：新西兰明日学校分权改革为慈善基金会介入公立学校提供了准市场缝隙。 |
+> | [[Tomorrow's Schools Reforms]] | Fact (Policy) | 宏观制度背景：新西兰明日学校分权改革为慈善基金会介入公立学校提供了[[Quasi-market\|准市场]]缝隙。 |
 
 ---
 

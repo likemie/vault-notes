@@ -8,7 +8,7 @@ aliases:
 summary: "教师流动是指教师在不同学校、学区、地域或跨国教育系统之间的专业岗位转移与空间位移；该概念折射出跨大西洋政策话语的深刻反差，在欧洲一体化语境中被建构为促进专业发展与打破边境壁垒的崇高政策诉求，而在美国基础教育中则被问题化为高资质教师逃离城市贫困与少数族裔薄弱学校的队伍流失与教育不公平危机。"
 type: concept
 domain: "teacher-education"
-related_count: 16
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Discourse]]"
   - "[[Attrition]]"
+  - "[[Problematisation]]"
   - "[[Teacher Qualifications]]"
   - "[[Student Mobility]]"
   - "[[School Choice]]"
@@ -34,7 +35,8 @@ related_theories: []
 related_methods:
   - "[[Effect Size]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Noah Sobe]]"
 related_facts:
   - "[[EU]]"
   - "[[Bologna Process]]"
@@ -44,13 +46,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Teacher Mobility
-> 教师流动（Teacher Mobility）是指专任教师在不同学校、学区、地域乃至国家教育行政管辖范围之间的空间位移与任教岗位转换行为。在比较教育与教师政策研究中，该概念折射出深层的制度建构与[[Discourse|话语]]分歧：在欧洲一体化语境下，教师跨国跨校流动被视为消除边境阻隔、强化欧洲教育维度与促进专业素养生长的理想政策诉求（Policy Desideratum）；而在美国基础教育语境下，教师流动则多通过师资流失（[[Attrition]]）与教育公平视角被问题化，聚焦于高资质骨干教师由于待遇、安全与考评压力逃离城市薄弱与高比例少数族裔学校，进而加剧校际资源分化。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 364)]]
+> 教师流动（Teacher Mobility）是指专任教师在不同学校、学区、地域乃至国家教育行政管辖范围之间的空间位移与任教岗位转换行为。在比较教育与教师政策研究中，该概念折射出深层的制度建构与[[Discourse|话语]]分歧：在欧洲一体化语境下，教师跨国跨校流动被视为消除边境阻隔、强化欧洲教育维度与促进专业素养生长的理想政策诉求（Policy Desideratum）；而在美国基础教育语境下，教师流动则多通过师资流失（[[Attrition]]）与教育公平视角被[[Problematisation|问题化]]，聚焦于高资质骨干教师由于待遇、安全与考评压力逃离城市薄弱与高比例少数族裔学校，进而加剧校际资源分化。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 364)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 教师专业劳动力的空间再配置过程及其制度性诱导与约束机制。
@@ -116,7 +118,7 @@ updated: 2026-11-03
 > [!claim] Scafidi, B. et al.
 > **生源背景对教师离岗决策的主导性影响** 针对公立学校教师流动的实证模型显示，教师流动决策与所服务学校的少数族裔学生比例及学业绩效呈现强相关性；高资质教师在获得跨校转岗机会时，普遍倾向于逃离高风险问责学校，加剧了优质师资的空间极化。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Scafidi et al., 2007; Sobe & Fischer, 2009, p. 364)]]
 
-> [!claim] Sobe, N. W. & Fischer, M. G.
+> [!claim] [[Noah Sobe|Sobe]], N. W. & Fischer, M. G.
 > **流动合法性划分的治理本质** 教师流动的争议性本质表明，人员移动本身没有绝对的中立属性；现代学校教育的空间治理政治核心就在于规制“谁应当流动、谁应当固定”：当教师流动契合精英一体化修辞时被颂扬，当教师流动戳破问责制下的资源倾斜时则被定罪。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 364)]]
 
 ---

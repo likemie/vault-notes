@@ -10,7 +10,7 @@ aliases:
 summary: "行动者网络理论与后结构主义哲学的核心概念，指异质性的人类与非人类行动者（符号、文本、技术、法律与耐用客体）在动态关联中临时聚合形成的社会-物质网络。它打破结构先验论与本质主义，强调关系物质性、耐用材料的秩序化策略、转译过程与黑箱化，并在断裂与重构中展现权力的生成性。"
 type: concept
 domain: "comparative-education"
-related_count: 50
+related_count: 53
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Recontextualization]]"
   - "[[Policy Network]]"
+  - "[[Problematisation]]"
   - "[[Doxa]]"
   - "[[Value Neutrality]]"
   - "[[Habitus]]"
@@ -42,6 +43,7 @@ related_concepts:
   - "[[Public-Private Partnership]]"
   - "[[Philanthrocapitalism]]"
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Analytical Stance]]"
   - "[[Theoretical Standpoint]]"
   - "[[Rich and Thick Description]]"
@@ -64,6 +66,7 @@ related_facts:
   - "[[Vergleichsarbeiten]]"
   - "[[Australian Schools Plus]]"
   - "[[PISA]]"
+  - "[[Evidence Network]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Evidence for Learning]]"
   - "[[Swedish Schools Inspectorate]]"
@@ -78,7 +81,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-07
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 
 ---
@@ -118,7 +121,7 @@ updated: 2026-11-09
 > - **异质构件的对称共生（Heterogeneous Actants）** 组装打破社会与自然、人类与技术的二元划界，将人类行动者（教师、学者、官员、金融家）与非人类行动者（教科书、计算机、网线、章程法案、评估量规）置于同等能动的分析网络中。（Fenwick & Edwards, 2010; [[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]）
 > - **耐用材料与关系物质性（Relational Materiality）** 口头言语与思想短暂易逝，社会关系必须具身于立法文本、组织章程、硬件技术或审计规程等耐用材料中，网络才能获得跨越时空的持久稳定形态。（Law, 1992; [[Argument_Rowe_2022_IJER\|Rowe, 2022]]）
 > - **外在性关系（Relations of Exteriority）** 组装各构件具备自主性与相对独立性，同一构件（如某项因果证据量规或某项法案条款）可从特定装配中剥离并嵌入全新的[[Policy Network\|政策网络]]中运转。（DeLanda, 2006）
-> - **转译与黑箱化机制（Translation & Black-boxing）** 异质行动者通过问题化、利益化与动员被吸纳进装配；装配一旦稳固运转，其内部冲突与妥协便被隐藏，呈现为[[Doxa\|不言自明]]的客观事实或[[Value Neutrality\|价值中立]]实体。（Callon, 1986; Law, 1992）
+> - **转译与黑箱化机制（Translation & Black-boxing）** 异质行动者通过[[Problematisation|问题化]]、利益化与动员被吸纳进装配；装配一旦稳固运转，其内部冲突与妥协便被隐藏，呈现为[[Doxa\|不言自明]]的客观事实或[[Value Neutrality\|价值中立]]实体。（Callon, 1986; Law, 1992）
 > - **脆断性与再装配潜力（Deterritorialisation & Fragility）** 组装具有动态暂定性，任何关键节点的失灵（如服务器宕机、断电、审计漏洞被揭穿或关键人事更迭）都可能导致装配网络瞬间脆断并引发重组。
 
 > [!logic-map]- 组装运作与权力生成拓扑
@@ -194,7 +197,7 @@ updated: 2026-11-09
 > - **2010 年代 — 教育微观空间与数字化物质性转向** 塔拉·芬威克（Tara Fenwick）等将装配引入教育实践（Fenwick & Edwards, 2010）；[[Jason Beech|杰森·比奇]]（[[Jason Beech]]）与阿托普洛斯（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]）利用装配概念分析阿根廷笔记本电脑配送项目，确立课堂作为社会-物质装配体的分析[[Paradigm\|范式]]。
 > - **2018 年 — 联邦多级治理与政策[[Topological Spatialisation\|拓扑学重组]]** [[Sigrid Hartong\|西格丽德·哈通]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）将装配理论与[[Topological Spatialisation\|拓扑空间化]]结合，深入考察德国在 [[PISA]] 震荡后建立的绩效[[Data Infrastructure\|数据基础设施]]与[[Institute for Educational Quality Improvement\|IQB]][[Center of Calculation\|计算中心]]，揭示法律条文、统计模型与在线题库构成的社会-物质复合体如何实现跨尺度的政策重组。
 > - **2020 年代至今 — 批判政策社会学与国家-慈善资本共生装配** 政策社会学者将装配拓展至全球教育治理与国家中介研究。拉德希卡·戈鲁尔（Radhika Gorur, 2016）解构 [[PISA]] 测评装配；埃玛·罗威（Emma Rowe, 2022, 2023）提出“无生命客体的装配”（assemblage of inanimate objects）与“国家-慈善资本共生装配”，借助防野狗围栏隐喻与中介实体映射，揭示税法、公司法、闭门竞标与专家委员会如何装配成掩盖跨国[[Venture Philanthropy\|风险慈善]]掠夺公共资源与重构[[Knowledge Production\|知识生产]]的隐蔽权力机器。
-> - **2025 年 — 比较教育大写背景的动态装配理论化** [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] 突破传统将民族国家视作外在固定容器的小写背景观，将背景理论化为由政策行动者、知识证据网络与跨国流动话语相互装配与纠缠而动态生成的社会实在（Context；pp. 531, 542–544）。
+> - **2025 年 — 比较教育大写背景的动态装配理论化** [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] 突破传统将民族国家视作外在固定容器的小写背景观，将背景理论化为由政策行动者、知识[[Evidence Network|证据网络]]与跨国流动[[Discourse|话语]]相互装配与纠缠而动态生成的社会实在（Context；pp. 531, 542–544）。
 
 ---
 

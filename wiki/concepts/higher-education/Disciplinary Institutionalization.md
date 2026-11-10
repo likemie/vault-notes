@@ -8,7 +8,7 @@ aliases:
 summary: "新兴知识领域通过确立学术研究范式、建立大学独立系所学位项目、获得外部公共经费持续支持并形成专业共同体的社会历史过程；二战后美国联邦国防研发资助直接催化了计算机科学等新兴技术领域从工程辅助工具走向正规大学学科建制。"
 type: concept
 domain: "higher-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Research Universities]]"
   - "[[Knowledge Production]]"
+  - "[[Early-Career Researchers]]"
   - "[[Emergence]]"
   - "[[Epistemology]]"
   - "[[Knowledge Mediation]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -54,7 +55,7 @@ updated: 2026-11-03
 > [!concept-lens] 概念透镜
 > - **含义** 指向新兴知识从边缘性零散实践、跨学科工具演化为大学正规学科建制并形成自我再生产共同体的机制。
 > - **用途** 帮助研究者透视国家科技政策、公共研发拨款如何塑造高等教育学科布局，解释大学如何打破传统学科壁垒孕育前沿知识体系。
-> - **边界** 不等于狭义的个别学者科研兴趣聚集，亦不等于纯粹的产业技术研发实验室；必须具备大学内部的系所建制、独立学位授予与青年学者代际培养机制。
+> - **边界** 不等于狭义的个别学者科研兴趣聚集，亦不等于纯粹的产业技术研发实验室；必须具备大学内部的系所建制、独立学位授予与[[Early-Career Researchers|青年学者]]代际培养机制。
 
 > [!citation-card] 战后国防经费对计算机学科建制化的推动
 > 即使在专门从事计算机硬件开发与制造的大型私营工业崛起之后，国防相关研发支出依然推动了计算机科学这一全新学术学科的创生。大学成为开展硬件和软件基础研究及应用研究的核心重镇，并为新的硬件与网络技术的发展作出了贡献。大学对活跃在计算机工业中的工程师与科学家的培训同样至关重要。美国大学为计算机科学研究在产业与学术界之间、以及国防与民用科研努力之间提供了重要的知识杂交与信息交流渠道。联邦对计算机科学这一新兴学科大学研究的支持，强化了连接联邦政府、学术界与工业界的研发与知识网络。（[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005, p. 38]]）

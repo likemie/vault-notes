@@ -6,7 +6,7 @@ aliases:
 summary: "在教育研究与全球化社会学中，指代默认主权国家是教育的唯一提供者、出资者与监管者，并将“教育治理”等同于“国家行政管理”的方法论还原主义偏误。它是 Roger Dale 提出的阻碍全球化教育研究的“三大方法论陷阱”之一。"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ tags:
   - subject/research-methodology
 related_concepts:
   - "[[Methodological Nationalism]]"
+  - "[[Nationalism]]"
   - "[[Methodological Educationism]]"
   - "[[Space of Flows]]"
   - "[[Geopolitics]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -55,7 +56,7 @@ updated: 2026-11-03
 
 > [!concept-lens] 概念透镜
 > - **政府与治理的混淆** 将“政府（Government/国家机器的等级控制）”与“治理（Governance/包含非国家主体的网络协商）”混为一谈，无形中遮蔽了超国家组织、私营企业和公民社会在塑造教育政策中的能动性。
-> - **三大方法论迷思（The Methodological ISMS）** 与 [[Methodological Nationalism\|方法论民族主义]]（Methodological Nationalism，假设民族国家是自然的研究地理边界）和 [[Methodological Educationism\|方法论教育主义]]（Methodological Educationism，假设教育天然等于学校教育）并称，是 Roger Dale (2005) 系统清算全球化教育研究偏误的核心框架。 (Dale, 2005)
+> - **三大方法论迷思（The Methodological ISMS）** 与 [[Methodological Nationalism\|方法论民族主义]]（Methodological [[Nationalism]]，假设民族国家是自然的研究地理边界）和 [[Methodological Educationism\|方法论教育主义]]（Methodological Educationism，假设教育天然等于学校教育）并称，是 Roger Dale (2005) 系统清算全球化教育研究偏误的核心框架。 (Dale, 2005)
 
 > [!boundary]- 概念边界
 > 不适用于 — 对国家教育行政体系内具体的科层体制、预算分配和官僚决策进行正当的行政学或政治学实证分析。

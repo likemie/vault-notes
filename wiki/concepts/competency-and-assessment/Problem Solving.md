@@ -10,7 +10,7 @@ aliases:
 summary: "指个体在面对阻碍且无直接算法可用时，通过表征初始状态、搜索算子空间、在多重约束下权衡取舍、应用启发式策略与现场排障调试，以克服障碍并达成目标状态的高级认知与实践过程。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 43
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Engineering Education]]"
   - "[[Epistemology]]"
+  - "[[Problematisation]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Dependent Variable]]"
   - "[[Problem Finding]]"
@@ -60,6 +61,7 @@ related_instruments:
   - "[[Collegiate Learning Assessment]]"
   - "[[ETS HEIghten Critical Thinking Assessment]]"
 related_persons:
+  - "[[Vilfredo Pareto]]"
   - "[[Herbert A. Simon]]"
   - "[[Michael Kratsios]]"
 related_facts:
@@ -73,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -82,7 +84,7 @@ updated: 2026-11-03
 > **问题解决（Problem Solving）** 是指个体在面对情境阻碍且没有现成、自动化算法或直接反应程序可用时，运用一系列有目的的高级认知与实践规程，将“初始状态（Initial State）”逐步转化为“目标状态（Goal State）”的复杂心智与操作过程。在认知心理学经典传统中，该过程被形式化为“问题空间（Problem Space）”内的状态搜索与算子（Operators）应用；在当代学习科学、[[OECD|经合组织]]（OECD）素养框架以及[[Engineering Education|工程教育]][[Epistemology|认识论]]中，它进一步拓展为**复杂问题解决（Complex Problem Solving, [[Creative Problem Solving|CPS]]）** 与**现场故障排查（Troubleshooting）**，强调在高度动态、信息不完备、多重物理/成本约束且具劣构特征的真实情境中进行系统表征、多路径探索、算法调试、权衡折中（Trade-offs）与物理干预。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 10–11, 14)]]; [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5, 24–25)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 154–157)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52, 56)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向个体克服心智与物理阻碍、弥合“现状与目标之间差距”的非算法性高阶行动体系，涵盖问题表征、多约束权衡、策略搜索、现场排障与结果反思。
+> - **含义** 指向个体克服心智与物理阻碍、弥合“现状与目标之间差距”的非算法性高阶行动体系，涵盖[[Problematisation|问题表征]]、多约束权衡、策略搜索、现场排障与结果反思。
 > - **用途** 既作为衡量[[Higher-Order Thinking Skills|高阶思维]]能力的核心[[Dependent Variable|因变量]]（用于检验教学设计与生成式 AI 的增值效能），也是评价拔尖工程科技人才与现场技术专家核心实践能力的关键指标。
 > - **边界** 区别于已有现成套路的机械常规练习（Exercise）；亦区别于前期的敏锐察觉（[[Problem Finding|问题发现]]）与纯[[Reflexivity|反思性]]证据挑错（[[Critical Thinking|批判性思维]]）。
 
@@ -117,7 +119,7 @@ updated: 2026-11-03
 > [!feature] 核心要素
 > - **问题表征与约束空间界定（Problem Space Representation）** 理解问题语义、识别初始状态、明确目标状态并解析材料、物理、成本与安全边界约束，建立内在心智模型。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 156–157)]]
 > - **解题路径搜索与启发式策略应用（Heuristic Search）** 结合领域特定知识，在潜在解空间中运用手段-目的分析（Means-Ends Analysis）、分治法或类比[[Transfer Strategies|迁移策略]]探索前进步骤。
-> - **多约束权衡与折中决策（Multi-Constraint Trade-offs）** 在相互冲突的指标（如性能 vs 功耗、精度 vs 成本）之间寻找帕累托最优解，制定工程折中方案。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, p. 157)]]
+> - **多约束权衡与折中决策（Multi-Constraint Trade-offs）** 在相互冲突的指标（如性能 vs 功耗、精度 vs 成本）之间寻找[[Vilfredo Pareto|帕累托]]最优解，制定工程折中方案。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, p. 157)]]
 > - **方案执行、调试与物理现场排障（Execution & Troubleshooting）** 落实行动方案，在面对系统报错或物理异常时定位根因，动态回溯并修正解题路径与设备参数。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, p. 14)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 52)]]
 > - **[[Metacognition|元认知监控]]与实践反思（Monitoring & [[Reflexivity]]）** 持续评估当前状态与目标状态之间的差距，评估解法的鲁棒性并内化为深层经验图式。
 

@@ -10,7 +10,7 @@ title: "Argument_Nielsen_2021_NordPsych"
 argument_key: "Argument_Nielsen_2021_NordPsych"
 argument_display_title: "Blind spots in visible learning: A critique of John Hattie as an educational theorist"
 argument_kind: "journal-article"
-argument_related_count: 67
+argument_related_count: 69
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Self-Efficacy]]"
   - "[[Unit of Analysis]]"
+  - "[[Teacher Expertise]]"
   - "[[Interaction Effect]]"
   - "[[Differentiated Instruction]]"
   - "[[Discourse]]"
@@ -58,6 +59,7 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Teacher Immediacy]]"
   - "[[Self-report Bias]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Reliability]]"
   - "[[Problem Solving]]"
   - "[[Dialogue in Education]]"
@@ -102,7 +104,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: 2026-10-29
+updated: 2026-11-11
 year: 2021
 doi: "10.1080/19012276.2021.1962731"
 citation_aliases:
@@ -229,7 +231,7 @@ citation_aliases:
 > 哈蒂在《可见的学习》中计算出缩小[[Class Size|班级规模]]的平均效应量仅为 $d = 0.21$，并据此断言缩减班级规模是一项高成本而低成效的干预举措（Hattie, 2009）。
 > 
 > 然而伯格（Berger, 1982）在一项经典研究中指出：**班级规模本身根本无法作为一个有意义的独立[[Unit of Analysis|分析单元]]**。其论据在于：
-> - 班级规模必须且必然与学生基础能力、社会家庭背景、教师专业素养以及课堂社会动力学产生复杂的[[Interaction Effect|交互作用]]；
+> - 班级规模必须且必然与学生基础能力、社会家庭背景、[[Teacher Expertise|教师专业素养]]以及课堂社会动力学产生复杂的[[Interaction Effect|交互作用]]；
 > - 单纯缩减班级人数并不会自发带来学业提升，其前提是教师能否从小班化情境中改变满堂灌的讲授范式，转向个别化诊断、[[Differentiated Instruction|差异化教学]]与深层师生互动；
 > - 若教师在 15 人的班级里依旧使用面向 40 人的全班灌输教学，小班的优势自然无法释放。将教学法未作调整的停滞表现直接归处于班级规模本身无效，忽视了多变量系统的动态复杂性（[[Argument_Allerup_2015_Paideia|Allerup, 2015]]; Blatchford & Russell, 2019; pp. 5–7）。
 
@@ -297,7 +299,7 @@ citation_aliases:
 
 > [!chain-link] 反馈超级效应量的虚妄生成与方法论崩溃链条
 > - **前提：构念边界失控与异质拼贴** 将课堂奖励（Lysakowski, 1980）、教学指令（Lysakowski, 1982）、教师微笑与幽默（Witt et al., 2004）、认知测验诊断提示（Swanson & Lussier, 2001）不加鉴别地通通归入反馈范畴。
-> - **机制：低质研究累加与数据污染** 采纳大量缺乏控制组、充斥[[Self-report Bias|自陈偏差]]及包含 22 篇未发表学位论文的边缘研究（如 Witt 等的亲和力文献），导致艾森克（Hans Eysenck）所指出的垃圾进、垃圾出（garbage in, garbage out）效应（Borenstein et al., 2009, p. 380; p. 12）。
+> - **机制：低质研究累加与数据污染** 采纳大量缺乏控制组、充斥[[Self-report Bias|自陈偏差]]及包含 22 项未刊印[[Doctoral Dissertation|学位成果]]的边缘研究（如 Witt 等的亲和力文献），导致艾森克（Hans Eysenck）所指出的垃圾进、垃圾出（garbage in, garbage out）效应（Borenstein et al., 2009, p. 380; p. 12）。
 > - **机制：选择性忽视反向证据** 将唯一真正研究反馈且发现其具有 38% 负效应与仅 0.38 效应量的严密综述（Kluger & DeNisi, 1996），湮没在异质高分数字的统计均值中。
 > - **结论：合成脱离现实的虚假指标** 最终合成出一个脱离教学实体、高达 $d = 0.73$ 的抽象数字，将多元异质的教育现象伪造为统一的技术法则。
 

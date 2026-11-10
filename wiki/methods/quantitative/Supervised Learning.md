@@ -9,7 +9,7 @@ summary: "依据包含已知输入特征向量与对应目标标签的训练数�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -22,29 +22,31 @@ tags:
   - theme/machine-learning
   - theme/science-of-science
 related_concepts:
-  - "[[Algorithmic Bias]]"
-  - "[[Automation Bias]]"
-  - "[[Causality]]"
-  - "[[Trend Study]]"
+  - "[[Unit of Analysis]]"
+  - "[[Dependent Variable]]"
   - "[[Construct Validity]]"
-  - "[[Reliability]]"
+  - "[[Algorithmic Bias]]"
+  - "[[Variable]]"
+  - "[[Causality]]"
+  - "[[Paradigm]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
-  - "[[Network Analysis]]"
-  - "[[Receiver Operating Characteristic Analysis]]"
+  - "[[Reinforcement Learning]]"
+  - "[[Trend Study]]"
 related_instruments: []
 related_persons:
-  - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
+  - "[[Dashun Wang]]"
 related_facts:
   - "[[AlphaFold]]"
-  - "[[Reproducibility Project Psychology]]"
+  - "[[AlphaZero]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit10]]"
 confidence: high
 status: draft
 created: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -55,11 +57,11 @@ updated: 2026-11-02
 > [!method-scope] 方法范围
 > - **测量或估计对象** 复杂高维特征与目标属性之间的非线性映射函数，以及未知样本的类别归属与数值趋势。
 > - **问题类型** 分类预测、模式识别、数值回归与文本复现性鉴别。
-> - **分析单位** 像素样本、实验分子构型、求职简历文本或学术论著全文拓扑网络。
+> - **[[Unit of Analysis|分析单位]]** 像素样本、实验分子构型、求职简历文本或学术论著全文拓扑网络。
 > - **输入数据** 经过格式化与标注的训练集对 $\{(x_i, y_i)\}_{i=1}^N$，要求样本空间具备足够多样的标签覆盖度。
-> - **输出形式** 预测类别概率分布向量、连续型因变量估计值或决策分类标签。
+> - **输出形式** 预测类别概率分布向量、连续型[[Dependent Variable|因变量]]估计值或决策分类标签。
 
-> [!citation-card] 汪大胜与巴拉巴西论监督学习的双要素与黑箱边界
+> [!citation-card] 汪大胜与[[Albert-László Barabási|巴拉巴西]]论监督学习的双要素与黑箱边界
 > 深度学习技术之所以引发广泛变革，根本在于其能够自主识别高维复杂数据中隐含的概率结构。只要供给足量训练数据与明确的优化目标函数，系统便能自主调谐参数以锁定数据内部深藏的细密模式。这一突破的先决条件是海量输入训练数据与清晰任务边界；然而，当前算法本质上属于黑箱系统，极易学习并放大人类历史数据中固有的偏差与歧视，科学学研究必须深入探究计算工具内部的因果机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 233, 239–240)]]
 >
 > *Deep learning models can take copious input training data, with clear perimeters, and use multiple hidden layers to translate the input to output... Yet a major drawback is that it’s a black-box. What Amazon’s debacle illustrates is that, as our tools grow in accuracy, they’ll amplify and help perpetuate whatever biases we humans already have.*
@@ -67,10 +69,10 @@ updated: 2026-11-02
 ---
 
 > [!method-position] 方法定位
-> - **构念效度** 监督学习的判别准确性高度依赖标签的纯净度与代表性；若历史标签内嵌系统性偏向，模型会将虚假关联误判为本质特征，诱发[[Algorithmic Bias|算法偏倚]]。
+> - **[[Construct Validity|构念效度]]** 监督学习的判别准确性高度依赖标签的纯净度与代表性；若历史标签内嵌系统性偏向，模型会将虚假关联误判为本质特征，诱发[[Algorithmic Bias|算法偏倚]]。
 > - **研究者判断** 损失函数形式的选取、深层网络超参数（层数、学习率、正则化系数）调优，以及训练集、验证集与测试集的划分比例。
-> - **有效性标准** 泛化误差界、交叉验证得分、受试者工作特征曲线下面积（[[Receiver Operating Characteristic Analysis|AUC]]）与测试集混淆矩阵指标。
-> - **不声称回答的问题** 监督学习仅捕捉特征变量与目标标签之间的统计共现关联，无法单独确立两者的真实[[Causality|因果]]机理。
+> - **有效性标准** 泛化误差界、交叉验证得分、受试者工作特征曲线下面积（AUC）与测试集混淆矩阵指标。
+> - **不声称回答的问题** 监督学习仅捕捉特征[[Variable|变量]]与目标标签之间的统计共现关联，无法单独确立两者的真实因果机理。
 
 > [!method-stack] 方法层级
 > - **上位方法** 机器学习（Machine Learning）、经验风险最小化（Empirical Risk Minimization）。
@@ -80,7 +82,7 @@ updated: 2026-11-02
 > [!dev-timeline] 方法演变
 > - **1950s–1980s — 线性判别与反向传播奠基** 感知机模型提出，随后反向传播算法（Backpropagation）解决多层网络梯度求解问题。
 > - **2010s — 深度学习与大数据爆发** 卷积神经网络（CNN）与残差网络（ResNet）普及，监督学习依托海量标注数据在计算机视觉与语音识别中全面超越传统统计模型。
-> - **2021 — 科学学因果校准转向** 汪大胜（Dashun Wang）与阿尔伯特-拉斯洛·巴拉巴西（Albert-László Barabási）总结指出，监督学习在科学计量与评价中的应用必须打破黑箱依赖，结合因果推断防范算法对历史学术不平等的级联放大。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 239–240)]]
+> - **2021 — 科学学因果校准转向** 汪大胜（[[Dashun Wang]]）与阿尔伯特-拉斯洛·巴拉巴西（Albert-László Barabási）总结指出，监督学习在科学计量与评价中的应用必须打破黑箱依赖，结合[[Causality|因果推断]]防范算法对历史学术不平等的级联放大。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 239–240)]]
 
 ---
 
@@ -123,15 +125,15 @@ updated: 2026-11-02
 
 ---
 
-> [!contrast-table] 机器学习核心范式比较
-> | 比较维度 | 监督学习（Supervised Learning） | 无监督学习（Unsupervised Learning） | 强化学习（Reinforcement Learning） |
+> [!contrast-table] 机器学习核心[[Paradigm|范式]]比较
+> | 比较维度 | 监督学习（Supervised Learning） | 无监督学习（Unsupervised Learning） | [[Reinforcement Learning\|强化学习]]（Reinforcement Learning） |
 > |---|---|---|---|
 > | **数据输入形态** | 包含成对的特征输入与已知真实标签 | 仅供给未标注特征数据，无外部标签 | 仅供给环境状态转移规则与奖励反馈信号 |
 > | **核心优化驱动** | 最小化经验预测值与显式标签的偏差 | 挖掘数据内部潜在聚类或低维几何流形 | 通过试错博弈最大化长期累积折扣奖励 |
-> | **典型科学任务** | 蛋白质结构预测、成果复现性判别 | 学术主题聚类、跨学科文献降维映射 | 通用棋类自我博弈（如 [[AlphaZero]]） |
+> | **典型科学任务** | 蛋白质结构预测、成果复现性判别 | 学术主题聚类、跨学科[[Document\|文献]]降维映射 | 通用棋类自我博弈（如 [[AlphaZero]]） |
 > | **主要方法边界** | 极度依赖海量标注数据，易放大历史偏见 | 聚类结果缺乏客观因果解释标准 | 难以直接外推至缺乏明确规则的开放科学 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási (2021)]] — 详述监督学习驱动 AlphaFold 破解蛋白质折叠与驱动自然语言处理模型预测研究复现性的实证案例，同时系统剖析监督模型拟合历史数据诱发算法偏倚的机制。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási (2021)]] — 详述监督学习驱动 AlphaFold 破解蛋白质折叠与驱动自然语言处理模型[[Trend Study|预测研究]]复现性的实证案例，同时系统剖析监督模型拟合历史数据诱发算法偏倚的机制。

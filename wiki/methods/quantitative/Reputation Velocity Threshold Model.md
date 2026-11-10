@@ -11,7 +11,7 @@ summary: "由 Alexander M. Petersen et al. (2014) 提出的文献计量微观动
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 11
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -28,10 +28,14 @@ related_concepts:
   - "[[Matthew Effect in Academia]]"
   - "[[Unit of Analysis]]"
   - "[[Construct Validity]]"
+  - "[[Sleeping Beauty in Science]]"
+  - "[[Early-Career Researchers]]"
+  - "[[Initial Attractiveness]]"
   - "[[Heterogeneity]]"
 related_theories: []
 related_methods:
   - "[[Bibliometric Analysis]]"
+  - "[[Statistical Significance]]"
 related_instruments: []
 related_persons:
   - "[[Alexander M. Petersen]]"
@@ -44,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-29
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -69,8 +73,8 @@ updated: 2026-10-30
 > [!method-position] 方法定位
 > - **[[Construct Validity|构念效度]]** 突破了传统观点将学术马太效应视作终身无界累积的泛化假设，在数理结构上界定了声誉加速窗口与质量检验阶段的分界线。
 > - **研究者判断** $c_x$ 阈值的具体数值受学科平均引文规模调节（例如物理学资深学者约为 40，而在年均引用较少的小众量化分支中绝对值会相应收缩）。
-> - **有效性标准** 早期引文非线性拟合优度、双对数图上的斜率拐点显著性检验，以及跨资历群体的参数显著性比较。
-> - **不声称回答的问题** 不用于测量极少数历经数十年才被学界发掘的睡美人文献，亦不直接评价同行评阅意见书的文本内容。
+> - **有效性标准** 早期引文非线性拟合优度、双对数图上的斜率拐点[[Statistical Significance|显著性检验]]，以及跨资历群体的参数显著性比较。
+> - **不声称回答的问题** 不用于测量极少数历经数十年才被学界发掘的[[Sleeping Beauty in Science|睡美人文献]]，亦不直接评价同行评阅意见书的文本内容。
 
 > [!method-stack] 方法层级
 > - **上位方法** [[Bibliometric Analysis]]。
@@ -78,7 +82,7 @@ updated: 2026-10-30
 > - **后续应用** 为学术期刊推荐算法、科技基金结项评审与代表作评价提供时间窗截断依据。
 
 > [!dev-timeline] 方法演变
-> - **2014 — 模型首创提出** 彼得森团队在《[[National Academy of Sciences|美国国家科学院]]院刊》（PNAS）发表长周期追踪成果，基于物理学高被引学者与青年学者数据确立分段方程与 $c_x$ 阈值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 32)]]
+> - **2014 — 模型首创提出** 彼得森团队在《[[National Academy of Sciences|美国国家科学院]]院刊》（PNAS）发表长周期追踪成果，基于物理学高被引学者与[[Early-Career Researchers|青年学者]]数据确立分段方程与 $c_x$ 阈值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 32)]]
 > - **2021 — 科学学理论体系整合** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]在教材中将该模型作为解决学术引文冷启动机制与声望边界的标准分析工具。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 32–34)]]
 
 ---
@@ -103,7 +107,7 @@ updated: 2026-10-30
 > - $c_0$：学者在论著发表时所具备的外生初始学术声望加速度；
 > - $c_x$：声誉红利出清的临界交叠阈值（顶尖资深学者 $c_x \approx 40$，青年学者 $c_x \approx 10$）。
 >
-> **数学直觉** 经典优先连接模型中被引概率正比于现有引用 $c$（内生累积），新成果在 $c=0$ 时面临起跑线困境。引入非零外生参数 $c_0$ 后，新作在 $c=0$ 时的初始获引概率由学者学术声望主导。当引用越过 $c_x$ 阈值后，内生积累量 $c$ 占据支配地位，曲线平滑过渡为纯偏好连接。
+> **数学直觉** 经典优先连接模型中被引概率正比于现有引用 $c$（内生累积），新成果在 $c=0$ 时面临起跑线困境。引入非零外生参数 $c_0$ 后，新作在 $c=0$ 时的[[Initial Attractiveness|初始获引概率]]由学者学术声望主导。当引用越过 $c_x$ 阈值后，内生积累量 $c$ 占据支配地位，曲线平滑过渡为纯偏好连接。
 >
 > > [!example]- 手算与阶段转换示例
 > > 设定一名资深物理学家（$c_0 \approx 40$）与一名青年助理教授（$c_0 \approx 10$）分别发表一篇新论著：

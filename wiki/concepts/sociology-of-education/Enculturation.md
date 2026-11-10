@@ -6,7 +6,7 @@ aliases:
 summary: "个体在成长过程中通过日常互动吸收本文化价值观、行为模式与信念体系的社会化过程"
 type: concept
 domain: "sociology-of-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -15,6 +15,7 @@ tags:
 - theme/child-development
 - discipline/anthropology
 related_concepts:
+  - "[[Study Abroad]]"
   - "[[Self-Continuity, Self-Distinctness, and Self-Agency]]"
   - "[[Student Motivation]]"
   - "[[Nerd]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-21'
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -51,7 +52,7 @@ updated: 2026-10-30
 
 > [!example|notitle]
 > ### vs 涵化（Acculturation）
-> 濡化发生在个体成长的原生文化中，从婴儿期开始；涵化发生在个体接触新文化时（如移民、留学）。濡化形成的深层文化框架通常不会被涵化完全替代——一个在中国经历了濡化的人，移民后即使吸收了新文化的学习方式，其深层的学习价值观仍可能保留濡化的印记。
+> 濡化发生在个体成长的原生文化中，从婴儿期开始；涵化发生在个体接触新文化时（如移民、[[Study Abroad|留学]]）。濡化形成的深层文化框架通常不会被涵化完全替代——一个在中国经历了濡化的人，移民后即使吸收了新文化的学习方式，其深层的学习价值观仍可能保留濡化的印记。
 
 > [!example|notitle]
 > ### vs 政治灌输（Political Indoctrination）

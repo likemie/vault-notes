@@ -12,7 +12,7 @@ subtype: policy
 region: spain
 fact_region: "spain"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
   - theme/comprehensive-education
   - theme/educational-governance
 related_concepts:
+  - "[[Nationalism]]"
   - "[[Comprehensive Education]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Evaluation Research]]"
@@ -42,7 +43,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -50,7 +51,7 @@ updated: 2026-10-30
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2006 年 5 月 3 日由西班牙议会正式通过，由萨帕特罗领导的西班牙工人社会党（Spanish Socialist Workers' Party，PSOE）政府主导颁布。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 324, 328)]]
 > - **适用地区 / 对象** 西班牙全国学前教育、初等教育、义务中等教育（Educación Secundaria Obligatoria，ESO）、高中（Bachillerato）与职业培训系统。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 328)]]
-> - **问题背景** 针对保守派人民党在 2002 年通过的《教育质量组织法》（LOCE）关于重启初中分流与外部统考的尝试，社会党在 2004 年大选获胜后迅速冻结旧法并重新立法，重点回应自治区民族主义政党对于扩大区域教育自主权与课程管辖权的诉求。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 324, 328)]]
+> - **问题背景** 针对保守派人民党在 2002 年通过的《教育质量组织法》（LOCE）关于重启初中分流与外部统考的尝试，社会党在 2004 年大选获胜后迅速冻结旧法并重新立法，重点回应自治区[[Nationalism|民族主义]]政党对于扩大区域教育自主权与课程管辖权的诉求。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 324, 328)]]
 > - **制度位置** 废除包括 1990 年 [[Organic Law on the General Organization of the Education System 1990|LOGSE]] 与 2002 年 LOCE 在内的既有立法，成为 21 世纪初西班牙基础教育的基础性法律架构。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 328)]]
 
 ---

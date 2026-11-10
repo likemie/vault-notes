@@ -10,7 +10,7 @@ aliases:
 summary: "研究型大学中教师同时在传统学科院系与跨学科研究中心持有正式聘任的矩阵式人事治理制度；旨在防止多学科中心脱离大学育人主体，但也导致学者面临双重工作负荷及中心主任缺乏终身教职评审权的结构性治理张力。"
 type: concept
 domain: "higher-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Joint Faculty Appointments]]"
+  - "[[Early-Career Researchers]]"
   - "[[University-Based Research Center]]"
   - "[[Engineering Education]]"
 related_theories: []
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -128,7 +129,7 @@ updated: 2026-11-03
 > [!debates] 核心争议
 >
 > > [!axis] 一份薪水承担两份全职工作（Double Load）与职业倦怠
-> > 许多中心受聘教师反映，既要满足学科院系的繁重课时要求与行政委员会服务，又要应对中心企业赞助商的高强度研发交付指标，导致青年学者在终身教职评审前面临严重的过载焦虑。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 373)]]
+> > 许多中心受聘教师反映，既要满足学科院系的繁重课时要求与行政委员会服务，又要应对中心企业赞助商的高强度研发交付指标，导致[[Early-Career Researchers|青年学者]]在终身教职评审前面临严重的过载焦虑。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 373)]]
 >
 > > [!axis] 传统院系学术评价对跨学科产学成果的系统性贬值
 > > 学科院系晋升委员会往往偏好单一学科第一署名人纯理论性文章，对教师在中心从事的多人协同系统工程、企业专利转化与跨学科教学缺乏足够的制度化认可。

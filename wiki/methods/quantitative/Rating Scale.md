@@ -9,7 +9,7 @@ summary: "问卷中用于捕捉回应程度和敏感性的测量工具，通过�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -22,6 +22,7 @@ tags:
   - source/textbook
 related_concepts:
   - "[[Construct]]"
+  - "[[Research Tool]]"
   - "[[Reliability]]"
   - "[[Halo Effect]]"
 related_methods:
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 > [!def] Rating Scale
@@ -51,7 +52,7 @@ updated: 2026-10-29
 > - **边界** 评定量表产生的是**顺序数据**而非比率数据。评分4不表示是2的两倍感受强度。不能假设类别间存在等距。将评定量表数据当作参数数据处理在统计上不被接受，尽管实践中大量存在违反这一规则的例子。
 
 > [!citation-card] 关键表述
-> 评定量表是强大且有用的研究工具，然而研究者需要意识到其局限性。评分4既不表示是2的两倍强度，也不表示感受强度是两倍。数字对不同受访者有不同的含义。（pp. 131–132）
+> 评定量表是强大且有用的[[Research Tool|研究工具]]，然而研究者需要意识到其局限性。评分4既不表示是2的两倍强度，也不表示感受强度是两倍。数字对不同受访者有不同的含义。（pp. 131–132）
 >
 > *Though rating scales are powerful and useful in research, the investigator, nevertheless, needs to be aware of their limitations. There is no assumption of equal intervals between the categories, hence a rating of 4 indicates neither that it is twice as powerful as 2 nor that it is twice as strongly felt. Numbers have different meanings for different respondents.*
 

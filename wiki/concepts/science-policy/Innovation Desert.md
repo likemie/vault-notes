@@ -7,7 +7,7 @@ aliases:
 summary: "指由于政治争议、官僚体制僵化、风险厌恶、市场必胜论逃避、薪酬反激励规制与特权阶层炫耀性信念，长期拒绝或严重滞后吸纳前沿技术与现代工程组织模式，从而导致技术应用与治理效能严重滞后的关键公共治理与社会民生领域。"
 type: concept
 domain: "science-policy"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Scapegoat Mechanism]]"
   - "[[Technological Republic]]"
   - "[[Sage]]"
+  - "[[Algorithmic Bias]]"
   - "[[Blackstone's Ratio]]"
   - "[[Hard Power]]"
   - "[[Engineering Mindset]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -210,7 +211,7 @@ updated: 2026-11-03
 > > [!axis] 技术引入的高阶风险审查 vs 治理滞后造成的真实生命损害
 > > 探讨在地方执法、公共卫生与防务采办中，是否应在技术完全无瑕疵前暂缓部署。
 > >
-> > - **技术审慎与规制派** 强调前沿算法介入公共安全可能带来算法偏见与隐私侵犯，要求在彻底完成伦理与程序审查前限制部署。
+> > - **技术审慎与规制派** 强调前沿算法介入公共安全可能带来[[Algorithmic Bias|算法偏见]]与隐私侵犯，要求在彻底完成伦理与程序审查前限制部署。
 > > - **卡普与扎米斯卡（2025）** 指出以未知风险为由全盘排斥技术是一种特权阶层的奢侈信念，导致公共部门沦为创新荒漠，实质上将暴力侵害与疾病死亡的代价全部转嫁给了缺乏保护的底层平民。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 176–177)]]
 >
 > > [!axis] 公职道德圣职化 vs 市场对标薪酬激励

@@ -22,35 +22,35 @@ tags:
   - theme/cognitive-science
   - region/global
 related_concepts:
-  - "[[Paradigm]]"
-  - "[[Scientific Paradigm]]"
-  - "[[Algorithmic Bias]]"
   - "[[Refined Mastery]]"
-  - "[[Man-Computer Symbiosis]]"
+  - "[[Paradigm]]"
+  - "[[Epistemology]]"
 related_theories: []
 related_methods:
-  - "[[Network Analysis]]"
+  - "[[Reinforcement Learning]]"
+  - "[[Supervised Learning]]"
 related_instruments: []
-related_persons: []
-related_facts:
-  - "[[AlphaFold]]"
+related_persons:
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit10]]"
 confidence: high
 status: draft
 created: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 项目定位
-> **AlphaZero（阿尔法零）** 是 DeepMind 于 2017 年开发的通用棋类强化学习系统。系统采取纯粹白板学习（Tabula Rasa）理念，在零人类历史数据输入的条件下，完全通过自我反复博弈与深层残差网络自主构建最优评估策略，在极短时间内超越了国际象棋、将棋与围棋领域的所有既有顶尖人类知识与传统计算算法。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 234–235)]]
+> **AlphaZero（阿尔法零）** 是 DeepMind 于 2017 年开发的通用棋类[[Reinforcement Learning|强化学习]]系统。系统采取纯粹白板学习（Tabula Rasa）理念，在零人类历史数据输入的条件下，完全通过自我反复博弈与深层残差网络自主构建最优评估策略，在极短时间内超越了国际象棋、将棋与围棋领域的所有既有顶尖人类知识与传统计算算法。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 234–235)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2017 年立项并于同年 12 月发布预印本成果，2018 年在《科学》（*Science*）正式发表终期成果。
 > - **研发主体与算力支持** DeepMind 团队，依托谷歌第二代云端张量处理器（TPU）集群展开高速自我对弈与参数梯度更新。
-> - **计算领域里程碑对标** 从 1997 年深蓝计算机依赖人类专家规则穷举剪枝，到 2016 年 AlphaGo 依赖数十万局人类专业棋谱监督学习，AlphaZero 彻底摆脱了对人类历史认知经验的依赖。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 234–235)]]
+> - **计算领域里程碑对标** 从 1997 年深蓝计算机依赖人类专家规则穷举剪枝，到 2016 年 AlphaGo 依赖数十万局人类专业棋谱[[Supervised Learning|监督学习]]，AlphaZero 彻底摆脱了对人类历史认知经验的依赖。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 234–235)]]
 > - **核心认知探索导向** 探索在规则完备但状态空间近乎无限的封闭复杂系统中，机器是否能够摆脱人类思维定势与认知偏见的束缚，完全自主演化出全局最优的智能决策逻辑。
 
 ---
@@ -64,14 +64,14 @@ updated: 2026-11-02
 > - **强化学习自激对弈** 在自我交锋中以胜负结果作为唯一奖励信号，不断用表现更优的新模型替代旧模型生成新的训练博弈，形成正向自激演化。
 
 > [!citation-card] AlphaZero 彻底摆脱人类认知束缚
-> AlphaZero 从零外部数据输入起步，仅供给基础规则，完全通过自我反复博弈迭代演化最优表征；系统在 4 小时内攻克国际象棋、8 小时精通围棋，展现出超越人类直觉的全局大局观，彻底摆脱了人类认知偏倚的深刻羁绊。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 234–235)]]
+> AlphaZero 从零外部数据输入起步，仅供给基础规则，完全通过自我反复博弈迭代演化最优表征；系统在 4 小时内攻克国际象棋、8 小时[[Refined Mastery|精通]]围棋，展现出超越人类直觉的全局大局观，彻底摆脱了人类认知偏倚的深刻羁绊。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 234–235)]]
 >
 > *AlphaZero starts with no domain knowledge beyond basic rules... It took four hours of training to master chess, and eight hours to master Go. AlphaZero displays a distinct playing style that does not conform to human traditions, illustrating how machines can generate counterintuitive strategies unburdened by human biases.*
 
 ---
 
 > [!dev-timeline] 项目推进历程
-> - **2017-10 — AlphaGo Zero 问世** 在围棋领域确立纯自我博弈范式，脱离人类棋谱以 100:0 击败 AlphaGo Lee。
+> - **2017-10 — AlphaGo Zero 问世** 在围棋领域确立纯自我博弈[[Paradigm|范式]]，脱离人类棋谱以 100:0 击败 AlphaGo Lee。
 > - **2017-12 — AlphaZero 通用化拓展** 拓展至国际象棋与将棋，宣布在短时间内战胜所有棋类顶尖专有引擎。
 > - **2018-12 — 科学里程碑正式确立** 在《科学》（*Science*）正式刊发成果，被国际学术界广泛视为强化学习演化智能的代表性成果。
 
@@ -105,9 +105,9 @@ updated: 2026-11-02
 > > 强化学习在规则离散博弈中的成功能否直接外推至自然科学研究。
 > >
 > > - **自主探索乐观论** 认为 AlphaZero 证明了只要为机器设定好基础规则与评估指标，机器即可在无需人类干预的情况下穷尽所有可能假说并找到全局最优解。
-> > - **开放前沿有限论** 汪大胜（Dashun Wang）与阿尔伯特-拉斯洛·巴拉巴西（Albert-László Barabási）指出，棋类属于规则明确、信息完全且无外界扰动的有限离散博弈；而科学探索处于信息高度不完备、规则待定义且涉及价值权衡的开放未知领域，纯自我博弈范式无法直接推演为自主科学发现。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 238–239)]]
+> > - **开放前沿有限论** 汪大胜（[[Dashun Wang]]）与阿尔伯特-拉斯洛·[[Albert-László Barabási|巴拉巴西]]（Albert-László Barabási）指出，棋类属于规则明确、信息完全且无外界扰动的有限离散博弈；而科学探索处于信息高度不完备、规则待定义且涉及价值权衡的开放未知领域，纯自我博弈范式无法直接推演为自主科学发现。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 238–239)]]
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási (2021)]] — 详述 AlphaZero 脱离人类棋谱纯靠自我博弈攻克棋类的演化历程，阐明其摆脱人类认知偏见但在开放科学中仍受窄域智能边界约束的认识论定位。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási (2021)]] — 详述 AlphaZero 脱离人类棋谱纯靠自我博弈攻克棋类的演化历程，阐明其摆脱人类认知偏见但在开放科学中仍受窄域智能边界约束的[[Epistemology|认识论]]定位。

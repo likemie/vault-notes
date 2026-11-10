@@ -7,7 +7,7 @@ aliases:
 summary: "个案研究中从案例到理论的推广逻辑——案例有别于样本，推广通过理论与经验案例之间的逻辑连接而非统计推断实现"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[External Validity]]"
   - "[[Variable]]"
+  - "[[Homophily]]"
 related_methods:
   - "[[Case Study]]"
   - "[[Statistical Significance]]"
@@ -30,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-11
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 > [!def] Analytic Generalization
@@ -64,7 +65,7 @@ updated: 2026-11-03
 > - **必要性而非频率** 案例中揭示的关键机制和关系——无论出现频率——都可能对理论推广至关重要
 
 > [!concept-proposition] 命题一｜复杂议题的变异性低于单独[[Variable|变量]]，因此少量个案的推广可以成立
-> **低变异性机制** Verschuren（2003, pp. 136–137）从方法论层面为分析性推广提供了更精致的辩护：[[Case Study\|个案研究]]包含许多[[Variable\|变量]]，而多变量现象的特征是同质性而非高变异性。因此如果研究者能够识别捕捉变异性范围的个案研究，则[[External Validity\|外部效度]]——可推广性——可以得到展示。
+> **低变异性机制** Verschuren（2003, pp. 136–137）从方法论层面为分析性推广提供了更精致的辩护：[[Case Study\|个案研究]]包含许多[[Variable\|变量]]，而多变量现象的特征是[[Homophily|同质性]]而非高变异性。因此如果研究者能够识别捕捉变异性范围的个案研究，则[[External Validity\|外部效度]]——可推广性——可以得到展示。
 
 > [!claim] Verschuren（2003）
 > **复杂议题的同质性优势** 统计推广基于总体和样本的同质性（或变异性）以及样本所需的确定水平。个案研究包含许多变量；多变量现象的特征是同质性而非高变异性；因此研究者可以从少量个案研究中进行推广——每个个案研究包含相关变量的范围，从而减少所需的总体案例数量。核心论断：复杂议题总体上比单独变量具有低得多的变异性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|(Cohen et al., 2011, Ch14, p. 288)]]

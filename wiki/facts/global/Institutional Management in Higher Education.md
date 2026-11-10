@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 27
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Grandes Ecoles]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Transnational Education]]"
   - "[[New Public Management]]"
   - "[[Entrepreneurial University]]"
   - "[[Global Universities Rankings]]"
@@ -36,6 +37,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Total Quality Management]]"
   - "[[School Autonomy]]"
+  - "[[Study Abroad]]"
   - "[[Innovation Hub]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
@@ -61,7 +63,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -82,7 +84,7 @@ updated: 2026-11-02
 
 > [!policy-design] 方案设计
 > - **项目目标** 提升大学高级管理者的战略规划能力；建立高等教育机构治理与绩效评价的跨国参照框架；促进大学内部学术自治与外部公共利益的平衡协调。
-> - **机构战略同行评估（Institutional Reviews）** 组织跨国[[Grandes Ecoles|大学校]]长与高教专家组，应邀进驻申请评估的成员国高校，针对其治理架构、科研商业化路径及跨国教育项目展开实地诊断并出具权威政策咨询报告。
+> - **机构战略同行评估（Institutional Reviews）** 组织跨国[[Grandes Ecoles|大学校]]长与高教专家组，应邀进驻申请评估的成员国高校，针对其治理架构、科研商业化路径及[[Transnational Education|跨国教育]]项目展开实地诊断并出具权威政策咨询报告。
 > - **跨国专题调研与基准对标** 围绕高校财政多元化、学术职业生涯变革、大学国际化战略、校本学习成果测评（如后续孵化的 [[OECD AHELO Project|AHELO]] 项目）等关键主题开展周期性比较调查。
 > - **高等教育管理国际学术旗舰会议** 隔年举办大规模全球高等教育总理事会（IMHE General Conference），出版专业会刊《高等教育管理与政策》（*Higher Education Management and Policy*），构建跨国政策学习网络。
 
@@ -116,7 +118,7 @@ updated: 2026-11-02
 > [!indicators] 评估指标体系
 > - **治理专业化程度** 参与大学内部专职管理人员配置率、战略发展规划书制定率与校务委员会外部利益相关者代表比例。
 > - **财政多元化与抗风险韧性** 非政府财政拨款占比、科研成果转化收入比例及校友捐赠基金规模。
-> - **国际化与教学科研产出** 国际留学生与外籍教师比例、跨国科研合作网络广度与跨学科[[Innovation Hub|创新中心]]建设成效。
+> - **国际化与教学科研产出** 国际[[Study Abroad|留学]]生与外籍教师比例、跨国科研合作网络广度与跨学科[[Innovation Hub|创新中心]]建设成效。
 
 > [!finding-cards] 核心实证结论
 > - **揭示大学大众化阶段的管理滞后瓶颈** 早期实证报告证明，传统的学术行会式管理已无法应对数万人规模的现代综合性大学，必须建立专业化行政官僚团队与精细化成本控制体系。

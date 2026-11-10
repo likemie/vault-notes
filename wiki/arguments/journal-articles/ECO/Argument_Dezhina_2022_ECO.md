@@ -24,6 +24,7 @@ related_concepts:
   - "[[Asymmetric Brain Circulation]]"
   - "[[Competitiveness]]"
   - "[[Research Universities]]"
+  - "[[Early-Career Researchers]]"
   - "[[Big Science]]"
   - "[[South-South Cooperation]]"
 related_theories: []
@@ -35,6 +36,7 @@ related_facts:
   - "[[Project 5-100]]"
   - "[[National Science Foundation]]"
   - "[[Federal Law No. 85-FZ on Enlightenment Activities]]"
+  - "[[Scopus]]"
   - "[[Parliamentary Office of Science and Technology]]"
   - "[[Federal Law No. 121-FZ on Foreign Agents]]"
   - "[[Federal Law No. 129-FZ on Undesirable Organizations]]"
@@ -46,16 +48,16 @@ sources:
 part_of:
 status: draft
 created: '2026-06-26'
-updated: 2026-10-30
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Dezhina_2022_ECO"
 argument_key: "Argument_Dezhina_2022_ECO"
 argument_display_title: "Movement towards autarky in Russian science through the prism of international cooperation"
 argument_kind: "journal-article"
-argument_related_count: 19
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 21
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "ECO"
 book_title: ""
@@ -131,7 +133,7 @@ issuing_organization: ""
 > - **人才流出结构高度倾斜于学术发达国家** 尽管俄罗斯官方人才流动数据不完整，但NSF（2017）统计显示，在美获得PhD学位且在学术机构工作的外籍人员中，来自俄罗斯（含前苏联）的人口占比为2%（约为2000人）。虽然在美俄罗斯学者总量较小，但流出方向高度集中于美国、德国等世界顶尖科学强国，导致核心智力资源流失。
 > - **流入人才质量与学术地位非对等** 自2015年起，来自独联体（CIS）国家来俄的研究人员数量翻倍，这在总量上虽然弥补了科学人口流失，但属于以学术水平相对落后地区的流入替代向学术先进地区的流出，构成了非对等循环，难以弥补高端人才流失对科学系统造成的质量损害。
 > - **“5-100计划”引智成效不佳且指标注水** 作为旨在提升俄罗斯大学[[Competitiveness|竞争力]]的学术卓越计划，2013-2020年实施期间，21所参与高校中仅有5所在2020年实现了外籍专家比例超过10%的引智目标。且统计数据存在水分，各高校为了达到考核指标，将大量仅来访3-4个月的短期访问学者与签订长期（至少一年）聘用合同的学者合并计算，稀释了实质性引智的学术效能。
-> - **国际学术合著退潮与合作边缘化** 在Scopus数据库中，2014-2019年间俄罗斯国际合著论文占比不仅远低于美德等国，且未能跟上全球科学国际化步伐。在世界前 25 个科研领先国家中，俄罗斯没有成为其中任何一个国家的首要学术合作伙伴。在2020年4月针对COVID-19的跨国合著论文统计中，俄罗斯几乎完全处于全球主流合作网络之外，进一步加剧了其在科学前沿的孤立状态。
+> - **国际学术合著退潮与合作边缘化** 在[[Scopus]]数据库中，2014-2019年间俄罗斯国际合著论文占比不仅远低于美德等国，且未能跟上全球科学国际化步伐。在世界前 25 个科研领先国家中，俄罗斯没有成为其中任何一个国家的首要学术合作伙伴。在2020年4月针对COVID-19的跨国合著论文统计中，俄罗斯几乎完全处于全球主流合作网络之外，进一步加剧了其在科学前沿的孤立状态。
 
 > [!contrast-table]- 表1 2020年俄罗斯“5-100”计划中外籍专家占比超过10%的高校
 > | 高校名称 | 实际引进外籍专家占比 | 规划引进目标 (Plan) |
@@ -197,7 +199,7 @@ issuing_organization: ""
 > [!dimension] 资助体系收缩的两个核心维度
 > - **外部与非政府资助的全面清零**
 >   - **跨国联合资助的终止** 受外国代理人法和非友好组织法威慑，美俄“尤里卡”（EUREKA）联合项目、资助23所高校建设科研教育中心的CRDF Global计划均告终止。
-> - **境外基金会的撤出与封禁** 2021年，资助青年学者的“奥克斯福德俄罗斯基金”（Oxford Russia Fund）被宣布为非友好组织，外部竞争性资助渠道基本归零。
+> - **境外基金会的撤出与封禁** 2021年，资助[[Early-Career Researchers|青年学者]]的“奥克斯福德俄罗斯基金”（Oxford Russia Fund）被宣布为非友好组织，外部竞争性资助渠道基本归零。
 >   - **国内私立资助的缺位** 仅存的民营基金（如哈莫夫尼基基金会年预算仅1800万卢布）杯水车薪，无法填补外资撤离的巨大空白。
 > - **国家基金的行政合并与垄断化**
 > - **基金归并整合进程** 2016年将人文科学基金（RHF）并入基础研究基金（RFBR），2021年进一步取消RFBR的核心通道，将其预算业务并入俄罗斯科学基金（RSF），实现了[[Consolidation of Russian State Science Funds\|国家竞争性基金的行政垄断化整合]]。

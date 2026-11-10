@@ -9,7 +9,7 @@ summary: "不操纵自变量而以量化资料分析变量共变、预测模式�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 71
+method_related_count: 74
 method_related_level: 7
 method_related_stars: "💎💎⭐"
 method_related_color: "#dcfce7"
@@ -43,7 +43,9 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence Standards]]"
   - "[[Evidence Era]]"
+  - "[[Transnational Education]]"
   - "[[Visible Learning]]"
+  - "[[Grit]]"
   - "[[Zone of Desired Effects]]"
   - "[[Creativity]]"
   - "[[Self-reported Grades]]"
@@ -77,6 +79,7 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
   - "[[Meta-regression]]"
+  - "[[Statistical Significance]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
@@ -101,7 +104,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -193,7 +196,7 @@ updated: 2026-11-02
 
 > [!software-impl] 软件实现与建模命令
 > - **R 语言**
->   - 双变量相关与显著性检验：`cor.test(data$x, data$y, method = "pearson")`
+>   - 双变量相关与[[Statistical Significance|显著性检验]]：`cor.test(data$x, data$y, method = "pearson")`
 >   - 多元回归与协变量控制：`fit <- lm(y ~ x + pretest + ses + minority, data = data); summary(fit)`
 >   - 多重共线性诊断：`car::vif(fit)`
 >   - 结构方程与路径模型：`lavaan::sem(model_syntax, data = data)`
@@ -220,7 +223,7 @@ updated: 2026-11-02
 > [!method-fit] 适用判断
 > - **适合使用**
 >   - **探索性前期阶段** 在未开展昂贵干预试验之前，识别[[Variable\|变量]]间的潜在关联模式，为构建因果理论模型提供假设来源。[[Argument_Brady_2023_EPR\|(Brady et al., 2023, p. 2)]]
->   - **大规模自然调查** 依托大型国家或跨国教育数据库（如[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）、[[National Assessment of Educational Progress|全国教育进展评估]]（National Assessment of Educational Progress, NAEP）），分析[[Academic Achievement\|学业成就]]与背景变量的广泛分布规律。
+>   - **大规模自然调查** 依托大型国家或[[Transnational Education|跨国教育]]数据库（如[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）、[[National Assessment of Educational Progress|全国教育进展评估]]（National Assessment of Educational Progress, NAEP）），分析[[Academic Achievement\|学业成就]]与背景变量的广泛分布规律。
 >   - **无法操纵[[Independent Variable\|自变量]]的现实议题** 针对家庭背景、性别差异、学校既有[[Organizational Culture\|组织文化]]等在伦理上或实际上无法进行随机操纵的变量。[[Argument_Lekhal_2015_Paideia\|(Lekhal et al., 2015, pp. 79–83)]]
 > - **谨慎使用**
 >   - 在[[Multiple Regression\|多元回归]]中使用带有因果指向的统计术语（如“主效应”、“中介路径”、“影响机制”）；此类修辞极易向一线教育决策者传递虚假确定性。
@@ -232,7 +235,7 @@ updated: 2026-11-02
 
 > [!method-limits] 内在方法局限
 > - **反向因果困境（Reverse [[Causality]]）** 相关关系具有对称性。例如在《[[Visible Learning\|可见的学习]]》（Visible Learning）争议中，高[[Academic Achievement\|学业成就]]与高自我概念高度相关，但相关性研究根本无法判定是“高自我概念促进了成绩”，还是“优异成绩塑造了自信心”。
-> - **遗漏[[Variable\|变量]]混杂偏误（Omitted Variable Bias, OVB）** 即使通过[[Multiple Regression\|多元回归]]控制了十数个可观测指标，隐藏在背后的未测量变量（如学生未被测量的隐性毅力、家长对教育的隐性支持、社区非正规资本）依然会造成严重伪相关。
+> - **遗漏[[Variable\|变量]]混杂偏误（Omitted Variable Bias, OVB）** 即使通过[[Multiple Regression\|多元回归]]控制了十数个可观测指标，隐藏在背后的未测量变量（如学生未被测量的隐性[[Grit|毅力]]、家长对教育的隐性支持、社区非正规资本）依然会造成严重伪相关。
 
 > [!critique] 相关向均值差强行换算的极值爆炸与因果伪科学包装（基于 Bergeron & Rivard, 2017）
 > - **换算公式的发散爆炸与弱相关虚增** 借助公式 $d = \frac{2r}{\sqrt{1-r^2}}$ 将双变量相关系数 $r$ 换算为 Cohen's $d$，在数学上存在极端敏感的非线性缺陷。当相关系数接近 1 时，分母收敛于 0 导致 $d$ 值发散至无穷大；更为严重的是，该公式对弱相关赋予了极高的[[Effect Size|效应量]]假象：仅需 $r = 0.196$ 的微弱关联，代入公式即可产出 $d = 0.40$（被[[John Hattie|哈蒂]]奉为代表一年教学进展的[[Zone of Desired Effects|期望效应区分水岭]]）。然而在一[[Meta-regression|元回归]]模型中，$r = 0.196$ 对应的决定系数仅为 $R^2 = 3.85\%$，剩余 $96.15\%$ 全属未解释的随机噪声。

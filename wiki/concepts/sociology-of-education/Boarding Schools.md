@@ -9,7 +9,7 @@ aliases:
 summary: "以学生全天候在校寄宿与全域生活管理为组织特征的学校形态；既是现代国家通过物理隔离推行定居主义与文化同化的空间圈禁工具，又是维系精英阶层社会资本再生产与当代跨国文凭跳板的特权机构。"
 type: concept
 domain: "sociology-of-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[International Schools]]"
   - "[[Migrant Children]]"
   - "[[Champ]]"
+  - "[[Study Abroad]]"
   - "[[Document]]"
   - "[[Intercultural Education]]"
   - "[[Geopolitics]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-17'
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -93,7 +94,7 @@ updated: 2026-11-03
 > |---|---|---|---|
 > | **核心制度目标** | 铲除原住民部族习俗，强行文化同化 | 瓦解移动放牧传统，推进国家强制定居化 | 精英社会网络再生产，冲刺顶尖大学名额 |
 > | **空间治理机制** | 强制与家庭物理隔离，惩处母语交流 | 设立固定定居点学校，阻断随牧迁徙 | 高端庄园式封闭园区，全封闭寄宿制管理 |
-> | **主要生源构成** | 被强制征调的美洲、澳洲原住民儿童 | 印度拉巴里等游牧部族学龄学童 | 欧美传统富裕阶层及亚洲跨国留学生 |
+> | **主要生源构成** | 被强制征调的美洲、澳洲原住民儿童 | 印度拉巴里等游牧部族学龄学童 | 欧美传统富裕阶层及亚洲跨国[[Study Abroad\|留学]]生 |
 > | **底层应对逻辑** | 被动承受严重文化创伤与身份分裂 | 战略性分派单个儿子就读作为生计保险 | 视作规避本土应试内卷、提升顶尖大学的阶层跳板 |
 > | **代表[[Document\|文献]]考察** | 历史社会学与殖民[[Archival Research\|档案研究]] | Dyer (2001); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010)]] |
 

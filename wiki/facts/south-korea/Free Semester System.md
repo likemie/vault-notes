@@ -11,7 +11,7 @@ subtype: policy
 region: south-korea
 fact_region: "south-korea"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -44,13 +44,14 @@ related_persons: []
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
+  - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Cram Schools]]"
 related_arguments:
   - "[[Argument_Li_2025_HSSC]]"
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -89,7 +90,7 @@ updated: 2026-10-30
 ---
 
 > [!actor-grid] 实施角色分工
-> - **发布主体** 韩国教育部（MOE）负责制定全国基准纲要、提供国家专项预算与免考政策保障。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
+> - **发布主体** 韩国教育部（[[Ministry of Education of the People's Republic of China|MOE]]）负责制定全国基准纲要、提供国家专项预算与免考政策保障。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 > - **执行主体** 各道/市教育厅（Provincial Offices of Education）及民选教育监统筹区域课程调适与校际资源整合。
 > - **适用对象** 初中教师调整教学评价方式；初中生自主选择下午探究领域与生涯体验。
 > - **政策工具** 免考行政令、跨学科项目包、地方政府与企业开放的校外实践基地。

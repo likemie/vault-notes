@@ -7,7 +7,7 @@ summary: "美国政策与社会研究学者，研究利用（research utilizatio
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Theories of Policy Change]]"
   - "[[Technical Rationality]]"
   - "[[Document]]"
+  - "[[Cumulative Innovation]]"
   - "[[Paradigm]]"
   - "[[Evidence-Informed Practice]]"
 related_theories:
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -94,7 +95,7 @@ updated: 2026-10-30
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 为[[Research Utilization\|研究利用]]研究奠定基础，七种模型与"知识渗透"概念被后续研究使用综述（如 Hagevold et al., 2026）反复援引。
+> - **理论路径** 为[[Research Utilization\|研究利用]]研究奠定基础，七种模型与"知识渗透"概念被[[Cumulative Innovation|后续研究]]使用综述（如 Hagevold et al., 2026）反复援引。
 > - **方法路径** 推动研究者从"研究是否被使用"转向"研究以什么方式被使用"，并影响概念性、工具性与[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]类型学。
 > - **政策路径** 其思想进入证据本位与证据知情政策的讨论，成为解释"研究为何没有直接被采纳"的常用框架。
 > - **立法实务印证** 其关于政策价值负荷、国会委员会分析利用与适时介入等经典洞见，在后续学者对美国联邦立法实务的研究中得到系统验证。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 40–45)]]

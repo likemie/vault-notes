@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch01"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch01"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Intercultural Education]]"
   - "[[Student Attitude]]"
+  - "[[Homophily]]"
   - "[[Avatar]]"
   - "[[International Schools]]"
   - "[[Assemblage]]"
@@ -60,7 +61,7 @@ sources:
 part_of: "[[Argument_Peterson_1987_OpenCourt]]"
 status: draft
 created: 2026-08-17
-updated: 2026-10-23
+updated: 2026-11-11
 ---
 ---
 
@@ -105,7 +106,7 @@ updated: 2026-10-23
 
 ### 跨文化问题意识的形成（1952–1957）
 
-> [!claim] 共同体不能建立在语言与文化同质性上
+> [!claim] 共同体不能建立在语言与文化[[Homophily|同质性]]上
 > 1952–1954 年的马来亚工作使皮特森认识到，政治上追求统一国家，并不意味着消除华人、印度人与马来人之间的语言和文化差异。教育任务在于让不同群体保留自己的表达方式，同时形成能够共同承认的关系原则（p. 1）。
 
 > [!info] 为什么马来亚会有流动电影队

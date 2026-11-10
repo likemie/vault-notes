@@ -8,7 +8,7 @@ aliases:
 summary: "20 世纪末英国比较教育学派开创的微观研究范式，由帕特丽夏·布罗德富特系统阐发，主张将比较研究重心从宏观体制与财政政策下沉至课堂场域中学习者的主体体验、心智过程与评价认同互动，与罗宾·亚历山大的“比较教学论”共同构成比较教育微观转向的双翼。"
 type: concept
 domain: "comparative-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Policy Borrowing]]"
   - "[[Self-Efficacy]]"
+  - "[[Transnational Education]]"
   - "[[Rich and Thick Description]]"
   - "[[Geisteswissenschaften]]"
   - "[[Document]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -89,7 +90,7 @@ updated: 2026-11-02
 
 ---
 
-> [!concept-proposition] 命题一｜跨国教育[[Policy Borrowing|政策借用]]若脱离对微观学习生态的[[Rich and Thick Description|深描]]则注定陷入制度排异
+> [!concept-proposition] 命题一｜[[Transnational Education|跨国教育]][[Policy Borrowing|政策借用]]若脱离对微观学习生态的[[Rich and Thick Description|深描]]则注定陷入制度排异
 
 > [!claim] 命题核心主张
 > 宏观政策文本与办学模式的机械移植之所以频频落空，根本原因在于决策者忽略了微观学习学所揭示的真理：同一套教学方案在不同的文化情境与学生心智结构中会引发完全相异的微观反应；只有深刻洞悉本土学习者的认同期待与文化习惯，教育改良才能生根发芽。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 141–142, 155)]]

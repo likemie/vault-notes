@@ -6,7 +6,7 @@ aliases:
 summary: "以列斐伏尔空间三元论为基础的分析框架，将高等教育理解为持续参与空间生产与空间治理的制度性实践，从物质性、表征性和关系性三个嵌套维度考察其如何参与全球空间秩序建构"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,6 +16,7 @@ tags:
   - theme/higher-education
 related_concepts:
   - "[[Knowledge Production]]"
+  - "[[Scientific Mobility]]"
   - "[[Geopolitics]]"
   - "[[Operationalization]]"
   - "[[New Geopolitics]]"
@@ -36,13 +37,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Space Production
-> 高等教育空间生产（Space Production in Higher Education）是一个以社会空间理论为基础的[[Analytic Framework\|分析框架]]，将高等教育理解为一种持续参与空间生产与空间治理的制度性实践。它不以空间为高等教育活动的被动容器，而是考察高等教育如何通过其核心功能（人的培养、[[Knowledge Production\|知识生产]]、学术流动、跨境合作），在物质、表征和关系三个彼此嵌套的维度上主动参与全球空间秩序的生产与再生产。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 12–13)]]
+> 高等教育空间生产（Space Production in Higher Education）是一个以社会空间理论为基础的[[Analytic Framework\|分析框架]]，将高等教育理解为一种持续参与空间生产与空间治理的制度性实践。它不以空间为高等教育活动的被动容器，而是考察高等教育如何通过其核心功能（人的培养、[[Knowledge Production\|知识生产]]、[[Scientific Mobility|学术流动]]、跨境合作），在物质、表征和关系三个彼此嵌套的维度上主动参与全球空间秩序的生产与再生产。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 12–13)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 这一概念将列斐伏尔（H. Lefebvre）的空间生产理论、哈维（D. Harvey）对资本空间化的分析和马西（D. Massey）对空间关系性的阐释整合应用于高等教育研究。

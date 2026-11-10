@@ -34,6 +34,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Workforce Development]]"
   - "[[Scientific Productivity]]"
+  - "[[Early-Career Researchers]]"
   - "[[Emergence]]"
   - "[[Presence]]"
   - "[[Paradigm]]"
@@ -62,14 +63,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-04
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Murphy_2026_JTS"
 argument_key: "Argument_Murphy_2026_JTS"
 argument_display_title: "Building collaboration and knowledge in semiconductor research: A case study on CHIPS & Science Act workshops"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -211,7 +212,7 @@ issuing_organization: ""
 
 > [!chain-link] 跨学科战略团队孵化的社会认知演进链
 > - **前提：学科孤岛与国家战略认知模糊** 传统工程与理科教师局限于各自细分技术领域，对宏观法案政策意图、产业前沿痛点及校内潜在合作者的互补技术缺乏全局视野。
-> - **机制：小群研讨与合法边缘性参与** 通过第一期和第二期针对芯片攻关痛点的小组研讨，初涉芯片研究的青年学者以合法边缘性参与形式进入半导体共同体，在社会建构互动中实现认知图式更新与视角转化。
+> - **机制：小群研讨与合法边缘性参与** 通过第一期和第二期针对芯片攻关痛点的小组研讨，初涉芯片研究的[[Early-Career Researchers|青年学者]]以合法边缘性参与形式进入半导体共同体，在社会建构互动中实现认知图式更新与视角转化。
 > - **结论：跨界网络确立与承接国家重大课题就绪度提升** 参与者在多轮交互中建立学术互信与自信心，形成兼具理论深度与产业转化潜力的跨学科团队。
 
 这种多理论视阈下的实践参与机制，使得原本孤立的个体学者逐步建立起应对国家重大战略攻关的协同网络。

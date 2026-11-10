@@ -6,7 +6,7 @@ aliases:
 summary: "由奥斯曼尼·波尔图·德奥利维拉（Osmany Porto de Oliveira）提出并经戴安·斯通等人系统拓展的跨国政策行动者构念，指兼具国际魅力、跨文化沟通力与本土实践经验，以中介者身份穿梭于母国、国际组织与跨国政策网络之间，推动特定治理模型跨国扩散与制度化转化的能动主体。"
 type: concept
 domain: "comparative-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,6 +16,7 @@ tags:
   - theme/global-governance
   - comparative-education
 related_concepts:
+  - "[[Policy Translation]]"
   - "[[Policy Entrepreneur]]"
   - "[[Policy Window]]"
   - "[[Champ]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-23
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -48,7 +49,7 @@ updated: 2026-11-03
 > **政策大使（Policy Ambassador）** 指具备国际声望、跨文化穿透力与多语言斡旋能力的跨国能动主体，通过在不同政治体制与国际机构之间搭建信任桥梁，积极游说决策精英，将特定国家或地区的政策创新方案推向全球治理议程。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, p. 6)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向在全球与跨国流动中承担政策翻译、跨界倡导与制度桥接功能的关键个人行动者。
+> - **含义** 指向在全球与跨国流动中承担[[Policy Translation|政策翻译]]、跨界倡导与制度桥接功能的关键个人行动者。
 > - **用途** 用于透视跨国政策扩散与政策转移过程中非制度化、超科层的个人能动性与说服网络。
 > - **边界** 区别于常驻主权国家的职业外交官或单纯提供技术咨询的外籍专家，政策大使的核心目标是推广特定政策议程与制度模式。
 

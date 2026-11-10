@@ -10,10 +10,10 @@ aliases:
 summary: "总揽学科全貌、历史进程或文明演进的思辨性元叙述体系。在社会学中因脱离经验事实而遭遇中层理论与后现代解构；在技术政治、地缘竞争与国家建构中，它既表现为福山历史终结论的胜者谬误与新兴大国非西方现代化治理叙事，又表现为国家重大工程攻关愿景，以及凝聚多元移民社会、克服邓巴数限制并以千年为尺度的共有历史文明叙事。"
 type: concept
 domain: "sociology-of-education"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - concept/methodology
   - theory-type/grand-theory
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[China Solution]]"
   - "[[Geopolitics]]"
+  - "[[Transnational Education]]"
   - "[[Document]]"
   - "[[Scientific Method]]"
 related_theories:
@@ -92,7 +93,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-09
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -250,7 +251,7 @@ updated: 2026-11-03
 > - **1949–1959 — 经验社会学清算与中层理论转向** 罗伯特·默顿（Robert K. Merton）提出中层理论，痛陈宏大理论脱离可[[Falsification|证伪]]假说；赖特·米尔斯在《社会学的想象力》中严厉批判宏大理论概念自闭与经验贫瘠。
 > - **1979–1984 — 后现代转向与对元叙述的彻底怀疑** [[Jean-François Lyotard|利奥塔]]发表《后现代状态》，宣布后现代状况的核心即是“对元叙述的怀疑”，后现代思潮全面解构普遍性文明与历史进步神话。
 > - **1989–1992 — [[End of History Thesis|历史终结论]]的确立与[[Winner's Fallacy|胜者谬误]]** [[Francis Fukuyama|福山]]发表《历史的终结？》，将西方自由民主制与市场经济塑造为人类制度演进终极形态的意识形态宏大叙事。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–32)]]
-> - **2010s 至今 — 地缘认知竞争与文明工程叙事重塑** 新兴大国将非西方现代化经验提炼为兼具主权发展与制度有效性的治理宏大叙事，并在跨国教育与对外合作中抗衡西方[[Discourse|话语]]垄断。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–692)]]；同时在技术政治与文明史领域，学术界反思后现代解构造成的历史虚无，主张重构以千年为尺度的共有历史文明叙事与重大工程愿景。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025)]]
+> - **2010s 至今 — 地缘认知竞争与文明工程叙事重塑** 新兴大国将非西方现代化经验提炼为兼具主权发展与制度有效性的治理宏大叙事，并在[[Transnational Education|跨国教育]]与对外合作中抗衡西方[[Discourse|话语]]垄断。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–692)]]；同时在技术政治与文明史领域，学术界反思后现代解构造成的历史虚无，主张重构以千年为尺度的共有历史文明叙事与重大工程愿景。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025)]]
 
 ---
 

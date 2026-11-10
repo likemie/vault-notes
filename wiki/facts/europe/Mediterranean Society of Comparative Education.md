@@ -11,7 +11,7 @@ subtype: organization
 region: europe
 fact_region: "europe"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Knowledge Production]]"
   - "[[Methodological Nationalism]]"
+  - "[[Nationalism]]"
   - "[[Development Education]]"
   - "[[Dialogue in Education]]"
 related_persons:
@@ -42,7 +43,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -67,7 +68,7 @@ updated: 2026-10-22
 ---
 
 > [!feature] 核心学术特征
-> - **以地缘文化板块突破单一国家容器** 地中海既非纯粹内海，亦非单一政治联盟，而是一个历史交织千年的复合生态圈。MESCE 将地中海确立为独立的比较教育宏观单元，有力瓦解了[[Methodological Nationalism|方法论民族主义]]（Methodological Nationalism）。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 92)]]
+> - **以地缘文化板块突破单一国家容器** 地中海既非纯粹内海，亦非单一政治联盟，而是一个历史交织千年的复合生态圈。MESCE 将地中海确立为独立的比较教育宏观单元，有力瓦解了[[Methodological Nationalism|方法论民族主义]]（Methodological [[Nationalism]]）。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 92)]]
 > - **南北对话与南南互助的独特枢纽** 打破了以英德法等西北欧宗主国为单向知识输出者的格局，赋权南欧与北非学者共同主导研究议程，开创了平等的南北比较[[Paradigm|范式]]。
 > - **深化跨文化与和平教育实务** 聚焦地中海两岸的伊斯兰文化与基督教-世俗传统交流，推动教科书除魅、历史叙事重构与青年公民参与。
 

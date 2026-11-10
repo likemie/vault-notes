@@ -7,7 +7,7 @@ aliases:
 summary: "断裂平衡理论（PET）的核心分析概念，指特定政策议题在公众和政治精英心目中的符号化表征、价值框架与社会建构；它由实证信息、核心价值与情感修辞共同编织而成，决定了政策被认知为中立的专业自治还是急需政府介入的治理危机，是政策企业家瓦解既有政策垄断的关键话语手段。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 17
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,11 +24,9 @@ related_concepts:
   - "[[Venue Shopping]]"
   - "[[Competitiveness]]"
   - "[[Problem Finding]]"
-  - "[[Screening Off]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Industry Affiliate Program]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Document]]"
 related_theories:
   - "[[Punctuated Equilibrium Theory]]"
 related_methods:
@@ -44,7 +42,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -89,7 +87,7 @@ updated: 2026-11-03
 > **[[Punctuated Equilibrium Theory|政策垄断]]的[[Discourse|话语]]防御机制** 在常规政治时期，封闭的政策铁三角通过输出象征公共利益或专业理性的正向形象，使外部政治家与公众确信现状运行良好，从而将挑战者排除在决策议程之外。
 
 > [!claim] Baumgartner, F. R. & Jones, B. D.
-> **正向形象对制度垄断的[[Screening Off|屏蔽]]效应** 鲍姆加特纳与琼斯论证，任何稳固的政策垄断都依赖两大支柱：排他性的制度场所与积极向上的政策形象。只要有关某一政策领域的公共话语保持正面定性（例如将核电工业界定为清洁无限的现代科技先锋、将美国各州自主确定课程大纲界定为神圣不可侵犯的地方自治与民主基石），外界宏观政治领袖便缺乏动机介入该子系统，从而赋予了官僚与利益共同体长达数十年的排他性管辖权。(Baumgartner & Jones, 1993)
+> **正向形象对制度垄断的屏蔽效应** 鲍姆加特纳与琼斯论证，任何稳固的政策垄断都依赖两大支柱：排他性的制度场所与积极向上的政策形象。只要有关某一政策领域的公共话语保持正面定性（例如将核电工业界定为清洁无限的现代科技先锋、将美国各州自主确定课程大纲界定为神圣不可侵犯的地方自治与民主基石），外界宏观政治领袖便缺乏动机介入该子系统，从而赋予了官僚与利益共同体长达数十年的排他性管辖权。(Baumgartner & Jones, 1993)
 
 ---
 

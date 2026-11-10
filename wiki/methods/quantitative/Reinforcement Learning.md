@@ -8,9 +8,9 @@ summary: "智能体通过与动态环境交互试错、以最大化长期累积�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 12
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 9
+method_related_level: 0
+method_related_stars: "☆"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -21,51 +21,48 @@ tags:
   - theme/machine-learning
   - theme/science-of-science
 related_concepts:
-  - "[[Scientific Paradigm]]"
-  - "[[Paradigm]]"
-  - "[[Man-Computer Symbiosis]]"
+  - "[[AI Agent in Education]]"
+  - "[[Unit of Analysis]]"
   - "[[Refined Mastery]]"
-  - "[[Algorithmic Bias]]"
+  - "[[Construct Validity]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Supervised Learning]]"
-  - "[[Network Analysis]]"
 related_instruments: []
 related_persons:
-  - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
 related_facts:
   - "[[AlphaZero]]"
-  - "[[AlphaFold]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit10]]"
 confidence: high
 status: draft
 created: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Reinforcement Learning
-> **强化学习（Reinforcement Learning, RL）** 指智能体（Agent）在状态空间明确的离散或连续环境中，通过自主采取动作并接收环境即时反馈的数值奖励信号，以最大化长期累积折扣收益为目标迭代优化动作策略的计算方法。该方法输入环境状态转移模型或经验交互序列，通过策略梯度与价值函数更新，输出各状态下的最优行为策略分布。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 234–235)]]
+> **强化学习（Reinforcement Learning, RL）** 指[[AI Agent in Education|智能体]]（Agent）在状态空间明确的离散或连续环境中，通过自主采取动作并接收环境即时反馈的数值奖励信号，以最大化长期累积折扣收益为目标迭代优化动作策略的计算方法。该方法输入环境状态转移模型或经验交互序列，通过策略梯度与价值函数更新，输出各状态下的最优行为策略分布。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 234–235)]]
 
 > [!method-scope] 方法范围
 > - **测量或估计对象** 动态序列决策中的状态价值函数 $V(s)$、动作价值函数 $Q(s, a)$ 以及最优策略映射 $\pi^*(a|s)$。
 > - **问题类型** 序列决策优化、博弈博弈求解、控制规划与假说空间自主搜索。
-> - **分析单位** 单步离散交互时间步 $t$、完整对局回合轨迹（Episode）或多智能体博弈局态。
+> - **[[Unit of Analysis|分析单位]]** 单步离散交互时间步 $t$、完整对局回合轨迹（Episode）或多智能体博弈局态。
 > - **输入数据** 状态转移概率规程、即时奖励函数 $R(s, a)$，或纯通过环境模拟器自主试错生成的状态转移四元组 $(s_t, a_t, r_t, s_{t+1})$。
 > - **输出形式** 最优动作概率分布向量 $\pi(a|s)$ 或针对当前环境局面的期望胜率估值。
 
-> [!citation-card] 汪大胜与巴拉巴西论纯自我博弈强化学习的认知超越
-> 与高度依赖数十万盘人类棋谱进行监督训练的传统系统不同，基于纯强化学习的 AlphaZero 系统从零外部数据起步，仅供给棋盘网格与基础走子规则。系统从随机探索起步，完全通过自我反复对弈演化最优表征，在极短时间内精通顶级棋类博弈；这种完全脱离人类先验输入的机制，展现了机器智能摆脱人类历史偏好与认知定势的探索潜能。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 234–235)]]
+> [!citation-card] 汪大胜与[[Albert-László Barabási|巴拉巴西]]论纯自我博弈强化学习的认知超越
+> 与高度依赖数十万盘人类棋谱进行监督训练的传统系统不同，基于纯强化学习的 [[AlphaZero]] 系统从零外部数据起步，仅供给棋盘网格与基础走子规则。系统从随机探索起步，完全通过自我反复对弈演化最优表征，在极短时间内[[Refined Mastery|精通]]顶级棋类博弈；这种完全脱离人类先验输入的机制，展现了机器智能摆脱人类历史偏好与认知定势的探索潜能。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 234–235)]]
 >
 > *AlphaZero starts with no domain knowledge beyond basic rules... Starting from random play, and with only the board and rules, AlphaZero was trained solely by self-play reinforcement learning, completely unburdened by human biases or traditions.*
 
 ---
 
 > [!method-position] 方法定位
-> - **构念效度** 强化学习输出的决策策略是在预设奖励函数与特定虚拟规则约束下的最优数值解；其策略的有效性取决于仿真模拟对现实物理规律的还原忠实度。
+> - **[[Construct Validity|构念效度]]** 强化学习输出的决策策略是在预设奖励函数与特定虚拟规则约束下的最优数值解；其策略的有效性取决于仿真模拟对现实物理规律的还原忠实度。
 > - **研究者判断** 奖励函数标量权重的设定、探索与利用（Exploration vs Exploitation）平衡参数的选择、折扣因子 $\gamma$ 的截断。
 > - **有效性标准** 累积期望总回报、对抗基线算法的胜率等级分（Elo Rating）、样本采样效率与策略稳定性。
 > - **不声称回答的问题** 强化学习在规则离散封闭的博弈空间内表现出极强算力，但无法自行定义现实中模糊多变的社会价值取向或开辟未经形式化的全新科学领域。
@@ -77,8 +74,8 @@ updated: 2026-11-02
 
 > [!dev-timeline] 方法演变
 > - **1980s–1990s — 时序差分与 Q 学习奠基** 萨顿（Richard Sutton）等学者确立马尔可夫决策框架与 Q-Learning 理论基础。
-> - **2010s — 深度强化学习崛起** 结合深层卷积网络的 DQN 在 Atari 游戏中展现出超越人类能力，AlphaGo 融合人类监督学习与强化学习攻克围棋。
-> - **2017 — 纯自我博弈范式确立** [[AlphaZero]] 彻底废弃人类数据输入，在完全自主对弈中达成超人类表现，为理解不受人类偏见污染的智能探索提供了典型范式。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 234–235)]]
+> - **2010s — 深度强化学习崛起** 结合深层卷积网络的 DQN 在 Atari 游戏中展现出超越人类能力，AlphaGo 融合人类[[Supervised Learning|监督学习]]与强化学习攻克围棋。
+> - **2017 — 纯自我博弈[[Paradigm|范式]]确立** [[AlphaZero]] 彻底废弃人类数据输入，在完全自主对弈中达成超人类表现，为理解不受人类偏见污染的智能探索提供了典型范式。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 234–235)]]
 
 ---
 

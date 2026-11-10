@@ -46,6 +46,7 @@ related_concepts:
   - "[[Criterion-Referenced Test]]"
   - "[[Charter Schools]]"
   - "[[Transparency Bypass]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Data Infrastructure]]"
   - "[[Firewall Effect]]"
@@ -107,14 +108,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-21
-updated: 2026-11-10
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Verger_2019_Discourse"
 argument_key: "Argument_Verger_2019_Discourse"
 argument_display_title: "Reforming governance through policy instruments: how and to what extent standards, tests and accountability in education spread worldwide"
 argument_kind: "journal-article"
-argument_related_count: 74
+argument_related_count: 75
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -315,7 +316,7 @@ issuing_organization: ""
 >
 > - **横向学科与认知指标扩充**
 >
->   为平息课程窄化批评，测评从基础读写算扩展到科学、历史等跨学科领域，并引入[[Higher-Order Thinking Skills|高阶思维]]试题。
+>   为平息课程窄化批评，测评从[[Foundational Literacy and Numeracy|基础读写算]]扩展到科学、历史等跨学科领域，并引入[[Higher-Order Thinking Skills|高阶思维]]试题。
 >
 > - **技术指标复杂化与专门机构专设**
 >

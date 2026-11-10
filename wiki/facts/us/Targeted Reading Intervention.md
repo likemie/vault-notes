@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -37,7 +37,8 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Cohort Study]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Ben Levin]]"
 related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[National Center for Education Evaluation and Regional Assistance]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -76,7 +77,7 @@ updated: 2026-10-22
 > - **网络摄像头实时双向交互督导** 教师在电脑上架设广角摄像头，耳戴微型蓝牙受话器；位于大学数据中心的专职阅读教练实时观看教学过程，并在关键时刻通过音频耳机直接向教师提供“耳语提示”（如“提醒他观察词尾的发音变化”、“在此处给予口头表扬”），每周开展 1 次实时在线会诊。
 > - **轮换受益机制** 教师每次只辅导 1 名最困难的学生，一旦该生达到同龄常模（通常历时 8–10 周），便轮换接纳班内下一名困难学生，实现全班高危儿童的阶梯式救助。
 
-> [!citation-card] 斯莱文论 TRI 在一对一教师辅导中的实证突破
+> [!citation-card] 斯[[Ben Levin|莱文]]论 TRI 在一对一教师辅导中的实证突破
 > 在初等阅读一对一专业教师辅导中，Targeted Reading Intervention 在多项[[Randomised Controlled Trials\|随机对照试验]]中测得了高达 +0.52 的学业[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）的强证据等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *Tutoring provided by certified teachers was effective in one-to-one formats in reading. Targeted Reading Intervention, evaluated in K–1 with 1:1 tutoring across two studies, produced an effect size of +0.52, meeting the Strong rating under ESSA.*

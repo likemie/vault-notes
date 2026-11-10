@@ -10,10 +10,10 @@ aliases:
 summary: "算法系统基于历史数据进行训练与参数拟合时，系统性学习、放大并在制度层面固化人类社会既有偏倚、歧视与结构不平等的现象；在人员招聘、司法量刑、信贷审批及同行评审与科研资助分配中展现出显著的放大效应与黑箱治理风险。"
 type: concept
 domain: "ethics-of-technology"
-related_count: 12
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 8
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/ethics-of-technology
   - theme/artificial-intelligence
@@ -21,28 +21,24 @@ tags:
   - theme/algorithmic-governance
   - theme/metascience
 related_concepts:
+  - "[[Metascience]]"
   - "[[Automation Bias]]"
   - "[[Status Bias in Peer Review]]"
-  - "[[Novelty Bias in Peer Review]]"
-  - "[[Publication Bias]]"
-  - "[[Predictive Policing]]"
-  - "[[Meaningful Human Control]]"
-  - "[[Causality]]"
-  - "[[Scientific Productivity]]"
-  - "[[Metascience]]"
+  - "[[Epistemic Friction]]"
 related_theories: []
 related_methods:
-  - "[[Audit Trail]]"
-  - "[[Network Analysis]]"
+  - "[[Supervised Learning]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit10]]"
 confidence: high
 status: draft
 created: 2026-11-02
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -58,7 +54,7 @@ updated: 2026-11-03
 > [!citation-card] 历史偏见的级联放大
 > 随着分析工具在精度与复杂度上的持续提升，算法将忠实地放大并长久固化人类既有的各类偏倚。在科学学纵深演进的进程中，学界必须深入探究所构建工具与评价指标底层的偏倚结构与因果机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, p. 240)]]
 >
-> *What Amazon’s debacle illustrates is that, as our tools grow in accuracy and sophistication, they’ll amplify and help perpetuate whatever biases we humans already have. Which means that as the science of science advances, there will be an increased need to understand biases and causal relationships in the tools and metrics our community builds.*
+> *What Amazon’s debacle illustrates is that, as our tools grow in accuracy and sophistication, they’ll amplify and help perpetuate whatever biases we humans already have. Which means that as the [[Metascience|science of science]] advances, there will be an increased need to understand biases and causal relationships in the tools and metrics our community builds.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Automation Bias|自动化偏差]]：自动化偏差探讨人类决策者过度信赖机器判断的认知心理失衡；算法偏倚关注算法系统自身决策输出对历史偏见的统计放大与歧视性固化。
@@ -73,14 +69,14 @@ updated: 2026-11-03
 > | **分析对象** | 数据驱动算法系统与目标函数 | 实际运用人员与决策者的认知心理 | 评审专家与学术编辑的评价行为 |
 > | **核心机制** | 高维拟合历史语料并级联放大统计偏斜 | 盲从自动化提示并放弃独立验证 | 受外生头衔与机构光环扭曲质量判断 |
 > | **典型表现** | 招聘模型自动扣减女性履历评分 | 驾驶员忽视前方障碍报警任由系统接管 | 顶级名校稿件录用率达普通机构 1.76 倍 |
-> | **治理路径** | 样本再平衡、算法审计与因果校准 | 认知摩擦介入与意义控制保持 | 双盲评审机制与多维度同行评议改革 |
+> | **治理路径** | 样本再平衡、算法审计与因果校准 | [[Epistemic Friction\|认知摩擦]]介入与意义控制保持 | 双盲评审机制与多维度同行评议改革 |
 
 ---
 
 > [!feature] 核心要素
 > - **历史数据内嵌性** 训练数据忠实反映既有社会格局，过往的歧视模式与资源垄断通过标签分布注入模型底层。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 239–240)]]
-> - **统计放大效应** 监督学习以最小化总体经验损失为导向，促使算法强化主导类别的特征权重并压低非主流群体特征得分。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, p. 240)]]
-> - **黑箱隐蔽性** 深层非线性表征切断了特征输入与决策输出之间的可解释[[Causality|因果]]关联，使得系统性歧视隐藏于高维参数权重之中。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, p. 239)]]
+> - **统计放大效应** [[Supervised Learning|监督学习]]以最小化总体经验损失为导向，促使算法强化主导类别的特征权重并压低非主流群体特征得分。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, p. 240)]]
+> - **黑箱隐蔽性** 深层非线性表征切断了特征输入与决策输出之间的可解释因果关联，使得系统性歧视隐藏于高维参数权重之中。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, p. 239)]]
 > - **制度反馈循环** 算法决策反向塑造现实资源分配，受到算法排斥群体的现实境遇进一步受限并持续污染未来的训练样本。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, p. 240)]]
 
 > [!logic-map]- 要素关系
@@ -97,7 +93,7 @@ updated: 2026-11-03
 > [!concept-proposition] 命题一｜监督学习与历史数据拟合通过统计放大效应将潜隐社会偏倚转化为刚性制度排斥
 > **数据驱动模型的偏差放大机制** 探讨机器学习算法以经验风险最小化为导向拟合历史语料时，如何将人类社会既有的非正式歧视提炼为确定性的自动化决策壁垒。
 
-> [!claim] Wang, D. & Barabási, A.-L.
+> [!claim] [[Dashun Wang|Wang, D.]] & [[Albert-László Barabási|Barabási, A.-L.]]
 > **历史数据拟合诱发系统性歧视放大** 汪大胜（Dashun Wang）与阿尔伯特-拉斯洛·巴拉巴西（Albert-László Barabási）通过剖析亚马逊实验性人工智能招聘系统指出，算法工具的精密度提升并未消除偏见，反而成为放大既有社会不平等的加速器。该系统以科技行业过去十年间男性占据压倒性多数的履历库为训练源，系统自主提炼出了男性候选人更符合技术岗位的隐性规律，导致模型自动惩罚包含特定女性词汇的简历并降级女子学院毕业生。算法完全忠实地执行了人类历史数据暗含的优化目标，将统计关联误用为甄选规则，证明了缺乏因果约束的数据驱动模型必然在制度层面复制并固化历史偏见。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 239–240)]]
 
 ---
@@ -127,7 +123,7 @@ updated: 2026-11-03
 
 > [!tension|notitle] 核心张力
 > - **技术中立论（蓝方）** 算法是客观反映数据分布的数学工具，预测误差源于现实社会本身存在的信息不对称，持续扩充数据与优化参数即可逐步减少偏差。
-> - **结构性正义论（红方）** 算法承载特定价值预设，以历史经验损失最小化为优化目标必然在统计上级联放大既有歧视，必须引入法律规范、因果校准与[[Meaningful Human Control|意义控制]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, p. 240)]]
+> - **结构性正义论（红方）** 算法承载特定价值预设，以历史经验损失最小化为优化目标必然在统计上级联放大既有歧视，必须引入法律规范、因果校准与意义控制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, p. 240)]]
 
 > [!warning|limits] 适用局限
 > - **去偏技术与精度损失的权衡边界** 强制实施人口统计平等约束通常会折损算法在特定无偏子任务上的纯粹预测精度，政策制定者需要在公平价值与统计效率之间进行价值权衡。

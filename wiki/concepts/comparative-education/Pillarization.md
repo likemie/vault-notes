@@ -9,7 +9,7 @@ aliases:
 summary: "荷兰等欧洲低地国家在宗教与意识形态阵营上形成的纵向社会分割体制，天主教、新教、世俗中立等柱体各自拥有独立的学校、政党与社会机构，依靠柱体高层精英妥协维持系统稳定，并在宪法教育自由与财政均等原则下塑造出高度规制且对外部封闭的教育治理生态。"
 type: concept
 domain: "comparative-education"
-related_count: 23
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,7 +39,6 @@ related_theories:
   - "[[Historical Institutionalism]]"
 related_methods: []
 related_persons:
-  - "[[Rainer Kattel]]"
   - "[[Walter J. M. Kickert]]"
 related_facts:
   - "[[Higher Education Autonomy and Quality]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -128,11 +127,11 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题一｜深层社会宗派分化通过顶层精英[[Rainer Kattel|卡特尔]]协商与比例制均摊维系动态稳态
+> [!concept-proposition] 命题一｜深层社会宗派分化通过顶层精英卡特尔协商与比例制均摊维系动态稳态
 > **协商民主[[Theoretical Perspective|理论视角]]下的政治稳态维持** 探讨面对深层宗教与意识形态撕裂的社会，国家如何在缺乏单一同质文化认同的条件下，依托制度化的精英合作避免政权崩溃。
 
 > [!claim] Lijphart, A. (1968); [[Walter J. M. Kickert|Kickert, W. J. M.]]
-> **精英[[Rainer Kattel|卡特尔]]合作对纵向社会撕裂的制度缝合断言** 阿伦·利普哈特（Arend Lijphart）在 1968 年提出“协商民主”（Consociational Democracy）理论，瓦尔特·基克特（[[Walter J. M. Kickert]]）进一步将其置于公共治理实践中审视：
+> **精英卡特尔合作对纵向社会撕裂的制度缝合断言** 阿伦·利普哈特（Arend Lijphart）在 1968 年提出“协商民主”（Consociational Democracy）理论，瓦尔特·基克特（[[Walter J. M. Kickert]]）进一步将其置于公共治理实践中审视：
 > 1. **底部彻底分立而顶部紧密合作** 荷兰社会的基底层面虽被天主教、新教与世俗阵营彻底割裂，但国家政局长期保持高度稳定；这种奇迹般的稳定是依托各大柱体顶层政治精英达成的政治妥协与默契联盟，有别于源于基层的自然融合；
 > 2. **比例制分肥与内阁闭门协商** 权力精英通过复杂的咨询机构网络与比例代表制分配内阁职位、公共资金与社会资源，将可能引发街头暴力冲突的宗派争议消解在闭门的行政谈判桌上。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 143)]]
 

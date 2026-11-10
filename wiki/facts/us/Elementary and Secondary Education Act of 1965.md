@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Positivism]]"
 related_theories: []
 related_methods:
+  - "[[Instrumental Variables]]"
   - "[[Randomised Controlled Trials]]"
 related_facts:
   - "[[Higher Education Act of 1965]]"
@@ -55,7 +56,7 @@ related_persons: []
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -77,7 +78,7 @@ updated: 2026-10-26
 >   - **第一条款（[[Title I of the Elementary and Secondary Education Act\|Title I]]: Financial Assistance to LEAs for the Education of Children of Low-Income Families）** 法案最核心且预算最庞大的支柱，向贫困家庭集中的地方学区提供公式补偿拨款，重点支持弱势学生的学业补救项目。
 >   - **第二条款（Title II: School Library Resources, Textbooks, and Other Instructional Materials）** 资助公私立中小学采购图书、教科书及核心教学器材。
 >   - **第三条款（Title III: Supplementary Educational Centers and Services）** 资助地方建立示范性补充教育中心与创新教育服务。
->   - **第四条款（Title IV: Educational Research and Training）** 设立教育科学研究专项拨款，推动大学与教育机构开展实证研究（为后续国家教育研究机构设立铺平道路）。
+>   - **第四条款（Title [[Instrumental Variables|IV]]: Educational Research and Training）** 设立教育科学研究专项拨款，推动大学与教育机构开展实证研究（为后续国家教育研究机构设立铺平道路）。
 >   - **第五条款（Title V: Grants to Strengthen State Departments of Education）** 专门向各州教育厅提供组织建设资助，提升其统筹管理、数据统计与督导评估能力。
 > - **规约与传导机制** 确立了“资金附带规约”的法治原则；地方学区唯有遵守联邦制定的款项专门用途、非歧视审计与学业评估标准，方可按公式划拨领款。
 

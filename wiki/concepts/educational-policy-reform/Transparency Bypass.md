@@ -8,7 +8,7 @@ aliases:
 summary: "教育治理与政策工具分析概念，指在中央或国家政府明确暂停、废除或拒绝编制公立学校表现排行榜之后，地方市政当局、大众传媒或市场倡导型智库利用公共行政透明度法案与信息公开规章合法调取原始评估数据，并在体制外自主编制和发布非官方学校排位表，使市场竞争与声誉问责得以变相存续的制度溢出机制。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Test-Based Accountability]]"
   - "[[Differentiated Instruction]]"
   - "[[National Large-Scale Assessments]]"
+  - "[[Quasi-market]]"
   - "[[Analytical Stance]]"
 related_theories:
   - "[[Educational Governance Framework]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -118,7 +119,7 @@ updated: 2026-11-03
 > [!dev-timeline] 概念演变
 > - **2002–2005 — 北欧行政透明度立法与排位初兴** 丹麦颁布《透明度法案》，挪威构建国家评估体系，初期均尝试在官方层面引入学校表现公开机制。
 > - **2005–2011 — 官方排位表废止与民间变相复活** 挪威（2005）与丹麦（2011）中左翼政府先后停止官方排名；地方自治体与商业报刊随即动用信息公开规则自主索取数据编制排行榜。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
-> - **2013 — 加拿大智库市场化实践** 塞蒙兹与韦伯记录了[[Fraser Institute|弗雷泽研究所]]利用数据索取权长期发布学校报告卡的经验，揭示了智库在体制外构建准市场选择的运作机制。
+> - **2013 — 加拿大智库市场化实践** 塞蒙兹与韦伯记录了[[Fraser Institute|弗雷泽研究所]]利用数据索取权长期发布学校报告卡的经验，揭示了智库在体制外构建[[Quasi-market|准市场]]选择的运作机制。
 > - **2019 — [[Educational Governance Framework|教育治理理论]]化概括** 韦尔热等人系统提炼并概括了这一现象，将其作为解释[[Neo-Weberian State|新韦伯主义]]政体下评估问责复杂动态的关键分析工具。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 
 ---

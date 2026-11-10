@@ -10,9 +10,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 93
-fact_related_level: 9
-fact_related_stars: "💎💎💎"
+fact_related_count: 101
+fact_related_level: 10
+fact_related_stars: "💎💎💎⭐"
 fact_related_color: "#fecdd3"
 org_type: specialized-un-agency
 headquarters: "巴黎（法国）"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Output-Oriented Governance]]"
   - "[[International Education]]"
   - "[[International Schools]]"
-  - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Document]]"
   - "[[Return on Investment]]"
@@ -49,10 +48,12 @@ related_concepts:
   - "[[Educational Privatisation]]"
   - "[[Class Size]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Transnational Education]]"
   - "[[Peer Pressure]]"
   - "[[Discursive Field]]"
   - "[[Competitiveness]]"
   - "[[Social Imaginary]]"
+  - "[[Paradigm]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Global Education Governing Complex]]"
   - "[[Dual School System]]"
@@ -62,6 +63,7 @@ related_concepts:
   - "[[Multilateral Development Bank]]"
   - "[[Global Citizenship]]"
   - "[[Global Educational Discourse]]"
+  - "[[White Saviour Mentality]]"
 related_theories:
   - "[[Conditioned State Theory]]"
   - "[[Human Capital Theory]]"
@@ -86,6 +88,7 @@ related_persons:
   - "[[Liliana Esther Olmos]]"
   - "[[Val D. Rust]]"
   - "[[Jason Beech]]"
+  - "[[Kenneth King]]"
 related_facts:
   - "[[Education for All]]"
   - "[[UN Sustainable Development Goals]]"
@@ -93,6 +96,7 @@ related_facts:
   - "[[International Labour Organization]]"
   - "[[International Institute for Educational Planning]]"
   - "[[World Bank]]"
+  - "[[UNICEF]]"
   - "[[Delors Report]]"
   - "[[OECD]]"
   - "[[World Education Indicators]]"
@@ -101,19 +105,23 @@ related_facts:
   - "[[UOE Data Collection]]"
   - "[[Lisbon Strategy]]"
   - "[[UNESCO Institute for Statistics]]"
+  - "[[Development Assistance Committee]]"
+  - "[[Dakar Framework for Action]]"
+  - "[[Millennium Development Goals]]"
   - "[[International Monetary Fund]]"
-  - "[[UNICEF]]"
   - "[[Learning Data Compact]]"
   - "[[Global Education Cooperation Mechanism]]"
   - "[[International Baccalaureate Nutritional Science Course]]"
   - "[[1960 Bellagio Conference]]"
   - "[[SDG 4 High-Level Steering Committee]]"
+  - "[[Global Partnership for Education]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Castro_2009_MultilateralBanks]]"
+  - "[[Argument_King_2007_CE]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Rust_2009_Reflections]]"
@@ -127,7 +135,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -168,7 +176,7 @@ updated: 2026-11-10
 >   全球[[Educational Multilateralism|教育多边主义]]转入新自由主义主导的防卫性与规训性多边主义（Defensive and Disciplinary Multilateralism），教科文组织设定全球教育政策方向的主导权被信贷资本雄厚的世界银行取代。[[Argument_Arnove_2009_WorldSystems|(Mundy, 1998, 1999; Heyneman, 2003, cited in Arnove, 2009, p. 110)]]
 >
 >   - **1984–1985** 美英等国因不满新世界信息秩序相继退约并冻结经常性会费，教科文组织陷入[[Discourse|话语]]与财政的双重边缘化。
->   - **1990** 在泰国宗迪恩联合发起世界全民教育大会。联合国教科文组织力推涵盖幼儿、扫盲与生活技能的广义基础教育，但世界银行与联合国儿童基金会在现场宣布将资金严格集中于正规小学教育，主导权由此发生实质性转移。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 466)]]; [[Argument_King_2007_CE|(King, 2007, pp. 383–384)]]
+>   - **1990** 在泰国宗迪恩联合发起世界全民教育大会。联合国教科文组织力推涵盖幼儿、扫盲与生活技能的广义基础教育，但世界银行与[[UNICEF|联合国儿童基金会]]在现场宣布将资金严格集中于正规小学教育，主导权由此发生实质性转移。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 466)]]; [[Argument_King_2007_CE|(King, 2007, pp. 383–384)]]
 >   - **1996** 发布里程碑式《[[Delors Report|德洛尔报告]]》（*Learning: The Treasure Within*），确立教育四大支柱，并指出技术变革与经济全球化正在侵蚀既有社会政策、工作结构与全球公平。菲利普·琼斯（Phillip Jones）与[[David Coleman|戴维·科尔曼]]（David Coleman, 2005）的研究揭示，该报告实质是教科文组织在北遭[[OECD|经合组织]]侵蚀、南受世界银行挤压的领导地位危机中，为重塑政治合法性展开的公开舆论反击。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]
 >   - **1996** 报告表层诉诸人本主义哲学以对抗世行的经济主义，深层却与世行及经合组织共同把未来全球社会判定为不可逆的信息时代，合力推销由行政分权、[[School Autonomy|学校自主权]]、教师专业化、能力本位课程与中央质量评估构成的五大支柱模型，将阿根廷与巴西等受援国注重博雅积淀的[[Encyclopaedic Definition of Knowledge|百科全书式知识传统]]贬斥为落后低效，收紧了借款国探索替代性道路的政策空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
 >   - **1996 起** 在 OECD 发布《以知识为基础的经济》后，相继采纳并重申[[Knowledge-Based Economy|知识经济]]政策话语。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–445)]]
@@ -180,8 +188,8 @@ updated: 2026-11-10
 >
 >   教科文组织从全民教育监测者转为[[Sustainability Education|可持续发展教育]]目标的全球协调中枢，并推动全球教育治理的焦点从入学率转向实质性学习质量。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541, 545)]]
 >
->   - **2000** 4 月在达喀尔主持召开世界教育论坛，力图扭转经合组织 DAC 报告带来的议程收缩，通过《达喀尔行动纲领》确立涵盖早期儿童保育、全纳优质初等教育、生活技能、成人识字率提升 50%、性别平等与教育质量的六大目标；但事实上被迫向经合组织 DAC 妥协，全盘吸纳了后者设立的 2015 年普及与 2005 年性别目标。数月后联合国千年峰会技术官僚闭门提炼 MDGs 时再次将达喀尔六大目标边缘化，退回经合组织的两项初等教育指标。[[Argument_King_2007_CE|(King, 2007, pp. 384–386)]]
->   - **2002** 为捍卫达喀尔六大目标的完整性，联合国教科文组织组建具备独立编辑权的团队推出旗舰年度出版物《[[Global Education Monitoring Report|全民教育全球监测报告]]》（*EFA Global Monitoring Report*，GMR），系统跟踪全球全纳教育进展，制衡世界银行同年度启动的、仅聚焦初等完成率与宏观基准的“[[Global Partnership for Education|快速通道倡议]]”（Fast Track Initiative，FTI）。[[Argument_King_2007_CE|(King, 2007, pp. 386–388)]]
+>   - **2000** 4 月在达喀尔主持召开世界教育论坛，力图扭转经合组织 [[Development Assistance Committee|DAC]] 报告带来的议程收缩，通过《[[Dakar Framework for Action|达喀尔行动纲领]]》确立涵盖早期儿童保育、全纳优质初等教育、生活技能、成人识字率提升 50%、性别平等与教育质量的六大目标；但事实上被迫向经合组织 DAC 妥协，全盘吸纳了后者设立的 2015 年普及与 2005 年性别目标。数月后联合国千年峰会技术官僚闭门提炼 [[Millennium Development Goals|MDGs]] 时再次将达喀尔六大目标边缘化，退回经合组织的两项初等教育指标。[[Argument_King_2007_CE|(King, 2007, pp. 384–386)]]
+>   - **2002** 为捍卫达喀尔六大目标的完整性，联合国教科文组织组建具备独立编辑权的团队推出旗舰年度出版物《[[Global Education Monitoring Report|全民教育全球监测报告]]》（*EFA Global Monitoring Report*，GMR），系统跟踪全球全纳教育进展，制衡世界银行同年度启动的、仅聚焦初等完成率与宏观基准的“快速通道倡议”（Fast Track Initiative，FTI）。[[Argument_King_2007_CE|(King, 2007, pp. 386–388)]]
 >   - **2006** 《[[Global Education Monitoring Report|全民教育全球监测报告]]》（*EFA Global Monitoring Report 2006*）显示，多数依赖西方外援与[[International Monetary Fund|国际货币基金组织]]／世界银行结构调整贷款的发展中国家未能如期达成 2005 年性别均等与基础教育普及指标；不依赖西方外援、顶住私有化浪潮的古巴则凭借国家组织动员与人道主义优先保障率先实现优质普及基础教育，印证教育公共属性依赖于主权国家的实质政治承诺。[[Argument_Rust_2009_Reflections|(UNESCO, 2006, cited in Rust et al., 2009, p. 134)]]
 >   - **2013 / 2014** 全球监测报告《教学与学习：实现全员质量》首次系统界定全球学习危机：至少 2.5 亿学龄儿童在接受数年基础教育后仍无法读写简单句子或完成基础运算（其中 1.3 亿已完成四年小学学业），每年造成约 1,290 亿美元的教育财政浪费。报告指出入学普及若不伴随教学质量提升，弱势群体将面临在校却无所获的隐性失学，这也成为世界银行等机构研制 Teach 等[[Classroom Observation|课堂观察]]工具的宏观问题起点。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, p. 2)]]
 >   - **2015** 仁川世界教育论坛通过《教育 2030 行动框架》，教科文组织被联合国大会指定为 SDG 4 的全球牵头与协调机构。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 545)]]
@@ -259,7 +267,7 @@ updated: 2026-11-10
 > > 比较教育学者揭示教科文组织标准模式在发展中国家本土遭遇的脱节与变通。
 > >
 > > - **世界文化批判与微观教学学者（迈耶等与阿诺夫）** 指出，教科文组织倡导的国际标准学制模型（如初等、初中、高中 6-3-3 年限标准）以及以儿童为中心的现代阅读教学指引，往往与发展中国家内部资源匮乏（大[[Class Size|班额]]、教材奇缺）或特定国家的历史文化传统产生剧烈张力；地方教师和社区往往根据自身条件对全球模板进行广泛的抵制、变通与重构。[[Argument_Arnove_2009_WorldSystems|(Meyer et al., 1997; Anderson-Levitt, 2003, cited in Arnove, 2009, pp. 106, 108)]]
-> > - **教科文组织官方立场** 认为国际通行的学制与[[21st Century Skills and Competencies Discourse|核心素养]]参照框架有助于推动跨国教育质量基准建立，并为后发国家提供清晰的教育现代化蓝图。
+> > - **教科文组织官方立场** 认为国际通行的学制与[[21st Century Skills and Competencies Discourse|核心素养]]参照框架有助于推动[[Transnational Education|跨国教育]]质量基准建立，并为后发国家提供清晰的教育现代化蓝图。
 >
 > > [!axis] 跨国自由借用与全球化趋同 vs [[Education for All|全民教育]]（EFA）中的结构再生产与主权自决
 > > 比较教育学者围绕教科文组织倡导的全球教育发展议程展开政治经济学反思。
@@ -376,4 +384,4 @@ updated: 2026-11-10
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 剖析 UNESCO-OECD-Eurostat（UOE）联合数据收集机制为欧洲与跨国教育治理指标提供的底层数据同源支撑。
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 剖析 UNESCO IIEP 2025 年战略审议与 Dakar 政策简报，揭示跨国教育规划诊断的仪式性重复与全球南方证据鸿沟。
 > - [[Argument_King_2007_CE|King (2007)]] — 考证教科文组织达喀尔六大目标在千年峰会遭遇二次窄化以及设立全球监测报告抗衡世行的历程。
-> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 访谈在教科文组织等任职的 23 位芬兰教育专家并分析政策文本，解构全球学习危机话语的技术官僚倾向与白人救世主心态。
+> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 访谈在教科文组织等任职的 23 位芬兰教育专家并分析政策文本，解构全球学习危机话语的技术官僚倾向与[[White Saviour Mentality|白人救世主心态]]。

@@ -7,7 +7,7 @@ summary: "美国当代著名高等教育学学者，佐治亚大学麦克比高�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Social Regime]]"
   - "[[Technology Transfer]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Early-Career Researchers]]"
   - "[[Research Universities]]"
   - "[[Technology-Oriented Social Contract]]"
 related_theories:
@@ -47,7 +48,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -114,7 +115,7 @@ updated: 2026-10-26
 > > 各方对斯劳特将大学过度商业化定性存在学术分歧。
 > >
 > > - **新自由主义与[[Innovation Ecosystem|创新生态]]支持者** 认为高校与产业界紧密合作是[[Knowledge-Based Economy|知识经济]]的必然要求，斯劳特的批判带有多余的象牙塔怀旧色彩。
-> > - **批判高等教育学者** 高度赞赏其揭示了市场逻辑对大学[[Academic Freedom|学术自由]]、基础文理学科边缘化与青年学者剥削的系统性破坏。
+> > - **批判高等教育学者** 高度赞赏其揭示了市场逻辑对大学[[Academic Freedom|学术自由]]、基础文理学科边缘化与[[Early-Career Researchers|青年学者]]剥削的系统性破坏。
 
 ---
 

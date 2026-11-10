@@ -11,9 +11,9 @@ subtype: program
 region: "china"
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2015–至今"
 initiator_organization: "中华人民共和国商务部"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[South-South Cooperation]]"
   - "[[Public Diplomacy]]"
   - "[[Soft Power]]"
+  - "[[Study Abroad]]"
   - "[[Construct]]"
   - "[[Research Universities]]"
   - "[[Mutual Learning]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-26
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -67,7 +68,7 @@ updated: 2026-11-02
 ---
 
 > [!claim] 核心机制假说
-> 该项目通过与北京大学[[Institute of South-South Cooperation and Development|南南合作与发展学院]]、清华大学公共管理学院等顶尖涉外项目深度协同，将全额资助与量身定制的中国改革开放、特区开发与国家治理经验课程相嵌套，把受援国关键政策群体的留学体验转化为对务实发展模式的理性认同与地缘互信。[[Argument_Zhu_Yang_2023_HEP|(Zhu & Yang, 2023, pp. 649–650)]]
+> 该项目通过与北京大学[[Institute of South-South Cooperation and Development|南南合作与发展学院]]、清华大学公共管理学院等顶尖涉外项目深度协同，将全额资助与量身定制的中国改革开放、特区开发与国家治理经验课程相嵌套，把受援国关键政策群体的[[Study Abroad|留学]]体验转化为对务实发展模式的理性认同与地缘互信。[[Argument_Zhu_Yang_2023_HEP|(Zhu & Yang, 2023, pp. 649–650)]]
 
 > [!policy-design] 方案设计
 > - **项目目标** 培养深刻理解中国改革发展经验、通晓现代公共管理工具、具备跨国战略视野的发展中国家高级公共事务领导者。[[Argument_Zhu_Yang_2023_HEP|(Zhu & Yang, 2023, p. 649)]]

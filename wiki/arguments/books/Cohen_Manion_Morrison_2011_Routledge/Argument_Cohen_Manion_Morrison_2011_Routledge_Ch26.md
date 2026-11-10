@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26"
 argument_display_title: "Research Methods in Education · Ch26"
 argument_kind: "book-chapter"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -68,6 +68,7 @@ related_concepts:
   - "[[First and Second Order Emotion]]"
   - "[[Informed Consent]]"
   - "[[Advance Organizers]]"
+  - "[[Research Tool]]"
   - "[[Deception in Research]]"
 related_theories:
   - "[[Behaviorism]]"
@@ -97,7 +98,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
 status: draft
 created: 2026-08-03
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
@@ -569,7 +570,7 @@ Ginsburg（1978）的批评针对的是支撑行为主义取向角色扮演的�
 > [!warning] 角色扮演始终是情境绑定的
 > 角色扮演始终是情境绑定的和局部的，不适合大规模推广。结论通常来自密集的小规模经验，依托丰富而深厚的数据集，但可能高度选择性地取决于研究的目标（p. 21）。
 
-几乎所有学科中的文献都包含许多创造性、创新性和主动性的教与学方法例证，角色扮演在此类最常使用的策略中名列前茅。表 26.1 提供了文献中角色扮演方法（既作为研究工具，也作为有效的教与学方法）近期使用情况的简要总结（仅作说明）。
+几乎所有学科中的文献都包含许多创造性、创新性和主动性的教与学方法例证，角色扮演在此类最常使用的策略中名列前茅。表 26.1 提供了文献中角色扮演方法（既作为[[Research Tool|研究工具]]，也作为有效的教与学方法）近期使用情况的简要总结（仅作说明）。
 
 > [!example] 表26.1　角色扮演在文献中的使用示例
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_26_Table_26-1.jpg)

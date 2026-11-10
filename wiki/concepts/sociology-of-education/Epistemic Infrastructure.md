@@ -9,7 +9,7 @@ aliases:
 summary: "由测量物质载体、跨国行动者网络互联与治理技术三层互动构成的政策知识生产与验证架构，指涉通过数据指标、标准规程与分类注册系统将地方性异质实践编码为可比等价信息，驱动超国家政策空间在缺乏法定立法规制下实现自愿协调与持续扩张的社会-技术网络。"
 type: concept
 domain: "sociology-of-education"
-related_count: 25
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,7 +29,9 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Cognitive Authority]]"
   - "[[Epistemic Community]]"
+  - "[[Transnational Education]]"
   - "[[Hard Power]]"
+  - "[[Scientific Mobility]]"
   - "[[State Educational Sovereignty]]"
   - "[[Student Mobility]]"
   - "[[Champ]]"
@@ -54,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-28
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -103,7 +105,7 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题一｜跨国教育治理依靠测量物质载体与专家网络的共生维持自组织扩张
+> [!concept-proposition] 命题一｜[[Transnational Education|跨国教育]]治理依靠测量物质载体与专家网络的共生维持自组织扩张
 > **基础设施的自主演进与网络互联** 探究[[Epistemology|认识论]]基础设施在建立后如何摆脱最初狭隘的单一政策文本限制，通过物质载体连接与专家网络繁殖形成持续拓展的复杂生态。
 
 > [!claim] Grek, S. & Russell, I.
@@ -112,7 +114,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题二｜认识论基础设施通过微观数据互联替代法定[[Hard Power|硬权力]]以实现深层政策一体化
-> **技术替代与深层一体化** 探究认识论基础设施如何在缺乏超国家硬性立法权的宪制约束下，依托高校微观注册库与质保结果数据库的互联互通，将文凭自动互认与学术流动转化为日常行政的自动化核验。
+> **技术替代与深层一体化** 探究认识论基础设施如何在缺乏超国家硬性立法权的宪制约束下，依托高校微观注册库与质保结果数据库的互联互通，将文凭自动互认与[[Scientific Mobility|学术流动]]转化为日常行政的自动化核验。
 
 > [!claim] Grek, S. & Russell, I.
 > **技术[[Commensuration|通约]]性替代行政互审与一体化物化** 在《[[EU|欧洲联盟]]运作条约》第 165 条严格限制超国家立法的背景下，[[European Education Area|欧洲教育区]]建设无法依赖强制性指令。欧洲高等教育治理转向认识论基础设施，通过将 [[European Standards and Guidelines|ESG]] 准则通约化、[[European Quality Assurance Register for Higher Education|EQAR]] 准入名录化，以及 [[European Tertiary Education Register|ETER]] 高校底账与 [[Database of External Quality Assurance Results|DEQAR]] 认证结果数据库的底层代码级打通，将政治互信转化为技术系统的自动化核验工作流；这一机制规避了主权让渡争议，赋予大学服务于全球欧洲地缘战略的核心载体功能。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 216, 228–232)]]

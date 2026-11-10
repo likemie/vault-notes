@@ -8,7 +8,7 @@ summary: "一种按原始随机分配而非实际接受情况来分析结果的 
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 46
+method_related_count: 48
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
@@ -44,6 +44,7 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Complier Average Causal Effect]]"
   - "[[Observation Method]]"
+  - "[[Instrumental Variables]]"
   - "[[Multi-Arm Trial]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Factorial Design]]"
@@ -55,6 +56,7 @@ related_methods:
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Ordinary Least Squares]]"
   - "[[Random-Effects Model]]"
+  - "[[Mechanism Experiments]]"
   - "[[Triangulation]]"
 related_instruments:
   - "[[EEF Padlock Security Rating]]"
@@ -73,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 ---
@@ -108,7 +110,7 @@ updated: 2026-10-29
 > | **意向治疗分析（ITT）** | 纳入所有随机分配样本，按原始分配组别分析 | **严格保持**，消除所有基线混杂偏误 | 政策提供效应（Effect of Treatment Availability） | 反映真实田野推广价值，保守稳健；但当非依从率高时严重稀释干预内在效力。 |
 > | **符合方案集分析（Per-Protocol, PP）** | 仅纳入完全达到预定依从标准的样本 | **彻底破坏**，引入严重的非随机选择偏误 | 理想依从效能（Ideal Efficacy） | 揭示方案在完美执行下的效力；但破坏组间均衡，高估实际政策收益。 |
 > | **实际接受分析（As-Treated, AT）** | 按被试实际接受的处理情况重新划组 | **彻底破坏**，等同于非等价的事后[[Observation Method\|观察研究]] | 实际暴露关联（Observed Exposure Association） | 严重混淆干预效果与个体主动选择特征，丧失因果识别能力。 |
-> | **依从者平均因果效应（CACE / LATE）** | 全样本纳入，以随机分配作为工具变量进行两阶段估计 | **数学矫正保持**，依赖单调性与排他性约束假设 | 潜在依从者因果效应（Complier Average Causal Effect） | 剥离依从衰减，精准还原真实参与者的净增益；但依赖不可直接检验的排除限制假设。 |
+> | **依从者平均因果效应（CACE / LATE）** | 全样本纳入，以随机分配作为[[Instrumental Variables\|工具变量]]进行两阶段估计 | **数学矫正保持**，依赖单调性与排他性约束假设 | 潜在依从者因果效应（Complier Average Causal Effect） | 剥离依从衰减，精准还原真实参与者的净增益；但依赖不可直接检验的排除限制假设。 |
 
 > [!method-stack] 方法层级
 > - **研究设计** 双臂或[[Multi-Arm Trial\|多臂随机对照试验]]（[[Randomised Controlled Trials\|RCT]]）、整群随机对照试验（[[Cluster Randomized Trials\|Cluster RCT]]）、[[Factorial Design\|析因实验]]设计。
@@ -199,7 +201,7 @@ updated: 2026-10-29
 >   - 需要向政策制定者、行政管理者提供真实田野预期回报的评估报告（[[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016]]）。
 >   - 申报[[Educational Evidence Clearinghouses\|证据清算中心]]高等级认证的严格因果实证研究（[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024]]）。
 > - **谨慎使用**
->   - 早期原型测试（Feasibility / Pilot Stage）与探索性机制试验。在此阶段方案尚未成熟，实施障碍极多，若单纯汇报 [[Initial Teacher Training\|ITT]] 可能过早将具有潜力的创新方案否定。
+>   - 早期原型测试（Feasibility / Pilot Stage）与探索性[[Mechanism Experiments|机制试验]]。在此阶段方案尚未成熟，实施障碍极多，若单纯汇报 [[Initial Teacher Training\|ITT]] 可能过早将具有潜力的创新方案否定。
 >   - 存在极高非依从率或大规模交叉污染的现实试验，此时必须联合使用 [[Complier Average Causal Effect\|CACE]] 和实施过程分析进行多重视角报告。
 > - **不适合使用**
 >   - 纯粹探讨人类认知加工极限或生物物理机理的基础心理学实验室研究（此类研究追求在严格依从条件下的机制因果验证，无需承担政策推广可获得性解释）。

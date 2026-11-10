@@ -8,7 +8,7 @@ summary: "源自治疗领域的访谈方法，受访者负责启动和引导访�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Emergence]]"
+  - "[[Research Tool]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 ---
@@ -78,7 +79,7 @@ updated: 2026-10-29
 
 > [!method-fit] 适用判断
 > - **适合使用** 获取深层态度和感知而不受访谈者偏差污染时；治疗和研究交叉的领域；探索个人意义和情感体验。
-> - **谨慎使用** 作为纯粹研究工具时存在局限——受访者启动访谈（而非研究者），受访者主要动机是缓解症状而非提供信息，访谈者是帮助来源而非信息获取者，无话题限制（Madge, 1965）。
+> - **谨慎使用** 作为纯粹[[Research Tool|研究工具]]时存在局限——受访者启动访谈（而非研究者），受访者主要动机是缓解症状而非提供信息，访谈者是帮助来源而非信息获取者，无话题限制（Madge, 1965）。
 > - **不适合使用** 需要结构化数据收集和跨个案比较的研究；研究者需要在有限时间内获取特定信息时。
 
 ---

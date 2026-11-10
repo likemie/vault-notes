@@ -10,9 +10,9 @@ subtype: organization
 region: denmark
 fact_region: "denmark"
 fact_kind: "organization"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 18
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: independent-public-evaluation-agency
 headquarters: Copenhagen, Denmark
@@ -22,22 +22,45 @@ tags:
   - theme/educational-evaluation
   - theme/differentiated-instruction
   - theme/quality-assurance
+related_concepts:
+  - "[[Evaluation Research]]"
+  - "[[Scientific Method]]"
+  - "[[Document]]"
+  - "[[Differentiated Instruction]]"
+  - "[[Individualised Instruction]]"
+  - "[[Evidence-Based Policy-Making]]"
+  - "[[Output-Oriented Governance]]"
+  - "[[Construct]]"
+related_methods:
+  - "[[Questionnaire]]"
+  - "[[In-depth Interview]]"
+  - "[[Mixed Methods Research]]"
+related_instruments:
+  - "[[Framework for Teaching]]"
+related_facts:
+  - "[[Nationale test]]"
+  - "[[Danish Public School Reform]]"
+  - "[[Danish School Council]]"
+  - "[[Danish National Centre for Social Research]]"
+  - "[[POLNET]]"
+related_arguments:
+  - "[[Argument_Volmari_2025_CE]]"
 confidence: high
 status: active
 created: 2026-11-09
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定位
-> 丹麦评估研究所（Danmarks Evalueringsinstitut, EVA）是依据丹麦议会专项立法设立的独立国家级公共教育评估机构。研究所覆盖从学前教育、基础教育公立学校（Folkeskole）、中等职业教育到高等教育与成人学习的全学段体系，致力于通过系统化评估与实证研究保障并提升丹麦国家教育质量。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 534, 547)]]
+> 丹麦[[Evaluation Research|评估研究]]所（Danmarks Evalueringsinstitut, EVA）是依据丹麦议会专项立法设立的独立国家级公共教育评估机构。研究所覆盖从学前教育、基础教育公立学校（Folkeskole）、中等职业教育到高等教育与成人学习的全学段体系，致力于通过系统化评估与实证研究保障并提升丹麦国家教育质量。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 534, 547)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 设立于 1999 年，整合既有高等教育与中小学分散评估职能，确立全国统一、跨学段独立的循证质量保证与督导机制。
 > - **总部地点 / 业务辐射** 总部设于丹麦哥本哈根，业务网络覆盖丹麦全国所有日托中心、基础教育学校、文法高中、职业学院与综合大学。
 > - **法人属性与经费基础** 属于依法运营的独立公共评估机构，享有业务裁量独立性，主要经费由丹麦中央财政拨款保障。
-> - **核心宗旨与法定职责** 开展基于实证证据与科学方法的教育评估，向教育部、市镇当局与各级学校提供关于教学法改进、学校组织运作与学习成效的客观评估成果。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 534)]]
+> - **核心宗旨与法定职责** 开展基于实证证据与[[Scientific Method|科学方法]]的教育评估，向教育部、市镇当局与各级学校提供关于教学法改进、学校组织运作与学习成效的客观评估成果。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 534)]]
 
 ---
 
@@ -47,21 +70,21 @@ updated: 2026-11-09
 > - **多学段业务中心** 分别设立日托与初等教育、职业教育与培训、高等教育评估专职业务部门，确保学段针对性。
 
 > [!pathways] 评估规程与循证研发
-> - **多源数据整合评估** 结合问卷调查、深度访谈、课堂现场观察与微观学业测试数据，实施混合方法系统诊断。
+> - **多源数据整合评估** 结合[[Questionnaire|问卷调查]]、[[In-depth Interview|深度访谈]]、课堂现场观察与微观学业测试数据，实施[[Mixed Methods Research|混合方法]]系统诊断。
 > - **教学法原则专项研制** 针对国家重点推进的教学法改革开展专题评估，提供可操作的实务指南与模式提炼。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 534, 547)]]
-> - **政策合法化支持** 丹麦教育部在筹划重大法案时，直接将 EVA 产出的实证评估报告作为论述干预方案可行性的核心文献。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 534, 536, 539)]]
+> - **政策合法化支持** 丹麦教育部在筹划重大法案时，直接将 EVA 产出的实证评估报告作为论述干预方案可行性的核心[[Document|文献]]。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 534, 536, 539)]]
 
 ---
 
 > [!finding-cards] 核心评估成果
-> - **差异化教学专题评估（2011）** 《差异化教学作为核心教学原则》（*Undervisningsdifferentiering som bærende pædagogisk princip*），系统评估公立学校在混合能力班级中推行分层个性化教学的现实阻力与有效策略，成为丹麦 2014 公立学校改革提案正式引证的 4 份核心政策文献之一。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 534, 547)]]
-> - **全国公立学校全景评估** 周期性产出针对丹麦国家测试、双语儿童教学融入与全日制延长学时实施状况的综合追踪报告。
+> - **差异化教学专题评估（2011）** 《[[Differentiated Instruction|差异化教学]]作为核心教学原则》（*Undervisningsdifferentiering som bærende pædagogisk princip*），系统评估公立学校在混合能力班级中推行分层[[Individualised Instruction|个性化教学]]的现实阻力与有效策略，成为丹麦 2014 公立学校改革提案正式引证的 4 份核心政策文献之一。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 534, 547)]]
+> - **全国公立学校全景评估** 周期性产出针对[[Nationale test|丹麦国家测试]]、双语儿童教学融入与全日制延长学时实施状况的综合追踪报告。
 
 ---
 
 > [!indicators] 辐射影响
-> - **教学法规范确立** 其倡导的差异化教学框架被丹麦教育部全盘吸纳为 2014 年新法案指导一线课堂教学的基础原则。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 534)]]
-> - **核心引文渗透** 在丹麦公立学校改革官方文献中，EVA 的实证调查报告构成同行评议期刊成果之外最核心的专业证据来源。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 535)]]
+> - **教学法规范确立** 其倡导的差异化[[Framework for Teaching|教学框架]]被丹麦教育部全盘吸纳为 2014 年新法案指导一线课堂教学的基础原则。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 534)]]
+> - **核心引文渗透** 在[[Danish Public School Reform|丹麦公立学校改革]]官方文献中，EVA 的实证调查报告构成同行评议期刊成果之外最核心的专业证据来源。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 535)]]
 
 ---
 
@@ -79,7 +102,7 @@ updated: 2026-11-09
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Evidence-Based Policy-Making]] | Concept | 机构评估使命所依从的循证治理构念。 |
+> | [[Evidence-Based Policy-Making]] | Concept | 机构评估使命所依从的[[Output-Oriented Governance\|循证治理]][[Construct\|构念]]。 |
 > | [[Differentiated Instruction]] | Concept | 机构 2011 核心评估报告系统检验并确立为公立学校核心原则的教学法构念。 |
 > | [[Evaluation Research]] | Concept | 机构开展全学段业务的核心方法学与制度范畴。 |
 > | [[Danish Public School Reform]] | Fact (Policy) | 机构 2011 差异化教学报告作为核心引证支撑文献服务的丹麦国家改革法案。 |

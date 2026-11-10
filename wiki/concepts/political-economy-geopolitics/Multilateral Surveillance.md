@@ -7,7 +7,7 @@ aliases:
 summary: "指主权国家之间或在国际组织框架下，通过制度化、常态化的信息披露、跨国数据收集、相互审议与横向监控机制，对各成员国的政策制定与执行进行全方位监督与评估的软法治理机制；它通过建构透明度预期与政策解释义务，形成超越传统主权管辖的跨国政策协调与合规网络，无需依赖硬性法律制裁。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,6 +19,7 @@ tags:
   - accountability
   - international-relations
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Peer Pressure]]"
   - "[[Institutional Displacement]]"
   - "[[Knowledge-Based Economy]]"
@@ -54,13 +55,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Multilateral Surveillance
-> **多边监督（Multilateral Surveillance）** 指主权国家之间在多边国际组织（如[[OECD|经合组织]]、[[International Monetary Fund|国际货币基金组织]]与[[World Bank|世界银行]]）制度框架内，通过常态化的信息通报、跨国统计数据采集、国别政策审查与多边同行辩论，对各成员国政策制定与实施效果开展系统性监督、对标与评估的软法治理机制。根据科斯廷·马滕斯等学者（Kerstin Martens et al., 2004, p. 15）与经合组织官方治理报告（OECD, 1998），在国际组织缺乏对成员国进行强制立法的宪制权威与硬性借贷惩罚手段时，多边监督构成了国际组织实施有效政策引导的关键支柱；它通过建构政策透明度的制度预期，迫使成员国向国际共同体就其国内政策做出合理解释与正当性辩护，并接受同侪审议。在跨国教育政策演进中，多边监督逐步从战后初期的自愿质性审查，发展为依托跨国统一数据指标与联赛排名的量化监测体系，成为实现远处掌舵的基础制度通道。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440, 442, 446)]]
+> **多边监督（Multilateral Surveillance）** 指主权国家之间在多边国际组织（如[[OECD|经合组织]]、[[International Monetary Fund|国际货币基金组织]]与[[World Bank|世界银行]]）制度框架内，通过常态化的信息通报、跨国统计数据采集、国别政策审查与多边同行辩论，对各成员国政策制定与实施效果开展系统性监督、对标与评估的软法治理机制。根据科斯廷·马滕斯等学者（Kerstin Martens et al., 2004, p. 15）与经合组织官方治理报告（OECD, 1998），在国际组织缺乏对成员国进行强制立法的宪制权威与硬性借贷惩罚手段时，多边监督构成了国际组织实施有效政策引导的关键支柱；它通过建构政策透明度的制度预期，迫使成员国向国际共同体就其国内政策做出合理解释与正当性辩护，并接受同侪审议。在[[Transnational Education|跨国教育]]政策演进中，多边监督逐步从战后初期的自愿质性审查，发展为依托跨国统一数据指标与联赛排名的量化监测体系，成为实现远处掌舵的基础制度通道。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440, 442, 446)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向在超国家或多边层面制度化建立的跨国政策信息汇集、相互审视与持续对标监控架构。

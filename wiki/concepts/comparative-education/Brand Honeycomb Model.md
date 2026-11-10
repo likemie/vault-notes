@@ -9,7 +9,7 @@ aliases:
 summary: "日本电通集团构建的品牌识别操作模型，将品牌识别解构为核心价值、象征符号、权威基础、情感利益、功能利益、个性与理想顾客七项互联要素；在比较教育与教育外交研究中被改造为解析主权国家如何将卓越公共教育声誉转化为国家战略品牌的分析支架。"
 type: concept
 domain: "comparative-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,30 +19,31 @@ tags:
   - theme/nation-branding
   - public-diplomacy
 related_concepts:
+  - "[[Public Diplomacy]]"
+  - "[[Competitiveness]]"
   - "[[Nation Branding]]"
   - "[[Education Export]]"
-  - "[[Analytic Framework]]"
   - "[[Finnish Paradoxes]]"
 related_theories:
   - "[[Integrated Marketing Communications Theory]]"
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Education Finland]]"
-  - "[[Finnish Country Brand Report]]"
+  - "[[Dimensions]]"
 related_arguments:
   - "[[Argument_Yang_2023_ICE]]"
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Brand Honeycomb Model
-> 日本电通集团（Dentsu）研发的品牌识别系统操作模型，通过蜂窝状网状结构整合核心价值、象征符号、权威基础、情感利益、功能利益、个性与理想顾客七个相互关联的基本要素。在主权国家形象与教育公共外交研究中，该模型被跨学科引入并重组为四维分析框架，用以解构国家如何将公共服务成就系统包装为具有全球竞争力的战略资产。[[Argument_Yang_2023_ICE|(杨明全和邓丽, 2023, p. 4)]]
+> 日本电通集团（Dentsu）研发的品牌识别系统操作模型，通过蜂窝状网状结构整合核心价值、象征符号、权威基础、情感利益、功能利益、个性与理想顾客七个相互关联的基本要素。在主权国家形象与教育[[Public Diplomacy|公共外交]]研究中，该模型被跨学科引入并重组为四维[[Analytic Framework|分析框架]]，用以解构国家如何将公共服务成就系统包装为具有全球[[Competitiveness|竞争力]]的战略资产。[[Argument_Yang_2023_ICE|(杨明全和邓丽, 2023, p. 4)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指将品牌身份认同从单一标签细化为多要素网状共生关系的结构化识别模型。
@@ -52,7 +53,7 @@ updated: 2026-11-10
 > [!citation-card|notitle] 关键表述
 > 日本电通蜂窝模型……将品牌识别的七个基本要素整合在一个蜂窝状的网络中，这七个基本要素包括核心价值、象征符号、权威基础、情感利益、功能利益、个性、理想顾客。蜂窝模型突出的是各种要素的关联性与综合性……基于这一模型，本研究将品牌识别的七个基本要素整合为四个基本要素，即核心价值、客观属性、利益特征、个性特征，由此搭建起分析芬兰教育品牌建构的基本框架。[[Argument_Yang_2023_ICE|(杨明全和邓丽, 2023, p. 4)]]
 >
-> *The Dentsu honeycomb model integrates seven basic elements of brand recognition into a honeycomb network... Based on this model, this study synthesizes these elements into four dimensions to establish an analytical framework for Finnish educational brand building.*
+> *The Dentsu honeycomb model integrates seven basic elements of brand recognition into a honeycomb network... Based on this model, this study synthesizes these elements into four [[Dimensions|dimensions]] to establish an analytical framework for Finnish educational brand building.*
 
 > [!boundary]- 概念边界
 > - 不等于单一的视觉识别系统（VIS）：蜂窝模型涵盖了深层的价值信念、功能效用、情感归属与权威背书，超越了单纯的徽标与色彩设计。
@@ -90,7 +91,7 @@ updated: 2026-11-10
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **要素整合假说** | 阐明多要素网状协同对树立稳定公共声誉的功能 | 国家品牌建构与跨学科教育传播分析 | 胡晓云、谢冰心；杨明全、邓丽 |
+> | **要素整合假说** | 阐明多要素网状协同对树立稳定公共声誉的功能 | [[Nation Branding\|国家品牌]]建构与跨学科教育传播分析 | 胡晓云、谢冰心；杨明全、邓丽 |
 
 ---
 

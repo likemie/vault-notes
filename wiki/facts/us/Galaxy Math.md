@@ -11,9 +11,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2010–至今"
 initiator_organization: "范德堡大学（Vanderbilt University）"
@@ -44,6 +44,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Jack Douglas]]"
+  - "[[Ben Levin]]"
 related_facts:
   - "[[United States Department of Education]]"
   - "[[Institute of Education Sciences]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -81,7 +82,7 @@ updated: 2026-10-26
 >   - **后半段：Galaxy 计算机游戏化自适应测练（15 分钟）** 儿童佩戴耳机在笔记本或平板上运行 Galaxy 游戏软件，在太空探索情境中以倒计时方式快速应答加减法题目，软件根据正确率自适应调整[[Item Analysis\|题目难度]]与重现间隔。
 > - **助教全程陪同与[[Scaffolding\|脚手架]]搭建** 助教并非离场，而在儿童遇到计算机测验卡点时即时介入，引导儿童调用前半段所学策略，防止产生盲目瞎猜。
 
-> [!citation-card] 斯莱文论 Galaxy Math 助教辅导的实证效能
+> [!citation-card] 斯[[Ben Levin|莱文]]论 Galaxy Math 助教辅导的实证效能
 > 在初等数学个别辅导领域，助教主导结合计算机技术的方案展现出强劲实效。例如在一年级实施的 Galaxy Math 项目，由教学助教开展 1:1 个别辅导，在严格[[Randomised Controlled Trials\|随机对照试验]]中取得了 +0.25 的学业[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）的强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *Galaxy Math, evaluated with [[Teaching Assistant|Teaching Assistants]] providing one-to-one tutoring in Grade 1, produced an effect size of +0.25, qualifying for the Strong rating under ESSA.*

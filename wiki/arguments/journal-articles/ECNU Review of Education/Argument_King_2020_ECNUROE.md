@@ -27,9 +27,12 @@ related_concepts:
   - "[[People-to-People Connectivity]]"
   - "[[Document]]"
   - "[[Paradigm]]"
+  - "[[Early-Career Researchers]]"
   - "[[Mutual Learning]]"
   - "[[Technology Transfer]]"
+  - "[[Study Abroad]]"
   - "[[Student Mobility]]"
+  - "[[Transnational Education]]"
   - "[[Classical Geopolitics]]"
   - "[[Community of Shared Future for Mankind]]"
 related_theories: []
@@ -56,14 +59,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-20
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_King_2020_ECNUROE"
 argument_key: "Argument_King_2020_ECNUROE"
 argument_display_title: "China–Africa education cooperation: From FOCAC to Belt and Road"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 26
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -194,7 +197,7 @@ issuing_organization: ""
 
 > [!policy-design] 《推进共建“一带一路”教育行动》顶层架构
 > - **政策目标** 推进区域教育互联互通、搭建[[People-to-People Connectivity|民心相通]]桥梁、深化学历学位互认、共建跨国办学机构，构建一带一路教育共同体。
-> - **适用对象** 亚非欧共建国家教育部、高等院校、应用技术大学、职业教育机构、科研院所及青年学者。
+> - **适用对象** 亚非欧共建国家教育部、高等院校、应用技术大学、职业教育机构、科研院所及[[Early-Career Researchers|青年学者]]。
 > - **政策工具** 设立丝绸之路中国政府专项奖学金、实施丝路师资与专业联合培训计划、建立高校智库联盟、共建联合实验室与鲁班工坊。
 > - **协同机制** 实施部省共建机制，组织国内各省市与沿线国家缔结友好省份与友好城市，引导企业与社会资金参与多渠道筹资。
 
@@ -218,7 +221,7 @@ issuing_organization: ""
 > 3. **共建多边协同平台，强化战略科技联合研发**
 >    组建大学联盟与智库网络，在交通、能源、海洋等战略领域联合设立研究实验室与[[Technology Transfer|技术转移]]基地。
 
-> [!sub-claim] 2. 合作由单纯资助留学生转向产教协同，直接服务重大产业与基建项目
+> [!sub-claim] 2. 合作由单纯资助[[Study Abroad|留学]]生转向产教协同，直接服务重大产业与基建项目
 
 《推进共建“一带一路”教育行动》明确提出优化留学人员结构，并推动高水平职业教育伴随中资企业出海，实现教育与产业的深度融合。
 
@@ -229,7 +232,7 @@ issuing_organization: ""
 > - **多元化资金筹措渠道** 探索政府财政资金、商业金融贷款与企业社会投入相结合的教育支持机制。
 > - **地方省市结对协作网络** 发挥各省市地缘优势，推动地方高校与共建国家对口地区建立结对合作关系。
 
-这些措施使跨国教育合作跳出了单纯的人文学术交流，成为重大走廊经济建设中不可或缺的技能人才支撑。
+这些措施使[[Transnational Education|跨国教育]]合作跳出了单纯的人文学术交流，成为重大走廊经济建设中不可或缺的技能人才支撑。
 
 > [!case] 吉布提与埃及鲁班工坊产教协同出海案例
 > - **峰会承诺与规划对接** 2018 年中非合作论坛北京峰会承诺在非洲建设 10 所鲁班工坊，开启了中国高水平职业教育规模化出海的进程。

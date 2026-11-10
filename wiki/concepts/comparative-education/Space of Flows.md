@@ -5,7 +5,7 @@ aliases:
 summary: "Castells 提出的网络社会核心空间范畴，指允许社会实践在无需领土毗连的条件下同时发生的物质与电子网络安排；在全球教育治理中体现为由国际组织、跨国倡导网络与全球学术精英构成的去领土化政策空间，其通过操演性竞争生产高度抽象可塑的漂浮能指话语。"
 type: concept
 domain: "comparative-education"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -16,6 +16,7 @@ tags:
   - region/global
   - theory/castells
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Champ]]"
   - "[[Methodological Nationalism]]"
   - "[[Virtual World]]"
@@ -61,13 +62,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-15
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Space of Flows
-> **流动空间（Space of Flows）** 指由微电子电信与信息技术网络所支撑、“允许社会实践在无需领土毗连的条件下同时发生的物质安排”（Castells, 2000b, p. 19；[[Argument_Beech_2009_CE|Beech, 2009a, p. 349]]；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 350]]）。流动空间将社会实践从传统的地理“地方”中脱嵌（Dislocation of space from place），构成了[[Network Society|网络社会]]中主导性功能、资本流动与权力运作的物质基础；在跨国教育[[Champ|场域]]中，它体现为由国际组织（[[OECD]]、[[World Bank|世界银行]]、[[UNESCO]]）、跨国咨询顾问、全球学术网络与智库构成的去领土化政策空间。
+> **流动空间（Space of Flows）** 指由微电子电信与信息技术网络所支撑、“允许社会实践在无需领土毗连的条件下同时发生的物质安排”（Castells, 2000b, p. 19；[[Argument_Beech_2009_CE|Beech, 2009a, p. 349]]；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 350]]）。流动空间将社会实践从传统的地理“地方”中脱嵌（Dislocation of space from place），构成了[[Network Society|网络社会]]中主导性功能、资本流动与权力运作的物质基础；在[[Transnational Education|跨国教育]][[Champ|场域]]中，它体现为由国际组织（[[OECD]]、[[World Bank|世界银行]]、[[UNESCO]]）、跨国咨询顾问、全球学术网络与智库构成的去领土化政策空间。
 
 > [!concept-lens] 概念透镜
 > - **含义** 信息技术网络所组织的同时性社会实践空间，由电子通信、战略性全球枢纽节点（如巴黎、华盛顿）与跨国精英管理阶层共同构成。

@@ -10,7 +10,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -24,45 +24,47 @@ tags:
   - theme/assessment
   - theme/accountability
 related_concepts:
-  - "[[Evidence-Based Education]]"
-  - "[[Academic Achievement]]"
-  - "[[Personalized Learning]]"
-  - "[[New Public Management]]"
+  - "[[Educational Brokerage Agency]]"
+  - "[[Educational Decentralization]]"
+  - "[[Computerized Adaptive Testing]]"
+  - "[[Curriculum Connection]]"
+  - "[[Teacher Collaboration]]"
+  - "[[Creativity]]"
+  - "[[School Choice]]"
 related_theories: []
-related_methods:
-  - "[[Randomised Controlled Trials]]"
+related_methods: []
 related_instruments: []
-related_persons:
-  - "[[David Gonski]]"
+related_persons: []
 related_facts:
   - "[[Australian Curriculum]]"
-  - "[[NAPLAN]]"
   - "[[Melbourne Declaration]]"
-  - "[[Gonski 2.0]]"
+  - "[[NAPLAN]]"
+  - "[[My School Website]]"
   - "[[Educational Services Australia]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
+  - "[[Gonski 2.0]]"
   - "[[Australian Education Research Organisation]]"
 related_arguments:
-  - "[[Argument_Sarbiewska_2019_KiW]]"
   - "[[Argument_Verger_2019_Discourse]]"
-  - "[[Argument_Bouckaert_2023_OECD]]"
+  - "[[Argument_Sarbiewska_2019_KiW]]"
   - "[[Argument_Skourdoumbis_2024_AER]]"
+  - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定位
-> 依据联邦立法设立的澳大利亚国家法定教育中介机构，承担国家课程研发、全国统一学业测评与全澳学校绩效数据汇聚三位一体的法定职能，是推动全澳联邦教育分权体制向国家统一标准与循证审计转型的制度核心（[[Argument_Verger_2019_Discourse|Verger et al., 2019, p. 259]]；[[Argument_Sarbiewska_2019_KiW|Sarbiewska, 2019, p. 128]]）。
+> 依据联邦立法设立的澳大利亚国家法定[[Educational Brokerage Agency|教育中介机构]]，承担国家课程研发、全国统一学业测评与全澳学校绩效数据汇聚三位一体的法定职能，是推动全澳联邦[[Educational Decentralization|教育分权]]体制向国家统一标准与循证审计转型的制度核心（[[Argument_Verger_2019_Discourse|Verger et al., 2019, p. 259]]；[[Argument_Sarbiewska_2019_KiW|Sarbiewska, 2019, p. 128]]）。
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 2008 年 12 月由澳大利亚联邦议会通过《2008年澳大利亚课程、评估与报告局法案》（ACARA Act 2008）正式批准设立，直接响应《[[Melbourne Declaration|墨尔本宣言]]》确立的全国统一教育卓越与公平目标。
+> - **成立时间 / 创设背景** 2008 年 12 月由澳大利亚联邦议会通过《2008年[[Australian Curriculum|澳大利亚课程]]、评估与报告局法案》（ACARA Act 2008）正式批准设立，直接响应《[[Melbourne Declaration|墨尔本宣言]]》确立的全国统一教育卓越与公平目标。
 > - **总部地点 / 业务辐射** 总部设于悉尼，法定管辖与业务服务范围覆盖全澳八个州和领地的公立学校、天主教教育系统及独立学校系统。
 > - **法人属性与经费基础** 独立的联邦法人实体（Corporate Commonwealth Entity），运营经费由澳大利亚联邦政府（50%）与各州/领地政府（合计 50%）共同出资分担。
-> - **核心宗旨与法定职责** 研制并维护国家级《[[Australian Curriculum|澳大利亚课程]]》；主导实施全国读写与算术统考（[[NAPLAN]]）；管理汇聚全国基础教育数据并运营“我的学校”（My School）信息公开网站。
+> - **核心宗旨与法定职责** 研制并维护国家级《[[Australian Curriculum|澳大利亚课程]]》；主导实施全国读写与算术统考（[[NAPLAN]]）；管理汇聚全国基础教育数据并运营“我的学校”（[[My School Website|My School]]）信息公开网站。
 
 ---
 
@@ -81,13 +83,13 @@ updated: 2026-11-10
 > 
 >   - **2014** 联邦政府委托开展国家课程审查，确认存在学科内容堆叠与“课程过载”（overcrowded curriculum）问题（[[Argument_Sarbiewska_2019_KiW|Sarbiewska, 2019, p. 128]]）。
 >   - **2015** 3 月各州教育部长商定精简方案，ACARA 组织全澳骨干小学教师与专家协作研讨，优化重构初等教育课程结构。
->   - **2015–2018** 与[[Educational Services Australia|澳大利亚教育服务社]]（ESA）及[[Australian Institute for Teaching and School Leadership|AITSL]]深化底层技术与中介网络协同，构建全国教师与课标数字化基础设施（[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]]）。
+>   - **2015–2018** 与澳大利亚教育服务社（[[Educational Services Australia|ESA]]）及[[Australian Institute for Teaching and School Leadership|AITSL]]深化底层技术与中介网络协同，构建全国教师与课标数字化基础设施（[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]]）。
 > 
 > - **2019–至今** **大纲第九版优化与全数字化统测**
 > 
->   推进 NAPLAN 全面在线自适应化（Online Adaptive Testing），完成全科大纲系统性精简与教学论重塑。
+>   推进 NAPLAN 全面在线自适应化（Online [[Computerized Adaptive Testing|Adaptive Testing]]），完成全科大纲系统性精简与教学论重塑。
 > 
->   - **2022** 正式发布精简优化后的第九版《[[Australian Curriculum|澳大利亚课程]]》（Version 9.0），强化核心概念深度与跨学科课程连接。
+>   - **2022** 正式发布精简优化后的第九版《[[Australian Curriculum|澳大利亚课程]]》（Version 9.0），强化核心概念深度与跨学科[[Curriculum Connection|课程连接]]。
 
 ---
 
@@ -115,13 +117,13 @@ updated: 2026-11-10
 > [!debates] 核心争议交锋
 > 
 > > [!axis] 课程过载与地方校本自主权张力
-> > 批评意见指出全国统一课标过分强调详细的知识点规定，导致基层学校面临严重的“课业拥挤”与课时不足；ACARA 则通过引入教师协作精简大纲并明确界定各校自主设计教学计划的裁量权，平衡国家严密性与校本弹性（[[Argument_Sarbiewska_2019_KiW|Sarbiewska, 2019, p. 128]]）。
+> > 批评意见指出全国统一课标过分强调详细的知识点规定，导致基层学校面临严重的“课业拥挤”与课时不足；ACARA 则通过引入[[Teacher Collaboration|教师协作]]精简大纲并明确界定各校自主设计教学计划的裁量权，平衡国家严密性与校本弹性（[[Argument_Sarbiewska_2019_KiW|Sarbiewska, 2019, p. 128]]）。
 > > 
-> > - **批评视角** 一线教师与教育工会认为过细的细目规定限制了教学创造力，加剧了基层课业负担。
+> > - **批评视角** 一线教师与教育工会认为过细的细目规定限制了教学[[Creativity|创造力]]，加剧了基层课业负担。
 > > - **机构立场** ACARA 强调统一国家基准是保障弱势群体教育公平的基础，并在修订中持续赋予学校校本裁剪空间。
 > 
 > > [!axis] 公开排名与新自由主义竞争争议
-> > My School 平台公开学校横向数据引发加剧学校间不当竞争、促使中产家庭择校外流及应试教学窄化课程的广泛批评；官方与支持者则坚持公共资金资助的学校必须接受公众透明度审计与学业成效问责（[[Argument_Verger_2019_Discourse|Verger et al., 2019, p. 259]]）。
+> > My School 平台公开学校横向数据引发加剧学校间不当竞争、促使中产家庭[[School Choice|择校]]外流及应试教学窄化课程的广泛批评；官方与支持者则坚持公共资金资助的学校必须接受公众透明度审计与学业成效问责（[[Argument_Verger_2019_Discourse|Verger et al., 2019, p. 259]]）。
 > > 
 > > - **外部批判视角** 学者指出简单发布横向比对数据强化了教育市场化与阶层分化。
 > > - **官方问责视角** 监管机构强调基于 ICSEA 指数的同类校比对有助于精准识别教学改进空间。

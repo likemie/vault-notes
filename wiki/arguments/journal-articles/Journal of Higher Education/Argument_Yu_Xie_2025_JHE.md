@@ -32,6 +32,7 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Epistemic Coloniality]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Scientific Mobility]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Discourse]]"
   - "[[Cultural Diplomacy]]"
@@ -39,6 +40,7 @@ related_concepts:
   - "[[Cosmopolitanism]]"
   - "[[Global Citizenship]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Nationalism]]"
   - "[[Champ]]"
   - "[[Scale in Higher Education]]"
   - "[[Geopolitical Subject]]"
@@ -55,10 +57,12 @@ related_concepts:
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[STEM Education]]"
   - "[[International Branch Campus]]"
+  - "[[Study Abroad]]"
   - "[[Academic Freedom]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Hard Power]]"
   - "[[Knowledge Power]]"
+  - "[[Transnational Education]]"
   - "[[Policy Network]]"
   - "[[Community of Shared Future for Mankind]]"
   - "[[Relational Space]]"
@@ -71,6 +75,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Literature Review]]"
   - "[[Operationalization]]"
+  - "[[Cumulative Innovation]]"
 related_theories:
   - "[[Governmentality]]"
   - "[[Critical Geopolitics]]"
@@ -80,6 +85,7 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
 related_persons:
+  - "[[Harry S. Truman]]"
   - "[[Philip Altbach]]"
   - "[[Jürgen Habermas]]"
 related_facts:
@@ -91,6 +97,7 @@ related_facts:
   - "[[EU]]"
   - "[[Xiamen University Malaysia]]"
   - "[[Academic Ranking of World Universities]]"
+  - "[[Web of Science]]"
   - "[[Belt and Road Initiative]]"
   - "[[Asian Universities Alliance]]"
   - "[[University Alliance of the Silk Road]]"
@@ -102,16 +109,16 @@ sources:
 part_of:
 status: draft
 created: 2026-06-26
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Yu_Xie_2025_JHE"
 argument_key: "Argument_Yu_Xie_2025_JHE"
 argument_display_title: "空间、权力与高等教育：地缘政治视角下的高等教育研究"
 argument_kind: "journal-article"
-argument_related_count: 75
-argument_related_level: 7
-argument_related_stars: "💎💎⭐"
+argument_related_count: 82
+argument_related_level: 8
+argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
 journal: "高等教育研究"
 ---
@@ -137,7 +144,7 @@ journal: "高等教育研究"
 > | **认识论殖民**<br>[[Epistemic Coloniality]] | 揭示全球知识体系以欧洲中心主义[[Epistemology\|认识论]]为基础，通过学术语言、量化评估标准和西方理论[[Paradigm\|范式]]构建排他性知识规则系统。用于分析排名、出版平台和科学语言如何维系[[Geopolitics of Knowledge\|知识地缘政治]]中的西方中心秩序。 |
 
 > [!warrant]- 理论如何支撑论证
-> 该文不是用单一理论框架去分析经验材料，而是以空间与权力的关系为组织线索，将[[Geopolitics|地缘政治理论]]自身的范式演变作为分析对象，梳理[[Classical Geopolitics\|传统地缘政治]]与新地缘政治在[[Ontology\|本体论]]上的分化如何影响对高等教育角色（客体、载体还是行动者）的理解。空间生产理论的三元维度（物质性、表征性、关系性）为整合四项关键议题（人的培养、知识生产、学术流动、跨境合作）提供了统一的分析视角。
+> 该文不是用单一理论框架去分析经验材料，而是以空间与权力的关系为组织线索，将[[Geopolitics|地缘政治理论]]自身的范式演变作为分析对象，梳理[[Classical Geopolitics\|传统地缘政治]]与新地缘政治在[[Ontology\|本体论]]上的分化如何影响对高等教育角色（客体、载体还是行动者）的理解。空间生产理论的三元维度（物质性、表征性、关系性）为整合四项关键议题（人的培养、知识生产、[[Scientific Mobility|学术流动]]、跨境合作）提供了统一的分析视角。
 
 ---
 
@@ -208,7 +215,7 @@ journal: "高等教育研究"
 >
 > - **冷战时期（1945–1991）：高等教育作为国家战略的附属工具**
 >
->   二战结束后，国际秩序重建，阵营对抗加剧，地缘政治从以军事冲突与领土争夺为主的热战转向长期的意识形态竞争与制度优越性竞赛。随着铁幕演说、杜鲁门主义以及马歇尔计划的推进，大学被纳入外交、国家安全与科学竞赛之中，成为左右民意和争夺盟友的重要战场。
+>   二战结束后，国际秩序重建，阵营对抗加剧，地缘政治从以军事冲突与领土争夺为主的热战转向长期的意识形态竞争与制度优越性竞赛。随着铁幕演说、[[Harry S. Truman|杜鲁门]]主义以及马歇尔计划的推进，大学被纳入外交、国家安全与科学竞赛之中，成为左右民意和争夺盟友的重要战场。
 >
 >   美苏双方在学术流动与跨境合作中投入大量资源，以输出各自的意识形态与发展模式：
 >   - 美国通过[[Fulbright Program\|富布莱特计划]]将高等教育打造成推广自由主义民主与市场经济的关键渠道
@@ -235,7 +242,7 @@ journal: "高等教育研究"
 >
 >   以2016年英国脱欧及随后特朗普当选美国总统为象征性节点，自由主义主导的全球化模式开始结构性调整，国家主权与安全议题重新回到各国政治经济活动的核心位置。这一时期的地缘政治呈现四个特征：
 >   - 大国竞争的回归
->   - 技术民族主义的制度化
+>   - 技术[[Nationalism|民族主义]]的制度化
 >   - 跨国流动的安全化
 >   - 全球治理机制的碎片化
 >
@@ -350,7 +357,7 @@ journal: "高等教育研究"
 ---
 
 > [!evidence-grid] 挑战既有认知秩序的制度创新
-> - **中国的破唯政策** 中国近年来出台多项政策，提出破除唯SCI或SSCI的导向，强调科研质量与社会价值导向，鼓励人文社会科学聚焦国家发展中的现实问题。许多高校也开始将中文成果纳入核心考核指标，以在全球性象征体系中为本土语言谋求合法性地位。
+> - **中国的破唯政策** 中国近年来出台多项政策，提出破除唯[[Web of Science|SCI]]或SSCI的导向，强调科研质量与社会价值导向，鼓励人文社会科学聚焦国家发展中的现实问题。许多高校也开始将中文成果纳入核心考核指标，以在全球性象征体系中为本土语言谋求合法性地位。
 > - **哈萨克斯坦纳扎尔巴耶夫大学** 哈萨克斯坦创办了具有自主治理结构的新型高校（纳扎尔巴耶夫大学），试图通过制度创新提升本国高校在全球知识体系分层结构中的位置，减弱对欧美研究模式的[[Path Dependence|路径依赖]]。类似的改革也出现在沙特等国。
 > - **区域学术出版平台** 以拉丁美洲、非洲和南亚为代表的多个地区性学术社群，开始积极推动建立本土主导的学术出版平台。这些平台强调使用本土语言、以区域问题为研究导向，并重视研究方法论的多样性，意图打破以英语、引用率和主流数据库为核心的知识流通路径。
 > - **去殖民视角的认识论反思** 米尼奥洛（W. Mignolo）主张以去殖民视角反转我思故我在，提出我在我思之处（I am where I think），指出知识并非无处不在的普遍理性，而是扎根于具体的空间、语境与身体经验之中的位置性实践。不少国家开始主张以南方社会的经验为基础重建社会科学知识体系，强调理论必须立足特定历史条件、地方实践与文化，反对北方知识所声称的普遍性。
@@ -381,7 +388,7 @@ journal: "高等教育研究"
 > 这些制度安排并非中性的，而是深度嵌入国家与区域的移民制度体系，参与国家的边界管理与人才流动治理，还在话语层面建构着何种流动是合法的、优先的与可控的，深刻影响了全球学术流动格局。
 
 > [!case] 加拿大高校：在自由话语与边境控制之间
-> 基于加拿大的研究分析了在其与中国、沙特等国家外交关系趋于紧张的背景下，高校如何一方面维持与这些国家的招生联系，另一方面配合国家移民与安全政策执行，参与对跨境学生的筛选与审查（Tannock, 2022）。尽管加拿大学界颇为强调自由与开放，但在政策层面，高校事实上协助国家通过数据监控、留学生管理等方式参与边境控制（Tannock, 2022）。
+> 基于加拿大的研究分析了在其与中国、沙特等国家外交关系趋于紧张的背景下，高校如何一方面维持与这些国家的招生联系，另一方面配合国家移民与安全政策执行，参与对跨境学生的筛选与审查（Tannock, 2022）。尽管加拿大学界颇为强调自由与开放，但在政策层面，高校事实上协助国家通过数据监控、[[Study Abroad|留学]]生管理等方式参与边境控制（Tannock, 2022）。
 
 > [!case] 英国高校工作人员：作为日常边境管理者
 > 基于英国的研究指出，高校的工作人员因承担对国际学生的出勤监管职责，逐步被卷入日常的边境管理工作，亦可被视为国家边界治理的执行者（Yu, 2024）。边境治理不再仅仅存在于国家边界或边检口岸，而是被嵌入高校的日常教学与管理中。在这一过程中，学校参与了对谁可以流动与如何合法流动的分类与规训，成为国家地缘战略的延伸。
@@ -445,7 +452,7 @@ journal: "高等教育研究"
 > 跨境高等教育合作为马来西亚在这些不同但交叠的领域施展地缘政治影响提供了重要支撑（p.12; Mok, 2022）。
 
 > [!case] 新加坡：可信节点策略与网络中心性
-> 新加坡国土面积较小，其策略是打造泛亚跨境教育合作网络中的节点，志在以占据网络中心性而非靠空间规模取胜。新加坡采取了双重策略：
+> 新加坡国土面积较小，其策略是打造泛亚[[Transnational Education|跨境教育]]合作网络中的节点，志在以占据网络中心性而非靠空间规模取胜。新加坡采取了双重策略：
 > - 致力于通过打造法律中立、文化兼容与制度可信的国家形象，把自身建构为一个全球与亚洲间要素流动的可信节点（trusted node）
 > - 高校及教育机构积极以跨境学研合作、官员培训与园区共建等方式输出新加坡配方，将跨境教育合作关系转化为议程设定、资格与课程标准的扩散，以此塑造合作方的政策能力与治理范式，在区域价值链与[[Policy Network\|政策网络]]中获得长期的议程影响力
 >
@@ -575,7 +582,7 @@ journal: "高等教育研究"
 ---
 
 > [!warning] 自述局限
-> 该文是一篇[[Literature Review\|文献综述]]，主要基于国际英文文献展开梳理和讨论，中文文献中的相关研究涉及较少。文中对各理论流派的概念和命题进行了系统介绍，但对具体经验研究案例的深入分析有限。论文提出的[[Space Production\|空间生产]]三元维度[[Analytic Framework\|分析框架]]尚属初步整合，其经验适用性和[[Operationalization\|操作化]]路径有待后续研究进一步检验和完善。
+> 该文是一篇[[Literature Review\|文献综述]]，主要基于国际英文文献展开梳理和讨论，中文文献中的相关研究涉及较少。文中对各理论流派的概念和命题进行了系统介绍，但对具体经验研究案例的深入分析有限。论文提出的[[Space Production\|空间生产]]三元维度[[Analytic Framework\|分析框架]]尚属初步整合，其经验适用性和[[Operationalization\|操作化]]路径有待[[Cumulative Innovation|后续研究]]进一步检验和完善。
 
 ---
 

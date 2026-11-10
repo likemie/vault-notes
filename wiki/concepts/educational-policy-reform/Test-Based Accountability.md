@@ -10,7 +10,7 @@ aliases:
 summary: "以学生标准化考试成绩评估、监督和规制学校与教师教学实践的制度安排，核心在于将评价结果制度化地与奖惩考核挂钩，是全球教育治理中的显著特征之一"
 type: concept
 domain: "educational-policy-reform"
-related_count: 57
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Professional Judgment]]"
   - "[[Self-Efficacy]]"
+  - "[[Lecturing]]"
   - "[[School Leadership]]"
   - "[[Performativity]]"
   - "[[School Autonomy]]"
@@ -57,6 +58,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Systematic Review]]"
   - "[[Transcription in Qualitative Research]]"
+  - "[[Statistical Significance]]"
   - "[[Likert Scale]]"
   - "[[Semi-structured Interview]]"
   - "[[Documentary Analysis]]"
@@ -86,7 +88,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -127,7 +129,7 @@ updated: 2026-11-03
 
 > [!feature] 核心要素
 > - **行政考评规则（Rules）** 自上而下下达统考提分目标，将绩效考核、年度评优及校长任期评估与卷面成绩直接挂钩。
-> - **教法与诊断工具（Mediating Tools）** 依托教师主导的讲授教学、刷题训练以及统考后的数据分析诊断工具。
+> - **教法与诊断工具（Mediating Tools）** 依托教师主导的[[Lecturing|讲授教学]]、刷题训练以及统考后的数据分析诊断工具。
 > - **数字化监测基础设施与算法指标（Digital Infrastructure & Algorithmic Indicators）** 依托集中式纵向学生数据仓库与早期预警算法系统，将标准化考试切分点、出勤率及学分达成度计算为量化风险等级，自动触发行政警报与督导问责。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 6–7)]]
 > - **高利害接管与生存制裁后果（High-Stakes Takeover & Severe Sanctions）** 将全州统考与表现指标未达标的学校划入低绩效等级，直接挂钩教育厅接管、领导层撤换、教职重组乃至关停并转的刚性惩戒后果。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 11)]]
 > - **教师与校长主体（Subject）** 在追求升学优异与保障学生社会流动的双重责任下，承受行政与社会问责压力。
@@ -248,7 +250,7 @@ updated: 2026-11-03
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] | 华北某区 4 所案例学校（2 城市、2 农村），4 位校长，9 位骨干教师，25 份访谈[[Transcription in Qualitative Research\|转录]]稿 | 质性[[Case Study\|案例研究]]与[[Third Generation Activity Theory\|活动理论]]模板分析 | 考试问责与教学改革系统 6 要素（规则、工具、分工等） | 城市一校（前 5%）与农村一校由于未调整考评规则与分工而陷入改革停滞；城市二校（优生率增长 10%）与农村二校（垫底校）通过重构观课规则与绩效加分，将改革绑定为高阶考题与课堂 45 分钟效率工具，实现扩展性改造 | 质性案例研究，无量化显著性检验 | 样本规模较小（4 校），田野窗口为 1 年，仅代表特定东亚考试文化情境 |
+> | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] | 华北某区 4 所案例学校（2 城市、2 农村），4 位校长，9 位骨干教师，25 份访谈[[Transcription in Qualitative Research\|转录]]稿 | 质性[[Case Study\|案例研究]]与[[Third Generation Activity Theory\|活动理论]]模板分析 | 考试问责与教学改革系统 6 要素（规则、工具、分工等） | 城市一校（前 5%）与农村一校由于未调整考评规则与分工而陷入改革停滞；城市二校（优生率增长 10%）与农村二校（垫底校）通过重构观课规则与绩效加分，将改革绑定为高阶考题与课堂 45 分钟效率工具，实现扩展性改造 | 质性案例研究，无量化[[Statistical Significance\|显著性检验]] | 样本规模较小（4 校），田野窗口为 1 年，仅代表特定东亚考试文化情境 |
 > | [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018, pp. 121–122, 129–132)]] | 英格兰 79 所小学的 696 名教师与[[School Leadership\|学校领导]]者 | 横断面基线[[Questionnaire\|问卷]]（五级[[Likert Scale\|李克特量表]]） | 问责框架下证据类型的分布与协作探究深度：学校是否用证据提示改进策略、是否经常讨论影响关键决策的潜在假设、是否设有正式分享论坛 | 79% 表示学校用研究与证据向教职工提示改进策略，82% 曾与同事讨论相关研究发现;但仅 55% 表示学校经常讨论影响关键决策的潜在假设（30% 不确定、14% 不同意），仅 61% 确认学校设有正式分享论坛 | — | 横断面自陈数据，只能显示问责环境下[[Research Utilization\|证据使用]]与探究深度的分布特征，不能确立问责压力与探究深度之间的[[Causality\|因果关系]] |
 > | [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019, pp. 11–14)]] | 美国马萨诸塞州（[[Massachusetts Department of Elementary and Secondary Education\|DESE]] 及相关公立学校）与德国汉堡（[[Institute for Educational Monitoring and Quality Improvement\|IfBQ]] 及相关学校），共 39 份[[Semi-structured Interview\|半结构化访谈]]与现场观察 | 比较[[Case Study\|案例研究]]与[[Documentary Analysis\|政策文本分析]] | 考试问责利害性（高利害接管 vs 低利害诊断）、[[Data Infrastructure\|数据基础设施]]流向与微观应对实践 | 高利害问责驱动了全校氛围问卷操纵、“劝退”边缘学生等数据烹饪，且促使行政部门设置防盗铁门以将问责人员隔离在支持工作之外；相比之下，低利害诊断模式虽避免了防御性造假，但导致基层对数据的利用率低，呈现出截然不同的组织动力学 | 质性深度案例研究，无统计推断 | 聚焦美德两个特定典型行政区，反映制度化极端的问责文化对照 |
 | [[Argument_Verger_2019_Discourse\|Verger et al. (2019, pp. 252–260)]] | 全球多个国家与地区（涵盖核心[[New Public Management\|新公共管理]]国家、[[Neo-Weberian State\|新韦伯主义国家]]及拿破仑传统国家）的教育治理改革文献 | [[Systematic Review\|系统文献综述]]（基于 Scopus 数据库与专家推荐） | 纳入 158 篇经过多阶段筛选的索引文献，以国别提取表聚合分析基于测验的问责制在不同行政传统下的采纳、分层化与演变轨迹 | 揭示出三种截然不同的政策轨迹：新公共管理市场化国家（英、美、智利）持续强化高利害行政与声誉问责；新韦伯主义国家（挪威、丹麦）经历声誉排位试水后主动回撤全国公开排名；拿破仑传统国家（意、西）则陷入断续停滞与党派轮替波动；同时实证揭示了测试商业利益集团对问责体制的[[Path Dependence\|锁定效应]] | 质性系统综述与[[Historical Institutionalism\|历史制度主义]]综合分析，无[[Meta-analysis\|元分析]]统计合并 | 依托已发表同行评议文献，对未被英文数据库充分索引的发展中国家经验覆盖受限 |

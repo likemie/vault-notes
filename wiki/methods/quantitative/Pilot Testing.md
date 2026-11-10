@@ -13,7 +13,7 @@ summary: "在正式数据收集或评估工具发布前，通过小规模试运�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 37
+method_related_count: 38
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Construct]]"
   - "[[Hawthorne Effect]]"
+  - "[[Big Science]]"
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
@@ -68,12 +69,12 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Stephan_2013_NBER]]"
   - "[[Argument_Azoulay_2011_RJE]]"
-  - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Heinze_2009_RP]]"
+  - "[[Argument_WorldBank_2019_Teach]]"
 confidence: high
 status: completed
 created: 2026-05-31
-updated: 2026-11-05
+updated: 2026-11-11
 ---
 
 ---
@@ -176,4 +177,4 @@ updated: 2026-11-05
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 记录全球课堂观察手册 Teach 历时两年的跨国预测试历程，详述通过预测试发现观察员认知过载并完成双轨架构重构的实践。
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 揭示科研同行评审对预实验数据的过度依赖如何诱发学术避险并形成创新进入壁垒。
 > - [[Argument_Azoulay_2011_RJE|Azoulay et al. (2011)]] — 对比 NIH 严格基于预实验初步数据考核与 [[Howard Hughes Medical Institute|HHMI]] 考察长期科研愿景的资助机制，实证分析解绑预实验刚性要求对颠覆性探索的激励效应。
-> - [[Argument_Heinze_2009_RP|Heinze et al. (2009)]] — 比较欧美 20 起重大科学突破，揭示竞争性课题立项对完备预实验数据的刚性要求如何将跨学科前沿探索排斥为“过度投机”，扼杀早期颠覆性萌芽（pp. 620–621）。
+> - [[Argument_Heinze_2009_RP|Heinze et al. (2009)]] — 比较欧美 20 起重[[Big Science|大科学]]突破，揭示竞争性课题立项对完备预实验数据的刚性要求如何将跨学科前沿探索排斥为“过度投机”，扼杀早期颠覆性萌芽（pp. 620–621）。

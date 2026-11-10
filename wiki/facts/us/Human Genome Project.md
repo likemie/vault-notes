@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Paradigm]]"
   - "[[Focused Research Organization]]"
+  - "[[Research Tool]]"
   - "[[Precompetitive Research]]"
   - "[[Grand Challenges]]"
 related_theories:
@@ -44,10 +45,11 @@ related_facts:
   - "[[National Science Foundation]]"
 related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
+  - "[[Argument_Thompson_et_al_2018_RP]]"
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-05
+updated: 2026-11-11
 ---
 
 ---
@@ -100,7 +102,7 @@ updated: 2026-11-05
 
 > [!debates] 核心争议
 >
-> > [!axis] 数据开源公地 vs 上游实验工具专利垄断
+> > [!axis] 数据开源公地 vs 上游[[Research Tool|实验工具]]专利垄断
 > > 围绕基因组测序数据与基础实验设备究竟应无条件公开还是允许实施商业排他许可产生分歧。
 > >
 > > - **开源公地派（《百慕大原则》）** 坚持测序数据 24 小时内向全社会开源，严禁对基础遗传序列申请排他性专利。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–45)]]

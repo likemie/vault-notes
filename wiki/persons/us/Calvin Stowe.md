@@ -13,7 +13,7 @@ summary: "19世纪北美圣经学者与教育改革家，受俄亥俄州议会�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ tags:
   - theme/educational-reform
 related_concepts:
   - "[[Document]]"
+  - "[[Transnational Education]]"
   - "[[Normal School]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Auslandspadagogik]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -64,7 +65,7 @@ updated: 2026-11-02
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国教育思想家、圣经文学教授、俄亥俄州教育考察专员；19 世纪前期美国公学运动在俄亥俄与中西部边疆各州的代表人物。
-> - **核心角色** 在 19 世纪大西洋两岸跨国教育流动中，斯托是北美将欧洲大陆（尤其是普鲁士与德意志各邦）国家主导的初等公学经验转化为美国州立立法动员力量的核心纽带。
+> - **核心角色** 在 19 世纪大西洋两岸[[Transnational Education|跨国教育]]流动中，斯托是北美将欧洲大陆（尤其是普鲁士与德意志各邦）国家主导的初等公学经验转化为美国州立立法动员力量的核心纽带。
 > - **代表贡献** 1837 年向俄亥俄州议会提交著名的《[[Report on Elementary Public Instruction in Europe\|欧洲初等公共教育报告]]》（*Report on Elementary Public Instruction in Europe*），极力倡导建立由州政府保障的世俗初等公学网络与专业化[[Normal School\|师范学校]]，在全美掀起跨州重印与立法借鉴浪潮。
 
 斯托在考察欧洲公共教育体制时，始终立足于为母州的公共教育建制寻找可资借鉴的成熟经验：

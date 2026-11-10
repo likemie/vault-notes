@@ -7,7 +7,7 @@ aliases:
 summary: "批判实在论的核心认识论命题与规范批判工具。由 Roy Bhaskar 提出并经 Andrew Collier 系统化，主张打破事实与价值、实然与应然的二元对立；当科学因果解释成功揭示出某种虚假信念或意识形态表象是由特定社会结构的客观机制所系统性生产与维系时，这项因果解释本身就在逻辑上构成了对该虚假信念及其背后压迫性结构的规范性批判与去合法化实践。"
 type: concept
 domain: "educational-philosophy"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Century of Humiliation]]"
   - "[[Grand Theory]]"
   - "[[Scientific Method]]"
+  - "[[Transnational Education]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Chain of Evidence]]"
   - "[[Education Going Global]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-19
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -136,7 +137,7 @@ updated: 2026-11-03
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **事实与价值贯通命题** | 因果解释揭示系统性虚假表象，在逻辑上直接导出对社会结构的规范批判 | 哲学[[Epistemology\|认识论]]、社会[[Scientific Method\|科学方法]]论基础争辩 | Roy Bhaskar; Andrew Collier |
-> | **政策话语解构命题** | 宏观权力机制与历史创伤阐明，直接破除官方文本的良性合法化修辞 | 批判政策分析、跨国高等教育治理与意识形态解构 | Norman Fairclough; Etienne Woo |
+> | **政策话语解构命题** | 宏观权力机制与历史创伤阐明，直接破除官方文本的良性合法化修辞 | 批判政策分析、[[Transnational Education\|跨国高等教育]]治理与意识形态解构 | Norman Fairclough; Etienne Woo |
 
 ---
 

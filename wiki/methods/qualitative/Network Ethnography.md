@@ -8,7 +8,7 @@ summary: "一种追踪全球化与网络化治理背景下政策流动的质性�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 34
+method_related_count: 35
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -47,6 +47,7 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Case Study]]"
   - "[[Discourse Analysis]]"
+  - "[[Record Linkage]]"
   - "[[Effect Size]]"
   - "[[Qualitative Observation]]"
 related_persons:
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 ---
@@ -113,7 +114,7 @@ updated: 2026-10-29
 > | 资料边界 | 跨越澳大利亚、英国、美国等跨国[[Policy Borrowing\|政策借用]]与资金转移网络；时间跨度纵贯 10 至 20 年。 |
 
 > [!proc] 质性分析程序
-> 1. 资料清洗与实体对齐：将跨国、跨机构的企业高管、基金会理事与政府官员姓名、职务及任期进行标准化匹配。
+> 1. 资料清洗与[[Record Linkage|实体对齐]]：将跨国、跨机构的企业高管、基金会理事与政府官员姓名、职务及任期进行标准化匹配。
 > 2. 关系编码与网络拓扑构建：依据资助关系、组织从属、咨询分包与立法引用建立关系矩阵。
 > 3. 制度考古与时间线重构：梳理立法演变、重大审查报告与机构成立的因果推移脉络。
 > 4. 结构与[[Discourse|话语]]互证：将客观商业法律档案与主观公关宣传、媒体访谈进行反差对质，揭示意识形态遮蔽机制。

@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 42
+fact_related_count: 43
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Embedded Researcher]]"
   - "[[Scientism]]"
   - "[[Technical Rationality]]"
+  - "[[Cumulative Innovation]]"
   - "[[Causality]]"
   - "[[Construct]]"
   - "[[Central Phenomenon]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -160,7 +161,7 @@ updated: 2026-11-02
 > > 学界对完全依赖教育部行政长官自我陈述反映全系统生态真实性的科学性质疑。
 > >
 > > - **批评观点** 官员自陈数据极易受行政修辞与政绩展示偏误影响，呈现的机制繁荣度可能遮蔽了一线学校教师在日常备课中遭遇的现实排斥与无力感。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 25)]]
-> > - **项目回应** 项目组通过跟进[[In-depth Interview\|深度访谈]]对关键概念口径展开审慎核验，并在后续研究中计划进一步拓宽至一线学校实践样本。
+> > - **项目回应** 项目组通过跟进[[In-depth Interview\|深度访谈]]对关键概念口径展开审慎核验，并在[[Cumulative Innovation|后续研究]]中计划进一步拓宽至一线学校实践样本。
 >
 > > [!axis] 组织活跃度评定的文化[[Heterogeneity\|异质性]]
 > > 调查中有意将组织活跃度设定为开放式量表，由各国部委依据本土情境主观裁量，可能包含跨国评分基准上的文化异质性。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 76, 78)]]

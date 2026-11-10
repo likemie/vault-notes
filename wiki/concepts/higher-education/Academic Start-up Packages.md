@@ -9,7 +9,7 @@ aliases:
 summary: "研究型大学向新招聘理工科教职人员提供的专属科研启动资金包，用于实验室装修、昂贵科研仪器购置、研究生与博士后津贴及前三年日常运转，是学者在缺乏外部资助时获取预实验数据参与项目竞争的生存期资助工具。"
 type: concept
 domain: "higher-education"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Seed Funding]]"
   - "[[Competitiveness]]"
   - "[[Indirect Costs of Research]]"
+  - "[[Early-Career Researchers]]"
   - "[[Document]]"
   - "[[Academic Risk Aversion]]"
   - "[[Creativity]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -121,7 +122,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题二｜启动金作为微观承租补贴再生产了高风险的科研避险生态
-> **青年学者职业生存与避险选择** 探讨 3 年启动金窗口期如何重塑青年学者的科研选题偏好。
+> **[[Early-Career Researchers|青年学者]]职业生存与避险选择** 探讨 3 年启动金窗口期如何重塑青年学者的科研选题偏好。
 
 > [!claim] Stephan, P.
 > **三年窗口期倒逼青年学者规避探索风险** 在商场模型下，大学提供的启动金仅能维持约 3 年的实验室运作。青年学者面临极其严酷的时间窗口：一旦启动金在 3 年内耗尽而未能斩获首个联邦项目，其实验室便面临人员解散与事实倒闭的危机。这种严酷的“自负盈亏倒计时”迫使青年学者在启动金阶段极力规避高风险、长周期的开创性研究，转而选择最容易产出[[Pilot Testing|预实验]]数据、最符合主流评审口味的渐进性题目。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 28, 30–32)]]

@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt"
 argument_key: "Argument_Peterson_1987_OpenCourt"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges"
 argument_kind: "book"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ tags:
   - theme/institution-building
 related_concepts:
   - "[[International Baccalaureate]]"
+  - "[[Transnational Education]]"
   - "[[Teacher Collaboration]]"
   - "[[Terminal Courses]]"
   - "[[Teacher Support for Students]]"
@@ -82,12 +83,12 @@ sources:
 part_of:
 status: draft
 created: 2026-08-17
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
 > [!monograph-profile] 专著档案
-> - **核心对象** 大西洋学院、[[United World Colleges|联合世界书院]]（United World Colleges，[[United World Colleges|UWC]]）与[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）如何从跨国教育理想发展为学校、课程、考试和资格承认制度。
+> - **核心对象** 大西洋学院、[[United World Colleges|联合世界书院]]（United World Colleges，[[United World Colleges|UWC]]）与[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）如何从[[Transnational Education|跨国教育]]理想发展为学校、课程、考试和资格承认制度。
 > - **论证类型** 亲历者撰写的机构史与教育思想史，结合个人回忆、组织文件、课程材料和制度案例。
 > - **阅读结构** 八章分别建有论证页。本页整合全书问题、章节导航、跨章解释与证据边界；具体课程、人物和项目材料由章节页及相关条目承载。
 > - **材料范围** 第1—8章的历史叙事与未来议题，止于1987年出版时所记录的制度状态。

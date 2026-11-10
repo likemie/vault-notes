@@ -8,7 +8,7 @@ aliases:
 summary: "本尼迪克特·安德森在《想象的共同体》中提出的核心概念，指民族与民族国家作为18世纪末在特定历史力量交汇下生成的文化人造物，一旦定型便具备了可移植的模块化特征，能够被不同历史条件与意识形态星座借用、调整并在全球各类社会土壤中广泛扩散。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ tags:
   - theme/nation-building
   - paradigm/constructivist
 related_concepts:
+  - "[[Nationalism]]"
   - "[[Paradigm]]"
   - "[[Institutional Mimesis]]"
   - "[[Recontextualization]]"
@@ -40,7 +41,7 @@ updated: 2026-11-11
 ---
 
 > [!def] Modular Nationalism
-> 模块化民族主义指民族与民族国家这一特定类型的文化人造物，在18世纪末经由离散历史力量自发交汇蒸馏生成后，脱离原发经验背景转变为可供普遍移植与自觉套用的制度与文化[[Paradigm|范式]]。后发社会的政治力量能够结合自身本土条件与意识形态目标，对这套现成模型进行选择性重构与多维度拼接。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 4)]]
+> 模块化[[Nationalism|民族主义]]指民族与民族国家这一特定类型的文化人造物，在18世纪末经由离散历史力量自发交汇蒸馏生成后，脱离原发经验背景转变为可供普遍移植与自觉套用的制度与文化[[Paradigm|范式]]。后发社会的政治力量能够结合自身本土条件与意识形态目标，对这套现成模型进行选择性重构与多维度拼接。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 4)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向民族国家组织模型在生成后展现出的范式通用性、跨地域可迁移性以及与多元政治意识形态相融的嵌合能力。

@@ -11,7 +11,7 @@ summary: "美国比较教育心理学家，通过 The Learning Gap 等跨国比�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 4
+person_related_count: 5
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Learning Gap]]"
   - "[[Academic Achievement]]"
   - "[[Chinese Learner]]"
+  - "[[Cumulative Innovation]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!person-profile] 人物档案
@@ -54,4 +55,4 @@ updated: 2026-10-22
 > [!success] 影响
 > - 开启了西方学界对东亚学生学习机制的大规模比较研究兴趣，使能力与努力的归因差异成为跨文化学习研究的核心议题之一([[Argument_Li_2012_Cambridge\|Li, 2012, p.70]])。
 > - 其研究发现直接推动了后续对[[Chinese Learner\|中国学习者]]努力概念的深入探索。例如，香港研究者发现，对西方学生而言努力是情境性、不稳定的内部因素，但对中国学生而言努力是跨越时间与情境的稳定特质([[Argument_Li_2012_Cambridge\|Li, 2012, p.70-71]])。
-> - 激发了一系列关于美亚课程差异、课堂教学差异和家庭因素的后续研究，覆盖范围从日本扩展到新加坡、韩国、香港和台湾([[Argument_Li_2012_Cambridge\|Li, 2012, p.71-72]])。
+> - 激发了一系列关于美亚课程差异、课堂教学差异和家庭因素的[[Cumulative Innovation|后续研究]]，覆盖范围从日本扩展到新加坡、韩国、香港和台湾([[Argument_Li_2012_Cambridge\|Li, 2012, p.71-72]])。

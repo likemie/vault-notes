@@ -8,7 +8,7 @@ aliases:
 summary: "产学联盟四种组织模式中介于企业联盟计划和创新中心之间的形态，大学先选定研究方向后产业基于对齐度加入，由政府与产业双重资助，产业成员获得前景知识产权的优先谈判权"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 45
+related_count: 47
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Industry Affiliate Program]]"
   - "[[Innovation Hub]]"
   - "[[Big Science]]"
+  - "[[Little Science]]"
   - "[[Industry Advisory Board]]"
   - "[[Seed Funding]]"
   - "[[Grandes Ecoles]]"
@@ -30,6 +31,7 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[Counterpart Funds]]"
   - "[[Master Agreement]]"
+  - "[[Study Abroad]]"
   - "[[Foreground IP]]"
   - "[[Dual Appointment]]"
   - "[[Teacher Collaboration]]"
@@ -70,7 +72,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -84,7 +86,7 @@ updated: 2026-11-03
 > - **边界** 适用于大学内部或由大学领衔的跨学科研发中心，不涵盖大学外部独立的国家实验室（如橡树岭、阿贡），亦不涵盖由产业或政府单方完全垄断知识产权的合同外包实验室。
 
 > [!citation-card] 战后科研组织范式革命
-> 大学研究中心的兴起标志着战后科学资助体系最深刻的制度变革——打破了仅资助单一学科院系内同行评议、个人科学家自由探索小科学的传统惯例，确立了以实体科研中心为依托、跨学科问题为导向、产业界深度嵌入的战略资助模式。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–366)]]
+> 大学研究中心的兴起标志着战后科学资助体系最深刻的制度变革——打破了仅资助单一学科院系内同行评议、个人科学家自由探索[[Little Science|小科学]]的传统惯例，确立了以实体科研中心为依托、跨学科问题为导向、产业界深度嵌入的战略资助模式。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–366)]]
 >
 > *The movement from university research based in academic departments toward center-based research has transformed postwar science policy and university governance.*
 
@@ -110,7 +112,7 @@ updated: 2026-11-03
 > - **大学主导的议程设置与产业对齐** 大学先期设定核心攻关领域与战略技术路线，产业成员扮演评估者而非共同设计者角色，通过判断自身业务与大学技术方向的契合度决定是否出资加入。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, p. 111)]]
 > - **政府引导与多元资金手段放大** 依靠联邦或地方政府的[[Seed Funding|种子资助]]作为公信力背书与启动手段，要求产业界会员费及大学、州政府提供[[Counterpart Funds|配套资金]]（在典型 [[Engineering Research Centers|NSF ERC]] 中，政府种子资金约占 30%，非联邦资金占 70%）。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 369)]]; [[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 111–112)]]
 > - **跨学科、跨机构多校协同架构** 打破单一工程或自然科学学科边界，汇聚机械、化工、微电子、材料及计算机等复合团队；高阶中心往往跨越单一高校，形成通过[[Master Agreement|主协议]]维系的多校联合攻关体。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 367)]]; [[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 112–113)]]
-> - **双重聘任与矩阵式人事安排** 中心科研骨干强制保留学科院系的正式编制（Tenure-track），既维系中心研究与本科/研究生教学的活水源头，也杜绝了中心演化为与大学隔离的脱节官僚。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 373–374)]]
+> - **双重聘任与矩阵式人事安排** 中心科研骨干强制保[[Study Abroad|留学]]科院系的正式编制（Tenure-track），既维系中心研究与本科/研究生教学的活水源头，也杜绝了中心演化为与大学隔离的脱节官僚。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 373–374)]]
 > - **知识产权[[Pre-negotiated IP Rights|优先谈判权]]与差异化开放安排** 产业出资会员通常享有[[Foreground IP|前景知识产权]]（Foreground IP）的优先受让/独占谈判权；而在软件与信息领域，中心亦常采取协同开源策略以促进技术标准扩散。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, p. 112)]]
 > - **重资产科研设施共享与工程教学重构** 整合昂贵的超净间、微细加工机台等重资产装备并向全网开放，同时将产业级前沿制造工艺逆向植入本科生实验课程。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 286, 293)]]
 

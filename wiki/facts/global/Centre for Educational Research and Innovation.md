@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 55
+fact_related_count: 56
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -28,6 +28,7 @@ tags:
   - educational-governance
 related_concepts:
   - "[[Innovation Hub]]"
+  - "[[Transnational Education]]"
   - "[[Lifelong Learning]]"
   - "[[Learning Strategies]]"
   - "[[Epistemic Governance]]"
@@ -91,13 +92,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-11
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定位
-> 教育研究与[[Innovation Hub|创新中心]]（Centre for Educational Research and Innovation, CERI）是[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]，简称经合组织）于 1968 年设立的半自主专门研发机构。作为经合组织内部兼具基础探索与前瞻试验性质的教育智库，CERI 致力于开展具有前沿风险与长期价值的跨国教育研发，充当沟通学术科学界、国家政策制定者与一线学校实践的制度化孵化器。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]; [[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 5, 8)]]
+> 教育研究与[[Innovation Hub|创新中心]]（Centre for Educational Research and Innovation, CERI）是[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]，简称经合组织）于 1968 年设立的半自主专门研发机构。作为经合组织内部兼具基础探索与前瞻试验性质的教育智库，CERI 致力于开展具有前沿风险与长期价值的[[Transnational Education|跨国教育]]研发，充当沟通学术科学界、国家政策制定者与一线学校实践的制度化孵化器。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]; [[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 5, 8)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1968 年正式设立。其直接历史契机为 1957 年[[Sputnik Shock 1957|斯普特尼克冲击]]后西方世界对冷战科技人力储备与教育创新的普遍焦虑，以及 1960 年代末欧洲社会对传统僵化学校体制与大学治理危机的反思。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 540–541)]]

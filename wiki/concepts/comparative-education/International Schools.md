@@ -18,13 +18,13 @@ related_concepts:
   - "[[International Branch Campus]]"
   - "[[International Baccalaureate]]"
   - "[[International Education]]"
+  - "[[Transnational Education]]"
   - "[[Policy Brokerage]]"
   - "[[State Educational Sovereignty]]"
   - "[[Policy Borrowing]]"
   - "[[Document]]"
   - "[[Advanced Placement Program]]"
   - "[[Fourth Culture]]"
-  - "[[Policy Mobility]]"
   - "[[Teacher Collaboration]]"
   - "[[Avatar]]"
 related_theories: []
@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-17'
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -118,7 +118,7 @@ updated: 2026-11-03
 > **学术课程可把地方接触纳入[[International Education|国际教育]]** 撰写者担心发展中国家的国际学校成为较富裕、与村落和贫困城市地区隔离的群体。社会服务旨在跨越这条边界，而营养科学以当地饮食调查把地方接触直接纳入学术文凭，并要求学生综合不同学科知识处理营养问题。这一设计为学术学习与社会理解提供联系途径；它说明课程改革的理由，不构成所有国际学校必然隔离、或这一课程已改善地方贫困的证据。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–207)]]
 
 > [!concept-proposition] 命题三｜成员多样化需要同时处理组织承诺与学生进入方式
-> **成员身份、私立结构与社会开放** 既有国际学校进入跨国教育运动可以节省创校资源，却仍需判断其学生资助及共同使命如何落实。
+> **成员身份、私立结构与社会开放** 既有国际学校进入[[Transnational Education|跨国教育]]运动可以节省创校资源，却仍需判断其学生资助及共同使命如何落实。
 
 > [!claim] Peterson, A. D. C.
 > **吸收学校不等于复制经典寄宿书院的社会结构** [[United World Colleges|UWC]] 吸收新加坡与沃特福德等既有学校，可避免完全重建书院的资本与经常成本。撰写者承认不同年龄、不同入学路径的学生都可能形成和平、公正与合作的承诺，但缴费生为主的国际学校中，UWC 奖学金生仍只占一部分，学校在当时记述中仍属私立部门。因此，多样化还需要增加主动选择这种教育的奖学金学生，不能仅以整所学校取得成员身份替代社会开放。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 209–213)]]

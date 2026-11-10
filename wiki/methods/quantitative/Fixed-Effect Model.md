@@ -10,9 +10,9 @@ summary: "假定所有纳入研究共享同一个恒定真实效应的统计合�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 36
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 41
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -23,6 +23,7 @@ tags:
   - fixed-effect-model
   - methodology
 related_concepts:
+  - "[[Homophily]]"
   - "[[Sampling Error]]"
   - "[[Construct]]"
   - "[[Unit of Analysis]]"
@@ -30,10 +31,12 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Implementation Fidelity]]"
   - "[[Heterogeneity]]"
+  - "[[Variable]]"
   - "[[Clinical Trial]]"
   - "[[Visible Learning]]"
   - "[[Web-Based Learning]]"
   - "[[Critical Thinking]]"
+  - "[[Causality]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -54,6 +57,8 @@ related_methods:
   - "[[Robust Variance Estimation]]"
 related_instruments: []
 related_persons:
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
   - "[[Christof Wecker]]"
   - "[[John Hattie]]"
 related_facts: []
@@ -61,20 +66,20 @@ related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Wecker_2016_ZfE]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
   - "[[Argument_Simpson_2017_JEdPolicy]]"
   - "[[Argument_Abrami_2015_RER]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
   - "[[Argument_Liu_2023_NHB]]"
 confidence: high
 status: completed
 created: 2026-06-08
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Fixed-Effect Model
-> 固定效应模型（Fixed-Effect Model）是[[Meta-analysis|元分析]]与[[Research Synthesis|证据综合]]中最基础的统计加权合成模型。该模型建立在强同质性假定之上：假定所有纳入分析的独立初级研究都在估计同一个唯一且恒定不变的总体真实[[Effect Size|效应量]] $\theta$，观测到的跨研究效应量变异完全源于受试者随机[[Sampling Error|抽样误差]]（Sampling Error）。在此假设下，模型通过[[Inverse-Variance Weighting|逆方差加权法]]（Inverse-Variance Weighting, IVW）以各研究抽样方差的倒数赋权（$w_i = 1/v_i$），实现合成估计量方差的最小化。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 39)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17)]]
+> 固定效应模型（Fixed-Effect Model）是[[Meta-analysis|元分析]]与[[Research Synthesis|证据综合]]中最基础的统计加权合成模型。该模型建立在强[[Homophily|同质性]]假定之上：假定所有纳入分析的独立初级研究都在估计同一个唯一且恒定不变的总体真实[[Effect Size|效应量]] $\theta$，观测到的跨研究效应量变异完全源于受试者随机[[Sampling Error|抽样误差]]（Sampling Error）。在此假设下，模型通过[[Inverse-Variance Weighting|逆方差加权法]]（Inverse-Variance Weighting, IVW）以各研究抽样方差的倒数赋权（$w_i = 1/v_i$），实现合成估计量方差的最小化。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 39)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** [[Construct|构念]]定义完全一致、实验干预标准化且受试人群同质的独立初级实证研究效应量矩阵。
@@ -99,7 +104,7 @@ updated: 2026-11-02
 > - **研究者角色** 要求研究者严格核实纳入研究的[[Construct|理论构念]]一致性与[[Experimental Research|实验设计]]可比性；在二级[[Research Synthesis|证据综合]]中必须逐一核查底层主要研究的完全独立性。
 > - **有效性标准** 统计推断有效性依赖于同质性检验假设成立（Cochran's $Q$ 检验不显著且 $I^2 \approx 0\%$）；统计推论严格封闭于纳入的 $k$ 项特定研究本身，不得向广义超总体推论。
 > - **不声称回答的问题** 无法解释或容纳因教学情境、[[Implementation Fidelity|实施保真度]]与被试群体[[Heterogeneity|异质性]]导致的真实[[Effect Size|效应量]]离散。
-> - **计量经济学对等视角与内生性局限** 在面板数据计量分析中，固定效应模型用于吸收不随时间变化的不可测个体异质性；但王大顺与巴拉巴西指出，该方法仅对特定可测或时间恒定特征有效，无法消除随时间演化的不可观测混杂变量，因而无法完全替代准实验或随机实验设计。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 248)]]
+> - **计量经济学对等视角与内生性局限** 在面板数据计量分析中，固定效应模型用于吸收不随时间变化的不可测个体异质性；但[[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]指出，该方法仅对特定可测或时间恒定特征有效，无法消除随时间演化的不可观测混杂[[Variable|变量]]，因而无法完全替代准实验或随机实验设计。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 248)]]
 
 > [!contrast-table] 固定效应模型 vs [[Random-Effects Model|随机效应模型]]核心参数与假设对比
 > | 比较维度 | 固定效应模型（Fixed-Effect Model） | 随机效应模型（[[Random-Effects Model]]） |
@@ -234,4 +239,4 @@ updated: 2026-11-02
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 在[[Critical Thinking|批判性思维]]教学干预综合中对比固定与随机效应模型，因真实情境异质性显著而全面转向随机效应模型。
 > - [[Argument_Simpson_2017_JEdPolicy|Simpson (2017)]] — 批判在异质性教育干预中机械套用固定效应模型导致的[[Confidence Interval|置信区间]]虚窄与假阳性检验膨胀。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 阐明固定效应虽能控制时间恒定的个体特征，但无法完全消除不可测混杂，仍需实验设计支持严格因果识别（p. 248）。
-> - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 将固定效应模型列为科学学因果推断的基础计量策略，用于吸收个体与机构层面的不随时间变化的不可测混杂特征，辅助识别学术资助与团队机制的因果效应（pp. 341–350）。
+> - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 将固定效应模型列为科学学[[Causality|因果推断]]的基础计量策略，用于吸收个体与机构层面的不随时间变化的不可测混杂特征，辅助识别学术资助与团队机制的因果效应（pp. 341–350）。

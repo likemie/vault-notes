@@ -24,6 +24,7 @@ tags:
   - theme/innovation-policy
 related_concepts:
   - "[[Congressional Earmarks]]"
+  - "[[Early-Career Researchers]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -44,11 +45,10 @@ related_arguments:
   - "[[Argument_Stephan_2013_NBER]]"
   - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
   - "[[Argument_Ginsberg_2024_EducPolicy]]"
-  - "[[Argument_Yang_2017_MUE]]"
 confidence: medium
 status: draft
 created: 2026-10-26
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
@@ -83,7 +83,7 @@ updated: 2026-11-04
 
 > [!finding-cards] 影响与评价
 > - **隐性产业政策的通道** Block 认为保守派议员把产业补贴嵌入国防采购、能源部实验室经费与[[Congressional Earmarks|国会专项拨款]]，公开的民用产业政策反而在政治上脆弱。[[Argument_Block_2008_PS\|(Block, 2008)]]
-> - **资金投入与激励错配** NIH 预算翻倍未改善青年学者处境，反而带来资助成功率回落与大学举债扩建科研设施。[[Argument_Stephan_2013_NBER\|(Stephan, 2013, pp. 27–28)]]
+> - **资金投入与激励错配** NIH 预算翻倍未改善[[Early-Career Researchers|青年学者]]处境，反而带来资助成功率回落与大学举债扩建科研设施。[[Argument_Stephan_2013_NBER\|(Stephan, 2013, pp. 27–28)]]
 > - **教育研究进入立法的路径** Serpell 基于国会科学研究员经历，总结政策简报法条化、委员会听证与智库协同等转化路径。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020)]]
 
 ---

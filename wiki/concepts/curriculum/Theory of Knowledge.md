@@ -8,7 +8,7 @@ aliases:
 summary: "IB 文凭项目的跨学科核心必修课程，通过比较知识形成方式、证据标准与认识边界，连接学科学习、个人经验和批判性反思。"
 type: concept
 domain: "curriculum"
-related_count: 75
+related_count: 77
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[General Education]]"
   - "[[Encyclopaedic Definition of Knowledge]]"
+  - "[[Study Abroad]]"
   - "[[Metacognition]]"
   - "[[Reflexivity]]"
   - "[[Learner Autonomy]]"
@@ -57,6 +58,7 @@ related_concepts:
   - "[[Active Learning]]"
   - "[[Banking Model of Education]]"
   - "[[Variable]]"
+  - "[[Survivorship Bias]]"
   - "[[Falsification]]"
   - "[[Paradigm]]"
   - "[[Scientific Method]]"
@@ -102,7 +104,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-30
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -156,7 +158,7 @@ updated: 2026-11-03
 > - **迁移到新问题** 学科原则在学习者头脑中变得明确以后，才更可能用于新的政治、商业、社会或个人情境。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, Ch. 3, pp. 46–48)]]
 
 > [!warrant]- 学科结构为什么必须进入显性反思
-> 杰罗姆·布鲁纳（Jerome Bruner）从三个方面说明统整课程的必要性。孤立教授题目和技能，会使学生难以把学习推广到后来遇到的情境；没有掌握一般原则的知识也较少产生智识兴趣，因为它无法在最初课堂之外继续用于思考；缺少结构联系的事实还会迅速遗忘。TOK 因而在保留学科学习的基础上，帮助学生从已经获得的学科经验中辨认一般原则、比较适用范围，并形成能够带往新情境的知识结构。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, Ch. 3, pp. 47–48)]]
+> 杰罗姆·布鲁纳（Jerome Bruner）从三个方面说明统整课程的必要性。孤立教授题目和技能，会使学生难以把学习推广到后来遇到的情境；没有掌握一般原则的知识也较少产生智识兴趣，因为它无法在最初课堂之外继续用于思考；缺少结构联系的事实还会迅速遗忘。TOK 因而在保[[Study Abroad|留学]]科学习的基础上，帮助学生从已经获得的学科经验中辨认一般原则、比较适用范围，并形成能够带往新情境的知识结构。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, Ch. 3, pp. 47–48)]]
 
 > [!actor-grid] 初始课程形态中的角色分工
 > - **Alec Peterson 与牛津团队** 把通识教育解释为学习多种思考方式，并提供统整学科经验的课程草图。
@@ -440,7 +442,7 @@ TOK 早期允许学校自行设计课程，并可因地方文化条件省略不�
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 258)]] | DP 99 人<br>非 DP 283 人 | DP 与非 DP 毕业生 | — | DP 6.25（0.96）<br>非 DP 5.75（1.02） | $t(380)=4.24$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 TOK 与整个 DP，也不能排除选课效应 |
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 257–258)]] | DP 99 人<br>非 DP 283 人 | DP 与非 DP 毕业生 | — | DP 3.43（0.43）<br>非 DP 3.32（0.47） | $t(380)=2.25$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 TOK 与整个 DP，也不能排除选课效应 |
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 256–258)]] | DP 42 人<br>非 DP 126 人 | DP 与非 DP 毕业生 | — | DP 300.95（30.05）<br>非 DP 293.98（27.75） | — | 组间比较；完成者较少且存在额外登录造成的流失；便利样本不具代表性 |
-> | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015, p. 15)]] | 10 年以上 218 人<br>1–3 年 289 人 | TOK 教师教龄<br>10 年以上与 1–3 年 | — | 10 年以上 3.40（0.41）<br>1–3 年 3.17（0.47） | [[Analysis of Variance\|方差分析]]（analysis of variance，ANOVA）事后比较显示组间差异显著 | 横断调查；自报测量；教龄增长对信心的影响不能排除幸存者偏差 |
+> | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015, p. 15)]] | 10 年以上 218 人<br>1–3 年 289 人 | TOK 教师教龄<br>10 年以上与 1–3 年 | — | 10 年以上 3.40（0.41）<br>1–3 年 3.17（0.47） | [[Analysis of Variance\|方差分析]]（analysis of variance，ANOVA）事后比较显示组间差异显著 | 横断调查；自报测量；教龄增长对信心的影响不能排除[[Survivorship Bias\|幸存者偏差]] |
 
 ---
 

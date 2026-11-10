@@ -7,7 +7,7 @@ aliases:
 summary: "由 AidData 提出的空间地缘公共外交概念，指大国外交、教育援助与文化交流高度依附于关键实体基础设施、战略能源通道及经济特区，在次国家特定枢纽城市与省份形成高密度网络集聚。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,7 +20,10 @@ related_concepts:
   - "[[Public Diplomacy]]"
   - "[[Geopolitics]]"
   - "[[Classical Geopolitics]]"
+  - "[[Nation Branding]]"
   - "[[Heterogeneity]]"
+  - "[[Study Abroad]]"
+  - "[[Transnational Education]]"
   - "[[Unit of Analysis]]"
   - "[[Paradigm]]"
   - "[[Soft Power]]"
@@ -38,7 +41,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -67,14 +70,14 @@ updated: 2026-11-03
 > |------|-------------------------------|-----------------------------------|-------------------------------|
 > | 分析空间单位 | 次国家城市节点、管道干线与重点省份 | 民族国家整体、主权政府与全国公众 | 跨国交通干线、产业园区与通关口岸 |
 > | 核心机制 | 物质基础设施与教育人文纽带的多重空间重叠 | 广播媒体宣传、国家形象塑造与跨国学术交流 | 关税减免、资本流动、物流提速与产业链整合 |
-> | 典型产物 | 枢纽城市[[Confucius Institute\|孔子学院]]、走廊运维[[Luban Workshop\|鲁班工坊]]、友城对点联系 | 全国性广播受众、宏观民意好感度与国家品牌指数 | 跨境高速公路、货运铁路、输油管道与工业园区 |
+> | 典型产物 | 枢纽城市[[Confucius Institute\|孔子学院]]、走廊运维[[Luban Workshop\|鲁班工坊]]、友城对点联系 | 全国性广播受众、宏观民意好感度与[[Nation Branding\|国家品牌]]指数 | 跨境高速公路、货运铁路、输油管道与工业园区 |
 
 ---
 
 > [!feature] 核心要素
 > - **空间非均质性（Spatial [[Heterogeneity]]）** 外交与教育资源的配置表现出极度偏态集聚。在南亚与中亚 13 国中，62% 的中国资金外交流向集中于 25 个特定省份，52% 的实体公共外交纽带聚集在 16 个核心城市。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 5, 34–36)]]
 > - **走廊依存性（Corridor Dependency）** 教育和文化项目优先伴随战略走廊（如[[China-Pakistan Economic Corridor|中巴经济走廊]]、中亚天然气管道通道）部署，鲁班工坊与高校联合培养直接定向服务于走廊大型工程的本土运维。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 22–24)]]
-> - **多重网络复合叠加（Multiplex Network Superposition）** 资金借贷、高校科研合作、留学生奖学金配额、媒体落地网络与地方友城协议在同一组枢纽城市内相互强化，形成自我巩固的制度性黏性。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 34–39)]]
+> - **多重网络复合叠加（Multiplex Network Superposition）** 资金借贷、高校科研合作、[[Study Abroad|留学]]生奖学金配额、媒体落地网络与地方友城协议在同一组枢纽城市内相互强化，形成自我巩固的制度性黏性。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 34–39)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -89,7 +92,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题一｜[[Public Diplomacy|公共外交]]资源的地理配置受制于实体基础设施走廊的空间延伸
-> **空间依附与资源配置** 检验公共外交资源是否独立于物质经贸走廊进行广泛播撒，考察跨国教育、文化和资金投入的空间分布规律。
+> **空间依附与资源配置** 检验公共外交资源是否独立于物质经贸走廊进行广泛播撒，考察[[Transnational Education|跨国教育]]、文化和资金投入的空间分布规律。
 
 > [!claim] Custer et al.
 > **走廊沿线优先投放** 中国在南亚与中亚的教育援助与公共外交网络高度顺应[[China-Pakistan Economic Corridor|中巴经济走廊]]和中亚油气过境走廊的物理走向；重点受援国巴基斯坦与孟加拉国吸纳了 2014 年后超过四分之三的教育资金，教育项目通过定向培训走廊急需的本土电气、铁道与工程人员，保障跨国基建的长期平稳运转。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 14–16, 23–24)]]

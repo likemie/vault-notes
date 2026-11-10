@@ -5,7 +5,7 @@ subtype: organization
 region: japan
 fact_region: "japan"
 fact_kind: "organization"
-fact_related_count: 41
+fact_related_count: 42
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Directionality of Innovation]]"
   - "[[Modern Industrial Policy]]"
   - "[[Vertical Disintegration]]"
+  - "[[Document]]"
 related_theories:
   - "[[Organizational Culture]]"
   - "[[Technological Trajectories]]"
@@ -67,7 +68,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-02
+updated: 2026-11-11
 title: Ministry of International Trade and Industry
 aliases:
   - MITI
@@ -157,5 +158,5 @@ aliases:
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Block_2008_PS|Block (2008)]] — 系统对比东亚科层发展型国家与欧美发展型网络国家治理[[Paradigm|范式]]的核心文献。
+> - [[Argument_Block_2008_PS|Block (2008)]] — 系统对比东亚科层发展型国家与欧美发展型网络国家治理[[Paradigm|范式]]的核心[[Document|文献]]。
 > - [[Argument_Mody_2017_MOH|Mody (2017)]] — 莫迪剖析 MITI 联合攻关模式如何作为外部制度催化剂，倒逼美国产学界重构微电子中心与研发联合体的实证研究。

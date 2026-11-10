@@ -7,7 +7,7 @@ aliases:
 summary: "将 STEM 学科与社会科学和人文学科（SSH）深度整合的研究模式，旨在解决需要多学科视角才能应对的复杂社会技术挑战，区别于传统多学科/跨学科研究，强调知识的深度融合而非并列"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[STEM Education]]"
   - "[[Epistemology]]"
+  - "[[Research Tool]]"
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Ecosystem]]"
   - "[[Responsible Innovation]]"
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -41,7 +42,7 @@ updated: 2026-10-22
 > - **双轨并进** 需要在继续建设各学科坚实基础的同时，在学科之间建立有效的桥梁，在需要的地方实现思想和知识的融合
 
 > [!example] [[National Science Foundation\|NSF]] Future of Work at the Human Technology Frontier
-> 美国国家科学基金会（NSF）的"人类技术前沿的未来工作"项目是融合研究的典型案例。该研究在工作的未来、技术的未来和劳动者的未来三者的交汇处运作，需要来自广泛学科的不同类型专业知识、研究工具和技术（p.15）：
+> 美国国家科学基金会（NSF）的"人类技术前沿的未来工作"项目是融合研究的典型案例。该研究在工作的未来、技术的未来和劳动者的未来三者的交汇处运作，需要来自广泛学科的不同类型专业知识、[[Research Tool|研究工具]]和技术（p.15）：
 > - **未来劳动者** 个体劳动者的基本原则和支持、工作团队、工作场所和工作组织
 > - **未来技术** 工程和计算机科学技术以创建人与技术的工作伙伴关系
 > - **未来工作** 社会、经济、教育和国家层面的分析，包括收益和风险

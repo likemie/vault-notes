@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Knowledge Mediation]]"
   - "[[Politics of Knowledge]]"
+  - "[[Early-Career Researchers]]"
   - "[[South-South Cooperation]]"
   - "[[Positivism]]"
   - "[[Research Utilization]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -103,7 +104,7 @@ updated: 2026-10-30
 > [!finding-cards] 关键成效与制度反思
 > - **揭示去中心化知识承诺的脆弱性** GDN 的兴衰历程成为比较教育学与国际关系学中审视国际组织[[Politics of Knowledge|知识政治]]的经典教材，生动揭示了多边银行在修辞上宣扬“本土自主”与在实践中厉行“总部集权”的深刻结构性矛盾。
 > - **实证本土专家的工具化降格** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]]深刻指出，GDN 的边缘化标志着世界银行最终放弃了真正扶植国别自主[[Knowledge Production\|知识生产]]的尝试；大型跨国指标体系牢牢掌控在华盛顿精英手中，发展中国家学者沦为仅仅负责采集基线数据和翻译本土政策语篇的廉价技术劳动力。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 543)]]
-> - **维系南南学术对话微弱网络** 尽管失去了世行核心业务的依托，GDN 依托其独立法人的韧性，在亚太、非洲与拉美青年学者之间依然搭建起跨区域的[[South-South Cooperation|南南合作]]学术网络。
+> - **维系南南学术对话微弱网络** 尽管失去了世行核心业务的依托，GDN 依托其独立法人的韧性，在亚太、非洲与拉美[[Early-Career Researchers|青年学者]]之间依然搭建起跨区域的[[South-South Cooperation|南南合作]]学术网络。
 
 > [!stat-cards]- 核心规模数据
 > - **1999** 在世界银行主导下于德国波恩正式发起成立。（p.543）

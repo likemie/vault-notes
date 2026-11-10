@@ -12,7 +12,7 @@ summary: "约翰·迈耶等开创的社会学新制度主义与世界社会研�
 type: person
 subtype: school
 person_region: "United States"
-person_related_count: 35
+person_related_count: 36
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Red Tape]]"
   - "[[Document]]"
+  - "[[Transnational Education]]"
   - "[[Recontextualization]]"
   - "[[Geopolitics]]"
 related_theories:
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -117,7 +118,7 @@ updated: 2026-10-30
 
 > [!person-network] 学术网络与师承
 > - **学派奠基旗手** [[John W. Meyer|约翰·迈耶]]（John W. Meyer） — 斯坦福大学社会学系荣休教授，学派灵魂人物与核心理论提出者。
-> - **核心骨干学者** 弗朗西斯科·拉米雷斯（Francisco O. Ramirez，跨国教育大纲与大学社会学研究权威）、约翰·博利（John Boli，世界体系跨国非政府组织研究权威）、布赖恩·罗恩（Brian Rowan，组织社会学制度主义奠基学者）、乔治·托马斯（George M. Thomas）。
+> - **核心骨干学者** 弗朗西斯科·拉米雷斯（Francisco O. Ramirez，[[Transnational Education|跨国教育]]大纲与大学社会学研究权威）、约翰·博利（John Boli，世界体系跨国非政府组织研究权威）、布赖恩·罗恩（Brian Rowan，组织社会学制度主义奠基学者）、乔治·托马斯（George M. Thomas）。
 > - **学术师承与学生梯队** 
 >   - [[Robert Arnove|罗伯特·阿诺夫]]（Robert Arnove） — 迈耶早期博士门生，后将[[Immanuel Wallerstein|沃勒斯坦]]世界体系与[[Dependency Theory|依附论]]视野融入比较教育，成为学派长期兼具同情与批判的学术对话者。
 >   - 戴维·贝克（David P. Baker）与阿伦·[[Aaron Benavot|贝纳沃特]]（Aaron Benavot） — 推进全球课程标准化与教育社会学大规模比较实证研究。

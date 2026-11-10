@@ -10,7 +10,7 @@ aliases:
 summary: "人工智能伦理学、人机协同与规范技术哲学核心构念，指在自动化与智能系统辅助决策全流程中，人类保持对系统因果链的主动追踪与价值响应能力，主导分歧仲裁与道德裁决权，防止人在回路退化为形式化橡皮图章。"
 type: concept
 domain: "educational-technology"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -53,6 +53,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Immanuel Kant]]"
+  - "[[Vilfredo Pareto]]"
   - "[[Socrates]]"
 related_facts:
   - "[[EU]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 （有意义的人类控制 / MHC）
@@ -167,7 +168,7 @@ updated: 2026-11-03
 > **复杂学术任务中的方法学[[Operationalization|操作化]]** 探索在学术[[Research Synthesis|证据综合]]中如何兼顾绝对准确性与人工效率。
 
 > [!claim] [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]]
-> **异常触发机制破除单人误差并达成帕累托最优** 在科学证据综合与[[Meta-meta-analysis|二阶元分析]]中，有意义的人类控制可以通过“多大语言模型独立背对背提取 + 一致共识自动采纳 + 分歧争议触发专家仲裁”的架构得以严密操作化。该工作流不仅能消除约 80% 的机械式低阶人工劳动，更能突破单一人类专家提取存在的认知疏漏（单人提取 [[Intraclass Correlation Coefficient|ICC]] 仅为 0.81–0.95），使人机混合系统的准确度逼近绝对金标准（$\text{ICC} \to 0.99+$），实现了科研准确性与时间效率的协同最优。[[Argument_Jansen_2026_EPR|(Jansen et al., 2026, pp. 20–25)]]
+> **异常触发机制破除单人误差并达成[[Vilfredo Pareto|帕累托]]最优** 在科学证据综合与[[Meta-meta-analysis|二阶元分析]]中，有意义的人类控制可以通过“多大语言模型独立背对背提取 + 一致共识自动采纳 + 分歧争议触发专家仲裁”的架构得以严密操作化。该工作流不仅能消除约 80% 的机械式低阶人工劳动，更能突破单一人类专家提取存在的认知疏漏（单人提取 [[Intraclass Correlation Coefficient|ICC]] 仅为 0.81–0.95），使人机混合系统的准确度逼近绝对金标准（$\text{ICC} \to 0.99+$），实现了科研准确性与时间效率的协同最优。[[Argument_Jansen_2026_EPR|(Jansen et al., 2026, pp. 20–25)]]
 
 ---
 

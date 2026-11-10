@@ -10,9 +10,9 @@ summary: "科学计量学中测度同引某项奠基成果的后继文献群体�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 16
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -23,33 +23,42 @@ tags:
   - theme/citation-networks
   - theme/science-of-science
 related_concepts:
-  - "[[Citation Distribution]]"
+  - "[[Document]]"
   - "[[Knowledge Production]]"
-related_theories:
+  - "[[Citation Distribution]]"
+  - "[[Unit of Analysis]]"
+  - "[[Construct Validity]]"
+  - "[[Open-Mindedness]]"
+  - "[[Cumulative Innovation]]"
   - "[[Matthew Effect in Academia]]"
+related_theories:
+  - "[[Knowledge Integration]]"
 related_methods:
-  - "[[Knowledge Extent]]"
   - "[[Bibliometric Analysis]]"
+  - "[[Network Analysis]]"
+  - "[[Knowledge Extent]]"
 related_instruments: []
 related_persons:
   - "[[James A. Evans]]"
-related_facts: []
+related_facts:
+  - "[[OpenAlex]]"
+  - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Hao_2026_Nature]]"
 confidence: high
 status: draft
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-11
 ---
 
 > [!def] Follow-on Engagement
-> 后继学术卷入度（Follow-on Engagement, EG）是科学计量学中测度共同引用某项基础研究的后继学术文献群体内部交叉引用密度的量化指标。该指标输入一组共同引用基准成果的文献集合，统计这批后继文献之间实际发生的相互引用次数，并除以按发表时间先后可能产生的最大理论引用次数，输出 0% 至 100% 之间的互动比例。[[Argument_Hao_2026_Nature|(Hao et al., 2026, p. 1241)]]
+> 后继学术卷入度（Follow-on Engagement, EG）是[[Bibliometric Analysis|科学计量学]]中测度共同引用某项基础研究的后继学术[[Document|文献]]群体内部交叉引用密度的量化指标。该指标输入一组共同引用基准成果的文献集合，统计这批后继文献之间实际发生的相互引用次数，并除以按发表时间先后可能产生的最大理论引用次数，输出 0% 至 100% 之间的互动比例。[[Argument_Hao_2026_Nature|(Hao et al., 2026, p. 1241)]]
 
 > [!method-scope] 方法范围
 > - **测量或估计对象** 测度科学领域的[[Knowledge Production|知识生产]]协作形态、学术共同体内部的思想互动密集度与[[Citation Distribution|引文分布]]网络拓扑结构。
 > - **问题类型** 引文网络拓扑结构测度、学术演化阶段诊断与知识流动连通性评价。
-> - **分析单位** 单篇基准文献引文家族（Paper Family）、细分学术领域或特定技术门类的后继研究集合。
-> - **输入数据** 具备完整参考文献回溯与时间戳记录的学术引文数据库（如 OpenAlex 或 Web of Science）。
+> - **[[Unit of Analysis|分析单位]]** 单篇基准文献引文家族（Paper Family）、细分学术领域或特定技术门类的后继研究集合。
+> - **输入数据** 具备完整参考文献回溯与时间戳记录的学术引文数据库（如 [[OpenAlex]] 或 [[Web of Science]]）。
 > - **输出形式** 百分比数值（0%–100%）。
 
 > [!citation-card] 关键定义
@@ -60,18 +69,18 @@ updated: 2026-11-08
 ---
 
 > [!method-position] 方法定位
-> - **构念效度** 指标有效反映了科学共同体内部围绕某一重大突破是否形成了实质性思想交锋与累积性发展；数值极低提示大量后继成果仅将基准成果作为工具化单向引证，缺乏内部互引与理论整合。
+> - **[[Construct Validity|构念效度]]** 指标有效反映了科学共同体内部围绕某一重大突破是否形成了实质性思想交锋与累积性发展；数值极低提示大量后继成果仅将基准成果作为工具化单向引证，缺乏内部互引与理论整合。
 > - **研究者判断** 需明确基准文献发表后的追踪时间窗（如 5 年或 10 年），以及是否剔除自身成果引证与同机构团队成员引用的网络口径。
 > - **有效性标准** 需结合后继文献在高维语义空间中的距离分布（如 SPECTER 嵌入向量间距）进行双重验证，避免将单纯的引文抱团误读为知识创新。
 > - **不声称回答的问题** 指标属于网络拓扑层面的描述性度量，不能单凭互动度高低推断具体某篇文献学术质量优劣。
 
 > [!method-stack] 方法层级
-> - **上位方法** [[Bibliometric Analysis|文献计量学]]与复杂网络分析（Network Analysis）。
+> - **上位方法** [[Bibliometric Analysis|文献计量学]]与复杂[[Network Analysis|网络分析]]（Network Analysis）。
 > - **前置步骤** 确定源头基准文献、提取全量施引文献集合、构建带有时间戳的有向无环引文子图（Citation Directed Acyclic Graph）。
 > - **变体与扩展** 包含考虑发表时间先后的有向网络版本，以及仅计算后继文献间无向连边密度的简化图版本。
 
 > [!dev-timeline] 方法演变
-> - **2018 — 概念提出** 彼得·麦克马汉（Peter McMahan）与[[James A. Evans|詹姆斯·埃文斯（James A. Evans）]]提出学术卷入度概念，证实理论概念的模糊性与开放性能够激发广泛的后续研究对话与交叉引用。
+> - **2018 — 概念提出** 彼得·麦克马汉（Peter McMahan）与[[James A. Evans|詹姆斯·埃文斯]]（James A. Evans）提出学术卷入度概念，证实理论概念的模糊性与[[Open-Mindedness|开放性]]能够激发广泛的[[Cumulative Innovation|后续研究]]对话与交叉引用。
 > - **2026 — 形式化测度与大样本实证** 郝钱跃（Qianyue Hao）等将该指标标准化为公式并应用于 4,130 万篇自然科学出版物，揭示人工智能工具普及导致后继学术卷入度整体萎缩 22%，引文网络蜕化为围绕少数明星成果孤立发散的星状拓扑。[[Argument_Hao_2026_Nature|(Hao et al., 2026, p. 1241)]]
 
 ---
@@ -156,7 +165,7 @@ updated: 2026-11-08
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 评估某项重大技术突破或标志性成果在科学共同体中的知识整合效应，对比不同学科领域引文网络的健康程度。[[Argument_Hao_2026_Nature|(Hao et al., 2026, p. 1241)]]
+> - **适合使用** 评估某项重大技术突破或标志性成果在科学共同体中的[[Knowledge Integration|知识整合]]效应，对比不同学科领域引文网络的健康程度。[[Argument_Hao_2026_Nature|(Hao et al., 2026, p. 1241)]]
 > - **谨慎使用** 被引量极低（如 $n < 5$）的长尾论著，其网络随机性较大，不宜作为核心统计对象。
 > - **不适合使用** 跨越数十年历史跨度的非稳态文献群落粗略汇总比较。
 

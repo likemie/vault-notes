@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -39,7 +39,8 @@ related_methods:
   - "[[Multiple Regression]]"
   - "[[Seasonal Comparison]]"
   - "[[Random Assignment]]"
-related_persons: []
+related_persons:
+  - "[[Eric Hanushek]]"
 related_facts:
   - "[[United States Department of Education]]"
   - "[[A Nation at Risk 1983]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-04'
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 > [!info] 背景
@@ -160,7 +161,7 @@ updated: 2026-10-26
 > - 该报告被广泛批评为**责备受害者（blaming the victim）**——将结构性问题归咎于受害者自身的行为或文化特征（Ryan, 1976）。
 > - Moynihan Report 引发的争议使任何强调家庭因素（而非结构／学校因素）的学术研究在政治上变得敏感——Coleman Report 因同样强调家庭背景的核心作用而受到了间接的连带影响。
 >
-> ### Hanushek 的政策[[Pragmatic Paradigm\|实用主义]]
+> ### [[Eric Hanushek|Hanushek]] 的政策[[Pragmatic Paradigm\|实用主义]]
 >
 > 经济学家 Eric Hanushek (1992, p.106) 提供了一个坦率但引人深思的解释，说明为何 school 因素持续主导政策讨论（cited in Downey & Condron, 2016, p.11）：
 >

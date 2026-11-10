@@ -8,7 +8,7 @@ aliases:
 summary: "在数字虚拟世界与交互式学习环境中代表人类用户或人工智能系统的可配置拟人化数字表征；在质性研究中作为投射技术与身份实验媒介，在人机交互与智能探究中作为提供自适应脚手架与即时诊断的拟人教学导师。"
 type: concept
 domain: "educational-technology"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Scaffolding]]"
   - "[[Virtual World]]"
+  - "[[Lecturing]]"
   - "[[Feedback]]"
   - "[[AI Agent in Education]]"
   - "[[Gamification]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-19
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -76,7 +77,7 @@ updated: 2026-11-03
 > [!citation-card] 实体-数字交互探究中的虚拟教学化身
 > 基于计算机视觉算法的重力平衡探究系统中，虚拟化身引导小学生在实体振动台上开展积木塔抗震实验。虚拟化身无需预先讲授任何力学理论，是引导学生观察对比不同结构的积木塔，提问振动台启动后哪座塔会先倒，并实时诊断学生给出的口头因果解释；学生在完全无前置显性讲授的情境下，通过视觉算法引导的预测与实验反馈，自主精准掌握了复杂的力学平衡原理。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 9 引用 Yannier et al., 2020)]]
 >
-> *An interactive system uses computer vision to model block towers on a physical earthquake table. An avatar, without explicit prior lectures on balance, prompts children to observe two towers, predict which will fall first, and diagnoses their spoken explanations, fostering deep conceptual mastery through guided prediction and [[Feedback]].*
+> *An interactive system uses computer vision to model block towers on a physical earthquake table. An avatar, without explicit prior [[Lecturing|lectures]] on balance, prompts children to observe two towers, predict which will fall first, and diagnoses their spoken explanations, fostering deep conceptual mastery through guided prediction and [[Feedback]].*
 
 > [!boundary]- 概念边界
 > - **不等于 真实生物学与社会学身份** 用户化身具有高度可塑性、匿名性与可丢弃性，允许参与者在低风险环境下进行实验性自我呈现，但投射内容可能包含理想化虚饰。

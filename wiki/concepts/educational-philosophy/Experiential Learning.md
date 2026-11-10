@@ -7,7 +7,7 @@ aliases:
 summary: "以经验及其重组促进学习与成长的教育概念，借连续性与个体—环境交互判定经验价值，并分析学术学习、社会服务与地方实践如何相互联系。"
 type: concept
 domain: "educational-philosophy"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[International Schools]]"
   - "[[Academic Achievement]]"
   - "[[International Baccalaureate]]"
+  - "[[Curriculum Connection]]"
   - "[[Education as Growth]]"
   - "[[Document]]"
   - "[[Active Learning]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -161,7 +162,7 @@ updated: 2026-11-03
 > - **Peterson 的回应** 多数学生不会进入研究生阶段，而学科边界本来也有别于固定。保留高级学科训练，并提供可选的辅助层级问题导向课程，可以让更多学生获得知识应用与社会理解的机会。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–207)]]
 
 > [!boundary]- 理论判定、实施案例与效果证据各有用途
-> [[John Dewey|杜威]]的原则提供经验品质的哲学判定，Peterson 的案例说明课程连接和实施条件。两者尚不足以构成所有经验学习均有效的经验结论，也不支持把社会服务时数或课程数量直接当作成长指标。[[Argument_Darwish_2009_Queens|Darwish (2009, pp. 30–33)]] [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–207, 215)]]
+> [[John Dewey|杜威]]的原则提供经验品质的哲学判定，Peterson 的案例说明[[Curriculum Connection|课程连接]]和实施条件。两者尚不足以构成所有经验学习均有效的经验结论，也不支持把社会服务时数或课程数量直接当作成长指标。[[Argument_Darwish_2009_Queens|Darwish (2009, pp. 30–33)]] [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–207, 215)]]
 
 ---
 

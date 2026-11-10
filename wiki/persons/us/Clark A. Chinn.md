@@ -47,7 +47,6 @@ related_concepts:
   - "[[Working Memory]]"
   - "[[Structured Teaching]]"
   - "[[Class Size]]"
-  - "[[Document]]"
 related_theories:
   - "[[Reliabilism]]"
   - "[[Virtue Epistemology]]"
@@ -61,6 +60,7 @@ related_arguments:
 related_facts:
   - "[[PRACCIS]]"
   - "[[National Science Foundation]]"
+  - "[[Dimensions]]"
   - "[[Achieve]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -73,7 +73,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -107,7 +107,7 @@ updated: 2026-11-02
 >   - **关键概念／方法** 协作推理、探究脚手架、论证对话。
 >   - **阶段转向** 从微观阅读理解对话走向跨学科复杂探究与教学[[Paradigm\|范式]]论争。
 > - **2010 年代 — [[Epistemic Cognition\|认识论认知]] [[AIR Model of Epistemic Cognition\|AIR]] 模型与实践转向阶段** 批判传统个人[[Epistemology\|认识论]][[Questionnaire\|问卷]]的抽象性与脱嵌性，系统引入[[Theory of Knowledge\|知识论]]哲学，构建由目标（Aims）、理想（Ideals）与[[Reliable Epistemic Processes\|可靠过程]]（Reliable processes）构成的三[[Metacognition\|元认知]]模型。
->   - **代表著作** *Expanding the dimensions of epistemic cognition: Arguments from philosophy and psychology* (2011); *Epistemic cognition and evaluating information: Applying the AIR model* (2014); *[[PRACCIS]]: Promoting reasoning and conceptual change in science* (2018).
+>   - **代表著作** *Expanding the [[Dimensions|dimensions]] of epistemic cognition: Arguments from philosophy and psychology* (2011); *Epistemic cognition and evaluating information: Applying the AIR model* (2014); *[[PRACCIS]]: Promoting reasoning and conceptual change in science* (2018).
 >   - **关键概念／方法** AIR 模型、[[Epistemic Ideals\|认识论理想]]、可靠过程、探究六要素。
 >   - **阶段转向** 从描述学生有什么[[Epistemological Beliefs\|认识论信念]]，转向指导学生在[[Authentic Science Practices|真实科学实践]]中如何运用与反思认识准则。
 > - **2020 年代至今 — [[Epistemic Agency\|认识能动性]]、论证实质与循证教学辩护阶段** 聚焦论证质量的认识论实质评价，倡导赋予边缘群体学生认识能动权；联合全球学者对抗[[Direct Instruction\|直接教学]]绝对化思潮，确立[[Inquiry-Based Learning\|指导式探究]]与直接教学时序整合的新框架。

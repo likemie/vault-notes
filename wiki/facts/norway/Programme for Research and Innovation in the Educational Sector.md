@@ -10,7 +10,7 @@ subtype: program
 region: norway
 fact_region: "norway"
 fact_kind: "program"
-fact_related_count: 25
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -28,6 +28,8 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Reliability]]"
+  - "[[Early-Career Researchers]]"
+  - "[[Scientific Mobility]]"
   - "[[Paradigm]]"
   - "[[Academic Achievement]]"
   - "[[Research Proposal]]"
@@ -58,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -79,7 +81,7 @@ updated: 2026-10-22
 
 > [!policy-design] 方案设计
 > - **项目目标** 支持高水准原创教育科学研究、推动教育体系创新，并为全层级教育政策制定与学校教学实践提供高[[Reliability\|信度]]证据基准。
-> - **覆盖对象** 挪威各高等教育机构教育学科研人员、博士与博士后青年学者、中小学及学前教育机构教师与管理层，以及中央与地方公共行政决策人员。
+> - **覆盖对象** 挪威各高等教育机构教育学科研人员、博士与博士后[[Early-Career Researchers|青年学者]]、中小学及学前教育机构教师与管理层，以及中央与地方公共行政决策人员。
 > - **三大资助类别**
 >   1. **研究者主导项目（Investigator-driven projects）** 旨在产出高质量、高相关性的原创学术成果并化解研究碎片化，资助博士与博士后流动站、国家级及国际科研合作；
 >   2. **用户主导项目（User-driven projects）** 聚焦教育系统创新与实践改善的迫切议题，为一线科研人员与实践者提供基于教学现场的技能培训与能力建设；
@@ -115,7 +117,7 @@ updated: 2026-10-22
 ---
 
 > [!indicators] 评估指标体系
-> - **投入指标** 挪威研究理事会设立的十年长周期专项研发资金，覆盖青年科研人员学术流动与博士后工作站。
+> - **投入指标** 挪威研究理事会设立的十年长周期专项研发资金，覆盖青年科研人员[[Scientific Mobility|学术流动]]与博士后工作站。
 > - **过程与依从性指标** 强制性成果传播与沟通计划（Communication and Dissemination Plans）的执行度、高校研究者与基层用户的协同立项比例。
 > - **产出与结果指标** 国际同行评议科学期刊高水平论文发表量、国际[[Systematic Review\|系统综述]]纳入频次、各级政策制定与学校教学实践中证据采纳的深度。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 115)]]
 

@@ -7,7 +7,7 @@ title: "Argument_Logar_2014_Minerva"
 argument_key: "Argument_Logar_2014_Minerva"
 argument_display_title: "Semiconductor Research Corporation: A case study in cooperative innovation partnerships"
 argument_kind: "journal-article"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Precompetitive Research]]"
   - "[[Mentorship]]"
   - "[[Document]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Paradigm]]"
   - "[[Academic Freedom]]"
   - "[[Technology Transfer]]"
@@ -59,7 +60,7 @@ related_facts:
   - "[[EU]]"
 status: draft
 created: 2026-10-05
-updated: 2026-10-29
+updated: 2026-11-11
 tags:
   - theme/university-industry-collaboration
   - theme/science-policy
@@ -109,7 +110,7 @@ tags:
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **访谈样本** | 共计 19 位关键决策与参与主体（部分受访者兼具多重身份）：包括 9 位 SRC 机构高管与项目主管（涵盖总裁兼首席执行官 Larry Sumney、执行副总裁 Steven Hillenius、首席科学家 Ralph Cavin、高级科学家 James Hutchby、[[Focus Center Research Program\|FCRP]] 主管 Elizabeth Weitzman、NRI 主管 Jeffrey Walser、纳米制造主管 Daniel Herr、计算机辅助设计（Computer-Aided Design, CAD）主管 William Joyner 等）、7 位来自工业界成员企业的代表（涵盖应用材料高级总监 David Kyser、GLOBALFOUNDRIES 院士 Paul Besser、[[Mentorship\|mentor]] Graphics 董事长兼首席执行官 Walden Rhines、Novellus 前执行副总裁 Wilbert Van den Howk 等），以及 8 位受资助的高校教授（涵盖哈佛大学物理学教授 Robert Westervelt、麻省理工学院（Massachusetts Institute of Technology, MIT）电子工程教授 Charles Sodini 等）与现任/前任 SRC 资助研究生。每场访谈时长 30 至 60 分钟，多位关键受访者接受了多轮跟进访谈。 |
-> | **[[Document\|文献]]与档案样本** | 涵盖 SRC 历年年度报告、各项目任务章程、美国国家技术与创新奖章授奖档案、ITRS 路线图公开文件，以及 1982–2010 年间全美集成电路与硅器件相关博士论文数据库。 |
+> | **[[Document\|文献]]与档案样本** | 涵盖 SRC 历年年度报告、各项目任务章程、美国国家技术与创新奖章授奖档案、ITRS 路线图公开文件，以及 1982–2010 年间全美集成电路与硅器件相关[[Doctoral Dissertation\|博士论文]]数据库。 |
 > | **材料情境** | 研究依托哈佛大学肯尼迪政府学院贝尔弗科学与国际事务中心开展，属于一项关于国家创新机构与能源科技创新治理的大型比较研究项目的一部分。 |
 
 ---

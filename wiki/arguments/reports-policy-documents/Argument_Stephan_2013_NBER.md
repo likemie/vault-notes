@@ -26,6 +26,7 @@ related_concepts:
   - "[[Shopping Mall Model of Research Universities]]"
   - "[[Document]]"
   - "[[Indirect Costs of Research]]"
+  - "[[Early-Career Researchers]]"
   - "[[Grandes Ecoles]]"
   - "[[Counterpart Funds]]"
   - "[[Academic Start-up Packages]]"
@@ -61,14 +62,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-02
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: report
 publication_type: report
 title: "Argument_Stephan_2013_NBER"
 argument_key: "Argument_Stephan_2013_NBER"
 argument_display_title: "The endless frontier: Reaping what Bush sowed? (NBER Working Paper No. 19687)"
 argument_kind: "report"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dcfce7"
@@ -76,7 +77,7 @@ journal: ""
 book_title: ""
 publication_place: "Cambridge, MA"
 publisher: "National Bureau of Economic Research"
-issuing_organization: "National Bureau of Economic Research"
+issuing_organization: "[[National Bureau of Economic Research]]"
 ---
 ---
 
@@ -288,7 +289,7 @@ issuing_organization: "National Bureau of Economic Research"
 > [!example] 图 5：各大联邦资助机构的 HHI 集中度指数演变（1971–2009）
 > ![](https://img.mylikemie.icu/sources/Stephan_2013_NBER/figures/Stephan_2013_NBER_Fig5_HHI_Concentration_Federal_Funds.jpg)
 
-> [!sub-claim] 2. 研究生资助转向助研津贴与青年学者职业前景的变化
+> [!sub-claim] 2. 研究生资助转向助研津贴与[[Early-Career Researchers|青年学者]]职业前景的变化
 
 随着面向个人的独立奖学金名额减少，研究生和博士后日益依赖导师科研项目中的研究生助研津贴（Graduate Research Assistantships, GRAs）来获取资助（pp.20–21）。
 

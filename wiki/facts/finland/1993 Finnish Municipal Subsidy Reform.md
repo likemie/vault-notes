@@ -12,7 +12,7 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -25,26 +25,27 @@ tags:
   - region/finland
   - fiscal-policy
 related_concepts:
+  - "[[Block Grants]]"
+  - "[[Liberalization]]"
   - "[[School Autonomy]]"
+  - "[[Zone of Discretion]]"
   - "[[Class Size]]"
-  - "[[Academic Achievement]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Hannu Simola]]"
-  - "[[Pasi Sahlberg]]"
-  - "[[Gabriel Heller Sahlgren]]"
 related_facts:
+  - "[[Trade Union of Education in Finland]]"
   - "[[Framework Curriculum 1994]]"
   - "[[Basic Education Act 1998]]"
-  - "[[Finnish National Board of Education]]"
+  - "[[CORE Education]]"
 related_arguments:
   - "[[Argument_Sahlgren_2015_CPS]]"
 confidence: high
 status: completed
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-11
 ---
 
 ---
@@ -61,13 +62,13 @@ updated: 2026-11-08
 > 1993 年地方财政补助改革是芬兰基础教育治理从科层集权向地方自治转变的经济支柱，通过整笔无条件综合拨款赋予市镇对教育经费的自由支配权，彻底终结了中央依靠专项经费规训基层学校的历史。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 12, 22)]]
 
 > [!policy-design] 财政机制与拨款重构
-> - **拨款模式转向综合整笔拨付** 彻底废止专款专用的专项补助（Earmarked Categorical Grants），转为按公式测算的整笔无条件综合拨款（Block Grants / General Formula Grants）；中央资金并入市镇总体财政预算，不再限定具体用途。
+> - **拨款模式转向综合整笔拨付** 彻底废止专款专用的专项补助（Earmarked Categorical Grants），转为按公式测算的整笔无条件综合拨款（[[Block Grants]] / General Formula Grants）；中央资金并入市镇总体财政预算，不再限定具体用途。
 > - **生源单位成本核算机制** 中央补助额度完全依据市镇 6 至 15 岁适龄儿童人口数量、地理分散度、双语人口比例与市镇财力等级等客观客观人口统计指标测算，与地方实际聘用教师数量和课时开支彻底脱钩。
 > - **办学支出完全地方自治** 市镇议会获得决定教育总预算比例、学校网点合并裁撤、师资聘任编制及各校日常经费分配的完全自主权，允许市镇将结余资金自由调配至医疗或社会福利领域。
 > - **取消中央财务报销审计** 废除了基层学校向中央填报详尽教学与财务凭证的报销审核机制，中央不再核查每门学科的实际课时开支是否达标。
 
-> [!citation-card] 萨尔格伦论 1990 年代分权与财政自由化
-> 1980 年代中叶启动的分权在 1990 年代初至中叶迅速深化。伴随体制自由化，学校自主权急剧扩张，外部视导机制与中央统一审查全面退场，地方市镇获得了前所未有的行政与财政裁量空间。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 12–13)]]
+> [!citation-card] 萨尔格伦论 1990 年代分权与财政[[Liberalization|自由化]]
+> 1980 年代中叶启动的分权在 1990 年代初至中叶迅速深化。伴随体制自由化，[[School Autonomy|学校自主权]]急剧扩张，外部视导机制与中央统一审查全面退场，地方市镇获得了前所未有的行政与财政[[Zone of Discretion|裁量空间]]。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 12–13)]]
 >
 > *In the early-to-mid 1990s... the system was further liberalised, school autonomy significantly increased, and school inspections as well as the national textbook approval process abolished entirely.*
 
@@ -86,14 +87,14 @@ updated: 2026-11-08
 > - **中央财政部与教育部** 摆脱了随学校支出扩张而无限兜底的财政被动局面，锁定中央转移支付总盘子。
 > - **市镇议会与地方财政局** 获得完全自主支配预算的实权，但在经济紧缩时期必须自行承担教育削减的政治压力。
 > - **中小学校长与管理团队** 拥有校内经费自主支配权，可根据生源特点自主购买教学耗材或聘任助教。
-> - **教师工会（OAJ）** 警惕地方政府为平衡赤字而克扣教育经费，推动全国性集体谈判合同以约束地方削减教师薪水。
+> - **教师工会（[[Trade Union of Education in Finland|OAJ]]）** 警惕地方政府为平衡赤字而克扣教育经费，推动全国性集体谈判合同以约束地方削减教师薪水。
 
 ---
 
 > [!finding-cards] 结构性后果与学术评价
 > - **为学校全面放权提供经济制度支撑** 财政独立支配权的落地，使得 1994 年框架大纲和 1998 年基础教育法所规定的学校自主权不再停留在纸面，真正形成了由市镇与校长自主决策的办学生态。
 > - **加速偏远乡村小规模学校撤并潮** 由于拨款直接按学生人头计算，生源流失的偏远乡村微型学校面临巨大的单位运营赤字，迫使市镇在 1990 年代末大规模关闭单班小学、集中并校。
-> - **扩大地区间生均支出的客观差距** 经济实力雄厚的大都市区市镇（如赫尔辛基、埃斯波）能够自筹更多税收用于学校，而重工业衰退与林业偏远市镇被迫扩大班额、削减选修课程，加剧了区域均等化压力。
+> - **扩大地区间生均支出的客观差距** 经济实力雄厚的大都市区市镇（如赫尔辛基、埃斯波）能够自筹更多税收用于学校，而重工业衰退与林业偏远市镇被迫扩大[[Class Size|班额]]、削减选修课程，加剧了区域均等化压力。
 
 ---
 
@@ -113,5 +114,5 @@ updated: 2026-11-08
 > |:-----|:-----|:-----|
 > | [[Framework Curriculum 1994]] | Fact (Policy) | 与财政综合拨款同步落地的课程分权改革大纲。 |
 > | [[Basic Education Act 1998]] | Fact (Policy) | 在法律层面巩固市镇办学自治权的后续基本母法。 |
-> | [[School Autonomy]] | Concept | 财政放权直接赋能的核心教育管理概念。 |
+> | [[School Autonomy]] | Concept | 财政放权直接赋能的[[CORE Education\|核心教育]]管理概念。 |
 > | [[Hannu Simola]] | Person | 深入剖析 1990 年代分权与财政改革社会学后果的学者。 |

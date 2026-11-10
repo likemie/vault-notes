@@ -8,10 +8,10 @@ aliases:
 summary: "战后主导科技政策资源配置的核心分类范式，以研究者即时立项动机将科研割裂为基础与应用两轨；后因其文化阶层偏见、单向因果谬误及导致关键硬件发明资助断档而遭系统性解构"
 type: concept
 domain: "science-policy"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/science-policy
   - theme/research-classification
@@ -27,7 +27,11 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[National Innovation System]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Little Science]]"
   - "[[Discourse]]"
+  - "[[Operationalization]]"
+  - "[[Mission-Oriented Research]]"
+  - "[[Big Science]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
   - "[[Discovery-Invention Cycle]]"
@@ -39,14 +43,20 @@ related_persons:
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
+  - "[[Sputnik Shock 1957]]"
+  - "[[President's Science Advisory Committee]]"
+  - "[[Seaborg Report 1960]]"
+  - "[[Committee on Science and Public Policy]]"
+  - "[[Basic Research and National Goals 1965]]"
   - "[[OECD]]"
   - "[[Frascati Manual]]"
 related_arguments:
   - "[[Argument_Narayanamurti_2013_IST]]"
+  - "[[Argument_Yang_2017_MUE]]"
 confidence: medium
 status: draft
 created: 2026-10-02
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -121,7 +131,7 @@ updated: 2026-11-03
 
 > [!dev-timeline] 概念演变
 > - **1945 — 政策[[Paradigm|范式]]制度化** [[Vannevar Bush|万尼瓦尔·布什]]在报告《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》中正式将科研划分为基础与应用，确立政府仅对无功利目的的基础科学负责，直接塑造了 [[National Science Foundation|NSF]] 的立馆宗旨。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
-> - **1960–1965 — 抵御功利干预与“小科学”话语建构** 在苏联卫星危机引发的科研体制重组中，白宫总统科学顾问委员会（[[President's Science Advisory Committee|PSAC]]）发布《[[Seaborg Report 1960|西博格报告]]》，将基础研究与研究生教育锚定为不可分割的整体；国家科学院[[Committee on Science and Public Policy|科学与公共政策委员会]]（COSPUP）在《基础研究与国家目标》中进一步将基础研究操作化为由学者自由探索的“小科学”，确立 15% 稳定预算增长基准，使二分法成为学术精英抵御国防部军工实用干预与争取非涉密自主拨款的战略修辞工具。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 36–38)]]
+> - **1960–1965 — 抵御功利干预与“[[Little Science|小科学]]”[[Discourse|话语]]建构** 在[[Sputnik Shock 1957|苏联卫星危机]]引发的科研体制重组中，白宫[[President's Science Advisory Committee|总统科学顾问委员会]]（[[President's Science Advisory Committee|PSAC]]）发布《[[Seaborg Report 1960|西博格报告]]》，将基础研究与研究生教育锚定为不可分割的整体；国家科学院[[Committee on Science and Public Policy|科学与公共政策委员会]]（COSPUP）在《[[Basic Research and National Goals 1965|基础研究与国家目标]]》中进一步将基础[[Operationalization|研究操作化]]为由学者自由探索的“小科学”，确立 15% 稳定预算增长基准，使二分法成为学术精英抵御国防部军工实用干预与争取非涉密自主拨款的战略修辞工具。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 36–38)]]
 > - **1963 — 全球统计口径标准化** [[OECD|经济合作与发展组织]]（OECD）出台《[[Frascati Manual|弗拉斯卡蒂手册]]》，正式将基础研究、应用研究与试验开发作为国家研发经费（R&D）统计的三大固定科目，使二分法成为全球通用官僚规程。
 > - **1997 — [[Pasteur's Quadrant|帕斯德象限]]二维拓扑打破** [[Donald Stokes|唐纳德·斯托克斯]]提出二维动机矩阵，创立用启发性基础研究概念，有力挑战了一维对立，但在[[Discourse|话语]]上仍保留了二分法词汇。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
 > - **2013 — 宣告二分法终结** 纳拉亚纳穆尔提等人在《科学与技术问题》撰文宣布二分法寿终正寝（RIP），主张以客观产出的发现与发明循环模型全面替代动机二分，并以[[Long-Term Public Utility|长期公共效用]]重构科研资助准绳。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–36)]]

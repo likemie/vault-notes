@@ -11,7 +11,7 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 45
+fact_related_count: 47
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Open Method of Coordination]]"
   - "[[Orchestrator State]]"
   - "[[Strategic Autonomy]]"
+  - "[[Transnational Education]]"
   - "[[Competitiveness]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
@@ -40,6 +41,7 @@ related_concepts:
   - "[[Evidence-Based Policy-Making]]"
   - "[[Politics of Knowledge]]"
   - "[[Geopolitics]]"
+  - "[[Strategic Compliance]]"
   - "[[Performance Indicators]]"
   - "[[European Education Space]]"
   - "[[Knowledge Co-production]]"
@@ -79,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-26
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 
 ---
@@ -101,7 +103,7 @@ updated: 2026-11-09
 >   作为经济共同体执行机构，欧委会早期行动严格受限于劳动力自由流动背景下的职业技能培训条款，普通学校教育被各国坚决排斥在委员会职权之外。
 >
 >   - **1958** 欧洲经济共同体委员会成立，依据《罗马条约》第 128 条获得职业培训协调权。
->   - **1987** 欧委会克服成员国阻力设立“[[Erasmus Programme|伊拉斯谟计划]]”（Erasmus），迈出跨国高等教育交流第一步。
+>   - **1987** 欧委会克服成员国阻力设立“[[Erasmus Programme|伊拉斯谟计划]]”（Erasmus），迈出[[Transnational Education|跨国高等教育]]交流第一步。
 >
 > - **1993–1999** **条约合法化挫折、行政专设与白皮书话语转向**
 >
@@ -187,7 +189,7 @@ updated: 2026-11-09
 > [!citation-card] 帕西亚斯与鲁萨基斯论欧委会全景敞视软治理与民主赤字
 > 软法协调实质上构建了高度精巧的欧洲教育全景敞视监控体系；常设指标工作组与排名榜单通过远距离注视迫使成员国自愿内化外部标准，架空了国家议会的民主审议，体现出超国家技术官僚的深层民主赤字。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–481, 492–493)]]
 >
-> *The open method of coordination establishes a sophisticated European panopticon where constant benchmarking and comparative indicators induce self-disciplining compliance among member states, bypassing democratic scrutiny.*
+> *The open method of coordination establishes a sophisticated European panopticon where constant benchmarking and comparative indicators induce self-disciplining [[Strategic Compliance|compliance]] among member states, bypassing democratic scrutiny.*
 
 ---
 

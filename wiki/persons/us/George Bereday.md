@@ -11,10 +11,10 @@ summary: "哥伦比亚大学师范学院比较教育学讲座教授，《比较�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 39
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 40
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1920"
 died: "1983"
 lifespan: "1920–1983"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Scientific Explanation]]"
   - "[[Working Hypothesis]]"
   - "[[Paradigm]]"
+  - "[[Early-Career Researchers]]"
   - "[[Discourse]]"
   - "[[Scientific Method]]"
   - "[[Critical Dualism]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -149,7 +150,7 @@ updated: 2026-11-02
 > - **史学反思与肖像学解构** [[Robert Cowen\|罗伯特·考恩]]（Robert Cowen）指出，贝雷迪的学术叙事赋予了学科早期合法的历史感，但他本人的复杂学术生命长期被学科圣徒式的肖像叙事所遮蔽，亟待严肃的历史学家撰写批判性学术评传。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cowen_2009_HistoryCreation\|Cowen (2009a)]] — 考恩分析贝雷迪著作对战后青年学者专业合法性认同的建构功能，以及学界缺乏严肃史学评传的反思。
+> - [[Argument_Cowen_2009_HistoryCreation\|Cowen (2009a)]] — 考恩分析贝雷迪著作对战后[[Early-Career Researchers|青年学者]]专业合法性认同的建构功能，以及学界缺乏严肃史学评传的反思。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 马修系统定位贝雷迪作为历史学派与[[Scientific Paradigm\|科学范式]]之间关键桥梁的方法论贡献，提炼其四步法对内在普遍力量与跨国法则的探寻。
 
 ---

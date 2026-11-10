@@ -8,10 +8,10 @@ aliases:
 summary: "刻画学术出版物群体中随机抽取的一篇论著获得特定引用频次 $c$ 之概率的统计学分布 $P(c)$。由德里克·J·德索拉·普赖斯（Price, 1965）首创测算并确认为具有高方差的肥尾分布；边康尼-巴拉巴西模型（Bianconi & Barabási, 2001）进一步将成果内生适应度引入优先连接动力学，证明在正态适应度先验下宏观引文分布内生呈现对数正态形态（Wang & Barabási, 2021）。"
 type: concept
 domain: "science-policy"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 41
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - theme/science-of-science
   - theme/scientometrics
@@ -20,19 +20,23 @@ related_concepts:
   - "[[Document]]"
   - "[[Scientific Credit]]"
   - "[[Heterogeneity]]"
+  - "[[Altmetrics]]"
   - "[[Citation Disparity]]"
   - "[[Paradigm]]"
   - "[[Areas of Knowledge]]"
   - "[[Variable]]"
   - "[[Research Impact]]"
+  - "[[Initial Attractiveness]]"
   - "[[Construct]]"
 related_theories:
   - "[[Bianconi-Barabási Model]]"
+  - "[[Universality of Citation Distributions]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
   - "[[Ordinary Least Squares]]"
   - "[[Relative Citation Normalization]]"
   - "[[Effect Size]]"
+  - "[[Difference-in-Differences]]"
 related_instruments: []
 related_persons:
   - "[[Derek de Solla Price]]"
@@ -41,21 +45,29 @@ related_persons:
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
   - "[[Filippo Radicchi]]"
+  - "[[Roberta Sinatra]]"
   - "[[Mark Newman]]"
-related_facts: []
+  - "[[Santo Fortunato]]"
+  - "[[Chaoming Song]]"
+related_facts:
+  - "[[Web of Science]]"
+  - "[[SciSciNet]]"
+  - "[[Microsoft Academic Graph]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
+  - "[[Argument_Sinatra_2016_Science]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
-  - "[[Argument_Lin_2023_SciData]]"
   - "[[Argument_Azoulay_2011_RJE]]"
+  - "[[Argument_Fortunato_2018_Science]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
+  - "[[Argument_Lin_2023_SciData]]"
   - "[[Argument_Hao_2026_Nature]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-11-08
+updated: 2026-11-11
 ---
 
 ---
@@ -66,7 +78,7 @@ updated: 2026-11-08
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 标识科学建制中[[Scientific Credit|学术承认]]与注意力资源在宏观出版物全集中的概率分配形态。
 > - **用途** 为科学计量学家、政策制定者与学术评估机构提供分析学术成果影响力[[Heterogeneity|异质性]]、识别长尾极端事件以及检验引文增长动力学机制的基础数理模型。
-> - **边界** 适用于具有稳定引文积累窗口的同行评议出版物集合；不适用于单个学者终身成果的离散计数，亦不直接等同于瞬时传播维度的网络点击与社交媒体热度（Altmetrics）。
+> - **边界** 适用于具有稳定引文积累窗口的同行评议出版物集合；不适用于单个学者终身成果的离散计数，亦不直接等同于瞬时传播维度的网络点击与社交媒体热度（[[Altmetrics]]）。
 
 > [!citation-card|notitle] 关键表述
 > 统计数据表明绝大多数已发表论著在后续年份中仅获得微乎其微的引用，而极少数论著却能吸纳极其可观的引文总量。将各被引频次的成果数量绘制在双对数坐标图上，引文频次的概率分布紧密贴合一条斜率约为负三的幂律直线，揭示了引文生成机制本质上是一种不断自我强化的累积优势动态过程。(Price, 1965, pp. 510–515)
@@ -128,7 +140,7 @@ updated: 2026-11-08
 > **数理分布形态与极端离群值机制** 检视学术承认在出版物全集中的概率分配规律，确立引文积累对经典高斯正态对称假设的根本颠覆。
 
 > [!claim] Price, D. J.
-> **早期引文分布的幂律特征发现** 德里克·J·德索拉·普赖斯（Derek J. de Solla Price）基于[[Eugene Garfield|加菲尔德]]与谢尔整理的科学引文索引数据，首次绘制了全量文献的引文分布曲线；研究发现绝大多数成果仅获极少引用，而极少数成果吸附极高引用，确立引文分布近似服从指数约为 3 的幂律形式：
+> **早期引文分布的幂律特征发现** 德里克·J·德索拉·普赖斯（Derek J. de Solla Price）基于[[Eugene Garfield|加菲尔德]]与谢尔整理的[[Web of Science|科学引文索引]]数据，首次绘制了全量文献的引文分布曲线；研究发现绝大多数成果仅获极少引用，而极少数成果吸附极高引用，确立引文分布近似服从指数约为 3 的幂律形式：
 > $$P(c) \sim c^{-\gamma} \quad (\gamma \approx 3.0)$$
 > 其中 $c$ 为成果被引次数，$\gamma$ 为幂律衰减指数。若计入零被引与极小计数的平移修正，分布呈现为平移幂律形态：
 > $$P(c) = C (c + c_0)^{-\gamma}$$
@@ -150,7 +162,7 @@ updated: 2026-11-08
 > 实证拟合显示跨学科参数普适趋同于 $\mu \approx -0.36, \sigma \approx 0.85$，证实学术影响力在各个学科领域内部遵循普适的统计规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Radicchi et al., 2008, via Wang & Barabási, 2021, pp. 177–179)]]
 
 > [!claim] [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]]
-> **学者个体引文分布经能力标度向普适对数正态分布坍缩** 罗伯塔·西纳特拉（Roberta Sinatra）等将引文分布坍缩现象从宏观学科层级推进至微观学者个体层级。学者个体论著的十年被引分布虽然在平均水平上相差数个数量级，但构建约化变量 $p = c_{10} / Q_i$ 后，所有学者的个体引文分布完全塌缩至同一对数正态函数：
+> **学者个体引文分布经能力标度向普适对数正态分布坍缩** [[Roberta Sinatra|罗伯塔·西纳特拉]]（Roberta Sinatra）等将引文分布坍缩现象从宏观学科层级推进至微观学者个体层级。学者个体论著的十年被引分布虽然在平均水平上相差数个数量级，但构建约化[[Variable|变量]] $p = c_{10} / Q_i$ 后，所有学者的个体引文分布完全塌缩至同一对数正态函数：
 > $$P(p) = \frac{1}{\sqrt{2\pi}\sigma_p p} \exp\left(-\frac{(\ln p - \mu_p)^2}{2\sigma_p^2}\right)$$
 > 实证确立普适参数为 $\mu_p \approx -0.41, \sigma_p \approx 1.25$。这一微观层面的坍缩证实，学者个体引文分布的离散性完全由稳态能力参数 $Q_i$ 缩放主导，而单篇成果的潜在价值均源自相同的通用对数正态分布抽样。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016)]]
 
@@ -182,13 +194,13 @@ updated: 2026-11-08
 > - **2001 — 边康尼-巴拉巴西模型推导对数正态机制** 边康尼与巴拉巴西将成果适应度引入优先连接方程（$\Pi_i \propto \eta_i c_i$），证明在有界正态适应度先验下宏观引文分布内生呈现对数正态形态。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Bianconi & Barabási, 2001, via Wang & Barabási, 2021, pp. 187–188)]]
 > - **2005 — 极值区域幂律与平移变体验证** [[Mark Newman|马克·纽曼]]（Mark Newman）对多领域大规模引文数据集开展严格统计检验，确立平移幂律在极端厚尾区域的拓扑解释力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Newman, 2005, via Wang & Barabási, 2021, p. 179)]]
 > - **2008 — 相对引文标准化与对数正态普适性发现** 菲利波·拉迪基（Filippo Radicchi）等人提出相对标度算法，证实各学科引文分布普适坍缩于对数正态曲线。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Radicchi et al., 2008, via Wang & Barabási, 2021, pp. 177–179)]]
-> - **2011 — 初始吸引力与优先连接门槛检验** 严希范（Young-Ho Eom）与桑托·福图纳托（Santo Fortunato）实证检验发现，当成果累积被引低于 7 次时由初始吸引力 $c_0$ 支配，跨越 7 次门槛后优先连接机制才全面开启。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Eom & Fortunato, 2011, via Wang & Barabási, 2021, pp. 258–259)]]
+> - **2011 — [[Initial Attractiveness|初始吸引力]]与优先连接门槛检验** 严希范（Young-Ho Eom）与[[Santo Fortunato|桑托·福图纳托]]（Santo Fortunato）实证检验发现，当成果累积被引低于 7 次时由初始吸引力 $c_0$ 支配，跨越 7 次门槛后优先连接机制才全面开启。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Eom & Fortunato, 2011, via Wang & Barabási, 2021, pp. 258–259)]]
 > - **2011 — 引文长尾分布分位数度量高风险探索突破** [[Argument_Azoulay_2011_RJE|Azoulay et al. (2011)]] 基于生命科学领域全量文献的右偏引文分布，构建前 1%、前 5% 与前 25% 的非线性分位数指标，确立了引文长尾分布分位数在检验科研资助契约激励效应中的应用范本。
-> - **2013 — WSB 模型提出与普适标度主曲线坍缩** 王大顺、宋超明与巴拉巴西建立微观引文动力学模型，推导单篇累积引文封闭解析解，无量纲重标度证实微观轨迹跨越学科严格坍缩至标准正态累积分布主曲线上。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang et al., 2013, via Wang & Barabási, 2021, pp. 210–213)]]
+> - **2013 — WSB 模型提出与普适标度主曲线坍缩** 王大顺、[[Chaoming Song|宋超明]]与巴拉巴西建立微观引文动力学模型，推导单篇累积引文封闭解析解，无量纲重标度证实微观轨迹跨越学科严格坍缩至标准正态累积分布主曲线上。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang et al., 2013, via Wang & Barabási, 2021, pp. 210–213)]]
 > - **2016 — 学者个体引文分布经能力标度塌缩** [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] 确立学者微观引文分布的 Q 参数约化机制，证实个体引文分布除以 $Q_i$ 后全部塌缩至普适对数正态分布（$\mu_p \approx -0.41, \sigma_p \approx 1.25$）。
 > - **2018 — 引文动力学与跨学科普适规律系统阐释** [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] 在《科学》全面评述引文动力学普适性，实证确立经学科当年均值标准化后各领域引文分布严格重叠，且微观时序演化轨迹可通过适合度重标度实现普适折叠（pp. 4–5）。
 > - **2021 — 科学学影响力分配动力学系统集成** 王大顺与巴拉巴西在《科学学》中全面总结引文分布数理特征，将其确立为解析科学注意力和声望分层的基石[[Construct|构念]]，并指出跨学科普适标度在政策干预与考核中必须充分顾及领域异质性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 174–180)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, p. 252)]]
-> - **2023 — 大规模成果家族聚合校准全局引文网络分布（[[Argument_Lin_2023_SciData|Lin et al., 2023]]）** 林泽、尹亚楠、刘鲁与王大顺在构建 SciSciNet 时，针对多版本预印本与正式出版物分离导致的自引虚高与引文分布失真，研发成果家族消歧归并算法，对 1.34 亿篇核心出版物与 14 亿条引文实施全局重算，校正了网络入度与引文分布的结构性偏差。
+> - **2023 — 大规模成果家族聚合校准全局引文网络分布（[[Argument_Lin_2023_SciData|Lin et al., 2023]]）** 林泽、尹亚楠、刘鲁与王大顺在构建 [[SciSciNet]] 时，针对多版本预印本与正式出版物分离导致的自引虚高与引文分布失真，研发成果家族消歧归并算法，对 1.34 亿篇核心出版物与 14 亿条引文实施全局重算，校正了网络入度与引文分布的结构性偏差。
 > - **2026 — 人工智能扩散加剧引文分布极化与结构性断裂** 郝琦（Qi Hao）等长周期追踪 4,130 万篇自然科学出版物，实证揭示引入 AI 使成果引文基尼系数自 0.690 显著攀升至 0.754（$t = 27.86, p < .001$），前 22.20% 的代表成果吸纳 80% 的全局引用，同时后续学术卷入度下降 22%，表明算法应用驱动学术注意力向极少数明星成果结构性垄断。[[Argument_Hao_2026_Nature|(Hao et al., 2026)]]
 
 ---
@@ -216,9 +228,9 @@ updated: 2026-11-08
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Radicchi et al. (2008)]] | Web of Science 索引的细分学科全量发表文献（涵盖材料、天文、工程、农业等领域） | 跨学科引文计量统计与标准化函数拟合 | 篇均被引数 $\langle c \rangle$ 与文献总量 $N$ | 发育生物学篇均被引 38.67 次；材料生物材料篇均 23.02 次；天文学 21.41 次；生化方法 20.54 次；航空航天工程篇均仅 5.65 次；材料测试 4.59 次 | 达到 100 次引用的概率在发育生物学与航空航天工程间相差两个数量级 | 原始引文频次受领域引用传统制约，经 $c_f = c / \langle c \rangle$ 标准化后坍缩至对数正态主曲线 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit09\|Wang & Barabási (2021)]] | 2004 年出版的 21 个学科门类成果截至 2012 年全样本（WoS 数据库） | 跨学科引文计量统计与规模分布分析 | 学科篇均被引频次 $\langle c \rangle$ 与出版总数 $N$ | 多学科科学篇均 48.85 次（$N = 10,909$）；细胞生物学 32.72 次（$N = 17,610$）；综合化学 21.38 次；人工智能 16.77 次；基础数学 4.61 次；海洋工程 1.06 次（$N = 489$） | 各领域篇均被引存在近 50 倍结构性级差 | 证实各学科绝对引文基数存在客观鸿沟，确立微观跨学科比较必须依赖无量纲标准化的必要性 |
 > | [[Argument_Sinatra_2016_Science\|Sinatra et al. (2016)]] | 跨越一个世纪的 2,887 位长周期物理学家与 7 大门类跨学科学者 | 学者个体引文分布拟合与能力参数约化检验 | 论著十年被引量 $c_{10}$、个体能力参数 $Q_i$ 与约化标度变量 $p = c_{10}/Q_i$ | 经 $Q_i$ 归一化后，不同学者原本相差数个数量级的引文分布精确塌缩至对数正态分布曲线（$\mu_p \approx -0.41, \sigma_p \approx 1.25$） | 柯尔莫哥洛夫-斯米尔诺夫检验拟合显著 | 确证学者微观引文分布受个体稳态能力因子缩放，选题潜在价值具有跨学科普适对数正态性 |
-> | [[Argument_Lin_2023_SciData\|Lin et al. (2023)]] | 全球 1.34 亿篇跨学科文献与 14 亿条引文网络 | 成果家族消歧聚合与全局引文网络重算 | 预印本版本合并对引文膨胀的校正效应与网络度分布 | 归并多版本成果家族消除内部自引循环，重算 134,129,188 篇文献的引文分布与网络入度/出度，解决引文虚高偏差 | 跨 Web of Science 与 MAG 基准对齐检验（CCC > 0.99） | 证实多版本成果若不实施实体聚合，引文分布在头部与自引区间将产生显著系统性失真 |
+> | [[Argument_Lin_2023_SciData\|Lin et al. (2023)]] | 全球 1.34 亿篇跨学科文献与 14 亿条引文网络 | 成果家族消歧聚合与全局引文网络重算 | 预印本版本合并对引文膨胀的校正效应与网络度分布 | 归并多版本成果家族消除内部自引循环，重算 134,129,188 篇文献的引文分布与网络入度/出度，解决引文虚高偏差 | 跨 Web of Science 与 [[Microsoft Academic Graph\|MAG]] 基准对齐检验（CCC > 0.99） | 证实多版本成果若不实施实体聚合，引文分布在头部与自引区间将产生显著系统性失真 |
 > | [[Argument_Fortunato_2018_Science\|Fortunato et al. (2018, pp. 4–5)]] | 物理学、生物医药等多学科长周期论著时序引文数据 | 相对引文标准化与三参数微观动力学拟合 | 相对被引指标 $c_f = c/c_0$、适合度 $\lambda$、即时性 $\mu$ 与寿命 $\sigma$ | 单篇被引 $c$ 除以全领域均值 $c_0$ 后，相对引文 $c_f = c/c_0$ 分布严格收拢至对数正态主曲线（$\mu \approx -0.36, \sigma \approx 0.85$）；三参数重标度使异质时序轨迹收拢至统一累积主曲线 | 全球跨学科科研文献全样本 | 证实微观引文动态与宏观引文分布在消除学科规模与时间尺度后严格遵循普适物理统计规律 |
-> | [[Argument_Azoulay_2011_RJE\|Azoulay et al. (2011)]] | 生命科学全量学术成果与 417 位顶尖学者微观面板（1980–2006 年） | 基于全域引文长尾分布的分位数测度与半参数双重差分估计 | 全球引文分布前 25%、5%、1% 极端分位数产出与底层试错 | 全域引文呈高度右偏肥尾；入选 HHMI 对学者前 1% 极端长尾成果的拉动效应系数达 $0.678$（$p < .01$），显著超过均值产出（$0.333$） | 泊松与 SDD 估计显著 | 证实引文分布的长尾分位数能够有效克服均值被引局限，捕捉高风险探索带来的极端非线性突破 |
+> | [[Argument_Azoulay_2011_RJE\|Azoulay et al. (2011)]] | 生命科学全量学术成果与 417 位顶尖学者微观面板（1980–2006 年） | 基于全域引文长尾分布的分位数测度与半参数[[Difference-in-Differences\|双重差分]]估计 | 全球引文分布前 25%、5%、1% 极端分位数产出与底层试错 | 全域引文呈高度右偏肥尾；入选 HHMI 对学者前 1% 极端长尾成果的拉动效应系数达 $0.678$（$p < .01$），显著超过均值产出（$0.333$） | 泊松与 SDD 估计显著 | 证实引文分布的长尾分位数能够有效克服均值被引局限，捕捉高风险探索带来的极端非线性突破 |
 | [[Argument_Hao_2026_Nature\|Hao et al. (2026)]] | OpenAlex 数据库 41,298,433 篇跨越六大自然科学门类的出版成果（1980–2025 年） | 大规模文献计量分析与复杂网络拓扑建模 | 引文分布基尼系数与前分位数引用累积份额 | AI 成果引文基尼系数为 0.754，非 AI 成果为 0.690；前 22.20% 成果吸纳 80% 引用，前 54.14% 成果吸纳 95% 引用 | $t = 27.86, p < .001$ | 揭示 AI 研究中注意力与学术承认向头部极少数明星成果的高度垄断与马太效应加剧 |
 
 ---
@@ -237,7 +249,7 @@ updated: 2026-11-08
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Azoulay_2011_RJE|Azoulay et al. (2011)]] — 依托生命科学全量学术成果的右偏引文分布构建多层分位数突破指标，实证确证宽容失败的资助契约对极端长尾突破的因果倍增效应。
-> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 系统评述引文分布普适性，实证确立相对引文标准化下各学科分布向对数正态主曲线的收拢与时序轨迹普适折叠。
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 系统评述[[Universality of Citation Distributions|引文分布普适性]]，实证确立相对引文标准化下各学科分布向对数正态主曲线的收拢与时序轨迹普适折叠。
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 构建成果家族消歧管道，重算 1.34 亿篇文献与 14 亿条引文的网络分布，校正预印本多版本并存引发的引文膨胀偏差。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 系统总结学术成果引文分布的肥尾幂律特征（Unit 07）、相对引文标准化坍缩主曲线（Unit 07）、适应度正态先验推导（Unit 08）与宏观科学学应用。
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 提出 Q 参数约化标度算法，实证揭示微观学者引文分布经能力因子缩放后全部塌缩至通用对数正态函数。

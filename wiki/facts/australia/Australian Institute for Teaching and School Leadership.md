@@ -10,7 +10,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -47,6 +47,7 @@ related_facts:
   - "[[Strong Beginnings Report]]"
   - "[[Australian Education Research Organisation]]"
   - "[[Australian Curriculum]]"
+  - "[[Australian Curriculum, Assessment and Reporting Authority]]"
   - "[[LANTITE]]"
   - "[[Australian Council for Educational Research]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
@@ -57,7 +58,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -99,7 +100,7 @@ updated: 2026-11-02
 > [!actor-grid] 组织治理架构
 > - **决策机构（AITSL 董事会）** 由联邦教育部长直接任命的独立董事会，成员涵盖知名教育学者（如长期担任主席的[[John Hattie|约翰·哈蒂]]）、资深中小学校长、智库代表（如詹妮弗·巴金汉博士）与各州教育官僚代表。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 260)]]; [[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
 > - **执行机构（管理团队）** 设立执行总裁（CEO）与常设业务局室，负责协调全澳标准落地、认证指南更新与教师[[Further Education|继续教育]]评估。
-> - **协作网络与专业同盟** 紧密联动[[Australian Education Research Organisation|澳大利亚教育研究组织]]（[[Australian Education Research Organisation|AERO]]）、[[Australian Curriculum|澳大利亚课程]]评估与报告局（ACARA）及负责实施职前教师统考（[[LANTITE]]）的[[Australian Council for Educational Research|澳大利亚教育研究委员会]]（[[Australian Council for Educational Research|ACER]]）。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> - **协作网络与专业同盟** 紧密联动[[Australian Education Research Organisation|澳大利亚教育研究组织]]（[[Australian Education Research Organisation|AERO]]）、[[Australian Curriculum|澳大利亚课程]]评估与报告局（[[Australian Curriculum, Assessment and Reporting Authority|ACARA]]）及负责实施职前教师统考（[[LANTITE]]）的[[Australian Council for Educational Research|澳大利亚教育研究委员会]]（[[Australian Council for Educational Research|ACER]]）。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 8)]]
 
 > [!pathways] 业务运行机制
 > - **由中间领导的学区治理策略** AITSL 董事会明确拒绝直接游说联邦教育部长开展“单年政绩运动”（如英国式单年反馈运动），转而贯彻[[Michael Fullan|迈克尔·富兰]]倡导的“由中间领导”（Lead from the middle）治理模式，绕开易受选举政治波动的政客，直接将循证标准深耕于各州学区网络与校长专业共同体。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 259–260)]]
@@ -157,5 +158,5 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis and Rowe (2024)]] — 剖析 AITSL 职权扩张、智库[[Policy Network|理念编排]]与监视治理机制的实证文献。
+> - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis and Rowe (2024)]] — 剖析 AITSL 职权扩张、智库[[Policy Network|理念编排]]与监视治理机制的实证[[Document|文献]]。
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 记录哈蒂自述 AITSL 避免短期行政运动、深耕学区中间领导治理策略的实证[[Document|文献]]。

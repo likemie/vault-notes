@@ -40,6 +40,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Technological Republic]]"
   - "[[Subjectivism]]"
+  - "[[Research Tool]]"
   - "[[Evidence Standards]]"
   - "[[Operationalization]]"
   - "[[Engineering Mindset]]"
@@ -48,8 +49,8 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Principle of Parsimony]]"
   - "[[Postpositivism]]"
-  - "[[Bureaucracy]]"
 related_persons:
+  - "[[Francis Bacon]]"
   - "[[René Descartes]]"
   - "[[Andreas Kazamias]]"
   - "[[Harold Noah]]"
@@ -57,7 +58,6 @@ related_persons:
   - "[[George Psacharopoulos]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
-  - "[[Francis Bacon]]"
   - "[[John Locke]]"
   - "[[George Berkeley]]"
   - "[[Karl Popper]]"
@@ -82,7 +82,7 @@ related_facts:
 confidence: high
 status: completed
 created: 2026-09-09
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -111,7 +111,7 @@ updated: 2026-11-03
 > | 比较维度 | 经验主义（Empiricism） | 理性主义（Rationalism） |
 > |---|---|---|
 > | **知识源泉** | 感官知觉、实地观察、测量数据、后天体验与实战运行反馈 | 先天理性、逻辑推演、数学公理与反思明证 |
-> | **核心方法论** | 培根式经验归纳法、假设检验、受控实验、即兴试错迭代 | [[René Descartes\|笛卡尔]]式演绎三段论、先验公理化体系推导 |
+> | **核心方法论** | [[Francis Bacon\|培根]]式经验归纳法、假设检验、受控实验、即兴试错迭代 | [[René Descartes\|笛卡尔]]式演绎三段论、先验公理化体系推导 |
 > | **真理检验标准** | 实证证据的概率支持力度、经验可复核性与现实运行效果 | 逻辑无矛盾性、演绎必然性与理性自明度 |
 > | **对理论的定位** | 理论是经验事实的概括，必须随时接受数据与实战修正 | 理论是统领感官表象的公理体系，经验仅为佐证 |
 > | **学术与工程表现** | 实证调查、随机实验、行为分析、软件敏捷开发与实战试错 | 经典教育哲学思辨、规范伦理推演、纯理论形式化模型 |
@@ -220,7 +220,7 @@ updated: 2026-11-03
 > > 争论研究搜集到的经验数据究竟是对客观实在的镜像反映，还是受理论框架建构的产物。
 > >
 > > - **传统经验主义阵营** 坚信客观感官证据具有独立裁判地位，是抵御[[Subjectivism|主观主义]]偏见的基石。
-> > - **后实证与[[Critical Realism|批判实在论]]学者** 指责素朴经验主义混淆了经验表象与深层生成机制，忽视了数据早已被研究工具与测量理论深度塑形。
+> > - **后实证与[[Critical Realism|批判实在论]]学者** 指责素朴经验主义混淆了经验表象与深层生成机制，忽视了数据早已被[[Research Tool|研究工具]]与测量理论深度塑形。
 >
 > > [!axis] 量化崇拜 vs 质性生活世界经验
 > > 争论教育探究中的经验是否应狭隘局限于可量化、可统计的指标数据。

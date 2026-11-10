@@ -12,9 +12,9 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 1
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 12
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "[[UNESCO]], [[World Bank]], [[UNICEF]], UNDP"
 tags:
@@ -24,27 +24,38 @@ tags:
   - theme/global-governance
   - region/global
   - level/basic-education
-related_concepts: []
+related_concepts:
+  - "[[International Education]]"
+  - "[[Basic Learning Needs]]"
+  - "[[Problem Solving]]"
+  - "[[Transnational Education]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Wadi Haddad]]"
+related_facts:
+  - "[[UNESCO]]"
+  - "[[World Bank]]"
+  - "[[UNICEF]]"
+  - "[[Education for All]]"
+  - "[[Dakar Framework for Action]]"
+  - "[[Millennium Development Goals]]"
 related_arguments:
   - "[[Argument_King_2007_CE]]"
 confidence: high
 status: draft
 created: 2026-11-06
-updated: 2026-11-06
+updated: 2026-11-11
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1990 年 3 月 5 日至 9 日由[[UNESCO|联合国教科文组织]]（UNESCO）、[[World Bank|世界银行]]（World Bank）、[[UNICEF|联合国儿童基金会]]（UNICEF）与联合国开发计划署（UNDP）联合在泰国宗滴恩（Jomtien）世界全民教育大会上正式发布。[[Argument_King_2007_CE|(King, 2007, pp. 378–380)]]
+> - **发布时间 / 发布主体** 1990 年 3 月 5 日至 9 日由[[UNESCO|联合国教科文组织]]（UNESCO）、[[World Bank|世界银行]]（World Bank）、[[UNICEF|联合国儿童基金会]]（UNICEF）与联合国开发计划署（UNDP）联合在泰国宗滴恩（Jomtien）世界[[Education for All|全民教育]]大会上正式发布。[[Argument_King_2007_CE|(King, 2007, pp. 378–380)]]
 > - **适用地区 / 对象** 覆盖全球 155 个国家与地区的主权政府代表团，重点关注第三世界发展中国家学龄儿童、失学青年与成人文盲群体。[[Argument_King_2007_CE|(King, 2007, pp. 378, 380)]]
 > - **问题背景** 1980 年代受第三世界债务危机与结构调整冲击，全球逾 1 亿儿童失学，近 10 亿成人处于文盲状态；冷战缓和契机促使联合国专门机构与布雷顿森林机构寻求跨越意识形态分歧，凝聚全球受教育权共识。[[Argument_King_2007_CE|(King, 2007, pp. 378–379)]]
-> - **制度位置** 战后国际教育发展史上首个由多边多机构联合发起的基础教育全球行动总纲领，开启了以目标协调为特征的跨国量化治理时代，直接孕育了后续《达喀尔行动纲领》与千年发展目标教育议程。[[Argument_King_2007_CE|(King, 2007, pp. 377–379)]]
+> - **制度位置** 战后[[International Education|国际教育]]发展史上首个由多边多机构联合发起的基础教育全球行动总纲领，开启了以目标协调为特征的跨国量化治理时代，直接孕育了后续《[[Dakar Framework for Action|达喀尔行动纲领]]》与[[Millennium Development Goals|千年发展目标]]教育议程。[[Argument_King_2007_CE|(King, 2007, pp. 377–379)]]
 
 ---
 
@@ -58,7 +69,7 @@ updated: 2026-11-06
 > - **约束机制** 属于非约束性国际规范倡议；行动框架第 8 段明确采用建议性表述（Countries may wish to set their own targets），倡导主权国家在建议维度内自主确立具有弹性的国别目标。[[Argument_King_2007_CE|(King, 2007, p. 380)]]
 
 > [!citation-card] 基本学习需求的全面界定
-> 每个人——儿童、青年与成人——都应当能够获益于旨在满足其基本学习需求的教育机会。这些需求既包括基本的学习工具（如读写、口头表达、算术与问题解决），也包含人类为生存、充分发展潜能、有尊严地生活与工作、全面参与发展、改善生活质量、作出明智决定以及继续学习所必需的基本学习内容（如知识、技能、价值观与态度）。[[Argument_King_2007_CE|(King, 2007, pp. 379–380)]]
+> 每个人——儿童、青年与成人——都应当能够获益于旨在满足其基本学习需求的教育机会。这些需求既包括基本的学习工具（如读写、口头表达、算术与[[Problem Solving|问题解决]]），也包含人类为生存、充分发展潜能、有尊严地生活与工作、全面参与发展、改善生活质量、作出明智决定以及继续学习所必需的基本学习内容（如知识、技能、价值观与态度）。[[Argument_King_2007_CE|(King, 2007, pp. 379–380)]]
 >
 > *Every person—child, youth and adult—shall be able to benefit from educational opportunities designed to meet their basic learning needs. These needs comprise both essential learning tools... and the basic learning content... required by human beings to be able to survive, to develop their full capacities, to live and work in dignity, to participate fully in development, to improve the quality of their lives, to make informed decisions, and to continue learning.*
 
@@ -91,7 +102,7 @@ updated: 2026-11-06
 > - **质量与成效指标** 读写算基础知识与问题解决能力的实际习得测验水平。[[Argument_King_2007_CE|(King, 2007, p. 380)]]
 
 > [!finding-cards] 效果与评价
-> - **确立基础教育全纳哲学** 将满足基本学习需求确立为不可剥夺的基本人权，彻底改变了战后跨国教育发展的政策叙事。[[Argument_King_2007_CE|(King, 2007, pp. 379–380)]]
+> - **确立基础教育全纳哲学** 将满足基本学习需求确立为不可剥夺的基本人权，彻底改变了战后[[Transnational Education|跨国教育]]发展的政策叙事。[[Argument_King_2007_CE|(King, 2007, pp. 379–380)]]
 > - **多边机构执行中的指标异化** 虽文本确立了六大综合维度，但世界银行与 UNICEF 在资金落地中迅速聚焦于易测量的正规初等教育，导致早期保育、成人扫盲与实用技能被边缘化。[[Argument_King_2007_CE|(King, 2007, pp. 380–381)]]
 > - **弹性建议向刚性指标的转化** 行动框架赋予各国的自主设定弹性被技术官僚剥离，逐步变为 2000 年前必须达标的单一全球硬性倒计时，导致后续目标落空并引发频繁的目标重置。[[Argument_King_2007_CE|(King, 2007, pp. 380, 389)]]
 > - **南方国家起草权缺位** 尽管 155 国参会，但文本设计与学段取舍权完全由北方多边技术官员垄断，未给发展中国家提供围绕中高等教育与工业化关系的实质政治辩论空间。[[Argument_King_2007_CE|(King, 2007, pp. 380–381)]]

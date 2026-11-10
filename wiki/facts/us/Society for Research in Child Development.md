@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
   - theme/science-communication
 related_concepts:
   - "[[Policy Window]]"
+  - "[[Early-Career Researchers]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -71,7 +72,7 @@ updated: 2026-10-26
 
 > [!pathways] 业务运行机制
 > - **快速响应机制** 依托 [[Rapid Assessment and Response Strategy\|RARS]] 战略，当边境移民儿童分离危机或重大公共危机爆发时，委员会在数小时内甄选学科领军专家，极速聚合[[Meta-analysis\|元分析]]与实证综述，在黄金[[Policy Window|政策窗口]]期出具权威反应声明。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 47)]]
-> - **政策研究员选派与驻留** 每年选拔优秀儿童发展博士后与青年学者，资助其前往[[United States Congress|美国国会]]两院委员会或联邦行政部委担任为期一年的全职科学政策顾问（SRCD Policy Fellows）。
+> - **政策研究员选派与驻留** 每年选拔优秀儿童发展博士后与[[Early-Career Researchers|青年学者]]，资助其前往[[United States Congress|美国国会]]两院委员会或联邦行政部委担任为期一年的全职科学政策顾问（SRCD Policy Fellows）。
 
 ---
 

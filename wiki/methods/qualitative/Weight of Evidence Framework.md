@@ -8,9 +8,9 @@ summary: "由 Gough（2007）提出的系统综述证据评价方法，通过方
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 38
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 40
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -61,14 +61,16 @@ related_instruments:
 related_persons:
   - "[[David Gough]]"
 related_facts:
+  - "[[Dimensions]]"
   - "[[EPPI-Centre]]"
+  - "[[EPPI-Reviewer]]"
   - "[[National Institute for Health and Care Excellence]]"
 related_arguments:
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
 confidence: high
 status: draft
 created: '2026-09-14'
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -85,7 +87,7 @@ updated: 2026-10-30
 > [!citation-card] Gough（2007）证据权重框架的核心界定
 > 证据权重框架的根本思路是：不同研究在特定综述问题的证据图谱中所占份量（权重）取决于两方面，一是研究固有的方法学严谨性，二是该研究与综述聚焦问题的相关程度。这两个维度相互独立，均应在综合裁决前分别明确评定。（Gough, 2007, p. 213）
 >
-> *The weight given to a study in a synthesis depends on its methodological quality... and its relevance to the review question... These two dimensions should be assessed separately before being combined.*
+> *The weight given to a study in a synthesis depends on its methodological quality... and its relevance to the review question... These two [[Dimensions|dimensions]] should be assessed separately before being combined.*
 
 ---
 
@@ -99,7 +101,7 @@ updated: 2026-10-30
 > - **研究设计** 嵌入[[Systematic Review\|系统综述]]流程之内，作为[[Document|文献]]筛选后、数据提取与综合前的结构化质量与适切性评价环节。
 > - **数据收集** 依据事先制定的评价准则，对每项纳入研究的方法学信息（研究设计、样本、测量、偏倚控制）和情境信息（研究人群、干预内容、实施情境与综述问题的匹配度）进行系统提取。
 > - **分析方法** 双人独立评分、协商修正、按维度分层汇总，最终给出综合权重裁决（WoE-D），形成可供综合分析使用的证据质量矩阵。
-> - **辅助技术** 结构化评价表格、[[Qualitative Codebook\|编码手册]]与团队协商备忘录；在 [[EPPI-Centre]] 系统综述软件（EPPI-Reviewer）中可嵌入结构化 WoE 评分模块。
+> - **辅助技术** 结构化评价表格、[[Qualitative Codebook\|编码手册]]与团队协商备忘录；在 [[EPPI-Centre]] 系统综述软件（[[EPPI-Reviewer]]）中可嵌入结构化 WoE 评分模块。
 
 ---
 

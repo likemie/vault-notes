@@ -7,7 +7,7 @@ aliases:
 summary: "英格兰与苏格兰基础教育中由学校雇用的准专业人员，常规配置下因角色错位易导致学困生学业逆转；EEF 提炼七项循证建议并通过区域战役证实结构性优化能带来显著学业增益；跨国实证进一步揭示官方助教证据在英格兰被工具化挪用为财政裁员借口，而在苏格兰则遭到一线实践者凭借贡献型专长的坚决抵制。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Contributory Expertise]]"
   - "[[School Leadership]]"
   - "[[Co-Teaching]]"
+  - "[[Lecturing]]"
   - "[[Scaffolding]]"
   - "[[Champ]]"
   - "[[Document]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-14'
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -82,7 +83,7 @@ updated: 2026-11-03
 > | 比较维度 | 常规随意配置模式（Traditional Discretionary Model） | 循证结构化重组模式（Evidence-Informed Structured Model） |
 > |---|---|---|
 > | **核心角色定位** | 主讲教师的“低成本替代品”与课堂纪律维稳员 | 结构化干预的支架搭建者与[[Co-Teaching\|协同教学]]辅助者 |
-> | **学困生辅导逻辑** | 将薄弱学生从主讲课堂中抽离，由助教单独看护 | 确保薄弱学生接受高质量主讲教学，助教仅提供针对支架 |
+> | **学困生辅导逻辑** | 将薄弱学生从主[[Lecturing\|讲课]]堂中抽离，由助教单独看护 | 确保薄弱学生接受高质量主讲教学，助教仅提供针对支架 |
 > | **主辅协同机制** | 缺乏制度化协同时间，多为课前课后临场口头交待 | 学校排课中刚性保障主辅教师共同备课与学情沟通时间 |
 > | **辅导技能要求** | 凭借直觉提供即时帮助，倾向于直接给出答案 | 接受系统支架培训（[[Scaffolding]]），引导学生自主探究 |
 > | **实证学业后果** | 产生系统性隔离与负向逆转（Webster et al., 2010） | 获得显著正向学业增益（Sibieta & Sianesi, 2019） |

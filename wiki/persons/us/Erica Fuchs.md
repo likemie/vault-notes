@@ -10,7 +10,7 @@ summary: "美国卡内基梅隆大学工程与公共政策教授，技术变革�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 28
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Paradigm]]"
   - "[[Competitiveness]]"
+  - "[[Feedback]]"
   - "[[Network Plasticity]]"
   - "[[Structural Holes]]"
   - "[[Boundary Spanner]]"
@@ -46,6 +47,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Tony Tether]]"
+  - "[[Lee Fleming]]"
   - "[[Mariana Mazzucato]]"
   - "[[David C. Mowery]]"
 related_facts:
@@ -60,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -82,7 +84,7 @@ updated: 2026-11-02
 
 > [!work-line] 主要著作与思想演进
 > - **2010 — *Rethinking the role of the state in technology development: [[DARPA]] and the case for [[Embedded Network Governance]]***（《重新审视国家在技术发展中的角色：DARPA 与嵌入型[[Network Governance|网络治理]]案例》） 基于对 DARPA 微系统技术办公室在硅锗（SiGe）、应变硅、3D 封装与超高性能片内纳米光子通信（UNIC）芯片互连领域历经 16 年的纵向扎根[[Case Study|案例研究]]，系统梳理 DARPA 建局 50 年来跨越 6 个年代的使命演化，对比 1990 年代与 2000 年代[[Tony Tether|托尼·瑟瑟]]任期采办制度的激进重组，提出嵌入型[[Network Governance|网络治理]]概念，揭示项目经理（PMs）依托 5 项微观非正式制度重塑研发者社会网络以开辟战略[[Technological Trajectories|技术轨道]]，终结了学术界关于托尼·瑟瑟改革导致“DARPA已死”的争论。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1147)]]
-> - **2012 — *The impact of location on technology trajectories: Why silicon photonics failed to scale in the US*** 考察全球化生产转移对前沿硬件技术迭代轨迹的结构性制约，论证制造能力的地理分离如何削弱本土研发团队的设计–制造反馈回路（design–manufacturing feedback loop）。
+> - **2012 — *The impact of location on technology trajectories: Why silicon photonics failed to scale in the US*** 考察全球化生产转移对前沿硬件技术迭代轨迹的结构性制约，论证制造能力的地理分离如何削弱本土研发团队的设计–制造反馈回路（design–manufacturing [[Feedback|feedback]] loop）。
 > - **2023 — *Building the analytical foundation for national technology strategy*** 阐述大数据时代如何构建国家关键技术战略评估的情报基础设施，主张将底层微观工程参数、产业链拓扑与宏观经济安全指标紧密融合。
 
 ---
@@ -94,7 +96,7 @@ updated: 2026-11-02
 > - **[[Embedded Network Governance|嵌入型网络治理]]（Embedded [[Network Governance]]）**
 >   公共代理人内嵌于专业网络，凭借技术研判权与网络中心位置，充当“乐队指挥家”与“系统集成者”，主动重构研发网络连接形态。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135)]]
 > - **[[Network Plasticity|网络可塑性]]（Network Plasticity）超越消极边界跨越**
->   突破罗纳德·伯特（Ronald Burt）[[Structural Holes|结构洞]]理论与李·弗莱明（Lee Fleming）[[Boundary Spanner|边界跨越者]]理论中行动者仅作为中立信息通道的局限，论证公共代理人具备利用立项权裁撤冗余链接、打破学术孤岛并强迫跨界知识流动的网络重塑能动性。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1135, 1144–1145)]]
+>   突破罗纳德·伯特（Ronald Burt）[[Structural Holes|结构洞]]理论与[[Lee Fleming|李·弗莱明]]（Lee Fleming）[[Boundary Spanner|边界跨越者]]理论中行动者仅作为中立信息通道的局限，论证公共代理人具备利用立项权裁撤冗余链接、打破学术孤岛并强迫跨界知识流动的网络重塑能动性。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1135, 1144–1145)]]
 > - **正式管理文化与微观非正式制度的脱钩（decoupling）与韧性**
 >   证明上层正式采办机制的激进变革（如瑟瑟改革推行老牌巨头主承包商、硬性里程碑淘汰与涉密限制）并未摧毁机构核心；项目经理践行的 5 项非正式机制（前瞻识别、闭门风暴、共生共同体、第三方背书与适时断乳）展现出强大的制度韧性，成为维系颠覆性创新效能的深层基石。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134, 1144–1146)]]
 > - **[[Vertical Disintegration|纵向碎片化]]（Vertical Dis-integration）产业的平台整合**

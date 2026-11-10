@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 26
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ tags:
 related_concepts:
   - "[[Evaluation Research]]"
   - "[[Research Impact]]"
+  - "[[Quasi-market]]"
   - "[[Quasi-markets in Higher Education]]"
   - "[[New Public Management]]"
   - "[[Performance Indicators]]"
@@ -37,6 +38,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Evidence-Based Education]]"
   - "[[Public Engagement with Science]]"
+  - "[[Cumulative Innovation]]"
   - "[[Falsification]]"
   - "[[Shape-Shifting]]"
   - "[[New Professionalism]]"
@@ -46,6 +48,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[External Auditor]]"
+  - "[[Journal Impact Factor]]"
 related_persons: []
 related_facts:
   - "[[Economic and Social Research Council]]"
@@ -60,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -88,7 +91,7 @@ updated: 2026-10-26
 ---
 
 > [!theory-components] REF/RAE 驱动的资源与行为重塑
-> - **准市场的强力资源分配机制**
+> - **[[Quasi-market|准市场]]的强力资源分配机制**
 >   REF 是[[Quasi-markets in Higher Education\|高等教育准市场]]最成熟也最具影响力的制度实践。它通过量化考核直接决定数亿英镑 QR 拨款的流向，将[[New Public Management\|新公共管理]]（NPM）的[[Performance Indicators\|绩效指标]]与物质激励强力挂钩，实现了以行政和审计指标调控学术资源的准市场机制（[[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p. 801]]）。
 > - **制度化的[[Matthew Effect in Academia\|学术马太效应]]**
 >   评估逻辑严重倾向于已有资源和历史积累优势的精英机构。 Russell Group（罗素大学集团）大学凭借拥有更多科研岗位、博士生后以及雄厚的发表资源，持续垄断评估得分顶端，获取最大份额的 QR 拨款，进一步拉大了与非精英大学的经费差距（[[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p. 809]]）。
@@ -97,11 +100,11 @@ updated: 2026-10-26
 > - **大学及学者的行为性优化**
 >   院系和研究机构的日常运转、招聘、晋升以及资源配置系统性地围绕 REF 的审计标准展开。这驱使学者在选题时避开风险高、见效慢的研究，转而追求在 REF 周期内更易产生发表和可测度影响的研究，造成学术生态向短期效益偏斜。
 > - **科研考评导向与[[Knowledge Co-production\|知识共创]]（Co-production）的结构性脱节**
->   尽管 REF 等评估框架逐步强化了[[Research Impact\|社会经济影响]]（impact）的要求，但大学内部的职称晋升与同行考评依然严重向高影响因子期刊发表倾斜（Cherney et al., 2012）。学者投身于教育实践一线、开展研究—实践伙伴关系（[[Research-Practice Partnership\|RPP]]）和协同[[Knowledge Production\|知识生产]]所需的大量时间与信任投入，在现行学术考核中缺乏制度化承认与折算机制，导致学术激励导向与国家所倡导的[[Evidence-Based Education\|循证教育]]实践需求发生深层错位（[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, p. 22]]；Burkhardt & Schoenfeld, 2021）。
+>   尽管 REF 等评估框架逐步强化了[[Research Impact\|社会经济影响]]（impact）的要求，但大学内部的职称晋升与同行考评依然严重向高[[Journal Impact Factor|影响因子]]期刊发表倾斜（Cherney et al., 2012）。学者投身于教育实践一线、开展研究—实践伙伴关系（[[Research-Practice Partnership\|RPP]]）和协同[[Knowledge Production\|知识生产]]所需的大量时间与信任投入，在现行学术考核中缺乏制度化承认与折算机制，导致学术激励导向与国家所倡导的[[Evidence-Based Education\|循证教育]]实践需求发生深层错位（[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, p. 22]]；Burkhardt & Schoenfeld, 2021）。
 > - **[[Public Engagement with Science\|公众科学参与]]影响力的测度困境与资源偏倚**
 >   在 REF 2014 与 REF 2021 中，虽然约 50% 的影响力案例提及公众科学参与（人文社科领域显著高于理工医领域），但由于公众参与带来的社会认知与文化变革具有微妙、弥散与长周期特征，因果链条极其难以进行简单量化归因，导致高校在申报时存在顾虑，对公众参与的实质资源投入显著逊于专利商业化与技术创新（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society, 2026, p. 101]]）。
 > - **单兵研究影响力迷思与逆向寻租激励**
->   REF 将巨额质量相关（Quality-Related, QR）科研拨款与单项研究的影响力案例（Impact Case Studies）挂钩，[[Economic and Social Research Council|经济与社会研究理事会]]（Economic and Social Research Council, ESRC）强推全周期影响追踪并设奖表彰现实推广。这一机制与科学证据的贝叶斯综合属性发生深刻冲突：教育真实情境中极少有直接重复试验，单项研究无论设计如何严谨均可能被后续研究[[Falsification\|证伪]]，绝不具备独立指导宏观实践的合法性；对现实影响力的过度追逐迫使学者沦为自身成果的推销商（Chubb & Watermeyer, 2017），甚至导致 ESRC 曾向一项已被多项独立因果试验（如 [[Education Endowment Foundation\|EEF]] 评估）证实完全无效但仍在中小学广泛购买推广的教育干预（即 2014 年“情境化语法写作”大奖案例）颁发杰出社会影响力奖，诱发了学术寻租与逆向淘汰（[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 571–574)]]）。
+>   REF 将巨额质量相关（Quality-Related, QR）科研拨款与单项研究的影响力案例（Impact Case Studies）挂钩，[[Economic and Social Research Council|经济与社会研究理事会]]（Economic and Social Research Council, ESRC）强推全周期影响追踪并设奖表彰现实推广。这一机制与科学证据的贝叶斯综合属性发生深刻冲突：教育真实情境中极少有直接重复试验，单项研究无论设计如何严谨均可能被[[Cumulative Innovation|后续研究]][[Falsification\|证伪]]，绝不具备独立指导宏观实践的合法性；对现实影响力的过度追逐迫使学者沦为自身成果的推销商（Chubb & Watermeyer, 2017），甚至导致 ESRC 曾向一项已被多项独立因果试验（如 [[Education Endowment Foundation\|EEF]] 评估）证实完全无效但仍在中小学广泛购买推广的教育干预（即 2014 年“情境化语法写作”大奖案例）颁发杰出社会影响力奖，诱发了学术寻租与逆向淘汰（[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 571–574)]]）。
 > - **有效影响力嵌入工件的隐形化特征**
 >   对 REF 优秀影响力案例的深入考察表明，科学研究对一线专业实践产生真实而稳固的影响，绝非通过敦促教师研读学术期刊，而是将因果机制深度封装嵌入到技术、服务、标准化工具等隐形工件之中，使实践者无需理解底层证据即可在日常操作中实现最佳实践（[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 596–597)]]）。
 

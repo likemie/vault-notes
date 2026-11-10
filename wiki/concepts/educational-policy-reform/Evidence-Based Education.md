@@ -9,9 +9,9 @@ aliases:
 summary: "主张教育实践与政策决策应建立在严格的因果识别研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡"
 type: concept
 domain: "educational-policy-reform"
-related_count: 149
-related_level: 14
-related_stars: "💎💎💎💎⭐⭐"
+related_count: 154
+related_level: 15
+related_stars: "💎💎💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - evidence-based-education
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Praxis]]"
   - "[[Clinical Trial]]"
+  - "[[Homophily]]"
   - "[[Ontology]]"
   - "[[External Validity]]"
   - "[[Side Effects]]"
@@ -43,6 +44,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Internal Validity]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Policy Translation]]"
   - "[[Policy Window]]"
   - "[[Discourse]]"
   - "[[Output-Oriented Governance]]"
@@ -86,6 +88,7 @@ related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
   - "[[Realist Evaluation]]"
   - "[[Organizational Culture]]"
+  - "[[Didactic Triangle]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Systematic Review]]"
@@ -110,8 +113,10 @@ related_persons:
   - "[[Grover Whitehurst]]"
   - "[[Nancy Cartwright]]"
   - "[[Dylan Wiliam]]"
+  - "[[David Hargreaves]]"
   - "[[Christof Wecker]]"
 related_facts:
+  - "[[Dimensions]]"
   - "[[Research Schools Network]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Education Endowment Foundation]]"
@@ -179,7 +184,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -200,7 +205,7 @@ updated: 2026-11-03
 > [!citation-card] [[Ewald Terhart|埃瓦尔德·特哈特]]论证据本位超级综合的修补金字塔隐喻
 > 既然他的超级分析同时支持了[[Stability vs. Variability Dilemma|稳定性假说]]与变异性假说，显而易见的是，[[John Hattie|哈蒂]]事实上并没有找到研究学校、教学与教师的圣杯。与此相反，他正在极其辛劳地建造一座庞大的金字塔：一方面，它稳固矗立，已经具有相当的宽度与高度以及相对稳定的形态，自然无法被轻易搬移；但另一方面，这座金字塔的某些部分在不断被修复，而且最重要的是，在所有维度上不断被扩建。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 436–437)]]
 >
-> *Since his mega-analysis supports the stability and the variability [[Hypothesis|hypotheses]] as well, it is obvious that Hattie in fact has not found the Holy Grail of research on schooling, teaching, and teachers. Instead of this he intensely labours on a very large pyramid, which on the one hand is firmly placed, already has a considerable width and height and a rather stable form. Of course it cannot be removed from its place. However, on the other hand, the pyramid is constantly restored in some parts and—above all—constantly extended in all its dimensions.*
+> *Since his mega-analysis supports the stability and the variability [[Hypothesis|hypotheses]] as well, it is obvious that Hattie in fact has not found the Holy Grail of research on schooling, teaching, and teachers. Instead of this he intensely labours on a very large pyramid, which on the one hand is firmly placed, already has a considerable width and height and a rather stable form. Of course it cannot be removed from its place. However, on the other hand, the pyramid is constantly restored in some parts and—above all—constantly extended in all its [[Dimensions|dimensions]].*
 
 > [!citation-card] [[Gert Biesta|格特·比斯塔]]论证据本位教育的全球政策吸引力
 > 诸如教育等专业实践应当建立在证据之上或至少受其指导的理念，持续吸引着众多政治家、政策制定者、实践者和研究者的想象力。[[Argument_Biesta_2010_SPE|(Biesta, 2010, p. 491)]]
@@ -223,13 +228,13 @@ updated: 2026-11-03
 > |---|---|---|---|---|---|
 > | **分析对象** | 经严格实验评估（[[Randomised Controlled Trials\|RCT]]）的标准化干预效果 | 多源实证证据的批判性整合与[[Praxis\|实践]]调适过程 | 教育的终极目的、伦理关切与价值正当性 | 临床生理指标、病患特质与病理机制反应 | 本地环境、特定群体情境与默会实践经验 |
 > | **核心机制** | 以 RCT/[[Systematic Review\|系统综述]]的统计平均效应作为实践决策核心依据 | 视证据为重要输入资源，由教师[[Professional Judgment\|专业判断]]整合情境实施 | 民主协商、规范论证与伦理哲学思辨 | 依托生理机制病理理论，结合[[Clinical Trial\|临床试验]]验证疗效 | 现场反思、同伴研讨、师生具身互动与经验积累 |
-> | **适用范围** | 标准化项目准入、财政拨款门禁、宏观系统问责 | 教师日常课堂改进、校本教研网络、微观教学调控 | 课程大纲确立、教育宗旨反思与公共政治抉择 | 具备高度生理生理学同质性的病患治疗与药物研发 | 复杂异质的课堂交互、偶发性教育情境的现场应对 |
+> | **适用范围** | 标准化项目准入、财政拨款门禁、宏观系统问责 | 教师日常课堂改进、校本教研网络、微观教学调控 | 课程大纲确立、教育宗旨反思与公共政治抉择 | 具备高度生理生理学[[Homophily\|同质性]]的病患治疗与药物研发 | 复杂异质的课堂交互、偶发性教育情境的现场应对 |
 
 > [!boundary]- 邻近范式与机制边界
 > - **与[[Evidence-Informed Practice|证据知情实践]]（EIP）** 属于最紧密的邻近概念。EBE 将证据作为行动决策的指令性核心；EIP 则将证据定位为多种互补信息之一，通过教师专业反思与地方情境深度融通。[[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017)]]
 > - **与循证医学（EBM）的[[Ontology|本体论]]错位** 循证医学是 EBE 的历史母本与核心修辞来源。然而医学试验建立在成熟的生理病理因果机制理论之上，教育 RCT 往往跳过发生机制而沦为黑箱测量；更关键的是，医学研究对象（人体生理机制）具有较高的[[External Validity|可推广性]]，而教育科学面对的是高度情境化、多层嵌套且充满主体反思的教育实践（Bildungspraxis），这一本体论差异限制了机械套用医学模式的合法性。[[Argument_Wrigley_2018_BERJ|Wrigley (2018, p. 11)]]; [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019, p. 11)]]
 > - **与[[Local Knowledge in Evidence-Based Policy|地方知识]]（Local Knowledge）的互补** 地方知识源于实践者长期扎根具体时空的默会经验，是 EBE 顶层设计中常被排斥却决定干预生死成败的必要认知维度。
-> - **与干预副作用（[[Side Effects]]）的反思** EBE 片面借鉴了医学对主要疗效的度量，却系统性忽视了对副作用的检验与防控；任何教育干预在提升特定指标的同时均可能引发未预期的负向代价。[[Argument_Zhao_2017_JEC|Zhao (2017)]]
+> - **与干预[[Side Effects|副作用]]（[[Side Effects]]）的反思** EBE 片面借鉴了医学对主要疗效的度量，却系统性忽视了对副作用的检验与防控；任何教育干预在提升特定指标的同时均可能引发未预期的负向代价。[[Argument_Zhao_2017_JEC|Zhao (2017)]]
 
 ---
 
@@ -275,7 +280,7 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 
 ### 要素三：多维转译机制与中介基础设施
 
-> [!taxonomy] 证据向政策转译的三种交互模型
+> [!taxonomy] 证据向[[Policy Translation|政策转译]]的三种交互模型
 > 贝恩布里奇等（[[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, pp. 7–8]]）归纳了实证证据进入政策决策的三种现实轨迹：
 > - **线性模型（Linear Model）** 假定研究产出证据后可直接转化为政策决断，属于 EBE 强版本预设的理想模型，被广泛批评为脱离政治现实。
 > - **多流模型（Multiple Streams Model）** 政策决策是问题流、政策流与政治流三者在[[Policy Window|政策之窗]]开启时的偶合，实证证据仅是政策流中的竞争要素之一。
@@ -346,7 +351,7 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > **情境依赖性与未测量混淆变量** 在教育中追问什么有效是一个错误的问题，因为在特定情境下几乎任何做法都可能有效，但没有任何做法在所有情境都有效。教育知识本质上具有局部性与临时性；例如即使在设计最严谨的 RCT 中，如果未对教师质量这一变异巨大的关键变量进行有效测量与控制，所观察到的干预效应往往会被严重混淆。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, pp. 2, 7–8)]]
 
 > [!claim] 薇拉·玛尼蒂乌斯（[[Vergleichsarbeiten|VERA]] Manitius）与妮娜·范霍尔特（Nina van Holt）
-> **医学类比的本体论不合理性与[[Transfer Science|转移科学]]诉求** 将医学研究成果机械套用于教育领域在本体论上极不合理。医学研究对象具有较高的生理同质性与[[External Validity|可推广性]]，而教育科学面对的是高度情境化且复杂的教育实践。清算中心预设了单向理性的线性供给假设，无法解决基层学校的[[Absorptive Capacity|吸收能力]]赤字；教育科学必须超越被动清算，走向深植于双向对话的转移科学（[[Transfer Science|Transferwissenschaft]]）。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 10–13)]]
+> **医学类比的本体论不合理性与[[Transfer Science|转移科学]]诉求** 将医学研究成果机械套用于教育领域在本体论上极不合理。医学研究对象具有较高的生理[[Homophily|同质性]]与[[External Validity|可推广性]]，而教育科学面对的是高度情境化且复杂的教育实践。清算中心预设了单向理性的线性供给假设，无法解决基层学校的[[Absorptive Capacity|吸收能力]]赤字；教育科学必须超越被动清算，走向深植于双向对话的转移科学（[[Transfer Science|Transferwissenschaft]]）。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 10–13)]]
 
 ---
 
@@ -382,7 +387,7 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > - **1992年 — 循证医学（EBM）范式正式提出** 戈登·盖亚特（Gordon Guyatt）等学者在临床医学领域正式确立循证医学范式，强调临床决策必须建立在最佳实证研究证据基础之上。
 > - **1993年 — Cochrane 协作网成立** 确立[[Systematic Review|系统综述]]与[[Meta-analysis|元分析]]作为全球医学证据综合的金标准与制度基础设施。
 > - **1995年 — [[OECD]] 开启研究与政策脱节反思** 经济合作与发展组织（OECD）发布报告，首次正式指出教育领域长期存在研究成果、公共政策与课堂创新之间脱节的结构性困境。
-> - **1996年 — 英国发起教育医学类比大讨论** 戴维·哈格里夫斯（David Hargreaves）在英国[[Teacher Training Agency|教师培训署]]（TTA）年度演讲中将教育研究与医学进行不利对比，指责教育研究缺乏因果确定性，标志着英国 EBE 运动的政策起点。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, pp. 3–4)]]
+> - **1996年 — 英国发起教育医学类比大讨论** [[David Hargreaves|戴维·哈格里夫斯]]（David Hargreaves）在英国[[Teacher Training Agency|教师培训署]]（TTA）年度演讲中将教育研究与医学进行不利对比，指责教育研究缺乏因果确定性，标志着英国 EBE 运动的政策起点。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, pp. 3–4)]]
 > - **1997年 — 循证教育方法论辩护与[[Effect Size|效应量]]倡议** 卡罗尔·菲茨-吉本（Carol Fitz-Gibbon）提出循证实践的三个必要性论证，倡导以效应量检验替代单一[[Statistical Significance|统计显著性]]，成为早期 EBE 理论构建的关键事件。
 > - **1998年 — 美国立法首次挂钩实证证据与联邦拨款** [[United States Congress|美国国会]]通过全面学校改革（Comprehensive School Reform, CSR）立法，设立每年 1.5 亿美元专项拨款，强制要求学校采用经严格检验的有效模式。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 15)]]
 > - **1999年 — 循证教育概念的理论阐述** 菲利普·戴维斯（Philip Davies）发表《什么是证据本位教育？》，系统阐释教育专业实践与循证医学的关系，确立了 EBE 的经典学术定名。
@@ -519,7 +524,7 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > | [[Educational Evidence Clearinghouses]] | 概念 | 制度基础设施 | 负责汇聚、筛选并分级评定干预方案证据质量的国家级审查与转译机构。 |
 > | [[Transfer Science]] | 概念 | 演进方向 | 德语区学者倡导的替代构想，通过双向对话机制连接教育科学与学校实践。 |
 > | [[Visible Learning]] | 概念 | 代表性项目 | 汇聚逾 800 项[[Meta-analysis\|元分析]]的超级综合巨作，构成全球 EBE 政策应用的核心知识库。 |
-> | [[Didaktik]] | 概念 | 哲学审视 | 欧陆教学论传统，对质 EBE 抽空学科内容教育学正当性与教学三角形的缺陷。 |
+> | [[Didaktik]] | 概念 | 哲学审视 | 欧陆教学论传统，对质 EBE 抽空学科内容教育学正当性与[[Didactic Triangle\|教学三角]]形的缺陷。 |
 > | [[Bildung]] | 概念 | 终极价值 | 古典全人教化传统，坚守人不可形式化与度量的内在尊严以抵御数据异化。 |
 > | [[Randomised Controlled Trials]] | 方法 | 证据黄金标准 | EBE 强版本推崇的排除混淆偏差与确立可复制因果效应的核心实验方法。 |
 > | [[Meta-meta-analysis]] | 方法 | 证据聚合方法 | 在更高层级汇聚一阶元分析[[Effect Size\|效应量]]的宏观综合方法，面临双重推论困境。 |
@@ -546,4 +551,4 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > - [[Argument_Slavin_2021_ECNUROE|Slavin et al. (2021)]] — 中美英首个跨国循证教育改革比较，记录中国实证研究的发展脉络与本土学者的五类理论质疑。
 > - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 追踪德国四个联邦州教育部循证政策实践，展现数据使用从政治合法化应对向行政常规的演化过程。
 > - [[Argument_Sarbiewska_2019_KiW|Sarbiewska (2019)]] — 记录 EBE 与可见学习理念在澳新两国的政策采纳轨迹与[[Paradigm|范式]]争鸣。
-> - [[Argument_Zhao_2017_JEC|Zhao (2017)]] — 论证循证教育从医学借鉴了 RCT 却系统忽视了对干预副作用的检验。
+> - [[Argument_Zhao_2017_JEC|Zhao (2017)]] — 论证循证教育从医学借鉴了 RCT 却系统忽视了对干预[[Side Effects|副作用]]的检验。

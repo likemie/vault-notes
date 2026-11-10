@@ -9,7 +9,7 @@ aliases:
 summary: "指在学术文献中明确指出前人研究局限、争议或缺陷的批评性引用行为；传统文献计量学假定负面引用会贬损成果学术声望，但引文极性识别与评论追踪实证表明，同行注意力筛选效应使学者仅对具备潜在重大影响力的成果投入精力撰写批评，导致负面引用反常地成为论著长程高影响力的早期预测指标。"
 type: concept
 domain: "science-policy"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,24 +19,25 @@ tags:
   - theme/citation-dynamics
   - theme/sociology-of-science
 related_concepts:
-  - "[[Citation Disparity]]"
+  - "[[Document]]"
+  - "[[Paradigm]]"
+  - "[[Variable]]"
   - "[[Citation Distribution]]"
-  - "[[Scientific Misinformation]]"
-  - "[[Refutational Evidence]]"
 related_theories: []
-related_methods:
-  - "[[Bibliometric Analysis]]"
+related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Filippo Radicchi]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: 2026-10-31
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -46,7 +47,7 @@ updated: 2026-11-03
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 学术共同体内部以引文为载体的纠偏、批判与学术争鸣机制。
-> - **用途** 解构学术文献极性结构，识别科学发展中的争议焦点与前沿理论竞争网络。
+> - **用途** 解构学术[[Document|文献]]极性结构，识别科学发展中的争议焦点与前沿理论竞争网络。
 > - **边界** 限于学术规范内的实质争论与局限指出，不包含针对学术造假、数据篡改所引发的撤稿通告或学术道德裁决。
 
 > [!citation-card|notitle] 关键表述
@@ -66,14 +67,14 @@ updated: 2026-11-03
 > |---|---|---|---|
 > | **情感与论证极性** | 批判、质疑、反驳或界定漏洞 | 确认、继承、采纳或高度评价 | 借鉴常规工具、数据源或平级罗列 |
 > | **同行认知动机** | 纠正重大误区并澄清学术边界 | 构建自身研究的合法性与理论基石 | 满足学术引证规范与背景铺陈 |
-> | **对被引成果的影响** | 激发公开学术争鸣并倍增可见度 | 稳步强化原成果的范式权威地位 | 带来常规引文基底累积 |
+> | **对被引成果的影响** | 激发公开学术争鸣并倍增可见度 | 稳步强化原成果的[[Paradigm\|范式]]权威地位 | 带来常规引文基底累积 |
 
 ---
 
 > [!feature] 核心要素
 > - **极端分布罕见性** 在全量科学文献网络中，负面引用的发生频次极低；绝大多数学者倾向于引用对自己立论有支撑作用的正向与中性成果。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 196)]]
 > - **同行注意力筛选法则** 学术共同体资源与精力高度稀缺，学者绝不耗费时间批判平庸或无关紧要的琐碎成果；只有被认定具有深远理论意义或潜在颠覆性的研究，才能吸引同行撰文争辩。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 196)]]
-> - **争鸣促进认知深化** 严谨的学术反驳为原成果的结论提供细致的解释边界、实验限定与变量补充，实质推进了该议题的知识深化。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 196)]]
+> - **争鸣促进认知深化** 严谨的学术反驳为原成果的结论提供细致的解释边界、实验限定与[[Variable|变量]]补充，实质推进了该议题的知识深化。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 196)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -89,7 +90,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题一｜同行批评与负面引用受科研人员注意力筛选效应支配
-> **学术认知注意力与成果重要性门槛** 考察学者在选择学术批判对象时的微观决策逻辑及其对宏观引文分布的塑造。
+> **学术认知注意力与成果重要性门槛** 考察学者在选择学术批判对象时的微观决策逻辑及其对宏观[[Citation Distribution|引文分布]]的塑造。
 > 
 > > [!claim] Catalini et al. (2015)
 > > **注意力投入的门槛效应** 科学界撰写批判性论辩具备极高的精力门槛；由于学者不愿在平庸或无关大局的边缘成果上耗费论证成本，招致公开反驳恰恰说明该项研究触及了核心范式，使负面关注直接演变为潜在重要性的显式标志。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Catalini et al., 2015; Wang & Barabási, 2021, p. 196)]]
@@ -113,9 +114,9 @@ updated: 2026-11-03
 ---
 
 > [!dev-timeline] 概念演变
-> - **2012 — 针对学术评论反常高引的经验发现** 拉迪基（Filippo Radicchi）分析期刊正式评论（Comments）数据，发现被质疑成果反而在期刊高引成果中占据超常比例。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Radicchi, 2012; Wang & Barabási, 2021, p. 196)]]
+> - **2012 — 针对学术评论反常高引的经验发现** [[Filippo Radicchi|拉迪基]]（Filippo Radicchi）分析期刊正式评论（Comments）数据，发现被质疑成果反而在期刊高引成果中占据超常比例。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Radicchi, 2012; Wang & Barabási, 2021, p. 196)]]
 > - **2015 — 机器学习引文极性全量分类** 卡塔利尼（Christian Catalini）等学者借助自然语言处理构建 15,000 条人工标注样本，实现对 15,731 篇免疫学论著中负面引文的大规模识别与长程时序追踪。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Catalini et al., 2015; Wang & Barabási, 2021, p. 196)]]
-> - **2021 — 科学学实证综合与争鸣价值重估** 王大顺与巴拉巴西确立了负面引用作为学术影响力先行指标的社会学机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 194–196)]]
+> - **2021 — 科学学实证综合与争鸣价值重估** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]确立了负面引用作为学术影响力先行指标的社会学机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 194–196)]]
 
 ---
 

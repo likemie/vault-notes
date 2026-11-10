@@ -8,7 +8,7 @@ summary: "英籍捷克裔哲学家与社会人类学家，现代民族主义现�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 7
+person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -22,8 +22,10 @@ tags:
   - theme/modernity
 related_concepts:
   - "[[Scientific Method]]"
+  - "[[Nationalism]]"
   - "[[Paradigm]]"
   - "[[Homophily]]"
+  - "[[Horizontal Comradeship]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods: []
@@ -44,7 +46,7 @@ updated: 2026-11-11
 
 > [!person-profile] 人物档案
 > - **身份位置** 英籍捷克裔哲学家与社会人类学家，曾任伦敦政治经济学院哲学逻辑与[[Scientific Method|科学方法]]教授、剑桥大学社会人类学讲席教授。
-> - **核心角色** 现代民族主义研究现代主义解释取向的核心开创者，从工业社会功能分工与文化标准化角度解释民族国家的历史兴起。
+> - **核心角色** 现代[[Nationalism|民族主义]]研究现代主义解释取向的核心开创者，从工业社会功能分工与文化标准化角度解释民族国家的历史兴起。
 > - **代表贡献** 著作《思想与变革》（1964）与《民族与民族主义》（1983），提出民族主义发明民族的著名命题，为[[Imagined Community|想象的共同体]]理论提供了关键思想参照。
 
 > [!citation-card] 民族主义对民族实体的发明
@@ -111,7 +113,7 @@ updated: 2026-11-11
 > > 争论民族究竟是工业社会应对文化标准化需求的工具性制度发明，还是依托大众媒介与印刷资本主义生成的文化想象实体。
 > >
 > > - **Gellner（1983）** 强调工业化社会对流动劳动力的结构性需求迫使国家通过统一公共教育发明同质的高阶民族文化。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. xii)]]
-> > - **Anderson（1983/2016）** 批评其功能主义与工具主义取向，强调印刷资本主义与大众媒介所形塑的文化想象风格与横向同志情谊。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 6)]]
+> > - **Anderson（1983/2016）** 批评其功能主义与工具主义取向，强调印刷资本主义与大众媒介所形塑的文化想象风格与[[Horizontal Comradeship|横向同志情谊]]。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 6)]]
 
 ---
 

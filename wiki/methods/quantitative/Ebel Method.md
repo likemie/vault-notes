@@ -12,7 +12,7 @@ summary: "在Angoff方法基础上增加项目相关性维度，构建难度（�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 8
+method_related_count: 9
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Criterion-Referenced Test]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
+  - "[[Homophily]]"
   - "[[Operationalization]]"
 related_methods:
   - "[[Item Analysis]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 ---
@@ -94,7 +95,7 @@ updated: 2026-10-29
 > [!method-fit] 适用判断
 > - **适合** 二分计分或可转化为二分计分的[[Criterion-Referenced Test\|标准参照测验]]；需要更精细的标准设定（考虑项目与测验目的的相关性差异）；测验项目在难度和相关度上有足够变异
 > - **谨慎使用** 评判者对难度和相关度的理解不一致时；测验项目数量较少（<30 题）时矩阵单元格可能过空
-> - **不适合** 仅有一个评判者；项目在难度或相关度上同质性过高（矩阵大部分单元格为空）
+> - **不适合** 仅有一个评判者；项目在难度或相关度上[[Homophily|同质性]]过高（矩阵大部分单元格为空）
 
 ---
 

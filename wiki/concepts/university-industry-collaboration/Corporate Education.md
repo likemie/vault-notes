@@ -9,7 +9,7 @@ aliases:
 summary: "企业为雇员组织和提供的教育培训形式，范围涵盖初始职业教育到高层管理培养，并常与企业文化塑造和战略协调相连"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Corporate University]]"
   - "[[Apprenticeship]]"
+  - "[[Transnational Education]]"
   - "[[Geopolitics]]"
 related_theories:
   - "[[Cultural Political Economy]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-18
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -85,7 +86,7 @@ updated: 2026-10-22
 > - 所有受访的德国 MNCs 都尝试在海外分支建立[[Apprenticeship|学徒制]]（[[German Dual Education System\|双元制]]），但均遇到重大困难，表明 IVET 高度依赖国家层面的复杂非市场制度安排([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.185]])
 > - 超过 50% 的 MNCs 提供全球高潜力人才培训项目，管理培训的国际化程度最高
 > - 国际型 MNCs（高整合、低本地响应）倾向于提供高度标准化的学校型企业教育，以在整个公司内确保合规；这类公司总部多位于美国或其他[[Varieties of Capitalism|自由市场经济体]]（LMEs）([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.187–188]])
-> - 跨国型 MNCs（高整合、高本地响应）建立全球矩阵，将总部开发的管理能力框架交由各地分支根据本地情况修改——这种模式创造了一个既统一又兼顾差异的跨国教育空间([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.188]])
+> - 跨国型 MNCs（高整合、高本地响应）建立全球矩阵，将总部开发的管理能力框架交由各地分支根据本地情况修改——这种模式创造了一个既统一又兼顾差异的[[Transnational Education|跨国教育]]空间([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.188]])
 
 > [!info] 核心数据
 > - 2015 年全球前 100 大 MNCs 雇佣超过 1700 万员工，较 2014 年增长 9.4%（UNCTAD, 2016, cited in [[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.181]]）

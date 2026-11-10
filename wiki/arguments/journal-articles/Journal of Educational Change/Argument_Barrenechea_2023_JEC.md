@@ -88,7 +88,6 @@ related_facts:
   - "[[OECD]]"
   - "[[TIMSS]]"
   - "[[Blueprint for Student Success]]"
-  - "[[Sanger Unified School District]]"
 related_arguments: []
 sources:
   - "[[sources/Barrenechea_2023_JEC|Barrenechea_2023_JEC]]"
@@ -102,7 +101,7 @@ title: "Argument_Barrenechea_2023_JEC"
 argument_key: "Argument_Barrenechea_2023_JEC"
 argument_display_title: "How can education systems improve? A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 64
+argument_related_count: 63
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -160,7 +159,7 @@ issuing_organization: ""
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **文献总体** | 跨越 2000 至 2020 年代的 43 篇实证文献，包含跨国宏观比较、国家层面追踪及次国家学区经验研究。 |
-> | **典型案例系统** | 加拿大安大略省、澳大利亚维多利亚州、新西兰、芬兰、[[Polish Education Reform of 1999|波兰]]、爱沙尼亚、葡萄牙、[[Ecuadorian Education Reform 2006-2017|厄瓜多尔]]、智利、英国[[London Challenge|伦敦]]、[[New York City Community School District 2|美国纽约第二学区]]与[[Long Beach Unified School District|加州长滩学区]]等。 |
+> | **典型案例系统** | 加拿大安大略省、澳大利亚维多利亚州、新西兰、芬兰、[[Polish Education Reform of 1999\|波兰]]、爱沙尼亚、葡萄牙、[[Ecuadorian Education Reform 2006-2017\|厄瓜多尔]]、智利、英国[[London Challenge\|伦敦]]、[[New York City Community School District 2\|美国纽约第二学区]]与[[Long Beach Unified School District\|加州长滩学区]]等。 |
 > | **研究方法类型** | [[Qualitative Research\|定性研究]]案例分析为主，辅以少数融合量化评估与田野追踪的[[Mixed Methods Research\|混合方法研究]]设计。 |
 
 > [!proc] 四重检索策略与双轮系统文献筛选流程
@@ -261,10 +260,10 @@ issuing_organization: ""
 
 > [!case] 全系统战略框架与长期政治承诺典型实践
 > - **加拿大安大略省的连贯性治理** Fullan 与 Levin 等学者深度参与的安大略改革，确立了少而精的宏观战略目标（重点提升小学读写算基础技能与高中毕业率）。政策实施构建了自上而下、自下而上与横向校际网络协同推进的共享连贯性机制，保持了长期战略定力（Campbell, 2020; Fullan & Rincon-Gallardo, 2016; Levin, 2012）。
-> - **加州长滩学区的长周期制度稳定性** [[Long Beach Unified School District|加州长滩联合学区]]保持了数十年高度稳定的行政管理领导团队，政策框架在历任总监间平稳延续，形成了连贯的教学改进文化，实现了学生学业表现的跨周期持续提升（Zavadsky, 2016）。
+> - **加州长滩学区的长周期制度稳定性** 加州长滩联合学区保持了数十年高度稳定的行政管理领导团队，政策框架在历任总监间平稳延续，形成了连贯的教学改进文化，实现了学生学业表现的跨周期持续提升（Zavadsky, 2016）。
 
 > [!lessons] 战略反复与共识破裂的制度教训：加州圣地亚哥案例
-> 圣地亚哥学区推行[[Blueprint for Student Success|学生成功蓝图]]（Blueprint for Student Success）改革时，因与教师工会产生激烈对抗，导致政策缺乏基层共识。当推动改革的学区总监离任后，核心改革举措迅速被全盘拆解，显现出缺乏政治共识与稳定承诺的脆弱性（Betts et al., 2005）。
+> 圣地亚哥学区推行学生成功蓝图（[[Blueprint for Student Success]]）改革时，因与教师工会产生激烈对抗，导致政策缺乏基层共识。当推动改革的学区总监离任后，核心改革举措迅速被全盘拆解，显现出缺乏政治共识与稳定承诺的脆弱性（Betts et al., 2005）。
 
 > [!sub-claim] 2. 课堂教学是改革的最终落脚点，扎根课堂的现场指导优于脱产讲座
 
@@ -273,11 +272,11 @@ issuing_organization: ""
 > - **加拿大安大略省全链条专业发展** Osmond-Johnson and Campbell (2018) 指出，安大略省建立涵盖准入招募、入职浸润、常态化研修、专业认可、劳动保障与职级晋升的全周期专业资本支持机制，将教师能力提升与学业成效紧密关联。
 
 > [!case] 扎根现场的导师带教与校本教练网络
-> - **美国纽约市第二学区校长[[Mentorship|导师制]]** Elmore and Burney (1998) 发现，[[New York City Community School District 2|纽约市第二学区]]通过设立资深校长与新手校长的深度结对带教机制，打破管理者孤立办学壁垒，构建全学区范围内的跨校专业互助网络。
+> - **美国纽约市第二学区校长[[Mentorship|导师制]]** Elmore and Burney (1998) 发现，纽约市第二学区通过设立资深校长与新手校长的深度结对带教机制，打破管理者孤立办学壁垒，构建全学区范围内的跨校专业互助网络。
 > - **英国伦敦挑战计划校本教练制** 伦敦学校改进计划（伦敦挑战计划）全面转向基于本校真实课堂场景的校本[[Instructional Coaching|教学教练指导]]制度，通过优秀校长的同行带教实现横向教学经验辐射（McAleavy & Elwick, 2016; Zavadsky, 2016）。
 
 > [!case] 教学引领者转型与[[Professional Learning Community|专业学习共同体]]实践
-> - **加州桑格学区管理者角色转型** [[Sanger Unified School District|加州桑格联合学区]]推动学区行政官员与中小学校长从传统的科层事务管理者转向以[[Instructional Leadership|教学领导力]]（Instructional Leadership）为核心的学习引领者，推行分布式领导与教师集体责任制（David & Talbert, 2012；另见圣地亚哥学区，O’Day & Quick, 2009）。
+> - **加州桑格学区管理者角色转型** 加州桑格联合学区推动学区行政官员与中小学校长从传统的科层事务管理者转向以[[Instructional Leadership|教学领导力]]（Instructional Leadership）为核心的学习引领者，推行分布式领导与教师集体责任制（David & Talbert, 2012；另见圣地亚哥学区，O’Day & Quick, 2009）。
 > - **威尔士专业学习共同体** 威尔士政府自 2008 年起在全辖区学校建立专业学习共同体（Professional Learning Communities, PLCs），鼓励一线教师以教研小组形式共享[[Tacit Knowledge|默会知识]]、反思日常教学行为（Harris & Jones, 2017）。
 > - **中国上海名师带教与委托管理** Pang and Miao (2017) 指出，上海通过多级教师专业荣誉与职级体系培育骨干教师领导力，并推行优质校托管薄弱校模式，促进师资专业经验的制度化流动。
 
@@ -291,10 +290,10 @@ issuing_organization: ""
 > Levin (2012) 反复强调，单纯发布官方文件、颁布行政法规与开展几次通识性培训，根本无法改变教室内师生互动的实际状态。Rivas et al. (2020) 对拉美 486 个次国家教育系统的比较追踪证实，实现持续突围的决定性因素在于搭建集[[Reflexivity|反思性]]领导力、深层文化理解、长期政治合法性与精细化教学通道于一体的治理平台（[[Governance Platform]]），开辟从宏观决策直达微观课堂教学的常态化沟通机制。
 
 > [!policy-context] 破除既得利益阻力的制度重组：厄瓜多尔实践
-> Schneider et al. (2019) 对[[Ecuadorian Education Reform 2006-2017|厄瓜多尔 2006 至 2017 年教育改革]]的实证追踪发现，科雷亚政权通过凝聚执政政治力量，克服了厄瓜多尔传统全国教育工会（National Union of Educators, UNE）的制度阻挠，全面推行基于公开竞争的严格教师聘用标准与定期的教师绩效评估，确立了宏观教育标准对教师队伍的有效治理。
+> Schneider et al. (2019) 对厄瓜多尔 2006 至 2017 年教育改革的实证追踪发现，科雷亚政权通过凝聚执政政治力量，克服了厄瓜多尔传统全国教育工会（National Union of Educators, UNE）的制度阻挠，全面推行基于公开竞争的严格教师聘用标准与定期的教师绩效评估，确立了宏观教育标准对教师队伍的有效治理。
 
 > [!mechanism] 全国学段统测作为[[Output-Oriented Governance|循证治理]]的数据中枢：波兰实践
-> 波兰在推行[[Polish Education Reform of 1999|1999 年教育体制改革]]的同时，在每一学段终点设立全国统一的可比性学业考试，为系统诊断教学薄弱环节提供客观标准，推动了教育政策向[[Evidence-Based Policy-Making|循证决策]]与[[Knowledge Mobilisation|知识动员]]（Knowledge Mobilisation）深度转型，将[[Research Utilization|证据使用]]聚焦于干预措施在真实教育情境中“如何以及为何发生作用”（Fazlagić & Erkol, 2015; Jakubowski, 2015）。
+> 波兰在推行1999 年教育体制改革的同时，在每一学段终点设立全国统一的可比性学业考试，为系统诊断教学薄弱环节提供客观标准，推动了教育政策向[[Evidence-Based Policy-Making|循证决策]]与[[Knowledge Mobilisation|知识动员]]（Knowledge Mobilisation）深度转型，将[[Research Utilization|证据使用]]聚焦于干预措施在真实教育情境中“如何以及为何发生作用”（Fazlagić & Erkol, 2015; Jakubowski, 2015）。
 
 > [!sub-claim] 4. 经费、课时与教材优先保障薄弱学校，兜牢底线才能带动全系统提升
 

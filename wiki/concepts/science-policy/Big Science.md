@@ -7,9 +7,9 @@ aliases:
 summary: "以国家战略意志为导向、依赖巨额公共财政与集中式国家实验室攻关突破性物理与工程极限的科研组织范式；在冷战技术使命中奠定强大物理突破力，现代演进为兼具超级算力、聚焦研究组织（FRO）与前竞争联合体的创新基础设施，其实证规律展现出推进渐进发展与精细攻关的显著优势，但颠覆性创新主要由敏捷小团队引领。"
 type: concept
 domain: "science-policy"
-related_count: 63
-related_level: 6
-related_stars: "💎💎"
+related_count: 75
+related_level: 7
+related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/science-policy
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Focused Research Organization]]"
+  - "[[Little Science]]"
   - "[[Megascience Installations]]"
   - "[[Reproducibility Crisis]]"
   - "[[Knowledge Production]]"
@@ -37,9 +38,14 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Grand Theory]]"
   - "[[Mind Mapping]]"
+  - "[[Early-Career Researchers]]"
   - "[[Commensuration]]"
+  - "[[Hot Streak]]"
+  - "[[Creativity]]"
+  - "[[Domain Specificity]]"
   - "[[Variable]]"
   - "[[Emergence]]"
+  - "[[Mission-Oriented Innovation Policy]]"
 related_theories:
   - "[[Social Contract of Science]]"
   - "[[Technological Trajectories]]"
@@ -59,6 +65,7 @@ related_persons:
   - "[[Chris Freeman]]"
   - "[[Lingfei Wu]]"
   - "[[James A. Evans]]"
+  - "[[Santo Fortunato]]"
   - "[[Albert-László Barabási]]"
   - "[[Alvin Weinberg]]"
 related_facts:
@@ -75,6 +82,9 @@ related_facts:
   - "[[Human Genome Project]]"
   - "[[CERN]]"
   - "[[Laser Interferometer Gravitational-Wave Observatory]]"
+  - "[[Committee on Science and Public Policy]]"
+  - "[[Basic Research and National Goals 1965]]"
+  - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
@@ -83,12 +93,14 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Bozeman_2004_JTT]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
   - "[[Argument_Fortunato_2018_Science]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
+  - "[[Argument_Yang_2017_MUE]]"
+  - "[[Argument_Chen_2025_HSSC]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
@@ -97,11 +109,11 @@ updated: 2026-11-04
 > 大科学（Big Science）是指二战及冷战时期兴起的一种由国家战略意志与安全需求主导的科研组织[[Paradigm|范式]]；其核心特征在于依赖巨额国家财政预算、大规模集中式层级化国家实验室、跨学科工程协同以及权威型科技主管挂帅，针对界定清晰的突破性物理与工程技术极限（如原子能利用、雷达开发与阿波罗登月）开展集中攻关。这一概念最早由阿尔温·温伯格（Alvin Weinberg, 1961, 1967）系统界定并反思，并由[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）引入使命导向政策演进分析。进入 21 世纪，大科学从传统的单体物理巨型装置拓展为包含超算中心、自主机器人实验室、中等规模[[Focused Research Organization|聚焦研究组织]]（FRO）与大规模前竞争产学研联合体的分布式超级创新基础设施；大数据实证表明，大科学团队精于解决公认难题与工程精细化，但颠覆性探索仍高度依赖敏捷小团队。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790, 793–795)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–6, 21–26, 61–63)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 124–133)]]
 
 > [!concept-lens|notitle] 概念透镜
-> - **含义** 标识科研范式从小作坊式学者个人探索（小科学，Little Science）向国家动员型、资本与工程高度密集化研发攻关的结构性转变。
+> - **含义** 标识科研范式从小作坊式学者个人探索（[[Little Science|小科学]]，Little Science）向国家动员型、资本与工程高度密集化研发攻关的结构性转变。
 > - **用途** 帮助科技政策学者区分不同类型科技任务的组织治理构型，评估大型国家实验室、前竞争财团与[[Megascience Installations|大科学装置]]的战略效能与民用外溢机制。
 > - **边界** 适用于目标明确、工程界定清晰的物理极限与跨学科共性技术攻关；不等于分散在大学内部的自由探索型课题组，亦不等于企业以商业利润为驱动的封闭产品开发。
 
-> [!citation-card|notitle] 关键表述：樊春良论大科学成本膨胀对科学社会契约的制度压力
+> [!citation-card|notitle] 关键表述：樊春良论大科学成本膨胀对[[Social Contract of Science|科学社会契约]]的制度压力
 > 科学体系自身演化进一步加剧了科学社会契约的压力，如大科学模式推高科研成本，强化了外部绩效问责与政治审计；近年来学术界广泛讨论的[[Reproducibility Crisis|可重复性危机]]则削弱了部分领域的知识权威，使基础科学在为什么值得支持、如何被评价与应当解决什么问题三个层面均失去了自动的正当性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 >
 > *大科学模式推高科研成本并强化外部问责，与可重复性危机交织，使科学正当性从自明走向不稳定且具有争议性的结构形态。*
@@ -116,7 +128,7 @@ updated: 2026-11-04
 >
 > *Beyond traditional national aerospace and physics projects, Big Science now encompasses massive compute clusters, mid-scale Focused Research Organizations (FROs), and the Genesis Mission marshaling 17 national laboratories for AI-driven discovery.*
 
-> [!citation-card|notitle] 关键表述：普赖斯与王大顺论大科学时代的指数扩张与学术生产管道堵塞
+> [!citation-card|notitle] 关键表述：[[Derek de Solla Price|普赖斯]]与[[Dashun Wang|王大顺]]论大科学时代的指数扩张与学术生产管道堵塞
 > 大科学不仅意味着装置与经费的巨型化，更表现为科学[[Knowledge Production|知识生产]]系统自身的指数级扩张。自普赖斯在 1963 年指出科学[[Document|文献]]以约 10–15 年翻番的节奏持续增长以来，百余年间全球学术出版物呈现出不可阻挡的指数级扩张，形成“历史上 80% 至 90% 的科学家都生活在当代”的即时性特征。然而，[[Academic Pipeline|学术管道]]的各环节扩张极不均衡：博士毕业生数量在数十年间膨胀数倍，而大学终身教职岗位数长期保持平滞，导致博士后队伍急剧堆叠，大批科研人员向产业界分流。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 161–171)]]
 >
 > *Big Science is defined not only by large budgets and facilities, but by the relentless exponential growth of the scientific literature and workforce. While PhD production has soared, faculty positions have remained flat, driving a massive postdoc pileup and workforce restructuring.*
@@ -221,7 +233,7 @@ updated: 2026-11-04
 > **学术生产系统演进与劳动力管道梗阻** 探讨大科学时代不仅表现为实验设施巨型化，更表现为知识存量与人才生产的指数级膨胀，以及这一膨胀与大学教职吸纳能力平滞之间的结构性失调。
 >
 > > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang, D. & Barabási, A.-L.]]
-> > **指数增长与劳动力管道结构性堵塞** 普赖斯指出大科学的核心标志之一是科学文献以约 12 年翻一番的节奏持续指数级扩张，使当代生活着历史上 80% 至 90% 的科学家。王大顺与[[Albert-László Barabási|巴拉巴西]]进一步揭示，大科学体系在产出大量成果的同时，推动博士培养规模在三十年间扩张了近三倍；然而，大学终身教职岗位数量长期停滞不前，导致大量青年学者在博士后流动站深度堆叠并向工业界外流，凸显了大科学时代学术生产与劳动力吸纳机制之间的体制断层。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 161–172)]]
+> > **指数增长与劳动力管道结构性堵塞** 普赖斯指出大科学的核心标志之一是科学文献以约 12 年翻一番的节奏持续指数级扩张，使当代生活着历史上 80% 至 90% 的科学家。王大顺与[[Albert-László Barabási|巴拉巴西]]进一步揭示，大科学体系在产出大量成果的同时，推动博士培养规模在三十年间扩张了近三倍；然而，大学终身教职岗位数量长期停滞不前，导致大量[[Early-Career Researchers|青年学者]]在博士后流动站深度堆叠并向工业界外流，凸显了大科学时代学术生产与劳动力吸纳机制之间的体制断层。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 161–172)]]
 
 ---
 
@@ -242,7 +254,7 @@ updated: 2026-11-04
 > [!dev-timeline] 概念演变
 > - **1961 — 大科学概念提出与反思** 阿尔温·温伯格（[[Alvin Weinberg]]）在《科学》（Science）首次系统提出 Big Science 概念，反思国家实验室层级化治理与社会问题失灵。
 > - **1963 — [[Bibliometric Analysis|科学计量学]]奠基与增长指数** [[Derek de Solla Price|德里克·德索拉·普赖斯]]（Derek J. de Solla Price）出版《小科学，大科学》（*Little Science, Big Science*），确立科学文献每 10–15 年翻番的指数律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 161–164)]]
-> - **1965 — COSPUP 划定小科学与大科学界限** 国家科学院[[Committee on Science and Public Policy|科学与公共政策委员会]]（COSPUP）发布《基础研究与国家目标》报告，将巨型工程装置的大科学与学者自由构想的小科学（即大学基础研究）严格区分，并设定小科学每年 15% 稳定预算增长基准，防止基础科学被巨型大科学工程挤压。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
+> - **1965 — [[Committee on Science and Public Policy|COSPUP]] 划定小科学与大科学界限** 国家科学院[[Committee on Science and Public Policy|科学与公共政策委员会]]（COSPUP）发布《[[Basic Research and National Goals 1965|基础研究与国家目标]]》报告，将巨型工程装置的大科学与学者自由构想的小科学（即大学基础研究）严格区分，并设定小科学每年 15% 稳定预算增长基准，防止基础科学被巨型大科学工程挤压。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 > - **1984 — 大科学模式向大学系统移植** 美国国家科学基金会（NSF）设立工程研究中心（ERC），推动跨学科大合作协议进入民用高校。
 > - **2015 — 万人署名大科学极值展现** 欧洲核子研究中心（CERN）发表 5,154 人联合署名成果，创下单篇文献署名人数世界纪录。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 124–125)]]
 > - **2018 — 极端大科学协作与治理挑战** 福图纳托等在《科学》综述中以 CERN LHC 万人合作为例，剖析超大科学工程在集约攻关的同时带来的个体贡献模糊、科研流水线化与独立复现高昂等治理挑战。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 3)]]
@@ -261,7 +273,7 @@ updated: 2026-11-04
 > > - **小团队颠覆保护派** 指出颠覆性科学发现多源于边缘敏捷小团队，过度集权资助会导致科学源头活力枯竭。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 128–133)]]
 
 > [!warning|limits] 适用局限
-> 大科学组织模式适用于界定清晰、具有明确客观物理工程技术里程碑与高资本设备需求的攻关任务；不适用于高度依赖个人自由探索、非常规假说试错的颠覆性早期科学，亦难以直接迁移至涉及复杂价值观念、生活习惯与利益博弈的社会系统治理领域（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018, pp. 794–795]]；[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang & Barabási, 2021, pp. 132–133]]）。此外，在数千人跨国协作的极端大科学实验中，基于常规小团队学科检验的个人学术爆发期与颠覆性创造力法则亦面临明确的组织生态与学科特异性泛化边界（[[Argument_Chen_2025_HSSC|Chen et al., 2025]]）。
+> 大科学组织模式适用于界定清晰、具有明确客观物理工程技术里程碑与高资本设备需求的攻关任务；不适用于高度依赖个人自由探索、非常规假说试错的颠覆性早期科学，亦难以直接迁移至涉及复杂价值观念、生活习惯与利益博弈的社会系统治理领域（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018, pp. 794–795]]；[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang & Barabási, 2021, pp. 132–133]]）。此外，在数千人跨国协作的极端大科学实验中，基于常规小团队学科检验的个人[[Hot Streak|学术爆发期]]与颠覆性[[Creativity|创造力]]法则亦面临明确的组织生态与[[Domain Specificity|学科特异性]]泛化边界（[[Argument_Chen_2025_HSSC|Chen et al., 2025]]）。
 
 ---
 
@@ -274,7 +286,7 @@ updated: 2026-11-04
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Wu et al. (2019)]] | 1954 至 2014 年间全球 6,000 万篇期刊论著、美国专利与 GitHub 开源软件代码库 | 三元共引网络拓扑分析与颠覆性指数计算 | 团队规模对颠覆性指数与引文表现的调控效应 | 跨所有领域，被引中位数随团队规模单调递增，而平均颠覆度百分位随团队人数从 1 人递增至 50 人单调下降（期刊下降 70%，专利下降 30%，软件下降 50%）；控制研究领域后团队规模独立解释了 66% 的颠覆性变异 | 95% [[Confidence Interval\|置信区间]]稳健 | 针对全球正式出版与授权的科技产出大数据 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Milojević (2014)]] | 1961–1965 与 2006–2010 两个时期天文学全量团队发表数据 | 团队规模概率分布拟合（最大似然估计） | 团队规模分布形态演变；平均团队规模 | 1961–1965 年团队规模服从均值 1.5 人的泊松分布（无超过 8 人的团队）；2006–2010 年演变为均值 6.7 人的重尾幂律分布，[[Emergence\|涌现]]数百至千人超级工程团队 | 拟合优度显著 | 样本聚焦天文学观测与理论团队 |
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang and Barabási (2021)]] | 1900–2014 年 Web of Science 全量文献库与 1982–2011 年全美约 80 万理工博士及 10 万大学教职聘任数据库 | 指数增长拟合与学术劳动力管道追踪 | 文献翻番周期；博士授予量增幅与大学新增教职平滞趋势 | 文献数量保持约 12 年翻一番（复合年均增长率约 4.7%–6%）；博士年授予量增长近 3 倍，而大学教职岗位增长停滞，博士后出路向产业界深度分流 | 官方普查数据库核算 | 揭示大科学时代知识生产的指数扩张与高校教职吸纳之间的体制脱节 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit07\|Wang and Barabási (2021)]] | 1900–2014 年 [[Web of Science]] 全量文献库与 1982–2011 年全美约 80 万理工博士及 10 万大学教职聘任数据库 | 指数增长拟合与学术劳动力管道追踪 | 文献翻番周期；博士授予量增幅与大学新增教职平滞趋势 | 文献数量保持约 12 年翻一番（复合年均增长率约 4.7%–6%）；博士年授予量增长近 3 倍，而大学教职岗位增长停滞，博士后出路向产业界深度分流 | 官方普查数据库核算 | 揭示大科学时代知识生产的指数扩张与高校教职吸纳之间的体制脱节 |
 
 ---
 
@@ -291,7 +303,7 @@ updated: 2026-11-04
 > | [[Alvin Weinberg]] | 人物 | 橡树岭国家实验室主任，最早提出大科学概念并系统反思大科学工程向社会问题迁移的局限性。 |
 > | [[Derek de Solla Price]] | 人物 | 科学计量学奠基人，在《小科学，大科学》（1963）中奠定科学知识与人员指数增长规律。 |
 > | [[Dashun Wang]] | 人物 | 计算科学学者，实证确立大小团队组织规模创新分工法则及学术劳动力管道梗阻机制。 |
-> | [[Mariana Mazzucato]] | 人物 | 使命导向创新政策学者，系统剖析大科学攻关在需求侧公共采购倒逼产业工艺创新的外溢机制。 |
+> | [[Mariana Mazzucato]] | 人物 | [[Mission-Oriented Innovation Policy\|使命导向创新政策]]学者，系统剖析大科学攻关在需求侧公共采购倒逼产业工艺创新的外溢机制。 |
 
 ---
 

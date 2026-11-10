@@ -10,10 +10,10 @@ aliases:
 summary: "19世纪末至20世纪中叶主导比较教育学的核心认识论母题，将学科界定为探究历史因果与文化精神的广义人文科学，以民族国家与国民性为解释单元，服务于历史改良主义与自由民主价值"
 type: concept
 domain: "comparative-education"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - comparative-education
   - historiography
@@ -51,6 +51,7 @@ related_concepts:
 related_theories:
   - "[[Behaviorism]]"
 related_methods:
+  - "[[Cognitive Extent]]"
   - "[[Questionnaire]]"
   - "[[Analytic Framework]]"
   - "[[Sample Size Determination]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -99,7 +100,7 @@ updated: 2026-11-03
 > [!citation-card] 比较教育的人文科学性质与历史因果探寻
 > 比较教育是一门广义上的“人文科学”，一如德语中的 *Wissenschaft* 与希腊语中的 *Episteme* 所指，有别于经验性或[[Positivism\|实证主义]]的“社会科学”。汉斯、坎德尔、乌利希以及弗里德里希·施耐德（[[Friedrich Schneider]]）所理解的比较教育，更接近于德语的比较教育科学（Vergleichende Erziehungswissenschaft），类似于比较宗教学、比较法学与比较解剖学，其比较不局限于当代现状，是延伸至法律、宗教或语言制度的起源与演进探究。它是一门解释与诠释性学科，旨在理解与诠释各民族教育系统何以发展为当下形态，而非追求预测或政策工具主义的实用社会科学。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 39–40)]]
 >
-> *Comparative education is not an empirical or a positivistic 'social science'. It is a 'human science' in the broad meaning of the term 'science' as signified by the German word Wissenschaft and the Greek equivalent Episteme. As interpreted by Hans, Kandel, Ulich and I may add, Schneider, the term comparative education (CE) was nearer to the German Vergleichende Erziehungswissenschaft... It was analogous to such studies as Comparative Religion, Comparative Law and Comparative Anatomy in that 'comparisons were not limited to contemporary actual situations but were extended to the study of the origin and evolution of present systems of law, religion or language'. ... Comparative Education is an explanatory/interpretive episteme, that aims at 'understanding' and 'interpretation' of how national systems of education developed to be what they are, not a predictive or a policy-oriented or practical/applied social science.*
+> *Comparative education is not an empirical or a positivistic 'social science'. It is a 'human science' in the broad meaning of the term 'science' as signified by the German word Wissenschaft and the Greek equivalent Episteme. As interpreted by Hans, Kandel, Ulich and I may add, Schneider, the term comparative education ([[Cognitive Extent|CE]]) was nearer to the German Vergleichende Erziehungswissenschaft... It was analogous to such studies as Comparative Religion, Comparative Law and Comparative Anatomy in that 'comparisons were not limited to contemporary actual situations but were extended to the study of the origin and evolution of present systems of law, religion or language'. ... Comparative Education is an explanatory/interpretive episteme, that aims at 'understanding' and 'interpretation' of how national systems of education developed to be what they are, not a predictive or a policy-oriented or practical/applied social science.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Proto-Scientific Motif\|准科学母题]] — 准科学母题试图通过标准化[[Questionnaire\|问卷]]与量化统计观察表将教育确立为类比于解剖学的准自然科学；历史-哲学-文化母题则强调教育的质性精神、价值体系与历史独特性，排斥纯统计归纳。

@@ -59,11 +59,11 @@ related_concepts:
   - "[[Critical Thinking Disposition]]"
   - "[[Learner Autonomy]]"
   - "[[Divergent Thinking]]"
-  - "[[Convergent Thinking]]"
   - "[[Metacognitive Laziness]]"
   - "[[Language Skills]]"
   - "[[Academic Achievement]]"
   - "[[Hypothesis]]"
+  - "[[Problematisation]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Evaluative Judgement]]"
   - "[[Epistemic Stances]]"
@@ -118,7 +118,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-07-01
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 > [!def] Metacognition
@@ -214,7 +214,7 @@ updated: 2026-11-03
 > **[[Higher-Order Thinking Skills\|高阶思维]]正相关的共同心智纽带** 探讨发散创造与汇合批判在底层如何依托共享的元认知调控通道实现协同发展。
 
 > [!claim] Park et al.
-> **两类高阶思维的共同元认知基础** 大规模[[Three-Level Meta-Analysis\|三水平元分析]]（$k = 51, N = 12,548$）证实，[[Creativity\|创造力]]与批判性思维之间存在中等程度的稳健正相关（$r = 0.386$）。这一关联在认知心理机制上源于两者共享核心的元认知成分：创造力要求在发散后进行目标导向的方案评价与可行性筛选，批判性思维要求在评估中灵活构想替代性解释，两者都需要精细的自我监控与反思调节。元认知因此构成了连接[[Divergent Thinking\|发散思维]]与[[Convergent Thinking\|汇合思维]]的共同认知基础，为两者的联合培养提供了理论与实证依据。[[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 2–3)]]
+> **两类高阶思维的共同元认知基础** 大规模[[Three-Level Meta-Analysis\|三水平元分析]]（$k = 51, N = 12,548$）证实，[[Creativity\|创造力]]与批判性思维之间存在中等程度的稳健正相关（$r = 0.386$）。这一关联在认知心理机制上源于两者共享核心的元认知成分：创造力要求在发散后进行目标导向的方案评价与可行性筛选，批判性思维要求在评估中灵活构想替代性解释，两者都需要精细的自我监控与反思调节。元认知因此构成了连接[[Divergent Thinking\|发散思维]]与汇合思维的共同认知基础，为两者的联合培养提供了理论与实证依据。[[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 2–3)]]
 
 ---
 
@@ -225,7 +225,7 @@ updated: 2026-11-03
 > **流畅性陷阱与结构化反思支架的防御机制** [[Systematic Review\|系统综述]]表明，大模型的表面语义流畅性极易欺骗学习者的认知直觉，诱发严重的“元认知监控外包”（即把真实性核查与质量评估责任全盘推给 AI），导致批判反思能力衰退（$\beta = -0.34$）。通过在人机互动中嵌入显性的元认知反思支架（如强制记录提示词修改历史 Prompt Trail、撰写采纳/拒绝 AI 建议的决策依据），能够强行维持[[Surface and Deep Learning\|深层学习]]所必需的“[[Epistemic Friction\|认识论摩擦]]”，使 53% 的双目标实证研究成功实现批判与创造思维的双向协同发展。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 6–7, 10–13)]]
 
 > [!claim] Chen, S., & [[Alan C. K. Cheung\|Cheung, A. C. K.]]
-> **大样本[[Meta-analysis\|元分析]]确证无支架技术介入导致“[[Metacognitive Laziness\|元认知惰性]]”** 基于 57 项[[Experimental Research\|实验研究]]元分析（$k = 10$ 项元认知[[Effect Size\|效应量]]），生成式 AI 对大学生元认知能力的总体干预效应在统计学上完全不显著（$g^+ = 0.078$ $[-0.495, 0.652], p = .789$），与[[Language Skills\|语言技能]]（$2.331$）和[[Academic Achievement\|学业成绩]]（$0.633$）的剧烈提升形成断层反差。这一实证结果确证了“元认知惰性假说（Metacognitive Laziness [[Hypothesis]]）”：在缺乏显性反思任务规程的常规应用中，大模型的极速解答使学生倾向于跳过深层的问题表征、监控与修正回路，直接采纳算法生成物，导致元认知自我调节机能陷入停滞乃至退化。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 10, 15–16)]]
+> **大样本[[Meta-analysis\|元分析]]确证无支架技术介入导致“[[Metacognitive Laziness\|元认知惰性]]”** 基于 57 项[[Experimental Research\|实验研究]]元分析（$k = 10$ 项元认知[[Effect Size\|效应量]]），生成式 AI 对大学生元认知能力的总体干预效应在统计学上完全不显著（$g^+ = 0.078$ $[-0.495, 0.652], p = .789$），与[[Language Skills\|语言技能]]（$2.331$）和[[Academic Achievement\|学业成绩]]（$0.633$）的剧烈提升形成断层反差。这一实证结果确证了“元认知惰性假说（Metacognitive Laziness [[Hypothesis]]）”：在缺乏显性反思任务规程的常规应用中，大模型的极速解答使学生倾向于跳过深层的[[Problematisation|问题表征]]、监控与修正回路，直接采纳算法生成物，导致元认知自我调节机能陷入停滞乃至退化。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 10, 15–16)]]
 
 > [!claim] [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]
 > **中间认识动作剥离与生产性摩擦的元认知激活功能** 批判整合性综述揭示，[[Generative Artificial Intelligence\|生成式人工智能]]的无摩擦委派将检索、比对、综合与起草等复杂动作一键压缩，其最深刻的认识论危害在于切除了工作流程中必不可少的中间认识动作（Intermediate Epistemic Actions）。当学生无需权衡相互冲突的解释或经历直面反常证据的认知挣扎时，负责状态评估与策略调校的元认知监控便彻底失去激活土壤，使学习者直接沦陷于算法的虚假流畅权威。唯有在人机界面与教学规程中主动注入生产性认识摩擦（Productive Epistemic Friction）——例如推行对抗性反思质询与多源反馈对照，强制要求学生撰写修改决策辩护词——才能重新唤醒元认知监控机能，守住[[Evaluative Judgement\|评价性判断]]的主体掌控权。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 5–8)]]

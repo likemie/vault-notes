@@ -57,6 +57,7 @@ related_concepts:
   - "[[Dunbar's Number]]"
   - "[[Everyday Plebiscite]]"
   - "[[Civic Religion]]"
+  - "[[Patent Citation]]"
   - "[[Decodification]]"
   - "[[Argument Mapping]]"
   - "[[Man-Computer Symbiosis]]"
@@ -110,7 +111,6 @@ related_concepts:
   - "[[Soft Belief]]"
   - "[[Enlightenment]]"
   - "[[Competitiveness]]"
-  - "[[Screening Off]]"
   - "[[Epistemology]]"
   - "[[Geopolitics]]"
   - "[[Betrayal in Research]]"
@@ -260,7 +260,7 @@ related_methods:
   - "[[Effectiveness Trial]]"
 status: draft
 created: '2026-10-07'
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 ---
 
@@ -293,7 +293,7 @@ updated: 2026-10-26
 > - **[[Dunbar's Number|邓巴数]]、[[Everyday Plebiscite|每日公投]]与[[Civic Religion|公民宗教]]** 引入演化人类学（邓巴）、现代民族理论（勒南、安德森）与宗教社会学（贝拉），论证超大规模现代技术文明必须依赖超越血统的共享神话与公民宗教以维系跨世代的生存与防卫意志（pp. 190–204）。
 
 > [!monograph-method] 研究方法与材料
-> - **资料来源** 冷战国防动员与[[Manhattan Project|曼哈顿工程]]档案、美国制宪会议记录、联邦采办诉讼判决书（[[Palantir Technologies|帕兰提尔]]诉陆军案）、阿富汗反 IED 实战记录、经典社会心理学与行为生物学实验报告，现代公司金融跨期资产定价与标普 500 核心专利引用实证研究（Fahlenbrach, 2009; Lee et al., 2016），以及卡普主导帕兰提尔二十年国防与企业软件工程的亲历实录。
+> - **资料来源** 冷战国防动员与[[Manhattan Project|曼哈顿工程]]档案、美国制宪会议记录、联邦采办诉讼判决书（[[Palantir Technologies|帕兰提尔]]诉陆军案）、阿富汗反 IED 实战记录、经典社会心理学与行为生物学实验报告，现代公司金融跨期资产定价与标普 500 核心[[Patent Citation|专利引用]]实证研究（Fahlenbrach, 2009; Lee et al., 2016），以及卡普主导帕兰提尔二十年国防与企业软件工程的亲历实录。
 > - **分析策略** 历史追溯（二战至冷战硅谷演化）、思想文化解构（1960 年代反文化、大学经典之争与文化相对主义人类学）、微观组织机制[[Decodification|解码]]（蜂群自组织与即兴剧场）、制度法治比较（美国清教禁欲模式 vs 新加坡市场挂钩模式）与战略对策建构。
 > - **证据类型** 实战工程交付记录、判例法文本、计量金融资产定价模型与前向专利引用网络统计数据；个人创业叙事与哲学阐释用以建立治理假设与制度反思，完整推断边界留待历史长效与多国实践检验。
 
@@ -346,7 +346,7 @@ updated: 2026-10-26
 ### 去中心化群智能、即兴协同与反从众：工程思维的微观机制与认识论奠基
 
 > [!book-synthesis] 去中心化[[Swarm Intelligence|群智能]]与反从众[[Engineering Mindset|工程思维]]的微观机制
-> - **递进或修正** 针对传统[[Bureaucracy|官僚科层制]]的僵化与内耗，微观组织治理呈现出逐层深化的工程文化建构：生物蜂群与鸟群依靠[[Edge Autonomy|边缘自治]]与[[Swarm Intelligence|群智能]]达成去中心化协同；初创企业在破除动物[[Pecking Order|啄序]]特权与官僚层级的同时，依托[[Status Transactions|工具性地位]]与阴影层级实现敏捷应变；社会认知心理学实验（阿施、[[Stanley Milgram|米尔格拉姆]]）进一步证明，工程团队必须制度化包容[[Constructive Disobedience|建设性不服从]]，并以[[Social Deafness|社交失聪]][[Screening Off|屏蔽]]世俗舆论噪音；[[Department of Defense|五角大楼]]采办诉讼与反恐实战大考确立了开发者与一线用户的亲密连接及《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]》（[[Federal Acquisition Streamlining Act of 1994|FASA 1994]]）中[[Commercial Off-The-Shelf|商用现货]]（COTS）优先原则的制度突破；最终由[[Hedgehog and Fox Model|刺猬与狐狸思维模型]]、[[Taiichi Ohno|大野耐一]][[Five Whys|五问法]]与冷峻写实观察确立了拥抱概率演化并在免责复盘中深挖系统根因的[[Engineering Mindset|工程思维]]。（pp. 115–167）
+> - **递进或修正** 针对传统[[Bureaucracy|官僚科层制]]的僵化与内耗，微观组织治理呈现出逐层深化的工程文化建构：生物蜂群与鸟群依靠[[Edge Autonomy|边缘自治]]与[[Swarm Intelligence|群智能]]达成去中心化协同；初创企业在破除动物[[Pecking Order|啄序]]特权与官僚层级的同时，依托[[Status Transactions|工具性地位]]与阴影层级实现敏捷应变；社会认知心理学实验（阿施、[[Stanley Milgram|米尔格拉姆]]）进一步证明，工程团队必须制度化包容[[Constructive Disobedience|建设性不服从]]，并以[[Social Deafness|社交失聪]]屏蔽世俗舆论噪音；[[Department of Defense|五角大楼]]采办诉讼与反恐实战大考确立了开发者与一线用户的亲密连接及《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]》（[[Federal Acquisition Streamlining Act of 1994|FASA 1994]]）中[[Commercial Off-The-Shelf|商用现货]]（COTS）优先原则的制度突破；最终由[[Hedgehog and Fox Model|刺猬与狐狸思维模型]]、[[Taiichi Ohno|大野耐一]][[Five Whys|五问法]]与冷峻写实观察确立了拥抱概率演化并在免责复盘中深挖系统根因的[[Engineering Mindset|工程思维]]。（pp. 115–167）
 > - **成立条件** 生物蜂群、即兴演剧、反从众工程文化与“极致狐狸”[[Epistemology|认识论]]的敏捷自适应依赖于明确的战术目标、客观代码与物理运行的[[Effectiveness Trial|实效检验]]，以及对非传统异类人才的制度包容；更需要外部法律制度（如 COTS 优先与价值导向采购）打破官僚既得利益壁垒，使商业前沿创新能够无缝接入国家安全系统。（pp. 120–167）
 
 ### 破除市场必胜论与形式合规迷思：以创始人长程托管、公民仪式与君子美德重铸技术共和国

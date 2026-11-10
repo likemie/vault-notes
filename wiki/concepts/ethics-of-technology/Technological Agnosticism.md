@@ -9,7 +9,7 @@ aliases:
 summary: "指当代技术精英与软件工程师将技术创造活动本身视为纯粹目的，刻意回避对国家使命、政治立场、公共善与伦理价值进行实质决断与承诺的意识形态取向；其历史根源可追溯至20世纪后半叶欧美通识正典瓦解与反文化黑客伦理将国家定性为缺陷系统后，科技阶层向唯利是图消费互联网的全面退缩。"
 type: concept
 domain: "ethics-of-technology"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Western Civilization Course]]"
   - "[[Counterculture Computing]]"
   - "[[Consumer Internet]]"
+  - "[[Professional Interest]]"
   - "[[Artefact]]"
   - "[[Moral Dualism]]"
   - "[[Hard Belief]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -82,7 +83,7 @@ updated: 2026-11-03
 > - **边界** 不等同于技术工具论（Technological Instrumentalism）或一般的科学怀疑论，其核心在于一种以“为了建造而建造”为掩护的政治冷漠与避险策略。
 
 > [!citation-card] 技术不可知论者的创造伦理与国家使命脱钩
-> 一代软件工程师和创始人的主要志趣在于创造行为本身——与任何宏大的世界观或政治方案相脱节。他们是技术不可知论者。他们建造事物仅仅因为他们能够建造，却与更为根本的目标脱离。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 71–72)]]
+> 一代软件工程师和创始人的主要[[Professional Interest|志趣]]在于创造行为本身——与任何宏大的世界观或政治方案相脱节。他们是技术不可知论者。他们建造事物仅仅因为他们能够建造，却与更为根本的目标脱离。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 71–72)]]
 >
 > *He captured the views of a generation of software engineers and founders, whose principal and animating interest was the act of creation itself—decoupled from any grand worldview or political project. These were the technological agnostics.*
 

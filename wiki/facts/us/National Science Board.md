@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[University-Industry Collaboration]]"
   - "[[Geopolitics]]"
+  - "[[Study Abroad]]"
   - "[[Public-Private Partnership]]"
 related_theories: []
 related_methods: []
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -125,7 +126,7 @@ updated: 2026-10-22
 > > [!axis] 国际开放科研生态 vs 关键技术防范与本土化审查
 > > 围绕全美高层次工程科研人才对国际学者的高依赖度，探讨如何平衡学术开放与防范知识产权流失。
 > >
-> > - **学术全球化立场** 强调美国科研领导力完全建立在开放吸纳全球顶尖留学生与科学家的基础之上，设置严苛的国籍与安全审查将直接导致美国本土实验室陷入人才枯竭。
+> > - **学术全球化立场** 强调美国科研领导力完全建立在开放吸纳全球顶尖[[Study Abroad|留学]]生与科学家的基础之上，设置严苛的国籍与安全审查将直接导致美国本土实验室陷入人才枯竭。
 > > - **供应链安全立场** 警示关键先进制程与敏感算法过度依赖非公民人员存在潜在外流风险，主张必须加大国内本土 [[STEM Education|STEM]] 教育投入以重建人才自主可控梯队。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 236–237)]]
 
 ---

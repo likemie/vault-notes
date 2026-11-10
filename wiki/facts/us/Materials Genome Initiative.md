@@ -11,15 +11,16 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2011–至今"
 initiator_organization: "National Science and Technology Council"
 related_concepts:
   - "[[Megascience Installations]]"
   - "[[Research Universities]]"
+  - "[[Research Tool]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Ontology]]"
   - "[[Big Science]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -76,7 +77,7 @@ updated: 2026-10-26
 ---
 
 > [!dev-timeline] 项目推进历程
-> - **2011–2014 — 框架确立与工具链奠基** 白宫正式发布《材料基因组计划白皮书》，明确计算工具、实验工具与数字数据三大支柱，各联邦部门开始部署材料项目（Materials Project）等公共计算数据库。
+> - **2011–2014 — 框架确立与工具链奠基** 白宫正式发布《材料基因组计划白皮书》，明确计算工具、[[Research Tool|实验工具]]与数字数据三大支柱，各联邦部门开始部署材料项目（Materials Project）等公共计算数据库。
 > - **2014–2020 — 跨机构协同与数据网络扩展** [[National Science and Technology Council|NSTC]] 发布首份 MGI 战略计划，NIST 牵头建立材料数据管理联合体，高通量合成与基于机器学习的晶体结构预测全面融入国家实验室研发。
 > - **2021–至今 — 人工智能融合与微电子战略对接** NSTC 发布第二个十年战略计划，重点引入[[Generative Artificial Intelligence|生成式人工智能]]、自主实验室（Self-Driving Labs）与原子尺度原位表征，并与《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》深度对接，攻关碳化硅（SiC）、氮化镓（GaN）、氧化镓与金刚石等超宽禁带半导体材料。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 14, 21)]]
 

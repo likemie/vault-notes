@@ -9,7 +9,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ tags:
   - theme/higher-education
 related_concepts:
   - "[[Data Infrastructure]]"
+  - "[[Transnational Education]]"
   - "[[Epistemology]]"
   - "[[Epistemic Infrastructure]]"
   - "[[Document]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -62,7 +63,7 @@ updated: 2026-11-02
 ---
 
 > [!claim] 核心干预／机制假说
-> 将质保机构的离散式文本审查报告转化为结构化、机器可读的跨国数字凭证，通过将其直接嵌入各国学历互认中心（ENIC-NARIC）的日常行政工作流，重构跨国教育信任机制并促进高等教育一体化。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 224–225)]]
+> 将质保机构的离散式文本审查报告转化为结构化、机器可读的跨国数字凭证，通过将其直接嵌入各国学历互认中心（ENIC-NARIC）的日常行政工作流，重构[[Transnational Education|跨国教育]]信任机制并促进高等教育一体化。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 224–225)]]
 
 > [!policy-design] 方案设计
 > - **项目目标** 建立全欧一站式外部质保报告检索与核验平台，提升高等教育评估决策的透明度与使用效率。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 223–224)]]

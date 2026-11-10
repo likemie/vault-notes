@@ -9,7 +9,7 @@ summary: "美国第31任总统、采矿工程师与人道主义救济专家，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -42,6 +42,7 @@ related_persons:
   - "[[Nicholas Zamiska]]"
   - "[[John Dewey]]"
   - "[[Taiichi Ohno]]"
+  - "[[Tim Cain]]"
 related_facts:
   - "[[Department of Commerce]]"
 related_arguments:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -134,7 +135,7 @@ updated: 2026-11-02
 > > 围绕胡佛以工程自愿主义与技术效率解决宏观经济危机的局限性展开的历史争论。
 > >
 > > - **自由主义工程观与胡佛立场** 坚信社会组织应建立在自愿协作、地方自治与工业效率之上，警惕中央政府过度行政扩张与强制管制。
-> > - **凯恩斯主义与新政批判者** 认为工程化逻辑在应对复杂的宏观经济流动性危机与系统性有效需求不足时存在盲区，过度迷信自愿机制导致错失大萧条初期的强力财政干预窗口。
+> > - **[[Tim Cain|凯恩]]斯主义与新政批判者** 认为工程化逻辑在应对复杂的宏观经济流动性危机与系统性有效需求不足时存在盲区，过度迷信自愿机制导致错失大萧条初期的强力财政干预窗口。
 >
 > > [!axis] 赫伯特·胡佛的工程透明性 vs J·埃德加·胡佛的暗室扩权
 > > 澄清美国政治史与技术治理史上两位“胡佛”截然对立的历史遗产与治理逻辑。

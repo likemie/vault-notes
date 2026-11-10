@@ -22,11 +22,11 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Performance Indicators]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Transnational Education]]"
   - "[[Epistemology]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[State Educational Sovereignty]]"
   - "[[Governing by Numbers]]"
-  - "[[Document]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
@@ -46,7 +46,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -82,7 +82,7 @@ updated: 2026-11-03
 ---
 
 > [!feature] 核心要素
-> - **信息中介性** 核心产出是全面、客观、经过历史与语境检验的跨国教育信息，呈现不同体制在各自社会土壤中的运行图景。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 95)]]
+> - **信息中介性** 核心产出是全面、客观、经过历史与语境检验的[[Transnational Education|跨国教育]]信息，呈现不同体制在各自社会土壤中的运行图景。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 95)]]
 > - **方案多元性** 拒绝提供唯一最佳实践的确定性处方，始终向决策者呈现多种可能并存的制度路径及其利弊得失。
 > - **后果可预测性** 运用比较与历史因果推演，帮助政策制定者预先洞察特定外来政策移植可能引发的本土排异与意外后果。
 > - **决策非介入性** 严格恪守学者与从政者的职业伦理边界，将最终的价值抉择与政治责任交还给经民主选举或法定任命的决策者。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 96)]]

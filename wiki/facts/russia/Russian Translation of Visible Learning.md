@@ -10,7 +10,7 @@ subtype: event
 region: russia
 fact_region: "russia"
 fact_kind: "event"
-fact_related_count: 30
+fact_related_count: 31
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#fef3c7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Ecological Validity]]"
   - "[[Normal School]]"
+  - "[[Homophily]]"
   - "[[Teacher Subject Matter Knowledge]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Theoretical Perspective]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -126,7 +127,7 @@ updated: 2026-11-02
 
 > [!finding-cards] 关键历史后果
 > - **终结单向赞美神话** 首次将西方学界长达十年的批判武器（Snook、Terhart、Eacott、Slavin、McKnight 等）全面引入俄语语境，扭转了引介初期毫无抵抗的全面背书局面。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 229, 236–238)]]
-> - **数理检验的范式确立** 创立了以变差系数（Variation Coefficient, $V_\sigma$）检验二阶综合数据同质性的实证路径，证实 Hattie 模型总体波动高达 56.87%，远超 33% 的同质性安全标准。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 238–239)]]
+> - **数理检验的范式确立** 创立了以变差系数（Variation Coefficient, $V_\sigma$）检验二阶综合数据[[Homophily|同质性]]的实证路径，证实 Hattie 模型总体波动高达 56.87%，远超 33% 的同质性安全标准。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 238–239)]]
 > - **揭示[[Policy Borrowing|政策借用]]制度陷阱** 明确了外来循证模型与本土制度环境的冲突机理：在教师职业认同脆弱的土壤中叠加量化监控，将直接引爆集体转行离职的制度危机。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 240–241)]]
 
 > [!stat-cards]- 核心历史数据

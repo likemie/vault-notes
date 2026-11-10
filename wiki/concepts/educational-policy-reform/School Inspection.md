@@ -9,7 +9,7 @@ aliases:
 summary: "由国家或地方政府授权的外部独立机构对学校教育教学质量、管理运行与合规状态开展现场审查、评级发布与行政问责的制度化规制机制"
 type: concept
 domain: "educational-policy-reform"
-related_count: 67
+related_count: 69
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[School Leadership]]"
   - "[[Dialogue in Education]]"
+  - "[[Quasi-market]]"
   - "[[Moral Sidestep]]"
   - "[[Institutional Drift]]"
   - "[[Teacher Professional Agency]]"
@@ -39,6 +40,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Praxis]]"
+  - "[[Transnational Education]]"
   - "[[New Public Management]]"
   - "[[Research Translation]]"
   - "[[Forensic Style of Inspection]]"
@@ -96,7 +98,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -140,7 +142,7 @@ updated: 2026-11-03
 > | **实施主体** | 国家/地方外部独立法定督学机构 | 中央教育行政部门与量化测试工业 | [[School Leadership\|学校领导]]班子与校内一线教职工 | 跨校教师共同体、学科专家联盟 |
 > | **核心方法** | 实地推门听课、师生访谈、文档审计 | 大规模标准化纸笔或机考测验 | 校内数据反思、[[Action Research\|行动研究]]、教研研讨 | 课堂互观互评、课例研修、平等[[Dialogue in Education\|对话]] |
 > | **结果呈现** | 综合等第评级（如杰出/良好/不及格） | 连续数值分数、百分等级与排列表 | 内部诊断改进报告、发展优先级计划 | 形成性建言、质性同侪反馈建议 |
-> | **治理功能** | 确立办学质量底线与触发法定干预 | 建立准市场竞争激励与绩效归责 | 激发组织内生反思与长效改进潜能 | 增进专业自主、强化同侪信任资本 |
+> | **治理功能** | 确立办学质量底线与触发法定干预 | 建立[[Quasi-market\|准市场]]竞争激励与绩效归责 | 激发组织内生反思与长效改进潜能 | 增进专业自主、强化同侪信任资本 |
 > | **典型风险** | 形式主义应检、造假演戏与教师恐慌 | 应试训练、课程窄化与排斥弱势生 | 报喜不报忧、缺乏客观外部对照参照 | 缺乏强制约束力、流于熟人温和妥协 |
 
 ---
@@ -213,7 +215,7 @@ updated: 2026-11-03
 > **督导职能外包与跨国商业化扩张机制** 探讨[[Public-Private Partnership|公私伙伴关系]]如何突破国家行政垄断，将学校督导转变为私营教育财团积累管理资质并向海外输出的商业化商品。
 
 > [!claim] Beech & Cardini
-> **督导业务的公私合伙外包与跨国资本化** 弗洛伦西亚·卡迪尼（Florencia Cardini, 2006）与[[Jason Beech|杰森·比奇]]（Jason Beech, 2009b, pp. 343–344）指出，伴随公私伙伴关系（Public-Private Partnerships, PPP）在英国等国的深入推进，原本属于国家垄断的公共教育核心职能——包括校舍建设、地方教育局（LEAs）日常运营、教师在职培训乃至学校督导的实际执行——被系统性外包给私营营利性部门。中标承接大量政府督导合同的私营教育服务公司（如[[Nord Anglia Education|诺德安达教育集团]] Nord Anglia Education [[Professional Learning Community|PLC]]）借助公共财政合同大幅扩张运营实力与管理团队，进而将本国督导经验封装为标准化的专业服务产品，跨国拓展至中东、亚洲等多国教育市场，成为集学校督导、管理顾问与政策咨询于一体的跨国教育巨头。这一机制表明，学校督导在[[New Public Management|新公共管理]]浪潮中已超越纯粹的民族国家主权治理工具，异化为在全球教育市场中流转与寻租的商业资本。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–344)]]
+> **督导业务的公私合伙外包与跨国资本化** 弗洛伦西亚·卡迪尼（Florencia Cardini, 2006）与[[Jason Beech|杰森·比奇]]（Jason Beech, 2009b, pp. 343–344）指出，伴随公私伙伴关系（Public-Private Partnerships, PPP）在英国等国的深入推进，原本属于国家垄断的公共教育核心职能——包括校舍建设、地方教育局（LEAs）日常运营、教师在职培训乃至学校督导的实际执行——被系统性外包给私营营利性部门。中标承接大量政府督导合同的私营教育服务公司（如[[Nord Anglia Education|诺德安达教育集团]] Nord Anglia Education [[Professional Learning Community|PLC]]）借助公共财政合同大幅扩张运营实力与管理团队，进而将本国督导经验封装为标准化的专业服务产品，跨国拓展至中东、亚洲等多国教育市场，成为集学校督导、管理顾问与政策咨询于一体的[[Transnational Education|跨国教育]]巨头。这一机制表明，学校督导在[[New Public Management|新公共管理]]浪潮中已超越纯粹的民族国家主权治理工具，异化为在全球教育市场中流转与寻租的商业资本。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–344)]]
 
 > [!citation-card] 论英国督导业务外包与跨国教育服务扩张
 > 公私伙伴关系（PPP）在英国等地的引入，导致私营部门赢得了学校建设项目、地方教育局运营、教师在职培训、学校供餐以及学校督导供给等诸多公共合同。随着这些公司在这些领域积累了经验和能力，它们已发展成为在多国提供服务的跨国公司。例如，在英国赢得诸多此类合同的诺德安达教育集团首席执行官曾指出：‘诺德安达是一家依托员工的服务型企业。当前英国教育改革的力度正为有能力化变革为优势的企业创造巨大的商业机遇……在过去几年里，我们大幅提升了全集团的运营能力与管理质量……我们已经准备好迎接这一挑战，拓展国际业务，其所带来的机遇前所未有。’[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–344)]]

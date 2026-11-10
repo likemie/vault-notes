@@ -12,7 +12,7 @@ subtype: policy
 region: russia
 fact_region: "russia"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - "level/higher-education"
   - "region/russia"
 related_concepts:
+  - "[[Early-Career Researchers]]"
   - "[[Scientific Autarky]]"
 related_theories: []
 related_methods: []
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-30'
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -68,7 +69,7 @@ updated: 2026-10-30
 > [!actor-grid] 实施角色分工
 > - **发布主体** 俄罗斯联邦总统签署，国家杜马通过。
 > - **执行主体** 俄罗斯联邦总检察长办公室（联合外交部）行使审查、认定及宣布权，司法部负责名录更新。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 44]])
-> - **适用对象** 俄罗斯高校的科研教育中心、青年学者，以及为其提供学术资助的国际基金会。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 46–47]])
+> - **适用对象** 俄罗斯高校的科研教育中心、[[Early-Career Researchers|青年学者]]，以及为其提供学术资助的国际基金会。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 46–47]])
 > - **政策工具** 资产冻结、禁令下达、涉外支付审查及与违规合作相关的刑事追责。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 44, 46]])
 
 > [!pathways] 实施路径

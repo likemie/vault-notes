@@ -8,10 +8,10 @@ aliases:
 summary: "在科学学与组织行为学中，指科研合作团队在成员特征上的异质性构成，涵盖族裔、国别、机构、学术年龄、学科背景与性别等多重维度。实证表明即时团队多样性对成果长期被引与跨界新颖性具有显著的净提升效应，但发表前亦伴随着较高的沟通与协调摩擦。"
 type: concept
 domain: "science-policy"
-related_count: 13
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/science-policy
   - theme/team-science
@@ -20,14 +20,21 @@ tags:
 related_concepts:
   - "[[Assemblage]]"
   - "[[Heterogeneity]]"
+  - "[[Survivorship Bias]]"
   - "[[Champ]]"
+  - "[[Paradigm]]"
+  - "[[Open-Mindedness]]"
   - "[[Homophily]]"
   - "[[Variable]]"
-  - "[[Research Impact]]"
+  - "[[Document]]"
+  - "[[Combinatorial Novelty]]"
 related_theories: []
 related_methods:
+  - "[[Journal Impact Factor]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Bibliometric Analysis]]"
   - "[[Effect Size]]"
+  - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
   - "[[Dashun Wang]]"
@@ -35,12 +42,12 @@ related_facts:
   - "[[National Science Foundation]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
   - "[[Argument_Liu_2023_NHB]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -51,7 +58,7 @@ updated: 2026-11-03
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向团队成员在族裔、机构、学科、性别与学术资历等多维特征上的差异度组合与知识交叉结构。
 > - **用途** 用于解释异质团队相较同质团队在研究视野拓展、新异知识重组以及长期科学影响力上的差异来源。
-> - **边界** 聚焦单项成果署名团队的即时多元构成，不等于学者个人历史合作网络的分散程度（个体多样性），亦受限于成功发表样本的幸存者偏差。
+> - **边界** 聚焦单项成果署名团队的即时多元构成，不等于学者个人历史合作网络的分散程度（个体多样性），亦受限于成功发表样本的[[Survivorship Bias|幸存者偏差]]。
 
 > [!citation-card|notitle] 关键表述
 > 在控制发表年份、署名规模、学科领域、学者前期学术声望与大学排名后，多样性与科学影响力的明确关联依然稳固：团队的族裔多样性带来了 10.63% 的影响力增益。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 115)]]
@@ -59,8 +66,8 @@ updated: 2026-11-03
 > *Indeed, even when they controlled for publication year, number of authors, [[Champ|field]] of study, author impact level prior to publication, and university ranking, the clear association between diversity and scientific impact remained: Ethnic diversity on a team was associated with an impact gain of 10.63 percent.*
 
 > [!boundary]- 概念边界
-> - 不等于 团队规模（Team Size） — 规模衡量成员绝对人数（如小团队颠覆既有范式 vs 大团队延续深耕），而多样性衡量成员在族裔、性别、学科与资历上的内部异质结构。
-> - 不等于 个体历史合作开放性（Individual Diversity） — 团队多样性关注具体成果合作名单的即时碰撞，学者个人终身合作网络的多样性无法替代单项任务团队的即时异质性。
+> - 不等于 团队规模（Team Size） — 规模衡量成员绝对人数（如小团队颠覆既有[[Paradigm|范式]] vs 大团队延续深耕），而多样性衡量成员在族裔、性别、学科与资历上的内部异质结构。
+> - 不等于 个体历史合作[[Open-Mindedness|开放性]]（Individual Diversity） — 团队多样性关注具体成果合作名单的即时碰撞，学者个人终身合作网络的多样性无法替代单项任务团队的即时异质性。
 > - 不适用于 忽视预发表流产风险的直接外推 — 多元化团队的引文溢价主要来自已跨越协调摩擦并成功见刊的成果，不能直接推论所有异质团队在立项初期均有更高产出率。
 
 ---
@@ -70,13 +77,13 @@ updated: 2026-11-03
 > |---|---|---|---|
 > | **分析对象** | 单篇论著合署名单的背景异质度 | 单一学者整个职业生涯合著者背景的多样度 | 合作网络中个体倾向寻找同质成员的组装倾向 |
 > | **核心机制** | 即时汇聚异质认知视角，促进假说交叉碰撞 | 学者自身开放合作倾向与跨界社交资本积累 | 心理安全感与沟通便利降低前期交易成本 |
-> | **影响力关联** | 对成果被引具有直接且更强的提振作用 | 具备正向关联，但驱动作用次于即时团队多样性 | 往往伴随研究视野狭隘与成果影响因子偏低 |
+> | **影响力关联** | 对成果被引具有直接且更强的提振作用 | 具备正向关联，但驱动作用次于即时团队多样性 | 往往伴随研究视野狭隘与成果[[Journal Impact Factor\|影响因子]]偏低 |
 
 ---
 
 > [!feature] 核心维度
 > - **族裔与国别多样性** 融合不同文化背景的科研思维习惯，在大数据分析中与五年期引文表现呈现极强正相关（$r = 0.77$）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 114–116)]]
-> - **性别多样性与创新突破** 男女混合团队在克服思维定势与促进非常规知识重组上具备显著优势；在剥离个体能力与机构环境固定效应后，混合团队成果在被引表现与跨界新颖性上均全面领先单一性别团队。[[Argument_Liu_2023_NHB|(Liu et al., 2023, p. 1879)]]
+> - **性别多样性与创新突破** 男女混合团队在克服思维定势与促进非常规知识重组上具备显著优势；在剥离个体能力与机构环境[[Fixed-Effect Model|固定效应]]后，混合团队成果在被引表现与跨界新颖性上均全面领先单一性别团队。[[Argument_Liu_2023_NHB|(Liu et al., 2023, p. 1879)]]
 > - **机构与地理多样性** 跨越单一大学的实验资源与仪器壁垒，多校合作成果在绝大多数自然科学与社科领域均享有被引优势。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 115)]]
 > - **学术年龄多样性** 资深学者积淀与青年新秀敏锐直觉有机互补，与引文表现呈现稳健正相关（$r = 0.65$）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 116)]]
 > - **学科与知识多样性** 提供解决复杂科学问题所需的多元工具箱，但需要跨学科共同语言作为协作基础。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 114, 118)]]
@@ -152,10 +159,10 @@ updated: 2026-11-03
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|AlShebli et al. (2018)]] | 900 万篇论著与 600 万名科学家，覆盖 24 个学术子领域 | 观察性大数据回归分析 | 族裔、年龄、性别、机构多样性对五年被引之关联 | 族裔多样性与被引相关系数 $r = 0.77$，控制年份、领域、团队人数、既往影响力和大学排名后带来 10.63% 净引文增益 | $p < 0.001$ | 仅反映发表成功的出版样本，未覆盖发表前流产项目 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Freeman & Huang (2014)]] | 1985–2008 年美国学者发表的 250 万篇论著 | 计量经济学回归模型 | 族裔多样性对成果引用之影响 | 4–5 位不同族裔学者合署成果较纯同质团队引用高出 5%–10% | — | 美国本土学术样本，受特定移民与科研资助结构影响 |
-> | [[Argument_Liu_2023_NHB\|Yang et al. (2022) via Liu et al. (2023)]] | 跨越数十年全域学科的 2,000 余万篇科技文献大数据 | 双向固定效应（个体与学科-年份固定效应）面板回归 | 性别多样性团队对成果被引频次与跨界新颖性指标之因果效应 | 混合性别团队发表的成果在篇均引用与非典型组合新颖性上均显著高于单一性别团队 | 固定效应估计显著（$p < .01$） | 严格控制学者恒定未观测禀赋后的因果估计，证实性别结构具有独立创新溢价 |
+> | [[Argument_Liu_2023_NHB\|Yang et al. (2022) via Liu et al. (2023)]] | 跨越数十年全域学科的 2,000 余万篇科技[[Document\|文献]]大数据 | 双向固定效应（个体与学科-年份固定效应）面板回归 | 性别多样性团队对成果被引频次与跨界新颖性指标之因果效应 | 混合性别团队发表的成果在篇均引用与[[Combinatorial Novelty\|非典型组合]]新颖性上均显著高于单一性别团队 | 固定效应估计显著（$p < .01$） | 严格控制学者恒定未观测禀赋后的因果估计，证实性别结构具有独立创新溢价 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang & Barabási (2021)]] — 整合 900 万篇论著与 NSF 资助项目数据，系统确证团队族裔、机构与年龄多样性对成果长期被引的提升效应，并指出发表前协调摩擦引发的幸存者偏差。
-> - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 系统综述现代科学学进展，引用 Yang et al. (2022) 双向固定效应模型实证确证混合性别多样性团队对成果长期被引与跨界新颖性的因果提振效应（p. 1879）。
+> - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — [[Systematic Review|系统综述]]现代科学学进展，引用 Yang et al. (2022) 双向固定效应模型实证确证混合性别多样性团队对成果长期被引与跨界新颖性的因果提振效应（p. 1879）。

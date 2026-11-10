@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 37
+fact_related_count: 39
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Success Criteria]]"
+  - "[[People, Not Projects]]"
   - "[[Golden Ticket Mechanism]]"
   - "[[Advance Market Commitments]]"
   - "[[Pull Mechanisms for Innovation]]"
@@ -40,6 +41,7 @@ related_concepts:
   - "[[Megascience Installations]]"
   - "[[Innovation Hub]]"
   - "[[Focused Research Organization]]"
+  - "[[Early-Career Researchers]]"
   - "[[Epistemology]]"
   - "[[Innovation Ecosystem]]"
   - "[[Gold Standard Science]]"
@@ -70,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -96,7 +98,7 @@ updated: 2026-10-26
 > [!pathways] 《科学：新的黄金时代》四大政策支柱
 > - **支柱一：重塑以研究者个人为核心的科研资助体制（第二章）**
 >   - 破除将首席科学家（PI）异化为文书管理员的行政摩擦，扩大可随人跨校迁移的早期学者奖学金（如 [[National Science Foundation|NSF]] GRFP）；
->   - 大规模推广为期 7 年、免于短期汇报的长周期“对人资助”（People, not projects）；
+>   - 大规模推广为期 7 年、免于短期汇报的长周期“对人资助”（[[People, Not Projects|People, not projects]]）；
 >   - 引入[[Golden Ticket Mechanism|金券机制]]（Golden Tickets）、48 小时快速资助（[[Fast Grants]]）以及事后买单的技术悬赏与[[Advance Market Commitments|高级市场承诺]]（[[Pull Mechanisms for Innovation|拉动机制]]）；
 >   - 在每个联邦资助机构内设立直属于局长的[[Metascience|元科学]]单元（Metascience Units），依托[[Randomised Controlled Trials|随机对照试验]]检验并迭代资助规则。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 20–32)]]
 > - **支柱二：确保科学发现高效转化为本土产业能力（第三章）**
@@ -129,7 +131,7 @@ updated: 2026-10-26
 > 4. **全面开放研发基础设施** 降低初创企业与高校使用国家[[Megascience Installations|大科学装置]]的门槛；
 > 5. **将技术突破转化为区域生态** 建设与地方制造业紧密锚定的区域[[Innovation Hub|创新中心]]；
 > 6. **试验新型资助机制与机构模型** 广泛资助[[Focused Research Organization|聚焦研究组织]]（FRO）与 X 实验室；
-> 7. **革新拔尖人才识别与早期资助** 扩大可携带奖学金与青年学者无限制支持；
+> 7. **革新拔尖人才识别与早期资助** 扩大可携带奖学金与[[Early-Career Researchers|青年学者]]无限制支持；
 > 8. **科学化改进联邦经费分配机制** 依托[[Metascience|元科学]]单元开展资助对照实验；
 > 9. **将联邦研发深植于国家科技大生态** 促进联邦机构、顶尖大学、慈善基金与工业实验室的无缝协同。
 

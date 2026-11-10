@@ -7,7 +7,7 @@ title: "Argument_Besa_2024_UW"
 argument_key: "Argument_Besa_2024_UW"
 argument_display_title: "Evidenzfernes Lehrkräftehandeln – braucht die Bildungsforschung eine neue Wissenschaftskommunikation? Unterrichtswissenschaft, 52(2), 251–262"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -67,12 +67,13 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Analytic Framework]]"
+  - "[[Journal Impact Factor]]"
 related_facts:
   - "[[Clearing House Unterricht]]"
   - "[[Forschungsmonitor Schule]]"
 confidence: high
 created: 2026-09-18
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
@@ -188,7 +189,7 @@ updated: 2026-10-29
 > | **实践[[Situative Perspective\|情境观]]** | 视学校情境为被动容器，忽视本土文化与行动逻辑 | 强调知识转移必须根据具体实践情境进行调适（Gräsel, 2019） |
 > | **实践者定位** | 知识匮乏的被动受体或执行工具 | 拥有专业经验与情境洞察的平等对话伙伴（Reinmann & Brase, 2022） |
 > | **互动媒介生态** | 封闭于专业学术期刊与大学学术会议 | 依托 Web 2.0 交互媒介、播客、信息中介与数字社群（Dresbach, 2023） |
-> | **核心评价标准** | 单一推崇科研发表影响因子与方法学复杂性 | 兼顾证据[[Reliability\|信度]]（Belastbarkeit）与一线可及性、情境可用性 |
+> | **核心评价标准** | 单一推崇科研发表[[Journal Impact Factor\|影响因子]]与方法学复杂性 | 兼顾证据[[Reliability\|信度]]（Belastbarkeit）与一线可及性、情境可用性 |
 
 > [!sub-claim] 2. 面向实践的科学传播促使研究者转换认知视角并实质性反哺科研设计的[[Ecological Validity|生态效度]]
 

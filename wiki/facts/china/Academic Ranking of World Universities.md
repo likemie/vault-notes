@@ -11,7 +11,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 40
+fact_related_count: 43
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#fef3c7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Academic Inbreeding]]"
   - "[[Sociology of Valuation and Evaluation]]"
+  - "[[Transnational Education]]"
   - "[[Grandes Ecoles]]"
   - "[[Global Universities Rankings]]"
   - "[[Scientific Productivity]]"
@@ -37,6 +38,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Critical Thinking]]"
   - "[[Cross-cultural Validity]]"
+  - "[[Study Abroad]]"
   - "[[Student Mobility]]"
 related_theories:
   - "[[Academic Capitalism]]"
@@ -53,6 +55,7 @@ related_facts:
   - "[[Project 985]]"
   - "[[Times Higher Education World University Rankings]]"
   - "[[National Research Council]]"
+  - "[[Web of Science]]"
   - "[[Bologna Process]]"
   - "[[Double First-Class Initiative]]"
   - "[[National Science Foundation]]"
@@ -71,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-11
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -100,7 +103,7 @@ updated: 2026-11-02
 ---
 
 > [!citation-card] ARWU 纳入门槛与评选标准声明
-> 排名系统考虑每一所拥有诺贝尔奖得主、菲尔兹奖得主和高被引研究人员的大学，以及在《自然》（*Nature*）或《科学》（*Science*）上发表过学术成果的大学。此外，拥有大量被科学引文索引扩展版（SCIE）与社会科学引文索引（SSCI）收录成果的高校也被一并纳入考量池。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 131)]]
+> 排名系统考虑每一所拥有诺贝尔奖得主、菲尔兹奖得主和高被引研究人员的大学，以及在《自然》（*Nature*）或《科学》（*Science*）上发表过学术成果的大学。此外，拥有大量被[[Web of Science|科学引文索引]]扩展版（SCIE）与社会科学引文索引（SSCI）收录成果的高校也被一并纳入考量池。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 131)]]
 >
 > *The ranking considers every university that has any Nobel Laureates, Fields Medalists, Highly Cited Researchers, or papers published in Nature or Science. In addition, universities with a significant amount of papers indexed by Science Citation Index-Expanded (SCIE) and Social Science Citation Index (SSCI) are also included.*
 
@@ -129,7 +132,7 @@ updated: 2026-11-02
 > [!indicators] 历史影响维度
 > - **制度创生与治理同构** 催生全球高等教育治理的[[Academic Capitalism|学术资本主义]]与企业化转向，促使各国出台专项拔尖工程（如德国卓越大学计划、中国“[[Double First-Class Initiative|双一流]]”建设、法国大学重组合并联盟）以对标指标。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 131–134)]]
 > - **科研评价与学科分化** 极大强化了自然科学与生命科学的资源倾斜度，导致人文社科研究与非英语本土学术成果在高校内部资源竞争中处于次级边缘地位。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 132–133)]]
-> - **跨国高等教育等级固化** 确立了美英顶尖精英学府在全球高等教育资本格局中的霸权坐标，后来者与后发国家大学在积累性历史声誉与极端奖项指标前难以逾越结构性壁垒。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 134–135)]]
+> - **[[Transnational Education|跨国高等教育]]等级固化** 确立了美英顶尖精英学府在全球高等教育资本格局中的霸权坐标，后来者与后发国家大学在积累性历史声誉与极端奖项指标前难以逾越结构性壁垒。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 134–135)]]
 
 > [!finding-cards] 关键历史后果
 > - **实证表征美式体制优越性** 2005 年 ARWU 排名揭示出美国大学对全球科学前沿的绝对统治力，实证验证了二战后由联邦分散竞争资助（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]）与研究生院研教融合所构建的科研生态系统的极高生产力。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
@@ -162,7 +165,7 @@ updated: 2026-11-02
 > > [!axis] 科研声誉排序与跨境流动的动机脱节
 > > 跨国流动实践与排名位次之间的结构性背离。
 > >
-> > - **国际流动背离学术声誉指标** [[José Luis García Garrido|加西亚·加里多]]（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 332–333]]）揭示了南欧高教体系中的“西班牙悖论”：西班牙大学在 ARWU 与泰晤士高等教育等权威榜单中无一跻身前列，却凭借气候宜人、语言吸引力与低生活成本成为[[EU|欧盟]][[Erasmus Programme|伊拉斯谟计划]]最主要的留学生输入国。这种学生跨境流动与学术排名的脱节表明，全球排名指标无法衡量高等教育在区域一体化与文化交往中的多元吸引力，同时也警示各国大学不可将文化与地理红利误读为学术卓越。（pp. 332–333）
+> > - **国际流动背离学术声誉指标** [[José Luis García Garrido|加西亚·加里多]]（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 332–333]]）揭示了南欧高教体系中的“西班牙悖论”：西班牙大学在 ARWU 与泰晤士高等教育等权威榜单中无一跻身前列，却凭借气候宜人、语言吸引力与低生活成本成为[[EU|欧盟]][[Erasmus Programme|伊拉斯谟计划]]最主要的[[Study Abroad|留学]]生输入国。这种学生跨境流动与学术排名的脱节表明，全球排名指标无法衡量高等教育在区域一体化与文化交往中的多元吸引力，同时也警示各国大学不可将文化与地理红利误读为学术卓越。（pp. 332–333）
 
 > [!citation-card] [[Global Universities Rankings|全球大学排名]]的共识缺失困境
 > 没有任何两个全球排名系统是相似的，甚至在各个系统之间根本找不到哪怕一个完全重合的测量指标。这种高度分歧证实排名实质上是一种人为的量化建构，难以为客观教育现实提供统一度量。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 135)]]

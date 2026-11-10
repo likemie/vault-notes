@@ -9,7 +9,7 @@ aliases:
 summary: "由区域性多边组织或地缘国家教育部联盟主导，针对特定大洲或次区域基础教育学生开展的跨国标准化能力测评范式。相较于经济合作与发展组织的PISA等全球测评，区域测评聚焦于发展中国家基础读写与算术基准，使用区域主体教学语言，旨在通过地缘同伴互学凝聚政治改革共识，同时规避全球排名的名次焦虑。"
 type: concept
 domain: "comparative-education"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[International Large-Scale Assessments]]"
   - "[[Academic Achievement]]"
   - "[[Learning Crisis]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Problem Solving]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Performance Indicators]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -89,7 +90,7 @@ updated: 2026-10-30
 > | 维度 | 区域大规模测评（RLSAs） | 全球性大规模测评（如 [[PISA]]） |
 > |:---|:---|:---|
 > | **发起主体** | 地缘多边组织（CONFEMEN、SEAMEO、OREALC 等） | 跨国经济协调组织（[[OECD]]） |
-> | **目标学段与学科** | 小学初等阶段（2–6 年级）基础读写算术 | 义务教育末期（15 岁）终身素养与[[Problem Solving\|问题解决]] |
+> | **目标学段与学科** | 小学初等阶段（2–6 年级）[[Foundational Literacy and Numeracy\|基础读写算]]术 | 义务教育末期（15 岁）终身素养与[[Problem Solving\|问题解决]] |
 > | **测验难度基准** | 贴近低收入国家基础教育普及与底线质量现实 | 贴近高收入工业化国家[[Knowledge-Based Economy\|知识经济]]与高等教育预备需求 |
 > | **治理导向** | 诊断校际资源失衡与促进区域同伴能力建设 | 全球[[Performance Indicators\|绩效指标]]竞争与国家治理[[Soft Power\|软实力]]排名 |
 > | **代表性项目** | [[SACMEQ]]、[[PASEC]]、[[LLECE]]、[[SEA-PLM]]、[[PILNA]] | PISA、[[PISA for Development\|PISA-D]]、[[Teaching and Learning International Survey\|TALIS]] |

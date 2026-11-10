@@ -8,7 +8,7 @@ aliases:
 summary: "教师布置并在校外非教学时段由学生独立或在支持下完成的学习任务，其学业效果受学段认知发展高度调节，并在元分析构念聚合与比较基线不对等上面临方法学争议"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 60
+related_count: 61
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Reflexivity]]"
   - "[[Causality]]"
+  - "[[Homophily]]"
   - "[[Independent Variable]]"
   - "[[Paradigm]]"
   - "[[Tracking]]"
@@ -88,7 +89,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-11-06
+updated: 2026-11-11
 ---
 
 > [!def] Homework
@@ -196,7 +197,7 @@ updated: 2026-11-06
 ---
 
 > [!concept-proposition] 命题四｜比较对照基线不对等性对家庭作业因果效应量造成系统性扭曲
-> **[[Causality|因果推断]]的方法论基线混淆** 元分析中不同研究对照基线的非同质性，会导致处理条件与对照条件发生逻辑倒错，瓦解[[Counterfactual|反事实]]有效性。
+> **[[Causality|因果推断]]的方法论基线混淆** 元分析中不同研究对照基线的非[[Homophily|同质性]]，会导致处理条件与对照条件发生逻辑倒错，瓦解[[Counterfactual|反事实]]有效性。
 
 > [!claim] [[Argument_Simpson_2017_JEdPolicy|Simpson (2017, pp. 5–7)]]
 > **对照组生态混淆与条件倒错** [[Adrian Simpson|阿德里安·辛普森]]（Adrian Simpson）以经典家庭作业元分析（如 Paschal, Weinstein & Walberg, 1984）为例，尖锐指出了元分析因果推断中的基线瓦解：

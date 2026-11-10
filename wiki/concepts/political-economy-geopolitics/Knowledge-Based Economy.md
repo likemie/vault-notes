@@ -7,9 +7,9 @@ aliases:
 summary: "以知识、创新、高等教育、研发与高阶思维技能作为价值创造与全球竞争核心要素的经济形态；在技术自动化与AI浪潮下，其战略重心从静态专业知识转向高阶认知能力，但面临宏观政策宣示与微观学业评价滞后的深层制度悖论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 98
-related_level: 9
-related_stars: "💎💎💎"
+related_count: 102
+related_level: 10
+related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/knowledge-based-economy
@@ -28,13 +28,15 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Theoretical Knowledge]]"
-  - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Spatial Sortings]]"
   - "[[Competitiveness]]"
+  - "[[Education Export]]"
   - "[[State Educational Sovereignty]]"
   - "[[ASEAN Way]]"
+  - "[[Regional Innovation System]]"
+  - "[[Paradigm]]"
   - "[[Construct]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Operationalization]]"
@@ -54,12 +56,14 @@ related_concepts:
   - "[[Subsidiarity Principle]]"
   - "[[Open Method of Coordination]]"
   - "[[Performance Indicators]]"
+  - "[[Transnational Education]]"
   - "[[Student Motivation]]"
   - "[[Document]]"
   - "[[Intellectual Capital]]"
   - "[[National Innovation System]]"
   - "[[STEM Education]]"
   - "[[European Education Space]]"
+  - "[[International Education Hubs]]"
   - "[[Technology Transfer]]"
   - "[[National Competitive Advantage]]"
   - "[[Public Value]]"
@@ -69,8 +73,8 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Domain Specificity]]"
   - "[[Heterogeneity]]"
+  - "[[Internationalization of Higher Education]]"
   - "[[Theoretical Perspective]]"
-  - "[[International Education Hubs]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Pasteur's Quadrant]]"
@@ -78,9 +82,8 @@ related_theories:
   - "[[New Growth Theory]]"
   - "[[Panopticism]]"
   - "[[Systems of Innovation]]"
-  - "[[Cultural Political Economy]]"
-  - "[[Regional Innovation System]]"
   - "[[Triple Helix]]"
+  - "[[Cultural Political Economy]]"
 related_methods:
   - "[[Single-Case Design]]"
   - "[[Discourse Analysis]]"
@@ -103,6 +106,7 @@ related_facts:
   - "[[Lisbon Strategy]]"
   - "[[ASEAN]]"
   - "[[ASEAN Economic Community]]"
+  - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
   - "[[European Qualifications Framework]]"
   - "[[Melbourne Declaration]]"
   - "[[UNESCO]]"
@@ -115,6 +119,7 @@ related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
   - "[[Argument_Rizvi_2022_Springer]]"
   - "[[Argument_Chou_2017_PolSoc]]"
+  - "[[Argument_Qu_2024_IJED]]"
   - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
   - "[[Argument_Block_2008_PS]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
@@ -122,11 +127,10 @@ related_arguments:
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Amos_2022_Springer]]"
   - "[[Argument_Erfurth_2022_education-hubs]]"
-  - "[[Argument_Qu_2024_IJED]]"
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -183,13 +187,13 @@ updated: 2026-11-10
 > **高等教育的战略化重构** 在 KBE 逻辑下，大学不再是脱离世俗的象牙塔，而被重构为直接生产高附加值专利、吸引全球跨国资本与输出高技能劳动力的国家核心战略基础设施。
 
 > [!claim] [[Argument_Moisio_2022_Springer|Moisio (2022)]]; [[Argument_Rizvi_2022_Springer|Rizvi (2022)]]
-> **大学作为[[Competitiveness|国家竞争力]]的战略支柱** 随着资本积累从物质密集型转向知识密集型，大学的战略政治角色根本性增加；亚洲各国政府与西方发达国家普遍以 KBE [[Discourse|话语]]为合法性依据，大规模扩张高等教育预算并实施教育出口战略，将高教政策转变为经济、外交与地缘安全政策的复合体。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 23)]]; [[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 95–100)]]
+> **大学作为[[Competitiveness|国家竞争力]]的战略支柱** 随着资本积累从物质密集型转向知识密集型，大学的战略政治角色根本性增加；亚洲各国政府与西方发达国家普遍以 KBE [[Discourse|话语]]为合法性依据，大规模扩张高等教育预算并实施[[Education Export|教育出口]]战略，将高教政策转变为经济、外交与地缘安全政策的复合体。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 23)]]; [[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 95–100)]]
 
 > [!claim] [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]]
 > **区域一体化中知识话语的本土化转译与合法化功能** 周孟萱（Meng-Hsuan Chou）与波琳·拉维内（Pauline Ravinet）基于欧洲与东南亚的跨区域实证比较指出，全球知识经济话语在超国家与次区域一体化进程中充当了重塑高等教育战略属性的合法化工具。在欧洲，[[European Commission|欧盟委员会]]将知识经济话语与[[Lisbon Strategy|里斯本战略]]深度绑定，把学生跨境流动重新诠释为向统一大市场输送高技能劳动力的基础设施，推动高等教育从[[EU|欧盟]]条约边陲上升至核心经济战略；在东南亚，[[ASEAN|东盟]]各国政府在 2015 年[[ASEAN Economic Community|东盟经济共同体]]建成的外部时间表下，同样援引知识经济话语将高等教育界定为经济生产力引擎，在严格维护[[State Educational Sovereignty|国家教育主权]]与[[ASEAN Way|东盟方式]]的前提下，为名校结网与部委柔性协调提供了合法性支点。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 147–149, 153–155)]]
 
 > [!claim] [[Argument_Qu_2024_IJED|Qu and Dai (2024)]]
-> **教育枢纽驱动区域经济向知识与服务转型** 屈丽娟与代玉文基于中国长三角、粤港澳大湾区与海南自贸港实证表明，地方政府依托跨境高等教育枢纽将跨国智力要素直接注入[[Regional Innovation System|区域创新体系]]，通过产学政三螺旋协同打破单向线性分工，推动区域经济由传统要素驱动向知识和服务驱动演进。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2, 10)]]
+> **教育枢纽驱动区域经济向知识与服务转型** 屈丽娟与代玉文基于中国长三角、[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]与海南自贸港实证表明，地方政府依托跨境高等教育枢纽将跨国智力要素直接注入[[Regional Innovation System|区域创新体系]]，通过产学政三螺旋协同打破单向线性分工，推动区域经济由传统要素驱动向知识和服务驱动演进。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2, 10)]]
 
 ---
 
@@ -229,7 +233,7 @@ updated: 2026-11-10
 > **知识经济[[Social Imaginary|社会想象]]与社会价值的[[Economic Fundamentalism|经济基要主义]]重构** 探讨跨国组织如何依托[[New Growth Theory|内生新增长理论]]将知识经济塑造为排他性的全球政策常识，并在“经济基要主义”逻辑下收编传统的社会民主主义目标。
 
 > [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]]
-> **从“[[Knowledge-that and Know-how-to|知其然]]”向“知其所以操作”转型及社会议题的工具化** 法扎尔·里兹维（Fazal Rizvi）与鲍勃·林加德（Bob Lingard）指出，[[OECD]] 于 1996 年发布的《知识经济》（*The Knowledge Based Economy*）报告整合保罗·罗默（Paul Romer, 1986）与彼得·豪伊特（Peter Howitt, 2000）的内生新增长理论，将知识与技术进步界定为经济活动的内生核心，确立了一套席卷[[World Bank|世界银行]]、[[UNESCO|联合国教科文组织]]与[[EU|欧盟]]的全球[[Social Imaginary|社会想象]]。这一想象要求学习重心从正规、编码化的“知其然”（knowing that）转向网络化、商业化的“知其所以操作”（[[Procedural Knowledge|knowing how]]），推动民族国家转型为以持续[[Lifelong Learning|终身学习]]为特征的“学习型经济”（Foray & Lundvall, 1996），同时压抑并排斥了“替代性经济的幽灵”（Kenway et al., 2006）。在乔治·索罗斯（George Soros, 1998）所称的“经济基要主义”支配下，知识经济社会想象在字面上保留机会均等、女性平权与社会资本等修辞的同时，将女性受教育简化为减贫与提高生产率的工具（忽视全球服务业弹性用工对女性的结构性压迫，Scholte, 2000），并将社会凝聚力缩减为修复市场排斥、维持知识经济运转的剩余性手段（Thomson, 1999）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–446, 448–452)]]
+> **从“[[Knowledge-that and Know-how-to|知其然]]”向“知其所以操作”转型及社会议题的工具化** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，[[OECD]] 于 1996 年发布的《知识经济》（*The Knowledge Based Economy*）报告整合保罗·罗默（Paul Romer, 1986）与彼得·豪伊特（Peter Howitt, 2000）的内生新增长理论，将知识与技术进步界定为经济活动的内生核心，确立了一套席卷[[World Bank|世界银行]]、[[UNESCO|联合国教科文组织]]与[[EU|欧盟]]的全球[[Social Imaginary|社会想象]]。这一想象要求学习重心从正规、编码化的“知其然”（knowing that）转向网络化、商业化的“知其所以操作”（[[Procedural Knowledge|knowing how]]），推动民族国家转型为以持续[[Lifelong Learning|终身学习]]为特征的“学习型经济”（Foray & Lundvall, 1996），同时压抑并排斥了“替代性经济的幽灵”（Kenway et al., 2006）。在乔治·索罗斯（George Soros, 1998）所称的“经济基要主义”支配下，知识经济社会想象在字面上保留机会均等、女性平权与社会资本等修辞的同时，将女性受教育简化为减贫与提高生产率的工具（忽视全球服务业弹性用工对女性的结构性压迫，Scholte, 2000），并将社会凝聚力缩减为修复市场排斥、维持知识经济运转的剩余性手段（Thomson, 1999）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–446, 448–452)]]
 
 ---
 
@@ -237,7 +241,7 @@ updated: 2026-11-10
 > **超国家软法数据治理与成人生活技能导向** 探讨在知识经济全球竞争压力下，超国家组织如何突破主权与立法权能限制，依托跨国指标开展软法治理，并将教育评价从学校大纲考查转向面向成人市场的现实生活能力与自我规制主体塑造。
 
 > [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
-> **超国家跨机构数据共生与软法治理机制** 索蒂里亚·格雷克（[[Sotiria Grek]]）指出，在欧盟通过[[Lisbon Strategy|里斯本战略]]将自身确立为全球最具竞争力知识经济体的背景下，教育政策面临根本性制度制约：根据欧盟条约中的[[Subsidiarity Principle|辅助性原则]]，布鲁塞尔无权制定具有法律约束力的教育指令或统编大纲。为克服立法权短板，[[European Commission|欧盟委员会]]依托“[[Open Method of Coordination|开放协调法]]”（Open Method of Coordination, OMC），选择与经合组织建立深度共生同盟：欧盟出资 80% 资助成员国参与 [[PISA]] 调查，里斯本战略[[Performance Indicators|教育指标]]报告中 50% 至 60% 的基础数据直接采自经合组织。跨国排名与指标标杆使超国家实体无需修改法律条约，仅凭数字比拼与同伴压力便推动各成员国教育体系步调一致，形成了服务于知识经济竞争的跨国教育空间软法治理机制。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–35)]]
+> **超国家跨机构数据共生与软法治理机制** 索蒂里亚·格雷克（[[Sotiria Grek]]）指出，在欧盟通过[[Lisbon Strategy|里斯本战略]]将自身确立为全球最具竞争力知识经济体的背景下，教育政策面临根本性制度制约：根据欧盟条约中的[[Subsidiarity Principle|辅助性原则]]，布鲁塞尔无权制定具有法律约束力的教育指令或统编大纲。为克服立法权短板，[[European Commission|欧盟委员会]]依托“[[Open Method of Coordination|开放协调法]]”（Open Method of Coordination, OMC），选择与经合组织建立深度共生同盟：欧盟出资 80% 资助成员国参与 [[PISA]] 调查，里斯本战略[[Performance Indicators|教育指标]]报告中 50% 至 60% 的基础数据直接采自经合组织。跨国排名与指标标杆使超国家实体无需修改法律条约，仅凭数字比拼与同伴压力便推动各成员国教育体系步调一致，形成了服务于知识经济竞争的[[Transnational Education|跨国教育]]空间软法治理机制。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–35)]]
 
 > [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
 > **脱离具体课程的成人生活技能与自我规制主体塑造** 格雷克论证，面向知识经济竞争的大规模测评（如 PISA）实现了教育评价认识论上的深刻转向：测验彻底跳过各个国家具体的教学大纲与课程内容，转而直接考查 15 岁学生在成人生活与未来劳动力市场中应对现实挑战所需的功能性核心素养。这一评价[[Paradigm|范式]]将传统仅针对成人的[[Lifelong Learning|终身学习]]概念前置至基础教育阶段，要求学生自我报告[[Student Motivation|学习动机]]与策略，从而将应对不确定经济竞争的风险转嫁给个体，驱动受教育者成为对自身[[Human Capital Theory|人力资本]]增值负责、具备主动自我调节能力的知识经济劳动力。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27, 35)]]
@@ -270,7 +274,7 @@ updated: 2026-11-10
 > - **全球扩散与空间运作（2000s–2010s） — 教育出口与枢纽建设** 亚洲国家与澳大利亚将 KBE 转化为教育出口战略；新加坡与迪拜通过“教育枢纽”政策将大学完全产业化为经济增长极。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022)]]; [[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022)]]
 > - **2017 — 跨区域比较中的知识话语本土化赋权** 周孟萱与波琳·拉维内（[[Argument_Chou_2017_PolSoc|Chou & Ravinet, 2017, pp. 147–149, 153–155]]）揭示全球知识经济话语在区域一体化中的双重赋权机制：在欧洲被用作将高等教育吸纳进统一大市场战略的深层协调支点，在东南亚则充当在不触碰国家主权红线的前提下推进跨国高教务实合作的合法化锚点。
 > - **智能时代评价重构（2020s至今） — 聚焦高阶认知素养与评价治理** 面对生成式 AI 与劳动力深度重组，OECD 等国际组织反思“教育扩张”数量指标，转向推动以[[Critical Thinking|批判性思维]]、[[Creativity|创造力]]与真实表现任务为核心的高教评价与治理变革。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023)]]
-> - **2024 — 跨境教育枢纽嵌入区域创新体系驱动转型** 屈丽娟与代玉文（[[Argument_Qu_2024_IJED|Qu & Dai, 2024, pp. 2, 10]]）实证揭示跨境高等教育枢纽通过产学政三螺旋联动嵌入区域创新体系，推动区域从要素驱动向知识和服务驱动演进。
+> - **2024 — [[International Education Hubs|跨境教育枢纽]]嵌入区域创新体系驱动转型** 屈丽娟与代玉文（[[Argument_Qu_2024_IJED|Qu & Dai, 2024, pp. 2, 10]]）实证揭示跨境高等教育枢纽通过产学政三螺旋联动嵌入区域创新体系，推动区域从要素驱动向知识和服务驱动演进。
 
 ---
 
@@ -331,7 +335,7 @@ updated: 2026-11-10
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 考察中国高等教育国际化政策与长三角、粤港澳、海南三大教育枢纽，阐述跨境高等教育如何嵌入区域创新体系并推动知识经济转型。
+> - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 考察中国[[Internationalization of Higher Education|高等教育国际化]]政策与长三角、粤港澳、海南三大教育枢纽，阐述跨境高等教育如何嵌入区域创新体系并推动知识经济转型。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — [[OECD]] 国际报告，系统论证知识经济与技术自动化背景下，高等教育如何通过五大政策支柱重构[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]的评价生态。
 > - [[Argument_Block_2008_PS|Block (2008)]] — 从经济社会学与国家[[Theoretical Perspective|理论视角]]解构后工业知识经济的非线性创新特征，论证[[Developmental Network State|发展型网络国家]]与去中心化协同的必然性，并以波兰尼虚构商品理论反思知识极端商品化对跨组织科研协作的制度反噬。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 揭示欧盟在知识经济导向的里斯本战略下如何借助经合组织数据跨越辅助性原则限制推行软法治理，并阐明大规模跨国测评跳过具体学校课程、考核面向成人市场生活能力并塑造自我规制主体的认识论转向。

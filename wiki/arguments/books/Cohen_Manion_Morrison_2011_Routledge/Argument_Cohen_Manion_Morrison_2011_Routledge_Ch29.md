@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29"
 argument_display_title: "Research Methods in Education · Ch29"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Concept Mapping]]"
   - "[[Reflexivity]]"
   - "[[Research Question]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Surface and Deep Learning]]"
   - "[[Class Size]]"
   - "[[Time Management]]"
@@ -81,7 +82,7 @@ related_facts: []
 related_arguments: []
 status: draft
 created: 2026-08-16
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
@@ -114,7 +115,7 @@ updated: 2026-10-30
 > 质性数据组织与呈现的起点是记录数据的出处（provenance），即日期、语境、时间、参与者、研究者、地点等。记录出处可确定数据的情境与年代顺序，从而追踪情境如何浮现、演变、变化并导致其他情境，网络如何形成，以及因果如何建立。（29.1）
 
 > [!case] 案例　中国儿童学英语，访谈数据的表格化呈现（29.1）
-> 工作实例来自一篇博士论文，研究中国学童在学校学习英语时所遇的问题。该实例用逐题（question by question）的方式呈现访谈数据，展示如何用表格把质性数据组织起来并配以评注。
+> 工作实例来自一篇[[Doctoral Dissertation|博士论文]]，研究中国学童在学校学习英语时所遇的问题。该实例用逐题（question by question）的方式呈现访谈数据，展示如何用表格把质性数据组织起来并配以评注。
 >
 > **编码系统**
 > - P1–P6 为小学一至六年级（Primary forms），P1 为一年级，P2 为二年级，依此类推。

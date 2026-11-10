@@ -12,10 +12,10 @@ aliases:
 summary: "科学社会学与科学政策学中的结构性不平等概念；指当代全球学术交流与主流同行评审期刊被英语单一语种垄断，对非英语母语科研人员构成的非对称学术成本与话语壁垒；非英语母语学者需承担显著偏高的翻译润色支出、时间消耗与非学术性语言拒稿风险，导致本土化情境认知与发展中国家学者的原创贡献在国际科学话语中遭遇系统性挤压与遮蔽。"
 type: concept
 domain: "science-policy"
-related_count: 7
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 13
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/science-policy
   - theme/sociology-of-science
@@ -23,10 +23,16 @@ tags:
   - theme/academic-career
   - theme/research-integrity
 related_concepts:
+  - "[[Knowledge Production]]"
+  - "[[Creativity]]"
+  - "[[Document]]"
+  - "[[Scientific Productivity]]"
+  - "[[Early-Career Researchers]]"
   - "[[Status Bias in Peer Review]]"
   - "[[Novelty Bias in Peer Review]]"
   - "[[Scientific Creativity]]"
   - "[[Academic Precarity]]"
+  - "[[Metascience]]"
 related_theories:
   - "[[Epistemic Injustice]]"
 related_methods:
@@ -39,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
@@ -49,13 +55,13 @@ updated: 2026-11-04
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 国际学术界围绕单一工作语言确立的非对称准入门槛与认知特权结构。
-> - **用途** 诊断全球科学知识生产中的中心—依附格局，揭示非英语母语科研群体在国际学术竞争中承受的隐性损耗。
+> - **用途** 诊断全球科学[[Knowledge Production|知识生产]]中的中心—依附格局，揭示非英语母语科研群体在国际学术竞争中承受的隐性损耗。
 > - **边界** 语言不公指向同行评审与评价建制对修辞细节的过度惩罚与资助支撑缺失，并不否定科学界需要统一国际通用语以促进跨国交流的技术合理性。
 
 > [!citation-card] 语言壁垒对全球科学思想池的收窄效应
 > 这种不平衡超出了研究团队层面，资源匮乏或受政治约束环境中的研究人员，面临着与基础设施、资金稳定性和语言相关的额外壁垒；这与其创造潜力无关，进一步收窄了塑造全球科学叙事的思想池。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 5)]]
 >
-> *(This imbalance extends beyond research groups, as researchers in less resourced or politically constrained environments face additional barriers related to infrastructure, funding stability and language. This is regardless of their creative potential, which further narrows the pool of ideas that shape global scientific narratives.)*
+> *(This imbalance extends beyond research groups, as researchers in less resourced or politically constrained environments face additional barriers related to infrastructure, funding stability and language. This is regardless of their [[Creativity|creative potential]], which further narrows the pool of ideas that shape global scientific narratives.)*
 
 > [!boundary]- 概念边界
 > - 不等于普通的学术文笔瑕疵修改：正常的学术规范修润关注逻辑表达与概念精准，语言不公特指审稿意见将地道的母语修辞习惯强加为学术准入先决条件，出现非学术性的主观贬损。
@@ -66,7 +72,7 @@ updated: 2026-11-04
 > [!contrast-table|notitle] 概念辨析
 > | 维度 | 科学出版语言不公 | 通用学术语技术便利 | 区域性学术孤立 |
 > |---|---|---|---|
-> | **制度性质** | 单向度特权体系，成本完全由非母语群体承担 | 降低跨国文献翻译与信息检索交易成本的工具 | 固守本土语言导致与国际学术前沿彻底脱节 |
+> | **制度性质** | 单向度特权体系，成本完全由非母语群体承担 | 降低跨国[[Document\|文献]]翻译与信息检索交易成本的工具 | 固守本土语言导致与国际学术前沿彻底脱节 |
 > | **表现形式** | 粗暴的文字审稿偏见与高昂的商业润色费用 | 共同遵循标准术语与清晰逻辑表达规范 | 拒绝参与国际学术对话，成果传播范围受限 |
 > | **治理路径** | 建立多语言支持基础设施与去歧视审稿准则 | 普及基础学术英语写作规范培训 | 在本土关照与国际对话间寻求动态平衡 |
 
@@ -120,8 +126,8 @@ updated: 2026-11-04
 > [!dev-timeline] 概念演变
 > - **2010 — 术语在顶级生态学期刊形式化** 克拉韦罗在《生态与演化趋势》发表题为《“笨拙措辞，请重写”：生态学期刊中的语言不公》的研究，首次将语言壁垒上升至学术正义范畴。
 > - **2021 — 多样性保护与多语言倡议推进** 国际学术界围绕生物多样性与全球卫生议题，逐步认识到过度依赖单一英语导致大量非英语区域科学证据被系统性遗漏。
-> - **2023 — 全球非母语学者生产力全量实证** 天野等在《公共科学图书馆·生物学》量化测定非英语母语学者承担的超额成本，确立语言不公的实证计量基础。
-> - **2026 — 创造力系统生态学整合** 豪布罗克等将语言壁垒确立为限制青年学者创造力、收窄全球科学思想池的核心结构性滤网之一。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 5)]]
+> - **2023 — 全球非母语[[Scientific Productivity|学者生产力]]全量实证** 天野等在《公共科学图书馆·生物学》量化测定非英语母语学者承担的超额成本，确立语言不公的实证计量基础。
+> - **2026 — 创造力系统生态学整合** 豪布罗克等将语言壁垒确立为限制[[Early-Career Researchers|青年学者]]创造力、收窄全球科学思想池的核心结构性滤网之一。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 5)]]
 
 ---
 
@@ -152,4 +158,4 @@ updated: 2026-11-04
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 将语言壁垒与地缘经济不平等相并列，深刻批判其如何阻隔多元科学思想进入全球学术主流。
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 将语言壁垒与地缘经济不平等相并列，深刻批判其如何阻隔多[[Metascience|元科学]]思想进入全球学术主流。

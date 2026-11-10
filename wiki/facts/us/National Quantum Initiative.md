@@ -11,7 +11,7 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Megascience Installations]]"
   - "[[Industry Affiliate Program]]"
+  - "[[Early-Career Researchers]]"
   - "[[Engineering Education]]"
   - "[[Open-Mindedness]]"
 related_methods:
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -83,7 +84,7 @@ updated: 2026-10-26
 > [!actor-grid] 实施协同矩阵
 > - **顶层统筹与政策协调** 白宫 [[National Science and Technology Council|NSTC]] 量子信息科学小组委员会（SCQIS）与国家量子协调办公室负责跨机构战略规划与外交多边合作。
 > - **能源部（[[Department of Energy|DOE]]）** 统领阿贡、布鲁克海文、费米、橡树岭及劳伦斯伯克利等国家实验室，建设大尺度量子计算与材料表征中心。
-> - **国家科学基金会（[[National Science Foundation|NSF]]）** 资助高校跨学科前沿探索、跨校研究中心、青年学者与[[Engineering Education|工程教育]]梯队建设。
+> - **国家科学基金会（[[National Science Foundation|NSF]]）** 资助高校跨学科前沿探索、跨校研究中心、[[Early-Career Researchers|青年学者]]与[[Engineering Education|工程教育]]梯队建设。
 > - **国家标准与技术研究院（NIST）** 研制量子度量与精密基准，管理 [[Quasi-Experimental Designs|QED]]-C [[Industry Affiliate Program|产业联盟]]以培育本土量子元器件制造生态。
 
 > [!pathways] 实施路径与管理

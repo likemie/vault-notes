@@ -49,6 +49,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Gatekeepers]]"
   - "[[School Autonomy]]"
+  - "[[Quasi-market]]"
   - "[[Reflective Thinking]]"
   - "[[Knowledge Co-production]]"
   - "[[Teaching Assistant]]"
@@ -86,14 +87,14 @@ sources:
 part_of:
 status: draft
 created: 2026-09-18
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kelly_2025_ROE"
 argument_key: "Argument_Kelly_2025_ROE"
 argument_display_title: "Comparing school leaders' experiences of research use in England, Scotland and Germany"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 55
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -218,7 +219,7 @@ issuing_organization: ""
 > | **国家治理逻辑** | 高度市场化、学校准自主竞争、高利害产出问责制（[[Ofsted\|英国教育标准局（Office for Standards in Education, Children's Services and Skills, Ofsted）]]督导） | 集中宏观统筹与地方自治结合，强调弱问责与协商共治 | 稳定的联邦州官僚行政体制，低利害形成性监测（[[Institute for Educational Monitoring and Quality Improvement\|汉堡教育监测与质量发展院（Institut für Bildungsmonitoring und Qualitätsentwicklung, IfBQ）]]） |
 > | **中介机构生态** | 商业组织与慈善智库极度繁荣（如 [[Education Endowment Foundation\|EEF]]、Ark、Thrive、Challenge Partners） | 地方当局（Local Authority）扮演核心[[Gatekeepers\|守门人]]与采购中介，大学联系紧密 | 缺乏全国性主导中介，高度依托汉堡州立师训与学校发展院（Landesinstitut für Lehrerbildung und Schulentwicklung, LI） |
 > | **财政政策杠杆** | [[Pupil Premium\|学生津贴（Pupil Premium）]]明确绑定外部循证采购要求 | [[Pupil Equity Funding\|学童公平资助（Pupil Equity Funding, PEF）]]直拨学校，赋予社区自主权 | 州政府常规预算拨款，无强制性商业循证干预采购机制 |
-> | **[[School Autonomy\|学校自主权]]性质** | 准市场中的法人独立核算与品牌竞争，伴随接管与降级风险 | 扎根于社区服务维度的专业裁量权，接受地方当局行政支持 | 严格受制于法定大纲与人事编制的有限行政自主，职业风险极低 |
+> | **[[School Autonomy\|学校自主权]]性质** | [[Quasi-market\|准市场]]中的法人独立核算与品牌竞争，伴随接管与降级风险 | 扎根于社区服务维度的专业裁量权，接受地方当局行政支持 | 严格受制于法定大纲与人事编制的有限行政自主，职业风险极低 |
 
 > [!sub-claim] 2. 治理机制分流三地校长的证据接触体验与认知负荷
 

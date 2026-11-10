@@ -25,6 +25,7 @@ related_concepts:
   - "[[Implementation Fidelity]]"
   - "[[Evidence-Based Education]]"
   - "[[Science and Technology Studies]]"
+  - "[[Transnational Education]]"
   - "[[Falsification]]"
   - "[[Technical Rationality]]"
   - "[[Document]]"
@@ -44,6 +45,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Epistemology]]"
   - "[[Professional Judgment]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Class Size]]"
   - "[[Feedback]]"
 related_theories:
@@ -76,14 +78,14 @@ related_instruments:
   - "[[Visible Classroom]]"
 status: stable
 created: '2026-05-07'
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Knudsen_2017_NordSTEP"
 argument_key: "Argument_Knudsen_2017_NordSTEP"
 argument_display_title: "John Hattie: I'm a statistician, I'm not a theoretician"
 argument_kind: "journal-article"
-argument_related_count: 45
+argument_related_count: 47
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -107,7 +109,7 @@ journal: "Nordic Journal of Studies in Educational Policy"
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **[[Science and Technology Studies\|科学技术研究]]**<br>（Science and Technology Studies, STS） | 关注教育改革方案的跨国转译过程与施效后果，考察非国家政策行动者与跨国教育商业如何通过材料、技术工具与合同网络行使治理权力。 |
+> | **[[Science and Technology Studies\|科学技术研究]]**<br>（Science and Technology Studies, STS） | 关注教育改革方案的跨国转译过程与施效后果，考察非国家政策行动者与[[Transnational Education\|跨国教育]]商业如何通过材料、技术工具与合同网络行使治理权力。 |
 > | **[[Falsification\|证伪主义]]** | 哈蒂援引[[Karl Popper\|卡尔·波普尔]]（Karl Popper）的科学哲学命题，将持续扩充元分析数据库（更新至 1400 项）解释为主动寻找模型反例与可证伪性的科学试错过程。 |
 > | **[[Theory of Mind\|心智理论]]**<br>（Theory of Mind） | 用于论证早期儿童介入的合理性，主张幼儿在 1 至 2 岁即发展出理解心理状态的能力，构成向其注入学习概念与反思习惯的认知基础。 |
 
@@ -258,7 +260,7 @@ journal: "Nordic Journal of Studies in Educational Policy"
 
 > [!case] 案例：丹麦引介者导言争论与波普尔[[Falsification|证伪]]标准
 > - **丹麦引介者废弃理论的主张** 尼尔斯·埃格隆（Niels Egelund）与[[Lars Qvortrup|拉尔斯·克沃特鲁普]]（Lars Qvortrup）在丹麦语导言中宣称教育科学可像循证医学一样抛弃抽象理论。
-> - **驳斥医学类比并确认理论主导** 哈蒂予以坚决批驳，指出医学同样高度依赖生物学理论，所谓不需要理论支撑的纯粹证据纯属空谈，强调证据必须通过理论透镜来解释。
+> - **驳斥医学类比并确认理论主导** 哈蒂予以坚决批驳，指出医学同样高度依赖生物学理论，所谓不需要理论支撑的纯粹证据纯属空谈，强调证据必须通过[[Theoretical Standpoint|理论透镜]]来解释。
 > - **波普尔证伪主义与[[Class Size|班额]]判据** 师从[[Karl Popper\|卡尔·波普尔]]（Karl Popper）的求学经历促使哈蒂坚持模型必须具备[[Falsification\|可证伪性]]；哈蒂将元分析库扩充至 1400 项旨在寻找反例，并明确提出假若缩减班额被确证具有决定性效果，其可见学习理论模型就宣告推翻，表明其成果由先验理论假说主导。
 
 > [!sub-claim] 2. 依托商业特许网络获取上万名教师实践数据

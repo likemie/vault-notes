@@ -44,8 +44,10 @@ related_concepts:
   - "[[Construct]]"
   - "[[Student Attitude]]"
   - "[[Document]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Procedural Skill]]"
+  - "[[Lecturing]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Flow]]"
   - "[[Unit of Analysis]]"
@@ -86,14 +88,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-24
-updated: 2026-10-30
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Erdem_2026_SHE"
 argument_key: "Argument_Erdem_2026_SHE"
 argument_display_title: "Problem-based learning and student outcomes in higher education: A second-order meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 55
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -198,7 +200,7 @@ issuing_organization: ""
 > | **数据集规模** | 20 项元分析，涵盖 469 项独立原始研究；每项元分析纳入 5–82 项独立研究，均值 23.45，标准差 18.49；分析含 47 个[[Effect Size\|效应量]]。 |
 > | **学科与专业构成** | 主要集中于医学、护理、药学、牙科等健康科学，另含理科与文科；调节分析显示专业类型间无显著差异。 |
 > | **地域构成** | 中国（11 个效应量）、伊朗（3 个）与非特定地区（33 个）。 |
-> | **报告类型构成** | 期刊文章 40 个效应量、博士论文 7 个效应量。 |
+> | **报告类型构成** | 期刊文章 40 个效应量、[[Doctoral Dissertation\|博士论文]] 7 个效应量。 |
 
 > [!ref-table]- 纳入元分析特征全量清单
 > | 元分析研究 | 结果类型 | ES [95% [[Confidence Interval\|CI]]] | k | 学科范围 | 报告类型 | 地区 | 抽样方法 | 质量 | 年份范围 |
@@ -254,7 +256,7 @@ issuing_organization: ""
 > | Smith (2003) | [[Self-Directed Learning\|自我导向学习]] | .47 [.39, .55] | 19 | 医学 | 博士论文 | 非特定 | RCT 与非 RCT | 中等 | 1977–2002 |
 > | Smith (2003) | 态度 | .45 [.39, .52] | 30 | 医学 | 博士论文 | 非特定 | RCT 与非 RCT | 中等 | 1977–2002 |
 >
-> RCT 表示随机对照试验；非 RCT 表示非随机对照试验；* 表示离群值；** 表示以 OR 报告；*** 表示以 Hedges' g 报告。表内部分数值按原刊表格[[Transcription in Qualitative Research\|转录]]，个别单元格存在排版不清。表中 1977–2002 年医学博士论文经比对确认为 Smith (2003)（Problem-based versus lecture-based medical teaching and learning: a meta-analysis of cognitive and noncognitive outcomes），原刊 Table 1 未显示作者名。
+> RCT 表示随机对照试验；非 RCT 表示非随机对照试验；* 表示离群值；** 表示以 OR 报告；*** 表示以 Hedges' g 报告。表内部分数值按原刊表格[[Transcription in Qualitative Research\|转录]]，个别单元格存在排版不清。表中 1977–2002 年医学博士论文经比对确认为 Smith (2003)（Problem-based versus [[Lecturing|lecture]]-based medical teaching and learning: a meta-analysis of cognitive and noncognitive outcomes），原刊 Table 1 未显示作者名。
 
 > [!ref-table]- [[Variable\|变量]]编码程序规范
 > | 编码分组 | 编码类别与[[Operationalization\|操作化]]定义 |

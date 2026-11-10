@@ -8,7 +8,7 @@ summary: "信度作为内部一致性的形式，衡量多项目量表中各条�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 25
+method_related_count: 26
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Reliability]]"
   - "[[Construct]]"
+  - "[[Homophily]]"
   - "[[Variable]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
@@ -49,13 +50,13 @@ related_theories:
   - "[[Classical Test Theory]]"
 status: draft
 created: 2026-05-31
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Internal Consistency
-> 内部一致性（Internal Consistency）是[[Reliability|信度]]在量化测量中的核心形式，衡量多项目量表中各条目（items）在单次测验中指向同一底层[[Construct|构念]]的统计同质性程度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al., 2011, Ch. 10, pp. 202–204]]）。
+> 内部一致性（Internal Consistency）是[[Reliability|信度]]在量化测量中的核心形式，衡量多项目量表中各条目（items）在单次测验中指向同一底层[[Construct|构念]]的统计[[Homophily|同质性]]程度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al., 2011, Ch. 10, pp. 202–204]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 心理量表、[[Questionnaire|问卷]]题项、标准化测验试题与多指标评估工具。

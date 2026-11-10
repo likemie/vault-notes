@@ -32,12 +32,12 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Causality]]"
   - "[[Statistical Analysis Plan]]"
+  - "[[Free School Meals]]"
   - "[[Document]]"
   - "[[Academic Achievement]]"
   - "[[Socioeconomic Status]]"
   - "[[Preregistration]]"
   - "[[Researcher Degrees of Freedom]]"
-  - "[[Free School Meals]]"
   - "[[Teacher Qualifications]]"
 related_theories: []
 related_methods:
@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -116,7 +116,7 @@ updated: 2026-10-30
 
 > [!method-stack] 方法层级
 > - **研究设计** 实验设计（[[Analysis of Covariance\|ANCOVA]]）、[[Quasi-Experimental Designs\|准实验设计]]（[[Difference-in-Differences\|DID]]/QED）、观察性截面[[Multiple Regression\|多元回归]]。
-> - **数据收集** 基线统考标准化测试、国家行政数据库背景档案（FSM/SEND）、[[Questionnaire\|问卷调查]]。
+> - **数据收集** 基线统考标准化测试、国家行政数据库背景档案（[[Free School Meals|FSM]]/SEND）、[[Questionnaire\|问卷调查]]。
 > - **分析方法** [[Ordinary Least Squares\|普通最小二乘法]]（OLS）、分层线性[[Hierarchical Linear Model\|多水平模型]]（HLM）、[[Generalized Estimating Equations\|广义估计方程]]（GEE）。
 > - **辅助技术** 方差膨胀因子（VIF）多重共线性检验、倾向得分加权、残差正态性检验。
 

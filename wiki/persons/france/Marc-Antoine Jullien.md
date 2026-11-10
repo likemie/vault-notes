@@ -9,7 +9,7 @@ summary: "法国启蒙自由主义教育家与国际主义者，1817年发表比
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 52
+person_related_count: 55
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -24,6 +24,7 @@ tags:
   - paradigm/humanism
   - region/france
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Perpetual Peace]]"
   - "[[Paradigm]]"
   - "[[International Education]]"
@@ -33,6 +34,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Policy Borrowing]]"
   - "[[Cosmopolitanism]]"
+  - "[[Nationalism]]"
   - "[[Normal School]]"
   - "[[Positivism]]"
   - "[[Scientism]]"
@@ -59,6 +61,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Johann Heinrich Pestalozzi]]"
+  - "[[Francis Bacon]]"
   - "[[Franz Hilker]]"
   - "[[Immanuel Kant]]"
   - "[[Isaac Kandel]]"
@@ -85,14 +88,14 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 法国启蒙自由主义教育理论家、外交官、国民公会战地记者、百科全书编纂者与跨国社会活动家，跨越法国大革命恐怖统治至 1848 年二月革命的重要自由派知识分子。
-> - **核心角色** 现代比较教育学的学科奠基人与公认先驱，跨国教育与[[Perpetual Peace\|世界和平治理]]运动的早期开拓者；确立了以跨国经验观察、实证事实分类诊断社会病理，并服务于全人道德教化、消除战争野蛮与维系世界和平的学术[[Paradigm\|范式]]。
+> - **核心角色** 现代比较教育学的学科奠基人与公认先驱，[[Transnational Education|跨国教育]]与[[Perpetual Peace\|世界和平治理]]运动的早期开拓者；确立了以跨国经验观察、实证事实分类诊断社会病理，并服务于全人道德教化、消除战争野蛮与维系世界和平的学术[[Paradigm\|范式]]。
 > - **代表贡献** 1817 年出版奠基性专论《[[Esquisse d'un ouvrage sur l'éducation comparée\|关于比较教育的一项著作的计划与初步观点]]》（*Esquisse*），首次界定贯穿学科两百年历史的“科学/理论与实践/借用双重目的”；首创比较教育准实证科学（*science positive*）构想与标准化[[Questionnaire\|问卷调查]]法；编制覆盖六大领域的比较观察表（Comparative Observation Tables）；系统构想包含常设特别教育委员会、示范师训学院与多语种通报网络的跨国教育共同体与世界和平治理蓝图，为 20 世纪[[International Education\|国际教育]]局（IBE）与[[UNESCO\|联合国教科文组织]]（UNESCO）提供了早期组织原型。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 88)]]
 
 > [!citation-card] 人物定位的关键来源
@@ -109,7 +112,7 @@ updated: 2026-11-02
 > - **1798–1801** 作为拿破仑·波拿巴（Napoleon Bonaparte）远征埃及军团的战争专员前往北非；亲历军阀专制残暴、政治清洗与帝国侵略战争后，对政治暴力产生深刻幻灭，随之游历英格兰、苏格兰与欧洲大陆。（Palmer, 1993:ix）
 > - **1805–1810** 思想发生根本转向，投身教育与社会改良研究；1808 年出版《教育总论》；1810 年实地考察瑞士伊弗东（Yverdon）[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]（J. H. Pestalozzi）学校与霍夫维尔费伦伯格（P. E. Fellenberg）学校，奠定以儿童为中心的自然主义与人道主义教育哲学；同年致信美国前总统杰斐逊（Thomas Jefferson）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 12, 19–20)]]
 > - **1817** 发表比较教育奠基之作《[[Esquisse d'un ouvrage sur l'éducation comparée\|关于比较教育的一项著作的计划与初步观点]]》（*Esquisse*），系统阐发比较解剖学类比、经验分类学与跨国[[Questionnaire\|问卷调查]]规程。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11–13)]]
-> - **1819–1830** 创办并主编《[[Revue encyclopédique\|百科评论]]》（*Revue encyclopédique*），提出 1819 年《人类知识总表》，将教育学归入关涉心灵与道德的二级[[Geisteswissenschaften|精神科学]]；践行培根式的科学统一思想与世界公民理念，广泛刊载各大洲的公共教育与文化进展。（Palmer, 1993:176–181）
+> - **1819–1830** 创办并主编《[[Revue encyclopédique\|百科评论]]》（*Revue encyclopédique*），提出 1819 年《人类知识总表》，将教育学归入关涉心灵与道德的二级[[Geisteswissenschaften|精神科学]]；践行[[Francis Bacon|培根]]式的科学统一思想与世界公民理念，广泛刊载各大洲的公共教育与文化进展。（Palmer, 1993:176–181）
 > - **1830–1848** 赞同 1830 年七月革命与 1848 年二月革命；积极投身伦敦“和平之友协会”（Association of Friends for Peace），在 1833 年《致英格兰民族书》中将比较解剖学类比升华为“比较文明学”，呼吁以跨国教育协作荡涤旧时代野蛮战争残余；1848 年在巴黎逝世，数周后路易-拿破仑·波拿巴当选法兰西第二共和国总统。（Palmer, 1993:ix, 205; [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 19]], 22–24）
 
 ---
@@ -131,7 +134,7 @@ updated: 2026-11-02
 ---
 
 > [!claim] 核心思想
-> 朱利安主张教育是整个社会大厦的真正基石与道德重生的源泉。其思想统一于三大相互支撑的核心支柱：一是将教育学与比较教育学构建为类似于比较解剖学的准实证科学，通过客观搜集各国经验事实编制分析图表，科学诊断教育机体的健康与患病断层，为审慎的制度借用提供理性依据；二是确立教育预防论，坚持经验事实调查全面服从于服务全人道德教化与预防流血暴力革命的政治伦理目标；三是构筑跨国教育共同体与[[Perpetual Peace\|世界和平治理]]蓝图，超越 19 世纪狭隘民族主义与国家利己主义，设计由常设特别教育委员会、标准化[[Questionnaire\|问卷]]图表、示范[[Normal School\|师范学院]]与多语种通报组成的超国家治理网络，以比较文明与跨国教育协作荡涤旧时代的野蛮战争残余，追求全人类的持久和平共处。
+> 朱利安主张教育是整个社会大厦的真正基石与道德重生的源泉。其思想统一于三大相互支撑的核心支柱：一是将教育学与比较教育学构建为类似于比较解剖学的准实证科学，通过客观搜集各国经验事实编制分析图表，科学诊断教育机体的健康与患病断层，为审慎的制度借用提供理性依据；二是确立教育预防论，坚持经验事实调查全面服从于服务全人道德教化与预防流血暴力革命的政治伦理目标；三是构筑跨国教育共同体与[[Perpetual Peace\|世界和平治理]]蓝图，超越 19 世纪狭隘[[Nationalism|民族主义]]与国家利己主义，设计由常设特别教育委员会、标准化[[Questionnaire\|问卷]]图表、示范[[Normal School\|师范学院]]与多语种通报组成的超国家治理网络，以比较文明与跨国教育协作荡涤旧时代的野蛮战争残余，追求全人类的持久和平共处。
 
 从雅各宾专政与拿破仑战争创伤中抽离后，朱利安痛切指出欧洲动乱根源于道德纽带解体与各国教育的破碎患病，由此在 1817 年《计划》中系统提出了前瞻性的超国家治理机制：
 

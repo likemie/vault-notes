@@ -8,9 +8,9 @@ summary: "由 Jorge E. Hirsch (2005) 提出的文献计量指标，以学者至�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 28
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 31
+method_related_level: 3
+method_related_stars: "💎"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Predictive Validity]]"
   - "[[Data Infrastructure]]"
   - "[[Research Universities]]"
+  - "[[Early-Career Researchers]]"
 related_theories:
   - "[[Q-Model]]"
 related_methods:
@@ -47,17 +48,19 @@ related_facts:
   - "[[National Academy of Sciences]]"
   - "[[SciSciNet]]"
   - "[[Web of Science]]"
+  - "[[Scopus]]"
+  - "[[Google Scholar]]"
   - "[[American Physical Society]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
+  - "[[Argument_Fortunato_2018_Science]]"
   - "[[Argument_Lin_2023_SciData]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
-  - "[[Argument_Fortunato_2018_Science]]"
 confidence: high
 status: active
 created: "2026-10-29"
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -168,7 +171,7 @@ updated: 2026-11-02
 > > ![[wiki/assets/geogebra/hirsch_h_index.ggb]]
 
 > [!software-impl] 软件实现
-> - **数据来源** [[Web of Science]]、Scopus、Google Scholar 覆盖范围不同，同一学者的 $h$ 会不同，报告时须注明数据库与检索日期。
+> - **数据来源** [[Web of Science]]、[[Scopus]]、[[Google Scholar]] 覆盖范围不同，同一学者的 $h$ 会不同，报告时须注明数据库与检索日期。
 > - **消歧** 同名作者合并或拆分错误会直接改变 $h$，需要人工核对作者档案。
 > - **核心包或命令** Python `pandas`；R `bibliometrix`。
 > - **报告标准** 注明数据库、时间窗、成果类型、是否含自引，以及使用 $h$ 还是年资校正后的 $m$。
@@ -233,4 +236,4 @@ updated: 2026-11-02
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 阐释 h 指数的定义、增长模型与预测效度，并通过诺奖预测 ROC 竞赛与同行实验揭示其单调累积性在捕捉质量稀释上的局限。
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 将 h 指数集成入 SciSciNet 学者档案总表（1.34 亿行）与机构表（2.7 万行），与 C10、产出总量及地理坐标融合，提供开箱即用的大规模影响力评价基准。
-> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 警示 h 指数的单调累积性偏差对青年学者潜力评估的虚假信号与扭曲风险，倡导校正学术年资并结合多元维度开展客观科技评价。（p. 5）
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 警示 h 指数的单调累积性偏差对[[Early-Career Researchers|青年学者]]潜力评估的虚假信号与扭曲风险，倡导校正学术年资并结合多元维度开展客观科技评价。（p. 5）

@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
   - academic-labor
 related_concepts:
   - "[[Research Universities]]"
+  - "[[Early-Career Researchers]]"
   - "[[PhD Overproduction in Science]]"
   - "[[Soft-Money Faculty Model]]"
 related_theories: []
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -88,7 +89,7 @@ updated: 2026-10-26
 ---
 
 > [!finding-cards] 历史影响与体制局限
-> - **守住了青年学者独立培养的法定底线** NRSA 成功阻断了白宫削减学术后备人才培养的激进企图，在 1970 年代科研滞胀期为全美生命科学界保留了关键的一代青年智力储备。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 18)]]
+> - **守住了[[Early-Career Researchers|青年学者]]独立培养的法定底线** NRSA 成功阻断了白宫削减学术后备人才培养的激进企图，在 1970 年代科研滞胀期为全美生命科学界保留了关键的一代青年智力储备。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 18)]]
 > - **未能阻挡助研津贴用工模式的主导化演变** 科学经济学家[[Paula Stephan|保拉·斯蒂芬]]（Stephan）指出，尽管 NRSA 在法律上保全了培训机制，但随后的数十年中，课题组负责人（PI）依然更偏好在常规科研项目（R01）中直接聘用研究生研究助理（GRA），因为助研可以直接受导师调遣从事具体杂务；这导致 NRSA 占全部受资助研究生的比例持续萎缩，最终未能扭转科研用工对独立学术培养的体制性侵蚀。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 13, 18, 20)]]
 
 ---

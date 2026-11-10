@@ -9,7 +9,7 @@ aliases:
 summary: "政治经济学与教育社会学核心理论概念，指国家核心治理理性从战后福利国家提供去商品化的社会公平保障，转向在经济全球化压力下动员公共资源与教育系统以服务于国家在全球知识经济中的竞争力"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Further Education]]"
   - "[[Document]]"
+  - "[[Study Abroad]]"
   - "[[Problematisation]]"
   - "[[Bureaucracy]]"
   - "[[Policy Borrowing]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -109,7 +110,7 @@ updated: 2026-11-10
 > **公共教育从属性位移** 阐释竞争国家如何将原本承担异质社会教化职能的学段串联为出口产业链，将公共教育由目的降格为经济手段。
 >
 > > [!claim] Kuortti, K.
-> > **知识社会基础生产的归并重组** 芬兰教育出口政策[[Document|文献]]将学前教育、综合基础教育、职业教育与高等教育等传统异质学段，统一归并为服务于跨国市场竞争的“知识社会基础生产”。在这一理性支配下，公立学校向私营教育科技公司输送测试数据与应用场景，职业学院开辟离岸有偿认证，大学通过留学生收费弥补财政缺口，使整个公立教育体系在实质上从属于商业资本的扩张需求。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 393–395)]]
+> > **知识社会基础生产的归并重组** 芬兰教育出口政策[[Document|文献]]将学前教育、综合基础教育、职业教育与高等教育等传统异质学段，统一归并为服务于跨国市场竞争的“知识社会基础生产”。在这一理性支配下，公立学校向私营教育科技公司输送测试数据与应用场景，职业学院开辟离岸有偿认证，大学通过[[Study Abroad|留学]]生收费弥补财政缺口，使整个公立教育体系在实质上从属于商业资本的扩张需求。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 393–395)]]
 
 ---
 

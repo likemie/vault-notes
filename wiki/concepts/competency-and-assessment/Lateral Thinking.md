@@ -8,7 +8,7 @@ aliases:
 summary: "由爱德华·德·博诺开创的非线性思维范式与创造性构想生成体系，直接对标并互补于传统“垂直思维（逻辑推导）”。主张打破大脑自组织神经模式的固有凹槽，通过激发（PO）、随机输入与概念挑战等启发式技术，强迫认知系统横向跳跃至非常规切入点以实现观念重构与顿悟突破。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,6 +19,7 @@ tags:
   - theme/higher-order-thinking
   - cognition/learning-science
 related_concepts:
+  - "[[Problematisation]]"
   - "[[Cognitive Flexibility]]"
   - "[[Problem Solving]]"
   - "[[Divergent Thinking]]"
@@ -52,13 +53,13 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Lateral Thinking
-> 侧向思维（Lateral Thinking），中文学术界常亦称水平思考或横向思维，是由英国认知学者[[Edward de Bono\|爱德华·德·博诺]]（Edward de Bono, 1967, 1970）系统创立的一套有意识逃脱固有认知模式、实现概念飞跃与顿悟的非线性思维体系与启发式技术。德·博诺将其直接对标并互补于传统的“垂直思维（Vertical Thinking，即沿着既有逻辑单向连续递进的分析性思维）”。侧向思维建立在人类大脑作为“自组织模式形成系统（Self-Organizing Pattern-Making System）”的神经认知哲学基础之上，强调通过主动引入“激发与运动（Provocation and Movement / PO）”、“随机输入（Random Entry）”与“概念挑战（Concept Challenge）”等外显心智工具，强迫思维跳出习惯性神经凹槽，从旁侧非常规角度切入以重塑问题表征。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 2–3, 10)]]; [[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 391)]]; de Bono (1970)
+> 侧向思维（Lateral Thinking），中文学术界常亦称水平思考或横向思维，是由英国认知学者[[Edward de Bono\|爱德华·德·博诺]]（Edward de Bono, 1967, 1970）系统创立的一套有意识逃脱固有认知模式、实现概念飞跃与顿悟的非线性思维体系与启发式技术。德·博诺将其直接对标并互补于传统的“垂直思维（Vertical Thinking，即沿着既有逻辑单向连续递进的分析性思维）”。侧向思维建立在人类大脑作为“自组织模式形成系统（Self-Organizing Pattern-Making System）”的神经认知哲学基础之上，强调通过主动引入“激发与运动（Provocation and Movement / PO）”、“随机输入（Random Entry）”与“概念挑战（Concept Challenge）”等外显心智工具，强迫思维跳出习惯性神经凹槽，从旁侧非常规角度切入以重塑[[Problematisation|问题表征]]。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 2–3, 10)]]; [[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 391)]]; de Bono (1970)
 
 > [!concept-lens] 概念透镜
 > - **核心本质** 故意扰乱大脑自发形成的自动化经验平衡态，通过引入受控的“认知失谐与非连续跳跃”以达成新模式自组织的认知机制。

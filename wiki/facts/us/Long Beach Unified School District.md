@@ -97,7 +97,7 @@ updated: 2026-11-11
 > - **打破城市教育短期功利主义** 为比较教育与政策执行学界提供了反思“改革疲劳症”的鲜活实证，证明制度稳定性与专业文化建设的累积效能远胜于激进的外部问责冲击。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 490)]]
 
 > [!citation-card] 扎瓦德斯基论长滩学区的制度稳定性（Zavadsky, 2016）
-> 长滩联合学区之所以能够实现教学改进的规模化与长效化，关键在于其数十年如一日的战略定力。通过内部培养选拔高度认同学区文化的管理者，长滩建立了一个高度互信、聚焦课堂教学且以实证研究为支撑的专业支持生态。在这里，数据不是问责惩戒的大棒，而是指导教师协同改进的指南针。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 490, 493)]]
+> 长滩联合学区之所以能够实现教学改进的规模化与长效化，关键在于其数十年如一日的战略定力。通过内部培养选拔高度认同学区文化的管理者，长滩建立了一个高度互信、聚焦课堂教学且以实证研究为支撑的专业支持生态。学区将数据严格作为指导教师协同改进的专业诊断工具，重点用于精准支持与微观改进，避免用于惩戒性问责。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 490, 493)]]
 >
 > *Long Beach’s success stems from deep-seated leadership stability and a coherent focus on instruction sustained over decades. The district uses data not punitively, but to direct research-based targeted supports to schools and teachers, building collective capacity across the system.*
 

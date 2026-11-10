@@ -12,9 +12,9 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 16
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 22
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - fact/event
@@ -24,43 +24,49 @@ tags:
   - theme/global-governance
   - theme/educational-policy
 related_concepts:
-  - "[[Learning Crisis]]"
-  - "[[Crisis Epistemology]]"
-  - "[[State Educational Sovereignty]]"
-  - "[[Aid Volatility in Education]]"
-  - "[[White Saviour Mentality]]"
+  - "[[Discourse]]"
   - "[[Foundational Literacy and Numeracy]]"
-related_theories:
-  - "[[Decolonial Geopolitics of Knowledge]]"
-related_methods: []
+  - "[[State Educational Sovereignty]]"
+  - "[[Commensuration]]"
+  - "[[Knowledge Co-production]]"
+  - "[[Lifelong Learning]]"
+  - "[[International Education]]"
+  - "[[Epistemology]]"
+  - "[[Crisis Epistemology]]"
+  - "[[Paradigm]]"
+  - "[[Learning Crisis]]"
+  - "[[Knowledge Power]]"
+related_theories: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
   - "[[Iveta Silova]]"
   - "[[Philip H. Coombs]]"
 related_facts:
-  - "[[UNESCO]]"
-  - "[[UNICEF]]"
-  - "[[World Bank]]"
-  - "[[World Development Report 2018]]"
-  - "[[1967 Williamsburg Conference on the World Crisis in Education]]"
   - "[[Education for All]]"
+  - "[[UNESCO]]"
+  - "[[World Bank]]"
+  - "[[UN Sustainable Development Goals]]"
+  - "[[1967 Williamsburg Conference on the World Crisis in Education]]"
+  - "[[World Development Report 2018]]"
 related_arguments:
   - "[[Argument_Santos_Silova_2026_Discourse]]"
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定性
-> 2022 年联合国教育变革峰会（Transforming Education Summit, TES 2022）是 21 世纪第三个十年初多边体系动员层级最高的全球教育政治会议。峰会继承了从 1967 年威廉斯堡会议、1990 年宗甸全民教育大会到 2000 年达喀尔论坛的历史危机动员传统，将全球教育面临的复合性挑战定性为深刻危机，集中展示了多边治理通过制造紧急状态调配全球资源的话语策略。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, p. 671)]]
+> 2022 年联合国教育变革峰会（Transforming Education Summit, TES 2022）是 21 世纪第三个十年初多边体系动员层级最高的全球教育政治会议。峰会继承了从 1967 年威廉斯堡会议、1990 年宗甸[[Education for All|全民教育]]大会到 2000 年达喀尔论坛的历史危机动员传统，将全球教育面临的复合性挑战定性为深刻危机，集中展示了多边治理通过制造紧急状态调配全球资源的[[Discourse|话语]]策略。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, p. 671)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2022 年 9 月 16 日至 19 日，在美国纽约联合国总部举行（第 77 届联合国大会高级别周期间）。
 > - **核心当事主体** 由联合国秘书长安东尼奥·古特雷斯（António Guterres）正式召集，[[UNESCO|联合国教科文组织]]承担执行协调职能，来自 130 余个成员国的国家元首、教育部长、青年代表、民间社会团体与[[World Bank|世界银行]]等国际金融机构领导人参会。
-> - **深层制度与社会背景** 新冠疫情期间全球范围大规模学校停课加剧了既有的教育不平等，低中收入国家基础技能落后现象愈发突出；可持续发展目标 4（SDG 4）面临整体偏离预定轨道的严峻威胁。
+> - **深层制度与社会背景** 新冠疫情期间全球范围大规模学校停课加剧了既有的教育不平等，低中收入国家基础技能落后现象愈发突出；[[UN Sustainable Development Goals|可持续发展目标]] 4（SDG 4）面临整体偏离预定轨道的严峻威胁。
 > - **直接导火索 / 触发事件** 联合国秘书长在《我们的共同议程》（*Our Common Agenda*）报告中提议召开专门峰会，动员各国应对全球教育危机并重塑教育体系。
 
 ---
@@ -93,22 +99,22 @@ updated: 2026-11-10
 > |:---|:---|:---|
 > | 核心行动者 | 联合国机构、[[World Bank\|世界银行]]、跨国智库与西方捐资方 | 全球南方国家教育部、本土教育学者、基层教师工会 |
 > | 核心价值话语 | 全球危机应对、循证干预、标准化技能基准与技术治理问责 | [[State Educational Sovereignty\|教育主权]]、本土文化多元性、去救世主心态与长期财政自主 |
-> | 政策推进策略 | 设定全球通约及格线、推广短期干预包、设立国际融资机制 | 强调因地制宜的国别进路、维护公立教育生态、抵制外援骤停风险 |
+> | 政策推进策略 | 设定全球[[Commensuration\|通约]]及格线、推广短期干预包、设立国际融资机制 | 强调因地制宜的国别进路、维护公立教育生态、抵制外援骤停风险 |
 >
-> **关键分歧** 究竟是将危机视作依赖外部专家处方的技术缺陷，还是直面全球不平等的历史根源并构建平等的双向知识共创关系。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, pp. 671–678)]]
+> **关键分歧** 究竟是将危机视作依赖外部专家处方的技术缺陷，还是直面全球不平等的历史根源并构建平等的双向[[Knowledge Co-production|知识共创]]关系。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, pp. 671–678)]]
 
 ---
 
 > [!indicators] 历史影响维度
-> - **治理议程重塑** 峰会成功促成 130 余国提交国家承诺声明，将终身学习、数字转型与绿色教育列入跨国协作优先事项。
+> - **治理议程重塑** 峰会成功促成 130 余国提交国家承诺声明，将[[Lifelong Learning|终身学习]]、数字转型与绿色教育列入跨国协作优先事项。
 > - **危机话语强化** 延续了战后将复杂教育结构矛盾表述为即时紧迫状态的话语传统，固化了外部专家进入主权国家的合法性基础。
-> - **资金动员机制** 催生了国际教育融资便利机制（IFFEd）等创新型混合融资工具，试图调动数十亿美元额外优惠贷款。
+> - **资金动员机制** 催生了[[International Education|国际教育]]融资便利机制（IFFEd）等创新型混合融资工具，试图调动数十亿美元额外优惠贷款。
 
 ---
 
 > [!finding-cards] 关键历史后果
 > - **危机动员的延续** 成为继 1967 年威廉斯堡会议、1990 年宗甸会议后全球教育治理危机史诗的新里程碑。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, p. 671)]]
-> - **认识论张力的显化** 展现了自上而下的普世技术方案与全球南方要求尊重本土认识论之间的深层张力。
+> - **[[Epistemology|认识论]]张力的显化** 展现了自上而下的普世技术方案与全球南方要求尊重本土认识论之间的深层张力。
 > - **治理承诺的落实挑战** 峰会虽然在修辞层面达成了高度共识，但由于面临全球经济滞胀与地缘冲突加剧，各国财政承诺的实质兑现仍面临高度不确定性。
 
 ---
@@ -116,7 +122,7 @@ updated: 2026-11-10
 > [!debates] 史学评价与当代争议
 >
 > > [!axis] 救世主式干预与主权国家合作
-> > 传统多边主义观点将峰会视作凝聚全球意愿挽救失学一代的历史性契机；去殖民与批判学者指出峰会未脱离危机认识论的传统窠臼。
+> > 传统多边主义观点将峰会视作凝聚全球意愿挽救失学一代的历史性契机；去殖民与批判学者指出峰会未脱离[[Crisis Epistemology|危机认识论]]的传统窠臼。
 > >
 > > - **主流多边倡导视角** 认为面对疫情造成的灾难性倒退，唯有通过联合国最高层级的紧急动员才能打破常规官僚拖延。
 > > - **去殖民与批判学者视角** 指出峰会宣示的紧急状态再次掩盖了全球债务与殖民遗产等结构性条件，持续维系了以西方为主导的救世主介入机制。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, pp. 671–674)]]
@@ -128,14 +134,14 @@ updated: 2026-11-10
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Iveta Silova]] | Person | 在研究中剖析该峰会作为危机动员制度化节点的比较教育学者。 |
-> | [[Philip H. Coombs]] | Person | 1967 年威廉斯堡世界教育危机大会召集人，确立了峰会所沿袭的危机治理范式。 |
-> | [[World Development Report 2018]] | Fact (Policy) | 为峰会讨论奠定“学习危机”与“有就学无学习”诊断基调的世行旗舰报告。 |
+> | [[Philip H. Coombs]] | Person | 1967 年[[1967 Williamsburg Conference on the World Crisis in Education\|威廉斯堡世界教育危机大会]]召集人，确立了峰会所沿袭的危机治理[[Paradigm\|范式]]。 |
+> | [[World Development Report 2018]] | Fact (Policy) | 为峰会讨论奠定“[[Learning Crisis\|学习危机]]”与“有就学无学习”诊断基调的世行旗舰报告。 |
 > | [[1967 Williamsburg Conference on the World Crisis in Education]] | Fact (Event) | 战后首个奠定全球教育危机动员模式的历史溯源峰会。 |
 > | [[Learning Crisis]] | Concept | 峰会动员所围绕的核心政策概念与问题诊断。 |
-> | [[Crisis Epistemology]] | Concept | 解释该峰会如何借由紧急状态构建干预正当性的分析框架。 |
+> | [[Crisis Epistemology]] | Concept | 解释该峰会如何借由紧急状态构建干预正当性的[[Analytic Framework\|分析框架]]。 |
 > | [[State Educational Sovereignty]] | Concept | 峰会多边干预同全球南方各自主权诉求之间的张力焦点。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 将 2022 年峰会置于半个多世纪以来的危机治理演进史中，揭示多边动员修辞背后的依附机制与知识权力格局。
+> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 将 2022 年峰会置于半个多世纪以来的危机治理演进史中，揭示多边动员修辞背后的依附机制与[[Knowledge Power|知识权力]]格局。

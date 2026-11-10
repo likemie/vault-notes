@@ -10,7 +10,7 @@ aliases:
 summary: "中国当代内政与对外战略中的核心政治与历史叙事，与百年屈辱史构成孪生叙事结构，将国家经济繁荣与跨国制度投射确立为洗雪历史屈辱、重现文明荣光的正当性依据"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 31
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -33,8 +33,10 @@ related_concepts:
   - "[[China Solution]]"
   - "[[Paradigm]]"
   - "[[South-South Cooperation]]"
+  - "[[Transnational Education]]"
   - "[[Retroduction]]"
   - "[[Soft Power]]"
+  - "[[Study Abroad]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Educational Soft Power]]"
   - "[[Total War]]"
@@ -61,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -98,7 +100,7 @@ updated: 2026-11-03
 > - **[[Century of Humiliation|百年屈辱]]创伤回溯** 以近代受制于外强的历史创伤为情感锚点，赋予国家富强与安全建设以迫切的救亡图存道义正当性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–688)]]
 > - **两个一百年目标具象化** 将抽象的文明复兴愿景转化为阶段性经济繁荣、科技跨越与现代化强国建设的具体指标。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 688)]]
 > - **朝贡朝向与文明荣光重置** 借由古丝绸之路等历史符号的现代重构，投射古代区域秩序中心与文明枢纽的历史想象。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 688)]]
-> - **内外统筹的工具延伸** 统辖对外援助、经济出海与跨国高等教育布局，促使各领域政策服从于实现大国地位的最高国家战略。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 688–689)]]
+> - **内外统筹的工具延伸** 统辖对外援助、经济出海与[[Transnational Education|跨国高等教育]]布局，促使各领域政策服从于实现大国地位的最高国家战略。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 688–689)]]
 
 > [!logic-map]- 民族复兴叙事的结构生成与政策投射
 > ```mermaid
@@ -125,7 +127,7 @@ updated: 2026-11-03
 > **[[Soft Power|软实力]]投射与文化地缘地位** 探讨民族复兴[[Discourse|话语]]如何界定高等教育在世界体系中的位置变迁，推动教育从国内经济助推器演变为全球软实力竞争的核心支柱。
 
 > [!claim] Woo, E.
-> **全球地缘教育地位的重塑诉求** [[Argument_Woo_2023_HEP|Woo (2023)]] 提出，新时代教育在民族复兴大局中承担双重战略角色：对内作为推动产业升级与经济赶超的技术引擎；对外则致力于帮助国家从全球软实力边缘迈向核心。随着国家经济体量位居世界前列，复兴叙事要求对外教育布局树立全球统筹视野，通过高额留学生奖学金设立、海外联合办学以及[[Knowledge Diplomacy|知识外交]]网络建设，争取在世界高等教育体系中确立与大国地位相称的话语权与主导权。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 688–689)]]
+> **全球地缘教育地位的重塑诉求** [[Argument_Woo_2023_HEP|Woo (2023)]] 提出，新时代教育在民族复兴大局中承担双重战略角色：对内作为推动产业升级与经济赶超的技术引擎；对外则致力于帮助国家从全球软实力边缘迈向核心。随着国家经济体量位居世界前列，复兴叙事要求对外教育布局树立全球统筹视野，通过高额[[Study Abroad|留学]]生奖学金设立、海外联合办学以及[[Knowledge Diplomacy|知识外交]]网络建设，争取在世界高等教育体系中确立与大国地位相称的话语权与主导权。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 688–689)]]
 
 > [!claim] [[Argument_Velasco_2022_CSJ|Velasco (2022)]]
 > **软实力战略重塑与两个一百年奋斗目标赋权** 考察中国[[Educational Soft Power|高等教育软实力]]演进指出，“中国梦”愿景将实现[[Zhonghua Minzu|中华民族]]伟大复兴确立为国家[[Total War|总体战]]略支点，直接驱动了软实力（ruan shili）理论的本土化重塑：从被动的文化防御升级为服务两个一百年奋斗目标的进取性行动工具。国家通过设立 21 世纪海上丝绸之路专项资金与大规模政府奖学金体系，推动高水平大学在东南亚定向招募留学生并设立境外实体分校，将区域教育合作深度嵌入民族复兴与大国对外战略大局之中。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 76–78, 83–85)]]

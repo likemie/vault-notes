@@ -8,9 +8,9 @@ summary: "英国著名比较教育学家与科学哲学家，伦敦大学教育�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 69
-person_related_level: 6
-person_related_stars: "💎💎"
+person_related_count: 70
+person_related_level: 7
+person_related_stars: "💎💎⭐"
 person_related_color: "#fef3c7"
 born: "1920"
 died: "1993"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Epistemic Stances]]"
   - "[[Falsification]]"
+  - "[[Transnational Education]]"
   - "[[Reflective Thinking]]"
   - "[[International Education]]"
   - "[[Ontology]]"
@@ -100,7 +101,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -121,7 +122,7 @@ updated: 2026-11-02
 > - **1920** **约克郡出身与物理学实证科学底色** 出生于英格兰约克郡威格顿（Wigton），中学就读于贵格会名校威格顿朋友中学（Friends' School, Wigton）；后考入伦敦大学学院（University College London, UCL）攻读物理学，1941 年获理学学士（B.Sc.）学位。这门现代自然科学训练为其日后建构假说-演绎模型、寻求因果普遍法则奠定了[[Positivism|实证主义]]与科学哲学底色。
 > - **1941–1946** **二战期间皇家空军技术军官与雷达气象经历** 二战爆发后应征入伍，在英国皇家空军（Royal Air Force, RAF）担任雷达与气象技术军官。战时在极端不确定环境中依靠数理模型与数据观测预测空中战局与天气演进的实战历练，塑造了他后来坚信“科学理解的唯一试金石在于成功预测未来而非事后解释过去”的[[Epistemic Stances|认识论立场]]。
 > - **1946–1951** **战后中学物理教学与伦敦教育学院转型** 退役后在英格兰公立完全中学担任物理学科主任；1951 年考入伦敦大学教育学院攻读教育学研究生文凭，深受约瑟夫·劳威斯（[[Joseph Lauwerys]]）赏识；在此期间赴伦敦政治经济学院（London School of Economics and Political Science, LSE）系统研修科学哲学，深受波普尔批判理性主义哲学（[[Falsification|证伪主义]]与反归纳主义）的强烈震撼。
-> - **1953–1964** **任教伦敦大学教育学院与合编《世界教育年鉴》** 1953 年受聘为伦敦大学教育学院比较教育学讲师，与劳威斯、[[Nicholas Hans|尼古拉斯·汉斯]]（[[Nicholas Hans]]）共同构筑伦敦比较教育研究中心；长期深度参与主编国际权威年刊《世界教育年鉴》（*The Year Book of Education* / *World Year Book of Education*, 1953–1970），开展跨国教育规划与现代化转型的战略调查。
+> - **1953–1964** **任教伦敦大学教育学院与合编《世界教育年鉴》** 1953 年受聘为伦敦大学教育学院比较教育学讲师，与劳威斯、[[Nicholas Hans|尼古拉斯·汉斯]]（[[Nicholas Hans]]）共同构筑伦敦比较教育研究中心；长期深度参与主编国际权威年刊《世界教育年鉴》（*The Year Book of Education* / *World Year Book of Education*, 1953–1970），开展[[Transnational Education|跨国教育]]规划与现代化转型的战略调查。
 > - **1961** **参与创设[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）捍卫学术自主** 与劳威斯、佩德罗·罗塞略（Pedro Rosselló）等共同发起创设 CESE，长期出任学会秘书长与副主席。[[Wolfgang Mitter|沃尔夫冈·米特]]（[[Wolfgang Mitter]]）指出，CESE 在创立之初坚决否决了国家代表制构想，确立以学者个人会员制为基石，打破冷战阵营壁垒，并与纯事务性从业人员保持审慎距离，捍卫了学术研究的超政治自主权。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 91–92)]]
 > - **1964** **获哲学博士学位奠定[[Problem Approach|问题法]]哲学基础** 完成博士研究，系统将波普尔[[Critical Dualism|批判二元论]]、情境逻辑与[[John Dewey|杜威]][[Reflective Thinking|反思性思维]]理论相熔铸，奠定“[[Problem Solving|问题解决]]法（Problem Approach）”的理论架构。
 > - **1965** **出版《教育问题：一种比较进路》确立第三代际伦敦学派** 出版方法论里程碑名著《教育问题：一种比较进路》（*Problems in Education: A Comparative Approach*），晋升为伦敦大学比较教育学读者（Reader）。霍姆斯在书中高调向古典历史学派宣战，断言比较教育必须是一门以[[Nomothetic|通则式]]“预测”为标志的[[Policy Science in Comparative Education|政策科学]]，对汉斯、[[Isaac Kandel|艾萨克·坎德尔]]（[[Isaac Kandel]]）的回溯性历史归因发起系统挑战，并在学院内部引发实证转向与文化主义传统的论辩，同时与[[George Bereday|乔治·贝雷迪]]（[[George Bereday]]）、[[Harold Noah|哈罗德·诺亚]]（[[Harold Noah]]）、[[Max Eckstein|马克斯·埃克斯坦]]（[[Max Eckstein]]）展开长达十余年的跨大西洋方法论大论战。(Holmes, 1965, pp. 19–21, 30; [[Argument_Kazamias_2009_ForgottenThemes|Kazamias, 2009b, pp. 53–54]]); [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 149–151)]]

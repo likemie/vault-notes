@@ -7,7 +7,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 7
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -17,6 +17,7 @@ tags: [region/global, theme/curriculum-development, theme/science-education, the
 related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Terminal Courses]]"
+  - "[[Study Abroad]]"
   - "[[School Choice]]"
 related_facts:
   - "[[International School of Geneva]]"
@@ -27,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -53,7 +54,7 @@ updated: 2026-10-22
 
 共同原理维持学科连贯性，各校选定的应用领域则为知识提供不同的使用环境。
 
-> [!claim] 应用方向可以改变课程目的，同时保留学科基础
+> [!claim] 应用方向可以改变课程目的，同时保[[Study Abroad|留学]]科基础
 > 学科知识能否支持离校后的理解，取决于课程怎样组织知识的用途。重工业、农业与食品、健康等应用领域，为共同原理提供具体问题情境；保留共同核心又使应用选择不至于取代基本学习。终结性设计因此可以通过同一学科内部的内容重组实现，不必完全依赖另设综合学科。正式采用证明这一结构获得制度容纳，但没有证明学生的迁移能力、长期兴趣或科学理解已经改善。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 203–204)]]
 
 ---

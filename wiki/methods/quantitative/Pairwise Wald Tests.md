@@ -10,7 +10,7 @@ summary: "在元分析与调节效应建模中，用于检验三个或更多亚�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 26
+method_related_count: 28
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -31,6 +31,8 @@ related_concepts:
   - "[[Argument Mapping]]"
   - "[[Concept Mapping]]"
   - "[[Epistemology]]"
+  - "[[Homophily]]"
+  - "[[Null Hypothesis]]"
   - "[[Sampling Error]]"
   - "[[Graphic Organizer]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -57,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 ---
@@ -80,7 +82,7 @@ updated: 2026-10-29
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 统计推断后设验证：将宏观分类维度的总体变异细化为微观亚组间的阶梯式因果比较，避免因笼统的大类合并而掩盖内在层级机制。
-> - **研究者角色** 在理论指导下预设分类层级，并在拒绝总同质性假设后执行严谨的事后推断检验，避免无依据的多重事后数据窥探。
+> - **研究者角色** 在理论指导下预设分类层级，并在拒绝总[[Homophily|同质性]]假设后执行严谨的事后推断检验，避免无依据的多重事后数据窥探。
 > - **有效性标准** 统计结论效度（检验各亚组[[Effect Size\|效应量]]方差估计的准确性与[[Sample Size Determination\|样本量]]充分性）与多重假设检验的族系误差率控制（Family-Wise Error Rate, FWER）。
 > - **不声称回答的问题** 不能替代连续[[Variable\|变量]]的函数形态拟合（连续趋势应采用[[Meta-regression\|元回归]]），亦不能脱离总模型独立解释未被控制的混杂变量。
 
@@ -121,7 +123,7 @@ updated: 2026-10-29
 > - $\hat{\theta}_j, \hat{\theta}_k$ 两亚组的加权合并效应量点估计值（如 Hedges' $g$）
 > - $\text{Var}(\hat{\theta}_j), \text{Var}(\hat{\theta}_k)$ 两亚组各自合并效应量的抽样方差（即 $SE_j^2$ 与 $SE_k^2$）
 >
-> **数学直觉** 若原假设成立（两组真实效应无差异），两组样本估计值的差值纯粹由[[Sampling Error\|抽样误差]]引起，差值除以标准误差后服从标准正态分布，其平方服从自由度为 1 的卡方分布。$W$ 越大，表明两组真实差异显著超越[[Random Sampling\|随机抽样]]波动的概率越高。
+> **数学直觉** 若[[Null Hypothesis|原假设]]成立（两组真实效应无差异），两组样本估计值的差值纯粹由[[Sampling Error\|抽样误差]]引起，差值除以标准误差后服从标准正态分布，其平方服从自由度为 1 的卡方分布。$W$ 越大，表明两组真实差异显著超越[[Random Sampling\|随机抽样]]波动的概率越高。
 >
 > **结果怎么读** 当 $W > 3.84$（对应 $\alpha = .05$）或 $W > 10.83$（对应 $\alpha = .001$）时，$p < .05$ 或 $p < .001$，拒绝两组效应相等的零假设，判定两亚组成对差异具有统计学显著性。
 >

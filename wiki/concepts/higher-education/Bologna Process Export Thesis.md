@@ -8,7 +8,7 @@ aliases:
 summary: "欧洲高等教育研究与早期比较区域主义中的理论假说，假定欧洲博洛尼亚进程是全球高等教育政策协调的先导范式与模仿样板，其他区域的一体化动力源于对欧洲经验的单向外生扩散；该假说因忽视非欧区域自主合作历史、官方明确抵制与主权防卫诉求而受到实证证伪"
 type: concept
 domain: "higher-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Document]]"
   - "[[Institutional Mimesis]]"
+  - "[[Transnational Education]]"
   - "[[International Education]]"
   - "[[Falsification]]"
   - "[[Policy Borrowing]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -62,7 +63,7 @@ updated: 2026-11-03
 > [[Bologna Process|博洛尼亚进程]]输出假说（Bologna Process Export Thesis）是欧洲高等教育研究与早期[[Comparative Regionalism|比较区域主义]][[Document|文献]]中广泛存在的理论假设；该假说认为欧洲[[Bologna Process|博洛尼亚进程]]在区域教育协调上的制度创新充当了全球其他地理区域推进高等教育一体化的先导模板，断言非欧洲区域的高教政策合作是由欧洲经验单向外生扩散所激发的[[Institutional Mimesis|制度模仿]]。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 144)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指称将欧洲跨国教育协调机制预设为全球普遍标准的欧洲中心主义扩散论命题。
+> - **含义** 指称将欧洲[[Transnational Education|跨国教育]]协调机制预设为全球普遍标准的欧洲中心主义扩散论命题。
 > - **用途** 帮助研究者识别[[International Education|国际教育]]比较研究中存在的单向因果推定偏见，反思将外部制度形式重合机械解释为政策移植的方法论缺陷。
 > - **边界** 该假说属于被批判与[[Falsification|证伪]]的规范性假说，不能用来替代对非欧洲区域内生合作历史与主权防卫诉求的实证经验考察。
 

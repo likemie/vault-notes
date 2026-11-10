@@ -10,7 +10,7 @@ aliases:
 summary: "描述学术丑闻、撤稿危机与制度危机发生时声望资本对学者产生非对称性反噬与失衡责任分担的社会学机制；实证表明知名学者因学术欺诈撤稿所遭受的历史既往代表作引文损失远高于不知名同行，而在诚实错误下惩罚差异消失；在合著撤稿中则呈现出资深学者全身而退、青年学者承担毁灭性职业责任的残酷转嫁不对称。"
 type: concept
 domain: "science-policy"
-related_count: 11
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,8 @@ related_concepts:
   - "[[Scientific Credit]]"
   - "[[Paradigm]]"
   - "[[Matthew Effect in Academia]]"
+  - "[[Early-Career Researchers]]"
+  - "[[Retraction Penalty]]"
   - "[[Document]]"
   - "[[Bureaucracy]]"
   - "[[Discourse]]"
@@ -37,10 +39,11 @@ related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit06]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -69,13 +72,13 @@ updated: 2026-11-03
 > |---|---|---|
 > | **诱发事件** | 荣获顶尖奖项、当选学会院士、先发声望累积 | 论著撤稿、学术不端公开发酵、造假调查成立 |
 > | **跨期溢出方向** | 逆向拉动数十年前发表的无关旧作被引激增 | 负向侵蚀涉事学者此前发表的全部既往成果被引量 |
-> | **主导地位学者角色** | 独占不成比例的最高学术承认与符号荣誉 | 遭遇更陡峭的公众审判，但合著时可向青年学者转嫁责任 |
+> | **主导地位学者角色** | 独占不成比例的最高学术承认与符号荣誉 | 遭遇更陡峭的公众审判，但合著时可向[[Early-Career Researchers\|青年学者]]转嫁责任 |
 > | **低年资研究人员处境** | 成果淹没于无名状态，缺乏注意力搜寻红利 | 遭遇不可逆的职业生涯阻断与行业排斥 |
 
 ---
 
 > [!feature] 核心要素
-> - **负向声誉溢出** 撤稿惩罚直接穿透时间维度并溢出至涉事单篇[[Document|文献]]之外，对其此前已积累学术声誉的既往历史论著造成长期的引用缩减。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 34)]]
+> - **负向声誉溢出** [[Retraction Penalty|撤稿惩罚]]直接穿透时间维度并溢出至涉事单篇[[Document|文献]]之外，对其此前已积累学术声誉的既往历史论著造成长期的引用缩减。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 34)]]
 > - **过错性质的条件依赖** 惩罚严苛程度高度取决于共同体对过错的主观定性，诚实探索失误与主观恶意学术欺诈在声誉折损上存在本质分野。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 34–35)]]
 > - **团队[[Bureaucracy|科层制]]的责任不对称** 在多学者合著团队中，资深学者利用[[Discourse|话语]]权将实验执行责任完全下推，形成地位高者免受冲击、从属研究人员承担无限责任的异化格局。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 34)]]
 

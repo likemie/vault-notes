@@ -9,7 +9,7 @@ aliases:
 summary: "源自古希腊城邦文明的整全公民培育与灵魂转向哲学，整合智性沉思、伦理德性与审美和谐，是西方全人教育与比较教育以人为本（anthropos）思想史传统的始源母题。"
 type: concept
 domain: "educational-philosophy"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Transnational Education]]"
   - "[[Technical Rationality]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Educational Meliorism]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -142,7 +143,7 @@ updated: 2026-11-03
 > **比较教育[[Epistemology\|认识论]]与学科史维度** 该命题探讨比较教育历史学派大师如何借用 *Paideia* 概念，建立以人（*Anthropos*）为中心的宏大思想史比较[[Paradigm\|范式]]。
 
 > [!claim] [[Andreas Kazamias\|Kazamias, A.]] M.
-> **超越微观学校教育的人本科学传统** 卡扎米亚斯回顾[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]等学科奠基者的历史母题时指出：大师们始终坚持从广义的文化教化（*paideia/culture*）而非狭隘的学校教学（*schooling*）审视跨国教育现象。他们将比较教育确立为以人为本的人文科学（[[Humanistic Episteme]]），时刻保持着对人类政治、社会与道德危机的敏锐洞察，坚决抗拒将教育研究退化为纯粹行政管理和技术控制的处方手册。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
+> **超越微观学校教育的人本科学传统** 卡扎米亚斯回顾[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]等学科奠基者的历史母题时指出：大师们始终坚持从广义的文化教化（*paideia/culture*）而非狭隘的学校教学（*schooling*）审视[[Transnational Education|跨国教育]]现象。他们将比较教育确立为以人为本的人文科学（[[Humanistic Episteme]]），时刻保持着对人类政治、社会与道德危机的敏锐洞察，坚决抗拒将教育研究退化为纯粹行政管理和技术控制的处方手册。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
 
 > [!claim] [[Robert Ulich\|Ulich, R.]]
 > **抵御[[Technical Rationality\|技术理性]]异化的两千年文明长河防线** 乌利希在《民族教育》中考证西方教育史演进，指出工业化大生产与科技极权使得现代社会充斥着工具理性的异化危险；唯有重拾古希腊 *Paideia* 与早期基督教人文精神所赋予的人性尊严尺度，现代比较研究才能超越主权国家的狭隘功利利益，成为促进人类相互理解与自我净化的崇高事业。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 51–52)]]

@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育学中主张学科本质应作为政策科学服务国家治理决策的理解形式与知识取向；由 Cowen 系统梳理并由 Holmes 和 King 等人倡导，政治上寻求与自由民主国家权力的显性联盟，但面临消解学术反思批判力并异化为官僚规划合法化借口的双重张力。"
 type: concept
 domain: "comparative-education"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Knowledge Diplomacy]]"
+  - "[[Transnational Education]]"
   - "[[Knowledge Power]]"
   - "[[Network Governance]]"
   - "[[Discourse]]"
@@ -63,7 +64,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -139,7 +140,7 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题三｜跨国教育倡议的组织架构与治理工具直接反映了[[Knowledge Power|知识权力]]的政策设计初衷
+> [!concept-proposition] 命题三｜[[Transnational Education|跨国教育]]倡议的组织架构与治理工具直接反映了[[Knowledge Power|知识权力]]的政策设计初衷
 > **政策工具选择与跨国制度治理维度** 探讨如何运用政策科学与公共行政学中的组织设计与政策工具透镜，剖析跨国高等教育网络中的权力投射逻辑。
 
 > [!claim] Chou & Demiryol

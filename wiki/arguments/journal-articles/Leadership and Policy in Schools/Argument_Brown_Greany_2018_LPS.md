@@ -26,7 +26,7 @@ title: "Argument_Brown_Greany_2018_LPS"
 argument_key: "Argument_Brown_Greany_2018_LPS"
 argument_display_title: "The evidence-informed school system in England: Where should school leaders be focusing their efforts? Leadership and Policy in Schools, 17(1), 115–137"
 argument_kind: "journal-article"
-argument_related_count: 57
+argument_related_count: 58
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -82,6 +82,7 @@ related_instruments:
 related_persons:
   - "[[Toby Greany]]"
   - "[[Alan Daly]]"
+  - "[[David Hargreaves]]"
   - "[[Nancy Cartwright]]"
 related_facts:
   - "[[Research Learning Communities]]"
@@ -99,7 +100,7 @@ related_theories:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
@@ -211,7 +212,7 @@ updated: 2026-10-29
 
 > [!sub-claim] 1. 新工党供给主导模式的局限推动了联合政府向自我改进系统的转型
 
-自大卫·哈格里夫斯（David Hargreaves, 1996）呼吁教学转变为以研究为基础的专业以来，教育界围绕实证研究证据与教师教学实践的关系展开了持久的[[Epistemology|认识论]]争论。
+自[[David Hargreaves|大卫·哈格里夫斯]]（David Hargreaves, 1996）呼吁教学转变为以研究为基础的专业以来，教育界围绕实证研究证据与教师教学实践的关系展开了持久的[[Epistemology|认识论]]争论。
 
 > [!tension] 研究证据与教学实践关系的两种对立[[Paradigm\|范式]]
 > - **证据本位范式（以[[Randomised Controlled Trials\|随机对照试验]]为黄金标准）** 强调教师应当严格依据经[[Randomised Controlled Trials\|随机对照试验]]（RCT）检验的“有效做法”行事，以确保教学干预的科学性与有效性（Goldacre, 2013）。

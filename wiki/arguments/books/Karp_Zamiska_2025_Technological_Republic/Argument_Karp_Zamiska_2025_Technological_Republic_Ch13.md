@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch13"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch13"
 argument_display_title: "“Building a Better Rifle”"
 argument_kind: "book-chapter"
-argument_related_count: 14
+argument_related_count: 15
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -46,6 +46,7 @@ related_persons:
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
   - "[[John Glenn]]"
+  - "[[Tim Cain]]"
   - "[[Nikolas Rose]]"
 related_methods: []
 related_facts:
@@ -56,7 +57,7 @@ related_arguments: []
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 ---
 
@@ -189,7 +190,7 @@ updated: 2026-10-26
 > - **定制系统弊端** 在 FASA 颁布后的二十年里，采办部门仍习惯性投入数十亿美元委托传统承包商自建封闭的分布式通用地面系统（Distributed Common Ground System-Army, DCGS-A），未主动评估商业市场的软件方案。
 > - **提起法律诉讼** 2016 年，帕兰提尔在联邦索赔法院起诉美国陆军，指控陆军在招标中未依法评估市场上已有的成熟商用分析软件，违反了《1994年联邦采购精简法》的规定（pp. 152–153）。
 > - **法院判决结果** 2016 年 11 月，法官马里恩·霍恩（Marian Blank Horn）在判决中认定陆军未按法律要求查明是否存在可用的商用产品，其做法属于随意行政行为，判决原告胜诉；该判决随后在上诉中得到维持（p. 153）。
-> - **赢得采办项目** 2018 至 2019 年，陆军经过重新评估最终选定帕兰提尔承担该情报系统项目，联邦参议员约翰·麦凯恩（John McCain）指出在耗资 30 亿美元失败后需要另辟蹊径，对引入新机制表示支持。《华盛顿邮报》指出，这是科技初创软件企业首次主导重大防务记录项目（pp. 153–154）。
+> - **赢得采办项目** 2018 至 2019 年，陆军经过重新评估最终选定帕兰提尔承担该情报系统项目，联邦参议员约翰·麦[[Tim Cain|凯恩]]（John McCain）指出在耗资 30 亿美元失败后需要另辟蹊径，对引入新机制表示支持。《华盛顿邮报》指出，这是科技初创软件企业首次主导重大防务记录项目（pp. 153–154）。
 
 > [!contrast-table] 2011年科技行业的取向分化：[[Consumer Internet|消费级互联网]]应用与国防工程技术
 > | 比较维度 | 消费级互联网企业（如 Zynga、Groupon） | 专注于实体防务的技术企业（如[[Palantir Technologies\|帕兰提尔]]） |

@@ -30,14 +30,13 @@ related_concepts:
   - "[[What Works Movement]]"
   - "[[Variable]]"
   - "[[Ecological Validity]]"
-  - "[[Epistemology]]"
   - "[[Implementation Fidelity]]"
   - "[[External Validity]]"
+  - "[[Epistemology]]"
   - "[[Public Value]]"
   - "[[Deficiencies Model for an Introduction]]"
   - "[[Paradigm]]"
   - "[[Fade-out Effect]]"
-  - "[[Evidence-Based Education]]"
   - "[[Preregistration]]"
   - "[[Rich and Thick Description]]"
   - "[[Dependent Variable]]"
@@ -60,6 +59,7 @@ related_persons:
   - "[[Ton de Jong]]"
   - "[[Adrian Simpson]]"
 related_facts:
+  - "[[New Zealand Quality Teaching Strategy]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Institute of Education Sciences]]"
   - "[[Education Endowment Foundation]]"
@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-14
-updated: 2026-11-06
+updated: 2026-11-11
 ---
 
 ---
@@ -89,7 +89,7 @@ updated: 2026-11-06
 > [!citation-card|notitle] 埃多瓦尔德与内维尔论常态教学的高基线特征与无效证据的实践价值
 > 循证运动不仅要能指出什么有效，更必须明确什么无效，因为耗费在低效做法上的公共资源本可用于更需要的地方。绝大多数流行项目并不显著优于学校正在开展的常态教学（business as usual），这一信息极具价值；而缺乏干预影响恰恰可能反映了常态教学本身的高质量。（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）
 >
-> *In addition, it is essential that the [[What Works Movement]] is not only able to say what does work but also what does not, as resources spent on ineffective practices could be better used elsewhere. The message that few popular programs available to schools are better than what schools are already doing (business as usual) is useful. What is even more valuable is to reflect on why only a few programs generate positive effects... as the lack of intervention impacts may reflect high-quality teaching practice.*
+> *In addition, it is essential that the [[What Works Movement]] is not only able to say what does work but also what does not, as resources spent on ineffective practices could be better used elsewhere. The message that few popular programs available to schools are better than what schools are already doing (business as usual) is useful. What is even more valuable is to reflect on why only a few programs generate positive effects... as the lack of intervention impacts may reflect high-[[New Zealand Quality Teaching Strategy|quality teaching]] practice.*
 
 > [!citation-card|notitle] [[Ton de Jong|德容]]等论真实学校常态直接讲授的深厚熟练基线
 > 直接教学倡导者批评宏观课程实验缺乏干净的实验室对照组且存在教师培训等额外混杂[[Variable\|变量]]。然而，在真实学校常态教学（Business as Usual）中，对照组教师实施传统直接讲授多年、经验丰富，学生对传统讲授规程亦已高度适应；因此，在真实学校环境中探究课程若能打平或击败这一深厚熟练的常态对照基线，其循证效力与[[Ecological Validity\|生态效度]]更为坚实。（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 6]]）
@@ -153,7 +153,7 @@ updated: 2026-11-06
 ---
 
 > [!concept-proposition] 命题一｜缺乏显著正效应往往映射常态教学的高质量基线而非干预绝对无效
-> **认识论地位与效度基准维度** 探讨教育实验中微弱[[Effect Size\|效应量]]的实质归因，破除将“未超越常态教学”简单等同于“干预毫无价值”的技术主义偏见。
+> **[[Epistemology|认识论]]地位与效度基准维度** 探讨教育实验中微弱[[Effect Size\|效应量]]的实质归因，破除将“未超越常态教学”简单等同于“干预毫无价值”的技术主义偏见。
 
 > [!claim] Edovald, K. & Nevill, C.
 > **常态教学高基线认识论与无效证据的[[Public Value|公共价值]]** 在大规模教育现场试验中，绝大多数流行干预方案仅产生微弱的[[Effect Size\|效应量]]（如英美 141 项 [[Randomised Controlled Trials\|RCT]] 中位效应量仅 $d = 0.06$），甚至未能显著超越对照组。传统的[[Deficiencies Model for an Introduction\|缺陷模型]]常将此归咎于干预设计失败或试验无信息量；然而，在成熟的公共教育体系中，这一微弱净效应实质反映出学校日常开展的常态教学本身已具备相当高的专业成熟度与教学质量。评估结论必须客观界定为“该干预未能胜过一个极高水准的对照基准”，而非干预在绝对意义上毫无功效。向决策者证明何种流行方案无法击败常态教学，对于保护公共财政免受商业营销绑架具有决定性的治理价值。（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 56–57]]）

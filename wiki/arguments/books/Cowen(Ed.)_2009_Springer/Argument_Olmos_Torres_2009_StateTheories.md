@@ -47,6 +47,7 @@ related_concepts:
   - "[[Pedagogical Subject]]"
   - "[[Selective Affinity]]"
   - "[[Development Education]]"
+  - "[[Transnational Education]]"
   - "[[Import Substitution Industrialisation]]"
   - "[[Educational Level]]"
   - "[[Policy Conditionalities]]"
@@ -109,14 +110,14 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-28
-updated: 2026-10-30
+updated: 2026-11-11
 subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Olmos_Torres_2009_StateTheories"
 argument_key: "Argument_Olmos_Torres_2009_StateTheories"
 argument_display_title: "Theories of the state, educational expansion, development, and globalizations: Marxian and critical approaches"
 argument_kind: "book-chapter"
-argument_related_count: 77
+argument_related_count: 78
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -293,7 +294,7 @@ issuing_organization: ""
 > - **将政策条件与贷款直接捆绑**
 >   无论受援国面临何种社会现实，世界银行贷款部门一律将私有化、收取学费与缩减公费师资作为放贷的强制前提。
 > - **顺应跨国垄断资本诉求**
->   其政策导向与美国大企业利益集团高度一致，旨在压低外围国家公共教育支出，并为跨国教育资本开辟新市场。
+>   其政策导向与美国大企业利益集团高度一致，旨在压低外围国家公共教育支出，并为[[Transnational Education|跨国教育]]资本开辟新市场。
 
 ---
 

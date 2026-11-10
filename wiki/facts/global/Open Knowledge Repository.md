@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Epistemic Governance]]"
 related_facts:
   - "[[World Bank]]"
+  - "[[Google Scholar]]"
   - "[[Skills Toward Employment and Productivity]]"
   - "[[Development Economics Vice Presidency]]"
   - "[[CORE Education]]"
@@ -52,7 +53,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 # Open Knowledge Repository
@@ -80,7 +81,7 @@ updated: 2026-10-29
 
 > [!policy-design] 方案设计
 > - **开放许可协议标准化** 全面采纳知识共享许可协议（Creative Commons Attribution, CC BY 3.0 IGO），法律上授权任何用户免费下载、复制、翻译、传播与再利用世行研究，大幅降低知识在主权国家转译的交易成本。
-> - **开放互操作元数据框架** 严格遵循都柏林核心（Dublin Core）元数据规范与开放[[Document|文献]]归档倡议（OAI-PMH），使平台与 RePEc、SSRN、Google Scholar 等全球主流学术索引自动同步索引。
+> - **开放互操作元数据框架** 严格遵循都柏林核心（Dublin Core）元数据规范与开放[[Document|文献]]归档倡议（OAI-PMH），使平台与 RePEc、SSRN、[[Google Scholar]] 等全球主流学术索引自动同步索引。
 > - **文献分类与多维矩阵** 设立 10 大核心类别与 484 个细分子类，全面回溯收录自 1980 年代以来的同行评议成果，其中教育领域是平台收录文献量最大的单一专门部门。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 6)]]
 > - **强制自归档制度机制** 建立全行统一指令，要求世行员工及外聘学术顾问开展的所有受资助课题，在发表后必须无条件向 OKR 上传终版全文。
 

@@ -8,7 +8,7 @@ aliases:
 summary: "马丁·怀特将国际关系思想归纳为现实主义（马基雅维利）、理性主义（格劳秀斯）和革命主义（康德）三大传统，分别以权力、权威和武力为核心概念，克莱里德斯将其引入比较教育以解构学科的注意力议程与知识生产"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 45
+theory_related_count: 47
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Paradigm]]"
+  - "[[Transnational Education]]"
   - "[[Revolutionism]]"
   - "[[Agendas of Attention]]"
   - "[[Realism in International Relations]]"
@@ -37,6 +38,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Reference Society]]"
   - "[[Policy Entrepreneur]]"
+  - "[[Nationalism]]"
   - "[[Global Citizenship]]"
   - "[[Educated Identity]]"
   - "[[Re-Westernisation]]"
@@ -70,13 +72,13 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
 
 > [!theory-position] 理论定位
-> - **解释对象** 比较教育的学科发展史、学术体制建制、[[Policy Borrowing\|政策借用]]与流动的分析[[Paradigm\|范式]]以及跨国教育治理网络。
+> - **解释对象** 比较教育的学科发展史、学术体制建制、[[Policy Borrowing\|政策借用]]与流动的分析[[Paradigm\|范式]]以及[[Transnational Education|跨国教育]]治理网络。
 > - **理论问题** 探讨比较教育中“政策借用与情境理解”、“技术治理与批判解放”等核心争论的底层政治哲学根源，回应学科在国家权力、殖民扩张和新自由主义治理下的无意识共谋。
 > - **理论类型** 国际关系理论框架、分析视角与批判范式。
 > - **知识位置** 国际关系学派中的英国学派奠基性理论，由马丁·怀特于 1950 年代末提出，并由赫德利·布尔等继承；后由[[Eleftherios Klerides\|克莱里德斯]]于 2023 年系统性地移植并发展于比较教育领域。
@@ -127,7 +129,7 @@ updated: 2026-10-22
 >   > [!evidence-grid]- 证据
 >   > - **远处治理与基准测试** 诺沃亚与雅里夫-马沙尔指出，多边组织广泛使用的基准测试和数据评估不仅仅是研究方法，更是在科学客观性名义下推行远处治理的政治手段 (p. 425)。
 >   > - **多行动者网络** 经合组织、世界银行、非政府组织、私营商业巨头和[[Policy Entrepreneur\|政策企业家]]相互交织，促成了全球[[Policy Mobility\|政策流动]]的标准化。
-> - **前提二** 比较作为消除历史教科书中歪曲与刻板印象的制度手段，能够服务于超越民族主义的“国际心智”，从而推动和平政治。
+> - **前提二** 比较作为消除历史教科书中歪曲与刻板印象的制度手段，能够服务于超越[[Nationalism|民族主义]]的“国际心智”，从而推动和平政治。
 >   > [!evidence-grid]- 证据
 >   > - **国际理解与学术建制** 两次世界大战之间国际联盟的国际知识合作组织和北欧协会通过教科书修改消除偏见；二战后劳维斯及[[Comparative Education Society in Europe\|欧洲比较教育学会]]致力于国际理解与民主化改革的学术建制 (p. 424)。
 >   > - **身份多元性重构** 跨国机构倡导超越单一民族文化受教育者定义的“[[Global Citizenship\|全球公民]]”与跨文化[[Educated Identity\|受教育身份]]，关注道德、人权与生态关怀。

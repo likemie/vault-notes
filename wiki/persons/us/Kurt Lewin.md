@@ -8,7 +8,7 @@ summary: "社会心理学创始人之一、行动研究的奠基人，提出群�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
   - region/us
   - region/germany
 related_concepts:
+  - "[[Eget Arbete]]"
   - "[[Champ]]"
   - "[[Gatekeepers]]"
   - "[[Teacher-as-Researcher]]"
@@ -41,7 +42,7 @@ related_arguments:
 related_persons: []
 status: draft
 created: 2026-07-18
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -54,7 +55,7 @@ updated: 2026-10-22
 > [!citation-card] 人物定位的关键来源
 > 勒温本人的工作（行动研究奠基人之一）旨在改变弱势群体在住房、就业、偏见、社会化与培训方面的生活机会。行动与研究的结合使其对研究者、教师以及学术和教育共同体具有吸引力。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, p. 263)]]
 >
-> *Kurt Lewin's own work (one of action research's founding fathers) was deliberately intended to change the life chances of disadvantaged groups in terms of housing, employment, prejudice, socialization and training.*
+> *Kurt Lewin's [[Eget Arbete|own work]] (one of action research's founding fathers) was deliberately intended to change the life chances of disadvantaged groups in terms of housing, employment, prejudice, socialization and training.*
 
 ---
 

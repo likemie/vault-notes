@@ -7,7 +7,7 @@ aliases:
 summary: "约翰·威廉姆森于1989年提出的宏观经济改革准则，最初由华盛顿多边金融机构与美国政策圈达成，聚焦财政赤字控制、公共开支重构、税制改革与贸易自由化；后渗透至多边开发银行教育借贷，衍生出涵盖循证政策、成本核算、量化指标、效率优先、精英择优、市场竞争、取消补贴与私有化的审查信条，但在官僚放贷实践中常陷入形式主义合规。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 34
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -34,11 +34,13 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[South-South Cooperation]]"
   - "[[Geopolitics]]"
+  - "[[Quasi-market]]"
   - "[[People-to-People Connectivity]]"
   - "[[Policy Brokerage]]"
   - "[[Emergence]]"
   - "[[International Education]]"
   - "[[Discourse]]"
+  - "[[Study Abroad]]"
   - "[[Education Going Global]]"
   - "[[Shadow State]]"
 related_theories:
@@ -62,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -156,7 +158,7 @@ updated: 2026-11-03
 > **[[Geopolitics|地缘政治]]经济与高教治理范式分野** 探讨华盛顿共识所代表的新自由主义市场化模式在发展中国家的合法性危机，以及基于国家战略主导与[[South-South Cooperation|南南合作]]的替代性模式的兴起。
 
 > [!claim] [[Argument_Woo_2023_HEP|Woo (2023)]]
-> **华盛顿共识失灵与替代性高教治理范式的兴起** 在发展中国家面临债务紧缩、[[Educational Privatisation|教育私有化]]与不平等加剧的背景下，以华盛顿共识为基底的西方传统高等教育模式（将高教视为出口创汇准市场、依托大学自治与自由主义价值观）遭遇了普遍的合法性危机。以中国为代表的发展型国家推进了基于新时代外交哲学的替代方案：国家将跨境高等教育确立为推进地缘经济合作、国家实力输出与[[People-to-People Connectivity|民心相通]]的战略公共工具；依托政府间大型基建带动、定向提供全额政府奖学金并输出治国理政经验。这一替代模式摆脱了西方新自由主义的市场化牟利导向，为全球南方提供了一种将教育深度融入国家工业化与基础设施现代化的全新治理选择。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 688–691)]]
+> **华盛顿共识失灵与替代性高教治理范式的兴起** 在发展中国家面临债务紧缩、[[Educational Privatisation|教育私有化]]与不平等加剧的背景下，以华盛顿共识为基底的西方传统高等教育模式（将高教视为出口创汇[[Quasi-market|准市场]]、依托大学自治与自由主义价值观）遭遇了普遍的合法性危机。以中国为代表的发展型国家推进了基于新时代外交哲学的替代方案：国家将跨境高等教育确立为推进地缘经济合作、国家实力输出与[[People-to-People Connectivity|民心相通]]的战略公共工具；依托政府间大型基建带动、定向提供全额政府奖学金并输出治国理政经验。这一替代模式摆脱了西方新自由主义的市场化牟利导向，为全球南方提供了一种将教育深度融入国家工业化与基础设施现代化的全新治理选择。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 688–691)]]
 
 ---
 
@@ -196,7 +198,7 @@ updated: 2026-11-03
 > > [!axis] 市场化创汇出口 vs 发展型国家公共协同
 > > 比较教育治理视域中，探讨高等教育应采取基于华盛顿共识的新自由主义产业化出口模式，还是遵循基于发展型国家的跨国公共服务与基础设施配套模式。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 689–690)]]
 > >
-> > - **新自由主义出口模式** 倡导高校作为自负盈亏的市场主体，利用留学生高昂学费实现教育服务产业盈利。
+> > - **新自由主义出口模式** 倡导高校作为自负盈亏的市场主体，利用[[Study Abroad|留学]]生高昂学费实现教育服务产业盈利。
 > > - **发展型国家公共模式** 主张[[Education Going Global|教育出海]]服从国家总体发展战略，通过公费资助与基础设施绑定输出技术与治理经验。
 
 > [!warning] 适用局限

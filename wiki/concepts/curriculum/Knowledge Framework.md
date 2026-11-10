@@ -6,7 +6,7 @@ aliases:
 summary: "IB 知识论课程中用于系统考察和比较知识领域的五维分析工具，涵盖范围与应用、概念语言、知识生产方法、历史发展及个人知识互动。"
 type: concept
 domain: "curriculum"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Ways of Knowing]]"
   - "[[Knowledge Questions]]"
+  - "[[Curriculum Connection]]"
   - "[[Epistemology]]"
   - "[[Construct Validity]]"
   - "[[Construct]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-04
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -118,7 +119,7 @@ updated: 2026-11-03
 > **五维比较结构** 2013 年指南要求从范围与应用、概念语言、知识生产方法、历史发展及个人知识互动考察选定领域。这些维度把领域比较从名称并列推进到结构分析，使学生能够追问不同领域如何形成问题、证据和正当化标准。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 36)]]
 
 > [!concept-proposition] 命题二｜知识框架通过领域材料发展[[Knowledge Questions|知识问题]]，并连接课程结构与跨学科论证
-> **课程连接** 知识框架位于[[Knowledge Questions\|知识问题]]与[[Areas of Knowledge\|知识领域]]之间。它把开放的一般问题落实到领域的概念、方法和历史材料，再支持文章中的跨学科论证。
+> **[[Curriculum Connection|课程连接]]** 知识框架位于[[Knowledge Questions\|知识问题]]与[[Areas of Knowledge\|知识领域]]之间。它把开放的一般问题落实到领域的概念、方法和历史材料，再支持文章中的跨学科论证。
 
 > [!claim] Hughes, C.
 > **从[[Domain Analysis\|领域分析]]到论证** 规定题目文章要求处理跨学科知识问题，并允许学生调用课程任何部分。知识框架为比较知识领域提供统一结构，使学生能够围绕不同观点、真实实例和反主张发展论证。框架由此连接课程大纲与评估输出。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 36, 38–40)]]

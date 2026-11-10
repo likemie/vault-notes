@@ -7,7 +7,7 @@ summary: "瑞典于默奥大学应用教育学系教育工作学教授，欧洲�
 type: person
 nationality: sweden
 person_region: "sweden"
-person_related_count: 23
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[Ideational Power]]"
   - "[[Discourse]]"
+  - "[[Transnational Education]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Champ]]"
   - "[[Subsidiarity Principle]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-28
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-10-30
 > - **1990 年代末** 获得罗德学者资助赴英国牛津大学攻读博士学位，师从比较教育政策名家，于 1999 年完成教育政策与学校治理主题的博士学位研究。
 > - **2001 年** 发表方法论专论《制度情境中的政策执行研究：访谈数据分析》，确立将微观[[Elite Interview|精英访谈]]材料置于宏观制度科层脉络中进行结构化解读的分析规程。
 > - **2006–2011 年** 执教于英国基尔大学教育学院任高级讲师，与贝蒂娜·兰格（Bettina Lange）展开密集合作，针对欧盟教育开放协调法推出一系列奠基性成果。
-> - **2011 年至今** 加盟瑞典于默奥大学任全职正教授，领衔创建 PEPP 政策研究团队，持续主持欧洲多国跨国教育治理、[[Internationalization of Higher Education|高等教育国际化]]、教师教育与市场化改革等大型研究项目。
+> - **2011 年至今** 加盟瑞典于默奥大学任全职正教授，领衔创建 PEPP 政策研究团队，持续主持欧洲多国[[Transnational Education|跨国教育]]治理、[[Internationalization of Higher Education|高等教育国际化]]、教师教育与市场化改革等大型研究项目。
 > - **2023 年** 与哈维尔·兰布拉（Xavier Rambla）在《欧洲教育研究杂志》发表欧洲教育区政治建构实证力作，引入理念权力三元模型系统解构超国家政策协商过程。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 852–869)]]
 
 ---

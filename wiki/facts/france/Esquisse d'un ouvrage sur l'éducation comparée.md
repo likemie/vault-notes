@@ -15,7 +15,7 @@ subtype: policy
 region: france
 fact_region: "france"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -48,6 +48,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Marc-Antoine Jullien]]"
+  - "[[Francis Bacon]]"
   - "[[Johann Heinrich Pestalozzi]]"
   - "[[Jean Piaget]]"
   - "[[Victor Cousin]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -71,7 +72,7 @@ updated: 2026-10-30
 > - **发布时间 / 作者背景** 1816 年底至 1817 年初由法国启蒙自由主义学者、前雅各宾派国民公会战地记者[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris, 1775–1848）在巴黎初等教育协会主办的《教育学报》（*Journal d'éducation*）上分期连载发表，并印发单行本独立发行。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11, 13)]]
 > - **适用地区 / 调查对象** 理论上辐射全欧洲所有文明国家，朱利安首期拟以瑞士联邦 22 个州作为第一阶段实地[[Questionnaire\|问卷]]调研与实证分类的试点区域。面向欧洲各国教育行政官员、学校创办人、师范教师以及启蒙知识精英。（pp. 14, 21; Fraser, 1964:45）
 > - **问题背景** 拿破仑战争的废墟与波旁复辟后的社会撕裂使欧洲深陷道德迷茫与政治动荡。朱利安痛感欧洲各国的初等与中等教育“残缺不全、彼此割裂、缺乏调和，与学生肉体、道德和智力发展的协调秩序脱节”；他认为频仍的流血革命与战争是道德败坏与教育缺陷的恶果，唯有通过科学系统的教育改良才能奠定真正的和平社会基石。（pp. 13–14, 19; Fraser, 1964:35）
-> - **制度位置与学科史定位** 比较教育学诞生的标志性界标；朱利安首次明确提出以培根经验归纳法与居维叶比较解剖学为典范的“准实证科学”（*science positive*）设想，设计了人类教育史上首套标准化跨国调查问卷，并最早勾勒出兼具国际常设机构与信息通报网络的国际教育治理机制。（pp. 11–14, 20–22）
+> - **制度位置与学科史定位** 比较教育学诞生的标志性界标；朱利安首次明确提出以[[Francis Bacon|培根]]经验归纳法与居维叶比较解剖学为典范的“准实证科学”（*science positive*）设想，设计了人类教育史上首套标准化跨国调查问卷，并最早勾勒出兼具国际常设机构与信息通报网络的国际教育治理机制。（pp. 11–14, 20–22）
 
 ---
 

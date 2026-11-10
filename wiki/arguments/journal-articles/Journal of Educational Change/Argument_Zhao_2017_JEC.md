@@ -49,7 +49,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: 2026-10-30
+updated: 2026-11-11
 year: 2017
 doi: ""
 citation_aliases:
@@ -57,7 +57,7 @@ citation_aliases:
   - "Zhao (2017)"
 ---
 > [!info] [[Research Question\|研究问题]]
-> 教育研究从医学借鉴了 [[Randomised Controlled Trials\|RCT]] 等研究方法，但忽略了医学中一个更重要的教训：**副作用（[[Side Effects]]）的研究与报告**。教育研究只关注"什么有效"，忽略了"什么有效可能同时有害"（what works may hurt）。论文试图证明：副作用与效果不可分离——两者是同一干预的双重结果。
+> 教育研究从医学借鉴了 [[Randomised Controlled Trials\|RCT]] 等研究方法，但忽略了医学中一个更重要的教训：**[[Side Effects|副作用]]（[[Side Effects]]）的研究与报告**。教育研究只关注"什么有效"，忽略了"什么有效可能同时有害"（what works may hurt）。论文试图证明：副作用与效果不可分离——两者是同一干预的双重结果。
 
 > [!abstract] 理论框架
 > 以医学研究为类比框架：FDA 要求新药研发必须同时报告有效性和不良事件，[[Clinical Trial\|临床试验]]和上市后监测均需持续跟踪副作用。教育研究既无此信念，也无此要求。

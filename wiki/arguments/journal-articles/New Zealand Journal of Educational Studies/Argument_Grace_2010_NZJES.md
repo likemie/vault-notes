@@ -24,6 +24,7 @@ related_concepts:
   - "[[Educational Reductionism]]"
   - "[[Academic Freedom]]"
   - "[[New Managerialism]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Document]]"
   - "[[Value Neutrality]]"
   - "[[Class Size]]"
@@ -52,14 +53,14 @@ sources:
 part_of: ""
 status: completed
 created: '2026-05-07'
-updated: 2026-10-30
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Grace_2010_NZJES"
 argument_key: "Argument_Grace_2010_NZJES"
 argument_display_title: "Reflection on the university and the academic as 'critic and conscience of society'"
 argument_kind: "journal-article"
-argument_related_count: 22
+argument_related_count: 23
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -90,7 +91,7 @@ journal: New Zealand Journal of Educational Studies
 > | **阶级现实主义与方差分解**<br>[[Roy Nash\|Nash's Social Class Realism]] | [[Roy Nash\|罗伊·纳什]]（Roy Nash）关于新西兰社会阶级与学业差距的批判实在论分析，强调非学校因素是理解教育成就与现实政策倡议的基石。 |
 
 > [!warrant]- 理论如何支撑论证
-> 格雷斯以制度思想史亲历者身份，将新西兰法律中的法定概念锚定于防范大学被政治与财政利益殖民的权力制衡本质；进而借助伯恩斯坦与纳什的结构社会学洞见，论证教育成就差异深刻依存于社会外部结构，超越了孤立的学校教学范畴。两重理论透镜相互咬合，确立了判定学者是否履行该角色的规范标准：[[Analytic Framework|分析框架]]中是否对形塑生活机会的社会经济结构保持敏感。
+> 格雷斯以制度思想史亲历者身份，将新西兰法律中的法定概念锚定于防范大学被政治与财政利益殖民的权力制衡本质；进而借助伯恩斯坦与纳什的结构社会学洞见，论证教育成就差异深刻依存于社会外部结构，超越了孤立的学校教学范畴。两重[[Theoretical Standpoint|理论透镜]]相互咬合，确立了判定学者是否履行该角色的规范标准：[[Analytic Framework|分析框架]]中是否对形塑生活机会的社会经济结构保持敏感。
 
 ---
 

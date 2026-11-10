@@ -3,7 +3,7 @@ summary: "Santos and Silova (2026) 借助危机认识论与去殖民视角，深
 type: argument
 authors:
   - "Santos, Í."
-  - "Silova, I."
+  - "[[Iveta Silova|Silova, I.]]"
 source_language: en
 citation: "Santos, Í., & Silova, I. (2026). From Finland to the world: Interrogating the global learning crisis. Discourse: Studies in the Cultural Politics of Education, 47(5), 669–681. https://doi.org/10.1080/01596306.2025.2567656"
 year: 2026
@@ -33,23 +33,26 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Crisis Epistemology]]"
   - "[[White Saviour Mentality]]"
+  - "[[Epistemology]]"
   - "[[State Educational Sovereignty]]"
-  - "[[Geopolitics]]"
   - "[[Developmentalism]]"
+  - "[[Aid Volatility in Education]]"
+  - "[[Knowledge Co-production]]"
+  - "[[Geopolitics]]"
   - "[[Deficit Framing]]"
   - "[[Policy Borrowing]]"
   - "[[Contributory Expertise]]"
+  - "[[Politics of Knowledge]]"
   - "[[Informed Consent]]"
   - "[[Reflexivity]]"
   - "[[Commensuration]]"
   - "[[Foundational Literacy and Numeracy]]"
-  - "[[Screening Off]]"
+  - "[[School Leadership]]"
+  - "[[Cultural Validity]]"
   - "[[Paradigm]]"
+  - "[[Social-Emotional Learning]]"
   - "[[Normal School]]"
   - "[[Effective Teaching]]"
-  - "[[Aid Volatility in Education]]"
-  - "[[Construct]]"
-  - "[[Flow]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods:
@@ -62,8 +65,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Iveta Silova]]"
-  - "[[Arturo Escobar]]"
-  - "[[Walter Mignolo]]"
   - "[[Philip H. Coombs]]"
   - "[[Aaron Benavot]]"
 related_facts:
@@ -71,12 +72,11 @@ related_facts:
   - "[[UNICEF]]"
   - "[[World Bank]]"
   - "[[PISA]]"
+  - "[[Transforming Education Summit 2022]]"
   - "[[Sputnik Shock 1957]]"
   - "[[Education for All]]"
   - "[[Millennium Development Goals]]"
   - "[[Global Education Monitoring Report]]"
-  - "[[World Development Report 2018]]"
-  - "[[Transforming Education Summit 2022]]"
   - "[[UN Sustainable Development Goals]]"
 related_arguments: []
 sources:
@@ -84,7 +84,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Santos_Silova_2026_Discourse"
@@ -104,12 +104,12 @@ journal: "Discourse: Studies in the Cultural Politics of Education"
 > 国际组织如何通过建构[[Learning Crisis|全球学习危机]][[Discourse|话语]]来确立自身的专业权威并指引国际发展援助？联合国秘书长安东尼奥·古特雷斯（António Guterres）在 2020 年将教育赞颂为推动个人发展与包容社会的根本动力，却在 2022 年警示教育正深陷危机并脱离时代需求，这种深层悖论揭示了怎样的全球治理话语机制？受芬兰高信任与平等教育文化塑造的教育专家，如何在主流跨国机构内部审视并反思由西方主导的治理权力结构？
 
 > [!claim] 核心主张
-> 全球教育政策话语中被普遍援引的[[Learning Crisis|全球学习危机]]，实质上是植根于全球权力不对称与依附结构中的国际发展危机。国际组织借助[[Crisis Epistemology|危机认识论]]将系统性历史不平等降维为短效、技术化且脱离情境的补救项目，依托[[White Saviour Mentality|白人救世主心态]]与大进大出的外来援助强化受援国对外部专家的依附，压制了全球南方的本土认识论与[[State Educational Sovereignty|国家教育主权]]。
+> 全球教育政策话语中被普遍援引的[[Learning Crisis|全球学习危机]]，实质上是植根于全球权力不对称与依附结构中的国际发展危机。国际组织借助[[Crisis Epistemology|危机认识论]]将系统性历史不平等降维为短效、技术化且脱离情境的补救项目，依托[[White Saviour Mentality|白人救世主心态]]与大进大出的外来援助强化受援国对外部专家的依附，压制了全球南方的本土[[Epistemology|认识论]]与[[State Educational Sovereignty|国家教育主权]]。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 在[[UNESCO|联合国教科文组织]]、[[UNICEF|联合国儿童基金会]]与[[World Bank|世界银行]]拥有专业任职经历的 23 位芬兰教育专家，以及相关国际组织公开政策报告与通讯文本。
-> - **张力** 国际组织倡导的普世量化基准与短期技术修补，同受援国深层结构性资源匮乏、教师长期专业培育及本土教育生态之间的尖锐断裂；芬兰专家持守的高信任教育理念同国际机构自上而下发展主义规训之间的认识论博弈。
-> - **贡献** 将凯尔·怀特（Kyle Whyte）的危机认识论与去殖民批判引入全球教育治理分析，从国际组织内部专家视角穿透学习危机叙事的归因外在化策略，揭示救世主心态与外援波动性对[[State Educational Sovereignty|国家教育主权]]的侵蚀，提出转向受援国主导的双向知识共创。
+> - **张力** 国际组织倡导的普世量化基准与短期技术修补，同受援国深层结构性资源匮乏、教师长期专业培育及本土教育生态之间的尖锐断裂；芬兰专家持守的高信任教育理念同国际机构自上而下[[Developmentalism|发展主义]]规训之间的认识论博弈。
+> - **贡献** 将凯尔·怀特（Kyle Whyte）的危机认识论与去殖民批判引入全球教育治理分析，从国际组织内部专家视角穿透学习危机叙事的归因外在化策略，揭示救世主心态与[[Aid Volatility in Education|外援波动性]]对[[State Educational Sovereignty|国家教育主权]]的侵蚀，提出转向受援国主导的双向[[Knowledge Co-production|知识共创]]。
 
 ---
 
@@ -123,7 +123,7 @@ journal: "Discourse: Studies in the Cultural Politics of Education"
 > | **[[Contributory Expertise\|贡献性专业知识]]**<br>Contributory Expertise | 区分理论规范与实践默会技能，用于锚定芬兰专家兼具机构内部实务与芬兰高信任教育传统的独特认识论位置。 |
 
 > [!warrant]- 理论如何支撑论证
-> 危机认识论搭建了从政策修辞通往权力审视的分析桥梁，穿透有学无习的表层赤字诊断，揭示国际组织将复杂政治经济问题窄化为技术漏洞的话语策略；去殖民视角（延续了[[Iveta Silova|伊薇塔·西洛娃]]在去殖民地缘知识政治与比较教育认识论批判中的一贯进路，并吸纳了[[Arturo Escobar|埃斯科瓦尔]]与[[Walter Mignolo|米尼奥罗]]对现代性/殖民性联动的阐释）则进一步将这种技术主义追溯至现代性与殖民性的权力共谋，解释了为何由西方主导的发展干预必然伴随救世主情结并剥夺受援国能动性；政策借用批判与赤字框架分析则解构了将芬兰等国奉为救世良方的话语虚妄，倡导从发展主义内部逆向反思（Silova et al., 2025）；贡献性专业知识则为挖掘芬兰专家口述材料的批判深度提供了合法性基础。
+> 危机认识论搭建了从政策修辞通往权力审视的分析桥梁，穿透有学无习的表层赤字诊断，揭示国际组织将复杂政治经济问题窄化为技术漏洞的话语策略；去殖民视角（延续了[[Iveta Silova|伊薇塔·西洛娃]]在去殖民地缘[[Politics of Knowledge|知识政治]]与比较教育认识论批判中的一贯进路，并吸纳了埃斯科瓦尔与米尼奥罗对现代性/殖民性联动的阐释）则进一步将这种技术主义追溯至现代性与殖民性的权力共谋，解释了为何由西方主导的发展干预必然伴随救世主情结并剥夺受援国能动性；政策借用批判与赤字框架分析则解构了将芬兰等国奉为救世良方的话语虚妄，倡导从发展主义内部逆向反思（Silova et al., 2025）；贡献性专业知识则为挖掘芬兰专家口述材料的批判深度提供了合法性基础。
 
 ---
 
@@ -141,7 +141,7 @@ journal: "Discourse: Studies in the Cultural Politics of Education"
 > | **样本选择动因** | 芬兰教育系统凭借[[PISA]]顶尖表现、高信任文化、教师研究生化培养以及无全国统一测验而闻名全球，长期被多边机构打造成全球教育发展的标杆品牌（Reinikka et al., 2018）。这种背景使芬兰专家兼具国际机构内部实务经验与对外部强加指标的敏锐审视视角。 |
 > | **抽样策略与伦理** | 样本初始由芬兰外交部在[[Informed Consent\|知情同意]]下提供候选名单，后续通过[[Snowball Sampling\|滚雪球抽样]]拓展；鉴于芬兰该领域专家群体较小，严格执行匿名化处理。 |
 > | **文本材料范围** | 涵盖联合国、教科文组织、儿童基金会及世界银行自 1968 年以来关于全球教育危机、学习危机与学习贫困的代表性政策报告。 |
-> | **调查情境与立场** | 桑托斯（Íris Santos）与西洛娃（Iveta Silova）虽在芬兰高校开展研究，但均非芬兰公民，在开展访谈前与受访专家不存在既有个人关联，确保了调查视角的批判反思性。 |
+> | **调查情境与立场** | 桑托斯（Íris Santos）与西洛娃（Iveta Silova）虽在芬兰高校开展研究，但均非芬兰公民，在开展访谈前与受访专家不存在既有个人关联，确保了调查视角的批判[[Reflexivity\|反思性]]。 |
 
 ---
 
@@ -182,29 +182,29 @@ journal: "Discourse: Studies in the Cultural Politics of Education"
 > - **量化及格线的通约** 将复杂的育人过程裁剪为小学低年级基础读写与计算测验，借用西方通用的量化及格线替代多元教育成效评价。
 
 > [!critique-logic] 国际组织对危机成因的双重归因机制与责任外在化
-> - **直接原因的微观化归因** 国际组织将危机直接归咎于借款国教育系统投入不足、师资筹备缺乏、儿童学习就绪度匮乏、学校领导力低下、教材缺乏文化适切性以及技术设备短缺（UNESCO, 2013, 2014; World Bank, 2018）。
+> - **直接原因的微观化归因** 国际组织将危机直接归咎于借款国教育系统投入不足、师资筹备缺乏、儿童学习就绪度匮乏、[[School Leadership|学校领导力]]低下、教材缺乏[[Cultural Validity|文化适切性]]以及技术设备短缺（UNESCO, 2013, 2014; World Bank, 2018）。
 > - **间接原因的外部推诿** 将外部环境制约归结为贫困家庭面临的健康、营养与人身安全赤字，长途通勤困难以及社会政治动荡（Friedlander et al., 2019; UNESCO, 2013）。
 > - **归因外在化的遮蔽效应** 这种诊断将所有矛盾归处于受援国自身管理不善或“全球南方能力不足”，同时将全球北方（特别是芬兰）包装为普遍效仿的救世典范，彻底回避了国际组织自身干预实践与地缘政治层级对不平等的固化。
 
-> [!timeline] 历史危机叙事机制的制度化演进：从 1968 年威廉斯堡到 2022 年教育变革峰会
+> [!timeline] 历史危机叙事机制的制度化演进：从 1968 年威廉斯堡到 2022 年[[Transforming Education Summit 2022|教育变革峰会]]
 > - **1948 年** 《世界人权宣言》将教育确立为普遍基本人权。
 > - **1957 年** 苏联发射首颗人造地球卫星（[[Sputnik Shock 1957|Sputnik]] 1）促使冷战地缘博弈将教育绩效同国家安全紧密绑定，人道主义理想逐步退让于技术官僚目标。
 > - **1967–1968 年** [[Philip H. Coombs|菲利普·库姆斯]]（Coombs, 1968）在弗吉尼亚州威廉斯堡召集世界教育危机国际会议，随后出版《世界教育危机：系统分析》（*The World Educational Crisis: A Systems Analysis*），将危机认知与跨国协调治理正式制度化。
 > - **1990 年与 2000 年** 宗甸（Jomtien）[[Education for All|全民教育]]大会与达喀尔世界教育论坛在[[Millennium Development Goals|千年发展目标]]（Millennium Development Goals, MDGs）推动下全力追求普遍初等教育入学率。
-> - **2013–2019 年** 伴随就学人口暴增，联合国教科文组织《[[Global Education Monitoring Report|全民教育全球监测报告]] 2013/2014》正式启用全球学习危机概念，世界银行《[[World Development Report 2018|2018 年世界发展报告]]》确立有就学无学习断言，并于 2019 年联合推出学习贫困指标。
+> - **2013–2019 年** 伴随就学人口暴增，联合国教科文组织《[[Global Education Monitoring Report|全民教育全球监测报告]] 2013/2014》正式启用全球学习危机概念，世界银行《2018 年世界发展报告》确立有就学无学习断言，并于 2019 年联合推出学习贫困指标。
 > - **2022 年** 在[[Transforming Education Summit 2022|联合国教育变革峰会]]上，古特雷斯再次警示全球教育深陷危机并难以适应 21 世纪需求，使危机叙事持续充当调配资源与启动外部干预的关键政策工具。
 
 ---
 
 > [!sub-claim] 2. 突发危机叙事抹平了受援国贫困的殖民历史根源
 
-> [!critique] 危机认识论的去历史化[[Screening Off|遮蔽]]机制
+> [!critique] 危机认识论的去历史化遮蔽机制
 > - **紧迫性氛围制造** 运用危机认识论（Whyte, 2021）制造刻不容缓的紧急状态，将深层制度沉疴降维为依赖外部专家方案的技术故障。
-> - **历史掠夺责任转嫁** 正如去殖民学者（[[Arturo Escobar|Escobar]], 2011; [[Walter Mignolo|Mignolo]], 2011）所批判，去历史化话语系统性过滤了殖民掠夺与全球不平等分工对受援国公共财政的长期损耗，把历史遗留下来的贫困根源轻描淡写为受援国自身管理不善。
+> - **历史掠夺责任转嫁** 正如去殖民学者（Escobar, 2011; Mignolo, 2011）所批判，去历史化话语系统性过滤了殖民掠夺与全球不平等分工对受援国公共财政的长期损耗，把历史遗留下来的贫困根源轻描淡写为受援国自身管理不善。
 
 > [!tension] 治理张力：普世量化基准 vs 本土文化与认识论主权
 > - **普世标准化测量立场（国际组织主流）** 强调教育差距侵犯受教育权，主张以可比的早期阅读与数学技能指标构建跨国监控网络，通过标准化数据驱动政策与资源问责。
-> - **情境化与去殖民立场（受访芬兰专家）** 警告以西方测试为[[Paradigm|范式]]的指标抹杀了非西方社会的口述传统与社区生活实践。正如[[Aaron Benavot|阿隆·贝纳沃特]]等学者（Benavot & Smith, 2020; Schweisfurth, 2022）所批评，过分聚焦基础技能与数字化测度，挤压了艺术修养、社会情感学习与母语情境。受访专家 ID3 指出，脱离地方脉络谈论抽象的全球危机毫无实质意义，不同社会情境下的危机内涵完全异质，必须重回本土协商与共识理解。
+> - **情境化与去殖民立场（受访芬兰专家）** 警告以西方测试为[[Paradigm|范式]]的指标抹杀了非西方社会的口述传统与社区生活实践。正如[[Aaron Benavot|阿隆·贝纳沃特]]等学者（Benavot & Smith, 2020; Schweisfurth, 2022）所批评，过分聚焦基础技能与数字化测度，挤压了艺术修养、[[Social-Emotional Learning|社会情感学习]]与母语情境。受访专家 ID3 指出，脱离地方脉络谈论抽象的全球危机毫无实质意义，不同社会情境下的危机内涵完全异质，必须重回本土协商与共识理解。
 
 ---
 
@@ -313,12 +313,12 @@ journal: "Discourse: Studies in the Cultural Politics of Education"
 > [!citation-card] 危机认识论的解构
 > 对学习危机的持续援引契合了怀特所谓的危机认识论。这一叙事策略将种种挑战建构为前所未有的紧急状态，进而要求采取即刻的、以方案为导向的应对举措。这种框架将国际组织定位为拥有应对教育系统性失败之专门知识与权威的不可或缺的行动者；然而，它往往掩盖了构成教育差距底色的历史与结构性条件，诸如殖民遗产、地缘政治层级以及经济不平等。
 >
-> *"The persistent invocation of the learning crisis aligns with what Whyte (2021) describes as 'crisis epistemology', a narrative strategy that [[Construct|constructs]] challenges as unprecedented emergencies necessitating immediate, solutions-oriented responses. This framing positions international organisations as indispensable actors with the expertise and authority to address systemic failures in education. Yet, it often obscures the historical and structural conditions – such as colonial legacies, geopolitical hierarchies, and economic inequities – that underpin educational disparities (Escobar, 2011; Mignolo, 2011)."*
+> *"The persistent invocation of the learning crisis aligns with what Whyte (2021) describes as 'crisis epistemology', a narrative strategy that constructs challenges as unprecedented emergencies necessitating immediate, solutions-oriented responses. This framing positions international organisations as indispensable actors with the expertise and authority to address systemic failures in education. Yet, it often obscures the historical and structural conditions – such as colonial legacies, geopolitical hierarchies, and economic inequities – that underpin educational disparities (Escobar, 2011; Mignolo, 2011)."*
 
 > [!citation-card] 国际援助撤退引发的系统性恶化
 > 假设某个学区突然获得一笔用于修建学校的现金流，但在该笔资助到位后，国家财政拨款随即中止，因为有了这项新的国际资助……这就产生了一种干预机制，它来了又走，甚至改变了国家对于自身在提供支持、长远支持乃至修路方面职能的认知；而当这笔资金戛然而止时，该社区或区域陷入的境况甚至比这笔资金注入之前更加糟糕。
 >
-> *"Say there is a sudden cash [[Flow|flow]] for the funding of schools in a certain district, where schools are needed, but then after the funding arrives, state funding halts because of course we have this new international funding, … so there's this dynamic where there is an intervention that may actually … sort of comes and goes and then may change the ways that the state sees their role in providing support or in long-term support or even in paving roads, and then when this funding then abruptly ends, the community or the area is left in a worse scenario than they were before the influx of this said funding."*
+> *"Say there is a sudden cash flow for the funding of schools in a certain district, where schools are needed, but then after the funding arrives, state funding halts because of course we have this new international funding, … so there's this dynamic where there is an intervention that may actually … sort of comes and goes and then may change the ways that the state sees their role in providing support or in long-term support or even in paving roads, and then when this funding then abruptly ends, the community or the area is left in a worse scenario than they were before the influx of this said funding."*
 
 > [!citation-card] 殖民式援助与白人救世主心态的反思
 > 有时那些组织进驻后自行操办事务，他们并不吸纳当地人，不改变结构，也不对该国人民进行培养，只是来为那个国家做事情，而当他们离去后，什么都没有留下……我认为这带有一点殖民色彩，也就是白人男性跑来提供建言与建议，然后径自离去。

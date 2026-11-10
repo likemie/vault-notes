@@ -5,7 +5,7 @@ aliases:
 summary: "由公共财政资助、私营非营利或营利机构依据专门契约自主运营的公办民营学校形态；以解除常规学区行政规制换取严格的学业绩效问责，但在多国实践中引发了关于公共责任流失、筛选偏误以及实际学业增值近乎为零的激烈争论。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[New Public Management]]"
   - "[[Paradigm]]"
+  - "[[Quasi-market]]"
   - "[[Endogenous Privatisation]]"
   - "[[School Vouchers]]"
   - "[[Public-Private Partnership]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -65,7 +66,7 @@ updated: 2026-11-03
 > 特许学校（Charter Schools），指由公共财政资助、由私营营利或非营利组织、社区团体或[[Educational Management Organisation|教育管理组织]]依据政府授权的特许合同（Charter）自主运营的独立公立学校形态。特许学校以解除传统学区行政科层规制（如教师编制、工会合同、课程设置与工时限制）为制度前提，承诺达成特定的[[Academic Achievement|学业成就]]指标与经营标准以换取办学资质；若未能达成约定绩效，特许授权机构有权撤销其合同或关闭学校。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 29–30)]]; [[Argument_Verger_2019_Discourse|(Verger et al., 2019)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 作为[[New Public Management|新公共管理]][[Paradigm|范式]]下的典型制度创新，通过公帑资助与民间运营分离，在公立教育系统内部引入准市场竞争与契约化问责。
+> - **含义** 作为[[New Public Management|新公共管理]][[Paradigm|范式]]下的典型制度创新，通过公帑资助与民间运营分离，在公立教育系统内部引入[[Quasi-market|准市场]]竞争与契约化问责。
 > - **用途** 帮助研究者透视公立教育的[[Endogenous Privatisation|内生私有化]]演进，分析非国家主体如何借助办学合同参与公共资源分配并重组基础教育治理结构。
 > - **边界** 特许学校在法律地位上仍属于免费接受公众入学的公立体系，区别于纯粹依赖家庭学费的私立独立学校；亦区别于赋予家庭资金随生源流动的[[School Vouchers|教育券]]制度。
 

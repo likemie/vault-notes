@@ -11,10 +11,10 @@ aliases:
 summary: "由研究者好奇心驱动并自主设定议程的开放式探索，涉及原创知识生产、同行问责，以及教育研究和科学资助中的自主性条件。"
 type: concept
 domain: "science-policy"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 47
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - concept/science-policy
   - theme/basic-research
@@ -38,12 +38,15 @@ related_concepts:
   - "[[Categorical Funding]]"
   - "[[Geopolitics]]"
   - "[[Hypothesis]]"
+  - "[[Original Innovation Capability]]"
   - "[[Research Topic]]"
   - "[[Technology-Oriented Social Contract]]"
   - "[[Avatar]]"
   - "[[Research Security]]"
   - "[[Valley of Death]]"
   - "[[Translational Research]]"
+  - "[[Variable]]"
+  - "[[Patent Citation]]"
   - "[[University-Industry Collaboration]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
@@ -53,23 +56,28 @@ related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Strategy on Microelectronics Research]]"
   - "[[Department of Energy]]"
+  - "[[National Institutes of Health]]"
   - "[[Restoring Gold Standard Science Executive Order]]"
+  - "[[Web of Science]]"
+  - "[[United States Patent and Trademark Office]]"
 related_persons:
   - "[[Vannevar Bush]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03]]"
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
-  - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
-  - "[[Argument_Yang_2017_MUE]]"
+  - "[[Argument_Kratsios_2026_OSTP]]"
 related_methods:
   - "[[Intervention Research]]"
+  - "[[Effect Size]]"
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
@@ -127,7 +135,7 @@ updated: 2026-11-04
 > - **高度自主的探索空间** 科学家在[[Hypothesis|研究假设]]设定、技术路线调整与实验试错上享有充分自治，行政官僚不得任意[[Intervention Research|干预研究]]细节。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 > - **长周期探索与高容错性** 承认基础探索的高度不可预测性与高失败率，资金支持采取信任型兜底机制而非短期绩效与账目审计。
 > - **同行评议内部权威机制** 研究价值由同行科学家基于科学共同体的内在理性与认知贡献予以判定，而非接受外部行政审计标准的规训。
-> - **颠覆性原始创新活水池** 自由探索产生的非共识、革命性新概念，构成了后续应用启发研究、工程中试转化与产业革命不可或缺的底层知识源泉。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12)]]
+> - **颠覆性[[Original Innovation Capability|原始创新]]活水池** 自由探索产生的非共识、革命性新概念，构成了后续应用启发研究、工程中试转化与产业革命不可或缺的底层知识源泉。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -186,7 +194,7 @@ updated: 2026-11-04
 > - **1945–1989 — 黄金契约期与免检神话确立** [[Science, The Endless Frontier 1945|布什报告]]将自由探索升华为国家战略，冷战对抗为科学家换取了“高自治—高嵌入”与巨额联邦信任型经费托底，科学享有崇高的“国家理性”[[Avatar|化身]]地位。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 > - **1990–2009 — 条件化自治与[[Pasteur's Quadrant|巴斯德象限]]再协商** 冷战终结后安全红利消退，自由探索受到财政问责压力，学术界通过确立[[Pasteur's Quadrant|巴斯德象限]]（[[Use-Inspired Basic Research|应用启发的基础研究]]），主动将自由探索包装为对接产业与社会效用的复合形态。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
 > - **2010–2024 — 免检地位瓦解与战略任务嵌套** 绩效问责刚性化（GPRAMA）、重大社会挑战导向与[[Research Security|科研安全]]合规审查剥夺了自由探索的特权；与此同时，在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》中，自由探索被重新定位于国家“前沿发现（Goal 1）”的源头支柱，通过 [[National Science Foundation|NSF]] FuSe 等计划与产业中试体系实现多尺度嵌合。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12)]]
-> - **2021 — 科学学双层网络量化实证为自由探索正名** 王大顺与巴拉巴西基于数千万项科研成果与专利的跨界网络匹配，证实 80% 的已发表基础研究成果在级联拓扑中直接或间接支撑了下游产业专利发明，且 31% 的美国国家卫生研究院（NIH）资助项目成果被商业专利直接引用，从全口径大数据上确立了公共财政对好奇心驱动基础探索投入的根本正当性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 247–248)]]
+> - **2021 — 科学学双层网络量化实证为自由探索正名** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]基于数千万项科研成果与专利的跨界网络匹配，证实 80% 的已发表基础研究成果在级联拓扑中直接或间接支撑了下游产业专利发明，且 31% 的[[National Institutes of Health|美国国家卫生研究院]]（NIH）资助项目成果被商业专利直接引用，从全口径大数据上确立了公共财政对好奇心驱动基础探索投入的根本正当性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 247–248)]]
 > - **2025–至今 — 契约退出与分散边缘化新现实** 在《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》等行政令重压下，国家绕过大学基础探索直接采购成熟技术，自由探索失去传统轴心地位，走向多轨分化中的分散生存轨道。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062, 1064)]]
 
 ---
@@ -232,9 +240,9 @@ updated: 2026-11-04
 > [!ref-table]- 自由探索基础研究与产业技术关联实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | Li et al. (2017); Ahmadpoor and Jones (2017); [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Wang & Barabási (2021)]] | 数千万篇 Web of Science 基础学术论著与美国专利商标局（USPTO）全量授权专利 | 大规模跨界双层网络匹配与拓扑追踪分析 | 基础科学成果被下游产业专利直接与间接引用率；NIH 资助课题衍生专利引文占比 | 10% 的学术论著被专利直接引用，80% 的论著在级联网络中与后续专利相连；31% 的 NIH 资助项目产出直接被专利引用的成果，84% 的生物医药专利引用了 NIH 资助成果 | 全口径大数据拓扑追踪 | 证实好奇心驱动基础研究是深层支撑实体技术发明的关键源头，在全域级联网络中深度渗透进商业专利创新 |
+> | Li et al. (2017); Ahmadpoor and Jones (2017); [[Argument_Wang_Barabasi_2021_Cambridge_Unit11\|Wang & Barabási (2021)]] | 数千万篇 [[Web of Science]] 基础学术论著与[[United States Patent and Trademark Office\|美国专利商标局]]（USPTO）全量授权专利 | 大规模跨界双层网络匹配与拓扑追踪分析 | 基础科学成果被下游产业专利直接与间接引用率；NIH 资助课题衍生[[Patent Citation\|专利引文]]占比 | 10% 的学术论著被专利直接引用，80% 的论著在级联网络中与后续专利相连；31% 的 NIH 资助项目产出直接被专利引用的成果，84% 的生物医药专利引用了 NIH 资助成果 | 全口径大数据拓扑追踪 | 证实好奇心驱动基础研究是深层支撑实体技术发明的关键源头，在全域级联网络中深度渗透进商业专利创新 |
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "学术同行评审与人才评价中违背传统单调累积指标的认知决策现象；指在顶尖代表作清单之后增补中低层级正规成果，未能提升学者综合声望反而招致同行专家显著降分惩罚的心理学效应；由 Powdthavee et al.（2018）对全球排名前 10% 大学经济学知名教授的双盲实地实验所证实（短简历仅含顶刊平均得分 8.1 分，长简历增发次级刊物后评分下滑至 7.6 分）；揭示出顶尖专家在评价人才时遵循基于均值卓越的 Q 因子逻辑，而非单纯追求篇数累加的工分逻辑。"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Halo Effect]]"
   - "[[Causality]]"
+  - "[[Early-Career Researchers]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Predictive Validity]]"
   - "[[Construct]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -129,7 +130,7 @@ updated: 2026-11-03
 
 > [!debates|notitle] 学术争议
 >
-> > [!axis] 代表作精简策略 vs 青年学者求职数量生存门槛
+> > [!axis] 代表作精简策略 vs [[Early-Career Researchers|青年学者]]求职数量生存门槛
 > > 评价阶段性策略的矛盾。一派学者主张应果断从简历中精简次要成果以维护平均水准；另一派学者指出在早期初筛阶段，行政人员往往设置刚性篇数门槛，使得青年学者不得不先堆砌篇数以通过初筛，面临两难制度困境。
 >
 > > [!axis] 学科期刊声望梯度的清晰度差异

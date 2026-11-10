@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-11
 ---
 
 ---
@@ -127,7 +127,7 @@ updated: 2026-11-08
 > - **2010 年代初 — 关注教师研究反思的局限** 实证[[Document|文献]]指出大部分学校[[Research Utilization|研究使用]]停留于浅层走过场，缺乏长时段深度探究。
 > - **2022 年 — QURE 框架形式化确立** 莫[[Roy Nash|纳什]]大学 Q 项目提出审思参与（Thoughtful Engagement），将其定义为与适切研究紧密结合的核心处理活动。
 > - **2023 年 — [[OECD]] 强化教育研究影响报告深耕** 诺拉·雷瓦伊等强调审思参与要求探索与质疑精神，指出唯有在信任环境中才能生根。
-> - **2026 年 — 经验实证与整合[[Paradigm|范式]]融合** Hagevold et al. 进一步明确审思参与的情境权变决策特质，论证其构成了从“实施”走向“[[Research Integration|研究整合]]”的微观活动中枢。
+> - **2026 年 — 经验实证与整合[[Paradigm|范式]]融合** Hagevold et al. 进一步明确审思参与的情境权变决策特质，论证其构成了从“实施”走向“研究整合”的微观活动中枢。
 
 ---
 

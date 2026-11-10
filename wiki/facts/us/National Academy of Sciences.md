@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 40
+fact_related_count: 41
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -36,6 +36,7 @@ related_persons:
   - "[[Vannevar Bush]]"
   - "[[Erich Bloch]]"
   - "[[Tony Tether]]"
+  - "[[Pierre Azoulay]]"
   - "[[Erica Fuchs]]"
 related_facts:
   - "[[United States Congress]]"
@@ -49,7 +50,7 @@ related_facts:
   - "[[Science and Technology Centers]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[Computing Research Association]]"
-  - "[[Swedish National Agency for Education]]"
+  - "[[Howard Hughes Medical Institute]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[Human Genome Project]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-05
+updated: 2026-11-11
 ---
 
 ---
@@ -101,7 +102,7 @@ updated: 2026-11-05
 > - **自我繁衍式同行推选** 严格恪守学术同行内部推选制度，完全排除行政指令或政治插手，由既有院士通过极其严密的同行评审与逐轮差额投票选拔新院士。
 > - **实体运行枢纽（NRC）** 承担具体的联邦与跨部门政策咨询合同承接、跨学科共识委员会组建及独立同行评审，常年动员数千名顶尖学者参与义务咨询。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 34)]]
 > - **三方跨界协同枢纽（GUIRR）** 设立政府-大学-行业研究圆桌会议，打破政府官僚机构、大学行政与企业高管的条块分割，为跨界前沿议题（如企业开放协同研发模式、专利制度演进、国家技术战略）提供最高规格的中立对话与政策孵化温床。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2013; Ramming, 2025, p. 237)]]
-> - **学术声誉与[[Professional Capital|专业资本]]输出** 院士头衔为学者赋予了巨大的符号资本与学术公信力。在微观计量研究中，当选 NAS 院士被普遍作为衡量科学家全生涯是否问鼎顶尖学术殿堂的客观标尺；阿祖莱等实证显示，获得长周期宽容失败资助的 HHMI 学者全生涯当选 NAS 院士的比例高达 32.9%（对照组仅为 4.1%）。在 [[DARPA]] 等机构中，核心项目经理与首席科学家中汇聚了众多院士与诺贝尔奖得主，使其拥有直接对话学术界与工业界领袖的专业合法性。[[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011, p. 538)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1141, Table 3)]]
+> - **学术声誉与[[Professional Capital|专业资本]]输出** 院士头衔为学者赋予了巨大的符号资本与学术公信力。在微观计量研究中，当选 NAS 院士被普遍作为衡量科学家全生涯是否问鼎顶尖学术殿堂的客观标尺；[[Pierre Azoulay|阿祖莱]]等实证显示，获得长周期宽容失败资助的 [[Howard Hughes Medical Institute|HHMI]] 学者全生涯当选 NAS 院士的比例高达 32.9%（对照组仅为 4.1%）。在 [[DARPA]] 等机构中，核心项目经理与首席科学家中汇聚了众多院士与诺贝尔奖得主，使其拥有直接对话学术界与工业界领袖的专业合法性。[[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011, p. 538)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1141, Table 3)]]
 > - **出版与学术传播阵地** 拥有国际顶级综合性学术期刊《美国国家科学院院刊》（PNAS），作为全球科学界发布高影响力前沿成果的旗舰平台。
 
 ---

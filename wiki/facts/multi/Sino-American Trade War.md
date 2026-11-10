@@ -10,7 +10,7 @@ subtype: event
 region: multi
 fact_region: "multi"
 fact_kind: "event"
-fact_related_count: 21
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -29,8 +29,10 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Technology Transfer]]"
   - "[[Geopolitics]]"
+  - "[[Study Abroad]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge Production]]"
+  - "[[Nationalism]]"
   - "[[Vertical Disintegration]]"
   - "[[Market Failure]]"
 related_theories: []
@@ -53,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -84,7 +86,7 @@ updated: 2026-10-22
 > [!finding-cards] 核心维度影响分析
 > - **半导体与高技术脱钩断链** 关税与出口管制重构了全球芯片流通链路，美国企业自华直接进口大幅萎缩并转向东南亚转口；先进制程制造设备与 AI 算力芯片被全面切断，促使中国半导体产业在成熟制程领域实现爆发式扩张，并诱发未来全球成熟芯片结构性产能过剩风险。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 98–103)]]
 > - **多边经贸机制崩解与规则武器化** 美方实质性瘫痪了[[World Trade Organization|世界贸易组织]]（WTO）上诉机构，放弃通过多边仲裁框架解决对华经济分歧，全面倒向单边关税、长臂域外管辖与小多边同盟协调，动摇了战后国际经贸法律秩序基石。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 94–95)]]
-> - **[[Geopolitics of Knowledge|知识地缘政治]]与高等教育交流重构** [[Argument_Rizvi_2022_Springer|Rizvi (2022)]]与 [[Argument_Partaken_2022_Springer|Partaken (2022)]] 指出，[[Geopolitics|地缘政治]]敌意恶化了中国留学生在海外的学术与心理安全，新自由主义的[[Internationalization of Higher Education|高等教育国际化]][[Paradigm|范式]]被撕裂，[[Knowledge Production|知识生产]]的多极化格局与技术民族主义全面崛起。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 101–102)]]; [[Argument_Partaken_2022_Springer|(Partaken, 2022, p. 84)]]
+> - **[[Geopolitics of Knowledge|知识地缘政治]]与高等教育交流重构** [[Argument_Rizvi_2022_Springer|Rizvi (2022)]]与 [[Argument_Partaken_2022_Springer|Partaken (2022)]] 指出，[[Geopolitics|地缘政治]]敌意恶化了中国[[Study Abroad|留学]]生在海外的学术与心理安全，新自由主义的[[Internationalization of Higher Education|高等教育国际化]][[Paradigm|范式]]被撕裂，[[Knowledge Production|知识生产]]的多极化格局与技术[[Nationalism|民族主义]]全面崛起。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 101–102)]]; [[Argument_Partaken_2022_Springer|(Partaken, 2022, p. 84)]]
 > - **全球跨国供应链成本抬升与冗余建设** 在美欧中日各方竞相出台直接补贴与回流法案的背景下，原本高度优化集聚的跨国半导体网络被割裂，资本开支与营运成本系统性暴涨。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 101–103)]]
 
 ---

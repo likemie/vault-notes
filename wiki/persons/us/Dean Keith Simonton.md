@@ -10,10 +10,10 @@ summary: "美籍创造力心理学家与历史计量学先驱，加利福尼亚�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 22
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1948"
 died: ""
 lifespan: "1948–至今"
@@ -25,25 +25,36 @@ tags:
 related_concepts:
   - "[[Creativity]]"
   - "[[Emergence]]"
+  - "[[Scientific Creativity]]"
   - "[[Paradigm]]"
+  - "[[Pull Mechanisms for Innovation]]"
+  - "[[Scientific Productivity]]"
   - "[[Epistemology]]"
   - "[[Deliberate Practice]]"
+  - "[[Heterogeneity]]"
 related_theories:
   - "[[Constant-Probability-of-Success Model]]"
   - "[[Random Impact Rule]]"
+  - "[[R-Model]]"
+  - "[[Q-Model]]"
 related_methods:
+  - "[[Q-Factor]]"
   - "[[Random Sampling]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Roberta Sinatra]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
-  - "[[Argument_Liu_2018_Nature]]"
+  - "[[Argument_Sinatra_2016_Science]]"
   - "[[Argument_Chen_2025_HSSC]]"
+  - "[[Argument_Liu_2018_Nature]]"
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
@@ -72,7 +83,7 @@ updated: 2026-11-04
 
 > [!work-line] 主要著作
 > - **1984 — *Genius, Creativity, and Leadership*** 运用历史计量学量化杰出人物生平与成就特征。
-> - **1988 — *Scientific Genius: A Psychology of Science*** 提出科学创造力的盲目变异与选择保留模型，确立恒定成功概率理论。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 55)]]
+> - **1988 — *Scientific Genius: A Psychology of Science*** 提出[[Scientific Creativity|科学创造力]]的盲目变异与选择保留模型，确立恒定成功概率理论。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 55)]]
 > - **2004 — *Creativity in Science: Chance, Logic, Genius, and Zeitgeist*** 系统总结科学发现中偶然机遇、逻辑推演与时代思潮的交互动力学。
 
 ---
@@ -85,10 +96,10 @@ updated: 2026-11-04
 > [!influence-path] 影响路径
 > - **理论路径** 将坎贝尔的盲目变异与选择性保留（BVSR）框架形式化，构建创造力心理学中的达尔文主义模型，为科学学[[Random Impact Rule|随机影响法则]]提供微观认知基石。
 > - **方法路径** 开创历史计量学（Historiometry），通过对历史档案、生平传记与全量作品目录的统计编码，开辟心理学大样本长周期定量实证[[Paradigm|研究范式]]。
-> - **计算科学学与经济学实证扩展路径** 启发当代计算科学学者将认知试错模型扩展至数万名学者与艺术家的海量大数据引文追踪；其生涯界标模型被形式化为微观基准零模型（[[Argument_Sinatra_2016_Science|Sinatra et al., 2016]]），并在经济学家全生命周期面板中实证检验了发文试错规模对颠覆度增量的显著拉动机制（[[Argument_Chen_2025_HSSC|Chen et al., 2025]]）。
+> - **计算科学学与经济学实证扩展路径** 启发当代计算科学学者将认知试错模型扩展至数万名学者与艺术家的海量大数据引文追踪；其生涯界标模型被形式化为微观基准零模型（[[Argument_Sinatra_2016_Science|Sinatra et al., 2016]]），并在经济学家全生命周期面板中实证检验了发文试错规模对颠覆度增量的显著[[Pull Mechanisms for Innovation|拉动机制]]（[[Argument_Chen_2025_HSSC|Chen et al., 2025]]）。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 援引西蒙顿关于学者生产力与生涯里程碑的假说，将其数理形式化为微观 R 模型并推进至 Q 因子理论。
+> - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 援引西蒙顿关于[[Scientific Productivity|学者生产力]]与生涯里程碑的假说，将其数理形式化为微观 [[R-Model|R 模型]]并推进至 [[Q-Factor|Q 因子]]理论。
 > - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 实证检验西蒙顿关于艺术与科学创造力生命周期的理论判断，揭示全域随机与局部成团共存的爆发期特征。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Wang & Barabási (2021)]] — 将西蒙顿成功恒定概率模型作为核心假说，通过跨科学、艺术与电影三界实证检验其在全生命周期的普适性。
 > - [[Argument_Chen_2025_HSSC|Chen et al. (2025)]] — 实证检验两万余名经济学家长周期生涯数据，确证爆发期起始时序具有随机性且不受年龄垄断，证实期内发文规模对颠覆度增量的显著试错拉动效应，支持了西蒙顿机遇构型机制与成功恒定概率模型。
@@ -116,4 +127,4 @@ updated: 2026-11-04
 > | [[Constant-Probability-of-Success Model]] | 理论 | 提出并形式化成功恒定概率模型，确立代表作产出与总产出规模成正比规律。 |
 > | [[Random Impact Rule]] | 理论 | 为科学学随机影响法则提供微观认知试错与等[[Random Sampling\|概率抽样]]机制支撑。 |
 > | [[R-Model]] | 理论 | 其等几率假说被科学学形式化为检验单篇成果抽样独立性的微观基准零模型。 |
-> | [[Q-Model]] | 理论 | 其均质化命中率假设被拓展为个体能力异质性与单人生涯等几率并存的双因子理论。 |
+> | [[Q-Model]] | 理论 | 其均质化命中率假设被拓展为个体能力[[Heterogeneity\|异质性]]与单人生涯等几率并存的双因子理论。 |

@@ -11,9 +11,9 @@ summary: "一种用于量化科研成果或发明专利是开拓新方向还是�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 18
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 28
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -27,6 +27,8 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Unit of Analysis]]"
   - "[[Construct Validity]]"
+  - "[[Altmetrics]]"
+  - "[[Hot Streak]]"
   - "[[Value Neutrality]]"
   - "[[Knowledge Production]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
@@ -35,22 +37,30 @@ related_theories:
 related_methods:
   - "[[Bibliometric Analysis]]"
   - "[[Network Analysis]]"
+  - "[[Discounted Cumulative Gain]]"
 related_instruments: []
 related_persons:
+  - "[[Santo Fortunato]]"
   - "[[Lingfei Wu]]"
   - "[[Dashun Wang]]"
   - "[[James A. Evans]]"
-  - "[[Santo Fortunato]]"
-related_facts: []
+  - "[[Albert-László Barabási]]"
+related_facts:
+  - "[[SciSciNet]]"
+  - "[[Web of Science]]"
+  - "[[OpenAlex]]"
+  - "[[Microsoft Academic Graph]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
+  - "[[Argument_Fortunato_2018_Science]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
   - "[[Argument_Lin_2023_SciData]]"
-  - "[[Argument_Fortunato_2018_Science]]"
+  - "[[Argument_Chen_2025_HSSC]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
@@ -81,15 +91,15 @@ updated: 2026-11-04
 > [!method-stack] 方法层级
 > - **上位方法** [[Bibliometric Analysis|文献计量分析]]、复杂网络引文[[Network Analysis|网络分析]]。
 > - **前置步骤** 成果参考文献消歧与引文网络图谱构建。
-> - **变体与扩展** CD5 指数（发表后 5 年窗口）、无参考文献分母修正变体 $D_{noR}^5$、去除自引后的修正颠覆度、折损累积增益聚合算法（DCG）、按期刊与年代加权的相对颠覆百分位。
+> - **变体与扩展** CD5 指数（发表后 5 年窗口）、无参考文献分母修正变体 $D_{noR}^5$、去除自引后的修正颠覆度、[[Discounted Cumulative Gain|折损累积增益]]聚合算法（DCG）、按期刊与年代加权的相对颠覆百分位。
 
 > [!dev-timeline] 方法演变
 > - **2017 — 基础定义提出** Russell J. Funk 与 Jason Owen-Smith 在创新研究中首次形式化 CD 指数算法，用于评估医学发明专利的[[Technological Trajectories|技术轨道]]路线变革。
 > - **2018 — 团队分工规律整合与科学官僚化反思** [[Santo Fortunato|桑托·福图纳托]]（Santo Fortunato）等在《科学》（*Science*）科学学综述中，将颠覆与发展指标确立为团队规模分工的核心证据：小型团队颠覆既有范式、大型团队发展成熟技术路径，指出资助机制必须平衡各类规模团队以防止科学建制官僚化。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 3)]]
 > - **2019 — 大数据扩展与规律发现** [[Lingfei Wu|吴令飞]]、[[Dashun Wang|王大顺]]与[[James A. Evans|詹姆斯·埃文斯]]（Wu, Wang, & Evans, 2019）将该指标推广至 6,000 万篇论著、专利与软件项目，揭示小团队倾向于颠覆科学而大团队倾向于发展科学的组织规模分化规律。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 128–132)]]
-> - **2021 — 多维影响力度量体系整合** 王大顺与巴拉巴西在《科学学》中将颠覆性指数确立为深挖引文网络拓扑结构、超越狭隘引文计数的关键方法，与替代计量学和产业专利转化共同构成多维评价体系。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 245–248)]]
-> - **2023 — 开放数据湖全量工程化解算与规律复现** [[Argument_Lin_2023_SciData|Lin et al. (2023)]] 在 SciSciNet 中建立分布式高效算力管道，完成 48,582,311 篇文献的颠覆性得分规模化解算，在 1.34 亿篇全量多源异构数据湖中稳健复现了小团队开拓颠覆、大团队巩固发展的组织规模分化规律。
-> - **2025 — 学者职业生涯动态演化与折损增益聚合** [[Argument_Chen_2025_HSSC|Chen et al. (2025)]] 针对 21,271 位经济学家的长周期生涯数据，引入共引阈值修正指标 $D_5$ 与无参考分母变体 $D_{noR}^5$，并采用折损累积增益（DCG）算法解决多篇成果颠覆度聚合偏差，证实学者学术爆发期内的颠覆度显著超越其他时期，且颠覆峰值年系统性领先引文峰值年。
+> - **2021 — 多维影响力度量体系整合** 王大顺与[[Albert-László Barabási|巴拉巴西]]在《科学学》中将颠覆性指数确立为深挖引文网络拓扑结构、超越狭隘引文计数的关键方法，与[[Altmetrics|替代计量学]]和产业专利转化共同构成多维评价体系。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 245–248)]]
+> - **2023 — 开放数据湖全量工程化解算与规律复现** [[Argument_Lin_2023_SciData|Lin et al. (2023)]] 在 [[SciSciNet]] 中建立分布式高效算力管道，完成 48,582,311 篇文献的颠覆性得分规模化解算，在 1.34 亿篇全量多源异构数据湖中稳健复现了小团队开拓颠覆、大团队巩固发展的组织规模分化规律。
+> - **2025 — 学者职业生涯动态演化与折损增益聚合** [[Argument_Chen_2025_HSSC|Chen et al. (2025)]] 针对 21,271 位经济学家的长周期生涯数据，引入共引阈值修正指标 $D_5$ 与无参考分母变体 $D_{noR}^5$，并采用折损累积增益（DCG）算法解决多篇成果颠覆度聚合偏差，证实学者[[Hot Streak|学术爆发期]]内的颠覆度显著超越其他时期，且颠覆峰值年系统性领先引文峰值年。
 
 ---
 
@@ -134,7 +144,7 @@ updated: 2026-11-04
 > > | 注意 | 时滞效应 | 原创新概念常经历较长的承认延迟，短期引文窗口内的 $D$ 值波动较大。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|(Wang & Barabási, 2021, p. 131)]] |
 
 > [!method-stack] 数据口径
-> - **数据来源** 依赖具有完备引文链接的数据库（如 Web of Science、OpenAlex、Microsoft Academic Graph）。
+> - **数据来源** 依赖具有完备引文链接的数据库（如 [[Web of Science]]、[[OpenAlex]]、[[Microsoft Academic Graph]]）。
 > - **时间与范围** 通常设置 5 年（$D_5$）或 10 年统计时间窗以平衡引文充分累积与时滞效应；区分研究型论著与综述或无参考文献成果。
 > - **清洗与归属** 需剔除自引干扰；对于无参考文献的开创性理论成果，采用无参考分母修正变体 $D_{noR}^5$。
 > - **标准化与聚合** 按学科与发表年份计算百分位（Disruption Percentile）消除时间通胀；多篇成果生涯聚合时采用折损累积增益（DCG）算法解决算术平均导致的代表作掩盖偏差。

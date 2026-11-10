@@ -6,7 +6,7 @@ aliases:
 summary: "强调儿童在真实完整语境中整体学习语言与读写的教学哲学，反对把阅读拆成孤立技能训练，并长期处于识字教学的证据与方法论争议中心。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 46
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Simple View of Reading]]"
   - "[[Direct Instruction]]"
   - "[[Empiricism]]"
+  - "[[Construct]]"
   - "[[Visible Learning]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Document]]"
@@ -40,16 +41,17 @@ related_concepts:
   - "[[Socioeconomic Status]]"
   - "[[Homework]]"
   - "[[Student Motivation]]"
+  - "[[Phonological Awareness]]"
 related_theories:
   - "[[Behaviorism]]"
   - "[[Cognitive Constructivism]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Experimental Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Action Research]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Effect Size]]"
   - "[[Intervention Research]]"
   - "[[Cohort Study]]"
 related_persons:
@@ -72,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -119,7 +121,7 @@ updated: 2026-11-10
 
 ---
 
-> [!concept-proposition] 命题二｜构念界定弹性与编码主观性导致元分析效应量极化分歧
+> [!concept-proposition] 命题二｜[[Construct|构念]]界定弹性与编码主观性导致[[Meta-analysis|元分析]][[Effect Size|效应量]]极化分歧
 > **变量操作化困境与编码敏感性** 探讨教育干预缺乏医药式化学纯度时，关于全语言边界的界定裁量如何根本性扭曲元分析的合并结论，导致算术平均遮蔽方法论冲突。
 
 > [!claim] [[Argument_Snook_2009_NZJES|Snook et al. (2009, p. 97)]]; Hattie (2009, p. 137); [[Argument_OConnor_2020_AJLL|O'Connor (2020)]]

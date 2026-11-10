@@ -8,10 +8,10 @@ summary: "加拿大著名教育变革与领导力学者，多伦多大学安大�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 21
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1940"
 died: ""
 lifespan: "1940–至今"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Teacher Collaboration]]"
   - "[[Professional Capital]]"
   - "[[Co-Design]]"
+  - "[[New Public Management]]"
   - "[[Creativity]]"
   - "[[Technical Rationality]]"
   - "[[Cult of the Guru]]"
@@ -47,9 +48,10 @@ related_facts:
   - "[[CORE Education]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
+  - "[[Argument_Barrenechea_2023_JEC]]"
 status: active
 created: '2026-10-16'
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -106,7 +108,7 @@ updated: 2026-11-10
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统解构富兰从学术领导者向跨国思想领袖的转型，揭示 NPDL 专有商标特许对公立学校教师研训经费的抽吸效应。
-> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 将富兰的全系统变革与共享连贯性（Shared Coherence）理论定位为对抗新公共管理（NPM）市场问责的文化制度取向代表，实证考察其深度参与的加拿大安大略省支持性专业问责与自下而上协同治理经验（pp. 3–5, 8–10）。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 将富兰的全系统变革与共享连贯性（Shared Coherence）理论定位为对抗[[New Public Management|新公共管理]]（NPM）市场问责的文化制度取向代表，实证考察其深度参与的加拿大安大略省支持性专业问责与自下而上协同治理经验（pp. 3–5, 8–10）。
 
 ---
 

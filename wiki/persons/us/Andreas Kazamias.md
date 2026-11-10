@@ -7,7 +7,7 @@ summary: "希腊裔比较教育学者，倡导历史和人文主义视角与普�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 55
+person_related_count: 56
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Educational Meliorism]]"
   - "[[Champ]]"
+  - "[[Study Abroad]]"
   - "[[Paideia]]"
   - "[[Whiggism]]"
   - "[[National Character]]"
@@ -41,12 +42,12 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Disciplinary Institutionalization]]"
+  - "[[Empiricism]]"
   - "[[Technical Rationality]]"
   - "[[Construct]]"
   - "[[Comparative History of Comparative Education]]"
   - "[[Four Forms of Understanding of Comparative Education]]"
   - "[[Geisteswissenschaften]]"
-  - "[[Empiricism]]"
 related_theories:
   - "[[Pluralism]]"
   - "[[Structural Functionalism]]"
@@ -84,7 +85,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -102,7 +103,7 @@ updated: 2026-11-02
 ---
 
 > [!timeline] 生平与职涯
-> - **1950年代** 赴美留学，在哈佛大学师从著名德裔教育哲学家与文化史学家[[Robert Ulich\|罗伯特·乌利希]]（Robert Ulich），接受深厚的[[Paideia|古典教化]]（[[Paideia]]）与思想史学术熏陶并获博士学位。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 52)]]
+> - **1950年代** 赴美[[Study Abroad|留学]]，在哈佛大学师从著名德裔教育哲学家与文化史学家[[Robert Ulich\|罗伯特·乌利希]]（Robert Ulich），接受深厚的[[Paideia|古典教化]]（[[Paideia]]）与思想史学术熏陶并获博士学位。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 52)]]
 > - **1961** 发表《比较教育方法论中的新旧进路》（*Some Old and New Approaches to Methodology in Comparative Education*），作为战后新一代学者代表，率先反思[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）的[[Whiggism\|辉格史观]]与[[National Character\|国民性格]]概念。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 54–55)]]
 > - **1963** 发表《历史、科学与比较教育》（*History, Science and Comparative Education*），援引[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）比较史学理论，论证非普适[[Working Hypothesis|探索性假说]]在历史探究中的科学性，正面回击实证派将历史排斥于科学之外的浪潮。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 56)]]
 > - **1965** 与哈佛同门保罗·[[Roy Nash|纳什]]（Paul Nash）、亨利·珀金森（Henry Perkinson）联合主编出版文集《受过教育的人》（*The Educated Man*），向导师乌利希致敬。

@@ -7,7 +7,7 @@ aliases:
 summary: "儒家文化家庭中以学习美德为中心的家长辅导方式，强调学习关键在于品德、自我改进和持续努力而非天赋"
 type: concept
 domain: "chinese-philosophy"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Socratic Tutoring Style]]"
   - "[[Cognitive Source]]"
   - "[[Parental Cognitive and Affective Socialization]]"
+  - "[[Grit]]"
   - "[[Pride in Learning]]"
   - "[[Discourse]]"
   - "[[Document]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -81,7 +82,7 @@ updated: 2026-10-30
 > [!example|notitle]
 > 一位母亲告诉女儿"辛苦中有快乐啊！"（delight in hard work）——这是中文日常交流中的常用固定短语。另一位母亲引导儿子回忆跆拳道考级：从害怕到勇敢，关键在于母亲教他"应该感到什么"——"勇敢！"儿子回答，"展示我的力量！"([[Argument_Li_2012_Cambridge\|Li, 2012]])。
 
-**成就情感——面向未来的毅力（perseverance for future achievement）** 台湾母亲很少像欧裔美国母亲那样引导儿童为自己的成就感到[[Pride in Learning|骄傲]]。相反，她们将每一个成就重新定位为**进一步自我改进的起点**。
+**成就情感——面向未来的[[Grit|毅力]]（perseverance for future achievement）** 台湾母亲很少像欧裔美国母亲那样引导儿童为自己的成就感到[[Pride in Learning|骄傲]]。相反，她们将每一个成就重新定位为**进一步自我改进的起点**。
 
 > [!example|notitle]
 > 一位母亲对在国际象棋比赛中反败为胜的儿子说："妈妈很欣慰……妈妈真的很希望你在未来的象棋比赛中用同样的平常心——但不愿放弃、不轻易接受失败、全力以赴——可以应用到做任何事情上"。成功没有被转化为骄傲，而被转化为一条普遍的生活原则。

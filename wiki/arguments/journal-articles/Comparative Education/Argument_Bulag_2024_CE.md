@@ -21,6 +21,7 @@ related_concepts:
   - "[[Retrotopia]]"
   - "[[Dialogue in Education]]"
   - "[[Document]]"
+  - "[[Nationalism]]"
   - "[[Second-generation Ethnic Policy]]"
   - "[[Grand Theory]]"
   - "[[Pragmatic Paradigm]]"
@@ -48,14 +49,14 @@ sources:
 part_of:
 status: draft
 created: 2026-05-25
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Bulag_2024_CE"
 argument_key: "Argument_Bulag_2024_CE"
 argument_display_title: "The wheel of history and minorities' 'self-sacrifice' for the Chinese nation"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -161,7 +162,7 @@ citation_aliases:
 > [!critique] 西方批评框架的三重政治悖论
 > - **去政治化少数民族的主体性** 将维吾尔人定性为土著，根据托马斯·阿尔伯茨（Thomas Alberts, 2015）对全球土著运动的调查，这使得自决权在国际法上被重新定义为国家框架内的内部自治而非自决建国，将少数民族的政治出路限定在中国国境之内。
 > - **否定区域自治的宪法合法性** 将新疆历史纯粹框定为汉人持续殖民的历史，否定了维吾尔自治区这一官方自治实体的宪法地位，使得少数民族宪法权利变得多余，在客观上与中共掏空自治区自治权的意图达成了非意图合谋。
-> - **投射西方左翼的主观政治幻想** 达伦·拜勒（Darren Byler）等学者虽然称维吾尔人为土著，但因东突厥斯坦的许多倡导者表现出排他性的维吾尔民族主义，而非西方左翼理想中的包容性去殖民的民主精神，因而拒绝在道义上支持维吾尔人的独立自决，使少数民族的政治主体性受到西方学者双重标准和政治理想的二度绑架。
+> - **投射西方左翼的主观政治幻想** 达伦·拜勒（Darren Byler）等学者虽然称维吾尔人为土著，但因东突厥斯坦的许多倡导者表现出排他性的维吾尔[[Nationalism|民族主义]]，而非西方左翼理想中的包容性去殖民的民主精神，因而拒绝在道义上支持维吾尔人的独立自决，使少数民族的政治主体性受到西方学者双重标准和政治理想的二度绑架。
 
 > [!exegesis]- 经验示例：去政治化的政治合谋
 > 当维吾尔人的身份被限定为受迫害的土著人，他们本应享有的反殖民自决权便被降格为人权保护请求。西方批判者主张在不挑战中国主权完整的前提下改善人权，而这客观上承认了中国在新疆主权的法律事实。这恰恰与中共所声称的在国家主权框架内维护各民族团结构成了[[Discourse|话语]]重合，两者共同把少数民族的行动边界锁死在国家体制之内。

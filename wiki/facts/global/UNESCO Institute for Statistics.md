@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 30
+fact_related_count: 33
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -36,6 +36,9 @@ related_concepts:
   - "[[Educational Multilateralism]]"
   - "[[Religious Schools]]"
   - "[[International Large-Scale Assessments]]"
+  - "[[Transnational Education]]"
+  - "[[International Education Hubs]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
@@ -60,12 +63,12 @@ related_facts:
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
-  - "[[Argument_Haubrock_2026_NHB]]"
   - "[[Argument_Qu_2024_IJED]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -171,7 +174,7 @@ updated: 2026-11-10
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 调取 UIS 跨国高等教育毛入学率长期时间序列数据（1990 至 2020 年），实证展现中国高等教育大众化与普及化进程（毛入学率由 3% 大幅提升至 58%）对内陆建设区域与国际教育枢纽的规模驱动作用。
-> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 调用 UIS 2024 年度全职当量科研人员密度与各国研发支出占 GDP 比例全量指标，实证揭示全球北方对科研财力与人力资源的极端垄断对全球南方探索范式的边缘化冲击。
+> - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 调取 UIS [[Transnational Education|跨国高等教育]]毛入学率长期时间序列数据（1990 至 2020 年），实证展现中国高等教育大众化与普及化进程（毛入学率由 3% 大幅提升至 58%）对内陆建设区域与[[International Education Hubs|国际教育枢纽]]的规模驱动作用。
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 调用 UIS 2024 年度全职当量科研人员密度与各国研发支出占 GDP 比例全量指标，实证揭示全球北方对科研财力与人力资源的极端垄断对全球南方探索[[Paradigm|范式]]的边缘化冲击。
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 战略审查实证确认 UIS 在全球经常调阅证据源中名列第 7，作为多边统计中枢支撑全球教育规划。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 剖析 UIS 依托 ISCED 标准与 SDG 4 法定托管职能构建全球教育数字治理基础设施的演进历程。

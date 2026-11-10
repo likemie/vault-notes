@@ -8,7 +8,7 @@ aliases:
 summary: "比较教育学与社会学系统论的核心分析概念，指教育系统根据自身内部问题构型与反思情境，通过在语义上将内部矛盾投射到外部参照系或传统记忆中来为改革或抵制提供正当性辩护的策略性建构过程。"
 type: concept
 domain: "comparative-education"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -20,6 +20,7 @@ tags:
   - theme/discourse-formation
 related_concepts:
   - "[[Discourse]]"
+  - "[[Transnational Education]]"
   - "[[Policy Borrowing]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Normal School]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-06
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -80,7 +81,7 @@ updated: 2026-11-03
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示教育系统为了维系自身运作与再生产，主动向外投射并建构“外部参考坐标”的话语机制。
-> - **用途** 帮助研究者看透跨国教育[[Policy Borrowing|政策借用]]背后的国内政治驱动力，破除将“借鉴国际先进经验”简单视为理性技术学习的迷思。
+> - **用途** 帮助研究者看透[[Transnational Education|跨国教育]][[Policy Borrowing|政策借用]]背后的国内政治驱动力，破除将“借鉴国际先进经验”简单视为理性技术学习的迷思。
 > - **边界** 外化描述的是语义建构与修辞策略，不能等同于教育系统在客观物质层面发生的真实历史演进过程。
 
 > [!citation-card] 外部参照点的内部建构与“仿佛有效”的规制投射

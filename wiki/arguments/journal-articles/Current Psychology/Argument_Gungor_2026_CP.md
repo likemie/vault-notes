@@ -62,6 +62,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Deficiencies in Past Literature]]"
   - "[[Evidence-Based Education]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Collaborative Learning]]"
   - "[[Champ]]"
   - "[[Research Scope]]"
@@ -89,29 +90,32 @@ related_methods:
   - "[[Correlated and Hierarchical Effects Model]]"
   - "[[Robust Variance Estimation]]"
   - "[[Standard Error]]"
+  - "[[Statistical Significance]]"
   - "[[Trend Study]]"
   - "[[Sample Size Determination]]"
 related_instruments:
   - "[[AMSTAR]]"
   - "[[PRISMA]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Web of Science]]"
+  - "[[Scopus]]"
 related_arguments: []
 sources:
   - "[[sources/Gungor_2026_CP/Gungor_2026_CP|Gungor_2026_CP]]"
 part_of: ""
 status: draft
 created: 2026-08-24
-updated: 2026-10-30
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Gungor_2026_CP"
 argument_key: "Argument_Gungor_2026_CP"
 argument_display_title: "A second-order meta-analysis on the effects of cooperative learning on students’ academic achievement, higher-order thinking, and affective behaviors"
 argument_kind: "journal-article"
-argument_related_count: 69
-argument_related_level: 6
-argument_related_stars: "💎💎"
+argument_related_count: 73
+argument_related_level: 7
+argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
 journal: "Current Psychology"
 book_title: ""
@@ -270,7 +274,7 @@ issuing_organization: ""
 > 遵循 [[PRISMA]] 指南、采用 R-[[AMSTAR]] 规程评估方法学质量并执行双人独立编码，将 OR、$r$ 与 Hedges' $g$ 统一转换为 Cohen's $d$，确保了二阶数据集的独立性与统计可比性。
 
 > [!chain-link] 证据到判断
-> - 检索覆盖 Web of Science、Scopus、EBSCO 旗下 5 大专业库及 Google Academic，运用二元关键词组合全面捕获 2010–2024 年文献，严格遵循 PRISMA 流程筛选出 15 项独立一阶元分析（图1 流程图）。
+> - 检索覆盖 [[Web of Science]]、[[Scopus]]、EBSCO 旗下 5 大专业库及 Google Academic，运用二元关键词组合全面捕获 2010–2024 年文献，严格遵循 PRISMA 流程筛选出 15 项独立一阶元分析（图1 流程图）。
 > - 采用 R-AMSTAR 量表（Kung et al., 2010）与 JBI 清单评估质量，得分在 24 至 36 分之间，划分为 14 项中等质量与 9 项高质量效应量，无低质量研究。
 > - 编码[[Reliability\|信度]] Cohen's $\kappa = 0.89$，争议经学科专家仲裁解决；将 Liu and Lipowski (2021) 的 OR 值与 Setiana et al. (2020) 的 Pearson $r$ 值转换为 Cohen's $d$，在大样本假设下合并 Hedges' $g$ 与 Cohen's $d$，最终生成 $k = 23$ 个独立效应量。
 
@@ -308,7 +312,7 @@ issuing_organization: ""
 > 本研究采用单水平经典[[Random-Effects Model\|随机效应模型]]的[[Inverse-Variance Weighting\|逆方差加权法]]（$w_i^* = \frac{1}{v_i + \tau^2}$，其中 $v_i$ 为一阶元分析抽样方差，$\tau^2 = 0.13$ 为研究间异质性方差），在宏观整合上提供了全局基准，但存在四项关键的方法学局限与统计边界：
 > - **初级研究未微观去重（重复计算风险，Double-Counting）** 遵循 Cooper and Koenka (2012) 的 $\le 25\%$ 重叠率宏观门槛，容许部分高影响力原始实验在不同一阶元分析中被重复计入，导致其统计权重被隐性放大；
 > - **集群依赖性未建模（集群依赖被忽略，Cluster-Dependence Ignored）** 将 15 项一阶元分析拆分为 23 个独立效应量（如 Kyndt et al. 贡献 3 个、Siagian et al. 贡献 2 个），缺乏现代多水平[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（Correlated and Hierarchical Effects Model，CHE）进行三水平方差分解；
-> - **缺乏[[Robust Variance Estimation\|稳健方差估计]]（Robust Variance Estimation，RVE）** 未采用三明治估计量（RVE）校正聚类[[Standard Error\|标准误]]（Standard Error，SE），理论上会导致二阶标准误偏小、[[Confidence Interval\|置信区间]]偏窄、显著性检验存在轻微假阳性膨胀风险；
+> - **缺乏[[Robust Variance Estimation\|稳健方差估计]]（Robust Variance Estimation，RVE）** 未采用三明治估计量（RVE）校正聚类[[Standard Error\|标准误]]（Standard Error，SE），理论上会导致二阶标准误偏小、[[Confidence Interval\|置信区间]]偏窄、[[Statistical Significance|显著性检验]]存在轻微假阳性膨胀风险；
 > - **效应量测度转换的粗放近似** 在将 Hedges' $g$ 与 Cohen's $d$ 合并时直接采用了大样本近似假设（$g \approx d$），未对小样本研究自由度进行精细分层。
 
 ---
@@ -383,7 +387,7 @@ issuing_organization: ""
 ### 论证步骤六：推动合作教学常态落地，强化教师培训与文献纠偏
 
 > [!claim] 合作学习的有效推广依赖教师专业化培训与多语种、全类型[[Research Synthesis|证据综合]]
-> 教师仅凭直觉进行的分组活动无法自动激活合作学习的理论机制，必须通过系统性在职培训与数字化案例平台提升教师对五大核心要素的操作能力；同时未来研究亟待开展多语种元分析并补充学位论文等灰色文献以消解地域与语言偏倚。
+> 教师仅凭直觉进行的分组活动无法自动激活合作学习的理论机制，必须通过系统性在职培训与数字化案例平台提升教师对五大核心要素的操作能力；同时未来研究亟待开展多语种元分析并补充[[Doctoral Dissertation|学位论文]]等灰色文献以消解地域与语言偏倚。
 
 > [!chain-link] 证据到判断
 > - 尽管教师普遍认为自己在运用合作学习，但实际课堂活动常因过于零散随意且脱离具体方法论规范而沦为形式（Morgan, 2019; Hortigüela-Alcalá et al., 2020）。

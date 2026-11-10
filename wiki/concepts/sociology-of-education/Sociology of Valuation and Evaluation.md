@@ -7,10 +7,10 @@ aliases:
 summary: "Lamont (2012) 概括的研究领域，关注排名和绩效测量如何同时完成资源分配、合法性制造和不平等正当化三重操作，为理解学术评估的非预期效应提供经验基础"
 type: concept
 domain: "sociology-of-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - sociology-of-evaluation
   - higher-education
@@ -24,12 +24,14 @@ related_concepts:
   - "[[Performativity of Measurement]]"
   - "[[Reliability]]"
   - "[[Discursive Stratification]]"
+  - "[[Quasi-market]]"
   - "[[Knowledge Capitalism]]"
 related_theories:
   - "[[Cultural Political Economy]]"
   - "[[Post-structuralism]]"
 related_methods:
   - "[[Discourse Analysis]]"
+  - "[[Journal Impact Factor]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -37,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -55,7 +57,7 @@ updated: 2026-10-22
 
 ### 评估工具的负面效应
 
-- **引用索引的选择性**Münch（2013, pp.149–152）论证引用索引不仅非常选择性地测量研究绩效——偏爱某些学科、语言和发表模式——还可能通过触发研究者追求狭窄策略来阻碍科学进步。当学者预测哪些研究方向和发表策略最有利于引用数和影响因子时，有风险的研究和创新性工作被系统性地回避（Rogge, 2015, pp.209f）。
+- **引用索引的选择性**Münch（2013, pp.149–152）论证引用索引不仅非常选择性地测量研究绩效——偏爱某些学科、语言和发表模式——还可能通过触发研究者追求狭窄策略来阻碍科学进步。当学者预测哪些研究方向和发表策略最有利于引用数和[[Journal Impact Factor|影响因子]]时，有风险的研究和创新性工作被系统性地回避（Rogge, 2015, pp.209f）。
 - **学术不端**Fang et al.（2012）发现不当行为占据了多数被撤回的科学出版物——增加引用数和成功获取拨款的激励可能诱发从投机到欺诈的行为光谱。
 - **同行评审的弱[[Reliability|可靠性]]** Cicchetti（1991）的跨学科调查和 Reinhart（2012, pp.57–59）的研究都发现同行评审在拨款和稿件评审中的可靠性（不同评审者之间的一致性）较弱。
 
@@ -71,7 +73,7 @@ updated: 2026-10-22
 > [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017)]]将评估与赋值社会学置于其多维分析策略的一个关键交叉点上（pp.798–799, 801–802, 807–809）：
 >
 > - **连接分配冲突与[[Discursive Stratification\|话语分层]]** 评估工具（排名、REF、影响因子）同时运作在物质维度（决定拨款的分配）和符号维度（定义什么是"卓越"）——评估与赋值社会学提供了同时追踪这两个维度的分析工具
-> - **揭示准市场的运作逻辑** 高等教育中的 准市场 正是通过评估工具来实现的——标准化产出指标 → 指标与拨款挂钩 → 制度化马太效应。评估与赋值社会学为理解这一链条中的每一环提供了经验研究基础
+> - **揭示[[Quasi-market|准市场]]的运作逻辑** 高等教育中的 准市场 正是通过评估工具来实现的——标准化产出指标 → 指标与拨款挂钩 → 制度化马太效应。评估与赋值社会学为理解这一链条中的每一环提供了经验研究基础
 > - **为三种理论路径提供经验锚点** 制度分析可以用它来比较不同国家的评估制度差异；阶级分析可以用它来追踪评估如何将文化优势转化为学术功绩；[[Discourse Analysis\|话语分析]]可以用它来揭示评估标准的建构性和争议性
 
 > [!warning] 争议与批评

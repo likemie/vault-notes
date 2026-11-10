@@ -9,7 +9,7 @@ aliases:
 summary: "由约翰·金登（John Kingdon）创立并由尼古拉斯·扎哈利亚迪斯（Nikolaos Zahariadis）深化的公共政策分析框架；将政策制定过程解构为相对独立的问题流、政策流与政治流，阐明在决策歧义性与信息过载情境下，政策企业家如何抓住政策之窗实现三流耦合以促成改革议程设定。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Policy Window]]"
   - "[[Policy Entrepreneur]]"
   - "[[Façade of Rationality]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Discourse]]"
   - "[[Scaffolding]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -68,7 +69,7 @@ updated: 2026-10-26
 > 公共政策议程的启动并非理性的逻辑推导，而是问题流、政策流与政治流三股相对独立潮流在特定历史时刻的偶然交汇。在政策决策充满“歧义性（Ambiguity）”的情境下，单纯增加科研知识供给不仅不会自发消除分歧，反而会加剧注意力赤字与解释冲突；唯有当重大危机叙事、指标异常或政权更迭开启短暂的“[[Policy Window|政策之窗]]（Policy Window）”时，[[Policy Entrepreneur\|政策企业家]]（或政策中介机构）通过策略性操纵数字指标的[[Façade of Rationality\|理性表象]]，将预设的政策方案与浮现的问题界定及政治意图强行耦合，政策变迁方得以发生。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 538–539)]]
 
 > [!citation-card] 决策歧义性与多源流分析透镜
-> 扎哈利亚迪斯（Zahariadis 2017, 65）对约翰·金登多源流分析法的观察，同样适用于政策过程的大多数其他理论：我们需要一个能够‘解释国家政府如何在歧义性条件下制定政策’的理论透镜、视角或框架。歧义性的概念抓住了‘对相同情境或现象存在多种思维方式的状态’（Feldman 1989, 5; 引自 Zahariadis 2017, 66）。这些不同的思维方式不一定能够调和，迫使统治者——广义上的‘政府’——必须做出抉择。假定更多的知识能够减少歧义并促进[[Evidence-Based Policy-Making|循证决策]]，那是完全错误的。事实恰恰相反。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 538)]]
+> 扎哈利亚迪斯（Zahariadis 2017, 65）对约翰·金登多源流分析法的观察，同样适用于政策过程的大多数其他理论：我们需要一个能够‘解释国家政府如何在歧义性条件下制定政策’的[[Theoretical Standpoint|理论透镜]]、视角或框架。歧义性的概念抓住了‘对相同情境或现象存在多种思维方式的状态’（Feldman 1989, 5; 引自 Zahariadis 2017, 66）。这些不同的思维方式不一定能够调和，迫使统治者——广义上的‘政府’——必须做出抉择。假定更多的知识能够减少歧义并促进[[Evidence-Based Policy-Making|循证决策]]，那是完全错误的。事实恰恰相反。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 538)]]
 >
 > *Zahariadis’ (2017, 65) observation concerning John Kingdon’s multiple streams approach also applies to most other theories of the policy process: the need to find a lens, perspective, or framework 'that explains how national governments make policies under conditions of ambiguity.' The concept of ambiguity captures the 'state of having many ways of thinking about the same circumstances or phenomena' (Feldman 1989, 5; cited in Zahariadis 2017, 66). These different ways of thinking are not necessarily reconcilable, forcing those who govern – the 'government' broadly conceived – to make choices. It would be wrong to assume that more knowledge reduces ambiguity and facilitates evidence-informed policymaking. The opposite applies.*
 

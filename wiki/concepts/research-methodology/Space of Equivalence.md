@@ -7,10 +7,10 @@ aliases:
 summary: "指统计度量通过人为创设统一分类法、刻度与公分母，在异质社会事物间建立起可相互通约的均质度量空间；在跨国教育治理中以统计信度置换情境构念效度并悬置教育本体论，成为超国家远处掌舵的技术工具。"
 type: concept
 domain: "research-methodology"
-related_count: 38
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - measurement
   - commensuration
@@ -20,11 +20,13 @@ tags:
   - research-methodology
 related_concepts:
   - "[[Commensuration]]"
+  - "[[Transnational Education]]"
   - "[[Scale of Measurement]]"
   - "[[Reliability]]"
   - "[[Construct Validity]]"
   - "[[Epoché]]"
   - "[[Ontology]]"
+  - "[[Homophily]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Social Imaginary]]"
   - "[[Construct]]"
@@ -66,18 +68,18 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Space of Equivalence
-> **等值空间（Space of Equivalence）** 由法国统计社会学家[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）提出，指统计度量通过制度化创设统一分类编码、基准刻度与公分母，在异质社会实体、机构与实践之间建立起可相互[[Commensuration|通约]]的均质化度量空间。在跨国教育治理中，以[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）为代表的量化测评通过自建脱离具体课程情境的[[Scale of Measurement|测量尺度]]，构筑起全球教育成效的等值空间，以统计[[Reliability|信度]]置换情境[[Construct Validity|构念效度]]并[[Epoché|悬置]]教育[[Ontology|本体论]]，使主观的政治决策转化为无可辩驳的技术中立数据，支撑超国家组织对主权国家的远处掌舵。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–26, 34–35)]]
+> **等值空间（Space of Equivalence）** 由法国统计社会学家[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）提出，指统计度量通过制度化创设统一分类编码、基准刻度与公分母，在异质社会实体、机构与实践之间建立起可相互[[Commensuration|通约]]的均质化度量空间。在[[Transnational Education|跨国教育]]治理中，以[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）为代表的量化测评通过自建脱离具体课程情境的[[Scale of Measurement|测量尺度]]，构筑起全球教育成效的等值空间，以统计[[Reliability|信度]]置换情境[[Construct Validity|构念效度]]并[[Epoché|悬置]]教育[[Ontology|本体论]]，使主观的政治决策转化为无可辩驳的技术中立数据，支撑超国家组织对主权国家的远处掌舵。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–26, 34–35)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向通过人为设计标准化度量尺度，使原本不可比的事物在统一公分母下实现均质化通约的制度空间。
 > - **用途** 帮助研究者洞察跨国量化测评如何通过数据生产技术将复杂的社会教育现实转化为可排名的治理对象。
-> - **边界** 不等于事物在本体论意义上的自然同质性，不适用于捕捉无法被标准化量化的本土情境性教育价值。
+> - **边界** 不等于事物在本体论意义上的自然[[Homophily|同质性]]，不适用于捕捉无法被标准化量化的本土情境性教育价值。
 
 > [!citation-card] [[OECD|经合组织]]测评与等值空间的建构
 > 国际学生评估项目（PISA）由此创造了一个可通约的测量空间，或者用阿兰·德罗西埃（Desrosières, 1998）的术语来说，创造了一个全球性的等值空间。在统计技术的层面上，信度与跨国比较被赋予了绝对优先于效度与本体论的崇高地位——也就是不再要求对被测量的事物保持概念上的深刻敏锐性。……数字所具有的力量恰恰在于，它们将构成一次测量、一个刻度、一个数字背后所涉及的大量复杂判断与决策完全变得不可见，因而也变得无可辩驳（Rose, 1999: 208）。可以说，如果没有[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]对其核心论断的有力呼应，PISA的迅速崛起是根本不可能实现的。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]

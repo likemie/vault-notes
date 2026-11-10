@@ -9,7 +9,7 @@ aliases:
 summary: "指认识主体因过度依赖外部自动化认知工具或生成式人工智能系统，导致自身内生认知能力与程序性智力技能发生退化、萎缩或无法正常形成的现象。"
 type: concept
 domain: "educational-technology"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Deliberate Practice]]"
   - "[[Knowledge Production]]"
   - "[[Socratic Dialogue]]"
+  - "[[Study Abroad]]"
   - "[[Homework]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[New Public Management]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -129,7 +130,7 @@ updated: 2026-11-03
 > **交互逻辑逆转与认知主动性的保护** 该命题关注 AI 工具设计层面的系统性解决方案：通过改变人机交互的根本逻辑——以追问替代给答案——在保留 AI 教育优势的同时阻断去技能化的发生机制。
 
 > [!claim] Naeem, H.
-> **提问型导师通过拦截答案迫使学习者维持认知主动性** 克服认知去技能化的关键在于重塑其交互逻辑，有别于简单禁用人工智能。通过将大语言模型配置为提问型导师（Question-Tutor, Q-Tutor），系统内置直接答案拦截规则，强制以层层递进的启发追问和[[Socratic Dialogue|苏格拉底式对话]]替代直接回答，迫使学生持续调动自身内在认知资源构思问题并连接前序知识。这一逆向交互架构将 AI 的角色从知识传递者彻底转变为认知挣扎的催化者，在保留学生主体性的同时实现对去技能化的有效防御。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 274–278)]]
+> **提问型导师通过拦截答案迫使学习者维持认知主动性** 克服认知去技能化的关键在于重塑其交互逻辑，有别于简单禁用人工智能。通过将大语言模型配置为提问型导师（Question-Tutor, Q-Tutor），系统内置直接答案拦截规则，强制以层层递进的启发追问和[[Socratic Dialogue|苏格拉底式对话]]替代直接回答，迫使学生持续调动自身内在认知资源构思问题并连接前序知识。这一逆向交互架构将 AI 的角色从知识传递者彻底转变为认知挣扎的催化者，在保[[Study Abroad|留学]]生主体性的同时实现对去技能化的有效防御。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 274–278)]]
 
 ---
 

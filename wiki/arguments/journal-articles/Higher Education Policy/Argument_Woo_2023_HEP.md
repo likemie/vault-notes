@@ -23,6 +23,7 @@ related_concepts:
   - "[[People-to-People Connectivity]]"
   - "[[National Rejuvenation Narrative]]"
   - "[[China Solution]]"
+  - "[[Transnational Education]]"
   - "[[Soft Power]]"
   - "[[Explanatory Critique]]"
   - "[[Discourse]]"
@@ -38,6 +39,7 @@ related_concepts:
   - "[[Century of Humiliation]]"
   - "[[Beijing Consensus]]"
   - "[[Washington Consensus]]"
+  - "[[Scientific Mobility]]"
   - "[[International Branch Campus]]"
   - "[[Education Going Global]]"
   - "[[Total War]]"
@@ -51,6 +53,7 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[International Education]]"
   - "[[Hard Power]]"
+  - "[[Study Abroad]]"
   - "[[Knowledge Production]]"
   - "[[Student Mobility]]"
   - "[[Developmentalism]]"
@@ -86,14 +89,14 @@ related_facts:
   - "[[Sino-Soviet Educational Cooperation]]"
 status: active
 created: 2026-10-19
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Woo_2023_HEP"
 argument_key: "Argument_Woo_2023_HEP"
 argument_display_title: "Narrating the Belt and Road education policy: A critical policy discourse analysis"
 argument_kind: "journal-article"
-argument_related_count: 61
+argument_related_count: 64
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -107,7 +110,7 @@ sources:
 > 中国[[Belt and Road Initiative|一带一路倡议]]（Belt and Road Initiative, BRI）教育政策在文本中如何建构自身意义？这些表述如何借助跨部门[[Policy Network|政策网络]]转化为具体的行动推进工具？又是何种深层社会历史机制促成了这一教育叙事的生成？
 
 > [!claim] 核心主张
-> 一带一路教育政策兼具双重面向：表层以多边协作、[[People-to-People Connectivity|民心相通]]与共同繁荣作为正当性修辞；深层则深度服从国家大局，成为推进地缘经济布局、服务[[National Rejuvenation Narrative|民族复兴]]与输出[[China Solution|中国方案]]的重要战略手段。这一跨国教育布局的实际成效，高度受制于国内经济增长势头、大国地缘博弈态势及沿线国家的本土民意。
+> 一带一路教育政策兼具双重面向：表层以多边协作、[[People-to-People Connectivity|民心相通]]与共同繁荣作为正当性修辞；深层则深度服从国家大局，成为推进地缘经济布局、服务[[National Rejuvenation Narrative|民族复兴]]与输出[[China Solution|中国方案]]的重要战略手段。这一[[Transnational Education|跨国教育]]布局的实际成效，高度受制于国内经济增长势头、大国地缘博弈态势及沿线国家的本土民意。
 
 > [!concept-lens] 阅读透镜
 > - **对象** [[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]（Ministry of Education, MOE）发布的纲领性教育行动方案、新闻发布会政策解读、国家最高领导人倡议演讲以及国家发展和改革委员会（National Development and Reform Commission, NDRC）等多部委联合发布的顶层规划文本群。
@@ -167,7 +170,7 @@ sources:
 > |---|---|---|---|---|
 > | [[Belt and Road Education Action Plan\|《推进共建“一带一路”教育行动》]] | 中华人民共和国教育部，2016年7月 | 沿线国家教育部、中国各高校与各省教育厅 | 提出教育互联互通、人才培养培训协同与丝路合作机制共建三大重点 | 奠定中国一带一路教育行动的制度规范与操作框架 |
 > | 《让“一带一路”愿景与行动在教育领域落地生根》 | 教育部新闻发布会，2016年8月 | 新闻媒体、教育界公众、沿线驻华使节 | 阐述政策出台背景、实施举措、重点支持学科与保障机制 | 官方权威政策解读，界定具体重点工程 |
-> | 纳扎尔巴耶夫大学演讲《弘扬人民友谊 共创美好未来》 | 国家主席，2013年9月 | 哈萨克斯坦政要、青年师生、国际社会 | 提出共建丝绸之路经济带，强调政策沟通、设施联通、贸易畅通、资金融通与[[People-to-People Connectivity\|民心相通]] | 提出青年交流与学术流动构想，奠定教育人文合作源头 |
+> | 纳扎尔巴耶夫大学演讲《弘扬人民友谊 共创美好未来》 | 国家主席，2013年9月 | 哈萨克斯坦政要、青年师生、国际社会 | 提出共建丝绸之路经济带，强调政策沟通、设施联通、贸易畅通、资金融通与[[People-to-People Connectivity\|民心相通]] | 提出青年交流与[[Scientific Mobility\|学术流动]]构想，奠定教育人文合作源头 |
 > | 印尼国会演讲《携手建设中国—东盟[[Community of Shared Future for Mankind\|命运共同体]]》 | 国家主席，2013年10月 | 印度尼西亚国会议员、[[ASEAN\|东盟]]国家政要 | 倡议共建21世纪海上丝绸之路，深化多领域务实合作与人文纽带 | 确立区域[[Community of Shared Future for Mankind\|命运共同体]]蓝图，将教育交流纳入大国外交布局 |
 > | 《推动共建丝绸之路经济带和21世纪海上丝绸之路的愿景与行动》 | 国家发改委、外交部、商务部，2015年3月 | 各部委、省级政府、央企与民营企业 | 全球化与多极化背景下的全方位国家对外开放顶层规划与经济走廊设计 | 设立中国政府奖学金并提出教育合作作为民心相通纽带 |
 > | 《高等职业教育创新发展行动计划（2015—2018年）》 | 中华人民共和国教育部，2015年10月 | 专科层次高等职业院校与应用技术大学 | 推动职业教育现代化与质量提升，促进专业设置与产业产能走出去紧密对接 | 规范职业院校[[International Branch Campus\|境外办学]]与实训基地建设，服务沿线重大工程 |
@@ -303,7 +306,7 @@ sources:
 
 > [!factors] 影响一带一路教育可持续推进的关键结构性制约因素
 > - **经济补贴的功利性依附**
->   留学生的跨国流入高度寄生于[[China Scholarship Council|国家留学基金管理委员会]]统筹的中国政府全额奖学金倾斜与“[[Study in China|留学中国]]”（Study in China）计划提供的经济资助，以及未来在华企的就业收益，纯粹的学术与文化吸引力相对有限，极易随经济周期波动发生逆转。
+>   [[Study Abroad|留学]]生的跨国流入高度寄生于[[China Scholarship Council|国家留学基金管理委员会]]统筹的中国政府全额奖学金倾斜与“[[Study in China|留学中国]]”（Study in China）计划提供的经济资助，以及未来在华企的就业收益，纯粹的学术与文化吸引力相对有限，极易随经济周期波动发生逆转。
 > - **大国地缘对抗与脱钩冲击**
 >   中美战略博弈加剧导致科技教育交流政治化；西方大国相继推出反制机制，如七国集团启动“[[Build Back Better World|重建更美好世界]]”（Build Back Better World, B3W）倡议对抗一带一路基建与知识布局；中东欧多国关系亦现裂痕，立陶宛于2021年宣布退出“17+1”合作（[[17+1 Cooperation]]）机制；同时西方多国加紧针对中国公派学者的立法审查，瑞典更在2020年全面关停境内的[[Confucius Institute|孔子学院]]与[[Confucius|孔子]]课堂，阻断了中国从西方获取关键前沿技术知识的渠道，进而削弱其作为全球[[Knowledge Production|知识生产]]中心的引领力。
 > - **合作国草根社群的抵抗与反弹**

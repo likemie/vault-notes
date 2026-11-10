@@ -9,7 +9,7 @@ aliases:
 summary: "源自哈贝马斯批判理论并在当代教育社会学与治理研究中深入发展的核心概念；指法律规范、条文对标、司法仲裁程序与法定行政制裁向学校教育日常运作的全面扩张；以瑞典新《教育法》实施为典型代表，外部督导从传统的专业教学支持形态，转变为以法定义务履行核查、行政罚款威慑与投诉处理为主导的司法化规制，引发学校实践的防御性合规。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[School Inspection]]"
   - "[[New Public Management]]"
+  - "[[Professional Accountability]]"
   - "[[Performance Indicators]]"
   - "[[Research Utilization]]"
   - "[[Discourse]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -73,7 +74,7 @@ updated: 2026-11-03
 ---
 
 > [!contrast-table] 概念辨析
-> | 维度 | 教育司法化（Juridification） | [[New Public Management\|新公共管理]]问责制（NPM Accountability） | 专业伦理自律（Professional Accountability） |
+> | 维度 | 教育司法化（Juridification） | [[New Public Management\|新公共管理]]问责制（NPM Accountability） | 专业伦理自律（[[Professional Accountability]]） |
 > |:---|:---|:---|:---|
 > | **合法性基础** | 国家成文法典、法规条例与法定权利裁判 | 投入产出效率、[[Performance Indicators\|绩效指标]]（KPI）与市场竞争 | 教师专业共同体共识与教育伦理操守 |
 > | **核心调控工具** | 行政罚款、撤销许可、法庭式投诉申诉仲裁 | 绩效奖惩、公开排名榜单、经费竞争拨付 | 同行评议、师徒传承、教研互助反思 |

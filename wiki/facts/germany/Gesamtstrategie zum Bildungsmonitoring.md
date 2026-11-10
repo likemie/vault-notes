@@ -11,7 +11,7 @@ subtype: policy
 region: germany
 fact_region: "germany"
 fact_kind: "policy"
-fact_related_count: 35
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
   - kmk
   - quality-assurance
 related_concepts:
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Data Infrastructure]]"
   - "[[Total War]]"
   - "[[Commensuration]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -77,7 +78,7 @@ updated: 2026-11-02
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2006 年由德意志联邦共和国[[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（Standing Conference of the Ministers of Education and Cultural Affairs, KMK / 德语：Ständige Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland）在 16 个联邦州全会共识基础上正式颁布，并于 2015 年表决通过全面升级修订案。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, p. 484)]]; [[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 139–141)]]
 > - **适用地区 / 对象** 覆盖全德 16 个联邦州的学前教育、初等教育、中等基础教育及职业学校教育体系，直接规约各州教育部、下属教研督导机构、测评院所与基层中小学校。
-> - **问题背景** 传统德国教育治理依托文化主权在州（Kulturhoheit der Länder）原则，长期偏重教学大纲（Lehrpläne）与行政法规等输入端控制；2000 年首轮[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）结果显示德国学生基础素养显著低于国际均值且阶层不平等严重（PISA 震荡），彻底动摇了传统体制自信，迫使联邦与各州转向基于实证产出监测的经验治理。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 484–485)]]; [[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 139–140)]]
+> - **问题背景** 传统德国教育治理依托文化主权在州（Kulturhoheit der Länder）原则，长期偏重教学大纲（Lehrpläne）与行政法规等输入端控制；2000 年首轮[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）结果显示德国学生[[Foundational Literacy and Numeracy|基础素养]]显著低于国际均值且阶层不平等严重（PISA 震荡），彻底动摇了传统体制自信，迫使联邦与各州转向基于实证产出监测的经验治理。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 484–485)]]; [[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 139–140)]]
 > - **制度位置** 构成了当代德国基础教育循证改革的最高统摄性纲领，确立了跨尺度[[Data Infrastructure\|数据基础设施]]、全国教育标准对等互认与多层级绩效评价的法定基石。
 
 ---

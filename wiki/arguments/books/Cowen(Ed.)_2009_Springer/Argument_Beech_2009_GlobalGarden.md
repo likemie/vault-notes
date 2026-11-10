@@ -34,9 +34,11 @@ related_concepts:
   - "[[Space of Places]]"
   - "[[Creativity]]"
   - "[[Shape-Shifting]]"
+  - "[[Policy Translation]]"
   - "[[Normal School]]"
   - "[[Paradigm]]"
   - "[[Policy Borrowing]]"
+  - "[[Transnational Education]]"
   - "[[Unit of Analysis]]"
   - "[[Document]]"
   - "[[School Effectiveness]]"
@@ -100,16 +102,16 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-10-15
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Beech_2009_GlobalGarden"
 argument_key: "Argument_Beech_2009_GlobalGarden"
 argument_display_title: "Who is strolling through the global garden? International agencies and educational transfer"
 argument_kind: "book-chapter"
-argument_related_count: 69
-argument_related_level: 6
-argument_related_stars: "💎💎"
+argument_related_count: 71
+argument_related_level: 7
+argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
 journal: ""
 book_title: "International Handbook of Comparative Education"
@@ -148,7 +150,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **跨国比较话语分析**<br>[[Discourse Analysis]] | 对比分析 1985–1996 年间 [[UNESCO]]、[[World Bank\|世界银行]]与 [[OECD]] 发布的 30 余份核心教育战略报告、政策审查与白皮书，解构其在未来社会预测、教育功能定位及改革工具箱上的深层预设与[[Discourse\|话语]]修辞。（pp. 345–348） |
-> | **历史制度与政策文献追踪**<br>[[Documentary Analysis]] | 梳理阿根廷与巴西自 1980 年代中叶至 2002 年间的国家教育基础法、联邦课程大纲规范、教师教育法令及地方配套行政规章，辨析其对国际机构普遍模型的政策转译轨迹。（pp. 348–349, 353–354） |
+> | **历史制度与政策文献追踪**<br>[[Documentary Analysis]] | 梳理阿根廷与巴西自 1980 年代中叶至 2002 年间的国家教育基础法、联邦课程大纲规范、教师教育法令及地方配套行政规章，辨析其对国际机构普遍模型的[[Policy Translation\|政策转译]]轨迹。（pp. 348–349, 353–354） |
 > | **半结构化深度访谈**<br>[[Semi-structured Interview]] | 对阿根廷与巴西的核心教育政策制定者、[[Normal School\|师范院校]]教师培训者以及中小学一线教师进行系统访谈，挖掘政策落地过程中的微观博弈、认知抵制与意外实践后果。（pp. 349, 353–354） |
 
 > [!sample-panel]- 样本与材料快照
@@ -191,7 +193,7 @@ issuing_organization: ""
 ---
 
 > [!claim|step] 论证步骤一　全球教育场域经历深刻重组，跨国多元新型行动者打破传统国家垄断并重塑教育转移[[Paradigm|范式]]
-> 当代全球化情境下的[[Policy Borrowing|教育借用]]与转移，已彻底打破了 19 世纪由主权国家政府特派官员垄断的花园采撷格局，[[Emergence|涌现]]出国际组织、跨国教育集团、咨询智库与大学援助部门等高度活跃的新型跨国行动者，迫使比较教育学摆脱以民族国家为唯一[[Unit of Analysis|分析单位]]的理论局限。（pp. 341–344）
+> 当代全球化情境下的[[Policy Borrowing|教育借用]]与转移，已彻底打破了 19 世纪由主权国家政府特派官员垄断的花园采撷格局，[[Emergence|涌现]]出国际组织、[[Transnational Education|跨国教育]]集团、咨询智库与大学援助部门等高度活跃的新型跨国行动者，迫使比较教育学摆脱以民族国家为唯一[[Unit of Analysis|分析单位]]的理论局限。（pp. 341–344）
 
 > [!sub-claim] 1. 危机驱动的国家教育借用由来已久，但传统借用始终由主权国家特派官员垄断
 

@@ -48,7 +48,8 @@ related_methods:
 related_instruments:
   - "[[Epistemic and Ontological Cognition Questionnaire]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Dimensions]]"
 related_arguments:
   - "[[Argument_Kuhn_2000_CD]]"
 sources:
@@ -56,14 +57,14 @@ sources:
 part_of: 
 status: draft
 created: 2026-08-15
-updated: 2026-10-26
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Greene_2010_JEP"
 argument_key: "Argument_Greene_2010_JEP"
 argument_display_title: "Empirical evidence regarding relations among a model of epistemic and ontological cognition, academic performance, and educational level"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -296,7 +297,7 @@ issuing_organization: ""
 > [!citation-card] 理论整合的需求
 > Hofer 提出，个人[[Epistemology|认识论]]研究可能正走向对多种模型观念的整合：可识别的信念维度被组织成理论，以大致可预测的方向发展，在情境中被激活，并作为[[Epistemic Cognition|认识论认知]]而运作。（Hofer, 2001, p. 377）
 >
-> *Hofer (2001) suggested that personal epistemology research may be moving toward “an integration of ideas from multiple models: an identifiable set of dimensions of beliefs, organized as theories, progressing in reasonably predictable directions, activated in context, operating as epistemic cognition”.*
+> *Hofer (2001) suggested that personal epistemology research may be moving toward “an integration of ideas from multiple models: an identifiable set of [[Dimensions|dimensions]] of beliefs, organized as theories, progressing in reasonably predictable directions, activated in context, operating as epistemic cognition”.*
 
 ---
 

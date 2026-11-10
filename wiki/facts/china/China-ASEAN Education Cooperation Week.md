@@ -10,9 +10,9 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 8
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: 2008–至今
 initiator_organization: 中华人民共和国外交部、中华人民共和国教育部、贵州省人民政府
@@ -26,6 +26,8 @@ tags:
   - level/international
 related_concepts:
   - "[[People-to-People Connectivity]]"
+  - "[[Study Abroad]]"
+  - "[[Transnational Education]]"
   - "[[Strategic Partnership]]"
   - "[[New Quality Productive Forces]]"
 related_theories: []
@@ -42,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -62,10 +64,10 @@ updated: 2026-10-26
 > 依托政府搭台、院校唱戏与企业参与的多元联动机制，通过常态化发布多边政策愿景、推进专业学分互认与共建产教联盟，有效突破双边教育要素跨国流动的制度性壁垒。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288, 298–300)]]
 
 > [!policy-design] 方案设计
-> - **项目目标** 落实《中国—东盟战略伙伴关系2030年愿景》，推进双向留学、职业教育数字化转型、高技能人才联合开发与科技创新协作。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, p. 288)]]
+> - **项目目标** 落实《中国—东盟战略伙伴关系2030年愿景》，推进双向[[Study Abroad|留学]]、职业教育数字化转型、高技能人才联合开发与科技创新协作。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, p. 288)]]
 > - **覆盖对象** 中国与东盟成员国的各级各类学校师生、出海中资企业技术人员及属地青年劳动力。
 > - **干预措施** 举办教育部长圆桌会议、国际产教融合论坛、职业技能大赛、来华留学生创新创业大赛以及院校合作签约洽谈会。
-> - **实施控制** 设立常设秘书处，建立年度主题轮值机制、项目签约成果追踪库与跨国教育合作联盟评估机制。
+> - **实施控制** 设立常设秘书处，建立年度主题轮值机制、项目签约成果追踪库与[[Transnational Education|跨国教育]]合作联盟评估机制。
 
 > [!citation-card] 愿景引领下的多边教育创新平台
 > 《中国—东盟战略伙伴关系2030年愿景》特别强调，要通过中国—东盟教育交流周等平台加强教育创新与学术交流，深化双方在数字技能培养、产教融合以及高技能人才联合培育领域的实质合作。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, p. 288)]]

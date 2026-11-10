@@ -7,7 +7,7 @@ aliases:
 summary: "一种将课程与教学视为文化政治斗争场域的批判教育哲学，主张以学生的活经验为起点，通过对话式提问、批判意识觉醒与可能性的语言，解构传统储蓄式教育与当代数智异化中的权力压迫，旨在培育具有自主性与社会解放潜能的批判求知者。"
 type: concept
 domain: "educational-philosophy"
-related_count: 58
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Culture of Silence]]"
   - "[[Constructed Knowledge]]"
   - "[[Representational Knowledge]]"
+  - "[[Transnational Education]]"
   - "[[Cultural Capital]]"
   - "[[Externalization]]"
   - "[[Man-Computer Symbiosis]]"
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -138,7 +139,7 @@ updated: 2026-11-03
 > - **可能性的语言与文化政治[[Champ|场域]]（Language of Possibility & Cultural Politics）** 视学校为不同[[Discourse|话语]]争夺合法性的政治场域（[[Champ|场域]]），以赋权与希望的可能性的语言，取代消极被动的支配性叙事。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 147–148)]]
 > - **[[Alien Intelligence|异己智能]]定位与思维全外显防御（Alien Intelligence & Showing Steps）** 将批判教育学的对话解放精神投射于智能时代：拒绝把 AI 视为共情伙伴，将其明确界定为缺乏人类具身生活与道德意图的异己智能，通过强制外显思考过程构筑认识防御。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 10–11)]]
 > - **[[Liberation Theology|解放神学]]的教牧根基与[[Representational Knowledge|代表性知识]]反哺（Preferential Option & Representational Knowledge）** 批判教育学深植于拉美解放神学“对穷人的优先选择”理念，依托基层教会识字网络培育被压迫者的觉醒意识；其依托道德连带建立的[[Representational Knowledge|代表性知识]]，打破了北方实证技术官僚对专业专长的垄断，反向启发了欧美主流社会的教育与治理变革。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 7, 12)]]
-> - **跨国宏观维度的全球化批判与结构再生产透视（Global Reproduction & Liberation Praxis）** 吸收[[Henry Giroux|吉鲁]]（Henry Giroux）与[[Paulo Freire|弗莱雷]]的批判思想，将批判教育学投射于跨国教育治理与比较研究：揭示核心国家通过附带条件的跨国援助推行资本主义制度强制再生产，倡导以主权自决与人道主义解放实践（praxis of liberation）取代盲目追求西方资本主义现代性。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 133–135)]]
+> - **跨国宏观维度的全球化批判与结构再生产透视（Global Reproduction & Liberation Praxis）** 吸收[[Henry Giroux|吉鲁]]（Henry Giroux）与[[Paulo Freire|弗莱雷]]的批判思想，将批判教育学投射于[[Transnational Education|跨国教育]]治理与比较研究：揭示核心国家通过附带条件的跨国援助推行资本主义制度强制再生产，倡导以主权自决与人道主义解放实践（praxis of liberation）取代盲目追求西方资本主义现代性。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 133–135)]]
 
 > [!logic-map]- 批判教育学的要素联动与时代延伸
 > ```mermaid

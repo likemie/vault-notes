@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 122
+fact_related_count: 124
 fact_related_level: 12
 fact_related_stars: "💎💎💎💎"
 fact_related_color: "#fecdd3"
@@ -74,6 +74,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Public-Private Partnership]]"
   - "[[Venture Philanthropy]]"
+  - "[[Transnational Education]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
   - "[[Critical Realism]]"
@@ -97,6 +98,7 @@ related_persons:
   - "[[Michael Gove]]"
   - "[[Michael Barber]]"
   - "[[Peter Lampl]]"
+  - "[[Ben Levin]]"
   - "[[Sir Kevan Collins]]"
   - "[[Mark Ginsburg]]"
 related_facts:
@@ -155,7 +157,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -173,7 +175,7 @@ updated: 2026-11-02
 
 > [!dev-timeline] 机构发展与全球扩张历程
 > - **2011 — 创设与工具包研发** 依据 2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]设想，Gove 在 [[Michael Barber]] 影响下推动设立，利用未扩大免费学生校餐的预算结余资金注资 1.25 亿英镑；[[Sutton Trust\|萨顿信托]]联合 [[Impetus]] 正式创立 EEF（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, pp. 90–91]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]）；接手并深度拓展杜伦大学（Durham University）研发的《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》（Teaching and Learning Toolkit），以额外学习月数（[[Months of Progress]]）向全英学校输出排序指标。
-> - **2012–2015 — 成为全球最大的教育 [[Randomised Controlled Trials\|RCT]] 资助旗舰之一** 设立评估者专家库（Panel of Evaluators）公开竞标体系，建立方案[[Preregistration\|预注册]]与[[National Pupil Database\|国家学生数据库]]（National Pupil Database，NPD）纵向归档；累计委托逾 200 项大规模[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials，RCT），占过去十年全球已知教育试验的近两成（19%），且 70% 以上试验规模超过 1,000 人。自 2014 年起通过加大招募使试验[[Effective Sample Size\|有效样本量]]较早期翻倍，显著提升了统计功效，被斯莱文（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, p. 24]]）评价为全球最具活力的教育因果试验资助与管理平台之一（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 48–50]]）。
+> - **2012–2015 — 成为全球最大的教育 [[Randomised Controlled Trials\|RCT]] 资助旗舰之一** 设立评估者专家库（Panel of Evaluators）公开竞标体系，建立方案[[Preregistration\|预注册]]与[[National Pupil Database\|国家学生数据库]]（National Pupil Database，NPD）纵向归档；累计委托逾 200 项大规模[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials，RCT），占过去十年全球已知教育试验的近两成（19%），且 70% 以上试验规模超过 1,000 人。自 2014 年起通过加大招募使试验[[Effective Sample Size\|有效样本量]]较早期翻倍，显著提升了统计功效，被斯[[Ben Levin|莱文]]（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, p. 24]]）评价为全球最具活力的教育因果试验资助与管理平台之一（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 48–50]]）。
 > - **2014 — 跨国原型输出与 [[Evidence for Learning\|E4L]] 联合资助** EEF 联合澳大利亚联邦银行（Commonwealth Bank of Australia）共同注入巨资，资助[[Social Ventures Australia\|澳大利亚社会创投]]（SVA）设立全资中介子公司[[Evidence for Learning\|证据学习中心]]（Evidence for Learning，E4L），由商业律师 Matthew Deeble 掌舵，直接引进并本土化 EEF 的[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]，率先在维多利亚州教育部试水并开展学校循证干预试验，作为国家级证据中介的样板试验田（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 530]]）。
 > - **2016–2020 — 跨国政策辐射与制度输出** SVA 以 E4L 的运行成效作为样板原型，向联邦生产力委员会及 [[Gonski 2.0]] 审查委员会递交多份专项建议书，系统推销以英国 EEF 和美国 [[Institute of Education Sciences\|IES]] 为蓝本的独立证据中介模式，直接促成国家级法定中介[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）的建立（[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 7]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 525]]）。
 > - **2018 — 跨国矿业资本注资与全球生态复制** 启动全球[[Evidence Ecosystem\|证据生态系统]]扩张战略，获得跨国铁矿石巨头必和必拓旗下基金会（[[BHP Foundation\|必和必拓基金会]]）资助开展为期 5 年的“[[Building a Global Evidence Ecosystem for Teaching\|构建全球教学证据生态系统]]”跨国项目，联合智利 [[SUMMA]] 与澳大利亚 E4L 等机构加速证据本土化转化与模式克隆（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 49]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 8]]）。
@@ -427,7 +429,7 @@ updated: 2026-11-02
 > - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis and Rowe (2024)]] — 批判 EEF 与澳大利亚 AERO 等[[Policy Network|政策网络]]如何将[[Cognitive Load Theory|认知负荷理论]]等特定学说编排为强制教师教育国家标准。
 > - [[Argument_Helgetun_2022_JEdPolicy|Helgetun and Menter (2022)]] — 剖析 EEF 在英格兰教师教育政策网络中作为“[[Rationalized Myth|合理化神话]]”的功能及政治[[Champ|场域]]中的选择性证据利用。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] — 比较[[OECD|经合组织]]（OECD）视野下 EEF 克服传统线性清算中心局限、迈向生态型证据中介的系统经验。
-> - [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] — 论述跨国教育知识中介机构景观演进及 EEF 作为生态型中介模式的代表性。
+> - [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] — 论述[[Transnational Education|跨国教育]]知识中介机构景观演进及 EEF 作为生态型中介模式的代表性。
 > - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a)]] — 评析 EEF 工具包的学校决策渗透率及研究学校网络（RSN）三年独立评估的因果时滞。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 从[[Critical Realism|批判实在论]]视阈核查 EEF 新起点拼读试验的数据包装缺陷与助教排行榜的去情境化误区。
 > - [[Argument_Ginsberg_2024_EducPolicy|Ginsberg et al. (2024)]] — 美国联邦级财务审计将 EEF 列为 4 个全球核心证据库之一，实证验证其在北美循证教育决策中的国际权威地位。

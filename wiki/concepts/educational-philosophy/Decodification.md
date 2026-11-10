@@ -6,10 +6,10 @@ aliases:
 summary: "保罗·弗莱雷提问式教育中受教者在文化圈中对编码符号展开对话拆解与结构性分析的过程，旨在揭示隐蔽的压迫机制并促成批判意识觉醒。"
 type: concept
 domain: "educational-philosophy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/educational-philosophy
   - theme/critical-pedagogy
@@ -17,11 +17,12 @@ tags:
   - conscientization
 related_concepts:
   - "[[Problem-Posing Education]]"
-  - "[[Conscientization]]"
   - "[[Epistemology]]"
+  - "[[Conscientization]]"
   - "[[Praxis]]"
   - "[[Culture of Silence]]"
   - "[[Dialogue in Education]]"
+  - "[[Critical Pedagogy]]"
   - "[[Active Learning]]"
 related_theories: []
 related_methods: []
@@ -34,13 +35,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Decodification
-> **解码（Decodification）** 是保罗·弗莱雷（[[Paulo Freire]]）[[Problem-Posing Education|提问式教育]]法中紧随编码的关键探究阶段，指受教者在文化圈（círculos de cultura）中围绕编码展开横向对话，从感性表象观察提升为对表象背后阶级剥削、制度压迫与权力关系的结构性认识，实现从“我思考”（I think）到“我们共同思考”（We think）的认识论飞跃。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 48, 61)]]
+> **解码（Decodification）** 是[[Paulo Freire|保罗·弗莱雷]]（[[Paulo Freire]]）[[Problem-Posing Education|提问式教育]]法中紧随编码的关键探究阶段，指受教者在文化圈（círculos de cultura）中围绕编码展开横向对话，从感性表象观察提升为对表象背后阶级剥削、制度压迫与权力关系的结构性认识，实现从“我思考”（I think）到“我们共同思考”（We think）的[[Epistemology|认识论]]飞跃。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 48, 61)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向对编码中介符号进行社会学与政治学结构拆解的共同认知深化过程。
@@ -101,7 +102,7 @@ updated: 2026-11-09
 > [!dev-timeline] 概念演变
 > - **1970 年 — 理论体系确立** 弗莱雷在《被压迫者教育学》中将解码确定为认识论觉醒的核心环节。[[Argument_Darwish_2009_Queens|(Freire, 2000, p. 105; Darwish, 2009, p. 61)]]
 > - **1973 年 — 认识论飞跃论述** 在《批判意识教育》中系统阐发解码如何促成“我们共同思考”的主体间认知飞跃。[[Argument_Darwish_2009_Queens|(Freire, 1973, p. 135; Darwish, 2009, p. 48)]]
-> - **2009 年 — 批判教育学实证对照应用** 达维什在教育研究中将解码作为评估[[Active Learning|主动学习]]深度与政治参与效能的衡量标准。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 61)]]
+> - **2009 年 — [[Critical Pedagogy|批判教育学]]实证对照应用** 达维什在教育研究中将解码作为评估[[Active Learning|主动学习]]深度与政治参与效能的衡量标准。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 61)]]
 
 ---
 

@@ -8,7 +8,7 @@ summary: "美国社会学家，斯坦福学派新制度主义与世界社会理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 41
+person_related_count: 42
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Otherhood]]"
   - "[[Organizational Actorhood]]"
   - "[[Rationalized Myth]]"
+  - "[[Transnational Education]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
   - "[[Falsification]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-11
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -97,7 +98,7 @@ updated: 2026-10-30
 > - **1935** 出生于美国。
 > - **1965** 获得哥伦比亚大学（Columbia University）社会学博士学位，受到实证量化分析与制度社会学的深厚学术熏陶。
 > - **1966–2000s** 任教于斯坦福大学社会学系，并长期在斯坦福教育学院开展交叉研究，开创享誉国际的[[Stanford School|斯坦福新制度主义学派]]（Stanford School of Neo-Institutionalism）。
-> - **1971–1979** 聚焦全球教育扩张动力研究，发表早期代表作《经济与政治对国家教育入学模式的影响》（Meyer, 1971），并与迈克尔·汉南（Michael T. Hannan）合著《国家发展与世界体系》（Meyer & Hannan, 1979），发现跨国教育大扩张无法被各国自身经济政治发展水平解释，必须引入世界体系的宏观解释视角。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–102)]]
+> - **1971–1979** 聚焦全球教育扩张动力研究，发表早期代表作《经济与政治对国家教育入学模式的影响》（Meyer, 1971），并与迈克尔·汉南（Michael T. Hannan）合著《国家发展与世界体系》（Meyer & Hannan, 1979），发现[[Transnational Education|跨国教育]]大扩张无法被各国自身经济政治发展水平解释，必须引入世界体系的宏观解释视角。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–102)]]
 > - **1977** 与布赖恩·罗文（Brian Rowan）合作发表《制度化组织：作为神话与仪式的正式结构》，奠定新制度主义组织社会学的理论基石。
 > - **1980s–1990s** 组建斯坦福跨学科研究团队，包括约翰·博利（John Boli）、弗朗西斯科·拉米雷斯（Francisco O. Ramirez）、乔治·托马斯（George M. Thomas）、阿伦·[[Aaron Benavot|贝纳沃特]]（Aaron Benavot）以及早期博士生[[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove）等，系统建立起跨越社会学、比较教育学与国际组织研究的全球学术网络。
 > - **1997** 合作发表宏篇力作《世界社会与民族国家》（Meyer et al., 1997），提出著名的孤岛社会假想，标志着[[World Society Theory|世界社会理论]]作为独立宏观解释[[Paradigm|范式]]的全面成熟。

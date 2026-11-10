@@ -9,10 +9,10 @@ summary: "哥伦比亚大学师范学院比较教育学讲座教授，《教育�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 57
-person_related_level: 5
-person_related_stars: "💎⭐⭐"
-person_related_color: "#ffedd5"
+person_related_count: 60
+person_related_level: 6
+person_related_stars: "💎💎"
+person_related_color: "#fef3c7"
 born: "1881"
 died: "1965"
 lifespan: "1881–1965"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Variable]]"
   - "[[Democratic Education]]"
+  - "[[Nationalism]]"
   - "[[National Character]]"
   - "[[Scientism]]"
   - "[[Grit]]"
@@ -35,6 +36,7 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Technical Rationality]]"
   - "[[Liberal Education]]"
+  - "[[Transnational Education]]"
   - "[[Determinism]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Epistemology]]"
@@ -49,6 +51,7 @@ related_concepts:
   - "[[Historical Amnesia]]"
   - "[[Whiggism]]"
   - "[[Construct]]"
+  - "[[Early-Career Researchers]]"
   - "[[Unit of Analysis]]"
   - "[[Protean Episteme]]"
   - "[[Comparative History of Comparative Education]]"
@@ -69,13 +72,13 @@ related_persons:
   - "[[Robert Ulich]]"
   - "[[Robert Cowen]]"
   - "[[Val D. Rust]]"
+  - "[[Crane Brinton]]"
   - "[[Martin Carnoy]]"
   - "[[Joel Samoff]]"
   - "[[Roger Dale]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
   - "[[Brian Holmes]]"
-  - "[[Crane Brinton]]"
 related_facts:
   - "[[Australian Council for Educational Research]]"
   - "[[UNESCO]]"
@@ -87,7 +90,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-05
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -95,7 +98,7 @@ updated: 2026-11-02
 > [!person-profile] 人物档案
 > - **身份位置** 美籍英裔比较教育学家、教育史学家与哲学家，哥伦比亚大学[[Normal School\|师范学院]]（Teachers College, Columbia University）教育学教授（1923–1946），曼彻斯特大学首任美国研究教授，《教育年鉴》（*Educational Yearbook*, 1924–1944）创办主编。
 > - **核心角色** 20 世纪上半叶比较教育学公认的学术泰斗与精神领袖，将[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）的历史主义推进为以政治国家为核心解释[[Variable\|变量]]的理论体系；作为欧洲犹太博雅学者，被[[George Bereday\|乔治·贝雷迪]]（George Bereday）誉为博雅大学人文学者一代的参天灯塔，其犹太精神纯粹而坚定；在两次世界大战与冷战前夕以深刻的人文直觉捍卫[[Democratic Education\|民主教育]]与国际主义。
-> - **代表贡献** 巨著《比较教育》（*Comparative Education*, 1933）确立以国家意志、民族主义与[[National Character\|民族性格]]为轴心的分析体系；奠定教育制度因果探究三阶段程序；创办并独立主持《教育年鉴》21 卷；出版战后集大成续作《教育的新时代》（*The New Era in Education*, 1955）。
+> - **代表贡献** 巨著《比较教育》（*Comparative Education*, 1933）确立以国家意志、[[Nationalism|民族主义]]与[[National Character\|民族性格]]为轴心的分析体系；奠定教育制度因果探究三阶段程序；创办并独立主持《教育年鉴》21 卷；出版战后集大成续作《教育的新时代》（*The New Era in Education*, 1955）。
 
 > [!citation-card] 贝雷迪与卡扎米亚斯论坎德尔作为博雅人文学者泰斗与国家变量开创者
 > 坎德尔是笃信直觉与人文洞见的博雅人文学者典范，兼具欧洲与美国的双重文明修养，是博雅大学人文学者一代的参天灯塔与指路明灯；他既非死板的[[Scientism|科学主义]]者，亦非咬文嚼字的学究，其[[Grit|坚毅]]的犹太精神与博雅学养将永远指引后人。在学科史上，他首次打破仅将政治视作外在背景的描述传统，将国家确立为统领全局的首要情境解释[[Independent Variable|自变量]]，推动比较教育学奠基为探究国家意志与观念形态的因果解释性人文科学。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 45–48; citing Bereday, 1966, pp. 147–150)]]
@@ -130,7 +133,7 @@ updated: 2026-11-02
 > - **1930年代中至1940年代 — 极权主义批判与[[Democratic Education\|民主教育]]辩护** 直面欧洲纳粹主义、法西斯主义与苏联极权制度对教育的政治操纵，以民主教育为人文防线。
 >   - **代表著作** *The Making of Nazis* (1934); *Conflicting Theories of Education* (1938).
 >   - **阶段转向** 将比较教育直接转变为捍卫[[Academic Freedom\|学术自由]]、思想多元与民主价值的政治哲学武器。
-> - **战后时期至晚期 — 全球战后重建与教育新时代** 总结二战教训，关注跨国教育流动与战后各国中等教育民主化重构。
+> - **战后时期至晚期 — 全球战后重建与教育新时代** 总结二战教训，关注[[Transnational Education|跨国教育]]流动与战后各国中等教育民主化重构。
 >   - **代表著作** *The New Era in Education: A Comparative Study* (1955).
 >   - **阶段转向** 聚焦战后福利国家背景下个性自由与国家控制的平衡，强调国际主义教育合作。
 
@@ -239,7 +242,7 @@ updated: 2026-11-02
 > > - **[[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] 的[[Epistemology|认识论]]辩护** 卡扎米亚斯援引[[Crane Brinton|克莱恩·布林顿]]（Crane Brinton）比较史学理论指出，坎德尔等学者的历史比较能够从具体历史形态中提炼出具有有限归纳效力的探索性[[Working Hypothesis|工作假说]]（Working [[Hypothesis|hypotheses]]）。不可检验的主观玄思是对这种历史比较的另一种定性。战后实证学派对历史维度的武断放逐，不仅未带来真正的科学普适规律，反而导致学科陷入严重的“[[Historical Amnesia|历史健忘症]]”。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 151–152, 155–156)]]
 >
 > > [!axis] [[Whiggism\|辉格史观]]与[[National Character\|国民性]][[Construct\|构念]]的虚妄
-> > 卡扎米亚斯作为战后青年学者对坎德尔历史方法展开的内在方法论清算。
+> > 卡扎米亚斯作为战后[[Early-Career Researchers|青年学者]]对坎德尔历史方法展开的内在方法论清算。
 > >
 > > - **Kazamias（1961, 2009）** 批评坎德尔混淆了历史描述与现实改良诉求，陷入历史学家赫伯特·巴特菲尔德（Herbert Butterfield）所指责的“辉格史观”（Whiggism）；同时指出其借助[[National Character\|国民性格]]解释教育差异（如将英国教育松散归咎于英国人天生不愿深思规划）缺乏可靠史料支撑，本质上是主观心理投射。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 54–55)]]
 >

@@ -9,9 +9,9 @@ summary: "由 Google Scholar 于 2011 年推出的文献计量指标，定义为
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 9
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 11
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Scientific Productivity]]"
   - "[[Unit of Analysis]]"
   - "[[Construct Validity]]"
+  - "[[Early-Career Researchers]]"
 related_theories: []
 related_methods:
   - "[[Author Name Disambiguation]]"
@@ -33,19 +34,20 @@ related_instruments: []
 related_persons:
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
-related_facts: []
+related_facts:
+  - "[[Google Scholar]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] i10-Index
-> **i10 指数（i10-Index）** 由学术搜索引擎 Google Scholar 于 2011 年推出，是针对学者个人学术影响力的简易阈值测度指标。其数学规则定义为：**学者所有公开发表的学术成果中，累计被引频次不低于 10 次的论著总篇数**。该指标被集成于 Google Scholar 学术个人主页，用于反映学者具备中等实质学术反响的核心论著规模。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
+> **i10 指数（i10-Index）** 由学术搜索引擎 [[Google Scholar]] 于 2011 年推出，是针对学者个人学术影响力的简易阈值测度指标。其数学规则定义为：**学者所有公开发表的学术成果中，累计被引频次不低于 10 次的论著总篇数**。该指标被集成于 Google Scholar 学术个人主页，用于反映学者具备中等实质学术反响的核心论著规模。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
 
 > [!method-scope] 方法范围
 > - **测量或估计对象** 学者达到基础同行认可门槛的有影响力成果规模，对应 [[Scientific Productivity|科研生产力]] 与 学术影响力 的初阶结合。
@@ -62,7 +64,7 @@ updated: 2026-10-30
 ---
 
 > [!method-position] 方法定位
-> - **[[Construct Validity|构念效度]]** 相比单纯发文量，有效过滤了零引用与边缘成果；相比 $h$ 指数，对处于学术积累初期的青年学者更为敏感，计算规则透明直观。
+> - **[[Construct Validity|构念效度]]** 相比单纯发文量，有效过滤了零引用与边缘成果；相比 $h$ 指数，对处于学术积累初期的[[Early-Career Researchers|青年学者]]更为敏感，计算规则透明直观。
 > - **研究者判断** 阈值 10 为人工设定的固定常数，并未依据不同学科的引用基准进行动态校准。
 > - **不声称回答的问题** 无法反映超越 10 次阈值后的高被引长尾分布，一项被引 10 次的成果与被引 1000 次的成果在权重上等同计为 1。
 

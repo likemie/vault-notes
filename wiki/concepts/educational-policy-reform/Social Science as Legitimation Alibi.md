@@ -13,7 +13,7 @@ aliases:
 summary: "在教育政策制定与跨国治理中，实证社会科学被政治决策者和技术官僚工具化为推卸行政责任、免受道德反思与公众问责、为既定政治决策提供客观性背书的政治借口机制"
 type: concept
 domain: "educational-policy-reform"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Geopolitics]]"
   - "[[Empiricism]]"
+  - "[[Transnational Education]]"
   - "[[Postpositivism]]"
   - "[[Doxa]]"
   - "[[Comparative Educations]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 > [!def] Social Science as Legitimation Alibi
@@ -125,7 +126,7 @@ updated: 2026-11-03
 > [!feature] 核心要素
 > - **官方资助市场的逆向淘汰机制** 科研资助机构与政客对无法得出明确处方、不支持预设方针且无法在官员任期内提供速效保证的研究（如霍姆斯揭示深层矛盾的[[Problem Approach\|问题法]]）抱有天然疑虑，促使资金向能提供直观回归系数的实证派高度集中。
 > - **机构赞助与[[Geopolitics|地缘政治]]利益合谋（Institutional Patronage & Policy Interests）** 实证功能主义与[[Empiricism|唯方法论主义]]在战后的迅速扩张，直接依托于国家政府、私人慈善基金会以及国际组织（如[[OECD|经合组织]]、[[World Bank|世界银行]]）强大的制度性资助；这些资助机构出于自身的行政与地缘政策利益，系统性地将实证社会科学作为推行发展规划与技术援助的科学护照。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148)]]
-> - **历史谱系中的改良借用辩护长波（Meliorist Legitimising Rationales）** 跨国教育知识作为政治合法化借口具有深远的历史根基：早在 19 世纪，欧美行政视察官便将外国办学数据转化为游说议会、推行公共教育税收的合法化理由；战[[Postpositivism|后实证主义]]则将这一机制升级为以[[Multiple Regression|多元回归]]与[[Human Capital Theory|人力资本]]模型为国家五年计划免责背书。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 141, 149)]]
+> - **历史谱系中的改良借用辩护长波（Meliorist Legitimising Rationales）** [[Transnational Education|跨国教育]]知识作为政治合法化借口具有深远的历史根基：早在 19 世纪，欧美行政视察官便将外国办学数据转化为游说议会、推行公共教育税收的合法化理由；战[[Postpositivism|后实证主义]]则将这一机制升级为以[[Multiple Regression|多元回归]]与[[Human Capital Theory|人力资本]]模型为国家五年计划免责背书。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 141, 149)]]
 > - **量化硬事实的去政治化包装** 实证学派借助大样本测量、[[Variable\|变量]]共变与数学方程，将高度涉及阶级利益再分配与价值偏好的政治裁决，精巧包装为中立、[[Doxa\|不言自明]]且无可争辩的自然规律。
 > - **推卸行政问责的道德避雷针** 一旦政策在现实中遭遇阻力或失败，官员可借口政策完全是“依据客观科学专家模型制定”，从而规避个人或执政党应当承担的政治问责与道德罪责。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 67–68)]]
 

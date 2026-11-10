@@ -12,7 +12,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
   - theme/research-governance
 related_concepts:
   - "[[Evidence-Based Policy-Making]]"
+  - "[[Early-Career Researchers]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Research Utilization]]"
 related_theories:
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -71,7 +72,7 @@ updated: 2026-10-26
 > [!feature] 塑造教育学与学术研究生态的三大维度
 > - **[[Department for Education|英国教育部]]重点研究领域清单（DfE ARIs）的标杆作用** 英国教育部常态化发布其核心政策问题清单（涵盖教师留任机制、早期儿童发展、职业技能培训及数字技术进课堂等），成为英国教育学界申请重大课题与规划政策影响力的黄金指引。
 > - **引导大学科研卓越框架（REF）影响力构建** 高校学者依托与特定部委 ARIs 的对齐，能够清晰证明其学术发现如何实质性改善了公共政策，为其构建高质量 REF 影响案例（Impact Case Studies）提供权威官方佐证。
-> - **赋能青年学者与博士生政策训练** 各大高校与资助机构利用 ARIs 设立政策实习生（Policy Internships）与议会学术研究员计划，推动早期科研人员直接参与真实世界政策证据的生产。
+> - **赋能[[Early-Career Researchers|青年学者]]与博士生政策训练** 各大高校与资助机构利用 ARIs 设立政策实习生（Policy Internships）与议会学术研究员计划，推动早期科研人员直接参与真实世界政策证据的生产。
 
 ---
 

@@ -9,7 +9,7 @@ summary: "芝加哥大学教育与社会学教授、比较教育研究中心主�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 30
+person_related_count: 32
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Positivism]]"
   - "[[Paradigm]]"
+  - "[[Transnational Education]]"
   - "[[Variable]]"
   - "[[Scientific Method]]"
   - "[[Objectivism]]"
@@ -36,6 +37,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Technical Rationality]]"
   - "[[Scientific Paradigm]]"
+  - "[[Professional Interest]]"
 related_theories:
   - "[[Structural Functionalism]]"
   - "[[Human Capital Theory]]"
@@ -62,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -92,7 +94,7 @@ updated: 2026-11-02
 > - **1961 年** 在《[[International Education|国际教育]]评论》发表里程碑论文《比较教育学的方法论》（*Methodology of comparative education*），正式向传统历史学派下达实证方法论战书。
 > - **1963–1964 年** 当选并出任美国比较教育学会（后更名为 [[Comparative and International Education Society|CIES]]）会长。
 > - **1965 年** 与 Mary Jean Bowman 合著出版《教育与经济发展》（*Education and Economic Development*），推动比较教育全面介入战后发展中国家的[[Human Capital Theory|人力资本]]规划。
-> - **1972 年** 从芝加哥大学比较教育研究中心主任职位荣休，继续从事跨国教育平等与职业流动的比较研究。
+> - **1972 年** 从芝加哥大学比较教育研究中心主任职位荣休，继续从事[[Transnational Education|跨国教育]]平等与职业流动的比较研究。
 > - **1977 年** 在 CIES 成立二十周年特刊上发表《四分之一世纪以来的比较教育：成熟与挑战》，反思学科科学化历程。
 > - **1990 年** 逝世于美国加利福尼亚州。
 
@@ -227,6 +229,6 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 详细考据比较教育第三代际芝加哥学派（Anderson & Foster）的结构功能分析，深入剖析其追求超越时空恒常规律的理论志趣，并揭示其作为战后国家计划与技术援助[[Social Science as Legitimation Alibi|合法化借口]]的政治功能（pp. 146–147, 150–151）。
+> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 详细考据比较教育第三代际芝加哥学派（Anderson & Foster）的结构功能分析，深入剖析其追求超越时空恒常规律的理论[[Professional Interest|志趣]]，并揭示其作为战后国家计划与技术援助[[Social Science as Legitimation Alibi|合法化借口]]的政治功能（pp. 146–147, 150–151）。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 详细评析安德森所代表的芝加哥[[Structural Functionalism|结构功能主义]]学派对恒常超越时空规律的追求及其方法论特征。
 > - [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 论述安德森作为战后早期社会学界代表，在将常规社会科学规范与严谨分析模式引入比较教育学中的奠基性历史地位。

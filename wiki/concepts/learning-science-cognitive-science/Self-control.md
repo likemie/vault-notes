@@ -8,7 +8,7 @@ aliases:
 summary: "个体在目标导向活动中主动调节注意、情绪与冲动反应以实现长远目标的非认知心理能力。在学习科学中，它构成了元认知调节与社会情感能力的底层基础，表现为反应抑制、情绪稳定与任务切换，对学业持久性与课堂适应具有关键支撑作用。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 47
+related_count: 49
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Predictive Validity]]"
   - "[[Hawthorne Effect]]"
   - "[[Construct Validity]]"
+  - "[[Scientific Mobility]]"
   - "[[Scaffolding]]"
   - "[[Construct]]"
   - "[[Social-Emotional Learning]]"
@@ -48,6 +49,7 @@ related_concepts:
   - "[[Prefrontal Cortex]]"
   - "[[Business as Usual]]"
   - "[[Grit]]"
+  - "[[Homophily]]"
   - "[[Structured Teaching]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
@@ -77,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-06'
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 （自我控制）
@@ -174,7 +176,7 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题三｜自我控制具备高度情境可塑性与习得性资源属性，其学术迁移依赖显性[[Scaffolding|教学支架]]
+> [!concept-proposition] 命题三｜自我控制具备高度情境可塑性与习得性资源属性，其[[Scientific Mobility|学术迁移]]依赖显性[[Scaffolding|教学支架]]
 > **自控力的干预可塑性与生态化教学设计** 探讨自我控制究竟是固定的特质性人格倾向，还是可通过后天针对性支架教学进行系统培育的技能库。
 
 > [!claim] [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022, pp. 69–70)]]; Rosenbaum (1990)
@@ -227,7 +229,7 @@ updated: 2026-11-03
 > > - **批判规训立场（Kohn, 2014）** 批判过度推崇自我控制是将结构性教育不平等个体化、病理化的意识形态修辞，把学生培养为顺从学校权威与劳动力市场规训的工具人。
 
 > [!critique] 外部批评与方法学反思
-> - **测量工具的心理测量学黑箱** 大多数非认知自控测评依赖主观自陈量表，在缺乏外部效标锚定的情况下极易受社会赞许性效应污染；不同研究中使用的自控量表同质性差，导致[[Meta-analysis\|元分析]]综合面临“关公战秦琼”式的测量效度危机。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]; Wigelsworth (2017)
+> - **测量工具的心理测量学黑箱** 大多数非认知自控测评依赖主观自陈量表，在缺乏外部效标锚定的情况下极易受社会赞许性效应污染；不同研究中使用的自控量表[[Homophily|同质性]]差，导致[[Meta-analysis\|元分析]]综合面临“关公战秦琼”式的测量效度危机。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]; Wigelsworth (2017)
 > - **约翰·亨利主义（John Henryism）风险** 针对少数族裔与弱势学童的研究警示，在系统性资源极度匮乏的环境中，过度依靠高度自我控制和意志力强行逆天改命，极易引发慢性高皮质醇分泌，导致生理代谢紊乱与身心透支。
 
 > [!warning] 适用局限

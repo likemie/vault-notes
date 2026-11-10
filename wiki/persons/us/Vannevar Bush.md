@@ -7,14 +7,14 @@ summary: "美国电机工程师、科技管理者与战后科技政策奠基人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 69
-person_related_level: 6
-person_related_stars: "💎💎"
+person_related_count: 72
+person_related_level: 7
+person_related_stars: "💎💎⭐"
 person_related_color: "#fef3c7"
 born: "1890"
 died: "1974"
 lifespan: "1890–1974"
-updated: 2026-11-04
+updated: 2026-11-11
 tags:
   - person/engineer
   - person/policy-architect
@@ -56,8 +56,10 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Michael Fullan]]"
   - "[[Franklin D. Roosevelt]]"
   - "[[J. Robert Oppenheimer]]"
+  - "[[Harry S. Truman]]"
   - "[[Chris Freeman]]"
   - "[[Fred Block]]"
   - "[[Michael Kratsios]]"
@@ -74,6 +76,7 @@ related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
   - "[[Manhattan Project]]"
+  - "[[Department of Defense]]"
   - "[[United States Congress]]"
   - "[[Bell Labs]]"
   - "[[Bayh-Dole Act of 1980]]"
@@ -106,7 +109,7 @@ created: 2026-10-02
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国电机工程师、发明家、科学管理者与战后国家科技政策奠基人；麻省理工学院（MIT）副校长兼工学院院长（1932–1938）、卡内基科学研究所所长（1939–1955）；二战期间出任美国科学研究与开发署（[[Office of Scientific Research and Development|OSRD]]）署长，直接向[[Franklin D. Roosevelt|富兰克林·罗斯福总统]]汇报。
+> - **身份位置** 美国电机工程师、发明家、科学管理者与战后国家科技政策奠基人；麻省理工学院（MIT）副校长兼工学院院长（1932–1938）、卡内基科学研究所所长（1939–1955）；二战期间出任美国科学研究与开发署（[[Office of Scientific Research and Development|OSRD]]）署长，直接向[[Michael Fullan|富兰]]克林·[[Franklin D. Roosevelt|罗斯福总统]]汇报。
 > - **核心角色** 战后美国国家科研资助契约的总缔造者与[[Technological Republic|技术共和国]]的制度原型奠基人；在 1945 年具有里程碑意义的国情咨询报告《科学——[[Science, The Endless Frontier 1945|无尽的前沿]]》中，成功确立了联邦政府全额资助大学自由学术探索的合法性，推动了国家科学基金会（[[National Science Foundation|NSF]]）的创立；其报告制度化了[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]与单向[[Linear Model of Innovation|线性创新模型]]。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
 > - **代表贡献** 提出并起草《科学——无尽的前沿》；战时统筹动员全美科研资源推进微波雷达、近炸引信与原子弹（[[Manhattan Project|曼哈顿工程]]）攻关；发明机械式连续微分分析仪（早期模拟计算机原型）；在 1945 年发表的《诚如所思》（*As We May Think*）中构想了微缩胶片信息检索系统 Memex（超文本与现代互联网概念先驱）。
 
@@ -133,7 +136,7 @@ created: 2026-10-02
 > - **1939–1941年** 出任华盛顿卡内基科学研究所所长，深度介入国家防务与科技战略咨询；1940 年说服[[Franklin D. Roosevelt|罗斯福总统]]设立国防科研委员会（NDRC）并担任主席。
 > - **1941–1945年** 出任美国科学研究与开发署（[[Office of Scientific Research and Development|OSRD]]）署长，战时动员全美顶尖大学学者与工业企业工程师，以合同外包机制统筹推进雷达、青霉素量产、近炸引信及[[Manhattan Project|曼哈顿工程]]；1942 年《科利尔》（*Collier's*）杂志直称其为可能赢得战争的人。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 7)]]
 > - **1944–1945年** 1944 年 11 月应罗斯福总统关于战后如何将受战事冲击的物理学家等科研力量重新导向民用科学进步之问询，组织四大学者委员会起草纲领性报告，于 1945 年 7 月正式呈交《科学——[[Science, The Endless Frontier 1945|无尽的前沿]]》（*Science, The Endless Frontier*），为战后美国国家科技战略确立了长达数十年的制度框架。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
-> - **1947–1950年** 伴随战后科学管理权限分歧与杜鲁门政府军工计划性倾向，布什失去政治威信于 1947 年离开华府，战时建立的 OSRD 随之撤销；其倡导的免于政治干预的纯基础研究设想一度遭到搁置，大学科研被五角大楼与原子能委员会的定向合同深度捆绑。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–37)]]
+> - **1947–1950年** 伴随战后科学管理权限分歧与[[Harry S. Truman|杜鲁门]]政府军工计划性倾向，布什失去政治威信于 1947 年离开华府，战时建立的 OSRD 随之撤销；其倡导的免于政治干预的纯基础研究设想一度遭到搁置，大学科研被[[Department of Defense|五角大楼]]与原子能委员会的定向合同深度捆绑。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–37)]]
 > - **1950–1974年** 推动[[United States Congress|美国国会]]通过法案设立国家科学基金会（NSF，1950）；担任 AT&T 与默克制药等企业董事；1974 年逝世于马萨诸塞州贝尔蒙特，享年 84 岁。
 
 ---
@@ -181,7 +184,7 @@ created: 2026-10-02
 ---
 
 > [!person-network] 关系网络
-> - **政治委托人** [[Franklin D. Roosevelt|富兰克林·罗斯福]]、哈里·杜鲁门（Harry S. Truman） — 报告的委托总统与接收总统。
+> - **政治委托人** 富兰克林·罗斯福、哈里·杜鲁门（Harry S. Truman） — 报告的委托总统与接收总统。
 > - **战时科学指挥协同者** [[J. Robert Oppenheimer]] — 布什支持并委任奥本海默领导洛斯阿拉莫斯实验室，二人共同开创了[[Manhattan Project|曼哈顿工程]][[Big Science|大科学]]攻坚[[Paradigm|范式]]。
 > - **当代历史对话者与改革者** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios） — 2026 年主持起草《[[Science A New Golden Age 2026|科学：新的黄金时代]]》，在全面对照[[Science, The Endless Frontier 1945|布什报告]]的基础上重构战后科技资助与制造承接体系。
 > - **地缘战略与技术动员反思者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 2025 年在《[[Technological Republic|技术共和国]]》中回顾布什主导 [[Office of Scientific Research and Development|OSRD]] 时期科学界与国家安全机构的高度互信与战略结盟，呼唤在新一代人工智能竞争与破除[[Big Idea Famine|大构想饥荒]]中重振这一动员传统。

@@ -7,7 +7,7 @@ aliases:
 summary: "指在跨国区域合作与南南合作框架下，通过教育、科技、文化与人员双向流动增进跨国互信，为经济走廊与重大战略合作奠定社会民意与制度正当性基础的政策话语与治理机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 27
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,8 @@ related_concepts:
   - "[[Mutual Learning]]"
   - "[[Public Diplomacy]]"
   - "[[Community of Shared Future for Mankind]]"
+  - "[[Study Abroad]]"
+  - "[[Early-Career Researchers]]"
   - "[[Variable]]"
   - "[[Student Mobility]]"
 related_theories:
@@ -55,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -92,7 +94,7 @@ updated: 2026-11-03
 > [!feature] 核心要素
 > - **教育互联与制度打通** 推进跨国语言互通、学分互认、学位学历互认及资格框架对接，消除人员跨境学习与专业执业的制度性障碍。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 229–230)]]
 > - **对称共赢的[[Discourse|话语]]建构** 在政策文本中系统确立“双方”、“共同”、“相互”等互惠词汇，消除传统南北援助中施援国对受援国的依附关系，重塑全球南方的制度自主权。[[Argument_King_2020_ECNUROE|(King, 2020, p. 222)]]
-> - **实体化产教能力共建** 超越单纯的留学生奖学金供给，通过境外设立[[Luban Workshop|鲁班工坊]]、联合研究中心和跨国高校联盟，将人才培养与重大基建及产业走廊紧密绑定。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224–227)]]
+> - **实体化产教能力共建** 超越单纯的[[Study Abroad|留学]]生奖学金供给，通过境外设立[[Luban Workshop|鲁班工坊]]、联合研究中心和跨国高校联盟，将人才培养与重大基建及产业走廊紧密绑定。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224–227)]]
 > - **多元社会主体广泛协同** 由中央教育行政统筹延伸至部省共建、校企结对、友好城市及民间组织，形成上下联动的多层次支撑网络。[[Argument_King_2020_ECNUROE|(King, 2020, p. 231)]]
 
 > [!logic-map]- 要素关系
@@ -150,7 +152,7 @@ updated: 2026-11-03
 > > 批评界与实证研究者围绕民心相通究竟是单纯服务于经济投资的工具性外壳，还是具有相对独立价值的深层文明交往展开交锋。
 > >
 > > - **工具主义批判视角** 部分[[Critical Discourse Analysis|批判话语分析]]学者认为，民心相通在政策文本中高度附属于交通大通道、能源管道与贸易走廊建设，教育与文化合作被深度工具化为降低海外商业投资政治风险的护航工具。
-> > - **内生社会交往辩护** 实证研究者指出，跨国师资培训、青年学者联合科研与职业技能培训为发展中国家创造了扎实的本土[[Human Capital Theory|人力资本]]，其社会交往成效具有不可替代的人文溢出价值。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 227–228)]]
+> > - **内生社会交往辩护** 实证研究者指出，跨国师资培训、[[Early-Career Researchers|青年学者]]联合科研与职业技能培训为发展中国家创造了扎实的本土[[Human Capital Theory|人力资本]]，其社会交往成效具有不可替代的人文溢出价值。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 227–228)]]
 >
 > > [!axis] 对称互惠[[Discourse|话语]]与单向资源供给张力
 > > 政策话语强调的双向对等与实际执行中的资源不对称流动引发学术讨论。

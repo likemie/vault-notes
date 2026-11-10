@@ -11,7 +11,7 @@ subtype: policy
 region: multi
 fact_region: "multi"
 fact_kind: "policy"
-fact_related_count: 33
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -25,6 +25,8 @@ tags:
 related_concepts:
   - "[[Heterogeneity]]"
   - "[[Geopolitics]]"
+  - "[[Study Abroad]]"
+  - "[[Scientific Mobility]]"
   - "[[ASEAN Way]]"
   - "[[Opportunistic Collaboration]]"
   - "[[Research Universities]]"
@@ -35,6 +37,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Falsification]]"
   - "[[Paradigm]]"
+  - "[[Transnational Education]]"
   - "[[Epistemic Friction]]"
   - "[[Bologna Process Export Thesis]]"
   - "[[Global Regionalisms]]"
@@ -65,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-26
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -73,7 +76,7 @@ updated: 2026-11-02
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2008 年[[SEAMEO RIHED|东南亚教育部长组织高等教育与发展区域中心]]（[[SEAMEO]] RIHED）发布区域高教空间规划报告（Towards a Southeast Asian Higher Education Common Space），正式提出构建共同空间蓝图；2010 年代伴随[[ASEAN|东盟]]互联互通总体规划（[[Master Plan on ASEAN Connectivity]]）推进，该架构演进为包容既有分散项目的弹性平台；2024 年[[ASEAN|东南亚国家联盟]]（ASEAN）与东南亚教育部长组织（SEAMEO）正式联合签署《东南亚高等教育共同空间宣言》，将共同空间确立为区域层面的联合政策框架。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 152–154)]]；[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 3)]]
 > - **适用地区 / 对象** 东南亚 11 个国家（东盟 10 国及东帝汶）的高等教育行政部门、公立与私立大学、质保中介机构（如 [[ASEAN University Network|AUN]]-QA、AQAN）及跨国流动师生群体。
-> - **问题背景** 东南亚各国高等教育体制具有显著的[[Heterogeneity|异质性]]，后殖民历史遗留导致多国体制互不兼容，长期缺乏全域通用的学位与学分互认体系；2007 年东盟峰会确立 2015 年建成[[ASEAN Economic Community|东盟经济共同体]]（AEC）的期限，横向倒逼社会文化支柱加快疏通高技能人才跨境流动与资历对接堵点；全球[[Geopolitics|地缘政治]]冲突加剧导致传统西方留学目的地安全审查趋严，促使东南亚寻求构筑内生性的学术流动走廊。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 153)]]；[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 3)]]
+> - **问题背景** 东南亚各国高等教育体制具有显著的[[Heterogeneity|异质性]]，后殖民历史遗留导致多国体制互不兼容，长期缺乏全域通用的学位与学分互认体系；2007 年东盟峰会确立 2015 年建成[[ASEAN Economic Community|东盟经济共同体]]（AEC）的期限，横向倒逼社会文化支柱加快疏通高技能人才跨境流动与资历对接堵点；全球[[Geopolitics|地缘政治]]冲突加剧导致传统西方[[Study Abroad|留学]]目的地安全审查趋严，促使东南亚寻求构筑内生性的[[Scientific Mobility|学术流动]]走廊。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 153)]]；[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 3)]]
 > - **制度位置** 东南亚共同空间植根于“[[ASEAN Way|东盟方式]]”（ASEAN Way）与不干涉内政原则；作为非强制性、去中心化的自愿协调网络，其制度定位在于连接并包容精英高校网络（[[ASEAN University Network|AUN]]）与政府部委平台（[[SEAMEO RIHED]]）已有的多元机制。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 152–154)]]
 
 ---
@@ -135,7 +138,7 @@ updated: 2026-11-02
 > [!debates] 政策争议
 >
 > > [!axis] 全域趋同追求与多元多样性哲学的[[Paradigm|范式]]分歧
-> > 围绕跨国高等教育一体化是否必须走向标准化[[Institutional Isomorphism|制度同构]]展开争论。
+> > 围绕[[Transnational Education|跨国高等教育]]一体化是否必须走向标准化[[Institutional Isomorphism|制度同构]]展开争论。
 > > - **博洛尼亚输出假说** 预设后发区域会主动借鉴成熟组织的先进治理方案，通过自上而下的学制分层与学分统一消除体制差异。
 > > - **东南亚本土经验反驳** [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] 证实，东南亚政策制定者明确拒绝博洛尼亚同构路径；SEAMEO RIHED 官方报告明确建议规避欧洲大一统模式，强调多样性是不可侵犯的现实基础，共同空间应作为包容多元并存的伞式平台。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 153–155)]]
 >

@@ -8,7 +8,7 @@ summary: "质性数据分析中将文本、图像及多模态数据拆解分段�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 76
+method_related_count: 77
 method_related_level: 7
 method_related_stars: "💎💎⭐"
 method_related_color: "#dbeafe"
@@ -90,6 +90,7 @@ related_instruments:
 related_persons:
   - "[[Miranda Fricker]]"
 related_facts:
+  - "[[Dimensions]]"
   - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
@@ -104,7 +105,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -168,7 +169,7 @@ updated: 2026-10-30
 > 施特劳斯（Anselm Strauss）与科宾（Juliet Corbin）在[[Grounded Theory\|扎根理论]]传统中确立了从微观经验切片向理论抽象层级持续提升的四阶编码程序：
 >
 > > [!step] 阶梯一：[[Open Coding\|开放编码]]（Open Coding）
-> > 研究者对文本逐行、逐句或逐段赋予描述性标签，打破数据形成微观[[Unit of Analysis\|分析单元]]。开放编码旨在生成范畴并界定其属性（properties，如范畴的特征与质地）与维度（dimensions，属性在连续统上的具体位置；例如“注视”范畴包含频率、范围、强度、持续时间等维度）。代码可直接采纳受访者原话（本土编码，in vivo code），亦可由研究者基于理论敏感度创生。
+> > 研究者对文本逐行、逐句或逐段赋予描述性标签，打破数据形成微观[[Unit of Analysis\|分析单元]]。开放编码旨在生成范畴并界定其属性（properties，如范畴的特征与质地）与维度（[[Dimensions|dimensions]]，属性在连续统上的具体位置；例如“注视”范畴包含频率、范围、强度、持续时间等维度）。代码可直接采纳受访者原话（本土编码，in vivo code），亦可由研究者基于理论敏感度创生。
 >
 > > [!step] 阶梯二：分析编码（Analytic Coding）
 > > 超越单纯的描述性归纳，提炼具有推论性与解释力的分析标签。例如将“实验”“控制[[Variable\|变量]]”“测试”等描述性活动编码综合提炼为“像科学家一样工作”，或将教师“忽略破坏”“不予回应”等行为提炼为“教师放弃/否认”。

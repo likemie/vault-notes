@@ -9,7 +9,7 @@ summary: "批判取向的质性教育政策研究方法与认识论范式，将�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 47
+method_related_count: 48
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Grand Theory]]"
   - "[[Evidence Standards]]"
+  - "[[Transnational Education]]"
   - "[[Geopolitics]]"
   - "[[Teacher Professional Agency]]"
   - "[[Creativity]]"
@@ -77,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -135,7 +136,7 @@ updated: 2026-10-30
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 适用于分析高利害问责政策出台背景、解剖科研[[Evidence Standards|证据标准]]背后的政治操纵、揭示商业出版资本对课程的渗透、解构跨国教育对外政策中的[[Geopolitics|地缘政治]]工具主义，以及赋权一线[[Teacher Professional Agency|教师专业能动性]]。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–14)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–687)]]
+> - **适合使用** 适用于分析高利害问责政策出台背景、解剖科研[[Evidence Standards|证据标准]]背后的政治操纵、揭示商业出版资本对课程的渗透、解构[[Transnational Education|跨国教育]]对外政策中的[[Geopolitics|地缘政治]]工具主义，以及赋权一线[[Teacher Professional Agency|教师专业能动性]]。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–14)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–687)]]
 > - **谨慎使用** 在政策出台初期缺乏公开听证材料或档案极度保密的情境下，需依赖知情人士访谈与内部备忘录进行严谨考证，防止滑入无证据支持的臆测。
 > - **不适合使用** 不适合用于测量特定教学干预对学生标准化测验成绩的短期数值[[Effect Size|效应量]]，亦不适合为官僚机构制定单向度的执行绩效考核指标。
 

@@ -8,7 +8,7 @@ summary: "阿根廷与澳大利亚批判比较教育学者，蒙纳士大学副�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 53
+person_related_count: 55
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -25,10 +25,12 @@ related_concepts:
   - "[[Relational Space]]"
   - "[[Recontextualization]]"
   - "[[Methodological Nationalism]]"
+  - "[[Transnational Education]]"
   - "[[Discourse]]"
   - "[[Champ]]"
   - "[[Global Educational Discourse]]"
   - "[[Gatekeepers]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Shape-Shifting]]"
   - "[[Global Policy Space]]"
   - "[[Discursive Field]]"
@@ -41,7 +43,7 @@ related_concepts:
   - "[[Educational Meliorism]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Epistemology]]"
-  - "[[Grammar of Schooling]]"
+  - "[[Nationalism]]"
   - "[[School Autonomy]]"
   - "[[Knowledge Production]]"
   - "[[Creativity]]"
@@ -83,21 +85,21 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 阿根廷与澳大利亚批判比较教育与教育政策社会学者，曾长期任教于阿根廷圣安德烈斯大学（Universidad de San Andrés）教育学院并担任比较教育研究中心主任，现为澳大利亚蒙纳士大学（Monash University）教育学院副教授；师从当代著名比较教育学者[[Robert Cowen|罗伯特·考恩]]，获伦敦大学教育学院（UCL Institute of Education）博士学位。
-> - **核心角色** 当代比较教育学“空间转向”（Spatial Turn）与批判政策社会学的代表性理论家。他在教育转移研究中引入[[Relational Space|关系性空间]]、[[Network Society|网络社会]]与[[Recontextualization|再情境化]]理论，打破传统[[Methodological Nationalism|方法论民族主义]]（[[Methodological Nationalism]]）将民族国家视为封闭容器的静态偏见，系统揭示跨国教育治理中的结构性不平等与[[Discourse|话语]]权力运作。
+> - **核心角色** 当代比较教育学“空间转向”（Spatial Turn）与批判政策社会学的代表性理论家。他在教育转移研究中引入[[Relational Space|关系性空间]]、[[Network Society|网络社会]]与[[Recontextualization|再情境化]]理论，打破传统[[Methodological Nationalism|方法论民族主义]]（[[Methodological Nationalism]]）将民族国家视为封闭容器的静态偏见，系统揭示[[Transnational Education|跨国教育]]治理中的结构性不平等与[[Discourse|话语]]权力运作。
 > - **代表贡献** 首创全球教育[[Champ|场域]]五位置话语流通模型（[[Beech's Model of Discourse Circulation]]）；提出超越领土容器的[[Relational Space|关系性空间]][[Analytic Framework|分析框架]]；系统解构跨国机构对[[Global Educational Discourse|全球教育话语]]与改革方案的“双重垄断”；揭示外围国家精英构成的“[[Gatekeepers|守门人]]群体”及其对本土替代性政策探索空间的闭合效应。
 
 ---
 
 > [!timeline] 生平与职涯
 > - **1990 年代末–2000 年代初** 赴英深造，在伦敦大学教育学院（IOE）攻读博士学位，师从当代比较教育名家[[Robert Cowen|罗伯特·考恩]]；博士研究聚焦拉美国家教育政策转移与阿根廷、巴西课程改革。
-> - **2005 年** 完成博士学位论文 *The Meaning of Educational Transfer: The Transfer of Ideas in Argentina and Brazil*，奠定其关于教育转移并非线性搬运而是多层级[[Recontextualization|再情境化]][[Shape-Shifting|形变]]的理论基石；同年 11 月在布宜诺斯艾利斯主持[[Stephen Ball|斯蒂芬·鲍尔]]学术研讨会，深受其关于私营部门介入与政策简约性反思的启发。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 356)]]
+> - **2005 年** 完成[[Doctoral Dissertation|博士学位论文]] *The Meaning of Educational Transfer: The Transfer of Ideas in Argentina and Brazil*，奠定其关于教育转移并非线性搬运而是多层级[[Recontextualization|再情境化]][[Shape-Shifting|形变]]的理论基石；同年 11 月在布宜诺斯艾利斯主持[[Stephen Ball|斯蒂芬·鲍尔]]学术研讨会，深受其关于私营部门介入与政策简约性反思的启发。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 356)]]
 > - **2006–2010 年** 执教于阿根廷圣安德烈斯大学，担任阿根廷比较教育学会（SAECE）理事；2009 年先后在 *Comparative Education* 与考恩编著的《比较教育学国际手册》发表里程碑论文，系统构建[[Global Policy Space|全球政策空间]]概念与五位置[[Discourse|话语]]流通模型。
 > - **2011 年** 出版学术专著 *Global Panaceas, Local Realities: International Agencies and the Future of Education*（Peter Lang）；同年发表论文探析阿根廷教育治理市场化，提出拉美教育改革的“黑天鹅”悖论。
 > - **2015 年至今** 与阿托波洛斯发表合著论文，推进基于[[Actor-Network Theory|行动者网络理论]]（[[Actor-Network Theory|ANT]]）的[[Discursive Field|话语空间]]流通研究；后加盟澳大利亚蒙纳士大学任副教授，持续引领全球教育治理与跨国政策流通研究。
@@ -125,8 +127,8 @@ updated: 2026-11-02
 > 4. **本土学术空间（Local Academic Space）** 本应提供本土反思与替代方案，但在外围国家往往发育不全并严重依附。
 > 5. **教育机构（Educational Institutions）** 话语再生产与终极实践阵地，由微观课堂师生面对面互动完成具身[[Recontextualization|再情境化]]。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–351)]]
 
-> [!claim] 命题二：[[Relational Space|关系性空间]]与超越[[Methodological Nationalism|方法论民族主义]]（Relational Space vs. Methodological Nationalism）
-> 比奇尖锐批判传统比较教育将国家视为互不相通的固定物理“容器”（Containers）的[[Methodological Nationalism|方法论民族主义]]。他指出，教育知识并非在某处封闭生产然后静态搬运到另一处，而是在不同行动者、文本与机构构成的关系网络沟通中持续建构的；[[Grammar of Schooling|学校的语法]]是在流通与互联的跨国网络中被重组的，必须以[[Relational Space|关系性空间]]视界取代领土实体偏见。[[Argument_Beech_2015_GSE|(Beech & Artopoulos, 2015, pp. 1–18)]]
+> [!claim] 命题二：[[Relational Space|关系性空间]]与超越[[Methodological Nationalism|方法论民族主义]]（Relational Space vs. Methodological [[Nationalism]]）
+> 比奇尖锐批判传统比较教育将国家视为互不相通的固定物理“容器”（Containers）的[[Methodological Nationalism|方法论民族主义]]。他指出，教育知识并非在某处封闭生产然后静态搬运到另一处，而是在不同行动者、文本与机构构成的关系网络沟通中持续建构的；学校的语法是在流通与互联的跨国网络中被重组的，必须以[[Relational Space|关系性空间]]视界取代领土实体偏见。[[Argument_Beech_2015_GSE|(Beech & Artopoulos, 2015, pp. 1–18)]]
 
 > [!claim] 命题三：国际组织的双重垄断与[[Global Educational Discourse|全球教育话语]]五大支柱（Double Monopoly & Global Discourse）
 > [[World Bank|世界银行]]、[[OECD|经合组织]]与[[UNESCO|教科文组织]]表面上秉持不同的发展哲学，实质上共享了一套将未来预设为单一信息时代的深层共识。机构成套推销以分权化、[[School Autonomy|学校自主权]]、教师专业化、能力本位与中央质检系统为核心的“五大支柱模型”。国际机构首先通过界定危机垄断了“问题”，接着唯独提供该模型作为唯一正当“解方”，通过双重垄断机制彻底闭合了发展中国家探索本土替代性道路的[[Discursive Field|话语空间]]。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 346–349)]]

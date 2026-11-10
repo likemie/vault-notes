@@ -12,7 +12,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 24
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -53,6 +53,8 @@ related_facts:
   - "[[Development Economics Vice Presidency]]"
   - "[[Educational Knowledge Management System]]"
   - "[[Poverty Reduction Strategy Papers]]"
+  - "[[Google Scholar]]"
+  - "[[Web of Science]]"
   - "[[Systems Approach for Better Education Results]]"
   - "[[Strategic Compact]]"
 related_arguments:
@@ -60,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -119,7 +121,7 @@ updated: 2026-10-30
 > [!indicators] 评估指标体系
 > - **报告传播指标** 报告全球印发量、多语种翻译语种数（中、法、西、俄、阿等）、国际主流媒体报道引证量。
 > - **政策议程嵌入度** 各借款国[[Poverty Reduction Strategy Papers|减贫战略文件]]（PRSPs）中纳入知识与信息基础设施规划的比例。
-> - **学术引文影响力** 报告在 Google Scholar 与 Web of Science 数据库中被国际同行学术引用的长期积累频次。
+> - **学术引文影响力** 报告在 [[Google Scholar]] 与 [[Web of Science]] 数据库中被国际同行学术引用的长期积累频次。
 
 > [!finding-cards] 核心实证与理论启示
 > - **为“知识银行”确立官方认识论** 将知识从抽象理念转化为具有操作性的生产要素，为世行后续大规模建设开放知识库（OKR）、[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER）等知识基准工具提供理论护航。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4, 7)]]

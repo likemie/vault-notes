@@ -9,7 +9,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
+  - "[[Statistical Significance]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -38,7 +39,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-10-27
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -124,7 +125,7 @@ updated: 2026-10-30
 > [!finding-cards] 核心实证结论
 > - **首次试验的测验敏感度** 首次试验的阶段末数学测验未检测到相应优势；评估摘要提出，测验敏感度及所覆盖内容的差别可能影响结果。[首次评估结论](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/1stclassnumber)
 > - **[[Free School Meals|免费校餐]]资格学生** 第二次试验为进一步考察享有[[Free School Meals|免费校餐]]资格的学生而开展。
-> - **第二次试验的报告口径** 第二次试验的评估摘要未注明[[Effect Size|效应量]]类型及各行显著性检验信息。[第二次评估摘要](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/1stclass-number1-second-trial)
+> - **第二次试验的报告口径** 第二次试验的评估摘要未注明[[Effect Size|效应量]]类型及各行[[Statistical Significance|显著性检验]]信息。[第二次评估摘要](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/1stclass-number1-second-trial)
 
 ---
 

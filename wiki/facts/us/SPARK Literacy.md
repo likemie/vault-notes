@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -37,7 +37,8 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Ben Levin]]"
 related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[What Works Clearinghouse]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -73,7 +74,7 @@ updated: 2026-10-30
 >   - **拓展写作与理解应答（5 分钟）** 简短书写当堂核心句段，强化拼读与语篇记忆绑定。
 > - **全职校本教练带教机制** 每个项目学校常驻一名专职 SPARK 项目主管（具备教育学背景），每天进行现场巡回看课并抽检辅导记录。
 
-> [!citation-card] 斯莱文论 SPARK 在有偿志愿者辅导中的优异成效
+> [!citation-card] 斯[[Ben Levin|莱文]]论 SPARK 在有偿志愿者辅导中的优异成效
 > 针对有偿志愿者辅导的评估同样测得了显著的积极成果。例如针对幼儿园至二年级弱势儿童实施的 SPARK Literacy 项目，在严格试验中由有偿志愿者实施一对一辅导，取得了高达 +0.51 的平均阅读[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）强证据等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *Tutoring by paid volunteers also yielded strong outcomes in reading. SPARK Literacy, delivered to K–2 students in one-to-one sessions by paid volunteers, produced an effect size of +0.51, qualifying for the Strong rating under ESSA.*

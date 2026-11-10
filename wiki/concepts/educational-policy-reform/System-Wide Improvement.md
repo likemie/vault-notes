@@ -9,32 +9,53 @@ aliases:
 summary: "指在国家或次国家等整个教育管辖区范围内，通过跨层级战略协同、教师资本投入、宏微观治理桥接与针对性资源配置，持续提升所有学校学业质量并缩小群体差距的系统性改革范式。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - educational-policy-reform
   - educational-governance
   - school-improvement
   - system-wide-improvement
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Academic Achievement]]"
+  - "[[Paradigm]]"
+  - "[[Whole-School Improvement]]"
+  - "[[Unit of Analysis]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Evidence-Based Reform]]"
+  - "[[Organizational Culture Change]]"
+  - "[[Professional Capital]]"
+  - "[[Mentorship]]"
+  - "[[Professional Learning Community]]"
+  - "[[School Leadership]]"
+  - "[[Effective Teaching]]"
+  - "[[Grammar of Schooling]]"
+  - "[[Self-Improving School System]]"
+  - "[[Document]]"
+related_theories:
+  - "[[Organizational Culture]]"
+  - "[[Human Capital Theory]]"
+related_methods:
+  - "[[Thematic Synthesis]]"
+  - "[[Systematic Review]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Michael Fullan]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Barrenechea_2023_JEC]]"
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] System-Wide Improvement
-> 全系统改进（System-Wide Improvement）指在整个教育管辖区（包括国家、省州或大型学区）层面，通过协调一致的目标设定、教学支持、治理机制与资源调配，实现整体学生学业成就提升与结果不平等缩小的持续变革过程（[[Argument_Barrenechea_2023_JEC|Barrenechea et al., 2023, pp. 480–481]]）。该范式超越针对孤立学校的单点干预，强调破除低效系统的惰性平衡需要多维、整合且具备连贯行动理论的战略设计。
+> 全系统改进（System-Wide Improvement）指在整个教育管辖区（包括国家、省州或大型学区）层面，通过协调一致的目标设定、教学支持、治理机制与资源调配，实现整体学生[[Academic Achievement|学业成就]]提升与结果不平等缩小的持续变革过程（[[Argument_Barrenechea_2023_JEC|Barrenechea et al., 2023, pp. 480–481]]）。该[[Paradigm|范式]]超越针对孤立学校的单点干预，强调破除低效系统的惰性平衡需要多维、整合且具备连贯行动理论的战略设计。
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向宏观教育系统整体在时间维度上的学业质量提升与结构性改善，关注政策、组织、文化与教学实践的多层级互动。
@@ -47,8 +68,8 @@ updated: 2026-11-10
 > *Bringing more students than ever before to higher levels of achievement than ever before, on a broader range of skills and attributes than ever before, with less inequity in outcomes than ever before.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Whole-School Improvement|学校整体改进（Whole-School Improvement）]] 关注范围局限于个别学校的组织文化与课堂教学，单校改进在大规模推广时常面临规模扩展瓶颈，甚至可能因资源争夺加剧校际不平等；全系统改进以整个行政管辖区为分析单元。
-> - 不等于 [[Evidence-Based Reform|循证教育改革（Evidence-Based Reform）]] 循证改革侧重干预措施的方法学证据等级与效果验证；全系统改进属于宏观变革范式，包含政治共识、行政治理、教师专业发展与资源分配等多维支撑。
+> - 不等于 学校整体改进（[[Whole-School Improvement]]） 关注范围局限于个别学校的[[Organizational Culture|组织文化]]与课堂教学，单校改进在大规模推广时常面临规模扩展瓶颈，甚至可能因资源争夺加剧校际不平等；全系统改进以整个行政管辖区为[[Unit of Analysis|分析单元]]。
+> - 不等于 [[Evidence-Based Education|循证教育]]改革（[[Evidence-Based Reform]]） 循证改革侧重干预措施的方法学证据等级与效果验证；全系统改进属于宏观变革范式，包含政治共识、行政治理、教师专业发展与资源分配等多维支撑。
 > - 不适用于 仅停留在宏观法律颁布或行政架构重组，却未与课堂教学实践及学生学业结果建立实质连贯机制的孤立政治宣言。
 
 ---
@@ -57,7 +78,7 @@ updated: 2026-11-10
 > | 维度 | 全系统改进（System-Wide Improvement） | 学校整体改进（Whole-School Improvement） | 激进结构重构（Radical Restructuring） |
 > |---|---|---|---|
 > | **干预范围** | 整个国家、省州或区域学区的所有学校 | 单所学校或少数试验性试点学校 | 宏观行政层级或学制架构 |
-> | **核心机制** | 共享战略连贯性、教师专业能力建设、宏微观治理桥接与针对性资源倾斜 | 校长领导力重塑、校本研修与校内组织文化变革 | 市场化选择、去中心化管理或管理责任剥离 |
+> | **核心机制** | 共享战略连贯性、教师专业能力建设、宏微观治理桥接与针对性资源倾斜 | 校长领导力重塑、校本研修与校内[[Organizational Culture Change\|组织文化变革]] | 市场化选择、去中心化管理或管理责任剥离 |
 > | **平等考量** | 将缩小系统内部校际差距作为核心目标，优先扶持薄弱学校 | 关注本校内部学生的公平，可能加剧跨校层面的生源与资源分化 | 依赖竞争机制，常伴生优胜劣汰与次级生源隔离风险 |
 > | **实施路径** | 顶层引领、基层自主与横向校际网络协同推进 | 依靠校内骨干团队自下而上探索 | 依靠自上而下的法规法令与行政问责强制推行 |
 
@@ -65,9 +86,9 @@ updated: 2026-11-10
 
 > [!feature] 核心要素
 > - **全系统战略框架（System-Wide Strategic Coherence）** 确立少而精、可测度且公开透明的核心目标，在全系统各层级主体间建立对改革愿景的共同理解与长期政治承诺。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 488–489)]]
-> - **教师专业资本投资（Human Capital Investment）** 将提升教师教学能力置于中心地位，通过校本导师制、专业学习共同体与协同教研，使教师与学校领导者成为教学改进的引领者。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 490–491)]]
+> - **[[Professional Capital|教师专业资本]]投资（[[Human Capital Theory|Human Capital]] Investment）** 将提升教师教学能力置于中心地位，通过校本[[Mentorship|导师制]]、[[Professional Learning Community|专业学习共同体]]与协同教研，使教师与[[School Leadership|学校领导]]者成为教学改进的引领者。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 490–491)]]
 > - **宏微观治理桥接（Macro–Micro Level Governance Bridges）** 建立连接宏观课程决策与课堂日常教学的制度机制，推行注重专业支持而非纯粹惩戒的问责制度，依靠实证数据进行循证调整。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 491–493)]]
-> - **针对性资源倾斜配置（Targeted Resource Allocation）** 将财政经费、优质教材教具与有效教学时间优先配置给处境不利学校和弱势学童，为系统整体提升奠定物质基础。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 493–494)]]
+> - **针对性资源倾斜配置（Targeted Resource Allocation）** 将财政经费、优质教材教具与[[Effective Teaching|有效教学]]时间优先配置给处境不利学校和弱势学童，为系统整体提升奠定物质基础。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 493–494)]]
 
 > [!logic-map]- 系统性改进驱动机制
 > ```mermaid
@@ -87,7 +108,7 @@ updated: 2026-11-10
 > [!claim] Elmore, R. F.
 > **多维系统干预的必要性** 破解低效教育系统的固化惯性，需要依靠清晰的行动理论（Theory of Action）所指导的多维度、一体化且高度聚焦的战略干预。微观学校改进在规模扩展上面临天然边界，只有在全辖区范围内建立跨层级的系统视角，才能改变学校组织运行的制度结构。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 488)]]
 
-> [!claim] Fullan, M.
+> [!claim] [[Michael Fullan|Fullan, M.]]
 > **系统变革的三维推进网络** 系统层面的持续改进依赖于学习文化的深度重塑、学校层面对改革议程的在地自主权，以及自下而上、自上而下与横向校际网络同时发力的创新支持体系。全系统变革必须建立在系统各层级共享的连贯性基础之上，避免碎片化的项目堆砌。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 488–489)]]
 
 ---
@@ -119,9 +140,9 @@ updated: 2026-11-10
 > | [[Grammar of Schooling]] | 概念 | 学校文法构成全系统改进面临的历史制度惯性与组织阻力。 |
 > | [[Self-Improving School System]] | 概念 | 自我完善学校系统倡导学校间横向合作与专业引领，是全系统改进的重要组织形态。 |
 > | [[Michael Fullan]] | 人物 | 提出全系统改革理论与共享连贯性原则，推动加拿大安大略省等全系统改进实践。 |
-> | [[Thematic Synthesis]] | 方法 | 质性系统综述用于提炼和检验全系统改进驱动要素的核心证据整合方法。 |
+> | [[Thematic Synthesis]] | 方法 | 质性[[Systematic Review\|系统综述]]用于提炼和检验全系统改进驱动要素的核心证据整合方法。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 运用质性主题综合法分析 43 篇系统改进实证文献，提炼出全系统方法、人力资本、宏微观治理桥接与资源供给四大互锁驱动要素。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 运用质性主题综合法分析 43 篇系统改进实证[[Document|文献]]，提炼出全系统方法、人力资本、宏微观治理桥接与资源供给四大互锁驱动要素。

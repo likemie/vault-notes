@@ -10,7 +10,7 @@ summary: "由 Jorge E. Hirsch (2019) 提出的文献计量修正指标；在构�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Construct Validity]]"
   - "[[Team Science]]"
+  - "[[Early-Career Researchers]]"
   - "[[Big Science]]"
   - "[[Guest Authorship]]"
 related_theories: []
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-10-31
+updated: 2026-11-11
 ---
 
 ---
@@ -100,7 +101,7 @@ updated: 2026-10-31
 >
 > > [!example]- 手算示例
 > > 设学者 $A$ 当前原生 $h = 10$，其 10 篇核心论著的合署情况如下：
-> > - 其中 7 篇文献是其带领研究生或青年学者完成，合署者最高 $h$ 均小于等于 10，指示函数记为 1；
+> > - 其中 7 篇文献是其带领研究生或[[Early-Career Researchers|青年学者]]完成，合署者最高 $h$ 均小于等于 10，指示函数记为 1；
 > > - 另外 3 篇文献是其作为副手参与诺奖得主（$h=80$）领衔的国际[[Big Science|大科学工程]]，指示函数记为 0。
 > > 则学者 $A$ 的 $h_\alpha$ 指数为：
 > > $$h_\alpha = 7 \times 1 + 3 \times 0 = 7$$

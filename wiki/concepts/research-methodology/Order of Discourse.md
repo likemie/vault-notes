@@ -6,10 +6,10 @@ aliases:
 summary: "批判话语分析的核心宏观概念，由诺曼·费尔克拉夫在继承福柯思想基础上系统化。指特定社会领域或制度机构中所有话语实践（包括体裁、话语类型与风格）的总和及其结构化配置方式；表征了特定历史时期权力关系在语言符号领域的相对稳定化分布，其内部边界的松动、渗透与重组是透视制度变迁与意识形态霸权消长的重要依据。"
 type: concept
 domain: "research-methodology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - research-methodology
   - theme/discourse-analysis
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Education Going Global]]"
   - "[[Operationalization]]"
+  - "[[Transnational Education]]"
   - "[[Policy Network]]"
   - "[[Analytical Stance]]"
   - "[[Pragmatic Paradigm]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -138,7 +139,7 @@ updated: 2026-11-03
 > - **1970年 — 哲学起源** 福柯发表《[[Discourse|话语]]的秩序》，从权力考古学视角剖析社会通过排斥、划界与稀疏化原则对话语生产实施的规训控制。
 > - **1992年 — 社会语言学与[[Critical Discourse Analysis|CDA]][[Operationalization|操作化]]** 费尔克拉夫出版《话语与社会变迁》，将话语秩序确立为连接微观语言分析与宏观社会理论的操作性桥梁。
 > - **2003年 — 文本细化与体裁链研究** 费尔克拉夫在《分析话语》中细化了体裁网络、话语类型与风格层级的三维剖析方法。
-> - **2023年 — 跨国教育政策实践应用** 伍国雄将话语秩序运用于分析中国高等教育跨国扩张[[Policy Network|政策网络]]，系统阐释跨部门多边文本如何重构当代中国的高教对外开放话语秩序。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–687)]]
+> - **2023年 — [[Transnational Education|跨国教育]]政策实践应用** 伍国雄将话语秩序运用于分析中国高等教育跨国扩张[[Policy Network|政策网络]]，系统阐释跨部门多边文本如何重构当代中国的高教对外开放话语秩序。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–687)]]
 
 ---
 

@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 30
+fact_related_count: 34
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -31,10 +31,12 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Paradigm]]"
   - "[[Policy Mobility]]"
+  - "[[Research Tool]]"
   - "[[External Validity]]"
   - "[[Tracking]]"
   - "[[School Autonomy]]"
   - "[[Heterogeneity]]"
+  - "[[Free School Meals]]"
   - "[[Variable]]"
   - "[[Attrition]]"
   - "[[Data Infrastructure]]"
@@ -49,6 +51,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Natural Experiment]]"
   - "[[Regression Discontinuity Design]]"
   - "[[Difference-in-Differences]]"
   - "[[Propensity Score Matching]]"
@@ -60,13 +63,14 @@ related_facts:
   - "[[National Pupil Database]]"
   - "[[Department for Education]]"
   - "[[Teensleep]]"
+  - "[[Centre for Policy Studies]]"
   - "[[Teacher Choices]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -84,17 +88,17 @@ updated: 2026-10-26
 ---
 
 > [!claim] 核心机制假说
-> 在不适宜强行[[Random Assignment\|随机化]]的宏观制度领域，通过捕捉教育体系内部自发产生的制度断点、政策试点时间差或校本办学特征，运用现代计量经济学准实验工具从海量普查行政数据中精准剥离混淆偏差，能够以极高[[External Validity\|外部效度]]与零田野破坏性评估学校宏观选择的真实因果效应。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 56)]]
+> 在不适宜强行[[Random Assignment\|随机化]]的宏观制度领域，通过捕捉教育体系内部自发产生的制度断点、政策试点时间差或校本办学特征，运用现代计量经济学准[[Research Tool|实验工具]]从海量普查行政数据中精准剥离混淆偏差，能够以极高[[External Validity\|外部效度]]与零田野破坏性评估学校宏观选择的真实因果效应。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 56)]]
 
 > [!policy-design] 方案设计与准实验架构
 > - **资助方向界定** 专门资助学校管理层在宏观组织层面拥有自主选择权、但此前因缺乏外部因果证据而争议不决的制度议题，重点包括：
 >   1. **宏观教学组织架构** 按学科[[Tracking\|能力分组]]（Setting / Streaming）与混合能力编班（Mixed-ability Teaching）在常态校本选择中的长期累积增益差异；
 >   2. **办学时间与作息制度** [[School Autonomy|学校自主]]推迟上午上课时间或延长下午课后学时对不同阶层学童的[[Heterogeneity\|异质性]]影响；
 >   3. **学校管理与学区联盟** 多学院信托（MATs）内部师资轮岗与课程共享的制度红利。
-> - **自然实验与准实验方法库** 严禁进行人为随机分配，强制要求评估团队采用以下严密准实验工具：
+> - **[[Natural Experiment|自然实验]]与准实验方法库** 严禁进行人为随机分配，强制要求评估团队采用以下严密准实验工具：
 >   1. **[[Regression Discontinuity Design\|断点回归设计]]（[[Regression Discontinuity Design\|RDD]]）** 利用学校自主划定的招生分数线、能力分班基准测试切点，检验切点两侧学生的局部平均因果效应；
 >   2. **[[Difference-in-Differences\|双重差分法]]（Difference-in-Differences, DID）** 对比自发实施宏观作息变革的学校与维持常态对照学校在改革前后的纵向趋势变异；
->   3. **[[Propensity Score Matching\|倾向得分匹配]]（Propensity Score [[Matching]], PSM）** 基于 NPD 数据库中包含家庭经济地位（FSM）、族裔、历史考分与特教标记的上百个协[[Variable\|变量]]，构建平衡可比的虚拟对照组。
+>   3. **[[Propensity Score Matching\|倾向得分匹配]]（Propensity Score [[Matching]], PSM）** 基于 NPD 数据库中包含家庭经济地位（[[Free School Meals|FSM]]）、族裔、历史考分与特教标记的上百个协[[Variable\|变量]]，构建平衡可比的虚拟对照组。
 > - **全量行政数据库支撑** 完全依赖 NPD 数据库中英格兰全量学生的纵向统考记录（Key Stage 2 与 GCSE），彻底规避试验招募受阻与被试主动流失（[[Attrition]]）的风险。
 
 > [!citation-card] 宏观[[School Choice\|学校选择]]资助流的准实验转向（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）
@@ -114,7 +118,7 @@ updated: 2026-10-26
 > [!actor-grid] 实施协同矩阵
 > - **顶层设计与资助方** 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF） — 甄选具有全局价值的宏观组织变革议题，协调跨部门数据使用权。
 > - **[[Data Infrastructure\|数据基础设施]]提供方** 英国教育部统计处（DfE NPD 团队） — 提供覆盖英格兰全体学龄儿童的纵向微观考分、学校特征与家庭背景数据库。
-> - **准实验评估学者** 计量经济学、定量社会学与教育政策研究中心 — 建立[[Counterfactual\|反事实]]匹配模型、执行平行趋势检验与安慰剂检验。
+> - **准实验评估学者** 计量经济学、定量社会学与教育[[Centre for Policy Studies|政策研究中心]] — 建立[[Counterfactual\|反事实]]匹配模型、执行平行趋势检验与安慰剂检验。
 > - **受益决策群体** 中小学校长、地方多学院信托（MAT）CEO 与教育决策者 — 获取关于编班体制、到校时间等制度安排的无偏经验证据。
 
 ---

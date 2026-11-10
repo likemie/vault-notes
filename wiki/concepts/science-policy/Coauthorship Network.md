@@ -8,7 +8,7 @@ aliases:
 summary: "依据学术论著联合署名关系构建的复杂拓扑网络；具有跨学科异质性的重尾度分布、少数超级枢纽节点、平均路径约为 6 步的小世界特性以及覆盖 80%–90% 活跃学者的巨连通分支，其宏观相变与成果新颖度受资历传承与重复合作等微观组装规则深度调控。"
 type: concept
 domain: "science-policy"
-related_count: 25
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -17,6 +17,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Document]]"
   - "[[Homophily]]"
+  - "[[Early-Career Researchers]]"
   - "[[Six Degrees of Separation]]"
   - "[[Giant Component]]"
   - "[[Assemblage]]"
@@ -31,6 +32,7 @@ related_theories:
   - "[[Team Assembly Model]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
+  - "[[Journal Impact Factor]]"
   - "[[Effect Size]]"
 related_persons:
   - "[[Paul Erdős]]"
@@ -45,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -81,7 +83,7 @@ updated: 2026-11-03
 
 > [!feature] 核心要素
 > - **重尾度分布与超级枢纽节点** 绝大多数科学家的合著学者数量十分有限，而极少数像[[Paul Erdős|保罗·埃尔德什]]（Paul Erdős）这样的超级合作学者拥有数百位合著者，成为维系整个网络低阶连通的核心枢纽。生物学尾部最长，物理学次之，数学衰减最快。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 104–105)]]
-> - **优先连接机制驱动网络集聚** 早期初入网络的青年学者更倾向于与导师或既有高连通度资深学者联合署名，使拥有更多学术伙伴的学者以更快速度吸纳新连线，逐步固化为网络拓扑的核心枢纽。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 105–106)]]
+> - **优先连接机制驱动网络集聚** 早期初入网络的[[Early-Career Researchers|青年学者]]更倾向于与导师或既有高连通度资深学者联合署名，使拥有更多学术伙伴的学者以更快速度吸纳新连线，逐步固化为网络拓扑的核心枢纽。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 105–106)]]
 > - **小世界[[Six Degrees of Separation|六度分隔]]拓扑** 尽管科学界包含数以百万计的学者，任意两位学者之间的平均最短合著路径长度通常仅为 5 至 6 步，且与核心枢纽学者的平均距离更短（如数学家到 Erdős 的平均距离仅为 4.7 步）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 106)]]
 > - **[[Giant Component|巨连通分支]]的普遍覆盖** 真实学科合著网络中 80% 至 90% 的学者被统一包含在同一个最大连通分支即巨连通分支（Giant Component, GCC）内部，证实科学界本质上是一个广泛连接的有机整体。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 108–109)]]
 > - **微观[[Assemblage|组装]]规则驱动宏观结构相变** 宏观合著网络由团队微观组配概率驱动；资历参数 $p$（老手比例）跨越临界值时[[Emergence|涌现]]出全局巨连通分支，而重复合作参数 $q$（熟人抱团）过高会导致网络退化为割裂的孤立小圈子。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 119–121, 254–256)]]
@@ -121,7 +123,7 @@ updated: 2026-11-03
 > **在任老手经验与重复搭档封闭度的相变临界点** 阐明个体微观组队选择如何自下而上重塑全学科宏观网络连通性与学术突破质量。
 
 > [!claim] [[Roger Guimera|Guimerà, R.]] & [[Brian Uzzi|Uzzi, B.]]
-> **团队[[Assemblage|组装]]参数驱动全网[[Giant Component|巨连通分支]]相变** 罗杰·吉梅拉（Roger Guimerà）与布赖恩·乌齐（Brian Uzzi）建立的[[Team Assembly Model|团队组装模型]]表明，宏观合著网络的全局贯通取决于在任老手资历参数 $p$ 与重复合作参数 $q$。只有当老手比例 $p$ 达到统计临界值时，全网才会[[Emergence|涌现]]出连通绝大多数学者的巨连通分支；然而，若老手过度倾向于与旧搭档重复合署（高 $q$），网络将迅速退化为封闭孤立的小世界派系，阻碍跨界知识流动并系统性压低期刊影响因子。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 119–121, 254–256)]]
+> **团队[[Assemblage|组装]]参数驱动全网[[Giant Component|巨连通分支]]相变** 罗杰·吉梅拉（Roger Guimerà）与布赖恩·乌齐（Brian Uzzi）建立的[[Team Assembly Model|团队组装模型]]表明，宏观合著网络的全局贯通取决于在任老手资历参数 $p$ 与重复合作参数 $q$。只有当老手比例 $p$ 达到统计临界值时，全网才会[[Emergence|涌现]]出连通绝大多数学者的巨连通分支；然而，若老手过度倾向于与旧搭档重复合署（高 $q$），网络将迅速退化为封闭孤立的小世界派系，阻碍跨界知识流动并系统性压低[[Journal Impact Factor|期刊影响因子]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 119–121, 254–256)]]
 
 ---
 

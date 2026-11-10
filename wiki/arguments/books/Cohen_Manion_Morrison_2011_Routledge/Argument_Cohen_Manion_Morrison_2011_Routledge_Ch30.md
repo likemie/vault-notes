@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30"
 argument_display_title: "Research Methods in Education · Ch30"
 argument_kind: "book-chapter"
-argument_related_count: 67
+argument_related_count: 68
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -66,6 +66,7 @@ related_concepts:
   - "[[Social Support]]"
   - "[[Falsification]]"
   - "[[School Leadership]]"
+  - "[[Homophily]]"
   - "[[Operationalization]]"
   - "[[Meaningful Human Control]]"
   - "[[Abstract]]"
@@ -106,7 +107,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-09-08
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
@@ -686,7 +687,7 @@ updated: 2026-10-30
 
 #### 大语言模型辅助编码的三大操作路径
 
-在扎根理论与内容分析的操作流程中，大语言模型主要通过以下三类进路协同质性研究：
+在扎根理论与内容分析的操作流程中，大语言模型主要通过以下三类进路协[[Homophily|同质性]]研究：
 
 > [!pathways] 大语言模型辅助质性编码的三大应用进路
 > 1. **演绎性规程赋码（Deductive Prompt Coding）** 研究者将预先确立的[[Qualitative Codebook\|质性编码手册]]、范畴定义、[[Operationalization\|操作化]]规则以及正反样例编写为系统性提示词。模型在明确的[[Analytic Framework\|分析框架]]约束下对文本段落实施规则匹配，提取目标片段并输出赋码依据。这种方式在大样本政策文本、标准化访谈等大规模内容分析中展现出极高的处理效率与前后一致性。

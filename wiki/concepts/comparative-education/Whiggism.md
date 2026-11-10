@@ -10,7 +10,7 @@ aliases:
 summary: "历史学中以当代价值、标准或进步结果逆向剪裁历史演化过程的史学倾向；在比较教育学中特指混淆实然因果阐释与应然民主改良，或以当代实证量化尺度评判历史先驱的时代倒错。"
 type: concept
 domain: "comparative-education"
-related_count: 30
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Operationalization]]"
+  - "[[Problematisation]]"
   - "[[Democratic Education]]"
   - "[[Geisteswissenschaften]]"
   - "[[Bildung]]"
@@ -37,6 +38,7 @@ related_concepts:
   - "[[Educational Meliorism]]"
   - "[[Falsification]]"
   - "[[Scientific Method]]"
+  - "[[Transnational Education]]"
   - "[[Policy Borrowing]]"
   - "[[Scientific Explanation]]"
 related_theories: []
@@ -59,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -99,7 +101,7 @@ updated: 2026-11-03
 > |---|---|---|---|---|---|
 > | **[[Epistemology\|认识论]]预设** | 现时主义与目的论进步主义 | 广义科学观与有限工作假设检验 | 如实直书，每个时代对上帝直接负责 | 假说演绎与经验累积进步论 | 权力/知识配置与偶发性断裂 |
 > | **对待历史当事人** | 以当代道德与科技标准进行居高临下的裁判 | 深入其历史地平线并理解制度选择的深层动力 | 严格同情式理解，排除后见之明 | 视其为缺乏[[Variable\|变量]]控制工具的幼稚前科学者 | 揭示其话语实践中隐含的现代[[Disciplina and Doctrina\|规训]]技术 |
-> | **核心解释机制** | 逆向剪裁证据以印证当下的胜利 | 历史因果比较与制度动力矩阵剖析 | 原始档案考订与个殊事件完整叙事 | [[Operationalization\|操作化]]变量跨国测量与普遍法则推导 | 问题化的历史考古与非连续性批判 |
+> | **核心解释机制** | 逆向剪裁证据以印证当下的胜利 | 历史因果比较与制度动力矩阵剖析 | 原始档案考订与个殊事件完整叙事 | [[Operationalization\|操作化]]变量跨国测量与普遍法则推导 | [[Problematisation\|问题化]]的历史考古与非连续性批判 |
 > | **学科史图景** | 将学科史编织为向现代民主或实证科学迈进的直线 | 多元母题交织共生，承认危机驱动与范式张力 | 学科各阶段自足发展，拒绝跨时代裁量 | 借用期到因素分析期再到量化科学期的阶梯式转向 | 知识制度化如何作为治理理性的历史积累 |
 > | **主要方法论偏误** | 时代倒错、混淆实然与应然、目的论剪裁 | 对当代规范的反思若不彻底易生评价争议 | 陷入极端个殊主义与历史虚无主义 | 狭隘技术主义、抹杀人文语境与反思自觉 | 极度解构导致实然因果推导力被弱化 |
 
@@ -197,7 +199,7 @@ updated: 2026-11-03
 > - **警惕将理论假设的检验粗暴贴上辉格标签** 比较研究中运用当代社会科学概念（如分层、国家能力）对历史数据进行再分析，若能保持对历史语境的敬畏，并不等同于对历史事实的主观剪裁。
 
 > [!warning] 适用局限
-> - **适用范围** 本概念适用于诊断学科史编纂、制度演化归因与跨国教育[[Policy Borrowing\|政策借用]]研究中的后验合理化偏差；不适用于批评纯粹基于共时性跨国截面数据的量化统计模型。
+> - **适用范围** 本概念适用于诊断学科史编纂、制度演化归因与[[Transnational Education|跨国教育]][[Policy Borrowing\|政策借用]]研究中的后验合理化偏差；不适用于批评纯粹基于共时性跨国截面数据的量化统计模型。
 > - **操作警戒** 诊断一项研究是否存在辉格偏误，核心判断标准在于其是否尊重历史多元偶发性与档案证据，而非仅仅看其是否关照了当代教育议题。
 
 ---

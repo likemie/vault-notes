@@ -10,10 +10,10 @@ summary: "美国著名创新经济学与科技政策学者，加州大学伯克�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 46
-person_related_level: 4
-person_related_stars: "💎⭐"
-person_related_color: "#fce7f3"
+person_related_count: 52
+person_related_level: 5
+person_related_stars: "💎⭐⭐"
+person_related_color: "#ffedd5"
 born: "1953"
 died: ""
 lifespan: "1953–至今"
@@ -45,6 +45,9 @@ related_concepts:
   - "[[Demand-side Innovation Policy]]"
   - "[[Industry Affiliate Program]]"
   - "[[Rationalized Myth]]"
+  - "[[Research Tool]]"
+  - "[[Material Transfer Agreement]]"
+  - "[[Operationalization]]"
 related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Technological Trajectories]]"
@@ -53,10 +56,12 @@ related_theories:
 related_methods:
   - "[[In-depth Interview]]"
   - "[[Analytic Framework]]"
+  - "[[Patent-Paper Pairs]]"
 related_instruments: []
 related_persons:
   - "[[Richard Nelson]]"
 related_facts:
+  - "[[National Bureau of Economic Research]]"
   - "[[Sematech]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[National Academy of Sciences]]"
@@ -75,16 +80,17 @@ related_arguments:
   - "[[Argument_Grindley_1994_JPAM]]"
   - "[[Argument_Macher_1998_CMR]]"
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
+  - "[[Argument_Thompson_et_al_2018_RP]]"
 confidence: high
 status: completed
 created: 2026-10-03
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国著名创新经济学家与科技政策学者，加州大学伯克利分校（University of California, Berkeley）哈斯商学院威廉·哈斯勒新企业发展讲席教授（William A. and Betty H. Hasler Chair in New Enterprise Development），美国国家经济研究局（National Bureau of Economic Research, NBER）研究员。
+> - **身份位置** 美国著名创新经济学家与科技政策学者，加州大学伯克利分校（University of California, Berkeley）哈斯商学院威廉·哈斯勒新企业发展讲席教授（William A. and Betty H. Hasler Chair in New Enterprise Development），[[National Bureau of Economic Research|美国国家经济研究局]]（National Bureau of Economic Research, NBER）研究员。
 > - **核心角色** [[Evolutionary Economics|演化经济学]]与技术变迁制度史学派核心代表人物，长期与内森·罗森伯格（Nathan Rosenberg）、[[Richard Nelson|理查德·纳尔逊]]（Richard Nelson）紧密合作；从国家科研投入、需求侧政府采购、反垄断诉讼、知识产权制度及产业组织协同等微观制度层面，系统解构了战后美国半导体、计算机、软件及生物医药等高科技产业[[Innovation Ecosystem|创新生态]]演进机制。
 > - **代表贡献** 阐明战后美国信息技术产业非中心化竞争生态的制度根基（军品采购驱动效应、1956 年 AT&T 与 IBM 反垄断同意令）；系统提出高技术研发联盟治理框架与纵向供应链协同机制（[[Sematech]] 案例评估）；实证解构大学专利化繁荣神话与《[[Bayh-Dole Act of 1980|拜杜法案]]》制度边界；提炼出国防研发与采购支持前沿技术的生命周期演变模型（早期催化—中期外溢—晚期逆向溢出与收益递减）。
 
@@ -201,7 +207,7 @@ updated: 2026-11-04
 > | [[DARPA]] | 事实 | 剖析军民两用研发资助、早期国防采购拉动与联盟配套补贴的协同机制。 |
 > | [[Bayh-Dole Act of 1980]] | 事实 | 展开长期历史计量评估，破除单一法案创造大学专利繁荣的[[Rationalized Myth\|制度神话]]。 |
 > | [[Research Tool]] | 概念 | 实证考察科研工具专利排他许可对后续科学知识流动与学术引用的负向抑制效应。 |
-> | [[Material Transfer Agreement]] | 概念 | 早期研究学术专利与材料转移协议的互补替代关系，并作为识别科研工具的核心操作化指标。 |
+> | [[Material Transfer Agreement]] | 概念 | 早期研究学术专利与材料转移协议的互补替代关系，并作为识别科研工具的核心[[Operationalization\|操作化]]指标。 |
 > | [[Patent-Paper Pairs]] | 方法 | 推动基于发明人的自动化最大似然配对算法，因果评估大学专利许可对科学知识流动的影响。 |
 > | [[National Academy of Sciences]] | 组织 | 长期承担国家科技政策咨询与评估工作。 |
 > | [[National Research Council]] | 组织 | 长期承担国家科技政策咨询与评估工作。 |

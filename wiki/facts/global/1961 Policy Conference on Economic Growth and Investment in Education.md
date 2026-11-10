@@ -12,7 +12,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Education-for-Mandates]]"
   - "[[Geopolitics]]"
   - "[[Bildung]]"
+  - "[[Transnational Education]]"
   - "[[Policy Brokerage]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -107,7 +108,7 @@ updated: 2026-10-26
 
 > [!finding-cards] 关键历史后果
 > - **[[Education-for-Mandates\|使命性教育嵌入]]制度化** 为 [[OECD]] 等非教育国际组织奠定了“教育服务于使命”（[[Education-for-Mandates]]）的示范模式，开启了战后多边经济组织反客为主统治全球教育议程的历史潮流。
-> - **[[Mediterranean Regional Project\|地中海区域项目]]（MRP）样板** 催生了战后首个跨国量化教育规划工程，首次将规范的人力需求预测模型在大规模区域实地落地，成为后续跨国教育统计分析的原型。
+> - **[[Mediterranean Regional Project\|地中海区域项目]]（MRP）样板** 催生了战后首个跨国量化教育规划工程，首次将规范的人力需求预测模型在大规模区域实地落地，成为后续[[Transnational Education|跨国教育]]统计分析的原型。
 > - **从规划扩张走向指标规制** 随着 1970 年代滞胀与财政紧缩，华盛顿会议所确立的“增加投资驱动增长”逻辑反向逆转为“检验投资效率与产出效益”，直接倒逼经合组织转型研发 [[International Indicators of Education Systems\|INES]] 与 [[PISA]]。
 
 ---

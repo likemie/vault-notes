@@ -11,9 +11,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 29
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2000–至今"
 initiator_organization: "National Library of Medicine (NLM), National Institutes of Health (NIH) / Food and Drug Administration (FDA)"
@@ -28,20 +28,34 @@ tags:
   - region/us
 related_concepts:
   - "[[Clinical Trial]]"
-  - "[[Research Translation]]"
-  - "[[Data Infrastructure]]"
   - "[[Preregistration]]"
+  - "[[Data Infrastructure]]"
+  - "[[Publication Bias]]"
+  - "[[Side Effects]]"
+  - "[[Informed Consent]]"
+  - "[[Chain of Evidence]]"
+  - "[[Falsification]]"
+  - "[[Hypothesis]]"
+  - "[[Statistical Analysis Plan]]"
   - "[[Document]]"
-  - "[[Metascience]]"
+  - "[[Academic Medical Center]]"
+  - "[[Construct]]"
+  - "[[Research Translation]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods:
+  - "[[Instrumental Variables]]"
+  - "[[Cohort Study]]"
+  - "[[Meta-analysis]]"
+  - "[[Systematic Review]]"
+  - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Record Linkage]]"
-  - "[[Bibliometric Analysis]]"
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[National Institutes of Health]]"
+  - "[[United States Congress]]"
   - "[[SciSciNet]]"
   - "[[Dimensions]]"
 related_arguments:
@@ -51,31 +65,31 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 项目定位
-> ClinicalTrials.gov 是由[[National Institutes of Health|美国国立卫生研究院]]（NIH）下属国家医学图书馆（National Library of Medicine, NLM）与美国食品药品监督管理局（Food and Drug Administration, FDA）联合建立的全球规模最大的临床研究公开注册与结果汇报平台。该数据库依法强制要求由公共资金或商业药企赞助的人体受试者介入性[[Clinical Trial|临床试验]]在开展前必须完成方案[[Preregistration|预注册]]并分配唯一识别编号（NCT 号），是循证医学、跨学科生命科学与科学学追踪基础科学成果向临床转化应用的核心公共数据基础设施。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]; [[Argument_Liu_2023_NHB|(Liu et al., 2023)]]
+> ClinicalTrials.gov 是由[[National Institutes of Health|美国国立卫生研究院]]（NIH）下属国家医学图书馆（National Library of Medicine, NLM）与美国食品药品监督管理局（Food and Drug Administration, FDA）联合建立的全球规模最大的临床研究公开注册与结果汇报平台。该数据库依法强制要求由公共资金或商业药企赞助的人体受试者介入性[[Clinical Trial|临床试验]]在开展前必须完成方案[[Preregistration|预注册]]并分配唯一识别编号（NCT 号），是循证医学、跨学科生命科学与科学学追踪基础科学成果向临床转化应用的核心公共[[Data Infrastructure|数据基础设施]]。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]; [[Argument_Liu_2023_NHB|(Liu et al., 2023)]]
 
 > [!program-context] 项目背景
-> - **立项时间 / 周期** 依据美国国会 1997 年通过的《食品药品监督管理局现代化法案》（FDA Modernization Act of 1997, FDAMA）第 113 条立项，于 2000 年 2 月正式上线，常态化增量运营至今。
+> - **立项时间 / 周期** 依据[[United States Congress|美国国会]] 1997 年通过的《食品药品监督管理局现代化法案》（FDA Modernization Act of 1997, FDAMA）第 113 条立项，于 2000 年 2 月正式上线，常态化增量运营至今。
 > - **发起方与资助机制** 由美国联邦政府国库全额拨款，NIH 与 FDA 共同实施规制监管，NLM 负责日常平台运维，面向全球受试患者、临床医学专家、生命科学学者及社会公众完全免费开放访问。
 > - **覆盖范围与对象** 截至 2020 年代收录来自全美 50 个州及全球 220 多个国家与地区的逾 45 万项临床研究，涵盖药物、生物制剂、医疗器械、外科手术与行为干预等全门类临床试验。
-> - **核心问题导向** 消除传统医学研究领域严重的发表偏倚（Publication Bias）与“抽屉效应”（File Drawer Problem），防止制药企业隐匿阴性结果与有害副作用，保障受试者知情同意权与临床证据链透明完整。
+> - **核心问题导向** 消除传统医学研究领域严重的[[Publication Bias|发表偏倚]]（Publication Bias）与“抽屉效应”（File Drawer Problem），防止制药企业隐匿阴性结果与有害[[Side Effects|副作用]]，保障受试者[[Informed Consent|知情同意]]权与临床[[Chain of Evidence|证据链]]透明完整。
 
 ---
 
 > [!claim] 核心干预／机制假说
-> 通过立法确立强制性的前瞻性注册（Prospective Registration）与试验结果公开时限规程，并在顶级医学学术期刊建立未经注册拒绝发表的同行评议门槛，能够有效抑制选择性报告，为全社会提供客观可证伪的医学实证知识库，并打通基础实验室发现向患者床边转化的长程可追溯链条。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> 通过立法确立强制性的前瞻性注册（Prospective Registration）与试验结果公开时限规程，并在顶级医学学术期刊建立未经注册拒绝发表的同行评议门槛，能够有效抑制选择性报告，为全社会提供客观可[[Falsification|证伪]]的医学实证知识库，并打通基础实验室发现向患者床边转化的长程可追溯链条。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
 > [!policy-design] 方案设计
-> - **项目目标** 建立透明、可审计、具有法律强制力的全球临床实验与医疗证据档案库，支撑系统评价、药物研发评估与前沿科学学[[Research Translation|科研转化]]度量。
-> - **覆盖对象** 全球范围内所有涉及严重或危及生命疾病的药物、生物制品与医疗器械 I 至 IV 期介入性临床试验，以及观察性患者队列研究。
+> - **项目目标** 建立透明、可审计、具有法律强制力的全球临床实验与医疗证据档案库，支撑系统评价、药物研发评估与前沿科学学科研转化度量。
+> - **覆盖对象** 全球范围内所有涉及严重或危及生命疾病的药物、生物制品与医疗器械 I 至 [[Instrumental Variables|IV]] 期介入性临床试验，以及观察性患者[[Cohort Study|队列研究]]。
 > - **干预措施** 
 >   - **统一分配 NCT 编码** 赋予每项临床试验唯一且不可篡改的标识符（如 `NCT00000419`），作为学术期刊引证、监管审评与公众查询的核心主键。
->   - **试验方案结构化预注册** 强制在纳入首位受试者前登记研究假设、主要与次要终点指标（Primary/Secondary Endpoints）、入组标准与统计分析计划。
+>   - **试验方案结构化预注册** 强制在纳入首位受试者前登记[[Hypothesis|研究假设]]、主要与次要终点指标（Primary/Secondary Endpoints）、入组标准与[[Statistical Analysis Plan|统计分析计划]]。
 >   - **试验结果强制汇报制度** 依据 2007 年法案规定，申办方必须在试验完成或提前终止后 12 个月内上传结构化基线数据、主要终点结果与不良事件（Adverse Events）汇总。
 > - **实施控制** 联合国际医学期刊编辑委员会（ICMJE）推行准入联动机制，将前瞻性注册作为期刊录用的必要前置条件；对违规延迟未交结果的机构依法施加联邦科研资金冻结或民事罚款处罚。
 
@@ -92,7 +106,7 @@ updated: 2026-11-02
 > - **2004–2005 — ICMJE 国际期刊强制注册门槛确立** 国际医学期刊编辑委员会（ICMJE）发布联合声明，规定自 2005 年 9 月起，未在符合国际标准公共注册库完成预注册的临床试验，一律不得在《柳叶刀》、《新英格兰医学杂志》与《美国医学会杂志》等顶尖刊物发表。
 > - **2007 — 《FDA 修正案》出台与结果数据库（Results Database）上线** 美国国会通过《FDA 修正案》（FDAAA）第 801 条，将法定注册范围拓展至所有受 FDA 监管的非 I 期药物和器械试验，并强制建立试验结果数据库，规定试验主要终点完成后 1 年内必须上传结构化统计结果。
 > - **2017 — 最终规程（Final Rule）生效与合规监管收紧** 美国卫生与公众服务部（HHS）与 NIH 联合发布最终规程（42 CFR Part 11），明确界定注册与结果提交的法律责任边界，将所有 NIH 资助的临床干预试验全面纳入监管范围。
-> - **2023 — 支撑亿级科学学全景转化链实证测度** 林子敬（Zijing Lin）等在 SciSciNet 数据湖构建中，通过实体抽取与关系挖掘将 ClinicalTrials.gov 的 438,220 条临床试验引用与 1.34 亿篇核心出版物深度打通，使量化科学学能够以前所未有的大数据精度实证追踪基础实验室成果向上游公共资助与下游临床床边转化的长周期演进路径。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> - **2023 — 支撑亿级科学学全景转化链实证测度** 林子敬（Zijing Lin）等在 [[SciSciNet]] 数据湖构建中，通过实体抽取与关系挖掘将 ClinicalTrials.gov 的 438,220 条临床试验引用与 1.34 亿篇核心出版物深度打通，使量化科学学能够以前所未有的大数据精度实证追踪基础实验室成果向上游公共资助与下游临床床边转化的长周期演进路径。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
 ---
 
@@ -112,12 +126,12 @@ updated: 2026-11-02
 > [!indicators] 评估指标体系
 > - **注册规模与覆盖广度** 累积登记研究项目总量、正在招募受试者项目比例及全球多中心试验参与国家分布数。
 > - **结果公开与合规率** 规定时限内（12 个月）结果上传达标率、平均延误天数与结构化不良事件报告完整率。
-> - **跨源科研转化渗透率** 临床试验引用学术文献的数量与比例（SciSciNet 记录达 438,220 条引用关系）、试验直接催生新药审批（FDA Approval）的转化周期时长。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> - **跨源科研转化渗透率** 临床试验引用学术[[Document|文献]]的数量与比例（SciSciNet 记录达 438,220 条引用关系）、试验直接催生新药审批（FDA Approval）的转化周期时长。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
 > [!finding-cards] 核心实证结论
 > - **显著抑制医学知识发表偏倚** 强制预注册极大削弱了制药企业选择性发表有利于赞助商结论的倾向，使大量阴性与无效试验结果得以进入公共证据视野。
 > - **测度基础科学临床价值的核心桥梁** 科学学实证表明，基础生物医学研究成果被临床试验引用的时序分布与转化速率，是衡量实验室探索成果转化为临床医疗实践的最关键客观指标。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]; [[Argument_Liu_2023_NHB|(Liu et al., 2023)]]
-> - **加速系统评价与循证证据合成** 为荟萃分析（Meta-analysis）与系统综述团队提供了超越正式发表文献的未发表试验方案与原始效应量数据池。
+> - **加速系统评价与循证证据合成** 为荟萃分析（[[Meta-analysis]]）与[[Systematic Review|系统综述]]团队提供了超越正式发表文献的未发表试验方案与原始[[Effect Size|效应量]]数据池。
 
 > [!stat-cards]- 关键实证数据
 > - **450K+** 平台收录的全球临床试验项目总数。
@@ -130,7 +144,7 @@ updated: 2026-11-02
 > [!debates] 核心争议
 >
 > > [!axis] 法定披露合规不严 vs 监管刚性执法不足
-> > 针对部分商业申办方与学术医学中心逾期未上传结果现象的学术批评。
+> > 针对部分商业申办方与[[Academic Medical Center|学术医学中心]]逾期未上传结果现象的学术批评。
 > >
 > > - **批评观点** 诸多独立实证研究（如 FDAAA Trials Tracker）指出，即使在法定宽限期过后，仍有相当比例由高校和商业药企主持的试验未依法上传结果摘要，FDA 极少实际动用民事罚款手段，导致法律威慑力受挫。
 > > - **回应辩护** NLM 与 FDA 强调近年来已大幅简化 PRS 填报界面并加速发布违规通知信，结果上传率较立法初期已有大幅提升；同时指出复杂临床统计终点的质量审核需要审慎周期，不应单纯追求形式化速度。
@@ -147,7 +161,7 @@ updated: 2026-11-02
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Clinical Trial]] | Concept | ClinicalTrials.gov 监管与收录的核心科学研究形态与医学实践构念。 |
+> | [[Clinical Trial]] | Concept | ClinicalTrials.gov 监管与收录的核心科学研究形态与医学实践[[Construct\|构念]]。 |
 > | [[Research Translation]] | Concept | 临床试验数据库是衡量基础研究向临床医疗转化效率最核心的下游制度节点。 |
 > | [[Preregistration]] | Concept | 平台依托强制性预注册机制，成为科学界推行开放科学预注册最成熟的制度范例。 |
 > | [[Data Infrastructure]] | Concept | ClinicalTrials.gov 构成现代全球生物医学与医疗健康领域的公共实证数据基础设施。 |
@@ -162,4 +176,4 @@ updated: 2026-11-02
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 在 SciSciNet 核心数据表中引入 `SciSciNet_Link_ClinicalTrials`（438,220 行对齐记录），将 ClinicalTrials.gov 注册号（NCT）作为测度学术出版物向临床医疗应用转化深度的标准化桥梁。
 > - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 将临床试验数据列为现代科学学全景基础设施不可或缺的下游应用端要素，指出链接临床试验数据是评估科学发现实际社会福祉价值的实证基础。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási (2021)]] — 阐述联邦立法强制要求临床试验在 ClinicalTrials.gov 全量登记方案与数据（结合主流期刊拒录未备案一期试验的抵制机制），有效打破了发表偏倚与抽屉效应，为全学科基础研究推行预注册奠定了制度范式。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási (2021)]] — 阐述联邦立法强制要求临床试验在 ClinicalTrials.gov 全量登记方案与数据（结合主流期刊拒录未备案一期试验的抵制机制），有效打破了发表偏倚与抽屉效应，为全学科基础研究推行预注册奠定了制度[[Paradigm|范式]]。

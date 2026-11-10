@@ -10,7 +10,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 31
+fact_related_count: 32
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
   - theme/intermediary-organisation
 related_concepts:
   - "[[Policy Brokerage]]"
+  - "[[Transnational Education]]"
   - "[[Scale of Measurement]]"
   - "[[Test Production]]"
   - "[[Gatekeepers]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -73,7 +74,7 @@ updated: 2026-11-02
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 创设于 1930 年，最初由美国卡内基公司提供资助发起建立，旨在为澳大利亚各州提供独立、客观的教育研究支撑与标准化心理测量服务。
-> - **总部地点 / 业务辐射** 总部位于澳大利亚墨尔本，在悉尼、布里斯班、珀斯及英国、印度、阿联酋设有分支机构，业务覆盖澳大利亚本土并辐射跨国教育测评市场。
+> - **总部地点 / 业务辐射** 总部位于澳大利亚墨尔本，在悉尼、布里斯班、珀斯及英国、印度、阿联酋设有分支机构，业务覆盖澳大利亚本土并辐射[[Transnational Education|跨国教育]]测评市场。
 > - **法人属性与经费基础** 注册为独立的非营利公共机构，不设政府经常性预算拨款，经费完全依赖竞争性科研项目招标、政府考试委托合同、商业化测评服务及出版销售收入。
 > - **核心宗旨与法定职责** 秉持以可靠证据促进学习的宗旨，研发高质量实证研究成果、心理测量规程与评估工具，支持各级教育决策与学习者素养发展。
 

@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -63,7 +63,7 @@ updated: 2026-11-03
 
 > [!concept-lens] 真实经验、学生责任与全人发展
 > - **学习对象** CAS 是让学生在真实情境中发起、参与、合作并承担后果，有别于用统一笔试再考一门课。
-> - **课程功能** 课堂[[Theoretical Knowledge\|理论知识]]在社区与生活问题中受到检验；活动经验又可进入[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）反思或[[Extended Essay\|拓展文章]]（Extended Essay，EE）研究。
+> - **课程功能** 课堂[[Theoretical Knowledge\|理论知识]]在社区与生活问题中受到检验；活动经验又可进入[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）反思或拓展文章（[[Extended Essay]]，EE）研究。
 > - **资格作用** 后来的 CAS 不计数字分，但完成要求是文凭条件。这不能倒推为早期创造、审美与社会服务（Creative, Aesthetic and Social Service，CASS）一开始就以个人强制达标运行。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 182–184)]]
 
 > [!boundary]- 早期 CASS 与后来 CAS 共享理念，但制度边界不同

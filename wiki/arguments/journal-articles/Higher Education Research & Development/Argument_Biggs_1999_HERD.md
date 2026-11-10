@@ -55,20 +55,21 @@ sources:
   - "[[sources/Biggs_1999_HERD/Biggs_1999_HERD|Biggs_1999_HERD]]"
 related_methods:
   - "[[Multiple-Choice Questions]]"
+  - "[[Knowledge Extent]]"
 related_persons:
   - "[[John Biggs]]"
 status: draft
 created: 2026-07-28
-updated: 2026-10-30
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Biggs_1999_HERD"
 argument_key: "Argument_Biggs_1999_HERD"
 argument_display_title: "What the student does: Teaching for enhanced learning"
 argument_kind: "journal-article"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: Higher Education Research & Development
 book_title: ""
@@ -399,7 +400,7 @@ issuing_organization: ""
 
 > [!goal] PBL 的三重对齐目标
 > - **专业能力** 学生毕业时能够解决本专业实践中的真实问题。
-> - **内容覆盖** 通过一系列精心设计的问题，覆盖与传统课程大致相同的知识范围，同时使学生获得可用于实践的知识。
+> - **内容覆盖** 通过一系列精心设计的问题，覆盖与传统课程大致相同的[[Knowledge Extent|知识范围]]，同时使学生获得可用于实践的知识。
 > - **自我管理** 学生在解决问题和复盘的过程中发展独立学习、自我监控以及根据反馈调整的能力。
 
 > [!proc] PBL 的教学／学习活动流程

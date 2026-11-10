@@ -9,7 +9,7 @@ title: "Argument_OConnor_2020_AJLL"
 argument_key: "Argument_OConnor_2020_AJLL"
 argument_display_title: "Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -59,6 +59,7 @@ related_persons:
   - "[[Jean-Jacques Rousseau]]"
 related_facts:
   - "[[Victorian HITS and Literacy Toolkit]]"
+  - "[[Crossref]]"
   - "[[Corwin Press]]"
 related_arguments: []
 sources:
@@ -66,7 +67,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-29
+updated: 2026-11-11
 year: 2020
 doi: ""
 citation_aliases:
@@ -191,7 +192,7 @@ citation_aliases:
 > 菲利普·基（Philip Y. Gee, 1995）报告全语言整体效应量为 d = 0.65。哈蒂认为该元分析将包含“拼读与单词研究”的混合式设计归入全语言，从而在《VL》中手动删除了其中的三项研究，将效应量强行修改为 0。
 > 然而，全语言理论家早就明确，全语言坚决反对的是**脱离文学情境的机械切片拼读训练**，但并不排斥在真实的阅读与写作过程中，自然、流动地讲授音形解码技能。哈蒂强加的孤立定义是对全语言哲学本质的扭曲。
 
-> [!case] Case 3: 披拉·特拉赫滕贝格（Pila Trachtenburg）与安·费鲁贾（Ann Ferruggia, 1989）的“大书共享阅读”（d = 1.7）
+> [!case] Case 3: 披拉·特拉赫滕贝格（[[Crossref|Pila]] Trachtenburg）与安·费鲁贾（Ann Ferruggia, 1989）的“大书共享阅读”（d = 1.7）
 > 该研究属于被哈蒂删除的正面研究之一。其设计是针对高风险初学者进行的“大书共享阅读经验”，让学生在故事大书情境下每天自主挑选一个单词进行音形分析，并使用儿童自己口头复述的文本作为[[Adjunct Aids|辅助材料]]进行音形对应训练。这完全符合全语言“在真实语境中流动技能”的哲学，但被哈蒂以“使用了单词表和解码技术”为由粗暴删除，以消除全语言的正面证据。
 
 > [!warning] 全书唯一的“特殊待遇”

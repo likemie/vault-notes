@@ -8,7 +8,7 @@ summary: "美国著名宗教社会学家、加州大学伯克利分校社会学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Technological Republic]]"
   - "[[Soft Belief]]"
+  - "[[Nationalism]]"
   - "[[Hard Belief]]"
   - "[[National Character]]"
 related_theories: []
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -105,7 +106,7 @@ updated: 2026-10-30
 > > 公民宗教倡导的共同政治信仰符号是否会实质上特权化特定历史传统（如犹太-基督教传统），进而排斥非西方宗教与世俗主义公民。
 > >
 > > - **Bellah（1967）** 强调公民宗教是非排他性的普遍公民道德维度，旨在提供超越党派自利的批判性道德标准。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
-> > - **激进世俗主义与多元文化批评者** 指责公民宗教往往演变为国家民族主义的自我神圣化与意识形态霸权工具。
+> > - **激进世俗主义与多元文化批评者** 指责公民宗教往往演变为国家[[Nationalism|民族主义]]的自我神圣化与意识形态霸权工具。
 
 ---
 

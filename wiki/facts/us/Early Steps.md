@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -31,12 +31,14 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Evidence Standards]]"
   - "[[School Inspection]]"
+  - "[[Teacher Expertise]]"
   - "[[Response to Proven Instruction]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Ben Levin]]"
 related_facts:
   - "[[Reading Recovery]]"
   - "[[Every Student Succeeds Act]]"
@@ -45,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -72,7 +74,7 @@ updated: 2026-10-22
 >   - **分级新文本引入与带读（New Book Reading，10 分钟）** 教师即时提供[[Scaffolding\|脚手架]]点拨[[Decodification\|解码]]策略。
 > - **师资专业化要求** 教师须接受为期一学年的半脱产理论研修与每周实地督导看课。
 
-> [!citation-card] 斯莱文论 Early Steps 的巨大实证[[Effect Size\|效应量]]
+> [!citation-card] 斯[[Ben Levin|莱文]]论 Early Steps 的巨大实证[[Effect Size\|效应量]]
 > 在专业教师一对一阅读辅导中，部分方案测得了极其惊人的效应量。例如针对一年级儿童实施的 Early Steps/Next Steps 方案，在因果实证评估中测得了高达 +0.86 的超大学业效应量，达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）的中等[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *One-to-one tutoring provided by certified teachers yielded very large effect sizes in reading. For example, Early Steps/Next Steps evaluated in first grade produced an effect size of +0.86, meeting the ESSA Moderate rating.*
@@ -97,7 +99,7 @@ updated: 2026-10-22
 > [!finding-cards] 核心实证结论
 > - **高达 +0.86 的超常因果[[Effect Size\|效应量]]** 在严格因果实证评估中，接受 Early Steps 辅导的学生在独立阅读测试与字词[[Decodification\|解码]]测验上测得高达 $+0.86$ 的超常效应量，达 [[Every Student Succeeds Act\|ESSA]] Moderate 等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **拼写与解码能力的协同突破** 方案独特的“词汇归类（Word Sorts）”环节极大促进了儿童对正字法规则的直觉内化，学生在未知新词的解码上表现尤为出色。
-> - **专业师资成本的现实约束** 尽管成效显著，但因其对执教教师专业素养与脱产时间要求极高，导致学区在大规模铺开时面临较大的编制与预算门槛。
+> - **专业师资成本的现实约束** 尽管成效显著，但因其对执教[[Teacher Expertise|教师专业素养]]与脱产时间要求极高，导致学区在大规模铺开时面临较大的编制与预算门槛。
 
 > [!stat-cards]- 关键实证数据
 > - **+0.86** 实证评估测得的一年级平均阅读综合效应量（$ES$），获 ESSA Moderate 评级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]

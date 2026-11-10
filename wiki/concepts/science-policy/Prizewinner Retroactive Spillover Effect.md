@@ -11,7 +11,7 @@ aliases:
 summary: "描述学者获得诺贝尔奖或当选 HHMI 研究员等顶级学术荣誉后，其在获奖前发表的历史旧作（甚至与获奖研究主题毫无关联的边缘论著）均迎来显著引用增长的科学学因果现象；证实外生学术声誉符号具有独立的跨时空注意力引流效能，彻底排除了成果内在科学质量随获奖发生变化的内生解释。"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -38,20 +38,21 @@ related_persons:
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
   - "[[John B. Fenn]]"
-related_facts: []
+related_facts:
+  - "[[Howard Hughes Medical Institute]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Prizewinner Retroactive Spillover Effect
-> 科学学与科研评价体系中关于注意力溢出与地位信号的因果[[Construct|构念]]。特指当研究人员荣获诺贝尔奖、当选霍华德·休斯医学研究所（HHMI）研究员等重大顶级科学荣誉时，**其在新荣誉降临前数年乃至数十年前发表的历史成果，亦能同步迎来显著且持续的引用速率攀升**。由于历史已发表文本的内在科学质量并未发生任何实质物理改变，该现象为外生学术声望信号独立于研究质量而重塑科学共同体注意力分配提供了严格的计量因果证据。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 33–34, 36–37)]]
+> 科学学与科研评价体系中关于注意力溢出与地位信号的因果[[Construct|构念]]。特指当研究人员荣获诺贝尔奖、当选[[Howard Hughes Medical Institute|霍华德·休斯医学研究所]]（HHMI）研究员等重大顶级科学荣誉时，**其在新荣誉降临前数年乃至数十年前发表的历史成果，亦能同步迎来显著且持续的引用速率攀升**。由于历史已发表文本的内在科学质量并未发生任何实质物理改变，该现象为外生学术声望信号独立于研究质量而重塑科学共同体注意力分配提供了严格的计量因果证据。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 33–34, 36–37)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指涉顶级学术荣誉作为外部权威信号对其过往学术轨迹产生的逆向追溯性引流。

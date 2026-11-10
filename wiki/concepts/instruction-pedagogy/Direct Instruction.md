@@ -7,7 +7,7 @@ aliases:
 summary: "由教师主动主导、以明确目标说明、分步示范、有指导练习、理解检查与即时反馈为核心的高结构化教学模式，在程序性知识与基础技能教学中成效显著，但在高阶思维培养中需与情境探究结合以避免教育副作用"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 73
+related_count: 78
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Discovery Learning]]"
   - "[[Creativity]]"
+  - "[[Side Effects]]"
   - "[[Feedback]]"
   - "[[Lecturing]]"
   - "[[Structured Teaching]]"
@@ -58,7 +59,9 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Variable]]"
   - "[[Evidence Standards]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Interaction Effect]]"
+  - "[[Document]]"
   - "[[Infusion Approach]]"
 related_theories:
   - "[[Discursive Institutionalism]]"
@@ -88,6 +91,7 @@ related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[PISA]]"
+  - "[[TIMSS]]"
   - "[[Australian Curriculum]]"
 related_arguments:
   - "[[Argument_Zhao_2017_JEC]]"
@@ -97,11 +101,12 @@ related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Wecker_2016_ZfE]]"
+  - "[[Argument_Sahlgren_2015_CPS]]"
   - "[[Argument_Cole_2015_AJE]]"
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-06
+updated: 2026-11-11
 ---
 
 > [!def] Direct Instruction
@@ -114,7 +119,7 @@ updated: 2026-11-06
 > [!concept-lens] 概念透镜
 > - **含义** 强调教师作为[[Scaffolding\|认知脚手架]]的“主动激活者（Activator）”，通过将复杂认知过程外显化与结构化，降低学习者的外在认知负荷。
 > - **用途** 用于解释基础知识、程序性解题技能的高效掌握机制，并作为评价[[Inquiry-Based Learning\|探究式学习]]、[[Discovery Learning\|发现学习]]与微观课堂结构的基准参照。
-> - **边界** 区别于无互动的单一满堂灌单向讲授；同时在培养发散性[[Creativity\|创造力]]、深层批判性探究与学习自主性上面临明显的边际效用递减与教育副作用。
+> - **边界** 区别于无互动的单一满堂灌单向讲授；同时在培养发散性[[Creativity\|创造力]]、深层批判性探究与学习自主性上面临明显的边际效用递减与教育[[Side Effects|副作用]]。
 
 > [!citation-card] 直接教学的核心界定与机制
 > 教师作为主动激活者（Activator）而非单纯促进者（Facilitator）时，教学展现出极高的[[Effect Size\|效应量]]。直接教学通过明确目标、专家示范与即时矫正，确保学生在面对新知识时不被过量认知负荷击垮。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 433)]]
@@ -310,10 +315,10 @@ updated: 2026-11-06
 > | [[Argument_Zhao_2017_JEC\|Zhao (2017, p. 7)]] | 美国联邦 Project Follow Through（史上最大规模教育实验，涵盖数万名弱势儿童） | 大规模准实验长期追踪对比（20余种教学模式） | 基础技能、认知理解与自尊情感 | 脚本化直接教学（DI）在基础学业技能上显著夺冠，但在自主探索与情感维度未显优势 | 跨学区一致显著 | 奠定了直接教学在基础技能补救教学中的历史标杆地位 |
 > | [[Argument_Zhao_2017_JEC\|Zhao (2017, p. 8)]] | 可见学习综合实证数据库（涵盖数百项元分析） | [[Meta-meta-analysis\|二阶元分析]]汇总 | 直接教学对综合[[Academic Achievement\|学业成就]]的影响 | $d = 0.59$（排名前列） | 远超发展铰接点 $d = 0.40$ | 主要反映标准化知识与常规学科考试成绩，未能测查创造力与非认知副作用 |
 > | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 美国全面学校改革计划（Comprehensive School Reform, CSR）及 [[Every Student Succeeds Act\|ESSA]] 项目库 | 联邦政策实证审查 | 达到联邦法定强/中[[Evidence Standards\|证据标准]]的全校与学科方案 | Direct Instruction 作为全美少数经受住长期实验检验的 [[Top Institute for Evidence-Based Education Research\|TIER]] 1 全班核心方案之一 | 经受住多轮独立审查 | 证实其在全美规模化推广中的因果有效性 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 4)]]<br>（引述 Stockard et al., 2018） | 328 项阅读、数学与拼写[[Intervention Research\|干预研究]]（非 STEM 领域） | 元分析与[[Critical Review\|批判性综述]]审查 | 直接教学对比常规或其他教学课程 | 直接教学在基础读写算技能上表现出正向效应，但对照组仅区分为常规课程而未具体界定教学类型 | — | 该元分析未覆盖科学概念探究领域，其对照组特征模糊导致无法推导出直接教学对探究教学的全面优越性 |
+> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 4)]]<br>（引述 Stockard et al., 2018） | 328 项阅读、数学与拼写[[Intervention Research\|干预研究]]（非 STEM 领域） | 元分析与[[Critical Review\|批判性综述]]审查 | 直接教学对比常规或其他教学课程 | 直接教学在[[Foundational Literacy and Numeracy\|基础读写算]]技能上表现出正向效应，但对照组仅区分为常规课程而未具体界定教学类型 | — | 该元分析未覆盖科学概念探究领域，其对照组特征模糊导致无法推导出直接教学对探究教学的全面优越性 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 5–6)]]<br>（引述 PISA 2015 / Chen et al., 2017; Oliver et al., 2021） | [[PISA\|国际学生评估项目]]（PISA）2015 跨国大规模数据（数十万学生） | 多层非线性多项式回归分析 | 教师直接指导与学生探究对科学成绩的[[Interaction Effect\|交互作用]] | 教师直接指导与探究活动呈显著倒 U 型交互增益；单一孤立的超高强度直接讲授呈现收益递减甚至负向关联 | 跨国分析高度一致 | 证明直接教学的最优效能取决于其与探究实践的动态结合（Sweet Spot） |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, pp. 29–30)]]<br>（审计 Haas, 2005 与 Hattie 数据库） | Haas (2005) 直接教学元分析（19 个效应量，$\text{SD} = 0.59$） | 统计审计与[[Inverse-Variance Weighting\|逆方差加权]]复核 | 二级元分析[[Standard Error\|标准误]]计算与权重分配 | Hattie 伪造标准误 $\text{SE} = 0.135$（$W = 54.9$），真实标准误 $\text{SE} = 0.092$（$W = 118.1$） | 权重被削减 53.5% | 揭示 Hattie 数据处理错误导致直接教学大样本高精度研究在总库中的权重被严重压低 |
-> | [[Argument_Sahlgren_2015_CPS\|Sahlgren (2015)]] | 芬兰基础教育课堂长期观察、TIMSS与PISA历史数据库及国际计量文献 | 历史比较与教学法效应综合审查 | 教师主导直接教学对比学生中心探究教学对认知学业表现的影响 | 证实芬兰在国际测验中的历史高分与教师长期保留高结构直接教学密切相关；1990年代后期转向以学生为中心的探究发现法导致认知成绩系统性下降 | 跨国与跨期历史实证一致 | 提供了宏观国家教育系统因过早放弃直接教学而导致认知绩效滑坡的系统性案例 |
+> | [[Argument_Sahlgren_2015_CPS\|Sahlgren (2015)]] | 芬兰基础教育课堂长期观察、[[TIMSS]]与PISA历史数据库及国际计量[[Document\|文献]] | 历史比较与教学法效应综合审查 | 教师主导直接教学对比学生中心探究教学对认知学业表现的影响 | 证实芬兰在国际测验中的历史高分与教师长期保留高结构直接教学密切相关；1990年代后期转向以学生为中心的探究发现法导致认知成绩系统性下降 | 跨国与跨期历史实证一致 | 提供了宏观国家教育系统因过早放弃直接教学而导致认知绩效滑坡的系统性案例 |
 > | [[Argument_DeJong_2023_ERR\|Dean & Kuhn (2007, cited in De Jong et al., 2023, p. 3)]] | 六年级学生 | [[Control of Variables Strategy\|变量控制策略]]教学：直接教学组 vs. 直接教学+探究组 vs. 纯探究组 | 13 周延迟保持测验成绩 | 直接教学组保持率 31%；直接+探究组保持率 83%；纯探究组保持率 78% | 组间差异显著（$p < .05$） | 纵向对比实验；证实直接教学若脱离自主探究练习，长效保持率发生显著退化 |
 > | [[Argument_DeJong_2023_ERR\|Strand-Cary & Klahr (2008, cited in De Jong et al., 2023, p. 3)]] | 小学三、四年级学生 | 变量控制策略教学：显性直接教学 vs. 探究式主动发现 | 即时掌握率与跨情境迁移测验 | 即时与延迟测验两组得分高度均等（Equivalence） | 差异无统计学显著性 | 受控实验；表明直接教学并未展现出压倒[[Inquiry-Based Learning\|探究式学习]]的绝对优势 |
 

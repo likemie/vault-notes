@@ -8,7 +8,7 @@ summary: "英国比较教育先驱与历史主义学派代表人物，主持教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 62
+person_related_count: 63
 person_related_level: 6
 person_related_stars: "💎💎"
 person_related_color: "#fef3c7"
@@ -21,6 +21,7 @@ tags:
   - theme/history-of-education
 related_concepts:
   - "[[Grandes Ecoles]]"
+  - "[[Transnational Education]]"
   - "[[Bildung]]"
   - "[[Normal School]]"
   - "[[Liberal Education]]"
@@ -39,7 +40,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Sadler's Garden Metaphor]]"
-  - "[[Competitiveness]]"
   - "[[Educational Meliorism]]"
   - "[[Discourse]]"
   - "[[Positivism]]"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Protean Episteme]]"
   - "[[Realism in International Relations]]"
+  - "[[Competitiveness]]"
 related_theories:
   - "[[Situative Perspective]]"
   - "[[Path Dependence]]"
@@ -91,7 +92,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: '2026-06-08'
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -99,7 +100,7 @@ updated: 2026-11-02
 > [!person-profile] 人物档案
 > - **身份位置** 英国比较教育先驱、教育官员与思想家。曾任[[Department for Education|英国教育部]]特别调查与报告办公室（[[Office of Special Inquiries and Reports]], [[Office of Special Inquiries and Reports|OSIR]]）首任主任、曼彻斯特大学教授、利兹[[Grandes Ecoles|大学校]]长（Vice-Chancellor）、牛津大学大学学院院长，是比较教育历史主义与情境分析路径的奠基人。
 > - **核心角色** 传记学者约翰·H·希金森（John Howard Higginson）将其概括为兼具深邃学术造诣与宏阔公共眼界的“教育政治家”（Educational Statesman），视比较教育为推动国家制度重塑的“改革能动杠杆”（Agency of reform）。在欧洲学科史上，[[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter）将其定性为推动现代大学比较教育在英国率先扎根的关键领袖，开辟了从 19 世纪督学行政视察走向 20 世纪大学教席建制化并由伦敦大学教育研究院（Institute of Education, IOE）全面发扬的知识谱系。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 89–90)]]
-> - **代表贡献** 创立特别调查与报告办公室、主持编纂 11 卷跨国教育调查报告、发表 1900 年吉尔福德演讲并提出教育系统的“不可移植性”假说、奠定比较教育的[[Situative Perspective|情境主义]]分析方法，开创以德国为核心参照系的系统比较研究。
+> - **代表贡献** 创立特别调查与报告办公室、主持编纂 11 卷[[Transnational Education|跨国教育]]调查报告、发表 1900 年吉尔福德演讲并提出教育系统的“不可移植性”假说、奠定比较教育的[[Situative Perspective|情境主义]]分析方法，开创以德国为核心参照系的系统比较研究。
 
 > [!citation-card] 克勒里德斯论萨德勒主持特别调查与报告署的国家竞争情报定位
 > 为了维持英国作为“世界工厂”的绝对地位，新成立的教育部特别调查与报告办公室在迈克尔·萨德勒（Michael Sadler）的直接领导下，产出了关于英国竞争对手教育——尤其是德国的中等教育和职业教育——的大量比较研究成果。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 420)]]
@@ -272,7 +273,7 @@ updated: 2026-11-02
 > - [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] — 指出萨德勒的“情境很重要”警告被后世简化为了学术口号，缺乏对“何种情境要素以何种方式发生阻碍”的机制化论证。
 
 > [!warning] 萨德勒民族国家容器假设的消解与外来微生物扰动悖论
-> 萨德勒 1900 年关于“漫步花园采撷枝叶”的警告预设了一个以主权国家为封闭容器的世界，假定外来模式若不兼容本土土壤便只会枯萎死去（良性失效）。然而[[Jason Beech|杰森·比奇]]（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 341–343, 355–356]]）指出，当代全球化条件下的漫步者已转变为跨国多边机构、国际咨询专家与跨国教育企业；这些新主体推销的去情境化方案即使在学校一线无法真正生根成活，其带来的制度扰动与话语侵蚀（如阿根廷一线教师因失去教学坐标而集体转抄商业教辅图书目录）如同一株“携带有害微生物的枯死植株”，依然不可逆转地污染并重塑了本土教育系统的生态土壤。
+> 萨德勒 1900 年关于“漫步花园采撷枝叶”的警告预设了一个以主权国家为封闭容器的世界，假定外来模式若不兼容本土土壤便只会枯萎死去（良性失效）。然而[[Jason Beech|杰森·比奇]]（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 341–343, 355–356]]）指出，当代全球化条件下的漫步者已转变为跨国多边机构、国际咨询专家与[[Transnational Education|跨国教育]]企业；这些新主体推销的去情境化方案即使在学校一线无法真正生根成活，其带来的制度扰动与话语侵蚀（如阿根廷一线教师因失去教学坐标而集体转抄商业教辅图书目录）如同一株“携带有害微生物的枯死植株”，依然不可逆转地污染并重塑了本土教育系统的生态土壤。
 
 ---
 

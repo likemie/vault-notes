@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_methods:
   - "[[Effect Size]]"
 related_instruments: []
 related_persons:
+  - "[[Don R. Swanson]]"
   - "[[Mark Ginsburg]]"
 related_facts:
   - "[[Title I of the Elementary and Secondary Education Act]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -56,7 +57,7 @@ updated: 2026-10-30
 > 个体决定促进计划（Advancement Via Individual Determination, AVID）是美国覆盖广泛的全国性非营利大学预备教育项目，旨在通过在初高中常规课程体系中嵌入专门的选修支持课程与探究辅导，助力学术成绩处于中等区间、来自低收入或家庭第一代大学生（First-Generation College Students）背景的弱势青少年跨入大学门槛。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 170)]]
 
 > [!program-context] 项目背景
-> - **立项时间 / 发展周期** 1980 年由高中英语教师玛丽·凯瑟琳·斯旺森（Mary Catherine Swanson）在加利福尼亚州圣地亚哥创立，历经四十余年发展成为覆盖全美 40 余个州、数千所学校的常态化全国项目。
+> - **立项时间 / 发展周期** 1980 年由高中英语教师玛丽·凯瑟琳·[[Don R. Swanson|斯旺森]]（Mary Catherine Swanson）在加利福尼亚州圣地亚哥创立，历经四十余年发展成为覆盖全美 40 余个州、数千所学校的常态化全国项目。
 > - **发起方与经费机制** 由非营利教育机构 AVID Center 负责研发、培训认证与教材支持；公立学校通常通过学区自有财政或联邦 [[Title I of the Elementary and Secondary Education Act\|Title I]] 专项补偿资金采购其课程资质、教师培训及大学生辅导员服务。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 170)]]
 > - **覆盖范围与对象** 重点服务初中至高中学段（6–12 年级）学业处于中等水平（[[Academic Achievement\|GPA]] 通常在 2.0–3.5 之间）、具有升学潜力但缺乏家庭学业资本支持的学生。
 > - **核心问题导向** 破解美国中学中普遍存在的生源分轨（[[Tracking]]）弊端，打破弱势群体被长期固化于低阶补偿性[[Cram Schools\|补习班]]的结构性循环，引导其主动选修高挑战性的大学水平课程。

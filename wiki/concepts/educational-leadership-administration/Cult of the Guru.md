@@ -5,7 +5,7 @@ aliases:
 summary: "Eacott 提出的批判概念，指教育领导力领域对单一权威人物及其研究的不加批判接受与制度化追捧，用于分析学术权威如何塑造知识议程。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -52,6 +52,7 @@ related_facts:
   - "[[NAPLAN]]"
   - "[[PISA]]"
   - "[[TIMSS]]"
+  - "[[New Zealand Quality Teaching Strategy]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Melbourne Declaration]]"
 related_arguments:
@@ -65,7 +66,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-03
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -87,7 +88,7 @@ updated: 2026-10-30
 > **（1）特定的时间条件（temporal conditions）**
 > - 澳大利亚教育系统在 [[NAPLAN]]/[[PISA]]/[[TIMSS]] 评估中感知到学生成绩持续下降，创造了"需要知道什么有效、甚至什么最有效"的紧迫性([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.415-416]])
 > - 管理修辞围绕理性/控制逻辑凝聚，而非规范性/抱负性逻辑——前者在缓慢下降时主导，后者在急剧衰退时主导([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.415, citing Abrahamson, 1997]]; Hartley, 2010)
-> - 此前的大规模教学改革（QSRLS、New Basics、Quality Teaching）聚焦课程/教学/评估三系统，但[[School Leadership\|学校领导]]的实际教学领导时间极少——需要的是能"用行政语言说话"的证据([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.416]])
+> - 此前的大规模教学改革（QSRLS、New Basics、[[New Zealand Quality Teaching Strategy|Quality Teaching]]）聚焦课程/教学/评估三系统，但[[School Leadership\|学校领导]]的实际教学领导时间极少——需要的是能"用行政语言说话"的证据([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.416]])
 >
 > **（2）Hattie 的工作用行政语言说话**
 > - Robinson, Lloyd, & Rowe（2008）的[[Meta-analysis\|元分析]]为教育行政[[Document|文献]]引入[[Effect Size\|效应量]]语言，打破[[Transformative Leadership\|变革型领导力]]的主导地位，推动[[Instructional Leadership\|教学领导力]]重新成为焦点——但缺少"具体做什么"的操作指南([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.417-418]])
@@ -108,7 +109,7 @@ updated: 2026-10-30
 > - **专业协会背书** ACEL and [[Corwin Press|Corwin]] 的合作伙伴关系使 Hattie 成为最大的学校领导力专业协会的官方议程([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.414, 419]])
 
 > [!example] 与相关概念的区别
-> - vs **academic celebrity（学术名人）** Eacott 明确区分了[[Unit of Analysis\|分析单位]]——学术名人研究关注的是作为实体的个体（如 [[Michael Fullan]]、Andy Hargreaves 等），而 Cult of the Guru 关注的是"使大师崛起成为可能的条件"（关系取向而非实体取向）([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.414]])
+> - vs **academic celebrity（学术名人）** Eacott 明确区分了[[Unit of Analysis\|分析单位]]——学术名人研究关注的是作为实体的个体（如 [[Michael Fullan]]、Andy Hargreaves et al.），而 Cult of the Guru 关注的是"使大师崛起成为可能的条件"（关系取向而非实体取向）([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.414]])
 > - vs **fad/fashion（潮流与时尚）** 教育领导力经常经历来自外部（如商业管理概念）的潮流渗透（Peck & Reitzug, 2012），但 Cult of the Guru 特指从教育研究内部[[Emergence\|涌现]]并被不加批判地接受的权威——更难识别和抵制
 > - vs [[Neo-Taylorism]]：Neo-Taylorism 侧重分析 Hattie 工作与 Taylor 科学管理原理之间的结构同源性（效率最大化、唯一正确方法、任务拆解）；Cult of the Guru 侧重分析这种工作为何以及如何在特定社会条件下被不加批判地接受和制度化。两者互补：Neo-Taylorism 是"什么使 Hattie 的工作成为泰勒主义"，Cult of the Guru 是"什么使这种泰勒主义成为崇拜"
 

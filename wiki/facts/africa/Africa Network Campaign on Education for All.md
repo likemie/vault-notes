@@ -10,7 +10,7 @@ subtype: organization
 region: africa
 fact_region: "africa"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_persons: []
 related_facts:
   - "[[Education for All]]"
   - "[[UNESCO]]"
+  - "[[Dakar Framework for Action]]"
   - "[[Global Partnership for Education]]"
   - "[[Achieve]]"
   - "[[UN Sustainable Development Goals]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -54,7 +55,7 @@ updated: 2026-10-26
 > 全非[[Education for All|全民教育]]网络运动（Africa Network Campaign on Education for All, ANCEFA）是创设于 2000 年、总部设于塞内加尔达喀尔的泛非跨国民间教育网络，协调非洲大陆 39 个国家的国家级教育联盟。该组织代表非洲基层民间社会力量，通过开展本土实证研究、公共财政支出监测与区域政策倡导，推动各国政府与非洲联盟（AU）落实普及、全纳且免费的公立教育权利。在[[UNESCO|教科文组织]]的全球证据生态调研中，ANCEFA 被列为非洲大陆最具知名度与政策影响力的民间循证中介机构之一。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 20, 23, 74)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 2000 年 4 月在达喀尔世界教育论坛（World Education Forum）期间由非洲各国非政府组织代表联合发起创设，旨在确保非洲基层声音在《全民教育达喀尔行动纲领》的实施中不被边缘化。
+> - **成立时间 / 创设背景** 2000 年 4 月在达喀尔世界教育论坛（World Education Forum）期间由非洲各国非政府组织代表联合发起创设，旨在确保非洲基层声音在《全民教育[[Dakar Framework for Action|达喀尔行动纲领]]》的实施中不被边缘化。
 > - **总部地点 / 业务辐射** 区域协调秘书处设于塞内加尔达喀尔，业务网络按地缘语言划分为西非、东非、中非与南部非洲四大子区域，深度覆盖全非 39 个主权国家。
 > - **法人属性与经费基础** 独立的非营利国际非政府组织网络，资金来源于国际发展伙伴项目资助（如[[Global Partnership for Education|全球教育伙伴关系]]民事赋权基金、开放社会基金会等）。
 > - **核心宗旨与法定职责** 赋能非洲国家级教育联盟，监督政府兑现将至少 20% 国家财政预算或 4%–6% 国内生产总值投入公共教育的基准指标；消除女童受教育障碍与战乱冲突地区的失学危机。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 74)]]

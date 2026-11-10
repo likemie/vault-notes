@@ -11,7 +11,7 @@ aliases:
 summary: "产学合作中学者同时持有企业正式雇员与大学专任教授双重法律身份的高带宽协同构型。研究者以企业雇员身份解决短期专有工程难题，以大学教授身份主持长期开放科研并指导研究生；通过在个体层面并行运作化解校企时间尺度错配，但需依托成熟的学术参与团队（AET）与知识产权分割机制平衡商业保密与学术发表冲突。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Technology Transfer]]"
   - "[[Document]]"
+  - "[[Soft Privatisation]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-04
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -155,7 +156,7 @@ updated: 2026-11-03
 > > - **掠夺与空心化批评** 跨国巨头的高额薪酬与算力特权使得学者将主要精力倾斜于商业产品交付，导致大学核心教学任务被边缘化，并引发未受聘教授与研究生对学术资源分配不公的强烈不满。
 >
 > > [!axis] 知识开放共享 vs 商业保密与研究成果私有化
-> > 探讨双重身份是否会导致由公共财政资助的大学基础研究成果被企业隐性私有化。
+> > 探讨双重身份是否会导致由公共财政资助的大学基础研究成果被企业[[Soft Privatisation|隐性私有化]]。
 > >
 > > - **开放共享维护派** 强调必须严格遵循大学政策，所有在校研究产出与学生联合发表文章必须无条件向学术界公开。
 > > - **专有保护派** 企业出资支持学者旨在构建商业竞争壁垒，若所有成果均完全开源，企业将缺乏承担高额薪酬与研发投入的经济动力。

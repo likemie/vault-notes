@@ -8,7 +8,7 @@ aliases:
 summary: "课堂话语策略，指教师重构并提升学生表述以明确观点署名权、提升认知层次并推动论证对话"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Mind-Oriented Learning Process]]"
   - "[[Virtue-Oriented Learning Process]]"
   - "[[Reflexivity]]"
+  - "[[Differentiated Instruction]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Problem Solving]]"
   - "[[Variable]]"
@@ -44,7 +45,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -83,7 +84,7 @@ updated: 2026-11-03
 > - **标注观点署名权（Authorship Attribution）** 教师在互动中明确指明谁提出了什么观点，并将不同学生的提议置于对立面，促使学生将其视为个人的智力财产进行捍卫或修正。
 > - **认知层级提升（Cognitive Elevation）** 在不篡改学生核心原意的前提下，引入学科专业词汇与[[Analytic Framework|分析框架]]，将直觉性经验描述转化为严谨的知识表达。
 > - **促成同伴论证对立（Positioning for Peer Debate）** 借助句式重构将分歧显性化（例如所以你不同意某某同学的方案），为全班展开实证检验与[[Reflexivity|反思性]]讨论搭建结构化平台。
-> - **话语角色分离（Role Differentiation）** 依托欧文·[[Michael Gove|戈夫]]曼（[[Erving Goffman]]）的话语角色理论，教师仅承担话语发出者（Animator），而始终将学生保持为观点来源者（Author）。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 92–94)]]
+> - **话语角色分离（Role [[Differentiated Instruction|Differentiation]]）** 依托欧文·[[Michael Gove|戈夫]]曼（[[Erving Goffman]]）的话语角色理论，教师仅承担话语发出者（Animator），而始终将学生保持为观点来源者（Author）。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 92–94)]]
 
 > [!logic-map]- 话语重铸的微观互动机制
 > ```mermaid

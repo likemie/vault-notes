@@ -9,7 +9,7 @@ aliases:
 summary: "知识动员中划分证据供给侧主动单向推送与实践需求端主动吸收牵引的双机制分析模型；揭示传统线性供给之局限并倡导向学校吸收能力与使能条件重构。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 34
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -24,6 +24,8 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Knowledge Co-production]]"
   - "[[Absorptive Capacity]]"
+  - "[[Appropriate Research]]"
+  - "[[Thoughtful Engagement]]"
   - "[[Research-Practice Partnership]]"
   - "[[Dialogue in Education]]"
   - "[[Embedded Researcher]]"
@@ -61,7 +63,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -75,9 +77,9 @@ updated: 2026-11-03
 > - **适用边界** 用于分析知识动员系统的动力学结构；是一个需要保持动态平衡的系统光谱，有别于非此即彼的绝对二元对立。
 
 > [!citation-card] Rickinson et al. 论从供给驱动转向需求牵引
-> 教育研究利用的重心必须从单纯关注研究证据的生产与供给（Push），转向深耕实践端对适切证据的审慎参与和实施（Pull）；[[Quality Use of Research Evidence Framework\|高质量研究使用]]不仅取决于恰当的研究证据与深思熟虑的行动整合，更有赖于个体素养心智、学校领导力与互信文化，以及破除时间匮乏困境的系统性制度保障。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, pp. 183–185)]]
+> 教育研究利用的重心必须从单纯关注研究证据的生产与供给（Push），转向深耕实践端对[[Appropriate Research|适切证据]]的审慎参与和实施（Pull）；[[Quality Use of Research Evidence Framework\|高质量研究使用]]不仅取决于恰当的研究证据与深思熟虑的行动整合，更有赖于个体素养心智、学校领导力与互信文化，以及破除时间匮乏困境的系统性制度保障。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, pp. 183–185)]]
 >
-> *Efforts need to shift from a primary focus on the production and pushing of research towards supporting the thoughtful engagement with and implementation of appropriate research evidence by practitioners.*
+> *Efforts need to shift from a primary focus on the production and pushing of research towards supporting the [[Thoughtful Engagement|thoughtful engagement]] with and implementation of appropriate research evidence by practitioners.*
 
 > [!boundary]- 概念边界
 > - **不等于 纯粹技术性的信息检索与分发技术** 推拉模型关注的是涉及专业认知、[[Organizational Culture\|组织文化]]与治理结构的社会交互机制，而非单纯的数字网络传输技术。

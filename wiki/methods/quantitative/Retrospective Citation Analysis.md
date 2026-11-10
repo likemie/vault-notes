@@ -11,7 +11,7 @@ summary: "科学计量学中测度引文时间维度的截面分析方法；以�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 17
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -24,44 +24,48 @@ tags:
   - theme/citation-dynamics
   - theme/science-of-science
 related_concepts:
-  - "[[Citation Aging]]"
-  - "[[Knowledge Hotspots]]"
-  - "[[Citation Distribution]]"
   - "[[Document]]"
-related_theories:
-  - "[[Universality of Citation Distributions]]"
+  - "[[Knowledge Hotspots]]"
+  - "[[Unit of Analysis]]"
+  - "[[Construct Validity]]"
+  - "[[Citation Distribution]]"
+  - "[[Citation Aging]]"
+  - "[[Construct]]"
+related_theories: []
 related_methods:
-  - "[[Prospective Citation Analysis]]"
   - "[[Bibliometric Analysis]]"
+  - "[[Prospective Citation Analysis]]"
   - "[[Relative Citation Normalization]]"
 related_instruments: []
 related_persons:
   - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
   - "[[Derek de Solla Price]]"
 related_facts:
   - "[[Web of Science]]"
+  - "[[Scopus]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Retrospective Citation Analysis
-> 引文回溯分析（Retrospective Citation Analysis，又称共时引文分析 Synchronous Citation Analysis 或 Citation From 进路）是一种以施引文献为基准轴测度引文时间年龄分布的[[Bibliometric Analysis|文献计量学]]量化方法。其核心操作为：固定特定出版年份 $t$ 的施引学术文献样本，统计其所引述参考文献的发表年代，计算引文年龄跨度 $\tau = t - t_{\text{cited}}$ 的经验概率分布 $P_{\text{retro}}(\tau)$。该方法用以表征科研人员在写作特定成果时向过去审视的“引用记忆（Citing Memory）”深度与文献搜寻结构。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 204–205)]]
+> 引文回溯分析（Retrospective Citation Analysis，又称共时引文分析 Synchronous Citation Analysis 或 Citation From 进路）是一种以施引[[Document|文献]]为基准轴测度引文时间年龄分布的[[Bibliometric Analysis|文献计量学]]量化方法。其核心操作为：固定特定出版年份 $t$ 的施引学术文献样本，统计其所引述参考文献的发表年代，计算引文年龄跨度 $\tau = t - t_{\text{cited}}$ 的经验概率分布 $P_{\text{retro}}(\tau)$。该方法用以表征科研人员在写作特定成果时向过去审视的“引用记忆（Citing Memory）”深度与文献搜寻结构。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 204–205)]]
 
 > [!method-scope] 方法范围
 > - **测量或估计对象** 科学共同体在特定历史截面的知识检索跨度、引用记忆半衰期（Citing Half-Life）与[[Knowledge Hotspots|知识热点]]架构。
 > - **问题类型** 描述学术引文的年龄分布结构、分析数字化检索工具与同行评议对历史文献引证偏好的重塑、测算学科引用记忆的时序演变。
-> - **分析单位** 单篇学术文献的参考文献清单、特定期刊同年度全量发表文献集群、学科领域年度出版全集。
-> - **输入数据** 包含标准出版年份与参考文献题录列表的引文数据库记录（如 [[Web of Science]] 或 Scopus）。
+> - **[[Unit of Analysis|分析单位]]** 单篇学术文献的参考文献清单、特定期刊同年度全量发表文献集群、学科领域年度出版全集。
+> - **输入数据** 包含标准出版年份与参考文献题录列表的引文数据库记录（如 [[Web of Science]] 或 [[Scopus]]）。
 > - **输出形式** 参考文献年龄概率分布密度直方图、平均参考文献年龄 $\langle \tau \rangle$、离散系数 $\sigma_\tau$ 及知识热点象限分布。
 
-> [!citation-card] 王大顺与巴拉巴西论回溯引文分析的测度视角
+> [!citation-card] [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]论回溯引文分析的测度视角
 > 回溯法考察特定年份出版文献所引用的参考文献，分析这些引文向过去追溯的年龄分布。这种方法量化了研究者在引用早期工作时向后回看的距离，刻画了该论著的引用记忆。研究显示，由于施引文献固定且无需长周期追踪，2000 年之前的文献计量学研究大多依赖回溯法展开。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 204–205)]]
 >
 > *The retrospective (citation from) approach considers papers cited by a publication during a particular year and analyzes the age distribution of these citations, looking back in time... characterizing the citing 'memory' of a paper.*
@@ -69,7 +73,7 @@ updated: 2026-11-02
 ---
 
 > [!method-position] 方法定位
-> - **构念效度** 能够精确反映科研人员撰写成果时的即时知识吸纳视野，但受制于历史文献存量指数扩容的稀释效应，无法单独作为文献内在影响寿命的无偏指标。
+> - **[[Construct Validity|构念效度]]** 能够精确反映科研人员撰写成果时的即时知识吸纳视野，但受制于历史文献存量指数扩容的稀释效应，无法单独作为文献内在影响寿命的无偏指标。
 > - **研究者判断** 施引年份选择、参考文献类型筛选（剔除书籍、会议摘要或非正式出版物）、自引剔除标准。
 > - **有效性标准** 参考文献年代字段完备率、跨学科归一化基准以及对系统性历史扰动（如世界大战出版骤降）的控制。
 > - **不声称回答的问题** 不能直接推断单篇新成果在未来的长程被引增长轨迹；不能将回溯分布中高龄文献的低占比直接解释为经典知识价值的物理消亡。
@@ -82,8 +86,8 @@ updated: 2026-11-02
 >   - **学术记忆历史分析** 测算 1960 年代以来由于复印机普及、同行评议与搜索引擎带来的经典引用回升（[[Argument_Wang_Barabasi_2021_Cambridge|Wang & Barabási, 2021, pp. 200–204]]）。
 
 > [!dev-timeline] 方法演变
-> - **1965 — 普赖斯半衰期测度** [[Derek de Solla Price|德里克·德索拉·普赖斯]]运用截面期刊参考文献统计，提出科学文献引用的半衰期定律。
-> - **1988 — 中本秀之确立共时分析概念** 中本秀之界定共时（Synchronous）引文分布规范，明确其与历时追踪的视角边界。
+> - **1965 — [[Derek de Solla Price|普赖斯]]半衰期测度** [[Derek de Solla Price|德里克·德索拉·普赖斯]]运用截面期刊参考文献统计，提出科学文献引用的半衰期定律。
+> - **1988 — 中本秀之确立共时分析概念** 中本秀之界定共时（Synchronous）[[Citation Distribution|引文分布]]规范，明确其与历时追踪的视角边界。
 > - **2005 — 雷德纳大规模物理引文实证** 西德尼·雷德纳利用《物理评论》百年全量数据，绘制出精确的回溯引文年龄幂律衰减曲线。
 > - **2017 — 尹良与王大顺推导积分对偶映射** 尹良与[[Dashun Wang|王大顺]]推导出回溯分布与前瞻分布在文献指数增长环境下的精确积分解析式。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Yin & Wang, 2017; via Wang & Barabási, 2021, pp. 204–205)]]
 
@@ -162,7 +166,7 @@ updated: 2026-11-02
 > [!method-limits] 方法局限
 > - **偏误来源** 历史文献早期数字化遗漏引发的高龄截断偏误；学者引文复制导致的伪流行偏误。
 > - **适用边界** 仅适用于规范标记参考文献发表年代的现代文献引文库。
-> - **补救方式** 结合对偶贴现公式反演客观前瞻存活曲线，或配合相对引文标准化剔除领域增长率偏倚。
+> - **补救方式** 结合对偶贴现公式反演客观前瞻存活曲线，或配合[[Relative Citation Normalization|相对引文标准化]]剔除领域增长率偏倚。
 
 ---
 
@@ -173,7 +177,7 @@ updated: 2026-11-02
 > | [[Prospective Citation Analysis]] | 对偶方法 | 以发表队列追踪长程影响力的对应进路，二者通过增长贴现积分建立数学对偶映射。 |
 > | [[Bibliometric Analysis]] | 上位方法 | 构成文献计量学测度知识搜寻与引用记忆的基础分支。 |
 > | [[Knowledge Hotspots]] | 概念 | 回溯引文年龄均值与离散系数在二维拓扑中识别高突破知识架构的核心应用。 |
-> | [[Citation Aging]] | 概念 | 测度与刻画文献引用随时间推移注意力消退的客观构念。 |
+> | [[Citation Aging]] | 概念 | 测度与刻画文献引用随时间推移注意力消退的客观[[Construct\|构念]]。 |
 
 ---
 

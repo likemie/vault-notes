@@ -9,7 +9,7 @@ summary: "Campbell和Stanley（1963）提出的用于图示实验设计的经典
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Threats to Internal Validity]]"
   - "[[Threats to External Validity]]"
 related_theories:
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -66,7 +67,7 @@ updated: 2026-10-30
 > [!success] 适用场景
 > - 方法计划中图示实验设计时，该符号系统是学科标准。
 > - 教学情境中用于帮助学生理解不同实验设计之间的结构差异（如真实验 vs 准实验的可视化区别）。
-> - 研究报告和学位论文中用于清晰传达实验程序的时序逻辑与组间关系。
+> - 研究报告和[[Doctoral Dissertation|学位论文]]中用于清晰传达实验程序的时序逻辑与组间关系。
 
 > [!tip] 相关概念
 > - [[Internal Validity]] — Campbell & Stanley 在同一著作中同时提出了[[Threats to Internal Validity\|内部效度威胁]]的分类框架，符号系统与效度框架是同一理论体系的两个组成部分。

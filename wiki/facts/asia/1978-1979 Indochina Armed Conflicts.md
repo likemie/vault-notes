@@ -13,9 +13,9 @@ subtype: event
 region: asia
 fact_region: "asia"
 fact_kind: "event"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
   - fact/event
@@ -24,6 +24,9 @@ tags:
   - theme/geopolitics
   - theme/nationalism
 related_concepts:
+  - "[[Total War]]"
+  - "[[Nationalism]]"
+  - "[[Paradigm]]"
   - "[[Modular Nationalism]]"
   - "[[Horizontal Comradeship]]"
   - "[[Geopolitics]]"
@@ -34,7 +37,8 @@ related_instruments: []
 related_persons:
   - "[[Benedict Anderson]]"
   - "[[Eric Hobsbawm]]"
-related_facts: []
+related_facts:
+  - "[[ASEAN]]"
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch01]]"
 confidence: high
@@ -46,7 +50,7 @@ updated: 2026-11-11
 ---
 
 > [!claim] 核心定性
-> 1978年末至1979年初爆发的柬越战争与中越边境武装冲突，是现代历史上首次在具有公认革命正统性的独立社会主义政权之间爆发的大规模常规战争。交战各方完全依据继承自前革命时期的历史疆域与地缘主权利益展开军事行动，彻底瓦解了无产阶级国际主义的教条预设，促成本尼迪克特·安德森将民族属性从意识形态分类转向类似亲属与宗教的文化人造物。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 1–3)]]
+> 1978年末至1979年初爆发的柬越战争与中越边境武装冲突，是现代历史上首次在具有公认革命正统性的独立社会主义政权之间爆发的大规模常规战争。交战各方完全依据继承自前革命时期的历史疆域与地缘主权利益展开军事行动，彻底瓦解了无产阶级国际主义的教条预设，促成[[Benedict Anderson|本尼迪克特·安德森]]将民族属性从意识形态分类转向类似亲属与宗教的文化人造物。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 1–3)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1978年12月至1979年3月，核心交火区域涵盖中南半岛柬越接壤边界、金边周边以及中越陆地边境走廊。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 1–2)]]
@@ -69,7 +73,7 @@ updated: 2026-11-11
 ---
 
 > [!citation-card] 印支战争击碎跨国阶级联合神话
-> 1978年12月越南对民主柬埔寨的军事进军，以及1979年2月中国对越南发起的武装进攻，标志着世界现代史上首次在两个拥有公认革命正统性的独立政权之间爆发全面战争。没有任何一方尝试借助可辨识的马克思主义学说为军事冲突辩护，赤裸裸的地缘疆界争端凸显了民族主义对阶级联盟的现实压倒性。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 1–2)]]
+> 1978年12月越南对民主柬埔寨的军事进军，以及1979年2月中国对越南发起的武装进攻，标志着世界现代史上首次在两个拥有公认革命正统性的独立政权之间爆发[[Total War|全面战争]]。没有任何一方尝试借助可辨识的马克思主义学说为军事冲突辩护，赤裸裸的地缘疆界争端凸显了[[Nationalism|民族主义]]对阶级联盟的现实压倒性。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 1–2)]]
 >
 > *The outbreak of war between Vietnam, Cambodia, and China is of world-historical importance... It is the first time that wars have occurred between independent communist states.*
 
@@ -84,13 +88,13 @@ updated: 2026-11-11
 ---
 
 > [!indicators] 历史影响维度
-> - **社会主义国际主义范式终结** 终结了跨国阶级利益能够自然消解民族矛盾的理论假定，证明现代革命胜利后均不可逆转地退守并固化为民族国家。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 2)]]
-> - **现代政治理论哥白尼式转向** 推动本尼迪克特·安德森突破西方经典社会理论的教条，提出民族作为想象政治共同体与模块化文化人造物的经典假说。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 3–4)]]
-> - **东南亚地缘空间规制重塑** 推动东盟（ASEAN）迅速凝聚为以维护主权独立与领土完整为底线的区域安全实体，重塑了后冷战时期的东南亚多边均势格局。
+> - **社会主义国际主义[[Paradigm|范式]]终结** 终结了跨国阶级利益能够自然消解民族矛盾的理论假定，证明现代革命胜利后均不可逆转地退守并固化为民族国家。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 2)]]
+> - **现代政治理论哥白尼式转向** 推动本尼迪克特·安德森突破西方经典社会理论的教条，提出民族作为想象政治共同体与[[Modular Nationalism|模块化文化人造物]]的经典假说。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 3–4)]]
+> - **东南亚地缘空间规制重塑** 推动[[ASEAN|东盟]]（ASEAN）迅速凝聚为以维护主权独立与领土完整为底线的区域安全实体，重塑了后冷战时期的东南亚多边均势格局。
 
 > [!finding-cards] 关键历史后果
 > - **阶级教条神话瓦解** 事实证明任何夺取政权的革命运动，其行使主权与动员大众的合法性根基始终深植于继承自前革命时期的具体领土疆界之内。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 2–3)]]
-> - **理论范式深度重塑** 迫使学术界承认民族属性具有独立于经济基础的深层情感动力，奠定了《想象的共同体》的写作起点。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 3–5)]]
+> - **理论范式深度重塑** 迫使学术界承认民族属性具有独立于经济基础的深层情感动力，奠定了《[[Imagined Community|想象的共同体]]》的写作起点。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 3–5)]]
 
 ---
 

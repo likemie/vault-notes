@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -28,11 +28,13 @@ tags:
 related_concepts:
   - "[[Epistemic Governance]]"
   - "[[Knowledge Production]]"
+  - "[[Early-Career Researchers]]"
   - "[[Paradigm]]"
   - "[[Research Universities]]"
   - "[[School Autonomy]]"
   - "[[Causality]]"
   - "[[Mentorship]]"
+  - "[[Transnational Education]]"
   - "[[Knowledge Bank]]"
   - "[[Discourse]]"
   - "[[Evidence-Based Policy-Making]]"
@@ -55,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -67,7 +69,7 @@ updated: 2026-10-30
 > - **立项时间与周期** 1982 年经世行执董会决议设立，长年持续稳定运行至今。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 5)]]
 > - **官方平台与申请门户** 官方项目主页为世界银行奖学金平台 [World Bank Scholarships: Robert S. McNamara Fellowships Program](https://www.worldbank.org/en/programs/scholarships#3)，发布年度资助指南、遴选标准与入选公示。
 > - **发起方与资助机制** 由世界银行执行董事会统筹，设立专门捐赠基金管理，资金收益全额用于支付受资助学者的境外研究津贴、往返国际旅费、健康保险及科研经费（单人资助额度最高达 40,000 至 45,000 美元）。
-> - **覆盖范围与对象** 专门面向来自世界银行中低收入借款国的青年学者（通常要求年龄在 35 周岁以下、正在攻读发展政策相关博士学位或具有同等实证研究背景）。
+> - **覆盖范围与对象** 专门面向来自世界银行中低收入借款国的[[Early-Career Researchers|青年学者]]（通常要求年龄在 35 周岁以下、正在攻读发展政策相关博士学位或具有同等实证研究背景）。
 > - **核心问题导向** 破解全球南方国家在实证发展经济学、教育财政与公共政策前沿研究领域的基础设施匮乏，改变发展中国家青年学者缺乏顶尖国际学术交流平台与前沿微观计量训练的困境。
 
 ---
@@ -78,7 +80,7 @@ updated: 2026-10-30
 > [!policy-design] 方案设计
 > - **全职境外学术驻访机制** 资助入选学者前往其本国之外的全球一流[[Research Universities|研究型大学]]或政策智库，开展为期 6 至 10 个月的高强度全职实证课题研究。
 > - **高度聚焦实证发展与教育议题** 重点支持教育收益率测算、[[School Autonomy|学校自主权]]与问责制、早期儿童发展（ECD）、劳动技能匹配以及反贫困政策[[Causality|因果推断]]等与世行业务紧密相关的实证课题。
-> - **双[[Mentorship|导师制]]与数据赋能** 鼓励入选学者同时由海外知名大学教授与世界银行[[Development Economics Vice Presidency|发展经济学研究局]]（DEC）资深研究员共同指导，并优先开放世行微观调查与跨国教育统计数据库。
+> - **双[[Mentorship|导师制]]与数据赋能** 鼓励入选学者同时由海外知名大学教授与世界银行[[Development Economics Vice Presidency|发展经济学研究局]]（DEC）资深研究员共同指导，并优先开放世行微观调查与[[Transnational Education|跨国教育]]统计数据库。
 > - **青年学术网络持续维系** 设立全球麦克纳马拉奖学金校友会（Alumni Network），通过定期举办区域政策论坛与工作坊，将历届学者紧密联结在以世行知识中枢为核心的网络中。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 5)]]
 
 > [!citation-card] 麦克纳马拉奖学金宗旨

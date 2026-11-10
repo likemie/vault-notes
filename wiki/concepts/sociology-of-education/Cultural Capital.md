@@ -8,10 +8,10 @@ aliases:
 summary: "Pierre Bourdieu 的核心概念，指个体通过家庭社会化与教育获得并在特定场域中具有交换价值的文化资源（具身化、客体化和制度化）。在大规模教育实证研究中常操作化为家庭藏书量等资源，实证表明其既直接提升学业表现，又通过培育批判性认识论信念间接促进高阶成就。"
 type: concept
 domain: "sociology-of-education"
-related_count: 37
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - cultural-capital
   - bourdieu
@@ -38,10 +38,13 @@ related_concepts:
   - "[[Discourse]]"
   - "[[School Leadership]]"
   - "[[Epoché]]"
+  - "[[Task Structure]]"
+  - "[[Educational Level]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Social Capital Theory]]"
 related_methods:
+  - "[[Knowledge Extent]]"
   - "[[Causal Modeling]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
@@ -64,10 +67,11 @@ related_arguments:
   - "[[Argument_Teng_2025_CE]]"
   - "[[Argument_Grace_2010_NZJES]]"
   - "[[Argument_Eacott_2011_JEAH]]"
+  - "[[Argument_King_2007_CE]]"
 confidence: medium
 status: active
 created: 2026-05-08
-updated: 2026-11-06
+updated: 2026-11-11
 ---
 
 ---
@@ -140,7 +144,7 @@ updated: 2026-11-06
 > **教育再生产维度** 探讨教育系统如何通过默认要求特定的文化习惯与品位，将[[Socioeconomic Status|社会经济地位]]的不平等合法化为个人天赋和努力的差距，从而实现阶层再生产。
 
 > [!claim] [[Pierre Bourdieu\|Bourdieu, P.]]
-> **学术选拔的隐性前提** 教育系统倾向于把有教养阶级传递的语言风格、知识广度与审美模式作为默认前提，使得缺乏这些资本的弱势家庭子女在学业选拔中面临系统性不利，从而合法化了社会出身的特权差距。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023, Ch. 2)]]（引自 Bourdieu & Passeron, 1979）
+> **学术选拔的隐性前提** 教育系统倾向于把有教养阶级传递的语言风格、[[Knowledge Extent|知识广度]]与审美模式作为默认前提，使得缺乏这些资本的弱势家庭子女在学业选拔中面临系统性不利，从而合法化了社会出身的特权差距。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023, Ch. 2)]]（引自 Bourdieu & Passeron, 1979）
 
 > [!claim] [[Yajun Zheng\|郑雅君]]
 > **大学[[Champ\|场域]]中的[[Cultural Barrier\|文化障碍]]** 弱势阶层大学生在精英高校中面临的核心困境，集中表现为大学场域中被默认掌握的隐性文化技能缺失，如对推荐信文化、[[Recommendation-Based Graduate Admission System\|推免]]规则的生疏，以及在社交面试场合中的身体化局促感。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023, Ch. 6)]]
@@ -241,7 +245,7 @@ updated: 2026-11-06
 | [[Academic Achievement]] | 概念 | 文化资本通过家庭认知刺激与认识论中介所显著提升的高阶学业表现。 |
 | [[Habitus]] | 概念 | 具身化文化资本的核心存在形态，内化于个体的持久心智倾向与行为风格。 |
 | [[School Choice]] | 概念 | 优势阶层父母运用文化资本优势扫描信息并占据优质学位的市场化竞争机制。 |
-| [[Critical Thinking]] | 概念 | 家庭文化资本所培育的质疑绝对权威与应对复杂劣构任务的批判思维品质。 |
+| [[Critical Thinking]] | 概念 | 家庭文化资本所培育的质疑绝对权威与应对复杂[[Task Structure\|劣构任务]]的批判思维品质。 |
 | [[Epistemological Beliefs]] | 概念 | 家庭藏书量等文化资本通过降低教条确定性而促进的中介认知信念。 |
 | [[Pierre Bourdieu]] | 人物 | 提出文化资本理论并系统论证教育系统阶级再生产机制的法国社会学家。 |
 | [[Yajun Zheng]] | 人物 | 将具身化文化资本本土化为精英大学场域隐性制度规则直觉的学者。 |
@@ -259,5 +263,5 @@ updated: 2026-11-06
 > - [[Argument_Teng_2025_CE\|Teng and Wang (2025)]] — 发现中国县域城镇化[[School Choice\|择校]]中由于入学程序简化，文化资本在执行中被边缘化，无法独立完成学位准入，必须向社会资本退让。
 > - [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] — 大规模纵向[[Cohort Study\|面板研究]]，证实家庭文化资本（藏书量）不仅直接促进高中毕业成就（$\beta = 0.16$），更通过降低确定性信念（$\beta = -0.13$）间接赋能高阶[[Academic Achievement\|学业表现]]。
 > - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 结合[[Roy Nash|纳什]]（Nash, 2003）的新西兰阶级方差分解研究，指出学业成就差异深植于家庭文化资本与阶级生活机会之中，强调教育社会学必须将文化资本作为核心分析[[Variable|变量]]以破除校内技术主义还原本质（p. 91）。
-> - [[Argument_King_2007_CE|King (2007)]] — 引证克莱门斯历史实证研究，指出父母受教育水平所代表的代际文化资本缓慢积累，是决定儿童长时段入学率的根本因素（p. 387）。
+> - [[Argument_King_2007_CE|King (2007)]] — 引证克莱门斯历史实证研究，指出父母[[Educational Level|受教育水平]]所代表的代际文化资本缓慢积累，是决定儿童长时段入学率的根本因素（p. 387）。
 > - [[Argument_Eacott_2011_JEAH\|Eacott (2011)]] — 探讨了[[School Leadership\|学校领导力]]研究中，什么算作合法文化资本的定义权是如何在经济和政治场域中被争夺的（pp. 48–50）。

@@ -9,7 +9,7 @@ summary: "美国著名政治哲学家、哈佛大学讲座教授，当代社群�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Market Triumphalism]]"
   - "[[Discourse]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Technological Republic]]"
   - "[[Paradigm]]"
   - "[[Technological Escapism]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -74,7 +75,7 @@ updated: 2026-10-30
 > - **1953** 出生于美国明尼苏达州明尼阿波利斯。
 > - **1975** 毕业于布兰迪斯大学，随后获罗德奖学金赴英国牛津大学贝利奥尔学院深造，师从查尔斯·泰勒（Charles Taylor）等著名哲学家。
 > - **1981** 获得牛津大学哲学博士学位，同年加入哈佛大学政府系任教。
-> - **1982** 出版博士论文修订本《自由主义与正义的局限》，对[[John Rawls|约翰·罗尔斯]]《正义论》的先验主体设想与权利优先于善原则发起里程碑式批判，奠定社群主义政治哲学重镇地位。
+> - **1982** 出版[[Doctoral Dissertation|博士论文]]修订本《自由主义与正义的局限》，对[[John Rawls|约翰·罗尔斯]]《正义论》的先验主体设想与权利优先于善原则发起里程碑式批判，奠定社群主义政治哲学重镇地位。
 > - **1980–2000年代** 在哈佛大学开设传奇公开课“正义”（Justice），吸引全球数千万学生与公众，成为全球知名的公共哲学家。
 > - **2012** 出版《金钱不能买什么：市场的道德界限》，深入剖析冷战后市场机制对公共生活与传统价值观的侵蚀，提出“[[Market Triumphalism|市场必胜论]]”概念。
 > - **2020** 出版《精英的傲慢》，批判当代西方基于学历与绩优主义（Meritocracy）建立的精英不平等对工人阶级尊严的践踏。

@@ -9,9 +9,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 issuing_organization: Institute for Research in Schools
 tags:
@@ -28,6 +28,7 @@ related_concepts:
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
 related_persons:
+  - "[[Ernest Rutherford]]"
   - "[[Michael W. Apple]]"
 related_facts:
   - "[[CERN]]"
@@ -35,7 +36,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -49,7 +50,7 @@ updated: 2026-10-26
 ---
 
 > [!claim] 核心运作机制
-> IRIS 与[[CERN|欧洲核子研究组织]]（CERN）、卢瑟福·[[Michael W. Apple|阿普尔]]顿实验室、威康桑格研究所及顶尖大学合作，将尖端科研数据脱敏、解密并开发为适合中学生开展真实分析的项目包。
+> IRIS 与[[CERN|欧洲核子研究组织]]（CERN）、[[Ernest Rutherford|卢瑟福]]·[[Michael W. Apple|阿普尔]]顿实验室、威康桑格研究所及顶尖大学合作，将尖端科研数据脱敏、解密并开发为适合中学生开展真实分析的项目包。
 
 > [!policy-design] 旗舰真实课题矩阵
 > - **CERN@school（高能粒子物理）** 学生使用安装在校园或气球探测器上的 Timepix 辐射传感器芯片，直接分析宇宙射线与 CERN 粒子对撞的一手实验数据。

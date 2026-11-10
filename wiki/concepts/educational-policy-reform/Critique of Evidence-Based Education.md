@@ -6,7 +6,7 @@ aliases:
 summary: "围绕证据本位教育（EBE）的认识论前提、方法论基础、实施效果和政治后果形成的多维度批评体系，涵盖民主缺陷、三重缺陷框架、方法论批评、制度政治批评及综合批判框架"
 type: concept
 domain: "educational-policy-reform"
-related_count: 92
+related_count: 94
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Epistemological Coherence]]"
   - "[[External Validity]]"
+  - "[[Side Effects]]"
   - "[[Epistemic Governance]]"
   - "[[Evidence Era]]"
   - "[[Rationalized Myth]]"
@@ -36,6 +37,7 @@ related_concepts:
   - "[[Deficit Framing]]"
   - "[[Causality]]"
   - "[[Phronesis]]"
+  - "[[Policy Translation]]"
   - "[[Policy Network]]"
   - "[[Doxa]]"
   - "[[Empiricism]]"
@@ -116,7 +118,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -155,7 +157,7 @@ updated: 2026-11-03
 > [!feature] 批判的四个核心维度
 > - **[[Epistemology\|认识论]]与哲学维度** 质疑 [[Evidence-Based Education\|EBE]] 将医学因果估计奉为最高等级的[[Theory of Knowledge\|知识论]]前提，揭示其忽视教育开放系统本质、否定学生施为能动性与割裂[[Epistemological Coherence\|认识论连贯性]]的根本缺陷。[[Argument_Biesta_2010_SPE\|(Biesta, 2010, pp. 495–499)]]; [[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, pp. 6–8)]]
 > - **方法论与科学哲学维度** 剖析 [[Randomised Controlled Trials\|RCT]] 在教育中的[[External Validity\|外部效度]]局限、[[Meta-analysis\|元分析]]强行合并不可比异质研究的数据失真，以及[[Non-intervention Research\|非干预研究]]向实践越界发号施令的方法论谬误。[[Argument_Wrigley_2019_ERE\|(Wrigley & McCusker, 2019, pp. 24–28)]]; [[Argument_Brady_2023_EPR\|(Brady et al., 2023, pp. 6–8)]]
-> - **微观实践与实施维度** 阐明标准循证干预进入课堂时面临的复杂情境调适障碍，揭示追求单一分数量化优化对体育、艺术与心理健康等多元价值造成的系统性副作用挤压。[[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, pp. 63–67)]]; [[Argument_Zhao_2017_JEC\|(Zhao, 2017, pp. 2–5)]]
+> - **微观实践与实施维度** 阐明标准循证干预进入课堂时面临的复杂情境调适障碍，揭示追求单一分数量化优化对体育、艺术与心理健康等多元价值造成的系统性[[Side Effects|副作用]]挤压。[[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, pp. 63–67)]]; [[Argument_Zhao_2017_JEC\|(Zhao, 2017, pp. 2–5)]]
 > - **制度政治与[[Epistemic Governance\|知识治理]]维度** 揭示在[[Evidence Era\|证据时代]]，证据如何演变为官僚体系的[[Rationalized Myth\|合理化神话]]，以及政府[[Gatekeepers\|守门人]]如何通过[[Policy-Based Evidence-Making\|基于政策的证据制造]]（PBEM）达成政治适宜性辩护与责任转嫁。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 611–615)]]; [[Argument_Cowen_2019_ERE\|(Cowen, 2019, pp. 110–115)]]
 
 > [!logic-map]- 循证教育批判的多层逻辑架构
@@ -199,7 +201,7 @@ updated: 2026-11-03
 > **分析认识论视角下 EBE 在原则上的不可完成性** 运用高德曼（[[Alvin Goldman]]）的区分[[Theory of Knowledge\|知识论]]论证 EBE 项目在原则上无法达成确定性：教育情境中的相关替代方案因地因时而异，任何历史上的干预效果都会随着教师个体效能差异与学校生态演变而失效；效度永远是从特定结果得出的推论属性，而非[[Experimental Research|实验设计]]本身的固有属性，“教育研究只能告诉我们过去曾经是什么，无法断定未来可能是什么”。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, pp. 7–10)]]
 
 > [!claim] [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]]
-> **[[Epistemological Coherence\|全流程认识论连贯性]]断裂与口口相传脱语境化** 严谨的科学探究要求从问题提出、观察、因果机制推导到政策转译的全流程保持[[Epistemological Coherence\|认识论连贯性]]；但在[[Policy Network\|政策网络]]中，脱离情境的单一[[Effect Size\|效应量]]和宣传口号被口口相传随意套用，切断了因果推论与结构性前提，使严谨科学退化为行政意见（[[Doxa]]）与政策伪科学，准教师被降格为执行标准化清单的被动受众。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 614–615)]]
+> **[[Epistemological Coherence\|全流程认识论连贯性]]断裂与口口相传脱语境化** 严谨的科学探究要求从问题提出、观察、因果机制推导到[[Policy Translation|政策转译]]的全流程保持[[Epistemological Coherence\|认识论连贯性]]；但在[[Policy Network\|政策网络]]中，脱离情境的单一[[Effect Size\|效应量]]和宣传口号被口口相传随意套用，切断了因果推论与结构性前提，使严谨科学退化为行政意见（[[Doxa]]）与政策伪科学，准教师被降格为执行标准化清单的被动受众。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 614–615)]]
 
 > [!claim] [[Argument_Møller_2017_EERJ\|Møller (2017)]]
 > **hard-to-do-science 与复杂社会情境论证** 教育研究属于典型的“难以完成的科学”：师生深度嵌套在动态社会交互网络中，情境条件与微观文化不可完全受控；忽视本地限制条件的标准化干预模型必然在跨情境迁移中失效。[[Argument_Møller_2017_EERJ\|(Møller, 2017, p. 379)]]

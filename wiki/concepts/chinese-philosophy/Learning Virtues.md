@@ -7,7 +7,7 @@ aliases:
 summary: "儒家学习传统中的核心学习品质，由认真、勤奋、刻苦、恒心、专心、尊师和谦虚等美德构成学习者的个人能动性"
 type: concept
 domain: "chinese-philosophy"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Student Motivation]]"
   - "[[Benevolence]]"
   - "[[Rote Learning]]"
+  - "[[Foundational Literacy and Numeracy]]"
 related_theories:
   - "[[Behaviorism]]"
   - "[[Phenomenology]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -228,7 +229,7 @@ updated: 2026-10-30
 
 **1. [[Behaviorism|行为主义]]谬误：将可观察行为等同于内心过程。** 当西方观察者看到中国学生重复朗读、抄写、背诵时，他们仅仅观察到了外在行为——"行为上，这无非是重复、背诵、抄写"。但 Li 指出："如果可观察的行为被当作学习者内心过程的镜像，那么这些观察者犯下了与行为主义曾受批评的相同错误。"在没有询问学习者自身经验、愿望和解释的情况下，用一种文化视角去解释另一种文化的行为，是高度主观的([[Argument_Li_2012_Cambridge|Li, 2012, pp.136-137]])。
 
-**2. 基础阶段混淆：将基础学习阶段的共性当作文化缺陷。** [[Western Learner|西方学习者]]同样大量进行这类重复练习——钢琴初学者、芭蕾学生、医学院基础课学生都在做大量的"盲目"和"无意义"的重复。Li 引用了 Rachmaninoff 早期钢琴训练的真实记录：每天早晨 6 点起床练习数小时，弹错一个音老师会怒吼。然而在西方天才叙事中，"天才的勤奋付出通常被从赞誉[[Discourse|话语]]中删除了——但在东亚却没有"。Li 的要点是：在学习的**基础阶段**，大量重复和记忆在任何文化中都是必要的——这不是中国独有的"缺陷"([[Argument_Li_2012_Cambridge|Li, 2012, pp.137-138]])。
+**2. 基础阶段混淆：将[[Foundational Literacy and Numeracy|基础学习]]阶段的共性当作文化缺陷。** [[Western Learner|西方学习者]]同样大量进行这类重复练习——钢琴初学者、芭蕾学生、医学院基础课学生都在做大量的"盲目"和"无意义"的重复。Li 引用了 Rachmaninoff 早期钢琴训练的真实记录：每天早晨 6 点起床练习数小时，弹错一个音老师会怒吼。然而在西方天才叙事中，"天才的勤奋付出通常被从赞誉[[Discourse|话语]]中删除了——但在东亚却没有"。Li 的要点是：在学习的**基础阶段**，大量重复和记忆在任何文化中都是必要的——这不是中国独有的"缺陷"([[Argument_Li_2012_Cambridge|Li, 2012, pp.137-138]])。
 
 **3. 静态观察谬误：假设观察到的行为不随时间变化。** 观察者看到一个[[Chinese Learner|中国学习者]]在熟悉阶段（熟）的重复背诵，就推断这个学习者永远是一个"背诵机器人"。但几天后，同一个学习者可能已经能解释一首诗的含义；几周后，可能能比较不同诗体的差异；一学期后，可能能自己创作诗歌——"这些后期的学习与第一阶段的熟悉和练习完全不同"。然而观察者将一次观察的片段误认为是学习者整个学习生涯的全部([[Argument_Li_2012_Cambridge|Li, 2012, p.138]])。
 

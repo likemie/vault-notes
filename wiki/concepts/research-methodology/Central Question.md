@@ -10,7 +10,7 @@ aliases:
 summary: "质性研究中询问核心现象的主要开放性问题，通常一至两个，以 what 或 how 开头，使用探索性动词并避免方向性语言，辅以五至七个子问题收窄焦点用于数据收集"
 type: concept
 domain: "research-methodology"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Paradigm]]"
   - "[[Document]]"
+  - "[[Homophily]]"
   - "[[Research Question]]"
   - "[[Research Writing Script]]"
   - "[[Construct]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -84,7 +85,7 @@ Miles and Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitati
 
 ## 与特定质性路径的关联
 
-不同质性路径对核心问题的具体形式有不同要求（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
+不[[Homophily|同质性]]路径对核心问题的具体形式有不同要求（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
 
 - **[[Ethnography|民族志]]** Spradley (1980) 提出了民族志问题的分类，包括文化共享群体的微型导览、经历、本土语言使用、与其他文化群体的对比以及数据准确性验证。[[Critical Ethnography|批判民族志]]的[[Research Question|研究问题]]可建立在已有[[Document|文献]]体系之上（Thomas, 1993）。
 - **[[Phenomenology|现象学]]** 问题通常不加特定文献引用或问题类型学地宽泛陈述。Moustakas (1994) 建议询问参与者经历了什么，以及在什么情境下经历。现象学示例："What is it like for a mother to live with a teenage child who is dying of cancer?"（Nieswiadomy, 1993, p.151）

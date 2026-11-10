@@ -10,7 +10,7 @@ aliases:
 summary: "实验或量化研究中被有意识操纵、控制或选择以观察其对因变量效应的变量，是因果推断中的输入条件。"
 type: concept
 domain: "research-methodology"
-related_count: 25
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,23 +25,25 @@ related_concepts:
   - "[[Causality]]"
   - "[[Operationalization]]"
   - "[[Construct]]"
-  - "[[Definition of Terms]]"
-  - "[[Student Motivation]]"
+  - "[[Internal Validity]]"
+  - "[[Socioeconomic Status]]"
   - "[[Interaction Effect]]"
-  - "[[Academic Achievement]]"
-  - "[[Research Cage]]"
+  - "[[Definition of Terms]]"
+  - "[[Paradigm]]"
   - "[[Class Size]]"
-  - "[[School Effectiveness]]"
-  - "[[Visible Learning]]"
+  - "[[Research Cage]]"
+  - "[[Ecological Validity]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Ex Post Facto Research]]"
-  - "[[Experimental Research]]"
   - "[[Analytic Framework]]"
-  - "[[Pre-test and Post-test]]"
+  - "[[Random Assignment]]"
   - "[[Factorial Design]]"
   - "[[Meta-analysis]]"
+  - "[[Experimental Research]]"
+  - "[[Analysis of Variance]]"
+  - "[[Quasi-Experimental Designs]]"
   - "[[Causal Modeling]]"
 related_persons:
   - "[[Thomas Aastrup Rømer]]"
@@ -53,18 +55,18 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-12
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Independent Variable
-> 自变量（Independent Variable / Predictor Variable / Treatment Variable）是实验或[[Quantitative Research|量化研究]]中的输入变量，是被研究者有意识地操纵、控制或选择的前因条件，旨在检验其变化对[[Dependent Variable|因变量]]（结果变量）所产生的[[Causality|因果]]效应。在真实验中，自变量表现为研究者主动施加或改变的干预方案与处理水平；在[[Ex Post Facto Research|事后回溯研究]]与观察性设计中，自变量作为既已存在的群体特征或自然状态被纳入模型进行统计对比。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, Ch. 16, pp. 312–314, 323–324)]]
+> 自[[Variable|变量]]（Independent Variable / Predictor Variable / Treatment Variable）是实验或[[Quantitative Research|量化研究]]中的输入变量，是被研究者有意识地操纵、控制或选择的前因条件，旨在检验其变化对[[Dependent Variable|因变量]]（结果变量）所产生的因果效应。在真实验中，自变量表现为研究者主动施加或改变的干预方案与处理水平；在[[Ex Post Facto Research|事后回溯研究]]与观察性设计中，自变量作为既已存在的群体特征或自然状态被纳入模型进行统计对比。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, Ch. 16, pp. 312–314, 323–324)]]
 
 > [!concept-lens|notitle] 概念透镜
-> - **含义** 指涉因果推断链条中的前因端，是研究者假定驱动结果变化的作用实体或分类条件。
+> - **含义** 指涉[[Causality|因果推断]]链条中的前因端，是研究者假定驱动结果变化的作用实体或分类条件。
 > - **用途** 通过设定自变量的不同水平（处理组 vs 对照组、不同剂量梯度），隔离外部混杂，确证因果效应的有无与大小。
-> - **边界** 限于特定因果推断模型中的输入假设，自变量并不等同于客观本体原因本身，其推断效力受制于操作化定义与外部变量隔离程度。
+> - **边界** 限于特定因果推断模型中的输入假设，自变量并不等同于客观本体原因本身，其推断效力受制于[[Operationalization|操作化]]定义与外部变量隔离程度。
 
 > [!citation-card|notitle] 关键表述：罗默论评价综合中自变量的实体消解与封闭自指
 > 在实证评价综合中，自变量极易丧失其独立实体地位：当研究者未能对终端因变量（学习）做出明确理论界定时，自变量（教学）被狭隘地定义为“任何能够产生显著效应的干预”，而因变量又被定义为“自变量干预所测得的指标提升”。这种自变量与因变量互为前提的循环论证，彻底摧毁了自变量作为独立原因的本体属性，使实证模型退化为脱离教育实践的封闭自指体系。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 5–7)]]
@@ -72,9 +74,9 @@ updated: 2026-11-03
 > *Evaluational learning ultimately comes to define the independent variable, i.e. teaching. This makes the independent variable dependent on the dependent variable... the independent variable is dissolved as an independent pedagogical entity and reduced to a mere instrument for maximizing measurable test outcomes.*
 
 > [!boundary]- 概念边界
-> - 不等于 客观原因实体 — 自变量仅是理论原因构念的操作化代理指标；当操作化失准或缺乏构念对应性时，对自变量的操纵无法检验真实因果关系。
+> - 不等于 客观原因实体 — 自变量仅是理论原因[[Construct|构念]]的操作化代理指标；当操作化失准或缺乏构念对应性时，对自变量的操纵无法检验真实因果关系。
 > - 区别于 [[Dependent Variable|因变量]] — 自变量是输入端的前因条件，因变量是输出端的结果效应。两者的区分取决于具体研究设计，在多阶段因果链中可发生角色转换。
-> - 不适用于 无因果假定的探索性研究 — 自变量概念预设了输入输出的单向分析框架，在纯质性情境描述或无向关联性探索中不适用。
+> - 不适用于 无因果假定的探索性研究 — 自变量概念预设了输入输出的单向[[Analytic Framework|分析框架]]，在纯质性情境描述或无向关联性探索中不适用。
 
 ---
 
@@ -82,15 +84,15 @@ updated: 2026-11-03
 > | 维度 | 自变量（Independent Variable） | [[Dependent Variable\|因变量]] | 控制变量（Control Variable） |
 > |---|---|---|---|
 > | **角色定位** | 输入前因（Presumed Cause） | 输出结果（Presumed Effect） | 潜在干扰或混杂前因 |
-> | **处理方式** | 主动操纵、选择分组或梯度设定 | 被动观察与多时点测量检验 | 统计控制、恒定保持或随机化抵消 |
-> | **分析目的** | 检验其对因变量的核心因果效应 | 评估干预成效与理论假设 | 排除虚假相关，保障内部效度 |
-> | **典型范例** | 探究教学法介入、反馈类型 | 学业测验得分、科学推理能力 | 先前认知水平、社会经济地位 |
+> | **处理方式** | 主动操纵、选择分组或梯度设定 | 被动观察与多时点测量检验 | 统计控制、恒定保持或[[Random Assignment\|随机化]]抵消 |
+> | **分析目的** | 检验其对因变量的核心因果效应 | 评估干预成效与理论假设 | 排除虚假相关，保障[[Internal Validity\|内部效度]] |
+> | **典型范例** | 探究教学法介入、反馈类型 | 学业测验得分、科学推理能力 | 先前认知水平、[[Socioeconomic Status\|社会经济地位]] |
 
 ---
 
 > [!feature] 核心要素
 > - **可操纵性与组别选择** 在真实验中，自变量由研究者主动施加、撤除或调整水平（如干预的有无）；在准实验与[[Ex Post Facto Research|事后回溯研究]]中，自变量自然存在，通过挑选具有特定属性的既有群体进行对比。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, Ch. 16, pp. 312–314)]]
-> - **多水平取值与梯度设定** 自变量可设定为二分类（处理 vs 对照）、多分类（不同教学模式）或连续变量（学习时长、练习次数），其水平划分必须具有明确的[[Definition of Terms|操作化边界]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, Ch. 16, pp. 323–324)]]
+> - **多水平取值与梯度设定** 自变量可设定为二分类（处理 vs 对照）、多分类（不同教学模式）或连续变量（学习时长、练习次数），其水平划分必须具有明确的操作化边界。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, Ch. 16, pp. 323–324)]]
 > - **隔离与混杂控制** 在[[Causality|因果推断]]中，除了被操纵的自变量外，其余可能影响[[Dependent Variable|因变量]]的外生干扰变量必须保持恒定或通过随机分组予以抵消，这是确立因果必然性的核心前提。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, Ch. 16, pp. 312–313)]]
 > - **[[Factorial Design|因子设计]]与[[Interaction Effect|交互效应]]** 当同时操纵两个或多个自变量时，模型不仅能检验各自由变量的主效应，还能检视自变量之间的交互效应，即一个自变量的作用方向或幅度是否取决于另一自变量的水平。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, Ch. 16, pp. 323–324)]]
 > - **理论实体独立性** 自变量在哲学上必须具备独立于因变量的理论实体地位；若自变量仅能依据因变量的数值反馈来定义其存在，实证模型便会堕入封闭循环自指。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 5–7)]]
@@ -127,8 +129,8 @@ updated: 2026-11-03
 ---
 
 > [!dev-timeline] 概念演变
-> - **1930s–1950s — 实验方法确立自变量操纵范式** 费希尔实验设计确立自变量的主动操纵与因子方差分析架构，使自变量成为量化因果探究的核心输入基准。
-> - **1960s–1980s — 准实验与非操纵性自变量拓展** 坎贝尔与库克拓展准实验设计，确立无法主动操纵的属性自变量（如性别、社会经济地位、制度类型）在因果推断中的控制分析规范。
+> - **1930s–1950s — 实验方法确立自变量操纵[[Paradigm|范式]]** 费希尔实验设计确立自变量的主动操纵与因子[[Analysis of Variance|方差分析]]架构，使自变量成为量化因果探究的核心输入基准。
+> - **1960s–1980s — 准实验与非操纵性自变量拓展** 坎贝尔与库克拓展[[Quasi-Experimental Designs|准实验设计]]，确立无法主动操纵的属性自变量（如性别、社会经济地位、制度类型）在因果推断中的控制分析规范。
 > - **2010s — 评价综合中自变量原子化与循环定义批判** 罗默等学者反思大规模实证综合，批判将整体复杂教学切碎为孤立自变量并依附于狭隘因变量的还原主义做法。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 4–7)]]
 > - **2023 — 回归模型自变量函数形式设定与内生性挑战** 刘等指出，经典回归模型依赖形式化设定自变量与因变量的函数关系，但在面对高度复杂的大规模社会科学数据时，容易受未观测混杂影响且全局解释力受限。[[Argument_Liu_2023_NHB|(Liu et al., 2023, p. 1878)]]
 
@@ -149,7 +151,7 @@ updated: 2026-11-03
 > > - **情境生态学派** 批评脱离历史文化与教学论脉络的参数切分，指出自变量在真实学校中高度协同共生，原子化拆分构筑起脱离现实的[[Research Cage|封闭研究牢笼]]。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 4–5)]]
 
 > [!warning|limits] 适用局限
-> 在社会科学与教育情境中，绝大多数自变量无法完全脱离其所嵌入的机构文化与人际网络进行绝对隔离；试图将多维教学实践还原为单一孤立自变量容易损害生态效度。此外，观察性研究中自变量极易与未观测混杂因素高度相关，若无准实验外生冲击，难以保障因果识别的纯粹性。
+> 在社会科学与教育情境中，绝大多数自变量无法完全脱离其所嵌入的机构文化与人际网络进行绝对隔离；试图将多维教学实践还原为单一孤立自变量容易损害[[Ecological Validity|生态效度]]。此外，观察性研究中自变量极易与未观测混杂因素高度相关，若无准实验外生冲击，难以保障因果识别的纯粹性。
 
 ---
 

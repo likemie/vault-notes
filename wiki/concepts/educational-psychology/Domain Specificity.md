@@ -9,7 +9,7 @@ aliases:
 summary: "指出个体的认知能力、思维技能与认识论信念是深度内嵌于特定学科知识结构与社会情境中，有别于跨情境通用的；现代研究主张通过通用规则与学科融入相结合的混合双层模型实现认知迁移"
 type: concept
 domain: "educational-psychology"
-related_count: 51
+related_count: 57
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -42,10 +42,15 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Construct]]"
   - "[[Divergent Thinking]]"
+  - "[[Scientific Creativity]]"
   - "[[Epistemic Cognition]]"
   - "[[Source Evaluation]]"
-  - "[[Infusion Approach]]"
   - "[[Variable]]"
+  - "[[Paradigm]]"
+  - "[[Hot Streak]]"
+  - "[[Big Science]]"
+  - "[[Theory of Knowledge]]"
+  - "[[Infusion Approach]]"
   - "[[Epistemological Understanding]]"
   - "[[Academic Achievement]]"
   - "[[Interaction Effect]]"
@@ -75,12 +80,13 @@ related_arguments:
   - "[[Argument_Kuhn_2000_CD]]"
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Cartiff_2021_JEP]]"
+  - "[[Argument_Chen_2025_HSSC]]"
   - "[[Argument_Greene_2018_JEP]]"
   - "[[Argument_Song_Choi_2026_FPSYG]]"
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -181,7 +187,7 @@ updated: 2026-11-03
 > **两个构念均具领域特殊性** [[Critical Thinking\|批判性思维]]在不同领域被赋予特定界定，心理批判性思维强调按心理科学原则评价信息（Lawson, 1999, 2015），护理批判性思维则强调为改善病人照护的批判分析与条件识别（Alfaro-LeFevre, 1999; Bandman & Bandman, 1988; Papathanasiou et al., 2014）；[[Creativity\|创造力]]被共识性地视为多面、多领域的构念，其定义随研究者对多维度、多领域性质的探索而持续演变。（pp. 2, 11）
 
 > [!claim] [[Argument_Park_2026_TSC\|Park et al. (2026)]]
-> **测量的领域负荷抬高构念间相关** 创造力几乎不可能在无干扰因素下纯粹测量（Baer, 2012），[[Divergent Thinking\|发散思维]]流畅性得分（Torrance, 2008）、自陈创造力（Kaufman, 2012）与专家评定的领域特定产品（Lubart et al., 2011）在测量性质上差异很大，并受亚领域效应、评分者效应与共享方法效应等干扰因素影响（Myszkowski, 2024）。当用于测量批判性思维的分析思维任务（Hassan & Madhum, 2007）与用于测量创造力的科学创造力测验（Hu & Adey, 2002）在任务技能上高度重叠时，两个构念间的观察相关会被这一特定技能重叠虚高。（pp. 10–11）
+> **测量的领域负荷抬高构念间相关** 创造力几乎不可能在无干扰因素下纯粹测量（Baer, 2012），[[Divergent Thinking\|发散思维]]流畅性得分（Torrance, 2008）、自陈创造力（Kaufman, 2012）与专家评定的领域特定产品（Lubart et al., 2011）在测量性质上差异很大，并受亚领域效应、评分者效应与共享方法效应等干扰因素影响（Myszkowski, 2024）。当用于测量批判性思维的分析思维任务（Hassan & Madhum, 2007）与用于测量创造力的[[Scientific Creativity|科学创造力]]测验（Hu & Adey, 2002）在任务技能上高度重叠时，两个构念间的观察相关会被这一特定技能重叠虚高。（pp. 10–11）
 
 ---
 
@@ -207,12 +213,12 @@ updated: 2026-11-03
 
 > [!dev-timeline] 概念演变
 > - **1980 年代 — 批判性思维与认识论领域的特异性辩论** McPeck (1981) 提出思维不可脱离具体学科内容的极端特异性论点；Ennis (1989) 提出包含独立、融入、沉浸与混合模式的课程分类框架。
-> - **1990 年代 — 认识论信念模型与双层整合框架** [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] 提出整合通用认知框架与学科特异证据标准的双层模型需求。
+> - **1990 年代 — 认识论信念模型与双层整合框架** [[Argument_Hofer_1997_RER|Hofer and Pintrich (1997)]] 提出整合通用认知框架与学科特异证据标准的双层模型需求。
 > - **2000 年 — 日常判断领域的非同步与反转发现** [[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] 将判断领域细分为个人品味、审美、价值观、社会事实与物理事实，揭示认知发展的非同步性与反转特征。
-> - **2010 年 — 测量模型对领域一般性的统计否决** [[Argument_Greene_2010_JEP|Greene et al. (2010)]] 通过验证性因子分析证实文理学科认识论信念属于分立潜变量。
-> - **2015 年 — 341 项元分析实证确立显性混合最优范式** [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 元分析实证确证批判性思维在所有学科均可训练，且通用显性原则与学科融入相结合的混合模式成效最强。
+> - **2010 年 — 测量模型对领域一般性的统计否决** [[Argument_Greene_2010_JEP|Greene et al. (2010)]] 通过验证性因子分析证实文理学科认识论信念属于分立潜[[Variable|变量]]。
+> - **2015 年 — 341 项元分析实证确立显性混合最优[[Paradigm|范式]]** [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 元分析实证确证批判性思维在所有学科均可训练，且通用显性原则与学科融入相结合的混合模式成效最强。
 > - **2021 年 — 认识论干预特异性层级的两极优势确立** [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] 元分析发现主题特定与领域通用干预的“两极优势”，揭示理工科研究倾斜。
-> - **2025–2026 年 — 科学学实证检验与泛化边界审视** [[Argument_Chen_2025_HSSC|Chen et al. (2025)]] 检验学术爆发期与颠覆性规律在经济学、生物学与地质学的稳健性，指出其在数千人极端大科学协作中的学科泛化边界；[[Argument_Park_2026_TSC|Park et al. (2026)]] 揭示创造力与批判性思维测量中的领域负荷机制。
+> - **2025–2026 年 — 科学学实证检验与泛化边界审视** [[Argument_Chen_2025_HSSC|Chen et al. (2025)]] 检验[[Hot Streak|学术爆发期]]与颠覆性规律在经济学、生物学与地质学的稳健性，指出其在数千人极端[[Big Science|大科学]]协作中的学科泛化边界；[[Argument_Park_2026_TSC|Park et al. (2026)]] 揭示创造力与批判性思维测量中的领域负荷机制。
 
 ---
 
@@ -228,11 +234,11 @@ updated: 2026-11-03
 > > [!axis] 宏观学科边界 vs 微观即时情境资源
 > > 争论认知特异性应当锚定在宏观学科门类上，还是深入至微观课堂交互任务中。
 > >
-> > - **宏观学科派（Greene et al., 2010）** 强调文理学科（良构 vs 劣构）在认识论信念与测量结构上的稳定特异性。
+> > - **宏观学科派（[[Argument_Greene_2010_JEP|Greene et al., 2010]]）** 强调文理学科（良构 vs 劣构）在认识论信念与测量结构上的稳定特异性。
 > > - **微观情境资源派（[[Argument_Sandoval_2016_RRE|Sandoval et al., 2016]]）** 批评学科细节尺度过大，指出学习者在具体任务中按需动态激活细粒度认知资源。
 
 > [!warning|limits] 适用局限
-> 领域特异性主要适用于知识论规范与探究方法具有本质差异的成熟学科门类或特定认知任务；过度强调学科壁垒可能阻碍跨学科通识素养的培养与通用逻辑规则的有效迁移。
+> 领域特异性主要适用于[[Theory of Knowledge|知识论]]规范与探究方法具有本质差异的成熟学科门类或特定认知任务；过度强调学科壁垒可能阻碍跨学科通识素养的培养与通用逻辑规则的有效迁移。
 
 ---
 

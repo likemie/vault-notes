@@ -13,9 +13,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 13
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "[[President's Science Advisory Committee|美国总统科学顾问委员会（PSAC）]]"
 tags:
@@ -25,6 +25,8 @@ tags:
   - higher-education-finance
 related_concepts:
   - "[[Research Universities]]"
+  - "[[Big Science]]"
+  - "[[Discourse]]"
   - "[[Academic Freedom]]"
   - "[[Basic-Applied Research Dichotomy]]"
 related_theories: []
@@ -32,27 +34,32 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Dwight D. Eisenhower]]"
+  - "[[James R. Killian Jr.]]"
 related_facts:
   - "[[President's Science Advisory Committee]]"
   - "[[Sputnik Shock 1957]]"
   - "[[Seaborg Report 1960]]"
   - "[[Department of Defense]]"
-  - "[[Office of Scientific Research and Development]]"
+  - "[[ASEAN Economic Community]]"
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
+  - "[[Symposium on Basic Research 1959]]"
+  - "[[DARPA]]"
+  - "[[National Aeronautics and Space Administration]]"
+  - "[[Education for the Age of Science 1959]]"
   - "[[National Defense Education Act of 1958]]"
 related_arguments:
   - "[[Argument_Yang_2017_MUE]]"
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1958 年 12 月由美国[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）正式发布，报告由艾森豪威尔总统首任科学特别助理兼 PSAC 主席、麻省理工学院校长詹姆斯·R·基利安（James R. Killian Jr.）主持编撰。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
+> - **发布时间 / 发布主体** 1958 年 12 月由美国[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）正式发布，报告由[[Dwight D. Eisenhower|艾森豪威尔]]总统首任科学特别助理兼 PSAC 主席、麻省理工学院校长[[James R. Killian Jr.|詹姆斯·R·基利安]]（James R. Killian Jr.）主持编撰。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 > - **适用地区 / 对象** 美国白宫行政分支、联邦各部门科研主管机构（国防部、原子能委员会、卫生研究院等）、全美主要[[Research Universities|研究型大学]]。
 > - **问题背景** 1957 年苏联成功发射斯普特尼克人造卫星（[[Sputnik Shock 1957|Sputnik Shock]]），美国朝野对高精尖科技落后产生严重恐慌；冷战初期联邦科研经费被军工合同垄断，过度追求具体武器与短期实用应用，致使大学基础探索长期缺乏独立财政支撑。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 36–38)]]
 > - **制度位置** 艾森豪威尔政府设立 PSAC 后的首份综合性科技政策白皮书，作为后卫星时代白宫科学智囊的开山之作，与 1960 年《[[Seaborg Report 1960|西博格报告]]》共同构成了肯尼迪政府大规模扩张大学科研预算的核心蓝图。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
@@ -64,12 +71,12 @@ updated: 2026-11-04
 
 > [!policy-design] 政策设计
 > - **政策目标** 扭转二战后军工部门对大学科研的计划性控制，纠正“重应用开发、轻基础原理”的短期偏向，确立基础研究在国家长期安全与科技领先中的基石地位。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
-> - **适用对象** 联邦各任务与资助机构（[[Department of Defense|DOD]]、[[Office of Scientific Research and Development|AEC]]、[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]] 等）、全美主要研究型大学管理层及一线科研人员。
+> - **适用对象** 联邦各任务与资助机构（[[Department of Defense|DOD]]、[[ASEAN Economic Community|AEC]]、[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]] 等）、全美主要研究型大学管理层及一线科研人员。
 > - **政策工具** 设立总统直属的联邦科学技术委员会（FCST）统筹跨部门科研政策；扩大对大学自由探索式无指定用途经费的拨款比重；推行长周期同行评议资助。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 > - **约束机制** 警示各部门克服过度关心实用产出的功利倾向，限制将具体防务指标强加于大学学术实验室，推动各联邦机构将一部分预算定向切块用于基础前沿探索。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 
 > [!citation-card] PSAC 警示忽视基础研究将导致贫困科学与二流技术
-> 联邦政府以资助少数流行的应用研究之投入而牺牲、忽视乃至饿死基础研究的资助政策，最终将导致美国面临贫困的科学及二流的技术。过去，联邦资助的重大科学成就往往源于应急压力。现在的科学发展之道应该认识到，科研资助应当基于伟大及其他长期目标。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
+> 联邦政府以资助少数流行的应用研究之投入而牺牲、忽视乃至饿死基础研究的资助政策，最终将导致美国面临贫困的科学及二流的技术。过去，联邦资助的重[[Big Science|大科学]]成就往往源于应急压力。现在的科学发展之道应该认识到，科研资助应当基于伟大及其他长期目标。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 >
 > *A policy of supporting a few fashionable applied projects at the expense of starving basic research will lead inevitably to impoverished science and second-rate technology... In the past, major federal scientific achievements sprang from the pressures of emergency. Science today must recognize that research sponsorship should be based on great and enduring long-range goals.*
 
@@ -78,7 +85,7 @@ updated: 2026-11-04
 > [!timeline] 政策时间线
 > - 1957 11 月 3 日艾森豪威尔总统设立白宫科学顾问委员会（PSAC），任命詹姆斯·基利安为主席。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 > - 1958 12 月 PSAC 正式完成并向白宫呈递《加强美国科学：联邦政府的角色》报告。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
-> - 1959 3 月艾森豪威尔签署行政命令设立联邦科学技术委员会（FCST）；5 月在全美基础研究研讨会上发表《科学：自由的女仆》演讲，全盘肯定报告主张。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
+> - 1959 3 月艾森豪威尔签署行政命令设立联邦科学技术委员会（FCST）；5 月在全美[[Symposium on Basic Research 1959|基础研究研讨会]]上发表《科学：自由的女仆》演讲，全盘肯定报告主张。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 > - 1960 PSAC 依据本报告理念进一步深化起草并发布著名的《[[Seaborg Report 1960|西博格报告]]》。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 
 ---
@@ -91,13 +98,13 @@ updated: 2026-11-04
 
 > [!pathways] 实施路径
 > - **中央 / 上级设计** PSAC 顾问利用总统亲密接触通道，将学术界长期倡导的布什自由科学思想包装为应对美苏科技竞争的国家大战略，促使总统发布行政命令重组联邦科技决策架构。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
-> - **地方 / 机构执行** 引导联邦各任务机构（如国防部高级研究计划局 DARPA、国家航空航天局 NASA）设立专门的基础科学研究办公室，向大学实验室开放自由探索基金。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 37–38)]]
+> - **地方 / 机构执行** 引导联邦各任务机构（如国防部高级研究计划局 [[DARPA]]、[[National Aeronautics and Space Administration|国家航空航天局]] NASA）设立专门的基础科学研究办公室，向大学实验室开放自由探索基金。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 37–38)]]
 > - **反馈 / 调整** 报告引发学术界与政界的广泛共鸣，直接促成 1959 年基础研究研讨会的召开与艾森豪威尔总统对大学科研财政资助的公开担保。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 
 ---
 
 > [!actor-grid] 权力—利益矩阵
-> - **高权力 · 高利益 — 关键行动者** 总统科学特别助理与 PSAC 核心科学家——成功打破军工官僚对科研决策的垄断，使科学界精英直接掌握白宫科技话语权。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
+> - **高权力 · 高利益 — 关键行动者** 总统科学特别助理与 PSAC 核心科学家——成功打破军工官僚对科研决策的垄断，使科学界精英直接掌握白宫科技[[Discourse|话语]]权。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 > - **高权力 · 低利益 — 潜在否决者或盟友** 五角大楼与国防动员部门主管——习惯于将科研作为应急武器采购的附庸，但在卫星危机压力与总统背书下面临让步。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 36, 38)]]
 > - **低权力 · 高利益 — 受影响群体** 大学基础学科教授与研究生——摆脱对军工短线合同的过度依赖，获得稳定宽松的研究环境。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 > - **低权力 · 低利益 — 边缘行动者** 私营产业商业实验室——未直接受惠于该报告针对大学基础科学所倡导的公共资助倾斜。
@@ -112,7 +119,7 @@ updated: 2026-11-04
 > [!finding-cards] 效果与评价
 > - **重构国家科技资助的底层逻辑** 终结了冷战初期“重应用开发、轻基础原理”的短视传统，从国家哲学高度论证了基础科学研究的不可替代性，为战后美国由应急科研转向制度化大扩张奠定了思想基石。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 > - **推动联邦决策机制建制化改革** 促成联邦科学技术委员会（FCST）的成立，实现了联邦内阁级跨部门科研力量的常态化协同治理。
-> - **开启白宫纲领报告系列** 确立了 PSAC 作为国家最高科技政策起草者的地位，为随后出台的 1959 年《科学时代的教育》与 1960 年《[[Seaborg Report 1960|西博格报告]]》开辟了道路。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
+> - **开启白宫纲领报告系列** 确立了 PSAC 作为国家最高科技政策起草者的地位，为随后出台的 1959 年《[[Education for the Age of Science 1959|科学时代的教育]]》与 1960 年《[[Seaborg Report 1960|西博格报告]]》开辟了道路。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 
 > [!stat-cards]- 核心数据
 > - **1958** 报告正式提交艾森豪威尔总统并向全美公开发布的年份。

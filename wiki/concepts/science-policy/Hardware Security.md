@@ -9,7 +9,7 @@ aliases:
 summary: "贯穿微电子系统从底层材料、电路设计、晶圆制造、异构封装到现场部署全生命周期的安全防护学科与工程实践，旨在防范硬件木马、物理侧信道攻击、逆向工程、供应链伪造与篡改，并在架构根基处建立可度量验证的零信任硬件信任根。"
 type: concept
 domain: "science-policy"
-related_count: 15
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Co-Design]]"
   - "[[Reliability]]"
   - "[[Paradigm]]"
-  - "[[Screening Off]]"
   - "[[Electronic Design Automation]]"
   - "[[Document]]"
   - "[[Competitiveness]]"
@@ -37,13 +36,12 @@ related_persons: []
 related_facts:
   - "[[National Science and Technology Council]]"
   - "[[DARPA]]"
-  - "[[National Strategy on Microelectronics Research]]"
 related_arguments:
   - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -80,7 +78,7 @@ updated: 2026-11-03
 > [!feature] 硬件安全的关键技术支柱
 > - **硬件信任根（Hardware Root of Trust, RoT）** 在芯片内部嵌入不可篡改的加密密钥存储单元、真随机数发生器与物理不可克隆函数（Physical Unclonable Function, PUF），为上层系统提供唯一的物理身份凭证。（p. 18）
 > - **零信任硬件架构（Zero-Trust Hardware Architecture）** 假定制造、封装与分销供应链环节均存在被渗透风险，在片上网络与芯粒接口间强制推行互操作鉴权与动态加密通信。（p. 18）
-> - **抗侧信道与防物理探测技术（Side-Channel & Anti-Tamper Defense）** 采用差分功耗平衡电路、片上噪声注入、主动[[Screening Off|屏蔽]]网格与光/热传感器，阻止外部攻击者通过物理探针或功耗电磁辐射分析破解密钥。（p. 19）
+> - **抗侧信道与防物理探测技术（Side-Channel & Anti-Tamper Defense）** 采用差分功耗平衡电路、片上噪声注入、主动屏蔽网格与光/热传感器，阻止外部攻击者通过物理探针或功耗电磁辐射分析破解密钥。（p. 19）
 > - **自动化安全形式化验证工具（Automated Security Verification Tools）** 在[[Electronic Design Automation|电子设计自动化]]（EDA）工具链中嵌入硬件木马扫描器与脆弱性形式化验证算法，在流片前自动检出潜在安全漏洞。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 15, 18–19)]]
 
 > [!logic-map]- 硬件安全全生命周期防御框架

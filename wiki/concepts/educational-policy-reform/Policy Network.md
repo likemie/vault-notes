@@ -12,9 +12,9 @@ aliases:
 summary: "由政府部门、中介组织、智库、高校与私有资本等多元行动者交织构成的网状治理结构。在批判政策社会学中揭示国家作为市场缔造者与私营中介协同重构再分配与理念编排的异层治理，在实证治理中测度政务网络规模与互动深度的非线性脱节。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 86
-related_level: 8
-related_stars: "💎💎⭐⭐"
+related_count: 90
+related_level: 9
+related_stars: "💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - educational-policy-reform
@@ -58,6 +58,7 @@ related_concepts:
   - "[[Philanthrocapitalism]]"
   - "[[Steering at a Distance]]"
   - "[[Initial Teacher Training]]"
+  - "[[Education Export]]"
   - "[[Deductible Gift Recipient]]"
   - "[[Going Native]]"
   - "[[Educational Brokerage Agency]]"
@@ -101,6 +102,8 @@ related_facts:
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Corwin Press]]"
   - "[[Strengthening the Impact of Education Research Project]]"
+  - "[[Education Finland]]"
+  - "[[Trade Union of Education in Finland]]"
   - "[[Sutton Trust]]"
   - "[[Impetus]]"
   - "[[Evidence for Learning]]"
@@ -114,11 +117,12 @@ related_arguments:
   - "[[Argument_Kickert_1995_Governance]]"
   - "[[Argument_Helgetun_2022_JEdPolicy]]"
   - "[[Argument_Stone_2020_PolSoc]]"
+  - "[[Argument_Kuortti_2025_JEdPolicy]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
 confidence: high
 status: completed
 created: 2026-06-17
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 
 ---
@@ -311,7 +315,7 @@ updated: 2026-11-09
 > - **2022 [[Network Ethnography\|政策网络民族志]]与无生命客体装配** 埃玛·罗威（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）结合网络[[Ethnography\|民族志]]，通过澳大利亚证券与投资委员会（Australian Securities and Investments Commission, ASIC）企业档案与财务披露解构麦肯锡系风险慈善枢纽[[Social Ventures Australia\|澳大利亚社会创投]]（Social Ventures Australia, SVA）长达十年的政策游说网络，揭示跨界[[Co-affiliation\|共同从属]]与无生命客体装配如何实现资本对国家科研中介机构的隐蔽掌控。
 > - **2023 异层治理实践与国家再分配重构** 埃玛·罗威（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023]]）进一步聚焦异层治理实践（heterarchical state in practice），阐明政策网络不仅重塑治理网络，更通过法定避税特许与财政补贴（如 SVA、[[Australian Schools Plus\|澳大利亚学校加计划]]）重构国家再分配职能，造成公共资源向免税中介逆流。
 > - **2024 批判[[Network Analysis\|网络分析]]实证落地** [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] 运用政策网络分析方法解构澳大利亚[[Initial Teacher Training\|初始教师教育]]改革中的理念编排与公私利益合流。
-> - **2025 北欧教育出口政策网络与公私中介协同** [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] 揭示芬兰教育出口政策网络如何由教育部、国家教育局中介项目（Education Finland）、市政离岸企业与私营中介协同构成，同时面临教师工会（OAJ）对公法边界的质疑与反抗。
+> - **2025 北欧[[Education Export|教育出口]]政策网络与公私中介协同** [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] 揭示芬兰教育出口政策网络如何由教育部、国家教育局中介项目（[[Education Finland]]）、市政离岸企业与私营中介协同构成，同时面临教师工会（[[Trade Union of Education in Finland|OAJ]]）对公法边界的质疑与反抗。
 
 ---
 

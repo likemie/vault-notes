@@ -9,9 +9,9 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 28
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: "大学联盟 / 跨国学术合作组织"
 headquarters: "中国西安"
@@ -36,6 +36,8 @@ related_concepts:
   - "[[Normalization through Knowledge Cooperation]]"
   - "[[Summer School]]"
   - "[[Grandes Ecoles]]"
+  - "[[Scientific Mobility]]"
+  - "[[Early-Career Researchers]]"
   - "[[Paradigm]]"
   - "[[South-South Cooperation]]"
   - "[[Geopolitics]]"
@@ -62,7 +64,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -119,7 +121,7 @@ updated: 2026-11-02
 > - **跨国工程科研示范基地** 围绕交通运输、清洁能源与生态环境保护等沿线重大现实课题共建联合研发中心。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 685–686)]]
 
 > [!citation-card] 《西安宣言》核心主张（2015）
-> 丝绸之路大学联盟致力于构建开放、包容的国际高等教育合作网络，推动不同文明互鉴与青年学术流动，共同培养具备全球视野的未来领导人才。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 680)]]
+> 丝绸之路大学联盟致力于构建开放、包容的国际高等教育合作网络，推动不同文明互鉴与青年[[Scientific Mobility|学术流动]]，共同培养具备全球视野的未来领导人才。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 680)]]
 >
 > *The University Alliance of the Silk Road is dedicated to building an open and inclusive international higher education network, promoting mutual learning among civilizations and youth mobility.*
 
@@ -127,7 +129,7 @@ updated: 2026-11-02
 
 > [!indicators] 影响力维度与指标
 > - **网络覆盖与跨洲规模** 正式成员165所，观察员19所，横跨欧、亚、非、美与大洋洲38个国家和地区。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1700)]]
-> - **青年跨国交流辐射度** 暑期学校与研习营单届吸纳150至237名学生，形成广泛的青年学者流动纽带。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1701)]]
+> - **青年跨国交流辐射度** 暑期学校与研习营单届吸纳150至237名学生，形成广泛的[[Early-Career Researchers|青年学者]]流动纽带。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1701)]]
 > - **多边网络交叠密度** 成员高校深度交叠于国际大学协会（IAU）与阿拉伯大学协会（AARU）等多边合作框架。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1701)]]
 
 > [!finding-cards] 关键成效与辐射影响

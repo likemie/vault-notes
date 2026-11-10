@@ -9,7 +9,7 @@ aliases:
 summary: "比较教育历史主义学派的核心本体论范畴，由迈克尔·萨德勒在 1900 年吉尔福德演讲中首倡，主张支撑国家教育系统有效运转并决定其实践效能的核心动因深植于校外不可捉摸的民族精神与历史土壤之中。"
 type: concept
 domain: "comparative-education"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Operationalization]]"
   - "[[Positivism]]"
+  - "[[Nationalism]]"
   - "[[Emergence]]"
   - "[[National Character]]"
   - "[[Falsification]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-11-03
 > *[E]ducation is not a matter of schools or book learning alone. Therefore, if we propose to study foreign systems of education... we must also... try to find out what is the intangible, impalpable, spiritual force which, in the case of any successful system of Education, is in reality upholding the school system and accounting for its practical efficiency... A national system of education is a living thing, the outcome of forgotten struggles and difficulties, and 'of battles long ago.' It has in it some of the secret workings of national life.*
 
 > [!citation-card] 坎德尔论潜藏于教育体制底层的无形文化精神力量
-> 坚信思想观念与文化理想从根本上支配着人类行动，比较教育先驱探寻“潜藏于教育体制之下、并因而潜在地促进社会改良的无形无质的精神与文化力量”。作为真正的人文学者，他们求助于历史学与哲学……在经济大萧条、极端民族主义与现代专制极权意识形态崛起威胁和平的两次世界大战期间，民主国家的生存危机吸引了全世界教育学者的注意力，促使他们探掘历史深处“被遗忘的斗争”与“旧战役”，以捍卫民主制度的文化根基。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, p. 60)]]
+> 坚信思想观念与文化理想从根本上支配着人类行动，比较教育先驱探寻“潜藏于教育体制之下、并因而潜在地促进社会改良的无形无质的精神与文化力量”。作为真正的人文学者，他们求助于历史学与哲学……在经济大萧条、极端[[Nationalism|民族主义]]与现代专制极权意识形态崛起威胁和平的两次世界大战期间，民主国家的生存危机吸引了全世界教育学者的注意力，促使他们探掘历史深处“被遗忘的斗争”与“旧战役”，以捍卫民主制度的文化根基。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, p. 60)]]
 >
 > *Convinced that ideas and ideals fundamentally influence men's actions, they looked for 'the intangible, impalpable spiritual and cultural forces which underlie an educational system' (Kandel, 1955: xix) and which, therefore, potentially contribute to the betterment of society. As genuine humanists they turned to history and to philosophy for help... 'at a time when economic depression, rising nationalism, the [[Emergence]] of modern authoritarian ideologies [threatened peace]... the problems of the democracies preempted the attention of educators all over the world' (Noah & Eckstein, 1969: 50)... They looked into the 'forgotten struggles and difficulties' of the past and into 'battles long ago' (Sadler, 1964)... in an attempt to understand the dynamics of educational development that would in turn allow policy makers, if they so wished, to improve human condition.*
 

@@ -9,7 +9,7 @@ aliases:
 summary: "源自康德哲学与启蒙国际主义的规范性政治与教育构想，主张通过普遍理性觉醒、共和立宪法权与跨国制度协作消除野蛮战争状态；在比较教育学中构成了人道主义与世界公民教化的奠基性伦理动因，在当代地缘战略中则遭遇现实主义批判——警示单方面去武力化无法换取永久和平，缺乏可信威慑与硬实力的和平主义幻觉反将加剧国际安全秩序的脆弱性。"
 type: concept
 domain: "comparative-education"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -23,6 +23,7 @@ tags:
   - paradigm/humanism
   - school/kantianism
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Rightness]]"
   - "[[Hard Power]]"
   - "[[Revolutionism]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-06
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -78,7 +79,7 @@ updated: 2026-11-03
 > [!def] Perpetual Peace
 > **永久和平（Perpetual Peace / *Zum ewigen Frieden*）** 是人类历史超越霍布斯式无政府野蛮战争状态的规范性终极愿景。
 > 
-> 在哲学与教育学层面，它主张持久的世界和平绝不能仅寄托于现实主义短期的均势停火，而必须建立在公民个体理性自主性的觉醒（启蒙）、主权国家内部共和立宪制度的确立、自由国家间的和平联盟（*foedus pacificum*），以及跨国教育交流与文明互鉴的基础之上，使教育成为预防流血暴力革命与消除国际武装冲突的理性替代方案。在当代地缘战略与技术政治层面，该构想受到现实主义者的深刻重审：战后大国间的相对和平是依赖于压倒性的战略威慑，有别于道德自觉的自然演进；单方面去武力化与安全搭便车非但不能实现永久和平，反而会制造地缘权力真空并加剧安全秩序的脆弱性。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 20–24)]]; [[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 418–419)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 41–44)]]
+> 在哲学与教育学层面，它主张持久的世界和平绝不能仅寄托于现实主义短期的均势停火，而必须建立在公民个体理性自主性的觉醒（启蒙）、主权国家内部共和立宪制度的确立、自由国家间的和平联盟（*foedus pacificum*），以及[[Transnational Education|跨国教育]]交流与文明互鉴的基础之上，使教育成为预防流血暴力革命与消除国际武装冲突的理性替代方案。在当代地缘战略与技术政治层面，该构想受到现实主义者的深刻重审：战后大国间的相对和平是依赖于压倒性的战略威慑，有别于道德自觉的自然演进；单方面去武力化与安全搭便车非但不能实现永久和平，反而会制造地缘权力真空并加剧安全秩序的脆弱性。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 20–24)]]; [[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 418–419)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 41–44)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指称超越单一民族国家狭隘利益、将消除有组织战争暴力与实现人类大同确立为终极目标的伦理承诺与超国家治理制度构想。

@@ -11,7 +11,7 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Heterogeneous Integration]]"
   - "[[Paradigm]]"
+  - "[[Scientific Mobility]]"
   - "[[Grandes Ecoles]]"
   - "[[Multi-Project Wafer]]"
   - "[[Process Design Kit]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -114,7 +115,7 @@ updated: 2026-10-30
 
 > [!debates] 核心争议与治理反思
 >
-> > [!axis] 国防封闭合规边界 vs 跨国国际学生学术流动限制
+> > [!axis] 国防封闭合规边界 vs 跨国国际学生[[Scientific Mobility|学术流动]]限制
 > > 探讨 [[DARPA]] 集中授权体系下的知识产权合规审查对[[Grandes Ecoles|大学校]]园内非美籍研究生参与科研造成的阻隔。
 > >
 > > - **出口管制与防扩散合规（政府与军方阵营）** 强调工具箱内的先进制程设计工具与成熟 IP 属于高度敏感技术资产，必须严格执行防扩散与人员背景安全审查，严防非授权技术外溢。

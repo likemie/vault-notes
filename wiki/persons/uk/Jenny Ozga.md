@@ -8,10 +8,10 @@ summary: "英国著名教育政策社会学家，牛津大学教育学系荣休�
 type: person
 subtype: scholar
 person_region: "uk"
-person_related_count: 18
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1948"
 died: ""
 lifespan: "1948–至今"
@@ -31,10 +31,12 @@ related_concepts:
   - "[[School Inspection]]"
   - "[[Positivism]]"
   - "[[Knowledge Transfer]]"
+  - "[[Early-Career Researchers]]"
   - "[[Document]]"
   - "[[Bureaucracy]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Governing by Numbers]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Research Utilization]]"
 related_theories:
   - "[[Governing by Inspection]]"
@@ -53,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -81,7 +83,7 @@ updated: 2026-11-02
 > - **2000–2010年代 — 治理知识、数据化与欧洲空间阶段** 将视线扩展至跨国组织与国家机器，探究数据与证据如何本身成为治理的手段。
 >   - **代表著作** *Governing Knowledge: Research Steering and Research Quality* (2008); *[[Knowledge Transfer]] and Transformation: Moving Knowledge from Research to Policy* (2011)。
 >   - **核心议题** 治理知识（Governing Knowledge）、知识构成政策（Knowledge Forming Policy）、软治理网络。
-> - **2010年代至今 — 比较督导与规制国家反思阶段** 协同青年学者深入英格兰、苏格兰与北欧学校督导现场，揭示数字监测与督导机制的共谋。
+> - **2010年代至今 — 比较督导与规制国家反思阶段** 协同[[Early-Career Researchers|青年学者]]深入英格兰、苏格兰与北欧学校督导现场，揭示数字监测与督导机制的共谋。
 >   - **代表[[Document|文献]]** *Chameleon and Post-[[Bureaucracy|bureaucracy]]: Changing Knowledge About Healthcare and Education in Seven European Countries* (with Issakyan, 2008)。
 
 ---
@@ -98,7 +100,7 @@ updated: 2026-11-02
 > [!influence-path] 影响路径
 > - **欧洲政策社会学学术网络** 奥兹加长期担任欧洲教育治理研究集群的学术引路人，其开创的“治理知识”框架直接哺育了爱丁堡与牛津学派。
 > - **督导治理理论流派** 其学生与合作学者索蒂里亚·格雷克、约阿基姆·林德格伦等在奥兹加学术思想滋养下创立“借督导治理”（Governing by Inspection）学派。
-> - **[[Swedish Schools Inspectorate|瑞典学校督察局]]实证案例的理论透镜** 塞格霍尔姆等（[[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al., 2022]]）将奥兹加（Issakyan & Ozga, 2008; Ozga, 2011）的两分法作为全文核心理论框架之一，精准界定常规督导侧重“知识告知政策”的理性改革特征，而质量审计则属于典型的“知识构成政策”的深层政治建构。
+> - **[[Swedish Schools Inspectorate|瑞典学校督察局]]实证案例的[[Theoretical Standpoint|理论透镜]]** 塞格霍尔姆等（[[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al., 2022]]）将奥兹加（Issakyan & Ozga, 2008; Ozga, 2011）的两分法作为全文核心理论框架之一，精准界定常规督导侧重“知识告知政策”的理性改革特征，而质量审计则属于典型的“知识构成政策”的深层政治建构。
 
 ---
 

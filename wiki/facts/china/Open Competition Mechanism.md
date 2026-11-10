@@ -11,9 +11,9 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 13
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "科学技术部"
 tags:
@@ -22,30 +22,35 @@ tags:
   - theme/research-funding
   - region/china
 related_concepts:
-  - "[[Broad Agency Announcement]]"
+  - "[[Informationalization]]"
+  - "[[Research Universities]]"
   - "[[Early-Career Researchers]]"
+  - "[[Broad Agency Announcement]]"
   - "[[Technology Transfer]]"
   - "[[Research Translation]]"
 related_facts:
   - "[[China S&T Innovation Policy Evolution]]"
+  - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
   - "[[National Natural Science Foundation of China]]"
 related_arguments:
   - "[[Argument_Cheng_2026_KeJiChuangXin]]"
   - "[[Argument_Zhang_2023_PHEI]]"
   - "[[Argument_Mo_2026_BNSFC]]"
+related_theories:
+  - "[[Path Dependence]]"
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2016 年在全国科技创新大会上明确提出探索“揭榜挂帅”，随后由国务院写入政府工作报告与国家发展规划，由科学技术部、工业和信息化部等部委及各省市科技管理部门联合制定推进。[[Argument_Cheng_2026_KeJiChuangXin|(程楠等, 2026, p. 30)]]
-> - **适用地区 / 对象** 覆盖全国各级科技行政主管部门、产业龙头企业、高水平研究型大学、科研院所以及战略性新兴产业创新联合体。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, p. 379)]]
+> - **发布时间 / 发布主体** 2016 年在全国科技创新大会上明确提出探索“揭榜挂帅”，随后由国务院写入政府工作报告与国家发展规划，由科学技术部、工业和[[Informationalization|信息化]]部等部委及各省市科技管理部门联合制定推进。[[Argument_Cheng_2026_KeJiChuangXin|(程楠等, 2026, p. 30)]]
+> - **适用地区 / 对象** 覆盖全国各级科技行政主管部门、产业龙头企业、高水平[[Research Universities|研究型大学]]、科研院所以及战略性新兴产业创新联合体。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, p. 379)]]
 > - **问题背景** 传统科研项目立项过度依赖行政切块、既定门槛和量化发文导向，造成科研供给与产业真实技术需求脱节，无法有效攻克关键核心零部件与基础材料等技术瓶颈。[[Argument_Cheng_2026_KeJiChuangXin|(程楠等, 2026, p. 30)]]
-> - **制度位置** 属于中国[[China S&T Innovation Policy Evolution|科技体制改革]]中重构重大攻关组织模式的核心政策工具，深度协同“赛马制”、“业主制”与首席科学家负责制，衔接国际任务导向型创新组织模式（如[[Broad Agency Announcement|广义机构公告]]）。
+> - **制度位置** 属于[[China S&T Innovation Policy Evolution|中国科技体制改革]]中重构重大攻关组织模式的核心政策工具，深度协同“赛马制”、“业主制”与首席科学家负责制，衔接国际任务导向型创新组织模式（如广义机构公告）。
 
 ---
 
@@ -66,7 +71,7 @@ updated: 2026-11-04
 > [!timeline] 政策时间线
 > - **2016** 全国科技创新大会首次明确提出探索“揭榜挂帅”，把需要的关键核心技术项目张出榜来。
 > - **2020–2021** “揭榜挂帅”正式写入政府工作报告与国家“十四五”规划纲要，科技管理部门全面启动部省联动试点。
-> - **2023** 粤港澳大湾区等重点区域将“揭榜挂帅”深入应用于战略性产业集群关键零部件攻关。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, p. 379)]]
+> - **2023** [[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]等重点区域将“揭榜挂帅”深入应用于战略性产业集群关键零部件攻关。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, p. 379)]]
 > - **2026** 政策界推进揭榜挂帅制度在青年科研人才培养中的深层嵌入，强化青年团队法定担当比例。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026, p. 738)]]
 
 ---
@@ -80,19 +85,19 @@ updated: 2026-11-04
 > [!pathways] 实施路径
 > - **需求征集与发榜公布** 由产业龙头企业或政府部门面向产业链短板征集真实技术需求，经专家论证后向社会公开发榜。
 > - **开榜竞争与平行赛马** 破除资历身份门槛，允许多家优势团队同时揭榜；在攻关初期采取“赛马制”平行资助，依据中期里程碑考核决出最终挂帅主体。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, p. 379)]]
-> - **青年人才实战嵌入与落地验收** 在重大攻关项目中规定 45 岁以下[[Early-Career Researchers|青年骨干]]担任课题负责人或技术核心的法定比例，强化过程实战培育，以落地测试和实际生产应用成效完成最终评卷。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026, p. 738)]]
+> - **青年人才实战嵌入与落地验收** 在重大攻关项目中规定 45 岁以下青年骨干担任课题负责人或技术核心的法定比例，强化过程实战培育，以落地测试和实际生产应用成效完成最终评卷。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026, p. 738)]]
 
 ---
 
 > [!indicators] 评价指标
 > - **投入指标** 发榜项目资金总额、政府配套引导基金规模、跨学科与跨单位揭榜团队数量。
-> - **过程指标** 里程碑节点达标率、青年科研人员担任核心技术骨干比例、赛马阶段优势路线筛选进度。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026, p. 738)]]
+> - **过程指标** 里程碑节点达标率、[[Early-Career Researchers|青年科研人员]]担任核心技术骨干比例、赛马阶段优势路线筛选进度。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026, p. 738)]]
 > - **结果指标** 核心技术自主可控率、产业断点攻克数量、首台套装备与新材料替代应用规模、技术成果产业转化产值。[[Argument_Cheng_2026_KeJiChuangXin|(程楠等, 2026, p. 83)]]
 
 > [!finding-cards] 效果与评价
 > - **打破科研与产业割裂壁垒** 扭转以往科研立项与产业需求脱节的弊端，使科研资源直接投向产业真实痛点，强化企业创新主体地位。[[Argument_Cheng_2026_KeJiChuangXin|(程楠等, 2026, p. 30)]]
 > - **跨区域协同攻关成效** 在粤港澳大湾区等区域实践中，有效联动港澳高校基础研究优势与珠三角产业转化能力，在 5G、新型显示与高端电子元器件等领域攻坚了一批短板瓶颈。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, p. 379)]]
-> - **青年骨干培育机制完善需求** 现行揭榜挂帅项目中仍存在偏好资深专家的路径依赖；学界建议明确 45 岁以下青年骨干担任课题负责人或技术核心的法定比例，将工程攻关转化为培育青年拔尖人才的实战舞台。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026, p. 738)]]
+> - **青年骨干培育机制完善需求** 现行揭榜挂帅项目中仍存在偏好资深专家的[[Path Dependence|路径依赖]]；学界建议明确 45 岁以下青年骨干担任课题负责人或技术核心的法定比例，将工程攻关转化为培育青年拔尖人才的实战舞台。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026, p. 738)]]
 
 ---
 

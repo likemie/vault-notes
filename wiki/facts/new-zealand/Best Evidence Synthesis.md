@@ -11,7 +11,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 31
+fact_related_count: 34
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -27,8 +27,10 @@ related_concepts:
   - "[[Knowledge Mediation]]"
   - "[[School Leadership]]"
   - "[[Positivism]]"
+  - "[[Academic Achievement]]"
   - "[[Instructional Leadership]]"
   - "[[Document]]"
+  - "[[Effective Teaching]]"
   - "[[International Education]]"
   - "[[Discourse]]"
   - "[[Evidence-Based Education]]"
@@ -37,7 +39,6 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Paradigm]]"
-  - "[[Effective Teaching]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
   - "[[Inquiry Cycle]]"
@@ -52,19 +53,21 @@ related_methods:
   - "[[Meta-analysis]]"
 related_instruments: []
 related_persons:
+  - "[[Adrienne Alton-Lee]]"
   - "[[Viviane Robinson]]"
 related_facts:
   - "[[The New Zealand Curriculum]]"
   - "[[OECD]]"
   - "[[What Works Clearinghouse]]"
   - "[[EPPI-Centre]]"
+  - "[[New Zealand Quality Teaching Strategy]]"
 related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_Sarbiewska_2019_KiW]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -74,7 +77,7 @@ updated: 2026-11-10
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2003 年启动；历经多卷本[[Systematic Review\|系统综述]]研发期（2003–2010）、实践案例转化期（2011–2018）以及数字化资源库常态化运维期，处于持续运营与职能转型状态([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 57, 64]])。
-> - **发起方与资助机制** 由新西兰教育部全额出资并设立专职项目管理单元，由阿德里安娜·奥尔顿-李（Adrienne Alton-Lee）博士长期担任首席研究员与项目总监。
+> - **发起方与资助机制** 由新西兰教育部全额出资并设立专职项目管理单元，由阿德里安娜·奥尔顿-李（[[Adrienne Alton-Lee]]）博士长期担任首席研究员与项目总监。
 > - **覆盖范围与对象** 覆盖新西兰全境学前教育、初等与中等教育学校系统，深度辐射毛利族群（Māori）与太平洋岛屿裔（Pasifika）弱势学生的教育公平实践。
 > - **核心问题导向** 破除分散、零碎的学术研究难以进入政府政策议程的隔阂，解决传统英美量化清算中心机械移植可能抹杀本土多元文化情境与原住民知识生态的制度缺陷。
 
@@ -98,7 +101,7 @@ updated: 2026-11-10
 
 > [!dev-timeline] 项目推进历程
 > - **2003–2010 — 奠基与四大旗舰[[Systematic Review\|系统综述]]产出期** 新西兰教育部陆续委托并发布多卷划时代的 BES 迭代专著：
->   - **优质教学综合（Alton-Lee, 2003）** 提炼出针对多元族裔学生的优质教学 10 项核心实证特征；实证测算出学生学业成就方差中高达 59% 源于校内教师与班级间差异（远超校际方差），并援引 Hanushek（1992）指出优秀教师一学年可带来 1.5 年的年级增量，而低效教师仅能带来 0.5 年增量；该报告直接奠定了新西兰 2003 年《优质教学战略》的实证基石，促使改革视线由 1989 年《明日学校》的宏观行政分权全面转向微观课堂师生互动。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, pp. 120–121)]]
+>   - **优质教学综合（Alton-Lee, 2003）** 提炼出针对多元族裔学生的优质教学 10 项核心实证特征；实证测算出学生[[Academic Achievement|学业成就]]方差中高达 59% 源于校内教师与班级间差异（远超校际方差），并援引 Hanushek（1992）指出优秀教师一学年可带来 1.5 年的年级增量，而低效教师仅能带来 0.5 年增量；该报告直接奠定了新西兰 2003 年《优质教学战略》的实证基石，促使改革视线由 1989 年《明日学校》的宏观行政分权全面转向微观课堂师生互动。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, pp. 120–121)]]
 >   - **社区与家庭影响综合（Biddulph et al., 2003）** 剖析家庭-学校-社区协同育人对低收入弱势群体的补偿机制；
 >   - **教师专业学习与发展综合（Timperley et al., 2007）** 确立基于[[Practitioner Enquiry\|教师探究]]与[[Knowledge Building Theory|知识建构]]循环（Teacher [[Inquiry Cycle]]）的专业发展模型；
 >   - **[[School Leadership\|学校领导力]]与学生结果综合（Robinson et al., 2009）** 实证测算出教学型领导（[[Instructional Leadership]]）对学生学业增值的显著[[Effect Size\|效应量]]（$d = 0.42$），成为全球教育领导力奠基[[Document|文献]]。
@@ -122,7 +125,7 @@ updated: 2026-11-10
 
 > [!finding-cards] 核心成效与学术贡献
 > - **开创部委嵌入式中介范例** 证实教育部内部设立专门研发单元能够极大缩短政策决策与学术证据的时空延迟，确保国家战略直接汲取全球实证智慧([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 61–62]])。
-> - **揭示校内教学方差与驱动政策微观转向** Alton-Lee（2003）通过系统综合证实，学生学业成就方差中高达 59% 源自校内教师与班级差异，打破了将学业差距归咎于校际差异的迷思；为新西兰教育部 2003 年启动聚焦课堂师生协同与有效教学的国家战略提供了权威的循证支点。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, pp. 120–121)]]
+> - **揭示校内教学方差与驱动政策微观转向** Alton-Lee（2003）通过系统综合证实，学生学业成就方差中高达 59% 源自校内教师与班级差异，打破了将学业差距归咎于校际差异的迷思；为新西兰教育部 2003 年启动聚焦课堂师生协同与[[Effective Teaching|有效教学]]的国家战略提供了权威的循证支点。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, pp. 120–121)]]
 > - **引领[[International Education\|国际教育]]领导力与专业学习实证标准** Robinson et al. (2009) 的领导力[[Meta-analysis\|元分析]]与海伦·廷珀利（Helen Timperley et al., 2007）的教师专业学习框架被[[OECD\|经合组织]]及英美澳等国广泛引为国家标准，极大提升了新西兰教育研究的国际[[Discourse|话语]]权。
 > - **兼顾科学严谨与文化多元性** 成功验证了[[Systematic Review\|系统综述]]可以同时兼纳量化[[Effect Size\|效应量]]与质性文化叙事，为原住民国家探索非殖民化[[Evidence-Based Education\|循证教育]]提供了制度示范。
 
@@ -168,4 +171,4 @@ updated: 2026-11-10
 > | [[What Works Clearinghouse]] | Fact (Organization) | 与 BES 并列的早期循证中介先驱机构，代表官方外包型因果清算模式。 |
 > | [[EPPI-Centre]] | Fact (Organization) | 英国[[Systematic Review\|系统综述]]先驱，与 BES 形成“大学学术中介 vs 部委嵌入中介”的鲜明对比。 |
 > | [[Systematic Review]] | Method | 本项目核心采用的跨文献综合方法。 |
-| [[Effective Teaching]] | Concept | Alton-Lee 2003 报告系统提炼优质有效教学特征，奠定新西兰优质教学战略基石。 |
+| [[Effective Teaching]] | Concept | Alton-Lee 2003 报告系统提炼优质有效教学特征，奠定[[New Zealand Quality Teaching Strategy\|新西兰优质教学战略]]基石。 |

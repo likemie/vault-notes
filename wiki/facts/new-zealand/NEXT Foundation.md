@@ -9,9 +9,9 @@ subtype: organization
 region: "new-zealand"
 fact_region: "new-zealand"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "foundation"
 headquarters: "Auckland, New Zealand"
@@ -40,6 +40,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Springboard Trust]]"
+  - "[[New Zealand Council for Educational Research]]"
   - "[[Teach First New Zealand]]"
   - "[[Cognition Education]]"
   - "[[New Zealand Initiative]]"
@@ -50,7 +51,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -77,7 +78,7 @@ updated: 2026-10-30
 >
 >   全面搭建涵盖[[School Leadership|学校领导力]]、数字化设备、教师学历证书与替代性师资培训的教育干预矩阵。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 56–57)]]
 >
->   - **2015 年** 资助[[Springboard Trust|跳板信托]]拓展薄弱校校长战略辅导，并委托新西兰教育研究委员会（NZCER）开展量化评估。
+>   - **2015 年** 资助[[Springboard Trust|跳板信托]]拓展薄弱校校长战略辅导，并委托[[New Zealand Council for Educational Research|新西兰教育研究委员会]]（NZCER）开展量化评估。
 >   - **2016 年** 支持马奈卡拉尼信托数字化学习向全国薄弱学区输出，资助 The Mind Lab 教师数字化文凭补贴，成为[[Teach First New Zealand|新西兰先行者教育]]最高级资助方。
 
 ---

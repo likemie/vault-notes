@@ -7,7 +7,7 @@ summary: "中国当代哲学家，中国社会科学院哲学研究所研究员�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Sinicisation]]"
   - "[[Retrotopia]]"
   - "[[Cosmopolitanism]]"
+  - "[[Transnational Education]]"
   - "[[Grand Theory]]"
   - "[[National Rejuvenation Narrative]]"
   - "[[Knowledge Transfer]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -142,7 +143,7 @@ updated: 2026-10-30
 
 > [!influence-path] 影响路径
 > - **哲学与政治思想路径** 开启了当代中国学者将古典儒家天下思想系统转化为现代政治哲学[[Discourse|话语]]的热潮，引发关于普遍主义世界秩序、天下主义（[[Cosmopolitanism]]）与传统[[Tributary System|朝贡体系]]当代价值的大讨论。
-> - **高等教育学与[[Epistemic Governance|知识治理]]路径** 被西蒙·马金森（Simon Marginson）、杨锐（Yang Rui）与许心（Xu Xin）等学者转译为“[[Tianxia Heuristic|天下启发式]][[Analytic Framework|分析框架]]”（Tianxia Heuristic），用以阐释跨国高等教育中超越西方民族国家中心主义的关系性合作；周孟萱与德米尔约尔（[[Argument_Chou_Demiryol_2024_HE|Chou & Demiryol, 2024]]）进一步提炼出“以世界为中心的天下观”（world-centric tianxia），用以解析[[Belt and Road Initiative|一带一路]]跨国大学联盟中等级引领与平等互惠辩证共生的空间治理[[Ontology|本体论]]。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1705)]]
+> - **高等教育学与[[Epistemic Governance|知识治理]]路径** 被西蒙·马金森（Simon Marginson）、杨锐（Yang Rui）与许心（Xu Xin）等学者转译为“[[Tianxia Heuristic|天下启发式]][[Analytic Framework|分析框架]]”（Tianxia Heuristic），用以阐释[[Transnational Education|跨国高等教育]]中超越西方民族国家中心主义的关系性合作；周孟萱与德米尔约尔（[[Argument_Chou_Demiryol_2024_HE|Chou & Demiryol, 2024]]）进一步提炼出“以世界为中心的天下观”（world-centric tianxia），用以解析[[Belt and Road Initiative|一带一路]]跨国大学联盟中等级引领与平等互惠辩证共生的空间治理[[Ontology|本体论]]。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1705)]]
 > - **政策与官方[[Grand Theory|元叙事]]路径** 与官方提出的“[[Community of Shared Future for Mankind|构建人类命运共同体]]”及“[[National Rejuvenation Narrative|中华民族伟大复兴]]”的宏大叙事形成深层学理共振，为官方论证“中华文明具有和平基因”提供了极具世界主义色彩的哲学外衣。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 106)]]
 > - **跨国翻译与批评人类学传播** 英文版著作在加州大学出版社出版后，广泛进入海外中国研究、[[Wight's Three Traditions of International Theory|国际关系理论]]与后殖民批评学术视野，成为解构中国新帝国主义想象与[[Necropolitics|死亡政治]]讨论的核心焦点文本。[[Argument_Bulag_2024_CE|(Bulag, 2024, pp. 106–107)]]
 

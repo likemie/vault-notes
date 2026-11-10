@@ -11,7 +11,7 @@ subtype: event
 region: germany
 fact_region: "germany"
 fact_kind: "event"
-fact_related_count: 11
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -32,6 +32,8 @@ related_concepts:
   - "[[Paradigm]]"
 related_theories: []
 related_methods:
+  - "[[Natural Experiment]]"
+  - "[[Instrumental Variables]]"
   - "[[Difference-in-Differences]]"
 related_instruments: []
 related_persons:
@@ -42,13 +44,13 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定性
-> 纳粹政权自 1933 年起对德国高等学府开展的大规模解聘清洗，不仅是 20 世纪世界高等教育与科学史上极具破坏性的政治干预事件，更为科学学与劳动经济学研究学术同伴效应提供了不受个体选择偏差干扰的外生准自然实验范本。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 100–101)]]
+> 纳粹政权自 1933 年起对德国高等学府开展的大规模解聘清洗，不仅是 20 世纪世界高等教育与科学史上极具破坏性的政治干预事件，更为科学学与劳动经济学研究学术同伴效应提供了不受个体选择偏差干扰的外生[[Natural Experiment|准自然实验]]范本。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 100–101)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1933 至 1938 年间，覆盖德国全境所有公立大学与高等专科科研院所。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 100)]]
@@ -87,7 +89,7 @@ updated: 2026-10-30
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Invisible College]] | 概念 | 事件证实学术共同体的实质是由跨地域思想脉络维系，而非单纯物理校园。 |
-> | [[Reflection Problem]] | 概念 | 外部政治冲击的突发性提供了击穿社会学反射问题的外生工具变量。 |
+> | [[Reflection Problem]] | 概念 | 外部政治冲击的突发性提供了击穿社会学反射问题的外生[[Instrumental Variables\|工具变量]]。 |
 > | [[Peer Effects in Science]] | 概念 | 事件量化了顶尖学术同侪流失对科学留守者科研生产力的不可逆损失。 |
 > | [[Difference-in-Differences]] | 方法 | 瓦尔丁格评估该历史冲击所采用的双重差分准自然实验计量[[Paradigm\|范式]]。 |
 > | [[Fabian Waldinger]] | 人物 | 挖掘该历史事件并完成开创性同伴效应因果度量的核心学者。 |

@@ -9,7 +9,7 @@ summary: "德国比较教育学者与系统理论家，柏林洪堡大学比较�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 43
+person_related_count: 44
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Discourse]]"
   - "[[Positivism]]"
+  - "[[Transnational Education]]"
   - "[[Document]]"
   - "[[Epistemology]]"
   - "[[European Education Space]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-06
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -91,7 +92,7 @@ updated: 2026-10-30
 
 > [!timeline] 生平与职涯
 > - **1942** **德国出生与法德学术渊源** 出生于德国，早年在波恩大学等学府深造，熟谙法国思想史与社会学，奠定了跨越德法两国学术传统的方法论视野。
-> - **1980s** **法兰克福大学研究与[[Niklas Luhmann|卢曼]]系统论结合** 任教于法兰克福大学期间，深受德国社会学[[Positivism|实证主义]]争论与系统论洗礼，开始系统引入[[Niklas Luhmann|卢曼]]的[[Autopoiesis|自创生]]系统论，探索跨国教育转移中的意义生产机制。
+> - **1980s** **法兰克福大学研究与[[Niklas Luhmann|卢曼]]系统论结合** 任教于法兰克福大学期间，深受德国社会学[[Positivism|实证主义]]争论与系统论洗礼，开始系统引入[[Niklas Luhmann|卢曼]]的[[Autopoiesis|自创生]]系统论，探索[[Transnational Education|跨国教育]]转移中的意义生产机制。
 > - **1990** **发表外化理论奠基[[Document|文献]]** 与[[Brian Holmes|布莱恩·霍姆斯]]（[[Brian Holmes]]）合编文集，刊发《比较作为方法与外化的需求》（*The method of comparison and the need for externalization*），确立外化概念为比较教育学破解因果确定论迷思的核心[[Epistemology|认识论]]工具。
 > - **1992–2007** **执掌柏林洪堡大学引领东德学科重建** 两德统一后应邀执掌柏林洪堡大学比较教育讲座，创立洪堡大学比较教育研究所，延揽于尔根·亨策（Jürgen Henze）等学者，将洪堡大学打造为后冷战欧洲跨国网络研究与博士生培养的旗帜性中心。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 90)]]
 > - **1996–2000** **当选[[Comparative Education Society in Europe|欧洲比较教育学会]]主席推动学术开放** 出任 CESE 主席，积极推动冷战后中东欧学者融入欧洲比较学术共同体，并在 2000 年组织编写关于[[European Education Space|欧洲教育空间]]重构的重磅成果。

@@ -9,10 +9,10 @@ aliases:
 summary: "由彼得·哈斯（Peter Haas）界定、国际关系与公共政策学广泛使用的治理概念。指享有共同核心原则、因果信念、效度检验标准及政策关切的跨国专业专家网络；在缺乏超国家法律强制力与金融借贷制裁手段的情境下，跨国组织通过凝聚认知共同体确立知识霸权与议程设置权，成为远处掌舵的专业话语支柱。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - concept
   - international-relations
@@ -21,6 +21,7 @@ tags:
   - policy-sociology
   - oecd
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Discourse]]"
   - "[[Boundary Spanner]]"
   - "[[Bureaucracy]]"
@@ -69,13 +70,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Epistemic Community
-> **认知共同体（Epistemic Community）** 由国际政治学者彼得·哈斯（Peter M. Haas, 1992）系统界定，指由具有公认专业专长与能力、在特定政策领域享有权威声誉的知识分子、专家和技术官僚所构成的跨国专业人员网络。该共同体的成员不仅在职业技能上高度互补，更共享一套核心的规范性原则与因果模型信念，并采用一致的效度检验标准来判定政策证据。在批判政策社会学与跨国教育治理分析中，米丽娅姆·亨利等人（Miriam Henry et al., 2001）以及[[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]（Fazal Rizvi & Bob Lingard, 2009）将该概念运用于剖析[[OECD|经合组织]]（OECD）的软法统治：在缺乏超国家法律强制管辖权与财政借贷制裁手段的前提下，经合组织通过培育由统计学家、计量经济学家与心理测量学家构成的跨国认知共同体，成功垄断了关于教育“质量”、“公平”与“有效性”的评价定义权，从而在远处掌舵中发挥着政策议程设置与意识形态合法化的关键职能。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444, 451)]]
+> **认知共同体（Epistemic Community）** 由国际政治学者彼得·哈斯（Peter M. Haas, 1992）系统界定，指由具有公认专业专长与能力、在特定政策领域享有权威声誉的知识分子、专家和技术官僚所构成的跨国专业人员网络。该共同体的成员不仅在职业技能上高度互补，更共享一套核心的规范性原则与因果模型信念，并采用一致的效度检验标准来判定政策证据。在批判政策社会学与[[Transnational Education|跨国教育]]治理分析中，米丽娅姆·亨利等人（Miriam Henry et al., 2001）以及[[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]（Fazal Rizvi & Bob Lingard, 2009）将该概念运用于剖析[[OECD|经合组织]]（OECD）的软法统治：在缺乏超国家法律强制管辖权与财政借贷制裁手段的前提下，经合组织通过培育由统计学家、计量经济学家与心理测量学家构成的跨国认知共同体，成功垄断了关于教育“质量”、“公平”与“有效性”的评价定义权，从而在远处掌舵中发挥着政策议程设置与意识形态合法化的关键职能。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444, 451)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向享有共同专业知识、因果信念与共同政策企图的跨国专家与技术官僚协作网络。

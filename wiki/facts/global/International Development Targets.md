@@ -11,9 +11,9 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 1
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "[[Development Assistance Committee|OECD DAC]]"
 tags:
@@ -23,27 +23,37 @@ tags:
   - theme/benchmarking
   - region/global
   - level/basic-education
-related_concepts: []
+related_concepts:
+  - "[[Basic Learning Needs]]"
+  - "[[Performance Indicators]]"
+  - "[[Paradigm]]"
+  - "[[Absorptive Capacity]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[OECD]]"
+  - "[[Development Assistance Committee]]"
+  - "[[Education for All]]"
+  - "[[World Declaration on Education for All]]"
+  - "[[Millennium Development Goals]]"
+  - "[[World Bank]]"
 related_arguments:
   - "[[Argument_King_2007_CE]]"
 confidence: high
 status: draft
 created: 2026-11-06
-updated: 2026-11-06
+updated: 2026-11-11
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1996 年 5 月由[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）下设的发展援助委员会（[[Development Assistance Committee|Development Assistance Committee]], DAC）在巴黎第 34 届高级别会议上正式发布，载于政策报告《塑造21世纪：发展合作的贡献》（*Shaping the 21st Century: The Contribution of Development Co-operation*）。[[Argument_King_2007_CE|(King, 2007, pp. 378, 381)]]
+> - **发布时间 / 发布主体** 1996 年 5 月由[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）下设的[[Development Assistance Committee|发展援助委员会]]（[[Development Assistance Committee|Development Assistance Committee]], DAC）在巴黎第 34 届高级别会议上正式发布，载于政策报告《塑造21世纪：发展合作的贡献》（*Shaping the 21st Century: The Contribution of Development Co-operation*）。[[Argument_King_2007_CE|(King, 2007, pp. 378, 381)]]
 > - **适用地区 / 对象** 面向经合组织各双边援助国政府、多边国际金融机构以及接受官方发展援助的全球南方发展中国家。[[Argument_King_2007_CE|(King, 2007, pp. 381–383)]]
 > - **问题背景** 1990 年代初一系列联合国跨国首脑会议（涵盖儿童、环境、人权、人口、社会发展与妇女）产生了大量缺乏行动约束力的广泛宣言。面对公众对对外援助成效的怀疑与援助疲劳，西方捐助国迫切需要建立可量化、有明确完成时限的产出指标体系，以此重塑对外援助的政治合法性。[[Argument_King_2007_CE|(King, 2007, pp. 378, 381)]]
-> - **制度位置** 承接 1990 年世界[[Education for All|全民教育]]大会《宗滴恩宣言》，并直接构成 2000 年联合国[[Millennium Development Goals|千年发展目标]]（MDGs 2 与 3）以及英国国际发展部（DFID）1997 年白皮书的核心蓝本。[[Argument_King_2007_CE|(King, 2007, pp. 381–384, 386)]]
+> - **制度位置** 承接 1990 年世界[[Education for All|全民教育]]大会《[[World Declaration on Education for All|宗滴恩宣言]]》，并直接构成 2000 年联合国[[Millennium Development Goals|千年发展目标]]（MDGs 2 与 3）以及英国国际发展部（DFID）1997 年白皮书的核心蓝本。[[Argument_King_2007_CE|(King, 2007, pp. 381–384, 386)]]
 
 ---
 
@@ -67,14 +77,14 @@ updated: 2026-11-06
 > - **1995** 日本代表团对 DAC 最初起草的报告草案提出异议，随后非正式委托联合国开发计划署《人类发展报告》办公室学者协助起草定量目标案文。[[Argument_King_2007_CE|(King, 2007, p. 389)]]
 > - **1996 年 5 月** 经合组织 DAC 巴黎高级别会议正式通过《塑造21世纪》报告，确立包含两项教育目标在内的 6 项国际开发目标。[[Argument_King_2007_CE|(King, 2007, pp. 381–382)]]
 > - **1997** 英国工党政府发布国际发展白皮书《消除世界贫困：21世纪的挑战》，全面采纳 IDTs 作为英国双边援助的纲领性考核基准。[[Argument_King_2007_CE|(King, 2007, pp. 383–384)]]
-> - **2000 年 9 月** 联合国官僚机构在千年峰会后起草千年发展目标细则时，将 IDTs 的两项教育指标直接转变为 MDG 目标 2 与目标 3。[[Argument_King_2007_CE|(King, 2007, pp. 386–387)]]
+> - **2000 年 9 月** 联合国官僚机构在千年峰会后起草千年发展目标细则时，将 IDTs 的两项[[Performance Indicators|教育指标]]直接转变为 MDG 目标 2 与目标 3。[[Argument_King_2007_CE|(King, 2007, pp. 386–387)]]
 
 ---
 
 > [!actor-grid] 实施角色分工
 > - **决策与发起方** [[Development Assistance Committee|经合组织发展援助委员会]]（OECD DAC）及核心成员国（日本外务省、英国国际发展部 DFID、美国国际开发署 USAID）。[[Argument_King_2007_CE|(King, 2007, pp. 381, 389)]]
 > - **技术起草协作方** 联合国开发计划署（UNDP）《人类发展报告》办公室经济学者（Sakiko Fukuda-Parr 与 Selim Jahan）。[[Argument_King_2007_CE|(King, 2007, p. 389)]]
-> - **执行与传导方** 世界银行与双边发展援助机构，将指标嵌入借贷项目评估与技术援助协定。[[Argument_King_2007_CE|(King, 2007, pp. 382–384)]]
+> - **执行与传导方** [[World Bank|世界银行]]与双边发展援助机构，将指标嵌入借贷项目评估与技术援助协定。[[Argument_King_2007_CE|(King, 2007, pp. 382–384)]]
 > - **履约承担方** 全球南方受援国教育部与财政部，承担实现具体入学率与性别均等指标的硬性考核任务。[[Argument_King_2007_CE|(King, 2007, pp. 382–383, 388)]]
 
 > [!pathways] 实施路径
@@ -90,8 +100,8 @@ updated: 2026-11-06
 > - **平等指标** 初等与中等教育男女在校生比例（性别均等指数）。[[Argument_King_2007_CE|(King, 2007, pp. 382, 389)]]
 
 > [!finding-cards] 效果与评价
-> - **确立全球援助定量管理范式** 终结了 1990 年代各国际峰会目标空泛重叠的混乱局面，为西方对外援助构建了统一可量化的公共政策叙事。[[Argument_King_2007_CE|(King, 2007, pp. 381, 383)]]
-> - **剥离宏观生产力与治理根基** 指标设计高度倾向单纯的社会消费性指标，排除了发展中国家扩大生产性经济部门与提升就业吸收能力的长期诉求。[[Argument_King_2007_CE|(King, 2007, pp. 387, 389)]]
+> - **确立全球援助定量管理[[Paradigm|范式]]** 终结了 1990 年代各国际峰会目标空泛重叠的混乱局面，为西方对外援助构建了统一可量化的公共政策叙事。[[Argument_King_2007_CE|(King, 2007, pp. 381, 383)]]
+> - **剥离宏观生产力与治理根基** 指标设计高度倾向单纯的社会消费性指标，排除了发展中国家扩大生产性经济部门与提升就业[[Absorptive Capacity|吸收能力]]的长期诉求。[[Argument_King_2007_CE|(King, 2007, pp. 387, 389)]]
 > - **挤压后基础教育发展空间** 对初等教育入学率指标的绝对倾斜，导致外部援助大幅收缩对中等教育、技术职业教育及高等教育的资源投放。[[Argument_King_2007_CE|(King, 2007, pp. 388–389)]]
 > - **指标时限的不合逻辑性** 设定在 2005 年消除中等教育性别差距，却将普及初等教育时间定在 2015 年，在人口结构演进与教育梯级衔接上呈现出逻辑倒挂。[[Argument_King_2007_CE|(King, 2007, pp. 382, 389)]]
 

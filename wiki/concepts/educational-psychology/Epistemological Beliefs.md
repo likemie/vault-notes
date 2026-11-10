@@ -3,7 +3,7 @@ title: Epistemological Beliefs
 summary: "关于个体对知识本质及认知过程的假设与信念。该研究领域经历了从早期一维发展阶段模型，到 Schommer 多维独立量表，再到被重构为“认识论理论”核心四维度，以及近期被拆分为本体论与认识论认知（EOC）的演变过程。"
 type: concept
 domain: "educational-psychology"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Reflexivity]]"
   - "[[Cultural Capital]]"
+  - "[[Cumulative Innovation]]"
   - "[[Task Structure]]"
 related_theories:
   - "[[Epistemic and Ontological Cognition]]"
@@ -68,7 +69,7 @@ related_arguments:
   - "[[Argument_Lodewyk_2007_EducPsych]]"
 status: active
 created: 2026-08-13
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -211,7 +212,7 @@ updated: 2026-11-03
 > - **混入外围信念** Hofer and Pintrich 指出，Schommer 模型中的“固定能力（fixed ability）”本质上是一种隐性智力理论（Dweck & Leggett），而“快速学习（quick learning）”则属于对任务难度的个人预期。二者均涉及个人心理特征及学习期待，有别于严格哲学意义上对知识本源的[[Epistemology\|认识论]]探究，因此应从认识论核心领域中剔除。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, pp. 108-109)]]
 
 > [!critique] 量表工具的方法论局限
-> - **因子结构不稳定** Schommer 认识论量表的有效性遭到学界质疑。其因子分析是建立在预设的子集而非单个题目层面，且后续研究（如 Qian & Alvermann）显示其底层因子结构在实际不同人群的数据中并不稳定，缺乏一致的重现性。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 110)]]
+> - **因子结构不稳定** Schommer 认识论量表的有效性遭到学界质疑。其因子分析是建立在预设的子集而非单个题目层面，且[[Cumulative Innovation|后续研究]]（如 Qian & Alvermann）显示其底层因子结构在实际不同人群的数据中并不稳定，缺乏一致的重现性。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 110)]]
 
 ---
 

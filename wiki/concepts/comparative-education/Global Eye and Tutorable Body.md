@@ -9,7 +9,7 @@ aliases:
 summary: "比较教育政策社会学中将超国家层面的全景敞视监视与微观课堂身体规训相互贯通的核心概念框架。由安东尼奥·诺瓦等学者在福柯治理术与生命权力启发下提出，指以 PISA 为代表的跨国标准化测验构成了超越民族国家主权的“全球眼”，通过构建无国界的量化等价空间实施远距离凝视；这种宏观监视通过新自由主义自我技术与教育学控制，将学生身体塑造成高度自律、适应标准化测评姿势与解题技能的“受教身体”，实现了生命权力向微观主观性的跨尺度折叠。"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ tags:
   - theme/pisa
   - theme/standardized-testing
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Center of Calculation]]"
   - "[[Self-control]]"
   - "[[Paradigm]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -58,7 +59,7 @@ updated: 2026-11-02
 > 全球眼睛与受教身体（Global Eye and Tutorable Body）是比较教育政策社会学借用米歇尔·福柯（Michel Foucault）生命权力与规训权力理论，解构全球教育测验治理的一组核心配对概念。该概念由葡萄牙教育学家[[António Nóvoa|安东尼奥·诺瓦]]（António Nóvoa）等学者提出，用以阐明超国家机构如何依托跨国统测建立无所不在的远距离监视网络（全球眼睛），并通过微观学校空间秩序与标准化答题技术，将学生的肉身重塑为适应全球经济竞争与测验绩效问责的高效合规主体（受教身体）。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 73–74)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 揭示跨国教育监测并非单纯的宏观统计排名，而是一套自上而下贯通宏观地缘监控与微观身体纪律的权力技术装置。
+> - **含义** 揭示[[Transnational Education|跨国教育]]监测并非单纯的宏观统计排名，而是一套自上而下贯通宏观地缘监控与微观身体纪律的权力技术装置。
 > - **用途** 帮助研究者透视标准化国际考试如何将抽象的“[[Human Capital Theory|人力资本]]”构想下沉为教室内的固定空间排布、肌肉记忆、答题姿态与自我监控习惯。
 > - **边界** 该概念聚焦于全景规训与权力运作，不适用于描述未被测验体系规制的自由非正式学习过程，亦不能替代关于学生认知发展的纯心理学描述。
 

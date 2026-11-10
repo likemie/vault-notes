@@ -8,9 +8,9 @@ summary: "基于演化遗传算法的多元非参数匹配方法，通过启发�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 9
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 16
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -19,16 +19,23 @@ tags:
   - method/causal-inference
   - method/matching
 related_concepts:
-  - "[[Variable]]"
   - "[[Causality]]"
+  - "[[Variable]]"
+  - "[[Unit of Analysis]]"
+  - "[[Construct Validity]]"
   - "[[Counterfactual]]"
+  - "[[Technology Transfer]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"
 related_methods:
   - "[[Matching]]"
   - "[[Propensity Score Matching]]"
+  - "[[Random Assignment]]"
+  - "[[Imputation Methods]]"
   - "[[Difference-in-Differences]]"
+  - "[[Sample Size Determination]]"
   - "[[Patent-Paper Pairs]]"
+  - "[[Journal Impact Factor]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -37,18 +44,18 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Genetic Matching
-> **遗传匹配（Genetic Matching，简称 GenMatch）** 是由亚历克西斯·戴蒙德（Alexis Diamond）与贾斯吉特·塞肯（Jasjeet S. Sekhon, 2013）提出的一种多元非参数因果推断匹配方法。该方法将遗传算法（Genetic Algorithm）引入到处理组与对照组的样本配对过程中，通过启发式演化搜索确定广义马氏距离度量中的正定对称权重矩阵 $W$，使得匹配后的样本在所有包含的连续与分类协变量上同时获得最佳的分布平衡（最小化 Kolmogorov-Smirnov 检验与双样本 $t$ 检验的偏离程度）。与传统的[[Propensity Score Matching\|倾向得分匹配（PSM）]]相比，遗传匹配不依赖于研究者预先设定的参数化选择方程或单维得分假设，在处理复杂非线性交互与多维连续变量时具有更优的均方误差表现。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, pp. 1063–1064)]]
+> **遗传匹配（Genetic [[Matching]]，简称 GenMatch）** 是由亚历克西斯·戴蒙德（Alexis Diamond）与贾斯吉特·塞肯（Jasjeet S. Sekhon, 2013）提出的一种多元非参数[[Causality|因果推断]]匹配方法。该方法将遗传算法（Genetic Algorithm）引入到处理组与对照组的样本配对过程中，通过启发式演化搜索确定广义马氏距离度量中的正定对称权重矩阵 $W$，使得匹配后的样本在所有包含的连续与分类协[[Variable|变量]]上同时获得最佳的分布平衡（最小化 Kolmogorov-Smirnov 检验与双样本 $t$ 检验的偏离程度）。与传统的[[Propensity Score Matching|倾向得分匹配]]（PSM）相比，遗传匹配不依赖于研究者预先设定的参数化选择方程或单维得分假设，在处理复杂非线性交互与多维连续变量时具有更优的均方误差表现。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, pp. 1063–1064)]]
 
 > [!method-scope] 方法范围
 > - **测量或估计对象** 估计观察性研究与准实验中的处理组平均处理效应（Average Treatment Effect on the Treated, ATT）。
-> - **问题类型** 因果推断与协变量平衡（在无随机分配条件下消除可观测混杂偏差）。
-> - **分析单位** 观测样本个体（如学生、学校、专利配对样本、企业）。
+> - **问题类型** 因果推断与协变量平衡（在无[[Random Assignment|随机分配]]条件下消除可观测混杂偏差）。
+> - **[[Unit of Analysis|分析单位]]** 观测样本个体（如学生、学校、专利配对样本、企业）。
 > - **输入数据** 处理变量指示符（Treatment Indicator）、多维连续或分类协变量矩阵 $X$、可选的确切匹配限制条件（Exact Match Constraints）与卡尺范围（Caliper）。
 > - **输出形式** 配对权重向量、匹配后样本数据集、协变量平衡诊断报告（$t$ 检验与 KS 检验 $p$ 值）。
 
@@ -60,15 +67,15 @@ updated: 2026-11-04
 ---
 
 > [!method-position] 方法定位
-> - **构念效度** 匹配质量取决于纳入遗传搜索算法的协变量是否涵盖了影响处理选择和潜在结果的关键前序特征。
+> - **[[Construct Validity|构念效度]]** 匹配质量取决于纳入遗传搜索算法的协变量是否涵盖了影响处理选择和潜在结果的关键前序特征。
 > - **研究者判断** 决定哪些变量执行刚性确切匹配（Exact Matching）、哪些变量允许在卡尺约束内进行最近邻搜索，以及演化算法的种群代数与停止准则。
 > - **有效性标准** 匹配后样本在各维协变量均值与累积分布上的平衡性检验，通常要求标准化均值差小于 0.1 且 KS 检验无显著差异。
 > - **不声称回答的问题** 无法直接消除未被观测到的时变混杂因素，因果推断依然依赖可忽略性假定。
 
 > [!method-stack] 方法层级
-> - **上位方法** [[Matching\|匹配法]]、反事实因果推断框架（[[Potential Outcomes Framework]]）。
-> - **前置步骤** 协变量筛选、缺失值插补、马氏距离矩阵初始化。
-> - **变体与扩展** 结合卡尺约束的遗传匹配（GenMatch with Calipers）、结合确切匹配的分层遗传匹配、匹配双重差分法（Matching DID）。
+> - **上位方法** [[Matching\|匹配法]]、[[Counterfactual|反事实]]因果推断框架（[[Potential Outcomes Framework]]）。
+> - **前置步骤** 协变量筛选、[[Imputation Methods|缺失值插补]]、马氏距离矩阵初始化。
+> - **变体与扩展** 结合卡尺约束的遗传匹配（GenMatch with Calipers）、结合确切匹配的分层遗传匹配、匹配[[Difference-in-Differences|双重差分法]]（Matching DID）。
 
 ---
 
@@ -116,7 +123,7 @@ updated: 2026-11-04
 
 > [!method-fit] 适用判断
 > - **适合使用** 协变量维数较高、存在复杂非线性关联，且传统倾向得分匹配无法使关键变量达到满意的平衡标准的观察性研究。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, pp. 1063–1064)]]
-> - **谨慎使用** 样本量极其庞大的大数据集（遗传演化搜索算法在大样本下的计算复杂度较高，耗时显著增加）。
+> - **谨慎使用** [[Sample Size Determination|样本量]]极其庞大的大数据集（遗传演化搜索算法在大样本下的计算复杂度较高，耗时显著增加）。
 > - **不适合使用** 对照组样本池严重狭窄、无法找到任何相近观测值的极度不平衡情境。
 
 ---
@@ -135,10 +142,10 @@ updated: 2026-11-04
 > | [[Matching]] | 方法 | 遗传匹配所属的上位非实验因果推断方法分类。 |
 > | [[Propensity Score Matching]] | 方法 | 遗传匹配主要克服与替代的传统参数化匹配算法。 |
 > | [[Difference-in-Differences]] | 方法 | 常与遗传匹配联合使用（Matching DID），由遗传匹配构建对照组，由 DID 消除时间不变未观测干扰。 |
-> | [[Patent-Paper Pairs]] | 方法 | 在学术技术转移与科学学实证中，遗传匹配用于构建未许可成果对照组的核心应用场景。 |
+> | [[Patent-Paper Pairs]] | 方法 | 在学术[[Technology Transfer\|技术转移]]与科学学实证中，遗传匹配用于构建未许可成果对照组的核心应用场景。 |
 > | [[Potential Outcomes Framework]] | 理论 | 支撑遗传匹配反事实估计的底层理论框架。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Thompson_et_al_2018_RP|Thompson et al. (2018)]] — 在大学专利许可对科学传播的影响研究中，采用遗传匹配算法对成果发表年限、学科、影响因子与前期引用趋势进行配对，构建了高质量的对照组样本。
+> - [[Argument_Thompson_et_al_2018_RP|Thompson et al. (2018)]] — 在大学专利许可对科学传播的影响研究中，采用遗传匹配算法对成果发表年限、学科、[[Journal Impact Factor|影响因子]]与前期引用趋势进行配对，构建了高质量的对照组样本。

@@ -10,7 +10,7 @@ subtype: organization
 region: multi
 fact_region: "multi"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Paradigm]]"
+  - "[[Scientific Mobility]]"
   - "[[Student Mobility]]"
   - "[[Grandes Ecoles]]"
   - "[[Counterpart Funds]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -65,7 +66,7 @@ updated: 2026-11-02
 > - **成立时间 / 创设背景** 1992 年第四届东盟峰会正式提议筹建，1995 年各成员国常任秘书与高校代表正式签署章程确立架构；旨在冷战后东盟扩员背景下，通过顶尖大学间的学术资源共享强化区域认同并服务东盟一体化进程。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
 > - **总部地点 / 业务辐射** 常设秘书处落户泰国曼谷朱拉隆功大学；核心会员覆盖东盟十国 30 所顶尖公立与旗舰大学，并通过“东盟+3”（中国、日本、韩国）大学网络向外拓展。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
 > - **法人属性与经费基础** 名义上列入东盟部门机构附录，实际决策权由各成员国顶尖高校校长主导；日常运行依托成员高校缴纳的年会费、东盟发展基金专项支持及外部对话伙伴的合作项目资助。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
-> - **核心宗旨与法定职责** 促进东南亚顶尖高校间学者流动与联合科研，建立区域通用的质量保障准则与学分互通机制，培育具备东盟意识的青年人才。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
+> - **核心宗旨与法定职责** 促进东南亚顶尖高校间[[Scientific Mobility|学者流动]]与联合科研，建立区域通用的质量保障准则与学分互通机制，培育具备东盟意识的青年人才。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
 
 ---
 

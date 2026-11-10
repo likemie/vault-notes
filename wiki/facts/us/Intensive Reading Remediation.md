@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -40,7 +40,8 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Pre-test and Post-test]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Ben Levin]]"
 related_facts:
   - "[[National Institute of Child Health and Human Development]]"
   - "[[Every Student Succeeds Act]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -78,7 +79,7 @@ updated: 2026-10-30
 >   - **富有挑战性的连贯篇章出声精读（Connected Text Reading，15 分钟）**
 > - **超大时间剂量** 全学年累计辅导时间超过 100 小时，是常规短期干预（通常 20–30 小时）的 3 至 5 倍。
 
-> [!citation-card] 斯莱文论 Intensive Reading Remediation 的超强实证效应
+> [!citation-card] 斯[[Ben Levin|莱文]]论 Intensive Reading Remediation 的超强实证效应
 > 在小学中低年级专业教师一对一辅导中，Intensive Reading Remediation 在严格因果试验中测得了高达 +0.85 的巨大[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）的强[[Evidence Standards\|证据标准]]，证明了高剂量专业辅导在逆转严重困难中的决定性力量。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *Tutoring provided by certified teachers produced strong outcomes in grades 2–3. Intensive Reading Remediation evaluated in 1:1 format yielded an extraordinary effect size of +0.85, meeting the ESSA Strong rating.*

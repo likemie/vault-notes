@@ -12,7 +12,7 @@ aliases:
 summary: "由桑托·福图纳托等人（Fortunato et al., 2014）阐释的科学计量学构念；指科学家做出开创性科学突破到其正式荣获诺贝尔科学奖之间经历的时间间隔；该间隔在 20 世纪下半叶呈现指数级延展，与诺奖禁止死后追授的章程形成生存竞赛，构成筛选晚期创新者的制度性屏障。"
 type: concept
 domain: "science-policy"
-related_count: 15
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,8 +23,11 @@ tags:
   - theme/academic-recognition
   - concept/institutional-lag
 related_concepts:
+  - "[[Original Innovation Capability]]"
   - "[[Big Science]]"
+  - "[[Sleeping Beauty in Science]]"
   - "[[Lost Winners]]"
+  - "[[Survivorship Bias]]"
   - "[[Document]]"
   - "[[Interaction Effect]]"
   - "[[Creativity]]"
@@ -37,6 +40,7 @@ related_methods:
   - "[[Effect Size]]"
 related_instruments: []
 related_persons:
+  - "[[Santo Fortunato]]"
   - "[[Jin Li]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
@@ -47,13 +51,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Nobel Prize Lag
-> 诺贝尔奖授奖时滞指代科学研究者完成足以荣获诺贝尔奖的标志性重大发现至其正式受到该奖项嘉奖之间经历的历时性时间鸿沟。在 20 世纪下半叶以来的现代科学体系中，这一时滞呈指数级轨迹持续拉长，大批顶尖科学家的等待周期突破二十年乃至三十年，使得科学荣誉的正式加冕与其原始创新时间节点发生严重分离。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 45)]]
+> 诺贝尔奖授奖时滞指代科学研究者完成足以荣获诺贝尔奖的标志性重大发现至其正式受到该奖项嘉奖之间经历的历时性时间鸿沟。在 20 世纪下半叶以来的现代科学体系中，这一时滞呈指数级轨迹持续拉长，大批顶尖科学家的等待周期突破二十年乃至三十年，使得科学荣誉的正式加冕与其[[Original Innovation Capability|原始创新]]时间节点发生严重分离。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 45)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 刻画科学共同体对极端重大开创性突破进行同行检验、重复验证与声誉共识凝聚所需的时间成本。
@@ -66,7 +70,7 @@ updated: 2026-11-03
 > *It's not only discovery that's delayed these days – so is recognition. Indeed, there is a steadily increasing gap in time between when a scientist makes a discovery worthy of a Nobel and when she is awarded for it. Before 1940, only 11 percent of physics, 15 percent of chemistry, and 24 percent of physiology or medicine Nobel Prize recipients had to wait more than 20 years for their recognition after the original discovery. Since 1985, a two-decade delay has affected 60 percent, 52 percent, and 45 percent of the awards, respectively. The increasing interval between discovery and its formal recognition is approximated by an exponential curve, projecting that by the end of this century, the prizewinners' average age for receiving the award is likely to exceed their projected life expectancy... Given that the Nobel Prize cannot be awarded posthumously, this lag threatens to undermine science's most venerable institution.*
 
 > [!boundary]- 概念边界
-> - 不等于睡美人现象（Sleeping Beauties）。睡美人成果强调论著在发表初期遭受学术界引文漠视、经过漫长沉睡期后被突发唤醒；诺贝尔奖授奖时滞中的代表作大多自发表之初就获得极高同行关注与学术引用，其滞后源于奖项评选委员会漫长的审查论证周期与候选名单队列排队。
+> - 不等于[[Sleeping Beauty in Science|睡美人现象]]（Sleeping Beauties）。睡美人成果强调论著在发表初期遭受学术界引文漠视、经过漫长沉睡期后被突发唤醒；诺贝尔奖授奖时滞中的代表作大多自发表之初就获得极高同行关注与学术引用，其滞后源于奖项评选委员会漫长的审查论证周期与候选名单队列排队。
 > - 不等于普通同行评议与期刊审稿时滞（Publication Lag）。审稿时滞以月为单位度量从手稿完成到印刷出版的流程，授奖时滞以数十年为尺度度量公开发表到科学巅峰荣誉加冕的历史跨度。
 
 ---
@@ -77,7 +81,7 @@ updated: 2026-11-03
 > | **核心指向** | 成果面世到正式斩获顶级大奖的历时性时间跨度 | 因突破发生较晚且时滞过长在等待中离世的学者群体 | 手稿自投稿至期刊正式刊印所消耗的行政审查流程 |
 > | **测度尺度** | 数十年（平均跨越 20 至 30 年以上） | 终身性（永久被荣誉档案与统计名录所筛除） | 数月至数年（一般在 6 至 24 个月） |
 > | **制度交互机制** | 科学前沿验证复杂性与同行共识凝聚周期的延长 | 漫长授奖时滞与“不可死后追授”硬性章程的致命咬合 | 编辑部送审、同行评议与返修校对周期 |
-> | **宏观统计表象** | 获奖者平均领奖年龄单向推迟至古稀之年 | 造成诺奖得主档案中“成果集中在年轻期”的生存偏差 | [[Document\|文献]]引用半衰期与最新前沿传播速度受到技术性拖延 |
+> | **宏观统计表象** | 获奖者平均领奖年龄单向推迟至古稀之年 | 造成诺奖得主档案中“成果集中在年轻期”的[[Survivorship Bias\|生存偏差]] | [[Document\|文献]]引用半衰期与最新前沿传播速度受到技术性拖延 |
 
 ---
 
@@ -103,7 +107,7 @@ updated: 2026-11-03
 > [!concept-proposition] 命题一｜前沿验证复杂性与声誉竞争驱动重大发现到官方加冕的等待期呈指数膨胀
 > **同行验证周期与稀缺荣誉分配排队** 探讨科学体系日益复杂的实证复现要求以及顶级奖项的名额配额限制，如何推动重大突破到最终授奖的时间间隔呈指数形态扩张。
 
-> [!claim] Fortunato, S.
+> [!claim] [[Santo Fortunato|Fortunato, S.]]
 > **授奖时滞的跨学科指数增长** 科学大奖的审查确认过程在当代遭遇了结构性瓶颈；对物理、化学与医学三大自然科学诺贝尔奖历时性获奖档案的实证拟合表明，自做出划时代发现至最终登上领奖台的时间差呈现指数扩张趋势，等待逾 20 年的得主占比在物理学领域从战前的 11% 飙升至战后的 60%，在化学与医学领域亦分别超过 50% 与 40%。这一指数演进使得得主平均受奖年龄持续攀升至 60 岁以上。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 45)]]
 
 ---

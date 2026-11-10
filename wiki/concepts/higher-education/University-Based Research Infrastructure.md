@@ -8,7 +8,7 @@ aliases:
 summary: "在研究型大学内部依托公共研发资金建立的大型实验仪器平台、跨学科实验室、科研数据中心与学术网络体系；它是战后美国国家创新系统中前沿科学发现、高层次创新人才供给与民用颠覆性技术衍生的最核心策源基础。"
 type: concept
 domain: "higher-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Corporate R&D Labs]]"
   - "[[Tacit Knowledge]]"
+  - "[[Research Tool]]"
   - "[[National Innovation System]]"
   - "[[Innovation Ecosystem]]"
   - "[[Disciplinary Institutionalization]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-11-03
 > [!feature] 核心要素
 > - **公共财政战略托底（Long-Term Public Financing）** 依赖联邦国防研发与基础科研基金的长周期、高强度支持，确保基础设施建设能够超越短期商业周期波动。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 28–29)]]
 > - **科教融合与青年人才培养（Synergy of Research and Education）** 先进科研设施直接嵌入研究生与本科生培养链条，年轻学者在操作尖端实验平台中积累[[Tacit Knowledge|默会知识]]，成为未来技术外溢的载体。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 31, 38, 42)]]
-> - **开放知识共享与网络协同（Open Sharing & Peer Collaboration）** 设施面向学术共同体开放，采用开放技术协议与同行评议分配规程，避免前沿科研工具被少数既得利益机构垄断。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 39–40)]]
+> - **开放知识共享与网络协同（Open Sharing & Peer Collaboration）** 设施面向学术共同体开放，采用开放技术协议与同行评议分配规程，避免前沿[[Research Tool|科研工具]]被少数既得利益机构垄断。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 39–40)]]
 
 > [!logic-map]- 大学科研基础设施的双向溢出模型
 > ```mermaid

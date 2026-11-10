@@ -7,7 +7,7 @@ title: "Argument_Rizvi_Lingard_2009_OECDEducationPolicy"
 argument_key: "Argument_Rizvi_Lingard_2009_OECDEducationPolicy"
 argument_display_title: "The OECD and global shifts in education policy"
 argument_kind: "book-chapter"
-argument_related_count: 76
+argument_related_count: 77
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -54,8 +54,10 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Steering at a Distance]]"
   - "[[Multilateral Surveillance]]"
+  - "[[Transnational Education]]"
   - "[[Creativity]]"
   - "[[Epistemology]]"
+  - "[[Teacher Expertise]]"
   - "[[Research Scope]]"
   - "[[Technical Rationality]]"
   - "[[Liberalization]]"
@@ -73,7 +75,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Ontology]]"
   - "[[Epoché]]"
-  - "[[Screening Off]]"
   - "[[Global Universities Rankings]]"
   - "[[PISA Shock]]"
   - "[[Socioeconomic Status]]"
@@ -119,7 +120,7 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: completed
 created: 2026-04-13
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
@@ -162,7 +163,7 @@ updated: 2026-10-29
 > |---|---|---|
 > | **官方史料与制度规范** | 《1960–1990年的教育：经合组织视角》（[[George Papadopoulos\|Papadopoulos]], 1994）、《经合组织公约》（1961）、《年度报告》（1997, 1998）。 | 1960–1990年冷战时期及组织初创阶段的欧洲重建背景。 |
 > | **治理转型与经济纲领** | 《转型中的治理：经合组织国家的公共管理改革》（OECD, 1995）、《知识经济》（OECD, 1996c）、《2030年全球化与联动》（OECD, 1996a）。 | 苏联解体后新自由主义全球化霸权确立与政府职能重塑阶段。 |
-> | **跨国教育监测与评估** | 《教育概览》（OECD, 1997）、《测量学生知识与技能：评估新框架》（OECD, 1999）、《经合组织教育工作2005–2006》（OECD, 2005）。 | PISA测评体系建立、首轮2000年结果发布及独立教育司成立时期。 |
+> | **[[Transnational Education\|跨国教育]]监测与评估** | 《教育概览》（OECD, 1997）、《测量学生知识与技能：评估新框架》（OECD, 1999）、《经合组织教育工作2005–2006》（OECD, 2005）。 | PISA测评体系建立、首轮2000年结果发布及独立教育司成立时期。 |
 > | **社会政策与外部网络** | 《经合组织全球关系计划2007–2008》（OECD, 2007）、《性别与经济发展：[[Diane Elson\|黛安·埃尔森]]的研究》（OECD, 2006）、[[World Education Indicators\|世界教育指标]]项目档案。 | 经合组织面向中国、印度等非成员经济体扩张及社会政策工具化时期。 |
 
 ---
@@ -234,7 +235,7 @@ updated: 2026-10-29
 >     - **13. 学校与工作联系（Links between School and Work）** 促进正规教育与产业工作场所的对接。
 >     - **14. 青年就业促进（Youth Employment）** 应对青年失业危机与劳动力市场过渡。
 >     - **15. 学校与社区协同（School–Community Relations）** 加强学校教育与地方社区发展的协同治理。
->     - **16. 教师教育体系（Teacher Education）** 提升教师专业素养与在职进修保障机制。
+>     - **16. 教师教育体系（Teacher Education）** 提升[[Teacher Expertise|教师专业素养]]与在职进修保障机制。
 > - **教育经济学与宏观评估指标**
 >     - **17. 教育经济学（The [[Economics of Education Movement|economics of education]]）** 评估公共教育支出的成本效益与资源配置。
 >     - **18. 教育与[[Performance Indicators|绩效指标]]（Educational and Performance Indicators）** 探索多国教育投入产出的早期统计基准。
@@ -367,7 +368,7 @@ updated: 2026-10-29
 
 > [!sub-claim] 2. 数字治理隐藏了复杂的价值决断，通过国家间排位竞争与政策恐慌实现远处掌舵
 
-量化数字之所以具有无可比拟的政策号召力，正是因为其技术外观成功[[Screening Off|屏蔽]]了背后的政治考量。（p. 448）
+量化数字之所以具有无可比拟的政策号召力，正是因为其技术外观成功屏蔽了背后的政治考量。（p. 448）
 
 > [!critique] 罗斯数字即政策理论在教育治理中的应用剖析
 > - **复杂主观裁决的彻底隐形化** 英国社会学家[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose, 1999, p. 208）深刻指出，[[Governing by Numbers|数字治理]]的威权在于其“能够将构成测度、尺度与数字背后的大量复杂判断与主观决策变得不可见，因而在很大程度上也变得不容置疑”。

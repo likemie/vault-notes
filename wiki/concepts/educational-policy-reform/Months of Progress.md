@@ -7,10 +7,10 @@ aliases:
 summary: "英国教育捐赠基金会（EEF）教学与学习工具包创制的政策转译指标，将标准化效应量转换为学生额外的学业成长月数，虽降低了政策传播门槛，却因忽视认知非线性成长规律与研究方法学质量而广受因果学界批评。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/educational-policy-reform
   - theme/performance-indicators
@@ -20,6 +20,7 @@ tags:
   - theme/governance-by-numbers
 related_concepts:
   - "[[Reliability]]"
+  - "[[Homophily]]"
   - "[[Heterogeneity]]"
   - "[[Attrition]]"
   - "[[Educational Brokerage Agency]]"
@@ -27,10 +28,11 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
+  - "[[Statistical Significance]]"
   - "[[Pre-test and Post-test]]"
   - "[[Sample Size Determination]]"
-  - "[[Descriptive Analysis]]"
   - "[[Effect Size Conversion]]"
+  - "[[Descriptive Analysis]]"
   - "[[Meta-analysis]]"
 related_instruments: []
 related_persons:
@@ -46,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-16
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -60,7 +62,7 @@ updated: 2026-11-03
 > - **边界** 属于高度简化的人工派生指标，不具备纯粹因果测量意义上的物理线性特征；不能反映原始研究的方法学可[[Reliability\|信度]]缺陷与真实数据离散分布。
 
 > [!citation-card] 戈拉德等对效应量通俗化转译的批评
-> 真正易于被实践者理解与采信的研究，应当彻底剔除繁复的显著性检验包装，直接汇报干预组与对照组在[[Pre-test and Post-test\|前测与后测]]中的未调整[[Sample Size Determination\|样本量]]、均值、标准差、绝对差值及标准化效应量，使证据恢复其朴素直观的物理意义。试图将效应量过度通俗化为日常隐喻（例如 EEF 所采用的月度进步指标）在科学交流上几乎毫无优势，反而掩盖了数据本身的离散分布与真实质量。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 584)]]
+> 真正易于被实践者理解与采信的研究，应当彻底剔除繁复的[[Statistical Significance|显著性检验]]包装，直接汇报干预组与对照组在[[Pre-test and Post-test\|前测与后测]]中的未调整[[Sample Size Determination\|样本量]]、均值、标准差、绝对差值及标准化效应量，使证据恢复其朴素直观的物理意义。试图将效应量过度通俗化为日常隐喻（例如 EEF 所采用的月度进步指标）在科学交流上几乎毫无优势，反而掩盖了数据本身的离散分布与真实质量。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 584)]]
 >
 > *A basic minimum for a causal study should be to report the means/scores for each group as well as overall — their standard deviations and the resulting effect sizes for pre-intervention (if available), post-intervention and gain/progress scores. There is little advantage in trying to convert effect sizes into something more everyday for better communication, like the months of progress used by EEF (Baird & Pane, 2019).*
 
@@ -76,7 +78,7 @@ updated: 2026-11-03
 > | **表达形态** | 直观自然语言（如“+5 个月学业进展”） | 标准差单位数值（如 $d = 0.25$） | 真实分数均值与离散度（如 $M = 72.4, SD = 11.2$） |
 > | **理解门槛** | 极低（非专业校长与公众易懂） | 中等（需具备基础统计学素养） | 极低且客观透明（直接反映实际考试得分） |
 > | **线性假设** | 预设全年各年龄段匀速线性成长 | 相对标准差单位，受样本方差扰动 | 无先验模型假设，客观呈现分布 |
-> | **方法学隐患** | 易掩盖原始数据失访、偏倚与质量差异 | 依赖样本同质性与方差池合并计算 | 无法跨异质测试工具进行直接综合比较 |
+> | **方法学隐患** | 易掩盖原始数据失访、偏倚与质量差异 | 依赖样本[[Homophily\|同质性]]与方差池合并计算 | 无法跨异质测试工具进行直接综合比较 |
 
 ---
 
@@ -98,7 +100,7 @@ updated: 2026-11-03
 > **非线性成长对固定折算率的系统性击穿** 大规模实证常模数据显示，低幼儿童在一年内的自然认知进展可达 1.0 至 1.5 个标准差，而高中阶段学生的年自然进展仅为 0.15 至 0.20 个标准差。使用固定的全局转换比率（如 $0.1 SD = 1$ 个月）将高年级微小的[[Effect Size\|效应量]]折算为数个月的学业成长，在因果逻辑上完全不成立，必然对决策者产生严重的定向误导。[[Argument_Gorard_2020_ROE\|(Baird & Pane, 2019; Gorard et al., 2020, p. 584)]]
 
 > [!claim] [[Adrian Simpson\|Simpson, A.]]
-> **公共政策的错误导向** 针对 [[Education Endowment Foundation\|EEF]] 工具包的批判表明，不同测验工具的方差[[Heterogeneity\|异质性]]与测验针对性（Targeted vs. Broad Tests）对效应量大小具有决定性影响。将异质研究的效应量换算成统一的月度时间尺度，向公众与校方输送了虚假的精确性幻象，导致公共教育投资出现错配。[[Argument_Gorard_2020_ROE\|(Simpson, 2017; Gorard et al., 2020, p. 584)]]
+> **公共政策的错误导向** 针对 [[Education Endowment Foundation\|EEF]] 工具包的批判表明，不同测验工具的方差[[Heterogeneity\|异质性]]与测验针对性（Targeted vs. Broad Tests）对效应量大小具有决定性影响。将异质研究的[[Effect Size Conversion|效应量换算]]成统一的月度时间尺度，向公众与校方输送了虚假的精确性幻象，导致公共教育投资出现错配。[[Argument_Gorard_2020_ROE\|(Simpson, 2017; Gorard et al., 2020, p. 584)]]
 
 ---
 

@@ -11,7 +11,7 @@ subtype: policy
 region: france
 fact_region: "france"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Document]]"
   - "[[Comprehensive Education]]"
+  - "[[Study Abroad]]"
   - "[[Policy Borrowing]]"
   - "[[Educational Meliorism]]"
   - "[[Auslandspadagogik]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ## 背景
@@ -127,7 +128,7 @@ updated: 2026-10-30
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 核心决策者** 弗朗索瓦·基佐与[[Victor Cousin\|维克多·库森]]（公共教育部立宪自由派精英） — 掌握中央立法与行政权力，诉求通过[[National Education|国民教育]]重建国家理性与公共秩序，策略性动用普鲁士经验直接转置为国家法律。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 26–29)]]
-> - **高权力 · 低利益 — 妥协与潜在抗衡者** 天主教教会教阶体制与旧贵族保守派 — 拥有广泛的宗教教育特权与社会声望，抵制中央世俗国家垄断；基佐以“教学自由”和保留学校宗教道德教学换取其政治合作。（p. 29）
+> - **高权力 · 低利益 — 妥协与潜在抗衡者** 天主教教会教阶体制与旧贵族保守派 — 拥有广泛的宗教教育特权与社会声望，抵制中央世俗国家垄断；基佐以“教学自由”和保[[Study Abroad|留学]]校宗教道德教学换取其政治合作。（p. 29）
 > - **低权力 · 高利益 — 核心受益群体** 平民子弟、工商业中产阶层与专业教师 — 缺乏独立政治发言权，但直接受惠于公立学校普及、贫困免费就学、实用工商技能传授及国家最低薪资兜底。（pp. 28–29）
 > - **低权力 · 低利益 — 边缘行动者** 传统私塾兼差教工与乡村退伍军人 — 随着国家师范能力证书（*brevet de capacité*）的严格推行，被逐步排挤出教师队伍。（Bowen, 1981:315）
 

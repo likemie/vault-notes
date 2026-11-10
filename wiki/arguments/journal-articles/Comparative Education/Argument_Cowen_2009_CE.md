@@ -9,7 +9,7 @@ title: "Argument_Cowen_2009_CE"
 argument_key: "Argument_Cowen_2009_CE"
 argument_display_title: "The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315–327"
 argument_kind: "journal-article"
-argument_related_count: 44
+argument_related_count: 45
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Artefact]]"
   - "[[Religious Schools]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Research Question]]"
   - "[[Literature Review]]"
   - "[[New Professionalism]]"
@@ -75,7 +76,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-06
-updated: 2026-10-30
+updated: 2026-11-11
 year: 2009
 doi: ""
 citation_aliases:
@@ -198,7 +199,7 @@ citation_aliases:
 >   **共同体公司化** 大学从学术共同体蜕化为高度集权的管理主义公司，高层经理人（前学术人员）致力于度量并压榨学术人员的剩余价值以证明部门的盈利能力。  
 > **合规审计日常** 中层管理者推行行政合规，要求教学符合标准模板（如课程手册）、科研迎合量化指标（如引用指数），使记录保存（record-keeping）成为学术日常的核心任务，压制了长时段的学术探索与风险吸纳能力。
 > - **教学关系的官僚契约化**
->   **过程格式化与监控** 教学过程规则化，学习成果（learning outcomes）被定义为技术指标；日常教学辅导要求控制在一小时内，并必须生成备忘录存档以备审计；博士论文在[[Research Question\|研究问题]]、[[Literature Review\|文献综述]]和字数上受到技术化管理。  
+>   **过程格式化与监控** 教学过程规则化，学习成果（learning outcomes）被定义为技术指标；日常教学辅导要求控制在一小时内，并必须生成备忘录存档以备审计；[[Doctoral Dissertation|博士论文]]在[[Research Question\|研究问题]]、[[Literature Review\|文献综述]]和字数上受到技术化管理。  
 > **契约取代伦理** 准契约关系与[[New Professionalism\|新专业主义]]（new professionalism）彻底驱逐了传统的师生伦理纽带与职业承诺。
 > - **研究关系的功利化与降级**
 > **应用效能主导** 科研被锁定于实用与社会影响（impact）导向，唯有具备显著社会影响力的知识才能获取经费资助。

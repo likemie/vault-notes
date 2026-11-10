@@ -8,7 +8,7 @@ summary: "民国教育家，哥伦比亚大学师范学院毕业，杜威在华�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Normal School]]"
   - "[[Grandes Ecoles]]"
+  - "[[Study Abroad]]"
   - "[[Recontextualization]]"
   - "[[Democratic Education]]"
   - "[[Scientific Attitude]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -64,7 +65,7 @@ updated: 2026-10-22
 
 > [!timeline] 生平与职涯
 > - **1886** 出生于浙江余姚。
-> - **1912–1917** 赴美留学，就读于哥伦比亚大学[[Normal School\|师范学院]]，师从[[John Dewey\|杜威]]获得博士学位。
+> - **1912–1917** 赴美[[Study Abroad|留学]]，就读于哥伦比亚大学[[Normal School\|师范学院]]，师从[[John Dewey\|杜威]]获得博士学位。
 > - **1919** 创办并主编《新教育》杂志（*[[New Education Movement\|The New Education]]*），使之成为民国新教育运动的核心理论阵地。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.614]]）
 > - **1919–1921** 与[[Hu Shi\|胡适]]、[[Tao Xingzhi\|陶行知]]等哥大校友共同筹划并全程接待[[John Dewey\|杜威]]在华巡回讲演，构成了杜威思想在华[[Recontextualization\|再脉络化]]的人际基础设施。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.73]]）
 > - **1919–1925** 主编《新教育》，以“养成健全人格、创造进步社会”为宗旨，大力推动激进的[[Democratic Education\|民主教育]]改革。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.614–615]]）

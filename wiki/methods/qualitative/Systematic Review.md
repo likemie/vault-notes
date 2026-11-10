@@ -7,7 +7,7 @@ summary: "通过明确的纳入标准和系统搜索策略识别、筛选与评�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 86
+method_related_count: 88
 method_related_level: 8
 method_related_stars: "💎💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -97,6 +97,8 @@ related_arguments:
 related_facts:
   - "[[EPPI-Centre]]"
   - "[[Education Resources Information Center]]"
+  - "[[Web of Science]]"
+  - "[[Scopus]]"
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Social Programs That Work]]"
@@ -115,7 +117,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 
 ---
@@ -157,7 +159,7 @@ updated: 2026-11-09
 
 > [!method-stack] 方法层级
 > - **研究设计** 遵循国际前沿报告指引——如 [[PRISMA]] 声明（Preferred Reporting Items for Systematic Reviews and Meta-Analyses）、[[EPPI-Centre]] 循证综合规程或 Cochrane 协作网方法学手册。
-> - **数据收集** 跨学科学术引文数据库穷尽检索（如 [[Education Resources Information Center|ERIC]]、Web of Science、Scopus、PsycINFO）、博硕士学位成果库、专业学会灰色文献库追踪、手工翻检权威期刊及学者引文回溯。
+> - **数据收集** 跨学科学术引文数据库穷尽检索（如 [[Education Resources Information Center|ERIC]]、[[Web of Science]]、[[Scopus]]、PsycINFO）、博硕士学位成果库、专业学会灰色文献库追踪、手工翻检权威期刊及学者引文回溯。
 > - **分析方法** 质性维度运用主题编码、框架映射与扎根综合；量化维度运用亚组分析、[[Meta-regression|元回归]]（Meta-regression）与效应量池化；宏观层面开展二阶综合（Reviews of Reviews）。
 > - **辅助技术** 计算机辅助文献去重（如 Covidence、Rayyan）、双人双盲筛选、混合方法质量评估工具（[[Mixed Methods Appraisal Tool|MMAT]]）及偏倚风险评估量表（如 RoB 2、ROBINS-I）。
 

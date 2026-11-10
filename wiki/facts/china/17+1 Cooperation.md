@@ -12,9 +12,9 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 8
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2012–至今"
 initiator_organization: "中华人民共和国外交部 / 中国—中东欧国家合作秘书处"
@@ -27,8 +27,10 @@ tags:
   - international-relations
   - level/international
 related_concepts:
+  - "[[Scientific Mobility]]"
   - "[[Classical Geopolitics]]"
   - "[[Geopolitics]]"
+  - "[[Study Abroad]]"
   - "[[Discourse]]"
   - "[[South-South Cooperation]]"
   - "[[Policy Network]]"
@@ -44,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-11-11
 ---
 
 ---
@@ -61,7 +63,7 @@ updated: 2026-10-20
 ---
 
 > [!claim] 核心机制假说
-> 项目假定：依托中国强大的基础设施工程交付能力与资金信贷优势，辅以高校智库联合体与青年学术流动网络，能够在中欧传统腹地建立起超越[[Classical Geopolitics|传统地缘政治]]阻隔的务实利益共同体，实现经贸务实收益向战略互信的稳步转化。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 694)]]
+> 项目假定：依托中国强大的基础设施工程交付能力与资金信贷优势，辅以高校智库联合体与青年[[Scientific Mobility|学术流动]]网络，能够在中欧传统腹地建立起超越[[Classical Geopolitics|传统地缘政治]]阻隔的务实利益共同体，实现经贸务实收益向战略互信的稳步转化。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 694)]]
 
 > [!policy-design] 方案设计
 > - **多层级会晤体系** 建立年度领导人定期会晤机制，辅以经贸部长级会议、地方省州长联合会与教育政策对话圆桌。
@@ -113,7 +115,7 @@ updated: 2026-10-20
 > [!indicators] 关键指标与规模成效
 > - **经贸投资规模增长** 中国与中东欧双边贸易额从2012年的约500亿美元快速突破至千亿美元大关。
 > - **基建标志性项目竣工** 匈塞铁路塞尔维亚境内贝尔格莱德至诺维萨德段平稳通车，最高运行时速达200公里。
-> - **高教学术交流扩展** 成立数十个中外联合研究平台，数千名中东欧青年依托专项奖学金赴华留学。
+> - **高教学术交流扩展** 成立数十个中外联合研究平台，数千名中东欧青年依托专项奖学金赴华[[Study Abroad|留学]]。
 
 > [!finding-cards] 核心实证结论
 > - **填补了次区域基础设施资金缺口** 为西巴尔干等非[[EU|欧盟]]及准欧盟国家提供了及时的工程资本支持，有效拉动了当地物流与就业。

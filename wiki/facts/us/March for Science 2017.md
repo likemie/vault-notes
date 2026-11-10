@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Evidence-Based Policy-Making]]"
   - "[[Research Universities]]"
+  - "[[Early-Career Researchers]]"
   - "[[Academic Freedom]]"
   - "[[Discourse]]"
   - "[[Cognitive Authority]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-10-26
 ---
 
 > [!actor-grid] 权力—立场矩阵
-> - **改革倡导者 / 运动先锋** [[Research Universities|研究型大学]]青年学者、跨学科科研人员、[[American Association for the Advancement of Science|AAAS]] 等学术团体 — 依托科学实证声誉与[[Academic Freedom|学术自由]]伦理，发起公开集会抵制行政干预。
+> - **改革倡导者 / 运动先锋** [[Research Universities|研究型大学]][[Early-Career Researchers|青年学者]]、跨学科科研人员、[[American Association for the Advancement of Science|AAAS]] 等学术团体 — 依托科学实证声誉与[[Academic Freedom|学术自由]]伦理，发起公开集会抵制行政干预。
 > - **保守抵制者 / 既得利益方** 白宫保守派幕僚、化石能源游说集团 — 质疑气候科学中立性，指责科学共同体是为膨胀研究经费服务的左翼利益集团。
 > - **官方建制 / 调停裁决者** [[United States Congress|美国国会]]两党温和派议员 — 在后续年度联邦预算博弈中抵制白宫对 [[National Institutes of Health|NIH]] 与 [[National Science Foundation|NSF]] 研发经费的断崖式削减，维持基本财政托底。
 > - **广大受影响群体** 大学研究生、博士后、环保非政府组织与公民社会公众 — 体验到科研议题与自身公民权利及民主决策的深度绑定。

@@ -9,7 +9,7 @@ aliases:
 summary: "指知识中介机构与证据门户用于规范、筛选和评定研究证据可信度与相关性的方法学准则、报告标准及功效主张判定体系，用于防范未获充分实证支持的结论误导政策与教学实践"
 type: concept
 domain: "educational-policy-reform"
-related_count: 87
+related_count: 89
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Variable]]"
   - "[[Heterogeneity]]"
+  - "[[Appropriate Research]]"
   - "[[Publication Bias]]"
   - "[[Preregistration]]"
   - "[[Statistical Analysis Plan]]"
@@ -77,6 +78,7 @@ related_persons:
   - "[[Robert Slavin]]"
   - "[[Mark Schneider]]"
   - "[[Stephen Gorard]]"
+  - "[[Ben Levin]]"
 related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[Education Endowment Foundation]]"
@@ -116,7 +118,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -167,7 +169,7 @@ updated: 2026-11-03
 
 > [!dimension] 证据标准的六大运作维度（Gough, 2021, pp. 155–156）
 > - **方法学准则** 界定做出某类证据主张所必需遵循的方法学最低门槛与设计规范。
-> - **方法指南** 为研究者与中介机构提供关于选择何种适切研究方法以提出合理证据主张的操作建议。
+> - **方法指南** 为研究者与中介机构提供关于选择何种[[Appropriate Research|适切研究]]方法以提出合理证据主张的操作建议。
 > - **内部质量保障** 确保中介机构内部研究与综述团队严格按既定规程执行分析的质控程序。
 > - **报告标准** 规范研究实施全过程透明披露的客观指标，确保同行与决策者能独立验证研究质量。
 > - **方法学质评** 系统检视并公开报告纳入研究的真实性、[[Reliability\|可靠性]]及其支撑证据主张的充分程度。
@@ -300,7 +302,7 @@ updated: 2026-11-03
 > - **2004–2015 — 教育清算机构兴起与分级门槛法定化** WWC 逐步成熟并确立因果证据三级定性审查规程（无保留达标 / 有保留达标 / 未达标）；英国设立[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]）推行挂锁评级；美国《[[Every Student Succeeds Act\|每个学生成功法]]案》（ESSA 2015）首次以联邦法律形式确立四级法定证据标准。
 > - **2016–2018 — 多维评价架构探索与 [[EMMIE Framework\|EMMIE]] 框架创立** 针对单一效果指标无法解释复杂社会情境的局限，英国[[What Works Network\|有效性网络]]创立 EMMIE 框架，推动证据标准由单一效果评价拓展为效应、机制、调节变量、实施与经济学评价五维综合架构。
 > - **2018–2022 — 适切性（Fit-for-Purpose）范式与中介自我标准反思** Gough and White (2018) 开展国际 15 个证据门户跨案例调查，揭示打包项目门户“100% 依据 1–2 项单兵研究断言有效”的系统性危机；Gough (2021, 2022) 提炼出六大[[Operationalization\|操作化]]证据标准维度，确立方法学严谨性与决策情境适切性有机融合的元治理范式。
-> - **2019 — 斯莱文系统化分级证据架构与 [[Evidence for ESSA]] 实践** [[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin, 2019）总结全美循证改革经验，对比 [[No Child Left Behind Act 2001\|NCLB]] 与 ESSA，确立以高质量独立测验、$\ge 12$ 周周期、[[Evaluator Independence\|第三方独立评估]]、方案[[Preregistration\|预注册]]与整群多层分析为核心的五大质量约束，依托 Evidence for ESSA 平台推行法定分级审查。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–26)]]
+> - **2019 — 斯[[Ben Levin|莱文]]系统化分级证据架构与 [[Evidence for ESSA]] 实践** [[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin, 2019）总结全美循证改革经验，对比 [[No Child Left Behind Act 2001\|NCLB]] 与 ESSA，确立以高质量独立测验、$\ge 12$ 周周期、[[Evaluator Independence\|第三方独立评估]]、方案[[Preregistration\|预注册]]与整群多层分析为核心的五大质量约束，依托 Evidence for ESSA 平台推行法定分级审查。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–26)]]
 > - **2020 — 戈拉德批判单项[[Research Impact\|研究影响力]]与非阈值可[[Reliability\|信度]]筛子** [[Stephen Gorard\|斯蒂芬·戈拉德]]（[[Stephen Gorard]]）系统批判科研资助机构奖赏“单项研究现实影响力”的学术异化，强调单项研究极少能独立主导政策，主张以贝叶斯叙事式汇总整体证据库；同时提出研究可信度筛子，坚决反对在证据标准中预设机械统计功效与流失率阈值，呼吁彻底停止使用[[Null Hypothesis\|零假设]]显著性检验。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 572–573, 576–578)]]
 > - **2022 — SEER 循证卓越标准重塑联邦实证规范** [[Mark Schneider\|马克·施奈德]]（[[Mark Schneider]]）领导[[Institute of Education Sciences\|美国教育科学院]]全面推行 SEER 九大原则，将研究标准由孤立的因果内部效度，拓展为涵盖成本核算、构件拆解、通用测量工具与教育公平的多维治理生态。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 206–209)]]
 > - **2024 — 地方财政实证审计揭示法定单项门槛与全量证据评价断层** [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] 开展首项针对特大型城市学区 2.88 亿美元 [[Title I of the Elementary and Secondary Education Act\|Title I]] 联邦资金的逐笔细粒度实证审计，量化证实法定单项合格研究门槛（95%–99%）与四大证据库全量综合评价（49%–58%）之间的断崖式差距，指出单项法定标准在未能打破学区师资编制与商业采购惯性的同时，掩盖了教育科研在学段衔接、微观构件与情境迁移上的供给赤字。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 174–178)]]

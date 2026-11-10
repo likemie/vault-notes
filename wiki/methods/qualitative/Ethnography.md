@@ -10,7 +10,7 @@ summary: "源自人类学与社会学的质性研究设计，要求研究者在�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 62
+method_related_count: 64
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Interviewer Effects]]"
   - "[[Epistemology]]"
+  - "[[Research Tool]]"
   - "[[Reflexivity]]"
   - "[[Variable]]"
   - "[[Gatekeepers]]"
@@ -38,6 +39,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Doxa]]"
   - "[[Informed Consent]]"
+  - "[[Transnational Education]]"
   - "[[Hawthorne Effect]]"
   - "[[Halo Effect]]"
   - "[[Analytic Generalization]]"
@@ -91,7 +93,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-30
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 > [!def] Ethnography
@@ -119,7 +121,7 @@ updated: 2026-10-29
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 知识具有情境性、建构性与互为主体性。实在表现为行动者在生活世界中通过日常互动共同赋予意义的产物；研究者通过共在与理解获取知识，超越距离与机械测量的局限。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 403–404)]]
-> - **研究者角色** “人即研究工具”（Human as Instrument）——研究者同时承担参与者与观察者的双重身份。研究者需有效管理自身的“边际性”（Marginality）：在组织之中却不属于组织，在智识上保持熟悉与陌生的平衡，在社交上维持局外人与朋友的张力（Hammersley & Atkinson, 1983; Flick, 1998）。
+> - **研究者角色** “人即[[Research Tool|研究工具]]”（Human as Instrument）——研究者同时承担参与者与观察者的双重身份。研究者需有效管理自身的“边际性”（Marginality）：在组织之中却不属于组织，在智识上保持熟悉与陌生的平衡，在社交上维持局外人与朋友的张力（Hammersley & Atkinson, 1983; Flick, 1998）。
 > - **有效性标准** 依赖长期现场驻留、[[Rich and Thick Description|厚描述]]、[[Triangulation|三角互证]]、成员检查与[[Reflexivity|反身性]]审计。研究结论的有效性不诉诸统计概括力，而表现为情境可比较性（Comparability）与可翻译性（Translatability）（LeCompte & Preissle, 1993）。
 > - **不声称回答的问题** 不能用于估计[[Variable|变量]]间的因果[[Effect Size|效应量]]；不能统计外推至全人口总体；不能单凭外在行为观察武断推测参与者不可见的内在神经心理状态。
 
@@ -162,7 +164,7 @@ updated: 2026-10-29
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 探究复杂[[Organizational Culture|组织文化]]、校园隐性文化与弱势群体生活世界；揭示跨国教育政策在地方学校中的具体运行机制（Monkman & Baird, 2002; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 108–110]]）；追踪教育改革的非预期后果与微观抵制（如 Beech & Artopoulos, 2015 对阿根廷 [[Conectar Igualdad]] 的三年民族志追踪）。
+> - **适合使用** 探究复杂[[Organizational Culture|组织文化]]、校园隐性文化与弱势群体生活世界；揭示[[Transnational Education|跨国教育]]政策在地方学校中的具体运行机制（Monkman & Baird, 2002; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 108–110]]）；追踪教育改革的非预期后果与微观抵制（如 Beech & Artopoulos, 2015 对阿根廷 [[Conectar Igualdad]] 的三年民族志追踪）。
 > - **谨慎使用** 极具对抗性或法律高风险的闭锁现场；研究者与被研究对象存在直接利益冲突或严重心理创伤的情境。
 > - **不适合使用** 追求全域人口统计推论的宏观[[Questionnaire|问卷调查]]；验证孤立因果效应的[[Randomised Controlled Trials|随机对照实验]]；周期极短（数周内必须结项）的咨询项目。
 

@@ -7,7 +7,7 @@ aliases:
 summary: "戴安娜·斯通（Diane Stone）于 2000 年提出的概念，指世界银行在 1990 年代詹姆斯·沃尔芬森任内从传统基建项目放贷机构向以知识生产、研究分发与政策咨询为核心业务的全球智识中枢转型的制度性演变。该模式将教育研究、指标评估与政策处方深度绑定，构成了其推行自指性政策中介的制度基础；然而圈内实务分析表明，纯粹依靠政策咨询收费的设想在现实中难以成立，知识建议的实质约束力与推行效能根本上依赖于巨额主权信贷的资金撬动与约束，且其倡导的政策信条呈现出长达数十年的成熟时滞与周期性摇摆。"
 type: concept
 domain: "comparative-education"
-related_count: 58
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -78,6 +78,7 @@ related_facts:
   - "[[Education for All]]"
   - "[[EdStats]]"
   - "[[World Education Reform Database]]"
+  - "[[Scopus]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Castro_2009_MultilateralBanks]]"
@@ -86,7 +87,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -259,4 +260,4 @@ updated: 2026-11-03
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 运用[[World Education Reform Database|世界教育改革数据库]]实证检验[[World Bank|世界银行]]作为知识银行的自指性[[Policy Brokerage|政策中介]]机制，详述其从[[UNESCO|教科文组织]]依附期到回报率帝国与知识银行演变的全过程（pp. 540–550）。
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员视角反思知识银行的“构想 vs 资金”辩论，指出政策建议之所以被认真采纳根本上依赖于巨额贷款资金的财务约束机制，纯粹知识咨询无法单独发挥改革实效，并揭示了政策理念成熟的长周期与政策风潮的周期性更替（pp. 466, 472–474）。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 揭示世界银行教育贷款仅占受援国预算不足 0.5% 的事实，剖析其转向“知识银行”以微小资金份额捆绑输出西方整套去情境化教育制度愿景的深层机制。
-> - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 基于多源长时段统计与 Scopus 文献计量，系统解构世界银行“知识转向”及涵盖知识生产、管理与传播的三维认知治理体系（pp. 1–11）。
+> - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 基于多源长时段统计与 [[Scopus]] 文献计量，系统解构世界银行“知识转向”及涵盖知识生产、管理与传播的三维认知治理体系（pp. 1–11）。

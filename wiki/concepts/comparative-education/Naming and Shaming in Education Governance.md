@@ -9,7 +9,7 @@ aliases:
 summary: "国际关系与软法治理中的合规机制在教育领域的制度化应用，指超国家机构通过公布跨国联赛排名将参测国区分为“优胜者”与“落后者”，借助大众媒体议程激活国内公众落后恐慌与政治问责，以此倒逼政府启动教育改革的非强制性声誉规制技术"
 type: concept
 domain: "comparative-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Bureaucracy]]"
   - "[[State Educational Sovereignty]]"
+  - "[[Nationalism]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -135,7 +136,7 @@ updated: 2026-11-03
 > > 批评学者指出点名羞辱往往诱发政府追求短期见效的剧场化改革，忽略教育规律。
 > >
 > > - **赵勇（2020）** 指出点名羞辱促使各国陷入恶性应试备战，政策制定者为了避免在三年后的下一轮测评中再次受辱，纷纷采取题海集训与课程机械化对标，严重伤害了学生的真实求知欲与心理福祉。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
-> > - **哈夫纳-伯顿（Hafner-Burton, 2008）** 提醒声誉羞辱是一把双刃剑，过度羞辱有时可能引发参测国的强烈民族主义反弹与防御性退缩，甚至导致退学测退出或全盘否定国际评价的合法性。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 270)]]
+> > - **哈夫纳-伯顿（Hafner-Burton, 2008）** 提醒声誉羞辱是一把双刃剑，过度羞辱有时可能引发参测国的强烈[[Nationalism|民族主义]]反弹与防御性退缩，甚至导致退学测退出或全盘否定国际评价的合法性。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 270)]]
 
 > [!warning] 适用局限
 > 点名羞辱机制的威力建立在一国高度融入国际声誉体系且存在多元自由媒体舆论环境的前提之上；对于媒体受到严密管制的封闭系统或对西方国际指标持对抗态度的国家，排位羞辱不仅无法激发自省，反而会被转译为外部意识形态攻击，从而失效。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 270)]]

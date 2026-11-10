@@ -8,7 +8,7 @@ aliases:
 summary: "由哈里·拉特等学者于2017年在《柳叶刀》提出的循证决策前沿模型，主张破除将政策干预视为封闭线性因果链的传统假定，将政策环境视为具有自适应、多变量涌现与非线性反馈特征的复杂系统，整合多学科证据与利益相关方实践智慧以应对现实治理挑战。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 15
+theory_related_count: 16
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Professional Judgment]]"
   - "[[Technical Rationality]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[AI Agent in Education]]"
 related_theories:
   - "[[Complexity Theory]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -82,7 +83,7 @@ updated: 2026-10-26
 > - **治理结论** 证据采纳必须前置评估政策在多层级官僚系统中的博弈空间，建立具有自适应调整能力的弹性政策设计。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 32, 45)]]
 
 > [!theory-proposition] 命题二｜应对复杂治理难题依赖多学科交叉证据与一线实践智慧的动态整合
-> - **逻辑推导** 复杂的教育贫困与基础学习障碍涉及营养照护、母语方言、宗族文化与社区信任。单一学科的因果研究只能描绘切片真相。
+> - **逻辑推导** 复杂的教育贫困与[[Foundational Literacy and Numeracy|基础学习]]障碍涉及营养照护、母语方言、宗族文化与社区信任。单一学科的因果研究只能描绘切片真相。
 > - **治理结论** 循证中介机构必须搭建连接经济学评估、人类学田野、社会心理学与一线教师经验的综合研讨平台，通过多学科交叉对话重构政策证据组合。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 32–33)]]
 
 ---

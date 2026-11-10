@@ -12,7 +12,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 35
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -37,14 +37,15 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Champ]]"
   - "[[Reliability]]"
+  - "[[Transnational Education]]"
   - "[[Teacher Support for Students]]"
   - "[[Positional Good]]"
   - "[[Epistemic Governance]]"
   - "[[Cognitive Authority]]"
   - "[[Topological Spatialisation]]"
   - "[[Exogenous Privatisation]]"
-  - "[[Document]]"
   - "[[School Autonomy]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Random Sampling]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -106,7 +107,7 @@ updated: 2026-11-02
 >   - 在美国 100 多所学区试点学校、英国与西班牙部分自主公立学校开展试测，验证跨卷本参数与校级抽样[[Reliability|信度]]。[[Argument_Huang_2020_APJE|(Huang & Kan, 2020, p. 423)]]
 > - **2014–2019 — 商业化运作与跨国产品线成型**
 >   - 经合组织正式将项目确定为可购买的衍生测试服务，与[[Baby PISA]]、[[Programme for the International Assessment of Adult Competencies|PIAAC]] 等共同构成全生命周期测量矩阵。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, p. 126)]]
->   - 引入跨国教育巨头（如培生集团、[[Educational Testing Service|ETS]]、澳大利亚 [[Australian Council for Educational Research|ACER]]）分别承担不同国家和语种的施测交付与平台运营。
+>   - 引入[[Transnational Education|跨国教育]]巨头（如培生集团、[[Educational Testing Service|ETS]]、澳大利亚 [[Australian Council for Educational Research|ACER]]）分别承担不同国家和语种的施测交付与平台运营。
 > - **2019–至今 — 数字化平台化扩张与网络拓扑重构**
 >   - 全面推行数字化在线测试与自适应评估，构建全球参测学校网络与校长研讨沙龙。
 >   - 积极向拉美、亚太及中东地区的新兴私立教育集团与[[International Schools|国际学校]]系统渗透，形成脱离主权行政边界的全球新型教育治理网络。[[Argument_Huang_2020_APJE|(Huang & Kan, 2020, p. 424)]]
@@ -157,4 +158,4 @@ updated: 2026-11-02
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Huang_2020_APJE|Huang and Kan (2020)]] — 深度解构[[OECD|经合组织]]如何通过学校版 [[PISA]] 穿透主权国家层级，将微观学校纳入去情境化的全球[[Commensuration|通约]][[Champ|场域]]，对基层管理与课程实施造成[[Epistemology|认识论]]规训。
 > - [[Argument_Grey_2018_CE|Grey and Morris (2018)]] — 揭示经合组织如何借助 PISA 品牌威权拓展包括学校版 PISA 在内的衍生测评产品，实现跨国教育治理的商品化扩张。
-> - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 剖析[[School Autonomy|学校自主]]直连国际数据库、推动微观基层自主对标的文献。
+> - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 剖析[[School Autonomy|学校自主]]直连国际数据库、推动微观基层自主对标的[[Document|文献]]。

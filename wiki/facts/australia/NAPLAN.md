@@ -11,7 +11,7 @@ subtype: program
 region: "australia"
 fact_region: "australia"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Australian Curriculum]]"
+  - "[[Australian Curriculum, Assessment and Reporting Authority]]"
   - "[[Australian Council for Educational Research]]"
   - "[[My School Website]]"
 related_arguments:
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -55,7 +56,7 @@ updated: 2026-10-22
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2008 年由联邦政府联合各州及领地正式启动首次全国统考，每年 5 月周期性实施至今。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
-> - **发起方与资助机制** 由澳大利亚联邦政府出资支持，联邦与各州教育部长理事会共同背书设立，法定执行机构为[[Australian Curriculum|澳大利亚课程]]、评估与报告局（ACARA）。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
+> - **发起方与资助机制** 由澳大利亚联邦政府出资支持，联邦与各州教育部长理事会共同背书设立，法定执行机构为[[Australian Curriculum|澳大利亚课程]]、评估与报告局（[[Australian Curriculum, Assessment and Reporting Authority|ACARA]]）。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
 > - **覆盖范围与对象** 法定覆盖全国所有公立学校、天主教学校及独立私立学校的 3、5、7、9 年级全体在籍学生。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
 > - **核心问题导向** 克服长期以来各州独立测评标准不一、国家学业数据无法横向可比的碎片化格局，为联邦国家教育协议提供透明的绩效基线。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 259)]]
 

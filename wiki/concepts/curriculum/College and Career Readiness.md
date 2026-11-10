@@ -9,7 +9,7 @@ aliases:
 summary: "指高中毕业生进入无须补习的高等学科学分课程或具备发展前景的高技能职业培训所需具备的综合核心素养；它颠覆了传统普通高中学术升学与职业就业的双轨二元割裂，被共同核心州立标准（CCSS）确立为十二年一贯制逆向推导与标准设计的顶层锚点。"
 type: concept
 domain: "curriculum"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,7 +36,8 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[High-Stakes Testing]]"
   - "[[Technical Rationality]]"
-related_theories: []
+related_theories:
+  - "[[Backward Mapping]]"
 related_methods: []
 related_instruments: []
 related_persons:
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-26
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -120,7 +121,7 @@ updated: 2026-11-03
 > **逆向推导与因果衔接** 探讨如何依托终极目标实施逆向课程规划，避免年级间知识断层与教学碎片化。
 
 > [!claim] [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]]
-> **终极锚点驱动课程进阶假说** 研制团队将 CCR 确立为十二年一贯制的最高参照系，颠覆了以往从学前顺流而上的传统编写习惯。起草团队率先由大学教授与行业专家明确十二年级毕业生在学术阅读与高等数学中所必需的认知水准，再自上而下逐级倒推（Backward Mapping）至初中、小学直至幼儿园。这种以 CCR 为终极出口的逆向推导构成了顶层设计的因果安全护栏（Guardrails），不仅消除了各年级之间重复罗列低效知识点与年级间跨度过大的宿疾，而且迫使所有细分标准条文必须证明自身是通往终极大学与职业就绪不可或缺的前置因果环节。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 13–15)]]
+> **终极锚点驱动课程进阶假说** 研制团队将 CCR 确立为十二年一贯制的最高参照系，颠覆了以往从学前顺流而上的传统编写习惯。起草团队率先由大学教授与行业专家明确十二年级毕业生在学术阅读与高等数学中所必需的认知水准，再自上而下逐级倒推（[[Backward Mapping]]）至初中、小学直至幼儿园。这种以 CCR 为终极出口的逆向推导构成了顶层设计的因果安全护栏（Guardrails），不仅消除了各年级之间重复罗列低效知识点与年级间跨度过大的宿疾，而且迫使所有细分标准条文必须证明自身是通往终极大学与职业就绪不可或缺的前置因果环节。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 13–15)]]
 
 ---
 

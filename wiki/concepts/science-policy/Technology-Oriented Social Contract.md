@@ -6,7 +6,7 @@ aliases:
 summary: "以国家地缘竞争、产业全面复兴与绝对安全优势为导向，强调快速获取、工程部署与行政审计关键技术能力的新型科技治理形态，标志着国家与科学共同体关系由认知中心向能力中心的结构性转移。"
 type: concept
 domain: "science-policy"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Pride in Learning]]"
   - "[[Diversity, Equity, and Inclusion]]"
+  - "[[Original Innovation Capability]]"
   - "[[National Innovation System]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[Variable]]"
@@ -49,7 +50,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -120,7 +121,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题三｜技术型社会契约切断科学共同体自我纠错机制从而诱发深层认知脆弱性
-> **制度运行风险与原始创新源头枯竭机制** 这类命题深入剖析以行政高压和即时技术交付为特征的能力契约所隐含的内在不稳定性与系统性长远代价。
+> **制度运行风险与[[Original Innovation Capability|原始创新]]源头枯竭机制** 这类命题深入剖析以行政高压和即时技术交付为特征的能力契约所隐含的内在不稳定性与系统性长远代价。
 
 > [!claim] [[Argument_Fan_2026_BCAS|樊春良 (2026)]]
 > **能力驱动模式的制度脆弱性与创新活水阻断** 认知驱动模式坚持以科学为本位，依靠科学共同体的自我纠错机制不断积累底层战略认知资本；而任务与能力驱动的技术型契约坚持国家利益与即时控制为本位，通过指令性计划与企业采购直接组织技术能力，以程序合规代替专业权威。但由于切断了基础探索的源头活水与学术共同体的自我纠错机制，过度依赖行政高压与短期绩效承诺，一旦国家战略预判发生偏差，整个科技体系将面临系统性认知盲区与原始创新停滞的深层内在脆弱性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1063–1064)]]

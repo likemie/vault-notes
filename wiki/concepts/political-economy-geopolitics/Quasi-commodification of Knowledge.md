@@ -6,7 +6,7 @@ aliases:
 summary: "Jessop (2007) 从 Polanyi 视角提出的概念，描述知识被定价和交换但因其公共品特性而无法完全商品化的半市场状态，解释大学何以像企业运作却不必成为企业"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -25,6 +25,7 @@ related_theories:
   - "[[Academic Capitalism]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Journal Impact Factor]]"
 related_persons: []
 related_facts:
   - "[[Research Excellence Framework]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -47,7 +48,7 @@ updated: 2026-10-22
 > [!example] 概念辨析
 > - vs 商品化（commodification）：商品化指某物被转化为可以在市场上买卖的商品。准商品化则强调转化过程的**不完全性**——知识被推向市场，但始终保留着公共品的残余特性，无法像一袋土豆或一支股票那样被完整地私有化和交易。
 > - vs [[Academic Capitalism]]：学术资本主义描述制度层面的市场化转型——大学日益卷入市场活动。准商品化则更精确地分析市场化在**知识本体层面**的张力——知识作为公共品和潜在商品的矛盾性质，使得学术资本主义始终面临内在的不稳定性。
-> - vs 私有化（privatization）：私有化是将公共资产转移为私人所有。准商品化不一定涉及所有权的转移——它关注的是交易逻辑的渗透，即便在法律所有权不变的情况下（如公开发表的论文被赋予影响因子和引用数的"市场价值"）。
+> - vs 私有化（privatization）：私有化是将公共资产转移为私人所有。准商品化不一定涉及所有权的转移——它关注的是交易逻辑的渗透，即便在法律所有权不变的情况下（如公开发表的论文被赋予[[Journal Impact Factor|影响因子]]和引用数的"市场价值"）。
 
 > [!abstract] 核心张力
 > [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017, pp.804–805)]]通过 Jessop and Reitz 在该期期刊中的分析，揭示了知识准商品化中的三组核心张力：

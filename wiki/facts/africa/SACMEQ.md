@@ -10,7 +10,7 @@ subtype: program
 region: africa
 fact_region: "africa"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Teacher Subject Matter Knowledge]]"
 related_theories: []
 related_methods:
+  - "[[Instrumental Variables]]"
   - "[[Questionnaire]]"
   - "[[Item Response Theory]]"
   - "[[Random Sampling]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -52,7 +53,7 @@ updated: 2026-10-26
 > 东南非教育质量监测联盟（Southern and Eastern Africa Consortium for Monitoring Educational Quality, SACMEQ）是 1995 年由[[International Institute for Educational Planning|联合国教科文组织国际教育规划研究所]]（IIEP）联合南部与东部非洲 15 个国家教育部共同设立的区域大规模[[Academic Achievement|学业成就]]评估项目。该项目专注于采集小学六年级学生的阅读与数学学力数据，并系统监测学校物质设施、[[Teacher Subject Matter Knowledge|教师学科知识]]与教学资源分布，是非洲大陆历史最悠久、政策影响力最深远的区域教育评价基础设施。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 8, 16)]]
 
 > [!program-context] 项目背景
-> - **立项时间 / 周期** 1995 年正式立项并启动首轮调查，常态化按多年度周期推进，已先后完成 SACMEQ I、II、III、IV 四轮跨国大规模调查。
+> - **立项时间 / 周期** 1995 年正式立项并启动首轮调查，常态化按多年度周期推进，已先后完成 SACMEQ I、II、III、[[Instrumental Variables|IV]] 四轮跨国大规模调查。
 > - **官方平台与数据发布** 官方在线门户为 [SEACMEQ (SACMEQ)](https://www.seacmeq.org/)（亦可查阅教科文组织国际教育规划研究所专题库 [IIEP-UNESCO SACMEQ](https://www.iiep.unesco.org/)），提供历轮东南非区域测评报告、政策简报与抽样技术文档。
 > - **发起方与资助机制** 发起方为 [[UNESCO]] IIEP 及 15 个非洲成员国教育部，运行经费依托成员国教育部常态会费分摊，并获得荷兰政府、瑞士发展合作署及多边机构定向赠款资助。
 > - **覆盖范围与对象** 覆盖博茨瓦纳、肯尼亚、莱索托、马拉维、毛里求斯、莫桑比克、纳米比亚、塞舌尔、南非、斯威士兰、坦桑尼亚、乌干达、赞比亚与津巴布韦等 15 个国家，每轮抽样数万名小学六年级学生及其教师与校长。

@@ -8,7 +8,7 @@ aliases:
 summary: "由沃勒斯坦创立的历史社会学宏观理论，将全球资本主义组织为中心、半边缘和边缘三层分工结构，为比较教育学打破方法论民族主义、揭示跨国教育依附链条与国际援助政治经济学提供了核心批判范式。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 41
+theory_related_count: 44
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -19,12 +19,14 @@ tags:
   - comparative-education
 related_concepts:
   - "[[Unit of Analysis]]"
+  - "[[Transnational Education]]"
   - "[[Methodological Nationalism]]"
   - "[[Doxa]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Country Ownership]]"
   - "[[Value Neutrality]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Educational Privatisation]]"
@@ -58,6 +60,7 @@ related_persons:
   - "[[Stanford School]]"
   - "[[Doreen Massey]]"
 related_facts:
+  - "[[Web of Science]]"
   - "[[World Bank]]"
   - "[[International Monetary Fund]]"
 related_arguments:
@@ -67,7 +70,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-12'
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -80,7 +83,7 @@ updated: 2026-11-02
 >
 > *The only true social system is the world-system... There is no such thing as 'national development'. What we call national development is simply the projection of the capitalist world-economy's overall evolution onto particular geographical spaces. (Wallerstein, 1974, p. 390)*
 
-> [!citation-card] [[Robert Arnove|阿诺夫]]论世界体系分析揭示跨国教育依附与不平等传递
+> [!citation-card] [[Robert Arnove|阿诺夫]]论世界体系分析揭示[[Transnational Education|跨国教育]]依附与不平等传递
 > 世界体系分析不仅拓展了宏观分析，将真正国际体系中的教育机构行为纳入视野，而且深化了我们对学校和课堂微观系统中变革与冲突根源的理解……将教育政策倡议与国际经济秩序的运作联系起来，有助于解释为何在如此多的案例中，扩张与改革都未能实现教育或社会的结构性变革，以及外部引发的教育革新为何可能反而固化了国内外既有的分层系统。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 106)]]
 >
 > *World-systems analysis not only expands macro analyses to take into [[Accounts|account]] the actions of educational agencies in a truly international system, but it enhances our understanding of the sources of change and conflict in the micro system of school and classroom... linking education policy initiatives to the workings of an international economic order helped explain why expansion and reform, in so many cases, have failed to effect structural change in education or society, and indeed, why externally induced educational innovation may contribute to perpetuation of existing stratification systems within and between countries.*
@@ -116,7 +119,7 @@ updated: 2026-11-02
 > - **1974–1980 — [[Immanuel Wallerstein|沃勒斯坦]]创立宏观分析[[Paradigm|范式]]** 沃勒斯坦深入西非去殖民化实地考察后，出版四卷本巨著首卷《现代世界体系》（*The Modern World-System I*, 1974），将资本主义世界经济起源追溯至“漫长的 16 世纪”，奠定中心-半边缘-边缘宏观理论范式。
 > - **1980–1982 — [[Robert Arnove|阿诺夫]]引入比较教育学（第四阶段[[Discourse|话语]]的激进突破）** [[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove, 1980）发表纲领性论文《比较教育与世界体系分析》，率先将体系分析引入比较教育学；在比较教育学第四阶段话语（Discourse 4, 1970–1990）中，该理论成为颠覆[[Structural Functionalism|结构功能主义]]与[[Human Capital Theory|人力资本理论]]神话的核心基石（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a, pp. 152–153]]）。
 > - **1990s–2000s — 全球与本土辩证法的综合发展** 为克服宏观体系决定的机械倾向，阿诺夫与[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]（Carlos Alberto Torres, 1999）构建“[[Dialectic of the Global and the Local|全球化与本土实践的辩证法]]”，将世界体系宏观政治经济学与微观学校[[Ethnography|民族志]]相贯通，并提出[[Globalization from Below|自下而上的全球化]]抗争构想。
-> - **2010s–至今 — 全球科学网络与[[Geopolitics of Higher Education|高等教育地缘政治]]反思** 世界体系理论被广泛应用于全球高等教育与[[Geopolitics of Knowledge|知识地缘政治]]研究（Olechnicka et al., 2019）；同时，以西蒙·马金森（Simon Marginson, 2025）为代表的学者批判其刚性空间假设与零和剩余偏见，推动多标度国家自主性研究。
+> - **2010s–至今 — 全球[[Web of Science|科学网]]络与[[Geopolitics of Higher Education|高等教育地缘政治]]反思** 世界体系理论被广泛应用于全球高等教育与[[Geopolitics of Knowledge|知识地缘政治]]研究（Olechnicka et al., 2019）；同时，以西蒙·马金森（Simon Marginson, 2025）为代表的学者批判其刚性空间假设与零和剩余偏见，推动多标度[[Country Ownership|国家自主性]]研究。
 
 ---
 

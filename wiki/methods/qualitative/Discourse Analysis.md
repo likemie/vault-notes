@@ -5,7 +5,7 @@ summary: "以日常谈话和文本中的语言使用为研究对象的方法，�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 66
+method_related_count: 67
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Policy Framing]]"
   - "[[Champ]]"
   - "[[Ideal Speech Situation]]"
+  - "[[Transnational Education]]"
   - "[[Grand Theory]]"
   - "[[Reliability]]"
   - "[[Scientific Explanation]]"
@@ -87,7 +88,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -188,7 +189,7 @@ updated: 2026-10-30
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 运用跨国多边政策[[Discourse|话语]]比较分析解构[[UNESCO|联合国教科文组织]]、[[World Bank|世界银行]]与[[OECD|经合组织]]政策文本中的深层预设同构，揭示信息时代通用模型对受援国政策[[Discursive Field|话语空间]]的排他性收拢机制。
-> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 结合费尔克拉夫三维[[Critical Discourse Analysis|批判性话语分析]]（文本框架、话语实践互文性、宏观社会实践）与巴斯卡[[Explanatory Critique|解释性批判]]，系统解构中国“[[Belt and Road Initiative|一带一路]]”跨国高等教育政策文本的深层地缘机制与国家复兴[[Grand Theory|宏大叙事]]。
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 结合费尔克拉夫三维[[Critical Discourse Analysis|批判性话语分析]]（文本框架、话语实践互文性、宏观社会实践）与巴斯卡[[Explanatory Critique|解释性批判]]，系统解构中国“[[Belt and Road Initiative|一带一路]]”[[Transnational Education|跨国高等教育]]政策文本的深层地缘机制与国家复兴[[Grand Theory|宏大叙事]]。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|Cohen et al. (2011, Ch. 22–23, 31)]] — 系统介绍[[Discourse|话语]]分析定义及其批判维度，并通过课堂会话与自传示范完整文本的情境化多层解释（另见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|Ch. 31]]）。
 > - [[Argument_Duncan_2025_CI|Duncan and Chinn (2025)]] — 运用话语分析解析七年级科学课堂围绕生物种群观察证据的论辩对话，揭示学生如何反思观察[[Reliability|可靠性]]条件。
 > - [[Argument_Grey_2018_CE|Grey and Morris (2018)]] — 运用话语分析与[[Narrative Analysis|叙事分析]]对比 [[OECD]] 文本、议会声明与媒体报道，揭示政客如何利用危机修辞扭曲评估事实以服务本土议程。

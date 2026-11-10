@@ -7,10 +7,10 @@ aliases:
 summary: "以国家为中心、将空间视为可占有客观地理实体的传统地缘政治范式，以社会有机体论为理论基石，关注领土控制、军事力量和硬实力竞争；在高等教育与跨国合作研究中构成理解高等教育摆脱国家中心主义的对照基线，并直面当代南南合作互利共赢范式的理论与实践对冲。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 38
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - classical-geopolitics
   - geopolitics
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Unit of Analysis]]"
   - "[[Paradigm]]"
+  - "[[Transnational Education]]"
   - "[[South-South Cooperation]]"
   - "[[Hard Power]]"
   - "[[Geopolitics of Knowledge]]"
@@ -39,8 +40,10 @@ related_concepts:
   - "[[Mutual Learning]]"
   - "[[Soft Power]]"
   - "[[Knowledge Diplomacy]]"
+  - "[[Study Abroad]]"
   - "[[Social Imaginary]]"
   - "[[Geopolitics of Higher Education]]"
+  - "[[Scientific Mobility]]"
 related_theories:
   - "[[Critical Geopolitics]]"
 related_methods:
@@ -64,7 +67,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -72,7 +75,7 @@ updated: 2026-11-03
 > [!def] Classical Geopolitics
 > **古典[[Geopolitics|地缘政治]]（Classical Geopolitics，亦称传统地缘政治）** 是指以主权民族国家为基本[[Unit of Analysis|分析单元]]、聚焦硬性领土权力与势力范围划分的传统地缘政治[[Paradigm|范式]]。该范式涉及划定国家法定边界、将民族塑造为确定疆界、通过空间性强制技术构建国内秩序、依托军事技术控制陆海空关键战略空间，并为国家的领土与资源主张提供地理与历史合法性辩护。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 25–26)]]
 >
-> 理论渊源上，古典地缘政治将国家比拟为处于自我保全与空间扩张斗争中的社会有机体（Ratzel, 1896），以麦金德（H. Mackinder）的“陆权论”（1904）、马汉（A. Mahan）的“海权论”（1890）以及斯派克曼（N. Spykman）的“边缘地带论”为经典支柱。在当代跨国高等教育与发展合作研究中，古典地缘政治常作为对照基线，用以反衬超越零和博弈的[[South-South Cooperation|南南合作]]与多边互惠网络。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 3–4)]]; [[Argument_King_2020_ECNUROE|(King, 2020, pp. 231–233)]]
+> 理论渊源上，古典地缘政治将国家比拟为处于自我保全与空间扩张斗争中的社会有机体（Ratzel, 1896），以麦金德（H. Mackinder）的“陆权论”（1904）、马汉（A. Mahan）的“海权论”（1890）以及斯派克曼（N. Spykman）的“边缘地带论”为经典支柱。在当代[[Transnational Education|跨国高等教育]]与发展合作研究中，古典地缘政治常作为对照基线，用以反衬超越零和博弈的[[South-South Cooperation|南南合作]]与多边互惠网络。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 3–4)]]; [[Argument_King_2020_ECNUROE|(King, 2020, pp. 231–233)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将地缘政治理解为国家间围绕地理疆域、自然资源与战略咽喉展开的[[Hard Power|硬实力]]排他性争夺，空间被设定为先验、客观且可物理割裂的实体容器。
@@ -187,7 +190,7 @@ updated: 2026-11-03
 > - **对跨国知识要素流动的解释贫困** 在[[Knowledge-Based Economy|知识经济]]时代，跨国资本、高技能人才与创新思想的穿梭流动无法被单纯的领土边界模型所规训，过度强调[[Hard Power|硬实力]]导致对[[Soft Power|软实力]]与[[Knowledge Diplomacy|知识外交]]视而不见。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 90–91)]]
 
 > [!warning] 适用局限
-> 古典[[Geopolitics|地缘政治]]框架高度适用于主权边界刚性冲突、领土主权争端与战时封锁等情境；但在解释多边大学联盟、民间留学潮与跨境科研攻关等柔性教育交往时存在显著解释盲区。
+> 古典[[Geopolitics|地缘政治]]框架高度适用于主权边界刚性冲突、领土主权争端与战时封锁等情境；但在解释多边大学联盟、民间[[Study Abroad|留学]]潮与跨境科研攻关等柔性教育交往时存在显著解释盲区。
 
 ---
 
@@ -198,4 +201,4 @@ updated: 2026-11-03
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 追溯“geopolitics”词源及其从神学属性到地缘政治教义的演变，剖析古典领土权力逻辑在贸易争端中的典型表现。
 > - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] — 论述古典领土权力逻辑在当代仍与[[Relational Space|关系性空间]]想象共构运作，并作为理解高等教育从民族国家框架中脱嵌的对照基线。
 > - [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]] — 以 Massey 关系性空间理论重新定义地缘政治，主张超越古典国家中心与领土绝对主义框架。
-> - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 将古典地缘政治定位为[[Geopolitics of Higher Education|高等教育地缘政治]]研究的逻辑起点，剖析美苏冷战[[Fulbright Program|富布莱特计划]]等学术流动工具化案例，阐释其对高等教育能动性分析的盲区。
+> - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 将古典地缘政治定位为[[Geopolitics of Higher Education|高等教育地缘政治]]研究的逻辑起点，剖析美苏冷战[[Fulbright Program|富布莱特计划]]等[[Scientific Mobility|学术流动]]工具化案例，阐释其对高等教育能动性分析的盲区。

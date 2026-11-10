@@ -11,7 +11,7 @@ subtype: organization
 region: finland
 fact_region: "finland"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -26,36 +26,42 @@ tags:
   - tripartism
   - region/finland
 related_concepts:
-  - "[[School Autonomy]]"
+  - "[[New Public Management]]"
+  - "[[Normal School]]"
+  - "[[Class Size]]"
+  - "[[Education Export]]"
+  - "[[Transnational Education]]"
+  - "[[Global Education Reform Movement]]"
+  - "[[School Choice]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Direct Instruction]]"
-  - "[[Internalised Centralisation]]"
+  - "[[Individualised Instruction]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Pasi Sahlberg]]"
-  - "[[Hannu Simola]]"
-  - "[[Gabriel Heller Sahlgren]]"
 related_facts:
+  - "[[OECD]]"
   - "[[1979 Finnish Teacher Education Reform]]"
-  - "[[Comprehensive School Reform in Finland]]"
   - "[[Finnish National Board of Education]]"
+  - "[[Comprehensive School Reform in Finland]]"
 related_arguments:
   - "[[Argument_Sahlgren_2015_CPS]]"
   - "[[Argument_Kuortti_2025_JEdPolicy]]"
 confidence: high
 status: completed
 created: 2026-11-08
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定位
-> 芬兰教育工会（OAJ）是芬兰涵盖学前、初等、中等与高等教育全体教师的独占性行业工会，凭借逾 95% 的超高入会率与法定的三方社会协商机制，成为深度参与芬兰教育法案制定、捍卫教师专业地位与抵制新公共管理绩效考核的关键制度力量。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 18–19, 38)]]
+> 芬兰教育工会（OAJ）是芬兰涵盖学前、初等、中等与高等教育全体教师的独占性行业工会，凭借逾 95% 的超高入会率与法定的三方社会协商机制，成为深度参与芬兰教育法案制定、捍卫教师专业地位与抵制[[New Public Management|新公共管理]]绩效考核的关键制度力量。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 18–19, 38)]]
 
 > [!org-context] 机构背景
-> - **成立时间与整合背景** 1973 年由原国民学校教师协会与中等学校教师工会等多个独立团体合并建立，旨在配合[[Comprehensive School Reform in Finland|综合学校改革]]建立全国统一的教师专业代表组织。
+> - **成立时间与整合背景** 1973 年由原国民学校教师协会与中等学校教师工会等多个独立团体合并建立，旨在配合综合学校改革建立全国统一的教师专业代表组织。
 > - **总部地点与会员覆盖** 总部设于赫尔辛基，直属会员逾 11 万人，覆盖全国从幼儿园教师、综合学校教师、高中教师直至职业与应用科技大学教职员的 95% 以上。
 > - **法人属性与组织网络** 隶属于芬兰专业与管理人员工会中央联合会（AKAVA）的非营利自治法人，依靠全额会员会费运作，在政治与财务上保持完全独立。
 > - **核心使命与法定职能** 与中央政府及地方市镇雇主联合会开展全国集中集体谈判，签订具有法律强制约束力的全行业工资工时协议；参与国家核心大纲编制，捍卫教师课堂教学法裁量权。
@@ -65,7 +71,7 @@ updated: 2026-11-09
 > [!org-evolution] 组织发展历程
 > - **1973–1979** **全行业整合与硕士化学历门槛推进**
 >
->   推动全国不同学段教师编制待遇并轨，全力配合并推动出台[[1979 Finnish Teacher Education Reform|1979年师范教育改革法案]]。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 18–19)]]
+>   推动全国不同学段教师编制待遇并轨，全力配合并推动出台1979年[[Normal School|师范教育]]改革法案。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 18–19)]]
 >
 >   - **1973** 教师团体正式整合成立 OAJ，实现全国公立教师工会大一统。
 >   - **1979** 成功确立中小学教师全面硕士化准入门槛，并将教师薪资与学术资格挂钩。
@@ -79,10 +85,10 @@ updated: 2026-11-09
 >
 > - **1996–至今** **工时标准维护与教育财政紧缩抗争**
 >
->   面对 2008 年后的财政紧缩与地方并校潮，工会持续为教师工作负荷与班额控制发声。
+>   面对 2008 年后的财政紧缩与地方并校潮，工会持续为教师工作负荷与[[Class Size|班额]]控制发声。
 >
 >   - **2014** 参与审议 2014 国家核心课程大纲，捍卫分科学科教师的基本课时与备课保障。
->   - **2018** 协同教育部与哈梅应用科学大学支持启动首期教育出口专业化微专业培训，将教职人员专业发展延伸至跨国教育服务与商业技能领域。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 8)]]
+>   - **2018** 协同教育部与哈梅应用科学大学支持启动首期[[Education Export|教育出口]]专业化微专业培训，将教职人员专业发展延伸至[[Transnational Education|跨国教育]]服务与商业技能领域。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 8)]]
 >   - **2020** 推动议会通过延长义务教育年限至 18 岁的高中免费化法案。
 
 ---
@@ -103,9 +109,9 @@ updated: 2026-11-09
 ---
 
 > [!finding-cards] 制度功能与宏观后果
-> - **筑牢教师职业社会声望的制度屏障** 借助集体谈判，工会使芬兰教师薪酬保持在接近 OECD 均值的高位，并确保了终身教职稳定性，为持续吸引全国顶尖前 10% 优秀生源从教提供了物质基础。
-> - **成功拦截英美式 GERM 政策渗透** 坚决抵制学校排名、市场化择校券制度与基于学生测验成绩的教师解聘机制，使芬兰成为极少数完全未受全球教育改革运动（GERM）洗礼的西方国家之一。
-> - **构筑教学法转向的保守防波堤** 基层教师借助工会的强力组织后盾，能够在面对自上而下行政推行的时髦建构主义试验时保持强大抗辩权，使得高度严谨的直接讲授传统得以长期存续。
+> - **筑牢教师职业社会声望的制度屏障** 借助集体谈判，工会使芬兰教师薪酬保持在接近 [[OECD]] 均值的高位，并确保了终身教职稳定性，为持续吸引全国顶尖前 10% 优秀生源从教提供了物质基础。
+> - **成功拦截英美式 [[Global Education Reform Movement|GERM]] 政策渗透** 坚决抵制学校排名、市场化[[School Choice|择校]]券制度与基于学生测验成绩的教师解聘机制，使芬兰成为极少数完全未受全球教育改革运动（GERM）洗礼的西方国家之一。
+> - **构筑教学法转向的保守防波堤** 基层教师借助工会的强力组织后盾，能够在面对自上而下行政推行的时髦[[Constructivist Paradigm|建构主义]]试验时保持强大抗辩权，使得高度严谨的[[Direct Instruction|直接讲授]]传统得以长期存续。
 
 ---
 
@@ -115,7 +121,7 @@ updated: 2026-11-09
 > > 肯定者赞赏工会捍卫了芬兰教育公共性与教师尊严；批评者则指责其强大的否决权阻碍了急需的学校组织灵活性与数字时代教学变革。
 > >
 > > - **专业守护视角** 工会抵抗了盲目的外部官僚干预与市场化短期功利考核，保障了教育环境的长期稳定与师生互信。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 18–19)]]
-> > - **阻碍变革视角** 严苛的集体合同工时条款限制了跨学科协同授课与个别化指导的落地，加剧了教育系统应对学业滑坡的制度惰性。
+> > - **阻碍变革视角** 严苛的集体合同工时条款限制了跨学科协同授课与[[Individualised Instruction|个别化指导]]的落地，加剧了教育系统应对学业滑坡的制度惰性。
 
 ---
 

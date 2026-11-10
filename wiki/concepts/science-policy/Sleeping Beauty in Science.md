@@ -10,10 +10,10 @@ aliases:
 summary: "由 Anthony van Raan (2004) 命名并形式化界定的非典型引文动力学构念；指成果公开发表后经历数年至数十年的低被引休眠期，随后因跨学科范式演进或关键突破被外部共同体独立发现而迎来爆发性引文唤醒的演化轨迹。在综合顶级期刊中发生率超 7%，双峰拓展模型可精确拟合 90% 以上案例（Wang & Barabási, 2021）。"
 type: concept
 domain: "science-policy"
-related_count: 15
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 28
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 concept_field: "science-policy"
 concept_related_count: 0
 concept_related_level: 0
@@ -24,47 +24,60 @@ tags:
   - theme/scientometrics
   - theme/citation-dynamics
 related_concepts:
+  - "[[Document]]"
+  - "[[Construct]]"
+  - "[[Cumulative Innovation]]"
+  - "[[Paradigm]]"
+  - "[[Second Act in Science]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
+  - "[[Champ]]"
+  - "[[Citation Aging]]"
+  - "[[Variable]]"
   - "[[Citation Distribution]]"
   - "[[Citation Disparity]]"
-  - "[[Document]]"
-  - "[[Paradigm]]"
 related_theories:
   - "[[WSB Model]]"
-  - "[[Bianconi-Barabási Model]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
+  - "[[Journal Impact Factor]]"
+  - "[[Effect Size]]"
+  - "[[Network Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Eugene Garfield]]"
   - "[[Paul Erdős]]"
+  - "[[Santo Fortunato]]"
   - "[[Dashun Wang]]"
+  - "[[Chaoming Song]]"
   - "[[Albert-László Barabási]]"
-related_facts: []
+related_facts:
+  - "[[Research in Schools Evaluation]]"
+  - "[[SciSciNet]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
-  - "[[Argument_Lin_2023_SciData]]"
   - "[[Argument_Fortunato_2018_Science]]"
+  - "[[Argument_Lin_2023_SciData]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: active
 created: "2026-10-31"
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Sleeping Beauty in Science
-> 科学中的睡美人现象（Sleeping Beauty in Science），亦称学术成果的延迟认可（Delayed Recognition），是由荷兰科学计量学家安东尼·范拉恩（Anthony van Raan）于 2004 年系统形式化界定的文献引文动力学构念。指某些具有深远原创意义的学术成果在公开发表后的漫长岁月里鲜少受到学术共同体关注、年均被引维持在极低基底（处于“沉睡状态”），而在数年至数十年后突然被后续研究独立发现或因外部学科范式转换而被重新激活，进而迎来引文爆发性攀升（被“唤醒”）的非典型演化轨迹。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 213–214)]]
+> 科学中的睡美人现象（Sleeping Beauty in Science），亦称学术成果的延迟认可（Delayed Recognition），是由荷兰[[Bibliometric Analysis|科学计量学]]家安东尼·范拉恩（Anthony van Raan）于 2004 年系统形式化界定的[[Document|文献]]引文动力学[[Construct|构念]]。指某些具有深远原创意义的学术成果在公开发表后的漫长岁月里鲜少受到学术共同体关注、年均被引维持在极低基底（处于“沉睡状态”），而在数年至数十年后突然被[[Cumulative Innovation|后续研究]]独立发现或因外部学科[[Paradigm|范式]]转换而被重新激活，进而迎来引文爆发性攀升（被“唤醒”）的非典型演化轨迹。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 213–214)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向科技成果价值认定过程中的非线性与滞后反馈机制，反映出学术界对高度偏离当时主流范式成果的认知延迟。
-> - **用途** 帮助科学社会学与科研评价体系识别被短期指标（如两年期影响因子）严重低估的前瞻性理论突破，重构长周期成果甄别规程。
+> - **用途** 帮助科学社会学与科研评价体系识别被短期指标（如两年期[[Journal Impact Factor|影响因子]]）严重低估的前瞻性理论突破，重构长周期成果甄别规程。
 > - **边界** 严格区别于恒久无人问津的平庸文献（平庸文献缺乏后续爆发阶段），亦不同于发表即受追捧随后平缓老化的常规跳跃衰减型成果。
 
-> [!citation-card|notitle] 科学文献中的睡美人与二次激活轨迹
-> 部分成果的引文轨迹偏离了标准的起伏演化模型，主要呈现为两类非典型形态。第一类是“睡美人”，即研究成果的重要性在发表多年后才获得共同体迟来的认可。加菲尔德 1955 年引入引文索引的经典论著便是典型代表：发表于 1955 年的成果，直到 2000 年随着引文网络研究的兴起才彻底苏醒。另一些睡美人的苏醒则源于被全新的学术共同体独立发现，如埃尔德什与雷尼 1959 年关于随机网络的奠基成果，随着 21 世纪网络科学的诞生迎来了被引的爆发性扩张。第二类形态是二次爆发：巴丁、库珀与施里弗（BCS）1957 年发表的超导理论论著在早年迅速达峰并斩获诺贝尔物理学奖，其后同行热情消退并在 1985 年触底；而 1986 年高温超导的重大发现让 BCS 论著重新获得巨大关注，迎来引文的二次爆发。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 213–214)]]
+> [!citation-card|notitle] 科学文献中的睡美人与[[Second Act in Science|二次激活]]轨迹
+> 部分成果的引文轨迹偏离了标准的起伏演化模型，主要呈现为两类非典型形态。第一类是“睡美人”，即研究成果的重要性在发表多年后才获得共同体迟来的认可。[[Eugene Garfield|加菲尔德]] 1955 年引入引文索引的经典论著便是典型代表：发表于 1955 年的成果，直到 2000 年随着引文网络研究的兴起才彻底苏醒。另一些睡美人的苏醒则源于被全新的学术共同体独立发现，如[[Paul Erdős|埃尔德什]]与雷尼 1959 年关于随机网络的奠基成果，随着 21 世纪网络科学的诞生迎来了被引的爆发性扩张。第二类形态是二次爆发：巴丁、库珀与施里弗（BCS）1957 年发表的超导理论论著在早年迅速达峰并斩获诺贝尔物理学奖，其后同行热情消退并在 1985 年触底；而 1986 年高温超导的重大发现让 BCS 论著重新获得巨大关注，迎来引文的二次爆发。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 213–214)]]
 >
-> *There are some papers whose citations deviate from the typical rise-and-fall trajectories... First, there are "sleeping beauties," papers whose importance is not recognized until years after publication. The classic paper by Garfield that introduced citation indices offers a fine example. Published in 1955, it only "awoke" after 2000, thanks to an increased interest in citation networks. Other sleeping beauties only awaken when they are independently discovered by a new scientific community... The "theory of superconductivity" paper by Bardeen, Cooper, and Schrieffer (BCS) offers an example of a "second act"... helping it experience a "second act."*
+> *There are some papers whose citations deviate from the typical [[Research in Schools Evaluation|rise]]-and-fall trajectories... First, there are "sleeping beauties," papers whose importance is not recognized until years after publication. The classic paper by Garfield that introduced citation indices offers a fine example. Published in 1955, it only "awoke" after 2000, thanks to an increased interest in citation networks. Other sleeping beauties only awaken when they are independently discovered by a new scientific community... The "theory of superconductivity" paper by Bardeen, Cooper, and Schrieffer (BCS) offers an example of a "second act"... helping it experience a "second act."*
 
 > [!boundary]- 概念边界
 > - 不等于 恒久沉默的未被引文献：睡美人成果具有极高的内生质量与长程理论穿透力，具备明确的后期醒觉攀升拐点。
@@ -77,16 +90,16 @@ updated: 2026-11-03
 > |---|---|---|---|
 > | **达峰时序** | 极度延迟（通常发表 10 至 50 年后） | 快速达到（发表后 2 至 3 年内） | 双峰演化（初期达峰后衰减，隔数十年二次达峰） |
 > | **休眠深度** | 极低（年均获引接近 0 至 2 次） | 几乎无休眠（发表即进入上升通道） | 中期经历低谷（首次衰减后年均获引大幅跌落） |
-> | **激活机制** | 全新交叉学科诞生或跨学科学者转移挖掘 | 载文期刊短期曝光与当前学术热点扩散 | 外部重大理论突破或新材料发现的机制溯源 |
+> | **激活机制** | 全新[[Comparative Education as a Cross-Sectional Area\|交叉学科]]诞生或跨学科学者转移挖掘 | 载文期刊短期曝光与当前学术热点扩散 | 外部重大理论突破或新材料发现的机制溯源 |
 > | **代表案例** | [[Eugene Garfield\|加菲尔德]] (1955) 引文索引专论；[[Paul Erdős\|埃尔德什]]与雷尼 (1959) 随机图论专论 | 绝大多数自然科学与社会科学期刊常规论著 | 巴丁、库珀与施里弗 (1957) BCS 超导理论论著 |
 
 ---
 
 > [!feature] 核心要素
-> - **概念新颖性与当时范式的认知隔阂** 睡美人成果往往超前于当时所属学科的主流认知框架；提出者给出的技术方案或数学构架在当时缺乏实验手段验证或应用场域，导致同行共同体无法即时评估其真实价值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, p. 209)]]
+> - **概念新颖性与当时范式的认知隔阂** 睡美人成果往往超前于当时所属学科的主流认知框架；提出者给出的技术方案或数学构架在当时缺乏实验手段验证或应用[[Champ|场域]]，导致同行共同体无法即时评估其真实价值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, p. 209)]]
 > - **跨学科共同体的独立发现** 许多睡美人成果的唤醒力量来自提出者学科之外的全新领域。例如数学界纯粹图论体系下的埃尔德什-雷尼随机网络模型，在计算机科学、系统生物学与物理网络学者介入后，被重新阐释为复杂系统的基准拓扑，实现了引用生态的跨界引爆。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, p. 213)]]
 > - **多学科顶刊中的稳定发生概率** 在综合性与多学科顶级学术期刊（如 Nature、Science、PNAS）刊载的成果中，睡美人文献的占比超过 7%，证实非典型长周期演化在顶尖科学成果中属于切实存在的稳定现象。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, p. 213)]]
-> - **引文动力学多峰模型拓展** 结合 [[WSB Model|WSB 模型]] 的动力学方程，研究者引入第二峰值或双重激活概率机制，能够对科学界约 90% 的睡美人与二次爆发非典型轨迹实现精确拟合与预测。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 213–214)]]
+> - **引文动力学多峰模型拓展** 结合 WSB 模型 的动力学方程，研究者引入第二峰值或双重激活概率机制，能够对科学界约 90% 的睡美人与二次爆发非典型轨迹实现精确拟合与预测。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 213–214)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -130,11 +143,11 @@ updated: 2026-11-03
 
 > [!dev-timeline] 概念演变
 > - **2004 — 科学睡美人概念形式化定义** 安东尼·范拉恩（Anthony van Raan）在《科学计量学》刊文，正式界定睡美人现象，建立休眠深度、休眠长度与醒觉强度的参数化测度指标。
-> - **2013 — WSB 模型的多峰拟合拓展** 王大顺、宋超明与巴拉巴西将引文动力学的老化函数拓展为包含二次激活或双峰结构的存活概率，成功拟合与预测约 90% 的非典型文献轨迹。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang et al., 2013, via Wang & Barabási, 2021, pp. 213–214)]]
+> - **2013 — WSB 模型的多峰拟合拓展** [[Dashun Wang|王大顺]]、[[Chaoming Song|宋超明]]与[[Albert-László Barabási|巴拉巴西]]将引文动力学的老化函数拓展为包含二次激活或双峰结构的存活概率，成功拟合与预测约 90% 的非典型文献轨迹。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang et al., 2013, via Wang & Barabási, 2021, pp. 213–214)]]
 > - **2015 — 跨学科全量文献普查与普遍性确立** 柯庆（Qing Ke）等人对全量科技文献展开系统普查，证实睡美人现象在自然科学各分支广泛存在，在多学科顶级期刊中发生率超 7%。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Ke et al., 2015, via Wang & Barabási, 2021, p. 213)]]
-> - **2018 — 科学学引文生命周期综述与常规模型边界** 福图纳托等在《科学》综述中将睡美人界定为突破常规三参数引文老化与重标度主曲线模型的非线性动力学特例，强调警惕短期指标对前瞻成果的抹杀。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 3)]]
+> - **2018 — 科学学引文生命周期综述与常规模型边界** 福图纳托等在《科学》综述中将睡美人界定为突破常规三参数[[Citation Aging|引文老化]]与重标度主曲线模型的非线性动力学特例，强调警惕短期指标对前瞻成果的抹杀。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 3)]]
 > - **2021 — 科学学非典型引文动力学生态集成** 王大顺与巴拉巴西在《科学学》中系统集成睡美人与二次爆发机制，将其作为反思短期期刊影响因子评价陷阱的基石案例。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 213–214)]]
-> - **2023 — 大规模科学学数据湖复现睡美人动力学规律（[[Argument_Lin_2023_SciData|Lin et al., 2023]]）** 林泽、尹亚楠、刘鲁与王大顺开源构建 SciSciNet 数据湖，对 5,270 万篇文献全量解算睡美人参数，实证证实睡美人系数服从幂律分布（$\alpha = 2.40$），并量化确证唤醒过程显著依赖跨学科施引。
+> - **2023 — 大规模[[SciSciNet|科学学数据湖]]复现睡美人动力学规律（[[Argument_Lin_2023_SciData|Lin et al., 2023]]）** 林泽、尹亚楠、刘鲁与王大顺开源构建 SciSciNet 数据湖，对 5,270 万篇文献全量解算睡美人参数，实证证实睡美人系数服从幂律分布（$\alpha = 2.40$），并量化确证唤醒过程显著依赖跨学科施引。
 
 ---
 
@@ -153,13 +166,13 @@ updated: 2026-11-03
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit09\|Ke et al. (2015)]] | 多学科与综合顶级学术期刊（如 Nature、Science、PNAS）全量成果 | 跨学科引文时序轨迹参数聚类与大样本计量分析 | 睡美人文献占比 | 多学科顶级期刊中符合睡美人特征的非典型长周期成果占比超过 7% | 跨领域全样本检验 | 证实延迟认可在顶尖科学突破中属于稳定存在的客观演化模式 |
-> | [[Argument_Lin_2023_SciData\|Lin et al. (2023)]] | SciSciNet 收录的 52,699,363 篇学术出版物 | 极大似然估计与跨学科引文网络分析 | 睡美人系数（B）分布及幂律参数 | 睡美人系数呈幂律分布，幂律指数 $\alpha = 2.40$，$B_m = 23.59$；高 $B$ 值成果显著依赖学科外施引唤醒 | — | 确证跨学科外部引用对打破认知延迟的关键作用 |
+> | [[Argument_Lin_2023_SciData\|Lin et al. (2023)]] | SciSciNet 收录的 52,699,363 篇学术出版物 | 极大似然估计与跨学科引文[[Network Analysis\|网络分析]] | 睡美人系数（B）分布及幂律参数 | 睡美人系数呈幂律分布，幂律指数 $\alpha = 2.40$，$B_m = 23.59$；高 $B$ 值成果显著依赖学科外施引唤醒 | — | 确证跨学科外部引用对打破认知延迟的关键作用 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit09\|Wang et al. (2013)]] | 《物理评论》及跨学科百年引文数据库中非典型文献轨迹 | 双峰引文动力学模型极大似然拟合 | 拓展模型拟合优度与覆盖比例 | 引入二次激活概率的双峰拓展 WSB 模型能够成功拟合与预测约 90% 的非典型文献轨迹 | 封闭解析公式微观检验 | 确证异常轨迹依然受可量化的外生范式激活机制约束 |
 
 ---

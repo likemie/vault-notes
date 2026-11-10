@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Learning Gain]]"
   - "[[Critical Thinking]]"
   - "[[Scientific Method]]"
+  - "[[Quasi-market]]"
 related_theories: []
 related_methods: []
 related_instruments:
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -59,6 +60,6 @@ updated: 2026-10-22
 ---
 
 > [!finding-cards] 影响与后果
-> - **政策影响** 确立了现代英国高等教育“准市场化竞争”与“政府臂弯式宏观调控”相结合的治理典范。
+> - **政策影响** 确立了现代英国高等教育“[[Quasi-market|准市场]]化竞争”与“政府臂弯式宏观调控”相结合的治理典范。
 > - **实践影响** 通过竞争性教改专项基金，直接孵化了全课程评价改革（如 [[TESTA Project\|TESTA]]）与纵向[[Learning Gain\|学习增益]]监测体系。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 17, 26)]]
 > - **知识影响** 为全球高等教育财政资助如何杠杆式撬动高校微观教学与考核创新提供了经典体制样本。

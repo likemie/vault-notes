@@ -10,9 +10,9 @@ title: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_key: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_display_title: "教育研究方法"
 argument_kind: "book"
-argument_related_count: 128
-argument_related_level: 12
-argument_related_stars: "💎💎💎💎"
+argument_related_count: 132
+argument_related_level: 13
+argument_related_stars: "💎💎💎💎⭐"
 argument_related_color: "#fecdd3"
 book_title: "教育研究方法"
 publication_place: "北京"
@@ -44,9 +44,12 @@ related_concepts:
   - "[[Research Writing Script]]"
   - "[[Concept Mapping]]"
   - "[[Creativity]]"
+  - "[[Research Tool]]"
   - "[[Didaktik]]"
   - "[[Research Scope]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Homophily]]"
   - "[[Problem Solving]]"
   - "[[Causality]]"
   - "[[Independent Variable]]"
@@ -138,6 +141,7 @@ related_methods:
   - "[[Convenience Sampling]]"
   - "[[Quota Sampling]]"
   - "[[Sensitive Questions]]"
+  - "[[Knowledge Extent]]"
   - "[[Test-Retest Reliability]]"
   - "[[Parallel-Forms Reliability]]"
   - "[[Split-Half Reliability]]"
@@ -166,7 +170,7 @@ related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
 status: draft
 created: 2026-06-25
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 > [!textbook-overview] 章节总览
 > | 章节 | 内容概要 | 主要关联条目 |
@@ -205,7 +209,7 @@ updated: 2026-10-30
 > | [[Reliability\|可靠性]]（Reliability） | 研究方法、研究条件和研究结果的可重复性。一项研究重复的结果相似程度越高，可靠性程度也越高。 |
 > | [[Creativity\|创造性]]（Creativity） | 研究是在前人研究的基础上，解决前人没有解决或尚未完全解决的问题。创造性是衡量教育研究水平高低的一个重要标志。 |
 > | 科学性（Scientificity） | 研究方法必须是科学的，要有科学的程序与完整的思路，包括如何选择被试、选择多少被试、具体研究方法是什么、每种方法如何设计、如何收集资料、是否便于统计等。 |
-> | 人文性（Humanity） | 教育研究的对象主要是人，探讨的是如何教育人的活动。研究者要以人文为基础，选择研究题材、制定研究目标、安排研究设计与选择研究工具。 |
+> | 人文性（Humanity） | 教育研究的对象主要是人，探讨的是如何教育人的活动。研究者要以人文为基础，选择研究题材、制定研究目标、安排研究设计与选择[[Research Tool\|研究工具]]。 |
 
 > [!seq-table] 选题的六种途径
 > | 途径 | 核心说明 |
@@ -227,7 +231,7 @@ updated: 2026-10-30
 > | 分类标准 | 类别 | 说明 |
 > |---|---|---|
 > | 按公开性 | 正式文献 | 正式出版的专著、论文、期刊、教科书等，由政府或出版社向国家新闻出版管理机构登记取得许可。 |
-> | | 非正式文献 | 未正式出版的各种论著、研究报告、统计资料，以及私人通信、日记、笔记、手稿等。硕博士论文因未正式出版也属于此类。 |
+> | | 非正式文献 | 未正式出版的各种论著、研究报告、统计资料，以及私人通信、日记、笔记、手稿等。硕[[Doctoral Dissertation\|博士论文]]因未正式出版也属于此类。 |
 > | 按加工程度 | 一般性参考资料 | 包括索引（indexes）和摘要（abstracts），列出论文的作者、题目、出版地点等。 |
 > | | [[Primary and Secondary Documents\|初级文献]]（第一手资料） | 研究者将研究结果直接提出发表的出版物，大部分来自期刊或集刊，如《教育研究》《北京大学教育评论》等。 |
 > | | 次级文献（第二手资料） | 对初级资料加以分析、比较和整理后提出的综合资料，如教材、教育大辞典、研究述评和教育年鉴。 |
@@ -237,7 +241,7 @@ updated: 2026-10-30
 > [!seq-table] 文献检索的五种方法
 > | 方法 | 操作方式 |
 > |---|---|
-> | 互助法 | 同领域或不同领域的研究伙伴相互帮助、交换资料。同领域伙伴资料同质性较高，不同领域伙伴可提供互补资料。 |
+> | 互助法 | 同领域或不同领域的研究伙伴相互帮助、交换资料。同领域伙伴资料[[Homophily\|同质性]]较高，不同领域伙伴可提供互补资料。 |
 > | 追溯法 | 从最新文献开始，由其参考文献向前追溯，层层递进，找到大量相关文献。 |
 > | 绵延法 | 从领域重要文献着手，通过引注索引（如 SSCI）搜集引用此篇文献的所有后续文献。 |
 > | 人工检索 | 以人工方式从图书、期刊、摘要、杂志、学报等逐册检查，或从参考书目寻找初级文献。 |
@@ -644,7 +648,7 @@ Campbell and Stanley (1963) 识别了影响内在效度的九类因素：
 
 问卷编制七步：明确目的和内容 → 确定所需资料收集方式 → 确定问卷类型与统计处理方法 → 设计问卷结构 → 设计具体问题与格式排版 → 问卷修改（同行审阅+试调查） → 印刷问卷。
 
-问题设计的十项注意事项：问题具体、表述清晰准确、一个问题只表述一个内容、避免诱导、避免窘迫、不超出被调查者知识范围、收集定量信息优于需要推算的平均数、避免否定性表述、避免判断性表述、回忆性问题时间越近越好记。答案设计六项注意：穷尽性与互斥性、答案与问题一致、注意排列顺序、不使-用贬义词、多选题不超过10个、敏感问题需分类设计。
+问题设计的十项注意事项：问题具体、表述清晰准确、一个问题只表述一个内容、避免诱导、避免窘迫、不超出被调查者[[Knowledge Extent|知识范围]]、收集定量信息优于需要推算的平均数、避免否定性表述、避免判断性表述、回忆性问题时间越近越好记。答案设计六项注意：穷尽性与互斥性、答案与问题一致、注意排列顺序、不使-用贬义词、多选题不超过10个、敏感问题需分类设计。
 
 ##### 信度与效度
 

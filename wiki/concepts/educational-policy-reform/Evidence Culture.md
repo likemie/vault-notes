@@ -6,7 +6,7 @@ aliases:
 summary: "教育政策社会学与知识动员研究的核心概念，指在特定教育治理体系与制度环境中共同形成的关于证据的价值信念、认识论假定、制度规范与实践惯例；该构念界定了何种知识具备合法证据资格、证据应如何被评价与动员，并通过修辞隐喻、层级建构与权力分配形塑政策制定者与实践者的研究参与方式。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Deliberative Space]]"
   - "[[Phronesis]]"
   - "[[Data Literacy]]"
+  - "[[Transnational Education]]"
   - "[[Evidence-Based Education]]"
   - "[[Technical Rationality]]"
   - "[[Translational Research]]"
@@ -57,7 +58,7 @@ related_theories:
 confidence: medium
 status: draft
 created: 2026-10-23
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -127,7 +128,7 @@ updated: 2026-11-03
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **修辞隐喻与认知层级** | 超国家话语通过隐喻建构排他性认知层级，特权化量化综合证据并压制本土经验 | 国际组织政策倡导、跨国教育借贷与全球循证倡议评估 | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] |
+> | **修辞隐喻与认知层级** | 超国家话语通过隐喻建构排他性认知层级，特权化量化综合证据并压制本土经验 | 国际组织政策倡导、[[Transnational Education\|跨国教育]]借贷与全球循证倡议评估 | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] |
 > | **制度使能与去个体化** | 批判将循证阻碍还原为官员个人素养缺陷的个体化偏颇，主张重构系统使能条件与认知正义 | 教育行政体制改革、决策能力建设与循证生态治理 | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] |
 
 ---

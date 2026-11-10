@@ -7,7 +7,7 @@ summary: "维多利亚时代英国皇家学校督学、诗人与文化批评家�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -22,6 +22,7 @@ tags:
   - nineteenth-century
 related_concepts:
   - "[[Historical-Philosophical-Cultural Motif]]"
+  - "[[Transnational Education]]"
   - "[[Bildung]]"
   - "[[Paradigm]]"
   - "[[Paideia]]"
@@ -54,14 +55,14 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国维多利亚时代皇家学校督学（HMI, 1851–1886）、牛津大学诗歌教授（1857–1867）、文化批评家与教育思想家。
-> - **核心角色** 比较教育学“[[Historical-Philosophical-Cultural Motif|历史-哲学-文化母题]]”与 19 世纪“督学行政考察与政策改良进路”（[[Argument_Mitter_2009_Europe|Mitter, 2009, pp. 88–89]]）的关键代表，[[Michael Sadler|萨德勒]]（Michael Sadler）思想的直接引路人；在大学建制缺失的 19 世纪，以国家公职督学身份推动跨国教育研究从浅层机械借用转向深层制度与文化解释。
+> - **核心角色** 比较教育学“[[Historical-Philosophical-Cultural Motif|历史-哲学-文化母题]]”与 19 世纪“督学行政考察与政策改良进路”（[[Argument_Mitter_2009_Europe|Mitter, 2009, pp. 88–89]]）的关键代表，[[Michael Sadler|萨德勒]]（Michael Sadler）思想的直接引路人；在大学建制缺失的 19 世纪，以国家公职督学身份推动[[Transnational Education|跨国教育]]研究从浅层机械借用转向深层制度与文化解释。
 > - **代表贡献** 提出国家作为“全民族代表性行动力量”承担公民文化教化的政治哲学原理，奠定公立中等教育合法性；开启以法国图卢兹公学和普鲁士文理中学为实证案例的跨国中等教育制度比较研究；奠基西方现代人文主义全人培育理论（[[Bildung]] / *Culture*）以抵御自由放任市侩主义。
 
 > [!citation-card] 卡扎米亚斯论阿诺德在比较教育发轫期的先驱地位

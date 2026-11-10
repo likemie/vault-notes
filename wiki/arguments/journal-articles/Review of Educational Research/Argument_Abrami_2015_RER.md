@@ -40,6 +40,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Heterogeneity]]"
   - "[[Publication Bias]]"
+  - "[[Doctoral Dissertation]]"
   - "[[STEM Education]]"
   - "[[Problem Solving]]"
   - "[[Peer Mentoring]]"
@@ -91,14 +92,14 @@ sources:
 part_of:
 status: draft
 created: 2026-08-24
-updated: 2026-10-30
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Abrami_2015_RER"
 argument_key: "Argument_Abrami_2015_RER"
 argument_display_title: "Strategies for teaching students to think critically: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 58
+argument_related_count: 59
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -201,7 +202,7 @@ issuing_organization: ""
 > > ![](https://img.mylikemie.icu/sources/Abrami_2015_RER/figures/Abrami_2015_RER_Fig1_Effect_Size_Distribution.jpg)
 >
 > [[Moderator Analysis\|调节变量分析]]进一步证实了效应的广泛普适性：
-> 1. **出版类型与研究设计** 期刊论文（$g+ = 0.28$）、著作章节/会议论文（$g+ = 0.30$）与学位论文（$g+ = 0.33$）之间无显著差异；真实验（$g+ = 0.34$）与准实验（$g+ = 0.28$）效应相当，排除了方法学偏倚与出版偏倚。
+> 1. **出版类型与研究设计** 期刊论文（$g+ = 0.28$）、著作章节/会议论文（$g+ = 0.30$）与[[Doctoral Dissertation|学位论文]]（$g+ = 0.33$）之间无显著差异；真实验（$g+ = 0.34$）与准实验（$g+ = 0.28$）效应相当，排除了方法学偏倚与出版偏倚。
 > 2. **学段分布** 从小学（$g+ = 0.37$）、初中（$g+ = 0.37$）、高中（$g+ = 0.25$）到本科（$g+ = 0.26$）及成人阶段（$g+ = 0.21$）均显著大于零且组间无统计差异，证明批判性思维发展并非高年级专属。
 > 3. **学科领域** [[STEM Education\|STEM]] 理工科（$g+ = 0.31$）、非 STEM 文社科（$g+ = 0.29$）与医学健康教育（$g+ = 0.20$）均表现出稳健获益，排除了学科壁垒对思维教学的绝对限制。
 > 4. **干预时长** 从数天内的短期强化（$g+ = 0.66$）、中期干预（$g+ = 0.33$）到一学期（$g+ = 0.27$）及长程教学（$g+ = 0.23$），干预均产生持续成效。

@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Corridors of Power]]"
   - "[[Document]]"
   - "[[Cultural Diplomacy]]"
+  - "[[Study Abroad]]"
   - "[[Variable]]"
   - "[[Power Conversion Dilemma]]"
   - "[[Intentionality]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -112,7 +113,7 @@ updated: 2026-10-30
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **全球中国发展金融数据库（GCDF）** 采用 TUFF 规程追踪官方发展援助（ODA）与其他官方资金（OOF），覆盖交通、能源、电信与主权紧急纾困贷款等全口径资金流。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 8–10, 77)]]
-> - **全要素公共外交指标体系** 整合金融外交（信贷援助）、社会[[Cultural Diplomacy|文化外交]]（留学生奖学金、[[Confucius Institute|孔子学院]]、[[Luban Workshop|鲁班工坊]]、友城网络）与网络信息外交（社交媒体账号与官媒传播），系统测度国家在受援国的影响力足迹。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 1–4, 13–35)]]
+> - **全要素公共外交指标体系** 整合金融外交（信贷援助）、社会[[Cultural Diplomacy|文化外交]]（[[Study Abroad|留学]]生奖学金、[[Confucius Institute|孔子学院]]、[[Luban Workshop|鲁班工坊]]、友城网络）与网络信息外交（社交媒体账号与官媒传播），系统测度国家在受援国的影响力足迹。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 1–4, 13–35)]]
 > - **“倾听领导人”精英感知民调（Listening to Leaders）** 定期对全球发展中国家政商学界领袖开展大规模定向[[Questionnaire|问卷调查]]，直接测度决策精英对外部大国外交形象与政策效能的评价偏好。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 65–68)]]
 > - **次国家级空间制图工具（GeoQuery）** 为全球研究者提供便捷提取项目微观地理位置与社会经济协[[Variable|变量]]的空间数据整合平台。[[Argument_Custer_2021_AidData|(Custer et al., 2021, p. 78)]]
 

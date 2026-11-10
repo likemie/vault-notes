@@ -12,7 +12,7 @@ summary: "测量两个连续变量间双变量线性关联强度与方向的推�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 40
+method_related_count: 41
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
@@ -50,6 +50,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Statistical Significance]]"
   - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
   - "[[Survey Research]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-10-30
 > - **研究对象** 两个等距或等比尺度的连续测量变量（如认知测验得分、[[Academic Achievement|学业成绩]]、标准化量表连续总分等）。
 > - **问题类型** 探索或检验两变量是否存在统计学上的线性共变模式，评估关联的紧密程度与变化方向。
 > - **[[Unit of Analysis|分析单位]]** 包含成对测量数据的个体、班级、学校、年份或[[Meta-analysis|元分析]]中的实证[[Study Population and Sample|研究样本]]。
-> - **输出形式** 积差相关系数 $r$、决定系数 $R^2$、双尾或单尾显著性检验 $p$ 值以及对应[[Confidence Interval|置信区间]]。
+> - **输出形式** 积差相关系数 $r$、决定系数 $R^2$、双尾或单尾[[Statistical Significance|显著性检验]] $p$ 值以及对应[[Confidence Interval|置信区间]]。
 
 > [!citation-card] 关键定义
 > Pearson 相关属于双变量推断统计，报告时统计符号 $r$ 须以斜体呈现，核心功能在于量化两个连续变量间关联的强度与方向。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8, Table 8.3)]]

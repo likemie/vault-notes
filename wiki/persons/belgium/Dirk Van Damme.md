@@ -8,10 +8,10 @@ summary: "比利时比较教育学者与国际教育政策专家，曾任根特�
 type: person
 nationality: belgium
 person_region: "belgium"
-person_related_count: 39
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 40
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1956"
 died: ""
 lifespan: "1956–至今"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Replication in Education Research]]"
   - "[[Research Impact]]"
+  - "[[Transnational Education]]"
   - "[[Academic Achievement]]"
   - "[[Evidence-Based Education]]"
   - "[[Disciplinary Institutionalization]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -97,7 +98,7 @@ updated: 2026-10-22
 > - **1990–2005 — 比较高等教育、质量保障与全球化学术治理** 主要回应全球化冲击下欧洲高等教育文凭跨国互认、质量保障规程及公共财政问责。
 >   - **代表著作** *Higher Education in the Age of Globalisation: The need for a new regulatory framework for recognition and quality assurance* (2001)。
 >   - **关键概念／方法** 质量保障、文凭互认、高等教育治理。
->   - **阶段转向** 从区域教育史与教育社会学研究，转向国家与跨国教育政策治理体系设计。
+>   - **阶段转向** 从区域教育史与教育社会学研究，转向国家与[[Transnational Education|跨国教育]]政策治理体系设计。
 > - **2008–2018 — [[OECD\|经合组织]]教育创新、前瞻趋势与社会情感技能** 主要回应宏观社会经济大趋势对教育系统的深层冲击，探索未来学校形态与非认知能力测评。
 >   - **代表著作** *Trends Shaping Education* (OECD 系列旗舰报告)。
 >   - **关键概念／方法** [[Social-Emotional Learning]]、[[International Education]]、政策情景规划。

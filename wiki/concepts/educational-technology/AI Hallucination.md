@@ -10,7 +10,7 @@ aliases:
 summary: "人工智能与教育技术学概念，指大语言模型等生成式系统输出看似连贯权威、语法高度流畅但实际上偏离客观事实、缺乏真实依据、虚构引用或逻辑自相矛盾的内容现象。"
 type: concept
 domain: "educational-technology"
-related_count: 52
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Man-Computer Symbiosis]]"
   - "[[Evaluativist]]"
   - "[[Absolutist]]"
+  - "[[Algorithmic Bias]]"
   - "[[Creativity]]"
   - "[[Brainstorming]]"
   - "[[AI Literacy]]"
@@ -60,6 +61,7 @@ related_theories:
 related_methods:
   - "[[Triangulation]]"
   - "[[Meta-analysis]]"
+  - "[[Reinforcement Learning]]"
   - "[[Effect Size]]"
   - "[[Systematic Review]]"
   - "[[Pilot Testing]]"
@@ -79,10 +81,11 @@ related_instruments:
   - "[[PRISMA]]"
 related_facts:
   - "[[ASEAN Credit Transfer System]]"
+  - "[[Web of Science]]"
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 （AI 幻觉 / 大模型幻觉）
@@ -113,7 +116,7 @@ updated: 2026-11-03
 > *Algorithmic hallucination [[ASEAN Credit Transfer System|acts]] as an epistemic perturbation: while [[Absolutist\|absolutists]] uncritically accept erroneous fabrications, evaluativists leverage hallucinations as catalysts for multi-source [[Triangulation]] and epistemic interrogation.*
 
 > [!boundary]- 概念边界
-> - **不等于 算法偏见（Algorithmic Bias）** 算法偏见反映的是训练数据分布不均或历史歧视的系统性再现（如性别或种族刻板印象）；AI 幻觉则是模型在缺失确定信息时进行的概率性“无中生有（Confabulation）”。
+> - **不等于 [[Algorithmic Bias|算法偏见]]（Algorithmic Bias）** 算法偏见反映的是训练数据分布不均或历史歧视的系统性再现（如性别或种族刻板印象）；AI 幻觉则是模型在缺失确定信息时进行的概率性“无中生有（Confabulation）”。
 > - **不等于 [[Creativity\|创造性]]联想（Creative Ideation）** 在小说构思与[[Brainstorming\|头脑风暴]]中，虚构情节属于有益的创造性发散；但当任务情境切换为科学研究、学术文章或事实问答时，未经标记的虚构即构成有害的“幻觉”。
 
 ---
@@ -212,7 +215,7 @@ updated: 2026-11-03
 > [!debates] 学术争议
 >
 > > [!axis] 技术解决论（RAG/检索增强） vs [[Epistemology\|认识论]]防御论
-> > 争论是否能通过检索增强生成（RAG）、知识图谱绑定或强化学习彻底消除幻觉。
+> > 争论是否能通过检索增强生成（RAG）、知识图谱绑定或[[Reinforcement Learning|强化学习]]彻底消除幻觉。
 > >
 > > - **技术实在论** 认为随算法演进，事实幻觉将降至忽略不计水平。
 > > - **认识论审视论（[[Argument_Li_2026_CEAI\|Li et al., 2026]]; [[Argument_Wu_2025_ER\|Wu et al., 2025]]）** 强调只要是基于统计概率采样的自回归架构，幻觉就不可能完全为零；大模型经常极其自信地输出事实错误，人类学习者的[[Epistemological Vigilance\|认识论警觉]]与事实核查责任永远是不可替代的最后防线。
@@ -244,7 +247,7 @@ updated: 2026-11-03
 
 > [!example] 典型教学应用案例
 > - **科学文章写作中的“AI 幻觉红队对抗测试”（Archila et al., 2024; [[Argument_Li_2026_CEAI\|Li et al., 2026]]）**
->   教师让 ChatGPT 针对某个争议性科学议题生成一篇包含 5 篇参考文献的微综述，然后要求学生作为“学术审稿人（Reviewer）”，逐一检索 Web of Science 与 PubMed 数据库核对引文是否存在、引述结论是否被歪曲。该任务极大地锻炼了学生的[[Primary and Secondary Documents\|一手文献]]溯源与实证辨析能力。
+>   教师让 ChatGPT 针对某个争议性科学议题生成一篇包含 5 篇参考文献的微综述，然后要求学生作为“学术审稿人（Reviewer）”，逐一检索 [[Web of Science]] 与 PubMed 数据库核对引文是否存在、引述结论是否被歪曲。该任务极大地锻炼了学生的[[Primary and Secondary Documents\|一手文献]]溯源与实证辨析能力。
 > - **“提示词去幻觉迭代与辩护答辩”考核规程（[[Argument_Wu_2025_ER\|Wu et al., 2025]]）**
 >   在统计决策与研究设计课中，要求学生利用提示词迫使模型暴露其潜在的逻辑幻觉与适用边界，并将去幻觉的多源核验记录与同行评议辩护作为核心考核依据。
 > - **中学生多模态[[Scientific Explanation|科学解释]]“去伪存真与机制补全”探究（[[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez, 2026]]）**

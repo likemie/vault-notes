@@ -8,7 +8,7 @@ summary: "法国哲学家、七月王朝教育决策者，作为比较教育第�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 40
+person_related_count: 41
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Culture Générale]]"
   - "[[General Education]]"
+  - "[[Transnational Education]]"
   - "[[Normal School]]"
   - "[[Empiricism]]"
   - "[[Faculty Psychology]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ## 简介
@@ -85,7 +86,7 @@ updated: 2026-11-02
 > - **核心角色** 19 世纪欧洲政策导向行政[[Educational Meliorism\|改良主义]]母题的核心代表，开创了从异域官方考察直接通向本国实定法转置（Direct Legislative Transplantation）的欧陆经典[[Paradigm\|范式]]。
 > - **代表贡献** 1831 年发表极具跨国影响力的《普鲁士公共教育现状报告》；提出以母国国家利益为绝对归宿的“审慎借用”公理；提炼[[State Educational Sovereignty\|教育为国家公共资源]]的法哲学命题；主笔起草并推动确立奠定法国国民初等教育体制基石的 [[Guizot Law of 1833\|1833年基佐法案]]；倡导古典人文与现代科学联盟的“[[Culture Générale\|普通文化]]（*culture générale*）”[[General Education\|通识教育]]理想。
 
-其跨国教育考察与借用实践奠定了 19 世纪行政改良主义的经典基准：
+其[[Transnational Education|跨国教育]]考察与借用实践奠定了 19 世纪行政改良主义的经典基准：
 
 > [!citation-card] 人物定位的关键来源
 > 正如瓦尔特·布鲁尔（Walter Brewer）在《作为比较教育学者的维克多·库森》中所评述，库森关于普鲁士教育的报告堪称审慎借用的经典典范。库森在报告中宣称：一个民族的真正伟大不在于对他人一无所仿，而在于处处借用优良之物，并在吸收改造中使其臻于完善。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 30)]]
@@ -240,7 +241,7 @@ updated: 2026-11-02
 ---
 
 > [!note] 关系网络
-> 库森的思想与行动深嵌于 19 世纪上半叶欧美跨国教育交流与政治哲学的核心网络之中：
+> 库森的思想与行动深嵌于 19 世纪上半叶欧美[[Transnational Education|跨国教育]]交流与政治哲学的核心网络之中：
 
 > [!person-network] 关系网络
 > - **政治与改革盟友** [[François Guizot\|弗朗索瓦·基佐]] 七月王朝自由派政治领袖与公共教育部首脑，委派库森赴德考察并携手起草通过 [[Guizot Law of 1833\|1833年基佐法案]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 26–28)]]

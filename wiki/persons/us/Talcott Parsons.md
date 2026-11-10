@@ -8,7 +8,7 @@ summary: "20世纪美国结构功能主义社会学泰斗、哈佛大学社会�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Vilfredo Pareto]]"
   - "[[Max Weber]]"
   - "[[Robert K. Merton]]"
   - "[[Niklas Luhmann]]"
@@ -41,14 +42,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** Talcott Parsons（1902–1979），20 世纪美国社会学界最具统治力的理论家之一，哈佛大学社会学系长达二十余年的主导人物，[[Structural Functionalism|结构功能主义]]（Structural Functionalism）学派集大成者。
-> - **核心角色** 整合欧洲古典社会学理论（韦伯、涂尔干、帕累托等），创立了宏大的“社会行动一般理论”与社会系统模型。
+> - **核心角色** 整合欧洲古典社会学理论（韦伯、涂尔干、[[Vilfredo Pareto|帕累托]]等），创立了宏大的“社会行动一般理论”与社会系统模型。
 > - **代表贡献** 提出社会行动理论（Action Theory）、AGIL 模式、模式[[Variable|变量]]（Pattern Variables），并在战后社会心理学与侵犯性研究中提出关于不公正对待感与怨恨作为失败借口的深刻论断。
 
 > [!citation-card] 帕森斯论不公正待遇感与失败借口

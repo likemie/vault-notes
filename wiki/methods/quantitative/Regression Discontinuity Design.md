@@ -13,7 +13,7 @@ summary: "基于连续驱动变量在特定阈值处的刚性或概率性分配�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 41
+method_related_count: 44
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Socioeconomic Status]]"
   - "[[Falsification]]"
   - "[[Charter Schools]]"
+  - "[[Early-Career Researchers]]"
   - "[[Homework]]"
   - "[[Intelligent Tutoring Systems]]"
 related_theories:
@@ -54,6 +55,7 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Standard Error]]"
   - "[[Ordinary Least Squares]]"
+  - "[[Instrumental Variables]]"
   - "[[Manipulation Check]]"
   - "[[Sample Size Determination]]"
   - "[[Time Series Design]]"
@@ -66,6 +68,7 @@ related_facts:
   - "[[Gaokao]]"
   - "[[Chartered College of Teaching]]"
   - "[[Home Visiting Evidence of Effectiveness]]"
+  - "[[National Institutes of Health]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
   - "[[Argument_Creswell_2022_SAGE]]"
@@ -76,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -145,7 +148,7 @@ updated: 2026-11-02
 >    - **$\mathbf{\tau}$** **核心因果效应参数**，代表断点两侧回归线在切分点 $c$ 处的垂直距离（跳跃量）；
 >    - **$\beta_1, \beta_2$** 允许断点两侧回归线具有不同的演化斜率。
 >
-> 2. **模糊断点回归（Fuzzy RDD）工具变量局部瓦尔德估计量**
+> 2. **模糊断点回归（Fuzzy RDD）[[Instrumental Variables|工具变量]]局部瓦尔德估计量**
 >    $$\tau_{\text{Fuzzy}} = \frac{\lim_{x \downarrow c} E[Y_i \mid X_i = x] - \lim_{x \uparrow c} E[Y_i \mid X_i = x]}{\lim_{x \downarrow c} E[D_i \mid X_i = x] - \lim_{x \uparrow c} E[D_i \mid X_i = x]} = \frac{\text{结果变量跳跃量}}{\text{处理概率跳跃量}}$$
 
 > [!policy-context] RDD 在清算体系规程中的制度起源与演进
@@ -162,7 +165,7 @@ updated: 2026-11-02
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 依据连续分数或测量值切分资格的政策干预（如托福/GRE 奖学金线、中考划线[[Charter Schools|特许学校]]、特教筛查临界值；按法定出生日期划定的小学入学年龄断点；贫困生助学金打分门槛；NIH 青年学者基金申请资助截断点）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 243–245)]]
+> - **适合使用** 依据连续分数或测量值切分资格的政策干预（如托福/GRE 奖学金线、中考划线[[Charter Schools|特许学校]]、特教筛查临界值；按法定出生日期划定的小学入学年龄断点；贫困生助学金打分门槛；[[National Institutes of Health|NIH]] [[Early-Career Researchers|青年学者]]基金申请资助截断点）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 243–245)]]
 > - **谨慎使用** 驱动[[Variable\|变量]]易被基层教师或受试者主观调控（如平时[[Homework\|作业]]打分）；[[Sample Size Determination\|样本量]]过小导致断点局部有效观测点稀疏。
 > - **不适合使用** 分配规则模糊、多重标准混杂或缺乏连续运行变量的常态课程对比（应选用配对准实验或 [[Randomised Controlled Trials\|RCT]]）。
 

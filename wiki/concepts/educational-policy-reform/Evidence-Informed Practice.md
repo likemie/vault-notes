@@ -6,7 +6,7 @@ aliases:
 summary: "一种将研究证据定位为多元决策资源之一的实践取向，主张以专业判断为核心枢纽，情境化整合研究证据、系统数据与课堂数据，并依托榜样领导、专有排程与全系统知识动员推进高质量证据使用与教育改进"
 type: concept
 domain: "educational-policy-reform"
-related_count: 97
+related_count: 98
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Professional Judgment]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Appropriate Research]]"
   - "[[Evidence-Informed Decision-Making]]"
   - "[[Evidence-Based Education]]"
   - "[[Research-Informed Teaching Practice]]"
@@ -124,13 +125,13 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-01"
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Evidence-Informed Practice
-> 证据知情实践（Evidence-Informed Practice, EIP）将研究证据定位为影响教育决策的多种资源之一：教育者以[[Professional Judgment\|专业判断]]为决策枢纽，在具体情境中动态整合学术研究证据、系统层面数据与课堂即时数据，拒绝照搬脚本与教条化套用。推进 EIP 的核心在于打破单向供给推送（Push）偏误，转向以一线实践者为中心的需求牵引（Pull），依托榜样型领导力示范、内置排程工时保障以及全系统[[Knowledge Mobilisation\|知识动员]]支撑，实现对适切研究证据的审慎参与与常态化实施。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 127–129)]]；[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 17–18)]]；[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, pp. 183–185)]]
+> 证据知情实践（Evidence-Informed Practice, EIP）将研究证据定位为影响教育决策的多种资源之一：教育者以[[Professional Judgment\|专业判断]]为决策枢纽，在具体情境中动态整合学术研究证据、系统层面数据与课堂即时数据，拒绝照搬脚本与教条化套用。推进 EIP 的核心在于打破单向供给推送（Push）偏误，转向以一线实践者为中心的需求牵引（Pull），依托榜样型领导力示范、内置排程工时保障以及全系统[[Knowledge Mobilisation\|知识动员]]支撑，实现对[[Appropriate Research|适切研究]]证据的审慎参与与常态化实施。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 127–129)]]；[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 17–18)]]；[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, pp. 183–185)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 关注研究证据在教育决策中的位置、转化机制与使用质量：研究是证据拼图的关键板块，须由教育者结合微观教学现场与宏观系统数据进行批判性审议与情境化调试。

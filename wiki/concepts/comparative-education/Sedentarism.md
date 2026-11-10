@@ -7,7 +7,7 @@ aliases:
 summary: "定居主义是一种将固定地域居住、扎根生活与空间稳定视为人类文明、秩序与理性默认基准的认识论偏见与治理意识形态；该观念将物理流动与漫游状态编码为落后、病态或缺乏教化的社会偏常，在现代教育体制中为强制定居化改造、学籍空间壁垒与学校封闭容器规训提供了正当性辩护。"
 type: concept
 domain: "comparative-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -35,6 +35,7 @@ related_methods:
   - "[[Effect Size]]"
 related_instruments: []
 related_persons:
+  - "[[Noah Sobe]]"
   - "[[Gita Steiner-Khamsi]]"
 related_facts:
   - "[[Hukou System]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -102,7 +103,7 @@ updated: 2026-11-03
 > [!claim] Clifford, J.
 > **静止优位与流动等级论** 人类学与社会理论长期以定居为常态[[Paradigm|范式]]，将原地留存的生活方式视为有待外部开化的落后残余；流动性本身被划分为两极：文化精英的自由旅行被浪漫化为自主能动性，而劳工与难民的迫迁则被赋予依赖与无能的烙印。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 361)]]
 
-> [!claim] Sobe, N. W. & Fischer, M. G.
+> [!claim] [[Noah Sobe|Sobe]], N. W. & Fischer, M. G.
 > **学校问责中的漂泊赤字编码** 在美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》实施背景下，政策话语从描述客观的流动（Mobility）滑向定罪式的漂泊（[[Transiency]]），将底层学生中途转学判定为无法过上正常定居生活的病理表征，进而使学校能够以生源异化为由推卸绩效不达标责任，完成了对[[Migrant Children|流动儿童]]的系统性道德贬抑。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 363–364)]]
 
 ---

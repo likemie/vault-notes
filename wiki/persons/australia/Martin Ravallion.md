@@ -9,7 +9,7 @@ summary: "澳大利亚著名发展经济学家、微观计量学大师（1952–
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -43,13 +43,14 @@ related_persons: []
 related_facts:
   - "[[Development Economics Vice Presidency]]"
   - "[[World Bank]]"
+  - "[[Millennium Development Goals]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Zapp_2017_IJED]]"
 confidence: high
 status: active
 created: 2026-10-23
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 # Martin Ravallion
@@ -76,7 +77,7 @@ updated: 2026-10-30
 > - **1952 年** 出生于澳大利亚墨尔本，本科就读于悉尼大学，后赴英国伦敦政治经济学院（LSE）深造，先后获得经济学硕士与哲学博士学位。
 > - **1980 年代初** 先后任教于牛津大学王后学院与澳大利亚国立大学（ANU），聚焦孟加拉饥荒、粮食市场与农户风险平抑微观机制研究。
 > - **1988 年** 加入[[Development Economics Vice Presidency|世界银行发展经济学研究局]]（DEC），历任高级经济学家、贫困研究领军学者。
-> - **1990 年** 主笔起草《1990 年世界发展报告》（WDR 1990: Poverty），首次在国际多边体系中正式提出“1美元/天”跨国绝对贫困线，奠定联合国千年发展目标（MDGs）的首要量化指标。
+> - **1990 年** 主笔起草《1990 年世界发展报告》（WDR 1990: Poverty），首次在国际多边体系中正式提出“1美元/天”跨国绝对贫困线，奠定[[Millennium Development Goals|联合国千年发展目标]]（MDGs）的首要量化指标。
 > - **2007–2012 年** 出任[[World Bank|世界银行]]发展研究部主任，领导下辖 100 余名专职研究员开展跨国田野实验与计量分析；2012 年完成针对全行历史科研出版物与引文影响力的权威审计。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 5)]]
 > - **2012 年** 自世行退休后加盟美国乔治城大学经济学系担任讲席教授，继续拓展全球不平等测算理论。
 > - **2022 年** 因病于美国马里兰州逝世，享年 70 岁。

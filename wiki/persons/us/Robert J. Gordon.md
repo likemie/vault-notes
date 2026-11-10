@@ -8,7 +8,7 @@ summary: "美国著名宏观经济学家、西北大学讲席教授，以《美�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -31,19 +31,20 @@ related_persons:
   - "[[Nicholas Negroponte]]"
   - "[[David Graeber]]"
 related_facts:
+  - "[[National Bureau of Economic Research]]"
   - "[[Research in Schools Evaluation]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04]]"
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** Robert J. Gordon（1940– ），美国著名宏观经济学家、经济史学家，美国西北大学斯坦利·G. 哈里斯经济学讲席教授，美国国家经济研究局（NBER）经济波动与增长项目资深研究员。
+> - **身份位置** Robert J. Gordon（1940– ），美国著名宏观经济学家、经济史学家，美国西北大学斯坦利·G. 哈里斯经济学讲席教授，[[National Bureau of Economic Research|美国国家经济研究局]]（NBER）经济波动与增长项目资深研究员。
 > - **核心角色** 在生产率测算、技术变革与长期经济增长领域享有世界级声誉，是“技术创新狭窄化假说”与“增长放缓论”的主要倡导者与实证奠基人。
 > - **代表贡献** 巨著《美国增长的起伏》（*The Rise and Fall of American Growth*, 2016），通过系统量化历史数据证明 1970 年代以来美国[[Total Factor Productivity|全要素生产率]]出现断崖式下滑，并指出第三次工业革命对整体经济拉动的局限性。
 

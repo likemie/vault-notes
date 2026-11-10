@@ -11,9 +11,9 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 27
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 period: "1990–2013"
 initiator_organization: "欧洲联盟委员会（European Commission）"
@@ -26,6 +26,7 @@ tags:
   - theme/european-integration
   - theme/spatial-turn
 related_concepts:
+  - "[[Scientific Mobility]]"
   - "[[University-Industry Collaboration]]"
   - "[[Employability]]"
   - "[[Social Imaginary]]"
@@ -33,6 +34,7 @@ related_concepts:
   - "[[Student Mobility]]"
   - "[[Lifelong Learning]]"
   - "[[Commensuration]]"
+  - "[[Transnational Education]]"
   - "[[Paradigm]]"
   - "[[Further Education]]"
   - "[[Geopolitics]]"
@@ -43,7 +45,8 @@ related_theories:
   - "[[Spatial Governmentality]]"
   - "[[Governing at a Distance]]"
   - "[[Two Problematics of Educational Inclusion and Exclusion]]"
-related_methods: []
+related_methods:
+  - "[[Instrumental Variables]]"
 related_instruments: []
 related_persons:
   - "[[Socrates]]"
@@ -62,16 +65,16 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 项目定位
-> 泛欧大学机动性合作计划（Trans-European Mobility Programme for University Studies, TEMPUS / 天普计划）是[[EU|欧洲联盟]]（European Union, EU）于 1990 年在冷战终结与东欧剧变历史节点设立的高等教育跨国合作与学术流动旗舰项目。该计划作为欧盟内部[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）向外围邻国的制度延伸，专门面向中东欧、西巴尔干、东欧邻国、南高加索、中亚以及南部地中海周边伙伴国，通过大学结对、课程革新与体制对接，推进伙伴国高等教育体制的现代化与市场经济转型。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
+> 泛欧大学机动性合作计划（Trans-European Mobility Programme for University Studies, TEMPUS / 天普计划）是[[EU|欧洲联盟]]（European Union, EU）于 1990 年在冷战终结与东欧剧变历史节点设立的高等教育跨国合作与[[Scientific Mobility|学术流动]]旗舰项目。该计划作为欧盟内部[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）向外围邻国的制度延伸，专门面向中东欧、西巴尔干、东欧邻国、南高加索、中亚以及南部地中海周边伙伴国，通过大学结对、课程革新与体制对接，推进伙伴国高等教育体制的现代化与市场经济转型。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 
 > [!program-context] 项目背景
-> - **立项时间 / 周期** 1990 年正式设立，先后历经四期工程（TEMPUS I 至 TEMPUS IV），持续推进至 2013 年底；2014 年整体整合并入欧盟新一代“伊拉斯谟+”（Erasmus+）全球教育、培训与青年行动框架。
+> - **立项时间 / 周期** 1990 年正式设立，先后历经四期工程（TEMPUS I 至 TEMPUS [[Instrumental Variables|IV]]），持续推进至 2013 年底；2014 年整体整合并入欧盟新一代“伊拉斯谟+”（Erasmus+）全球教育、培训与青年行动框架。
 > - **发起方与资助机制** 由[[European Commission|欧盟委员会]]主导发起并全额资助，依托欧盟外部援助基金（如 PHARE、TACIS、CARDS 与 MEDA 计划），通过竞争性“联合欧洲项目”（Joint European Projects, JEP）与“结构性措施”（Structural Measures）拨款实施。
 > - **覆盖范围与对象** 覆盖欧盟所有成员国高校以及数十个非欧盟伙伴国（涵盖西巴尔干、前苏联加盟共和国及中东、北非地中海沿岸国）；资助数以万计的大学教师、行政主管与研究生开展跨国互访与学术研修。
 > - **核心问题导向** 协助前计划经济体制国家消除封闭隔绝的高等教育壁垒，重构专业大纲与院系架构，对齐[[Bologna Process|博洛尼亚进程]]的跨国学位质量标准。
@@ -113,7 +116,7 @@ updated: 2026-11-02
 > - **法定框架与共同体方法** 依据《欧洲联盟条约》第 126 与 127 条，通过欧盟理事会决定与指令确立行动框架，运用共同体方法开展项目申报、评审与资金拨付。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 485)]]
 > - **多边竞争性招标** 面向全欧与伙伴国高校发布年度课题指南，通过严格的独立专家同行评审选拔联合欧洲项目。
 > - **体制对标与学分互认** 借助欧洲学分互认体系（ECTS）与欧洲学历资格评估规程，将伙伴国大学的课程模块重构为符合欧洲标准的可[[Commensuration|通约]]单元。
-> - **制度化合并升级** 2014 年将四期积累的跨国高等教育能力建设经验整体并入“伊拉斯谟+”项目的高等教育能力建设（CBHE）行动板块。
+> - **制度化合并升级** 2014 年将四期积累的[[Transnational Education|跨国高等教育]]能力建设经验整体并入“伊拉斯谟+”项目的高等教育能力建设（CBHE）行动板块。
 
 ---
 

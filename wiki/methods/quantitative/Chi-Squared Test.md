@@ -12,9 +12,9 @@ summary: "检验类别变量间关联性或单变量观测分布与理论分布�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 38
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 40
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -39,6 +39,8 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Alternative Hypothesis]]"
   - "[[Independent Variable]]"
+  - "[[Homophily]]"
+  - "[[Lecturing]]"
   - "[[Absolutist]]"
   - "[[Reliability]]"
   - "[[Epistemic Agency]]"
@@ -70,13 +72,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Chi-Squared Test
-> 卡方检验（Chi-Squared Test, $\chi^2$ test）是一族基于卡方分布（$\chi^2$ distribution）对类别[[Variable\|变量]]（categorical variables）的频数数据进行推断统计的非参数假设检验方法。其核心机制在于比较实际观测频数（Observed Frequencies, $O$）与在原假设（[[Null Hypothesis\|零假设]] $H_0$）成立条件下的理论期望频数（Expected Frequencies, $E$），通过构建两者偏差平方加权和的 $\chi^2$ 统计量，评估观测分布与理论分布的偏离程度或检验两个类别变量之间是否存在统计学关联。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 362–365)]]
+> 卡方检验（Chi-Squared Test, $\chi^2$ test）是一族基于卡方分布（$\chi^2$ distribution）对类别[[Variable\|变量]]（categorical variables）的频数数据进行推断统计的非参数假设检验方法。其核心机制在于比较实际观测频数（Observed Frequencies, $O$）与在[[Null Hypothesis|原假设]]（[[Null Hypothesis\|零假设]] $H_0$）成立条件下的理论期望频数（Expected Frequencies, $E$），通过构建两者偏差平方加权和的 $\chi^2$ 统计量，评估观测分布与理论分布的偏离程度或检验两个类别变量之间是否存在统计学关联。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 362–365)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 类别数据（定类变量与无序分类数据）、二分类或多分类列联表（contingency tables）以及理论分布比例拟合。
@@ -191,7 +193,7 @@ updated: 2026-10-30
 > | **卡方齐性检验（Homogeneity）** | 一个分组变量 + 一个分类[[Dependent Variable\|因变量]] | 两个或多个独立抽样总体 | 检验不同总体在同一分类特征上的分布是否一致 | 各组为独立抽样总体；期望频数满足准则 | Fisher's 精确检验（小样本） |
 > | **麦克尼马尔检验（McNemar Test）** | 二分类类别变量 | 配对样本/自身前后重复测量 | 检验配对二分类数据的边缘频数是否发生对称性改变 | 仅限 $2 \times 2$ 配对二分类（如前后测“及格/不及格”） | 顺序尺度时不可用 |
 > | **费希尔精确检验（Fisher's Exact Test）** | 类别变量（主要用于 $2 \times 2$） | 独立样本（尤其适合极小样本） | 基于超几何分布计算列联表出现的精确超几何概率 | 无期望频数需 $\ge 5$ 的限制 | 大样本时计算开销较大，回退至标准卡方 |
-> | **[[Analysis of Variance\|单因素方差分析]]（One-Way ANOVA）** | [[Independent Variable\|自变量]]分类 + 因变量**连续**数值 | 两个或多个独立组别 | 比较多组连续变量的均值差异 | 因变量正态性、方差同质性（Levene 检验） | 方差不齐改用 Welch's ANOVA；非正态改用 Kruskal-Wallis |
+> | **[[Analysis of Variance\|单因素方差分析]]（One-Way ANOVA）** | [[Independent Variable\|自变量]]分类 + 因变量**连续**数值 | 两个或多个独立组别 | 比较多组连续变量的均值差异 | 因变量正态性、方差[[Homophily\|同质性]]（Levene 检验） | 方差不齐改用 Welch's ANOVA；非正态改用 Kruskal-Wallis |
 > | 斯皮尔曼等级相关（Spearman Rank Correlation） | 顺序/等级尺度（如[[Likert Scale\|李克特量表]]） | 成对排序数据或小样本顺序量表 | 评估两顺序变量之间的单调递增/递减关联趋势 | 适用于小样本与非正态顺序数据 | 克服卡方检验丢弃等级次序信息的严重缺陷 |
 
 ---
@@ -205,7 +207,7 @@ updated: 2026-10-30
 > - **人机交互记录复刻**
 >   - **学生提问** *"What statistical test should I use to check if the phenotypic ratio of peas fits the 9:3:3:1 ratio from Mendel's experiment?"*
 >   - **ChatGPT 回复** *"You should use the Chi-Square Goodness-of-Fit Test. Here is the formula $\chi^2 = \sum \frac{(O-E)^2}{E}$ and the R code: `chisq.test(x = c(315, 108, 101, 32), p = c(9/16, 3/16, 3/16, 1/16))`..."*
->   - **学生后续行动** 学生仅在课程讲义（Lecture slides）中简单搜索并确认提到了卡方拟合优度检验后，未作任何进一步公式理解或参数推演，立即结束对话并将 R 代码与输出结果直接粘贴至作业中。
+>   - **学生后续行动** 学生仅在课程讲义（[[Lecturing|Lecture]] slides）中简单搜索并确认提到了卡方拟合优度检验后，未作任何进一步公式理解或参数推演，立即结束对话并将 R 代码与输出结果直接粘贴至作业中。
 > - **[[Epistemology\|认识论]]机制诊断** 表现出典型的一阶绝对论（[[Absolutist]]）特征。将统计知识视为非黑即白的固定操作，过度依赖外部权威（大模型与讲义），缺乏对期望频数计算逻辑或自由度设定的深层理解，认知加工停留在代码复制与程序执行层面。
 
 > [!figure]- 图1：Student A 与 ChatGPT 的交互对话记录（绝对论立场）

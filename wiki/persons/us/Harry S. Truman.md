@@ -10,7 +10,7 @@ summary: "美国第33任总统（1945–1953）；冷战初期美国科技政策
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 15
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,38 +23,40 @@ tags:
   - political-figure
   - cold-war
 related_concepts:
+  - "[[Paradigm]]"
+  - "[[Research Universities]]"
+  - "[[Scientific Creativity]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Mission-Oriented Research]]"
-  - "[[Big Science]]"
-  - "[[Academic Freedom]]"
-  - "[[Basic-Applied Research Dichotomy]]"
-related_theories:
-  - "[[Social Contract of Science]]"
+related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Vannevar Bush]]"
-  - "[[J. Robert Oppenheimer]]"
   - "[[Dwight D. Eisenhower]]"
   - "[[James B. Conant]]"
+  - "[[Vannevar Bush]]"
+  - "[[J. Robert Oppenheimer]]"
 related_facts:
-  - "[[Atomic Energy Commission]]"
   - "[[Department of Defense]]"
+  - "[[Atomic Energy Commission]]"
   - "[[National Science Foundation]]"
-  - "[[Office of Scientific Research and Development]]"
   - "[[Science, The Endless Frontier 1945]]"
+  - "[[ASEAN Economic Community]]"
+  - "[[Office of Scientific Research and Development]]"
+  - "[[President's Science Advisory Committee]]"
 related_arguments:
   - "[[Argument_Yang_2017_MUE]]"
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国第33任总统（1945–1953）、冷战初期战略决策者与战后科技国防动员体制奠基人。
-> - **核心角色** 在战后初期主导科技政策的国防军事化与功利主义转向，塑造由五角大楼与原子能委员会垄断的计划性资助格局，触发了战后学术界的持续抗议。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–37)]]
+> - **核心角色** 在战后初期主导科技政策的国防军事化与功利主义转向，塑造由[[Department of Defense|五角大楼]]与原子能委员会垄断的计划性资助格局，触发了战后学术界的持续抗议。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–37)]]
 > - **代表贡献** 签署《麦克马洪法案》创设 [[Atomic Energy Commission]]，签署法案创设 [[National Science Foundation]]，推进冷战初期大学军工科研资助网络。
 
 > [!citation-card] 人物定位的关键来源
@@ -64,12 +66,12 @@ updated: 2026-11-04
 
 > [!timeline] 生平与职涯
 > - **1884** 出生于美国密苏里州拉马尔。
-> - **1945** 接任美国第33任总统；下令投掷原子弹加速二战结束；接收[[Vannevar Bush|范内瓦·布什]]提交的《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》报告。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 35)]]
-> - **1946** 签署麦克马洪法案正式设立[[Atomic Energy Commission|美国原子能委员会]]（AEC）。
+> - **1945** 接任美国第33任总统；下令投掷原子弹加速二战结束；接收范内瓦·布什提交的《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》报告。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 35)]]
+> - **1946** 签署麦克马洪法案正式设立[[Atomic Energy Commission|美国原子能委员会]]（[[ASEAN Economic Community|AEC]]）。
 > - **1947** 发表杜鲁门主义演说，美苏正式进入冷战；因科学资助机构管理权产生严重分歧导致布什辞任离开华府，废除战时[[Office of Scientific Research and Development|科学研究与开发办公室]]（OSRD）。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–36)]]
 > - **1949** 针对苏联原子弹试爆，力排学术界异见宣布全力启动热核武器（氢弹）研发计划。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 35)]]
 > - **1950** 签署建立[[National Science Foundation|美国国家科学基金会]]（NSF）；朝鲜战争爆发促使其进一步强化大学军事科研投入。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–36)]]
-> - **1953** 总统任期届满卸任，由艾森豪威尔接任。
+> - **1953** 总统任期届满卸任，由[[Dwight D. Eisenhower|艾森豪威尔]]接任。
 > - **1972** 逝世于密苏里州堪萨斯城。
 
 ---
@@ -90,17 +92,17 @@ updated: 2026-11-04
 ---
 
 > [!influence-path] 影响路径
-> - **政策路径** 推动联邦大学研发经费从1951年的13亿剧增至1953年的31亿美元，开创了战后以五角大楼和原子能委员会为主导的国防任务科研资助范式。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35, 37)]]
+> - **政策路径** 推动联邦大学研发经费从1951年的13亿剧增至1953年的31亿美元，开创了战后以五角大楼和原子能委员会为主导的国防任务科研资助[[Paradigm|范式]]。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35, 37)]]
 > - **机构路径** 废除战时 OSRD 并促成布什离任，建立了由总统任命的官僚系统主导科研拨款的行政集权先例。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 36)]]
-> - **制度反弹路径** 其推行的学术军事化与计划性资助激化了学术界矛盾，促使哈佛大学柯南特与加州理工学院杜布里奇等科学家联合抵制，为后续卫星危机后学术界反弹并争取自由基础研究黄金期埋下了历史伏笔。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 36, 40)]]
+> - **制度反弹路径** 其推行的学术军事化与计划性资助激化了学术界矛盾，促使哈佛大学[[James B. Conant|柯南特]]与加州理工学院杜布里奇等科学家联合抵制，为后续卫星危机后学术界反弹并争取自由基础研究黄金期埋下了历史伏笔。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 36, 40)]]
 
 ---
 
 > [!person-network] 关系网络
-> - **继承者** [[Dwight D. Eisenhower]] — 承接冷战战略遗产，但在卫星危机后转向支持 PSAC 与自由基础研究。
+> - **继承者** [[Dwight D. Eisenhower]] — 承接冷战战略遗产，但在卫星危机后转向支持 [[President's Science Advisory Committee|PSAC]] 与自由基础研究。
 > - **批评者／论敌** [[Vannevar Bush]] — 因战后科学管理权限与是否坚持科学自治发生严重政治分歧。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 36)]]
 > - **批评者／论敌** [[J. Robert Oppenheimer]] — 曾呈交秘密报告反对推进氢弹研发，遭到杜鲁门政府无视与后续边缘化。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 35)]]
-> - **批评者／论敌** [[James B. Conant]] — 公开批评杜鲁门体制下研究型大学学术研究向有组织的程序化研究靠拢极其危险。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 36)]]
+> - **批评者／论敌** [[James B. Conant]] — 公开批评杜鲁门体制下[[Research Universities|研究型大学]]学术研究向有组织的程序化研究靠拢极其危险。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 36)]]
 
 ---
 
@@ -110,12 +112,12 @@ updated: 2026-11-04
 > > 联邦资助机构负责人应当向总统行政官僚系统负责，抑或由科学家委员会独立管理。
 > >
 > > - **杜鲁门政府立场** 坚持公共财政拨款必须对选民与总统负责，联邦科学机构负责人必须由总统直接任命并向白宫负责，反对设立不受行政监管的学者独立委员会。
-> > - **布什与科学界立场** 坚称前沿基础科学遵循自身认知规律，过度行政与政治干预会破坏学术创造力，必须由同行自主评议。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 36)]]
+> > - **布什与科学界立场** 坚称前沿基础科学遵循自身认知规律，过度行政与政治干预会破坏[[Scientific Creativity|学术创造力]]，必须由同行自主评议。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 36)]]
 >
 > > [!axis] 国防军事实用性 vs 纯粹基础探索价值
 > > 战后国家研发资金应当聚焦立竿见影的武器工程，抑或长期分散的自由基础研究。
 > >
-> > - **杜鲁门实用主义路线** 在冷战与热战交织的危机形势下，国家研发必须集中于见效快、威慑力强的国防应用与工程技术。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–36)]]
+> > - **杜鲁门[[Pragmatic Paradigm|实用主义]]路线** 在冷战与热战交织的危机形势下，国家研发必须集中于见效快、威慑力强的国防应用与工程技术。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–36)]]
 > > - **大学与学术机构立场** 警告忽视长期基础研究最终将导致国家科学贫困与技术二流，要求摆脱军事合同束缚。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 36, 38)]]
 
 ---

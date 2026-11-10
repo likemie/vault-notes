@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
+  - "[[Early-Career Researchers]]"
   - "[[Megascience Installations]]"
   - "[[Patient Capital]]"
   - "[[Team Science]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -149,7 +150,7 @@ updated: 2026-11-02
 > > [!axis] 超级署名（Hyperauthorship）与个体学术贡献认定困境
 > > 千人联合署名模式在表彰大科学集体协作的同时，给学术评价机制带来冲击。
 > >
-> > - **传统评价与青年学者困境** 批评视角指出，上千人按字母顺序全员署名导致单篇成果贡献度模糊，外部招聘与职称晋升机制难以评估博士后与初级工程师的实质贡献。
+> > - **传统评价与[[Early-Career Researchers|青年学者]]困境** 批评视角指出，上千人按字母顺序全员署名导致单篇成果贡献度模糊，外部招聘与职称晋升机制难以评估博士后与初级工程师的实质贡献。
 > > - **大科学工程团队辩护** 合作组强调引力波探测属于极其复杂的系统工程，硬件装配、真空维护、算法编程与数据分析缺一不可，全员署名是维护跨学科跨国大协作向心力的必要制度基石。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 82)]]
 >
 > > [!axis] 科技资助资源向大团队倾斜挤压源头创新争议

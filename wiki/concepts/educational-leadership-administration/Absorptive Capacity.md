@@ -7,7 +7,7 @@ aliases:
 summary: "组织识别、吸收并情境化应用外部知识的能力；在教育与治理中取决于实践者认知基础、内部沟通网络与支持性领导，调节科研证据向微观行动的转化成效。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 53
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -23,6 +23,8 @@ related_concepts:
   - "[[Research Literacy]]"
   - "[[Professional Learning Community]]"
   - "[[School Leadership]]"
+  - "[[Thoughtful Engagement]]"
+  - "[[Appropriate Research]]"
   - "[[Implementation Fidelity]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Literature Search]]"
@@ -67,6 +69,7 @@ related_methods:
   - "[[Formative Program Evaluation]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
+  - "[[Ben Levin]]"
   - "[[Keith Morrison]]"
   - "[[Mark Rickinson]]"
   - "[[Gita Steiner-Khamsi]]"
@@ -79,7 +82,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -100,7 +103,7 @@ updated: 2026-11-03
 > [!citation-card] Rickinson et al. 论需求端吸收能力与使能条件
 > 传统的努力过度聚焦于研究发现的单向传播与综合，忽视了对证据采纳与落地的实质性支持。改善教育实践中的证据利用，必须在需求端大力投资教师的批判性审思技能、[[School Leadership\|学校领导力]]示范与制度化排程工时，全面夯实一线组织的吸收使能基础。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, pp. 183, 193–195)]]
 >
-> *Efforts need to shift from a primary focus on the production and pushing of research towards supporting the thoughtful engagement with and implementation of appropriate research evidence by practitioners.*
+> *Efforts need to shift from a primary focus on the production and pushing of research towards supporting the [[Thoughtful Engagement|thoughtful engagement]] with and implementation of [[Appropriate Research|appropriate research evidence]] by practitioners.*
 
 > [!boundary]- 概念边界
 > - **不等于 [[Implementation Fidelity\|实施忠实度]]** 忠实度强调对既定方案指令的机械依从；吸收能力强调组织对外部证据的审慎理解、批判反思与因地制宜改编。
@@ -145,7 +148,7 @@ updated: 2026-11-03
 > **认知基础与沟通通道机制** 探讨为何外部知识无法直接发挥效益，论证组织内部已有知识积累与开放沟通在吸收转化中的先决条件作用。
 
 > [!claim] Cohen & Levinthal; Ross & Morrison; Glitz & Meyersson
-> **认知存量与沟通先决性** 外部知识的潜在价值绝不能脱离接收组织的吸收能力而独立存在。韦斯利·科恩（Wesley Cohen）与丹尼尔·莱文萨尔（Daniel Levinthal）指出，组织吸收新知识的能力高度依赖其先前已有的相关知识积累；没有足够的认知存量，组织甚至无法识别前沿知识的价值。史蒂文·罗斯（Steven Ross）与加里·[[Keith Morrison\|莫里森]]（Gary Morrison）在学区改革评价中进一步证实，若学区各部门之间缺乏开放的沟通渠道与共享的[[Logic Model\|逻辑模型]]，即便外部评价报告质量再高，也会被彻底束之高阁；在[[Technological Catch-up|技术追赶]]分析中同样证实，唯有与先进技术差距较小、具备认知基础的行业才能有效消化外部情报。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 122–124)]]；[[Argument_Glitz_2020_AmEconRev\|(Glitz & Meyersson, 2020, p. 1096)]]
+> **认知存量与沟通先决性** 外部知识的潜在价值绝不能脱离接收组织的吸收能力而独立存在。韦斯利·科恩（Wesley Cohen）与丹尼尔·[[Ben Levin|莱文]]萨尔（Daniel Levinthal）指出，组织吸收新知识的能力高度依赖其先前已有的相关知识积累；没有足够的认知存量，组织甚至无法识别前沿知识的价值。史蒂文·罗斯（Steven Ross）与加里·[[Keith Morrison\|莫里森]]（Gary Morrison）在学区改革评价中进一步证实，若学区各部门之间缺乏开放的沟通渠道与共享的[[Logic Model\|逻辑模型]]，即便外部评价报告质量再高，也会被彻底束之高阁；在[[Technological Catch-up|技术追赶]]分析中同样证实，唯有与先进技术差距较小、具备认知基础的行业才能有效消化外部情报。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 122–124)]]；[[Argument_Glitz_2020_AmEconRev\|(Glitz & Meyersson, 2020, p. 1096)]]
 
 ---
 

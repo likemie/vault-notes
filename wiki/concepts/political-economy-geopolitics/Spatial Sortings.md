@@ -6,7 +6,7 @@ aliases:
 summary: "知识密集型资本主义通过投资、治理和空间规划持续把地点与人口划分为赢家和输家的过程，是空间不平等生产的重要机制"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 23
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Cultural Diplomacy]]"
   - "[[Immigrant Status]]"
   - "[[Causality]]"
+  - "[[Cumulative Innovation]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Flow]]"
   - "[[International Education Hubs]]"
@@ -40,6 +41,7 @@ related_methods:
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Sami Moisio]]"
+  - "[[Tim Cain]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Moisio_2022_Springer]]"
@@ -49,7 +51,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -108,7 +110,7 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 > 
 > > "the core organizing logic of the POST-Keynesian world is not to VALUE people as workers and consumers, but to expel people and to destroy traditional capitalism to feed high finance and high tech" (cited in Moisio, 2022, p. 31)
 > > 
-> > 后凯恩斯主义世界的核心组织逻辑不是将人们作为工人和消费者来评价，而是驱逐人们和摧毁传统资本主义以满足高级金融和高科技的需求。
+> > 后[[Tim Cain|凯恩]]斯主义世界的核心组织逻辑不是将人们作为工人和消费者来评价，而是驱逐人们和摧毁传统资本主义以满足高级金融和高科技的需求。
 > 
 > - Davidson and Rees-Mogg (1999) 的赢家与输家分析——预见了信息时代产生跨国认知精英与大量被边缘化人口之间的深刻分化([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.31–32]])。
 > - Harvey 的资本主义空间动力学——空间分选可以被理解为[[Fixity-Motion Tension\|固着-流动张力]]在空间层面的具体表现。
@@ -169,7 +171,7 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 > - **省级尺度的粗糙性**[[Argument_Fan_Song_Zhai_2024_RSEE|Fan et al. (2024)]]的省级面板数据虽然提供了系统的量化证据，但掩盖了省内巨大的城乡和地市差异——空间分选最极端的赢家-输家分化可能恰恰发生在同一省份内部的核心城市与偏远县域之间，而省级平均数据无法捕捉这一尺度的分选机制（[[Argument_Fan_Song_Zhai_2024_RSEE\|Fan et al., 2024, p. 75]]）。
 
 > [!warning] 方法论层面
-> - **[[Coupling Coordination Model\|耦合协调模型]]与 LISA 分析的[[Causality\|因果性]]缺失** [[Argument_Fan_Song_Zhai_2024_RSEE|Fan et al. (2024)]]使用的耦合协调度和 LISA 时空分析本质上是描述性综合评价工具——它们可以准确刻画空间分选的格局（谁赢、谁输、格局多稳定），但无法直接推断分选格局的驱动机制。高协调度可能由第三个共同因素（如整体经济发展水平）同时驱动，而非子系统之间的真实协同（[[Argument_Fan_Song_Zhai_2024_RSEE\|Fan et al., 2024, p. 74]]）。后续研究如能引入空间面板回归或空间 [[Difference-in-Differences\|DID]] 设计，将有助于从描述推进到因果解释。
+> - **[[Coupling Coordination Model\|耦合协调模型]]与 LISA 分析的[[Causality\|因果性]]缺失** [[Argument_Fan_Song_Zhai_2024_RSEE|Fan et al. (2024)]]使用的耦合协调度和 LISA 时空分析本质上是描述性综合评价工具——它们可以准确刻画空间分选的格局（谁赢、谁输、格局多稳定），但无法直接推断分选格局的驱动机制。高协调度可能由第三个共同因素（如整体经济发展水平）同时驱动，而非子系统之间的真实协同（[[Argument_Fan_Song_Zhai_2024_RSEE\|Fan et al., 2024, p. 74]]）。[[Cumulative Innovation|后续研究]]如能引入空间面板回归或空间 [[Difference-in-Differences\|DID]] 设计，将有助于从描述推进到因果解释。
 
 ---
 

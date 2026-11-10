@@ -11,7 +11,7 @@ summary: "美国近代教育家与首任联邦教育专员，作为比较教育�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 33
+person_related_count: 35
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -28,7 +28,9 @@ related_concepts:
   - "[[Document]]"
   - "[[Scholiocentric Approach]]"
   - "[[Auslandspadagogik]]"
+  - "[[Transnational Education]]"
   - "[[General Education]]"
+  - "[[Grit]]"
   - "[[Didaktik]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Policy Borrowing]]"
@@ -67,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -80,7 +82,7 @@ updated: 2026-11-02
 > - **身份位置** 美国首任联邦教育专员、康涅狄格州与罗得岛州公共教育督办首脑、《美国教育杂志》创办人与主编；19 世纪外国教育调查与文献汇纂的集大成者。
 > - **学科代际定位** 比较教育学第一重论述代际（“启蒙准科学与行政改良代际”）美洲核心代表；与[[Victor Cousin|维克多·库森]]、霍勒斯·曼共同确立了“[[Scholiocentric Approach|以校为中心]]”（Scholiocentric）描述性考察外国办学经验，并以此作为游说立法机关、争取公共财政建立国民学校体系之政治合法化依据的经典模式。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 140–141)]]
 > - **核心角色** 在比较教育学科史上，巴纳德是将早期“[[Auslandspadagogik\|外国教育学]]”从零星的旅行见闻推向系统化、百科全书式历史描述与教育[[Ethnography\|民族志]]记录的枢纽人物。
-> - **代表贡献** 编纂出版两卷本跨国教育宏篇巨著《[[National Education|国民教育]]》（《[[National Education in Europe\|欧洲国民教育]]》（*[[National Education]] in Europe*）），并独立创办主持长达 31 卷的《美国教育杂志》（*American Journal of Education*），筑就了近代西方教育史料最完备的客观档案库。
+> - **代表贡献** 编纂出版两卷本[[Transnational Education|跨国教育]]宏篇巨著《[[National Education|国民教育]]》（《[[National Education in Europe\|欧洲国民教育]]》（*[[National Education]] in Europe*）），并独立创办主持长达 31 卷的《美国教育杂志》（*American Journal of Education*），筑就了近代西方教育史料最完备的客观档案库。
 
 巴纳德以极其宏阔的视野系统梳理欧洲各国的教育制度，其工作赢得了后世学者的广泛赞誉：
 
@@ -109,7 +111,7 @@ updated: 2026-11-02
 
 ## 主要著作与思想发展
 
-巴纳德以极其惊人的毅力独立完成了 19 世纪最为浩瀚的跨国教育[[Document|文献]]汇编：
+巴纳德以极其惊人的[[Grit|毅力]]独立完成了 19 世纪最为浩瀚的[[Transnational Education|跨国教育]][[Document|文献]]汇编：
 
 > [!work-line] 主要著作
 > - **1854/1872 — *[[National Education in Europe]]*** 巴纳德比较教育学的代表作。全书详尽记录了欧洲各国公共教育的历史沿革、行政架构、各级学校组织、课时分配表、教师任用条件与国家教育财政支出，被[[Brian Holmes\|布赖恩·霍姆斯]]誉为近代比较教育史上的宏伟奇迹。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 32)]]
@@ -157,7 +159,7 @@ updated: 2026-11-02
 ---
 
 > [!citation-card] 霍姆斯论巴纳德教育百科全书成就
-> 巴纳德处理比较教育的方法在很大程度上是历史性与描述性的，其旨在编纂一部跨国教育百科全书的宏伟目标实质上已经圆满达成。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 33)]]；引自 Holmes (1965:14)
+> 巴纳德处理比较教育的方法在很大程度上是历史性与描述性的，其旨在编纂一部[[Transnational Education|跨国教育]]百科全书的宏伟目标实质上已经圆满达成。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 33)]]；引自 Holmes (1965:14)
 >
 > *Unquestionably Barnard’s approach to comparative education was largely historical and descriptive, and his aim to produce an encyclopaedia of education ... was virtually achieved.*
 

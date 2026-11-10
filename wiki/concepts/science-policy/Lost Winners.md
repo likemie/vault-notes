@@ -8,7 +8,7 @@ aliases:
 summary: "由李继文、尹运涛、桑托·福图纳托与王大顺（Li et al., 2019）提出的科学计量学概念；指在诺贝尔科学奖等不可死后追授的终身荣誉存在漫长授奖时滞的现实下，那些在学术生涯中晚期才取得同等量级重大突破的科学家，因寿命期望不足而在评奖周期中遭受系统性筛除的生存偏差现象。"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,10 +18,11 @@ tags:
   - theme/nobel-prize
   - concept/selection-bias
 related_concepts:
+  - "[[Survivorship Bias]]"
   - "[[Creativity]]"
+  - "[[Sleeping Beauty in Science]]"
   - "[[Paradigm]]"
   - "[[Scientific Credit]]"
-  - "[[Screening Off]]"
   - "[[Counterfactual]]"
   - "[[Construct]]"
   - "[[Variable]]"
@@ -33,15 +34,17 @@ related_instruments: []
 related_persons:
   - "[[Jin Li]]"
   - "[[Roberta Sinatra]]"
+  - "[[Santo Fortunato]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
+  - "[[Argument_Sinatra_2016_Science]]"
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -50,7 +53,7 @@ updated: 2026-11-03
 > 遗失的赢家指代在科学史与学术评奖中由于寿命限制而遭遇系统性遗漏的杰出科学家群体。由于诺贝尔科学奖项等顶级荣誉遵循不授予已逝学者的硬性章程，加之重大成果从面世到获得同行充分检验通常需要数十年时间，那些在学术生涯成熟期或中晚年才产出巅峰之作的研究者，极大概率在等待评奖的漫长周期中离世，从而被历史荣誉机制结构性筛除。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 57–58)]]
 
 > [!concept-lens|notitle] 概念透镜
-> - **含义** 揭示顶级科学荣誉档案中“青年期容易出诺奖突破”的统计表象背后深藏的生存偏差（Survival Bias）。
+> - **含义** 揭示顶级科学荣誉档案中“青年期容易出诺奖突破”的统计表象背后深藏的[[Survivorship Bias|生存偏差]]（Survival Bias）。
 > - **用途** 矫正基于诺奖名单推导学术[[Creativity|创造力]]年龄规律时的方法论谬误，证明精英科学家的成果分布同样遵循[[Random Impact Rule|随机影响规律]]。
 > - **边界** 专指由于荣誉认定滞后与生理寿命自然终结引发的制度性错失，不包括成果本身学术质量未达标的情况。
 
@@ -66,7 +69,7 @@ updated: 2026-11-03
 ---
 
 > [!contrast-table|notitle] 概念辨析
-> | 比较维度 | 遗失的赢家（Lost Winners） | 睡美人现象（Sleeping Beauties） | 基础马太受害者（Under-recognized） |
+> | 比较维度 | 遗失的赢家（Lost Winners） | [[Sleeping Beauty in Science\|睡美人现象]]（Sleeping Beauties） | 基础马太受害者（Under-recognized） |
 > |---|---|---|---|
 > | **未获承认根源** | 成果卓越但突破发生偏晚，在漫长授奖等待期中生理离世 | 成果超越时代认知，在发表后数十年内处于引文沉寂 | 处于学术边缘梯队，缺乏权威学者背书或顶级机构声望 |
 > | **学术影响力水平** | 极高（单篇成果位列全球引文顶尖，达诺奖级影响力） | 早期极低，被重新唤醒后才迎来爆发式高引 | 持续处于中低位水平，注意力被中心权威学者所吸纳 |
@@ -96,7 +99,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题一｜终身荣誉不可追授规则与漫长时滞对晚期突破学者造成系统性筛除
-> **荣誉制度偏差与寿命生存竞争** 探讨科学奖励系统的规则如何扭曲重大成就的宏观年龄分布，证实晚期取得同等突破的学者面临不可逆的制度性[[Screening Off|屏蔽]]。
+> **荣誉制度偏差与寿命生存竞争** 探讨科学奖励系统的规则如何扭曲重大成就的宏观年龄分布，证实晚期取得同等突破的学者面临不可逆的制度性屏蔽。
 
 > [!claim] [[Jin Li|Li, J.]]
 > **不可追授规则引发的寿命生存偏误** 对诺贝尔奖得主受奖前全部发表记录的量化分析显示，51.74% 的最高被引论著正是其获奖代表作，且这两类成果在作品序列中均呈现压倒性的前期聚集；由于诺贝尔奖章程严格规定不授予已故学者，且现代授奖等待时滞已大幅延长，唯有在早期做出突破的研究者才拥有充足的寿命窗口活着等到获奖，使学术界产生了唯有年轻天才方能取得顶尖成就的经验错觉。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 57)]]
@@ -120,7 +123,7 @@ updated: 2026-11-03
 ---
 
 > [!dev-timeline] 概念演变
-> - **2014 — 授奖时滞危机揭示** 桑托·福图纳托等人（Santo Fortunato et al.）发表自然快讯，揭示诺贝尔奖等待时间呈现指数级拉长，预言得主预期获奖年龄即将超过人类平均寿命。
+> - **2014 — 授奖时滞危机揭示** [[Santo Fortunato|桑托·福图纳托]]等人（Santo Fortunato et al.）发表自然快讯，揭示诺贝尔奖等待时间呈现指数级拉长，预言得主预期获奖年龄即将超过人类平均寿命。
 > - **2019 — 遗失的赢家假说提出** 李继文、尹运涛、福图纳托与[[Dashun Wang|王大顺]]在大样本诺奖得主发表序列分析中正式提出“遗失的赢家”概念，通过剔除获奖论著成功恢复了随机分布。
 > - **2021 — 科学学职业理论集成** 王大顺与[[Albert-László Barabási|巴拉巴西]]在专著中系统阐明遗失的赢家对科学政策的深远启示，指出年龄不构成扼杀[[Creativity|创造力]]的生理壁垒。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 57–58)]]
 

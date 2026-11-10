@@ -11,7 +11,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ tags:
   - theme/global-governance
 related_concepts:
   - "[[Development Turn in Comparative Education]]"
+  - "[[Transnational Education]]"
   - "[[Paradigm]]"
   - "[[Policy Brokerage]]"
   - "[[Soft Power]]"
@@ -54,13 +55,13 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定性
-> 1960 年贝拉吉奥会议（Bellagio Conference on Education and Economic Development）是二战后西方阵营首次将教育确立为国家经济增长关键生产性投资的里程碑峰会；会议促成了经济学界与多边国际组织的深度结盟，奠定了全球教育治理“[[Development Turn in Comparative Education\|发展转向]]”与战后跨国教育危机动员的历史始祖节点。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
+> 1960 年贝拉吉奥会议（Bellagio Conference on Education and Economic Development）是二战后西方阵营首次将教育确立为国家经济增长关键生产性投资的里程碑峰会；会议促成了经济学界与多边国际组织的深度结盟，奠定了全球教育治理“[[Development Turn in Comparative Education\|发展转向]]”与战后[[Transnational Education|跨国教育]]危机动员的历史始祖节点。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1960 年 6 月，意大利科莫湖畔贝拉吉奥（Villa Serbelloni，洛克菲勒基金会贝拉吉奥研究中心）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]

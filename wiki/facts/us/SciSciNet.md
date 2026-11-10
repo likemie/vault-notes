@@ -10,9 +10,9 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 24
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2023–至今"
 initiator_organization: "Center for Science of Science and Innovation (CSSI), Northwestern University"
@@ -29,28 +29,37 @@ tags:
 related_concepts:
   - "[[Metascience]]"
   - "[[Data Infrastructure]]"
-  - "[[Literature Search]]"
+  - "[[Champ]]"
   - "[[Patent Citation]]"
   - "[[Clinical Trial]]"
   - "[[Document]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
+  - "[[Construct]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[WSB Model]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
+  - "[[Record Linkage]]"
 related_instruments: []
 related_persons:
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
 related_facts:
   - "[[National Science Foundation]]"
+  - "[[Dimensions]]"
   - "[[National Institutes of Health]]"
   - "[[Microsoft Academic Graph]]"
+  - "[[Crossref]]"
+  - "[[United States Patent and Trademark Office]]"
+  - "[[Education Policy Outlook]]"
+  - "[[OpenAlex]]"
   - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Lin_2023_SciData]]"
 confidence: high
 status: active
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -73,7 +82,7 @@ updated: 2026-11-02
 > - **项目目标** 建立高覆盖、高保真、贯通上下游社会经济脉络的综合开放科研数据库。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 > - **覆盖对象** 全球范围内的学术期刊论著、学术专著、会议录、学位成果及其对应的科研基金、专利与公众舆论。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 > - **干预措施** 公布 22 张规范化数据表（制表符分隔值，Tab-Separated Values, TSV），提供清洗脚本与模糊匹配算法，免费开放近 5000 万篇论著的指标预计算成果。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
-> - **实施控制** 建立针对 Dimensions 等主流商业数据库的基准交叉检验，执行严格的时间窗约束与多指标一致性核验。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> - **实施控制** 建立针对 [[Dimensions]] 等主流商业数据库的基准交叉检验，执行严格的时间窗约束与多指标一致性核验。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
 > [!case] 跨源关联个案追踪：从单一成果穿透至 [[National Institutes of Health|NIH]] 资助全景
 > 以焦点论著《遗传性痉挛性截瘫基因定位研究》（PaperID: `246319838`）为例：
@@ -84,7 +93,7 @@ updated: 2026-11-02
 > [!citation-card] 降低准入门槛与提升实证可复现性
 > 科学学开放数据湖为学术共同体提供大规模实证基石，增强新发现的证据质量并提升研究结论的可复现性与稳健性；通过汇聚多源数据源与测度结果，大幅削减预处理重复投入，降低准入门槛并激发新理论的多元性。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 >
-> *Overall, this data lake serves as an initial but useful resource for the field, by lowering the barrier to entry, reducing duplication of efforts in data processing and measurements, improving the robustness and replicability of empirical claims, and broadening the diversity and representation of ideas in the field.*
+> *Overall, this data lake serves as an initial but useful resource for the [[Champ|field]], by lowering the barrier to entry, reducing duplication of efforts in data processing and measurements, improving the robustness and replicability of empirical claims, and broadening the diversity and representation of ideas in the field.*
 
 ---
 
@@ -98,7 +107,7 @@ updated: 2026-11-02
 > [!actor-grid] 实施协同矩阵
 > - **发起与研发团队** 西北大学科学学与创新科学中心，负责整体架构设计、算法实现、数据清洗与指标预计算。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 > - **开源托管平台** Figshare 数据托管仓库（集合主页：https://doi.org/10.6084/m9.figshare.c.6076908.v1 ）与 GitHub 开源代码仓库（https://github.com/kellogg-cssi/SciSciNet ），提供稳定的元数据下载与版本归档支持。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
-> - **上游基础设施提供方** 微软学术图谱（Microsoft Academic Graph, MAG）、Crossref、PubMed、NSF、NIH、美国专利商标局（United States Patent and Trademark Office, USPTO）等公共机构提供基础开放数据流。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> - **上游基础设施提供方** 微软学术图谱（Microsoft Academic Graph, MAG）、[[Crossref]]、PubMed、NSF、NIH、[[United States Patent and Trademark Office|美国专利商标局]]（United States Patent and Trademark Office, USPTO）等公共机构提供基础开放数据流。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 > - **终端口碑与研究群体** 全球科学学、[[Bibliometric Analysis|文献计量学]]、科技政策与创新社会学研究者与高等教育量化评价团队。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
 > [!pathways] 实施路径与管理
@@ -131,14 +140,14 @@ updated: 2026-11-02
 > > [!axis] 数据范围与代表性局限
 > > 针对数据湖外部数据源偏向美欧英语体系的学术审视。
 > >
-> > - **批评观点** 资助数据目前集中于美国 NSF 与 NIH，专利引文主要来自 USPTO 与欧洲专利局（European Patent Office, EPO），对非英语国家与新兴经济体的科学资助及本土专利覆盖存在结构性盲区。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> > - **批评观点** 资助数据目前集中于美国 NSF 与 NIH，专利引文主要来自 USPTO 与欧洲专利局（European Patent Office, [[Education Policy Outlook|EPO]]），对非英语国家与新兴经济体的科学资助及本土专利覆盖存在结构性盲区。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 > > - **回应辩护** 项目以开放架构发布，公布了全套记录对齐算法与数据接口，呼吁全球各地区研究团队协同接入本国科研资助与专利数据库进行增量扩展。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 >
 > > [!axis] 开源基础设施可持续维护挑战
 > > 针对微软学术图谱停更后开源数据湖长期活力的讨论。
 > >
 > > - **批评观点** 数据湖以 2021 年底退役的 MAG 为核心底库，若缺乏常态化的图谱更新与活跃维护机制，其时效性优势将随时间推移逐渐减弱。
-> > - **回应辩护** 数据湖确立了标准化的家族聚合与外部对齐规则，可无缝迁移并对接 OpenAlex 等新一代开放学术知识图谱，持续发挥基准检验价值。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> > - **回应辩护** 数据湖确立了标准化的家族聚合与外部对齐规则，可无缝迁移并对接 [[OpenAlex]] 等新一代开放学术知识图谱，持续发挥基准检验价值。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
 ---
 
@@ -146,16 +155,16 @@ updated: 2026-11-02
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Metascience]] | Concept | 数据湖支持的核心交叉学科，旨在通过大数据检验科学规律与评价机制。 |
+> | [[Metascience]] | Concept | 数据湖支持的核心[[Comparative Education as a Cross-Sectional Area\|交叉学科]]，旨在通过大数据检验科学规律与评价机制。 |
 > | [[Data Infrastructure]] | Concept | 数据湖作为开放公共科学数据基础设施，旨在降低算力与预处理门槛。 |
-> | [[Patent Citation]] | Concept | 数据湖向下游产业转化的核心测度构念，整合了数千万条专利对科学成果引用。 |
+> | [[Patent Citation]] | Concept | 数据湖向下游产业转化的核心测度[[Construct\|构念]]，整合了数千万条专利对科学成果引用。 |
 > | [[Clinical Trial]] | Concept | 数据湖向下游医疗转化的核心测度构念，链接临床试验对基础成果引用。 |
 > | [[Microsoft Academic Graph]] | Fact (Program) | 数据湖的核心基础图谱源，经规范化清洗与成果家族聚拢后构建核心集。 |
 > | [[Web of Science]] | Fact (Program) | 科学学经典引文索引数据库，在基准检验中与数据湖表现出高度一致性。 |
-> | [[National Science Foundation]] | Fact (Organization) | 数据湖上游核心政府资助方之一，亦作为资助记录链接的核心数据源。 |
+> | [[National Science Foundation]] | Fact (Organization) | 数据湖上游核心政府资助方之一，亦作为资助[[Record Linkage\|记录链接]]的核心数据源。 |
 > | [[National Institutes of Health]] | Fact (Organization) | 数据湖上游核心生物医学资助机构，其资助项目与文献实现高保真链接。 |
 > | [[WSB Model]] | Theory | 数据湖预计算全量引文动力学拟合参数所依托的核心引文增长模型。 |
-> | [[Bibliometric Analysis]] | Method | 数据湖面向的核心定量分析方法与实证研究范式。 |
+> | [[Bibliometric Analysis]] | Method | 数据湖面向的核心定量分析方法与实证[[Paradigm\|研究范式]]。 |
 
 ---
 

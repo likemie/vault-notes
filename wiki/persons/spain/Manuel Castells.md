@@ -9,7 +9,7 @@ summary: "西班牙社会学家，网络社会与信息时代发展模式奠基�
 type: person
 nationality: spain
 person_region: "spain"
-person_related_count: 34
+person_related_count: 36
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -36,9 +36,11 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Methodological Nationalism]]"
   - "[[Scale in Higher Education]]"
+  - "[[Scientific Mobility]]"
   - "[[Global Educational Discourse]]"
   - "[[Gatekeepers]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Transnational Education]]"
   - "[[Soviet Statism]]"
   - "[[Military-Industrial Black Hole]]"
   - "[[Shape-Shifting]]"
@@ -65,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-12
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -130,8 +132,8 @@ updated: 2026-10-22
 
 > [!influence-path] 理论影响与实证应用
 > - **理论路径** 其空间二分法（[[Space of Flows|流动空间]] vs 场所空间）打破了社会科学中的[[Methodological Nationalism|方法论民族主义]]，为批判地理学、国际政治经济学与比较教育学提供了跨[[Scale in Higher Education|尺度分析]]工具。
-> - **比较教育与[[Discourse|话语]]流通研究** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）深度吸纳卡斯特的空间理论，将“全球学术空间”定性为依托国际学术期刊、专著、国际会议、学者流动与科研项目等物质支撑建构的流动空间，揭示进入该空间的行动者必须兼具本土文化与大都市“全球学术文化”的双语能力；同时论证了流动空间中过度简化的去情境化方案（[[Global Educational Discourse|全球教育话语]]）降落到扎根于场所空间的学校时产生的剧烈实践异化与[[Gatekeepers|守门人]]群体垄断。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–355)]]
-> - **政策与教育研究** 揭示了当代国家为何热衷于采纳抽象、可塑的全球政策[[Discourse|话语]]（如“[[21st Century Skills and Competencies Discourse|核心素养]]”、“能力导向课程”），即利用媒体友好型话语开展[[Governance by Spin|舆论操控]]以调和多元利益冲突；同时解释了跨国教育治理机构（如 [[OECD]]、[[World Bank|世界银行]]）在流动空间中的话语扩散机制。
+> - **比较教育与[[Discourse|话语]]流通研究** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）深度吸纳卡斯特的空间理论，将“全球学术空间”定性为依托国际学术期刊、专著、国际会议、[[Scientific Mobility|学者流动]]与科研项目等物质支撑建构的流动空间，揭示进入该空间的行动者必须兼具本土文化与大都市“全球学术文化”的双语能力；同时论证了流动空间中过度简化的去情境化方案（[[Global Educational Discourse|全球教育话语]]）降落到扎根于场所空间的学校时产生的剧烈实践异化与[[Gatekeepers|守门人]]群体垄断。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–355)]]
+> - **政策与教育研究** 揭示了当代国家为何热衷于采纳抽象、可塑的全球政策[[Discourse|话语]]（如“[[21st Century Skills and Competencies Discourse|核心素养]]”、“能力导向课程”），即利用媒体友好型话语开展[[Governance by Spin|舆论操控]]以调和多元利益冲突；同时解释了[[Transnational Education|跨国教育]]治理机构（如 [[OECD]]、[[World Bank|世界银行]]）在流动空间中的话语扩散机制。
 > - **国家主义与创新机制研究** 其关于[[Soviet Statism|苏联国家主义]]因意识形态禁锢（如[[Lysenkoism|李森科主义]]）和[[Military-Industrial Black Hole|军工黑洞]]而阻碍民用[[Informationalization|信息化]]创新的论断，成为理解极权体制与技术创新关系的经典命题。
 > - **科技精英与政治哲学批判** 其关于“[[Cosmopolitanism|世界主义]]精英与本土大众”的洞见，被用于剖析当代硅谷科技巨头在享受国家研发红利的同时陷入[[Technological Agnosticism|技术不可知论]]与[[Cult of Optionality|选择权崇拜]]的深层精神脱嵌。
 

@@ -12,7 +12,7 @@ summary: "用于评估元分析中发表偏倚与抽屉文件效应的敏感性�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -41,6 +41,7 @@ related_methods:
   - "[[Funnel Plot]]"
   - "[[Trim and Fill Method]]"
   - "[[Leave-One-Out Sensitivity Analysis]]"
+  - "[[Statistical Significance]]"
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
   - "[[Random-Effects Model]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -111,7 +112,7 @@ updated: 2026-10-30
 > **符号说明**
 > - $k$：[[Meta-analysis\|元分析]]纳入的初级研究（或[[Effect Size\|效应量]]）总数；
 > - $Z_i$：第 $i$ 项初级研究单尾显著性对应的标准正态分位数；
-> - $Z_\alpha$：显著性检验临界值（单尾 $\alpha = .05$ 时为 1.645；双尾 $\alpha = .05$ 时为 1.96，分母对应 $1.96^2 = 3.841$）。
+> - $Z_\alpha$：[[Statistical Significance|显著性检验]]临界值（单尾 $\alpha = .05$ 时为 1.645；双尾 $\alpha = .05$ 时为 1.96，分母对应 $1.96^2 = 3.841$）。
 >
 > **数学直觉** 假设所有未发表的抽屉研究其平均 $Z$ 值为 0；当加入 $N_{\text{fs}}$ 篇零效应研究后，新的合并统计量 $\bar{Z}_{\text{new}} = \frac{\sum Z_i}{\sqrt{k + N_{\text{fs}}}}$ 恰好等于显著性临界值 $Z_\alpha$，解此方程即可得出 $N_{\text{fs}}$。
 >

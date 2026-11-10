@@ -7,7 +7,7 @@ title: "Argument_Hill_2022_FacilitatingActors"
 argument_key: "Argument_Hill_2022_FacilitatingActors"
 argument_display_title: "Who is facilitating research use in education systems? In N"
 argument_kind: "book-chapter"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -89,11 +89,12 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[PISA]]"
   - "[[TIMSS]]"
+  - "[[Finnish Education Evaluation Centre]]"
   - "[[Kunnskapssenter for utdanning]]"
   - "[[Public Sector PhD Scheme]]"
 status: draft
 created: 2026-09-13
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
@@ -330,7 +331,7 @@ updated: 2026-10-29
 > [!feature] 官方教育中介机构的三重功能画像
 > - **法定双重职能型** 丹麦公资独立机构被法律明确赋予产出与促成双重使命，兼顾证据生产与政策/实践多端扩散。
 > - **纯转化促成型** 英国英格兰 EEF、智利领导力中心等完全聚焦于实践转化与中介网络搭建，不直接承担基础研究生产。
-> - **依附性传统型** 芬兰 FINEEC 与[[Kunnskapssenter for utdanning\|挪威教育知识中心]]多依附于中央行政序列或大学母体，侧重于为部委决策提供专题监测支持。
+> - **依附性传统型** 芬兰 [[Finnish Education Evaluation Centre|FINEEC]] 与[[Kunnskapssenter for utdanning\|挪威教育知识中心]]多依附于中央行政序列或大学母体，侧重于为部委决策提供专题监测支持。
 
 > [!sub-claim] 3. 官方中介与部委协作通道的制度性阻断及基层实践网络虚化
 

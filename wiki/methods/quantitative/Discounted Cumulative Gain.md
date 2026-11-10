@@ -9,9 +9,9 @@ summary: "信息科学与科学计量学中用于度量排序结果质量或聚�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 11
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -20,7 +20,10 @@ tags:
   - evaluation
 related_concepts:
   - "[[Unit of Analysis]]"
+  - "[[Construct Validity]]"
   - "[[Hot Streak]]"
+  - "[[Document]]"
+  - "[[Emergence]]"
 related_theories:
   - "[[Constant-Probability-of-Success Model]]"
 related_methods:
@@ -29,18 +32,19 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Microsoft Academic Graph]]"
+  - "[[OpenAlex]]"
 related_arguments:
   - "[[Argument_Chen_2025_HSSC]]"
 confidence: high
 status: completed
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Discounted Cumulative Gain
-> **折损累积增益（Discounted Cumulative Gain, DCG）** 是指在信息检索与科学计量学中评估排序列整体质量与聚合多项产出价值的量化算法。该方法依据成果在列表中的相关度（或影响力和颠覆度得分）进行降序排列，并对位置靠后的低秩项施加对数衰减折扣（$\frac{1}{\log_2(i+1)}$）。在学者生涯动力学研究中，DCG 能够同时兼顾成果价值与数量规模，解决算术平均受低值稀释以及简单加总过度奖赏平庸发文的系统性偏差。[[Argument_Chen_2025_HSSC|(Chen et al., 2025, pp. 5–6)]]
+> **折损累积增益（Discounted Cumulative Gain, DCG）** 是指在信息检索与[[Bibliometric Analysis|科学计量学]]中评估排序列整体质量与聚合多项产出价值的量化算法。该方法依据成果在列表中的相关度（或影响力和颠覆度得分）进行降序排列，并对位置靠后的低秩项施加对数衰减折扣（$\frac{1}{\log_2(i+1)}$）。在学者生涯动力学研究中，DCG 能够同时兼顾成果价值与数量规模，解决算术平均受低值稀释以及简单加总过度奖赏平庸发文的系统性偏差。[[Argument_Chen_2025_HSSC|(Chen et al., 2025, pp. 5–6)]]
 
 > [!method-scope] 方法范围
 > - **测量或估计对象** 搜索引擎检索排序列表的累积效用、学者在特定年份或职业生涯阶段多项学术成果的综合影响力与颠覆度水平。
@@ -56,8 +60,8 @@ updated: 2026-11-04
 ---
 
 > [!method-position] 方法定位
-> - **构念效度** 传统科研评价指标常假设各项成果具有同质权重或仅取单篇极值；DCG 将“重大代表作具有主导价值、常规后续产出具备递减边际收益”的认知规律形式化为对数折扣权重，兼顾顶尖突破高度与持续产出厚度。
-> - **研究者判断** 需明确相关度得分的映射规则（如原始被引频次是否需取对数压缩偏态、颠覆性指数是否仅提取正向颠覆值）、截断位置 $k$ 的设定以及是否采用理想基准（IDCG）进行归一化。
+> - **[[Construct Validity|构念效度]]** 传统科研评价指标常假设各项成果具有同质权重或仅取单篇极值；DCG 将“重大代表作具有主导价值、常规后续产出具备递减边际收益”的认知规律形式化为对数折扣权重，兼顾顶尖突破高度与持续产出厚度。
+> - **研究者判断** 需明确相关度得分的映射规则（如原始被引频次是否需取对数压缩偏态、[[Disruption Index|颠覆性指数]]是否仅提取正向颠覆值）、截断位置 $k$ 的设定以及是否采用理想基准（IDCG）进行归一化。
 > - **有效性标准** 排序单调性（高质量成果置于前列时得分更高）、尺度不变性及对随机低值波动的抗噪稳健性。
 > - **不声称回答的问题** DCG 本身仅提供聚合算式，无法解决原始指标自身的输入偏差（如被引时滞或引文通胀）。
 
@@ -69,7 +73,7 @@ updated: 2026-11-04
 > [!dev-timeline] 方法演变
 > - **2002 — 信息科学基础算法确立** Kalervo Järvelin 与 Jaana Kekäläinen 在 ACM TOIS 提出累积增益（CG）与折损累积增益（DCG），奠定现代检索系统非二元相关度评估标准。
 > - **2023 — 创意产业多作品价值聚合拓展** Oliveira 等将 DCG 算法拓展至音乐产业，成功测度艺术家单曲曲目集合与全生命周期的爆发期动态。
-> - **2025 — 科学学生涯颠覆度动态聚合与建模** [[Argument_Chen_2025_HSSC|Chen et al. (2025)]] 将 DCG 引入大样本经济学家面板分析，分别构建年度被引与颠覆度 DCG 指数，实证揭示学者学术爆发期内的颠覆度显著超越常规时期，且解释力达 $R^2 = 0.822$。
+> - **2025 — 科学学生涯颠覆度动态聚合与建模** [[Argument_Chen_2025_HSSC|Chen et al. (2025)]] 将 DCG 引入大样本经济学家面板分析，分别构建年度被引与颠覆度 DCG 指数，实证揭示学者[[Hot Streak|学术爆发期]]内的颠覆度显著超越常规时期，且解释力达 $R^2 = 0.822$。
 
 ---
 
@@ -145,9 +149,9 @@ updated: 2026-11-04
 > ```
 
 > [!method-stack] 数据口径
-> - **数据来源** 完备引文知识图谱（如 [[Microsoft Academic Graph]]、OpenAlex）。
+> - **数据来源** 完备引文知识图谱（如 [[Microsoft Academic Graph]]、[[OpenAlex]]）。
 > - **时间与范围** 按日历年或入行学术年资汇总单体学者名下全部经消歧清洗的成果。
-> - **清洗与归属** 剔除无被引且无参考文献的边缘条目；对单篇成果设置最低引文窗口（如 5 年窗口 $D_5$）。
+> - **清洗与归属** 剔除无被引且无参考[[Document|文献]]的边缘条目；对单篇成果设置最低引文窗口（如 5 年窗口 $D_5$）。
 > - **聚合参数** 颠覆度聚合限定 $D > 0$ 成果；被引聚合取 $\log_2(C+1)$ 以控制极端高引项的拉动效应。
 
 ---
@@ -183,7 +187,7 @@ updated: 2026-11-04
 > |:---|:---|:---|
 > | [[Disruption Index]] | 配套方法 | 为 DCG 颠覆度聚合提供单篇底层的知识拓扑测度输入。 |
 > | [[Bibliometric Analysis]] | 上位方法 | 文献计量学为 DCG 在科学学领域的跨学科迁移提供底层数据支撑。 |
-> | [[Hot Streak]] | 解释对象 | DCG 为准确捕捉学者爆发期内突破性成果涌现提供核心聚合算法。 |
+> | [[Hot Streak]] | 解释对象 | DCG 为准确捕捉学者爆发期内突破性成果[[Emergence\|涌现]]提供核心聚合算法。 |
 > | [[Constant-Probability-of-Success Model]] | 理论 | DCG 揭示更长爆发期对应更高巅峰颠覆度，经验印证了试错累积假说。 |
 
 ---

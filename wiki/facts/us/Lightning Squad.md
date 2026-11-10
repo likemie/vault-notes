@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -46,6 +46,7 @@ related_instruments: []
 related_persons:
   - "[[Nancy Madden]]"
   - "[[Robert Slavin]]"
+  - "[[Ben Levin]]"
 related_facts:
   - "[[Success for All]]"
   - "[[United States Department of Education]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -83,7 +84,7 @@ updated: 2026-10-26
 > - **双人结对协同学习（Peer Pairing）** 4–6 名学生在辅导室内两两结对、共用终端，一人朗读或操作时另一人担任“检查者与鼓励者”，有效整合了[[Peer-Supported Learning\|同伴互助]]与技术[[Presence\|沉浸感]]。
 > - **助教扮演高阶教练而非机械讲解者** 教学助教无需从零讲解拼读规则（由软件动画高保真呈现），而是巡回于各结对小组之间，专注倾听学生朗读、记录个性化卡点并给予即时正向反馈，大幅降低了对助教个人专业门槛的苛求。
 
-> [!citation-card] 斯莱文论技术辅助小组辅导的突破性价值
+> [!citation-card] 斯[[Ben Levin|莱文]]论技术辅助小组辅导的突破性价值
 > 技术辅助的小组辅导代表了未来的重要演进方向。由[[Nancy Madden\|南希·马登]]与我研发的 Lightning Squad 由教学助教带领 4–6 名学生的小组开展技术辅助辅导，在三项针对 1–3 年级学生的严格随机实验中测得平均[[Effect Size\|效应量]]达到 +0.34，获得了 [[Every Student Succeeds Act\|ESSA]] 强证据评级。这种模式使 1 名助教能够同时帮助数倍于传统 1:1 辅导的学生。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 28, 30)]]
 >
 > *Technology-assisted small-group tutoring points the way to a high-impact future. Lightning Squad, evaluated in three studies with [[Teaching Assistant|Teaching Assistants]] working with groups of 4 to 6 first to third graders, yielded a mean effect size of +0.34, meeting the ESSA strong evidence rating.*

@@ -33,9 +33,11 @@ related_concepts:
   - "[[Community of Shared Future for Mankind]]"
   - "[[Financial Diplomacy]]"
   - "[[Public Diplomacy]]"
+  - "[[Study Abroad]]"
   - "[[Emergence]]"
   - "[[Outward-Oriented Internationalization]]"
   - "[[Research Universities]]"
+  - "[[Transnational Education]]"
   - "[[Competitiveness]]"
   - "[[International Education]]"
   - "[[Knowledge Diplomacy]]"
@@ -49,12 +51,10 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Multi-University]]"
   - "[[Document]]"
-related_theories:
-  - "[[Tianxia Heuristic]]"
+related_theories: []
 related_methods:
   - "[[Comparative Case Study]]"
   - "[[Qualitative Research]]"
-  - "[[Case Study]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -104,7 +104,7 @@ updated: 2026-11-02
 > [!policy-design] 方案设计
 > - **项目目标** 构建以“五通”（政策沟通、设施联通、贸易畅通、资金融通、[[People-to-People Connectivity|民心相通]]）为核心支柱的多边经济走廊，推动构建[[Community of Shared Future for Mankind|人类命运共同体]]。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 678)]]
 > - **覆盖对象** 沿线新兴经济体与发展中国家，涵盖能源交通枢纽、自贸港口、产业园区与高等教育合作网络。
-> - **干预措施** 基建工程承包、产能投资基金、本币结算互换、境外合作园区，配套的《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》、跨国大学联盟建设、[[Luban Workshop|鲁班工坊]]技能实训输出，面向油气、水电与路桥等关键基建工程推行的校企跨国定向培养机制（如 1+4 贯通模式、1+3+1 校企联合培养与 2+2 双学位协同培养），以及在南亚与中亚走廊建设中将[[Financial Diplomacy|金融外交]]（累计超1260亿美元）与[[Public Diplomacy|公共外交]]深度绑定，通过留学生奖学金、[[Confucius Institute|孔子学院]]、鲁班工坊等教育人文网络培育本土技术力量与亲华精英，缓解沿线国家对大规模基建引发的劳动力挤出与债务依赖焦虑。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 678–680)]]; [[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1698)]]; [[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 190–193)]]; [[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 9–10, 24–27)]]
+> - **干预措施** 基建工程承包、产能投资基金、本币结算互换、境外合作园区，配套的《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》、跨国大学联盟建设、[[Luban Workshop|鲁班工坊]]技能实训输出，面向油气、水电与路桥等关键基建工程推行的校企跨国定向培养机制（如 1+4 贯通模式、1+3+1 校企联合培养与 2+2 双学位协同培养），以及在南亚与中亚走廊建设中将[[Financial Diplomacy|金融外交]]（累计超1260亿美元）与[[Public Diplomacy|公共外交]]深度绑定，通过[[Study Abroad|留学]]生奖学金、[[Confucius Institute|孔子学院]]、鲁班工坊等教育人文网络培育本土技术力量与亲华精英，缓解沿线国家对大规模基建引发的劳动力挤出与债务依赖焦虑。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 678–680)]]; [[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1698)]]; [[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 190–193)]]; [[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 9–10, 24–27)]]
 > - **实施控制** 依托双边政府间合作备忘录、多边峰会磋商机制、重大联合项目工作组与第三方市场合作协议保障项目推进。
 
 > [!citation-card] 一带一路互联互通战略构想（NDRC, 2015）
@@ -128,7 +128,7 @@ updated: 2026-11-02
 > - **发起与顶层规划方** 推进“一带一路”建设工作领导小组及外交、发改、商务部门，确立地缘合作战略方向。
 > - **专业领域推进机构** 教育部国际合作与交流司，指导《教育行动》细则落实，协调沿线国家双边学历互认与高校国际化。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 678–680)]]
 > - **骨干执行高校网络** 高水平[[Research Universities|研究型大学]]主导创建多边合作载体：西安交通大学牵头创设大众开放型 [[University Alliance of the Silk Road|UASR]]，清华大学牵头搭建精英排他型 [[Asian Universities Alliance|AUA]]。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1702)]]
-> - **沿线合作院校与师生** 参与联合科研项目、学位互授联授、短期研修与学术交流会议的跨国教育共同体成员。
+> - **沿线合作院校与师生** 参与联合科研项目、学位互授联授、短期研修与学术交流会议的[[Transnational Education|跨国教育]]共同体成员。
 > - **政产学研四方协同伙伴架构** 双边政府（政策协同与主权增信）、跨国骨干国企（资金投入与岗位定向吸纳）、行业特色大学（定制工科课程与实验实训）与国际留学生（全额回流母国基建一线）形成互惠共生契约。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 193–194)]]
 
 > [!pathways] 实施路径与管理
@@ -207,7 +207,7 @@ updated: 2026-11-02
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 比较大众开放型（UASR）与精英排他型（AUA）跨国大学联盟的知识外交与知识权力机制。
 > - [[Argument_King_2020_ECNUROE|King (2020)]] — 剖析中非合作论坛与“一带一路”教育行动深度交织及多边教育互联互通机制。
 > - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] — 实证揭示“一带一路”经贸与基建投资作为催化剂，放大高等教育领域新兴软实力资源的传导机制。
-> - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 针对中亚天然气管道等重大基建工程开展政产学研四方协同工程人才定向培养的实证文献。
+> - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 针对中亚天然气管道等重大基建工程开展政产学研四方协同工程人才定向培养的实证[[Document|文献]]。
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 实证评估“一带一路”东南亚高教合作网络成效与基建/文教投入失衡张力。
 > - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 实证测度“一带一路”南亚与中亚走廊金融外交体量、教育公共外交协同布局及精英/大众民意张力。
 > - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 结合区域自贸与全面战略伙伴关系大局，系统论述共建“一带一路”走廊下职业教育高水平开放的四级政策链条与产教生态协同路径（pp. 286–301）。

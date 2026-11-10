@@ -10,10 +10,10 @@ summary: "美国高等教育家与科学政治家、麻省理工学院（MIT）�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 14
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1904"
 died: "1988"
 lifespan: "1904–1988"
@@ -25,6 +25,7 @@ tags:
   - theme/higher-education-governance
 related_concepts:
   - "[[Research Universities]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -34,22 +35,26 @@ related_persons:
   - "[[George Kistiakowsky]]"
 related_facts:
   - "[[President's Science Advisory Committee]]"
+  - "[[Sputnik Shock 1957]]"
+  - "[[Department of Defense]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[Strengthening American Science 1958]]"
-  - "[[Sputnik Shock 1957]]"
+  - "[[MIT Radiation Laboratory]]"
+  - "[[Office of Science and Technology Policy]]"
+  - "[[Office of Scientific Research and Development]]"
 related_arguments:
   - "[[Argument_Yang_2017_MUE]]"
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国高等教育管理家与科学政策领袖，麻省理工学院（MIT）第 10 任校长（1948–1959），美国历史上首任总统科学特别助理（Special Assistant to the President for Science and Technology, 1957–1959）兼重组后的[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）首任主席。
-> - **核心角色** 战后美国现代白宫科学顾问建制的开创者与危机应对枢纽；在苏联卫星危机冲击下受命进驻白宫椭圆形办公室，接过了范内瓦·布什战时机构之棒，充当平息国家科技焦虑的“避雷针”，推动国家科研领导权从五角大楼向白宫平民专家智囊历史性转移。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 37–38)]]
+> - **核心角色** 战后美国现代白宫科学顾问建制的开创者与危机应对枢纽；在[[Sputnik Shock 1957|苏联卫星危机]]冲击下受命进驻白宫椭圆形办公室，接过了范内瓦·布什战时机构之棒，充当平息国家科技焦虑的“避雷针”，推动国家科研领导权从[[Department of Defense|五角大楼]]向白宫平民专家智囊历史性转移。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 37–38)]]
 > - **代表贡献** 开创白宫总统专职科学顾问机制（PSAC）；推动设立独立民事架构的[[National Aeronautics and Space Administration|美国国家航空航天局]]（NASA）；主持起草《[[Strengthening American Science 1958|加强美国科学：联邦政府的角色]]》（1958）。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 
 > [!citation-card] 杨九斌论基利安受命组建 PSAC 与化解卫星危机
@@ -59,9 +64,9 @@ updated: 2026-11-04
 
 > [!timeline] 生平与职涯
 > - **1904** 出生于南卡罗来纳州布莱克斯堡，后考入麻省理工学院（MIT）攻读管理工程学并于 1926 年毕业。
-> - **1939–1948** 长期协助卡尔·康普顿（Karl Compton）校长管理 MIT，二战期间担任副校长，主导 MIT 辐射实验室（Radiation Lab）大规模战时雷达科研动员。
-> - **1948–1959** 接任麻省理工学院第 10 任校长，推动 MIT 确立现代跨学科理工研究型大学范式，创设人文与社会科学学院及神经科学前沿平台。
-> - **1957–1959** 在[[Sputnik Shock 1957|斯普特尼克危机]]后受艾森豪威尔总统重托，出任白宫首位全职科学特别助理兼 PSAC 主席，力主空间计划民事化，主导推动《1958 年国家航空航天法案》并创立 NASA。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 37–38)]]
+> - **1939–1948** 长期协助卡尔·康普顿（Karl Compton）校长管理 MIT，二战期间担任副校长，主导 MIT [[MIT Radiation Laboratory|辐射实验室]]（Radiation Lab）大规模战时雷达科研动员。
+> - **1948–1959** 接任麻省理工学院第 10 任校长，推动 MIT 确立现代跨学科理工[[Research Universities|研究型大学]][[Paradigm|范式]]，创设人文与社会科学学院及神经科学前沿平台。
+> - **1957–1959** 在斯普特尼克危机后受[[Dwight D. Eisenhower|艾森豪威尔]]总统重托，出任白宫首位全职科学特别助理兼 PSAC 主席，力主空间计划民事化，主导推动《1958 年国家航空航天法案》并创立 NASA。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 37–38)]]
 > - **1958** 主持起草发布《[[Strengthening American Science 1958|加强美国科学：联邦政府的角色]]》，系统阐发基础科学长期目标驱动理念。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 > - **1965–1967** 担任卡内基公共电视委员会主席，主持起草里程碑纲领《公共电视：行动计划》，直接促成 1967 年《公共广播法》与美国公共广播电视公司（CPB / PBS）的诞生。
 > - **1988** 逝世于马萨诸塞州坎布里奇。
@@ -89,7 +94,7 @@ updated: 2026-11-04
 ---
 
 > [!influence-path] 影响路径
-> - **制度路径** 开创了美国战后延续至今的白宫科技政策办公室（OSTP）与总统科学顾问体制原型，确立了科学家随时直通总统椭圆形办公室的制度先例。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
+> - **制度路径** 开创了美国战后延续至今的白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）与总统科学顾问体制原型，确立了科学家随时直通总统椭圆形办公室的制度先例。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 > - **航天与科技路径** 成功阻断了军方将太空彻底军事化的图谋，为 NASA 奠定了民事开放、国际合作与吸纳大学基础科学的根本体制基调。
 > - **文化与公共教育路径** 晚年主持创建美国公共广播体系（PBS），将科学启蒙与公共教育精神注入大众媒介。
 
@@ -100,7 +105,7 @@ updated: 2026-11-04
 
 > [!person-network] 关系网络
 > - **政界伙伴** [[Dwight D. Eisenhower]] — 艾森豪威尔总统任命其为首位白宫科技特别助理，在危机时刻高度依赖并采纳其空间与科研政策建议。
-> - **思想先驱** [[Vannevar Bush]] — MIT 前辈兼战时 OSRD 领袖，基利安是布什科学政策思想在白宫顶层设计中的直接继承者与制度化落实者。
+> - **思想先驱** [[Vannevar Bush]] — MIT 前辈兼战时 [[Office of Scientific Research and Development|OSRD]] 领袖，基利安是布什科学政策思想在白宫顶层设计中的直接继承者与制度化落实者。
 > - **继任者与同盟** [[George Kistiakowsky]] — 基利安卸任白宫职务后，举荐基斯佳科夫斯基接任总统科学特别助理，共同维系科学顾问委员会的影响力。
 
 ---

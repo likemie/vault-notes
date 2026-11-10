@@ -5,7 +5,7 @@ aliases:
 summary: "Shields 提出的教育领导力框架，以权力、正义和社会转化为分析起点，用于超越仅关注什么有效的工具主义领导观。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Champ]]"
   - "[[New Managerialism]]"
+  - "[[Problematisation]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods: []
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -67,5 +68,5 @@ updated: 2026-10-22
 3. 需要在两条战线上同时行动：既要改善学校实践，也要让问责体系的设计者为其设计负责([[Argument_Møller_2017_EERJ|Møller, 2017, p.382-383]])
 
 > [!warning] 争议与批评
-> [[Argument_Møller_2017_EERJ\|Møller (2017, p.381)]]指出一个现实困境：政策制定者期待研究提供答案而非对复杂情境的问题化，且常将教育研究发现视为"模糊、矛盾、不显著、不合时宜或仅部分相关"（citing Sebba, 2013, p. 395）。当研究锚定于[[Critical Theory\|批判理论]]时，这种情况尤为严重。以权力结构为分析对象的研究可能"引起掌权者的不适以及与受益于不平等的群体的政治冲突"([[Argument_Møller_2017_EERJ\|Møller, 2017, p.381, citing Mintrop, 2016]])。
+> [[Argument_Møller_2017_EERJ\|Møller (2017, p.381)]]指出一个现实困境：政策制定者期待研究提供答案而非对复杂情境的[[Problematisation|问题化]]，且常将教育研究发现视为"模糊、矛盾、不显著、不合时宜或仅部分相关"（citing Sebba, 2013, p. 395）。当研究锚定于[[Critical Theory\|批判理论]]时，这种情况尤为严重。以权力结构为分析对象的研究可能"引起掌权者的不适以及与受益于不平等的群体的政治冲突"([[Argument_Møller_2017_EERJ\|Møller, 2017, p.381, citing Mintrop, 2016]])。
 

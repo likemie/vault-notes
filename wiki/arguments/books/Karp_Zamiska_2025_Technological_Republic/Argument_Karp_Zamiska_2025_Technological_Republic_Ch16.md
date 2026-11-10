@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch16"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch16"
 argument_display_title: "“Piety and Its Price”"
 argument_kind: "book-chapter"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -59,12 +59,13 @@ related_persons:
 related_facts:
   - "[[USS Nautilus Submarine Development]]"
   - "[[United States Congress]]"
+  - "[[Atomic Energy Commission]]"
   - "[[ASEAN Economic Community]]"
   - "[[Gaokao]]"
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
@@ -172,7 +173,7 @@ updated: 2026-10-30
 > - **战术性能飞跃** 鹦鹉螺号对常规空中侦测与反潜打击近乎完全免疫，航速超越常规鱼雷，将潜艇由短时下潜的水面舰转化为可长期隐匿大洋深处的战略核威慑中枢，为美国奠定了延续至今的海上战略优势（pp. 183–184）。
 
 > [!case] 里科弗上将打破海军规章与建造鹦鹉螺号
-> 1953 年 5 月 31 日晚，在爱达荷州沙漠试验场，埃德温·金特纳（Edwin E. Kintner）与美国原子能委员会（Atomic Energy Commission, [[ASEAN Economic Community|AEC]]）托马斯·默里（Thomas E. Murray）启动了小型潜艇核反应堆陆上原型堆（Submarine Thermal Reactor Mark I, S1W），拉开了美苏潜艇动力技术代差竞争的序幕（pp. 183–184）。里科弗上将性格桀骜，在 1984 年哥伦比亚广播公司（Columbia Broadcasting System, CBS）《60分钟》（*60 Minutes*）节目接受黛安·索耶（Diane Sawyer）采访时自嘲只有花栗鼠般的亲和力。当副官手捧海军规章手册汇报流程时，里科弗直接命令其滚出去并把规章手册烧掉，留下了掷地有声的信条：我的职责不是在体制内合规工作，我的职责是把事情真正做成；吉米·卡特（Jimmy Carter）总统回忆，尽管曾恨透了里科弗的严厉，但除生父外没有任何人对自己的生命产生过如此深沉的影响（p. 185）。
+> 1953 年 5 月 31 日晚，在爱达荷州沙漠试验场，埃德温·金特纳（Edwin E. Kintner）与[[Atomic Energy Commission|美国原子能委员会]]（Atomic Energy Commission, [[ASEAN Economic Community|AEC]]）托马斯·默里（Thomas E. Murray）启动了小型潜艇核反应堆陆上原型堆（Submarine Thermal Reactor Mark I, S1W），拉开了美苏潜艇动力技术代差竞争的序幕（pp. 183–184）。里科弗上将性格桀骜，在 1984 年哥伦比亚广播公司（Columbia Broadcasting System, CBS）《60分钟》（*60 Minutes*）节目接受黛安·索耶（Diane Sawyer）采访时自嘲只有花栗鼠般的亲和力。当副官手捧海军规章手册汇报流程时，里科弗直接命令其滚出去并把规章手册烧掉，留下了掷地有声的信条：我的职责不是在体制内合规工作，我的职责是把事情真正做成；吉米·卡特（Jimmy Carter）总统回忆，尽管曾恨透了里科弗的严厉，但除生父外没有任何人对自己的生命产生过如此深沉的影响（p. 185）。
 
 这项彻底颠覆现代海战形态的历史性工程，完全由时任海军准将里科弗以近乎狂热的进取心一手缔造（pp. 184–185）。
 

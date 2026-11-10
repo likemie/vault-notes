@@ -10,7 +10,7 @@ aliases:
 summary: "由斯蒂芬·鲍尔与德博拉·尤德尔界定的教育私有化核心形态，特指公立教育体系在维持公有产权名义下内部运作的企业化与市场化转型。通过引入新公共管理技术、以考代评绩效问责、生均经费竞争、家长择校准市场以及使用者付费，将公立学校改组为自负盈亏的商业经营实体，并在高等教育中表现为依赖国际留学生学费维持生存的永久企业化。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 30
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -23,9 +23,11 @@ tags:
 related_concepts:
   - "[[New Public Management]]"
   - "[[School Choice]]"
+  - "[[Quasi-market]]"
   - "[[Bureaucracy]]"
   - "[[Exogenous Privatisation]]"
   - "[[Performance Indicators]]"
+  - "[[Study Abroad]]"
   - "[[Educational Management Organisation]]"
   - "[[Public-Private Partnership]]"
   - "[[Disciplina and Doctrina]]"
@@ -60,13 +62,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-17
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Endogenous Privatisation
-> **内生私有化（Endogenous Privatisation）**，亦称**公立教育内部的私有化（Privatisation in Education）**，是由[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）与德博拉·尤德尔（Deborah Youdell, 2007）提出的理论范畴，特指在保持公立学校名义产权不变的前提下，将私营部门的商业理念、管理技术、量化考核、使用者付费与市场竞争机制全面植入公立教育系统内部运作的制度转型过程。通过推行[[New Public Management|新公共管理]]（NPM）、生均经费预算包干与家长[[School Choice|择校]]竞争，公立学校被改组为在准市场中自负盈亏、竞逐生源的独立核算企业主体，使教育过程由普遍公共育人服务异化为竞争性的私人[[Human Capital Theory|人力资本]]生产。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 4)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]
+> **内生私有化（Endogenous Privatisation）**，亦称**公立教育内部的私有化（Privatisation in Education）**，是由[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）与德博拉·尤德尔（Deborah Youdell, 2007）提出的理论范畴，特指在保持公立学校名义产权不变的前提下，将私营部门的商业理念、管理技术、量化考核、使用者付费与市场竞争机制全面植入公立教育系统内部运作的制度转型过程。通过推行[[New Public Management|新公共管理]]（NPM）、生均经费预算包干与家长[[School Choice|择校]]竞争，公立学校被改组为在[[Quasi-market|准市场]]中自负盈亏、竞逐生源的独立核算企业主体，使教育过程由普遍公共育人服务异化为竞争性的私人[[Human Capital Theory|人力资本]]生产。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 4)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 剖析公立教育“像企业一样运营”的内部制度变形，揭示市场化原则如何在公立机构的肌理内部侵蚀公共性。
@@ -81,7 +83,7 @@ updated: 2026-11-03
 > [!boundary]- 概念边界
 > - 不等于 [[New Public Management]]（新公共管理） — NPM 提供了内生私有化的行政管理工具包（如目标管理、产出监控与[[Performance Indicators|绩效指标]]），而内生私有化还包含了将教育定性为私人自费商品的意识形态再生产。
 > - 不等于纯粹民办学校创立 — 发生在既有的公立学校、学区与公立大学体系内部，是公立组织内部运作规则的商业化重塑。
-> - 不限于基础教育学区竞争 — 在高等教育中广泛表现为依靠国际留学生全额学费弥补财政撤资、大学各院系自负盈亏的企业化核算。
+> - 不限于基础教育学区竞争 — 在高等教育中广泛表现为依靠国际[[Study Abroad|留学]]生全额学费弥补财政撤资、大学各院系自负盈亏的企业化核算。
 
 ---
 

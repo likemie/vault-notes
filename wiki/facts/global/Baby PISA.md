@@ -42,6 +42,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Educational Level]]"
   - "[[Affective Outcomes]]"
+  - "[[Homophily]]"
   - "[[Technical Rationality]]"
   - "[[Document]]"
   - "[[Evaluation Research]]"
@@ -61,7 +62,6 @@ related_methods:
   - "[[Pilot Testing]]"
   - "[[Random Sampling]]"
   - "[[Item Analysis]]"
-  - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
   - "[[Yong Zhao]]"
@@ -78,7 +78,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -144,7 +144,7 @@ updated: 2026-11-02
 > [!finding-cards] 核心测评产出与首期试点发现
 > - **阶层不平等在 5 岁时的显著投射** 首期报告证实，社会经济弱势背景儿童在 5 岁时即在早期读写和自我调节上显著落后于优势群体，揭示了学前阶段既已存在的社会阶层分化。
 > - **不同能力维度的发展非均衡性** 部分在读写能力上表现突出的群体，在亲社会[[Affective Outcomes\|情感行为]]或生活满意度上并未呈现同等优势，凸显了单一指标无法全息涵盖幼儿整体福祉。
-> - **国家间制度环境的异质表现** 爱沙尼亚儿童在自我调节和数理能力上呈现出更强的人群同质性，反映了其普惠性高水平学前教育体系的托底功能；英格兰与美国样本则展现出巨大的家庭背景两极分化。
+> - **国家间制度环境的异质表现** 爱沙尼亚儿童在自我调节和数理能力上呈现出更强的人群[[Homophily|同质性]]，反映了其普惠性高水平学前教育体系的托底功能；英格兰与美国样本则展现出巨大的家庭背景两极分化。
 
 > [!stat-cards]- 首期试点规模核心数据
 > - **3** 个正式参与国家（英格兰、爱沙尼亚、美国）

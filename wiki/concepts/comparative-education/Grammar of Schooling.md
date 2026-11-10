@@ -6,7 +6,7 @@ aliases:
 summary: "亚克与古班提出的核心制度概念，指涉学校组织划分时空、分年龄编级与分科教学等不言自明的深层制度常规与组织结构；具有极强的制度抗变性与历史惯性，解释了宏观教育改革为何常在微观课堂遭遇折射与制度重塑。"
 type: concept
 domain: "comparative-education"
-related_count: 27
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Determinism]]"
   - "[[Creativity]]"
-  - "[[Screening Off]]"
 related_theories:
   - "[[World Society Theory]]"
   - "[[Organizational Culture]]"
@@ -156,7 +155,7 @@ updated: 2026-11-11
 > > - **关系性比较学者（[[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]）** 指出制度模版在多国行动者的跨国借用、翻译与杂糅中动态成型，不存在单一的绝对源头。
 
 > [!warning|limits] 适用局限
-> 学校文法主要用于解释传统 K-12 公立学校组织形态的历史连续性，对于非正式学习环境、远程数字学习空间或创新型非分科探索学校的解释力存在边界。过度强调文法的不可变性可能滑向虚无主义，[[Screening Off|遮蔽]]局部渐进改良与深层文化培育所带来的累积性真实变革。
+> 学校文法主要用于解释传统 K-12 公立学校组织形态的历史连续性，对于非正式学习环境、远程数字学习空间或创新型非分科探索学校的解释力存在边界。过度强调文法的不可变性可能滑向虚无主义，遮蔽局部渐进改良与深层文化培育所带来的累积性真实变革。
 
 ---
 

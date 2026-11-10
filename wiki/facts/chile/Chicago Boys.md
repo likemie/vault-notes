@@ -11,7 +11,7 @@ subtype: event
 region: "chile"
 fact_region: "chile"
 fact_kind: "event"
-fact_related_count: 12
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -26,6 +26,8 @@ tags:
 related_concepts:
   - "[[School Vouchers]]"
   - "[[Geopolitics]]"
+  - "[[Study Abroad]]"
+  - "[[Early-Career Researchers]]"
   - "[[Paradigm]]"
   - "[[Policy Ambassador]]"
   - "[[School Choice]]"
@@ -45,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-25
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -63,9 +65,9 @@ updated: 2026-10-30
 
 > [!phase] 智利“芝加哥男孩”的跨国精英演化轨道
 >
-> - **赴美留学与理论深度社会化**
+> - **赴美[[Study Abroad|留学]]与理论深度社会化**
 >
->   智利天主教大学青年学者成批赴美国芝加哥大学攻读硕士和博士学位，师从弗里德曼等自由市场学派宗师，接受货币学派与[[Human Capital Theory|人力资本理论]]的系统熏陶，完成了从拉美结构主义向新自由主义[[Paradigm|范式]]的深层观念重构。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, p. 12)]]
+>   智利天主教大学[[Early-Career Researchers|青年学者]]成批赴美国芝加哥大学攻读硕士和博士学位，师从弗里德曼等自由市场学派宗师，接受货币学派与[[Human Capital Theory|人力资本理论]]的系统熏陶，完成了从拉美结构主义向新自由主义[[Paradigm|范式]]的深层观念重构。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, p. 12)]]
 >
 > - **归国掌权与国家级激进制度实验**
 >

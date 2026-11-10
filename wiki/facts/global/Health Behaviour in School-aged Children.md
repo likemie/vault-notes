@@ -11,9 +11,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 6
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 16
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: 1982–至今
 initiator_organization: "世界卫生组织"
@@ -24,14 +24,24 @@ tags:
   - cross-national-survey
   - region/global
 related_concepts:
+  - "[[Socioeconomic Status]]"
+  - "[[Student-Teacher Relationship]]"
+  - "[[Constructivist Paradigm]]"
+  - "[[Liberalization]]"
   - "[[School Autonomy]]"
   - "[[Academic Achievement]]"
-related_theories: []
+related_theories:
+  - "[[Ecological Systems Theory]]"
+  - "[[Organizational Culture]]"
 related_methods:
+  - "[[Questionnaire]]"
+  - "[[Cluster Sampling]]"
+  - "[[Back Translation]]"
   - "[[Trend Study]]"
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[OECD]]"
   - "[[PISA]]"
   - "[[TIMSS]]"
 related_arguments:
@@ -39,13 +49,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-06
-updated: 2026-11-06
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 项目定位
-> 学龄儿童健康行为调查（Health Behaviour in School-aged Children, HBSC）是世界卫生组织（WHO）欧洲区域办事处主导的跨国长周期协作研究项目，每四年对各参与国 11 岁、13 岁和 15 岁学龄少年开展一次大样本标准化问卷调查，监测青少年生活方式、身心福祉、学校微观气候与家庭社会环境。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 61, 71)]]
+> 学龄儿童健康行为调查（Health Behaviour in School-aged Children, HBSC）是世界卫生组织（WHO）欧洲区域办事处主导的跨国长周期协作研究项目，每四年对各参与国 11 岁、13 岁和 15 岁学龄少年开展一次大样本标准化[[Questionnaire|问卷调查]]，监测青少年生活方式、身心福祉、学校微观气候与家庭社会环境。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 61, 71)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 发起于 1982 年，首届调查于 1983/1984 学年实施，此后每四年开展一轮常态化全球调查，持续运行至今。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 61)]]
@@ -56,13 +66,13 @@ updated: 2026-11-06
 ---
 
 > [!claim] 核心干预／机制假说
-> 该项目基于生态系统理论，假定青少年的身心福祉与行为养成不仅取决于个体生理特征，更深层嵌入于家庭社会经济地位、同伴支持以及学校微观课堂组织文化构成的多重互动系统之中。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 61, 71)]]
+> 该项目基于[[Ecological Systems Theory|生态系统理论]]，假定青少年的身心福祉与行为养成不仅取决于个体生理特征，更深层嵌入于家庭[[Socioeconomic Status|社会经济地位]]、同伴支持以及学校微观课堂[[Organizational Culture|组织文化]]构成的多重互动系统之中。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 61, 71)]]
 
 > [!policy-design] 方案设计
 > - **项目目标** 建立长期跨国追踪数据库，为各成员国制定青少年公共卫生策略、反思学校环境建设与改进教育人际氛围提供客观实证基准。
 > - **覆盖对象** 各国小学高年级至初中阶段核心年龄段（11 岁、13 岁、15 岁）在校在籍学生。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 61)]]
-> - **测量模块** 包含核心人口学特征、饮食作息、身体活动、心理健康、欺凌与同伴支持，以及针对学校环境的师生关系、课业压力与课堂发言自主度感知。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 61, 71)]]
-> - **实施控制** 采用两阶段整群抽样设计，班级内部全体学生在教师或外部督导员协助下独立无记名完成自陈问卷，确保回答真实性与高回收率。
+> - **测量模块** 包含核心人口学特征、饮食作息、身体活动、心理健康、欺凌与同伴支持，以及针对学校环境的[[Student-Teacher Relationship|师生关系]]、课业压力与课堂发言自主度感知。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 61, 71)]]
+> - **实施控制** 采用两阶段[[Cluster Sampling|整群抽样]]设计，班级内部全体学生在教师或外部督导员协助下独立无记名完成自陈问卷，确保回答真实性与高回收率。
 
 > [!citation-card] 芬兰微观学校气候变迁的实证记录
 > 芬兰语中学生在过去几十年中感知到的学校气候正在逐步升温。在 1994 至 2010 年间，11、13 和 15 岁芬兰语学生中明确认同‘教师对我的生活感兴趣’的平均比例从 18% 大幅上升至 32%，而明确表示反对的比例从 39% 降至 24%；同时，认同教师鼓励自己在课堂发表意见的学生比例从 36% 攀升至 54%。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 61, 71)]]
@@ -74,7 +84,7 @@ updated: 2026-11-06
 > [!dev-timeline] 项目推进历程
 > - **1982–1984 — 初创与试探期** 芬兰、挪威与英国学者成立初始协作组，完成第一轮 4 国比较试点调查。
 > - **1985–2000 — 欧洲网络扩展与方法标准化** WHO 欧洲办事处正式接纳其为常设研究项目，参测国迅速扩张至 30 余国，确立统一的四阶段核心题库。
-> - **2001–至今 — 全球辐射与教育政策对话** 网络涵盖 50 余国，纵向数据库被经济合作与发展组织（OECD）及各国教育研究者广泛用于对照 PISA/TIMSS 测试，分析学校情感支持与认知产出之间的复杂张力。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 61, 71)]]
+> - **2001–至今 — 全球辐射与教育政策对话** 网络涵盖 50 余国，纵向数据库被[[OECD|经济合作与发展组织]]（OECD）及各国教育研究者广泛用于对照 [[PISA]]/[[TIMSS]] 测试，分析学校情感支持与认知产出之间的复杂张力。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 61, 71)]]
 
 ---
 
@@ -85,9 +95,9 @@ updated: 2026-11-06
 > - **受试对象** 各参测学校抽中班级的全体在读中小学生。
 
 > [!pathways] 实施路径与管理
-> - **标准化问卷翻译** 国际专家组统一拟定英文核心问卷，各参测国进行严格的回译（Back-translation）与本土信效度预试。
+> - **标准化问卷翻译** 国际专家组统一拟定英文核心问卷，各参测国进行严格的[[Back Translation|回译]]（Back-translation）与本土信效度预试。
 > - **匿名与伦理规程** 遵循严格的医学与社会科学伦理准则，问卷不收集学生身份信息，采取封闭式信封回收。
-> - **跨期等值校准** 核心题目（如师生关系感受、课堂发言鼓励度）跨越数十年保持原样表述，支持稳健的长时段历时趋势分析。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 61, 71)]]
+> - **跨期等值校准** 核心题目（如师生关系感受、课堂发言鼓励度）跨越数十年保持原样表述，支持稳健的长时段历时[[Trend Study|趋势分析]]。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 61, 71)]]
 
 ---
 
@@ -97,7 +107,7 @@ updated: 2026-11-06
 > - **交叉分析指标** 学校人际环境指标与外部 PISA 认知测试、生活满意度及社会经济地位的多层回归关联。
 
 > [!finding-cards] 核心实证结论
-> - **微观人际气候的明显升温** HBSC 芬兰 1994 至 2010 年间多轮数据显示，随着 1994 年课程改革与建构主义推进，芬兰中小学师生关系中的权威距离明显收窄，师生沟通与关怀感显著增强。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 61, 71)]]
+> - **微观人际气候的明显升温** HBSC 芬兰 1994 至 2010 年间多轮数据显示，随着 1994 年课程改革与[[Constructivist Paradigm|建构主义]]推进，芬兰中小学师生关系中的权威距离明显收窄，师生沟通与关怀感显著增强。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 61, 71)]]
 > - **温暖气候与学术产出的反向悖论** [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]]利用 HBSC 纵向数据揭示，在师生关系显著升温、课堂表达更为自由的同一历史时期，芬兰各学科认知测试成绩（PISA、TIMSS 及国内综合抽测）却全线遭遇持续滑坡，证实课堂威权弱化在带来更高人际亲和度的同时，伴随了学术严谨性与知识习得效率的实质牺牲。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 61, 71)]]
 
 > [!stat-cards]- 关键实证数据
@@ -123,6 +133,6 @@ updated: 2026-11-06
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[PISA]] | 事实 | 与 HBSC 同样聚焦 15 岁学龄群体，二者常被结合用于考察认知产出与情感气候的关系。 |
-> | [[TIMSS]] | 事实 | 国际课程测试基准，其数理成绩下滑轨迹与 HBSC 记录的课堂自由化趋势重合。 |
+> | [[TIMSS]] | 事实 | 国际课程测试基准，其数理成绩下滑轨迹与 HBSC 记录的课堂[[Liberalization\|自由化]]趋势重合。 |
 > | [[School Autonomy]] | 概念 | 芬兰 1990 年代去中心化改革，促成了 HBSC 所记录的更加宽松灵活的微观课堂环境。 |
 > | [[Academic Achievement]] | 概念 | HBSC 揭示出学校关怀氛围提升与认知学业成就下滑之间的复杂反差。 |

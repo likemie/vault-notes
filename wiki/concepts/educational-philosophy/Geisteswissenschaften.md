@@ -9,7 +9,7 @@ aliases:
 summary: "19世纪末由德国哲学家威廉·狄尔泰系统奠基的人文与社会研究知识传统。主张精神科学（以历史、文化、社会与教育为对象）与自然科学具有根本的认识论分野：自然科学旨在通过外在因果规律“说明”自然现象，而精神科学则通过生命体验的内在重构与历史脉络进行“理解”与“解释”。安德烈亚斯·卡扎米亚斯将其视为比较教育学作为普罗透斯式认识体系的核心学术母体，揭示其实证主义放逐所导致的历史健忘症危机。"
 type: concept
 domain: "educational-philosophy"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[National Character]]"
   - "[[Hypothesis]]"
   - "[[Allgemeine Pädagogik]]"
+  - "[[Transnational Education]]"
   - "[[Intangible Spiritual Forces]]"
   - "[[Scientific Method]]"
   - "[[Positivism]]"
@@ -83,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -162,7 +163,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题二｜精神科学传统将比较教育学构筑为探寻深层文化精神与历史因素的人文阐释学科
-> **学科经典[[Paradigm|范式]]与文化有机论维度** 探讨 20 世纪上半叶古典学者如何借助精神科学视野，将跨国教育比较从表层校本描述升华为深层文化与政体关系的学术体系。
+> **学科经典[[Paradigm|范式]]与文化有机论维度** 探讨 20 世纪上半叶古典学者如何借助精神科学视野，将[[Transnational Education|跨国教育]]比较从表层校本描述升华为深层文化与政体关系的学术体系。
 
 > [!claim] [[Michael Sadler|Sadler, M.]]
 > **探寻学校门外[[Intangible Spiritual Forces|无形精神力量]]与设身处地同情理解** 萨德勒确立了文化情境分析公理：教育深嵌于广阔的社会文化生态之中，决定学校成败的根本动因深藏于家庭、社区、历史信仰等不可捉摸的精神力量（*intangible spiritual forces*）之中，学校制度仅是这一整体文化生命的外在显现。研究外国教育体系必须摒弃民族优越感，采取设身处地的同情理解态度，将民族国家教育体系作为文化有机整体加以考察。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 141–142)]]

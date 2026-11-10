@@ -9,7 +9,7 @@ title: "Argument_Eacott_2011_JEAH"
 argument_key: "Argument_Eacott_2011_JEAH"
 argument_display_title: "Preparing 'educational' leaders in managerialist times: an Australian story"
 argument_kind: "journal-article"
-argument_related_count: 14
+argument_related_count: 15
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Reflexivity]]"
+  - "[[Problematisation]]"
 related_theories: []
 related_methods:
   - "[[Critical Policy Analysis]]"
@@ -47,7 +48,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-02
-updated: 2026-10-30
+updated: 2026-11-11
 year: 2011
 doi: ""
 citation_aliases:
@@ -149,7 +150,7 @@ Eacott 提出：
 
 > [!warning] 局限性与批评
 > - **论文自认局限** 作为一篇"争论性干预"（polemical intervention），论文明确基于对现状的"不满"立场，可能被批评为选择性使用证据
-> - **大学本位偏见** 作者承认对"大学本位、理论丰富的项目"存在"潜在特权化"，尽管声明试图同时问题化两种立场以避免现代主义二元对立
+> - **大学本位偏见** 作者承认对"大学本位、理论丰富的项目"存在"潜在特权化"，尽管声明试图同时[[Problematisation|问题化]]两种立场以避免现代主义二元对立
 > - **NSW 案例的推广性** 论文聚焦单一系统（NSW 公立学校），其结论向其他情境（私立学校、其他州/国家）的推广需要谨慎
 > - **缺乏实证数据** 作为理论／政策分析而非实证研究，论文未提供校长或项目参与者的直接经验数据
 > - **替代方案的具体性不足** 虽然提出了"加入世界对话"的哲学方向，但未提供具体的课程设计或实施方案

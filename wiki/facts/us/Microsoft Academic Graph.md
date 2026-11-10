@@ -11,9 +11,9 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 17
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 24
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2015–2021"
 initiator_organization: "Microsoft Research"
@@ -27,15 +27,16 @@ tags:
   - theme/open-science
   - region/us
 related_concepts:
-  - "[[Document]]"
   - "[[Metascience]]"
+  - "[[Data Infrastructure]]"
+  - "[[Document]]"
   - "[[Tracking]]"
   - "[[Creativity]]"
-  - "[[Open-Mindedness]]"
+  - "[[Citation Distribution]]"
   - "[[Team Science]]"
   - "[[Paradigm]]"
-  - "[[Data Infrastructure]]"
   - "[[Scientific Productivity]]"
+  - "[[Hot Streak]]"
 related_theories:
   - "[[Q-Model]]"
 related_methods:
@@ -45,15 +46,21 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Web of Science]]"
+  - "[[Scopus]]"
+  - "[[OpenAlex]]"
   - "[[SciSciNet]]"
+  - "[[National Science Foundation]]"
+  - "[[National Institutes of Health]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
+  - "[[Argument_Sinatra_2016_Science]]"
+  - "[[Argument_Liu_2018_Nature]]"
   - "[[Argument_Lin_2023_SciData]]"
   - "[[Argument_Chen_2025_HSSC]]"
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
@@ -65,7 +72,7 @@ updated: 2026-11-04
 > - **立项时间 / 周期** 2015 年由微软研究院正式上线，按周与月度周期进行知识更新与全量转储，直至 2021 年 12 月 31 日正式停止运营并归档退役。
 > - **发起方与资助机制** 由微软公司全额资助并由微软研究院（雷德蒙德与北京团队）主导研发，核心架构师包括王冠三（Kuansan Wang）与亚历克斯·韦德（Alex Wade）。
 > - **覆盖范围与对象** 收录全球逾 2.6 亿篇学术出版物、2.7 亿名科研人员、2.6 万所研究机构与 14 亿条双向引用关系，覆盖自然科学、医学工程与人文社科领域。
-> - **核心问题导向** 攻克传统商业引文数据库（Web of Science、Scopus）高昂订阅门槛与严格数据导出条目配额限制，为科学学提供支持全网图计算的开放机器可读图谱。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 8–9)]]
+> - **核心问题导向** 攻克传统商业引文数据库（[[Web of Science]]、[[Scopus]]）高昂订阅门槛与严格数据导出条目配额限制，为科学学提供支持全网图计算的开放机器可读图谱。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 8–9)]]
 
 ---
 
@@ -74,7 +81,7 @@ updated: 2026-11-04
 
 > [!policy-design] 方案设计
 > - **项目目标** 建立覆盖全球科研产出的超大规模机器可读异构知识图谱，支撑前沿科学学实证推演与学术语义挖掘。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 8–9)]]
-> - **覆盖对象** 全球学术期刊成果、预印本、学术专著、专利文献、学术会议录及其关联学者与学术机构。
+> - **覆盖对象** 全球学术期刊成果、预印本、学术专著、专利[[Document|文献]]、学术会议录及其关联学者与学术机构。
 > - **干预措施** 依托必应爬网引擎自动化抽取学术文本元数据，构建六大核心实体异构拓扑网络，并按开放数据协议（ODC-BY）通过云端免费分发全量转储文件与语义检索 API。
 > - **实施控制** 应用多任务图嵌入与多层语义树模型校准学者和机构实体消歧精度，结合同行评议来源过滤低质抓取噪声。
 
@@ -89,8 +96,8 @@ updated: 2026-11-04
 > - **2015 年 — 系统架构发布与全量开源** 微软研究院在国际学术会议上正式公开微软学术知识图谱技术规范，向科研界免费开放全量原始数据压缩包下载。
 > - **2016–2020 年 — 科学学黄金时代的实证基座** MAG 成为计算社会科学与物理学界研究科学学的基础数据源，直接支撑了关于职业生涯稳态（[[Argument_Sinatra_2016_Science|Sinatra et al., 2016]]）、[[Creativity|创造力]]迸发（[[Argument_Liu_2018_Nature|Liu et al., 2018]]）及团队规模与颠覆性创新（Wu et al., 2019）等里程碑突破。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 8–9)]]
 > - **2021 年 — 宣布退役与向开放科学社区移交** 微软官方于 2021 年 5 月宣布项目将在年底停运；全球开放科学组织依托其最后一版全量数据（截至 2021 年 12 月 31 日）启动数据归档与继任基础设施建设。
-> - **2022 年至今 — 衍生 OpenAlex 开放生态** 非营利机构 OurResearch 承接 MAG 的实体拓扑模式与唯一标识符体系，无缝推出全开源学术基础设施 OpenAlex，使 MAG 的数据遗产得以长期维系。
-> - **2023 年 — SciSciNet 承接数据清洗与深化扩展** 西北大学 CSSI 团队以 MAG 2021 年终版为底库，解决其预印本-正式出版成果家族重复与未分类记录噪声问题，重算 1.34 亿篇文献引文分布并贯通 NSF/NIH 资助与专利转化，建立 SciSciNet 开源数据湖。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
+> - **2022 年至今 — 衍生 [[OpenAlex]] 开放生态** 非营利机构 OurResearch 承接 MAG 的实体拓扑模式与唯一标识符体系，无缝推出全开源学术基础设施 OpenAlex，使 MAG 的数据遗产得以长期维系。
+> - **2023 年 — [[SciSciNet]] 承接数据清洗与深化扩展** 西北大学 CSSI 团队以 MAG 2021 年终版为底库，解决其预印本-正式出版成果家族重复与未分类记录噪声问题，重算 1.34 亿篇文献[[Citation Distribution|引文分布]]并贯通 [[National Science Foundation|NSF]]/[[National Institutes of Health|NIH]] 资助与专利转化，建立 SciSciNet 开源数据湖。[[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
 ---
 
@@ -164,4 +171,4 @@ updated: 2026-11-04
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 以 MAG 2021 年终版为底库，通过成果家族聚拢与引文重新配赋提炼 1.34 亿篇核心出版物，开源构建连接外部资助与转化的 SciSciNet 数据湖。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 将微软学术图谱作为核心实证基座，系统测定科学文献膨胀、科研人员增长与人均生产力百年稳态规律（pp. 8–9, 136, 169）。
-> - [[Argument_Chen_2025_HSSC|Chen et al. (2025)]] — 依托微软学术图谱提取 1800–2019 年间 21,271 位经济学家的长周期全量论著与引文网络（含 24.1 万篇代表性文献），实证揭示学者学术爆发期内的颠覆度演变与时滞规律。
+> - [[Argument_Chen_2025_HSSC|Chen et al. (2025)]] — 依托微软学术图谱提取 1800–2019 年间 21,271 位经济学家的长周期全量论著与引文网络（含 24.1 万篇代表性文献），实证揭示学者[[Hot Streak|学术爆发期]]内的颠覆度演变与时滞规律。

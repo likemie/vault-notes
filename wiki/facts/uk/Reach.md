@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -42,7 +42,8 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Ben Levin]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Every Student Succeeds Act]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -77,7 +78,7 @@ updated: 2026-11-02
 > - **干预措施** 结合精准诊断与分级读本匹配，助教每日组织 1 对 1 高密度对话式辅导，包含显性语音拼读、生词[[Decodification|解码]]、基于上下文推断词义及段落主旨概括训练。
 > - **实施控制** 采用校内或校际整群[[Randomised Controlled Trials|随机对照试验]]（Cluster RCT），设置严格的常规教学对照组（[[Business as Usual]]），并由校级协调员对辅导日志[[Implementation Fidelity|实施保真度]]质控。
 
-> [!citation-card] 斯莱文论 Reach 助教一对一辅导的实证效益
+> [!citation-card] 斯[[Ben Levin|莱文]]论 Reach 助教一对一辅导的实证效益
 > 在高年级（六至七年级）助教一对一辅导中，Reach 项目在英国 EEF 严格的随机对照试验中取得了高达 +0.42 的学业效应量，完全达到了《[[Every Student Succeeds Act|每一个学生成功法]]》（ESSA）强[[Evidence Standards|证据标准]]。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, p. 28)]]
 >
 > *One-to-one tutoring by [[Teaching Assistant|Teaching Assistants]] was also effective in secondary transition. Reach, evaluated with Grade 6–7 students in England, produced an effect size of +0.42, qualifying for the Strong rating under ESSA.*

@@ -12,7 +12,7 @@ title: "Argument_Schulze-Cleven_2017_HE"
 argument_key: "Argument_Schulze-Cleven_2017_HE"
 argument_display_title: "The new political economy of higher education: between distributional conflicts and discursive stratification"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 46
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -57,6 +57,8 @@ related_concepts:
   - "[[Champ]]"
   - "[[Field Images]]"
   - "[[Positioning Practice]]"
+  - "[[Lecturing]]"
+  - "[[Quasi-market]]"
   - "[[Sociology of Valuation and Evaluation]]"
 related_theories:
   - "[[Academic Capitalism]]"
@@ -65,6 +67,7 @@ related_theories:
   - "[[Neo-feudalism in Higher Education]]"
 related_methods:
   - "[[Discourse Analysis]]"
+  - "[[Journal Impact Factor]]"
   - "[[Qualitative Interview]]"
   - "[[Comparative Policy Analysis]]"
   - "[[Analytic Framework]]"
@@ -83,7 +86,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-06-01
-updated: 2026-10-30
+updated: 2026-11-11
 year: 2017
 doi: ""
 citation_aliases:
@@ -180,7 +183,7 @@ Slaughter and Leslie(1997)和 Slaughter and Rhoades(2004)的 [[Academic Capitali
 
 **线索 B：指标化评估（Indicator-based Evaluations）**
 
-从 1975 年 [[Import Substitution Industrialisation|ISI]] 发布第一个 Journal Citation Report 引入影响因子，到 2003 年上海交通大学的 [[Academic Ranking of World Universities]] 首次发布全球大学排名，再到 2004 年 Times Higher Education 跟进，指标化评估已经从学术交流的辅助工具演变成为高等教育治理的核心基础设施。
+从 1975 年 [[Import Substitution Industrialisation|ISI]] 发布第一个 Journal Citation Report 引入[[Journal Impact Factor|影响因子]]，到 2003 年上海交通大学的 [[Academic Ranking of World Universities]] 首次发布全球大学排名，再到 2004 年 Times Higher Education 跟进，指标化评估已经从学术交流的辅助工具演变成为高等教育治理的核心基础设施。
 
 这些评估工具不仅"测量"现实，更在"制造"现实。当英国政府将 [[Research Excellence Framework]]（REF）的评估结果直接与拨款挂钩时，大学的战略行为发生了系统性改变，院系开始按照 REF 的游戏规则来招聘、晋升和配置资源。德国的Excellence Initiative 更为戏剧性，少数被认定为卓越的大学获得了巨额额外资助，而未被选上的大学则在声望和资源上遭受双重打击。详见 [[Research Excellence Framework]] 和 [[German Excellence Initiative|Excellence Initiative (Germany)]]。
 
@@ -301,7 +304,7 @@ Slaughter and Leslie(1997)和 Slaughter and Rhoades(2004)的 [[Academic Capitali
 利润同样不平等分配：学费流向机构和贷方；学生贷款利息流向金融机构；知识资产，专利、版权、数据，的控制权日益集中在少数精英大学和与之合作的企业手中。学术界的知识，大部分由公共资金支持生产，正在系统性地转化为私人可占有的资产。
 
 > [!example] 一堂课的隐性成本
-> 设想一堂大学本科经济学导论课。学生的学费一部分用于支付讲课教授的薪资、教室租金和行政成本。但这堂课还涉及一些不那么明显的资金流动：教授使用的教科书由一家大型出版集团出版，价格 $200，出版集团每售出一本就获取利润；课堂使用的教学管理系统由一家教育科技公司运营，大学支付了可观的许可费；学生购买教科书的钱一部分来自联邦贷款，贷方将从中赚取利息；而教授本人可能是兼职的，按课时计薪，没有医疗保险，没有研究经费，在多个院校之间奔波以凑够生活费。
+> 设想一堂大学本科经济学导论课。学生的学费一部分用于支付[[Lecturing|讲课]]教授的薪资、教室租金和行政成本。但这堂课还涉及一些不那么明显的资金流动：教授使用的教科书由一家大型出版集团出版，价格 $200，出版集团每售出一本就获取利润；课堂使用的教学管理系统由一家教育科技公司运营，大学支付了可观的许可费；学生购买教科书的钱一部分来自联邦贷款，贷方将从中赚取利息；而教授本人可能是兼职的，按课时计薪，没有医疗保险，没有研究经费，在多个院校之间奔波以凑够生活费。
 >
 > 在这一个教学场景中，公共资金（联邦贷款）、私人利润（出版和教育科技公司）、学术劳动的剥削（兼职教授）和金融化（学生贷款利息）同时在场，构成了高等教育新政治经济学的一个微型缩影。
 
@@ -326,7 +329,7 @@ Slaughter and Leslie(1997)和 Slaughter and Rhoades(2004)的 [[Academic Capitali
 
 > [!success] 核心结论
 > - **竞争转型的性质不是单一的** 高等教育的竞争转既非纯粹的市场化，也非简单的制度延续。它是分配冲突与[[Discourse|话语]]建构深度交织的混合秩序，资源在竞争中被分配，但"竞争"的规则本身是由话语建构的，卓越的标准是由权力关系定义的
-> - **学术"市场"的运作逻辑与常规市场根本不同** 准市场和声望竞争不依赖显性货币供需机制。公共资金与私人支出高度交织，市场化在相当程度上是国家用另一种方式继续资助高等教育，只是换了一条中间有私人机构抽成的管道
+> - **学术"市场"的运作逻辑与常规市场根本不同** [[Quasi-market|准市场]]和声望竞争不依赖显性货币供需机制。公共资金与私人支出高度交织，市场化在相当程度上是国家用另一种方式继续资助高等教育，只是换了一条中间有私人机构抽成的管道
 > - **等级被竞争固化而非消解** 市场化和评估治理倾向于**强化现有的等级而非松动它们**。精英机构利用既有的资源和声望优势，在公平竞争的规则中进一步扩大领先，规则本身就偏向已有优势的玩家
 > - **排名和指标具有履行性，它们制造所测量的现象**[[Global Universities Rankings\|全球大学排名]]不是对学术质量的被动"反映"，而是主动**重塑**了什么是好大学、什么是好研究、什么是好的学术生涯。评估工具同时完成三重操作：分配资源、制造合法性、把不平等的结果归咎于落选者不够卓越
 > - **新封建主义提供了超越市场逻辑的分析视角** 学术等级不仅通过市场竞争维持，更通过忠诚联盟、群体特权、制度声望展示和准国家化权力网络来巩固，这些机制更接近封建制的运作逻辑而非自由市场

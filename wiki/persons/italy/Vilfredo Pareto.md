@@ -9,7 +9,7 @@ summary: "意大利经济学家、社会学家与哲学家，洛桑学派代表�
 type: person
 nationality: italy
 person_region: "italy"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_theories:
   - "[[Price's Law]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
+  - "[[Journal Impact Factor]]"
 related_instruments: []
 related_persons:
   - "[[Derek de Solla Price]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-11
 ---
 
 ---
@@ -92,7 +93,7 @@ updated: 2026-10-31
 
 > [!influence-path|notitle] 影响路径
 > - **理论路径** 帕累托分布成为统计物理学与复杂网络理论中无标度拓扑的原型，直接启发了普赖斯的累积优势理论与[[Albert-László Barabási|巴拉巴西]]优先连接模型。
-> - **方法路径** 80/20 分布检验与幂律拟合成为[[Bibliometric Analysis|科学计量学]]分析顶尖学术成果集中度、期刊影响因子偏度以及学者人均生产率的标准数理工具。
+> - **方法路径** 80/20 分布检验与幂律拟合成为[[Bibliometric Analysis|科学计量学]]分析顶尖学术成果集中度、[[Journal Impact Factor|期刊影响因子]]偏度以及学者人均生产率的标准数理工具。
 > - **政策路径** 提示科技管理机构正视[[Citation Distribution|引文分布]]天然的高方差特征，破除基于平均主义高斯假设考核科研绩效的评价偏误。
 
 ---

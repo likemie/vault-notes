@@ -16,7 +16,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 42
+fact_related_count: 43
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ tags:
   - educational-governance
 related_concepts:
   - "[[Performance Indicators]]"
+  - "[[Transnational Education]]"
   - "[[Governing by Numbers]]"
   - "[[Peer Pressure]]"
   - "[[Definition of Terms]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -91,7 +92,7 @@ updated: 2026-11-02
 > - **立项时间 / 周期** 1988 年正式立项启动；1988–1992 年为密集探索与开发阶段；1992 年推出首版《教育概览》后转入常态机制化运作。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 8, 14)]]
 > - **发起方与资助机制** 由经合组织发起，直接受托并受资于[[United States Department of Education|美国教育部]]国家教育统计中心（NCES）。时任助理部长 Chester Finn Jr. 亲自向 CERI 主管 [[Jarl Bengtsson]] 团队注入专项启动资金与政治推力。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]
 > - **覆盖范围与对象** 首批覆盖 22 个 OECD 工业化成员国，后续扩展至全部成员国及伙伴经济体，直接调动数百名国家统计官员、心理测量学者、经济学家与政策幕僚。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 8–9)]]
-> - **核心问题导向** 回应 1983 年美国《国家处在危险之中》（*[[A Nation at Risk 1983|A Nation at Risk]]*）报告所引爆的跨国教育质量恐慌。西方阵营急需确立能够横向衡量“卓越”与“落后”的客观国际标杆，彻底摆脱 1970 年代经合组织因概念混杂而流产的指标开发困境。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 10)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
+> - **核心问题导向** 回应 1983 年美国《国家处在危险之中》（*[[A Nation at Risk 1983|A Nation at Risk]]*）报告所引爆的[[Transnational Education|跨国教育]]质量恐慌。西方阵营急需确立能够横向衡量“卓越”与“落后”的客观国际标杆，彻底摆脱 1970 年代经合组织因概念混杂而流产的指标开发困境。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 10)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 
 ---
 

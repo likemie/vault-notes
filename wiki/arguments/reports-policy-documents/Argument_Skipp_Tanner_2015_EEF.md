@@ -22,6 +22,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Visible Learning]]"
   - "[[Problem Solving]]"
+  - "[[Cumulative Innovation]]"
 related_theories: []
 related_methods:
   - "[[Implementation and Process Evaluation]]"
@@ -42,14 +43,14 @@ sources:
   - "[[sources/Skipp_Tanner_2015_EEF/Skipp_Tanner_2015_EEF|Skipp_Tanner_2015_EEF]]"
 status: "active"
 created: "2026-10-28"
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: "report"
 publication_type: "report"
 title: "Argument_Skipp_Tanner_2015_EEF"
 argument_key: "Argument_Skipp_Tanner_2015_EEF"
 argument_display_title: "The Visible Classroom: Evaluation report and executive summary"
 argument_kind: "report"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
@@ -245,7 +246,7 @@ issuing_organization: "[[Education Endowment Foundation]]"
 > [!success] 附录显示改进较难长期维持，密集组呈现较持续的变化
 > 按三段比较，多数教师在前、中段之间的多项教学行为有所改进，密集组较能延续到最后一段。按反馈前后比较，多数教师较高的表现出现在反馈前，反馈后难以保持；密集组在反馈后还有进一步改进。两种比较均来自干预团队对教学记录的分析。（pp. 34–35）
 
-> [!warrant]- 较高使用量与较持续的变化提供后续研究线索
+> [!warrant]- 较高使用量与较持续的变化提供[[Cumulative Innovation|后续研究]]线索
 > 密集组使用更多，也较能维持部分编码指标的改进，支持进一步研究实施强度与持续参与的关系。三批没有[[Random Assignment|随机分配]]到不同强度，参与时长也不同；独立过程评估未测量教师实践的前后变化。批次间和个人内的描述性比较因而只能提示可能的关系。（pp. 8, 23, 25, 34–35）
 
 ---

@@ -12,7 +12,7 @@ title: "Argument_Dean_2025_UICollaborationSupport"
 argument_key: "Argument_Dean_2025_UICollaborationSupport"
 argument_display_title: "Gaining support within universities for collaboration"
 argument_kind: "books"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#e5e7eb"
@@ -49,7 +49,8 @@ related_concepts:
   - "[[Research Universities]]"
 related_theories:
   - "[[RIA Model for Innovation]]"
-related_methods: []
+related_methods:
+  - "[[Journal Impact Factor]]"
 related_persons: []
 related_facts:
   - "[[University of Waterloo Inventor-Owned IP Policy]]"
@@ -65,7 +66,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-06-03
-updated: 2026-10-30
+updated: 2026-11-11
 year: 2025
 doi: ""
 citation_aliases:
@@ -187,7 +188,7 @@ citation_aliases:
 
 18. **商业化导向的学术休假（commercialization-based sabbaticals）** 提供了一个具体的前景：教师暂离校园进入企业一段时间，在深度理解[[Technology Infusion|技术融入]]产业生态的复杂性之后，带着洞察、想法和机会回到大学，深化两个组织之间的纽带。这种安排甚至可能催生**联合资助职位（co-funded appointments）**——世界级研究者一脚在产业、一脚在校园，同时培养下一代创新者(p.251)。
 
-19. [[Declaration on Research Assessment|DORA]] 提供了一条改革路径。它主张在[[Evaluation Research|评估研究]]者时不加批判地将期刊影响因子用作个人研究质量的代理指标。DORA 的核心立场是：期刊名称本身不重要，重要的是研究活动产生了什么实际影响(p.251)。更全面的研究评估视角还有助于解决研究生态系统中的公平、多样性和包容性（[[World Bank Institute|EDI]]）问题。发展产学合作耗时费力，而已有证据表明女性、种族化群体和残障人士在校内外都面临更紧迫的时间压力。
+19. [[Declaration on Research Assessment|DORA]] 提供了一条改革路径。它主张在[[Evaluation Research|评估研究]]者时不加批判地将[[Journal Impact Factor|期刊影响因子]]用作个人研究质量的代理指标。DORA 的核心立场是：期刊名称本身不重要，重要的是研究活动产生了什么实际影响(p.251)。更全面的研究评估视角还有助于解决研究生态系统中的公平、多样性和包容性（[[World Bank Institute|EDI]]）问题。发展产学合作耗时费力，而已有证据表明女性、种族化群体和残障人士在校内外都面临更紧迫的时间压力。
 
 > 这一步论证揭示了一个深层悖论：产学合作创造了专利、就业、经济增长和健康改善等广泛的社会价值，但在决定教师能否获得终身教职的评审委员会面前，这些价值几乎不享有权重。现行评估制度把产学合作标记为不计入成绩的[[Extracurricular Activities|课外活动]]。只有在评估标准中将合作的影响与期刊论文赋予至少可比较的权重，产学合作才从教师的理性计算中从负资产变为正资产。
 

@@ -8,10 +8,10 @@ aliases:
 summary: "在比较教育与政策分析中，指代全球化背景下教育改革模型脱离原有社会脉络，通过国际组织和政策网络在跨国空间中多维循环，并在不同本土情境中被不断转译、重新合法化和变形的非线性流变过程。"
 type: concept
 domain: "comparative-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 theory_related_count: 4
 theory_related_level: 1
 theory_related_stars: "⭐"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Policy Entrepreneur]]"
   - "[[Open Method of Coordination]]"
+  - "[[Policy Translation]]"
 related_theories:
   - "[[Actor-Network Theory]]"
 related_methods:
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -96,7 +97,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题一｜旅途政策是本土政治力量借用全球[[Discourse|话语]]进行“二次创作”的转译过程，有别于简单的制度复制
-> **政策转译与本土博弈** 这一命题分析为何同一政策模型在不同国家呈现出完全相异的实践面貌。
+> **[[Policy Translation|政策转译]]与本土博弈** 这一命题分析为何同一政策模型在不同国家呈现出完全相异的实践面貌。
 
 > [!claim] [[Gita Steiner-Khamsi\|Steiner-Khamsi, G.]] et al.
 > **外生政策的本土政治工具化** 阐明，在全球流动中旅行的教育政策，被接收国吸收的动力往往是本土政治行动者将其用作“外在合法化”（externalisation）的借口，以压制国内反对意见或换取外部资金援助（如[[World Bank\|世界银行]]贷款），有别于出于技术优化。政策一旦落地，便会经历深度的本地化“ Indigenisation ”，与其宣称的全球统一效果产生严重的“实施偏差”（implementation gaps），呈现出混杂（hybridity）的非预期形态。([[Argument_Beech_2009_CE\|Beech, 2009a]])

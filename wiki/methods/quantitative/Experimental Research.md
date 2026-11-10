@@ -10,7 +10,7 @@ summary: "通过主动操纵自变量并随机分配处理组与对照组以严�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 68
+method_related_count: 69
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dcfce7"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Deception in Research]]"
   - "[[My-Baby Bias]]"
+  - "[[Paradigm]]"
   - "[[Banality of Evil]]"
 related_theories: []
 related_methods:
@@ -90,14 +91,14 @@ related_facts:
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Snook_2009_NZJES]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit11]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12]]"
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-10-31
+updated: 2026-11-11
 ---
 
 ---
@@ -192,7 +193,7 @@ updated: 2026-10-31
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 结合双盲成对实验证实学者评估自身成果的自子情结偏误（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]，pp. 181–182）；阐明微观实验确定性与宏观外部效度的权衡，确立观察性建模与实验检验共生的科学学范式（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Unit 11]]，pp. 248–251）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 结合双盲成对实验证实学者评估自身成果的[[My-Baby Bias|自子情结]]偏误（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]，pp. 181–182）；阐明微观实验确定性与宏观外部效度的权衡，确立观察性建模与实验检验共生的科学学[[Paradigm|范式]]（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Unit 11]]，pp. 248–251）。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|Karp & Zamiska (2025, Ch. 12, pp. 130–136)]] — 深入反思 1950 年代[[Asch Conformity Experiment|阿施从众实验]]与 1960 年代[[Stanley Milgram|米尔格拉姆]]权威服从实验如何运用严密控制与实验欺骗揭示从众本能与[[Banality of Evil|平庸之恶]]。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, 第 8 章)]] — 系统阐述实验研究的[[Variable|变量]]操纵、[[Random Assignment|随机分配]]、[[Factorial Design|因子设计]]模型、效度威胁与统计分析指南。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009, pp. 99–104)]] — 结合田纳西 STAR 项目与 Smith and Glass (1980) 经典对照实验[[Meta-analysis|元分析]]，系统审查量化实验研究在教育政策转化中的[[Epistemology|认识论]]边界，揭示变量[[Interaction Effect|交互效应]]与底层实验质控对因果推论的决定性制约。

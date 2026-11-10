@@ -9,7 +9,7 @@ title: "Argument_Simpson_2017_JEdPolicy"
 argument_key: "Argument_Simpson_2017_JEdPolicy"
 argument_display_title: "The misdirection of public policy: Comparing and combining standardised effect sizes"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Business as Usual]]"
   - "[[Floor and Ceiling Effects]]"
   - "[[Metacognition]]"
+  - "[[Extending School Time]]"
   - "[[Critical Thinking]]"
 related_theories: []
 related_methods:
@@ -55,7 +56,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: 2026-10-30
+updated: 2026-11-11
 year: 2017
 doi: ""
 citation_aliases:
@@ -124,7 +125,7 @@ citation_aliases:
 > - 反馈元分析中许多研究按与结果高度相关的标准选择样本，但未进行任何范围限制调整
 > - Li and Ma (2010) 将特殊需要学生样本中更高的效应量解释为"技术对特殊需要学生更有效"，而非考虑范围限制效应
 >
-> **系统性含义** 反馈和[[Metacognition\|元认知]]研究中容易选择限制范围的样本（如前测失败者），但延长学校日或校服研究中没有明显的方法限制样本范围。结果是反馈研究的效应量系统性地更高——不是因为反馈更有效，而是因为更容易在限制范围上进行研究。
+> **系统性含义** 反馈和[[Metacognition\|元认知]]研究中容易选择限制范围的样本（如前测失败者），但[[Extending School Time|延长学校日]]或校服研究中没有明显的方法限制样本范围。结果是反馈研究的效应量系统性地更高——不是因为反馈更有效，而是因为更容易在限制范围上进行研究。
 >
 > #### 3c. 测量设计（Measure Design）
 >

@@ -11,7 +11,7 @@ summary: "线性回归参数估计的最经典基准模型，通过最小化观�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 47
+method_related_count: 48
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Free School Meals]]"
   - "[[Locus of Control]]"
   - "[[Effective Sample Size]]"
+  - "[[Homophily]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -223,7 +224,7 @@ updated: 2026-10-30
 ---
 
 > [!method-limits] 方法局限
-> - **群聚数据[[Standard Error\|标准误]]严重低估** OLS 建立在各观测误差项独立同分布的严苛假定上。教育现场中学生嵌套于学校，同校学生的同质性导致误差项正自相关；直接套用传统 OLS 会将集群共有的变异错误记为独立自由度，导致标准误被大幅低估 30% 至 60%，制造大量虚假的[[Statistical Significance\|统计显著性]]（[[Type I and Type II Errors\|Type I error]]）。
+> - **群聚数据[[Standard Error\|标准误]]严重低估** OLS 建立在各观测误差项独立同分布的严苛假定上。教育现场中学生嵌套于学校，同校学生的[[Homophily|同质性]]导致误差项正自相关；直接套用传统 OLS 会将集群共有的变异错误记为独立自由度，导致标准误被大幅低估 30% 至 60%，制造大量虚假的[[Statistical Significance\|统计显著性]]（[[Type I and Type II Errors\|Type I error]]）。
 > - **极端值与杠杆点敏感性** 残差平方和的二次惩罚机制赋予远离拟合平面的极端离群点与高杠杆点过高的权重，单个异常点即可显著扭曲回归斜率。
 > - **函数形式误设偏误** 当[[Variable\|变量]]间存在明显的非线性关系（如阈值效应或加速递减）时，强行采用线性 OLS 会导致系统性的残差结构化偏误。
 > - **补救方式** 面对教育嵌套数据，应采用聚类稳健标准误（CRSE）或直接升级至[[Hierarchical Linear Model\|多层线性模型]]（HLM）；面对异常值，可辅以分位数回归（Quantile Regression）或稳健回归算法。

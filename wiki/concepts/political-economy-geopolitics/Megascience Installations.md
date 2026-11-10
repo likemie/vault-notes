@@ -25,43 +25,43 @@ tags:
 related_concepts:
   - "[[Big Science]]"
   - "[[Pilot Scale Platform]]"
-  - "[[Geopolitics]]"
-  - "[[Valley of Death]]"
   - "[[Paradigm]]"
+  - "[[Geopolitics]]"
   - "[[Science Programs]]"
+  - "[[Valley of Death]]"
   - "[[South-South Cooperation]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Return on Investment]]"
-  - "[[Heterogeneous Integration]]"
+  - "[[Variable]]"
   - "[[Technology Transfer]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
 related_persons:
-  - "[[Nikolas Rose]]"
+  - "[[Santo Fortunato]]"
 related_facts:
   - "[[Office of Science and Technology Policy]]"
   - "[[Department of Energy]]"
   - "[[National Nanotechnology Coordinated Infrastructure]]"
   - "[[CERN]]"
-  - "[[National Science Foundation]]"
   - "[[National Science and Technology Council]]"
-  - "[[National Research and Resource Facility for Submicron Structures]]"
   - "[[National Strategy on Microelectronics Research]]"
+  - "[[National Science Foundation]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[National Advanced Packaging Manufacturing Program]]"
+  - "[[National Research and Resource Facility for Submicron Structures]]"
   - "[[United States Congress]]"
   - "[[Science A New Golden Age 2026]]"
 related_arguments:
   - "[[Argument_Dezhina_2022_ECO]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
-  - "[[Argument_Mody_2017_MOH]]"
   - "[[Argument_Fortunato_2018_Science]]"
+  - "[[Argument_Mody_2017_MOH]]"
 confidence: high
 status: active
 created: 2026-06-30
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -114,11 +114,11 @@ updated: 2026-11-03
 > **技术主权诉求与要素边界** 探讨在地缘竞争加剧背景下单边推行大科学工程的资源溢价与学术孤岛风险。
 
 > [!claim] [[Argument_Dezhina_2022_ECO|Dezhina and Egerev (2022)]]
-> **追求绝对技术自主的单边战略伴随沉重溢价** 在地缘政治限制与技术封锁导向下，采取单边自足策略建设本土大科学装置（如俄罗斯近年建设的系列大[[Science Programs|科学项目]]），虽然能够锁定设施的所有权与使用控制权，但在国家总体科技预算体量有限的情形下，极易对其他基础学科经费造成严重挤出，且面临缺少国际学术要素流动的孤岛化挑战。[[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, pp. 47–49)]]
+> **追求绝对技术自主的单边战略伴随沉重溢价** 在[[Geopolitics|地缘政治]]限制与技术封锁导向下，采取单边自足策略建设本土大科学装置（如俄罗斯近年建设的系列大[[Science Programs|科学项目]]），虽然能够锁定设施的所有权与使用控制权，但在国家总体科技预算体量有限的情形下，极易对其他基础学科经费造成严重挤出，且面临缺少国际学术要素流动的孤岛化挑战。[[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, pp. 47–49)]]
 
 ---
 
-> [!concept-proposition] 命题三｜大科学设施向产业初创开放并建设中试平台是跨越深科技“死亡之谷”的决定路径
+> [!concept-proposition] 命题三｜大科学设施向产业初创开放并建设中试平台是跨越深科技“[[Valley of Death|死亡之谷]]”的决定路径
 > **功能转型与产业共性基座** 探讨大科学基础设施如何从象牙塔式物理实验走向服务实体经济的共性制造支撑平台。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
@@ -130,7 +130,7 @@ updated: 2026-11-03
 > **重大基础设施组网与全链条协同** 探讨跨部门统筹微纳制造仪器与极端表征平台如何支撑芯片底层创新与原型试制。
 
 > [!claim] [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]]
-> **跨部门大科学装置网络协同与普惠式中试准入** 国家科学技术委员会（National Science and Technology Council, NSTC）在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》中明确指出，后摩尔时代半导体底层材料物理探索与先进封装验证高度依赖极端物理表征手段与昂贵微纳洁净室。战略提出全面统筹联邦科研基础设施：依托国家科学基金会（National Science Foundation, NSF）资助的[[National Nanotechnology Coordinated Infrastructure|国家纳米技术协调基础设施]]（NNCI）全美 16 个站点与 2000 余台尖端机台，以及能源部（Department of Energy, DOE）所属国家实验室的 28 个世界级大科学用户设施（如同步辐射光源、散裂中子源、超算中心与纳米相材料中心），向高校学者与初创企业开放原子级三维原位缺陷表征、晶格应变分析与多物理场仿真；同时与商务部[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）300mm 先进晶圆基线与[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）中试线打通，形成从基础材料表征到工业级原型放大的全国重大基础设施互联网络，彻底消除前沿研究的重资产准入门槛。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23, 38)]]
+> **跨部门大科学装置网络协同与普惠式中试准入** [[National Science and Technology Council|国家科学技术委员会]]（National Science and Technology Council, NSTC）在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》中明确指出，后摩尔时代半导体底层材料物理探索与先进封装验证高度依赖极端物理表征手段与昂贵微纳洁净室。战略提出全面统筹联邦科研基础设施：依托国家科学基金会（[[National Science Foundation]], NSF）资助的[[National Nanotechnology Coordinated Infrastructure|国家纳米技术协调基础设施]]（NNCI）全美 16 个站点与 2000 余台尖端机台，以及能源部（Department of Energy, DOE）所属国家实验室的 28 个世界级大科学用户设施（如同步辐射光源、散裂中子源、超算中心与纳米相材料中心），向高校学者与初创企业开放原子级三维原位缺陷表征、晶格应变分析与多物理场仿真；同时与商务部[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）300mm 先进晶圆基线与[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）中试线打通，形成从基础材料表征到工业级原型放大的全国重大基础设施互联网络，彻底消除前沿研究的重资产准入门槛。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23, 38)]]
 
 ---
 
@@ -186,7 +186,7 @@ updated: 2026-11-03
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Dezhina_2022_ECO\|Dezhina and Egerev (2022)]] | 美俄国家科技投入宏观统计对比 | 科技预算跨国计量对比 | 研发总预算体量比例 | 美国科学研发总预算约为俄罗斯的 13 倍，凸显单边大科学建设的财政鸿沟 | 官方宏观统计核算 | 说明单边承担大科学设施建设面临极高的财政机会成本 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]]; [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | 全美大科学用户设施与国家纳米基础设施（NNCI）全量网络 | 联邦基础设施普查 | 共享工具与用户设施数量 | 能源部拥有 28 个世界级用户设施，NNCI 16 个站点提供 2,000 余台共享尖端微纳工具 | 官方统计基准 | 证实联邦大科学设施具备向硬科技初创企业全面开放共享的规模基座 |
@@ -200,4 +200,4 @@ updated: 2026-11-03
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 白宫国家科技委员会国家微电子研究战略，系统规划联邦用户设施网络（2.1），统筹 NSF NNCI、DOE 国家实验室大科学装置与 NSTC 300mm 产线，向全美科研界开放尖端极端表征与微纳加工基座。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，提出重构能源部 28 个用户设施与 NNCI 准入标准，向产业初创开放大科学装置机时、微纳洁净室及共建 GMP 级中试平台。
 > - [[Argument_Dezhina_2022_ECO|Dezhina and Egerev (2022)]] — 剖析俄罗斯在追求大科学装置本土化独立建设过程中面临的财政预算约束、多边合作偏离与学术孤立风险。
-> - [[Argument_Mody_2017_MOH|Mody (2017)]] — 从管理史视阈剖析康奈尔 NRRFSS 等大学级大科学微纳开放设施通过机台共享与工程咨询驱动的跨界技术转移。
+> - [[Argument_Mody_2017_MOH|Mody (2017)]] — 从管理史视阈剖析康奈尔 NRRFSS 等大学级大科学微纳开放设施通过机台共享与工程咨询驱动的跨界[[Technology Transfer|技术转移]]。

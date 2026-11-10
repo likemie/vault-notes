@@ -6,7 +6,7 @@ aliases:
 summary: "研究设计中将研究目的收窄为可回答的具体问题或预测的核心工具，涵盖量化、质性与混合方法三种路径及问题类型谱系。"
 type: concept
 domain: "research-methodology"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
+  - "[[Statistical Significance]]"
   - "[[Quantitative Research]]"
   - "[[Progressive Focussing]]"
 related_facts:
@@ -48,7 +49,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-31
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -79,7 +80,7 @@ updated: 2026-11-03
 > | **核心功能** | 确立研究的现实必要性与理论空白 | 明确研究的整体意图与探究总目标 | 将总体意图收窄为经验可回答的具体问题 | 对[[Variable\|变量]]间关系的明确方向性或非方向性预测 |
 > | **表达形式** | 现实问题陈述或[[Deficiencies in Past Literature\|文献缺口]]说明 | 概括性的陈述句（如本研究旨在探索……） | 具体的疑问句（如现象 A 与 B 存在何种关联？） | 判定性的预测句（如 A 正向预测 B） |
 > | **方法论归属** | 所有[[Paradigm\|研究范式]]共有 | 所有研究范式共有 | 量化、质性与[[Mixed Methods Research\|混合方法]]共有 | 主要用于量化实验、准实验与因果检验 |
-> | **[[Operationalization\|操作化]]程度** | 宏观背景层面 | 中观设计层面 | 微观数据收集与分析导向 | 统计推论与显著性检验导向 |
+> | **[[Operationalization\|操作化]]程度** | 宏观背景层面 | 中观设计层面 | 微观数据收集与分析导向 | 统计推论与[[Statistical Significance\|显著性检验]]导向 |
 
 ---
 

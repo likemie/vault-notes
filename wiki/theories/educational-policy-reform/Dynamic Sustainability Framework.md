@@ -6,7 +6,7 @@ aliases:
 summary: "由 David A. Chambers、Russell E. Glasgow 与 Kurt C. Stange（2013）提出的实施科学与系统变革理论，彻底颠覆干预成效随时间衰减的传统‘电压降’假设，主张干预措施、实践现场与宏观生态系统三者处于持续的自适应调适、双向学习与动态拟合之中，以实现长效可持续性。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 31
+theory_related_count: 32
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Phronesis]]"
+  - "[[Thoughtful Engagement]]"
   - "[[Teacher Collaboration]]"
   - "[[Mutual Learning]]"
   - "[[Metacognition]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -95,7 +96,7 @@ updated: 2026-10-30
 > - **推导** 当外在环境改变而干预形态固化时，干预措施与组织日常生态必然发生摩擦排斥，最终沦为形式主义或被迫中止。
 
 > [!proposition-chain] 核心命题二｜长效可持续性依赖干预措施、组织环境与宏观系统三者之间的动态拟合与双向自适应
-> - **前提一** 高质量证据利用不是被动采纳，而是结合本土情境对干预方案展开“深思熟虑的参与和实施”。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, pp. 143–144)]]
+> - **前提一** 高质量证据利用不是被动采纳，而是结合本土情境对干预方案展开“[[Thoughtful Engagement|深思熟虑的参与]]和实施”。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, pp. 143–144)]]
 >   > [!evidence-grid]- 证据
 >   > - **跨领域综述验证** 卫生保健与教育领域综述表明，获得长期维系且成效显著的变革，均允许实践者根据学生特征与学校资源调整干预载体，同时坚守关键教学机制。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, p. 140)]]
 > - **前提二** 组织自身需建立反馈学习结构，促使实践现场的组织流程、[[Teacher Collaboration|教师协作]]文化向干预需求发生适配性演化。

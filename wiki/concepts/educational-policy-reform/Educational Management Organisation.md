@@ -8,10 +8,10 @@ aliases:
 summary: "参与公立学校教育政策制定、管理运营支持与核心教育服务交付的私营部门实体，兼具营利与非营利形式。在英美多以特许学校或学院连锁运营，在新西兰则演化为母体慈善信托与全资营利公司构成的双层混合法人架构，借助官方信息法豁免构筑民主问责屏障并实现免税套利。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - emo
   - educational-policy-reform
@@ -27,8 +27,10 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Deductible Gift Recipient]]"
   - "[[Seed Funding]]"
+  - "[[Soft Privatisation]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Screening Off]]"
+  - "[[Transnational Education]]"
+  - "[[Research Tool]]"
   - "[[Visible Learning]]"
   - "[[Public-Private Partnership]]"
   - "[[Professional Learning Community]]"
@@ -57,7 +59,7 @@ related_instruments:
 confidence: high
 status: completed
 created: '2026-05-04'
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -91,7 +93,7 @@ updated: 2026-11-03
 > | **核心业务范围** | 垄断教师专业发展培训、国家测评工具、整校托管 | 承包公费特许学校／学院整体运营、师资与财务托管 | 提供[[Seed Funding\|种子基金]]、孵化中介机构、设计社会影响力债券 | 贯彻法定公共教育规划、制定课程标准、划拨生均经费 |
 > | **资金循环与税赋** | 利润以慈善捐款免税上交母体信托，冲抵企业所得税 | 收取固定管理服务费（占比 8–15%），企业缴纳所得税 | 撬动社会资本与政府配资，实行免税捐赠运营 | 财政统收统支，完全依靠公共税收拨款 |
 > | **民主问责机制** | **豁免**于《官方信息法》（OIA），财务与合同保密 | 依据特许合同向州学监或教育标准局接受外部问责 | 通过理事会年报披露，免受议会直接民主监督 | 接受《官方信息法》穿透审计、议会质询与公众听证 |
-> | **核心潜在风险** | 制度套利、隐性私有化与公共反哺象征化 | 逐利导向压低教师薪资、筛选生源以刷高指标 | 商业量规[[Disciplina and Doctrina\|规训]]学校自治、侵蚀教育公共性 | 机构官僚僵化、决策层级繁多、响应迟缓 |
+> | **核心潜在风险** | 制度套利、[[Soft Privatisation\|隐性私有化]]与公共反哺象征化 | 逐利导向压低教师薪资、筛选生源以刷高指标 | 商业量规[[Disciplina and Doctrina\|规训]]学校自治、侵蚀教育公共性 | 机构官僚僵化、决策层级繁多、响应迟缓 |
 
 ---
 
@@ -104,7 +106,7 @@ updated: 2026-11-03
 > - **学术品牌商业特许与旋转门（Academic Franchise & Revolving Door）** 深度绑定学术权威（如 [[John Hattie]]），将其学术知识产权转化为由 EMO 独家垄断代理的全球注册商标（如 [[Visible Learning Branding and Global Influences|Visible Learningplus]]），并聘请前教育部高级官僚出任董监高，主导政府招标方向（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 65–70]]）。
 > - **象征性公共反哺与反向资金抽离（Marginal Reinvestment & Value Extraction）** EMO 从公立学校系统中抽取数千万计的公共财政与培训经费，但向公立学校发放的实际公益捐助与科研反哺常年维持在 1% 以下的极低水平（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. xvii, 72–73]]）。
 
-> [!logic-map]- 新西兰 EMO 双层法人套利与问责[[Screening Off|屏蔽]]运作反馈回路
+> [!logic-map]- 新西兰 EMO 双层法人套利与问责屏蔽运作反馈回路
 > ```mermaid
 > flowchart TD
 >   subgraph PublicDomain["公立教育领域（代议制与税收）"]
@@ -162,10 +164,10 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题四｜跨国学术品牌授权与特许加盟网络推动 EMO 全球资本积累
-> **权威学者背书、知识产权垄断与跨国教育商业扩张** 揭示 EMO 如何通过与顶尖学术权威形成商业共生同盟，将公共科研转化为跨国商业特许帝国。
+> **权威学者背书、知识产权垄断与[[Transnational Education|跨国教育]]商业扩张** 揭示 EMO 如何通过与顶尖学术权威形成商业共生同盟，将公共科研转化为跨国商业特许帝国。
 
 > [!claim] O'Neill, J. et al.
-> **学术中立声誉向跨国商业特许资本的转化** 奥尼尔等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）指出，EMO 摆脱区域局限、走向全球资本积累的核心手段，在于将公立大学学者的学术声誉与研究工具进行排他性的知识产权封装。以认知教育集团为例，该组织深度锁定奥克兰大学教授[[John Hattie|约翰·哈蒂]]（John Hattie），将其在全球政策界风靡的“[[Visible Learning|可见的学习]]”研究成果商业化注册为“[[Visible Learning Branding and Global Influences|Visible Learningplus]]”商标，并获得全球独家特许经营权。认知教育集团不仅借此垄断了新西兰本国多达 80 万名学生的评估工具分销，更跨国授权 [[Corwin Press|Corwin]] 出版社（针对北美与澳大利亚市场）及麦克米兰公司（针对英国及欧洲市场），在全球 35 个国家建立起覆盖咨询、讲座、评估量规与教师认证的庞大特许加盟网络。学术知识的公共性在此被彻底异化为排他性的商业资本，形成了学者获取巨额个人提成、EMO 赚取全球特许收益的双重利益共谋（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 65–70]]）。
+> **学术中立声誉向跨国商业特许资本的转化** 奥尼尔等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）指出，EMO 摆脱区域局限、走向全球资本积累的核心手段，在于将公立大学学者的学术声誉与[[Research Tool|研究工具]]进行排他性的知识产权封装。以认知教育集团为例，该组织深度锁定奥克兰大学教授[[John Hattie|约翰·哈蒂]]（John Hattie），将其在全球政策界风靡的“[[Visible Learning|可见的学习]]”研究成果商业化注册为“[[Visible Learning Branding and Global Influences|Visible Learningplus]]”商标，并获得全球独家特许经营权。认知教育集团不仅借此垄断了新西兰本国多达 80 万名学生的评估工具分销，更跨国授权 [[Corwin Press|Corwin]] 出版社（针对北美与澳大利亚市场）及麦克米兰公司（针对英国及欧洲市场），在全球 35 个国家建立起覆盖咨询、讲座、评估量规与教师认证的庞大特许加盟网络。学术知识的公共性在此被彻底异化为排他性的商业资本，形成了学者获取巨额个人提成、EMO 赚取全球特许收益的双重利益共谋（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 65–70]]）。
 
 ---
 

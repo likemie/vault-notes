@@ -6,7 +6,7 @@ aliases:
 summary: "大众媒体与公共舆论在极力夸大教育危机的同时，系统性回避对执政者推出的激进改革方案、因果机制与实证证据展开实质审视的媒介异化现象"
 type: concept
 domain: "educational-policy-reform"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Falling Standards Template]]"
   - "[[Mediatised Governance]]"
   - "[[Dialogue in Education]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -146,4 +147,4 @@ updated: 2026-11-03
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Grey_2018_CE|Grey and Morris (2018)]] — 提出政策规避概念并以英格兰应对 [[PISA]] 2012 为个案展开深度实证剖析的奠基文献。
+> - [[Argument_Grey_2018_CE|Grey and Morris (2018)]] — 提出政策规避概念并以英格兰应对 [[PISA]] 2012 为个案展开深度实证剖析的奠基[[Document|文献]]。

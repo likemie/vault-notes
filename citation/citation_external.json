@@ -3725,6 +3725,8 @@
     "COM, 2020": "COM, 2020",
     "CONSORT-SPI (2018)": "CONSORT-SPI, 2018",
     "CONSORT-SPI, 2018": "CONSORT-SPI, 2018",
+    "COSPUP (1965)": "COSPUP, 1965",
+    "COSPUP, 1965": "COSPUP, 1965",
     "CPR (2013)": "CPR, 2013",
     "CPR, 2013": "CPR, 2013",
     "CTGV (1990)": "CTGV, 1990",
@@ -19657,6 +19659,8 @@
     "Quarmby, 2019": "Quarmby, 2019",
     "Quay (2001)": "Quay, 2001",
     "Quay, 2001": "Quay, 2001",
+    "Quebec Education Reform (2000)": "Quebec Education Reform, 2000",
+    "Quebec Education Reform, 2000": "Quebec Education Reform, 2000",
     "Queen's University (2009)": "Queen's University, 2009",
     "Queen's University, 2009": "Queen's University, 2009",
     "Quick et al. (2009)": "Quick et al., 2009",
@@ -54968,6 +54972,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md",
         "wiki/facts/finland/Finnish Country Brand Report.md"
       ],
       "title": ""
@@ -55184,6 +55189,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/instruments/checklists/CONSORT-SPI.md"
+      ],
+      "title": ""
+    },
+    "COSPUP, 1965": {
+      "aliases": [
+        "COSPUP, 1965",
+        "COSPUP (1965)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "COSPUP, 1965"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Little Science.md"
       ],
       "title": ""
     },
@@ -91980,6 +92000,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Xu_2024_CE.md",
+        "wiki/concepts/political-economy-geopolitics/Nationalism.md",
         "wiki/persons/uk/Ernest Gellner.md",
         "wiki/persons/uk/Hugh Seton-Watson.md",
         "wiki/persons/us/Benedict Anderson.md",
@@ -171081,6 +171102,21 @@
       "seen_in": [],
       "title": "Children's Achievement and Personal and Social Development in a First-Year Reading Recovery Program With Teachers in Training"
     },
+    "Quebec Education Reform, 2000": {
+      "aliases": [
+        "Quebec Education Reform, 2000",
+        "Quebec Education Reform (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Quebec Education Reform, 2000"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/canada/Catherine Haeck.md"
+      ],
+      "title": ""
+    },
     "Queen's University, 2009": {
       "aliases": [
         "Queen's University, 2009",
@@ -187368,6 +187404,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Nationalism.md",
         "wiki/persons/uk/Hugh Seton-Watson.md"
       ],
       "title": ""
@@ -192504,6 +192541,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Nationalism.md",
         "wiki/persons/uk/Eric Hobsbawm.md"
       ],
       "title": ""
@@ -219084,6 +219122,7 @@
         "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md",
         "wiki/concepts/educational-leadership-administration/New Public Management.md",
         "wiki/facts/new-zealand/Education Review Office.md",
+        "wiki/facts/new-zealand/New Zealand Quality Teaching Strategy.md",
         "wiki/facts/new-zealand/Tomorrow's Schools Reforms.md",
         "wiki/persons/new-zealand/Cathy Wylie.md"
       ],

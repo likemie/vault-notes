@@ -9,10 +9,10 @@ aliases:
 summary: "指在科学技术与学术职业生涯各阶段中，女性在科研论著产出、学术合作网络规模、科研基金资助获取及教职聘任晋升中面临的系统性结构落差；科学学研究指出该差距既受制于学术生产力与职业寿命长短等内生结构性差异，更被简历双盲随机对照实验证实的早期招聘隐性偏见所显著加剧（Fortunato et al., 2018）。"
 type: concept
 domain: "science-policy"
-related_count: 7
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 18
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/science-policy
   - field/scientometrics
@@ -20,14 +20,25 @@ tags:
   - theme/gender-disparity
 related_concepts:
   - "[[Collaboration Penalty for Women]]"
+  - "[[Seniority Barrier in Academia]]"
+  - "[[Early-Career Researchers]]"
+  - "[[Discourse]]"
   - "[[Matthew Effect in Academia]]"
   - "[[Scientific Productivity]]"
-related_theories: []
+  - "[[Variable]]"
+related_theories:
+  - "[[Path Dependence]]"
+  - "[[Phenomenology]]"
 related_methods:
+  - "[[Bibliometric Analysis]]"
+  - "[[Random Assignment]]"
+  - "[[Randomised Controlled Trials]]"
   - "[[Mechanism Experiments]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Blinding]]"
 related_instruments: []
 related_persons:
+  - "[[Peter Thiel]]"
   - "[[Santo Fortunato]]"
 related_facts: []
 related_arguments:
@@ -35,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-03
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -45,11 +56,11 @@ updated: 2026-11-03
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 聚焦科学界的性别权力结构与资源配置分化，测量从博士毕业、博士后聘任到终身教职各阶段的女性学术损耗。
-> - **用途** 帮助科学计量学与政策学者识别同行评议中的主观无意识偏见，评估旨在促进学术公平的基金与聘任改革干预效能。
+> - **用途** 帮助[[Bibliometric Analysis|科学计量学]]与政策学者识别同行评议中的主观无意识偏见，评估旨在促进学术公平的基金与聘任改革干预效能。
 > - **边界** 不等于跨学科女性劳动参与率的宏观统计，特指在同一学科与同等学术资质基准下，女性学者在科研生产与晋升机制中遭遇的结构性惩罚。
 
 > [!citation-card|notitle] 早期聘任阶段的系统性性别偏见实验
-> 实验证据表明针对女性的偏见发生于学术职业的极早期阶段。当求职者简历池中的性别标签被随机分配时，招聘评审委员会系统性地对女性候选人打出更低的录用评分。这证实除生产力差异外，早期评审环节的隐性偏见构成了阻碍性别平等的重要机制。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
+> 实验证据表明针对女性的偏见发生于学术职业的极早期阶段。当求职者简历池中的性别标签被[[Random Assignment|随机分配]]时，招聘评审委员会系统性地对女性候选人打出更低的录用评分。这证实除生产力差异外，早期评审环节的隐性偏见构成了阻碍性别平等的重要机制。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
 >
 > *On the other hand, experimental evidence shows that biases against women occur at very early career stages. When gender was randomly assigned among the curricula vitae of a pool of applicants, the hiring committee systematically penalized female candidates.*
 
@@ -62,15 +73,15 @@ updated: 2026-11-03
 > [!contrast-table|notitle] 概念辨析
 > | 维度 | 本概念（科学界性别不平等） | [[Collaboration Penalty for Women]] | [[Seniority Barrier in Academia]] |
 > |------|--------|----------------|----------------|
-> | 分析对象 | 学术劳动力全周期中的性别资源与晋升分层 | 跨性别合作成果中的个体学术声誉分配 | 青年学者与资深学者之间的学术资历层级壁垒 |
-> | 核心机制 | 早期隐性偏见与职业寿命差异的交织累积 | 同行认知中倾向于将团队贡献归功于男性合作同侪 | 评审资历偏见与历史拨款存量的路径依赖 |
-> | 适用范围 | 基金申请、教职招聘、成果产出与职称晋升 | 联合署名论著的学术声誉认可与引用收益归算 | 基金项目立项评审与学会学术话语权分配 |
+> | 分析对象 | 学术劳动力全周期中的性别资源与晋升分层 | 跨性别合作成果中的个体学术声誉分配 | [[Early-Career Researchers\|青年学者]]与资深学者之间的学术资历层级壁垒 |
+> | 核心机制 | 早期隐性偏见与职业寿命差异的交织累积 | 同行认知中倾向于将团队贡献归功于男性合作同侪 | 评审资历偏见与历史拨款存量的[[Path Dependence\|路径依赖]] |
+> | 适用范围 | 基金申请、教职招聘、成果产出与职称晋升 | 联合署名论著的学术声誉认可与引用收益归算 | 基金项目立项评审与学会学术[[Discourse\|话语]]权分配 |
 
 ---
 
 > [!feature] 核心要素
 > - **产出与资助双重落差（Output and Funding Deficits）** 在统计全样本中，女性学者的篇均年发表量显著偏少，在同类竞争性科研资助中获批的经费规模与项数整体偏低。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
-> - **早期准入的隐性歧视（Early-Stage Hiring Penalty）** 随机对照实验证实，招聘委员会在初级教职遴选阶段即对女性申请人产生系统性评分折损，构成早期漏斗效应。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
+> - **早期准入的隐性歧视（Early-Stage Hiring Penalty）** [[Randomised Controlled Trials|随机对照实验]]证实，招聘委员会在初级教职遴选阶段即对女性申请人产生系统性评分折损，构成早期漏斗效应。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
 > - **合作网络外围化（Collaboration Marginalization）** 女性在大型跨机构合作网络中的连通节点偏少，跨界合署概率偏低，削弱了科研资源溢出效益。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
 
 > [!logic-map]- 要素关系
@@ -112,9 +123,9 @@ updated: 2026-11-03
 ---
 
 > [!dev-timeline] 概念演变
-> - **1960s–1980s — 现象学与管道渗漏描述** 提出“管道渗漏”（Leaky Pipeline）比喻，重点关注理工科高等教育中女性从本科、博士到教职阶段的逐级流失现象。
-> - **1990s–2000s — 玛蒂尔达效应与声誉偏见** 深入探讨学术界对女性学术贡献的系统性低估与隐形化（Matilda Effect），强调合署名录中的归因偏差。
-> - **2012–2018 — 机制实验与大数据生涯追踪** 借助简历性别随机分配的准实验设计证实早期聘用偏见，依托全景出版数据解构年均生产力、职业年限与结构性歧视的相对权重。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
+> - **1960s–1980s — [[Phenomenology|现象学]]与管道渗漏描述** 提出“管道渗漏”（Leaky Pipeline）比喻，重点关注理工科高等教育中女性从本科、博士到教职阶段的逐级流失现象。
+> - **1990s–2000s — 玛[[Peter Thiel|蒂尔]]达效应与声誉偏见** 深入探讨学术界对女性学术贡献的系统性低估与隐形化（Matilda Effect），强调合署名录中的归因偏差。
+> - **2012–2018 — [[Mechanism Experiments|机制实验]]与大数据生涯追踪** 借助简历性别随机分配的[[Quasi-Experimental Designs|准实验设计]]证实早期聘用偏见，依托全景出版数据解构年均生产力、职业年限与结构性歧视的相对权重。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
 
 ---
 
@@ -130,7 +141,7 @@ updated: 2026-11-03
 > > 探讨在教职招聘与基金评审中是否应设立性别比例配额。
 > >
 > > - **平权干预论** 认为隐性歧视根深蒂固，必须通过刚性配额或专属基金保障女性在学术金字塔顶端的最低代表性。
-> > - **盲审绩效论** 担忧刚性配额可能引发逆向歧视争议，主张通过双盲同行评议（Double-blind Review）消除身份标签干扰。
+> > - **盲审绩效论** 担忧刚性配额可能引发逆向歧视争议，主张通过双盲同行评议（[[Blinding|Double-blind]] Review）消除身份标签干扰。
 
 ---
 
@@ -140,7 +151,7 @@ updated: 2026-11-03
 > |:-----|:-----|:-----|
 > | [[Collaboration Penalty for Women]] | 概念 | 女性在跨性别合署研究中遭遇的学术贡献归算折损机制。 |
 > | [[Matthew Effect in Academia]] | 概念 | 与性别不平等发生复合作用，加剧成名男性学者的声誉垄断。 |
-> | [[Scientific Productivity]] | 概念 | 衡量男女学者年度成果产出差异的基准变量。 |
+> | [[Scientific Productivity]] | 概念 | 衡量男女学者年度成果产出差异的基准[[Variable\|变量]]。 |
 > | [[Mechanism Experiments]] | 方法 | 检验招聘委员会是否存在隐性性别偏见的核心实证研究设计。 |
 > | [[Santo Fortunato]] | 人物 | 综述系统梳理性别不平等的实证成因与机制实验证据。 |
 

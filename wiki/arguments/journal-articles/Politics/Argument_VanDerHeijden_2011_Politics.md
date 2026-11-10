@@ -46,6 +46,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Analytic Framework]]"
   - "[[Critical Review]]"
+  - "[[Instrumental Variables]]"
 related_instruments: []
 related_persons:
   - "[[Jeroen van der Heijden]]"
@@ -64,14 +65,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-11
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_VanDerHeijden_2011_Politics"
 argument_key: "Argument_VanDerHeijden_2011_Politics"
 argument_display_title: "Institutional layering: A review of the use of the concept"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -295,7 +296,7 @@ issuing_organization: ""
 > - **结论收束：实现两派理论统合** 与此同时，在长达几十年的和平时期，日常博弈所累积的一层层新规则与新机构在达到临界点时，同样会彻底打破旧均衡，在某一特定时刻呈现出突变爆发的形态；层叠机制由此成功沟通了宏观突变与微观渐进。
 
 > [!implication]- 理论整合与方法论启示
-> 将制度层叠操作化为行动者与工具变量，为比较政治学与公共政策分析提供了一套兼顾微观机制追踪与宏观历史尺度的通用语法；它使研究者既能解构外生危机的制度落地形态，又能捕捉日常微小博弈触发宏观突变的临界演进路径。
+> 将制度层叠操作化为行动者与[[Instrumental Variables|工具变量]]，为比较政治学与公共政策分析提供了一套兼顾微观机制追踪与宏观历史尺度的通用语法；它使研究者既能解构外生危机的制度落地形态，又能捕捉日常微小博弈触发宏观突变的临界演进路径。
 
 ---
 

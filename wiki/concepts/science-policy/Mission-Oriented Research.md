@@ -8,10 +8,10 @@ aliases:
 summary: "由国家或公共权力自上而下设定明确战略目标、聚焦国家安全与重大关键技术突破的研发组织范式，强调战略需求牵引、资源垂直集中动员与确定性交付，与自由探索型研究及应用启发型研究构成现代科研生态的三大分化轨道。"
 type: concept
 domain: "science-policy"
-related_count: 31
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 45
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - concept/science-policy
   - theme/science-policy
@@ -37,26 +37,41 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Innovation Desert]]"
   - "[[Market Failure]]"
+  - "[[Variable]]"
+  - "[[Basic-Applied Research Dichotomy]]"
+  - "[[Big Science]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
 related_facts:
   - "[[Research in Schools Evaluation]]"
+  - "[[Department of Defense]]"
+  - "[[ASEAN Economic Community]]"
   - "[[Manhattan Project]]"
   - "[[Office of Scientific Research and Development]]"
   - "[[Fairchild Semiconductor]]"
   - "[[ARPANET]]"
-  - "[[DARPA]]"
+  - "[[Sputnik Shock 1957]]"
+  - "[[President's Science Advisory Committee]]"
+  - "[[Committee on Science and Public Policy]]"
+  - "[[National Science Foundation]]"
+  - "[[National Institutes of Health]]"
+  - "[[National Aeronautics and Space Administration]]"
   - "[[A Strategy for American Innovation 2011]]"
   - "[[Autonomous Drone Swarms]]"
   - "[[Genesis Mission]]"
+  - "[[DARPA]]"
 related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
+  - "[[Argument_Yang_2017_MUE]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
+related_persons:
+  - "[[Harry S. Truman]]"
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
@@ -125,7 +140,7 @@ updated: 2026-11-04
 > **切断源头认知积累的内在脆弱性** 任务导向型研究若过度排挤自由探索，将切断底层科学[[Knowledge Production|知识生产]]的源头活水；该模式高度依赖行政指令与短期指标，缺乏学术共同体内部的自主纠错机制，在应对不可预测的未来科技[[Paradigm|范式]]颠覆时面临显著的体系脆弱性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1063–1064)]]
 
 > [!claim] [[Argument_Yang_2017_MUE|杨九斌 (2017)]]
-> **涉密军工任务垄断异化大学学术生态** 冷战初期杜鲁门政府以国防部（DOD）与原子能委员会（AEC）涉密军工合同垄断了大学 76% 的科研经费，国防部研究预算中基础研究仅占 4%；高校研究人员被降格为军工外包雇工，军事保密与行政控制严重压抑了自由基础探索；学术咨询精英依托卫星危机外部冲击推动科研资助转向民用同行评议，揭示了过度任务导向对大学学术自治的异化机制。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–37)]]
+> **涉密军工任务垄断异化大学学术生态** 冷战初期[[Harry S. Truman|杜鲁门]]政府以国防部（[[Department of Defense|DOD]]）与原子能委员会（[[ASEAN Economic Community|AEC]]）涉密军工合同垄断了大学 76% 的科研经费，国防部研究预算中基础研究仅占 4%；高校研究人员被降格为军工外包雇工，军事保密与行政控制严重压抑了自由基础探索；学术咨询精英依托卫星危机外部冲击推动科研资助转向民用同行评议，揭示了过度任务导向对大学学术自治的异化机制。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–37)]]
 
 ---
 
@@ -148,7 +163,7 @@ updated: 2026-11-04
 
 > [!dev-timeline] 任务导向研发组织[[Paradigm|范式]]的历史演化
 > - **1940s–1957 — 战时动员与杜鲁门时期涉密军工垄断期** 以[[Manhattan Project|曼哈顿工程]]与科学研究与开发署（[[Office of Scientific Research and Development|OSRD]]）为起点，冷战初期五角大楼与原子能委员会以涉密合同垄断全美大学研发总额的 76%，科研深度从属于武器试制任务。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–37)]]
-> - **1957–1970s — 卫星危机驱动的任务转向与民用同行评议平衡** 苏联卫星危机打破军工任务垄断，学术精英依托 PSAC 与 COSPUP 将战略使命从狭隘军工合同拓展为国家基础科学人才储备，资助格局向 NSF、NIH 与 NASA 转移，形成任务导向与自由基础研究的制度平衡。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 36–38)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1057)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–8)]]
+> - **1957–1970s — 卫星危机驱动的任务转向与民用同行评议平衡** [[Sputnik Shock 1957|苏联卫星危机]]打破军工任务垄断，学术精英依托 [[President's Science Advisory Committee|PSAC]] 与 [[Committee on Science and Public Policy|COSPUP]] 将战略使命从狭隘军工合同拓展为国家基础科学人才储备，资助格局向 [[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]] 与 [[National Aeronautics and Space Administration|NASA]] 转移，形成任务导向与自由基础研究的制度平衡。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 36–38)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1057)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–8)]]
 > - **2010s — 重大社会挑战与使命导向扩张期** 以 2011 年《[[A Strategy for American Innovation 2011|美国创新战略]]》为标志，任务导向由纯国防工程扩展至气候变化、新能源、先进制造等宏大社会问题（[[Grand Challenges]]）。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 > - **2025s–至今 — 关键战略技术[[Zero-Sum Competition|排他性竞争]]与[[Technological Republic|技术共和国]]重构期** 在[[Technology-Oriented Social Contract|技术型社会契约]]与重塑[[Technological Republic|技术共和国]]诉求导向下，以[[Generative Artificial Intelligence|生成式人工智能]]、[[Autonomous Drone Swarms|自主无人机蜂群]]、先进制程与量子计算为核心，推行“[[Genesis Mission|创世纪计划]]”与敏捷软件采办，打破公共部门[[Innovation Desert|创新荒漠]]，确立确定性技术能力的绝对主导地位。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062, 1064)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 11–15)]]
 
@@ -180,7 +195,7 @@ updated: 2026-11-04
 > [!ref-table]- 任务导向科研实证与制度观察
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Yang_2017_MUE\|杨九斌 (2017, pp. 36–37)]] | 1945–1970 年美国联邦机构对大学科研资助结构 | 历史制度与财政统计追踪 | 国防部/AEC 资助份额、基础研究占国防部研发比重、联邦占大学科研收入比例 | 1958 年前国防部与 AEC 占大学研发总额 76%，基础研究仅占国防部研发预算 4%；卫星危机后资助向民用转移，联邦资助占高校科研总收入比例由 1953 年 54.6% 升至 1963 年 68% | 联邦历史统计档案核查 | 实证揭示极度军工任务导向对基础研究的挤出效应及向民用同行评议的制度转向 |
 

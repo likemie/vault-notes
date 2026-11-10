@@ -7,10 +7,10 @@ aliases:
 summary: "研究社会现实的客观主义取向，持实在论本体论和实证主义认识论，将社会世界视为外在于个体的客观实在，以发现普遍法则为研究目标；在现代教育治理中，其科学决策与量化排位修辞被超国家机构塑造成无可置疑的客观主义品牌以推进去政治化协调。"
 type: concept
 domain: "educational-philosophy"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - paradigm/positivist
   - theme/epistemology
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Epistemic Aims]]"
   - "[[Bureaucracy]]"
+  - "[[Transnational Education]]"
   - "[[Governing by Numbers]]"
   - "[[Policy Science in Comparative Education]]"
 related_theories:
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -154,7 +155,7 @@ updated: 2026-11-03
 > - **19 世纪 — [[Positivism|实证主义]]传统与客观实在论奠基** 孔德等实证主义哲学家倡导以自然[[Scientific Method|科学方法]]考察社会现象，奠定客观主义在社会学中的认识论主导地位。
 > - **1975 — 格林菲尔德反思组织研究客观实在论** [[Thomas Barr Greenfield|托马斯·巴尔·格林菲尔德]]系统反思组织理论，批判将教育组织视作具有独立生命的客观实体的实在论倾向。
 > - **1979 — 伯勒尔与摩根提出四组假设主客观框架** 《社会学范式与组织分析》系统划分主观–客观哲学维度，形式化确立客观主义在[[Ontology|本体论]]、认识论、人性和方法论上的四组假设。
-> - **2007–2009 — 跨国教育治理中客观主义品牌与[[Governing by Numbers|数字治理]]霸权** Martens (2007) 与 [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 25, 27–28)]] 揭示经合组织如何将客观主义构塑为科学决策的权威品牌，以此在教育治理中达成技术压倒政治的效果。
+> - **2007–2009 — [[Transnational Education|跨国教育]]治理中客观主义品牌与[[Governing by Numbers|数字治理]]霸权** Martens (2007) 与 [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 25, 27–28)]] 揭示经合组织如何将客观主义构塑为科学决策的权威品牌，以此在教育治理中达成技术压倒政治的效果。
 > - **2011 — 科恩等系统阐发教育研究中的客观主义范式** 科恩、[[Lawrence Manion|马尼恩]]与[[Keith Morrison|莫里森]]在《教育研究方法》中系统总结客观主义哲学的十维度特征及其与[[Subjectivism|主观主义范式]]的对立。
 
 ---

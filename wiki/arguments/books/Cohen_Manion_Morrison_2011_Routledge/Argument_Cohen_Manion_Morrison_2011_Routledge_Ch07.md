@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_display_title: "Research Methods in Education · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 76
+argument_related_count: 77
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -55,6 +55,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Reliability]]"
   - "[[Document]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Artefact]]"
   - "[[Learning Styles]]"
   - "[[Record Keeping]]"
@@ -114,7 +115,7 @@ part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_instruments: []
 status: draft
 created: 2026-06-21
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 > [!logic-map]- 论证结构
 > ```mermaid
@@ -405,7 +406,7 @@ updated: 2026-10-30
 > | **政策[[Document\|文件]]** | 来自政府、组织、"智库" |
 > | **公共和私人记录** | — |
 > | **研究论文和报告** | 来自研究中心、研究组织 |
-> | **学位论文** | 硕士和博士论文 |
+> | **[[Doctoral Dissertation\|学位论文]]** | 硕士和博士论文 |
 > | **手稿** | — |
 > | **数据库** | 可检索的记录集合（电子或其他） |
 > | **会议论文** | 地方、区域、国家、国际 |

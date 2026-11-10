@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24"
 argument_display_title: "Research Methods in Education · Ch24"
 argument_kind: "book-chapter"
-argument_related_count: 58
+argument_related_count: 59
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -36,6 +36,7 @@ part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
   - "[[Concept Mapping]]"
   - "[[Criterion-Referenced Test]]"
+  - "[[Research Tool]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Academic Achievement]]"
   - "[[Creativity]]"
@@ -97,7 +98,7 @@ related_methods:
 related_instruments: []
 status: draft
 created: 2026-07-24
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
@@ -121,7 +122,7 @@ updated: 2026-10-30
 ---
 
 > [!info] 测验对象的广度与分类
-> 测验领域极为广泛，涵盖学生生活的几乎所有方面和所有年龄段。在决定使用测验作为研究工具之前，首先必须明确测验的对象是什么——能力、成就、态度、人格、智力还是社会适应。不同的测验对象决定了不同的测验类型、编制方法和解释框架。以下通过全面列举测验类别和推荐核心参考资源，帮助定位研究需求。
+> 测验领域极为广泛，涵盖学生生活的几乎所有方面和所有年龄段。在决定使用测验作为[[Research Tool|研究工具]]之前，首先必须明确测验的对象是什么——能力、成就、态度、人格、智力还是社会适应。不同的测验对象决定了不同的测验类型、编制方法和解释框架。以下通过全面列举测验类别和推荐核心参考资源，帮助定位研究需求。
 
 测验的覆盖范围可以从以下不完全清单中窥见一斑：
 

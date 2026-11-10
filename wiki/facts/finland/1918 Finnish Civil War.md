@@ -11,7 +11,7 @@ subtype: event
 region: finland
 fact_region: "finland"
 fact_kind: "event"
-fact_related_count: 0
+fact_related_count: 2
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -21,10 +21,14 @@ tags:
   - nation-building
   - finland
   - teacher-status
+related_facts:
+  - "[[Education for All]]"
+related_arguments:
+  - "[[Argument_Sahlgren_2015_CPS]]"
 confidence: medium
 status: active
 created: 2026-11-06
-updated: 2026-11-06
+updated: 2026-11-11
 ---
 
 ---
@@ -43,7 +47,7 @@ updated: 2026-11-06
 > [!dev-timeline] 事件推进历程
 > - **1918-01–1918-03 — 战事爆发与南北对峙** 激进派红卫军迅速控制赫尔辛基及南部工业核心区，保守派参议院撤往瓦萨（Vaasa）组建白军展开全面内战。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 20)]]
 > - **1918-04–1918-05 — 白军反攻与惨烈终局** 在德国波罗的海师支援下，白军相继攻克坦佩雷与维堡，战事在短短三个月内造成 3.7 万人丧生（占当时全国 300 万人口的逾 1%），留下深重的战俘营死难与阶级仇恨。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–21)]]
-> - **1918–1921 — 战后教育抚平与立法普及** 白军胜利后的资产阶级政权迅速意识到单纯军事镇压无法维系长治久安，转而借助初等公立学校推行道德抚平与爱国公民教育，直接促成[[Compulsory Education Act 1921|1921年义务教育法]]顺利通过立法。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–21)]]
+> - **1918–1921 — 战后教育抚平与立法普及** 白军胜利后的资产阶级政权迅速意识到单纯军事镇压无法维系长治久安，转而借助初等公立学校推行道德抚平与爱国公民教育，直接促成1921年义务教育法顺利通过立法。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–21)]]
 
 ---
 
@@ -62,5 +66,5 @@ updated: 2026-11-06
 ---
 
 > [!eval-box] 历史影响评估
-> - **确立现代义务教育法制** 内战消除政界围绕全民教育必要性的长久争论，使芬兰在 1921 年正式颁布普遍义务教育法，迅速建成覆盖偏远林区的初等学校网。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–21)]]
+> - **确立现代义务教育法制** 内战消除政界围绕[[Education for All|全民教育]]必要性的长久争论，使芬兰在 1921 年正式颁布普遍义务教育法，迅速建成覆盖偏远林区的初等学校网。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–21)]]
 > - **塑造教师崇高历史定位** 教师在战后被社会公认为弥合流血创伤的使徒，进一步巩固了其与牧师、医生并列的乡村精英威望，为芬兰长期吸引顶尖人才从教奠定了情感与制度保障。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 19–21)]]

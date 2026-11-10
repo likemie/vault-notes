@@ -9,29 +9,65 @@ aliases:
 summary: "指科学证据被政策制定者吸纳为决策合法性基础的过程，使科学知识从外部咨询信息转变为治理权威的构成性要素，并与科学的政治化形成共生张力。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 31
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept
   - political-economy-geopolitics
   - governance
   - epistemology
+related_concepts:
+  - "[[Policy Science in Comparative Education]]"
+  - "[[Epistemology]]"
+  - "[[Evidence-Based Policy-Making]]"
+  - "[[Paradigm]]"
+  - "[[Knowledge Production]]"
+  - "[[Discourse]]"
+  - "[[Epistemic Governance]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Technical Rationality]]"
+  - "[[Policy-Based Evidence-Making]]"
+  - "[[Champ]]"
+  - "[[Soft Power]]"
+  - "[[Document]]"
+  - "[[Epistemic Drift]]"
+  - "[[Tacit Knowledge]]"
+  - "[[Academic Freedom]]"
+  - "[[Consultocracy]]"
+  - "[[Constructivist Paradigm]]"
+  - "[[Context in Comparative Education]]"
+related_theories:
+  - "[[Governing at a Distance]]"
+  - "[[Cultural Models]]"
+  - "[[Path Dependence]]"
+  - "[[World Society Theory]]"
+  - "[[Convergence Theory in Comparative Education]]"
+related_methods:
+  - "[[Systematic Review]]"
+  - "[[Bibliometric Analysis]]"
+  - "[[Expert Interview]]"
+related_facts:
+  - "[[PISA]]"
+  - "[[Research Excellence Framework]]"
+related_arguments:
+  - "[[Argument_Zapp_2022_Springer]]"
+  - "[[Argument_Volmari_2025_CE]]"
 confidence: high
 status: active
 created: 2026-05-12
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Scientization of Politics
-> 政治科学化（Scientization of Politics / Scientification of Politics），又称政策科学化，指政策制定者接受“决策应依据科学证据”这一认识论前提，从而使科学知识从外部咨询信息转变为治理合法性的构成性要素的过程。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 145–146)]] 这一概念捕捉了现代公共治理中权力与知识关系的结构性重塑：当基于证据的政策制定（Evidence-Based Policy-Making, EBPM）成为普遍接受的治理范式时，认识论权威部分转移至知识生产机构，大学与学者由此成为治理合法性的共同生产者。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 146)]] 与此同时，政治科学化与其镜像过程——科学的政治化（Politicization of Science）构成一体两面，政治系统在吸纳科学证据的同时也对证据进行符合政治议程的选择性使用与制造。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 155)]]; [[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 531–533)]]
+> 政治科学化（Scientization of Politics / Scientification of Politics），又称[[Policy Science in Comparative Education|政策科学]]化，指政策制定者接受“决策应依据科学证据”这一[[Epistemology|认识论]]前提，从而使科学知识从外部咨询信息转变为治理合法性的构成性要素的过程。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 145–146)]] 这一概念捕捉了现代公共治理中权力与知识关系的结构性重塑：当基于证据的政策制定（[[Evidence-Based Policy-Making]], EBPM）成为普遍接受的治理[[Paradigm|范式]]时，认识论权威部分转移至[[Knowledge Production|知识生产]]机构，大学与学者由此成为治理合法性的共同生产者。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 146)]] 与此同时，政治科学化与其镜像过程——科学的政治化（Politicization of Science）构成一体两面，政治系统在吸纳科学证据的同时也对证据进行符合政治议程的选择性使用与制造。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 155)]]; [[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 531–533)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 政策系统将实证科学证据确立为决策正当性与公共合法性核心来源的制度化过程。
-> - **用途** 帮助研究者透视国家与国际组织如何借助科学话语重塑治理权威，并解构政策制定中科学论据与政治合法化之间的共生与操纵关系。
+> - **用途** 帮助研究者透视国家与国际组织如何借助科学[[Discourse|话语]]重塑治理权威，并解构政策制定中科学论据与政治合法化之间的共生与操纵关系。
 > - **边界** 区别于单纯由科学结论自发推动的线性理性决策；现实中的政治科学化常深嵌于行政传统、政治议程与熟人网络之中，并伴生科学政治化的逆向渗透。
 
 > [!citation-card|notitle] 关键表述
@@ -42,7 +78,7 @@ updated: 2026-11-09
 > [!boundary]- 概念边界
 > - 不等于 [[Epistemic Governance|认知治理]] 后者涵盖以规范、认知与话语指标为基础的整体治理机制；政治科学化特指接受科学证据作为合法性基础的具体历史趋势。
 > - 不等于 [[Evidence-Based Education|证据本位教育]] 后者是政治科学化在教育教学、课程设置等微观专业实践层面的具体议程。
-> - 不等于 纯粹技术理性治理 现实中政治系统对科学的采纳高度选择化，伴生政策导向型证据制造（[[Policy-Based Evidence-Making]]）与科学政治化。
+> - 不等于 纯粹[[Technical Rationality|技术理性]]治理 现实中政治系统对科学的采纳高度选择化，伴生政策导向型证据制造（[[Policy-Based Evidence-Making]]）与科学政治化。
 
 ---
 
@@ -50,16 +86,16 @@ updated: 2026-11-09
 > | 维度 | 政治科学化（Scientization of Politics） | 科学政治化（Politicization of Science） | [[Epistemic Governance\|认知治理]] |
 > |---|---|---|---|
 > | **核心机制** | 科学证据被吸纳为政治决策合法性的构成基石 | 政治议程反向渗透、筛选、剪裁或压制科学研究 | 依托概念框架、评价指标与专业话语间接塑造治理对象 |
-> | **权力流向** | 认识论权威从政治机构部分溢出至知识生产机构 | 政治权力对学术场域施加资源约束与议题引导 | 软性权力通过认知脚本在跨国与机构网络中扩散 |
-> | **典型表现** | 政策文本大量引证学术文献与专家评估报告 | 依政治立场选择性采樱桃、委托定制报告与认识漂移 | 国际组织以 PISA 等跨国指标网络推行远处治理 |
+> | **权力流向** | 认识论权威从政治机构部分溢出至知识生产机构 | 政治权力对学术[[Champ\|场域]]施加资源约束与议题引导 | [[Soft Power\|软性权力]]通过认知脚本在跨国与机构网络中扩散 |
+> | **典型表现** | 政策文本大量引证学术[[Document\|文献]]与专家评估报告 | 依政治立场选择性采樱桃、委托定制报告与[[Epistemic Drift\|认识漂移]] | 国际组织以 [[PISA]] 等跨国指标网络推行[[Governing at a Distance\|远处治理]] |
 
 ---
 
 > [!feature] 核心要素
 > - **认识论权威向知识生产机构转移** 决策系统确立以实证证据为准绳的规范基准，大学、智库与研究者成为治理合法性的共同生产者。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 146)]]
-> - **研究影响评估制度化** 国家通过评估框架（如英国研究卓越框架（Research Excellence Framework, REF））将社会影响力确立为学术评价指标，制度化驱动学者对齐政策议题。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 146)]]
+> - **研究影响评估制度化** 国家通过评估框架（如英国[[Research Excellence Framework|研究卓越框架]]（Research Excellence Framework, REF））将社会影响力确立为学术评价指标，制度化驱动学者对齐政策议题。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 146)]]
 > - **合法化修辞与工具性筛选** 政治系统在实践中往往优先采信契合既定改革议程的证据，科学引据充当向公众证明改革势在必行的政治背书。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 540–542)]]
-> - **多元证据采信的制度依赖** 不同国家行政传统塑造了差异化的科学化实现形态（如挪威学者委员会制、芬兰行政默会知识与丹麦政策导向型委托）。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 537–539)]]
+> - **多元证据采信的制度依赖** 不同国家行政传统塑造了差异化的科学化实现形态（如挪威学者委员会制、芬兰行政[[Tacit Knowledge|默会知识]]与丹麦政策导向型委托）。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 537–539)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -76,12 +112,12 @@ updated: 2026-11-09
 > **认识论权威转移与大学角色重塑** 探讨世界社会背景下科学证据如何成为全球治理合法性的核心构成，大学从边缘组织演变为治理知识行动者。
 
 > [!claim] [[Argument_Zapp_2022_Springer|Zapp (2022)]]
-> **治理合法性的共同生产** 决策者接受决策应依据科学证据的前提，标志着认识论权威从政治机构部分转移到知识生产机构。大学和研究者不再是政治决策的外部顾问，而成为治理合法性的共同生产者。当基于证据的政策制定成为普遍接受的全球文化模型时，能够提供可靠证据与权威知识的机构即进入全球治理的核心舞台。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 145–146)]]
+> **治理合法性的共同生产** 决策者接受决策应依据科学证据的前提，标志着认识论权威从政治机构部分转移到知识生产机构。大学和研究者不再是政治决策的外部顾问，而成为治理合法性的共同生产者。当基于证据的政策制定成为普遍接受的全球[[Cultural Models|文化模型]]时，能够提供可靠证据与权威知识的机构即进入全球治理的核心舞台。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 145–146)]]
 
 ---
 
 > [!concept-proposition] 命题二｜政治科学化与科学政治化构成相互催生的共生张力
-> **双向渗透与学术异化机制** 论述政治科学化必然伴随科学政治化，从认识漂移到证据选择性使用与制造，乃至对学术自由的政治压制。
+> **双向渗透与学术异化机制** 论述政治科学化必然伴随科学政治化，从认识漂移到证据选择性使用与制造，乃至对[[Academic Freedom|学术自由]]的政治压制。
 
 > [!claim] [[Argument_Zapp_2022_Springer|Zapp (2022)]]
 > **科学与政治的双向张力** 政治科学化与科学政治化是一体两面的共生关系。科学化使科学知识进入政治，但也为政治操控科学创造了条件。这种张力在制度层面体现为科研影响评估引发的认识漂移，学者为获取资助主动将研究兴趣对齐政策赞助方偏好；在决策层面体现为决策者对证据的选择性使用与制造；在极端情况下甚至体现为对特定学术领域的行政规制与公开压制。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 154–155)]]
@@ -89,10 +125,10 @@ updated: 2026-11-09
 ---
 
 > [!concept-proposition] 命题三｜政治科学化受本土制度传统制约并服务于政治合法化诉求
-> **制度路径依赖与证据选择性采信** 基于北欧国家学校改革经验，揭示政治科学化在微观实践中服从于政治合法化，且呈现多元的制度化实现机制。
+> **制度[[Path Dependence|路径依赖]]与证据选择性采信** 基于北欧国家学校改革经验，揭示政治科学化在微观实践中服从于政治合法化，且呈现多元的制度化实现机制。
 
 > [!claim] [[Argument_Volmari_2025_CE|Volmari et al. (2025)]]
-> **文献引注的边际性与合法化修辞** 丹麦、芬兰与挪威学校改革经验表明，政治科学化在实践中呈现高度情境化与非线性特征。三国核心政策文件中同行评议学术期刊成果仅占 14.5%（挪威 33.3%、丹麦 11.2%、芬兰 8.9%），科学证据在政策文献中实际处于边际显性地位。三国依据本土制度传统演化出各异的证据采信机制：挪威依托学者主导的官方调查委员会与系统综述，芬兰依靠行政官员以默会知识和国家评估数据主导，丹麦则依从政治议程筛选政策导向型证据。深层证据采信高度依赖非正式熟人社交网络，科学引据的首要功能是向公众证明既定改革议程的必要性与合法性。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 537–542)]]
+> **文献引注的边际性与合法化修辞** 丹麦、芬兰与挪威学校改革经验表明，政治科学化在实践中呈现高度情境化与非线性特征。三国核心政策文件中同行评议学术期刊成果仅占 14.5%（挪威 33.3%、丹麦 11.2%、芬兰 8.9%），科学证据在政策文献中实际处于边际显性地位。三国依据本土制度传统演化出各异的证据采信机制：挪威依托学者主导的官方调查委员会与[[Systematic Review|系统综述]]，芬兰依靠行政官员以默会知识和国家评估数据主导，丹麦则依从政治议程筛选政策导向型证据。深层证据采信高度依赖非正式熟人社交网络，科学引据的首要功能是向公众证明既定改革议程的必要性与合法性。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 537–542)]]
 
 ---
 
@@ -100,14 +136,14 @@ updated: 2026-11-09
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **合法性构成命题** | 科学知识从信息来源转变为决策合法性的构成要素，大学成为治理共同生产者 | 全球知识治理与高等教育政策影响评估 | [[Argument_Zapp_2022_Springer\|Zapp (2022)]] |
-> | **双向共生张力命题** | 政治科学化与科学政治化一体两面，易滋生认识漂移与证据选择性制造 | 学术评价机制改革与科学咨询政治学 | [[Argument_Zapp_2022_Springer\|Zapp (2022)]]; Weingart (1999) |
+> | **双向共生张力命题** | 政治科学化与科学政治化一体两面，易滋生认识漂移与证据选择性制造 | 学术评价机制改革与科学[[Consultocracy\|咨询政治]]学 | [[Argument_Zapp_2022_Springer\|Zapp (2022)]]; Weingart (1999) |
 > | **制度机制分化命题** | 政治科学化受行政传统与熟人网络调节，学术证据实际处于边际显性地位并服从合法化功能 | 比较教育政策追踪与国家学校改革决策分析 | [[Argument_Volmari_2025_CE\|Volmari et al. (2025)]] |
 
 ---
 
 > [!dev-timeline] 概念演变
 > - **1990s — 知识社会学奠基与理论构想** 彼得·韦恩加特（Peter Weingart; Weingart, 1999）深入分析科学与政治的双向互动，奠定了政治科学化与科学政治化互构的分析范式。
-> - **2000s — 世界社会理论与全球治理知识转向** 建构主义国际关系学与[[World Society Theory|世界社会理论]]将分析焦点拓展至观念、规范与科学知识，阐明科学证据在去中心化治理中建构合理性基准的功能。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 145–146)]]
+> - **2000s — [[World Society Theory|世界社会理论]]与全球治理知识转向** [[Constructivist Paradigm|建构主义]]国际关系学与[[World Society Theory|世界社会理论]]将分析焦点拓展至观念、规范与科学知识，阐明科学证据在去中心化治理中建构合理性基准的功能。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 145–146)]]
 > - **2010s–2020s — 研究影响评估制度化与全球扩散** 各国通过科研评估框架制度化考察研究社会影响，推动大学全面嵌入公共政策知识生产链条。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 146)]]
 > - **2025 — 比较教育经验检验与合法化解构** [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] 实证解构北欧学校改革中的证据采信，揭示政治科学化在微观实践中服从于政治合法化诉求，期刊成果引注偏低且深嵌于专家熟人网络。
 
@@ -124,7 +160,7 @@ updated: 2026-11-09
 > > [!axis] 普适科学准则 vs 本土行政制度依赖
 > > 争论政治科学化是否推动各国政策知识体系走向标准化趋同。
 > >
-> > - **全球趋同论（[[Argument_Zapp_2022_Springer|Zapp, 2022]]）** 强调基于证据的政策规范在世界社会中广泛扩散，确立统一的认识论合法性基准。
+> > - **全球[[Convergence Theory in Comparative Education|趋同论]]（[[Argument_Zapp_2022_Springer|Zapp, 2022]]）** 强调基于证据的政策规范在世界社会中广泛扩散，确立统一的认识论合法性基准。
 > > - **制度路径依赖论（[[Argument_Volmari_2025_CE|Volmari et al., 2025]]）** 指明各国基于历史国家传统演化出差异化的科学采信机制（挪威学者委员会、芬兰行政默会知识与丹麦政治委托）。
 
 > [!critique] 外部批评
@@ -142,7 +178,7 @@ updated: 2026-11-09
 >
 > | 研究 | 政策改革情境 | 证据分析样本与方法 | 核心实证指标或证据规模 | 统计结果与文献分布 | 解释边界 |
 > |---|---|---|---|---|---|
-> | [[Argument_Volmari_2025_CE\|Volmari et al. (2025)]] | 丹麦、芬兰与挪威国家学校改革 | 16 份核心政策官方文献计量分析与 15 场决策专家访谈 | 追踪分析 1,385 条参考文献记录 | 同行评议学术期刊成果仅占 14.5%（挪威 33.3%、丹麦 11.2%、芬兰 8.9%），政府公报与工作报告占 70.1% | 证实同行评议学术成果在政策引据中实际处于边际地位，打破了纯粹科学主导决策的技术理性神话 |
+> | [[Argument_Volmari_2025_CE\|Volmari et al. (2025)]] | 丹麦、芬兰与挪威国家学校改革 | 16 份核心政策官方[[Bibliometric Analysis\|文献计量分析]]与 15 场决策[[Expert Interview\|专家访谈]] | 追踪分析 1,385 条参考文献记录 | 同行评议学术期刊成果仅占 14.5%（挪威 33.3%、丹麦 11.2%、芬兰 8.9%），政府公报与工作报告占 70.1% | 证实同行评议学术成果在政策引据中实际处于边际地位，打破了纯粹科学主导决策的技术理性神话 |
 
 ---
 

@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 132
+argument_related_count: 136
 argument_related_level: 13
 argument_related_stars: "💎💎💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -80,10 +80,12 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Response-ability]]"
   - "[[Cultural Capital]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Hypothesis]]"
   - "[[Research Scope]]"
   - "[[Self Explanation]]"
   - "[[Decodification]]"
+  - "[[Lecturing]]"
   - "[[Homework]]"
   - "[[Reliability]]"
   - "[[Intentionality]]"
@@ -95,7 +97,9 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Problem Finding]]"
   - "[[Research Problem]]"
+  - "[[Homophily]]"
   - "[[Artefact]]"
+  - "[[Research Tool]]"
   - "[[Metacognition]]"
 related_theories:
   - "[[Behaviorism]]"
@@ -134,13 +138,13 @@ related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
 related_persons:
   - "[[Aristotle]]"
+  - "[[Francis Bacon]]"
   - "[[Abraham Maslow]]"
   - "[[Jürgen Habermas]]"
   - "[[Noam Chomsky]]"
   - "[[Carl Rogers]]"
   - "[[Rom Harré]]"
   - "[[Peter Woods]]"
-  - "[[Francis Bacon]]"
   - "[[Fred N. Kerlinger]]"
   - "[[Thomas Kuhn]]"
   - "[[Thomas Barr Greenfield]]"
@@ -171,7 +175,7 @@ related_facts:
 related_arguments: []
 status: draft
 created: 2026-06-16
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
@@ -231,7 +235,7 @@ updated: 2026-10-30
 
 > [!abstract] 核心议题总览
 > - **哲学奠基与[[Paradigm\|范式]]分野（第1–3节）**
->   - **探究的本质与知识的求索** 研究的五层哲学推导框架（[[Axiology\|价值论]]、[[Ontology\|本体论]]、[[Epistemology\|认识论]]、方法论、工具）；Mouly 认知世界的三种途径（经验、权威与常识的局限，推理的历史演进：[[Aristotle\|亚里士多德]]三段论演绎、培根经验归纳革命、归纳-演绎循环结合）；Kerlinger 科学研究的三大本质属性（系统受控、经验检验、自我纠正）。
+>   - **探究的本质与知识的求索** 研究的五层哲学推导框架（[[Axiology\|价值论]]、[[Ontology\|本体论]]、[[Epistemology\|认识论]]、方法论、工具）；Mouly 认知世界的三种途径（经验、权威与常识的局限，推理的历史演进：[[Aristotle\|亚里士多德]]三段论演绎、[[Francis Bacon|培根]]经验归纳革命、归纳-演绎循环结合）；Kerlinger 科学研究的三大本质属性（系统受控、经验检验、自我纠正）。
 >   - **范式理论与方法论统摄** 库恩范式概念的界定与科学共同体；科学发展的动态循环（常规科学、反常积累、危机、科学革命与范式转换）；天文学、物理学与社会科学的历史案例；[[Incommensurability\|不可通约性]]论辩与教育研究“[[Paradigm Wars\|范式战争]]”。
 >   - **社会实在的两种构想与哲学假设** Burrell & Morgan 的四组核心假设沿主观–客观维度的展开（[[Nominalism\|唯名论]] vs 实在论、反实证 vs 实证、[[Voluntarism\|唯意志论]] vs [[Determinism\|决定论]]、表意法 vs 通则法，复刻 Figure 1.1）；Barr Greenfield 诠释社会实在的替代基础（哲学基础、社会科学角色、社会实在单位、理解方式、理论、研究、方法论、社会、组织、组织病理学、变革处方，复刻 Table 1.1）。
 > - **实证范式及其系统清算（第4–5节）**
@@ -525,7 +529,7 @@ updated: 2026-10-30
 在科学研究的操作实践中，科学家依赖两项最基础的概念工具来构建与推进探究：
 
 > [!concept-lens] 科学探究的两大认知透镜：概念与假说
-> - **概念** 人类对具体经验的抽象概括，其本质是语言符号与心理观念之间的映射关系。概念构成了人类感知现实的认知网格；掌握的概念库越丰富，所能捕获的感官信息维度就越深刻。社会科学通过提炼专业概念（如社会阶层、[[Cultural Capital\|文化资本]]），为剖析社会现实切片提供了理论透镜。
+> - **概念** 人类对具体经验的抽象概括，其本质是语言符号与心理观念之间的映射关系。概念构成了人类感知现实的认知网格；掌握的概念库越丰富，所能捕获的感官信息维度就越深刻。社会科学通过提炼专业概念（如社会阶层、[[Cultural Capital\|文化资本]]），为剖析社会现实切片提供了[[Theoretical Standpoint|理论透镜]]。
 > - **假说** 科学探究的前行向导与思维跳板，是待经验检验的假定性命题。假说指引研究者筛选观察现象并启发实验方案。一个优秀的假说必须具备逻辑即时性（logical immediacy），清晰陈述变量间关系，并明确蕴含可操作的经验检验路径。
 
 [[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]得主[[Peter Medawar|彼得·梅达沃]]（Peter Medawar）在《对科学的忠告》中对假说的启发与批判特质作出了精妙论断（Medawar, 1972, 1981）：
@@ -628,7 +632,7 @@ updated: 2026-10-30
 为了展现实证量化编码与情境诠释的质性鸿沟，罗布·沃克（Rob Walker）与克莱门斯·阿德尔曼（Clem Adelman）记录了英国中学的经典课堂片段（Walker & Adelman, 1975；Delamont, 1976；pp. 459–484）：
 
 > [!case] Box 1.5　课堂情境片段：“草莓”事件与互动分析（A classroom episode）
-> 沃克与阿德尔曼记录了一堂中学生作文评讲课的生动场景：
+> 沃克与阿德尔曼记录了一堂中学生作文评[[Lecturing|讲课]]的生动场景：
 > 
 > 课堂上，教师正在倾听男生们依次朗读以“监狱”为主题的[[Homework\|家庭作业]]短文。在一个叫威尔逊（Wilson）的男生读完他那篇显然敷衍了事的潦草短文后，教师叹了一口气，语气颇为不悦地责备道：
 > 
@@ -879,7 +883,7 @@ updated: 2026-10-30
 >     - **6. 时空情境性** 意义深深扎根于具体时空、文化与社会网络，不存在跨时空的抽象规律。
 >     - **7. 肯定无深度与多重浅表性** 承认现实包含多重可并存的浅层表现形态，多重视角具有同等正当性。
 > - **差异、多元与方法论相对主义**
->     - **8. 颂扬断裂、差异与多元** 将研究视线从寻找普遍同质性转向关注个体的异质性与独特表达。
+>     - **8. 颂扬断裂、差异与多元** 将研究视线从寻找普遍[[Homophily|同质性]]转向关注个体的异质性与独特表达。
 >     - **9. 方法论相对主义** 拒绝绝对主义关于“何为唯一有效知识”的霸权裁判。
 >     - **10. 承认矛盾解释合法并存** 研究者自身对现象的诠释仅是多元解释中的一种，绝不享有天然特权。
 >     - **11. 肯定个体声音本体价值** 尊重每一个被研究者独特的生存体验与自主赋意。
@@ -950,7 +954,7 @@ updated: 2026-10-30
 ---
 
 > [!citation-card] Burrell & Morgan 论主观–客观维度的四组假设推导
-> 社会科学的研究进路建立在关于社会世界本质与如何探究它的根本假设之上：关于现实本质的[[Ontology\|本体论假设]]衍生出关于知识获取方式的[[Epistemology\|认识论假设]]；这些假设进一步衍生出方法论考量，并最终决定具体的研究工具与数据收集手段。（pp. 145–147）
+> 社会科学的研究进路建立在关于社会世界本质与如何探究它的根本假设之上：关于现实本质的[[Ontology\|本体论假设]]衍生出关于知识获取方式的[[Epistemology\|认识论假设]]；这些假设进一步衍生出方法论考量，并最终决定具体的[[Research Tool|研究工具]]与数据收集手段。（pp. 145–147）
 >
 > *Ontological assumptions (assumptions about the nature of reality and the nature of things) give [[Research in Schools Evaluation\|RISE]] to epistemological assumptions (ways of researching and enquiring into the nature of reality and the nature of things); these, in turn, give rise to methodological considerations; and these, in turn, give rise to issues of instrumentation and data collection.*
 

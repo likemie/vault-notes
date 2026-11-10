@@ -9,7 +9,7 @@ summary: "智利公共政策与教育研究学者，经合组织教育研究与�
 type: person
 nationality: chile
 person_region: "chile"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -23,17 +23,18 @@ tags:
   - institution/oecd
 related_concepts:
   - "[[Research Impact]]"
+  - "[[Transnational Education]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Research Utilization]]"
   - "[[Paradigm]]"
   - "[[Technology Transfer]]"
   - "[[Document]]"
-  - "[[Innovation Hub]]"
   - "[[Self-report Bias]]"
   - "[[Research-Policy Gap]]"
   - "[[Research-Practice Gap]]"
   - "[[Heterogeneity]]"
   - "[[Emergence]]"
+  - "[[Innovation Hub]]"
 related_theories:
   - "[[Research Knowledge Mobilisation Model]]"
   - "[[Typology of Factors Influencing Research Use]]"
@@ -55,14 +56,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** [[José Manuel Torres|何塞·曼努埃尔·托雷斯]]（José Manuel Torres），智利公共政策与教育研究学者，[[Centre for Educational Research and Innovation\|经合组织教育研究与创新中心]]（[[OECD]] CERI）顾问。
-> - **核心角色** 在经合组织“加强教育[[Research Impact\|研究影响力]]”（Strengthening the Impact of Education Research）项目中担任核心分析员，主持构建跨国教育研究[[Knowledge Mobilisation\|知识动员]]（[[Research Knowledge Mobilisation Model\|RKM]]）[[Analytic Framework\|分析框架]]，并在实证调查中系统梳理了 29 国 37 个教育系统的证据利用阻碍与机制全景。
+> - **核心角色** 在经合组织“加强教育[[Research Impact\|研究影响力]]”（Strengthening the Impact of Education Research）项目中担任核心分析员，主持构建[[Transnational Education|跨国教育]]研究[[Knowledge Mobilisation\|知识动员]]（[[Research Knowledge Mobilisation Model\|RKM]]）[[Analytic Framework\|分析框架]]，并在实证调查中系统梳理了 29 国 37 个教育系统的证据利用阻碍与机制全景。
 > - **代表贡献** 提出教育知识动员四层级分析框架（因素、机制、干预、战略），构建影响[[Research Utilization\|研究利用]]的五维度拓扑模型，系统梳理线性、关系性与系统性知识动员模型，并从实证层面揭示了证据政策中以信息分发替代机制治理的深层悖论。
 
 > [!citation-card] 职业与学术履历

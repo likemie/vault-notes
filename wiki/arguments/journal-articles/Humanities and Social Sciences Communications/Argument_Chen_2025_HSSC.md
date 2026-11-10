@@ -28,16 +28,17 @@ related_concepts:
   - "[[Hot Streak]]"
   - "[[Creativity]]"
   - "[[Scientific Productivity]]"
-  - "[[Disruption-Impact Time Lag]]"
   - "[[Epistemology]]"
   - "[[Exploration-Exploitation in Science]]"
   - "[[Matthew Effect in Academia]]"
+  - "[[Disruption-Impact Time Lag]]"
   - "[[Operationalization]]"
   - "[[Combinatorial Novelty]]"
   - "[[Variable]]"
   - "[[Construct]]"
   - "[[Independent Variable]]"
   - "[[Research Scope]]"
+  - "[[Early-Career Researchers]]"
   - "[[Domain Specificity]]"
   - "[[Big Science]]"
 related_theories:
@@ -66,14 +67,14 @@ sources:
 part_of:
 status: draft
 created: 2026-11-03
-updated: 2026-11-06
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Chen_2025_HSSC"
 argument_key: "Argument_Chen_2025_HSSC"
 argument_display_title: "Hot streaks and disruptiveness in the career of scientists: is there an association between both phenomena? Humanities and Social Sciences Communications, 12, Article 1424"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -95,7 +96,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **对象** [[Microsoft Academic Graph|微软学术图谱]]（Microsoft Academic Graph, MAG）中 21,271 位拥有 20 年以上研究经历、发表论著不少于 15 篇的经济学学者全生命周期产出记录，包含 241,158 篇经过被引与参考文献阈值清洗的代表性论著，并以计算机科学、地质学与生物学数据开展跨学科对照。
 > - **张力** 既有计量研究表明单篇最具颠覆性的工作往往仅获中等引用；而在长周期学术生涯尺度下，高被引集聚的爆发期究竟与知识颠覆脱节，还是遵循前沿突破在先、引文承认在后的共生规律，构成理解科学创造节奏的核心张力。
-> - **贡献** 首次在学者长周期全生涯尺度上确立学术爆发期兼具高颠覆度的实证特征；揭示颠覆峰值系统性早于引文峰值的[[Disruption-Impact Time Lag|颠覆—影响时序时滞]]规律；引入[[Discounted Cumulative Gain|折损累积增益]]算法（Discounted Cumulative Gain, DCG）有效解决多篇成果颠覆度聚合测度的技术瓶颈；为优化科技资助节奏、加大对中年探索期学者的高容错支持提供计量依据。
+> - **贡献** 首次在学者长周期全生涯尺度上确立学术爆发期兼具高颠覆度的实证特征；揭示颠覆峰值系统性早于引文峰值的颠覆—影响时序时滞规律；引入[[Discounted Cumulative Gain|折损累积增益]]算法（Discounted Cumulative Gain, DCG）有效解决多篇成果颠覆度聚合测度的技术瓶颈；为优化科技资助节奏、加大对中年探索期学者的高容错支持提供计量依据。
 
 ---
 
@@ -108,10 +109,10 @@ issuing_organization: ""
 > | **随机影响规律**<br>[[Random Impact Rule]] | 表明重大代表作在学者全生涯发表时序中均匀随机出现（[[Argument_Sinatra_2016_Science\|Sinatra et al., 2016]]），为检验颠覆性极值成果涌现时机提供统计无偏基准。 |
 > | **常规科学与科学革命理论**<br>[[Paradigm]] | [[Thomas Kuhn\|托马斯·库恩]]（Thomas S. Kuhn; Kuhn, 1962）关于常规科学解谜与科学革命范式更替的理论，为颠覆型研究（开启新方向）与巩固型研究（深化旧传统）提供[[Epistemology\|认识论]]区隔。 |
 > | **探索—利用动力学**<br>[[Exploration-Exploitation in Science]] | 解释学者在爆发期前展开广泛涉猎探索、在爆发期内聚焦突破、在爆发期后利用成果红利的策略切换机制（March, 1991; Liu et al., 2021）。 |
-> | **优先连接与累积优势理论**<br>[[Preferential Attachment in Academia]] / [[Matthew Effect in Academia]] | 解释为何突破性成果需要经历长周期消化才能在网络中形成声誉集聚与高被引认可，阐明颠覆时滞的引文动力学机制（Barabási & Albert, 1999; Merton, 1968）。 |
+> | **优先连接与累积优势理论**<br>[[Preferential Attachment in Academia]] / [[Matthew Effect in Academia]] | 解释为何突破性成果需要经历长周期消化才能在网络中形成声誉集聚与高被引认可，阐明[[Disruption-Impact Time Lag\|颠覆时滞]]的引文动力学机制（Barabási & Albert, 1999; Merton, 1968）。 |
 
 > [!warrant]- 理论如何支撑论证
-> 托马斯·库恩（Thomas S. Kuhn）的范式理论将科学成果区分为开辟新路径的革命性工作与巩固旧框架的常规工作，[[Disruption Index|颠覆性指数]]从引文拓扑结构上将这一区隔[[Operationalization|操作化]]，并与[[Combinatorial Novelty|组合新颖性]]区分。西蒙顿的[[Chance-Configuration Theory|机会构型理论]]与[[Constant-Probability-of-Success Model|成功恒定概率模型]]假定重大创新的涌现依赖持续尝试与盲目变异，由此推导出提高探索总量有助于触碰突破边界。结合学术爆发期理论与机会构型假说，将颠覆度测度置于学者生命周期演化视角下，形成发文尝试驱动机遇获取、爆发期迎来颠覆突破、后继工作走向常规巩固并通过[[Preferential Attachment in Academia|优先连接]]迎来引文扩散的解释逻辑。
+> 托马斯·库恩（Thomas S. Kuhn）的范式理论将科学成果区分为开辟新路径的革命性工作与巩固旧框架的常规工作，[[Disruption Index|颠覆性指数]]从引文拓扑结构上将这一区隔[[Operationalization|操作化]]，并与[[Combinatorial Novelty|组合新颖性]]区分。西蒙顿的[[Chance-Configuration Theory|机会构型理论]]与[[Constant-Probability-of-Success Model|成功恒定概率模型]]假定重大创新的涌现依赖持续尝试与盲目变异，由此推导出提高探索总量有助于触碰突破边界。结合学术爆发期理论与机会构型假说，将颠覆度测度置于学者生命周期演化视角下，形成发文尝试驱动机遇获取、爆发期迎来颠覆突破、后继工作走向常规巩固并通过优先连接迎来引文扩散的解释逻辑。
 
 ---
 
@@ -244,7 +245,7 @@ issuing_organization: ""
 > ![](https://img.mylikemie.icu/sources/Chen_2025_HSSC/figures/Chen_2025_HSSC_Fig7_Ddiff_Hot_Streak_Characteristics.jpg)
 > *按爆发期时长分组的颠覆度增量单调递增（左图），而爆发期在生涯中的起始与结束时间占比均未呈现方向性规律（中图、右图），印证颠覆突破时序降临的随机性。*
 
-> [!sub-claim] 2. 最具颠覆性的论著平均比最高引文论著早发表数年（[[Disruption-Impact Time Lag|颠覆—影响时序时滞]]）
+> [!sub-claim] 2. 最具颠覆性的论著平均比最高引文论著早发表数年（颠覆—影响时序时滞）
 
 > [!phase] 颠覆探索与引文爆发的时序阶段演进
 >
@@ -268,7 +269,7 @@ issuing_organization: ""
 > [!sub-claim] 1. 爆发期内多发文通过试错提高颠覆突破概率
 
 > [!factors] 爆发期产出特征对颠覆度增量的驱动与制约机制
-> - **发文总量的试错拉动** 爆发期内的发文总量（`#pub_during`）对颠覆度增量具有高度显著的正向影响（模型 4 中 $\beta = 0.029, p < .001$；模型 3 中 $\beta = 2.026, p < .001$）。密集发表为学者提供了更广泛的概念重组与试验空间，印证了 Simonton (1989, 1991, 2004) 关于重大突破依赖海量试错规模的[[Chance-Configuration Theory|机会构型机制]]。
+> - **发文总量的试错拉动** 爆发期内的发文总量（`#pub_during`）对颠覆度增量具有高度显著的正向影响（模型 4 中 $\beta = 0.029, p < .001$；模型 3 中 $\beta = 2.026, p < .001$）。密集发表为学者提供了更广泛的概念重组与试验空间，印证了 Simonton (1989, 1991, 2004) 关于重大突破依赖海量试错规模的机会构型机制。
 > - **常规高引的资源挤出** 期内被引论著数量（`cits_num_during`）呈现高度显著的负向抑制（模型 4 中 $\beta = -0.126, p < .001$）。高被引成果往往偏向既有范式内的常规解谜与渐进拓展，占用学者的认知带宽与探索精力。
 > - **颠覆产出的直接提升** 期内颠覆性论著数量（`D_num_during`）对颠覆度增量具有决定性拉动作用（模型 4 中 $\beta = 1.162, p < .001$），而前期颠覆底仓（`D_num_before`）产生负向基准效应（$\beta = -0.955, p < .001$）。
 
@@ -339,7 +340,7 @@ issuing_organization: ""
 ---
 
 > [!citation-card] 资助机构应当优化对中年探索期科研人员的容错资助
-> 颠覆性产出（生涯中前期）与引文认可（生涯中后期）之间的时序脱节表明，科技资助机构应当在不同生涯阶段持续维持高容错度的探索性资助，而非将资源过度集中于初入行青年学者或晚期成熟团队。处于入行 14 至 16 年的中年学者正迎来其最具颠覆性的阶段，为其提供灵活的资助机制有助于激发重大的开拓性发现。此外，发文生产力与颠覆度之间的正向联系进一步强化了资助计划应当包容探索试错、鼓励科研人员积极推进发表的政策价值。
+> 颠覆性产出（生涯中前期）与引文认可（生涯中后期）之间的时序脱节表明，科技资助机构应当在不同生涯阶段持续维持高容错度的探索性资助，而非将资源过度集中于初入行[[Early-Career Researchers|青年学者]]或晚期成熟团队。处于入行 14 至 16 年的中年学者正迎来其最具颠覆性的阶段，为其提供灵活的资助机制有助于激发重大的开拓性发现。此外，发文生产力与颠覆度之间的正向联系进一步强化了资助计划应当包容探索试错、鼓励科研人员积极推进发表的政策价值。
 >
 > *First, the temporal gap between disruptive output (early-mid career) and citation recognition (mid-late career) suggests that funding agencies could optimize support by sustaining risk-tolerant grants across career stages rather than concentrating resources on early-career researchers. For example, mid-career scientists—who our analysis shows are often entering their most disruptive phases—may benefit from flexible funding schemes that allow them to build on exploratory work initiated earlier... Second, the link between productivity and disruptiveness underscores the value of funding programs that support prolific output and iterative experimentation without penalizing incremental or failed explorations.*
 

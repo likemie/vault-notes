@@ -8,7 +8,7 @@ summary: "新西兰当代著名教育哲学家、梅西大学荣休教授，国�
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 28
+person_related_count: 29
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
+  - "[[Transnational Education]]"
   - "[[Paradigm]]"
   - "[[Gatekeepers]]"
   - "[[School Vouchers]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-17
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -103,7 +104,7 @@ updated: 2026-10-30
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 奠定了当代分析教育哲学关于“灌输”、“自主性”与“教导伦理”的标准分析工具，影响跨国教育伦理学界数十年。
+> - **理论路径** 奠定了当代分析教育哲学关于“灌输”、“自主性”与“教导伦理”的标准分析工具，影响[[Transnational Education|跨国教育]]伦理学界数十年。
 > - **方法路径** 与新西兰批判学者团队共同构筑了针对“超级[[Meta-analysis|元分析]]”与宏观循证狂热的方法学质询[[Paradigm|范式]]，推动学界对[[Research Synthesis|研究综合]]准入标准（[[PRISMA]]/RoB）与底层效度检验的重视。
 > - **政策路径** 成为新西兰战后公立教育体系的最坚定[[Gatekeepers|守门人]]，其学术成果为教师工会、进步校长协会及公共教育倡导者抵制[[School Vouchers|教育券]]、恶性[[Performance Pay|绩效工资]]及盲目合班提供了扎实的学理弹药。
 

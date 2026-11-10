@@ -7,7 +7,7 @@ aliases:
 summary: "学生与教师在教育实践与微观课堂互动中建构的情感支持、道德信任与指导性交往联结。它既是学习参与、心理安全感与学业投入的关键生态条件，也是承载不同文化学习信念与社会资本转化的核心关系中介。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 57
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -44,13 +44,13 @@ related_concepts:
   - "[[Champ]]"
   - "[[Cultural Capital]]"
   - "[[Habitus]]"
+  - "[[Study Abroad]]"
   - "[[Going Native]]"
   - "[[Cultural Disembedding]]"
   - "[[Paradigm]]"
   - "[[Pure Evaluation]]"
   - "[[Dependent Variable]]"
   - "[[Positivism]]"
-  - "[[Document]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Culture as Toolkit]]"
@@ -63,7 +63,6 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Meta-analysis]]"
   - "[[Cluster Analysis]]"
-  - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
@@ -86,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-06'
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 > [!def] Student-Teacher Relationship
@@ -152,7 +151,7 @@ updated: 2026-11-03
 > **社会再生产与空间制度化** 探讨师生关系如何通过日常接触、情感距离与制度化空间，促成或阻碍弱势学生的阶层流动与学术融入。
 
 > [!claim] [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]
-> **大学融入与校园社会资本的具身化载体** [[Yajun Zheng|郑雅君]]（Zheng, 2023）在针对名校大学生出路转化的质性追踪中，依托 Tinto 社交融入模型与[[Pierre Bourdieu|布迪厄]][[Cultural Capital|文化资本]]理论指出，师生关系是衡量校园社会资本与具身文化资本转化的敏感触角。第一代大学生或工薪家庭子弟因缺乏文化[[Habitus|惯习]]（Habitus）对齐，在面对大学教授时常感到“不自在”（out of place），倾向于刻意回避深层师生互动；而优势家庭学生则能熟练激活[[Culture as Toolkit|文化工具箱]]，将课后交流与导师指导转化为关键的信息“地图”与保研/留学阶梯，致使师生交往在不经意间成为强化社会不平等的隐形机制。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, pp. 679, 719)]]
+> **大学融入与校园社会资本的具身化载体** [[Yajun Zheng|郑雅君]]（Zheng, 2023）在针对名校大学生出路转化的质性追踪中，依托 Tinto 社交融入模型与[[Pierre Bourdieu|布迪厄]][[Cultural Capital|文化资本]]理论指出，师生关系是衡量校园社会资本与具身文化资本转化的敏感触角。第一代大学生或工薪家庭子弟因缺乏文化[[Habitus|惯习]]（Habitus）对齐，在面对大学教授时常感到“不自在”（out of place），倾向于刻意回避深层师生互动；而优势家庭学生则能熟练激活[[Culture as Toolkit|文化工具箱]]，将课后交流与导师指导转化为关键的信息“地图”与保研/[[Study Abroad|留学]]阶梯，致使师生交往在不经意间成为强化社会不平等的隐形机制。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, pp. 679, 719)]]
 
 > [!claim] [[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987)]]
 > **森林村落生活空间把师生关系铸造为完整教育制度** 亚历克·彼得森（[[Alec Peterson]]）在记录加拿大佩德湾皮尔逊国际联合书院（Lester B. Pearson College of the Pacific）创校历程时指出，学校摈弃了传统教学楼与宿舍分离的科层布局，采用红杉木建筑构建“森林村落”。学生与教师共同生活于同一生活空间并共同参与地方社区服务，校长杰克·马修斯（Jack Matthews）以名相称、取消正式官僚等级。这种全景式空间安排将师生关系从狭隘的 45 分钟课堂听讲拓展为包含自治、寄宿、情感共振与社会服务的完整制度载体，成功弥合了不同国族青年之间的信任裂隙。[[Argument_Peterson_1987_OpenCourt_Ch05|(Peterson, 1987, pp. 120–122)]]

@@ -8,7 +8,7 @@ summary: "英国比较教育学家、雷丁大学比较教育学教授，战后�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[National Character]]"
   - "[[Determinism]]"
   - "[[Variable]]"
+  - "[[Transnational Education]]"
   - "[[Construct]]"
   - "[[Cultural Capital]]"
 related_theories: []
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-16
+updated: 2026-11-11
 ---
 
 ---
@@ -85,7 +86,7 @@ updated: 2026-10-16
 > 马林森将[[Michael Sadler\|萨德勒]]的校外精神力量与汉斯的世俗因素进行了高度提炼。
 
 > [!claim] Mallinson, V.
-> **[[National Character\|国民性格]]作为教育系统最深层的解释[[Variable\|变量]]** 马林森主张，任何教育制度都绝非技术官员凭空设计的行政图纸，而是民族世代相传的精神倾向总和的外在投射。学校制度的改革如果违背了本国国民性格的内在诉求，就必然陷入低效、动荡乃至失败；因此，跨国教育比较的第一要务，是透过制度表象洞悉该民族独特的心理气质与精神传统。[[Argument_Kazamias_2009_ForgottenThemes\|(Mallinson, 1957; Kazamias, 2009: 40, 引自 Kazamias, 2009b)]]
+> **[[National Character\|国民性格]]作为教育系统最深层的解释[[Variable\|变量]]** 马林森主张，任何教育制度都绝非技术官员凭空设计的行政图纸，而是民族世代相传的精神倾向总和的外在投射。学校制度的改革如果违背了本国国民性格的内在诉求，就必然陷入低效、动荡乃至失败；因此，[[Transnational Education|跨国教育]]比较的第一要务，是透过制度表象洞悉该民族独特的心理气质与精神传统。[[Argument_Kazamias_2009_ForgottenThemes\|(Mallinson, 1957; Kazamias, 2009: 40, 引自 Kazamias, 2009b)]]
 
 ---
 

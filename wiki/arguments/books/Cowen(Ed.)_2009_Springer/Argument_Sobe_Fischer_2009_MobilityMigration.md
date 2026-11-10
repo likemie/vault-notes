@@ -7,7 +7,7 @@ title: "Argument_Sobe_Fischer_2009_MobilityMigration"
 argument_key: "Argument_Sobe_Fischer_2009_MobilityMigration"
 argument_display_title: "Mobility, migration and minorities in education"
 argument_kind: "book-chapter"
-argument_related_count: 52
+argument_related_count: 55
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Traveller Education]]"
   - "[[Nomadic Education]]"
   - "[[Temporalization of Space]]"
+  - "[[Transnational Education]]"
   - "[[Developmentalism]]"
   - "[[European Education Space]]"
   - "[[Study Population and Sample]]"
@@ -79,6 +80,8 @@ related_persons:
   - "[[Rolland Paulston]]"
   - "[[Nikolas Rose]]"
   - "[[António Nóvoa]]"
+  - "[[Ben Levin]]"
+  - "[[Noah Sobe]]"
 related_facts:
   - "[[EU]]"
   - "[[TEMPUS]]"
@@ -95,7 +98,7 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: completed
 created: 2026-10-10
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
@@ -196,7 +199,7 @@ updated: 2026-10-29
 
 > [!feature] 比较教育学空间转向的学术脉络演进
 > - **[[Social Cartography|社会制图学]]（[[Social Cartography]]）的确立** [[Rolland Paulston|罗兰·保尔斯顿]]（Paulston, 1997, 2000）将空间隐喻转化为制图分析方法，用二维平面图谱平铺展示相互竞争的学术思想（如功能主义、冲突论、解释学与[[Postmodernism|后现代主义]]），以不同思想流派之间的拓扑距离与对话取代单一真理垄断。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
-> - **跨国教育空间建构的批判解构** 诸多学者将空间视角运用于具体教育政策分析：比奇（Beech, 2002）解构了将拉美教育预设为落后于西方单一时间轨道的“单线演进假象”，揭示了西方[[Discourse|话语]]如何通过构筑等级化的认知空间来维持[[Developmentalism|发展主义]]依附；杜塞尔等（Dussel et al., 2000）绘制阿根廷课程分权改革的新地图；戈登与拉赫尔玛（Gordon & Lahelma, 1996）剖析学校内部具身空间；诺沃亚与劳恩（Nóvoa & Lawn, 2002）系统剖析[[European Education Space|欧洲教育空间]]的制造过程。（p. 360）
+> - **[[Transnational Education|跨国教育]]空间建构的批判解构** 诸多学者将空间视角运用于具体教育政策分析：比奇（Beech, 2002）解构了将拉美教育预设为落后于西方单一时间轨道的“单线演进假象”，揭示了西方[[Discourse|话语]]如何通过构筑等级化的认知空间来维持[[Developmentalism|发展主义]]依附；杜塞尔等（Dussel et al., 2000）绘制阿根廷课程分权改革的新地图；戈登与拉赫尔玛（Gordon & Lahelma, 1996）剖析学校内部具身空间；诺沃亚与劳恩（Nóvoa & Lawn, 2002）系统剖析[[European Education Space|欧洲教育空间]]的制造过程。（p. 360）
 
 ---
 
@@ -283,7 +286,7 @@ updated: 2026-10-29
 
 > [!case] 英国大篷车游民儿童在学校空间中的文化冲突
 > - **污名化与生活方式差异** 英国游民群体内部存在多元[[Heterogeneity|异质性]]，部分家庭依然过着大篷车漫游生活，部分已经定居但仍承受着“流浪者”的社会刻板污名（Acton, 2006; Derrington & Kendall, 2004）。（p. 366）
-> - **校园微观物理空间的文化失调（Cultural Dissonance）** 马丁·莱文森与安德鲁·斯帕克斯（Levinson & Sparkes, 2005）的实证研究表明，游民儿童在校遭遇的核心挫折并非智力短板，而是对学校“高度结构化的空间使用”（the highly structured use of space）产生强烈的文化排异：整齐死板的课桌排列、单向受控的走廊动线与封闭的作息钟声，与游民在大自然中自由移动的生活节律发生剧烈冲撞。
+> - **校园微观物理空间的文化失调（Cultural Dissonance）** 马丁·[[Ben Levin|莱文]]森与安德鲁·斯帕克斯（Levinson & Sparkes, 2005）的实证研究表明，游民儿童在校遭遇的核心挫折并非智力短板，而是对学校“高度结构化的空间使用”（the highly structured use of space）产生强烈的文化排异：整齐死板的课桌排列、单向受控的走廊动线与封闭的作息钟声，与游民在大自然中自由移动的生活节律发生剧烈冲撞。
 > - **同化融入与文化维系的内在矛盾** 政策一方面试图通过正规学校教育促进游民融入主流现代社会，另一方面又宣称尊重其独特的漫游传统，使学校沦为“空间同化规训”与“文化边界维系”相互激烈撕扯的矛盾[[Champ|场域]]。
 
 > [!sub-claim] 5. 印度游牧部族在国家强制定居化教育政策下，主动利用识字资本防范外部生存风险
@@ -325,7 +328,7 @@ updated: 2026-10-29
 
 > [!sub-claim] 2. 学校空间实践构成了连结物质准入与文化分类的关键纽带
 
-以往研究往往使这两种视角彼此割裂；然而，Sobe 与 Fischer 论证，**考察学校赖以运作的空间实践，正是实现两套视角理论结合的关键**。（pp. 367–368）
+以往研究往往使这两种视角彼此割裂；然而，[[Noah Sobe|Sobe]] 与 Fischer 论证，**考察学校赖以运作的空间实践，正是实现两套视角理论结合的关键**。（pp. 367–368）
 
 > [!chain-link] 空间实践统合教育双重视角的逻辑递进
 > - **前提：制度准入与话语分类视角长期分立割裂**

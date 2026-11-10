@@ -7,7 +7,7 @@ aliases:
 summary: "测量教师在知识论（TOK）课程中教学信心的 11 题项李克特量表，主要关注教师在探索各类知识问题（如伦理学、本土知识系统等）时的自我效能感。"
 type: instrument
 instrument_type: scale
-instrument_related_count: 10
+instrument_related_count: 11
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#dcfce7"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Teacher Beliefs]]"
   - "[[Knowledge Questions]]"
+  - "[[Theoretical Standpoint]]"
   - "[[International Baccalaureate]]"
   - "[[Class Size]]"
 related_theories:
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-08-06
-updated: 2026-10-16
+updated: 2026-11-11
 ---
 
 ---
@@ -59,7 +60,7 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | 教学信心 | 11 | 教师在探索[[Knowledge Questions\|知识问题]]（如伦理、本土知识系统等）时的信心 | 均值或求和（单因子结构） |
 >
-> > [!concept-lens] 理论透镜：信心与自我效能感的辨析
+> > [!concept-lens] [[Theoretical Standpoint|理论透镜]]：信心与自我效能感的辨析
 > > - **理论根基** 该量表在理论上植根于 Bandura 的[[Self-Efficacy\|自我效能感]]理论，即“个体对自己组织和执行产生既定成就所需行动方案的能力的信念”。
 > > - **特殊应用** 开发者特别使用了“教学信心（Confidence）”一词而非泛泛的自我效能感，以强调这种能力信念是高度**情境化**的——专门针对[[Theory of Knowledge\|知识论]]课程中由于缺乏相关领域背景而带来的教学挑战。
 

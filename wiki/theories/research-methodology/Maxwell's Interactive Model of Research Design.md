@@ -4,7 +4,7 @@ aliases: ["Maxwell互动研究设计模型", "Maxwell's interactive model", "Max
 summary: "Maxwell(2005)提出的质性研究互动设计模型，以研究问题为核心，强调目标、概念框架、方法、效度五个领域之间的相互通知和迭代涌现关系，反对线性规划。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 21
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -14,6 +14,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Sage]]"
   - "[[Research Question]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Paradigm]]"
   - "[[Reliability]]"
   - "[[Construct]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-21
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!theory-position] 理论定位
@@ -63,7 +64,7 @@ updated: 2026-10-30
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
 > | 目标（Goals） | 概念 | 研究想要达成的目的，受感知问题、个人目标、参与者关切、资助方目标、伦理标准影响；为研究提供方向但不直接决定设计 |
-> | 概念框架（Conceptual Framework） | 框架 | 研究者带入研究的理论、已有研究、个人经验和思想实验的集合；为研究提供理论透镜和解释资源 |
+> | 概念框架（Conceptual Framework） | 框架 | 研究者带入研究的理论、已有研究、个人经验和思想实验的集合；为研究提供[[Theoretical Standpoint\|理论透镜]]和解释资源 |
 > | [[Research Question\|研究问题]]（Research Questions） | 机制 | 模型的核心；是其他四个领域交汇的枢纽；研究问题是具体的、可回答的，而非一般性兴趣 |
 > | 方法（Methods） | 方法 | 数据收集和分析的具体途径，受研究[[Paradigm\|范式]]、研究者技能、研究情境、伦理和资源约束影响 |
 > | 效度（Validity） | 标准 | 研究结论的可[[Reliability\|信度]]；通过概念框架、已有理论和先前研究、试点和思想实验来加强和检验 |

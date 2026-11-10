@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 9
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -22,36 +22,35 @@ tags:
   - theme/scientometrics
   - theme/experimental-research
 related_concepts:
-  - "[[Media Amplification in Science]]"
-  - "[[Science Journalism]]"
-  - "[[Citation Disparity]]"
   - "[[Causality]]"
+  - "[[Research Impact]]"
+  - "[[Variable]]"
+  - "[[Paradigm]]"
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
-  - "[[Quasi-Experimental Designs]]"
-  - "[[Bibliometric Analysis]]"
+  - "[[Natural Experiment]]"
 related_instruments: []
 related_persons:
-  - "[[Dashun Wang]]"
-  - "[[Albert-László Barabási]]"
+  - "[[David P. Phillips]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
 confidence: high
 status: active
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定性
-> 1978 年《纽约时报》印刷罢工准自然实验是科学学与大众传播学史上最具说服力的因果推断范例之一；它凭借报社外生罢工导致的公开发行阻断，干净剥离了大众媒体曝光行为对学术成果科学引文的纯因果放大效应，彻底终结了“媒体仅仅是挑选了注定成功的顶尖成果”的长期争论。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 193–194)]]
+> 1978 年《纽约时报》印刷罢工[[Natural Experiment|准自然实验]]是科学学与大众传播学史上最具说服力的[[Causality|因果推断]]范例之一；它凭借报社外生罢工导致的公开发行阻断，干净剥离了大众媒体曝光行为对学术成果科学引文的纯因果放大效应，彻底终结了“媒体仅仅是挑选了注定成功的顶尖成果”的长期争论。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 193–194)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1978 年 8 月 10 日至 11 月 5 日（持续整整 12 周），发生于美国纽约市《纽约时报》（The New York Times）总部及其全美发行网络。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Phillips et al., 1991; Wang & Barabási, 2021, p. 194)]]
-> - **核心当事主体** 《纽约时报》印刷工人工会、《纽约时报》采编部与科学专栏记者、《新英格兰医学杂志》（NEJM）及其发表学者；实证研究设计者戴维·P·菲利普斯（David P. Phillips）研究团队。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Phillips et al., 1991; Wang & Barabási, 2021, p. 194)]]
-> - **深层制度与社会背景** 科学界长期争论大众媒体宣传对科研影响力的实质作用；传统挑选假说认为，《纽约时报》等主流媒体拥有顶尖的资深科学记者，他们报道的研究本就是最具突破性的优质成果，即便不报道也注定成为高引名篇，使得媒体宣传与学术引用之间的强正相关长期深陷互为因果与遗漏变量的内生性泥潭。
+> - **核心当事主体** 《纽约时报》印刷工人工会、《纽约时报》采编部与科学专栏记者、《新英格兰医学杂志》（NEJM）及其发表学者；实证研究设计者[[David P. Phillips|戴维·P·菲利普斯]]（David P. Phillips）研究团队。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Phillips et al., 1991; Wang & Barabási, 2021, p. 194)]]
+> - **深层制度与社会背景** 科学界长期争论大众媒体宣传对[[Research Impact|科研影响力]]的实质作用；传统挑选假说认为，《纽约时报》等主流媒体拥有顶尖的资深科学记者，他们报道的研究本就是最具突破性的优质成果，即便不报道也注定成为高引名篇，使得媒体宣传与学术引用之间的强正相关长期深陷互为因果与遗漏[[Variable|变量]]的内生性泥潭。
 > - **直接导火索 / 触发事件** 1978 年夏季《纽约时报》印刷工人工会因劳资纠纷举行长达近三个月的全员大罢工，导致报纸实体印刷与市场零售全面停摆。
 
 ---
@@ -71,7 +70,7 @@ updated: 2026-10-31
 ---
 
 > [!indicators] 历史影响维度
-> - **科学学因果推断范式确立** 首次通过自然外生冲击将科学社会学中长期停留在关联性层面的“媒体关注度”研究推向了严格的因果识别高度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 194)]]
+> - **科学学因果推断[[Paradigm|范式]]确立** 首次通过自然外生冲击将科学社会学中长期停留在关联性层面的“媒体关注度”研究推向了严格的因果识别高度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, p. 194)]]
 > - **挑选假说与宣传假说盖棺定论** 确证了大众媒体报道具备独立的主动赋能效力，曝光本身直接创造出显著的超额学术引文溢价。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Phillips et al., 1991; Wang & Barabási, 2021, p. 194)]]
 > - **科技传播制度反思** 促使大学新闻办与科研基金会高度重视大众传媒战略，并引发了对媒体过热炒作初步未经检验结论的传播学伦理反思。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Wang & Barabási, 2021, pp. 194–195)]]
 
@@ -91,7 +90,7 @@ updated: 2026-10-31
 > > [!axis] 挑选假说 vs 宣传假说
 > > 争论见报成果的高引用究竟反映了成果本身的顶尖内在品质，还是由媒体传播直接塑造。
 > >
-> > - **挑选假说（Selection Hypothesis）** 认为资深科学记者具备极佳的专业辨识度，见报成果本就注定高引，媒体只是预先确认了这一品质。
+> > - **挑选假说（Selection [[Hypothesis]]）** 认为资深科学记者具备极佳的专业辨识度，见报成果本就注定高引，媒体只是预先确认了这一品质。
 > > - **宣传假说（Publicity Hypothesis / 因果确立）** 菲利普斯大罢工准实验证实，当被选中的成果无法公开发行给读者时引文优势彻底消失，证明大众媒体曝光是直接促成高学术引用的独立因果要素。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Phillips et al., 1991; Wang & Barabási, 2021, p. 194)]]
 
 ---

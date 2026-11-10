@@ -10,7 +10,7 @@ subtype: organization
 region: switzerland
 fact_region: "switzerland"
 fact_kind: "organization"
-fact_related_count: 16
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -21,10 +21,12 @@ tags:
   - theme/curriculum-reform
 related_concepts:
   - "[[International Schools]]"
+  - "[[Transnational Education]]"
   - "[[International Baccalaureate]]"
   - "[[Student Mobility]]"
   - "[[Advanced Placement Program]]"
   - "[[School Choice]]"
+  - "[[Study Abroad]]"
   - "[[International Education]]"
 related_theories: []
 related_methods:
@@ -45,13 +47,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 核心定位
-> 日内瓦[[International Schools|国际学校]]（International School of Geneva，通称 Ecolint）为国际工作人员家庭提供跨国教育，并成为[[International Baccalaureate|国际文凭]]的主要发源地。学校通过教师合作、课程试验和组织空间，把[[Student Mobility|学生流动]]与升学困难转化为共同资格建设；其自身财政与双语治理限制又促使考试项目走向独立。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 15–22)]]
+> 日内瓦[[International Schools|国际学校]]（International School of Geneva，通称 Ecolint）为国际工作人员家庭提供[[Transnational Education|跨国教育]]，并成为[[International Baccalaureate|国际文凭]]的主要发源地。学校通过教师合作、课程试验和组织空间，把[[Student Mobility|学生流动]]与升学困难转化为共同资格建设；其自身财政与双语治理限制又促使考试项目走向独立。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 15–22)]]
 
 > [!org-context] 机构背景
 > - **成立时间与背景** 1924 年创办，为国际联盟工作人员家庭的跨国教育需要提供学校。
@@ -110,7 +112,7 @@ updated: 2026-10-22
 ### 应用化学从校本开发进入共同课程
 
 > [!case] 共同基础与地方应用相结合
-> 化学教师埃里克·安东尼（[[Education Resources Information Center|ERIC]] Antony）设计的[[International Baccalaureate Applied Chemistry Course|国际文凭应用化学课程]]作为辅助层级选项，以基本原理作为共同核心，再提供八个应用领域，由[[School Choice|学校选择]]三个；原文举例包括重工业、农业与食品、化学与健康。选择权落在应用领域，学生仍需学习共同原理，因此课程既保留学科基础，也把知识联系到社会用途。IBO 随后把它列为常规课程选项。这是实际采用的课程，区别于同章仍在试验或尚未成立的项目。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 204)]]
+> 化学教师埃里克·安东尼（[[Education Resources Information Center|ERIC]] Antony）设计的[[International Baccalaureate Applied Chemistry Course|国际文凭应用化学课程]]作为辅助层级选项，以基本原理作为共同核心，再提供八个应用领域，由[[School Choice|学校选择]]三个；原文举例包括重工业、农业与食品、化学与健康。选择权落在应用领域，学生仍需学习共同原理，因此课程既保[[Study Abroad|留学]]科基础，也把知识联系到社会用途。IBO 随后把它列为常规课程选项。这是实际采用的课程，区别于同章仍在试验或尚未成立的项目。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 204)]]
 
 ---
 

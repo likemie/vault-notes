@@ -10,9 +10,9 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 18
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1960–2017"
 initiator_organization: "Stanford University / Harvard Dataverse"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Global Education Governing Complex]]"
   - "[[Policy Borrowing]]"
+  - "[[Transnational Education]]"
   - "[[Reliability]]"
   - "[[Policy Brokerage]]"
   - "[[Primary and Secondary Documents]]"
@@ -46,12 +47,13 @@ related_facts:
   - "[[World Bank]]"
   - "[[Systems Approach for Better Education Results]]"
   - "[[UNESCO]]"
+  - "[[Centre for Policy Studies]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -75,7 +77,7 @@ updated: 2026-10-30
 > - **项目目标** 建立跨国界、跨语种、长时段的全球教育立法与国家战略全景档案，为[[World Society Theory\|世界社会理论]]、[[Policy Borrowing\|政策借用]]理论与全球治理研究提供统一的实证基底。
 > - **覆盖对象** 147 个国家教育部及立法机关正式出台的初等、中等与高等教育改革方案、国家课程大纲调整案及教育治理结构重组法案。
 > - **干预措施** 实施政策文本系统建档与标准化计量编码，对政策出台年份、发起主体、核心改革焦点（如分权治理、私有化、绩效问责、人权包容）及跨国引用特征进行细粒度分类编码。
-> - **实施控制** 采用多语种研究人员双盲独立交叉编码，并依托跨国教育史专家网络对争议性政策条文进行权威[[Reliability\|信度]]校验。
+> - **实施控制** 采用多语种研究人员双盲独立交叉编码，并依托[[Transnational Education|跨国教育]]史专家网络对争议性政策条文进行权威[[Reliability\|信度]]校验。
 
 > [!citation-card] 全球教育改革数据库的规模与实证贡献
 > [[Policy Brokerage\|政策中介]]实践中的经验汲取模式生动展现了这一点。塞策、白承焕与施泰纳-哈姆西（Seitzer, Baek, and Steiner-Khamsi, 2023）利用详尽的世界教育改革数据库（WERD）的数据发现，[[OECD\|经合组织]]的政策报告倾向于引用其他国家的具体改革经验。相反，[[World Bank\|世界银行]]的报告在汲取经验时往往表现出高度的自指性，因为其报告只是反复重复其自身在系统评估法（[[Systems Approach for Better Education Results\|SABER]]）项目中所归档的最佳实践组合。该数据库收录了 1960 年至 2017 年期间 147 个国家的 6,700 项教育政策文件。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 545, 550)]]
@@ -98,7 +100,7 @@ updated: 2026-10-30
 
 > [!pathways] 实施路径与管理
 > - **纵向传导与支持** 制定多语种编码操作手册与分类字典，由斯坦福核心团队对跨国编码员提供系统化培训与定期抽检。
-> - **横向跨部门协同** 联合不来梅大学全球社会政策研究中心、哥伦比亚大学等外部科研机构，形成涵盖计算语言学、比较政治学与教育史学的多学科协同网络。
+> - **横向跨部门协同** 联合不来梅大学全球社会[[Centre for Policy Studies|政策研究中心]]、哥伦比亚大学等外部科研机构，形成涵盖计算语言学、比较政治学与教育史学的多学科协同网络。
 > - **动态反馈与调整** 依托哈佛数据共享平台设立版本更新与勘误机制，持续吸纳全球学术界用户的使用反馈与新增文献补全。
 
 ---

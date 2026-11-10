@@ -8,7 +8,7 @@ summary: "法国后结构主义哲学家，后现代状况作者与知识合法�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 40
+person_related_count: 43
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -26,6 +26,8 @@ related_concepts:
   - "[[Grand Theory]]"
   - "[[Narrative Knowledge]]"
   - "[[Normal School]]"
+  - "[[Doctoral Dissertation]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Positivism]]"
   - "[[Commensuration]]"
   - "[[Incommensurability]]"
@@ -40,6 +42,7 @@ related_concepts:
   - "[[Floating Signifier]]"
   - "[[Geopolitics]]"
   - "[[Policy Borrowing]]"
+  - "[[Transnational Education]]"
   - "[[Feeder Mechanism]]"
   - "[[Governance by Spin]]"
   - "[[Performance Indicators]]"
@@ -69,7 +72,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-10
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -87,10 +90,10 @@ updated: 2026-11-02
 > [!timeline] 生平与职涯 早期阶段
 > - **1924** 出生于法国凡尔赛。少年时曾梦想成为艺术家、历史学家、多明我会修士或作家（15岁时因写第一部虚构小说失败而放弃）。
 > - **1944** 在二战解放巴黎期间担任战场医护人员。
-> - **1940s末** 两次报考巴黎高等[[Normal School\|师范学院]]（ENS）失败，后进入索邦大学学习哲学。1947年完成学位论文《作为伦理概念的无差别》，探讨禅宗、斯多葛学派、道家和伊壁鸠鲁学派。
+> - **1940s末** 两次报考巴黎高等[[Normal School\|师范学院]]（ENS）失败，后进入索邦大学学习哲学。1947年完成[[Doctoral Dissertation|学位论文]]《作为伦理概念的无差别》，探讨禅宗、斯多葛学派、道家和伊壁鸠鲁学派。
 > - **1950** 通过哲学教师资格考试（agrégation，与德勒兹、沙特莱、米歇尔·布托尔为同期同学），赴阿尔及利亚的君士坦丁任教。
 > - **1952** 返回法国本土，在拉弗莱什的国立军事学校任教。
-> - **1954–1964** 加入极左翼组织“社会主义或野蛮”（Socialisme ou Barbarie），使用化名 **François Laborde** 撰写多篇分析阿尔及利亚独立运动的文章，并秘密支持阿尔及利亚民族解放阵线（FLN）。1964年离开该组织。
+> - **1954–1964** 加入极左翼组织“社会主义或野蛮”（Socialisme ou Barbarie），使用化名 **François Laborde** 撰写多篇分析阿尔及利亚独立运动的文章，并秘密支持阿尔及利亚民族解放阵线（[[Foundational Literacy and Numeracy|FLN]]）。1964年离开该组织。
 > - **1964–1966** 加入分裂出来的“工人力量”（Pouvoir Ouvrier），但最终于1966年辞职，逐渐脱离正统马克思主义政治实践。
 
 ### 2. 欲望解放思潮与感性美学奠基（1968–1974）
@@ -189,7 +192,7 @@ updated: 2026-11-02
 > [!person-network] 关系网络
 > - **师承／合作者** Gilles Deleuze — 索邦大学同窗，后于1970年代起共同在万森纳实验大学（巴黎第八大学）哲学系任教；Jacques Derrida — 1982–1983年共同创办国际哲学学院，并于加州大学欧文分校共事。
 > - **批评者／论敌** [[Jürgen Habermas]] — 现代性与启启蒙立场的坚定辩护者，视[[Jean-François Lyotard|利奥塔]]的[[Postmodernism\|后现代主义]]为保守的反现代思潮，两人就“现代性的命运”展开长期学术论争。
-> - **现代跨国教育流通与知识商品化研究者** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]） 援引利奥塔知识商品化论断，揭示全球教育转移中大学与咨询机构将[[School Effectiveness|学校效能]]技术打包为商品开辟海外市场的学术重商主义机制。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–343)]]
+> - **现代[[Transnational Education|跨国教育]]流通与知识商品化研究者** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]） 援引利奥塔知识商品化论断，揭示全球教育转移中大学与咨询机构将[[School Effectiveness|学校效能]]技术打包为商品开辟海外市场的学术重商主义机制。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–343)]]
 
 ---
 

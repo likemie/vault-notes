@@ -10,7 +10,7 @@ summary: "信息科学家与科学计量学家，印第安纳大学布鲁明顿�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,12 +25,14 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Big Science]]"
   - "[[Team Science]]"
+  - "[[Little Science]]"
   - "[[Heterogeneity]]"
   - "[[Scientific Productivity]]"
 related_theories:
   - "[[Core and Extended Teams Model]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
+  - "[[Cognitive Extent]]"
 related_instruments: []
 related_persons:
   - "[[Filippo Radicchi]]"
@@ -42,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-10-31
+updated: 2026-11-11
 ---
 
 ---
@@ -68,7 +70,7 @@ updated: 2026-10-31
 
 > [!work-line] 主要著作
 > - **2014 — *Principles of cognitive science in the social sciences: Principles of organization of research teams, dynamics of team sizes and knowledge production* (*PNAS*)** 阐明科研团队规模分布从泊松向幂律演化的核心与扩展团队微观机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 125–127)]]
-> - **2015 — *Quantifying the cognitive extent of science* (*Journal of Informetrics*)** 运用题录词汇对数频率测度科学前沿认知疆域的扩张与重构。
+> - **2015 — *Quantifying the [[Cognitive Extent|cognitive extent of science]]* (*Journal of Informetrics*)** 运用题录词汇对数频率测度科学前沿认知疆域的扩张与重构。
 
 ---
 
@@ -92,7 +94,7 @@ updated: 2026-10-31
 
 > [!person-network] 关系网络
 > - **合作学者** [[Filippo Radicchi|菲利波·拉迪基]]（Filippo Radicchi）— 共同开展学者学术生涯动力学与引文网络建模。
-> - **学术对话** [[Derek de Solla Price]] — 继承并数理形式化普赖斯关于小科学迈向大科学的组织转型假说。
+> - **学术对话** [[Derek de Solla Price]] — 继承并数理形式化普赖斯关于[[Little Science|小科学]]迈向大科学的组织转型假说。
 
 ---
 

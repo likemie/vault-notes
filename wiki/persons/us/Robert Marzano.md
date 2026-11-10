@@ -8,7 +8,7 @@ summary: "美国教育学者，循证教育与教学改革先驱，首创将元�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -46,14 +46,15 @@ related_methods:
   - "[[Analytic Framework]]"
 related_persons:
   - "[[John Hattie]]"
-related_facts: []
+related_facts:
+  - "[[Dimensions]]"
 related_arguments:
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Higgins_2016_ROE]]"
 confidence: medium
 status: draft
 created: '2026-06-08'
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -66,7 +67,7 @@ updated: 2026-10-30
 > [!citation-card] 人物定位的关键来源
 > 在2000年，罗伯特·马扎诺在《学校改革新纪元：走向研究指引的方向》一书中首次将元分析应用于教育领域。他总结了4057个维度的效应，并最终确定了学校绩效的五个层级。……哈蒂在本质上补充了研究教育系统的科学传统，但他所使用的“学校效应”这一术语正是从马扎诺那里借用的。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 232)]]
 >
-> *"In 2000 R. Marzano in the book 'A New Era of School Reform' for the first time applied meta-analysis to education. He summarized 4,057 dimensions of effects and ultimately identified five levels of school performance ... The goal of such a large-scale generalization is to assess the so-called 'school effects' (the term is borrowed from Marzano)."*
+> *"In 2000 R. Marzano in the book 'A New Era of School Reform' for the first time applied meta-analysis to education. He summarized 4,057 [[Dimensions|dimensions]] of effects and ultimately identified five levels of school performance ... The goal of such a large-scale generalization is to assess the so-called 'school effects' (the term is borrowed from Marzano)."*
 
 ---
 

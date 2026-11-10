@@ -10,7 +10,7 @@ summary: "美籍阿根廷裔凝聚态物理学家，加州大学圣迭戈分校�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -32,19 +32,20 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[American Physical Society]]"
   - "[[National Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美籍阿根廷裔理论物理学家与[[Bibliometric Analysis|科学计量学]]者，加州大学圣迭戈分校（UCSD）物理学教授，美国物理学会（APS）会士。
+> - **身份位置** 美籍阿根廷裔理论物理学家与[[Bibliometric Analysis|科学计量学]]者，加州大学圣迭戈分校（UCSD）物理学教授，[[American Physical Society|美国物理学会]]（APS）会士。
 > - **核心角色** 当代科学计量学与科研评价体系的核心奠基人之一，以提出兼顾学者产出数量与长远学术影响力的量化评价框架著称。
 > - **代表贡献** 于 2005 年创立 h 指数（[[h-Index]]）评价模型，建立基于 m 商数的 $h(t) \approx mt$ 线性生长理论，并于 2019 年针对复杂科研合作提出表征学术引领地位的 h_α 指数。
 

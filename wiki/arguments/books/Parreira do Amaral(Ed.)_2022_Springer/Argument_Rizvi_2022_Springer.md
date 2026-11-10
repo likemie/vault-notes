@@ -9,7 +9,7 @@ title: "Argument_Rizvi_2022_Springer"
 argument_key: "Argument_Rizvi_2022_Springer"
 argument_display_title: "Rise of Asia, geopolitical shifts and higher education"
 argument_kind: "book"
-argument_related_count: 46
+argument_related_count: 47
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Transnational Research Collaboration]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[International Schools]]"
+  - "[[Study Abroad]]"
   - "[[Public Value]]"
   - "[[Endogenous Privatisation]]"
   - "[[Doxa]]"
@@ -80,7 +81,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-10'
-updated: 2026-10-30
+updated: 2026-11-11
 year: 2022
 doi: ""
 citation_aliases:
@@ -243,7 +244,7 @@ Rizvi 给出了一个关键数据和一个定性分析洞察：
 - 数据：2016 年底全球中产阶级约 32 亿人，新增中产阶级的**绝大多数**在亚洲(Kharas, 2017)(p.96)
 - 定性分析：数据本身不能充分揭示"在亚洲成为中产阶级意味着什么"——在生活方式、人生机会和人生规划的**渴望**层面。海外教育在亚洲中产阶级中排名极高，被视为"资本积累的预设来源"，不仅被假定能改善人生机会，更被当作"社会地位和声望的标志"(Ong, 2006, p.96)
 - 例证：亚洲各地精英[[International Schools|国际学校]]数量的快速增长——这些学校声称能为学生提供去西方国家读大学的好准备
-- 例证：亚洲各国首都出现了庞大的产业，专门为本地精英学校学生中介到西方大学的流动——这些留学中介往往是潜在学生与海外大学之间的"第一接触点"
+- 例证：亚洲各国首都出现了庞大的产业，专门为本地精英学校学生中介到西方大学的流动——这些[[Study Abroad|留学]]中介往往是潜在学生与海外大学之间的"第一接触点"
 
 > Dodds 的批判地缘政治学洞察——关注"普通人的日常经验"——在这里变得具体：一个曼谷或上海的中产家庭决定送孩子去悉尼大学读书，这个看似私人的消费决策，汇聚成巨大的资金流和人员流，改变了澳大利亚大学的财政结构、政府的政策取向，甚至影响了澳大利亚与亚洲国家之间的外交关系。
 

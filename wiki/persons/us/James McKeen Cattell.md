@@ -11,10 +11,10 @@ summary: "美国心理学家与科学学先驱，哥伦比亚大学心理学系�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 9
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1860"
 died: "1944"
 lifespan: "1860–1944"
@@ -33,8 +33,7 @@ related_theories: []
 related_methods:
   - "[[Bibliometric Analysis]]"
 related_instruments: []
-related_persons:
-  - "[[Rainer Kattel]]"
+related_persons: []
 related_facts:
   - "[[National Academy of Sciences]]"
   - "[[American Association for the Advancement of Science]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: "2026-10-29"
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 
 ---
@@ -53,7 +52,7 @@ updated: 2026-10-29
 > - **核心角色** 实验心理学与量化科学计量排名的制度化开拓者；率先打破对科学共同体仅作经验定性描述的传统，倡导以同行打分与统计指标评估科学人员队伍的演进规律。
 > - **代表贡献** 1906–1910 年主编出版《美国科学名人录》（*American Men of Science*），开创科学家量化排名与核心人才队伍评估先例；长期独立掌舵《科学》（Science）与《[[Citizen Science|大众科学]]》（Popular Science Monthly）杂志。
 
-> [!citation-card] [[Rainer Kattel|卡特尔]]论以[[Scientific Method|科学方法]]测度科学进步条件
+> [!citation-card] 卡特尔论以[[Scientific Method|科学方法]]测度科学进步条件
 > 科研人员应当运用科学方法，测定那些促进或阻碍科学进步的各种客观环境与制度条件。建立可靠的评价工具集以审视同行研究人员的学术造诣，是科学系统迈向自我理解与理性发展的关键步伐。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 24–25)]]
 >
 > *It is surely time for scientific men to apply scientific method to determine the circumstances that promote or hinder the advancement of science.*

@@ -7,7 +7,7 @@ summary: "英国诺丁汉大学教育领导力教授，前伦敦大学学院教�
 type: person
 nationality: "uk"
 person_region: "uk"
-person_related_count: 23
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Joint Practice Development]]"
   - "[[Factorial Interpretive Framework]]"
   - "[[Activity Traps]]"
+  - "[[Quasi-market]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Construct]]"
   - "[[Research-Engaged School]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -89,7 +90,7 @@ updated: 2026-11-02
 ---
 
 > [!claim] 核心思想
-> 英格兰倡导的“[[Self-Improving School System\|自我改进学校系统]]”并未真正消除新自由主义官僚控制，而是构建了一种由科层问责统领、准市场生源竞争渗透、横向网络弱势共存的三重混合治理模式；在缺乏外部督导体制与问责激励协同调整的情况下，单纯依靠学校自发探索无法形成普遍的循证实践生态。
+> 英格兰倡导的“[[Self-Improving School System\|自我改进学校系统]]”并未真正消除新自由主义官僚控制，而是构建了一种由科层问责统领、[[Quasi-market|准市场]]生源竞争渗透、横向网络弱势共存的三重混合治理模式；在缺乏外部督导体制与问责激励协同调整的情况下，单纯依靠学校自发探索无法形成普遍的循证实践生态。
 
 > [!citation-card] 外部问责框架转型作为证据知情自改进的先决条件
 > 外部问责与视导结构若不明确转向支持循证改进，英格兰自我改进学校系统的根基注定脆弱不堪。因此，现行的 [[Ofsted]] 督导框架必须实施彻底改革，确保证据知情学校改进不仅受到制度性鼓励，更成为免受防御性迎检焦虑侵害的法定核心支柱。（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 133]]）

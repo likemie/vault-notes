@@ -9,7 +9,7 @@ aliases:
 summary: "法国高等教育特有的精英专业学院系统；以预科班严苛选拔与职业定向著称，与大众化综合大学及专职科研的 CNRS 形成著名的三元分立格局；在比较教育史中作为主权国家间双边制度移植的经典历史原型（如巴西对大学校模式的模仿），并在当代成为反思精英阶层再生产与跨国政策转移演进的核心参照。"
 type: concept
 domain: "higher-education"
-related_count: 34
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -35,10 +35,12 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
   - "[[Policy Mobility]]"
+  - "[[Transnational Education]]"
   - "[[Cultural Capital]]"
   - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Professional Interest]]"
   - "[[Competitiveness]]"
   - "[[Discourse]]"
   - "[[Scientific Productivity]]"
@@ -62,7 +64,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-04
+updated: 2026-11-11
 ---
 
 ---
@@ -117,7 +119,7 @@ updated: 2026-11-04
 > **双边国家借用与跨国多标量转移的[[Paradigm|范式]]断裂** 探讨主权国家在现代化初期如何通过自上而下的双边模仿引入法国大学校，并以此作为透视当代跨国商业网络化[[Policy Mobility|政策流动]]的历史基准。
 
 > [!claim] Cowen & Figueiredo; Beech
-> **双边国家[[Institutional Mimesis|制度模仿]]的经典形态与当代空间超越** [[Robert Cowen|罗伯特·考恩]]（[[Robert Cowen]]）与费格雷多（Cowen & Figueiredo, 1992）以及[[Jason Beech|杰森·比奇]]（Jason Beech, 2009b, p. 344）指出，在前全球化时期，跨国教育[[Policy Borrowing|政策借用]]（[[Policy Borrowing]]）的范式相对清晰单纯，通常表现为主权国家主导的单向、双边制度模仿。19 世纪至 20 世纪初，巴西等拉丁美洲新兴国家为了构建本国工业化基础与官僚技术阶层，系统性地以法国大学校（Grandes Écoles）为模板创办本国的工程与军事技术专科学院，构成了主权国家跨国制度移植的经典历史样本。然而，比奇进一步论证，这种以主权国家为核心的双边机构模仿模式在当代已被跨国教育集团（如 [[GEMS Education|GEMS]]、[[Nord Anglia Education|Nord Anglia]]）主导的多标量网络流动所超越；现代教育转移不再局限于国家间对特定院校形态（如法国大学校或美国学分制）的制度复制，是转变为跨国商业资本纵向穿透边界的全球政策营销。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
+> **双边国家[[Institutional Mimesis|制度模仿]]的经典形态与当代空间超越** [[Robert Cowen|罗伯特·考恩]]（[[Robert Cowen]]）与费格雷多（Cowen & Figueiredo, 1992）以及[[Jason Beech|杰森·比奇]]（Jason Beech, 2009b, p. 344）指出，在前全球化时期，[[Transnational Education|跨国教育]][[Policy Borrowing|政策借用]]（[[Policy Borrowing]]）的范式相对清晰单纯，通常表现为主权国家主导的单向、双边制度模仿。19 世纪至 20 世纪初，巴西等拉丁美洲新兴国家为了构建本国工业化基础与官僚技术阶层，系统性地以法国大学校（Grandes Écoles）为模板创办本国的工程与军事技术专科学院，构成了主权国家跨国制度移植的经典历史样本。然而，比奇进一步论证，这种以主权国家为核心的双边机构模仿模式在当代已被跨国教育集团（如 [[GEMS Education|GEMS]]、[[Nord Anglia Education|Nord Anglia]]）主导的多标量网络流动所超越；现代教育转移不再局限于国家间对特定院校形态（如法国大学校或美国学分制）的制度复制，是转变为跨国商业资本纵向穿透边界的全球政策营销。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
 
 > [!citation-card] 论经典双边制度模仿与当代跨国转移的断裂
 > 在过去，教育转移的模型相当直接清晰。教育借用通常是双边的，并由民族国家具体实施。例如，巴西对法国大学校（Grandes Écoles）的模仿（Cowen & Figueiredo, 1992），或者将美国学分制引入中国的高校（Steiner-Khamsi, 2000）……与此形成鲜明对比的是，当代的教育转移由跨国公司与多标量网络所介导。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
@@ -157,7 +159,7 @@ updated: 2026-11-04
 > > [!axis] 功绩主义神话 vs 阶层封闭与精英再生产
 > > 争论大学校全国竞试究竟是平等的阶层提升阶梯，还是优势阶层实现垄断合法化的制度机器。
 > > - **功绩主义辩护论** 强调考试代码匿名盲审、评分标准完全客观，只要具备卓越天赋与刻苦努力，任何社会出身的青年均可通过竞试进入国家治理顶层。
-> > - **社会学解构论** 布尔迪厄等学者实证指出，预科班不仅学业竞争残酷，其考察的思维格调与文化志趣深度偏向中上阶层家庭，工农与平民子弟在大学校中的占比在战后数十年中不升反降，大学校已成为维系既得利益与阶级再生产的“国家贵族孵化器”。
+> > - **社会学解构论** 布尔迪厄等学者实证指出，预科班不仅学业竞争残酷，其考察的思维格调与文化[[Professional Interest|志趣]]深度偏向中上阶层家庭，工农与平民子弟在大学校中的占比在战后数十年中不升反降，大学校已成为维系既得利益与阶级再生产的“国家贵族孵化器”。
 >
 > > [!axis] 专才实务技术精深 vs 基础探究科研赤字
 > > 探讨大学校聚焦工程与管理职业训练的传统，是否削弱了法国在重大前沿科学发现上的全球领军实力。

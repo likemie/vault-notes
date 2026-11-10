@@ -9,7 +9,7 @@ aliases:
 summary: "由西蒙·巴伦-科恩等学者研发的心智理论与社会认知标准化心理测量工具；通过呈现 36 张仅展现眼部区域的黑白面部照片，要求受测者从 4 个复杂情绪词汇中选出唯一正确匹配项；在团队科学中被用于测定团队成员的平均社会敏感度，证实其对群体集体智慧具有强大的正向预测效力。"
 type: instrument
 instrument_type: test
-instrument_related_count: 2
+instrument_related_count: 9
 instrument_related_level: 0
 instrument_related_stars: "☆"
 instrument_related_color: "#dbeafe"
@@ -32,9 +32,16 @@ tags:
   - theme/theory-of-mind
   - theme/team-science
 related_concepts:
+  - "[[Decodification]]"
   - "[[Social Sensitivity]]"
-related_theories: []
-related_methods: []
+  - "[[Predictive Validity]]"
+  - "[[Convergent and Discriminant Validity]]"
+  - "[[Floor and Ceiling Effects]]"
+related_theories:
+  - "[[Theory of Mind]]"
+related_methods:
+  - "[[Multiple-Choice Questions]]"
+  - "[[Internal Consistency]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -43,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -51,7 +58,7 @@ updated: 2026-10-30
 > [!instrument-profile] Reading the Mind in the Eyes Test
 > - **工具类型** 表现性客观认知测验（最高表现测验）。
 > - **开发者与年份** Simon Baron-Cohen et al. (2001)。
-> - **测量目的** 评估受测者从非言语面部眼部线索中解码他人复杂心理状态、心智推断（Theory of Mind）与社会敏感度的能力。
+> - **测量目的** 评估受测者从非言语面部眼部线索中[[Decodification|解码]]他人复杂心理状态、心智推断（[[Theory of Mind]]）与[[Social Sensitivity|社会敏感度]]的能力。
 > - **实施方式** 计算机化呈现或标准化纸笔施测，受测者独立完成选择。
 
 ---
@@ -67,7 +74,7 @@ updated: 2026-10-30
 
 > [!instrument-items] 作答规则
 > - **题项形式** 呈现仅截取面部眼区及眉毛特征的黑白照片（包含 18 张男性眼区与 18 张女性眼区照片）。
-> - **作答格式** 四选一强迫选择题（Four-alternative forced choice），四周标注 4 个心理状态描述词汇。
+> - **作答格式** 四选一强迫[[Multiple-Choice Questions|选择题]]（Four-alternative forced choice），四周标注 4 个心理状态描述词汇。
 > - **辅助说明** 配有标准化词汇释义手册供受测者查阅词义，确保测量聚焦于表情识别能力而非词汇理解门槛。
 
 ---
@@ -77,8 +84,8 @@ updated: 2026-10-30
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Woolley et al. (2010)]] | 成人修订版（36 题） | 699 位参与者组成的小团队，用于测定团队成员平均社会敏感度并检验其对 $c$ 因子的预测效力 | 检验团队层面的聚合预测效度 | 团队成员平均得分与集体智慧因子呈现显著正相关（$r = 0.26, p = 0.002$），系统超越单兵个体智商指标 |
-> | Baron-Cohen et al. (2001) | 成人修订版（36 题） | 122 位正常成人与 15 位阿斯伯格综合征/高功能自闭症成人，用于区分临床心智推断障碍 | 评估测验的区分效度与内部一致性 | 正常成人组得分显著高于临床自闭症组（$M = 26.2$ vs $M = 21.9, t = 3.10, p = 0.003$），展现出卓越的区分能力 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit05\|Woolley et al. (2010)]] | 成人修订版（36 题） | 699 位参与者组成的小团队，用于测定团队成员平均社会敏感度并检验其对 $c$ 因子的预测效力 | 检验团队层面的聚合[[Predictive Validity\|预测效度]] | 团队成员平均得分与集体智慧因子呈现显著正相关（$r = 0.26, p = 0.002$），系统超越单兵个体智商指标 |
+> | Baron-Cohen et al. (2001) | 成人修订版（36 题） | 122 位正常成人与 15 位阿斯伯格综合征/高功能自闭症成人，用于区分临床心智推断障碍 | 评估测验的[[Convergent and Discriminant Validity\|区分效度]]与[[Internal Consistency\|内部一致性]] | 正常成人组得分显著高于临床自闭症组（$M = 26.2$ vs $M = 21.9, t = 3.10, p = 0.003$），展现出卓越的区分能力 |
 
 ---
 
@@ -88,4 +95,4 @@ updated: 2026-10-30
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
 > | 原始版 | 英文（英国） | 孤独症临床儿童与成人 | 25 | 采用二选一作答模式，题项主要为基础情绪词汇 | Baron-Cohen et al. (1997) |
-> | 成人修订版 | 英文（英国） | 正常成人及临床人群 | 36 | 改为四选一作答格式，增加至 36 题，丰富复杂情绪词汇，有效消除正常人群的天花板效应 | Baron-Cohen et al. (2001) |
+> | 成人修订版 | 英文（英国） | 正常成人及临床人群 | 36 | 改为四选一作答格式，增加至 36 题，丰富复杂情绪词汇，有效消除正常人群的[[Floor and Ceiling Effects\|天花板效应]] | Baron-Cohen et al. (2001) |

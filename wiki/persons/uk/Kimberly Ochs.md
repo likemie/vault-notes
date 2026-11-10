@@ -7,10 +7,10 @@ summary: "英国比较教育学者，政策借用与跨国吸引类型学共同�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "c. 1975"
 died: ""
 lifespan: "c. 1975–至今"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Discourse]]"
   - "[[Concept Mapping]]"
   - "[[Document]]"
@@ -37,11 +38,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** Kimberly Ochs 是比较教育学者，与 [[David Phillips]] 合作开发了[[Policy Borrowing\|政策借用]]四阶段模型和[[Cross-National Attraction\|跨国吸引]]力结构性类型学——教育政策转移研究领域的基础性[[Analytic Framework\|分析框架]]。她的博士论文（牛津大学，2005）进一步深化了对政策借用与教育改革和创新之间关系的理论化。
+> - **身份位置** Kimberly Ochs 是比较教育学者，与 [[David Phillips]] 合作开发了[[Policy Borrowing\|政策借用]]四阶段模型和[[Cross-National Attraction\|跨国吸引]]力结构性类型学——教育政策转移研究领域的基础性[[Analytic Framework\|分析框架]]。她的[[Doctoral Dissertation|博士论文]]（牛津大学，2005）进一步深化了对政策借用与教育改革和创新之间关系的理论化。
 
 > [!note-] 生平与职涯
 > - 牛津大学教育研究系博士（2005），导师 [[David Phillips]]

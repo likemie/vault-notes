@@ -9,7 +9,7 @@ aliases:
 summary: "指基于明确的职能分工、自顶向下的层级节制、非人格化的成文规则与专业化职业考核建立的理性化组织与治理形态。在古典社会学中被视作现代性理性化效率的基石；在当代工程治理中被批判为滋生层级设卡、会议工业复合体与避险自保；而在批判公共治理研究（奥尼尔等人，2016）中，科层制所内置的法定理性与中立规章被证实是维护代议制民主问责与信息公开的关键屏障，其在现代化改革中被弹性网络与部落治理侵蚀反而引发了严重的公共透明度危机。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Steering at a Distance]]"
   - "[[Block Grants]]"
+  - "[[Transnational Education]]"
   - "[[Policy Entrepreneur]]"
   - "[[Dual-Entity Legal Structure]]"
   - "[[Technological Republic]]"
@@ -84,7 +85,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -212,7 +213,7 @@ updated: 2026-11-03
 > **跨国治理与国际公共行政视阈** 探讨超国家常任行政官僚如何通过量化测评工具开发与技术权威建构，摆脱成员国政治羁绊并建立自主政策议程。
 
 > [!claim] [[Fazal Rizvi|Rizvi, F.]], & [[Bob Lingard|Lingard, B.]] / Henry et al. (2001)
-> **国际官僚机构的自主政策行动者演进论断** 法扎尔·里兹维与鲍勃·林加德援引亨利等人（Henry et al., 2001）的制度考察指出，[[OECD|经合组织]]常任秘书处的历史演进彻底打破了国际官僚机构仅为成员国中立行政仆从的传统假说。20 世纪 70 至 80 年代，该组织的教育议程由成员国教育委员会协商设定；而进入 90 年代后，常任秘书处凭借开发跨国[[Performance Indicators|教育指标]]、主持[[PISA|国际学生评估项目]]（[[PISA]]）测评以及统筹国别政策审查，建立了无可替代的技术知识垄断。作为典型的“国际官僚机构”（International Bureaucracy），秘书处借由“政策即数字”的专业权威反客为主，不仅主导了跨国教育政策优先事项的设立，更演变为拥有自身制度利益、能够独立推行新自由主义议程的自主政策行动者。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–444)]]
+> **国际官僚机构的自主政策行动者演进论断** 法扎尔·里兹维与鲍勃·林加德援引亨利等人（Henry et al., 2001）的制度考察指出，[[OECD|经合组织]]常任秘书处的历史演进彻底打破了国际官僚机构仅为成员国中立行政仆从的传统假说。20 世纪 70 至 80 年代，该组织的教育议程由成员国教育委员会协商设定；而进入 90 年代后，常任秘书处凭借开发跨国[[Performance Indicators|教育指标]]、主持[[PISA|国际学生评估项目]]（[[PISA]]）测评以及统筹国别政策审查，建立了无可替代的技术知识垄断。作为典型的“国际官僚机构”（International Bureaucracy），秘书处借由“政策即数字”的专业权威反客为主，不仅主导了[[Transnational Education|跨国教育]]政策优先事项的设立，更演变为拥有自身制度利益、能够独立推行新自由主义议程的自主政策行动者。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–444)]]
 
 ---
 

@@ -8,7 +8,7 @@ summary: "美国著名国际关系理论家、新自由制度主义奠基人之�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 27
+person_related_count: 29
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Soft Power]]"
   - "[[Paradigm]]"
+  - "[[Transnational Education]]"
   - "[[Cultural Diplomacy]]"
   - "[[Hard Power]]"
   - "[[Public Diplomacy]]"
@@ -34,6 +35,7 @@ related_concepts:
   - "[[Study Abroad]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Soft Power by Hard Facts]]"
+  - "[[Nation Branding]]"
   - "[[Winner's Fallacy]]"
   - "[[Educational Diplomacy]]"
   - "[[Operationalization]]"
@@ -57,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -65,7 +67,7 @@ updated: 2026-10-30
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代[[Wight's Three Traditions of International Theory|国际关系理论]]家、政治学家与前政府官员，哈佛大学杰出服务教授（Harvard University Distinguished Service Professor），哈佛大学肯尼迪政府学院前院长。
 > - **核心角色** 新自由制度主义（Neoliberal Institutionalism）与复合相互依存理论的开创者之一；系统提出并奠定当代“[[Soft Power|软实力]]”（Soft Power）与“巧实力”（Smart Power）的全球学术与政策分析[[Paradigm|范式]]。
-> - **代表贡献** 提出并系统阐释 [[Soft Power|软实力]] 理论框架；与罗伯特·基欧汉（Robert Keohane）合著《权力与相互依存》确立跨国制度主义分析[[Paradigm|范式]]；为大国跨国教育交流、[[Cultural Diplomacy|文化外交]]与形象塑造提供核心理论工具。
+> - **代表贡献** 提出并系统阐释 [[Soft Power|软实力]] 理论框架；与罗伯特·基欧汉（Robert Keohane）合著《权力与相互依存》确立跨国制度主义分析[[Paradigm|范式]]；为大国[[Transnational Education|跨国教育]]交流、[[Cultural Diplomacy|文化外交]]与形象塑造提供核心理论工具。
 
 > [!citation-card] 软实力的诱惑力量与非强制性本质
 > 软实力是让别人想要你所想要的东西的能力……否定软实力的重要性，就是完全不理解文化与价值认同所具备的“诱惑的力量”（The power of seduction）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 228)]]; (Nye, 2004, p. 8)
@@ -106,7 +108,7 @@ updated: 2026-10-30
 > 约瑟夫·奈指出，国际政治中的权力不仅体现为强迫他人做其不愿做之事的“指挥性权力”（如军事打击与经济制裁），更体现为让对方主动认同并渴望你所追求目标的“同化性权力”——即[[Soft Power|软实力]]。软实力根植于一个国家的文化吸引力、政治价值观与外交政策合法性。在科技与[[Geopolitics|地缘政治]]竞争中，软实力构成行使权力的[[Necessary and Sufficient Conditions|必要条件]]而非充分条件；教育交流与语言推广作为建立社会纽带的重要支柱，旨在促使外国公众“想要你所期望之物”（want what you want），但其战略转化效能受到对象国本土安全审查与文化认同的结构性制约。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–32, 228)]]; [[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 20, 72–75)]]
 
 > [!citation-card] [[Educational Soft Power|教育软实力]]的同化机制
-> 教育是促使外国公众想要你所期望之物的强大战略工具。在经济层面，国家将自身打造为首选留学目的地，不仅为了获取留学生学费收入，更是为了开拓商品、服务与资本的海外市场；在政治与安全层面，教育合作有助于在外国公众中塑造对本国理念与规范的认同。（Nye, 2011; 引自 [[Argument_Custer_2021_AidData|Custer et al., 2021, p. 20]]）
+> 教育是促使外国公众想要你所期望之物的强大战略工具。在经济层面，国家将自身打造为首选[[Study Abroad|留学]]目的地，不仅为了获取留学生学费收入，更是为了开拓商品、服务与资本的海外市场；在政治与安全层面，教育合作有助于在外国公众中塑造对本国理念与规范的认同。（Nye, 2011; 引自 [[Argument_Custer_2021_AidData|Custer et al., 2021, p. 20]]）
 >
 > *Education is a powerful lever to socialize foreign publics to “want what you want” (Nye, 2011). Economically, the PRC positions itself as a premier [[Study Abroad|study abroad]] destination, not only to generate valuable tuition revenues from foreign students, but also to cultivate markets for Chinese goods, services, and capital. Geopolitically, educational cooperation is a brand-builder... to win admiration for Chinese values, culture, and civilization.*
 
@@ -114,7 +116,7 @@ updated: 2026-10-30
 
 > [!influence-path] 影响路径
 > - **理论路径** 开创了国际关系学界的非物质权力研究纲领，引发关于[[Cultural Diplomacy|文化外交]]、[[Knowledge Diplomacy|知识外交]]及量化规制（[[Soft Power by Hard Facts]]）的广泛学术探讨。
-> - **政策路径** 直接影响了美欧及新兴大国外交与公共外交战略编制，促使“国家品牌塑造”、“跨国教育交流”与“语言推广机构”成为大国外交政策的战略核心。
+> - **政策路径** 直接影响了美欧及新兴大国外交与公共外交战略编制，促使“[[Nation Branding|国家品牌]]塑造”、“跨国教育交流”与“语言推广机构”成为大国外交政策的战略核心。
 > - **跨学科传播** 被比较教育学、全球治理与发展研究深度吸纳；如智库 [[AidData]] 将教育援助、全额奖学金与语言网络纳入实证指标体系[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 14, 20)]]；而在非西方大国外交实践中，奈氏范式被制度化重塑为护卫文化主权的防御性软实力（ruan shili）与自上而下推动对外大战略的进取性软权力（ruan quanli）双重构型[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 74–76)]]。
 
 > [!evidence-grid-a] 相关研究索引

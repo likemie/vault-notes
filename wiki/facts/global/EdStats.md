@@ -12,7 +12,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
   - methodology/quantitative
   - theme/epistemic-governance
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Academic Achievement]]"
   - "[[Educational Level]]"
   - "[[Performance Indicators]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-11-11
 ---
 
 # EdStats
@@ -72,7 +73,7 @@ updated: 2026-10-23
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 教育统计查询系统（Education Statistics, EdStats）是[[World Bank|世界银行]]（World Bank）统筹构建的跨国教育统计综合数据库与全球数据集成中枢。平台通过汇聚全球主权国家的行政统计数据与跨国学业测评结果，向全球决策者、研究人员与国际组织提供全方位的教育投入、入学、[[Academic Achievement|学业成就]]与公平指标，确立了跨国教育发展的标准化计量基准。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 7–8)]]
+> 教育统计查询系统（Education Statistics, EdStats）是[[World Bank|世界银行]]（World Bank）统筹构建的[[Transnational Education|跨国教育]]统计综合数据库与全球数据集成中枢。平台通过汇聚全球主权国家的行政统计数据与跨国学业测评结果，向全球决策者、研究人员与国际组织提供全方位的教育投入、入学、[[Academic Achievement|学业成就]]与公平指标，确立了跨国教育发展的标准化计量基准。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 7–8)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1998 年由世界银行正式启动构建，历经多次架构升级与开放数据改革，常态化持续更新运行至今。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 7)]]
@@ -86,7 +87,7 @@ updated: 2026-10-23
 ## 方案设计与运行机制
 
 > [!claim] 核心机制假说
-> 该项目确立了“度量标准化与指标集约化”的数据治理假说：通过将分散异质的主权国家行政统计与多源学业测验折算进统一的技术量表，能够消解区域测验与国际测验之间的测量鸿沟，确立跨国教育成就的全球统一度量衡，引导各国政策主动向国际量化基准对标。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 7–8)]]
+> 该项目确立了“度量标准化与指标集约化”的数据治理假说：通过将分散异质的主权国家行政统计与多源学业测验折算进统一的技术量表，能够消解区域测验与国际测验之间的测量鸿沟，确立[[Transnational Education|跨国教育]]成就的全球统一度量衡，引导各国政策主动向国际量化基准对标。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 7–8)]]
 
 > [!policy-design] 方案设计
 > - **多源测验深度整合** 将高收入国家主导的国际大型测评（如[[PISA]]、[[TIMSS]]）与全球南方的区域性监测项目（如 [[SACMEQ]]、[[PASEC]]、[[LLECE]]/SERCE）进行指标编码与跨量表嫁接，打破传统区域评估的数据孤岛。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 8)]]
@@ -134,7 +135,7 @@ updated: 2026-10-23
 
 > [!finding-cards] 核心实证结论
 > - **确立全球教育发展的技术中立度量衡** 扎普（[[Argument_Zapp_2017_IJED|Zapp, 2017]]）指出，EdStats 的集约化整合使[[World Bank|世行]]摆脱了对外部零散统计的依附，将自身树立为全球教育实证数据的中央清算所。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 7–8)]]
-> - **推动跨国教育政策[[Discourse|话语]]的计量化重塑** 该数据库将复杂的国家教育过程转译为横向可比的量化指标，促使借款国将政策重心转向可测量、可排位的标准化学业产出。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 8–9)]]
+> - **推动[[Transnational Education|跨国教育]]政策[[Discourse|话语]]的计量化重塑** 该数据库将复杂的国家教育过程转译为横向可比的量化指标，促使借款国将政策重心转向可测量、可排位的标准化学业产出。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 8–9)]]
 
 > [!stat-cards]- 关键实证数据
 > - **242** 平台覆盖的主权国家与经济体总数。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 7)]]

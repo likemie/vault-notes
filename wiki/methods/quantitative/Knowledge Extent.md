@@ -10,7 +10,7 @@ summary: "一种用于量化学术文献集合在语义向量空间中主题覆�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 20
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Heterogeneity]]"
   - "[[Reliability]]"
+  - "[[Areas of Knowledge]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Scientific Productivity]]"
 related_theories: []
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-08
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 
 ---
@@ -160,7 +161,7 @@ updated: 2026-11-09
 > > [!formula-reading] 结果解读与注意事项
 > > | 类型 | 要点 | 说明 |
 > > |---|---|---|
-> > | 读法 | 曲线斜率更陡 | 表明后继施引成果迅速跨越到更遥远的知识领域，成果具有强大的跨学科溢出与拓界效应。 |
+> > | 读法 | 曲线斜率更陡 | 表明后继施引成果迅速跨越到更遥远的[[Areas of Knowledge\|知识领域]]，成果具有强大的跨学科溢出与拓界效应。 |
 > > | 读法 | 曲线平缓贴近 | 表明后继研究紧密围绕源头成果既有方法进行同质小修补，未能推动认知向远端扩散。 |
 > > | 注意 | 宏微观分层区分 | 必须区分单篇文献家族广度（微观）与学科总体知识广度（宏观），两者变动方向可能完全背离。 |
 

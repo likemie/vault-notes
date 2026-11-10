@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Paradigm]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Policy Translation]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Soft Power]]"
 related_theories: []
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -145,7 +146,7 @@ updated: 2026-10-30
 >
 > [!lessons] 经验教训与启示
 > - **理论建构的政治生命力** DeSeCo 的成功表明，国际组织必须依托长周期的跨[[Discipline-Based Theory|学科基础理论]]沉淀，才能为后续的大规模指标规制赢得长达数十年的学理合法性。
-> - **主权政策转译的异化风险** 顶层概念极易被主权国家作为推卸本土改革争议的“外部合法化盾牌”，引发名义采纳与实践脱嵌（decoupling）。
+> - **主权[[Policy Translation|政策转译]]的异化风险** 顶层概念极易被主权国家作为推卸本土改革争议的“外部合法化盾牌”，引发名义采纳与实践脱嵌（decoupling）。
 
 ---
 

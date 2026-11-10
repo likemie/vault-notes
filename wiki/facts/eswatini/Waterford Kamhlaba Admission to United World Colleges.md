@@ -10,13 +10,14 @@ subtype: event
 region: eswatini
 fact_region: "eswatini"
 fact_kind: "event"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
 tags: [region/eswatini, theme/international-education, theme/anti-apartheid, theme/institution-building]
 related_concepts:
   - "[[International Baccalaureate]]"
+  - "[[Transnational Education]]"
   - "[[Network Governance]]"
 related_theories: []
 related_methods: []
@@ -30,7 +31,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -52,7 +53,7 @@ updated: 2026-10-22
 > - **主要白人学生来源** 希望子女接受多种族教育的南非家庭。
 > - **原有课程资格** O-level 与 A-level，学校维持较高学术标准。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 122–123)]]
 
-斯特恩辞去约翰内斯堡校长职位后，与一批南非支持者创办学校。斯威士兰国王访问时授予卡姆拉巴（Kamhlaba）之名，意为“世界缩影”。名称把校内多种族共同体与跨国教育使命联系起来，但学校在最初十二年并不属于 UWC。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, p. 122)]]
+斯特恩辞去约翰内斯堡校长职位后，与一批南非支持者创办学校。斯威士兰国王访问时授予卡姆拉巴（Kamhlaba）之名，意为“世界缩影”。名称把校内多种族共同体与[[Transnational Education|跨国教育]]使命联系起来，但学校在最初十二年并不属于 UWC。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, p. 122)]]
 
 ---
 

@@ -6,7 +6,7 @@ summary: "德国不来梅大学国际关系与全球社会政策教授，德国�
 type: person
 nationality: "germany"
 person_region: "germany"
-person_related_count: 33
+person_related_count: 34
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -21,6 +21,7 @@ tags:
   - theme/soft-power
   - theme/international-organizations
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Education-for-Mandates]]"
   - "[[Construct]]"
@@ -63,14 +64,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国国际关系与全球社会政策学者，不来梅大学（University of Bremen）政治科学教授，德国科学基金会（DFG）SFB 1342“全球社会政策动态”跨学科合作研究中心核心负责人。
-> - **核心角色** 当代国际组织行为学、非国家行为体参与与跨国教育治理政治学的前沿领军学者；将国际关系机制分析引入比较教育政策研究，开创“硬[[Soft Power by Hard Facts\|事实软实力]]”与“[[Education-for-Mandates\|使命性教育嵌入]]”研究传统。
+> - **核心角色** 当代国际组织行为学、非国家行为体参与与[[Transnational Education|跨国教育]]治理政治学的前沿领军学者；将国际关系机制分析引入比较教育政策研究，开创“硬[[Soft Power by Hard Facts\|事实软实力]]”与“[[Education-for-Mandates\|使命性教育嵌入]]”研究传统。
 > - **代表贡献** 提出并深化[[Soft Power by Hard Facts\|以硬事实施展软权力]][[Analytic Framework\|分析框架]]；提出[[Education-for-Mandates\|使命性教育嵌入]][[Construct\|构念]]；主持全球 495 个国际组织教育治理全域普查并构建 IO-ED 权威数据库；在 [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] 中奠定国际政治学分析基石。
 
 > [!citation-card] 人物定位的关键来源

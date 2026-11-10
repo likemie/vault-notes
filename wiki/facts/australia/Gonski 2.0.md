@@ -12,9 +12,9 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 26
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 31
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
 issuing_organization: "Australian Government"
 tags:
@@ -29,7 +29,11 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Initial Teacher Training]]"
   - "[[Boundary Spanner]]"
+  - "[[Learning Progression]]"
+  - "[[Curriculum Delivery Model]]"
   - "[[Venture Philanthropy]]"
+  - "[[Teacher Professional Agency]]"
+  - "[[Performativity]]"
   - "[[Policy Network]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Philanthrocapitalism]]"
@@ -48,6 +52,7 @@ related_facts:
   - "[[Evidence for Learning]]"
   - "[[Australian Education Research Organisation]]"
   - "[[Australian Philanthropic Services]]"
+  - "[[American Physical Society]]"
   - "[[Gonski Reforms]]"
   - "[[Australian Schools Plus]]"
 related_arguments:
@@ -58,7 +63,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -103,13 +108,13 @@ updated: 2026-11-10
 
 > [!pathways] 实施路径
 > - **中央设计** 联邦政府将 23 项建议转化为跨党派立法与政府理事会（COAG）全国协议，设立 5000 万澳元专项基金组建国家级证据机构 AERO。
-> - **地方推进** 各州教育厅将政策重心由统一课程交付转向推进学生个体学业进阶追踪，推广形成性在线诊断测评工具，重塑教学大纲实施指南。
+> - **地方推进** 各州教育厅将政策重心由统一课程交付转向推进学生个体[[Learning Progression|学业进阶]]追踪，推广形成性在线诊断测评工具，重塑教学大纲实施指南。
 > - **微观教学转向** 引导教师将教学起点对准学生真实准备状态，打破按生理年龄一刀切的教学进度，依据证据干预实施分层指导与形成性反馈。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, p. 129)]]
 
 ---
 
 > [!finding-cards] 效果与评价
-> - **年级课程交付模型向个体增量模型重构** 报告促成澳大利亚教育界反思按年龄统一授课的弊端；马斯特斯（Masters, 2018）指出教学脱离学生起点会导致重复已知内容或超负荷失败，促使全澳评价系统确立衡量个体年度增量的质量基准。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, p. 129)]]
+> - **[[Curriculum Delivery Model|年级课程交付模型]]向个体增量模型重构** 报告促成澳大利亚教育界反思按年龄统一授课的弊端；马斯特斯（Masters, 2018）指出教学脱离学生起点会导致重复已知内容或超负荷失败，促使全澳评价系统确立衡量个体年度增量的质量基准。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, p. 129)]]
 > - **国家级证据中介生态确立** 第 23 条建议直接催生了 AERO，建立起连接前沿学术研究、学校日常实践与政府教育拨款的制度化循证桥梁。[[Argument_Rowe_2022_IJER|(Rowe, 2022, p. 3)]]
 > - **边界条件** 增量成长模型的有效落地高度依赖学校对形成性测评数据的科学诊断能力以及各州在课程标准弹性调整上的协同配合。
 
@@ -117,16 +122,16 @@ updated: 2026-11-10
 
 > [!debates] 政策争议交锋
 >
-> > [!axis] “教育公平使徒”公共声誉支撑 vs 风险慈善资本深度渗透的合法化掩护
+> > [!axis] “教育公平使徒”公共声誉支撑 vs [[Venture Philanthropy|风险慈善]]资本深度渗透的合法化掩护
 > > 探讨报告宣称的科学中立性与其背后错综复杂的政商利益网络。
 > >
-> > - **网络民族志批判视角** [[Argument_Rowe_2022_IJER|Rowe (2022)]] 与 [[Argument_Rowe_2023_ECNUROE|Rowe (2023, pp. 518–523, 530–531)]] 指出，[[Australian Education Research Organisation|AERO]] 对外极力将自身起源绑定在 Gonski 2.0 报告的道德与科学权威上，利用公众对冈斯基个人的声誉（#igiveagonski 运动）换取信任；然而这一公关叙事掩蔽了深层的制度事实：冈斯基当时正担任 [[Social Ventures Australia|SVA]] 旗下全资子公司[[Australian Philanthropic Services|澳大利亚慈善服务社]]（APS）董事长，其同僚董事（Belinda Hutchinson、[[Michael Traill]]）与资助人深度参与了国家证据机构的策划与人事布局。Gonski 2.0 标志着澳大利亚国家职能由中心化科层分配者演变为积极扶持、资助并赋予私营资本特许免税地位的催化平台与市场缔造者；报告第 23 条建议催生的 AERO 依据《公司法》注册并实行商业化审计豁免与私营分包，实质上是麦肯锡系风险慈善网络游说国家教育科研企业化、完成体制化捕获的特洛伊木马。
+> > - **[[Network Ethnography|网络民族志]]批判视角** [[Argument_Rowe_2022_IJER|Rowe (2022)]] 与 [[Argument_Rowe_2023_ECNUROE|Rowe (2023, pp. 518–523, 530–531)]] 指出，[[Australian Education Research Organisation|AERO]] 对外极力将自身起源绑定在 Gonski 2.0 报告的道德与科学权威上，利用公众对冈斯基个人的声誉（#igiveagonski 运动）换取信任；然而这一公关叙事掩蔽了深层的制度事实：冈斯基当时正担任 [[Social Ventures Australia|SVA]] 旗下全资子公司[[Australian Philanthropic Services|澳大利亚慈善服务社]]（[[American Physical Society|APS]]）董事长，其同僚董事（Belinda Hutchinson、[[Michael Traill]]）与资助人深度参与了国家证据机构的策划与人事布局。Gonski 2.0 标志着澳大利亚国家职能由中心化科层分配者演变为积极扶持、资助并赋予私营资本特许免税地位的催化平台与市场缔造者；报告第 23 条建议催生的 AERO 依据《公司法》注册并实行商业化审计豁免与私营分包，实质上是麦肯锡系风险慈善网络游说国家教育科研企业化、完成体制化捕获的特洛伊木马。
 > > - **官方技术官僚视角** 坚决拥护 Gonski 2.0 将改革重心从盲目追逐经费投入转向追求学习有效性成长，认为报告提出的全国证据机构是根治教育政策朝令夕改、让循证科学真正进驻课堂的历史性突破。
 >
-> > [!axis] 资源投入公平 vs 成果产出审计对教师专业自主权的侵蚀
+> > [!axis] 资源投入公平 vs 成果产出审计对[[Teacher Professional Agency|教师专业自主权]]的侵蚀
 > > 争议 Gonski 2.0 将重点转向“因果证据”与“学习成长增益”对基层教学的冲击。
 > >
-> > - **一线教师与批判学者** 批评 Gonski 2.0 将教育简化为可度量的标准化增益，配合第 23 条建议催生的证据中介，容易演变为以因果实验与指标排行榜规训教师的表演性问责工具。
+> > - **一线教师与批判学者** 批评 Gonski 2.0 将教育简化为可度量的标准化增益，配合第 23 条建议催生的证据中介，容易演变为以因果实验与指标排行榜规训教师的[[Performativity|表演性]]问责工具。
 > > - **政策技术官僚** 认为单纯增加经费无法扭转澳洲 PISA 成绩长期下滑的趋势，必须借助循证证据指导财政使用方向，确保资金真正转化为学习效能。
 
 ---
@@ -138,10 +143,10 @@ updated: 2026-11-10
 > | [[Australian Education Research Organisation]] | 组织 | 依据 Gonski 2.0 第 23 条建议正式设立的国家级证据经纪机构。 |
 > | [[David Gonski]] | 人物 | 审查委员会主席并主持撰写该报告。 |
 > | [[Gonski Reforms]] | 政策 | Gonski 2.0 构成了全澳冈斯基需求本位拨款改革体系的第二阶段核心文本。 |
-> | [[Social Ventures Australia]] | 组织 | 借助 Gonski 在 [[Australian Philanthropic Services|APS]] 的董事长重叠身份，推动国家审查建议全面采纳 SVA 方案。 |
+> | [[Social Ventures Australia]] | 组织 | 借助 Gonski 在 [[Australian Philanthropic Services\|APS]] 的董事长重叠身份，推动国家审查建议全面采纳 SVA 方案。 |
 > | [[Evidence for Learning]] | 组织 | SVA 旗下证据中介子公司，作为原型样板直接启发了 Gonski 2.0 第 23 条建议。 |
 > | [[Australian Philanthropic Services]] | 组织 | 冈斯基任职的 SVA 子公司，构成了串联 Gonski 审查与企业慈善资本的关键旋转门。 |
-> | [[Australian Schools Plus]] | 组织 | 与 Gonski [[Policy Network|政策网络]]高度重叠的公立学校免税筹款中介，构筑企业资本渗透管道。 |
+> | [[Australian Schools Plus]] | 组织 | 与 Gonski [[Policy Network\|政策网络]]高度重叠的公立学校免税筹款中介，构筑企业资本渗透管道。 |
 > | [[Educational Brokerage Agency]] | 概念 | Gonski 2.0 第 23 条建议明确要求设立的核心组织实体形态（国家级证据经纪机构）。 |
 > | [[Philanthrocapitalism]] | 概念 | 报告所反映的将商业投资逻辑、因果量规与企业慈善引入公共教育治理的运作机制。 |
 > | [[Network Governance]] | 概念 | 报告出台与 AERO 创设背后政、商、慈善跨界协同与国家催化平台化的治理形态。 |

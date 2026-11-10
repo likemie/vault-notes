@@ -9,7 +9,7 @@ subtype: organization
 region: multi
 fact_region: "multi"
 fact_kind: "organization"
-fact_related_count: 16
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -29,7 +29,9 @@ related_concepts:
   - "[[International Education]]"
   - "[[Counterpart Funds]]"
   - "[[Paradigm]]"
+  - "[[Early-Career Researchers]]"
   - "[[Student Mobility]]"
+  - "[[Study Abroad]]"
   - "[[Document]]"
   - "[[Tracking]]"
 related_theories: []
@@ -50,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-20
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -107,7 +109,7 @@ updated: 2026-11-02
 > - **中国政府专项奖学金与短期研修** 提供面向非洲各国的全额学位奖学金与为期2至3周的短期技术培训，构成了论坛历届行动计划的硬性支柱指标。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 222, 224, 226)]]
 > - **[[Institute of South-South Cooperation and Development|南南合作与发展学院]]（ISSCAD）** 设立于北京大学国家发展研究院，专门面向非洲及全球南方国家高级官员与政策精英，提供发展道路与公共政策硕士/博士学位项目。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224, 226)]]
 > - **[[Luban Workshop|鲁班工坊]]（Luban Workshop）** 依托中国高职院校协同涉外基建央企在非洲设立的实训中心，定向培养工程施工、铁路运维及现代农业等现场技术工人。[[Argument_King_2020_ECNUROE|(King, 2020, p. 227)]]
-> - **[[Sino-Africa Joint Research Center|中非联合研究中心]]** 围绕生态环境、公共卫生与可再生能源共建联合科研实体，专项资助非洲青年学者攻读硕博学位并开展联合学术攻关。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 226–227)]]
+> - **[[Sino-Africa Joint Research Center|中非联合研究中心]]** 围绕生态环境、公共卫生与可再生能源共建联合科研实体，专项资助非洲[[Early-Career Researchers|青年学者]]攻读硕博学位并开展联合学术攻关。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 226–227)]]
 > - **多边信托基金与[[Confucius Institute|孔子学院]]** 持续向[[UNESCO|联合国教科文组织]]提供中国信托基金用于非洲教师专业发展，并在非洲高校广泛建立孔子学院与中文课堂。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224–225)]]
 
 > [!citation-card] 约翰内斯堡峰会行动计划关于教育与人力资源开发的表述（FOCAC, 2015）
@@ -123,7 +125,7 @@ updated: 2026-11-02
 > - **产业协同与技术属地化** 跨国重大基建、经贸合作园区与工业走廊本土技术人员的用工吸纳率与培训转化率。[[Argument_King_2020_ECNUROE|(King, 2020, p. 227)]]
 
 > [!finding-cards] 关键成效与辐射影响
-> - **人才自主发展能力培育** 论坛推动中国成为非洲青年留学重要目的地，通过高教全额学位奖学金与数万研修名额显著强化非洲本土科研与公共治理能力。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224, 226)]]
+> - **人才自主发展能力培育** 论坛推动中国成为非洲青年[[Study Abroad|留学]]重要目的地，通过高教全额学位奖学金与数万研修名额显著强化非洲本土科研与公共治理能力。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224, 226)]]
 > - **实体合作网络多维落地** 促成中非高校“20+20”合作计划、中非联合研究中心及分布于非洲十余国的鲁班工坊落地，奠定常态化学术与职教协同基石。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 226–227)]]
 > - **重大工程本土技能保障** 紧密配套蒙内铁路、亚吉铁路等跨国重大基础设施建设，定向输送数万名本土铁路运维与工程技术人才，直接驱动技术属地化与就业。[[Argument_King_2020_ECNUROE|(King, 2020, p. 227)]]
 

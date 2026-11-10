@@ -9,10 +9,10 @@ aliases:
 summary: "指科研人员在不同国家、区域或学术机构之间的地理与聘任迁移；科学学实证检验揭示跨国流动学者的引文优势主要源于优秀学者获得流动机会的事前选择性偏差，且跨校流动普遍遵循同等声望阶梯；在控制个体科研能力后，机构排位的升降并未对学者后续研究影响力产生系统性增减，证实是学者造就机构而非机构造就学者（Fortunato et al., 2018）。"
 type: concept
 domain: "science-policy"
-related_count: 12
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 27
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/science-policy
   - field/scientometrics
@@ -20,27 +20,42 @@ tags:
   - theme/academic-mobility
 related_concepts:
   - "[[Academic Inbreeding]]"
-  - "[[Matthew Effect in Academia]]"
-  - "[[Scientific Productivity]]"
   - "[[Postdoctoral Pileup]]"
+  - "[[Early-Career Researchers]]"
+  - "[[Paradigm]]"
+  - "[[Homophily]]"
+  - "[[Scientific Productivity]]"
+  - "[[Scientific Creativity]]"
+  - "[[Transnational Education]]"
+  - "[[Causality]]"
+  - "[[Champ]]"
+  - "[[Heterogeneity]]"
+  - "[[Document]]"
+  - "[[Variable]]"
+  - "[[Study Abroad]]"
+  - "[[Matthew Effect in Academia]]"
   - "[[International Education Hubs]]"
   - "[[Internationalization of Higher Education]]"
 related_theories: []
 related_methods:
-  - "[[Counterfactual]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
   - "[[Santo Fortunato]]"
-related_facts: []
+related_facts:
+  - "[[CREATES Project]]"
+  - "[[EU]]"
+  - "[[Bologna Process]]"
+  - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Fortunato_2018_Science]]"
-  - "[[Argument_Zhang_Zhao_2026_EDR]]"
   - "[[Argument_Qu_2024_IJED]]"
+  - "[[Argument_Zhang_Zhao_2026_EDR]]"
 confidence: high
 status: active
 created: 2026-11-03
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -56,7 +71,7 @@ updated: 2026-11-10
 > [!citation-card|notitle] 学者造就机构的微观实证证据
 > 考察学者跳槽前后由引文量化的学术影响力变化，无论学者是迁移至排名显著更高还是显著更低的学术机构，其论著引文均未出现系统性的增加或减少。学术影响力的根源在于研究人员个体的才智与探索，优秀的研究人员造就了学术机构的声望。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
 >
-> *Nevertheless, when examining changes in impact associated with each move as quantified by citations, no systematic increase or decrease was found, not even when scientists moved to an institution of considerably higher or lower rank. In other words, it is not the institution that creates the impact; it is the individual researchers that make an institution.*
+> *Nevertheless, when examining changes in impact associated with each move as quantified by citations, no systematic increase or decrease was found, not even when scientists moved to an institution of considerably higher or lower rank. In other words, it is not the institution that [[CREATES Project|creates]] the impact; it is the individual researchers that make an institution.*
 
 > [!boundary]- 概念边界
 > - 不等于脑力流失（Brain Drain） — 脑力流失专指高层次科技人才单向度向发达经济体流失的宏观损耗，而学术流动涵盖循环智力流动、短期学术访问与双向交流的多维动力学过程。
@@ -67,17 +82,17 @@ updated: 2026-11-10
 > [!contrast-table|notitle] 概念辨析
 > | 维度 | 本概念（学术流动） | [[Academic Inbreeding]] | [[Postdoctoral Pileup]] |
 > |------|--------|----------------|----------------|
-> | 分析对象 | 科研人员在机构或跨国间的聘任迁移行为 | 博士毕业生直接留在毕业高校任职的组织现象 | 青年学者滞留在长周期临时性流动职位的劳动力淤积 |
-> | 核心机制 | 个人学术声誉与异质机构资源的双向匹配 | 师生庇护网络与既有学科范式的代际复制 | 终身轨职位供给短缺与课题制软钱资助扩张 |
+> | 分析对象 | 科研人员在机构或跨国间的聘任迁移行为 | 博士毕业生直接留在毕业高校任职的组织现象 | [[Early-Career Researchers\|青年学者]]滞留在长周期临时性流动职位的劳动力淤积 |
+> | 核心机制 | 个人学术声誉与异质机构资源的双向匹配 | 师生庇护网络与既有学科[[Paradigm\|范式]]的代际复制 | 终身轨职位供给短缺与课题制软钱资助扩张 |
 > | 适用范围 | 全生涯周期的学者职业流动与空间再配置 | 大学内部教师聘任制度与学术梯队生态 | 早期青年学者向独立研究员跨越的职业瓶颈 |
 
 ---
 
 > [!feature] 核心要素
 > - **个体选择性偏差（Selection Bias）** 跨国流动学者在平均被引频次上显著领先于未迁移学者，但计量检验显示这一优势主要由流动学者在迁移前已具备的更高科研资质所决定。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
-> - **声望同质层级匹配（Prestige Homophily）** 学术劳动力市场呈现阶层化分层结构，科研人员在换岗跳槽时普遍遵循“在声望相当的机构之间流动”的拓扑规律。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
-> - **学术生产力自携性（Portability of Impact）** 学者的科研创造力与课题转化潜能具有高度的个人自携特征，机构声望与实验硬件并未对成果长期被引提供外生决定性推力。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
-> - **跨境教育代际演化基础** 学术流动构成了跨国高等教育演进的第一代基石，历经项目与机构流动（第二代）进而深化为教育枢纽集聚网络（第三代）。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, p. 2)]]
+> - **声望同质层级匹配（Prestige [[Homophily]]）** 学术劳动力市场呈现阶层化分层结构，科研人员在换岗跳槽时普遍遵循“在声望相当的机构之间流动”的拓扑规律。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
+> - **[[Scientific Productivity|学术生产力]]自携性（Portability of Impact）** 学者的[[Scientific Creativity|科研创造力]]与课题转化潜能具有高度的个人自携特征，机构声望与实验硬件并未对成果长期被引提供外生决定性推力。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
+> - **[[Transnational Education|跨境教育]]代际演化基础** 学术流动构成了跨国高等教育演进的第一代基石，历经项目与机构流动（第二代）进而深化为教育枢纽集聚网络（第三代）。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, p. 2)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -104,7 +119,7 @@ updated: 2026-11-10
 ---
 
 > [!concept-proposition] 命题二｜机构排位对学者个体学术影响力的长程塑造不存在系统性因果效应
-> **机构平台效应与学者个体价值归属** 这类命题围绕大学与科研机构的声望排位能否直接决定学者成果的学术影响力展开因果推断。
+> **机构平台效应与学者个体价值归属** 这类命题围绕大学与科研机构的声望排位能否直接决定学者成果的学术影响力展开[[Causality|因果推断]]。
 
 > [!claim] [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]]
 > **学者造就机构声望的微观因果实质** 追踪科研人员换岗至排名显著更高或显著更低的学术机构，其发表成果在被引指标上并未出现系统性的递增或递减；科研成果的终极价值取决于学者个体的才智与探索深度，独立于任职机构的声望光环。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
@@ -112,10 +127,10 @@ updated: 2026-11-10
 ---
 
 > [!concept-proposition] 命题三｜学术流动的实质塑造力取决于关键阶段向学术中心的高质量嵌入
-> **阶段窗口与中心场域嵌入** 这类命题探讨学术流动的塑造力如何随受教育阶段演变，以及物理空间迁移是否必然转化为学术成长动能。
+> **阶段窗口与中心[[Champ|场域]]嵌入** 这类命题探讨学术流动的塑造力如何随受教育阶段演变，以及物理空间迁移是否必然转化为学术成长动能。
 
 > [!claim] [[Argument_Zhang_Zhao_2026_EDR|张娟和赵祥辉 (2026)]]
-> **研究生阶段中心场域高质量嵌入的决定性** 对 1901—2025 年 757 位诺贝尔奖得主受教育历程的动态异质性分析表明，学术流动的塑造力在于能否在研究生等科研训练关键阶段进入全球学术中心并实现高质量嵌入，超越单纯物理空间位移的表面经历；跨校流动绝大多数集中于研究生阶段（硕士 20.48%、博士 73.95%），且世界一流大学在流动网络中占据核心枢纽。[[Argument_Zhang_Zhao_2026_EDR|(张娟和赵祥辉, 2026, pp. 33–34)]]
+> **研究生阶段中心场域高质量嵌入的决定性** 对 1901—2025 年 757 位诺贝尔奖得主受教育历程的动态[[Heterogeneity|异质性]]分析表明，学术流动的塑造力在于能否在研究生等科研训练关键阶段进入全球学术中心并实现高质量嵌入，超越单纯物理空间位移的表面经历；跨校流动绝大多数集中于研究生阶段（硕士 20.48%、博士 73.95%），且世界一流大学在流动网络中占据核心枢纽。[[Argument_Zhang_Zhao_2026_EDR|(张娟和赵祥辉, 2026, pp. 33–34)]]
 
 ---
 
@@ -130,8 +145,8 @@ updated: 2026-11-10
 
 > [!dev-timeline] 概念演变
 > - **1960s–1980s — 宏观人才流失范式** 早期主要聚焦于二战后欧洲与发展中国家向美国移民的智力外流宏观统计，强调单向度的资源损耗。
-> - **1990s–2000s — 智力循环与跨国流动范式** 伴随全球化与欧盟博洛尼亚进程，学界转向分析双向流动与全球科学网络的智力环流。
-> - **2014–2018 — 大数据计量与微观因果推断** 依托大规模文献元数据建立学者全生涯追踪轨迹，借助准实验设计检验跳槽前后引文变动，确立了学者造就机构声望的科学学实证共识。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
+> - **1990s–2000s — 智力循环与跨国流动范式** 伴随全球化与[[EU|欧盟]][[Bologna Process|博洛尼亚进程]]，学界转向分析双向流动与全球[[Web of Science|科学网]]络的智力环流。
+> - **2014–2018 — 大数据计量与微观因果推断** 依托大规模[[Document|文献]]元数据建立学者全生涯追踪轨迹，借助[[Quasi-Experimental Designs|准实验设计]]检验跳槽前后引文变动，确立了学者造就机构声望的科学学实证共识。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 4)]]
 > - **2024 — 跨境教育代际演化中的学术流动定位** 屈丽娟与代玉文（[[Argument_Qu_2024_IJED|Qu & Dai, 2024, p. 2]]）梳理跨境高等教育三代演化历程，将科研人员与学生跨境学术流动界定为第一代传统形态，为后续项目与机构流动及教育枢纽集聚奠定了基石。
 > - **2026 — 顶尖人才培养的时序窗口与双轨自培深化** 张娟与赵祥辉揭示学术流动在拔尖人才培养中聚焦研究生关键期与学术中心嵌入，并确证超七成顶尖学者依托母国一流平台自主培养成才的共存规律。[[Argument_Zhang_Zhao_2026_EDR|(张娟和赵祥辉, 2026, pp. 33–34)]]
 
@@ -158,12 +173,12 @@ updated: 2026-11-10
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Zhang_Zhao_2026_EDR\|张娟和赵祥辉 (2026)]] | 1901—2025 年 757 位诺贝尔奖得主全景履历档案（$N=757$） | 简历计量分析与百二十五年世代演化对照 | 跨校流动率、跨国流动率与流动发生阶段分布 | 跨校流动率为 59.58%（博士阶段占 73.95%、硕士占 20.48%）；跨国流动率为 24.70%（本科占 47.64%、博士占 47.05%）；75.30% 学者未曾跨国留学 | 百年跨七个出生世代全样本 | 证实学术流动塑造力高度集中于研究生关键期向学术中心的嵌入，超七成学者依托本土自培成才 |
+> | [[Argument_Zhang_Zhao_2026_EDR\|张娟和赵祥辉 (2026)]] | 1901—2025 年 757 位诺贝尔奖得主全景履历档案（$N=757$） | 简历计量分析与百二十五年世代演化对照 | 跨校流动率、跨国流动率与流动发生阶段分布 | 跨校流动率为 59.58%（博士阶段占 73.95%、硕士占 20.48%）；跨国流动率为 24.70%（本科占 47.64%、博士占 47.05%）；75.30% 学者未曾跨国[[Study Abroad\|留学]] | 百年跨七个出生世代全样本 | 证实学术流动塑造力高度集中于研究生关键期向学术中心的嵌入，超七成学者依托本土自培成才 |
 
 ---
 

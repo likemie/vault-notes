@@ -7,7 +7,7 @@ summary: "德国天主教教育学家，德语区比较教育学奠基人，曾�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 28
+person_related_count: 29
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Geisteswissenschaften]]"
   - "[[Cosmopolitanism]]"
   - "[[Paradigm]]"
+  - "[[Nationalism]]"
   - "[[National Character]]"
   - "[[Influences Across Cultures]]"
   - "[[State Educational Sovereignty]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -76,7 +77,7 @@ updated: 2026-11-02
 > [!timeline] 生平与职涯
 > - **1881** **科隆出生与[[Geisteswissenschaften|精神科学]]学术渊源** 出生于德国科隆，早年在波恩大学与明斯特大学接受系统严格的哲学、天主教神学与教育学训练。
 > - **1928** **执教科隆教育学院推动国际视野** 获聘科隆教育学院（Pädagogische Akademie Köln）教授，致力于师资培养改革，率先将跨国比较视野引入德国本土教育学。
-> - **1931** **创办《[[International Education|国际教育]]学评论》搭建跨国学术网络** 创办三语（德、英、法）学术期刊《国际教育学评论》（*Internationale Zeitschrift für Erziehungswissenschaft*），搭建起一战后欧洲学者超越民族主义狭隘壁垒的跨国对话中枢。
+> - **1931** **创办《[[International Education|国际教育]]学评论》搭建跨国学术网络** 创办三语（德、英、法）学术期刊《国际教育学评论》（*Internationale Zeitschrift für Erziehungswissenschaft*），搭建起一战后欧洲学者超越[[Nationalism|民族主义]]狭隘壁垒的跨国对话中枢。
 > - **1933** **坚守天主教自由立场遭纳粹政权解职与禁言** 因坚定坚守天主教人文主义信仰与反对纳粹极权主义意识形态，被希特勒政权强行解除教授职务，并遭到彻底剥夺出版权的政治迫害。
 > - **1946–1953** **二战后流亡奥地利主持萨尔茨堡比较研究所** 二战结束后受聘于奥地利萨尔茨堡大学担任正教授，创办并主持萨尔茨堡比较教育研究所（Salzburger Institut für Vergleichende Erziehungswissenschaft），系统重建战后中欧比较教育学术生态。
 > - **1947** **出版《各民族教育学的驱动力》奠定经典理论体系** 出版理论代表作《各民族教育学的驱动力》（*[[Theories of the Driving Forces|Triebkräfte]] der Pädagogik der Völker*），从[[National Character|民族性格]]、地理空间、经济生产、宗教精神与历史传承五大维度剖析国家教育体系的生成逻辑。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 93)]]

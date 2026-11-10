@@ -42,6 +42,7 @@ related_concepts:
   - "[[Knowledge Mediation]]"
   - "[[Policy Brokerage]]"
   - "[[Washington Consensus]]"
+  - "[[Early-Career Researchers]]"
   - "[[Knowledge Production]]"
   - "[[Intellectual Capital]]"
   - "[[Heterogeneity]]"
@@ -54,6 +55,7 @@ related_concepts:
   - "[[Liberation Theology]]"
   - "[[Critical Pedagogy]]"
   - "[[Conscientization]]"
+  - "[[Policy Translation]]"
   - "[[Knowledge Transfer]]"
 related_theories:
   - "[[Policy Transfer Framework]]"
@@ -64,6 +66,7 @@ related_methods:
   - "[[Cohort Study]]"
 related_instruments: []
 related_persons:
+  - "[[Tim Cain]]"
   - "[[Paulo Freire]]"
 related_facts:
   - "[[OECD]]"
@@ -74,23 +77,24 @@ related_facts:
   - "[[Business Roundtable]]"
   - "[[World Social Forum]]"
   - "[[Bolsa Familia]]"
+  - "[[Development Assistance Committee]]"
 related_arguments: []
 sources:
   - "[[sources/Stone_2020_PolSoc|Stone_2020_PolSoc]]"
 part_of: ''
 status: draft
 created: 2026-10-23
-updated: 2026-10-29
+updated: 2026-11-11
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Stone_2020_PolSoc"
 argument_key: "Argument_Stone_2020_PolSoc"
 argument_display_title: "Transnational policy transfer: The circulation of ideas, power and development models"
 argument_kind: "journal-article"
-argument_related_count: 49
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#dbeafe"
+argument_related_count: 53
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: Policy and Society
 ---
 ---
@@ -222,7 +226,7 @@ journal: Policy and Society
 > [!sub-claim] 4. 釜山会议确立了平等合作原则，终结了附带条件的传统援助
 
 > [!event-context] 釜山高层论坛与南南技术协作规范的确立
-> - **历史转折契机** 2011 年在韩国釜山召开的经合组织发展援助委员会第四届援助效益高层论坛（Busan High Level Forum on Aid Effectiveness），标志着全球发展援助哲学的根本转变。西方捐助国过去长期奉行附加严苛政治经济条件的家长式援助模式，这一做法在会上遭到普遍抵制；强调相互尊重主权、注重实际成效的南南合作理念正式获得了国际社会的广泛认可。
+> - **历史转折契机** 2011 年在韩国釜山召开的[[Development Assistance Committee|经合组织发展援助委员会]]第四届援助效益高层论坛（Busan High Level Forum on Aid Effectiveness），标志着全球发展援助哲学的根本转变。西方捐助国过去长期奉行附加严苛政治经济条件的家长式援助模式，这一做法在会上遭到普遍抵制；强调相互尊重主权、注重实际成效的南南合作理念正式获得了国际社会的广泛认可。
 > - **合作机制演变** 中国等新兴发展中国家倡导的“互学互鉴”（Mutual Learning）理念成为多边政策对话的重要共识。在此基础上，由传统西方捐助国或国际组织出资、南方国家提供适用技术与实务经验的[[Triangular Cooperation|三方合作]]（Triangular Cooperation）蓬勃发展，显著拓宽了南方创新方案在亚非拉低收入国家生根发芽的途径。
 
 ---
@@ -235,7 +239,7 @@ journal: Policy and Society
 > [!actor-grid] 跨国政策流动中的个体行动者谱系
 > - **政策大使（Policy Ambassadors）** 兼具国际声望、跨文化穿透力与多语言沟通能力的[[Knowledge Mediation|知识中介]]与[[Policy Brokerage|政策经纪人]]。他们穿梭于母国高层决策圈与国际多边论坛之间，依靠个人魅力与扎根实践，把本土经验打造成具有国际吸引力的制度方案。
 > - **[[Academic-Administrator Entrepreneurs|学者型官员]]（Academic-Administrator Entrepreneurs）** 同时拥有大学资深教职与政府高级官职的双栖知识分子（如印度尼西亚公共管理领域的学者官员）。他们巧妙融合学术理论权威与行政审批大权，为吸收与转化外国先进制度打通了绿色通道。
-> - **顶尖学者的国际号召力** 著名学者直接充当思想跨国流通的核心中枢。例如约翰·梅纳德·凯恩斯（John Maynard Keynes）开创宏观经济干预理论，穆罕默德·尤努斯（Muhammad Yunus）向全球推广小额贷款（Micro-credit），约瑟夫·斯蒂格利茨（Joseph Stiglitz）在担任世界银行首席经济学家期间促使学界深刻反思[[Washington Consensus|华盛顿共识]]。
+> - **顶尖学者的国际号召力** 著名学者直接充当思想跨国流通的核心中枢。例如约翰·梅纳德·[[Tim Cain|凯恩]]斯（John Maynard Keynes）开创宏观经济干预理论，穆罕默德·尤努斯（Muhammad Yunus）向全球推广小额贷款（Micro-credit），约瑟夫·斯蒂格利茨（Joseph Stiglitz）在担任世界银行首席经济学家期间促使学界深刻反思[[Washington Consensus|华盛顿共识]]。
 > - **城市政策动员者（Policy Mobilisers）** 具有非凡魄力与演说魅力的城市行政首长（如哥伦比亚波哥大市长恩里克·佩尼亚洛萨 Enrique Peñalosa）。他通过充满感染力的公共演说与现场实操展示，把波哥大的公交与自行车道方案推向了全球城市舞台。
 > - **行政基层的事务官** 政府内部的统计分析师、法务顾问与议会研究员，通过日常搜集比较各国规章条例与实操案例，在操作细节上稳步推进具体制度的微调与本土化。
 
@@ -243,7 +247,7 @@ journal: Policy and Society
 >
 > - **赴美深造与理论植入**
 >
->   一批智利青年学者赴美国芝加哥大学深造，师从米尔顿·弗里德曼（Milton Friedman）系统接受自由市场与货币主义学说，完成了跨国精英思想溯源。
+>   一批智利[[Early-Career Researchers|青年学者]]赴美国芝加哥大学深造，师从米尔顿·弗里德曼（Milton Friedman）系统接受自由市场与货币主义学说，完成了跨国精英思想溯源。
 >
 > - **归国掌权与制度实验**
 >
@@ -312,7 +316,7 @@ journal: Policy and Society
 > - **前提：发展合作中地缘权力与知识资源的客观不平等**
 >   国际援助与跨国借贷体系天然带有捐助方凭借雄厚资本推行制度趋同的强势压力，脱离地方实际的技术报告往往压制本土实用经验。
 > - **机制：政策大使在流动全程中持续调适与转化本土经验**
->   政策转译贯穿政策流动的全流程，在制度真正落地之前，各方早在国际峰会、智库研讨与多边谈判中便已展开角力与重构；南方行动者把扎根民间的实践提炼为代表性知识，依托政策大使在国际舞台的斡旋游说，将本土做法与外部要素灵活拼贴，打造出被国际社会认可的新型公共产品。
+>   [[Policy Translation|政策转译]]贯穿政策流动的全流程，在制度真正落地之前，各方早在国际峰会、智库研讨与多边谈判中便已展开角力与重构；南方行动者把扎根民间的实践提炼为代表性知识，依托政策大使在国际舞台的斡旋游说，将本土做法与外部要素灵活拼贴，打造出被国际社会认可的新型公共产品。
 > - **结论：多向循环彻底打破了单向依附的旧格局**
 >   过去西方单向输出、南方被动接受的线性借鉴模式被彻底终结，政策知识在地方基层、国家部委、南南多边网络以及主流国际组织之间多向穿梭、横向交融，构建起去中心化的全球治理新秩序。
 

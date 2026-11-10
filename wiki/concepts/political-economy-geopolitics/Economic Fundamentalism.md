@@ -5,7 +5,7 @@ aliases:
 summary: "指将自由市场机制与经济效率上升为解释并裁决人类一切社会生活、制度安排与道德伦理的最高自明法则；在跨国教育政策中，将教育公平窄化为形式上的学校准入，将性别平权简化为盘活女性劳动力的减贫工具，将社会资本残余化为社会维稳手段，抽空了实质社会正义的批判核心。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 24
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -16,12 +16,14 @@ tags:
   - educational-justice
   - equity
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Social Imaginary]]"
   - "[[Epistemology]]"
   - "[[Public Value]]"
   - "[[Return on Investment]]"
   - "[[Paradigm]]"
+  - "[[Quasi-market]]"
   - "[[Credential Inflation]]"
   - "[[Discourse]]"
   - "[[Cultural Capital]]"
@@ -49,13 +51,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Economic Fundamentalism
-> **经济基要主义（Economic Fundamentalism）** 由金融家兼社会思想家乔治·索罗斯（George Soros, 1998）提出，指一种将未受约束的自由市场机制与经济效率最大化教条上升为裁决人类一切制度安排、公共政策与伦理道德的最高自明法则的意识形态倾向。在跨国教育政策分析中，[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard, 2009）将其识别为[[OECD|经合组织]]（OECD）[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]的核心[[Epistemology|认识论]]棱镜：该组织虽然仍频繁使用诸如“公平”、“包容”与“社会资本”等伦理词汇，但已彻底将其置于经济基要主义框架下重构——平等被降格为形式上的学校准入，性别平权被简化为盘活女性劳动力的减贫手段，社会资本则被残余化为维护生产秩序的维稳工具，从而彻底剥离了传统社会民主主义所追求的实质正义与民主反思核心。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–450)]]
+> **经济基要主义（Economic Fundamentalism）** 由金融家兼社会思想家乔治·索罗斯（George Soros, 1998）提出，指一种将未受约束的自由市场机制与经济效率最大化教条上升为裁决人类一切制度安排、公共政策与伦理道德的最高自明法则的意识形态倾向。在[[Transnational Education|跨国教育]]政策分析中，[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard, 2009）将其识别为[[OECD|经合组织]]（OECD）[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]的核心[[Epistemology|认识论]]棱镜：该组织虽然仍频繁使用诸如“公平”、“包容”与“社会资本”等伦理词汇，但已彻底将其置于经济基要主义框架下重构——平等被降格为形式上的学校准入，性别平权被简化为盘活女性劳动力的减贫手段，社会资本则被残余化为维护生产秩序的维稳工具，从而彻底剥离了传统社会民主主义所追求的实质正义与民主反思核心。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–450)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向将一切社会伦理与[[Public Value|公共价值]]强制折算为市场效率与[[Human Capital Theory|人力资本]][[Return on Investment|投资回报]]的教条化思维。
@@ -79,7 +81,7 @@ updated: 2026-11-03
 > |---|---|---|---|
 > | 理论性质 | 规范性意识形态与批判概念 | 经济学生产与投资实证理论 | 宏观制度规制与主体重塑[[Paradigm\|范式]] |
 > | 对平等的定性 | 将平等重构为避免人力浪费的效率工具 | 将教育机会视作劳动生产率的投入要素 | 将个体均质化为自主负责的竞争微观企业 |
-> | 处理社会议题方式 | 语义掏空与技术化收编 | 测算[[Return on Investment\|投资回报率]]与技能外溢性 | 引入准市场机制与合同绩效管理 |
+> | 处理社会议题方式 | 语义掏空与技术化收编 | 测算[[Return on Investment\|投资回报率]]与技能外溢性 | 引入[[Quasi-market\|准市场机制]]与合同绩效管理 |
 > | 核心盲区 | 无法正视非功利的民主公民伦理价值 | 忽视[[Credential Inflation\|文凭通胀]]与结构性劳动力壁垒 | 掩盖社会断裂并加剧个体不安全感 |
 
 ---

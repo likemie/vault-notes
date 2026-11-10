@@ -9,7 +9,7 @@ summary: "越裔法国著名比较教育学家与经济学家，巴黎第五大�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Discipline-Based Theory]]"
   - "[[Paradigm]]"
   - "[[Development Education]]"
+  - "[[Early-Career Researchers]]"
   - "[[Ontology]]"
   - "[[Critical Thinking Disposition]]"
 related_theories:
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-01
+updated: 2026-11-11
 ---
 
 ---
@@ -68,7 +69,7 @@ updated: 2026-10-01
 > - **1923** 出生于法属印度支那时期的越南河内知识分子家庭，早年浸润于儒家古典典籍与法兰西启蒙思想。
 > - **1940s 末** 赴法国巴黎求学，先后在巴黎大学攻读法学、经济学、文学与政治学，获法学与经济学国家博士学位。
 > - **1950s–1960s** 受聘为巴黎第一大学经济与社会发展研究所（IEDES）研究员，致力于亚非新兴独立国家的教育规划、[[Human Capital Theory|人力资本]]与发展经济学研究，多次受[[UNESCO|联合国教科文组织]]委派前往非洲与东南亚开展教育考察。
-> - **1970s** 晋升为巴黎第五大学（勒内·[[René Descartes|笛卡尔]]大学）终身教授，主讲比较教育学与教育社会学，培养了大批来自第三世界及欧洲的青年学者。
+> - **1970s** 晋升为巴黎第五大学（勒内·[[René Descartes|笛卡尔]]大学）终身教授，主讲比较教育学与教育社会学，培养了大批来自第三世界及欧洲的[[Early-Career Researchers|青年学者]]。
 > - **1981** 出版法兰西学派奠基巨著《比较教育》（*L'Éducation comparée*），引发全球学术界热烈反响，确立其世界级学术声誉。
 > - **1991** 出版理论专著《教育：文化与社会》（*L'Éducation: cultures et sociétés*），进一步将比较研究推向文明形态学的高度。
 > - **2024** 逝世于法国巴黎，享年 101 岁。

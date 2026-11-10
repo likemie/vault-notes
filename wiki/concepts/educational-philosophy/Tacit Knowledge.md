@@ -9,10 +9,10 @@ aliases:
 summary: "由迈克尔·波兰尼（Michael Polanyi）提出、福雷与伦德瓦尔（Foray & Lundvall）引入知识经济学的认识论概念。指植根于个体实践行动、经验感知与身体机能之中，难以用形式化语言、符号或数字完全编码和传授的个人知识；在数字时代与编码知识形成互补，成为决定持续学习力与创新能力的核心资本。"
 type: concept
 domain: "educational-philosophy"
-related_count: 48
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 54
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - concept
   - epistemology
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Epistemic Governance]]"
   - "[[Geopolitics]]"
   - "[[Knowledge Power]]"
+  - "[[Transnational Education]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Intellectual Capital]]"
   - "[[Lifelong Learning]]"
@@ -41,15 +42,17 @@ related_concepts:
   - "[[Evidence-Based Policy-Making]]"
   - "[[Technical Rationality]]"
   - "[[Phronesis]]"
-  - "[[Policy Mobility]]"
   - "[[Objectivism]]"
   - "[[Problem Solving]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Policy Mobility]]"
   - "[[Geopolitics of Higher Education]]"
+  - "[[Policy Translation]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Determinism]]"
   - "[[Epistemic Stances]]"
   - "[[Powerful Knowledge]]"
+  - "[[Concept Mapping]]"
 related_theories:
   - "[[Epistemic Injustice]]"
   - "[[Phenomenology]]"
@@ -59,6 +62,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Qualitative Research]]"
+  - "[[Qualitative Interview]]"
   - "[[Interpretive Policy Analysis]]"
 related_instruments: []
 related_persons:
@@ -75,10 +79,12 @@ related_arguments:
   - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Stone_2020_PolSoc]]"
+  - "[[Argument_Volmari_2025_CE]]"
+  - "[[Argument_Barrenechea_2023_JEC]]"
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 ---
@@ -118,7 +124,7 @@ updated: 2026-11-10
 > - **不可完全编码性（Inarticulability）** 个体在进行精熟判断与操作时所调动的多维线索超越了语言符号的承载能力，无法被穷尽表述为公理规则。
 > - **实践导向性（Action-Orientation）** 核心指向“如何做”（know-how）与“与谁协作”（know-who），而非孤立的客观事实储备（know-what）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 > - **动态转化潜能（SECI 转化动力）** 尽管难以完全编码，默会知识仍可通过观察模仿（社会化）和实践反思（外显化）与编码知识形成动态互生循环。
-> - **全球[[Epistemic Governance|知识治理]]与[[Geopolitics|地缘政治]]动员中的隐性知识（Tacit Knowledge in Global Governance & [[Knowledge Power]]）** 在跨国高等教育与[[Knowledge Diplomacy|知识外交]]中，隐性知识体现为制度性惯例、非正式网络规范与文化交往直觉，难以被直接文本化或条约化，却深刻制约着跨国科研协作与政策学习成效。国家与多边机构通过构建“知识网络”，不仅流通显性学术成果，更动员隐性[[Intellectual Capital|知识资本]]以确立治理议程的结构性主导权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
+> - **全球[[Epistemic Governance|知识治理]]与[[Geopolitics|地缘政治]]动员中的隐性知识（Tacit Knowledge in Global Governance & [[Knowledge Power]]）** 在[[Transnational Education|跨国高等教育]]与[[Knowledge Diplomacy|知识外交]]中，隐性知识体现为制度性惯例、非正式网络规范与文化交往直觉，难以被直接文本化或条约化，却深刻制约着跨国科研协作与政策学习成效。国家与多边机构通过构建“知识网络”，不仅流通显性学术成果，更动员隐性[[Intellectual Capital|知识资本]]以确立治理议程的结构性主导权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
 
 ---
 
@@ -151,7 +157,7 @@ updated: 2026-11-10
 > **治理边缘草根默会知识对全球正统教条的反向重构** 戴安娜·斯通等（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）基于公共卫生减害政策跨国流动案例指出，传统技术官僚理性将政策简化为中央与国际机构自上而下颁布的标准化禁令。然而，基层实务人员在治理边缘就地探索出的针具交换与替代疗法等草根默会知识（Tacit Knowledge），通过跨国城市网络横向传播，逐步自下而上渗透至地方立法，最终迫使国家管理部门与国际多边组织修正既有禁令教条。这证明一线行动者的情境化实践默会知识不仅具有独立的合法性，更能反向重塑被全球技术官僚垄断的正式制度规范。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 2–3, 5–6)]]
 
 > [!claim] [[Argument_Volmari_2025_CE|Volmari et al. (2025)]]
-> **行政职业默会知识对实证研究的隐性转译与合法化支撑** Volmari et al. （[[Argument_Volmari_2025_CE|2025, pp. 541–542]]）通过对芬兰国家课程改革起草官员的质性访谈证实，芬兰官方改革文本中同行评议学术期刊直接引用率极低（仅占 9.45%），但这并未削弱其决策公信力。文官在数十年公共服务与教育治理中积淀出深厚的行政默会知识（受访官员生动描述为“两耳之间片刻不停运转的思维团块”），能够依托这种内在认知框架自主鉴别、消化并隐性转译学术研究成果，使默会经验成为连接宏观学术证据与微观政策协商的隐性枢纽。
+> **行政职业默会知识对实证研究的隐性转译与合法化支撑** Volmari et al. （[[Argument_Volmari_2025_CE|2025, pp. 541–542]]）通过对芬兰国家课程改革起草官员的[[Qualitative Interview|质性访谈]]证实，芬兰官方改革文本中同行评议学术期刊直接引用率极低（仅占 9.45%），但这并未削弱其决策公信力。文官在数十年公共服务与教育治理中积淀出深厚的行政默会知识（受访官员生动描述为“两耳之间片刻不停运转的思维团块”），能够依托这种内在认知框架自主鉴别、消化并隐性转译学术研究成果，使默会经验成为连接宏观学术证据与微观政策协商的隐性枢纽。
 
 ---
 
@@ -169,9 +175,9 @@ updated: 2026-11-10
 > - **1990 年代初 — 管理学与组织学习扩展** 野中郁次郎（Ikujiro Nonaka）等学者提出著名的 SECI 模型，将默会知识与显性知识的相互转化确立为企业知识创造与创新的核心机制。
 > - **1996 年 — 跨国政策与学习型经济融合** [[Dominique Foray|福雷]]与[[Bengt-Åke Lundvall|伦德瓦尔]]为[[OECD|经合组织]]撰写《[[Knowledge-Based Economy|知识经济]]中的教育与增长》，将默会知识确立为国家构建“学习型经济”的战略要素，直接催生了经合组织的“全员[[Lifelong Learning|终身学习]]”政策框架。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 > - **2000 年代至今 — 跨国素养测评与能力本位转向** 经合组织将默会技能的测量转化为[[PISA|国际学生评估项目]]（PISA）中脱离学科大纲的[[Problem Solving|问题解决能力]]与综合素养，推动全球课程体系的[[Pragmatic Paradigm|实用主义]]重构。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–447)]]
-> - **2020 年 — 跨国政策流动与治理边缘草根默会知识反向重构** [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] 结合拉美减害政策跨界扩散，揭示一线实务团队的实践默会知识如何打破中心-边缘依附，自下而上重构全球正统政策规范（pp. 2–6）。
+> - **2020 年 — 跨国[[Policy Mobility|政策流动]]与治理边缘草根默会知识反向重构** [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] 结合拉美减害政策跨界扩散，揭示一线实务团队的实践默会知识如何打破中心-边缘依附，自下而上重构全球正统政策规范（pp. 2–6）。
 > - **2020年代 — 向全球[[Epistemic Governance|知识治理]]与地缘战略动员的扩展** [[Knowledge Diplomacy|知识外交]]与[[Geopolitics of Higher Education|高等教育地缘政治]]学者将隐性知识引入跨国[[Knowledge Power|知识权力]]分析，揭示国际知识网络与多边制度规范如何依托隐性文化交往和治理惯例进行跨国传播与非对称动员。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
-> - **2025 年 — 行政官僚默会知识与隐性政策转译实证** [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] 结合芬兰基础教育改革案例，实证揭示文官群体积淀的深层行政默会知识如何替代形式化显性引文，成为政策制定中自主吸收与转译学术研究的核心中介（pp. 541–542）。
+> - **2025 年 — 行政官僚默会知识与隐性[[Policy Translation|政策转译]]实证** [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] 结合芬兰基础教育改革案例，实证揭示文官群体积淀的深层行政默会知识如何替代形式化显性引文，成为政策制定中自主吸收与转译学术研究的核心中介（pp. 541–542）。
 > - **2026 年 — 证据生态治理中实践默会知识的边缘化与认识论正义** [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] 揭示超国家循证治理将证据严谨性等同于量化实验与元分析，系统排斥一线教师的实践默会知识与本土传统；主张确立认识论正义，赋予社区与教师实践默会知识合法地位（pp. 347–350）。
 
 ---
@@ -195,8 +201,8 @@ updated: 2026-11-10
 
 ---
 
-> [!entry-map] 概念图谱
-> - 上位概念：[[Epistemology|认识论]] · [[Knowledge-Based Economy|知识经济]] · [[Learning Theory|学习理论]]
+> [!entry-map] [[Concept Mapping|概念图]]谱
+> - 上位概念：[[Epistemology|认识论]] · [[Knowledge-Based Economy|知识经济]] · 学习理论
 > - 核心维度：具身性 · 情境嵌入 · 不可完全编码性 · 实践反思 · 个人知识
 > - 对应/辨析概念：编码知识 · [[Procedural Knowledge|程序性知识]] · [[Phronesis|实践智慧]] · 形式化规则
 > - 治理与转化应用：[[Apprenticeship|学徒制]] · SECI 模型 · [[Evidence-Based Policy-Making|循证政策制定]] · [[Technical Rationality|技术理性]]批判

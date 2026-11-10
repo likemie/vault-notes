@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -47,6 +47,7 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Ethnography]]"
+  - "[[Journal Impact Factor]]"
 related_instruments: []
 related_persons:
   - "[[Ian Menter]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -134,7 +135,7 @@ updated: 2026-10-26
 > > - **BERA 学术共同体立场** 坚决抵制将教育研究退化为纯粹的技术工具，强调[[Critical Theory\|批判理论]]、历史研究、教育哲学与质性[[Ethnography\|民族志]]对维护教育民主价值不可替代的意义。
 >
 > > [!axis] 英国卓越研究框架（REF）问责压力与一线实践脱节
-> > 英国高校普遍推行的 REF 评估体系高度考核顶级学术发表，促使许多学者将精力集中于高影响因子理论论文，而非深入中小学开展繁复的转化协作。
+> > 英国高校普遍推行的 REF 评估体系高度考核顶级学术发表，促使许多学者将精力集中于高[[Journal Impact Factor|影响因子]]理论论文，而非深入中小学开展繁复的转化协作。
 > >
 > > - **一线学校代表** 指责部分高校研究者高居象牙塔，忽视学校面临的日常棘手挑战。
 > > - **BERA 政策应对** 设立专门的公共影响奖项与[[Seed Funding|种子基金]]，系统推动高校与学区建立长期“[[Research-Practice Partnership\|研究-实践伙伴关系]]”（RPP）。

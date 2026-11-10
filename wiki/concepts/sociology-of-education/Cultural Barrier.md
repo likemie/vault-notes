@@ -6,10 +6,10 @@ aliases:
 summary: "弱势背景学生因缺乏精英大学默认要求的文化知识与文化技能而遭遇的无形障碍，会同时限制向上流动机会与主观自我认同"
 type: concept
 domain: "sociology-of-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - cultural-barrier
   - higher-education
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"
+  - "[[Professional Interest]]"
   - "[[Value Conformist Mode]]"
   - "[[Reflexivity]]"
   - "[[Social Engagement]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-05-08
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 > [!info] 定义
@@ -106,7 +107,7 @@ updated: 2026-10-30
 
 - **[[Habitus|习性]]裂化** 寒门学子既脱离原来生长的环境，接触了许多新鲜观念和事物；又在名校新获得的身份和自我认知不断被原先的自我和社会关系所干扰，自我认同时刻处于不稳定或撕裂状态——"产生一种习性分裂的体验"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Bourdieu, 1999, p.511）
 - **文化知识的缺失** 不了解精英大学和劳动力市场中的"游戏规则"，不清楚如何为自身发展赢得优势，也不倾向于对外寻求帮助（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Lareau, 2015; Calarco, 2011）
-- **价值感混乱与投入无方向** 价值感的混乱和无规划的投入容易导致直觉依赖者在毕业前夕迷失无从，陷入无准备状态。寒门学子应对的策略常常是固守自己熟悉的学业成功，而放弃所不熟悉的课外社会性活动，容易在未经仔细省察真正志趣前就匆忙踏上直升研究生或博士的道路([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+- **价值感混乱与投入无方向** 价值感的混乱和无规划的投入容易导致直觉依赖者在毕业前夕迷失无从，陷入无准备状态。寒门学子应对的策略常常是固守自己熟悉的学业成功，而放弃所不熟悉的课外社会性活动，容易在未经仔细省察真正[[Professional Interest|志趣]]前就匆忙踏上直升研究生或博士的道路([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 ### 两重障碍的关系
 

@@ -9,7 +9,7 @@ aliases:
 summary: "混合方法研究中研究者从联合展示分析中得出的整合性洞察，过程是先分别得出量化推论和质性推论，再基于两者的组合得出超越单一数据类型的额外推论"
 type: concept
 domain: "research-methodology"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Variable]]"
   - "[[Document]]"
+  - "[[Homophily]]"
   - "[[Construct Validity]]"
   - "[[Order Effects]]"
   - "[[Reliability]]"
@@ -37,7 +38,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-02
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-10-30
 > [!proc] 在联合展示中提取元推论的操作流程
 > 1. **添加元推论列** 在[[Joint Display\|联合展示]]表格中添加专门的"元推论"列或行，为跨数据库比较的洞察预留空间
 > 2. **沿行检视** 比较不同得分水平组在同一质性主题上的差异——如"高分组在中分组和低分组之间在某主题上有什么不同？"
-> 3. **沿列检视** 比较同一得分水平组在不同质性主题之间的差异——如"高分组在四个主题之间有什么差异？"
+> 3. **沿列检视** 比较同一得分水平组在不[[Homophily|同质性]]主题之间的差异——如"高分组在四个主题之间有什么差异？"
 > 4. **记录洞察** 将跨数据库检视得出的洞察记录在元推论单元格中
 > 5. **报告整合结果** 这些洞察构成混合方法的整合分析结果，可放入研究报告的结果部分或讨论部分
 

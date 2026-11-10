@@ -7,9 +7,9 @@ title: "Argument_Rickinson_2022_UsingResearchWell"
 argument_key: "Argument_Rickinson_2022_UsingResearchWell"
 argument_display_title: "Using research well in educational practice"
 argument_kind: "book-chapter"
-argument_related_count: 38
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
 authors:
   - "[[Mark Rickinson|Rickinson, M.]]"
@@ -41,11 +41,13 @@ sources:
 related_concepts:
   - "[[International Education]]"
   - "[[Research Utilization]]"
+  - "[[Appropriate Research]]"
   - "[[School Leadership]]"
   - "[[Professional Learning Community]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Professional Judgment]]"
   - "[[Evidence Ecosystem]]"
+  - "[[Thoughtful Engagement]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Construct]]"
@@ -82,7 +84,7 @@ related_facts:
   - "[[Early Steps]]"
 status: draft
 created: 2026-09-14
-updated: 2026-10-29
+updated: 2026-11-11
 ---
 ---
 
@@ -90,7 +92,7 @@ updated: 2026-10-29
 > [[International Education\|国际教育]]改革长期聚焦于何谓高质量证据的争论，却极度忽视了何谓[[Quality Use of Research Evidence Framework\|高质量研究使用]]的探讨；在学校实践情境中，究竟怎样才算用好研究证据，一线教育工作者如何理解与践行高质量[[Research Utilization\|研究使用]]，以及学校与教育系统需要提供何种针对性支持？（pp.182–183）
 
 > [!claim] 核心主张
-> 教育研究利用的重心必须从单纯关注研究证据的生产与供给（Push），转向深耕实践端对适切证据的审慎参与和实施（Pull）；高质量研究使用不仅取决于恰当的研究证据与深思熟虑的行动整合，更有赖于个体素养心智、[[School Leadership\|学校领导力]]与互信文化、专业学习机制，以及破除时间匮乏困境的系统性制度保障。（pp.183–185, 193–195）
+> 教育研究利用的重心必须从单纯关注研究证据的生产与供给（Push），转向深耕实践端对[[Appropriate Research|适切证据]]的审慎参与和实施（Pull）；高质量研究使用不仅取决于恰当的研究证据与深思熟虑的行动整合，更有赖于个体素养心智、[[School Leadership\|学校领导力]]与互信文化、专业学习机制，以及破除时间匮乏困境的系统性制度保障。（pp.183–185, 193–195）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 澳大利亚 4 个州（新南威尔士州［New South Wales, NSW］、维多利亚州［Victoria, VIC］、昆士兰州［Queensland, QLD］、南澳大利亚州［South Australia, SA］）公立、天主教与独立私立学校的 906 名一线教师与学校领导者。
@@ -107,7 +109,7 @@ updated: 2026-10-29
 > | **证据生态系统**<br>[[Evidence Ecosystem]] | 统摄研究生成、综合、传播与终端使用动态交互的系统论透镜，审视学校外部制度环境对微观实践的塑造。（pp.188–189） |
 
 > [!warrant]- 理论如何支撑论证
-> QURE 框架打破了以往只关注证据本身质量（Quality of Evidence）的单一学术供给偏误，将视线转向[[Research Utilization\|证据使用]]质态（Quality of Use）。框架以适切研究证据（Appropriate Research Evidence）与审慎参与及实施（Thoughtful Engagement and Implementation）为互构内核，向上承接个体层面（技能、心智、关系）与组织层面（领导、文化、基础架构）的使能构件，向下贯通外层政治与制度环境。这一框架为剖析一线教育者的经验认知、诊断实践障壁与设计校级支持系统提供了完整的分析坐标。（pp.184–189）
+> QURE 框架打破了以往只关注证据本身质量（Quality of Evidence）的单一学术供给偏误，将视线转向[[Research Utilization\|证据使用]]质态（Quality of Use）。框架以适切研究证据（Appropriate Research Evidence）与审慎参与及实施（[[Thoughtful Engagement]] and Implementation）为互构内核，向上承接个体层面（技能、心智、关系）与组织层面（领导、文化、基础架构）的使能构件，向下贯通外层政治与制度环境。这一框架为剖析一线教育者的经验认知、诊断实践障壁与设计校级支持系统提供了完整的分析坐标。（pp.184–189）
 
 > [!index-table] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |

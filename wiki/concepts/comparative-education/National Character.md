@@ -9,7 +9,7 @@ aliases:
 summary: "20世纪经典比较教育学用于解释国家教育制度独特性与内在精神的核心构念。在当代政治哲学与科技地缘政治中，进一步延伸为超越狭隘族裔血统的开放国民性格，作为凝聚跨阶层陌生人、抵抗原子化碎片与消费主义虚无的国家认同基石。"
 type: concept
 domain: "comparative-education"
-related_count: 26
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,10 +24,12 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Construct]]"
   - "[[Heterogeneity]]"
+  - "[[Nationalism]]"
   - "[[Determinism]]"
   - "[[Intangible Spiritual Forces]]"
   - "[[Technological Republic]]"
   - "[[Independent Variable]]"
+  - "[[Transnational Education]]"
   - "[[Whiggism]]"
   - "[[Causality]]"
   - "[[Positivism]]"
@@ -55,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-06
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -69,7 +71,7 @@ updated: 2026-11-03
 > - **边界** 必须警惕滑向种族本质主义与同义反复；健康的国民性格指向开放、包容与追求公共善的政治认同，而非封闭排他的血统宗派教条。
 
 > [!citation-card] 国民性构念的经典表述与制度外化
-> 萨德勒指出，国家教育制度是一个活的有机体，是昔日被遗忘的艰难抗争与战火的结晶，蕴藏着民族生活的隐秘运作；它既反映又试图救治国民性格的缺陷。坎德尔进一步强调，若不探寻作为教育体系基石的民族主义与国民性格，比较教育便毫无意义；每一国家教育系统都代表着创建该系统的民族特性，表达了构成该民族群体的独特禀赋——每个国家都拥有它所渴望或配得上的教育体系。汉斯亦宣称，国家教育体系如同宪法或文学，是国民性格的外部表达。马林森则将教育定义为国民性格的函数，即特定人群在思想、情感与行为上代代相传的特有倾向总和。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 40–41)]]
+> 萨德勒指出，国家教育制度是一个活的有机体，是昔日被遗忘的艰难抗争与战火的结晶，蕴藏着民族生活的隐秘运作；它既反映又试图救治国民性格的缺陷。坎德尔进一步强调，若不探寻作为教育体系基石的[[Nationalism|民族主义]]与国民性格，比较教育便毫无意义；每一国家教育系统都代表着创建该系统的民族特性，表达了构成该民族群体的独特禀赋——每个国家都拥有它所渴望或配得上的教育体系。汉斯亦宣称，国家教育体系如同宪法或文学，是国民性格的外部表达。马林森则将教育定义为国民性格的函数，即特定人群在思想、情感与行为上代代相传的特有倾向总和。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 40–41)]]
 >
 > *A national system of education is a living thing, the outcome of forgotten struggles and difficulties and of battles long ago. It has in it some of the secret workings of national life. It reflects, while seeking to remedy, the failings of national character. ... each national system of education is characteristic of the nation which created it and expresses something peculiar to the group which constitutes that nation; to put it another way, each nation has the educational system that it desires or that it deserves. ... National systems of education as well as national constitutions or national literatures are the outward expression of national character... education 'is a function of national character', which he defined as 'the totality of dispositions to thought, feeling and behavior peculiar to and widespread in a certain people...'*
 
@@ -120,7 +122,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题一｜国民性格被经典学派预设为决定国家教育制度独特性与内在精神的[[Independent Variable|自变量]]
-> **文化[[Determinism|决定论]]因果机制** 探讨经典学派如何将深层民族文化心理设定为外在教育制度形式的根本决定源泉，确立解释跨国教育[[Heterogeneity|异质性]]的理论链条。
+> **文化[[Determinism|决定论]]因果机制** 探讨经典学派如何将深层民族文化心理设定为外在教育制度形式的根本决定源泉，确立解释[[Transnational Education|跨国教育]][[Heterogeneity|异质性]]的理论链条。
 
 > [!claim] [[Isaac Kandel|Kandel, I. L.]]
 > **国民文化心理塑造国家教育组织特征** 坎德尔论证指出，英国教育之所以表现出缺乏系统性与松散自由的突出特征，根本原因在于英国人的国民心理特质偏好经验试错而排斥先验规划；相反，法国教育所展现出的严密逻辑、中央集权与秩序规划，则是法国人热爱纯粹思想推演与条理秩序的国民性格的必然产物。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, p. 55)]]

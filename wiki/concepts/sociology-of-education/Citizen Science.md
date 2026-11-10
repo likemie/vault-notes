@@ -10,7 +10,7 @@ aliases:
 summary: "公众自愿、直接参与科学研究全生命周期（从数据采集、模式分类到议程共创与政策转化）的协作科研范式，兼具突破科研时空瓶颈、赋权公众科学资本与民主化重大使命创新方向的多维价值。"
 type: concept
 domain: "sociology-of-education"
-related_count: 35
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -33,13 +33,11 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Nature of Science]]"
   - "[[Self-Efficacy]]"
-  - "[[Knowledge Production]]"
   - "[[Research Problem]]"
   - "[[Science Programs]]"
   - "[[Epistemology]]"
   - "[[Homework]]"
   - "[[Scientific Literacy]]"
-  - "[[Document]]"
 related_theories: []
 related_facts:
   - "[[Big Butterfly Count]]"
@@ -49,6 +47,7 @@ related_facts:
   - "[[EU]]"
   - "[[Horizon Europe]]"
   - "[[The Royal Society]]"
+  - "[[Web of Science]]"
   - "[[Wellcome Trust]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
@@ -64,7 +63,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
@@ -157,7 +156,7 @@ updated: 2026-11-03
 > > 争论传统学术资助评审机制能否适应[[Participatory Research|参与式研究]]的长期性与不确定性。
 > >
 > > - **体制困境** 高校与资助机构长期缺乏对[[Participatory Research|参与式研究]]（Participatory Research）的长期稳定支持，多依赖 1 至 2 年短期拨款，极易损伤在地社区的合作信任。
-> > - **政策建言** [[The Royal Society|英国皇家学会]]与创新政策学者呼吁为战略性公民科学网络设立多年期定向竞争专款（Ring-fenced Multi-year Funding），并系统建立参与式科研伦理规范与研究者培训体系。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 102)]]
+> > - **政策建言** [[The Royal Society|英国皇家学会]]与创新政策学者呼吁为战略性公民[[Web of Science|科学网]]络设立多年期定向竞争专款（Ring-fenced Multi-year Funding），并系统建立参与式科研伦理规范与研究者培训体系。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 102)]]
 
 ---
 

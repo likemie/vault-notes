@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 74
+fact_related_count: 75
 fact_related_level: 7
 fact_related_stars: "💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -105,10 +105,12 @@ related_arguments:
   - "[[Argument_Murphy_2026_JTS]]"
   - "[[Argument_Fan_2026_BCAS]]"
 related_methods: []
+related_persons:
+  - "[[Francis Bacon]]"
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-26
+updated: 2026-11-11
 ---
 
 ---
@@ -146,7 +148,7 @@ updated: 2026-10-26
 >   - **国防与友岸外包专项基金** 设立 20 亿美元国防专用半导体基金与 5 亿美元国际技术安全与创新基金（ITSI Fund）。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 98)]]
 > - **全流程刚性约束机制（[[Policy Conditionalities]]）**
 >   - **国家安全十年护栏条款（National Security Guardrails）** 凡接受直接补贴的企业，在获得资金后 10 年内严禁在关切国家（特别是中国）大幅扩建或新建先进制程制造产能（扩产上限 5%），违者全额追回联邦补贴；[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 97)]]
->   - **社会政策附加条款与[[Public Value|公共价值]]护栏** 申请直接补贴超过 1.5 亿美元的企业必须提交为员工及施工人员提供可负担高质量托儿服务的方案；必须遵守法定劳工标准并全额支付符合《戴维斯-培根法》（Davis-Bacon Act）的现行体面工资（Prevailing Wages）；[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–9)]]
+>   - **社会政策附加条款与[[Public Value|公共价值]]护栏** 申请直接补贴超过 1.5 亿美元的企业必须提交为员工及施工人员提供可负担高质量托儿服务的方案；必须遵守法定劳工标准并全额支付符合《戴维斯-[[Francis Bacon|培根]]法》（Davis-Bacon Act）的现行体面工资（Prevailing Wages）；[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–9)]]
 >   - **资本再分配纪律与超额利润分享** 严禁将联邦补贴资金用于股票回购（Share buybacks）或向股东发放股息分红；要求受助企业与联邦政府分享超出预定门槛的超额商业利润；由美国国家标准与技术研究院（NIST）行使全周期合规监督、中止拨付与资金追缴权力。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 14–15)]]
 
 > [!citation-card] 芯片法案的资金规模与护栏约束

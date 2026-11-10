@@ -9,7 +9,7 @@ aliases:
 summary: "主张解构传统民族国家主权边界、国家正典与共享爱国认同，转向跨国制度治理、宪政爱国主义或普遍世界主义的政治思潮。当代战略现实主义批评指出，后国家主义过早消解国家文化不仅未能带来理性博爱，反而制造了公共道德真空，让位给消费主义分层与部落化撕裂，并严重瓦解了民主政体的防卫硬实力意志。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
   - theme/nation-building
   - theme/civic-religion
 related_concepts:
+  - "[[Nationalism]]"
   - "[[Cosmopolitanism]]"
   - "[[Discourse]]"
   - "[[Everyday Plebiscite]]"
@@ -46,13 +47,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-11-03
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Post-Nationalism
-> **后国家主义（Post-Nationalism）** 是一种主张在政治、法律与文化维度逐步超越和解构传统民族国家（Nation-State）合法性边界的规范性政治哲学与社会思潮。它认为传统的国家认同与爱国叙事具有内在的排他性、沙文主义和道德危险性，主张将公民忠诚转向超国家制度联合体、程序性宪政法权或去中心化的多元[[Cosmopolitanism|世界主义]]。在当代地缘战略与政治哲学反思中，该思潮因系统性消解了国家共同体的精神凝聚力、造成公共道德真空并削弱民主阵营防卫威慑力而面临重大危机。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 191–194, 198–204)]]
+> **后国家主义（Post-[[Nationalism]]）** 是一种主张在政治、法律与文化维度逐步超越和解构传统民族国家（Nation-State）合法性边界的规范性政治哲学与社会思潮。它认为传统的国家认同与爱国叙事具有内在的排他性、沙文主义和道德危险性，主张将公民忠诚转向超国家制度联合体、程序性宪政法权或去中心化的多元[[Cosmopolitanism|世界主义]]。在当代地缘战略与政治哲学反思中，该思潮因系统性消解了国家共同体的精神凝聚力、造成公共道德真空并削弱民主阵营防卫威慑力而面临重大危机。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 191–194, 198–204)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向对传统国家主权、民族神话与集体历史大叙事的系统性祛魅与制度超越。

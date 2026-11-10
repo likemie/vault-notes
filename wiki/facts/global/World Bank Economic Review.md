@@ -10,9 +10,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 21
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1986–至今"
 initiator_organization: "世界银行发展经济学研究局（DEC）与牛津大学出版社（Oxford University Press）"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Cognitive Authority]]"
 related_theories: []
 related_methods:
+  - "[[Journal Impact Factor]]"
   - "[[Peer Debriefing]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Cost-Benefit Analysis]]"
@@ -49,18 +50,19 @@ related_facts:
   - "[[OECD]]"
   - "[[Chartered College of Teaching]]"
   - "[[Open Knowledge Repository]]"
+  - "[[Google Scholar]]"
 related_arguments:
   - "[[Argument_Zapp_2017_IJED]]"
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
 
 > [!claim] 项目定位
-> 《[[World Bank|世界银行]]经济评论》（The World Bank Economic Review, WBER）是 1986 年由[[World Bank|世界银行]][[Development Economics Vice Presidency|发展经济学研究局]]（DEC）创办、牛津大学出版社（Oxford University Press）联合出版的旗舰同行评审学术期刊。该刊物是发展经济学与跨国公共政策领域全球发行量与学术引文影响力最高的核心期刊之一（5 年影响因子 2.48），在迈克·扎普（Mike Zapp）构建的[[Epistemic Governance|认知治理]]框架中，被确立为世界银行在[[Knowledge Production|知识生产]]维度行使“发表研究（Publishing Research）”职能的最核心建制阵地。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 6)]]
+> 《[[World Bank|世界银行]]经济评论》（The World Bank Economic Review, WBER）是 1986 年由[[World Bank|世界银行]][[Development Economics Vice Presidency|发展经济学研究局]]（DEC）创办、牛津大学出版社（Oxford University Press）联合出版的旗舰同行评审学术期刊。该刊物是发展经济学与跨国公共政策领域全球发行量与学术引文影响力最高的核心期刊之一（5 年[[Journal Impact Factor|影响因子]] 2.48），在迈克·扎普（Mike Zapp）构建的[[Epistemic Governance|认知治理]]框架中，被确立为世界银行在[[Knowledge Production|知识生产]]维度行使“发表研究（Publishing Research）”职能的最核心建制阵地。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 6)]]
 
 > [!program-context] 项目背景
 > - **创刊时间与发行周期** 1986 年正式创刊，每年出版 3 至 4 期，常态化稳定发行至今。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 6)]]
@@ -103,7 +105,7 @@ updated: 2026-10-30
 ---
 
 > [!indicators] 评估指标体系
-> - **学术影响指标** 影响因子（Impact Factor, 5 年 IF 达 2.48）、Google Scholar 跨期引文总量、期刊在 JCR 发展研究领域的排位。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 6)]]
+> - **学术影响指标** 影响因子（Impact Factor, 5 年 IF 达 2.48）、[[Google Scholar]] 跨期引文总量、期刊在 JCR 发展研究领域的排位。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 6)]]
 > - **跨国扩散指标** 非 OECD 国家免费机构订阅规模（9,500+）、全球数字化下载频次。
 > - **政策议程渗透度** 期刊发表的研究成果被各国政府发展规划与世行贷款项目评估文件引述的比例。
 

@@ -7,7 +7,7 @@ summary: "英裔加拿大教育学家、心理学家，多伦多大学教育学�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Paradigm]]"
   - "[[International Education]]"
+  - "[[Transnational Education]]"
   - "[[Scientific Paradigm]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Document]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 ---
@@ -93,7 +94,7 @@ updated: 2026-10-22
 ---
 
 > [!citation-card] 贝雷迪论桑迪福德对比较教育大学制度化的奠基地位
-> [[George Bereday|乔治·贝雷迪]]在《比较教育评论》撰文考证，真正将比较教育转化为大学常规教学体制与学术发表阵地的标志性事件，正是 1918 年彼得·桑迪福德首部教材的问世；它将跨国教育材料从凌乱的政府报告升华为条理清晰的大学知识体系。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 122)]]
+> [[George Bereday|乔治·贝雷迪]]在《比较教育评论》撰文考证，真正将比较教育转化为大学常规教学体制与学术发表阵地的标志性事件，正是 1918 年彼得·桑迪福德首部教材的问世；它将[[Transnational Education|跨国教育]]材料从凌乱的政府报告升华为条理清晰的大学知识体系。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 122)]]
 
 ---
 

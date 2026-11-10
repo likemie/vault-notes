@@ -12,7 +12,7 @@ subtype: policy
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Educational Management Organisation]]"
   - "[[Mentorship]]"
+  - "[[Quasi-market]]"
   - "[[Policy Entrepreneur]]"
   - "[[Exogenous Privatisation]]"
   - "[[Public-Private Partnership]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -122,7 +123,7 @@ updated: 2026-11-02
 > > [!axis] 族群劣势修辞与新自由主义去规制化合谋
 > > 政策倡导者巧妙利用毛利与太平洋岛民学生长期存在的学业差距作为修辞武器，建构公立教育“系统性溃败”的危机叙事。
 > >
-> > - **[[Discourse|话语]]工具化解构** 批判社会学家揭示，右翼政客与商业智库表面上以“赋予弱势原住民自主选择权”为道德包装，实质上是借用族群平权话语打破新西兰教师工会（NZEI 与 PPTA）的集体谈判壁垒，推行彻底的劳动雇佣灵活性与去专业化，为跨国[[Educational Management Organisation|教育管理组织]]（EMO）与私立资本开辟不受监管的教育准市场。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 29–30)]]
+> > - **[[Discourse|话语]]工具化解构** 批判社会学家揭示，右翼政客与商业智库表面上以“赋予弱势原住民自主选择权”为道德包装，实质上是借用族群平权话语打破新西兰教师工会（NZEI 与 PPTA）的集体谈判壁垒，推行彻底的劳动雇佣灵活性与去专业化，为跨国[[Educational Management Organisation|教育管理组织]]（EMO）与私立资本开辟不受监管的[[Quasi-market|教育准市场]]。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 29–30)]]
 
 ---
 

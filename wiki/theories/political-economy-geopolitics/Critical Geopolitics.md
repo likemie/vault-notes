@@ -6,7 +6,7 @@ aliases:
 summary: "把地缘政治理解为由政治想象、话语和空间表述持续建构出来的批判理论，反对把领土秩序视为自然和既定事实"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 44
+theory_related_count: 47
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -41,8 +41,11 @@ related_concepts:
   - "[[Scale in Higher Education]]"
   - "[[Space Production]]"
   - "[[Epistemology]]"
+  - "[[Study Abroad]]"
   - "[[Knowledge Production]]"
+  - "[[Scientific Mobility]]"
   - "[[Operationalization]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Knowledge Power]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Corporate Education]]"
@@ -70,7 +73,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 > [!theory-position] 理论定位
@@ -122,8 +125,8 @@ updated: 2026-10-22
 > - **推导** 地缘政治知识从特定制度位置被生产（前提一） → 通过命名、分类和常识化操作，这些知识获得"客观分析"的地位并服务于特定利益（前提二） → 因此，地缘政治知识的权威来自于制度位置和话语权力，而非对客观世界更准确的把握——对任何自称客观的地缘政治知识，分析任务都是追问它从哪里被生产、服务于谁的利益、排除了谁的视角。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 11–12)]]
 
 > [!proposition-chain] 延伸命题
-> - **推论一（源自命题一，应用于高等教育）** 如果地缘政治秩序是话语建构的，那么参与建构的行动者就不限于民族国家。Dodds (2019, p. 36) 呼吁关注"人们的日常经验以及他们为应对地缘政治和地缘经济过程而采取的策略"；[[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] 在高等教育领域验证了这一扩展：亚洲中产家庭的留学决策在大规模上重塑了全球教育流动格局，个体的流动选择持续再生产着"全球北方 = 教育中心"的空间等级秩序。[[Argument_Rizvi_2022_Springer\|(Rizvi, 2022, pp. 90–91, 95–97)]]
-> - **推论二（源自命题二，应用于高等教育）** 高等教育从国家竞争的附属工具被重新纳入地缘政治分析的核心视野。大学通过人的培养（塑造何种[[Geopolitical Subject\|地缘政治主体]]）、[[Knowledge Production\|知识生产]]（界定何种知识被看见）、学术流动（筛选谁能流向何处）和跨境合作（编织何种空间关系网络），在日常层面持续参与空间意义的建构。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 12–13)]]
+> - **推论一（源自命题一，应用于高等教育）** 如果地缘政治秩序是话语建构的，那么参与建构的行动者就不限于民族国家。Dodds (2019, p. 36) 呼吁关注"人们的日常经验以及他们为应对地缘政治和地缘经济过程而采取的策略"；[[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] 在高等教育领域验证了这一扩展：亚洲中产家庭的[[Study Abroad|留学]]决策在大规模上重塑了全球教育流动格局，个体的流动选择持续再生产着"全球北方 = 教育中心"的空间等级秩序。[[Argument_Rizvi_2022_Springer\|(Rizvi, 2022, pp. 90–91, 95–97)]]
+> - **推论二（源自命题二，应用于高等教育）** 高等教育从国家竞争的附属工具被重新纳入地缘政治分析的核心视野。大学通过人的培养（塑造何种[[Geopolitical Subject\|地缘政治主体]]）、[[Knowledge Production\|知识生产]]（界定何种知识被看见）、[[Scientific Mobility|学术流动]]（筛选谁能流向何处）和跨境合作（编织何种空间关系网络），在日常层面持续参与空间意义的建构。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 12–13)]]
 > - **推论三（源自命题二，Moisio 的[[Knowledge-Based Economization\|知识经济化]]分析）** [[Argument_Moisio_2022_Springer\|Moisio (2022)]] 将命题二的分析逻辑整合进对[[Knowledge-Based Economization\|知识经济化]]的考察。核心发现：[[Fixity-Motion Tension\|固着-流动张力]]（Harvey 的核心悖论——资本需要地方锚定来促进流动，但流动又不断破坏既有空间配置）；[[Spatial Sortings\|空间分选]]（知识经济化将某些地点和人群置于发展中心，同时边缘化其他）；[[Geopolitical Subject\|地缘政治主体]]的生产（高等教育空间被用于塑造创新性、创业性、连接性的主体性）；以及 Porter 悖论——"竞争全球化看似使国家变得不那么重要，但实际上使其更加重要"。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, pp. 26–31)]]
 
 > [!exegesis]- 教育研究例子：上海家庭的留学决策
@@ -145,7 +148,7 @@ updated: 2026-10-22
 > - **作为理论框架** 将空间从"先验的自然容器"转向"流动的社会建构"，高等教育不再被视为发生于特定地点的教育活动，而被理解为持续参与空间生产与空间治理的制度性实践。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 12–13)]]
 > - **作为分析工具** 通过解构命名、分类和叙事实践，将看似自然的空间秩序（如排名等级、中心—边缘格局）还原为话语建构的产物；多尺度分析视角和空间生产、想象地理等建构论工具可用于[[Operationalization\|操作化]]这一解构过程。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 5–6, 11–12)]]
 > - **作为批判视角** 知识不再被视为[[Value Neutrality\|价值中立]]的认知成果，而被理解为嵌入特定历史—地理位置的权力表达形式。通过理论生产、学术规范与学科体系，某些认识框架得以普遍化，其他知识传统则被边缘化或去合法化。高等教育从国家竞争的附属工具被重新纳入[[Geopolitics|地缘政治分析]]的核心视野——大学被理解为重要的空间实践者，通过人的培养、[[Knowledge Production\|知识生产]]、学术流动与跨境合作主动参与空间意义的建构与权力关系的再生产。
-> - **报告方式** 写作时应先阐明采用的理论透镜（[[Constructivist Paradigm\|建构主义]]空间观），再展示经验材料如何通过该透镜被重新解读，最后将发现链接回对既有空间秩序的批判。
+> - **报告方式** 写作时应先阐明采用的[[Theoretical Standpoint|理论透镜]]（[[Constructivist Paradigm\|建构主义]]空间观），再展示经验材料如何通过该透镜被重新解读，最后将发现链接回对既有空间秩序的批判。
 
 ---
 

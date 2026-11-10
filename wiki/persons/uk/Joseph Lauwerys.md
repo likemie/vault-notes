@@ -7,7 +7,7 @@ summary: "英国首任比较教育教授（1947），欧洲比较教育学会首
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 32
+person_related_count: 35
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -23,7 +23,9 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[International Education]]"
   - "[[Dialogue in Education]]"
+  - "[[Nationalism]]"
   - "[[Epistemology]]"
+  - "[[Lecturing]]"
   - "[[Champ]]"
   - "[[Paradigm]]"
   - "[[Academic Iconography]]"
@@ -33,6 +35,7 @@ related_concepts:
   - "[[Comparative History of Comparative Education]]"
   - "[[Rationalism in International Relations]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
+  - "[[Transnational Education]]"
   - "[[Allgemeine Pädagogik]]"
 related_theories: []
 related_methods:
@@ -59,7 +62,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -93,10 +96,10 @@ updated: 2026-11-02
 ---
 
 > [!claim] 核心思想
-> 劳韦里斯将比较教育界定为服务于跨国理性和人类改善的合作事业。他倡导科学人道主义、民主理想与跨国理解的三位一体，主张跨国制度合作与[[Dialogue in Education|教育对话]]能够克服狭隘的民族主义与国家竞争焦虑；在政策咨询定位上，他提出著名的比较教育[[Navigation Metaphor in Comparative Education|航海隐喻]]，强调比较教育研究者应当如航海图与领航员般为决策者提供多维备选路线与风险预警，而非越俎代庖操舵干涉具体政治决断；这种审慎的咨询立场与索尔·罗宾松深度介入国家立法规划的激进改革取向形成鲜明对照；在[[Epistemology|认识论]]上，他践行教育作为横断学科的综合特征，拒绝文化主义学者对社会学的排斥立场，坚持以开放的社会科学视野与跨洲人际网络打破封闭的学术壁垒。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94–96)]]
+> 劳韦里斯将比较教育界定为服务于跨国理性和人类改善的合作事业。他倡导科学人道主义、民主理想与跨国理解的三位一体，主张跨国制度合作与[[Dialogue in Education|教育对话]]能够克服狭隘的[[Nationalism|民族主义]]与国家竞争焦虑；在政策咨询定位上，他提出著名的比较教育[[Navigation Metaphor in Comparative Education|航海隐喻]]，强调比较教育研究者应当如航海图与领航员般为决策者提供多维备选路线与风险预警，而非越俎代庖操舵干涉具体政治决断；这种审慎的咨询立场与索尔·罗宾松深度介入国家立法规划的激进改革取向形成鲜明对照；在[[Epistemology|认识论]]上，他践行教育作为横断学科的综合特征，拒绝文化主义学者对社会学的排斥立场，坚持以开放的社会科学视野与跨洲人际网络打破封闭的学术壁垒。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94–96)]]
 
 > [!citation-card] 跨洲思想连接与学术肖像反思
-> 贝雷迪与劳韦里斯在跨文化与跨大洲之间连接了人物与思想，并在各自机构、比较教育学会以及数代研究生中产生了深远影响，其卓越的讲课才能亦使他们在学科领域内享有盛誉。然而，这间接引出了一个更为广泛的历史学问题：我们并不真正理解自身的肖像学。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
+> 贝雷迪与劳韦里斯在跨文化与跨大洲之间连接了人物与思想，并在各自机构、比较教育学会以及数代研究生中产生了深远影响，其卓越的[[Lecturing|讲课]]才能亦使他们在学科领域内享有盛誉。然而，这间接引出了一个更为广泛的历史学问题：我们并不真正理解自身的肖像学。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
 >
 > *Both Bereday and Lauwerys linked persons and ideas across cultures and continents and for quite justifiable reasons... are well known in the [[Champ\|field]] of study; but they indirectly RAiSE a broader question. We do not understand our own iconographies.*
 
@@ -141,7 +144,7 @@ updated: 2026-11-02
 > | [[Dialogue in Education]] | 概念 | 倡导跨国学术与制度对话，以科学人道主义作为国际教育合作的伦理基石。 |
 > | [[Comparative Education Society in Europe]] | 事实 | 1961 年联合发起创立并担任首任主席，奠定欧洲比较教育区域学术共同体。 |
 > | [[Navigation Metaphor in Comparative Education]] | 概念 | 1958 年提出航海隐喻，将比较教育学者定位于为政治决策提供备选航线与暗礁警示的领航员。 |
-> | [[Comparative Education as a Cross-Sectional Area]] | 概念 | 践行横断学科理念，将哲学、科学人道主义与社会科学分析融汇于跨国教育探究。 |
+> | [[Comparative Education as a Cross-Sectional Area]] | 概念 | 践行横断学科理念，将哲学、科学人道主义与社会科学分析融汇于[[Transnational Education\|跨国教育]]探究。 |
 > | [[Allgemeine Pädagogik]] | 概念 | 在欧陆比较教育思想脉络中，与普通教育学所奠定的基础理论框架形成跨域学术互动。 |
 > | [[Wolfgang Mitter]] | 人物 | 在学科制度史中高度评价劳韦里斯创设 CESE 个人会员制与政策航行隐喻的里程碑贡献。 |
 > | [[Oskar Anweiler]] | 人物 | 共同依托 CESE 学会平台推动冷战时期跨越东西方意识形态阵营的学术交流。 |

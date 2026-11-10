@@ -9,7 +9,7 @@ title: "Argument_Grek_2009_JEdPolicy"
 argument_key: "Argument_Grek_2009_JEdPolicy"
 argument_display_title: "Governing by numbers: the PISA 'effect' in Europe"
 argument_kind: "journal-article"
-argument_related_count: 73
+argument_related_count: 75
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -51,11 +51,13 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Learning Strategies]]"
   - "[[Heterogeneity]]"
+  - "[[Differentiated Instruction]]"
   - "[[Mediatisation of Education Policy]]"
   - "[[School Choice]]"
   - "[[School Autonomy]]"
   - "[[Performance Indicators]]"
   - "[[Individualised Instruction]]"
+  - "[[Transnational Education]]"
   - "[[Epoché]]"
   - "[[Policy Borrowing]]"
   - "[[Knowledge-Based Economy]]"
@@ -111,7 +113,7 @@ related_arguments: []
 sources:
   - "[[sources/Grek_2009_JEdPolicy|Grek_2009_JEdPolicy]]"
 created: 2026-10-21
-updated: 2026-10-29
+updated: 2026-11-11
 status: draft
 ---
 ---
@@ -226,7 +228,7 @@ PISA 的技术设计彻底脱离了各个国家具体的教学大纲与文化背
 
 > [!case] 芬兰案例档案：奇迹叙事与防御性集权调整
 > - **历史参照系的反转** 芬兰传统上习惯于向外国寻求教育改革模式，长年以德国作为制度借鉴典范；PISA 结果公布后芬兰突然从学习追随者转变为全球学习典范（Välijärvi et al., 2002, p. 3）。
-> - **成功机制的官方归因** 芬兰教育部将成就归因于高质量与高公平的结合（Ministry of Education, 2007）；综合学校制度的非分流特征（non-differentiation）消除了过早学轨划分，确保教师能兼顾各类学生差异；教师享有崇高的社会地位，全员具备教育学硕士学历。
+> - **成功机制的官方归因** 芬兰教育部将成就归因于高质量与高公平的结合（Ministry of Education, 2007）；综合学校制度的非分流特征（non-[[Differentiated Instruction|differentiation]]）消除了过早学轨划分，确保教师能兼顾各类学生差异；教师享有崇高的社会地位，全员具备教育学硕士学历。
 > - **无统考环境与教学自主权** 芬兰在义务教育阶段完全不设全国性升学终结考试，国家评分标准保持弹性；教师完全自主决定选用教科书，承接了 1990 年代初课程改革所赋予的广泛教学自由。
 > - **克制的媒体关注度** 芬兰新闻界在公布结果后表现极为平静，仅有 8 个版面的报道篇幅，与德国引发的全民舆论风暴形成鲜明对照（European Network, 2004）。
 > - **政策决策的悖论性收紧** 在获得全球极高声誉的同时，芬兰政府出台政策，通过增加综合学校的必修课比重并向核心学科倾斜来推进体系一体化（Välijärvi et al., 2002, p. 44），展现出评估数据与国内政治决策之间复杂的非对称联动。
@@ -306,7 +308,7 @@ PISA 的技术设计彻底脱离了各个国家具体的教学大纲与文化背
 
 除了政策转移本身的脱嵌困境外，跨国测评产业在技术层面的地缘垄断亦引发了欧洲决策圈的深层不满。
 
-> [!tension] 跨国教育测评市场的地缘技术博弈
+> [!tension] [[Transnational Education|跨国教育]]测评市场的地缘技术博弈
 > - **北美与大洋洲技术垄断（蓝方）** [[Australian Council for Educational Research|澳大利亚教育研究委员会]]（Australian Council for Educational Research, ACER）、加拿大与美国机构长期包揽 PISA 与[[TIMSS|国际数学与科学趋势研究]]（Trends in International Mathematics and Science Study, TIMSS）等国际测评的核心分析与开发合同，卷走巨额财政资金。
 > - **欧洲本土统计能力建设（红方）** 法国等欧陆国家强烈抗议英美机构的垄断控制，推动欧盟投入 600 万欧元开展语言指标测评，旨在扶持欧洲科研机构建立本土技术自主权。
 

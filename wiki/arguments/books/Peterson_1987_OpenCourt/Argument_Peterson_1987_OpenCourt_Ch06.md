@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch06"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch06"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 44
+argument_related_count: 45
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[General Education]]"
   - "[[International Education]]"
   - "[[Liberal Education]]"
+  - "[[Study Abroad]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Foreign Languages]]"
   - "[[Hawthorne Effect]]"
@@ -81,7 +82,7 @@ related_theories:
   - "[[Theory of Mind]]"
 status: draft
 created: 2026-09-01
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 ---
 
@@ -223,7 +224,7 @@ updated: 2026-10-30
 > - **组织利益冲突** 当高中入学人数下降时，提前把优秀学生送往社区学院会进一步削弱本校规模；高中因而从合作方变成反对者（pp. 133–134）。
 
 > [!warrant]- 社区学院失败揭示的是载体依赖，而非资格衔接在逻辑上不成立
-> AA、IB 和大学转学之间可以构成清楚的资格链，但这条链依赖高中、社区学院、IB、接收大学和海外伙伴共同维持。参与组织越多，学生支持、生源规模或机构利益中的任一变化就越可能破坏完整通道。相较之下，公立高中若在本校内部开设两年 IB 课程，可以保留学生、教师和课程控制权，再由 IB 外部考试提供大学认可，协调成本显著较低。
+> AA、IB 和大学转学之间可以构成清楚的资格链，但这条链依赖高中、社区学院、IB、接收大学和海外伙伴共同维持。参与组织越多，学生支持、生源规模或机构利益中的任一变化就越可能破坏完整通道。相较之下，公立高中若在本校内部开设两年 IB 课程，可以保[[Study Abroad|留学]]生、教师和课程控制权，再由 IB 外部考试提供大学认可，协调成本显著较低。
 
 ---
 

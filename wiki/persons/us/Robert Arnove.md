@@ -9,7 +9,7 @@ summary: "美国著名比较教育学泰斗，比较与国际教育学会（CIES
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 53
+person_related_count: 54
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -37,6 +37,8 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Policy Borrowing]]"
   - "[[New Managerialism]]"
+  - "[[Early-Career Researchers]]"
+  - "[[Transnational Education]]"
   - "[[Dual School System]]"
   - "[[Educational Privatisation]]"
   - "[[School Vouchers]]"
@@ -45,7 +47,6 @@ related_concepts:
   - "[[Permeable State]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Rich and Thick Description]]"
-  - "[[Historical Amnesia]]"
 related_theories:
   - "[[World-Systems Theory]]"
   - "[[Dialectic of the Global and the Local]]"
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-28
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ---
@@ -147,11 +148,11 @@ updated: 2026-11-02
 > - **理论路径** 与托雷斯共同开创的全球与本土辩证法[[Paradigm|范式]]已成为比较教育学的基准[[Analytic Framework|分析框架]]，打破了世界文化学派单一的同形趋同叙事与古典[[Dependency Theory|依附论]]的机械[[Determinism|决定论]]，为当代批判比较教育学树立了多标度、多维度的解释典范。
 > - **方法路径** 倡导“双重视野”（Double Vision）与宏微观贯通的比较案例设计（[[Comparative Case Study]], CCS），开创了将跨国宏观制度分析与微观人类学课堂[[Ethnography|民族志]]深度融合的方法论传统。
 > - **政策与机构批判** 对[[World Bank|世界银行]]、[[International Monetary Fund|国际货币基金组织]]以及大型跨国慈善基金会（福特、洛克菲勒、卡内基）的批判性政治经济学解构，深刻启发了全球教育学术界对跨国[[Policy Borrowing|政策借用]]、[[New Managerialism|新管理主义]]与[[Shadow State|影子国家]]外包风险的反思。
-> - **学术共同体与跨国传播** 作为 [[Comparative and International Education Society|CIES]] 前会长与国际比较教育学界的精神领袖，阿诺夫长期致力于推动南北学术平等对话，支持拉美、非洲与亚洲青年学者开展反思资本主义霸权本土经验的批判研究。
+> - **学术共同体与跨国传播** 作为 [[Comparative and International Education Society|CIES]] 前会长与国际比较教育学界的精神领袖，阿诺夫长期致力于推动南北学术平等对话，支持拉美、非洲与亚洲[[Early-Career Researchers|青年学者]]开展反思资本主义霸权本土经验的批判研究。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 权威代表作，全面系统梳理[[World-Systems Theory|世界体系分析]]在比较教育学中的演进，对质新制度主义与政治现实主义，确立全球与本土辩证法及自下而上全球化分析框架。
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 在第四阶段[[Discourse|话语]]（1970–1990）学科史梳理中，高度肯定阿诺夫将[[Immanuel Wallerstein|沃勒斯坦]][[World-Systems Theory|世界体系理论]]引入比较教育学的奠基性突破，揭示跨国教育依附与支配链条，并反思批判宏观范式对历史维度的挤压。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 在第四阶段[[Discourse|话语]]（1970–1990）学科史梳理中，高度肯定阿诺夫将[[Immanuel Wallerstein|沃勒斯坦]][[World-Systems Theory|世界体系理论]]引入比较教育学的奠基性突破，揭示[[Transnational Education|跨国教育]]依附与支配链条，并反思批判宏观范式对历史维度的挤压。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 全面继承阿诺夫与托雷斯的全球与本土辩证法，作为分析拉美[[Conditioned State Theory|受限国家]]在依附性资本主义下的阶级[[Dual School System|双轨学制]]与教育[[Legitimation Crisis|合法化危机]]的核心支柱。
 
 ---

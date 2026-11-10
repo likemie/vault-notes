@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 45
+fact_related_count: 46
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -54,6 +54,7 @@ related_theories:
   - "[[Governing at a Distance]]"
 related_methods:
   - "[[Quantitative Research]]"
+  - "[[Journal Impact Factor]]"
   - "[[Questionnaire]]"
 related_instruments: []
 related_persons:
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-08
-updated: 2026-10-30
+updated: 2026-11-11
 ---
 
 ---
@@ -134,7 +135,7 @@ updated: 2026-10-30
 
 > [!indicators] 影响力维度与指标
 > - **资源与网络规模** 拥有逾三千名注册专业会员，覆盖全球超百个主权国家；年均汇聚数千篇国际学术论文评审与宣读。
-> - **学术与[[Knowledge Production|知识生产]]** 会刊 CER 的总被引量与影响因子长期稳居[[International Education|国际教育]]学科前列，构成了衡量比较教育学理论[[Paradigm|范式]]演进与方法论创新的世界风向标。
+> - **学术与[[Knowledge Production|知识生产]]** 会刊 CER 的总被引量与[[Journal Impact Factor|影响因子]]长期稳居[[International Education|国际教育]]学科前列，构成了衡量比较教育学理论[[Paradigm|范式]]演进与方法论创新的世界风向标。
 > - **政策与制度渗透** 学会历任骨干学者深度参与[[World Bank|世界银行]]、[[UNESCO|联合国教科文组织]]、[[OECD|经合组织]]（[[OECD]]）与美国国际开发署的[[CORE Education|核心教育]]援助决策，直接塑造了全球教育[[Policy Borrowing|政策借用]]与技术治理的模型库。
 
 > [!finding-cards] 关键成效与辐射影响

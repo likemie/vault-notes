@@ -10,10 +10,10 @@ aliases:
 summary: "指将公共教育的供给、资金、管理及政策制定权向私营部门、市场机制或商业逻辑转移的结构性变革过程。在新自由主义全球化下，斯蒂芬·鲍尔与托雷斯等学者将其界定为国家重塑教育权力的阶级策略，通常分化为公立系统内部企业化改组的内生私有化与外部服务及立法议程承包的外生私有化。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 54
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - concept/educational-policy
   - privatisation
@@ -21,11 +21,13 @@ tags:
   - political-economy
   - governance
 related_concepts:
+  - "[[Quasi-market]]"
   - "[[Endogenous Privatisation]]"
   - "[[Exogenous Privatisation]]"
   - "[[Public-Private Partnership]]"
   - "[[Charter Schools]]"
   - "[[School Vouchers]]"
+  - "[[Study Abroad]]"
   - "[[New Public Management]]"
   - "[[Disciplina and Doctrina]]"
   - "[[School Choice]]"
@@ -33,6 +35,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Educational Management Organisation]]"
   - "[[Venture Philanthropy]]"
+  - "[[Soft Privatisation]]"
   - "[[Cultural Capital]]"
   - "[[Educational Decentralization]]"
   - "[[Policy Conditionalities]]"
@@ -41,6 +44,7 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Washington Consensus]]"
   - "[[International Education]]"
+  - "[[Education Export]]"
   - "[[Policy Entrepreneur]]"
   - "[[Policy Network]]"
   - "[[Critical Pedagogy]]"
@@ -75,17 +79,18 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Rizvi_2022_Springer]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
+  - "[[Argument_Kuortti_2025_JEdPolicy]]"
   - "[[Argument_Snook_2009_NZJES]]"
 confidence: high
 status: active
 created: 2026-10-17
-updated: 2026-11-09
+updated: 2026-11-11
 ---
 
 ---
 
 > [!def] Educational Privatisation
-> **教育私有化（Educational Privatisation）** 指公共教育的资源供给、经费筹措、日常管理、教学交付乃至政策制定权，由国家公共行政系统向私营营利实体、非营利组织、准市场竞争机制或商业逻辑转移的结构性变革过程。批判政治经济学与教育社会学（Ball, 1993; [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）指出，当代教育私有化是新自由主义国家以市场逻辑瓦解教育公共性、卸载财政保障责任并巩固社会优势阶层排他性利益的**阶级策略**，有别于中立的行政效率优化。[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）与德博拉·尤德尔（Deborah Youdell, 2007）进一步构建了双维[[Analytic Framework|分析框架]]，将其划分为公立体系内部企业化改组的 **[[Endogenous Privatisation|内生私有化]]** 与公共服务及立法议程外部承包的 **[[Exogenous Privatisation|外生私有化]]**。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 4)]]
+> **教育私有化（Educational Privatisation）** 指公共教育的资源供给、经费筹措、日常管理、教学交付乃至政策制定权，由国家公共行政系统向私营营利实体、非营利组织、[[Quasi-market|准市场]]竞争机制或商业逻辑转移的结构性变革过程。批判政治经济学与教育社会学（Ball, 1993; [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）指出，当代教育私有化是新自由主义国家以市场逻辑瓦解教育公共性、卸载财政保障责任并巩固社会优势阶层排他性利益的**阶级策略**，有别于中立的行政效率优化。[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）与德博拉·尤德尔（Deborah Youdell, 2007）进一步构建了双维[[Analytic Framework|分析框架]]，将其划分为公立体系内部企业化改组的 **[[Endogenous Privatisation|内生私有化]]** 与公共服务及立法议程外部承包的 **[[Exogenous Privatisation|外生私有化]]**。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 4)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示教育如何从普遍公民权利与民主公共产品，被重组为按支付能力分选的排他性消费品与私人[[Human Capital Theory|人力资本]]投资。
@@ -100,7 +105,7 @@ updated: 2026-11-09
 > [!boundary]- 概念边界
 > - 不等于纯粹民办学校的自然增长 — 传统民办教育是公共教育的外部补充；而现代教育私有化聚焦公立教育系统自身的企业化改造与公共税收向商业资本定向输送。
 > - 不等于单纯的财政紧缩 — 预算削减是推动私有化的诱因或政策手段，但私有化核心在于重塑组织运作的准则与意识形态（如将公民重塑为消费者）。
-> - 涵盖从基础教育到高等教育的全谱系 — 不仅包括中小学[[Charter Schools|特许学校]]与[[School Vouchers|教育券]]，也深度延伸至高等教育跨国留学生商业化收费与大学行政企业化。
+> - 涵盖从基础教育到高等教育的全谱系 — 不仅包括中小学[[Charter Schools|特许学校]]与[[School Vouchers|教育券]]，也深度延伸至高等教育跨国[[Study Abroad|留学]]生商业化收费与大学行政企业化。
 
 ---
 
@@ -118,7 +123,7 @@ updated: 2026-11-09
 > - **公共财政撤资与成本转嫁机制** 国家大幅核减对公立教育的经常性拨款，通过推行使用者自费（User Fees）和生均拨款竞逐，迫使学校与家庭分担办学成本。
 > - **内部企业化与管理学规训** 依托[[New Public Management|新公共管理]]（NPM）理念，推行严格的目标管理、[[Performance Indicators|绩效指标]]与投入产出核算，将公立学校管理者塑造成自负盈亏的企业经理人。
 > - **契约外包与公私资产合营** 借助[[Public-Private Partnership|公私伙伴关系]]（PPP）、特许办学与专业服务采购，将校舍产权建设、核心测评工具研发与教师在职培训转移给私营公司或商业化的[[Educational Management Organisation|教育管理组织]]（EMO）。
-> - **政策制定权的隐性商业俘获** 跨国商业咨询公司、营利性 EMO 与[[Venture Philanthropy|风险慈善]]信托深度渗入国家教育行政中枢，直接参与教育法案起草与核心课程大纲设置，造成教育政策主权的隐性私有化。
+> - **政策制定权的隐性商业俘获** 跨国商业咨询公司、营利性 EMO 与[[Venture Philanthropy|风险慈善]]信托深度渗入国家教育行政中枢，直接参与教育法案起草与核心课程大纲设置，造成教育政策主权的[[Soft Privatisation|隐性私有化]]。
 
 > [!logic-map]- 新自由主义国家教育私有化运行机制
 > ```mermaid
@@ -186,7 +191,7 @@ updated: 2026-11-09
 > - **2007–2008 年 — 内生与[[Exogenous Privatisation|外生私有化]]双维框架提出** 鲍尔与尤德尔在为[[International Education|国际教育]]组织（[[Education International]]）撰写的报告中，正式界定“在公立体系内部（in）”与“针对公立体系（of）”的私有化形态分类。
 > - **2016 年 — 政策制定权私有化与双层法人实证深化** [[John O'Neill|约翰·奥尼尔]]等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）以新西兰为个案，揭示[[Charter Schools|特许学校]]推行过程中跨界非正式精英网络如何实现国家教育立法议程的隐性私有化与双层企业避税。
 > - **2022 年 — 高等教育跨国市场永久企业化理论整合** [[Fazal Rizvi|法扎尔·里兹维]]（[[Argument_Rizvi_2022_Springer|Rizvi, 2022]]）系统阐述留学生学费吸纳与公立大学永久企业化的双向依赖机制。
-> - **2025 年 — 北欧高中教育出口与离岸混合私有化** [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] 揭示芬兰普通高中教育出口如何打破北欧福利国家去商品化传统，通过市政离岸有限责任公司与私营中介推行内生与外生私有化。
+> - **2025 年 — 北欧高中[[Education Export|教育出口]]与离岸混合私有化** [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] 揭示芬兰普通高中教育出口如何打破北欧福利国家去商品化传统，通过市政离岸有限责任公司与私营中介推行内生与外生私有化。
 
 ---
 
