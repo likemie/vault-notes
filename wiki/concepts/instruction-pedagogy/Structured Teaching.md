@@ -75,7 +75,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-11-06
+updated: 2026-11-10
 ---
 
 > [!def] Structured Teaching
@@ -192,8 +192,8 @@ updated: 2026-11-06
 > | 命题类型 | 核心主张 | 适用情境与作用机制 | 代表学者 |
 > |---|---|---|---|
 > | **认知发展调节中介** | 结构化设计为高质量互动提供支架；在 AI 时代驱动批判与创造思维的双向协同增益。 | 基础教育课堂组织、高校 AI 课程与教学设计 | Håkansson; Li et al.; Sahlgren |
-> | **去结构化认知风险** | 缺乏支架的放任环境诱发深度[[Cognitive Offloading|认知卸载]]，加剧弱势群体的学业掉队与[[Higher-Order Thinking Skills|高阶思维]]萎缩。 | 个别化学习评估、无指引技术整合环境 | Håkansson; Li et al.; Sahlgren |
-> | **动态适配与支架渐退** | 教学结构强度与学生自我调节能力成反比；随素养成熟逐步渐退以促进自主学习。 | [[Differentiated Instruction|差异化教学]]、脚手架工程与元认知培养 | Håkansson; Li et al. |
+> | **去结构化认知风险** | 缺乏支架的放任环境诱发深度[[Cognitive Offloading\|认知卸载]]，加剧弱势群体的学业掉队与[[Higher-Order Thinking Skills\|高阶思维]]萎缩。 | 个别化学习评估、无指引技术整合环境 | Håkansson; Li et al.; Sahlgren |
+> | **动态适配与支架渐退** | 教学结构强度与学生自我调节能力成反比；随素养成熟逐步渐退以促进自主学习。 | [[Differentiated Instruction\|差异化教学]]、脚手架工程与元认知培养 | Håkansson; Li et al. |
 
 ---
 

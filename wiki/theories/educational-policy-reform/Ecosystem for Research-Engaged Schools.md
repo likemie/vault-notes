@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-11-07
+updated: 2026-11-10
 ---
 
 ---
@@ -77,8 +77,8 @@ updated: 2026-11-07
 > | 外系统（Exo-system） | 分类 | 间接影响学校实践的外部组织与网络，如教育行政督导、科研基金资助方 |
 > | 宏观系统（Macro-system） | 分类 | 国家教育法律法规、宏观问责制度、社会文化价值观与教育政治议程 |
 > | 时间系统（Chrono-system） | 分类 | 时间跨度上的历时演进、教育改革周期与学校发展的历史脉络 |
-> | [[Knowledge Mobilisation|知识动员]] | 机制 | 贯通学校与更大社会系统之间的双向、互惠知识流动纽带 |
-> | [[Research-Practice Gap|研习脱节]] | 概念 | 生态系统中研究界与实践界之间的隔阂，构成生态治理旨在化解的核心问题 |
+> | [[Knowledge Mobilisation\|知识动员]] | 机制 | 贯通学校与更大社会系统之间的双向、互惠知识流动纽带 |
+> | [[Research-Practice Gap\|研习脱节]] | 概念 | 生态系统中研究界与实践界之间的隔阂，构成生态治理旨在化解的核心问题 |
 
 ---
 

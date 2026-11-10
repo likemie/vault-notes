@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-11-07
+updated: 2026-11-10
 ---
 
 ---
@@ -140,9 +140,9 @@ updated: 2026-11-07
 > |:-----|:-----|:-----|
 > | [[Institute of Education Sciences]] | 上级监管机构 | 美国联邦教育部直属科研院所，全额出资赞助并监督 ERIC 运行 |
 > | [[What Works Clearinghouse]] | 姊妹机构 | 同属 IES 旗下，WWC 专注于严格因果证据审查，ERIC 承担广谱文献索引 |
-> | [[Evidence for ESSA]] | 互补平台 | 约翰斯·霍普金斯大学设立的民间审查平台，[[Literature Search|文献检索]]高度依赖 ERIC 基础索引 |
+> | [[Evidence for ESSA]] | 互补平台 | 约翰斯·霍普金斯大学设立的民间审查平台，[[Literature Search\|文献检索]]高度依赖 ERIC 基础索引 |
 > | [[Education Endowment Foundation]] | 国际对照 | 英国教育实证清算机构，与 ERIC 共同构成全球循证研究核心数据源 |
-> | [[Systematic Review]] | 方法学纽带 | 全球教育类系统综述与[[Meta-analysis|元分析]]检索策略中不可或缺的核心数据库 |
+> | [[Systematic Review]] | 方法学纽带 | 全球教育类系统综述与[[Meta-analysis\|元分析]]检索策略中不可或缺的核心数据库 |
 
 ---
 

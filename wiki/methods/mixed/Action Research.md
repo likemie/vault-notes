@@ -91,7 +91,7 @@ related_facts:
 confidence: high
 status: stable
 created: 2026-06-25
-updated: 2026-11-07
+updated: 2026-11-10
 ---
 
 ---
@@ -169,7 +169,7 @@ updated: 2026-11-07
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Critical Theory]] | 理论 | 解放性行动研究的认识论基础，提供知识构成性兴趣与[[Ideal Speech Situation|理想言说情境]]框架 |
+> | [[Critical Theory]] | 理论 | 解放性行动研究的认识论基础，提供知识构成性兴趣与[[Ideal Speech Situation\|理想言说情境]]框架 |
 > | [[Critical Pluralism]] | 理论 | 将基层行动研究的反制实践与宏观政策制定相连接的民主政治理论 |
 > | [[Participatory Action Research]] | 子方法 | 行动研究的政治化分支，以社区赋权与社会正义为核心议程 |
 > | [[Engineered Evidence]] | 替代进路 | 针对教师自主摸索易诱发操作走样的缺陷，主张采用预制工程化工件提供专业支持 |

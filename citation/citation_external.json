@@ -8509,8 +8509,6 @@
     "GOS, 2023": "GOS, 2023",
     "GRI (2019)": "GRI, 2019",
     "GRI, 2019": "GRI, 2019",
-    "Gabriel Heller Sahlgren (2015)": "Gabriel Heller Sahlgren, 2015",
-    "Gabriel Heller Sahlgren, 2015": "Gabriel Heller Sahlgren, 2015",
     "Gadamer (1960)": "Gadamer, 1960",
     "Gadamer (1975)": "Gadamer, 1975",
     "Gadamer, 1960": "Gadamer, 1960",
@@ -89783,21 +89781,6 @@
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md",
         "wiki/concepts/higher-education/University Social Responsibility.md"
-      ],
-      "title": ""
-    },
-    "Gabriel Heller Sahlgren, 2015": {
-      "aliases": [
-        "Gabriel Heller Sahlgren, 2015",
-        "Gabriel Heller Sahlgren (2015)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Gabriel Heller Sahlgren, 2015"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/educational-policy-reform/Internalised Centralisation.md"
       ],
       "title": ""
     },
@@ -179219,6 +179202,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md",
         "wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md",
         "wiki/persons/denmark/Klaus Nielsen.md",
         "wiki/persons/us/Robert Glaser.md"

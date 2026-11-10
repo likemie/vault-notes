@@ -121,15 +121,15 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **政策与媒体文献分析**<br>[[Documentary Analysis]] | 系统梳理 2010—2022 年间芬兰国家品牌代表团报告[[Finnish Country Brand Report|《芬兰的使命》]]、芬兰教育与文化部[[Finnish Government Education Export Programme|《芬兰教育出口战略》]]、[[Action Plan for Global Education Brand Finland|《全球教育品牌芬兰行动计划》]]、芬兰外交部年度报告《世界媒体中的芬兰》以及《纽约时报》等西方主流媒体报道文本。 |
+> | **政策与媒体文献分析**<br>[[Documentary Analysis]] | 系统梳理 2010—2022 年间芬兰国家品牌代表团报告[[Finnish Country Brand Report\|《芬兰的使命》]]、芬兰教育与文化部[[Finnish Government Education Export Programme\|《芬兰教育出口战略》]]、[[Action Plan for Global Education Brand Finland\|《全球教育品牌芬兰行动计划》]]、芬兰外交部年度报告《世界媒体中的芬兰》以及《纽约时报》等西方主流媒体报道文本。 |
 > | **制度案例深度解构**<br>[[Case Study]] | 选取芬兰这一全球公认的教育标杆国家作为深度个案，解构其从测评优胜国向全球教育解决方案供给者的品牌化演进路径与政策操作。 |
 > | **跨国经验对比反思**<br>[[Comparative Case Study]] | 引入中国在 PISA 测试成名后教育国际交流经验（如上海数学教育、中英交流项目及[[Luban Workshop\|鲁班工坊]]）作为对照镜像，反思教育品牌系统性规划与渠道整合的现实启示。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **官方战略报告** | [[Finnish Country Brand Report|《芬兰的使命：芬兰将如何解决世界上最棘手的问题》]]（2010）、[[Finnish Government Education Export Programme|《芬兰教育出口战略》]]（2010）、[[Action Plan for Global Education Brand Finland|《全球教育品牌芬兰行动计划》]]（2017）、《提升芬兰在教育领域的全球作用》（2018）。 |
-> | **外宣与媒体材料** | 芬兰外交部 2021 年度海外媒体观察报告《世界媒体中的芬兰》、国家品牌官方网站[[This is Finland|《这就是芬兰》（This is Finland）]] 8 种语言专栏、芬兰教育与文化部官方网站专题视频及报道。 |
+> | **官方战略报告** | [[Finnish Country Brand Report\|《芬兰的使命：芬兰将如何解决世界上最棘手的问题》]]（2010）、[[Finnish Government Education Export Programme\|《芬兰教育出口战略》]]（2010）、[[Action Plan for Global Education Brand Finland\|《全球教育品牌芬兰行动计划》]]（2017）、《提升芬兰在教育领域的全球作用》（2018）。 |
+> | **外宣与媒体材料** | 芬兰外交部 2021 年度海外媒体观察报告《世界媒体中的芬兰》、国家品牌官方网站[[This is Finland\|《这就是芬兰》（This is Finland）]] 8 种语言专栏、芬兰教育与文化部官方网站专题视频及报道。 |
 > | **学者代表专著** | 芬兰教育学者[[Pasi Sahlberg\|帕思·萨尔伯格]]（Pasi Sahlberg）撰写的《芬兰道路：世界可以从芬兰教育改革中学到什么？》《我们信任的教师：芬兰通往世界一流学校之路》《芬兰教育领导力：变革教育的四大低成本理念》。 |
 
 ---

@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-11-07
+updated: 2026-11-10
 ---
 
 ---
@@ -83,13 +83,13 @@ updated: 2026-11-07
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | 信任（Trust） | 机制 | 涵盖系统外的机构信任、组织内的互信文化与个体认识论信任；是开放[[Dialogue in Education|对话]]与风险承担的前提 |
-> | 技能发展（Skills Development） | 机制 | 教师与[[School Leadership|学校领导]]检索、评估与整合研究的专业技能；依赖连贯的专业发展与持续实践支持 |
+> | 信任（Trust） | 机制 | 涵盖系统外的机构信任、组织内的互信文化与个体认识论信任；是开放[[Dialogue in Education\|对话]]与风险承担的前提 |
+> | 技能发展（Skills Development） | 机制 | 教师与[[School Leadership\|学校领导]]检索、评估与整合研究的专业技能；依赖连贯的专业发展与持续实践支持 |
 > | 可持续结构（Sustainable Structures） | 机制 | 工作时间、教研组织与制度安排的常态化配置，使研究参与成为长效特征而非临时项目 |
-> | 关系（Relationships） | 机制 | 实践者、研究者与决策者之间的互惠联结与[[Research-Practice Partnership|研究-实践伙伴关系]]，构成信任生成的社会基础设施 |
+> | 关系（Relationships） | 机制 | 实践者、研究者与决策者之间的互惠联结与[[Research-Practice Partnership\|研究-实践伙伴关系]]，构成信任生成的社会基础设施 |
 > | 领导力（Leadership） | 催化条件 | 作为分配资源、明确愿景并激活四类机制协同运转的催化要素，独立于机制本身 |
 > | 文化（Culture） | 结果环境 | 四类机制运行的生态土壤，同时是机制持续运转的产物 |
-> | [[Teacher Professional Agency|教师专业能动性]] | 概念 | 机制所要促成并在深层整合中发挥关键作用的专业行动空间 |
+> | [[Teacher Professional Agency\|教师专业能动性]] | 概念 | 机制所要促成并在深层整合中发挥关键作用的专业行动空间 |
 > | 深度整合（Deep Integration） | 概念 | 研究知识与教师情境智慧的调和融通，构成超越浅层工具套用的终极质态 |
 
 ---

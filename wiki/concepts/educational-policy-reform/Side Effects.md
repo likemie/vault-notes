@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-07
+updated: 2026-11-10
 ---
 
 ---
@@ -121,7 +121,7 @@ updated: 2026-11-07
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **干预代价的双生机制** | 预期成效与负面外溢是同一机制的双重结果，单一指标掩盖真实代价 | 教学法评估、课程干预方案设计与元分析效果审查 | [[Argument_Zhao_2017_JEC\|Zhao (2017)]] |
-> | **医学类比与专业裁量防护** | 引入临床副作用双重监测准则，依托教师专业裁量阻隔行政强制的系统损害 | 宏观教育问责立法、大规模证据库评价规范与学校循证实践治理 | [[Argument_Zhao_2017_JEC\|Zhao (2017)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]; [[Pasi Sahlberg|Sahlberg (2023)]] |
+> | **医学类比与专业裁量防护** | 引入临床副作用双重监测准则，依托教师专业裁量阻隔行政强制的系统损害 | 宏观教育问责立法、大规模证据库评价规范与学校循证实践治理 | [[Argument_Zhao_2017_JEC\|Zhao (2017)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]; [[Pasi Sahlberg\|Sahlberg (2023)]] |
 
 ---
 

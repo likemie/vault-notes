@@ -61,7 +61,7 @@ journal: "Nature"
 sources:
   - "[[sources/Hao_2026_Nature/Hao_2026_Nature|Hao_2026_Nature]]"
 created: 2026-11-08
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 
 ---
@@ -98,7 +98,7 @@ updated: 2026-11-09
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心测量指标、统计工具与实证代表案例 |
 > |---|---|---|
 > | **个体学术产出与职业进阶** | 测度学者在[[Knowledge Production\|知识生产]]数量、外部同行认可及科研团队领导地位转移中的客观表现。 | 纳入年度发表篇数计数（衡量科研生产力）、年度总被引频次、升任课题负责人（末位通讯署名）的转移时间（$T_{trans}$）、期刊引证报告（Journal Citation Reports, JCR）分区期刊入选比率。 |
-> | **集体知识边界与网络拓扑** | 测度特定学科集合在语义表征空间中的覆盖范围，以及引文网络中后继学术互动的连通密度。 | 纳入高维语义嵌入向量空间的知识广度（[[Knowledge Extent|KE]]）、主题分布信息熵（[[Knowledge Entropy]]）、后继学术卷入度（[[Follow-on Engagement|EG]]）、[[Citation Distribution\|引文分布]]基尼系数。 |
+> | **集体知识边界与网络拓扑** | 测度特定学科集合在语义表征空间中的覆盖范围，以及引文网络中后继学术互动的连通密度。 | 纳入高维语义嵌入向量空间的知识广度（[[Knowledge Extent\|KE]]）、主题分布信息熵（[[Knowledge Entropy]]）、后继学术卷入度（[[Follow-on Engagement\|EG]]）、[[Citation Distribution\|引文分布]]基尼系数。 |
 > | **人工智能工具采用与技术断代** | 界定科研成果产出过程中是否实质采用人工智能算法，并按技术范式演进划分历史时期。 | 基于双阶段微调的双向编码器表征模型（Bidirectional Encoder Representations from Transformers, BERT）深度学习分类模型判定是否采用 AI（$F_1 = 0.875$）；按技术里程碑划分为传统机器学习时代、深度学习时代与生成式 AI 时代。 |
 >
 > **图表解读** 该指标框架界定了微观个体学术生产力与宏观学科知识拓扑的核心指标体系，通过跨越三大技术浪潮的纵向对比，为量化 AI 工具对学术生态的双重影响提供了可复用的测量基准。
@@ -109,7 +109,7 @@ updated: 2026-11-09
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **文献分类／双阶段微调语言模型**<br>Two-stage Fine-tuned Language Model | 部署 BERT 预训练模型执行两阶段微调；第一阶段利用专门 AI 期刊会议的全部文献作为正例，并随机抽取全库 1% 成果作为负例完成粗训练，第二阶段利用专家精细标注样本微调，输出高精度二分类判别器。 |
-> | **主题跨度测度／知识广度几何建模**<br>[[Knowledge Extent]] in Embedding Space | 运用科学文献嵌入模型（Scientific Paper Embeddings using Citation-informed TransformERs, SPECTER 2.0）提取文献标题与摘要的 768 维密集向量嵌入；借鉴[[Cognitive Extent|认知广度]]（Cognitive Extent）平衡抽样思想控制样本量偏误；计算样本几何均值中心并以最大外沿距离定义知识广度（$KE$），同步计算[[Knowledge Entropy|知识熵]]评估分布多样性。 |
+> | **主题跨度测度／知识广度几何建模**<br>[[Knowledge Extent]] in Embedding Space | 运用科学文献嵌入模型（Scientific Paper Embeddings using Citation-informed TransformERs, SPECTER 2.0）提取文献标题与摘要的 768 维密集向量嵌入；借鉴[[Cognitive Extent\|认知广度]]（Cognitive Extent）平衡抽样思想控制样本量偏误；计算样本几何均值中心并以最大外沿距离定义知识广度（$KE$），同步计算[[Knowledge Entropy\|知识熵]]评估分布多样性。 |
 > | **学术职涯追踪／生存分析与风险模型**<br>Survival Analysis & Career Role Transition | 追踪学者以末位通讯位次发表论著的生涯时间节点；构建离散时间队列模型与 Cox 比例风险回归模型，估计学者向课题负责人角色转变的相对时间差。 |
 > | **引文网络拓扑／后继学术卷入度分析**<br>[[Follow-on Engagement]] & Citation Topology | 测算引用同一篇原始论著的后继文献之间发生交叉互引的实际频次与理论最大可能频次的比值；计算引文分布基尼系数并测量共引文献对在高维空间的欧氏距离。 |
 
@@ -212,7 +212,7 @@ updated: 2026-11-09
 > - **课题组长晋升抢跑 1.37 年** Hao et al. (2026) 追踪 2,282,029 名学者并拟合生死排队模型（$S(t) = e^{-\lambda t}, \bar{t} = 1/\lambda + 1$），基于科学界[[Chaperone Effect|学术伴随效应]]（Chaperone Effect）界定青年学者向独立项目负责人的角色转变；采用 AI 的初级学者晋升为末位通讯署名的期望年限由 8.70 年（$\lambda = 0.130, R^2 = 0.987$）显著缩短为 7.33 年（$\lambda = 0.158, R^2 = 0.995$），平均提前 1.37 年（$p < .001$）。
 > - **长聘成功率提升与退出率降低** 采用 AI 的初级学者晋升为独立课题负责人的概率达到 45.00%，较未采用者相对高出 13.64%，同时大幅压低了其退出学术系统的风险。
 
-> [!formula] 青年学者角色转变的泊松学术生死模型（Hao et al., 2026）
+> [!formula] 青年学者角色转变的泊松学术生死模型
 > 设学者学术进入的泊松到达率为 $\mu$，脱离初级伴随阶段的泊松转移率为 $\omega$，有效转移速率参数为 $\lambda = \omega - \mu$。学者在初级伴随阶段的停留持续时间服从指数分布：
 > 
 > $$P(t) = \lambda e^{-\lambda t}, \quad t > 0$$
@@ -228,7 +228,7 @@ updated: 2026-11-09
 > 经验参数拟合表明（$n = 2,282,029$）：
 > - **常规非 AI 组** $\lambda = 0.130 \implies \bar{t} = 8.70\text{ 年}$（$R^2 = 0.987$）
 > - **采用 AI 组** $\lambda = 0.158 \implies \bar{t} = 7.33\text{ 年}$（$R^2 = 0.995$）
-> - **职业进阶提速** $\Delta \bar{t} = -1.37\text{ 年}$（提前 1.37 年，相对提速 15.75%），独立建组相对成功率提升 13.64%。(pp. 1240, 1242)
+> - **职业进阶提速** $\Delta \bar{t} = -1.37\text{ 年}$（提前 1.37 年，相对提速 15.75%），独立建组相对成功率提升 13.64%。
 
 > [!sub-claim] 3. 算法分担基础性科研劳动，团队整体规模缩小且初级人员减少三成
 

@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-11-07
+updated: 2026-11-10
 ---
 
 ---
@@ -114,7 +114,7 @@ updated: 2026-11-07
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **学术立论的缺陷驱动机制** | 确立以方法、理论与群体缺陷为核心的研究立项正当性 | 期刊成果开篇、学位研究立项与科研课题论证 | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] |
-> | **跨界受众价值论证机制** | 通过学术、实践与政策三维分层阐述消除知识流动壁垒 | 应用性社会科学研究、政策评估与[[Evidence-Informed Practice|循证实践]]课题设计 | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]]; Mascarenhas (1989) |
+> | **跨界受众价值论证机制** | 通过学术、实践与政策三维分层阐述消除知识流动壁垒 | 应用性社会科学研究、政策评估与[[Evidence-Informed Practice\|循证实践]]课题设计 | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]]; Mascarenhas (1989) |
 
 ---
 

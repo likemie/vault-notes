@@ -112,7 +112,7 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **治理理性**<br>[[Governmentality]] | 福柯（Michel Foucault）提出的权力分析范畴，解释国家如何通过重构[[Regimes of Truth\|真理政制]]与思维方式，将原本违背传统福利伦理的市场竞争逻辑确立为公共治理不可回避的客观理性。 |
-> | **问题表征分析方法**<br>[[Bacchi's WPR Approach]] | [[Carol Bacchi|巴奇]]（Bacchi, 2009）提出的批判政策[[Analytic Framework\|分析框架]]，通过问题表征分析法（WPR）提出的六项核心提问，由政策建议的具体干预举措逆推政策话语背后的底层预设、历史谱系、话语沉默与主体化效果。 |
+> | **问题表征分析方法**<br>[[Bacchi's WPR Approach]] | [[Carol Bacchi\|巴奇]]（Bacchi, 2009）提出的批判政策[[Analytic Framework\|分析框架]]，通过问题表征分析法（WPR）提出的六项核心提问，由政策建议的具体干预举措逆推政策话语背后的底层预设、历史谱系、话语沉默与主体化效果。 |
 > | **竞争国家理论**<br>[[Competition State]] | 阐释福利国家在经济全球化压力下的制度变迁，揭示国家核心职能如何从提供去商品化的社会公平保障，转向动员国内公共资源参与国际经济与知识产业竞争。 |
 
 > [!warrant]- 理论如何支撑论证
@@ -125,7 +125,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **后结构政策分析**<br>[[Post-structural Policy Analysis]] | 采纳[[Carol Bacchi|巴奇]]（Bacchi, 2009）的问题表征分析框架（WPR），以[[Problematisation\|问题化]]为分析枢纽，针对政策实践文本提炼的干预措施展开逆向[[Decodification\|解码]]，识别政策建构的核心假定、概念二元对立与沉默维度。 |
+> | **后结构政策分析**<br>[[Post-structural Policy Analysis]] | 采纳[[Carol Bacchi\|巴奇]]（Bacchi, 2009）的问题表征分析框架（WPR），以[[Problematisation\|问题化]]为分析枢纽，针对政策实践文本提炼的干预措施展开逆向[[Decodification\|解码]]，识别政策建构的核心假定、概念二元对立与沉默维度。 |
 > | **政策文献系统编码**<br>[[Documentary Analysis]] | 汇编 2010 年至 2020 年间芬兰关于教育出口的 16 份关键政策[[Document\|文献]]（覆盖 5 份核心实践文本与 11 份关联支撑政策），运用 Atlas.ti 质性分析软件对涉及公共教育改革的语句、指标与里程碑进行节点编码。 |
 > | **实务立场反思** | 兼具公立高等教育机构教育出口实务与学术研究双重背景，分析中主动评估从业经验对文本解构可能带来的认知倾向，避免将商业惯例误设为中立前提。 |
 
@@ -137,10 +137,10 @@ issuing_organization: ""
 > | **实践文本 3（MINEDU, 2016a）** | 《教育出口路线图 2016–2019》（*Roadmap for education export 2016–2019*，教育部） | 西皮莱政府时期发布，聚焦消除法规阻碍，将教育出口深度嵌入国家数字化与产业创新议程。 |
 > | **实践文本 4（MINEDU, 2016b）** | 《促进中等教育出口措施报告》（*Measures to promote education export in secondary education*，教育部） | 专项研讨职业教育与高中出口方案，确立公办经费与商业创收严格分账的制度原则。 |
 > | **实践文本 5（FNAE, 2020）** | 《教育出口路线图 2020–2023》（*Koulutusviennin tiekartta 2020–2023*，国家教育局） | 强调构建公立与私营合作的教育生态系统，推广商业微专业培训，提出培育国内[[Quasi-market\|准市场]]测试基地。 |
-> | **支撑政策（[[Finnish Country Brand Report|CBR, 2010]]）** | [[Finnish Country Brand Report|《芬兰使命：国家品牌委员会报告》]]（*Mission for Finland: Country Brand Report*，国家品牌委员会） | 将芬兰高品质基础教育作为[[Nation Branding\|国家品牌化]]（Country Brand）的核心资产与全球推广名片。 |
+> | **支撑政策（[[Finnish Country Brand Report\|CBR, 2010]]）** | [[Finnish Country Brand Report\|《芬兰使命：国家品牌委员会报告》]]（*Mission for Finland: Country Brand Report*，国家品牌委员会） | 将芬兰高品质基础教育作为[[Nation Branding\|国家品牌化]]（Country Brand）的核心资产与全球推广名片。 |
 > | **支撑政策（Government, 2015）** | 《解决方案的芬兰：战略政府规划》（*Ratkaisujen Suomi*，总理府） | 西皮莱内阁施政纲领，推行大规模简政放权与规制松绑，将公共教育确定为实验平台。 |
 > | **支撑政策（FORMIN, 2018）** | 《提升芬兰教育全球角色报告》（*Stepping Up Finland's Global Role in Education*，外交部） | 将教育出口与国际发展援助、外交经贸深度绑定，拓宽出口话语的部际协调网络。 |
-> | **支撑政策（[[Government Bill 191-2021|Government Bill 191/2021]]）** | [[Government Bill 191-2021|《职业教育法修改政府提案》]]（*Government Bill 191/2021*，议会与总理府） | 修改法定条款，允许公立职业院校设立离岸法人公司并面向境外有偿授课。 |
+> | **支撑政策（[[Government Bill 191-2021\|Government Bill 191/2021]]）** | [[Government Bill 191-2021\|《职业教育法修改政府提案》]]（*Government Bill 191/2021*，议会与总理府） | 修改法定条款，允许公立职业院校设立离岸法人公司并面向境外有偿授课。 |
 
 ---
 

@@ -51,7 +51,7 @@ sources:
 part_of: null
 status: draft
 created: 2026-11-05
-updated: 2026-11-06
+updated: 2026-11-10
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_King_2007_CE"
@@ -99,13 +99,13 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **材料分析／政策文献分析**<br>[[Documentary Analysis\|文献分析法]] | 细致梳理 1990 至 2006 年间四份里程碑式国际文件的原始草案、终版文本与配套框架，考证核心术语出现的频次与语义流变。 |
-> | **历史追溯／机构内部通信考证** | 结合与宗滴恩大会执行秘书[[Wadi Haddad|沃迪·哈达德]]（Wadi Haddad）、经合组织[[International Development Targets|国际开发目标]]（International Development Targets, IDTs）起草关键亲历者[[Richard Jolly|理查德·乔利]]（Richard Jolly）等高阶官员的书信往来与访谈记录，还原密室磋商与文本妥协过程。 |
+> | **历史追溯／机构内部通信考证** | 结合与宗滴恩大会执行秘书[[Wadi Haddad\|沃迪·哈达德]]（Wadi Haddad）、经合组织[[International Development Targets\|国际开发目标]]（International Development Targets, IDTs）起草关键亲历者[[Richard Jolly\|理查德·乔利]]（Richard Jolly）等高阶官员的书信往来与访谈记录，还原密室磋商与文本妥协过程。 |
 > | **批判解构／多边监测架构分析** | 检视联合国开发计划署（United Nations Development Programme, UNDP）国别报告网络、千年项目专家组报告以及《[[Global Education Monitoring Report\|全球教育监测报告]]》（Global Education Monitoring Report, GEMR）的运行逻辑与运作假设。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **文本样本** | 1990 年[[World Declaration on Education for All|《世界全民教育宣言》]]及行动框架、1996 年经合组织 DAC《塑造21世纪》报告、2000 年[[Dakar Framework for Action|《达喀尔行动纲领》]]、2000 年《联合国千年宣言》、联合国千年项目 2005 年报告、2006 年全民教育全球监测报告以及英国国际发展部（Department for International Development, DFID）与日本外务省官方白皮书。 |
+> | **文本样本** | 1990 年[[World Declaration on Education for All\|《世界全民教育宣言》]]及行动框架、1996 年经合组织 DAC《塑造21世纪》报告、2000 年[[Dakar Framework for Action\|《达喀尔行动纲领》]]、2000 年《联合国千年宣言》、联合国千年项目 2005 年报告、2006 年全民教育全球监测报告以及英国国际发展部（Department for International Development, DFID）与日本外务省官方白皮书。 |
 > | **历史证言** | 国际指导委员会档案记录、理查德·乔利关于经合组织 DAC 与联合国开发计划署起草内幕的书信证言、沃迪·哈达德关于单一全球目标历史误判的口述记录。 |
 > | **材料情境** | 覆盖 1990 年冷战结束至 2006 年千年发展目标中期审查长达 16 年的国际发展合作全过程。 |
 
