@@ -490,7 +490,7 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > - [[Victorian HITS and Literacy Toolkit]] — 维多利亚州将高影响教学策略（HITS）转化为课堂操作量规的政策输出。
 > - [[Tomorrow's Schools Reforms]] — 新西兰基础教育行政体制向证据本位与问责治理转型的关键改革。
 > - [[Treasury Briefing on Student-Teacher Ratios]] — 财政部门利用去情境化效应量数据论证不削减班额的政策修辞范例。
-> - [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] — 记录 EBE 与可见学习理念在澳新两国的政策采纳轨迹与[[Paradigm|范式]]争鸣。
+> - [[Argument_Sarbiewska_2019_KiW|Sarbiewska (2019)]] — 记录 EBE 与可见学习理念在澳新两国的政策采纳轨迹与[[Paradigm|范式]]争鸣。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 结合俄罗斯与澳大利亚政策实践，批判循证教育将复杂教学化约为量化排名的制度陷阱与师资倦怠风险。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对澳新等国广泛奉为循证基石的可见学习底层证据开展[[Preregistration|预注册]]全量复核，揭示严重的实证虚脱。
 
@@ -545,5 +545,5 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 纳入 109 项学校研究的[[Systematic Review|系统综述]]，揭示标准化 EBE 导致的[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]困境，确立培育专业能动性的组织生态进路。
 > - [[Argument_Slavin_2021_ECNUROE|Slavin et al. (2021)]] — 中美英首个跨国循证教育改革比较，记录中国实证研究的发展脉络与本土学者的五类理论质疑。
 > - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 追踪德国四个联邦州教育部循证政策实践，展现数据使用从政治合法化应对向行政常规的演化过程。
-> - [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] — 记录 EBE 与可见学习理念在澳新两国的政策采纳轨迹与[[Paradigm|范式]]争鸣。
+> - [[Argument_Sarbiewska_2019_KiW|Sarbiewska (2019)]] — 记录 EBE 与可见学习理念在澳新两国的政策采纳轨迹与[[Paradigm|范式]]争鸣。
 > - [[Argument_Zhao_2017_JEC|Zhao (2017)]] — 论证循证教育从医学借鉴了 RCT 却系统忽视了对干预副作用的检验。

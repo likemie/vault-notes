@@ -22274,6 +22274,19 @@
     ]
   },
   {
+    "title": "Didactic Triangle",
+    "type": "theory",
+    "path": "wiki/theories/instruction-pedagogy/Didactic Triangle.md",
+    "aliases": [
+      "教学三角",
+      "教学法三角",
+      "经典教学三角",
+      "修正教学三角",
+      "Modified Didactic Triangle",
+      "修正版教学三角"
+    ]
+  },
+  {
     "title": "Dynamic Knowledge and Learning Model",
     "type": "theory",
     "path": "wiki/theories/instruction-pedagogy/Dynamic Knowledge and Learning Model.md",
@@ -49979,9 +49992,9 @@
     "path": "wiki/arguments/journal-articles/Journal of Technology Studies/Argument_Murphy_2026_JTS.md"
   },
   {
-    "title": "Argument_Sarbiewska_2019_JSR",
+    "title": "Argument_Sarbiewska_2019_KiW",
     "type": "argument",
-    "path": "wiki/arguments/journal-articles/Język-Szkoła-Rodzina/Argument_Sarbiewska_2019_JSR.md"
+    "path": "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
   },
   {
     "title": "Argument_Brown_Greany_2018_LPS",

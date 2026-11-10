@@ -74,7 +74,7 @@ updated: 2026-11-10
 > [!citation-card] 学习危机的制度诊断
 >  schooling without learning is a wasted opportunity and a major injustice. 伴随入学人口激增，联合国教科文组织《全民教育全球监测报告 2013/2014》启用了全球学习危机概念，世界银行《2018 年世界发展报告》进而确立了有就学无学习的断言，并在后续推动设立学习贫困指标。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, p. 671)]]
 >
-> *"Schooling without learning was established as a reality for millions of children, with the World Bank’s (2018) World Development Report officially asserting that schooling is not the same as learning."*
+> *"Schooling without learning was established as a reality for millions of children, with the World Bank 2018 World Development Report officially asserting that schooling is not the same as learning."*
 
 ---
 
@@ -119,7 +119,7 @@ updated: 2026-11-10
 > > 发展主义阵营视报告为提升教育投入产出效益的循证蓝图；批判与去殖民学者指出报告依托危机认识论将历史债务与全球依附降维为单纯的认知赤字。
 > >
 > > - **世界银行与发展主义进路** 强调必须依靠可测度的数据界定问题，通过循证干预优化微观教学过程以实现人力资本增值。
-> > - **桑托斯与西洛娃等批判学者（2026）** 指出报告确立的危机叙事充当了外部专家自上而下干预主权国家的合法性工具，强化了[[White Saviour Mentality|白人救世主心态]]与受援国对外部专家的依附。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, pp. 671–678)]]
+> > - **去殖民与批判学者观点** 指出报告确立的危机叙事充当了外部专家自上而下干预主权国家的合法性工具，强化了[[White Saviour Mentality|白人救世主心态]]与受援国对外部专家的依附。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, pp. 671–678)]]
 
 ---
 

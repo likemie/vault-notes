@@ -293,7 +293,7 @@ updated: 2026-10-30
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hattie_2005_ACER\|Hattie, 2005]] — 在 [[Australian Council for Educational Research\|ACER]] 大会发表奠基性论文，首次系统提出 $d=0.40$ 关节点、30% 教师方差份额模型与 asTTle 形成性问责理论体系。
 > - [[Argument_Knudsen_2017_NordSTEP\|Knudsen, 2017]] — [[In-depth Interview\|深度访谈]]剖析 Hattie 对实证、翻译、理论与“结果的暴政”的反思与自白。
-> - [[Argument_Sarbiewska_2019_JSR\|Sarbiewska, 2019]] — 系统记录《[[Visible Learning]]》在新西兰、澳大利亚的制度化采纳与欧洲转译。
+> - [[Argument_Sarbiewska_2019_KiW\|Sarbiewska, 2019]] — 系统记录《[[Visible Learning]]》在新西兰、澳大利亚的制度化采纳与欧洲转译。
 > - [[Argument_Nordahl_2015_Paideia\|Nordahl, 2015]] — 阐释斯堪的纳维亚学校如何将 Hattie 转译为组织改进与专业判断的内部支点。
 > - [[Argument_Fredens_2015_Paideia\|Fredens, 2015]] — 从脑科学与学习科学视角评析 Hattie 教学原则在丹麦的本土化转译。
 > - [[Argument_Qvortrup_2015_Paideia\|Qvortrup, 2015]] — 运用动态知识学习模型回应丹麦批评，重建学习结果多维概念。

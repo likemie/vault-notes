@@ -11,9 +11,9 @@ person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
-born: ""
+born: "c. 1971"
 died: ""
-lifespan: ""
+lifespan: "c. 1971–至今"
 tags:
   - region/us
   - field/comparative-education
@@ -126,7 +126,7 @@ updated: 2026-11-10
 > > 主流发展经济学与量化比较学者倾向将基础技能评估视作保障儿童人权的中立工具；西洛娃与去殖民学者强调该评价体系剥离了地方情境与结构性不平等。
 > >
 > > - **主流发展主义视角** 主张通过统一的技能标准与循证项目实施全球问责，加速消除学习贫困。
-> > - **西洛娃与去殖民学者（2026）** 认为普世技能基准抹平了地方知识多样性，实质充当维系外部干预合法性的技术工具。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, pp. 671–674)]]
+> > - **西洛娃与去殖民学者** 认为普世技能基准抹平了地方知识多样性，实质充当维系外部干预合法性的技术工具。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, pp. 671–674)]]
 
 > [!critique] 批评索引
 > - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 提示反思性专家访谈依赖经验回顾，需警惕将芬兰教育体系过度理想化为普适去殖民替代方案的潜在风险。

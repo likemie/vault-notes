@@ -139,7 +139,7 @@ updated: 2026-11-02
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 对约翰·哈蒂《[[Visible Learning|可见的学习]]》理论基础提出五线系统哲学批判的奠基性文本。
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] — 丹麦学者克沃特鲁普从支持者立场反驳罗默的反馈集权化论断，将其批评归入“解释社群”的误读。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 丹麦心理学者与罗默就哈蒂底层理论是“激进[[Constructivist Paradigm|建构主义]]”还是“技术理性/[[Behaviorism|行为主义]]”展开深度学术商榷。
-> - [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] — 在波兰教育学研究中系统引介罗默关于可见学习导致“教学双重瓦解”的哲学批判。
+> - [[Argument_Sarbiewska_2019_KiW|Sarbiewska (2019)]] — 在波兰教育学研究中系统引介罗默关于可见学习导致“教学双重瓦解”的哲学批判。
 
 ---
 

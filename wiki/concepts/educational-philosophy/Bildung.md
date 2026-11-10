@@ -215,8 +215,8 @@ updated: 2026-11-03
 > [!claim] Thompson, M. et al.
 > **抵御[[Learning Analytics\|学习分析]]与算法对开放未来的系统性压缩** 在高等教育数字化治理试图通过学习分析、在线自我评估（[[Online Self-Assessment\|OSA]]）与大数据相关性预先优化学生未来的背景下，教化要求维护不受数据算法预测限制的自我探索空间。将学生界定为受数据预测控制的受体，实质上压缩了未知的可能性，而教化恰恰要求对未知开放。[[Argument_Thompson_2022_Promising_Student\|(Thompson et al., 2022, p. 227)]]
 
-> [!claim] Sarbiewska, J.
-> **维护教化行动相对于社会化规训的独立权** 依据本纳（[[Dietrich Benner]]）的相对独立性理论，教化（Bildung）行动必须独立于普通的社会化规训（Erziehung）。如果教育被完全还原为对既有社会规范、经济效率与政治秩序的单向度再生产，个体将沦为被动塑造的客体，丧失反思与重塑社会的潜能。[[Argument_Sarbiewska_2019_JSR\|(Sarbiewska, 2019, pp. 122–123)]]
+> [!claim] Sarbiewska, A.
+> **维护教化行动相对于社会化规训的独立权** 依据本纳（[[Dietrich Benner]]）的相对独立性理论，教化（Bildung）行动必须独立于普通的社会化规训（Erziehung）。如果教育被完全还原为对既有社会规范、经济效率与政治秩序的单向度再生产，个体将沦为被动塑造的客体，丧失反思与重塑社会的潜能。[[Argument_Sarbiewska_2019_KiW\|(Sarbiewska, 2019, pp. 122–123)]]
 
 > [!claim] Jornitz, S. & Klinge, D.
 > **三维关系结构对数字化算法治理的批判** 高等教育数字化转型往往将知识降维为模块化技能包，割裂了个体与自身、他者及世界的有机连接；教化的三维关系框架为揭示数字化技术如何侵蚀师生深度对话与公共精神提供了核心批判依据。[[Argument_Jornitz_2022_Bildung_algorithmic\|(Jornitz & Klinge, 2022, p. 246)]]
@@ -315,7 +315,7 @@ updated: 2026-11-03
 > - [[Argument_Cole_2005_JRIE|Cole (2005)]] — 探讨[[Georg Wilhelm Friedrich Hegel|黑格尔]]教化哲学在 [[IB Diploma Programme|IB DP]] [[Theory of Knowledge|知识论]]（TOK）课程中的主体性辩证应用与局限。
 > - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — 运用三维关系结构批判高等教育数字化治理中的算法控制与技能碎片化。
 > - [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]] — 揭示在线自我评估与[[Learning Analytics|学习分析]]如何压缩学生未来的[[Open-Mindedness|开放性]]，主张教化对未知的开放探索。
-> - [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] — 基于本纳相对独立性理论，论证教化行动必须独立于普通社会化规训。
+> - [[Argument_Sarbiewska_2019_KiW|Sarbiewska (2019)]] — 基于本纳相对独立性理论，论证教化行动必须独立于普通社会化规训。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 从[[Didaktik|欧陆教学论]]与教化传统批判《[[Visible Learning|可见的学习]]》抽空学科教学内容与课程合法化反思的形式主义局限，质问其实质内容何在（pp. 425–438）。
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 考察《可见的学习》商业项目在北欧的落地冲突，揭示丹麦格隆维全人教化与民主自治传统对特许专营与逐字脚本规训的本土抵抗。
 
