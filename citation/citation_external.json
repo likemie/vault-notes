@@ -4654,6 +4654,8 @@
     "Christodoulou, 2017": "Christodoulou, 2017",
     "Christof Wecker (2016)": "Christof Wecker, 2016",
     "Christof Wecker, 2016": "Christof Wecker, 2016",
+    "Christophe Lécuyer (1999)": "Christophe Lécuyer, 1999",
+    "Christophe Lécuyer, 1999": "Christophe Lécuyer, 1999",
     "Christopher Ansell (2000)": "Christopher Ansell, 2000",
     "Christopher Ansell, 2000": "Christopher Ansell, 2000",
     "Christopher Harrison (2010)": "Christopher Harrison, 2010",
@@ -61742,6 +61744,21 @@
       "seen_in": [
         "wiki/concepts/instruction-pedagogy/Direct Instruction.md",
         "wiki/concepts/research-methodology/Unit of Analysis.md"
+      ],
+      "title": ""
+    },
+    "Christophe Lécuyer, 1999": {
+      "aliases": [
+        "Christophe Lécuyer, 1999",
+        "Christophe Lécuyer (1999)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Christophe Lécuyer, 1999"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/university-industry-collaboration/San Francisco Bay Area.md"
       ],
       "title": ""
     },

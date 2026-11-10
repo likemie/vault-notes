@@ -8,10 +8,10 @@ aliases:
   - 中试验证线
   - pilot line
   - 中试制造平台
-summary: "介于大学/实验室基础研发与工业规模化量产之间的关键共性技术基础设施。通过中立的测试验证线、共享微纳洁净室、湿实验室与 GMP 级中试制造环境，提供工艺可行性验证、设备成熟度评估（MTBF/COO）与小批量试生产服务，是跨越技术就绪度（TRL 4–7）“死亡之谷”、降低产业链协同风险并锁定国家先进制造能力的核心制度载体。"
+summary: "介于大学与科研机构实验室基础研发与工业规模化量产之间的关键共性技术基础设施。通过中立的测试验证线、共享微纳洁净室、湿实验室与 GMP 级中试制造环境，提供工艺可行性验证、设备成熟度评估与小批量试生产服务，是跨越技术就绪度（TRL 4–7）“死亡之谷”、降低产业链协同风险并支撑先进制造能力的核心制度载体。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 60
+related_count: 61
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -88,10 +88,11 @@ related_arguments:
   - "[[Argument_Logar_2014_Minerva]]"
   - "[[Argument_Zhuo_2026_ICE]]"
   - "[[Argument_Mody_2017_MOH]]"
+  - "[[Argument_Qu_2024_IJED]]"
 confidence: high
 status: active
 created: 2026-06-05
-updated: 2026-11-03
+updated: 2026-11-10
 ---
 
 ---
@@ -103,7 +104,7 @@ updated: 2026-11-03
 
 > [!concept-lens] 概念透镜
 > - **核心功能** 指向技术放大与工艺工程化过程中必须依赖的“共享试验中介实体”，解决研发原型与大规模量产之间的工程失配，并作为中立的第三方质量认证与接口标准制定载体。
-> - **战略定位** 不仅服务于半导体晶圆先进制程的工艺调试，更拓展为涵盖先进航天动力试验场、量子微纳加工洁净室与生物医药 GMP 中试线的国家级产业共性基座。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 38–41)]]
+> - **战略定位** 不仅服务于半导体晶圆先进制程的工艺调试，更拓展为涵盖先进航天动力试验场、量子微纳加工洁净室与生物医药 GMP 中试线的国家级产业支撑基础设施。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 38–41)]]
 > - **制度边界** 区别于大学实验室的概念验证中心（PoP，侧重实验室科学原理可行性），也区别于追求满负荷运转与商业利润的工业量产晶圆厂（Commercial Fab）。
 
 > [!citation-card] 白宫 [[Office of Science and Technology Policy|OSTP]] 论共享试验场与国家实验室中试制造平台的战略价值
@@ -111,7 +112,7 @@ updated: 2026-11-03
 >
 > *Physical innovation faces a severe testing gap between laboratory discovery and industrial deployment. The Mojave testbed incubated the commercial space sector by offering low-cost testing infrastructure. Opening [[Department of Energy|DOE]] user facilities, sharing NNCI cleanrooms at hourly rates, and co-investing in GMP pilot facilities compress proof-of-concept timelines from years to weeks, bridging the heavy capital gap for deep-tech startups.*
 
-> [!citation-card] 中试共性试验线在[[Industry Affiliate Program|产业联盟]]中的枢纽功能
+> [!citation-card] 中试共性试验线在[[Industry Affiliate Program|产业联盟]]中的关键功能
 > [[Sematech]] 在得克萨斯州奥斯汀建立了世界级的半导体制造中试试验线。这一集中设施使联盟能够对成员企业和上游设备供应商开发的先进制程设备进行严格的[[Reliability|可靠性]]认证、平均无故障工作时间测试与所有权成本评估，而无需冒着停产风险在芯片制造商的商业量产线上进行调试。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 733–735)]]
 >
 > *SEMATECH constructed a centralized, world-class cleanroom and pilot facility in Austin, Texas... This central facility enabled the consortium to conduct rigorous equipment qualification and testing under simulated production conditions without disrupting member firms' commercial manufacturing operations.*
@@ -122,8 +123,8 @@ updated: 2026-11-03
 > *Bridging the translation gap between lab discovery and industrial deployment requires a coordinated, multi-tiered prototyping and pilot infrastructure. By integrating the NSTC 300mm prototyping facility, NAPMP advanced packaging pilot line, [[Microelectronics Commons|DOD Microelectronics Commons]] regional hubs, and NNCI open nanofabrication networks, backed by the Digital Design Enablement Gateway (DEG) and standardized PDK/ADK access, the nation establishes a robust lab-to-fab pipeline spanning Basic Research, prototyping, and volume manufacturing.*
 
 > [!boundary]- 概念边界
-> - 不等于 概念验证中心（PoP）— 概念验证主要在大学内部评估早期发明（TRL 3–4）是否具有商业化潜力和专利价值，投资规模通常在数万至数十万美元；中试平台涉及数千万至数亿美元的重资产装备配置，针对 TRL 4–7 开展全流程工艺放大与中试试制。
-> - 不等于 商业量产代工厂（Commercial Foundry）— 商业代工厂以良率最大化、规模化出货和商业盈利为目标，严禁未成熟设备的随意切入；中试平台以容错试错、参数调优、极限测试和跨厂商接口认证为核心使命。
+> - 不等于 概念验证中心（PoP）：概念验证主要在大学内部评估早期发明（TRL 3–4）是否具有商业化潜力和专利价值，投资规模通常在数万至数十万美元；中试平台涉及数千万至数亿美元的重资产装备配置，针对 TRL 4–7 开展全流程工艺放大与中试试制。
+> - 不等于 商业量产代工厂（Commercial Foundry）：商业代工厂以良率最大化、规模化出货和商业盈利为目标，严禁未成熟设备的随意切入；中试平台以容错试错、参数调优、极限测试和跨厂商接口认证为核心使命。
 
 ---
 
@@ -180,23 +181,11 @@ updated: 2026-11-03
 
 ---
 
-> [!contrast-table] 中试平台核心命题归纳
-> | 命题类型 | 核心指向 | 代表学者 / 机构 | 实证情境 |
-> |---|---|---|---|
-> | **供应链降险与互信协同命题** | 中试平台通过中立性能测试与参数标准化，消除上下游协同障碍与采购风险 | [[Argument_Grindley_1994_JPAM\|Grindley et al. (1994)]] | 高端装备研发、半导体专用材料与复杂制造工艺验证 |
-> | **国家战略韧性与公共基石命题** | 中试平台是分担重资产研发风险、促进军民两用转化与维系产业链韧性的公共产品 | [[Argument_Fuchs_2010_RP\|Fuchs (2010)]]; [[Argument_Mowery_2011_NBER\|Mowery (2011)]] | 国家重大战略产业攻关、[[CHIPS and Science Act\|芯片法案]] NSTC 建设与国防技术溢出 |
-> | **开放普惠与基础设施跨越命题** | 公共中试平台弥补[[Membership-based Research Consortium\|会员制联合体]]对中小企业的结构性排斥，并为重资产行业提供全链条中试示范支撑 | [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] | 中小微初创企业孵化、微纳制造工艺赋能、新能源与电网基础设施技术放大 |
-> | **深科技试验场降本赋能命题** | 开放共享试验场与 GMP 中试平台能将概念验证周期从数年压缩至数周，打破重资产融资瓶颈 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | 莫哈韦火箭试验台催生商业航天；国家实验室微纳工具与 GMP 中试线开放 |
-> | **大学洁净室共置转化命题** | 大学主导 300 毫米先进制程中试线与空间共置能够打通深科技工程转化断层 | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | [[Albany NanoTech Complex\|Albany NanoTech]] 300 毫米中试线与 MIT.nano 跨学科微纳开放设施 |
-> | **全要素跨部门中试漏斗命题** | 300mm 分布式中试基线结合跨部门转化漏斗（NSTC/NAPMP/Commons/NNCI）与云端设计网关（DEG），实现实验室到制造厂（[[Translational Research\|lab-to-fab]]）周期压缩 50% 与试错成本剧降 | [[Argument_NIST_2023_NSTC\|NIST (2023)]]; [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | 《芯片与科学法案》中试网络、先进封装基线（[[National Advanced Packaging Manufacturing Program\|NAPMP]]）与国防微电子公有云（[[Microelectronics Commons\|Commons]]） |
-
----
-
 > [!concept-proposition] 命题一｜中试共性试验线能够有效消除买卖双方信息不对称并降低新技术导入风险
 > **供应链信任、参数验证与信息不对称消除** 探讨中试验证平台如何通过独立客观的第三方测试，化解下游制造厂对采购新型装备的风险疑虑。
 
 > [!claim] [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]]
-> **中试验证平台打破买卖双方对抗性采购僵局** 在半导体等高资本密度行业中，芯片制造商因担心昂贵量产线停机而极度抗拒采购本土新设备；[[Sematech]] 奥斯汀中试验证平台的建立，为中小设备商提供了客观证明其平均无故障工作时间（MTBF）和[[Cost of Ownership|所有权成本]]（COO）的公共舞台，成功将设备引入调试周期缩短数倍，成为美国扭转半导体装备市场劣势的关键抓手。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 733–735, 744–746)]]
+> **中试验证平台打破买卖双方对抗性采购僵局** 在半导体等高资本密度行业中，芯片制造商因担心昂贵量产线停机而极度抗拒采购本土新设备；[[Sematech]] 奥斯汀中试验证平台的建立，为中小设备商提供了客观证明其平均无故障工作时间（MTBF）和[[Cost of Ownership|所有权成本]]（COO）的公共舞台，成功将设备引入调试周期缩短数倍，成为美国扭转半导体装备市场劣势的核心制度工具。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 733–735, 744–746)]]
 
 ---
 
@@ -209,7 +198,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题三｜开放中试设施有效弥补会员制联合体的排他缺陷并支撑重资产基础设施跨越
-> **开放准入、中小企业赋能与重资产基础设施锁定** 探讨公共开放中试平台如何突破私营大企业垄断联合体的排他壁垒，赋能中小初创企业。
+> **开放准入、中小企业支持与重资产基础设施锁定** 探讨公共开放中试平台如何突破私营大企业垄断联合体的排他壁垒，支持中小初创企业。
 
 > [!claim] [[Argument_Logar_2014_Minerva|Logar et al. (2014)]]
 > **公共开放中试平台承担重资产锁定[[Research Translation|技术转化]]的刚性载体** 类似[[Semiconductor Research Corporation|半导体研究公司]]（SRC）这类由行业巨头主导的[[Membership-based Research Consortium|会员制研发联合体]]因高额会费与派驻负担，天然对中小初创企业构成排斥壁垒；联邦机构与国家实验室必须建立专门的公共开放中试平台（如 [[National Institute of Standards and Technology|NIST]] 纳米制造中心），为中小微企业提供低门槛进入的共享流片与工艺放大环境，并在光伏与电网等重资产锁定领域承担全链条技术示范与并网测试。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 255–257)]]
@@ -233,10 +222,31 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题六｜全要素 300mm 分布式基线与跨部门中试转化漏斗实现从实验室到量产线（Lab-to-Fab）的系统跨越
-> **全要素中试体系、跨部门漏斗接力与数字赋能网关** 探讨现代国家级中试平台如何将实体洁净室基础设施、跨机构中试漏斗与云端数字化设计流程深度融合，突破深科技研发的原型验证瓶颈。
+> **全要素中试体系、跨部门漏斗接力与数字化设计网关** 探讨现代国家级中试平台如何将实体洁净室基础设施、跨机构中试漏斗与云端数字化设计流程深度融合，突破深科技研发的原型验证瓶颈。
 
 > [!claim] [[Argument_NIST_2023_NSTC|NIST (2023)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]]
-> **软硬件一体化中试赋能与跨部门转化范围扩大** 现代半导体中试平台突破了传统单一物理产线的局限，演进为由[[National Science and Technology Council|白宫国家科学技术委员会]][[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（SML）统筹的跨部门中试生态体系：涵盖[[National Semiconductor Technology Center|美国国家半导体技术中心]]（NSTC）300mm 先进制程基线、国家先进封装制造计划（[[National Advanced Packaging Manufacturing Program|NAPMP]]）先进封装试验线、国防部微电子公有云（Commons）8 大区域原型[[Innovation Hub|创新中心]]，以及国家纳米技术协调基础设施（[[National Nanotechnology Coordinated Infrastructure|NNCI]]）与国家实验室开放微纳设施。通过提供测试样片（Test Coupons）接口、共享高价值 EDA/IP 许可、开放工艺/[[Assemblage|组装]]设计套件（[[Process Design Kit|PDK]]/ADK）及[[Multi-Project Wafer|多项目晶圆]]（MPW）排期聚合，初创企业与大学学者无需耗资数千万美元即可完成工业级验证；该机制将尖端芯片从概念到商业化的周期压缩 50% 以上（缩短 3–5 年），成为深科技从实验室到量产线（[[Translational Research|lab-to-fab]]）跨越的核心引擎。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 8–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–29)]]
+> **软硬件一体化中试支持与跨部门转化范围扩大** 现代半导体中试平台突破了传统单一物理产线的局限，演进为由[[National Science and Technology Council|白宫国家科学技术委员会]][[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（SML）统筹的跨部门中试生态体系：涵盖[[National Semiconductor Technology Center|美国国家半导体技术中心]]（NSTC）300mm 先进制程基线、国家先进封装制造计划（[[National Advanced Packaging Manufacturing Program|NAPMP]]）先进封装试验线、国防部微电子公有云（Commons）8 大区域原型[[Innovation Hub|创新中心]]，以及国家纳米技术协调基础设施（[[National Nanotechnology Coordinated Infrastructure|NNCI]]）与国家实验室开放微纳设施。通过提供测试样片（Test Coupons）接口、共享高价值 EDA/IP 许可、开放工艺/[[Assemblage|组装]]设计套件（[[Process Design Kit|PDK]]/ADK）及[[Multi-Project Wafer|多项目晶圆]]（MPW）排期聚合，初创企业与大学学者无需耗资数千万美元即可完成工业级验证；该机制将尖端芯片从概念到商业化的周期压缩 50% 以上（缩短 3–5 年），成为深科技从实验室到量产线（[[Translational Research|lab-to-fab]]）跨越的核心支撑。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 8–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–29)]]
+
+---
+
+> [!concept-proposition] 命题七｜校地协同共建中试基地支撑县域传统产业转型跨越
+> **地方政府出资、大学国际校区与成果就地中试转化** 探讨地方政府如何通过提供土地与重资产资金支持，依托大学高水平国际联合学院建立成果中试转化基地，破解县域经济向高端制造转型的技术与空间制约。
+
+> [!claim] [[Argument_Qu_2024_IJED|Qu and Dai (2024)]]
+> **国际校区中试转化基地驱动县域传统制造业升级** 针对皮革、经编等传统县域产业面临的技术锁定与结构升级困境，地方政府（如浙江海宁）规划建设 7.1 平方公里的鹃湖科技城，协同浙江大学国际联合学院（与伊利诺伊大学厄巴纳-香槟分校、爱丁堡大学合作）共建国际联合研究中心与成果转化中试基地；这一机制为国际前沿生物健康与智能工程原型提供了中试工程验证与小规模试制空间，打通了跨国前沿知识从大学实验室向县域高新产业集群就地转化的中间链条。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 6, 10)]]
+
+---
+
+> [!contrast-table] 中试平台核心命题归纳
+> | 命题类型 | 核心指向 | 代表学者 / 机构 | 实证情境 |
+> |---|---|---|---|
+> | **供应链降险与互信协同命题** | 中试平台通过中立性能测试与参数标准化，消除上下游协同障碍与采购风险 | [[Argument_Grindley_1994_JPAM\|Grindley et al. (1994)]] | 高端装备研发、半导体专用材料与复杂制造工艺验证 |
+> | **国家战略韧性与公共基石命题** | 中试平台是分担重资产研发风险、促进军民两用转化与维系产业链韧性的公共产品 | [[Argument_Fuchs_2010_RP\|Fuchs (2010)]]; [[Argument_Mowery_2011_NBER\|Mowery (2011)]] | 国家重大战略产业攻关、[[CHIPS and Science Act\|芯片法案]] NSTC 建设与国防技术溢出 |
+> | **开放普惠与基础设施跨越命题** | 公共中试平台弥补[[Membership-based Research Consortium\|会员制联合体]]对中小企业的结构性排斥，并为重资产行业提供全链条中试示范支撑 | [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] | 中小微初创企业孵化、微纳制造工艺支持、新能源与电网基础设施技术放大 |
+> | **深科技试验场降低验证门槛命题** | 开放共享试验场与 GMP 中试平台能将概念验证周期从数年压缩至数周，打破重资产融资瓶颈 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | 莫哈韦火箭试验台催生商业航天；国家实验室微纳工具与 GMP 中试线开放 |
+> | **大学洁净室共置转化命题** | 大学主导 300 毫米先进制程中试线与空间共置能够打通深科技工程转化断层 | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | [[Albany NanoTech Complex\|Albany NanoTech]] 300 毫米中试线与 MIT.nano 跨学科微纳开放设施 |
+> | **全要素跨部门中试漏斗命题** | 300mm 分布式中试基线结合跨部门转化漏斗（NSTC/NAPMP/Commons/NNCI）与云端设计网关（DEG），实现实验室到制造厂（[[Translational Research\|lab-to-fab]]）周期压缩 50% 与试错成本剧降 | [[Argument_NIST_2023_NSTC\|NIST (2023)]]; [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | 《芯片与科学法案》中试网络、先进封装基线（[[National Advanced Packaging Manufacturing Program\|NAPMP]]）与国防微电子公有云（[[Microelectronics Commons\|Commons]]） |
+> | **校地共建中试基地支撑产业转型命题** | 地方政府协同大学国际合作机构建设中试基地，提供工程放大与试制空间，支撑传统产业转型 | [[Argument_Qu_2024_IJED\|Qu and Dai (2024)]] | 浙江海宁国际校区与鹃湖科技城 7.1 平方公里中试转化生态 |
 
 ---
 
@@ -250,7 +260,7 @@ updated: 2026-11-03
 
 ---
 
-> [!debates] 学术争议与治理张力
+> [!debates|notitle]
 >
 > > [!axis] 集中式实体中试线 vs 分散式虚拟中试网络的效率争鸣
 > > 研发联盟是否必须斥巨资自建集中中试洁净室，还是应依托大学与企业现有产线构建虚拟网络。
@@ -271,11 +281,12 @@ updated: 2026-11-03
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键统计与经验结果 | 解释边界 |
 > |:---|:---|:---|:---|:---|:---|
 > | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | 白宫跨部门微电子研发中试网络（[[National Science and Technology Council\|NSTC]]/[[National Advanced Packaging Manufacturing Program\|NAPMP]]/Commons/[[National Nanotechnology Coordinated Infrastructure\|NNCI]]） | 国家级跨部门战略评估与中试转化路线图分析 | 跨部门漏斗接力、开放中试节点覆盖数、[[Process Design Kit\|PDK]]/ADK 开放准入度、原型流片周期压缩率 | 统筹 NSTC 300mm 基线、NAPMP 封装线、Commons 8 大区域中心与 NNCI 16 个高校节点；通过云端 DEG 与标准 ADK 接口将大学与初创企业原型验证周期压缩 50% | 确立全政府统筹（Whole-of-Government）下从底层物理探索到量产的跨机构中试转化体系 |
-> | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | [[National Semiconductor Technology Center\|美国国家半导体技术中心]]（NSTC）多节点共享中试体系 | 国家战略规划与产业中试体系设计 | 研发预算（110 亿美元）、中试技术中心构型、[[Multi-Project Wafer\|多项目晶圆]]与封装排期（MPW）、设计赋能网关 | 规划极紫外（EUV）光刻与先进 CMOS 基线试验线；设立 30 亿美元先进封装计划与 20 亿美元国防原型网络；构建云端设计网关以大幅压缩从实验室到代工厂（[[Translational Research\|lab-to-fab]]）周期（缩短 3–5 年）与研发成本 | 确立国家级半导体共性中试与原型转化平台的顶层设计[[Paradigm\|范式]] |
+> | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | [[National Semiconductor Technology Center\|美国国家半导体技术中心]]（NSTC）多节点共享中试体系 | 国家战略规划与产业中试体系设计 | 研发预算（110 亿美元）、中试技术中心构型、[[Multi-Project Wafer\|多项目晶圆]]与封装排期（MPW）、设计网关 | 规划极紫外（EUV）光刻与先进 CMOS 基线试验线；设立 30 亿美元先进封装计划与 20 亿美元国防原型网络；构建云端设计网关以大幅压缩从实验室到代工厂（[[Translational Research\|lab-to-fab]]）周期（缩短 3–5 年）与研发成本 | 确立国家级半导体共性中试与原型转化平台的顶层设计[[Paradigm\|范式]] |
 > | [[Argument_Grindley_1994_JPAM\|Grindley et al. (1994)]] | 美国 [[Sematech]] 奥斯汀中试试验平台（1988–1992） | 深度工程项目档案考察（11 项）与[[Expert Interview\|专家访谈]]（25+ 场） | 设施建设投资、合作设备商覆盖数、设备平均无故障时间（MTBF）提升倍数 | 投资建设世界级洁净室中试线；覆盖 **130+ 家**设备与材料商；受测试设备 MTBF 提升 **数倍**，新设备引入调试周期大幅缩短 | 证实集中式中试平台在提升在役装备[[Reliability\|可靠性]]上的微观工程成效 |
 > | [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] | 美国[[Semiconductor Research Corporation\|半导体研究公司]]（SRC）与联邦微电子中试设施（NIST 纳米制造中心等） | 嵌入式单案例研究与访谈（$N=19$）及跨行业比较 | 中小企业参与壁垒、开放中试平台必要性、能源技术电网锁定周期 | SRC 产业联合体模式因高额会费与派驻要求导致中小初创企业缺位；电网资产锁定长达 40 年造成严重基础设施锁定 | 证实公共开放中试平台是弥补纯私营联合体排斥中小企业缺陷的必要制度补充 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | 莫哈韦火箭试验场与国家纳米技术基础设施（NNCI）中试共享 | 科技战略政策评估 | 共享工具规模与验证周期缩短跨度 | NNCI 提供 2000 余台共享工具；中试共享平台将深科技初创企业概念验证周期从数年压缩至数周 | 适用于前沿硬科技与深科技初创企业跨越[[Valley of Death\|死亡之谷]]情境 |
 > | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | 美国[[Research Universities\|研究型大学]] 300 毫米晶圆中试线与共享洁净室（Albany NanoTech、MIT.nano） | 政策[[Document\|文献]]解构与多案例制度分析 | 晶圆尺寸规范（300 毫米）、产学空间共置（[[University-Industry Co-location\|co-location]]）、跨学科设备共享 | 依托 Albany 300 毫米晶圆中试线与 MIT.nano 开放微纳平台，学者与工程师空间共置，有效消除 [[Technology Readiness Level\|TRL]] 4–6 制造断层 | 适用于国家战略先进制程与半导体深科技转化情境 |
+> | [[Argument_Qu_2024_IJED\|Qu and Dai (2024, pp. 6, 10)]] | 浙江海宁国际校区与鹃湖科技城中试转化基地 | 单案例实证追踪与政策解构 | 科技城规划面积（7.1 平方公里）、中试协同模式、产业赛道（生命健康与智能制造） | 地方政府全额出资 7.1 平方公里科技城作为国际校区中试承载平台，推动国际前沿成果就地中试验证与小批量试制，促成传统皮革与纺织产业向高科技制造跨越 | 呈现县级政府依托高水平国际合作办学与中试基地实现产业结构转型的机制 |
 
 ---
 
@@ -297,7 +308,7 @@ updated: 2026-11-03
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle]
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — [[National Science and Technology Council|白宫国家科学技术委员会]]战略报告，系统阐述统筹 NSTC 300mm 基线产线、[[National Advanced Packaging Manufacturing Program|NAPMP]] 先进封装试验线、Commons 8 大区域原型中心与 [[National Nanotechnology Coordinated Infrastructure|NNCI]] 开放网络，通过云端 DEG 与标准 [[Process Design Kit|PDK]]/ADK 跨越实验室到制造厂（[[Translational Research|lab-to-fab]]）转化鸿沟的顶层设计。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 阐述《[[CHIPS and Science Act|芯片与科学法案]]》下[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）构建共享技术中心、[[Multi-Project Wafer|多项目晶圆流片]]（MPW）与云端设计网关以跨越半导体“[[Valley of Death|死亡之谷]]”的顶层战略设计。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，系统论述共享试验场、NNCI 微纳洁净室与 GMP 级中试制造平台对跨越深科技[[Valley of Death|死亡之谷]]与重振本土先进制造的战略基石作用。
@@ -307,4 +318,4 @@ updated: 2026-11-03
 > - [[Argument_Mowery_2011_NBER|Mowery, 2011]] — 探讨中试验证设施与接口标准规范对降低[[General Purpose Technology|通用目的技术]][[Co-invention|共同发明]]成本的制度价值。
 > - [[Argument_Logar_2014_Minerva|Logar et al., 2014]] — 论证公共开放中试平台如何弥补[[Membership-based Research Consortium|会员制研发联合体]]（如 [[Semiconductor Research Corporation|SRC]]）对中小企业的排他壁垒，并阐明能源技术基础设施锁定对全链条中试示范的刚性需求。
 > - [[Argument_Mody_2017_MOH|Mody, 2017]] — 剖析重资产微电子中心多边平台[[Technology Transfer|技术转移]]与多学科跨界转化的核心机制。
-
+> - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 比较教育与区域发展实证研究，探讨浙江海宁依托浙江大学国际校区与 7.1 平方公里鹃湖科技城构建中试转化基地，支撑县域传统产业向生命健康与智能制造升级的校地协同机制。
