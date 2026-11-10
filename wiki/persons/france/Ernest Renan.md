@@ -72,7 +72,7 @@ updated: 2026-11-10
 ---
 
 > [!work-line] 主要著作
-> - **1882 — *Qu'est-ce qu'une nation?* （什么是民族？）** 提出民族非由种族、语言、宗教、利益或地理界定，而是由过去共同牺牲的情感与当下共同生活的同意构成的精神原则，即[[Everyday Plebiscite|每日公民投票]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
+> - **1882 — *Qu'est-ce qu'une nation?* （什么是民族？）** 提出民族是由过去共同牺牲的情感与当下共同生活的同意构成的精神原则，即[[Everyday Plebiscite|每日公民投票]]，超越了种族、语言、宗教或地理等外部要素的限定。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
 
 ---
 

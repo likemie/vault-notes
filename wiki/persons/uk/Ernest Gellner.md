@@ -46,7 +46,7 @@ updated: 2026-11-10
 > - **代表贡献** 著作《思想与变革》（1964）与《民族与民族主义》（1983），提出民族主义发明民族的著名命题，为[[Imagined Community|想象的共同体]]理论提供了关键思想参照。
 
 > [!citation-card] 人物定位的关键来源
-> 格尔纳以相当决绝的态度确立了一条相近的判定：民族主义绝非唤醒沉睡中的民族走向自觉意识，它是在原本不存在民族的地方发明了民族。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 6)]]
+> 格尔纳以相当决绝的态度确立了一条相近的判定：民族主义在原本不存在民族的地方发明了民族，直接重构了民族作为预先存在实体的设想。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 6)]]
 >
 > *With a certain ferocity Gellner makes a comparable point when he rules that 'Nationalism is not the awakening of nations to self-consciousness: it invents nations where they do not exist.'*
 
@@ -73,7 +73,7 @@ updated: 2026-11-10
 > 现代民族是工业化转型中社会流动性与文化均质化强制需求的产物。工业生产依赖普遍识字且能够跨地域自由流动的劳动力，迫使国家必须接管大众基础教育并推行单一标准化的高阶文化；在这一进程中，民族主义将原本多样的低阶本土文化改造或发明为同质性的民族认同。
 
 > [!citation-card] 格尔纳论民族主义发明民族
-> 民族主义绝非民族的自我苏醒：它在原本不存在民族之地发明出民族。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 6)]]
+> 民族主义在原本不存在民族之地发明出民族，直接瓦解了民族自然苏醒的既有预设。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 6)]]
 >
 > *Nationalism is not the awakening of nations to self-consciousness: it invents nations where they do not exist.*
 
@@ -91,6 +91,6 @@ updated: 2026-11-10
 ---
 
 > [!citation-card] 安德森论格尔纳发明说的局限
-> 这类表述的缺陷在于，格尔纳过于急切地论证民族主义乃是戴着假面具行事，以致把‘发明’径直等同于‘捏造’与‘虚假’，而非‘想象’与‘创造’。以此方式，他暗示存在某种可以优越地与民族相对立的‘真正’共同体。事实上，一切超越直接面对面交往之原始村落的共同体，皆是被想象出来的。区分共同体的标准，并不在于其真实或虚伪，而在于其被想象的具体风格。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 6)]]
+> 这类表述的缺陷在于，格尔纳过于急切地论证民族主义戴着假面具行事，把‘发明’径直等同于‘捏造’与‘虚假’，忽略了‘想象’与‘创造’的建设性维度。以此方式，他暗示存在某种可以优越地与民族相对立的‘真正’共同体。事实上，一切超越直接面对面交往之原始村落的共同体，皆是被想象出来的。区分共同体的标准取决于其被想象的具体风格，超越了真实与虚伪的简单对立。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 6)]]
 >
 > *The drawback to this formulation, however, is that Gellner is so anxious to show that nationalism masquerades under false pretences that he assimilates 'invention' to 'fabrication' and 'falsity', rather than to 'imagining' and 'creation'. In this way he implies that 'true' communities exist which can be advantageously juxtaposed to nations. In fact, all communities larger than primordial villages of face-to-face contact (and perhaps even these) are imagined. Communities are to be distinguished, not by their falsity/genuineness, but by the style in which they are imagined.*
