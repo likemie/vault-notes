@@ -322,3 +322,4 @@ updated: 2026-10-30
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演化视角，论证 2025 年起美国科技政策转向以技术能力掌控为核心的替代契约，剖析国家实验室与企业崛起对研究型大学轴心地位的替代效应及三轨分化生态。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford and UIDP (2019)]] — 深度剖析[[Netherlands Top-sector Policy|荷兰顶级行业政策]]如何激活三重螺旋，论证三方互动质量而非单纯研发强度投入是决定[[Competitiveness|国家竞争力]]的核心驱动。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 揭示在地缘半导体竞赛下，[[EU|欧盟]]通过 [[Important Projects of Common European Interest|IPCEI ME/CT]] 整合 30 余所大学开展 180 项跨国产学协同攻关，展现超国家多边战略产学网络的新形态。
+> - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 运用大学-产业-政府三重螺旋框架，剖析中国教育枢纽在长三角、大湾区与海南通过产学研协同推动区域转向知识与服务型经济的赋能机制。

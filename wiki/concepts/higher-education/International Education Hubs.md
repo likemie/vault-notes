@@ -169,6 +169,7 @@ Knight and Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, ci
 - 新加坡通过"[[Singapore Education Hub Policy|东方波士顿]]"战略（1996–1997）按美国常春藤模式重塑国立大学，随后以"全球校园"项目（2002–）吸引世界一流大学商业化运营，但 2007 年遭遇市场失败后转向强化监管([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.207–210]])。详见 Erfurth 的案例比较
 - 阿联酋内部呈现显著分化：阿布扎比侧重[[Cultural Diplomacy|文化外交]]（资助 NYU Abu Dhabi、索邦、卢浮宫等高端文化机构），迪拜侧重政治经济（通过经济区打造[[International Branch Campus|国际分校]]产业集群，已拥有全球第二多国际分校 33 所）([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.208–211]])
 - 两国共同的运作模式：国家主导的高等教育扩张被嵌入更大的[[Geopolitics|地缘政治]]项目，高等教育成为追求地缘政治转型的**工具**而非目标本身([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.211–212]])
+- 中国教育枢纽实证模式：Qu and Dai (2024) 扩展了教育枢纽在东亚大国的制度实践，通过比较案例研究提炼出单核驱动（长三角 iZJU）、多核集群（粤港澳大湾区）与园区平台共享（海南自贸港）三种不同制度设计，揭示国家如何通过产学政协同将跨境高等教育活动嵌入区域经济高质量发展([[Argument_Qu_2024_IJED|Qu & Dai, 2024]])
 
 > [!info] 核心数据
 > - Knight (2014) 识别的教育枢纽国家/地区：新加坡、阿联酋、卡塔尔、香港、马来西亚、博茨瓦纳、韩国、斯里兰卡、毛里求斯、巴林（p.202）
@@ -192,7 +193,13 @@ Knight and Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, ci
 - 香港 — 追求区域教育枢纽地位（Mok & Bodycott, 2014）
 - 新加坡 — "[[Singapore Education Hub Policy|东方波士顿]]"战略和"全球校园"项目代表了教育枢纽的早期实践形态(Sidhu et al., 2014; [[Argument_Erfurth_2022_education-hubs|Erfurth, 2022]])
 - 阿拉伯联合酋长国 — 阿布扎比和迪拜呈现出[[Cultural Diplomacy|文化外交]]与政治经济两种不同的枢纽运作逻辑(Halsey Fox & Al Shamisi, 2014; [[Argument_Erfurth_2022_education-hubs|Erfurth, 2022]])
+- 中国 — 依托长三角（单核驱动型）、粤港澳大湾区（多核集群型）与海南自由贸易港（园区平台共享型）探索多轨并进的教育枢纽形态，推动区域经济向知识与服务型转型([[Argument_Qu_2024_IJED|Qu & Dai, 2024]])
 - [[Minerva University]] — [[Geopolitics of Knowledge|知识地缘政治]]中与 IEHs 构成对照的"流动"策略代表([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.45–48]])
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 针对既往教育枢纽文献聚焦东南亚与中东的局限，基于比较案例研究提炼中国三大区域教育枢纽模式（单核驱动型、多核集群型与园区平台共享型），阐明产学政三螺旋协同推动区域向知识与服务型经济转型的机制。
 
 ---
 

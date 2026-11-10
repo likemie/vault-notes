@@ -11,9 +11,9 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 29
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 31
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 period: 2003–至今
 initiator_organization: New Zealand Ministry of Education
@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-30
+updated: 2026-11-10
 ---
 
 ---
@@ -168,3 +168,4 @@ updated: 2026-10-30
 > | [[What Works Clearinghouse]] | Fact (Organization) | 与 BES 并列的早期循证中介先驱机构，代表官方外包型因果清算模式。 |
 > | [[EPPI-Centre]] | Fact (Organization) | 英国[[Systematic Review\|系统综述]]先驱，与 BES 形成“大学学术中介 vs 部委嵌入中介”的鲜明对比。 |
 > | [[Systematic Review]] | Method | 本项目核心采用的跨文献综合方法。 |
+| [[Effective Teaching]] | Concept | Alton-Lee 2003 报告系统提炼优质有效教学特征，奠定新西兰优质教学战略基石。 |
