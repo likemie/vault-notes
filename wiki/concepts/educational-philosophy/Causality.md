@@ -132,7 +132,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ---
@@ -345,3 +345,4 @@ updated: 2026-11-05
 > - [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] — 梳理国际批判学者对宏观[[Meta-meta-analysis|二阶元分析]]因果推断合法性的质疑，指出以[[Statistical Significance|统计显著性]]替代因果机制、断言[[Effect Size|效应量]]“不能构成因果”的方法论缺陷（pp. 237–241）。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 阐释可信性革命双轨识别技术在剔除不可观测混杂变量中的方法学价值，实证剖析微观因果高确定性与宏观全局[[External Validity|可推广性]]之间的内在张力，确立微观实验与宏观大数据观察共生的科学学范式（pp. 248–251）。
 > - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 系统梳理比较[[Epistemology|认识论]]中因果观念的代际演进，深入剖析[[Positivism|实证主义]]跨国因果律追求、波普尔-霍姆斯基于初始条件的假说演绎条件因果模型（$L + I = P$），以及对方法论主义因果盲区的反思（pp. 146–150）。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 援引批评文献反思全系统改进阶段论对因果关系复杂性的遮蔽，批判将横向相关与不可证伪猜想简化为线性因果指南的误区。

@@ -88,7 +88,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ---
@@ -274,3 +274,4 @@ updated: 2026-11-05
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]] — 阐述教育研究中[[Causality\|因果推断]]的[[Epistemology\|认识论]]演进，系统辨析休谟时间先后性与麦基反事实判准，界定实验控制组作为反事实代理的操作逻辑。
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 论证全校教育改革在真实学校生态中以常规教学（[[Business as Usual\|BAU]]）为反事实基准的重要性，确立整群[[Randomised Controlled Trials\|随机对照试验]]与[[Hierarchical Linear Model\|多层线性模型]]在循证改革中的方法学支柱地位。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 解构英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）大规模学校实地试验中的反事实构建与质量评估规范，实证分析自编测验扭曲反事实反差的风险及独立标准化测量的治理价值。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 结合批评文献指出麦肯锡全系统改进阶段论缺乏严格的因果检验与反事实对照，将横向经验类比包装为具有普适指导力的因果法则。

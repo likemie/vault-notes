@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-03
+updated: 2026-11-10
 ---
 
 ---
@@ -172,3 +172,4 @@ updated: 2026-11-03
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 系统追溯经合组织从个案审查向量化比较测评的历史范式转向，阐明其构建[[Cognitive Authority|认知权威]]的技术逻辑。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 阐释比较转向在欧洲多边治理中的展开，展现指标与数据如何建构统一的政策行动空间。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 批判反思比较转向对传统比较教育学认识论的冲击与学科殖民效应。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 梳理标准化测评演进如何推动教育政策比较转向，从横向截面对标拓展至跨时间纵向追踪系统改进增量。

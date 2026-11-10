@@ -178,3 +178,4 @@ updated: 2026-11-10
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材第 24 章系统梳理高利害测验的伦理连续谱（Mehrens & Kaminski, 1989）、Gipps 评价标准以及排除低表现学生的系统性弊端。
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] — 结合 Learned et al. (2020) 与 Davies (2022)，深入剖析高利害测验驱动公式化套路写作、促成[[Computerization of Education|教育计算机化]]，并与生成式 AI 协同诱发[[Formative Epistemic Injustice|成长性认识不正义]]的哲学机理。
 > - [[Argument_Yang_2023_ICE|杨明全和邓丽 (2023)]] — 结合芬兰考试少成绩好的微观悖论，探讨以形成性反馈和师生信任为主导的支持性评价文化对高利害测验外部问责与纪律管制的超越（pp. 6, 8）。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对系统改进实证文献开展质性综合，指出新公共管理将高利害测验作为核心问责工具，易催生应试导向与校际分化，背离全人发展目标。

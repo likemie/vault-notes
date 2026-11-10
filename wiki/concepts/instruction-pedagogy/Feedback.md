@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-03
+updated: 2026-11-10
 ---
 
 > [!def] Feedback
@@ -515,4 +515,5 @@ updated: 2026-11-03
 > - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — 批判算法与数字化学习平台中的即时反馈、[[Gamification|游戏化]]代币对学生[[Metacognition|元认知]]反思间隙的压缩与[[Data Behaviorism|数据行为主义]]异化。
 > - [[Argument_Fredens_2015_Paideia|Fredens (2015)]] — 将反馈从单纯技巧升华为追问“Where to next?”的学校文化，连接[[Working Memory|工作记忆]]与元认知自我调节。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从教育哲学与政治治理视角批判哈蒂反馈倒置学说，揭示逆向数据捕获与[[Panopticism|全景敞视]]集权控制机制（pp. 9–10）。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 结合课程规制理论范式，阐述中央集权课程体制如何依托统一教科书与常态化教学反馈维系系统各阶段的学业一致性。
 

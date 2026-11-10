@@ -488,3 +488,4 @@ updated: 2026-11-10
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 开源构建覆盖 1.34 亿篇文献与 15.89 亿条引文的 [[SciSciNet]] 数据湖，打破商业引文数据库封闭壁垒，为大规模自动化文献检索、[[Record Linkage|实体对齐]]与跨学科知识扩散追踪提供开放[[Data Infrastructure|数据基础设施]]。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang and Barabási (2021)]] — 基于 2,800 万篇文献实证阐明兼顾前沿与经典的知识热点检索架构将突破概率提升 2.2 倍，揭示数字搜索引擎对学术记忆的拓展。
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 比较北欧三国改革起草专家的文献搜寻实践，实证揭示紧迫周期与海量成果下客观文献检索的失效，以及人际关系网络和[[Convenience Sampling|便利抽样]]的主导地位。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 结合数据库布尔检索、知名学者追踪、高引文献溯源与 PISA 增值前十国国别定向检索，展示多渠道互补的系统综述文献检索策略。

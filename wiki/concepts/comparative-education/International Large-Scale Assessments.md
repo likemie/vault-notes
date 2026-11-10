@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-03
+updated: 2026-11-10
 ---
 
 ---
@@ -188,3 +188,4 @@ updated: 2026-11-03
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] — 系统重构国际大规模学生评估从战后冷战时期向当代[[Governing by Numbers\|数字治理]] 2.0 跨国中介演进的制度史，揭示其作为硬事实施展[[Soft Power\|软权力]]的物质基石。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 阐述国际大规模学生评估如何充当全球教育定位系统，借助跨时空度量标尺使识别并比较提质增量系统成为可能。

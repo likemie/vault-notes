@@ -278,3 +278,4 @@ updated: 2026-11-03
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告，提出在元科学时代强制实施黄金标准科学、设立专职复现与证伪奖金、以及构建 AI 自动化形式化验证基础设施。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对《可见的学习》开展预注册全样本复核审计，通过严苛经验证伪揭示宏观循证知识库底层仅 0.66% 纯净可重复且 44% 查无实据，展示二阶元科学证伪对教育决策的纠偏力量。
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — [[Qualitative Interview|质性访谈]]揭示哈蒂援引波普尔可证伪性原则为其可见学习模型辩护，将持续搜集反例与将缩减[[Class Size|班级规模]]高效益作为理论整体证伪的经验判准。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 结合教育改革因果推断框架，指出研究设计通过因果过程追踪与竞争性假设对照，对宏观政策干预机制实施经验证伪（pp. 3–5）。

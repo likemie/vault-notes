@@ -133,7 +133,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-11-03
+updated: 2026-11-10
 ---
 
 ---
@@ -457,3 +457,4 @@ updated: 2026-11-03
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统梳理比较教育两百年学科史中分析单位的重大演变，揭示从 19 世纪第一代“[[Scholiocentric Approach|以校为中心]]”（Scholiocentric）孤立办学考察向 20 世纪初[[Michael Sadler|萨德勒]]“民族国家整体教育体系”的历史性转变（pp. 140–142）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 提出[[Complexity Theory|复杂性理论]]重构分析单位的理论命题（Ch. 1, p. 31），并系统阐释[[Content Analysis|内容分析]]中三级分析单位的划分原则、五类抽样与记录单位形态，以及聚合尺度与[[Reliability|信度]]的反比权衡规律（Ch. 30）。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 规范[[Qualitative Research|质性研究]]与[[Mixed Methods Research|混合方法]]设计中分析单位的选择，强调避免在不同分析阶段混淆个体与群体聚合单位（Ch. 9, 10）。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 梳理系统改进研究历程，阐明全国统测如何推动分析单位从单体学校拓展至以学区和国家为独立分析单元的纵向实证追踪。
