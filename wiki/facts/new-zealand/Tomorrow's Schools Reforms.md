@@ -3,7 +3,7 @@ title: Tomorrow's Schools Reforms
 aliases:
   - 明日学校改革
   - Tomorrow's Schools
-summary: "1989 年推出的重大教育行政改革，将学校管理权下放至各校董事会，引入学校自我管理模式，创造了私营 EMO 进入公立教育服务市场的条件"
+summary: "1989 年新西兰推行的重大教育行政分权改革，撤销区域教育局并将管理权全面下放至各校董事会，引入学校自我管理模式，在加剧校际不平等与行政负担后倒逼国家政策转向微观教学论与循证实践。"
 type: fact
 subtype: policy
 region: new-zealand
@@ -13,7 +13,7 @@ fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: ''
+issuing_organization: "新西兰教育部"
 tags:
 - school-reform
 - region/new-zealand
@@ -23,6 +23,7 @@ related_concepts:
   - "[[School Autonomy]]"
   - "[[Educational Management Organisation]]"
   - "[[Network Governance]]"
+  - "[[Effective Teaching]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -35,54 +36,90 @@ related_arguments:
   - "[[Argument_Sarbiewska_2019_KiW]]"
   - "[[Argument_Bates_2017_CognitionEducationTrust]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
-confidence: medium
-status: draft
+confidence: high
+status: completed
 created: '2026-05-04'
 updated: 2026-11-10
 ---
 
-> [!info] 背景
-> Tomorrow's Schools（明日学校）是 1989 年新西兰推出的重大教育行政改革，将学校管理权从中央教育部大幅下放至各校董事会，引入学校自我管理（self-management）模式。这一改革在全球[[Educational Decentralization|教育分权]]化浪潮中具有标志性地位([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, p.66]])。
->
-> 改革前，教育被视为经济增长和社会发展的关键因素（Hawke, cited in Sarbiewska, 2019, p.120）。然而这一阶段的改革主要聚焦于行政管理调整，尚未进入基于研究的教学改革阶段。
->
-> 改革约十年后的评估报告 *Ten years on: How schools view educational reform*（Wylie）呈现了相当负面的反馈([[Argument_Sarbiewska_2019_KiW\|Sarbiewska, 2019, p. 120]])：
-> - 87% 校长认为政府资金不足以满足学校需求
-> - 工作量上升、文书工作增加
-> - 工作时间延长
-> - 校际竞争更加激烈
-> - 教育质量不平等加剧
+---
 
-> [!info] 政策内容
-> - 设立各校董事会（Board of Trustees），赋予学校在财务、人事和运营方面的自主权
-> - 原先由教育部集中提供的学校支持服务（工资发放、交通、财务行政等）转移至新成立的实体
-> - 作为改革过渡机制，全国设立 13 个 education service centres（ESCs），承接原教育部与各地教育委员会的部分行政与服务职能，并以政府 suspensory loans 支持启动；这些机构从一开始就被设计为可被竞争逐步取代的过渡安排，区别于永久性公共机构([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.11-12]])
-> - Tomorrow's Schools 政策文本明确把 ESCs 定义为学校行政支持的“one source”，学校可以选择继续使用 ESC，也可以向其他供应者购买服务，因此改革不仅是放权给学校，也是把学校支持服务逐步改写为可竞争采购的准市场([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.12]])
+> [!policy-context] 政策背景
+> - **发布时间 / 发布主体** 1989 年由新西兰工党政府基于《皮科特报告》（Picot Report, 1988）正式颁布并实施。
+> - **适用地区 / 对象** 新西兰全境公立中小学校、地方教育委员会、教师与社区家长群体。
+> - **问题背景** 1980 年代末新西兰面临严重的宏观财政赤字与新公共管理浪潮，中央集权的教育部被批评官僚僵化与效率低下；政府主张通过[[Educational Decentralization|教育分权]]与准市场机制提高资源使用效率，将教育视作拉动经济增长的技术工具（Hawke, 1998；[[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. 66]]）。
+> - **制度位置** 彻底废除新西兰运转百年的地区教育局（Education Boards），将权力直接赋予各校董事会，确立“学校自我管理”（self-managing schools）体制；同时为后续教育支持服务准市场化与私营中介机构（[[Educational Management Organisation|EMO]]）的兴起奠定制度基础。
 
-> [!note] 时间线
-> - 1989 年 10 月：[[Cognition Education\|Multi Serve Education Trust]] 在 Tomorrow's Schools 改革启动之初成立，为学校提供交通、工资和财务行政支持([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, p.66]])
-> - 1990 年 4 月：Lough Report 在改革实施约六个月后提出进一步压缩教育官僚体系，并建议把更多人事管理责任继续下放给学校，为后续围绕工资管理去中心化的争论奠定方向([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.14-15]])
-> - 1990 年代：围绕 bulk-funding 与学校工资应由中央还是学校直接管理的争论持续存在，导致工资合同长期以短周期方式续签，政策方向处于不稳定状态([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.15]])
+---
 
-> [!success] 实施影响
-> - 改革创造了学校支持服务的市场空间，使私营和非营利组织得以进入此前由公共部门垄断的领域
-> - [[Cognition Education\|Multi Serve Education Trust]]（后演变为 Cognition Education Group）是直接因改革而生的组织([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, p.66, p.x–xi]])
-> - 此后约 20 年间，学校支持服务逐渐商业化，最终在 2011 年被教育部转为竞争性招标（见 [[Contestable School Support Services]]）
-> - 改革形成了一种由政府持续设定采购规则的准市场，区别于自由放任体系。ESCs 虽承担了关键过渡职能，却没有获得长期制度保护；以 Multi Serve 为例，其 Auckland 学校工资合同在 1991 年的竞争性招标中失手，法院随后也明确否认其对续约拥有合理期待，显示竞争性采购成为支配运作的新规则([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.13-15]])
-> - 由于学校普遍具有强烈价格敏感性，而许多新服务又必须从原先“免费公共服务”改成收费项目，改革初期的学校支持市场并不稳定。以 Multi Serve 为例，学校对财务管理等收费服务的购买远低于预期，这说明[[School Autonomy|学校自主]]化并没有自动带来成熟、可持续的服务需求([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.13, p.16]])
-> - 围绕学校工资究竟应由中央还是学校管理的长期政策摇摆，使改革后的治理结构同时包含放权与重新集中两种方向。其实质在于让 Ministry 在合同、平台更新与采购节奏上持续塑造学校支持服务市场([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.15]])
+> [!claim] 政策核心
+> 明日学校改革全面重构了新西兰基础教育行政管理体制，通过撤销区域教育行政层级、设立由家长主导的学校董事会（Board of Trustees），将财务、人事与运营管理权下放至单一学校，试图依托机构自主与准市场竞争提升办学效能；但该政策聚焦于外部行政分权而忽视微观课堂教学，最终在十年后因加剧校际不平等与教师行政负担而倒逼国家政策向微观教学论转向（[[Argument_Sarbiewska_2019_KiW|Sarbiewska, 2019, p. 120]]；[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）。
+
+> [!policy-design] 政策设计
+> - **政策目标** 打破教育部中央官僚垄断，建立以学校自我管理为基础、注重社区问责与成本效率的分权化办学体系。
+> - **适用对象** 新西兰各公立中小学校长、教师、家长董事会成员及新设立的教育审查办公室（ERO）。
+> - **政策工具** 设立法定学校董事会、推行一揽子统包经费（bulk-funding）试点、设立 13 家教育服务中心（Education Service Centres, ESCs）提供竞争性行政支持。
+> - **约束机制** 建立独立的教育审查办公室（ERO）实施周期性外部督导评估，结合董事会三年一度的社区家长选举进行治理约束。
+
+> [!citation-card] 威利论明日学校十年评估的现实困境
+> 改革约十年后的全国评估显示，87% 的校长报告政府拨款无法满足学校基本运转需求；行政分权不仅未能消除教育不平等，反而引发了更为激烈的校际生源恶性竞争，教师陷入不断加码的文书工作与工作时间延长之中。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, p. 120)]]
 >
-> ### 从 ESCs 到 Cognition Education 的转化链([[Argument_Johnson_2023_CritEduc\|Johnson & Janzen, 2023]])
->
-> [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023, p.30)]]详细记录了改革引发的私营化链条中的关键一环——Cognition Education 的起源：
->
-> - 原 Auckland 学校董事会的**交通和工资部门**被改制为一家 ESC，名为 **Multiserve**，后更名为 **Cognition Education**([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017]]; [[Argument_ONeill_2016_Report\|O'Neill et al., 2016]])
-> - 受利润驱动，ESCs 多元化其服务产品。Cognition Education 成为一家**由慈善信托 Cognition Education Trust 全资拥有的营利性公司**
-> - Hattie and Cognition 的关系追溯至商业化之前：2006 年成为 Multi Serve Education Trust Board 董事，2008 年成为 Cognition Education 董事
-> - 这一转化链为 2010 年的 [[Visible Learning Branding and Global Influences]] 提供了制度基础
+> *Ten years on from the Tomorrow's Schools reforms, 87% of principals reported that government operational funding was inadequate. Rather than reducing inequality, decentralization intensified inter-school competition, burdening teachers with escalating paperwork and extended working hours.*
 
-> [!example] 相关概念
-> - [[Educational Management Organisation]]
-> - [[Network Governance]]
-> - [[School Autonomy]]
+---
 
+> [!timeline] 政策时间线
+> - **1988** 工作组发布《皮科特报告》（Picot Report），提出解散地区教育局、推行学校自主管理方案。
+> - **1989** 新西兰政府正式颁布《明日学校》白皮书，全面推行各校董事会自治，设立 Multi Serve 等 13 个教育服务中心承接过渡职能。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 66)]]
+> - **1990** 发布《劳夫报告》（Lough Report），建议进一步精简中央官僚机构并下放人事与工资管理责任。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 14–15)]]
+> - **1999** 威利（Cathy Wylie）发布具有里程碑意义的十年官方评估报告 *Ten years on: How schools view educational reform*，系统证实行政分权的治理局限。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, p. 120)]]
+> - **2003** 新西兰教育部总结十年分权教训，正式确立优质教学（[[Effective Teaching|Quality Teaching]]）国家战略，推动改革视线从宏观行政管理全面转向微观课堂师生互动。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, p. 120)]]
+> - **2018–2019** 新西兰政府成立明日学校独立审查工作组，发布《我们的学校，我们的未来》（Our Schooling Futures），启动系统性纠偏与重新集权改革。
+
+---
+
+> [!actor-grid] 实施角色分工
+> - **决策发布主体** 新西兰工党中央政府与改组后的新西兰教育部（Ministry of Education）。
+> - **校级治理主体** 各校法定董事会（Board of Trustees）与聘任校长，全面负责财务预算与教师招聘。
+> - **外部评估主体** 独立于教育部的教育审查办公室（Education Review Office, ERO），行使全国督导与质量审查职能。
+> - **过渡与市场服务主体** 13 个教育服务中心（ESCs，如 Multi Serve，后改制为 Cognition Education），以商业合同方式竞标提供交通、工资与后勤支持。
+
+> [!pathways] 实施路径
+> - **科层解体与权力下放** 撤销原有的 10 个区域教育局，将中央教育部的规模缩减过半，将办学自主权和运营预算直接切块拨付给各个学校。
+> - **支持服务准市场化** 原由公共部门统包的校车、后勤与专业支持服务被剥离为准市场采购，学校可自主向私营或非营利实体购买服务，催生了以 Cognition Education 为代表的教育管理组织（[[Educational Management Organisation|EMO]]）。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 30)]]
+> - **治理受挫倒逼微观转向** 经过十年的自由分权与竞争，政策暴露了严重的教学论真空；2003 年起教育部通过推进“最佳证据综合”（Alton-Lee, 2004）与开发测评工具，重新加强对课堂教学质量与评价的专业引导。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, pp. 120–121)]]
+
+---
+
+> [!finding-cards] 效果与评价
+> - **学校自主权确立与社区参与提升** 确立了学校董事会的法律地位，赋予地方社区和家长参与学校决策的法定渠道，激发了学校在后勤管理上的微观活力。
+> - **教学论悬置与学业不平等加剧** 威利（Wylie, 1999）调查表明，87% 的校长认为营运经费不足，学校陷入争抢优势生源的零和博弈；行政重组未能触及课堂师生互动质量，引发严重的教学论悬置，使校际与校内学业差距进一步拉大。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, p. 120)]]
+> - **公共服务私有化与商业化衍生** 改革催生了公共教育支持服务的商业特许链条，Multi Serve 从公立过渡机构演变为由慈善信托全资控股的营利性教育公司 Cognition Education，为后续跨国教育商业化（如 Visible Learningplus）埋下制度伏笔。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
+
+---
+
+> [!debates] 政策争议
+>
+> > [!axis] 学校自我管理自治 vs 结构性不平等加剧
+> > 围绕行政分权能否促进教育质量与社会公平，新西兰学界展开了长期论争。
+> >
+> > - **新自由主义分权倡导者** 认为撤销中央官僚层级能够增强学校对地方社区需求的响应度，促进学校间良性竞争并激发办学活力。
+> > - **批判社会学学者** 批评单纯的行政管理调整完全避开了微观课堂教学，优势学区与薄弱学区的两极分化在市场竞争下进一步加剧，导致 87% 的学校面临经费短缺与过载的文书工作负担。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, p. 120)]]
+>
+> > [!axis] 公共支持服务竞争化 vs 利益输送与商业化异化
+> > 围绕教育支持服务市场化改革展开的治理争议。
+> >
+> > - **政府效率导向** 主张引入竞争性招标（Contestable Services）能够降低后勤支持成本，打破垄断。
+> > - **教育政治经济学者** 指出将公共支持服务改制为准市场催生了营利性中介机构，公共财政资金流向特定商业特许实体，侵蚀了公共教育的公益属性。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
+
+---
+
+> [!entry-map] 相关概念／理论
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Educational Decentralization]] | 概念 | 明日学校改革构成了 20 世纪末全球教育行政分权与学校自主管理的核心样板。 |
+> | [[School Autonomy]] | 概念 | 赋予各校董事会在财政、人事和办学方向上的广泛自主裁量权。 |
+> | [[Educational Management Organisation]] | 概念 | 改革将后勤与专业支持推向准市场，直接催生了 Multi Serve / Cognition 等私营教育管理中介。 |
+> | [[Network Governance]] | 概念 | 改革促成了政府、董事会、督导机构与私营供应商多中心协同治理的网络形态。 |
+> | [[Effective Teaching]] | 概念 | 十年分权受挫促使新西兰政策彻底反思，于 2003 年转向以优质有效教学为核心的国家战略。 |

@@ -8,7 +8,7 @@ summary: "澳大利亚商业律师、企业高管与教育政策调查特派主�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -126,8 +126,8 @@ updated: 2026-11-10
 > >
 > > - **网络民族志批判视角** [[Argument_Rowe_2022_IJER|Rowe (2022, pp. 3, 5–7)]] 与 [[Argument_Rowe_2023_ECNUROE|Rowe (2023, pp. 525, 530)]] 指出，澳大利亚公立教师工会发起的“#igiveagonski”声援运动将冈斯基塑造成为了公立教育争取经费的救世主，但这一形象掩盖了深层利益网络。冈斯基长期致力于推动促进企业避税与慈善分包的商业法案，其报告不仅催生了与 [[Social Ventures Australia|SVA]] 深度共生的 [[Australian Schools Plus]]，其 [[Gonski 2.0]] 报告更推动了国家证据科研企业化与商业咨询分包，促进了[[Philanthrocapitalism|慈善资本主义]]与[[Network Governance|网络治理]]对公立教育的深层渗透。
 > > - **官方与工会支持者视角** 肯定其跨越两党政治分歧的协调能力，认为他在 Gonski 1.0 中确立的需求本位拨款框架是澳洲教育公平的重要制度里程碑，为底层公立学校争取到了大额追加预算。
-> >
-> > > [!axis] 资源投入公平 vs 成果产出审计对教师专业自主权的侵蚀
+>
+> > [!axis] 资源投入公平 vs 成果产出审计对教师专业自主权的侵蚀
 > > 争议 Gonski 2.0 将重点转向“因果证据”与“学习成长增益”对基层教学的冲击。
 > >
 > > - **一线教师与批判学者** 批评 Gonski 2.0 将教育简化为可度量的标准化增益，配合第 23 条建议催生的证据中介，容易演变为以因果实验与指标排行榜规训教师的[[Performativity|表演性]]问责工具。
