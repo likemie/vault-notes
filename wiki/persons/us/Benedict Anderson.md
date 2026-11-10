@@ -8,7 +8,7 @@ summary: "爱尔兰裔美国政治学家与东南亚研究权威，康奈尔大�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 20
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -23,6 +23,7 @@ tags:
   - theme/nation-building
   - region/us
 related_concepts:
+  - "[[Modular Nationalism]]"
   - "[[Paradigm]]"
   - "[[Dunbar's Number]]"
   - "[[Constructivist Paradigm]]"
@@ -40,19 +41,21 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Robin Dunbar]]"
+  - "[[Ernest Gellner]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
 related_facts:
   - "[[EU]]"
   - "[[European Commission]]"
 related_arguments:
+  - "[[Argument_Anderson_2016_Verso_Ch01]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Xu_2024_CE]]"
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-11-02
+updated: 2026-11-10
 ---
 
 ---
@@ -102,6 +105,7 @@ updated: 2026-11-02
 > - **[[Technological Republic|技术共和国]][[Geopolitics|地缘政治]]路径** 卡普与扎米斯卡借用安德森的洞见论证，现代高科技社会与国家防卫不仅需要代码与算法，更需要依赖语言与共享历史叙事所维系的共同体想象；批评后现代去国家化思潮放弃巡守“[[Imagined Community|情感民族]]”边界的战略错误。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 191–198)]]
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]] — 《想象的共同体》导论从印支冲突切入，界定民族为有限且主权的想象政治共同体，并提出模块化文化人造物范式。
 > - [[Argument_Xu_2024_CE|Xu (2024)]] — 运用安德森想象共同体框架，实证解构中国大陆与香港初中历史教材中的领土与族群叙事。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 将安德森想象共同体与邓巴数结合，论述现代高科技攻坚的大规模协同基础及情感民族边界防卫。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 借用安德森想象共同体理论，剖析[[European Commission|欧盟委员会]]在马斯特里赫特条约危机下如何将教育作为建构“欧洲认同”的象征动员工具。（p. 482）

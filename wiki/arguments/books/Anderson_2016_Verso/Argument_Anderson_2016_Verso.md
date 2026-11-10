@@ -7,7 +7,7 @@ title: "Argument_Anderson_2016_Verso"
 argument_key: "Argument_Anderson_2016_Verso"
 argument_display_title: "Imagined Communities: Reflections on the Origin and Spread of Nationalism"
 argument_kind: "book"
-argument_related_count: 4
+argument_related_count: 7
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#ede9fe"
@@ -26,13 +26,17 @@ tags: ["theme/nationalism", "theme/book-reading"]
 sources:
   - "[[books/Anderson_2016_Verso/Anderson_2016_Verso|Anderson_2016_Verso]]"
 related_concepts:
+  - "[[Modular Nationalism]]"
   - "[[Document]]"
 related_theories:
   - "[[Imagined Community]]"
 related_persons:
   - "[[Benedict Anderson]]"
+  - "[[Ernest Gellner]]"
 related_facts:
   - "[[ROOTS]]"
+related_arguments:
+  - "[[Argument_Anderson_2016_Verso_Ch01]]"
 status: "draft"
 created: "2026-11-10"
 updated: "2026-11-10"
@@ -46,10 +50,10 @@ updated: "2026-11-10"
 
 ---
 
-> [!textbook-overview] 章节导航
-> | 章节 | 文本入口 | 进度 |
+> [!textbook-overview] 章节导航与论证功能
+> | 章节 | 内容概要 | 主要关联条目 |
 > |---|---|---|
-> | 第 1 章 Introduction | [TXT](../../../../raw/Anderson_2016_Verso_txt/Ch01_Introduction.txt) | 待解读 |
+> | [[Argument_Anderson_2016_Verso_Ch01\|第1章 Introduction]] | 剖析印支战争揭示的理论反常，将民族界定为有限且享有主权的想象政治共同体，确立模块化文化人造物视角与横向同志情谊动员机制。 | [[Imagined Community]]、[[Modular Nationalism]]、[[Benedict Anderson]]、[[Ernest Gellner]]、[[Ernest Renan]] |
 > | 第 2 章 Cultural [[ROOTS\|Roots]] | [TXT](../../../../raw/Anderson_2016_Verso_txt/Ch02_Cultural_Roots.txt) | 待解读 |
 > | 第 3 章 The Origins of National Consciousness | [TXT](../../../../raw/Anderson_2016_Verso_txt/Ch03_The_Origins_of_National_Consciousness.txt) | 待解读 |
 > | 第 4 章 Creole Pioneers | [TXT](../../../../raw/Anderson_2016_Verso_txt/Ch04_Creole_Pioneers.txt) | 待解读 |

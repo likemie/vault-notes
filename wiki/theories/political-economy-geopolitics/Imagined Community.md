@@ -9,16 +9,17 @@ aliases:
 summary: "本尼迪克特·安德森提出的民族主义核心理论，主张民族是被想象的有边界和主权的政治共同体。成员虽互不相识却共享同属一体的心理图像；印刷资本主义与统一学校系统提供了物质制度基础；卡普与扎米斯卡进一步将其拓展至认知人类学与科技政治学，论证想象链接克服了邓巴数极限并维系超大规模技术协作，批判后国家思潮对“情感民族”防线的放弃导致公民认同崩解与商业技术公社的替代性兴起。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 28
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 31
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - theme/national-identity
   - theme/nation-building
   - theory/nationalism
   - paradigm/constructivist
 related_concepts:
+  - "[[Modular Nationalism]]"
   - "[[Official Knowledge]]"
   - "[[Constructivist Paradigm]]"
   - "[[Geopolitics]]"
@@ -43,11 +44,13 @@ related_methods:
   - "[[Questionnaire]]"
 related_persons:
   - "[[Benedict Anderson]]"
+  - "[[Ernest Gellner]]"
   - "[[Lee Kuan Yew]]"
 related_facts:
   - "[[Goh Report]]"
   - "[[Speak Mandarin Campaign]]"
 related_arguments:
+  - "[[Argument_Anderson_2016_Verso_Ch01]]"
   - "[[Argument_Xu_2024_CE]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
@@ -55,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-30
+updated: 2026-11-10
 ---
 
 ---
@@ -174,5 +177,6 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]] — 《想象的共同体》导论提出民族是有限且享有主权的想象政治共同体，属于具有移植弹性的模块化文化人造物。
 > - [[Argument_Xu_2024_CE|Xu (2024)]] — 运用想象的共同体理论，实证对比了中国大陆与香港初中历史教科书中的领土型与族裔型民族想象。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》：[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch. 17]] 论证想象链接克服[[Dunbar's Number|邓巴数]]维系科技协作与守卫情感民族；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch. 18]] 剖析[[Civic Rituals|公民仪式]]瓦解与硅谷技术公社兴起。

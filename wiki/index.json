@@ -13732,6 +13732,17 @@
     ]
   },
   {
+    "title": "Modular Nationalism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Modular Nationalism.md",
+    "aliases": [
+      "模块化民族主义",
+      "模件化民族主义",
+      "模块化文化人造物",
+      "modular cultural artefacts"
+    ]
+  },
+  {
     "title": "Mondialisation",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Mondialisation.md",
@@ -31810,6 +31821,16 @@
     ]
   },
   {
+    "title": "Ernest Gellner",
+    "type": "person",
+    "path": "wiki/persons/uk/Ernest Gellner.md",
+    "aliases": [
+      "欧内斯特·格尔纳",
+      "E. Gellner",
+      "Gellner, E."
+    ]
+  },
+  {
     "title": "Ernest Rutherford",
     "type": "person",
     "path": "wiki/persons/uk/Ernest Rutherford.md",
@@ -48837,6 +48858,11 @@
     "title": "Argument_Anderson_2016_Verso",
     "type": "argument",
     "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso.md"
+  },
+  {
+    "title": "Argument_Anderson_2016_Verso_Ch01",
+    "type": "argument",
+    "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md"
   },
   {
     "title": "Argument_Bates_2017_CognitionEducationTrust",

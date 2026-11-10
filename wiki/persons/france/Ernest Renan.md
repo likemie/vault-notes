@@ -8,7 +8,7 @@ summary: "19世纪法国著名哲学家与历史学家；在巴黎索邦大学�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -40,12 +40,13 @@ related_persons:
   - "[[Nicholas Zamiska]]"
 related_facts: []
 related_arguments:
+  - "[[Argument_Anderson_2016_Verso_Ch01]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-11-10
 ---
 
 ---
@@ -91,6 +92,7 @@ updated: 2026-10-22
 > - **当代[[Geopolitics|地缘政治]]与[[Technological Republic|技术共和国]]重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《技术共和国》中借用勒南命题，呼吁西方重塑共同生活的公民信念以克服冷漠与文化虚无。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]] — 引述勒南关于民族本质在于拥有许多共同事物同时遗忘诸多历史创伤的命题，反思想象共同体的历史叙事结构。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 阐发欧内斯特·勒南“[[Everyday Plebiscite|每日公民投票]]”命题对当代重塑国家认同与技术共和国生存意志的关键意义。
 
 ---
