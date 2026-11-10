@@ -7,7 +7,7 @@ summary: "德国教育学家，一般教育学代表人物和 Bildung/Erziehung 
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 7
+person_related_count: 8
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -24,13 +24,14 @@ related_concepts:
   - "[[Allgemeine Pädagogik]]"
   - "[[Democratic Education]]"
   - "[[Evidence-Based Education]]"
-related_theories: []
+related_theories:
+  - "[[Didactic Triangle]]"
 related_methods: []
 related_persons:
   - "[[John Dewey]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Sarbiewska_2019_JSR]]"
+  - "[[Argument_Sarbiewska_2019_KiW]]"
 confidence: low
 status: draft
 created: '2026-05-05'
@@ -58,7 +59,7 @@ updated: 2026-11-10
 >
 > **修正模型：**
 > - "教师"和"学习者"的位置不变，但他们相对于"课程"的活动安排发生了根本变化
-> - 课程不再是交换对象，而是执行"学习/教学"活动的目标
+> - 课程转变为指引教与学活动共同朝向的目标
 > - 来自"教师"一侧的"教学/教育"活动指向一个圆形交汇区域，在该区域中与"学生"的活动相遇
 > - 教育被理解为两种独立活动的协同——教师的教学与学生的学习在课程目标的指引下交汇
 > - 这个交汇区域构成了真正的"教育"空间

@@ -32,26 +32,24 @@ related_concepts:
   - "[[Learning Crisis]]"
   - "[[Discourse]]"
   - "[[Crisis Epistemology]]"
-  - "[[Epistemology]]"
+  - "[[White Saviour Mentality]]"
   - "[[State Educational Sovereignty]]"
-  - "[[Knowledge Production]]"
   - "[[Geopolitics]]"
   - "[[Developmentalism]]"
+  - "[[Deficit Framing]]"
+  - "[[Policy Borrowing]]"
   - "[[Contributory Expertise]]"
   - "[[Informed Consent]]"
   - "[[Reflexivity]]"
   - "[[Commensuration]]"
+  - "[[Foundational Literacy and Numeracy]]"
   - "[[Screening Off]]"
   - "[[Paradigm]]"
   - "[[Normal School]]"
   - "[[Effective Teaching]]"
+  - "[[Aid Volatility in Education]]"
   - "[[Construct]]"
   - "[[Flow]]"
-  - "[[White Saviour Mentality]]"
-  - "[[Aid Volatility in Education]]"
-  - "[[Foundational Literacy and Numeracy]]"
-  - "[[Policy Borrowing]]"
-  - "[[Deficit Framing]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods:
@@ -63,23 +61,23 @@ related_methods:
   - "[[Semi-structured Interview]]"
 related_instruments: []
 related_persons:
-  - "[[Philip H. Coombs]]"
   - "[[Iveta Silova]]"
-  - "[[Walter Mignolo]]"
   - "[[Arturo Escobar]]"
+  - "[[Walter Mignolo]]"
+  - "[[Philip H. Coombs]]"
   - "[[Aaron Benavot]]"
 related_facts:
   - "[[UNESCO]]"
   - "[[UNICEF]]"
   - "[[World Bank]]"
+  - "[[PISA]]"
   - "[[Sputnik Shock 1957]]"
   - "[[Education for All]]"
   - "[[Millennium Development Goals]]"
-  - "[[UN Sustainable Development Goals]]"
   - "[[Global Education Monitoring Report]]"
   - "[[World Development Report 2018]]"
   - "[[Transforming Education Summit 2022]]"
-  - "[[PISA]]"
+  - "[[UN Sustainable Development Goals]]"
 related_arguments: []
 sources:
   - "[[sources/Santos_Silova_2026_Discourse|Santos_Silova_2026_Discourse]]"
@@ -93,7 +91,7 @@ title: "Argument_Santos_Silova_2026_Discourse"
 argument_key: "Argument_Santos_Silova_2026_Discourse"
 argument_display_title: "From Finland to the world: Interrogating the global learning crisis"
 argument_kind: "journal-article"
-argument_related_count: 46
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -313,22 +311,22 @@ journal: "Discourse: Studies in the Cultural Politics of Education"
 ---
 
 > [!citation-card] 危机认识论的解构
-> 对学习危机的持续援引契合了怀特所谓的危机认识论。这一叙事策略将种种挑战建构为前所未有的紧急状态，进而要求采取即刻的、以方案为导向的应对举措。这种框架将国际组织定位为拥有应对教育系统性失败之专门知识与权威的不可或缺的行动者；然而，它往往掩盖了构成教育差距底色的历史与结构性条件，诸如殖民遗产、地缘政治层级以及经济不平等。(Santos & Silova, 2026, p. 671)
+> 对学习危机的持续援引契合了怀特所谓的危机认识论。这一叙事策略将种种挑战建构为前所未有的紧急状态，进而要求采取即刻的、以方案为导向的应对举措。这种框架将国际组织定位为拥有应对教育系统性失败之专门知识与权威的不可或缺的行动者；然而，它往往掩盖了构成教育差距底色的历史与结构性条件，诸如殖民遗产、地缘政治层级以及经济不平等。
 >
 > *"The persistent invocation of the learning crisis aligns with what Whyte (2021) describes as 'crisis epistemology', a narrative strategy that [[Construct|constructs]] challenges as unprecedented emergencies necessitating immediate, solutions-oriented responses. This framing positions international organisations as indispensable actors with the expertise and authority to address systemic failures in education. Yet, it often obscures the historical and structural conditions – such as colonial legacies, geopolitical hierarchies, and economic inequities – that underpin educational disparities (Escobar, 2011; Mignolo, 2011)."*
 
 > [!citation-card] 国际援助撤退引发的系统性恶化
-> 假设某个学区突然获得一笔用于修建学校的现金流，但在该笔资助到位后，国家财政拨款随即中止，因为有了这项新的国际资助……这就产生了一种干预机制，它来了又走，甚至改变了国家对于自身在提供支持、长远支持乃至修路方面职能的认知；而当这笔资金戛然而止时，该社区或区域陷入的境况甚至比这笔资金注入之前更加糟糕。(Santos & Silova, 2026, p. 675)
+> 假设某个学区突然获得一笔用于修建学校的现金流，但在该笔资助到位后，国家财政拨款随即中止，因为有了这项新的国际资助……这就产生了一种干预机制，它来了又走，甚至改变了国家对于自身在提供支持、长远支持乃至修路方面职能的认知；而当这笔资金戛然而止时，该社区或区域陷入的境况甚至比这笔资金注入之前更加糟糕。
 >
 > *"Say there is a sudden cash [[Flow|flow]] for the funding of schools in a certain district, where schools are needed, but then after the funding arrives, state funding halts because of course we have this new international funding, … so there's this dynamic where there is an intervention that may actually … sort of comes and goes and then may change the ways that the state sees their role in providing support or in long-term support or even in paving roads, and then when this funding then abruptly ends, the community or the area is left in a worse scenario than they were before the influx of this said funding."*
 
 > [!citation-card] 殖民式援助与白人救世主心态的反思
-> 有时那些组织进驻后自行操办事务，他们并不吸纳当地人，不改变结构，也不对该国人民进行培养，只是来为那个国家做事情，而当他们离去后，什么都没有留下……我认为这带有一点殖民色彩，也就是白人男性跑来提供建言与建议，然后径自离去。(Santos & Silova, 2026, p. 677)
+> 有时那些组织进驻后自行操办事务，他们并不吸纳当地人，不改变结构，也不对该国人民进行培养，只是来为那个国家做事情，而当他们离去后，什么都没有留下……我认为这带有一点殖民色彩，也就是白人男性跑来提供建言与建议，然后径自离去。
 >
 > *"… sometimes the organisations come, and they do the things themselves, and they do not include the locals, they do not change the structures, they do not teach the people in that country, they just come and do things for that country, and when they leave, there is nothing left … I think it's a little bit like a colonial thing, also that white men come and give advice and recommendations and then they leave."*
 
 > [!citation-card] 国家教育主权与去救世主化立场
-> 我的观点一直是：各国应当自己解决自身的问题。不应当存在这种救世主心态……教育是一项国家层面的神圣职责，每个国家都希望能够掌控自己的教育体系，这对于公民身份认同具有最根本的意义。因此，即便是贫困国家，也在为自己的系统提供财政支持。北方的捐助方提供资金支持，但我一直倡导因地制宜的国别进路：你必须在那个国家内部、为了那个国家、按照那个国家自身的条件来开展工作。(Santos & Silova, 2026, p. 677)
+> 我的观点一直是：各国应当自己解决自身的问题。不应当存在这种救世主心态……教育是一项国家层面的神圣职责，每个国家都希望能够掌控自己的教育体系，这对于公民身份认同具有最根本的意义。因此，即便是贫困国家，也在为自己的系统提供财政支持。北方的捐助方提供资金支持，但我一直倡导因地制宜的国别进路：你必须在那个国家内部、为了那个国家、按照那个国家自身的条件来开展工作。
 >
 > *"My view has been that countries solve their problems themselves. There is no this saviour mentality (…) Education is a national mandate, every country wants to be in charge of the education system, and it is so fundamental to citizenship, it’s fundamental to being a citizen of whatever country, so these countries finance the system, even the poor ones. Their donors, the North, contribute and provide funding, but I have always advocated for a country-specific approach. You work there in the country, for the country, on the country’s terms …"*
 

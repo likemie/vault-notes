@@ -27,7 +27,7 @@ related_persons: []
 related_facts:
   - "[[Victorian HITS and Literacy Toolkit]]"
 related_arguments:
-  - "[[Argument_Sarbiewska_2019_JSR]]"
+  - "[[Argument_Sarbiewska_2019_KiW]]"
 confidence: medium
 status: draft
 created: '2026-05-05'

@@ -9,7 +9,7 @@ summary: "丹麦教育哲学学者，Visible Learning 五线批评与纯粹评�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 46
+person_related_count: 45
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -43,7 +43,6 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Surface and Deep Learning]]"
   - "[[Feedback]]"
-  - "[[International Education]]"
 related_theories:
   - "[[Postmodernism]]"
   - "[[Radical Constructivism]]"
@@ -69,13 +68,13 @@ related_arguments:
   - "[[Argument_Rømer_2018_EPT]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Argument_Nielsen_2021_NordPsych]]"
-  - "[[Argument_Sarbiewska_2019_JSR]]"
+  - "[[Argument_Sarbiewska_2019_KiW]]"
 related_facts:
   - "[[Hattie på dansk]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-11-02
+updated: 2026-11-10
 ---
 
 ---
@@ -93,8 +92,8 @@ updated: 2026-11-02
 ---
 
 > [!timeline] 生平与职涯
-> - **2003** 在 *Educational Theory* 发表论文，探讨后现代教育哲学视域下学习与评估的关系。
-> - **2012** 在 *Educational Philosophy and Theory* 发表[[John Dewey|杜威]]判断力哲学论文，阐发民主情境下的智能交易与想象力。
+> - **2003** 在 *Educational Theory* 发文探讨后现代教育哲学视域下学习与评估的关系。
+> - **2012** 在 *Educational Philosophy and Theory* 探讨[[John Dewey|杜威]]判断力哲学，阐发民主情境下的智能交易与想象力。
 > - **2014** 与 Tanggaard、Brinkmann 合编 *Uren Pædagogik 2*，正式提出“不纯粹教育”与“[[Pure Evaluation|纯粹评价]]”概念。
 > - **2015** 出版专著 *Pædagogikkens to verdener*，系统反思教育学与科学哲学、教化传统的[[Ontology|本体论]]联结。
 > - **2017** 参与编著丹麦学界论战文集 *[[Hattie på dansk]]*，撰文深入批判可见学习反馈概念的集权化监控风险。
@@ -133,7 +132,7 @@ updated: 2026-11-02
 > - **理论路径** 发展了教育哲学层面的“五线批判框架”，揭示[[Evidence-Based Education|循证教育]]运动底层隐含的[[Radical Constructivism|激进建构主义]]与[[Technical Rationality|技术理性]]预设，丰富了[[Didaktik|欧陆教学论]]与教化哲学的当代防御理论；提出[[Pure Evaluation|纯粹评价]]概念，为批判教育社会学与政策研究提供了重要的批判性分析工具。
 > - **方法路径** 倡导概念分析与思想史对勘的哲学研究方法（[[Philosophical Analysis in Education]]），示范了如何超越单纯统计计算与[[Effect Size|效应量]]复算的技术细节，直接从[[Epistemology|认识论]]前设、范畴错置（[[Category Mistake]]）与[[Variable|变量]][[Construct Validity|构念效度]]层面解构宏观实证综合。
 > - **政策与实践路径** 在丹麦及北欧国家掀起关于“[[John Hattie|哈蒂]]主义”与循证教育改革的全国性哲学大辩论，促使政策制定者、教师工会与一线教育者反思数据驱动教学对教师专业自主性与学生主体性的潜在侵蚀。
-> - **跨国传播与论辩** 其 2018 年发表于 *EPAT* 的论文被全球教育哲学界与批评学者广泛引用，与德国[[Ewald Terhart|特哈特]]（Terhart）、英国威廉（Wiliam）、里格利（Wrigley）及荷兰比斯塔（Biesta）的研究形成跨国批判共鸣。
+> - **跨国传播与论辩** 其 2018 年发表于 *EPAT* 的研究成果被全球教育哲学界与批评学者广泛引用，与德国[[Ewald Terhart|特哈特]]（Terhart）、英国威廉（Wiliam）、里格利（Wrigley）及荷兰比斯塔（Biesta）的研究形成跨国批判共鸣。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 对约翰·哈蒂《[[Visible Learning|可见的学习]]》理论基础提出五线系统哲学批判的奠基性文本。
@@ -147,7 +146,7 @@ updated: 2026-11-02
 > - **批判靶标** [[John Hattie|约翰·哈蒂]] — 罗默系统哲学审查的核心对象，批判其评价图式吞噬教育、建构“[[Research Cage|研究牢笼]]”。
 > - **丹麦论辩对手** [[Lars Qvortrup|拉尔斯·克沃特鲁普]]、Niels Egelund、Per Fibæk Laursen — 丹麦可见学习主要引介与辩护者，围绕医学类比、反馈集权化与“解释社群”展开激烈论战。
 > - **哲学与理论资源** [[John Dewey|约翰·杜威]]（经验与判断力）、[[Karl Popper|卡尔·波普尔]]（世界三与客观知识）、[[Immanuel Kant|伊曼努尔·康德]]（批判与反思判断）、[[Hannah Arendt|汉娜·阿伦特]]（新开端与公共领域）、[[Gert Biesta|格特·比斯塔]]（教育目的论与被动性）。
-> - **丹麦学术合作者** Lene Tanggaard、Svend Brinkmann — 共同编著《不纯粹教育》，开创丹麦批判教育哲学的新流派。
+> - **丹麦合作学者** Lene Tanggaard、Svend Brinkmann — 共同编著《不纯粹教育》，开创丹麦批判教育哲学的新流派。
 > - **国际批判同行** [[Ewald Terhart|埃瓦尔德·特哈特]]（德国教学论批判）、[[Dylan Wiliam|迪伦·威廉]]（反馈[[Construct|构念]]审视）、特里·里格利（方法论与社会正义批判）。
 
 ---
@@ -178,7 +177,7 @@ updated: 2026-11-02
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Pure Evaluation]] | 概念 | 与合作者共同提出的核心概念，揭示评价系统自立为目的并统治教育过程的异化机制。 |
+> | [[Pure Evaluation]] | 概念 | 与同行学者共同提出的核心概念，揭示评价系统自立为目的并统治教育过程的异化机制。 |
 > | [[Visible Learning]] | 概念 | 贡献了首个系统性教育哲学批判，提出评价异化、[[Dependent Variable\|因变量]]效度、[[Radical Constructivism\|激进建构主义]]等五线批判框架。 |
 > | [[Didaktik]] | 概念 | 捍卫欧陆教学论传统与教学三角形，批判英美形式化评价对学科实质内容与教化价值的[[Epoché\|悬置]]。 |
 > | [[Bildung]] | 概念 | 将教化（精神陶冶与批判自由）确立为对抗[[Technical Rationality\|技术理性]]与绩效主义规训的终极哲学价值标尺。 |

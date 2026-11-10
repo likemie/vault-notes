@@ -65,7 +65,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Rømer_2018_EPT]]"
   - "[[Argument_Terhart_2011_JCS]]"
-  - "[[Argument_Sarbiewska_2019_JSR]]"
+  - "[[Argument_Sarbiewska_2019_KiW]]"
   - "[[Argument_Nielsen_2021_NordPsych]]"
 confidence: high
 status: draft

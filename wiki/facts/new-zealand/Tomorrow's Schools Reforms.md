@@ -32,13 +32,13 @@ related_facts:
   - "[[Visible Learning Branding and Global Influences]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
-  - "[[Argument_Sarbiewska_2019_JSR]]"
+  - "[[Argument_Sarbiewska_2019_KiW]]"
   - "[[Argument_Bates_2017_CognitionEducationTrust]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-22
+updated: 2026-11-10
 ---
 
 > [!info] 背景
@@ -46,7 +46,7 @@ updated: 2026-10-22
 >
 > 改革前，教育被视为经济增长和社会发展的关键因素（Hawke, cited in Sarbiewska, 2019, p.120）。然而这一阶段的改革主要聚焦于行政管理调整，尚未进入基于研究的教学改革阶段。
 >
-> 改革约十年后的评估报告 *Ten years on: How schools view educational reform*（Wylie）呈现了相当负面的反馈([[Argument_Sarbiewska_2019_JSR\|Sarbiewska, 2019, p.120]])：
+> 改革约十年后的评估报告 *Ten years on: How schools view educational reform*（Wylie）呈现了相当负面的反馈([[Argument_Sarbiewska_2019_KiW\|Sarbiewska, 2019, p. 120]])：
 > - 87% 校长认为政府资金不足以满足学校需求
 > - 工作量上升、文书工作增加
 > - 工作时间延长
@@ -56,7 +56,7 @@ updated: 2026-10-22
 > [!info] 政策内容
 > - 设立各校董事会（Board of Trustees），赋予学校在财务、人事和运营方面的自主权
 > - 原先由教育部集中提供的学校支持服务（工资发放、交通、财务行政等）转移至新成立的实体
-> - 作为改革过渡机制，全国设立 13 个 education service centres（ESCs），承接原教育部与各地教育委员会的部分行政与服务职能，并以政府 suspensory loans 支持启动；这些机构从一开始就被设计为可被竞争逐步取代的过渡安排，而不是永久性公共机构([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.11-12]])
+> - 作为改革过渡机制，全国设立 13 个 education service centres（ESCs），承接原教育部与各地教育委员会的部分行政与服务职能，并以政府 suspensory loans 支持启动；这些机构从一开始就被设计为可被竞争逐步取代的过渡安排，区别于永久性公共机构([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.11-12]])
 > - Tomorrow's Schools 政策文本明确把 ESCs 定义为学校行政支持的“one source”，学校可以选择继续使用 ESC，也可以向其他供应者购买服务，因此改革不仅是放权给学校，也是把学校支持服务逐步改写为可竞争采购的准市场([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.12]])
 
 > [!note] 时间线
@@ -68,9 +68,9 @@ updated: 2026-10-22
 > - 改革创造了学校支持服务的市场空间，使私营和非营利组织得以进入此前由公共部门垄断的领域
 > - [[Cognition Education\|Multi Serve Education Trust]]（后演变为 Cognition Education Group）是直接因改革而生的组织([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, p.66, p.x–xi]])
 > - 此后约 20 年间，学校支持服务逐渐商业化，最终在 2011 年被教育部转为竞争性招标（见 [[Contestable School Support Services]]）
-> - 改革并未形成稳定的自由市场，而是形成一种由政府持续设定采购规则的准市场。ESCs 虽承担了关键过渡职能，却没有获得长期制度保护；以 Multi Serve 为例，其 Auckland 学校工资合同在 1991 年的竞争性招标中失手，法院随后也明确否认其对续约拥有合理期待，显示竞争性采购而非历史承接关系成为新规则([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.13-15]])
+> - 改革形成了一种由政府持续设定采购规则的准市场，区别于自由放任体系。ESCs 虽承担了关键过渡职能，却没有获得长期制度保护；以 Multi Serve 为例，其 Auckland 学校工资合同在 1991 年的竞争性招标中失手，法院随后也明确否认其对续约拥有合理期待，显示竞争性采购成为支配运作的新规则([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.13-15]])
 > - 由于学校普遍具有强烈价格敏感性，而许多新服务又必须从原先“免费公共服务”改成收费项目，改革初期的学校支持市场并不稳定。以 Multi Serve 为例，学校对财务管理等收费服务的购买远低于预期，这说明[[School Autonomy|学校自主]]化并没有自动带来成熟、可持续的服务需求([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.13, p.16]])
-> - 围绕学校工资究竟应由中央还是学校管理的长期政策摇摆，使改革后的治理结构同时包含放权与重新集中两种方向。结果不是简单撤出国家，而是让 Ministry 在合同、平台更新与采购节奏上持续塑造学校支持服务市场([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.15]])
+> - 围绕学校工资究竟应由中央还是学校管理的长期政策摇摆，使改革后的治理结构同时包含放权与重新集中两种方向。其实质在于让 Ministry 在合同、平台更新与采购节奏上持续塑造学校支持服务市场([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.15]])
 >
 > ### 从 ESCs 到 Cognition Education 的转化链([[Argument_Johnson_2023_CritEduc\|Johnson & Janzen, 2023]])
 >

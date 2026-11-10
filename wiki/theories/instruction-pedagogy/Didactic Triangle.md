@@ -10,7 +10,7 @@ aliases:
 summary: "描述教师、学习者与课程三元关系的教学论分析模型，区分了假定教学等同于学习的经典传输模型与强调教学生成与自主相遇的修正模型"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 0
+theory_related_count: 4
 theory_related_level: 0
 theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
@@ -19,13 +19,17 @@ tags:
   - didaktik
   - teaching-theory
   - curriculum
-related_concepts: []
+related_concepts:
+  - "[[Bildung]]"
+  - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Dietrich Benner]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Sarbiewska_2019_KiW]]"
 confidence: medium
 status: draft
 created: 2026-11-10
@@ -74,8 +78,8 @@ updated: 2026-11-10
 >
 > **应用实例** 在澳大利亚维多利亚州实施的高影响教学策略（HITS）中，教师采用结构化反馈与元认知策略，促使学生主动监控自身学习进程，形成师生共同参与的协作探究。
 
-> [!theory-proposition] 命题二｜课程在教学关系中充当共同探究的目标而非单向交接的物资
-> **解释** 课程不是在校外由决策者预先封装好并要求学校机械交付给学生的现成包裹。在修正模型中，国家或区域课程标准为学校和教师提供了发展核心能力与素养的指引框架，具体教学内容需要在具体课堂情境中被转化为激发学生深度学习的问题情境与探究任务。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, pp. 119–120, 128–129)]]
+> [!theory-proposition] 命题二｜课程在教学关系中充当共同探究的目标
+> **解释** 在修正版教学三角中，国家或区域课程标准为学校和教师提供发展核心素养的指引框架，具体教学内容需要在具体课堂情境中被转化为激发学生深度学习的问题情境与探究任务。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, pp. 119–120, 128–129)]]
 >
 > **应用实例** 新西兰实施《新西兰国家课程》（The New Zealand Curriculum）时，赋予学校根据社区特征自主设计课程实施路径的自主权，通过跨学科连接支持学生高阶思维发展。
 

@@ -8,7 +8,7 @@ summary: "新西兰教育统计学家，著有 Visible Learning，是元分析�
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 162
+person_related_count: 161
 person_related_level: 16
 person_related_stars: "💎💎💎💎💎⭐"
 person_related_color: "#fef3c7"
@@ -73,7 +73,6 @@ related_concepts:
   - "[[Automated Data Extraction]]"
   - "[[Cult of the Guru]]"
   - "[[Bildung]]"
-  - "[[Policy Network]]"
   - "[[Public Value]]"
   - "[[Homework]]"
   - "[[Critic and Conscience of Society]]"
@@ -152,7 +151,7 @@ related_arguments:
   - "[[Argument_McKnight_2020_Discourse]]"
   - "[[Argument_Bainbridge_2022_ROE]]"
   - "[[Argument_Nordahl_2015_Paideia]]"
-  - "[[Argument_Sarbiewska_2019_JSR]]"
+  - "[[Argument_Sarbiewska_2019_KiW]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Laursen_2015_Paideia]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
@@ -193,7 +192,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-30
+updated: 2026-11-10
 ---
 
 ---

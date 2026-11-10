@@ -1,6 +1,7 @@
 ---
 citation: "Sarbiewska, A. (2019). Visible Learning and educational policies in New Zealand and Australia. Kultura i Wychowanie, 16(2), 117–132. https://doi.org/10.25312/2083-2923.16/2019_10as"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Sarbiewska_2019_KiW]]"
 processed_date: 2026-11-10
 ---
 

@@ -174,7 +174,7 @@ related_arguments:
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Pampaka_2016_IJRME]]"
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
-  - "[[Argument_Sarbiewska_2019_JSR]]"
+  - "[[Argument_Sarbiewska_2019_KiW]]"
   - "[[Argument_Slavin_2021_ECNUROE]]"
 confidence: high
 status: active
