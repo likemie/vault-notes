@@ -5,6 +5,9 @@ aliases:
   - 芬兰政府教育出口计划
   - 芬兰教育出口国家计划
   - Finnish Education Export Programme
+  - 芬兰教育出口战略
+  - 芬兰教育出口战略：战略方针与举措概要
+  - Finnish Education Export Strategy
 summary: "芬兰教育部与外交部自2010年起联合推行的跨部委国家级战略工程。通过制定十年期国家战略与路线图，打破福利国家教育全公立传统，将教育确立为高附加值服务贸易支柱；依托推动高校向非欧盟生收取学费、修改法律松绑公立院校设立境外营利实体、资助30学分微专业对教职人员实施企业家化改造，并在国内培育以公立学校为测试床的准市场生态，系统重组了芬兰公共教育的治理理性。"
 type: fact
 subtype: program
@@ -45,6 +48,7 @@ related_facts:
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Kuortti_2025_JEdPolicy]]"
+  - "[[Argument_Yang_2023_ICE]]"
 confidence: high
 status: completed
 created: 2026-11-09
@@ -148,3 +152,9 @@ updated: 2026-11-10
 > | [[Trade Union of Education in Finland]] | Fact (Organization) | 在 FGEE 推进中既维护教师薪酬权益又参与协同启动出口微专业培训的教师工会。 |
 > | [[Bacchi's WPR Approach]] | Theory | 用于对 FGEE 全套 16 份政策文本展开逆向解构与质性编码的核心批判理论框架。 |
 > | [[Governmentality]] | Theory | 解释 FGEE 如何通过微专业师训与准市场机制对公立教职人员实施微观企业家化规训。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 运用 Bacchi 的 WPR 方法对 2010—2020 年间 16 份核心政策文本展开逆向解构，揭示国家如何将公共福利声誉转译为服务出口准市场生态。
+> - [[Argument_Yang_2023_ICE|杨明全和邓丽 (2023)]] — 将 2010 年《芬兰教育出口战略》作为渠道整合策略中公关传播与知识产品化输出的制度基石，解析六大类教育出口产品体系与品牌集群运作机制（pp. 6–7）。

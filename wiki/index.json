@@ -579,6 +579,18 @@
     ]
   },
   {
+    "title": "Brand Honeycomb Model",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Brand Honeycomb Model.md",
+    "aliases": [
+      "品牌蜂窝模型",
+      "电通蜂窝模型",
+      "品牌识别蜂窝模型",
+      "Dentsu Honeycomb Model",
+      "Honeycomb Model of Brand Identity"
+    ]
+  },
+  {
     "title": "Circular Transfer",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Circular Transfer.md",
@@ -1010,6 +1022,19 @@
       "财智复合体",
       "transnational financial-intellectual complex",
       "金融-智力综合体"
+    ]
+  },
+  {
+    "title": "Finnish Paradoxes",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Finnish Paradoxes.md",
+    "aliases": [
+      "芬兰教育悖论",
+      "芬兰悖论",
+      "芬兰教育三大悖论",
+      "Three Finnish Paradoxes",
+      "Teach Less Learn More",
+      "Less is More in Education"
     ]
   },
   {
@@ -38183,6 +38208,17 @@
     "subtype": "policy"
   },
   {
+    "title": "Action Plan for Global Education Brand Finland",
+    "type": "fact",
+    "path": "wiki/facts/finland/Action Plan for Global Education Brand Finland.md",
+    "aliases": [
+      "全球教育品牌芬兰行动计划",
+      "Action Plan Report for Global Education Brand Finland",
+      "芬兰全球教育品牌行动计划"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Basic Education Act 1998",
     "type": "fact",
     "path": "wiki/facts/finland/Basic Education Act 1998.md",
@@ -38380,6 +38416,17 @@
     "path": "wiki/facts/finland/SveaSus Project.md",
     "aliases": [
       "SveaSus项目"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "This is Finland",
+    "type": "fact",
+    "path": "wiki/facts/finland/This is Finland.md",
+    "aliases": [
+      "这就是芬兰",
+      "toolbox.finland.fi",
+      "芬兰国家形象推广官方门户"
     ],
     "subtype": "program"
   },

@@ -69,7 +69,7 @@ updated: 2026-11-10
 > [!person-profile] 人物档案
 > - **身份位置** 芬兰国际知名教育学者、比较教育政策顾问，曾任芬兰教育部国际交流中心（CIMO）主任、哈佛大学教育研究生院客座教授、墨尔本大学教育学教授。
 > - **核心角色** 在当代全球教育改革辩论网络中担任反新自由主义旗手与另类进步道路代表；率先提炼出[[Global Education Reform Movement|全球教育改革运动]]（GERM）批判[[Analytic Framework|分析框架]]；在[[Evidence-Based Education|循证教育]]转向中倡导尊重[[Teacher Professional Agency|教师专业能动性]]，提出平衡证据成效与有害[[Side Effects|副作用]]的公共卫生类比。
-> - **代表贡献** 提出全球教育改革运动（GERM）诊断框架；著有国际畅销专著《芬兰传奇》（*Finnish Lessons*）；系统阐发以专业信任、合作文化与全人发展抵制商业问责的芬兰[[Paradigm|范式]]；提出循证政策中兼顾干预效果与防范副作用的治理原则。
+> - **代表贡献** 提出全球教育改革运动（GERM）诊断框架；著有国际畅销专著《芬兰传奇》（*Finnish Lessons*）；提出反主流常识的[[Finnish Paradoxes|芬兰教育悖论]]；系统阐发以专业信任、合作文化与全人发展抵制商业问责的芬兰[[Paradigm|范式]]；提出循证政策中兼顾干预效果与防范副作用的治理原则。
 
 > [!citation-card] 萨尔伯格对全球教育改革运动的诊断
 > 萨尔伯格指出，一种如同病毒般在全球蔓延的教育政策正统（GERM）正在深刻侵蚀世界各国的学校：它以标准化、课程窄化、基于[[High-Stakes Testing|高利害测验]]的绩效问责以及将市场竞争和企业管理模式强加给学校为特征。这种改革不仅未能实现所承诺的高质量与公平，反而严重摧毁了教师的职业[[Pride in Learning|自豪]]感与教学自主权。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 25, citing Sahlberg, 2012)]]

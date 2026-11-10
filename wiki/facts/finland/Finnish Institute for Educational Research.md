@@ -6,6 +6,7 @@ aliases:
   - Koulutuksen tutkimuslaitos
   - KTL
   - 于韦斯屈莱大学芬兰教育研究院
+  - 于韦斯屈莱大学教育研究所
   - Finnish Institute for Educational Research (FIER)
 summary: "芬兰于韦斯屈莱大学设立的国家级综合教育研究机构，长期承担国际大型测评与国家学业质量评估任务，为芬兰国家核心课程改革与教育决策提供实证评估数据支撑。"
 type: fact
@@ -59,6 +60,7 @@ related_facts:
   - "[[Finnish PISA Miracle]]"
 related_arguments:
   - "[[Argument_Volmari_2025_CE]]"
+  - "[[Argument_Yang_2023_ICE]]"
 confidence: high
 status: completed
 created: 2026-11-10
@@ -157,6 +159,7 @@ updated: 2026-11-10
 > | 涉及维度 | 实证发现 / 核心论点 | 对应文献 |
 > |:---------|:---------------------|:---------|
 > | 课程政策实证知识 | 芬兰教育研究院学者主导的学业成效测评数据是芬兰课程工作组和公务员最重要的实证证据来源。 | [[Argument_Volmari_2025_CE\|(Volmari et al., 2025, p. 538)]] |
+> | 测评事件营销与声誉建构 | 2012 年发布专题通报《芬兰学生的学习能力位居世界前列》，借势 PIRLS（全球第2）与 TIMSS（科学第3）多项独立国际测试数据，为芬兰教育品牌构建实证公信力与事件营销支架。 | [[Argument_Yang_2023_ICE\|(杨明全和邓丽, 2023, p. 6)]] |
 
 ---
 

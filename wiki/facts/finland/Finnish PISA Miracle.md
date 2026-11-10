@@ -3,6 +3,7 @@ title: Finnish PISA Miracle
 aliases:
   - 芬兰PISA奇迹
   - 芬兰奇迹
+  - 芬兰教育奇迹
   - PISA-Wunder in Finnland
   - 芬兰PISA现象
   - Finnish PISA Phenomenon

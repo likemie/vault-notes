@@ -7,6 +7,10 @@ aliases:
   - 芬兰使命：国家品牌委员会报告
   - Mission for Finland: Country Brand Report
   - Country Brand Delegation Report
+  - 芬兰的使命
+  - 芬兰的使命：芬兰将如何解决世界上最棘手的问题
+  - 芬兰国家品牌代表团报告
+  - Mission for Finland
 summary: "2010年由芬兰国家品牌委员会向总理府呈交的划时代国家战略总报告，首次将高品质公立基础教育确立为国家品牌三大支柱之一，开创了将北欧教育由普遍公共福利转译为国家全球经济与地缘声誉资产的历史转折点"
 type: fact
 subtype: policy
@@ -40,6 +44,7 @@ related_facts:
   - "[[Finnish PISA Miracle]]"
 related_arguments:
   - "[[Argument_Kuortti_2025_JEdPolicy]]"
+  - "[[Argument_Yang_2023_ICE]]"
 confidence: high
 status: draft
 created: 2026-11-10
@@ -104,3 +109,4 @@ updated: 2026-11-10
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 追踪国家品牌委员会报告（CBR, 2010）对芬兰教育政策话语的重塑效应，揭示其如何将基础教育 PISA 声誉平移为高等教育收取学费与职业教育公司化出海的正当性借口。
+> - [[Argument_Yang_2023_ICE|杨明全和邓丽 (2023)]] — 将《芬兰的使命》报告作为国家教育品牌顶层设计的实证基石，解构其如何将“全世界最好的教育”确立为国家竞争力的核心价值锚点与第一支柱（pp. 4–5）。
