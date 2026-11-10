@@ -1033,7 +1033,7 @@ Total entries: **4896**
 > - [[Adjunct Aids]] — Visible Learning MetaX 因素辅助材料的条目，归属教学策略 › 教学方法；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Advance Organizers]] — Visible Learning MetaX 因素先行组织者的条目，归属教学策略 › 学习意图；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Alternative Assessment Methods]] — Visible Learning MetaX 因素替代性评价方法的条目，归属教学策略 › 反馈；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
-> - [[Anchored Instruction]] — 由范德堡大学 CTGV 开发的经典情境教学范式，通过富含嵌入式数据的情节性宏观情境故事作为认知锚点，引导学生自主识别子问题并进行多步因果探究
+> - [[Anchored Instruction]] — 由范德堡大学认知与技术小组（CTGV）开创的情境教学范式。通过向学生呈现嵌入真实数据与复杂情节的多媒体宏观情境故事作为认知锚点，引导学生自主发现并界定子问题，经历多步因果推论与建模以克服惰性知识，在真实性探究中培育批判性思维与高阶问题解决能力。
 > - [[Apprenticeship]] — 将技能习得深嵌于工作场所实践操作与长期师徒传承中的制度化技能形成机制。既是19世纪普鲁士工业赶超与芯片法案劳动力附加条件的制度纽带，也是微电子与先进制造中维系洁净室工艺知识、培育全谱系技师的关键支柱。
 > - [[Appropriately Challenging Goals]] — Visible Learning MetaX 因素适度挑战性目标的条目，归属教学策略 › 学习意图；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Argument Mapping]] — 严格依循非形式逻辑语法将论辩推论链条（主张、理由、证据、反驳）进行空间树状或网络可视化的认知脚手架

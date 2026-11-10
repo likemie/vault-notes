@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-11-06
+updated: 2026-11-10
 ---
 
 ---
@@ -249,3 +249,4 @@ updated: 2026-11-06
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项[[Experimental Research|实验研究]]，定量确立导师指导在三维复合教学策略（A+D+M）中发挥关键认知催化功能（$g+ = 0.57$）。
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 深入考察[[Semiconductor Research Corporation|半导体研究公司]]（SRC）产学导师制（Industrial Mentorship），揭示工业界导师如何通过将科研前沿情境化、消除信息不对称并依托技术大会（TECHCON）构建高阶工程人才直聘网络。
 > - [[Argument_Zhang_Zhao_2026_EDR|张娟和赵祥辉 (2026)]] — 基于 653 位诺贝尔自然科学奖得主履历揭示导师核心效能在于提供科研文化与学术自主探索空间，而非单纯名望传递。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 系统梳理教育行政领导力发展实证，指出纽约第二学区通过资深督学导师制（Mentorship）辅导学校管理团队与校长，重塑基层教学领导力（p. 5）。
