@@ -9,7 +9,7 @@ aliases:
 summary: "大学与科研机构将科学发现与工程知识转化为产业应用、商业产品及社会生产力的全过程。除以《拜杜法案》为核心的专利排他许可与衍生孵化路径外，战后信息技术体系亦证实了公共领域开源披露与人才流动的决定性作用；当代科技政策进一步依托敏捷授权协议与跨国联合实验室平台，将技术转移深度锚定于国家制造能力与战略性产业走廊。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 70
+related_count: 75
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -56,10 +56,14 @@ related_concepts:
   - "[[Total Factor Productivity]]"
   - "[[Internationalization of Higher Education]]"
   - "[[University Spin-Out]]"
+  - "[[International Education Hubs]]"
+  - "[[Regional Innovation System]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Developmental Network State]]"
   - "[[Academic Capitalism]]"
+  - "[[Triple Helix]]"
+  - "[[Systems of Innovation]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Fixed-Effect Model]]"
@@ -95,10 +99,11 @@ related_arguments:
   - "[[Argument_Glitz_2020_AmEconRev]]"
   - "[[Argument_King_2020_ECNUROE]]"
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
+  - "[[Argument_Qu_2024_IJED]]"
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-02
+updated: 2026-11-10
 ---
 
 ---
@@ -136,12 +141,12 @@ updated: 2026-11-02
 
 ---
 
-> [!contrast-table] 技术转移核心模式辨析
+> [!contrast-table|notitle] 概念辨析
 > | 比较维度 | 法定专利许可模式（[[Bayh-Dole Act of 1980\|Bayh-Dole]] [[Paradigm\|范式]]） | 开放公共扩散模式（冷战军工与公共领域范式） | 敏捷国家与制造锚定模式（[[Argument_Kratsios_2026_OSTP\|Kratsios, 2026]]） | 走廊联合平台模式（[[Argument_Woo_2023_HEP\|Woo, 2023]]） |
 > |---|---|---|---|---|
 > | **主导技术领域** | 生物医药、新型化学合成、分子遗传学 | 计算机体系结构、半导体集成电路、互联网协议 | 先进制造、硬科技初创、量子与微电子制造 | 高铁轨道交通、新能源基建、农业工程、跨境数字网络 |
 > | **产权与协议载体** | 排他/非排他专利、商业秘密、[[Technology Transfer Office\|TTO]] 许可合同 | 公共领域报告、开源代码、技术标准规范 | 统一标准化 IP 框架、[[Cooperative Research and Development Agreement\|CRADA]] 协议、其它交易授权（OTA） | 政府间双边科技协议、海外联合实验室共建章程、国际科技园入驻契约 |
-> | **核心驱动机制** | 专利排他权保护与许可费/版税分成激励 | 政府首发采购需求、强制[[Second-Sourcing\|第二货源]]、全额公共资助 | 压缩行政摩擦、受控[[Regulatory Sandbox\|监管沙盒]]、共享试验场与本土制造对接 | 国家战略走廊指引、高教国际化专项资助、产学研跨国协同与[[Hard Power\|硬实力]]输出 |
+> | **核心驱动机制** | 专利排他权保护与许可费/版税分成激励 | 政府首发采购需求、强制[[Second-Sourcing\|第二货源]]、全额公共资助 | 压缩行政摩擦、受控[[Regulatory Sandbox\|监管沙盒]]、共享试验场与本土制造对接 | 国家战略走廊指引、高教国际化专项资助、产学研跨国协同与[[Hard Power\|硬实力]]支撑 |
 > | **知识流动形态** | 显性法权界定、排他垄断期、点对点交易 | 公开披露、研讨会授课、隐性工艺带教 | 敏捷商业协议、国家实验室机时共享、创业科学家进驻 | 境外实体平台研发、本土留学生培养反哺、成套工程工艺就地转移 |
 > | **代表性案例** | 斯坦福大学 Cohen-Boyer 重组 DNA 专利许可 | ENIAC 架构公开披露、[[Bell Labs\|贝尔实验室]]晶体管研讨会、TCP/IP | 能源部国家实验室 [[Other Transaction Authority\|OTA]] 协议、伯克利 Activate 创业科学家 | 清华大学海外研发中心、浙江大学联合研究中心、中泰高铁工程联合攻关 |
 
@@ -184,6 +189,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题一｜[[General Purpose Technology|通用技术]]产业萌芽期的技术转移依赖非专利公共扩散机制与[[Human Capital Theory|人力资本]]流动而非法定排他许可
+> **非专利扩散与底层技术通用化** 探讨在通用技术产业萌芽期，开源共享、第二供应商制度与人才流动如何先于专利排他机制促进颠覆性技术向工业界转移。
 
 > [!claim] [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]]
 > **非专利扩散是战后 IT 产业技术转移的真正基石** 基拉·法布里齐奥（Kira R. Fabrizio）与戴维·莫厄里（[[David C. Mowery]]）考证指出，在 1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》通过之前，战后美国微电子、计算机硬件、软件及互联网等支柱产业之所以实现高效率的技术转移与爆发式增长，其决定性力量主要依靠三大非专利机制，显著独立于大学专利许可与排他垄断：一是科研成果主动置于公共领域（如[[Von Neumann Architecture|冯·诺依曼架构]]公开、TCP/IP 协议开放），杜绝了关键基础设施的技术私有化阻碍；二是军方先导采购推行强制第二供应商制度，打破了制造工艺壁垒；三是受训于高水平大学的青年科学家与工程师通过人才跨界流动，把顶尖实验技艺直接植入产业土壤。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29–31, 38)]]
@@ -191,6 +197,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题二｜法定专利排他性技术转移模式存在显著的学科[[Heterogeneity|异质性]]与跨国制度摩擦
+> **专利许可模式的学科异质性与制度摩擦** 剖析以生物医药为代表的单项专利排他授权在复杂组装与软件系统中的局限，以及跨国合作中的合同谈判摩擦。
 
 > [!claim] [[Argument_Susalka_Carbone_2025_IP_Web|Susalka and Carbone (2025)]]
 > **法定专利许可适用范围受限与合同制度摩擦** 拜杜法案确立的以专利排他授权为核心的技术转移[[Paradigm|范式]]具有强烈的行业依赖性，高度适配于“一项专利对应一种药物分子结构”的生物医药领域，但在复杂[[Assemblage|组装]]系统或软件领域往往引发专利丛林与[[Freedom to Operate|自由实施权]]阻碍。在跨国合作与多元合同设计中，缺乏统一国际专利规则导致[[Background IP|背景知识产权]]界定困难、共同共有专利收益难以追偿等制度摩擦激增；大学必须通过非排他免版税许可、菜单式预先定价及严格保护学术发表自由来对冲过度商业化的制度风险。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, pp. 273, 277–285)]]
@@ -198,6 +205,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题三｜关系型人员流动与[[Tacit Knowledge|隐性知识]]交流正在重塑传统交易型技术转移范式
+> **从交易型转移向关系型知识交流演进** 揭示默会知识与前沿工艺诀窍如何通过人员双向流动、联合平台共建与长周期稳定资助实现深层转移。
 
 > [!claim] [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]]
 > **从狭义技术转移迈向广义[[Knowledge Exchange|知识交流]]** 托马斯·乌尔里克森（Tomas Ulrichsen）系统回顾英国与国际实践指出，单纯围绕专利转让和特许权使用费的交易型技术转移正被广义的关系型[[Knowledge Exchange|知识交流]]所取代。由于产业竞争中最前沿的核心工艺往往表现为高度情境化且不可编码的[[Tacit Knowledge|默会知识]]，人员双向穿梭、联合研发平台共建与网络协同活动展现出远超单一专利授权的系统赋能价值。政府资助模式亦由此从短期项目制竞争拨款转向长周期公式驱动的稳定能力建设拨款。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 41–46)]]
@@ -205,13 +213,15 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题四｜重资产通用技术领域的转移依托多边联合体、国家开放设施与多学科跨界再造
+> **重资产技术的多边联合体与跨界复用** 阐明在设备极端昂贵且全行业交叉许可的微电子与先进制造领域，多边平台、国家开放机台与多学科再造如何驱动技术转移。
 
 > [!claim] [[Argument_Mody_2017_MOH|Mody (2017)]]
-> **多边实体平台与多学科跨界是重资产技术转移的核心枢纽** 赛勒斯·莫迪（Cyrus C. M. Mody）通过微电子与半导体产业史实证表明，在设备沉没成本极端高昂且技术全行业交叉许可的重资产领域，技术转移不同于轻资产生物医药的单项排他专利变现轨道，转而依托三大平台机制实现：一是**企业科学家轮转与双向隐性诀窍回流（加州理工 [[Silicon Structures Project|SSP]] 与斯坦福 CIS）**；二是**国家级开放用户设施与工程咨询（康奈尔 [[National Research and Resource Facility for Submicron Structures|NRRFSS]] 为 40 余家机构建立微纳加工能力）**；三是**多学科近邻生态赋予的二次跨界转移（微细加工装备复用于生命科学，催生基因枪与 DNA 微阵列芯片）**。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 286–287, 290–293, 297–299)]]
+> **多边实体平台与多学科跨界是重资产技术转移的核心枢纽** 赛勒斯·莫迪（Cyrus C. M. Mody）通过微电子与半导体产业史实证表明，在设备沉没成本极端高昂且技术全行业交叉许可的重资产领域，技术转移不同于轻资产生物医药的单项排他专利变现轨道，转而依托三大平台机制实现：一是企业科学家轮转与双向隐性诀窍回流（加州理工 [[Silicon Structures Project|SSP]] 与斯坦福 CIS）；二是国家级开放用户设施与工程咨询（康奈尔 [[National Research and Resource Facility for Submicron Structures|NRRFSS]] 为 40 余家机构建立微纳加工能力）；三是多学科近邻生态赋予的二次跨界转移（微细加工装备复用于生命科学，催生基因枪与 DNA 微阵列芯片）。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 286–287, 290–293, 297–299)]]
 
 ---
 
 > [!concept-proposition] 命题五｜技术转移必须破除跨校条款碎片化并依托 [[Cooperative Research and Development Agreement|CRADA]] 与 [[Other Transaction Authority|OTA]] 敏捷协议锚定本土先进制造
+> **敏捷授权工具与本土先进制造锚定** 探讨如何破除各高校技术转让政策的碎片化摩擦，依托 CRADA 协议与 OTA 商业授权将国家公共研发成果快速导入实体制造。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
 > **敏捷协议与统一许可框架是盘活国家资产并防范创新外溢的关键制度支柱** 白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）指出，各大学差异巨大的技术转让政策构成了阻碍初创企业获取知识产权的严重制度摩擦；同时，若缺乏本土制造承接，单纯的专利公开与单边授权将导致由公共预算资助的原创突破沦为外国竞争对手的低成本原料。国家必须推行跨校统一知识产权授权框架，大幅缩短国家实验室[[Cooperative Research and Development Agreement|合作研发协议]]（CRADA）审批周期，并全面深化[[Other Transaction Authority|其它交易授权]]（OTA）的应用，按商业灵活条款直接与产业界签约，将科学突破迅速导入本土先进制造与战略供应链。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 34–35, 41)]]
@@ -219,6 +229,7 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题六｜知识作为虚构商品的激进私有化会反向扼杀跨机构技术转移与研发协作
+> **虚构商品异化与跨机构协同阻力** 运用波兰尼虚构商品理论反思过度排他性专利占有如何引发独占忧虑并阻碍跨组织联合科研攻关。
 
 > [!claim] [[Argument_Block_2008_PS|Block (2008)]]
 > **虚构商品异化与跨界合作阻碍论** [[Fred Block|弗雷德·布洛克]]（Fred Block）拓展卡尔·波兰尼（Karl Polanyi）的虚构商品理论指出，知识在本质上属于非排他性的公共物品，科学共同体的繁荣依赖于开放辩论与无私共享。然而，受[[Market Fundamentalism|市场原教旨主义]]主导的现代技术转移体制将知识等同于普通排他性私人财产，极度推崇激进的产权占有主张。这种排他性产权逻辑构筑了严重的制度壁垒：合作各方因极度担忧潜在研发伙伴会独占产出的任何共有新知识，从而在立项谈判时陷入漫长僵局，直接阻碍了跨机构联合科研攻关的启动；此外，公共出资研发的专利（如抗癌药紫杉醇）被私营企业独占后制定垄断高价，导致纳税人遭遇双重支付，违背了公共技术转移造福社会的初衷。[[Argument_Block_2008_PS|(Block, 2008, pp. 195–198)]]
@@ -226,9 +237,13 @@ updated: 2026-11-02
 ---
 
 > [!concept-proposition] 命题七｜战略性跨国技术转移依托国家走廊导向的联合研发平台实现产业配套与标准对接
+> **国家战略走廊与海外联合研发平台** 揭示发展型国家如何依托顶尖高校海外联合实验室、技术转移中心与科技园区，实现工程技术的在地研发、本土适应与标准互通。
 
 > [!claim] [[Argument_Woo_2023_HEP|Woo (2023)]]
-> **跨国联合平台是发展型国家技术转移的战略支柱** 简·吴（Jan Woo）针对中国“[[Belt and Road Initiative|一带一路]]”沿线科技合作的研究表明，发展型国家的高校技术转移突破了传统英美模式狭隘依赖校内[[Technology Transfer Office|技术转移办公室]]（TTO）进行单项商业专利许可的路径。清华大学、浙江大学等顶尖[[Research Universities|研究型大学]]通过在东南亚与中亚设立海外联合实验室、国际技术转移中心与联合[[Innovation Park|科技园区]]，将前沿农业、新能源、轨道交通及数字基础设施技术直接对接东道国的产业规划；该模式使大学技术转移成为国家经济走廊建设、双边产能合作与技术标准互认的关键平台，推动了高等教育从单向文化吸引向跨国产业[[Hard Power|硬实力]]赋能的战略深化。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 685–687)]]
+> **跨国联合平台是发展型国家技术转移的战略支柱** 简·吴（Jan Woo）针对中国“[[Belt and Road Initiative|一带一路]]”沿线科技合作的研究表明，发展型国家的高校技术转移突破了传统英美模式狭隘依赖校内[[Technology Transfer Office|技术转移办公室]]（TTO）进行单项商业专利许可的路径。清华大学、浙江大学等顶尖[[Research Universities|研究型大学]]通过在东南亚与中亚设立海外联合实验室、国际技术转移中心与联合[[Innovation Park|科技园区]]，将前沿农业、新能源、轨道交通及数字基础设施技术直接对接东道国的产业规划；该模式使大学技术转移成为国家经济走廊建设、双边产能合作与技术标准互认的关键平台，推动了高等教育从单向文化吸引向跨国产业[[Hard Power|硬实力]]支撑的战略深化。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 685–687)]]
+
+> [!claim] [[Argument_Qu_2024_IJED|Qu and Dai (2024)]]
+> **跨境教育枢纽中政产学三螺旋技术转移机制** 屈丽娟与代玉文基于长三角、粤港澳大湾区与海南自贸港实证研究指出，跨境高等教育枢纽通过地方政府规划注资与地方骨干产业联合设立研发中心，将跨国智力要素与工程研发能力直接注入区域产业体系；高校突破传统单向线性许可，与政府政策红利及地方骨干产业的技术转移需求形成双向非线性互动，打通跨境人才联合培养、共建联合实验室与产业转化的全链条通道。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2–3, 10)]]
 
 ---
 
@@ -242,6 +257,7 @@ updated: 2026-11-02
 > | **敏捷统一许可命题** | 技术转移必须打破跨校条款碎片化，依托 [[Cooperative Research and Development Agreement\|CRADA]] 与 OTA 敏捷协议将成果锚定于本土制造 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | 白宫 [[Office of Science and Technology Policy\|OSTP]] 2026 国家技术许可改革、国家实验室[[Big Science\|大科学]]设施开放与 OTA 商业授权 |
 > | **知识虚构商品化阻碍命题** | 激进的排他性专利占有将知识异化为虚构商品，导致跨组织研发因防范侵权与独占恐惧而产生严重的协同阻力 | [[Argument_Block_2008_PS\|Block (2008)]] | 美国《[[Bayh-Dole Act of 1980\|拜杜法案]]》与《联邦技术转移法》确立后医药及微电子跨企业协作壁垒 |
 > | **跨国联合平台转移命题** | 跨国技术转移依托国家战略走廊的联合研发平台实现产业配套与标准对接 | [[Argument_Woo_2023_HEP\|Woo (2023)]] | 中国顶尖大学在东南亚及中亚建立海外联合实验室与国际技术转移中心 |
+> | **教育枢纽三螺旋转移命题** | 跨境教育枢纽通过政产学三螺旋协同打破单向线性分工，将跨国智力要素直接注入区域产业集群 | [[Argument_Qu_2024_IJED\|Qu and Dai (2024)]] | 长三角、粤港澳大湾区与海南自贸港跨境教育枢纽实践 |
 
 ---
 
@@ -254,6 +270,7 @@ updated: 2026-11-02
 > - **2008 年 — 虚构商品反思与网络国家技术经纪重构** [[Fred Block|弗雷德·布洛克]]（Fred Block）系统剖析过度排他性专利对技术转移造成的反向阻碍，揭示美国[[Developmental Network State|发展型网络国家]]依赖 [[DARPA]]、[[National Science Foundation|NSF]]、[[Department of Energy|DOE]] 等机构的技术经纪与对等资助跨越[[Valley of Death|死亡之谷]]，确立了技术转移中公私协同的新视角。[[Argument_Block_2008_PS|(Block, 2008, pp. 176–188, 196–198)]]
 > - **2000 年代–2010 年代 — 从狭义技术转移向广义知识交流拓展** 科技政策学界反思排他专利许可的高昂交易成本与学科局限，推动技术转移[[Paradigm|范式]]向全生命周期产学协同、人员深度互访、开源生态构建以及[[Responsible Innovation|负责任创新]]的现代知识交流全面升华。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 44–46)]]
 > - **2023 年 — 跨国走廊与联合平台导向的战略性转移** [[Argument_Woo_2023_HEP|Woo (2023)]] 揭示发展型国家模式下的跨国技术转移路径，高水平[[Research Universities|研究型大学]]通过在海外共建联合实验室、技术转移中心与国际[[Innovation Park|科技园区]]，将科研成果与产业标准定向输出至沿线重点走廊，超越了传统英美单纯依赖校内 TTO 商业化许可的单一路径。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 685–687)]]
+> - **2024 年 — 跨境教育枢纽三螺旋技术转移机制** 屈丽娟与代玉文（[[Argument_Qu_2024_IJED|Qu & Dai, 2024, pp. 2–3, 10]]）基于长三角、粤港澳大湾区与海南自贸港实践，实证揭示跨境教育枢纽如何通过政产学三螺旋联动，将跨国技术转移直接嵌入区域产业集群。
 > - **2026 年 — 统一许可框架、[[Other Transaction Authority|OTA]] 敏捷授权与国家制造锚定** 白宫 [[Office of Science and Technology Policy|OSTP]] 发布《[[Science A New Golden Age 2026|科学：新的黄金时代]]》（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]），正式确立推行跨校统一知识产权许可框架、加速国家实验室 [[Cooperative Research and Development Agreement|CRADA]] 与深化 OTA 商业授权，将技术转移全面锚定于本土先进制造与产业链自主可控。
 
 ---
@@ -299,6 +316,7 @@ updated: 2026-11-02
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
+> | [[Argument_Qu_2024_IJED\|Qu and Dai (2024)]] | 2020 年中国高等教育毛入学率与跨境教育集聚区规划 | 多案例比较与政策文本分析 | 高教毛入学率与跨国联合研发中心集聚规模 | 2020 年高教毛入学率达 58.4%；布局长三角、粤港澳与海南三大教育枢纽，海宁国际校区集聚 14 个国际联合研发中心 | — | 聚焦中国跨境高教枢纽与区域产业技术转移协同 |
 > | [[Argument_Glitz_2020_AmEconRev\|Glitz and Meyersson (2020)]] | 1970–1989年东德斯塔西（Stasi）在西方针对37个工业部门收集的情报 | 历史计量与[[Fixed-Effect Model\|固定效应]]面板回归 | 科技间谍情报数与[[Total Factor Productivity\|全要素生产率]]（TFP）差距 | 斯塔西累计收集 189,725 条科技情报，显著缩小了两德行业 TFP 差距 | $p < 0.01$ | 揭示非法/秘密技术转移渠道对吸收能力较强的追赶国产业的技术追赶效应 |
 > | [[Argument_Susalka_Carbone_2025_IP_Web\|Susalka and Carbone (2025)]] | 2023年美国全美大学[[University-Industry Collaboration\|产学合作]]资助与技术转移 | 行业统计调查（AUTM） | 产学合作研究资助总额与联邦资助份额演变 | 2023年全美产学合作科研资助超 71 亿美元；联邦资助占大学研发支出比例由 1991 年约 70% 降至 2021 年不足 60% | — | 说明大学研发资金来源多元化趋势以及正式技术转移合同谈判在财务上的关键权重 |
 > | [[Argument_Mody_2017_MOH\|Mody (2017)]] | 1970–1990 年代美国微电子产学中心（[[Silicon Structures Project\|SSP]]、[[National Research and Resource Facility for Submicron Structures\|NRRFSS]]、CIS）与生物医疗跨界转化 | 历史档案考证与比较[[Process Tracing\|过程追踪]] | 外部用户占比、咨询辐射机构数与跨界专利许可成效 | 康奈尔 NRRFSS 外部用户达 60%（12% 工业界），为 40 余家机构提供微细加工建设咨询；基因枪成为康奈尔史上最高额专利版税技术转移；斯坦福 CIS 孵化出 Affymetrix DNA 微阵列芯片 | 定性历史档案证据分析 | 适用于重资产微纳加工平台型技术转移与向生命科学跨界转化情境 |
@@ -306,10 +324,26 @@ updated: 2026-11-02
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Knowledge Production]] | 概念 | 技术转移的源头科学突破与前沿工程原型供给。 |
+> | [[Research Translation]] | 概念 | 涵盖从微观实验到宏观实体制造的广义转化系统。 |
+> | [[Knowledge-Based Economy]] | 概念 | 技术转移作为核心生产力要素嵌入的宏观经济形态。 |
+> | [[International Education Hubs]] | 概念 | 汇聚跨国高校与骨干产业开展联合研发与技术转移的战略载体。[[Argument_Qu_2024_IJED\|(Qu & Dai, 2024, p. 2)]] |
+> | [[Triple Helix]] | 理论 | 阐明大学、产业与政府在技术转移中跨越线性分工的分析框架。[[Argument_Qu_2024_IJED\|(Qu & Dai, 2024, p. 3)]] |
+> | [[Systems of Innovation]] | 理论 | 界定技术转移在国家和区域创新网络中制度交互的理论视角。 |
+> | [[Regional Innovation System]] | 理论 | 承接跨境高教技术转移与骨干产业研发对接的区域制度生态。[[Argument_Qu_2024_IJED\|(Qu & Dai, 2024, p. 10)]] |
+> | [[Academic Capitalism]] | 理论 | 批判技术转移中大学过度追求商业专利与版税收益的政治经济学理论。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 考察中国高等教育国际化政策与三大教育枢纽，阐述跨境高等教育如何依托三螺旋协同整合产业技术转移需求。
 > - [[Argument_Thompson_et_al_2018_RP|Thompson et al. (2018)]] — 利用加利福尼亚大学专利与许可数据，证实常规技术许可带来微弱知识溢出，而实体科研工具许可导致后续学术引用暴跌过半。
 > - [[Argument_King_2020_ECNUROE|King (2020)]] — 追踪[[Forum on China-Africa Cooperation|中非合作论坛]]与[[Belt and Road Education Action Plan|“一带一路”教育行动]]，揭示中国对外高教合作如何依托跨[[Regional University Alliances|区域大学联盟]]、联合研究中心与技术转移基地，推动科研合作深度服务于重大产业走廊与跨国产能建设（pp. 226–230）。
-> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 考察中国[[Internationalization of Higher Education|高等教育国际化]]与地缘战略的交织，揭示顶尖[[Research Universities|研究型大学]]通过海外联合实验室与技术转移中心推动产学研跨国协同与[[Hard Power|硬实力]]输出。
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 考察中国[[Internationalization of Higher Education|高等教育国际化]]与地缘战略的交织，揭示顶尖[[Research Universities|研究型大学]]通过海外联合实验室与技术转移中心推动产学研跨国协同与[[Hard Power|硬实力]]支撑。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室国家战略报告，系统重构技术转移体系，论证破除跨校许可壁垒、加速国家实验室 [[Cooperative Research and Development Agreement|CRADA]] 审批与深化 [[Other Transaction Authority|OTA]] 商业授权对本土制造能力建设的核心作用。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 实证反思战后美国信息技术产业中的非专利技术转移机制，系统论证开源披露、军方第二供应商制度与人才流动对[[General Purpose Technology|通用目的技术]]商业化的决定性推动。
 > - [[Argument_Susalka_Carbone_2025_IP_Web|Susalka and Carbone (2025)]] — 详尽剖析大学[[University-Industry Collaboration|产学合作]]合同中的知识产权条款谈判、[[Freedom to Operate|自由实施权]]规制与发表延迟纠纷防范。

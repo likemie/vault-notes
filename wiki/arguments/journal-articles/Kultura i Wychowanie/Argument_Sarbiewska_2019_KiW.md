@@ -41,6 +41,7 @@ related_concepts:
   - "[[Personalized Learning]]"
   - "[[Curriculum Connection]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Curriculum Delivery Model]]"
 related_theories:
   - "[[Didactic Triangle]]"
   - "[[Radical Constructivism]]"
@@ -72,6 +73,7 @@ related_facts:
   - "[[ResearchED]]"
   - "[[Australian Curriculum]]"
   - "[[Australian Curriculum, Assessment and Reporting Authority]]"
+  - "[[New Zealand Council for Educational Research]]"
 related_arguments: []
 sources:
   - "[[sources/Sarbiewska_2019_KiW/Sarbiewska_2019_KiW|Sarbiewska_2019_KiW]]"

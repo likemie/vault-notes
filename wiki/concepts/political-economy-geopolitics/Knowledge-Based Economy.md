@@ -7,7 +7,7 @@ aliases:
 summary: "以知识、创新、高等教育、研发与高阶思维技能作为价值创造与全球竞争核心要素的经济形态；在技术自动化与AI浪潮下，其战略重心从静态专业知识转向高阶认知能力，但面临宏观政策宣示与微观学业评价滞后的深层制度悖论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 94
+related_count: 98
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -70,6 +70,7 @@ related_concepts:
   - "[[Domain Specificity]]"
   - "[[Heterogeneity]]"
   - "[[Theoretical Perspective]]"
+  - "[[International Education Hubs]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Pasteur's Quadrant]]"
@@ -78,6 +79,8 @@ related_theories:
   - "[[Panopticism]]"
   - "[[Systems of Innovation]]"
   - "[[Cultural Political Economy]]"
+  - "[[Regional Innovation System]]"
+  - "[[Triple Helix]]"
 related_methods:
   - "[[Single-Case Design]]"
   - "[[Discourse Analysis]]"
@@ -119,10 +122,11 @@ related_arguments:
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Amos_2022_Springer]]"
   - "[[Argument_Erfurth_2022_education-hubs]]"
+  - "[[Argument_Qu_2024_IJED]]"
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-11-03
+updated: 2026-11-10
 ---
 
 ---
@@ -146,7 +150,7 @@ updated: 2026-11-03
 
 ---
 
-> [!contrast-table] 知识经济与相关发展[[Paradigm|范式]]辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 知识经济 (KBE) | 福特制工业经济 | 后工业社会 (Bell) |
 > |---|---|---|---|
 > | **核心价值源泉** | 无形知识、研发、[[Higher-Order Thinking Skills\|高阶认知技能]]与创新 | 土地、厂房、标准化机器与低技能劳动力 | [[Theoretical Knowledge\|理论知识]]与专业服务业 |
@@ -156,7 +160,7 @@ updated: 2026-11-03
 
 ---
 
-> [!feature] 知识经济的核心结构特征
+> [!feature] 核心要素
 > - **无形资产与一般智识的价值化** 财富创造的主要来源从自然资源与有形物质资本，系统性转变为无形专利、数据算法、知识网络与[[Human Capital Theory|人力资本]]。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 23)]]
 > - **非程序化[[Higher-Order Thinking Skills|高阶思维]]的决定性地位** 随着人工智能、大数据与技术自动化加速替代常规程序化劳动，分析推理、证据辨析、批判审视与突破性创造等[[Higher-Order Thinking Skills|高阶思维技能]]成为不可替代的核心劳动力生产力。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5)]]
 > - **知识的[[Reflexivity|反身性]]生产与永久创新** 知识被反身性地应用于知识自身的再生产；产品与技术生命周期急剧缩短，迫使全社会处于“永久创新（Perpetual Innovation）”与持续再技能化的结构性压力中。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, p. 179)]]
@@ -178,18 +182,21 @@ updated: 2026-11-03
 > [!concept-proposition] 命题一｜知识经济将高等教育从社会边陲推向国家全球地缘经济竞争的核心战略中枢
 > **高等教育的战略化重构** 在 KBE 逻辑下，大学不再是脱离世俗的象牙塔，而被重构为直接生产高附加值专利、吸引全球跨国资本与输出高技能劳动力的国家核心战略基础设施。
 
-> [!claim] Moisio; Rizvi
+> [!claim] [[Argument_Moisio_2022_Springer|Moisio (2022)]]; [[Argument_Rizvi_2022_Springer|Rizvi (2022)]]
 > **大学作为[[Competitiveness|国家竞争力]]的战略支柱** 随着资本积累从物质密集型转向知识密集型，大学的战略政治角色根本性增加；亚洲各国政府与西方发达国家普遍以 KBE [[Discourse|话语]]为合法性依据，大规模扩张高等教育预算并实施教育出口战略，将高教政策转变为经济、外交与地缘安全政策的复合体。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 23)]]; [[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 95–100)]]
 
-> [!claim] Chou & Ravinet
+> [!claim] [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]]
 > **区域一体化中知识话语的本土化转译与合法化功能** 周孟萱（Meng-Hsuan Chou）与波琳·拉维内（Pauline Ravinet）基于欧洲与东南亚的跨区域实证比较指出，全球知识经济话语在超国家与次区域一体化进程中充当了重塑高等教育战略属性的合法化工具。在欧洲，[[European Commission|欧盟委员会]]将知识经济话语与[[Lisbon Strategy|里斯本战略]]深度绑定，把学生跨境流动重新诠释为向统一大市场输送高技能劳动力的基础设施，推动高等教育从[[EU|欧盟]]条约边陲上升至核心经济战略；在东南亚，[[ASEAN|东盟]]各国政府在 2015 年[[ASEAN Economic Community|东盟经济共同体]]建成的外部时间表下，同样援引知识经济话语将高等教育界定为经济生产力引擎，在严格维护[[State Educational Sovereignty|国家教育主权]]与[[ASEAN Way|东盟方式]]的前提下，为名校结网与部委柔性协调提供了合法性支点。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 147–149, 153–155)]]
+
+> [!claim] [[Argument_Qu_2024_IJED|Qu and Dai (2024)]]
+> **教育枢纽驱动区域经济向知识与服务转型** 屈丽娟与代玉文基于中国长三角、粤港澳大湾区与海南自贸港实证表明，地方政府依托跨境高等教育枢纽将跨国智力要素直接注入[[Regional Innovation System|区域创新体系]]，通过产学政三螺旋协同打破单向线性分工，推动区域经济由传统要素驱动向知识和服务驱动演进。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2, 10)]]
 
 ---
 
 > [!concept-proposition] 命题二｜技术自动化驱动知识经济从“事实性知识储备”向“生成性[[Higher-Order Thinking Skills|高阶思维技能]]”[[Paradigm|范式]]转型
 > **认知劳动力[[Construct|构念]]重塑** 算法与智能化机器能够低成本替代程序化计算与事实记忆，迫使知识经济将人才价值的评判标准彻底转向劣构情境中的复杂审辩与创新突破。
 
-> [!claim] Bouckaert / [[OECD]]
+> [!claim] [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]]
 > **[[Higher-Order Thinking Skills|高阶思维]]成为知识经济不可替代的核心资产** 在自动化与人工智能普及的知识社会，大学毕业生的核心竞争力不再取决于记诵了多少学科事实，而取决于能否搜集矛盾信息、辨析虚假论据并提出新颖可行的解决方案；[[Critical Thinking|批判性思维]]与[[Creativity|创造力]]由此被 OECD 国家普遍确立为高教最核心的培养成果。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5)]]
 
 ---
@@ -197,7 +204,7 @@ updated: 2026-11-03
 > [!concept-proposition] 命题三｜知识经济在个体主体性层面通过素养话语将宏观劳动力风险转化为个体的终身自我投资责任
 > **主体性生产与劳动规训** KBE 必须通过微观机制在劳动者心智中建立持续升级技能的自我问责机制，使个体主动承担适应市场动荡的全部代价。
 
-> [!claim] Zelinka; Hartmann
+> [!claim] [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]]; [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]]
 > **[[21st Century Skills and Competencies Discourse|21世纪技能]]话语是KBE在个体层面的[[Operationalization|操作化]]机制** KBE 逻辑将知识界定为增长源泉，而 21 世纪技能话语（Skills and Competencies Discourse, [[Single-Case Design|SCD]]）则将宏观经济需求转化为个体必须终身获取的技能清单；知识生命周期的缩短驱动了[[Further Education|继续教育]]与企业培训的常态化，将劳动者规训为对自身[[Employability|就业力]]负全责的“[[Self-Entrepreneur|自我企业家]]”。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, pp. 259–260)]]; [[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, p. 179)]]
 
 ---
@@ -205,7 +212,7 @@ updated: 2026-11-03
 > [!concept-proposition] 命题四｜知识经济的宏观战略雄心与高校微观学业评价之间存在深刻的“增益断裂悖论”
 > **政策意图与评价现实的制度断裂** 尽管宏观政策极力标榜高阶思维对知识经济的重要性，但高校内部陈旧的考核体系却无法测度与促进这些能力，导致宏观宣示沦为虚妄。
 
-> [!claim] Bouckaert
+> [!claim] [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]]
 > **高阶能力倡导与大学实际增益微弱的实证悖论** 宏观国家战略与资格框架（如 [[European Qualifications Framework|EQF]]、《[[Melbourne Declaration|墨尔本宣言]]》）普遍将批判性思维列为首要目标；然而实证测评却揭示大学生的实际[[Learning Gain|学习增益]]极其微弱。根源在于大学微观考核长期被低阶客观题与碎片化考试所主导，缺乏[[Constructive Alignment|建构性对齐]]与真实性表现评价支撑。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5, 26–28)]]
 
 ---
@@ -221,7 +228,7 @@ updated: 2026-11-03
 > [!concept-proposition] 命题六｜国际组织通过[[Constructed Knowledge|建构知识]]经济的[[Social Imaginary|社会想象]]将社会公平、性别平权与社会凝聚力重构为经济效率的附属工具
 > **知识经济[[Social Imaginary|社会想象]]与社会价值的[[Economic Fundamentalism|经济基要主义]]重构** 探讨跨国组织如何依托[[New Growth Theory|内生新增长理论]]将知识经济塑造为排他性的全球政策常识，并在“经济基要主义”逻辑下收编传统的社会民主主义目标。
 
-> [!claim] [[Fazal Rizvi|Rizvi, F.]], & [[Bob Lingard|Lingard, B.]]
+> [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]]
 > **从“[[Knowledge-that and Know-how-to|知其然]]”向“知其所以操作”转型及社会议题的工具化** 法扎尔·里兹维（Fazal Rizvi）与鲍勃·林加德（Bob Lingard）指出，[[OECD]] 于 1996 年发布的《知识经济》（*The Knowledge Based Economy*）报告整合保罗·罗默（Paul Romer, 1986）与彼得·豪伊特（Peter Howitt, 2000）的内生新增长理论，将知识与技术进步界定为经济活动的内生核心，确立了一套席卷[[World Bank|世界银行]]、[[UNESCO|联合国教科文组织]]与[[EU|欧盟]]的全球[[Social Imaginary|社会想象]]。这一想象要求学习重心从正规、编码化的“知其然”（knowing that）转向网络化、商业化的“知其所以操作”（[[Procedural Knowledge|knowing how]]），推动民族国家转型为以持续[[Lifelong Learning|终身学习]]为特征的“学习型经济”（Foray & Lundvall, 1996），同时压抑并排斥了“替代性经济的幽灵”（Kenway et al., 2006）。在乔治·索罗斯（George Soros, 1998）所称的“经济基要主义”支配下，知识经济社会想象在字面上保留机会均等、女性平权与社会资本等修辞的同时，将女性受教育简化为减贫与提高生产率的工具（忽视全球服务业弹性用工对女性的结构性压迫，Scholte, 2000），并将社会凝聚力缩减为修复市场排斥、维持知识经济运转的剩余性手段（Thomson, 1999）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–446, 448–452)]]
 
 ---
@@ -243,7 +250,7 @@ updated: 2026-11-03
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
-> | **地缘战略定位** | 大学被重构为国家[[Intellectual Capital\|知识资本]]与全球博弈核心基础设施 | 高教财政扩张、教育出口、国际化枢纽政策 | [[Argument_Moisio_2022_Springer\|Moisio (2022)]]; [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]]; [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]] |
+> | **地缘战略定位** | 大学与教育枢纽被重构为国家[[Intellectual Capital\|知识资本]]与区域经济转型的核心基础设施 | 高教财政扩张、教育出口、国际化枢纽政策 | [[Argument_Moisio_2022_Springer\|Moisio (2022)]]; [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]]; [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]]; [[Argument_Qu_2024_IJED\|Qu and Dai (2024)]] |
 > | **能力[[Paradigm\|范式]]演进** | 自动化压力迫使价值来源从事实记忆转向批判与创造技能 | 劳动力技能转型、课程改革、人才需求测绘 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] |
 > | **主体性规训** | 通过技能话语将劳动力市场风险转化为个体终身投资义务 | [[Lifelong Learning\|终身学习]]、继续教育、自我企业家精神 | [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022)]]; [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] |
 > | **评价断裂悖论** | 宏观政策高阶能力宣示与微观学业考核事实导向严重脱节 | 高教质量保障、学习增益测量、考试制度改革 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] |
@@ -263,6 +270,7 @@ updated: 2026-11-03
 > - **全球扩散与空间运作（2000s–2010s） — 教育出口与枢纽建设** 亚洲国家与澳大利亚将 KBE 转化为教育出口战略；新加坡与迪拜通过“教育枢纽”政策将大学完全产业化为经济增长极。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022)]]; [[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022)]]
 > - **2017 — 跨区域比较中的知识话语本土化赋权** 周孟萱与波琳·拉维内（[[Argument_Chou_2017_PolSoc|Chou & Ravinet, 2017, pp. 147–149, 153–155]]）揭示全球知识经济话语在区域一体化中的双重赋权机制：在欧洲被用作将高等教育吸纳进统一大市场战略的深层协调支点，在东南亚则充当在不触碰国家主权红线的前提下推进跨国高教务实合作的合法化锚点。
 > - **智能时代评价重构（2020s至今） — 聚焦高阶认知素养与评价治理** 面对生成式 AI 与劳动力深度重组，OECD 等国际组织反思“教育扩张”数量指标，转向推动以[[Critical Thinking|批判性思维]]、[[Creativity|创造力]]与真实表现任务为核心的高教评价与治理变革。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023)]]
+> - **2024 — 跨境教育枢纽嵌入区域创新体系驱动转型** 屈丽娟与代玉文（[[Argument_Qu_2024_IJED|Qu & Dai, 2024, pp. 2, 10]]）实证揭示跨境高等教育枢纽通过产学政三螺旋联动嵌入区域创新体系，推动区域从要素驱动向知识和服务驱动演进。
 
 ---
 
@@ -298,6 +306,7 @@ updated: 2026-11-03
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
+> | [[Argument_Qu_2024_IJED\|Qu and Dai (2024)]] | 2020 年中国高等教育毛入学率与跨境教育集聚区规划 | 多案例比较与政策文本分析 | 高教毛入学率与跨国合作办学机构集聚规模 | 2020 年中国高教毛入学率达 58.4%（超世界平均线 40% 与中高收入国家平均线 52%）；布局长三角、粤港澳大湾区与海南自贸港三大教育枢纽 | — | 聚焦中国跨境高教枢纽与区域经济转型互动 |
 > | [[Argument_Block_2008_PS\|Block (2008)]] | 1970–2006 年美国《R&D 100》大奖获奖技术（2006 年 $N = 88$ 项本土创新） | 历史档案追踪与跨期[[Content Analysis\|内容分析]] | 突破性技术创新的研发组织属性（私营独立研发 vs 联邦资助/跨组织协同） | 2006 年仅 11 项由私营企业独立完成，77 项（87.5%）由联邦机构全额资助或涉及大学与公共机构协同 | — | 仅反映获得技术大奖的前沿突破性创新，未涵盖常规商业性渐进技术研发 |
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | 全美本科生 [[Collegiate Learning Assessment\|CLA]] 增值追踪样本（Arum & Roksa, 2011）及全球四国高教纵向样本（Loyalka et al., 2021） | 多国高校[[Academic Achievement\|学业表现]]增益纵向[[Cohort Study\|追踪研究]] | 本科前两年[[Critical Thinking\|批判性思维]]与高阶推理增益 | 逾 45% 的本科生在大学前两年批判性思维与复杂推理未见实质性增益 | — | 测度局限于特定标准化批判性思维测验，未覆盖专业[[Domain Specificity\|领域特异性]]实践技能 |
 > | [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] | 2016 年[[EU\|欧盟]] 25–64 岁劳动年龄人口 | 跨国劳动力调查截面统计分析 | 年度正式与非正式[[Further Education\|继续教育]]参与率 | 逾 40% 劳动人口每年参与正式或非正式继续教育培训 | — | 统计涵盖非正式工作场所短训，各类培训的时长与实际技能转化深度存在较大[[Heterogeneity\|异质性]] |
@@ -307,7 +316,22 @@ updated: 2026-11-03
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Knowledge Production]] | 概念 | 知识经济赖以维系与价值创造的源头认知生产过程。 |
+> | [[Technology Transfer]] | 概念 | 知识经济中将学术研究成果向产业生产力转化的关键机制。 |
+> | [[International Education Hubs]] | 概念 | 知识经济空间集聚与跨国智力要素嵌入区域创新体系的战略载体。[[Argument_Qu_2024_IJED\|(Qu & Dai, 2024, p. 2)]] |
+> | [[Higher-Order Thinking Skills]] | 概念 | 知识经济在劳动力技能端对非程序化复杂认知能力的核心诉求。 |
+> | [[Regional Innovation System]] | 理论 | 知识经济中大学、产业与政府空间协同演进的制度系统。[[Argument_Qu_2024_IJED\|(Qu & Dai, 2024, p. 10)]] |
+> | [[Human Capital Theory]] | 理论 | 知识经济中将教育与技能视作资本积累核心动力的经济学理论。 |
+> | [[Triple Helix]] | 理论 | 阐明知识经济中大学、产业与政府打破单向分工形成非线性协同的分析框架。[[Argument_Qu_2024_IJED\|(Qu & Dai, 2024, p. 3)]] |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 考察中国高等教育国际化政策与长三角、粤港澳、海南三大教育枢纽，阐述跨境高等教育如何嵌入区域创新体系并推动知识经济转型。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — [[OECD]] 国际报告，系统论证知识经济与技术自动化背景下，高等教育如何通过五大政策支柱重构[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]的评价生态。
 > - [[Argument_Block_2008_PS|Block (2008)]] — 从经济社会学与国家[[Theoretical Perspective|理论视角]]解构后工业知识经济的非线性创新特征，论证[[Developmental Network State|发展型网络国家]]与去中心化协同的必然性，并以波兰尼虚构商品理论反思知识极端商品化对跨组织科研协作的制度反噬。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 揭示欧盟在知识经济导向的里斯本战略下如何借助经合组织数据跨越辅助性原则限制推行软法治理，并阐明大规模跨国测评跳过具体学校课程、考核面向成人市场生活能力并塑造自我规制主体的认识论转向。
