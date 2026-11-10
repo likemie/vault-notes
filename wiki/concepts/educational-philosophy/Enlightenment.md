@@ -77,6 +77,7 @@ related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Kelly_Licona_2018_EpistemicPractices]]"
   - "[[Argument_Anderson_2016_Verso_Ch01]]"
+  - "[[Argument_Anderson_2016_Verso_Ch02]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
@@ -144,6 +145,7 @@ updated: 2026-11-11
 > - **自然自由与儿童中心身心潜能发展（Natural Freedom and Child-Centered Growth）** 承袭[[Jean-Jacques Rousseau|卢梭]]《爱弥儿》与[[Johann Heinrich Pestalozzi|裴斯泰洛齐]]的感官教化法，主张教育必须尊重受教育者的天赋潜能与个性，使教师成为引导儿童自我发展的外部助力而非惩戒暴君。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 20, 24)]]
 > - **教育、政治学与民族国家构建的三位一体（Triad of Education, Politics, and State-Building）** 启蒙运动将国民公共教育定位为国家公共工程与政治科学的核心维度，将学校确立为塑造具有爱国认同与法律敬畏的现代公民的根本熔炉。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 19–20, 25)]]
 > - **世俗政治主权与神权王朝秩序的解构（Secular Sovereignty and Dynastic Demise）** 启蒙运动摧毁了神授王朝秩序与宗教宇宙论等级的形而上学合法性，促使主权概念由超越性神权转移至世俗政治共同体自身，奠定了现代民族国家作为有限主权实体的观念基座。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 7)]]
+> - **世俗救赎需求与存在宿命转化（Secular Salvation and Transmutation of Fatality）** 启蒙运动瓦解了传统宗教的天堂救赎与神圣来世信仰，但并未消解生老病死与命运偶然性对人类的残酷折磨；这种理性主义世俗化催生了对全新连续性样式的渴望，推动民族范畴将个体的偶然降生转化为具有神圣意义的政治命运。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 10–12)]]
 > - **公共领域的理性重构与现代性工程（Reconstruction of the Public Sphere）** 如[[Jürgen Habermas|哈贝马斯]]所论证，启蒙现代性工程的核心任务在于通过客观科学、普遍道德与法律理性重构公共领域，而各级公共学校的理性化组织正是实现这一现代性工程的必要前提。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, p. 25)]]
 > - **经验实证归纳与超国家和平治理愿景（Transnational [[Empiricism]] and Peace Governance）** 催生了比较教育的[[Proto-Scientific Motif|准科学母题]]：将[[Francis Bacon|培根]]知识统一观、居维叶比较解剖学类比与标准化[[Questionnaire|问卷]]相结合，致力于通过跨国比较经验事实消除偏见，构建人类[[Perpetual Peace|永久和平]]共同体。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 11–13, 21–24)]]
 > - **科学分析的道德迟钝预设与[[Value Neutrality|价值中立]]张力（Dialectic of Moral Obtuseness and Scientific Neutrality）** 启蒙运动与科学革命为了探寻自然规律与经验事实，以暂时[[Epoché|悬置]]善恶价值界定的道德迟钝（Leo Strauss, 1959）作为科学分析的前提条件；然而，当代高科技社会若将这一事实/价值二分法绝对化，则会导致公共生活失去规范锚桩，滑向漫无目的的[[Technological Agnosticism|技术不可知论]]与文化虚无主义。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 214–215)]]
@@ -189,7 +191,7 @@ updated: 2026-11-11
 > **神圣秩序消解与世俗主权转型** 阐明启蒙运动如何通过消解神权统治与世袭王朝秩序的形而上学合法性，促使现代政治共同体被构想为享有主权且有限的想象实体。
 
 > [!claim] Anderson, B.
-> **神授王朝秩序解体与世俗主权民族确立** [[Benedict Anderson|本尼迪克特·安德森]]论证指出，现代民族之所以在本质上被构想为享有主权的政治共同体，其直接历史关口在于启蒙运动与政治革命对神圣王朝秩序合法性的根本摧毁。在传统宗教世界观中，王朝统治依托神圣天命与普世宗教语言获得超越性合法性；当启蒙理性摧毁了这种神权统治根基时，主权国家成为现代人确认自身自由与政治自决的最高象征，推动了将政治共同体想象为有限、自主且享有主权的现代民族国家范式。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 7)]]
+> **神授王朝秩序解体与世俗主权民族确立** [[Benedict Anderson|本尼迪克特·安德森]]论证指出，现代民族之所以在本质上被构想为享有主权的政治共同体，其直接历史关口在于启蒙运动与政治革命对神圣王朝秩序合法性的根本摧毁。在传统宗教世界观中，王朝统治依托神圣天命与普世宗教语言获得超越性合法性；当启蒙理性摧毁了这种神权统治根基时，主权国家成为现代人确认自身自由与政治自决的最高象征，推动了将政治共同体想象为有限、自主且享有主权的现代民族国家范式。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 7)]] 安德森在文化根源层面进一步揭示，启蒙理性主义世俗化带来了其自身的现代黑暗：随着天堂救赎体系瓦解，痛苦与死亡的宿命显得任意荒谬；启蒙理性对终极形而上学苦难报以沉默，促使人类迫切需要一种将宿命世俗地转化为连续性、将偶然转化为意义的文化载体；正是扎根于不可追忆之远古并滑向无限未来的民族范畴，填补了启蒙运动消解传统宗教信仰后留下的形而上学虚空。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 10–12)]]
 
 ---
 
@@ -236,7 +238,7 @@ updated: 2026-11-11
 
 > [!dev-timeline] 概念演变
 > - **18世纪中后期 — 启蒙哲学奠基与理性觉醒** [[Jean-Jacques Rousseau|卢梭]]发表《爱弥儿》（1762）、[[Immanuel Kant|康德]]发表《回答这个问题：什么是启蒙？》（1784），确立自然自由与公开运用理性的哲学纲领。
-> - **18世纪末 — 神权王朝解体与主权民族想象萌生** 启蒙运动消解了神圣王朝统治的形而上学合法性，促使政治合法性从超验神权向世俗主权转移，为现代有限主权政治共同体奠定了观念基座。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 7)]]
+> - **18世纪末 — 神权王朝解体与世俗连续性追寻** 启蒙运动消解了神圣王朝统治的形而上学合法性与宗教救赎，促使政治合法性向世俗主权转移，并催生将必死宿命转化为国家政治命运的民族想象。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 7)]][[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 10–12)]]
 > - **1790s–1830s — 大革命法制试验与比较教育现代主义发端** 孔多塞与塔列朗起草国民公学法案；朱利安发表《比较教育工作计划》（1817），将启蒙理性转化为准[[Observation Method|科学观察]]表与[[Perpetual Peace|永久和平]]蓝图；普鲁士聚芬草案（1819）与法国基佐法案（1833）将启蒙教育权法典化；奠定比较教育第一代的启蒙哲学地基。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 11–14, 26–29)]]；[[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 139–141)]]
 > - **1830s–1860s — 北美[[Common School Movement|公学运动]]与世俗公民体制确立** [[Horace Mann|霍勒斯·曼]]领导马萨诸塞州公学运动，将启蒙理性落地为公共税收维持、面向全体平民的非宗派世俗公立学校。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 31–34)]]
 > - **20世纪中叶 — 启蒙辩证法反思与极权主义批判** 霍克海默与阿多诺在《启蒙辩证法》（1947）中深刻反思工具理性异化，指出盲目崇拜技术算计与控制自然会导致启蒙走向神话反面。
@@ -308,7 +310,7 @@ updated: 2026-11-11
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009)]] — 系统阐明比较教育学的现代主义发端如何扎根于启蒙运动的现代性[[Paradigm|范式]]，由[[Jean-Jacques Rousseau|卢梭]]的自然自由、[[Immanuel Kant|康德]]的启蒙自主性、朱利安的准科学图表与[[Jürgen Habermas|哈贝马斯]]的公共领域重构共同熔铸。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统考察启蒙理性主义、培根[[Empiricism|经验主义]]、进步崇拜与道德[[Educational Meliorism|教育改良主义]]如何共同构成比较教育第一代（准科学与行政改良代际）的思想源泉，反思后世[[Positivism|实证主义]]对启蒙双重母题的去语境化简化与[[Historical Amnesia|历史失忆症]]（pp. 139–141, 151）。
-> - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]] — 论证启蒙运动与政治革命摧毁神权统治与世袭王朝形而上学合法性，促使现代政治共同体被构想为享有主权且有限的想象实体的历史机制（p. 7）。
+> - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]] — 论证启蒙运动与政治革命摧毁神权统治与世袭王朝形而上学合法性，促使现代政治共同体被构想为享有主权且有限的想象实体的历史机制（p. 7）；并在[[Argument_Anderson_2016_Verso_Ch02|第2章]]揭示启蒙世俗化消解天堂救赎后催生世俗连续性与民族主义存在论根源的深层机制（pp. 10–12）。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 追溯启蒙理性主义对新制度主义[[World Society Theory|世界文化理论]]的深刻塑形，并结合世界体系政治经济学批判启蒙趋同神话背后的中心-边缘剥削与依附固化。
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] — 阐释科学教育中以证据与理性说服为核心的[[Epistemic Practices|认识论实践]]，作为启蒙民主理性在课堂中的微观实现（pp. 147–148）。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 结合列奥·施特劳斯哲学警示，反思启蒙科学中立导致的现代虚无主义，倡导以实质伦理重铸[[Technological Republic|技术共和国]]。
