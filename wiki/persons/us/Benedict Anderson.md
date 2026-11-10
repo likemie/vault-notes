@@ -128,6 +128,8 @@ updated: 2026-11-11
 > - **博士导师** 乔治·卡辛（George Kahin）— 康奈尔大学东南亚研究先驱与现代印度尼西亚政治专家。
 > - **理论对话与论辩** [[Ernest Gellner|欧内斯特·格尔纳]] — 对话格尔纳“民族主义发明民族”命题，批评其将发明混同于伪造，强调共同体的根本分野在于被想象的具体风格。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 6)]]
 > - **思想溯源对话** [[Ernest Renan|欧内斯特·勒南]] — 引述勒南关于民族本质在于共享记忆与共同遗忘的双重命题，阐释集体自传叙事缝合历史断裂的机制。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. xiv)]]
+> - **时间哲学渊源** [[Walter Benjamin|瓦尔特·本雅明]] — 借用其[[Homogeneous, Empty Time|齐一而空洞的时间]]与[[Messianic Time|弥赛亚时间]]构念，奠定现代民族共时性想象的哲学基础。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 24–25)]]
+> - **文学表象分析对话** [[Erich Auerbach|埃里希·奥尔巴赫]] — 依据其图型解释学，剖析中世纪预表与神圣同时性。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, p. 24)]]
 > - **学术对话者** [[Robin Dunbar|罗宾·邓巴]]（Robin Dunbar）— [[Dunbar's Number|邓巴数]]认知上限为安德森民族想象假说提供了演化人类学微观基础。
 > - **学术论辩对手** 安东尼·史密斯（Anthony D. Smith）— 族群象征主义学者，批评其现代建构论割裂了历史族群连续性。
 > - **当代引述与重估者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中引述其“情感国家”论断。
@@ -155,6 +157,9 @@ updated: 2026-11-11
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Imagined Community]] | 理论 | 1983 年系统提出，界定民族为有限且主权的想象政治实体。 |
+> | [[Truth-Language]] | 概念 | 阐释古典宗教共同体依托神圣文字符号构建超地方普世认同。 |
+> | [[Homogeneous, Empty Time]] | 概念 | 引入本雅明构念，阐释以钟表公历度量的线性共时时间如何支撑现代民族想象。 |
+> | [[Messianic Time]] | 概念 | 剖析中世纪预表与神圣同时性，反衬现代世俗横向共时性。 |
 > | [[Modular Nationalism]] | 概念 | 提出民族属性是可跨历史情境移植与[[Assemblage\|组装]]的模块化文化人造物。 |
 > | [[Dunbar's Number]] | 概念 | 与安德森想象链接理论形成跨学科对话，提供大规模协作的神经人类学依据。 |
 > | [[Technological Republic]] | 概念 | 被卡普与扎米斯卡作为超大规模科技攻坚与公民认同维系的核心理论构件。 |

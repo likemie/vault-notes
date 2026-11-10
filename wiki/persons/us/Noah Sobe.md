@@ -15,7 +15,7 @@ person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
 born: "c. 1971"
 died: ""
-lifespan: "当代"
+lifespan: "c. 1971–至今"
 tags:
   - person/academic
   - region/us
@@ -76,7 +76,7 @@ updated: 2026-11-11
 > - **2003** 获威斯康星大学[[James Madison|麦迪逊]]分校（University of Wisconsin-Madison）课程与教学论博士学位，专攻教育史与比较教育学。
 > - **2003–至今** 任教于芝加哥洛约拉大学教育学院，讲授比较教育、全球政策研究与教育思想史课程。
 > - **2009** 在考恩与卡扎米亚斯主编的《国际比较教育手册》中发表专章，系统考察全球空间流动与移民学生的政策建构机制。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–371)]]
-> - **2012–2018** 与杰米·科瓦尔奇克（Jamie A. Kowalczyk）连续发表多篇理论论文，系统批判布雷与托马斯比较立方体的静态分类缺陷，提出关系性大写背景构念（c/Context）。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 531–532)]]
+> - **2012–2018** 与杰米·科瓦尔奇克（Jamie A. Kowalczyk）连续发表多篇理论专论，系统批判布雷与托马斯比较立方体的静态分类缺陷，提出关系性大写背景构念（c/Context）。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 531–532)]]
 > - **2017–2018** 当选并出任美国比较与国际教育学会（CIES）主席，推动学会关注全球不平等与环境危机时代的比较教育重构。
 > - **2019–2022** 借调至联合国教科文组织（UNESCO）巴黎总部，担任“教育的未来”全球倡议首席协调人，主持起草全球报告《共同重新构想我们的未来》。
 

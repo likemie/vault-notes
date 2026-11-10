@@ -283,13 +283,6 @@ updated: 2026-11-11
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Volmari_2025_CE\|Volmari et al. (2025, pp. 535, 540)]] | 丹麦 2014 年综合学校改革（Folkeskole Reform）核心官方[[Document\|文献]]与评估报告库 | 政策知识社会学与[[Bibliometric Analysis\|文献计量分析]] | 延长学校日政策在官方文献中的证据基础与合法化功能 | 改革将更长学校日作为核心支柱，主要依据丹麦评估研究所（EVA 2013）受托报告；政策将更长学校时间与差异化教学、体育运动绑定以论证[[Academic Achievement\|学业成就]]提升，但引发严重工会抵制 | 政策文献质性与计量分析 | 实证揭示延长在校时间在国家改革中常被作为政策合法化包装载体，政策承诺与一线实践生态存在显著脱节 |
-
 ---
 
 > [!evidence-grid-a] 相关研究索引

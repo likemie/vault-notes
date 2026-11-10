@@ -27184,10 +27184,8 @@
     "临床医疗, 2025": "临床医疗, 2025",
     "丹麦 (2000)": "丹麦, 2000",
     "丹麦 (2011)": "丹麦, 2011",
-    "丹麦 (2014)": "丹麦, 2014",
     "丹麦, 2000": "丹麦, 2000",
     "丹麦, 2011": "丹麦, 2011",
-    "丹麦, 2014": "丹麦, 2014",
     "为入口 (2009)": "为入口, 2009",
     "为入口, 2009": "为入口, 2009",
     "九州 (1911)": "九州, 1911",
@@ -27726,8 +27724,6 @@
     "舒茨 (1967)": "舒茨, 1967",
     "舒茨, 1962": "舒茨, 1962",
     "舒茨, 1967": "舒茨, 1967",
-    "芬兰 (2014)": "芬兰, 2014",
-    "芬兰, 2014": "芬兰, 2014",
     "苏罗威基 (2005)": "苏罗威基, 2005",
     "苏罗威基, 2005": "苏罗威基, 2005",
     "范德海登 (2011)": "范德海登, 2011",
@@ -197419,8 +197415,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Educational Research Review/Argument_DeJong_2023_ERR.md",
-        "wiki/concepts/instruction-pedagogy/Direct Instruction.md"
+        "wiki/arguments/journal-articles/Educational Research Review/Argument_DeJong_2023_ERR.md"
       ],
       "title": ""
     },
@@ -225237,21 +225232,6 @@
       ],
       "title": ""
     },
-    "丹麦, 2014": {
-      "aliases": [
-        "丹麦, 2014",
-        "丹麦 (2014)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "丹麦, 2014"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/competency-and-assessment/Academic Achievement.md"
-      ],
-      "title": ""
-    },
     "为入口, 2009": {
       "aliases": [
         "为入口, 2009",
@@ -229300,21 +229280,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/educational-philosophy/Phenomenology.md"
-      ],
-      "title": ""
-    },
-    "芬兰, 2014": {
-      "aliases": [
-        "芬兰, 2014",
-        "芬兰 (2014)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "芬兰, 2014"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/competency-and-assessment/Academic Achievement.md"
       ],
       "title": ""
     },

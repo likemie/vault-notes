@@ -3,6 +3,7 @@ citation: "Anderson, B. (2016). Imagined communities: Reflections on the origin 
 extracted_to:
   - "[[Argument_Anderson_2016_Verso]]"
   - "[[Argument_Anderson_2016_Verso_Ch01]]"
+  - "[[Argument_Anderson_2016_Verso_Ch02]]"
 processed_date: 2026-11-10
 ---
 

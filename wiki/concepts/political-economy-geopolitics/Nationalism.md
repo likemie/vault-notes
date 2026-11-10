@@ -172,6 +172,8 @@ updated: 2026-11-11
 > | [[Imagined Community]] | 理论 | 本尼迪克特·安德森系统解构现代民族主义生成机制的核心理论模型。 |
 > | [[Modular Nationalism]] | 概念 | 揭示民族主义[[Paradigm\|范式]]自18世纪末定型后跨越地理与文化土壤的可移植性。 |
 > | [[Horizontal Comradeship]] | 概念 | 阐明民族主义超越现实社会不平等、激发大众舍生赴死的情感纽带。 |
+> | [[Homogeneous, Empty Time]] | 概念 | 阐明以时钟公历度量的线性共时性如何构成现代民族认同的认知基础设施。 |
+> | [[Truth-Language]] | 概念 | 阐释古典宗教共同体依托神圣文字符号构建超地方普世认同。 |
 > | [[Cosmopolitanism]] | 概念 | 与民族主义形成鲜明规范对峙的世界主义与人类普遍认同哲学。 |
 > | [[Geopolitics]] | 概念 | 展现民族国家主权诉求与领土争端支配跨国意识形态同盟的动力机制。 |
 > | [[Benedict Anderson]] | 人物 | 著有《想象的共同体》，从文化人造物角度重构民族主义人类学定义。 |
@@ -185,4 +187,4 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]] — 系统剖析民族主义的[[Ontology|本体论]]属性，将其界定为有限且享有主权的想象政治共同体，揭示其模块化移植性与横向同志情谊（pp. 1–8）。
+> - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]]：将民族界定为有限主权的想象共同体，并在[[Argument_Anderson_2016_Verso_Ch02|第2章]]阐明其扎根于宗教与王权衰落及齐一空洞时间之文化根源。

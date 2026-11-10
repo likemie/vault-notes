@@ -206,13 +206,6 @@ updated: 2026-11-11
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Volmari_2025_CE\|Volmari et al. (2025, pp. 535, 540)]] | 丹麦 2014 年综合学校改革（Folkeskole Reform）核心官方[[Document\|文献]]与评估文献 | 知识社会学文献计量与[[Discourse Analysis\|话语分析]] | 差异化教学在政策文本中的论证功能与证据来源 | 差异化教学作为核心举措被写入改革法案，主要引用丹麦评估研究所（EVA 2013）委托报告；政策将更长学校日与差异化教学直接挂钩以论证[[Academic Achievement\|学业成就]]提升 | 政策文献质性与计量分析 | 实证展现了宏观政策如何借用差异化教学概念进行政策合法化包装，与其微观课堂教学效能存在制度区隔 |
-
 ---
 
 > [!evidence-grid-a] 相关研究索引
