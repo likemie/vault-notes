@@ -13244,6 +13244,7 @@
     "Kneese, 1996": "Kneese, 1996",
     "Knight (1930)": "Knight, 1930",
     "Knight (2011)": "Knight, 2011",
+    "Knight (2012)": "Knight, 2012",
     "Knight (2014)": "Knight, 2014",
     "Knight (2015)": "Knight, 2015",
     "Knight (2018)": "Knight, 2018",
@@ -13252,6 +13253,7 @@
     "Knight (2022b)": "Knight, 2022b",
     "Knight, 1930": "Knight, 1930",
     "Knight, 2011": "Knight, 2011",
+    "Knight, 2012": "Knight, 2012",
     "Knight, 2014": "Knight, 2014",
     "Knight, 2015": "Knight, 2015",
     "Knight, 2018": "Knight, 2018",
@@ -25003,6 +25005,8 @@
     "Vincy, 2020": "Vincy, 2020",
     "Violato & Russell (2000)": "Violato & Russell, 2000",
     "Violato & Russell, 2000": "Violato & Russell, 2000",
+    "Visible Learning MetaX (2023)": "Visible Learning MetaX, 2023",
+    "Visible Learning MetaX, 2023": "Visible Learning MetaX, 2023",
     "Visscher & Meijer (2007)": "Visscher & Meijer, 2007",
     "Visscher & Meijer, 2007": "Visscher & Meijer, 2007",
     "Visser et al. (2022)": "Visser et al., 2022",
@@ -47452,7 +47456,6 @@
         "wiki/concepts/university-industry-collaboration/Academic Engagement.md",
         "wiki/concepts/university-industry-collaboration/Boundary Spanner.md",
         "wiki/concepts/university-industry-collaboration/Concierge Service.md",
-        "wiki/concepts/university-industry-collaboration/Innovation Park.md",
         "wiki/concepts/university-industry-collaboration/Partnership Continuum.md",
         "wiki/concepts/university-industry-collaboration/Professors of Practice.md",
         "wiki/facts/us/Morrill Land-Grant Act of 1862.md",
@@ -103861,6 +103864,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/educational-technology/Study Abroad.md",
         "wiki/persons/new-zealand/John Hattie.md"
       ],
       "title": ""
@@ -122858,7 +122862,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/comparative-education/Policy Translation.md",
-        "wiki/concepts/comparative-education/Transnational Education.md",
         "wiki/concepts/educational-policy-reform/Soft Privatisation.md",
         "wiki/concepts/political-economy-geopolitics/Competition State.md"
       ],
@@ -124397,6 +124400,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md"
+      ],
+      "title": ""
+    },
+    "Knight, 2012": {
+      "aliases": [
+        "Knight, 2012",
+        "Knight (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Knight, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-technology/Study Abroad.md"
       ],
       "title": ""
     },
@@ -209531,6 +209549,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis of published research on the psychological effects of nonmaternal care on child development: Social policy implications."
+    },
+    "Visible Learning MetaX, 2023": {
+      "aliases": [
+        "Visible Learning MetaX, 2023",
+        "Visible Learning MetaX (2023)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Visible Learning MetaX, 2023"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-technology/Study Abroad.md"
+      ],
+      "title": ""
     },
     "Visscher & Meijer, 2007": {
       "aliases": [
