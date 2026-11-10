@@ -7251,6 +7251,8 @@
     "Eric Hanushek et al., 2014": "Eric Hanushek et al., 2014",
     "Eric Hanushek, 1992": "Eric Hanushek, 1992",
     "Eric Hanushek, 2005": "Eric Hanushek, 2005",
+    "Eric Hobsbawm (1977)": "Eric Hobsbawm, 1977",
+    "Eric Hobsbawm, 1977": "Eric Hobsbawm, 1977",
     "Eric Schickler (2001a)": "Eric Schickler, 2001a",
     "Eric Schickler (2001b)": "Eric Schickler, 2001b",
     "Eric Schickler, 2001": "Eric Schickler, 2001a",
@@ -11329,6 +11331,8 @@
     "Hugh Heclo, 1978": "Hugh Heclo, 1978",
     "Hugh Lauder (2007)": "Hugh Lauder, 2007",
     "Hugh Lauder, 2007": "Hugh Lauder, 2007",
+    "Hugh Seton-Watson (1977)": "Hugh Seton-Watson, 1977",
+    "Hugh Seton-Watson, 1977": "Hugh Seton-Watson, 1977",
     "Hughes & Kitson (2012)": "Hughes & Kitson, 2012",
     "Hughes & Kitson, 2012": "Hughes & Kitson, 2012",
     "Hughes & Way (2008)": "Hughes & Way, 2008",
@@ -24206,6 +24210,8 @@
     "Tollefson, 2019": "Tollefson, 2019",
     "Tom Loveless (2012)": "Tom Loveless, 2012",
     "Tom Loveless, 2012": "Tom Loveless, 2012",
+    "Tom Nairn (1977)": "Tom Nairn, 1977",
+    "Tom Nairn, 1977": "Tom Nairn, 1977",
     "Tombari & Borich (1999)": "Tombari & Borich, 1999",
     "Tombari & Borich, 1999": "Tombari & Borich, 1999",
     "Tomcho & Foels (2012)": "Tomcho & Foels, 2012",
@@ -25975,6 +25981,8 @@
     "Wineburg & McGrew, 2019": "Wineburg & McGrew, 2019",
     "Wineburg (1991)": "Wineburg, 1991",
     "Wineburg, 1991": "Wineburg, 1991",
+    "Winichakul (1994)": "Winichakul, 1994",
+    "Winichakul, 1994": "Winichakul, 1994",
     "Winner & Cooper (2000)": "Winner & Cooper, 2000",
     "Winner & Cooper, 2000": "Winner & Cooper, 2000",
     "Winston A. Reynolds (1959)": "Winston A. Reynolds, 1959",
@@ -80817,6 +80825,21 @@
       ],
       "title": ""
     },
+    "Eric Hobsbawm, 1977": {
+      "aliases": [
+        "Eric Hobsbawm, 1977",
+        "Eric Hobsbawm (1977)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Eric Hobsbawm, 1977"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md"
+      ],
+      "title": ""
+    },
     "Eric Schickler, 2001a": {
       "aliases": [
         "Eric Schickler, 2001a",
@@ -91902,6 +91925,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md",
         "wiki/arguments/journal-articles/Comparative Education/Argument_Xu_2024_CE.md",
         "wiki/theories/political-economy-geopolitics/Imagined Community.md"
       ],
@@ -110711,6 +110735,21 @@
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md",
         "wiki/concepts/comparative-education/International Schools.md"
+      ],
+      "title": ""
+    },
+    "Hugh Seton-Watson, 1977": {
+      "aliases": [
+        "Hugh Seton-Watson, 1977",
+        "Hugh Seton-Watson (1977)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hugh Seton-Watson, 1977"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md"
       ],
       "title": ""
     },
@@ -204037,6 +204076,21 @@
       ],
       "title": ""
     },
+    "Tom Nairn, 1977": {
+      "aliases": [
+        "Tom Nairn, 1977",
+        "Tom Nairn (1977)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Tom Nairn, 1977"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md"
+      ],
+      "title": ""
+    },
     "Tombari & Borich, 1999": {
       "aliases": [
         "Tombari & Borich, 1999",
@@ -216694,6 +216748,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03.md"
+      ],
+      "title": ""
+    },
+    "Winichakul, 1994": {
+      "aliases": [
+        "Winichakul, 1994",
+        "Winichakul (1994)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Winichakul, 1994"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md"
       ],
       "title": ""
     },
