@@ -5,9 +5,9 @@ aliases:
 summary: "John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 159
-related_level: 15
-related_stars: "💎💎💎💎💎"
+related_count: 160
+related_level: 16
+related_stars: "💎💎💎💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - visible-learning
@@ -173,6 +173,7 @@ related_arguments:
   - "[[Argument_Kelly_2025_ROE]]"
   - "[[Argument_Eacott_2019_IJLE]]"
   - "[[Argument_Bergeron_2017_MJE]]"
+  - "[[Argument_Sarbiewska_2019_KiW]]"
   - "[[Argument_Bates_2017_CognitionEducationTrust]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Argument_Rømer_2018_EPT]]"
@@ -183,7 +184,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-11-03
+updated: 2026-11-10
 ---
 
 > [!tip] 知识网络与子条目维护分流指引
@@ -381,6 +382,7 @@ updated: 2026-11-03
 > [!tension] 核心张力六：形式化思维技能训练 vs 教学论教化实质内容（[[Didaktik]] / [[Bildung]]）
 > - **形式化技能综合立场（蓝方）** 哈蒂将学习形式化区分为表层知识、深层思维与理论建构三层级，聚焦跨学科通用思维技能与[[Learning Strategies|学习策略]]的效应量提炼，认为教学内容主要充当策略训练的载体。[[Argument_Hattie_2005_ACER|(Hattie, 2005)]]
 > - **欧陆教学论与教化批判立场（红方）** [[Ewald Terhart|特哈特]]指出哈蒂完全抽空了德国教学论传统的教化（[[Bildung]]）实质，全书课程章节完全缺失对学科教育学意义与教学内容选择正当性的反思（“实质内容何在”），沦为形式化分科教学法的效应量罗列。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431)]]
+> - **英美与欧陆教学论对话立场（中介视角）** 萨尔比耶夫斯卡指出，可见学习的理论价值在于将长期受激进建构主义主导的英语世界教育政策，重新拉回学生、教师与教学内容三位一体的经典教学三角（Didactic Triangle），为英美经验实证与欧陆教学论（Didaktik）架设了沟通桥梁。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, pp. 119–120)]]
 >
 > [!critique] 外部学术批评导览
 > - **批评系统入口** 完整的方法论、教学论、教育哲学与政策商业化批评详见专用条目 [[Critiques of Visible Learning]]。
@@ -475,4 +477,5 @@ updated: 2026-11-03
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 思想史考证证实其[[Behaviorism|行为主义]]与技术理性的学理渊源，揭露剔除 [[Socioeconomic Status|SES]] 的阶级盲偏见与 0.40 修辞门槛导致的学段误判，并通过对覆盖 92% 样本的 5 大反馈元分析文献学细读揭示底层[[Construct|构念]]错位。
 > - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 针对 NZJES 首发论战发表批判，区隔学术领域批评者与[[Critic and Conscience of Society|社会的批评者与良知]]，揭露排除非学校因素的[[Educational Reductionism|教育还原主义]]为政策推卸阶级不平等责任提供掩护。
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 借助[[Science and Technology Studies|科学技术研究]]（STS）考察 VL 的跨国商业特许专营与脚本化实施规程，揭示客观语音[[Transcription in Qualitative Research|转录]]打破教师 80% 课堂盲区、10 至 12 周大周期[[Success Criteria|成功标准]]与表层至深层认知进阶，直击[[John Hattie|哈蒂]]自称统计测量者与实质推行强固教学模型之间的身份张力。
+> - [[Argument_Sarbiewska_2019_KiW|Sarbiewska (2019)]] — 考察澳大利亚与新西兰证据本位政策采纳史，提出可见学习通过教与学双向显性化机制，在英美经验实证与欧陆教学论（[[Didaktik]]）之间构筑沟通桥梁，重塑课堂师生互动微观过程。
 

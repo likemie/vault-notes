@@ -5,7 +5,7 @@ aliases:
 summary: "综合性教学质量概念，关注教师如何通过明确领导、清晰目标、反馈、学习导向气氛和适配学生前提来促进学习；亦在批判视角下聚焦技术清单与管理监视同关系型学习共同体建构之间的深刻张力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 100
+related_count: 101
 related_level: 10
 related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -120,10 +120,11 @@ related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Abrami_2015_RER]]"
+  - "[[Argument_Sarbiewska_2019_KiW]]"
 confidence: high
 status: active
 created: '2026-05-05'
-updated: 2026-11-07
+updated: 2026-11-10
 ---
 
 ---
@@ -356,6 +357,7 @@ updated: 2026-11-07
 > | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美中小学阅读与数学实证干预项目库 | 政策综述与[[Best Evidence Synthesis\|最佳证据综合]] | 抽象有效教学原则推广 vs 具体成套方案实施 | 单纯培训抽象有效原则极少在独立 RCT 中产生显著学业增益；而成套结构化方案（如 SFA $ES=+0.41$）产生稳健因果效应 | 确立了从抽象原则向具体实验验证方案转型的政策与实践依据 |
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | 莫桑比克、巴基斯坦、菲律宾、乌拉圭四国课堂样本 | 大规模视频盲测[[Reliability\|信度]]检验与两段式观察回归分析 | 10 项核心教学要素、[[Inter-Rater Reliability\|评分者间信度]]、两段式测量方差捕捉率 | 评分者认证通过率达 74%–100%；两段式各 15 分钟连续观察可稳定捕捉教学效能方差，同时揭示[[Critical Thinking\|批判性思维]]普遍处于得分最低洼地 | 证实有效教学四维测量架构在跨语境低资源环境下的信度汇合与测量敏感度 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]（引自 Lilley, 2022; Wescott, 2022） | 澳大利亚维多利亚州公立中小学推行 [[Victorian HITS and Literacy Toolkit\|HITS]] 区域样本 | 批判性政策质性调查与[[Document\|文献]]核查 | [[Victorian HITS and Literacy Toolkit\|HITS]] 清单实施、形式主义板书打卡、[[Teacher Professional Agency\|教师专业自主权]] | 刚性推行有效教学策略清单导致教师必须在铃响前于白板抄写[[Learning Intentions\|学习意图]]，引发普遍的[[Performativity\|表演性]]应付，教师专业自主感与同行信任度显著下降 | 揭示将有效教学降格为标准化行政打卡清单对基层教学实践与教师心态的负面挤压效应 |
+| [[Argument_Sarbiewska_2019_KiW\|Sarbiewska (2019)]]（引自 Alton-Lee, 2003; Hanushek, 1992） | 新西兰 2003 年优质教学最佳证据综合（BES）与美国实证模型 | 国家政策演化分析与方差分解 | 校内班级方差 vs 校际方差；优秀教师与低效教师年增长率 | 班级与教师层面的方差贡献高达 59%，远超学校间差异；高成效教师可使学生年学业进步达 1.5 年，低效教师仅 0.5 年 | 确立国家政策从宏观结构改革向微观课堂优质教学聚焦的实证依据 |
 
 ---
 
@@ -425,5 +427,6 @@ updated: 2026-11-07
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 确立全球基础教育有效教学四维架构（在任务时间、课堂文化、教学指导、社会情感技能），提供跨国大样本[[Classroom Observation|课堂观察]]测量基准。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 从[[Neo-Taylorism|新泰勒主义]]批判与科学哲学视角，解构将有效教学降格为标准化清单与监控工具的技术规训弊端，论证有效教学作为情境化关系型学习共同体的伦理本质。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 从[[Pragmatic Paradigm|实用主义]]认识论与教师专业生态视角，反思有效教学原则与[[Performance Pay|绩效工资]]制度的尖锐冲突，论证证据作为探究假设而非行动规程的价值权衡本质。
+> - [[Argument_Sarbiewska_2019_KiW|Sarbiewska (2019)]] — 梳理新西兰 2003 年《面向多元背景学生的优质教学》国家战略演进，借助 Alton-Lee 方差分解（校内班级方差达 59%）与 Hanushek 教师年成长增量数据，论证教育治理从宏观治理结构向微观有效教学转型的制度轨迹。
 
 

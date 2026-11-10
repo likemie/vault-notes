@@ -2991,6 +2991,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/competency-and-assessment/Academic Achievement.md",
+        "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
         "wiki/facts/new-zealand/Best Evidence Synthesis.md"
       ],
       "title": ""
@@ -44584,6 +44586,15 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md"
+      ],
+      "title": ""
+    },
+    "Hanushek, 1992": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/competency-and-assessment/Academic Achievement.md",
+        "wiki/concepts/instruction-pedagogy/Effective Teaching.md"
       ],
       "title": ""
     },
@@ -114725,7 +114736,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md",
+        "wiki/concepts/educational-leadership-administration/New Public Management.md"
       ],
       "title": ""
     },

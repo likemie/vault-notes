@@ -10139,12 +10139,14 @@
     "Hanushek & Rivkin, 2010": "Hanushek & Rivkin, 2010",
     "Hanushek & Woessmann (2010)": "Hanushek & Woessmann, 2010",
     "Hanushek & Woessmann, 2010": "Hanushek & Woessmann, 2010",
+    "Hanushek (1992)": "Hanushek, 1992",
     "Hanushek (1999)": "Hanushek, 1999",
     "Hanushek (2005)": "Hanushek, 2005",
     "Hanushek et al. (2013)": "Hanushek et al., 2013",
     "Hanushek et al. (2014)": "Hanushek et al., 2014",
     "Hanushek et al., 2013": "Hanushek et al., 2013",
     "Hanushek et al., 2014": "Hanushek et al., 2014",
+    "Hanushek, 1992": "Hanushek, 1992",
     "Hanushek, 1999": "Hanushek, 1999",
     "Hanushek, 2005": "Hanushek, 2005",
     "Hao et al. (2021)": "Hao et al., 2021",
@@ -32673,6 +32675,8 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/competency-and-assessment/Academic Achievement.md",
+        "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
         "wiki/facts/new-zealand/Best Evidence Synthesis.md"
       ],
       "title": ""
@@ -101786,6 +101790,22 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md"
+      ],
+      "title": ""
+    },
+    "Hanushek, 1992": {
+      "aliases": [
+        "Hanushek, 1992",
+        "Hanushek (1992)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hanushek, 1992"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/competency-and-assessment/Academic Achievement.md",
+        "wiki/concepts/instruction-pedagogy/Effective Teaching.md"
       ],
       "title": ""
     },
@@ -217600,7 +217620,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md",
+        "wiki/concepts/educational-leadership-administration/New Public Management.md"
       ],
       "title": ""
     },

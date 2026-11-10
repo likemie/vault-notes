@@ -7,7 +7,7 @@ aliases:
 summary: "以企业管理与市场竞争逻辑重塑公共部门的治理范式，强调绩效指标、产出控制、性价比核算、供给竞争与服务外包；经合组织等借“良治”话语将教育治理从目的辩论置换为投入产出效率与比较绩效远处掌舵，在带来微观成本控制的同时导致公共部门去技能化与创新治理的青蛙视角。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 78
+related_count: 79
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -102,10 +102,11 @@ related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Verger_2019_Discourse]]"
   - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Sarbiewska_2019_KiW]]"
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 
 ---
@@ -257,6 +258,7 @@ updated: 2026-11-09
 > [!dev-timeline] 概念演变
 > - **1950s–1970s — 理论萌芽期** [[Human Capital Theory\|人力资本理论]]与公共选择学派将知识定义为经济生产要素，确立了[[Knowledge-Based Economization\|知识经济化]]与行政自利性假设。[[Argument_Amos_2022_Springer\|(Amos, 2022, p. 56)]]
 > - **1980s–1990s — 全球扩散、英美 [[Early Steps|Next Steps]] 与欧陆间接操纵的分野** 英美等国率先开启去管制化与外包改革；英国 1988 年启动“下一步行动”（Next Steps）将中央部门职能剥离为数十个执行代理机构；英格兰 1984 年成立[[Committee for the Accreditation of Teacher Education|教师教育认证委员会]]（CATE），开创依据督导证据进行资质核准的显性[[Output-Oriented Governance|循证治理]]先河。与此同时，欧洲大陆（如荷兰 1985 年 HOAK 白皮书）探索依托法团网络协商与一揽子总额拨款的“间接[[Steering at a Distance|远距离操纵]]”，与英美激进的官僚抨击与准市场化形成制度对照。[[Argument_Helgetun_2022_JEdPolicy|(Helgetun & Menter, 2022, p. 90)]]; [[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 154–155)]]
+> - **1989–1999 — 新西兰明日学校改革实践与结构主义问责受挫** 新西兰推行《明日学校》（[[Tomorrow's Schools Reforms|Tomorrow's Schools]]）改革，以激进的市场化分权、家长校董会与中央督察[[School Inspection|教育审查办公室]]（Education Review Office, ERO）问责为支柱；十年后的国家审查（Wylie, 1999）证实，激进的治理重构并未带来学生学业成就与教育公平的实质改善，促使政策重心在 2000 年代转向微观课堂教学质量。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, pp. 115–117)]]
 > - **1995 — [[OECD|经合组织]]《转型中的治理》确立“良治”与比较绩效远处掌舵** 经合组织发布《转型中的治理：经合组织国家的公共管理改革》（OECD, 1995），正式将新公共管理机制包装为普遍适用的“良治”框架，确立以跨国比较绩效测量替代传统投入管控的远处掌舵模式。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 > - **2000s–2010s — 审计文化与[[Governing by Numbers\|数字治理]]高潮** 大规模测验（如 [[PISA]]）与大学[[Research Excellence Framework\|研究卓越框架]]（REF）确立，绩效评估与经费拨款紧密挂钩，形成制度化马太效应。[[Argument_Schulze-Cleven_2017_HE\|(Schulze-Cleven et al., 2017, pp. 801–802)]]
 > - **2010s 至今 — 证据异化与后 NPM 反思** 治理修辞演化为以科学证据与[[Randomised Controlled Trials\|随机对照试验]]（RCT）为包装的[[Rationalized Myth\|合理化神话]]；同时，创新政策与公共管理学界深刻反思 NPM 导致的组织[[Cognitive Deskilling|去技能化]]与“青蛙视角”，提出重塑[[Public Dynamic Capabilities|公共部门动态能力]]与[[Lead-and-Learn Paradigm|引领与学习范式]]以替代被动的 NPM 治理模式。[[Argument_Helgetun_2022_JEdPolicy|(Helgetun & Menter, 2022, pp. 90–93)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 791–798)]]
@@ -319,6 +321,7 @@ updated: 2026-11-09
 > | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | 英美跨国[[Policy Borrowing\|政策借用]]与福利改革筛选 | 政策文本分析与决策官员[[In-depth Interview\|深度访谈]] | 新西兰 NPM 模式（市场化契约与经办分离）vs 美国循证实验模式 | 新西兰推行经办分离与财务审计，但因缺乏个体层面的失业转化因果实证数据，在英国官方筛选中仅被列为“有限参考”，最终全面让位于美国基于[[Random Assignment\|随机分配]]实验的循证模式 | 揭示 NPM 传统的运营效率与财务审计指标在因果干预评估刚需下的解释局限 |
 > | [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017)]] | 英国与德国高等教育科研卓越框架（REF） | 跨国高等教育制度比较与拨款数据追踪 | 科研[[Performance Indicators\|绩效指标]]（KPIs）与公共科研经费分配比例 | 绩效指标导向的拨款导致资源高度集中化，全英前 20% 的精英[[Research Universities\|研究型大学]]捕获了超过 75% 的公共研究拨款，强化了机构间马太效应 | 针对英德高教体制，揭示量化绩效拨款对学术层级分化的制度固化效应 |
 > | [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] | 英格兰教师教育改革 35 年制度变迁 | 政策历程追踪与供给机构份额统计 | 教师准入从大学主导向校本（SCITT / School Direct）市场化转移 | 大学传统[[Normal School\|师范教育]]供给份额遭系统性压缩，市场化准入与国家核心内容框架远程监控并行，循证实践呈现政策辩护工具化倾向 | 确立 NPM 分权外包表象下国家通过资质规程实施远程集权控制的微观机制 |
+| [[Argument_Sarbiewska_2019_KiW\|Sarbiewska (2019)]]（引自 Wylie, 1999） | 新西兰 1989 年《明日学校》基础教育十年改革追踪 | 国家政策演进追踪与实证审查 | 激进市场化分权、家长校董会治理、[[Education Review Office\|ERO]] 督导 vs 学生学业与公平 | 激进结构性分权与竞争机制未能带来学生学业成就的普遍提升，亦未能改善原住民与弱势群体教育公平；十年后促使国家政策由结构改革转向微观课堂教学有效性 | 证实单纯依赖新公共管理组织重构与外部问责无法自发转化为课堂教学质量与育人成效 |
 
 ---
 
@@ -337,4 +340,5 @@ updated: 2026-11-09
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 447–448)]] — 结合[[OECD|经合组织]]1995年报告剖析新公共管理如何借“良治”修辞将教育治理从目的辩论置换为比较[[Performance Indicators|绩效指标]]与远处掌舵。
 > - [[Argument_Stone_2020_PolSoc|Stone et al. (2020, p. 8)]] — 揭示英美跨国管理咨询巨头（麦肯锡、普华永道）如何将新公共管理技术包装为全球通用商品，充当跨国治理与公共教育改革商业推销中介。
 > - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 运用[[Bacchi's WPR Approach|WPR 方法]]揭示芬兰教育出口政策中新公共管理的商业化演进，剖析将公立教育封装为模块化、可规模化产品的政策问题表征及其对福利国家制度基础的消解。
+> - [[Argument_Sarbiewska_2019_KiW|Sarbiewska (2019)]] — 系统考掘新西兰 1989 年《明日学校》新公共管理改革实践及其十年审查，揭示激进分权与外部问责在提升学业成就与公平方面的制度受挫，论证国家治理重心向课堂教学三角回归的转型历程。
 
