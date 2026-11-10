@@ -9,10 +9,10 @@ aliases:
 summary: "罗伯逊、博纳尔与戴尔开创的教育全球化批判性空间治理分析框架，通过治理标度、治理实体与治理活动三维矩阵，解构全球化与跨国经贸规则下国家教育主权的再领土化与公共性重组。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 39
-theory_related_level: 3
-theory_related_stars: "💎"
-theory_related_color: "#ede9fe"
+theory_related_count: 43
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/governance
   - comparative-education
@@ -31,6 +31,7 @@ related_concepts:
   - "[[International Branch Campus]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Competitiveness]]"
+  - "[[Transnational Education]]"
   - "[[Space of Flows]]"
   - "[[Test Production]]"
   - "[[Research Question]]"
@@ -39,6 +40,8 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Grandes Ecoles]]"
+  - "[[Theoretical Standpoint]]"
+  - "[[Screening Off]]"
   - "[[Public-Private Partnership]]"
 related_theories:
   - "[[Educational Governance Framework]]"
@@ -60,6 +63,7 @@ related_facts:
   - "[[GEMS Education]]"
   - "[[Nord Anglia Education]]"
   - "[[PISA]]"
+  - "[[Regulations on Chinese-Foreign Cooperation in Running Schools]]"
   - "[[OECD]]"
   - "[[World Bank]]"
 related_arguments:
@@ -69,7 +73,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-30
+updated: 2026-11-10
 ---
 
 ---
@@ -120,7 +124,7 @@ updated: 2026-10-30
 > [!theory-proposition] 命题二｜多标度治理体现为国家策略性利用超国家规则的主动再领土化
 > **解释** 多标度治理框架明确拒绝简单的国家退场论或主权终结论。民族国家在新自由主义全球化与[[Knowledge-Based Economy|知识经济]]竞争压力下，为提升本国经济与科技的跨国[[Competitiveness|竞争力]]，主动申请加入 WTO 等超国家机构并签署多边协定。国家通过多标度机制将原本封闭的内部体系推向全球，利用外部国际标准倒逼国内公共部门改革，实现了国家统治逻辑与资本积累目标在新空间标度上的战略性再领土化。[[Argument_Arnove_2009_WorldSystems|(Robertson et al., 2002; Arnove, 2009, p. 111)]]
 >
-> **应用实例** 中国在 2001 年加入世界贸易组织时，教育服务贸易被列入具体承诺清单。中央政府主动利用世贸多边规则出台《中外合作办学条例》，积极引进世界一流大学优质科研教学资源，同时将境外资本严格限制在非义务教育阶段，使多标度规则直接服务于国家科技自立与高等教育现代化战略。
+> **应用实例** 中国在 2001 年加入世界贸易组织时，教育服务贸易被列入具体承诺清单。中央政府主动利用世贸多边规则出台《[[Regulations on Chinese-Foreign Cooperation in Running Schools|中外合作办学条例]]》，积极引进世界一流大学优质科研教学资源，同时将境外资本严格限制在非义务教育阶段，使多标度规则直接服务于国家科技自立与高等教育现代化战略。
 
 > [!theory-proposition] 命题三｜超国家多标度规则加剧了中心大国与边缘依附小国之间的非对称自主权鸿沟
 > **解释** 尽管多标度治理机制在名义上是由平等成员国签署的国际多边条约，但其在现实运作中深度固化了世界体系的中心-边缘等级分工。具有庞大经济体量、成熟产业结构与强大国内市场的中心大国（如美、英、法、德或新兴大国中国），拥有充足的战略政策工具与谈判回旋余地，能够趋利避害；体量弱小、财政脆弱且缺乏出口可贸易服务的边缘国家，在超国家多标度规则面前容易丧失抵御跨国资本冲击与宏观调控本土教育体系的能力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
@@ -128,7 +132,7 @@ updated: 2026-10-30
 > **应用实例** 牙买加等加勒比小国签署 GATS 协定后，由于本国缺乏具有国际竞争力的教育服务可以输出，反而导致国内高等教育与职业培训市场被跨国营利机构迅速占领；受制于 WTO 国民待遇与市场准入条款，牙买加政府无法通过定向财政补贴优先扶持本国脆弱的公立大学，深陷教育主权外流与公共预算恶化的双重困境。
 
 > [!theory-proposition] 命题四｜跨国测评网络构建超越国家容器的后民族国家多标度治理空间
-> **解释** 大规模跨国教育评估（如 PISA）展现出后民族国家背景下的多标度治理形态。超国家组织（[[OECD]]）、跨国商业测试咨询机构、主权国家教育部与次国家地方学区在流动且相互交织的跨国网络中共同行使治理权力。这种多标度网络打破了传统将民族国家视为孤立容器的分析预设，通过跨国数据指标、政策咨询合同与本土战略借用，在[[Space of Flows|流动空间]]中重新编织了全球教育政策的权力关系。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 438–439, 480)]]
+> **解释** 大规模[[Transnational Education|跨国教育]]评估（如 PISA）展现出后民族国家背景下的多标度治理形态。超国家组织（[[OECD]]）、跨国商业测试咨询机构、主权国家教育部与次国家地方学区在流动且相互交织的跨国网络中共同行使治理权力。这种多标度网络打破了传统将民族国家视为孤立容器的分析预设，通过跨国数据指标、政策咨询合同与本土战略借用，在[[Space of Flows|流动空间]]中重新编织了全球教育政策的权力关系。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 438–439, 480)]]
 >
 > **应用实例** 在 PISA 测评生态中，经合组织制定全球评价框架并发布国家排行榜，皮尔逊（Pearson）等跨国商业集团承接[[Test Production|试题研发]]与数字平台运营，各参测国中央教育部以此制定国家课程战略，地方学区与学校则依据数据反馈调整日常教学与资源分配，呈现出多标度实体协同运作的治理网络。
 
@@ -208,11 +212,11 @@ updated: 2026-10-30
 > > 围绕当代比较教育应当延续主权国家间的双边借用传统，还是转向多标量空间中的网络化政策转移展开探讨。
 > >
 > > - **传统双边借用论** 关注主权国家点对点的制度移植与本土调适（如巴西对[[Grandes Ecoles|法国大学校]]的模仿）。
-> > - **多标度网络转移论** 论证当代跨国教育财团、咨询智库与超国家机构打破了双边主权中介，政策方案以商业包销形式在多标度空间中自由流转，迫使比较教育重构理论透镜。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–344)]]
+> > - **多标度网络转移论** 论证当代跨国教育财团、咨询智库与超国家机构打破了双边主权中介，政策方案以商业包销形式在多标度空间中自由流转，迫使比较教育重构[[Theoretical Standpoint|理论透镜]]。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–344)]]
 
 > [!critique] 批评索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 强调在运用多标度治理框架时必须引入世界体系政治经济学视角，指出必须警惕将三维矩阵退化为静态技术分类，唯有结合中心-边缘的非对称权力结构，方能看透多标度规制的剥削本质。
-> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 批判方法论民族主义将民族国家预设为先验比较容器，指出其遮蔽了超国家组织、跨国商业机构与地方学区在流动空间中编织的多标度治理现实。（p. 480）
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 批判方法论民族主义将民族国家预设为先验比较容器，指出其[[Screening Off|遮蔽]]了超国家组织、跨国商业机构与地方学区在流动空间中编织的多标度治理现实。（p. 480）
 
 ---
 

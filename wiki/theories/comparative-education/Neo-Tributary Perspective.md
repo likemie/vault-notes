@@ -8,10 +8,10 @@ aliases:
 summary: "借鉴中国古代朝贡体系历史逻辑解释当代权力投射与跨国高等教育拓展的理论分析框架，聚焦中国例外论、经贸与外交交织、文化认同探索及形象塑造四大支柱，揭示国家权力借由高教网络在周边区域构建不对称合作秩序的动力机制与内在张力"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 38
-theory_related_level: 3
-theory_related_stars: "💎"
-theory_related_color: "#ede9fe"
+theory_related_count: 41
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/comparative-education
   - higher-education
@@ -19,6 +19,7 @@ tags:
   - international-relations
   - china
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Paradigm]]"
   - "[[Soft Power]]"
   - "[[Geopolitics of Higher Education]]"
@@ -28,9 +29,11 @@ related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Public Diplomacy]]"
   - "[[Chinese Exceptionalism]]"
+  - "[[Sino-Foreign Cooperation in Running Schools]]"
   - "[[Cultural Recognition]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Innovation Hub]]"
+  - "[[Study Abroad]]"
   - "[[South-South Cooperation]]"
   - "[[Research Question]]"
   - "[[International Branch Campus]]"
@@ -65,13 +68,13 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-30
+updated: 2026-11-10
 ---
 
 ---
 
 > [!theory-position] 理论定位
-> - **解释对象** 当代中国对外战略理念、跨国高等教育拓展模式，以及中国与周边国家在教育、科技、经贸领域的非对称互动结构。
+> - **解释对象** 当代中国对外战略理念、[[Transnational Education|跨国高等教育]]拓展模式，以及中国与周边国家在教育、科技、经贸领域的非对称互动结构。
 > - **理论问题** 回应西方主流[[Wight's Three Traditions of International Theory|国际关系理论]]中中心—外围二元对立[[Paradigm|范式]]与单一[[Soft Power|软实力]]框架在解释中国高教输出与地缘辐射时的概念局限。
 > - **理论类型** 融合中国历史秩序经验与国际关系政治经济学的解释性理论框架。
 > - **知识位置** 位于比较教育学、[[Geopolitics of Higher Education|高等教育地缘政治]]学与中国对外战略研究的[[Comparative Education as a Cross-Sectional Area|交叉领域]]，与[[Tianxia Heuristic|天下启发式]]及[[Knowledge Diplomacy|知识外交]]构成互补性对话。
@@ -89,7 +92,7 @@ updated: 2026-10-30
 
 > [!dev-timeline] 理论版本与贡献
 > - **2017–2018 年 Pan 与 Lo 奠定高等教育新朝贡框架** 系统构建由中国例外论、经贸与外交交织、语言文化输出、国际形象塑造组成的四维分析架构，确立大学作为知识创新策源地与地缘战略支点的复合功能。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1044–1046)]]
-> - **2023 年 Si 与 Lim 开展中外合作办学空间实证** 运用新朝贡视角检验中国地方省份中外合作办学项目的审批与布局，证实朝贡地缘心智对跨国教育资源配置的驱动作用。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1046)]]
+> - **2023 年 Si 与 Lim 开展[[Sino-Foreign Cooperation in Running Schools|中外合作办学]]空间实证** 运用新朝贡视角检验中国地方省份中外合作办学项目的审批与布局，证实朝贡地缘心智对跨国教育资源配置的驱动作用。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1046)]]
 > - **2025 年 Zhu 与 Yang 开展实证修正与[[Paradigm|范式]]整合** 以中柬高教项目为案例，实证否定原模型中源自费正清学说的文化同化预设，确立[[Cultural Recognition|文化认同探索]]命题；揭示高教实践过度依赖短期经贸外交刺激而实质学术合作不足的现实困境；提炼出[[Pragmatic Paradigm|实用主义]]中国例外论，主张破除单一华夏中心主义，将新朝贡视角与[[Tianxia Heuristic|天下启发式]]及[[Knowledge Diplomacy|知识外交]]相互整合。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1046, 1050, 1054)]]
 
 ---
@@ -102,7 +105,7 @@ updated: 2026-10-30
 > | 经贸与外交交织 | 结构动力 | 将首脑外交、周边睦邻政策与对外经贸投资紧密绑定，以教育奖学金与培训项目作为外交红利。 |
 > | [[Cultural Recognition\|文化认同探索]] | 传播机制 | 替代传统文化同化预设，通过课程改革与当代国情阐释，寻求发展中国家对中国治理模式与社会文化的客观认同。 |
 > | 形象塑造与合法性维护 | 国际策略 | 运用学术交流、人道援助与优惠待遇展示大国礼遇与友善形象，对冲外部对其权力扩张的疑虑。 |
-> | 高教核心纽带 | 制度枢纽 | 高等教育系统同时承担学术卓越展示、经贸人员赋能、留学生培育与国家叙事传播的多重职能。 |
+> | 高教核心纽带 | 制度枢纽 | 高等教育系统同时承担学术卓越展示、经贸人员赋能、[[Study Abroad\|留学]]生培育与国家叙事传播的多重职能。 |
 
 ---
 

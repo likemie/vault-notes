@@ -12,9 +12,9 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 36
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: government-agency
 headquarters: "北京（中国）"
@@ -28,35 +28,48 @@ tags:
   - theme/curriculum-reform
   - theme/higher-education
 related_concepts:
-  - "[[Quality Education]]"
-  - "[[International Branch Campus]]"
-  - "[[International Education Hubs]]"
-  - "[[Cooperative Education]]"
-  - "[[Transnational Education]]"
-  - "[[One Country, Two Systems]]"
+  - "[[Sino-Foreign Cooperation in Running Schools]]"
   - "[[Research Universities]]"
-  - "[[State Educational Sovereignty]]"
-related_theories: []
+  - "[[Quality Education]]"
+  - "[[International Education]]"
+  - "[[School Inspection]]"
+  - "[[Study Abroad]]"
+  - "[[Grandes Ecoles]]"
+  - "[[International Branch Campus]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[International Education Hubs]]"
+  - "[[Transnational Education]]"
+  - "[[Academic Freedom]]"
+  - "[[Cooperative Education]]"
+  - "[[One Country, Two Systems]]"
+  - "[[Education Going Global]]"
+  - "[[Theories of Policy Change]]"
+related_theories:
+  - "[[Systems of Innovation]]"
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[China Basic Education Curriculum Reform]]"
-  - "[[Belt and Road Initiative]]"
-  - "[[Belt and Road Education Action Plan]]"
-  - "[[Forum on China-Africa Cooperation]]"
-  - "[[China Scholarship Council]]"
-  - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
-  - "[[Hainan International Education Innovation Pilot Zone]]"
-  - "[[Double First-Class Initiative]]"
   - "[[Project 211]]"
   - "[[Project 985]]"
+  - "[[China Basic Education Curriculum Reform]]"
+  - "[[Regulations on Chinese-Foreign Cooperation in Running Schools]]"
+  - "[[Double First-Class Initiative]]"
+  - "[[Gaokao]]"
+  - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
+  - "[[Belt and Road Education Action Plan]]"
+  - "[[Hainan International Education Innovation Pilot Zone]]"
+  - "[[Institute of Education Sciences]]"
+  - "[[China Scholarship Council]]"
+  - "[[Belt and Road Initiative]]"
+  - "[[National Education]]"
+  - "[[Forum on China-Africa Cooperation]]"
 related_arguments:
-  - "[[Argument_Qu_2024_IJED]]"
   - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_Qu_2024_IJED]]"
   - "[[Argument_Ryan_2010_ChineseLearner]]"
-  - "[[Argument_King_2020_ECNUROE]]"
   - "[[Argument_Cai_Gao_Liu_2025_HE]]"
+  - "[[Argument_King_2020_ECNUROE]]"
 confidence: high
 status: active
 created: 2026-10-26
@@ -66,7 +79,7 @@ updated: 2026-11-10
 ---
 
 > [!claim] 核心定位
-> 中华人民共和国教育部（Ministry of Education of the People's Republic of China, MOE）是中华人民共和国国务院主管全国教育事业并统筹语言文字工作的中央行政部门。在教育对外开放与跨境办学领域，教育部行使中外合作办学牌照准入审批、办学评估监管与国家涉外办学特许授权职能，通过规划纲要、部省联合行动方案与规章制度确立国家教育战略方向与跨境办学法定实施框架。[[Argument_Woo_2023_HEP|(Woo, 2023)]]; [[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2, 7)]]
+> 中华人民共和国教育部（Ministry of Education of the People's Republic of China, MOE）是中华人民共和国国务院主管全国教育事业并统筹语言文字工作的中央行政部门。在教育对外开放与跨境办学领域，教育部行使[[Sino-Foreign Cooperation in Running Schools|中外合作办学]]牌照准入审批、办学评估监管与国家涉外办学特许授权职能，通过规划纲要、部省联合行动方案与规章制度确立国家教育战略方向与跨境办学法定实施框架。[[Argument_Woo_2023_HEP|(Woo, 2023)]]; [[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2, 7)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 沿革背景** 1949 年 10 月中央人民政府设立教育部；1985 年撤销教育部改设国家教育委员会以增强宏观跨部门综合统筹权能；1998 年国务院机构改革恢复设立教育部，总部常设于北京西单大木仓胡同 35 号。
@@ -86,30 +99,30 @@ updated: 2026-11-10
 >
 > - **1978–2012** **体制转轨、科教兴国战略与九年义务教育普及**
 >
->   推进中央与地方分级管理体制改革，实施“211 工程”与“985 工程”重点建设战略，启动新世纪基础教育课程改革，实现九年免费义务教育全覆盖。[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010)]]
+>   推进中央与地方分级管理体制改革，实施“[[Project 211|211 工程]]”与“[[Project 985|985 工程]]”重点建设战略，启动新世纪基础教育课程改革，实现九年免费义务教育全覆盖。[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010)]]
 >
 >   - **1985** 中共中央发布《关于教育体制改革的决定》，改组成立国家教育委员会，下放基础教育办学与管理权限至地方政府。
->   - **1995 / 1998** 先后启动建设高水平大学的“211 工程”与“985 工程”，集中优势资源打造国家研究型大学梯队。
+>   - **1995 / 1998** 先后启动建设高水平大学的“211 工程”与“985 工程”，集中优势资源打造国家[[Research Universities|研究型大学]]梯队。
 >   - **1998** 恢复教育部名称，强化国务院主管教育事业职能。
->   - **2001** 印发《基础教育课程改革纲要（试行）》，全面推行素质教育，启动三级课程管理体制改革。[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010)]]
->   - **2003** 国务院颁布《中华人民共和国中外合作办学条例》，教育部随后印发实施办法，正式确立中外合作办学准入评估规程。
+>   - **2001** 印发《[[China Basic Education Curriculum Reform|基础教育课程改革纲要]]（试行）》，全面推行[[Quality Education|素质教育]]，启动三级课程管理体制改革。[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010)]]
+>   - **2003** 国务院颁布《[[Regulations on Chinese-Foreign Cooperation in Running Schools|中华人民共和国中外合作办学条例]]》，教育部随后印发实施办法，正式确立中外合作办学准入评估规程。
 >
-> - **2012–至今** **教育强国战略、“双一流”建设与制度型对外开放**
+> - **2012–至今** **教育强国战略、“[[Double First-Class Initiative|双一流]]”建设与制度型对外开放**
 >
->   聚焦高质量教育体系建设，统筹推进“双一流”建设动态监测与分类评价，深化高考综合改革；并在海南自贸港、粤港澳大湾区设立国家教育开放试验区，探索境外高校独立办学等突破性体制试点。[[Argument_Woo_2023_HEP|(Woo, 2023)]]; [[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2, 7, 10)]]
+>   聚焦高质量教育体系建设，统筹推进“双一流”建设动态监测与分类评价，深化[[Gaokao|高考]]综合改革；并在海南自贸港、[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]设立国家教育开放试验区，探索境外高校独立办学等突破性体制试点。[[Argument_Woo_2023_HEP|(Woo, 2023)]]; [[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2, 7, 10)]]
 >
->   - **2016** 印发《推进共建“一带一路”教育行动》，系统布局教育互联互通与人才联合培养丝路合作网络。[[Argument_Woo_2023_HEP|(Woo, 2023)]]
+>   - **2016** 印发《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》，系统布局教育互联互通与人才联合培养丝路合作网络。[[Argument_Woo_2023_HEP|(Woo, 2023)]]
 >   - **2017** 联合财政部、国家发改委印发《统筹推进世界一流大学和一流学科建设实施办法（暂行）》，全面启动首轮“双一流”建设。
->   - **2019** 联合广东省人民政府推进粤港澳大湾区国际教育示范区建设，特许批准香港高水平大学在大湾区内地设立合作大学（如香港中文大学（深圳）、香港科技大学（广州））。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 6–7)]]; [[Argument_Cai_Gao_Liu_2025_HE|(Cai et al., 2025, pp. 7–8)]]
->   - **2023** 联合海南省人民政府发布《境外高等教育机构在海南自由贸易港办学暂行规定》，允许境外理工农医类顶尖高校在陵水黎安国际教育创新试验区独立全资办学，打破三十年来必须由中方高校对等合作办学的法定刚性门槛。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2, 7, 10)]]
+>   - **2019** 联合广东省人民政府推进粤港澳大湾区[[International Education|国际教育]]示范区建设，特许批准香港高水平大学在大湾区内地设立合作大学（如香港中文大学（深圳）、香港科技大学（广州））。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 6–7)]]; [[Argument_Cai_Gao_Liu_2025_HE|(Cai et al., 2025, pp. 7–8)]]
+>   - **2023** 联合海南省人民政府发布《境外高等教育机构在海南自由贸易港办学暂行规定》，允许境外理工农医类顶尖高校在[[Hainan International Education Innovation Pilot Zone|陵水黎安国际教育创新试验区]]独立全资办学，打破三十年来必须由中方高校对等合作办学的法定刚性门槛。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2, 7, 10)]]
 
 ---
 
 > [!actor-grid] 组织治理架构
 > - **决策中枢与领导架构** 实行党组领导下的部长负责制，设部长 1 名、副部长若干名，设立综合办公厅、政策法规司、发展规划司、财务司等综合参谋机构。
 > - **内设业务司局** 按学段与领域设立基础教育司、职业教育与成人教育司、高等教育司、学位管理与研究生教育司（国务院学位委员会办公室）、教师工作司以及国际合作与交流司（港澳台办公室）。
-> - **直属机构与专门委员会** 下设教育部教育质量评估中心、国家教育考试院、中国教育科学研究院、国家教育行政学院、国家留学基金管理委员会等专业支撑事业单位。
-> - **跨部门与部省协同网络** 依托国务院教育督导委员会机制统筹跨部委督导执法；与各省、自治区、直辖市人民政府签署省部共建协议，协同推进高校与重大产业园区布局。
+> - **直属机构与专门委员会** 下设教育部教育质量评估中心、国家教育考试院、中国[[Institute of Education Sciences|教育科学研究院]]、国家教育行政学院、[[China Scholarship Council|国家留学基金管理委员会]]等专业支撑事业单位。
+> - **跨部门与部省协同网络** 依托国务院[[School Inspection|教育督导]]委员会机制统筹跨部委督导执法；与各省、自治区、直辖市人民政府签署省部共建协议，协同推进高校与重大产业园区布局。
 
 > [!pathways] 业务运行机制
 > - **战略规划与标准制定** 牵头编制教育事业发展五年规划纲要，研制国家本科专业类教学质量国家标准、义务教育课程方案与各学科学业质量标准。
@@ -120,11 +133,11 @@ updated: 2026-11-10
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **国家课程与办学规程** 研制发布《义务教育课程方案和各学科课程标准》、《普通高中课程方案》、《中外合作办学条例实施办法》及《境外高等教育机构在海南自由贸易港办学暂行规定》。[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010)]]; [[Argument_Qu_2024_IJED|(Qu & Dai, 2024, p. 7)]]
-> - **数据库、监测平台与公共认证** 维护全国中小学生学籍信息管理系统、中国高等教育学生信息网（学信网）、教育部涉外监管信息网以及中国留学网学历学位认证系统。
+> - **数据库、监测平台与公共认证** 维护全国中小学生学籍信息管理系统、中国高等教育学生信息网（学信网）、教育部涉外监管信息网以及中国[[Study Abroad|留学]]网学历学位认证系统。
 > - **旗舰国家工程与示范基地** 主导实施“双一流”建设工程、基础教育课程改革、粤港澳大湾区高等教育集群发展计划以及海南陵水黎安国际教育创新试验区先行先试工程。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2, 7)]]
-> - **多边机制与旗舰对外行动** 主导印发《推进共建“一带一路”教育行动》，举办中外大学校长论坛、中国国际教育年会与国际产学研用合作会议。[[Argument_Woo_2023_HEP|(Woo, 2023)]]
+> - **多边机制与旗舰对外行动** 主导印发《推进共建“[[Belt and Road Initiative|一带一路]]”教育行动》，举办中外[[Grandes Ecoles|大学校]]长论坛、中国国际教育年会与国际产学研用合作会议。[[Argument_Woo_2023_HEP|(Woo, 2023)]]
 
-> [!citation-card] 海南自贸港境外办学暂行规定
+> [!citation-card] 海南自贸港[[International Branch Campus|境外办学]]暂行规定
 > 境外高等教育机构在海南自由贸易港办学，应当遵守中国法律，符合国家教育发展规划，有利于海南自由贸易港建设，保证教育质量。境外高水平大学、职业院校在海南自由贸易港设立办学机构，开展理工农医类本科及以上高等教育，可以依法自主开展教育教学活动，自主招收学生。
 >
 > *Regulations on Overseas Higher Education Institutions Operating in Hainan Free Trade Port (promulgated jointly by MOE and Hainan Provincial Government, March 2023).* [[Argument_Qu_2024_IJED|(Qu & Dai, 2024, p. 7)]]
@@ -132,14 +145,14 @@ updated: 2026-11-10
 ---
 
 > [!indicators] 影响力维度与指标
-> - **全国教育体量与规模覆盖** 统筹规制覆盖全国各级各类学校 51.8 万余所，管理在校学生近 3 亿人，专业专任教师 1,800 余万人，维持着全球最大规模的国家国民教育体系。
-> - **高等教育普及化推进程度** 推动中国高等教育毛入学率自 1990 年的 3% 攀升至 2020 年的 58%，进入高等教育普及化阶段，成为支撑国家知识经济与国际教育枢纽建设的人力资源基座。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 3–4)]]
-> - **跨境教育与涉外办学矩阵** 截至 2023 年，在全国特许批准依法设立的中外合作办学机构与项目超过 2,400 个，在校生超过 60 万人，并在海南陵水设立独立办学校区试点。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2, 7)]]
+> - **全国教育体量与规模覆盖** 统筹规制覆盖全国各级各类学校 51.8 万余所，管理在校学生近 3 亿人，专业专任教师 1,800 余万人，维持着全球最大规模的国家[[National Education|国民教育]]体系。
+> - **高等教育普及化推进程度** 推动中国高等教育毛入学率自 1990 年的 3% 攀升至 2020 年的 58%，进入高等教育普及化阶段，成为支撑国家[[Knowledge-Based Economy|知识经济]]与[[International Education Hubs|国际教育枢纽]]建设的人力资源基座。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 3–4)]]
+> - **[[Transnational Education|跨境教育]]与涉外办学矩阵** 截至 2023 年，在全国特许批准依法设立的中外合作办学机构与项目超过 2,400 个，在校生超过 60 万人，并在海南陵水设立独立办学校区试点。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2, 7)]]
 
 > [!finding-cards] 关键成效与辐射影响
 > - **建立全民免费义务教育与普及化高等教育基石** 彻底消除绝对贫困家庭失学辍学现象，建构起结构完整的学士、硕士、博士三级学位授予与专业学科分类标准体系。
 > - **重塑跨境高等教育合作治理模式** 统筹推进“引进来”与“走出去”战略协调发展，一方面依托“双一流”高校在粤港澳大湾区设立高水平合作大学，另一方面特许海南自贸港推行境外大学独立全资办学，为大陆建设区域与跨国高等教育枢纽奠定法定制度基础。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2, 7, 10)]]
-> - **支撑国家区域发展战略与创新系统布局** 推动优质高等教育与前沿科研资源向粤港澳大湾区、长三角一体化示范区、京津冀协同发展区以及成渝双城经济圈密集集聚，实现教育链、人才链与创新链的有机衔接。
+> - **支撑国家区域发展战略与[[Systems of Innovation|创新系统]]布局** 推动优质高等教育与前沿科研资源向粤港澳大湾区、长三角一体化示范区、京津冀协同发展区以及成渝双城经济圈密集集聚，实现教育链、人才链与创新链的有机衔接。
 
 > [!stat-cards]- 核心规模数据
 > - **58%** 2020 年中国高等教育毛入学率，标志着由大众化向普及化迈进。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 3–4)]]
@@ -152,7 +165,7 @@ updated: 2026-11-10
 > [!debates] 核心争议交锋
 >
 > > [!axis] 行政主导规制与大学办学自主权之间的张力
-> > 争论教育部自上而下的严格行政指标考核是否过度约束了高校的学术自由与自主探索空间。
+> > 争论教育部自上而下的严格行政指标考核是否过度约束了高校的[[Academic Freedom|学术自由]]与自主探索空间。
 > >
 > > - **批评观点** 部分高教研究学者指出，从重点学科评审到“双一流”监测，过于密集和细化的行政考核指标导致高校陷入同质化指标竞争，制约了高校围绕本土实际与学术前沿开展个性化探索的活力。
 > > - **官方立场** 教育部强调强化顶层设计与底线审查是维护教育公平、防范高校盲目盲动扩张、确保公共教育财政资金投入效益的制度保障。
@@ -189,7 +202,7 @@ updated: 2026-11-10
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 详细考证教育部在推动粤港澳大湾区高水平合作大学（港科大广州、港中大深圳）特许设立，以及 2023 年联合海南省政府出台规章特许境外高校独立全资办学（陵水黎安试验区）中的制度创新与政策统筹角色。
-> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 系统剖析教育部通过《推进共建“一带一路”教育行动》等多部委协同方案确立国家教育走出去政策合法性与实施框架的制度过程。
-> - [[Argument_Ryan_2010_ChineseLearner|Ryan (2010)]] — 考察教育部 2001 年印发基础教育课程改革纲要并推动传统双基教学向素质教育跨越的课程政策变革。
-> - [[Argument_King_2020_ECNUROE|King (2020)]] — 比较中非合作论坛行动计划与教育部教育对外开放文件的连续性，辨析人力资源开发合作的历史脉络。
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 系统剖析教育部通过《推进共建“一带一路”教育行动》等多部委协同方案确立国家[[Education Going Global|教育走出去]]政策合法性与实施框架的制度过程。
+> - [[Argument_Ryan_2010_ChineseLearner|Ryan (2010)]] — 考察教育部 2001 年印发基础教育课程改革纲要并推动传统双基教学向素质教育跨越的课程[[Theories of Policy Change|政策变革]]。
+> - [[Argument_King_2020_ECNUROE|King (2020)]] — 比较[[Forum on China-Africa Cooperation|中非合作论坛]]行动计划与教育部教育对外开放文件的连续性，辨析人力资源开发合作的历史脉络。
 > - [[Argument_Cai_Gao_Liu_2025_HE|Cai et al. (2025)]] — 实证分析教育部与广东省在大湾区跨境高教协同中的政策调适与“一国两制”下跨界科教集群治理机制。

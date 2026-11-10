@@ -28,6 +28,8 @@ related_concepts:
   - "[[Student Mobility]]"
   - "[[Public Diplomacy]]"
   - "[[Geopolitics]]"
+  - "[[Scientific Mobility]]"
+  - "[[Study Abroad]]"
   - "[[Discourse]]"
   - "[[Hard Power]]"
   - "[[Paradigm]]"
@@ -36,12 +38,15 @@ related_concepts:
   - "[[Document]]"
   - "[[Competitiveness]]"
   - "[[Scientific Productivity]]"
+  - "[[Sino-Foreign Cooperation in Running Schools]]"
   - "[[Research Universities]]"
+  - "[[Early-Career Researchers]]"
   - "[[Alumnus Effect]]"
   - "[[Para-Diplomatic Roles]]"
   - "[[Academic Freedom]]"
   - "[[Intellectual Capital]]"
   - "[[International Education]]"
+  - "[[Quasi-market]]"
   - "[[Internationalization of Higher Education]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -61,16 +66,16 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-29
+updated: 2026-11-10
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Velasco_2022_CSJ"
 argument_key: "Argument_Velasco_2022_CSJ"
 argument_display_title: "China’s soft power strategy: Education as an apparatus of influence in Southeast Asia"
 argument_kind: "journal-article"
-argument_related_count: 35
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "Chinese Studies Journal"
 book_title: ""
@@ -99,7 +104,7 @@ sources:
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Soft Power\|软实力与软权力辨析]]**<br>[[Soft Power]] | 区分防御性维护文化主权的软实力（ruan shili）与试图改变他国政策行为的支配性软权力（ruan quanli），解释中国对外战略中更具工具性与直接性的权力运用逻辑。 |
-> | **[[Educational Diplomacy\|教育外交理论]]**<br>[[Educational Diplomacy]] | 将高等教育机构、学位输出、学术流动与语言教学整合为服务国家对外战略的准外交支点，揭示大学与国家大战略之间的制度性纽带。 |
+> | **[[Educational Diplomacy\|教育外交理论]]**<br>[[Educational Diplomacy]] | 将高等教育机构、学位输出、[[Scientific Mobility\|学术流动]]与语言教学整合为服务国家对外战略的准外交支点，揭示大学与国家大战略之间的制度性纽带。 |
 > | **[[Power Conversion Dilemma\|权力转化困境理论]]**<br>[[Power Conversion Dilemma]] | 解释为何丰厚的物质与文化[[Public Diplomacy\|公共外交]]资源投入无法线性转化为受纳国自发的政治认同，定位领土争议与安全焦虑对软实力转化的耗散阻滞。 |
 
 > [!warrant]- 理论如何支撑论证
@@ -118,7 +123,7 @@ sources:
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **政策样本** | 1993 年《中国教育改革和发展纲要》、1995 年《中华人民共和国教育法》、[[Project 211\|211 工程]]实施文件、[[Project 985\|985 工程]]实施方案、[[Thousand Talents Program\|千人计划]]引才政策、2015 年国务院双一流建设方案。 |
-> | **统计样本** | 2010 至 2020 年中国科研产出发表年际总量、2016 至 2020 年高等教育公共支出公报、2014 至 2018 年在华留学生与东盟留学生规模统计、2019 年 SP30 指数分项指标。 |
+> | **统计样本** | 2010 至 2020 年中国科研产出发表年际总量、2016 至 2020 年高等教育公共支出公报、2014 至 2018 年在华[[Study Abroad\|留学]]生与东盟留学生规模统计、2019 年 SP30 指数分项指标。 |
 > | **区域案例情境** | 涵盖东盟 10 国的高等教育交流网络，重点剖析马来西亚、老挝、泰国与柬埔寨等国的海外校区合作与孔子学院实体办学实践。 |
 
 ---
@@ -219,7 +224,7 @@ sources:
 中国大学综合实力的迅速攀升，源于国家三十余年间持之以恒的顶层规划与密集的财政投入。
 
 > [!dev-timeline] 中国高等教育跨越式发展的政策谱系
-> - **1993年 — 市场化适应与法制奠基** 《中国教育改革和发展纲要》提出建立适应社会主义市场经济的高教体制；1995 年《教育法》为开展中外合作办学确立了法定依据。（Fan, 2020; Huang, 2010, p. 80）
+> - **1993年 — 市场化适应与法制奠基** 《中国教育改革和发展纲要》提出建立适应社会主义市场经济的高教体制；1995 年《教育法》为开展[[Sino-Foreign Cooperation in Running Schools|中外合作办学]]确立了法定依据。（Fan, 2020; Huang, 2010, p. 80）
 > - **1995–1998年 — 实施 211 工程与 985 工程** 先后实施[[Project 211|211 工程]]与[[Project 985|985 工程]]，遴选重点高校开展集中建设，明确打造一批具有世界先进水平的一流大学和重点学科。（Fang, 2012; Jiang et al., 2020, p. 80）
 > - **2008年 — 海外顶尖学者引才工程** 设立[[Thousand Talents Program|千人计划]]，开出优厚待遇延揽超过 7600 名海外优秀科学家与学者全职或短期回国工作，大幅充实了前沿科研力量。（Jia, 2018a, 2018b; Lo & Pan, 2020, p. 80）
 > - **2015年至今 — 统筹推进双一流建设** 确定 42 所高校建设世界一流大学，力争在 2050 年前后跻身全球排名前列，全面强化自然科学和工程技术领域的自主攻坚。（Lo & Pan, 2020, p. 80）
@@ -258,7 +263,7 @@ sources:
 
 > [!result-reading] 国际学生吸纳规模的增长轨迹与引流驱动
 > - **留学生规模稳步贴近国家规划目标** 在华留学生总数从 2014 年 37.7 万人连年升至 2018 年 49.2 万人，极其接近 2020 年招收 50 万国际学生的中长期战略规划指标。（Ministry of Education, 2019; Wilson, 2015, pp. 82–83）
-> - **优质实验科研平台强化留学目的地吸附力** 凭借高水平大学科研平台与专业声誉，中国高校日益成为众多发展中国家青年学者深造的核心选择。（Amirbek & Ydyrys, 2014; Nzivo & Chen, 2013; Yang, 2007, p. 82）
+> - **优质实验科研平台强化留学目的地吸附力** 凭借高水平大学科研平台与专业声誉，中国高校日益成为众多发展中国家[[Early-Career Researchers|青年学者]]深造的核心选择。（Amirbek & Ydyrys, 2014; Nzivo & Chen, 2013; Yang, 2007, p. 82）
 
 > [!warning] 突发公卫危机对留[[Student Mobility|学生流动]]的阻断冲击
 > 2020 年初突发的新冠疫情对全球学生流动造成了剧烈冲击（Altbach & de Wit, 2020）。中国执行了严格的口岸出入境防控政策，导致大批东南亚在读与录取留学生长达近两年无法入境返校，使得原本顺畅运转的跨境求学生态遭遇严重中断（Lau, 2021; Zou & Agyemang, 2022, pp. 83–84）。
@@ -318,7 +323,7 @@ sources:
 
 > [!finding-cards] 核心发现
 > 1. **[[Soft Power|软实力]]概念的本土化战略重塑** 中国政策实践清晰区分了旨在防御性维护文化主权的软实力（ruan shili）与具备进取性对外塑造特征的软权力（ruan quanli），将软实力紧密绑定于国家综合国力与中国梦等顶层战略之中。
-> 2. **高教[[Competitiveness|竞争力]]充当[[Educational Diplomacy|教育外交]]的制度基础** 依托[[Double First-Class Initiative|双一流建设]]的高强度财政投入与海外引才计划，中国科研产出总量在 2018 年超越美国，为中国大学在[[International Education|国际教育]]准市场上争夺外国生源提供了前所未有的学术声誉支撑。
+> 2. **高教[[Competitiveness|竞争力]]充当[[Educational Diplomacy|教育外交]]的制度基础** 依托[[Double First-Class Initiative|双一流建设]]的高强度财政投入与海外引才计划，中国科研产出总量在 2018 年超越美国，为中国大学在[[International Education|国际教育]][[Quasi-market|准市场]]上争夺外国生源提供了前所未有的学术声誉支撑。
 > 3. **东南亚教育外交的三大实践支柱** 中国面向[[ASEAN|东盟]]的高教战略依托国际学生定向扩招、境外独立分校与联合办学（如厦大马校、老挝苏大），以及深度嵌入在地大学建制的[[Confucius Institute|孔子学院]]网络全面展开。
 > 4. **教育外交权力转化的地缘安全边界** 尽管留学生招募能够激活短期校友效应并培养长周期准外交精英，但南海领土主权争议与地缘安全不信任感直接阻滞了教育好感向高阶政治认同的顺畅转化。
 

@@ -12,10 +12,10 @@ aliases:
 summary: "中国高等教育与职业教育系统性向海外延伸办学与输出制度经验的战略实践，涵盖境外办学、多边高校联盟、定向奖学金与产教协同标准输出"
 type: concept
 domain: "higher-education"
-related_count: 35
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - concept
   - higher-education
@@ -23,12 +23,16 @@ tags:
   - internationalization
   - theme/geopolitics
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Geopolitics]]"
   - "[[Research Universities]]"
   - "[[International Branch Campus]]"
   - "[[Soft Power]]"
+  - "[[Quasi-market]]"
+  - "[[Education Export]]"
   - "[[Educational Soft Power]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[Study Abroad]]"
   - "[[International Education]]"
   - "[[Discourse]]"
   - "[[People-to-People Connectivity]]"
@@ -37,6 +41,7 @@ related_concepts:
   - "[[Policy Framing]]"
   - "[[Community of Shared Future for Mankind]]"
   - "[[Public Diplomacy]]"
+  - "[[Sino-Foreign Cooperation in Running Schools]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
 related_theories:
@@ -67,18 +72,18 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-03
+updated: 2026-11-10
 ---
 
 ---
 
 > [!def] Education Going Global
-> 教育出海（Education Going Global，或称教育走出去、跨境教育出海）是指一国教育系统在国家战略统筹下，主动向境外延伸办学实体、输出课程与专业标准、构建跨国学术联盟，并以此支撑国家对外经贸合作与[[Geopolitics|地缘政治]]布局的体系化实践。在中国语境下，该概念主要表现为依托《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》，推动[[Research Universities|研究型大学]]建设[[International Branch Campus|海外分校]]并联合攻关前沿科技、推动职业院校伴随大型工业基建出海开展技能培训，以及依托专项国家奖学金定向吸引沿线青年精英流动。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 678–680, 684–687)]]
+> 教育出海（Education Going Global，或称教育走出去、[[Transnational Education|跨境教育]]出海）是指一国教育系统在国家战略统筹下，主动向境外延伸办学实体、输出课程与专业标准、构建跨国学术联盟，并以此支撑国家对外经贸合作与[[Geopolitics|地缘政治]]布局的体系化实践。在中国语境下，该概念主要表现为依托《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》，推动[[Research Universities|研究型大学]]建设[[International Branch Campus|海外分校]]并联合攻关前沿科技、推动职业院校伴随大型工业基建出海开展技能培训，以及依托专项国家奖学金定向吸引沿线青年精英流动。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 678–680, 684–687)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向高等教育机构与职业技术院校突破国家疆界限制，在海外直接建立实体分校、联合实训基地与多边合作网络的外向型制度实践。
 > - **用途** 帮助研究者透视国家如何将教育对外开放从传统的“引进来（吸收西方知识）”转向“走出去（投射国家[[Soft Power|软实力]]与制度经验）”，揭示教育与地缘政治经济战略之间的协同机制。
-> - **边界** 区别于单纯由跨国准市场学费利润驱动的西方商业化高等教育出口模式，侧重由中央政府战略主导、财政专项倾斜并服务于总体国家利益。
+> - **边界** 区别于单纯由跨国[[Quasi-market|准市场]]学费利润驱动的西方商业化高等[[Education Export|教育出口]]模式，侧重由中央政府战略主导、财政专项倾斜并服务于总体国家利益。
 
 > [!citation-card] 跨国高等教育出海的战略实践（[[Argument_Woo_2023_HEP|Woo, 2023]]）
 > 为了提升[[Educational Soft Power|教育软实力]]，部分中国高校已经开始启动跨国高等教育项目，例如厦门大学在马来西亚建立独立分校。在双边学历互认与多边多校联盟的基础上，中国高水平大学还在沿线国家设立了针对未来技术官僚的高端公共管理培训基地。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 679–680)]]
@@ -87,7 +92,7 @@ updated: 2026-11-03
 
 > [!boundary]- 概念边界
 > - 不等于 [[Internationalization of Higher Education|高等教育国际化]] — 传统高等教育国际化涵盖引进来与走出去的双向流动，且通常以大学自治与学术发展为主要驱动；教育出海特指国家顶层意志驱动下向海外单向度或网络化的实体性战略输出。
-> - 不适用于纯市场化留学生中介业务 — 该概念聚焦于政府间合作、海外联合办学实体建设与国家认可的资助项目，不涵盖纯粹私人商业性质的海外留学中介咨询与考培产业。
+> - 不适用于纯市场化[[Study Abroad|留学]]生中介业务 — 该概念聚焦于政府间合作、海外联合办学实体建设与国家认可的资助项目，不涵盖纯粹私人商业性质的海外留学中介咨询与考培产业。
 
 ---
 
@@ -153,7 +158,7 @@ updated: 2026-11-03
 ---
 
 > [!dev-timeline] 概念演变
-> - **2000年代初 — 探索试水阶段** 伴随国家“走出去”战略的提出，个别高校开始探索中外合作办学的境外延伸与[[Confucius Institute|孔子学院]]试点。
+> - **2000年代初 — 探索试水阶段** 伴随国家“走出去”战略的提出，个别高校开始探索[[Sino-Foreign Cooperation in Running Schools|中外合作办学]]的境外延伸与[[Confucius Institute|孔子学院]]试点。
 > - **2010年 — 政策正式立项** 《国家中长期教育改革和发展规划纲要（2010—2020年）》明确提出“支持有条件的高等学校开展[[International Branch Campus|境外办学]]”，启动战略规划。
 > - **2016年 — 体系化推进阶段** 中央两办印发《关于做好新时期教育对外开放工作的若干意见》，教育部印发《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》，确立以分校、联盟、奖学金与[[Luban Workshop|鲁班工坊]]为支柱的系统出海格局。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 678–680)]]
 > - **2020年至今 — 地缘阵痛与调整阶段** 受到中美科技博弈加剧、西方学术安全审查收紧与[[Fudan University Budapest Campus|复旦大学布达佩斯分校事件]]等在地草根抵制的影响，教育出海转向防范主权与债务风险、注重本土民意受纳度的谨慎推进轨道。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 693–694)]]

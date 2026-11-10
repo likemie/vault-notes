@@ -132,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Higher education regionalism",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,8 +166,7 @@
               "title": "Recent files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -316,6 +315,9 @@
   },
   "active": "96c685dea1ff308e",
   "lastOpenFiles": [
+    "wiki/facts/china/Regulations on Chinese-Foreign Cooperation in Running Schools.md",
+    "wiki/concepts/higher-education/Sino-Foreign Cooperation in Running Schools.md",
+    "output/related-updates/Argument_Barrenechea_2023_JEC-dd1804ba/batch-007/result.json",
     "wiki/facts/china/China's Education Modernization 2035.md",
     "wiki/facts/china/International Collaborative Education Exemplary Zone.md",
     "wiki/concepts/higher-education/Internationalization at Home.md",
@@ -332,7 +334,6 @@
     "output/related-updates/Argument_Barrenechea_2023_JEC-dd1804ba/batch-010/prompt.md",
     "output/related-updates/Argument_Barrenechea_2023_JEC-dd1804ba/batch-010/batch-result.schema.json",
     "output/related-updates/Argument_Barrenechea_2023_JEC-dd1804ba/batch-009/prompt.md",
-    "output/related-updates/Argument_Barrenechea_2023_JEC-dd1804ba/batch-009/batch-result.schema.json",
     "output/related-updates/Argument_Barrenechea_2023_JEC-dd1804ba/batch-008/prompt.md",
     "output/related-updates/Argument_Barrenechea_2023_JEC-dd1804ba/batch-007/prompt.md",
     "output/related-updates/Argument_Barrenechea_2023_JEC-dd1804ba/batch-006/prompt.md",
@@ -350,8 +351,6 @@
     "wiki/facts/china/Guangdong-Hong Kong-Macau Greater Bay Area.md",
     "wiki/concepts/educational-policy-reform/System-Wide Improvement.md",
     "sources/Barrenechea_2023_JEC.md",
-    "wiki/persons/new-zealand/Cathy Wylie.md",
-    "wiki/concepts/curriculum/Curriculum Delivery Model.md",
     "sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig6_GBA_Cities.jpg",
     "sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig5_World_Major_Bay_Areas.jpg",
     "sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig4_iZJU_Governance_Model.jpg",

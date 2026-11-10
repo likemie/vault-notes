@@ -8,10 +8,10 @@ aliases:
 summary: "衡量跨国教育援助结构与功能变迁的分析范式，将教育发展合作划分为校舍教学基建、奖学金与职教技术培训、联合科研知识生产及文化交流四大标准化形态，揭示教育援助从单一硬件捐赠转向人力资本管道的演进历程。"
 type: concept
 domain: "comparative-education"
-related_count: 17
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/comparative-education
   - theme/educational-aid
@@ -24,6 +24,9 @@ related_concepts:
   - "[[Educational Diplomacy]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
+  - "[[Transnational Education]]"
+  - "[[Study Abroad]]"
+  - "[[Sino-Foreign Cooperation in Running Schools]]"
   - "[[Heterogeneity]]"
   - "[[International Education]]"
   - "[[South-South Cooperation]]"
@@ -38,22 +41,23 @@ related_facts:
   - "[[Research in Schools Evaluation]]"
   - "[[Belt and Road Initiative]]"
   - "[[Education for All]]"
+  - "[[Millennium Development Goals]]"
   - "[[China-Pakistan Economic Corridor]]"
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-03
+updated: 2026-11-10
 ---
 
 ---
 
 > [!def] Educational Assistance Modalities
-> 教育援助形态演进（Educational Assistance Modalities），指在国际发展合作与[[Educational Diplomacy|教育外交]]实践中，援助主体根据受援国发展需求、双边战略协同目标及自身资源优势所采取的差异化教育支持路径，在 [[AidData]] 分析[[Paradigm|范式]]中被归纳为校舍教学基建、奖学金与职教培训、联合科研[[Knowledge Production|知识生产]]以及综合文化交流四大互补形态，揭示了跨国教育合作从早期的实物硬件赠予向深层[[Human Capital Theory|人力资本]]与技术标准输出的历时性演变。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 20–22)]]
+> 教育援助形态演进（Educational Assistance Modalities），指在国际发展合作与[[Educational Diplomacy|教育外交]]实践中，援助主体根据受援国发展需求、双边战略协同目标及自身资源优势所采取的差异化教育支持路径，在 [[AidData]] 分析[[Paradigm|范式]]中被归纳为校舍教学基建、奖学金与职教培训、联合科研[[Knowledge Production|知识生产]]以及综合文化交流四大互补形态，揭示了[[Transnational Education|跨国教育]]合作从早期的实物硬件赠予向深层[[Human Capital Theory|人力资本]]与技术标准输出的历时性演变。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 20–22)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向跨国教育资源投放的功能形态分布及其伴随国家宏观地缘战略推进而发生的结构转型。
 > - **用途** 帮助研究者摆脱将对外教育援助简化为单一资金总额或零散校舍捐赠的浅层描述，转而从技术标准、生源吸纳与知识生产等纵深维度剖析其战略功能。
-> - **边界** 该概念特指国家官方或主权基金支持的双边与多边教育对外援助工程，不涵盖纯商业性质的跨境民办教育特许经营或自费留学市场行为。
+> - **边界** 该概念特指国家官方或主权基金支持的双边与多边教育对外援助工程，不涵盖纯商业性质的跨境民办教育特许经营或自费[[Study Abroad|留学]]市场行为。
 
 > [!citation-card] 援助形态从硬件到人才管道的演进
 > 中国对外教育援助的重心经历了深刻转型，从早期的分散援建中小学校舍与物资捐赠，演进为以设立全额奖学金、短期技术实训和高校联合培养为支柱的人力资本管道，直接服务于跨境走廊工程运维与顶尖大学国际生源吸纳。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 20–22)]]
@@ -62,7 +66,7 @@ updated: 2026-11-03
 
 > [!boundary]- 概念边界
 > - 不等于 官方发展援助（Official Development Assistance, ODA）：[[OECD|经合组织]] ODA 侧重资金的赠与成分与低息优惠度界定，教育援助形态侧重分析落地项目的具体功能构成与教育学干预机制。
-> - 不等于 跨国教育输出（Transnational Education, TNE）：TNE 通常由高校通过商业化中外合作办学、境外分校或学分互认驱动，教育援助形态由国家战略意志与官方财政全额或高额补贴主导。
+> - 不等于 跨国教育输出（Transnational Education, TNE）：TNE 通常由高校通过商业化[[Sino-Foreign Cooperation in Running Schools|中外合作办学]]、境外分校或学分互认驱动，教育援助形态由国家战略意志与官方财政全额或高额补贴主导。
 
 ---
 
@@ -109,7 +113,7 @@ updated: 2026-11-03
 
 > [!timeline]- 理论演进
 > - **1960–1980 年** 早期现代化理论主导下的[[International Education|国际教育]]援助主要采取大型工程援建与西方现成教科书翻译输入，忽视本土制度消化能力。
-> - **1990–2010 年** 达喀尔[[Education for All|全民教育]]（EFA）纲领与千年发展目标（MDGs）推动国际援助转向基础教育普及与女童入学等社会性基础指标。
+> - **1990–2010 年** 达喀尔[[Education for All|全民教育]]（EFA）纲领与[[Millennium Development Goals|千年发展目标]]（MDGs）推动国际援助转向基础教育普及与女童入学等社会性基础指标。
 > - **2013 年至今** [[South-South Cooperation|南南合作]]与新兴发展中大国推动以产教融合、校企协同委培与职业技能标准输出为特征的[[Pragmatic Paradigm|实用主义]]教育援助新[[Paradigm|范式]]。
 
 > [!debates] 核心学术争论

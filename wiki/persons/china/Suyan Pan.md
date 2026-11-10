@@ -7,7 +7,7 @@ summary: "香港比较与高等教育学者，香港浸会大学教授。开创�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 22
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -24,9 +24,12 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Paradigm]]"
   - "[[Chinese Exceptionalism]]"
+  - "[[Transnational Education]]"
   - "[[Knowledge Production]]"
   - "[[Benevolence]]"
   - "[[Construct]]"
+  - "[[Theoretical Standpoint]]"
+  - "[[Sino-Foreign Cooperation in Running Schools]]"
   - "[[Student Mobility]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Cultural Recognition]]"
@@ -52,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-30
+updated: 2026-11-10
 ---
 
 ---
@@ -85,7 +88,7 @@ updated: 2026-10-30
 > - **2010 年代中后期 — 新朝贡高教框架的建构** 借鉴古代东亚[[Tributary System|朝贡体系]]历史心智，跳脱西方单纯“[[Soft Power|软实力]]”框架的局限，构建本土化地缘高教分析透镜。
 >   - **代表著作** *Re-conceptualizing China's [[Research in Schools Evaluation|rise]] as a global power: A [[Neo-Tributary Perspective|neo-tributary perspective]]* (2017, with J. T. Y. Lo); *Higher education and China's global rise: A neo-tributary perspective* (2018, with J. T. Y. Lo).[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1044–1045)]]
 >   - **关键概念／方法** [[Neo-Tributary Perspective|新朝贡视角]]、[[Chinese Exceptionalism|中国例外论]]、高教纽带模型。
->   - **阶段转向** 开拓将中国历史政治哲学转译为现代跨国高等教育分析工具的新路径。
+>   - **阶段转向** 开拓将中国历史政治哲学转译为现代[[Transnational Education|跨国高等教育]]分析工具的新路径。
 
 ---
 
@@ -100,8 +103,8 @@ updated: 2026-10-30
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 克服了西方传统现实主义与[[Soft Power|软实力]]二元[[Paradigm|范式]]的机械套用，为比较高等教育学界提供了极具解释力的非西方本土理论透镜。
-> - **实证与政策应用** 该框架被广泛应用于检验中外合作办学空间布局、[[Confucius Institute|孔子学院]]发展、[[Belt and Road Initiative|一带一路]]跨国大学联盟及区域留[[Student Mobility|学生流动]]的动力机制。
+> - **理论路径** 克服了西方传统现实主义与[[Soft Power|软实力]]二元[[Paradigm|范式]]的机械套用，为比较高等教育学界提供了极具解释力的非西方本土[[Theoretical Standpoint|理论透镜]]。
+> - **实证与政策应用** 该框架被广泛应用于检验[[Sino-Foreign Cooperation in Running Schools|中外合作办学]]空间布局、[[Confucius Institute|孔子学院]]发展、[[Belt and Road Initiative|一带一路]]跨国大学联盟及区域留[[Student Mobility|学生流动]]的动力机制。
 > - **后续范式整合** 促使后继学者进一步将新朝贡微观实践透镜与宏观[[Tianxia Heuristic|天下启发式]]及[[Knowledge Diplomacy|知识外交]]相结合（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）。
 
 > [!evidence-grid-a] 相关研究索引

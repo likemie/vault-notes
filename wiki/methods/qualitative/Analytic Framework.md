@@ -9,9 +9,9 @@ summary: "质性研究与比较教育研究中超越参与者日常语言、运�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 95
-method_related_level: 9
-method_related_stars: "💎💎💎"
+method_related_count: 100
+method_related_level: 10
+method_related_stars: "💎💎💎⭐"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -22,6 +22,7 @@ tags:
   - analytic-tradition
 related_concepts:
   - "[[Document]]"
+  - "[[Transnational Education]]"
   - "[[Unit of Analysis]]"
   - "[[Champ]]"
   - "[[Recontextualization]]"
@@ -53,10 +54,13 @@ related_concepts:
   - "[[Policy Science in Comparative Education]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Knowledge Power]]"
+  - "[[Scientific Creativity]]"
   - "[[Evidence-Based Education]]"
   - "[[Policy Conditionalities]]"
+  - "[[Soft Privatisation]]"
   - "[[Policy Network]]"
   - "[[Open Method of Coordination]]"
+  - "[[System-Wide Improvement]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Organizational Culture]]"
@@ -116,16 +120,17 @@ related_arguments:
   - "[[Argument_Stone_2020_PolSoc]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
+  - "[[Argument_Haubrock_2026_NHB]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Bulfone_2024_IAI]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
   - "[[Argument_Zapp_2017_IJED]]"
-  - "[[Argument_Haubrock_2026_NHB]]"
+  - "[[Argument_Barrenechea_2023_JEC]]"
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-11-03
+updated: 2026-11-10
 ---
 
 ---
@@ -134,7 +139,7 @@ updated: 2026-11-03
 > 分析框架（Analytic Framework）是在[[Qualitative Research|质性研究]]与比较制度分析中，运用已有[[Document|文献]]中成熟的“分析传统”（analytic tradition）或理论预设作为解释结构，对田野资料、访谈文本、历史档案或跨国政策进行系统编码、维度拆解与因果解释的方法学路径。它超越参与者的日常经验叙述，为经验材料提供更具理论解释力和结构张力的分析支架。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 9, p. 196)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–76)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 访谈实录、观察笔记、历史文献、跨国教育政策文本、制度演化档案与统计指标序列。
+> - **研究对象** 访谈实录、观察笔记、历史文献、[[Transnational Education|跨国教育]]政策文本、制度演化档案与统计指标序列。
 > - **问题类型** 适合回答“为什么会产生某种制度形态”、“行动者的互动如何受制于结构”、“跨情境案例呈现何种结构性机制”等深层机制解释与比较评估问题。
 > - **[[Unit of Analysis|分析单位]]** 个体叙事、组织事件、学校[[Champ|场域]]、国家宏观教育体系或跨国多边治理制度。
 > - **输出形式** 概念维度矩阵、编码分类层级表、因果机制流程图、跨国场域多位置空间矩阵与微观[[Recontextualization|再情境化]]演进链。
@@ -237,14 +242,14 @@ updated: 2026-11-03
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 构建涵盖证据概念界定、行动者角色、证据使用形态、整合转译机制与系统制度条件的五维分析框架，系统解构[[OECD|经合组织]]、[[UNESCO|联合国教科文组织]]与[[World Bank|世界银行]]官方话语对证据文化的战略性塑造（pp. 342–344）。
-> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 确立以系统生态学视角审视学术创造力异化的分析框架，将宏观资助分配与雇佣结构、中观量化同行评审认知防御偏误以及微观学者策略性从众耦联为完整的制度因果链条。
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 确立以系统生态学视角审视[[Scientific Creativity|学术创造力]]异化的分析框架，将宏观资助分配与雇佣结构、中观量化同行评审认知防御偏误以及微观学者策略性从众耦联为完整的制度因果链条。
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 援引 McLean and Gargani (2019) 规模化分析框架，从向上拓展（制度化）、向外拓展（覆盖面扩大）与向深拓展（规范文化重塑）三维维度，系统解构[[Evidence-Based Education|循证教育]]改革在规划与实施阶段的结构性赤字（p. 17）。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 系统梳理[[Qualitative Research|质性研究]]中五大经典分析框架（叙事、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]、[[Case Study|案例研究]]）的特征与操作规范。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 综合[[Dependency Theory|依附理论]]、历史唯物主义与[[Conditioned State Theory|受限国家理论]]，建构了用于剖析拉美教育扩张与国家政权演变的宏观政治经济学分析框架。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 构建涵盖合法性基础、制度与资源支持、自治空间、功能期待与责任结构的五维分析框架，系统考察二战后至 2025 年美国[[Social Contract of Science|科学的社会契约]]在稳定期、再协商期、危机重构期与技术型契约转型期的制度演进。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 提炼产业政策文献中行动主体、政策目标、资金规模、政策工具与[[Policy Conditionalities|制度化附加条件]]五大核心维度构建分析框架，系统对比美欧半导体产业干预战略。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 融合[[Basil Bernstein|伯恩斯坦]]与卡斯特理论构建五位置分析框架，实证剖析国际组织推销普遍模型时引发的拉美[[Gatekeepers|守门人]]垄断与阿根廷课程自主异化（pp. 349–355）。
-> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 整合内生与[[Exogenous Privatisation|外生私有化]]、四重治理形态（市场、科层、网络、部族）与历年财务审计档案，构建宏观[[Educational Privatisation|教育私有化]]与[[Network Governance|网络治理]]分析框架，全面解剖新西兰基础教育的隐性私有化与[[Policy Network|政策网络]]拓扑。
+> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 整合内生与[[Exogenous Privatisation|外生私有化]]、四重治理形态（市场、科层、网络、部族）与历年财务审计档案，构建宏观[[Educational Privatisation|教育私有化]]与[[Network Governance|网络治理]]分析框架，全面解剖新西兰基础教育的[[Soft Privatisation|隐性私有化]]与[[Policy Network|政策网络]]拓扑。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 结合政策转移理论与[[Evidence-Based Policy-Making|循证政策制定]]机会结构建构两阶段分析框架，系统解构英国新工党跨国搜寻福利模式与成套引入美国[[Random Assignment|随机分配]]评估技术的动力机制（pp. 333–336）。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 构建融合[[Critical Discourse Analysis|批判话语分析]]、[[Policy Framing|政策框架化]]、政策三维视角及[[Explanatory Critique|解释性批判]]的四维分析框架，系统解构中国“[[Belt and Road Initiative|一带一路]]”跨国高教政策的深层因果机制（pp. 680–687）。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 结合[[Tianxia Heuristic|天下启发式]]秩序观与批判性[[Epistemic Governance|知识治理]]框架，解构大国如何依托双轨跨国大学联盟同时开展[[Knowledge Diplomacy|知识外交]]与[[Knowledge Power|知识权力]]运作（pp. 1699–1700, 1704）。
@@ -253,3 +258,4 @@ updated: 2026-11-03
 > - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 引入发展合作透镜构建多标量跨国政策循环分析框架，系统解构全球南方制度创新外溢机制。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 构建以政策指引与政策背书为轴的二维四象限分析框架，系统解构多国应对 [[PISA]] 治理压力的政策反应类型学与传导机制（pp. 419–420）。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 融合福柯权力-知识理论与全景敞视主义构建四层级超国家教育治理分析框架，系统解构[[EU|欧盟]][[Open Method of Coordination|开放协调法]]背后的软法监视与专家控制技术。（pp. 480–481, 486–487, 492–493）
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 通过三级扎根编码提炼[[System-Wide Improvement|全系统改进]]的关键驱动力，构建以宏微观治理桥接与教学实践为核心的整合性分析框架（p. 5）。

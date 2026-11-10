@@ -9970,6 +9970,17 @@
     ]
   },
   {
+    "title": "Internationalization at Home",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Internationalization at Home.md",
+    "aliases": [
+      "在地国际化",
+      "校园国际化",
+      "IaH",
+      "Internationalisation at Home"
+    ]
+  },
+  {
     "title": "Internationalization of Higher Education",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Internationalization of Higher Education.md",
@@ -10302,6 +10313,18 @@
       "高档商场模型",
       "shopping mall model",
       "购物中心模型"
+    ]
+  },
+  {
+    "title": "Sino-Foreign Cooperation in Running Schools",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Sino-Foreign Cooperation in Running Schools.md",
+    "aliases": [
+      "中外合作办学",
+      "Chinese-Foreign Cooperation in Running Schools",
+      "CFCRS",
+      "中外合作办学机构与项目",
+      "Sino-Foreign Joint Institutes and Programs"
     ]
   },
   {
@@ -36897,6 +36920,19 @@
     "subtype": "policy"
   },
   {
+    "title": "China's Education Modernization 2035",
+    "type": "fact",
+    "path": "wiki/facts/china/China's Education Modernization 2035.md",
+    "aliases": [
+      "中国教育现代化2035",
+      "中国教育现代化 2035",
+      "China's Education Modernization 2035 Plan",
+      "Education Modernization 2035",
+      "2035 Plan"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Double First-Class Initiative",
     "type": "fact",
     "path": "wiki/facts/china/Double First-Class Initiative.md",
@@ -36960,6 +36996,24 @@
     "subtype": "policy"
   },
   {
+    "title": "International Collaborative Education Exemplary Zone",
+    "type": "fact",
+    "path": "wiki/facts/china/International Collaborative Education Exemplary Zone.md",
+    "aliases": [
+      "浙江大学国际合作教育样板区",
+      "浙江大学海宁国际合作教育样板区",
+      "iZJU国际合作教育样板区",
+      "浙大国际合作教育样板区",
+      "iZJU International Collaborative Education Exemplary Zone",
+      "Zhejiang University International Campus",
+      "International Campus of Zhejiang University",
+      "浙江大学国际联合学院",
+      "浙江大学国际校区",
+      "iZJU"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Made in China 2025",
     "type": "fact",
     "path": "wiki/facts/china/Made in China 2025.md",
@@ -36991,6 +37045,18 @@
       "推免制度",
       "推免",
       "recommendation-based admission"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Regulations on Chinese-Foreign Cooperation in Running Schools",
+    "type": "fact",
+    "path": "wiki/facts/china/Regulations on Chinese-Foreign Cooperation in Running Schools.md",
+    "aliases": [
+      "中外合作办学条例",
+      "中华人民共和国中外合作办学条例",
+      "中外合作办学条例实施办法",
+      "Chinese-Foreign Cooperation in Running Schools Regulations"
     ],
     "subtype": "policy"
   },

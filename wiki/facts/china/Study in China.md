@@ -11,9 +11,9 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 24
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 33
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 period: "2010–至今"
 initiator_organization: "中华人民共和国教育部"
@@ -25,14 +25,21 @@ tags:
   - student-mobility
   - policy/belt-and-road
 related_concepts:
+  - "[[Study Abroad]]"
   - "[[International Education]]"
   - "[[Soft Power]]"
   - "[[Knowledge Diplomacy]]"
+  - "[[Quasi-market]]"
   - "[[Discourse]]"
   - "[[People-to-People Connectivity]]"
   - "[[Further Education]]"
+  - "[[Internationalization at Home]]"
+  - "[[Scientific Mobility]]"
   - "[[Geopolitics]]"
+  - "[[Transnational Education]]"
   - "[[STEM Education]]"
+  - "[[Early-Career Researchers]]"
+  - "[[Education Export]]"
   - "[[Alumnus Effect]]"
   - "[[Para-Diplomatic Roles]]"
   - "[[Research Universities]]"
@@ -50,27 +57,29 @@ related_facts:
   - "[[Belt and Road Initiative]]"
   - "[[China Scholarship Council]]"
   - "[[Belt and Road Education Action Plan]]"
+  - "[[China's Education Modernization 2035]]"
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Liu_2025_IndHE]]"
   - "[[Argument_Velasco_2022_CSJ]]"
+  - "[[Argument_Qu_2024_IJED]]"
   - "[[Argument_Zhu_Yang_2023_HEP]]"
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-26
+updated: 2026-11-10
 ---
 
 ---
 
 > [!claim] 项目定位
-> “留学中国”（Study in China，早期为《留学中国计划》，新时代深化为打造“留学中国”品牌）是中国官方统筹推进高等教育对外开放与来华留学事业的顶层国家工程。由[[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]牵头主导，旨在通过体系化制度供给扩大来华留学生规模、提升培养质量，推动中国由传统[[International Education|国际教育]]生源输出国转变为亚洲第一大留学目的地国，充当大国[[Soft Power|软实力]]建设与[[Knowledge Diplomacy|知识外交]]的战略支柱。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 679, 688, 692–693)]]
+> “[[Study Abroad|留学]]中国”（Study in China，早期为《留学中国计划》，新时代深化为打造“留学中国”品牌）是中国官方统筹推进高等教育对外开放与来华留学事业的顶层国家工程。由[[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]牵头主导，旨在通过体系化制度供给扩大来华留学生规模、提升培养质量，推动中国由传统[[International Education|国际教育]]生源输出国转变为亚洲第一大留学目的地国，充当大国[[Soft Power|软实力]]建设与[[Knowledge Diplomacy|知识外交]]的战略支柱。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 679, 688, 692–693)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2010年教育部正式发布《留学中国计划》，2016年中央两办《关于做好新时期教育对外开放工作的若干意见》进一步明确提出“做大做强‘留学中国’品牌”，确立常态化推进格局。
 > - **发起方与资助机制** 中华人民共和国教育部统筹，财政部提供中央公派来华留学专项资金，协同各省属地方政府设立“丝绸之路”专项奖学金及高校自主奖学金配比。
 > - **覆盖范围与对象** 覆盖全国数百所招收国际学生的高等院校，重点面向“[[Belt and Road Initiative|一带一路]]”共建国家与非洲等全球南方发展中国家招募本科、硕士、博士层次学历留学生与高级研修学者。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 679, 683–684)]]
-> - **核心问题导向** 扭转长期以来中国教育跨国流动严重失衡的逆差格局，改变西方在国际教育准市场上的[[Discourse|话语]]垄断，为国家重大对外战略输送知华友华的高层次技术与管理精英。
+> - **核心问题导向** 扭转长期以来中国教育跨国流动严重失衡的逆差格局，改变西方在国际[[Quasi-market|教育准市场]]上的[[Discourse|话语]]垄断，为国家重大对外战略输送知华友华的高层次技术与管理精英。
 
 ---
 
@@ -104,7 +113,8 @@ updated: 2026-10-26
 >
 >   - **2016年** 教育部印发《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》，宣布每年向共建国家额外提供1万个政府奖学金名额。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 683–684)]]
 >   - **2018年** 教育部发布《高等学历[[Further Education|继续教育]]和普通高等教育来华留学高等教育质量规范（试行）》，确立严格的学术准入与淘汰标准。同年在华留学生达到 492185 人，逼近 50 万人既定目标；其中东南亚在华留学生由 2016 年约 7 万人增至约 8 万人。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 82–83)]]
->   - **2020年** 中国面向非洲提供的高校奖学金配额超过1.2万个，正式超越西方主要国家政府成为非洲最大的国际学术流动资助方。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 679)]]
+>   - **2019–2020年** 伴随《[[China's Education Modernization 2035|中国教育现代化2035]]》规划发布，打造“留学中国”品牌成为建设高影响力教育中心的核心载体。中国于 2019 年成为亚洲第一大留学目的国，2020 年位列全球第四大留学目的国，与“[[Internationalization at Home|在地国际化]]”协同推进。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 1, 3)]]
+>   - **2020年** 中国面向非洲提供的高校奖学金配额超过1.2万个，正式超越西方主要国家政府成为非洲最大的国际[[Scientific Mobility|学术流动]]资助方。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 679)]]
 >
 > - **2020年–至今 — 提质增效与[[Geopolitics|地缘政治]]常态适应期**
 >
@@ -127,16 +137,17 @@ updated: 2026-10-26
 
 > [!indicators] 关键指标与规模成效
 > - **生源总规模峰值** 2018年来华留学生总数突破49.2万人，生源国覆盖全球196个国家和地区。
+> - **全球与区域目的地历史位次** 2019 年中国确立亚洲第一大留学目的国地位；2020 年位列全球第四大留学目的国，标志着中国从单纯的留学生输出国转变为全球重要的[[Transnational Education|跨国高等教育]]集聚地。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 1, 3)]]
 > - **战略区域集中度** “[[Belt and Road Initiative|一带一路]]”沿线国家在华留学生占比超过50%，其中泰国、巴基斯坦、印度、俄罗斯、印度尼西亚等国名列前茅。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 679)]]
 > - **高额奖学金覆盖面** 中国政府奖学金资助规模突破6.3万人，高层次学历研究生比例显著攀升。
 > - **学科专业结构的重大历史翻转** 官方统计年鉴显示，在华留学生中理工科（[[STEM Education|STEM]]）专业比例自 2008 年的 8.55% 激增至 2018 年的 16.69%，单纯汉语言进修生比例从 55.74% 大幅下降至 37.68%，扭转了过去来华留学极端集中于语言学习、难以产生实质科技影响力的结构短板（[[Argument_Zhu_Yang_2023_HEP|Zhu & Yang, 2023, p. 647]]）。
 > - **一带一路与周边生源支撑格局** 2018 年在华留学生中 52.95% 来自“一带一路”共建国家，东南亚自 2016 年起稳居在华留学生最大区域生源群体（[[Argument_Zhu_Yang_2023_HEP|Zhu & Yang, 2023, pp. 635, 650]]）。
 
 > [!finding-cards] 核心实证结论
-> - **构建了南南学术流动的大通道** 打破了发展中国家青年学者必须远赴欧美昂贵名校的单一依赖，为全球南方自主培养了大量工程、医药与农业技术骨干。
+> - **构建了南南学术流动的大通道** 打破了发展中国家[[Early-Career Researchers|青年学者]]必须远赴欧美昂贵名校的单一依赖，为全球南方自主培养了大量工程、医药与农业技术骨干。
 > - **前沿科技突破与理工名校声誉成为新型核心驱动** 朱克金与[[Rui Yang|杨锐]]（[[Argument_Zhu_Yang_2023_HEP|Zhu & Yang, 2023]]）指出，伴随重点大学工科国际排名的提升与高精尖实验设备充分开放，高水平理工科专业成为吸引东道国优秀生源的最强拉动力，促使东南亚学生放弃本土名校学业转赴中国工科名校深造（pp. 646–648）。
 > - **深化了跨国经贸产能合作的人文黏性** 大量通晓汉语与工程技术的毕业生进入本地基建项目任职，显著降低了跨国工程的跨文化沟通成本与管理摩擦。
-> - **揭示海外重资产长远运维的深层经济动因** 与英美澳加等国将留学生教育作为教育出口创汇的短期商业模式不同，中国官方政策[[Discourse|话语]]长期回避直接盈利诉求并定位于大国外交；但实证研究揭示，通过政产学四方协同为海外重大工程定向培养高阶本土工程师，保障了中亚输气管道、老挝水电网与非洲干线铁路等海外重资产数十年的安全运维与技术标准落地，实现了国家长远经济自利与伙伴国自主发展的有机统一。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 188, 193–194)]]
+> - **揭示海外重资产长远运维的深层经济动因** 与英美澳加等国将留学生教育作为[[Education Export|教育出口]]创汇的短期商业模式不同，中国官方政策[[Discourse|话语]]长期回避直接盈利诉求并定位于大国外交；但实证研究揭示，通过政产学四方协同为海外重大工程定向培养高阶本土工程师，保障了中亚输气管道、老挝水电网与非洲干线铁路等海外重资产数十年的安全运维与技术标准落地，实现了国家长远经济自利与伙伴国自主发展的有机统一。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 188, 193–194)]]
 > - **短期[[Alumnus Effect|校友效应]]与长期准外交精英网络机制** 国际学生招募对国家声誉产生分阶段的深远影响：短期内毕业留学生携带对华积极留学体验与文化好感回归本国（校友效应）；长周期内各专业毕业生逐步进入东南亚政界、高校与产业管理层，承担起增进双边政策理解与知华友华叙事的[[Para-Diplomatic Roles|准外交角色]]。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 83–84)]]
 
 ---
@@ -163,6 +174,7 @@ updated: 2026-10-26
 ---
 
 > [!evidence-grid-a] 关联研究索引
+> - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 宏观实证揭示中国作为新兴国际教育枢纽的崛起，系统记录 2019 年亚洲第一、2020 年全球第四大留学目的国地位，阐明《中国教育现代化2035》如何协同打造“留学中国”品牌与“在地国际化”，推动中国从单向生源输出向高能级教育中心演进。
 > - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] — 系统记录 2008–2018 年间留学生由语言进修向 STEM 工科翻倍转移的宏观统计，结合柬埔寨留学生第一手质性田野揭示前沿科技吸引力与单向灌输式课堂的微观质量短板。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 详尽分析“打造留学中国品牌”在[[Belt and Road Initiative|一带一路]]战略中的政策推进工具（Policy Lever）角色，实证评估了面向非洲1.2万高额奖学金的[[Public Diplomacy|公共外交]]成效，并揭示其对经济[[Hard Power|硬实力]]补贴的深度寄生性。
 > - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 结合中亚、东南亚与非洲重大工程实录，实证检验来华留学生定向联合培养对中资海外重资产长远运维的支撑机制，揭示了超越纯粹政治[[Soft Power|软实力]]的长期经济动因。

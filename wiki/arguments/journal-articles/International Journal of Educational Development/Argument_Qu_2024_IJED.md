@@ -19,25 +19,25 @@ tags:
   - level/higher-education
   - region/china
 related_concepts:
+  - "[[Study Abroad]]"
   - "[[International Education Hubs]]"
   - "[[Document]]"
   - "[[Innovation Hub]]"
   - "[[One Country, Two Systems]]"
-  - "[[Cooperative Education]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Technology Transfer]]"
-  - "[[Internationalization of Higher Education]]"
+  - "[[Internationalization at Home]]"
   - "[[Scientific Mobility]]"
   - "[[Education Export]]"
+  - "[[Sino-Foreign Cooperation in Running Schools]]"
   - "[[Paradigm]]"
   - "[[Research Universities]]"
   - "[[Competitiveness]]"
   - "[[International Education]]"
-  - "[[Study Abroad]]"
+  - "[[Internationalization of Higher Education]]"
   - "[[Transnational Education]]"
   - "[[Performance Indicators]]"
-  - "[[Industry Advisory Board]]"
   - "[[Innovation Park]]"
   - "[[Tokyo Bay Area]]"
   - "[[San Francisco Bay Area]]"
@@ -56,16 +56,19 @@ related_instruments: []
 related_persons:
   - "[[Jane Knight]]"
 related_facts:
+  - "[[Study in China]]"
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
+  - "[[International Collaborative Education Exemplary Zone]]"
   - "[[Hainan International Education Innovation Pilot Zone]]"
+  - "[[China's Education Modernization 2035]]"
   - "[[UNESCO Institute for Statistics]]"
   - "[[UNESCO]]"
   - "[[World Bank]]"
   - "[[Project 211]]"
   - "[[Project 985]]"
   - "[[Double First-Class Initiative]]"
+  - "[[Regulations on Chinese-Foreign Cooperation in Running Schools]]"
   - "[[Ministry of Education of the People's Republic of China]]"
-  - "[[Skills Toward Employment and Productivity]]"
 related_arguments: []
 sources:
   - "[[sources/Qu_2024_IJED/Qu_2024_IJED|Qu_2024_IJED]]"
@@ -79,7 +82,7 @@ title: "Argument_Qu_2024_IJED"
 argument_key: "Argument_Qu_2024_IJED"
 argument_display_title: "Education hubs in a globalized world: The emergence of China"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 45
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -93,13 +96,13 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 既往跨境高等教育研究普遍将中国视作留学生输出国，相对忽视其作为留学目的国及新兴[[International Education Hubs|国际教育枢纽]]（Education Hub）的战略地位；同时，既有教育枢纽[[Document|文献]]多集中于新加坡、马来西亚、卡塔尔、阿联酋等东南亚与中东中小型经济体，缺乏对大型经济体多层级区域高教枢纽形态的系统考察。需要解答：中国如何在国家区域协调发展战略下构建具有不同制度设计的国际教育枢纽？不同区域枢纽在空间形态、产学政合作治理与功能定位上呈现何种差异？这些枢纽如何协同区域产业结构向知识与服务型经济转型？
+> 既往跨境高等教育研究普遍将中国视作[[Study Abroad|留学]]生输出国，相对忽视其作为留学目的国及新兴[[International Education Hubs|国际教育枢纽]]（Education Hub）的战略地位；同时，既有教育枢纽[[Document|文献]]多集中于新加坡、马来西亚、卡塔尔、阿联酋等东南亚与中东中小型经济体，缺乏对大型经济体多层级区域高教枢纽形态的系统考察。需要解答：中国如何在国家区域协调发展战略下构建具有不同制度设计的国际教育枢纽？不同区域枢纽在空间形态、产学政合作治理与功能定位上呈现何种差异？这些枢纽如何协同区域产业结构向知识与服务型经济转型？
 
 > [!claim] 核心主张
 > 中国正在从单纯的留学生输出国转向兼具重要集聚辐射功能的新兴国际教育枢纽；依托大学-产业-政府的三螺旋协同机制，中国在国家区域协调发展战略下形成了长三角单核驱动型（以本土高水平大学链接多元世界顶尖名校的知识[[Innovation Hub|创新枢纽]]）、[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]多核集群型（在[[One Country, Two Systems|一国两制]]下依托港澳高水平大学内地合作办学的人才与创新枢纽）以及海南自贸港园区平台共享型（以大共享加小学院集约化运作并率先试点境外高校独立办学的转型枢纽）三种差异化教育枢纽模式，系统支持区域经济向知识与服务型转型。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 中国三大国家战略区域的教育枢纽实践，即长三角浙江大学国际联合学院（International Campus of Zhejiang University, iZJU）国际[[Cooperative Education|合作教育]]样板区、粤港澳大湾区（Guangdong-Hong Kong-Macao Greater Bay Area, GBA）国际高等教育示范区以及海南自由贸易港（Hainan Free Trade Port, FTP）[[Hainan International Education Innovation Pilot Zone|陵水黎安国际教育创新试验区]]。
+> - **对象** 中国三大国家战略区域的教育枢纽实践，即长三角[[International Collaborative Education Exemplary Zone|浙江大学国际合作教育样板区]]（依托浙江大学国际联合学院 International Campus of Zhejiang University, iZJU）、粤港澳大湾区（Guangdong-Hong Kong-Macao Greater Bay Area, GBA）国际高等教育示范区以及海南自由贸易港（Hainan Free Trade Port, FTP）[[Hainan International Education Innovation Pilot Zone|陵水黎安国际教育创新试验区]]。
 > - **张力** 传统跨境高等教育中心—外围单向生源输送假设与新兴大国通过战略规划主动配置全球智力资源的制度实践之间的张力；集中式单体校区、多中心跨关税区法域集群与高共享度园区平台之间的组织形态差异。
 > - **贡献** 拓展了全球教育枢纽文献的地理与制度视界，将分析视野从东南亚与中东小型城邦国家推进至转型大国；基于[[Jane Knight|简·奈特]]（[[Jane Knight]]）的教育枢纽演进模型与三螺旋[[Analytic Framework|分析框架]]，提炼出中国在国家战略指引与地方实践中生成的三类制度性空间模式。
 
@@ -110,7 +113,7 @@ issuing_organization: ""
 > |---|---|
 > | **国际教育枢纽理论**<br>[[International Education Hubs]] | Knight (2011) 界定的跨境高等教育第三代形态，指由国家或区域战略规划、汇聚本土与国际行动者开展教育、培训、[[Knowledge Production\|知识生产]]与技术创新的集聚网络，包含学生枢纽、人才枢纽与知识/创新枢纽三种类型。用于界定三地枢纽的功能定位与演化阶段。 |
 > | **三螺旋理论**<br>[[Triple Helix]] | Etzkowitz and Leydesdorff (2000) 提出的[[Systems of Innovation\|创新系统理论]]，阐明大学、产业与政府在[[Knowledge-Based Economy\|知识经济]]中突破单向线性分工、形成非线性互动与职能重叠。用于解释教育枢纽如何整合地方政府政策红利与产业[[Technology Transfer\|技术转移]]需求。 |
-> | **在地国际化**<br>[[Internationalization of Higher Education]] | Nilsson (2003) 与 Beelen et al. (2015) 提出的高教国际化理论，强调在本土学习环境中为全体学生有目的地整合国际与跨文化维度的课程与实践。用于分析中国教育枢纽如何在减少生源外流的同时提供世界一流教育体验。 |
+> | **在地国际化**<br>[[Internationalization at Home]] | Nilsson (2003) 与 Beelen et al. (2015) 提出的高教国际化理论，强调在本土学习环境中为全体学生有目的地整合国际与跨文化维度的课程与实践。用于分析中国教育枢纽如何在减少生源外流的同时提供世界一流教育体验。 |
 
 > [!warrant]- 理论如何支撑论证
 > 跨境高等教育历经[[Scientific Mobility|学术流动]]（第一代）和项目与机构流动（第二代），演进至以教育枢纽为标志的第三代形态。教育枢纽理论提供了衡量枢纽活动目标（[[Education Export|教育服务出口]]、技能人才储备、知识创新研发）的基准标尺；三螺旋模型架起了高等教育机构与区域经济转型之间的机制桥梁，阐明高校在承接国家高水平开放战略时，如何通过与地方政府共同出资规划、与地方骨干产业联合设立研发中心，将跨国智力要素直接注入区域知识经济体系。
@@ -121,14 +124,14 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **比较案例研究**<br>[[Comparative Case Study]] | 选取长三角浙江大学海宁国际校区、粤港澳大湾区与海南自贸港陵水黎安三个典型教育枢纽作为案例，横向对比三者在空间规划、治理模式、产学政互动与枢纽类型上的异同。 |
-> | **政策文献分析**<br>Documentary Analysis | 系统研读国家与地方出台的高等教育与区域发展政策文本，包括《中国教育现代化 2035》《粤港澳大湾区发展规划纲要》《海南自由贸易港建设总体方案》等核心纲要。 |
+> | **政策文献分析**<br>Documentary Analysis | 系统研读国家与地方出台的高等教育与区域发展政策文本，包括《[[China's Education Modernization 2035\|中国教育现代化 2035]]》《粤港澳大湾区发展规划纲要》《海南自由贸易港建设总体方案》等核心纲要。 |
 > | **多源数据互证**<br>Triangulation | 综合[[UNESCO Institute for Statistics\|联合国教科文组织统计研究所]]（[[UNESCO]] Institute for Statistics, UIS）、[[World Bank\|世界银行]]、香港贸易发展局（Hong Kong Trade Development Council, HKTDC）统计数据及各办学机构公开数据，相互印证宏观指标与微观建设成效。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **政策文本** | 《中国教育现代化 2035》（2019）、《长江三角洲区域一体化发展规划纲要》（2019）、《推进粤港澳大湾区高等教育合作发展规划》（2020）、《关于支持海南深化教育改革开放实施方案》（2019）、《境外高等教育机构在海南自由贸易港办学暂行规定》（2023）等。 |
-> | **案例样本** | 涵盖长三角浙江大学国际联合学院的 2 个联合学院（爱丁堡大学联合学院与伊利诺伊大学厄巴纳香槟校区联合学院）、大湾区 6 个港澳高教合作办学项目（港中大深圳、港科大广州、城大东莞等）以及海南自贸港 8 个中外合作办学机构与 1 所独立办学外资高校（德国比勒费尔德应用科学大学）。 |
+> | **政策文本** | 《[[China's Education Modernization 2035\|中国教育现代化 2035]]》（2019）、《长江三角洲区域一体化发展规划纲要》（2019）、《推进粤港澳大湾区高等教育合作发展规划》（2020）、《关于支持海南深化教育改革开放实施方案》（2019）、《境外高等教育机构在海南自由贸易港办学暂行规定》（2023）等。 |
+> | **案例样本** | 涵盖长三角浙江大学国际联合学院的 2 个联合学院（爱丁堡大学联合学院与伊利诺伊大学厄巴纳香槟校区联合学院）、大湾区 6 个港澳高教合作办学项目（港中大深圳、港科大广州、城大东莞等）以及海南自贸港 8 个[[Sino-Foreign Cooperation in Running Schools\|中外合作办学]]机构与 1 所独立办学外资高校（德国比勒费尔德应用科学大学）。 |
 > | **统计数据** | 1990–2020 年中国高等教育毛入学率面板数据；2021 年全球四大主要湾区（粤港澳、东京湾、旧金山湾、纽约大都会区）面积、人口、人均国内生产总值（Gross Domestic Product, GDP）与第三产业占比数据。 |
 
 ---
@@ -170,13 +173,13 @@ issuing_organization: ""
 
 > [!sub-claim] 2. 留学、课程引进与合作办学协同推动[[International Education|国际教育]]本土化
 
-> [!dimension] 中国高等教育国际化的三项关键路径
+> [!dimension] 中国[[Internationalization of Higher Education|高等教育国际化]]的三项关键路径
 > - **[[Study Abroad|出国留学]]与人员流动**
 >   包含公派与自费资助本国师生赴海外开展前沿学术交流，同时设立国家奖学金吸引海外留学生来华深造。中国在 2019 年成为亚洲第一大留学目的国，2020 年位列全球第四大留学目的国。
-> - **课程国际化与在地国际化（Internationalization at Home, IaH）**
+> - **课程国际化与[[Internationalization at Home|在地国际化]]（Internationalization at Home, IaH）**
 >   将国际与跨文化维度系统融入国内教学体系，广泛引进国际权威原版教材，开设双语及全英文授课专业，为全体本土学生构建接轨国际水准的学习环境。
 > - **跨境高等教育合作办学（[[Transnational Education|Transnational Higher Education]], TNHE）**
->   依托中外合作办学条例，支持国内高水平大学与海外知名高校联合举办中外合作办学项目与独立法人及非独立法人合作办学机构，实施双学位及联合学位培养。
+>   依托[[Regulations on Chinese-Foreign Cooperation in Running Schools|中外合作办学条例]]，支持国内高水平大学与海外知名高校联合举办中外合作办学项目与独立法人及非独立法人合作办学机构，实施双学位及联合学位培养。
 
 > [!sub-claim] 3. 既有文献多聚焦东南亚与中东，低估了中国作为教育枢纽的体量
 
@@ -200,7 +203,7 @@ issuing_organization: ""
 > [!claim|step] 论证步骤二　长三角依托本土名校开创 1+N 模式打造知识创新枢纽
 > 浙江大学国际联合学院依托浙江大学本部学术实力，在海宁校区开创 1+N 联合学院体系，通过产学政三螺旋协同深度对接长三角区域产业技术需求，确立了知识与创新枢纽的鲜明取向。
 
-> [!sub-claim] 1. 国家与省级规划将海宁校区确立为长三角国际合作教育样板
+> [!sub-claim] 1. 国家与省级规划将海宁校区确立为长三角国际[[Cooperative Education|合作教育]]样板
 
 > [!goal] 长三角国际合作教育样板区顶层战略定位
 > 在长三角一体化国家战略框架下，国家发改委、教育部、科技部与浙江省协同出台系列专项支持政策，依托浙江大学本土学术优势与地方高标准产业配套，将海宁校区打造为部省市共建的国际合作教育样板区，服务长三角科创共同体建设。
@@ -226,7 +229,7 @@ issuing_organization: ""
 
 > [!figure]- 图4：浙大国际联合学院校区层面与学院层面治理架构
 > ![](https://img.mylikemie.icu/sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig4_iZJU_Governance_Model.jpg)
-> *左侧展示了浙大八校区网络对海宁校区的知识溢出；右侧展示了联合管理委员会（Joint Management Committee, JMC）与国际顾问委员会（International Advisory Board, [[Industry Advisory Board|IAB]]）的双层伙伴治理架构。*
+> *左侧展示了浙大八校区网络对海宁校区的知识溢出；右侧展示了联合管理委员会（Joint Management Committee, JMC）与国际顾问委员会（International Advisory Board, IAB）的双层伙伴治理架构。*
 
 > [!feature] 浙大国际联合学院中外合作办学机构名录
 > - **浙江大学爱丁堡大学联合学院（Zhejiang University-University of Edinburgh Institute, ZJE）**
@@ -236,8 +239,8 @@ issuing_organization: ""
 
 > [!sub-claim] 3. 校区与[[Innovation Park|科技园区]]深度协同带动县级市由传统制造向高新产业升级
 
-> [!case] 案例实践：浙江大学海宁国际合作教育样板区
-> 海宁市作为浙江省下属县级市，传统产业以皮革、纺织与经编为主，亟须高新科技支撑产业升级。浙大国际校区与海宁市紧邻规划建设了 7.1 平方公里的鹃湖国际科技城，形成教育校区与科技产业园区的深度交融。地方政府提供土地、高标准基建配套与人才发展基金；国际校区依托两所顶尖联合学院输入前沿生命科学与智能制造技术；科技城与入驻企业承担中试转化与产业孵化，形成典型的大学-产业-政府三螺旋。该模式兼具面向国内学生的在地国际化学生枢纽功能、吸引全球科学家的人才枢纽功能，以及直面产业转型的知识与创新枢纽功能，为中国县级城市的高质量转型树立了示范样板。
+> [!case] 案例实践：[[International Collaborative Education Exemplary Zone|浙江大学海宁国际合作教育样板区]]
+> 海宁市作为浙江省下属县级市，传统产业以皮革、纺织与经编为主，亟须高新科技支撑产业升级。浙大国际校区与海宁市紧邻规划建设了 7.1 平方公里的鹃湖国际科技城，形成教育校区与科技产业园区的深度交融。地方政府提供土地、高标准基建配套与人才发展基金；国际校区依托两所顶尖联合学院输入前沿生命科学与智能制造技术；科技城与入驻企业承担中试转化与产业孵化，形成典型的大学-产业-政府三螺旋。该模式兼具面向国内学生的[[Internationalization at Home|在地国际化]]学生枢纽功能、吸引全球科学家的人才枢纽功能，以及直面产业转型的知识与创新枢纽功能，为中国县级城市的高质量转型树立了示范样板。
 
 ---
 
@@ -302,7 +305,7 @@ issuing_organization: ""
 
 > [!feature] 陵水黎安大共享与五互一共平台化运作机制
 > - **1+X 空间集约共享架构** 打破传统高校各自割据的封闭校园模式，公共教学楼群、中央图书馆、实验中心与文体生活设施归园区统一规划运营与开放（大共享），入驻高校仅设专用学科楼宇（小学院），大幅压缩单校基建与管理运营成本。
-> - **五互一共教学协同体系** 入驻中外高水平大学全面推行互选课程、互免学分、互认学位、互派教师、互享资源与共同生活，促成物理空间集聚直接转化为跨校跨学科交叉融合与高水平在地国际化培养生态。
+> - **五互一共教学协同体系** 入驻中外高水平大学全面推行互选课程、互免学分、互认学位、互派教师、互享资源与共同生活，促成物理空间集聚直接转化为跨校跨学科交叉融合与高水平[[Internationalization at Home|在地国际化]]培养生态。
 
 > [!case] 案例实践：海南自由贸易港陵水黎安国际教育创新试验区
 > 海南作为中国最大的经济特区与唯一的中国特色自由贸易港，长期面临高等教育底子薄、高科技研发要素不足的发展短板。海南在陵水黎安半岛划拨 12.72 平方公里建设国际教育创新试验区，累计投入基础设施建设资金约 400 亿元，已吸引签约 22 所国内外高水平高校。试验区推行大共享加小学院模式：公共教学楼群（如海风大押教学楼）、中央图书馆、体育场馆与学生生活区全部实行园区级统一运营开放，入驻高校在此共享空间内保持各自特色独立学院，实现了不同大学在物理和学科维度的紧密互动。
@@ -335,7 +338,7 @@ issuing_organization: ""
 > [!sub-claim] 3. 海南正从单纯吸引生源就读转向为自贸港重点产业培育急需技能人才
 
 > [!phase] 海南自贸港教育枢纽功能演进与转型阶段
-> - **起步期 · 在地国际化学生枢纽**
+> - **起步期 · [[Internationalization at Home|在地国际化]]学生枢纽**
 >   通过逾 400 亿元基础设施建设与 22 所国内外高校集聚签约，吸引本国生源赴自贸港接受国际化教育，实现优质高教资源在地替代与消费回流。
 >
 > - **发展期 · 现代特色产业人才枢纽**
@@ -394,7 +397,7 @@ issuing_organization: ""
 > [!citation-card] 海南独立办学的制度突破
 > 海南是中国内地唯一不需要境外大学与本土机构联合办学、允许全资独立运营的地区。2023 年印发的《暂行规定》正式确立了境外高等教育机构在海南自贸港独立设立和运营大学的合法性，是中国高等教育对外开放的制度突破。
 >
-> *Hainan is the only location in mainland China where foreign universities are not required to partner with local institutions, but can set up fully owned operations. In March 2023, the [[Ministry of Education of the People's Republic of China|Ministry of Education of China]] and Hainan's provincial government jointly issued the Interim Regulation... This is an important [[Skills Toward Employment and Productivity|step]] in opening up China's higher education system.*
+> *Hainan is the only location in mainland China where foreign universities are not required to partner with local institutions, but can set up fully owned operations. In March 2023, the [[Ministry of Education of the People's Republic of China|Ministry of Education of China]] and Hainan's provincial government jointly issued the Interim Regulation... This is an important step in opening up China's higher education system.*
 
 ---
 

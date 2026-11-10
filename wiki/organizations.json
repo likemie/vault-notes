@@ -3186,6 +3186,14 @@
         "wiki/facts/us/Science in the National Interest 1994.md"
       ]
     },
+    "中华人民共和国国务院": {
+      "seen_in": [
+        "wiki/facts/china/Double First-Class Initiative.md",
+        "wiki/facts/china/Guangdong-Hong Kong-Macau Greater Bay Area.md",
+        "wiki/facts/china/Made in China 2025.md",
+        "wiki/facts/china/Regulations on Chinese-Foreign Cooperation in Running Schools.md"
+      ]
+    },
     "西班牙教育部": {
       "seen_in": [
         "wiki/facts/spain/Centros Concertados.md",
@@ -3213,13 +3221,6 @@
         "wiki/facts/russia/Federal Law No. 121-FZ on Foreign Agents.md",
         "wiki/facts/russia/Federal Law No. 129-FZ on Undesirable Organizations.md",
         "wiki/facts/russia/Federal Law No. 85-FZ on Enlightenment Activities.md"
-      ]
-    },
-    "中华人民共和国国务院": {
-      "seen_in": [
-        "wiki/facts/china/Double First-Class Initiative.md",
-        "wiki/facts/china/Guangdong-Hong Kong-Macau Greater Bay Area.md",
-        "wiki/facts/china/Made in China 2025.md"
       ]
     },
     "新西兰教育部": {
@@ -3736,6 +3737,11 @@
         "wiki/facts/multi/Regional Comprehensive Economic Partnership.md"
       ]
     },
+    "中共中央; 中华人民共和国国务院": {
+      "seen_in": [
+        "wiki/facts/china/China's Education Modernization 2035.md"
+      ]
+    },
     "中共中央、国务院": {
       "seen_in": [
         "wiki/facts/china/China S&T Innovation Policy Evolution.md"
@@ -3779,6 +3785,11 @@
     "国务院及地方政府": {
       "seen_in": [
         "wiki/facts/china/Rural School Consolidation.md"
+      ]
+    },
+    "国家发展和改革委员会": {
+      "seen_in": [
+        "wiki/facts/china/International Collaborative Education Exemplary Zone.md"
       ]
     },
     "国际科学计量与信息计量学会（ISSI）/ 莱顿大学科学技术研究中心（CWTS）学者联盟": {
@@ -3899,6 +3910,11 @@
     "科学技术部": {
       "seen_in": [
         "wiki/facts/china/Open Competition Mechanism.md"
+      ]
+    },
+    "科学技术部; 浙江省人民政府": {
+      "seen_in": [
+        "wiki/facts/china/International Collaborative Education Exemplary Zone.md"
       ]
     },
     "美国卫生与公众服务部": {

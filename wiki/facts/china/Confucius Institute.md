@@ -10,7 +10,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -26,9 +26,11 @@ tags:
   - level/international
 related_concepts:
   - "[[Public Diplomacy]]"
+  - "[[Sino-Foreign Cooperation in Running Schools]]"
   - "[[Soft Power]]"
   - "[[Language Skills]]"
   - "[[Research Universities]]"
+  - "[[Study Abroad]]"
   - "[[Academic Freedom]]"
   - "[[Grandes Ecoles]]"
   - "[[Cultural Diplomacy]]"
@@ -56,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-02
+updated: 2026-11-10
 ---
 
 ---
@@ -66,7 +68,7 @@ updated: 2026-11-02
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2004年首家海外孔子学院在韩国首尔正式挂牌，经历二十余年全球网络扩张与深度治理重组，当前处于机制转型与常态化运营阶段。
-> - **发起方与资助机制** 原由中国国家汉语国际推广领导小组办公室（国家汉办）主导全额或配比出资；2020年机制改组后转由非政府性质的“中国国际中文教育基金会”主导运营，并由中外合作办学双方共同分担日常运行成本。
+> - **发起方与资助机制** 原由中国国家汉语国际推广领导小组办公室（国家汉办）主导全额或配比出资；2020年机制改组后转由非政府性质的“中国国际中文教育基金会”主导运营，并由[[Sino-Foreign Cooperation in Running Schools|中外合作办学]]双方共同分担日常运行成本。
 > - **覆盖范围与对象** 极盛期遍及全球160多个国家和地区，设立超过500所孔子学院及1000多个中小学孔子课堂，受众涵盖海外大学青年、社区公众与政府商务人士。
 > - **核心问题导向** 破解海外中文教学师资教材匮乏、回应全球语言学习需求，并弥合国际社会对中国现代发展道路的认知隔阂，为国家和平发展营造友善的国际舆论环境。
 
@@ -116,7 +118,7 @@ updated: 2026-11-02
 > [!indicators] 评估指标体系
 > - **网络覆盖与注册人数** 全球合作院校数、学员年度在册学习总人次、汉语水平考试（HSK/YCT）受测人次。
 > - **本土课程与学分融入** 中文课程被纳入合作国高校主修专业、辅修学分及国民初高中选修课大纲的比例。
-> - **双向流动拉动成效** 借助孔院渠道选拔赴华留学的奖学金生规模及回国任教就业率。
+> - **双向流动拉动成效** 借助孔院渠道选拔赴华[[Study Abroad|留学]]的奖学金生规模及回国任教就业率。
 
 > [!finding-cards] 核心成效与发展格局
 > - **确立全球语言教学公共基建** 填补了数十个非通用语国家汉语教材短缺与系统化师资空白，极大地推动了中文在国际组织与跨国商贸领域的通用化应用。

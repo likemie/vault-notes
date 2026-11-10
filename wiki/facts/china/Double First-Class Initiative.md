@@ -13,11 +13,11 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 29
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 35
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
-issuing_organization: "中华人民共和国国务院; 中华人民共和国教育部; 中华人民共和国财政部; 中华人民共和国国家发展和改革委员会"
+issuing_organization: "中华人民共和国国务院; [[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]; 中华人民共和国财政部; 中华人民共和国国家发展和改革委员会"
 tags:
   - fact/policy
   - region/china
@@ -27,10 +27,15 @@ tags:
   - policy/national-strategy
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[Original Innovation Capability]]"
   - "[[Competitiveness]]"
   - "[[Soft Power]]"
   - "[[Megascience Installations]]"
   - "[[Research Universities]]"
+  - "[[Transnational Education]]"
+  - "[[Sino-Foreign Cooperation in Running Schools]]"
+  - "[[Scientific Mobility]]"
+  - "[[Study Abroad]]"
   - "[[International Branch Campus]]"
   - "[[Scientific Productivity]]"
   - "[[Public Diplomacy]]"
@@ -51,6 +56,7 @@ related_facts:
   - "[[Project 211]]"
   - "[[Project 985]]"
   - "[[Thousand Talents Program]]"
+  - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
   - "[[National Natural Science Foundation of China]]"
   - "[[Belt and Road Initiative]]"
   - "[[Academic Ranking of World Universities]]"
@@ -58,9 +64,9 @@ related_facts:
   - "[[Hainan International Education Innovation Pilot Zone]]"
 related_arguments:
   - "[[Argument_Velasco_2022_CSJ]]"
+  - "[[Argument_Qu_2024_IJED]]"
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
-  - "[[Argument_Qu_2024_IJED]]"
 confidence: high
 status: active
 created: 2026-10-22
@@ -72,7 +78,7 @@ updated: 2026-11-10
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2015 年 10 月由中华人民共和国国务院正式印发《统筹推进世界一流大学和一流学科建设总体方案》；2017 年 9 月教育部、财政部、国家发展改革委联合公布首批建设高校及建设学科名单。
 > - **适用地区 / 对象** 全国重点高等院校及其重点建设学科，首轮确定 42 所世界一流大学建设高校（A 类 36 所，B 类 6 所）与 95 所一流学科建设高校。
-> - **问题背景** 在全球[[Knowledge-Based Economy|知识经济]]与大国科技竞争背景下，中国亟须从技术引进与模仿转向具备自主前沿原始创新能力；高水平大学需要提升学术排位与国际[[Competitiveness|竞争力]]，服务国家创新驱动发展与对外大战略。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 80–81)]]
+> - **问题背景** 在全球[[Knowledge-Based Economy|知识经济]]与大国科技竞争背景下，中国亟须从技术引进与模仿转向具备自主前沿[[Original Innovation Capability|原始创新能力]]；高水平大学需要提升学术排位与国际[[Competitiveness|竞争力]]，服务国家创新驱动发展与对外大战略。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 80–81)]]
 > - **制度位置** 该政策是继 1993 年《中国教育改革和发展纲要》、1995 年“[[Project 211|211 工程]]”以及 1998 年“[[Project 985|985 工程]]”之后，中国高等教育领域规格最高、投入最集中的顶层制度重组。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 80)]]
 
 ---
@@ -101,7 +107,7 @@ updated: 2026-11-10
 > - 2015 国务院印发《统筹推进世界一流大学和一流学科建设总体方案》，正式确立“双一流”战略框架。
 > - 2017 三部委正式公布首轮建设高校名单（42 所一流大学建设高校，95 所一流学科建设高校）。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 80)]]
 > - 2022 公布第二轮“双一流”建设高校及建设学科名单，全面取消一流大学与一流学科分类，聚焦优势学科建设。
-> - 2024 “双一流”高校深度嵌入国家新一代跨国教育枢纽网络，作为主力机构承接长三角、粤港澳大湾区与海南自贸港的高水平中外合作办学。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2, 7)]]
+> - 2024 “双一流”高校深度嵌入国家新一代[[Transnational Education|跨国教育]]枢纽网络，作为主力机构承接长三角、[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]与海南自贸港的高水平[[Sino-Foreign Cooperation in Running Schools|中外合作办学]]。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2, 7)]]
 
 ---
 
@@ -109,13 +115,13 @@ updated: 2026-11-10
 > - **顶层领导与统筹主体** 国务院教育改革领导小组、教育部、财政部、国家发展改革委，负责总体规划、经费配给与周期性考评。
 > - **建设实施主体** 各“双一流”建设高校，负责编制学科建设方案、重构学术评价体制、组建前沿大科研团队与建设涉外联合平台。
 > - **协同保障部门** 科技部、[[National Natural Science Foundation of China|国家自然科学基金委]]、地方省级人民政府，提供地方配套专项经费与重大产学研基地支撑。
-> - **全球学术流动主体** 依托一流学科资源吸引全球顶尖师资与国际留学生，拓展[[International Branch Campus|境外办学]]分校与跨国联合实验室。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 81–84)]]
+> - **全球[[Scientific Mobility|学术流动]]主体** 依托一流学科资源吸引全球顶尖师资与国际[[Study Abroad|留学]]生，拓展[[International Branch Campus|境外办学]]分校与跨国联合实验室。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 81–84)]]
 
 > [!pathways] 实施路径
 > - **中央战略统筹与超常规资金倾斜** 国家持续增加对高等教育的公共财政投入，从 2016 年的 10,110 亿元大幅扩充至 2020 年的约 14,000 亿元，为尖端实验设备、高薪引才与大型科研攻关提供充裕资金保障。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 81–82)]]
 > - **聚焦自然科学与工程技术[[Scientific Productivity|科研生产力]]** 强调国际同行评议指标与顶级期刊发文量，推动科研从技术跟踪向原始创新转变，使中国科技发文总量在 2018 年超越美国，并在 2020 年达到 195 万篇。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 81)]]
 > - **服务[[Public Diplomacy|对外公共外交]]与国际生源汇聚** 依托持续攀升的[[Global Universities Rankings|全球大学排名]]与全英文优势学科，打造面向“[[Belt and Road Initiative|一带一路]]”沿线及东南亚国家的[[Educational Diplomacy|教育外交]]高地，带动在华外国留[[Student Mobility|学生流动]]规模在 2018 年增至 49.2 万人。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 82–83)]]
-> - **牵头布局国家新一代[[International Education Hubs|教育枢纽]]** “双一流”高校（如浙江大学、中国传媒大学、电子科技大学、北京邮电大学等）作为中方主力，与海外世界名校共建长三角国际校区与海南自贸港合作办学机构，成为中国高水平教育对外开放的制度载体。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 6–7)]]
+> - **牵头布局国家新一代教育枢纽** “双一流”高校（如浙江大学、中国传媒大学、电子科技大学、北京邮电大学等）作为中方主力，与海外世界名校共建长三角国际校区与海南自贸港合作办学机构，成为中国高水平教育对外开放的制度载体。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 6–7)]]
 
 ---
 
