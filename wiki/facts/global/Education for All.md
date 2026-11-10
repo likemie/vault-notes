@@ -11,9 +11,9 @@ subtype: policy
 region: "global"
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 38
-fact_related_level: 3
-fact_related_stars: "💎"
+fact_related_count: 48
+fact_related_level: 4
+fact_related_stars: "💎⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "[[UNESCO]], [[World Bank]], [[UNICEF]], UNDP"
 tags:
@@ -24,6 +24,7 @@ tags:
   - theme/educational-development
   - theme/benchmarking
 related_concepts:
+  - "[[Basic Learning Needs]]"
   - "[[International Education]]"
   - "[[National Innovation System]]"
   - "[[Absorptive Capacity]]"
@@ -32,6 +33,7 @@ related_concepts:
   - "[[Performance Pay]]"
   - "[[Disbursement-Driven Evaluation]]"
   - "[[Learning Crisis]]"
+  - "[[Transnational Education]]"
   - "[[Counterpart Funds]]"
   - "[[Policy Conditionalities]]"
   - "[[School Choice]]"
@@ -39,6 +41,7 @@ related_concepts:
   - "[[Development Education]]"
   - "[[Engineering Education]]"
   - "[[Governing by Numbers]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Critical Theory]]"
@@ -49,11 +52,15 @@ related_instruments: []
 related_persons:
   - "[[Chris Freeman]]"
   - "[[Claudio de Moura Castro]]"
+  - "[[Kenneth King]]"
   - "[[Val D. Rust]]"
 related_facts:
   - "[[UNESCO]]"
   - "[[World Bank]]"
   - "[[UNICEF]]"
+  - "[[World Declaration on Education for All]]"
+  - "[[Dakar Framework for Action]]"
+  - "[[Millennium Development Goals]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[Global Partnership for Education]]"
   - "[[Global Education Monitoring Report]]"
@@ -62,13 +69,15 @@ related_facts:
   - "[[Global Campaign for Education]]"
   - "[[International Monetary Fund]]"
   - "[[CORE Education]]"
+  - "[[OECD]]"
+  - "[[Development Assistance Committee]]"
 related_arguments:
-  - "[[Argument_King_2007_CE]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Castro_2009_MultilateralBanks]]"
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Santos_Silova_2026_Discourse]]"
+  - "[[Argument_King_2007_CE]]"
 confidence: high
 status: active
 created: 2026-09-12
@@ -78,10 +87,10 @@ updated: 2026-11-10
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1990 年 3 月由[[UNESCO\|联合国教科文组织]]（UNESCO）、[[World Bank\|世界银行]]（World Bank）、[[UNICEF\|联合国儿童基金会]]（UNICEF）与联合国开发计划署（UNDP）联合在泰国宗滴恩（Jomtien）世界全民教育大会上正式发布《世界全民教育宣言：满足基本学习需求》（*World Declaration on Education for All: Meeting Basic Learning Needs*）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
+> - **发布时间 / 发布主体** 1990 年 3 月由[[UNESCO\|联合国教科文组织]]（UNESCO）、[[World Bank\|世界银行]]（World Bank）、[[UNICEF\|联合国儿童基金会]]（UNICEF）与联合国开发计划署（UNDP）联合在泰国宗滴恩（Jomtien）世界全民教育大会上正式发布《[[World Declaration on Education for All|世界全民教育宣言]]：满足[[Basic Learning Needs|基本学习需求]]》（*World Declaration on Education for All: Meeting Basic Learning Needs*）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 > - **适用地区 / 对象** 全球联合国成员国，重点覆盖撒哈拉以南非洲、南亚与拉丁美洲等全球南方发展中国家。
 > - **问题背景** 经历 1980 年代第三世界结构调整与严重债务危机，全球逾 1 亿学龄儿童流落街头或失学，近 10 亿成年人处于文盲状态；伴随冷战对抗降温，国际社会迫切需要跨越意识形态对抗，就基础教育权利凝聚全球共识。
-> - **制度位置** 战后[[International Education\|国际教育]]发展史上最具标志性的制度分水岭；它不仅促成国际受教育权从抽象伦理倡导向具体量化行动的转向，更标志着全球南方国家首次被统一纳入多边国际组织的量化指标规制网络，直接孕育了后续《达喀尔行动纲领》（2000）、联合国千年发展目标（MDGs）与 [[UN Sustainable Development Goals\|SDG 4]] 监测框架。
+> - **制度位置** 战后[[International Education\|国际教育]]发展史上最具标志性的制度分水岭；它不仅促成国际受教育权从抽象伦理倡导向具体量化行动的转向，更标志着全球南方国家首次被统一纳入多边国际组织的量化指标规制网络，直接孕育了后续《[[Dakar Framework for Action|达喀尔行动纲领]]》（2000）、[[Millennium Development Goals|联合国千年发展目标]]（MDGs）与 [[UN Sustainable Development Goals\|SDG 4]] 监测框架。
 > - **创新经济学视角的经验确证** 在经济发展与[[National Innovation System|国家创新系统]]（NIS）视阈下，基础教育普及是后发国家摆脱技术依附、构建[[Absorptive Capacity|吸收能力]]的必要基石。正如[[Chris Freeman|克里斯·弗里曼]]（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）考察东亚与拉美赶超分歧时指出的，全民基础教育的扎实普及与初高中高留存率，为韩国等东亚经济体向高等教育与工程技术领域输送充沛生源提供了不可或缺的坚实基石；相比之下，基础教育滑坡与高辍学率直接导致拉美国家在中高层技术人才供给上陷入断层。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]
 
 ---
@@ -147,10 +156,10 @@ updated: 2026-11-10
 > - **非意图后果（在校无学与质量危机）** 由于全民教育信贷长期深陷[[Disbursement-Driven Evaluation|放贷驱动评估]]，国际基准与考核仅聚焦于校舍兴建、课本发放与入学人数等外显物理投入指标，系统性回避黑板前的实际教学质量与认知增值；数以亿计儿童虽然进入课堂却未能掌握基本读写算技能，造成全球性的“在校无学”危机。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 470–471)]]
 > - **量化治理规制转向** 施泰纳-哈姆西等指出，EFA 的关键历史意义在于促成了全球南方国家首次向国际组织量化指标霸权低头；它打破了主权国家原本多元的教育发展节律，将发展中国家牢牢锁定制式化的国际基准评价链条之中。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 > - **外部依赖性借用的达标困境与主权自主对照** [[UNESCO|教科文组织]] 2006 年 EFA 全球监测报告与拉斯特等（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）的比较研究表明，被动接受国际金融机构结构调整贷款的第三世界国家普遍未能达成 2005 年预定指标；相反，古巴等将全民教育作为核心人道主义任务并拒绝新自由主义私有化借调的国家，反而取得了远超受援国的高完成度，表明主权国家内在的政治承诺而非外部依附性贷款才是实现全民教育的决定性因素。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 134)]]
-> - **新自由主义工具化与学习危机前置温床** 桑托斯与西洛娃（Santos & Silova, 2026）指出，全民教育运动固化了将教育从集体社会公共品转向可计量个人产出（读写算基本技能）的新自由主义转向；其对初等入学率的片面追求引发全球南方就学人口激增，但在缺乏配套教育主权与师资支持下造成大面积学力匮乏，反而成为多边组织随后建构“全球学习危机”与强化外部干预的前置制度温床。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, p. 670)]]
+> - **新自由主义工具化与[[Learning Crisis|学习危机]]前置温床** 桑托斯与西洛娃（[[Argument_Santos_Silova_2026_Discourse|Santos & Silova, 2026]]）指出，全民教育运动固化了将教育从集体社会公共品转向可计量个人产出（读写算基本技能）的新自由主义转向；其对初等入学率的片面追求引发全球南方就学人口激增，但在缺乏配套教育主权与师资支持下造成大面积学力匮乏，反而成为多边组织随后建构“全球学习危机”与强化外部干预的前置制度温床。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, p. 670)]]
 
 > [!stat-cards]- 核心数据
-> 覆盖全球 164 个签署国、设立 6 大量化全球目标、涉及数千亿美元跨国教育投资、促成全球失学儿童减少近 5,000 万人。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
+> 覆盖全球 164 个签署国、设立 6 大量化全球目标、涉及数千亿美元[[Transnational Education|跨国教育]]投资、促成全球失学儿童减少近 5,000 万人。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 
 ---
 
@@ -183,7 +192,7 @@ updated: 2026-11-10
 > > [!axis] 包容性基础教育全域愿景 vs 易测量初等入学指标窄化
 > > 围绕全民教育究竟应涵盖全学段基本学习需求还是优先聚焦小学普及，多边机构内部与比较教育学者存在持续分歧。
 > >
-> > - **联合国教科文组织与肯尼斯·金（Kenneth King）** 主张忠实履行 1990 年宗滴恩宣言确立的广义基础教育范畴，涵盖学前、成人扫盲、青年生活技能与教育质量，反对将其压缩为孤立的初等教育。[[Argument_King_2007_CE|(King, 2007, pp. 379–381, 385)]]
+> > - **联合国教科文组织与[[Kenneth King|肯尼斯·金]]（Kenneth King）** 主张忠实履行 1990 年宗滴恩宣言确立的广义基础教育范畴，涵盖学前、成人扫盲、青年生活技能与教育质量，反对将其压缩为孤立的初等教育。[[Argument_King_2007_CE|(King, 2007, pp. 379–381, 385)]]
 > > - **世界银行与联合国儿童基金会** 依据资源约束与动员效率，倾向于将放贷与援助资源高度锁定于小学入学率指标，推动了全球议程的技术化收缩。[[Argument_King_2007_CE|(King, 2007, pp. 380–382)]]
 >
 > > [!axis] 初等教育优先单点突破 vs [[National Innovation System|国家创新系统]]全链条人力资源配置
@@ -218,7 +227,7 @@ updated: 2026-11-10
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_King_2007_CE|King (2007)]] — 系统考证全民教育倡议从宗滴恩广义基础教育向经合组织 DAC 与千年目标初等指标的两次窄化过程，揭示多边官僚在指标转译中的话语主导与对南方国家真实需求的脱节（pp. 377–389）。
+> - [[Argument_King_2007_CE|King (2007)]] — 系统考证全民教育倡议从宗滴恩广义基础教育向[[OECD|经合组织]] [[Development Assistance Committee|DAC]] 与千年目标初等指标的两次窄化过程，揭示多边官僚在指标转译中的[[Discourse|话语]]主导与对南方国家真实需求的脱节（pp. 377–389）。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 确立全民教育（EFA）作为全球南方国家接受国际组织量化治理规制体系之历史起点的学术定性，揭示联合国基准与[[World Bank|世行]]强制执行的共谋机制。
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员实务视角，披露 1990 年宗迪恩大会由世界银行强势主导、[[UNESCO|教科文组织]]理念领导权终结的历史内幕，并以“信贷约束迫使政策落地”和“[[Disbursement-Driven Evaluation|放贷驱动评估]]造成在校无学”揭示全民教育推进中的多边制度逻辑（pp. 466, 470–474）。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 援引[[UNESCO|联合国教科文组织]] 2006 年《[[Global Education Monitoring Report|全民教育全球监测报告]]》，反思全球化外援依附对受援国达标的消极后果，以古巴国家动员为例论证主权自决对于保障全民受教育权的核心机制（p. 134）。

@@ -8,7 +8,7 @@ aliases:
 summary: "运用系统策略与数据库工具从多元渠道定位、筛选和获取相关研究文献的操作性环节（Creswell & Creswell, 2022; Cohen et al., 2011）；服务于理论框架构建与信效度奠基，数字化搜索与平衡前沿经典的知识热点架构显著拓宽了学术共同体记忆并促进重大突破（Wang & Barabási, 2021）。"
 type: concept
 domain: "research-methodology"
-related_count: 96
+related_count: 97
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -68,9 +68,10 @@ related_methods:
   - "[[Effect Size]]"
   - "[[In-depth Interview]]"
   - "[[Bibliometric Analysis]]"
-  - "[[Convenience Sampling]]"
+  - "[[Elite Interview]]"
   - "[[Qualitative Interview]]"
   - "[[Record Linkage]]"
+  - "[[Convenience Sampling]]"
 related_persons:
   - "[[Louis Cohen]]"
   - "[[Lawrence Manion]]"
@@ -194,7 +195,7 @@ updated: 2026-11-10
 > | [ERIC](https://eric.ed.gov) | 教育学期刊、报告、会议论文；免费，含在线词表可精确检索，1966 年至今 140 万条 |
 > | [Google Scholar](https://scholar.google.com) | 跨学科学术搜索，覆盖期刊文献、硕博学位文献与图书；免费，自动统计引用次数 |
 > | [PubMed](https://pubmed.ncbi.nlm.nih.gov) | 生物医学与生命科学；免费，1700 万条引文 |
-> | [ProQuest (PQDT)](https://www.pqdtcn.com/) | 综合学术内容库，全球最大的学位论文收藏；机构订阅 |
+> | [ProQuest (PQDT)](https://www.pqdtcn.com/) | 综合学术内容库，全球最大的[[Doctoral Dissertation\|硕博学位文献]]典藏；机构订阅 |
 > | [EBSCO](https://research.ebsco.com/c/bebykj/search/advanced) | 综合性学术数据库与高级检索平台，350+ 专业子库；机构订阅，含 British Education Index |
 > | [EBSCO 电子书](https://research.ebsco.com/c/ecno37/search?defaultdb=nlebk&auth-callid=6b65a620-85a1-4c6b-a07e-adcc2ecc345f) | EBSCO 专著与学术电子书库（eBook Collection），支持专著检索与全文借阅；机构订阅 |
 > | [爱学术（iResearch）](https://www.iresearchbook.cn/f) | 外文原版学术电子书平台（中国教育图书进出口），集成数百家国际出版机构专著与教材全文；机构订阅 |
@@ -465,7 +466,7 @@ updated: 2026-11-10
 > |---|---|---|---|---|---|---|
 > | [[Argument_Verger_2019_Discourse\|Verger et al. (2019, p. 252)]] | 针对全球测试问责（TBA）实证文献的系统性文献检索 | 系统综述检索规程设计与文献初筛统计 | 数据库来源、检索策略与初筛排除数量 | 通过 Scopus 数据库初筛获取 1,180 篇潜在文献；经独立双盲标题与摘要筛选后，最终确认纳入 115 篇同行评审实证研究 | 明确记录检索词与布尔语法规则 | 证实大规模学术系统综述对单一英语商业数据库的依赖，及其在非英语经验覆盖上的局限 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit09\|Wang & Barabási (2021, pp. 200–204)]] | 跨越自然科学、工程与社会科学的 2,800 万篇全量科技研究文献 | 大规模参考文献时序特征与长程影响力回归及概率测算 | 参考文献平均年龄 $\langle T \rangle$、年龄离散系数 $\sigma_T$、前 5% 高被引突破概率 | 知识热点（低 $\langle T \rangle$、高 $\sigma_T$）使成果进入前 5% 爆款高引的几率提升至随机期望的 2.2 倍（75% 的非热点成果未能超越随机期望）；发表 10 年以上老文献引用份额在 4 个领域超 40%，人文学科达 51% | 跨越战后至今约 90% 的学科领域复现 | 证实文献检索兼顾前沿与经典的知识搜索架构在多学科中具有普适突破增益 |
-> | [[Argument_Volmari_2025_CE\|Volmari et al. (2025, pp. 535–541)]] | 丹麦、芬兰、挪威基础教育改革起草委员会专家与文官[[In-depth Interview\|深度访谈]] | 质性深度访谈与[[Bibliometric Analysis\|文献计量分析]] | 政策制定中专家证据采信机制 vs 客观文献检索假定 | 同行评议成果引文占比偏低（丹麦 16.02% 即 37/231 条，芬兰 9.45% 即 64/677 条）；15 场高层访谈一致表明客观检索在紧迫政策周期中难以实现，证据搜寻普遍依赖学术熟人网络推荐 | [[Qualitative Interview\|质性访谈]]全样本饱和分析 | 揭示政策制定中的文献获取高度嵌入于微观社会关系网络，打破了基于系统客观文献检索的[[Technical Rationality\|技术理性]]假设 |
+> | [[Argument_Volmari_2025_CE\|Volmari et al. (2025, pp. 535–541)]] | 丹麦、芬兰、挪威基础教育改革起草委员会专家与文官[[In-depth Interview\|深度访谈]] | 质性深度访谈与[[Bibliometric Analysis\|文献计量分析]] | 政策制定中专家证据采信机制 vs 客观文献检索假定 | 同行评议成果引文占比偏低（丹麦 16.02% 即 37/231 条，芬兰 9.45% 即 64/677 条）；15 场[[Elite Interview\|高层访谈]]一致表明客观检索在紧迫政策周期中难以实现，证据搜寻普遍依赖学术熟人网络推荐 | [[Qualitative Interview\|质性访谈]]全样本饱和分析 | 揭示政策制定中的文献获取高度嵌入于微观社会关系网络，打破了基于系统客观文献检索的[[Technical Rationality\|技术理性]]假设 |
 
 ---
 
@@ -486,4 +487,4 @@ updated: 2026-11-10
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告，阐述在智能时代自主研究代理如何承担微观文献挖掘与代码沙盒溯源，驱动人类科研分工向战略综合演化。
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 开源构建覆盖 1.34 亿篇文献与 15.89 亿条引文的 [[SciSciNet]] 数据湖，打破商业引文数据库封闭壁垒，为大规模自动化文献检索、[[Record Linkage|实体对齐]]与跨学科知识扩散追踪提供开放[[Data Infrastructure|数据基础设施]]。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang and Barabási (2021)]] — 基于 2,800 万篇文献实证阐明兼顾前沿与经典的知识热点检索架构将突破概率提升 2.2 倍，揭示数字搜索引擎对学术记忆的拓展。
-> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 比较北欧三国改革起草专家的文献搜寻实践，实证揭示紧迫周期与海量成果下客观文献检索的失效，以及人际关系网络和便利抽样的主导地位。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 比较北欧三国改革起草专家的文献搜寻实践，实证揭示紧迫周期与海量成果下客观文献检索的失效，以及人际关系网络和[[Convenience Sampling|便利抽样]]的主导地位。

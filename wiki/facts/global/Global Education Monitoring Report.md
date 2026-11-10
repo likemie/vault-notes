@@ -12,7 +12,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -28,34 +28,41 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Peer Pressure]]"
   - "[[Development Turn in Comparative Education]]"
+  - "[[Learning Crisis]]"
+  - "[[Discourse]]"
   - "[[Constructivist Paradigm]]"
   - "[[Governing by Numbers]]"
   - "[[Global Citizenship]]"
   - "[[Naming and Shaming in Education Governance]]"
   - "[[Soft Power]]"
   - "[[Soft Power by Hard Facts]]"
+  - "[[Country Ownership]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Kenneth King]]"
 related_facts:
   - "[[Education for All]]"
   - "[[UNESCO]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[World Bank]]"
+  - "[[Dakar Framework for Action]]"
   - "[[UNESCO Institute for Statistics]]"
   - "[[OECD]]"
   - "[[UNICEF]]"
   - "[[Multiple Indicator Cluster Surveys]]"
   - "[[Global Partnership for Education]]"
   - "[[International Institute for Educational Planning]]"
+  - "[[Millennium Development Goals]]"
 related_arguments:
-  - "[[Argument_King_2007_CE]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Santos_Silova_2026_Discourse]]"
+  - "[[Argument_King_2007_CE]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ---
@@ -88,7 +95,7 @@ updated: 2026-11-05
 ---
 
 > [!dev-timeline] 项目推进历程
-> - **2002–2015 年 — EFA 达喀尔目标监测时代（EFA GMR）** 严格追踪达喀尔行动框架六大[[Education for All\|全民教育]]目标，相继出版《谁在走在正轨上》《扫盲至关重要》《消除性别鸿沟》等里程碑报告，成为全球教育发展援助决策的黄金风向标。
+> - **2002–2015 年 — EFA 达喀尔目标监测时代（EFA GMR）** 严格追踪[[Dakar Framework for Action|达喀尔行动框架]]六大[[Education for All\|全民教育]]目标，相继出版《谁在走在正轨上》《扫盲至关重要》《消除性别鸿沟》等里程碑报告；2014 年发布《教学与学习：实现全民优质教育》（EFA GMR 2013/4），正式启用并普及“[[Learning Crisis|全球学习危机]]”概念，成为教科文组织将学习质量危机建构为政策动员窗口期的标志性事件。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, p. 670)]]
 > - **2015 年 — 仁川世界教育论坛与职能法定升级** 联合国通过《2030 年可持续发展议程》，将该报告正式更名为《全球教育监测报告》（GEMR），并被世界教育论坛（仁川）与联合国大会明确授权为全球监测 [[UN Sustainable Development Goals\|SDG 4]] 的法定独立机制。
 > - **2016 年至今 — SDG 4 深度解构与多边倡导深化** 相继发布《教育造就人类与地球》《教育问责制》（2017/8）、《包容与教育》（2020）、《非国家行为体》（2021/2）以及《教育中的技术》（2023）等重磅报告，创建 SCOPE 与 WIDE 在线交互式数据分析平台。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 
@@ -116,6 +123,7 @@ updated: 2026-11-05
 > - **巨额资金缺口与发展承诺违约** 报告系统测算指出，要实现 2030 年低收入和中低收入国家普及中小学教育的 [[UN Sustainable Development Goals\|SDG 4]] 目标，年均面临高达 970 亿至 1,480 亿美元的严重结构性融资缺口，批评发达国家远未兑现 0.7% 国民总收入用于官方援助的政治承诺。
 > - **过度依赖教育技术的商业陷阱** 2023 年报告以翔实跨国实证揭示，许多数字化教育技术的推广缺乏坚实循证依据，往往被商业资本的炒作所裹挟，反而加剧了城乡数字化鸿沟并侵害了学生的隐私权益。
 > - **民办私立化的公平侵蚀隐患** 2021 年报告深入剖析了低成本私立学校在发展中国家的无序扩张，指出将基础教育推向市场化往往加剧阶层隔离，弱化了国家对公共教育的根本托底责任。
+> - **危机叙事建构与干预正当化** 桑托斯与西洛娃（[[Argument_Santos_Silova_2026_Discourse|Santos & Silova, 2026]]）批判指出，GEMR 2013/4 年度报告率先正式启用的“全球学习危机”[[Discourse|话语]]，不仅是对就学与学力落差的实证诊断，更是国际组织维系紧迫感与干预正当性的政策工具；这一话语建构塑造了何种政策具有合法性，往往诱导受援国优先采纳短期的外部技术修复方案，而忽视深层的体制性教育改革。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, p. 670)]]
 
 > [!stat-cards]- 关键实证数据
 > 覆盖 200 余个国家和地区、累计出版逾 20 部全球年度旗舰专著、委托超 1,000 份国别实证背景研究报告，是全球所有涉及教育公平政策分析引用频次最高的旗舰监测文库。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
@@ -139,7 +147,7 @@ updated: 2026-11-05
 > > [!axis] 捐助国主导的外部监测 vs 南方受援国的实质自主拥有
 > > 围绕全球监测机制的公信力与受众定位，比较教育学者审视了监测超结构与南方国家真实拥有感之间的脱节。
 > >
-> > - **肯尼斯·金（Kenneth King）** 指出，《全球监测报告》虽然具备高质量的独立分析，但主要由 11 个双边机构与教科文组织出资，其影响力在很大程度上局限于北方捐助国共同体内部；报告假设受检国家真正拥有相关目标，然而南方受援国往往仅视其为被动遵从的外部施加任务。[[Argument_King_2007_CE|(King, 2007, pp. 387–388)]]
+> > - **[[Kenneth King|肯尼斯·金]]（Kenneth King）** 指出，《全球监测报告》虽然具备高质量的独立分析，但主要由 11 个双边机构与教科文组织出资，其影响力在很大程度上局限于北方捐助国共同体内部；报告假设受检国家真正拥有相关目标，然而南方受援国往往仅视其为被动遵从的外部施加任务。[[Argument_King_2007_CE|(King, 2007, pp. 387–388)]]
 > > - **多边监测团队与捐助方** 坚称独立的跨国监测是促成透明问责、调动全球教育资金与倒逼受援国履约的核心制度保障。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 
 > [!lessons] 经验教训与启示
@@ -164,5 +172,6 @@ updated: 2026-11-05
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_King_2007_CE|King (2007)]] — 考察达喀尔与千年目标之上的监测超结构，揭示全球监测报告对北方捐助界的高度依赖及其关于受援国“国家自主拥有”制度假定的局限（pp. 387–388）。
+> - [[Argument_King_2007_CE|King (2007)]] — 考察达喀尔与千年目标之上的监测超结构，揭示全球监测报告对北方捐助界的高度依赖及其关于受援国“[[Country Ownership|国家自主拥有]]”制度假定的局限（pp. 387–388）。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 阐明国际协定催生的全球基准与多边中介规制机制，揭示 GEMR 报告在推动基于硬事实跨国监测中的关键地位（pp. 541, 544）。
+> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 解构联合国教科文组织全民教育全球监测报告在 2013/4 年建构“全球学习危机”概念的修辞机制，揭示其维系紧急干预正当性与偏向短期技术修复的治理后果。

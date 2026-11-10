@@ -23,6 +23,8 @@ tags:
   - subject/comparative-education
 related_concepts:
   - "[[Evidence-Based Policy-Making]]"
+  - "[[Data-Centrism in Education Reforms]]"
+  - "[[Paradigm]]"
   - "[[Discourse]]"
   - "[[Context in Comparative Education]]"
   - "[[Document]]"
@@ -37,6 +39,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Output-Oriented Governance]]"
   - "[[Extending School Time]]"
+  - "[[De-Academisation of Advisory Working Groups]]"
   - "[[Tacit Knowledge]]"
   - "[[Literature Search]]"
   - "[[Technical Rationality]]"
@@ -93,7 +96,7 @@ title: "Argument_Volmari_2025_CE"
 argument_key: "Argument_Volmari_2025_CE"
 argument_display_title: "Scientification or political legitimation? Tracing the concepts of evidence and context in Nordic school reforms"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 56
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -107,7 +110,7 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 在全球倡导[[Evidence-Based Policy-Making|循证政策制定]]与福利国家教育趋同的背景下，北欧国家在学校改革中如何选择与利用学术研究作为政策证据？学术知识在多大程度上构成了真实决策的基石，抑或主要充当政治合法化的修辞工具？正如[[Sotiria Grek|索蒂丽亚·格雷克]]（Grek, 2013）所指出的，专业知识已深嵌并构成了当代政策过程本身的核心。国家教育改革如何在微观博弈与跨国[[Discourse|话语]]流通中共同建构自身的背景与证据？
+> 在全球倡导[[Evidence-Based Policy-Making|循证政策制定]]与福利国家教育趋同的背景下，北欧国家在学校改革中如何选择与利用学术研究作为政策证据？学术知识在多大程度上构成了真实决策的基石，抑或主要充当政治合法化的修辞工具？正如[[Sotiria Grek|索蒂丽亚·格雷克]]（Grek, 2013）所指出的，专业知识已深嵌并构成了当代政策过程本身的核心，折射出全球教育改革从权利本位向[[Data-Centrism in Education Reforms|数据中心主义]]的[[Paradigm|范式]]转向。国家教育改革如何在微观博弈与跨国[[Discourse|话语]]流通中共同建构自身的背景与证据？
 
 > [!claim] 核心主张
 > 学校改革中的证据采信深嵌于政治合法化博弈与非正式社会关系网络之中；各国的改革背景属于关系性的大写背景（[[Context in Comparative Education|Big-C Context]]），由决策者在挑选证据、平衡本土合法性与吸纳全球素养话语的过程中共同建构而成，超越了预设静止的制度容器假定。
@@ -225,7 +228,7 @@ issuing_organization: ""
 > 丹麦 2014 年公立学校改革源于政府 2012 年 12 月发布的《让好学校变得更好：提升公立学校的学术水平》改革提案。正如克里斯蒂安·于德森（[[Christian Ydesen]]）等学者（Reder & Ydesen, 2022; Ydesen & Buchardt, 2020）所指出的，丹麦缺少类似于挪威官方调查（NOU）或瑞典国家调查（Statens offentliga utredninger, SOU）的独立委员会传统，前期并未设立专门的研究咨询委员会。该项改革伴随激烈的政治争议，核心举措包括[[Extending School Time|延长在校时间]]、增加丹麦语与数学等基础学科课时、推行每日体育锻炼以及提前开设外语课程；同期还启动了贯通 0 至 18 岁教育机构的[[Ny Nordisk Skole|新北欧学校]]（Ny Nordisk Skole）试验项目。改革方案主要由教育部在三场闭门研讨会中与利益攸关方协商酝酿，最终经国会各政党妥协达成。在此机制下，实证证据的使用呈现典型的政策性选择采信（cherry-picking）特征，研究成果仅在契合既定政治路线时才被调取，同行评议期刊成果在总引文中仅占 16.02%。
 
 > [!case] 芬兰案例：政党轮替排斥学者参政，决策完全由文官与本土评估数据主导
-> 芬兰 2014 年国家核心课程改革聚焦于由政府法令（Decree 422/2012）确立的课时分配与全国教学目标。2010 年，由国家教育署、政党代表与社会团体组成的跨界工作组曾拟定一份方案，但随着议会换届与新政府上台，该方案尚未提交审议便被废弃。2012 年新执政联盟履新后，教育部组建了一个完全由教育部和国家教育署职业文官构成的精简工作组，高校专职学者被全部排除在外。该工作组在数月内迅速敲定法令草案，并将各学科分科大纲的编制职权移交国家教育署。在芬兰政策文件的 677 条引文中，期刊学术成果仅占 9.45%；其采信依据几乎全部来自芬兰教育评估中心（[[Finnish Education Evaluation Centre|KARVI]]）、于韦斯屈莱大学[[Finnish Institute for Educational Research|芬兰教育研究院]]以及[[Centre for Educational Assessment|赫尔辛基大学教育评估中心]]常年积累的全国学业成就监测报告。职业文官凭借自身长年实践积淀的默会经验，主导了政策证据的筛选与转化。
+> 芬兰 2014 年国家核心课程改革聚焦于由政府法令（Decree 422/2012）确立的课时分配与全国教学目标。2010 年，由国家教育署、政党代表与社会团体组成的跨界工作组曾拟定一份方案，但随着议会换届与新政府上台，该方案尚未提交审议便被废弃。2012 年新执政联盟履新后，教育部组建了一个完全由教育部和国家教育署职业文官构成的精简工作组，高校专职学者被全部排除在外，生动体现了咨询工作组的[[De-Academisation of Advisory Working Groups|去学者化]]倾向。该工作组在数月内迅速敲定法令草案，并将各学科分科大纲的编制职权移交国家教育署。在芬兰政策文件的 677 条引文中，期刊学术成果仅占 9.45%；其采信依据几乎全部来自芬兰教育评估中心（[[Finnish Education Evaluation Centre|KARVI]]）、于韦斯屈莱大学[[Finnish Institute for Educational Research|芬兰教育研究院]]以及[[Centre for Educational Assessment|赫尔辛基大学教育评估中心]]常年积累的全国学业成就监测报告。职业文官凭借自身长年实践积淀的默会经验，主导了政策证据的筛选与转化。
 
 > [!case] 挪威案例：高度依托官方调查委员会，大学学者主导研究证据层级
 > 挪威 2020 年推行的[[Fagfornyelsen|知识促进改革更新]]（Fagfornyelsen 2020）延续了本国制度化的官方调查委员会传统。政府于 2013 年正式任命由大学学者领衔的[[Ludvigsen Commission|卢德维格森委员会]]（Ludvigsen Commission）。该委员会先后发布两份具有里程碑意义的正式调查报告：作为[[The Green Book|绿皮书]]的 NOU 2014:7（奠定未来学校的学生学习知识库）与作为白皮书的 NOU 2015:8（规划学科内容与未来素养体系更新）。在委员会内部，大学资深学者居于主导地位，确立了明确的证据采信门槛：优先调取同行评议学术成果、系统综述与元分析报告，排斥缺乏方法严谨性的零散经验材料。访谈表明，鉴于课程领域极少存在可直接跨国复制的因果实证结论，委员会最终整合了实证综述、往期改革追踪数据以及思辨性理论分析，形成了一套复合型知识库。
