@@ -96,9 +96,19 @@
               "icon": "lucide-file",
               "title": "Argument_Qu_2024_IJED"
             }
+          },
+          {
+            "id": "ae133a7235b97631",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -313,8 +323,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "96c685dea1ff308e",
+  "active": "ae133a7235b97631",
   "lastOpenFiles": [
+    "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md",
+    "wiki/concepts/educational-leadership-administration/Distributed Leadership.md",
+    "wiki/theories/educational-policy-reform/Backward Mapping.md",
+    "wiki/concepts/curriculum/Curriculum Coherence.md",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch01-ba2e4e21/batch-005/result.json",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch01-ba2e4e21/batch-004/result.json",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch01-ba2e4e21/batch-003/result.json",
@@ -330,7 +344,6 @@
     "output/related-updates/Argument_Anderson_2016_Verso_Ch01-ba2e4e21/batch-002/batch-result.schema.json",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch01-ba2e4e21/batch-003/batch-result.schema.json",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch01-ba2e4e21/batch-001/prompt.md",
-    "output/related-updates/Argument_Anderson_2016_Verso_Ch01-ba2e4e21/state.json",
     "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md",
     "wiki/persons/uk/Ernest Gellner.md",
     "wiki/concepts/political-economy-geopolitics/Modular Nationalism.md",
@@ -348,9 +361,6 @@
     "wiki/facts/china/Regulations on Chinese-Foreign Cooperation in Running Schools.md",
     "wiki/concepts/higher-education/Sino-Foreign Cooperation in Running Schools.md",
     "wiki/facts/china/China's Education Modernization 2035.md",
-    "wiki/facts/china/International Collaborative Education Exemplary Zone.md",
-    "wiki/concepts/higher-education/Internationalization at Home.md",
-    "output/related-updates/Argument_Barrenechea_2023_JEC-dd1804ba/batch-012/prompt.md",
     "sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig6_GBA_Cities.jpg",
     "sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig5_World_Major_Bay_Areas.jpg",
     "sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig4_iZJU_Governance_Model.jpg",

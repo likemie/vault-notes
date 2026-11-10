@@ -229,8 +229,8 @@ issuing_organization: ""
 
 > [!sub-claim] 2. 咨询公司的通用模型脱离实际，国家课程与教材是连接教学的关键桥梁
 
-> [!mechanism] 课程连贯性流转机制：国家中枢与统整教材的协调功能
-> Cogan et al. (2001) 在《学校为何重要》（*Why Schools Matter*）中基于[[TIMSS|国际数学与科学趋势研究]]（Trends in International Mathematics and Science Study, TIMSS）对 54 个教育系统的课程轨迹展开比较。研究将课程划分为规定目标、教学内容、教学方法与评估形式四个维度，证实具备中央集权型课程体制且能够有效对齐各阶段课程流转的系统，往往能达成更高的学生学业一致性。国家必须设立富有活力的制度中枢，依靠统一教科书等中介工具规范学习轨迹，提供常态化[[Feedback|教学反馈]]（Schmidt & Prawat, 2006）。
+> [!mechanism] [[Curriculum Coherence|课程连贯性]]流转机制：国家中枢与统整教材的协调功能
+> Cogan et al. (2001) 在《学校为何重要》（*Why Schools Matter*）中基于[[TIMSS|国际数学与科学趋势研究]]（Trends in International Mathematics and Science Study, TIMSS）对 54 个教育系统的课程轨迹展开比较。研究将课程划分为规定目标、教学内容、教学方法与评估形式四个维度，证实具备中央集权型课程体制且能够有效对齐各阶段课程流转的系统（[[Curriculum Coherence|课程连贯性]]），往往能达成更高的学生学业一致性。国家必须设立富有活力的制度中枢，依靠统一教科书等中介工具规范学习轨迹，提供常态化[[Feedback|教学反馈]]（Schmidt & Prawat, 2006）。
 
 > [!framework] 麦肯锡阶段改进模型：统一演进阶梯与分段干预假说
 > 麦肯锡公司在 2007 年发布《顶尖学校系统如何脱颖而出》聚焦绝对高绩效系统后，于 2010 年发布《世界最佳改善学校系统如何精益求精》（Mourshed et al., 2010），基于 200 场[[In-depth Interview|深度访谈]]对 20 个教育系统的 575 项政策干预进行分类。报告提出全球系统依照统一阶段演进：从贫弱到合格依赖严格行政规制与脚本化教学；从合格到良好聚焦教师队伍专业建设；从良好到卓越向教师下放教学决策自主权。
@@ -261,7 +261,7 @@ issuing_organization: ""
 > [!sub-claim] 2. 课堂教学是改革的最终落脚点，扎根课堂的现场指导优于脱产讲座
 
 > [!policy-design] 教师专业资本投资与全周期能力建设
-> - **澳大利亚维多利亚州埃尔莫尔模型** Elmore (2007) 对维多利亚州改革评估指出，学校改进必须通过深思熟虑且连贯地投资于广大教师与教育人员的专业知识与技能来实现，其余一切制度设计均属辅助工具。维多利亚州将政策重心集中投向围绕微观教学核心（[[Instructional Core]]）的教师教学知识体系重塑。
+> - **澳大利亚维多利亚州埃尔莫尔模型** Elmore (2007) 对维多利亚州改革评估指出，学校改进必须通过深思熟虑且连贯地投资于广大教师与教育人员的专业知识与技能来实现，其余一切制度设计均属辅助工具。维多利亚州遵循[[Backward Mapping|逆向映射]]逻辑，将政策重心集中投向围绕微观教学核心（[[Instructional Core]]）的教师教学知识体系重塑。
 > - **加拿大安大略省全链条专业发展** Osmond-Johnson and Campbell (2018) 指出，安大略省建立涵盖准入招募、入职浸润、常态化研修、专业认可、劳动保障与职级晋升的全周期专业资本支持机制，将教师能力提升与学业成效紧密关联。
 
 > [!case] 扎根现场的导师带教与校本教练网络
@@ -269,7 +269,7 @@ issuing_organization: ""
 > - **英国伦敦挑战计划校本教练制** 伦敦学校改进计划（伦敦挑战计划）全面转向基于本校真实课堂场景的校本[[Instructional Coaching|教学教练指导]]制度，通过优秀校长的同行带教实现横向教学经验辐射（McAleavy & Elwick, 2016; Zavadsky, 2016）。
 
 > [!case] 教学引领者转型与[[Professional Learning Community|专业学习共同体]]实践
-> - **加州桑格学区管理者角色转型** 桑格联合学区推动学区行政官员与中小学校长从传统的科层事务管理者转向以[[Instructional Leadership|教学领导力]]（Instructional Leadership）为核心的学习引领者，推行分布式领导与教师集体责任制（David & Talbert, 2012；另见圣地亚哥学区，O’Day & Quick, 2009）。
+> - **加州桑格学区管理者角色转型** 桑格联合学区推动学区行政官员与中小学校长从传统的科层事务管理者转向以[[Instructional Leadership|教学领导力]]（Instructional Leadership）为核心的学习引领者，推行[[Distributed Leadership|分布式领导]]与教师集体责任制（David & Talbert, 2012；另见圣地亚哥学区，O’Day & Quick, 2009）。
 > - **威尔士专业学习共同体** 威尔士政府自 2008 年起在全辖区学校建立专业学习共同体（Professional Learning Communities, PLCs），鼓励一线教师以教研小组形式共享[[Tacit Knowledge|默会知识]]、反思日常教学行为（Harris & Jones, 2017）。
 > - **中国上海名师带教与委托管理** Pang and Miao (2017) 指出，上海通过多级教师专业荣誉与职级体系培育骨干教师领导力，并推行优质校托管薄弱校模式，促进师资专业经验的制度化流动。
 
