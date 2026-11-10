@@ -27,6 +27,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Technical Rationality]]"
   - "[[Grammar of Schooling]]"
+  - "[[Curricular Governance]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[High-Stakes Testing]]"
@@ -41,11 +42,13 @@ related_concepts:
   - "[[Screening Off]]"
   - "[[Causality]]"
   - "[[Falsification]]"
+  - "[[Instructional Core]]"
   - "[[Mentorship]]"
   - "[[Instructional Coaching]]"
   - "[[Professional Learning Community]]"
   - "[[Instructional Leadership]]"
   - "[[Tacit Knowledge]]"
+  - "[[Professional Accountability]]"
   - "[[Output-Oriented Governance]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Knowledge Mobilisation]]"
@@ -85,10 +88,10 @@ title: "Argument_Barrenechea_2023_JEC"
 argument_key: "Argument_Barrenechea_2023_JEC"
 argument_display_title: "How can education systems improve? A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 47
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#dbeafe"
+argument_related_count: 50
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: "Journal of Educational Change"
 book_title: ""
 publication_place: ""
@@ -116,7 +119,7 @@ issuing_organization: ""
 > |----------|----------|
 > | **理性选择与新公共管理（New Public Management, NPM）** | 假定个体决策旨在最大化效益，主张通过绩效激励、去中心化管理与标准化统考等外部问责机制重塑教育系统（Becker, 1976; Hood, 1991）。 |
 > | **教育变革的文化取向** | 强调教育系统的历史惯性与深层制度规范（[[Grammar of Schooling\|学校文法（Grammar of Schooling）]]），主张系统变革必须结合全面社会改革并达成广泛社会共识（[[Torsten Husén\|Husén, 1994]]; Tyack & Cuban, 1995）。 |
-> | **课程规制与一致性取向** | 关注从国家规定课程到教材、课堂教学与实际学习的课程流转，将课程深度连贯性与教材标准化视为系统协调的核心中枢（Cogan et al., 2001; Schmidt et al., 2005）。 |
+> | **[[Curricular Governance\|课程治理]]与一致性取向** | 关注从国家规定课程到教材、课堂教学与实际学习的课程流转，将课程深度连贯性与教材标准化视为系统协调的核心中枢（Cogan et al., 2001; Schmidt et al., 2005）。 |
 > | **麦肯锡改进阶段论** | 依据系统初始绩效水平划分改进阶梯，主张低绩效系统依赖高度规范指令，高绩效系统逐步转向专业分权（Mourshed et al., 2010）。 |
 
 > [!warrant]- 理论工具的整合功能与解释机制
@@ -127,7 +130,7 @@ issuing_organization: ""
 > |---|---|---|---|---|
 > | **理性选择与[[New Public Management\|新公共管理]]** | 行动者依据激励结构最大化自身利益；市场竞争与问责驱动质量提升 | 简政分权、办学绩效排名、[[High-Stakes Testing\|高利害测验]]、[[Performance Pay\|绩效工资]]、引入民营赞助主体 | Becker (1976); Hood (1991) | 将干预措施与复杂情境人为割裂；容易催生应试导向、窄化课程与校际分化 |
 > | **教育变革的文化取向** | 教育系统由历史、身份与深层社会规范建构；学校文法具有强大组织抗变惯性 | 渐进式文化重构、寻求社会广泛共识、推动涵盖经济民生的综合社会改革、发展横向专业共同体 | [[Torsten Husén\|Husén (1994)]]; Tyack and Cuban (1995); [[Michael Fullan\|Fullan (2016)]] | 变革周期极其漫长；在缺乏外部推力时容易陷入组织内卷与行动迟缓 |
-> | **课程治理与流转取向** | 规定课程通过教材与教学材料转化为课堂实践；系统连贯性决定学习效能 | 建立强有力的国家课程中枢、统一高质量教科书、对齐教学目标、内容、方法与评估 | Cogan et al. (2001); Schmidt et al. (2005); Valverde (2014) | 过度强调学科知识逻辑可能压制地方灵活性与校本创新活力 |
+> | **[[Curricular Governance\|课程治理]]与流转取向** | 规定课程通过教材与教学材料转化为课堂实践；系统连贯性决定学习效能 | 建立强有力的国家课程中枢、统一高质量教科书、对齐教学目标、内容、方法与评估 | Cogan et al. (2001); Schmidt et al. (2005); Valverde (2014) | 过度强调学科知识逻辑可能压制地方灵活性与校本创新活力 |
 > | **麦肯锡阶段改进论** | 全球系统沿共同阶梯向上演进；改进路径严格取决于系统绩效初始起点 | 依据初始分段匹配政策包：低绩效系统抓标准化脚本与严规制，高绩效系统放权专业自主 | Mourshed et al. (2010); Barber et al. (2011) | 带有机械线性指令色彩；缺乏因果检验与[[Counterfactual\|反事实]]依据，遮蔽各国本土历史语境（Morris, 2015） |
 
 ---
@@ -252,7 +255,7 @@ issuing_organization: ""
 > [!sub-claim] 2. 课堂教学是改革的最终落脚点，扎根课堂的现场指导优于脱产讲座
 
 > [!policy-design] 教师专业资本投资与全周期能力建设
-> - **澳大利亚维多利亚州埃尔莫尔模型** Elmore (2007) 对维多利亚州改革评估指出，学校改进必须通过深思熟虑且连贯地投资于广大教师与教育人员的专业知识与技能来实现，其余一切制度设计均属辅助工具。维多利亚州将政策重心集中投向教师教学知识体系的重塑。
+> - **澳大利亚维多利亚州埃尔莫尔模型** Elmore (2007) 对维多利亚州改革评估指出，学校改进必须通过深思熟虑且连贯地投资于广大教师与教育人员的专业知识与技能来实现，其余一切制度设计均属辅助工具。维多利亚州将政策重心集中投向围绕微观[[Instructional Core|教学核心]]（Instructional Core）的教师教学知识体系重塑。
 > - **加拿大安大略省全链条专业发展** Osmond-Johnson and Campbell (2018) 指出，安大略省建立涵盖准入招募、入职浸润、常态化研修、专业认可、劳动保障与职级晋升的全周期专业资本支持机制，将教师能力提升与学业成效紧密关联。
 
 > [!case] 扎根现场的导师带教与校本教练网络
@@ -266,8 +269,8 @@ issuing_organization: ""
 
 > [!sub-claim] 3. 惩罚性问责容易导致应试扭曲，基于数据的专业支持才能改进实践
 
-> [!tension] 支持性专业问责（安大略）与高利害结构替代（伦敦学院）的治理模式对照
-> - **支持性专业问责范式（加拿大安大略省）** 倡导避免公开排名的支持性专业问责。当数据监测发现学校表现不佳时，上级行政部门免除公开惩戒或名誉贬损，直接派遣专业支持团队进驻，提供针对性诊断、教研指导与教学资源补充，以促进微观实践改进为唯一宗旨（Fullan & Rincon-Gallardo, 2016; Osmond-Johnson & Campbell, 2018）。
+> [!tension] 支持性[[Professional Accountability|专业问责]]（安大略）与高利害结构替代（伦敦学院）的治理模式对照
+> - **支持性专业问责范式（加拿大安大略省）** 倡导避免公开排名的支持性[[Professional Accountability|专业问责]]（Professional Accountability: results without rancor or ranking）。当数据监测发现学校表现不佳时，上级行政部门免除公开惩戒或名誉贬损，直接派遣专业支持团队进驻，提供针对性诊断、教研指导与教学资源补充，以促进微观实践改进为唯一宗旨（Fullan & Rincon-Gallardo, 2016; Osmond-Johnson & Campbell, 2018）。
 > - **高利害结构替代范式（英国伦敦挑战计划）** 依托密集的数据对标监控学校质量；对持续无法达标的薄弱学校实施坚决的行政剥离，撤销原学校行政编制，交由政府认可的非营利慈善基金会或教育信托组织以赞助学院模式全面重组接管（McAleavy & Elwick, 2016）。
 
 > [!boundary] 宏观政策与微观教学的脱节风险
@@ -283,7 +286,7 @@ issuing_organization: ""
 
 > [!policy-design] 针对弱势学校的资源倾斜与[[Structured Teaching|结构化教学]]供给
 > - **智利 P.900 弱势小学专项资助** Cox (2004) 系统梳理了智利 1990 至 2003 年的教育平权改革。智利推行著名的 P.900 计划，锁定全国学业表现后 10% 的初等学校实施全方位补偿支持；国家公共教育财政投入增长超过三倍，向全国 92% 接受国家资助的学生免费配发全套 5 门核心学科教材，建立覆盖中小学的计算机网络基础设施；推行全日制学校改革（Jornada Escolar Completa, JEC），系统扩充学生的课堂在校有效学习时间。
-> - **南非豪登省教材教具与教学指导交付** Fleisch (2016) 对南非教育改革的研究表明，针对资源匮乏与师资薄弱环境，行之有效的策略是将优质教学材料的精准配发与到校教学教练紧密嵌合。向一线教师直接提供结构化脚本式教案、分级阅读图书，配合常态化教学教练随堂指导，成功实现了微观教学实践的规制与提升。
+> - **南非豪登省教材教具与教学指导交付** Fleisch (2016) 对南非基础教育[[Instructional Core|教学核心]]（Instructional Core）系统改进的研究表明，针对资源匮乏与师资薄弱环境，行之有效的策略是将优质教学材料的精准配发与到校教学教练紧密嵌合。向一线教师直接提供结构化脚本式教案、分级阅读图书，配合常态化教学教练随堂指导，成功实现了微观教学实践的规制与提升。
 
 > [!mechanism] 推迟学段分流与扩充[[Effective Teaching|有效教学]]时间：波兰学制改革
 > 波兰 1999 年改革在小学与高中之间创设独立的初级中学，强制将原本在初中阶段便过早分流的职业教育延后一年，使全体学生在 16 岁前接受均质化的[[General Education|通识教育]]；同时显著增加了核心学科的在校教学课时，成为波兰在 PISA 测试中大幅缩小学生学业差距的核心制度根源（Bin Mahfooz & Hovde, 2010; Jakubowski, 2015）。

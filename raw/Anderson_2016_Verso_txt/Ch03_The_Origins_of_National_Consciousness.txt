@@ -1,0 +1,122 @@
+Imagined Communities: Reflections on the Origin and Spread of Nationalism
+Benedict Anderson | Verso
+
+3: The Origins of National Consciousness
+
+[Page markers follow the supplied EPUB. Bracketed note numbers point to notes in the same reading section.]
+
+
+=== Chapter text ===
+
+[p. 39]
+The Origins of National Consciousness
+
+[EPUB image: lineOwenProctorJacksonvalidcommenthotmail]
+
+If the development of print-as-commodity is the key to the generation of wholly new ideas of simultaneity, still, we are simply at the point where communities of the type ‘horizontal-secular, transverse-time’ become possible. Why, within that type, did the nation become so popular? The factors involved are obviously complex and various. But a strong case can be made for the primacy of capitalism.
+
+As already noted, at least 20,000,000 books had already been printed by 1500,[1] signalling the onset of Benjamin’s ‘age of mechanical reproduction.’ If manuscript knowledge was scarce and arcane lore, print knowledge lived by reproducibility and dissemination.[2] If, as Febvre and Martin believe, possibly as many as 200,000,000 volumes had been manufactured by 1600, it is no wonder that Francis Bacon believed that print had changed ‘the appearance and state of the world.’[3]
+
+One of the earlier forms of capitalist enterprise, book-publishing felt all of capitalism’s restless search for markets. The early printers
+[p. 40]
+established branches all over Europe: ‘in this way a veritable “international” of publishing houses, which ignored national [sic] frontiers, was created.’[4] And since the years 1500–1550 were a period of exceptional European prosperity, publishing shared in the general boom. ‘More than at any other time’ it was ‘a great industry under the control of wealthy capitalists.’[5] Naturally, ‘book-sellers were primarily concerned to make a profit and to sell their products, and consequently they sought out first and foremost those works which were of interest to the largest possible number of their contemporaries.’[6]
+
+The initial market was literate Europe, a wide but thin stratum of Latin-readers. Saturation of this market took about a hundred and fifty years. The determinative fact about Latin – aside from its sacrality – was that it was a language of bilinguals. Relatively few were born to speak it and even fewer, one imagines, dreamed in it. In the sixteenth century the proportion of bilinguals within the total population of Europe was quite small; very likely no larger than the proportion in the world’s population today, and – proletarian internationalism notwithstanding – in the centuries to come. Then and now the bulk of mankind is monoglot. The logic of capitalism thus meant that once the elite Latin market was saturated, the potentially huge markets represented by the monoglot masses would beckon. To be sure, the Counter-Reformation encouraged a temporary resurgence of Latin-publishing, but by the mid-seventeenth century the movement was in decay, and fervently Catholic libraries replete. Meantime, a Europe-wide shortage of money made printers think more and more of peddling cheap editions in the vernaculars.[7]
+
+The revolutionary vernacularizing thrust of capitalism was given further impetus by three extraneous factors, two of which
+[p. 41]
+contributed directly to the rise of national consciousness. The first, and ultimately the least important, was a change in the character of Latin itself. Thanks to the labours of the Humanists in reviving the broad literature of pre-Christian antiquity and spreading it through the print-market, a new appreciation of the sophisticated stylistic achievements of the ancients was apparent among the trans-European intelligentsia. The Latin they now aspired to write became more and more Ciceronian, and, by the same token, increasingly removed from ecclesiastical and everyday life. In this way it acquired an esoteric quality quite different from that of Church Latin in mediaeval times. For the older Latin was not arcane because of its subject matter or style, but simply because it was written at all, i.e. because of its status as text. Now it became arcane because of what was written, because of the language-in-itself.
+
+Second was the impact of the Reformation, which, at the same time, owed much of its success to print-capitalism. Before the age of print, Rome easily won every war against heresy in Western Europe because it always had better internal lines of communication than its challengers. But when in 1517 Martin Luther nailed his theses to the chapel-door in Wittenberg, they were printed up in German translation, and ‘within 15 days [had been] seen in every part of the country.’[8] In the two decades 1520–1540 three times as many books were published in German as in the period 1500–1520, an astonishing transformation to which Luther was absolutely central. His works represented no less than one third of all German-language books sold between 1518 and 1525. Between 1522 and 1546, a total of 430 editions (whole or partial) of his Biblical translations appeared. ‘We have here for the first time a truly mass readership and a popular literature within everybody’s reach.’[9] In effect, Luther became the first best-selling author so known. Or, to put it another way, the first writer who could ‘sell’ his new books on the basis of his name.[10]
+
+[p. 42]
+Where Luther led, others quickly followed, opening the colossal religious propaganda war that raged across Europe for the next century. In this titanic ‘battle for men’s minds’, Protestantism was always fundamentally on the offensive, precisely because it knew how to make use of the expanding vernacular print-market being created by capitalism, while the Counter-Reformation defended the citadel of Latin. The emblem for this is the Vatican’s Index Librorum Prohibitorum – to which there was no Protestant counterpart – a novel catalogue made necessary by the sheer volume of printed subversion. Nothing gives a better sense of this siege mentality than François I’s panicked 1535 ban on the printing of any books in his realm – on pain of death by hanging! The reason for both the ban and its unenforceability was that by then his realm’s eastern borders were ringed with Protestant states and cities producing a massive stream of smugglable print. To take Calvin’s Geneva alone: between 1533 and 1540 only 42 editions were published there, but the numbers swelled to 527 between 1550 and 1564, by which latter date no less than 40 separate printing-presses were working overtime.[11]
+
+The coalition between Protestantism and print-capitalism, exploiting cheap popular editions, quickly created large new reading publics – not least among merchants and women, who typically knew little or no Latin – and simultaneously mobilized them for politico-religious purposes. Inevitably, it was not merely the Church that was shaken to its core. The same earthquake produced Europe’s first important non-dynastic, non-city states in the Dutch Republic and the Commonwealth of the Puritans. (François I’s panic was as much political as religious.)
+
+Third was the slow, geographically uneven, spread of particular vernaculars as instruments of administrative centralization by certain well-positioned would-be absolutist monarchs. Here it is useful to remember that the universality of Latin in mediaeval Western Europe never corresponded to a universal political system. The
+[p. 43]
+contrast with Imperial China, where the reach of the mandarinal bureaucracy and of painted characters largely coincided, is instructive. In effect, the political fragmentation of Western Europe after the collapse of the Western Empire meant that no sovereign could monopolize Latin and make it his-and-only-his language-of-state, and thus Latin’s religious authority never had a true political analogue.
+
+The birth of administrative vernaculars predated both print and the religious upheaval of the sixteenth century, and must therefore be regarded (at least initially) as an independent factor in the erosion of the sacred imagined community. At the same time, nothing suggests that any deep-seated ideological, let alone proto-national, impulses underlay this vernacularization where it occurred. The case of ‘England’ – on the northwestern periphery of Latin Europe – is here especially enlightening. Prior to the Norman Conquest, the language of the court, literary and administrative, was Anglo-Saxon. For the next century and a half virtually all royal documents were composed in Latin. Between about 1200 and 1350 this state-Latin was superseded by Norman French. In the meantime, a slow fusion between this language of a foreign ruling class and the Anglo-Saxon of the subject population produced Early English. The fusion made it possible for the new language to take its turn, after 1362, as the language of the courts – and for the opening of Parliament. Wycliffe’s vernacular manuscript Bible followed in 1382.[12] It is essential to bear in mind that this sequence was a series of ‘state,’ not ‘national,’ languages; and that the state concerned covered at various times not only today’s England and Wales, but also portions of Ireland, Scotland and France. Obviously, huge elements of the subject populations knew little or nothing of Latin, Norman French, or Early English.[13] Not till almost a century after Early English’s political enthronement was London’s power swept out of ‘France’.
+
+[p. 44]
+On the Seine, a similar movement took place, if at a slower pace. As Bloch wryly puts it, ‘French, that is to say a language which, since it was regarded as merely a corrupt form of Latin, took several centuries to raise itself to literary dignity’,[14] only became the official language of the courts of justice in 1539, when François I issued the Edict of Villers-Cotterêts.[15] In other dynastic realms Latin survived much longer – under the Habsburgs well into the nineteenth century. In still others, ‘foreign’ vernaculars took over: in the eighteenth century the languages of the Romanov court were French and German.[16]
+
+In every instance, the ‘choice’ of language appears as a gradual, unselfconscious, pragmatic, not to say haphazard development. As such, it was utterly different from the selfconscious language policies pursued by nineteenth-century dynasts confronted with the rise of hostile popular linguistic-nationalisms. (See below, Chapter 6). One clear sign of the difference is that the old administrative languages were just that: languages used by and for officialdoms for their own inner convenience. There was no idea of systematically imposing the language on the dynasts’ various subject populations.[17] Nonetheless, the elevation of these vernaculars to the status of languages-of-power, where, in one sense, they were competitors with Latin (French in Paris, [Early] English in London), made its own contribution to the decline of the imagined community of Christendom.
+
+At bottom, it is likely that the esotericization of Latin, the Reformation, and the haphazard development of administrative vernaculars are significant, in the present context, primarily in a negative sense – in their contributions to the dethronement of Latin. It is quite possible to conceive of the emergence of the new imagined national communities without any one, perhaps all, of them being present. What, in a positive sense, made the new communities imaginable was a
+[p. 45]
+half-fortuitous, but explosive, interaction between a system of production and productive relations (capitalism), a technology of communications (print), and the fatality of human linguistic diversity.[18]
+
+The element of fatality is essential. For whatever superhuman feats capitalism was capable of, it found in death and languages two tenacious adversaries.[19] Particular languages can die or be wiped out, but there was and is no possibility of humankind’s general linguistic unification. Yet this mutual incomprehensibility was historically of only slight importance until capitalism and print created monoglot mass reading publics.
+
+While it is essential to keep in mind an idea of fatality, in the sense of a general condition of irremediable linguistic diversity, it would be a mistake to equate this fatality with that common element in nationalist ideologies which stresses the primordial fatality of particular languages and their association with particular territorial units. The essential thing is the interplay between fatality, technology, and capitalism. In pre-print Europe, and, of course, elsewhere in the world, the diversity of spoken languages, those languages that for their speakers were (and are) the warp and woof of their lives, was immense; so immense, indeed, that had print-capitalism sought to exploit each potential oral vernacular market, it would have remained a capitalism of petty proportions. But these varied idiolects were capable of being assembled, within definite limits, into print-languages far fewer in number. The very arbitrariness of any system of signs for sounds facilitated the assembling process.[20] (At the same
+[p. 46]
+time, the more ideographic the signs, the vaster the potential assembling zone. One can detect a sort of descending hierarchy here from algebra through Chinese and English, to the regular syllabaries of French or Indonesian.) Nothing served to ‘assemble’ related vernaculars more than capitalism, which, within the limits imposed by grammars and syntaxes, created mechanically reproduced print-languages capable of dissemination through the market.[21]
+
+These print-languages laid the bases for national consciousnesses in three distinct ways. First and foremost, they created unified fields of exchange and communication below Latin and above the spoken vernaculars. Speakers of the huge variety of Frenches, Englishes, or Spanishes, who might find it difficult or even impossible to understand one another in conversation, became capable of comprehending one another via print and paper. In the process, they gradually became aware of the hundreds of thousands, even millions, of people in their particular language-field, and at the same time that only those hundreds of thousands, or millions, so belonged. These fellow-readers, to whom they were connected through print, formed, in their secular, particular, visible invisibility, the embryo of the nationally imagined community.
+
+Second, print-capitalism gave a new fixity to language, which in the long run helped to build that image of antiquity so central to the subjective idea of the nation. As Febvre and Martin remind us, the printed book kept a permanent form, capable of virtually infinite reproduction, temporally and spatially. It was no longer subject to the individualizing and ‘unconsciously modernizing’ habits of monastic scribes. Thus, while twelfth-century French differed markedly from that written by Villon in the fifteenth, the rate of change slowed decisively in the sixteenth. ‘By the 17th century
+[p. 47]
+languages in Europe had generally assumed their modern forms.’[22] To put it another way, for three centuries now these stabilized print-languages have been gathering a darkening varnish; the words of our seventeenth-century forebears are accessible to us in a way that to Villon his twelfth-century ancestors were not.
+
+Third, print-capitalism created languages-of-power of a kind different from the older administrative vernaculars. Certain dialects inevitably were ‘closer’ to each print-language and dominated their final forms. Their disadvantaged cousins, still assimilable to the emerging print-language, lost caste, above all because they were unsuccessful (or only relatively successful) in insisting on their own print-form. ‘Northwestern German’ became Platt Deutsch, a largely spoken, thus sub-standard, German, because it was assimilable to print-German in a way that Bohemian spoken-Czech was not. High German, the King’s English, and, later, Central Thai, were correspondingly elevated to a new politico-cultural eminence. (Hence the struggles in late-twentieth-century Europe by certain ‘sub-’ nationalities to change their subordinate status by breaking firmly into print – and radio.)
+
+It remains only to emphasize that in their origins, the fixing of print-languages and the differentiation of status between them were largely unselfconscious processes resulting from the explosive interaction between capitalism, technology and human linguistic diversity. But as with so much else in the history of nationalism, once ‘there,’ they could become formal models to be imitated, and, where expedient, consciously exploited in a Machiavellian spirit. Today, the Thai government actively discourages attempts by foreign missionaries to provide its hill-tribe minorities with their own transcription-systems and to develop publications in their own languages: the same government is largely indifferent to what these minorities speak. The fate of the Turkic-speaking peoples in the zones incorporated into today’s Turkey, Iran, Iraq, and the USSR is especially exemplary. A family of spoken languages, once everywhere assemblable, thus comprehensible, within an Arabic orthography, has lost that unity as a result of conscious manipulations. To heighten Turkish–Turkey’s national consciousness at the
+[p. 48]
+expense of any wider Islamic identification, Atatürk imposed compulsory romanization.[23] The Soviet authorities followed suit, first with an anti-Islamic, anti-Persian compulsory romanization, then, in Stalin’s 1930s, with a Russifying compulsory Cyrillicization.[24]
+
+We can summarize the conclusions to be drawn from the argument thus far by saying that the convergence of capitalism and print technology on the fatal diversity of human language created the possibility of a new form of imagined community, which in its basic morphology set the stage for the modern nation. The potential stretch of these communities was inherently limited, and, at the same time, bore none but the most fortuitous relationship to existing political boundaries (which were, on the whole, the highwater marks of dynastic expansionisms).
+
+Yet it is obvious that while today almost all modern self-conceived nations – and also nation-states – have ‘national print-languages’, many of them have these languages in common, and in others only a tiny fraction of the population ‘uses’ the national language in conversation or on paper. The nation-states of Spanish America or those of the ‘Anglo-Saxon family’ are conspicuous examples of the first outcome; many ex-colonial states, particularly in Africa, of the second. In other words, the concrete formation of contemporary nation-states is by no means isomorphic with the determinate reach of particular print-languages. To account for the discontinuity-in-connectedness between print-languages, national consciousness, and nation-states, it is necessary to turn to the large cluster of new political entities that sprang up in the Western hemisphere between 1776 and 1838, all of which self-consciously defined themselves as nations, and, with the interesting exception of Brazil, as (non-dynastic) republics. For not only were they historically the first such states to emerge on the world stage, and therefore inevitably provided the first real models of what such states should ‘look like,’ but their numbers and contemporary births offer fruitful ground for comparative enquiry.
+
+1. The population of that Europe where print was then known was about 100,000,000. Febvre and Martin, The Coming of the Book, pp. 248–49.
+
+2. Emblematic is Marco Polo’s Travels, which remained largely unknown till its first printing in 1559. Polo, Travels, p. xiii.
+
+3. Quoted in Eisenstein, ‘Some Conjectures,’ p. 56.
+
+4. Febvre and Martin, The Coming of the Book, p. 122. (The original text, however, speaks simply of ’par-dessus les frontières.’ L’Apparition, p. 184.)
+
+5. Ibid., p. 187. The original text speaks of ‘puissants’ (powerful) rather than ‘wealthy’ capitalists. L’Apparition, p. 281.
+
+6. ‘Hence the introduction of printing was in this respect a stage on the road to our present society of mass consumption and standardisation.’ Ibid., pp. 259–60. (The original text has ‘une civilisation de masse et de standardisation,’ which may be better rendered ‘standardised, mass civilization.’ L’Apparition, p. 394).
+
+7. Ibid., p. 195.
+
+8. Ibid., pp. 289–90.
+
+9. Ibid., pp. 291–95.
+
+10. From this point it was only a step to the situation in seventeenth-century France where Corneille, Molière, and La Fontaine could sell their manuscript tragedies and comedies directly to publishers, who bought them as excellent investments in view of their authors’ market reputations. Ibid., p. 161.
+
+11. Ibid., pp. 310–15.
+
+12. Seton-Watson, Nations and States, pp. 28–29; Bloch, Feudal Society, I, p. 75.
+
+13. We should not assume that administrative vernacular unification was immediately or fully achieved. It is unlikely that the Guyenne ruled from London was ever primarily administered in Early English.
+
+14. Bloch, Feudal Society, I, p. 98.
+
+15. Seton-Watson, Nations and States, p. 48.
+
+16. Ibid., p. 83.
+
+17. An agreeable confirmation of this point is provided by François I, who, as we have seen, banned all printing of books in 1535 and made French the language of his courts four years later!
+
+18. It was not the first ‘accident’ of its kind. Febvre and Martin note that while a visible bourgeoisie already existed in Europe by the late thirteenth century, paper did not come into general use until the end of the fourteenth. Only paper’s smooth plane surface made the mass reproduction of texts and pictures possible – and this did not occur for still another seventy-five years. But paper was not a European invention. It floated in from another history – China’s – through the Islamic world. The Coming of the Book, pp. 22, 30, and 45.
+
+19. We still have no giant multinationals in the world of publishing.
+
+20. For a useful discussion of this point, see S. H. Steinberg, Five Hundred Years of Printing, chapter 5. That the sign ough is pronounced differently in the words although, bough, lough, rough, cough, and hiccough, shows both the idiolectic variety out of which the now-standard spelling of English emerged, and the ideographic quality of the final product.
+
+21. I say ‘nothing served . . . more than capitalism’ advisedly. Both Steinberg and Eisenstein come close to theomorphizing ‘print’ qua print as the genius of modern history. Febvre and Martin never forget that behind print stand printers and publishing firms. It is worth remembering in this context that although printing was invented first in China, possibly 500 years before its appearance in Europe, it had no major, let alone revolutionary impact – precisely because of the absence of capitalism there.
+
+22. The Coming of the Book, p. 319. Cf. L’Apparition, p. 477: ‘Au XVIIe siècle, les langues nationales apparaissent un peu partout cristallisées.’
+
+23. Hans Kohn, The Age of Nationalism, p. 108. It is probably only fair to add that Kemal also hoped thereby to align Turkish nationalism with the modern, romanized civilization of Western Europe.
+
+24. Seton-Watson, Nations and States, p. 317.
+
+This eBook is licensed to Owen Proctor-Jackson, validcomment@hotmail.com on 09/07/2019

@@ -3254,6 +3254,11 @@
     ]
   },
   {
+    "title": "Curricular Governance",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Curricular Governance.md"
+  },
+  {
     "title": "Curriculum as Praxis",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Curriculum as Praxis.md",
@@ -7193,6 +7198,11 @@
     ]
   },
   {
+    "title": "Professional Accountability",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Professional Accountability.md"
+  },
+  {
     "title": "Professional Judgment",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Professional Judgment.md",
@@ -11057,6 +11067,14 @@
       "guided inquiry",
       "指导式探究",
       "探究学习"
+    ]
+  },
+  {
+    "title": "Instructional Core",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Instructional Core.md",
+    "aliases": [
+      "the instructional core"
     ]
   },
   {
@@ -48765,6 +48783,11 @@
       "Simon Bolivar United World College of Agriculture"
     ],
     "subtype": "program"
+  },
+  {
+    "title": "Argument_Anderson_2016_Verso",
+    "type": "argument",
+    "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso.md"
   },
   {
     "title": "Argument_Bates_2017_CognitionEducationTrust",

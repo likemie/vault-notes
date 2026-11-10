@@ -1,0 +1,184 @@
+Imagined Communities: Reflections on the Origin and Spread of Nationalism
+Benedict Anderson | Verso
+
+1: Introduction
+
+[Page markers follow the supplied EPUB. Bracketed note numbers point to notes in the same reading section.]
+
+
+=== Acknowledgments ===
+
+[EPUB image: lineOwenProctorJacksonvalidcommenthotmail]
+
+[p. ix]
+Acknowledgments
+
+[EPUB image: lineOwenProctorJacksonvalidcommenthotmail]
+
+As will be apparent to the reader, my thinking about nationalism has been deeply affected by the writings of Erich Auerbach, Walter Benjamin and Victor Turner. In preparing the book itself, I have benefitted enormously from the criticism and advice of my brother Perry Anderson, Anthony Barnett, and Steve Heder. J. A. Ballard, Mohamed Chambas, Peter Katzenstein, the late Rex Mortimer, Francis Mulhern, Tom Nairn, Shiraishi Takashi, Jim Siegel, Laura Summers, and Esta Ungar also gave me invaluable help in different ways. Naturally, none of these friendly critics should be held in any way accountable for the text’s deficiencies, which are wholly my responsibility. I should perhaps add that I am by training and profession a specialist on Southeast Asia. This admission may help to explain some of the book’s biases and choices of examples, as well as to deflate its would-be-global pretensions.
+
+This eBook is licensed to Owen Proctor-Jackson, validcomment@hotmail.com on 09/07/2019
+
+
+=== Epigraphs ===
+
+[p. x]
+He regards it as his task to brush history against the grain.
+
+Walter Benjamin, Illuminations
+
+Thus from a Mixture of all kinds began,
+
+That Het’rogeneous Thing, An Englishman:
+
+In eager Rapes, and furious Lust begot,
+
+Betwixt a Painted Britton and a Scot:
+
+Whose gend’ring Offspring quickly learnt to bow,
+
+And yoke their Heifers to the Roman Plough:
+
+From whence a Mongrel half-bred Race there came,
+
+With neither Name nor Nation, Speech or Fame.
+
+In whose hot Veins now Mixtures quickly ran,
+
+Infus’d betwixt a Saxon and a Dane.
+
+While their Rank Daughters, to their Parents just,
+
+Receiv’d all Nations with Promiscuous Lust.
+
+This Nauseous Brood directly did contain
+
+The well-extracted Blood of Englishmen . . .
+
+From Daniel Defoe, The True-Born Englishman
+
+This eBook is licensed to Owen Proctor-Jackson, validcomment@hotmail.com on 09/07/2019
+
+
+=== Preface to the Second Edition ===
+
+[EPUB image: lineOwenProctorJacksonvalidcommenthotmail]
+
+[p. xi]
+Preface to the Second Edition
+
+[EPUB image: lineOwenProctorJacksonvalidcommenthotmail]
+
+Who would have thought that the storm blows harder the farther it leaves Paradise behind?
+
+The armed conflicts of 1978–79 in Indochina, which provided the immediate occasion for the original text of Imagined Communities, seem already, a mere twelve years later, to belong to another era. Then I was haunted by the prospect of further full-scale wars between the socialist states. Now half these states have joined the debris at the Angel’s feet, and the rest are fearful of soon following them. The wars that the survivors face are civil wars. The likelihood is strong that by the opening of the new millennium little will remain of the Union of Soviet Socialist Republics except . . . republics.
+
+Should all this have somehow been foreseen? In 1983 I wrote that the Soviet Union was ‘as much the legatee of the prenational dynastic states of the nineteenth century as the precursor of a twenty-first century internationalist order.’ But, having traced the nationalist explosions that destroyed the vast polyglot and polyethnic realms which were ruled from Vienna, London, Constantinople, Paris and Madrid, I could not see that the train was laid at least as far as Moscow. It is melancholy consolation to observe that history seems to be bearing out the ‘logic’ of Imagined Communities better than its author managed to do.
+
+[p. xii]
+It is not only the world that has changed its face over the past twelve years. The study of nationalism too has been startlingly transformed – in method, scale, sophistication, and sheer quantity. In the English language alone, J.A. Armstrong’s Nations Before Nationalism (1982), John Breuilly’s Nationalism and the State (1982), Ernest Gellner’s Nations and Nationalism (1983), Miroslav Hroch’s Social Preconditions of National Revival in Europe (1985), Anthony Smith’s The Ethnic Origins of Nations (1986), P. Chatterjee’s Nationalist Thought and the Colonial World (1986), and Eric Hobsbawm’s Nations and Nationalism since 1788 (1990) – to name only a few of the key texts – have, by their historical reach and theoretical power, made largely obsolete the traditional literature on the subject. In part out of these works has developed an extraordinary proliferation of historical, literary, anthropological, sociological, feminist, and other studies linking the objects of these fields of enquiry to nationalism and nation.[1]
+
+To adapt Imagined Communities to the demands of these vast changes in the world and in the text is a task beyond my present means. It seemed better, therefore, to leave it largely as an ‘unrestored’ period piece, with its own characteristic style, silhouette, and mood. Two things give me comfort. On the one hand, the full final outcome of developments in the old socialist world remain shrouded in the obscurity ahead. On the other hand, the idiosyncratic method and preoccupations of Imagined Communities seem to me still on the margins of the newer scholarship on nationalism – in that sense, at least, not fully superseded.
+
+What I have tried to do, in the present edition, is simply to correct errors of fact, conception, and interpretation which I should have avoided in preparing the original version. These corrections – in the spirit of 1983, as it were – involve some alterations of the first edition, as well as two new chapters, which basically have the character of discrete appendices.
+
+In the main text, I discovered two serious errors of translation, at least one unfulfilled promise, and one misleading emphasis. Unable to read Spanish in 1983, I thoughtlessly relied on Leon Ma. Guerrero’s
+[p. xiii]
+English translation of José Rizal’s Noli Me Tangere, although earlier translations were available. It was only in 1990 that I discovered how fascinatingly corrupt Guerrero’s version was. For a long, important quotation from Otto Bauer’s Die Nationalitätenfrage und die Sozialdemokratie I lazily relied on Oscar Jászi’s translation. More recent consultation of the German original has shown me how far Jászi’s political predilections tinted his citations. In at least two passages I had faithlessly promised to explain why Brazilian nationalism developed so late and so idiosyncratically by comparison with those of other Latin American countries. The present text attempts to fulfil the broken pledge.
+
+It had been part of my original plan to stress the New World origins of nationalism. My feeling had been that an unselfconscious provincialism had long skewed and distorted theorizing on the subject. European scholars, accustomed to the conceit that everything important in the modern world originated in Europe, too easily took ‘second generation’ ethnolinguistic nationalisms (Hungarian, Czech, Greek, Polish, etc.) as the starting point in their modelling, no matter whether they were ‘for’ or ‘against’ nationalism. I was startled to discover, in many of the notices of Imagined Communities, that this Eurocentric provincialism remained quite undisturbed, and that the crucial chapter on the originating Americas was largely ignored. Unfortunately, I have found no better ‘instant’ solution to this problem than to retitle Chapter 4 as ‘Creole Pioneers.’
+
+The two ‘appendices’ try to correct serious theoretical flaws in the first edition.[2] A number of friendly critics had suggested that Chapter 7 (‘The Last Wave’) oversimplified the process whereby early ‘Third World’ nationalisms were modelled. Furthermore the chapter did not seriously address the question of the role of the local colonial state, rather than the metropole, in styling these nationalisms. At the same time, I became uneasily aware that what I had believed to be a
+[p. xiv]
+significantly new contribution to thinking about nationalism – changing apprehensions of time – patently lacked its necessary coordinate: changing apprehensions of space. A brilliant doctoral thesis by Thongchai Winichakul, a young Thai historian, stimulated me to think about mapping’s contribution to the nationalist imagination.
+
+‘Census, Map, Museum’ therefore analyses the way in which, quite unconsciously, the nineteenth-century colonial state (and policies that its mindset encouraged) dialectically engendered the grammar of the nationalisms that eventually arose to combat it. Indeed, one might go so far as to say that the state imagined its local adversaries, as in an ominous prophetic dream, well before they came into historical existence. To the forming of this imagining, the census’s abstract quantification/serialization of persons, the map’s eventual logoization of political space, and the museum’s ‘ecumenical,’ profane genealogizing made interlinked contributions.
+
+The origin of the second ‘appendix’ was the humiliating recognition that in 1983 I had quoted Renan without the slightest understanding of what he had actually said: I had taken as something easily ironical what was in fact utterly bizarre. The humiliation also forced me to realize that I had offered no intelligible explanation of exactly how, and why, new-emerging nations imagined themselves antique. What appeared in most of the scholarly writings as Machiavellian hocus-pocus, or as bourgeois fantasy, or as disinterred historical truth, struck me now as deeper and more interesting. Supposing ‘antiquity’ were, at a certain historical juncture, the necessary consequence of ‘novelty’? If nationalism was, as I supposed it, the expression of a radically changed form of consciousness, should not awareness of that break, and the necessary forgetting of the older consciousness, create its own narrative? Seen from this perspective, the atavistic fantasizing characteristic of most nationalist thought after the 1820s appears an epiphenomenon; what is really important is the structural alignment of post-1820s nationalist ‘memory’ with the inner premises and conventions of modern biography and autobiography.
+
+Aside from any theoretical merits or demerits the two ‘appendices’ may prove to have, each has its own more everyday limitations. The data for ‘Census, Map, Museum’ are drawn wholly from Southeast
+[p. xv]
+Asia. In some ways this region offers splendid opportunities for comparative theorizing since it comprises areas formerly colonized by almost all the great imperial powers (England, France, Holland, Portugal, Spain and the United States) as well as uncolonized Siam. Nonetheless, it remains to be seen whether my analysis, even if plausible for this region, can be convincingly applied around the globe. In the second appendix, the sketchy empirical material relates almost exclusively to Western Europe and the New World, regions on which my knowledge is quite superficial. But the focus had to be there since it was in these zones that the amnesias of nationalism were first voiced over.
+
+Benedict Anderson
+February 1991
+
+1. Hobsbawm has had the courage to conclude from this scholarly explosion that the age of nationalism is near its end: Minerva’s owl flies at dusk.
+
+2. The first appendix originated in a paper prepared for a conference held in Karachi in January 1989, sponsored by the World Institute for Development Economics Research of the United Nations University. A sketch for the second appeared in The Times Literary Supplement of June 13, 1986, under the rubric ‘Narrating the Nation.’
+
+This eBook is licensed to Owen Proctor-Jackson, validcomment@hotmail.com on 09/07/2019
+
+
+=== Chapter text ===
+
+[p. 1]
+Introduction
+
+[EPUB image: lineOwenProctorJacksonvalidcommenthotmail]
+
+Perhaps without being much noticed yet, a fundamental transformation in the history of Marxism and Marxist movements is upon us. Its most visible signs are the recent wars between Vietnam, Cambodia and China. These wars are of world-historical importance because they are the first to occur between regimes whose independence and revolutionary credentials are undeniable, and because none of the belligerents has made more than the most perfunctory attempts to justify the bloodshed in terms of a recognizable Marxist theoretical perspective. While it was still just possible to interpret the Sino-Soviet border clashes of 1969, and the Soviet military interventions in Germany (1953), Hungary (1956), Czechoslovakia (1968), and Afghanistan (1980) in terms of – according to taste – ‘social imperialism,’ ‘defending socialism,’ etc., no one, I imagine, seriously believes that such vocabularies have much bearing on what has occurred in Indochina.
+
+If the Vietnamese invasion and occupation of Cambodia in December 1978 and January 1979 represented the first large-scale conventional war waged by one revolutionary Marxist regime against another,[1] China’s assault on Vietnam in February rapidly confirmed
+[p. 2]
+the precedent. Only the most trusting would dare wager that in the declining years of this century any significant outbreak of interstate hostilities will necessarily find the USSR and the PRC – let alone the smaller socialist states – supporting, or fighting on, the same side. Who can be confident that Yugoslavia and Albania will not one day come to blows? Those variegated groups who seek a withdrawal of the Red Army from its encampments in Eastern Europe should remind themselves of the degree to which its overwhelming presence has, since 1945, ruled out armed conflict between the region’s Marxist regimes.
+
+Such considerations serve to underline the fact that since World War II every successful revolution has defined itself in national terms – the People’s Republic of China, the Socialist Republic of Vietnam, and so forth – and, in so doing, has grounded itself firmly in a territorial and social space inherited from the prerevolutionary past. Conversely, the fact that the Soviet Union shares with the United Kingdom of Great Britain and Northern Ireland the rare distinction of refusing nationality in its naming suggests that it is as much the legatee of the prenational dynastic states of the nineteenth century as the precursor of a twenty-first century internationalist order.[2]
+
+Eric Hobsbawm is perfectly correct in stating that ‘Marxist movements and states have tended to become national not only in form but in substance, i.e., nationalist. There is nothing to suggest
+[p. 3]
+that this trend will not continue.’[3] Nor is the tendency confined to the socialist world. Almost every year the United Nations admits new members. And many ‘old nations,’ once thought fully consolidated, find themselves challenged by ‘sub’-nationalisms within their borders – nationalisms which, naturally, dream of shedding this sub-ness one happy day. The reality is quite plain: the ‘end of the era of nationalism,’ so long prophesied, is not remotely in sight. Indeed, nation-ness is the most universally legitimate value in the political life of our time.
+
+But if the facts are clear, their explanation remains a matter of long-standing dispute. Nation, nationality, nationalism – all have proved notoriously difficult to define, let alone to analyse. In contrast to the immense influence that nationalism has exerted on the modern world, plausible theory about it is conspicuously meagre. Hugh Seton-Watson, author of far the best and most comprehensive English-language text on nationalism, and heir to a vast tradition of liberal historiography and social science, sadly observes: ‘Thus I am driven to the conclusion that no “scientific definition” of the nation can be devised; yet the phenomenon has existed and exists.’[4] Tom Nairn, author of the path-breaking The Break-up of Britain, and heir to the scarcely less vast tradition of Marxist historiography and social science, candidly remarks: ‘The theory of nationalism represents Marxism’s great historical failure.’[5] But even this confession is somewhat misleading, insofar as it can be taken to imply the regrettable outcome of a long, self-conscious search for theoretical clarity. It would be more exact to say that nationalism has proved an uncomfortable anomaly for Marxist theory and, precisely for that reason, has been largely elided, rather than confronted. How else to explain Marx’s failure to explicate the crucial adjective in his memorable formulation of
+[p. 4]
+1848: ‘The proletariat of each country must, of course, first of all settle matters with its own bourgeoisie’?[6] How else to account for the use, for over a century, of the concept ‘national bourgeoisie’ without any serious attempt to justify theoretically the relevance of the adjective? Why is this segmentation of the bourgeoisie – a world-class insofar as it is defined in terms of the relations of production – theoretically significant?
+
+The aim of this book is to offer some tentative suggestions for a more satisfactory interpretation of the ‘anomaly’ of nationalism. My sense is that on this topic both Marxist and liberal theory have become etiolated in a late Ptolemaic effort to ‘save the phenomena’; and that a reorientation of perspective in, as it were, a Copernican spirit is urgently required. My point of departure is that nationality, or, as one might prefer to put it in view of that word’s multiple significations, nation-ness, as well as nationalism, are cultural artefacts of a particular kind. To understand them properly we need to consider carefully how they have come into historical being, in what ways their meanings have changed over time, and why, today, they command such profound emotional legitimacy. I will be trying to argue that the creation of these artefacts towards the end of the eighteenth century[7] was the spontaneous distillation of a complex ‘crossing’ of discrete historical forces; but that, once created, they became ‘modular,’ capable of being transplanted, with varying degrees of self-consciousness, to a great variety of social terrains, to merge and be merged with a correspondingly wide variety of political and ideological constellations. I will also attempt to show why these particular cultural artefacts have aroused such deep attachments.
+
+[p. 5]
+CONCEPTS AND DEFINITIONS
+
+Before addressing the questions raised above, it seems advisable to consider briefly the concept of ‘nation’ and offer a workable definition. Theorists of nationalism have often been perplexed, not to say irritated, by these three paradoxes: (1) The objective modernity of nations to the historian’s eye vs. their subjective antiquity in the eyes of nationalists. (2) The formal universality of nationality as a socio-cultural concept – in the modern world everyone can, should, will ‘have’ a nationality, as he or she ‘has’ a gender – vs. the irremediable particularity of its concrete manifestations, such that, by definition, ‘Greek’ nationality is sui generis. (3) The ‘political’ power of nationalisms vs. their philosophical poverty and even incoherence. In other words, unlike most other isms, nationalism has never produced its own grand thinkers: no Hobbeses, Tocquevilles, Marxes, or Webers. This ‘emptiness’ easily gives rise, among cosmopolitan and polylingual intellectuals, to a certain condescension. Like Gertrude Stein in the face of Oakland, one can rather quickly conclude that there is ‘no there there’. It is characteristic that even so sympathetic a student of nationalism as Tom Nairn can nonetheless write that: ‘ “Nationalism” is the pathology of modern developmental history, as inescapable as “neurosis” in the individual, with much the same essential ambiguity attaching to it, a similar built-in capacity for descent into dementia, rooted in the dilemmas of helplessness thrust upon most of the world (the equivalent of infantilism for societies) and largely incurable.’[8]
+
+Part of the difficulty is that one tends unconsciously to hypostasize the existence of Nationalism-with-a-big-N (rather as one might Age-with-a-capital-A) and then to classify ‘it’ as an ideology. (Note that if everyone has an age, Age is merely an analytical expression.) It would, I think, make things easier if one treated it as if it belonged with ‘kinship’ and ‘religion’, rather than with ‘liberalism’ or ‘fascism’.
+
+[p. 6]
+In an anthropological spirit, then, I propose the following definition of the nation: it is an imagined political community – and imagined as both inherently limited and sovereign.
+
+It is imagined because the members of even the smallest nation will never know most of their fellow-members, meet them, or even hear of them, yet in the minds of each lives the image of their communion.[9] Renan referred to this imagining in his suavely back-handed way when he wrote that ‘Or l’essence d’une nation est que tous les individus aient beaucoup de choses en commun, et aussi que tous aient oublié bien des choses.’[10] With a certain ferocity Gellner makes a comparable point when he rules that ‘Nationalism is not the awakening of nations to self-consciousness: it invents nations where they do not exist.’[11] The drawback to this formulation, however, is that Gellner is so anxious to show that nationalism masquerades under false pretences that he assimilates ‘invention’ to ‘fabrication’ and ‘falsity’, rather than to ‘imagining’ and ‘creation’. In this way he implies that ‘true’ communities exist which can be advantageously juxtaposed to nations. In fact, all communities larger than primordial villages of face-to-face contact (and perhaps even these) are imagined. Communities are to be distinguished, not by their falsity/genuineness, but by the style in which they are imagined. Javanese villagers have always known that they are connected to people they have never seen, but these ties were once imagined particularistically – as indefinitely stretchable nets of kinship and clientship. Until quite recently, the Javanese language had no word meaning the abstraction ‘society.’ We may today think of the French aristocracy of the ancien régime
+[p. 7]
+as a class; but surely it was imagined this way only very late.[12] To the question ‘Who is the Comte de X?’ the normal answer would have been, not ‘a member of the aristocracy,’ but ‘the lord of X,’ ‘the uncle of the Baronne de Y,’ or ‘a client of the Duc de Z.’
+
+The nation is imagined as limited because even the largest of them, encompassing perhaps a billion living human beings, has finite, if elastic, boundaries, beyond which lie other nations. No nation imagines itself coterminous with mankind. The most messianic nationalists do not dream of a day when all the members of the human race will join their nation in the way that it was possible, in certain epochs, for, say, Christians to dream of a wholly Christian planet.
+
+It is imagined as sovereign because the concept was born in an age in which Enlightenment and Revolution were destroying the legitimacy of the divinely-ordained, hierarchical dynastic realm. Coming to maturity at a stage of human history when even the most devout adherents of any universal religion were inescapably confronted with the living pluralism of such religions, and the allomorphism between each faith’s ontological claims and territorial stretch, nations dream of being free, and, if under God, directly so. The gage and emblem of this freedom is the sovereign state.
+
+Finally, it is imagined as a community, because, regardless of the actual inequality and exploitation that may prevail in each, the nation is always conceived as a deep, horizontal comradeship. Ultimately it is this fraternity that makes it possible, over the past two centuries, for so many millions of people, not so much to kill, as willingly to die for such limited imaginings.
+
+These deaths bring us abruptly face to face with the central problem posed by nationalism: what makes the shrunken imaginings of recent history (scarcely more than two centuries) generate such colossal sacrifices? I believe that the beginnings of an answer lie in the cultural roots of nationalism.
+
+1. This formulation is chosen simply to emphasize the scale and the style of the fighting, not to assign blame. To avoid possible misunderstanding, it should be said that the December 1978 invasion grew out of armed clashes between partisans of the two revolutionary movements going back possibly as far as 1971. After April 1977, border raids, initiated by the Cambodians, but quickly followed by the Vietnamese, grew in size and scope, culminating in the major Vietnamese incursion of December 1977. None of these raids, however, aimed at overthrowing enemy regimes or occupying large territories, nor were the numbers of troops involved comparable to those deployed in December 1978. The controversy over the causes of the war is most thoughtfully pursued in: Stephen P. Heder, ‘The Kampuchean–Vietnamese Conflict,’ in David W. P. Elliott, ed., The Third Indochina Conflict, pp. 21–67; Anthony Barnett, ‘Inter-Communist Conflicts and Vietnam,’ Bulletin of Concerned Asian Scholars, 11: 4 (October–December 1979), pp. 2–9; and Laura Summers, ‘In Matters of War and Socialism Anthony Barnett would Shame and Honour Kampuchea Too Much,’ ibid., pp. 10–18.
+
+2. Anyone who has doubts about the UK’s claims to such parity with the USSR should ask himself what nationality its name denotes: Great Brito-Irish?
+
+3. Eric Hobsbawm, ‘Some Reflections on “The Break-up of Britain” ’, New Left Review, 105 (September–October 1977), p. 13.
+
+4. See his Nations and States, p. 5. Emphasis added.
+
+5. See his ‘The Modern Janus’, New Left Review, 94 (November–December 1975), p. 3. This essay is included unchanged in The Break-up of Britain as chapter 9 (pp. 329–63).
+
+6. Karl Marx and Friedrich Engels, The Communist Manifesto, in the Selected Works, I, p. 45. Emphasis added. In any theoretical exegesis, the words ‘of course’ should flash red lights before the transported reader.
+
+7. As Aira Kemiläinen notes, the twin ‘founding fathers’ of academic scholarship on nationalism, Hans Kohn and Carleton Hayes, argued persuasively for this dating. Their conclusions have, I think, not been seriously disputed except by nationalist ideologues in particular countries. Kemiläinen also observes that the word ‘nationalism’ did not come into wide general use until the end of the nineteenth century. It did not occur, for example, in many standard nineteenth century lexicons. If Adam Smith conjured with the wealth of ‘nations,’ he meant by the term no more than ‘societies’ or ‘states.’ Aira Kemiläinen, Nationalism, pp. 10, 33, and 48–49.
+
+8. The Break-up of Britain, p. 359.
+
+9. Cf. Seton-Watson, Nations and States, p. 5: ‘All that I can find to say is that a nation exists when a significant number of people in a community consider themselves to form a nation, or behave as if they formed one.’ We may translate ‘consider themselves’ as ‘imagine themselves.’
+
+10. Ernest Renan, ‘Qu’est-ce qu’une nation?’ in OEuvres Complètes, 1, p. 892. He adds: ‘tout citoyen français doit avoir oublié la Saint-Barthélemy, les massacres du Midi an XIIIe siécle. II n’y a pas en France dix familles qui puissent fournir la preuve d’une origine franque . . .’
+
+11. Ernest Gellner, Thought and Change, p. 169. Emphasis added.
+
+12. Hobsbawm, for example, ‘fixes’ it by saying that in 1789 it numbered about 400,000 in a population of 23,000,000. (See his The Age of Revolution, p. 78). But would this statistical picture of the noblesse have been imaginable under the ancien régime?
+
+This eBook is licensed to Owen Proctor-Jackson, validcomment@hotmail.com on 09/07/2019

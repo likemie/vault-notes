@@ -4937,6 +4937,8 @@
     "Cohen & Nagel (1961)": "Cohen & Nagel, 1961",
     "Cohen & Nagel, 1934": "Cohen & Nagel, 1934",
     "Cohen & Nagel, 1961": "Cohen & Nagel, 1961",
+    "Cohen & Spillane (1992)": "Cohen & Spillane, 1992",
+    "Cohen & Spillane, 1992": "Cohen & Spillane, 1992",
     "Cohen & Stewart (1995)": "Cohen & Stewart, 1995",
     "Cohen & Stewart, 1995": "Cohen & Stewart, 1995",
     "Cohen (1962)": "Cohen, 1962",
@@ -63747,6 +63749,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/curriculum/Curricular Governance.md",
         "wiki/facts/global/TIMSS.md"
       ],
       "title": ""
@@ -63870,6 +63873,21 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15.md",
         "wiki/concepts/educational-philosophy/Post Hoc Ergo Propter Hoc Fallacy.md",
         "wiki/methods/quantitative/Ex Post Facto Research.md"
+      ],
+      "title": ""
+    },
+    "Cohen & Spillane, 1992": {
+      "aliases": [
+        "Cohen & Spillane, 1992",
+        "Cohen & Spillane (1992)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Cohen & Spillane, 1992"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/curriculum/Curricular Governance.md"
       ],
       "title": ""
     },
@@ -79792,7 +79810,9 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/educational-policy-reform/Professional Accountability.md",
+        "wiki/concepts/instruction-pedagogy/Instructional Core.md"
       ],
       "title": ""
     },
@@ -86100,6 +86120,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/curriculum/Curricular Governance.md",
+        "wiki/concepts/instruction-pedagogy/Instructional Core.md",
         "wiki/concepts/teacher-education/Instructional Coaching.md"
       ],
       "title": ""
@@ -89807,7 +89829,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/educational-policy-reform/Professional Accountability.md"
       ],
       "title": ""
     },
@@ -132914,7 +132937,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/instruction-pedagogy/Instructional Core.md"
       ],
       "title": "Mother-Child Joint Writing and Storybook Reading and their Effects on Kindergartners' Literacy  An Intervention Study"
     },
@@ -161338,7 +161362,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/educational-policy-reform/Professional Accountability.md"
       ],
       "title": ""
     },
@@ -184172,7 +184197,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/curriculum/Curricular Governance.md"
       ],
       "title": ""
     },
