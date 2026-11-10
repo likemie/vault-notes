@@ -11,7 +11,7 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 30
+fact_related_count: 31
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -52,6 +52,7 @@ related_facts:
   - "[[PISA]]"
   - "[[SveaSus Project]]"
   - "[[Finnish Education Evaluation Centre]]"
+  - "[[Finnish Institute for Educational Research]]"
   - "[[Danish Public School Reform]]"
   - "[[Fagfornyelsen]]"
   - "[[POLNET]]"
@@ -108,7 +109,7 @@ updated: 2026-11-10
 
 > [!pathways] 实施路径与知识转化机制
 > - **文官行政[[Tacit Knowledge|默会知识]]转译** 职业文官将数十年政策管理积淀的默会知识（[[Tacit Knowledge]]，被形象比喻为两耳之间片刻不停运转的思维团块）作为鉴别有效研究的核心准则，不依赖繁复的学术文本直接征引。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 538–539)]]
-> - **本土评估数据直接支撑** [[Document|文献]]计量表明芬兰 10 份核心课程文献中同行评议学术成果仅占 9.45%，采信证据压倒性来自芬兰国家教育评估中心（[[Finnish Education Evaluation Centre|KARVI]]）、于韦斯屈莱大学芬兰教育研究院与赫尔辛基大学评估中心常年积累的[[Academic Achievement|学业成就]]监测专报。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 535, 538)]]
+> - **本土评估数据直接支撑** [[Document|文献]]计量表明芬兰 10 份核心课程文献中同行评议学术成果仅占 9.45%，采信证据压倒性来自芬兰国家教育评估中心（[[Finnish Education Evaluation Centre|KARVI]]）、[[Finnish Institute for Educational Research|于韦斯屈莱大学芬兰教育研究院]]与赫尔辛基大学评估中心常年积累的[[Academic Achievement|学业成就]]监测专报。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 535, 538)]]
 > - **学科架构与跨学科双轨并进** 课程文本把现象本位学习（PhBL）放在“实现课程总体目标与价值”的方法集合中，保留传统科目组织知识，同时鼓励以文化、环境与化学等跨领域现象作为综合学习对象。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, p. 2)]]
 
 ---

@@ -34532,6 +34532,17 @@
     ]
   },
   {
+    "title": "Noah Sobe",
+    "type": "person",
+    "path": "wiki/persons/us/Noah Sobe.md",
+    "aliases": [
+      "诺亚·索比",
+      "Noah W. Sobe",
+      "N. W. Sobe",
+      "Sobe"
+    ]
+  },
+  {
     "title": "Noam Chomsky",
     "type": "person",
     "path": "wiki/persons/us/Noam Chomsky.md",
@@ -37078,6 +37089,17 @@
     "subtype": "program"
   },
   {
+    "title": "Ny Nordisk Skole",
+    "type": "fact",
+    "path": "wiki/facts/denmark/Ny Nordisk Skole.md",
+    "aliases": [
+      "新北欧学校",
+      "The New Nordic School",
+      "新北欧学校项目"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "Taiwan Semiconductor Manufacturing Corporation",
     "type": "fact",
     "path": "wiki/facts/east-asia/Taiwan Semiconductor Manufacturing Corporation.md",
@@ -37996,6 +38018,18 @@
     "subtype": "event"
   },
   {
+    "title": "Centre for Educational Assessment",
+    "type": "fact",
+    "path": "wiki/facts/finland/Centre for Educational Assessment.md",
+    "aliases": [
+      "赫尔辛基大学教育评估中心",
+      "HEA (Finland)",
+      "Koulutuksen arviointikeskus HEA",
+      "Centre for Educational Assessment (HEA)"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Education Finland",
     "type": "fact",
     "path": "wiki/facts/finland/Education Finland.md",
@@ -38015,6 +38049,20 @@
       "芬兰教育评估中心",
       "Kansallinen koulutuksen arviointikeskus",
       "FINEEC"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "Finnish Institute for Educational Research",
+    "type": "fact",
+    "path": "wiki/facts/finland/Finnish Institute for Educational Research.md",
+    "aliases": [
+      "芬兰教育研究院",
+      "FIER",
+      "Koulutuksen tutkimuslaitos",
+      "KTL",
+      "于韦斯屈莱大学芬兰教育研究院",
+      "Finnish Institute for Educational Research (FIER)"
     ],
     "subtype": "organization"
   },

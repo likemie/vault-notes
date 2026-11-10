@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 37
+fact_related_count: 38
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -68,10 +68,11 @@ related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
+  - "[[Argument_Santos_Silova_2026_Discourse]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-02
+updated: 2026-11-10
 ---
 
 ---
@@ -230,3 +231,4 @@ updated: 2026-11-02
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 剖析儿童基金会在五大国际组织生态中率先开辟社会情感学习议程及争夺私人慈善资本的竞争机制。
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 剖析 GEEAP 职责规程的[[Discourse|话语]]修辞，批判其“智能购买”背后的技术理性与去情境化实证倾向。
 > - [[Argument_King_2007_CE|King (2007)]] — 考证联合国儿童基金会与世行在宗滴恩大会推动小学教育优先偏向并收紧全球教育议程的历史。
+> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 访谈曾在联合国儿童基金会任职的芬兰教育专家，揭示其参与建构全球学习危机话语中的白人救世主心态与干预矛盾。

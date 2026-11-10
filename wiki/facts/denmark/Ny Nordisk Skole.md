@@ -8,6 +8,12 @@ summary: "丹麦教育部于 2012 年春季启动的国家级基础教育先导�
 type: fact
 subtype: program
 region: denmark
+fact_region: "denmark"
+fact_kind: "program"
+fact_related_count: 13
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#ede9fe"
 period: "2012–2015"
 initiator_organization: "Danish Ministry of Education"
 tags:
@@ -15,6 +21,22 @@ tags:
   - level/k12
   - theme/educational-reform
   - theme/pedagogical-innovation
+related_concepts:
+  - "[[Differentiated Instruction]]"
+  - "[[Extending School Time]]"
+  - "[[School Leadership]]"
+  - "[[Nordic Model of Education]]"
+  - "[[Whole Person Education]]"
+  - "[[Document]]"
+related_facts:
+  - "[[Danish Public School Reform]]"
+  - "[[PISA]]"
+  - "[[Danish Evaluation Institute]]"
+  - "[[Danish National Centre for Social Research]]"
+  - "[[Science Foundation Ireland]]"
+  - "[[POLNET]]"
+related_arguments:
+  - "[[Argument_Volmari_2025_CE]]"
 confidence: high
 status: active
 created: 2026-11-10
@@ -24,12 +46,12 @@ updated: 2026-11-10
 ---
 
 > [!claim] 核心定位
-> 新北欧学校（Ny Nordisk Skole, The New Nordic School）是丹麦教育部于 2012 年春季正式设立的国家级基础教育先导实验项目。项目贯通 0 至 18 岁托幼中心、公立中小学（Folkeskole）与文法高中，旨在通过构建跨学段学校发展伙伴网络、促进专业实践对话，为随后的 2014 年丹麦公立学校改革奠定前置的实践共识与社会动员基础。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 534)]]
+> 新北欧学校（Ny Nordisk Skole, The New Nordic School）是丹麦教育部于 2012 年春季正式设立的国家级基础教育先导实验项目。项目贯通 0 至 18 岁托幼中心、公立中小学（Folkeskole）与文法高中，旨在通过构建跨学段学校发展伙伴网络、促进专业实践对话，为随后的 2014 年[[Danish Public School Reform|丹麦公立学校改革]]奠定前置的实践共识与社会动员基础。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 534)]]
 
 > [!program-context] 项目背景
 > - **发起时间与动员主体** 由丹麦时任教育部长克里斯蒂娜·安托里尼（Christine Antorini）于 2012 年 4 月主导发起，设立于丹麦教育部下属专项指导团队。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 534)]]
 > - **覆盖范围与学段贯通** 突破传统学段分割壁垒，邀请丹麦全国日托幼儿园、义务教育公立学校、特殊教育中心与青年文法高中自愿申报组建实验联合体。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 534)]]
-> - **问题背景与制度定位** 面对 PISA 国际测评下丹麦学生学术表现停滞、弱势背景儿童学业鸿沟扩大的挑战，项目力求在全国立法出台前先行测试包容性教学与全日制综合育人模式。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 534)]]
+> - **问题背景与制度定位** 面对 [[PISA]] 国际测评下丹麦学生学术表现停滞、弱势背景儿童学业鸿沟扩大的挑战，项目力求在全国立法出台前先行测试包容性教学与全日制综合育人模式。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 534)]]
 
 ---
 
@@ -42,13 +64,13 @@ updated: 2026-11-10
 
 > [!actor-grid] 实施协同矩阵
 > - **政策发起方** 丹麦教育部，负责提供项目专项孵化基金与国家级专家指导团队。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 534)]]
-> - **研发支持智囊** 联合丹麦评估研究所（[[Danish Evaluation Institute|EVA]]）与丹麦国家社会研究中心（[[Danish National Centre for Social Research|SFI]]）提供阶段性成效监测与评估咨询。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 534)]]
+> - **研发支持智囊** 联合[[Danish Evaluation Institute|丹麦评估研究所]]（[[Danish Evaluation Institute|EVA]]）与[[Danish National Centre for Social Research|丹麦国家社会研究中心]]（[[Science Foundation Ireland|SFI]]）提供阶段性成效监测与评估咨询。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 534)]]
 > - **一线执行联合体** 由各市镇自主申报的日托幼教教师、中小学校长与高中教师组成的跨学段协作网络。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 534)]]
 
 > [!pathways] 实施路径与运行机制
 > - **自愿参与与公约签署** 各参测机构通过签署共同愿景公约确立改革承诺，保障一线教育团队的专业自主性与变革内在动力。
 > - **贯通式学习轨迹衔接** 重点破解学前日托向初等小学过渡、初中向高中升学阶段的学业脱节问题，保障弱势背景儿童的早期学业发展。
-> - **政策预备与合法化试验** 项目运行形成的积极实践案例与教师研讨共识，成为丹麦内阁在议会辩论中证明延长课时与差异化教学可行性的实务论据。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 534)]]
+> - **政策预备与合法化试验** 项目运行形成的积极实践案例与教师研讨共识，成为丹麦内阁在议会辩论中证明延长课时与[[Differentiated Instruction|差异化教学]]可行性的实务论据。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 534)]]
 
 ---
 
@@ -63,7 +85,7 @@ updated: 2026-11-10
 > > [!axis] 自愿试点与强制立法的制度张力
 > > 部分教师工会代表批评该项目在启动阶段以柔性专业自主为号召，但在 2014 年法案通过后转变为带有硬性课时指标的行政规训。
 > >
-> > - **批评视角** 指责部委利用该项目的实验外衣为激进的延长在校时间与排课方案进行前期合法化包装。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 534)]]
+> > - **批评视角** 指责部委利用该项目的实验外衣为激进的[[Extending School Time|延长在校时间]]与排课方案进行前期合法化包装。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 534)]]
 > > - **官方辩护** 强调先导项目为后续公立学校改革积累了扎实的本土实践经验与可借鉴样本。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 534)]]
 
 ---
@@ -74,9 +96,9 @@ updated: 2026-11-10
 > |:-----|:-----|:-----|
 > | [[Danish Public School Reform]] | Fact (Policy) | 该项目作为先导实践试验直接服务的丹麦国家基础教育重大改革法案。 |
 > | [[Danish Evaluation Institute]] | Fact (Organization) | 为该先导实验项目提供教学法与差异化评估支持的国家机构。 |
-> | [[Danish National Centre for Social Research]] | Fact (Organization) | 为该项目学校领导力与学生表现提供纵向实证监测的科研实体。 |
-> | [[Nordic Model of Education]] | Concept | 该项目力图在现代国际竞争中维系与更新的北欧福利国家全人教育传统。 |
-> | [[POLNET]] | Fact (Program) | 追踪考察丹麦改革准备阶段及新北欧学校实证文献引据的跨国科研项目。 |
+> | [[Danish National Centre for Social Research]] | Fact (Organization) | 为该项目[[School Leadership\|学校领导力]]与学生表现提供纵向实证监测的科研实体。 |
+> | [[Nordic Model of Education]] | Concept | 该项目力图在现代国际竞争中维系与更新的北欧福利国家[[Whole Person Education\|全人教育]]传统。 |
+> | [[POLNET]] | Fact (Program) | 追踪考察丹麦改革准备阶段及新北欧学校实证[[Document\|文献]]引据的跨国科研项目。 |
 
 ---
 

@@ -79,10 +79,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Grek_2024_EERJ]]"
+  - "[[Argument_Volmari_2025_CE]]"
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-10-30
+updated: 2026-11-10
 ---
 
 ---
@@ -141,6 +142,7 @@ updated: 2026-10-30
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 奠定以数治教理论范式，实证揭示 PISA 如何作为政治技术被国家策略性借用并推动欧洲教育空间一体化。
 > - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 提出认识论基础设施分析框架，系统解构欧洲高教质保由博洛尼亚公报向标准、数据库与专家网络协同演进的治理机制。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 引证其“知识已构成政策核心本身”论据，分析北欧国家学校改革中量化评估与专家知识如何转化为政策合法化工具。
 
 ---
 

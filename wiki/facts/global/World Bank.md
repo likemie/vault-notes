@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 122
+fact_related_count: 123
 fact_related_level: 12
 fact_related_stars: "💎💎💎💎"
 fact_related_color: "#fecdd3"
@@ -156,11 +156,12 @@ related_arguments:
   - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Campbell_2026_JPCC]]"
+  - "[[Argument_Santos_Silova_2026_Discourse]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-06
+updated: 2026-11-10
 ---
 
 ---
@@ -459,3 +460,4 @@ updated: 2026-11-06
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 剖析世界银行与 GEEAP 的职责规程，批判其“智能购买”话语背后的技术理性与教师赤字预设。
 > - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 剖析世界银行吸纳拉美有条件现金转移支付与参与式预算的机制，揭示南方政策大使的人事循环与多标量政策扩散。
 > - [[Argument_King_2007_CE|King (2007)]] — 考证世界银行在宗滴恩大会、减贫战略与快速通道倡议中将教育窄化为初等指标的历史脉络。
+> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 访谈曾在世行任职的芬兰专家并解构报告，揭示学习危机话语中短期外援现金流对受援国本土师范生态与教育主权的侵蚀。

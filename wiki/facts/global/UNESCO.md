@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 92
+fact_related_count: 93
 fact_related_level: 9
 fact_related_stars: "💎💎💎"
 fact_related_color: "#fecdd3"
@@ -123,10 +123,11 @@ related_arguments:
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch08]]"
   - "[[Argument_Haubrock_2026_NHB]]"
+  - "[[Argument_Santos_Silova_2026_Discourse]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-03
+updated: 2026-11-10
 ---
 
 ---
@@ -375,3 +376,4 @@ updated: 2026-11-03
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 剖析 UNESCO-OECD-Eurostat（UOE）联合数据收集机制为欧洲与跨国教育治理指标提供的底层数据同源支撑。
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 剖析 UNESCO IIEP 2025 年战略审议与 Dakar 政策简报，揭示跨国教育规划诊断的仪式性重复与全球南方证据鸿沟。
 > - [[Argument_King_2007_CE|King (2007)]] — 考证教科文组织达喀尔六大目标在千年峰会遭遇二次窄化以及设立全球监测报告抗衡世行的历程。
+> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 访谈在教科文组织等任职的 23 位芬兰教育专家并分析政策文本，解构全球学习危机话语的技术官僚倾向与白人救世主心态。

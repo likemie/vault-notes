@@ -10,9 +10,9 @@ subtype: organization
 region: finland
 fact_region: "finland"
 fact_kind: "organization"
-fact_related_count: 10
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 9
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 org_type: "governmental-cluster"
 headquarters: "Helsinki, Finland"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Nation Branding]]"
   - "[[Quasi-market]]"
   - "[[Public-Private Partnership]]"
-  - "[[Competitiveness]]"
 related_theories:
   - "[[Governmentality]]"
 related_methods: []
@@ -35,14 +34,14 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Finnish National Board of Education]]"
-  - "[[Finnish PISA Miracle]]"
   - "[[PISA]]"
+  - "[[Finnish PISA Miracle]]"
 related_arguments:
   - "[[Argument_Kuortti_2025_JEdPolicy]]"
 confidence: high
 status: completed
 created: 2026-11-09
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 
 ---
@@ -130,7 +129,7 @@ updated: 2026-11-09
 
 ---
 
-> [!entry-map] 相关概念／理论
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -141,3 +140,9 @@ updated: 2026-11-09
 > | [[Finnish National Board of Education]] | Fact (Organization) | Education Finland 的母体管理与直接归属机构，行使日常监督与预算支持职能。 |
 > | [[Finnish PISA Miracle]] | Fact (Event) | 机构开展海外市场推介时借以获取客户信任与产品溢价的核心历史声誉资本。 |
 > | [[Governmentality]] | Theory | 解释机构如何借助国家质量标签与出口指引对国内办学主体实施微观治理规训。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 实证解构芬兰国家教育局设立 Education Finland 集群推进教育出口商业化与公私伙伴关系的制度机制与规制松绑历程（pp. 385–393）。
+> - [[Argument_Yang_2023_ICE|杨明全和邓丽 (2023)]] — 将 Education Finland 集群网络置于整合营销传播理论视阈下，解构其如何作为官方公共关系渠道统筹高访接待、微观案例展播与跨境教育服务出口（pp. 6–7）。
