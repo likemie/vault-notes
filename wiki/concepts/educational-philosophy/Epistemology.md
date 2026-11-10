@@ -141,7 +141,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 
 ---
@@ -378,4 +378,5 @@ updated: 2026-11-09
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 解构传统比较教育将国家情境视作外部物理容器的认识论预设，确立证据与制度背景共生生成的动态关系性认识论（pp. 531, 542–544）。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 阐明经济合作与发展组织（OECD）如何通过 PISA 确立脱离国家具体课程的全新评价认识论，将教育产出重新界定为面向未来生活与知识经济的通用胜任力及非认知自我效能感，驱动欧洲教育治理的量化技术理性（pp. 26–27, 35）。
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 结合[[Interpretive Policy Analysis|解释性政策分析]]解构超国家政策文本中的修辞隐喻与排他性认识论层级，倡导重构兼顾制度使能环境与地方认知正义的包容性决策生态。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对系统改进实证文献开展质性综合，对比了理性选择、文化制度、课程规制与协作网络四大路径在因果解释与变革机制上的认识论假设分歧。
 

@@ -660,5 +660,11 @@
       "sentence": "This is an important step in opening up China's higher education system.*",
       "target": "wiki/facts/global/Skills Toward Employment and Productivity.md"
     }
+  ],
+  "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md": [
+    {
+      "sentence": "理性选择视角提供了外部问责与可度量产出的分析工具，但容易遮蔽情境复杂性并导致应试异化；文化取向揭示了组织惯性与深层变革的阻力机制，指出单校改进在规模扩张上的公平困境；课程规制取向则提供了连接政策意图与课堂教学的技术纽带。",
+      "target": "wiki/concepts/educational-philosophy/Screening Off.md"
+    }
   ]
 }

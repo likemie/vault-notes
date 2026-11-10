@@ -170,7 +170,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 
 ---
@@ -424,6 +424,7 @@ updated: 2026-11-09
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 剖析国际机构推行普适社会技术（教育规划、课程）的技术理性机制，揭示其如何塑造中立客观专家形象并去政治化掩盖冲突。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 剖析欧盟开放协调法（OMC）全景敞视网络中，成员国教育部与专家群体如何将以可就业性与绩效产出为核心的技术官僚理性内化为政策常模与自我规训机制（pp. 487, 492–493）。
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 比较北欧三国改革政策起草实践，实证揭示行政默会知识、学术社交网络与后置合法化需求对客观系统检索假说的替代，系统解构循证政策制定的技术理性神话。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对系统改进实证文献开展质性综合，批判线性阶段论与自上而下激励控制背后的技术理性假设，强调制度文化惯性与情境复杂性。
 > - Schön (1983) — 奠基性著作《反思性实践者》，系统界定技术理性并阐明反思性实践作为专业认识论的替代方案。
 > - Habermas (1976) — 阐明技术理性作为晚期资本主义治理媒介对生活世界的侵蚀与合法化危机生成机制。
 

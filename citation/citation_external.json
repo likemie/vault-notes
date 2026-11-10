@@ -13971,6 +13971,8 @@
     "Lareau, 2015": "Lareau, 2015",
     "Larivière et al. (2015)": "Larivière et al., 2015",
     "Larivière et al., 2015": "Larivière et al., 2015",
+    "Larry Cuban (1995)": "Larry Cuban, 1995",
+    "Larry Cuban, 1995": "Larry Cuban, 1995",
     "Larry Hedges (1983)": "Larry Hedges, 1983",
     "Larry Hedges, 1983": "Larry Hedges, 1983",
     "Larrán & Andrades Peña (2017)": "Larrán & Andrades Peña, 2017",
@@ -129616,6 +129618,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md"
+      ],
+      "title": ""
+    },
+    "Larry Cuban, 1995": {
+      "aliases": [
+        "Larry Cuban, 1995",
+        "Larry Cuban (1995)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Larry Cuban, 1995"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Grammar of Schooling.md"
       ],
       "title": ""
     },

@@ -112,7 +112,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-08
+updated: 2026-11-10
 ---
 
 ---
@@ -323,3 +323,4 @@ updated: 2026-11-08
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 以瑞典国家[[School Inspection|学校督导]]为工具性个案，分析行政审计如何通过编制锚定单一研究范式的知识综述消除学术争议，以及外部学者如何通过情境化辩驳打破单一范式的确定性幻觉（pp. 649–651）。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 历史社会学解构欧盟教育治理范式从《马斯特里赫特条约》辅助性原则向[[Lisbon Strategy|里斯本战略]][[Open Method of Coordination|开放协调法]]（OMC）[[Panopticism|全景敞视]]治理范式的断裂性重构（pp. 488–491）。
 > - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 系统揭示当代同行评审与量化考评如何作为既有主流范式的守门机制，抑制高风险的非典型理论假说并阻碍科学范式更迭。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对教育系统改进文献开展主题综合，提炼出理性选择、文化制度、课程规制与能力建设四大理论范式，解析不同范式的认识论假定与政策干预张力。

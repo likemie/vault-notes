@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 
 ---
@@ -172,3 +172,4 @@ updated: 2026-11-09
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Huang_2020_APJE|Huang and Kan (2020)]] — 结合经合组织政策扩散实践，指出其已将人力资本理论与专业资本构念相融合，以自主性、管理与网络化界定全球教师专业性话语（p. 423）。
 > - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 运用 WPR 方法揭示芬兰教育出口政策如何通过设立 30 学分出口微专业，将商业技能重塑为高价值专业资本并诱导教师向教育型企业家角色演变（pp. 8–9）。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对系统改进实证文献开展质性主题综合，将教师专业资本投资确立为核心驱动力，总结了加拿大安大略省涵盖准入到职级晋升的全周期支持经验。
