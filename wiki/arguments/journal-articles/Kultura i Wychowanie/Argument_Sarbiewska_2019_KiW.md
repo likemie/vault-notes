@@ -54,6 +54,9 @@ related_persons:
   - "[[Dietrich Benner]]"
   - "[[Thomas Aastrup Rømer]]"
   - "[[David Gonski]]"
+  - "[[Geoff Masters]]"
+  - "[[Eric Hanushek]]"
+  - "[[Adrienne Alton-Lee]]"
 related_facts:
   - "[[Gonski 2.0]]"
   - "[[PISA]]"
@@ -81,7 +84,7 @@ title: "Argument_Sarbiewska_2019_KiW"
 argument_key: "Argument_Sarbiewska_2019_KiW"
 argument_display_title: "Visible Learning and educational policies in New Zealand and Australia"
 argument_kind: "journal-article"
-argument_related_count: 44
+argument_related_count: 47
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -129,7 +132,7 @@ issuing_organization: ""
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **政策与评估文本** | 包含新西兰《十年回顾：学校如何看待教育改革》（Wylie, 1999）、《最佳证据综合》（Alton-Lee, 2004）、[[Education Review Office|新西兰教育审查办公室]]（Education Review Office, ERO）编制的《引领新西兰学校创新学习》（ERO, 2018）、澳大利亚 Gonski 2.0 报告（2018）、《[[Melbourne Declaration\|墨尔本宣言]]》（2008）等官方文件。 |
+> | **政策与评估文本** | 包含新西兰《十年回顾：学校如何看待教育改革》（Wylie, 1999）、《最佳证据综合》（[[Adrienne Alton-Lee|Alton-Lee]], 2004）、[[Education Review Office|新西兰教育审查办公室]]（Education Review Office, ERO）编制的《引领新西兰学校创新学习》（ERO, 2018）、澳大利亚 Gonski 2.0 报告（2018）、《[[Melbourne Declaration\|墨尔本宣言]]》（2008）等官方文件。 |
 > | **课程与教学规程** | 包含《澳大利亚课程》（Australian Curriculum, 2012/2015）、《新西兰国家课程》（The New Zealand Curriculum, 2010/2012）以及维多利亚州《高影响教学策略》（High Impact Teaching Strategies, HITS; 2017）。 |
 > | **学术批判语料** | 纳入丹麦学者托马斯·罗默（[[Thomas Aastrup Rømer]]）关于可见学习激进建构主义倾向的哲学批判，以及统计学家皮埃尔-热罗姆·贝尔热龙（Pierre-Jérôme Bergeron）的方法论商榷。 |
 
@@ -242,7 +245,7 @@ issuing_organization: ""
 > [!sub-claim] 2. 最佳证据综合证实校内班级差异远大于校际差异，责任主体锁定一线教师
 
 > [!warrant] 方差分解将教育成效责任锁定至微观课堂
-> 新西兰教育部发布的《运用最佳证据综合协助多样化学困生》（Alton-Lee, 2004）实证分析揭示：学生学业成绩的方差主要源自校内班级方差（within-school variance），校际方差（between-school variance）微乎其微。在同一所学校内，不同班级学生的表现差异极为悬殊。这一实证证据表明，决定教育成效的关键在于学校内部的[[Instructional Leadership|教学领导力]]，以及一线教师在课堂上的师生互动质量；硬件校舍与外部行政体制对缩小这一差距收效甚微。
+> 新西兰教育部发布的《运用最佳证据综合协助多样化学困生》（[[Adrienne Alton-Lee|Alton-Lee]], 2004）实证分析揭示：学生学业成绩的方差主要源自校内班级方差（within-school variance），校际方差（between-school variance）微乎其微。在同一所学校内，不同班级学生的表现差异极为悬殊。这一实证证据表明，决定教育成效的关键在于学校内部的[[Instructional Leadership|教学领导力]]，以及一线教师在课堂上的师生互动质量；硬件校舍与外部行政体制对缩小这一差距收效甚微。
 
 > [!feature] 循证视角下教育影响焦点的系统性转移
 > - **传统归因模式撤出** 放弃将学生失败简单归咎于家庭背景、校舍建筑更新、技术设备采购或外部考试大纲研发。
@@ -259,7 +262,7 @@ issuing_organization: ""
 > [!sub-claim] 1. 提炼十项高影响教学策略，建立教师常态化分享实践证据的专业生态
 
 > [!evidence-grid] 教师教学效能差距与专家素养实证
-> - **效能增量悬殊** 斯坦福大学经济学家哈努谢克测算表明，接受处于前 10% 顶尖教师指导的学生在一学年内能获得 1.5 年的知识成长，而接受后 10% 教师指导仅能获得 0.5 年的增量（The Economist, 2016）。
+> - **效能增量悬殊** 斯坦福大学经济学家[[Eric Hanushek|哈努谢克]]测算表明，接受处于前 10% 顶尖教师指导的学生在一学年内能获得 1.5 年的知识成长，而接受后 10% 教师指导仅能获得 0.5 年的增量（The Economist, 2016）。
 > - **专家素养特征** 哈蒂（Hattie, 2003）提炼出优秀教师的 16 项典型特征，强调优秀教师善于营造积极探究氛围、及时提供高质量形成性反馈，并时刻关注自身教学对学生理解的影响。
 
 > [!case] 澳大利亚维多利亚州高影响教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）与证据中介生态
@@ -271,7 +274,7 @@ issuing_organization: ""
 > [!sub-claim] 2. 落实冈斯基成长评价，用学生个体年度学业进步取代按年龄一刀切
 
 > [!warrant] 个体准备度差异倒逼评价范式转向增量成长
-> 哈蒂（Hattie, 2008）实证研究表明，学生学业成绩方差中约 50% 取决于学习者自身的先备知识与经验。[[David Gonski|戴维·冈斯基]]（[[David Gonski]]）主导的澳大利亚教育评估委员会发布 Gonski 2.0 报告《通过成长实现成就》（2018），马斯特斯（Masters, 2018）指出，若教学脱离学生的真实准备起点，重复已知内容或强授缺乏基础的知识，学习均无法发生，评价机制必须从按年龄一刀切转向衡量个体年度增量。
+> 哈蒂（Hattie, 2008）实证研究表明，学生学业成绩方差中约 50% 取决于学习者自身的先备知识与经验。[[David Gonski|戴维·冈斯基]]（[[David Gonski]]）主导的澳大利亚教育评估委员会发布 Gonski 2.0 报告《通过成长实现成就》（2018），[[Geoff Masters|马斯特斯]]（Masters, 2018）指出，若教学脱离学生的真实准备起点，重复已知内容或强授缺乏基础的知识，学习均无法发生，评价机制必须从按年龄一刀切转向衡量个体年度增量。
 
 > [!row-contrast] 传统年级课程交付模型与 Gonski 2.0 个体增量模型多维对照
 > | 比较维度 | 传统年级课程交付模型 | Gonski 2.0 个体增量成长模型 |
@@ -310,7 +313,7 @@ issuing_organization: ""
 > [!citation-card] 传统教育模型的机械交付特征
 > 在传统模型中，教学被理解为向所有学生交付适切的年级水平课程。按照这种观念，教师的角色是交付相关课程；学生的工作是学习教师所教的内容；而评估的作用则是检验学生对教师讲授内容的掌握程度并以此进行等级评定。
 >
-> *According to Geoff Masters, Chief Executive of the Australian Council for Educational Research, teaching in the pre-reform was based on ‘[…] the delivery of the appropriate year-level curriculum to all students. Under this view, the role of teachers is to deliver the relevant curriculum; the job of students is to learn what teachers teach; and the role of assessment is to establish how well students have learnt what teachers have taught and to grade them accordingly.’*
+> *According to [[Geoff Masters]], Chief Executive of the Australian Council for Educational Research, teaching in the pre-reform was based on ‘[…] the delivery of the appropriate year-level curriculum to all students. Under this view, the role of teachers is to deliver the relevant curriculum; the job of students is to learn what teachers teach; and the role of assessment is to establish how well students have learnt what teachers have taught and to grade them accordingly.’*
 
 > [!citation-card] 可见的学习面临的方法论批评
 > 从根本上说，哈蒂的方法在统计学上并不复杂，可以概括为计算平均值和标准差，而对于后者，他在实际操作中并未真正加以运用。

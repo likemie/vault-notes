@@ -6,9 +6,14 @@ aliases:
 summary: "澳大利亚教育测评学家，长期担任澳大利亚教育研究委员会（ACER）首席执行官，致力于解构传统年级课程交付模型，开创以学生个体发展阶段与年度学业成长增量为基准的发展性测评理论，为 Gonski 2.0 改革提供关键理论奠基。"
 type: person
 nationality: australia
+person_region: "australia"
+person_related_count: 11
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1952"
 died: ""
-lifespan: "1952–"
+lifespan: "1952–至今"
 tags:
   - person/australia
   - theme/assessment
@@ -83,8 +88,8 @@ updated: 2026-11-10
 ---
 
 > [!person-network] 关系网络
-> - **政策合作者** [[David Gonski]] — 共同推进澳大利亚 Gonski 2.0 学校教育卓越审查报告与增量模型政策化。
-> - **学术对话者** [[John Hattie]] — 共同参与 ACER 国家教育测评研讨与循证教学研讨。
+> - **政策协同伙伴** [[David Gonski]] — 共同推进澳大利亚 Gonski 2.0 学校教育卓越审查报告与增量模型政策化。
+> - **学术对话学者** [[John Hattie]] — 共同参与 ACER 国家教育测评研讨与循证教学研讨。
 
 ---
 
