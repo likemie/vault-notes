@@ -6,7 +6,7 @@ aliases:
   - CFCRS
   - 中外合作办学机构与项目
   - Sino-Foreign Joint Institutes and Programs
-summary: "外国教育机构同中国教育机构在中国境内合作举办、以中国公民为主要招生对象的跨境高等教育制度形态。根据《中华人民共和国中外合作办学条例》，中外合作办学分为机构与项目两个层级，以及具有法人资格与不具有法人资格两种法律形态；它作为中国高等教育改革开放与在地国际化的核心载体，在引进境外优质教育资源与推动课程现代化的同时，始终受到中方主导权与教育主权法定边界的规约。"
+summary: "外国教育机构同中国教育机构在中国境内合作举办、以中国公民为主要招生对象的跨境高等教育制度形态。根据《中华人民共和国中外合作办学条例》，中外合作办学分为机构与项目两个层级，以及具有法人资格与不具有法人资格两种法律形态；它作为中国高等教育改革开放与在地国际化的核心载体，在引进境外优质教育资源与推动课程现代化的同时，始终受到中方主导权与国家教育主权的法定约束。"
 type: concept
 domain: "higher-education"
 related_count: 22
@@ -56,7 +56,7 @@ updated: 2026-11-10
 ---
 
 > [!def] Sino-Foreign Cooperation in Running Schools
-> 外国教育机构同中国教育机构在中国境内合作举办、以中国公民为主要招生对象的教育机构或教育项目的制度性形态。作为中国跨境高等教育（[[Transnational Education|Transnational Higher Education]], TNHE）与[[Internationalization at Home|在地国际化]]的核心实现路径，中外合作办学由 2003 年《[[Regulations on Chinese-Foreign Cooperation in Running Schools|中华人民共和国中外合作办学条例]]》实施专门法制化规约，包含具有法人资格的独立大学、不具有法人资格的二级学院（联合学院）以及中外合作办学项目三级架构，旨在规范有序地引进境外优质学术资源并保障[[State Educational Sovereignty|国家教育主权]]。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 3, 4, 8)]]
+> 外国教育机构同中国教育机构在中国境内合作举办、以中国公民为主要招生对象的教育机构或教育项目的制度性形态。作为中国跨境高等教育（[[Transnational Education|Transnational Higher Education]], TNHE）与[[Internationalization at Home|在地国际化]]的核心实现路径，中外合作办学由 2003 年《[[Regulations on Chinese-Foreign Cooperation in Running Schools|中华人民共和国中外合作办学条例]]》实施专门法制化规范，包含具有法人资格的独立大学、不具有法人资格的二级学院（联合学院）以及中外合作办学项目三级架构，旨在规范有序地引进境外优质学术资源并保障[[State Educational Sovereignty|国家教育主权]]。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 3, 4, 8)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指境外合法高校与中国境内高校基于合作协议与法律许可，在中国境内联合开展学历教育、颁发中外双学位或单方学位的制度化办学模式。
@@ -70,7 +70,7 @@ updated: 2026-11-10
 
 > [!boundary]- 概念边界
 > - 不等于 [[Cooperative Education]] — 后者在国际高等教育学中特指“合作教育 / 工学结合”（Work-Integrated Learning, Co-op），即学生在校学习与企业全职带薪实习交替进行的产教融合模式；中外合作办学特指跨国校际合作办学机构与项目。
-> - 不等于 [[Transnational Education]] — 跨境高等教育是泛指生源、师资、课程跨越国界流动的广义学术范畴；中外合作办学是中国特定法域与行政许可规约下的[[Sinicisation|中国化]]制度实践形态。
+> - 不等于 [[Transnational Education]] — 跨境高等教育是泛指生源、师资、课程跨越国界流动的广义学术范畴；中外合作办学是中国特定法域与行政许可管理下的制度实践形态。
 > - 不适用于 境外大学全资独资独立办学（Wholly Foreign-Owned University） — 依据 2003 年条例，境外机构不得在华独立办学；2023 年海南比勒费尔德应用科学大学属于经济特区特许政策特例，不属于传统中外合作办学架构。
 
 ---
@@ -81,7 +81,7 @@ updated: 2026-11-10
 > | **法律本质** | 涉外行政特许的跨国校际联合办学形态 | 高校与产业雇主协同的实践教学模式 | 跨越国境提供教育服务的综合学术范畴 |
 > | **合作主体** | 中方高等院校与境外合规大学 | 高等院校与企业／用人单位 | 跨国高校、国际机构或境外分校 |
 > | **核心制度载体** | 独立法人大学、联合学院、双学位项目 | 带薪轮岗实习合同、产教订单班 | 海外校区、双联学程、远程在线学位 |
-> | **核心规约法规** | 《[[Regulations on Chinese-Foreign Cooperation in Running Schools\|中外合作办学条例]]》 | 职业教育法与劳动实习规章 | 各国涉外高教资质认可与 [[GATS and Trade in Education Services\|GATS]] 协定 |
+> | **核心适用法规** | 《[[Regulations on Chinese-Foreign Cooperation in Running Schools\|中外合作办学条例]]》 | 职业教育法与劳动实习规章 | 各国涉外高教资质认可与 [[GATS and Trade in Education Services\|GATS]] 协定 |
 > | **教育功能** | 引进外版教材课程、支撑[[Internationalization at Home\|在地国际化]] | 提升实践技能、促进毕业生就业对接 | 全球知识传播、国际学术与文凭流动 |
 
 ---
@@ -110,12 +110,12 @@ updated: 2026-11-10
 > **制度红利与质量溢出** 中外合作办学突破了单向派遣师生赴外求学的传统高成本流动模式，通过成建制吸纳世界高水平学科规范，直接为本土大学注入国际同行评审标准、全英文双语教学法与跨学科前沿课程，加速本土高校向高水平[[Research Universities|研究型大学]]演进。
 >
 > > [!claim] Qu, L. & Dai, Y.
-> > **三螺旋视域下的创新能力赋能** 论证了中外合作办学不仅体现在校内双语课程引进，更在于其通过“1+N”联合学院体系或区域高教集群，将国际顶尖高校的生命健康与先进工程学科直接嫁接至地方主导产业链，促使本土高校快速形成世界前沿科研协作网络。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 3, 4, 8)]]
+> > **三螺旋视域下的创新能力驱动** 论证了中外合作办学不仅体现在校内双语课程引进，更在于其通过“1+N”联合学院体系或区域高教集群，将国际顶尖高校的生命健康与先进工程学科直接嫁接至地方主导产业链，促使本土高校快速形成世界前沿科研协作网络。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 3, 4, 8)]]
 
 ---
 
 > [!concept-proposition] 命题二｜中外合作办学从单体点状扩张向区域[[International Education Hubs|国际教育枢纽]]集群转型
-> **空间组织与治理升级** 中外合作办学从早期的单校点对点项目合作，逐步跃迁为在国家重大战略区域（如长三角样板区、[[Guangdong-Hong Kong-Macau Greater Bay Area|大湾区]]示范区、海南创新试验区）通过集约化物理空间共享与集群式办学，构筑兼具学生集聚、拔尖人才引育与协同研发功能的现代化[[International Education Hubs|国际教育枢纽]]。
+> **空间组织与治理升级** 中外合作办学从早期的单校点对点项目合作，逐步演进为在国家重大战略区域（如长三角样板区、[[Guangdong-Hong Kong-Macau Greater Bay Area|大湾区]]示范区、海南创新试验区）通过集约化物理空间共享与集群式办学，构筑兼具学生集聚、拔尖人才引育与协同研发功能的现代化[[International Education Hubs|国际教育枢纽]]。
 >
 > > [!claim] Qu, L. & Dai, Y.
 > > **区域枢纽形态的三种制度实践** 实证揭示了中外合作办学在中国的三大新型组织形态：长三角依托本土高水平大学链接多家世界名校的单核“1+N”联合学院模式；粤港澳大湾区在[[One Country, Two Systems|一国两制]]下依托港澳高水平大学设立的多核合作办学集群；以及海南陵水试验区推行“大共享加小学院”多校物理集约共享模式。中外合作办学已成为中国塑造全球高教枢纽版图的支柱机制。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 4, 6, 8)]]

@@ -49,7 +49,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-30
+updated: 2026-11-10
 ---
 
 ---
@@ -91,26 +91,27 @@ updated: 2026-10-30
 ---
 
 > [!claim] 核心思想
-> 教育改革不是孤立的政策指令事件，而是一场由底层专业能力建设驱动的复杂系统演进；成功的全系统变革必须摒弃惩罚性问责、个体竞争与技术崇拜等“错误驱动力”，转向以[[Teacher Collaboration|教师协作]]专业主义、微观动能推进行动以及面向真实世界的 6C 深度学习为支柱的“正确驱动力”。
+> 教育改革是一场由底层专业能力建设驱动的复杂系统演进；全系统变革主张超越行政指令与惩罚性问责，依托以[[Teacher Collaboration|教师协作]]专业主义、微观动能推进行动以及面向真实世界的 6C 深度学习为支柱的“正确驱动力”。
 
 > [!citation-card] 全系统变革的正确驱动力与动能推进
-> 变革真正的催化剂不是外部施加的自上而下问责制，也不是购买炫目的硬件设备，而是依靠共同体内教师与领导者之间的[[Professional Capital|专业资本]]积累……通过解决现场微观难题所创造的积极动能，能够将外在改革要求内化为教师共同体的日常专业习惯。（Fullan, 2011, *Choosing the Wrong Drivers for Whole System Reform*）
+> 变革的深层催化机制依靠共同体内教师与领导者之间的[[Professional Capital|专业资本]]积累与同行互信；通过解决现场微观难题所创造的积极动能，能够将外在改革要求内化为教师共同体的日常专业习惯，从而超越外部问责与单一硬件采购的局限。（Fullan, 2011, *Choosing the Wrong Drivers for Whole System Reform*）
 
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 拓展了组织社会学在教育领域的应用，开创全系统变革（Whole System Change）与教师协作专业主义理论脉络。
+> - **理论路径** 拓展了组织社会学在教育领域的应用，开创全系统变革（Whole System Change）、教师协作专业主义与全系统共享连贯性（Shared Coherence）理论脉络。
 > - **方法路径** 开发了深度学习行为进展量规（Progressions）、[[Co-Design|协同设计]]协议与学校集群自评工具套件。
-> - **政策路径** 作为安大略省首席顾问主导全省教育改革，其政策理念被[[OECD|经合组织]]（OECD）推崇为全球系统改进标杆；深度影响澳大利亚与新西兰的教师专业学习政策。
+> - **政策路径** 作为安大略省首席顾问主导全省教育改革，确立集中于读写算基础技能与高中毕业率的聚焦战略，其探索的支持性专业问责（弱校免受公开惩戒、派驻专业教研团队精准支持）被[[OECD|经合组织]]（OECD）推崇为全球系统改进标杆；深度影响澳大利亚与新西兰的教师专业学习政策。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 3–5, 8–10)]]
 > - **跨国商业传播** 授权新西兰 [[CORE Education]] 等商业[[Educational Management Organisation|教育管理组织]]（EMO）推行 [[New Pedagogies for Deep Learning|NPDL]] 排他性特许加盟，通过百校集群协议收取经常性会费。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 41–43)]]
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统解构富兰从学术领导者向跨国思想领袖的转型，揭示 NPDL 专有商标特许对公立学校教师研训经费的抽吸效应。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 将富兰的全系统变革与共享连贯性（Shared Coherence）理论定位为对抗新公共管理（NPM）市场问责的文化制度取向代表，实证考察其深度参与的加拿大安大略省支持性专业问责与自下而上协同治理经验（pp. 3–5, 8–10）。
 
 ---
 
 > [!person-network] 关系网络
-> - **学术与思想合作者** 安迪·哈格里夫斯（Andy Hargreaves） — 共同倡导[[Professional Capital|专业资本]]（Professional Capital）与协作专业主义；乔安妮·奎因（Joanne Quinn） — 共同创办 [[New Pedagogies for Deep Learning|NPDL]] 并合著核心专著。
+> - **学术合作伙伴** 安迪·哈格里夫斯（Andy Hargreaves） — 共同倡导[[Professional Capital|专业资本]]（Professional Capital）与协作专业主义；乔安妮·奎因（Joanne Quinn） — 共同创办 [[New Pedagogies for Deep Learning|NPDL]] 并合著核心专著。
 > - **跨国政策思想盟友** [[Michael Barber|迈克尔·巴伯]]爵士（[[Michael Barber]]） — 共同参与跨国咨询网络与培生智库项目；[[John Hattie|约翰·哈蒂]] — 共同被培生智库致谢并同构了专有教学品牌模式。
 > - **学术批评者** [[John O'Neill|约翰·奥尼尔]]（[[John O'Neill]]）、[[Stephen Ball|斯蒂芬·鲍尔]]（[[Stephen Ball]]） — 批判其思想领袖光环背后的专有教学法商品化与新自由主义资本合谋。
 
@@ -133,6 +134,10 @@ updated: 2026-10-30
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
+> | [[Theory of Change]] | 理论 | 提出以正确驱动力与动能推进为核心的复杂系统教育变革理论。 |
+> | [[Professional Capital]] | 概念 | 与安迪·哈格里夫斯共同倡导教师专业资本与协作专业主义。 |
+> | [[New Pedagogies for Deep Learning]] | 概念 | 创办并主导深度学习新教学法全球倡议与 6C 素养体系。 |
+> | [[Teacher Collaboration]] | 概念 | 强调校际网络协同与教师同行专业协作。 |
 > | [[OECD\|经合组织]] | 组织 | 全球政策扩散支持。 |
 > | 培生集团（Pearson plc） | 组织 | 智库丛书资助出版。 |
 > | [[CORE Education\|核心教育]] | 组织 | 新西兰独家特许代理商。 |

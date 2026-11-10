@@ -298,6 +298,7 @@ updated: 2026-11-10
 > - **标准化测验与产出问责跨国扩散追踪（Teltemann & Klieme, 2016 纵向研究）** 跨国评估对各国内部治理的制度性渗透，直接体现为标准化产出问责机制的全球扩散。Teltemann 与 Klieme (2016) 对经合组织国家标准化测评政策扩散的经验追踪表明，自 PISA 实施以来，采纳集中式标准化评估与基于产出控制的国家数量显著上升；跨国评估成为驱动各国国内全面转向基于标准的问责制（standards-based accountability）的关键规制载体。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 277)]]
 > - **国内[[Policy Borrowing|政策借用]]中的[[Externalization|策略性外在化]]与多层治理机制（[[Argument_Grek_2009_JEdPolicy|Grek, 2009]]; [[Argument_Niemann_Martens_2018_GSP|Niemann & Martens, 2018]]）** 参测国面对评估呈现出显著的体制反应[[Heterogeneity|异质性]]，普遍将跨国数据作为国内政策合法化的“外在化”资源。量化硬事实在重塑国内政治博弈中发挥了不对称支持作用：诉求与经合组织一致的经济部门与雇主协会获得客观化实证支撑，而抵制标准化问责的教师工会与地方利益群体因缺乏对等量化证据而弱化了辩驳筹码，使政策制定者得以绕过议会审议、平息党派分歧并打破宪制分权僵局。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 28–32, 34–35)]]; [[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 274–278)]]
 > - **测评盛誉的商业转译与[[Education Export|教育出口]]资本化（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025]]）** 突破了传统“政策指引 vs 政策背书”的二[[Meta-analysis|元分析]]框架，揭示主权国家政策精英利用 PISA 测评盛誉开辟出第三种治理功能——将国家在义务教育阶段积累的测评公信力作为[[Nation Branding|国家品牌]]与营销工具，通过后结构话语将跨国考察兴趣等同于全球商业需求，构建教育出口的商业理由；并在治理实践中完成跨学段错位挪用，以综合学校的 PISA 盛誉为由推动高等教育收取高额学费、解除公立机构设立营利子公司的法律限制，反向向国内公立系统施加创收压力。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 387–388)]]
+> - **时空度量标尺与绩效主义反思（[[Argument_Barrenechea_2023_JEC|Barrenechea et al., 2023]]）** PISA 确立了跨越国界与时空的通用度量标尺，促成全系统改进研究进入以识别提质加速度为特征的分析阶段，为捕捉跨时间取得显著增量的教育系统（如 2003–2018 年间爱沙尼亚、葡萄牙与波兰）提供了实证依据；但系统改进研究过度依赖大规模标准化测验作为评判基准，容易陷入绩效主义偏差，相对忽视教育可及性与全人发展等多元价值。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 3, 11)]]
 
 > [!row-contrast] 全球典型教育系统在 PISA 中的表现特征、政策机制与治理经验
 > 
@@ -429,3 +430,4 @@ updated: 2026-11-10
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 辨析 PISA 背景问卷调查方法学缺陷所引发的“探究式教学与成绩负相关”假象，澄清教学因果推断。
 > - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 揭示国家政策精英利用 PISA 测评盛誉推动教育出口商业化与高等教育收费的跨学段挪用机制。
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 追踪北欧三国（丹麦、芬兰、挪威）学校改革对 PISA 数据与高分参考社会的差异化利用，揭示跨国量化证据服务于政治合法化的机制（pp. 535–538, 542–544）。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 将 PISA 确立为全系统改进研究在后大型国际评估时代识别增量提质系统的全球度量标尺，同时反思系统改进文献过度依赖单一标准化测试所带来的绩效主义偏差（pp. 3, 11）。

@@ -931,9 +931,7 @@
     "Annie Piolat & Jean-Yves Roussey, 1996": "Annie Piolat & Jean-Yves Roussey, 1996",
     "Ansell (2000)": "Ansell, 2000",
     "Ansell, 2000": "Ansell, 2000",
-    "Anselm Strauss (1967)": "Anselm Strauss, 1967",
     "Anselm Strauss (1987)": "Anselm Strauss, 1987",
-    "Anselm Strauss, 1967": "Anselm Strauss, 1967",
     "Anselm Strauss, 1987": "Anselm Strauss, 1987",
     "Anter (2016)": "Anter, 2016",
     "Anter, 2016": "Anter, 2016",
@@ -34536,21 +34534,6 @@
       ],
       "title": ""
     },
-    "Anselm Strauss, 1967": {
-      "aliases": [
-        "Anselm Strauss, 1967",
-        "Anselm Strauss (1967)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Anselm Strauss, 1967"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/methods/qualitative/Grounded Theory.md"
-      ],
-      "title": ""
-    },
     "Anselm Strauss, 1987": {
       "aliases": [
         "Anselm Strauss, 1987",
@@ -63729,7 +63712,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28.md",
-        "wiki/methods/qualitative/Grounded Theory.md",
         "wiki/methods/qualitative/Qualitative Computer Software.md"
       ],
       "title": ""

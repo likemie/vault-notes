@@ -56,7 +56,6 @@ related_instruments: []
 related_persons:
   - "[[Jane Knight]]"
 related_facts:
-  - "[[Study in China]]"
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
   - "[[International Collaborative Education Exemplary Zone]]"
   - "[[Hainan International Education Innovation Pilot Zone]]"
@@ -67,6 +66,7 @@ related_facts:
   - "[[Project 211]]"
   - "[[Project 985]]"
   - "[[Double First-Class Initiative]]"
+  - "[[Study in China]]"
   - "[[Regulations on Chinese-Foreign Cooperation in Running Schools]]"
   - "[[Ministry of Education of the People's Republic of China]]"
 related_arguments: []
@@ -175,11 +175,11 @@ issuing_organization: ""
 
 > [!dimension] 中国[[Internationalization of Higher Education|高等教育国际化]]的三项关键路径
 > - **[[Study Abroad|出国留学]]与人员流动**
->   包含公派与自费资助本国师生赴海外开展前沿学术交流，同时设立国家奖学金吸引海外留学生来华深造。中国在 2019 年成为亚洲第一大留学目的国，2020 年位列全球第四大留学目的国。
+>   包含公派与自费资助本国师生赴海外开展前沿学术交流，同时设立国家奖学金推进“[[Study in China|留学中国]]”（Study in China）品牌建设。中国在 2019 年成为亚洲第一大留学目的国，2020 年位列全球第四大留学目的国。
 > - **课程国际化与[[Internationalization at Home|在地国际化]]（Internationalization at Home, IaH）**
 >   将国际与跨文化维度系统融入国内教学体系，广泛引进国际权威原版教材，开设双语及全英文授课专业，为全体本土学生构建接轨国际水准的学习环境。
 > - **跨境高等教育合作办学（[[Transnational Education|Transnational Higher Education]], TNHE）**
->   依托[[Regulations on Chinese-Foreign Cooperation in Running Schools|中外合作办学条例]]，支持国内高水平大学与海外知名高校联合举办中外合作办学项目与独立法人及非独立法人合作办学机构，实施双学位及联合学位培养。
+>   依托《[[Regulations on Chinese-Foreign Cooperation in Running Schools|中外合作办学条例]]》，支持国内高水平大学与海外知名高校联合举办[[Sino-Foreign Cooperation in Running Schools|中外合作办学]]项目与独立法人及非独立法人合作办学机构，实施双学位及联合学位培养。
 
 > [!sub-claim] 3. 既有文献多聚焦东南亚与中东，低估了中国作为教育枢纽的体量
 
@@ -231,7 +231,7 @@ issuing_organization: ""
 > ![](https://img.mylikemie.icu/sources/Qu_2024_IJED/figures/Qu_2024_IJED_Fig4_iZJU_Governance_Model.jpg)
 > *左侧展示了浙大八校区网络对海宁校区的知识溢出；右侧展示了联合管理委员会（Joint Management Committee, JMC）与国际顾问委员会（International Advisory Board, IAB）的双层伙伴治理架构。*
 
-> [!feature] 浙大国际联合学院中外合作办学机构名录
+> [!feature] 浙大国际联合学院[[Sino-Foreign Cooperation in Running Schools|中外合作办学]]机构名录
 > - **浙江大学爱丁堡大学联合学院（Zhejiang University-University of Edinburgh Institute, ZJE）**
 >   中方浙江大学与英国爱丁堡大学于 2016 年联合设立，设立整合生物医学与生物信息学本科及双学位博士项目，引入爱丁堡大学百年医科课程与科研标准。
 > - **浙江大学伊利诺伊大学厄巴纳香槟校区联合学院（Zhejiang University-University of Illinois Urbana-Champaign Institute, ZJUI）**
@@ -313,7 +313,7 @@ issuing_organization: ""
 > [!sub-claim] 2. 自贸港特许法规允许境外高校无需中方合作方即可独立运营
 
 > [!def] 境外高水平大学全资独立办学制度特许
-> 依据 2023 年教育部与海南省印发的《境外高等教育机构在海南自由贸易港办学暂行规定》，自贸港率先打破中外合作办学必须中方主导的既有体制约束，允许境外理、工、农、医类高水平大学独立设立并运营法人高校。德国比勒费尔德应用技术大学据此创设海南比勒费尔德应用科学大学，成为中国内地首所外资完全独立办学的高等学府。
+> 依据 2023 年教育部与海南省印发的《境外高等教育机构在海南自由贸易港办学暂行规定》，自贸港率先打破《[[Regulations on Chinese-Foreign Cooperation in Running Schools|中外合作办学条例]]》中关于必须中方主导的既有体制约束，允许境外理、工、农、医类高水平大学独立设立并运营法人高校。德国比勒费尔德应用技术大学据此创设海南比勒费尔德应用科学大学，成为中国内地首所外资完全独立办学的高等学府。
 
 > [!feature] 海南省高水平中外合作与独立办学机构一览
 > - **电子科技大学格拉斯哥学院（海南）**
