@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/theories/higher-education/Challenge-Hindrance Stressor Framework.md",
+                "file": "wiki/arguments/journal-articles/International and Comparative Education/Argument_Yang_2023_ICE.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Challenge-Hindrance Stressor Framework"
+              "title": "Argument_Yang_2023_ICE"
             }
           },
           {
@@ -97,7 +97,8 @@
               "title": "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -312,8 +313,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "23341fc83e2eb64c",
+  "active": "3643ff474ee79da9",
   "lastOpenFiles": [
+    "sources/Yang_2023_ICE_extracted.txt",
+    "wiki/theories/higher-education/Challenge-Hindrance Stressor Framework.md",
+    "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md",
     "wiki/concepts/educational-policy-reform/De-Academisation of Advisory Working Groups.md",
     "wiki/concepts/educational-policy-reform/Data-Centrism in Education Reforms.md",
     "output/related-updates/Argument_Santos_Silova_2026_Discourse-5d63ed00/batch-012/result.json",
@@ -347,9 +351,6 @@
     "output/related-updates/Argument_Santos_Silova_2026_Discourse-5d63ed00/batch-010/prompt.md",
     "output/related-updates/Argument_Santos_Silova_2026_Discourse-5d63ed00/batch-009/prompt.md",
     "output/related-updates/Argument_Santos_Silova_2026_Discourse-5d63ed00/batch-008/prompt.md",
-    "output/related-updates/Argument_Santos_Silova_2026_Discourse-5d63ed00/batch-007/prompt.md",
-    "output/related-updates/Argument_Santos_Silova_2026_Discourse-5d63ed00/batch-006/prompt.md",
-    "output/related-updates/Argument_Santos_Silova_2026_Discourse-5d63ed00/batch-004/prompt.md",
     "tmp/callout-refinement/theory-panels-dark-390.png",
     "tmp/callout-refinement/theory-panels-light-1440.png",
     "tmp/callout-refinement/theory-panels-dark-1440.png",
