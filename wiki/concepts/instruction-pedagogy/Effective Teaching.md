@@ -428,5 +428,6 @@ updated: 2026-11-10
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 从[[Neo-Taylorism|新泰勒主义]]批判与科学哲学视角，解构将有效教学降格为标准化清单与监控工具的技术规训弊端，论证有效教学作为情境化关系型学习共同体的伦理本质。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 从[[Pragmatic Paradigm|实用主义]]认识论与教师专业生态视角，反思有效教学原则与[[Performance Pay|绩效工资]]制度的尖锐冲突，论证证据作为探究假设而非行动规程的价值权衡本质。
 > - [[Argument_Sarbiewska_2019_KiW|Sarbiewska (2019)]] — 梳理新西兰 2003 年《面向多元背景学生的优质教学》国家战略演进，借助 Alton-Lee 方差分解（校内班级方差达 59%）与 Hanushek 教师年成长增量数据，论证教育治理从宏观治理结构向微观有效教学转型的制度轨迹。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 结合波兰学制改革案例，指出推迟学段分流与扩充核心学科在校有效教学课时，是大幅提升学生素养并缩小校际差距的关键制度机制（p. 5）。
 
 

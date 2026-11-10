@@ -254,3 +254,4 @@ updated: 2026-11-10
 > - [[Argument_Sahlgren_2015_CPS\|Sahlgren (2015)]] — 结合芬兰教育史与国家学业评估，揭示教师主导的结构化教学对数理素养的奠基价值，剖析去结构化探究转型的滑坡教训（pp. 38–41, 61–62）。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项高等教育实证研究，确立了结构化教学设计作为生成式 AI 介入下激活批判性与[[Creativity\|创造性思维]]双向协同增益、抵御[[Cognitive Offloading\|认知卸载]]与心智侵蚀的决定性调节机制。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 总结 [[Education Endowment Foundation\|EEF]] 现场试验经验，剖析手册化结构性项目与[[Teacher Choices]]的方法学边界，并反思把结构化教学与绩效激励挂钩引发的招募失败。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 结合南非豪登省改革实证，揭示在资源匮乏与薄弱环境下，向一线教师直接提供脚本式教案并配合入校教练指导等结构化教学供给，能够有效提升教学质量（p. 5）。

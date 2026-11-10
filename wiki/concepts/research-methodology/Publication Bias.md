@@ -238,3 +238,4 @@ updated: 2026-11-03
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 结合医药工业药企偏倚镜像，系统批判二阶综合重度依赖公开文献导致发表偏倚被层级放大，揭露缺乏未发表研究审查的方法论漏洞。
 > - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — 回应 Snook et al. 批评，援引 Schulze (2004) 阐明元分析对偏倚控制的方法论关切，辩护同行评审对文献库的质量把关功能。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási (2021)]] — 阐释正结果偏好对前沿空白探索的扭曲，并在[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|第 23 章]]指出科学学依赖发表数据陷入幸存者偏差，主张打通专利与基金全量申请底表以还原完整科研管线。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 系统性综述反思文献语种局限与发表偏倚，指出仅依赖国际英文数据库可能遗漏非英语国家未翻译的本土实证改革经验（p. 5）。
