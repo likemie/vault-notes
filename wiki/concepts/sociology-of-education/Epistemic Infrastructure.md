@@ -64,12 +64,12 @@ updated: 2026-11-11
 > [!def] Epistemic Infrastructure
 > 科学与技术研究（[[Science and Technology Studies|STS]]）与政策社会学视角下的[[Analytic Framework|分析框架]]，指涉由测量物质载体（标准、指标、数据库与报告）、跨国行动者网络互联以及治理技术三层互动交织构成的政策[[Knowledge Production|知识生产]]与验证架构。该架构将异质的教育实践编码为可[[Commensuration|通约]]的等价数据，在缺乏超国家法定强制管辖权的情境下，促成跨国政策空间的持续扩张与柔性协调。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 216, 219–220)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 指向标准、数据库、指标等物质载体与跨国专家网络深度交织而成的社会-技术结构，揭示政策知识如何被生产、验证与流通。
 > - **用途** 帮助研究者透视超国家组织如何在缺乏直接立法管辖权的前提下，依托技术性测量与注册网络实现深层政策渗透与一体化塑造。
 > - **边界** 该概念侧重于知识生产、验证标准与跨国治理技术的结构性交织，不同于纯粹物理层面的计算硬件网络，亦不局限于无制度物化载体的纯粹学术观念流派。
 
-> [!citation-card] [[Epistemology|认识论]]基础设施的三层分析框架
+> [!citation-card|notitle] 认识论基础设施的三层分析框架
 > 认识论基础设施通过测量物质载体、行动者与测量的互联以及治理机制三个层面的互动展开分析：第一层关注数据、指标与报告等物质载体；第二层考察行动者网络、专家社群与协调实践构成的互联系统；第三层审视这一知识架构对更广泛政策空间与超国家治理秩序的重构机制。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 219–220)]]
 >
 > *Building on our use of the term elsewhere (Bandola-Gill et al., 2022), this article conceptualises the [[Emergence|emergence]] and consolidation of an epistemic infrastructure of measurement relating to quality assurance and measurement within European higher education as an interplay of three levels: the materialities of measurement; interlinkages between actors and between actors and measures and finally, the use of QA as the means to govern not only higher education but the [[European Education Area]] as a whole.*
@@ -80,7 +80,7 @@ updated: 2026-11-11
 
 ---
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 认识论基础设施（Epistemic Infrastructure） | 数据基础设施（Data Infrastructure） | 政策网络（Policy Network） |
 > |---|---|---|---|
 > | 分析对象 | 标准准则、认证数据库、专家网络与治理机制的集合体 | 数据库、统计表单、数据管道与信息汇聚平台 | 参与政策协商的政府部门、利益团体与专家个体关系网 |
@@ -135,7 +135,7 @@ updated: 2026-11-11
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 技术中立协调工具与隐性政治支配载体
 > > 争议聚焦于跨国质保与[[Data Infrastructure|数据基础设施]]究竟是促进透明互信的技术手段，还是规训[[State Educational Sovereignty|国家教育主权]]的隐性政治工具。
@@ -143,10 +143,26 @@ updated: 2026-11-11
 > > - **中立协调视角** 强调标准化注册库与统一准则为跨国文凭互认、[[Student Mobility|学生流动]]与质量改进提供了客观基础。
 > > - **批判治理视角** 指出数据化与标准化建构了排他性的等价空间，将特定区域的高等教育治理模式自然化为普适规范。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 216–218, 231–232)]]
 
-> [!warning] 适用局限
+> [!warning|limits] 适用局限
 > 认识论基础设施概念侧重分析制度化程度较高、具备明确文本准则与数据交换网络的跨国治理[[Champ|场域]]，在缺乏成型评估体系或高度碎片化的非正式教育情境中解释力相对受限。
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 以欧洲高等教育质量保障为切入点，系统论证度量物质载体、行动者互联与超国家治理技术三层互动如何构建认识论基础设施。
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Science and Technology Studies]] | 概念 | 方法论理论来源，提供对测量载体与技术网络的物质性审视视角。 |
+> | [[Knowledge Production]] | 概念 | 核心功能指向，揭示跨国指标与数据注册如何转化为政策合法性知识。 |
+> | [[Commensuration]] | 概念 | 核心运作机制，通过统一量规与分类系统将异质地方实践转换为可比等价物。 |
+> | [[Data Infrastructure]] | 概念 | 底层技术载体，为认识论基础设施提供数据抽取、存储与管道流转支撑。 |
+> | [[Policy Network]] | 概念 | 组织关系网络，跨国专家社群与质保机构在此网络中协商并维系标准。 |
+> | [[Transnational Education]] | 概念 | 关键应用场域，在缺乏超国家法定管辖权时依托基础设施实现柔性协调。 |
+> | [[European Education Area]] | 事实 | 治理政策空间，欧洲委员会依托质保基础设施推进高等教育深层一体化。 |
+> | [[Bologna Process]] | 事实 | 历史制度发端，促成欧洲学分转换系统与质量保障准则的建立与扩散。 |
+> | [[Sotiria Grek]] | 人物 | 政策社会学者，系统提出并阐述认识论基础设施的三层分析框架。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 以欧洲高等教育质量保障为切入点，系统论证度量物质载体、行动者互联与超国家治理技术三层互动如何构建认识论基础设施（pp. 216, 219–220）。

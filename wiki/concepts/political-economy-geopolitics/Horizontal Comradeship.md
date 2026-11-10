@@ -7,7 +7,7 @@ aliases:
 summary: "本尼迪克特·安德森界定民族共同体属性的核心构念，指不论现实社会内部存在何种深刻的阶级剥削与物质不平等，民族在集体心理图景中始终被表象为一种深沉平等的横向兄弟纽带；该构念为解释近现代千百万人甘愿为有限的民族想象牺牲献身提供了关键的情感与伦理基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 12
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -158,10 +158,12 @@ updated: 2026-11-11
 > | [[Dunbar's Number]] | 概念 | 横向手足表象提供了帮助人类超越面对面社交生理极限的文化机制。 |
 > | [[Everyday Plebiscite]] | 概念 | 勒南强调的持续同意与共同生活愿望为横向同志情谊提供动态维系基础。 |
 > | [[Technological Republic]] | 概念 | 卡普强调高科技社会必须依靠横向同志情谊维系跨部门协同攻坚。 |
+> | [[Tomb of the Unknown Soldier]] | 概念 | 无名烈士之墓以匿名同胞的具身象征凝聚横向同志情谊与牺牲宿命。 |
+> | [[Homogeneous, Empty Time]] | 概念 | 钟表与日历度量的齐一空洞时间为横向共时情谊提供认知基础设施。 |
 > | [[Benedict Anderson]] | 人物 | 在《想象的共同体》导论中正式提出并阐述该概念。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]] — 界定横向同志情谊为民族共同体属性的核心构念，解释千百万人甘愿为有限政治想象献出生命的终极情感谜题（p. 7）。
+> - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]] — 在第一章将横向同志情谊界定为民族核心构念以解牺牲之谜（p. 7），并在[[Argument_Anderson_2016_Verso_Ch02|第二章]]阐明兄弟情谊如何承接死亡宿命并与世俗权力及齐一时间结合（pp. 9–11, 36）。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 将横向情谊延伸至认知人类学与地缘科技政治，论证其在克服邓巴数限制与守卫国家技术协同攻坚中的制度防线价值（pp. 190–198）。
