@@ -68,7 +68,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-31
-updated: 2026-10-30
+updated: 2026-11-10
 ---
 
 ---
@@ -77,7 +77,7 @@ updated: 2026-10-30
 > 主题综合法（Thematic Synthesis）是由 James Thomas 与 Angela Harden 于 2008 年提出的一种专门用于[[Systematic Review\|系统综述]]中的质性证据整合方法。该方法结合了传统[[Qualitative Research\|质性研究]]中的主题分析（Thematic Analysis）与元[[Ethnography\|民族志]]的综合逻辑，通过对初级研究的结果（Findings）进行“逐行自由编码（Line-by-Line Coding）”、“归纳描述性主题（Descriptive Themes）”以及“生成超越原[[Document|文献]]的分析性主题（Analytical Themes）”三个阶段，将来自多元定性、定量描述与[[Mixed Methods Research\|混合方法研究]]的分散发现转化为具有理论解释力的新见解（[[Argument_Li_2026_CEAI\|Li et al., 2026, pp. 4–5]]）。
 
 > [!method-scope] 方法范围
-> - **研究对象** 纳入系统综述的初级实证文献中的质性文本、访谈引语、观察记录、自陈调查描述性结果与作者的讨论发现。
+> - **研究对象** 纳入系统综述的初级实证文献中的质性文本、访谈引语、观察记录、自陈调查描述性结果与原研究讨论发现。
 > - **问题类型** 适合回答“过程机制”、“体验感知”、“实施促进与阻碍因素”以及“为什么某种干预在不同情境中会产生[[Heterogeneity\|异质性]]结果”。
 > - **[[Unit of Analysis\|分析单位]]** 初级研究文献及其提取的发现段落与编码单元。
 > - **输出形式** 层级化主题框架（包含基础编码、描述性主题与高阶分析性综合主题），常配合频数矩阵与情境调节模型呈现。
@@ -133,7 +133,7 @@ updated: 2026-10-30
 ---
 
 > [!method-limits] 方法局限
-> - **偏误来源** 依赖综述作者对二手质性文本的再阐释，可能脱离初级研究的原始田野情境；过度聚焦高频主题可能忽略边缘个案的独特性。
+> - **偏误来源** 依赖综述研究者对二手质性文本的再阐释，可能脱离初级研究的原始田野情境；过度聚焦高频主题可能忽略边缘个案的独特性。
 > - **适用边界** 结论的[[External Validity\|可推广性]]属于理论性迁移（Theoretical Generalizability）而非统计学代表性。
 > - **误用风险** 仅仅停留在初级研究发现的简单罗列与重述，未能真正进入第三阶段生成具有超越性的分析性理论主题。
 > - **补救方式** 建立明确的编码树与[[Audit Trail\|审计追踪]]链（Audit Trail）；结合 [[Mixed Methods Appraisal Tool\|MMAT]] 等工具进行严格的方法学质量加权；开展团队盲审与[[Reflexivity\|反身性]]审视。
@@ -152,4 +152,5 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 遵循扎根理论编码程序对 43 篇系统改进实证文献进行三级归纳与模式提炼，综合识别出全系统改进的四大关键驱动要素。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — 遵循 Thomas and Harden (2008) 的主题综合法，对 67 篇探讨 ChatGPT 对高校学生批判与[[Creativity\|创造性思维]]影响的实证文献进行三阶段[[Coding in Qualitative Research\|质性编码]]与主题聚类，构建[[Man-Computer Symbiosis|人机协同]]认知共现演进模型。

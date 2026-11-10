@@ -5,9 +5,9 @@ aliases:
 summary: "跨越单一国家教育边界组织人员、共同生活、课程、评价与资格承认的教育实践和制度。既包含以跨文化理解为目的的教育计划，也包含全球化推动的流动市场扩张，以及当代发展型国家依托地缘战略资助推进南南合作的新型治理形态。"
 type: concept
 domain: "higher-education"
-related_count: 68
-related_level: 6
-related_stars: "💎💎"
+related_count: 70
+related_level: 7
+related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - concept/higher-education
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Operationalization]]"
   - "[[Education Export]]"
+  - "[[International Education Hubs]]"
 related_theories:
   - "[[Capability Approach]]"
   - "[[Hegemony]]"
@@ -89,10 +90,11 @@ related_arguments:
   - "[[Argument_Liu_2025_IndHE]]"
   - "[[Argument_Peterson_1987_OpenCourt]]"
   - "[[Argument_Kuortti_2025_JEdPolicy]]"
+  - "[[Argument_Qu_2024_IJED]]"
 confidence: high
 status: active
 created: 2026-05-16
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 
 ---
@@ -117,7 +119,7 @@ updated: 2026-11-09
 
 ---
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 国际教育 | [[Internationalization of Higher Education\|高等教育国际化]] | 比较教育 | [[Global Universities Rankings\|全球大学排名]] |
 > |---|---|---|---|---|
 > | **核心对象** | 跨国教育[[Praxis\|实践]]、关系和制度 | 高校主动实施的国际化政策与战略 | 对不同国家教育制度的研究与解释 | 对大学表现进行跨国测量和排序的工具系统 |
@@ -151,10 +153,10 @@ updated: 2026-11-09
 > [!concept-proposition] 命题一｜跨国人员共处只有经过关系和行动设计才会成为国际教育
 > **从人口构成到教育经验维度** 区分学校里不同国籍的简单共处与不同身份者形成跨文化理解两个层次，关注共同生活如何产生真实的教育作用。
 
-> [!claim] Peterson, A.
+> [!claim] [[Argument_Peterson_1987_OpenCourt|Peterson (1987)]]
 > **多样性本身缺乏自动化机制** 马来亚三语标语表明，不同语言可以表达共同规范，但共同价值仍需在行为中接受检验。大西洋学院超越了国籍统计的表面形式，以适龄选择、寄宿、男女同校、共同服务、露营和救援任务，让学生在真实依赖和冲突中表达边界、修正期待并承担后果。国际理解立足于跨文化关系中的实际行动能力，超越了单纯关于他国的静态信息积累。[[Argument_Peterson_1987_OpenCourt_Ch01|(Peterson, 1987, pp. 1–9)]]
 
-> [!claim] Peterson, A.
+> [!claim] [[Argument_Peterson_1987_OpenCourt|Peterson (1987)]]
 > **信息用途不能独自规定国际教育的价值** 他国语言、社会与市场知识可以服务商业竞争，敌情课程也显示信息能够服务对抗和操纵。以完整人格发展为目的的[[General Education|通识教育]]，要求信息进入理解，理解其他文化又涉及一定程度的同情。积极的国际教育因而同时进入认知和情感领域，形成理解与合作态度。[[Argument_Peterson_1987_OpenCourt_Ch08|(Peterson, 1987, pp. 193–199)]]
 
 ---
@@ -162,10 +164,10 @@ updated: 2026-11-09
 > [!concept-proposition] 命题二｜国际教育只有进入组织、课程和资格网络才能持续运行
 > **教育价值与资格制度维度** 国际教育需要把共同生活、课程目标与跨国资格连接起来，才能取得连续运行的组织能力。
 
-> [!claim] Peterson, A.
+> [!claim] [[Argument_Peterson_1987_OpenCourt|Peterson (1987)]]
 > **国际课程的制度支柱超越单一教学大纲** 大西洋学院采用英国普通教育证书高级程度考试（GCE A-level）可以暂时维持共同教学，却无法解决国家偏向、语言公平、学科广度、录取时序和学生回国升学问题。[[International Baccalaureate|国际文凭]]（IB）随后把教师倡议、独立法律组织、连续资金、六学科、[[Theory of Knowledge|知识论]]（TOK）、试验学校、家庭风险和大学有限承认连接起来，才使国际教育从共同生活实验扩展为可用于升学的资格。[[Argument_Peterson_1987_OpenCourt_Ch01|(Peterson, 1987, pp. 9–13)]]; [[Argument_Peterson_1987_OpenCourt_Ch02|(Peterson, 1987, pp. 17–31)]]
 
-> [!claim] Peterson, A.
+> [!claim] [[Argument_Peterson_1987_OpenCourt|Peterson (1987)]]
 > **考试是缺乏行政权力时的课程实施工具** 国际文凭办公室（IBO）无法像国家系统那样以法律、师训和督学规定学校，只能主要通过考试规则保护课程。课程必须先规定希望形成的思维方式和经验，评价再在效度、[[Reliability|可靠性]]、反拨、成本与速度之间权衡；否则升学压力会把国际教育重新缩减为最容易计分的内容。[[Argument_Peterson_1987_OpenCourt_Ch03|(Peterson, 1987, pp. 33–57)]]
 
 ---
@@ -173,10 +175,10 @@ updated: 2026-11-09
 > [!concept-proposition] 命题三｜全球化扩大了国际教育，也使其进入市场和文化权力关系
 > **规模扩张与去国家化的限度维度** 把国际教育视为全球化基础设施，同时追问跨境扩张是否真正摆脱了国家、阶层和文化中心。
 
-> [!claim] Slethaug, G.
+> [!claim] [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]]
 > **去国家化同时是需求变化和市场转型** [[International Schools|国际学校]]从服务殖民者与侨民子女转向服务本地富裕家庭，创始国学生比例下降，课程转向 IB 等跨国资格；海外分校、留学和国际教育中心也随[[Knowledge-Based Economy|知识经济]]竞争扩张。学校由此不再只代表母国，却更依赖学费、消费者需求和全球声誉。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 15–28)]]
 
-> [!claim] Slethaug, G.
+> [!claim] [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]]
 > **去国家化不等于文化中立** IB 所强调的开放心态和多角度思考仍可能预设西方教学方式，英语要求也会产生权力差异；反过来，西方课程框架可能忽视中国教育中知识学习与道德发展的结合。跨越国家边界因此不消除文化预设，只是使其在新的制度中重新组合。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 25–29)]]
 
 ---
@@ -184,8 +186,16 @@ updated: 2026-11-09
 > [!concept-proposition] 命题四｜国际教育多边主义的主导机构与经贸规则深刻重塑了公共教育政策空间
 > **多边主义演进与全球教育治理规训维度** 探讨国际教育如何从战后人道主义与社会福利价值导向，演变为受跨国金融组织与自由贸易规则支配的规训性经贸系统。
 
-> [!claim] Arnove, R.
+> [!claim] [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]]
 > **多边治理的主导规则发生变化** 罗伯特·阿诺夫（Robert Arnove）指出，国际教育战后初期以[[UNESCO|联合国教科文组织]]为主导，强调人道主义价值与社会福利，支持新兴独立民族国家建立公共教育；自 1980 年代起，伴随债务危机与新自由主义崛起，国际教育治理转向以[[World Bank|世界银行]]为核心的防卫性与规训性多边主义，通过[[Structural Adjustment Programs|结构调整方案]]推行财政紧缩与市场化改革；至 1995 年[[World Trade Organization|世界贸易组织]]（WTO）成立并推行《[[GATS and Trade in Education Services|服务贸易总协定]]》（GATS），国际教育进一步被纳入全球跨国服务贸易规制，使教育主权与公共服务受到商品化规则的约束。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
+
+---
+
+> [!concept-proposition] 命题五｜跨境教育模式演进与本土教育枢纽集群化
+> **跨国教育代际演进与在地集群化维度** 国际教育从以师生跨境单向流动为特征的第一代模式，演进为以机构与项目跨境流动为特征的第二代跨国教育（TNE），进而在国家战略驱动下转向以[[International Education Hubs|国际教育枢纽]]为核心的第三代集群化本土国际化模式。
+
+> [!claim] [[Argument_Qu_2024_IJED|Qu and Dai (2024)]]
+> **三代跨境教育演化与在地化枢纽布局** 屈琼斐与戴德生（[[Argument_Qu_2024_IJED|Qu & Dai, 2024]]）指出，中国国际教育经历了从第一代师生跨境流动（如学生出境留学与来华留学）、第二代跨国教育（中外合作办学机构与项目）向第三代国际教育枢纽的演化。面对高等教育大众化（2020 年毛入学率达 58.4%）与复杂地缘政治格局，中国采取三轨并行的国际教育策略：支持学生出境与来华留学（2020 年为全球第四大留学目的地，2019 年为亚洲第一）、在本土推进国际化（引入境外课程与评估框架）、并在特定试验区设立教育枢纽集群，推动教育、科研与产业创新生态深度融合。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2–3, 8–10)]]
 
 ---
 
@@ -197,6 +207,7 @@ updated: 2026-11-09
 > | **扩张与文化权力** | 去国家化伴随市场化转型、文化预设与新的不平等生成 | 国际学校产业、IB、海外分校与留学生流动 | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010)]] |
 > | **多边治理与经贸规则** | 有限再分配转向财政紧缩与跨国教育服务贸易规制 | 全球多边机构、WTO/GATS 规则与结构调整 | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009)]] |
 > | **地缘战略资助与脆弱性** | 发展型国家以全额资助推动国际教育对接战略走廊，但面临经济依附与地缘政治脆弱性 | “一带一路”跨国留学生流动、南南教育治理 | [[Argument_Woo_2023_HEP\|Woo (2023)]]; [[Argument_Liu_2025_IndHE\|Liu et al. (2025)]] |
+> | **三代演进与在地枢纽** | 国际教育从单向人员流动演进为跨境项目合作，进而在国家战略统筹下以在地教育枢纽实现集群化本土国际化 | 跨境教育转型、中外合作办学、国际教育枢纽 | [[Argument_Qu_2024_IJED\|Qu and Dai (2024)]] |
 
 ---
 
@@ -206,6 +217,7 @@ updated: 2026-11-09
 > - **1980 年代 — 债务危机与防卫性规训多边主义** 全球南方债务危机爆发后，国际教育治理主导权自教科文组织转向[[World Bank|世界银行]]与 IMF，通过结构调整推行紧缩与收取学杂费，教育被重塑为服务经济增长的工具。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 > - **1990 年代至 2000 年代初 — 大众流动与 WTO/GATS 贸易规制扩张** 留学生流动急剧增长；1995 年世贸组织实施《服务贸易总协定》，国际教育确立为跨国服务贸易门类；2000 年 PISA 与大学排名系统将教育机构置入全球共同测量序列。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 1–18)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 > - **2020 年代 — 发展型国家地缘战略资助模式** [[Argument_Woo_2023_HEP|Woo (2023)]] 系统剖析国际教育从西方新自由主义主导的高额学费出口创汇市场，拓展为由国家全额奖学金与基建产能配套支撑的地缘战略公法工具，并实证诊断其内在脆弱性。
+> - **2024 年 — 三代跨境教育演化与教育枢纽集群化** [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] 提出中国跨境教育代际演进谱系，系统梳理从第一代跨境流动、第二代跨国合作办学到第三代国际教育枢纽集群的转变，确立在地国际化与区域创新生态协同发展的新格局。
 > - **2025 年 — 北欧高中教育出口与跨国市场准入突破** [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] 揭示芬兰普通高中教育出口如何以国际教育市场化为导向，通过设立市政离岸有限责任公司与修改公法准入规则，打破北欧公立高中的去商品化传统。
 
 ---
@@ -251,6 +263,7 @@ updated: 2026-11-09
 > | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p. 4)]] | 香港英基学校协会（[[English Schools Foundation Hong Kong\|ESF]]） | 本地学生比例 | 40%–50%为本地香港华人 | 说明侨民学校向本地家庭开放，不能代表所有国际学校 |
 > | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 6–11)]] | 不同[[Global Universities Rankings\|全球大学排名]] | 同一大学的名次 | 未入前300与世界第8 | 原有概述未指明大学与排名对应关系；用于提示指标选择的影响，不能直接估计排名质量 |
 > | [[Argument_Woo_2023_HEP\|Woo (2023, pp. 692–693)]] | 中国“[[Belt and Road Initiative\|一带一路]]”跨国高等教育留学生资助与中苏合作历史档案 | 留学生奖学金依附性与历史双边专家派遣规模 | 1950年代苏联向中国派出约13,000名专家，中国选派38,000名留学生赴苏，1960年因意识形态决裂双边合作骤停；2010年代沿线来华留学生高度依附全额国家奖学金 | 揭示依附于政府补贴与地缘互信的跨国教育流动在外部关系恶化时的脆弱本质 |
+> | [[Argument_Qu_2024_IJED\|Qu and Dai (2024, pp. 2–3)]] | 中国高等教育与国际流动规模（2019–2020） | 毛入学率与留学目的地地位 | 2020 年中国高等教育毛入学率达到 58.4%；2019 年为亚洲第一大留学目的地国，2020 年为全球第四大留学目的地国 | 宏观统计指标反映人员流动与教育大众化总体规模，不直接衡量在地合作办学的教学与科研融合效度 |
 
 ---
 
@@ -262,6 +275,7 @@ updated: 2026-11-09
 > | [[International Baccalaureate]] | 概念 | 国际教育中最具代表性的跨国课程与资格认证体系。 |
 > | [[Internationalization of Higher Education]] | 概念 | 国际教育在高等教育领域的战略化与机构化形态。 |
 > | [[Education Export]] | 概念 | 国际教育作为商品与知识资产跨国交易的具体经贸形态。 |
+> | [[International Education Hubs]] | 概念 | 国际教育第三代集群化发展的空间组织与创新载体。 |
 > | [[Educational Multilateralism]] | 概念 | 规范与协调跨国教育流动的主导多边制度体系。 |
 > | [[South-South Cooperation]] | 概念 | 发展型国家推进国际教育合作所依托的新型地缘战略框架。 |
 > | [[Student Mobility]] | 概念 | 国际教育中最直观的跨境人员流动表现形式。 |
@@ -281,3 +295,4 @@ updated: 2026-11-09
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 结合 CIES 学会建制史，批判国际教育合作在资本主义全球化中沦为依附性强制再生产工具的异化风险，重申主权自决与人道主义解放初心（pp. 126–135）。
 > - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 实证检验中国高校参与一带一路的产学研合作项目，揭示政府、企业、高校与学生四方协同如何实现长期经济理性与技术自主能力共生（pp. 190–195）。
 > - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 考证芬兰促进教育出口工作组报告与高中教育出口政策，揭示国际教育市场拓展如何驱动福利国家公立学校推行内外生混合私有化。
+> - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 梳理中国跨境教育从第一代单向流动、第二代中外合作办学到第三代教育枢纽的演进历程，分析国际教育在地化与区域创新发展的协同机制（pp. 1–11）。

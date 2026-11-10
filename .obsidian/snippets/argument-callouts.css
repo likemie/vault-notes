@@ -25027,7 +25027,41 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([d
  font:600 1.06em/1.6 var(--ac-serif) !important; color:var(--fdc-ink) !important; letter-spacing:.01em !important;
 }
 html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-content > :is(ul,ol) > li > p { margin:0 !important; padding:0 !important; border:0 !important; background:none !important; color:var(--text-normal) !important; box-shadow:none !important; font:inherit !important; }
-html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="feature"] > .callout-content > :is(ul,ol) { display:grid !important; grid-template-columns:repeat(2,minmax(0,1fr)) !important; gap:1rem 1.5rem !important; }
+/* Compact spacing for feature lists. */
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="feature"] {
+  padding:.85rem 1.1rem .8rem !important;
+
+  &:not(.is-collapsed) > .callout-title {
+    margin-bottom:.45rem !important;
+    padding-bottom:.45rem !important;
+  }
+
+  & > .callout-title .callout-title-inner::before {
+    margin-bottom:.25rem !important;
+  }
+
+  & > .callout-content > :is(ul,ol) {
+    display:grid !important;
+    grid-template-columns:repeat(2,minmax(0,1fr)) !important;
+    gap:.35rem 1.1rem !important;
+
+    & > li {
+      padding:.58rem .2rem .38rem .9rem !important;
+      line-height:1.68 !important;
+
+      &::before { top:.99rem !important; }
+
+      & > strong:first-of-type,
+      & > p:first-of-type > strong:first-of-type {
+        margin-bottom:.22rem !important;
+        line-height:1.45 !important;
+      }
+
+      & > strong:first-of-type + br,
+      & > p:first-of-type > strong:first-of-type + br { display:none !important; }
+    }
+  }
+}
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="feature"] > .callout-content > :is(ul,ol) > li:last-child:nth-child(odd) { grid-column:1 / -1 !important; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="def"] > .callout-content > p:first-child { border-left:2px solid var(--fdc-accent) !important; padding:.15rem 0 .15rem 1rem !important; font-size:1.025em !important; line-height:1.95 !important; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="def"] > .callout-content > p:first-child > strong:first-of-type { color:var(--fdc-ink) !important; font-family:var(--ac-serif); }

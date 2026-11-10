@@ -6,6 +6,11 @@ aliases:
   - Delivery Model of Curriculum
 summary: "杰夫·马斯特斯等学者界定的传统教育范式构念，假定同龄学生具备同质学习准备度，将教学简化为自上而下按年级大纲机械传递知识、学生被动接受并通过终结性考试分级评定，与关注个体年度增量成长的现代发展性评价模型相对立。"
 type: concept
+domain: "curriculum"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/curriculum
   - theme/curriculum-delivery

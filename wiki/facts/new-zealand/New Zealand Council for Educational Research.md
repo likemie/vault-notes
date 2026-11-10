@@ -7,6 +7,12 @@ summary: "新西兰法定国家独立教育研究机构，依据《1972年新西
 type: fact
 subtype: organization
 region: new-zealand
+fact_region: "new-zealand"
+fact_kind: "organization"
+fact_related_count: 14
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dcfce7"
 org_type: "statutory research council"
 headquarters: "Wellington, New Zealand"
 established: "1934"

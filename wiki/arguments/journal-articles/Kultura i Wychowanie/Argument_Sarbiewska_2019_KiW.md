@@ -59,6 +59,9 @@ related_persons:
   - "[[Thomas Aastrup Rømer]]"
   - "[[David Gonski]]"
   - "[[Geoff Masters]]"
+  - "[[Eric Hanushek]]"
+  - "[[Cathy Wylie]]"
+  - "[[Andrea Saltelli]]"
 related_facts:
   - "[[Gonski 2.0]]"
   - "[[PISA]]"
@@ -74,6 +77,7 @@ related_facts:
   - "[[Australian Curriculum]]"
   - "[[Australian Curriculum, Assessment and Reporting Authority]]"
   - "[[New Zealand Council for Educational Research]]"
+  - "[[New Zealand Quality Teaching Strategy]]"
 related_arguments: []
 sources:
   - "[[sources/Sarbiewska_2019_KiW/Sarbiewska_2019_KiW|Sarbiewska_2019_KiW]]"
@@ -87,10 +91,10 @@ title: "Argument_Sarbiewska_2019_KiW"
 argument_key: "Argument_Sarbiewska_2019_KiW"
 argument_display_title: "Visible Learning and educational policies in New Zealand and Australia"
 argument_kind: "journal-article"
-argument_related_count: 48
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#dbeafe"
+argument_related_count: 54
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: "Kultura i Wychowanie"
 book_title: ""
 publication_place: ""
@@ -135,7 +139,7 @@ issuing_organization: ""
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **政策与评估文本** | 包含新西兰《十年回顾：学校如何看待教育改革》（Wylie, 1999）、《最佳证据综合》（[[Adrienne Alton-Lee\|Alton-Lee]], 2004）、[[Education Review Office\|新西兰教育审查办公室]]（Education Review Office, ERO）编制的《引领新西兰学校创新学习》（ERO, 2018）、澳大利亚 Gonski 2.0 报告（2018）、《[[Melbourne Declaration\|墨尔本宣言]]》（2008）等官方文件。 |
+> | **政策与评估文本** | 包含新西兰《十年回顾：学校如何看待教育改革》（[[Cathy Wylie|Wylie]], 1999）、《最佳证据综合》（[[Adrienne Alton-Lee\|Alton-Lee]], 2004）、[[Education Review Office\|新西兰教育审查办公室]]（Education Review Office, ERO）编制的《引领新西兰学校创新学习》（ERO, 2018）、澳大利亚 Gonski 2.0 报告（2018）、《[[Melbourne Declaration\|墨尔本宣言]]》（2008）等官方文件。 |
 > | **课程与教学规程** | 包含《澳大利亚课程》（Australian Curriculum, 2012/2015）、《新西兰国家课程》（The New Zealand Curriculum, 2010/2012）以及维多利亚州《高影响教学策略》（High Impact Teaching Strategies, HITS; 2017）。 |
 > | **学术批判语料** | 纳入丹麦学者托马斯·罗默（[[Thomas Aastrup Rømer]]）关于可见学习激进建构主义倾向的哲学批判，以及统计学家皮埃尔-热罗姆·贝尔热龙（Pierre-Jérôme Bergeron）的方法论商榷。 |
 
@@ -178,7 +182,7 @@ issuing_organization: ""
 
 > [!case] 新西兰明日学校分权改革的治理背景与追踪调研
 > - **[[New Public Management|新公共管理]]分权导向** 新西兰在 1989 至 1999 年间推行[[Tomorrow's Schools Reforms|明日学校改革]]，其核心聚焦于行政管理分权，把教育视作拉动经济增长的技术工具（Hawke, 1998）。
-> - **全系统十年追踪调研** 新西兰教育研究委员会（New Zealand Council for Educational Research, NZCER）学者凯茜·怀利（Wylie, 1999）对校长、校董事、家长与一线教师展开跨十年系统调研，发布评估报告《十年回顾：学校如何看待教育改革》（*Ten years on: How schools view educational reform*）。
+> - **全系统十年追踪调研** [[New Zealand Council for Educational Research|新西兰教育研究委员会]]（New Zealand Council for Educational Research, NZCER）学者[[Cathy Wylie|凯茜·怀利]]（Wylie, 1999）对校长、校董事、家长与一线教师展开跨十年系统调研，发布评估报告《十年回顾：学校如何看待教育改革》（*Ten years on: How schools view educational reform*）。
 
 > [!challenges] 明日学校十年评估暴露的五重治理困境
 > - **公共资助匮乏** 87% 的受访校长明确指出政府拨款无法满足学校基本办学需求。
@@ -188,7 +192,7 @@ issuing_organization: ""
 > - **教学关系[[Epoché|悬置]]** 外部行政管理调整未触及微观课堂互动，无法为课堂实践提供有效专业支持。
 
 > [!implication] 治理受挫倒逼政策重心转向微观课堂教学
-> 十年分权改革的受挫证实，单纯调整外部行政架构无法提高教学质量。澳新教育界由此认识到，教育改革必须转向以实证研究为依据的微观教学进路。2003 年，新西兰教育部正式将优质教学确立为提升学生学业成就的首要国家战略，推动改革视线从宏观行政管理全面转向微观课堂师生互动。
+> 十年分权改革的受挫证实，单纯调整外部行政架构无法提高教学质量。澳新教育界由此认识到，教育改革必须转向以实证研究为依据的微观教学进路。2003 年，新西兰教育部正式将[[New Zealand Quality Teaching Strategy|优质教学战略]]确立为提升学生学业成就的首要国家战略，推动改革视线从宏观行政管理全面转向微观课堂师生互动。
 
 ---
 
@@ -235,7 +239,7 @@ issuing_organization: ""
 
 > [!tension] PISA 均分优势与校内严重分化的实证张力
 > - **均分与公平表象** [[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）2001 年首轮 PISA 阅读素养测试（覆盖 32 个国家 26.5 万名 15 岁学生）显示，新西兰与澳大利亚整体位列第一象限，展现出高质量与高公平的宏观表象。
-> - **内部方差与分化现实** 学者萨尔泰利（Saltelli, 2017）等指出 PISA 数据存在低估测量误差与指标排名的局限；更关键的实证事实在于，两国在优异均分背后潜藏着极大的内部方差，高平均分掩盖了学生之间显著的学业差距。
+> - **内部方差与分化现实** 学者[[Andrea Saltelli|萨尔泰利]]（Saltelli, 2017）等指出 PISA 数据存在低估测量误差与指标排名的局限；更关键的实证事实在于，两国在优异均分背后潜藏着极大的内部方差，高平均分掩盖了学生之间显著的学业差距。
 
 > [!contrast-table] PISA 2001 国际阅读素养质量与公平四象限分布
 > | 象限划分 | 质量特征（学业均分） | 公平特征（方差控制） | 代表性国家与地区 |
@@ -265,7 +269,7 @@ issuing_organization: ""
 > [!sub-claim] 1. 提炼十项高影响教学策略，建立教师常态化分享实践证据的专业生态
 
 > [!evidence-grid] 教师教学效能差距与专家素养实证
-> - **效能增量悬殊** 斯坦福大学经济学家哈努谢克测算表明，接受处于前 10% 顶尖教师指导的学生在一学年内能获得 1.5 年的知识成长，而接受后 10% 教师指导仅能获得 0.5 年的增量（The Economist, 2016）。
+> - **效能增量悬殊** 斯坦福大学经济学家[[Eric Hanushek|哈努谢克]]测算表明，接受处于前 10% 顶尖教师指导的学生在一学年内能获得 1.5 年的知识成长，而接受后 10% 教师指导仅能获得 0.5 年的增量（The Economist, 2016）。
 > - **专家素养特征** 哈蒂（Hattie, 2003）提炼出优秀教师的 16 项典型特征，强调优秀教师善于营造积极探究氛围、及时提供高质量形成性反馈，并时刻关注自身教学对学生理解的影响。
 
 > [!case] 澳大利亚维多利亚州高影响教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）与证据中介生态
@@ -279,8 +283,8 @@ issuing_organization: ""
 > [!warrant] 个体准备度差异倒逼评价范式转向增量成长
 > 哈蒂（Hattie, 2008）实证研究表明，学生学业成绩方差中约 50% 取决于学习者自身的先备知识与经验。[[David Gonski|戴维·冈斯基]]（[[David Gonski]]）主导的澳大利亚教育评估委员会发布 Gonski 2.0 报告《通过成长实现成就》（2018），马斯特斯（Masters, 2018）指出，若教学脱离学生的真实准备起点，重复已知内容或强授缺乏基础的知识，学习均无法发生，评价机制必须从按年龄一刀切转向衡量个体年度增量。
 
-> [!row-contrast] 传统年级课程交付模型与 Gonski 2.0 个体增量模型多维对照
-> | 比较维度 | 传统年级课程交付模型 | Gonski 2.0 个体增量成长模型 |
+> [!row-contrast] [[Curriculum Delivery Model|传统年级课程交付模型]]与 Gonski 2.0 个体增量模型多维对照
+> | 比较维度 | [[Curriculum Delivery Model|传统年级课程交付模型]] | Gonski 2.0 个体增量成长模型 |
 > |---|---|---|
 > | **核心假定** | 假定同龄学生在同一时间具备完全相同的学习准备度 | 承认同龄学生先备知识差异显著，以个性化[[Zone of Proximal Development\|最近发展区]]为基准 |
 > | **教学与课程** | 自上而下机械交付既定年级水平课程 | 依据学生起点制定具有挑战性的[[Personalized Learning\|个性化学习]]目标 |
@@ -313,7 +317,7 @@ issuing_organization: ""
 
 ---
 
-> [!citation-card] 传统教育模型的机械交付特征
+> [!citation-card] [[Curriculum Delivery Model|年级课程交付模型]]的机械特征
 > 在传统模型中，教学被理解为向所有学生交付适切的年级水平课程。按照这种观念，教师的角色是交付相关课程；学生的工作是学习教师所教的内容；而评估的作用则是检验学生对教师讲授内容的掌握程度并以此进行等级评定。
 >
 > *According to [[Geoff Masters]], Chief Executive of the Australian Council for Educational Research, teaching in the pre-reform was based on ‘[…] the delivery of the appropriate year-level curriculum to all students. Under this view, the role of teachers is to deliver the relevant curriculum; the job of students is to learn what teachers teach; and the role of assessment is to establish how well students have learnt what teachers have taught and to grade them accordingly.’*

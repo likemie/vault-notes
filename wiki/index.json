@@ -3289,6 +3289,16 @@
     ]
   },
   {
+    "title": "Curriculum Delivery Model",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Curriculum Delivery Model.md",
+    "aliases": [
+      "年级课程交付模型",
+      "传统课程交付模型",
+      "Delivery Model of Curriculum"
+    ]
+  },
+  {
     "title": "Diversity Courses",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Diversity Courses.md",
@@ -7620,6 +7630,18 @@
       "研究证据过剩",
       "信息过量时代证据过剩",
       "Surplus of Research Evidence"
+    ]
+  },
+  {
+    "title": "System-Wide Improvement",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/System-Wide Improvement.md",
+    "aliases": [
+      "全系统改进",
+      "系统性改进",
+      "教育系统改进",
+      "system-wide educational improvement",
+      "systemic improvement in education"
     ]
   },
   {
@@ -30859,6 +30881,14 @@
     ]
   },
   {
+    "title": "Andrea Saltelli",
+    "type": "person",
+    "path": "wiki/persons/italy/Andrea Saltelli.md",
+    "aliases": [
+      "安德烈亚·萨尔泰利"
+    ]
+  },
+  {
     "title": "Filippo Radicchi",
     "type": "person",
     "path": "wiki/persons/italy/Filippo Radicchi.md",
@@ -31061,6 +31091,14 @@
     "aliases": [
       "艾德里安·奥尔顿-李",
       "艾德里安·阿尔顿-李"
+    ]
+  },
+  {
+    "title": "Cathy Wylie",
+    "type": "person",
+    "path": "wiki/persons/new-zealand/Cathy Wylie.md",
+    "aliases": [
+      "凯茜·怀利"
     ]
   },
   {
@@ -42364,6 +42402,16 @@
     "subtype": "organization"
   },
   {
+    "title": "New Zealand Council for Educational Research",
+    "type": "fact",
+    "path": "wiki/facts/new-zealand/New Zealand Council for Educational Research.md",
+    "aliases": [
+      "NZCER",
+      "新西兰教育研究委员会"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "New Zealand Initiative",
     "type": "fact",
     "path": "wiki/facts/new-zealand/New Zealand Initiative.md",
@@ -42422,6 +42470,17 @@
     "aliases": [
       "新西兰国家标准",
       "National Standards"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "New Zealand Quality Teaching Strategy",
+    "type": "fact",
+    "path": "wiki/facts/new-zealand/New Zealand Quality Teaching Strategy.md",
+    "aliases": [
+      "新西兰优质教学战略",
+      "Quality Teaching Strategy",
+      "Quality Teaching"
     ],
     "subtype": "policy"
   },
@@ -50075,6 +50134,11 @@
     "title": "Argument_Keddie_2020_JEAH",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Journal of Educational Administration and History/Argument_Keddie_2020_JEAH.md"
+  },
+  {
+    "title": "Argument_Barrenechea_2023_JEC",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
   },
   {
     "title": "Argument_Zhao_2017_JEC",

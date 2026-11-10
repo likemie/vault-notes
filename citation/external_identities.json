@@ -3012,6 +3012,7 @@
         "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md",
         "wiki/concepts/competency-and-assessment/Within-School Variance.md",
         "wiki/concepts/educational-leadership-administration/Instructional Leadership.md",
+        "wiki/facts/new-zealand/New Zealand Quality Teaching Strategy.md",
         "wiki/facts/new-zealand/Tomorrow's Schools Reforms.md",
         "wiki/persons/new-zealand/Adrienne Alton-Lee.md"
       ],
@@ -5476,6 +5477,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/persons/uk/Paul Morris.md"
       ],
       "title": ""
@@ -21534,6 +21536,14 @@
       ],
       "title": ""
     },
+    "Cogan et al., 2001": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+      ],
+      "title": ""
+    },
     "Cogo-Moreira, 2013": {
       "datasets": [
         "eef:arts-participation"
@@ -25176,6 +25186,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Conceptual gain and successful problem-solving in primary school mathematics"
+    },
+    "David & Talbert, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+      ],
+      "title": ""
     },
     "David Berliner, 2002": {
       "doi": "",
@@ -31101,6 +31119,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Promoting Phonological Awareness Skills of Egyptian Kindergarteners through Dialogic Reading"
+    },
+    "Elmore & Burney, 1998": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+      ],
+      "title": ""
     },
     "Elnegar & Darwazeh, 2018": {
       "doi": "",
@@ -37089,6 +37115,14 @@
       ],
       "title": ""
     },
+    "Fullan & Rincon-Gallardo, 2016": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+      ],
+      "title": ""
+    },
     "Fullan, 2007": {
       "doi": "",
       "isbn": "",
@@ -39426,6 +39460,7 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md",
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11.md",
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md",
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/arguments/journal-articles/Research Policy/Argument_Fuchs_2010_RP.md",
         "wiki/concepts/educational-philosophy/Interpretive Paradigm.md",
         "wiki/concepts/educational-philosophy/Principle of Parsimony.md",
@@ -48703,6 +48738,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/science-policy/Reflexive Governance.md"
       ],
       "title": ""
@@ -48758,6 +48794,14 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24.md",
         "wiki/concepts/research-methodology/Sampling Error.md",
         "wiki/theories/research-methodology/Central Limit Theorem.md"
+      ],
+      "title": ""
+    },
+    "Hopkins et al., 2007": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
       ],
       "title": ""
     },
@@ -63125,7 +63169,9 @@
       ],
       "doi": "https://doi.org/10.1007/s11145-010-9254-y",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+      ],
       "title": "Mother-Child Joint Writing and Storybook Reading and their Effects on Kindergartners' Literacy  An Intervention Study"
     },
     "Levin, 2013": {
@@ -67634,6 +67680,14 @@
       ],
       "title": ""
     },
+    "Mallard, 2003": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/new-zealand/New Zealand Quality Teaching Strategy.md"
+      ],
+      "title": ""
+    },
     "Mallawaarachchi et al., 2022": {
       "datasets": [
         "metax:S2327"
@@ -69269,6 +69323,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md",
+        "wiki/concepts/curriculum/Curriculum Delivery Model.md",
         "wiki/facts/australia/Gonski 2.0.md"
       ],
       "title": ""
@@ -74178,6 +74233,14 @@
       "seen_in": [],
       "title": "Using classroom management to improve preschoolers' social and emotional skills  Final impact and implementation findings from the foundations of learning demonstration in Newark and Chicago"
     },
+    "Morris, 2015": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+      ],
+      "title": ""
+    },
     "Morris, 2019": {
       "datasets": [
         "eef:physical-activity"
@@ -74761,6 +74824,14 @@
       "seen_in": [],
       "title": "The Effectiveness of a Program Based on Self-Regulated Strategy Development on the Writing Skills of Writing-Disabled Secondary School Students"
     },
+    "Mourshed et al., 2010": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+      ],
+      "title": ""
+    },
     "Moustakas, 1994": {
       "doi": "",
       "isbn": "",
@@ -75313,6 +75384,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Understanding how students learn: A guide for instructional leaders"
+    },
+    "Murphy & Hallinger, 1988": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+      ],
+      "title": ""
     },
     "Murphy et al., 2009": {
       "datasets": [
@@ -77662,6 +77741,7 @@
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_HistoricalReflections.md",
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md",
         "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2009_CE.md",
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/comparative-education/Academic Iconography.md",
         "wiki/concepts/comparative-education/Auslandspadagogik.md",
         "wiki/concepts/comparative-education/Comparative History of Comparative Education.md",
@@ -77693,8 +77773,7 @@
         "wiki/persons/switzerland/Johann Heinrich Pestalozzi.md",
         "wiki/persons/uk/Nicholas Hans.md",
         "wiki/persons/us/Calvin Stowe.md",
-        "wiki/persons/us/George Bereday.md",
-        "wiki/persons/us/Harold Noah.md"
+        "wiki/persons/us/George Bereday.md"
       ],
       "title": ""
     },
@@ -78068,6 +78147,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis on the effects of problem-based learning in accounting learning."
+    },
+    "Novoa & Yariv-Mashal, 2014": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+      ],
+      "title": ""
     },
     "Noy, 2008": {
       "doi": "",
@@ -80208,6 +80295,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/higher-education/Graduate Attributes.md"
+      ],
+      "title": ""
+    },
+    "Osmond-Johnson & Campbell, 2018": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
       ],
       "title": ""
     },
@@ -92259,7 +92354,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md",
+        "wiki/persons/italy/Andrea Saltelli.md"
       ],
       "title": ""
     },
@@ -93843,6 +93939,14 @@
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_Erdem_2026_SHE.md",
         "wiki/methods/quantitative/Meta-meta-analysis.md",
         "wiki/methods/quantitative/Second-Order Meta-Regression.md"
+      ],
+      "title": ""
+    },
+    "Schmidt & Prawat, 2006": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
       ],
       "title": ""
     },
@@ -99028,6 +99132,14 @@
         "wiki/arguments/reports-policy-documents/Argument_Steiner-Khamsi_2024_UNESCO.md",
         "wiki/arguments/reports-policy-documents/Argument_WorldBank_2019_Teach.md",
         "wiki/facts/global/International Initiative for Impact Evaluation.md"
+      ],
+      "title": ""
+    },
+    "Snipes et al., 2002": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
       ],
       "title": ""
     },
@@ -107424,6 +107536,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Education Policy Analysis Archives/Argument_Edmondson_2005_EPAA.md",
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/comparative-education/Grammar of Schooling.md"
       ],
       "title": ""
@@ -114880,7 +114993,8 @@
         "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md",
         "wiki/concepts/educational-leadership-administration/New Public Management.md",
         "wiki/facts/new-zealand/Education Review Office.md",
-        "wiki/facts/new-zealand/Tomorrow's Schools Reforms.md"
+        "wiki/facts/new-zealand/Tomorrow's Schools Reforms.md",
+        "wiki/persons/new-zealand/Cathy Wylie.md"
       ],
       "title": ""
     },

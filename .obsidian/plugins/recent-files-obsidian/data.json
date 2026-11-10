@@ -5,6 +5,14 @@
       "path": "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md"
     },
     {
+      "basename": "Hainan International Education Innovation Pilot Zone",
+      "path": "wiki/facts/china/Hainan International Education Innovation Pilot Zone.md"
+    },
+    {
+      "basename": "Guangdong-Hong Kong-Macau Greater Bay Area",
+      "path": "wiki/facts/china/Guangdong-Hong Kong-Macau Greater Bay Area.md"
+    },
+    {
       "basename": "Argument_Hagevold_Forsstrom_Keles_2026_ERR",
       "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Hannah Arendt",
       "path": "wiki/persons/us/Hannah Arendt.md"
-    },
-    {
-      "basename": "Uno Cygnaeus",
-      "path": "wiki/persons/finland/Uno Cygnaeus.md"
-    },
-    {
-      "basename": "First International Mathematics Study",
-      "path": "wiki/facts/global/First International Mathematics Study.md"
     }
   ],
   "omittedPaths": [],
