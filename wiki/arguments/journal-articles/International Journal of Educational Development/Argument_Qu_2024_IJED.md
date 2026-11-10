@@ -1,16 +1,17 @@
 ---
-title: Argument_Qu_2024_IJED
 summary: "Qu 与 Dai 探讨中国作为新兴国际教育枢纽的崛起态势与发展影响，基于长三角浙大国际联合学院、粤港澳大湾区示范区与海南自贸港创新岛的三地比较案例研究，提炼出单核驱动、多核集群与园区平台共享三种枢纽模式，阐明大学、产业与政府的三螺旋协同如何支持区域向知识与服务型经济转型。"
 type: argument
 authors:
-  - "Lijuan Qu"
-  - "Yuwen Dai"
+  - "Qu, L."
+  - "Dai, Y."
 source_language: en
 citation: "Qu, L., & Dai, Y. (2024). Education hubs in a globalized world: The emergence of China. *International Journal of Educational Development*, *104*, 102959. https://doi.org/10.1016/j.ijedudev.2023.102959"
 year: 2024
 doi: "10.1016/j.ijedudev.2023.102959"
+citation_aliases:
+  - "Qu & Dai, 2024"
+  - "Qu and Dai (2024)"
 isbn: ""
-citation_aliases: []
 tags:
   - theme/education-hubs
   - theme/transnational-education
@@ -43,6 +44,14 @@ created: 2026-11-10
 updated: 2026-11-10
 subtype: journal-article
 publication_type: journal-article
+title: "Argument_Qu_2024_IJED"
+argument_key: "Argument_Qu_2024_IJED"
+argument_display_title: "Education hubs in a globalized world: The emergence of China"
+argument_kind: "journal-article"
+argument_related_count: 11
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: "International Journal of Educational Development"
 book_title: ""
 publication_place: ""
@@ -59,7 +68,7 @@ issuing_organization: ""
 > 中国正在从单纯的留学生输出国转向兼具重要集聚辐射功能的新兴国际教育枢纽；依托大学-产业-政府的三螺旋协同机制，中国在国家区域协调发展战略下形成了长三角单核驱动型（以本土高水平大学链接多元世界顶尖名校的知识创新枢纽）、粤港澳大湾区多核集群型（在一国两制下依托港澳高水平大学内地合作办学的人才与创新枢纽）以及海南自贸港园区平台共享型（以“大共享+小学院”集约化运作并率先试点境外高校独立办学的转型枢纽）三种差异化教育枢纽模式，系统支持区域经济向知识与服务型转型。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 中国三大国家战略区域的教育枢纽实践，即长三角浙江大学国际联合学院（iZJU）国际合作教育样板区、粤港澳大湾区国际高等教育示范区以及海南自由贸易港陵水黎安国际教育创新试验区。
+> - **对象** 中国三大国家战略区域的教育枢纽实践，即长三角浙江大学国际联合学院（iZJU）国际合作教育样板区、粤港澳大湾区国际高等教育示范区以及[[Hainan International Education Innovation Pilot Zone|海南自由贸易港陵水黎安国际教育创新试验区]]。
 > - **张力** 传统跨境高等教育“中心-外围”单向生源输送假设与新兴大国通过战略规划主动配置全球智力资源的制度实践之间的张力；集中式单体校区、多中心跨关税区法域集群与高共享度园区平台之间的组织形态差异。
 > - **贡献** 拓展了全球教育枢纽文献的地理与制度视界，将分析视野从东南亚与中东小型城邦国家推进至转型大国；基于简·奈特（[[Jane Knight]]）的教育枢纽演进模型与三螺旋分析框架，提炼出中国在国家战略指引与地方实践中生成的三类制度性空间模式。
 
@@ -132,14 +141,14 @@ issuing_organization: ""
 > [!row-contrast] 全球主要国家与地区教育枢纽文献分布
 > | 区域 | 国家或地区 | 枢纽类型定位 | 核心代表性文献 |
 > |---|---|---|---|
-> | 东南亚 | 新加坡 | 学生枢纽、人才枢纽、知识/创新枢纽 | Lee (2014); Mok & Yu (2011); Sidhu et al. (2011); Soong (2020) |
+> | 东南亚 | 新加坡 | 学生枢纽、人才枢纽、知识/创新枢纽 | Lee (2014); Mok and Yu (2011); Sidhu et al. (2011); Soong (2020) |
 > | 东南亚 | 马来西亚 | 学生枢纽、人才枢纽 | Cheng et al. (2013); Knight (2014); Morshidi (2008) |
 > | 中东 | 卡塔尔 | 学生枢纽、人才枢纽、知识/创新枢纽 | Ibnouf, Dou, & Knight (2013); Knight (2014); Rostron (2009) |
-> | 中东 | 阿拉伯联合酋长国 | 学生枢纽、人才枢纽、知识/创新枢纽 | Fox & Al Shamisi (2013); Knight (2014); Wilkins (2010) |
-> | 东亚 | 中国香港 | 学生枢纽、人才枢纽 | Cheng, Cheung, & Yeun (2011); Knight (2014); Mok & Bodycott (2014) |
-> | 东亚 | 韩国 | 学生枢纽、人才枢纽、知识/创新枢纽 | Byun & Kim (2011); Dou & Knight (2013) |
+> | 中东 | 阿拉伯联合酋长国 | 学生枢纽、人才枢纽、知识/创新枢纽 | Fox and Al Shamisi (2013); Knight (2014); Wilkins (2010) |
+> | 东亚 | 中国香港 | 学生枢纽、人才枢纽 | Cheng, Cheung, & Yeun (2011); Knight (2014); Mok and Bodycott (2014) |
+> | 东亚 | 韩国 | 学生枢纽、人才枢纽、知识/创新枢纽 | Byun and Kim (2011); Dou and Knight (2013) |
 > | 撒哈拉以南非洲 | 博茨瓦纳 | 学生枢纽 | John, Wilmoth, & Mokopakgosi (2013) |
-> | 东亚 | 中国大陆 | 学生枢纽、人才枢纽、知识/创新枢纽 | Mok & Yu (2011); Qu & Dai (2024); Wen & Hu (2019) |
+> | 东亚 | 中国大陆 | 学生枢纽、人才枢纽、知识/创新枢纽 | Mok and Yu (2011); Qu and Dai (2024); Wen and Hu (2019) |
 
 ---
 
@@ -264,7 +273,7 @@ issuing_organization: ""
 > | 比较维度 | 长三角浙大国际联合学院（iZJU） | 粤港澳大湾区国际高等教育示范区 | 海南自贸港陵水黎安创新试验区 |
 > |---|---|---|---|
 > | **空间组织模式** | 单核驱动型（Single-core-driven model），“1+N”联合学院体系 | 多核集群型（Multi-core cluster model），跨城市网络化校区分布 | 园区平台共享型（Shared-platform model），“大共享+小学院”集约架构 |
-> | **制度治理特征** | 部省市共建，依托浙江大学统一管理和学术治理底座 | “一国两制、三个关税区、三种法律体系”下的跨境协同与资质互认 | 自由贸易港特许制度创新，内地首创境外高校独立办学监管通道 |
+> | **制度治理特征** | 部省市共建，依托浙江大学统一管理和学术治理基础 | “一国两制、三个关税区、三种法律体系”下的跨境协同与资质互认 | 自由贸易港特许制度创新，内地首创境外高校独立办学监管通道 |
 > | **核心合作主体** | 浙江大学 + 爱丁堡大学、UIUC 等世界名校 | 广东省九市大学 + 港澳八所研究型公立及私立大学 | 海南试验区管理局 + 国内双一流高校 + 海外知名理工农医高校 |
 > | **枢纽类型定位** | 知识/创新枢纽（Knowledge-Innovation Hub）及人才与学生枢纽 | 人才枢纽（Talent Hub）与知识/创新枢纽 | 当前为学生枢纽（Student Hub），快速转向人才枢纽 |
 > | **区域转型贡献** | 支撑长三角一体化战略，赋能先进制造业与生物医药高端研发 | 打造国际科技创新中心，支撑珠三角由低附加值制造业向现代服务业升级 | 破解海南高层次人才与科教短板，支撑自贸港国际商贸与高新产业 |
@@ -279,7 +288,7 @@ issuing_organization: ""
 
 > [!stat-cards]- 核心数据
 > - **58%** 2020 年中国高等教育毛入学率（1990 年仅为 3%，2000 年为 8%）。
-> - **No. 1 & No. 4** 2019 年中国成为亚洲第一大留学目的国，2020 年跃升为全球第四大留学目的国。
+> - **No. 1 & No. 4** 2019 年中国成为亚洲第一大留学目的国，2020 年位列全球第四大留学目的国。
 > - **56,098 平方公里 & 8662 万人** 粤港澳大湾区总面积与常住人口规模，均居世界四大湾区首位。
 > - **400 亿元 & 25,000 人** 海南自贸港教育领域累计吸引投资规模与引进高层次教育人才数量。
 > - **8 所** 截至 2023 年海南已设立的中外合作办学机构数量。

@@ -36813,6 +36813,19 @@
     "subtype": "policy"
   },
   {
+    "title": "Hainan International Education Innovation Pilot Zone",
+    "type": "fact",
+    "path": "wiki/facts/china/Hainan International Education Innovation Pilot Zone.md",
+    "aliases": [
+      "海南陵水黎安国际教育创新试验区",
+      "陵水黎安国际教育创新试验区",
+      "海南国际教育创新岛",
+      "国际教育创新岛",
+      "Lingshui Li'an International Education Innovation Pilot Zone"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Hukou System",
     "type": "fact",
     "path": "wiki/facts/china/Hukou System.md",
@@ -49848,6 +49861,11 @@
     "title": "Argument_Brint_2023_IHE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/International Higher Education/Argument_Brint_2023_IHE.md"
+  },
+  {
+    "title": "Argument_Qu_2024_IJED",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md"
   },
   {
     "title": "Argument_Zapp_2017_IJED",
