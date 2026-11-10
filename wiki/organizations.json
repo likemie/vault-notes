@@ -2455,6 +2455,17 @@
         "Office for Standards in Education, Children's Services and Skills"
       ]
     },
+    "Omnia Education Partnerships": {
+      "path": "wiki/facts/finland/Omnia Education Partnerships.md",
+      "names": [
+        "Omnia Education Partnerships",
+        "埃斯波职业教育联合体",
+        "Omnia",
+        "Omnia Education Partnerships Ltd",
+        "OEP",
+        "埃斯波教育联合体"
+      ]
+    },
     "Organisation for European Economic Co-operation": {
       "path": "wiki/facts/global/Organisation for European Economic Co-operation.md",
       "names": [
@@ -3195,6 +3206,18 @@
         "wiki/facts/europe/Bologna Process.md"
       ]
     },
+    "Parliament of Finland": {
+      "seen_in": [
+        "wiki/facts/finland/Government Bill 191-2021.md",
+        "wiki/facts/finland/Tuition Fees for Non-EU-EEA Students in Finland.md"
+      ]
+    },
+    "Prime Minister's Office of Finland": {
+      "seen_in": [
+        "wiki/facts/finland/Finnish Country Brand Report.md",
+        "wiki/facts/finland/Strategic Programme of Prime Minister Juha Sipilä's Government.md"
+      ]
+    },
     "UNDP": {
       "seen_in": [
         "wiki/facts/global/Education for All.md",
@@ -3476,6 +3499,11 @@
         "wiki/facts/italy/Azione LIM.md"
       ]
     },
+    "Ministry for Foreign Affairs of Finland": {
+      "seen_in": [
+        "wiki/facts/finland/Stepping Up Finland's Global Role in Education.md"
+      ]
+    },
     "Ministry of Education and Research of Estonia": {
       "seen_in": [
         "wiki/facts/estonia/Estonian STEM Education Model.md"
@@ -3554,16 +3582,6 @@
     "Ontario Ministry of Education / OISE / Western University": {
       "seen_in": [
         "wiki/facts/canada/Knowledge Network for Applied Education Research.md"
-      ]
-    },
-    "Parliament of Finland": {
-      "seen_in": [
-        "wiki/facts/finland/Government Bill 191-2021.md"
-      ]
-    },
-    "Prime Minister's Office of Finland": {
-      "seen_in": [
-        "wiki/facts/finland/Finnish Country Brand Report.md"
       ]
     },
     "Prussian Ministry of Religion, Education, and Medical Affairs": {

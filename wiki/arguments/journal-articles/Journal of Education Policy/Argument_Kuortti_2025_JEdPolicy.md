@@ -69,6 +69,10 @@ related_facts:
   - "[[Trade Union of Education in Finland]]"
   - "[[Finnish Country Brand Report]]"
   - "[[Government Bill 191-2021]]"
+  - "[[Strategic Programme of Prime Minister Juha Sipilä's Government]]"
+  - "[[Tuition Fees for Non-EU-EEA Students in Finland]]"
+  - "[[Stepping Up Finland's Global Role in Education]]"
+  - "[[Omnia Education Partnerships]]"
 related_arguments: []
 sources:
   - "[[sources/Kuortti_2025_JEdPolicy|Kuortti_2025_JEdPolicy]]"
@@ -82,7 +86,7 @@ title: "Argument_Kuortti_2025_JEdPolicy"
 argument_key: "Argument_Kuortti_2025_JEdPolicy"
 argument_display_title: "Repurposing public education: Governmental rationality of education export in Finland through public education problematisations"
 argument_kind: "journal-article"
-argument_related_count: 44
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -138,8 +142,8 @@ issuing_organization: ""
 > | **实践文本 4（MINEDU, 2016b）** | 《促进中等教育出口措施报告》（*Measures to promote education export in secondary education*，教育部） | 专项研讨职业教育与高中出口方案，确立公办经费与商业创收严格分账的制度原则。 |
 > | **实践文本 5（FNAE, 2020）** | 《教育出口路线图 2020–2023》（*Koulutusviennin tiekartta 2020–2023*，国家教育局） | 强调构建公立与私营合作的教育生态系统，推广商业微专业培训，提出培育国内[[Quasi-market\|准市场]]测试基地。 |
 > | **支撑政策（[[Finnish Country Brand Report\|CBR, 2010]]）** | [[Finnish Country Brand Report\|《芬兰使命：国家品牌委员会报告》]]（*Mission for Finland: Country Brand Report*，国家品牌委员会） | 将芬兰高品质基础教育作为[[Nation Branding\|国家品牌化]]（Country Brand）的核心资产与全球推广名片。 |
-> | **支撑政策（Government, 2015）** | 《解决方案的芬兰：战略政府规划》（*Ratkaisujen Suomi*，总理府） | 西皮莱内阁施政纲领，推行大规模简政放权与规制松绑，将公共教育确定为实验平台。 |
-> | **支撑政策（FORMIN, 2018）** | 《提升芬兰教育全球角色报告》（*Stepping Up Finland's Global Role in Education*，外交部） | 将教育出口与国际发展援助、外交经贸深度绑定，拓宽出口话语的部际协调网络。 |
+> | **支撑政策（[[Strategic Programme of Prime Minister Juha Sipilä's Government\|Government, 2015]]）** | [[Strategic Programme of Prime Minister Juha Sipilä's Government\|《解决方案的芬兰：战略政府规划》]]（*Ratkaisujen Suomi*，总理府） | 西皮莱内阁施政纲领，推行大规模简政放权与规制松绑，将公共教育确定为实验平台。 |
+> | **支撑政策（[[Stepping Up Finland's Global Role in Education\|FORMIN, 2018]]）** | [[Stepping Up Finland's Global Role in Education\|《提升芬兰教育全球角色报告》]]（*Stepping Up Finland's Global Role in Education*，外交部） | 将教育出口与国际发展援助、外交经贸深度绑定，拓宽出口话语的部际协调网络。 |
 > | **支撑政策（[[Government Bill 191-2021\|Government Bill 191/2021]]）** | [[Government Bill 191-2021\|《职业教育法修改政府提案》]]（*Government Bill 191/2021*，议会与总理府） | 修改法定条款，允许公立职业院校设立离岸法人公司并面向境外有偿授课。 |
 
 ---
@@ -163,7 +167,7 @@ issuing_organization: ""
 > | **无法满足外部商业需求** | 供需关系被视为教育的自然属性；外部对[[Finnish PISA Miracle\|国际学生评估项目]]（Programme for International Student Assessment, PISA）测评表现的兴趣等同于商业市场需求 | 源自古典经济学供需理论；吸纳高校自费生政策讨论历史 | 排除除商业买卖之外的国际互惠、学术交流与公共援助等替代性回应 | 公共教育被界定为反应迟缓的主体；重构公立教育的国际交流语境 | FGEE 战略文件、高校拨款公式谈判、教育部专项咨询组 |
 > | **缺乏可规模化产品** | 教育必须被视为可解构、可封装的标准化产品；产品应具备模块化与可扩展性 | 公共部门[[New Public Management\|新公共管理]]与商业化演进；将芬兰特质简化为品牌符号 | 掩盖教育在社会整体福利网络中的高度嵌入性，忽视文化情境不可移植性 | 推动学校与大学设立产品开发部门，简化复杂教学为技术解决方案 | 官方认证培训项目、国家创新基金会、教育科技商业孵化器 |
 > | **现行法律规制构成阻碍** | 法律被表征为束缚商业活力的僵化障碍；呼吁简政放权与弹性监管 | 2015 年西皮莱政府规制松绑运动；将国家定位为消除商业壁垒的服务者 | 法律作为公民基本权利屏障的法治功能被系统性遮蔽 | 推动修改职业教育法与高等教育法，解除公立机构设立营利子公司的属地限制 | 议会法案委员会、教育部法务司、[[Education Finland]] 产业游说团 |
-> | **教育从业人员商业技能匮乏** | 教师与管理人员被假定为缺乏市场运作意识；教育被等同于劳动力与产业生产环节 | 教师专业化历史的商业化转折；企业培训机制向公立教育领域的渗透 | 排除教育学专业智慧与教学伦理，仅将商业技能界定为发展资本 | 启动国家资助的教育出口微专业培训，促使教师向教育型企业家角色靠拢 | 哈梅应用科学大学（Häme University of Applied Sciences, HAMK）、Omnia 职业学院、各公立[[Further Education\|继续教育]]学院 |
+> | **教育从业人员商业技能匮乏** | 教师与管理人员被假定为缺乏市场运作意识；教育被等同于劳动力与产业生产环节 | 教师专业化历史的商业化转折；企业培训机制向公立教育领域的渗透 | 排除教育学专业智慧与教学伦理，仅将商业技能界定为发展资本 | 启动国家资助的教育出口微专业培训，促使教师向教育型企业家角色靠拢 | 哈梅应用科学大学（Häme University of Applied Sciences, HAMK）、[[Omnia Education Partnerships|Omnia]] 职业学院、各公立[[Further Education\|继续教育]]学院 |
 > | **封闭受保护的国内公立生态** | 将公立垄断表征为效率低下；主张构建公私合作模式（[[Public-Private Partnership\|Public-Private Partnerships]], PPP）生态与国内准市场 | [[GATS and Trade in Education Services\|服务贸易总协定]]（General Agreement on Trade in Services, GATS）话语；私营教育提供者要求公平竞争的诉求 | 规避私营资本侵蚀公共福利基础的结构性风险，忽视公私合作的不对称性 | 依托公办经费扶持商业网络，为本土教育科技公司搭建产品测试平台 | 《教育政策报告 2020》、城市教育局创新采购试点、行业公会 |
 
 ---
@@ -181,13 +185,13 @@ issuing_organization: ""
 >
 > - **2010–2015 国家战略成型与制度破冰期**
 >
->   2010 年《从兴趣到需求与产品》战略与[[Finnish Country Brand Report|国家品牌委员会报告（CBR, 2010）]]相继出台，教育出口正式升格为国家跨部委行动；2015 年法律修正案通过，决定自 2016 年起对[[EU|欧盟]]/欧洲经济区以外学生强制开征学费。
+>   2010 年《从兴趣到需求与产品》战略与[[Finnish Country Brand Report|国家品牌委员会报告（CBR, 2010）]]相继出台，教育出口正式升格为国家跨部委行动；2015 年法律修正案通过，正式推行[[Tuition Fees for Non-EU-EEA Students in Finland|对欧盟/欧洲经济区以外学生强制开征学费]]。
 >
 > - **2016–2020 全领域渗透与生态化扩张期**
 >
 >   西皮莱政府推行规制松绑运动，教育出口路线图贯通中等职业教育与学前阶段；国家教育局设立专属品牌网络 [[Education Finland]]，启动微专业培训并构建国内准市场生态。
 
-> [!case] 案例：从公立基础教育 PISA 成绩向高等教育学费制度的跨越
+> [!case] 案例：从公立基础教育 PISA 成绩向[[Tuition Fees for Non-EU-EEA Students in Finland|高等教育学费制度]]的跨越
 > - **声誉资本积累** 芬兰自 2000 年参与首届国际学生评估项目（Programme for International Student Assessment, PISA）以来，凭借卓越的学业均值与极小的校际差距赢得国际瞩目。官方纲领性文献（MINEDU, 2010b, 2013）频繁征引 PISA 结果，宣称“国际教育市场对芬兰专业知识存在明确需求”（MINEDU, 2010b, p. 5）。
 > - **跨学段错位挪用** PISA 测查的是完全由公共财政保障、免收学费且由地方自治管理的 7–16 岁综合基础学校；但政策文献提出的核心干预举措，却是要求公立大学向非欧盟留学生征收高额学费（MINEDU, 2010b, p. 7）。
 > - **合法性逻辑转换** 政策文本在此完成了逻辑跨越：将不可买卖的公共基础教育所积累的国家公信力，直接挪用为支持高等教育进行商业化收费的正当性支撑。
@@ -233,7 +237,7 @@ issuing_organization: ""
 
 > [!case] 案例：职业教育法修改（[[Government Bill 191-2021|Government Bill 191/2021]]）与市镇学校离岸外围公司化
 > - **法定松绑与离岸营利特区** 针对公立职业院校无法直接在海外从事营利性文凭培训的困境，芬兰议会于 2021 年正式通过《职业教育法》修正案（[[Government Bill 191-2021|Government Bill 191/2021]]）。该法案明确允许经国家认证的公立职业培训机构，通过在体制外设立有限责任公司（Limited Liability Company, LLC）的形式，面向非欧盟客户提供全额有偿的学历与技能资格认证等[[Transnational Education|跨国教育]]服务。
-> - **外围商业控股法人组建** 在此法律赋权下，埃斯波等地的公立职业教育联盟（如 Omnia）以及多所市镇联合学院纷纷设立专属的教育出口控股公司。
+> - **外围商业控股法人组建** 在此法律赋权下，埃斯波等地的公立职业教育联盟（如 [[Omnia Education Partnerships|Omnia]]）以及多所市镇联合学院纷纷设立专属的教育出口控股公司。
 > - **公共资产的商业化租赁** 公立学校的品牌、实训工坊、课程方案乃至正式编制教师，被这套外围私营法人按商业成本租赁使用。这种公办母体与商业外壳并行的双轨法人架构，模糊了公共事业与私人逐利的边界，使公共资产实质性演化为跨境商业经营的生产要素。
 
 > [!warrant]- 制度混杂化带来的治理风险
@@ -249,13 +253,13 @@ issuing_organization: ""
 
 > [!chain-link] 教育从业人员主体化规训的技术链条
 > - **能力缺陷定性** 政策文献密集强调“芬兰教育出口专家普遍缺乏商业技能”（MINEDU, 2016a, p. 23），将教职人员的非营利专业素养定性为能力短板。
-> - **官方项目设立** 教育部自 2018 年起全额出资设立欧洲学分互认系统（European Credit Transfer and Accumulation System, ECTS）30 个学分的教育出口专业化培训项目，下达至哈梅应用科学大学（HAMK）与 Omnia。
+> - **官方项目设立** 教育部自 2018 年起全额出资设立欧洲学分互认系统（European Credit Transfer and Accumulation System, ECTS）30 个学分的教育出口专业化培训项目，下达至哈梅应用科学大学（HAMK）与 [[Omnia Education Partnerships|Omnia]]。
 > - **商业知识灌输** 课程内容涵盖国际市场分析、服务设计包装、知识产权保护、离岸合同谈判与利润核算，系统剥离传统教育学的批判自省维度。
 > - **职业身份重塑** 培训为参训教师与管理者提供进入跨国业务网络的跳板，将教育出口从业人员确立为公立教育系统内具备高流动性与高认可度的新型精英职业类别。
 
-> [!case] 案例：哈梅应用科技大学（HAMK）与 Omnia 的 30 学分出口微专业实践
+> [!case] 案例：哈梅应用科技大学（HAMK）与 [[Omnia Education Partnerships|Omnia]] 的 30 学分出口微专业实践
 > - **官方全资微专业启动** 2018 年，由[[Trade Union of Education in Finland|芬兰教育工会]]（Trade Union of Education in Finland, OAJ）支持、教育部资助的首期教育出口专业化培训在哈梅应用科学大学正式启动（HAMK, 2018）。该项目吸引了来自学前教育、基础综合学校、职业院校及大学的在职教职人员。
-> - **真实商业投标考核** 2022 年，Omnia 进一步推出全球教育服务产品开发专业文凭（OMNIA, 2022），直接将学员的作业考核与海外真实商业投标挂钩。
+> - **真实商业投标考核** 2022 年，[[Omnia Education Partnerships|Omnia]] 进一步推出全球教育服务产品开发专业文凭（OMNIA, 2022），直接将学员的作业考核与海外真实商业投标挂钩。
 > - **个体自我规训与国家目标绑定** 参与教师在[[Qualitative Interview|质性访谈]]中普遍将此类培训视为突破国内传统教职天花板、获取国际化新声誉的职业机遇（Juusola & Räihä, 2018）。国家权力通过提供职业激励，巧妙促使教师自我规训，将个体的职业成功与国家参与全球竞争的战略深度捆绑。
 
 > [!warrant]- 微观主体性重构的治理术机制

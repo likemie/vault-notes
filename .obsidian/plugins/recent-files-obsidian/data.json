@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
     },
     {
+      "basename": "Soft Privatisation",
+      "path": "wiki/concepts/educational-policy-reform/Soft Privatisation.md"
+    },
+    {
       "basename": "Argument_Volmari_2025_CE",
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Comparative Education",
       "path": "information/Comparative Education.md"
-    },
-    {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit03",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
     }
   ],
   "omittedPaths": [],

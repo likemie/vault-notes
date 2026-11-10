@@ -38218,6 +38218,19 @@
     "subtype": "organization"
   },
   {
+    "title": "Omnia Education Partnerships",
+    "type": "fact",
+    "path": "wiki/facts/finland/Omnia Education Partnerships.md",
+    "aliases": [
+      "埃斯波职业教育联合体",
+      "Omnia",
+      "Omnia Education Partnerships Ltd",
+      "OEP",
+      "埃斯波教育联合体"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Trade Union of Education in Finland",
     "type": "fact",
     "path": "wiki/facts/finland/Trade Union of Education in Finland.md",
@@ -38437,6 +38450,32 @@
     "subtype": "policy"
   },
   {
+    "title": "Stepping Up Finland's Global Role in Education",
+    "type": "fact",
+    "path": "wiki/facts/finland/Stepping Up Finland's Global Role in Education.md",
+    "aliases": [
+      "提升芬兰教育全球角色报告",
+      "FORMIN 2018",
+      "Stepping Up Finland's Global Role in Education Report",
+      "外交部教育出口报告"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Strategic Programme of Prime Minister Juha Sipilä's Government",
+    "type": "fact",
+    "path": "wiki/facts/finland/Strategic Programme of Prime Minister Juha Sipilä's Government.md",
+    "aliases": [
+      "西皮莱政府战略施政规划",
+      "Ratkaisujen Suomi",
+      "解决方案的芬兰",
+      "Strategic Programme of Prime Minister Juha Sipilä",
+      "Sipilä Government Programme",
+      "Government 2015"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Teacher Training School System in Finland",
     "type": "fact",
     "path": "wiki/facts/finland/Teacher Training School System in Finland.md",
@@ -38447,6 +38486,19 @@
       "Normal Schools in Finland",
       "Finnish Teacher Training Schools",
       "Normaalikoulu"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Tuition Fees for Non-EU-EEA Students in Finland",
+    "type": "fact",
+    "path": "wiki/facts/finland/Tuition Fees for Non-EU-EEA Students in Finland.md",
+    "aliases": [
+      "芬兰非欧盟留学生学费制度改革",
+      "芬兰高等教育学费法令",
+      "Tuition Fees for Non-EU/EEA Students in Finland",
+      "Tuition Fee Reform in Finnish Higher Education",
+      "Finnish Higher Education Tuition Fees"
     ],
     "subtype": "policy"
   },

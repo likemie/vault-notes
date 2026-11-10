@@ -16488,6 +16488,14 @@
       "seen_in": [],
       "title": "Meta-analyses and narrative review of home-based interventions to improve literacy and mathematics outcomes for children between the ages of 3 and 5 years old."
     },
+    "Cai & Kivistö, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/finland/Tuition Fees for Non-EU-EEA Students in Finland.md"
+      ],
+      "title": ""
+    },
     "Cai et al., 2019": {
       "datasets": [
         "metax:S1751"
@@ -32760,7 +32768,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
+        "wiki/facts/finland/Stepping Up Finland's Global Role in Education.md"
       ],
       "title": ""
     },
@@ -55204,7 +55212,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/facts/finland/Finnish Government Education Export Programme.md"
+        "wiki/facts/finland/Finnish Government Education Export Programme.md",
+        "wiki/facts/finland/Tuition Fees for Non-EU-EEA Students in Finland.md"
       ],
       "title": ""
     },
@@ -66721,7 +66730,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md",
-        "wiki/facts/finland/Finnish Government Education Export Programme.md"
+        "wiki/facts/finland/Finnish Government Education Export Programme.md",
+        "wiki/facts/finland/Strategic Programme of Prime Minister Juha Sipilä's Government.md"
       ],
       "title": ""
     },
@@ -79015,7 +79025,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
+        "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md",
+        "wiki/facts/finland/Omnia Education Partnerships.md"
       ],
       "title": ""
     },

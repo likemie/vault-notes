@@ -13,7 +13,7 @@ subtype: policy
 region: "finland"
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -90,7 +90,7 @@ updated: 2026-11-10
 
 > [!pathways] 实施路径
 > - **行政话语重塑** 将传统行政法规界定为束缚活力的制度阻碍，推动自我约束型国家（Self-restraining State）话语主导政策制定。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 385)]]
-> - **政府采购杠杆** 倡导市镇教育部门通过公共采购优先试用本土私营教育科技公司的软硬件，协助企业积累权威的应用案例与出海背书。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 391)]]
+> - **政府采购机制** 倡导市镇教育部门通过公共采购优先试用本土私营教育科技公司的软硬件，协助企业积累权威的应用案例与出海背书。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 391)]]
 > - **倒逼立法重构** 以政府规划为依据，系统推动高校学费解禁与职业教育法修订（[[Government Bill 191-2021|Government Bill 191/2021]]），赋予公立院校设立商业子公司出海办学的特许权。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 388–389)]]
 
 ---
