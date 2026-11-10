@@ -852,6 +852,8 @@
     "Andrade, 2008": "Andrade, 2008",
     "Andrea Mennicken (2019)": "Andrea Mennicken, 2019",
     "Andrea Mennicken, 2019": "Andrea Mennicken, 2019",
+    "Andrea Saltelli (2017)": "Andrea Saltelli, 2017",
+    "Andrea Saltelli, 2017": "Andrea Saltelli, 2017",
     "Andreas Kazamias (1961)": "Andreas Kazamias, 1961",
     "Andreas Kazamias (2009a)": "Andreas Kazamias, 2009a",
     "Andreas Kazamias (2009b)": "Andreas Kazamias, 2009b",
@@ -2175,11 +2177,13 @@
     "Benner (1980)": "Benner, 1980",
     "Benner (2004)": "Benner, 2004",
     "Benner (2012)": "Benner, 2012",
+    "Benner (2018)": "Benner, 2018",
     "Benner et al. (2010)": "Benner et al., 2010",
     "Benner et al., 2010": "Benner et al., 2010",
     "Benner, 1980": "Benner, 1980",
     "Benner, 2004": "Benner, 2004",
     "Benner, 2012": "Benner, 2012",
+    "Benner, 2018": "Benner, 2018",
     "Bennett (1976)": "Bennett, 1976",
     "Bennett (1982)": "Bennett, 1982",
     "Bennett (1987)": "Bennett, 1987",
@@ -4165,6 +4169,8 @@
     "Catalini et al., 2015": "Catalini et al., 2015",
     "Cathy Amanti (1992)": "Cathy Amanti, 1992",
     "Cathy Amanti, 1992": "Cathy Amanti, 1992",
+    "Cathy Wylie (1999)": "Cathy Wylie, 1999",
+    "Cathy Wylie, 1999": "Cathy Wylie, 1999",
     "Cattan (2014)": "Cattan, 2014",
     "Cattan, 2014": "Cattan, 2014",
     "Catts (1992)": "Catts, 1992",
@@ -6748,6 +6754,8 @@
     "EPG, 2007": "EPG, 2007",
     "ERCE (2019)": "ERCE, 2019",
     "ERCE, 2019": "ERCE, 2019",
+    "ERO (2018)": "ERO, 2018",
+    "ERO, 2018": "ERO, 2018",
     "ESRA (2002)": "ESRA, 2002",
     "ESRA, 2002": "ESRA, 2002",
     "ESRC (2016)": "ESRC, 2016",
@@ -10400,6 +10408,8 @@
     "Haverkamp et al., 2020": "Haverkamp et al., 2020",
     "Hawes (2022)": "Hawes, 2022",
     "Hawes, 2022": "Hawes, 2022",
+    "Hawke (1998)": "Hawke, 1998",
+    "Hawke, 1998": "Hawke, 1998",
     "Hawkins & Parkhurst (2016)": "Hawkins & Parkhurst, 2016",
     "Hawkins & Parkhurst, 2016": "Hawkins & Parkhurst, 2016",
     "Hawkins (1985)": "Hawkins, 1985",
@@ -18937,8 +18947,12 @@
     "Philip Altbach, 1991": "Philip Altbach, 1991",
     "Philip Cooke (1992)": "Philip Cooke, 1992",
     "Philip Cooke, 1992": "Philip Cooke, 1992",
+    "Philip Davies (1999)": "Philip Davies, 1999",
+    "Philip Davies, 1999": "Philip Davies, 1999",
     "Philip G. Cerny (1990)": "Philip G. Cerny, 1990",
     "Philip G. Cerny, 1990": "Philip G. Cerny, 1990",
+    "Philip Jellyman (2015)": "Philip Jellyman, 2015",
+    "Philip Jellyman, 2015": "Philip Jellyman, 2015",
     "Philip Y. Gee (1995)": "Philip Y. Gee, 1995",
     "Philip Y. Gee, 1995": "Philip Y. Gee, 1995",
     "Philipp Mayring (2000)": "Philipp Mayring, 2000",
@@ -19038,6 +19052,8 @@
     "Pierre Azoulay, 2012": "Pierre Azoulay, 2012",
     "Pierre Bourdieu (2003)": "Pierre Bourdieu, 2003",
     "Pierre Bourdieu, 2003": "Pierre Bourdieu, 2003",
+    "Pierre-Jérôme Bergeron (2017)": "Pierre-Jérôme Bergeron, 2017",
+    "Pierre-Jérôme Bergeron, 2017": "Pierre-Jérôme Bergeron, 2017",
     "Pierson & Castles (2002)": "Pierson & Castles, 2002",
     "Pierson & Castles, 2002": "Pierson & Castles, 2002",
     "Pierson (1992)": "Pierson, 1992",
@@ -33795,6 +33811,21 @@
       ],
       "title": ""
     },
+    "Andrea Saltelli, 2017": {
+      "aliases": [
+        "Andrea Saltelli, 2017",
+        "Andrea Saltelli (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Andrea Saltelli, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
+      ],
+      "title": ""
+    },
     "Andreas Kazamias, 1961": {
       "aliases": [
         "Andreas Kazamias, 1961",
@@ -43546,6 +43577,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Behavior Intervention for Students With Externalizing Behavior Problems  Primary-Level Standard Protocol"
+    },
+    "Benner, 2018": {
+      "aliases": [
+        "Benner, 2018",
+        "Benner (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Benner, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
+      ],
+      "title": ""
     },
     "Bennett et al., 2018": {
       "aliases": [
@@ -58272,6 +58318,21 @@
       ],
       "title": ""
     },
+    "Cathy Wylie, 1999": {
+      "aliases": [
+        "Cathy Wylie, 1999",
+        "Cathy Wylie (1999)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Cathy Wylie, 1999"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
+      ],
+      "title": ""
+    },
     "Cattan, 2014": {
       "aliases": [
         "Cattan, 2014",
@@ -70868,6 +70929,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Rowe_2023_ECNUROE.md",
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md",
         "wiki/facts/australia/Evidence for Learning.md"
       ],
       "title": ""
@@ -76914,6 +76976,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/latin-america/LLECE.md"
+      ],
+      "title": ""
+    },
+    "ERO, 2018": {
+      "aliases": [
+        "ERO, 2018",
+        "ERO (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "ERO, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
       ],
       "title": ""
     },
@@ -103729,6 +103806,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effects of spatial training on mathematics performance: A meta-analysis."
+    },
+    "Hawke, 1998": {
+      "aliases": [
+        "Hawke, 1998",
+        "Hawke (1998)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hawke, 1998"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
+      ],
+      "title": ""
     },
     "Hawkins & Parkhurst, 2016": {
       "aliases": [
@@ -165490,6 +165582,21 @@
       ],
       "title": ""
     },
+    "Philip Davies, 1999": {
+      "aliases": [
+        "Philip Davies, 1999",
+        "Philip Davies (1999)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Philip Davies, 1999"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
+      ],
+      "title": ""
+    },
     "Philip G. Cerny, 1990": {
       "aliases": [
         "Philip G. Cerny, 1990",
@@ -165502,6 +165609,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Competition State.md"
+      ],
+      "title": ""
+    },
+    "Philip Jellyman, 2015": {
+      "aliases": [
+        "Philip Jellyman, 2015",
+        "Philip Jellyman (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Philip Jellyman, 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
       ],
       "title": ""
     },
@@ -166226,6 +166348,21 @@
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rizvi_Lingard_2009_OECDEducationPolicy.md",
         "wiki/concepts/political-economy-geopolitics/Liberalization.md",
         "wiki/concepts/political-economy-geopolitics/Social Imaginary.md"
+      ],
+      "title": ""
+    },
+    "Pierre-Jérôme Bergeron, 2017": {
+      "aliases": [
+        "Pierre-Jérôme Bergeron, 2017",
+        "Pierre-Jérôme Bergeron (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Pierre-Jérôme Bergeron, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Kultura i Wychowanie/Argument_Sarbiewska_2019_KiW.md"
       ],
       "title": ""
     },
