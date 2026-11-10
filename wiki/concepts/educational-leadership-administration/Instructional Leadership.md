@@ -8,6 +8,10 @@ aliases:
 summary: "学校管理中聚焦课程、教学与评估核心系统，直接参与教师专业学习与发展以提升学生学业成就的学校领导模式；在学校效能与循证证据推动下成为主流范式，但在微观实践中面临校长日常工时碎片化冲突，并在政商网络推动下呈现向可见学习效应量账本与新泰勒主义微观规训异化的治理风险。"
 type: concept
 domain: "educational-leadership-administration"
+related_count: 22
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - field/educational-leadership-administration
   - theme/instructional-leadership
@@ -81,7 +85,7 @@ updated: 2026-11-10
 ---
 
 > [!feature] 核心要素
-> 根据 Robinson et al. (2008) 与 Eacott (2017)，教学领导力包含五项核心实践维度：
+> 根据 Robinson et al. (2008) 与 [[Argument_Eacott_2017_SLM|Eacott (2017)]]，教学领导力包含五项核心实践维度：
 > - **促进与参与教师的学习与发展** 校长不仅倡导研训，更直接作为学习者参与教师专业研修，构成了对学生学业成就影响最大的核心支柱。[[Argument_Eacott_2017_SLM|(Eacott, 2017, p. 417)]]
 > - **确立明确的目标与期望** 明确学校学业进阶目标并向全体师生公开传达，凝聚教育教学聚焦度。[[Argument_Eacott_2017_SLM|(Eacott, 2017, p. 417)]]
 > - **规划、协调与评估教学及课程** 深度介入课程大纲与课堂评估流程，协同教师审查教学有效性。[[Argument_Eacott_2017_SLM|(Eacott, 2017, p. 417)]]
@@ -134,8 +138,8 @@ updated: 2026-11-10
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **微观实践介入命题** | 深度介入教师专业研训与课程评价是驱动学业增益的最强因果路径 | 中小学校本教研与课堂教学改进 | Robinson et al. (2008); Alton-Lee (2004); Sarbiewska (2019) |
-> | **管理主义异化命题** | 碎片化行政工时阻滞教学领导力落实，易异化为数据账本与新泰勒主义微观规训 | 新公共管理与外部绩效高压下的基础教育体制 | Eacott (2017) |
+> | **微观实践介入命题** | 深度介入教师专业研训与课程评价是驱动学业增益的最强因果路径 | 中小学校本教研与课堂教学改进 | Robinson et al. (2008); Alton-Lee (2004); [[Argument_Sarbiewska_2019_KiW\|Sarbiewska (2019)]] |
+> | **管理主义异化命题** | 碎片化行政工时阻滞教学领导力落实，易异化为数据账本与新泰勒主义微观规训 | 新公共管理与外部绩效高压下的基础教育体制 | [[Argument_Eacott_2017_SLM\|Eacott (2017)]] |
 
 ---
 
@@ -143,7 +147,7 @@ updated: 2026-11-10
 > - **20世纪初 — 行政与教学二分确立** 库伯利（Ellwood Cubberly）等行政学者确立行政与教学二分法，将校长定位于学校首席执行官（CEO），造成学校管理中日常行政与教学指导的长期脱节。[[Argument_Eacott_2017_SLM|(Eacott, 2017, p. 416)]]
 > - **1970s–1980s — 学校效能运动的学术呼吁** 学校效能与学校改进运动兴起，学者主张克服企业化管理倾向，倡导将教育与教学重新注入学校领导力实践。[[Argument_Eacott_2017_SLM|(Eacott, 2017, pp. 416–417)]]
 > - **2008 — 元分析实证奠基与范式确立** 罗宾逊等（Robinson et al., 2008）发表元分析，证实教学领导力对学生学业成绩的提升效能显著优于变革型领导力，确立了其当代主导地位。[[Argument_Eacott_2017_SLM|(Eacott, 2017, p. 417)]]
-> - **2010s 至今 — 效应量账本与新泰勒主义批判** 埃考特（Eacott, 2017）等批判学者揭示教学领导力在面对实践操作空白时，被哈蒂可见学习等商业品牌转译为效应量账本，退化为行政监控与去专业化工具。[[Argument_Eacott_2017_SLM|(Eacott, 2017, pp. 418–420)]]
+> - **2010s 至今 — 效应量账本与新泰勒主义批判** 埃考特（[[Argument_Eacott_2017_SLM|Eacott, 2017]]）等批判学者揭示教学领导力在面对实践操作空白时，被哈蒂可见学习等商业品牌转译为效应量账本，退化为行政监控与去专业化工具。[[Argument_Eacott_2017_SLM|(Eacott, 2017, pp. 418–420)]]
 
 ---
 
@@ -173,20 +177,20 @@ updated: 2026-11-10
 >
 > | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > |---|---|---|---|---|---|---|---|
-> | [[Argument_Eacott_2017_SLM\|Robinson et al. (2008)]] | 领导力实践维度 | 促进与参与教师的学习与发展 | ES | — | <span class="mx-bar ef-bar" title="ES 0.84"><span class="b17"></span></span>0.84 | SE = 0.14 | $p < .05$ |
+> | [[Argument_Eacott_2017_SLM\|Eacott (2017)]]（引自 Robinson et al., 2008） | 领导力实践维度 | 促进与参与教师的学习与发展 | ES | — | <span class="mx-bar ef-bar" title="ES 0.84"><span class="b17"></span></span>0.84 | SE = 0.14 | $p < .05$ |
 > |  |  | 确立目标与期望 | ES | — | <span class="mx-bar ef-bar" title="ES 0.42"><span class="b8"></span></span>0.42 | SE = 0.07 | $p < .05$ |
 > |  |  | 规划、协调与评估教学及课程 | ES | — | <span class="mx-bar ef-bar" title="ES 0.42"><span class="b8"></span></span>0.42 | SE = 0.06 | $p < .05$ |
 > |  |  | 战略性资源配置 | ES | — | <span class="mx-bar ef-bar" title="ES 0.31"><span class="b6"></span></span>0.31 | SE = 0.10 | $p < .05$ |
 > |  |  | 建立有序且支持性的环境 | ES | — | <span class="mx-bar ef-bar" title="ES 0.27"><span class="b5"></span></span>0.27 | SE = 0.09 | $p < .05$ |
 >
-> - **[[Argument_Eacott_2017_SLM|Robinson et al. (2008)]] · 领导力实践维度** 检验五类核心维度对学生学业成就的效应差异，证实直接介入教师学习的效能显著最高
+> - **[[Argument_Eacott_2017_SLM|Eacott (2017)]] · 领导力实践维度** 检验五类核心维度对学生学业成就的效应差异，证实直接介入教师学习的效能显著最高
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Sarbiewska_2019_KiW\|Sarbiewska (2019)]]（引自 Alton-Lee, 2004） | 新西兰中小学多样化学困生最佳证据综合（BES） | 国家政策演化分析与多层方差分解 | 校内班级方差 vs 校际方差 | 学生成就方差主要源自校内班级与教师互动差异，校际方差微弱；在同一学校内班级间差异悬殊 | — | 实证确立决定成效的关键在于校内教学领导力与课堂微观互动，而非宏观外在行政体制 |
+> | [[Argument_Sarbiewska_2019_KiW\|Sarbiewska (2019)]]（引自 Alton-Lee, 2004） | 新西兰中小学多样化学困生最佳证据综合（BES） | 国家政策演化分析与多层方差分解 | 校内班级方差 vs 校际方差 | 班级与教师层面的方差贡献高达 59%，远超学校间差异；在同一学校内班级间差异悬殊 | — | 实证确立决定成效的关键在于校内教学领导力与课堂微观互动，而非宏观外在行政体制 |
 
 ---
 

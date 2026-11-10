@@ -5,6 +5,14 @@
       "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
     },
     {
+      "basename": "Omnia Education Partnerships",
+      "path": "wiki/facts/finland/Omnia Education Partnerships.md"
+    },
+    {
+      "basename": "Competition State",
+      "path": "wiki/concepts/political-economy-geopolitics/Competition State.md"
+    },
+    {
       "basename": "Soft Privatisation",
       "path": "wiki/concepts/educational-policy-reform/Soft Privatisation.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "draft",
       "path": "output/youth-talent-lit-review/draft.md"
-    },
-    {
-      "basename": "draft-v6",
-      "path": "output/youth-talent-lit-review/draft-v6.md"
-    },
-    {
-      "basename": "Comparative Education",
-      "path": "information/Comparative Education.md"
     }
   ],
   "omittedPaths": [],
