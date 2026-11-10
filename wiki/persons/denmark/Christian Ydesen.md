@@ -7,7 +7,7 @@ summary: "丹麦奥尔堡大学教育社会学与全球治理教授、牛津大�
 type: person
 nationality: "denmark"
 person_region: "denmark"
-person_related_count: 41
+person_related_count: 43
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -22,6 +22,7 @@ tags:
   - theme/governance-by-numbers
   - theme/cold-war
 related_concepts:
+  - "[[Transnational Education]]"
   - "[[Global Education Governing Complex]]"
   - "[[Construct]]"
   - "[[Policy Brokerage]]"
@@ -62,24 +63,25 @@ related_facts:
   - "[[International Indicators of Education Systems]]"
   - "[[PISA]]"
   - "[[Global Education Monitoring Report]]"
-  - "[[Centre for Educational Research and Innovation]]"
   - "[[1960 Bellagio Conference]]"
   - "[[1964 UNESCO-World Bank Cooperative Agreement]]"
   - "[[Poverty Reduction Strategy Papers]]"
+  - "[[Centre for Educational Research and Innovation]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Gorur_2014_Discourse]]"
+  - "[[Argument_Volmari_2025_CE]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-27
+updated: 2026-11-10
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 丹麦历史学与比较教育学者，奥尔堡大学（Aalborg University）教育社会学与全球教育治理教授、牛津大学全球史研究中心高级研究学者。
-> - **核心角色** 当代国际组织[[Historical Institutionalism|历史制度主义]]、跨国教育评估史与量化治理研究的领军学者之一；开创性提出“[[Global Education Governing Complex\|全球教育治理复合体]]”理论框架，系统重构二战后多边跨国组织相互交织的权力演变史。
+> - **核心角色** 当代国际组织[[Historical Institutionalism|历史制度主义]]、[[Transnational Education|跨国教育]]评估史与量化治理研究的领军学者之一；开创性提出“[[Global Education Governing Complex\|全球教育治理复合体]]”理论框架，系统重构二战后多边跨国组织相互交织的权力演变史。
 > - **代表贡献** 奠定[[Global Education Governing Complex\|全球教育治理复合体]][[Construct\|构念]]；深入研究[[OECD\|经合组织]]（[[OECD]]）与[[World Bank\|世界银行]]跨国指标帝国的崛起历程；在 [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] 中系统构建冷战地缘对抗向当代[[Policy Brokerage\|政策中介]]演化的历史脉络。
 
 > [!citation-card] 人物定位的关键来源
@@ -91,7 +93,7 @@ updated: 2026-10-27
 
 > [!timeline] 生平与职涯
 > - **1977** 出生于丹麦。
-> - **2007–2011** 获丹麦哥本哈根大学博士学位，博士论文深入考察 20 世纪跨国智力测验与心理测量技术的制度化传播。
+> - **2007–2011** 获丹麦哥本哈根大学博士学位，重点考察 20 世纪跨国智力测验与心理测量技术的制度化传播。
 > - **2011–2017** 任职于丹麦奥尔堡大学教育、学习与哲学系，主持丹麦独立研究基金会（DFF）关于[[OECD\|经合组织]]教育治理历史的多项重大科研项目。
 > - **2019** 与索蒂里亚·格雷克（[[Sotiria Grek]]）合著出版里程碑式专著《经合组织在教育领域的历史性崛起：全球治理复合体的形成》（*The OECD's Historical [[Research in Schools Evaluation\|RISE]] In Education: The Formation of a Global Governing Complex*），奠定跨国指标治理史学领军地位。
 > - **2023** 与马伦·埃尔弗特（Maren Elfert）合著出版《全球教育治理：[[UNESCO\|联合国教科文组织]]、经合组织与[[World Bank\|世界银行]]的历史与当代纠缠》（*Global Governance of Education: The Historical and Contemporary Entanglements of UNESCO, the OECD and the World Bank*）。
@@ -134,6 +136,7 @@ updated: 2026-10-27
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] — 作为第三作者，主导历史制度演进与[[Geopolitics|地缘政治]]脉络分析，揭示 [[OECD]] 与[[World Bank\|世界银行]]如何借战后危机动员确立硬事实[[Policy Brokerage\|政策中介]]特权。
 > - [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] — 在[[Sociology of Measurement\|测量社会学]]层面与 Ydesen 的 [[International Indicators of Education Systems\|INES]] 指标历史档案形成紧密互证。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 结合丹麦 2014 年公立学校改革实证案例，引证其关于政策准备阶段缺乏独立委员会及证据选择性挑拣（cherry-picking）的历史制度分析。
 
 ---
 

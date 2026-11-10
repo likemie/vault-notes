@@ -8,9 +8,9 @@ summary: "比较教育学批判性定性比较方法，批判将民族国家视�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 29
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 30
+method_related_level: 3
+method_related_stars: "💎"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -52,6 +52,8 @@ related_facts:
   - "[[EU]]"
 related_arguments:
   - "[[Argument_Volmari_2025_CE]]"
+related_persons:
+  - "[[Noah Sobe]]"
 confidence: high
 status: active
 created: 2026-11-09
@@ -61,7 +63,7 @@ updated: 2026-11-10
 ---
 
 > [!def] Criss-Crossing Comparison
-> 穿梭比较法（Criss-Crossing Comparison，亦称交叉比较分析）指比较教育与全球政策社会学领域的一种关系性定性比较研究方法。特丽·塞登（Terri Seddon）、朱莉·麦克劳德（Julie McLeod）与诺亚·索比（Noah W. Sobe; Seddon et al., 2018）系统阐发了该方法。该方法旨在超越将民族国家作为孤立、预设制度容器的[[Methodological Nationalism|方法论民族主义]]，主张穿透事物表象，追踪知识形态、专业网络与跨国流动概念（如[[OECD|经合组织]]能力[[Discourse|话语]]）在不同制度[[Champ|场域]]中的穿梭流动、本土转译与再装配过程。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 537)]]
+> 穿梭比较法（Criss-Crossing Comparison，亦称交叉比较分析）指比较教育与全球政策社会学领域的一种关系性定性比较研究方法。特丽·塞登（Terri Seddon）、朱莉·麦克劳德（Julie McLeod）与[[Noah Sobe|诺亚·索比]]（[[Noah Sobe|Noah W. Sobe]]; Seddon et al., 2018）系统阐发了该方法。该方法旨在超越将民族国家作为孤立、预设制度容器的[[Methodological Nationalism|方法论民族主义]]，主张穿透事物表象，追踪知识形态、专业网络与跨国流动概念（如[[OECD|经合组织]]能力[[Discourse|话语]]）在不同制度[[Champ|场域]]中的穿梭流动、本土转译与再装配过程。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 537)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 跨国流动的政策理念、指标框架、专家咨询网络、文官行政知识与国家改革制度现场。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 537)]]

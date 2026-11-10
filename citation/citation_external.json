@@ -9508,7 +9508,9 @@
     "Greig & Taylor, 1999": "Greig & Taylor, 1999",
     "Grek & Lindgren (2015)": "Grek & Lindgren, 2015",
     "Grek & Lindgren, 2015": "Grek & Lindgren, 2015",
+    "Grek (2013)": "Grek, 2013",
     "Grek (2022)": "Grek, 2022",
+    "Grek, 2013": "Grek, 2013",
     "Grek, 2022": "Grek, 2022",
     "Grenier (2013)": "Grenier, 2013",
     "Grenier, 2013": "Grenier, 2013",
@@ -19765,6 +19767,8 @@
     "Redding & Nguyen, 2020": "Redding & Nguyen, 2020",
     "Reddy (2022)": "Reddy, 2022",
     "Reddy, 2022": "Reddy, 2022",
+    "Reder & Ydesen (2022)": "Reder & Ydesen, 2022",
+    "Reder & Ydesen, 2022": "Reder & Ydesen, 2022",
     "Redfield & Rousseau (1981)": "Redfield & Rousseau, 1981",
     "Redfield & Rousseau, 1981": "Redfield & Rousseau, 1981",
     "Redford (2012)": "Redford, 2012",
@@ -26272,6 +26276,8 @@
     "Yazejian, 2009": "Yazejian, 2009",
     "Ydesen & Andreasen (2014)": "Ydesen & Andreasen, 2014",
     "Ydesen & Andreasen, 2014": "Ydesen & Andreasen, 2014",
+    "Ydesen & Buchardt (2020)": "Ydesen & Buchardt, 2020",
+    "Ydesen & Buchardt, 2020": "Ydesen & Buchardt, 2020",
     "Ydesen & Grek (2019)": "Ydesen & Grek, 2019",
     "Ydesen & Grek, 2019": "Ydesen & Grek, 2019",
     "Ydesen (2019)": "Ydesen, 2019",
@@ -97048,6 +97054,21 @@
         "wiki/theories/educational-policy-reform/Governing by Inspection.md"
       ],
       "title": ""
+    },
+    "Grek, 2013": {
+      "aliases": [
+        "Grek, 2013",
+        "Grek (2013)"
+      ],
+      "doi": "10.1080/02680939.2012.758825",
+      "identity_keys": [
+        "Grek, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md"
+      ],
+      "title": "Expert Moves: International Comparative Testing and the Rise of Expectocracy"
     },
     "Grek, 2022": {
       "aliases": [
@@ -171529,6 +171550,21 @@
       "seen_in": [],
       "title": "A randomized trial examining the effects of paraprofessional behavior support coaching for elementary students with disruptive behavior disorders  Paraprofessional and student outcomes"
     },
+    "Reder & Ydesen, 2022": {
+      "aliases": [
+        "Reder & Ydesen, 2022",
+        "Reder & Ydesen (2022)"
+      ],
+      "doi": "10.1007/978-3-030-91959-7_4",
+      "identity_keys": [
+        "Reder & Ydesen, 2022"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md"
+      ],
+      "title": "Policy Borrowing and Evidence in Danish Education Policy Preparation: The Case of the Public School Reform of 2013"
+    },
     "Redfield & Rousseau, 1981": {
       "aliases": [
         "Redfield & Rousseau, 1981",
@@ -218437,6 +218473,21 @@
         "wiki/facts/denmark/Danish Act on Transparency 2002.md"
       ],
       "title": ""
+    },
+    "Ydesen & Buchardt, 2020": {
+      "aliases": [
+        "Ydesen & Buchardt, 2020",
+        "Ydesen & Buchardt (2020)"
+      ],
+      "doi": "10.1093/acrefore/9780190264093.013.1450",
+      "identity_keys": [
+        "Ydesen & Buchardt, 2020"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md"
+      ],
+      "title": "Citizen Ideals and Education in Nordic Welfare State School Reforms"
     },
     "Ydesen & Grek, 2019": {
       "aliases": [

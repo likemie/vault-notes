@@ -7,7 +7,7 @@ summary: "英国爱丁堡大学欧洲与全球教育治理讲席教授，英国�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 50
+person_related_count: 52
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[European Education Space]]"
   - "[[Network Governance]]"
+  - "[[Transnational Education]]"
   - "[[Paradigm]]"
   - "[[Comparative Turn in Education Policy]]"
   - "[[Research Translation]]"
@@ -94,7 +95,7 @@ updated: 2026-11-10
 > - **代表贡献** 论证[[OECD|经合组织]]（[[OECD]]）与[[EU|欧盟]]（[[EU]]）在跨国指标生产中的制度共生；阐明跨国测评数据自建等价空间与[[European Education Space|欧洲教育空间]]的传导路径；提出认识论基础设施框架解构欧洲高等教育质量保障的物质载体与[[Network Governance|网络治理]]机制。
 
 > [!citation-card] 人物定位的关键来源
-> 索蒂丽亚·格雷克（Sotiria Grek）的研究确立了理解跨国教育治理的关键[[Paradigm|范式]]：通过指标研发与[[Comparative Turn in Education Policy|比较转向]]，国际组织在缺乏法定立法强制手段的情形下，借助“客观数据”自建等价空间，将量化[[Research Translation|技术转化]]为深度重塑成员国国内政策的软性政治工具。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–26, 34–35)]]
+> 索蒂丽亚·格雷克（Sotiria Grek）的研究确立了理解[[Transnational Education|跨国教育]]治理的关键[[Paradigm|范式]]：通过指标研发与[[Comparative Turn in Education Policy|比较转向]]，国际组织在缺乏法定立法强制手段的情形下，借助“客观数据”自建等价空间，将量化[[Research Translation|技术转化]]为深度重塑成员国国内政策的软性政治工具。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–26, 34–35)]]
 >
 > *Grek's work demonstrates that governing by numbers is not merely technical measurement, but an influential political technology through which international organisations fabricate European and global education spaces without formal legislative levers.*
 

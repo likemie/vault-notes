@@ -68,10 +68,11 @@ related_arguments:
   - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Castro_2009_MultilateralBanks]]"
   - "[[Argument_Rust_2009_Reflections]]"
+  - "[[Argument_Santos_Silova_2026_Discourse]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 ---
@@ -146,6 +147,7 @@ updated: 2026-11-05
 > - **非意图后果（在校无学与质量危机）** 由于全民教育信贷长期深陷[[Disbursement-Driven Evaluation|放贷驱动评估]]，国际基准与考核仅聚焦于校舍兴建、课本发放与入学人数等外显物理投入指标，系统性回避黑板前的实际教学质量与认知增值；数以亿计儿童虽然进入课堂却未能掌握基本读写算技能，造成全球性的“在校无学”危机。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 470–471)]]
 > - **量化治理规制转向** 施泰纳-哈姆西等指出，EFA 的关键历史意义在于促成了全球南方国家首次向国际组织量化指标霸权低头；它打破了主权国家原本多元的教育发展节律，将发展中国家牢牢锁定制式化的国际基准评价链条之中。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 > - **外部依赖性借用的达标困境与主权自主对照** [[UNESCO|教科文组织]] 2006 年 EFA 全球监测报告与拉斯特等（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）的比较研究表明，被动接受国际金融机构结构调整贷款的第三世界国家普遍未能达成 2005 年预定指标；相反，古巴等将全民教育作为核心人道主义任务并拒绝新自由主义私有化借调的国家，反而取得了远超受援国的高完成度，表明主权国家内在的政治承诺而非外部依附性贷款才是实现全民教育的决定性因素。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 134)]]
+> - **新自由主义工具化与学习危机前置温床** 桑托斯与西洛娃（Santos & Silova, 2026）指出，全民教育运动固化了将教育从集体社会公共品转向可计量个人产出（读写算基本技能）的新自由主义转向；其对初等入学率的片面追求引发全球南方就学人口激增，但在缺乏配套教育主权与师资支持下造成大面积学力匮乏，反而成为多边组织随后建构“全球学习危机”与强化外部干预的前置制度温床。[[Argument_Santos_Silova_2026_Discourse|(Santos & Silova, 2026, p. 670)]]
 
 > [!stat-cards]- 核心数据
 > 覆盖全球 164 个签署国、设立 6 大量化全球目标、涉及数千亿美元跨国教育投资、促成全球失学儿童减少近 5,000 万人。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
@@ -221,5 +223,6 @@ updated: 2026-11-05
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员实务视角，披露 1990 年宗迪恩大会由世界银行强势主导、[[UNESCO|教科文组织]]理念领导权终结的历史内幕，并以“信贷约束迫使政策落地”和“[[Disbursement-Driven Evaluation|放贷驱动评估]]造成在校无学”揭示全民教育推进中的多边制度逻辑（pp. 466, 470–474）。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 援引[[UNESCO|联合国教科文组织]] 2006 年《[[Global Education Monitoring Report|全民教育全球监测报告]]》，反思全球化外援依附对受援国达标的消极后果，以古巴国家动员为例论证主权自决对于保障全民受教育权的核心机制（p. 134）。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 从历史与[[National Innovation System|国家创新系统]]视角，对比韩国与巴西在基础教育普及与工科人才储备上的悬殊反差，论证教育链条对后发国家技术[[Absorptive Capacity|吸收能力]]与经济韧性的决定性作用（pp. 13–15）。
+> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 从全球教育治理史学视角，揭示全民教育将教育窄化为可测量个人技能指标并最终演变为“学习危机”干预修辞的制度逻辑。
 
 ---

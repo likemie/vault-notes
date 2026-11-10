@@ -6,12 +6,11 @@ aliases:
   - literature retrieval
   - searching for literature
 summary: "运用系统策略与数据库工具从多元渠道定位、筛选和获取相关研究文献的操作性环节（Creswell & Creswell, 2022; Cohen et al., 2011）；服务于理论框架构建与信效度奠基，数字化搜索与平衡前沿经典的知识热点架构显著拓宽了学术共同体记忆并促进重大突破（Wang & Barabási, 2021）。"
-updated: 2026-11-09
 type: concept
 domain: "research-methodology"
-related_count: 77
-related_level: 7
-related_stars: "💎💎⭐"
+related_count: 96
+related_level: 9
+related_stars: "💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - source/textbook
@@ -26,10 +25,12 @@ related_concepts:
   - "[[Construct]]"
   - "[[Inverted Triangle Literature Search]]"
   - "[[Research Question]]"
+  - "[[Knowledge Hotspots]]"
   - "[[Abstract]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Chain of Evidence]]"
+  - "[[Doctoral Dissertation]]"
   - "[[Evaluation Research]]"
   - "[[International Education]]"
   - "[[Online Education]]"
@@ -45,13 +46,19 @@ related_concepts:
   - "[[Distance Education]]"
   - "[[Reliability]]"
   - "[[Variable]]"
+  - "[[Cumulative Innovation]]"
   - "[[Test-Based Accountability]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Big Science]]"
+  - "[[Research Impact]]"
+  - "[[Clinical Trial]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Critical Pedagogy]]"
   - "[[Publication Bias]]"
+  - "[[Technical Rationality]]"
+  - "[[Concept Mapping]]"
+  - "[[Data Infrastructure]]"
 related_methods:
   - "[[Literature Map]]"
   - "[[Cohort Study]]"
@@ -59,13 +66,23 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Network Analysis]]"
   - "[[Effect Size]]"
+  - "[[In-depth Interview]]"
+  - "[[Bibliometric Analysis]]"
+  - "[[Convenience Sampling]]"
+  - "[[Qualitative Interview]]"
+  - "[[Record Linkage]]"
 related_persons:
   - "[[Louis Cohen]]"
   - "[[Lawrence Manion]]"
   - "[[Keith Morrison]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
   - "[[Michael Kratsios]]"
 related_facts:
+  - "[[Scopus]]"
+  - "[[Google Scholar]]"
   - "[[Education Resources Information Center]]"
+  - "[[Web of Science]]"
   - "[[World Bank]]"
   - "[[Open Knowledge Repository]]"
   - "[[British Educational Research Association]]"
@@ -96,15 +113,16 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
   - "[[Argument_Verger_2019_Discourse]]"
-  - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
+  - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Lin_2023_SciData]]"
+  - "[[Argument_Volmari_2025_CE]]"
 related_theories:
   - "[[Human Capital Theory]]"
 confidence: high
 status: active
 created: 2026-06-21
-updated: 2026-11-03
+updated: 2026-11-10
 ---
 
 ---
@@ -123,7 +141,7 @@ updated: 2026-11-03
 > *Literature search serves a chain of argumentative purposes, establishing construct and content validity, mapping theoretical and empirical landscapes, identifying gaps, and providing a springboard for empirical inquiry.*
 
 > [!citation-card|notitle] 贝尔赫论跨国文献检索的语言与数据库边界
-> 在针对全球教育改革政策的大规模系统文献综述中，文献检索主要依赖国际主流引文数据库（如 Scopus），且多局限于同行评审的英语学术发表；这种检索边界对非英语国家的本土研究以及未被国际引文体系收录的发展中国家实证经验形成了覆盖局限。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 252)]]
+> 在针对全球教育改革政策的大规模系统文献综述中，文献检索主要依赖国际主流引文数据库（如 [[Scopus]]），且多局限于同行评审的英语学术发表；这种检索边界对非英语国家的本土研究以及未被国际引文体系收录的发展中国家实证经验形成了覆盖局限。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 252)]]
 >
 > *The literature search relies primarily on academic databases (such as Scopus) and English peer-reviewed articles, which imposes coverage limitations regarding non-English literature and evidence from developing countries not fully captured by international citation systems.*
 
@@ -145,12 +163,12 @@ updated: 2026-11-03
 ---
 
 > [!feature] 核心要素
-> - **前瞻平衡型知识搜索架构（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang & Barabási, 2021]]）** 参考文献检索的时代纵深决定了成果的创新定位；将检索视野兼顾最新前沿（低平均年龄）与历史经典（高年龄离散度）的“知识热点”模式，显著超越单纯追逐最新热点或深潜经典的单一检索策略。
-> - **数字化检索与学术集体记忆拓展（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang & Barabási, 2021]]）** 数字学术搜索引擎（如 Google Scholar）与算法打破了传统纸本借阅的物理壁垒，使跨越数十年的早期经典文献可全天候检索与溯源，系统性延长了学术界的有效认知记忆。
+> - **前瞻平衡型知识搜索架构（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang & Barabási, 2021]]）** 参考文献检索的时代纵深决定了成果的创新定位；将检索视野兼顾最新前沿（低平均年龄）与历史经典（高年龄离散度）的“[[Knowledge Hotspots|知识热点]]”模式，显著超越单纯追逐最新热点或深潜经典的单一检索策略。
+> - **数字化检索与学术集体记忆拓展（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang & Barabási, 2021]]）** 数字学术搜索引擎（如 [[Google Scholar]]）与算法打破了传统纸本借阅的物理壁垒，使跨越数十年的早期经典文献可全天候检索与溯源，系统性延长了学术界的有效认知记忆。
 > - **系统检索流程七步法（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）** ① 确立并逐步收窄关键词；② 检索专业计算机数据库；③ 初步筛选定位候选文献；④ 快速浏览摘要并排除无关项；⑤ 绘制[[Literature Map|文献地图]]理清知识脉络；⑥ 撰写结构化[[Abstract|文献摘要]]；⑦ 按主题或概念结构组织综述。
 > - **布尔语法与检索操作符** 熟练运用引号精确匹配、星号词根扩展、波浪号近义联想与 AND / OR / NOT 布尔逻辑组合，在查准率与查全率之间取得平衡。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, pp. 129–131)]]
 > - **文献多维分类与载体鉴别** 区分正式出版文献（专著、期刊）与未正式出版文献（博硕毕业成果、研讨报告）；区分[[Primary and Secondary Documents|初级文献]]（一手经验研究数据）与次级文献（教材、年鉴、述评）。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 1)]]
-> - **多源学术数据库梯队** 综合运用国际专业库（[[Education Resources Information Center|ERIC]]、Scopus、Web of Science）、开放获取平台（DOAJ）以及中文学术总库（CNKI），兼顾广度与专业深度。
+> - **多源学术数据库梯队** 综合运用国际专业库（[[Education Resources Information Center|ERIC]]、Scopus、[[Web of Science]]）、开放获取平台（DOAJ）以及中文学术总库（CNKI），兼顾广度与专业深度。
 > - **文献与来源质量评估准则** 优先参考经过严格同行评审的高水平学术期刊；审慎评估出版机构声誉、时间跨度、研究团队学术资质及客观中立性，防范商业立场偏见。
 > - **人工智能代理检索与语义挖掘** 随着[[Generative Artificial Intelligence|生成式人工智能]]的发展，智能研究代理介入文献初筛、语义跨模态提取与[[Chain of Evidence|证据链]]关联，推动检索向动态代码与数据沙盒延伸。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 70–72)]]
 
@@ -174,7 +192,7 @@ updated: 2026-11-03
 > | 数据库 | 特征 |
 > |---|---|
 > | [ERIC](https://eric.ed.gov) | 教育学期刊、报告、会议论文；免费，含在线词表可精确检索，1966 年至今 140 万条 |
-> | [Google Scholar](https://scholar.google.com) | 跨学科学术搜索，含论文、学位论文、图书；免费，自动统计引用次数 |
+> | [Google Scholar](https://scholar.google.com) | 跨学科学术搜索，覆盖期刊文献、硕博学位文献与图书；免费，自动统计引用次数 |
 > | [PubMed](https://pubmed.ncbi.nlm.nih.gov) | 生物医学与生命科学；免费，1700 万条引文 |
 > | [ProQuest (PQDT)](https://www.pqdtcn.com/) | 综合学术内容库，全球最大的学位论文收藏；机构订阅 |
 > | [EBSCO](https://research.ebsco.com/c/bebykj/search/advanced) | 综合性学术数据库与高级检索平台，350+ 专业子库；机构订阅，含 British Education Index |
@@ -355,7 +373,7 @@ updated: 2026-11-03
 > **论证推进与信效度奠基维度** 探讨文献检索如何从技术性资料收集上升为确立研究可[[Reliability|信度]]、效度与学术合法性的论证基石。
 
 > [!claim] [[Louis Cohen|Cohen, L.]], [[Lawrence Manion|Manion, L.]], & [[Keith Morrison|Morrison, K.]]
-> **文献检索服务于整套论证目的链条** 文献检索构成了研究论证链条的逻辑起点。通过系统检索与梳理已有文献，研究者为整个课题奠定[[Construct Validity|构念效度]]与[[Content Validity|内容效度]]基础，界定相关理论与实证领域的演进现状，明确关键术语与[[Variable|变量]]的界限，进而识别具有学术价值的研究空白。检索质量直接制约着后续研究设计的科学性与理论深度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, pp. 126–127)]]
+> **文献检索服务于整套论证目的链条** 文献检索构成了研究论证链条的逻辑起点。通过系统检索与梳理已有文献，研究者为整个课题奠定[[Construct Validity|构念效度]]与[[Content Validity|内容效度]]基础，界定相关理论与实证领域的演进现状，明确关键术语与[[Variable|变量]]的界限，进而识别具有学术价值的研究空白。检索质量直接制约着[[Cumulative Innovation|后续研究]]设计的科学性与理论深度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, pp. 126–127)]]
 
 ---
 
@@ -367,7 +385,7 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题三｜大规模系统综述中的文献检索边界决定了实证证据的外推效度
+> [!concept-proposition] 命题三｜大规模[[Systematic Review|系统综述]]中的文献检索边界决定了实证证据的外推效度
 > **数据库偏倚与语言覆盖边界维度** 检视宏观政策综述中检索来源与语言选择对证据代表性的制约，揭示技术检索边界引发的知识偏倚。
 
 > [!claim] [[Argument_Verger_2019_Discourse|Verger et al. (2019)]]
@@ -376,7 +394,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题四｜智能科研环境下人工智能代理检索重构学术分工格局
-> **人机共生学术分工与高阶认知聚焦维度** 剖析人工智能代理介入文献检索后，研究者如何从繁琐的机械初筛中解放，转向宏观科学方向把控与原创性知识综合。
+> **[[Man-Computer Symbiosis|人机共生]]学术分工与高阶认知聚焦维度** 剖析人工智能代理介入文献检索后，研究者如何从繁琐的机械初筛中解放，转向宏观科学方向把控与原创性知识综合。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
 > **文献检索代理化与人类战略综合聚焦假说** 随着[[Generative Artificial Intelligence|生成式人工智能]]与自主研究代理融入科学研究工作流，数以万计的智能代理能够在微观层面高效执行海量跨模态文献检索、模式挖掘与假说生成，打破了传统人工逐篇检索的效率瓶颈。在这种人机协同分工中，人类研究者得以将有限的认知资源集中于重[[Big Science|大科学]]方向的把握、原创性根本命题的构想、跨学科知识综合以及重大伦理价值的决断。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 70–72)]]
@@ -384,7 +402,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题五｜平衡最新前沿与深厚经典的知识检索架构显著提升重大科学突破概率
-> **知识搜索架构与前沿经典平衡维度** 探讨学者在文献检索与引用锚定时的时序分布策略对研究影响力的制约机制，阐明微观检索行为与宏观学术突破的关联。
+> **知识搜索架构与前沿经典平衡维度** 探讨学者在文献检索与引用锚定时的时序分布策略对[[Research Impact|研究影响力]]的制约机制，阐明微观检索行为与宏观学术突破的关联。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang, D. & Barabási, A.-L. (2021)]]
 > **前瞻平衡型检索策略与知识热点突破效应** 将文献检索范围局限于最近两到三年的最新热点（低平均年龄、低离散度），或全然深潜于多年前的历史文献（高平均年龄、低离散度），成果斩获高学术影响的几率均难以超越纯随机期望；唯有采取兼顾前沿与经典的“前瞻平衡型”检索策略（以知识前沿为基底，同时融合跨越数十年的奠基性经典），成果跻身领域前 5% 高被引突破的概率提高 2.2 倍以上。数字化搜索引擎与严格同行评议制度更进一步拓宽了文献检索视野，使沉睡数十年的经典文献检索与引用份额持续逆势攀升。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 200–204)]]
@@ -406,11 +424,11 @@ updated: 2026-11-03
 > - **19 世纪–20 世纪中叶 — 印刷卡片目录与实体索引时代** 文献检索主要依赖图书馆实体卡片目录、印刷索引年鉴（如 Index Medicus）、研究生研究书目与学者间互助追溯。
 > - **1959–1967 — 静电复印普及与同行评议规范化** 静电复印技术普及大幅降低跨区域文献传播门槛，《自然》（Nature）等期刊推行专业同行评议，促使学者引用行为规范化与历史奠基文献系统追溯。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 203–204)]]
 > - **1966 — 计算机化专业数据库与布尔逻辑检索** 美国[[Education Resources Information Center|教育资源信息中心]]（ERIC）创设，计算机数据库与布尔操作符（AND, OR, NOT）成为系统检索的行业标准。
-> - **1990s–2000s — 网络学术搜索与引文网络分析** Web of Science、Google Scholar、中国知网（CNKI）等在线平台普及，SSCI 引文追踪与关键词倒三角检索成为规范流程；算法将相关度置于首位，推动平均引文年龄逆势攀升。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 202–204)]]
+> - **1990s–2000s — 网络学术搜索与引文[[Network Analysis|网络分析]]** Web of Science、Google Scholar、中国知网（CNKI）等在线平台普及，SSCI 引文追踪与关键词倒三角检索成为规范流程；算法将相关度置于首位，推动平均引文年龄逆势攀升。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 202–204)]]
 > - **2010s — 开放获取、系统综述规范与循证证据库** DOAJ 开放获取目录普及，[[PRISMA]] 系统综述规范与 [[What Works Clearinghouse|WWC]]、[[EPPI-Centre]] 等循证证据库确立了结构化文献检索与质量把关的行业标杆。
 > - **2019 — 大规模系统综述检索覆盖边界反思** 贝尔赫等（[[Argument_Verger_2019_Discourse|Verger et al., 2019]]）在对测试问责的大规模系统文献综述中，实证指明主流商业引文库检索对非英语本土经验的覆盖盲区。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 252)]]
-> - **2021 — 知识热点搜索架构确立** 王大顺与巴拉巴西基于 2,800 万篇文献实证，证明兼顾最新前沿与历史经典的平衡型文献搜索使成果跻身前 5% 爆款高引的几率提升 2.2 倍。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 200–204)]]
-> - **2023 — 开放科学学数据湖支撑大规模全景文献检索与回溯** [[Argument_Lin_2023_SciData|Lin et al. (2023)]] 开源发布 [[SciSciNet]] 数据湖，整合 1.34 亿篇核心出版物、15.89 亿条引文网络与 2200 万篇专利及临床试验跨界关联，提供免费预计算测度指标，打破了传统商业引文数据库检索孤岛，为科研人员全景式检索和回溯跨学科知识网络提供了开放公共数据基石。
+> - **2021 — 知识热点搜索架构确立** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]基于 2,800 万篇文献实证，证明兼顾最新前沿与历史经典的平衡型文献搜索使成果跻身前 5% 爆款高引的几率提升 2.2 倍。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 200–204)]]
+> - **2023 — 开放[[SciSciNet|科学学数据湖]]支撑大规模全景文献检索与回溯** [[Argument_Lin_2023_SciData|Lin et al. (2023)]] 开源发布 [[SciSciNet]] 数据湖，整合 1.34 亿篇核心出版物、15.89 亿条引文网络与 2200 万篇专利及[[Clinical Trial|临床试验]]跨界关联，提供免费预计算测度指标，打破了传统商业引文数据库检索孤岛，为科研人员全景式检索和回溯跨学科知识网络提供了开放公共数据基石。
 > - **2026 — 生成式 AI 代理与可执行代码沙盒检索** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告确立智能时代科研新[[Paradigm|范式]]，智能代理承担自动化文献挖掘与代码/数据沙盒溯源，驱动人类学术分工向宏观战略综合转型。
 
 ---
@@ -447,12 +465,12 @@ updated: 2026-11-03
 > |---|---|---|---|---|---|---|
 > | [[Argument_Verger_2019_Discourse\|Verger et al. (2019, p. 252)]] | 针对全球测试问责（TBA）实证文献的系统性文献检索 | 系统综述检索规程设计与文献初筛统计 | 数据库来源、检索策略与初筛排除数量 | 通过 Scopus 数据库初筛获取 1,180 篇潜在文献；经独立双盲标题与摘要筛选后，最终确认纳入 115 篇同行评审实证研究 | 明确记录检索词与布尔语法规则 | 证实大规模学术系统综述对单一英语商业数据库的依赖，及其在非英语经验覆盖上的局限 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit09\|Wang & Barabási (2021, pp. 200–204)]] | 跨越自然科学、工程与社会科学的 2,800 万篇全量科技研究文献 | 大规模参考文献时序特征与长程影响力回归及概率测算 | 参考文献平均年龄 $\langle T \rangle$、年龄离散系数 $\sigma_T$、前 5% 高被引突破概率 | 知识热点（低 $\langle T \rangle$、高 $\sigma_T$）使成果进入前 5% 爆款高引的几率提升至随机期望的 2.2 倍（75% 的非热点成果未能超越随机期望）；发表 10 年以上老文献引用份额在 4 个领域超 40%，人文学科达 51% | 跨越战后至今约 90% 的学科领域复现 | 证实文献检索兼顾前沿与经典的知识搜索架构在多学科中具有普适突破增益 |
-> | [[Argument_Volmari_2025_CE\|Volmari et al. (2025, pp. 535–541)]] | 丹麦、芬兰、挪威基础教育改革起草委员会专家与文官深度访谈 | 质性深度访谈与文献计量分析 | 政策制定中专家证据采信机制 vs 客观文献检索假定 | 政策专家在紧迫周期内难以开展穷尽性文献检索，系统文献综述仅在挪威委员会作为理想被部分追求；专家证据搜寻普遍依赖个人学术人际网络、同行私下推荐与熟人圈子便利抽样 | 质性访谈全样本饱和分析 | 揭示政策制定中的文献获取高度嵌入于微观社会关系网络，打破了基于系统客观文献检索的技术理性假设 |
+> | [[Argument_Volmari_2025_CE\|Volmari et al. (2025, pp. 535–541)]] | 丹麦、芬兰、挪威基础教育改革起草委员会专家与文官[[In-depth Interview\|深度访谈]] | 质性深度访谈与[[Bibliometric Analysis\|文献计量分析]] | 政策制定中专家证据采信机制 vs 客观文献检索假定 | 同行评议成果引文占比偏低（丹麦 16.02% 即 37/231 条，芬兰 9.45% 即 64/677 条）；15 场高层访谈一致表明客观检索在紧迫政策周期中难以实现，证据搜寻普遍依赖学术熟人网络推荐 | [[Qualitative Interview\|质性访谈]]全样本饱和分析 | 揭示政策制定中的文献获取高度嵌入于微观社会关系网络，打破了基于系统客观文献检索的[[Technical Rationality\|技术理性]]假设 |
 
 ---
 
-> [!entry-map] 概念图谱
-> - 上位概念：[[Research Methodology|研究方法论]] · [[Research Process|研究过程]]
+> [!entry-map] [[Concept Mapping|概念图]]谱
+> - 上位概念：研究方法论 · 研究过程
 > - 核心操作：关键词布尔逻辑 · 倒三角检索 · 数据库筛选 · 质量甄别
 > - 工具与平台：[[Education Resources Information Center|ERIC]] · Web of Science · [[SciSciNet]] · Google Scholar
 > - 成果与下游环节：[[Literature Review|文献综述]] · [[Literature Map|文献地图]] · [[Systematic Review|系统综述]]
@@ -466,6 +484,6 @@ updated: 2026-11-03
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch. 1)]] — 阐释文献分类的公开性与加工程度双维度、五种文献检索操作方法及文献检索在课题选题中的四项发现机制。
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 报告基于 Scopus 数据库筛选 1,180 篇文献的大规模系统综述检索规程，实证反思英语数据库检索对非英语本土经验的覆盖偏倚。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告，阐述在智能时代自主研究代理如何承担微观文献挖掘与代码沙盒溯源，驱动人类科研分工向战略综合演化。
-> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 开源构建覆盖 1.34 亿篇文献与 15.89 亿条引文的 [[SciSciNet]] 数据湖，打破商业引文数据库封闭壁垒，为大规模自动化文献检索、实体对齐与跨学科知识扩散追踪提供开放数据基础设施。
+> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 开源构建覆盖 1.34 亿篇文献与 15.89 亿条引文的 [[SciSciNet]] 数据湖，打破商业引文数据库封闭壁垒，为大规模自动化文献检索、[[Record Linkage|实体对齐]]与跨学科知识扩散追踪提供开放[[Data Infrastructure|数据基础设施]]。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang and Barabási (2021)]] — 基于 2,800 万篇文献实证阐明兼顾前沿与经典的知识热点检索架构将突破概率提升 2.2 倍，揭示数字搜索引擎对学术记忆的拓展。
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 比较北欧三国改革起草专家的文献搜寻实践，实证揭示紧迫周期与海量成果下客观文献检索的失效，以及人际关系网络和便利抽样的主导地位。
