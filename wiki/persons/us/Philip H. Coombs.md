@@ -8,7 +8,7 @@ summary: "美国著名教育经济学家、高级外交官与国际教育规划�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -45,10 +45,11 @@ related_facts:
   - "[[A Nation at Risk 1983]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Santos_Silova_2026_Discourse]]"
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-11-10
 ---
 
 ---
@@ -59,7 +60,7 @@ updated: 2026-10-26
 > - **代表贡献** 创立[[International Institute for Educational Planning\|国际教育规划研究所]]（International Institute for Educational Planning，IIEP）并任首任所长；组织 1967 年[[1967 Williamsburg Conference on the World Crisis in Education\|威廉斯堡世界教育危机大会]]；出版里程碑著作《世界教育危机：系统分析》（*The World Education Crisis: A Systems Analysis*）。
 
 > [!citation-card] 危机叙事普遍化与冷战地缘博弈中的库姆斯
-> [[OECD\|经合组织]]与[[World Bank\|世界银行]]向[[Policy Brokerage\|政策中介]]演进的轨迹，深植于教育危机在全球蔓延的周期性危机叙事之中。鉴于其普世性的覆盖范围，各国际组织积极响应了这一召唤。……菲利普·H·库姆斯（Philip H. Coombs）身兼由约翰·肯尼迪总统任命的首任主管教育与文化事务的助理国务卿、联合国[[UNESCO\|教科文组织]]国际教育规划研究所首任所长，同时也是极具影响力的《世界教育危机》（Coombs 1968）一书的作者，他比任何人都更具象地人格化了这种危机的[[Cosmopolitanism|普世主义]]宣称。在冷战分裂的世界中出版，库姆斯的著作在铁幕的另一侧遭到了猛烈抨击。尽管如此，危机情境在 20 世纪 80 年代伴随里根政府《国家处在危险之中》报告的发布获得了又一次重大推力。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
+> [[OECD\|经合组织]]与[[World Bank\|世界银行]]向[[Policy Brokerage\|政策中介]]演进的轨迹，深植于教育危机在全球蔓延的周期性危机叙事之中。鉴于其普世性的覆盖范围，各国际组织积极响应了这一召唤。……菲利普·H·库姆斯（Philip H. Coombs）身兼由约翰·肯尼迪总统任命的首任主管教育与文化事务的助理国务卿、联合国[[UNESCO\|教科文组织]]国际教育规划研究所首任所长，同时著有极具影响力的《世界教育危机》（Coombs 1968）一书，他比任何人都更具象地人格化了这种危机的[[Cosmopolitanism|普世主义]]宣称。在冷战分裂的世界中出版，库姆斯的著作在铁幕的另一侧遭到了猛烈抨击。尽管如此，危机情境在 20 世纪 80 年代伴随里根政府《国家处在危险之中》报告的发布获得了又一次重大推力。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 >
 > *Philip H. Coombs, the first Assistant Secretary of State for Education and Culture (appointed by President John F. Kennedy), the first Director of the UNESCO International Institute for Educational Planning, and author of the influential book The World Education Crisis (Coombs 1968), personified more than anyone else the universalist claim. Published in a divided world during the Cold War, Coombs' book was harshly criticised on the other side of the Iron Curtain (see Steiner-Khamsi 2006).*
 
@@ -87,7 +88,7 @@ updated: 2026-10-26
 > 库姆斯坚信教育是驱动现代经济增长与社会转型的基础战略投资，但各国的传统教育制度具有强烈的保守性与制度惯性；当快速增长的人口规模、急剧攀升的社会期望与飞速变迁的现代技术相碰撞，而教育资源投入面临边际递减时，必然爆发全球性的“系统性教育危机”。他主张唯有超越传统国家主义的零散修补，依靠跨国机构开展长期的、量化的系统规划与跨国合作，才能有效破除教育投入与产出之间的结构性失衡。
 
 > [!citation-card] 全球教育危机的系统失调本质
-> 全球教育危机并非单一国家的孤立偶发事件，而是现代社会飞速变迁与教育体系内在滞后性之间产生的结构性错位。这场危机源于四个核心力量的剧烈冲突：学生激增的入学渴求与资源短缺之间的矛盾、教育财政成本飙升与国民生产总值增长的矛盾、传统课程产出与现代劳动力市场需求的脱节、以及传统教学方式低下的生产率与现代知识爆炸的冲突。唯有运用跨国比较与系统规划，才能免于整体性崩溃。(Coombs, 1968)
+> 全球教育危机植根于现代社会飞速变迁与教育体系内在滞后性之间的结构性错位，跨越了单一国家的地理边界。这场危机源于四个核心力量的剧烈冲突：学生激增的入学渴求与资源短缺之间的矛盾、教育财政成本飙升与国民生产总值增长的矛盾、传统课程产出与现代劳动力市场需求的脱节、以及传统教学方式低下的生产率与现代知识爆炸的冲突。唯有运用跨国比较与系统规划，才能免于整体性崩溃。(Coombs, 1968)
 
 ---
 
@@ -95,6 +96,7 @@ updated: 2026-10-26
 > - **制度化路径** 亲手缔造[[International Institute for Educational Planning\|联合国教科文组织国际教育规划研究所]]（IIEP），开创了联合国体系以跨国培训、指标规划与数据建模向第三世界输出规划技术的治理样板。
 > - **[[Discourse|话语]][[Paradigm\|范式]]路径** 确立了以“危机叙事”动员财政资源、重塑公众预期并为跨国专家干预提供合法性辩护的话语模型，直接启发了后来的《国家处在危险之中》及[[OECD\|经合组织]]跨国指标体系。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 > - **政策转移路径** 促成了美国国内教育规划技术与多边国际组织的无缝咬合，为冷战时期西方大国主导全球南方教育发展合作提供了关键思想弹药。
+> - **当代危机治理演化** 其奠定的危机动员与技术赤字修辞构成了 21 世纪联合国与世界银行“全球学习危机”及“学习贫困”治理叙事的历史雏形。[[Argument_Santos_Silova_2026_Discourse\|(Santos & Silova, 2026, pp. 671–673)]]
 
 ---
 
@@ -113,6 +115,7 @@ updated: 2026-10-26
 
 > [!critique] 批评索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] — 指出库姆斯所具象化的人格化普遍危机叙事在冷战中具有鲜明的西方[[Geopolitics|地缘政治]]烙印，将特定资本主义工业社会的问题外推为全球普世问题。
+> - [[Argument_Santos_Silova_2026_Discourse\|Santos and Silova (2026)]] — 批评库姆斯开创的危机认识论传统将教育挑战窄化为跨国技术官僚的干预契机，遮蔽了殖民掠夺与地缘政治等级。
 
 > [!warning] 未解问题与边界
 > 库姆斯的系统[[Analytic Framework\|分析框架]]高度依赖国家层面的宏观投入-产出可量化指标，难以深入捕捉微观教室层面的教学情境复杂性与文化差异。
@@ -126,10 +129,11 @@ updated: 2026-10-26
 > | [[Policy Brokerage]] | 概念 | 通过世界教育危机大会奠定跨国政策中介与多边干预的合法性基石。 |
 > | [[Technology Deficit of Education]] | 概念 | 将教育系统投入产出的内在滞后失衡界定为危机动因，强化跨国规划需求。 |
 > | [[A Nation at Risk 1983]] | 政策 | 其倡导的危机动员[[Discourse\|话语]]直接启发了 1980 年代美国国内及跨国指标危机报告。 |
-> | [[International Institute for Educational Planning]] | 组织 | 参与创建并担任首任所长，奠定战后[[International Education\|国际教育]]规划专业化标准。创始人兼首任所长（1963–1968），开创多边教育规划技术培训。 |
-> | 弗吉尼亚威廉斯堡世界教育危机大会（1967） | 事件 | 会议核心组织者与议题设定者，正式确立全球教育危机叙事。 |
+> | [[International Institute for Educational Planning]] | 组织 | 参与创建并担任首任所长（1963–1968），开创多边教育规划技术培训。 |
+> | [[1967 Williamsburg Conference on the World Crisis in Education\|1967 年威廉斯堡世界教育危机大会]] | 事件 | 会议核心组织者与议题设定者，正式确立全球教育危机叙事。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] — 将库姆斯定位为冷战时期将教育危机赋予“[[Cosmopolitanism|普世主义]]宣称”的最关键历史人物，揭示其如何通过威廉斯堡大会奠定跨国[[Policy Brokerage\|政策中介]]的政治合法性。
+> - [[Argument_Santos_Silova_2026_Discourse\|Santos and Silova (2026)]] — 将库姆斯 1968 年世界教育危机系统分析追溯为跨国危机叙事的制度化源头，揭示其如何为当代国际组织技术官僚干预奠定历史基调。
