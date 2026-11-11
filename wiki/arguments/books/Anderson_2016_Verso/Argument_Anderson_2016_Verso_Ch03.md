@@ -10,7 +10,7 @@ title: "Argument_Anderson_2016_Verso_Ch03"
 argument_key: "Argument_Anderson_2016_Verso_Ch03"
 argument_display_title: "Imagined Communities: Reflections on the Origin and Spread of Nationalism · Ch03"
 argument_kind: "book-chapter"
-argument_related_count: 23
+argument_related_count: 21
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -25,9 +25,6 @@ tags:
   - theme/nationalism
   - theme/political-philosophy
 related_concepts:
-  - "[[Nationalism]]"
-  - "[[Print-Language]]"
-  - "[[Document]]"
   - "[[Truth-Language]]"
   - "[[Print-Capitalism]]"
   - "[[Determinism]]"
@@ -40,6 +37,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Homogeneous, Empty Time]]"
   - "[[Horizontal Comradeship]]"
+  - "[[Print-Language]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods:
@@ -61,14 +59,6 @@ status: draft
 created: 2026-11-11
 updated: 2026-11-11
 ---
-
----
-
-> [!chapter-profile] 专著章节档案
-> - **所属专著** 《[[Imagined Community|想象的共同体]]：[[Nationalism|民族主义]]的起源与散布》（*Imagined Communities: Reflections on the Origin and Spread of Nationalism*）。
-> - **章节题名** 第3章 民族意识的起源（The Origins of National Consciousness, pp. 39–49）。
-> - **论证功能** 阐释现代民族共同体在世俗横向共时空间中脱颖而出的动力机制，揭示资本主义生产体系、机械复制印刷技术与人类语言宿命多样性三者的历史聚合，剖析[[Print-Language|印刷语言]]奠定现代民族意识的三重制度机制，以及印刷语言与当代民族国家空间疆界之间的非同构关联。
-> - **[[Document|文献]]范围** 专著正文第三章（pp. 39–49）及附注。
 
 ---
 

@@ -10,7 +10,7 @@ title: "Argument_Anderson_2016_Verso_Ch02"
 argument_key: "Argument_Anderson_2016_Verso_Ch02"
 argument_display_title: "Imagined Communities: Reflections on the Origin and Spread of Nationalism · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 37
+argument_related_count: 35
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -25,9 +25,6 @@ tags:
   - theme/nationalism
   - theme/political-philosophy
 related_concepts:
-  - "[[Nationalism]]"
-  - "[[Epistemology]]"
-  - "[[Document]]"
   - "[[Truth-Language]]"
   - "[[Dynastic Realm]]"
   - "[[Messianic Time]]"
@@ -39,11 +36,13 @@ related_concepts:
   - "[[Construct]]"
   - "[[Community of Shared Future for Mankind]]"
   - "[[Homophily]]"
+  - "[[Nationalism]]"
   - "[[Discourse]]"
   - "[[Commensuration]]"
   - "[[Horizontal Comradeship]]"
   - "[[Epistemic Infrastructure]]"
   - "[[Positivism]]"
+  - "[[Epistemology]]"
   - "[[Assemblage]]"
   - "[[Paradigm]]"
   - "[[Mind and Its Wonders]]"
@@ -64,7 +63,6 @@ related_persons:
   - "[[Marc Bloch]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
 related_facts:
-  - "[[ROOTS]]"
   - "[[Civil Service Examination]]"
   - "[[Act of Union 1707]]"
 related_arguments: []
@@ -75,14 +73,6 @@ status: draft
 created: 2026-11-11
 updated: 2026-11-11
 ---
-
----
-
-> [!chapter-profile] 专著章节档案
-> - **所属专著** 《[[Imagined Community|想象的共同体]]：[[Nationalism|民族主义]]的起源与散布》（*Imagined Communities: Reflections on the Origin and Spread of Nationalism*）。
-> - **章节题名** 第2章 文化根源（Cultural [[ROOTS|Roots]], pp. 9–37）。
-> - **论证功能** 阐释现代民族共同体成型的深层文化土壤，从存在论关怀、前现代文化体系衰退与时间[[Epistemology|认识论]]革命三个维度，回答民族为何能够激发超理性的神圣献身意愿，并确立理解现代民族想象的技术表象装置。
-> - **[[Document|文献]]范围** 专著正文第二章（pp. 9–37）及附注。
 
 ---
 
@@ -100,14 +90,14 @@ updated: 2026-11-11
 ---
 
 > [!framework-table] 理论与概念工具
-> | 理论工具 | 解释功能 | 对应文献位置 |
-> |----------|----------|--------------|
-> | **[[Tomb of the Unknown Soldier\|无名烈士之墓]]**<br>Tomb of the Unknown Soldier | 阐明民族概念如何承接传统宗教功能，通过将偶然降生与牺牲升华为捍卫共同体历史的必然宿命，实现对抗死亡遗忘的世俗救赎。 | pp. 9–12 |
-> | **[[Truth-Language\|真理语言]]**<br>Truth-Language | 阐释教会拉丁文、古兰经阿拉伯文与[[Civil Service Examination\|科举]]汉字等神圣符号系统如何通过符号的非任意性与炼金术式吸纳，维系前现代超地方文明共同体。 | pp. 12–16 |
-> | **[[Dynastic Realm\|王朝领域]]**<br>Dynastic Realm | 揭示世袭君主制围绕神圣中心向心组织、边界模糊流动、依托异族王室联姻统辖多元异质人口的独特政治生态。 | pp. 19–22 |
-> | **[[Messianic Time\|弥赛亚时间]]**<br>Messianic Time | 借由[[Erich Auerbach\|埃里希·奥尔巴赫（Erich Auerbach, 1957）]]与[[Walter Benjamin\|瓦尔特·本雅明（Walter Benjamin, 1968）]]的阐释，揭示中世纪依托预表与实现垂直联结天意的神圣时间观。 | pp. 22–24 |
-> | **[[Homogeneous, Empty Time\|齐一而空洞的时间]]**<br>Homogeneous, Empty Time | 引入本雅明[[Construct\|构念]]，阐释以机械钟表与公历为尺度的线性世俗时间，说明与此同时（meanwhile）的横向共时性如何构成想象民族有机体的认知前提。 | pp. 24–26 |
-> | **近代小说与日报的技术表象**<br>Novel and Newspaper as Re-presentation | 揭示单日畅销书（报纸）与多线叙事（小说）如何为读者提供同时性仪式，在私密体验中确证数百万匿名同胞的共时存在。 | pp. 25–36 |
+> | 理论工具 | 解释功能 |
+> |----------|----------|
+> | **[[Tomb of the Unknown Soldier\|无名烈士之墓]]**<br>Tomb of the Unknown Soldier | 阐明民族概念如何承接传统宗教功能，通过将偶然降生与牺牲升华为捍卫共同体历史的必然宿命，实现对抗死亡遗忘的世俗救赎（pp. 9–12）。 |
+> | **[[Truth-Language\|真理语言]]**<br>Truth-Language | 阐释教会拉丁文、古兰经阿拉伯文与[[Civil Service Examination\|科举]]汉字等神圣符号系统如何通过符号的非任意性与炼金术式吸纳，维系前现代超地方文明共同体（pp. 12–16）。 |
+> | **[[Dynastic Realm\|王朝领域]]**<br>Dynastic Realm | 揭示世袭君主制围绕神圣中心向心组织、边界模糊流动、依托异族王室联姻统辖多元异质人口的独特政治生态（pp. 19–22）。 |
+> | **[[Messianic Time\|弥赛亚时间]]**<br>Messianic Time | 借由[[Erich Auerbach\|埃里希·奥尔巴赫（Erich Auerbach, 1957）]]与[[Walter Benjamin\|瓦尔特·本雅明（Walter Benjamin, 1968）]]的阐释，揭示中世纪依托预表与实现垂直联结天意的神圣时间观（pp. 22–24）。 |
+> | **[[Homogeneous, Empty Time\|齐一而空洞的时间]]**<br>Homogeneous, Empty Time | 引入本雅明[[Construct\|构念]]，阐释以机械钟表与公历为尺度的线性世俗时间，说明与此同时（meanwhile）的横向共时性如何构成想象民族有机体的认知前提（pp. 24–26）。 |
+> | **近代小说与日报的技术表象**<br>Novel and Newspaper as Re-presentation | 揭示单日畅销书（报纸）与多线叙事（小说）如何为读者提供同时性仪式，在私密体验中确证数百万匿名同胞的共时存在（pp. 25–36）。 |
 
 > [!warrant]- 概念工具支撑逻辑
 > 民族主义所展现出的强大政治动员力与牺牲意愿，无法在自由主义的个体理性契约或马克思主义的阶级利益学说中获得合理解释。考察必须深入至存在论层面，分析人类对死亡、苦难与世代连续性的根本追寻。通过引入真理语言、王朝合法性以及本雅明的时间哲学构念，论证系统瓦解了前现代人类安顿生命意义的传统坐标系；进而将小说与报纸确立为认知技术装置，清晰重构出世俗现代人如何在均质时间流中将陌生人连结为[[Community of Shared Future for Mankind|命运共同体]]的表象机制。

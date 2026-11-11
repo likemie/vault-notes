@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Anderson_2016_Verso_Ch02",
+      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch02.md"
+    },
+    {
+      "basename": "Argument_Anderson_2016_Verso_Ch01",
+      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md"
+    },
+    {
+      "basename": "Nationalism",
+      "path": "wiki/concepts/political-economy-geopolitics/Nationalism.md"
+    },
+    {
       "basename": "Argument_Barrenechea_2023_JEC",
       "path": "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
     },
@@ -9,16 +21,8 @@
       "path": "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md"
     },
     {
-      "basename": "Nationalism",
-      "path": "wiki/concepts/political-economy-geopolitics/Nationalism.md"
-    },
-    {
       "basename": "Everyday Plebiscite",
       "path": "wiki/concepts/political-economy-geopolitics/Everyday Plebiscite.md"
-    },
-    {
-      "basename": "Argument_Anderson_2016_Verso_Ch01",
-      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md"
     },
     {
       "basename": "Imagined Community",
@@ -195,10 +199,6 @@
     {
       "basename": "Hot Hand Fallacy",
       "path": "wiki/theories/science-policy/Hot Hand Fallacy.md"
-    },
-    {
-      "basename": "Matthew Effect in Academia",
-      "path": "wiki/concepts/higher-education/Matthew Effect in Academia.md"
     }
   ],
   "omittedPaths": [],
