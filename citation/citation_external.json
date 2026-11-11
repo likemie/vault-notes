@@ -7276,7 +7276,9 @@
     "Eric Woo, 2023": "Eric Woo, 2023",
     "Erica Fuchs (2010)": "Erica Fuchs, 2010",
     "Erica Fuchs, 2010": "Erica Fuchs, 2010",
+    "Erich Auerbach (1953)": "Erich Auerbach, 1953",
     "Erich Auerbach (1957)": "Erich Auerbach, 1957",
+    "Erich Auerbach, 1953": "Erich Auerbach, 1953",
     "Erich Auerbach, 1957": "Erich Auerbach, 1957",
     "Erickson (1973)": "Erickson, 1973",
     "Erickson (1992)": "Erickson, 1992",
@@ -10951,8 +10953,10 @@
     "Hoadley, 2018": "Hoadley, 2018",
     "Hobbs (2012)": "Hobbs, 2012",
     "Hobbs, 2012": "Hobbs, 2012",
+    "Hobsbawm (1962)": "Hobsbawm, 1962",
     "Hobsbawm (1983)": "Hobsbawm, 1983",
     "Hobsbawm (2002)": "Hobsbawm, 2002",
+    "Hobsbawm, 1962": "Hobsbawm, 1962",
     "Hobsbawm, 1983": "Hobsbawm, 1983",
     "Hobsbawm, 2002": "Hobsbawm, 2002",
     "Hodgen (2019)": "Hodgen, 2019",
@@ -24252,6 +24256,8 @@
     "Tollefson, 2019": "Tollefson, 2019",
     "Tom Loveless (2012)": "Tom Loveless, 2012",
     "Tom Loveless, 2012": "Tom Loveless, 2012",
+    "Tom Nairn (1977)": "Tom Nairn, 1977",
+    "Tom Nairn, 1977": "Tom Nairn, 1977",
     "Tombari & Borich (1999)": "Tombari & Borich, 1999",
     "Tombari & Borich, 1999": "Tombari & Borich, 1999",
     "Tomcho & Foels (2012)": "Tomcho & Foels, 2012",
@@ -81059,6 +81065,21 @@
       ],
       "title": ""
     },
+    "Erich Auerbach, 1953": {
+      "aliases": [
+        "Erich Auerbach, 1953",
+        "Erich Auerbach (1953)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Erich Auerbach, 1953"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch05.md"
+      ],
+      "title": ""
+    },
     "Erich Auerbach, 1957": {
       "aliases": [
         "Erich Auerbach, 1957",
@@ -108030,6 +108051,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effects of an afterschool program on elementary and middle school math achievement in Georgia schools"
+    },
+    "Hobsbawm, 1962": {
+      "aliases": [
+        "Hobsbawm, 1962",
+        "Hobsbawm (1962)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hobsbawm, 1962"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch05.md"
+      ],
+      "title": ""
     },
     "Hobsbawm, 1983": {
       "aliases": [
@@ -181462,6 +181498,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch05.md",
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02.md",
         "wiki/arguments/books/Ryan(Ed.)_2010_HKUP/Argument_Ryan_2010_ChineseLearner.md",
         "wiki/concepts/comparative-education/Meta-Cultural Sensitivity.md",
@@ -187592,6 +187629,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch05.md",
         "wiki/concepts/political-economy-geopolitics/Nationalism.md",
         "wiki/persons/uk/Hugh Seton-Watson.md"
       ],
@@ -204450,6 +204488,21 @@
         "wiki/facts/us/Common Core State Standards.md",
         "wiki/facts/us/Institute of Education Sciences.md",
         "wiki/persons/us/William H. Schmidt.md"
+      ],
+      "title": ""
+    },
+    "Tom Nairn, 1977": {
+      "aliases": [
+        "Tom Nairn, 1977",
+        "Tom Nairn (1977)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Tom Nairn, 1977"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch05.md"
       ],
       "title": ""
     },
