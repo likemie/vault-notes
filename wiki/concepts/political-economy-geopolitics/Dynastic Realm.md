@@ -19,11 +19,12 @@ tags:
   - theme/nationalism
   - theme/state-formation
 related_concepts:
+  - "[[Official Nationalism]]"
+  - "[[Nationalism]]"
+  - "[[Truth-Language]]"
   - "[[Print-Language]]"
   - "[[Print-Capitalism]]"
-  - "[[Truth-Language]]"
   - "[[Homogeneous, Empty Time]]"
-  - "[[Nationalism]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods: []
@@ -35,6 +36,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
   - "[[Argument_Anderson_2016_Verso_Ch03]]"
+  - "[[Argument_Anderson_2016_Verso]]"
 confidence: high
 status: active
 created: 2026-11-11
@@ -55,6 +57,12 @@ updated: 2026-11-11
 > 在现代观念中，国家主权完全平整、均质地覆盖于划定清晰且受法理保护的领土之上。然而在古代世界，根本状态是由中枢界定统治。王朝国家围绕高耸的中枢展开，其边界模糊渗漏，不同主权在边缘地带发生难以察觉的相互重叠。正是由于这一特质，前现代帝国与王国能够轻而易举地维持对极其多元、异质且甚至互不相接的庞大人口的长期统治。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, p. 19)]]
 >
 > *In the modern conception, state sovereignty is fully, flatly, and evenly operative over each square centimetre of a legally demarcated territory. But in the older imagining, where states were defined by centres, borders were porous and indistinct, and sovereignties faded imperceptibly into one another, which helps to explain the ease with which pre-modern empires and kingdoms were able to sustain their rule over immensely heterogeneous, and often not even contiguous, populations for long periods of time.*
+
+> [!concept-lens] 概念详释：“神圣中枢”与“渗漏疆界”（Porous Borders）的空间图式
+> - **空间界定范式：中枢辐射（Centred Power）与均质填充（Bounded Territory）** 现代民族国家以几何边界为空间先导，通过法理勘界确立封闭排他的主权容器，使国家意志平整均质地渗透至每一平方厘米领土；前现代王朝国家以神圣中枢为唯一锚点，权力从高耸的王座或宫廷向外层层扩散。权威的有效性随地理距离与交通阻隔呈梯度衰减，缺乏统一强度的末端渗透。
+> - **“渗漏”（Porous）的物理实质：重叠交织与边陲缓冲** “渗漏”指王朝主权在边缘地带不具备排他性垄断。在古代各大帝国交界地带，主权以渐进微细的方式相互渗入对方（sovereignties faded imperceptibly into one another）。边缘族群与土邦往往同时向两个或多个邻近中枢纳贡交税，主权在边陲呈现多重从属与交织并存，形成柔性弹性的宽阔缓冲地带，而非单线切割的硬性隔离界线。
+> - **帝国统治机制：为何“渗漏疆界”能容纳庞大多语种人口** 王朝统治依托对王权中枢的垂直效忠维系，首要关注臣民在贡赋与礼仪上的服从，并不要求属民在日常语言与族群文化上的均质统一。不同语种、风俗甚至地理上互不接壤的人口，只要共同尊奉君主权威，便能安然共处于复合帝国图景之中，免受现代民族同质化要求的规训。
+> - **领土化断裂：从多孔边陲到刀锋界线的现代阵痛** 现代实证测绘技术与国际法权普及，彻底终结了渗漏疆界的历史空间。边界从弹性的多孔缓冲带转变为排他的单向界碑，迫使边缘地带多元族群选边站队，直接催生了世袭王朝企图将古老帝国身体硬塞进崭新民族长袍中的[[Official Nationalism|官方民族主义]]防御工程。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 19–22)]]
 
 > [!boundary]- 概念边界
 > - 区别于现代民族国家：王朝国家由神圣王权中枢界定，边界模糊流动；民族国家由严格勘测的法理边界界定，主权在全境平整均质覆盖。
