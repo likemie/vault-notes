@@ -62,14 +62,14 @@ updated: 2026-11-11
 > - **约束机制** 凡未使用母语法语书写的诉讼契约与判决一律宣告在法律上无效，违规司法官吏将受剥夺职位与罚款惩戒。
 
 > [!citation-card] 安德森论维莱科特雷法令与行政方言的渐进性
-> 在塞纳河畔，发生了类似但步伐稍缓的运动。正如布洛赫语带讽刺所言，“法语曾被视作拉丁文的一种堕落形式，耗费数百年才将自身提升至文学尊严的高度”，它直到1539年法兰西斯一世颁布《维莱科特雷法令》时，才成为司法法院的官方语言。在每一种情形中，语言的选择均呈现为一种渐进、非自觉、注重实用甚至带有偶发性的发展过程。这与19世纪王朝统治者在面对敌对的大众语言民族主义时所推行的自觉语言政策存在根本区别。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, p. 44)]]
+> 在塞纳河畔，发生了类似但步伐稍缓的运动。正如布洛赫语带讽刺所言，法语曾被视作拉丁文的一种堕落形式，耗费数百年才将自身提升至文学尊严的高度；它直到1539年法兰西斯一世颁布维莱科特雷法令时，才成为司法法院的官方语言。在每一种情形中，语言的选择均呈现为一种渐进、非自觉、注重实用甚至带有偶发性的发展过程。这与19世纪王朝统治者在面对敌对的大众语言民族主义时所推行的自觉语言政策存在根本区别。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, p. 44)]]
 >
 > *On the Seine, a similar movement took place, if at a slower pace. As Bloch wryly puts it, 'French, that is to say a language which, since it was regarded as merely a corrupt form of Latin, took several centuries to raise itself to literary dignity', only became the official language of the courts of justice in 1539, when François I issued the Edict of Villers-Cotterêts.*
 
 ---
 
 > [!timeline] 政策时间线
-> - **1362** 英国议会与法庭率先改用早期英语（Early English），开创世俗行政方言取代拉丁文的先例。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, p. 43)]]
+> - **1362** 英国议会与法庭率先改用早期英语，开创世俗行政方言取代拉丁文的先例。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, p. 43)]]
 > - **1535** 法兰西斯一世因抗议宗印刷品泛滥引发恐慌，一度颁布禁止王国境内一切图书印刷的严苛法令。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, p. 42)]]
 > - **1539** 法兰西斯一世颁布维莱科特雷法令，正式立法语为法庭法定审判与登记语言。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, p. 44)]]
 > - **1635** 黎塞留主导设立法兰西学术院，将该法令确立的司法法语规范进一步上升为国家文学标准与语言规范。
