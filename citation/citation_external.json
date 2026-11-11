@@ -7015,6 +7015,8 @@
     "Eisenhower, 1961": "Eisenhower, 1961",
     "Eisenstaedt et al. (1990)": "Eisenstaedt et al., 1990",
     "Eisenstaedt et al., 1990": "Eisenstaedt et al., 1990",
+    "Eisenstein (1979)": "Eisenstein, 1979",
+    "Eisenstein, 1979": "Eisenstein, 1979",
     "Eisner (1983)": "Eisner, 1983",
     "Eisner (1985)": "Eisner, 1985",
     "Eisner (1991)": "Eisner, 1991",
@@ -7680,6 +7682,8 @@
     "Feather, 1989": "Feather, 1989",
     "Featherman & Hauser (1978)": "Featherman & Hauser, 1978",
     "Featherman & Hauser, 1978": "Featherman & Hauser, 1978",
+    "Febvre & Martin (1976)": "Febvre & Martin, 1976",
+    "Febvre & Martin, 1976": "Febvre & Martin, 1976",
     "Federica Malfatti (2025)": "Federica Malfatti, 2025",
     "Federica Malfatti, 2025": "Federica Malfatti, 2025",
     "Fedewa & Ahn (2011)": "Fedewa & Ahn, 2011",
@@ -23106,6 +23110,8 @@
     "Stein, 1953": "Stein, 1953",
     "Stein, 2008": "Stein, 2008",
     "Stein, 2017": "Stein, 2017",
+    "Steinberg (1955)": "Steinberg, 1955",
+    "Steinberg, 1955": "Steinberg, 1955",
     "Steiner-Khamsi & Stolpe (2006)": "Steiner-Khamsi & Stolpe, 2006",
     "Steiner-Khamsi & Stolpe, 2006": "Steiner-Khamsi & Stolpe, 2006",
     "Steiner-Khamsi (2000)": "Steiner-Khamsi, 2000",
@@ -79144,6 +79150,21 @@
       ],
       "title": ""
     },
+    "Eisenstein, 1979": {
+      "aliases": [
+        "Eisenstein, 1979",
+        "Eisenstein (1979)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Eisenstein, 1979"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch03.md"
+      ],
+      "title": ""
+    },
     "Eisner, 1983": {
       "aliases": [
         "Eisner, 1983",
@@ -84060,6 +84081,22 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian.md"
+      ],
+      "title": ""
+    },
+    "Febvre & Martin, 1976": {
+      "aliases": [
+        "Febvre & Martin, 1976",
+        "Febvre & Martin (1976)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Febvre & Martin, 1976"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch03.md",
+        "wiki/concepts/political-economy-geopolitics/Print-Capitalism.md"
       ],
       "title": ""
     },
@@ -196165,6 +196202,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rizvi_2022_Springer.md"
+      ],
+      "title": ""
+    },
+    "Steinberg, 1955": {
+      "aliases": [
+        "Steinberg, 1955",
+        "Steinberg (1955)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Steinberg, 1955"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch03.md"
       ],
       "title": ""
     },
