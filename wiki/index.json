@@ -12769,6 +12769,29 @@
     ]
   },
   {
+    "title": "Administrative Pilgrimage",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Administrative Pilgrimage.md",
+    "aliases": [
+      "行政朝圣",
+      "官僚巡游",
+      "secular pilgrimage",
+      "世俗朝圣"
+    ]
+  },
+  {
+    "title": "Administrative Vernacular",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Administrative Vernacular.md",
+    "aliases": [
+      "行政方言",
+      "行政土语",
+      "administrative vernaculars",
+      "administrative languages",
+      "官方行政方言"
+    ]
+  },
+  {
     "title": "Agglomeration Externalities",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Agglomeration Externalities.md",
@@ -12983,6 +13006,15 @@
       "权力走廊",
       "公共外交走廊",
       "次国家外交走廊"
+    ]
+  },
+  {
+    "title": "Creole Nationalism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Creole Nationalism.md",
+    "aliases": [
+      "克里奥尔民族主义",
+      "土生白人民族主义"
     ]
   },
   {
@@ -13677,6 +13709,17 @@
       "知识经济",
       "知识型经济",
       "KBE"
+    ]
+  },
+  {
+    "title": "Language-of-Power",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Language-of-Power.md",
+    "aliases": [
+      "权力语言",
+      "优势方言",
+      "languages of power",
+      "language of power"
     ]
   },
   {
@@ -32939,6 +32982,17 @@
     ]
   },
   {
+    "title": "Victor Turner",
+    "type": "person",
+    "path": "wiki/persons/uk/Victor Turner.md",
+    "aliases": [
+      "维克多·特纳",
+      "Turner, V.",
+      "V. Turner",
+      "Victor Witter Turner"
+    ]
+  },
+  {
     "title": "W. H. G. Armytage",
     "type": "person",
     "path": "wiki/persons/uk/W. H. G. Armytage.md",
@@ -38601,6 +38655,18 @@
       "1953年欧洲大学入学文凭等值公约",
       "European Convention on the Equivalence of Diplomas 1953",
       "欧洲文凭等值公约"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Index Librorum Prohibitorum",
+    "type": "fact",
+    "path": "wiki/facts/europe/Index Librorum Prohibitorum.md",
+    "aliases": [
+      "禁书目录",
+      "罗马禁书目录",
+      "梵蒂冈禁书目录",
+      "Index of Forbidden Books"
     ],
     "subtype": "policy"
   },
@@ -49278,6 +49344,11 @@
     "title": "Argument_Anderson_2016_Verso_Ch03",
     "type": "argument",
     "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch03.md"
+  },
+  {
+    "title": "Argument_Anderson_2016_Verso_Ch04",
+    "type": "argument",
+    "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch04.md"
   },
   {
     "title": "Argument_Bates_2017_CognitionEducationTrust",

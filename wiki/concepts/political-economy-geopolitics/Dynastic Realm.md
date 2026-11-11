@@ -10,7 +10,7 @@ aliases:
 summary: "本尼迪克特·安德森界定前现代大型政治组织形态的核心构念。该构念指围绕神圣君主中枢向心组织、边界模糊渗漏且相互重叠、以王权神授和跨族联姻为统治合法性来源的帝国与王权领域；它与现代民族国家均质排他、主权平整覆盖且立足于横向公民平等的政治形态形成历史性对照。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 10
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
