@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch02.md"
     },
     {
+      "basename": "Argument_Anderson_2016_Verso_Ch03",
+      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch03.md"
+    },
+    {
       "basename": "Argument_Anderson_2016_Verso_Ch01",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Career Collective Impact",
       "path": "wiki/concepts/science-policy/Career Collective Impact.md"
-    },
-    {
-      "basename": "Hot Hand Fallacy",
-      "path": "wiki/theories/science-policy/Hot Hand Fallacy.md"
     }
   ],
   "omittedPaths": [],
