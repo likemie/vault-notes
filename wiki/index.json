@@ -14136,6 +14136,17 @@
     ]
   },
   {
+    "title": "Printer-Journalist",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Printer-Journalist.md",
+    "aliases": [
+      "印书人兼报人",
+      "印书人兼新闻记者",
+      "印刷商兼记者",
+      "印刷工报人"
+    ]
+  },
+  {
     "title": "Procedural Piety",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Procedural Piety.md",
@@ -14670,6 +14681,19 @@
       "神圣语言",
       "sacred language",
       "truth-languages"
+    ]
+  },
+  {
+    "title": "Uti Possidetis",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Uti Possidetis.md",
+    "aliases": [
+      "占有保有原则",
+      "现状占有原则",
+      "保持占有",
+      "保持占有原则",
+      "法律上的占有保有原则",
+      "Uti Possidetis Juris"
     ]
   },
   {
@@ -29434,6 +29458,19 @@
     ]
   },
   {
+    "title": "José de San Martín",
+    "type": "person",
+    "path": "wiki/persons/argentina/José de San Martín.md",
+    "aliases": [
+      "何塞·德·圣马丁",
+      "圣马丁",
+      "圣马丁，J.",
+      "San Martin, J.",
+      "J. San Martin",
+      "José Francisco de San Martín y Matorras"
+    ]
+  },
+  {
     "title": "Liliana Esther Olmos",
     "type": "person",
     "path": "wiki/persons/argentina/Liliana Esther Olmos.md",
@@ -36134,6 +36171,19 @@
       "泽韦兰吉·瑟佩尔",
       "Serpell, Z. N.",
       "Zewelanji Serpell"
+    ]
+  },
+  {
+    "title": "Simón Bolívar",
+    "type": "person",
+    "path": "wiki/persons/venezuela/Simón Bolívar.md",
+    "aliases": [
+      "西蒙·玻利瓦尔",
+      "玻利瓦尔",
+      "玻利瓦尔，S.",
+      "Bolivar, S.",
+      "S. Bolivar",
+      "Simón José Antonio de la Santísima Trinidad Bolívar Palacios"
     ]
   },
   {
