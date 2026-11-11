@@ -14070,6 +14070,17 @@
     ]
   },
   {
+    "title": "Philological Revolution",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Philological Revolution.md",
+    "aliases": [
+      "语文学革命",
+      "词典编纂革命",
+      "语文学运动",
+      "lexicographic revolution"
+    ]
+  },
+  {
     "title": "Post-Nationalism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Post-Nationalism.md",
@@ -30832,6 +30843,17 @@
     ]
   },
   {
+    "title": "Johann Gottfried von Herder",
+    "type": "person",
+    "path": "wiki/persons/germany/Johann Gottfried von Herder.md",
+    "aliases": [
+      "约翰·戈特弗里德·冯·赫尔德",
+      "约翰·戈特弗里德·赫尔德",
+      "Herder, J. G.",
+      "Johann Gottfried Herder"
+    ]
+  },
+  {
     "title": "Johann Wilhelm Süvern",
     "type": "person",
     "path": "wiki/persons/germany/Johann Wilhelm Süvern.md",
@@ -41826,6 +41848,18 @@
     "subtype": "program"
   },
   {
+    "title": "Haitian Revolution",
+    "type": "fact",
+    "path": "wiki/facts/haiti/Haitian Revolution.md",
+    "aliases": [
+      "海地革命",
+      "圣多明各黑奴起义",
+      "Saint-Domingue Revolution",
+      "海地独立战争"
+    ],
+    "subtype": "event"
+  },
+  {
     "title": "2012 Moral and National Education Controversy",
     "type": "fact",
     "path": "wiki/facts/hong-kong/2012 Moral and National Education Controversy.md",
@@ -43308,6 +43342,18 @@
     "subtype": "policy"
   },
   {
+    "title": "Túpac Amaru Rebellion",
+    "type": "fact",
+    "path": "wiki/facts/peru/Túpac Amaru Rebellion.md",
+    "aliases": [
+      "图帕克·阿马鲁起义",
+      "图帕克·阿马鲁大起义",
+      "Rebellion of Túpac Amaru II",
+      "1780年秘鲁原住民大起义"
+    ],
+    "subtype": "event"
+  },
+  {
     "title": "Polish Education Reform of 1999",
     "type": "fact",
     "path": "wiki/facts/poland/Polish Education Reform of 1999.md",
@@ -43519,6 +43565,18 @@
       "Spanish PISA Response"
     ],
     "subtype": "event"
+  },
+  {
+    "title": "Bourbon Reforms",
+    "type": "fact",
+    "path": "wiki/facts/spain/Bourbon Reforms.md",
+    "aliases": [
+      "波旁改革",
+      "第二次美洲征服",
+      "Second Conquest of the Americas",
+      "Reformas Borbónicas"
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Centros Concertados",
@@ -49350,6 +49408,11 @@
     "title": "Argument_Anderson_2016_Verso_Ch04",
     "type": "argument",
     "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch04.md"
+  },
+  {
+    "title": "Argument_Anderson_2016_Verso_Ch05",
+    "type": "argument",
+    "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch05.md"
   },
   {
     "title": "Argument_Bates_2017_CognitionEducationTrust",

@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-12
 ---
 
 ---
@@ -152,6 +152,7 @@ updated: 2026-11-11
 > - **16世纪 — 宗教改革与方言印刷普及** 路德将德语翻译为标准印刷语言，加尔文以法语写作，打破教会拉丁文排他垄断。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 39–41)]]
 > - **17世纪 — 欧洲主要印刷语言定型** 机械复制固化了词汇与语法规范，语言流变速度大幅放缓，赋予民族历史以时间深度。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 46–47)]]
 > - **18世纪末–19世纪初 — 美洲共享印刷语言与在地化报纸市场** 英语与西班牙语印刷品在大西洋两岸跨海传播，但各殖民地行政管区的区域性报纸发行圈将同一门印刷语言切割为十余个彼此独立的民族想象共同体。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 47, 61–63)]]
+> - **19世纪 — 欧洲语文学革命与双语词典平等主义** 语文学家通过词典与语法书将各地方言提升为印刷国语，双语词典在形式上确立了边缘方言与统治语种的平等地位，资产阶级与科层官僚借助印刷语言在世界历史上首次实现了基于纯粹想象的阶级团结。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, pp. 71–80)]]
 > - **1983年 — 安德森《想象的共同体》提出核心构念** 系统确立印刷语言作为介于真理语言与口语方言之间的民族意识奠基构念。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 45–48)]]
 
 ---
@@ -191,8 +192,9 @@ updated: 2026-11-11
 > | [[Lucien Febvre]] | 人物 | 考证印刷书籍对近代欧洲语言形态固定与稳定化作用的史学学者。 |
 > | [[Edict of Villers-Cotterêts]] | 事实 | 法国王室用法兰西法语取代拉丁文，推动了王室行政方言向国家印刷语言的演进。 |
 > | [[Benedict Anderson]] | 人物 | 在《想象的共同体》中系统论证印刷语言作为民族意识奠基载体。 |
+> | [[Philological Revolution]] | 概念 | 19世纪推动方言标准化并确立印刷语言平等主义地位的学术与媒介浪潮。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch03|Anderson (2016)]] — 系统阐明印刷语言在构筑统一交流领域、语言时间固定性与重构方言等级中的三重机制（pp. 45–48）；并在[[Argument_Anderson_2016_Verso_Ch04|第4章]]论证报纸市场的在地化流通圈制约并塑造了复数主权实体（pp. 47, 61–63）。
+> - [[Argument_Anderson_2016_Verso_Ch03|Anderson (2016)]] — 系统阐明印刷语言奠基民族意识的三重机制（[[Argument_Anderson_2016_Verso_Ch03|第3章]]）；论证美洲报纸市场塑造复数实体（[[Argument_Anderson_2016_Verso_Ch04|第4章]]）；并在[[Argument_Anderson_2016_Verso_Ch05|第5章]]揭示欧洲语文学革命与资产阶级想象连带。

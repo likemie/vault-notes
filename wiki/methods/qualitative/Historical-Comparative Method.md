@@ -129,7 +129,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-11-11
+updated: 2026-11-12
 ---
 
 > [!def] Historical-Comparative Method
@@ -274,4 +274,5 @@ updated: 2026-11-11
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 运用历史制度与跨国比较方法，梳理战后美国国防研发投资与采购对半导体及计算机产业的催化作用及其向商业市场的逆向溢出规律。
 > - [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]] — 运用历史比较法对照 1980 年代美日贸易摩擦与当代中美科技竞争，揭示[[Vertical Disintegration|纵向离散]]如何重塑[[Modern Industrial Policy|现代产业政策]]工具与地缘安全边界。
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 运用历史比较分析与跨国经验案例考据，打破间断均衡范式，系统建构现代资本主义政治经济体制中[[Theory of Gradual Institutional Change|渐进制度变迁]]的五类形态学。
+> - [[Argument_Anderson_2016_Verso_Ch05|Anderson (2016)]] — 运用历史比较法对照美洲土生白人先驱与19世纪欧洲民族运动，揭示语言规范化、读写阶层演进与模块化盗版的差异化历史机制。
 
