@@ -42,7 +42,7 @@ updated: 2026-11-11
 ---
 
 > [!def] Creole Nationalism
-> **土生白人民族主义（Creole Nationalism）**，是[[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）在阐述现代民族意识起源时界定的历史范型。该构念指18世纪末至19世纪初由美洲殖民地（美国、西属美洲及巴西）出生的欧洲后裔精英发起，旨在脱离欧洲帝国统治并建立独立主权共和国的政治运动与认同形态。美洲先驱构成了世界历史上首批萌生的现代民族国家，其核心特征包括：运动领导者同宗主国统治者共享语言、宗教与亲属血统，语言分化在独立斗争中未曾成为抗争议题；领导权由拥有庄园地产、商贸资本和省区公职的土生白人上层掌握，运动动力交织着对底层印第安人与黑奴暴动的防御心理；土生白人依托狭窄的殖民地[[Administrative Pilgrimage|行政朝圣]]与地方报刊，将原属帝国控制工具的行政区划升格为神圣主权祖国，开创了排斥君主世袭统治的共和范型。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 49–54, 66–67)]]
+> **土生白人民族主义（Creole Nationalism）**，是[[Benedict Anderson|本尼迪克特·安德森]]在阐述现代民族意识起源时界定的历史范型。该构念指18世纪末至19世纪初由美洲殖民地（美国、西属美洲及巴西）出生的欧洲后裔精英发起，旨在脱离欧洲帝国统治并建立独立主权共和国的政治运动与认同形态。美洲先驱构成了世界历史上首批萌生的现代民族国家，其核心特征包括：运动领导者同宗主国统治者共享语言、宗教与亲属血统，语言分化在独立斗争中未曾成为抗争议题；领导权由拥有庄园地产、商贸资本和省区公职的土生白人上层掌握，运动动力交织着对底层印第安人与黑奴暴动的防御心理；土生白人依托狭窄的殖民地[[Administrative Pilgrimage|行政朝圣]]与地方报刊，将原属帝国控制工具的行政区划升格为神圣主权祖国，开创了排斥君主世袭统治的共和范型。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 49–54, 66–67)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向美洲殖民地土生白人精英在遭受宗主国政治经济排斥的情境下，以既有殖民行政区划为边界构建主权共和国的认同范型。
@@ -50,7 +50,7 @@ updated: 2026-11-11
 > - **边界** 聚焦殖民地土生欧洲后裔主导的独立共和运动；不同于基于原住民语言与神话的本土主义族裔动员，也区别于后世欧亚大陆自上而下同化臣民的[[Official Nationalism|官方民族主义]]。
 
 > [!citation-card] 安德森论土生白人国家的非语言与非平民特征
-> 无论从巴西、美国还是西班牙前殖民地来看，语言都未曾构成将它们同各自宗主国区分开来的要素。所有这些国家，包括美国在内，都是土生白人国家，由那些同与自己作战的人共享共同语言与共同血统的人建立并领导。在这些早期的民族解放斗争中，语言始终未曾成为争议议题。在南美和中美洲，欧洲式的“中产阶级”在18世纪末期依然微不足道，知识分子阶层也未成气候。领导权掌握在大地产主手中，依附其周围的是较少数量的商人和各类专业人士。与引导下层阶级融入政治生活相去甚远，在委内瑞拉、墨西哥和秘鲁等重要案例中，最初激发脱离马德里独立的决定性因素之一，是对印第安人或黑奴起义的恐惧。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 49–51)]]
+> 无论从巴西、美国还是西班牙前殖民地来看，语言都未曾构成将它们同各自宗主国区分开来的要素。所有这些国家，包括美国在内，都是土生白人国家，由那些同与自己作战的人共享共同语言与共同血统的人建立并领导。在这些早期的民族解放斗争中，语言始终未曾成为争议议题。在南美和中美洲，欧洲式的中产阶级在18世纪末期依然微不足道，知识分子阶层也未成气候。领导权掌握在大地产主手中，依附其周围的是较少数量的商人和各类专业人士。与引导下层阶级融入政治生活相去甚远，在委内瑞拉、墨西哥和秘鲁等重要案例中，最初激发脱离马德里独立的决定性因素之一，是对印第安人或黑奴起义的恐惧。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 49–51)]]
 >
 > *In the first place, whether we think of Brazil, the USA, or the former colonies of Spain, language was not an element that differentiated them from their respective imperial metropoles. All, including the USA, were creole states, formed and led by people who shared a common language and common descent with those against whom they fought. . . . In the second place, there are serious reasons to doubt the applicability in much of the Western hemisphere of Nairn's otherwise persuasive thesis that 'The arrival of nationalism in a distinctively modern sense was tied to the political baptism of the lower classes.'*
 

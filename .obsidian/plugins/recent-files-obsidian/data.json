@@ -5,6 +5,18 @@
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch03.md"
     },
     {
+      "basename": "Edict of Villers-Cotterêts",
+      "path": "wiki/facts/france/Edict of Villers-Cotterêts.md"
+    },
+    {
+      "basename": "Francis Bacon",
+      "path": "wiki/persons/uk/Francis Bacon.md"
+    },
+    {
+      "basename": "Walter Benjamin",
+      "path": "wiki/persons/germany/Walter Benjamin.md"
+    },
+    {
       "basename": "Truth-Language",
       "path": "wiki/concepts/political-economy-geopolitics/Truth-Language.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Argument_Zhang_Zhao_2026_EDR",
       "path": "wiki/arguments/journal-articles/Educational Research/Argument_Zhang_Zhao_2026_EDR.md"
-    },
-    {
-      "basename": "Argument_Hao_2026_Nature",
-      "path": "wiki/arguments/journal-articles/Nature/Argument_Hao_2026_Nature.md"
-    },
-    {
-      "basename": "PISA",
-      "path": "wiki/facts/global/PISA.md"
-    },
-    {
-      "basename": "Argument_Sahlgren_2015_CPS",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md"
     }
   ],
   "omittedPaths": [],
