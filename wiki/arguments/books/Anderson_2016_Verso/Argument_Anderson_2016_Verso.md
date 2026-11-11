@@ -49,7 +49,7 @@ updated: 2026-11-11
 > [!monograph-profile] 阅读档案
 > - **书名** 《[[Imagined Community|想象的共同体]]：[[Nationalism|民族主义]]的起源与散布》（Imagined Communities: Reflections on the Origin and Spread of Nationalism）。
 > - **撰写者** [[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）。
-> - **阅读范围** 依 EPUB 目录整理十一章和一篇未编号的增补篇。第1、2章已解读，其余各章待解读。
+> - **阅读范围** 依 EPUB 目录整理十一章和一篇未编号的增补篇。第1、2、3章已解读，其余各章待解读。
 > - **版本** Verso 版权页列出 2016 和 2006，著录采用版权页列出的较晚版次 2016。文件名与 EPUB 元数据标为 2011。
 
 ---
@@ -67,7 +67,7 @@ updated: 2026-11-11
 > |---|---|---|
 > | [[Argument_Anderson_2016_Verso_Ch01\|第1章 Introduction]] | 剖析印支战争揭示的理论反常，将民族界定为有限且享有主权的想象政治共同体，确立[[Modular Nationalism\|模块化文化人造物]]视角与[[Horizontal Comradeship\|横向同志情谊]]动员机制。 | [[Imagined Community]]、[[Modular Nationalism]]、[[Benedict Anderson]]、[[Ernest Gellner]]、[[Ernest Renan]] |
 > | [[Argument_Anderson_2016_Verso_Ch02\|第2章 Cultural Roots]] | 阐明民族对宗教存在论功能的承接，剖析真理语言、王朝领域与弥赛亚时间的瓦解，揭示齐一空洞时间及小说报纸对共时想象的技术表象。 | [[Truth-Language]]、[[Messianic Time]]、[[Homogeneous, Empty Time]]、[[Walter Benjamin]]、[[Erich Auerbach]] |
-> | 第 3 章 The Origins of National Consciousness | [TXT](../../../../raw/Anderson_2016_Verso_txt/Ch03_The_Origins_of_National_Consciousness.txt) | 待解读 |
+> | [[Argument_Anderson_2016_Verso_Ch03\|第3章 The Origins of National Consciousness]] | 剖析资本主义、印刷技术与语言宿命多样性的历史聚合，阐明[[Print-Capitalism\|印刷资本主义]]开拓大众市场的方言转向，揭示[[Print-Language\|印刷语言]]奠定现代民族意识的三重机制。 | [[Print-Capitalism]]、[[Print-Language]]、[[Martin Luther]]、[[Edict of Villers-Cotterêts]]、[[Lucien Febvre]] |
 > | 第 4 章 Creole Pioneers | [TXT](../../../../raw/Anderson_2016_Verso_txt/Ch04_Creole_Pioneers.txt) | 待解读 |
 > | 第 5 章 Old Languages, New Models | [TXT](../../../../raw/Anderson_2016_Verso_txt/Ch05_Old_Languages_New_Models.txt) | 待解读 |
 > | 第 6 章 Official Nationalism and Imperialism | [TXT](../../../../raw/Anderson_2016_Verso_txt/Ch06_Official_Nationalism_and_Imperialism.txt) | 待解读 |

@@ -199,6 +199,6 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]] — 在第一章导论界定民族为有限主权的想象政治共同体，并在[[Argument_Anderson_2016_Verso_Ch02|第二章]]揭示其依托齐一空洞时间与小说报纸从宗教和王朝废墟中萌生的文化根源（pp. 4–7, 9–36）。
+> - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]] — 专著《[[Imagined Community|想象的共同体]]》界定民族为有限主权的想象政治共同体，剖析齐一空洞时间、小说报纸与[[Print-Capitalism|印刷资本主义]]催生民族意识的机制（pp. 4–49）。
 > - [[Argument_Xu_2024_CE|Xu (2024)]] — 运用想象的共同体理论，实证对比了中国大陆与香港初中历史教科书中的领土型与族裔型民族想象。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》：[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch. 17]] 论证想象链接克服[[Dunbar's Number|邓巴数]]维系科技协作与守卫情感民族；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch. 18]] 剖析[[Civic Rituals|公民仪式]]瓦解与硅谷技术公社兴起。

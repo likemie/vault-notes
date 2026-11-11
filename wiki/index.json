@@ -14041,6 +14041,27 @@
     ]
   },
   {
+    "title": "Print-Capitalism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Print-Capitalism.md",
+    "aliases": [
+      "印刷资本主义",
+      "print capitalism",
+      "印刷资本主义体系"
+    ]
+  },
+  {
+    "title": "Print-Language",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Print-Language.md",
+    "aliases": [
+      "印刷语言",
+      "印刷国语",
+      "印刷民族语言",
+      "print-languages"
+    ]
+  },
+  {
     "title": "Procedural Piety",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Procedural Piety.md",
@@ -30512,8 +30533,10 @@
     "type": "person",
     "path": "wiki/persons/france/René Descartes.md",
     "aliases": [
+      "勒内·笛卡尔",
+      "笛卡尔",
       "Descartes, R.",
-      "笛卡尔"
+      "R. Descartes"
     ]
   },
   {
@@ -30801,6 +30824,16 @@
     "aliases": [
       "马丁·林道尔",
       "林道尔"
+    ]
+  },
+  {
+    "title": "Martin Luther",
+    "type": "person",
+    "path": "wiki/persons/germany/Martin Luther.md",
+    "aliases": [
+      "马丁·路德",
+      "路德",
+      "Luther, M."
     ]
   },
   {
@@ -34300,7 +34333,6 @@
     "path": "wiki/persons/us/Jack Douglas.md",
     "aliases": [
       "杰克·道格拉斯",
-      "道格拉斯",
       "Jack D. Douglas",
       "Douglas, J. D."
     ]
@@ -39138,6 +39170,18 @@
       "Centre National de la Recherche Scientifique"
     ],
     "subtype": "organization"
+  },
+  {
+    "title": "Edict of Villers-Cotterêts",
+    "type": "fact",
+    "path": "wiki/facts/france/Edict of Villers-Cotterêts.md",
+    "aliases": [
+      "维莱科特雷法令",
+      "维勒-科特雷法令",
+      "维莱-科特雷法令",
+      "Ordonnance de Villers-Cotterêts"
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Esquisse d'un ouvrage sur l'éducation comparée",
@@ -49184,6 +49228,11 @@
     "title": "Argument_Anderson_2016_Verso_Ch02",
     "type": "argument",
     "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch02.md"
+  },
+  {
+    "title": "Argument_Anderson_2016_Verso_Ch03",
+    "type": "argument",
+    "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch03.md"
   },
   {
     "title": "Argument_Bates_2017_CognitionEducationTrust",

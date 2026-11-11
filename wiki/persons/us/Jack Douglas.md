@@ -2,10 +2,9 @@
 title: Jack Douglas
 aliases:
   - 杰克·道格拉斯
-  - 道格拉斯
   - Jack D. Douglas
   - "Douglas, J. D."
-summary: "美国社会学家，加州大学圣地亚哥分校荣休教授，存在主义社会学与日常生活社会学开创者。在方法论上提出“规范范式”与“诠释范式”的两分架构，将实证主义、行为主义统摄于假定行为受先验规则统治的规范范式之下，为当代教育研究方法论范式划界奠定概念基石。"
+summary: "美国社会学家，加州大学圣地亚哥分校荣休教授，存在主义社会学与日常生活社会学开创者。在方法论上提出“规范范式”与“诠释范式”的两分架构，将实证主义与行为主义归入假定行为受先验规则支配的规范范式之下，为当代教育研究方法论范式划界奠定概念基石。"
 type: person
 nationality: us
 person_region: "us"
@@ -72,7 +71,7 @@ updated: 2026-11-11
 
 > [!timeline] 生平与职涯
 > - **1937** 出生于美国，早年在普林斯顿大学接受严格的社会学理论与方法论训练，获社会学博士学位。
-> - **1967** 出版[[Doctoral Dissertation|博士论文]]《自杀的社会意义》（*The Social Meanings of Suicide*），彻底颠覆涂尔干自杀论的实证神话，证明官方自杀统计数据实质上是验尸官与官方官僚机构分类建构的产物。
+> - **1967** 出版专著《自杀的社会意义》（*The Social Meanings of Suicide*），彻底颠覆涂尔干自杀论的实证神话，证明官方自杀统计数据实质上是验尸官与官方官僚机构分类建构的产物。
 > - **1969–1990s** 长期执教于加州大学圣迭戈分校（UCSD），汇聚舒茨[[Phenomenology\|现象学]]、常人方法学与存在主义哲学，开创极具影响力的“UCSD 日常生活社会学派”。
 > - **1970** 编著出版《理解日常生活》（*Understanding Everyday Life*），向美国主流社会学界系统引介欧洲现象学与质性微观社会学。
 > - **1973** 出版《社会学导论：情境与结构》（*Introduction to Sociology: Situations and Structures*），提出[[Normative Paradigm\|规范范式]]与[[Interpretive Paradigm\|诠释范式]]两大体系的经典两分法。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 17–18)]]
@@ -93,7 +92,7 @@ updated: 2026-11-11
 > 社会学探究历史上存在两大不可[[Commensuration\|通约]]的基础[[Paradigm\|范式]]：[[Normative Paradigm\|规范范式]]（Normative Paradigm）假定人类行为完全由外在既定的、非人化的客观社会规则所支配，追求如同物理力学般的宏大理性大厦与普适规律；[[Interpretive Paradigm\|诠释范式]]（Interpretive Paradigm）则断定社会实在由行动者在具体流动情境中动态建构，人类行动源自自主赋予的未来意图与情境协商，规则本身仅仅是行动者事后用以解释合理性的[[Indexicality\|索引性]]修辞。研究者必须放弃将社会视为机械[[Determinism\|决定论]]客体的幻想，转向对生动微观日常生活的[[Rich and Thick Description\|深描]]。
 
 > [!citation-card] 道格拉斯论规范范式与诠释范式的本质分野
-> 道格拉斯指出，规范范式假定人类行为是受规则统治的，并且在很大程度上能够被规则所预测；[[Positivism\|实证主义]]、[[Behaviorism|行为主义]]与[[Structural Functionalism|结构功能主义]]均在此范式下构建宏大的普适因果大厦。相反，诠释范式认为人类行动不仅不可预测，而且是由行动者在具体情境中[[Reflexivity\|反思性]]协商、意图驱动与动态赋予意义的产物。在诠释进路中，理论不是先验推导的模型，而是贴近日常生活的[[Grounded Theory\|扎根理论]]与多面图像。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 17–18)]]
+> 道格拉斯指出，规范范式假定人类行为是受规则统治的，并且在很大程度上能够被规则所预测；[[Positivism\|实证主义]]、[[Behaviorism|行为主义]]与[[Structural Functionalism|结构功能主义]]均在此范式下构建宏大的普适因果大厦。相反，诠释范式认为人类行动不仅不可预测，而且是由行动者在具体情境中[[Reflexivity\|反思性]]协商、意图驱动与动态赋予意义的产物。在诠释进路中，理论体现为贴近日常生活的[[Grounded Theory\|扎根理论]]与多面图像，有别于先验推导的抽象模型。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 17–18)]]
 >
 > *The normative paradigm rests on two central assumptions: that human behaviour is essentially rule-governed, and that it should be investigated to discover these rules... By contrast, the interpretive paradigm views the social world as constructed through human interaction, where action is meaningful, future-oriented, and emergent from situational negotiation rather than determined by past causes. (Douglas, 1973)*
 
@@ -105,7 +104,7 @@ updated: 2026-11-11
 > - **存在主义转向** 将个体的情感、焦虑、生存冲突与微观道德抉择引入社会学经验探究视野。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]] — 引用道格拉斯[[Normative Paradigm\|规范范式]]与[[Interpretive Paradigm\|诠释范式]]两分法（pp. 17–18），作为梳理全章范式演变、自然主义探究与反实证主义批判的统摄性概念支柱。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]] — 引用道格拉斯[[Normative Paradigm\|规范范式]]与[[Interpretive Paradigm\|诠释范式]]两分法（pp. 17–18），作为梳理全章范式演变、自然主义探究与反实证主义批判的核心概念支柱。
 
 ---
 

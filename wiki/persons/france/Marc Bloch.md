@@ -8,7 +8,7 @@ summary: "法国著名历史学家，年鉴学派联合创始人，代表作《�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 3
+person_related_count: 6
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -21,16 +21,19 @@ tags:
   - theme/medieval-history
 related_concepts:
   - "[[Dynastic Realm]]"
+  - "[[Messianic Time]]"
+  - "[[Truth-Language]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Benedict Anderson]]"
+  - "[[Lucien Febvre]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
 confidence: high
-status: draft
+status: active
 created: 2026-11-11
 updated: 2026-11-11
 ---
@@ -52,7 +55,7 @@ updated: 2026-11-11
 > [!timeline] 生平与学术历程
 > - **1886** 出生于里昂一个犹太学者家庭，毕业于巴黎高等师范学院，早年深受埃米尔·涂尔干（Émile Durkheim）社会学思想熏陶。
 > - **1914–1918** 第一次世界大战爆发后应征入伍，历任步兵中士至上尉，因作战英勇屡获战功勋章。
-> - **1919–1929** 任教于斯特拉斯堡大学，与吕西安·费弗尔（Lucien Febvre）结为学术挚友，1924年出版开拓性名著《摸彩国王》，系统考证英法君主触摸治疗瘰疬病的神圣王权仪式。
+> - **1919–1929** 任教于斯特拉斯堡大学，与[[Lucien Febvre|吕西安·费弗尔]]结为学术挚友，1924年出版开拓性名著《摸彩国王》，系统考证英法君主触摸治疗瘰疬病的神圣王权仪式。
 > - **1929** 与费弗尔联合创办《经济与社会史年鉴》（*Annales d'histoire économique et sociale*），标志着年鉴学派的正式诞生。
 > - **1936–1940** 出任索邦大学经济史教授，1939至1940年相继出版两卷本集大成之作《封建社会》，重构欧洲封建体系的血缘、法律与精神结构。
 > - **1940–1944** 纳粹占领法国后加入地下抵抗运动，秘密撰写史学方法论名著《历史学家的技艺》（*Apologie pour l'histoire*）；1944年6月遭德军枪杀殉难。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 20, 23)]]
@@ -77,4 +80,30 @@ updated: 2026-11-11
 > - **对民族主义研究的启发** 为安德森等学者提供了理解前现代王权合法性构建、视觉象征读图机制及时间断裂的深层历史人类学基底。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch02|Anderson (2016)]]：引述布洛赫关于神圣王权治愈力、中世纪贵族读图机制以及末世时间紧迫感的心态史材料，支撑对王朝领域合法性与均质时间断裂的理论论证。
+> - [[Argument_Anderson_2016_Verso_Ch02|Anderson (2016)]] — 引述布洛赫关于神圣王权治愈力、中世纪贵族读图机制以及末世时间紧迫感的心态史材料，支撑对王朝领域合法性与均质时间断裂的理论论证。
+
+---
+
+> [!person-network] 关系网络
+> - **学术同仁** [[Lucien Febvre|吕西安·费弗尔]] — 斯特拉斯堡大学同事，共同创办《经济与社会史年鉴》，携手开创法国年鉴学派的心态史学传统。
+> - **思想对话者** [[Benedict Anderson|本尼迪克特·安德森]] — 安德森在《想象的共同体》中频繁引述其对中世纪末世迫近时间观与神圣王权仪式的考证。
+
+---
+
+> [!debates] 学术争议
+>
+> > [!axis] 末世时间迫近感 vs 现代世俗因果时间
+> > 探讨前现代社会的心态结构中，究竟是末日审判的垂直降临构成了支配性时间维度，还是世俗连续的历史演进意识已初具雏形。
+> >
+> > - **Bloch（1939）** 考证中世纪欧洲人深信末日随时可能降临，这一普遍的末世迫近心态阻碍了面向未来的世俗长远筹划。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, p. 23)]]
+> > - **[[Argument_Anderson_2016_Verso_Ch02|Anderson (2016)]]** 结合瓦尔特·本雅明的弥赛亚时间论述，将布洛赫的心态史材料提炼为传统宗教与王朝领域赖以维系的同时性感知结构。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, p. 24)]]
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Dynastic Realm]] | 概念 | 揭示英法君主触摸治疗等神圣王权仪式如何为前现代王朝秩序赋予超自然合法性。 |
+> | [[Messianic Time]] | 概念 | 考证中世纪欧洲时刻迫近末世审判的时间体验，为前现代同时性提供心态史料。 |
+> | [[Truth-Language]] | 概念 | 阐释中世纪文盲大众通过教会图像与圣物感知神圣真理的象征阅读机制。 |

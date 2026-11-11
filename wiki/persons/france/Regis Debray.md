@@ -9,7 +9,7 @@ summary: "法国著名哲学家、媒介学（mediology）创始人与左翼思�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 2
+person_related_count: 5
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -20,8 +20,11 @@ tags:
   - person/philosopher
   - theme/political-philosophy
   - theme/mediology
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Nationalism]]"
+  - "[[Tomb of the Unknown Soldier]]"
+related_theories:
+  - "[[Imagined Community]]"
 related_methods: []
 related_instruments: []
 related_persons:
@@ -30,7 +33,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
 confidence: high
-status: draft
+status: active
 created: 2026-11-11
 updated: 2026-11-11
 ---
@@ -77,4 +80,15 @@ updated: 2026-11-11
 > - **对民族主义研究的启发** 为安德森等学者从存在论关怀、死亡安抚与心理神圣性切入民族主义文化根源提供了重要的思想跳板。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch02|Anderson (2016)]]：引述德布雷关于民族将偶然转化为命运的存在论洞见，阐明民族主义如何填补启蒙理性世俗化遗留的精神黑洞。
+> - [[Argument_Anderson_2016_Verso_Ch02|Anderson (2016)]] — 援引德布雷关于民族将偶然转化为命运的存在论洞见，阐明民族主义如何承接宗教对死亡与宿命的回应功能（pp. 11–12）。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Nationalism]] | 概念 | 阐发民族主义将个体降生的偶发性升华为历史必然宿命的存在论逻辑。 |
+> | [[Tomb of the Unknown Soldier]] | 概念 | 其关于民族存在论神圣性的分析，为解剖无名烈士之墓的世俗神圣仪式提供学理支撑。 |
+> | [[Imagined Community]] | 理论 | 其对马克思主义回避民族问题的批判，为安德森开篇确立文化根源视角奠定理论基石。 |
+> | [[Benedict Anderson]] | 人物 | 在《想象的共同体》第二章直接引述其专论，揭示民族主义的深层心理机制。 |

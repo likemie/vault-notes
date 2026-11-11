@@ -2638,9 +2638,11 @@
     "Blind, 2006": "Blind, 2006",
     "Bliss et al. (1983)": "Bliss et al., 1983",
     "Bliss et al., 1983": "Bliss et al., 1983",
+    "Bloch (1939)": "Bloch, 1939",
     "Bloch (2004)": "Bloch, 2004",
     "Bloch in Bozeman & Boardman (2004)": "Bloch in Bozeman & Boardman, 2004",
     "Bloch in Bozeman & Boardman, 2004": "Bloch in Bozeman & Boardman, 2004",
+    "Bloch, 1939": "Bloch, 1939",
     "Bloch, 2004": "Bloch, 2004",
     "Block & Burns (1976)": "Block & Burns, 1976",
     "Block & Burns, 1976": "Block & Burns, 1976",
@@ -27701,8 +27703,6 @@
     "纳尔逊, 1993": "纳尔逊, 1993",
     "纳特利等 (2002)": "纳特利等, 2002",
     "纳特利等, 2002": "纳特利等, 2002",
-    "纽拉特 (1913)": "纽拉特, 1913",
-    "纽拉特, 1913": "纽拉特, 1913",
     "经合组织 (1961)": "经合组织, 1961",
     "经合组织 (2006)": "经合组织, 2006",
     "经合组织, 1961": "经合组织, 1961",
@@ -47145,6 +47145,21 @@
         "wiki/concepts/higher-education/Dual Appointment.md",
         "wiki/concepts/science-policy/Sunset Provisions.md",
         "wiki/persons/us/George A. Keyworth II.md"
+      ],
+      "title": ""
+    },
+    "Bloch, 1939": {
+      "aliases": [
+        "Bloch, 1939",
+        "Bloch (1939)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bloch, 1939"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/france/Marc Bloch.md"
       ],
       "title": ""
     },
@@ -229131,21 +229146,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/educational-policy-reform/Nutley's Four-Dimension Framework for Research Uptake.md"
-      ],
-      "title": ""
-    },
-    "纽拉特, 1913": {
-      "aliases": [
-        "纽拉特, 1913",
-        "纽拉特 (1913)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "纽拉特, 1913"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/france/René Descartes.md"
       ],
       "title": ""
     },

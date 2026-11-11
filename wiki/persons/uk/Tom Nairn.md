@@ -9,7 +9,7 @@ summary: "苏格兰政治理论家与历史学家，西方马克思主义民族�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 10
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -30,15 +30,18 @@ related_concepts:
   - "[[Post-Nationalism]]"
   - "[[Horizontal Comradeship]]"
   - "[[Modular Nationalism]]"
+  - "[[Dynastic Realm]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Benedict Anderson]]"
-related_facts: []
+related_facts:
+  - "[[Act of Union 1707]]"
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch01]]"
+  - "[[Argument_Anderson_2016_Verso_Ch02]]"
 confidence: high
 status: active
 created: 2026-11-11
@@ -72,7 +75,7 @@ updated: 2026-11-11
 
 > [!work-line] 主要著作
 > - **1975 — *The Modern Janus*** 提出民族主义具有回溯原始神话与迎向现代动员的双重面孔，奠定政治心理学分析透镜。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 4)]]
-> - **1977 — *The Break-up of Britain: Crisis and Neo-Nationalism*** 剖析全球资本主义不平衡地理发展在外围社会催生抵抗性民族主义的结构机制，宣告马克思主义在民族问题上的理论危机。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 3)]]
+> - **1977 — *The Break-up of Britain: Crisis and Neo-Nationalism*** 剖析全球资本主义不平衡地理发展在外围社会催生抵抗性民族主义的结构机制，宣告马克思主义在民族问题上的理论危机[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 3)]]；指出[[Act of Union 1707|1707年联合法案]]作为[[Dynastic Realm|王朝国家]]统治精英贵族式政治交易的本质[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, p. 20)]]。
 > - **1997 — *Faces of Nationalism: Janus Revisited*** 重返雅努斯隐喻，反思苏联解体与东欧剧变后族群冲突对全球民主秩序的冲击。
 
 ---
@@ -93,7 +96,7 @@ updated: 2026-11-11
 > - **对话与反思路径** 促使本尼迪克特·安德森反思将民族主义病理化的分析缺陷，转向从宗教、亲属与文化人造物视阈重新奠定理论基底。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]] — 援引其对马克思主义历史失败的断言，反思其将民族主义视作现代发展病理学的分析偏颇。
+> - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]] — 援引其对马克思主义历史失败的断言，反思其将民族主义视作现代发展病理学的分析偏颇；引述其对1707年联合法案作为王朝贵族政治交易的定性。
 
 ---
 
@@ -122,3 +125,5 @@ updated: 2026-11-11
 > | [[Modular Nationalism]] | 概念 | 揭示资本主义不平衡发展驱使外围地区借鉴与移植民族主义蓝本。 |
 > | [[Ontology]] | 概念 | 推动民族问题从政治意识形态范畴提升至存在论层面的深入反思。 |
 > | [[Horizontal Comradeship]] | 概念 | 探讨跨阶级全员动员如何转化为大众甘愿付诸牺牲的伦理纽带。 |
+> | [[Dynastic Realm]] | 概念 | 指出1707年联合法案等王朝整合实为统治精英的贵族式政治交易。 |
+> | [[Act of Union 1707]] | 事实 | 将英格兰与苏格兰的合并定性为非大众动员的寡头阶层契约。 |
