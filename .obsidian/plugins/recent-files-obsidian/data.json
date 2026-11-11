@@ -5,6 +5,14 @@
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch02.md"
     },
     {
+      "basename": "Jack Douglas",
+      "path": "wiki/persons/us/Jack Douglas.md"
+    },
+    {
+      "basename": "Messianic Time",
+      "path": "wiki/concepts/political-economy-geopolitics/Messianic Time.md"
+    },
+    {
       "basename": "Argument_Anderson_2016_Verso_Ch03",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch03.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Knowledge Extent",
       "path": "wiki/methods/quantitative/Knowledge Extent.md"
-    },
-    {
-      "basename": "Argument_Liu_2018_Nature",
-      "path": "wiki/arguments/journal-articles/Nature/Argument_Liu_2018_Nature.md"
-    },
-    {
-      "basename": "Career Collective Impact",
-      "path": "wiki/concepts/science-policy/Career Collective Impact.md"
     }
   ],
   "omittedPaths": [],
