@@ -9,7 +9,7 @@ summary: "苏格兰政治理论家与历史学家，西方马克思主义民族�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,9 +28,9 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Normal School]]"
   - "[[Post-Nationalism]]"
+  - "[[Dynastic Realm]]"
   - "[[Horizontal Comradeship]]"
   - "[[Modular Nationalism]]"
-  - "[[Dynastic Realm]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods: []
@@ -42,6 +42,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch01]]"
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
+  - "[[Argument_Anderson_2016_Verso]]"
   - "[[Argument_Anderson_2016_Verso_Ch04]]"
 confidence: high
 status: active
@@ -97,8 +98,7 @@ updated: 2026-11-11
 > - **对话与反思路径** 促使本尼迪克特·安德森反思将民族主义病理化的分析缺陷，转向从宗教、亲属与文化人造物视阈重新奠定理论基底。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016, Ch01)]] — 援引其对马克思主义历史失败的断言，反思其将民族主义视作现代发展病理学的分析偏颇；引述其对1707年联合法案作为王朝贵族政治交易的定性。
-> - [[Argument_Anderson_2016_Verso_Ch04|Anderson (2016, Ch04)]] — 援引其关于底层平民政治受洗与民粹动员的论纲，指出拉美土生白人独立运动对黑奴起义的恐惧证伪了该假说在美洲的普适性。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 专著《[[Imagined Community|想象的共同体]]》援引其对马克思主义历史失败论断反思病理化倾向（[[Argument_Anderson_2016_Verso_Ch01|Ch01]]），并以拉美防范黑奴起义批评其底层受洗说（[[Argument_Anderson_2016_Verso_Ch04|Ch04]]）。
 
 ---
 

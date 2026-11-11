@@ -3,7 +3,7 @@ title: Creole Nationalism
 aliases:
   - 克里奥尔民族主义
   - 土生白人民族主义
-summary: "本尼迪克特·安德森在《想象的共同体》中界定的近代民族主义首波历史形态。18世纪末至19世纪初美洲各共和国的先驱运动表明，民族意识的觉醒既非源于同宗主国的语言文化分化，亦非底层阶级的民粹政治动员，而是由共享宗主国语言宗教却遭受跨大西洋出生地理歧视的土生白人精英（地主、商人和官僚）发起。他们依托受限的殖民行政巡游与地方报纸，将行政辖区想象为主权祖国，开创了世界历史上首批共和制民族国家。"
+summary: "本尼迪克特·安德森在《想象的共同体》中界定的近代民族主义首波历史形态。18世纪末至19世纪初美洲先驱运动表明，民族意识在共享宗主国母语且防范底层暴动的情境下率先萌生。遭受跨大西洋出生地理歧视的土生白人精英（地主、商人和官僚），依托受限的殖民行政巡游与地方报纸，将既有行政辖区想象为主权祖国，开创了世界历史上首批共和制民族国家。"
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 12
@@ -50,13 +50,13 @@ updated: 2026-11-11
 > - **边界** 聚焦殖民地土生欧洲后裔主导的独立共和运动；不同于基于原住民语言与神话的本土主义族裔动员，也区别于后世欧亚大陆自上而下同化臣民的[[Official Nationalism|官方民族主义]]。
 
 > [!citation-card] 安德森论土生白人国家的非语言与非平民特征
-> 无论从巴西、美国还是西班牙前殖民地来看，语言都不是将它们同各自宗主国区分开来的要素。所有这些国家，包括美国在内，都是土生白人国家，由那些同与自己作战的人共享共同语言与共同血统的人建立并领导。在这些早期的民族解放斗争中，语言甚至从来不是一个争议议题。在南美和中美洲，欧洲式的“中产阶级”在18世纪末期依然微不足道，知识分子阶层也未成气候。领导权掌握在大地产主手中，依附其周围的是较少数量的商人和各类专业人士。与引导下层阶级融入政治生活相去甚远，在委内瑞拉、墨西哥和秘鲁等重要案例中，最初激发脱离马德里独立的决定性因素之一，是对印第安人或黑奴起义的恐惧。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 49–51)]]
+> 无论从巴西、美国还是西班牙前殖民地来看，语言都未曾构成将它们同各自宗主国区分开来的要素。所有这些国家，包括美国在内，都是土生白人国家，由那些同与自己作战的人共享共同语言与共同血统的人建立并领导。在这些早期的民族解放斗争中，语言始终未曾成为争议议题。在南美和中美洲，欧洲式的“中产阶级”在18世纪末期依然微不足道，知识分子阶层也未成气候。领导权掌握在大地产主手中，依附其周围的是较少数量的商人和各类专业人士。与引导下层阶级融入政治生活相去甚远，在委内瑞拉、墨西哥和秘鲁等重要案例中，最初激发脱离马德里独立的决定性因素之一，是对印第安人或黑奴起义的恐惧。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 49–51)]]
 >
 > *In the first place, whether we think of Brazil, the USA, or the former colonies of Spain, language was not an element that differentiated them from their respective imperial metropoles. All, including the USA, were creole states, formed and led by people who shared a common language and common descent with those against whom they fought. . . . In the second place, there are serious reasons to doubt the applicability in much of the Western hemisphere of Nairn's otherwise persuasive thesis that 'The arrival of nationalism in a distinctively modern sense was tied to the political baptism of the lower classes.'*
 
 > [!boundary]- 概念边界
 > - 不等于语言民族主义（Linguistic Nationalism）：土生白人民族主义建立在与宗主国完全相同的母语（英语、西班牙语、葡萄牙语）之上，证明共同语言既非民族独立的必要前提，亦非划定国界的决定边界。
-> - 不等于底层民粹起义：土生白人地主阶层发起独立运动的一个关键初衷，恰恰在于担忧宗主国王权干涉奴隶规约或丧失半岛军事庇护，从而防范印第安人与奴隶群体发动社会革命。
+> - 不等于底层民粹起义：土生白人地主阶层发起独立运动的一个关键初衷，恰恰在于担忧宗主国王权干涉奴隶管理法令或丧失半岛军事庇护，从而防范印第安人与奴隶群体发动社会革命。
 > - 不适用于前殖民时期美洲土著抵抗：原住民的反抗（如秘鲁图帕克·阿马鲁起义）属于反抗殖民压迫的阶级与族群反抗，而土生白人民族主义追求的是在保留既有社会经济阶级格局的前提下，接掌帝国主权并确立现代代议共和政体。
 
 ---
@@ -73,7 +73,7 @@ updated: 2026-11-11
 
 > [!feature] 核心要素
 > - **跨大西洋出生宿命** 土生白人在血统、语言和教门上虽与半岛人一致，但仅因出生在美洲地理空间，便遭到宗主国排斥于高级职位之外，从而被迫凝聚出区别于宗主国的同胞认同。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 58–60)]]
-> - **殖民地行政边界** 独立后的各个共和国完全承继了16至18世纪西班牙帝国的总督区或检审法院管辖区，原有的官僚控制范围沉淀为主权领土框架。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 54–55)]]
+> - **殖民地行政边界** 独立后的各个共和国完全承继了16至18世纪西班牙帝国的总督区或检审法院管辖区，原有的官僚管辖区域直接演化为主权领土框架。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 54–55)]]
 > - **大众印刷报刊** 地方省府报纸将商业船期、港口物价和官职任免并置于同一纸张，赋予特定辖区读者以紧凑的共时性体验，培育了想象共同体的社会基底。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 63–65)]]
 
 > [!logic-map]- 要素关系
