@@ -19,6 +19,8 @@ tags:
   - theme/nationalism
   - theme/state-formation
 related_concepts:
+  - "[[Print-Language]]"
+  - "[[Print-Capitalism]]"
   - "[[Truth-Language]]"
   - "[[Homogeneous, Empty Time]]"
   - "[[Nationalism]]"
@@ -28,9 +30,11 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Benedict Anderson]]"
-related_facts: []
+related_facts:
+  - "[[Edict of Villers-Cotterêts]]"
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
+  - "[[Argument_Anderson_2016_Verso_Ch03]]"
 confidence: high
 status: active
 created: 2026-11-11

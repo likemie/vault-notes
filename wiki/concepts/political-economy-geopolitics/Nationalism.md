@@ -197,6 +197,4 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016, Ch01)]] — 将民族界定为有限主权的想象共同体。
-> - [[Argument_Anderson_2016_Verso_Ch02|Anderson (2016, Ch02)]] — 阐明民族扎根于宗教与王权衰落及齐一空洞时间之文化根源。
-> - [[Argument_Anderson_2016_Verso_Ch03|Anderson (2016, Ch03)]] — 剖析资本主义、印刷技术与语言宿命的聚合，揭示印刷语言奠定民族意识的技术基质。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 在[[Argument_Anderson_2016_Verso_Ch01|第1章]]将民族界定为有限主权的想象共同体，在[[Argument_Anderson_2016_Verso_Ch02|第2章]]阐明其文化根源，并在[[Argument_Anderson_2016_Verso_Ch03|第3章]]揭示印刷资本主义与印刷语言奠定民族意识的技术基质。

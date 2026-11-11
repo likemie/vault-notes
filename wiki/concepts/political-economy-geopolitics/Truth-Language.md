@@ -155,5 +155,4 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch02|Anderson (2016, Ch02)]] — 论证古典宗教共同体依托真理语言构建超地方认同，以及印刷资本主义如何加速拉丁文衰退并催生方言民族主义。
-> - [[Argument_Anderson_2016_Verso_Ch03|Anderson (2016, Ch03)]] — 系统阐明外生三变量（西塞罗深奥化、宗教改革、行政方言）与出版市场饱和终结拉丁文真理语言霸权的机制（pp. 39–45）。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 在[[Argument_Anderson_2016_Verso_Ch02|第2章]]论证古典宗教共同体依托真理语言构建超地方认同，并在[[Argument_Anderson_2016_Verso_Ch03|第3章]]系统阐明外生三变量（西塞罗深奥化、宗教改革、行政方言）与出版市场饱和终结拉丁文真理语言霸权的机制（pp. 39–45）。
