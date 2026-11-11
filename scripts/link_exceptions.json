@@ -712,5 +712,15 @@
       "sentence": "In other words, the concrete formation of contemporary nation-states is by no means isomorphic with the determinate reach of particular print-languages.*",
       "target": "wiki/facts/uk/Reach.md"
     }
+  ],
+  "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch04.md": [
+    {
+      "sentence": "垂直与横向调任的双重封锁将土生官员禁锢为本土命运共同体",
+      "target": "wiki/concepts/political-economy-geopolitics/Community of Shared Future for Mankind.md"
+    },
+    {
+      "sentence": "加拉加斯读者在阅读这些琐碎市场信息时，直观确认了一个属于他们本地的社会现实场域。",
+      "target": "wiki/concepts/sociology-of-education/Champ.md"
+    }
   ]
 }
