@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch02.md"
     },
     {
+      "basename": "René Descartes",
+      "path": "wiki/persons/france/René Descartes.md"
+    },
+    {
       "basename": "Jack Douglas",
       "path": "wiki/persons/us/Jack Douglas.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Sahlgren_2015_CPS",
       "path": "sources/Sahlgren_2015_CPS/Sahlgren_2015_CPS.md"
-    },
-    {
-      "basename": "Knowledge Extent",
-      "path": "wiki/methods/quantitative/Knowledge Extent.md"
     }
   ],
   "omittedPaths": [],

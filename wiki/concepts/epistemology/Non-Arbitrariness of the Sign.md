@@ -50,6 +50,12 @@ updated: 2026-11-11
 >
 > *Yet if the sacred silent languages were the media through which the great global communities of the past were imagined, the reality of such apparitions depended on an idea largely foreign to the contemporary Western mind: the non-arbitrariness of the sign. The ideograms of Chinese, Latin, or Arabic were emanations of reality, not randomly fabricated representations of it. In the Islamic tradition until recently the Qur'an was literally untranslatable, because Allah's truth was only accessible through the untranslatable true signs of written Arabic...*
 
+> [!concept-lens] 概念详释：“实在的流溢”（Emanations of Reality）与古典符号观
+> - **哲学源流：新柏拉图主义的“流溢”（Emanation）图式** 流溢构念渊源于新柏拉图主义哲学家普罗提诺（Plotinus）对“太一”（The One）的形而上阐释。在这一思想框架中，万物生成如同太阳自然散发光芒一般，是从至高本体中充盈涌流、层层外化的连续展现。散发的光芒与核心光源在本体上不可分割，光芒本身即太阳本质在特定空间中的自然延伸。
+> - **符号认识论：本体相即（Inherence）与人为表征（Representation）的对质** 现代语言学将符号区分为能指与所指，认定二者的联系纯属人类社会的约定代码；古代文明坚信书写文字是宇宙本体神圣实在的直接流溢。在古典世界观中，文字符号并不外在于它所指称的神圣真理，字形本身即真理实在的物理结晶与神圣载体。这种本体相即性决定了文字具有不可任意篡改、不可功能替代与不可世俗翻译的先验特权。
+> - **跨文明经验形态：经文不可翻译性与神圣字形垄断** 伊斯兰传统坚信安拉的真理唯有经由阿拉伯文字形本身方可通达，《古兰经》字面上拒斥翻译为凡俗口语；中世纪天主教弥撒坚持拉丁文祝圣方能实现圣餐变体，凡俗方言被判定无力承载神圣实在；华夏传统视仓颉造字为俯察宇宙造化神秀的自然摹写，字形笔画即天地易理的具象凝结。
+> - **历史社会学意义：从神圣流溢到世俗符号的认识论降维** 古典宗教共同体之所以能够超越地理阻隔凝聚异质人群，全赖对真理语言作为“神圣流溢”的共享信仰。当16世纪地理扩张与印刷资本主义将神圣文字降格为可相互通约、等距并存的人造符号系统时，“实在的流溢”这一古老公理便走向瓦解，为现代民族国家依托日常口语方言构筑横向世俗认同扫清了道路。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 13–19)]]
+
 > [!boundary]- 概念边界
 > - 区别于索绪尔现代符号学：现代语言学确立能指（Signifier）与所指（Signified）之间的任意性联系，将语言界定为人类社会的约定俗成工具；符号的非任意性则坚持文字符号是形而上真理不可分割的物理肉身。
 > - 区别于唯名论哲学：唯名论将概念视为指称事物的世俗标签；符号的非任意性属于极端的实在论与神学图式，认为书写符号本身即享有神圣位格。

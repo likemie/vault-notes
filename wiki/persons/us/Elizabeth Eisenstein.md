@@ -10,7 +10,7 @@ summary: "美国历史学家，早期现代欧洲印刷文化史与媒介传播�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
+person_related_count: 3
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"

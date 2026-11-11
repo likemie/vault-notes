@@ -11,7 +11,7 @@ summary: "印度尼西亚早期激进作家、新闻记者与反殖民活动家�
 type: person
 nationality: indonesia
 person_region: "indonesia"
-person_related_count: 8
+person_related_count: 5
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
