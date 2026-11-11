@@ -9,7 +9,7 @@ summary: "菲律宾民族英雄、思想家、眼科医生与文学家，反西�
 type: person
 nationality: philippines
 person_region: "philippines"
-person_related_count: 3
+person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -20,7 +20,8 @@ tags:
   - person/writer
   - theme/nationalism
   - theme/anti-colonialism
-related_concepts: []
+related_concepts:
+  - "[[Homogeneous, Empty Time]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods: []
@@ -31,7 +32,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
 confidence: high
-status: draft
+status: active
 created: 2026-11-11
 updated: 2026-11-11
 ---
@@ -68,7 +69,7 @@ updated: 2026-11-11
 ---
 
 > [!claim] 核心思想
-> 反抗殖民压迫的起点在于民众自尊与历史记忆的觉醒；殖民者依靠制造愚昧与教士专制维持统治，而本土民族唯有经由科学教育、理性启蒙与共同的道德担当方能走向真正自立。长篇小说作为现代文学载体，通过描摹社会空间内部各阶层的共时联动，使互不相识的同胞在默会阅读中确认彼此同处一个不可分割的命运共同体。
+> 反抗殖民压迫的起点在于民众自尊与历史记忆的觉醒；殖民者依靠制造愚昧与教士专制维持统治，本土民族经由科学教育、理性启蒙与共同的道德担当方能走向真正自立。长篇小说作为现代文学载体，通过描摹社会空间内部各阶层的共时联动，使互不相识的同胞在默会阅读中确认彼此同处一个不可分割的命运共同体。
 
 ---
 
@@ -78,4 +79,14 @@ updated: 2026-11-11
 > - **对民族主义理论的启发** 安德森将黎刹作为东南亚先驱知识分子的代表，剖析双语精英如何利用殖民宗主国语言反戈一击，并借助印刷小说形式开辟民族认同空间。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch02|Anderson (2016)]]：细读黎刹《不许犯我》开篇叙事技术，剖析复数名词、反讽视角与日历共时结构如何将马尼拉社会表象为具象化的菲律宾民族想象共同体。
+> - [[Argument_Anderson_2016_Verso_Ch02|Anderson (2016)]] — 细读黎刹《不许犯我》开篇叙事技术，剖析复数名词、反讽视角与日历共时结构如何将马尼拉社会表象为具象化的菲律宾民族想象共同体（pp. 26–29）。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Homogeneous, Empty Time]] | 概念 | 其小说《不许犯我》被安德森作为文学表象齐一空洞时间与“与此同时”共时性的经典文本。 |
+> | [[Imagined Community]] | 理论 | 其创作展现的双语反讽叙事与读者召唤机制，构成安德森解剖民族想象的技术范本。 |
+> | [[Benedict Anderson]] | 人物 | 在《想象的共同体》第二章专节剖析其小说文本，盛赞其开创性确立菲律宾民族想象。 |

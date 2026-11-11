@@ -4,14 +4,13 @@ aliases:
   - 何塞·华金·费尔南德斯·德·利萨尔迪
   - 何塞·华金·费尔南德斯·德·利萨尔蒂
   - 利萨尔迪
-  - Lizardi
   - El Pensador Mexicano
   - Fernández de Lizardi
 summary: "墨西哥作家、报人与启蒙思想家，笔名“墨西哥思想家”，代表作《糊涂鹦鹉》（El Periquillo Sarniento, 1816）被公认为拉丁美洲第一部现代长篇小说。本尼迪克特·安德森在《想象的共同体》中将其小说流浪汉叙事结构视为早期民族共同体表象的典范，论证了主角在殖民地医院、监狱与官僚机构中的漫游如何首次将墨西哥描摹为一个界限清晰、内部共时连接的均质社会地理空间。"
 type: person
 nationality: mexico
 person_region: "mexico"
-person_related_count: 3
+person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -22,7 +21,8 @@ tags:
   - person/writer
   - theme/nationalism
   - theme/latin-america
-related_concepts: []
+related_concepts:
+  - "[[Homogeneous, Empty Time]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods: []
@@ -33,7 +33,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
 confidence: high
-status: draft
+status: active
 created: 2026-11-11
 updated: 2026-11-11
 ---
@@ -68,7 +68,7 @@ updated: 2026-11-11
 ---
 
 > [!claim] 核心思想
-> 社会弊病的根源在于殖民制度的愚民政策与宗教禁锢；启蒙知识分子的使命在于通过通俗的大众文学与报刊媒介揭露不公，唤醒本土民众的公民尊严。长篇小说通过将个体生活置于医院、法庭、修道院等制度性网络中，能够让分散孤独的个体感知到自身与千百万互不相识的同胞共享着同一个界限分明的国家社会机体。
+> 社会弊病的根源在于殖民制度的愚民政策与宗教禁锢；启蒙知识分子的使命在于通过通俗的大众文学与报刊媒介揭露不公，唤醒本土民众的公民尊严。长篇小说通过将个体生活置于医院、法庭、修道院等制度性网络中，让分散孤独的个体感知到自身与千百万互不相识的同胞共享着同一个界限分明的国家社会机体。
 
 ---
 
@@ -78,4 +78,14 @@ updated: 2026-11-11
 > - **对民族主义研究的启发** 安德森以此证明土生白人先驱社会早在欧洲之前便通过小说形式构想出具有明确疆界的世俗想象共同体。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch02|Anderson (2016)]]：剖析利萨尔迪《糊涂鹦鹉》的流浪汉漫游叙事，论证复数名词与制度空间如何为西语美洲读者建构均质客观的墨西哥民族空间感。
+> - [[Argument_Anderson_2016_Verso_Ch02|Anderson (2016)]] — 剖析利萨尔迪《糊涂鹦鹉》的流浪汉漫游叙事，论证复数名词与制度空间如何为西语美洲读者建构均质客观的墨西哥民族空间感（pp. 29–32）。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Homogeneous, Empty Time]] | 概念 | 其流浪汉小说的空间漫游展现了同一时间流中社会地理空间的客观延展。 |
+> | [[Imagined Community]] | 理论 | 其小说描绘的墨西哥殖民地空间，构成安德森论证克里奥尔先驱民族想象的核心案例。 |
+> | [[Benedict Anderson]] | 人物 | 在《想象的共同体》第二章细读其作品，界定其为美洲早期民族小说表象的奠基人。 |

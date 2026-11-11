@@ -8,7 +8,7 @@ summary: "法国著名历史学家，年鉴学派联合创始人，与亨利-让
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 2
+person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -19,8 +19,10 @@ tags:
   - person/historian
   - theme/annales-school
   - theme/book-history
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Truth-Language]]"
+related_theories:
+  - "[[Imagined Community]]"
 related_methods: []
 related_instruments: []
 related_persons:
@@ -29,7 +31,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
 confidence: high
-status: draft
+status: active
 created: 2026-11-11
 updated: 2026-11-11
 ---
@@ -75,4 +77,14 @@ updated: 2026-11-11
 > - **对民族主义研究的启发** 为安德森等学者提供了理解印刷资本主义、拉丁文衰退以及方言出版市场催生民族意识的坚实经验证据。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch02|Anderson (2016)]]：引述费弗尔与马丁关于欧洲早期印刷出版量、巴黎图书市场方言化逆转及工业耐用品特性的经验统计，构建印刷资本主义与民族想象的发生模型。
+> - [[Argument_Anderson_2016_Verso_Ch02|Anderson (2016)]] — 引述费弗尔与马丁关于欧洲早期印刷出版量、巴黎图书市场方言化逆转及工业耐用品特性的经验统计，构建印刷资本主义与民族想象的发生模型（pp. 18–19, 33–35）。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Truth-Language]] | 概念 | 以印刷出版统计实证论证拉丁文作为神圣真理语言的衰落与方言化转向。 |
+> | [[Imagined Community]] | 理论 | 其对早期书籍作为资本主义大众商品的实证考掘，为印刷资本主义理论提供底层史实。 |
+> | [[Benedict Anderson]] | 人物 | 在《想象的共同体》第二章直接引证其与马丁的书籍史统计，解构宗教共同体的解体。 |
