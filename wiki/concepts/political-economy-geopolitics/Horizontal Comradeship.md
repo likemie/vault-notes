@@ -30,6 +30,8 @@ related_concepts:
   - "[[Modular Nationalism]]"
   - "[[Tomb of the Unknown Soldier]]"
   - "[[Homogeneous, Empty Time]]"
+  - "[[Creole Nationalism]]"
+  - "[[Administrative Pilgrimage]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods: []
@@ -42,6 +44,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch01]]"
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
+  - "[[Argument_Anderson_2016_Verso_Ch04]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
 confidence: high
 status: active
@@ -99,7 +102,7 @@ updated: 2026-11-11
 > **平权表象与牺牲动员机制** 揭示现代社会在高度分化与剥削的客观条件下，如何通过主观兄弟情谊维系强大的集体献身意愿。
 
 > [!claim] Anderson, B.
-> **平等手足纽带对现实阶级割裂的情感超越** 安德森指出，现代民族国家内部无一例外普遍存在残酷的剥削与不平等。若民族仅被理解为阶级统治的工具，被压迫阶层理应在国家面临危难时离弃政权。然而历史展现的反常事实表明，千百万处于底层的普通民众展现出最强烈的赴死意愿。其动力机制正在于民族在文化表象上被构想为一种兄弟般的横向同志情谊；在同胞这一身份面前，现实地位被主观拉平。人们拒绝为冷冰冰的税收合同或行政科层牺牲生命，却心甘情愿为象征手足相连的祖国献出生命。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 7–8)]]
+> **平等手足纽带对现实阶级割裂的情感超越** 安德森指出，现代民族国家内部无一例外普遍存在残酷的剥削与不平等。若民族仅被理解为阶级统治的工具，被压迫阶层理应在国家面临危难时离弃政权。然而历史展现的反常事实表明，千百万处于底层的普通民众展现出最强烈的赴死意愿。其动力机制正在于民族在文化表象上被构想为一种兄弟般的横向同志情谊；在同胞这一身份面前，现实地位被主观拉平。人们拒绝为冷冰冰的税收合同或行政科层牺牲生命，却心甘情愿为象征手足相连的祖国献出生命。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 7–8)]] 安德森在第四章进一步结合美洲历史经验证实，最早的民族主义恰恰由拥有奴隶与庄园的大地主及商人阶层率先发起；半岛政权对土生白人仕途的封锁与欧陆对美洲出生者的天然贬抑，促使这些拥有巨大财富特权的群体在共同受辱中萌生了超越内部阶级撕裂的同胞连带感，展现了横向同志情谊与阶级剥削结构历史并存的机制。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 47–49, 58)]]
 
 ---
 

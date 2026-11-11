@@ -7,7 +7,7 @@ aliases:
 summary: "主张政治单位与民族文化单位保持一致、将民族确立为至高政治忠诚与集体认同基石的意识形态与文化人造物。学术史呈现出原初主义、现代主义与族群象征主义的多重论争：欧内斯特·格尔纳视其为工业化对均质文化的功能性需求，本尼迪克特·安德森将其确立为依托印刷资本主义生成的想象政治共同体与模块化文化模型，艾瑞克·霍布斯鲍姆则揭示其作为统治精英发明传统以维系社会整合的制度技术。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 25
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,6 +33,8 @@ related_concepts:
   - "[[Post-Nationalism]]"
   - "[[Cultural Nationalism vs. Political Nationalism]]"
   - "[[Modular Nationalism]]"
+  - "[[Creole Nationalism]]"
+  - "[[Administrative Pilgrimage]]"
   - "[[Paradigm]]"
   - "[[Everyday Plebiscite]]"
   - "[[Ontology]]"
@@ -53,6 +55,7 @@ related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch01]]"
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
   - "[[Argument_Anderson_2016_Verso_Ch03]]"
+  - "[[Argument_Anderson_2016_Verso_Ch04]]"
 confidence: high
 status: active
 created: 2026-11-11
@@ -142,7 +145,7 @@ updated: 2026-11-11
 
 > [!dev-timeline] 概念演变
 > - **16–18世纪 — 文化体系解体与印刷语言奠基** 宗教共同体瓦解、真理语言衰落与神圣王权褪色；印刷资本主义开拓大众单语市场，将繁杂方言装配为标准化印刷语言，配合小说与报纸确立齐一空洞时间感知，为民族意识奠定物质与认知基石。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 12–25, 36)]]; [[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 39–49)]]
-> - **18世纪末 — 克里奥尔先驱与双元革命** 美洲大陆的土生白人开拓者率先构想出非宗主国依附的民族模型；法国大革命与英国工业革命在欧洲确立公民自决与现代主权国家形态。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 4, 7)]]
+> - **18世纪末 — 克里奥尔先驱与双元革命** 美洲大陆的土生白人先驱率先构想出非宗主国依附的主权共和国模型；其独立运动打破了母语分化与底层受洗的欧洲假说，表明官僚在局域[[Administrative Pilgrimage|行政朝圣]]中受到的仕途封锁与地方报纸的共时性拼贴，共同将殖民辖区塑造为[[Creole Nationalism|土生白人民族主义]]主权实体；法国大革命与英国工业革命则在欧洲确立公民自决与现代主权国家形态。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 4, 7)]]; [[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 49–67)]]
 > - **19世纪中叶–20世纪初 — 群众性语言民族主义与官方发明** 欧洲民间语言学运动兴起，王朝统治精英为应对民主浪潮而通过国家教育与仪式系统发明传统，推行归化同化的官方民族主义。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 6–7)]]
 > - **20世纪中期–冷战时期 — 反殖民浪潮与社会主义政权固化** 亚洲与非洲后殖民社会普遍移植模块化民族国家模型；中越与柬越武装冲突证明社会主义革命政权全面退守民族疆域。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 1–3)]]
 > - **20世纪末至今 — [[Post-Nationalism|后民族主义]]反思与新民粹复兴** 全球化与跨国移民引发去疆域化挑战，但在地缘冲突与经济波动下，防御性民族认同与边境政治再度呈现强大活力。
@@ -177,6 +180,8 @@ updated: 2026-11-11
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Print-Capitalism]] | 概念 | 资本增殖、机械印刷与语言宿命聚合，催生现代民族意识的物质制度载体。 |
+> | [[Creole Nationalism]] | 概念 | 美洲土生白人开创的世界历史上第一波现代民族主义共和形态。 |
+> | [[Administrative Pilgrimage]] | 概念 | 阐明殖民地官僚狭窄流动路线如何奠定民族国家的领土边界。 |
 > | [[Print-Language]] | 概念 | 构筑统一交流场域、赋予文本抗变古代性并重塑权力等级的现代民族语言基质。 |
 > | [[Imagined Community]] | 理论 | 本尼迪克特·安德森系统解构现代民族主义生成机制的核心理论模型。 |
 > | [[Modular Nationalism]] | 概念 | 揭示民族主义[[Paradigm\|范式]]自18世纪末定型后跨越地理与文化土壤的可移植性。 |
@@ -197,4 +202,4 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 在[[Argument_Anderson_2016_Verso_Ch01|第1章]]将民族界定为有限主权的想象共同体，在[[Argument_Anderson_2016_Verso_Ch02|第2章]]阐明其文化根源，并在[[Argument_Anderson_2016_Verso_Ch03|第3章]]揭示印刷资本主义与印刷语言奠定民族意识的技术基质。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 在[[Argument_Anderson_2016_Verso_Ch01|第1章]]将民族界定为有限主权的想象共同体，在[[Argument_Anderson_2016_Verso_Ch02|第2章]]阐明其文化根源，在[[Argument_Anderson_2016_Verso_Ch03|第3章]]揭示印刷资本主义与印刷语言奠定民族意识的技术基质，并在[[Argument_Anderson_2016_Verso_Ch04|第4章]]系统阐释美洲土生白人先驱依托行政朝圣与地方报刊开创世界第一波现代民族主义形态。
