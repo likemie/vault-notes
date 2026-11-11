@@ -9417,6 +9417,16 @@
     ]
   },
   {
+    "title": "Non-Arbitrariness of the Sign",
+    "type": "concept",
+    "path": "wiki/concepts/epistemology/Non-Arbitrariness of the Sign.md",
+    "aliases": [
+      "符号的非任意性",
+      "符号非任意性",
+      "nonarbitrariness of the sign"
+    ]
+  },
+  {
     "title": "Algorithmic Bias",
     "type": "concept",
     "path": "wiki/concepts/ethics-of-technology/Algorithmic Bias.md",
@@ -13907,6 +13917,16 @@
       "Normalization of Network Centrality",
       "Normalization Thesis",
       "知识常态化"
+    ]
+  },
+  {
+    "title": "Official Nationalism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Official Nationalism.md",
+    "aliases": [
+      "官方民族主义",
+      "官办民族主义",
+      "官制民族主义"
     ]
   },
   {
@@ -31131,6 +31151,19 @@
     ]
   },
   {
+    "title": "Mas Marco Kartodikromo",
+    "type": "person",
+    "path": "wiki/persons/indonesia/Mas Marco Kartodikromo.md",
+    "aliases": [
+      "马斯·马尔戈·卡托迪克罗莫",
+      "马斯·马尔戈",
+      "马尔戈·卡托迪克罗莫",
+      "Marco Kartodikromo",
+      "Kartodikromo, M. M.",
+      "Mas Marco"
+    ]
+  },
+  {
     "title": "Ellen Hazelkorn",
     "type": "person",
     "path": "wiki/persons/ireland/Ellen Hazelkorn.md",
@@ -33778,6 +33811,18 @@
       "埃利泽·尤德考夫斯基",
       "Yudkowsky, E.",
       "尤德考夫斯基"
+    ]
+  },
+  {
+    "title": "Elizabeth Eisenstein",
+    "type": "person",
+    "path": "wiki/persons/us/Elizabeth Eisenstein.md",
+    "aliases": [
+      "伊丽莎白·爱森斯坦",
+      "伊丽莎白·L·爱森斯坦",
+      "Elizabeth L. Eisenstein",
+      "Eisenstein, E. L.",
+      "E. Eisenstein"
     ]
   },
   {
