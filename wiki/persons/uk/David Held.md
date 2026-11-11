@@ -117,7 +117,7 @@ updated: 2026-11-11
 ---
 
 > [!person-network] 关系网络
-> - **长期学术合作者** [[Anthony Giddens|安东尼·吉登斯]]（Anthony Giddens）、安东尼·麦克格鲁（Anthony McGrew） — 共同创立 Polity Press 并合著多部全球化巨著。
+> - **长期合作学者** [[Anthony Giddens|安东尼·吉登斯]]（Anthony Giddens）、安东尼·麦克格鲁（Anthony McGrew） — 共同创立 Polity Press 并合著多部全球化巨著。
 > - **理论对话者** [[Carlos Alberto Torres]]、[[Liliana Esther Olmos]] — 引用其全球化界定解构拉美外围国家的教育主权困境。
 
 ---
