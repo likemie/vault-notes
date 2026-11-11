@@ -9,7 +9,7 @@ summary: "苏格兰政治理论家与历史学家，西方马克思主义民族�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 15
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
