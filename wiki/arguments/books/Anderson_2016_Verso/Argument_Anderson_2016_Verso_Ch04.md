@@ -44,6 +44,7 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Uti Possidetis]]"
   - "[[Printer-Journalist]]"
+  - "[[Political Baptism of the Lower Classes]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods:
