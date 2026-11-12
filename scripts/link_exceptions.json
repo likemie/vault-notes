@@ -818,5 +818,23 @@
       "sentence": "历史证据推翻了将其归咎于时代错置的简化论调：起草美国独立宣言的本杰明·富兰克林仅比休谟早生5年，加里·威尔斯也考证出杰斐逊的独立思想深受苏格兰启蒙学者的塑造。",
       "target": "wiki/persons/canada/Michael Fullan.md"
     }
+  ],
+  "wiki/arguments/journal-articles/Higher Education Policy/Argument_He_2018_HEP.md": [
+    {
+      "sentence": "**张力** 官方外交话语设定的国家软实力宏观战略输出使命，与海外分校微观办学实践中依托高校自主市场开拓、生源实用主义动机以及对经贸硬实力的依附之间的深层张力。",
+      "target": "wiki/concepts/educational-philosophy/Pragmatic Paradigm.md"
+    },
+    {
+      "sentence": "分校采用中文、英文和老挝语混合教学，重点强化基础中文，老挝学生求学根本动机在于获取优质文凭并进入中企就业。",
+      "target": "wiki/concepts/instruction-pedagogy/Blended Learning.md"
+    },
+    {
+      "sentence": "case] 三所分校母校知名度与招生拉动机制的分化",
+      "target": "wiki/concepts/science-policy/Pull Mechanisms for Innovation.md"
+    },
+    {
+      "sentence": "**云南财经大学曼谷商学院（导师引荐与双学位红利代偿）** 受访学生坦陈在报考前从未听说过云南财经大学校名。",
+      "target": "wiki/concepts/higher-education/Grandes Ecoles.md"
+    }
   ]
 }
