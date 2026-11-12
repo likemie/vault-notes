@@ -6,7 +6,7 @@ aliases:
 summary: "发端于拉丁美洲的解放教育范式，主张立足被压迫工农大众的生活经验与阶级境遇，通过提问式对话教学激发批判意识觉醒，培养改造社会结构的政治能动性，与国家威权自上而下的补偿性恩庇扫盲相对立"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 33
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -146,8 +146,8 @@ updated: 2026-11-12
 > | 命题维度 | 核心理论断言 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **认识论与主体性维度** | 解构“教化主权者”神话，确立被压迫大众在对话中的自我解放主体地位 | [[Critical Pedagogy|批判教育学]]与反霸权识字运动 | Freire (1970); Torres (2007) |
-> | **制度博弈维度** | 抵抗[[State Corporatism|国家法团主义]]的去政治化收编，揭露补偿性扫盲的恩庇本质 | 拉美威权政权与第三世界国家政策分析 | Morales-Gómez & Torres (1990); [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] |
-> | **全球正义维度** | 跨国民众教育与非正规网络自下而上抗击新自由主义[[Disciplina and Doctrina|规训]]，开创替代性全球社会民主 | 另类全球化运动、原住民教育主权与[[Global Citizenship|全球公民]]社会 | Paulston and Leroy (1980); [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] |
+> | **制度博弈维度** | 抵抗[[State Corporatism|国家法团主义]]的去政治化收编，揭露补偿性扫盲的恩庇本质 | 拉美威权政权与第三世界国家政策分析 | Morales-Gómez & Torres (1990); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009)]] |
+> | **全球正义维度** | 跨国民众教育与非正规网络自下而上抗击新自由主义[[Disciplina and Doctrina|规训]]，开创替代性全球社会民主 | 另类全球化运动、原住民教育主权与[[Global Citizenship|全球公民]]社会 | Paulston and Leroy (1980); [[Argument_Arnove_2009_WorldSystems\|Arnove (2009)]] |
 
 ---
 
