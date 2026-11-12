@@ -7,10 +7,10 @@ aliases:
 summary: "主张政治单位与民族文化单位保持一致、将民族确立为至高政治忠诚与集体认同基石的意识形态与文化人造物。学术史呈现出原初主义、现代主义与族群象征主义的多重论争：欧内斯特·格尔纳视其为工业化对均质文化的功能性需求，本尼迪克特·安德森将其确立为依托印刷资本主义生成的想象政治共同体与模块化文化模型，艾瑞克·霍布斯鲍姆则揭示其作为统治精英发明传统以维系社会整合的制度技术。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 concept_field: "political-economy-geopolitics"
 concept_related_count: 12
 concept_related_level: 1
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Cultural Nationalism vs. Political Nationalism]]"
   - "[[Modular Nationalism]]"
   - "[[Creole Nationalism]]"
+  - "[[Political Baptism of the Lower Classes]]"
   - "[[Administrative Pilgrimage]]"
   - "[[Paradigm]]"
   - "[[Everyday Plebiscite]]"
@@ -146,7 +147,7 @@ updated: 2026-11-12
 
 > [!dev-timeline] 概念演变
 > - **16–18世纪 — 文化体系解体与印刷语言奠基** 宗教共同体瓦解、真理语言衰落与神圣王权褪色；印刷资本主义开拓大众单语市场，将繁杂方言装配为标准化印刷语言，配合小说与报纸确立齐一空洞时间感知，为民族意识奠定物质与认知基石。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 12–25, 36)]]; [[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 39–49)]]
-> - **18世纪末 — 克里奥尔先驱与双元革命** 美洲大陆的土生白人先驱率先构想出非宗主国依附的主权共和国模型；其独立运动打破了母语分化与底层受洗的欧洲假说，表明官僚在局域[[Administrative Pilgrimage|行政朝圣]]中受到的仕途封锁与地方报纸的共时性拼贴，共同将殖民辖区塑造为[[Creole Nationalism|土生白人民族主义]]主权实体；法国大革命与英国工业革命则在欧洲确立公民自决与现代主权国家形态。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 4, 7)]]; [[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 49–67)]]
+> - **18世纪末 — 克里奥尔先驱与双元革命** 美洲大陆的土生白人先驱率先构想出非宗主国依附的主权共和国模型；其独立运动打破了母语分化与[[Political Baptism of the Lower Classes|底层受洗]]的欧洲假说，表明官僚在局域[[Administrative Pilgrimage|行政朝圣]]中受到的仕途封锁与地方报纸的共时性拼贴，共同将殖民辖区塑造为[[Creole Nationalism|土生白人民族主义]]主权实体；法国大革命与英国工业革命则在欧洲确立公民自决与现代主权国家形态。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 4, 7)]]; [[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 49–67)]]
 > - **19世纪 — 欧洲群众性语言民族主义与蓝图盗版** 比较语文学与词典编纂革命打破圣语垄断并将方言升格为印刷国语；工商业资产阶级依托印刷语言达成横向阶级团结；美法革命经验被提炼为可供自由盗版的模块化国家蓝图，倒逼统治阶层废除农奴制与普及大众教育。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, pp. 69–84)]]
 > - **20世纪中期–冷战时期 — 反殖民浪潮与社会主义政权固化** 亚洲与非洲后殖民社会普遍移植模块化民族国家模型；中越与柬越武装冲突证明社会主义革命政权全面退守民族疆域。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 1–3)]]
 > - **20世纪末至今 — [[Post-Nationalism|后民族主义]]反思与新民粹复兴** 全球化与跨国移民引发去疆域化挑战，但在地缘冲突与经济波动下，防御性民族认同与边境政治再度呈现强大活力。

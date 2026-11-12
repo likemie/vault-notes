@@ -7,7 +7,7 @@ title: "Argument_Anderson_2016_Verso"
 argument_key: "Argument_Anderson_2016_Verso"
 argument_display_title: "Imagined Communities: Reflections on the Origin and Spread of Nationalism"
 argument_kind: "book"
-argument_related_count: 11
+argument_related_count: 12
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Nationalism]]"
   - "[[Paradigm]]"
   - "[[Modular Nationalism]]"
+  - "[[Political Baptism of the Lower Classes]]"
   - "[[Horizontal Comradeship]]"
   - "[[Document]]"
 related_theories:
@@ -68,7 +69,7 @@ updated: 2026-11-12
 > | [[Argument_Anderson_2016_Verso_Ch01\|第1章 Introduction]] | 剖析印支战争揭示的理论反常，将民族界定为有限且享有主权的想象政治共同体，确立[[Modular Nationalism\|模块化文化人造物]]视角与[[Horizontal Comradeship\|横向同志情谊]]动员机制。 | [[Imagined Community]]、[[Modular Nationalism]]、[[Benedict Anderson]]、[[Ernest Gellner]]、[[Ernest Renan]] |
 > | [[Argument_Anderson_2016_Verso_Ch02\|第2章 Cultural Roots]] | 阐明民族对宗教存在论功能的承接，剖析真理语言、王朝领域与弥赛亚时间的瓦解，揭示齐一空洞时间及小说报纸对共时想象的技术表象。 | [[Truth-Language]]、[[Messianic Time]]、[[Homogeneous, Empty Time]]、[[Walter Benjamin]]、[[Erich Auerbach]] |
 > | [[Argument_Anderson_2016_Verso_Ch03\|第3章 The Origins of National Consciousness]] | 剖析资本主义、印刷技术与语言宿命多样性的历史聚合，阐明[[Print-Capitalism\|印刷资本主义]]开拓大众市场的方言转向，揭示[[Print-Language\|印刷语言]]奠定现代民族意识的三重机制。 | [[Print-Capitalism]]、[[Print-Language]]、[[Martin Luther]]、[[Edict of Villers-Cotterêts]]、[[Lucien Febvre]] |
-> | [[Argument_Anderson_2016_Verso_Ch04\|第4章 Creole Pioneers]] | 剖析美洲土生白人先驱开创现代民族主义首波浪潮，打破语言分化与平民受洗假说；揭示宗主国仕途封锁下[[Administrative Pilgrimage\|行政朝圣]]与地方报刊共时性将殖民管辖区固化为主权共和国。 | [[Creole Nationalism]]、[[Administrative Pilgrimage]]、[[Tom Nairn]]、[[Victor Turner]] |
+> | [[Argument_Anderson_2016_Verso_Ch04\|第4章 Creole Pioneers]] | 剖析美洲土生白人先驱开创现代民族主义首波浪潮，打破语言分化与[[Political Baptism of the Lower Classes\|平民受洗]]假说；揭示宗主国仕途封锁下[[Administrative Pilgrimage\|行政朝圣]]与地方报刊共时性将殖民管辖区固化为主权共和国。 | [[Creole Nationalism]]、[[Administrative Pilgrimage]]、[[Political Baptism of the Lower Classes]]、[[Tom Nairn]]、[[Victor Turner]] |
 > | [[Argument_Anderson_2016_Verso_Ch05\|第5章 Old Languages, New Models]] | 剖析19世纪欧洲语文学与词典编纂革命确立语言平等主义，揭示科层制扩张与资产阶级想象连带，阐明美法革命凝结为可被普遍盗版的模块化国家蓝图并倒逼民粹改革。 | [[Philological Revolution]]、[[Print-Language]]、[[Modular Nationalism]]、[[Johann Gottfried von Herder]]、[[Eric Hobsbawm]] |
 > | 第 6 章 Official Nationalism and Imperialism | [TXT](../../../../raw/Anderson_2016_Verso_txt/Ch06_Official_Nationalism_and_Imperialism.txt) | 待解读 |
 > | 第 7 章 The Last Wave | [TXT](../../../../raw/Anderson_2016_Verso_txt/Ch07_The_Last_Wave.txt) | 待解读 |
