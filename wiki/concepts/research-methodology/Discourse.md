@@ -112,7 +112,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---
@@ -182,6 +182,7 @@ updated: 2026-11-11
 > - **微观实践的[[Recontextualization|再情境化]][[Shape-Shifting|形变]]（Recontextualisation Deformation）** 抽象政策话语降落至缺乏物质资源与制度配套的基层学校时，必然遭遇本土历史[[Habitus|惯习]]的抵抗，最终演化为与改革初衷背道而驰的意外后果（如将“尊重多样性”异化为对贫困的被动容忍）。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 359–361)]]
 > - **地缘[[Knowledge Power|知识权力]]中的规范性话语建构（Discursive Power in Transnational Knowledge Governance）** 新兴大国在重构跨国教育与科研合作网络时，依托多边大学联盟、智库对话与联合平台输出以“[[South-South Cooperation|南南合作]]”、“[[Community of Shared Future for Mankind|命运共同体]]”与“非对齐互惠”为核心的规范性话语，对冲西方[[Cosmopolitanism|普世主义]]叙事，为新型多边知识秩序确立正当性基础与议程主导权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1700–1701, 1703–1705)]]
 > - **修辞隐喻的话语规训与认知层级建构（Rhetorical Metaphors & Discursive Framing）** 国际多边机构借助“爵士乐队”、“[[Smart Buys|智能购买]]”等修辞隐喻建构政策话语网络，将跨国量化综合证据确立为优先认知层级，并通过责任个体化叙事将政策执行受阻归咎于公职人员个人素养短板，完成[[Governing at a Distance|远处治理]]与话语规训。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 341, 346–348)]]
+> - **官方大战略话语的策略性借用与资源置换（Strategic Discourse Appropriation）** 微观机构行动者（如大学境外分校管理层）敏锐地借用服务国家软实力辐射与配合一带一路建设等官方宏大话语符号，将自身的市场扩张与创收诉求包装为国家战略实体工程，借此撬动国内教育主管部门的行政办学许可与专项财政经费扶持，实现微观利益同宏观话语的工具性契合。[[Argument_He_2018_HEP|(He & Wilkins, 2018, pp. 330, 334–335)]]
 
 ---
 
@@ -285,6 +286,7 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_He_2018_HEP|He and Wilkins (2018)]] — 揭示高校境外分校管理层如何策略性借用服务国家软实力与一带一路官方外交话语，以换取国内政策许可与财政资助。
 > - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 指出在学术资助竞争加剧背景下，科研人员被迫迎合主流叙事话语并在申报文本中策略性拼贴流行符号，造成学术言说与实质探索深层脱节。
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 运用话语制度主义解构欧洲教育区战略议程设定，揭示闭门协调性话语与公共交流性话语在多层科层博弈中的妥协机制。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|Cohen et al. (2011, Ch. 31)]] — 结合课堂会话、机构叙事与教师自传，系统阐述话语的概念界定、文本性七大标准与解释学多义性，奠定质性会话与文本[[Discourse Analysis|话语分析]]基础。

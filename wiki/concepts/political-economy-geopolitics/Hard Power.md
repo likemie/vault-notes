@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---
@@ -222,6 +222,9 @@ updated: 2026-11-11
 > [!claim] [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]]
 > **大学作为科技硬实力展演窗口与硬基建主导** 朱柯锦与[[Rui Yang|杨锐]]揭示，[[Transnational Education|跨国高等教育]]在国家对外战略中承担着展示科技硬实力的核心窗口功能。国家通过战略性扩大高新技术与工程领域的国际奖学金规模，组织前沿科研园区参访与数字化治理研学，向海外精英集中展示现代科技实力与国家现代化治理效能。与此同时，对外援助资源配置呈现出物质基础设施建设占据绝对支配地位、高等教育与人文交流处于从属配套的非均衡格局，证实对外战略依然依托硬性工程与经济资本作为关键支撑。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1051–1053)]]
 
+> [!claim] [[Argument_He_2018_HEP|He and Wilkins (2018)]]
+> **经贸硬实力构成语言与分校求学溢价的根本底盘** 何岚（Lan He）与斯蒂芬·威尔金斯（Stephen Wilkins）结合东南亚三所中国境外分校实证指出，软实力深层依附于经济硬实力的支撑；驱动东南亚学生修读中文并报考中国大学分校的核心动力，源于中国作为全球第二大经济体展现的巨大市场吸附力与中资跨国投资创造的高薪就业溢价。缺乏经贸硬实力作为物质后盾，语言与高等教育分校的吸引力便难以维系。[[Argument_He_2018_HEP|(He & Wilkins, 2018, pp. 333–335)]]
+
 ---
 
 > [!contrast-table] 所有命题归纳
@@ -233,7 +236,7 @@ updated: 2026-11-11
 > | **国家认同与威慑意志** | 压制国家认同与防卫意志将直接摧毁硬实力的战略威慑功能 | 联盟防御战略、历史创伤清算与地缘安全重建 | Karp & Zamiska (2025, Ch. 17); Goh (1979) |
 > | **软硬件与试验场协同** | 现代硬实力效能依赖算法软件与深科技实体制造及实战反馈的深度融合 | 国防采办改革、先进制造业政策与[[Regulatory Sandbox\|规制沙盒]] | Karp & Zamiska (2025, Ch. 4, 7) |
 > | **克服软信念与文化共生** | 审美品味、创始人长期主义与全员所有权构成维系软件硬实力的终极文化根基 | 科技企业治理、国家文化建设、长周期战略竞争 | Karp & Zamiska (2025, Ch. 18) |
-> | **高教工具化与依附脆弱性** | 发展型国家将高教体系工具化以服务硬实力扩张，但经济硬实力补贴外溢面临地缘脆弱性 | 发展型国家科技动员、跨国高教走廊、“[[Belt and Road Initiative\|一带一路]]”地缘政治 | [[Argument_Woo_2023_HEP\|Woo (2023)]]; [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] |
+> | **高教工具化与依附脆弱性** | 发展型国家将高教体系工具化以服务硬实力扩张，但经济硬实力补贴外溢面临地缘脆弱性 | 发展型国家科技动员、跨国高教走廊、“[[Belt and Road Initiative\|一带一路]]”地缘政治 | [[Argument_Woo_2023_HEP\|Woo (2023)]]; [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]]; [[Argument_He_2018_HEP\|He and Wilkins (2018)]] |
 
 ---
 
@@ -243,6 +246,7 @@ updated: 2026-11-11
 > - **1970 年代 — [[Counterculture Computing|反文化计算]]的分离与挑战** 黑客文化明确拒绝为军工机构研发武器，开启了硅谷与国家硬实力建设的历史性脱节。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–100)]]
 > - **1990 年代 — 软硬实力二元区分与冷战后[[Winner's Fallacy|赢家谬误]]** [[Joseph S. Nye Jr.|约瑟夫·奈]]系统界定硬实力与[[Soft Power|软实力]]的边界；西方社会普遍陷入过度依赖软实力的胜者谬误，放任实体制造业萎缩。
 > - **2000 年代 — [[Consumer Internet|消费互联网]]对硬科技资源的虹吸** 硅谷科技精英全面滑向以广告变现和日常便利为导向的消费互联网，国家安全与硬实力技术研发被边缘化。
+> - **2018 年 — 经济硬实力对教育软实力溢价的决定性支撑** [[Argument_He_2018_HEP|He and Wilkins (2018)]] 结合东南亚中国大学分校实证，基于马特恩（Mattern, 2005）理论证明软实力植根于硬实力，揭示海外分校的求学生源本质上是由中国经贸硬实力与中企海外投资带来的就业溢价所驱动。[[Argument_He_2018_HEP|(He & Wilkins, 2018, pp. 333–335)]]
 > - **2020 年代初 — 智能化时代的硬实力重塑与告别[[Soft Belief|软信念]]** 卡普与扎米斯卡系统论证以敏捷软件与人工智能重构硬实力，并在《[[Technological Republic|技术共和国]]》（Ch. 17–18）确立硬实力、国家认同防卫意志与克服软信念的共生体系。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025)]]
 > - **2023 年 — 发展型国家高教工业硬实力工具化与依附脆弱性** [[Argument_Woo_2023_HEP|Woo (2023)]] 揭示，发展型国家将[[Research Universities|研究型大学]]与职业技术院校全面整合为硬实力出海工具；同时实证证实，过度寄生于经济硬实力补贴的对外吸引力在面临外部地缘波动时具有深层脆弱性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 685–687, 692–694)]]
 > - **2025 年 — 大学作为科技硬实力展演窗口与硬基建主导实证** [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] 揭示发展型国家将高等教育机构作为向外界展演前沿科技硬实力的核心窗口（战略性扩大 33% [[STEM Education|STEM]] 奖学金规模），并实证揭示对外战略中硬性基础设施投资规模是文教社会援助的 2.36 倍。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1051–1053)]]
@@ -292,6 +296,7 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid] 相关研究索引
+> - **经贸硬实力对境外办学的支撑底盘** [[Argument_He_2018_HEP|He and Wilkins (2018)]] 基于东南亚分校跨案例比较，实证揭示中文学习需求与海外办学生源本质上受母国经贸硬实力与中企岗位溢价所驱动。
 > - **[[Technological Republic|技术共和国]]大战略与软件硬实力体系** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] 系统建构 21 世纪软件硬实力理论，剖析[[Winner's Fallacy|胜者谬误]]、试验场协同、国家认同防卫意志、[[Commercial Off-The-Shelf|商用现货]]采购机制与克服[[Soft Belief|软信念]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Ch. 1)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Ch. 3)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Ch. 17)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Ch. 18)]]
 > - **发展型国家高教硬实力工具化与依附脆弱性** [[Argument_Woo_2023_HEP|Woo (2023)]] 考察中国[[Internationalization of Higher Education|高等教育国际化]]与地缘战略的交织，系统揭示高教体系作为硬实力工具的产能出海机制，并深入论证其依附于经济硬实力的脆弱性。
 > - **科技硬实力展演与援助资源配置失衡** [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] 结合中柬跨境高教拓展，阐明大学作为科技硬实力展演窗口的战略机制，并以官方数据揭示硬基建投资与软人文交流之间的结构性失衡。
