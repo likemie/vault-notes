@@ -11,10 +11,10 @@ summary: "阿根廷、智利与秘鲁独立运动领袖，南美南部“解放�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: 1778
 died: 1850
 lifespan: "1778–1850"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Nationalism]]"
   - "[[Horizontal Comradeship]]"
   - "[[Administrative Pilgrimage]]"
+  - "[[Modular Nationalism]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods: []
@@ -41,7 +42,7 @@ related_persons:
 related_facts:
   - "[[Bourbon Reforms]]"
 related_arguments:
-  - "[[Argument_Anderson_2016_Verso_Ch04]]"
+  - "[[Argument_Anderson_2016_Verso]]"
 confidence: high
 status: draft
 created: 2026-11-12
@@ -89,9 +90,10 @@ updated: 2026-11-12
 > - **军事朝圣向民族忠诚转化** 构成安德森剖析殖民地军事官员跨大西洋巡游后产生反思与认同倒转的典范个案。
 > - **民族命名政治学** 1821 年法令开创了拉美后殖民国家以宪法政治修辞直接赋予不同族裔以统一国民身份的先例。
 > - **公民平等制度推进** 宣布废除印第安劳役人头税与宗教裁判所，打破半岛统治集团对原住民的人身奴役特权。
+> - **模块化民族国家样板塑造** 其在秘鲁将印第安原住民统称为秘鲁人的政治权衡，在跨大西洋印刷媒介中被提炼为拥有独立主权与普遍公民权的现代共和国理想模型，向欧洲后发民族证实了该套制度的可复制性。[[Argument_Anderson_2016_Verso|(Anderson, 2016, pp. 80–81)]]
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch04|Anderson (2016)]] — 探讨其 1821 年颁令重塑秘鲁原住民为国民的修辞效能、其在西班牙长达 27 年军事生涯对国家建构的影响，以及其面对西班牙工头虐打土著时展现的鲜明“美洲人”民族义愤。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 探讨其命名原住民为秘鲁人的政治修辞，并揭示跨大西洋印刷媒介如何将其政治权衡抽象为欧洲可复制的现代共和国制度蓝本（pp. 51–52, 80–81）。
 
 ---
 

@@ -37,11 +37,11 @@ related_persons:
   - "[[Ernest Gellner]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Anderson_2016_Verso_Ch01]]"
+  - "[[Argument_Anderson_2016_Verso]]"
 confidence: high
 status: active
 created: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-12
 ---
 
 ---
@@ -76,7 +76,7 @@ updated: 2026-11-11
 >   - **关键概念／方法** [[Document]]。
 >   - **阶段转向** 突破传统上层政治史框架，将历史聚光灯投向被边缘化的农民与工人阶层日常生活。
 > - **1960s–1980s — 资本主义全球扩张与双元革命** 阐释现代世界从法国政治革命与英国工业革命中诞生的宏观历史机制。
->   - **代表著作** *The Age of Revolution* (1962), *The Age of Capital* (1975), *The Age of Empire* (1987)。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 6–7)]]
+>   - **代表著作** *The Age of Revolution* (1962), *The Age of Capital* (1975), *The Age of Empire* (1987)。指出语文学是第一门以历史演化为核心的现代科学，为圣语神圣性的消解与白话语言平权奠定了认识论基石。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 6–7)]]; [[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, pp. 72–73)]]
 >   - **关键概念／方法** [[Modular Nationalism]]。
 >   - **阶段转向** 从微观地方经验转向跨大洲的全球资本主义结构变迁分析。
 > - **1980s–2000s — 传统发明机制与民族主义终结** 揭示民族国家的历史建构本质与现代性边界。
@@ -102,7 +102,7 @@ updated: 2026-11-11
 > - **跨国传播** 四部曲与民族理论被译为数十种语言，深刻形塑了后殖民国家对自身殖民遗产与国族建构的反思。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]] — 援引其对马克思主义政权民族化趋势的定性，并借其旧制度贵族统计反思现代阶级想象风格的演进。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 援引其对政权民族化趋势的定性，并引述其关于语文学作为首门演化科学的判断以解释圣语消解机制（pp. 3, 6–7, 72–73）。
 
 ---
 

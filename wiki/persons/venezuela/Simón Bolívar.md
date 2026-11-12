@@ -11,7 +11,7 @@ summary: "拉美独立运动领袖，大哥伦比亚共和国首任总统，被�
 type: person
 nationality: venezuela
 person_region: "venezuela"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Uti Possidetis]]"
   - "[[Horizontal Comradeship]]"
   - "[[Administrative Pilgrimage]]"
+  - "[[Modular Nationalism]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods: []
@@ -41,7 +42,7 @@ related_facts:
   - "[[Haitian Revolution]]"
   - "[[Bourbon Reforms]]"
 related_arguments:
-  - "[[Argument_Anderson_2016_Verso_Ch04]]"
+  - "[[Argument_Anderson_2016_Verso]]"
 confidence: high
 status: draft
 created: 2026-11-12
@@ -95,9 +96,10 @@ updated: 2026-11-12
 > - **民族主义理论路径** 安德森以其阶级处境为核心透镜，论证美洲独立运动体现为土生庄园寡头在王权庇护断绝后的自保夺权，从而反思了下层阶级政治受洗说。
 > - **地缘政治遗产** 彻底终结了西班牙帝国在南美大陆的君主专制统治，确立了共和政体在拉美的主导地位。
 > - **大一统理想与地方割裂的张力** 其倡导的泛美洲联合理想成为后世拉美一体化运动的思想图腾，而其大哥伦比亚政权的碎裂则证实了帝国行政区划与在地报纸市场强大的空间塑造力量。
+> - **跨大西洋制度蓝图输出** 玻利瓦尔政权在跨大西洋印刷媒介中被过滤了寡头防卫与种族焦虑，凝炼为包含成文宪法、主权在民与国旗国歌的现代共和国制度蓝本，成为19世纪欧洲后发民族可资借鉴盗版的模块化模型。[[Argument_Anderson_2016_Verso|(Anderson, 2016, pp. 80–81)]]
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch04|Anderson (2016)]] — 详细剖析玻利瓦尔作为大地产家族后裔对底层暴动的阶级恐惧、其在海地军援下的曲折废奴妥协，以及旧行政管区与地方报刊市场对其大一统政权的离心瓦解作用。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 剖析其对底层叛乱的阶级恐惧与废奴妥协，并揭示跨大西洋印刷媒介如何将其复杂的寡头统治滤化为欧洲可复制的共和国蓝本（pp. 50–55, 80–81）。
 
 ---
 
