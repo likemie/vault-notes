@@ -3319,6 +3319,12 @@
         "wiki/facts/us/Strengthening American Science 1958.md"
       ]
     },
+    "西班牙波旁王室": {
+      "seen_in": [
+        "wiki/facts/spain/Bourbon Reforms.md",
+        "wiki/facts/spain/Royal Decree on Slaves 1789.md"
+      ]
+    },
     "Aarhus University": {
       "seen_in": [
         "wiki/facts/denmark/Danish Clearinghouse for Educational Research.md"
@@ -3839,6 +3845,11 @@
         "wiki/facts/global/Leiden Manifesto.md"
       ]
     },
+    "大不列颠王国北美殖民地总督府": {
+      "seen_in": [
+        "wiki/facts/uk/Dunmore's Proclamation.md"
+      ]
+    },
     "奥地利联邦教育、科学与研究部（BMBWF）": {
       "seen_in": [
         "wiki/facts/austria/New Teacher Education Scheme.md"
@@ -4034,9 +4045,9 @@
         "wiki/facts/uk/Education Reform Act 1988.md"
       ]
     },
-    "西班牙波旁王室": {
+    "葡萄牙布拉干萨王室": {
       "seen_in": [
-        "wiki/facts/spain/Bourbon Reforms.md"
+        "wiki/facts/portugal/Pombaline Reforms.md"
       ]
     },
     "西班牙王国政府": {

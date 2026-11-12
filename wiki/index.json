@@ -43427,6 +43427,18 @@
     "subtype": "policy"
   },
   {
+    "title": "Pombaline Reforms",
+    "type": "fact",
+    "path": "wiki/facts/portugal/Pombaline Reforms.md",
+    "aliases": [
+      "庞巴尔改革",
+      "庞巴尔改革时期",
+      "Reformas Pombalinas",
+      "Pombaline Era"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Programa de Avaliação Externa das Escolas",
     "type": "fact",
     "path": "wiki/facts/portugal/Programa de Avaliação Externa das Escolas.md",
@@ -43705,6 +43717,19 @@
       "LOGSE",
       "Ley Orgánica de Ordenación General del Sistema Educativo",
       "Organic Law 1/1990"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Royal Decree on Slaves 1789",
+    "type": "fact",
+    "path": "wiki/facts/spain/Royal Decree on Slaves 1789.md",
+    "aliases": [
+      "1789年西班牙奴隶法规程",
+      "1789年新奴隶法",
+      "1789年黑奴法",
+      "Real Cédula sobre esclavos 1789",
+      "Spanish Slave Code 1789"
     ],
     "subtype": "policy"
   },
@@ -44610,6 +44635,18 @@
     "aliases": [
       "迪皮恐龙巡展",
       "Dippy on Tour: A Natural History Adventure"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Dunmore's Proclamation",
+    "type": "fact",
+    "path": "wiki/facts/uk/Dunmore's Proclamation.md",
+    "aliases": [
+      "敦莫尔伯爵公告",
+      "敦莫尔公告",
+      "Lord Dunmore's Proclamation",
+      "Dunmore Proclamation 1775"
     ],
     "subtype": "policy"
   },

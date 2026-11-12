@@ -338,6 +338,8 @@
     "Aikenhead, 2005": "Aikenhead, 2005",
     "Aina (2020)": "Aina, 2020",
     "Aina, 2020": "Aina, 2020",
+    "Aira Kemiläinen (1964)": "Aira Kemiläinen, 1964",
+    "Aira Kemiläinen, 1964": "Aira Kemiläinen, 1964",
     "Airasian (2001)": "Airasian, 2001",
     "Airasian, 2001": "Airasian, 2001",
     "Aist (2001)": "Aist, 2001",
@@ -3051,6 +3053,8 @@
     "Bowne et al., 2017": "Bowne et al., 2017",
     "Bowyer‐Crane (2008)": "Bowyer‐Crane, 2008",
     "Bowyer‐Crane, 2008": "Bowyer‐Crane, 2008",
+    "Boxer (1969)": "Boxer, 1969",
+    "Boxer, 1969": "Boxer, 1969",
     "Boyask (2020)": "Boyask, 2020",
     "Boyask, 2020": "Boyask, 2020",
     "Boyd (2007)": "Boyd, 2007",
@@ -12342,6 +12346,8 @@
     "Joslin, 1980": "Joslin, 1980",
     "José Luis García Garrido (2009)": "José Luis García Garrido, 2009",
     "José Luis García Garrido, 2009": "José Luis García Garrido, 2009",
+    "José Murilo de Carvalho (1982)": "José Murilo de Carvalho, 1982",
+    "José Murilo de Carvalho, 1982": "José Murilo de Carvalho, 1982",
     "Joy (2003)": "Joy, 2003",
     "Joy, 2003": "Joy, 2003",
     "Joyce (1999)": "Joyce, 1999",
@@ -15210,11 +15216,13 @@
     "Lyell & Coiera, 2017": "Lyell & Coiera, 2017",
     "Lyman (1981)": "Lyman, 1981",
     "Lyman, 1981": "Lyman, 1981",
+    "Lynch (1973)": "Lynch, 1973",
     "Lynch (2017)": "Lynch, 2017",
     "Lynch et al. (2019)": "Lynch et al., 2019",
     "Lynch et al. (2021)": "Lynch et al., 2021",
     "Lynch et al., 2019": "Lynch et al., 2019",
     "Lynch et al., 2021": "Lynch et al., 2021",
+    "Lynch, 1973": "Lynch, 1973",
     "Lynch, 2017": "Lynch, 2017",
     "Lynn & Irwing (2008)": "Lynn & Irwing, 2008",
     "Lynn & Irwing, 2008": "Lynn & Irwing, 2008",
@@ -16944,6 +16952,7 @@
     "Moreno-Gómez, 2019": "Moreno-Gómez, 2019",
     "Morera (2016)": "Morera, 2016",
     "Morera, 2016": "Morera, 2016",
+    "Morgan (1978)": "Morgan, 1978",
     "Morgan (1988)": "Morgan, 1988",
     "Morgan (1999)": "Morgan, 1999",
     "Morgan (2002)": "Morgan, 2002",
@@ -16952,6 +16961,7 @@
     "Morgan (2019)": "Morgan, 2019",
     "Morgan et al. (2019)": "Morgan et al., 2019",
     "Morgan et al., 2019": "Morgan et al., 2019",
+    "Morgan, 1978": "Morgan, 1978",
     "Morgan, 1988": "Morgan, 1988",
     "Morgan, 1999": "Morgan, 1999",
     "Morgan, 2002": "Morgan, 2002",
@@ -20330,6 +20340,8 @@
     "Robert K. Merton (1972)": "Robert K. Merton, 1972",
     "Robert K. Merton, 1968": "Robert K. Merton, 1968",
     "Robert K. Merton, 1972": "Robert K. Merton, 1972",
+    "Robert L. Gilmore (1964)": "Robert L. Gilmore, 1964",
+    "Robert L. Gilmore, 1964": "Robert L. Gilmore, 1964",
     "Robert Lieberman (2006)": "Robert Lieberman, 2006",
     "Robert Lieberman, 2006": "Robert Lieberman, 2006",
     "Robert Linn (2003)": "Robert Linn, 2003",
@@ -30310,6 +30322,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Videocase-based learning and analysis in teacher education: A meta-analysis."
+    },
+    "Aira Kemiläinen, 1964": {
+      "aliases": [
+        "Aira Kemiläinen, 1964",
+        "Aira Kemiläinen (1964)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Aira Kemiläinen, 1964"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Climatic Determinism.md"
+      ],
+      "title": ""
     },
     "Airasian, 2001": {
       "aliases": [
@@ -50241,6 +50268,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Improving Early Language and Literacy Skills  Differential Effects of an Oral Language Versus a Phonology with Reading Intervention"
+    },
+    "Boxer, 1969": {
+      "aliases": [
+        "Boxer, 1969",
+        "Boxer (1969)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Boxer, 1969"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/portugal/Pombaline Reforms.md"
+      ],
+      "title": ""
     },
     "Boyask, 2020": {
       "aliases": [
@@ -118032,6 +118074,21 @@
       ],
       "title": ""
     },
+    "José Murilo de Carvalho, 1982": {
+      "aliases": [
+        "José Murilo de Carvalho, 1982",
+        "José Murilo de Carvalho (1982)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "José Murilo de Carvalho, 1982"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Brazilian Exceptionalism.md"
+      ],
+      "title": ""
+    },
     "Joy, 2003": {
       "aliases": [
         "Joy, 2003",
@@ -138651,6 +138708,21 @@
       "seen_in": [],
       "title": "The Impact of Summer Learning Programs on Low-Income Children's Mathematics Achievement: A Meta-Analysis."
     },
+    "Lynch, 1973": {
+      "aliases": [
+        "Lynch, 1973",
+        "Lynch (1973)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Lynch, 1973"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/spain/Royal Decree on Slaves 1789.md"
+      ],
+      "title": ""
+    },
     "Lynch, 2017": {
       "aliases": [
         "Lynch, 2017",
@@ -151162,6 +151234,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md"
+      ],
+      "title": ""
+    },
+    "Morgan, 1978": {
+      "aliases": [
+        "Morgan, 1978",
+        "Morgan (1978)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Morgan, 1978"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/uk/Dunmore's Proclamation.md"
       ],
       "title": ""
     },
@@ -176003,6 +176090,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/comparative-education/Insider-Outsider Perspective in Comparative Education.md"
+      ],
+      "title": ""
+    },
+    "Robert L. Gilmore, 1964": {
+      "aliases": [
+        "Robert L. Gilmore, 1964",
+        "Robert L. Gilmore (1964)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Robert L. Gilmore, 1964"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Colonial Militia.md"
       ],
       "title": ""
     },

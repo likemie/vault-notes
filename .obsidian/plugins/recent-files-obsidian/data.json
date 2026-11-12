@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Administrative Pilgrimage",
-      "path": "wiki/concepts/political-economy-geopolitics/Administrative Pilgrimage.md"
-    },
-    {
       "basename": "Argument_Anderson_2016_Verso_Ch04",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch04.md"
+    },
+    {
+      "basename": "Simón Bolívar",
+      "path": "wiki/persons/venezuela/Simón Bolívar.md"
+    },
+    {
+      "basename": "Administrative Pilgrimage",
+      "path": "wiki/concepts/political-economy-geopolitics/Administrative Pilgrimage.md"
     },
     {
       "basename": "Argument_Anderson_2016_Verso_Ch05",
@@ -195,10 +199,6 @@
     {
       "basename": "Education Finland",
       "path": "wiki/facts/finland/Education Finland.md"
-    },
-    {
-      "basename": "Disruption Index",
-      "path": "wiki/methods/quantitative/Disruption Index.md"
     }
   ],
   "omittedPaths": [],

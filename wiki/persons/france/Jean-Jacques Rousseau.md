@@ -8,7 +8,7 @@ summary: "法国启蒙思想家与教育哲学家，以《爱弥儿》《社会�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Ideal Learner]]"
   - "[[Progressive Education]]"
   - "[[National Character]]"
+  - "[[Climatic Determinism]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-11-11
+updated: 2026-11-12
 ---
 
 ---
@@ -104,7 +105,7 @@ updated: 2026-11-11
 > - **教育哲学路径** 奠定现代儿童中心与[[Progressive Education|进步教育]]基石，直接启发斐斯泰洛齐（Pestalozzi）、福禄贝尔（Froebel）、[[John Dewey|约翰·杜威]]（John Dewey）与[[Jean Piaget|让·皮亚杰]]（Jean Piaget）的发展阶段认知论；意大利瑞吉欧（Reggio Emilia）教育模式同样延续了其保护儿童自主探究天性的理念。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 34–36)]]
 > - **政治与民主理论路径** 《社会契约论》中的人民主权与公意学说直接滋养了法国大革命与现代共和宪政体制设计。
 > - **西方学习传统定位** 与苏格拉底—培根的怀疑精神并列，为[[Western Learner|西方学习者]]天然好奇心、兴趣与内在享受特质提供根本学理依据。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 33–36)]]
-> - **跨大西洋殖民话语传播** 卢梭关于自然生态与地理气候形塑国民性格的讨论，在近代跨大西洋传播中被欧洲宗主国官僚庸俗化为地理宿命论，用以论证美洲殖民地土生白人智力退化并为其行政排斥提供意识形态掩护。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 60–63)]]
+> - **跨大西洋殖民话语传播** 卢梭关于自然生态与地理气候形塑国民性格的讨论，在近代跨大西洋传播中被欧洲宗主国官僚庸俗化为[[Climatic Determinism|气候决定论]]，用以论证美洲殖民地土生白人智力退化并为其行政排斥提供意识形态掩护。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 60–63)]]
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2012_Cambridge|Li (2012, pp. 33–36)]] — 在梳理西方学习传统脉络中，将卢梭确立为西方学习者内在好奇心、兴趣驱动以及对建制权威开展激进批判倾向的关键理论奠基人。
@@ -149,4 +150,5 @@ updated: 2026-11-11
 > | [[Ideal Learner]] | 概念 | 创设爱弥儿形象，确立以自然节律和感官经验为中心的理想学习者典范。 |
 > | [[Progressive Education]] | 概念 | 奠定消极教育与儿童中心论，直接滋养现代进步主义教育实践。 |
 > | [[National Character]] | 概念 | 探讨气候与地理生态对族群性格的塑造，被后世引申为殖民地行政排斥的论辩材料。 |
+| [[Climatic Determinism]] | 概念 | 启蒙生态学说被宗主国庸俗化为排斥美洲土生臣民的早期生物种族主义意识形态。 |
 > | [[Discourse]] | 概念 | 《论科学与艺术》《论人类不平等的起源》确立批判性政治话语范本。 |
