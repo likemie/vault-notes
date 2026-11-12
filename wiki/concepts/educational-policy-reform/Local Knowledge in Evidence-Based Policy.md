@@ -3,7 +3,8 @@ title: Local Knowledge in Evidence-Based Policy
 aliases:
   - 证据本位政策中的地方知识
   - 地方知识
-summary: "从业者对本地情境、关系网络和实际约束的深入了解，用于说明证据本位政策实施为何离不开地方知识和专业判断。"
+  - 本地知识
+summary: "教育实践者基于特定时空情境、人际网络与组织约束形成的经验性理解与专业判断，是解释外部科学证据为何在特定学校情境中有效或失效的关键认识论基础"
 type: concept
 domain: "educational-policy-reform"
 related_count: 27
@@ -11,11 +12,11 @@ related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
 tags:
-- evidence-based-policy
-- local-knowledge
-- implementation
-- professional-judgement
-- level/k12
+  - evidence-based-policy
+  - local-knowledge
+  - implementation
+  - professional-judgement
+  - level/k12
 related_concepts:
   - "[[Professional Judgment]]"
   - "[[Document]]"
@@ -52,83 +53,105 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-30
+updated: 2026-11-12
 ---
 
-> [!info] 定义
-> 本地知识（Local Knowledge）指从业者通过直接经验、对本地情境的深入了解和[[Professional Judgment\|专业判断]]所形成的知识，它不同于正式科学研究证据，但被多项研究认定为证据本位政策成功实施的不可或缺的组成部分。
+---
+
+> [!def] Local Knowledge in Evidence-Based Policy
+> **证据本位政策中的本地知识（Local Knowledge in Evidence-Based Policy）**，指一线教育从业者通过直接实践经验、对本土情境的深入观察以及[[Professional Judgment|专业判断]]所形成的默会与显性知识体系。在[[Evidence-Based Education|循证教育]]（Evidence-Based Education, EBE）与政策实施研究中，本地知识构成外部通用研究证据与学校具体实践之间的转化中介。研究证据通常揭示干预措施在特定试验样本中的平均因果效力（“在某处有效”），而本地知识则负责回答该干预能否在具备独特资源约束、文化氛围和生源特征的具体学校中落实（“在这里有效”）。[[Argument_Cowen_2015_CHESS|(Cowen et al., 2015, pp. 12–14)]]; [[Argument_Wiliam_2019_ERE|(Wiliam, 2019, pp. 11–13)]]
+
+> [!concept-lens] 概念透镜
+> - **含义** 实践者关于特定时间和地点环境的经验性信息、情境脉络与行动知能。
+> - **用途** 解释跨情境政策移植失败原因，指导学校领导者将外部统计证据与本土组织现实结合。
+> - **边界** 聚焦实施科学中辅助证据落地的专业洞察，区别于脱离实证依据的盲目个人直觉或无反思的传统习惯。
+
+> [!citation-card] 本地知识作为证据知情实践的必要构成（[[Argument_Cowen_2015_CHESS|Cowen et al., 2015]]）
+> 本地知识对于培育和维系学校改进工作至关重要。此外，从业者知识能够通过赋予信息以实践意义并提出可行的行动方案，协助学校利用更具正式性质的研究证据。[[Argument_Cowen_2015_CHESS|(Cowen et al., 2015, p. 14)]]
 >
-> > "Local knowledge... may be essential to growing and sustaining school improvement efforts. Furthermore, practitioner knowledge may help... use the more formal types of evidence... by giving meaning to information and suggesting viable courses of action."（Honig and Coburn, 2007, p.601; 引自 Cowen et al., 2015, p.14）
+> *Local knowledge... may be essential to growing and sustaining school improvement efforts. Furthermore, practitioner knowledge may help... use the more formal types of evidence... by giving meaning to information and suggesting viable courses of action.*
+
+> [!boundary]- 概念边界
+> - 区别于纯经验主义或盲目直觉 — 本地知识必须与外部研究证据开展反思性对话，旨在阐明干预措施在具体时空下的起效机制与边界条件。
+> - 区别于通用科学证据（General Evidence） — 后者依托[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trial, RCT）等方法追求高内部效度与普适性；本地知识根植于具体场域，追求高度的情境相符度。
+
+---
+
+> [!contrast-table] 本地知识与通用科学证据对比
+> | 比较维度 | 证据本位政策中的本地知识 | 通用科学证据（RCT / 元分析） |
+> |---|---|---|
+> | **认识论基础** | 哈耶克“特定时空环境知识”与实践默会知能 | 实证主义因果推断与统计聚合 |
+> | **核心回答问题** | “该方案在我们的学校与学生中能否行得通？” | “该干预在实验群体中平均是否起效？” |
+> | **信息承载主体** | 校长、一线教师、学区管理者与社区成员 | 独立政策研究者、学术团队与证据评级机构 |
+> | **政策应用方式** | 诊断本土阻碍、适配干预细节、调配在地资源 | 确立备选政策清单、设定基线期望效应值 |
+
+---
+
+> [!feature] 本地知识的核心构成
+> - **情境诊断知能** 评估本土群体需求、组织文化、家庭环境与制度约束，确立政策干预要解决的真实痛点。[[Argument_Cowen_2015_CHESS|(Cowen et al., 2015, pp. 23–28)]]
+> - **证据转译与赋义能力** 将抽象的均值[[Effect Size|效应量]]或指南指引，结合本校师资水平、课程节奏与设备条件进行可行性解构。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, pp. 12–13)]]
+> - **实施约束与采购洞察** 掌握产品运维负荷、教师培训时间成本与社区接受度等隐藏实施变量，规避纸面有效但落地失败的风险。[[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, pp. 120–121)]]
+
+> [!logic-map]- 本地知识在证据应用链条中的定位
+> ```mermaid
+> flowchart LR
+>     A["外部通用证据<br>（RCT / 元分析效应）"] --> C["证据转译与校准<br>（本地知识介入）"]
+>     B["学校现场约束<br>（生源 / 师资 / 资源）"] --> C
+>     C --> D["情境化政策决策<br>（方案采纳 / 调适）"]
+>     D --> E["可持续改进成效"]
+> ```
+
+---
+
+> [!concept-proposition] 命题一｜本地知识是从“在某处有效”推向“在这里有效”的关键支撑
+> **因果外推与支持因素识别** 阐明宏观统计效应如何依赖微观情境条件发挥作用。
 >
-> [[Argument_Wiliam_2019_ERE\|Wiliam (2019, pp.12–13)]] 为本地知识的重要性提供了政治经济学基础，引用 Hayek (1945) 的经典论证："只有拥有'特定时间和地点环境的知识'的人才能决定哪些创新可能有效，哪些虽然在其他地方有效但在特定情境中可能无效甚至适得其反。"
+> > [!claim] Wiliam, D.
+> > **特定时空环境的决策逻辑** [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] 引入哈耶克（Hayek, 1945）对“特定时空环境知识”的界定，指出科学研究只能证实某项举措曾在某些地方取得成功，而无法直接推导出其在具体学校必然奏效。例如，小班化政策在教师储备充足的地区能够提升教学质量，但在师资短缺地区盲目铺开则会因被迫录用不合格教师而损害学业产出。一线管理者对本地劳动力市场和学校生态的把握，构成了避免政策南辕北辙的决定性依据。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, pp. 11–13)]]
+
+---
+
+> [!concept-proposition] 命题二｜本地知识在复杂改革评价中主导对实证数据的价值赋义
+> **形成性评价与多元利益博弈** 探讨多方主体如何运用在地经验解释评估数据。
 >
-> > "The knowledge of the particular circumstances of time and place." — Friedrich Hayek (1945, p. 521), 引自 [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.13)]]
+> > [!claim] Ross, S. M. & Morrison, G. R.
+> > **利益相关者的情境化解释** [[Argument_Ross_Morrison_2021_ECNUROE|Ross and Morrison (2021)]] 分析巴尔的摩学区[[Students and Teachers Accessing Tomorrow|STAT 数字化转型]]改革指出，外部研究者产出的评估数据需要经过学区管理层、教师和家长的在地解释。面对标准化测验成绩波动，不同群体结合课堂纪律、技术易用性和学生专注度等本地观察，得出了截然不同的政策满意度结论，证实实证指标的政策意义必须在本土语境中被重新阐释。[[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, pp. 122–123)]]
 
-> [!note-] 历史沿革
-> 本地知识的概念在证据本位政策[[Document|文献]]中经历了从被贬低到被重新评价的过程。早期 EBP 推动者倾向于将本地知识和[[Professional Judgment\|专业判断]]视为需要被科学证据取代的"轶事"或"直觉"([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.14]])。然而，随着实施研究的积累，越来越多的证据表明缺乏本地知识的纯证据驱动方案往往在实践中失败。Oliver et al. (2014) 对 145 项研究的[[Systematic Review\|系统综述]]发现"非正式证据"——包括本地数据和[[Tacit Knowledge|默会知识]]——在超过三分之一的研究中被认为是成功实施的关键因素([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.12]])。
+---
 
-> [!abstract] 核心要素
-> 本地知识不是“凭感觉反对研究”，而是把外部证据翻译成可行动判断时必须补上的情境信息。它至少包含三类知识：情境诊断知识、证据翻译知识、采购与实施知识。
+> [!dev-timeline] 概念演变脉络
+> - **1990 年代 — 技术理性的贬抑期** 早期循证政策倡导者推崇严格量化实验，将教师经验和地方知识视作缺乏科学依据的“轶事”或需要被纠正的偏见。[[Argument_Cowen_2015_CHESS|(Cowen et al., 2015, p. 14)]]
+> - **2000 年代中叶 — 实施科学的重新发现** 随着跨地区政策推广频频受挫，系统综述表明缺乏本土数据和[[Tacit Knowledge|默会知识]]支撑的项目失败率居高不下，地方情境被重新纳入学界视野。[[Argument_Cowen_2015_CHESS|(Cowen et al., 2015, p. 12)]]
+> - **2010 年代至今 — 证据知情实践的互补共识** 政策学界转向[[Evidence-Informed Practice|证据知情实践]]，主张通用科研证据与专业情境判断深度整合，确立本地知识在政策转化链条中的合法地位。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, pp. 11–13)]]
 
-### 情境诊断知识
+---
 
-本地知识首先帮助学校判断“我们到底面对什么问题”。它包括对学生群体特征、学校文化、个别学生需求、[[Home Environment|家庭环境]]、社区政治和制度约束的具体了解([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, pp.23-28]])。如果没有这一步，学校可能把一个外地有效的方案用于自己并不真正面对的问题上；Wiliam 因此把“这解决我们面临的问题吗？”放在[[Research Utilization|证据使用]]的第一个问题([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.12]])。
-
-### 证据翻译知识
-
-本地知识的第二个功能是给研究证据“赋义”：抽象研究发现只有经过从业者解释，才会变成可执行的行动方案([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.14]])。例如，一个项目的平均[[Effect Size|效应量]]较高，并不自动说明它适合本校；学校还要判断研究学校、教师能力、学生构成、课程节奏和资源条件是否与本地足够接近([[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.12-13]])。
-
-### 采购与实施知识
-
-在学校采购层面，教育产品消费者不仅需要“是否有效”的结论，还需要产品特征、实施要求、使用满意度、成本、潜在结果和情境相关性等信息。实践者偏好同伴推荐和本地试点，并不只是因为他们“不懂研究”，也因为这些渠道常常更快提供学校持续实施必须知道的信息([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp.120-121]])。
-
-> [!example|notitle]
-> 如果一个数字学习平台在研究中有显著正向效果，校长仍需要知道：教师每天要花多少准备时间？学生是否愿意持续使用？旧设备能否运行？家长是否支持？这些问题不是[[Statistical Significance\|统计显著性]]能直接回答的，而是本地知识进入[[Evidence-Informed Practice\|证据知情实践]]的地方([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.120-121]])。
-
-
-> [!abstract] [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] 的四个决策问题框架中的本地知识
-> [[Argument_Wiliam_2019_ERE\|Wiliam (2019, pp.11–12)]] 提出的四个决策问题中，第四个——**"它在这里有效吗？"**——直接涉及本地知识的不可替代性。Wiliam 的论证：只有拥有 Hayek (1945) "特定时间和地点环境的知识"的人才能判断：
-> - 班级缩减在教师招聘困难的地区甚至可能降低学生成就
-> - 在教师供应充足的地区则可能非常有效
-> - 这种判断无法从平均效应量中推导出来——它需要对本地教师劳动力市场、学校文化和制度的深入了解([[Argument_Wiliam_2019_ERE\|Wiliam, 2019, pp.12–13]])
+> [!debates] 学术争议
 >
-> 第一个问题——**"这解决我们面临的问题吗？"**——同样依赖本地知识：不同国家面临不同问题。低收入国家教师缺勤率超过 30%，按绩效付薪可能有帮助（Duflo, Hanna, & Ryan, 2012）；但富裕国家教师已经到岗，此类激励不太可能有效。不首先诊断本地问题就应用"证据本位"方案等同于"对没有问题的问题寻找解决方案"。([[Argument_Wiliam_2019_ERE\|Wiliam, 2019, p.12]])
+> > [!axis] 主观直觉偏误风险 vs 现实不可或缺性
+> > 探讨在政策制定中过度倚重本地知识是否会导致科学证据被架空。
+> >
+> > - **批评观点** 担忧一线人员容易将未经检验的个人偏见冠以“本地知识”之名，阻碍实证有效的教学革新。
+> > - **辩护立场（[[Argument_Cowen_2015_CHESS|Cowen et al., 2015]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019]]）** 强调本地知识在实践中充当科学证据的“解释镜”，二者结合方能实现从实验室结论到真实课堂的有效跨越。
 
-> [!example] 与相关概念的区别
-> - vs [[Evidence-Based Education]] — EBE 强调正式科学研究证据的优先性，本地知识则强调从业者经验判断在证据实施中的不可替代性
-> - vs [[Programme Fidelity vs Adaptation]] — 本地知识是判断何时需要适应以及如何适应的认知基础
-> - vs [[Cartwright's Three-Stage Knowledge Framework]] — 本地知识是从阶段二（capacity claims）推进到阶段三（it-will-work-for-us）的关键输入
+> [!warning|limits] 适用局限
+> 本概念主要适用于教育政策采纳、学区改革实施与组织管理决策场景，不适宜用来否定基础脑科学或严格心理物理学测量等具有高度跨情境稳定性的通用认知规律。
 
-> [!info] 理论基础
-> - [[Cartwright's Three-Stage Knowledge Framework]] — [[Randomised Controlled Trials\|RCT]] 不能自动告诉你"在这里是否有效"，这个判断需要理解本地支持因素，而本地支持因素只能通过本地知识来识别
-> - Dewey [[Pragmatic Paradigm\|实用主义]][[Epistemology\|认识论]] — 知识的价值在于其对具体情境中行动的指导能力
-> - Hayek (1945) 的[[Knowledge Questions\|知识问题]] — [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] 引入 Hayek 的经典论证：社会中关键知识是分散的、默会的、情境特定的——"特定时间和地点环境的知识"无法被任何中央权威汇总或替代。这为本地知识在 EBP 中的角色提供了政治经济学基础([[Argument_Wiliam_2019_ERE\|Wiliam, 2019, pp.12–13]])
+---
 
-> [!success] 实证发现
-> - Oliver et al. (2014) 对 145 项研究的综述发现："非正式证据"（本地数据、[[Tacit Knowledge|默会知识]]）在超过三分之一的研究中被列为成功实施的关键([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.12]])
-> - Honig and Coburn (2007) 对 50+ 项研究的综述发现：学区中央办公室管理者严重依赖从业者知识和本地知识([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.14]])
-> - 教师访谈中几乎所有受访者都强调了本地情境因素([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.27-28]])
-> - Tennessee STAR 案例：参与学校系统性不同于全州平均——规模更大、非裔学生比例高出 40%（Hanushek, 1999）——忽视这一本地特征导致加州对"STAR 成功可复制"的错误假设([[Argument_Wiliam_2019_ERE\|Wiliam, 2019, p.6]])
-> - [[Students and Teachers Accessing Tomorrow]] 案例显示，同一组[[Formative Program Evaluation\|形成性项目评价]]证据会因为利益相关者重视的目标不同而被解释为“进展明显”或“成就无效”；这说明本地知识也包含对地方价值排序的理解([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.122-123]])。
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Evidence-Based Education]] | 概念 | 本地知识提供实施情境脉络，与循证教育的技术理性形成认识论互补。 |
+> | [[Evidence-Informed Practice]] | 概念 | 将本地知识与科学研究证据并重整合的政策实践模式。 |
+> | [[Professional Judgment]] | 概念 | 实践者运用本地知识权衡利弊并形成行动决断的专业知能。 |
+> | [[Cartwright's Three-Stage Knowledge Framework]] | 理论 | 为本地知识协助因果证据从一般效力推进到本土有效提供分析框架。 |
+> | [[Tacit Knowledge]] | 概念 | 本地知识的核心构成形态，体现为不易言传的组织文化与直觉洞察。 |
 
-> [!warning] 争议与批评
-> - **本地知识的[[Reliability\|可靠性]]问题** 有批评认为本地知识本质上是主观的、可能充满认知偏差的，将其与科学证据并列可能导致以"直觉"为名的低效甚至有害实践
-> - **被忽视不等于被否定**[[Argument_Cowen_2015_CHESS\|Cowen et al. (2015)]] 并不主张用本地知识取代研究证据，而是主张二者互补。[[Argument_Wiliam_2019_ERE\|Wiliam (2019, p.11)]] 强化了这一立场："不存在识别和传播'什么有效'的客观程序"——利益相关者必须成为批判性消费者，将研究证据与本地知识结合运用
-> - **Hayek 框架的局限** 将 Hayek 的价格系统类比应用于教育[[Knowledge Integration\|知识整合]]可能存在局限——教育领域的"知识"不像市场价格那样有自然聚合机制
+---
 
-> [!example] 如何读这些案例
-> 本地知识的案例可以按功能理解：有些案例显示证据工具如何需要地方解释，有些案例显示外地证据为什么不能直接移植，有些案例显示同一组证据会被地方价值排序重新解释。
-
-### 证据工具的地方解释
-
-- [[EEF Teaching and Learning Toolkit]] — 作为外部证据工具，它仍需要学校判断“它在这里有效吗”，即结合学生群体、教师资源和实施条件重新解释([[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.12-13]])。
-
-### 外推失败与情境差异
-
-- [[Tennessee STAR Project 1985-1989]] — 参与学校的本地特征使其结果不可直接外推；参与学校规模更大，非裔学生比例也高于全州平均([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.6]])。
-- [[California Class Size Reduction 1996]] — 加州推广小班改革时忽视教师和教室供给条件，说明“在某处有效”的证据需要经过本地可行性判断([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.6]])。
-
-### 复杂改革的地方解释
-
-- [[Students and Teachers Accessing Tomorrow]] — [[Technology Infusion|技术整合]]改革中，形成性数据、成就结果和地方价值目标共同影响证据解释；具体评价结果和争议集中写在 STAT 条目中([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp.122-123]])。
-
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] — 引入哈耶克“特定时空环境知识”命题，论证地方知识是解答“在特定情境是否有效”的决定性依据（pp. 11–13）。
+> - [[Argument_Cowen_2015_CHESS|Cowen et al. (2015)]] — 结合实施研究综述，阐明从业者本地知识在学校改进政策落地与外部证据赋义中的必要支撑功能（pp. 12–14）。
+> - [[Argument_Ross_Morrison_2021_ECNUROE|Ross and Morrison (2021)]] — 以学区数字化转型改革为案例，展现不同利益主体如何依托本地关切对形成性评价证据展开差异化解读（pp. 120–123）。
