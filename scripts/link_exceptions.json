@@ -784,5 +784,27 @@
       "sentence": "最终，早期革命在印刷文本中被淘洗为包含共和政体、大众主权与公民权等要素的通用蓝图；这套无法申请专利的发明在供后发势力任意盗版的同时，凭借内在逻辑倒逼统治阶层废除农奴制度、普及全民教育并扩张普选权。",
       "target": "wiki/facts/global/Education for All.md"
     }
+  ],
+  "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch06.md": [
+    {
+      "sentence": "**万世一系的天皇神圣象征权威** 消除统治家族异质性与外来王统争议，将神圣天命无缝缝合至近代国民军队与国家政体。",
+      "target": "wiki/concepts/research-methodology/Heterogeneity.md"
+    },
+    {
+      "sentence": "**军工动员的历史收获** 1894–1895年甲午战争击败清朝并割占台湾、1905年日俄战争击败沙皇海军，极大地向日本国民灌输了明治寡头代表真正民族利益的自豪感（p.",
+      "target": "wiki/concepts/chinese-philosophy/Pride in Learning.md"
+    },
+    {
+      "sentence": "加之效仿1885年柏林会议列强瓜分非洲所确立的大国必有海外殖民帝国范式，日本迅速将防御性自保转为对朝鲜、台湾与中国大陆的侵略扩张（pp.",
+      "target": "wiki/concepts/educational-philosophy/Paradigm.md"
+    },
+    {
+      "sentence": "为了给这批没有竞争力的乡绅阶层编造领薪闲职，统治者将占人口近半的非马扎尔少数族群描绘为危险动乱源头，推行极端残酷的马扎尔化同化政策（pp.",
+      "target": "wiki/concepts/university-industry-collaboration/Competitiveness.md"
+    },
+    {
+      "sentence": "**中间机制一：同化教育培育出精通现代主权与历史知识的本土精英**",
+      "target": "wiki/concepts/chinese-philosophy/Refined Mastery.md"
+    }
   ]
 }
