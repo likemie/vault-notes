@@ -26714,50 +26714,43 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([d
 html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="policy-context"],[data-callout="challenges"],[data-callout="actor-grid"],[data-callout="framework"],[data-callout="lessons"],[data-callout="policy-design"],[data-callout="pathways"]) > .callout-content > :is(ul,ol) > li > p { margin:0 !important; padding:0 !important; border:0 !important; background:none !important; font:inherit !important; color:inherit !important; opacity:1 !important; box-shadow:none !important; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="policy-context"],[data-callout="challenges"],[data-callout="actor-grid"],[data-callout="framework"],[data-callout="lessons"],[data-callout="policy-design"],[data-callout="pathways"]) > .callout-content > :is(ul,ol) > li > p + p { margin-top:.35rem !important; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="policy-context"],[data-callout="challenges"],[data-callout="actor-grid"],[data-callout="framework"],[data-callout="lessons"],[data-callout="policy-design"],[data-callout="pathways"]) > .callout-content > :is(ul,ol) > li > strong:first-of-type + br,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="policy-context"],[data-callout="challenges"],[data-callout="actor-grid"],[data-callout="framework"],[data-callout="lessons"],[data-callout="policy-design"],[data-callout="pathways"]) > .callout-content > :is(ul,ol) > li > p:first-of-type > strong:first-child + br { display:none !important; }
-/* Policy context pairs compact labels with a continuous reading surface. */
+/* Policy context fields form a compact matrix on wider panes. */
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="policy-context"] > .callout-content > :is(ul,ol) {
-  --policy-label-column:clamp(7.25rem, 22cqi, 10rem);
-  --policy-field-padding:.82rem;
+  display:grid !important;
+  grid-template-columns:minmax(0,1fr) !important;
+  gap:1px !important;
   border:1px solid var(--pa-edge) !important;
   border-radius:6px !important;
+  background:var(--pa-edge) !important;
   overflow:hidden;
 
   & > li {
-    border-top:1px solid var(--background-modifier-border) !important;
-    padding:.62rem var(--policy-field-padding) !important;
+    padding:.7rem .85rem .78rem !important;
+    border:0 !important;
+    background-color:var(--ac-paper) !important;
   }
-
-  & > li:first-child { border-top:0 !important; }
 
   & > li > strong:first-child,
   & > li > p:first-of-type > strong:first-child {
+    width:fit-content !important;
+    max-width:100% !important;
     font:650 .9em/1.55 var(--ac-sans) !important;
-    margin-bottom:.22rem !important;
+    margin-bottom:.32rem !important;
+    padding:.1rem .42rem !important;
+    border-radius:4px !important;
+    background-color:color-mix(in srgb,var(--pa-accent) 14%,var(--ac-paper)) !important;
     overflow-wrap:anywhere;
   }
 }
 @container (min-width:601px) {
-  html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="policy-context"] > .callout-content > :is(ul,ol) > li:has(> strong:first-child, > p:first-of-type > strong:first-child) {
-    padding-inline-start:calc(var(--policy-label-column) + var(--policy-field-padding)) !important;
-    background-image:linear-gradient(to right,
-      color-mix(in srgb,var(--pa-accent) 9%,transparent) var(--policy-label-column),
-      transparent var(--policy-label-column)) !important;
-
-    & > strong:first-child,
-    & > p:first-of-type > strong:first-child {
-      float:inline-start !important;
-      width:calc(var(--policy-label-column) - 2 * var(--policy-field-padding)) !important;
-      margin:0 var(--policy-field-padding) 0 calc(-1 * var(--policy-label-column)) !important;
-    }
-
-    &::after {
-      content:"" !important;
-      display:block !important;
-      position:static !important;
-      clear:both;
-      width:0;
-      height:0;
-    }
+  html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="policy-context"] > .callout-content > :is(ul,ol) {
+    grid-template-columns:repeat(2,minmax(0,1fr)) !important;
+    & > li:last-child:nth-child(odd) { grid-column:1 / -1 !important; }
+  }
+}
+@media (hover:hover) {
+  html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="policy-context"] > .callout-content > :is(ul,ol) > li:is(:hover,:focus-within) {
+    background-color:color-mix(in srgb,var(--pa-accent) 8%,var(--ac-paper)) !important;
   }
 }
 /* Preserve explicit numbering; challenge rows share the reading surface, without a side rail. */

@@ -8,7 +8,7 @@ aliases:
 summary: "本尼迪克特·安德森在《想象的共同体》中提出的核心概念，指民族与民族国家作为18世纪末在特定历史力量交汇下生成的文化人造物，一旦定型便具备了可移植的模块化特征，能够被不同历史条件与意识形态星座借用、调整并在全球各类社会土壤中广泛扩散。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -32,10 +32,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch01]]"
+  - "[[Argument_Anderson_2016_Verso_Ch05]]"
 confidence: high
 status: active
 created: 2026-11-10
-updated: 2026-11-12
+updated: 2026-11-13
 ---
 
 ---
@@ -110,4 +111,4 @@ updated: 2026-11-12
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]] — 提出民族属于模块化文化人造物（[[Argument_Anderson_2016_Verso_Ch01|第1章]]）；阐明印刷媒介将革命经验提炼为现成盗版蓝图与规范约束（[[Argument_Anderson_2016_Verso_Ch05|第5章]]）。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 提出民族属于模块化文化人造物（[[Argument_Anderson_2016_Verso_Ch01|第1章]]）；阐明印刷媒介将革命经验提炼为现成盗版蓝图与规范约束（[[Argument_Anderson_2016_Verso_Ch05|第5章]]）。

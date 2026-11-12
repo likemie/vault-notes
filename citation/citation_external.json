@@ -11363,6 +11363,8 @@
     "Hugh Heclo, 1978": "Hugh Heclo, 1978",
     "Hugh Lauder (2007)": "Hugh Lauder, 2007",
     "Hugh Lauder, 2007": "Hugh Lauder, 2007",
+    "Hugh Seton-Watson (1977)": "Hugh Seton-Watson, 1977",
+    "Hugh Seton-Watson, 1977": "Hugh Seton-Watson, 1977",
     "Hughes & Kitson (2012)": "Hughes & Kitson, 2012",
     "Hughes & Kitson, 2012": "Hughes & Kitson, 2012",
     "Hughes & Way (2008)": "Hughes & Way, 2008",
@@ -111060,6 +111062,21 @@
       ],
       "title": ""
     },
+    "Hugh Seton-Watson, 1977": {
+      "aliases": [
+        "Hugh Seton-Watson, 1977",
+        "Hugh Seton-Watson (1977)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hugh Seton-Watson, 1977"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch05.md"
+      ],
+      "title": ""
+    },
     "Hughes & Kitson, 2012": {
       "aliases": [
         "Hughes & Kitson, 2012",
@@ -187829,7 +187846,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch05.md",
         "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch06.md",
         "wiki/concepts/political-economy-geopolitics/Nationalism.md",
         "wiki/facts/finland/Russification of Finland.md",

@@ -8,7 +8,7 @@ summary: "德国罗曼语文学家与比较文学家，代表作《摹仿论》�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 7
+person_related_count: 8
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -33,10 +33,11 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
+  - "[[Argument_Anderson_2016_Verso_Ch05]]"
 confidence: high
 status: active
 created: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---
@@ -77,10 +78,10 @@ updated: 2026-11-11
 
 > [!influence-path] 影响路径
 > - **理论路径** 确立了西方语文学与历史阐释学传统，深刻启迪了爱德华·萨义德（Edward Said）的世界主义批评与比较文学阐释框架。
-> - **对民族主义研究的启发** 安德森在《想象的共同体》第二章直接借用奥尔巴赫对《摹仿论》中图型解释学的提炼，作为理解中世纪宗教共同体垂直时间感知、反衬现代齐一空洞时间与民族意识萌发的核心理论支点。
+> - **对民族主义研究的启发** 安德森在《想象的共同体》第二章直接借用奥尔巴赫对《摹仿论》中图型解释学的提炼，作为理解中世纪宗教共同体垂直时间感知、反衬现代齐一空洞时间与民族意识萌发的核心理论支点；在第五章进一步援引其对17世纪末法国古今之争的论述，阐明现代文化如何摆脱对古典古代的模仿，确立自身历史纵深与独立合法性。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch02|Anderson (2016)]] — 细致援引奥尔巴赫关于图型解释学与垂直预表时间的经典界定，论证前现代宗教共同体时间意识与现代齐一空洞时间的断裂（pp. 23–24）。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 在[[Argument_Anderson_2016_Verso_Ch02|第2章]]援引其图型解释学界定垂直预表时间（pp. 23–24）；在[[Argument_Anderson_2016_Verso_Ch05|第5章]]援引其对古今之争的剖析，阐明现代文化摆脱古典权威确立自主合法性的机制（pp. 70–71）。
 
 ---
 
