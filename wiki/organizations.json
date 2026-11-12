@@ -2535,6 +2535,17 @@
         "Palantir Technologies Inc."
       ]
     },
+    "Philike Hetairia": {
+      "path": "wiki/facts/greece/Philike Hetairia.md",
+      "names": [
+        "Philike Hetairia",
+        "友谊社",
+        "希腊友谊社",
+        "希腊友谊会",
+        "Filiki Eteria",
+        "Society of Friends"
+      ]
+    },
     "PISA Governing Board": {
       "path": "wiki/facts/global/PISA Governing Board.md",
       "names": [
@@ -3503,6 +3514,11 @@
     "Government Office for Science": {
       "seen_in": [
         "wiki/facts/uk/Areas of Research Interest.md"
+      ]
+    },
+    "Habsburg Monarchy": {
+      "seen_in": [
+        "wiki/facts/austria/Joseph II 1780s Language Decree.md"
       ]
     },
     "Holy See": {

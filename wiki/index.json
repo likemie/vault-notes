@@ -30342,6 +30342,28 @@
     ]
   },
   {
+    "title": "Josef Dobrovský",
+    "type": "person",
+    "path": "wiki/persons/czech/Josef Dobrovský.md",
+    "aliases": [
+      "约瑟夫·多布罗夫斯基",
+      "多布罗夫斯基",
+      "Dobrovský, J.",
+      "Josef Dobrovsky"
+    ]
+  },
+  {
+    "title": "Josef Jungmann",
+    "type": "person",
+    "path": "wiki/persons/czech/Josef Jungmann.md",
+    "aliases": [
+      "约瑟夫·永曼",
+      "永曼",
+      "约瑟夫·荣曼",
+      "Jungmann, J."
+    ]
+  },
+  {
     "title": "Bengt-Åke Lundvall",
     "type": "person",
     "path": "wiki/persons/denmark/Bengt-Åke Lundvall.md",
@@ -31259,6 +31281,18 @@
     ]
   },
   {
+    "title": "Adamantios Koraes",
+    "type": "person",
+    "path": "wiki/persons/greece/Adamantios Koraes.md",
+    "aliases": [
+      "阿达曼蒂奥斯·科拉伊斯",
+      "科拉伊斯",
+      "Koraes, A.",
+      "Adamantios Korais",
+      "Coray"
+    ]
+  },
+  {
     "title": "Aristotle",
     "type": "person",
     "path": "wiki/persons/greece/Aristotle.md",
@@ -31646,6 +31680,17 @@
       "Robinson, V. M. J.",
       "Viviane M. J. Robinson",
       "维维安·罗宾逊"
+    ]
+  },
+  {
+    "title": "Ivar Aasen",
+    "type": "person",
+    "path": "wiki/persons/norway/Ivar Aasen.md",
+    "aliases": [
+      "伊瓦尔·奥森",
+      "奥森",
+      "Aasen, I.",
+      "Ivar Andreas Aasen"
     ]
   },
   {
@@ -33177,6 +33222,17 @@
       "威廉·布莱克斯通",
       "布莱克斯通",
       "Blackstone, W."
+    ]
+  },
+  {
+    "title": "William Jones",
+    "type": "person",
+    "path": "wiki/persons/uk/William Jones.md",
+    "aliases": [
+      "威廉·琼斯",
+      "威廉·琼斯爵士",
+      "Jones, W.",
+      "Sir William Jones"
     ]
   },
   {
@@ -36747,6 +36803,20 @@
     "subtype": "program"
   },
   {
+    "title": "Joseph II 1780s Language Decree",
+    "type": "fact",
+    "path": "wiki/facts/austria/Joseph II 1780s Language Decree.md",
+    "aliases": [
+      "约瑟夫二世德语同化政令",
+      "约瑟夫二世德语行政政令",
+      "1784年哈布斯堡德语令",
+      "约瑟夫二世德语政令",
+      "Joseph II Germanization Decree",
+      "Joseph II 1784 Language Decree"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Schulqualität Allgemeinbildung",
     "type": "fact",
     "path": "wiki/facts/austria/Schulqualität Allgemeinbildung.md",
@@ -39425,6 +39495,18 @@
     "subtype": "event"
   },
   {
+    "title": "Quarrel of the Ancients and the Moderns",
+    "type": "fact",
+    "path": "wiki/facts/france/Quarrel of the Ancients and the Moderns.md",
+    "aliases": [
+      "古今之争",
+      "17世纪末法国古今之争",
+      "Battle of the Ancients and Moderns",
+      "Querelle des Anciens et des Modernes"
+    ],
+    "subtype": "event"
+  },
+  {
     "title": "Revue encyclopédique",
     "type": "fact",
     "path": "wiki/facts/france/Revue encyclopédique.md",
@@ -42001,6 +42083,19 @@
       "World Education Reform Database (WERD)"
     ],
     "subtype": "program"
+  },
+  {
+    "title": "Philike Hetairia",
+    "type": "fact",
+    "path": "wiki/facts/greece/Philike Hetairia.md",
+    "aliases": [
+      "友谊社",
+      "希腊友谊社",
+      "希腊友谊会",
+      "Filiki Eteria",
+      "Society of Friends"
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Haitian Revolution",

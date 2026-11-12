@@ -8,6 +8,11 @@ aliases:
 summary: "捷克语文学家、历史学家与斯拉夫学奠基人，被誉为‘斯拉夫学之父’。通过撰写《波希米亚语言与古代文学史》等系统著作，科学清理斯拉夫古文献与捷克语文法规则，将沦落为乡村平民土语的捷克方言升格为现代学术研究与规范书面语的核心载体；本尼迪克特·安德森在《想象的共同体》中将其视为19世纪初中欧学者将边缘口语方言锻造为印刷民族语言的先驱代表。"
 type: person
 nationality: czech
+person_region: "czech"
+person_related_count: 9
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: 1753
 died: 1829
 lifespan: "1753–1829"
@@ -74,7 +79,7 @@ updated: 2026-11-13
 > 语言是民族历史经验的真实印记，其规范性必须建立在严谨的文献考据与客观语言学法则之上。方言土语若要摆脱粗俗地位并重获文化合法性，必须依靠学者通过文献学方法厘清古代经典手稿中的纯正语法体系，剔除口语中未经反思的杂质与外来讹误。多布罗夫斯基秉持启蒙理性的客观科学精神，始终坚持用德文和拉丁文撰写学术专著，坚信对母语遗产的理性求真与科学记录本身便是对本土文化尊严的最大捍卫。
 
 > [!citation-card] 西顿-沃森论多布罗夫斯基的学术功绩
-> 休·西顿-沃森指出，多布罗夫斯基以无可挑剔的批判学术水准，将捷克语文学置于欧洲启蒙学术的前沿；他为下一代激进文人将捷克语全面投入公共政治与文学创作筑牢了不可动摇的语言学底座。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, p. 75, n. 16)]]
+> 休·西顿-沃森指出，多布罗夫斯基以无可挑剔的批判学术水准，将捷克语文学置于欧洲启蒙学术的前沿；他为下一代激进文人将捷克语全面投入公共政治与文学创作确立了规范坚固的语言学基础。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, p. 75, n. 16)]]
 >
 > *Dobrovský established Czech philology on rigorous foundations, providing the indispensable linguistic infrastructure for the subsequent national revival.*
 

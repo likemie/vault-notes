@@ -8,6 +8,11 @@ aliases:
 summary: "英国东方学家、比较语文学先驱与法学家，加尔各答亚洲学会创立者。1786年通过对梵语、古希腊语与拉丁语等语言结构特征的系统比较，证实印欧语系的共同起源，开创了现代比较历史语言学范式；本尼迪克特·安德森在《想象的共同体》中将其梵语发现视为语文学打破圣经创世记神学谱系、引发欧洲圣语去神圣化与世俗语言平等革命的关键转折点。"
 type: person
 nationality: uk
+person_region: "uk"
+person_related_count: 9
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: 1746
 died: 1794
 lifespan: "1746–1794"
@@ -46,7 +51,7 @@ updated: 2026-11-13
 > - **代表贡献** 创立加尔各答亚洲学会（Asiatick Society of Bengal），发表关于梵语与印欧语系亲缘关系的演说，将演化分析方法奠定为现代语言科学的核心基石。
 
 > [!citation-card] 威廉·琼斯论梵语与古典欧洲语言的同源性
-> 无论梵语多么古老，其结构皆展现出令人赞叹的精妙：它比希腊语更为完备，比拉丁语更为丰富，比两者都更为精致细腻；然而在动词词根与语法形态上，它与两者展现出如此显著的亲缘关系，绝非出于偶然；任何语文学家在审视这三者时，都必然得出它们发源于某个现已不复存在的共同母体的结论。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, p. 72, n. 7)]]
+> 无论梵语多么古老，其结构皆展现出令人赞叹的精妙：它比希腊语更为完备，比拉丁语更为丰富，比两者都更为精致细腻；然而在动词词根与语法形态上，它与两者展现出如此显著的亲缘关系，具有必然的系统渊源；任何语文学家在审视这三者时，都必然得出它们发源于某个现已不复存在的共同母体的结论。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, p. 72, n. 7)]]
 >
 > *The Sanscrit language, whatever be its antiquity, is of a wonderful structure; more perfect than the Greek, more copious than the Latin, and more exquisitely refined than either, yet bearing to both of them a stronger affinity, both in the roots of verbs and the forms of grammar, than could possibly have been produced by accident; so strong indeed, that no philologer could examine them all three, without believing them to have sprung from some common source, which, perhaps, no longer exists.*
 
@@ -74,7 +79,7 @@ updated: 2026-11-13
 ---
 
 > [!claim] 核心思想
-> 语言不是神明赐予先验选民的神圣恩典，而是人类在漫长历史中自然演进、分化和流变的经验符号体系。梵语的语法精密性与悠久历史雄辩地证实，欧亚大陆各大古代文明在发生学层面存在平行的演化源流；古典三大圣语（希伯来语、希腊语、拉丁语）并不享有凌驾于世俗语言之上的本体论特权。比较语文学的核心使命在于通过严格的历时演化追踪与共时结构对照，还原人类语言分化的自然演变树谱，从而将人文学科置于理性演化科学的基础之上。
+> 语言属于人类在漫长历史交往中自然演进、分化和流变的世俗经验符号体系。梵语的语法精密性与悠久历史雄辩地证实，欧亚大陆各大古代文明在发生学层面存在平行的演化源流；古典三大圣语（希伯来语、希腊语、拉丁语）并不享有凌驾于世俗语言之上的本体论特权。比较语文学的核心使命在于通过严格的历时演化追踪与共时结构对照，还原人类语言分化的自然演变树谱，从而将人文学科置于理性演化科学的基础之上。
 
 > [!citation-card] 霍布斯鲍姆论琼斯的语文学突破
 > 埃里克·霍布斯鲍姆指出，伴随1786年威廉·琼斯爵士对梵语的开创性发现以及孟加拉亚洲学会的成立，语文学成为全人类思想史上第一门真正将演化机制置于其分析核心的现代科学。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, p. 72, n. 7)]]
