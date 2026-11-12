@@ -14406,6 +14406,8 @@
     "Leong et al. (2015)": "Leong et al., 2015",
     "Leong et al., 2015": "Leong et al., 2015",
     "Leong, 1981": "Leong, 1981",
+    "Leont'ev (1978)": "Leont'ev, 1978",
+    "Leont'ev, 1978": "Leont'ev, 1978",
     "Leopold (2015)": "Leopold, 2015",
     "Leopold, 2015": "Leopold, 2015",
     "Leow (2009)": "Leow, 2009",
@@ -64978,8 +64980,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Educational Research Review/Argument_Chen_Cheung_2025_ERR.md",
-        "wiki/theories/educational-philosophy/Third Generation Activity Theory.md"
+        "wiki/arguments/journal-articles/Educational Research Review/Argument_Chen_Cheung_2025_ERR.md"
       ],
       "title": ""
     },
@@ -117502,8 +117503,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Educational Research Review/Argument_Chen_Cheung_2025_ERR.md",
-        "wiki/theories/educational-philosophy/Third Generation Activity Theory.md"
+        "wiki/arguments/journal-articles/Educational Research Review/Argument_Chen_Cheung_2025_ERR.md"
       ],
       "title": ""
     },
@@ -132890,6 +132890,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Meta-analysis of research on the adjunctive use of computers in secondary mathematics"
+    },
+    "Leont'ev, 1978": {
+      "aliases": [
+        "Leont'ev, 1978",
+        "Leont'ev (1978)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Leont'ev, 1978"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/educational-philosophy/Third Generation Activity Theory.md"
+      ],
+      "title": ""
     },
     "Leopold, 2015": {
       "aliases": [
