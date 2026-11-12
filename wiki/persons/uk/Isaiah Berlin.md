@@ -81,7 +81,7 @@ updated: 2026-11-13
 >   - **代表著作** 《卡尔·马克思：他的生平与环境》（*Karl Marx: His Life and Environment*, 1939）。
 >   - **关键概念** 观念史、历史[[Determinism|决定论]]批判。
 >   - **阶段转向** 意识到哲学问题无法脱离具体的历史情境与行动者观念世界。
-> - **1950s — [[Hedgehog and Fox Model|刺猬与狐狸]]认知类型学确立** 借用阿尔基罗库斯诗句，建立统摄型一元论（刺猬）与经验型多元论（狐狸）的分类[[Paradigm|范式]]。
+> - **1950s — [[Hedgehog and Fox Model|刺猬与狐狸]]认知类型学确立** 借用阿尔基罗库斯诗句，建立一元论（刺猬）与经验多元论（狐狸）的分类[[Paradigm|范式]]。
 >   - **代表著作** 《刺猬与狐狸》（*The Hedgehog and the Fox*, 1953）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 159–160)]]
 >   - **关键概念** [[Hedgehog and Fox Model|刺猬与狐狸]]、历史经验多维性。
 >   - **阶段转向** 将文学与历史哲学讨论转化为对人类[[Epistemology|认识论]]与决策风格的深层刻画。
@@ -93,7 +93,7 @@ updated: 2026-11-13
 ---
 
 > [!claim] 核心思想
-> 以赛亚·柏林（Isaiah Berlin）主张，人类的价值追求具有不可[[Commensuration|通约]]的多元性，任何试图用单一终极愿景（意识形态[[Determinism|决定论]]）统摄全部人类经验的构想都会带来灾难。在[[Epistemology|认识论]]上，面对充满偶然与非线性波动的复杂世界，唯有像“狐狸”那样放弃先验的[[Grand Theory|宏大理论]]、保持对多种局部事实的敏锐捕捉与动态适应，才能达成对现实的准确理解。
+> 以赛亚·柏林（Isaiah Berlin）主张，人类的价值追求具有不可[[Commensuration|通约]]的多元性，任何试图用单一终极愿景（意识形态[[Determinism|决定论]]）总揽全部人类经验的构想都会带来灾难。在[[Epistemology|认识论]]上，面对充满偶然与非线性波动的复杂世界，唯有像“狐狸”那样放弃先验的[[Grand Theory|宏大理论]]、保持对多种局部事实的敏锐捕捉与动态适应，才能达成对现实的准确理解。
 
 > [!feature] 思想支柱
 > - **[[Hedgehog and Fox Model|刺猬与狐狸]]的认知二元模型（The Hedgehog and the Fox）** 刺猬将一切归结于单一中心体系与宏大教条，狐狸则追求多样、偶发且经验关联的多元目标；这一模型被[[Philip Tetlock|泰特洛克]]验证为预测复杂地缘与社会系统的关键认知指标。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 159–160)]]
@@ -103,7 +103,7 @@ updated: 2026-11-13
 ---
 
 > [!case] 硅谷作为“终极之狐”：工程[[Epistemology|认识论]]对[[Grand Theory|宏大理论]]的超越
-> - **理论情境** 柏林指出人类思想界始终存在刺猬式一元统摄与狐狸式多维经验的根本对立。
+> - **理论情境** 柏林指出人类思想界始终存在刺猬式一元终极秩序与狐狸式多维经验的根本对立。
 > - **工程转译与应用** [[Alexander Karp|亚历山大·卡普]]（[[Alexander Karp]]）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（[[Nicholas Zamiska]]）指出，硅谷乃至美国科技崛起的深层密码，正是其彻底内化了“终极之狐”（The Consummate Fox）的工程文化：工程师与创始人主动抛弃了宏大的世界哲学与先验教条，只专注于“构建能够实际运行的物理系统与代码”。因为软件的本质是非黑即白的——要么运行，要么崩溃，任何刺猬式的理论姿态与意识形态辩护在冰冷的代码报错面前都毫无意义。这种敏捷、务实与顺应物理反馈的狐狸品格，构成了[[Technological Republic|技术共和国]]战胜教条主义的根本认知优势。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 159–160)]]
 
 ---
@@ -113,7 +113,7 @@ updated: 2026-11-13
 > > [!axis] 价值[[Pluralism|多元主义]] vs 普遍客观伦理规范
 > > 围绕价值[[Incommensurability|不可通约性]]是否会导致道德相对主义展开论争。
 > >
-> > - **柏林多元主义派** 强调不可[[Commensuration|通约]]性不是虚无主义，人类共享一个由基本人性构成的“最低限度道德视界”（Minimum Humane World），但拒绝单一最高善的霸权。
+> > - **柏林多元主义派** 强调不可[[Commensuration|通约]]性有别于虚无主义，人类共享一个由基本人性构成的“最低限度道德视界”（Minimum Humane World），但拒绝单一最高善的霸权。
 > > - **道德一元论与自然法学派** 坚信存在能够通过纯粹理性排序的普世客观价值序列。
 >
 > > [!axis] 狐狸式经验试错 vs 刺猬式宏大战略定力
@@ -130,7 +130,7 @@ updated: 2026-11-13
 > |:-----|:-----|:-----|
 > | [[Hedgehog and Fox Model]] | 理论 | 柏林提出的核心认知与决策风格二[[Meta-analysis\|元分析]]模型。 |
 > | [[Pluralism]] | 理论 | 柏林作为核心代表人物的价值多元主义哲学流派。 |
-> | [[Determinism]] | 概念 | 柏林批判的试图用单一因果法则统摄历史进程的决定论哲学。 |
+> | [[Determinism]] | 概念 | 柏林批判的试图用单一因果法则概括历史进程的决定论哲学。 |
 > | [[Engineering Mindset]] | 概念 | 将“狐狸式经验适应与抛弃宏大教条”确立为技术工程的核心认知法则。 |
 > | [[Philip Tetlock]] | 人物 | 将柏林的刺猬与狐狸隐喻转化为实证专家预测精度研究的政治心理学家。 |
 > | [[Alexander Karp]] | 人物 | 将柏林模型转译为硅谷技术文化与反思意识形态决定论的思想家。 |

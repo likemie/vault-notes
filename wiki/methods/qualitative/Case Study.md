@@ -130,7 +130,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-05-08
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---
@@ -227,6 +227,7 @@ updated: 2026-11-11
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 采用跟踪式个案设计，结合目的抽样与理论抽样分两阶段选取 62 名个案，用以检视叙述可靠性并确证意向与行为的关联。
 > - [[Argument_Wang_2025_CE|Wang and McLaughlin (2025)]] — 以多案例研究设计，从 15 所参与跨文化 [[Learner-Centred Education|LCE]] 教师培训项目的学校中选取 4 所进行深度追踪，对比不同学校在[[Test-Based Accountability|考试问责]]压力下推进 LCE 的路径差异。
+> - [[Argument_He_2018_HEP|He and Wilkins (2018)]] — 采用多案例研究设计，选取老挝苏州大学、厦门大学马来西亚分校与泰国曼谷商学院三所境外分校，对比不同东道国语境下教育软实力的运作差异。
 > - [[Argument_Dezhina_2022_ECO|Dezhina and Egerev (2022)]] — 以多案例研究设计，选取研究人员国际流动、合作规制、基金重组与[[Megascience Installations|大科学装置]]本土化四个切面案例。
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 以四所 NSW 学校为多案例设计，通过访谈、[[Classroom Observation|课堂观察]]和文件分析对比各校 ToK 课程的实施方式，识别出四种差异化的[[Critical Thinking|批判性思维]]教学模式。
 > - [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]] — 以卡拉奇一所私立学校的 [[IB Diploma Programme|IBDP]] 项目为质性案例研究，探究 [[Theory of Knowledge|TOK]] 课程中学习者的自主性角色与[[Knowledge Building Theory|知识建构]]过程。

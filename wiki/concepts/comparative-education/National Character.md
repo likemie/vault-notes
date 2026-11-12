@@ -227,5 +227,5 @@ updated: 2026-11-13
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 系统梳理历史-哲学学派在比较教育中建构国民性格构念的脉络，并清算其方法论缺陷与辉格主义偏误。
-> - [[Argument_Anderson_2016_Verso_Ch04|Anderson (2016, Ch. 04)]] — 揭示18世纪欧陆气候决定论如何被宗主国歪曲为美洲土生白人智力退化偏见并用于合法化仕途闭锁（pp. 62–63）。
+> - [[Argument_Anderson_2016_Verso_Ch04|Anderson (2016, Ch. 04)]] — 揭示18世纪欧陆气候决定论如何被宗主国歪曲为美洲土生白人智力退化偏见并用于合法化仕途阻绝（pp. 62–63）。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 从科技地缘政治与共同体凝聚力角度，重构超越狭隘族裔血统的开放国民性格与国家认同。

@@ -14030,6 +14030,19 @@
     ]
   },
   {
+    "title": "Official Nationality",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Official Nationality.md",
+    "aliases": [
+      "官方民族性",
+      "官方国民性",
+      "乌瓦罗夫三位一体",
+      "专制、东正教与民族性",
+      "Official nationality doctrine",
+      "Narodnost"
+    ]
+  },
+  {
     "title": "One Country, Two Systems",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/One Country, Two Systems.md",
@@ -37509,6 +37522,18 @@
     "subtype": "organization"
   },
   {
+    "title": "Soochow University in Laos",
+    "type": "fact",
+    "path": "wiki/facts/china/Soochow University in Laos.md",
+    "aliases": [
+      "老挝苏州大学",
+      "老挝苏大",
+      "Soochow University Laos",
+      "SUL"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "University Alliance of the Silk Road",
     "type": "fact",
     "path": "wiki/facts/china/University Alliance of the Silk Road.md",
@@ -50975,6 +51000,11 @@
     "title": "Argument_Zhu_Yang_2025_HE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Higher Education/Argument_Zhu_Yang_2025_HE.md"
+  },
+  {
+    "title": "Argument_He_2018_HEP",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_He_2018_HEP.md"
   },
   {
     "title": "Argument_Woo_2023_HEP",
