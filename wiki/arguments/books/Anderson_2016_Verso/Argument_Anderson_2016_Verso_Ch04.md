@@ -10,7 +10,7 @@ title: "Argument_Anderson_2016_Verso_Ch04"
 argument_key: "Argument_Anderson_2016_Verso_Ch04"
 argument_display_title: "Imagined Communities: Reflections on the Origin and Spread of Nationalism · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -127,8 +127,13 @@ updated: 2026-11-12
 
 > [!sub-claim] 2. 白人地主抢先夺权首要在于防范黑奴与原住民起义
 
+> [!citation-card] 现代民族主义与下层阶级的政治受洗
+> 真正现代意义上的民族主义的到来，是与下层阶级的政治受洗紧密相连的……尽管民族主义运动有时敌视民主，但它们在视野上无一例外都具有民粹主义色彩，并试图将下层阶级引入政治生活。其最典型的形式是：焦躁不安的中产阶级和知识分子领袖，试图唤醒并引导大众阶级的能量，以支持新建国家。（pp. 49–50）
+>
+> *The arrival of nationalism in a distinctively modern sense was tied to the political baptism of the lower classes . . . Although sometimes hostile to democracy, nationalist movements have been invariably populist in outlook and sought to induct lower classes into political life. In its most typical version, this assumed the shape of a restless middle-class and intellectual leadership trying to sit up and channel popular class energies into support for the new states.*
+
 > [!warrant] 防范底层暴乱与半岛庇护真空促成的寡头自保机制
-> [[Tom Nairn|汤姆·内恩]]曾提出，现代民族主义的兴起有赖于下层阶级的政治受洗，依托知识分子领导的大众民粹动员。在18世纪末的中南美洲，欧洲式中产阶级与知识分子阶层极为弱小。运动领导权实际由大地产主、商人和本地专业人士把持。在委内瑞拉、墨西哥和秘鲁，催生独立浪潮的关键动力恰恰在于防范底层黑奴与印第安人起义（如1780–1781年秘鲁[[Túpac Amaru Rebellion|图帕克·阿马鲁起义]]、1791年[[Haitian Revolution|海地黑奴起义]]）。当1808年拿破仑占领西班牙导致半岛军事庇护断绝时，土生白人出于维护既有秩序的迫切需求抢先寻求独立。西蒙·玻利瓦尔曾直言黑人起义比西班牙军队入侵危险千倍；北美弗吉尼亚种植园主托马斯·杰斐逊亦对英军释放奴隶的法令感到愤怒。这表明拉美独立运动在初期具有鲜明的寡头属性与阶级自保动机（pp. 50–51）。
+> [[Tom Nairn|汤姆·内恩]]曾提出经典的[[Political Baptism of the Lower Classes|平民受洗说]]，主张现代民族主义的兴起有赖于下层阶级的政治受洗，依托新兴中产阶级知识分子领导的大众民粹动员，以方言和世俗象征将底层民众邀请进入政治生活以抵抗资本主义不平衡发展。然而，本尼迪克特·安德森指出该理论在美洲历史经验中遭遇了根本性反例：在18世纪末的中南美洲，欧洲式中产阶级与知识分子阶层极为弱小，大众印刷文化尚未普及，独立运动领导权实际由大地产主、商人和本地军政专业人士把持。在委内瑞拉、墨西哥和秘鲁，催生独立浪潮的关键动力恰恰在于防范底层黑奴与印第安人起义（如1780–1781年秘鲁[[Túpac Amaru Rebellion|图帕克·阿马鲁起义]]、1791年[[Haitian Revolution|海地黑奴起义]]）。1789年马德里王室颁布规范主奴权利的人道新奴隶法时，美洲庄园主群体发起抵制并在1794年迫使王室中止执行；当1808年拿破仑占领西班牙导致半岛军事庇护断绝时，土生白人出于维护既有庄园统治与奴隶制秩序的迫切需求抢先寻求独立。西蒙·玻利瓦尔曾直言黑人起义比西班牙军队入侵危险千倍；北美弗吉尼亚种植园主托马斯·杰斐逊亦对英军释放奴隶的法令感到愤怒。这表明拉美独立运动在初期具有鲜明的寡头属性与阶级自保动机，推翻了民族主义必始于平民赋权受洗的欧洲中心论预设（pp. 50–51）。
 
 > [!case] 秘鲁图帕克·阿马鲁大起义与海地黑奴革命对土生白人庄园主的集体震慑
 > 殖民地奴隶与原住民的大规模起义，在美洲土生白人上层心灵深处留下了持久的阶级恐慌。1780年至1781年，秘鲁安第斯山区爆发了由图帕克·阿马鲁领导的印第安人与混血人群大起义，起义军对利马殖民政权展开猛烈冲击，迫使土生白人地主阶层长期依赖半岛军事防卫力量维持压制。1791年法属圣多明各爆发图桑·卢维杜尔领导的黑奴起义，最终于1804年建立了西半球第二个独立共和国海地；这一[[Haitian Revolution|海地革命]]风暴极大震慑了委内瑞拉与整个加勒比海域的白人奴隶主大庄园阶层。当1789年马德里王室颁布较为人道的新奴隶法、详细规定主奴权利义务时，美洲土生白人以黑奴生性败坏并攸关种植园经济命脉为由，发起抵制并在1794年迫使王室全面中止执行该法令。当拿破仑在1808年攻陷西班牙本土并瓦解波旁王朝时，宗主国在紧急关头提供陆海军庇护的预期瞬间落空，土生白人精英由此选择抢先夺取国家政权以自保秩序（pp. 50–51）。

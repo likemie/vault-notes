@@ -9,7 +9,7 @@ summary: "苏格兰政治理论家与历史学家，西方马克思主义民族�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Horizontal Comradeship]]"
   - "[[Modular Nationalism]]"
   - "[[Creole Nationalism]]"
+  - "[[Political Baptism of the Lower Classes]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods: []
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-12
 ---
 
 ---
@@ -121,7 +122,7 @@ updated: 2026-11-11
 > > [!axis] 大众民粹动员与底层政治受洗 vs 殖民地土生白人精英的阶级自保
 > > 争论早期民族主义的兴起究竟依托知识分子引领下层阶级“受洗入史”的大众民粹动员，还是源于殖民地土生寡头维护既有阶级秩序的自保动机。
 > >
-> > - **Nairn（1977）** 提出现代民族主义的到来与下层阶级的政治受洗绑定，新型中产阶级知识分子必须以大众理解的语言邀请民众进入历史。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 48–49)]]
+> > - **Nairn（1977）** 提出现代民族主义的到来与[[Political Baptism of the Lower Classes|下层阶级的政治受洗]]绑定，新型中产阶级知识分子必须以大众理解的语言邀请民众进入历史。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 48–49)]]
 > > - **Anderson（1983/2016）** 依据18世纪末中南美洲历史经验指出，当地知识分子与中产阶级力量微弱，独立运动由大地产主与商人主导，其核心动力在于防范底层黑奴与印第安人起义（如海地黑奴革命与图帕克·阿马鲁起义），体现出阶级自保与寡头属性。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 48–51)]]
 
 ---
@@ -130,6 +131,7 @@ updated: 2026-11-11
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
+> | [[Political Baptism of the Lower Classes]] | 概念 | 提出现代民族主义绑定于下层阶级政治受洗的经典命题。 |
 > | [[Imagined Community]] | 理论 | 提出马克思主义的理论败笔，构成安德森重构民族想象的起点。 |
 > | [[Creole Nationalism]] | 概念 | 拉美土生白人独立经验构成反思内恩“大众民粹动员”假说的实证个案。 |
 > | [[Modular Nationalism]] | 概念 | 揭示资本主义不平衡发展驱使外围地区借鉴与移植民族主义蓝本。 |

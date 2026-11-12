@@ -6,10 +6,14 @@ aliases:
   - 下层阶级的政治受洗
   - 下层阶级政治受洗说
   - 下层阶级受洗
-  - Political Baptism of the Lower Classes
   - Baptism of the Lower Classes
 summary: "苏格兰政治理论家汤姆·内恩提出的民族主义动员假说，后由本尼迪克特·安德森在《想象的共同体》中系统讨论与批评。该假说指出，现代民族主义的兴起有赖于新兴中产阶级知识分子在资本主义不平衡发展压力下，以大众方言与民粹意识形态将下层阶级引入政治生活；安德森则以美洲克里奥尔先锋为反例，指出拉美独立运动实际上由大地产奴隶主主导，其核心动力在于防范底层暴动与阶级自保，揭示出民族主义起源的寡头防卫维度。"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/political-economy
   - concept/sociology
@@ -101,6 +105,17 @@ updated: 2026-11-12
 
 ---
 
-## 来源
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Nationalism]] | 概念 | 下层阶级政治受洗构成了民族主义动员理论的核心假说之一。 |
+> | [[Creole Nationalism]] | 概念 | 安德森以美洲克里奥尔先锋经验反驳了平民受洗说的普遍性。 |
+> | [[Modular Nationalism]] | 概念 | 平民动员模式后来作为模块化蓝图在欧亚民族主义中被复制。 |
+> | [[Tom Nairn]] | 人物 | 提出下层阶级政治受洗假说的政治理论家。 |
+> | [[Benedict Anderson]] | 人物 | 对平民受洗说展开批判性检验并揭示克里奥尔寡头防卫特性的学者。 |
 
-- [[Argument_Anderson_2016_Verso_Ch04|Anderson (2016), Chapter 4: Creole Pioneers]]
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Anderson_2016_Verso_Ch04|Anderson (2016)]] — 系统评析汤姆·内恩关于下层阶级政治受洗的民粹动员假说，并以美洲克里奥尔奴隶主阶级防卫经验提出反驳（pp. 49–51）。

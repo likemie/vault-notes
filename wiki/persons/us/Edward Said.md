@@ -9,10 +9,10 @@ summary: "美籍巴勒斯坦裔文学理论家与文化批评家，后殖民理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 12
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1935"
 died: "2003"
 lifespan: "1935–2003"

@@ -16747,7 +16747,9 @@
     "Mishler, 1990": "Mishler, 1990",
     "Mishler, 1991": "Mishler, 1991",
     "Mishra (1997)": "Mishra, 1997",
+    "Mishra (2025)": "Mishra, 2025",
     "Mishra, 1997": "Mishra, 1997",
+    "Mishra, 2025": "Mishra, 2025",
     "Miskel & Heller (1973)": "Miskel & Heller, 1973",
     "Miskel & Heller, 1973": "Miskel & Heller, 1973",
     "Misset (2012)": "Misset, 2012",
@@ -149732,6 +149734,21 @@
       ],
       "title": ""
     },
+    "Mishra, 2025": {
+      "aliases": [
+        "Mishra, 2025",
+        "Mishra (2025)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Mishra, 2025"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Edward Said.md"
+      ],
+      "title": ""
+    },
     "Miskel & Heller, 1973": {
       "aliases": [
         "Miskel & Heller, 1973",
@@ -181484,6 +181501,7 @@
         "wiki/concepts/comparative-education/Meta-Cultural Sensitivity.md",
         "wiki/concepts/sociology-of-education/Grand Theory.md",
         "wiki/concepts/sociology-of-education/Stereotype Threat.md",
+        "wiki/persons/us/Edward Said.md",
         "wiki/theories/educational-philosophy/Post-colonial Theory.md"
       ],
       "title": ""
@@ -204482,7 +204500,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch05.md"
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch05.md",
+        "wiki/concepts/political-economy-geopolitics/Political Baptism of the Lower Classes.md"
       ],
       "title": ""
     },
