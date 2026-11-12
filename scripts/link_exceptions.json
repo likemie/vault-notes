@@ -742,5 +742,11 @@
       "sentence": "本杰明·富兰克林代表了北美独特的印书人兼新闻记者群体；报人为了将读物递送至读者手中，同邮政局长结成紧密同盟，使印刷所成为北美社区公共交往与思想生活的核心中枢（pp.",
       "target": "wiki/persons/canada/Michael Fullan.md"
     }
+  ],
+  "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch05.md": [
+    {
+      "sentence": "**张力** 先验神圣圣语垄断特权与各地方言世俗平等诉求之间的张力；美洲殖民辖区语言同质性与欧陆世袭帝国多语种杂居现实之间的张力；前现代贵族基于肉身血缘的实体连带与现代资产阶级依托印刷文字构建的纯粹想象性团结之间的张力；反动统治阶层的寡头本能与模块化蓝图强加的民粹普惠规范之间的张力。",
+      "target": "wiki/concepts/science-policy/Homophily.md"
+    }
   ]
 }

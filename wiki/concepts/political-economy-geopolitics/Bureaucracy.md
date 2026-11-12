@@ -57,6 +57,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Max Weber]]"
+  - "[[Benedict Anderson]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
   - "[[Hannah Arendt]]"
