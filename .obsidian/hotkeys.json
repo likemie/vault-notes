@@ -14,5 +14,14 @@
       ],
       "key": "ArrowLeft"
     }
+  ],
+  "app:reload": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "."
+    }
   ]
 }
