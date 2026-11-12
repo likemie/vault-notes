@@ -52,7 +52,7 @@ updated: 2026-11-12
 > - **边界** 适用于解释前工业化大西洋帝国的地方化自卫武装，不涵盖现代民族国家建立在普遍征兵制基础上的全国统一常备军。
 
 > [!citation-card] 殖民地民兵与军事巡游的地域封闭性
-> 西班牙既无财力也无兵力在美洲维持大规模正规常备军驻防，因而主要依赖于从18世纪中叶开始大幅扩充与重组的殖民地民兵……这些民兵具有高度的地方性，绝非大陆统一安全机器中可自由互换的部件。玻利瓦尔的父亲曾是一名杰出的民兵指挥官，负责保卫委内瑞拉各港口抵御外敌；玻利瓦尔本人在少年时期就在父亲的旧部服役。在这个意义上，他是阿根廷、委内瑞拉和智利许多第一代民族主义领袖的典型代表。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, p. 59, n. 35)]]
+> 西班牙既无财力也无兵力在美洲维持大规模正规常备军驻防，因而主要依赖于从18世纪中叶开始大幅扩充与重组的殖民地民兵……这些民兵具有高度的地方封闭性，缺少在全大陆安全体系中自由互换的组织属性。玻利瓦尔的父亲曾是一名杰出的民兵指挥官，负责保卫委内瑞拉各港口抵御外敌；玻利瓦尔本人在少年时期就在父亲的旧部服役。在这个意义上，他是阿根廷、委内瑞拉和智利许多第一代民族主义领袖的典型代表。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, p. 59, n. 35)]]
 >
 > *Spain had neither the money nor the manpower to maintain large garrisons of regular troops in America, and she relied chiefly on colonial militias, which from the mid-eighteenth century were expanded and reorganized. . . . These militias were quite local, not interchangeable parts of a continental security apparatus. . . . Bolívar's father had been a prominent militia commander, defending Venezuelan ports against the intruders. Bolívar himself served in his father's old unit as a teenager. In this respect he was typical of many of the first-generation nationalist leaders of Argentina, Venezuela, and Chile.*
 
@@ -102,10 +102,4 @@ updated: 2026-11-12
 > **军事区划与考迪罗地缘碎片化** 这一命题聚焦民兵组织的属地性对后殖民地政权割据格局的深远影响。
 >
 > > [!claim] 民兵编制的属地化阻碍了泛美洲统一武装力量的形成
-> > 罗伯特·吉尔摩（Robert L. Gilmore, 1964）与本尼迪克特·安德森指出，殖民地民兵并非跨大陆互换的安全部队，而是严格扎根于特定城市、港口与省区种植园。这种制度设计使各地军官群体牢固形成了基于本省防区的地缘利益效忠。在赶走西班牙总督后，由民兵脱胎而来的军队自然依附于本地考迪罗军阀，直接瓦解了玻利瓦尔建立统一“大哥伦比亚”的泛美洲宏图，加固了各独立共和国互不相属的地缘割据格局。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 55, 59, n. 35)]]
-
----
-
-## 来源
-
-- [[Argument_Anderson_2016_Verso_Ch04|Anderson (2016), Chapter 4: Creole Pioneers]]
+> > 罗伯特·吉尔摩（Robert L. Gilmore, 1964）与本尼迪克特·安德森指出，殖民地民兵作为严格扎根于特定城市、港口与省区种植园的属地武装，其防务半径受限于特定辖区。这种制度设计使各地军官群体牢固形成了基于本省防区的地缘利益效忠。在赶走西班牙总督后，由民兵脱胎而来的军队自然依附于本地考迪罗军阀，直接瓦解了玻利瓦尔建立统一“大哥伦比亚”的泛美洲宏图，加固了各独立共和国互不相属的地缘割据格局。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 55, 59, n. 35)]]

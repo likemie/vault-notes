@@ -12877,6 +12877,17 @@
     ]
   },
   {
+    "title": "Brazilian Exceptionalism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Brazilian Exceptionalism.md",
+    "aliases": [
+      "巴西例外论",
+      "巴西例外",
+      "巴西单一体帝国机制",
+      "Excepcionalismo Brasileiro"
+    ]
+  },
+  {
     "title": "Broad Agency Announcement",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Broad Agency Announcement.md",
@@ -12951,6 +12962,29 @@
       "古典地缘政治",
       "传统地缘政治",
       "Traditional Geopolitics"
+    ]
+  },
+  {
+    "title": "Climatic Determinism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Climatic Determinism.md",
+    "aliases": [
+      "气候决定论",
+      "环境决定论",
+      "生态种族主义",
+      "Environmental Determinism",
+      "Ecological Racism"
+    ]
+  },
+  {
+    "title": "Colonial Militia",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Colonial Militia.md",
+    "aliases": [
+      "殖民地民兵制",
+      "殖民地民兵",
+      "纪律民兵制",
+      "Milicias Disciplinadas"
     ]
   },
   {
@@ -31687,6 +31721,17 @@
     ]
   },
   {
+    "title": "Marquis of Pombal",
+    "type": "person",
+    "path": "wiki/persons/portugal/Marquis of Pombal.md",
+    "aliases": [
+      "庞巴尔侯爵",
+      "庞巴尔",
+      "Sebastião José de Carvalho e Melo",
+      "Marquês de Pombal"
+    ]
+  },
+  {
     "title": "Anatoly Lunacharsky",
     "type": "person",
     "path": "wiki/persons/russia/Anatoly Lunacharsky.md",
@@ -31780,6 +31825,17 @@
       "李光耀",
       "Lee, K. Y.",
       "Harry Lee Kuan Yew"
+    ]
+  },
+  {
+    "title": "Carlos III",
+    "type": "person",
+    "path": "wiki/persons/spain/Carlos III.md",
+    "aliases": [
+      "卡洛斯三世",
+      "Carlos III de España",
+      "Charles III of Spain",
+      "Charles III"
     ]
   },
   {
@@ -35914,6 +35970,16 @@
       "托马斯·哈特·本顿",
       "本顿",
       "Benton, T. H."
+    ]
+  },
+  {
+    "title": "Thomas Jefferson",
+    "type": "person",
+    "path": "wiki/persons/us/Thomas Jefferson.md",
+    "aliases": [
+      "托马斯·杰斐逊",
+      "杰斐逊",
+      "T. Jefferson"
     ]
   },
   {
