@@ -8,6 +8,11 @@ aliases:
 summary: "暹罗（泰国）查克里王朝第六任国王（1910–1925年在位），受教于英国牛津大学与桑赫斯特皇家军事学院。在《想象的共同体》中，本尼迪克特·安德森将其界定为非殖民地亚非传统专制君主推行官方民族主义以抵御大众共和革命、维持世袭王权的典型样本。瓦栖拉兀自命为国家第一位民族主义者，推行以国家、宗教与国王三位一体为核心的官方同化政策，并以政论《东方的犹太人》将华人移民树立为反向替罪羊，开创了亚洲君主制自上而下挪用民族主义技术延缓王朝合法性危机的历史先例。"
 type: person
 nationality: thailand
+person_region: "thailand"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1881"
 died: "1925"
 lifespan: "1881–1925"

@@ -7,6 +7,11 @@ aliases:
 summary: "印度著名民族解放运动先驱、政治思想家、演说家与政论家，印度国民大会党激进派核心领导人，与拉拉·拉杰帕特·雷、巴尔·甘格达尔·提拉克并称“拉尔-巴尔-帕尔”（Lal-Bal-Pal）三巨头。早年接受麦考利式全盘英式精英教育并担任英属印度文官，因在本土沦为文化贱民、在殖民科层中遭遇不可逾越的仕途天花板与虚幻盛宴，其思想决然转向激进反殖民民族主义，系统倡导司瓦拉吉（Swaraj，民族自治）与司瓦德西（Swadeshi，自主自足），成为安德森论证殖民同化悖论与反殖民知识分子觉醒机制的关键历史证据。"
 type: person
 nationality: india
+person_region: "india"
+person_related_count: 8
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1858"
 died: "1932"
 lifespan: "1858–1932"

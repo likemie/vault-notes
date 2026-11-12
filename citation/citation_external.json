@@ -15929,6 +15929,8 @@
     "Mattatall, 2017": "Mattatall, 2017",
     "Mattera (2018)": "Mattera, 2018",
     "Mattera, 2018": "Mattera, 2018",
+    "Mattern (2005)": "Mattern, 2005",
+    "Mattern, 2005": "Mattern, 2005",
     "Matterson & Holman (2012)": "Matterson & Holman, 2012",
     "Matterson & Holman, 2012": "Matterson & Holman, 2012",
     "Mattheou (1993)": "Mattheou, 1993",
@@ -25072,6 +25074,8 @@
     "Veenman, 1996": "Veenman, 1996",
     "Vega-Jurado et al. (2020)": "Vega-Jurado et al., 2020",
     "Vega-Jurado et al., 2020": "Vega-Jurado et al., 2020",
+    "Vella (1978)": "Vella, 1978",
+    "Vella, 1978": "Vella, 1978",
     "Velleman (2001)": "Velleman, 2001",
     "Velleman, 2001": "Velleman, 2001",
     "Vellutino (1996)": "Vellutino, 1996",
@@ -143834,6 +143838,21 @@
       "seen_in": [],
       "title": "Strengthening children's math skills with enhanced instruction  The impacts of Making Pre-K Count and High 5s on kindergarten outcomes"
     },
+    "Mattern, 2005": {
+      "aliases": [
+        "Mattern, 2005",
+        "Mattern (2005)"
+      ],
+      "doi": "10.1177/0047117805059728",
+      "identity_keys": [
+        "Mattern, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Higher Education Policy/Argument_He_2018_HEP.md"
+      ],
+      "title": "Why 'Soft Power' Isn't So Soft: Representational Force and the Sociolinguistic Construction of Attraction in World Politics"
+    },
     "Matterson & Holman, 2012": {
       "aliases": [
         "Matterson & Holman, 2012",
@@ -158772,17 +158791,18 @@
       "identity_keys": [
         "Nye, 2004"
       ],
-      "isbn": "",
+      "isbn": "9781586482251",
       "seen_in": [
         "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch03.md",
         "wiki/arguments/journal-articles/Chinese Studies Journal/Argument_Velasco_2022_CSJ.md",
+        "wiki/arguments/journal-articles/Higher Education Policy/Argument_He_2018_HEP.md",
         "wiki/arguments/journal-articles/Higher Education Policy/Argument_Zhu_Yang_2023_HEP.md",
         "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md",
         "wiki/concepts/political-economy-geopolitics/Educational Soft Power.md",
         "wiki/concepts/political-economy-geopolitics/Hard Power.md",
         "wiki/persons/us/Joseph S. Nye Jr.md"
       ],
-      "title": ""
+      "title": "Soft Power: The Means to Success in World Politics"
     },
     "Nye, 2005": {
       "aliases": [
@@ -210304,6 +210324,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/The Journal of Technology Transfer/Argument_Cohen_2025_JTT.md"
+      ],
+      "title": ""
+    },
+    "Vella, 1978": {
+      "aliases": [
+        "Vella, 1978",
+        "Vella (1978)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Vella, 1978"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/thailand/Vajiravudh.md"
       ],
       "title": ""
     },
