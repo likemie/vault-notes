@@ -9,7 +9,7 @@ aliases:
 summary: "中世纪晚期与近代早期西欧专制君主为推行行政集权而逐步采纳的世俗地方公文与法庭语言。它先于印刷术与宗教改革出现，纯粹出于官僚内部司法勾稽与行政便利的实用考量，缺乏自觉的民族意识形态冲动，在客观上成为瓦解神圣拉丁文跨国宗教共同体的先行独立因素。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-12
 ---
 
 ---
@@ -158,13 +158,10 @@ updated: 2026-11-11
 > | [[Dynastic Realm]] | 概念 | 行政方言是专制君主王朝巩固领地行政集权的核心科层手段。 |
 > | [[Edict of Villers-Cotterêts]] | 事实 | 法国确立行政方言司法垄断地位的标志性王家法令。 |
 > | [[Civil Service Examination]] | 事实 | 安德森将中华帝国科举制官僚文字统一与西欧行政方言的割据进行比较对照。 |
-> | [[Argument_Anderson_2016_Verso_Ch03]] | 论证 | 系统界定行政方言的非自觉实用演进机制及对教会神圣秩序的侵蚀。 |
-> | [[Argument_Anderson_2016_Verso_Ch05]] | 论证 | 剖析哈布斯堡帝国强推德语行政方言引发非主体民族政治反弹的历史机制。 |
 > | [[Benedict Anderson]] | 人物 | 在《想象的共同体》中系统论述行政方言发生机制的历史学者。 |
 > | [[Marc Bloch]] | 人物 | 安德森引述其封建社会史研究说明法语从堕落拉丁文向司法官方语言的缓慢演进。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch03|Anderson (2016, Ch. 3)]] — 系统界定行政方言的非自觉与实用特征，剖析其如何先于印刷术与宗教改革独立侵蚀神圣拉丁文共同体（pp. 42–44）。
-> - [[Argument_Anderson_2016_Verso_Ch05|Anderson (2016, Ch. 5)]] — 剖析哈布斯堡帝国废除拉丁语及推行德语行政化如何激发马扎尔与斯拉夫族群的语言民族主义反抗（pp. 76, 79–81）。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 第3章界定行政方言非自觉实用演进与侵蚀神圣共同体（pp. 42–44）；第5章剖析哈布斯堡废除拉丁语及推行德语官话引发的多民族政治反抗（pp. 76, 79–81）。

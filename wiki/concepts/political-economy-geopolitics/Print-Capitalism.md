@@ -7,10 +7,10 @@ aliases:
 summary: "本尼迪克特·安德森界定现代民族意识形成机制的核心构念，指资本主义商品生产体系与机械复制印刷技术的历史结合。其追求资本增殖与开拓大众市场的内在动力，打破了拉丁文双语精英市场的垄断壁垒，将分散的地方方言装配为跨地域的标准化印刷语言；美洲殖民地经验进一步揭示，报纸商品在齐一空洞时间中塑造共读同胞，而其在地化流通网络界定了分立主权实体的地理边界。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 concept_field: "political-economy-geopolitics"
 concept_related_count: 10
 concept_related_level: 1
@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-12
 ---
 
 ---
@@ -205,13 +205,8 @@ updated: 2026-11-11
 > | [[Martin Luther]] | 人物 | 借助印刷资本主义开展德语出版并引发宗教改革的大众畅销作家先驱。 |
 > | [[Lucien Febvre]] | 人物 | 考证早期书籍印刷统计与印刷资本主义运作机制的现代书籍史奠基学者。 |
 > | [[Benedict Anderson]] | 人物 | 在《想象的共同体》中系统确立印刷资本主义构念。 |
-| [[Argument_Anderson_2016_Verso_Ch03]] | 论证 | 论证印刷资本主义如何打破拉丁文垄断并装配出近代民族印刷语言。 |
-| [[Argument_Anderson_2016_Verso_Ch04]] | 论证 | 论证殖民地报纸的在地化流通网络如何将印刷资本主义框定为复数共和国边界。 |
-| [[Argument_Anderson_2016_Verso_Ch05]] | 论证 | 剖析印刷资本主义如何中介资产阶级横向阅读连带并培育第二波大众读者。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch03|Anderson (2016, Ch. 3)]] — 系统阐明印刷资本主义在印刷语言形成与拉丁文霸权瓦解中的机制（pp. 39–49）。
-> - [[Argument_Anderson_2016_Verso_Ch04|Anderson (2016, Ch. 4)]] — 论证报纸市场的在地化流通圈如何塑造了美洲分立的主权地理边界（pp. 61–65）。
-> - [[Argument_Anderson_2016_Verso_Ch05|Anderson (2016, Ch. 5)]] — 剖析印刷资本主义如何中介资产阶级横向阅读连带，并将语文学学术成果转化为大众民族主义文化动能（pp. 77–79）。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 系统阐明印刷资本主义在装配现代印刷语言中的机制（第3章），论证在地化报纸圈框定美洲主权地理边界（第4章），并剖析资产阶级横向阅读连带与语文学出版（第5章）。
