@@ -5,12 +5,16 @@
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch04.md"
     },
     {
-      "basename": "Print-Capitalism",
-      "path": "wiki/concepts/political-economy-geopolitics/Print-Capitalism.md"
+      "basename": "Argument_Anderson_2016_Verso_Ch05",
+      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch05.md"
     },
     {
       "basename": "Argument_Anderson_2016_Verso_Ch03",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch03.md"
+    },
+    {
+      "basename": "Print-Capitalism",
+      "path": "wiki/concepts/political-economy-geopolitics/Print-Capitalism.md"
     },
     {
       "basename": "Edict of Villers-Cotterêts",
@@ -195,10 +199,6 @@
     {
       "basename": "Context in Comparative Education",
       "path": "wiki/concepts/comparative-education/Context in Comparative Education.md"
-    },
-    {
-      "basename": "Argument_Yang_2017_MUE",
-      "path": "wiki/arguments/journal-articles/Modern University Education/Argument_Yang_2017_MUE.md"
     }
   ],
   "omittedPaths": [],
