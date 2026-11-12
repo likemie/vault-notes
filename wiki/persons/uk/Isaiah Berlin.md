@@ -7,7 +7,7 @@ summary: "英国哲学家与思想史家，牛津大学教授、沃尔夫森学�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 17
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -38,7 +38,6 @@ related_methods:
   - "[[Meta-analysis]]"
 related_instruments: []
 related_persons:
-  - "[[David Held]]"
   - "[[Philip Tetlock]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-11-13
 ---
 
 ---
@@ -78,7 +77,7 @@ updated: 2026-10-22
 ---
 
 > [!thought-timeline] 思想发展
-> - **1930s–1940s — 分析哲学与思想史转向** 从纯粹牛津语言分析哲学转向观念史（History of Ideas），重点研究反启蒙思潮与浪漫主义哲学家（如维柯、[[David Held|赫尔德]]）。
+> - **1930s–1940s — 分析哲学与思想史转向** 从纯粹牛津语言分析哲学转向观念史（History of Ideas），重点研究反启蒙思潮与浪漫主义哲学家（如维柯、赫尔德）。
 >   - **代表著作** 《卡尔·马克思：他的生平与环境》（*Karl Marx: His Life and Environment*, 1939）。
 >   - **关键概念** 观念史、历史[[Determinism|决定论]]批判。
 >   - **阶段转向** 意识到哲学问题无法脱离具体的历史情境与行动者观念世界。

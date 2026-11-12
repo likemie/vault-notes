@@ -9,7 +9,7 @@ summary: "18世纪德国哲学家、神学家、文学批评家与诗人，狂�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,44 +22,45 @@ tags:
   - theme/political-philosophy
   - historiography
 related_concepts:
-  - "[[Philological Revolution]]"
-  - "[[Print-Language]]"
+  - "[[Enlightenment]]"
+  - "[[Cultural Nationalism vs. Political Nationalism]]"
+  - "[[Document]]"
+  - "[[Bildung]]"
   - "[[Nationalism]]"
-  - "[[National Character]]"
-related_theories:
-  - "[[Imagined Community]]"
-related_methods:
-  - "[[Historical-Comparative Method]]"
+  - "[[Paradigm]]"
+  - "[[Philological Revolution]]"
+related_theories: []
+related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Immanuel Kant]]"
+  - "[[Josef Dobrovský]]"
   - "[[Benedict Anderson]]"
-  - "[[Jean-Jacques Rousseau]]"
-  - "[[Erich Auerbach]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch05]]"
 confidence: high
 status: active
 created: 2026-11-12
-updated: 2026-11-12
+updated: 2026-11-13
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 18世纪德国启蒙运动晚期哲学家、神学家、文艺理论家与历史哲学家，魏玛古典主义思想中枢。
-> - **核心角色** 确立了语言、民间诗歌与民族精神（*Volksgeist*）的有机共生学说，开创了欧洲文化民族主义传统，将民族界定为以独特语言为界标的内生文化共同体。
-> - **代表贡献** 阐明每个民族拥有自身不可替代的语言与文化形成轨迹，直接启发了19世纪欧洲语文学家对民间史诗、方言词典与民族历史文献的大规模发掘整理。
+> - **身份位置** 18世纪德国[[Enlightenment|启蒙运动]]晚期哲学家、神学家、文艺理论家与历史哲学家，魏玛古典主义思想中枢。
+> - **核心角色** 确立了语言、民间诗歌与民族精神（*Volksgeist*）的有机共生学说，开创了欧洲[[Cultural Nationalism vs. Political Nationalism|文化民族主义]]传统，将民族界定为以独特语言为界标的内生文化共同体。
+> - **代表贡献** 阐明每个民族拥有自身不可替代的语言与文化形成轨迹，直接启发了19世纪欧洲语文学家对民间史诗、方言词典与民族历史[[Document|文献]]的大规模发掘整理。
 
 > [!citation-card] 民族语言与民族精神的内在一体性
 > 每个民族都是一个独立的民族；它拥有属于自身的民族文化形成方式，正如它拥有属于自身的民族语言一样。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, pp. 69–70)]]
 >
-> *Denn jedes Volk ist Volk; es hat seine National Bildung wie seine Sprache.*
+> *Denn jedes Volk ist Volk; es hat seine National [[Bildung]] wie seine Sprache.*
 
 ---
 
 > [!timeline] 生平与职涯
-> - **1744** 出生于东普鲁士莫隆根（Mohrungen），早年在柯尼斯堡大学修读神学与哲学，师从康德，结识哈曼。
+> - **1744** 出生于东普鲁士莫隆根（Mohrungen），早年在柯尼斯堡大学修读神学与哲学，师从[[Immanuel Kant|康德]]，结识哈曼。
 > - **1772** 发表《论语言的起源》（*Abhandlung über den Ursprung der Sprache*），确立人类理性与特定民族语言发生学一体性的哲学命题。
 > - **1776** 经歌德举荐赴魏玛公国担任教会最高总管与总督管区长，主持宗教教育与文教机构改革。
 > - **1784–1791** 撰写四卷本《人类历史哲学观念》（*Ideen zur Philosophie der Geschichte der Menschheit*），系统阐述多中心主义世界历史观与民族有机体演进理论。
@@ -85,16 +86,16 @@ updated: 2026-11-12
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 催生了19世纪欧洲浪漫主义民族主义与历史法学派，打破了法国启蒙运动的普遍主义抽象理性假设，奠定了文化多中心主义哲学。
-> - **学术路径** 极大地推动了欧洲比较语文学、民俗学与民间文学搜集热潮，为格林兄弟、多布罗夫斯基等学者提供了强大的方法论动力。
+> - **理论路径** 催生了19世纪欧洲浪漫主义[[Nationalism|民族主义]]与历史法学派，打破了法国启蒙运动的普遍主义抽象理性假设，奠定了文化多中心主义哲学。
+> - **学术路径** 极大地推动了欧洲比较语文学、民俗学与民间文学搜集热潮，为格林兄弟、[[Josef Dobrovský|多布罗夫斯基]]等学者提供了强大的方法论动力。
 > - **政治路径** 赋予多语种专制帝国内部的弱势族群以文化自决与语言平等的道义合法性，成为中东欧被统治族群开展独立运动的核心思想武器。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch05|Anderson (2016)]] — 指出赫尔德关于“每个民族都有专属语言”的论断深刻形塑了19世纪欧洲将民族与排他性私有财产语言绑定的思想范式。
+> - [[Argument_Anderson_2016_Verso_Ch05|Anderson (2016)]] — 指出赫尔德关于“每个民族都有专属语言”的论断深刻形塑了19世纪欧洲将民族与排他性私有财产语言绑定的思想[[Paradigm|范式]]。
 
 ---
 
 > [!person-network] 关系网络
-> - **师承／思想对话** [[Immanuel Kant|伊曼纽尔·康德]] — 柯尼斯堡大学导师；赫尔德早年深受其影响，后在历史哲学与理性批判领域与其分道扬镳。
+> - **师承／思想对话** 伊曼纽尔·康德 — 柯尼斯堡大学导师；赫尔德早年深受其影响，后在历史哲学与理性批判领域与其分道扬镳。
 > - **同时代对话者** 约翰·沃尔夫冈·冯·歌德（Johann Wolfgang von Goethe） — 魏玛时期的亲密挚友与智识盟友，共同推动狂飙突进与魏玛古典主义。
-> - **后世批评与阐释者** [[Benedict Anderson|本尼迪克特·安德森]] — 剖析其语言私有财产观念在19世纪欧洲语文学革命与民族主义普及中的深远催化作用。
+> - **后世批评与阐释者** [[Benedict Anderson|本尼迪克特·安德森]] — 剖析其语言私有财产观念在19世纪欧洲[[Philological Revolution|语文学革命]]与民族主义普及中的深远催化作用。

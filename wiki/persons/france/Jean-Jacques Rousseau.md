@@ -8,7 +8,7 @@ summary: "法国启蒙思想家与教育哲学家，以《爱弥儿》《社会�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,13 +27,15 @@ tags:
   - theme/natural-education
   - theme/child-development
 related_concepts:
-  - "[[Critical Thinking Disposition]]"
-  - "[[Western Learner]]"
-  - "[[Discourse]]"
-  - "[[Ideal Learner]]"
-  - "[[Progressive Education]]"
   - "[[National Character]]"
+  - "[[Discourse]]"
+  - "[[Western Learner]]"
+  - "[[Ideal Learner]]"
+  - "[[Learner Autonomy]]"
+  - "[[Progressive Education]]"
   - "[[Climatic Determinism]]"
+  - "[[Experiential Learning]]"
+  - "[[Critical Thinking Disposition]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -42,7 +44,6 @@ related_persons:
   - "[[Francis Bacon]]"
   - "[[John Dewey]]"
   - "[[Jean Piaget]]"
-  - "[[Benedict Anderson]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
@@ -50,18 +51,18 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-11-12
+updated: 2026-11-13
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 法语哲学家、教育思想家与政治理论家，出生于日内瓦共和国，启蒙时代激进异见学者与浪漫主义先驱。
-> - **核心角色** 现代儿童中心教育哲学与人民主权学说的奠基人；在西方学习传统中确立了批判怀疑与内在好奇享受的双重特质，其关于气候与国民性格的学说亦在近代跨大西洋殖民话语中受到广泛讨论。
+> - **核心角色** 现代儿童中心教育哲学与人民主权学说的奠基人；在西方学习传统中确立了批判怀疑与内在好奇享受的双重特质，其关于气候与[[National Character|国民性格]]的学说亦在近代跨大西洋殖民[[Discourse|话语]]中受到广泛讨论。
 > - **代表贡献** 著有《论人类不平等的起源》《社会契约论》《爱弥儿》与《忏悔录》，提出自然状态、消极教育、公意学说与儿童内在成长节律。
 
 > [!citation-card] 李锦论卢梭对文明异化的批判与西方学习传统的双重奠基
-> 卢梭继承了苏格拉底与培根的批判怀疑精神，以激进方式批判当时的教育、政治和宗教体制。他对儿童天然倾向的强调，使他成为西方学习者天然好奇心、兴趣和内在享受特质的关键理论奠基人。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 33–36)]]
+> 卢梭继承了[[Socrates|苏格拉底]]与[[Francis Bacon|培根]]的批判怀疑精神，以激进方式批判当时的教育、政治和宗教体制。他对儿童天然倾向的强调，使他成为[[Western Learner|西方学习者]]天然好奇心、兴趣和内在享受特质的关键理论奠基人。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 33–36)]]
 >
 > *Rousseau inherited the critical spirit of Socrates and Bacon, but attacked the educational, political, and religious establishments of his day in a far more radical manner... His emphasis on children's natural inclinations laid the foundation for the Western learner's natural curiosity and enjoyment of learning.*
 
@@ -95,7 +96,7 @@ updated: 2026-11-12
 > 自然状态下的人类具有自足、和平与天然同情心，社会制度与私有财产则带来了虚伪、依附与不平等。教育应当推行消极教育策略，保护儿童天性免受社会恶俗侵蚀，遵循身心发育的内在节律，在自然感官探索中生成自主理解。在政治领域，合法的国家秩序必须建立在全体社会成员完全让渡权利所形成的公意之上，达成个体服从集体主权即服从自身自由意志的共和理想。
 
 > [!citation-card] 消极教育与顺应儿童内在时间表
-> 教育者的首要职责在于保护儿童的心灵免受邪恶污染，保护心智免受谬误侵蚀；引导儿童在适宜阶段从直接经验中自主学习，取代对书本训诫的被动接受。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 33–34)]]
+> 教育者的首要职责在于保护儿童的心灵免受邪恶污染，保护心智免受谬误侵蚀；引导儿童在适宜阶段从直接经验中[[Learner Autonomy|自主学习]]，取代对书本训诫的被动接受。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 33–34)]]
 >
 > *The first education, then, ought to be purely negative. It consists not in teaching virtue or truth, but in preserving the heart from vice and the mind from error... Emilie learns only according to his internal timetable.*
 
@@ -117,7 +118,7 @@ updated: 2026-11-12
 > - **思想承接渊源** [[Socrates|苏格拉底]]、[[Francis Bacon|弗朗西斯·培根]] — 继承批判怀疑传统，但将批判矛头引向文明制度与教育规训机制本身。
 > - **同时代理论论敌** 伏尔泰（Voltaire） — 启蒙阵营内部核心对手，伏尔泰嘲讽卢梭的反文明学说试图让人类退回四足爬行状态，并公开揭露其将亲生子女送入孤儿院的道德裂痕。
 > - **英国避难引荐者** 大卫·休谟（David Hume） — 1766年协助卢梭赴英避难，后因性格猜忌与处境隔阂公开决裂。
-> - **思想继承与拓展者** [[John Dewey|约翰·杜威]]、[[Jean Piaget|让·皮亚杰]] — 拓展其经验学习、儿童中心与儿童认知发展阶段论。
+> - **思想继承与拓展者** [[John Dewey|约翰·杜威]]、[[Jean Piaget|让·皮亚杰]] — 拓展其[[Experiential Learning|经验学习]]、儿童中心与儿童认知发展阶段论。
 
 ---
 

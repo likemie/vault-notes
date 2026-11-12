@@ -10,9 +10,9 @@ summary: "运用历史因果考证与跨国情境对照解释教育制度、国�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 97
-method_related_level: 9
-method_related_stars: "💎💎💎"
+method_related_count: 102
+method_related_level: 10
+method_related_stars: "💎💎💎⭐"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[State Educational Sovereignty]]"
   - "[[Paradigm]]"
+  - "[[Official Nationalism]]"
   - "[[National Character]]"
   - "[[Construct]]"
   - "[[Theoretical Perspective]]"
@@ -71,6 +72,7 @@ related_concepts:
   - "[[Disciplinary Institutionalization]]"
   - "[[Innovation Policy Paradigms]]"
   - "[[Modern Industrial Policy]]"
+  - "[[Print-Language]]"
 related_theories:
   - "[[Behaviorism]]"
   - "[[Path Dependence]]"
@@ -122,10 +124,13 @@ related_arguments:
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
   - "[[Argument_Bown_2024_JEconPersp]]"
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
+  - "[[Argument_Anderson_2016_Verso_Ch06]]"
   - "[[Argument_Sahlgren_2015_CPS]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Cowen_2009_HistoryCreation]]"
   - "[[Argument_Mowery_2011_NBER]]"
+  - "[[Argument_Anderson_2016_Verso]]"
+  - "[[Argument_Anderson_2016_Verso_Ch05]]"
 confidence: high
 status: completed
 created: 2026-09-06
@@ -206,7 +211,7 @@ updated: 2026-11-13
 >   - 建立[[Transnational Education|跨国教育]]与科技制度类型学并阐明各民族或国际组织的独特文化精神底色与组织利基。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 38–42)]]
 >   - 剖析冷战或[[Geopolitics|地缘政治]]分裂背景下，同一民族不同意识形态阵营的教育制度分化与重聚过程（如西德与东德教育体制历史比较，[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 91–92)]]）；
 >   - 解构学科制度史的演进逻辑，透视大学教席分布、学会建制与[[State Educational Sovereignty|国家教育主权]]博弈对比较教育学科[[Paradigm|范式]]的长周期塑造；[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88–94)]]
->   - 比较欧亚世袭王朝与殖民帝国为防御大众通俗民族主义而自上而下推行官方民族主义与语言同化的制度策略，揭示君权神授等级臣服与现代民族平权原则的根本排他性，以及由此导致的殖民地精英仕途封锁机制。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 85–113)]]
+>   - 比较欧亚世袭王朝与殖民帝国为防御大众通俗民族主义而自上而下推行[[Official Nationalism|官方民族主义]]与语言同化的制度策略，揭示君权神授等级臣服与现代民族平权原则的根本排他性，以及由此导致的殖民地精英仕途封锁机制。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 85–113)]]
 > - **谨慎使用**
 >   - 评估短期具体教学干预或政策实施的微观即时成效（需结合量化或[[Mixed Methods Research|混合方法]]）；
 >   - 史料散佚断裂、官方[[Document|文献]]被高度意识形态化且缺乏第三方佐证的历史时期；
@@ -275,5 +280,5 @@ updated: 2026-11-13
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 运用历史制度与跨国比较方法，梳理战后美国国防研发投资与采购对半导体及计算机产业的催化作用及其向商业市场的逆向溢出规律。
 > - [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]] — 运用历史比较法对照 1980 年代美日贸易摩擦与当代中美科技竞争，揭示[[Vertical Disintegration|纵向离散]]如何重塑[[Modern Industrial Policy|现代产业政策]]工具与地缘安全边界。
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 运用历史比较分析与跨国经验案例考据，打破间断均衡范式，系统建构现代资本主义政治经济体制中[[Theory of Gradual Institutional Change|渐进制度变迁]]的五类形态学。
-> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 运用历史比较法在[[Argument_Anderson_2016_Verso_Ch05|第5章]]与[[Argument_Anderson_2016_Verso_Ch06|第6章]]对照美欧及亚非帝国，揭示印刷国语规范化、模块化盗版扩散与官方民族主义自卫同化的历史机制。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 运用历史比较法在[[Argument_Anderson_2016_Verso_Ch05|第5章]]与[[Argument_Anderson_2016_Verso_Ch06|第6章]]对照美欧及亚非帝国，揭示[[Print-Language|印刷国语]]规范化、模块化盗版扩散与官方民族主义自卫同化的历史机制。
 

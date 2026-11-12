@@ -114,6 +114,11 @@ updated: 2026-11-11
 >
 > *For example, China established Xiamen University in Malaysia in 2013; this was an attempt by Chinese authorities to internationalize higher education and subsequently stretch its influence (Cheng & Koh, 2022). The Malaysian campus of Xiamen University has been called the 'friendship bridge between Malaysia and China' (Jie, 2018, p. 10).*
 
+> [!citation-card] 陈嘉庚创校传统与东南亚华社历史纽带（[[Argument_He_2018_HEP|He & Wilkins, 2018]]）
+> 厦门大学由新加坡著名华侨领袖陈嘉庚（Tan Kah Kee）创办，至今每年仍获得东南亚华商与华人社群的资助。厦门大学与该区域华人社会保持着紧密联系。大学的卓越声誉显著增强了分校在驻在国的地位，并对学生的求学决策产生积极影响。[[Argument_He_2018_HEP|(He & Wilkins, 2018, p. 327)]]
+>
+> *Xiamen University was established by a Singaporean Chinese, Mr. Tan Kah Kee, and it still receives large donations each year from Chinese businessmen and communities in South East Asia. There is quite a close and extensive connection between Xiamen University and overseas Chinese in this region... Therefore, the reputation of these two IBCs undoubtedly enhances their status in the host countries and positively impacts upon students’ decision to study at these IBCs.*
+
 ---
 
 > [!indicators] 影响力维度与指标
@@ -125,6 +130,7 @@ updated: 2026-11-11
 > - **开创中国高水平大学海外实体办学先例** 突破了传统单一合作办学或项目挂靠模式，构建起具备独立法人与完整学位授予权的全功能海外校区。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 84)]]
 > - **支撑东南亚教育外交三大支柱** 与留学生定向招募、[[Confucius Institute|孔子学院]]网络协同联动，形成中国面向东盟高教影响力的实体基石。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 84–85)]]
 > - **促进多族群文化互信与青年认同** 在马来西亚多民族多元文化社会中树立了高质量、高声誉的中国高等教育新标杆。
+> - **依托华社历史纽带借用既有软实力** 依托陈嘉庚创校渊源与东南亚华人社会的历史感情，分校直接借用当地积淀的中华传统文化底蕴与名校声誉，形成文化软实力与工程学科前沿吸引力的叠加效应。[[Argument_He_2018_HEP|(He & Wilkins, 2018, pp. 327–328)]]
 
 > [!stat-cards]- 核心规模数据
 > - **2013** （年） 项目正式立项与官方签署办学协议年份。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 84)]]
@@ -164,3 +170,4 @@ updated: 2026-11-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Velasco_2022_CSJ|Velasco (2022)]] — 剖析厦门大学马来西亚分校作为中国高教外交实体支柱与中马友谊之桥的代表性[[Document|文献]]。
+> - [[Argument_He_2018_HEP|He and Wilkins (2018)]] — 考察厦门大学马来西亚分校在办学声誉、华社捐资传统与中文实用需求上的软实力依托，揭示境外分校借用华裔文化传统与中国经贸硬实力的运作特征。

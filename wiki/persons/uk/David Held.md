@@ -2,7 +2,6 @@
 title: David Held
 aliases:
   - 戴维·赫尔德
-  - 赫尔德
   - Held, D.
 summary: "英国著名政治学家、全球化理论与民主转型奠基学者，系统提出全球化的多维互动定义与世界主义民主模型，为批判比较教育学解构民族国家主权边界被穿透及跨国治理对教育政策规训提供了核心分析框架"
 type: person
@@ -14,7 +13,7 @@ person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
 born: "1951"
 died: "2019"
-lifespan: "1951–2019"
+lifespan: 1951–2019
 tags:
   - person/theorist
   - political-science
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---

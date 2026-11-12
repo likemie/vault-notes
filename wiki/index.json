@@ -12868,6 +12868,16 @@
     ]
   },
   {
+    "title": "Barmecide Feast",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Barmecide Feast.md",
+    "aliases": [
+      "虚幻盛宴",
+      "巴尔梅克盛宴",
+      "虚幻之宴"
+    ]
+  },
+  {
     "title": "Beijing Consensus",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Beijing Consensus.md",
@@ -32217,7 +32227,6 @@
     "path": "wiki/persons/uk/David Held.md",
     "aliases": [
       "戴维·赫尔德",
-      "赫尔德",
       "Held, D."
     ]
   },
@@ -42225,6 +42234,17 @@
       "香港青年发展蓝图"
     ],
     "subtype": "policy"
+  },
+  {
+    "title": "Magyarization",
+    "type": "fact",
+    "path": "wiki/facts/hungary/Magyarization.md",
+    "aliases": [
+      "马扎尔化",
+      "马扎尔化运动",
+      "匈牙利化"
+    ],
+    "subtype": "event"
   },
   {
     "title": "PISA Response in Hungary",

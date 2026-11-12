@@ -9,10 +9,10 @@ summary: "捷克语文学家、文学史家与翻译家，捷克民族复兴运�
 type: person
 nationality: czech
 person_region: "czech"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 12
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: 1773
 died: 1847
 lifespan: "1773–1847"
@@ -22,18 +22,21 @@ tags:
   - theme/nationalism
   - theme/linguistics
 related_concepts:
+  - "[[Grandes Ecoles]]"
+  - "[[National Rejuvenation Narrative]]"
+  - "[[Document]]"
+  - "[[Objectivism]]"
+  - "[[Research Translation]]"
+  - "[[Nationalism]]"
   - "[[Philological Revolution]]"
   - "[[Print-Language]]"
-  - "[[Nationalism]]"
 related_theories:
   - "[[Imagined Community]]"
-related_methods:
-  - "[[Historical-Comparative Method]]"
+related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Benedict Anderson]]"
-  - "[[Hugh Seton-Watson]]"
   - "[[Josef Dobrovský]]"
+  - "[[Benedict Anderson]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch05]]"
@@ -46,8 +49,8 @@ updated: 2026-11-13
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 19世纪上半叶波希米亚语文学家、翻译家，曾任布拉格老城文理高级中学校长与布拉格查理大学校长。
-> - **核心角色** 捷克民族复兴运动中激进爱国文人派别的领袖，主张以现代民族语言全面取代德语在公共生活与学术界的垄断。
+> - **身份位置** 19世纪上半叶波希米亚语文学家、翻译家，曾任布拉格老城文理高级中学校长与布拉格查理[[Grandes Ecoles|大学校]]长。
+> - **核心角色** 捷克[[National Rejuvenation Narrative|民族复兴]]运动中激进爱国文人派别的领袖，主张以现代民族语言全面取代德语在公共生活与学术界的垄断。
 > - **代表贡献** 历时三十年独立编纂完成五卷本《捷德词典》（*Slovník česko-německý*），翻译弥尔顿《失乐园》与歌德诗作，确立现代捷克文学语言的词汇宝库。
 
 > [!citation-card] 安德森论双语词典对语言平等主义的确立
@@ -74,13 +77,13 @@ updated: 2026-11-13
 > [!work-line] 主要著作
 > - **1806 — *O jazyku českém*（《论捷克语言》）** 阐发浪漫主义语言哲学，宣告凡讲授和使用捷克语者方为真正的波希米亚爱国者。
 > - **1811 — *Ztracený ráj*（《失乐园》译本）** 大规模创制并提炼捷克语新词汇，极大拓展捷克现代书面语的概念张力。
-> - **1825 — *Historie literatury české*** 编纂第一部系统的捷克文学史与文献书目大全。
+> - **1825 — *Historie literatury české*** 编纂第一部系统的捷克文学史与[[Document|文献]]书目大全。
 > - **1835–1839 — *Slovník česko-německý*（《捷德词典》，五卷本）** 收集古老波希米亚文献词汇，借用波兰语与俄语对等词创制哲学、科学新词，彻底奠定现代捷克语词汇体系。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, p. 75)]]
 
 ---
 
 > [!claim] 核心思想
-> 语言是民族生存与主权灵魂的终极载体，丧失独特民族语言的社群必然沦为其他支配势力的政治附庸。与老一辈学者多布罗夫斯基谨慎的学者客观主义不同，永曼主张将语言研究转化为主动的语言建设与文化抗争行动。方言表现出的词汇匮乏属于历史压迫造成的阶段性局限；学者应当通过大胆的新词创制、向古老方言采风以及跨斯拉夫语族借词，充实母语词库，使白话方言在法庭、议会、大学文科讲席与自然科学实验室内全面取代外来强势语言。
+> 语言是民族生存与主权灵魂的终极载体，丧失独特民族语言的社群必然沦为其他支配势力的政治附庸。与老一辈学者[[Josef Dobrovský|多布罗夫斯基]]谨慎的学者[[Objectivism|客观主义]]不同，永曼主张将语言[[Research Translation|研究转化]]为主动的语言建设与文化抗争行动。方言表现出的词汇匮乏属于历史压迫造成的阶段性局限；学者应当通过大胆的新词创制、向古老方言采风以及跨斯拉夫语族借词，充实母语词库，使白话方言在法庭、议会、大学文科讲席与自然科学实验室内全面取代外来强势语言。
 
 > [!citation-card] 永曼论母语作为民族共同体之灵魂
 > 摧毁一个民族的语言，就等于摧毁了这个民族的思想中枢；一个放弃了自身母语的人，便不再属于他所出生的那片土地，而沦为历史长河中的无根幽灵。波希米亚唯有重拾自身语言，方能赢回独立尊严。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, p. 75, n. 17)]]
@@ -92,7 +95,7 @@ updated: 2026-11-13
 > [!influence-path] 影响路径
 > - **捷克现代书面语奠基** 其《捷德词典》成为整个19与20世纪捷克语辞书编纂的根本母本，所创制的大批科学、哲学与政治新词（如 *časopis* [杂志]、*vzduch* [空气]）已完全融入现代捷克日常与学术语言。
 > - **音乐与艺术民族化催化** 其语言复兴直接启迪了斯美塔那（Bedřich Smetana）与德沃夏克（Antonín Dvořák）将捷克民族语言的独特重音节奏融入交响乐与歌剧创作。
-> - **安德森媒介技术论断** 安德森在《想象的共同体》中重点揭示永曼词典的双语编排机制，指出双语词典在印刷书页上以对等格式粉碎了封建帝国官方语言的神圣垄断，为现代民族主义注入了不可逆转的平民化自信。
+> - **安德森媒介技术论断** 安德森在《[[Imagined Community|想象的共同体]]》中重点揭示永曼词典的双语编排机制，指出双语词典在印刷书页上以对等格式粉碎了封建帝国官方语言的神圣垄断，为现代[[Nationalism|民族主义]]注入了不可逆转的平民化自信。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Anderson_2016_Verso_Ch05|Anderson (2016)]] — 将永曼的五卷本《捷德词典》作为双语词典编纂打破帝国语言等级特权、赋权边缘民族母语的经典实证（p. 75, n. 16）。
@@ -102,7 +105,7 @@ updated: 2026-11-13
 > [!person-network] 关系网络
 > - **学术前驱** [[Josef Dobrovský|约瑟夫·多布罗夫斯基]] — 承接其文献学与语法成果，但突破其保守倾向，坚决投身大众母语普及与政治动员。
 > - **同盟学者** 弗朗齐歇克·帕拉茨基（František Palacký） — 共同领导捷克民族复兴文人集团，协同构建捷克历史与语言双重认同。
-> - **理论阐发者** [[Benedict Anderson|本尼迪克特·安德森]] — 将其词典工程作为词典编纂革命与现代民族主义发生的理论模型。
+> - **理论阐发者** [[Benedict Anderson|本尼迪克特·安德森]] — 将其词典工程作为[[Philological Revolution|词典编纂革命]]与现代民族主义发生的理论模型。
 
 ---
 

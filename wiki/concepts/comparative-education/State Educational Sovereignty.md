@@ -98,7 +98,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---
@@ -309,7 +309,7 @@ updated: 2026-11-11
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009)]] — 系统解构 19 世纪法国[[Victor Cousin|库森]]与美国[[Horace Mann|霍勒斯·曼]]如何分别动用国家公共资源论与自由共和政治合法化依据，推动世俗国家确立教育最高主权并开创两种跨国借用[[Paradigm|范式]]。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 系统阐明民族国家对教育主权的垄断如何确立了整个 20 世纪比较教育的经验容器，剖析主权多样性与欧洲统一性的结构张力，并揭示当代超国家测评规训与[[Intercultural Education|跨文化教育]]对国家教育主权的双向重塑。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 从欧洲多层级治理视角阐释国家教育主权的现实边界，揭示[[EU|欧盟]]成员国对教育主权的严密固守，以及后发转型国家激进分权过程中次国家地方民族主义对独立教育系统的争夺与体系解体风险。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合[[David Held|赫尔德]]与麦克格鲁的主权理论，深刻阐明全球化下国家教育主权在跨国多层[[Network Governance|网络治理]]中转型为“权力共享行使”机制，揭示国内政策精英如何将[[OECD|经合组织]]多边测评工具化为推进本土改革的外部合法化工具（pp. 443–444, 447）。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合赫尔德与麦克格鲁的主权理论，深刻阐明全球化下国家教育主权在跨国多层[[Network Governance|网络治理]]中转型为“权力共享行使”机制，揭示国内政策精英如何将[[OECD|经合组织]]多边测评工具化为推进本土改革的外部合法化工具（pp. 443–444, 447）。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 结合福柯权力-规训理论揭示欧盟成员国如何推行“进取型政府间主义”，在表面维系宪制辅助性原则防线的同时，通过开放协调法与量化[[Technologies of Surveillance|监视技术]]主动将国家教育主权让渡于超国家全景敞视治理（pp. 481, 485–487, 492–493）。
 > - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 阐释在欧盟条约禁止法规协调的宪制约束下，超国家机构如何依托认识论基础设施（ESG、EQAR、DEQAR）实现跨国文凭自动互认，底层穿透并重塑传统国家教育主权。
 > - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — [[In-depth Interview|深度访谈]]三大国际组织的芬兰教育专家，揭示白人救世主心态对全球南方国家教育主权的侵蚀，辩护教育主权的不可让渡性。

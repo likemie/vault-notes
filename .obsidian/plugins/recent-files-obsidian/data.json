@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch04.md"
     },
     {
+      "basename": "David Held",
+      "path": "wiki/persons/uk/David Held.md"
+    },
+    {
       "basename": "Dunmore's Proclamation",
       "path": "wiki/facts/uk/Dunmore's Proclamation.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Yang_2023_ICE",
       "path": "wiki/arguments/journal-articles/International and Comparative Education/Argument_Yang_2023_ICE.md"
-    },
-    {
-      "basename": "Argument_Zhuo_2026_ICE",
-      "path": "wiki/arguments/journal-articles/International and Comparative Education/Argument_Zhuo_2026_ICE.md"
     }
   ],
   "omittedPaths": [],
