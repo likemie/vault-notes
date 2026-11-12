@@ -4,7 +4,7 @@ aliases:
   - 厦门大学马来西亚分校
   - 厦大马校
   - XMUM
-summary: "中国第一所公立高水平顶尖研究型大学设立的具有独立实体校园的全功能海外分校，位于马来西亚雪兰莪州，被中马两国政府誉为“中马友谊之桥”，提供全英文全日制学位教育，是中国高等教育走出去与教育外交的标志性实体工程"
+summary: "中国第一所公立高水平顶尖研究型大学设立的具有独立实体校园的全功能海外分校，位于马来西亚雪兰莪州，被中马两国政府誉为中马友谊之桥，提供全英文全日制学位教育，是中国高等教育走出去与教育外交的标志性实体工程"
 type: fact
 subtype: organization
 region: china
@@ -54,19 +54,19 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---
 
 > [!claim] 核心定位
-> 厦门大学马来西亚分校（Xiamen University Malaysia, XMUM）是[[Ministry of Education of the People's Republic of China|中国教育部]]直属顶尖“[[Double First-Class Initiative|双一流]]”建设高校厦门大学自主出资设立的海外实体大学，是中国高水平公立[[Research Universities|研究型大学]]在海外创设的首个全功能独立实体校园。该校被中马两国政府高度评价为“中马友谊之桥”，通过推行全日制本硕博全英文教学，成为中国高等教育跨国办学与面向东南亚实施[[Educational Diplomacy|教育外交]]的核心标志性实体。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 84–85)]]
+> 厦门大学马来西亚分校（Xiamen University Malaysia, XMUM）是[[Ministry of Education of the People's Republic of China|中国教育部]]直属顶尖双一流建设高校厦门大学自主出资设立的海外实体大学，是中国高水平公立[[Research Universities|研究型大学]]在海外创设的首个全功能独立实体校园。该校被中马两国政府高度评价为中马友谊之桥，通过推行全日制本硕博全英文教学，成为中国高等教育跨国办学与面向东南亚实施[[Educational Diplomacy|教育外交]]的核心标志性实体。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 84–85)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2013 年在中马两国政府最高层共同见证下正式签约立项，2014 年奠基动工，2016 年正式迎来首批学生开学。
 > - **总部地点 / 业务辐射** 位于马来西亚雪兰莪州雪邦（Sepang），占地 900 亩，面向马来西亚本土、中国以及东南亚乃至全球广泛招收全日制本硕博学生。
 > - **法人属性与经费基础** 依据马来西亚私立高等教育机构法规注册登记，由厦门大学自主全额筹集投资与运营资金，拥有完全自主的校园土地与教学基础设施产权。
-> - **核心宗旨与法定职责** 培养具有国际视野与跨文化理解能力的高素质专业人才，打造立足马来西亚、辐射[[ASEAN|东盟]]、连接中国的国际化高等学术[[Innovation Hub|创新中心]]。
+> - **核心宗旨与法定职责** 培养具有国际视野与跨文化理解能力的高素质专业人才，打造立足马来西亚、辐射[[ASEAN|东南亚国家联盟]]（Association of Southeast Asian Nations, ASEAN，简称东盟）、连接中国的国际化高等学术[[Innovation Hub|创新中心]]。
 
 ---
 
@@ -94,7 +94,7 @@ updated: 2026-11-11
 > [!actor-grid] 组织治理架构
 > - **最高决策机构（分校理事会）** 由厦门[[Grandes Ecoles|大学校]]方领导、马来西亚在地政商界贤达与[[International Education|国际教育]]专家共同组成，负责审定重大发展战略、财务预算与学科布局。
 > - **执行管理团队（校长与行政团队）** 由厦门大学选派资深学者出任分校校长与管理骨干，协同本土专业行政团队，负责日常教学运行与法务合规。
-> - **学术委员会与质量保证机构** 设立独立的学术委员会，对接马来西亚学术资格鉴定机构（MQA）与中国教育部学位认证中心双重标准。
+> - **学术委员会与质量保证机构** 设立独立的学术委员会，对接马来西亚学术资格鉴定机构（Malaysian Qualifications Agency, MQA）与中国教育部学位认证中心双重标准。
 > - **多元文化师生社群** 汇聚来自中国本土的公派骨干师资、国际全球招聘学者与多国[[Study Abroad|留学]]生，构建跨文化包容共生的大学社区。
 
 > [!pathways] 业务运行机制
@@ -106,11 +106,11 @@ updated: 2026-11-11
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **全日制本硕博全英文学位教育** 开设涵盖文商理工医五大学科门类数十个专业，重点建设新能源科学、海洋技术、数据科学与跨国经贸学科。
-> - **中国东盟海洋学院（CAMS）** 由中国国家海洋局与教育部支持共建的涉海高级专门人才培养平台，针对南海海洋生态、资源保护开展多边科技合作。
+> - **中国—东盟海洋学院（China-ASEAN College of Marine Sciences, CAMS）** 由中国国家海洋局与教育部支持共建的涉海高级专门人才培养平台，针对南海海洋生态、资源保护开展多边科技合作。
 > - **区域高端学术研讨与人文智库** 定期承办中马建交纪念学术论坛、中国东盟经贸合作研讨会，构筑面向东南亚的教育人文对话实体基底。
 
 > [!citation-card] 两国官方对厦大马校的定位评价
-> 中国在 2013 年于马来西亚设立了厦门大学分校；这是中国官方推进[[Internationalization of Higher Education|高等教育国际化]]并随后延伸其战略影响力的重要尝试。厦门大学马来西亚分校被誉为“中马友谊之桥”。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 84)]]
+> 中国在 2013 年于马来西亚设立了厦门大学分校；这是中国官方推进[[Internationalization of Higher Education|高等教育国际化]]并随后延伸其战略影响力的重要尝试。厦门大学马来西亚分校被誉为中马友谊之桥。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 84)]]
 >
 > *For example, China established Xiamen University in Malaysia in 2013; this was an attempt by Chinese authorities to internationalize higher education and subsequently stretch its influence (Cheng & Koh, 2022). The Malaysian campus of Xiamen University has been called the 'friendship bridge between Malaysia and China' (Jie, 2018, p. 10).*
 
@@ -135,7 +135,7 @@ updated: 2026-11-11
 > [!stat-cards]- 核心规模数据
 > - **2013** （年） 项目正式立项与官方签署办学协议年份。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 84)]]
 > - **900** （亩） 位于马来西亚雪兰莪州雪邦的独立实体校园规划占地面积。
-> - **1** （所） 中国高水平“双一流”公立大学在海外全资设立的首个拥有独立校园的全功能[[International Branch Campus|海外分校]]。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 84)]]
+> - **1** （所） 中国高水平双一流公立大学在海外全资设立的首个拥有独立校园的全功能[[International Branch Campus|海外分校]]。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 84)]]
 
 ---
 
