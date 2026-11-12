@@ -50,7 +50,7 @@ updated: 2026-11-12
 > [!monograph-profile] 阅读档案
 > - **书名** 《[[Imagined Community|想象的共同体]]：[[Nationalism|民族主义]]的起源与散布》（Imagined Communities: Reflections on the Origin and Spread of Nationalism）。
 > - **撰写者** [[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）。
-> - **阅读范围** 依 EPUB 目录整理十一章和一篇未编号的增补篇。第1至5章已解读，其余各章待解读。
+> - **阅读范围** 依 EPUB 目录整理十一章和一篇未编号的增补篇。第1至6章已解读，其余各章待解读。
 > - **版本** Verso 版权页列出 2016 和 2006，著录采用版权页列出的较晚版次 2016。文件名与 EPUB 元数据标为 2011。
 
 ---
@@ -71,7 +71,7 @@ updated: 2026-11-12
 > | [[Argument_Anderson_2016_Verso_Ch03\|第3章 The Origins of National Consciousness]] | 剖析资本主义、印刷技术与语言宿命多样性的历史聚合，阐明[[Print-Capitalism\|印刷资本主义]]开拓大众市场的方言转向，揭示[[Print-Language\|印刷语言]]奠定现代民族意识的三重机制。 | [[Print-Capitalism]]、[[Print-Language]]、[[Martin Luther]]、[[Edict of Villers-Cotterêts]]、[[Lucien Febvre]] |
 > | [[Argument_Anderson_2016_Verso_Ch04\|第4章 Creole Pioneers]] | 剖析美洲土生白人先驱开创现代民族主义首波浪潮，打破语言分化与[[Political Baptism of the Lower Classes\|平民受洗]]假说；揭示宗主国仕途封锁下[[Administrative Pilgrimage\|行政朝圣]]与地方报刊共时性将殖民管辖区固化为主权共和国。 | [[Creole Nationalism]]、[[Administrative Pilgrimage]]、[[Political Baptism of the Lower Classes]]、[[Tom Nairn]]、[[Victor Turner]] |
 > | [[Argument_Anderson_2016_Verso_Ch05\|第5章 Old Languages, New Models]] | 剖析19世纪欧洲语文学与词典编纂革命确立语言平等主义，揭示科层制扩张与资产阶级想象连带，阐明美法革命凝结为可被普遍盗版的模块化国家蓝图并倒逼民粹改革。 | [[Philological Revolution]]、[[Print-Language]]、[[Modular Nationalism]]、[[Johann Gottfried von Herder]]、[[Eric Hobsbawm]] |
-> | 第 6 章 Official Nationalism and Imperialism | [TXT](../../../../raw/Anderson_2016_Verso_txt/Ch06_Official_Nationalism_and_Imperialism.txt) | 待解读 |
+> | [[Argument_Anderson_2016_Verso_Ch06\|第6章 Official Nationalism and Imperialism]] | 剖析王朝面临大众民族主义冲击的合法性危机，揭示将民族皮囊套于帝国身躯的[[Official Nationalism\|官方民族主义]]防御机制，阐明沙俄、英国、日本、暹罗与匈牙利同化工程中帝国与民族的内在排他性矛盾。 | [[Official Nationalism]]、[[Macaulayism]]、[[Thomas Babington Macaulay]]、[[Hugh Seton-Watson]]、[[Historical-Comparative Method]] |
 > | 第 7 章 The Last Wave | [TXT](../../../../raw/Anderson_2016_Verso_txt/Ch07_The_Last_Wave.txt) | 待解读 |
 > | 第 8 章 Patriotism and Racism | [TXT](../../../../raw/Anderson_2016_Verso_txt/Ch08_Patriotism_and_Racism.txt) | 待解读 |
 > | 第 9 章 The Angel of History | [TXT](../../../../raw/Anderson_2016_Verso_txt/Ch09_The_Angel_of_History.txt) | 待解读 |

@@ -1405,6 +1405,17 @@
     ]
   },
   {
+    "title": "Macaulayism",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Macaulayism.md",
+    "aliases": [
+      "麦考利主义",
+      "麦考利化",
+      "Macaulay's Minute",
+      "麦考利教育政策"
+    ]
+  },
+  {
     "title": "Meditative Mode of Governance",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Meditative Mode of Governance.md",
@@ -33045,6 +33056,19 @@
     ]
   },
   {
+    "title": "Thomas Babington Macaulay",
+    "type": "person",
+    "path": "wiki/persons/uk/Thomas Babington Macaulay.md",
+    "aliases": [
+      "托马斯·巴宾顿·麦考利",
+      "托马斯·麦考利",
+      "麦考利勋爵",
+      "Thomas Macaulay",
+      "T. B. Macaulay",
+      "Lord Macaulay"
+    ]
+  },
+  {
     "title": "Thomas Carlyle",
     "type": "person",
     "path": "wiki/persons/uk/Thomas Carlyle.md",
@@ -49580,6 +49604,11 @@
     "title": "Argument_Anderson_2016_Verso_Ch05",
     "type": "argument",
     "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch05.md"
+  },
+  {
+    "title": "Argument_Anderson_2016_Verso_Ch06",
+    "type": "argument",
+    "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch06.md"
   },
   {
     "title": "Argument_Bates_2017_CognitionEducationTrust",

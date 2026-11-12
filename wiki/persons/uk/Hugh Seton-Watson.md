@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-12
 ---
 
 ---
@@ -95,7 +95,7 @@ updated: 2026-11-11
 > - **国家与民族辨析路径** 厘清了法律主权国家与主观文化民族的错位，为后世分析跨国分离主义与多民族国家治理提供了分析底稿。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]] — 援引其对民族科学界定不可能性的定性，并借其自认主观界定开启想象共同体的人类学阐发。
+> - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]] — 在[[Argument_Anderson_2016_Verso_Ch01|第1章]]借鉴其民族主观判准，在[[Argument_Anderson_2016_Verso_Ch06|第6章]]吸收其官方民族主义概念剖析王朝同化工程。
 
 ---
 
@@ -120,6 +120,7 @@ updated: 2026-11-11
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Imagined Community]] | 理论 | 坦承客观界定困境并提出主观自认判准，启发安德森的人类学转向。 |
+> | [[Official Nationalism]] | 概念 | 提出官方民族主义核心概念，揭示君主政权将民族与国家强行缝合的机制。 |
 > | [[Modular Nationalism]] | 概念 | 梳理欧美新兴民族借助标准化语言与现代国家机器进行制度建构的历程。 |
 > | [[Horizontal Comradeship]] | 概念 | 阐释民众主观认同在超越阶级分割中的精神纽带功能。 |
 > | [[Document]] | 概念 | 运用俄国与东欧外交档案揭示多民族帝国瓦解的历史档案依据。 |

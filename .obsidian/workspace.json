@@ -97,8 +97,7 @@
               "title": "Argument_Santos_Silova_2026_Discourse"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -313,8 +312,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8cf060930e9cdf12",
+  "active": "3ac2639cc8584945",
   "lastOpenFiles": [
+    "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch04.md",
+    "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md",
+    "wiki/facts/finland/Finnish PISA Miracle.md",
+    "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Santos_Silova_2026_Discourse.md",
+    "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+    "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch06.md",
+    "wiki/concepts/comparative-education/Macaulayism.md",
+    "wiki/persons/uk/Thomas Babington Macaulay.md",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch05-0229d978/batch-009/result.json",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch05-0229d978/batch-008/result.json",
     "wiki/persons/us/Thomas Jefferson.md",
@@ -326,7 +333,6 @@
     "wiki/facts/spain/Royal Decree on Slaves 1789.md",
     "wiki/persons/venezuela/Simón Bolívar.md",
     "wiki/facts/uk/Dunmore's Proclamation.md",
-    "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch04.md",
     "wiki/facts/portugal/Pombaline Reforms.md",
     "wiki/concepts/political-economy-geopolitics/Administrative Pilgrimage.md",
     "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch05.md",
@@ -342,15 +348,8 @@
     "output/related-updates/Argument_Anderson_2016_Verso_Ch05-0229d978/batch-010/prompt.md",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch05-0229d978/batch-010/batch-result.schema.json",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch05-0229d978/batch-009/prompt.md",
-    "output/related-updates/Argument_Anderson_2016_Verso_Ch05-0229d978/batch-009/batch-result.schema.json",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch05-0229d978/batch-008/prompt.md",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch05-0229d978/batch-007/prompt.md",
-    "output/related-updates/Argument_Anderson_2016_Verso_Ch05-0229d978/batch-006/prompt.md",
-    "output/related-updates/Argument_Anderson_2016_Verso_Ch05-0229d978/batch-005/prompt.md",
-    "output/related-updates/Argument_Anderson_2016_Verso_Ch05-0229d978/batch-004/prompt.md",
-    "output/related-updates/Argument_Anderson_2016_Verso_Ch05-0229d978/batch-003/prompt.md",
-    "output/related-updates/Argument_Anderson_2016_Verso_Ch05-0229d978/batch-002/prompt.md",
-    "output/related-updates/Argument_Anderson_2016_Verso_Ch05-0229d978/batch-001/prompt.md",
     "tmp_t0025.png",
     "books/Anderson_2016_Verso/figures/Figure_02-01_Novel_Time_Chart.png",
     "tmp/callout-refinement/untitled-example-light-1440.png",
