@@ -1656,6 +1656,16 @@
     ]
   },
   {
+    "title": "Performative Turn",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Performative Turn.md",
+    "aliases": [
+      "performative-turn",
+      "表现主义转向",
+      "行为绩效转向"
+    ]
+  },
+  {
     "title": "Performativity",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Performativity.md",
@@ -4559,6 +4569,15 @@
       "乐团管理模式",
       "Symphony Orchestra Organization",
       "Orchestra Management Model"
+    ]
+  },
+  {
+    "title": "Teacher Leadership",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Teacher Leadership.md",
+    "aliases": [
+      "teacher-leadership",
+      "教师领导力"
     ]
   },
   {
@@ -7600,6 +7619,17 @@
       "副作用",
       "side effects in education",
       "unintended negative consequences"
+    ]
+  },
+  {
+    "title": "Silver-Bullet Fallacy",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Silver-Bullet Fallacy.md",
+    "aliases": [
+      "silver-bullet-fallacy",
+      "银弹谬误",
+      "单因素速效谬误",
+      "银弹解法"
     ]
   },
   {
@@ -34012,6 +34042,17 @@
     ]
   },
   {
+    "title": "David K. Cohen",
+    "type": "person",
+    "path": "wiki/persons/us/David K. Cohen.md",
+    "aliases": [
+      "david-k-cohen",
+      "David Cohen",
+      "戴维·科恩",
+      "戴维·K·科恩"
+    ]
+  },
+  {
     "title": "David Klahr",
     "type": "person",
     "path": "wiki/persons/us/David Klahr.md",
@@ -34900,6 +34941,17 @@
       "James Cattell",
       "J. M. Cattell",
       "Cattell, J. M."
+    ]
+  },
+  {
+    "title": "James P. Spillane",
+    "type": "person",
+    "path": "wiki/persons/us/James P. Spillane.md",
+    "aliases": [
+      "james-p-spillane",
+      "James Spillane",
+      "詹姆斯·斯皮兰",
+      "詹姆斯·P·斯皮兰"
     ]
   },
   {

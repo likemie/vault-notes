@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/methods/quantitative/Baseline Standardized Mean Difference.md",
+                "file": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch05.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Baseline Standardized Mean Difference"
+              "title": "Argument_Anderson_2016_Verso_Ch05"
             }
           },
           {
@@ -330,6 +330,14 @@
   },
   "active": "ae133a7235b97631",
   "lastOpenFiles": [
+    "wiki/persons/portugal/Nuno Crato.md",
+    "wiki/persons/us/Andrew Porter.md",
+    "wiki/persons/us/Susan Fuhrman.md",
+    "wiki/persons/us/James P. Spillane.md",
+    "wiki/persons/us/David K. Cohen.md",
+    "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch06.md",
+    "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch07.md",
+    "wiki/methods/quantitative/Baseline Standardized Mean Difference.md",
     "wiki/concepts/educational-leadership-administration/Teacher Leadership.md",
     "wiki/concepts/educational-policy-reform/Silver-Bullet Fallacy.md",
     "wiki/concepts/comparative-education/Performative Turn.md",
@@ -342,7 +350,6 @@
     "wiki/persons/brazil/Pedro I of Brazil.md",
     "wiki/persons/us/Benjamin Franklin.md",
     "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md",
-    "wiki/methods/quantitative/Baseline Standardized Mean Difference.md",
     "wiki/concepts/political-economy-geopolitics/Print-Capitalism.md",
     "tmp/callout-refinement/entry-map-family-light-1440.png",
     "tmp/callout-refinement/entry-map-family-dark-390.png",
@@ -358,7 +365,6 @@
     "tmp/callout-refinement/entry-map-wash-dark-390.png",
     "tmp/callout-refinement/entry-map-wash-dark-1440.png",
     "tmp/callout-refinement/entry-map-wash-check.mjs",
-    "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch07.md",
     "tmp/callout-refinement/entry-map-rows-light-1440.png",
     "tmp/callout-refinement/entry-map-rows-check.mjs",
     "tmp/callout-refinement/entry-map-chips-check.mjs",
@@ -370,12 +376,6 @@
     "wiki/methods/quantitative/Angoff Method.md",
     "wiki/methods/quantitative/Analysis of Variance.md",
     "wiki/methods/quantitative/Analysis of Covariance.md",
-    "wiki/templates/template-fact-event.md",
-    "wiki/facts/spain/Expulsion of the Jesuits 1767.md",
-    "wiki/facts/paraguay/Jesuit Reductions.md",
-    "wiki/facts/china/Opinions on Properly Conducting the Education Opening-up Work of the New Era.md",
-    "wiki/facts/asia/Sumpah Pemuda.md",
-    "wiki/persons/indonesia/Suwardi Surjaningrat.md",
     "未命名.canvas"
   ]
 }

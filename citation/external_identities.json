@@ -6993,6 +6993,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md",
+        "wiki/concepts/comparative-education/Performative Turn.md",
+        "wiki/concepts/educational-leadership-administration/Teacher Leadership.md",
         "wiki/persons/uk/Stephen Ball.md",
         "wiki/theories/educational-policy-reform/Policy as a Process.md"
       ],
@@ -7448,6 +7450,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/comparative-education/Performative Turn.md",
         "wiki/persons/uk/Michael Barber.md"
       ],
       "title": ""
@@ -21766,7 +21769,9 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/curriculum/Curricular Governance.md"
+        "wiki/concepts/curriculum/Curricular Governance.md",
+        "wiki/persons/us/David K. Cohen.md",
+        "wiki/persons/us/James P. Spillane.md"
       ],
       "title": ""
     },
@@ -21810,6 +21815,14 @@
       "seen_in": [
         "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md",
         "wiki/concepts/university-industry-collaboration/Knowledge Transfer.md"
+      ],
+      "title": ""
+    },
+    "Cohen et al., 2003": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/David K. Cohen.md"
       ],
       "title": ""
     },
@@ -25356,6 +25369,7 @@
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/educational-leadership-administration/Distributed Leadership.md",
         "wiki/concepts/educational-leadership-administration/Instructional Leadership.md",
+        "wiki/concepts/educational-leadership-administration/Teacher Leadership.md",
         "wiki/facts/us/Sanger Unified School District.md"
       ],
       "title": ""
@@ -26180,6 +26194,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Review of Educational Research/Argument_Hofer_1997_RER.md"
+      ],
+      "title": ""
+    },
+    "Deaton, 2020": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Silver-Bullet Fallacy.md"
       ],
       "title": ""
     },
@@ -45314,7 +45336,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/educational-leadership-administration/Teacher Leadership.md"
       ],
       "title": ""
     },
@@ -51842,6 +51865,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/educational-policy-reform/Silver-Bullet Fallacy.md",
         "wiki/facts/poland/Polish Education Reform of 1999.md"
       ],
       "title": ""
@@ -75890,6 +75914,14 @@
       ],
       "title": ""
     },
+    "Murnane & Ganimian, 2014": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Silver-Bullet Fallacy.md"
+      ],
+      "title": ""
+    },
     "Murnane & Levy, 1996": {
       "doi": "",
       "isbn": "",
@@ -81657,7 +81689,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/educational-leadership-administration/Teacher Leadership.md"
       ],
       "title": ""
     },
@@ -89209,6 +89242,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Meta analysis of the effect of cooperative learning models on student learning outcomes physics in high school physics and junior high science."
+    },
+    "Rizvi & Beech, 2017": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Performative Turn.md"
+      ],
+      "title": ""
     },
     "Rizvi & Lingard, 2010": {
       "doi": "",
@@ -100779,6 +100820,14 @@
       ],
       "title": ""
     },
+    "Spillane, 2006": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/James P. Spillane.md"
+      ],
+      "title": ""
+    },
     "Spillane, 2012": {
       "doi": "",
       "isbn": "",
@@ -108271,6 +108320,7 @@
         "wiki/arguments/journal-articles/Education Policy Analysis Archives/Argument_Edmondson_2005_EPAA.md",
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/comparative-education/Grammar of Schooling.md",
+        "wiki/concepts/educational-policy-reform/Silver-Bullet Fallacy.md",
         "wiki/persons/us/David Tyack.md"
       ],
       "title": ""

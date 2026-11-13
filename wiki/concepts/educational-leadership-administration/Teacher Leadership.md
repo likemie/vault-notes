@@ -5,29 +5,27 @@ aliases:
   - 教师领导力
 summary: "指打破学校传统科层金字塔与单一行政职位垄断、赋权一线优秀教师在微观课堂之外承担课程研发、同行现场教练、跨校教研与集体决策等引领职能的分布式专业权力形态，由庞圣基、阿尔玛·哈里斯等学者结合上海、威尔士等教育系统提质实证深入阐发。"
 type: concept
+domain: "educational-leadership-administration"
+related_count: 6
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/educational-leadership-administration
   - theme/teacher-development
   - theme/distributed-leadership
   - theme/instructional-improvement
 related_concepts:
-  - "[[Distributed Leadership]]"
   - "[[Instructional Leadership]]"
-  - "[[Professional Capital]]"
+  - "[[Distributed Leadership]]"
   - "[[Professional Learning Community]]"
-  - "[[Instructional Coaching]]"
-  - "[[Mentorship]]"
-  - "[[Tacit Knowledge]]"
-related_theories:
-  - "[[Organizational Culture]]"
-related_methods:
-  - "[[Case Study]]"
+  - "[[Professional Capital]]"
+related_theories: []
+related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Richard Elmore]]"
+related_persons: []
 related_facts:
   - "[[Sanger Unified School District]]"
-  - "[[New York City Community School District 2]]"
 related_arguments:
   - "[[Argument_Barrenechea_2023_JEC]]"
 confidence: high
@@ -110,15 +108,15 @@ updated: 2026-11-13
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **文化转化命题** | 破除专业孤立，以集体责任与同侪带教重塑课堂教学行为 | 推行校本教研、专业学习共同体改革的各类学校系统 | Harris & Jones (2017); David & Talbert (2012) |
-> | **制度激励命题** | 建立独立于行政官僚的多级专业阶梯，留存并辐射实践资本 | 追求教育均衡与全系统卓越的大型城市或国家公立教育体系 | Pang & Miao (2017) |
+> | **文化转化命题** | 破除专业孤立，以集体责任与同侪带教重塑课堂教学行为 | 推行校本教研、专业学习共同体改革的各类学校系统 | Harris and Jones (2017); David and Talbert (2012) |
+> | **制度激励命题** | 建立独立于行政官僚的多级专业阶梯，留存并辐射实践资本 | 追求教育均衡与全系统卓越的大型城市或国家公立教育体系 | Pang and Miao (2017) |
 
 ---
 
 > [!dev-timeline] 概念演变
 > - **1980年代 — 教师专业化与赋权思潮** 卡耐基报告呼吁改善教师工作环境，倡导优秀教师参与学校治理。
 > - **2000年代初 — 分布式领导理论深度融合** Spillane 与 Elmore 等学者将领导力界定为分布式网络，使教师领导力从边缘参与上升为主流分析构念。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 491)]]
-> - **2015年至今 — 全系统改进实证聚焦** Pang & Miao (2017) 与 Barrenechea 等将教师领导力视为解释顶尖系统（如上海、威尔士、桑格学区）持续卓越的核心组织机制。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 491)]]
+> - **2015年至今 — 全系统改进实证聚焦** Pang and Miao (2017) 与 Barrenechea et al. 将教师领导力视为解释顶尖系统（如上海、威尔士、桑格学区）持续卓越的核心组织机制。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 491)]]
 
 ---
 

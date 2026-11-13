@@ -6,6 +6,11 @@ aliases:
   - 行为绩效转向
 summary: "指全球教育治理与比较教育政策研究从传统的入学机会、学制年限与公共财政投入等输入端指标，根本性转向将大规模标准化测评中的可度量学业产出确立为最高评判准则的范式演变，由法兹尔·里兹维与杰森·比奇等学者系统阐述。"
 type: concept
+domain: "comparative-education"
+related_count: 6
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/comparative-education
   - theme/educational-governance
@@ -14,24 +19,14 @@ tags:
 related_concepts:
   - "[[Comparative Turn in Education Policy]]"
   - "[[Output-Oriented Governance]]"
-  - "[[High-Stakes Testing]]"
-  - "[[Academic Achievement]]"
   - "[[System-Wide Improvement]]"
-  - "[[Technical Rationality]]"
-related_theories:
-  - "[[Governing at a Distance]]"
-  - "[[Policy Borrowing]]"
-related_methods:
-  - "[[Documentary Analysis]]"
-  - "[[Historical-Comparative Method]]"
+related_theories: []
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Jason Beech]]"
-  - "[[Andreas Schleicher]]"
 related_facts:
   - "[[PISA]]"
-  - "[[TIMSS]]"
-  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Barrenechea_2023_JEC]]"
 confidence: high
@@ -43,7 +38,7 @@ updated: 2026-11-13
 ---
 
 > [!def] Performative Turn
-> 表现主义转向（Performative Turn），亦称行为绩效转向，指 20 世纪末至 21 世纪初全球教育政策与比较教育研究中发生的认识论与治理范式转变；该构念揭示了国家治理与跨国组织将政策重心从早期的入学机会普及、学校建筑设施供给及公共经费占国民生产总值比例等“输入与规模指标”，彻底转向以国际大规模学生评估（如 PISA、TIMSS）中可测量、可比较的认知学业产出（Measurable Student Learning Outcomes）作为评判教育系统合法性与效能的最高基准。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 495)]]
+> 表现主义转向（Performative Turn），亦称行为绩效转向，指 20 世纪末至 21 世纪初全球教育政策与比较教育研究中发生的认识论与治理范式转变；该构念揭示了国家治理与跨国组织将政策重心从早期的入学机会普及、学校建筑设施供给及公共经费占国民生产总值比例等“输入与规模指标”，彻底转向以国际大规模学生评估（如 PISA、TIMSS）中可测量、可比较的认知学业产出（Measurable Student Learning Outcomes）作为评判教育体系效能与制度正当性的最高基准。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 495)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向全球教育政策逻辑中以量化可比测验数据为唯一结果导向的价值重构机制。
@@ -102,7 +97,7 @@ updated: 2026-11-13
 ---
 
 > [!concept-proposition] 命题二｜绩效产出目标通过倒逼机制重组了教师培训、问责制度与资源分配的实践路径
-> **实践层面的渗透重塑** 表现主义转向并非停留于上层建筑的话语修辞，它促使教育系统各子系统将一切行政资源向影响微观课堂日常教学的核心变量倾斜。
+> **实践层面的渗透重塑** 表现主义转向深刻重塑了教育实践，促使各子系统将行政资源向影响微观课堂教学的核心变量深度倾斜。
 >
 > > [!claim] Barrenechea, I. et al.
 > > **学习指标对所有改革驱动要素的全面渗透** 在表现主义驱动下，教师队伍建设转向高度情境化的微观现场带教；问责体系无论是走向科层制裁还是走向专业支持，其共同目标皆在于促使一线教师主动拥抱对学生最终学业成效的连带责任。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 495)]]
@@ -112,8 +107,8 @@ updated: 2026-11-13
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **价值中枢命题** | 认知学业产出成为评价国家与学区教育质量的首要判准 | 参与大规模国际测评或推行全系统统测的各类现代教育系统 | Rizvi & Beech (2017); Barrenechea et al. (2023) |
-> | **制度渗透命题** | 绩效产出目标反向规训师资培训、课程配置与资源投放机制 | 推行全系统系统性提质工程与循证政策的区域与学区 | Barrenechea et al. (2023) |
+> | **价值中枢命题** | 认知学业产出成为评价国家与学区教育质量的首要判准 | 参与大规模国际测评或推行全系统统测的各类现代教育系统 | Rizvi and Beech (2017); [[Argument_Barrenechea_2023_JEC\|Barrenechea et al. (2023)]] |
+> | **制度渗透命题** | 绩效产出目标反向规训师资培训、课程配置与资源投放机制 | 推行全系统系统性提质工程与循证政策的区域与学区 | [[Argument_Barrenechea_2023_JEC\|Barrenechea et al. (2023)]] |
 
 ---
 

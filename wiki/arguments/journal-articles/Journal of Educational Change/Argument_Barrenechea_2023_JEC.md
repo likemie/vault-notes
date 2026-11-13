@@ -32,6 +32,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[High-Stakes Testing]]"
   - "[[Performance Pay]]"
+  - "[[Curriculum Alignment]]"
   - "[[Deliverology]]"
   - "[[Scripted Curriculum]]"
   - "[[Counterfactual]]"
@@ -40,15 +41,19 @@ related_concepts:
   - "[[Comparative Turn in Education Policy]]"
   - "[[Unit of Analysis]]"
   - "[[International Large-Scale Assessments]]"
+  - "[[Performative Turn]]"
+  - "[[Curriculum Coherence]]"
   - "[[Feedback]]"
   - "[[Causality]]"
   - "[[Falsification]]"
+  - "[[Silver-Bullet Fallacy]]"
   - "[[Instructional Core]]"
   - "[[Mentorship]]"
   - "[[Instructional Coaching]]"
   - "[[Professional Learning Community]]"
   - "[[Instructional Leadership]]"
   - "[[Tacit Knowledge]]"
+  - "[[Teacher Leadership]]"
   - "[[Professional Accountability]]"
   - "[[Reflexivity]]"
   - "[[Governance Platform]]"
@@ -94,14 +99,14 @@ sources:
 part_of:
 status: draft
 created: 2026-11-10
-updated: 2026-11-11
+updated: 2026-11-13
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Barrenechea_2023_JEC"
 argument_key: "Argument_Barrenechea_2023_JEC"
 argument_display_title: "How can education systems improve? A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 63
+argument_related_count: 68
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -132,7 +137,7 @@ issuing_organization: ""
 > |----------|----------|
 > | **理性选择与新公共管理（New Public Management, NPM）** | 假定个体决策旨在最大化效益，主张通过绩效激励、去中心化管理与标准化统考等外部问责机制重塑教育系统（Becker, 1976; Hood, 1991）。 |
 > | **教育变革的文化取向** | 强调教育系统的历史惯性与深层制度规范（[[Grammar of Schooling\|学校文法（Grammar of Schooling）]]），主张系统变革必须结合全面社会改革并达成广泛社会共识（[[Torsten Husén\|Husén, 1994]]; [[David Tyack\|Tyack]] & Cuban, 1995）。 |
-> | **[[Curricular Governance\|课程治理]]与一致性取向** | 关注从国家规定课程到教材、课堂教学与实际学习的课程流转，将课程深度连贯性与教材标准化视为系统协调的核心中枢（Cogan et al., 2001; Schmidt et al., 2005）。 |
+> | **[[Curricular Governance|课程治理]]与一致性取向** | 关注从国家规定课程到教材、课堂教学与实际学习的课程流转，将课程深度连贯性与教材标准化视为系统协调的核心中枢（[[David K. Cohen|Cohen]] & [[James P. Spillane|Spillane]], 1992; Cogan et al., 2001; Schmidt et al., 2005）。 |
 > | **[[McKinsey Education Reports\|麦肯锡改进阶段论]]** | 依据系统初始绩效水平划分改进阶梯，主张低绩效系统依赖高度规范指令，高绩效系统逐步转向专业分权（Mourshed et al., 2010）。 |
 
 > [!warrant]- 理论工具的整合功能与解释机制
@@ -143,7 +148,7 @@ issuing_organization: ""
 > |---|---|---|---|---|
 > | **理性选择与[[New Public Management\|新公共管理]]** | 行动者依据激励结构最大化自身利益；市场竞争与问责驱动质量提升 | 简政分权、办学绩效排名、[[High-Stakes Testing\|高利害测验]]、[[Performance Pay\|绩效工资]]、引入民营赞助主体 | Becker (1976); Hood (1991) | 将干预措施与复杂情境人为割裂；容易催生应试导向、窄化课程与校际分化 |
 > | **教育变革的文化取向** | 教育系统由历史、身份与深层社会规范建构；学校文法具有强大组织抗变惯性 | 渐进式文化重构、寻求社会广泛共识、推动涵盖经济民生的综合社会改革、发展横向专业共同体 | [[Torsten Husén\|Husén (1994)]]; [[David Tyack\|Tyack]] and Cuban (1995); [[Michael Fullan\|Fullan (2016)]] | 变革周期极其漫长；在缺乏外部推力时容易陷入组织内卷与行动迟缓 |
-> | **[[Curricular Governance\|课程治理]]与流转取向** | 规定课程通过教材与教学材料转化为课堂实践；系统连贯性决定学习效能 | 建立强有力的国家课程中枢、统一高质量教科书、推进[[Curriculum Alignment|课程对齐]]并协调教学目标、内容、方法与评估 | Cogan et al. (2001); Schmidt et al. (2005); Valverde (2014) | 过度强调学科知识逻辑可能压制地方灵活性与校本创新活力 |
+> | **[[Curricular Governance|课程治理]]与流转取向** | 规定课程通过教材与教学材料转化为课堂实践；系统连贯性决定学习效能 | 建立强有力的国家课程中枢、统一高质量教科书、推进[[Curriculum Alignment|课程对齐]]并协调教学目标、内容、方法与评估 | [[David K. Cohen|Cohen]] & [[James P. Spillane|Spillane]] (1992); [[Susan Fuhrman|Fuhrman]] (1993); [[Andrew Porter|Porter]] (2002); Cogan et al. (2001); Valverde (2014) | 过度强调学科知识逻辑可能压制地方灵活性与校本创新活力 |
 > | **[[McKinsey Education Reports\|麦肯锡阶段改进论]]与[[Deliverology\|交付学]]** | 全球系统沿共同阶梯向上演进；改进路径严格取决于系统绩效初始起点 | 依据初始分段匹配政策包：低绩效系统抓标准化[[Scripted Curriculum\|脚本化教案]]与严规制，高绩效系统放权专业自主；巴伯通过设立交付单元推行刚性目标管理 | Mourshed et al. (2010); Barber et al. (2011) | 带有机械线性指令色彩；缺乏因果检验与[[Counterfactual\|反事实]]依据，遮蔽各国本土历史语境（Morris, 2015） |
 
 ---
@@ -217,7 +222,7 @@ issuing_organization: ""
 > [!sub-claim] 2. 跨期国际评估打破经验光环，中小系统的提质经验受到重视
 
 > [!case] 测量技术转向催生的新型提质系统案例
-> - **爱沙尼亚与葡萄牙受到国际瞩目** 凭借在 PISA 历年追踪中的持续稳步提升，原本在传统比较教育视域中处于边缘位置的中小国家（如爱沙尼亚与葡萄牙）跃居国际政策关注的中心位置（Boman, 2020; Carvalho et al., 2017; Mikk, 2015）。
+> - **爱沙尼亚与葡萄牙受到国际瞩目** 凭借在 PISA 历年追踪中的持续稳步提升，原本在传统比较教育视域中处于边缘位置的中小国家（如爱沙尼亚与[[Nuno Crato|努诺·克拉托]]领导下的葡萄牙改革）跃居国际政策关注的中心位置（Boman, 2020; Carvalho et al., 2017; Crato, 2021; Mikk, 2015）。
 > - **关注点由头名冠军转向提质加速度** 测评度量的深化促使学界与国际组织的考察视线从绝对高水平系统转向具有显著改善特征的系统，探寻促使系统摆脱低谷的有效政策支点。
 
 > [!policy-context] 跨国管理咨询机构介入教育政策生产
@@ -237,7 +242,7 @@ issuing_organization: ""
 > [!sub-claim] 2. 咨询公司的通用模型脱离实际，国家课程与教材是连接教学的关键桥梁
 
 > [!mechanism] 课程连贯性流转机制：国家中枢与统整教材的协调功能
-> Cogan et al. (2001) 在《学校为何重要》（*Why Schools Matter*）中基于[[TIMSS|国际数学与科学趋势研究]]（Trends in International Mathematics and Science Study, TIMSS）对 54 个教育系统的课程轨迹展开比较。研究将课程划分为规定目标、教学内容、教学方法与评估形式四个维度，证实具备中央集权型课程体制且能够有效对齐各阶段课程流转的系统（课程连贯性），往往能达成更高的学生学业一致性。国家必须设立富有活力的制度中枢，依靠统一教科书等中介工具规范学习轨迹，提供常态化[[Feedback|教学反馈]]（Schmidt & Prawat, 2006）。
+> Cogan et al. (2001) 在《学校为何重要》（*Why Schools Matter*）中基于[[TIMSS|国际数学与科学趋势研究]]（Trends in International Mathematics and Science Study, TIMSS）对 54 个教育系统的课程轨迹展开比较。研究将课程划分为规定目标、教学内容、教学方法与评估形式四个维度，证实具备中央集权型课程体制且能够有效对齐各阶段课程流转的系统（[[Curriculum Coherence|课程连贯性]]与[[Curriculum Alignment|课程对齐]]），往往能达成更高的学生学业一致性。国家必须设立富有活力的制度中枢，依靠统一教科书等中介工具规范学习轨迹，提供常态化[[Feedback|教学反馈]]（Schmidt & Prawat, 2006；另见 [[Susan Fuhrman|Fuhrman]] (1993) 与 [[Andrew Porter|Porter]] (2002) 奠定的课程治理与对齐测量传统）。
 
 > [!framework] 麦肯锡阶段改进模型：统一演进阶梯与分段干预假说
 > 麦肯锡公司在 2007 年发布《顶尖学校系统如何脱颖而出》聚焦绝对高绩效系统后，于 2010 年发布《世界最佳改善学校系统如何精益求精》（麦肯锡教育报告，Mourshed et al., 2010），基于 200 场[[In-depth Interview|深度访谈]]对 20 个教育系统的 575 项政策干预进行分类。报告提出全球系统依照统一阶段演进：从贫弱到合格依赖严格行政规制与脚本化教学；从合格到良好聚焦教师队伍专业建设；从良好到卓越向教师下放教学决策自主权。
@@ -248,7 +253,7 @@ issuing_organization: ""
 ---
 
 > [!claim|step] 论证步骤三　全系统改进依托战略定力、教师投资、支持性治理与资源倾斜共同推进
-> 综合 43 篇核心实证文献的发现，教育系统的整体提升由目标战略、师资建设、治理机制与资源调配四大支柱环环相扣、相互支撑而成。
+> 综合 43 篇核心实证文献的发现，教育系统的整体提升由目标战略、师资建设、治理机制与资源调配四大支柱环环相扣、相互支撑而成，从根本上否定了企图依赖单一孤立政策干预的[[Silver-Bullet Fallacy|银弹解法]]（Silver-Bullet Fallacy，Jakubowski, 2015）。
 
 > [!sub-claim] 1. 目标少而精并保持长期定力，全系统达成共识才能避免政策反复
 
@@ -278,7 +283,7 @@ issuing_organization: ""
 > [!case] 教学引领者转型与[[Professional Learning Community|专业学习共同体]]实践
 > - **加州桑格学区管理者角色转型** 加州桑格联合学区推动学区行政官员与中小学校长从传统的科层事务管理者转向以[[Instructional Leadership|教学领导力]]（Instructional Leadership）为核心的学习引领者，推行分布式领导与教师集体责任制（David & Talbert, 2012；另见圣地亚哥学区，O’Day & Quick, 2009）。
 > - **威尔士专业学习共同体** 威尔士政府自 2008 年起在全辖区学校建立专业学习共同体（Professional Learning Communities, PLCs），鼓励一线教师以教研小组形式共享[[Tacit Knowledge|默会知识]]、反思日常教学行为（Harris & Jones, 2017）。
-> - **中国上海名师带教与委托管理** Pang and Miao (2017) 指出，上海通过多级教师专业荣誉与职级体系培育骨干教师领导力，并推行优质校托管薄弱校模式，促进师资专业经验的制度化流动。
+> - **中国上海名师带教与委托管理** Pang and Miao (2017) 指出，上海通过多级教师专业荣誉与职级体系培育骨干[[Teacher Leadership|教师领导力]]（Teacher Leadership），并推行优质校托管薄弱校模式，促进师资专业经验的制度化流动。
 
 > [!sub-claim] 3. 惩罚性问责容易导致应试扭曲，基于数据的专业支持才能改进实践
 

@@ -4970,6 +4970,7 @@
     "Cohen et al. (1982)": "Cohen et al., 1982",
     "Cohen et al. (1983)": "Cohen et al., 1983",
     "Cohen et al. (2002)": "Cohen et al., 2002",
+    "Cohen et al. (2003)": "Cohen et al., 2003",
     "Cohen et al. (2004)": "Cohen et al., 2004",
     "Cohen et al. (2007)": "Cohen et al., 2007",
     "Cohen et al. (2011)": "Cohen et al., 2011",
@@ -4978,6 +4979,7 @@
     "Cohen et al., 1982": "Cohen et al., 1982",
     "Cohen et al., 1983": "Cohen et al., 1983",
     "Cohen et al., 2002": "Cohen et al., 2002",
+    "Cohen et al., 2003": "Cohen et al., 2003",
     "Cohen et al., 2004": "Cohen et al., 2004",
     "Cohen et al., 2007": "Cohen et al., 2007",
     "Cohen et al., 2011": "Cohen et al., 2011",
@@ -5956,6 +5958,8 @@
     "Dean, 2015": "Dean, 2015",
     "Deanna Kuhn (1991)": "Deanna Kuhn, 1991",
     "Deanna Kuhn, 1991": "Deanna Kuhn, 1991",
+    "Deaton (2020)": "Deaton, 2020",
+    "Deaton, 2020": "Deaton, 2020",
     "Deault (2009)": "Deault, 2009",
     "Deault, 2009": "Deault, 2009",
     "Deborah Youdell (2007)": "Deborah Youdell, 2007",
@@ -17275,6 +17279,8 @@
     "Murdoch, 2006": "Murdoch, 2006",
     "Murnane & Cohen (1981)": "Murnane & Cohen, 1981",
     "Murnane & Cohen, 1981": "Murnane & Cohen, 1981",
+    "Murnane & Ganimian (2014)": "Murnane & Ganimian, 2014",
+    "Murnane & Ganimian, 2014": "Murnane & Ganimian, 2014",
     "Murnane & Levy (1996)": "Murnane & Levy, 1996",
     "Murnane & Levy, 1996": "Murnane & Levy, 1996",
     "Murphy & Alexander (2006)": "Murphy & Alexander, 2006",
@@ -20305,6 +20311,8 @@
     "Rizk, 2017": "Rizk, 2017",
     "Rizki et al. (2022)": "Rizki et al., 2022",
     "Rizki et al., 2022": "Rizki et al., 2022",
+    "Rizvi & Beech (2017)": "Rizvi & Beech, 2017",
+    "Rizvi & Beech, 2017": "Rizvi & Beech, 2017",
     "Rizvi & Lingard (2010)": "Rizvi & Lingard, 2010",
     "Rizvi & Lingard, 2010": "Rizvi & Lingard, 2010",
     "Rizvi (2004)": "Rizvi, 2004",
@@ -22944,9 +22952,11 @@
     "Spies, 1987b": "Spies, 1987b",
     "Spilka (2014)": "Spilka, 2014",
     "Spilka, 2014": "Spilka, 2014",
+    "Spillane (2006)": "Spillane, 2006",
     "Spillane (2012)": "Spillane, 2012",
     "Spillane et al. (2002)": "Spillane et al., 2002",
     "Spillane et al., 2002": "Spillane et al., 2002",
+    "Spillane, 2006": "Spillane, 2006",
     "Spillane, 2012": "Spillane, 2012",
     "Spindler & Spindler (1992)": "Spindler & Spindler, 1992",
     "Spindler & Spindler, 1992": "Spindler & Spindler, 1992",
@@ -39543,6 +39553,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md",
+        "wiki/concepts/comparative-education/Performative Turn.md",
+        "wiki/concepts/educational-leadership-administration/Teacher Leadership.md",
         "wiki/persons/uk/Stephen Ball.md",
         "wiki/theories/educational-policy-reform/Policy as a Process.md"
       ],
@@ -40317,6 +40329,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/comparative-education/Performative Turn.md",
         "wiki/persons/uk/Michael Barber.md"
       ],
       "title": ""
@@ -64094,7 +64107,9 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/curriculum/Curricular Governance.md"
+        "wiki/concepts/curriculum/Curricular Governance.md",
+        "wiki/persons/us/David K. Cohen.md",
+        "wiki/persons/us/James P. Spillane.md"
       ],
       "title": ""
     },
@@ -64167,6 +64182,21 @@
       "seen_in": [
         "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md",
         "wiki/concepts/university-industry-collaboration/Knowledge Transfer.md"
+      ],
+      "title": ""
+    },
+    "Cohen et al., 2003": {
+      "aliases": [
+        "Cohen et al., 2003",
+        "Cohen et al. (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Cohen et al., 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/David K. Cohen.md"
       ],
       "title": ""
     },
@@ -70061,6 +70091,7 @@
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/educational-leadership-administration/Distributed Leadership.md",
         "wiki/concepts/educational-leadership-administration/Instructional Leadership.md",
+        "wiki/concepts/educational-leadership-administration/Teacher Leadership.md",
         "wiki/facts/us/Sanger Unified School District.md"
       ],
       "title": ""
@@ -71470,6 +71501,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Review of Educational Research/Argument_Hofer_1997_RER.md"
+      ],
+      "title": ""
+    },
+    "Deaton, 2020": {
+      "aliases": [
+        "Deaton, 2020",
+        "Deaton (2020)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Deaton, 2020"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Silver-Bullet Fallacy.md"
       ],
       "title": ""
     },
@@ -103293,7 +103339,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/educational-leadership-administration/Teacher Leadership.md"
       ],
       "title": ""
     },
@@ -114168,6 +114215,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/educational-policy-reform/Silver-Bullet Fallacy.md",
         "wiki/facts/poland/Polish Education Reform of 1999.md"
       ],
       "title": ""
@@ -153635,6 +153683,21 @@
       ],
       "title": ""
     },
+    "Murnane & Ganimian, 2014": {
+      "aliases": [
+        "Murnane & Ganimian, 2014",
+        "Murnane & Ganimian (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Murnane & Ganimian, 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Silver-Bullet Fallacy.md"
+      ],
+      "title": ""
+    },
     "Murnane & Levy, 1996": {
       "aliases": [
         "Murnane & Levy, 1996",
@@ -163294,7 +163357,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/educational-leadership-administration/Teacher Leadership.md"
       ],
       "title": ""
     },
@@ -175860,6 +175924,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Meta analysis of the effect of cooperative learning models on student learning outcomes physics in high school physics and junior high science."
+    },
+    "Rizvi & Beech, 2017": {
+      "aliases": [
+        "Rizvi & Beech, 2017",
+        "Rizvi & Beech (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rizvi & Beech, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Performative Turn.md"
+      ],
+      "title": ""
     },
     "Rizvi & Lingard, 2010": {
       "aliases": [
@@ -195077,6 +195156,21 @@
       ],
       "title": ""
     },
+    "Spillane, 2006": {
+      "aliases": [
+        "Spillane, 2006",
+        "Spillane (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Spillane, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/James P. Spillane.md"
+      ],
+      "title": ""
+    },
     "Spillane, 2012": {
       "aliases": [
         "Spillane, 2012",
@@ -207400,6 +207494,7 @@
         "wiki/arguments/journal-articles/Education Policy Analysis Archives/Argument_Edmondson_2005_EPAA.md",
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/comparative-education/Grammar of Schooling.md",
+        "wiki/concepts/educational-policy-reform/Silver-Bullet Fallacy.md",
         "wiki/persons/us/David Tyack.md"
       ],
       "title": ""
