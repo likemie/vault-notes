@@ -10,7 +10,7 @@ summary: "运用历史因果考证与跨国情境对照解释教育制度、国�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 104
+method_related_count: 105
 method_related_level: 10
 method_related_stars: "💎💎💎⭐"
 method_related_color: "#dbeafe"
@@ -132,6 +132,7 @@ related_arguments:
   - "[[Argument_Anderson_2016_Verso]]"
   - "[[Argument_Anderson_2016_Verso_Ch05]]"
   - "[[Argument_Anderson_2016_Verso_Ch07]]"
+  - "[[Argument_Anderson_2016_Verso_Ch09]]"
   - "[[Argument_Anderson_2016_Verso_Ch10]]"
 confidence: high
 status: completed
@@ -284,5 +285,5 @@ updated: 2026-11-13
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 运用历史制度与跨国比较方法，梳理战后美国国防研发投资与采购对半导体及计算机产业的催化作用及其向商业市场的逆向溢出规律。
 > - [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]] — 运用历史比较法对照 1980 年代美日贸易摩擦与当代中美科技竞争，揭示[[Vertical Disintegration|纵向离散]]如何重塑[[Modern Industrial Policy|现代产业政策]]工具与地缘安全边界。
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 运用历史比较分析与跨国经验案例考据，打破间断均衡范式，系统建构现代资本主义政治经济体制中[[Theory of Gradual Institutional Change|渐进制度变迁]]的五类形态学。
-> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 运用历史比较法横向对照多国经验，揭示行政朝圣与官方同化反噬，并在第10章（[[Argument_Anderson_2016_Verso_Ch10|Ch. 10]]）剖析普查、地图与博物馆三大制度对后殖民国家心智的规制。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 运用历史比较法横向对照多国经验，在第9章（[[Argument_Anderson_2016_Verso_Ch09|Ch. 09]]）与第10章（[[Argument_Anderson_2016_Verso_Ch10|Ch. 10]]）分别剖析后革命政权继承国家机器线路网络与殖民三大制度对国家心智的规制。
 
