@@ -41,6 +41,7 @@ related_concepts:
   - "[[Print-Language]]"
   - "[[Paradigm]]"
   - "[[Dynastic Realm]]"
+  - "[[Beamtenstaat]]"
 related_theories: []
 related_methods:
   - "[[Historical-Comparative Method]]"
@@ -50,6 +51,8 @@ related_persons:
   - "[[Eric Hobsbawm]]"
   - "[[Vajiravudh]]"
   - "[[Bipin Chandra Pal]]"
+  - "[[Maruyama Masao]]"
+  - "[[Kita Ikki]]"
 related_facts:
   - "[[Russification of Finland]]"
   - "[[Magyarization]]"

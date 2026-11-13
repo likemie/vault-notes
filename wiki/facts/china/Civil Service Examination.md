@@ -30,6 +30,7 @@ related_theories:
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
   - "[[Argument_Anderson_2016_Verso_Ch03]]"
+  - "[[Argument_Anderson_2016_Verso_Ch07]]"
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Wang_2025_CE]]"
 related_persons:
@@ -69,6 +70,7 @@ updated: 2026-11-11
 > - **创制与早期制度化（隋唐时期）** 隋开皇及大业年间开创进士科；唐代完善明经与进士二科，确立考官礼部主持与殿试定级机制，科举成为士人入仕与阶层流动的重要通道。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 47–48)]]
 > - **成熟与文官政治鼎盛（宋明时期）** 宋代实行糊名易书，大幅扩大录取名额，确立文官领政国策；明代推行八股取士与三级应试体系（院试、乡试、会试），形成严密的基层流动与意识形态凝聚网络。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 48)]]
 > - **清末危机与1905年正式废止** 面对西方列强冲击与甲午庚子国难，传统经义八股与现代实用科学产生剧烈脱节，清廷于1905年下诏自丙午科起废除一切乡会试。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 48–49)]]
+> - **1915–1918 — 越南科举废除与汉字文化圈边缘瓦解** 法国殖民当局为阻断中国维新与革命思潮的跨境渗透，先后在东京（1915年）与安南（1918年）彻底废除儒家科举制度，强行推行罗马化国语字，标志着传统汉字真理语言与文官考试体制在东亚朝贡体系边缘的彻底瓦解。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 127–128)]]
 > - **现代演进与应试文化传承（20世纪至今）** 科举制度虽在政制层面终结，但其赋予考试的社会公平威信与[[Test-Based Accountability|考试问责]]逻辑延续至当代[[Gaokao|高考]]体系。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 589, 593–594)]]
 
 ---
@@ -105,7 +107,7 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 指出科举选拔使官僚阶层共享作为真理语言的表意文字系统（[[Argument_Anderson_2016_Verso_Ch02|Ch02, pp. 13–14]]）；并在比较视野下揭示科举官僚体系辖区与汉字疆界的高度重合，构成帝国整合的政治基石（[[Argument_Anderson_2016_Verso_Ch03|Ch03, pp. 42–43]]）。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 指出科举选拔维系了真理语言与文官疆界（[[Argument_Anderson_2016_Verso_Ch02|Ch02]]、[[Argument_Anderson_2016_Verso_Ch03|Ch03]]），并揭示法国在印支废除科举以阻断跨国华风渗透（[[Argument_Anderson_2016_Verso_Ch07|Ch07, pp. 127–128]]）。
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 梳理科举千年演变史，论证其如何促成道德、学术与权力的五合一融贯，确立了学习在儒家文化中的至高地位。
 > - [[Argument_Wang_2025_CE|Wang and McLaughlin (2025)]] — 实证分析科举传统衍生的考试文化对当代高中以学生为中心教学法改革的制约作用。
 

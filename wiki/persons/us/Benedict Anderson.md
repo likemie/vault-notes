@@ -8,7 +8,7 @@ summary: "爱尔兰裔美国政治学家与东南亚研究权威，康奈尔大�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 30
+person_related_count: 33
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -39,6 +39,8 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Unisonance]]"
   - "[[Colonial Racism]]"
+  - "[[Educational Pilgrimage]]"
+  - "[[Bilingual Intelligentsia]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods:
@@ -56,6 +58,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Anderson_2016_Verso_Ch01]]"
+  - "[[Argument_Anderson_2016_Verso_Ch07]]"
   - "[[Argument_Anderson_2016_Verso_Ch08]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Xu_2024_CE]]"
@@ -93,7 +96,7 @@ updated: 2026-11-13
 > - **1983 — *Imagined Communities: Reflections on the Origin and Spread of Nationalism*** 提出民族是由印刷资本主义与大众媒介所构筑的想象共同体，成为全球被引用最多的社科经典之一。关联条目：[[Imagined Community]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Anderson, 1983/2006)]]
 > - **1998 — *The Spectre of Comparisons: Nationalism, Southeast Asia, and the World*** 深入探讨东南亚比较政治中的民族主义幽灵与政治现代性转型。
 > - **2005 — *Under Three Flags: Anarchism and the Anti-Colonial Imagination*** 考察 19 世纪末全球无政府主义网络与反殖民文学想象的互动。
-> - **2016 — *Imagined Communities* (Revised Edition)** 导论系统阐明民族作为有限且享有主权的文化人造物，提出民族主义的模块化移植机制，并与格尔纳的发明说及勒南的遗忘论展开对话。关联条目：[[Modular Nationalism]]、[[Imagined Community]]。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 4–7, xi–xv)]]
+> - **2016 — *Imagined Communities* (Revised Edition)** 专著修订版系统奠定民族主义建构论范式，并在第七章提出最后一波民族主义生成模型，揭示殖民地教育朝圣与行政朝圣的空间同构如何将帝国管区转化为民族国家疆界。关联条目：[[Modular Nationalism]]、[[Imagined Community]]、[[Educational Pilgrimage]]、[[Bilingual Intelligentsia]]。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 4–7)]]; [[Argument_Anderson_2016_Verso_Ch07|(pp. 113–140)]]
 
 ---
 
@@ -113,8 +116,7 @@ updated: 2026-11-13
 > - **[[Technological Republic|技术共和国]][[Geopolitics|地缘政治]]路径** 卡普与扎米斯卡借用安德森的洞见论证，现代高科技社会与国家防卫不仅需要代码与算法，更需要依赖语言与共享历史叙事所维系的共同体想象；批评后现代去国家化思潮放弃巡守“[[Imagined Community|情感民族]]”边界的战略错误。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 191–198)]]
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]] — 《想象的共同体》导论从印支冲突切入，界定民族为有限且主权的想象政治共同体，并提出模块化文化人造物范式。
-> - [[Argument_Anderson_2016_Verso_Ch08|Anderson (2016)]] — 辨析爱国主义与种族主义，论证民族认同以语言、亲属隐喻与[[Unisonance|同声相应]]的自我牺牲之爱为根基，并揭示[[Colonial Racism|殖民种族主义]]源于封建贵族阶级意识形态（pp. 145–158）。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 《想象的共同体》界定民族为有限主权的想象共同体（Ch01），剖析教育与行政朝圣如何铸造最后一波民族疆界（Ch07），并辨析爱国主义与种族主义的阶级分野（Ch08）。
 > - [[Argument_Xu_2024_CE|Xu (2024)]] — 运用安德森想象共同体框架，实证解构中国大陆与香港初中历史教材中的领土与族群叙事。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 将安德森想象共同体与邓巴数结合，论述现代高科技攻坚的大规模协同基础及情感民族边界防卫。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 借用安德森想象共同体理论，剖析[[European Commission|欧盟委员会]]在马斯特里赫特条约危机下如何将教育作为建构“欧洲认同”的象征动员工具。（p. 482）
@@ -168,4 +170,6 @@ updated: 2026-11-13
 > | [[Dunbar's Number]] | 概念 | 与安德森想象链接理论形成跨学科对话，提供大规模协作的神经人类学依据。 |
 > | [[Technological Republic]] | 概念 | 被卡普与扎米斯卡作为超大规模科技攻坚与公民认同维系的核心理论构件。 |
 > | [[Official Knowledge]] | 概念 | 为批判性教育学解构国家教科书与历史叙事提供了奠基性[[Analytic Framework\|分析框架]]。 |
+> | [[Educational Pilgrimage]] | 概念 | 第七章揭示殖民地学生向首府汇聚的求学旅程如何将行政地图内化为民族疆界。 |
+> | [[Bilingual Intelligentsia]] | 概念 | 阐明兼通欧洲官方语言与本土语言的知识分子在最后一波民族主义中的先锋中介角色。 |
 > | 康奈尔大学政府系 | 组织 | 长期任职机构。 |

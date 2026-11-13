@@ -8,11 +8,11 @@ aliases:
   - Ki Hajar Dewantara
   - Soewardi Soerjaningrat
   - Surjaningrat, S.
-summary: "印度尼西亚早期民族主义运动先驱、教育家与政治活动家，印尼现代教育奠基人。1913年发表著名荷兰语政论《如果我是一个荷兰人》，以反讽修辞拆解宗主国官方民族主义神话与殖民统治的暴力缝合，后创办塔曼·西斯瓦（Taman Siswa）民族教育体系，被尊为印尼国民教育之父。"
+summary: "印度尼西亚早期民族主义运动先驱、教育家与政治活动家，印尼现代教育奠基人。1913年发表荷兰语政论《如果我是一个荷兰人》，以反讽修辞拆解宗主国官方民族主义与殖民统治的缝合焊缝；后创办塔曼·西斯瓦民族教育体系，被尊为印尼国民教育之父。"
 type: person
 nationality: indonesia
 person_region: "indonesia"
-person_related_count: 2
+person_related_count: 6
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -24,8 +24,12 @@ tags:
   - theme/nationalism
   - theme/anti-colonialism
   - theme/southeast-asia
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Bilingual Intelligentsia]]"
+  - "[[Educational Pilgrimage]]"
+  - "[[Official Nationalism]]"
+related_theories:
+  - "[[Imagined Community]]"
 related_methods: []
 related_instruments: []
 related_persons:
@@ -44,7 +48,7 @@ updated: 2026-11-13
 > [!person-profile] 人物档案
 > - **身份位置** 荷属东印度（印度尼西亚）早期民族主义运动领袖、教育理论家、政治政论家，印度尼西亚现代教育体系奠基人。
 > - **核心角色** 20世纪初印尼双语知识分子抗击殖民统治的标志性人物；通过创办独立政党与民族学校系统，将西方现代反抗话语转译为本土大众动员实践。
-> - **代表贡献** 1913年撰写政论小册子《如果我是一个荷兰人》（*Als ik eens Nederlander was*），被[[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）作为殖民地精英挪用宗主国历史叙事反戈一击的核心范例；1922年创办塔曼·西斯瓦（Taman Siswa）平民教育系统，摆脱殖民国家意识形态控制。
+> - **代表贡献** 1913年撰写政论小册子《如果我是一个荷兰人》（*Als ik eens Nederlander was*），被[[Benedict Anderson|本尼迪克特·安德森]]作为殖民地精英挪用宗主国历史叙事反戈一击的核心范例；1922年创办塔曼·西斯瓦（Taman Siswa）平民教育系统，摆脱殖民国家意识形态控制。
 
 > [!citation-card] 安德森论苏瓦迪对荷兰殖民神话的反讽拆解
 > 借助这番言论，苏瓦迪大胆刮削了荷兰民族主义与帝国主义之间的焊接焊缝，成功用荷兰自身的历史反戈一击。不仅如此，通过将自己想象性地转变为一个暂时的荷兰人，并借此邀请他的荷兰读者对等地将自身转变为暂时的印尼人，他彻底瓦解了构成荷兰殖民意识形态基石的所有种族主义宿命论。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 120)]]
@@ -63,9 +67,44 @@ updated: 2026-11-13
 
 ---
 
-> [!work-line] 代表文献与思想事件
-> - **《如果我是一个荷兰人》（*Als ik eens Nederlander was*, 1913）** 发表于《特快报》（*De Expres*），以反讽修辞指出在被剥夺自由的殖民地大肆庆祝宗主国独立百年是极度无耻的闹剧，成为反殖民双语写作的典范。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 119–120)]]
-> - **塔曼·西斯瓦教育宣言（*Taman Siswa*, 1922）** 确立“Tut Wuri Handayani”（身在后方予以指引）的现代自主教育哲学，拒绝殖民政府津贴以维护教学主权。
+> [!work-line] 主要著作
+> - **1913 — *Als ik eens Nederlander was*（《如果我是一个荷兰人》）** 发表于《特快报》（*De Expres*），以反讽修辞指出在被剥夺自由的殖民地大肆庆祝宗主国独立百年是极度无耻的闹剧，成为反殖民双语写作的典范。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 119–120)]]
+> - **1922 — 塔曼·西斯瓦教育宣言（*Taman Siswa*）** 确立“Tut Wuri Handayani”（身在后方予以指引）的现代自主教育哲学，拒绝殖民政府津贴以维护教学主权。
 
 ---
 
+> [!claim] 核心思想
+> 反殖民民族主义必须撕开宗主国官方民族主义与帝国扩张之间的缝合缝隙；殖民地双语知识分子应当以宗主国自身的历史经验与自由叙事作为思想武器，通过同理心反思与反讽修辞解构殖民统治的种族主义宿命论；平民教育应摆脱殖民国家意识形态控制，以本土民族文化传承与民主平权为精神支柱。
+
+> [!citation-card] 苏瓦迪论宗主国独立庆典在殖民地的荒谬性
+> 如果我是一个荷兰人，我绝不会在一个人民的独立已被剥夺的国家里举办一场独立庆典。向被殖民者强行征收资财庆祝宗主国的独立，不仅是对本土人民敏感自尊的伤害，更彻底暴露了殖民统治在伦理上的虚伪。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 119–120)]]
+>
+> *If I were a Dutchman, I would not organize an independence celebration in a country where the independence of the people has been stolen... Firstly, we will hurt their sensitive feelings because we are here celebrating our own independence in their native country which we colonize.*
+
+---
+
+> [!influence-path] 影响路径
+> - **反殖民政论与双语写作路径** 示范了如何以宗主国语言反向瓦解帝国意识形态，直接启发苏加诺等后继领导人的独立论战修辞。
+> - **平民自主教育与国民教育体系路径** 创立的塔曼·西斯瓦学校网络为印尼独立运动培育了大批不依附殖民体制的知识分子，其教育格言被印尼教育部确立为官方国家教育箴言。
+> - **民族认同建构路径** 突破爪哇传统贵族狭隘视野，主张超越岛屿与族群界限，以现代平权观念构想统一的印度尼西亚共同体。
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Anderson_2016_Verso_Ch07|Anderson (2016)]] — 以苏瓦迪《如果我是一个荷兰人》为例，剖析双语知识分子如何挪用宗主国历史叙事反戈一击，瓦解种族主义宿命论（pp. 119–120）。
+
+---
+
+> [!person-network] 关系网络
+> - **政治战友** 齐普托·芒温库苏莫（Tjipto Mangoenkoesoemo） — 爪哇平民医师，共同创立印度支党。
+> - **政治战友** 埃杜阿尔德·道维斯·德克尔（Eduard Douwes Dekker） — 欧亚混血政论家，共同推动跨族群反殖民独立运动。
+> - **理论研究者** [[Benedict Anderson|本尼迪克特·安德森]] — 将其确立为殖民地双语知识阶层反击官方民族主义的标志性代表。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Bilingual Intelligentsia]] | 概念 | 以荷语政论反击殖民同化，成为20世纪初双语知识阶层的先锋典范。 |
+> | [[Educational Pilgrimage]] | 概念 | 从日惹到巴达维亚STOVIA医学校的求学轨迹展现了殖民地教育朝圣网络。 |
+> | [[Official Nationalism]] | 概念 | 揭露荷兰官方民族主义在海外殖民地的自相矛盾与双重标准。 |
+> | [[Imagined Community]] | 理论 | 为安德森论证殖民地精英以西方模型构想本国独立提供关键历史实证。 |
