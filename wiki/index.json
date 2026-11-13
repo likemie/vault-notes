@@ -29884,6 +29884,18 @@
     ]
   },
   {
+    "title": "Pedro I of Brazil",
+    "type": "person",
+    "path": "wiki/persons/brazil/Pedro I of Brazil.md",
+    "aliases": [
+      "佩德罗一世",
+      "Dom Pedro I",
+      "Pedro I",
+      "唐·佩德罗一世",
+      "Pedro IV of Portugal"
+    ]
+  },
+  {
     "title": "Richard Castelo Branco",
     "type": "person",
     "path": "wiki/persons/brazil/Richard Castelo Branco.md",
@@ -31391,6 +31403,17 @@
     "path": "wiki/persons/greece/Xenophon.md",
     "aliases": [
       "色诺芬"
+    ]
+  },
+  {
+    "title": "Alexandre Pétion",
+    "type": "person",
+    "path": "wiki/persons/haiti/Alexandre Pétion.md",
+    "aliases": [
+      "亚历山大·佩蒂翁",
+      "佩蒂翁",
+      "Pétion",
+      "Anne Alexandre Sabès Pétion"
     ]
   },
   {
@@ -33691,6 +33714,16 @@
       "本杰明·F·琼斯",
       "B. F. Jones",
       "Jones, B. F."
+    ]
+  },
+  {
+    "title": "Benjamin Franklin",
+    "type": "person",
+    "path": "wiki/persons/us/Benjamin Franklin.md",
+    "aliases": [
+      "本杰明·富兰克林",
+      "富兰克林",
+      "Franklin"
     ]
   },
   {
