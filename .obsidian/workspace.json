@@ -330,6 +330,11 @@
   },
   "active": "96c685dea1ff308e",
   "lastOpenFiles": [
+    "Claude outputs/callout-preview/compare_position_detail.png",
+    "Claude outputs/callout-preview/compare_position.png",
+    "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md",
+    "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch10.md",
+    "wiki/theories/sociology-of-education/Organizational Culture.md",
     "Claude outputs/callout-preview/v3_light.png",
     "Claude outputs/callout-preview/compare_v3.png",
     "Claude outputs/callout-preview/v2_light.png",
@@ -345,13 +350,11 @@
     "wiki/facts/france/École française d'Extrême-Orient.md",
     "wiki/facts/asia/Borobudur Restoration.md",
     "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
-    "wiki/theories/sociology-of-education/Organizational Culture.md",
     "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Santos_Silova_2026_Discourse.md",
     "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch09.md",
     "wiki/concepts/political-economy-geopolitics/Print-Capitalism.md",
     "wiki/facts/finland/Finnish PISA Miracle.md",
     "raw/EEF/EEF_early_years_measures_full.json",
-    "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md",
     "wiki/persons/france/Jules Michelet.md",
     "wiki/concepts/political-economy-geopolitics/Reversed Ventriloquism.md",
     "wiki/concepts/political-economy-geopolitics/Reassurance of Fratricide.md",
@@ -370,12 +373,9 @@
     "output/related-updates/Argument_Anderson_2016_Verso_Ch10-ad35ad6d/batch-004/prompt.md",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch10-ad35ad6d/batch-003/prompt.md",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch10-ad35ad6d/batch-002/prompt.md",
-    "output/related-updates/Argument_Anderson_2016_Verso_Ch10-ad35ad6d/batch-001/prompt.md",
     "tmp/callout-refinement/entry-map-family-light-1440.png",
     "tmp/callout-refinement/entry-map-family-dark-390.png",
     "tmp/callout-refinement/entry-map-family-dark-1440.png",
-    "tmp/callout-refinement/entry-map-flat-light-1440.png",
-    "tmp/callout-refinement/entry-map-flat-dark-390.png",
     "未命名.canvas"
   ]
 }
