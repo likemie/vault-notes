@@ -159,11 +159,6 @@ updated: 2026-11-13
 > 
 > 诗篇通篇未提及西班牙统治者的国籍，全无针对侵略者的仇恨与诅咒言辞，且全诗使用殖民宗主国的西班牙语写就。在反抗压迫的民族主义表达中，对自由祖国的奉献压倒了对敌人的仇恨；反殖民革命领袖安德烈·滂尼发秀（Andrés Bonifacio）随即将其译为塔加洛语，传诵群岛 (pp. 146–148)。
 
-> [!citation-card] 民族主义文化表达中仇恨成分的缺失
-> 在进步、世界主义知识分子（特别是在欧洲）习惯于坚称民族主义具有近乎病态的特征、源于对异者的恐惧与仇恨、并与种族主义具有亲缘性的时代，提醒我们自己民族能够激发起爱（并且往往是极其深刻的自我牺牲之爱）是大有裨益的。民族主义的文化产物（诗歌、散文小说、音乐与造型艺术）在成千上万种不同形式与风格中清晰展现了这种爱。反过来，要在相应的民族主义产物中找到表达恐惧与厌恶的作品，是何等罕见。即便面对殖民地人民，他们有充分的理由对帝国主义统治者怀抱仇恨，但在这些民族情感的表述中，仇恨成分之微不足道令人惊叹 (pp. 145–146)。
->
-> *In an age when it is so common for progressive, cosmopolitan intellectuals (particularly in Europe?) to insist on the near-pathological character of nationalism, its roots in fear and hatred of the Other, and its affinities with racism, it is useful to remind ourselves that nations inspire love, and often profoundly self-sacrificing love. The cultural products of nationalism – poetry, prose fiction, music, plastic arts – show this love very clearly in thousands of different forms and styles. On the other hand, how truly rare it is to find analogous nationalist products expressing fear and loathing. Even in the case of colonized peoples, who have every reason to feel hatred for their imperialist rulers, it is astonishing how insignificant the element of hatred is in these expressions of national feeling.*
-
 ---
 
 > [!sub-claim] 2. 无法选择的出身与水土纽带，赋予为国捐躯神圣的道德感
@@ -180,11 +175,6 @@ updated: 2026-11-13
 > - **自愿结合团体的利益可变性** 工党、医师协会或国际特赦组织等现代社团，个体可依凭意志自由加入或退出，其活动围绕特定政策偏好与行业利益展开。为这类世俗利益组织牺牲生命难以产生道德崇高感 (pp. 147–148)。
 > - **民族归属的先验宿命性** 民族被理解为不可选择的既定家园，国民身份天然被视为超脱私人利益算计的整体。正是这种无私利性（interestless），使得民族国家能够正当要求成员做出终极牺牲 (pp. 147–148)。
 > - **无产阶级革命牺牲的纯洁性来源** 同样地，无产阶级若仅被想象为追逐冰箱、假期或权力的自利团体，决无法动员千百万人为之赴死；其牺牲庄严感来自对共有幸福（[[Jean-Jacques Rousseau|卢梭]]提出的 shared bonheur 概念）的历史必然性信仰，从而获得了无私与崇高的神圣性 (p. 148, n. 5)。
-
-> [!citation-card] 民族归属的不可选择性与无私性光环
-> 这种政治之爱的本质，可以从语言描述其对象的方式中解读出来：要么采用亲属词汇（motherland, Vaterland, patria），要么采用家园词汇（heimat 或 tanah air［水土，印度尼西亚人指代本国群岛的短语］）。两种语汇都指向人们天然与之相连的事物。在一切自然事物中，总存在着某种非选择的成分。通过这种方式，民族性被同化为肤色、性别、出身与诞生年代等无法自主决定的事物。而在这些自然纽带中，人们能够感知到共同体之美。换言之，此类纽带天然未经自主选择，具有无私性的光环。普通民众眼中的民族本质上是无私利的；正因如此，它才能够要求牺牲 (pp. 147–148)。
->
-> *Something of the nature of this political love can be deciphered from the ways in which languages describe its object: either in the vocabulary of kinship (motherland, Vaterland, patria) or that of home (heimat or tanah air [earth and water, the phrase for the Indonesians’ native archipelago]). Both idioms denote something to which one is naturally tied. . . . precisely because such ties are not chosen, they have about them a halo of disinterestedness. . . . for most ordinary people of whatever class the whole point of the nation is that it is interestless. Just for that reason, it can ask for sacrifices.*
 
 ---
 
