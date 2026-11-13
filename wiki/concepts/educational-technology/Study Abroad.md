@@ -8,7 +8,7 @@ aliases:
 summary: "学习者跨越主权国界前往境外教育机构开展学分修读、学位攻读或研修实践的物理流动过程。作为第一代跨境教育的主导形态，出国留学是个人积累文化资本与语言技能的教育投资，也是国家培育全球化治理人才与吸纳国际知识要素的重要渠道；在当代高等教育与区域创新生态中，正与中外合作办学及国际教育枢纽等在地国际化路径形成协同。"
 type: concept
 domain: "educational-technology"
-related_count: 26
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Paradigm]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Imagined Community]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
@@ -50,10 +51,11 @@ related_facts:
   - "[[World Trade Organization]]"
 related_arguments:
   - "[[Argument_Qu_2024_IJED]]"
+  - "[[Argument_Anderson_2016_Verso_Ch09]]"
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-10
+updated: 2026-11-13
 ---
 
 ---
@@ -132,6 +134,7 @@ updated: 2026-11-10
 
 > [!dev-timeline] 概念演变
 > - **20 世纪前中叶 — 精英学者游学与殖民知识移植** 留学主要局限于政府派遣的高级官员或精英学者，作为汲取工业化技术与现代法律体系的前沿渠道。
+> - **1950年代 — 殖民地留学生的宗主国政治浸润与革命模块吸纳** 安德森在《[[Imagined Community|想象的共同体]]》第9章指出，战后亚非殖民地青年（如波尔布特等柬埔寨留法学生）通过前往帝国大都会留学，直接沉浸于宗主国语言环境与欧洲政党思想圈层，系统吸纳了外来革命规范与现代国家机器组织模件，成为返国后重构后殖民政权的关键媒介。[[Argument_Anderson_2016_Verso_Ch09|(Anderson, 2016, p. 163)]]
 > - **战后至冷战时期 — 意识形态盟友交流与地缘技术援助** 美苏两大阵营通过全额政府奖学金向盟国提供留学名额，形成双边外事依附网络。
 > - **1978 年起 — 中国改革开放大规模公派与自费留学潮** 中国将支持留学确立为科教兴国核心战略，形成遍及全球主要科技强国的大规模求学网络。
 > - **2000 年代 — 全球化市场扩张与跨境[[GATS and Trade in Education Services|教育服务贸易]]** 伴随 [[World Trade Organization|WTO]]/GATS 规制推进，西方国家普遍将招收自费留学生作为[[Education Export|教育出口]]创汇手段；留学生流动规模突破数百万量级。
@@ -202,3 +205,4 @@ updated: 2026-11-10
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 提出中国跨境教育三代演变谱系，分析出国留学与中外合作办学及国际教育枢纽三轨并行的在地国际化机制（pp. 1–11）。
 > - [[Visible Learning]] — 可见学习元分析数据库综合 5 项元分析，证实出国留学对语言习得具有显著促进效应（$d = 0.76$）。
+> - [[Argument_Anderson_2016_Verso_Ch09|(Anderson, 2016, p. 163)]] — 阐明20世纪中叶第三世界殖民地留学生在宗主国大都会（巴黎）吸纳欧洲革命模件与政治组织规范的历史机制。
