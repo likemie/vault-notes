@@ -53,6 +53,8 @@ related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
   - "[[Ewald Terhart]]"
+  - "[[Benedict Anderson]]"
+  - "[[Pramoedya Ananta Toer]]"
 related_facts:
   - "[[EU]]"
   - "[[PISA]]"
@@ -67,10 +69,11 @@ related_arguments:
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_McKnight_2020_Discourse]]"
+  - "[[Argument_Anderson_2016_Verso_Ch10]]"
 confidence: high
 status: active
 created: 2026-10-16
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---
@@ -94,6 +97,7 @@ updated: 2026-11-11
 
 > [!dev-timeline] 理论版本与贡献
 > - **1975年 — 规训全景奠基** Foucault 系统论证全景敞视建筑作为规训权力典范模型的空间拓扑、去个体化运作与心理内化机制。
+> - **1991年 — 殖民国家心智与玻璃屋全景监视** [[Benedict Anderson|安德森]]在《[[Imagined Community|想象的共同体]]》第10章引入印尼作家[[Pramoedya Ananta Toer|普拉姆迪亚]]的《玻璃屋》隐喻，指出边沁全景敞视建筑在殖民与后殖民国家演进为以分类网格（经线）与序列化（纬线）为核心的彻底能见度治理架构。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 188–189)]]
 > - **1992年 — [[Societies of Control|控制社会]]扩展** Gilles Deleuze 发表《控制社会后记》，指出随着数字信息网络的发展，封闭机构的全景模具逐渐让位于无边界网络中的流动数据调制（Modulation）。
 > - **2009年 — 超国家教育全景敞视分析** [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] 运用全景敞视理论解构[[EU|欧盟]]教育与培训政策，揭示[[Open Method of Coordination|开放协调法]]、基准指标与凝视技术如何在超国家尺度构筑“欧洲教育全景敞视建筑”。（pp. 480–481, 492–493）
 > - **2011年 — 课堂双向可见性解构** [[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）将全景敞视理论用于解构《[[Visible Learning|可见的学习]]》中的“眼睛”隐喻，揭示双向可见性如何构筑现代微观全景规训。
@@ -113,6 +117,7 @@ updated: 2026-11-11
 > | 新行政全景敞视（New Administrative Panopticism） | 衍生框架 | 依托数字指标与表单问责建立的人人相互监视的现代教育官僚控制生态。 |
 > | 欧洲教育全景敞视（European Panopticon） | 衍生架构 | 欧盟依托开放协调法、基准指标与同行评审建立的超国家软法规训网络。 |
 > | 全景式数字凝视（Panoptic Digital Gaze） | 衍生机制 | 超国家组织依托跨国测评与排名构建的宏观全景监管，促成参测国与个体的自愿合规。 |
+> | 玻璃屋全景监视（*Rumah Kaca*） | 衍生架构 | 晚期殖民与后殖民国家将分类网格与无限序列化结合实现的彻底能见度治理范式。 |
 
 ---
 
@@ -196,6 +201,7 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Anderson_2016_Verso_Ch10|Anderson (2016)]] — 结合印尼作家普拉姆迪亚《玻璃屋》隐喻与身份证序列化实践，剖析晚期殖民与后殖民国家心智对边沁全景敞视机制的技术继承（pp. 188–190）。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 运用全景敞视理论解构欧盟教育政策，揭示开放协调法如何借助凝视、绩效与治理技术构筑超国家“欧洲教育全景敞视建筑”。（pp. 480–481, 492–493）
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 结合福柯全景敞视理论，解剖 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件如何演化为可见学习[[Barometer of Achievement|气压计图表]]并压缩[[Teacher Professional Agency|教师能动性]]。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 基于福柯权力理论解构可见学习的双向可见性隐喻，揭示其将行政统治转化为内化自我监控的微观全景规训。
