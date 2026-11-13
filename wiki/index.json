@@ -13533,6 +13533,18 @@
     ]
   },
   {
+    "title": "Geo-Body",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Geo-Body.md",
+    "aliases": [
+      "地理身体",
+      "地理体",
+      "国土身体",
+      "geobody",
+      "Siam Mapped"
+    ]
+  },
+  {
     "title": "Geopolitical Subject",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Geopolitical Subject.md",
@@ -13947,6 +13959,18 @@
       "长和平",
       "冷战长和平",
       "Postwar Long Peace"
+    ]
+  },
+  {
+    "title": "Map-as-Logo",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Map-as-Logo.md",
+    "aliases": [
+      "地图标识",
+      "地图徽标",
+      "图腾地图",
+      "logo-map",
+      "logo map"
     ]
   },
   {
@@ -32509,6 +32533,17 @@
       "拉玛五世",
       "Rama V",
       "King Chulalongkorn"
+    ]
+  },
+  {
+    "title": "Thongchai Winichakul",
+    "type": "person",
+    "path": "wiki/persons/thailand/Thongchai Winichakul.md",
+    "aliases": [
+      "通猜·威尼差恭",
+      "通猜",
+      "Winichakul, T.",
+      "Thongchai"
     ]
   },
   {
