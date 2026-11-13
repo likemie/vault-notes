@@ -10,6 +10,10 @@ summary: "英国殖民行政长官、东方学家、新加坡开埠者。1811至
 type: person
 nationality: uk
 person_region: "uk"
+person_related_count: 13
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1781"
 died: "1826"
 lifespan: "1781–1826"
@@ -22,18 +26,22 @@ tags:
   - theme/southeast-asia
 related_concepts:
   - "[[Colonial Archaeology]]"
+  - "[[Paradigm]]"
+  - "[[Discourse]]"
+  - "[[Geopolitics]]"
   - "[[Official Nationalism]]"
-  - "[[Totalizing Classificatory Grid]]"
-  - "[[Map-as-Logo]]"
+  - "[[Nationalism]]"
 related_theories:
   - "[[Imagined Community]]"
-related_methods:
-  - "[[Historical-Comparative Method]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Benedict Anderson]]"
 related_facts:
+  - "[[The Royal Society]]"
   - "[[Borobudur Restoration]]"
+  - "[[École française d'Extrême-Orient]]"
+  - "[[Archaeological Survey of India]]"
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch10]]"
 confidence: high
@@ -46,10 +54,10 @@ updated: 2026-11-13
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国殖民行政官、东方学家、伦敦动物学会首任会长、现代新加坡开埠者。
-> - **核心角色** 东南亚殖民考古学与东方学学术调查的先驱开拓者；在《想象的共同体》第 10 章中，安德森将其作为欧洲直辖殖民政权通过发掘古代废墟重构历史合法性的制度奠基者。
+> - **核心角色** 东南亚[[Colonial Archaeology|殖民考古学]]与东方学学术调查的先驱开拓者；在《[[Imagined Community|想象的共同体]]》第 10 章中，安德森将其作为欧洲直辖殖民政权通过发掘古代废墟重构历史合法性的制度奠基者。
 > - **代表贡献**
 >   - **婆罗浮屠近代考古发掘** 1814 年在爪哇派遣工兵清除热带丛林土石，首次对世界最大佛教佛塔开展系统性工程发掘与草图测绘。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 183–184)]]
->   - **奠定《爪哇史》实证学术经典** 1817 年出版两卷本巨著《爪哇史》（*The History of Java*），将考古出土、铭文破译与古代神庙并置，开创殖民东方学权威范式。
+>   - **奠定《爪哇史》实证学术经典** 1817 年出版两卷本巨著《爪哇史》（*The History of Java*），将考古出土、铭文破译与古代神庙并置，开创殖民东方学权威[[Paradigm|范式]]。
 >   - **打破贸易公司唯利是图治理模式** 克服东印度公司仅注重商业剩余榨取的狭隘视野，开启大都会行政官员以“文明监护人”自居的帝国文化治理工程。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, p. 183)]]
 
 > [!citation-card] 安德森论莱佛士开创东南亚殖民考古学先河
@@ -64,7 +72,7 @@ updated: 2026-11-13
 > - **1795–1805** 进入不列颠东印度公司（British East India Company, EIC）伦敦总部任低级职员，勤勉自学马来语与东方学知识。
 > - **1805–1811** 调往槟城海峡殖民地任秘书，深入考察马来半岛与印尼群岛语言文化，成为英国远东扩张的核心政策智囊。
 > - **1811–1815** 英国击败荷兰占领荷属东印度，莱佛士年仅 30 岁即出任爪哇副总督，推行土地税改革并大力资助古代废墟勘查；1814 年委派科内利厄斯发掘清理婆罗浮屠佛塔。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 183–184)]]
-> - **1817** 返回英国出版巨著《爪哇史》，获封爵士并当选英国皇家学会会员。
+> - **1817** 返回英国出版巨著《爪哇史》，获封爵士并当选[[The Royal Society|英国皇家学会]]会员。
 > - **1819** 代表东印度公司在新加坡河口建立自由港，开创现代新加坡。
 > - **1826** 在伦敦近郊突发中风逝世，享年 44 岁。
 
@@ -82,9 +90,9 @@ updated: 2026-11-13
 ---
 
 > [!influence-path] 影响路径
-> - **殖民考古范式开创** 莱佛士将古代建筑遗存由宗教异端迷信转化为国家学术研究对象的做法，直接启发了后世荷印古物委员会、法国远东学院与印度考古调查局的制度建构。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, p. 184)]]
-> - **东方学话语生产** 其《爪哇史》确立的“古代辉煌—当代衰颓”反差论调，成为整个 19 世纪欧洲殖民东方学构建亚洲受监护形象的通用话语模板。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, p. 185)]]
-> - **地缘政治遗产** 其对爪哇历史的整理与新加坡自由港的创立，深刻重构了近代东南亚的海洋贸易网络与国家地理版图。
+> - **殖民考古范式开创** 莱佛士将古代建筑遗存由宗教异端迷信转化为国家学术研究对象的做法，直接启发了后世荷印古物委员会、[[École française d'Extrême-Orient|法国远东学院]]与[[Archaeological Survey of India|印度考古调查局]]的制度建构。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, p. 184)]]
+> - **东方学[[Discourse|话语]]生产** 其《爪哇史》确立的“古代辉煌—当代衰颓”反差论调，成为整个 19 世纪欧洲殖民东方学构建亚洲受监护形象的通用话语模板。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, p. 185)]]
+> - **[[Geopolitics|地缘政治]]遗产** 其对爪哇历史的整理与新加坡自由港的创立，深刻重构了近代东南亚的海洋贸易网络与国家地理版图。
 
 ---
 
@@ -94,7 +102,7 @@ updated: 2026-11-13
 > > 争论莱佛士应当被铭记为倡导反奴隶制、抢救东南亚古代文物的自由派启蒙绅士，还是利用学术包装为英国东印度公司开辟远东贸易霸权的殖民扩张先驱。
 > >
 > > - **自由帝国主义赞誉论** 肯定其开创性的动植物分类学贡献、开埠新加坡的远见卓识以及发掘保护婆罗浮屠的文化功绩。
-> > - **[[Benedict Anderson|Anderson (2016)]]** 揭示其考古实践深层的政治意识形态功能，阐明其发掘古代古迹的本质在于为近代大都会帝国建构道德监护权威与文明等级阶序。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 183–185)]]
+> > - **[[Argument_Anderson_2016_Verso_Ch10|Anderson (2016)]]** 揭示其考古实践深层的政治意识形态功能，阐明其发掘古代古迹的本质在于为近代大都会帝国建构道德监护权威与文明等级阶序。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 183–185)]]
 
 ---
 
@@ -104,7 +112,7 @@ updated: 2026-11-13
 > |:-----|:-----|:-----|
 > | [[Colonial Archaeology]] | 概念 | 典范奠基；莱佛士发掘婆罗浮屠并出版《爪哇史》，确立了东南亚殖民考古学的话语雏形。 |
 > | [[Borobudur Restoration]] | 事实 | 发起开端；1814 年莱佛士派员勘探清理，开启长达百年的婆罗浮屠近代制度化修复工程。 |
-> | [[Official Nationalism]] | 概念 | 话语先导；其构建的文明监护叙事为晚期殖民与后殖民官方民族主义提供了祖先遗产话语来源。 |
+> | [[Official Nationalism]] | 概念 | 话语先导；其构建的文明监护叙事为晚期殖民与后殖民官方[[Nationalism\|民族主义]]提供了祖先遗产话语来源。 |
 > | [[Benedict Anderson]] | 人物 | 案例剖析者；在《想象的共同体》第10章中将莱佛士作为殖民国家心智质变的历史标志剖析。 |
 
 ---

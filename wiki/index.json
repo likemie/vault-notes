@@ -32632,7 +32632,6 @@
       "丹隆·拉差努帕",
       "丹隆亲王",
       "Prince Damrong",
-      "Damrong",
       "Prince Damrong Rajanubhab"
     ]
   },
@@ -33745,6 +33744,18 @@
     ]
   },
   {
+    "title": "Thomas Stamford Raffles",
+    "type": "person",
+    "path": "wiki/persons/uk/Thomas Stamford Raffles.md",
+    "aliases": [
+      "托马斯·斯坦福·莱佛士",
+      "斯坦福·莱佛士",
+      "莱佛士",
+      "Sir Stamford Raffles",
+      "Raffles, T. S."
+    ]
+  },
+  {
     "title": "Tim Cain",
     "type": "person",
     "path": "wiki/persons/uk/Tim Cain.md",
@@ -34377,6 +34388,16 @@
       "宋超明",
       "C. Song",
       "Song, C."
+    ]
+  },
+  {
+    "title": "Charles Hirschman",
+    "type": "person",
+    "path": "wiki/persons/us/Charles Hirschman.md",
+    "aliases": [
+      "查尔斯·赫希曼",
+      "赫希曼",
+      "Hirschman, C."
     ]
   },
   {
