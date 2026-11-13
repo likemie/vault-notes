@@ -27106,3 +27106,51 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
   --timeline-note-accent:var(--tf-accent);
   --timeline-note-ink:var(--tf-ink);
 }
+
+/* Entry-map types tint the name column. The source table retains its three fields. */
+html body .callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content table.entry-map-colors {
+  width:100% !important;
+  table-layout:fixed !important;
+
+  & :is(th,td):nth-child(2) { display:none !important; }
+
+  & :is(th,td):first-child {
+    width:32% !important;
+    min-width:0 !important;
+  }
+
+  & :is(th,td):last-child {
+    width:68% !important;
+    min-width:0 !important;
+  }
+
+  & :is(th,td) {
+    padding:.62rem .76rem !important;
+    overflow-wrap:anywhere;
+    vertical-align:top;
+  }
+
+  & td a { white-space:normal !important; }
+  & tbody tr { --entry-type-tone:137,145,157; }
+  & tr[data-entry-map-kind="concept"] { --entry-type-tone:91,148,170; }
+  & tr[data-entry-map-kind="theory"] { --entry-type-tone:155,131,192; }
+  & tr[data-entry-map-kind="method"] { --entry-type-tone:101,158,133; }
+  & tr[data-entry-map-kind="instrument"] { --entry-type-tone:194,151,83; }
+  & tr[data-entry-map-kind="person"] { --entry-type-tone:190,125,143; }
+  & tr[data-entry-map-kind="fact"] { --entry-type-tone:153,132,109; }
+
+  & tbody td:first-child {
+    background:color-mix(in srgb,rgb(var(--entry-type-tone)) 17%,var(--ac-paper,var(--background-primary))) !important;
+    border-inline-end:1px solid var(--background-modifier-border) !important;
+  }
+
+  & tbody td:last-child {
+    background:var(--ac-paper,var(--background-primary)) !important;
+  }
+}
+
+@media (hover:hover) {
+  html body .callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content table.entry-map-colors tbody tr:is(:hover,:focus-within) > td:first-child {
+    background:color-mix(in srgb,rgb(var(--entry-type-tone)) 27%,var(--ac-paper,var(--background-primary))) !important;
+  }
+}

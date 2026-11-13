@@ -1,0 +1,9 @@
+{
+  "id": "entry-map-view",
+  "name": "Entry Map View",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Display entry map types as color in the entry column.",
+  "author": "MyNotes",
+  "isDesktopOnly": false
+}
