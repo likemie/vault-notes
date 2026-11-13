@@ -164,7 +164,7 @@ updated: 2026-11-13
 > | **越南八月革命** | 1945年八月革命的果断夺权与宣布解散印度支那共产党以掩护全民族战线形式的策略灵活性 | 1954年日内瓦协定中屈从于苏联与中国等资深共产党老大哥战略压力所作出的划江分治妥协 | 强化了对任何可能削弱本国极端独立自主诉求的外部国际主义指导的深刻戒备与敌意 |
 
 > [!citation-card] 革命政权对旧国家大厦线路的继承
-> 尽管托洛茨基感到不安，苏联首都仍被迁回沙皇旧都莫斯科；六十五年多来，苏共领导层一直在克里姆林宫——这个沙皇权力的古老城堡——制定政策。同样地，中华人民共和国的首都就是满清帝国的首都，中共领导人集结在天子昔日的紫禁城之中。事实上，极少有社会主义领导层未曾爬上这些被磨损却温暖的旧座椅。在不太显眼的层面上，成功的革命者也继承了旧国家的线路系统：有时是官僚与线人，但始终包括档案、宗卷、档案库、法律、财政记录、人口普查、地图、条约、信函、备忘录等等。如同任何豪宅主人逃离后的复杂电气系统一样，国家正等待着新主人的手按下开关，以便再度极为出色地重现昔日光彩 (p. 164)。
+> 尽管托洛茨基感到不安，苏联首都仍被迁回沙皇旧都莫斯科；六十五年多来，苏共领导层一直在克里姆林宫（沙皇权力的古老城堡）制定政策。同样地，中华人民共和国的首都就是满清帝国的首都，中共领导人集结在天子昔日的紫禁城之中。事实上，极少有社会主义领导层未曾爬上这些被磨损却温暖的旧座椅。在不太显眼的层面上，成功的革命者也继承了旧国家的线路系统：有时是官僚与线人，但始终包括档案、宗卷、档案库、法律、财政记录、人口普查、地图、条约、信函、备忘录等等。如同任何豪宅主人逃离后的复杂电气系统一样，国家正等待着新主人的手按下开关，以便再度极为出色地重现昔日光彩 (p. 164)。
 >
 > *Despite Trotsky’s unease, the capital of the USSR was moved back to the old Czarist capital of Moscow; and for over 65 years CPSU leaders have made policy in the Kremlin, ancient citadel of Czarist power . . . Similarly, the PRC’s capital is that of the Manchus . . . and the CCP leaders congregate in the Forbidden City of the Sons of Heaven . . . successful revolutionaries also inherit the wiring of the old state: sometimes functionaries and informers, but always files, dossiers, archives, laws, financial records, censuses, maps, treaties, correspondence, memoranda, and so on. Like the complex electrical system in any large mansion when the owner has fled, the state awaits the new owner’s hand at the switch to be very much its old brilliant self again.*
 
