@@ -76,7 +76,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Torsten Husén]]"
-  - "[[David Tyack]]"
   - "[[David K. Cohen]]"
   - "[[James P. Spillane]]"
   - "[[Michael Fullan]]"
@@ -86,6 +85,7 @@ related_persons:
   - "[[Ben Levin]]"
   - "[[Nuno Crato]]"
 related_facts:
+  - "[[Tinkering Toward Utopia 1995]]"
   - "[[McKinsey Education Reports]]"
   - "[[PISA]]"
   - "[[Polish Education Reform of 1999]]"
@@ -94,6 +94,8 @@ related_facts:
   - "[[New York City Community School District 2]]"
   - "[[Long Beach Unified School District]]"
   - "[[Google Scholar]]"
+  - "[[Toward a Science of Comparative Education 1969]]"
+  - "[[What Ivan Knows That Johnny Doesn't 1961]]"
   - "[[OECD]]"
   - "[[TIMSS]]"
   - "[[Blueprint for Student Success]]"
@@ -110,7 +112,7 @@ title: "Argument_Barrenechea_2023_JEC"
 argument_key: "Argument_Barrenechea_2023_JEC"
 argument_display_title: "How can education systems improve? A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 72
+argument_related_count: 74
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -140,7 +142,7 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **理性选择与新公共管理（New Public Management, NPM）** | 假定个体决策旨在最大化效益，主张通过绩效激励、去中心化管理与标准化统考等外部问责机制重塑教育系统（Becker, 1976; Hood, 1991）。 |
-> | **教育变革的文化取向** | 强调教育系统的历史惯性与深层制度规范（[[Grammar of Schooling\|学校文法（Grammar of Schooling）]]），主张系统变革必须结合全面社会改革并达成广泛社会共识（[[Torsten Husén\|Husén, 1994]]; [[David Tyack\|Tyack]] & Cuban, 1995）。 |
+> | **教育变革的文化取向** | 强调教育系统的历史惯性与深层制度规范（[[Grammar of Schooling\|学校文法（Grammar of Schooling）]]），主张系统变革必须结合全面社会改革并达成广泛社会共识（[[Torsten Husén\|Husén, 1994]]; [[Tinkering Toward Utopia 1995|Tyack & Cuban, 1995]]）。 |
 > | **[[Curricular Governance\|课程治理]]与一致性取向** | 关注从国家规定课程到教材、课堂教学与实际学习的课程流转，将课程深度连贯性与教材标准化视为系统协调的核心中枢（[[David K. Cohen\|Cohen]] & [[James P. Spillane\|Spillane]], 1992; Cogan et al., 2001; Schmidt et al., 2005）。 |
 > | **[[McKinsey Education Reports\|麦肯锡改进阶段论]]** | 依据系统初始绩效水平划分改进阶梯，主张低绩效系统依赖高度规范指令，高绩效系统逐步转向专业分权（Mourshed et al., 2010）。 |
 
@@ -151,7 +153,7 @@ issuing_organization: ""
 > | 理论范式 | 核心[[Epistemology\|认识论假设]] | 政策干预路径 | 代表学者与文献 | 核心局限与争议 |
 > |---|---|---|---|---|
 > | **理性选择与[[New Public Management\|新公共管理]]** | 行动者依据激励结构最大化自身利益；市场竞争与问责驱动质量提升 | 简政分权、办学绩效排名、[[High-Stakes Testing\|高利害测验]]、[[Performance Pay\|绩效工资]]、引入民营赞助主体 | Becker (1976); Hood (1991) | 将干预措施与复杂情境人为割裂；容易催生应试导向、窄化课程与校际分化 |
-> | **教育变革的文化取向** | 教育系统由历史、身份与深层社会规范建构；学校文法具有强大组织抗变惯性 | 渐进式文化重构、寻求社会广泛共识、推动涵盖经济民生的综合社会改革、发展横向专业共同体 | [[Torsten Husén\|Husén (1994)]]; [[David Tyack\|Tyack]] and Cuban (1995); [[Michael Fullan\|Fullan (2016)]] | 变革周期极其漫长；在缺乏外部推力时容易陷入组织内卷与行动迟缓 |
+> | **教育变革的文化取向** | 教育系统由历史、身份与深层社会规范建构；学校文法具有强大组织抗变惯性 | 渐进式文化重构、寻求社会广泛共识、推动涵盖经济民生的综合社会改革、发展横向专业共同体 | [[Torsten Husén\|Husén (1994)]]; [[Tinkering Toward Utopia 1995|Tyack and Cuban (1995)]]; [[Michael Fullan\|Fullan (2016)]] | 变革周期极其漫长；在缺乏外部推力时容易陷入组织内卷与行动迟缓 |
 > | **[[Curricular Governance\|课程治理]]与流转取向** | 规定课程通过教材与教学材料转化为课堂实践；系统连贯性决定学习效能 | 建立强有力的国家课程中枢、统一高质量教科书、推进[[Curriculum Alignment\|课程对齐]]并协调教学目标、内容、方法与评估 | [[David K. Cohen\|Cohen]] & [[James P. Spillane\|Spillane]] (1992); [[Susan Fuhrman\|Fuhrman]] (1993); [[Andrew Porter\|Porter]] (2002); Cogan et al. (2001); Valverde (2014) | 过度强调学科知识逻辑可能压制地方灵活性与校本创新活力 |
 > | **[[McKinsey Education Reports\|麦肯锡阶段改进论]]与[[Deliverology\|交付学]]** | 全球系统沿共同阶梯向上演进；改进路径严格取决于系统绩效初始起点 | 依据初始分段匹配政策包：低绩效系统抓标准化[[Scripted Curriculum\|脚本化教案]]与严规制，高绩效系统放权专业自主；巴伯通过设立交付单元推行刚性目标管理 | Mourshed et al. (2010); Barber et al. (2011) | 带有机械线性指令色彩；缺乏因果检验与[[Counterfactual\|反事实]]依据，遮蔽各国本土历史语境（Morris, 2015） |
 
@@ -219,7 +221,7 @@ issuing_organization: ""
 > [!sub-claim] 1. 早期比较多凭直观印象，统测数据让系统提质变得可度量
 
 > [!timeline] 系统质量比较研究的三阶段历史演进
-> - **阶段一：前国际评估时期的空间对标与外生归因** 早期学者和教育行政官员游历各国以寻找可供借鉴的组织架构与教学范式（Noah & Eckstein, 1969），普鲁士与法国曾成为主要的制度移植吸引中心。第二次世界大战后随着发展观念的兴起，跨国组织成为辨识与推广最佳实践的核心主体（Beech & Lista, 2012; Beech & Rizvi, 2017）。该阶段的比较主要在不同空间系统之间展开，旨在寻找哪些系统优于其他系统，优劣评判往往归因于外在于教育系统的经济指标或科技成就（如苏联人造地球卫星升空引发美国对苏联教育的考察，或是亚洲四小龙经济腾飞促使学者探究东亚模式），教育质量与外生发展之间的因果关联相对脆弱。
+> - **阶段一：前国际评估时期的空间对标与外生归因** 早期学者和教育行政官员游历各国以寻找可供借鉴的组织架构与教学范式（[[Toward a Science of Comparative Education 1969|Noah & Eckstein, 1969]]），普鲁士与法国曾成为主要的制度移植吸引中心。第二次世界大战后随着发展观念的兴起，跨国组织成为辨识与推广最佳实践的核心主体（Beech & Lista, 2012; Beech & Rizvi, 2017）。该阶段的比较主要在不同空间系统之间展开，旨在寻找哪些系统优于其他系统，优劣评判往往归因于外在于教育系统的经济指标或科技成就（如苏联人造地球卫星升空引发美国对苏联教育的考察，[[What Ivan Knows That Johnny Doesn't 1961|Trace, 1961]]；或是亚洲四小龙经济腾飞促使学者探究东亚模式），教育质量与外生发展之间的因果关联相对脆弱。
 > - **阶段二：美国城市学区借助全国统测开展的跨时间纵向测评** 美国全国性标准化测验的确立打破了单一维度的空间对标，使得学区之间具有了跨时间的可比标尺。学界由此开创了以学区为独立[[Unit of Analysis|分析单元]]的系统性改进实证研究，探讨城市学区如何在数年时间内实现学业质量的整体改善（Elmore & Burney, 1998; Murphy & Hallinger, 1988; Snipes et al., 2002; Wenger et al., 2002）。
 > - **阶段三：后大型国际评估时代的全球定位与时空度量** [[International Large-Scale Assessments|国际大规模学生评估]]（International Large-Scale Assessment, ILSA）特别是[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）主导的 PISA 成为全球教育定位系统（Novoa & Yariv-Mashal, 2014）。PISA 借助高级心理测量学技术确立了跨越国界与时空的通用度量标尺，不仅使跨国空间排名更加具象，更为识别跨时间取得显著增量的提质系统提供了数据基础，促成了对全系统改进规律的大规模实证探讨与国际对标（Barber & Mourshed, 2007; Schleicher, 2012; Tucker, 2011）。
 
@@ -241,7 +243,7 @@ issuing_organization: ""
 
 > [!tension] 激励控制取向（NPM）与文化系统取向（Husén & Fullan）的认识论张力
 > - **理性选择与新公共管理（NPM）** 假定个体决策由利益最大化驱动，教育改进必须依赖外部激励结构的重塑。主张推行公共部门去官僚化与分权化、强化标准化统考的结果问责、维持财政纪律，并引入私营部门的管理风格（Hood, 1991）。该路径力求通过将具体干预措施从社会情境中孤立剥离以实现因果测度，容易滑向技术主义的单点政策崇拜。
-> - **文化制度与全系统变革取向** 强调教育改进是一个嵌于历史、认同、组织惯性与深层社会张力之中的复杂过程。托斯滕·胡森（Torsten Husén, 1994）提出四项核心原则：教育改革必须作为更广泛社会改革的一部分；改革需求必须由教育系统内部自主生发；系统性变革在本质上进程缓慢；牵涉越广越需要广泛共识。该路径关注学校文法（[[Grammar of Schooling]]）等深层组织结构的抗变属性，主张通过多维度、整合且连贯的战略行动理论打破低效平衡（Elmore, 2007; Fullan, 2016; Tyack & Cuban, 1995）。
+> - **文化制度与全系统变革取向** 强调教育改进是一个嵌于历史、认同、组织惯性与深层社会张力之中的复杂过程。托斯滕·胡森（Torsten Husén, 1994）提出四项核心原则：教育改革必须作为更广泛社会改革的一部分；改革需求必须由教育系统内部自主生发；系统性变革在本质上进程缓慢；牵涉越广越需要广泛共识。该路径关注学校文法（[[Grammar of Schooling]]）等深层组织结构的抗变属性，主张通过多维度、整合且连贯的战略行动理论打破低效平衡（Elmore, 2007; Fullan, 2016; [[Tinkering Toward Utopia 1995|Tyack & Cuban, 1995]]）。
 
 > [!sub-claim] 2. 咨询公司的通用模型脱离实际，国家课程与教材是连接教学的关键桥梁
 

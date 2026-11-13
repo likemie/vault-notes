@@ -9,7 +9,7 @@ aliases:
 summary: "安德森在《想象的共同体》中提出的政治社会学概念，指殖民地学生在标准化、中央集权的现代学校科层金字塔中由乡村向中心首府盘旋流动的制度化经历，与行政朝圣共同奠定了现代民族共同体的地理与空间认同基础。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 10
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,17 +19,16 @@ tags:
   - theme/colonialism
   - paradigm/anthropology
 related_concepts:
-  - "[[Nationalism]]"
   - "[[Administrative Pilgrimage]]"
   - "[[Bilingual Intelligentsia]]"
+  - "[[Nationalism]]"
   - "[[Inlander]]"
   - "[[Modular Nationalism]]"
   - "[[Horizontal Comradeship]]"
   - "[[Homogeneous, Empty Time]]"
 related_theories:
   - "[[Imagined Community]]"
-related_methods:
-  - "[[Historical-Comparative Method]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Benedict Anderson]]"
@@ -37,6 +36,7 @@ related_facts:
   - "[[Sumpah Pemuda]]"
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch07]]"
+  - "[[Argument_Anderson_2016_Verso]]"
 confidence: high
 status: active
 created: 2026-11-13
@@ -150,12 +150,11 @@ updated: 2026-11-13
 > | [[Modular Nationalism]] | 概念 | 教育朝圣使青年得以在课堂内调取欧美成熟的模块化建国蓝图。 |
 > | [[Horizontal Comradeship]] | 概念 | 课堂同侪友善竞争确立了跨越部族世仇的横向同志情谊。 |
 > | [[Homogeneous, Empty Time]] | 概念 | 统编教材与全国进度表让分散各地的学子在齐一空洞时间中共享知识体验。 |
-> | [[Sumpah Pemuda]] | 事实 | 印尼青年大会签署誓言，展现教育朝圣向主权政治认同的跃升。 |
+> | [[Sumpah Pemuda]] | 事实 | 印尼青年大会签署誓言，展现教育朝圣转化为统一主权政治认同的关键节点。 |
 > | [[Benedict Anderson]] | 人物 | 构念提出者，在《想象的共同体》第7章系统论述其发生机制。 |
 > | [[Imagined Community]] | 理论 | 阐明教育朝圣如何将分散岛屿想象为统一主权共同体的基础理论。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch07|Anderson (2016, Ch07)]] — 专章阐发教育朝圣理论，深入剖析荷属东印度、法属西非与法属印度支那的比较实证材料（pp. 115–143）。
-> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 系统阐述教育朝圣与行政朝圣在最后一波民族主义中的空间同构机制。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 系统阐述教育朝圣与行政朝圣在最后一波民族主义中的空间同构机制；第7章（[[Argument_Anderson_2016_Verso_Ch07]]）深入剖析荷属东印度、法属西非与法属印度支那的比较实证材料（pp. 115–143）。

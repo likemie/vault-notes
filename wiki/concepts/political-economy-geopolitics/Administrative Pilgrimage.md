@@ -8,10 +8,10 @@ aliases:
 summary: "安德森借鉴特纳仪式理论提出的政治社会学概念，指官僚在科层制流动中因人事公文通约性与空间晋升受限而生成的制度性归属感，用以解释行政区划如何转化为民族国家疆界"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/nationalism
   - theme/political-philosophy
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Creole Nationalism]]"
   - "[[Commensuration]]"
   - "[[Barmecide Feast]]"
+  - "[[Educational Pilgrimage]]"
   - "[[Horizontal Comradeship]]"
   - "[[Dynastic Realm]]"
 related_theories:
@@ -42,6 +43,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch04]]"
   - "[[Argument_Anderson_2016_Verso_Ch06]]"
+  - "[[Argument_Anderson_2016_Verso_Ch07]]"
   - "[[Argument_Anderson_2016_Verso]]"
 confidence: high
 status: active
@@ -146,7 +148,8 @@ updated: 2026-11-13
 > - **18世纪末–19世纪初 — 西属美洲狭窄朝圣与领土定型** 西班牙王室限制土生白人进入半岛中枢并阻断跨区调动；土生白人官僚在共同出生宿命中将总督管区具象化为祖国，依占有状态原则固化为现代共和国。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 58–65)]]
 > - **18世纪中叶以降 — 苏格兰畅通朝圣的整合反衬** 低地苏格兰人摧毁高地盖尔语区，政治家南下伦敦立法、商人无阻进入伦敦市场，朝圣通道毫无关卡，消解了苏格兰独立民族主义动能。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 90–92)]]
 > - **19世纪中叶–20世纪初 — 帝国官方同化下的朝圣天花板** 英国麦考利主义与日本皇民化推行语言同化，但同化精英向大都会攀升的通道遭刚性封锁，虚幻盛宴反向催生反殖民民族主义。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 94–96, 112–113)]]
-> - **1983年 — 安德森确立行政朝圣核心构念** 安德森在《[[Imagined Community|想象的共同体]]》中融合特纳仪式理论，确立行政朝圣作为解释民族主义空间领土化与去殖民化动力的理论构念。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 53–65)]]; [[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 85–113)]]
+> - **20世纪初至中叶 — 最后一波民族主义中的双重朝圣同构** 荷属东印度巴达维亚双重中枢的高度重合将三千岛屿锻造为印尼国家版图，而法属西非与印支教育行政脱节则导致跨领地共同体瓦解。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 116–134)]]
+> - **1983年 — 安德森确立行政朝圣核心构念** 安德森在《[[Imagined Community|想象的共同体]]》中融合特纳仪式理论，确立行政朝圣作为解释民族主义空间领土化与去殖民化动力的理论构念。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 53–65)]]; [[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 85–113)]]; [[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 115–143)]]
 
 ---
 
@@ -182,9 +185,9 @@ updated: 2026-11-13
 > | [[Dynastic Realm]] | 概念 | 呈现封建王权国家官僚化如何为现代民族形态奠定组织基质。 |
 > | [[Thomas Babington Macaulay]] | 人物 | 主导印度文官教育改革，奠定殖民行政朝圣受阻的制度背景。 |
 > | [[Benedict Anderson]] | 人物 | 构念提出者，在《想象的共同体》第4、6、7章系统论述其演化机制。 |
-| [[Educational Pilgrimage]] | 概念 | 20世纪殖民地教育朝圣与行政朝圣在地理空间上的同构奠定了民族国土认同。 |
+> | [[Educational Pilgrimage]] | 概念 | 20世纪殖民地教育朝圣与行政朝圣在地理空间上的同构奠定了民族国土认同。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 系统提出行政朝圣构念，剖析美洲土生白人狭窄朝圣、亚非帝国同化精英朝圣受挫及第7章教育行政空间同构对民族疆界的塑造机制。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 系统界定行政朝圣构念，剖析美洲土生白人朝圣（[[Argument_Anderson_2016_Verso_Ch04|第4章]]）、帝国同化精英受挫（[[Argument_Anderson_2016_Verso_Ch06|第6章]]）与教育行政空间同构（[[Argument_Anderson_2016_Verso_Ch07|第7章]]）。

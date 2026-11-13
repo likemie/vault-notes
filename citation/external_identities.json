@@ -24305,14 +24305,6 @@
       ],
       "title": ""
     },
-    "Cuban, 1995": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
-      ],
-      "title": ""
-    },
     "Cui & Zheng, 2018": {
       "datasets": [
         "metax:S1665"
@@ -78337,7 +78329,6 @@
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_HistoricalReflections.md",
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md",
         "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2009_CE.md",
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/comparative-education/Academic Iconography.md",
         "wiki/concepts/comparative-education/Auslandspadagogik.md",
         "wiki/concepts/comparative-education/Comparative History of Comparative Education.md",
@@ -78365,6 +78356,7 @@
         "wiki/facts/france/Report on the State of Public Instruction in Prussia.md",
         "wiki/facts/global/Organisation for European Economic Co-operation.md",
         "wiki/facts/us/National Education in Europe.md",
+        "wiki/facts/us/Toward a Science of Comparative Education 1969.md",
         "wiki/methods/qualitative/Historical-Comparative Method.md",
         "wiki/persons/switzerland/Johann Heinrich Pestalozzi.md",
         "wiki/persons/uk/Nicholas Hans.md",
@@ -107482,7 +107474,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Rappleye_2006_RCIE.md"
+        "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Rappleye_2006_RCIE.md",
+        "wiki/facts/us/What Ivan Knows That Johnny Doesn't 1961.md"
       ],
       "title": ""
     },
@@ -108353,9 +108346,9 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Education Policy Analysis Archives/Argument_Edmondson_2005_EPAA.md",
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/comparative-education/Grammar of Schooling.md",
         "wiki/concepts/educational-policy-reform/Silver-Bullet Fallacy.md",
+        "wiki/facts/us/Tinkering Toward Utopia 1995.md",
         "wiki/persons/us/David Tyack.md"
       ],
       "title": ""

@@ -46831,6 +46831,29 @@
     "subtype": "event"
   },
   {
+    "title": "Tinkering Toward Utopia 1995",
+    "type": "fact",
+    "path": "wiki/facts/us/Tinkering Toward Utopia 1995.md",
+    "aliases": [
+      "Tinkering Toward Utopia",
+      "tinkering-toward-utopia-1995",
+      "修补走向乌托邦",
+      "修补乌托邦"
+    ],
+    "subtype": "event"
+  },
+  {
+    "title": "Toward a Science of Comparative Education 1969",
+    "type": "fact",
+    "path": "wiki/facts/us/Toward a Science of Comparative Education 1969.md",
+    "aliases": [
+      "Toward a Science of Comparative Education",
+      "toward-a-science-of-comparative-education-1969",
+      "走向比较教育科学"
+    ],
+    "subtype": "event"
+  },
+  {
     "title": "TUFF",
     "type": "fact",
     "path": "wiki/facts/us/TUFF.md",
@@ -46882,6 +46905,17 @@
     "aliases": [
       "肯塔基大学Top-20计划",
       "Kentucky Top-20 Plan"
+    ],
+    "subtype": "event"
+  },
+  {
+    "title": "What Ivan Knows That Johnny Doesn't 1961",
+    "type": "fact",
+    "path": "wiki/facts/us/What Ivan Knows That Johnny Doesn't 1961.md",
+    "aliases": [
+      "What Ivan Knows That Johnny Doesn't",
+      "what-ivan-knows-that-johnny-doesnt-1961",
+      "伊万懂的约翰尼不懂"
     ],
     "subtype": "event"
   },
