@@ -113,8 +113,14 @@ updated: 2026-11-11
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Imagined Community]] | 理论 | 印支武装冲突构成了安德森创立想象共同体理论的现实经验源头。 |
+| [[Chancellory War]] | 概念 | 安德森以此冲突为原型揭示由执政集团中枢决策、事后动员的战争形态。 |
 > | [[Modular Nationalism]] | 概念 | 揭示后殖民革命政权普遍全盘移植现代民族国家主权模型的历史事实。 |
 > | [[Horizontal Comradeship]] | 概念 | 阐明民族国家凭借兄弟手足情谊动员千百万大众奔赴边境厮杀的情感机制。 |
 > | [[Geopolitics]] | 概念 | 展现领土疆界与地缘安全在压倒跨国阶级利益中的核心动力。 |
 > | [[Benedict Anderson]] | 人物 | 在《想象的共同体》导论中系统剖析该冲突揭示的理论危机。 |
 > | [[Eric Hobsbawm]] | 人物 | 针对二战后革命政权民族化历史转向提出经典论断。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 将印支冲突作为民族认同重构的原发问题（[[Argument_Anderson_2016_Verso_Ch01|第1章]]），并在收尾处阐发继承旧国家机器与密室战争的根源机制（[[Argument_Anderson_2016_Verso_Ch09|第9章]]）。

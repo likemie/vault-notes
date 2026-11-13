@@ -107,8 +107,7 @@ updated: 2026-11-13
 > - **对话与反思路径** 促使本尼迪克特·安德森反思将民族主义病理化的分析缺陷，转向从宗教、亲属与文化人造物视阈重新奠定理论基底。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 专著《[[Imagined Community|想象的共同体]]》援引其马克思主义历史失败论断，并对照拉美寡头防卫与欧陆母语动员检视其平民受洗说（pp. 3–5, 48–51, 81–82）。
-> - [[Argument_Anderson_2016_Verso_Ch08|Anderson (2016)]] — 商榷内恩将种族主义与法西斯归因于民族主义派生形态的命题，论证种族主义实源于贵族阶级意识形态（pp. 152–154）。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 援引其马克思主义历史失败论，检视平民受洗说（第4–5章），商榷种族主义衍生论（[[Argument_Anderson_2016_Verso_Ch08|第8章]]），并据其抽象国家论阐释模块化盗版（[[Argument_Anderson_2016_Verso_Ch09|第9章]]）。
 
 ---
 
@@ -146,6 +145,7 @@ updated: 2026-11-13
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Political Baptism of the Lower Classes]] | 概念 | 提出现代民族主义绑定于下层阶级政治受洗的经典命题。 |
+| [[Law of Uneven and Combined Development]] | 理论 | 其对抽象现代国家形态的论述被安德森用于阐发不平衡合并发展。 |
 > | [[Colonial Racism]] | 概念 | 其种族主义衍生说构成安德森阐释殖民种族主义阶级源流的核心商榷对象。 |
 > | [[Imagined Community]] | 理论 | 提出马克思主义的理论败笔，构成安德森重构民族想象的起点。 |
 > | [[Creole Nationalism]] | 概念 | 拉美土生白人独立经验构成反思内恩“大众民粹动员”假说的实证个案。 |
