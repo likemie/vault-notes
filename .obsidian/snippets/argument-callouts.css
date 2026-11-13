@@ -26315,10 +26315,14 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"] {
   --position-question:#8e454f;
   --position-context:#59654f;
+  --position-link-lift:#000;
+  --position-link-ink:86%;
 }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"]:where(.theme-dark *) {
   --position-question:#e2a7ae;
   --position-context:#c8c5a5;
+  --position-link-lift:#fff;
+  --position-link-ink:42%;
 }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"][data-callout][data-callout] > .callout-content > :is(ul,ol) {
   display:block !important;
@@ -26368,9 +26372,10 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
 
   /* Entry links stay findable without peppering the paragraph with bold. */
   & > li a.internal-link {
+    color:color-mix(in srgb,var(--position-ink) var(--position-link-ink),var(--position-link-lift)) !important;
     font-weight:400 !important;
     text-decoration-thickness:1px !important;
-    text-decoration-color:color-mix(in srgb,var(--position-ink) 50%,transparent) !important;
+    text-decoration-color:color-mix(in srgb,var(--position-ink) 62%,transparent) !important;
     text-underline-offset:.26em !important;
     transition:text-decoration-color 200ms ease !important;
   }
@@ -26381,11 +26386,19 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
 
   & > li > strong:is(:first-child,.list-bullet + strong),
   & > li > p:first-of-type > strong:first-child {
-    width:fit-content !important;
-    margin:0 0 .26rem !important;
+    /* A tag, not a word in the sentence: smaller, tracked, on its own tinted chip. */
+    display:inline-block !important;
+    width:auto !important;
+    margin:0 .7em 0 0 !important;
+    padding:.26em .62em .26em .7em !important;
+    border:1px solid color-mix(in srgb,var(--position-ink) 26%,transparent) !important;
+    border-radius:4px !important;
+    background:color-mix(in srgb,var(--position-ink) 13%,transparent) !important;
     color:var(--position-ink) !important;
-    font:650 .87em/2.046 var(--ac-sans) !important;
-    letter-spacing:.05em !important;
+    font:650 .76em/1.2 var(--ac-sans) !important;
+    letter-spacing:.12em !important;
+    vertical-align:.12em !important;
+    white-space:nowrap !important;
   }
 
   /* The four standard fields are object, question, type, and context. */
@@ -26402,19 +26415,6 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
       color:var(--text-muted) !important;
       font-size:.91em !important;
       font-weight:500 !important;
-    }
-  }
-
-  @container (min-width:540px) {
-    & > li:has(> strong:is(:first-child,.list-bullet + strong), > p:first-of-type > strong:first-child) {
-      padding-inline-start:calc(var(--position-label-width) + .82rem) !important;
-
-      & > strong:is(:first-child,.list-bullet + strong),
-      & > p:first-of-type > strong:first-child {
-        float:inline-start !important;
-        max-width:calc(var(--position-label-width) - .5rem) !important;
-        margin:0 0 0 calc(-1 * var(--position-label-width)) !important;
-      }
     }
   }
 

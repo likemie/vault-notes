@@ -282,8 +282,8 @@ updated: 2026-11-13
 
 ### 关键概念与理论建构
 
-> [!framework-table] 第11章核心理论概念与治理技术提炼
-> | 概念名称 | 核心机制与理论内涵 | 在全书论证中的功能 | 关联知识条目 |
+> [!framework-table] 核心理论概念与治理技术提炼
+> | 概念名称 | 核心机制与理论内涵 | 在核心论证中的功能 | 关联知识条目 |
 > |---|---|---|---|
 > | [[National Biography\|民族传记（National Biography）]] | 现代民族为应对世俗化与革命断裂带来的历史失忆，在齐一空洞时间中构建的自传叙事体系。其情节构织违背生物繁殖的顺流而下（down time），采取溯流而上（up time）向远古始祖与考古发现逆向倒溯，并将无名死难中具有政治象征意义的暴力死亡重塑为民族的神圣牺牲资产。 | 揭示民族古老连续性的虚构本质，阐明现代国家如何通过历史学建制在断裂废墟上维系超越性的精神同一。 | [[National Biography]]、[[Homogeneous, Empty Time]]、[[Print-Capitalism]] |
 > | [[Reassurance of Fratricide\|兄弟残杀的抚慰（Reassurance of Fratricide）]] | 现代国家历史编纂学与公共教育体系采用的话语收编技术。国家利用“必须已经遗忘”（doit avoir oublié）的悖论语法命令，持续提醒公民牢记古代暴力惨剧的名称，同时消解交战双方真实的宗教、阶级或主权异质性，将其重构为同一民族大家庭内部悲剧性但相互承认的“同胞兄弟相残”。 | 解剖国家如何将具有撕裂性的内战与屠杀历史，驯化为增进爱国主义认同与血缘同胞连带的情感黏合剂。 | [[Reassurance of Fratricide]]、[[Ernest Renan]]、[[Everyday Plebiscite]] |
@@ -293,22 +293,22 @@ updated: 2026-11-13
 
 ### 关键引用
 
-> [!citation-card] 安德森论欧美新地名的共时性并存与手足竞争
+> [!citation-card] 欧美新地名的共时性并存与手足竞争
 > 东南亚传统地名中的“新”（如清迈、哥打峇鲁）始终意味着消逝之物的继承者，新与旧在历时性维度上一脉相承，并召唤来自亡者的暧昧庇佑。16至18世纪美洲命名实践令人震惊之处在于，新与旧被理解为在齐一空洞时间中共存的共时性事物。比斯开与新比斯开、伦敦与新伦敦比肩并立，展现出一种同胞手足之间的平行竞争，而非代际继承。(p. 191)
 >
 > *In Southeast Asia, for example, one finds towns of reasonable antiquity whose names also include a term for novelty: Chiangmai (New City), Kota Bahru (New Town), Pekanbaru (New Market). But in these names ‘new’ invariably has the meaning of ‘successor’ to, or ‘inheritor’ of, something vanished. ‘New’ and ‘old’ are aligned diachronically, and the former appears always to invoke an ambiguous blessing from the dead. What is startling in the American namings of the sixteenth to eighteenth centuries is that ‘new’ and ‘old’ were understood synchronically, coexisting within homogeneous, empty time. Vizcaya is there alongside Nueva Vizcaya, New London alongside London: an idiom of sibling competition rather than of inheritance.*
 
-> [!citation-card] 安德森论米什莱与死者代言的历史学法庭
+> [!citation-card] 米什莱与死者代言的历史学法庭
 > 米什莱不仅声称代表成千上万匿名的死者发声，更带着沉痛的权威断言，自己能够道出这些逝者真正想说与真正想要的一切，因为死者生前并不理解自身行为的意义。从那时起，死者的沉默便不再阻碍历史学家发掘其所谓的深层渴望。顺着这条脉络，越来越多的第二代民族主义者学会了为那些与他们无法或不愿建立语言联系的死者发声。这一反向腹语术为自觉的土著主义开辟了道路：墨西哥人在极端情形下，操着西班牙语为他们完全不解其语言的前哥伦布印第安文明代言。(pp. 202–203)
 >
 > *Michelet not only claimed to speak on behalf of large numbers of anonymous dead people, but insisted, with poignant authority, that he could say what they ‘really’ meant and ‘really’ wanted, since they themselves ‘did not understand.’ From then on, the silence of the dead was no obstacle to the exhumation of their deepest desires. In this vein, more and more ‘second-generation’ nationalists, in the Americas and elsewhere, learned to speak ‘for’ dead people with whom it was impossible or undesirable to establish a linguistic connection. This reversed ventriloquism helped to open the way for a selfconscious indigenismo, especially in the southern Americas. At the edge: Mexicans speaking in Spanish ‘for’ pre-Columbian ‘Indian’ civilizations whose languages they do not understand.*
 
-> [!citation-card] 安德森论勒南遗忘论与国家对兄弟残杀的日常提醒
+> [!citation-card] 勒南遗忘论与国家对兄弟残杀的日常提醒
 > 这一修辞的效果是将中世纪与早期现代欧洲庞大宗教冲突中的惨剧，令人宽慰地重构为法国同胞之间的兄弟相残战争。我们完全可以确信，倘若任由其自流，勒南时代绝大多数法国同胞从未听说过圣巴托洛缪大屠杀或南法大屠杀；这揭示出国家主要通过学校教育系统部署的系统性历史编纂运动，不断提醒每个法国青年牢记这套被铭刻为家庭历史的古老屠戮。必须已经遗忘那些需要被不断提醒的悲剧，构成了日后建构民族谱系的典型机制。(pp. 204–205)
 >
 > *The effect of this tropology is to figure episodes in the colossal religious conflicts of mediaeval and early modern Europe as reassuringly fratricidal wars between – who else? – fellow Frenchmen. Since we can be confident that, left to themselves, the overwhelming majority of Renan’s French contemporaries would never have heard of ‘la Saint-Barthélemy’ or ‘les massacres du Midi,’ we become aware of a systematic historiographical campaign, deployed by the state mainly through the state’s school system, to ‘remind’ every young Frenchwoman and Frenchman of a series of antique slaughters which are now inscribed as ‘family history.’ Having to ‘have already forgotten’ tragedies of which one needs unceasingly to be ‘reminded’ turns out to be a characteristic device in the later construction of national genealogies.*
 
-> [!citation-card] 安德森论民族传记的时间倒溯与神圣死亡收编
+> [!citation-card] 民族传记的时间倒溯与神圣死亡收编
 > 民族缺乏明确可辨识的诞生，其死亡即使发生也非自然现象。因为没有具名的起源者，民族传记无法像福音书那样顺流而下按代代繁衍的链条书写。唯一的途径是溯流而上构想传记，投向北京人、爪哇人或亚瑟王，投向考古学微弱灯光所照亮的一切深处。然而这种构筑过程却由死亡所标志，其以对传统谱系的奇特倒置从当下的源头出发：第二次世界大战催生第一次世界大战，色当孕育奥斯特利茨，华沙起义的先祖是以色列国。民族传记对抗着世俗死亡率，从布罗代尔无情累积的墓地中截取了示范性的自杀、悲壮的就义、暗杀、处决、战争与大屠杀，将这些暴力死亡铭记/遗忘为我们自己的神圣资产。(pp. 209–210)
 >
 > *Nations, however, have no clearly identifiable births, and their deaths, if they ever happen, are never natural. Because there is no Originator, the nation’s biography can not be written evangelically, ‘down time,’ through a long procreative chain of begettings. The only alternative is to fashion it ‘up time’ – towards Peking Man, Java Man, King Arthur, wherever the lamp of archaeology casts its fitful gleam. This fashioning, however, is marked by deaths, which, in a curious inversion of conventional genealogy, start from an originary present. World War II begets World War I; out of Sedan comes Austerlitz; the ancestor of the Warsaw Uprising is the state of Israel... From Braudel’s remorselessly accumulating cemeteries, however, the nation’s biography snatches, against the going mortality rate, exemplary suicides, poignant martyrdoms, assassinations, executions, wars, and holocausts. But, to serve the narrative purpose, these violent deaths must be remembered/forgotten as ‘our own.’*
