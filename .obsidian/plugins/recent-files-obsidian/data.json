@@ -5,16 +5,28 @@
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch10.md"
     },
     {
+      "basename": "Imagined Community",
+      "path": "wiki/theories/political-economy-geopolitics/Imagined Community.md"
+    },
+    {
+      "basename": "Varieties of Capitalism",
+      "path": "wiki/theories/political-economy-geopolitics/Varieties of Capitalism.md"
+    },
+    {
+      "basename": "Historical-Comparative Method",
+      "path": "wiki/methods/qualitative/Historical-Comparative Method.md"
+    },
+    {
+      "basename": "Argument_Anderson_2016_Verso_Ch09",
+      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch09.md"
+    },
+    {
       "basename": "Argument_Anderson_2016_Verso_Ch07",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch07.md"
     },
     {
       "basename": "Argument_Anderson_2016_Verso_Ch08",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch08.md"
-    },
-    {
-      "basename": "Imagined Community",
-      "path": "wiki/theories/political-economy-geopolitics/Imagined Community.md"
     },
     {
       "basename": "Visible Learning Branding and Global Influences",
@@ -35,10 +47,6 @@
     {
       "basename": "Academic Achievement",
       "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
-    },
-    {
-      "basename": "Argument_Anderson_2016_Verso_Ch09",
-      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch09.md"
     },
     {
       "basename": "Organizational Culture",
@@ -191,14 +199,6 @@
     {
       "basename": "Messianic Time",
       "path": "wiki/concepts/political-economy-geopolitics/Messianic Time.md"
-    },
-    {
-      "basename": "Argument_Anderson_2016_Verso_Ch01",
-      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md"
-    },
-    {
-      "basename": "Nationalism",
-      "path": "wiki/concepts/political-economy-geopolitics/Nationalism.md"
     }
   ],
   "omittedPaths": [],
