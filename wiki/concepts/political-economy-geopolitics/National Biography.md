@@ -18,13 +18,21 @@ tags:
   - theme/nationalism
   - theme/collective-memory
   - theme/historiography
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Reassurance of Fratricide]]"
+  - "[[Reversed Ventriloquism]]"
+  - "[[Homogeneous, Empty Time]]"
+  - "[[Print-Capitalism]]"
+related_theories:
+  - "[[Imagined Community]]"
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Benedict Anderson]]"
+  - "[[Fernand Braudel]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Anderson_2016_Verso_Ch11]]"
 confidence: high
 status: active
 created: 2026-11-13
@@ -82,17 +90,17 @@ updated: 2026-11-13
 
 > [!concept-proposition] 命题一｜意识断裂催生的集体失忆构成民族自传叙事的生成根源
 > **叙事认同补偿机制** 探讨现代社会如何在传统世界观崩溃后维系群体连续性，阐明断裂感如何转化为对连续历史叙事的强烈渴求。
-> 
-> > [!claim] Anderson, B.
-> > **成长失忆与民族叙事渴求** [[Benedict Anderson|本尼迪克特·安德森]]指出，任何深刻的意识变迁都会伴随特征性的遗忘。正如人体每七年更换全部细胞、个体经历青春期后无法直接回忆童年意识，不得不依赖出生证、成绩单与旧照片来确认自我身份同一；现代民族在跨越18世纪末革命断裂后，同样丧失了对前现代连续性的直接体验。这种在世俗序列时间中的失忆状态，迫使现代国家建立历史学学科，委派历史学家为沉默的过去撰写传记。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 208–209)]]
+
+> [!claim] Anderson, B.
+> **成长失忆与民族叙事渴求** [[Benedict Anderson|本尼迪克特·安德森]]指出，任何深刻的意识变迁都会伴随特征性的遗忘。正如人体每七年更换全部细胞、个体经历青春期后无法直接回忆童年意识，不得不依赖出生证、成绩单与旧照片来确认自我身份同一；现代民族在跨越18世纪末革命断裂后，同样丧失了对前现代连续性的直接体验。这种在世俗序列时间中的失忆状态，迫使现代国家建立历史学学科，委派历史学家为沉默的过去撰写传记。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 208–209)]]
 
 ---
 
 > [!concept-proposition] 命题二｜逆向时间追溯与死亡收编确立了民族在齐一空洞时间中的超越性同一
 > **死亡转化与谱系构建机制** 探讨国家如何从自然生命消逝中提取政治正当性，确立暴力牺牲在共同体认同中的黏合功能。
-> 
-> > [!claim] Anderson, B.
-> > **溯流而上的死亡谱系构筑** 安德森指出，民族传记与生物学意义上的个人传记存在本质区别。个人自传以死亡为终结，而民族没有自然消亡，其传记必须从当下逆流而上，寻找考古学之光投射的古老远祖。在这套逆向编织的谱系中，历史事件以反向逻辑呈现：第二次世界大战催生第一次世界大战，色当战役催生奥斯特利茨战役。历史学家从自然死亡总和中抢夺具有悲剧色彩的自杀、就义与屠杀，将其塑造成全民族共有的牺牲资产。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 209–210)]]
+
+> [!claim] Anderson, B.
+> **溯流而上的死亡谱系构筑** 安德森指出，民族传记与生物学意义上的个人传记存在本质区别。个人自传以死亡为终结，而民族没有自然消亡，其传记必须从当下逆流而上，寻找考古学之光投射的古老远祖。在这套逆向编织的谱系中，历史事件以反向逻辑呈现：第二次世界大战催生第一次世界大战，色当战役催生奥斯特利茨战役。历史学家从自然死亡总和中抢夺具有悲剧色彩的自杀、就义与屠杀，将其塑造成全民族共有的牺牲资产。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 209–210)]]
 
 ---
 
@@ -104,5 +112,19 @@ updated: 2026-11-13
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - 探讨现代民族如何在经历革命断裂后通过回溯性自传重构同一性与神圣死亡谱系。[[Argument_Anderson_2016_Verso_Ch11|Anderson, 2016, pp. 208–210]]
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Reassurance of Fratricide]] | 概念 | 民族传记处理古代内乱与暴力屠杀的核心收编修辞。 |
+> | [[Reversed Ventriloquism]] | 概念 | 民族传记借以向远古逝者代拟意图并确立时间深度的史学代言技术。 |
+> | [[Homogeneous, Empty Time]] | 概念 | 民族传记赖以展开溯流而上逆向构织的世俗线性时空框架。 |
+> | [[Print-Capitalism]] | 概念 | 批量复制与传播档案、报纸、传记与教科书的物质制度载体。 |
+> | [[Imagined Community]] | 理论 | 民族传记所服务的现代主权与有限想象共同体理论。 |
+> | [[Benedict Anderson]] | 人物 | 提出民族自传理论并揭示其逆向发生学与死亡政治学的学者。 |
+> | [[Fernand Braudel]] | 人物 | 法国年鉴学派史学家，安德森借其人口死亡率统计反衬民族传记的神圣死亡抢夺。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Anderson_2016_Verso_Ch11|Anderson (2016)]] — 探讨现代民族如何在经历革命断裂后通过回溯性自传重构同一性与神圣死亡谱系。
