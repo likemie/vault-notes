@@ -24574,6 +24574,8 @@
     "Tripp, 1985": "Tripp, 1985",
     "Tripp, 1993": "Tripp, 1993",
     "Tripp, 2003": "Tripp, 2003",
+    "Trotsky (1930)": "Trotsky, 1930",
+    "Trotsky, 1930": "Trotsky, 1930",
     "Trout (2003)": "Trout, 2003",
     "Trout et al. (2008)": "Trout et al., 2008",
     "Trout et al., 2008": "Trout et al., 2008",
@@ -155092,7 +155094,8 @@
         "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch09.md",
         "wiki/concepts/political-economy-geopolitics/Colonial Racism.md",
         "wiki/concepts/political-economy-geopolitics/Nationalism.md",
-        "wiki/persons/uk/Tom Nairn.md"
+        "wiki/persons/uk/Tom Nairn.md",
+        "wiki/theories/political-economy-geopolitics/Law of Uneven and Combined Development.md"
       ],
       "title": ""
     },
@@ -206865,6 +206868,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18.md"
+      ],
+      "title": ""
+    },
+    "Trotsky, 1930": {
+      "aliases": [
+        "Trotsky, 1930",
+        "Trotsky (1930)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Trotsky, 1930"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/political-economy-geopolitics/Law of Uneven and Combined Development.md"
       ],
       "title": ""
     },
