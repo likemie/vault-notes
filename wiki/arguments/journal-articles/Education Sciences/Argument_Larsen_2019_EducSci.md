@@ -9,7 +9,7 @@ title: "Argument_Larsen_2019_EducSci"
 argument_key: "Argument_Larsen_2019_EducSci"
 argument_display_title: "Blindness in seeing: A philosophical critique of the Visible Learning paradigm in education"
 argument_kind: "journal-article"
-argument_related_count: 56
+argument_related_count: 55
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -94,7 +94,7 @@ sources:
 part_of: ''
 status: stable
 created: '2026-05-04'
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 ---
 

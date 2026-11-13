@@ -10,9 +10,9 @@ title: "Argument_Yan_2025_JCS"
 argument_key: "Argument_Yan_2025_JCS"
 argument_display_title: "The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong"
 argument_kind: "journal-article"
-argument_related_count: 40
-argument_related_level: 4
-argument_related_stars: "💎⭐"
+argument_related_count: 39
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: Journal of Curriculum Studies
 citation: "Yan, K. C. A., & Morris, P. (2025). The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong. Journal of Curriculum Studies, 57(4), 480–494."
@@ -75,7 +75,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-01
-updated: 2026-10-30
+updated: 2026-11-13
 year: 2025
 doi: ""
 citation_aliases:

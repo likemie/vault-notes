@@ -11,7 +11,7 @@ aliases:
 summary: "产学合作中学者同时持有企业正式雇员与大学专任教授双重法律身份的高带宽协同构型。研究者以企业雇员身份解决短期专有工程难题，以大学教授身份主持长期开放科研并指导研究生；通过在个体层面并行运作化解校企时间尺度错配，但需依托成熟的学术参与团队（AET）与知识产权分割机制平衡商业保密与学术发表冲突。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -39,14 +39,13 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[ROOTS]]"
   - "[[University Industry Demonstration Partnership]]"
 related_arguments:
   - "[[Argument_Ramming_2025_CorporateSupport]]"
 confidence: high
 status: active
 created: 2026-06-04
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---
@@ -85,7 +84,7 @@ updated: 2026-11-11
 
 > [!feature] 联合教职的四大组织支柱与运作机制
 > - **双重人格并行运作（Dual Persona Parallelism）** 研究者同时兼具企业雇员（面向商业损益、系统交付与专利保护）与大学教授（面向学术真理、公共发表与学生培育）两种人格；两种身份在周度工作节拍中交替或同步推进，成为穿透校企组织壁垒的活体通道。
-> - **一线草根驱动与业务部门承载（Grass-[[ROOTS]] Motivation & BU Hosting）** 联合教职的动议极少源自企业顶层或 HR 的抽象规划，是源于一线工程研发团队在与教授合作中产生的迫切现实需求；企业端工作由业务部门直接进行日常绩效考核与产品交付管理。
+> - **一线草根驱动与业务部门承载（Grass-Roots Motivation & BU Hosting）** 联合教职的动议极少源自企业顶层或 HR 的抽象规划，是源于一线工程研发团队在与教授合作中产生的迫切现实需求；企业端工作由业务部门直接进行日常绩效考核与产品交付管理。
 > - **中央 [[Academic Engagement Team|AET]] 的战略纽带与制度协调（Centralized AET Facilitation）** 由于联合聘任直接牵动大学对终身教职（Tenure-track）考核、教学工作量减免与实验室所有权的敏感关切，企业中央[[Academic Engagement Team|学术参与团队]]（AET）必须介入，将个案聘任提升为企业与伙伴大学战略合作生态的组成部分。（UIDP, 2024; 引自 [[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, p. 230]]）
 > - **时空与成果物理隔离机制（IP & Conflict-of-Interest Partitioning）** 为防范知识产权混同与利益冲突诉讼，制度设计通常严格限定工作物理场所、设备账号与数据边界：在企业设施与工时内产生的成果归属企业，在大学实验室与使用公共经费产出的成果完全公开发表。
 

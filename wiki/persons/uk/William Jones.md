@@ -41,7 +41,6 @@ related_persons:
   - "[[Benedict Anderson]]"
 related_facts:
   - "[[The Royal Society]]"
-  - "[[ROOTS]]"
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch05]]"
 confidence: high
@@ -60,7 +59,7 @@ updated: 2026-11-13
 > [!citation-card] 威廉·琼斯论梵语与古典欧洲语言的同源性
 > 无论梵语多么古老，其结构皆展现出令人赞叹的精妙：它比希腊语更为完备，比拉丁语更为丰富，比两者都更为精致细腻；然而在动词词根与语法形态上，它与两者展现出如此显著的亲缘关系，具有必然的系统渊源；任何语文学家在审视这三者时，都必然得出它们发源于某个现已不复存在的共同母体的结论。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, p. 72, n. 7)]]
 >
-> *The Sanscrit language, whatever be its antiquity, is of a wonderful structure; more perfect than the Greek, more copious than the Latin, and more exquisitely refined than either, yet bearing to both of them a stronger affinity, both in the [[ROOTS|roots]] of verbs and the forms of grammar, than could possibly have been produced by accident; so strong indeed, that no philologer could examine them all three, without believing them to have sprung from some common source, which, perhaps, no longer exists.*
+> *The Sanscrit language, whatever be its antiquity, is of a wonderful structure; more perfect than the Greek, more copious than the Latin, and more exquisitely refined than either, yet bearing to both of them a stronger affinity, both in the roots of verbs and the forms of grammar, than could possibly have been produced by accident; so strong indeed, that no philologer could examine them all three, without believing them to have sprung from some common source, which, perhaps, no longer exists.*
 
 ---
 

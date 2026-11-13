@@ -11,7 +11,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -47,7 +47,6 @@ related_facts:
   - "[[Education and Training 2010]]"
   - "[[European Commission]]"
   - "[[PISA]]"
-  - "[[ROOTS]]"
   - "[[Finnish PISA Miracle]]"
   - "[[OECD]]"
 related_arguments:
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---
@@ -83,7 +82,7 @@ updated: 2026-11-11
 > [!citation-card] [[EU|欧盟]]官员论同行学习活动中芬兰经验借鉴的脱嵌悖论
 > 我们组团去芬兰的日程是为了更好地理解芬兰在 [[PISA]] 中的成功秘诀：他们究竟做了什么？是个别化教学还是特殊专业教学？跨国经验转移极为复杂而艰巨，因为人们总在思考如果把一套体系照搬过来能否有效；现实中我们缺乏[[Scientific Method|科学方法]]来辨识哪些成功要素能够真正扎根于本国土壤，许多人往往只关注那些浮华耀眼的表面现象。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 33)]]
 >
-> *The agenda is to better understand what Finland is doing to succeed in PISA … Can the Finnish experience actually inspire something to be done in England … this transfer of experiences is very complex and very difficult … to identify the elements of success that are relevant to your country and which can be used in your country and have [[ROOTS|roots]] in your system … My critique is that I don’t believe intellectually they have the methodology for looking at anything. They look at things that shine.* (EU Commission Official EU3, cited in Grek, 2009, p. 33)
+> *The agenda is to better understand what Finland is doing to succeed in PISA … Can the Finnish experience actually inspire something to be done in England … this transfer of experiences is very complex and very difficult … to identify the elements of success that are relevant to your country and which can be used in your country and have roots in your system … My critique is that I don’t believe intellectually they have the methodology for looking at anything. They look at things that shine.* (EU Commission Official EU3, cited in Grek, 2009, p. 33)
 
 ---
 

@@ -63,14 +63,14 @@ sources:
 part_of:
 status: draft
 created: 2026-09-22
-updated: 2026-10-29
+updated: 2026-11-13
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Han_Gutierez_2026_IJSE"
 argument_key: "Argument_Han_Gutierez_2026_IJSE"
 argument_display_title: "‘How can we check the evidence presented by GenAI’s response?’: students’ epistemic vigilance of their co-constructed scientific explanations with GenAI"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 32
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"

@@ -7,7 +7,7 @@ aliases:
 summary: "指学术学科或产业精英在特定知识生产与意识形态驱动下，主动割裂、边缘化乃至集体遗忘制度生成演化史与公共奠基传统的病理状态；既表现为比较教育学在实证量化狂潮中放逐历史编纂法与长时段历史意识，亦表现为硅谷科技巨头抹杀国家公共研发投资奠基作用的自由市场神话。"
 type: concept
 domain: "comparative-education"
-related_count: 33
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---

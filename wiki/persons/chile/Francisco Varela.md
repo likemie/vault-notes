@@ -7,7 +7,7 @@ summary: "智利生物学家和神经科学家，自创生理论共同创立者�
 type: person
 nationality: chile
 person_region: "chile"
-person_related_count: 8
+person_related_count: 7
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -29,14 +29,13 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Humberto Maturana]]"
-related_facts:
-  - "[[ROOTS]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Amos_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-10-22
+updated: 2026-11-13
 ---
 
 > [!person-profile] 人物档案
@@ -54,7 +53,7 @@ updated: 2026-10-22
 
 > [!abstract] 主要著作与思想发展
 
-- [[Humberto Maturana|Maturana, H.]] R., & Varela, F. J. (1987). *The tree of knowledge: The biological [[ROOTS]] of human understanding*. Shambhala. — 与 Maturana 共同提出[[Autopoiesis|自创生]]理论
+- [[Humberto Maturana|Maturana, H.]] R., & Varela, F. J. (1987). *The tree of knowledge: The biological roots of human understanding*. Shambhala. — 与 Maturana 共同提出[[Autopoiesis|自创生]]理论
 - Varela, F. J. (1999). *Ethical know-how: Action, wisdom and cognition*. Stanford University Press. — 提出自我的非固化和伦理诀窍概念
 
 ---

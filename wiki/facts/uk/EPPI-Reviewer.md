@@ -11,9 +11,9 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 40
-fact_related_level: 4
-fact_related_stars: "💎⭐"
+fact_related_count: 39
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 period: "2000s–至今"
 initiator_organization: "[[EPPI-Centre]]"
@@ -67,14 +67,13 @@ related_facts:
   - "[[Scopus]]"
   - "[[Web of Science]]"
   - "[[Education Resources Information Center]]"
-  - "[[ROOTS]]"
 related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
 confidence: medium
 status: draft
 created: 2026-11-07
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---
@@ -108,7 +107,7 @@ updated: 2026-11-11
 > [!citation-card] Burns & Schuller 论 EPPI-Centre 自主研发软件平台的存续优势
 > 循证政策与实践信息协同中心（EPPI-Centre）扎根于伦敦大学学院教育研究院顶尖学术共同体，通过自主研发并持续运营 EPPI-Reviewer 专业系统综述软件，开创多元[[Mixed Methods Research|混合方法]]规程，与全球学术中介机构及国际组织形成广泛课题合作，从而在 15 年间抵御住了政府短期财政周期的冲击，保持完全活跃。[[Argument_Burns_Schuller_2022_BrokerageAgencies|(Burns & Schuller, 2022, pp. 64, 187)]]
 >
-> *EPPI-Centre... developed own review software (EPPI-Reviewer)... survived and remained fully active through deep [[ROOTS|roots]] in the academic community and diversified research funding.*
+> *EPPI-Centre... developed own review software (EPPI-Reviewer)... survived and remained fully active through deep roots in the academic community and diversified research funding.*
 
 ---
 

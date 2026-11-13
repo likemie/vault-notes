@@ -7,7 +7,7 @@ summary: "智利生物学家和哲学家，自创生理论共同创立者与知�
 type: person
 nationality: chile
 person_region: "chile"
-person_related_count: 8
+person_related_count: 7
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -30,13 +30,12 @@ related_persons:
   - "[[Francisco Varela]]"
 related_facts:
   - "[[Research in Schools Evaluation]]"
-  - "[[ROOTS]]"
 related_arguments:
   - "[[Argument_Amos_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-10-22
+updated: 2026-11-13
 ---
 
 > [!person-profile] 人物档案
@@ -54,7 +53,7 @@ updated: 2026-10-22
 
 > [!abstract] 主要著作与思想发展
 
-- Maturana, H. R., & [[Francisco Varela|Varela, F.]] J. (1987). *The tree of knowledge: The biological [[ROOTS]] of human understanding*. Shambhala. — 与 Varela 共同提出[[Autopoiesis|自创生]]理论，从生物学延伸到人类理解
+- Maturana, H. R., & [[Francisco Varela|Varela, F.]] J. (1987). *The tree of knowledge: The biological roots of human understanding*. Shambhala. — 与 Varela 共同提出[[Autopoiesis|自创生]]理论，从生物学延伸到人类理解
 
 ---
 

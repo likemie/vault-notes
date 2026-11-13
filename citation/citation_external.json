@@ -116,6 +116,8 @@
     "Abdelmagid et al., 2025": "Abdelmagid et al., 2025",
     "Abdo et al. (2021)": "Abdo et al., 2021",
     "Abdo et al., 2021": "Abdo et al., 2021",
+    "Abdou Moumouni (1964)": "Abdou Moumouni, 1964",
+    "Abdou Moumouni, 1964": "Abdou Moumouni, 1964",
     "Abdulla et al. (2020)": "Abdulla et al., 2020",
     "Abdulla et al., 2020": "Abdulla et al., 2020",
     "Abdullah (2014)": "Abdullah, 2014",
@@ -16998,6 +17000,8 @@
     "Morgan, 2005": "Morgan, 2005",
     "Morgan, 2007": "Morgan, 2007",
     "Morgan, 2019": "Morgan, 2019",
+    "Morgenthau (1964)": "Morgenthau, 1964",
+    "Morgenthau, 1964": "Morgenthau, 1964",
     "Moriguchi & Hiraki (2013)": "Moriguchi & Hiraki, 2013",
     "Moriguchi & Hiraki, 2013": "Moriguchi & Hiraki, 2013",
     "Morin (2023)": "Morin, 2023",
@@ -28779,6 +28783,21 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Australian Educational Researcher/Argument_Skourdoumbis_2024_AER.md",
         "wiki/facts/australia/Centre for Evidence and Implementation.md"
+      ],
+      "title": ""
+    },
+    "Abdou Moumouni, 1964": {
+      "aliases": [
+        "Abdou Moumouni, 1964",
+        "Abdou Moumouni (1964)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Abdou Moumouni, 1964"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/africa/École Normale William Ponty.md"
       ],
       "title": ""
     },
@@ -63017,7 +63036,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/facts/us/ROOTS.md"
+        "wiki/facts/us/ROOTS Math.md"
       ],
       "title": ""
     },
@@ -63047,7 +63066,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/facts/us/ROOTS.md"
+        "wiki/facts/us/ROOTS Math.md"
       ],
       "title": ""
     },
@@ -74520,7 +74539,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/facts/us/ROOTS.md"
+        "wiki/facts/us/ROOTS Math.md"
       ],
       "title": ""
     },
@@ -151640,6 +151659,21 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Current Psychology/Argument_Gungor_2026_CP.md",
         "wiki/concepts/instruction-pedagogy/Cooperative Learning.md"
+      ],
+      "title": ""
+    },
+    "Morgenthau, 1964": {
+      "aliases": [
+        "Morgenthau, 1964",
+        "Morgenthau (1964)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Morgenthau, 1964"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/africa/École Normale William Ponty.md"
       ],
       "title": ""
     },

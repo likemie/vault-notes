@@ -36835,6 +36835,19 @@
     "subtype": "organization"
   },
   {
+    "title": "École Normale William Ponty",
+    "type": "fact",
+    "path": "wiki/facts/africa/École Normale William Ponty.md",
+    "aliases": [
+      "威廉·蓬蒂师范学校",
+      "达喀尔威廉·蓬蒂师范学校",
+      "William Ponty School",
+      "达喀尔威廉·蓬蒂学校",
+      "蓬蒂师范学校"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "African Virtual University",
     "type": "fact",
     "path": "wiki/facts/africa/African Virtual University.md",
@@ -36925,6 +36938,18 @@
     "aliases": [
       "Asian Network of Training and Research Institutions in Educational Planning",
       "亚洲教育规划培训与研究机构网络"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "Lycée Sisowath",
+    "type": "fact",
+    "path": "wiki/facts/asia/Lycée Sisowath.md",
+    "aliases": [
+      "西索瓦中学",
+      "西索瓦公学",
+      "Collège Sisowath",
+      "金边西索瓦中学"
     ],
     "subtype": "organization"
   },
@@ -50108,12 +50133,14 @@
     "subtype": "program"
   },
   {
-    "title": "ROOTS",
+    "title": "ROOTS Math",
     "type": "fact",
-    "path": "wiki/facts/us/ROOTS.md",
+    "path": "wiki/facts/us/ROOTS Math.md",
     "aliases": [
       "数学根基方案",
-      "ROOTS Math"
+      "ROOTS Math Project",
+      "ROOTS Math Intervention",
+      "ROOTS早期数感方案"
     ],
     "subtype": "program"
   },

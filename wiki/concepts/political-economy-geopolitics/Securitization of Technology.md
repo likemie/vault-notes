@@ -8,7 +8,7 @@ aliases:
 summary: "指主权国家在地缘政治博弈加剧背景下，将半导体、人工智能等战略性关键技术、基础科研与产业链控制力上升为关乎国家生存与主权安全的核心议程；通过出口管制、投资审查、定向产业立法与有组织科研动员，将大学等创新主体深度嵌入国家安全体系。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 54
+related_count: 53
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -54,7 +54,6 @@ related_persons:
   - "[[Michael Kratsios]]"
 related_facts:
   - "[[National Science and Technology Council]]"
-  - "[[ROOTS]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Albany NanoTech Complex]]"
   - "[[Manhattan Project]]"
@@ -81,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---
@@ -102,7 +101,7 @@ updated: 2026-11-11
 > [!citation-card] [[National Science and Technology Council|白宫国家科学技术委员会]]论全栈微电子与硬件根信任安全化
 > 微电子是支撑国家安全、国防任务与数字经济命脉的核心底层基础设施。随着半导体供应链全球化暴露严重脆弱性，技术安全化要求在全政府统筹（Whole-of-Government）下将安全防御内嵌于芯片研发全生命周期：从最底层的物理材料探索、抗篡改芯片设计、可信中试流片，到硬件根信任（Root of Trust）、零信任架构与防伪追溯，将国家安全目标与前沿微电子研究实现全栈深度绑定。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 1–4, 37–44)]]
 >
-> *Microelectronics is foundational to national security and economic prosperity. Securitization of technology demands a whole-of-government approach embedding [[Hardware Security]] into every phase of the lifecycle—from material physics, tamper-resistant design, and trusted prototyping, to hardware [[ROOTS]] of trust, zero-trust architectures, and anti-counterfeiting verification.*
+> *Microelectronics is foundational to national security and economic prosperity. Securitization of technology demands a whole-of-government approach embedding [[Hardware Security]] into every phase of the lifecycle—from material physics, tamper-resistant design, and trusted prototyping, to hardware roots of trust, zero-trust architectures, and anti-counterfeiting verification.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[National Competitive Advantage|国家竞争优势]] — 前者强调地缘安全对抗、生存威胁与排他性防御，后者主要聚焦经济生产率与自由市场贸易[[Competitiveness|竞争力]]。

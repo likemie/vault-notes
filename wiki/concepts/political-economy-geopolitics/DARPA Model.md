@@ -9,7 +9,7 @@ aliases:
 summary: "国家主导颠覆性科技创新的组织与管理范式。以防范战略技术突袭为使命，赋予顶尖项目经理（PMs）高度自由裁量权，通过广泛领域资助公告（BAA）与海尔迈耶问卷筛选高风险方案。Fuchs（2010）实证论证其核心本质既非表层采办合同亦非组织文化，是项目经理依托微观非正式制度重塑研发网络拓扑、引导国家技术轨道的嵌入型网络治理机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 32
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-11-03
+updated: 2026-11-13
 ---
 
 ---
@@ -75,7 +75,7 @@ updated: 2026-11-03
 > [!citation-card] DARPA 模式的本质：嵌入型网络治理而非形式合同
 > 全球模仿者究竟应当学习 DARPA 模式的什么？这一研究证明，在采办条规与领导风格剧烈变迁的背后，DARPA 跨越半个世纪维系技术领先的核心，在于项目经理之间稳定传承的一套非正式网络治理制度；项目经理充当网络架构重塑者与乐队指挥家，引导了全美关键技术轨道。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144)]]
 >
-> *What is the DARPA model that its imitators should be copying? The [[ROOTS]] of DARPA's success lie not in formal procurement rules or organizational culture, but in a set of micro-level informal institutions of embedded network governance practiced by its program managers.*
+> *What is the DARPA model that its imitators should be copying? The roots of DARPA's success lie not in formal procurement rules or organizational culture, but in a set of micro-level informal institutions of embedded network governance practiced by its program managers.*
 
 ---
 

@@ -53,7 +53,6 @@ related_persons:
   - "[[Donald Stokes]]"
 related_facts:
   - "[[Department of Defense]]"
-  - "[[ROOTS]]"
   - "[[Research in Schools Evaluation]]"
   - "[[Ministry of International Trade and Industry]]"
   - "[[CHIPS and Science Act]]"
@@ -95,7 +94,7 @@ updated: 2026-11-11
 
 > [!thought-timeline] 思想发展
 > - **1970s–1980s — 资本主义国家自主性与国际经济秩序** 探索资本主义国家相对于资产阶级阶级利益的“相对自主性”，反思布雷顿森林体系崩溃背后的[[Geopolitics|地缘政治]]经济逻辑。
->   - **代表著作** *The [[ROOTS]] of International Economic Disorder* (1977); *Revising State Theory: Essays in Politics and Postindustrialism* (1987)。
+>   - **代表著作** *The Roots of International Economic Disorder* (1977); *Revising State Theory: Essays in Politics and Postindustrialism* (1987)。
 >   - **关键概念／方法** 国家自主性、后工业转型、制度结构分析。
 >   - **阶段转向** 从结构马克思主义国家争论转向经验历史制度分析与[[Post-Fordism|后福特制]]组织演变。
 > - **1990s–2000s — 波兰尼复兴、虚构商品与[[Knowledge-Based Economy|知识经济]]** 阐发波兰尼双重运动理论，指出自由市场是国家制度建构的产物，并反驳自发形成的说法；将劳动力、土地与货币三类虚构商品扩展至当代知识产权。

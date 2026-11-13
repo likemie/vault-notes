@@ -7,7 +7,7 @@ title: "Argument_Matthews(Ed.)_2018_Springer"
 argument_key: "Argument_Matthews(Ed.)_2018_Springer"
 argument_display_title: "History, philosophy and science teaching: New perspectives"
 argument_kind: "edited-volume"
-argument_related_count: 34
+argument_related_count: 33
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#e5e7eb"
@@ -73,7 +73,7 @@ sources:
 part_of:
 status: draft
 created: 2026-09-21
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---

@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 19
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -49,13 +49,12 @@ related_facts:
   - "[[National Academy of Sciences]]"
   - "[[Rising Above the Gathering Storm 2007]]"
   - "[[ARPA-H]]"
-  - "[[ROOTS]]"
 related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-02
+updated: 2026-11-13
 ---
 
 ---
@@ -96,7 +95,7 @@ updated: 2026-11-02
 > - **先进电网与电池储能（IONICS & GRIDS）** 研发全固态锂电池、液流电池与超长时铁空气电池，将规模化储能系统的循环寿命与安全裕度提升一个数量级。
 > - **深层地热与极端环境钻探（OPEN & GEODRILL）** 攻克在数千米高温高压硬岩环境下低成本毫米波与等离子体非接触式破岩技术。
 > - **先进核裂变与模块化反应堆（MEITNER & GEMINA）** 运用数字孪生与先进传感器，大幅压减先进微型反应堆的现场运维人员与安全合规成本。
-> - **高效农业与生物固碳（[[ROOTS]] & MARINER）** 利用深根系作物育种与海洋大型藻类养殖实现万亿吨级生态碳封存。
+> - **高效农业与生物固碳（ROOTS & MARINER）** 利用深根系作物育种与海洋大型藻类养殖实现万亿吨级生态碳封存。
 
 > [!citation-card] 核心法定使命宣言
 > [[DARPA|ARPA]]-E 致力于通过资助处于早期概念阶段的高风险高回报能源技术，消除技术与经济双重瓶颈，维护美国在清洁、廉价与韧性能源领域的全球技术统治力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 21)]]
