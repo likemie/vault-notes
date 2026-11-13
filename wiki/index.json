@@ -12939,6 +12939,19 @@
     ]
   },
   {
+    "title": "Bourgeois Reading Solidarity",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Bourgeois Reading Solidarity.md",
+    "aliases": [
+      "bourgeois-reading-solidarity",
+      "资产阶级印刷阅读连带",
+      "资产阶级想象连带",
+      "资产阶级想象团结",
+      "Bourgeois Solidarity",
+      "Imagined Bourgeois Solidarity"
+    ]
+  },
+  {
     "title": "Brazilian Exceptionalism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Brazilian Exceptionalism.md",
@@ -14241,6 +14254,19 @@
     ]
   },
   {
+    "title": "Polyvernacular Empire",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Polyvernacular Empire.md",
+    "aliases": [
+      "polyvernacular-empire",
+      "多语种王朝帝国",
+      "多方言帝国",
+      "多语种帝国",
+      "多方言王朝帝国",
+      "Polyvernacular Dynastic Empire"
+    ]
+  },
+  {
     "title": "Post-Nationalism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Post-Nationalism.md",
@@ -14374,6 +14400,18 @@
       "再西方化",
       "rewesternisation",
       "re-westernization"
+    ]
+  },
+  {
+    "title": "Reading Coalition",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Reading Coalition.md",
+    "aliases": [
+      "reading-coalition",
+      "读者阶层联盟",
+      "读者联盟",
+      "民族主义读者联盟",
+      "Reading Coalitions"
     ]
   },
   {
@@ -36644,6 +36682,18 @@
     "subtype": "program"
   },
   {
+    "title": "Gauteng Primary Language and Mathematics Strategy",
+    "type": "fact",
+    "path": "wiki/facts/africa/Gauteng Primary Language and Mathematics Strategy.md",
+    "aliases": [
+      "gauteng-primary-language-and-mathematics-strategy",
+      "GPLMS",
+      "豪登省基础语文与数学战略",
+      "豪登省小学语言与数学战略"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "PASEC",
     "type": "fact",
     "path": "wiki/facts/africa/PASEC.md",
@@ -38440,6 +38490,18 @@
     "path": "wiki/facts/ecuador/Ecuadorian Education Reform 2006-2017.md",
     "aliases": [
       "ecuadorian-education-reform-2006-2017"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Estonian Basic Education System",
+    "type": "fact",
+    "path": "wiki/facts/estonia/Estonian Basic Education System.md",
+    "aliases": [
+      "estonian-basic-education-system",
+      "爱沙尼亚基础教育体系",
+      "爱沙尼亚九年一贯制基础教育",
+      "爱沙尼亚教育模式"
     ],
     "subtype": "policy"
   },
@@ -43935,6 +43997,18 @@
       "庞巴尔改革时期",
       "Reformas Pombalinas",
       "Pombaline Era"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Portuguese Education Reform 2011–2015",
+    "type": "fact",
+    "path": "wiki/facts/portugal/Portuguese Education Reform 2011–2015.md",
+    "aliases": [
+      "portuguese-education-reform-2011-2015",
+      "葡萄牙2011–2015年基础教育改革",
+      "葡萄牙2011-2015年基础教育改革",
+      "葡萄牙基础教育改革"
     ],
     "subtype": "policy"
   },

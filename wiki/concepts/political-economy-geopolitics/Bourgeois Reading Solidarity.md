@@ -9,25 +9,26 @@ aliases:
   - Imagined Bourgeois Solidarity
 summary: "政治社会学与历史社会学概念，指工商业资产阶级作为历史上首个纯粹依托印刷语言中介而在头脑中达成横向共鸣与阶级认同的社会阶层范式。与前现代封建贵族依靠肉身血亲联姻、宗族分封与人身臣服等实体纽带不同，分布于各地的资产阶级成员通过无数独立复制品的形态存在，既无跨区通婚亦无财产继承，仅通过全国性白话商业报刊在头脑中感知成千上万处于同等境遇者的共同存在，其团结外延严格受制于特定印刷语言的可识读边界。"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 6
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/political-sociology
   - theme/nationalism
   - theme/print-capitalism
   - theme/class-solidarity
 related_concepts:
-  - "[[Print-Capitalism]]"
   - "[[Print-Language]]"
-  - "[[Nationalism]]"
-  - "[[Bureaucracy]]"
-  - "[[Homogeneous, Empty Time]]"
+  - "[[Print-Capitalism]]"
   - "[[Reading Coalition]]"
   - "[[Polyvernacular Empire]]"
+  - "[[Nationalism]]"
 related_theories: []
-related_methods:
-  - "[[Historical-Comparative Method]]"
+related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Benedict Anderson]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch05]]"

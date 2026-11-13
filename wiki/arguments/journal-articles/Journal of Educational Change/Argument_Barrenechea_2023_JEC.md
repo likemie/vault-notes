@@ -97,8 +97,11 @@ related_facts:
   - "[[Toward a Science of Comparative Education 1969]]"
   - "[[What Ivan Knows That Johnny Doesn't 1961]]"
   - "[[OECD]]"
+  - "[[Estonian Basic Education System]]"
+  - "[[Portuguese Education Reform 2011–2015]]"
   - "[[TIMSS]]"
   - "[[Blueprint for Student Success]]"
+  - "[[Gauteng Primary Language and Mathematics Strategy]]"
 related_arguments: []
 sources:
   - "[[sources/Barrenechea_2023_JEC|Barrenechea_2023_JEC]]"
@@ -112,7 +115,7 @@ title: "Argument_Barrenechea_2023_JEC"
 argument_key: "Argument_Barrenechea_2023_JEC"
 argument_display_title: "How can education systems improve? A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 74
+argument_related_count: 77
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -228,7 +231,7 @@ issuing_organization: ""
 > [!sub-claim] 2. 跨期国际评估打破经验光环，中小系统的提质经验受到重视
 
 > [!case] 测量技术转向催生的新型提质系统案例
-> - **爱沙尼亚与葡萄牙受到国际瞩目** 凭借在 PISA 历年追踪中的持续稳步提升，原本在传统比较教育视域中处于边缘位置的中小国家（如爱沙尼亚与[[Nuno Crato|努诺·克拉托]]领导下的葡萄牙改革）跃居国际政策关注的中心位置（Boman, 2020; Carvalho et al., 2017; Crato, 2021; Mikk, 2015）。
+> - **爱沙尼亚与葡萄牙受到国际瞩目** 凭借在 PISA 历年追踪中的持续稳步提升，原本在传统比较教育视域中处于边缘位置的中小国家（如[[Estonian Basic Education System|爱沙尼亚基础教育体系]]与[[Nuno Crato|努诺·克拉托]]领导下的[[Portuguese Education Reform 2011–2015|葡萄牙教育改革]]）跃居国际政策关注的中心位置（Boman, 2020; Carvalho et al., 2017; Crato, 2021; Mikk, 2015）。
 > - **关注点由头名冠军转向提质加速度** 测评度量的深化促使学界与国际组织的考察视线从绝对高水平系统转向具有显著改善特征的系统，探寻促使系统摆脱低谷的有效政策支点。
 
 > [!policy-context] 跨国管理咨询机构介入教育政策生产
@@ -310,7 +313,7 @@ issuing_organization: ""
 
 > [!policy-design] 针对弱势学校的资源倾斜与[[Structured Teaching|结构化教学]]供给
 > - **智利 P.900 弱势小学专项资助** Cox (2004) 系统梳理了智利 1990 至 2003 年的教育平权改革。智利推行著名的 P.900 计划，锁定全国学业表现后 10% 的初等学校实施全方位补偿支持；国家公共教育财政投入增长超过三倍，向全国 92% 接受国家资助的学生免费配发全套 5 门核心学科教材，建立覆盖中小学的计算机网络基础设施；推行全日制学校改革（Jornada Escolar Completa, JEC），系统扩充学生的课堂在校有效学习时间。
-> - **南非豪登省教材教具与教学指导交付** Fleisch (2016) 对南非基础教育教学核心（Instructional Core）系统改进的研究表明，针对资源匮乏与师资薄弱环境，行之有效的策略是将优质教学材料的精准配发与到校教学教练紧密嵌合。向一线教师直接提供结构化脚本化教案（Scripted Curriculum）、分级阅读图书，配合常态化教学教练随堂指导，成功实现了微观教学实践的规制与提升。
+> - **南非豪登省教材教具与教学指导交付** Fleisch (2016) 对[[Gauteng Primary Language and Mathematics Strategy|南非豪登省基础语文与数学战略]]（GPLMS）教学核心（Instructional Core）系统改进的研究表明，针对资源匮乏与师资薄弱环境，行之有效的策略是将优质教学材料的精准配发与到校教学教练紧密嵌合。向一线教师直接提供结构化脚本化教案（Scripted Curriculum）、分级阅读图书，配合常态化教学教练随堂指导，成功实现了微观教学实践的规制与提升。
 
 > [!mechanism] 推迟学段分流与扩充[[Effective Teaching|有效教学]]时间：波兰学制改革
 > 波兰 1999 年改革在小学与高中之间创设独立的初级中学，强制将原本在初中阶段便过早分流的职业教育延后一年，使全体学生在 16 岁前接受均质化的[[General Education|通识教育]]；同时显著增加了核心学科的在校教学课时，成为波兰在 PISA 测试中大幅缩小学生学业差距的核心制度根源（Bin Mahfooz & Hovde, 2010; Jakubowski, 2015）。

@@ -8,6 +8,11 @@ aliases:
   - Reading Coalitions
 summary: "政治社会学与历史社会学概念，指19世纪欧洲第二波民族主义浪潮中，由中小地主、学者文人、专业人士与工商业者围绕白话印刷市场建立的跨阶层社会同盟。该联盟是连接学术性语文学革命与基层大众动员的组织纽带：中小乡绅提供社会声望与政治领袖，学者文人提供民间史诗、历史叙事与报刊理论，工商业人士提供资金赞助与发行营销渠道。该联盟向广大民众发出用母语书写的历史请柬，并在不同社会结构中呈现出从贫困小贵族独撑到海商学者联合的多样化形态。"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 8
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/political-sociology
   - theme/nationalism
@@ -19,17 +24,13 @@ related_concepts:
   - "[[Bourgeois Reading Solidarity]]"
   - "[[Polyvernacular Empire]]"
   - "[[Modular Nationalism]]"
-  - "[[Administrative Vernacular]]"
 related_theories: []
-related_methods:
-  - "[[Historical-Comparative Method]]"
+related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Benedict Anderson]]"
   - "[[Tom Nairn]]"
   - "[[Adamantios Koraes]]"
-related_facts:
-  - "[[Philike Hetairia]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch05]]"
 confidence: high
@@ -96,7 +97,7 @@ updated: 2026-11-13
 > **跨阶层资源整合** 阐明语言学考据如何经由多阶层协作转化为政治行动力。
 
 > [!claim] Anderson, B.
-> **民族动员的阶层同盟本质** 安德森指出，语文学家与词典编纂者绝非在真空中活动，他们面向印刷市场生产，并依托读者联盟与消费公众相连接。典型联盟由中小地主、学者文人、专业人士与工商业者组成。这种跨阶层协作弥合了学术考据与政治实践的鸿沟，使原本局限于大学图书馆的方言复兴运动演变为撼动帝国根基的群众政治力量。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, pp. 81–82)]]
+> **民族动员的阶层同盟本质** 安德森指出，语文学家与词典编纂者的学术生产始终紧密镶嵌于印刷市场之中，依托读者联盟与消费公众相连接。典型联盟由中小地主、学者文人、专业人士与工商业者组成。这种跨阶层协作弥合了学术考据与政治实践的鸿沟，使原本局限于大学图书馆的方言复兴运动演变为撼动帝国根基的群众政治力量。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, pp. 81–82)]]
 
 > [!claim] Nairn, T.
 > **母语请柬的动员逻辑** 内恩指出，民族主义的新兴中产阶级知识分子必须向广大民众发出踏入历史的请柬，而这份请柬必须使用民众听得懂的语言写就。读者阶层联盟正是在白话印刷出版与大众教育推行过程中承担了起草与传递这一历史请柬的关键职能。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, p. 82)]]

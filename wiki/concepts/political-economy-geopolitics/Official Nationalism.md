@@ -42,8 +42,8 @@ related_facts:
   - "[[Meiji Educational Reform]]"
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch06]]"
+  - "[[Argument_Anderson_2016_Verso_Ch07]]"
   - "[[Argument_Anderson_2016_Verso]]"
-  - "[[Argument_Anderson_2016_Verso_Ch02]]"
 confidence: high
 status: active
 created: 2026-11-11
@@ -139,6 +139,7 @@ updated: 2026-11-13
 > - **1835年 — 麦考利备忘录确立殖民同化范型** 英国在印度推行全英语精英教育，开启塑造心智混血中介阶层的现代官方民族主义实践。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 93–94)]]
 > - **1870–1880年代 — 强制同化与防御动员高潮** 沙皇亚历山大三世强推波罗的海全俄语教学；明治日本消灭武士特权确立普遍征兵制；匈牙利蒂萨寡头撕毁《民族法》残酷推进马扎尔化。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 89–90, 97–98, 106–107)]]
 > - **1910年代 — 边缘王权排他自卫** 暹罗拉玛六世借曼谷华人罢工与辛亥革命风潮构建反华皇家民族主义，维系专制王权。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 101–104)]]
+> - **20世纪初至中叶 — 后殖民国家对官方同化手段的模块化吸收** 亚非新兴民族国家在去殖民化过程中继承官方民族主义自上而下的同化手段，运用公立教材与国家规训机器对境内多元部族推行归化，与民粹动员共同构成最后一波民族主义的合成特质。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 115–116)]]
 > - **1977年 — 塞顿-沃森正式提出史学概念** 塞顿-沃森在《民族与国家》中界定官方民族主义为沙皇等王朝将沙皇权力与俄罗斯民族特征相结合的同化政策。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, p. 88)]]
 > - **1983年 — 安德森确立全球理论模型** 安德森在《[[Imagined Community|想象的共同体]]》第6章将官方民族主义拓展为欧亚通用的帝国自保范式，揭示其催生反殖民民族主义的内在逻辑。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 85–113)]]
 
@@ -180,4 +181,4 @@ updated: 2026-11-13
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch06|Anderson (2016)]] — 系统剖析官方民族主义作为王朝防御战略的全球演进与内在矛盾，并在[[Argument_Anderson_2016_Verso_Ch02|第2章]]做初步界定（pp. 85–113）。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 系统剖析官方民族主义作为王朝防御战略的演进矛盾（[[Argument_Anderson_2016_Verso_Ch06|第6章]]），并在最后一波民族主义（[[Argument_Anderson_2016_Verso_Ch07|第7章]]）中阐明其同化规训手段被后殖民国家吸收的机制。

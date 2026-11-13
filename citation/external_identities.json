@@ -12170,6 +12170,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/facts/portugal/Portuguese Education Reform 2011–2015.md",
         "wiki/persons/portugal/Nuno Crato.md"
       ],
       "title": ""
@@ -18222,6 +18223,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/facts/portugal/Portuguese Education Reform 2011–2015.md",
         "wiki/persons/portugal/Nuno Crato.md"
       ],
       "title": ""
@@ -19448,6 +19450,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/uk/Richard Rose.md"
+      ],
+      "title": ""
+    },
+    "Chatterjee, 1993": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Modular Nationalism.md"
       ],
       "title": ""
     },
@@ -23755,6 +23765,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/facts/portugal/Portuguese Education Reform 2011–2015.md",
         "wiki/persons/portugal/Nuno Crato.md"
       ],
       "title": ""
@@ -35185,7 +35196,8 @@
         "wiki/concepts/curriculum/Curriculum Alignment.md",
         "wiki/concepts/curriculum/Scripted Curriculum.md",
         "wiki/concepts/instruction-pedagogy/Instructional Core.md",
-        "wiki/concepts/teacher-education/Instructional Coaching.md"
+        "wiki/concepts/teacher-education/Instructional Coaching.md",
+        "wiki/facts/africa/Gauteng Primary Language and Mathematics Strategy.md"
       ],
       "title": ""
     },
@@ -54738,6 +54750,14 @@
       ],
       "title": ""
     },
+    "Kahin, 1952": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Inlander.md"
+      ],
+      "title": ""
+    },
     "Kahl et al., 1982": {
       "datasets": [
         "metax:S0238"
@@ -73080,7 +73100,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/facts/portugal/Portuguese Education Reform 2011–2015.md"
       ],
       "title": ""
     },
