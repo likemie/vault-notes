@@ -5,11 +5,14 @@ aliases:
   - 久尔吉·贝塞涅伊
   - 贝塞涅伊
   - Bessenyei György
-  - Bessenyei
 summary: "匈牙利启蒙时代剧作家与政论家，匈牙利近代民族文学与语言复兴的先驱；在维也纳担任玛丽亚·特蕾西亚女皇近卫军军官期间，于1772年出版多部哲学文学论著，系统论证马扎尔语适宜承载最高雅严肃的文学体裁，被保罗·伊格诺图斯定年为匈牙利民族主义诞生的起点，开启了将乡野方言改造成现代印刷国语的序幕。"
 type: person
 nationality: "hungary"
 person_region: "hungary"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1747"
 died: "1811"
 lifespan: "1747–1811"

@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch05.md"
     },
     {
+      "basename": "Study Abroad",
+      "path": "wiki/concepts/educational-technology/Study Abroad.md"
+    },
+    {
       "basename": "Argument_Anderson_2016_Verso_Ch06",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch06.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Hagevold_Forsstrom_Keles_2026_ERR",
       "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
-    },
-    {
-      "basename": "Argument_Volmari_2025_CE",
-      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md"
     }
   ],
   "omittedPaths": [],

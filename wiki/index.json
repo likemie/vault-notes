@@ -4393,7 +4393,11 @@
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Religious Schools.md",
     "aliases": [
-      "宗教学校"
+      "宗教学校",
+      "宗教教会学校",
+      "传统宗教学校",
+      "faith-based schools",
+      "religious schooling"
     ]
   },
   {
@@ -30729,6 +30733,16 @@
     ]
   },
   {
+    "title": "Charles Perrault",
+    "type": "person",
+    "path": "wiki/persons/france/Charles Perrault.md",
+    "aliases": [
+      "charles-perrault",
+      "夏尔·佩罗",
+      "佩罗"
+    ]
+  },
+  {
     "title": "Claude Lévi-Strauss",
     "type": "person",
     "path": "wiki/persons/france/Claude Lévi-Strauss.md",
@@ -30809,6 +30823,17 @@
       "弗朗索瓦·基佐",
       "基佐",
       "Francois Guizot"
+    ]
+  },
+  {
+    "title": "Jean-François Champollion",
+    "type": "person",
+    "path": "wiki/persons/france/Jean-François Champollion.md",
+    "aliases": [
+      "jean-francois-champollion",
+      "让-弗朗索瓦·商博良",
+      "商博良",
+      "Jean-Francois Champollion"
     ]
   },
   {
@@ -31505,6 +31530,28 @@
       "佩蒂翁",
       "Pétion",
       "Anne Alexandre Sabès Pétion"
+    ]
+  },
+  {
+    "title": "Ferenc Kazinczy",
+    "type": "person",
+    "path": "wiki/persons/hungary/Ferenc Kazinczy.md",
+    "aliases": [
+      "ferenc-kazinczy",
+      "费伦茨·考津齐",
+      "考津齐",
+      "Kazinczy Ferenc"
+    ]
+  },
+  {
+    "title": "György Bessenyei",
+    "type": "person",
+    "path": "wiki/persons/hungary/György Bessenyei.md",
+    "aliases": [
+      "gyorgy-bessenyei",
+      "久尔吉·贝塞涅伊",
+      "贝塞涅伊",
+      "Bessenyei György"
     ]
   },
   {
@@ -32272,6 +32319,17 @@
       "拉玛六世",
       "Rama VI",
       "King Vajiravudh"
+    ]
+  },
+  {
+    "title": "Ibrahim Şinasi",
+    "type": "person",
+    "path": "wiki/persons/turkey/Ibrahim Şinasi.md",
+    "aliases": [
+      "ibrahim-sinasi",
+      "易卜拉欣·西纳西",
+      "西纳西",
+      "İbrahim Şinasi"
     ]
   },
   {
@@ -33469,6 +33527,28 @@
       "温斯顿·丘吉尔",
       "丘吉尔",
       "Winston S. Churchill"
+    ]
+  },
+  {
+    "title": "Ivan Kotlarevsky",
+    "type": "person",
+    "path": "wiki/persons/ukraine/Ivan Kotlarevsky.md",
+    "aliases": [
+      "ivan-kotlarevsky",
+      "伊万·科特利亚列夫斯基",
+      "科特利亚列夫斯基",
+      "Ivan Petrovych Kotlyarevsky"
+    ]
+  },
+  {
+    "title": "Taras Shevchenko",
+    "type": "person",
+    "path": "wiki/persons/ukraine/Taras Shevchenko.md",
+    "aliases": [
+      "taras-shevchenko",
+      "塔拉斯·谢甫琴科",
+      "谢甫琴科",
+      "Taras Hryhorovych Shevchenko"
     ]
   },
   {

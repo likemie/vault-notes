@@ -7,7 +7,7 @@ aliases:
 summary: "本尼迪克特·安德森界定民族共同体属性的核心构念，指不论现实社会内部存在何种深刻的阶级剥削与物质不平等，民族在集体心理图景中始终被表象为一种深沉平等的横向兄弟纽带；该构念为解释近现代千百万人甘愿为有限的民族想象牺牲献身提供了关键的情感与伦理基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -45,11 +45,12 @@ related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch01]]"
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
   - "[[Argument_Anderson_2016_Verso_Ch04]]"
+  - "[[Argument_Anderson_2016_Verso_Ch07]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
 confidence: high
 status: active
 created: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---
@@ -124,6 +125,7 @@ updated: 2026-11-11
 
 > [!dev-timeline] 概念演变
 > - **1983 — 人类学定义确立与历史成因剖析** 安德森出版《[[Imagined Community|想象的共同体]]》，在开篇将横向同志情谊确立为界定民族四大维度的核心基石，并在第二章进一步揭示其历史生成机制：随着宗教共同体与世袭王权瓦解，人们迫切需要将兄弟情谊、世俗权力与齐一空洞时间重新缝合；无名烈士之墓以同胞手足的默会共识将个体的死亡偶然性升华为民族的永恒宿命。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 7–8)]]; [[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 9–11, 19, 36)]] 随后在第四章剖析美洲土生白人先驱的阶级现实，揭示横向同志情谊如何在奴隶制社会内部伴随行政朝圣阻绝与印刷资本主义在地化而生成。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 47–49, 58)]]
+> - **20世纪初历史个案 — 殖民地学校同窗情谊与跨岛屿青年连带** 安德森在第七章考察荷属东印度，揭示巴达维亚医学校与中学汇聚了群岛各地的在籍民学子，课堂日常研习与竞争催生了横向同窗情谊，将抽象的殖民地地图具象化为共享的民族国土。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 123–124)]]
 > - **2000s — 批判性阶级与性别审视** 左翼学者与后殖民批评者深入解构该构念，质疑其以普遍兄弟情谊掩盖了父权制统治与资本剥削的实质。
 > - **2025 — 科技政治学与认知扩展** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中结合[[Dunbar's Number|邓巴数]]，将横向情谊重新确立为现代高科技工程与主权防卫所必需的核心文化纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–194)]]
 
@@ -170,5 +172,5 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]] — 在第一章界定横向情谊构念以解牺牲之谜（p. 7），在[[Argument_Anderson_2016_Verso_Ch02|第2章]]阐明宿命承接机制（pp. 9–11, 36），并在[[Argument_Anderson_2016_Verso_Ch04|第4章]]论证奴隶制社会中朝圣阻绝与在地化印刷促成超阶级手足纽带（pp. 47–50, 58）。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 界定横向情谊以解牺牲之谜（第1章），阐明宿命承接（第2章），分析美洲土生白人手足纽带（第4章），并剖析亚非殖民地学校同窗情谊向国族认同的升华（第7章）。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 将横向情谊延伸至认知人类学与地缘科技政治，论证其在克服邓巴数限制与守卫国家技术协同攻坚中的制度防线价值（pp. 190–198）。

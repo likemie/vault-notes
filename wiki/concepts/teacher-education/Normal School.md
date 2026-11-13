@@ -11,7 +11,7 @@ aliases:
 summary: "18世纪起源于欧洲、19世纪经由法美与拉美跨国流通确立的教师专业化培养专门机构，通过国家垄断资格准入、规范化教学法训练与人道纪律塑造公共教育核心师资"
 type: concept
 domain: "teacher-education"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -79,10 +79,11 @@ related_arguments:
   - "[[Argument_Santos_Silova_2026_Discourse]]"
   - "[[Argument_Besa_2024_UW]]"
   - "[[Argument_Knogler_2025_BB]]"
+  - "[[Argument_Anderson_2016_Verso_Ch07]]"
 confidence: high
 status: completed
 created: 2026-06-07
-updated: 2026-11-10
+updated: 2026-11-13
 ---
 
 ---
@@ -185,6 +186,7 @@ updated: 2026-11-10
 > - **1817–1819 — 比较教育构想与国家法典化** 朱利安在 1817 年《计划》中将师范教育列为第四大核心领域，倡议建立跨国示范师范学院；普鲁士《1819 年[[Johann Wilhelm Süvern\|聚芬]]草案》系统确立全省公立师范学校网络与国家督导准则。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 22, 27)]]
 > - **1830s–1840s — 跨大西洋借用与公学立法潮** 法国《1833 年[[Guizot Law of 1833\|基佐法案]]》强制各省设立公立师范学校；[[Calvin Stowe\|卡尔文·斯托]] 1837 年报告推动美国中西部各州通过师范法案；[[Horace Mann\|霍勒斯·曼]]推动马萨诸塞州于 1839 年在列克星敦建立全美首所州立公立师范学校。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 28, 31–32)]]
 > - **1840s–1870s — 全球南方扩散与拉美[[Circular Transfer\|循环转移]]** 萨米恩托在智利（1842）与阿根廷（巴拉那，1869）建立师范学校，将北美波士顿师范模型与欧陆法国集权管理模型融合转译，扩散至泛美与全球南方。[[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015, pp. 50–52)]]
+> - **20世纪初 — 殖民地中心师范学校与去殖民化精英汇聚** 法属西非在塞内加尔设立达喀尔威廉·蓬蒂师范学校（École normale William Ponty），汇聚全域黑人精英青年并孕育黑人性文化认同，成为跨领地教育朝圣的核心顶点。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 125–126)]]
 > - **20世纪初中叶 — 学术化转型与融入综合大学** 随着初等教育全面普及与中等教育大众化，独立单科师范学校在欧美普遍升级为四年制州立师范学院（Teachers Colleges），并在 20 世纪中叶进一步并入综合性大学教育学院（Schools of Education），转向以教育科学理论与高等本硕学位为导向的学术化培养模式。
 > - **2010s–2020s — 教师教育全阶段贯通与二阶循证中介生态** 学界反思大学职前阶段单次知识供给的时效局限（知识半衰期），确立大学阶段（Studium）、见习阶段（Referendariat）与在职进修（Fortbildung）三阶段贯通框架；德国等国探索通过 [[Clearing House Unterricht\|CHU]] 与 [[Forschungsmonitor Schule\|FMS]] 等二阶清算中介，赋能大学教师教育者作为知识辐射骨干，建立贯穿教学生涯全周期的实证知识动态更新机制（[[Argument_Besa_2024_UW\|Besa, 2024]]；[[Argument_Knogler_2025_BB\|Knogler et al., 2025]]）。
 > - **2026 — 国际发展援助中正规师范建制与速成培训的论战** [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] 揭示国际组织援助中短期速成培训对正规师范体系的侵蚀，指出维系长期正规师范学校是保障受援国教育自主权与阻断外部依附的核心屏障。（pp. 676–677）
@@ -246,3 +248,4 @@ updated: 2026-11-10
 > - [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] — 运用[[Relational Space\|关系性空间]]与[[Circular Transfer\|循环转移]]视角，追踪师范学校从欧陆经北美向阿根廷等拉美国家的空间流动、本土转化与制度变迁轨迹。
 > - [[Argument_Besa_2024_UW\|Besa (2024)]] — 揭示大学师范教育职前知识供给的时效半衰期与在岗教师研究接触负荷，论证借助二阶清算中介与大学教师教育者乘数群体实现三阶段教师教育全流程循证[[Knowledge Mobilisation\|知识动员]]的必要性。
 > - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 针对全球学习危机[[Discourse|话语]]反思国际援助中的教师培训策略，批判速成工作坊的短视性，论证正规师范学校长期学科涵育对保障受援国教育主权与专业根基的制度不可替代性（pp. 676–677）。
+> - [[Argument_Anderson_2016_Verso_Ch07|Anderson (2016)]] — 剖析达喀尔威廉·蓬蒂师范学校作为法属西非教育顶点的向心汇聚功能，以及行政分配割裂导致跨领地认同瓦解的机制。

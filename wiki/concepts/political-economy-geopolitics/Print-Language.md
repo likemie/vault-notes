@@ -8,7 +8,7 @@ aliases:
 summary: "本尼迪克特·安德森界定现代民族意识形成机制的核心构念，指资本主义印刷技术在方言中筛选并标准化确立的书面语系统。印刷语言通过构筑统一交流领域、赋予词汇抗变固定性并将特定方言升格为权力语言，为匿名个体提供了想象政治共同体的纽带；美洲经验证实，报纸市场局域化流通决定了主权实体的分立；官方同化教育普及的帝国印刷语言最终反噬统治，成为亚非精英动员反殖民独立的主权武器。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -47,6 +47,7 @@ related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch04]]"
   - "[[Argument_Anderson_2016_Verso_Ch05]]"
   - "[[Argument_Anderson_2016_Verso_Ch06]]"
+  - "[[Argument_Anderson_2016_Verso_Ch07]]"
 confidence: high
 status: active
 created: 2026-11-11
@@ -174,6 +175,7 @@ updated: 2026-11-13
 > - **18世纪末–19世纪初 — 美洲共享印刷语言与在地化报纸市场** 英语与西班牙语印刷品在大西洋两岸跨海传播，但各殖民地行政管区的区域性报纸发行圈将同一门印刷语言切割为十余个彼此独立的民族想象共同体。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 47, 61–63)]]
 > - **19世纪 — 欧洲语文学革命与双语词典平等主义** 语文学家通过词典与语法书将各地方言提升为印刷国语，双语词典在形式上确立了边缘方言与统治语种的平等地位，资产阶级与科层官僚借助印刷语言在世界历史上首次实现了基于纯粹想象的阶级团结。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, pp. 71–80)]]
 > - **19世纪中叶至20世纪初 — 帝国官方同化与反殖民逆向挪用** 欧洲帝国与明治日本在海外属地推行官方民族主义与帝国印刷语言教育，意外为亚非被压迫民族培育了跨越本土方言隔阂、动员现代反殖民独立运动的双语知识分子阶层。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 112–113)]]
+> - **20世纪初 — 超越母语同一性与印尼青年誓言** 多语种瑞士与印尼青年誓言确立印尼语，证实印刷语言无需求助于原生母语同一性，行政通用语经印刷媒介与政治决断即可确立为主权国语。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 134–137)]]
 > - **1983年 — 安德森《想象的共同体》提出核心构念** 系统确立印刷语言作为介于真理语言与口语方言之间的民族意识奠基构念。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 45–48)]]
 
 ---
@@ -218,4 +220,4 @@ updated: 2026-11-13
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch03|Anderson (2016)]] — 阐明印刷语言奠基机制（[[Argument_Anderson_2016_Verso_Ch03|第3章]]）；论证美洲报纸市场（[[Argument_Anderson_2016_Verso_Ch04|第4章]]）；揭示语文学革命（[[Argument_Anderson_2016_Verso_Ch05|第5章]]）；分析帝国语言反噬机制（[[Argument_Anderson_2016_Verso_Ch06|第6章, pp. 112–113]]）。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 阐明印刷语言奠基机制（第3章）、美洲报纸边界（第4章）、资产阶级连带（第5章）、帝国语言反噬（第6章）及印尼与瑞士超母语国语建构（第7章）。

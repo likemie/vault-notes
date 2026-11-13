@@ -437,7 +437,7 @@ Total entries: **2006**
 > - [[Parallel Monologues]] — Eacott 提出的概念，描述教育行政研究中学者各自在子领域内发表和引用但很少实质性交锋的结构性现象，用于批评缺乏论证与反驳的学术交流模式。
 > - [[Preschool Education Programs]] — Visible Learning MetaX 因素早期干预类型、开端计划、学前项目、高风险儿童学前项目、学前教育与后续学习的条目，归属学校 › 学前干预；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Rational-Control Rhetoric]] — 管理修辞分类学中的核心概念，指在组织面临慢性、缓慢绩效下滑时，系统自发采用的强调标准化、逻辑化和确定性控制的技术性改进话语。
-> - [[Religious Schools]] — Visible Learning MetaX 因素宗教学校的条目，归属学校 › 学校类型；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
+> - [[Religious Schools]] — 依托特定宗教信仰团体、教区或教派传统创办并管理的教育机构；在历史演进中历经传统经院学徒制向近现代科层化学校系统的转型，通过整合宗教伦理、严密社群网络与学术大纲提供有别于世俗公学的教育模式。
 > - [[School Accountability Systems]] — Visible Learning MetaX 因素问责制度的条目，归属学校 › 学校资源；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[School Calendar Modification]] — Visible Learning MetaX 因素调整校历／课表的条目，归属学校 › 学校类型；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[School Climate Effects]] — Visible Learning MetaX 因素学校氛围的条目，归属学校 › 领导；目前只收录 MetaX 元分析汇总数据，概念界定待补充。

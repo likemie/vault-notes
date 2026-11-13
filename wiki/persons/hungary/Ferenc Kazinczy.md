@@ -5,11 +5,14 @@ aliases:
   - 费伦茨·考津齐
   - 考津齐
   - Kazinczy Ferenc
-  - Kazinczy
 summary: "匈牙利启蒙作家、文学家与语言学家，被尊为“匈牙利文学之父”；领导了著名的匈牙利语言改革运动，通过广泛著述与新词创制将马扎尔语系统改造成可承载现代高雅文学、科学与学术讨论的印刷国语，为19世纪匈牙利民族觉醒与读者联盟的成长奠定了语言基础。"
 type: person
 nationality: "hungary"
 person_region: "hungary"
+person_related_count: 8
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1759"
 died: "1831"
 lifespan: "1759–1831"

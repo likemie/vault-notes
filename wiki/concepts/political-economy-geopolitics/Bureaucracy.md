@@ -9,7 +9,7 @@ aliases:
 summary: "指基于明确的职能分工、自顶向下的层级节制、非人格化的成文规则与专业化职业考核建立的理性化组织与治理形态。在古典社会学中被视作现代性理性化效率的基石；在当代工程治理中被批判为滋生层级设卡、会议工业复合体与避险自保；而在批判公共治理研究（奥尼尔等人，2016）中，科层制所内置的法定理性与中立规章被证实是维护代议制民主问责与信息公开的关键屏障，其在现代化改革中被弹性网络与部落治理侵蚀反而引发了严重的公共透明度危机。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 57
+related_count: 58
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -75,6 +75,7 @@ related_facts:
   - "[[Federal Acquisition Streamlining Act of 1994]]"
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch05]]"
+  - "[[Argument_Anderson_2016_Verso_Ch07]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10]]"
@@ -87,7 +88,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-12
+updated: 2026-11-13
 ---
 
 ---
@@ -254,6 +255,7 @@ updated: 2026-11-12
 
 > [!dev-timeline] 概念演变
 > - **19世纪中后期 — 欧陆公共科层急剧扩张与管理平民化** 欧洲主要国家科层行政人员规模激增25%至90%，平民专业官僚全面接管行政中枢，科层公文语言引发多民族帝国政治博弈。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, pp. 77–81)]]
+> - **20世纪初 — 殖民理性科层扩张与本土反叛者的孵化** 亚非殖民国家为维持庞大统辖机器设立现代文官铨选与学校体系；然而科层体系所设立的种族仕途天花板阻绝了本土受教育精英的上升通道，科层理性反向孵化出埋葬殖民帝国的民族主义掘墓人。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 139–140)]]
 > - **1905 — 基普委员会调查与[[Red Tape|繁文缛节]]起源** 西奥多·[[Franklin D. Roosevelt|罗斯福总统]]设立基普委员会，发现政府各部门采购了 278 种笔和 28 种墨水，吉福德·平肖批评繁文缛节（red tape）严重侵蚀行政效能。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 148–149)]]
 > - **1920s — 韦伯理想型科层制确立** 韦伯在《经济与社会》中将科层制界定为人类历史上最理性的行政组织形态。
 > - **1960s — 公共选择学派的官僚寻租批判** 戈登·图洛克等学者提出[[Tullock's Bureaucracy Theory|官僚制理论]]，揭示官僚追求预算最大化、信息垄断与规避风险的自利行为。
@@ -328,7 +330,7 @@ updated: 2026-11-12
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch05|Anderson (2016)]] — 实证考证19世纪欧陆公共科层机器膨胀（25%–90%+）与行政中枢平民化，剖析官方语言统一激化帝国裂变机制（pp. 77–81）。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 实证考证19世纪欧陆公共科层机器膨胀与平民化（第5章），并揭示20世纪殖民地科层理性与仕途天花板反向培育反殖民掘墓人的机制（第7章）。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 基于汤普森组织治理分类学，揭示公立教育去科层化改革反致网络与部落治理架空法定代议制民主问责。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 历史考证经合组织常任秘书处从协商论坛演进为具有独立议程的国际官僚机构。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 从实战工程治理视角对防卫型科层制展开系统批判，剖析中介阻滞、会议工业复合体与采办定制垄断。
