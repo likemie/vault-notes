@@ -14619,6 +14619,16 @@
     ]
   },
   {
+    "title": "Reversed Ventriloquism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Reversed Ventriloquism.md",
+    "aliases": [
+      "反向腹语术",
+      "倒转的腹语术",
+      "历史腹语术"
+    ]
+  },
+  {
     "title": "Rule Ambiguity",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Rule Ambiguity.md",
@@ -31082,6 +31092,17 @@
       "Rousseau, J. J.",
       "卢梭",
       "让-雅克·卢梭"
+    ]
+  },
+  {
+    "title": "Jules Michelet",
+    "type": "person",
+    "path": "wiki/persons/france/Jules Michelet.md",
+    "aliases": [
+      "居尔·米什莱",
+      "儒勒·米什莱",
+      "米什莱",
+      "Michelet, J."
     ]
   },
   {
@@ -50678,6 +50699,11 @@
     "title": "Argument_Anderson_2016_Verso_Ch10",
     "type": "argument",
     "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch10.md"
+  },
+  {
+    "title": "Argument_Anderson_2016_Verso_Ch11",
+    "type": "argument",
+    "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md"
   },
   {
     "title": "Argument_Bates_2017_CognitionEducationTrust",

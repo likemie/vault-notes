@@ -7,7 +7,7 @@ title: "Argument_Anderson_2016_Verso"
 argument_key: "Argument_Anderson_2016_Verso"
 argument_display_title: "Imagined Communities: Reflections on the Origin and Spread of Nationalism"
 argument_kind: "book"
-argument_related_count: 61
+argument_related_count: 66
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -52,6 +52,9 @@ related_concepts:
   - "[[Chancellory War]]"
   - "[[Geo-Body]]"
   - "[[Map-as-Logo]]"
+  - "[[Reversed Ventriloquism]]"
+  - "[[Reassurance of Fratricide]]"
+  - "[[National Biography]]"
   - "[[Document]]"
 related_theories:
   - "[[Imagined Community]]"
@@ -76,6 +79,7 @@ related_persons:
   - "[[Arthur de Gobineau]]"
   - "[[Thongchai Winichakul]]"
   - "[[Pramoedya Ananta Toer]]"
+  - "[[Jules Michelet]]"
 related_facts:
   - "[[Edict of Villers-Cotterêts]]"
   - "[[Sumpah Pemuda]]"
@@ -90,6 +94,7 @@ related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch08]]"
   - "[[Argument_Anderson_2016_Verso_Ch09]]"
   - "[[Argument_Anderson_2016_Verso_Ch10]]"
+  - "[[Argument_Anderson_2016_Verso_Ch11]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
 status: "draft"
@@ -100,7 +105,7 @@ updated: 2026-11-13
 > [!monograph-profile] 阅读档案
 > - **书名** 《[[Imagined Community|想象的共同体]]：[[Nationalism|民族主义]]的起源与散布》（Imagined Communities: Reflections on the Origin and Spread of Nationalism）。
 > - **撰写者** [[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）。
-> - **阅读范围** 依 EPUB 目录整理十一章和一篇未编号的增补篇。第1至10章已解读，其余各章待解读。
+> - **阅读范围** 依 EPUB 目录整理十一章和一篇未编号的增补篇（附于第11章后记）。全书已完整解读。
 > - **版本** Verso 版权页列出 2016 和 2006，著录采用版权页列出的较晚版次 2016。文件名与 EPUB 元数据标为 2011。
 
 ---
@@ -126,7 +131,7 @@ updated: 2026-11-13
 > | [[Argument_Anderson_2016_Verso_Ch08\|第8章 Patriotism and Racism]] | 辨析爱国主义与种族主义本质分野，论证民族认同以亲属隐喻与[[Unisonance\|同声相应]]的无私奉献为情感根基，揭示[[Colonial Racism\|殖民种族主义]]源于封建贵族阶级意识形态与海外扮演贵族排场。 | [[Unisonance]]、[[Colonial Racism]]、[[Jose Rizal]]、[[Tom Nairn]]、[[Arthur de Gobineau]] |
 > | [[Argument_Anderson_2016_Verso_Ch09\|第9章 The Angel of History]] | 剖析革命与民族主义作为模块化人造物的跨国仿效机制，阐明后革命政权承接旧国家行政运作网络并复活[[Official Nationalism\|官方民族主义]]与国家马基雅维利主义，揭示社会主义印支冲突作为[[Chancellory War\|密室战争]]的本质，以[[Walter Benjamin\|本雅明]]历史的天使寓言反思现代悲剧宿命。 | [[Law of Uneven and Combined Development]]、[[Chancellory War]]、[[Modular Nationalism]]、[[Official Nationalism]]、[[Walter Benjamin]]、[[Tom Nairn]] |
 > | [[Argument_Anderson_2016_Verso_Ch10\|第10章 Census, Map, Museum]] | 剖析殖民国家心智的深层语法，揭示人口普查种族分类网格与系统量化，阐明近代测绘先导构建[[Geo-Body\|地理身体]]与[[Map-as-Logo\|地图标识]]，剖析殖民考古将古代遗迹重塑为世俗国家祖先权标并被后殖民国家全盘继承。 | [[Geo-Body]]、[[Map-as-Logo]]、[[Thongchai Winichakul]]、[[Pramoedya Ananta Toer]]、[[Panopticism]] |
-> | 第 11 章 Memory and Forgetting | [TXT](../../../../raw/Anderson_2016_Verso_txt/Ch11_Memory_and_Forgetting.txt) | 待解读 |
+> | [[Argument_Anderson_2016_Verso_Ch11\|第11章 Memory and Forgetting]] | 剖析空间命名共时平行性与革命断裂的时间序列化，阐明欧洲民族苏醒隐喻与美洲[[Reversed Ventriloquism\|反向腹语术]]，揭示[[Reassurance of Fratricide\|兄弟残杀的抚慰]]对异质屠杀的收编，建构溯流而上的[[National Biography\|民族传记]]与神圣死亡谱系，并在后记中反思全书跨国旅行的创造性背叛。 | [[National Biography]]、[[Reassurance of Fratricide]]、[[Reversed Ventriloquism]]、[[Jules Michelet]]、[[Ernest Renan]] |
 
 ---
 

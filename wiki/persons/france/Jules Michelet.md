@@ -9,6 +9,10 @@ summary: "19世纪法国著名历史学家与文学家，法国浪漫主义史�
 type: person
 nationality: france
 person_region: "france"
+person_related_count: 0
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1798"
 died: "1874"
 lifespan: "1798–1874"
