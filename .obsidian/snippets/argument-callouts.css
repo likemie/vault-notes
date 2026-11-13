@@ -27407,7 +27407,7 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"]:not(.is-collapsed) > .callout-title { margin-bottom:.75rem !important; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content { padding:0 !important; }
 
-/* Entry labels carry the type tint; a shared baseline aligns the table with the callout heading. */
+/* Flat tints distinguish entry types. */
 html body .callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content table.entry-map-colors {
   --entry-map-paper:var(--ac-paper,var(--background-primary));
   --entry-map-divider:color-mix(in srgb,var(--text-muted) 18%,transparent);
@@ -27443,7 +27443,7 @@ html body .callout.callout.callout.callout.callout.callout[data-callout="entry-m
   & td a { white-space:normal !important; }
   & tbody tr {
     --entry-type-tone:#87919d;
-    --entry-map-tint:13%;
+    --entry-map-tint:11%;
     --entry-map-reading-surface:var(--entry-map-paper);
     background:none !important;
   }
@@ -27458,7 +27458,7 @@ html body .callout.callout.callout.callout.callout.callout[data-callout="entry-m
   & thead th {
     background:none !important;
     color:var(--fdc-ink) !important;
-    font:650 .79em/1.4 var(--ac-sans) !important;
+    font:650 .87em/1.4 var(--ac-sans) !important;
     border:0 !important;
     border-block-end:1px solid color-mix(in srgb,var(--fdc-accent) 53%,transparent) !important;
   }
@@ -27468,7 +27468,7 @@ html body .callout.callout.callout.callout.callout.callout[data-callout="entry-m
     border:0 !important;
     border-block-end:1px solid var(--entry-map-divider) !important;
     box-shadow:none !important;
-    font-size:.9em !important;
+    font-size:1em !important;
     line-height:1.62 !important;
   }
 
@@ -27484,7 +27484,7 @@ html body .callout.callout.callout.callout.callout.callout[data-callout="entry-m
   }
 
   & tbody tr:is(:hover,:focus-within) {
-    --entry-map-tint:22%;
+    --entry-map-tint:19%;
     --entry-map-reading-surface:color-mix(in srgb,var(--entry-type-tone) 5%,var(--entry-map-paper));
   }
 
