@@ -96,7 +96,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---
@@ -305,22 +305,9 @@ updated: 2026-11-11
 
 ---
 
-> [!evidence-grid] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 详述实用主义作为[[Mixed Methods Research|混合方法研究]]取向的哲学前提与[[Fitness for Purpose|适合目的]]原则。
-> - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 阐释实用主义世界观（Pragmatic Worldview）在研究设计与方法选择中的具体应用。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 梳理比较教育学术史中的[[Paradigm|范式]]演化，阐述霍姆斯基于[[John Dewey|杜威]]实用主义建立的假设-演绎[[Problem Approach|问题法]]，并确认实用互动论在挑战功能主义单一霸权中的范式地位。
-> - [[Argument_Zhou_2024_CE|Zhou and Westberg (2024)]] — 揭示实用主义[[Paradigm|范式]]（民主目标与渐进方法）在民国中国跨国转移中的拆解与[[Recontextualization|本土重构]]。
-> - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 追踪实用主义范式在建国后中国教育政治[[Discourse|话语]]中的三重变形。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 451–452)]] — 揭示[[OECD|经合组织]]如何将教育治理窄化为劳动力技能核算的实用主义范式，遮蔽教育的民主与伦理目的。
-> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 剖析国际多边机构在生成[[Global Educational Discourse|全球教育话语]]时的“紧迫实用主义（urgent pragmatism）”与行动改良逻辑，揭示其过度简化机制与[[Epistemology|认识论]]盲区（pp. 350–352）。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 探讨实用主义哲学（杜威《实用主义美国》）对现代[[Engineering Mindset|工程思维]]与反教条经验[[Epistemology|认识论]]的奠基（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
-> - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引杜威论证实证证据仅是明智探究的假设而非行动铁律，批判将量化[[Effect Size|效应量]]排名异化为技术统治处方的做法（pp. 93, 104）。
-
----
-
 > [!entry-map] 条目关联
 >
-> | 条目 | 类型 | 贡献 |
+> | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[John Dewey]] | 人物 | 哲学先驱：提出经验探究、工具主义与《实用主义美国》求真精神。 |
 > | [[Mixed Methods Research]] | 方法 | 方法论载体：以实用主义为官方哲学基础，主张[[Research Question\|研究问题]]驱动与方法自由选择。 |
@@ -335,4 +322,17 @@ updated: 2026-11-11
 > | [[Bob Lingard]] | 人物 | 政策学者：分析超国家组织如何借助实用主义解题理性掩蔽新自由主义[[Economic Fundamentalism\|经济基要主义]]。 |
 > | [[Jason Beech]] | 人物 | 比较教育学者：揭示国际组织受制于“紧迫实用主义”而过度简化知识并自限政策空间。 |
 > | [[Global Educational Discourse]] | 概念 | [[Discourse\|话语]]载体：国际机构基于紧迫实用主义加工生成的去情境化普遍主义教育模型。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 详述实用主义作为[[Mixed Methods Research|混合方法研究]]取向的哲学前提与[[Fitness for Purpose|适合目的]]原则。
+> - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 阐释实用主义世界观（Pragmatic Worldview）在研究设计与方法选择中的具体应用。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 梳理比较教育学术史中的[[Paradigm|范式]]演化，阐述霍姆斯基于[[John Dewey|杜威]]实用主义建立的假设-演绎[[Problem Approach|问题法]]，并确认实用互动论在挑战功能主义单一霸权中的范式地位。
+> - [[Argument_Zhou_2024_CE|Zhou and Westberg (2024)]] — 揭示实用主义[[Paradigm|范式]]（民主目标与渐进方法）在民国中国跨国转移中的拆解与[[Recontextualization|本土重构]]。
+> - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 追踪实用主义范式在建国后中国教育政治[[Discourse|话语]]中的三重变形。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 451–452)]] — 揭示[[OECD|经合组织]]如何将教育治理窄化为劳动力技能核算的实用主义范式，遮蔽教育的民主与伦理目的。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 剖析国际多边机构在生成[[Global Educational Discourse|全球教育话语]]时的“紧迫实用主义（urgent pragmatism）”与行动改良逻辑，揭示其过度简化机制与[[Epistemology|认识论]]盲区（pp. 350–352）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 探讨实用主义哲学（杜威《实用主义美国》）对现代[[Engineering Mindset|工程思维]]与反教条经验[[Epistemology|认识论]]的奠基（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
+> - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引杜威论证实证证据仅是明智探究的假设而非行动铁律，批判将量化[[Effect Size|效应量]]排名异化为技术统治处方的做法（pp. 93, 104）。
 

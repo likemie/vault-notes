@@ -51,6 +51,8 @@ related_concepts:
   - "[[Administrative Pilgrimage]]"
   - "[[Educational Pilgrimage]]"
   - "[[Bilingual Intelligentsia]]"
+  - "[[Unisonance]]"
+  - "[[Colonial Racism]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -71,6 +73,7 @@ related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch03]]"
   - "[[Argument_Anderson_2016_Verso_Ch04]]"
   - "[[Argument_Anderson_2016_Verso_Ch07]]"
+  - "[[Argument_Anderson_2016_Verso_Ch08]]"
 confidence: high
 status: active
 created: 2026-05-26
@@ -99,6 +102,7 @@ updated: 2026-11-13
 > [!dev-timeline] 理论演变与跨学科扩展
 > - **1983 年 — 现代主义建构论确立与先驱范本提出** [[Benedict Anderson|本尼迪克特·安德森]]出版《想象的共同体》，界定民族为有限且主权的想象政治实体，系统阐述前现代文化体系解体、时间认识论转型与印刷资本主义三大起源机制，并在第四章提出土生白人先驱模型，奠定[[Constructivist Paradigm|建构主义]]民族理论基石。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 4–7)]]; [[Argument_Anderson_2016_Verso_Ch02|(pp. 9–36)]]; [[Argument_Anderson_2016_Verso_Ch03|(pp. 37–46)]]; [[Argument_Anderson_2016_Verso_Ch04|(pp. 47–65)]]
 > - **1983 年拓展 — 最后一波民族主义与双重朝圣机制** 安德森在第七章系统阐述 20 世纪亚非殖民地民族主义的生成逻辑，揭示教育朝圣与行政朝圣的空间同构如何将帝国官僚管区转化为新型民族国家疆界，确立了双语知识阶层在民族想象中的中枢作用。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 113–140)]]
+> - **1983 年拓展 — 爱国情感根基与种族主义分野** 安德森在第八章系统阐释民族共同体的情感机理，论证爱国主义的牺牲动力根植于语言自然化与无从选择的宿命连带，并在声响共鸣（[[Unisonance|同声相应]]）中被具身体验；同时确立种族主义源自宗主国阶级统治原则与海外帝国殖民外化的理论论断。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 141–154)]]
 > - **1990 年代 — 比较教育与教科书[[Official Knowledge|官方知识]]研究引入** 比较教育学者将该理论运用于解构历史教科书、课程大纲与仪式庆典在制造国家认同中的政治装置功能。
 > - **2024 年 — [[One Country, Two Systems|一国两制]]下的领土与族群叙事分化** [[Argument_Xu_2024_CE|Xu (2024)]] 结合 Brubaker 分析维度，揭示中国大陆与香港历史教科书如何分别构建出领土型与族裔型的差异化民族想象。
 > - **2025 年 — 认知人类学、情感民族防线与科技国家建构** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》（Ch. 17 & Ch. 18）中将想象的共同体与[[Dunbar's Number|邓巴数]]结合，论证共享语言叙事是克服生物学认知上限、实现现代尖端技术协作的必要纽带；尖锐批评后现代思潮对“情感民族”边界的放弃，并剖析了[[Civic Rituals|公民仪式]]瓦解导致想象亲密感断裂与硅谷技术公社的替代性崛起。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–198)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(pp. 216–218)]]
@@ -129,6 +133,8 @@ updated: 2026-11-13
 > | [[Educational Pilgrimage\|教育朝圣]]（Educational Pilgrimage） | 空间制度机制 | 统一学制等级金字塔促使异质族群青年向殖民首府汇聚，在同窗遭遇中把行政区划内化为民族疆界。 |
 > | [[Bilingual Intelligentsia\|双语知识阶层]]（Bilingual Intelligentsia） | 阶级行动者 | 兼通宗主国欧洲语言与本土族群语言的知识分子，依托双语媒介与行政游历成为最后一波民族主义的核心倡导者。 |
 > | [[Creole Nationalism\|土生白人民族主义]]（Creole Nationalism） | 历史发生范本 | 展现首波民族主义在奴隶制大庄园与共享语言背景下的生成路径与阶级防御机制。 |
+> | [[Unisonance\|同声相应]]（Unisonance） | 情感声学机制 | 阐明同胞齐声唱和国歌与诗歌时催生共时声响同在感，激发无私牺牲动力。 |
+> | [[Colonial Racism\|殖民种族主义]]（Colonial Racism） | 阶级外化形态 | 阐明贵族血统论在海外殖民帝国中的外化形态，与开放同化的语言民族主义形成对照。 |
 
 ---
 
