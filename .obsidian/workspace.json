@@ -330,6 +330,14 @@
   },
   "active": "d8039914fdb2fe9c",
   "lastOpenFiles": [
+    "tmp/callout-refinement/entry-map-rows-light-1440.png",
+    "tmp/callout-refinement/entry-map-rows-dark-390.png",
+    "tmp/callout-refinement/entry-map-rows-dark-1440.png",
+    "tmp/callout-refinement/entry-map-rows-check.mjs",
+    "tmp/callout-refinement/entry-map-chips-light-1440.png",
+    "tmp/callout-refinement/entry-map-chips-dark-390.png",
+    "tmp/callout-refinement/entry-map-chips-dark-1440.png",
+    "tmp/callout-refinement/entry-map-chips-check.mjs",
     "tmp/callout-refinement/entry-map-colors-light-1440.png",
     "tmp/callout-refinement/entry-map-colors-dark-390.png",
     "tmp/callout-refinement/entry-map-colors-dark-1440.png",
@@ -361,8 +369,6 @@
     "output/He_2018_HEP_fulltext.txt",
     "output/related-updates/Argument_He_2018_HEP-896217af/batch-012/result.json",
     "output/related-updates/Argument_He_2018_HEP-896217af/batch-011/result.json",
-    "output/related-updates/Argument_He_2018_HEP-896217af/batch-010/result.json",
-    "output/related-updates/Argument_He_2018_HEP-896217af/batch-009/result.json",
     "wiki/concepts/political-economy-geopolitics/Printer-Journalist.md",
     "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
     "output/related-updates/Argument_He_2018_HEP-896217af/batch-012/prompt.md",
@@ -370,12 +376,6 @@
     "output/related-updates/Argument_He_2018_HEP-896217af/batch-010/prompt.md",
     "sources/He_2018_HEP/figures/He_2018_HEP_Fig1_Soft_Power_IBC_Interaction_Framework.jpg",
     "tmp/callout-refinement/policy-context-grid-light-1440.png",
-    "tmp/callout-refinement/policy-context-grid-dark-390.png",
-    "tmp/callout-refinement/policy-context-grid-dark-1440.png",
-    "tmp/callout-refinement/policy-context-light-1440.png",
-    "tmp/callout-refinement/policy-context-dark-390.png",
-    "tmp/callout-refinement/policy-context-dark-1440.png",
-    "tmp/callout-refinement/timeline-framing-light-1440.png",
     "未命名.canvas"
   ]
 }
