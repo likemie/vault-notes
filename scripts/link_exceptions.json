@@ -826,5 +826,15 @@
       "sentence": "*It is generally recognized that the intelligentsias were central to the rise of nationalism in the colonial territories, not least because colonialism ensured that native agrarian magnates, big merchants, industrial entrepreneurs, and even a large professional class were relative rarities.",
       "target": "wiki/facts/uk/Research in Schools Evaluation.md"
     }
+  ],
+  "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch08.md": [
+    {
+      "sentence": "语言媒介所具有的历史宿命感与向新读者的开放性，如何确立起具有包容接纳能力的民族认同？",
+      "target": "wiki/concepts/educational-psychology/Open-Mindedness.md"
+    },
+    {
+      "sentence": "在19世纪殖民帝国体系中，官方民族主义将贵族优越感外化于海外属地，宗主国文官在殖民地宽敞官邸、成群仆从与骑兵排场中扮演贵族，演化出热带哥特式虚妄特权。",
+      "target": "wiki/concepts/comparative-education/Externalization.md"
+    }
   ]
 }

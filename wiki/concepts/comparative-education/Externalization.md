@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-06
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---
@@ -194,12 +194,26 @@ updated: 2026-11-11
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Policy Borrowing]] | 概念 | 上位范畴，外化揭示政策借用背后的国内政治解套与意义过滤机制。 |
+> | [[Reference Society]] | 概念 | 外部参照点，本土行动者按需建构的模范社会投射。 |
+> | [[International Large-Scale Assessments]] | 概念 | 跨国评估排位为国内决策者提供策略性外化的拟似客观依据。 |
+> | [[Autopoiesis]] | 理论 | 卢曼系统论基石，教育系统通过外化建构外部参照以维持自创生认同。 |
+> | [[Jurgen Schriewer]] | 人物 | 概念创立者，开创比较教育学向世界参照外化的宏观理论范式。 |
+> | [[Gita Steiner-Khamsi]] | 人物 | 系统拓展外部参照点的内部建构论，解构芬兰神话的规制投射。 |
+> | [[Niklas Luhmann]] | 人物 | 社会学系统论奠基人，确立外化作为拟似外部投射与规制性理念的哲学内涵。 |
+> | [[American Attraction to Japanese Education 1980s]] | 事实 | 20世纪80年代美国借由外化日本学校模式推动国内标准改革的典型案例。 |
+> | [[Late Qing Borrowing of Japanese Education]] | 事实 | 清末朝野精英借由外化日本明治维新教育制度化解保守派阻力的历史实证。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 结合卢曼与施泰纳-哈姆西的外在化概念，分析芬兰、德国、英格兰与苏格兰如何将 PISA 排名转化为国内政策合法化与体制确证的策略性工具。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 结合[[Niklas Luhmann|卢曼]]系统论阐发外部参照点的内部建构性，通过解构多国对芬兰 [[PISA]] 奇迹的随心投射，揭示外化化解本土改革僵局的机制。
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 系统论证跨国测评冲击如何依托媒体转译与政治外化打破国内制度否决阻力，促进主权国家采纳标准化治理模式。
 > - [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] — 将外化概念对称性地嵌入[[Cross-National Attraction|跨国吸引力]]情境地图，通过美苏与德国历史案例奠定双向外化[[Paradigm|范式]]。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009, p. 93)]] — 阐述施里韦尔在柏林洪堡大学结合[[Niklas Luhmann|卢曼]][[Autopoiesis|自创生]]理论与[[World-Systems Theory|世界体系理论]]创立“向世界参照外化”比较[[Paradigm|范式]]的学术史背景。
-> - [[American Attraction to Japanese Education 1980s]] — 20 世纪 80 年代美国借由外化日本学校管理模式来推动国内标准与问责改革的经典案例。
-> - [[Late Qing Borrowing of Japanese Education]] — 清末新政时期朝野精英借由外化明治维新教育制度来化解保守派阻力的历史实证。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 结合卢曼与施瑞尔的系统论外部化机制，剖析多国决策层在政治信任危机下如何启动外部化策略，诉诸全球化语义与模范社会来化解本土政治僵局。

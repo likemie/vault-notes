@@ -9,7 +9,7 @@ aliases:
 summary: "主张个体首要伦理忠诚应归于全人类共同体而非特定民族国家的规范哲学与教育思潮。在比较教育中主张超越狭隘爱国主义培育世界公民；在政治哲学与战略治理中则引发深层张力——批评者指出抽象世界主义常制造公共道德真空，弱化民主政体的防卫意志与制度凝聚力。"
 type: concept
 domain: "comparative-education"
-related_count: 21
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -43,14 +43,16 @@ related_persons:
   - "[[Alasdair MacIntyre]]"
   - "[[Martha Nussbaum]]"
   - "[[Immanuel Kant]]"
+  - "[[Benedict Anderson]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
+  - "[[Argument_Anderson_2016_Verso_Ch08]]"
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---
@@ -110,6 +112,9 @@ updated: 2026-11-11
 > [!claim] [[Richard Sennett|Sennett, R.]]
 > **共享民族认同之恶的消解构想** 主张探索无需依托共享民族认同之恶即可实现人类协同行动的制度形式，试图构建超越民族国家边界的后国家公民交往网络。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Sennett, 1994; quoted in Karp & Zamiska, 2025, p. 198)]]
 
+> [!claim] Anderson, B.
+> **世界主义对民族情感动力的病理化误判** 安德森批评欧洲进步世界主义知识分子将民族主义简化为源于对异者恐惧与仇恨的病理现象、并将其同种族主义等同视之的偏颇；指出世界主义诊断忽视了民族所激发的深沉舍生之爱（amor patriae），未能理解爱国情感依托亲属家园隐喻与母语历史渊源所获得的无私崇高感。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 145–146)]]
+
 ---
 
 > [!concept-proposition] 命题二｜健康的世界公民教育必须以深厚本土[[Civic Religion|公民宗教]]与实质美德为制度根基
@@ -126,7 +131,7 @@ updated: 2026-11-11
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **后国家道德真空批判** | 批判抽象世界主义掏空国家认同导致资本异化与部落化 | 当代西方治理与地缘安全危机分析 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025); [[Richard Sennett\|Sennett]] (1994) |
+> | **后国家道德真空与病理化批判** | 批判抽象世界主义掏空国家认同导致资本异化，并反思其对民族舍生之爱的病理化误解 | 当代西方治理危机与民族情感哲学分析 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025); [[Richard Sennett\|Sennett]] (1994); [[Argument_Anderson_2016_Verso\|Anderson (2016)]] |
 > | **世界公民教化与根基重构** | 辩护世界公民伦理并探索本土美德与普世博爱的平衡 | 比较教育学、公民哲学与课程正典研讨 | [[Martha Nussbaum\|Nussbaum]] (1994); [[Alasdair MacIntyre\|MacIntyre]] (2007) |
 
 ---
@@ -134,6 +139,7 @@ updated: 2026-11-11
 > [!dev-timeline] 概念演变
 > - **公元前 4 世纪 — 犬儒学派与斯多葛哲学** 第欧根尼（Diogenes）自称世界公民（Cosmopolites），斯多葛学派确立了超越城邦边界的全人类普遍理性同心圆理论。
 > - **1795 — [[Immanuel Kant|康德]][[Perpetual Peace|永久和平]]构想** 康德（Immanuel Kant）发表《走向永久和平》，提出以世界公民法权（Weltbürgerrecht）作为跨国交往与普遍好客原则的宪政基础。
+> - **1983 — 安德森反思世界主义对民族主义的病理化偏见** [[Benedict Anderson|本尼迪克特·安德森]]出版《想象的共同体》，批评欧洲世界主义知识分子将民族主义简单贬抑为排外恐惧与种族主义的狭隘，论证爱国主义的深层动力在于无私舍生之爱。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 145–146)]]
 > - **1994 — 努斯鲍姆爱国主义与世界主义之争** [[Martha Nussbaum|玛莎·努斯鲍姆]]在《波士顿评论》发表论战性文章，开启当代政治哲学关于[[Global Citizenship|全球公民身份]]的大讨论。
 > - **2025 — [[Technological Republic|技术共和国]]现实主义反思** 卡普与扎米斯卡揭示后国家世界主义在面对地缘专制威胁时的防卫意志瘫痪，呼吁在国家[[Hard Power|硬实力]]与共享神话中重构共同体。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–204)]]
 
@@ -157,3 +163,4 @@ updated: 2026-11-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 结合第17章剖析努斯鲍姆与桑内特的世界主义观点，论证抽空国家认同对技术协作与国家防卫意志的深层破坏，阐述[[Technological Republic|技术共和国]]在[[Hard Power|硬实力]]、国家叙事与全球地缘博弈中的战略重构路径。
+> - [[Argument_Anderson_2016_Verso_Ch08|Anderson (2016)]] — 在第八章反思欧洲进步世界主义知识分子对民族主义的病理化偏见，论证民族政治之爱（amor patriae）的深层无私性及其与种族主义的本质分野（pp. 145–146）。
