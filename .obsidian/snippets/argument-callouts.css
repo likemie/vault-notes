@@ -26311,89 +26311,95 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([d
 html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="theory-origin"],[data-callout="theory-position"],[data-callout="dev-timeline"],[data-callout="theory-use"],[data-callout="theory-framework"],[data-callout="theory-boundary"]) > .callout-content > :is(ul,ol) > li > strong:first-of-type + br,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="theory-origin"],[data-callout="theory-position"],[data-callout="dev-timeline"],[data-callout="theory-use"],[data-callout="theory-framework"],[data-callout="theory-boundary"]) > .callout-content > :is(ul,ol) > li > p:first-of-type > strong:first-child + br { display:none !important; }
 /* Sources read as reference fields; position labels carry the stronger conceptual accent. */
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-origin"] > .callout-content > :is(ul,ol) > li > strong:first-of-type,html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-origin"] > .callout-content > :is(ul,ol) > li > p:first-of-type > strong:first-of-type { font:650 .88em/1.65 var(--ac-sans) !important; }
-/* Position fields follow the source order; the final field gets a full reading measure. */
+/* Position reads as one specimen label: hairline rows, a label column, no inner boxes.
+   The question row carries a serif voice; the context row is a quieter lineage note. */
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"] {
   --position-question:#8e454f;
-  --position-context:#59654f;
+  --position-context:#6a7158;
 }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"]:where(.theme-dark *) {
   --position-question:#e2a7ae;
   --position-context:#c8c5a5;
 }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"][data-callout][data-callout] > .callout-content > :is(ul,ol) {
+  --position-label-width:clamp(5.2rem,16cqi,6.8rem);
+  --position-frame:color-mix(in srgb,var(--tf-accent) 34%,var(--background-modifier-border));
+  --position-divider:color-mix(in srgb,var(--text-muted) 15%,transparent);
   display:block !important;
   border:0 !important;
+  border-block:1px solid var(--position-frame) !important;
+  border-radius:0 !important;
   background:none !important;
   overflow:visible !important;
 
   & > li {
     --position-ink:var(--tf-ink);
-    --position-wash:3%;
-    --position-label-width:clamp(5rem,15cqi,6.6rem);
     display:flow-root !important;
-    padding:.62rem .82rem !important;
-    border:1px solid color-mix(in srgb,var(--position-ink) 25%,var(--background-modifier-border)) !important;
-    border-radius:6px !important;
-    background-color:color-mix(in srgb,var(--position-ink) var(--position-wash),var(--ac-paper)) !important;
-    line-height:1.62 !important;
+    padding:.72rem .25rem .76rem !important;
+    border:0 !important;
+    border-radius:0 !important;
+    background:none !important;
+    line-height:1.72 !important;
   }
 
-  & > li + li { margin-top:.34rem !important; }
+  & > li + li {
+    margin-top:0 !important;
+    border-block-start:1px solid var(--position-divider) !important;
+  }
   & > li > :is(p,ul,ol) + :is(p,ul,ol) { margin-top:.45rem !important; }
 
   & > li > strong:is(:first-child,.list-bullet + strong),
   & > li > p:first-of-type > strong:first-child {
     width:fit-content !important;
-    margin:0 0 .26rem !important;
+    margin:0 0 .18rem !important;
     color:var(--position-ink) !important;
-    font:675 .87em/1.5 var(--ac-sans) !important;
+    font:650 .8em/1.75 var(--ac-sans) !important;
+    letter-spacing:.08em !important;
   }
 
   /* The four standard fields are object, question, type, and context. */
   &:has(> li:nth-child(4):last-child) > li:nth-child(2) {
     --position-ink:var(--position-question);
-    --position-wash:5%;
-  }
-
-  &:has(> li:nth-child(4):last-child) > li:nth-child(3) {
-    --position-wash:0%;
+    font-family:var(--ac-serif) !important;
+    font-size:1.02em !important;
+    line-height:1.78 !important;
   }
 
   &:has(> li:nth-child(4):last-child) > li:last-child {
     --position-ink:var(--position-context);
-    --position-wash:5%;
-    margin-top:.58rem !important;
-
-    & > strong:is(:first-child,.list-bullet + strong),
-    & > p:first-of-type > strong:first-child {
-      padding-bottom:.22rem !important;
-      border-bottom:1px solid color-mix(in srgb,currentColor 55%,transparent) !important;
-      margin-bottom:.38rem !important;
-    }
+    color:var(--text-muted) !important;
+    font-size:.93em !important;
 
     & a.internal-link:is([data-href^="Argument_"],[data-href*="/Argument_"]) {
       color:var(--text-muted) !important;
-      font-size:.91em !important;
+      font-size:.93em !important;
       font-weight:500 !important;
     }
   }
 
+  /* Wide cards: labels sit in a fixed column behind a hairline, like a catalogue label. */
   @container (min-width:540px) {
-    &:has(> li:nth-child(4):last-child) > li:is(:first-child,:nth-child(3)):has(> strong:is(:first-child,.list-bullet + strong), > p:first-of-type > strong:first-child) {
-      padding-inline-start:calc(var(--position-label-width) + .82rem) !important;
+    & > li:has(> strong:is(:first-child,.list-bullet + strong), > p:first-of-type > strong:first-child) {
+      padding-inline-start:calc(var(--position-label-width) + 1.1rem) !important;
+      background:linear-gradient(var(--position-divider),var(--position-divider))
+        no-repeat calc(var(--position-label-width) + .45rem) .8rem / 1px calc(100% - 1.6rem) !important;
 
       & > strong:is(:first-child,.list-bullet + strong),
       & > p:first-of-type > strong:first-child {
         float:inline-start !important;
         max-width:calc(var(--position-label-width) - .5rem) !important;
-        margin:.08em 0 0 calc(-1 * var(--position-label-width)) !important;
+        margin:.12em 0 0 calc(-1 * var(--position-label-width) - .85rem) !important;
       }
+    }
+
+    &:has(> li:nth-child(4):last-child) > li:nth-child(2) > strong:is(:first-child,.list-bullet + strong) {
+      margin-top:.2em !important;
     }
   }
 
   @media (hover:hover) {
     & > li:is(:hover,:focus-within) {
-      background-color:color-mix(in srgb,var(--position-ink) calc(var(--position-wash) + 4%),var(--ac-paper)) !important;
+      background-color:color-mix(in srgb,var(--position-ink) 4%,transparent) !important;
     }
   }
 
@@ -27067,29 +27073,32 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
     width:fit-content;
     max-width:100%;
     box-sizing:border-box;
-    margin:0 0 .28rem;
-    padding:.14rem .42rem;
-    border-radius:4px;
-    background:color-mix(in srgb,var(--tf-accent) 12%,var(--ac-paper));
+    margin:0 0 .12rem;
+    padding:0;
+    background:none;
     color:var(--tf-ink);
-    font:650 .76rem/1.35 var(--ac-sans);
-    font-variant-numeric:tabular-nums;
+    font:600 .96rem/1.48 var(--ac-serif);
+    font-variant-numeric:lining-nums tabular-nums;
+    letter-spacing:.02em;
     text-wrap:balance;
     overflow-wrap:anywhere;
   }
 
   & .development-date-separator { display:none; }
 
+  /* Wide cards: years hang in the margin, right-aligned against the rail. */
   @container (min-width:480px) {
     & > .callout-content > :is(ul,ol):has(> li .development-date) > li {
-      --dt-track:calc(var(--dt-date-width) + .65rem);
+      --dt-track:calc(var(--dt-date-width) + .85rem);
       --dt-gutter:calc(var(--dt-track) + 1.04rem);
 
       & .development-date {
         position:absolute;
-        inset:.55rem auto auto 0;
+        inset:.6rem auto auto 0;
+        width:var(--dt-date-width);
         max-width:var(--dt-date-width);
         margin:0;
+        text-align:right;
       }
     }
   }
@@ -27338,11 +27347,19 @@ html body .callout.callout.callout.callout.callout[data-callout="entry-map"] > .
   & tr[data-entry-map-kind="instrument"] { --entry-type-tone:#e7b052; }
   & tr[data-entry-map-kind="person"] { --entry-type-tone:#e78aa8; }
   & tr[data-entry-map-kind="fact"] { --entry-type-tone:#dd9470; }
+  & tr[data-entry-map-kind="concept"] { --entry-type-label:"概念"; }
+  & tr[data-entry-map-kind="theory"] { --entry-type-label:"理论"; }
+  & tr[data-entry-map-kind="method"] { --entry-type-label:"方法"; }
+  & tr[data-entry-map-kind="instrument"] { --entry-type-label:"工具"; }
+  & tr[data-entry-map-kind="person"] { --entry-type-label:"人物"; }
+  & tr[data-entry-map-kind="fact"] { --entry-type-label:"事实"; }
 
   & thead th {
-    background:color-mix(in srgb,var(--text-muted) 11%,var(--entry-map-paper)) !important;
-    color:var(--text-normal) !important;
+    background:color-mix(in srgb,var(--fdc-accent,var(--text-muted)) 9%,var(--entry-map-paper)) !important;
+    color:var(--fdc-ink,var(--text-normal)) !important;
+    font-size:.8em !important;
     font-weight:650 !important;
+    letter-spacing:.08em !important;
     border:0 !important;
     border-block-end:1px solid var(--entry-map-rule) !important;
   }
@@ -27353,327 +27370,43 @@ html body .callout.callout.callout.callout.callout[data-callout="entry-map"] > .
     border-block-end:1px solid var(--entry-map-divider) !important;
     box-shadow:none !important;
     font-size:.9em !important;
-    line-height:1.6 !important;
+    line-height:1.62 !important;
   }
 
   & tbody tr:last-child > td { border-block-end:0 !important; }
 
+  /* Entry cell: a slim type bar and a small type caption above the name. */
   & tbody td:first-child {
-    background:color-mix(in srgb,var(--entry-type-tone) var(--entry-map-tint),var(--entry-map-paper)) !important;
+    padding-inline-start:1rem !important;
+    background:var(--entry-map-reading-surface) !important;
+    box-shadow:inset 3px 0 0 var(--entry-type-tone) !important;
     border-inline-end:1px solid var(--entry-map-divider) !important;
+    color:var(--text-normal) !important;
+    font-weight:600 !important;
+  }
+
+  & tbody tr[data-entry-map-kind]:not([data-entry-map-kind="other"]) td:first-child::before {
+    content:var(--entry-type-label,"");
+    display:block;
+    margin:0 0 .1rem;
+    color:color-mix(in srgb,var(--entry-type-tone) 72%,var(--text-normal));
+    font:650 .74em/1.5 var(--ac-sans,inherit);
+    letter-spacing:.14em;
   }
 
   & tbody td:first-child a.internal-link {
     color:var(--text-normal) !important;
-    text-decoration-color:var(--text-muted);
-    text-underline-offset:.18em;
+    text-decoration-color:color-mix(in srgb,var(--entry-type-tone) 55%,transparent);
+    text-underline-offset:.2em;
   }
 
+  & tbody td:last-child { color:color-mix(in srgb,var(--text-normal) 88%,var(--text-muted)) !important; }
+
   & tbody tr:is(:hover,:focus-within) {
-    --entry-map-tint:39%;
-    --entry-map-reading-surface:color-mix(in srgb,var(--entry-type-tone) 7%,var(--entry-map-paper));
+    --entry-map-reading-surface:color-mix(in srgb,var(--entry-type-tone) 6%,var(--entry-map-paper));
   }
 
   @media (prefers-reduced-motion:no-preference) {
     & tbody td { transition:background-color 160ms ease !important; }
   }
-}
-
-/* ═══════════════════════════════════════════════════════════
-   V3 · THREE DISTINCT IDENTITIES — theory-position / dev-timeline / entry-map
-   POSITION  = 档案卡 dossier：纸面叠影、虚线账本行、大号半透明序号
-   DEVELOPMENT = 编年卷 chronicle：双线外框、羊皮纸光晕、竖向时间脊
-   ENTRY MAP = 目录卡 catalog：索引表头、按类型着色的左侧色条
-   ═══════════════════════════════════════════════════════════ */
-
-/* ─── POSITION · 档案卡 ─────────────────────────────────── */
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"] {
-  --vx-accent: #5f7f66;
-  --vx-ink: #3d5e47;
-  --vx-paper: #fbfbf6;
-  --vx-rule: color-mix(in srgb, var(--vx-accent) 24%, transparent);
-  position: relative !important;
-  margin: 1.1rem 0.35rem 1.3rem 0.1rem !important;
-  padding: 1.3rem 1.5rem 1.05rem !important;
-  border: 1px solid color-mix(in srgb, var(--vx-accent) 26%, transparent) !important;
-  border-top: 3px solid var(--vx-accent) !important;
-  border-radius: 4px 14px 14px 4px !important;
-  background:
-    linear-gradient(90deg, color-mix(in srgb, var(--vx-accent) 8%, transparent), transparent 34%),
-    var(--vx-paper) !important;
-  box-shadow: 7px 8px 0 -1px color-mix(in srgb, var(--vx-accent) 10%, transparent),
-              0 1px 0 var(--vx-rule) !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"] > .callout-title {
-  padding: 0 0 0.9rem !important;
-  border: 0 !important;
-  background: none !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"] > .callout-title .callout-title-inner::before {
-  color: var(--vx-accent) !important;
-  letter-spacing: 0.22em !important;
-  font-weight: 700 !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"] > .callout-content > :is(ul, ol) {
-  display: flex !important;
-  flex-direction: column !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  border: 0 !important;
-  background: none !important;
-  list-style: none !important;
-  counter-reset: vxpos;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"] > .callout-content > :is(ul, ol) > li {
-  counter-increment: vxpos;
-  position: relative !important;
-  display: block !important;
-  margin: 0 !important;
-  padding: 0.8rem 3.4rem 0.85rem 0 !important;
-  border: 0 !important;
-  border-bottom: 1px dashed var(--vx-rule) !important;
-  background: none !important;
-  box-shadow: none !important;
-  color: var(--text-muted) !important;
-  font-size: 0.92em !important;
-  line-height: 1.72 !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"] > .callout-content > :is(ul, ol) > li:last-child {
-  margin-top: 0.3rem !important;
-  padding: 1rem 1.1rem 1rem 1.1rem !important;
-  border: 0 !important;
-  border-left: 3px solid var(--vx-accent) !important;
-  border-radius: 0 10px 10px 0 !important;
-  background: color-mix(in srgb, var(--vx-accent) 7%, transparent) !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"] > .callout-content > :is(ul, ol) > li::before {
-  content: none !important;
-  display: none !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"] > .callout-content > :is(ul, ol) > li::after {
-  content: counter(vxpos, decimal-leading-zero) !important;
-  position: absolute !important;
-  right: 0.2rem !important;
-  top: 0.35rem !important;
-  left: auto !important;
-  width: auto !important;
-  height: auto !important;
-  border: 0 !important;
-  background: none !important;
-  box-shadow: none !important;
-  color: color-mix(in srgb, var(--vx-accent) 22%, transparent) !important;
-  font-family: var(--font-monospace, ui-monospace, monospace) !important;
-  font-size: 1.9rem !important;
-  font-weight: 300 !important;
-  line-height: 1 !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"] > .callout-content > :is(ul, ol) > li:last-child::after {
-  top: 0.7rem !important;
-  right: 0.9rem !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"] > .callout-content > :is(ul, ol) > li > strong:first-of-type {
-  display: block !important;
-  margin: 0 0 0.12rem !important;
-  padding: 0 !important;
-  border: 0 !important;
-  background: none !important;
-  color: var(--vx-ink) !important;
-  font-size: 0.96em !important;
-  font-weight: 700 !important;
-  letter-spacing: 0.04em !important;
-  white-space: normal !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"] > .callout-content > :is(ul, ol) > li:last-child > strong:first-of-type {
-  font-size: 1em !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"]:where(.theme-dark *) {
-  --vx-accent: #a3c7ad;
-  --vx-ink: #d2ead9;
-  --vx-paper: #1f2420;
-}
-
-/* ─── DEVELOPMENT · 编年卷 ──────────────────────────────── */
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] {
-  --vx-accent: #9a7b3f;
-  --vx-ink: #6f5623;
-  --vx-paper: #fdfaf1;
-  position: relative !important;
-  margin: 1.2rem 0.6rem 1.5rem !important;
-  padding: 1.4rem 1.5rem 1.2rem !important;
-  border: 1px solid color-mix(in srgb, var(--vx-accent) 45%, transparent) !important;
-  border-radius: 14px !important;
-  outline: 1px solid color-mix(in srgb, var(--vx-accent) 22%, transparent) !important;
-  outline-offset: 5px !important;
-  background:
-    radial-gradient(120% 60% at 100% 0%, color-mix(in srgb, var(--vx-accent) 14%, transparent), transparent 60%),
-    var(--vx-paper) !important;
-  box-shadow: none !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-title {
-  padding: 0 0 0.9rem !important;
-  border: 0 !important;
-  background: none !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-title .callout-title-inner::before {
-  color: var(--vx-accent) !important;
-  letter-spacing: 0.24em !important;
-  font-weight: 700 !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-content > :is(ul, ol) {
-  position: relative !important;
-  margin: 0 !important;
-  padding: 0 0 0 1.9rem !important;
-  border: 0 !important;
-  background: none !important;
-  list-style: none !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-content > :is(ul, ol)::before {
-  content: "" !important;
-  position: absolute !important;
-  left: 0.42rem !important;
-  top: 0.6rem !important;
-  bottom: 0.6rem !important;
-  width: 1px !important;
-  background: linear-gradient(to bottom, var(--vx-accent), color-mix(in srgb, var(--vx-accent) 20%, transparent)) !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-content > :is(ul, ol) > li {
-  position: relative !important;
-  display: block !important;
-  margin: 0 !important;
-  padding: 0 0 1.25rem !important;
-  border: 0 !important;
-  background: none !important;
-  box-shadow: none !important;
-  list-style: none !important;
-  color: var(--text-muted) !important;
-  font-size: 0.92em !important;
-  line-height: 1.7 !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-content > :is(ul, ol) > li:last-child {
-  padding-bottom: 0 !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-content > :is(ul, ol) > li::marker,
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-content > :is(ul, ol) > li > .list-bullet {
-  display: none !important;
-  content: "" !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-content > :is(ul, ol) > li::before {
-  content: "" !important;
-  display: block !important;
-  position: absolute !important;
-  left: -1.56rem !important;
-  top: 0.42rem !important;
-  width: 11px !important;
-  height: 11px !important;
-  border: 2px solid var(--vx-accent) !important;
-  border-radius: 50% !important;
-  background: var(--vx-paper) !important;
-  box-shadow: 0 0 0 4px color-mix(in srgb, var(--vx-accent) 14%, transparent) !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-content > :is(ul, ol) > li:first-child::before {
-  background: var(--vx-accent) !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-content > :is(ul, ol) > li::after {
-  content: none !important;
-  display: none !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-content > :is(ul, ol) > li > p {
-  margin: 0 !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-content > :is(ul, ol) > li > strong:first-of-type {
-  display: block !important;
-  margin: 0 0 0.2rem !important;
-  padding: 0 !important;
-  border: 0 !important;
-  background: none !important;
-  color: var(--vx-ink) !important;
-  font-family: var(--font-text, inherit) !important;
-  font-size: 1.04em !important;
-  font-weight: 700 !important;
-  letter-spacing: 0.01em !important;
-  font-variant-numeric: lining-nums tabular-nums !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"]:where(.theme-dark *) {
-  --vx-accent: #d9bd7c;
-  --vx-ink: #ecd9a8;
-  --vx-paper: #241f16;
-}
-
-/* ─── ENTRY MAP · 目录卡 ────────────────────────────────── */
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] {
-  --vx-accent: #5b68b8;
-  --vx-ink: #3b4a94;
-  --vx-paper: #f8f9fe;
-  --vx-rule: color-mix(in srgb, var(--vx-accent) 16%, transparent);
-  margin: 1rem 0 1.2rem !important;
-  padding: 1.1rem 1.1rem 0.9rem !important;
-  border: 1px solid color-mix(in srgb, var(--vx-accent) 24%, transparent) !important;
-  border-radius: 6px 18px 6px 18px !important;
-  background: var(--vx-paper) !important;
-  box-shadow: 0 10px 22px -14px color-mix(in srgb, var(--vx-accent) 55%, transparent) !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-title {
-  padding: 0 0 0.8rem !important;
-  border: 0 !important;
-  background: none !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-title .callout-title-inner::before {
-  color: var(--vx-accent) !important;
-  letter-spacing: 0.22em !important;
-  font-weight: 700 !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content table {
-  width: 100% !important;
-  border-collapse: separate !important;
-  border-spacing: 0 !important;
-  border: 1px solid var(--vx-rule) !important;
-  border-radius: 10px !important;
-  overflow: hidden !important;
-  background: var(--vx-paper) !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content thead th {
-  padding: 0.6rem 0.9rem !important;
-  background: color-mix(in srgb, var(--vx-accent) 10%, var(--vx-paper)) !important;
-  color: var(--vx-accent) !important;
-  font-size: 0.7em !important;
-  font-weight: 750 !important;
-  letter-spacing: 0.16em !important;
-  text-transform: uppercase !important;
-  border: 0 !important;
-  border-bottom: 1px solid var(--vx-rule) !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content tbody td {
-  padding: 0.7rem 0.9rem !important;
-  background: var(--vx-paper) !important;
-  border: 0 !important;
-  border-top: 1px solid var(--vx-rule) !important;
-  box-shadow: none !important;
-  color: var(--text-muted) !important;
-  font-size: 0.9em !important;
-  line-height: 1.62 !important;
-  vertical-align: top !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content tbody tr:nth-child(even) td {
-  background: color-mix(in srgb, var(--vx-accent) 4%, var(--vx-paper)) !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content tbody tr:hover td {
-  background: color-mix(in srgb, var(--vx-accent) 9%, var(--vx-paper)) !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content tbody td:first-child {
-  color: var(--vx-ink) !important;
-  font-weight: 650 !important;
-  box-shadow: inset 3px 0 0 var(--entry-type-tone, var(--vx-accent)) !important;
-  border-inline-end: 0 !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content tbody td:nth-child(2) {
-  color: var(--vx-accent) !important;
-  font-size: 0.8em !important;
-  font-weight: 700 !important;
-  letter-spacing: 0.06em !important;
-  white-space: nowrap !important;
-}
-html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"]:where(.theme-dark *) {
-  --vx-accent: #9aa8ef;
-  --vx-ink: #cdd6ff;
-  --vx-paper: #1c1e2b;
 }

@@ -330,6 +330,9 @@
   },
   "active": "96c685dea1ff308e",
   "lastOpenFiles": [
+    "Claude outputs/callout-preview/new_light.png",
+    "Claude outputs/callout-preview/compare_dark.png",
+    "Claude outputs/callout-preview",
     "scratch/argument-callouts.backup.css",
     "wiki/persons/us/Charles Hirschman.md",
     "wiki/persons/uk/Thomas Stamford Raffles.md",
@@ -360,8 +363,6 @@
     "output/related-updates/Argument_Anderson_2016_Verso_Ch09-0d7a1d02/batch-005/result.json",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch10-ad35ad6d/batch-003/result.json",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch09-0d7a1d02/batch-004/result.json",
-    "output/related-updates/Argument_Anderson_2016_Verso_Ch10-ad35ad6d/batch-002/result.json",
-    "output/related-updates/Argument_Anderson_2016_Verso_Ch09-0d7a1d02/batch-003/result.json",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch10-ad35ad6d/batch-004/prompt.md",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch10-ad35ad6d/batch-003/prompt.md",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch10-ad35ad6d/batch-002/prompt.md",
@@ -375,7 +376,6 @@
     "tmp/callout-refinement/entry-map-wash-light-1440.png",
     "tmp/callout-refinement/entry-map-wash-dark-390.png",
     "tmp/callout-refinement/entry-map-wash-dark-1440.png",
-    "tmp/callout-refinement/entry-map-rows-light-1440.png",
     "未命名.canvas"
   ]
 }
