@@ -10,6 +10,10 @@ title: "Argument_Anderson_2016_Verso_Ch09"
 argument_key: "Argument_Anderson_2016_Verso_Ch09"
 argument_display_title: "Imagined Communities: Reflections on the Origin and Spread of Nationalism · Ch09"
 argument_kind: "book-chapter"
+argument_related_count: 0
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#fef3c7"
 book_title: "Imagined Communities: Reflections on the Origin and Spread of Nationalism"
 publisher: "Verso"
 year: 2016

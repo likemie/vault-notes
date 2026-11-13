@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Print-Capitalism",
+      "path": "wiki/concepts/political-economy-geopolitics/Print-Capitalism.md"
+    },
+    {
+      "basename": "Organizational Culture",
+      "path": "wiki/theories/sociology-of-education/Organizational Culture.md"
+    },
+    {
       "basename": "Argument_Anderson_2016_Verso_Ch08",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch08.md"
+    },
+    {
+      "basename": "Tropical Gothic",
+      "path": "wiki/concepts/political-economy-geopolitics/Tropical Gothic.md"
     },
     {
       "basename": "Jose Rizal",
@@ -51,10 +63,6 @@
     {
       "basename": "Baseline Standardized Mean Difference",
       "path": "wiki/methods/quantitative/Baseline Standardized Mean Difference.md"
-    },
-    {
-      "basename": "Print-Capitalism",
-      "path": "wiki/concepts/political-economy-geopolitics/Print-Capitalism.md"
     },
     {
       "basename": "Average Variance Extracted",
@@ -191,14 +199,6 @@
     {
       "basename": "template-method",
       "path": "wiki/templates/template-method.md"
-    },
-    {
-      "basename": "template-metax",
-      "path": "wiki/templates/template-metax.md"
-    },
-    {
-      "basename": "Screening Off",
-      "path": "wiki/concepts/educational-philosophy/Screening Off.md"
     }
   ],
   "omittedPaths": [],

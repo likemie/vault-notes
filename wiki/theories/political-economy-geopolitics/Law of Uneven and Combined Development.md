@@ -7,6 +7,11 @@ aliases:
   - uneven and combined development
 summary: "揭示后发国家在世界体系中并非机械重走先发国家演化阶段，而是将最先进的技术与抽象制度模型与本土落后的传统生产关系剧烈合并的宏观历史动力学理论。本尼迪克特·安德森借此解释革命与民族主义作为无专利的模块化发明，如何在缺乏成熟工业无产阶级的前工业农业社会通过跳跃式移植得以实现。"
 type: theory
+theory_field: "political-economy-geopolitics"
+theory_related_count: 0
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
   - theory/historical-sociology
   - theory/political-economy

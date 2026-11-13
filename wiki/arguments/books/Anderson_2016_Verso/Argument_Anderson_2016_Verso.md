@@ -55,7 +55,7 @@ updated: 2026-11-13
 > [!monograph-profile] 阅读档案
 > - **书名** 《[[Imagined Community|想象的共同体]]：[[Nationalism|民族主义]]的起源与散布》（Imagined Communities: Reflections on the Origin and Spread of Nationalism）。
 > - **撰写者** [[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）。
-> - **阅读范围** 依 EPUB 目录整理十一章和一篇未编号的增补篇。第1至8章已解读，其余各章待解读。
+> - **阅读范围** 依 EPUB 目录整理十一章和一篇未编号的增补篇。第1至9章已解读，其余各章待解读。
 > - **版本** Verso 版权页列出 2016 和 2006，著录采用版权页列出的较晚版次 2016。文件名与 EPUB 元数据标为 2011。
 
 ---
@@ -79,7 +79,7 @@ updated: 2026-11-13
 > | [[Argument_Anderson_2016_Verso_Ch06\|第6章 Official Nationalism and Imperialism]] | 剖析王朝面临大众民族主义冲击的合法性危机，揭示将民族皮囊套于帝国身躯的[[Official Nationalism\|官方民族主义]]防御机制，阐明沙俄、英国、日本、暹罗与匈牙利同化工程中帝国与民族的内在排他性矛盾。 | [[Official Nationalism]]、[[Macaulayism]]、[[Thomas Babington Macaulay]]、[[Hugh Seton-Watson]]、[[Historical-Comparative Method]] |
 > | [[Argument_Anderson_2016_Verso_Ch07\|第7章 The Last Wave]] | 剖析亚非殖民地民族主义崛起，阐明[[Bilingual Intelligentsia\|双语知识分子]]先锋角色，揭示[[Educational Pilgrimage\|教育朝圣]]与行政朝圣空间同构对领土疆界的奠定机制，并以多语种瑞士论证民族想象无需母语同一性。 | [[Educational Pilgrimage]]、[[Bilingual Intelligentsia]]、[[Inlander]]、[[Suwardi Surjaningrat]]、[[Sumpah Pemuda]] |
 > | [[Argument_Anderson_2016_Verso_Ch08\|第8章 Patriotism and Racism]] | 辨析爱国主义与种族主义本质分野，论证民族认同以亲属隐喻与[[Unisonance\|同声相应]]的无私奉献为情感根基，揭示[[Colonial Racism\|殖民种族主义]]源于封建贵族阶级意识形态与海外扮演贵族排场。 | [[Unisonance]]、[[Colonial Racism]]、[[Jose Rizal]]、[[Tom Nairn]]、[[Arthur de Gobineau]] |
-> | 第 9 章 The Angel of History | [TXT](../../../../raw/Anderson_2016_Verso_txt/Ch09_The_Angel_of_History.txt) | 待解读 |
+> | [[Argument_Anderson_2016_Verso_Ch09\|第9章 The Angel of History]] | 剖析革命与民族主义作为无专利模块化人造物的跨国盗版，阐明后革命政权继承旧国家电网并复活[[Official Nationalism\|官方民族主义]]与国家马基雅维利主义，揭示社会主义印支冲突作为[[Chancellory War\|密室战争]]的本质，以[[Walter Benjamin\|本雅明]]历史的天使寓言反思现代悲剧宿命。 | [[Law of Uneven and Combined Development]]、[[Chancellory War]]、[[Modular Nationalism]]、[[Official Nationalism]]、[[Walter Benjamin]]、[[Tom Nairn]] |
 > | 第 10 章 Census, Map, Museum | [TXT](../../../../raw/Anderson_2016_Verso_txt/Ch10_Census_Map_Museum.txt) | 待解读 |
 > | 第 11 章 Memory and Forgetting | [TXT](../../../../raw/Anderson_2016_Verso_txt/Ch11_Memory_and_Forgetting.txt) | 待解读 |
 

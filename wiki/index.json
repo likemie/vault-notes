@@ -13014,6 +13014,17 @@
     ]
   },
   {
+    "title": "Chancellory War",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Chancellory War.md",
+    "aliases": [
+      "密室战争",
+      "内阁战争",
+      "首相府战争",
+      "chancellory wars"
+    ]
+  },
+  {
     "title": "China Solution",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/China Solution.md",
@@ -23444,6 +23455,17 @@
     "aliases": [
       "信息主义",
       "Castells' Informationalism Theory"
+    ]
+  },
+  {
+    "title": "Law of Uneven and Combined Development",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Law of Uneven and Combined Development.md",
+    "aliases": [
+      "不平衡与合并发展规律",
+      "不平衡和综合发展规律",
+      "不平衡与综合发展定律",
+      "uneven and combined development"
     ]
   },
   {
@@ -50506,6 +50528,11 @@
     "title": "Argument_Anderson_2016_Verso_Ch08",
     "type": "argument",
     "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch08.md"
+  },
+  {
+    "title": "Argument_Anderson_2016_Verso_Ch09",
+    "type": "argument",
+    "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch09.md"
   },
   {
     "title": "Argument_Bates_2017_CognitionEducationTrust",
