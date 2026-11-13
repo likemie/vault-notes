@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Anderson_2016_Verso_Ch05",
+      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch05.md"
+    },
+    {
+      "basename": "Argument_Anderson_2016_Verso_Ch04",
+      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch04.md"
+    },
+    {
+      "basename": "Average Variance Extracted",
+      "path": "wiki/methods/quantitative/Average Variance Extracted.md"
+    },
+    {
+      "basename": "Author Name Disambiguation",
+      "path": "wiki/methods/quantitative/Author Name Disambiguation.md"
+    },
+    {
+      "basename": "Angoff Method",
+      "path": "wiki/methods/quantitative/Angoff Method.md"
+    },
+    {
       "basename": "Analysis of Variance",
       "path": "wiki/methods/quantitative/Analysis of Variance.md"
     },
@@ -13,16 +33,8 @@
       "path": "wiki/templates/template-fact-event.md"
     },
     {
-      "basename": "Argument_Anderson_2016_Verso_Ch04",
-      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch04.md"
-    },
-    {
       "basename": "Argument_Anderson_2016_Verso_Ch06",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch06.md"
-    },
-    {
-      "basename": "Argument_Anderson_2016_Verso_Ch05",
-      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch05.md"
     },
     {
       "basename": "Printer-Journalist",
@@ -187,18 +199,6 @@
     {
       "basename": "Argument_Freeman_1995_CJE",
       "path": "wiki/arguments/journal-articles/Cambridge Journal of Economics/Argument_Freeman_1995_CJE.md"
-    },
-    {
-      "basename": "Omnia Education Partnerships",
-      "path": "wiki/facts/finland/Omnia Education Partnerships.md"
-    },
-    {
-      "basename": "Competition State",
-      "path": "wiki/concepts/political-economy-geopolitics/Competition State.md"
-    },
-    {
-      "basename": "Soft Privatisation",
-      "path": "wiki/concepts/educational-policy-reform/Soft Privatisation.md"
     }
   ],
   "omittedPaths": [],
