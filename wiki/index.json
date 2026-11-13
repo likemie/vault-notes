@@ -13239,6 +13239,18 @@
     ]
   },
   {
+    "title": "Educational Pilgrimage",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Educational Pilgrimage.md",
+    "aliases": [
+      "教育朝圣",
+      "学校朝圣",
+      "学业朝圣",
+      "学徒巡游",
+      "educational pilgrimages"
+    ]
+  },
+  {
     "title": "Educational Soft Power",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Educational Soft Power.md",
@@ -13607,6 +13619,18 @@
       "流动基础设施",
       "流动不流动基础设施",
       "流动与不流动基础设施"
+    ]
+  },
+  {
+    "title": "Inlander",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Inlander.md",
+    "aliases": [
+      "在籍民",
+      "荷属东印度土著",
+      "土著在籍民",
+      "原住民在籍民",
+      "inlanders"
     ]
   },
   {
@@ -14339,6 +14363,16 @@
     "aliases": [
       "监管型区域主义",
       "监管区域主义"
+    ]
+  },
+  {
+    "title": "Representational Force",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Representational Force.md",
+    "aliases": [
+      "表征性力量",
+      "表征性强制",
+      "话语强制力"
     ]
   },
   {
@@ -18570,6 +18604,18 @@
       "betrayal",
       "breach of trust in research",
       "研究信任违反"
+    ]
+  },
+  {
+    "title": "Bilingual Intelligentsia",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Bilingual Intelligentsia.md",
+    "aliases": [
+      "双语知识分子",
+      "殖民地双语知识分子",
+      "殖民地知识阶层",
+      "bilingual intelligentsias",
+      "colonial intelligentsia"
     ]
   },
   {
@@ -31394,6 +31440,20 @@
     ]
   },
   {
+    "title": "Suwardi Surjaningrat",
+    "type": "person",
+    "path": "wiki/persons/indonesia/Suwardi Surjaningrat.md",
+    "aliases": [
+      "苏瓦迪·苏里亚宁格拉特",
+      "苏瓦迪",
+      "奇·哈贾尔·德万塔拉",
+      "Ki Hadjar Dewantoro",
+      "Ki Hajar Dewantara",
+      "Soewardi Soerjaningrat",
+      "Surjaningrat, S."
+    ]
+  },
+  {
     "title": "Ellen Hazelkorn",
     "type": "person",
     "path": "wiki/persons/ireland/Ellen Hazelkorn.md",
@@ -36493,6 +36553,19 @@
     "subtype": "event"
   },
   {
+    "title": "Sumpah Pemuda",
+    "type": "fact",
+    "path": "wiki/facts/asia/Sumpah Pemuda.md",
+    "aliases": [
+      "青年誓言",
+      "1928年青年誓言",
+      "印度尼西亚青年誓言",
+      "Youth Pledge",
+      "Youth Pledge of 1928"
+    ],
+    "subtype": "event"
+  },
+  {
     "title": "ANTRIEP",
     "type": "fact",
     "path": "wiki/facts/asia/ANTRIEP.md",
@@ -37451,6 +37524,18 @@
     "subtype": "organization"
   },
   {
+    "title": "Bangkok Business School",
+    "type": "fact",
+    "path": "wiki/facts/china/Bangkok Business School.md",
+    "aliases": [
+      "曼谷商学院",
+      "云南财经大学曼谷商学院",
+      "Bangkok Business School of Yunnan University of Finance and Economics",
+      "BBS"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Center for Research on Chinese-ASEAN Vocational Education",
     "type": "fact",
     "path": "wiki/facts/china/Center for Research on Chinese-ASEAN Vocational Education.md",
@@ -37785,6 +37870,18 @@
       "揭榜挂帅制",
       "科技攻关揭榜挂帅",
       "Jiebang Guashuai"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Opinions on Properly Conducting the Education Opening-up Work of the New Era",
+    "type": "fact",
+    "path": "wiki/facts/china/Opinions on Properly Conducting the Education Opening-up Work of the New Era.md",
+    "aliases": [
+      "关于做好新时期教育对外开放工作的若干意见",
+      "新时期教育对外开放意见",
+      "2016年教育对外开放意见",
+      "Opinions on Education Opening-up in the New Era"
     ],
     "subtype": "policy"
   },
@@ -49771,6 +49868,11 @@
     "title": "Argument_Anderson_2016_Verso_Ch06",
     "type": "argument",
     "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch06.md"
+  },
+  {
+    "title": "Argument_Anderson_2016_Verso_Ch07",
+    "type": "argument",
+    "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch07.md"
   },
   {
     "title": "Argument_Bates_2017_CognitionEducationTrust",

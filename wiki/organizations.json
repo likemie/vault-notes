@@ -352,6 +352,16 @@
         "澳大利亚学校加慈善基金会"
       ]
     },
+    "Bangkok Business School": {
+      "path": "wiki/facts/china/Bangkok Business School.md",
+      "names": [
+        "Bangkok Business School",
+        "曼谷商学院",
+        "云南财经大学曼谷商学院",
+        "Bangkok Business School of Yunnan University of Finance and Economics",
+        "BBS"
+      ]
+    },
     "Bell Labs": {
       "path": "wiki/facts/us/Bell Labs.md",
       "names": [
@@ -3819,6 +3829,11 @@
     "中共中央、国务院": {
       "seen_in": [
         "wiki/facts/china/China S&T Innovation Policy Evolution.md"
+      ]
+    },
+    "中共中央办公厅; 中华人民共和国国务院办公厅": {
+      "seen_in": [
+        "wiki/facts/china/Opinions on Properly Conducting the Education Opening-up Work of the New Era.md"
       ]
     },
     "中华人民共和国全国人民代表大会常务委员会 / 中华人民共和国国务院": {
