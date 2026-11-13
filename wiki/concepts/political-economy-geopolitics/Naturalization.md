@@ -10,14 +10,32 @@ aliases:
 summary: "本尼迪克特·安德森界定的政治法律构念，指现代民族共同体通过语言文化接纳与法律程序允许外来者合法转变为本国公民的开放制度原则。安德森指出，民族自其起源起便构想于语言而非生物血统之中，这使得任何封闭的民族国家在法理上均保留了邀请异邦人融入的归化入口；这一机制构成了民族主义与基于永恒生物宿命的种族主义在本体论上的关键分水岭。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 14
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/nationalism
   - theme/citizenship
   - political-philosophy
+related_concepts:
+  - "[[Construct]]"
+  - "[[Open-Mindedness]]"
+  - "[[Determinism]]"
+  - "[[Paradigm]]"
+  - "[[Inclusive Education]]"
+  - "[[Nationalism]]"
+  - "[[Colonial Racism]]"
+  - "[[Horizontal Comradeship]]"
+  - "[[Print-Language]]"
+related_theories:
+  - "[[Imagined Community]]"
+related_persons:
+  - "[[Benedict Anderson]]"
+  - "[[José de San Martín]]"
+related_arguments:
+  - "[[Argument_Anderson_2016_Verso_Ch08]]"
+  - "[[Argument_Anderson_2016_Verso]]"
 confidence: high
 status: draft
 created: 2026-11-13
@@ -27,7 +45,7 @@ updated: 2026-11-13
 ---
 
 > [!def] Naturalization
-> 主权归化（Naturalization）是[[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）在剖析现代民族认同边界与爱国情感时强调的政治法理构念。安德森指出，与封建贵族将统治特权锁定于封闭的血统传承或种族主义将群体拘禁于不可改变的生物基因不同，现代民族在起源处便构想于语言与历史命运之中。语言作为文化发明天然向一切有学习意愿者敞开，使得任何异邦人在原则上皆可被“邀请”进入这个想象的共同体。这种开放性在现代公法上的体现即为“归化”。即便在当代高度孤立排外的民族国家，其国籍法依然普遍确立了接纳外人归化的法定程序。归化原则在制度上彰显了民族认同对生物决定论的根本超越。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 149–150)]]
+> 主权归化（Naturalization）是[[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）在剖析现代民族认同边界与爱国情感时强调的政治法理[[Construct|构念]]。安德森指出，与封建贵族将统治特权锁定于封闭的血统传承或种族主义将群体拘禁于不可改变的生物基因不同，现代民族在起源处便构想于语言与历史命运之中。语言作为文化发明天然向一切有学习意愿者敞开，使得任何异邦人在原则上皆可被“邀请”进入这个[[Imagined Community|想象的共同体]]。这种[[Open-Mindedness|开放性]]在现代公法上的体现即为“归化”。即便在当代高度孤立排外的民族国家，其国籍法依然普遍确立了接纳外人归化的法定程序。归化原则在制度上彰显了民族认同对生物[[Determinism|决定论]]的根本超越。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 149–150)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向主权民族国家通过法律程序、语言习得与政治宣誓，接纳非血缘外来成员成为具有完全平等合法性国民的制度原则。
@@ -50,9 +68,9 @@ updated: 2026-11-13
 > |---|---|---|
 > | **认同基底** | 语言习得、历史叙事与宪法政治忠诚 | 不可改变的生物遗传、胚胎血缘与生理外貌特征 |
 > | **成员接纳机制** | 制度化开放，允许通过法定誓词与考试申请加入 | 绝对封闭排他，将异质群体视作不可接纳的永恒污染 |
-> | **时间认知范式** | 面向未来的历史命运（Historical Destinies） | 停滞于历史之外的神秘原罪（Outside History） |
+> | **时间认知[[Paradigm\|范式]]** | 面向未来的历史命运（Historical Destinies） | 停滞于历史之外的神秘原罪（Outside History） |
 > | **外来者政治地位** | 一旦完成归化即享有与本土出生者对等的公民主权 | 无论持有何种护照或通晓何种语言，始终被视作冒充者 |
-> | **典型制度实践** | 现代国籍法、公民宣誓仪式与双语融合教育 | 种族隔离法案、纽伦堡种族纯洁法、血统检验卡 |
+> | **典型制度实践** | 现代国籍法、公民宣誓仪式与双语[[Inclusive Education\|融合教育]] | 种族隔离法案、纽伦堡种族纯洁法、血统检验卡 |
 
 ---
 
@@ -75,7 +93,7 @@ updated: 2026-11-13
 ---
 
 > [!concept-proposition] 命题一｜主权归化制度确证了现代民族认同基于文化语言而非生物宿命的本体特质
-> **归化原则是现代民族具备普遍包容潜能的制度明证** 安德森论证，许多学者习惯将民族主义判定为排他性的沙文主义，这忽视了民族在生成机制上对血缘论的革命性突破。当1821年圣马丁（José de San Martín）在秘鲁颁布独立法令废止印第安人贬称、宣布全员皆为平等的秘鲁公民时，民族认同便展现了强大的文化吸纳力。归化原则在现代国际法中的普遍确立，不仅表明语言能够跨越先天的生理差异，更在制度层面为外来者提供了融入共同命运的平权路径，从根基上瓦解了种族主义将人类划分为优劣生物品阶的谬论。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 149–150)]]
+> **归化原则是现代民族具备普遍包容潜能的制度明证** 安德森论证，许多学者习惯将[[Nationalism|民族主义]]判定为排他性的沙文主义，这忽视了民族在生成机制上对血缘论的革命性突破。当1821年[[José de San Martín|圣马丁]]（José de San Martín）在秘鲁颁布独立法令废止印第安人贬称、宣布全员皆为平等的秘鲁公民时，民族认同便展现了强大的文化吸纳力。归化原则在现代国际法中的普遍确立，不仅表明语言能够跨越先天的生理差异，更在制度层面为外来者提供了融入共同命运的平权路径，从根基上瓦解了种族主义将人类划分为优劣生物品阶的谬论。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 149–150)]]
 
 > [!claim] Anderson, B.
 > **归化机制体现了民族共同体面向历史开放的生命力** 安德森指出，正是由于任何人都能通过学习语言被“邀请”进入想象的共同体，现代民族主义才拥有激发深沉爱国情怀与包容性的潜能。种族主义狂热地追逐血统纯洁性，将人群锁死在世代相传的永恒生物烙印中；民族主义则依托归化原则不断吸纳新生力量，使共同体的历史得以在代际延续与跨族群融合中生生不息。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 149–150)]]

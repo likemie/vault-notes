@@ -5,7 +5,7 @@ aliases:
   - 通猜
   - Winichakul, T.
   - Thongchai
-summary: "泰国著名历史学家、威斯康星大学麦迪逊分校东南亚史荣休教授，后殖民批判地理学与东南亚民族主义研究代表学者。其博士论文与代表作《图绘暹罗》提出著名的“地理身体”概念，揭示现代地图测绘如何颠覆前现代佛教宇宙图景，先导构建出排他性主权的现代暹罗民族国家形态，对安德森《想象的共同体》第10章产生决定性理论启发。"
+summary: "泰国著名历史学家、威斯康星大学麦迪逊分校东南亚史荣休教授，后殖民批判地理学与东南亚民族主义研究代表学者。其代表作《图绘暹罗》提出著名的“地理身体”概念，揭示现代地图测绘如何颠覆前现代佛教宇宙图景，先导构建出排他性主权的现代暹罗民族国家形态，对安德森《想象的共同体》第10章产生决定性理论启发。"
 type: person
 nationality: thailand
 person_region: "thailand"
@@ -42,7 +42,7 @@ updated: 2026-11-13
 > - **代表贡献** 提出[[Geo-Body|地理身体]]理论；著有学术名著《图绘暹罗：国家地理身体史》（*Siam Mapped: A History of the Geo-Body of Siam*）；其测绘话语分析被[[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）采纳为阐释殖民制图术与现代民族想象的核心支柱。
 
 > [!citation-card] 安德森论通猜对暹罗边界生成的研究贡献
-> 在近期一部杰出的学位论文中，泰国历史学家通猜·威尼差恭细致追溯了1850年至1910年间具有明确边界的“暹罗”得以生成的复杂历史过程。由于暹罗未曾沦为殖民地，其最终边界虽由殖民帝国所框定，通猜的研究却格外清晰地展现了一种新型国家心智如何在传统政治权力结构内部破土而出。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, p. 175)]]
+> 在近期一部杰出的开创性研究中，泰国历史学家通猜·威尼差恭细致追溯了1850年至1910年间具有明确边界的“暹罗”得以生成的复杂历史过程。由于暹罗未曾沦为殖民地，其最终边界虽由殖民帝国所框定，通猜的研究却格外清晰地展现了一种新型国家心智如何在传统政治权力结构内部破土而出。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, p. 175)]]
 >
 > *In a recent, brilliant thesis the Thai historian Thongchai Winichakul has traced the complex processes by which a bordered ‘Siam’ came into being between 1850 and 1910. His account is instructive precisely because Siam was not colonized, though what, in the end, came to be its borders were colonially determined. In the Thai case, therefore, one can see unusually clearly the emergence of a new state-mind within a ‘traditional’ structure of political power.*
 
@@ -52,9 +52,9 @@ updated: 2026-11-13
 > - **1957** 出生于泰国曼谷。
 > - **1976** 作为泰国法政大学学生领袖亲历“10·6法政大学大屠杀”，遭军警拘捕并羁押两年。
 > - **1981** 获泰国法政大学历史学学士学位。
-> - **1988** 于澳大利亚悉尼大学完成博士论文《图绘暹罗：暹罗地理身体史》（*Siam Mapped: A History of the Geo-Body of Siam*），提出“地理身体”概念。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, p. 175, n. 12)]]
+> - **1988** 于澳大利亚悉尼大学完成研究著作《图绘暹罗：暹罗地理身体史》（*Siam Mapped: A History of the Geo-Body of Siam*），提出“地理身体”概念。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, p. 175, n. 12)]]
 > - **1991** 加入美国威斯康星大学麦迪逊分校历史系任教。
-> - **1994** 博士论文由夏威夷大学出版社修订出版为《图绘暹罗》，荣获亚洲研究协会（AAS）哈利·本达奖（Harry J. Benda Prize）。
+> - **1994** 该研究由夏威夷大学出版社修订出版为《图绘暹罗》，荣获亚洲研究协会（AAS）哈利·本达奖（Harry J. Benda Prize）。
 > - **2013–2014** 当选亚洲研究协会（AAS）主席。
 > - **2016** 从威斯康星大学麦迪逊分校退休，获评荣休教授。
 

@@ -4394,6 +4394,8 @@
     "Charitaki et al., 2021": "Charitaki et al., 2021",
     "Charles Edquist (1997)": "Charles Edquist, 1997",
     "Charles Edquist, 1997": "Charles Edquist, 1997",
+    "Charles Hirschman (1987)": "Charles Hirschman, 1987",
+    "Charles Hirschman, 1987": "Charles Hirschman, 1987",
     "Charles Horton Cooley (1902)": "Charles Horton Cooley, 1902",
     "Charles Horton Cooley, 1902": "Charles Horton Cooley, 1902",
     "Charles Jones (1977)": "Charles Jones, 1977",
@@ -15890,6 +15892,8 @@
     "Mason (2013)": "Mason, 2013",
     "Mason (2016)": "Mason, 2016",
     "Mason (2017)": "Mason, 2017",
+    "Mason C. Hoadley (1988)": "Mason C. Hoadley, 1988",
+    "Mason C. Hoadley, 1988": "Mason C. Hoadley, 1988",
     "Mason et al. (1992)": "Mason et al., 1992",
     "Mason et al. (2014)": "Mason et al., 2014",
     "Mason et al., 1992": "Mason et al., 1992",
@@ -20199,6 +20203,8 @@
     "Richard L. Sklar, 1976": "Richard L. Sklar, 1976",
     "Richard Long (1998)": "Richard Long, 1998",
     "Richard Long, 1998": "Richard Long, 1998",
+    "Richard Muir (1981)": "Richard Muir, 1981",
+    "Richard Muir, 1981": "Richard Muir, 1981",
     "Richard Murnane & David Cohen (1981)": "Richard Murnane & David Cohen, 1981",
     "Richard Murnane & David Cohen, 1981": "Richard Murnane & David Cohen, 1981",
     "Richard Nelson (1959)": "Richard Nelson, 1959",
@@ -24166,6 +24172,8 @@
     "Thomson, 1999": "Thomson, 1999",
     "Thomson, 2009": "Thomson, 2009",
     "Thomson, 2013": "Thomson, 2013",
+    "Thongchai Winichakul (1994)": "Thongchai Winichakul, 1994",
+    "Thongchai Winichakul, 1994": "Thongchai Winichakul, 1994",
     "Thorndahl & Stentoft (2020)": "Thorndahl & Stentoft, 2020",
     "Thorndahl & Stentoft, 2020": "Thorndahl & Stentoft, 2020",
     "Thorndike (1920)": "Thorndike, 1920",
@@ -26018,6 +26026,8 @@
     "William G. Bowen, 1964": "William G. Bowen, 1964",
     "William G. Cochran (1954)": "William G. Cochran, 1954",
     "William G. Cochran, 1954": "William G. Cochran, 1954",
+    "William Henry Scott (1982)": "William Henry Scott, 1982",
+    "William Henry Scott, 1982": "William Henry Scott, 1982",
     "William J. J. Gordon (1961)": "William J. J. Gordon, 1961",
     "William J. J. Gordon, 1961": "William J. J. Gordon, 1961",
     "William L. Hays (1963)": "William L. Hays, 1963",
@@ -60175,6 +60185,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/university-industry-collaboration/Systems of Innovation.md"
+      ],
+      "title": ""
+    },
+    "Charles Hirschman, 1987": {
+      "aliases": [
+        "Charles Hirschman, 1987",
+        "Charles Hirschman (1987)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Charles Hirschman, 1987"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch10.md"
       ],
       "title": ""
     },
@@ -143597,6 +143622,21 @@
       ],
       "title": ""
     },
+    "Mason C. Hoadley, 1988": {
+      "aliases": [
+        "Mason C. Hoadley, 1988",
+        "Mason C. Hoadley (1988)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Mason C. Hoadley, 1988"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch10.md"
+      ],
+      "title": ""
+    },
     "Mason et al., 1992": {
       "aliases": [
         "Mason et al., 1992",
@@ -175179,6 +175219,21 @@
       ],
       "title": ""
     },
+    "Richard Muir, 1981": {
+      "aliases": [
+        "Richard Muir, 1981",
+        "Richard Muir (1981)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Richard Muir, 1981"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch10.md"
+      ],
+      "title": ""
+    },
     "Richard Murnane & David Cohen, 1981": {
       "aliases": [
         "Richard Murnane & David Cohen, 1981",
@@ -203970,6 +204025,21 @@
       "seen_in": [],
       "title": "Auditory processing interventions and developmental dyslexia  a comparison of phonemic and rhythmic approaches."
     },
+    "Thongchai Winichakul, 1994": {
+      "aliases": [
+        "Thongchai Winichakul, 1994",
+        "Thongchai Winichakul (1994)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Thongchai Winichakul, 1994"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch10.md"
+      ],
+      "title": ""
+    },
     "Thorndahl & Stentoft, 2020": {
       "aliases": [
         "Thorndahl & Stentoft, 2020",
@@ -217234,6 +217304,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/methods/quantitative/Cochran's Q Test.md"
+      ],
+      "title": ""
+    },
+    "William Henry Scott, 1982": {
+      "aliases": [
+        "William Henry Scott, 1982",
+        "William Henry Scott (1982)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "William Henry Scott, 1982"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch10.md"
       ],
       "title": ""
     },
