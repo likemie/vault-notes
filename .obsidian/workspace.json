@@ -330,6 +330,10 @@
   },
   "active": "96c685dea1ff308e",
   "lastOpenFiles": [
+    "Claude outputs/callout-preview/v3_light.png",
+    "Claude outputs/callout-preview/compare_v3.png",
+    "Claude outputs/callout-preview/v2_light.png",
+    "Claude outputs/callout-preview/compare_v2.png",
     "Claude outputs/callout-preview/new_light.png",
     "Claude outputs/callout-preview/compare_dark.png",
     "Claude outputs/callout-preview",
@@ -372,10 +376,6 @@
     "tmp/callout-refinement/entry-map-family-dark-1440.png",
     "tmp/callout-refinement/entry-map-flat-light-1440.png",
     "tmp/callout-refinement/entry-map-flat-dark-390.png",
-    "tmp/callout-refinement/entry-map-flat-dark-1440.png",
-    "tmp/callout-refinement/entry-map-wash-light-1440.png",
-    "tmp/callout-refinement/entry-map-wash-dark-390.png",
-    "tmp/callout-refinement/entry-map-wash-dark-1440.png",
     "未命名.canvas"
   ]
 }
