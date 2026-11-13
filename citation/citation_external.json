@@ -3137,6 +3137,8 @@
     "Braslavsky, 1998": "Braslavsky, 1998",
     "Bratland & El Ghami (2022)": "Bratland & El Ghami, 2022",
     "Bratland & El Ghami, 2022": "Bratland & El Ghami, 2022",
+    "Braudel (1972)": "Braudel, 1972",
+    "Braudel, 1972": "Braudel, 1972",
     "Braun & Clark (2006)": "Braun & Clark, 2006",
     "Braun & Clark, 2006": "Braun & Clark, 2006",
     "Braun & Clarke (2006)": "Braun & Clarke, 2006",
@@ -10983,9 +10985,11 @@
     "Hobbs, 2012": "Hobbs, 2012",
     "Hobsbawm (1962)": "Hobsbawm, 1962",
     "Hobsbawm (1983)": "Hobsbawm, 1983",
+    "Hobsbawm (1990)": "Hobsbawm, 1990",
     "Hobsbawm (2002)": "Hobsbawm, 2002",
     "Hobsbawm, 1962": "Hobsbawm, 1962",
     "Hobsbawm, 1983": "Hobsbawm, 1983",
+    "Hobsbawm, 1990": "Hobsbawm, 1990",
     "Hobsbawm, 2002": "Hobsbawm, 2002",
     "Hodgen (2019)": "Hodgen, 2019",
     "Hodgen et al. (2019)": "Hodgen et al., 2019",
@@ -25848,6 +25852,7 @@
     "Whiston et al., 2011": "Whiston et al., 2011",
     "White & Casto (1985)": "White & Casto, 1985",
     "White & Casto, 1985": "White & Casto, 1985",
+    "White (1973)": "White, 1973",
     "White (1986)": "White, 1986",
     "White (1988a)": "White, 1988a",
     "White (1988b)": "White, 1988b",
@@ -25860,6 +25865,7 @@
     "White (2019)": "White, 2019",
     "White et al. (1992)": "White et al., 1992",
     "White et al., 1992": "White et al., 1992",
+    "White, 1973": "White, 1973",
     "White, 1986": "White, 1986",
     "White, 1988": "White, 1988a",
     "White, 1988a": "White, 1988b",
@@ -50953,6 +50959,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_McPhail_2023_JCS.md"
+      ],
+      "title": ""
+    },
+    "Braudel, 1972": {
+      "aliases": [
+        "Braudel, 1972",
+        "Braudel (1972)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Braudel, 1972"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md"
       ],
       "title": ""
     },
@@ -92434,6 +92455,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md",
         "wiki/arguments/journal-articles/Comparative Education/Argument_Xu_2024_CE.md",
         "wiki/concepts/political-economy-geopolitics/Nationalism.md",
         "wiki/persons/uk/Ernest Gellner.md",
@@ -108396,6 +108418,21 @@
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Philological Revolution.md",
         "wiki/persons/uk/Eric Hobsbawm.md"
+      ],
+      "title": ""
+    },
+    "Hobsbawm, 1990": {
+      "aliases": [
+        "Hobsbawm, 1990",
+        "Hobsbawm (1990)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hobsbawm, 1990"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md"
       ],
       "title": ""
     },
@@ -155092,6 +155129,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch09.md",
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md",
         "wiki/concepts/political-economy-geopolitics/Colonial Racism.md",
         "wiki/concepts/political-economy-geopolitics/Nationalism.md",
         "wiki/persons/uk/Tom Nairn.md",
@@ -193419,6 +193457,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md",
         "wiki/concepts/political-economy-geopolitics/Nationalism.md",
         "wiki/persons/uk/Eric Hobsbawm.md"
       ],
@@ -216052,6 +216091,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Does research support claims about the benefits of involving parents in early intervention programs?"
+    },
+    "White, 1973": {
+      "aliases": [
+        "White, 1973",
+        "White (1973)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "White, 1973"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md"
+      ],
+      "title": ""
     },
     "White, 1986": {
       "aliases": [

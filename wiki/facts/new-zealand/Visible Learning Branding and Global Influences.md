@@ -104,10 +104,6 @@ created: '2026-05-04'
 updated: 2026-11-11
 ---
 
-（[[Visible Learning|可见的学习]]品牌化与全球影响）
-
----
-
 > [!claim] 核心定性
 > 《[[Visible Learning|可见的学习]]》（Visible Learning, VL）不仅是一项基于海量[[Meta-analysis|元分析]]的教育学术综合，更是当代教育史上规模最大的将公共科研成果转化为跨国商业培训特许、量化绩效认证与国家政策治理标准的知识商业化事件。其通过轻资产跨国授权与政策创业网络，深刻重塑了多国基础教育的治理[[Discourse|话语]]与教研生态。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. viii–ix)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 30)]]
 

@@ -13810,6 +13810,14 @@
       ],
       "title": ""
     },
+    "Braudel, 1972": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md"
+      ],
+      "title": ""
+    },
     "Braun & Clark, 2006": {
       "doi": "",
       "isbn": "",
@@ -38735,6 +38743,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md",
         "wiki/arguments/journal-articles/Comparative Education/Argument_Xu_2024_CE.md",
         "wiki/concepts/political-economy-geopolitics/Nationalism.md",
         "wiki/persons/uk/Ernest Gellner.md",
@@ -48347,6 +48356,14 @@
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Philological Revolution.md",
         "wiki/persons/uk/Eric Hobsbawm.md"
+      ],
+      "title": ""
+    },
+    "Hobsbawm, 1990": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md"
       ],
       "title": ""
     },
@@ -76697,6 +76714,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch09.md",
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md",
         "wiki/concepts/political-economy-geopolitics/Colonial Racism.md",
         "wiki/concepts/political-economy-geopolitics/Nationalism.md",
         "wiki/persons/uk/Tom Nairn.md",
@@ -99719,6 +99737,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md",
         "wiki/concepts/political-economy-geopolitics/Nationalism.md",
         "wiki/persons/uk/Eric Hobsbawm.md"
       ],
@@ -113517,6 +113536,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Does research support claims about the benefits of involving parents in early intervention programs?"
+    },
+    "White, 1973": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md"
+      ],
+      "title": ""
     },
     "White, 1986": {
       "datasets": [

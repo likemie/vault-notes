@@ -26994,7 +26994,7 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
   --dt-track:.28rem;
   --dt-gutter:1.3rem;
   --dt-node-y:1.18rem;
-  --dt-date-width:clamp(5rem,21cqi,8.5rem);
+  --dt-date-width:clamp(4.8rem,15cqi,6rem);
   --dt-rule:color-mix(in srgb,var(--text-muted) 22%,transparent);
   --dt-rail:color-mix(in srgb,var(--tf-accent) 52%,var(--background-modifier-border));
 
@@ -27082,6 +27082,7 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
       color:var(--text-normal) !important;
       white-space:normal !important;
       overflow-wrap:anywhere;
+      transform:none !important;
     }
 
     & > p { display:block !important; margin:0 !important; padding:0 !important; }
@@ -27121,9 +27122,10 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
 
       & .development-date {
         position:absolute;
-        inset:.55rem auto auto 0;
+        inset:.55rem calc(100% - var(--dt-date-width)) auto auto;
         max-width:var(--dt-date-width);
         margin:0;
+        text-align:center;
       }
     }
   }
