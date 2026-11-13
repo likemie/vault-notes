@@ -28,6 +28,7 @@ related_concepts:
   - "[[Official Nationalism]]"
   - "[[Dynastic Realm]]"
   - "[[Nationalism]]"
+  - "[[Geo-Body]]"
 related_theories: []
 related_methods:
   - "[[Historical-Comparative Method]]"
@@ -35,9 +36,11 @@ related_instruments: []
 related_persons:
   - "[[Vajiravudh]]"
   - "[[Benedict Anderson]]"
+  - "[[Thongchai Winichakul]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch06]]"
+  - "[[Argument_Anderson_2016_Verso_Ch10]]"
 confidence: high
 status: completed
 created: 2026-11-13
@@ -66,6 +69,8 @@ updated: 2026-11-13
 > - **1868** 继承王位，因年幼由摄政王摄政，期间广泛学习西方现代语言、历史与地理知识。
 > - **1870–1872** 先后访问荷属东印度巴达维亚、三宝垄以及英属海峡殖民地新加坡、槟城，随后出访英属印度，深入考察殖民行政公署与财税制度，确立引入安全治理模型的改革思路。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, p. 100)]]
 > - **1873** 亲政，旋即宣布逐步废除人身奴隶制与封建徭役制度，为推行中央财政集权奠定社会基础。
+> - **1882** 创立皇家测绘学校（Royal Survey School），引进英国与印度测量专家系统培训本土测绘技术官僚。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, p. 175)]]
+> - **1885–1892** 任命英国测绘官詹姆斯·麦卡锡（James McCarthy）为皇家测绘局总监，全面启动全国三角测量；配合内政部长丹隆亲王推行行省改制，正式将暹罗奠定在具有明确连续边界的[[Geo-Body|地理身体]]之上。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 175–177)]]
 > - **1892** 推行行政大改革，废除传统的四阁制（Chatusathom），设立内政部、财政部等十二个现代政府部委，实现官僚受薪化与中央集权。
 > - **1893** 经历法暹危机（Paknam事件），通过割让湄公河东岸老挝领地换取法国承认暹罗主权核心，确立均势缓冲国地位。
 > - **1894** 正式设立陆军部，整编常备国防军。
@@ -75,6 +80,7 @@ updated: 2026-11-13
 
 > [!work-line] 主要改革举措与制度建构
 > - **1874 — 废除奴隶制法令** 分阶段赎买与废除世袭奴隶，瓦解地方领主的人身依附网络。
+> - **1882–1892 — 全国近代三角测绘与皇家测绘学校创制** 引入西方墨卡托制图术与经纬测量，以数学国界取代传统朝贡外围带，塑造现代暹罗地理身体。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 175–177)]]
 > - **1892 — 现代部委官僚制建立** 引入受薪文官考试与现代行政层级，确立中央对各省财政税收与暴力的直接垄断。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, p. 100)]]
 > - **1890s — 大规模引进外籍劳工政策** 从中国潮汕与闽南地区引入大批单身男性劳工从事铁路基础设施建设，维持本土农业社会的非政治化。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, p. 100)]]
 
@@ -92,11 +98,13 @@ updated: 2026-11-13
 
 > [!influence-path] 影响路径
 > - **制度路径** 奠定了现代泰国的中央集权官僚体制雏形，彻底消除了封建割据形态。
+> - **空间与制图路径** 创设皇家测绘学校并推进全国三角测量，推动暹罗从传统朝贡曼陀罗网络向近代排他性主权领土国家的根本空间转型。
 > - **历史后果** 引进华人劳工政策在短期内促进了经济增长，但在进入其子拉玛六世统治期后，华人阶层的政治觉醒与经济地位激化了王室的阶级恐惧，反向诱发了以排华为焦点的官方民族主义。
 > - **理论路径** 成为安德森《想象的共同体》中论证王朝国家如何通过非大众动员方式吸收殖民治理技术的经典比较案例。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch06|Anderson (2016)]] — 系统剖析其如何选择殖民官员国家作为安全典范，以及该现代化路径对随后官方民族主义政策的铺垫。
+> - [[Argument_Anderson_2016_Verso_Ch06|Anderson (2016, Ch. 06)]] — 系统剖析其如何选择殖民官员国家作为安全典范，以及该现代化路径对随后官方民族主义政策的铺垫。
+> - [[Argument_Anderson_2016_Verso_Ch10|Anderson (2016, Ch. 10)]] — 考订其设立皇家测绘学校与推进全国三角测量的历史，揭示未殖民国家如何借助近代制图术确立排他性地理身体（pp. 175–177）。
 
 ---
 

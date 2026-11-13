@@ -10,7 +10,7 @@ summary: "印度尼西亚现当代最重要的现实主义作家与反殖民知�
 type: person
 nationality: indonesia
 person_region: "indonesia"
-person_related_count: 0
+person_related_count: 8
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
