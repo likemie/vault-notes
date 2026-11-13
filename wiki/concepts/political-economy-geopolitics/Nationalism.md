@@ -49,6 +49,9 @@ related_concepts:
   - "[[Homogeneous, Empty Time]]"
   - "[[Epistemic Infrastructure]]"
   - "[[Everyday Plebiscite]]"
+  - "[[National Biography]]"
+  - "[[Reassurance of Fratricide]]"
+  - "[[Reversed Ventriloquism]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods: []
@@ -70,6 +73,7 @@ related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch04]]"
   - "[[Argument_Anderson_2016_Verso_Ch06]]"
   - "[[Argument_Anderson_2016_Verso_Ch08]]"
+  - "[[Argument_Anderson_2016_Verso_Ch11]]"
   - "[[Argument_Anderson_2016_Verso]]"
 confidence: high
 status: active
@@ -167,6 +171,7 @@ updated: 2026-11-13
 > - **1983/2016 — 爱国主义情感动力与种族主义本质解构** 安德森在第八章系统阐明爱国主义以亲属与家园隐喻为基底，赋予民族不可选择的天然无私性与崇高感；通过国歌齐唱中的同声相应（Unisonance）将想象共同体转化为声波共鸣的身体化存在；论证语言的历史宿命演化与开放归化品格，从发生学层面将民族主义的历史命运与前现代封建贵族的种族阶级神话彻底剥离。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 145–158)]]
 > - **20世纪中期–冷战时期 — 反殖民浪潮与社会主义政权固化** 亚洲与非洲后殖民社会普遍移植模块化民族国家模型；中越与柬越武装冲突证明社会主义革命政权全面退守民族疆域。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 1–3)]]
 > - **1983年 — 模块化海盗式盗版与后革命政权密室战争** 安德森在第9章指出革命与民族主义属于无法保留专利的模块化发明；落后农业国跨阶段夺权后全盘接管旧国家电网并逆向归化古代君主，在官方民族主义与国家马基雅维利主义支配下演变为中枢策划的密室战争。[[Argument_Anderson_2016_Verso_Ch09|(Anderson, 2016, pp. 159–166)]]
+> - **1991/2006/2016 — 记忆与遗忘的自传叙事手术与去欧洲中心化传播** 安德森在第11章与后记中指出，现代民族主义为弥补革命断裂造成的集体历史失忆，借由自传技术构建溯流而上的[[National Biography|民族传记]]；通过国家教育机器的日常提醒实践勒南式“必须已经遗忘”的语法规训，将野蛮异质杀戮重构为抚慰性的[[Reassurance of Fratricide|兄弟相残]]；美洲克里奥尔社会则开创生者代言沉默死者的[[Reversed Ventriloquism|反向腹语术]]以确立土著主义深度；后记追踪该书跨国旅行轨迹，揭示边缘学者出于本土政治抗争的主动引介与创造性背叛机制。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 187–235)]]
 > - **20世纪末至今 — [[Post-Nationalism|后民族主义]]反思与新民粹复兴** 全球化与跨国移民引发去疆域化挑战，但在地缘冲突与经济波动下，防御性民族认同与边境政治再度呈现强大活力。
 
 ---
@@ -224,8 +229,11 @@ updated: 2026-11-13
 > | [[Hugh Seton-Watson]] | 人物 | 历史学家，总结自由主义科学界定困境并提出主观经验判准。 |
 > | [[Ernest Renan]] | 人物 | 提出[[Everyday Plebiscite\|每日公民投票]]与集体遗忘在民族认同维系中的核心价值。 |
 > | [[1978-1979 Indochina Armed Conflicts]] | 事实 | 击碎无产阶级国际主义教条、促成民族理论哥白尼转向的关键历史事件。 |
+> | [[National Biography]] | 概念 | 现代民族为克服世俗失忆而溯流而上构建的叙事谱系与神圣死亡收编体系。 |
+> | [[Reassurance of Fratricide]] | 概念 | 国家教育体系将古代残酷宗教屠杀收编为家庭同胞相残的抚慰性遗忘技术。 |
+> | [[Reversed Ventriloquism]] | 概念 | 知识分子与史学家以生者姿态为沉默古人代拟意图并开创土著主义的代言修辞。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 系统阐释民族起源与扩散，涵盖印刷资本主义与官方同化，并在第7章、第8章（[[Argument_Anderson_2016_Verso_Ch08]]）与第9章（[[Argument_Anderson_2016_Verso_Ch09]]）解构双重朝圣、种族主义本质分野与社会主义密室战争。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 系统阐释民族起源与扩散，涵盖印刷资本主义与官方同化，并在第7章、第8章（[[Argument_Anderson_2016_Verso_Ch08]]）、第9章（[[Argument_Anderson_2016_Verso_Ch09]]）与第11章（[[Argument_Anderson_2016_Verso_Ch11]]）解构双重朝圣、种族主义本质分野、社会主义密室战争以及记忆与遗忘的自传叙事手术。
