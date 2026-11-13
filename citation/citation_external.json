@@ -719,6 +719,8 @@
     "Alvarez-Montero et al., 2018": "Alvarez-Montero et al., 2018",
     "Alverez-Bueno et al. (2020)": "Alverez-Bueno et al., 2020",
     "Alverez-Bueno et al., 2020": "Alverez-Bueno et al., 2020",
+    "Alves (2008)": "Alves, 2008",
+    "Alves, 2008": "Alves, 2008",
     "Alvesson & Sandberg (2011)": "Alvesson & Sandberg, 2011",
     "Alvesson & Sandberg, 2011": "Alvesson & Sandberg, 2011",
     "Alvin Weinberg (1961)": "Alvin Weinberg, 1961",
@@ -5401,6 +5403,8 @@
     "Crane, 1967": "Crane, 1967",
     "Crangle (1971)": "Crangle, 1971",
     "Crangle, 1971": "Crangle, 1971",
+    "Crato (2021)": "Crato, 2021",
+    "Crato, 2021": "Crato, 2021",
     "Crawford (2011)": "Crawford, 2011",
     "Crawford (2014)": "Crawford, 2014",
     "Crawford, 2011": "Crawford, 2011",
@@ -23609,6 +23613,8 @@
     "Sutter, 2006": "Sutter, 2006",
     "Sutton & Arnove (2004)": "Sutton & Arnove, 2004",
     "Sutton & Arnove, 2004": "Sutton & Arnove, 2004",
+    "Suwardi Surjaningrat (1913)": "Suwardi Surjaningrat, 1913",
+    "Suwardi Surjaningrat, 1913": "Suwardi Surjaningrat, 1913",
     "Suyanto (1998)": "Suyanto, 1998",
     "Suyanto, 1998": "Suyanto, 1998",
     "Suárez & Bromley (2012)": "Suárez & Bromley, 2012",
@@ -33076,6 +33082,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Aerobic fitness and academic achievement: A systematic review and meta-analysis"
+    },
+    "Alves, 2008": {
+      "aliases": [
+        "Alves, 2008",
+        "Alves (2008)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Alves, 2008"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/portugal/Nuno Crato.md"
+      ],
+      "title": ""
     },
     "Alvesson & Sandberg, 2011": {
       "aliases": [
@@ -48185,7 +48206,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/persons/portugal/Nuno Crato.md"
       ],
       "title": ""
     },
@@ -58281,7 +58303,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/persons/portugal/Nuno Crato.md"
       ],
       "title": ""
     },
@@ -64107,6 +64130,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/curriculum/Curricular Governance.md",
         "wiki/persons/us/David K. Cohen.md",
         "wiki/persons/us/James P. Spillane.md"
@@ -67344,6 +67368,22 @@
       "isbn": "",
       "seen_in": [],
       "title": "An evaluative study of the northwest junior high school individualised mathematics program"
+    },
+    "Crato, 2021": {
+      "aliases": [
+        "Crato, 2021",
+        "Crato (2021)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Crato, 2021"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/persons/portugal/Nuno Crato.md"
+      ],
+      "title": ""
     },
     "Crawford, 2011": {
       "aliases": [
@@ -90120,7 +90160,10 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/curriculum/Curriculum Alignment.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/curriculum/Curriculum Alignment.md",
+        "wiki/persons/us/Andrew Porter.md",
+        "wiki/persons/us/Susan Fuhrman.md"
       ],
       "title": ""
     },
@@ -169652,7 +169695,10 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/curriculum/Curriculum Alignment.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/curriculum/Curriculum Alignment.md",
+        "wiki/persons/us/Andrew Porter.md",
+        "wiki/persons/us/Susan Fuhrman.md"
       ],
       "title": ""
     },
@@ -195167,6 +195213,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/persons/us/James P. Spillane.md"
       ],
       "title": ""
@@ -199923,6 +199970,21 @@
         "wiki/concepts/comparative-education/State Educational Sovereignty.md",
         "wiki/theories/comparative-education/Dependency Theory.md",
         "wiki/theories/comparative-education/Globalization from Below.md"
+      ],
+      "title": ""
+    },
+    "Suwardi Surjaningrat, 1913": {
+      "aliases": [
+        "Suwardi Surjaningrat, 1913",
+        "Suwardi Surjaningrat (1913)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Suwardi Surjaningrat, 1913"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch07.md"
       ],
       "title": ""
     },

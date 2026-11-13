@@ -8,7 +8,13 @@ aliases:
 summary: "美国著名教育政策学者，曾任宾夕法尼亚大学教育研究生院院长与哥伦比亚大学教师学院首任女性院长；作为美国 1990 年代系统性教育改革理论核心构建者，开创课程政策连贯性与课程治理分析框架，主张通过全州统一课程标准、教材资源、职前职后师训与学业测评的严格对齐解决公立教育碎片化困局。"
 type: person
 nationality: "us"
+person_region: "us"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1944"
+lifespan: "1944–至今"
 tags:
   - person/academic
   - region/us
@@ -17,22 +23,19 @@ tags:
   - theme/curriculum-governance
 related_concepts:
   - "[[Curriculum Alignment]]"
-  - "[[Curriculum Coherence]]"
+  - "[[Paradigm]]"
   - "[[Curricular Governance]]"
   - "[[System-Wide Improvement]]"
   - "[[High-Stakes Testing]]"
-  - "[[Instructional Core]]"
+  - "[[Academic Achievement]]"
 related_theories:
-  - "[[Backward Mapping]]"
-related_methods:
-  - "[[Policy Transfer Framework]]"
-  - "[[Documentary Analysis]]"
+  - "[[Governmentality]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Richard Elmore]]"
   - "[[Andrew Porter]]"
-related_facts:
-  - "[[Long Beach Unified School District]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Barrenechea_2023_JEC]]"
 confidence: high
@@ -45,11 +48,11 @@ updated: 2026-11-13
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代教育政策学者，政策研究教育财团（CPRE）创始主任，先后出任宾夕法尼亚大学教育研究生院院长（1995–2006）与哥伦比亚大学教师学院院长（2006–2018）。
-> - **核心角色** 美国“系统性教育改革（Systemic Educational Reform）”理论的主要奠基者与政策阐释者；针对美国公立教育系统由一万多个自治学区各自为政造成的政策碎裂化，系统提出依靠州级连贯政策环境与课程对齐（Curriculum Alignment）实现系统整体提质的治理范式。
+> - **核心角色** 美国“系统性教育改革（Systemic Educational Reform）”理论的主要奠基者与政策阐释者；针对美国公立教育系统由一万多个自治学区各自为政造成的政策碎裂化，系统提出依靠州级连贯政策环境与[[Curriculum Alignment|课程对齐]]（Curriculum Alignment）实现系统整体提质的治理[[Paradigm|范式]]。
 > - **代表贡献** 创立政策研究教育财团（CPRE）；著有《设计连贯的教育政策》（*Designing Coherent Education Policy*）；将课程治理（[[Curricular Governance]]）与全系统连贯性确立为政策设计的基石。
 
-> [!citation-card] 巴雷内切亚等论福尔曼开创课程治理与政策对齐经典传统（Barrenechea et al., 2023）
-> 全系统改进研究表明，设计能够连接宏观决策与微观实践的治理机制是一项根本性挑战。教学各组件之间的对齐（Alignment）概念是经典课程治理研究的核心所在（Fuhrman, 1993; Porter, 2002）。良好对齐的系统能够为广大一线教师提供连贯的政策指引与实践预期。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 492, 495)]]
+> [!citation-card] 巴雷内切亚等论福尔曼开创课程治理与政策对齐经典传统（[[Argument_Barrenechea_2023_JEC|Barrenechea et al., 2023]]）
+> [[System-Wide Improvement|全系统改进]]研究表明，设计能够连接宏观决策与微观实践的治理机制是一项根本性挑战。教学各组件之间的对齐（Alignment）概念是经典课程治理研究的核心所在（Fuhrman, 1993; Porter, 2002）。良好对齐的系统能够为广大一线教师提供连贯的政策指引与实践预期。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 492, 495)]]
 >
 > *The notion of alignment between different instructional components is key in classical studies of curriculum governance (Fuhrman, 1993; Porter, 2002). Well-aligned systems provide common expectations to teachers through a coherent 'curricular environment' of instruments intended to steer teaching and learning.*
 
@@ -66,14 +69,14 @@ updated: 2026-11-13
 
 > [!work-line] 主要著作
 > - **1993 — *Designing coherent education policy: Improving the system*** 系统阐释系统性教育改革核心理论著作，指出单项分散政策的相互抵消是美国公立教育停滞的病根。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 492)]]
-> - **1994 — *Systemic reform in the states*（与 Elmore 等合著）** 追踪美国多州改革实践，评估全州课程统一大纲对地方学校教学行为的引导效能。
-> - **2004 — *Ruling out failure? The promise and peril of high-stakes testing*（与 Richard Elmore 合编）** 深入辨析高利害测评政策在推动问责与引发应试窄化之间的深层张力。
+> - **1994 — *Systemic reform in the states*（与 Elmore et al. 合著）** 追踪美国多州改革实践，评估全州课程统一大纲对地方学校教学[[Governmentality|行为的引导]]效能。
+> - **2004 — *Ruling out failure? The promise and peril of [[High-Stakes Testing|high-stakes testing]]*（与 [[Richard Elmore]] 合编）** 深入辨析高利害测评政策在推动问责与引发应试窄化之间的深层张力。
 > - **2004 — *Redesigning accountability systems for education*（与 Elmore 合编）** 提出超越单一科层惩罚、构建整合专业能力与支持性资源的问责系统。
 
 ---
 
 > [!claim] 核心思想
-> 基础教育质量的普遍提升不能寄望于个别学校的自发孤立创新，必须依赖州级教育行政部门构建强有力的系统连贯性框架。唯有将宏观课程学术标准、统编教材教具、针对性在职培训以及学业表现评价实施严密对齐（Alignment），消除政策指令间的内部冲突，才能为一线学校与教师确立长期稳定的专业预期。
+> 基础教育质量的普遍提升不能寄望于个别学校的自发孤立创新，必须依赖州级教育行政部门构建强有力的系统连贯性框架。唯有将宏观课程学术标准、统编教材教具、针对性在职培训以及[[Academic Achievement|学业表现]]评价实施严密对齐（Alignment），消除政策指令间的内部冲突，才能为一线学校与教师确立长期稳定的专业预期。
 
 > [!citation-card] 福尔曼论政策连贯性与系统治理（Fuhrman, 1993）
 > 传统的教育政策往往呈现拼凑零散的状态，不同部门颁布的法规、拨款条目与教师培训项目相互冲突，使基层学校无所适从。系统性改革的精义在于‘设计连贯的政策环境’：让系统的一切规制工具围绕共同的微观教学质量目标协调运作。

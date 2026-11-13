@@ -6,7 +6,13 @@ aliases:
 summary: "葡萄牙应用数学家、统计学家与前教育与科学部部长（2011–2015）；主导了国际著名的‘葡萄牙教育奇迹’，在欧洲主权债务危机与财政紧缩背景下，推行基于结构化核心大纲、全国学段终点统测与早周期补救教学的循证改革，使葡萄牙在国际学生评估项目（PISA）中实现历史性跨周期持续攀升。"
 type: person
 nationality: "portugal"
+person_region: "portugal"
+person_related_count: 14
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1952"
+lifespan: "1952–至今"
 tags:
   - person/academic
   - person/policymaker
@@ -15,22 +21,23 @@ tags:
   - theme/pisa
   - theme/curriculum-governance
 related_concepts:
-  - "[[Curriculum Alignment]]"
-  - "[[Curriculum Coherence]]"
-  - "[[Curricular Governance]]"
-  - "[[Output-Oriented Governance]]"
-  - "[[Evidence-Based Policy-Making]]"
+  - "[[Evidence-Based Education]]"
   - "[[System-Wide Improvement]]"
-  - "[[Performative Turn]]"
-related_theories:
-  - "[[Backward Mapping]]"
-related_methods:
-  - "[[Case Study]]"
+  - "[[Determinism]]"
+  - "[[Constructivist Paradigm]]"
+  - "[[Document]]"
+  - "[[Curriculum Alignment]]"
+  - "[[Output-Oriented Governance]]"
+related_theories: []
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Andreas Schleicher]]"
 related_facts:
+  - "[[International Monetary Fund]]"
   - "[[PISA]]"
+  - "[[OECD]]"
+  - "[[World Bank]]"
   - "[[Polish Education Reform of 1999]]"
 related_arguments:
   - "[[Argument_Barrenechea_2023_JEC]]"
@@ -43,11 +50,11 @@ updated: 2026-11-13
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 葡萄牙应用数学与统计学讲座教授（里斯本大学高等经济管理学院）、循证教育倡导者，曾任葡萄牙教育与科学部部长（2011–2015）。
-> - **核心角色** 21 世纪欧洲基础教育系统改进的标志性学者型政治家；在欧洲主权债务危机及国际货币基金组织紧缩救助协议的严苛约束下，成功领导了“葡萄牙教育奇迹（Portuguese Educational Miracle）”，破除了“没有巨额追加财政投入就无法提升教育质量”的传统决定论。
-> - **代表贡献** 确立以学术严谨性为导向的结构化国家大纲；建立全国小学 4 年级、初中 6 年级与 9 年级统一外部考试；著有《改善一个国家的教育：基于 PISA 2018 的反思》（*Improving a Country's Education*）。
+> - **身份位置** 葡萄牙应用数学与统计学讲座教授（里斯本大学高等经济管理学院）、[[Evidence-Based Education|循证教育]]倡导者，曾任葡萄牙教育与科学部部长（2011–2015）。
+> - **核心角色** 21 世纪欧洲基础[[System-Wide Improvement|教育系统改进]]的标志性学者型政治家；在欧洲主权债务危机及[[International Monetary Fund|国际货币基金组织]]紧缩救助协议的严苛约束下，成功领导了“葡萄牙教育奇迹（Portuguese Educational Miracle）”，破除了“没有巨额追加财政投入就无法提升教育质量”的传统[[Determinism|决定论]]。
+> - **代表贡献** 确立以学术严谨性为导向的结构化国家大纲；建立全国小学 4 年级、初中 6 年级与 9 年级统一外部考试；著有《改善一个国家的教育：基于 [[PISA]] 2018 的反思》（*Improving a Country's Education*）。
 
-> [!citation-card] 巴雷内切亚等论克拉托将标准化测验与结构化大纲确立为提质驱动要素（Barrenechea et al., 2023）
+> [!citation-card] 巴雷内切亚等论克拉托将标准化测验与结构化大纲确立为提质驱动要素（[[Argument_Barrenechea_2023_JEC|Barrenechea et al., 2023]]）
 > 近年来的跨国全系统改进研究将视线投向了以往鲜受关注但取得长周期显著改善的中小系统，如爱沙尼亚与葡萄牙（Crato, 2021; Carvalho et al., 2017）。克拉托等学者和决策者的实证反思证实，围绕清晰的学科核心知识构建国家大纲，并依托全国统考实施及时的学业诊断与补偿支持，能够在资源有限的条件下驱动全系统整体攀升。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 482, 487)]]
 >
 > *Scholars have shifted policymakers’ and experts’ attention toward systems that had received little attention in the past, such as Estonia or Portugal (Boman, 2020; Carvalho et al., 2017)... associated with learning outcomes along the same organizations that applied standardized assessments (Alves, 2008; Crato, 2021).*
@@ -58,12 +65,12 @@ updated: 2026-11-13
 > - **1952** 出生于葡萄牙里斯本，早年在里斯本大学攻读数学，后在美国特拉华大学获得应用数学与统计学博士学位。
 > - **1990–2000年代** 在美葡两地大学长期讲授随机过程与时间序列分析，并出任葡萄牙数学学会会长，持续发表批判浪漫主义教育思潮、倡导学科知识实质内容的公共评论。
 > - **2011–2015** 在欧债危机深重时期受邀进入内阁，出任葡萄牙教育与科学部部长，全面启动结构化课程与外部问责改革。
-> - **2015年至今** 卸任后重返学术界，出任教育前沿组织（Iniciativa Educação）主任，并担任国际经合组织与世界银行的系统改进咨询顾问。
+> - **2015年至今** 卸任后重返学术界，出任教育前沿组织（Iniciativa Educação）主任，并担任国际[[OECD|经合组织]]与[[World Bank|世界银行]]的系统改进咨询顾问。
 
 ---
 
 > [!work-line] 主要著作
-> - **2006 — *Apelo às Armas pela Educação*（《为了教育的动员令》）** 尖锐批评葡萄牙公立教育长期盛行的建构主义口号与学科内容空心化，呼吁重返学科结构与严谨标准。
+> - **2006 — *Apelo às Armas pela Educação*（《为了教育的动员令》）** 尖锐批评葡萄牙公立教育长期盛行的[[Constructivist Paradigm|建构主义]]口号与学科内容空心化，呼吁重返学科结构与严谨标准。
 > - **2020 — *Data-Driven Policy in Education: Lessons from the Portuguese Miracle*** 总结如何依托国家级数据库与计量分析工具进行微观学业诊断与资源精准投放。
 > - **2021 — *Improving a Country's Education: PISA 2018 Results in Perspective*（主编）** 汇集国际比较教育与测量专家，全面解构葡萄牙基础教育改革的政策因果机制。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 482)]]
 
@@ -88,7 +95,7 @@ updated: 2026-11-13
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 将 Crato (2021) 作为跨国全系统改进实证文献的重要来源，分析葡萄牙中小系统逆势突围经验。
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 将 Crato (2021) 作为跨国全系统改进实证[[Document|文献]]的重要来源，分析葡萄牙中小系统逆势突围经验。
 
 ---
 
