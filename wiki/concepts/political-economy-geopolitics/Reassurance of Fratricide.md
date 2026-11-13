@@ -8,7 +8,7 @@ aliases:
 summary: "本尼迪克特·安德森对欧内斯特·勒南民族遗忘论述的批判性阐释。指现代民族国家通过官方历史编纂学与公共教育体系，将历史上异质群体间残酷的宗教仇杀、族群征服与领土内战，重写为同一民族家庭内部具有悲剧色彩但维系血缘连带的‘兄弟相残’，从而借由必须‘已经遗忘’的修辞命令确立民族的超历史古老性。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---

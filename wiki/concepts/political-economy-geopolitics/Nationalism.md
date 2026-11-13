@@ -7,7 +7,7 @@ aliases:
 summary: "主张政治单位与民族文化单位保持一致、将民族确立为至高政治忠诚与集体认同基石的意识形态与文化人造物。学术史呈现出原初主义、现代主义与族群象征主义的多重论争：欧内斯特·格尔纳视其为工业化对均质文化的功能性需求，本尼迪克特·安德森将其确立为依托印刷资本主义生成的想象政治共同体与模块化文化模型，艾瑞克·霍布斯鲍姆则揭示其作为统治精英发明传统以维系社会整合的制度技术。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 43
+related_count: 47
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-11
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---

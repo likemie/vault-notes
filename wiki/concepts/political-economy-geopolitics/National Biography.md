@@ -9,7 +9,7 @@ aliases:
 summary: "本尼迪克特·安德森提出的现代民族认同叙事建构理论。现代民族在经历18世纪末世俗化与革命的深刻历史断裂后产生集体失忆，进而效仿现代个人传记模式构建叙事。与个人传记沿时间顺流而下（从出生到死亡）不同，民族传记溯流而上，从当下现实投射至远古始祖，并将无名死难者中具有政治象征意义的暴力死亡重构为归属于民族自身的历史谱系。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
@@ -74,7 +74,7 @@ updated: 2026-11-13
 > [!feature] 核心要素
 > - **意识巨变与集体失忆** 18世纪末美洲与欧洲的大革命摧毁了传统王朝与神圣宗教权威，产生剧烈的时间断裂，致使社会群体无法直接体验往昔的连续性，催生出必须借助历史叙事重构身份的内在需求。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, p. 208)]]
 > - **溯流而上的时间逆构（Up Time）** 现代民族缺乏可辨识的生物起源者，因此历史学家与作家以当下民族国家为原点，逆向追溯北京人、爪哇人、亚瑟王或前哥伦布文明，将其纳入国家起源谱系。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, p. 209)]]
-> - **暴力死亡的牺牲神圣化** 民族传记拒绝将死亡等同于布罗代尔所描述的冷酷人口死亡率统计，而是从墓地中提取暗杀、处决、战争与大屠杀，将其修辞性地重铸为“我们自己的”英雄献身。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, p. 210)]]
+> - **暴力死亡的牺牲神圣化** 民族传记超越布罗代尔所描述的冷酷人口死亡率统计，直接从墓地中提取暗杀、处决、战争与大屠杀，将其修辞性地重铸为“我们自己的”英雄献身。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, p. 210)]]
 
 > [!logic-map]- 民族传记生成动力机制
 > ```mermaid
