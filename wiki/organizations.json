@@ -3290,6 +3290,13 @@
         "wiki/facts/eu/Horizon Europe.md"
       ]
     },
+    "西班牙波旁王室": {
+      "seen_in": [
+        "wiki/facts/spain/Bourbon Reforms.md",
+        "wiki/facts/spain/Expulsion of the Jesuits 1767.md",
+        "wiki/facts/spain/Royal Decree on Slaves 1789.md"
+      ]
+    },
     "Department for Science, Innovation and Technology": {
       "seen_in": [
         "wiki/facts/uk/Government Office for Science.md",
@@ -3348,12 +3355,6 @@
       "seen_in": [
         "wiki/facts/us/Education for the Age of Science 1959.md",
         "wiki/facts/us/Strengthening American Science 1958.md"
-      ]
-    },
-    "西班牙波旁王室": {
-      "seen_in": [
-        "wiki/facts/spain/Bourbon Reforms.md",
-        "wiki/facts/spain/Royal Decree on Slaves 1789.md"
       ]
     },
     "Aarhus University": {

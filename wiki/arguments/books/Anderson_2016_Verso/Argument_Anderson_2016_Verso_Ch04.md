@@ -10,7 +10,7 @@ title: "Argument_Anderson_2016_Verso_Ch04"
 argument_key: "Argument_Anderson_2016_Verso_Ch04"
 argument_display_title: "Imagined Communities: Reflections on the Origin and Spread of Nationalism · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 42
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -65,11 +65,13 @@ related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
 related_facts:
   - "[[Bourbon Reforms]]"
-  - "[[Schulen im Team]]"
   - "[[Túpac Amaru Rebellion]]"
   - "[[Haitian Revolution]]"
   - "[[Dunmore's Proclamation]]"
   - "[[Pombaline Reforms]]"
+  - "[[Royal Decree on Slaves 1789]]"
+  - "[[Jesuit Reductions]]"
+  - "[[Expulsion of the Jesuits 1767]]"
 related_arguments: []
 sources:
   - "[[books/Anderson_2016_Verso/Anderson_2016_Verso|Anderson_2016_Verso]]"
@@ -137,7 +139,7 @@ updated: 2026-11-13
 > [!citation-card] 现代民族主义与下层阶级的政治受洗
 > 真正现代意义上的民族主义的到来，是与下层阶级的政治受洗紧密相连的……尽管民族主义运动有时敌视民主，但它们在视野上无一例外都具有民粹主义色彩，并试图将下层阶级引入政治生活。其最典型的形式是：焦躁不安的中产阶级和知识分子领袖，试图唤醒并引导大众阶级的能量，以支持新建国家。（pp. 49–50）
 >
-> *The arrival of nationalism in a distinctively modern sense was tied to the political baptism of the lower classes . . . Although sometimes hostile to democracy, nationalist movements have been invariably populist in outlook and sought to induct lower classes into political life. In its most typical version, this assumed the shape of a restless middle-class and intellectual leadership trying to [[Schulen im Team|sit]] up and channel popular class energies into support for the new states.*
+> *The arrival of nationalism in a distinctively modern sense was tied to the political baptism of the lower classes . . . Although sometimes hostile to democracy, nationalist movements have been invariably populist in outlook and sought to induct lower classes into political life. In its most typical version, this assumed the shape of a restless middle-class and intellectual leadership trying to sit up and channel popular class energies into support for the new states.*
 
 > [!warrant] 平民政治受洗假说与克里奥尔寡头自保机制的理论对立
 > [[Tom Nairn|汤姆·内恩]]提出著名的[[Political Baptism of the Lower Classes|平民受洗说]]，借用基督教洗礼涤罪重生的宗教隐喻，描述传统王朝臣民向现代国家公民的主体转变。在传统王朝体制下，广大底层平民在政治上被视作纯粹的课税对象与被统治者；内恩指出，现代民族主义的发生机制在于新兴中产阶级知识分子面对全球资本主义不平衡发展的支配压力，依托通俗方言与民粹意识形态将下层阶级“邀请进入历史”，通过政治洗礼赋予其国民身份与参政意识，将群众能量转化为抵抗帝国的建国同盟军。
@@ -207,7 +209,7 @@ updated: 2026-11-13
 > 1810年独立运动爆发时，美洲革命领袖共同确立了保持1810年占有状态原则（uti possidetis），规定每一个新兴主权国家在法理上维持1810年西班牙旧帝国总督区与检审法院的领土现状。这一原则不仅使前西班牙帝国行政管辖权直接转变为独立国家的边界合法性基础，亦决定了早期超大型跨区联邦的解体命运。玻利瓦尔竭力维系的大哥伦比亚共和国仅存续了十余年，便迅速沿着旧总督辖区与检审法院边界分裂为委内瑞拉、新格拉纳达（今哥伦比亚）与厄瓜多尔三国；南方的拉普拉塔联合省同样不可避免地碎裂为今日的阿根廷、乌拉圭、巴拉圭与玻利维亚四个彼此独立的国家。这一解体进程表明，长期形成的殖民行政区划边界在土生白人心中具备远超宏大超国家联盟的现实拘束力（pp. 54–55）。
 
 > [!case] 巴拉圭瓜拉尼语印刷与耶稣会乌托邦的历史遗产
-> 在西属美洲的碎片化谱系中，巴拉圭构成了一个独特的历史孤岛。17世纪初，耶稣会士在拉普拉塔河流域深处建立了高度自治的印第安教化区，推行相对温和仁慈的神权治理，使当地瓜拉尼原住民免受西班牙殖民庄园主的残酷劳役剥削。在此期间，耶稣会士为瓜拉尼语创制了拼音文字，印行双语教理书，使瓜拉尼语破例获得了美洲罕见的[[Print-Language|印刷语言]]地位。1767年西班牙王室颁令将耶稣会士驱逐出美洲领地，巴拉圭被强行划入拉普拉塔总督区管辖；然而此时距离拉美独立战争仅剩一代人的时间，这段短暂的行政整合根本无法抹去巴拉圭独特的语言与社会传统。独立后巴拉圭迅速脱离布宜诺斯艾利斯而自立，形成了以双语印刷与孤立主义为特征的独特民族共同体（p. 66, n. 52）。
+> 在西属美洲的碎片化谱系中，巴拉圭构成了一个独特的历史孤岛。17世纪初，耶稣会士在拉普拉塔河流域深处建立了高度自治的[[Jesuit Reductions|巴拉圭耶稣会教化区]]，推行相对温和仁慈的神权治理，使当地瓜拉尼原住民免受西班牙殖民庄园主的残酷劳役剥削。在此期间，耶稣会士为瓜拉尼语创制了拼音文字，印行双语教理书，使瓜拉尼语破例获得了美洲罕见的[[Print-Language|印刷语言]]地位。1767年西班牙王室颁布[[Expulsion of the Jesuits 1767|西属美洲驱逐耶稣会令]]，将教化区解体并强行划入拉普拉塔总督区管辖；然而此时距离拉美独立战争仅剩一代人的时间，这段短暂的行政整合根本无法抹去巴拉圭独特的语言与社会传统。独立后巴拉圭迅速脱离布宜诺斯艾利斯而自立，形成了以双语印刷与孤立主义为特征的独特民族共同体（p. 66, n. 52）。
 
 > [!sub-claim] 3. 单纯的经济市场与行政划界无法自发催生神圣的国家忠诚
 

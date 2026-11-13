@@ -43755,6 +43755,19 @@
     "subtype": "policy"
   },
   {
+    "title": "Jesuit Reductions",
+    "type": "fact",
+    "path": "wiki/facts/paraguay/Jesuit Reductions.md",
+    "aliases": [
+      "巴拉圭耶稣会教化区",
+      "耶稣会传教区",
+      "Reducciones Jesuíticas",
+      "Jesuit Reductions of Paraguay",
+      "耶稣会乌托邦"
+    ],
+    "subtype": "event"
+  },
+  {
     "title": "Túpac Amaru Rebellion",
     "type": "fact",
     "path": "wiki/facts/peru/Túpac Amaru Rebellion.md",
@@ -44014,6 +44027,19 @@
       "公共资助民办学校",
       "协约中心",
       "Escuelas concertadas"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Expulsion of the Jesuits 1767",
+    "type": "fact",
+    "path": "wiki/facts/spain/Expulsion of the Jesuits 1767.md",
+    "aliases": [
+      "1767年西属美洲驱逐耶稣会",
+      "西属美洲驱逐耶稣会",
+      "1767年驱逐耶稣会",
+      "Expulsion of the Jesuits from Spanish America",
+      "Expulsión de los jesuitas de España de 1767"
     ],
     "subtype": "policy"
   },
