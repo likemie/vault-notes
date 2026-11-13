@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch08.md"
     },
     {
+      "basename": "Jose Rizal",
+      "path": "wiki/persons/philippines/Jose Rizal.md"
+    },
+    {
       "basename": "Argument_Anderson_2016_Verso_Ch07",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch07.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Screening Off",
       "path": "wiki/concepts/educational-philosophy/Screening Off.md"
-    },
-    {
-      "basename": "Argument_Popkewitz_2005_Palgrave",
-      "path": "wiki/arguments/books/Popkewitz_2005_Palgrave/Argument_Popkewitz_2005_Palgrave.md"
     }
   ],
   "omittedPaths": [],
