@@ -7,6 +7,11 @@ aliases:
 summary: "日本著名政治思想家，东京大学教授，战后日本政治学与思想史奠基人。在《想象的共同体》中，本尼迪克特·安德森征引其代表作《现代政治的思想与行动》，将其对近代日本民族意识与军国主义发生机制的剖析作为核心理论基石。丸山指出，日本长期锁国导致其缺乏国际社会的平等主权观念；明治维新后统治层将国内封建尊卑等级横向平移至国际地缘体系，使对外认知极化为征服或被征服的二元强权逻辑，深刻阐明了日本官方民族主义滑向帝国主义侵略的心理与制度根源。"
 type: person
 nationality: japan
+person_region: "japan"
+person_related_count: 8
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1914"
 died: "1996"
 lifespan: "1914–1996"

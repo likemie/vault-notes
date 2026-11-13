@@ -8,6 +8,11 @@ aliases:
   - Beamtenstaaten
 summary: "政治社会学与比较行政学经典构念，特指由受薪专业官僚、常备警察与技术科层垄断公共权力，但完全抽离代议民主、公民参政与主权平等的行政专制政体。在《想象的共同体》中，本尼迪克特·安德森将其确立为荷属东印度、英属马来亚以及暹罗朱拉隆功王朝所移植的自卫性现代化模型：统治集团借助官员国家完成税收、测绘、基础设施和公共秩序的理性化统治，并通过大规模引进无政治权利的外国契约劳工使本土传统社会保持冻结与非政治化，从而在不激活大众通俗民族主义的前提下维系统治合法性。"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/comparative-education
   - field/political-economy-geopolitics

@@ -7,6 +7,11 @@ aliases:
 summary: "日本近代激进国家主义思想家、政论家，昭和维新与二二六事件的精神思想源头。在《想象的共同体》中，本尼迪克特·安德森将其作为解剖日本官方民族主义向民间极端帝国主义异化的核心一手代表。北一辉在1924年发表代表作《日本改造法案大纲》，将阶级斗争范式平移至国际地缘体系，提出国际无产阶级侵略理论：将英美沙俄界定为垄断财富的大资产阶级与大地主，将日本界定为国际无产阶级，主张日本有权以理性社会民主之名发动正义对外战争占有领土，深刻揭示了官方民族主义如何异化为法西斯扩张意识形态。"
 type: person
 nationality: japan
+person_region: "japan"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1884"
 died: "1937"
 lifespan: "1884–1937"

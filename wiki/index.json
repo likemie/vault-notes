@@ -12922,6 +12922,18 @@
     ]
   },
   {
+    "title": "Beamtenstaat",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Beamtenstaat.md",
+    "aliases": [
+      "官员国家",
+      "官僚国家",
+      "殖民科层国家",
+      "殖民行政国家",
+      "Beamtenstaaten"
+    ]
+  },
+  {
     "title": "Beijing Consensus",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Beijing Consensus.md",
@@ -31587,6 +31599,16 @@
     ]
   },
   {
+    "title": "Lajos Kossuth",
+    "type": "person",
+    "path": "wiki/persons/hungary/Lajos Kossuth.md",
+    "aliases": [
+      "拉约什·科苏特",
+      "科苏特",
+      "Kossuth, L."
+    ]
+  },
+  {
     "title": "Paul Erdős",
     "type": "person",
     "path": "wiki/persons/hungary/Paul Erdős.md",
@@ -31754,6 +31776,26 @@
     "aliases": [
       "大前研一",
       "Ohmae, K."
+    ]
+  },
+  {
+    "title": "Kita Ikki",
+    "type": "person",
+    "path": "wiki/persons/japan/Kita Ikki.md",
+    "aliases": [
+      "北一辉",
+      "北輝次郎",
+      "Ikki Kita"
+    ]
+  },
+  {
+    "title": "Maruyama Masao",
+    "type": "person",
+    "path": "wiki/persons/japan/Maruyama Masao.md",
+    "aliases": [
+      "丸山真男",
+      "丸山眞男",
+      "Masao Maruyama"
     ]
   },
   {
@@ -32340,6 +32382,17 @@
       "Tsai, C.-C.",
       "C. C. Tsai",
       "C.-C. Tsai"
+    ]
+  },
+  {
+    "title": "Chulalongkorn",
+    "type": "person",
+    "path": "wiki/persons/thailand/Chulalongkorn.md",
+    "aliases": [
+      "朱拉隆功",
+      "拉玛五世",
+      "Rama V",
+      "King Chulalongkorn"
     ]
   },
   {
@@ -37217,6 +37270,20 @@
       "National Assessment Program - Literacy and Numeracy"
     ],
     "subtype": "program"
+  },
+  {
+    "title": "Ausgleich",
+    "type": "fact",
+    "path": "wiki/facts/austria/Ausgleich.md",
+    "aliases": [
+      "1867年奥匈折衷方案",
+      "奥匈折衷方案",
+      "1867年折衷协定",
+      "1867年奥匈妥协",
+      "Austro-Hungarian Compromise of 1867",
+      "Austro-Hungarian Compromise"
+    ],
+    "subtype": "event"
   },
   {
     "title": "Joseph II 1780s Language Decree",
