@@ -45,7 +45,6 @@ related_persons:
   - "[[David C. Mowery]]"
 related_facts:
   - "[[DARPA]]"
-  - "[[ROOTS]]"
   - "[[National Science Foundation]]"
   - "[[Ministry of International Trade and Industry]]"
   - "[[ARPANET]]"
