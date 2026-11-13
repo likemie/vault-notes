@@ -10,10 +10,10 @@ aliases:
 summary: "源于边沁建筑构想并由福柯系统阐述的微观权力理论，指出权力依托可见性的结构性非对称与潜在注视假定，将外部强制转化为被监视者的内在心理自律，广泛用于解构教育测验软件、绩效问责与数字全景监控。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 39
-theory_related_level: 3
-theory_related_stars: "💎"
-theory_related_color: "#ede9fe"
+theory_related_count: 42
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - foucault
   - panopticism

@@ -7,7 +7,7 @@ aliases:
 summary: "本尼迪克特·安德森界定民族共同体属性的核心构念，指不论现实社会内部存在何种深刻的阶级剥削与物质不平等，民族在集体心理图景中始终被表象为一种深沉平等的横向兄弟纽带；该构念为解释近现代千百万人甘愿为有限的民族想象牺牲献身提供了关键的情感与伦理基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -179,5 +179,5 @@ updated: 2026-11-13
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 界定横向情谊以解牺牲之谜（第1、2、4章），剖析殖民地同窗情谊升华（第7章），并在第8章（[[Argument_Anderson_2016_Verso_Ch08]]）论证家国隐喻与同声发音赋予的无私牺牲光环。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 系统阐明横向情谊的牺牲伦理（第1、2、4、7、8章），并在第9章（[[Argument_Anderson_2016_Verso_Ch09]]）揭示后革命国家兄弟倾轧的历史天使悖论。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 将横向情谊延伸至认知人类学与地缘科技政治，论证其在克服邓巴数限制与守卫国家技术协同攻坚中的制度防线价值（pp. 190–198）。
