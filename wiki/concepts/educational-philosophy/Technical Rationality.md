@@ -182,7 +182,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---
@@ -299,7 +299,7 @@ updated: 2026-11-11
 > **宏观政策生命周期中技术理性线性工程假说的破产与三元共生重构** 麦克唐奈与韦瑟福德通过对全美[[Common Core State Standards|共同核心州立标准]]（CCSS）运动的历时追踪，系统[[Falsification|证伪]]了公共政策领域中“科学知识直接驱动决策”的技术理性线性工程假说。技术理性预设决策者会依据高质量科研成果按图索骥制定政策，但全美课程标准的演进确证：证据的形态与政治功能随决策阶段发生权变演变（议程设置期作为开启变革的象征动员符号，方案制定阶段化为技术防卫护盾，法定采纳期聚焦于微观工具对比）。面对高阶标准因果实证[[Document|文献]]的严重空白，政策研制借助学科公理推演与一线教师专业审慎经验（[[American Federation of Teachers|AFT]] 物理剪裁、[[National Education Association|NEA]] 骨干审读）进行补位。这表明科学证据与专业经验、政治价值紧密交织为三元共生网络，具有深刻的情境依存性。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 1–3, 18–19)]]
 
 > [!claim] [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]]
-> **德语区新治理调控工具的技术理性成效缺失与理论-实践困境重现** 维罗妮卡·马尼蒂乌斯与诺伯特·范霍尔特（Veronika Manitius & Norbert van Holt, 2019）剖析了德语区新治理调控工具背后的技术理性假定。政策系统设想通过标准化统考（如全域比较联考（[[Vergleichsarbeiten]], VERA））与学校外部督导（Schulinspektion, SI）生成监测数据，并以此向单体学校回传以倒逼教学质量改进。然而，实证研究证实这种手段-目的式的直接技术回传在单体学校普遍面临成效缺失（mangelnde Effekte），并未自发转化为微观教学行为的改善。这一实践失败表明，将宏观监测数据直接等同于微观改进处方的技术理性自动调控假定不仅严重脱离学校复杂生态，更让经典的理论-实践问题（Theorie-[[Praxis]]-Problem）在新治理技术包装下再次重现。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 9)]]
+> **德语区新治理调控工具的技术理性成效缺失与理论-实践困境重现** 维罗妮卡·马尼蒂乌斯与诺伯特·范霍尔特（Veronika Manitius & Norbert van Holt, 2019）剖析了德语区新治理调控工具背后的技术理性假定。政策系统设想通过标准化统考（如全域比较联考（[[Vergleichsarbeiten]], VERA））与学校外部督导（Schulinspektion, SI）生成监测数据，再将数据反馈给各校，预期学校会据此改进教学。然而，实证研究证实这种手段-目的式的直接技术回传在单体学校普遍面临成效缺失（mangelnde Effekte），并未自发转化为微观教学行为的改善。这一实践失败表明，将宏观监测数据直接等同于微观改进处方的技术理性自动调控假定不仅严重脱离学校复杂生态，更让经典的理论-实践问题（Theorie-[[Praxis]]-Problem）在新治理技术包装下再次重现。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 9)]]
 
 > [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] / Rose (1999)
 > **[[Transnational Education|跨国教育]]治理中技术理性对政治哲学辩论的替代与数字去政治化霸权** [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]系统剖析了冷战后[[OECD|经合组织]]如何通过技术官僚理性完成全球教育治理集权。自 20 世纪 90 年代中期起，经合组织内部关于教育多重目的与社会民主主义条件的哲学辩论被全面边置，取而代之的是由秘书处主导的跨国绩效监测、协调管理与行政优先事项的技术设定；这种技术理性以实证主义投入-产出系统为模型，将教育窄化为服务于[[Knowledge-Based Economy|知识经济]]与[[Competitiveness|国家竞争力]]的经济效率工具。借助[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose, 1999）的“数字即政策”学说，里兹维与林加德揭示跨国指标与 [[PISA]] 评测背后的技术理性不仅未消除价值预设，反而以无可争议的客观数字表象，隐蔽了指标编制背后的新自由主义规范性决断，制造出技术压倒政治、效率置换哲学的跨国技术官僚霸权。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–442, 447–448)]]
@@ -432,7 +432,7 @@ updated: 2026-11-11
 > - [[Argument_Helgetun_2022_JEdPolicy|Helgetun and Menter (2022)]] — 剖析英格兰教师教育改革中技术理性的认识论断裂，揭示证据作为合理化神话在政策逆向生产中的政治把关功能。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 思想史批判指出战后实证转型以技术官僚理性取代历史-哲学-文化传统，将教育异化为狭隘的学校技能规训。
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 剖析美国卓越阅读法案立法中的技术理性规制机制，揭示法定科学本位研究如何剥夺教师专业判断并掩盖利益垄断。
-> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 审视德语区全域统考与[[School Inspection|学校督导]]的技术理性成效缺失，揭示数据自动倒逼改进假说的破产与理论-实践困境重现。
+> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 审视德语区全域统考与[[School Inspection|学校督导]]的技术理性成效缺失，揭示学校收到数据便会自行改进教学的假说的破产与理论-实践困境重现。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 剖析国际机构推行普适社会技术（教育规划、课程）的技术理性机制，揭示其如何塑造中立客观专家形象并去政治化掩盖冲突。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 剖析欧盟开放协调法（OMC）全景敞视网络中，成员国教育部与专家群体如何将以可就业性与绩效产出为核心的技术官僚理性内化为政策常模与自我规训机制（pp. 487, 492–493）。
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 比较北欧三国改革政策起草实践，实证揭示行政默会知识、学术社交网络与后置合法化需求对客观系统检索假说的替代，系统解构[[Evidence-Based Policy-Making|循证政策制定]]的技术理性神话。

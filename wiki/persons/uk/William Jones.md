@@ -9,7 +9,7 @@ summary: "英国东方学家、比较语文学先驱与法学家，加尔各答�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 16
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

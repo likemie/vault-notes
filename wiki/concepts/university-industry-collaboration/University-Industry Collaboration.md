@@ -132,7 +132,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---
@@ -191,7 +191,7 @@ updated: 2026-11-11
 > **产学界面与非线性价值共生** 产学合作涉及大学与产业在[[Knowledge Production|知识生产]]全过程中的双向重组与能力互嵌。
 
 > [!claim] Boccanfuso & Hall
-> **产学参与确立多维回报与组织界面共生** 产学合作的力量与影响力建立在研究与学术、教育与学习、公共效益三个维度的深度参与之上。在产学界面上，企业的工程现实难题倒逼大学开展高水平前沿探索，而大学的基础研究突破为企业开辟全新产业赛道，彻底推翻了基础到应用的单向线性假说。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 4–5)]]
+> **产学参与确立多维回报与组织界面共生** 产学合作的力量与影响力建立在研究与学术、教育与学习、公共效益三个维度的深度参与之上。在产学界面上，企业遇到的实际工程难题促使大学开展高水平前沿研究，而大学的基础研究突破为企业开辟全新产业赛道，彻底推翻了基础到应用的单向线性假说。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 4–5)]]
 
 > [!claim] Swick & Jones
 > **终端用户中心视角重构多元主体[[Return on Investment|投资回报]]** 大学追求学术声誉，企业追求商业利润，临床医疗机构追求诊疗质量；三方在投资回报（ROI）定义上的差异构成了合作需要协调的条件。只要通过“终端用户与患者获益”的整合视角，便能实现单一组织无法独立达成的系统性创新突破。[[Argument_Swick_Jones_2025_AcademicHealthSystems|(Swick & Jones, 2025, pp. 191–192)]]

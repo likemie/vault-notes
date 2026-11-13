@@ -36954,6 +36954,20 @@
     "subtype": "organization"
   },
   {
+    "title": "Franco-Vietnamese Schools",
+    "type": "fact",
+    "path": "wiki/facts/asia/Franco-Vietnamese Schools.md",
+    "aliases": [
+      "法越学校制",
+      "越南国语字推广政策",
+      "1917年公共教育法典",
+      "法越学校体制",
+      "Code of Public Instruction of 1917",
+      "Franco-Vietnamese Educational System"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "SEA-PLM",
     "type": "fact",
     "path": "wiki/facts/asia/SEA-PLM.md",
@@ -39341,6 +39355,19 @@
       "EU Youth Guarantee"
     ],
     "subtype": "program"
+  },
+  {
+    "title": "1891 Swiss Jubilee",
+    "type": "fact",
+    "path": "wiki/facts/europe/1891 Swiss Jubilee.md",
+    "aliases": [
+      "1891年瑞士联邦庆典",
+      "1891年瑞士建国六百周年庆典",
+      "瑞士1891年建国神话确立",
+      "Swiss Jubilee of 1891",
+      "600th Anniversary of the Swiss Confederation"
+    ],
+    "subtype": "event"
   },
   {
     "title": "Community Innovation Survey",

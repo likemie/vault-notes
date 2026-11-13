@@ -8617,6 +8617,8 @@
     "Gadzella & Penland, 1995": "Gadzella & Penland, 1995",
     "Gage (1989)": "Gage, 1989",
     "Gage, 1989": "Gage, 1989",
+    "Gail Paradise Kelly (1978)": "Gail Paradise Kelly, 1978",
+    "Gail Paradise Kelly, 1978": "Gail Paradise Kelly, 1978",
     "Gairín Sallán (2015)": "Gairín Sallán, 2015",
     "Gairín Sallán, 2015": "Gairín Sallán, 2015",
     "Gajda et al. (1997)": "Gajda et al., 1997",
@@ -90920,6 +90922,21 @@
       ],
       "title": ""
     },
+    "Gail Paradise Kelly, 1978": {
+      "aliases": [
+        "Gail Paradise Kelly, 1978",
+        "Gail Paradise Kelly (1978)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Gail Paradise Kelly, 1978"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/asia/Franco-Vietnamese Schools.md"
+      ],
+      "title": ""
+    },
     "Gairín Sallán, 2015": {
       "aliases": [
         "Gairín Sallán, 2015",
@@ -111279,7 +111296,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch07.md"
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch07.md",
+        "wiki/facts/europe/1891 Swiss Jubilee.md"
       ],
       "title": ""
     },
@@ -142503,7 +142521,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch07.md"
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch07.md",
+        "wiki/facts/asia/Franco-Vietnamese Schools.md"
       ],
       "title": ""
     },
