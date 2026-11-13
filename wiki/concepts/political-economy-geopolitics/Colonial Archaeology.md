@@ -42,7 +42,7 @@ updated: 2026-11-13
 > - **边界** 聚焦于殖民与后殖民国家意识形态驱动下的古代遗迹重塑工程，不适用于前现代纯粹基于宗教热忱的庙宇修缮，亦不适用于无政治合法性诉求的纯技术性地层学发掘。
 
 > [!citation-card] 安德森论殖民古迹世俗权标化与祖先谱系复制
-> 考古遗址的修复工作并非孤立的学术行动，而是服务于殖民国家意识形态构想的核心程序。通过将古代宗教圣地转变为附设修剪草坪与解说标牌的国家古迹，殖民官员以古代伟大文明监护人自居；大画幅摄影与豪华画册则把不同宗教风格的建筑汇编为世俗国家的图像化谱系，使后继政权得以无缝继承这套可无限复制的祖先权标。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 184–187)]]
+> 考古遗址的修复工程直接服务于殖民国家的意识形态构想。通过将古代宗教圣地转变为附设修剪草坪与解说标牌的国家古迹，殖民官员以古代伟大文明监护人自居；大画幅摄影与豪华画册则把不同宗教风格的建筑汇编为世俗国家的图像化谱系，使后继政权得以无缝继承这套可无限复制的祖先权标。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 184–187)]]
 >
 > *The archaeological efforts were not merely academic; they were ideological programs. By turning ancient religious sites into state monuments complete with manicured lawns and explanatory plaques, colonial officials positioned themselves as guardians of an ancient, vanished greatness. Large-format photography and lavish albums assembled disparate religious styles into an iconography of secular state ancestry, readily inherited by successor postcolonial regimes.*
 
