@@ -98,7 +98,7 @@ related_facts:
   - "[[Success for All]]"
   - "[[QuickReads]]"
   - "[[Fraction Face-Off!]]"
-  - "[[ROOTS]]"
+  - "[[ROOTS Math]]"
   - "[[Reading Recovery]]"
   - "[[Sound Partners]]"
   - "[[Number Rockets]]"
@@ -170,7 +170,7 @@ updated: 2026-11-11
 > [!index-table] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
-> | **教学干预层级**<br>（Intervention Tiers） | 依据干预范围、组织形式与支持强度划分的层级化教学服务结构。 | **Tier 1 全班教学** [[Success for All\|全员成功方案（Success for All, SFA）]]、[[Direct Instruction\|直接教学（Direct Instruction, DI）]]、[[Cooperative Integrated Reading and Composition\|合作整合阅读与写作（Cooperative Integrated Reading and Composition, CIRC）]]；<br>**Tier 2 小组辅导**（1:2–6）：[[QuickReads\|Quick Reads]]、[[Fraction Face-Off!]]、[[ROOTS]]；<br>**Tier 3 个别辅导**（1:1）：[[Reading Recovery]]、[[Sound Partners]]、[[Number Rockets]]。 |
+> | **教学干预层级**<br>（Intervention Tiers） | 依据干预范围、组织形式与支持强度划分的层级化教学服务结构。 | **Tier 1 全班教学** [[Success for All\|全员成功方案（Success for All, SFA）]]、[[Direct Instruction\|直接教学（Direct Instruction, DI）]]、[[Cooperative Integrated Reading and Composition\|合作整合阅读与写作（Cooperative Integrated Reading and Composition, CIRC）]]；<br>**Tier 2 小组辅导**（1:2–6）：[[QuickReads\|Quick Reads]]、[[Fraction Face-Off!]]、[[ROOTS Math\|ROOTS]]；<br>**Tier 3 个别辅导**（1:1）：[[Reading Recovery]]、[[Sound Partners]]、[[Number Rockets]]。 |
 > | **法定证据等级**<br>（ESSA Evidence Tiers） | 《每一个学生成功法》（ESSA 2015）法定因果证据四级判定体系。 | **Tier 1 强证据（Strong）** 至少 1 项方法严谨的[[Randomised Controlled Trials\|随机对照试验（Randomised Controlled Trial, RCT）]]且效应显著正向；<br>**Tier 2 中等证据（Moderate）** 至少 1 项优质准实验设计（Quasi-Experimental Design, QED）研究；<br>**Tier 3 有希望证据（Promising）** 控制选择偏误的相关研究；<br>**Tier 4 展示合理逻辑（Demonstrates a Rationale）** 具备研究支撑的逻辑模型。 |
 > | **辅导执行人员类型**<br>（Tutor Delivery Agent） | 承担小组或个别辅导的师资专业属性与人力成本层级。 | **认证教师** 专职阅读或数学辅导教师；<br>**教学[[Teaching Assistant\|助教（Teaching Assistant, TA）]]** 经 1–2 天结构化培训并使用脚本教材的非认证助教；<br>**有偿志愿者** 如 SPARK Literacy 项目中的受训志愿者。 |
 > | **结局测量与研究质控**<br>（Outcome & Quality Constraints） | 判定干预方案有效性的方法学质量基准。 | **测量工具** 独立标准化测验（如 Woodcock-Johnson、Gates-MacGinitie、州统一学业测试），严禁研究者自编测验；<br>**质控标准** 干预周期 $\ge 12$ 周、[[Evaluator Independence\|第三方独立评估]]、[[Preregistration\|预注册]]、[[Hierarchical Linear Model\|多层线性模型（Hierarchical Linear Model, HLM）]]聚类校正。 |
@@ -343,7 +343,7 @@ updated: 2026-11-11
 > |---|---|---|---|---|---|---|
 > | **小组辅导：专业教师（Tier 2）** | [[Number Rockets]] | 1 年级 | 1:2–3 小组 | 1 项 | $+0.34$ | 强证据（Strong） |
 > | **小组辅导：教学助教（Tier 2）** | [[Fraction Face-Off!]] | 4 年级 | 1:2 小组 | 2 项 | $+0.51$ | 强证据（Strong） |
-> | **小组辅导：教学助教（Tier 2）** | [[ROOTS]] | 1 年级 | 1:2–5 小组 | 2 项 | $+0.24$ | 强证据（Strong） |
+> | **小组辅导：教学助教（Tier 2）** | [[ROOTS Math\|ROOTS]] | 1 年级 | 1:2–5 小组 | 2 项 | $+0.24$ | 强证据（Strong） |
 > | **小组辅导：教学助教（Tier 2）** | [[FocusMath]] | 3, 5 年级 | 1:6–8 小组 | 1 项 | $+0.24$ | 强证据（Strong） |
 > | **一对一辅导：专业教师（Tier 3）** | [[Numbers Count]] | 1–2 年级 | 1:1 个别 | 1 项 | $+0.33$ | 强证据（Strong） |
 > | **一对一辅导：专业教师（Tier 3）** | [[Math Recovery]] | 1 年级 | 1:1 个别 | 1 项 | $+0.24$ | 中等证据（Moderate） |

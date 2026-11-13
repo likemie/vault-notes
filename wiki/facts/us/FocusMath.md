@@ -43,7 +43,7 @@ related_facts:
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Evidence for ESSA]]"
-  - "[[ROOTS]]"
+  - "[[ROOTS Math]]"
   - "[[Fraction Face-Off!]]"
 related_arguments:
   - "[[Argument_Slavin_2019_EducPsychol]]"
@@ -114,5 +114,5 @@ updated: 2026-11-11
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 FocusMath 列为初等数学 Tier 2 助教小组辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，展示如何依托不同师生比的助教小组在 Tier 2 阶段构筑高性价比防线。
-> - [[ROOTS]] — 同属小学数学 Tier 2 助教小组辅导强证据方案，聚焦一年级超早期数感建构。
+> - [[ROOTS Math]] — 同属小学数学 Tier 2 助教小组辅导强证据方案，聚焦一年级超早期数感建构。
 > - [[Fraction Face-Off!]] — 范德堡大学研发的四年级助教小组分数干预方案，共同构筑小学数学循证阶梯。

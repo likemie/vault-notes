@@ -95,7 +95,7 @@ related_facts:
   - "[[Reading Recovery]]"
   - "[[Reading Rescue]]"
   - "[[Fraction Face-Off!]]"
-  - "[[ROOTS]]"
+  - "[[ROOTS Math]]"
   - "[[Numbers Count]]"
 related_arguments:
   - "[[Argument_Slavin_2002_ER]]"
@@ -266,7 +266,7 @@ updated: 2026-11-11
 > | [[Argument_Slavin_2019_EducPsychol\|May et al. (2016, as cited in Slavin, 2019, p. 24)]] | ES | <span class="mx-bar ef-bar" title="ES +0.42"><span class="b8"></span></span>+0.42 | $p < .05$（ESSA 强证据） | 教师一对一辅导：[[Reading Recovery]] vs 常态教学 | 1 年级阅读成就 | 4 项试验 | — | 专业教师一对一辅导，成本较高但效果稳定 |
 > | [[Argument_Slavin_2019_EducPsychol\|Jacob et al. (2016, as cited in Slavin, 2019, p. 24)]] | ES | <span class="mx-bar ef-bar" title="ES +0.81"><span class="b16"></span></span>+0.81 | $p < .05$（ESSA 中等证据） | 助教一对一辅导：[[Reading Rescue]] vs 常态教学 | 1 年级阅读成就 | 1 项试验 | — | 教学助教一对一密集阅读辅导 |
 > | [[Argument_Slavin_2019_EducPsychol\|Fuchs et al. (2013, as cited in Slavin, 2019, p. 25)]] | ES | <span class="mx-bar ef-bar" title="ES +0.51"><span class="b10"></span></span>+0.51 | $p < .05$（ESSA 强证据） | 助教小组辅导：[[Fraction Face-Off!]] vs 常态教学 | 4 年级分数计算与概念 | 2 项试验 | — | 助教指导的小组分数针对性强化干预 |
-> | [[Argument_Slavin_2019_EducPsychol\|Clarke et al. (2016, as cited in Slavin, 2019, p. 25)]] | ES | <span class="mx-bar ef-bar" title="ES +0.24"><span class="b5"></span></span>+0.24 | $p < .05$（ESSA 强证据） | 助教小组辅导：[[ROOTS]] vs 常态教学 | 1 年级数学基础能力 | 2 项试验 | — | 早期数学概念与数字感小组干预 |
+> | [[Argument_Slavin_2019_EducPsychol\|Clarke et al. (2016, as cited in Slavin, 2019, p. 25)]] | ES | <span class="mx-bar ef-bar" title="ES +0.24"><span class="b5"></span></span>+0.24 | $p < .05$（ESSA 强证据） | 助教小组辅导：[[ROOTS Math\|ROOTS]] vs 常态教学 | 1 年级数学基础能力 | 2 项试验 | — | 早期数学概念与数字感小组干预 |
 > | [[Argument_Slavin_2019_EducPsychol\|Torgerson et al. (2011, as cited in Slavin, 2019, p. 25)]] | ES | <span class="mx-bar ef-bar" title="ES +0.33"><span class="b7"></span></span>+0.33 | $p < .05$（ESSA 强证据） | 教师一对一辅导：[[Numbers Count]] vs 常态教学 | 1–2 年级数学成就 | 1 项试验 | — | 专业数学教师一对一干预 |
 > | [[Argument_Slavin_2019_EducPsychol\|Fuchs et al. (2008, as cited in Slavin, 2019, p. 25)]] | ES | <span class="mx-bar ef-bar" title="ES +0.42"><span class="b8"></span></span>+0.42 | $p < .05$（ESSA 强证据） | 助教一对一辅导：Tutor-Assisted Math [[Problem Solving]] vs 常态教学 | 3 年级数学问题解决 | 1 项试验 | — | 助教辅导数学应用题与问题解决 |
 

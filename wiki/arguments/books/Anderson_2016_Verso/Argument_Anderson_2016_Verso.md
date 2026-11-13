@@ -43,8 +43,7 @@ related_persons:
   - "[[Jose Rizal]]"
   - "[[Tom Nairn]]"
   - "[[Arthur de Gobineau]]"
-related_facts:
-  - "[[ROOTS]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch01]]"
   - "[[Argument_Anderson_2016_Verso_Ch08]]"

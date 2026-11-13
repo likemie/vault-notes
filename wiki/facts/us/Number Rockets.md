@@ -48,7 +48,7 @@ related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Fraction Face-Off!]]"
-  - "[[ROOTS]]"
+  - "[[ROOTS Math]]"
 related_arguments:
   - "[[Argument_Slavin_2019_EducPsychol]]"
 confidence: high
@@ -121,4 +121,4 @@ updated: 2026-11-11
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释 Number Rockets 在 Tier 2 小组防线中的精准预防机制。
 > - [[Response to Intervention]] — RTI 母概念条目，Number Rockets 作为全美数学 RTI 的开山实证典范收录其中。
 > - [[Fraction Face-Off!]] — 同属 Fuchs 团队研发的四年级数学分数干预强证据方案。
-> - [[ROOTS]] — 同属一年级早期数学 Tier 2 强证据方案，二者构成教师执教 vs 助教执教的双璧对照。
+> - [[ROOTS Math]] — 同属一年级早期数学 Tier 2 强证据方案，二者构成教师执教 vs 助教执教的双璧对照。

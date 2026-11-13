@@ -57,8 +57,7 @@ related_persons:
   - "[[Tom Nairn]]"
   - "[[Peter Thiel]]"
   - "[[Henry Kissinger]]"
-related_facts:
-  - "[[ROOTS]]"
+related_facts: []
 status: draft
 created: 2026-11-13
 updated: 2026-11-13
@@ -163,7 +162,7 @@ updated: 2026-11-13
 > [!citation-card] 民族主义文化表达中仇恨成分的缺失
 > 在进步、世界主义知识分子（特别是在欧洲）习惯于坚称民族主义具有近乎病态的特征、源于对异者的恐惧与仇恨、并与种族主义具有亲缘性的时代，提醒我们自己民族能够激发起爱（并且往往是极其深刻的自我牺牲之爱）是大有裨益的。民族主义的文化产物（诗歌、散文小说、音乐与造型艺术）在成千上万种不同形式与风格中清晰展现了这种爱。反过来，要在相应的民族主义产物中找到表达恐惧与厌恶的作品，是何等罕见。即便面对殖民地人民，他们有充分的理由对帝国主义统治者怀抱仇恨，但在这些民族情感的表述中，仇恨成分之微不足道令人惊叹 (pp. 145–146)。
 >
-> *In an age when it is so common for progressive, cosmopolitan intellectuals (particularly in Europe?) to insist on the near-pathological character of nationalism, its [[ROOTS|roots]] in fear and hatred of the Other, and its affinities with racism, it is useful to remind ourselves that nations inspire love, and often profoundly self-sacrificing love. The cultural products of nationalism – poetry, prose fiction, music, plastic arts – show this love very clearly in thousands of different forms and styles. On the other hand, how truly rare it is to find analogous nationalist products expressing fear and loathing. Even in the case of colonized peoples, who have every reason to feel hatred for their imperialist rulers, it is astonishing how insignificant the element of hatred is in these expressions of national feeling.*
+> *In an age when it is so common for progressive, cosmopolitan intellectuals (particularly in Europe?) to insist on the near-pathological character of nationalism, its roots in fear and hatred of the Other, and its affinities with racism, it is useful to remind ourselves that nations inspire love, and often profoundly self-sacrificing love. The cultural products of nationalism – poetry, prose fiction, music, plastic arts – show this love very clearly in thousands of different forms and styles. On the other hand, how truly rare it is to find analogous nationalist products expressing fear and loathing. Even in the case of colonized peoples, who have every reason to feel hatred for their imperialist rulers, it is astonishing how insignificant the element of hatred is in these expressions of national feeling.*
 
 ---
 

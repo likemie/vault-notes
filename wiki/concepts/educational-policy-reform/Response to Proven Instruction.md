@@ -58,7 +58,7 @@ related_facts:
   - "[[Start Making a Reader Today]]"
   - "[[Number Rockets]]"
   - "[[Fraction Face-Off!]]"
-  - "[[ROOTS]]"
+  - "[[ROOTS Math]]"
   - "[[FocusMath]]"
   - "[[Numbers Count]]"
   - "[[Math Recovery]]"
@@ -195,7 +195,7 @@ updated: 2026-11-03
 > |---|---|---|---|---|---|---|
 > | **小组辅导：教师（Tier 2）** | [[Number Rockets]] | 1 年级 | 认证教师 | 1 项 | $+0.34$ | 强证据（Strong） |
 > | **小组辅导：助教（Tier 2）** | [[Fraction Face-Off!]] | 4 年级 | 教学助教 | 2 项 | $+0.51$ | 强证据（Strong） |
-> | **小组辅导：助教（Tier 2）** | [[ROOTS]] | 1 年级 | 教学助教 | 2 项 | $+0.24$ | 强证据（Strong） |
+> | **小组辅导：助教（Tier 2）** | [[ROOTS Math\|ROOTS]] | 1 年级 | 教学助教 | 2 项 | $+0.24$ | 强证据（Strong） |
 > | **小组辅导：助教（Tier 2）** | [[FocusMath]] | 3, 5 年级 | 教学助教 | 1 项 | $+0.24$ | 强证据（Strong） |
 > | **一对一辅导：教师（Tier 3）** | [[Numbers Count]] | 1–2 年级 | 认证教师 | 1 项 | $+0.33$ | 强证据（Strong） |
 > | **一对一辅导：教师（Tier 3）** | [[Math Recovery]] | 1 年级 | 认证教师 | 1 项 | $+0.24$ | 中等证据（Moderate） |
