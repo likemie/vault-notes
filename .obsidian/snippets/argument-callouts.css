@@ -27378,3 +27378,302 @@ html body .callout.callout.callout.callout.callout[data-callout="entry-map"] > .
     & tbody td { transition:background-color 160ms ease !important; }
   }
 }
+
+/* ═══════════════════════════════════════════════════════════
+   V3 · THREE DISTINCT IDENTITIES — theory-position / dev-timeline / entry-map
+   POSITION  = 档案卡 dossier：纸面叠影、虚线账本行、大号半透明序号
+   DEVELOPMENT = 编年卷 chronicle：双线外框、羊皮纸光晕、竖向时间脊
+   ENTRY MAP = 目录卡 catalog：索引表头、按类型着色的左侧色条
+   ═══════════════════════════════════════════════════════════ */
+
+/* ─── POSITION · 档案卡 ─────────────────────────────────── */
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"] {
+  --vx-accent: #5f7f66;
+  --vx-ink: #3d5e47;
+  --vx-paper: #fbfbf6;
+  --vx-rule: color-mix(in srgb, var(--vx-accent) 24%, transparent);
+  position: relative !important;
+  margin: 1.1rem 0.35rem 1.3rem 0.1rem !important;
+  padding: 1.3rem 1.5rem 1.05rem !important;
+  border: 1px solid color-mix(in srgb, var(--vx-accent) 26%, transparent) !important;
+  border-top: 3px solid var(--vx-accent) !important;
+  border-radius: 4px 14px 14px 4px !important;
+  background:
+    linear-gradient(90deg, color-mix(in srgb, var(--vx-accent) 8%, transparent), transparent 34%),
+    var(--vx-paper) !important;
+  box-shadow: 7px 8px 0 -1px color-mix(in srgb, var(--vx-accent) 10%, transparent),
+              0 1px 0 var(--vx-rule) !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"] > .callout-title {
+  padding: 0 0 0.9rem !important;
+  border: 0 !important;
+  background: none !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"] > .callout-title .callout-title-inner::before {
+  color: var(--vx-accent) !important;
+  letter-spacing: 0.22em !important;
+  font-weight: 700 !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"] > .callout-content > :is(ul, ol) {
+  display: flex !important;
+  flex-direction: column !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  background: none !important;
+  list-style: none !important;
+  counter-reset: vxpos;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"] > .callout-content > :is(ul, ol) > li {
+  counter-increment: vxpos;
+  position: relative !important;
+  display: block !important;
+  margin: 0 !important;
+  padding: 0.8rem 3.4rem 0.85rem 0 !important;
+  border: 0 !important;
+  border-bottom: 1px dashed var(--vx-rule) !important;
+  background: none !important;
+  box-shadow: none !important;
+  color: var(--text-muted) !important;
+  font-size: 0.92em !important;
+  line-height: 1.72 !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"] > .callout-content > :is(ul, ol) > li:last-child {
+  margin-top: 0.3rem !important;
+  padding: 1rem 1.1rem 1rem 1.1rem !important;
+  border: 0 !important;
+  border-left: 3px solid var(--vx-accent) !important;
+  border-radius: 0 10px 10px 0 !important;
+  background: color-mix(in srgb, var(--vx-accent) 7%, transparent) !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"] > .callout-content > :is(ul, ol) > li::before {
+  content: none !important;
+  display: none !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"] > .callout-content > :is(ul, ol) > li::after {
+  content: counter(vxpos, decimal-leading-zero) !important;
+  position: absolute !important;
+  right: 0.2rem !important;
+  top: 0.35rem !important;
+  left: auto !important;
+  width: auto !important;
+  height: auto !important;
+  border: 0 !important;
+  background: none !important;
+  box-shadow: none !important;
+  color: color-mix(in srgb, var(--vx-accent) 22%, transparent) !important;
+  font-family: var(--font-monospace, ui-monospace, monospace) !important;
+  font-size: 1.9rem !important;
+  font-weight: 300 !important;
+  line-height: 1 !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"] > .callout-content > :is(ul, ol) > li:last-child::after {
+  top: 0.7rem !important;
+  right: 0.9rem !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"] > .callout-content > :is(ul, ol) > li > strong:first-of-type {
+  display: block !important;
+  margin: 0 0 0.12rem !important;
+  padding: 0 !important;
+  border: 0 !important;
+  background: none !important;
+  color: var(--vx-ink) !important;
+  font-size: 0.96em !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.04em !important;
+  white-space: normal !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"] > .callout-content > :is(ul, ol) > li:last-child > strong:first-of-type {
+  font-size: 1em !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="theory-position"]:where(.theme-dark *) {
+  --vx-accent: #a3c7ad;
+  --vx-ink: #d2ead9;
+  --vx-paper: #1f2420;
+}
+
+/* ─── DEVELOPMENT · 编年卷 ──────────────────────────────── */
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] {
+  --vx-accent: #9a7b3f;
+  --vx-ink: #6f5623;
+  --vx-paper: #fdfaf1;
+  position: relative !important;
+  margin: 1.2rem 0.6rem 1.5rem !important;
+  padding: 1.4rem 1.5rem 1.2rem !important;
+  border: 1px solid color-mix(in srgb, var(--vx-accent) 45%, transparent) !important;
+  border-radius: 14px !important;
+  outline: 1px solid color-mix(in srgb, var(--vx-accent) 22%, transparent) !important;
+  outline-offset: 5px !important;
+  background:
+    radial-gradient(120% 60% at 100% 0%, color-mix(in srgb, var(--vx-accent) 14%, transparent), transparent 60%),
+    var(--vx-paper) !important;
+  box-shadow: none !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-title {
+  padding: 0 0 0.9rem !important;
+  border: 0 !important;
+  background: none !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-title .callout-title-inner::before {
+  color: var(--vx-accent) !important;
+  letter-spacing: 0.24em !important;
+  font-weight: 700 !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-content > :is(ul, ol) {
+  position: relative !important;
+  margin: 0 !important;
+  padding: 0 0 0 1.9rem !important;
+  border: 0 !important;
+  background: none !important;
+  list-style: none !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-content > :is(ul, ol)::before {
+  content: "" !important;
+  position: absolute !important;
+  left: 0.42rem !important;
+  top: 0.6rem !important;
+  bottom: 0.6rem !important;
+  width: 1px !important;
+  background: linear-gradient(to bottom, var(--vx-accent), color-mix(in srgb, var(--vx-accent) 20%, transparent)) !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-content > :is(ul, ol) > li {
+  position: relative !important;
+  display: block !important;
+  margin: 0 !important;
+  padding: 0 0 1.25rem !important;
+  border: 0 !important;
+  background: none !important;
+  box-shadow: none !important;
+  list-style: none !important;
+  color: var(--text-muted) !important;
+  font-size: 0.92em !important;
+  line-height: 1.7 !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-content > :is(ul, ol) > li:last-child {
+  padding-bottom: 0 !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-content > :is(ul, ol) > li::marker,
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-content > :is(ul, ol) > li > .list-bullet {
+  display: none !important;
+  content: "" !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-content > :is(ul, ol) > li::before {
+  content: "" !important;
+  display: block !important;
+  position: absolute !important;
+  left: -1.56rem !important;
+  top: 0.42rem !important;
+  width: 11px !important;
+  height: 11px !important;
+  border: 2px solid var(--vx-accent) !important;
+  border-radius: 50% !important;
+  background: var(--vx-paper) !important;
+  box-shadow: 0 0 0 4px color-mix(in srgb, var(--vx-accent) 14%, transparent) !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-content > :is(ul, ol) > li:first-child::before {
+  background: var(--vx-accent) !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-content > :is(ul, ol) > li::after {
+  content: none !important;
+  display: none !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-content > :is(ul, ol) > li > p {
+  margin: 0 !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-content > :is(ul, ol) > li > strong:first-of-type {
+  display: block !important;
+  margin: 0 0 0.2rem !important;
+  padding: 0 !important;
+  border: 0 !important;
+  background: none !important;
+  color: var(--vx-ink) !important;
+  font-family: var(--font-text, inherit) !important;
+  font-size: 1.04em !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.01em !important;
+  font-variant-numeric: lining-nums tabular-nums !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"]:where(.theme-dark *) {
+  --vx-accent: #d9bd7c;
+  --vx-ink: #ecd9a8;
+  --vx-paper: #241f16;
+}
+
+/* ─── ENTRY MAP · 目录卡 ────────────────────────────────── */
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] {
+  --vx-accent: #5b68b8;
+  --vx-ink: #3b4a94;
+  --vx-paper: #f8f9fe;
+  --vx-rule: color-mix(in srgb, var(--vx-accent) 16%, transparent);
+  margin: 1rem 0 1.2rem !important;
+  padding: 1.1rem 1.1rem 0.9rem !important;
+  border: 1px solid color-mix(in srgb, var(--vx-accent) 24%, transparent) !important;
+  border-radius: 6px 18px 6px 18px !important;
+  background: var(--vx-paper) !important;
+  box-shadow: 0 10px 22px -14px color-mix(in srgb, var(--vx-accent) 55%, transparent) !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-title {
+  padding: 0 0 0.8rem !important;
+  border: 0 !important;
+  background: none !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-title .callout-title-inner::before {
+  color: var(--vx-accent) !important;
+  letter-spacing: 0.22em !important;
+  font-weight: 700 !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content table {
+  width: 100% !important;
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  border: 1px solid var(--vx-rule) !important;
+  border-radius: 10px !important;
+  overflow: hidden !important;
+  background: var(--vx-paper) !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content thead th {
+  padding: 0.6rem 0.9rem !important;
+  background: color-mix(in srgb, var(--vx-accent) 10%, var(--vx-paper)) !important;
+  color: var(--vx-accent) !important;
+  font-size: 0.7em !important;
+  font-weight: 750 !important;
+  letter-spacing: 0.16em !important;
+  text-transform: uppercase !important;
+  border: 0 !important;
+  border-bottom: 1px solid var(--vx-rule) !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content tbody td {
+  padding: 0.7rem 0.9rem !important;
+  background: var(--vx-paper) !important;
+  border: 0 !important;
+  border-top: 1px solid var(--vx-rule) !important;
+  box-shadow: none !important;
+  color: var(--text-muted) !important;
+  font-size: 0.9em !important;
+  line-height: 1.62 !important;
+  vertical-align: top !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content tbody tr:nth-child(even) td {
+  background: color-mix(in srgb, var(--vx-accent) 4%, var(--vx-paper)) !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content tbody tr:hover td {
+  background: color-mix(in srgb, var(--vx-accent) 9%, var(--vx-paper)) !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content tbody td:first-child {
+  color: var(--vx-ink) !important;
+  font-weight: 650 !important;
+  box-shadow: inset 3px 0 0 var(--entry-type-tone, var(--vx-accent)) !important;
+  border-inline-end: 0 !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content tbody td:nth-child(2) {
+  color: var(--vx-accent) !important;
+  font-size: 0.8em !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.06em !important;
+  white-space: nowrap !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"]:where(.theme-dark *) {
+  --vx-accent: #9aa8ef;
+  --vx-ink: #cdd6ff;
+  --vx-paper: #1c1e2b;
+}
