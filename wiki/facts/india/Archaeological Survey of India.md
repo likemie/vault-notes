@@ -9,6 +9,12 @@ summary: "1861年由亚历山大·坎宁安创立、1899至1905年由印度总�
 type: fact
 subtype: organization
 region: india
+fact_region: "india"
+fact_kind: "organization"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dcfce7"
 org_type: 英属殖民地政府官方考古主管机构／中央古物管理局
 headquarters: 印度新德里（历史总部：英属印度加尔各答）
 established: "1861"

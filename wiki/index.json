@@ -37221,6 +37221,18 @@
     "subtype": "policy"
   },
   {
+    "title": "Borobudur Restoration",
+    "type": "fact",
+    "path": "wiki/facts/asia/Borobudur Restoration.md",
+    "aliases": [
+      "婆罗浮屠世纪修复工程",
+      "婆罗浮屠修复工程",
+      "婆罗浮屠古迹修复",
+      "Restoration of Borobudur"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "SEA-PLM",
     "type": "fact",
     "path": "wiki/facts/asia/SEA-PLM.md",
@@ -40392,6 +40404,18 @@
     "subtype": "organization"
   },
   {
+    "title": "École française d'Extrême-Orient",
+    "type": "fact",
+    "path": "wiki/facts/france/École française d'Extrême-Orient.md",
+    "aliases": [
+      "法国远东学院",
+      "法国远东博古学院",
+      "EFEO",
+      "French School of Asian Studies"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Edict of Villers-Cotterêts",
     "type": "fact",
     "path": "wiki/facts/france/Edict of Villers-Cotterêts.md",
@@ -43110,6 +43134,18 @@
       "匈牙利研究型教师计划"
     ],
     "subtype": "policy"
+  },
+  {
+    "title": "Archaeological Survey of India",
+    "type": "fact",
+    "path": "wiki/facts/india/Archaeological Survey of India.md",
+    "aliases": [
+      "印度考古调查局",
+      "印度考古研究所",
+      "ASI",
+      "印度考古局"
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Indian Council for Cultural Relations",

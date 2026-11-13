@@ -9,6 +9,12 @@ summary: "1898年由法属印度支那总督杜美在西贡创设（1900年迁�
 type: fact
 subtype: organization
 region: france
+fact_region: "france"
+fact_kind: "organization"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dcfce7"
 org_type: 国家级殖民学术研究机构／东方学专科学府
 headquarters: 法国巴黎（历史总部：法属印度支那西贡／河内）
 established: "1898"
@@ -94,7 +100,7 @@ updated: 2026-11-13
 > > [!axis] 东方学学术功绩 vs 文化殖民掠夺
 > > 争论远东学院在亚洲的百年实践，究竟是一场挽救人类濒危古代遗存的崇高学术壮举，还是服务于法兰西殖民帝国扩张、剥夺受压迫族群文化阐释权的话语霸权工程。
 > >
-> > - **实证东方学肯定论** 强调远东学院学者以严谨的方法论奠定了东南亚古文字学、历史地理学与考古学基础，避免了大量热带古迹彻底坍塌灭失。
+> > - **实证东方学肯定论** 强调远东学院学者以严谨的方法论奠定了东南亚古文字学、历史地理学与考古学基础，避免了大量热带古迹毁损灭失。
 > > - **[[Benedict Anderson|Anderson (2016)]]** 强调该机构的建立本质上服从于法国殖民国家的深层统治心智，通过将古代活态圣地排空为世俗权标，深度参与了殖民宗主国对被征服土地历史合法性的掠夺与重构。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 184–187)]]
 
 ---

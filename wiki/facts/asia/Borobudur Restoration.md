@@ -9,6 +9,12 @@ summary: "1814至1911年间荷属东印度殖民政府主导的世界最大佛�
 type: fact
 subtype: program
 region: asia
+fact_region: "asia"
+fact_kind: "program"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#ede9fe"
 period: "1814–1911年"
 initiator_organization: "荷属东印度殖民政府"
 tags:
@@ -19,21 +25,20 @@ tags:
   - region/indonesia
   - theme/southeast-asia
 related_concepts:
-  - "[[Colonial Archaeology]]"
-  - "[[Map-as-Logo]]"
+  - "[[Document]]"
   - "[[Official Nationalism]]"
-  - "[[Totalizing Classificatory Grid]]"
-  - "[[Serialization]]"
+  - "[[Colonial Archaeology]]"
+  - "[[Paradigm]]"
+  - "[[Nationalism]]"
 related_theories:
+  - "[[Hegemony]]"
   - "[[Imagined Community]]"
-related_methods:
-  - "[[Historical-Comparative Method]]"
+related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Harvey C. Lehman]]"
   - "[[Benedict Anderson]]"
-related_facts:
-  - "[[École française d'Extrême-Orient]]"
-  - "[[Archaeological Survey of India]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch10]]"
 confidence: high
@@ -66,11 +71,11 @@ updated: 2026-11-13
 ---
 
 > [!dev-timeline] 项目推进历程
-> - **1814–1817 — 初步勘探与文献整理期** 托马斯·斯坦福·莱佛士委派荷兰工兵军官科内利厄斯（H.C. Cornelius）率工兵清除密林与土石，首次绘制遗迹测绘草图；莱佛士于 1817 年出版《爪哇史》，首次将婆罗浮屠推介给欧洲学术界。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 183–184)]]
+> - **1814–1817 — 初步勘探与[[Document|文献]]整理期** 托马斯·斯坦福·莱佛士委派荷兰工兵军官科内利厄斯（H.C. Cornelius）率工兵清除密林与土石，首次绘制遗迹测绘草图；莱佛士于 1817 年出版《爪哇史》，首次将婆罗浮屠推介给欧洲学术界。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 183–184)]]
 > - **1845–1851 — 早期科学摄影与系统测绘** 德国艺术家谢弗（Schaefer）受殖民当局资助拍摄首批 64 张达盖尔银版法照片；工务局土木工程师威尔森（F.C. Wilsen）驻地系统测绘，完成全套数百幅精细石版图纸。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, p. 194, n. 29)]]
-> - **1874–1890年代 — 学术专著面世与全面影像建档** 莱顿国立古代博物馆馆长莱曼斯（C. Leemans）博士汇总石版画出版首部权威研究专著；专业摄影师塞法斯（Cephas）采用现代湿版与干版技术完成全景拍摄建档。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 183, 194, n. 29)]]
+> - **1874–1890年代 — 学术专著面世与全面影像建档** 莱顿国立古代博物馆馆长[[Harvey C. Lehman|莱曼]]斯（C. Leemans）博士汇总石版画出版首部权威研究专著；专业摄影师塞法斯（Cephas）采用现代湿版与干版技术完成全景拍摄建档。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 183, 194, n. 29)]]
 > - **1901–1911 — 古物委员会统领与全面工程大修** 殖民政权设立古物委员会（Oudheidkundige Commissie），工兵上尉凡·埃尔普（Theodoor van Erp）主持为期四年的全面大修复，拆除周边杂乱聚落并铺设大片欧式草坪，佛塔完全定型为世俗国家古迹公园。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 183–184)]]
-> - **1913–1950年代 — 制度化监管与后殖民国家图腾化** 1913 年古物委员会升格为常设古物局（Oudheidkundigen Dienst）；1950 年代印度尼西亚教育部在小学历史教材中印发通体纯白的婆罗浮屠插图，佛塔完全转化为世俗印尼国家的历史名片。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 184, 187–188)]]
+> - **1913–1950年代 — 制度化监管与后殖民国家图腾化** 1913 年古物委员会升格为常设古物局（Oudheidkundigen Dienst）；1950 年代印度尼西亚教育部在小学历史教材中印发通体纯白的婆罗浮屠插图，遗迹转化为世俗印尼国家的历史名片。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 184, 187–188)]]
 
 ---
 
@@ -88,18 +93,18 @@ updated: 2026-11-13
 
 > [!finding-cards] 关键历史后果
 > - **文明退化论据确立** 殖民学者宣称佛塔由外来印度高贵移民设计建造，断言当代贫困的爪哇穆斯林土著已丧失宏伟建构能力，以此从理论上排除了被统治人口要求自主参政的合法资格。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, p. 185)]]
-> - **官方民族主义图腾无缝继承** 印度尼西亚独立建国后全盘沿用荷属时期建立的古迹世俗权标。小学教科书上的纯白婆罗浮屠抹去了全部佛教造像细节，成为凝聚全印尼多元族群认同的神圣世俗国家祖先资产。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 187–188)]]
-> - **殖民考古体制跨国示范** 婆罗浮屠工程的成功直接刺激了法属印度支那远东学院对吴哥窟的修复，以及英属缅甸考古局对蒲甘古城的规制，确立了东南亚殖民古迹博物馆化的经典范式。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, p. 184, n. 30)]]
+> - **[[Official Nationalism|官方民族主义]]图腾无缝继承** 印度尼西亚独立建国后全盘沿用荷属时期建立的古迹世俗权标。小学教科书上的纯白婆罗浮屠抹去了全部佛教造像细节，成为凝聚全印尼多元族群认同的神圣世俗国家祖先资产。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 187–188)]]
+> - **殖民考古体制跨国示范** 婆罗浮屠工程的成功直接刺激了法属印度支那远东学院对吴哥窟的修复，以及英属缅甸考古局对蒲甘古城的规制，确立了东南亚[[Colonial Archaeology|殖民古迹博物馆化]]的经典[[Paradigm|范式]]。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, p. 184, n. 30)]]
 
 ---
 
 > [!debates] 史学评价与当代争议
 >
-> > [!axis] 古迹抢救功绩 vs 殖民文化霸权建构
+> > [!axis] 古迹抢救功绩 vs 殖民[[Hegemony|文化霸权]]建构
 > > 争论该工程究竟应当界定为欧洲近代科学技术抢救濒危东方文化遗产的客观功绩，还是充当了殖民国家掠夺古代传统声望、压制本土教育发展的意识形态工具。
 > >
-> > - **工程抢救保护论** 强调若无凡·埃尔普工程队的科学排水与地基加固，婆罗浮屠主体结构早已在爪哇强热带雨林侵蚀与地震中彻底坍塌。
-> > - **[[Benedict Anderson|Anderson (2016)]]** 强调修复工程深层动机在于以修葺古代遗迹代替投资现代大众教育，将古代圣地去神圣化为论证帝国监护合法性的国家权标。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 184–186)]]
+> > - **工程抢救保护论** 强调若无凡·埃尔普工程队的科学排水与地基加固，婆罗浮屠主体结构早已在爪哇强热带雨林侵蚀与地震中严重损毁散落。
+> > - **[[Argument_Anderson_2016_Verso_Ch10|Anderson (2016)]]** 强调修复工程深层动机在于以修葺古代遗迹代替投资现代大众教育，将古代圣地去神圣化为论证帝国监护合法性的国家权标。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 184–186)]]
 
 ---
 
@@ -108,10 +113,8 @@ updated: 2026-11-13
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Colonial Archaeology]] | 概念 | 理论范式；婆罗浮屠百年修复是殖民考古学与古迹博物馆化的最核心实证范例。 |
-> | [[École française d'Extrême-Orient]] | 事实 | 同侪机构；荷印古物委员会与法国远东学院在东南亚古迹修复与帝国监护话语上形成跨国竞逐。 |
-> | [[Archaeological Survey of India]] | 事实 | 制度参照；英国在印度确立的考古工程标准深刻影响了婆罗浮屠的测绘与修复规划。 |
-> | [[Official Nationalism]] | 概念 | 符号承载；独立后的印度尼西亚将殖民工程改造后的婆罗浮屠升格为国家官方民族主义图腾。 |
-> | [[Benedict Anderson]] | 人物 | 案例剖析者；在《想象的共同体》第10章中以详实注记深入解构该工程的政治逻辑。 |
+> | [[Official Nationalism]] | 概念 | 符号承载；独立后的印度尼西亚将殖民工程改造后的婆罗浮屠升格为国家官方[[Nationalism\|民族主义]]图腾。 |
+> | [[Benedict Anderson]] | 人物 | 案例剖析者；在《[[Imagined Community\|想象的共同体]]》第10章中以详实注记深入解构该工程的政治逻辑。 |
 
 ---
 

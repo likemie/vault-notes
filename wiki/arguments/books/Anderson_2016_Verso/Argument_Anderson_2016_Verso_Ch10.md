@@ -10,7 +10,7 @@ title: "Argument_Anderson_2016_Verso_Ch10"
 argument_key: "Argument_Anderson_2016_Verso_Ch10"
 argument_display_title: "Imagined Communities: Reflections on the Origin and Spread of Nationalism · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 31
+argument_related_count: 34
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -64,6 +64,10 @@ related_persons:
   - "[[Harvey C. Lehman]]"
   - "[[Benedict Anderson]]"
   - "[[Suwardi Surjaningrat]]"
+related_facts:
+  - "[[Borobudur Restoration]]"
+  - "[[Archaeological Survey of India]]"
+  - "[[École française d'Extrême-Orient]]"
 status: draft
 created: 2026-11-13
 updated: 2026-11-13
@@ -90,7 +94,7 @@ updated: 2026-11-13
 >   精密测定经度成为可能，地球曲面被划入由经纬线构成的几何网格中，为现代全球测绘与空间监视奠定技术前提 (p. 177)。
 > - **1814–1817**
 >   托马斯·斯坦福·莱佛士发掘婆罗浮屠并出版《爪哇史》
->   英国东印度公司官员莱佛士系统开启东南亚古代遗迹调查与历史重构，拉开殖民考古学与古迹博物馆化序幕 (pp. 183–184)。
+>   英国东印度公司官员莱佛士系统开启东南亚古代遗迹调查与历史重构，拉开[[Borobudur Restoration|婆罗浮屠世纪修复工程]]与殖民古迹博物馆化序幕 (pp. 183–184)。
 > - **1871–1911**
 >   海峡殖民地与马来联邦确立种族化人口普查
 >   宗教身份在普查表格中迅速消失，代之以排他性种族范畴，1911年普查确立人造的马来人大类，奠定后殖民马来西亚政治族群格局 (pp. 168–170)。
@@ -99,7 +103,7 @@ updated: 2026-11-13
 >   [[Chulalongkorn|拉玛五世]]设立测绘学校，丹隆亲王将地理学列为初中必修课，推动传统空间感知向排他性领土国家转变 (p. 176)。
 > - **1898–1901**
 >   东南亚各殖民地密集建立官方考古机构
->   法国设立远东学院（École française d'Extrême-Orient, EFEO，1898年），英国成立缅甸考古局（1899年），荷兰成立古物委员会（1901年），显示殖民帝国对古代遗迹所有权的高度关注 (p. 196, n. 30)。
+>   法国设立远东学院（École française d'Extrême-Orient, EFEO，1898年），英国重组[[Archaeological Survey of India|印度考古调查局]]并成立缅甸考古局（1899年），荷兰成立古物委员会（1901年），显示殖民帝国对古代遗迹所有权的高度关注 (p. 196, n. 30)。
 > - **1901**
 >   荷属东印度将西新几内亚正式纳入殖民版图
 >   海牙政府赎买蒂多雷苏丹主权，将东经141度以西纳入殖民地拼图，为日后印度尼西亚将偏远群岛纳入国家神圣图腾埋下伏笔 (pp. 180–181)。
@@ -257,7 +261,7 @@ updated: 2026-11-13
 
 > [!sub-claim] 1. 大都会直辖政权接替贸易公司后急需树立本土文明守护者形象
 
-> [!dev-timeline] 爪哇婆罗浮屠的百年制度化修复与博物馆化历程 (1814–1913)
+> [!dev-timeline] 爪哇[[Borobudur Restoration|婆罗浮屠世纪修复工程]]与博物馆化历程 (1814–1913)
 > - **1814–1817**
 >   莱佛士发掘与《爪哇史》出版
 >   托马斯·斯坦福·莱佛士派员清除丛林植被发掘婆罗浮屠并出版专著，打破特许贸易公司只重商业剩余的漠视态度 (pp. 183–184)。
@@ -274,8 +278,8 @@ updated: 2026-11-13
 > [!ref-table] 东南亚主要殖民地与暹罗考古专门机构创设时间线 (pp. 183–184, 196, n. 30)
 > | 年份 | 殖民宗主国／主权国 | 设立机构名称 | 首要修复目标与古迹 | 帝国治理语境与伴生政策 |
 > |---|---|---|---|---|
-> | **1898** | 法属印度支那 | 法国远东学院（École française d'Extrême-Orient, EFEO）及古迹总署 | 柬埔寨吴哥窟（1907年设保护局） | 杜美总督推行殖民现代教育体系改制 |
-> | **1899** | 英属印度及缅甸 | 缅甸考古局（Archaeological Department） | 蒲甘古城（Pagan）佛塔群 | 寇松勋爵重组印度考古调查局（Archaeological Survey of India, ASI） |
+> | **1898** | 法属印度支那 | [[École française d'Extrême-Orient\|法国远东学院]]（École française d'Extrême-Orient, EFEO）及古迹总署 | 柬埔寨吴哥窟（1907年设保护局） | 杜美总督推行殖民现代教育体系改制 |
+> | **1899** | 英属印度及缅甸 | 缅甸考古局（Archaeological Department） | 蒲甘古城（Pagan）佛塔群 | 寇松勋爵重组[[Archaeological Survey of India\|印度考古调查局]]（Archaeological Survey of India, ASI） |
 > | **1901** | 荷属东印度 | 古物委员会（1913年升格为古物局） | 爪哇婆罗浮屠佛塔、普兰巴南寺庙 | 开启伦理政策（Ethical Policy），扩大土著基础西式教育 |
 > | **1924–1926** | 独立主权国暹罗 | 暹罗皇家考古局（1924年）、国家博物馆（1926年） | 素可泰、大城遗址与王室古董收藏 | 曼谷王朝跟进欧洲列强设立文化保护机制 |
 
@@ -382,6 +386,9 @@ updated: 2026-11-13
 > | [[Pramoedya Ananta Toer]] | 人物 | 文学与哲学隐喻提供者；安德森征引其《玻璃屋》揭示殖民国家全景监视与序列化心智。 |
 > | [[Chulalongkorn]] | 人物 | 历史改革案例；朱拉隆功大帝主导建立现代测绘学校与地理课程，推行领土化内政改革。 |
 > | [[Suwardi Surjaningrat]] | 人物 | 反殖民先驱案例；印尼反殖民民族主义者在殖民地图与行政结构内部催生民族独立想象。 |
+| [[Borobudur Restoration]] | 事实 | 核心工程；跨越百年的爪哇婆罗浮屠修复与世俗化公园改造，奠定殖民古迹权标化范式。 |
+| [[École française d'Extrême-Orient]] | 事实 | 机构枢纽；法国在法属印度支那建立的殖民考古与东方学学术中枢，主导吴哥窟发掘修复。 |
+| [[Archaeological Survey of India]] | 事实 | 机构权威；寇松勋爵重组的英属官方考古机构，确立殖民考古六部曲标准并主导蒲甘古迹修复。 |
 
 ---
 
