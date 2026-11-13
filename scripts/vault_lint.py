@@ -1010,7 +1010,7 @@ def entry_map_row_is_argument(cells: List[str]) -> bool:
 
 
 def check_entry_map_arguments(path: Path, text: str, issues: List[Issue]) -> None:
-    """条目关联只收录知识对象，不把 Argument 列为条目。"""
+    """条目关联与理论构件都不把 Argument 列为条目。"""
     if TEMPLATES_DIR in path.parents or is_schema_or_workflow_doc(path) or not is_wiki_entry_path(path):
         return
 
@@ -1021,6 +1021,7 @@ def check_entry_map_arguments(path: Path, text: str, issues: List[Issue]) -> Non
     quoted_re = re.compile(r"^(?P<quote>\s*(?:>\s*)+)(?P<content>.*)$")
     in_map = False
     map_depth = 0
+    section = ""
     line_number = body_start_line
 
     for line in body.splitlines(keepends=True):
@@ -1030,7 +1031,9 @@ def check_entry_map_arguments(path: Path, text: str, issues: List[Issue]) -> Non
             if in_map and depth > map_depth:
                 line_number += line.count("\n")
                 continue
-            in_map = header.group("kind").strip().lower() == "entry-map"
+            kind = header.group("kind").strip().lower()
+            in_map = kind in {"entry-map", "theory-constructs"}
+            section = "理论构件" if kind == "theory-constructs" else "条目关联"
             map_depth = depth if in_map else 0
             line_number += line.count("\n")
             continue
@@ -1063,7 +1066,7 @@ def check_entry_map_arguments(path: Path, text: str, issues: List[Issue]) -> Non
                 target = links[0] if links else cells[1].strip()
                 issues.append(Issue(
                     "ERROR", rel(path),
-                    f"条目关联不单列 Argument：{target} 应写入相关研究索引",
+                    f"{section}不单列 Argument：{target} 应写入相关研究索引",
                     line=line_number,
                     code="ENTRY_MAP_ARGUMENT",
                 ))
@@ -1072,7 +1075,7 @@ def check_entry_map_arguments(path: Path, text: str, issues: List[Issue]) -> Non
             if links and links[0].startswith("Argument_"):
                 issues.append(Issue(
                     "ERROR", rel(path),
-                    f"条目关联不单列 Argument：{links[0]} 应写入相关研究索引",
+                    f"{section}不单列 Argument：{links[0]} 应写入相关研究索引",
                     line=line_number,
                     code="ENTRY_MAP_ARGUMENT",
                 ))

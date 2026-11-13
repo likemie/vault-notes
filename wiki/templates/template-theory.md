@@ -47,7 +47,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-> [!entry-map] 关键概念与理论构件
+> [!theory-constructs] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|

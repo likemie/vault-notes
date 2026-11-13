@@ -21452,7 +21452,7 @@ body .callout.callout.callout:is([data-callout="entry-map"], [data-callout="ref-
 }
 body .callout.callout.callout:is([data-callout="entry-map"], [data-callout="ref-table"], [data-callout="contrast-table"], [data-callout="row-contrast"], [data-callout="ma-table"], [data-callout="framework-table"], [data-callout="method-panel"], [data-callout="sample-panel"], [data-callout="compare-table"], [data-callout="matrix-table"], [data-callout="meta-table"], [data-callout="effect-table"], [data-callout="tension-table"], [data-callout="seq-table"], [data-callout="survey-table"], [data-callout="compact-table"]) > .callout-content { padding: 0 !important; background: none !important; }
 
-body .callout.callout.callout:is([data-callout="entry-map"]) > .callout-title .callout-title-inner::before { content: "ENTRY MAP" !important; }
+body .callout.callout.callout:is([data-callout="entry-map"]) > .callout-title .callout-title-inner::before { content: "关联索引" !important; }
 body .callout.callout.callout:is([data-callout="ref-table"]) > .callout-title .callout-title-inner::before { content: "REFERENCE" !important; }
 body .callout.callout.callout:is([data-callout="contrast-table"]) > .callout-title .callout-title-inner::before { content: "CONTRAST" !important; }
 body .callout.callout.callout:is([data-callout="row-contrast"]) > .callout-title .callout-title-inner::before { content: "COMPARE" !important; }
@@ -24940,7 +24940,7 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
 /* <<< METHOD REVIEW CASE LIMITS */
 
 /* >>> FEATURES DEFINITIONS SOURCES · 2026-11-02 */
-html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"]) {
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"]) {
  --fdc-accent:#537f9f; --fdc-ink:#426984; --fdc-ease:cubic-bezier(.22,.68,.25,1);
  --ac-accent:var(--fdc-accent) !important; --ac-ink:var(--fdc-ink) !important;
  --fdc-node:var(--background-primary); --fdc-edge:color-mix(in srgb,var(--fdc-accent) 35%,var(--background-modifier-border));
@@ -24951,21 +24951,21 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([d
  box-shadow:none !important; transform:none !important;
  transition:border-color 260ms var(--fdc-ease) !important;
 }
-html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"]):where(.theme-dark *) { --fdc-accent:#98b7cc; --fdc-ink:#b2cadb; --fdc-node:#2b3035; }
-html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"])::before,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"])::after { display:none !important; }
-html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"]) > .callout-title {
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"]):where(.theme-dark *) { --fdc-accent:#98b7cc; --fdc-ink:#b2cadb; --fdc-node:#2b3035; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"])::before,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"])::after { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"]) > .callout-title {
  position:relative !important; width:100% !important; box-sizing:border-box;
  align-items:flex-start !important; gap:.5rem !important;
  padding:0 0 .85rem !important; margin:0 0 .85rem !important;
  border:0 !important; background:none !important; box-shadow:none !important;
 }
-html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"]) > .callout-title .callout-icon { display:none !important; }
-html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"]) > .callout-title .callout-title-inner {
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"]) > .callout-title .callout-icon { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"]) > .callout-title .callout-title-inner {
  display:block !important; position:relative !important; flex:1 1 0% !important;
  width:auto !important; max-width:none !important; min-width:0 !important; padding:0 84px 0 0 !important;
  font:500 1.15em/1.5 var(--ac-serif) !important; letter-spacing:.015em !important; color:var(--text-normal) !important;
 }
-html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"]) > .callout-title .callout-title-inner::before {
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"]) > .callout-title .callout-title-inner::before {
  content:"FEATURES" !important; display:block !important; width:max-content;
  margin:0 0 .45rem !important; padding:0 0 0 22px !important;
  font:600 10.5px/1.5 var(--ac-sans) !important; letter-spacing:.12em !important;
@@ -24973,19 +24973,19 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([d
  border:0 !important; border-radius:0 !important; box-shadow:none !important; color:var(--fdc-ink) !important;
  transition:background-size 280ms var(--fdc-ease) !important;
 }
-html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"]) > .callout-title .callout-title-inner::after {
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"]) > .callout-title .callout-title-inner::after {
  content:"" !important; display:block !important; position:absolute; right:0; top:2px;
  width:64px; height:44px; pointer-events:none;
  background:var(--fdc-accent); opacity:.5;
  mask-image:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2044%22%20fill%3D%22none%22%20stroke%3D%22black%22%20stroke-width%3D%221.2%22%3E%3Crect%20x%3D%224%22%20y%3D%225%22%20width%3D%2220%22%20height%3D%2213%22%20rx%3D%221%22/%3E%3Crect%20x%3D%224%22%20y%3D%2226%22%20width%3D%2220%22%20height%3D%2213%22%20rx%3D%221%22/%3E%3Cpath%20d%3D%22M33%209h25M33%2015h18M33%2030h25M33%2036h18%22/%3E%3C/svg%3E"); mask-size:contain; mask-repeat:no-repeat;
  transform:translateX(-2px); transition:transform 420ms var(--fdc-ease),opacity 220ms ease !important;
 }
-html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"]) > .callout-title::after {
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"]) > .callout-title::after {
  content:"" !important; display:block !important; position:absolute; left:0; bottom:0;
  width:24px; height:2px; background:var(--fdc-accent); opacity:.7;
  transform-origin:left; transition:transform 360ms var(--fdc-ease) !important;
 }
-html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"]) > .callout-title .callout-fold { flex:0 0 auto; align-self:center; color:var(--text-muted); }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"]) > .callout-title .callout-fold { flex:0 0 auto; align-self:center; color:var(--text-muted); }
 
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="def"] { --fdc-accent:#59847c; --fdc-ink:#3e6e64; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="def"]:where(.theme-dark *) { --fdc-accent:#9bbfb1; --fdc-ink:#b8d6ca; }
@@ -25075,33 +25075,33 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="citation-card"] > .callout-content > p:has(> em:only-child) > em { font-family:inherit !important; font-size:1em !important; line-height:inherit; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="citation-card"] > .callout-content > blockquote > p { margin:0 !important; color:inherit !important; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-content a.internal-link { color:var(--fdc-ink) !important; text-underline-offset:.22em; }
-html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"]).is-collapsed > .callout-title { margin-bottom:0 !important; padding-bottom:0 !important; }
-html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"]).is-collapsed > .callout-title::after { display:none !important; }
-html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"]).is-collapsed > .callout-content { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"]).is-collapsed > .callout-title { margin-bottom:0 !important; padding-bottom:0 !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"]).is-collapsed > .callout-title::after { display:none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"]).is-collapsed > .callout-content { display:none !important; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="citation-card"]:is([data-callout-metadata="notitle"],[data-callout-metadata^="notitle|"],[data-callout-metadata$="|notitle"],[data-callout-metadata*="|notitle|"]) > .callout-title .callout-title-inner { min-height:44px; }
 @media (hover:hover) {
- html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"]):hover { border-color:var(--fdc-accent) !important; box-shadow:none !important; }
- html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"]):hover > .callout-title .callout-title-inner::before { background-size:16px 2px !important; }
- html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"]):hover > .callout-title .callout-title-inner::after { transform:translateX(0); opacity:.85; }
- html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"]):not(.is-collapsed):hover > .callout-title::after { transform:scaleX(2.5) !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"]):hover { border-color:var(--fdc-accent) !important; box-shadow:none !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"]):hover > .callout-title .callout-title-inner::before { background-size:16px 2px !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"]):hover > .callout-title .callout-title-inner::after { transform:translateX(0); opacity:.85; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"]):not(.is-collapsed):hover > .callout-title::after { transform:scaleX(2.5) !important; }
  html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-content > :is(ul,ol) > li:hover { border-color:var(--fdc-accent) !important; background:color-mix(in srgb,var(--fdc-accent) 4%,transparent) !important; transform:none !important; box-shadow:none !important; }
  html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"]) > .callout-content > :is(ul,ol) > li:hover::before { background:var(--fdc-accent) !important; }
 }
-html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"]) a:focus-visible { outline:2px solid var(--fdc-accent); outline-offset:3px; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"]) a:focus-visible { outline:2px solid var(--fdc-accent); outline-offset:3px; }
 @container (max-width:600px) { html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="feature"] > .callout-content > :is(ul,ol) { grid-template-columns:minmax(0,1fr) !important; gap:.8rem !important; } }
 @container (max-width:360px) {
- html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"]) > .callout-title .callout-title-inner { padding-right:60px !important; }
- html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"]) > .callout-title .callout-title-inner::after { width:44px; height:31px; top:6px; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"]) > .callout-title .callout-title-inner { padding-right:60px !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"]) > .callout-title .callout-title-inner::after { width:44px; height:31px; top:6px; }
 }
 @container (max-width:260px) {
- html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"]) > .callout-title .callout-title-inner { padding-right:0 !important; }
- html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"]) > .callout-title .callout-title-inner::after { display:none !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"]) > .callout-title .callout-title-inner { padding-right:0 !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"]) > .callout-title .callout-title-inner::after { display:none !important; }
 }
 @media (prefers-reduced-motion:reduce) {
- html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"])[data-callout][data-callout] *,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"])[data-callout][data-callout] *::before,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"])[data-callout][data-callout] *::after,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"])[data-callout][data-callout] > .callout-title::after { animation:none !important; transition:none !important; }
- html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"])[data-callout][data-callout] > .callout-title::after,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"])[data-callout][data-callout] .callout-title-inner::after { transform:none !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"])[data-callout][data-callout] *,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"])[data-callout][data-callout] *::before,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"])[data-callout][data-callout] *::after,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"])[data-callout][data-callout] > .callout-title::after { animation:none !important; transition:none !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"])[data-callout][data-callout] > .callout-title::after,html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"])[data-callout][data-callout] .callout-title-inner::after { transform:none !important; }
 }
-@media print { html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"]) { background:none !important; box-shadow:none !important; overflow:visible !important; break-inside:avoid; --text-normal:#222; --text-muted:#555; --fdc-ink:#444; } html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="citation-card"] > .callout-content > p:has(> em:only-child),html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="citation-card"] > .callout-content > blockquote { color:#444 !important; background:none !important; } }
+@media print { html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="feature"],[data-callout="def"],[data-callout="citation-card"],[data-callout="entry-map"],[data-callout="theory-constructs"]) { background:none !important; box-shadow:none !important; overflow:visible !important; break-inside:avoid; --text-normal:#222; --text-muted:#555; --fdc-ink:#444; } html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="citation-card"] > .callout-content > p:has(> em:only-child),html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="citation-card"] > .callout-content > blockquote { color:#444 !important; background:none !important; } }
 /* <<< FEATURES DEFINITIONS SOURCES */
 
 /* >>> WARNING AND DESIGN NOTATION · 2026-11-02
@@ -27402,7 +27402,7 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
   --fdc-accent:#a6afd0;
   --fdc-ink:#c2cbe5;
 }
-html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-title .callout-title-inner::before { content:"ENTRY MAP" !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-title .callout-title-inner::before { content:"关联索引" !important; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-title .callout-title-inner::after { mask-image:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2044%22%20fill%3D%22none%22%20stroke%3D%22black%22%20stroke-width%3D%221.25%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%3Cpath%20d%3D%22M13%2012h12l8%2010h16M13%2032h12l8-10%22/%3E%3Crect%20x%3D%225%22%20y%3D%228%22%20width%3D%228%22%20height%3D%228%22%20rx%3D%221%22/%3E%3Crect%20x%3D%225%22%20y%3D%2228%22%20width%3D%228%22%20height%3D%228%22%20rx%3D%221%22/%3E%3Crect%20x%3D%2249%22%20y%3D%2217%22%20width%3D%2210%22%20height%3D%2210%22%20rx%3D%221%22/%3E%3C/svg%3E"); }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"]:not(.is-collapsed) > .callout-title { margin-bottom:.75rem !important; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content { padding:0 !important; }
@@ -27454,7 +27454,6 @@ html body .callout.callout.callout.callout.callout.callout[data-callout="entry-m
   & tr[data-entry-map-kind="instrument"] { --entry-type-tone:#d3a963; }
   & tr[data-entry-map-kind="person"] { --entry-type-tone:#d791ae; }
   & tr[data-entry-map-kind="fact"] { --entry-type-tone:#ce9072; }
-  & tr[data-entry-map-kind="mechanism"] { --entry-type-tone:#92ad70; }
 
   & thead th {
     background:none !important;
@@ -27487,6 +27486,74 @@ html body .callout.callout.callout.callout.callout.callout[data-callout="entry-m
   & tbody tr:is(:hover,:focus-within) {
     --entry-map-tint:22%;
     --entry-map-reading-surface:color-mix(in srgb,var(--entry-type-tone) 5%,var(--entry-map-paper));
+  }
+
+  @media (prefers-reduced-motion:no-preference) {
+    & tbody td { transition:background-color 160ms ease !important; }
+  }
+}
+
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="theory-constructs"],.legacy-theory-constructs) {
+  --fdc-accent:#6c886e;
+  --fdc-ink:#436149;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="theory-constructs"],.legacy-theory-constructs):where(.theme-dark *) {
+  --fdc-accent:#a5c5ae;
+  --fdc-ink:#c6dfca;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="theory-constructs"],.legacy-theory-constructs) > .callout-title .callout-title-inner::before { content:"CONSTRUCTS" !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="theory-constructs"],.legacy-theory-constructs) > .callout-title .callout-title-inner::after { mask-image:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2064%2044%22%20fill%3D%22none%22%20stroke%3D%22black%22%20stroke-width%3D%221.3%22%20stroke-linejoin%3D%22round%22%3E%3Cpath%20d%3D%22M32%205%2057%2016%2032%2027%207%2016%2032%205Zm-25%2019%2025%2011%2025-11M7%2032l25%2011%2025-11%22%2F%3E%3C%2Fsvg%3E"); }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="theory-constructs"],.legacy-theory-constructs):not(.is-collapsed) > .callout-title { margin-bottom:.75rem !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="theory-constructs"],.legacy-theory-constructs) > .callout-content { padding:0 !important; }
+
+
+/* Constructs keep their type visible because it describes the role within a theory. */
+html body .callout.callout.callout.callout.callout:is([data-callout="theory-constructs"],.legacy-theory-constructs) > .callout-content :is(table.legacy-theory-constructs-table, table:where([data-callout="theory-constructs"] table)) {
+  width:100% !important;
+  min-width:0 !important;
+  margin:0 !important;
+  table-layout:fixed !important;
+  border:0 !important;
+  border-collapse:separate !important;
+  border-spacing:0 !important;
+  background:none !important;
+  --construct-rule:color-mix(in srgb,var(--fdc-accent) 23%,var(--background-modifier-border));
+
+  & :is(th,td) {
+    min-width:0 !important;
+    padding:.5rem clamp(.25rem,1.3cqi,.72rem) !important;
+    border:0 !important;
+    border-bottom:1px solid var(--construct-rule) !important;
+    vertical-align:top;
+    white-space:normal !important;
+    overflow-wrap:anywhere;
+    text-overflow:clip !important;
+    box-shadow:none !important;
+  }
+
+  & th:first-child { width:29% !important; }
+  & tr:has(> :nth-child(3):last-child) > th:nth-child(2) { width:17% !important; }
+  & thead th {
+    color:var(--fdc-ink) !important;
+    background:color-mix(in srgb,var(--fdc-accent) 8%,var(--ac-paper)) !important;
+    font:650 .8em/1.45 var(--ac-sans) !important;
+  }
+
+  & tbody td {
+    color:var(--text-normal) !important;
+    background:var(--ac-paper) !important;
+    font-size:.9em !important;
+    line-height:1.62 !important;
+  }
+
+  & tbody td:first-child { font-weight:600 !important; }
+  & tbody tr:has(> :nth-child(3):last-child) > td:nth-child(2) {
+    color:var(--fdc-ink) !important;
+    font-size:.82em !important;
+  }
+
+  & tbody tr:is(:hover,:focus-within) > td {
+    background:color-mix(in srgb,var(--fdc-accent) 6%,var(--ac-paper)) !important;
   }
 
   @media (prefers-reduced-motion:no-preference) {

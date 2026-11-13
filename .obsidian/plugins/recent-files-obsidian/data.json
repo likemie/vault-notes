@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Print-Capitalism",
+      "path": "wiki/concepts/political-economy-geopolitics/Print-Capitalism.md"
+    },
+    {
+      "basename": "Visible Learning Branding and Global Influences",
+      "path": "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md"
+    },
+    {
+      "basename": "Imagined Community",
+      "path": "wiki/theories/political-economy-geopolitics/Imagined Community.md"
+    },
+    {
+      "basename": "template-concept",
+      "path": "wiki/templates/template-concept.md"
+    },
+    {
+      "basename": "template-fact-eef-programme",
+      "path": "wiki/templates/template-fact-eef-programme.md"
+    },
+    {
+      "basename": "template-theory",
+      "path": "wiki/templates/template-theory.md"
+    },
+    {
+      "basename": "template-argument",
+      "path": "wiki/templates/template-argument.md"
+    },
+    {
+      "basename": "Barmecide Feast",
+      "path": "wiki/concepts/political-economy-geopolitics/Barmecide Feast.md"
+    },
+    {
       "basename": "Voice, Tense, and Concision in Academic Writing",
       "path": "wiki/concepts/academic-writing/Voice, Tense, and Concision in Academic Writing.md"
     },
@@ -37,24 +69,12 @@
       "path": "wiki/concepts/academic-writing/Deficiencies in Past Literature.md"
     },
     {
-      "basename": "Imagined Community",
-      "path": "wiki/theories/political-economy-geopolitics/Imagined Community.md"
-    },
-    {
       "basename": "Argument_Anderson_2016_Verso_Ch10",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch10.md"
     },
     {
-      "basename": "Visible Learning Branding and Global Influences",
-      "path": "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md"
-    },
-    {
       "basename": "Baseline Standardized Mean Difference",
       "path": "wiki/methods/quantitative/Baseline Standardized Mean Difference.md"
-    },
-    {
-      "basename": "Print-Capitalism",
-      "path": "wiki/concepts/political-economy-geopolitics/Print-Capitalism.md"
     },
     {
       "basename": "Varieties of Capitalism",
@@ -133,10 +153,6 @@
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso.md"
     },
     {
-      "basename": "Barmecide Feast",
-      "path": "wiki/concepts/political-economy-geopolitics/Barmecide Feast.md"
-    },
-    {
       "basename": "Argument_Anderson_2016_Verso_Ch05",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch05.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Printer-Journalist",
       "path": "wiki/concepts/political-economy-geopolitics/Printer-Journalist.md"
-    },
-    {
-      "basename": "David Held",
-      "path": "wiki/persons/uk/David Held.md"
-    },
-    {
-      "basename": "Dunmore's Proclamation",
-      "path": "wiki/facts/uk/Dunmore's Proclamation.md"
-    },
-    {
-      "basename": "José de San Martín",
-      "path": "wiki/persons/argentina/José de San Martín.md"
-    },
-    {
-      "basename": "Administrative Pilgrimage",
-      "path": "wiki/concepts/political-economy-geopolitics/Administrative Pilgrimage.md"
     }
   ],
   "omittedPaths": [],

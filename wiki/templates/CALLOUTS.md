@@ -39,7 +39,7 @@ updated: 2026-10-21
 | 示例 | example | 纸面底 + 发丝框，眉标 EXAMPLE · 示例 + 衬线标题；只放举例、情境案例与示范，不放原文图表（图片用 `[!figure]-`）；可折叠 `-`，`\|notitle` 时只显示眉标 |
 | 引文/目录 | quote、index-list | quote 无底色、细竖线、衬线斜体；index-list 中性细框、紧凑列表 |
 | 卡片网格 | concept-lens、feature、actor-grid、person-profile、stat-cards、finding-cards、evidence-grid、critique、dimension、policy-* / method-* / *-context 等 | 纸面容器 + 白卡 + 发丝线；卡片小标题用强调墨色；stat-cards 为大号等宽数字；finding-cards 衬线编号；critique / evidence 编号移到右上角 |
-| 表格面板 | entry-map、ref-table、contrast-table、row-contrast、ma-table、framework-table、method-panel、sample-panel 等 | 纸面容器 + 白底细框表格，表头灰阶小字，只留横向分隔线 |
+| 表格面板 | entry-map、theory-constructs、ref-table、contrast-table、row-contrast、ma-table、framework-table、method-panel、sample-panel 等 | 纸面容器 + 白底细框表格，表头灰阶小字，只留横向分隔线 |
 | 轨道序列 | timeline、dev-timeline、thought-timeline、phase、proc、chain-link、pathways、org-evolution 等 | 去掉条目卡片，细竖线 + 空心编号节点 / 实心圆点；年份用等宽强调色 |
 | 专用 | boundary、debates、tension、line-a…e | boundary 虚线框（界线语义）+ 短横列表；debates 子卡白底、顶边按序着色；tension 白卡顶边蓝/红 + 中性 VS；line 系列眉标显示 LINE A/B/C |
 
@@ -1246,6 +1246,7 @@ Method 条目沿用 v4.1 扁平体系（短横眉标 + 衬线标题 + 发丝线�
 | Callout | 用途 |
 |---|---|
 | `[!entry-map]` | 条目关联表（条目 / 类型 / 关系）。只收录 Concept、Theory、Method、Instrument、Person、Fact；Argument 写入相关研究索引。关系说明中的 APA 短引用仍可链接 Argument。只写有真实关联的行 |
+| `[!theory-constructs]` | 理论内部的构件表（构件 / 类型 / 在理论中的功能）。说明构件在理论中的作用，构件可链接独立条目 |
 | `[!ref-table]` | 参考速查表（对象 / 说明 / 来源）；用于查阅，不承担论证推进 |
 | `[!meta-table]` | 研究综述表，固定 5 列（研究 / 纳入 / N / d / 结论） |
 | `[!framework-table]` | 理论镜头、概念工具箱；通常 2 列（工具 / 用法）；Argument 概览最多 5 项，表头与分隔行不计入 |
