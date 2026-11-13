@@ -46380,14 +46380,15 @@
     "subtype": "program"
   },
   {
-    "title": "Foundation of University of Kharkov (1804)",
+    "title": "Foundation of University of Kharkov 1804",
     "type": "fact",
-    "path": "wiki/facts/ukraine/Foundation of University of Kharkov (1804).md",
+    "path": "wiki/facts/ukraine/Foundation of University of Kharkov 1804.md",
     "aliases": [
       "1804年哈尔科夫大学建校",
       "哈尔科夫大学创办",
       "哈尔科夫大学建校与乌克兰文学繁荣",
       "Foundation of University of Kharkov",
+      "Foundation of University of Kharkov (1804)",
       "Founding of Kharkov University 1804"
     ],
     "subtype": "event"
@@ -50309,6 +50310,11 @@
     "title": "Argument_Anderson_2016_Verso_Ch07",
     "type": "argument",
     "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch07.md"
+  },
+  {
+    "title": "Argument_Anderson_2016_Verso_Ch08",
+    "type": "argument",
+    "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch08.md"
   },
   {
     "title": "Argument_Bates_2017_CognitionEducationTrust",

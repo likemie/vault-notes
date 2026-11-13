@@ -6,7 +6,7 @@ aliases:
   - 秘鲁化法令
   - San Martin Peruvianization Decree
   - Decree of San Martin 1821
-summary: "1821年7月何塞·德·圣马丁将军在解放秘鲁利马并就任“护国公”后颁布的历史性平权法令，正式废止数百年来西班牙殖民统治强加于土著居民的“印第安人”与“土著”歧视性称谓，宣布全体原住民自此成为“秘鲁的孩子与公民，并被称为秘鲁人”；本尼迪克特·安德森在《想象的共同体》中提炼出“圣马丁秘鲁化逻辑”，指出这一民粹主权逻辑将政治主权不可逆地绑定于全体国民，成为美洲独立革命沉淀的模块化政治模版，并在19世纪倒逼欧洲封建贵族在发动民族独立时亦不得不承诺废除农奴制与普及大众教育。"
+summary: "1821年7月何塞·德·圣马丁将军在解放秘鲁利马并就任“护国公”后颁布的历史性平权法令，正式废止数百年来西班牙殖民统治强加于土著居民的“印第安人”与“土著”歧视性称谓，宣布全体原住民自此成为“秘鲁的孩子与公民，并被称为秘鲁人”；本尼迪克特·安德森在《想象的共同体》中提炼出“圣马丁秘鲁化逻辑”，指出这一民粹主权逻辑将政治主权不可逆地绑定于全体国民，成为美洲独立革命形成的模块化政治模版，并在19世纪倒逼欧洲封建贵族在发动民族独立时亦不得不承诺废除农奴制与普及大众教育。"
 type: fact
 subtype: policy
 region: peru
@@ -63,7 +63,7 @@ updated: 2026-11-13
 
 ---
 
-> [!citation-card] 圣马丁法令原文论原住民的公民身份
+> [!citation-card] 圣马丁论原住民的公民身份
 > 今后，原住民不得再被称为印第安人或土著；他们是秘鲁的孩子与公民，他们应当被称为秘鲁人。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, p. 83, n. 35)]]
 >
 > *In the future the aborigines shall not be called Indians or natives; they are children and citizens of Peru and they shall be known as Peruvians.*

@@ -10,7 +10,7 @@ summary: "运用历史因果考证与跨国情境对照解释教育制度、国�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 102
+method_related_count: 103
 method_related_level: 10
 method_related_stars: "💎💎💎⭐"
 method_related_color: "#dbeafe"
@@ -131,6 +131,7 @@ related_arguments:
   - "[[Argument_Mowery_2011_NBER]]"
   - "[[Argument_Anderson_2016_Verso]]"
   - "[[Argument_Anderson_2016_Verso_Ch05]]"
+  - "[[Argument_Anderson_2016_Verso_Ch07]]"
 confidence: high
 status: completed
 created: 2026-09-06
@@ -178,7 +179,7 @@ updated: 2026-11-13
 > | 维度 | 信息 |
 > |---|---|
 > | **材料来源** | 官方档案（特别调查报告 Special Reports、皇家委员会调查白皮书 Bryce Commission、议会立法案卷）、各国内政与教育部公报、国家科学与工业委员会历史报告、视察专员历史考察手札、哲人经典著述与历史统计年鉴。 |
-> | **抽样或选案** | [[Theoretical Sampling\|理论抽样]]与关键制度案例（如普鲁士中等教育报告、英国文法公学体系、法国国家中央集权督学系统）；国家创新体系与赶超型制度对照（19 世纪英国自发工业化 vs 普鲁士国家协调技校学徒制；冷战时期美日民用技术集成创新 vs 前苏联军工院所分割体制；20 世纪 80 年代韩国外向型吸收能力积累 vs 巴西外债危机下制度停滞，[[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 6–15)]]）；最大变异比较（英美自由地方分权体系 vs 法德苏国家主义集权体系；美国非集权分层大学体系 vs 欧亚集权部属科研院所分立体系，[[Argument_Atkinson_2008_TIS\|(Atkinson & Blanpied, 2008, pp. 42–43)]]；美国需求侧先导采购与第二货源机制 vs 西欧绑定传统垄断电气巨头的国家资助模式，[[Argument_Fabrizio_Mowery_2005_REI\|(Fabrizio & Mowery, 2005, pp. 33–34, 38–40)]]）；跨意识形态阵营分裂对照案例（如[[Oskar Anweiler\|奥斯卡·安韦勒]]主持的西德与东德跨制度教育长周期历史比较，[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 91–92, 97–98)]]）；长周期跨代际国家能力与创新体制抽样（19 世纪末德日追赶型发展国家 vs 20 世纪中叶美欧大科学技术攻关 vs 21 世纪敏捷公共创新特区，[[Argument_Kattel_Mazzucato_2018_ICC\|(Kattel & Mazzucato, 2018, pp. 792–796)]]）；跨时期产业政策浪潮抽样（20 世纪 80 年代美日半导体贸易摩擦与纵向一体化财团模式 vs 2020 年代中美高科技地缘博弈与全球[[Vertical Disintegration\|纵向离散]]网络模式，[[Argument_Bown_2024_JEconPersp\|(Bown & Wang, 2024, pp. 83–86, 97–103)]]）；发达资本主义体制制度变迁长周期跨国抽样（战后三十年协调黄金期 vs 1970 年代后新自由主义浪潮中美、德、日、英、法等国在劳资关系、社会保障与技能形成体系中的演化轨迹，通过纵向过程追踪与横向比较揭示隐蔽的渐进变迁形态，[[Argument_Streeck_Thelen_2005_OUP\|(Streeck & Thelen, 2005, pp. 4–7, 18–30)]]）；多语种世袭王朝与帝国自卫性官方同化抽样（19 世纪中叶至 20 世纪初沙俄强制俄罗斯化 vs 英国在印度的麦考利全盘英语同化体制 vs 日本明治维新消灭武士特权与军工自卫赶超 vs 暹罗曼谷王朝排华王权民族主义 vs 奥匈帝国马扎尔化，通过跨欧亚多案例横向比较剖析统治集团自上而下挪用民族主义蓝图的制度共性与行政朝圣封锁，[[Argument_Anderson_2016_Verso_Ch06\|(Anderson, 2016, pp. 85–113)]]）。 |
+> | **抽样或选案** | [[Theoretical Sampling\|理论抽样]]与关键制度案例（如普鲁士中等教育报告、英国文法公学体系、法国国家中央集权督学系统）；国家创新体系与赶超型制度对照（19 世纪英国自发工业化 vs 普鲁士国家协调技校学徒制；冷战时期美日民用技术集成创新 vs 前苏联军工院所分割体制；20 世纪 80 年代韩国外向型吸收能力积累 vs 巴西外债危机下制度停滞，[[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 6–15)]]）；最大变异比较（英美自由地方分权体系 vs 法德苏国家主义集权体系；美国非集权分层大学体系 vs 欧亚集权部属科研院所分立体系，[[Argument_Atkinson_2008_TIS\|(Atkinson & Blanpied, 2008, pp. 42–43)]]；美国需求侧先导采购与第二货源机制 vs 西欧绑定传统垄断电气巨头的国家资助模式，[[Argument_Fabrizio_Mowery_2005_REI\|(Fabrizio & Mowery, 2005, pp. 33–34, 38–40)]]）；跨意识形态阵营分裂对照案例（如[[Oskar Anweiler\|奥斯卡·安韦勒]]主持的西德与东德跨制度教育长周期历史比较，[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 91–92, 97–98)]]）；长周期跨代际国家能力与创新体制抽样（19 世纪末德日追赶型发展国家 vs 20 世纪中叶美欧大科学技术攻关 vs 21 世纪敏捷公共创新特区，[[Argument_Kattel_Mazzucato_2018_ICC\|(Kattel & Mazzucato, 2018, pp. 792–796)]]）；跨时期产业政策浪潮抽样（20 世纪 80 年代美日半导体贸易摩擦与纵向一体化财团模式 vs 2020 年代中美高科技地缘博弈与全球[[Vertical Disintegration\|纵向离散]]网络模式，[[Argument_Bown_2024_JEconPersp\|(Bown & Wang, 2024, pp. 83–86, 97–103)]]）；发达资本主义体制制度变迁长周期跨国抽样（战后三十年协调黄金期 vs 1970 年代后新自由主义浪潮中美、德、日、英、法等国在劳资关系、社会保障与技能形成体系中的演化轨迹，通过纵向过程追踪与横向比较揭示隐蔽的渐进变迁形态，[[Argument_Streeck_Thelen_2005_OUP\|(Streeck & Thelen, 2005, pp. 4–7, 18–30)]]）；多语种世袭王朝与帝国自卫性官方同化抽样（19 世纪中叶至 20 世纪初沙俄强制俄罗斯化 vs 英国在印度的麦考利全盘英语同化体制 vs 日本明治维新消灭武士特权与军工自卫赶超 vs 暹罗曼谷王朝排华王权民族主义 vs 奥匈帝国马扎尔化，通过跨欧亚多案例横向比较剖析统治集团自上而下挪用民族主义蓝图的制度共性与行政朝圣封锁，[[Argument_Anderson_2016_Verso_Ch06\|(Anderson, 2016, pp. 85–113)]]）；最后一波亚非殖民地教育与行政双重朝圣抽样（荷属东印度群岛百余岛屿族群向巴达维亚医学校汇聚 vs 法属西非八大领地向达喀尔威廉·蓬蒂师范学校汇聚 vs 瑞士多语联邦学制对照，通过跨洲际殖民学制与仕途金字塔比较揭示殖民地行政区划如何转化为民族国家疆界，[[Argument_Anderson_2016_Verso_Ch07\|(Anderson, 2016, pp. 113–140)]]）。 |
 > | **研究者位置** | 跨文化历史诠释者。深入历史当事人的思想地平线内部，严格防范[[Whiggism\|辉格史观]]（以现代价值观剪裁历史）与当下主义偏见，反思研究者自身的民族国家与意识形态前设。 |
 > | **资料边界** | 聚焦国家制度奠基期、关键立法节点、工业与科学战略重构期以及文明转型危机期；严格划分一手文献（[[Primary and Secondary Documents\|Primary Documents]]）与后世二手研究（Secondary Literature）。 |
 
@@ -212,6 +213,7 @@ updated: 2026-11-13
 >   - 剖析冷战或[[Geopolitics|地缘政治]]分裂背景下，同一民族不同意识形态阵营的教育制度分化与重聚过程（如西德与东德教育体制历史比较，[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 91–92)]]）；
 >   - 解构学科制度史的演进逻辑，透视大学教席分布、学会建制与[[State Educational Sovereignty|国家教育主权]]博弈对比较教育学科[[Paradigm|范式]]的长周期塑造；[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88–94)]]
 >   - 比较欧亚世袭王朝与殖民帝国为防御大众通俗民族主义而自上而下推行[[Official Nationalism|官方民族主义]]与语言同化的制度策略，揭示君权神授等级臣服与现代民族平权原则的根本排他性，以及由此导致的殖民地精英仕途封锁机制。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 85–113)]]
+>   - 比较 20 世纪亚非殖民地教育朝圣与行政朝圣的空间轨迹，揭示统一学校层级金字塔与标准化教室如何将跨语种、跨岛屿的异质群体整合为具有相同疆界认同的新型民族共同体。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 113–140)]]
 > - **谨慎使用**
 >   - 评估短期具体教学干预或政策实施的微观即时成效（需结合量化或[[Mixed Methods Research|混合方法]]）；
 >   - 史料散佚断裂、官方[[Document|文献]]被高度意识形态化且缺乏第三方佐证的历史时期；

@@ -1,10 +1,11 @@
 ---
-title: Foundation of University of Kharkov (1804)
+title: Foundation of University of Kharkov 1804
 aliases:
   - 1804年哈尔科夫大学建校
   - 哈尔科夫大学创办
   - 哈尔科夫大学建校与乌克兰文学繁荣
   - Foundation of University of Kharkov
+  - Foundation of University of Kharkov (1804)
   - Founding of Kharkov University 1804
 summary: "1804年沙皇亚历山大一世在乌克兰东部重镇哈尔科夫批准建立哈尔科夫大学（现瓦西里·卡拉津哈尔科夫国立大学）；该校不仅成为沙俄帝国西南部首座近代综合性大学，更迅速演进为乌克兰近代白话文学复兴、民间歌谣采集与历史考据的学术大本营，促成了1819年首部乌克兰语法的诞生，成为霍布斯鲍姆所论“大学的扩张直接标示着19世纪民族主义发展步伐”的标志性历史例证。"
 type: fact

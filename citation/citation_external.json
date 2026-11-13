@@ -20096,6 +20096,8 @@
     "Rensis Likert, 1932": "Rensis Likert, 1932",
     "Renzetti & Lee (1993)": "Renzetti & Lee, 1993",
     "Renzetti & Lee, 1993": "Renzetti & Lee, 1993",
+    "Republic of Katagalugan (1902)": "Republic of Katagalugan, 1902",
+    "Republic of Katagalugan, 1902": "Republic of Katagalugan, 1902",
     "Requa (2022)": "Requa, 2022",
     "Requa, 2022": "Requa, 2022",
     "Resaland (2016)": "Resaland, 2016",
@@ -154921,6 +154923,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch08.md",
         "wiki/persons/uk/Tom Nairn.md"
       ],
       "title": ""
@@ -174395,6 +174398,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Sensitive Research.md"
+      ],
+      "title": ""
+    },
+    "Republic of Katagalugan, 1902": {
+      "aliases": [
+        "Republic of Katagalugan, 1902",
+        "Republic of Katagalugan (1902)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Republic of Katagalugan, 1902"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch08.md"
       ],
       "title": ""
     },

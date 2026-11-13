@@ -10,9 +10,9 @@ subtype: event
 region: finland
 fact_region: "finland"
 fact_kind: "event"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - fact/event
@@ -39,6 +39,7 @@ related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Pasi Sahlberg]]"
 related_facts:
+  - "[[Kalevala Compilation]]"
   - "[[Jyväskylä Teacher Seminary]]"
   - "[[National Education]]"
   - "[[Svecoman Movement]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---
@@ -66,7 +67,7 @@ updated: 2026-11-11
 ---
 
 > [!dev-timeline] 事件推进历程
-> - **1820–1840 年代 — 语言搜集与思想启蒙期** 知识精英发起民歌采风并出版史诗《卡勒瓦拉》（Kalevala），斯内尔曼等学者在报刊上发起民族意识论战，主张赋予芬兰语官方地位。
+> - **1820–1840 年代 — 语言搜集与思想启蒙期** 知识精英发起民歌采风并整理出版[[Kalevala Compilation|民族史诗《卡勒瓦拉》]]（Kalevala），斯内尔曼等学者在报刊上发起民族意识论战，主张赋予芬兰语官方地位。
 > - **1850–1870 年代 — 师资培育与学校网络初建期** 沙皇亚历山大二世批准提升芬兰语地位；1863 年创立于韦斯屈莱教师研修学院（[[Jyväskylä Teacher Seminary]]），系统招收有志于乡村普及教育的芬兰语青年，开启高标准乡村师资体系建设。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–21)]]
 > - **1880–1917 年 — 抵御沙俄同化与建国胜利期** 面对 19 世纪末沙皇政府强制推行的俄罗斯化政策，初等学校网络成为民众消极抵抗帝国渗透的核心堡垒；教师群体深度融入基层动员，最终在 1917 年赢得国家独立。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 21–22)]]
 
@@ -134,7 +135,8 @@ updated: 2026-11-11
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Finnish PISA Miracle]] | Fact | 芬诺曼运动奠定的教师声望与重教传统被实证研究确认为芬兰奇迹的深层历史根基。 |
+> | [[Kalevala Compilation]] | Fact (Event) | 芬诺曼运动初期奠定芬兰语文化尊严与民族神话体系的核心史诗编纂事件。 |
+| [[Finnish PISA Miracle]] | Fact | 芬诺曼运动奠定的教师声望与重教传统被实证研究确认为芬兰奇迹的深层历史根基。 |
 > | [[Programme for the International Assessment of Adult Competencies]] | Fact | 成人技能测评数据证实了芬诺曼运动以来芬兰教师队伍跨世代保持的高认知素养。 |
 > | [[Comprehensive Education]] | Concept | 继承芬诺曼大众普及教育诉求并在 20 世纪下半叶确立的统一学制形态。 |
 > | [[Direct Instruction]] | Concept | 芬兰乡村学校与初等师范在历史推进期普遍坚守的主导课堂教学模式。 |

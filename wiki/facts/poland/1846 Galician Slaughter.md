@@ -83,7 +83,7 @@ updated: 2026-11-13
 ---
 
 > [!citation-card] 霍布斯鲍姆论加利西亚农奴对贵族起义的抗拒
-> 农民大众对于地主贵族的民族主义号召充满敌意与怀疑。在他们看来，压迫不是来自遥远的皇帝，而是直接来自眼前掌握土地的领主。当加利西亚贵族试图发动民族独立战争时，他们收获的只是自家农奴的残酷暴动。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, p. 82, n. 30)]]
+> 农民大众对于地主贵族的民族主义号召充满敌意与怀疑。在他们看来，压迫直接源自眼前掌握土地的领主，遥远的维也纳皇帝反而被视作仁慈的潜在庇护者。当加利西亚贵族试图发动民族独立战争时，他们收获的只是自家农奴的残酷暴动。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, p. 82, n. 30)]]
 >
 > *The peasant masses remained largely indifferent or actively hostile to the national movements led by landowners. For the Galician serfs, oppression wore the face of the Polish lord, not the Austrian emperor.*
 

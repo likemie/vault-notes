@@ -12,9 +12,9 @@ subtype: event
 region: finland
 fact_region: "finland"
 fact_kind: "event"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
   - region/finland
@@ -31,8 +31,11 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Johann Gottfried von Herder]]"
+  - "[[Johan Vilhelm Snellman]]"
   - "[[Benedict Anderson]]"
-related_facts: []
+related_facts:
+  - "[[Fennoman Movement]]"
+  - "[[Russification of Finland]]"
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch05]]"
 confidence: high
@@ -90,5 +93,7 @@ updated: 2026-11-13
 > | [[Philological Revolution]] | Concept | 展现民俗史诗采集与方言标准化在语文学革命中的典型运作。 |
 > | [[Print-Language]] | Concept | 将口传诗歌转变为标准印刷读本，形成现代国语载体。 |
 > | [[Reading Coalition]] | Concept | 教师、牧师、律师与乡村农民以史诗为媒介形成的文化联盟。 |
+> | [[Fennoman Movement]] | Fact (Event) | 《卡勒瓦拉》整理出版所直接催化与支撑的19世纪芬兰民族建国与语言平权运动。 |
+> | [[Johan Vilhelm Snellman]] | Person | 芬诺曼建国运动哲学领袖，将史诗激发的语言觉醒转化为黑格尔主义国家自立哲学。 |
 > | [[Johann Gottfried von Herder]] | Person | 提供民间诗歌体现民族精神核心哲学的思想导师。 |
 > | [[Benedict Anderson]] | Person | 在《想象的共同体》中分析芬兰史诗运动将方言升格为国语的演进机制。 |
