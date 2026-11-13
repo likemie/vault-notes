@@ -147,18 +147,17 @@ updated: 2026-11-13
 > - $d_{\text{baseline}} < 0$ 表示对照组在干预前基础更优；
 > - 核心判定取绝对值 $|d_{\text{baseline}}|$ 进行阈值对照。
 >
-> > [!geogebra] 基线等效性三级阈值动态模拟
-> > - **蓝色曲线** 处理组[[Pre-test and Post-test\|前测]]分数的正态分布密度。
-> > - **红色曲线** 对照组前测分数的正态分布密度。
-> > - **滑块 $\mu_T$（treatment）** 调整处理组前测均值。
-> > - **滑块 $\mu_C$（control）** 调整对照组前测均值。
-> > - **滑块 $SD_{\text{pooled}}$** 调整两组共同的合并标准差。
-> > - **顶部色带** 绿色区间（$|d| \le 0.05$，基线完全等效）、琥珀色区间（$0.05 < |d| \le 0.25$，需[[Analysis of Covariance\|ANCOVA]]校正）、红色区间（$|d| > 0.25$，排除）；黑色圆点标示当前 $d_{\text{baseline}}$ 在色带上的位置。
-> > - **实时判定** 左上角显示当前所处的 [[What Works Clearinghouse\|WWC]] / Slavin 三级等效性裁定。
+> > [!geogebra] 两组基线分布与标准化均数差（Cohen's d）动态模拟
+> > - **红色曲线与棕色曲线** 分别代表处理组与对照组[[Pre-test and Post-test\|前测]]分数的正态概率密度函数。
+> > - **滑块 $MW_1$ 与 $MW_2$** 调整两组的前测样本均值。
+> > - **滑块 $SD_1$ 与 $SD_2$** 调整两组的前测样本标准差。
+> > - **顶端间距与动态公式读数** 实时呈现两组均值物理距离，并严格代入合并标准差公式，动态输出基线标准化均数差 $d$ 的计算过程与数值。
 > >
-> > 拖拽 $\mu_T$ 远离 $\mu_C$，观察两曲线分离、$d_{\text{baseline}}$ 增大，黑色指示点从绿区移入琥珀区再进入红区；增大 $SD_{\text{pooled}}$ 使曲线展宽，观察同样的均值差距因参照离散度加大而缩小 $|d|$。
+> > 调整均值滑块拉大两曲线中心间距，观察 $d$ 逐步越过 $0.05$（完全等效区）与 $0.25$（需[[Analysis of Covariance\|ANCOVA]]控制区）；再增大标准差滑块使分布扁平展宽，观察在相同的原始分差距下，较大的组内离散如何稀释 $d$ 的效应幅度。
 > >
 > > ![[wiki/assets/geogebra/baseline_smd_threshold.ggb]]
+> >
+> > 模拟改编自 Samuel Merk 的 [Cohen's d](https://www.geogebra.org/m/tGcX62gq)；采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。Created with [GeoGebra®](https://www.geogebra.org/)。
 
 > [!formula-step] 公式步骤 3　小样本无偏校正因子（Hedges' g）
 > $$J \approx 1 - \frac{3}{4(n_T + n_C) - 9}$$
