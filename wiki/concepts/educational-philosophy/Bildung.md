@@ -81,8 +81,7 @@ related_persons:
   - "[[Socrates]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Niklas Luhmann]]"
-related_facts:
-  - "[[ROOTS]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
@@ -123,7 +122,7 @@ updated: 2026-11-13
 > [!citation-card] 斯蒂恩·内佩尔·拉森论上帝形象的神学渊源与陶冶之镜的去中心化
 > 《圣经》称人是依照上帝的形象（德语：Bild）受造的（《创世记》1:26），因此教化（[[Bildung]]）概念拥有悠久且充满争议的神学根源。但在当今的世俗世界中，至关重要的是要学会在陶冶之镜（mirror of formation）中将自己视为战略行动者之外的存在。如果你在镜子中只能看到自己的倒影，而看不到任何外部事物，你反而会在停滞不前中阻碍自身的自我生成过程。短视与工具主义的自我中心可能扼杀学生通向未知世界的通道。因此，作为教师，必须尽最大努力在周一至周五、周复一周、年复一年地培育这种去中心化的艺术。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 9)]]
 >
-> *Man is created in God’s image (in German: Bild), so the ‘holy’ Bible says (Genesis 1.22), so the concept of Bildung has long and vividly contested theological [[ROOTS|roots]], but in the profane world of today it is of utmost importance to learn(!) to see oneself as something other than a strategic agent in the mirror of formation. If you only see your reflection in the mirror, and nothing exterior, you paradoxically hinder your own self-formation process in the face of static non-movement. Short-sightedness and strategic-instrumental self-centredness might risk destroying and limiting pupils’ and students’ access to the unknown. As a teacher, therefore, you must do your best to serve and foster the art of decentring from Monday to Friday, week after week, year after year.*
+> *Man is created in God’s image (in German: Bild), so the ‘holy’ Bible says (Genesis 1.22), so the concept of Bildung has long and vividly contested theological roots, but in the profane world of today it is of utmost importance to learn(!) to see oneself as something other than a strategic agent in the mirror of formation. If you only see your reflection in the mirror, and nothing exterior, you paradoxically hinder your own self-formation process in the face of static non-movement. Short-sightedness and strategic-instrumental self-centredness might risk destroying and limiting pupils’ and students’ access to the unknown. As a teacher, therefore, you must do your best to serve and foster the art of decentring from Monday to Friday, week after week, year after year.*
 
 > [!citation-card] [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]与[[Robert Ulich|罗伯特·乌利希]]论广义文化教化与以人为本的人文底线
 > 历史比较学派的大师们不仅从狭隘的学校教育（schooling）视域审视教育，更从广义的文化教化（paideia/culture）层面理解教育；他们将比较教育视为一门人文主义知识体系（humanistic episteme），其根本关切应当始终锁定在人（anthropos）身上。它必须充盈着人文主义哲学情怀，深切关照人类所面临的宏大政治、社会与伦理危机。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 56–57)]]

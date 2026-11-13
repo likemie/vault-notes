@@ -65,8 +65,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[René Descartes]]"
-related_facts:
-  - "[[ROOTS]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Kelly_Licona_2018_EpistemicPractices]]"
 sources:
@@ -110,7 +109,7 @@ updated: 2026-11-11
 > [!citation-card] 编者论科学教育的启蒙基石
 > 绝大多数现代科学教育都在诉求并赞美植根于启蒙运动的承诺：证据的重要性；拒绝将简单权威作为认识论事务的仲裁者；随时准备修正观点与理论；承认学科之间的相互依存；为了促进个人与社会福祉而追求知识；抵抗政治、宗教和意识形态对课程开发与课堂教学的强加干预等等。这些承诺大都是在没有意识到其启蒙根源的情况下作出的。对于教育工作者而言，将这些当代承诺与其历史上的科学哲学基础联系起来，并意识到这些承诺历经时光所遭受的思想、政治与宗教冲击，是至关重要的。（p. xiii）
 >
-> *Overwhelmingly modern science education appeals to and extols Enlightenment-grounded commitments: the importance of evidence; rejection of simple authority as the arbiter of epistemic matters; a preparedness to change opinions and theories; recognising the interdependence of disciplines; pursuing knowledge for advancement of personal and social welfare; resisting the imposition of political, religious and ideological pressures on curriculum development and classroom teaching; and so on. These commitments are mostly made without awareness of their Enlightenment [[ROOTS]].*
+> *Overwhelmingly modern science education appeals to and extols Enlightenment-grounded commitments: the importance of evidence; rejection of simple authority as the arbiter of epistemic matters; a preparedness to change opinions and theories; recognising the interdependence of disciplines; pursuing knowledge for advancement of personal and social welfare; resisting the imposition of political, religious and ideological pressures on curriculum development and classroom teaching; and so on. These commitments are mostly made without awareness of their Enlightenment roots.*
 
 ---
 

@@ -54,8 +54,7 @@ related_instruments: []
 related_persons:
   - "[[Dan Sperber]]"
   - "[[William A. Sandoval]]"
-related_facts:
-  - "[[ROOTS]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Wu_2025_ER]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
@@ -174,7 +173,7 @@ issuing_organization: ""
 > |---|---|---|
 > | 行 14 | **A & B** "It gives lots of ideas, but does it explain why plants grow?" | 依据**相关性**与**因果叙事**标准，审问事实罗列背后的因果解释力 |
 > | 行 17a | **学生 B** "The answer talks about each part separately. I think we should ask how they work together." | 依据**概念框架**标准，指出各器官功能割裂、缺乏系统协同 |
-> | 行 18 | **学生 B** "What if we ask it to explain how the interaction between the [[ROOTS]], stems, and leaves helps plants thrive?" | 迭代重构提示词，明确要求生成器官间因果交互机制 |
+> | 行 18 | **学生 B** "What if we ask it to explain how the interaction between the roots, stems, and leaves helps plants thrive?" | 迭代重构提示词，明确要求生成器官间因果交互机制 |
 > | 行 30 | **学生 B** "Now our explanation tells what happens and why it happens. That makes it clearer." | 评估新生成内容，确认已形成清晰的因果解释闭环 |
 
 > [!example] 图解：对话 1 多模态[[Transcription in Qualitative Research\|转录]]片段

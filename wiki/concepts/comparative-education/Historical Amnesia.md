@@ -47,7 +47,6 @@ related_persons:
 related_facts:
   - "[[DARPA]]"
   - "[[Research Strategies in Comparative Education]]"
-  - "[[ROOTS]]"
   - "[[World Bank]]"
   - "[[OECD]]"
   - "[[IEA]]"
@@ -102,7 +101,7 @@ updated: 2026-11-11
 
 > [!feature] 历史健忘症的四大病理机制
 > - **现时主义与指标至上（Presentism & Metric Mania）** 将研究或战略视界严格限定在当下可测量的数据切片内，以抽象指标剥离历史生成的复杂性。
-> - **公共源流的意识形态漂白（Ideological Whitewashing of Public [[ROOTS]]）** 将由公共财政与国家战略工程孕育的技术成果（如互联网、GPS、微处理器），重构为纯粹私人车库英雄主义的叙事。
+> - **公共源流的意识形态漂白（Ideological Whitewashing of Public Roots）** 将由公共财政与国家战略工程孕育的技术成果（如互联网、GPS、微处理器），重构为纯粹私人车库英雄主义的叙事。
 > - **单向工具主义屈从（Instrumental Subservience）** 学术研究退化为官僚规避决策责任的[[Social Science as Legitimation Alibi|合法化借口]]，商业研发退化为流量变现的避险工具。
 > - **公共契约与道德责任的消解（Erosion of Civic Contract & Ethical Duty）** 借由对历史来源的遗忘，免除自身对培育者（国家与社会大众）应尽的反哺义务与防卫责任。
 

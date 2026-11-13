@@ -88,7 +88,6 @@ related_facts:
   - "[[PISA]]"
   - "[[Danish Public School Reform]]"
   - "[[OECD]]"
-  - "[[ROOTS]]"
 related_arguments: []
 sources:
   - "[[sources/Larsen_2019_EducSci|Larsen_2019_EducSci]]"
@@ -391,7 +390,7 @@ updated: 2026-11-11
 > [!citation-card] 上帝形象的神学渊源与陶冶之镜的去中心化艺术
 > 《圣经》称人是依照上帝的形象（德语：Bild）受造的（《创世记》1:26），因此教化（[[Bildung]]）概念拥有悠久且充满争议的神学根源。但在当今的世俗世界中，至关重要的是要学会在陶冶之镜（mirror of formation）中将自己视为战略行动者之外的存在。如果你在镜子中只能看到自己的倒影，而看不到任何外部事物，你反而会在停滞不前中阻碍自身的自我生成过程。短视与工具主义的自我中心可能扼杀学生通向未知世界的通道。因此，作为教师，必须尽最大努力在周一至周五、周复一周、年复一年地培育这种去中心化的艺术。
 >
-> *Man is created in God’s image (in German: Bild), so the ‘holy’ Bible says (Genesis 1.22), so the concept of Bildung has long and vividly contested theological [[ROOTS|roots]], but in the profane world of today it is of utmost importance to learn(!) to see oneself as something other than a strategic agent in the mirror of formation. If you only see your reflection in the mirror, and nothing exterior, you paradoxically hinder your own self-formation process in the face of static non-movement. Short-sightedness and strategic-instrumental self-centredness might risk destroying and limiting pupils’ and students’ access to the unknown. As a teacher, therefore, you must do your best to serve and foster the art of decentring from Monday to Friday, week after week, year after year.*
+> *Man is created in God’s image (in German: Bild), so the ‘holy’ Bible says (Genesis 1.22), so the concept of Bildung has long and vividly contested theological roots, but in the profane world of today it is of utmost importance to learn(!) to see oneself as something other than a strategic agent in the mirror of formation. If you only see your reflection in the mirror, and nothing exterior, you paradoxically hinder your own self-formation process in the face of static non-movement. Short-sightedness and strategic-instrumental self-centredness might risk destroying and limiting pupils’ and students’ access to the unknown. As a teacher, therefore, you must do your best to serve and foster the art of decentring from Monday to Friday, week after week, year after year.*
 
 > [!citation-card] [[Niklas Luhmann|卢曼]]论[[Blind Spot in Observation|观察盲点]]与可见性意识形态的界限
 > 卢曼在其巨著《社会的社会》中指出，观察者在观察时无法看见自身。因此，一切观察活动无不以盲点为前提。观看的条件，正是建立在看与不看的界分之上。一切自我观察同样受制于盲点，它之所以可能，仅仅因为它无法看见自身的观看。如果可见学习范式的拥护者遗忘了这些审慎而深刻的警醒，他们就是在盲目助推一种无边界超积极可见性意识形态，用极其有限的数据拼凑出一场庞大的眼球中心主义模拟幻象。
