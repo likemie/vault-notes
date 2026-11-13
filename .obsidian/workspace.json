@@ -113,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -328,11 +328,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8cf060930e9cdf12",
+  "active": "96c685dea1ff308e",
   "lastOpenFiles": [
-    "wiki/concepts/political-economy-geopolitics/Print-Capitalism.md",
-    "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch10.md",
     "wiki/theories/political-economy-geopolitics/Imagined Community.md",
+    "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch10.md",
+    "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md",
+    "wiki/methods/quantitative/Baseline Standardized Mean Difference.md",
+    "wiki/concepts/political-economy-geopolitics/Print-Capitalism.md",
     "wiki/theories/political-economy-geopolitics/Varieties of Capitalism.md",
     "Claude outputs/callout-preview/compare_timeline_titles.png",
     "wiki/methods/qualitative/Historical-Comparative Method.md",
@@ -340,7 +342,6 @@
     "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch09.md",
     "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch07.md",
     "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch08.md",
-    "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md",
     "wiki/methods/quantitative/Research Synthesis.md",
     "wiki/concepts/instruction-pedagogy/Visible Learning.md",
     "wiki/arguments/reports-policy-documents/Argument_Hattie_2005_ACER.md",
@@ -368,7 +369,6 @@
     "wiki/facts/finland/Finnish PISA Miracle.md",
     "raw/EEF/EEF_early_years_measures_full.json",
     "wiki/persons/france/Jules Michelet.md",
-    "wiki/concepts/political-economy-geopolitics/Reversed Ventriloquism.md",
     "raw/EEF/SPECTRUM_database_full.json",
     "raw/EEF/EEF_attainment_measures_full.json",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch09-0d7a1d02/batch-006/result.json",
