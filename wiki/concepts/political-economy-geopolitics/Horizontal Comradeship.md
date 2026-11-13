@@ -7,10 +7,10 @@ aliases:
 summary: "本尼迪克特·安德森界定民族共同体属性的核心构念，指不论现实社会内部存在何种深刻的阶级剥削与物质不平等，民族在集体心理图景中始终被表象为一种深沉平等的横向兄弟纽带；该构念为解释近现代千百万人甘愿为有限的民族想象牺牲献身提供了关键的情感与伦理基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 concept_field: "political-economy-geopolitics"
 concept_related_count: 8
 concept_related_level: 0
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Homogeneous, Empty Time]]"
   - "[[Creole Nationalism]]"
   - "[[Administrative Pilgrimage]]"
+  - "[[Unisonance]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods: []
@@ -46,6 +47,7 @@ related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
   - "[[Argument_Anderson_2016_Verso_Ch04]]"
   - "[[Argument_Anderson_2016_Verso_Ch07]]"
+  - "[[Argument_Anderson_2016_Verso_Ch08]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
 confidence: high
 status: active
@@ -87,6 +89,7 @@ updated: 2026-11-13
 > - **超越现实压迫的主观平权性** 跨越阶级与地位差距，在国民身份的维度上将所有成员投射为平等的兄弟手足。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 7)]]
 > - **以有限疆界为前提的情感排他性** 横向纽带仅存在于特定主权边界内部，为成员界定出明确的“我们”与“他者”。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 7)]]
 > - **驱动自愿献身的道德感召力** 赋予有限的政治实体以神圣的存在论归属感，构成激发千百万人甘愿赴死的深层情感源泉。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 7)]]
+> - **自然非选择性带来的无私光环** 民族属性被类比为亲属关系与故土家园，具有不容个体自主选择的既定宿命特征；恰恰因其非人为自愿组建，赋予了横向同志纽带纯洁而无私的道德崇高感。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 147–148)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -167,10 +170,12 @@ updated: 2026-11-13
 > | [[Homogeneous, Empty Time]] | 概念 | 钟表与日历度量的齐一空洞时间为横向共时情谊提供认知基础设施。 |
 > | [[Creole Nationalism]] | 概念 | 展现了横向同志情谊在奴隶种植园社会的生成路径与阶级防御特征。 |
 > | [[Administrative Pilgrimage]] | 概念 | 仕途朝圣的双重阻绝机制培育了美洲土生白人官僚间的横向同胞纽带。 |
+> | [[Unisonance]] | 概念 | 在国歌齐唱等声音仪式中，通过声波物理共振具象确证横向同志情谊。 |
 > | [[Benedict Anderson]] | 人物 | 在《想象的共同体》导论中正式提出并阐述该概念。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 界定横向情谊以解牺牲之谜（第1章），阐明宿命承接（第2章），分析美洲土生白人手足纽带（第4章），并剖析亚非殖民地学校同窗情谊向国族认同的升华（第7章）。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 界定横向情谊以解牺牲之谜（第1章），阐明宿命承接（第2章），分析美洲土生白人手足纽带（第4章），剖析亚非殖民地学校同窗情谊向国族认同的升华（第7章），并论证自然联结的非选择性与同声发音如何赋予横向情谊以无私牺牲光环（第8章）。
+> - [[Argument_Anderson_2016_Verso_Ch08|Anderson (2016)]] — 阐明家庭与故土隐喻将民族性归入非自主选择的天然宿命，赋予横向情谊以无私奉献光环（pp. 147–148）。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 将横向情谊延伸至认知人类学与地缘科技政治，论证其在克服邓巴数限制与守卫国家技术协同攻坚中的制度防线价值（pp. 190–198）。

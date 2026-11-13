@@ -9,7 +9,7 @@ aliases:
 summary: "本尼迪克特·安德森提出的民族主义核心理论，主张民族是被想象的有边界和主权的政治共同体。成员虽互不相识却共享同属一体的心理图像；印刷资本主义与统一学校系统提供了物质制度基础；卡普与扎米斯卡进一步将其拓展至认知人类学与科技政治学，论证想象链接克服了邓巴数极限并维系超大规模技术协作，批判后国家思潮对“情感民族”防线的放弃导致公民认同崩解与商业技术公社的替代性兴起。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 44
+theory_related_count: 47
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -49,6 +49,8 @@ related_concepts:
   - "[[Print-Language]]"
   - "[[Creole Nationalism]]"
   - "[[Administrative Pilgrimage]]"
+  - "[[Educational Pilgrimage]]"
+  - "[[Bilingual Intelligentsia]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -68,10 +70,11 @@ related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
   - "[[Argument_Anderson_2016_Verso_Ch03]]"
   - "[[Argument_Anderson_2016_Verso_Ch04]]"
+  - "[[Argument_Anderson_2016_Verso_Ch07]]"
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---
@@ -95,6 +98,7 @@ updated: 2026-11-11
 
 > [!dev-timeline] 理论演变与跨学科扩展
 > - **1983 年 — 现代主义建构论确立与先驱范本提出** [[Benedict Anderson|本尼迪克特·安德森]]出版《想象的共同体》，界定民族为有限且主权的想象政治实体，系统阐述前现代文化体系解体、时间认识论转型与印刷资本主义三大起源机制，并在第四章提出土生白人先驱模型，奠定[[Constructivist Paradigm|建构主义]]民族理论基石。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 4–7)]]; [[Argument_Anderson_2016_Verso_Ch02|(pp. 9–36)]]; [[Argument_Anderson_2016_Verso_Ch03|(pp. 37–46)]]; [[Argument_Anderson_2016_Verso_Ch04|(pp. 47–65)]]
+> - **1983 年拓展 — 最后一波民族主义与双重朝圣机制** 安德森在第七章系统阐述 20 世纪亚非殖民地民族主义的生成逻辑，揭示教育朝圣与行政朝圣的空间同构如何将帝国官僚管区转化为新型民族国家疆界，确立了双语知识阶层在民族想象中的中枢作用。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 113–140)]]
 > - **1990 年代 — 比较教育与教科书[[Official Knowledge|官方知识]]研究引入** 比较教育学者将该理论运用于解构历史教科书、课程大纲与仪式庆典在制造国家认同中的政治装置功能。
 > - **2024 年 — [[One Country, Two Systems|一国两制]]下的领土与族群叙事分化** [[Argument_Xu_2024_CE|Xu (2024)]] 结合 Brubaker 分析维度，揭示中国大陆与香港历史教科书如何分别构建出领土型与族裔型的差异化民族想象。
 > - **2025 年 — 认知人类学、情感民族防线与科技国家建构** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》（Ch. 17 & Ch. 18）中将想象的共同体与[[Dunbar's Number|邓巴数]]结合，论证共享语言叙事是克服生物学认知上限、实现现代尖端技术协作的必要纽带；尖锐批评后现代思潮对“情感民族”边界的放弃，并剖析了[[Civic Rituals|公民仪式]]瓦解导致想象亲密感断裂与硅谷技术公社的替代性崛起。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–198)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(pp. 216–218)]]
@@ -122,6 +126,8 @@ updated: 2026-11-11
 > | 每日公民投票（[[Everyday Plebiscite]]） | 认同维系机制 | 勒南（Renan, 1882）提出的持续同意机制，构成想象共同体跨代际存续的活态根基。 |
 > | [[Civic Rituals\|制造国家的公民仪式]]（Nation-Manufacturing Rituals） | 实践装置 | 兵役、公民教育、[[Civic Religion\|世俗公民宗教]]等维系陌生人间“想象亲密感”的实践纽带。 |
 > | [[Administrative Pilgrimage\|行政朝圣]]（Administrative Pilgrimage） | 政治地理机制 | 官僚仕途流转与地理巡游边界将抽象领土内化为具身想象的祖国。 |
+> | [[Educational Pilgrimage\|教育朝圣]]（Educational Pilgrimage） | 空间制度机制 | 统一学制等级金字塔促使异质族群青年向殖民首府汇聚，在同窗遭遇中把行政区划内化为民族疆界。 |
+> | [[Bilingual Intelligentsia\|双语知识阶层]]（Bilingual Intelligentsia） | 阶级行动者 | 兼通宗主国欧洲语言与本土族群语言的知识分子，依托双语媒介与行政游历成为最后一波民族主义的核心倡导者。 |
 > | [[Creole Nationalism\|土生白人民族主义]]（Creole Nationalism） | 历史发生范本 | 展现首波民族主义在奴隶制大庄园与共享语言背景下的生成路径与阶级防御机制。 |
 
 ---
@@ -161,6 +167,12 @@ updated: 2026-11-11
 
 > [!example|notitle]
 > 西属美洲的波哥大、加拉加斯与布宜诺斯艾利斯土生精英共享天主教信仰与西班牙语，但各自独立的总督区行政朝圣与互不流通的地方法报，促使他们将彼此想象为独立的哥伦比亚人、委内瑞拉人或阿根廷人，而非统一的西语大陆帝国。
+
+> [!theory-proposition] 命题七｜殖民地教育朝圣与行政朝圣的空间同构决定了最后一波民族想象的领土疆界与整合深度
+> 安德森在第七章论证，20 世纪亚非前殖民地的最后一波民族主义本质上是对宗主国官方民族主义和现代化帝国行政扩张的辩证反弹。宗主国为了帝国治理推行现代国家机器与科层官僚制，创设了自初等、中等至专业高等教育的层级金字塔学校网络。来自不同语种与习俗背景的殖民地年轻人在逐级向首府升学的“教育朝圣”中汇聚，在标准化教室中体验到平权同窗连带，并在随后受制于殖民地边界的“行政朝圣”中形成共享命运感，进而将行政区划地图内化为民族疆界。由双语知识阶层提炼的模型化欧洲语言民族主义与本土通商语言结合，最终使得看似缺乏古老共同历史的异质殖民地凝聚为新型主权国家。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 113–140)]]
+
+> [!example|notitle]
+> 荷属东印度群岛（印度尼西亚）覆盖数百个互不通属的族群与岛屿，正是巴达维亚的医学校与师范学校将苏门答腊、爪哇、安汶青年聚集在同一教室，促使他们在低地马来语报刊与反殖民运动中将荷属殖民地疆界想象为一个不可分割的“印度尼西亚”。
 
 ---
 
@@ -215,6 +227,6 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 专著《[[Imagined Community|想象的共同体]]》界定民族为有限主权的想象政治共同体（[[Argument_Anderson_2016_Verso_Ch01|Ch01]]），剖析真理语言衰落（[[Argument_Anderson_2016_Verso_Ch02|Ch02]]），揭示印刷语言基质（[[Argument_Anderson_2016_Verso_Ch03|Ch03]]），并阐明土生白人先驱的行政朝圣与地方报刊如何确立首波民族主义蓝本（[[Argument_Anderson_2016_Verso_Ch04|Ch04]]）。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 专著《[[Imagined Community|想象的共同体]]》系统奠定建构论民族理论（[[Argument_Anderson_2016_Verso_Ch01|Ch01]]-[[Argument_Anderson_2016_Verso_Ch04|Ch04]]），并揭示教育朝圣与行政朝圣如何铸就最后一波民族疆界（[[Argument_Anderson_2016_Verso_Ch07|Ch07]]）。
 > - [[Argument_Xu_2024_CE|Xu (2024)]] — 运用想象的共同体理论，实证对比了中国大陆与香港初中历史教科书中的领土型与族裔型民族想象。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》：[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch. 17]] 论证想象链接克服[[Dunbar's Number|邓巴数]]维系科技协作与守卫情感民族；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch. 18]] 剖析[[Civic Rituals|公民仪式]]瓦解与硅谷技术公社兴起。

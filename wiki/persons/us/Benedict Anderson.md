@@ -8,10 +8,10 @@ summary: "爱尔兰裔美国政治学家与东南亚研究权威，康奈尔大�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 27
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 30
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 person_kind: "scholar"
 born: 1936
 died: 2015
@@ -37,6 +37,8 @@ related_concepts:
   - "[[Cosmopolitanism]]"
   - "[[Hard Power]]"
   - "[[Assemblage]]"
+  - "[[Unisonance]]"
+  - "[[Colonial Racism]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods:
@@ -54,12 +56,13 @@ related_facts:
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Anderson_2016_Verso_Ch01]]"
+  - "[[Argument_Anderson_2016_Verso_Ch08]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Xu_2024_CE]]"
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---
@@ -111,6 +114,7 @@ updated: 2026-11-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]] — 《想象的共同体》导论从印支冲突切入，界定民族为有限且主权的想象政治共同体，并提出模块化文化人造物范式。
+> - [[Argument_Anderson_2016_Verso_Ch08|Anderson (2016)]] — 辨析爱国主义与种族主义，论证民族认同以语言、亲属隐喻与[[Unisonance|同声相应]]的自我牺牲之爱为根基，并揭示[[Colonial Racism|殖民种族主义]]源于封建贵族阶级意识形态（pp. 145–158）。
 > - [[Argument_Xu_2024_CE|Xu (2024)]] — 运用安德森想象共同体框架，实证解构中国大陆与香港初中历史教材中的领土与族群叙事。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 将安德森想象共同体与邓巴数结合，论述现代高科技攻坚的大规模协同基础及情感民族边界防卫。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 借用安德森想象共同体理论，剖析[[European Commission|欧盟委员会]]在马斯特里赫特条约危机下如何将教育作为建构“欧洲认同”的象征动员工具。（p. 482）

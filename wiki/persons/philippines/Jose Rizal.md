@@ -9,7 +9,7 @@ summary: "菲律宾民族英雄、思想家、眼科医生与文学家，反西�
 type: person
 nationality: philippines
 person_region: "philippines"
-person_related_count: 4
+person_related_count: 5
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -31,10 +31,11 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
+  - "[[Argument_Anderson_2016_Verso_Ch08]]"
 confidence: high
 status: active
 created: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---
@@ -48,6 +49,11 @@ updated: 2026-11-11
 > 黎刹虽然对读者的个体身份一无所知，却以一种反讽的亲昵口吻向他们倾诉，仿佛他们的关系就像旅人在客厅相遇一般自然；“我们菲律宾读者”在开篇即被小说叙事顺畅召唤出来。虚构的世界与大众日常现实生活在同一钟表与日历时间中发生重叠，使一个涵盖叙事者、书中角色与真实读者的菲律宾想象共同体得以确立。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 27–28)]]
 >
 > *While Rizal has not the faintest idea of his readers’ individual identities, he writes to them with an ironical intimacy, as though their relationship with each other is not in the smallest degree problematic. . . . The casual presentation of the actors . . . immediately hypostasizes the Filipino imagined community.*
+
+> [!citation-card] 安德森论黎刹绝命诗中超越仇恨的爱国之爱
+> 黎刹在行刑前夕写下的名篇《最后的诀别》中，不仅暴君统治者的国籍全然未被提及，而且其炽热的爱国情感正是用暴君的语言写就的。这篇诗作见证了民族主义文化产物所激发的深沉自我牺牲之爱；即便是面对残酷压迫的被殖民者，其民族情感表述中对敌人的仇恨成分也微乎其微。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 146–148)]]
+>
+> *Notice not only that the nationality of the ‘tyrants’ goes unmentioned, but that Rizal’s passionate patriotism is expressed superbly in ‘their’ language. . . . Even in the case of colonized peoples, who have every reason to feel hatred for their imperialist rulers, it is astonishing how insignificant the element of hatred is in these expressions of national feeling.*
 
 ---
 
@@ -65,6 +71,7 @@ updated: 2026-11-11
 > - **1887 — *Noli Me Tangere*（《不许犯我》/《社会毒瘤》）** 通过伊瓦拉（Crisostomo Ibarra）归国遭遇，剖析马尼拉各阶层日常生活景观，其开篇圣地亚哥队长晚宴场景成为安德森论证小说共时表象功能的核心材料。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 26–28)]]
 > - **1890 — *Sucesos de las Islas Filipinas*（《菲律宾诸岛史注释》）** 为莫尔加（Antonio de Morga）1609年史著做权威学术批注，考证西班牙征服前群岛本土文明的灿烂成就，旨在打破殖民者制造的历史自卑心理。
 > - **1891 — *El Filibusterismo*（《贪婪的统治》）** 政治反思长篇小说，借西蒙（Simoun）的激进复仇图谋，探讨殖民统治下合法改革与武装起义的内在伦理困境。
+- **1896 — *Mi Último Adiós*（《最后的诀别》）** 就义前夕在狱中所作绝命诗，通篇未提及西班牙殖民暴君国籍，以典雅西语抒发对菲律宾祖国的舍生之爱，被安德森作为民族情感源于无私之爱而非排他仇恨的典型范本。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 146–148)]]
 
 ---
 
@@ -80,6 +87,7 @@ updated: 2026-11-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Anderson_2016_Verso_Ch02|Anderson (2016)]] — 细读黎刹《不许犯我》开篇叙事技术，剖析复数名词、反讽视角与日历共时结构如何将马尼拉社会表象为具象化的菲律宾民族想象共同体（pp. 26–29）。
+> - [[Argument_Anderson_2016_Verso_Ch08|Anderson (2016)]] — 引录黎刹就义诗《最后的诀别》，阐明反殖民爱国情感以自我牺牲之爱为根基，并以宗主国语言建构无仇恨的民族忠诚（pp. 146–148）。
 
 ---
 

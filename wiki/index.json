@@ -13067,6 +13067,15 @@
     ]
   },
   {
+    "title": "Colonial Racism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Colonial Racism.md",
+    "aliases": [
+      "殖民种族主义",
+      "帝国种族主义"
+    ]
+  },
+  {
     "title": "Community of Shared Future for Mankind",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Community of Shared Future for Mankind.md",
@@ -14893,6 +14902,18 @@
       "神圣语言",
       "sacred language",
       "truth-languages"
+    ]
+  },
+  {
+    "title": "Unisonance",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Unisonance.md",
+    "aliases": [
+      "同声相应",
+      "同声发音",
+      "齐声发音",
+      "齐声合唱",
+      "同声合唱"
     ]
   },
   {
@@ -30714,6 +30735,17 @@
     ]
   },
   {
+    "title": "Arthur de Gobineau",
+    "type": "person",
+    "path": "wiki/persons/france/Arthur de Gobineau.md",
+    "aliases": [
+      "阿蒂尔·德·戈比诺",
+      "Joseph Arthur de Gobineau",
+      "戈比诺",
+      "Comte de Gobineau"
+    ]
+  },
+  {
     "title": "Auguste Comte",
     "type": "person",
     "path": "wiki/persons/france/Auguste Comte.md",
@@ -39453,6 +39485,19 @@
     "subtype": "event"
   },
   {
+    "title": "Kalevala Compilation",
+    "type": "fact",
+    "path": "wiki/facts/finland/Kalevala Compilation.md",
+    "aliases": [
+      "卡勒瓦拉编纂",
+      "芬兰卡勒瓦拉史诗搜集",
+      "卡勒瓦拉史诗整理与芬兰语言运动",
+      "Kalevala Epic Compilation",
+      "Compilation of Kalevala"
+    ],
+    "subtype": "event"
+  },
+  {
     "title": "Russification of Finland",
     "type": "fact",
     "path": "wiki/facts/finland/Russification of Finland.md",
@@ -44060,6 +44105,32 @@
     "subtype": "event"
   },
   {
+    "title": "San Martín Peruvianization Decree",
+    "type": "fact",
+    "path": "wiki/facts/peru/San Martín Peruvianization Decree.md",
+    "aliases": [
+      "圣马丁秘鲁化法令",
+      "1821年圣马丁秘鲁公民法令",
+      "秘鲁化法令",
+      "San Martin Peruvianization Decree",
+      "Decree of San Martin 1821"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "1846 Galician Slaughter",
+    "type": "fact",
+    "path": "wiki/facts/poland/1846 Galician Slaughter.md",
+    "aliases": [
+      "1846年加利西亚屠杀",
+      "加利西亚农奴起义",
+      "1846年加利西亚起义",
+      "Galician Jacquerie",
+      "1846 Galician Uprising"
+    ],
+    "subtype": "event"
+  },
+  {
     "title": "Polish Education Reform of 1999",
     "type": "fact",
     "path": "wiki/facts/poland/Polish Education Reform of 1999.md",
@@ -46307,6 +46378,19 @@
       "可见课堂项目"
     ],
     "subtype": "program"
+  },
+  {
+    "title": "Foundation of University of Kharkov (1804)",
+    "type": "fact",
+    "path": "wiki/facts/ukraine/Foundation of University of Kharkov (1804).md",
+    "aliases": [
+      "1804年哈尔科夫大学建校",
+      "哈尔科夫大学创办",
+      "哈尔科夫大学建校与乌克兰文学繁荣",
+      "Foundation of University of Kharkov",
+      "Founding of Kharkov University 1804"
+    ],
+    "subtype": "event"
   },
   {
     "title": "1968 Stanford Western Civ Reform",

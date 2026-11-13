@@ -23,8 +23,8 @@ tags:
   - theme/history
 related_concepts:
   - "[[Philological Revolution]]"
-  - "[[Sacred Language]]"
-  - "[[Homogeneous Empty Time]]"
+  - "[[Truth-Language]]"
+  - "[[Homogeneous, Empty Time]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -45,7 +45,7 @@ updated: 2026-11-13
 > [!person-profile] 人物档案
 > - **身份位置** 19 世纪上半叶法国东方语言学家、古文字学家、卢浮宫埃及博物馆首任馆长、法兰西公学院考古学教授，现代埃及学（Egyptology）奠基人。
 > - **核心角色** 成功破译失传千年的古埃及象形文字，将欧洲的人文知识视界从封闭的“希腊-罗马-希伯来”三角扩展至更古老的非欧洲古典世界。
-> - **代表贡献** 破译罗塞塔石碑及古埃及圣书体与僧侣体文字（[[Philological Revolution]]）；瓦解圣经年代学与经典古代对人类起源时间的垄断地位（[[Sacred Language]]）；奠定现代实证考古学与比较文字学的跨文化方法论（[[Homogeneous Empty Time]]）。
+> - **代表贡献** 破译罗塞塔石碑及古埃及圣书体与僧侣体文字（[[Philological Revolution]]）；瓦解圣经年代学与经典古代对人类起源时间的垄断地位（[[Truth-Language|真理语言]]）；奠定现代实证考古学与比较文字学的跨文化方法论（[[Homogeneous, Empty Time]]）。
 
 > [!citation-card] 安德森论古埃及文字破译瓦解欧洲中心主义远古神话
 > 在欧洲语境中，破译古埃及象形文字与梵语的学术效应，堪与19至20世纪破译楔形文字和玛雅文字相比拟：它们开启了此前未曾预料到的宏大远古世界。威廉·琼斯于1786年向孟加拉亚洲学会发表关于梵语的著名演讲；让-弗朗索瓦·商博良于1822年发表宣告破译古埃及象形文字的《致达西埃先生信》（其鸿篇巨著《埃及语法》于1836年身故后出版）。在这两个案例中，远比古典希腊语与希伯来语更为古老的书面语言的发现，深刻动摇了圣经与古典对“古代”的垄断地位。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, p. 72, n. 7)]]
@@ -104,5 +104,5 @@ updated: 2026-11-13
 
 > [!entry-map] 条目关联
 > - [[Philological Revolution]]
-> - [[Sacred Language]]
-> - [[Homogeneous Empty Time]]
+> - [[Truth-Language]]
+> - [[Homogeneous, Empty Time]]

@@ -7,7 +7,7 @@ aliases:
 summary: "本尼迪克特·安德森界定的现代民族主义形态，指19世纪中叶以降欧洲与亚非世袭君主王朝及统治特权集团为应对通俗语言民族主义与大众民主化冲击，自上而下挪用民族语言、族群历史与象征，将君权与优势族群认同强制缝合的先发制人防御战略。核心特征为将狭小紧绷的民族皮囊强套在庞大帝国身躯之上，最终因民族与帝国的内在排他性在殖民地催生不可调和的体制矛盾。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 21
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Dynastic Realm]]"
   - "[[Administrative Pilgrimage]]"
   - "[[Print-Language]]"
+  - "[[Colonial Racism]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods: []
@@ -43,6 +44,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch06]]"
   - "[[Argument_Anderson_2016_Verso_Ch07]]"
+  - "[[Argument_Anderson_2016_Verso_Ch08]]"
   - "[[Argument_Anderson_2016_Verso]]"
 confidence: high
 status: active
@@ -173,6 +175,7 @@ updated: 2026-11-13
 > | [[Macaulayism]] | 概念 | 典型策略，麦考利主义是大英帝国推行官方民族主义与文化同化的[[CORE Education\|核心教育]]机制。 |
 > | [[Administrative Pilgrimage]] | 概念 | 机制互补，殖民地被同化官员在官方民族主义下的行政朝圣遭遇刚性阻断。 |
 > | [[Print-Language]] | 概念 | 物质基础，官方民族主义依赖标准化印刷语言与国家教育系统推行强制普及。 |
+> | [[Colonial Racism]] | 概念 | 衍生产物，官方民族主义将阶级优越感向海外投射，与殖民同化结合催生殖民种族主义。 |
 > | [[Meiji Educational Reform]] | 事实 | 日本明治维新通过学制推行全民普及读写，构成官方民族主义的东亚典型案例。 |
 > | [[Benedict Anderson]] | 人物 | 理论提出者，在《文化根源》与《官方民族主义与帝国主义》系统界定了该机制。 |
 > | [[Hugh Seton-Watson]] | 人物 | 史学先行者，在《民族与国家》中对欧洲各国官方民族主义同化史提供了实证支撑。 |
@@ -181,4 +184,4 @@ updated: 2026-11-13
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 系统剖析官方民族主义作为王朝防御战略的演进矛盾（[[Argument_Anderson_2016_Verso_Ch06|第6章]]），并在最后一波民族主义（[[Argument_Anderson_2016_Verso_Ch07|第7章]]）中阐明其同化规训手段被后殖民国家吸收的机制。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 系统剖析官方民族主义作为王朝防御战略的演进矛盾（[[Argument_Anderson_2016_Verso_Ch06|第6章]]），在最后一波民族主义（[[Argument_Anderson_2016_Verso_Ch07|第7章]]）中阐明其同化规训手段被后殖民国家吸收的机制，并在爱国主义与种族主义（[[Argument_Anderson_2016_Verso_Ch08|第8章]]）中揭示官方民族主义与殖民俄罗斯化向海外投射贵族优越感以构建[[Colonial Racism|殖民种族主义]]的过程（pp. 154–155）。
