@@ -7,10 +7,10 @@ title: "Argument_Anderson_2016_Verso"
 argument_key: "Argument_Anderson_2016_Verso"
 argument_display_title: "Imagined Communities: Reflections on the Origin and Spread of Nationalism"
 argument_kind: "book"
-argument_related_count: 17
-argument_related_level: 1
-argument_related_stars: "⭐"
-argument_related_color: "#ede9fe"
+argument_related_count: 61
+argument_related_level: 6
+argument_related_stars: "💎💎"
+argument_related_color: "#fecdd3"
 authors:
   - "Anderson, B."
 source_language: "en"
@@ -27,26 +27,71 @@ sources:
   - "[[books/Anderson_2016_Verso/Anderson_2016_Verso|Anderson_2016_Verso]]"
 related_concepts:
   - "[[Nationalism]]"
+  - "[[Print-Capitalism]]"
   - "[[Paradigm]]"
+  - "[[Official Nationalism]]"
   - "[[Modular Nationalism]]"
-  - "[[Political Baptism of the Lower Classes]]"
   - "[[Horizontal Comradeship]]"
-  - "[[Document]]"
+  - "[[Truth-Language]]"
+  - "[[Dynastic Realm]]"
+  - "[[Messianic Time]]"
+  - "[[Homogeneous, Empty Time]]"
+  - "[[Print-Language]]"
+  - "[[Political Baptism of the Lower Classes]]"
+  - "[[Administrative Pilgrimage]]"
+  - "[[Creole Nationalism]]"
+  - "[[Philological Revolution]]"
+  - "[[Bureaucracy]]"
+  - "[[Bourgeois Reading Solidarity]]"
+  - "[[Macaulayism]]"
+  - "[[Bilingual Intelligentsia]]"
+  - "[[Educational Pilgrimage]]"
+  - "[[Inlander]]"
   - "[[Unisonance]]"
   - "[[Colonial Racism]]"
+  - "[[Chancellory War]]"
+  - "[[Geo-Body]]"
+  - "[[Map-as-Logo]]"
+  - "[[Document]]"
 related_theories:
   - "[[Imagined Community]]"
+  - "[[Law of Uneven and Combined Development]]"
+  - "[[Panopticism]]"
 related_persons:
   - "[[Benedict Anderson]]"
   - "[[Ernest Gellner]]"
   - "[[Ernest Renan]]"
-  - "[[Jose Rizal]]"
+  - "[[Walter Benjamin]]"
+  - "[[Erich Auerbach]]"
+  - "[[Martin Luther]]"
+  - "[[Lucien Febvre]]"
   - "[[Tom Nairn]]"
+  - "[[Victor Turner]]"
+  - "[[Johann Gottfried von Herder]]"
+  - "[[Eric Hobsbawm]]"
+  - "[[Thomas Babington Macaulay]]"
+  - "[[Hugh Seton-Watson]]"
+  - "[[Suwardi Surjaningrat]]"
+  - "[[Jose Rizal]]"
   - "[[Arthur de Gobineau]]"
-related_facts: []
+  - "[[Thongchai Winichakul]]"
+  - "[[Pramoedya Ananta Toer]]"
+related_facts:
+  - "[[Edict of Villers-Cotterêts]]"
+  - "[[Sumpah Pemuda]]"
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch01]]"
+  - "[[Argument_Anderson_2016_Verso_Ch02]]"
+  - "[[Argument_Anderson_2016_Verso_Ch03]]"
+  - "[[Argument_Anderson_2016_Verso_Ch04]]"
+  - "[[Argument_Anderson_2016_Verso_Ch05]]"
+  - "[[Argument_Anderson_2016_Verso_Ch06]]"
+  - "[[Argument_Anderson_2016_Verso_Ch07]]"
   - "[[Argument_Anderson_2016_Verso_Ch08]]"
+  - "[[Argument_Anderson_2016_Verso_Ch09]]"
+  - "[[Argument_Anderson_2016_Verso_Ch10]]"
+related_methods:
+  - "[[Historical-Comparative Method]]"
 status: "draft"
 created: "2026-11-10"
 updated: 2026-11-13
@@ -64,7 +109,7 @@ updated: 2026-11-13
 > 为什么在近现代历史中生成的狭小脆弱的民族认同，能够展现出超越宗教与阶级的巨大情感动员力并激发数百万人自愿赴死？民族作为一种独特的文化人造物，是如何从特定历史土壤中萌生并在全球范围内模块化散布的？
 
 > [!monograph-thesis] 全书核心主张
-> 民族是在宗教神圣秩序与王朝王权衰落后，依托印刷资本主义、近代小说与报纸的时空同时性，被建构出来的有限且享有主权的想象政治共同体；该形式在18世纪末定型后转变为可供普遍移植的模块化[[Paradigm|范式]]，通过官方民族主义、殖民行政规制与国家自传叙事在全球各类社会土壤中广泛扩散。
+> 民族是在宗教神圣秩序与王朝王权衰落后，依托[[Print-Capitalism|印刷资本主义]]、近代小说与报纸的时空同时性，被建构出来的有限且享有主权的想象政治共同体；该形式在18世纪末定型后转变为可供普遍移植的模块化[[Paradigm|范式]]，通过[[Official Nationalism|官方民族主义]]、殖民行政规制与国家自传叙事在全球各类社会土壤中广泛扩散。
 
 ---
 
@@ -72,10 +117,10 @@ updated: 2026-11-13
 > | 章节 | 内容概要 | 主要关联条目 |
 > |---|---|---|
 > | [[Argument_Anderson_2016_Verso_Ch01\|第1章 Introduction]] | 剖析印支战争揭示的理论反常，将民族界定为有限且享有主权的想象政治共同体，确立[[Modular Nationalism\|模块化文化人造物]]视角与[[Horizontal Comradeship\|横向同志情谊]]动员机制。 | [[Imagined Community]]、[[Modular Nationalism]]、[[Benedict Anderson]]、[[Ernest Gellner]]、[[Ernest Renan]] |
-> | [[Argument_Anderson_2016_Verso_Ch02\|第2章 Cultural Roots]] | 阐明民族对宗教存在论功能的承接，剖析真理语言、王朝领域与弥赛亚时间的瓦解，揭示齐一空洞时间及小说报纸对共时想象的技术表象。 | [[Truth-Language]]、[[Messianic Time]]、[[Homogeneous, Empty Time]]、[[Walter Benjamin]]、[[Erich Auerbach]] |
+> | [[Argument_Anderson_2016_Verso_Ch02\|第2章 Cultural Roots]] | 阐明民族对宗教存在论功能的承接，剖析[[Truth-Language\|真理语言]]、[[Dynastic Realm\|王朝领域]]与[[Messianic Time\|弥赛亚时间]]的瓦解，揭示齐一空洞时间及小说报纸对共时想象的技术表象。 | [[Truth-Language]]、[[Messianic Time]]、[[Homogeneous, Empty Time]]、[[Walter Benjamin]]、[[Erich Auerbach]] |
 > | [[Argument_Anderson_2016_Verso_Ch03\|第3章 The Origins of National Consciousness]] | 剖析资本主义、印刷技术与语言宿命多样性的历史聚合，阐明[[Print-Capitalism\|印刷资本主义]]开拓大众市场的方言转向，揭示[[Print-Language\|印刷语言]]奠定现代民族意识的三重机制。 | [[Print-Capitalism]]、[[Print-Language]]、[[Martin Luther]]、[[Edict of Villers-Cotterêts]]、[[Lucien Febvre]] |
 > | [[Argument_Anderson_2016_Verso_Ch04\|第4章 Creole Pioneers]] | 剖析美洲土生白人先驱开创现代民族主义首波浪潮，打破语言分化与[[Political Baptism of the Lower Classes\|平民受洗]]假说；揭示宗主国仕途封锁下[[Administrative Pilgrimage\|行政朝圣]]与地方报刊共时性将殖民管辖区固化为主权共和国。 | [[Creole Nationalism]]、[[Administrative Pilgrimage]]、[[Political Baptism of the Lower Classes]]、[[Tom Nairn]]、[[Victor Turner]] |
-> | [[Argument_Anderson_2016_Verso_Ch05\|第5章 Old Languages, New Models]] | 剖析19世纪欧洲语文学与词典编纂革命确立语言平等主义，揭示科层制扩张与资产阶级想象连带，阐明美法革命凝结为可供各方自由挪用与移植的模块化国家蓝图并倒逼民粹改革。 | [[Philological Revolution]]、[[Print-Language]]、[[Modular Nationalism]]、[[Johann Gottfried von Herder]]、[[Eric Hobsbawm]] |
+> | [[Argument_Anderson_2016_Verso_Ch05\|第5章 Old Languages, New Models]] | 剖析19世纪欧洲语文学与[[Philological Revolution\|词典编纂革命]]确立语言平等主义，揭示[[Bureaucracy\|科层制]]扩张与[[Bourgeois Reading Solidarity\|资产阶级想象连带]]，阐明美法革命凝结为可供各方自由挪用与移植的模块化国家蓝图并推动自上而下的政策调整。 | [[Philological Revolution]]、[[Print-Language]]、[[Modular Nationalism]]、[[Johann Gottfried von Herder]]、[[Eric Hobsbawm]] |
 > | [[Argument_Anderson_2016_Verso_Ch06\|第6章 Official Nationalism and Imperialism]] | 剖析王朝面临大众民族主义冲击的合法性危机，揭示将民族皮囊套于帝国身躯的[[Official Nationalism\|官方民族主义]]防御机制，阐明沙俄、英国、日本、暹罗与匈牙利同化工程中帝国与民族的内在排他性矛盾。 | [[Official Nationalism]]、[[Macaulayism]]、[[Thomas Babington Macaulay]]、[[Hugh Seton-Watson]]、[[Historical-Comparative Method]] |
 > | [[Argument_Anderson_2016_Verso_Ch07\|第7章 The Last Wave]] | 剖析亚非殖民地民族主义崛起，阐明[[Bilingual Intelligentsia\|双语知识分子]]先锋角色，揭示[[Educational Pilgrimage\|教育朝圣]]与行政朝圣空间同构对领土疆界的奠定机制，并以多语种瑞士论证民族想象无需母语同一性。 | [[Educational Pilgrimage]]、[[Bilingual Intelligentsia]]、[[Inlander]]、[[Suwardi Surjaningrat]]、[[Sumpah Pemuda]] |
 > | [[Argument_Anderson_2016_Verso_Ch08\|第8章 Patriotism and Racism]] | 辨析爱国主义与种族主义本质分野，论证民族认同以亲属隐喻与[[Unisonance\|同声相应]]的无私奉献为情感根基，揭示[[Colonial Racism\|殖民种族主义]]源于封建贵族阶级意识形态与海外扮演贵族排场。 | [[Unisonance]]、[[Colonial Racism]]、[[Jose Rizal]]、[[Tom Nairn]]、[[Arthur de Gobineau]] |

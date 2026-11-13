@@ -13674,6 +13674,17 @@
     ]
   },
   {
+    "title": "Historical Map",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Historical Map.md",
+    "aliases": [
+      "历史地图",
+      "编年历史地图",
+      "历史疆界地图",
+      "Historical Maps"
+    ]
+  },
+  {
     "title": "Homogeneous, Empty Time",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Homogeneous, Empty Time.md",
@@ -14097,6 +14108,18 @@
       "多边监督",
       "多边监控",
       "multilateral surveillance in governance"
+    ]
+  },
+  {
+    "title": "National Biography",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/National Biography.md",
+    "aliases": [
+      "民族传记",
+      "民族自传",
+      "民族的传记",
+      "国家的传记",
+      "Biography of Nations"
     ]
   },
   {
@@ -14525,6 +14548,17 @@
     ]
   },
   {
+    "title": "Reassurance of Fratricide",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Reassurance of Fratricide.md",
+    "aliases": [
+      "兄弟残杀的抚慰",
+      "兄弟相残的抚慰",
+      "兄弟阋墙的安抚",
+      "兄弟内战的抚慰"
+    ]
+  },
+  {
     "title": "Reciprocal Control Mechanism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Reciprocal Control Mechanism.md",
@@ -14685,6 +14719,17 @@
       "政策选择性",
       "policy selectivity",
       "strategic selectivity"
+    ]
+  },
+  {
+    "title": "Serialization",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Serialization.md",
+    "aliases": [
+      "序列化",
+      "人身序列化",
+      "复制性复数",
+      "serialisation"
     ]
   },
   {
@@ -14975,6 +15020,17 @@
       "全面战争",
       "Der totale Krieg",
       "total warfare"
+    ]
+  },
+  {
+    "title": "Totalizing Classificatory Grid",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Totalizing Classificatory Grid.md",
+    "aliases": [
+      "总括性分类网格",
+      "全面分类网格",
+      "全景分类网格",
+      "classificatory grid"
     ]
   },
   {
