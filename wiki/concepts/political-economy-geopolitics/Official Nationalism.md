@@ -145,6 +145,7 @@ updated: 2026-11-13
 > - **1977年 — 塞顿-沃森正式提出史学概念** 塞顿-沃森在《民族与国家》中界定官方民族主义为沙皇等王朝将沙皇权力与俄罗斯民族特征相结合的同化政策。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, p. 88)]]
 > - **1983年 — 安德森确立全球理论模型** 安德森在《[[Imagined Community|想象的共同体]]》第6章将官方民族主义拓展为欧亚通用的帝国自保范式，并在第8章进一步揭示官方民族主义向海外投射贵族优越感以构建[[Colonial Racism|殖民种族主义]]的阶级机制。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 85–113)]]; [[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 154–155)]]
 - **1983年 — 揭示后革命政权对官方民族主义的同化继承** 安德森在第9章指出，官方民族主义不仅服务于旧王朝，更在革命政权接管旧国家电网与宫殿后全面复活；革命领导层逆向归化古代专制君主为国民祖先，催生国家马基雅维利主义并引发密室战争。[[Argument_Anderson_2016_Verso_Ch09|(Anderson, 2016, pp. 163–165)]]
+- **1991年 — 修正官方民族主义的殖民发生学谱系** 安德森在第10章反思指出，亚非独立新国家的官方民族主义并非直接源自19世纪欧洲王朝国家，其实质发生学源流来自晚期殖民国家的心智与治理语法，通过人口普查、地图与博物馆三大制度深度规制后殖民国家形态。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 167–168)]]
 
 ---
 
@@ -185,4 +186,4 @@ updated: 2026-11-13
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 系统剖析官方民族主义作为王朝防御战略的演进（[[Argument_Anderson_2016_Verso_Ch06|第6章]]），在后殖民吸收（[[Argument_Anderson_2016_Verso_Ch07|第7章]]）与种族主义构建（[[Argument_Anderson_2016_Verso_Ch08|第8章]]）后，于第9章揭示后革命政权继承国家机器复活官方民族主义的机制（pp. 163–165）。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 系统剖析官方民族主义从王朝自保（[[Argument_Anderson_2016_Verso_Ch06|第6章]]）、革命复活（[[Argument_Anderson_2016_Verso_Ch09|第9章]]）到晚期殖民国家心智谱系（[[Argument_Anderson_2016_Verso_Ch10|第10章]]）的演化历程。
