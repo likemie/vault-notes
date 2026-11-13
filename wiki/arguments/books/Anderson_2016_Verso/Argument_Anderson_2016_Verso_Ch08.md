@@ -194,11 +194,6 @@ updated: 2026-11-13
 > [!case] 《马赛曲》、《丛林流浪》与《大印度尼西亚》的同声合唱经验
 > 法国《马赛曲》（*La Marseillaise*）、澳大利亚《丛林流浪》（*Waltzing Matilda*）与印度尼西亚《大印度尼西亚》（*Indonesia Raya*）等国歌范例表明：无论歌词如何质朴，旋律如何简易，只要在国家节日中由成千上万互不相识的国民共时唱出，歌唱者便沉浸在深切的无私体验之中。歌唱者即便无法看清远方同胞的面庞，亦无法亲耳听见其声音，整个民族共同体依然通过想象的声音获得切实的声波共鸣与具象确证 (p. 149)。
 
-> [!citation-card] 国歌齐唱中的同声相应体验
-> 以国定假日歌唱国歌为例。不论歌词多么平庸，旋律多么单调，在唱诵的时刻都存在着一种同时性的体验。恰恰在这样的时刻，完全互不相识的人们依循相同的旋律吐出相同的诗句。这种意象便是同声相应。歌唱《马赛曲》、《丛林流浪》、《大印度尼西亚》，为这种同声性提供了契机，让想象的共同体获得了回荡的物理具象实现。这种齐鸣的声音令人感到何等无私。我们意识到他人在同一时刻如我们一般歌唱，却不知他们是谁，也不知他们在何处发声。将我们全部联结在一起的，唯有这想象的声音 (p. 149)。
->
-> *Take national anthems, for example, sung on national holidays. No matter how banal the words and mediocre the tunes, there is in this singing an experience of simultaneity. At precisely such moments, people wholly unknown to each other utter the same verses to the same melody. The image: unisonance. Singing the Marseillaise, Waltzing Matilda, and Indonesia Raya provide occasions for unisonality, for the echoed physical realization of the imagined community. . . . How selfless this unisonance feels! If we are aware that others are singing these songs precisely when and as we are, we have no idea who they may be, or even where, out of earshot, they are singing. Nothing connects us all but imagined sound.*
-
 ---
 
 > [!sub-claim] 2. 民族认同依托语言建立，向一切愿意学习的新加入者敞开大门
@@ -268,11 +263,6 @@ updated: 2026-11-13
 > > - **Nairn (1977)** 主张种族主义源自民族主义，认为从长远历史审视，法西斯主义比其他历史事件更能揭示民族主义的本质 (p. 152, n. 13)。
 > > - **Anderson (2016)** 反驳该论断，指出种族主义属于生物还原论，根植于欧洲封建贵族阶级对自身天生优越地位的辩护；犹太复国主义恰恰展现出将古老宗教社群重构为国际平权民族国家的努力，见证了民族认同对纯粹神圣宿命的世俗历史化转化 (pp. 153–154, n. 16)。
 
-> [!citation-card] 民族主义历史命运与种族主义永恒污染
-> 民族主义立足于历史命运范畴进行思考，种族主义则沉溺于自时间开端以来通过无休止卑劣交媾所传递的永恒污染，全然游离于历史之外。黑人因无形焦油刷涂抹而永久沦为黑人；犹太人作为亚伯拉罕后裔，无论持有何种护照、阅读何种语言，永久作为犹太人存在（在纳粹看来，德国犹太人始终属于冒充者）。种族主义的狂想直接起源于阶级意识形态：首先来自统治者对神圣天命的僭称，以及贵族阶级对蓝血与门第血统的自夸。现代种族主义由阿[[Peter Thiel|蒂尔]]·德·戈比诺伯爵创立，正体现了这一阶级属性。种族主义与反犹主义主要展现在政治疆界之内，直接服务于对内的压迫与支配 (pp. 153–154)。
->
-> *The fact of the matter is that nationalism thinks in terms of historical destinies, while racism dreams of eternal contaminations, transmitted from the origins of time through an endless sequence of loathsome copulations: outside history. Niggers are, thanks to the invisible tar-brush, forever niggers; Jews, the seed of Abraham, forever Jews, no matter what passports they carry or what languages they speak and read. (Thus for the Nazi, the Jewish German was always an impostor.) The dreams of racism actually have their origin in ideologies of class, rather than in those of nation: above all in claims to divinity among rulers and to ‘blue’ or ‘white’ blood and ‘breeding’ among aristocracies. No surprise then that the putative sire of modern racism should be, not some petty-bourgeois nationalist, but Joseph Arthur, Comte de Gobineau. Nor that, on the whole, racism and anti-semitism manifest themselves, not across national boundaries, but within them. In other words, they justify not so much foreign wars as domestic repression and domination.*
-
 ---
 
 > [!claim|step] 论证步骤四　种族主义源自贵族阶级特权，殖民官员在海外扮演领主派头
@@ -339,6 +329,33 @@ updated: 2026-11-13
 > - **萨凯加达洛共和国宪法宣告肤色完全平权** 菲律宾革命烈士[[Macario Sakay|马卡里奥·萨凯]]（Macario Sakay）领导建立的[[Republic of Katagalugan|加达洛共和国]]（卡塔加卢甘共和国，Republic of Katagalugan, 1902）在宪法中庄严宣告：凡出生于本群岛之人民，绝不可因种族或肤色自命优越；无论肤色浅白或深黑、家境贫穷或富裕、受过教育或目不识丁，全员一律完全平等，共同拥有合一之内在心神（loób）；在受教育程度、财富或外表上虽有差别，但在人的根本本质（pagkatao）与投身崇高事业的奉献资格上决无高下之分。这一宪政[[Document|文献]]证明，反殖民民族主义以横向平权手足为追求，超越了狭隘的种族复仇与反向歧视 (pp. 157–158)。
 > - **美洲独立先驱对土著记忆的反向认同** 讲西班牙语的墨西哥麦士蒂索混血儿将其历史始祖追溯至阿兹特克、玛雅、托尔特克与萨波特克原住民文明，而非西班牙征服者；乌拉圭土生白人革命者主动使用1781年被西班牙人残酷处死的印第安起义领袖图帕克·阿马鲁（Tupac Amarú）的名号，彰显了民族认同对生物血缘界线的深层跨越 (p. 158)。
 
+> [!conclusion] 语言历史归属与殖民种族主义的阶级解构
+> 民族主义与种族主义具有截然不同的情感根基与阶级谱系。爱国主义扎根于母语的历史渊源与齐声合唱的声波共振，以家园与亲属隐喻确立了超越世俗功利的无私奉献；语言对所有学习者的全然敞开，使现代民族共同体天然具备归化包容性。相反，种族主义源自前现代封建贵族抗拒平民民主的阶级优越狂想；在19世纪帝国扩张中，官方民族主义将这种贵族排场输出至海外，结合二元军队与跨国白人连带，共同构建了殖民支配体系。反殖民民族独立运动坚守平等同胞信念，证明了民族认同对生物血缘的根本超越 (pp. 157–158)。
+
+---
+
+### 经典论述与引文
+
+> [!citation-card] 民族主义文化表达中仇恨成分的缺失
+> 在进步、世界主义知识分子（特别是在欧洲）习惯于坚称民族主义具有近乎病态的特征、源于对异者的恐惧与仇恨、并与种族主义具有亲缘性的时代，提醒我们自己民族能够激发起爱（并且往往是极其深刻的自我牺牲之爱）是大有裨益的。民族主义的文化产物（诗歌、散文小说、音乐与造型艺术）在成千上万种不同形式与风格中清晰展现了这种爱。反过来，要在相应的民族主义产物中找到表达恐惧与厌恶的作品，是何等罕见。即便面对殖民地人民，他们有充分的理由对帝国主义统治者怀抱仇恨，但在这些民族情感的表述中，仇恨成分之微不足道令人惊叹 (pp. 145–146)。
+>
+> *In an age when it is so common for progressive, cosmopolitan intellectuals (particularly in Europe?) to insist on the near-pathological character of nationalism, its roots in fear and hatred of the Other, and its affinities with racism, it is useful to remind ourselves that nations inspire love, and often profoundly self-sacrificing love. The cultural products of nationalism – poetry, prose fiction, music, plastic arts – show this love very clearly in thousands of different forms and styles. On the other hand, how truly rare it is to find analogous nationalist products expressing fear and loathing. Even in the case of colonized peoples, who have every reason to feel hatred for their imperialist rulers, it is astonishing how insignificant the element of hatred is in these expressions of national feeling.*
+
+> [!citation-card] 民族归属的不可选择性与无私性光环
+> 这种政治之爱的本质，可以从语言描述其对象的方式中解读出来：要么采用亲属词汇（motherland, Vaterland, patria），要么采用家园词汇（heimat 或 tanah air［水土，印度尼西亚人指代本国群岛的短语］）。两种语汇都指向人们天然与之相连的事物。在一切自然事物中，总存在着某种非选择的成分。通过这种方式，民族性被同化为肤色、性别、出身与诞生年代等无法自主决定的事物。而在这些自然纽带中，人们能够感知到共同体之美。换言之，此类纽带天然未经自主选择，具有无私性的光环。普通民众眼中的民族本质上是无私利的；正因如此，它才能够要求牺牲 (pp. 147–148)。
+>
+> *Something of the nature of this political love can be deciphered from the ways in which languages describe its object: either in the vocabulary of kinship (motherland, Vaterland, patria) or that of home (heimat or tanah air [earth and water, the phrase for the Indonesians’ native archipelago]). Both idioms denote something to which one is naturally tied. . . . precisely because such ties are not chosen, they have about them a halo of disinterestedness. . . . for most ordinary people of whatever class the whole point of the nation is that it is interestless. Just for that reason, it can ask for sacrifices.*
+
+> [!citation-card] 国歌齐唱中的同声相应体验
+> 以国定假日歌唱国歌为例。不论歌词多么平庸，旋律多么单调，在唱诵的时刻都存在着一种同时性的体验。恰恰在这样的时刻，完全互不相识的人们依循相同的旋律吐出相同的诗句。这种意象便是同声相应。歌唱《马赛曲》、《丛林流浪》、《大印度尼西亚》，为这种同声性提供了契机，让想象的共同体获得了回荡的物理具象实现。这种齐鸣的声音令人感到何等无私。我们意识到他人在同一时刻如我们一般歌唱，却不知他们是谁，也不知他们在何处发声。将我们全部联结在一起的，唯有这想象的声音 (p. 149)。
+>
+> *Take national anthems, for example, sung on national holidays. No matter how banal the words and mediocre the tunes, there is in this singing an experience of simultaneity. At precisely such moments, people wholly unknown to each other utter the same verses to the same melody. The image: unisonance. Singing the Marseillaise, Waltzing Matilda, and Indonesia Raya provide occasions for unisonality, for the echoed physical realization of the imagined community. . . . How selfless this unisonance feels! If we are aware that others are singing these songs precisely when and as we are, we have no idea who they may be, or even where, out of earshot, they are singing. Nothing connects us all but imagined sound.*
+
+> [!citation-card] 民族主义历史命运与种族主义永恒污染
+> 民族主义立足于历史命运范畴进行思考，种族主义则沉溺于自时间开端以来通过无休止卑劣交媾所传递的永恒污染，全然游离于历史之外。黑人因无形焦油刷涂抹而永久沦为黑人；犹太人作为亚伯拉罕后裔，无论持有何种护照、阅读何种语言，永久作为犹太人存在（在纳粹看来，德国犹太人始终属于冒充者）。种族主义的狂想直接起源于阶级意识形态：首先来自统治者对神圣天命的僭称，以及贵族阶级对蓝血与门第血统的自夸。现代种族主义由阿蒂尔·德·戈比诺伯爵创立，正体现了这一阶级属性。种族主义与反犹主义主要展现在政治疆界之内，直接服务于对内的压迫与支配 (pp. 153–154)。
+>
+> *The fact of the matter is that nationalism thinks in terms of historical destinies, while racism dreams of eternal contaminations, transmitted from the origins of time through an endless sequence of loathsome copulations: outside history. Niggers are, thanks to the invisible tar-brush, forever niggers; Jews, the seed of Abraham, forever Jews, no matter what passports they carry or what languages they speak and read. (Thus for the Nazi, the Jewish German was always an impostor.) The dreams of racism actually have their origin in ideologies of class, rather than in those of nation: above all in claims to divinity among rulers and to ‘blue’ or ‘white’ blood and ‘breeding’ among aristocracies. No surprise then that the putative sire of modern racism should be, not some petty-bourgeois nationalist, but Joseph Arthur, Comte de Gobineau. Nor that, on the whole, racism and anti-semitism manifest themselves, not across national boundaries, but within them. In other words, they justify not so much foreign wars as domestic repression and domination.*
+
 > [!citation-card] [[Macario Sakay|萨凯]]共和国宪法确立超越肤色的平等同胞人格
 > 凡出生于本塔加洛群岛的塔加洛人，绝不可因其种族或肤色而自命凌驾于他人之上；无论白皙或黝黑、富贵或赤贫、受教育或无知，全员一律完全平等，并且应当合于同一内在心神（loób）之中。在教育、财富或相貌上或有差异，但在人的本质（pagkatao）以及为共同事业奉献的能力上，绝无差别 (pp. 157–158)。
 >
@@ -348,9 +365,6 @@ updated: 2026-11-13
 > 这些依恋的对象皆为想象之物（面目模糊的塔加洛同胞、早已灭绝的原住部族、俄罗斯母亲或群岛水土）。然而对祖国的挚爱（amor patriae）正如人类其他深情，总包含真挚的想象成分。正如眼睛之于恋人（那双生来拥有、普通而独特的眼睛），母语（不论历史赋予何种母语）之于爱国者亦是如此。正是通过在母亲膝前初次相逢、唯有走向坟墓方才作别的母语，过往的历史得以重现，同胞的手足情谊得以被想象，未来的梦想得以展翅翱翔 (p. 158)。
 >
 > *What the eye is to the lover – that particular, ordinary eye he or she is born with – language – whatever language history has made his or her mother-tongue – is to the patriot. Through that language, encountered at mother’s knee and parted with only at the grave, pasts are restored, fellowships are imagined, and futures dreamed.*
-
-> [!conclusion] 语言历史归属与殖民种族主义的阶级解构
-> 民族主义与种族主义具有截然不同的情感根基与阶级谱系。爱国主义扎根于母语的历史渊源与齐声合唱的声波共振，以家园与亲属隐喻确立了超越世俗功利的无私奉献；语言对所有学习者的全然敞开，使现代民族共同体天然具备归化包容性。相反，种族主义源自前现代封建贵族抗拒平民民主的阶级优越狂想；在19世纪帝国扩张中，官方民族主义将这种贵族排场输出至海外，结合二元军队与跨国白人连带，共同构建了殖民支配体系。反殖民民族独立运动坚守平等同胞信念，证明了民族认同对生物血缘的根本超越 (pp. 157–158)。
 
 ---
 

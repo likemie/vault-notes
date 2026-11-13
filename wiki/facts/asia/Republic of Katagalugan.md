@@ -48,13 +48,6 @@ updated: 2026-11-13
 
 ---
 
-> [!citation-card] 萨凯共和国宪法确立超越肤色的平等同胞人格
-> 凡出生于本塔加洛群岛的塔加洛人，绝不可因其种族或肤色而自命凌驾于他人之上；无论白皙或黝黑、富贵或赤贫、受教育或无知，全员一律完全平等，并且应当合于同一内在心神（loób）之中。在教育、财富或相貌上或有差异，但在人的本质（pagkatao）以及为共同事业奉献的能力上，绝无差别。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 157–158)]]
->
-> *No Tagalog, born in this Tagalog archipelago, shall exalt any person above the rest because of his race or the colour of his skin; fair, dark, rich, poor, educated and ignorant – all are completely equal, and should be in one loób [inward spirit]. There may be differences in education, wealth, or appearance, but never in essential nature (pagkatao) and ability to serve a cause.*
-
----
-
 > [!actor-grid] 权力—立场矩阵
 > - **反殖民革命平民阵营** 马卡里奥·萨凯与卡蒂普南游击军战士，代表群岛底层工农大众的民族解放与激进民主诉求。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, p. 158, n. 26)]]
 > - **殖民侵略当权阵营** 美国驻菲律宾军政府与文官委员会，依靠严酷军事镇压与立法指控维护帝国秩序。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, p. 158, n. 26)]]
@@ -83,6 +76,13 @@ updated: 2026-11-13
 > - **击碎殖民污名神话** 萨凯政权的崇高纲领撕下了美军将反抗战士贬低为单纯盗匪的舆论伪装，确立其作为菲律宾民族英雄的崇高地位。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, p. 158, n. 26)]]
 > - **提供无反向种族主义实证** 安德森将加达洛共和国宪法作为关键文本证据，表明反殖民民族主义从未退化为针对白人的生物仇恨。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 157–158)]]
 > - **奠定平民民族主义传统** 承接安德烈·滂尼发秀（Andrés Bonifacio）开创的平民革命路线，使激进民主意识深深植根于东南亚现代政治思想脉络。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 157–158)]]
+
+---
+
+> [!citation-card] 萨凯加达洛共和国宪法平权宣言
+> 凡出生于本塔加洛群岛的塔加洛人，绝不可因其种族或肤色而自命凌驾于他人之上；无论白皙或黝黑、富贵或赤贫、受教育或无知，全员一律完全平等，并且应当合于同一内在心神（loób）之中。在教育、财富或相貌上或有差异，但在人的本质（pagkatao）以及为共同事业奉献的能力上，绝无差别。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 157–158)]]
+>
+> *No Tagalog, born in this Tagalog archipelago, shall exalt any person above the rest because of his race or the colour of his skin; fair, dark, rich, poor, educated and ignorant – all are completely equal, and should be in one loób [inward spirit]. There may be differences in education, wealth, or appearance, but never in essential nature (pagkatao) and ability to serve a cause.*
 
 ---
 
