@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 ---
@@ -154,6 +154,19 @@ updated: 2026-11-11
 > **结果怎么读** 当 $F > F_{\text{crit}}$ 且 $p < .05$ 时，拒绝原假设，表明各组均值不全相等。
 >
 > **注意事项** 当组数 $k=2$ 时，单因素方差分析等价于独立样本 $t$ 检验，且严格满足 $F = t^2$。
+>
+> > [!geogebra] ANOVA 变异分解的动态模拟
+> > - **数据点** 3 组各 5 个观测值（彩色点），由标准正态随机残差生成。
+> > - **滑块 $\bar{y}_2$、$\bar{y}_3$** 水平拖拽可调整第 2 组与第 3 组的总体均值，增大组间距离使 $SS_{\text{between}}$ 上升。
+> > - **滑块 σ** 垂直拖拽可调整各组的组内标准差，增大 σ 使 $SS_{\text{within}}$ 上升而 $F$ 值下降。
+> > - **总均值线 $\bar{\bar{y}}$** 黑色水平线，标示全样本总均值。
+> > - **组均值线** 各组彩色水平短线，标示各组样本均值 $\bar{Y}_i$。
+> >
+> > 先将 $\bar{y}_2$ 与 $\bar{y}_3$ 滑块拉开使三组均值分离，观察组间离差增大；再增大 σ 使观测值散布加剧，观察组内误差如何稀释 $F$ 值。点击"Generate new samples"按钮重新抽样，反复对比同一参数设定下 $F$ 值的抽样波动。
+> >
+> > ![[wiki/assets/geogebra/anova_variance_partitioning.ggb]]
+> >
+> > 模拟来自 University of Melbourne School of Mathematics and Statistics 的 [Partitioning of Variability in ANOVA](https://www.geogebra.org/m/djVO5hUR)；采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。Created with [GeoGebra®](https://www.geogebra.org/)。
 
 > [!formula-step] 公式步骤二　样本方差解释度效应量 Eta-Squared（$\eta^2$ 与 $\eta_p^2$）
 > $$\eta^2 = \frac{SS_{\text{between}}}{SS_{\text{total}}}$$

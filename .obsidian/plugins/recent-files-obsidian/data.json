@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Analysis of Variance",
+      "path": "wiki/methods/quantitative/Analysis of Variance.md"
+    },
+    {
+      "basename": "Analysis of Covariance",
+      "path": "wiki/methods/quantitative/Analysis of Covariance.md"
+    },
+    {
+      "basename": "template-fact-event",
+      "path": "wiki/templates/template-fact-event.md"
+    },
+    {
       "basename": "Argument_Anderson_2016_Verso_Ch04",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch04.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Soft Privatisation",
       "path": "wiki/concepts/educational-policy-reform/Soft Privatisation.md"
-    },
-    {
-      "basename": "Argument_Nielsen_2021_IRTP",
-      "path": "wiki/arguments/journal-articles/International Review of Theoretical Psychologies/Argument_Nielsen_2021_IRTP.md"
-    },
-    {
-      "basename": "Argument_Pampaka_2016_IJRME",
-      "path": "wiki/arguments/journal-articles/International Journal of Research & Method in Education/Argument_Pampaka_2016_IJRME.md"
-    },
-    {
-      "basename": "Argument_Peterson_2016_IJRME",
-      "path": "wiki/arguments/journal-articles/International Journal of Research & Method in Education/Argument_Peterson_2016_IJRME.md"
     }
   ],
   "omittedPaths": [],
