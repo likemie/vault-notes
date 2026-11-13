@@ -14099,6 +14099,19 @@
     ]
   },
   {
+    "title": "Naturalization",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Naturalization.md",
+    "aliases": [
+      "主权归化",
+      "归化",
+      "法律归化",
+      "国籍归化",
+      "民族归化",
+      "Naturalization Principle"
+    ]
+  },
+  {
     "title": "Network Governance",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Network Governance.md",
@@ -31734,6 +31747,18 @@
     ]
   },
   {
+    "title": "Pramoedya Ananta Toer",
+    "type": "person",
+    "path": "wiki/persons/indonesia/Pramoedya Ananta Toer.md",
+    "aliases": [
+      "普拉姆迪亚·阿南达·杜尔",
+      "普拉姆迪亚",
+      "杜尔",
+      "Pramoedya",
+      "Toer, P. A."
+    ]
+  },
+  {
     "title": "Suwardi Surjaningrat",
     "type": "person",
     "path": "wiki/persons/indonesia/Suwardi Surjaningrat.md",
@@ -32160,6 +32185,18 @@
       "José Rizal",
       "Rizal, J.",
       "J. Rizal"
+    ]
+  },
+  {
+    "title": "Macario Sakay",
+    "type": "person",
+    "path": "wiki/persons/philippines/Macario Sakay.md",
+    "aliases": [
+      "马卡里奥·萨凯",
+      "萨凯",
+      "Makario Sakay",
+      "Macario Sakay y de León",
+      "Sakay, M."
     ]
   },
   {

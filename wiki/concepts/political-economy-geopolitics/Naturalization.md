@@ -9,6 +9,11 @@ aliases:
   - Naturalization Principle
 summary: "本尼迪克特·安德森界定的政治法律构念，指现代民族共同体通过语言文化接纳与法律程序允许外来者合法转变为本国公民的开放制度原则。安德森指出，民族自其起源起便构想于语言而非生物血统之中，这使得任何封闭的民族国家在法理上均保留了邀请异邦人融入的归化入口；这一机制构成了民族主义与基于永恒生物宿命的种族主义在本体论上的关键分水岭。"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/nationalism
   - theme/citizenship

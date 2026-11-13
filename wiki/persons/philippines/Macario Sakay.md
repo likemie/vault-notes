@@ -9,6 +9,11 @@ aliases:
 summary: "菲律宾平民革命家、卡蒂普南抗暴游击领袖与加达洛共和国总统。在埃米利奥·阿奎纳多等精英向美国殖民者投降后，萨凯在吕宋岛南部坚持开展抗美游击战争，其1902年宪法庄严宣告群岛全体同胞超越肤色、财富与教育的绝对平等与合一心性（loób）；被本尼迪克特·安德森作为证明反殖民民族主义具有横向博爱本质且不产生反向种族主义的典型历史人物。"
 type: person
 nationality: philippines
+person_region: "philippines"
+person_related_count: 0
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: 1878
 died: 1907
 lifespan: "1878–1907"
