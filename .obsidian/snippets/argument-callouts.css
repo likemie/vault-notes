@@ -27407,57 +27407,61 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"]:not(.is-collapsed) > .callout-title { margin-bottom:.75rem !important; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content { padding:0 !important; }
 
-/* Flat type colors occupy the entry cells; the relation column stays neutral. */
-html body .callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content table.entry-map-colors {
+/* Entry labels carry the type tint; a shared baseline aligns the table with the callout heading. */
+html body .callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content table.entry-map-colors {
   --entry-map-paper:var(--ac-paper,var(--background-primary));
-  --entry-map-rule:color-mix(in srgb,var(--text-muted) 22%,var(--background-modifier-border));
-  --entry-map-divider:color-mix(in srgb,var(--text-muted) 10%,var(--entry-map-paper));
+  --entry-map-divider:color-mix(in srgb,var(--text-muted) 18%,transparent);
+  --entry-map-gutter:clamp(.42rem,1.5cqi,.85rem);
   width:100% !important;
-  border:1px solid var(--entry-map-rule) !important;
-  border-radius:7px !important;
+  border:0 !important;
+  border-radius:0 !important;
   border-collapse:separate !important;
   border-spacing:0 !important;
-  overflow:hidden;
+  background:none !important;
   table-layout:fixed !important;
 
   & :is(th,td):nth-child(2) { display:none !important; }
 
   & :is(th,td):first-child {
-    width:29% !important;
+    width:34% !important;
     min-width:0 !important;
   }
 
   & :is(th,td):last-child {
-    width:71% !important;
+    width:66% !important;
     min-width:0 !important;
   }
 
   & :is(th,td) {
-    padding:.54rem .78rem !important;
+    padding:.49rem var(--entry-map-gutter) !important;
     overflow-wrap:anywhere;
+    white-space:normal !important;
+    text-overflow:clip !important;
     vertical-align:top;
   }
 
   & td a { white-space:normal !important; }
   & tbody tr {
     --entry-type-tone:#87919d;
-    --entry-map-tint:30%;
+    --entry-map-tint:13%;
     --entry-map-reading-surface:var(--entry-map-paper);
     background:none !important;
   }
-  & tr[data-entry-map-kind="concept"] { --entry-type-tone:#53b9df; }
-  & tr[data-entry-map-kind="theory"] { --entry-type-tone:#b796ed; }
-  & tr[data-entry-map-kind="method"] { --entry-type-tone:#60c5a0; }
-  & tr[data-entry-map-kind="instrument"] { --entry-type-tone:#e7b052; }
-  & tr[data-entry-map-kind="person"] { --entry-type-tone:#e78aa8; }
-  & tr[data-entry-map-kind="fact"] { --entry-type-tone:#dd9470; }
+
+  & tr[data-entry-map-kind="concept"] { --entry-type-tone:#65a9cc; }
+  & tr[data-entry-map-kind="theory"] { --entry-type-tone:#ae94d1; }
+  & tr[data-entry-map-kind="method"] { --entry-type-tone:#65b69b; }
+  & tr[data-entry-map-kind="instrument"] { --entry-type-tone:#d3a963; }
+  & tr[data-entry-map-kind="person"] { --entry-type-tone:#d791ae; }
+  & tr[data-entry-map-kind="fact"] { --entry-type-tone:#ce9072; }
+  & tr[data-entry-map-kind="mechanism"] { --entry-type-tone:#92ad70; }
 
   & thead th {
-    background:color-mix(in srgb,var(--text-muted) 11%,var(--entry-map-paper)) !important;
-    color:var(--text-normal) !important;
-    font-weight:650 !important;
+    background:none !important;
+    color:var(--fdc-ink) !important;
+    font:650 .79em/1.4 var(--ac-sans) !important;
     border:0 !important;
-    border-block-end:1px solid var(--entry-map-rule) !important;
+    border-block-end:1px solid color-mix(in srgb,var(--fdc-accent) 53%,transparent) !important;
   }
 
   & tbody td {
@@ -27466,25 +27470,23 @@ html body .callout.callout.callout.callout.callout[data-callout="entry-map"] > .
     border-block-end:1px solid var(--entry-map-divider) !important;
     box-shadow:none !important;
     font-size:.9em !important;
-    line-height:1.6 !important;
+    line-height:1.62 !important;
   }
-
-  & tbody tr:last-child > td { border-block-end:0 !important; }
 
   & tbody td:first-child {
     background:color-mix(in srgb,var(--entry-type-tone) var(--entry-map-tint),var(--entry-map-paper)) !important;
-    border-inline-end:1px solid var(--entry-map-divider) !important;
+    font-weight:550 !important;
   }
 
   & tbody td:first-child a.internal-link {
     color:var(--text-normal) !important;
-    text-decoration-color:var(--text-muted);
-    text-underline-offset:.18em;
+    font-weight:inherit !important;
+    text-underline-offset:.2em;
   }
 
   & tbody tr:is(:hover,:focus-within) {
-    --entry-map-tint:39%;
-    --entry-map-reading-surface:color-mix(in srgb,var(--entry-type-tone) 7%,var(--entry-map-paper));
+    --entry-map-tint:22%;
+    --entry-map-reading-surface:color-mix(in srgb,var(--entry-type-tone) 5%,var(--entry-map-paper));
   }
 
   @media (prefers-reduced-motion:no-preference) {

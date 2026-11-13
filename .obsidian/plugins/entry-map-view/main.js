@@ -25,10 +25,11 @@ function splitTimelineDate(heading) {
 }
 
 const kinds = new Map([
-  ["概念", "concept"], ["concept", "concept"],
-  ["理论", "theory"], ["theory", "theory"],
+  ["概念", "concept"], ["核心概念", "concept"], ["分类", "concept"], ["concept", "concept"],
+  ["理论", "theory"], ["框架", "theory"], ["认识论基石", "theory"], ["theory", "theory"],
+  ["机制", "mechanism"], ["mechanism", "mechanism"],
   ["方法", "method"], ["method", "method"],
-  ["工具", "instrument"], ["量表", "instrument"], ["测量工具", "instrument"], ["instrument", "instrument"],
+  ["工具", "instrument"], ["符号媒介技术", "instrument"], ["量表", "instrument"], ["测量工具", "instrument"], ["instrument", "instrument"],
   ["人物", "person"], ["person", "person"],
   ["事实", "fact"], ["机构", "fact"], ["组织", "fact"], ["政策", "fact"], ["事件", "fact"], ["fact", "fact"],
 ]);
@@ -50,7 +51,7 @@ function decorate(table) {
     delete row.dataset.entryMapKind;
     if (!eligible) continue;
     const label = row.cells[1].textContent.trim();
-    row.dataset.entryMapKind = kinds.get(label.toLowerCase()) || "other";
+    row.dataset.entryMapKind = kinds.get(label.toLowerCase()) || (label.endsWith("机制") ? "mechanism" : "other");
     if (label && !row.hasAttribute("title")) {
       row.title = label;
       row.dataset.entryMapTooltip = label;
