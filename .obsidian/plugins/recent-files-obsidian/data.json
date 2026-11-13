@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Anderson_2016_Verso_Ch09",
+      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch09.md"
+    },
+    {
       "basename": "Print-Capitalism",
       "path": "wiki/concepts/political-economy-geopolitics/Print-Capitalism.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "template-argument",
       "path": "wiki/templates/template-argument.md"
-    },
-    {
-      "basename": "template-method",
-      "path": "wiki/templates/template-method.md"
     }
   ],
   "omittedPaths": [],
