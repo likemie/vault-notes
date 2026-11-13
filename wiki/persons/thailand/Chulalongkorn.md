@@ -9,10 +9,10 @@ summary: "暹罗（泰国）查克里王朝第五任国王（1868–1910年在�
 type: person
 nationality: thailand
 person_region: "thailand"
-person_related_count: 8
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 11
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1853"
 died: "1910"
 lifespan: "1853–1910"
@@ -132,3 +132,4 @@ updated: 2026-11-13
 > | [[Official Nationalism]] | 概念 | 为其子瓦栖拉兀推行自上而下排华官方民族主义准备了科层与社会结构前提。 |
 > | [[Dynastic Realm]] | 概念 | 维系曼谷王朝传统君主领域的绝对统治权力。 |
 > | [[Nationalism]] | 概念 | 在改革中刻意压制大众民族主义与政治动员，推行无公民权的行政现代化。 |
+> | [[Geo-Body]] | 概念 | 创设皇家测绘学校并推行全国三角测量，为现代暹罗确立地理身体制度基础。 |

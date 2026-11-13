@@ -9,7 +9,7 @@ summary: "泰国著名历史学家、威斯康星大学麦迪逊分校东南亚�
 type: person
 nationality: thailand
 person_region: "thailand"
-person_related_count: 0
+person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -76,10 +76,10 @@ updated: 2026-11-13
 ---
 
 > [!claim] 核心思想
-> 通猜的核心理论贡献在于揭示了国家领土空间不是前定存在的物理实体，而是经由现代制图术、法律边界划定与国家行政机器共同话语实践建构出来的“[[Geo-Body|地理身体]]”。通猜指出，地图不仅是反映现实的工具，反而在历史进程中先导性地预构并创造了空间现实，促成了东南亚国家从神圣王权宇宙向排他性民族国家领土的根本转型。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 175–178)]]
+> 通猜的核心理论贡献在于将国家领土空间界定为经由现代制图术、法律划界条约与国家行政机器共同话语实践建构出的“[[Geo-Body|地理身体]]”。通猜指出，科学测绘地图在东南亚历史进程中先导规划并具象创造了空间现实，充当行政与军事扩张的行动范式，促成了传统曼陀罗神圣王权网络向现代排他性民族国家领土的根本转型。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 175–178)]]
 
 > [!citation-card] 通猜论地图对空间现实的先导塑造
-> 地图是其所声称代表对象的模型，而不是其客体摹本。在现代国家形成史中，地图先于空间现实并预先构想了现实。它转变为在地球表面具象化政治投射的实体工具；不仅为新型行政机制与军队维护领土诉求所必需，测绘话语更构成了行政与军事运作身处其中并为其服务的范式。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 177–178)]]
+> 地图充当了其所声称代表对象的行动模型，超越了客体摹本功能。在现代国家形成史中，地图先于空间现实并预先构想了现实。它转变为在地球表面具象化政治投射的实体工具；测绘话语构成了新型行政机制与军队维护领土诉求身处其中并为其服务的知识范式。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 177–178)]]
 >
 > *A map anticipated spatial reality, not vice versa. In other words, a map was a model for, rather than a model of, what it purported to represent. . . . It had become a real instrument to concretize projections on the earth’s surface. A map was now necessary for the new administrative mechanisms and for the troops to back up their claims. . . . The discourse of mapping was the paradigm which both administrative and military operations worked within and served.*
 
