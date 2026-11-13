@@ -827,6 +827,7 @@
     "Anderson (1961)": "Anderson, 1961",
     "Anderson (1977)": "Anderson, 1977",
     "Anderson (1983)": "Anderson, 1983",
+    "Anderson (1990)": "Anderson, 1990",
     "Anderson (1994)": "Anderson, 1994",
     "Anderson (2001)": "Anderson, 2001",
     "Anderson (2006a)": "Anderson, 2006a",
@@ -841,6 +842,7 @@
     "Anderson, 1961": "Anderson, 1961",
     "Anderson, 1977": "Anderson, 1977",
     "Anderson, 1983": "Anderson, 1983",
+    "Anderson, 1990": "Anderson, 1990",
     "Anderson, 1994": "Anderson, 1994",
     "Anderson, 2001": "Anderson, 2001",
     "Anderson, 2006": "Anderson, 2006a",
@@ -2179,11 +2181,13 @@
     "Benick (2021)": "Benick, 2021",
     "Benick, 2021": "Benick, 2021",
     "Benjamin (1940)": "Benjamin, 1940",
+    "Benjamin (1968)": "Benjamin, 1968",
     "Benjamin F. Jones (2009)": "Benjamin F. Jones, 2009",
     "Benjamin F. Jones, 2009": "Benjamin F. Jones, 2009",
     "Benjamin et al. (2000)": "Benjamin et al., 2000",
     "Benjamin et al., 2000": "Benjamin et al., 2000",
     "Benjamin, 1940": "Benjamin, 1940",
+    "Benjamin, 1968": "Benjamin, 1968",
     "Benkler (2006)": "Benkler, 2006",
     "Benkler, 2006": "Benkler, 2006",
     "Benn (1988)": "Benn, 1988",
@@ -6367,6 +6371,8 @@
     "Dixon-Woods et al., 2005": "Dixon-Woods et al., 2005",
     "Djelic & Sahlin-Andersson (2006)": "Djelic & Sahlin-Andersson, 2006",
     "Djelic & Sahlin-Andersson, 2006": "Djelic & Sahlin-Andersson, 2006",
+    "Djilas (1980)": "Djilas, 1980",
+    "Djilas, 1980": "Djilas, 1980",
     "Doabler (2016)": "Doabler, 2016",
     "Doabler et al. (2014)": "Doabler et al., 2014",
     "Doabler et al. (2016)": "Doabler et al., 2016",
@@ -23456,8 +23462,10 @@
     "Strom & Boster, 2007": "Strom & Boster, 2007",
     "Stronach & Morris (1994)": "Stronach & Morris, 1994",
     "Stronach & Morris, 1994": "Stronach & Morris, 1994",
+    "Strong (1972)": "Strong, 1972",
     "Strong et al. (2011)": "Strong et al., 2011",
     "Strong et al., 2011": "Strong et al., 2011",
+    "Strong, 1972": "Strong, 1972",
     "Stroupe (2014)": "Stroupe, 2014",
     "Stroupe, 2014": "Stroupe, 2014",
     "Strouse (2011)": "Strouse, 2011",
@@ -25756,6 +25764,8 @@
     "Wellington, 2016": "Wellington, 2016",
     "Wellman (1990)": "Wellman, 1990",
     "Wellman, 1990": "Wellman, 1990",
+    "Wells (1962)": "Wells, 1962",
+    "Wells, 1962": "Wells, 1962",
     "Wen & Dubé (2022)": "Wen & Dubé, 2022",
     "Wen & Dubé, 2022": "Wen & Dubé, 2022",
     "Wen & Hu (2019)": "Wen & Hu, 2019",
@@ -26261,6 +26271,8 @@
     "Woods, 1986": "Woods, 1986",
     "Woods, 1989": "Woods, 1989",
     "Woods, 1992": "Woods, 1992",
+    "Woodside (1971)": "Woodside, 1971",
+    "Woodside, 1971": "Woodside, 1971",
     "Woodward (2009)": "Woodward, 2009",
     "Woodward, 2009": "Woodward, 2009",
     "Wooffitt (1993)": "Wooffitt, 1993",
@@ -33956,6 +33968,21 @@
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Print-Capitalism.md",
         "wiki/theories/political-economy-geopolitics/Imagined Community.md"
+      ],
+      "title": ""
+    },
+    "Anderson, 1990": {
+      "aliases": [
+        "Anderson, 1990",
+        "Anderson (1990)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Anderson, 1990"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch09.md"
       ],
       "title": ""
     },
@@ -43867,6 +43894,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Messianic Time.md"
+      ],
+      "title": ""
+    },
+    "Benjamin, 1968": {
+      "aliases": [
+        "Benjamin, 1968",
+        "Benjamin (1968)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Benjamin, 1968"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch09.md"
       ],
       "title": ""
     },
@@ -74511,6 +74553,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md"
+      ],
+      "title": ""
+    },
+    "Djilas, 1980": {
+      "aliases": [
+        "Djilas, 1980",
+        "Djilas (1980)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Djilas, 1980"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch09.md"
       ],
       "title": ""
     },
@@ -142522,6 +142579,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch07.md",
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch09.md",
         "wiki/facts/asia/Franco-Vietnamese Schools.md"
       ],
       "title": ""
@@ -154977,6 +155035,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch08.md",
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch09.md",
         "wiki/concepts/political-economy-geopolitics/Colonial Racism.md",
         "wiki/concepts/political-economy-geopolitics/Nationalism.md",
         "wiki/persons/uk/Tom Nairn.md"
@@ -198909,6 +198968,21 @@
       "seen_in": [],
       "title": "A systematic meta-analytic review of evidence for the effectiveness of the ‘Fast ForWord' language intervention program."
     },
+    "Strong, 1972": {
+      "aliases": [
+        "Strong, 1972",
+        "Strong (1972)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Strong, 1972"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch09.md"
+      ],
+      "title": ""
+    },
     "Stroupe, 2014": {
       "aliases": [
         "Stroupe, 2014",
@@ -215345,6 +215419,21 @@
       ],
       "title": ""
     },
+    "Wells, 1962": {
+      "aliases": [
+        "Wells, 1962",
+        "Wells (1962)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Wells, 1962"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch09.md"
+      ],
+      "title": ""
+    },
     "Wen & Dubé, 2022": {
       "aliases": [
         "Wen & Dubé, 2022",
@@ -218987,6 +219076,21 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11.md",
         "wiki/concepts/educational-philosophy/Interpretive Paradigm.md",
         "wiki/concepts/research-methodology/Researcher as Key Instrument.md"
+      ],
+      "title": ""
+    },
+    "Woodside, 1971": {
+      "aliases": [
+        "Woodside, 1971",
+        "Woodside (1971)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Woodside, 1971"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch09.md"
       ],
       "title": ""
     },

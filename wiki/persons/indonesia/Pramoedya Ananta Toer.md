@@ -35,11 +35,6 @@ updated: 2026-11-13
 > - **核心角色** 以史诗般的长篇巨著与细腻敏锐的短篇叙事，记录印尼反殖民民族觉醒进程与平民苦难，揭示民族语言与童年感官体验对国族认同的根基性塑造。
 > - **代表贡献** 创作短篇小说集《布洛拉的故事》（*Tjerita dari Blora*）与历史长篇巨作《布鲁岛四部曲》（*Buru Quartet*）；被[[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）作为解剖民族语言情感隐秘性与现代民族想象文学表象的核心思想资源。
 
-> [!citation-card] 人物定位的关键来源
-> 印度尼西亚作家普拉姆迪亚·阿南达·杜尔在短篇小说《逝去之物》中以极为细腻的笔触，描摹了民族语言在童年记忆中激发的私密感知。正如母亲的声音在最幽暗的时刻抚慰着游子，民族语言通过儿时在母亲膝前的初次相逢，与故土的水土、气味与家庭温馨牢固交织在一起。这种不可替代的感官依恋，构成了爱国主义深情超脱功利算计与免于理性化规训的原初动力。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 151–152)]]
->
-> *No one has described the private, sensory experience of this encounter better than the Indonesian writer Pramoedya Ananta Toer in his autobiographical story ‘Yang Sudah Hilang’ [Things That Are Gone].*
-
 ---
 
 > [!timeline] 生平与职涯
@@ -100,3 +95,10 @@ updated: 2026-11-13
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 征引普拉姆迪亚小说论述母语在童年构筑的爱国深情（[[Argument_Anderson_2016_Verso_Ch08|第8章]]），并以《玻璃之屋》阐释殖民全景监视治理（[[Argument_Anderson_2016_Verso_Ch10|第10章]]）。
+
+---
+
+> [!citation-card] 安德森论普拉姆迪亚对母语私密感官体验的文学呈现
+> 印度尼西亚作家普拉姆迪亚·阿南达·杜尔在自传体小说《逝去之物》中，以无可比拟的细腻笔触描摹了人与语言相逢时的私密感官体验。正如母亲的声音在最幽暗的时刻抚慰着游子，民族语言通过儿时在母亲膝前的初次相逢，与故土的水土、气味与家庭温馨牢固交织在一起。这种不可替代的感官依恋，构成了爱国主义深情超脱功利算计与免于理性化规训的原初动力。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 151–152)]]
+>
+> *No one has described the private, sensory experience of this encounter better than the Indonesian writer Pramoedya Ananta Toer in his autobiographical story ‘Yang Sudah Hilang’ [Things That Are Gone].*

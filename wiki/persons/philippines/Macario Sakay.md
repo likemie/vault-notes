@@ -35,11 +35,6 @@ updated: 2026-11-13
 > - **核心角色** 在菲律宾第一共和国士绅精英降美后，代表底层工农大众扛起抗美独立旗帜，建立平等主义革命政权并制定彻底破除种族偏见的宪政纲领。
 > - **代表贡献** 建立加达洛共和国并颁布1902年平等宪法，被[[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）作为论证现代民族主义基于语言文化、追求[[Horizontal Comradeship|横向同志情谊]]而无反向种族主义的核心历史人物与实证范本。
 
-> [!citation-card] 人物定位的关键来源
-> 菲律宾革命烈士马卡里奥·萨凯领导建立的加达洛共和国在1902年宪法中庄严宣告：凡出生于本群岛的人民，绝不可因种族或肤色自命优越；无论肤色浅白或深黑、家境贫穷或富裕、受过教育或目不识丁，全员一律完全平等，共同拥有合一之内在心神（loób）。这一宪法文本证明，反殖民民族主义以横向平权手足为追求，超越了狭隘的种族复仇与反向歧视。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 157–158)]]
->
-> *No Tagalog, born in this Tagalog archipelago, shall exalt any person above the rest because of his race or the colour of his skin; fair, dark, rich, poor, educated and ignorant – all are completely equal, and should be in one loób [inward spirit]. There may be differences in education, wealth, or appearance, but never in essential nature (pagkatao) and ability to serve a cause.*
-
 ---
 
 > [!timeline] 生平与职涯
@@ -95,3 +90,10 @@ updated: 2026-11-13
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Anderson_2016_Verso_Ch08|Anderson (2016)]] — 征引萨凯领导的加达洛共和国1902年宪法，实证论证反殖民民族主义立足于平权兄弟情谊而无反向种族主义（pp. 157–158）。
+
+---
+
+> [!citation-card] 安德森论萨凯宪法超越反向种族主义的平权手足本质
+> 萨凯加达洛共和国在1902年宪法中庄严宣告：凡出生于本群岛之人民，绝不可因种族或肤色自命优越；无论肤色浅白或深黑、家境贫穷或富裕、受过教育或目不识丁，全员一律完全平等，共同拥有合一之内在心神（loób）。在受教育程度、财富或外表上虽有差别，但在人的本质（pagkatao）与投身崇高事业的奉献资格上决无高下之分。这一宪政文献证明，反殖民民族主义以横向平权手足为追求，超越了狭隘的种族复仇与反向歧视。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 157–158)]]
+>
+> *No Tagalog, born in this Tagalog archipelago, shall exalt any person above the rest because of his race or the colour of his skin; fair, dark, rich, poor, educated and ignorant – all are completely equal, and should be in one loób [inward spirit]. There may be differences in education, wealth, or appearance, but never in essential nature (pagkatao) and ability to serve a cause.*
