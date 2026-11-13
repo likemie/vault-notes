@@ -47,9 +47,9 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
 confidence: high
-status: draft
+status: active
 created: 2026-10-09
-updated: 2026-11-02
+updated: 2026-11-13
 ---
 
 ---
@@ -93,10 +93,10 @@ updated: 2026-11-02
 ---
 
 > [!claim] 核心思想
-> 基辛格主张国际和平建立在各大国实力均衡与可信[[Hard Power|硬实力]]威慑的现实基石之上。抽象道德说教或单方面善意与此不同。在历史动力学上，他坚决反对将历史降格为盲目物质力量或社会结构的被动演进，强调具备崇高信念、深邃历史感与[[Grit|坚毅]]决断力的开拓型领袖，能够在历史的分岔口以坚强的意志打破环境束缚，开创前所未有的国家命运与文明格局。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Kissinger, 2000; Karp & Zamiska, 2025, p. 197)]]
+> 基辛格主张国际和平建立在各大国实力均衡与可信[[Hard Power|硬实力]]威慑的现实基石之上。在历史动力学上，他坚决反对将历史降格为盲目物质力量或社会结构的被动演进，强调具备崇高信念、深邃历史感与[[Grit|坚毅]]决断力的开拓型领袖，能够在历史的分岔口以坚强的意志打破环境束缚，开创前所未有的国家命运与文明格局。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Kissinger, 2000; Karp & Zamiska, 2025, p. 197)]]
 
 > [!citation-card] 基辛格论领袖性格对历史环境的决定性突破
-> 究竟是环境还是个人性格塑造历史进程的古老争论，最终在[[Lee Kuan Yew|李光耀]]的领导成就面前以后者胜出而告终。卓越领袖是能够在虚无与险境中重新界定国家可能性的伟大开拓者。顺应既有条件的被动管理者与此不同。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Kissinger, 2000, p. x; Karp & Zamiska, 2025, p. 197)]]
+> 究竟是环境还是个人性格塑造历史进程的古老争论，最终在[[Lee Kuan Yew|李光耀]]的领导成就面前以后者胜出而告终。卓越领袖是能够在虚无与险境中重新界定国家可能性的伟大开拓者。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Kissinger, 2000, p. x; Karp & Zamiska, 2025, p. 197)]]
 >
 > *The ancient argument whether circumstance or personality shapes events was settled in favour of the latter... Great leaders are those who redefine what is possible in the face of despair.*
 
@@ -107,6 +107,9 @@ updated: 2026-11-02
 > - **方法路径** 确立了将长时段外交档案考证与决策心理、领袖战略决断相结合的历史比较分析传统。
 > - **政策路径** 直接塑造了 20 世纪下半叶美国的全球地缘战略布局，其主张的均势与威慑原则至今仍是[[Department of Defense|五角大楼]]与国家安全委员会的核心战略资产。
 > - **跨国／跨领域传播** 思想广泛跨越外交学界延伸至商业战略、企业管理与防务科技产业，成为卡普等现代科技领袖重构[[Technological Republic|技术共和国]]的重要思想源泉。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 197)]]
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 第3章（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Ch03]]）援引其均势理论，第17章（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch17]]）引述其论领袖性格塑造历史。
 
 ---
 
@@ -122,7 +125,7 @@ updated: 2026-11-02
 > - **师承／合作伙伴** William Y. Elliott — 哈佛大学博士导师与保守主义政治哲学引路人。
 > - **学生／继承者** Brent Scowcroft — 门生与国家安全事务助理继承者，延续现实主义温和派路线。
 > - **深度互信者** [[Lee Kuan Yew]] — 终生学术与战略挚友，高度互鉴领袖治理艺术与小国生存哲学。
-> - **批评者／论敌** [[Noam Chomsky]] — 长期左翼批评者，严厉谴责其实实外交导致的地缘干涉与人权代价。
+> - **批评者／论敌** [[Noam Chomsky]] — 长期左翼批评者，严厉谴责其实利外交导致的地缘干涉与人权代价。
 
 ---
 
@@ -143,5 +146,4 @@ updated: 2026-11-02
 > | [[Great Man Theory]] | 理论 | 总结[[Lee Kuan Yew\|李光耀]]治国实践，确立领袖性格打破结构宿命塑造历史的核心命题。 |
 > | [[Hard Power]] | 概念 | 深度阐发国家安全与均势秩序对可信军事与科技硬实力的根本依赖。 |
 > | [[Technological Republic]] | 概念 | 为现代技术共和国防务算法研发与战略威慑提供现实主义地缘哲学基础。 |
-> | Harvard University | 组织 | 早期博士求学、战略研究中心组建与教授任职长达二十年。 |
-> | US Department of State | 组织 | 担任第 56 任国务卿，领导美国外交官僚体系。 |
+> | [[Department of Defense]] | 事实 | 均势与威慑原则至今仍是五角大楼的核心战略理论资产。 |
