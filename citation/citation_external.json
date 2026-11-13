@@ -4394,8 +4394,6 @@
     "Charitaki et al., 2021": "Charitaki et al., 2021",
     "Charles Edquist (1997)": "Charles Edquist, 1997",
     "Charles Edquist, 1997": "Charles Edquist, 1997",
-    "Charles Hirschman (1987)": "Charles Hirschman, 1987",
-    "Charles Hirschman, 1987": "Charles Hirschman, 1987",
     "Charles Horton Cooley (1902)": "Charles Horton Cooley, 1902",
     "Charles Horton Cooley, 1902": "Charles Horton Cooley, 1902",
     "Charles Jones (1977)": "Charles Jones, 1977",
@@ -10951,6 +10949,8 @@
     "Hirsch, 2007": "Hirsch, 2007",
     "Hirsch, 2011": "Hirsch, 2011",
     "Hirsch, 2019": "Hirsch, 2019",
+    "Hirschman (1987)": "Hirschman, 1987",
+    "Hirschman, 1987": "Hirschman, 1987",
     "History Boys (2004)": "History Boys, 2004",
     "History Boys, 2004": "History Boys, 2004",
     "Hitchcock & Hughes (1989)": "Hitchcock & Hughes, 1989",
@@ -10975,7 +10975,9 @@
     "Ho, 2019": "Ho, 2019",
     "HoC (2016)": "HoC, 2016",
     "HoC, 2016": "HoC, 2016",
+    "Hoadley (1988)": "Hoadley, 1988",
     "Hoadley (2018)": "Hoadley, 2018",
+    "Hoadley, 1988": "Hoadley, 1988",
     "Hoadley, 2018": "Hoadley, 2018",
     "Hobbs (2012)": "Hobbs, 2012",
     "Hobbs, 2012": "Hobbs, 2012",
@@ -15892,8 +15894,6 @@
     "Mason (2013)": "Mason, 2013",
     "Mason (2016)": "Mason, 2016",
     "Mason (2017)": "Mason, 2017",
-    "Mason C. Hoadley (1988)": "Mason C. Hoadley, 1988",
-    "Mason C. Hoadley, 1988": "Mason C. Hoadley, 1988",
     "Mason et al. (1992)": "Mason et al., 1992",
     "Mason et al. (2014)": "Mason et al., 2014",
     "Mason et al., 1992": "Mason et al., 1992",
@@ -17206,9 +17206,11 @@
     "Muijs, 2004": "Muijs, 2004",
     "Muijselaar (2016)": "Muijselaar, 2016",
     "Muijselaar, 2016": "Muijselaar, 2016",
+    "Muir (1981)": "Muir, 1981",
     "Muir (1987)": "Muir, 1987",
     "Muir (1996)": "Muir, 1996",
     "Muir (2012)": "Muir, 2012",
+    "Muir, 1981": "Muir, 1981",
     "Muir, 1987": "Muir, 1987",
     "Muir, 1996": "Muir, 1996",
     "Muir, 2012": "Muir, 2012",
@@ -20203,8 +20205,6 @@
     "Richard L. Sklar, 1976": "Richard L. Sklar, 1976",
     "Richard Long (1998)": "Richard Long, 1998",
     "Richard Long, 1998": "Richard Long, 1998",
-    "Richard Muir (1981)": "Richard Muir, 1981",
-    "Richard Muir, 1981": "Richard Muir, 1981",
     "Richard Murnane & David Cohen (1981)": "Richard Murnane & David Cohen, 1981",
     "Richard Murnane & David Cohen, 1981": "Richard Murnane & David Cohen, 1981",
     "Richard Nelson (1959)": "Richard Nelson, 1959",
@@ -21811,6 +21811,7 @@
     "Scott & Davis, 2016": "Scott & Davis, 2016",
     "Scott & Kirst (2017)": "Scott & Kirst, 2017",
     "Scott & Kirst, 2017": "Scott & Kirst, 2017",
+    "Scott (1982)": "Scott, 1982",
     "Scott (1990)": "Scott, 1990",
     "Scott (1991)": "Scott, 1991",
     "Scott (1998)": "Scott, 1998",
@@ -21828,6 +21829,7 @@
     "Scott et al., 2004a": "Scott et al., 2004b",
     "Scott et al., 2004b": "Scott et al., 2004b",
     "Scott et al., 2011": "Scott et al., 2011",
+    "Scott, 1982": "Scott, 1982",
     "Scott, 1990": "Scott, 1990",
     "Scott, 1991": "Scott, 1991",
     "Scott, 1998": "Scott, 1998",
@@ -24172,8 +24174,8 @@
     "Thomson, 1999": "Thomson, 1999",
     "Thomson, 2009": "Thomson, 2009",
     "Thomson, 2013": "Thomson, 2013",
-    "Thongchai Winichakul (1994)": "Thongchai Winichakul, 1994",
-    "Thongchai Winichakul, 1994": "Thongchai Winichakul, 1994",
+    "Thongchai (1994)": "Thongchai, 1994",
+    "Thongchai, 1994": "Thongchai, 1994",
     "Thorndahl & Stentoft (2020)": "Thorndahl & Stentoft, 2020",
     "Thorndahl & Stentoft, 2020": "Thorndahl & Stentoft, 2020",
     "Thorndike (1920)": "Thorndike, 1920",
@@ -26026,8 +26028,6 @@
     "William G. Bowen, 1964": "William G. Bowen, 1964",
     "William G. Cochran (1954)": "William G. Cochran, 1954",
     "William G. Cochran, 1954": "William G. Cochran, 1954",
-    "William Henry Scott (1982)": "William Henry Scott, 1982",
-    "William Henry Scott, 1982": "William Henry Scott, 1982",
     "William J. J. Gordon (1961)": "William J. J. Gordon, 1961",
     "William J. J. Gordon, 1961": "William J. J. Gordon, 1961",
     "William L. Hays (1963)": "William L. Hays, 1963",
@@ -60185,21 +60185,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/university-industry-collaboration/Systems of Innovation.md"
-      ],
-      "title": ""
-    },
-    "Charles Hirschman, 1987": {
-      "aliases": [
-        "Charles Hirschman, 1987",
-        "Charles Hirschman (1987)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Charles Hirschman, 1987"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch10.md"
       ],
       "title": ""
     },
@@ -108139,6 +108124,21 @@
       ],
       "title": ""
     },
+    "Hirschman, 1987": {
+      "aliases": [
+        "Hirschman, 1987",
+        "Hirschman (1987)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hirschman, 1987"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch10.md"
+      ],
+      "title": ""
+    },
     "History Boys, 2004": {
       "aliases": [
         "History Boys, 2004",
@@ -108320,6 +108320,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Review of Education/Argument_Bainbridge_2022_ROE.md"
+      ],
+      "title": ""
+    },
+    "Hoadley, 1988": {
+      "aliases": [
+        "Hoadley, 1988",
+        "Hoadley (1988)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hoadley, 1988"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch10.md"
       ],
       "title": ""
     },
@@ -143622,21 +143637,6 @@
       ],
       "title": ""
     },
-    "Mason C. Hoadley, 1988": {
-      "aliases": [
-        "Mason C. Hoadley, 1988",
-        "Mason C. Hoadley (1988)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Mason C. Hoadley, 1988"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch10.md"
-      ],
-      "title": ""
-    },
     "Mason et al., 1992": {
       "aliases": [
         "Mason et al., 1992",
@@ -153208,6 +153208,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "How to assess and improve children's reading comprehension?"
+    },
+    "Muir, 1981": {
+      "aliases": [
+        "Muir, 1981",
+        "Muir (1981)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Muir, 1981"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch10.md"
+      ],
+      "title": ""
     },
     "Muir, 1987": {
       "aliases": [
@@ -175219,21 +175234,6 @@
       ],
       "title": ""
     },
-    "Richard Muir, 1981": {
-      "aliases": [
-        "Richard Muir, 1981",
-        "Richard Muir (1981)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Richard Muir, 1981"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch10.md"
-      ],
-      "title": ""
-    },
     "Richard Murnane & David Cohen, 1981": {
       "aliases": [
         "Richard Murnane & David Cohen, 1981",
@@ -187072,6 +187072,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "How well do children who are internationally adopted acquire language? A meta-analysis"
+    },
+    "Scott, 1982": {
+      "aliases": [
+        "Scott, 1982",
+        "Scott (1982)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Scott, 1982"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch10.md"
+      ],
+      "title": ""
     },
     "Scott, 1990": {
       "aliases": [
@@ -204025,14 +204040,14 @@
       "seen_in": [],
       "title": "Auditory processing interventions and developmental dyslexia  a comparison of phonemic and rhythmic approaches."
     },
-    "Thongchai Winichakul, 1994": {
+    "Thongchai, 1994": {
       "aliases": [
-        "Thongchai Winichakul, 1994",
-        "Thongchai Winichakul (1994)"
+        "Thongchai, 1994",
+        "Thongchai (1994)"
       ],
       "doi": "",
       "identity_keys": [
-        "Thongchai Winichakul, 1994"
+        "Thongchai, 1994"
       ],
       "isbn": "",
       "seen_in": [
@@ -217304,21 +217319,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/methods/quantitative/Cochran's Q Test.md"
-      ],
-      "title": ""
-    },
-    "William Henry Scott, 1982": {
-      "aliases": [
-        "William Henry Scott, 1982",
-        "William Henry Scott (1982)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "William Henry Scott, 1982"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch10.md"
       ],
       "title": ""
     },
