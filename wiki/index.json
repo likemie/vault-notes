@@ -3271,6 +3271,16 @@
     "path": "wiki/concepts/curriculum/Curricular Governance.md"
   },
   {
+    "title": "Curriculum Alignment",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Curriculum Alignment.md",
+    "aliases": [
+      "curriculum-alignment",
+      "课程对齐",
+      "课程一致性"
+    ]
+  },
+  {
     "title": "Curriculum as Praxis",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Curriculum as Praxis.md",

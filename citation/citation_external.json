@@ -8506,6 +8506,8 @@
     "Fuchs, 2019": "Fuchs, 2019",
     "Fuchs, 2021": "Fuchs, 2021",
     "Fuchs, 2022": "Fuchs, 2022",
+    "Fuhrman (1993)": "Fuhrman, 1993",
+    "Fuhrman, 1993": "Fuhrman, 1993",
     "Fukkink & Lont (2007)": "Fukkink & Lont, 2007",
     "Fukkink & Lont, 2007": "Fukkink & Lont, 2007",
     "Fukuyama (1989)": "Fukuyama, 1989",
@@ -11369,12 +11371,14 @@
     "Hughes & Kitson, 2012": "Hughes & Kitson, 2012",
     "Hughes & Way (2008)": "Hughes & Way, 2008",
     "Hughes & Way, 2008": "Hughes & Way, 2008",
+    "Hughes (1975)": "Hughes, 1975",
     "Hughes (1976)": "Hughes, 1976",
     "Hughes (2010)": "Hughes, 2010",
     "Hughes (2016)": "Hughes, 2016",
     "Hughes (2018)": "Hughes, 2018",
     "Hughes et al. (2014)": "Hughes et al., 2014",
     "Hughes et al., 2014": "Hughes et al., 2014",
+    "Hughes, 1975": "Hughes, 1975",
     "Hughes, 1976": "Hughes, 1976",
     "Hughes, 2010": "Hughes, 2010",
     "Hughes, 2016": "Hughes, 2016",
@@ -15719,6 +15723,8 @@
     "Marques et al., 2017": "Marques et al., 2017a",
     "Marques et al., 2017a": "Marques et al., 2017b",
     "Marques et al., 2017b": "Marques et al., 2017b",
+    "Marr (1981)": "Marr, 1981",
+    "Marr, 1981": "Marr, 1981",
     "Marris & Rein (1967)": "Marris & Rein, 1967",
     "Marris & Rein, 1967": "Marris & Rein, 1967",
     "Marsh (1992)": "Marsh, 1992",
@@ -19428,10 +19434,12 @@
     "Porter (1965)": "Porter, 1965",
     "Porter (1990)": "Porter, 1990",
     "Porter (1995)": "Porter, 1995",
+    "Porter (2002)": "Porter, 2002",
     "Porter (2016)": "Porter, 2016",
     "Porter, 1965": "Porter, 1965",
     "Porter, 1990": "Porter, 1990",
     "Porter, 1995": "Porter, 1995",
+    "Porter, 2002": "Porter, 2002",
     "Porter, 2016": "Porter, 2016",
     "Portnoi (2016)": "Portnoi, 2016",
     "Portnoi, 2016": "Portnoi, 2016",
@@ -35127,6 +35135,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/curriculum/Curriculum Alignment.md",
         "wiki/theories/educational-philosophy/Postmodernism.md"
       ],
       "title": ""
@@ -86446,6 +86455,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/curriculum/Curricular Governance.md",
+        "wiki/concepts/curriculum/Curriculum Alignment.md",
         "wiki/concepts/curriculum/Scripted Curriculum.md",
         "wiki/concepts/instruction-pedagogy/Instructional Core.md",
         "wiki/concepts/teacher-education/Instructional Coaching.md"
@@ -90052,6 +90062,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Next-generation fraction intervention and the long-term advantage of interleaved instruction"
+    },
+    "Fuhrman, 1993": {
+      "aliases": [
+        "Fuhrman, 1993",
+        "Fuhrman (1993)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Fuhrman, 1993"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/curriculum/Curriculum Alignment.md"
+      ],
+      "title": ""
     },
     "Fukkink & Lont, 2007": {
       "aliases": [
@@ -111125,6 +111150,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A Meta-Analysis of Algebra Interventions for Learners with Disabilities and Struggling Learners"
+    },
+    "Hughes, 1975": {
+      "aliases": [
+        "Hughes, 1975",
+        "Hughes (1975)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hughes, 1975"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch07.md"
+      ],
+      "title": ""
     },
     "Hughes, 1976": {
       "aliases": [
@@ -142317,6 +142357,21 @@
       "seen_in": [],
       "title": "Hope and the academic trajectory of college students"
     },
+    "Marr, 1981": {
+      "aliases": [
+        "Marr, 1981",
+        "Marr (1981)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Marr, 1981"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch07.md"
+      ],
+      "title": ""
+    },
     "Marris & Rein, 1967": {
       "aliases": [
         "Marris & Rein, 1967",
@@ -169519,6 +169574,21 @@
         "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Gorur_2014_Discourse.md",
         "wiki/concepts/curriculum/Science and Technology Studies.md",
         "wiki/theories/research-methodology/Sociology of Measurement.md"
+      ],
+      "title": ""
+    },
+    "Porter, 2002": {
+      "aliases": [
+        "Porter, 2002",
+        "Porter (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Porter, 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/curriculum/Curriculum Alignment.md"
       ],
       "title": ""
     },
@@ -209389,7 +209459,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/curriculum/Curriculum Alignment.md"
       ],
       "title": ""
     },

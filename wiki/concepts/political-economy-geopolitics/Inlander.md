@@ -35,7 +35,7 @@ updated: 2026-11-13
 ---
 
 > [!def] Inlander
-> **在籍民（Inlander）**，亦称**荷属东印度土著**，是荷兰在东印度群岛殖民统治时期通过法律体制构建的被统治臣民法定身份范畴。该概念在语义上蕴含着内在反讽：既被殖民当局赋予文化“卑下劣等”的歧视性烙印，又同时确认了其“生于斯、属于斯”的原生本土合法性。在殖民法秩序中，它将白人统治者、外来东方人（如华侨、阿拉伯人）以及被拔高为“荣誉欧洲人”的日本人排除在外；安德森指出，正是这种由殖民国家自上而下圈定的歧视性身份外延，历经长期制度演进后，被受教育的本土青年知识阶层逆向继承并升华，最终转化为享有主权平等的现代“印度尼西亚人”。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 124–125)]]
+> **在籍民（Inlander）**，亦称**荷属东印度土著**，是荷兰在东印度群岛殖民统治时期通过法律体制构建的被统治臣民法定身份范畴。该概念在语义上蕴含着内在反讽：既被殖民当局赋予文化从属劣等的歧视性烙印，又同时确认了其生于斯、属于斯的原生本土合法性。在殖民法秩序中，它将白人统治者、外来东方人（如华侨、阿拉伯人）以及被拔高为荣誉欧洲人地位的日本人排除在外；安德森指出，正是这种由殖民国家自上而下圈定的歧视性身份外延，历经长期制度演进后，被受教育的本土青年知识阶层逆向继承并升华，最终转化为享有主权平等的现代印度尼西亚人。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 124–125)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向殖民宗主国通过法律分类对被征服本土人群施加的种族化身份区隔，及其在特定殖民地边境内界定出的政治实体外延。
@@ -43,7 +43,7 @@ updated: 2026-11-13
 > - **边界** 聚焦殖民管辖领土内的法律与制度分类，区别于生物人类学意义上的原生族群血缘定义。
 
 > [!citation-card] 安德森论在籍民范畴向印度尼西亚人的演化
-> 荷兰人在这点上极其清楚：无论他们操何种母语，他们都是无可救药的在籍民（inlanders）。这个词正如英语中的“土著”（natives）和法语中的“原住民”（indigènes）一样，始终承载着某种不由自主的悖论性语义：它意味着被指涉者既“卑下低下”，又同时“生于此地、归属此地”。这一术语将白人、荷兰人、华人、阿拉伯人、日本人乃至其他殖民地的原住民悉数排除在外，其内涵经过岁月的累积愈发具体分明；直至某一时刻，如同成熟的幼虫一般，它骤然化育为名为“印度尼西亚人”的绚丽蝴蝶。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 124–125)]]
+> 荷兰人在这点上极其清楚：无论他们操何种母语，他们都是无可救药的在籍民（inlanders）。这个词正如英语中的土著（natives）和法语中的原住民（indigènes）一样，始终承载着某种不由自主的悖论性语义：它意味着被指涉者既卑下从属，又同时生于此地、归属此地。这一术语将白人、荷兰人、华人、阿拉伯人、日本人以及其他殖民地的原住民悉数排除在外，其内涵经过岁月的累积愈发具体分明；直至某一时刻，如同成熟的幼虫一般，它骤然化育为名为印度尼西亚人的绚丽蝴蝶。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 124–125)]]
 >
 > *And what were they all together? The Dutch were quite clear on this point: whatever mother-tongue they spoke, they were irremediably inlanders . . . it meant that the persons referred to were both 'inferior' and 'belonged there'. . . . From all this, by a sort of sedimentation, inlander . . . grew ever more specific in content; until, like a ripe larva, it was suddenly transmogrified into the spectacular butterfly called 'Indonesian'.*
 

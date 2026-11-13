@@ -4303,6 +4303,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/curriculum/Curriculum Alignment.md",
         "wiki/theories/educational-philosophy/Postmodernism.md"
       ],
       "title": ""
@@ -35147,6 +35148,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/curriculum/Curricular Governance.md",
+        "wiki/concepts/curriculum/Curriculum Alignment.md",
         "wiki/concepts/curriculum/Scripted Curriculum.md",
         "wiki/concepts/instruction-pedagogy/Instructional Core.md",
         "wiki/concepts/teacher-education/Instructional Coaching.md"
@@ -37334,6 +37336,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Next-generation fraction intervention and the long-term advantage of interleaved instruction"
+    },
+    "Fuhrman, 1993": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/curriculum/Curriculum Alignment.md"
+      ],
+      "title": ""
     },
     "Fukkink & Lont, 2007": {
       "datasets": [
@@ -50038,6 +50048,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "A Meta-Analysis of Algebra Interventions for Learners with Disabilities and Struggling Learners"
+    },
+    "Hughes, 1975": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch07.md"
+      ],
+      "title": ""
     },
     "Hughes, 1976": {
       "doi": "",
@@ -69011,6 +69029,14 @@
       "seen_in": [],
       "title": "Hope and the academic trajectory of college students"
     },
+    "Marr, 1981": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch07.md"
+      ],
+      "title": ""
+    },
     "Marris & Rein, 1967": {
       "doi": "",
       "isbn": "",
@@ -85380,6 +85406,14 @@
         "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Gorur_2014_Discourse.md",
         "wiki/concepts/curriculum/Science and Technology Studies.md",
         "wiki/theories/research-methodology/Sociology of Measurement.md"
+      ],
+      "title": ""
+    },
+    "Porter, 2002": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/curriculum/Curriculum Alignment.md"
       ],
       "title": ""
     },
@@ -109467,7 +109501,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/curriculum/Curriculum Alignment.md"
       ],
       "title": ""
     },
