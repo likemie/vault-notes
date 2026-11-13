@@ -88347,14 +88347,6 @@
       ],
       "title": ""
     },
-    "Republic of Katagalugan, 1902": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch08.md"
-      ],
-      "title": ""
-    },
     "Requa, 2022": {
       "datasets": [
         "eef:oral-language-interventions"
@@ -120403,6 +120395,15 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Science & Education/Argument_Zemplen_2007_SciEduc.md"
+      ],
+      "title": ""
+    },
+    "安德森, 2016": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/france/Albert Sarraut.md",
+        "wiki/persons/france/Alexandre de Rhodes.md"
       ],
       "title": ""
     },

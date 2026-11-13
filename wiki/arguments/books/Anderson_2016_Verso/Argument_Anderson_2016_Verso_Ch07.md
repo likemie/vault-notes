@@ -10,7 +10,7 @@ title: "Argument_Anderson_2016_Verso_Ch07"
 argument_key: "Argument_Anderson_2016_Verso_Ch07"
 argument_display_title: "Imagined Communities: Reflections on the Origin and Spread of Nationalism · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 34
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -60,6 +60,8 @@ related_persons:
   - "[[Jean-Jacques Rousseau]]"
   - "[[Steven Stahl]]"
   - "[[Benedict Anderson]]"
+  - "[[Albert Sarraut]]"
+  - "[[Alexandre de Rhodes]]"
 related_facts:
   - "[[Sumpah Pemuda]]"
   - "[[Civil Service Examination]]"

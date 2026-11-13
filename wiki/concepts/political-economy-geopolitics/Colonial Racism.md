@@ -70,7 +70,7 @@ updated: 2026-11-13
 ---
 
 > [!contrast-table|notitle] 宗主国本土陆军与海外殖民军队制度形态对比
-> | 制度特征 | 本土“第一军队”（First Army） | 殖民地“第二军队”（Second Army） |
+> | 制度特征 | 本土“[[First Army and Second Army|第一军队]]”（First Army） | 殖民地“[[First Army and Second Army|第二军队]]”（Second Army） |
 > |---|---|---|
 > | **兵源招募机制** | 基于全民公民兵役制的大众征兵 | 招募当地少数族群与异教徒组建的雇佣军 |
 > | **意识形态功能** | 捍卫祖国（Heimat）主权与领土安全 | 充当海外秩序治安维稳与镇压内部暴动的军警力量 |
@@ -80,7 +80,7 @@ updated: 2026-11-13
 ---
 
 > [!feature] 核心要素
-> - **阶级等级的海外投射（Aristocratic Drag）** 宗主国中下层文官在远离本土的殖民地，借助宽敞官邸、成群仆役与养马习气建立起复古的“热带哥特式”贵族排场。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 154–155)]]
+> - **阶级等级的海外投射（Aristocratic Drag）** 宗主国中下层文官在远离本土的殖民地，借助宽敞官邸、成群仆役与养马习气建立起复古的“[[Tropical Gothic|热带哥特式]]”贵族排场。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 154–155)]]
 > - **跨国白人统治连带（White Solidarity）** 宗主国殖民官僚之间跨越母国竞争，形成类似欧洲19世纪贵族阶层的跨国阶级互保网络。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, p. 157)]]
 > - **生物学语言降格（Biological Erasure）** 采用生理特征词汇替代被征服者的具体国籍，在语言层面抹杀其民族主权资格。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 152–153)]]
 

@@ -20102,8 +20102,6 @@
     "Rensis Likert, 1932": "Rensis Likert, 1932",
     "Renzetti & Lee (1993)": "Renzetti & Lee, 1993",
     "Renzetti & Lee, 1993": "Renzetti & Lee, 1993",
-    "Republic of Katagalugan (1902)": "Republic of Katagalugan, 1902",
-    "Republic of Katagalugan, 1902": "Republic of Katagalugan, 1902",
     "Requa (2022)": "Requa, 2022",
     "Requa, 2022": "Requa, 2022",
     "Resaland (2016)": "Resaland, 2016",
@@ -27445,6 +27443,8 @@
     "学生用书 (2003)": "学生用书, 2003",
     "学生用书, 2003": "学生用书, 2003",
     "学生用书, 2003b": "学生用书, 2003",
+    "安德森 (2016)": "安德森, 2016",
+    "安德森, 2016": "安德森, 2016",
     "官方与改革派 (2016)": "官方与改革派, 2016",
     "官方与改革派, 2016": "官方与改革派, 2016",
     "官方提案 (2012)": "官方提案, 2012",
@@ -174456,21 +174456,6 @@
       ],
       "title": ""
     },
-    "Republic of Katagalugan, 1902": {
-      "aliases": [
-        "Republic of Katagalugan, 1902",
-        "Republic of Katagalugan (1902)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Republic of Katagalugan, 1902"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch08.md"
-      ],
-      "title": ""
-    },
     "Requa, 2022": {
       "aliases": [
         "Requa, 2022",
@@ -227353,6 +227338,22 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Science & Education/Argument_Zemplen_2007_SciEduc.md"
+      ],
+      "title": ""
+    },
+    "安德森, 2016": {
+      "aliases": [
+        "安德森, 2016",
+        "安德森 (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "安德森, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/france/Albert Sarraut.md",
+        "wiki/persons/france/Alexandre de Rhodes.md"
       ],
       "title": ""
     },

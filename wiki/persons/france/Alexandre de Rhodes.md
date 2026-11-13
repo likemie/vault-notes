@@ -4,10 +4,14 @@ aliases:
   - 亚历山大·德·罗德
   - 罗德
   - 亚历山大·罗德
-  - Alexandre de Rhodes
 summary: "17世纪法国耶稣会传教士、杰出语言学家与词典编纂家。1651年在罗马出版里程碑式的《越葡拉词典》，创立并系统规范了越南语拉丁字母拼音系统“国语字”（Quốc ngữ）；本尼迪克特·安德森在《想象的共同体》中将其作为欧洲印刷与文字技术跨文化迁移的关键人物，指出其原用于天主教宣教的拼音文字在三百年后历经法国殖民当局切断中华传统联系的工具化推行，最终被20世纪越南民族主义者挪用为大众读写革命与民族独立团结的制度媒介。"
 type: person
 nationality: france
+person_region: "france"
+person_related_count: 11
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1591"
 died: "1660"
 lifespan: "1591–1660"

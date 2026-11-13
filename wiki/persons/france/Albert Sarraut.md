@@ -8,6 +8,11 @@ aliases:
 summary: "法国第三共和国激进社会党政治家、两任法国总理与殖民帝国行政官。曾两度出任法属印度支那总督（1911–1914, 1917–1919），1917年签署颁布《公共教育法典》，主导法越双轨学校体制改革与初等国语字普及，确立殖民地平民实用工农教育与本土基层官吏有限培养方针；在安德森《想象的共同体》中，萨罗作为殖民官方民族主义教育政策的代表性设计师，见证了帝国教育同化自食其果催生本土反抗先锋的历史悖论。"
 type: person
 nationality: france
+person_region: "france"
+person_related_count: 13
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1872"
 died: "1962"
 lifespan: "1872–1962"

@@ -13478,6 +13478,19 @@
     ]
   },
   {
+    "title": "First Army and Second Army",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/First Army and Second Army.md",
+    "aliases": [
+      "第一军队与第二军队",
+      "第一军队",
+      "第二军队",
+      "First Army",
+      "Second Army",
+      "殖民地二元军队体制"
+    ]
+  },
+  {
     "title": "Forced Knowledge Transfer",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Forced Knowledge Transfer.md",
@@ -14915,6 +14928,17 @@
       "转型性变革",
       "transformative innovation policy",
       "transformative change paradigm"
+    ]
+  },
+  {
+    "title": "Tropical Gothic",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Tropical Gothic.md",
+    "aliases": [
+      "热带哥特式",
+      "热带哥特风格",
+      "热带哥特式生活方式",
+      "Tropical Gothic Style"
     ]
   },
   {
@@ -30750,6 +30774,27 @@
     ]
   },
   {
+    "title": "Albert Sarraut",
+    "type": "person",
+    "path": "wiki/persons/france/Albert Sarraut.md",
+    "aliases": [
+      "阿尔贝·萨罗",
+      "萨罗",
+      "Sarraut",
+      "阿尔伯特·萨罗"
+    ]
+  },
+  {
+    "title": "Alexandre de Rhodes",
+    "type": "person",
+    "path": "wiki/persons/france/Alexandre de Rhodes.md",
+    "aliases": [
+      "亚历山大·德·罗德",
+      "罗德",
+      "亚历山大·罗德"
+    ]
+  },
+  {
     "title": "Alfred Binet",
     "type": "person",
     "path": "wiki/persons/france/Alfred Binet.md",
@@ -36927,6 +36972,19 @@
       "柬越战争与中越战争",
       "第三次印度支那战争",
       "Third Indochina War"
+    ],
+    "subtype": "event"
+  },
+  {
+    "title": "Republic of Katagalugan",
+    "type": "fact",
+    "path": "wiki/facts/asia/Republic of Katagalugan.md",
+    "aliases": [
+      "加达洛共和国",
+      "卡塔加卢甘共和国",
+      "他加禄共和国",
+      "Katagalugan Republic",
+      "Tagalog Republic"
     ],
     "subtype": "event"
   },
