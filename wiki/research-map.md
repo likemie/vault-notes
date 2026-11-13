@@ -15,7 +15,7 @@ related_methods: []
     <a href="/bases/concepts"><span>概念</span><strong>2023</strong></a>
     <a href="/bases/arguments"><span>论证</span><strong>431</strong></a>
     <a href="/bases/facts"><span>事实</span><strong>1174</strong></a>
-    <a href="/bases/persons"><span>人物</span><strong>703</strong></a>
+    <a href="/bases/persons"><span>人物</span><strong>704</strong></a>
     <a href="/bases/theories"><span>理论</span><strong>286</strong></a>
     <a href="/bases/methods"><span>方法</span><strong>385</strong></a>
     <a href="/bases/instruments"><span>测量工具</span><strong>83</strong></a>
