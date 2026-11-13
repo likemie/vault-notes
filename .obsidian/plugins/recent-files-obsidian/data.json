@@ -5,16 +5,28 @@
       "path": "wiki/concepts/political-economy-geopolitics/Print-Capitalism.md"
     },
     {
+      "basename": "Baseline Standardized Mean Difference",
+      "path": "wiki/methods/quantitative/Baseline Standardized Mean Difference.md"
+    },
+    {
+      "basename": "Average Variance Extracted",
+      "path": "wiki/methods/quantitative/Average Variance Extracted.md"
+    },
+    {
+      "basename": "Argument_Qu_2024_IJED",
+      "path": "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md"
+    },
+    {
+      "basename": "Argument_Anderson_2016_Verso_Ch07",
+      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch07.md"
+    },
+    {
       "basename": "Argument_Anderson_2016_Verso_Ch05",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch05.md"
     },
     {
       "basename": "Argument_Anderson_2016_Verso_Ch04",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch04.md"
-    },
-    {
-      "basename": "Average Variance Extracted",
-      "path": "wiki/methods/quantitative/Average Variance Extracted.md"
     },
     {
       "basename": "Author Name Disambiguation",
@@ -55,10 +67,6 @@
     {
       "basename": "Dunmore's Proclamation",
       "path": "wiki/facts/uk/Dunmore's Proclamation.md"
-    },
-    {
-      "basename": "Argument_Qu_2024_IJED",
-      "path": "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md"
     },
     {
       "basename": "José de San Martín",
@@ -191,14 +199,6 @@
     {
       "basename": "Argument_Volmari_2025_CE",
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Volmari_2025_CE.md"
-    },
-    {
-      "basename": "Argument_Kuortti_2025_JEdPolicy",
-      "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Kuortti_2025_JEdPolicy.md"
-    },
-    {
-      "basename": "Argument_Freeman_1995_CJE",
-      "path": "wiki/arguments/journal-articles/Cambridge Journal of Economics/Argument_Freeman_1995_CJE.md"
     }
   ],
   "omittedPaths": [],
