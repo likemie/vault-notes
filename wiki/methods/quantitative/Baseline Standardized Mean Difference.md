@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
@@ -147,17 +147,18 @@ updated: 2026-11-13
 > - $d_{\text{baseline}} < 0$ 表示对照组在干预前基础更优；
 > - 核心判定取绝对值 $|d_{\text{baseline}}|$ 进行阈值对照。
 >
-> > [!geogebra] 两组基线分布与标准化均数差（Cohen's d）动态模拟
-> > - **红色曲线与棕色曲线** 分别代表处理组与对照组[[Pre-test and Post-test\|前测]]分数的正态概率密度函数。
-> > - **滑块 $MW_1$ 与 $MW_2$** 调整两组的前测样本均值。
-> > - **滑块 $SD_1$ 与 $SD_2$** 调整两组的前测样本标准差。
-> > - **顶端间距与动态公式读数** 实时呈现两组均值物理距离，并严格代入合并标准差公式，动态输出基线标准化均数差 $d$ 的计算过程与数值。
+> > [!geogebra] 基线标准化均数差与三级门槛
+> > - **横轴** 示例[[Pre-test and Post-test\|前测]]分数（30–70），不代表实证数据。
+> > - **蓝色与红色曲线** 处理组与对照组前测分数的正态密度，虚线标示各组均值。
+> > - **滑块 $M_T$、$M_C$** 两组前测均值。
+> > - **滑块 $SD_T$、$SD_C$** 两组前测标准差。
+> > - **滑块 $n_T$、$n_C$** 两组样本量，进入 $SD_{\text{pooled}}$ 的自由度加权与校正因子 $J$。
+> > - **读数行** 依次显示 $SD_{\text{pooled}}$、$d_{\text{baseline}}$、$J$ 与 $g_{\text{baseline}}$。
+> > - **三色色带与黑点** 绿色 $|g| \le 0.05$、琥珀色 $0.05 < |g| \le 0.25$、红色 $|g| > 0.25$；黑点标示当前 $|g|$，判定文字随区间变色。
 > >
-> > 调整均值滑块拉大两曲线中心间距，观察 $d$ 逐步越过 $0.05$（完全等效区）与 $0.25$（需[[Analysis of Covariance\|ANCOVA]]控制区）；再增大标准差滑块使分布扁平展宽，观察在相同的原始分差距下，较大的组内离散如何稀释 $d$ 的效应幅度。
+> > 先拉开两组均值，观察黑点从绿区进入琥珀区再进入红区；保持均值差不变而增大两组标准差，$|d|$ 随之缩小；把两组样本量都调到 10 以下，比较 $d$ 与 $g$ 的差距，体会公式步骤 3 的小样本校正。
 > >
 > > ![[wiki/assets/geogebra/baseline_smd_threshold.ggb]]
-> >
-> > 模拟改编自 Samuel Merk 的 [Cohen's d](https://www.geogebra.org/m/tGcX62gq)；采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。Created with [GeoGebra®](https://www.geogebra.org/)。
 
 > [!formula-step] 公式步骤 3　小样本无偏校正因子（Hedges' g）
 > $$J \approx 1 - \frac{3}{4(n_T + n_C) - 9}$$

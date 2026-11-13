@@ -27009,24 +27009,6 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
     border:0 !important;
     background:none !important;
     overflow:visible !important;
-
-    /* Time passing: a soft light slides down the rail from the first event to the latest. */
-    &::before {
-      content:"" !important;
-      display:block !important;
-      position:absolute !important;
-      left:calc(var(--dt-track) - 1.5px) !important;
-      top:var(--dt-node-y) !important;
-      bottom:0 !important;
-      width:3px !important;
-      border-radius:3px;
-      background:linear-gradient(to bottom,transparent,var(--dt-flow-light) 62%,transparent)
-        no-repeat 0 var(--dt-flow-y) / 100% 8rem !important;
-      opacity:.85;
-      pointer-events:none;
-      z-index:1;
-      animation:dt-time-flow 9s linear infinite !important;
-    }
   }
 
   & > .callout-content > :is(ul,ol) > li {
@@ -27083,27 +27065,17 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
       padding:0 !important;
       border:0 !important;
       border-radius:0 !important;
-      background:var(--dt-rail) !important;
+      background:
+        linear-gradient(var(--dt-flow-light),var(--dt-flow-light)) no-repeat top / 100% 0%,
+        var(--dt-rail) !important;
       box-shadow:none !important;
       transform:none !important;
       pointer-events:none;
       z-index:0;
+      transition:background-size 200ms ease-out !important;
     }
 
-    &:last-child::after {
-      /* Paper-coloured cover: nothing runs on below the latest node. */
-      left:calc(var(--dt-track) - 3px) !important;
-      top:calc(var(--dt-node-y) + 5px) !important;
-      bottom:0 !important;
-      width:6px !important;
-      background:var(--ac-paper) !important;
-      z-index:1;
-    }
-
-    &:last-child::before {
-      outline:0 solid color-mix(in srgb,var(--tf-accent) 60%,transparent);
-      animation:dt-now-pulse 3.6s ease-out infinite !important;
-    }
+    &:last-child::after { display:none !important; }
 
     & > strong:first-of-type,
     & > p:first-of-type > strong:first-of-type {
@@ -27180,13 +27152,65 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
   }
 
   @media (hover:hover) {
-    & > .callout-content > :is(ul,ol) > li:hover::before {
-      background:var(--tf-accent) !important;
+    /* Position of each event in the sequence; it sets how long the light takes to arrive. */
+    & > .callout-content > :is(ul,ol) > li { --dt-i:0; --dt-step:85ms; }
+    & > .callout-content > :is(ul,ol) > li:nth-child(2) { --dt-i:1; }
+    & > .callout-content > :is(ul,ol) > li:nth-child(3) { --dt-i:2; }
+    & > .callout-content > :is(ul,ol) > li:nth-child(4) { --dt-i:3; }
+    & > .callout-content > :is(ul,ol) > li:nth-child(5) { --dt-i:4; }
+    & > .callout-content > :is(ul,ol) > li:nth-child(6) { --dt-i:5; }
+    & > .callout-content > :is(ul,ol) > li:nth-child(7) { --dt-i:6; }
+    & > .callout-content > :is(ul,ol) > li:nth-child(8) { --dt-i:7; }
+    & > .callout-content > :is(ul,ol) > li:nth-child(9) { --dt-i:8; }
+    & > .callout-content > :is(ul,ol) > li:nth-child(10) { --dt-i:9; }
+    & > .callout-content > :is(ul,ol) > li:nth-child(11) { --dt-i:10; }
+    & > .callout-content > :is(ul,ol) > li:nth-child(12) { --dt-i:11; }
+    & > .callout-content > :is(ul,ol) > li:nth-child(13) { --dt-i:12; }
+    & > .callout-content > :is(ul,ol) > li:nth-child(14) { --dt-i:13; }
+    & > .callout-content > :is(ul,ol) > li:nth-child(15) { --dt-i:14; }
+    & > .callout-content > :is(ul,ol) > li:nth-child(16) { --dt-i:15; }
+    & > .callout-content > :is(ul,ol) > li:nth-child(17) { --dt-i:16; }
+    & > .callout-content > :is(ul,ol) > li:nth-child(18) { --dt-i:17; }
+    & > .callout-content > :is(ul,ol) > li:nth-child(19) { --dt-i:18; }
+    & > .callout-content > :is(ul,ol) > li:nth-child(20) { --dt-i:19; }
+    & > .callout-content > :is(ul,ol) > li:nth-child(21) { --dt-i:20; }
+    & > .callout-content > :is(ul,ol) > li:nth-child(22) { --dt-i:21; }
+    & > .callout-content > :is(ul,ol) > li:nth-child(23) { --dt-i:22; }
+    & > .callout-content > :is(ul,ol) > li:nth-child(24) { --dt-i:23; }
+    & > .callout-content > :is(ul,ol) > li:nth-child(n + 25) { --dt-i:24; }
+
+    /* Every event before the one under the pointer: its stretch of rail is drawn in,
+       one after another, so the light runs down from the first event. */
+    & > .callout-content > :is(ul,ol) > li:has(~ li:is(:hover,:focus-within))::after {
+      background-size:100% 100%, auto !important;
+      transition:background-size var(--dt-step) linear calc(var(--dt-i) * var(--dt-step)) !important;
     }
+
+    /* Nodes light up as the light passes them; the one under the pointer gets a halo. */
+    & > .callout-content > :is(ul,ol) > li:is(:hover,:focus-within,:has(~ li:is(:hover,:focus-within)))::before {
+      border-color:var(--dt-flow-light) !important;
+      background:var(--dt-flow-light) !important;
+      transition:background-color 160ms ease calc(var(--dt-i) * var(--dt-step)),
+        border-color 160ms ease calc(var(--dt-i) * var(--dt-step)),
+        outline-color 260ms ease calc(var(--dt-i) * var(--dt-step)),
+        outline-width 260ms ease calc(var(--dt-i) * var(--dt-step)) !important;
+    }
+    & > .callout-content > :is(ul,ol) > li::before {
+      outline:0 solid transparent;
+    }
+    & > .callout-content > :is(ul,ol) > li:is(:hover,:focus-within)::before {
+      outline:5px solid color-mix(in srgb,var(--dt-flow-light) 26%,transparent);
+    }
+
+    /* Events after the pointer step back a little: they have not happened yet. */
+    & > .callout-content > :is(ul,ol) > li { transition:opacity 260ms ease !important; }
+    & > .callout-content > :is(ul,ol) > li:is(:hover,:focus-within) ~ li { opacity:.62; }
   }
 
   @media (prefers-reduced-motion:reduce) {
-    & > .callout-content > :is(ul,ol) > li::before { transition:none !important; }
+    & > .callout-content > :is(ul,ol) > li,
+    & > .callout-content > :is(ul,ol) > li::before,
+    & > .callout-content > :is(ul,ol) > li::after { transition:none !important; }
   }
 
   @media print {
@@ -27196,24 +27220,6 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"]:where(.theme-dark *) {
   --dt-link-lift:#fff;
   --dt-link-ink:42%;
-}
-/* The light's position is a registered property so it can animate past an !important background. */
-@property --dt-flow-y {
-  syntax:"<length-percentage>";
-  inherits:false;
-  initial-value:-128px;
-}
-@keyframes dt-time-flow {
-  from { --dt-flow-y:-8rem; }
-  to { --dt-flow-y:calc(100% + 8rem); }
-}
-@keyframes dt-now-pulse {
-  0% { outline-width:0; outline-color:color-mix(in srgb,var(--tf-accent) 60%,transparent); }
-  70%,100% { outline-width:7px; outline-color:transparent; }
-}
-@media (prefers-reduced-motion:reduce) {
-  html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-content > :is(ul,ol)::before { display:none !important; }
-  html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="dev-timeline"] > .callout-content > :is(ul,ol) > li:last-child::before { animation:none !important; }
 }
 /* <<< DEVELOPMENT TIMELINE TRACK */
 
