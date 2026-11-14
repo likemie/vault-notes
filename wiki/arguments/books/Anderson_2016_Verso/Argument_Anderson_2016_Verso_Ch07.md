@@ -320,7 +320,7 @@ updated: 2026-11-14
 >
 > - **殖民服务性公文媒介**
 >
->   荷兰东印度当局借用沿海商贸通用语建立服务性马来语（dienstmaleisch），以简易实用的行政用语推迟了昂贵的荷兰语全域同化 (pp. 134–135)。
+>   荷兰东印度当局借用沿海商贸通用语建立服务性马来语（dienstmaleisch），以简易实用的行政用语推迟了代价昂贵的荷兰语全域同化 (pp. 134–135)。
 >
 > - **通俗报刊与市井公共媒介**
 >
@@ -335,9 +335,9 @@ updated: 2026-11-14
 >   跨族群青年代表签署[[Sumpah Pemuda|青年誓言]]，正式将公文马来语定为印度尼西亚国语，为多元群岛奠定了平等的主权沟通工具 (pp. 135–136)。
 
 > [!case] 公文马来语的普及与1928年青年誓言确立国语
-> - **与奥斯曼语和哈布斯堡财政德语的形态学类比** 服务性马来语作为统治官僚与多民族臣民之间的工作媒介，在性质上类似于奥斯曼帝国的官场混合语，以及哈布斯堡多民族军营中产生的财政德语（ärarisch deutsch）。这种语言语法简练实用，脱离了古典马来宫廷语的宗法约束 (p. 135)。
-> - **通俗媒体与城市出版市场的孵化作用** 19世纪后半叶，爪哇与苏门答腊沿海港口的华人印刷商、欧亚混血编辑创办了大量通俗报章，将服务性马来语转变为市井大众可理解的公共语言。至20世纪初，本土双语知识分子接手这一文字媒介，消除了其官方奴役痕迹，重新追溯廖内群岛的纯正源头 (p. 135)。
-> - **1928年青年大会与爪哇语等级壁垒的破除** 在荷属东印度人口中爪哇人占半数以上，但爪哇语蕴含复杂的封建等级分层系统（对长辈、贵族与平民使用不同辞藻体系），阻碍了现代民主平权沟通。青年知识阶层确立人人平等的马来语为印度尼西亚国语，并在1928年10月28日签署《青年誓言》，为多元族群提供了平权沟通的技术工具 (pp. 135–136)。
+> - **类比奥斯曼官场语与哈布斯堡财政德语** 服务性马来语作为统治官僚与多民族臣民之间的工作媒介，性质类似于奥斯曼帝国的官场混合语，以及哈布斯堡多民族军营中通用的财政德语（ärarisch deutsch）。这种语言简练实用，脱离了古典宫廷马来语繁复的等级约束 (p. 135)。
+> - **通俗媒体与城市出版市场的培育** 19世纪后半叶，爪哇与苏门答腊沿海港口的华人印刷商、欧亚混血编辑创办了大量通俗报章，将服务性马来语转变为市井大众可理解的公共语言。至20世纪初，本土双语知识分子接手这一文字媒介，消除了其官方奴役痕迹，重新追溯廖内群岛的纯正源头 (p. 135)。
+> - **1928年青年大会与爪哇语等级壁垒的破除** 在荷属东印度人口中爪哇人占半数以上，但爪哇语蕴含复杂的封建等级分层系统（对长辈、贵族与平民使用不同用词），阻碍了现代平权交流。青年知识分子确立人人平等的马来语为印度尼西亚国语，并在1928年10月28日签署《青年誓言》，为多元族群提供了平权沟通的技术工具 (pp. 135–136)。
 
 ---
 
@@ -407,7 +407,7 @@ updated: 2026-11-14
 ---
 
 > [!conclusion] 最后一波民族主义的历史定性与理论意蕴
-> [[Benedict Anderson|本尼迪克特·安德森]]通过对荷属东印度、法属西非、法属印度支那与多语种瑞士的长时段比较考证，完整确立了最后一波民族主义的发生机理。这一波浪潮本质上是资本主义全球扩张引发的官方同化政策与殖民国家科层膨胀的辩证反噬产物。在缺乏本土大资产阶级的殖民地社会，以受过现代学校教育的青年为主体的双语知识分子凭借双语读写能力崛起为动员先锋。殖民地标准化的教育金字塔塑造了向首都汇聚的教育朝圣，其与官僚行政朝圣在地理空间上的相互嵌合，将原本人为划定的殖民管辖边界淬炼为现代民族国家的领土国土。同时，殖民地先锋阶层熟练调取美洲共和模型、欧洲通俗民粹动员与官方科层灌输三大先行模块，依托行政通用语与现代视听传播媒介，在无需语言血缘[[Homophily|同质性]]的前提下构筑起崭新的主权共同体。瑞士经验更进一步证明，民族是在现代世界体系中被自觉建构、模块化传播并具象化落地的政治文化人造物，打破了关于民族自古永恒的本质主义迷思 (pp. 115–143)。
+> [[Benedict Anderson|本尼迪克特·安德森]]通过对荷属东印度、法属西非、法属印度支那与多语种瑞士的长时段比较分析，系统阐明了最后一波民族主义的生成机制。这一波浪潮本质上是资本主义全球扩张、殖民国家科层膨胀与自上而下同化政策相互作用的产物。在缺乏本土大资产阶级的殖民地社会，以受过现代西式教育的青年为主体的双语知识分子，凭借双语读写能力崛起为反抗运动的核心先锋。殖民地标准化的教育金字塔促成了青年向殖民首府汇聚的求学之路，这与文官调派任职的路线在空间上紧密重合，把原本任意划分的行政管区变成了国民认同的领土疆界。同时，双语先锋阶层熟练调取美洲共和模型、欧洲通俗语言动员与官方科层同化三大先行模块，依托行政通用语与现代视听传播媒介，在无需语言血缘[[Homophily|同质性]]的前提下构筑起崭新的主权共同体。瑞士的经验进一步证明，现代民族认同是在近代世界体系中通过制度建构、模块化传播与大众媒介形成的政治文化共同体 (pp. 115–143)。
 
 > [!implication]- 理论启示：教育社会学与民族主义理论的方法论推进
 > - **确立教育空间制度对国家疆界的建构功能** 将教育分析从单纯微观知识灌输与[[Human Capital Theory|人力资本]]积累，升华为阐明学校地理层级体系与国家领土边界生成的宏观政治社会学透镜 (pp. 122–124)。
@@ -434,7 +434,7 @@ updated: 2026-11-14
 > *Thus the twentieth-century colonial school-system brought into being pilgrimages which paralleled longer-established functionary journeys. The Rome of these pilgrimages was Batavia: not Singapore, not Manila, not Rangoon, not even the old Javanese royal capitals of Jogjakarta and Surakarta. From all over the vast colony, but from nowhere outside it, the tender pilgrims made their inward, upward way, meeting fellow-pilgrims from different, perhaps once hostile, villages in primary school; from different ethnolinguistic groups in middle-school; and from every part of the realm in the tertiary institutions of the capital. . . . their common experience, and the amiably competitive comradeship of the classroom, gave the maps of the colony which they studied . . . a territorially specific imagined reality which was every day confirmed by the accents and physiognies of their classmates.*
 
 > [!citation-card] 语言作为包容性媒介与印刷语言发明民族
-> 把语言当作某些民族主义意识形态家对待它们的方式——视为国旗、服饰、民俗舞蹈等民族属性的象征——始终是一个错误。语言最关键的特性在于其生成想象共同体、在实质上构筑特定团结感的能力。毕竟，帝国语言依然是通俗方言，因而只是众多特定通俗语言中的一种。如果激进的莫桑比克讲葡萄牙语，其深远意义在于葡萄牙语是莫桑比克得以被想象的媒介。从这一视角来看，在莫桑比克使用葡萄牙语，与在澳大利亚使用英语或在巴西使用葡萄牙语，在本质上毫无二致。语言具有向所有人敞开的包容特征：原则上任何人都可以学习任何语言。唯一的自然限制在于人类寿命有限的巴别塔宿命：没有人能长寿到掌握世上所有语言。发明民族共同体的是印刷语言本身，无论具体使用的是哪一种语言 (pp. 136–137)。
+> 把语言当成国旗、服饰或民俗舞蹈那样的民族属性象征，始终是一种误解。语言最关键的特性在于其生成想象共同体、在实质上构筑特定团结感的能力。毕竟，帝国语言依然是通俗方言，因而只是众多特定通俗语言中的一种。如果激进的莫桑比克讲葡萄牙语，其深远意义在于葡萄牙语是莫桑比克得以被想象的媒介。从这一视角来看，在莫桑比克使用葡萄牙语，与在澳大利亚使用英语或在巴西使用葡萄牙语，在本质上毫无二致。语言具有向所有人敞开的包容特征：原则上任何人都可以学习任何语言。唯一的自然限制在于人类寿命有限的巴别塔宿命：没有人能长寿到掌握世上所有语言。发明民族共同体的是印刷语言本身，无论具体使用的是哪一种语言 (pp. 136–137)。
 >
 > *It is always a mistake to treat languages in the way that certain nationalist ideologues treat them – as emblems of nation-ness, like flags, costumes, folk-dances, and the rest. Much the most important thing about language is its capacity for generating imagined communities, building in effect particular solidarities. After all, imperial languages are still vernaculars, and thus particular vernaculars among many. . . . Language is not an instrument of exclusion: in principle, anyone can learn any language. On the contrary, it is fundamentally inclusive, limited only by the fatality of Babel: no one lives long enough to learn all languages. Print-language is what invents nationalism, not a particular language per se.*
 
