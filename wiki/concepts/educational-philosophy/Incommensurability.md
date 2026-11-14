@@ -220,7 +220,22 @@ updated: 2026-11-14
 
 ---
 
-> [!evidence-grid] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Thomas Kuhn]] | 人物 | 科学哲学奠基人，系统确立科学范式不可通约性命题。 |
+> | [[Paradigm]] | 概念 | 不可通约性的核心载体，范式转换标志着世界观与标准的整体重组。 |
+> | [[Scientific Paradigm]] | 概念 | 科学共同体共享的理论、仪器与方法承诺。 |
+> | [[Paradigm Wars]] | 概念 | 教育研究中量化与质性阵营因范式不可通约性引发的长期论战。 |
+> | [[Mixed Methods Research]] | 方法 | 试图依托实用主义跨越不可通约性鸿沟的第三种研究范式。 |
+> | [[Commensuration]] | 概念 | 不可通约性的反面，将异质事物折算为共同公分母的社会与量化过程。 |
+> | [[Epistemology]] | 概念 | 范式不可通约性根植于关于知识性质与辩护准则的根本分歧。 |
+> | [[Ontology]] | 概念 | 范式不可通约性涉及关于社会实在究竟是客观外在还是主观建构的根本预设。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 详尽解构库恩[[Paradigm|范式]]理论中的不可[[Commensuration|通约]]性机制，剖析其如何引爆[[Paradigm Wars|范式战争]]并触发[[Mixed Methods Research|混合方法]]运动。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 在量化、质性与混合方法的三元框架中阐释哲学世界观的不可通约性与[[Pragmatic Paradigm|实用主义]]调和策略。
 > - [[Argument_Brady_2023_EPR|Brady et al. (2023)]] — 通过历时文献计量揭示教育研究在走出绝对实证垄断后质性与多范式并存的发展态势。

@@ -9,7 +9,7 @@ aliases:
 summary: "本尼迪克特·安德森提出的民族主义核心理论，主张民族是被想象的有边界和主权的政治共同体。成员虽互不相识却共享同属一体的心理图像；印刷资本主义与统一学校系统提供了物质制度基础；卡普与扎米斯卡进一步将其拓展至认知人类学与科技政治学，论证想象链接克服了邓巴数极限并维系超大规模技术协作，批判后国家思潮对“情感民族”防线的放弃导致公民认同崩解与商业技术公社的替代性兴起。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 53
+theory_related_count: 54
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -77,6 +77,7 @@ related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch07]]"
   - "[[Argument_Anderson_2016_Verso_Ch08]]"
   - "[[Argument_Anderson_2016_Verso_Ch10]]"
+  - "[[Argument_Anderson_2016_Verso_Ch11]]"
 confidence: high
 status: active
 created: 2026-05-26
@@ -107,6 +108,7 @@ updated: 2026-11-14
 > - **1983 年拓展 — 最后一波民族主义与双重朝圣机制** 安德森在第七章系统阐述 20 世纪亚非殖民地民族主义的生成逻辑，揭示教育朝圣与行政朝圣的空间同构如何将帝国官僚管区转化为新型民族国家疆界，确立了双语知识阶层在民族想象中的中枢作用。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 113–140)]]
 > - **1983 年拓展 — 爱国情感根基与种族主义分野** 安德森在第八章系统阐释民族共同体的情感机理，论证爱国主义的牺牲动力根植于语言自然化与无从选择的宿命连带，并在声响共鸣（[[Unisonance|同声相应]]）中被具身体验；同时确立种族主义源自宗主国阶级统治原则与海外帝国殖民外化的理论论断。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 141–154)]]
 > - **1991 年拓展 — 殖民国家心智与三大制度语法** 安德森在 1991 年再版增订第十章《人口普查、地图、博物馆》，修正此前过度偏向王朝官方民族主义的解释倾向，系统论证晚期殖民国家的人口普查（分类网格与人身序列化）、近代测绘（[[Geo-Body|地理身体]]与[[Map-as-Logo|地图标识]]）以及考古博物馆（世俗化古迹权标与祖先谱系）三大制度，如何奠定亚非后殖民民族国家想象领土、臣民与历史合法性的深层治理语法。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 167–190)]]
+> - **1991/2006 年拓展 — 记忆与遗忘、反向腹语术与跨国传播轨迹** 安德森在 1991 年增订第十一章《记忆与遗忘》（并在 2006 年增补后记），剖析 19 世纪民族主义由大革命断裂向古老谱系的转向，系统提炼[[Reassurance of Fratricide|兄弟残杀的抚慰]]、[[National Biography|民族传记]]与生者代言沉默死者的[[Reversed Ventriloquism|反向腹语术]]三大修辞技术；后记进而追踪著作在全球翻译流散中展现的去中心化与正向盗版潜能。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 191–235)]]
 > - **1990 年代 — 比较教育与教科书[[Official Knowledge|官方知识]]研究引入** 比较教育学者将该理论运用于解构历史教科书、课程大纲与仪式庆典在制造国家认同中的政治装置功能。
 > - **2024 年 — [[One Country, Two Systems|一国两制]]下的领土与族群叙事分化** [[Argument_Xu_2024_CE|Xu (2024)]] 结合 Brubaker 分析维度，揭示中国大陆与香港历史教科书如何分别构建出领土型与族裔型的差异化民族想象。
 > - **2025 年 — 认知人类学、情感民族防线与科技国家建构** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》（Ch. 17 & Ch. 18）中将想象的共同体与[[Dunbar's Number|邓巴数]]结合，论证共享语言叙事是克服生物学认知上限、实现现代尖端技术协作的必要纽带；尖锐批评后现代思潮对“情感民族”边界的放弃，并剖析了[[Civic Rituals|公民仪式]]瓦解导致想象亲密感断裂与硅谷技术公社的替代性崛起。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–198)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(pp. 216–218)]]
@@ -238,6 +240,6 @@ updated: 2026-11-14
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 专著《[[Imagined Community|想象的共同体]]》系统奠定建构论民族理论（[[Argument_Anderson_2016_Verso_Ch01|Ch01]]–[[Argument_Anderson_2016_Verso_Ch04|Ch04]]），揭示教育与行政朝圣如何铸就最后一波民族疆界（[[Argument_Anderson_2016_Verso_Ch07|Ch07]]），剖析爱国情感根基（[[Argument_Anderson_2016_Verso_Ch08|Ch08]]），并考订人口普查、地图与博物馆三大制度对后殖民国家心智的深层规制（[[Argument_Anderson_2016_Verso_Ch10|Ch10]]）。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 系统确立建构论民族理论（第1–4章），阐释最后一波双重朝圣（第7章）、爱国情感（第8章）、殖民制度语法（第10章），以及记忆遗忘、兄弟残杀抚慰与民族传记机制（第11章，[[Argument_Anderson_2016_Verso_Ch11]]）。
 > - [[Argument_Xu_2024_CE|Xu (2024)]] — 运用想象的共同体理论，实证对比了中国大陆与香港初中历史教科书中的领土型与族裔型民族想象。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》：[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch. 17]] 论证想象链接克服[[Dunbar's Number|邓巴数]]维系科技协作与守卫情感民族；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch. 18]] 剖析[[Civic Rituals|公民仪式]]瓦解与硅谷技术公社兴起。

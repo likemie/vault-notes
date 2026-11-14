@@ -6,7 +6,7 @@ aliases:
 summary: "本尼迪克特·安德森在《想象的共同体》中界定的近代民族主义首波历史形态。18世纪末至19世纪初美洲先驱运动表明，民族意识在共享宗主国母语且防范底层暴动的情境下率先萌生。遭受跨大西洋出生地理歧视的土生白人精英（地主、商人和官僚），依托受限的殖民行政巡游与地方报纸，将既有行政辖区想象为主权祖国；安德森在第11章进一步揭示美洲新地名所开创的齐一空洞时间手足竞争、美国革命的启蒙普遍主义，以及土生精英借由反向腹语术建构土著主义先祖的深层机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -59,7 +59,7 @@ updated: 2026-11-14
 > *In the first place, whether we think of Brazil, the USA, or the former colonies of Spain, language was not an element that differentiated them from their respective imperial metropoles. All, including the USA, were creole states, formed and led by people who shared a common language and common descent with those against whom they fought. . . . In the second place, there are serious reasons to doubt the applicability in much of the Western hemisphere of Nairn's otherwise persuasive thesis that 'The arrival of nationalism in a distinctively modern sense was tied to the political baptism of the lower classes.'*
 
 > [!boundary]- 概念边界
-> - 不等于语言民族主义（Linguistic Nationalism） — 土生白人民族主义建立在与宗主国完全相同的母语（英语、西班牙语、葡萄牙语）之上，证明共同语言并非民族独立的必要前提，亦非划定国界的决定边界。
+> - 不等于语言民族主义（Linguistic Nationalism） — 土生白人民族主义建立在与宗主国完全相同的母语（英语、西班牙语、葡萄牙语）之上，证明民族独立无需依赖独特的语言谱系，亦不受语言分界所限。
 > - 不等于底层民粹起义 — 土生白人地主阶层发起独立运动的一个关键初衷，在于担忧宗主国王权干涉奴隶管理法令或丧失半岛军事庇护，从而防范印第安人与奴隶群体发动社会革命。
 > - 不适用于前殖民时期美洲土著抵抗 — 原住民的反抗（如秘鲁图帕克·阿马鲁起义）属于反抗殖民压迫的阶级与族群反抗，而土生白人民族主义追求的是在保留既有社会经济阶级格局的前提下，接掌帝国主权并确立现代代议共和政体。
 
@@ -102,7 +102,7 @@ updated: 2026-11-14
 
 ---
 
-> [!concept-proposition] 命题二｜行政朝圣的地域闭锁与殖民报纸的共时整合共同铸造了主权共和国的地理边界
+> [!concept-proposition] 命题二｜行政朝圣的省区隔绝与殖民报纸的共时整合共同铸造了主权共和国的地理边界
 > **制度空间向情感祖国的转化** 解释殖民帝国自上而下的行政控制空间如何被重构为民众甘愿为之牺牲的情感共同体。
 
 > [!claim] Anderson, B.

@@ -8,7 +8,7 @@ aliases:
 summary: "本尼迪克特·安德森在《想象的共同体》中提出的现代国家冲突形态，指由继承了旧政权官僚中枢、疆界档案与官方民族主义的后革命统治领导层在中枢密室谋划发动的地缘战争。其特征在于冲突决策源于国家马基雅维利主义利益算计，基层民众事前未被咨询亦无深层仇恨，只在事后被官方自卫修辞动员卷入战局；安德森在后记中披露该章在跨国传播中曾因揭露社会主义密室战争而遭遇威权审查全盘抽除。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 5
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

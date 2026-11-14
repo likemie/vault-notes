@@ -725,14 +725,6 @@
       ],
       "title": ""
     },
-    "Achille Mbembe, 2003": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/political-economy-geopolitics/Necropolitics.md"
-      ],
-      "title": ""
-    },
     "Achufusi-Aka, 2011": {
       "datasets": [
         "eef:metacognition-and-self-regulation"
@@ -1938,7 +1930,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/political-economy-geopolitics/Sinicisation.md"
+        "wiki/concepts/political-economy-geopolitics/Sinicisation.md",
+        "wiki/theories/political-economy-geopolitics/Necropolitics.md"
       ],
       "title": ""
     },
@@ -38745,6 +38738,7 @@
       "seen_in": [
         "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md",
         "wiki/arguments/journal-articles/Comparative Education/Argument_Xu_2024_CE.md",
+        "wiki/concepts/political-economy-geopolitics/Creole Nationalism.md",
         "wiki/concepts/political-economy-geopolitics/Nationalism.md",
         "wiki/persons/uk/Ernest Gellner.md",
         "wiki/persons/uk/Hugh Seton-Watson.md",
@@ -38957,14 +38951,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Embedded Network Governance.md"
-      ],
-      "title": ""
-    },
-    "Gerald Roche, 2022": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/political-economy-geopolitics/Necropolitics.md"
       ],
       "title": ""
     },
@@ -44150,6 +44136,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Bulag_2024_CE.md",
         "wiki/concepts/political-economy-geopolitics/Sinicisation.md",
+        "wiki/theories/political-economy-geopolitics/Necropolitics.md",
         "wiki/theories/political-economy-geopolitics/Sacrifice Theory.md"
       ],
       "title": ""
@@ -48363,7 +48350,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md"
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md",
+        "wiki/concepts/political-economy-geopolitics/Creole Nationalism.md"
       ],
       "title": ""
     },
@@ -70626,7 +70614,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Comparative Education/Argument_Bulag_2024_CE.md"
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Bulag_2024_CE.md",
+        "wiki/theories/political-economy-geopolitics/Necropolitics.md"
       ],
       "title": ""
     },
@@ -75346,14 +75335,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "A Study Of The Effect Of Inter-Class Ability Grouping On Achievement In Reading"
-    },
-    "Moshe Halbertal, 2012": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/political-economy-geopolitics/Necropolitics.md"
-      ],
-      "title": ""
     },
     "Moshen, 2022": {
       "datasets": [
@@ -90244,6 +90225,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Comparison of a year-round school and a traditional school  Reading and mathematics achievement"
+    },
+    "Roche, 2022": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/political-economy-geopolitics/Necropolitics.md"
+      ],
+      "title": ""
     },
     "Rochnia & Trempler, 2019": {
       "doi": "",
@@ -105835,7 +105824,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Bulag_2024_CE.md",
-        "wiki/theories/political-economy-geopolitics/Necropolitics.md",
         "wiki/theories/political-economy-geopolitics/Settler Colonialism.md"
       ],
       "title": ""
@@ -109210,7 +109198,6 @@
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Retrotopia.md",
         "wiki/facts/china/2020 Inner Mongolia Bilingual Education Reform.md",
-        "wiki/theories/political-economy-geopolitics/Necropolitics.md",
         "wiki/theories/political-economy-geopolitics/Sacrifice Theory.md"
       ],
       "title": ""

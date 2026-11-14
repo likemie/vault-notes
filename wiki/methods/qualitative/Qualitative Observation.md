@@ -54,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-01'
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -68,7 +68,7 @@ updated: 2026-11-11
 > - **[[Unit of Analysis\|分析单位]]** 个体（如校长、教师、学生）、课堂、现场活动或微观互动事件。
 > - **输出形式** 描述性笔记、[[Reflexivity\|反思性]]笔记、田野日志、互动编码与深入的质性个案叙事。
 
-> [!citation-card] 关键定义
+> [!citation-card] Creswell 论质性观察定义
 > 质性观察是研究者在研究现场记录个体行为和活动并撰写田野笔记（fieldnotes）的数据收集方法。在这项数据收集活动中，研究者以非结构化或半结构化的方式记录现场活动（使用一些预先想了解的开放式问题）。([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch9, p. 199]])
 >
 > Qualitative observations are those in which the researcher takes fieldnotes on the behavior and activities of individuals at the research site. In these data-gathering activities, the researcher records, in an unstructured or semistructured way (using some prior questions that the inquirer wants to know), activities at the research site.
@@ -140,6 +140,6 @@ updated: 2026-11-11
 
 ---
 
-> [!evidence-grid-a] 研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]] — 介绍了米勒（Miller）于 1992 年在关于四年制学院新校长第一年经历的[[Ethnography\|民族志研究]]中，对校长行政内阁会议和日常活动进行系统现场观察的案例。
 > - [[Argument_Wrigley_2018_BERJ\|Wrigley, 2018]] — 指出在教育开放系统与复杂背景下探索因果[[Emergence\|涌现]]，必须引入质性观察以配合多元改进和方法论实在论。

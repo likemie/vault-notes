@@ -27407,13 +27407,13 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"]:not(.is-collapsed) > .callout-title { margin-bottom:.75rem !important; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content { padding:0 !important; }
 
-/* Keep the table continuous and put the stronger type tint around linked names. */
+/* Tint both visible cells so the type color reads across the whole row. */
 html body .callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content table.entry-map-colors {
   --entry-map-paper:var(--ac-paper,var(--background-primary));
   --entry-map-divider:color-mix(in srgb,var(--text-muted) 13%,transparent);
   --entry-map-gutter:clamp(.42rem,1.5cqi,.85rem);
-  --entry-map-name-tint:25%;
   --entry-map-row-tint:4%;
+  --entry-map-active-tint:9%;
   width:100% !important;
   border:1px solid var(--entry-map-divider) !important;
   border-radius:10px !important;
@@ -27424,24 +27424,23 @@ html body .callout.callout.callout.callout.callout.callout[data-callout="entry-m
   table-layout:fixed !important;
 
   &:where(.theme-dark *) {
-    --entry-map-name-tint:26%;
     --entry-map-row-tint:5%;
   }
 
   & :is(th,td):nth-child(2) { display:none !important; }
 
   & :is(th,td):first-child {
-    width:34% !important;
+    width:clamp(5.25rem,24cqi,11rem) !important;
     min-width:0 !important;
   }
 
   & :is(th,td):last-child {
-    width:66% !important;
+    width:auto !important;
     min-width:0 !important;
   }
 
   & :is(th,td) {
-    padding:.49rem var(--entry-map-gutter) !important;
+    padding:.44rem var(--entry-map-gutter) !important;
     overflow-wrap:anywhere;
     white-space:normal !important;
     text-overflow:clip !important;
@@ -27475,14 +27474,22 @@ html body .callout.callout.callout.callout.callout.callout[data-callout="entry-m
     border:0 !important;
     border-block-end:1px solid var(--entry-map-divider) !important;
     box-shadow:none !important;
-    font-size:1em !important;
-    line-height:1.62 !important;
+    font-size:.94em !important;
+    line-height:1.66 !important;
   }
 
   & tbody td:first-child { font-weight:550 !important; }
 
-  & tbody td:first-child:not(:has(a.internal-link)) {
-    background:color-mix(in srgb,var(--entry-type-tone) 12%,var(--entry-map-paper)) !important;
+  & tbody tr[data-entry-map-kind]:has(+ tr[data-entry-map-kind]):not(
+    [data-entry-map-kind="concept"]:has(+ [data-entry-map-kind="concept"]),
+    [data-entry-map-kind="theory"]:has(+ [data-entry-map-kind="theory"]),
+    [data-entry-map-kind="method"]:has(+ [data-entry-map-kind="method"]),
+    [data-entry-map-kind="instrument"]:has(+ [data-entry-map-kind="instrument"]),
+    [data-entry-map-kind="person"]:has(+ [data-entry-map-kind="person"]),
+    [data-entry-map-kind="fact"]:has(+ [data-entry-map-kind="fact"]),
+    [data-entry-map-kind="other"]:has(+ [data-entry-map-kind="other"])
+  ) > td {
+    border-block-end-color:color-mix(in srgb,var(--text-muted) 48%,transparent) !important;
   }
 
   & tbody tr:last-child > td { border-block-end:0 !important; }
@@ -27490,20 +27497,15 @@ html body .callout.callout.callout.callout.callout.callout[data-callout="entry-m
   & tbody td:first-child a.internal-link {
     color:var(--text-normal) !important;
     font-weight:inherit !important;
-    background:color-mix(in srgb,var(--entry-type-tone) var(--entry-map-name-tint),var(--entry-map-paper)) !important;
-    padding:.14em .42em !important;
-    border-radius:4px !important;
-    box-decoration-break:clone;
     text-underline-offset:.2em;
   }
 
   & tbody tr:is(:hover,:focus-within) {
-    --entry-map-name-tint:34%;
-    --entry-map-row-tint:9%;
+    --entry-map-row-tint:var(--entry-map-active-tint);
   }
 
   @media (prefers-reduced-motion:no-preference) {
-    & tbody :is(td,a.internal-link) { transition:background-color 160ms ease !important; }
+    & tbody td { transition:background-color 160ms ease !important; }
   }
 }
 

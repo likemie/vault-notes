@@ -175,8 +175,6 @@
     "Acharya & Johnston, 2007": "Acharya & Johnston, 2007",
     "Achieve (2004)": "Achieve, 2004",
     "Achieve, 2004": "Achieve, 2004",
-    "Achille Mbembe (2003)": "Achille Mbembe, 2003",
-    "Achille Mbembe, 2003": "Achille Mbembe, 2003",
     "Achufusi-Aka (2011)": "Achufusi-Aka, 2011",
     "Achufusi-Aka, 2011": "Achufusi-Aka, 2011",
     "Acker (1990)": "Acker, 1990",
@@ -8875,8 +8873,6 @@
     "Georgiou, 2021": "Georgiou, 2021",
     "Gerald F. Davis (2009)": "Gerald F. Davis, 2009",
     "Gerald F. Davis, 2009": "Gerald F. Davis, 2009",
-    "Gerald Roche (2022)": "Gerald Roche, 2022",
-    "Gerald Roche, 2022": "Gerald Roche, 2022",
     "Gerard & Linn (2022)": "Gerard & Linn, 2022",
     "Gerard & Linn, 2022": "Gerard & Linn, 2022",
     "Gerard et al. (2015a)": "Gerard et al., 2015a",
@@ -17149,8 +17145,6 @@
     "Moses Abramovitz (1956)": "Moses Abramovitz, 1956",
     "Moses Abramovitz, 1956": "Moses Abramovitz, 1956",
     "Moses, 1965": "Moses, 1965",
-    "Moshe Halbertal (2012)": "Moshe Halbertal, 2012",
-    "Moshe Halbertal, 2012": "Moshe Halbertal, 2012",
     "Moshen (2022)": "Moshen, 2022",
     "Moshen, 2022": "Moshen, 2022",
     "Mosier et al. (1992)": "Mosier et al., 1992",
@@ -20539,6 +20533,8 @@
     "Robson, 2002": "Robson, 2002",
     "Roby (1995)": "Roby, 1995",
     "Roby, 1995": "Roby, 1995",
+    "Roche (2022)": "Roche, 2022",
+    "Roche, 2022": "Roche, 2022",
     "Rochnia & Trempler (2019)": "Rochnia & Trempler, 2019",
     "Rochnia & Trempler, 2019": "Rochnia & Trempler, 2019",
     "Rock (1985)": "Rock, 1985",
@@ -29228,21 +29224,6 @@
       ],
       "title": ""
     },
-    "Achille Mbembe, 2003": {
-      "aliases": [
-        "Achille Mbembe, 2003",
-        "Achille Mbembe (2003)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Achille Mbembe, 2003"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/political-economy-geopolitics/Necropolitics.md"
-      ],
-      "title": ""
-    },
     "Achufusi-Aka, 2011": {
       "aliases": [
         "Achufusi-Aka, 2011",
@@ -31231,7 +31212,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/political-economy-geopolitics/Sinicisation.md"
+        "wiki/concepts/political-economy-geopolitics/Sinicisation.md",
+        "wiki/theories/political-economy-geopolitics/Necropolitics.md"
       ],
       "title": ""
     },
@@ -92457,6 +92439,7 @@
       "seen_in": [
         "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md",
         "wiki/arguments/journal-articles/Comparative Education/Argument_Xu_2024_CE.md",
+        "wiki/concepts/political-economy-geopolitics/Creole Nationalism.md",
         "wiki/concepts/political-economy-geopolitics/Nationalism.md",
         "wiki/persons/uk/Ernest Gellner.md",
         "wiki/persons/uk/Hugh Seton-Watson.md",
@@ -92819,21 +92802,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Embedded Network Governance.md"
-      ],
-      "title": ""
-    },
-    "Gerald Roche, 2022": {
-      "aliases": [
-        "Gerald Roche, 2022",
-        "Gerald Roche (2022)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Gerald Roche, 2022"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/political-economy-geopolitics/Necropolitics.md"
       ],
       "title": ""
     },
@@ -101405,6 +101373,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Bulag_2024_CE.md",
         "wiki/concepts/political-economy-geopolitics/Sinicisation.md",
+        "wiki/theories/political-economy-geopolitics/Necropolitics.md",
         "wiki/theories/political-economy-geopolitics/Sacrifice Theory.md"
       ],
       "title": ""
@@ -108432,7 +108401,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md"
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md",
+        "wiki/concepts/political-economy-geopolitics/Creole Nationalism.md"
       ],
       "title": ""
     },
@@ -145070,7 +145040,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Comparative Education/Argument_Bulag_2024_CE.md"
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Bulag_2024_CE.md",
+        "wiki/theories/political-economy-geopolitics/Necropolitics.md"
       ],
       "title": ""
     },
@@ -152803,21 +152774,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "A Study Of The Effect Of Inter-Class Ability Grouping On Achievement In Reading"
-    },
-    "Moshe Halbertal, 2012": {
-      "aliases": [
-        "Moshe Halbertal, 2012",
-        "Moshe Halbertal (2012)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Moshe Halbertal, 2012"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/political-economy-geopolitics/Necropolitics.md"
-      ],
-      "title": ""
     },
     "Moshen, 2022": {
       "aliases": [
@@ -177693,6 +177649,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Comparison of a year-round school and a traditional school  Reading and mathematics achievement"
+    },
+    "Roche, 2022": {
+      "aliases": [
+        "Roche, 2022",
+        "Roche (2022)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Roche, 2022"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/political-economy-geopolitics/Necropolitics.md"
+      ],
+      "title": ""
     },
     "Rochnia & Trempler, 2019": {
       "aliases": [
@@ -203460,7 +203431,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Bulag_2024_CE.md",
-        "wiki/theories/political-economy-geopolitics/Necropolitics.md",
         "wiki/theories/political-economy-geopolitics/Settler Colonialism.md"
       ],
       "title": ""
@@ -209073,7 +209043,6 @@
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Retrotopia.md",
         "wiki/facts/china/2020 Inner Mongolia Bilingual Education Reform.md",
-        "wiki/theories/political-economy-geopolitics/Necropolitics.md",
         "wiki/theories/political-economy-geopolitics/Sacrifice Theory.md"
       ],
       "title": ""
