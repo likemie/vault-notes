@@ -1,0 +1,1053 @@
+The German Aesthetic Tradition
+Kai Hammermeister | Cambridge University Press, 2002
+
+Chapter 5: Hegel
+Print pages 87–108; PDF pages 107–128
+
+
+=== Chapter text ===
+
+[p. 87] [PDF page 107]
+
+5
+
+                                  Hegel
+
+
+
+
+With Hegel the age of paradigms in aesthetics comes to an end. But
+there are two ways to understand the term “end.” On the one hand,
+it can mean the goal of a structured development that brings some-
+thing into its own, its telos, by fulﬁlling its inherent possibilities. On
+the other hand, end merely signiﬁes the ﬁnal point of a stretch of time,
+generally no better or worse than any previous one. Especially in the
+nineteenth century, Hegel’s philosophy at large was understood in
+the former sense, namely, as the completion of German idealism as
+well as the epitome of its achievements. In regard to his philosophy of
+art, the analogous argument that portrays Hegel as the capstone of sys-
+tematic aesthetic thought has been advanced.1 Obviously, these are not
+value-neutral judgments, but they rest on the (Hegelian) assumption
+not that truth is a historical process but that it becomes transparent for it-
+self in the course of history. Hence, the narrative that regards aesthetics
+as culminating in Hegel’s version of it understands it as superior to the
+previous attempts, because its explanatory power is greater, its integra-
+tion into the system of philosophy more convincing, and most of all, its
+claim to truth can be better substantiated. As is well known, such tele-
+ological narrative fell largely out of favor in the twentieth century, and
+it has mostly been replaced by the conviction that Hegel’s schlechte Un-
+endlichkeit (bad inﬁnity, i.e., an open-ended historical process) provides
+the superior model over utopian and teleological versions of history.
+Nevertheless, we might indeed accede to the thesis that Hegel marks
+the end of a development, although this will not be the end, but an end.
+
+                                     87
+
+[p. 88] [PDF page 108]
+
+88                     Part I. The Age of Paradigms
+
+   The story of aesthetics after Hegel can, therefore, by no means be
+told as that of a decline, although the most inﬂuential contributions to
+aesthetics published during the remainder of the nineteenth century
+will often strike us as something of a loss in terms of argumentative
+rigor, boldness of speculation, and most importantly, the ability to
+relate art productively to other philosophical queries. Therefore, the
+nineteenth century after Hegel (although not always chronologically
+so, as Schopenhauer’s case proves) can be understood as an interlude
+leading up to a new cycle of aesthetic investigation in the twentieth cen-
+tury that follows closely the pattern established by German idealism.
+Yet this pattern clearly ends with Hegel. Such “sense of an ending,” to
+quote Frank Kermode’s famous title here, should nevertheless not con-
+jure up autumnal feelings of loss, ﬁnality, and retrospection. Instead,
+from Hegel’s writings on art many vistas open into the future.
+   Not the least interesting of these is that which invited the hon-
+oriﬁc cognomen “father of art history” for Hegel, although historical
+accuracy demands that Winckelmann’s 1764 Geschichte der Kunst des
+Altertums (History of the art of antiquity) at least be mentioned as a
+precursor to which Hegel also owes a certain debt.2 Hegel’s turn from
+a formal aesthetics to one of content – we shall see the precise meaning
+of this phrase later – has had the side effect that the newly established
+discipline of art history, which came into being together with the other
+humanities as we know them today in the beginning of the nineteenth
+century, received much inspiration from his theses. To be sure, Hegel
+was not the ﬁrst philosopher of art to include a wide variety of artis-
+tic examples in his writings, since Schelling before him had devoted
+the second part of his Philosophy of Art to a system of artistic forms
+and genres. Yet Schelling’s systematic approach to the empirical mul-
+titude of artistic objects had not been based on a concept of historical
+development but, rather, aimed for a synchronic systematicity. Thus,
+the historical investigation of art as practiced in the historical sciences
+of art – literary history, history of art and architecture, history of music,
+and so on – could hardly take any clues from Schelling, but found a
+model – albeit problematic – in Hegel.
+   The idea that there is a story to tell about the development of
+art slowly emerged during the period of German idealism. As we have
+seen, in Kant’s third Critique, art was not viewed from a historical per-
+spective, nor was any particular historical function attributed to it. This
+
+[p. 89] [PDF page 109]
+
+Hegel                                 89
+
+changed with Schiller’s rewriting of the Kantian paradigm, at least so
+far as the second aspect is concerned. Art was still not considered
+to be historical in the sense that the emergence of concrete forms,
+genres, or works of art depends on speciﬁc historical constellations.
+Still, Schiller came to attribute a historical function to art nonetheless,
+namely, that of bridging the age of alienation and the moral state of
+the future. Only with Hegel does art come to be seen as both historical
+in its origin and its function.3 We will have to consider both of these
+aspects in our discussion of Hegel’s philosophy of art. Yet it is also ev-
+ident that art transcends history insofar as the work of art allows the
+past to be present again. Far from being of mere historical interest,
+the art of the past speaks to the present age no less than the most
+contemporary product – or even more so. Thus, in the “essential si-
+multaneity of all art” (Gadamer), art demonstrates its superiority over
+the constant ﬂow of history. Even the Hegel student Karl Marx, who
+generally insists on the primacy of the economic base over the super-
+structure that contains all the forms of the absolute spirit, admits that
+art escapes its historical grounding and achieves an almost timeless
+existence: “The difﬁculty is not to understand that Greek art and epos
+are tied to certain social forms of development. The difﬁculty is that
+they still grant aesthetic pleasure and ﬁgure as norm and inimitable
+paradigms.”4
+   Hegel presented his aesthetics repeatedly as a lecture course both
+in Heidelberg and Berlin. He did not, however, publish it in the form
+of a book. This only happened after his death in 1831 when the so-
+called Freundeskreis (Circle of friends) edited lecture notes not only on
+aesthetics but also on the philosophy of history, the philosophy of reli-
+gion, and the history of philosophy. By now it is an established fact that
+these editions are not entirely reliable, and critical historical editions
+of the original unedited lecture notes of students present in the lecture
+courses have started to be published. In the case of the philosophy of
+art, Hegel’s student Heinrich Gustav Hotho took some liberties in his
+transformation of lecture notes into a coherent book (one, we might
+add, that is a good bit more approachable than the texts that Hegel
+himself published), partly because the competing romantic school had
+presented itself very forcefully in the writings of Schelling and Solger.
+Thus, it might have seemed necessary to overstate some positions of
+Hegel’s objective idealism in order to alert the contemporary public
+
+[p. 90] [PDF page 110]
+
+90                     Part I. The Age of Paradigms
+
+to the differences between the romantic and the idealist aesthetics.
+Somewhat simpliﬁed, it can be concluded that Hegel’s lectures are
+marked by slightly different emphases than Hotho’s polished version
+of 1835 (an improved second edition followed in 1842).
+    One charge that was repeatedly leveled against Hegel’s aesthetics
+by future philosophers of art was that of a somwhat sterile classicism
+due to his strict separation of good and bad art, that is, beautiful and
+ugly artistic products. Art was seen as set in opposition to everyday life,
+beauty as removed from artifacts that were handicraft and not high
+art. And although Hegel’s aesthetic certainly does not allow qualita-
+tive equality of high and low art, it also seems as if Hegel’s sympathies
+for a “minor art” – to paraphrase a self-description of Kafka here –
+were censored in the published version of his lectures.5 The main
+arguments, however, are hardly concerned with these editorial ques-
+tions, since they are stated with the same clarity in the Enzyklopädie der
+philosophischen Wissenschaften (Encyclopedia of philosophical sciences –
+1817/1827/1830) that Hegel had published as a textbook for his lec-
+tures. Hence, we will still rely mostly on the posthumously published
+version of Hegel’s philosophy of art for our discussion.
+    In order to fully understand this last unfolding of idealist aesthet-
+ics, we need to brieﬂy situate it within Hegel’s larger philosophical sys-
+tem. With Hegel, not only does philosophical thought have a history,
+but it itself is also considered historical. Thus, Hegel’s system narrates
+the story of the spirit (the concept that replaces that of love as it had
+been put forth by Schiller and Hölderlin as a resolution to the Kantian
+dilemma)6 as a journey to itself – one that in fact has often been com-
+pared to the medieval aventiure epics, as well as to the Bildungsroman
+that emerged at the same time as Hegel’s philosophy. Unlike adven-
+ture novels, however, the journey of the spirit does not lead through
+contingent episodes but, rather, follows a pattern of development that
+is strictly logical. Logic namely signiﬁes for Hegel not the rules of rea-
+soning but the investigation into the abstract existence of entities and
+their movement forward into different stages. The development of the
+spirit, as explicated in the Encyclopedia of Philosophical Sciences, is that
+from the in-itself of the spirit (mere spirit not knowing itself) to the
+for-itself (the material embodiment of the spirit) to the in-and-for-itself
+(the self-knowledge of the spirit as the outcome of its laborious move-
+ment through its materializations in the subject and in objective forms
+
+[p. 91] [PDF page 111]
+
+Hegel                                  91
+
+and institutions). Whereas the subjective spirit, that is, the spirit of in-
+dividual man, develops from sensation to conscious perception and
+thought, objective spirit is embodied in law, morality, and mores
+[Sittlichkeit, i.e., the social praxis – understood in the Aristotelian
+sense – of a certain group at a certain time], the latter becoming
+manifest in the family, bourgeois society, and the state. Yet even the
+state as the highest form of communal life cannot incorporate full
+self-knowledge of the spirit, so that another step becomes necessary in
+which the spirit moves beyond institutions and ﬁnds its expression in
+the reﬂection of totality.
+   This last stage, that of the absolute spirit, again falls into three mo-
+ments, namely art, the religion of revelation, and philosophy. In all
+three, the truth of absolute spirit can be found, in art in a fashion that
+we will discuss in detail, in religion as the representation [Vorstellung] of
+the absolute that combines image and idea, and ﬁnally, in philosophy
+as conceptual knowledge. Thus, art is just one way in which the truth of
+the absolute appears. Art, the Christian religion, and philosophy have
+the same content, namely, the truth of the absolute spirit, yet their
+form is obviously distinct. Hegel proceeds to argue that a dialectical
+relationship governs the movement of truth, from art as the thesis and
+religion as the antithesis to philosophy as the synthesis, which leads
+him to the violently disputed claim that art has been overcome by
+both of the other manifestations of the absolute spirit. We will refer
+back to this statement later; for the moment, it sufﬁces to point out
+that a dialectical movement can hardly be proven with respect to the
+three forms of absolute spirit and that, instead, they might better be
+considered as linear.7
+   In Hegel’s aesthetic, art does retain its truth-claim but, unlike for
+Schelling, is no longer the highest expression of truth. Instead, truth
+in the fullest sense of the word depends on the conceptual knowledge
+that only philosophy can achieve, and compared to which the truth of
+art seems to fall short. And although there is a way to argue that the
+truth of art cannot be subsumed under that of conceptual knowledge –
+a way that might have to rely on Kant’s notion of the aesthetic idea –
+and is thus fundamentally different from that of philosophy, art’s truth
+will turn out to be not that of the totality but that of the richness of the
+individual – and, therefore, still of a lower status. In order to salvage
+Hegel’s aesthetic, it therefore must be brought closer to the romantic
+
+[p. 92] [PDF page 112]
+
+92                     Part I. The Age of Paradigms
+
+position, yet ultimately it can demonstrate its strength by being able
+to incorporate such modiﬁcations without giving up its fundamental
+claims.
+
+
+                 Nature and Truth of the Work of Art
+Hegel deﬁnes aesthetics as the philosophy of art, or to be more precise,
+of beautiful art. That could strike us initially as an unwelcome narrow-
+ing down of this ﬁeld, since it would after all mean the double exclusion
+of both the beauty of nature and of nonbeautiful art, that is, the ugly
+and grotesque, comical and farcical, burlesque and satirical, and so on.
+Incidentally, Hegel’s position on this question is not consistent, and
+in the course of his elaboration he undercuts or at least relativizes the
+above exclusions. But why does he introduce them in the ﬁrst place?
+    Hegel’s reasoning regarding the restriction of the category of art
+to beautiful (and man-made) objects is founded on the association of
+truth and beauty, as we shall see. Ugliness is therefore a mode of pri-
+vation – a point on which Hegel’s student Karl Rosenkranz will elab-
+orate at length – and thus a secondary phenomenon. And since art
+is a way in which truth is present in the world, it must cohere with the
+objective laws of reality (and reality in turn is deﬁned as that which is
+a truthful embodiment of ideas). Yet the ugly – much like the comi-
+cal whose nature is to undermine those rules which govern our pre-
+dictions and expectations and thus to produce laughter due to the
+unexpected8 – does not know any rules and is characterized precisely
+by their violation.9 Hence, it must be excluded from the discussion
+of art. Also, it later serves as one of the arguments Hegel advances
+to make plausible that art is superseded by religion. The depiction of
+Christ’s suffering on the cross must necessarily be ugly; the relevance of
+this suffering can consequently not be grasped aesthetically, but only
+in religious contemplation. Thus, the art of Christianity is already one
+of decline, since it has broken with basic notions of beautiful art.
+    Still, Hegel’s own position is not as rigorous as it seems at ﬁrst. He
+does grant poetry the “right to advance internally to the utmost agony
+of despair and externally to ugliness itself ”10 (13. 268). This is because
+poetry as a temporal art must afterward return to beauty and, thus,
+incorporate ugliness as a moment that can successfully be overcome.
+This distinguishes it from painting or sculpture from which ugliness
+
+[p. 93] [PDF page 113]
+
+Hegel                                 93
+
+has to be absent entirely, since it cannot be reintegrated into a larger
+context in which beauty triumphs – an argument that is obviously
+close to Lessing’s Laokoon. Yet there is some leeway for ugliness even
+in Hegel’s aesthetics. The exclusion of nature also turns out to be less
+unyielding than it appears initially. While nature is certainly not the
+opposite of spirit, but a stage of its journey, it still lacks consciousness
+and therefore truth [Wahrhaftigkeit]. Beauty, however, must have a re-
+lation to the idea that depends on consciousness. Whereas the beauty
+of art is born out of spirit, natural beauty is merely a reﬂection of the
+former. We are able to perceive natural beauty only because we are fa-
+miliar with the beauty of art to which, therefore, a higher status must
+be attributed (13. 14 f.). And yet, nature is not banned from the realm
+of beauty, as it might appear at ﬁrst. The beauty of nature results, as
+Hegel argues later, from its “intimation of the concept” (13. 174) – a
+weak attribute in terms of aesthetics, to be sure, but one that prevents
+the dismissal of natural beauty altogether.11
+   Unlike for Schelling, the work of art for Hegel does not contain
+both nature and mind, but is situated between them insofar as it me-
+diates between unmediated sensation and thought (13. 60). In fact,
+Hegel rejects the romantic aesthetics and its claim that art constitutes
+the capstone of the philosophical system. The free ﬂotation of the
+romantic genius whose irony undercuts all ﬁxed positions Hegel con-
+siders as a violation of the mores [Sittlichkeit] of society that demand
+assent if one wants to belong to it.12 Irony, however, isolates its agent
+“for whom all ties have been broken and who lives only in the bliss of
+self-enjoyment” (13. 95). Although we will see that a certain amount of
+mediation between romantic philosophy and Hegel will be necessary
+in order to attribute signiﬁcance to Hegel’s thesis for today’s aesthetics,
+Hegel himself had little tolerance for it. His admiration for Kant is
+much more obvious, despite all critical distance.
+   He agrees with Kant that the reception of art must be without desire
+and without attempting to treat it scientiﬁcally and to subsume it un-
+der a concept (13. 58 ff.): “Faced with such inﬁnite richness of fantasy
+and its free products, thought seems to lose its courage to completely
+represent these, judge them and subsume them under a general for-
+mula” (13. 18). Far from falling back onto Kant’s subjective foundation
+of aesthetics, however, Hegel criticizes it as untenable. To concentrate
+on sensibility and imagination in an aesthetic theory means to remain
+
+[p. 94] [PDF page 114]
+
+94                    Part I. The Age of Paradigms
+
+stuck in the subjective and to fail to make any claims about the work
+of art itself. Thus, the judgment of taste remains superﬁcial (13. 55).
+All the more Hegel insists that art contains objective truth, no matter
+whether it is translatable into the language of concepts or not. This con-
+ception of the truth of art needs to be explored in some more detail.
+    “In its freedom,” argues Hegel, “beautiful art is only true art and
+serves its highest purpose only when it has situated itself in a common
+circle together with religion and philosophy and is only one way to
+bring to consciousness and to express the deepest interests of man,
+the most comprehensive truths of the spirit” (13. 21). Unlike the truth
+of philosophy, however, the truth of art remains in the realm of the
+senses; hence, “appearance” does by no means signify a deception but,
+instead, the luminous emanation of the truth of essence [Wesen]:13 “ Yet
+the appearance itself is essential for the essence; truth would not be, if
+it did not shine [schiene] and appear [erschiene]” (13. 21). Therefore,
+not only does art not deceive, but it also strips the deceptive appear-
+ance off of objects and reveals their truth, that is, their essence: “The
+deception [Schein] of this bad, transitory world art strips away from
+all truthful content of appearances and bestows upon them a higher,
+spirit-born reality. Far from being mere deception, the appearances
+[Erscheinungen] of art must be considered the higher reality and the
+more truthful existence compared to ordinary reality” (13. 22). This
+is indeed the only function of art: to be one stage of the development
+of absolute spirit and to be the truth of this stage: “Because other ends
+like ediﬁcation, puriﬁcation, melioration, monetary income, striving
+for fame and honor do not concern the work of art as such and do not
+determine its concept” (13. 82).
+    Still, at least one welcome side effect of the artwork Hegel also con-
+cedes. Referring back to the Aristotelian theory of catharsis and giving
+it a rationalist spin, he argues that art’s representation of sensations,
+passions, and human perturbations invites their reﬂection and thus
+loosens the grip that these emotions have on us. This thesis, however,
+seems hardly convincing, because the mere reﬂection on passions can
+be taken as much as an invitation to indulge them as a warning against
+them. Without an additional moral standard that art itself, accord-
+ing to Hegel, is incapable of supplying, the weakening of unwelcome
+emotions will hardly be an automatic consequence of encounters with
+artworks.
+
+[p. 95] [PDF page 115]
+
+Hegel                                  95
+
+    Works of art, to be sure, are objects for the senses, just like nonartis-
+tic objects, although they point beyond themselves toward a higher
+reality, namely, that of ideas. Still, this does not mean that they are
+devoid of truth as something that they can only hint at but not con-
+tain. On the contrary, works of art are already in themselves a way for
+the absolute spirit to manifest itself as truth. Despite his gesture to-
+ward Kant’s aesthetic idea, Hegel argues later that art as a vessel of truth
+can be the object of conceptual thought [begreifendes Denken] and “is
+open on all sides” for conceptualization (13. 127). This contradiction
+cannot be solved; in fact, it might be the result of the editing process
+that tends to overemphasize the anti-romantic elements in Hegel’s
+thought. The fact is, though, that Hegel famously deﬁnes beauty as
+“the sensual appearance of the idea [das sinnliche Scheinen der Idee],”
+that is, as a uniﬁcation of a sensual object with its concept (13. 151 f.).14
+Therefore, the work of art not only pleases our senses but also satisﬁes
+our longing for truth insofar as it allows us to comprehend the concept
+as realized in a material object. Just as in Schelling, the Neoplatonic
+tradition – Plotinus, not Plato – ﬁnds a forceful expression in this for-
+mulation that presents art as a reconciliation of sensual and intelligible
+worlds. The scientiﬁc understanding of art is then, in turn, the subla-
+tion [Aufhebung] of the materialization of the idea and reverses thereby
+the process of aesthetic production. Aesthetics has to be kept strictly
+separate from poetics: Whereas the latter is prescriptive, the former
+is descriptive. Simultaneously, Hegel takes a strong stance against the
+romantic aestheticians by advancing the thesis that the reﬂection on
+the work of art is a philosophical task. Whereas the romantics, above
+all Friedrich Schlegel, had demanded that the reﬂection on art must
+itself become aesthetic, Hegel insists on the concept as the only means
+for aesthetic theory.
+    If the truth content of a work of art refers to the idea, the con-
+sequence is obviously that the category of mimesis, as Hegel under-
+stands it, will play no role in aesthetics. Mimesis has been a central
+concept for many theories of art since antiquity; in Greek thought, a
+fairly wide range of meanings was attributed to it. It is safe to assume,
+though, that Hegel reacted mainly against the theories of mimesis
+that were developed during the Baroque and the following century,
+and which oftentimes could be understood as advocating a naturalis-
+tic imitation of material objects in art. For Aristotle, however, mimesis
+
+[p. 96] [PDF page 116]
+
+96                    Part I. The Age of Paradigms
+
+also contained aspects of performance and potentiality. Hegel’s cri-
+tique of mimesis falls short of this conception, but we will later see
+that Adorno’s revision of this category owes more to Aristotle than he
+admits. Also arguing against Hegel for the relevance of mimesis for
+aesthetics is Georg Lukács, who insists on the necessity of realist art,
+as will be discussed in a subsequent chapter.
+    Now what precisely is it that Hegel ﬁnds fault with in the concept of
+mimesis? First of all, we must not confuse the correctness [Richtigkeit]
+of a representation with the truth [Wahrheit] of a work of art (13. 205,
+10. 368). A representation can be faithful and correct, yet still lack
+the truth that elevates it from a mere mirroring into a work of art.
+Three arguments speak against the sufﬁciency of mere correctness
+as a criterion for art. The ﬁrst is that mimesis presents us with yet
+another version of what already exists in reality. If it does not add any-
+thing to its representation, its labor as a whole seems redundant. If
+art is nothing but a copy of the real, we would be hard put to explain
+why we might want to turn to it instead of to reality directly. Only lazi-
+ness, fear of reality, or the desire to avoid it could be possible answers
+to these questions, but if art serves to eschew the real, it undercuts
+its truth-claim and turns into entertainment. The second argument is
+that mimesis remains a merely formal judgment that can pronounce a
+verdict on the correctness of the reproduction, but not on its beauty.
+Even the faithful reproduction of ugly objects would have to be called
+successful (and possibly, by extension, beautiful) if mimesis were to be
+the basis for aesthetics. Thirdly, mimesis can play a role only in certain
+arts, but not in others. Thus, in painting or sculpture it would be much
+easier to ﬁnd mimetic elements than in dance, architecture, or music.
+And even the visual arts only go through very short periods of realistic
+portrayal – during most of their history, painting and sculpture nei-
+ther aspired to nor achieved a correct representation of real objects
+(13. 64–70). Hence, Hegel concludes that art not merely doubles the
+existing reality in its respective media but that it presents a higher re-
+ality – an argument, however, to which both Aristotle and Lukács as
+proponents of a mimetic theory of art would probably also subscribe.
+As Charles Taylor put it in his erudite study of Hegel: “Art is a mode of
+consciousness of the Idea, but it is not a representation of it.”15
+    As such, then, the work of art is not self-contained but reaches out
+to man: “But the work of art rests not merely freely in itself, but it
+
+[p. 97] [PDF page 117]
+
+Hegel                                   97
+
+is essentially a question, an address to the resonant chest, a call to
+the souls [Gemüter] and spirits [Geister]” (13. 102). It is interesting to
+note that Hegel here advances a principle that became the basis for
+the reﬂections on art as developed by philosophical hermeneutics,
+especially by Hans-Georg Gadamer.16 Hegel emphasizes the dialogical
+principle of our encounters with art well in advance of philosophical
+hermeneutics and its offshoot, the aesthetics of reception, when he
+writes that “every work of art is a dialogue with whoever stands in
+front of it” (13. 341). But sentences like this: “ . . . art turns every one
+of its products into an Argus with a thousand eyes so that the inner
+soul and spirit [Geistigkeit] shall be seen at all points” (13. 203) also
+reverberate in art. R. M. Rilke’s sonnet Archaischer Torso Apollos remarks
+about the power of an ancient sculpture: “denn da ist keine Stelle, / die
+dich nicht sieht ” [Because no part exists / that does not see you]. Yet
+for man as a social being to be addressed means to be under the
+obligation to answer; thus, art necessarily remains tied to both the
+social and the ethical sphere, albeit without prescriptive or normative
+content.
+
+
+                         Art’s History and Forms
+The insight that art had different functions in different historical
+epochs cannot be attributed to Hegel as an entirely new thought, since
+G. Vico (1668–1744) in his philosophy of history had already claimed
+that a poetic spirit permeated the age of the gods that got lost dur-
+ing the reign of man. A similar argument was not unknown to the
+eighteenth century as, for example, in the work of Herder and
+Hamann. Yet no philosophical attempt had been made before to de-
+duce the necessity of historical changes in art from an overarching
+principle that itself depends on its historical unfolding. It is precisely
+the narrative of art’s permutations in history that comprises the largest
+part of Hegel’s aesthetic lectures, which aim at a reconciliation of for-
+mal and historical reﬂections on art:
+
+Spirit, before it reaches the true knowledge of its absolute essence, has to
+run through a course of stages determined by its concept, and to the course
+of this content that spirit bestows upon itself corresponds an immediately
+connected course of forms of art in which the spirit as an artistic one produces
+the consciousness of itself. (13. 103)
+
+[p. 98] [PDF page 118]
+
+98                     Part I. The Age of Paradigms
+
+    The development of spirit on its way to absolute knowledge thus
+requires that art, too, must go through a process of development at
+the end of which stands its dismissal by higher forms of knowledge –
+a problematic thesis that shall be discussed in the next section. Hegel
+divides his discussion of the movement of spirit through art into two
+parts that he wants to be considered as running parallel. The ﬁrst part
+of the discussion is devoted to the forms of art [Kunstformen], that is,
+a historical narrative about the interdependence of artistic expression
+and the changing worldviews [Weltanschauungen]. The second part,
+much like Schelling’s Philosophy of Art, develops a system of the arts.
+    Despite the fact that the development of the historical artistic ex-
+pressions is not entirely linear – outmoded forms of art can continue
+to exist for some time in the same way as future forms can be antici-
+pated (13. 393) – Hegel by and large regards the story of art as the
+succession of three periods, namely, the symbolic, the classical, and
+the romantic. He associates the symbolic stage of art with the ancient
+oriental cultures of Persia, India, and Egypt and is, for the most part,
+unwilling to grant it the full status of art; instead, he labels it preart
+[Vorkunst – 13. 393]. It is a sublime expression of man’s search for mean-
+ing, yet it does not move beyond a manifestation of the insufﬁcient
+and vague idea in inadequate forms. Art then reaches its acme in the
+classical period, during which the ideal and the form achieve perfect
+harmony. This is the age of Greek sculpture that represents the spirit
+in its ideal sensual form, namely the human body. The artist of the clas-
+sical period does not have to search for the meaning of the absolute,
+because it is already given to him in the form of the religion of the pop-
+ulace (that was, in turn, the creation of previous artistic, i.e., literary
+efforts, namely by Homer and Hesiod – 14. 28). Greek religion, hence,
+is a religion of art; no distinction between the manifestation of truth in
+religion and in art is possible. Romantic art, ﬁnally, subsumes all artis-
+tic creation of the Christian era under its concept. It marks a decline
+of art that is characterized by the withdrawal of the spirit into inward-
+ness. The physical beauty of Greek sculpture gives way to the beauty
+of the spirit. Although this inward turn produced a deepening of the
+human spirit, it was hardly an adequate foundation to value the sen-
+sual aspect of art. Christ’s suffering on the cross could not be depicted
+with the classical means of art, and its representation consequently
+undermined the ideal of beauty by introducing ugliness not only as
+
+[p. 99] [PDF page 119]
+
+Hegel                                 99
+
+permissible but as necessary. But even more than in the visual arts, the
+Christian soul expresses itself in music as that art which depends least
+on a material foundation. Yet when art devalues sensual reality and
+negates the exterior world, it must eventually lead to the overcoming
+of itself in a different form of knowledge. Therefore, the three histor-
+ical forms of art consist of “the striving for, the achievement of and
+the abandoning of the ideal as the true idea of beauty” (13. 114).
+    It has been pointed out that the opposition of classical and roman-
+tic forms of art is a late echo of the querelle des anciens et des modernes
+that dominated much of the aesthetic discussion of the eighteenth
+century. Peter Szondi argued convincingly that this opposition can be
+found in much of the aesthetic thought during the age of Goethe.17
+Yet Hegel, as so often, turns an oppositional structure into a tri-
+adic one by adding the symbolic period that preceded the classical
+age. Such a triad, however, was also not a discovery of Hegel, since
+the philosophies of the New Mythology had prognosticated a third
+stage of art for the future. But Hegel’s thesis of the end of art does
+not allow him to agree to this interpretation; instead, it forces him to
+situate the triadic third in the remote past.
+    Closely connected to this shift from the future to the past is Hegel’s
+unwillingness to take much of the postmedieval art into consideration.
+Apart from some remarks on Dutch genre painting and still life, almost
+all of the outstanding achievements of the arts after the ﬁfteenth cen-
+tury or so are absent from the discussion. Renaissance and Baroque
+sculpture and architecture are missing, as are the neoclassical contem-
+poraries of Hegel, for example, Schinkel and von Klenze. This led to
+a criticism of Hegel’s theory of the forms of art among his students,
+who attempted to rescue the dialectical force of the argument by in-
+troducing Renaissance art as the true triadic third. As they clearly saw,
+a narrative that peaks during its middle period cannot be a dialectical
+movement upward and must therefore be corrected.18
+    The third part of Hegel’s aesthetics is a systematic grouping of the
+arts. This enterprise, however, is not meant to stand isolated from the
+elaboration on the historical forms of art, but Hegel proposes – yet
+another problematic feature – a parallel between these two. Certain
+arts are meant to be paradigmatic for certain historical worldviews, so
+that the system of the arts is itself the object of a process. Symbolic
+art is thus primarily architecture, which forms man’s environment
+
+[p. 100] [PDF page 120]
+
+100                    Part I. The Age of Paradigms
+
+according to his needs. Classical art manifests itself as sculpture; here,
+spirit enters matter and permeates it completely. While contemplating
+a sculpture, the spirit recognizes itself precisely because the perfection
+of the body demonstrates that it has been formed entirely by its soul.
+Soul in Greek sculpture is body; no inner life – as would be announced
+by the soulful eye – is hidden from view (14. 389). That is why such
+sculpture is self-contained, a subject isolated from its surrounding. As
+works of art these statues sometimes “leave us cold” (15. 17), since their
+appeal reveals itself only after intense and repeated study. In this re-
+spect, the romantic arts differ. While the symbolic and the classical ages
+both are associated with only one art – architecture and sculpture, re-
+spectively – Hegel subsumes three arts under the romantic worldview.
+   As the ﬁrst of these, painting unites the modeling of man’s environ-
+ment as practiced by architecture with the subjectivity of sculpture:
+“Painting represents the internal in the form of external objects, but
+the actual content that it expresses is the sensible subjectivity [of the
+artist]” (15. 25). Far from depicting the beauty of the body, at the cen-
+ter of painting as a romantic art stands the Christian interpretation
+of love, exempliﬁed by the love of the Madonna for the child. Rather
+than on the self-contained physique, Christian painting focuses on the
+gaze that is exchanged between mother and child, at once causing and
+exploring the inwardness of the subject.
+   Music is the second of the romantic arts that is characterized by the
+elimination of spaciality. What remains is pure inwardness: “To musical
+expression only the entirely objectless interior lends itself, the abstract
+subjectivity as such. This is our completely empty self, the self without
+any content” (15. 135). Poetry, ﬁnally, is the last and highest of the
+romantic arts, and yet it also constitutes an exception to the system,
+insofar as it can rise to the acme of its possibilities during all historical
+ages: “poetry is adequate for all forms of beauty and extends itself
+across all of them” (13. 124). Having itself a triadic structure – lyric
+poetry, epic, and drama – poetry as an art encompasses all the other
+arts. Yet it also marks the point where the absolute spirit on its way
+to complete self-knowledge transcends its artistic manifestation and
+settles into philosophical thought: “Precisely on this highest level art
+transcends itself by leaving behind the element of reconciled sensuality
+of the spirit and moving from the poetry of imagination into the prose
+of thought” (13. 123).
+
+[p. 101] [PDF page 121]
+
+Hegel                               101
+
+   These brief remarks nevertheless sufﬁce to show that Hegel orga-
+nizes the arts along two axes: one indicating the historical develop-
+ment from symbolic over classical to romantic art, the other denoting
+the materiality of the arts. Thus, architecture depends most on the
+material world, sculpture less so; painting represents it merely two-
+dimensionally, music abandons it almost entirely, and poetry marks the
+transition from sensuality to conceptual thought. Thus, an advance in
+time goes hand in hand with a decrease of the material foundation
+of art.
+   It is hard not to stumble over the inconsistencies and forced analo-
+gies of this part of Hegel’s aesthetics. First of all, it is not plausible
+to remove poetry from the historical development and grant it ex-
+ceptional status, since there is nothing that justiﬁes this maneuver,
+as Hegel’s students already pointed out. Secondly, to place poetry in
+this exceptional position means that two arts now compete for the
+highest honors, namely, classical sculpture and poetry. Thirdly, to sub-
+sume painting, music, and poetry as sister arts under one heading
+must strike us as somewhat bizarre, since the traditional grouping of
+architecture, sculpture, and painting into the category of visual arts
+seems rather more convincing. One interesting attempt to reorganize
+the arts along Hegelian lines has been put forward by V. Hösle, who
+follows the revisions of Hegel’s students and further amends them.
+In this plausible version, the visual arts would mark a ﬁrst historical
+stage, namely, that of the objectivity of spirit; music follows as the
+subjective state; and ﬁnally poetry, especially drama, marks the in-
+tersubjective state of the absolute spirit.19 Still, this restructuring does
+not yet instantiate Hegel’s problematic thesis that art moves beyond
+itself in its highest stage and is replaced by thought. We need to take
+a closer look at this speculation.
+
+
+                             An End of Art?
+Hegel’s thesis that art has come to an end has always been one of
+the largest bones of contention of his aesthetic philosophy with which
+every engagement with his aesthetics must come to terms.20 He argues
+that art is a manifestation of truth, but it fulﬁlls this function only dur-
+ing one historical period, namely, that of the art-religion [Kunstreligion]
+of the Greek civilization. Beginning with Christianity, truth found its
+
+[p. 102] [PDF page 122]
+
+102                      Part I. The Age of Paradigms
+
+expression no longer in the sensual forms of art but in the images of
+the New Testament: “Thought and reﬂection have overtaken beautiful
+art. . . . In all of these respects art is and remains in terms of its highest
+function something bygone [etwas Vergangenes]” (13. 24–25). Although
+art still speaks to us, no matter from what period, we have nevertheless
+stopped to consider it the highest organon of truth and, therefore,
+also stopped revering it:
+
+Once the perfect content was manifested in perfect forms, the searching [weit-
+erblickende] spirit turns away from this objectivity toward its own interior and
+shuns the former. Such a time is ours. We can still hope that art will continue
+to rise and to perfect itself, but its form has stopped to be the highest necessity
+for the spirit. We might ﬁnd the Greek statues of the gods most excellent and
+God the father, Christ and Mary represented most digniﬁed and perfect – it
+changes nothing, we still don’t bow our knee anymore. (13. 142)
+
+   Hegel’s thesis of the end of art much resembles his thesis of the end
+of history. The latter is now generally understood to mean not that
+history has factually ended but that after the discovery of the highest
+principle of historical development, namely, that of the freedom of all,
+historical development is merely the – probably always incomplete –
+realization of this principle in reality.21 If we take both claims literally,
+to speak of an end of art would, therefore, be as counterintuitive and
+absurd as to speak of an end of history, because we all are familiar with
+works of art that have made a difference in our lives and that came
+into existence after the proclaimed end of art. Sociologically, it might
+even be the case that in a secularized age, art has regained a semireli-
+gious status as the only expression of something that transcends man’s
+individual life.22
+   Hegel himself is also not entirely consistent in his story about the
+rise and fall of art, since repeatedly he places works of art from later
+epochs in their importance right beside those of the classical age – a
+procedure that can hardly be justiﬁed by recourse to his narrative.23
+Thus, we are well advised to consider other possible readings of the
+thesis about the end of art.
+   Many interpreters have taken up a suggestion that Hegel himself
+advances at one point when he explains:
+
+Being tied to one particular content and to one manner of representation
+suited to this content is for today’s artist something bygone, and thus art has
+
+[p. 103] [PDF page 123]
+
+Hegel                               103
+
+become a free instrument that he can employ with respect to every content,
+no matter of which kind, depending on his subjective skill. (14. 235)
+
+
+   Gadamer has called this the “liberation of art as art,” and Arthur
+Danto, something of a modern-day Hegelian in aesthetics, has also em-
+braced the end of art as a liberating moment in history that marked the
+beginning of true artistic sovereignty.24 In both Gadamer and Danto
+can be detected an echo of Arnold Gehlen, who had already declared
+in 1960, certainly not entirely without cynicism: “From now on there
+will be no more art-immanent development! Any meaningful, logical his-
+tory of art is done with, even the consequence of the absurdities is
+done with, the development is derailed, and what comes next exists al-
+ready: the syncretism of the confusion of all styles and possibilities, the
+post-histoire.”25 Despite the fact that such independence of the artist
+has produced outstanding works of art, it has also been perceived as
+burdensome and problematic, as Thomas Mann described masterfully
+in Doctor Faustus. Also, it is likely that some kind of normative princi-
+ple needs to be found in order to judge the success of the individual
+work, because otherwise, the view that “anything goes” could hardly
+be avoided and a line between kitsch and art no longer drawn.
+   Although these readings can well explain the historical fact of the
+multitude of styles that have existed simultaneously since the nine-
+teenth century, they do not really answer the question of the kind of
+relation in which art stands to truth. It is not convincing to argue that
+art remains one organon of truth among others (as Oelmüller and
+others do), since there would hardly be a reason to choose a less de-
+veloped organon over a more highly developed means of truth, this is,
+philosophy. Thus, an explanation cannot come to an end after it has es-
+tablished the desirability of artistic independence and stylistic choice.
+Some theory of the truth of art is necessary as the complement hereof.
+
+Before the necessary revisions to Hegel’s aesthetics are discussed, a
+brief summary of his position should be attempted. The work of art
+is ontologically deﬁned as the reconciliation of the ﬁnality of nature
+and the inﬁnity of pure thought, of sensuality and spirit. Unlike for
+Schelling, however, art does not fulﬁll this mediating role indepen-
+dent of all historical developments. Rather, its speciﬁc embodiment of
+truth is limited to one historical period, namely, that of ancient Greece
+
+[p. 104] [PDF page 124]
+
+104                    Part I. The Age of Paradigms
+
+when religion and art fall into one. Here, the work of art allows man to
+cherish both the idea and sensuality in one and the same object, a bal-
+ance that gets lost with Christianity’s inward turn. In a practical respect,
+the work of art not only satisﬁes the need for the shaping of the exter-
+nal and internal world as one of the means of self-realization (13. 52),
+but also helps to control man’s emotional life. Yet there is a danger in
+this as well, since the encounters with art are relaxing;26 serious tasks,
+however, demand determination and not aesthetic contemplation
+(13. 16).
+   Hegel’s integration of systematic and historical aspects in his aes-
+thetic theory indeed produces what could still be considered the most
+comprehensive and convincing philosophy of art of German idealism,
+or what here has been called the age of paradigms. Still, some revisions
+are unavoidable if Hegel’s aesthetics is meant to be of more than just
+historical interest. For one, his notion of art needs to be broadened so
+as to encompass artistic phenomena other then the beautiful. A phi-
+losophy of art must be able to account for ugliness, the grotesque, and
+so on other than by reducing them to moments that eventually feed
+back into an all-embracing form of beauty. This might not be entirely
+possible within a Hegelian framework, as Rosenkranz and Weisse as-
+sumed, but it will also not challenge the most fundamental aspects of
+Hegel’s aesthetics.
+   It is even more important to address the issue of truth in the
+Hegelian conception. To adhere to Hegel’s narrative inevitably leads
+to the classiﬁcation of aesthetic truth as that of a bygone historical pe-
+riod and, thus, hardly as a reasonable choice when the most advanced
+organon of truth is called for. Therefore, art can only retain its claim
+to truth if it is not considered as containing the truth of totality, but
+that of the multiplicity of the real. The overarching truth can then be
+provided by the conceptual thought of philosophy, yet there exists a
+truth value of the real in its individual manifestations that cannot be
+subsumed under the concept. Above all, society’s mores [Sittlichkeit]
+that differ from society to society and yet are an indispensable element
+of communal life might ﬁnd more adequate expression in the truth
+of art than in abstract knowledge.
+   Yet it must also be admitted that art will not shed its moment of
+contingency that is due to its necessary sensual nature, as Hösle points
+
+[p. 105] [PDF page 125]
+
+Hegel                               105
+
+out.27 But a plurality of truth-claims of art and its contingent nature
+do not render it dispensable, either. Since Hegel agrees with Kant
+that no conceptual subsumption is possible regarding the artwork,
+it can consequently be seen as an invitation to discuss its truth con-
+tent. Such an encouragement to consider possible competing truth
+contents of one and the same work of art is based on the hermeneu-
+tical structure of question and answer inherent in the work itself.
+More than in the case of philosophical propositions that generally
+do not demand the response of the reader, this hermeneutic on-
+tology of art begs to be transferred to the community of recipients.
+Thus, the relevance of art can fully emerge in its existence as an in-
+citement to intersubjective exchanges and, thus, as something that
+is an amendment to Hegel’s aesthetics, more than the remnant of a
+bygone time.
+
+
+                             Ugliness in Art
+Ugliness, to be sure, has always existed in art. Even before the Cruciﬁx-
+ion there were the Gorgon, the head of the Medusa (a curious mixture
+of beauty and ugliness), and the Erinyes. Likewise, philosophies of art
+and beauty have also acknowledged the existence of ugliness. Aristotle
+attributes a certain fascination to it by claiming – this being one of the
+reasons that Hegel rejects mimesis – that the successful artistic repro-
+duction of ugly objects can indeed induce pleasure (Poetics, 1448b),
+whereas Plotinus declares that the soul becomes ugly when it is incor-
+porated in the body (Ennead I; 6, 5). Aristotle’s position was echoed by
+eighteenth-century poetics that considered the ugly as the reverse as-
+pect of the beautiful, that is, as something interesting. In the context of
+German idealism, however, not much attention was paid to the ugly, al-
+though Friedrich Schlegel’s 1795 Über das Studium der griechischen Poesie
+[About the study of Greek poety] must be considered one of the basic
+texts on the aesthetics of ugliness, or aischrology.28 Hegel himself lacks
+a theory of ugliness, although we have seen that some remarks on this
+subject indicate that he was aware of the problem. It could very well be,
+though, that Hegel preferred to ignore those works or styles of art that
+he perceived as ugly, as one biographer suggested.29 It is on record
+that Hegel had little liking for the music of C. M. von Weber, and if we
+
+[p. 106] [PDF page 126]
+
+106                     Part I. The Age of Paradigms
+
+concur with Adorno’s characterization of romanticism in music as the
+victory of the variation over the theme, then Hegel’s distance becomes
+understandable. Where there is no totality but merely the ﬂow of vari-
+ations, there can be no beauty. And that art could in fact be ugly, not
+only contain ugly moments, was something that Hegel was not ready to
+admit.
+    Hegels students, however, responded to the romantic turn toward
+the inclusion of ugliness into art by incorporating it in turn into their
+aesthetic theories. Whereas the ugly certainly continued to play a role
+in the aesthetic philosophy of the nineteenth and twentieth centuries,
+for example, in Nietzsche or Lukács, the heydays of ugliness in aesthet-
+ics were certainly those of the Hegelian school. Most of his students
+who worked in the ﬁeld of philosophy of art felt the need to comment
+on the problem of ugliness: Chr. H. Weisse, A. Runge, K. Fischer, F. Th.
+Vischer, and Karl Rosenkranz.
+    In his System der Ästhetik als Wissenschaft von der Idee des Schönen [Sys-
+tem of aesthetics as the science of the idea of the beautiful – 1830],
+Christian Hermann Weisse argues that beauty is the ground for both
+the sublime, that is, the transition of beauty to the good and the true,
+and the ugly, that is, the distortion of beauty through evil. Ugliness,
+in turn, marks the transition of the sublime to the comical – an idea
+that returns in K. Rosenkranz’s theory.30 Noteworthy is the connection
+of aesthetic and ethical categories, a feature that returns in many of
+the theories of ugliness by the Hegelians.
+    The most elaborate of these theories is laid down in Karl
+Rosenkranz’s (1805–1879) Ästhetik des Hässlichen [Aesthetics of ugli-
+ness] of 1853. “Hell is not only a religio-ethical one, it is also aestheti-
+cal,” he argues (3). And although he grants ugliness a greater sphere
+of existence within art, he agrees with his teacher Hegel that the ugly
+is a mode of privation, “a negative beauty” (III). Thus, it presupposes
+the beautiful that it then distorts, but it does not have any claim to an
+original existence (7, 39): “Were the beautiful not, the ugly were nev-
+ermore, because it exists only as the negation thereof. The beautiful is
+the divine, original idea and the ugly, its negation, has as such a merely
+secondary existence. It generates itself in contact with and out of the
+beautiful” (7).
+    Beauty, therefore, is absolute insofar as it is not deﬁned by its op-
+position, whereas ugliness is relative and secondary – a theory that
+
+[p. 107] [PDF page 127]
+
+Hegel                              107
+
+Adorno later reverses for modern art by claiming that now beauty
+always emerges out of ugliness. For Rosenkranz, the secondary nature
+of ugliness, however, is most apparent in the fact that beauty is not
+enhanced by the existence of ugliness, yet the ugly itself depends on
+principles of beauty for its portrayal, namely, the shunning of contin-
+gency and a somewhat idealized representation; “art must also idealize
+the ugly, i.e., treat it according to the general laws of beauty which it
+negates through its existence” (42).
+   For Rosenkranz, ugliness has its own complex morphology that is
+a result of the many different ways in which the ugly negates beauty.
+Three basic forms of negation can be distinguished, each of which
+then falls again into three subcategories and so on for several more
+levels. The ﬁrst form of ugliness is the lack of form. If beauty as a
+totality requires limits, that is, form, then ugliness suffers from the
+lack thereof. Secondly, Rosenkranz deﬁnes beauty with Hegel as the
+sensual truth of the idea. Yet unlike Hegel, he presupposes the validity
+of mimesis as an expression of this idea, since he deﬁnes ugliness as
+incorrect representation. The third form of the ugly, ﬁnally, is one that
+indicates how strongly ethical considerations are tied up with these
+philosophies of ugliness, since it is characterized by its lack of self-
+determination and freedom. Both illness of the organism and malice
+are expressions of such ugliness that ﬁgure both in the sensual and in
+the ethical realm.
+   This explains why it would be more or less impossible to grant ug-
+liness its own right of existence, since that would come close to an
+endorsement of character ﬂaws. Instead, Rosenkranz argues that the
+ugly has the potential to negate itself, not to return to beauty but to
+result in the comical. Of course, this cannot be taken to be a dialec-
+tical movement, yet it certainly explains the residue of ugliness in all
+forms of the comical. But also in the realm of beauty ugliness fulﬁlls
+a function. Not only is it allowed to exist side by side with the ugly,
+but it can even be enjoyed as long as the ultimate outcome of the art-
+work is the conquest of the ugly by the beautiful and the successful
+integration of the former into a harmonious totality. That much we
+had already heard from Hegel or even Lessing. Yet Rosenkranz adds
+a new dimension to these considerations; the totality of the idea, he
+argues, must not merely tolerate the ugly; in order to be a totality,
+the idea depends on the ugly for its realization. Ugliness might only
+
+[p. 108] [PDF page 128]
+
+108                  Part I. The Age of Paradigms
+
+be a moment of totality, yet it nevertheless is indispensable for the
+whole.
+   It is this last thought that, more involuntarily than not, moves
+Rosenkranz out of the Hegelian sphere and toward an aesthetics that
+acknowledges the independent existence of the ugly. Thus, one of the
+great themes of the philosophy of art ﬁnds its ﬁrst expression in this
+contribution of a student of Hegel. That his magnum opus remained
+out of print until very recently – not to mention untranslated – is an
+undeserved fate.
+
+
+=== Notes to Chapter 5 ===
+
+[p. 227] [PDF page 247]
+
+Chapter 5. Hegel
+
+1    Paradigmatic for this view is Helmut Kuhn’s “Die Vollendung der klassis-
+     chen deutschen Ästhetik durch Hegel,” in Schriften zur Ästhetik (Munich:
+     Kösel, 1966), pp. 15–144.
+2    Cf. E. H. Gombrich, “Hegel und die Kunstgeschichte,” in Neue Rundschau
+     2(1977): 202–19, especially p. 203 f.
+
+[p. 228] [PDF page 248]
+
+3    For a brief introduction to Hegel’s aesthetic theory in English, see
+      William Desmond’s Art and the Absolute: A Study of Hegel’s Aesthetics
+      (Albany: State University of New York Press, 1986). Desmond presents a
+      clear outline of the basic issues, although the book mostly abstains from
+      critical engagement with its material.
+ 4    Grundrisse der Kritik der politischen Ökonomie (Rohentwurf, 1857–8) (Berlin:
+      Dietz, 1953), p. 31.
+ 5    Especially Annemarie Gethmann-Siefert has argued forcefully for a nec-
+      essary revision of Hegel’s aesthetics in the light of the newly published
+      original lecture notes. See, e.g., “Schöne Kunst und Prosa des Lebens:
+      Hegels Rehabilitierung des ästhetischen Genusses,” in Christoph Jamme,
+      ed., Kunst und Geschichte im Zeitalter Hegels (Hamburg: Meiner, 1996),
+      pp. 115–50, and “Einleitung: Gestalt und Wirkung von Hegels Ästhetik,”
+      in G. W. F. Hegel: Vorlesungen über die Philosophie der Kunst (Hamburg:
+      Meiner, 1998), pp. xv–ccxxiv. This volume contains H. G. Hotho’s lec-
+      ture notes from 1823. For another version of the aesthetics lectures, see
+      the combined notes of Wilhelm von Ascheberg and W. Sax van Terborg
+      from 1820–1 that were edited by Helmut Schneider. G. W. F. Hegel:
+      Vorlesungen über Ästhetik (Frankfurt am Main: Peter Lang, 1995).
+ 6    Cf. Dieter Henrich’s essay “Hegel und Hölderlin,” in Hegel im Kontext
+      (Frankfurt am Main: Suhrkamp, 1971), pp. 9–40. For the above context,
+      especially p. 27.
+ 7    Cf. Vittorio Hösle, Hegels System: Der Idealismus der Subjektivität und das
+      Problem der Intersubjektivität, Vol. 2: Philosophie der Natur und des Geistes
+      (Hamburg: Meiner, 1987), p. 594.
+ 8    Cf. Immanuel Kant’s famous deﬁnition of laughter in the Critique of Judg-
+      ment: “Laughter is an affect due to the sudden resolution of an intense
+      expectation into nothing” (§53, Commentary).
+ 9    Cf. Horst Althaus, Hegel und Die heroischen Jahre der Philosophie (Munich:
+      Hanser, 1992), p. 423.
+10    Hegel’s texts – unless otherwise indicated – are quoted according to the
+      edition of the complete works that were edited by Eva Moldenhauer and
+      Karl Markus Michel (Frankfurt am Main: Suhrkamp, 1970). The ﬁrst
+      number refers to the volume, the second to the page.
+11    The chapter on natural beauty (13. 157–77) is very likely the result of an
+      undue elaboration by Hotho.
+12    The position of the Encyclopedia of Philosophical Sciences is less critical of
+      Schelling and the Romantic genius. Cf. §560 (10. 369).
+13    In the ﬁrst part of the Encyclopedia as well as in the Logic, essence [Wesen]
+      in turn is deﬁned as the appearance [Schein] of being [Sein] (8. 231).
+      The intricacies of Hegel’s terminology, however, cannot be discussed in
+      the present context.
+
+[p. 229] [PDF page 249]
+
+14   It seems very likely that Hegel himself never used this phrase, but that it
+     was coined by Hotho. As far as the edited lecture notes allow us to tell,
+     Hegel spoke of the “ideal of the beautiful” instead.
+15   Hegel (Cambridge: Cambridge University Press, 1975), p. 470.
+16   Wahrheit und Methode (Tübingen: Mohr and Siebeck, 1990), pp. 375 ff.
+17   Peter Szondi, “Antike und Moderne in der Ästhetik der Goethezeit,” in
+     Poetik und Geschichtsphilosophie I (Frankfurt am Main: Suhrkamp, 1974),
+     pp. 11–266.
+18   Hösle, Hegels System, vol. 2, pp. 620 ff.
+19   Ibid., pp. 637 f.
+20   This thesis was echoed in the twentieth century by the art historian Hans
+     Sedlmayr in his controversial book Der Verlust der Mitte. For Sedlmayr, the
+     decline of modern art is the symptom of a larger societal malaise – quite
+     contrary to Hegel’s optimistic view of the modern state as the telos of
+     development. For a good comparison between Sedlmayr and Hegel, see
+     Dieter Jähnig, “Hegel und die These vom ‘Verlust der Mitte,’ ” in A. M.
+     Koktanek, ed., Spengler-Studien (Munich: Beck, 1965), pp. 147–76.
+21   Cf. Hans-Georg Gadamer, “Die Stellung der Poesie im System der
+     Hegelschen Ästhetik und die Frage des Vergangenheitscharakters der
+     Kunst,” in Kunst als Aussage (Tübingen: Mohr and Siebeck, 1993),
+     pp. 221–31. In the same volume, see also the essay “Ende der Kunst?
+     Von Hegels Lehre vom Vergangenheitscharakter der Kunst bis zur Anti-
+     Kunst von heute,” pp. 206–20.
+22   Charles Taylor makes this observation (Hegel, 479). For Hegel himself,
+     however, the argument that reality “defeated” the concept would hardly
+     be permissible. To the charge that reality did not line up with the concept,
+     Hegel was known to answer: So much the worse for reality. In this context,
+     see also Heidegger’s criticism of the empirical argument. “Der Ursprung
+     des Kunstwerks,” in Holzwege (Frankfurt am Main: Klostermann, 1980),
+     pp. 1–72, p. 66.
+23   Cf. Annemarie Gethmann-Siefert, “Schöne Kunst und Prosa des Lebens,”
+     p. 118.
+24   Also compare Willi Oelmüller, “Der Satz vom Ende der Kunst,” in Die un-
+     befriedigte Aufklärung: Beiträge zu einer Philosophie der Moderne von Lessing,
+     Kant und Hegel (Frankfurt am Main: Suhrkamp, 1969); Karsten Harries,
+     “Hegel on the Future of Art,” in The Review of Metaphysics (1974): 677–96;
+     Curtis L. Carter, “A Reexamination of the ‘Death of Art’ Interpretation
+     of Hegel’s Aesthetics,” in Lawrence S. Stepelevich, ed., Selected Essays on
+     G. W. F. Hegel (Atlantic Highlands, N.J.: Humanities Press, 1993), pp. 11–
+     26. Other essays on this question and other problems of Hegel’s aes-
+     thetics can be found in the volume edited by William Maker: Hegel and
+     Aesthetics (Albany: State University of New York Press, 2000).
+
+[p. 230] [PDF page 250]
+
+25    Arnold Gehlen, Zeit-Bilder: Zur Soziologie und Ästhetik der modernen
+      Malerei, 3d enlarged ed. (Frankfurt am Main: Klostermann, 1986),
+      p. 206.
+26    Ernst Bloch comments on this aspect of Hegel’s aesthetics as follows:
+      “Art in Hegel never appears as disinterested contemplation in respect
+      to the pure form of imagination of its objects, but it appears in its end
+      as content of fulﬁllment in which man who contemplates it does no
+      longer need a restlessness of interest during this contemplation. This
+      is the polis that Hegel found in art, a marvelous Athens of all times
+      and latitudes.” Subjekt-Objekt: Erläuterungen zu Hegel (Frankfurt am Main:
+      Suhrkamp, 1985), p. 289.
+27    Hegels System, vol. 2, p. 611.
+28    As this term indicates, the study of ugliness and its theory has turned into
+      its own subﬁeld of aesthetics. Thus, the literature on it is too numerous to
+      even list the “classics” of the ﬁeld. A good ﬁrst orientation can be obtained
+      by turning to the entries on ugliness in the outstanding encyclopedia
+      from the disciplines of philosophy, art and literary history, and rhetoric.
+      Cf. Ursula Franke, “Das Hässliche,” Historisches Wörterbuch der Philosophie ;
+      Carsten Zelle, “Das Hässliche,” Historisches Wörterbuch der Rhetorik; Jerome
+      Stolniz, “Ugliness,” The Encyclopedia of Philosophy.
+29    Althaus, Hegel, p. 424.
+30    For a discussion of the sublime and the comical as moments of the
+      beautiful, compare Friedrich Theodor Vischer’s 1837 Über das Erhabene
+      und Komische (On the sublime and comical) (Frankfurt am Main:
+      Suhrkamp, 1967). Unlike for Kant or Schiller, the sublime for Vischer
+      is not a concept on par with the beautiful, but a manifestation of the
+      latter.

@@ -1,0 +1,997 @@
+The German Aesthetic Tradition
+Kai Hammermeister | Cambridge University Press, 2002
+
+Chapter 10: Adorno
+Print pages 194–211; PDF pages 214–231
+
+
+=== Chapter text ===
+
+[p. 194] [PDF page 214]
+
+10
+
+                              Adorno
+
+
+
+
+                            Art and Society
+In Theodor W. Adorno’s (1903–1969) philosophy, we ﬁnd much the
+same gesture as in Heidegger when it comes to the inheritance of clas-
+sical German philosophy. While Adorno sets himself in a position of
+both opposing and continuing idealism, he tends to gloss over his debts
+to early romantic aesthetics. Although Schelling is mentioned with
+approval several times in Ästhetische Theorie (Aesthetic theory, 1970),
+Adorno is very shy in spelling out his reliance on the philosophy of
+art of the former as an “organon of truth.” Instead, throughout his
+philosophical and critical writings, Adorno’s struggle with Hegel occu-
+pies a place in the foreground.1 His 1966 Negative Dialectics is written
+with the aim of inheriting, as well as dismantling, Hegel’s legacy. Here,
+Adorno attempts to prove that the dialectical model with its synthesis
+as reconciliation always produces a totality that does injustice to those
+moments that necessarily escape the concept. Hegelian dialectics re-
+duces all individuality to something that can be subsumed under a
+concept to be then integrated into a general movement. Against this
+idealist heritage Adorno pitches his own conception of philosophy:
+“Philosophy’s true interest at this historical moment lies where Hegel,
+agreeing with tradition, demonstrated his disinterest: with the concept-
+less, singular and speciﬁc.”2 Adorno terms this singularity that re-
+mains irreconcilable with conceptual thought the nonidentical, a term
+that resurrects Kant’s noncognizable thing-in-itself against Hegel’s
+
+
+                                  194
+
+[p. 195] [PDF page 215]
+
+Adorno                              195
+
+totalizing dialectics, and that also plays a prominent role in Adorno’s
+theory of art. That a striking parallel exists between Adorno’s notion
+of the nonidentical and Heidegger’s notion of Being shall only be
+remarked in passing.3
+   Against the systematic philosophy of the idealists, Adorno mobilizes
+the romantic notion of systematic antisystematicity. For him, the ide-
+alist system is a symptom of the desire to model spirit after appetite, to
+devour everything external and turn it into the substance of the self:
+“The system is stomach become spirit, anger the signature of all ide-
+alism” (Neg. Dial., 34). While systematic thought participates in the
+oppression of its moments, the fragment that hints at a totality but
+never aims to achieve it is considered the only viable alternative: “Only
+the fragment as the form of philosophy would bring into their own
+the monads that were conceptualized in an illusionary way by ideal-
+ism” (Neg. Dial., 39). This position bestows new philosophical dignity
+on the essay, which combines a circumscribed incidence as the catalyst
+for writing with speculative thought.4
+   Philosophical analyses of art and questions of aesthetics are very
+much at the center of Adorno’s work. Starting with his 1933 Habilita-
+tionsschrift (the second dissertation required by the German academic
+system for all university teachers) on Kierkegaard’s aesthetics, at least
+half of his publications deal with questions of art. In 1949 he pub-
+lished Philosophie der neuen Musik (Philosophy of new music); in 1952
+Versuch über Wagner (Essay on Wagner); in 1956 Dissonanzen: Musik in
+der verwalteten Welt (Dissonances: Music in the administered world);
+from 1957 to 1974 Noten zur Literatur I–IV (Notes on literature); in
+1960 Mahler: Eine musikalische Physignomik (Mahler: A musical phys-
+iognomy); in 1967 Ohne Leitbild: Parva Ästhetica (Without ideal: Parva
+Aesthetica); and ﬁnally in 1970 Ästhetische Theorie (Aesthetic theory).
+The list is incomplete; more monographs on music and essays carry
+Adorno’s name. His legacy to philosophical aesthetics, however, can
+be found mainly in the posthumous Aesthetic Theory. Just like Lukács’s
+Aesthetics, Adorno’s magnum opus on the theory of art is a collection
+of meditations on central concepts of classical aesthetics. These are
+intimately interwoven reﬂections, yet they are not clearly structured.
+Adorno’s basic maneuver is to take up the notion of paradigmatic aes-
+thetics and unfold their negativity. The meaning of this strategy will
+become apparent in the course of our discussion.
+
+[p. 196] [PDF page 216]
+
+196                 Part III. Renewing the Paradigms
+
+   Adorno’s critique of idealism and his renewal of romantic aesthet-
+ics were undertaken from a very speciﬁc vantage point. As a member
+of the Institut für Sozialforschung, center of the Frankfurt School, he
+attempted to formulate a critical theory of society. Max Horkheimer,
+head of the institute, had formulated in his famous essay “Traditional
+and Critical Theory” that the latter is concerned with the abolition
+of social injustice. Philosophically, this means, following Marx’s diag-
+nosis, that at the heart of idealism lies unacknowledged materialism.5
+Yet the problem for Adorno, Horkheimer, and the other members of
+the Frankfurt School was to adhere to a strain of neo-Marxist thought
+at a time when society had become total – roughly meaning lacking
+critical oppositional elements – because of the integration of the pro-
+letariat. While Horkheimer tended more and more toward a nihilistic
+position that was only appeased slightly late in his life by a turn toward
+metaphysics, Adorno always relied on art as the last factor of resistance
+against a total society.
+   Adorno’s theory of art is based on an analysis of society and art after
+the eighteenth century. It is important to make this fact explicit, be-
+cause his aesthetics rest on several presuppositions that are not spelled
+out, yet they carry several consequences that Adorno prefers to ignore.
+Moreover, just like the Frankfurt School’s analysis of society, Adorno’s
+own theory does not rely on empirical historical analyses but is based
+on a “theory of history of ontological status.”6 Very brieﬂy summa-
+rized, Adorno’s historical presuppositions for his theory of art are the
+following.
+   Adorno holds that society has broken the promise of Enlight-
+enment because it has not overcome its inner antagonisms, merely
+appeased them. This appeasement has led to the integration of all op-
+positional forces into society, which has become total. On a political
+level, this societal co-opting was most successful with the integration of
+the proletariat into the bourgeoisie. For the critical theorists, however,
+philosophy itself has also not opposed this tendency toward a total so-
+ciety, but has both inaugurated and mimicked it. In their devastating
+analysis of contemporary society Dialektik der Aufklärung (Dialectics of
+Enlightenment, 1944), Horkheimer and Adorno argue that a total so-
+ciety has even eliminated all oppositional conceptual thought.7 Such
+diagnosis, however, poses the problem of all-encompassing statements
+
+[p. 197] [PDF page 217]
+
+Adorno                                197
+
+regarding self-referentiality: How can philosophy escape the embrace
+of total society in order to view it from the outside and make statements
+about it that can claim to be true? Isn’t philosophy itself, including the
+critical kind, part of totality? While the answers to this puzzle change in
+the course of the development of the Frankfurt School – one favorite
+was always the performativer Widerspruch, the performative opposition
+that turns critique into a gesture (in philosophical logic, the term refers
+to a proposition that is self-contradictory due to its self-referentiality) –
+for Adorno art has always carried the hope of escaping from an airtight
+totality.8 Since critical theory is in constant danger of falling back into
+ideology itself, it cannot guarantee a secure ground for the project
+that motivates the members of the institute, namely, to abolish social
+injustice. Yet in art, Adorno locates the potential formerly attributed
+to philosophy both to show reality as it is and to remind us of a better
+reality. At the very basis of art we therefore ﬁnd two interconnected
+functions: the presentation of reality in all its shortcomings and its
+critique with a better society in mind.
+    Still, not all products that lay claim to art fulﬁll this double func-
+tion. Total society also attempts to co-opt art and rid it of its moment
+of opposition to the status quo. For this purpose, it has set up what
+Adorno and Horkheimer call the culture industry. This industry, in
+which Hollywood looms large, creates pseudoartistic products to ful-
+ﬁll the public’s need for entertainment without any danger of arousing
+ideas or desires that challenge the present conformity. While the en-
+counter with American popular culture in their exile was a strong
+inﬂuence on Adorno’s and Horkheimer’s theory of cultural industry,
+it was also developed in opposition to Walter Benjamin’s theory of the
+postauratic artwork. Before we turn to Adorno’s aesthetic theory itself,
+we must therefore take a detour through Benjamin’s theses on the re-
+producibility of art and Adorno’s subsequent critique of the culture
+industry.
+
+
+                  Benjamin and the Culture Industry
+In his essay Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit
+(The artwork in the age of its mechanical reproducibility, 1936),
+Walter Benjamin (1892–1940) narrates the history of the work of art
+
+[p. 198] [PDF page 218]
+
+198                 Part III. Renewing the Paradigms
+
+from its ritualistic function via its display function to the present era
+of technical reproduction. Two elements change in this long pro-
+cess: On the one hand, the work of art loses its concrete historical
+place and function – what Benjamin calls its aura; on the other hand,
+man’s sense perception and, hence, his relation to art changes as
+much.
+   Initially, Benjamin argues, the work of art could not be separated
+from its magical and cultic function. The “here and now of the orig-
+inal,” that is, the aura that Benjamin had deﬁned as “the singular
+appearance of a distance, no matter how close,” is characterized in its
+cultic stage by the unapproachable distance of the holy.9 When the
+work of art loses its function in the cult, it becomes an object of display
+and a secular type of veneration. Although Benjamin offers hardly an
+explanation for this historical process,10 he nevertheless goes on to
+claim that the social function of art changed from ritual to politics.
+   Only the technical reproduction of art in photography and sound
+ﬁlm has completed this process in which the aura of the artwork slowly
+evaporates. Not only do traditional artworks lose their “here and now”
+due to their photographic or auditory reproduction; mechanically pro-
+duced works of art no longer even possess an aura. This is a process
+that for Benjamin carries a twofold meaning, one negative, the other
+positive. Because the traditional artwork allows later recipients to en-
+counter the history of the work and, hence, to encounter previous
+ages, the loss of the aura involves the loss of historical experience.
+On the other hand, Benjamin hopes for a wider participation in art’s
+promise of a better life, because the works are accessible by a wider
+audience in reproduction.
+   Moreover, Benjamin even suggests – without following the logic of
+his own argument – that maybe traditional works of art are not even
+necessary for the public at large, since the new technical works will ﬁt
+the needs of the masses much more. In order to make his argument,
+Benjamin has recourse to his thesis about the historical malleability of
+sense perception. He celebrates ﬁlm for being the ideal means for a
+modern collective audience to train their eye in a new mode of per-
+ception, that is, one that is characterized by disjoined moments and a
+rapid succession of impulses. Such patterning must be learned, as life
+in the city demands the adaptation to an ever-increasing speed of life.
+The cutting technique of ﬁlm forces the same experience of shock and
+
+[p. 199] [PDF page 219]
+
+Adorno                              199
+
+distraction on its viewer as life in the production hall or on the street
+of a metropolis. As Heidegger had talked about the Stoss, the push that
+the viewer receives from art, Benjamin venerates the shock. Yet while
+Heidegger refers to traditional works, Benjamin restricts the shock ex-
+perience to ﬁlm. Needless to say, such encounter with a work of art no
+longer takes place as a mode of contemplation. Instead, perception is
+unfocused, distracted, and passive: “Contemplation [Versenkung ] that
+had become a training for antisocial behavior in the decay of the bour-
+geoisie is opposed by distraction as a form of social behavior” (502). It
+is hard to see how any meaning other than a rather superﬁcial one can
+be attributed to the term “social” in this statement, but Benjamin goes
+even further in his praise for the renewing qualities of ﬁlm. By means
+of a changed perception, movies manage to turn around the relation-
+ship of the masses to modernist art so that reactionary disapproval is
+replaced by progressive acceptance.
+    Should we understand him to say here that those who have been
+trained through movie watching will suddenly comprehend twelve-
+tone compositions and cubist painting? Benjamin may not be as naı̈ve
+as that, but it is difﬁcult to discern how we are meant to read this as-
+sertion. Again, Benjamin merely proclaims a fact and abstains from
+argument. Altogether unmotivated and unconvincing is his attempt
+to connect these theses to a political agenda, namely, the communist
+politicization of art that takes a stand against the fascist aesthetiza-
+tion of politics. And yet, the claim for a socially progressive function
+for movies and the argument in favor of changed perceptive habits
+of the audience constituted a challenge to Adorno, who always ori-
+ented himself to works of art in the traditional sense, even in their
+modernist form. Adorno’s main argument against Benjamin’s positive
+valuation of the loss of aura in contemporary art is that with its aura,
+art also loses its truth-claim. While the aura might be tied up with
+societal mechanisms of control, as Habermas later emphasized,11 it
+nevertheless also harbors those historical forces that withstood inte-
+gration and remained nonidentical. To give up on the traditional no-
+tion of the work of art and its reception means to further the totalizing
+impetus.
+    It is important to realize that for Adorno, the mass culture of the
+twentieth century as we encounter it in the culture industry is not a
+modern version of folk art. Rather, we are dealing with industrially
+
+[p. 200] [PDF page 220]
+
+200                 Part III. Renewing the Paradigms
+
+produced and carefully calculated artifacts. They are not works of art
+by any means; instead, they must be seen as commodities calculated
+to fulﬁll the present needs of the masses.12 These needs, however, are
+not genuine but are themselves products of the culture industry. The
+audience is meant to amuse itself, but this amusement is nothing but
+the elimination of critical thought: “Vergnügtsein heißt Einverstanden-
+sein” – amusement means agreement.13
+    Amusement is precisely that kind of distracted consumption that
+Benjamin hailed as the only appropriate perception of art. In his essay
+“Über den Fetischcharakter in der Musik und die Regression des
+Hörens” (About the fetish character in music and the regression of
+listening), Adorno argues vehemently against this position. Distracted
+viewing or listening no longer allows for a sense of the totality of the
+work to develop. Instead, the focus of attention turns to disjointed
+individual stimuli – for example, in music to memorable themes in a
+symphony. Such shortening of the attention span and the inability to
+mentally construct a whole leads to infantilization. Distracted listeners
+“are infantile: their primitivism is not that of the undeveloped, but
+of the man forced into regression.”14 Such infantilization, though,
+carries with it serious political implications. The culture industry
+“disables the development of autonomous, judicious individuals ca-
+pable of independent decisions. Yet those would be the prerequisites
+for a democratic society that can only unfold and sustain itself through
+enlightened persons [in Mündigen].”15 The consumption of the prod-
+ucts of the culture industry, therefore, does nothing less than erode
+the basis of democracy. Benjamin’s theory of distracted consumption
+cannot be distinguished in its consequences from the purposes of the
+producers of mass entertainment.
+    While Adorno has the better arguments on his side in his quarrel
+with Benjamin, there are also problems that emerge from his rejection
+of popular culture. It is not so much because there might be some in-
+dividual products that do not ﬁt the mold of the theory; the problem
+lies more with Adorno’s unwillingness to examine individual works
+for their merits. As with his critique of jazz music,16 his apodictic pro-
+nouncements repeatedly seem to result from a theoretical conviction
+based on insufﬁcient evidence.17 Yet if art is hailed for its potential to
+surpass the truth-claims of theory, as it is in Adorno’s appropriation of
+Schelling, a theoretical prejudice that no longer allows for a detailed
+
+[p. 201] [PDF page 221]
+
+Adorno                               201
+
+examination of the work in question poses a threat to the aesthetic
+theory at large. As will become apparent, this problem resurfaces in
+Adorno’s conception of art as it opposes the cultural industry.
+
+
+                      Society and the Form of Art
+Art, in contrast to the commercial products of the culture industry,
+has a double character for Adorno: It is both “autonomous and fait
+social.”18 This seemingly contradictory interplay of dependence on
+and freedom from society produces perpetual conﬂicts of the two
+spheres (340), a conﬂict within the work of art that is responsible for
+the work’s paradoxical character as movement in rest. Like Heidegger,
+Adorno transposes Kant’s kinetic aesthetics from the mental faculties
+of the subject onto the work of art, although he insists that art is neither
+subjective nor objective, but dialectical.
+   To call the artwork a fait social does not mean to subscribe to a sim-
+ple Marxist notion in which the cultural superstructure is determined
+by the economic base. Rather, Adorno takes recourse to Leibniz’s
+metaphysics. The work of art is an effect of the social because it is a
+“monad: center of force and thing at once. Works of art are closed off
+against each other, blind, but in their concealedness [Verschlossenheit ]
+they represent what is outside” (268). Artistic monads are able to mir-
+ror social reality because the same rules underlie the work of art as
+society: “The conﬁguration of elements of works of art into a whole
+obeys immanent laws that are related to those of the society out there”
+(350). Adorno bases his discussion of artistic form on this very princi-
+ple taken from rationalist metaphysics, although the explanatory force
+of this theory might not really surpass that of orthodox Marxism. Art,
+however, is not only inescapably linked to the forces of society; it also is
+free from all present laws and forces at the same time. Art’s truth rests
+mainly on this second moment, not on its truthful replication of what
+exists: “True is only what does not ﬁt into this world” (93). Art resists
+all attempts to be co-opted by society; it negates the present state of
+affairs and keeps alive the hope for a better life in a better world. It
+does not do so, though, by painting a utopia that is to be achieved;
+rather, art’s utopia consists in its “No” to the present. With Stendhal,
+Adorno terms this feature of art its promesse de bonheur, its promise of
+happiness.
+
+[p. 202] [PDF page 222]
+
+202                    Part III. Renewing the Paradigms
+
+   Adorno declares that in a total society, the antagonisms are not re-
+solved but merely glossed over. In the work of art, however, the antag-
+onisms of reality manifest themselves in the form of the work: “The
+unsolved antagonisms of reality return again in the works of art as
+the immanent problems of their form. This, not the inﬂux of concrete
+moments, deﬁnes the relation of art to society” (16). Form is, there-
+fore, both the coherence of the artwork and simultaneously the mani-
+festation of struggling forces within it. But unlike the synthesis of
+idealist dialectics, the form of the artwork is a synthesis without being
+a totality; Adorno never tires of reversing Hegel’s famous dictum by
+stating that the total is the false. Art achieves – although not entirely
+without traces of domination – a synthesis that lets nonidentical mo-
+ments be. Likewise, the coherence of the work is not unity; it remains
+open. Adorno characterizes the form of the work of art:
+
+It is the noncoercive synthesis of the multifarious that nevertheless retains
+it as what it is, in its divergence and its contradictions, and is thus truly an
+unfolding of truth. Posited unity as one that is posited always suspends itself;
+it is essential for it to interrupt itself through what is other to it; its coherence
+[Stimmigkeit ] is not to cohere. (216)
+
+    And yet no work of art entirely escapes that moment of control that
+form exerts over the individual moment. All art also carries part of the
+guilt that haunts society characterized by injustice. Hence, Adorno can
+proclaim that “form is amoral” (217).
+    For Adorno, art can be valued according to its effort to escape the
+totality of form. The less a work aims at unity and the more it allows the
+disparate elements to remain unreconciled, the greater the work. Truly
+great art, Adorno declares, always explodes its unity: “Art of the highest
+order pushes beyond form as totality toward fragmentation” (221).
+Form, in other words, is merely a precarious balance of the individual
+moments, none of which are meant to give up their independence for
+the sake of the whole. Or, as Adorno phrases it with Hegel, art searches
+for the identity of the identical and the nonidentical. Because this
+search never reaches its goal, form must not be considered a product
+but a process.
+    Adorno’s conception of form as an interplay of constructive synthe-
+sis and fragmentation is derived from his analyses of modernist works.
+In fact, the notion of the work itself is characterized for Adorno by
+
+[p. 203] [PDF page 223]
+
+Adorno                              203
+
+the aesthetic products of the modernist period. Thus, he rejects the
+classical notion of the artwork both as a closed totality and as the radi-
+cal dissembling of the work in happenings and performance art. As so
+often, he formulates paradoxically: “The only works that count today
+are those that are no longer works.”19
+    While Adorno would be hard put to demonstrate his theory of frag-
+mentation with regard to masterpieces from all ages and artistic genres,
+the thesis allows him to argue for art’s potential to safeguard the non-
+identical. In Negative Dialectics, philosophical theory had been faulted
+for subsuming everything under its systematic totality, but the form of
+the artwork can grant independence to its moments while incorporat-
+ing them into a larger unit. In a total society, the nonidentical ﬁnds its
+haven in art. Yet art does not offer a real reconciliation of the non-
+identical and the totality. This reconciliation could only occur within
+a society that had abolished injustice. The reconciliation that art of-
+fers is appearance [Schein]: “Works of art are appearance [Schein] be-
+cause they grant a type of second, modiﬁed existence to that which
+they cannot be themselves. They are an apparition [Erscheinung ] be-
+cause those nonexisting elements within them for which they exist
+achieve by means of aesthetic realization an existence, no matter how
+fragmentary” (167). Adorno uses the theological term “apparition” in
+order to emphasize the intrusion of something transcendental that
+denounces reality as it is and announces a better existence that is yet
+to become. Directed partly against Benjamin, the notion of appari-
+tion insists on the auratic moment of art, yet it restricts it to a brief
+moment.20
+    Form, then, is the dialectics of a constructive process, a synthe-
+sis, and nonidentical moments. These enter into art not by a process
+of selection and incorporation, because such cognitive mechanisms
+would require previous subsumation under concepts and, hence, the
+destruction of the nonidentical. Instead, the artist takes recourse to
+a precognitive mode of behavior in order to open a passage for the
+nonidentical into the work. This aesthetic interaction with the object,
+which permits the appearance of the latter in the work without being
+subjected to a process of generalization, Adorno calls mimesis. Like
+Lukács, Adorno takes up one of the central notions of classical aes-
+thetics, but only to reverse its traditional meaning. Adorno deﬁnes
+mimesis as “the nonconceptual afﬁnity of the subject’s product to its
+
+[p. 204] [PDF page 224]
+
+204                 Part III. Renewing the Paradigms
+
+other, to that which it had not posited” (86 f.). From this somewhat
+cryptic formulation, a critique of the traditional concept of mimesis
+emerges.
+    The Platonic tradition, in particular, had considered artistic mime-
+sis with some skepticism, since it was merely a reduplication of material
+objects that were, in turn, already ﬂawed approximations to their ideas.
+Adorno now declares such mimesis, that is, the duplication of the world
+in art, problematic because it bestows a dignity on the status quo that
+is unmerited. Such mimesis sanctions the powers that be: “Insofar as
+art was also mimesis [Abbild ], its coherence has approved of the mim-
+icked object as a necessity, no matter how tragically it fared or how
+much it was denunciated.”21 Hence, Adorno agrees with Plato that
+mimesis as the artistic reproduction of reality must be shunned, be-
+cause the existing reality does not deserve this kind of attention. Where
+Plato argues from a metaphysical point of view that advances a non-
+corporeal world as the reality worth our attention, Adorno pitches
+the utopia of a reconciled society against the status quo in order
+to discredit mimesis, understood as reproduction. His own concept,
+although never fully formulated, considers mimesis to be an archaic
+relation to the object that is closer to magic rituals than to techni-
+cal skill. Just as ugliness is the return of the archaic in art, mimesis,
+too, signiﬁes a primordial moment that breaks into civilization. Art
+must contain ugliness because reality is cruel; it must be mimetic to
+remind us that the violence we exert against each other and on the ob-
+ject shall be overcome. But whereas the ugly is linked up with cruelty,
+mimesis is a reconciliatory embrace. Oftentimes, Adorno uses the term
+Anschmiegung as a description for the mimetic process as it should be,
+a kind of cuddling up to the object that has tender and protective asso-
+ciations. Such behavior is ruled by the letting-be of the object; mimesis
+becomes the anticipation of a society reconciled with itself and with
+nature. Art must contain ugliness because reality is cruel; likewise, it
+must be mimetic to remind us that the violence we exert against each
+other and on the object shall be overcome.
+    Adorno is purposefully yet nevertheless disappointingly vague when
+it comes to the mimetic process. It is hard to see which faculties are
+supposed to be involved in this preconceptual, archaic relation to the
+object and how such mimesis enters into the work of art. Still, Adorno
+insists that mimesis is not an emotional or physical response to the
+
+[p. 205] [PDF page 225]
+
+Adorno                               205
+
+world but a form of cognition. More precisely, artistic mimesis comple-
+ments conceptual cognition through the incorporation of that which
+escapes the concept. Because of its mimetic moment, art is “a form of
+cognition and hence ‘rational’ itself ” (87).22
+
+
+                            The Truth of Art
+Adorno emphatically sides with Schelling against Kant regarding the
+question of aesthetic truth. Not only does art offer cognition, but it
+also offers such cognition where the philosophical concept falls short.
+Adorno declares that Kant’s theory of disinterested pleasure is a hu-
+miliation of spirit because it reduces spirit to the contemplation and
+admiration of the pleasurable aesthetic object without any considera-
+tion for its truth content.23 Yet art must be interrogated about its truth:
+“All aesthetic questions terminate in those regarding the truth content
+of the works of art: is that which a work in its speciﬁc form carries with
+it true in terms of objective spirit?” (498). Also, art is by no means
+disinterested. If only in a mediated sense, every great work, due to its
+twofold nature as autonomous entity and fait social, contains within it
+the longing for happiness.
+    Although Adorno subscribes to Schelling’s view of art as a means
+of cognition that surpasses those of theory, he nevertheless holds that
+the cognitive content of the work requires conceptual interpretation.
+The adequate interpretation of a work of art, though, cannot be sup-
+plied by the historical sciences of art, such as philology, art history, or
+musicology; rather, the only sufﬁcient explication of art must be philo-
+sophical. An artwork may contain a truth that is singular to it, but it
+is in need of an interpreter. The truth it contains requires translation
+into philosophical language: “Therefore art requires philosophy that
+interprets it in order to say what the former cannot say while it can only
+be said in art by not saying it” (113).24 Referring back to the interplay
+of Kantian faculties, A. Wellmer comments: “As much as a moment
+of blindness adheres to aesthetic intuition, a moment of emptiness
+adheres to the mediation of philosophical thought.”25 It is not quite
+clear how Adorno imagines safeguarding the truth content of art in
+its translation into philosophy, since even the critical theory that has
+given up on the totalizing synthesis is always in danger of regressing
+into ideology. Still, he insists on the sublation of aesthetic experience
+
+[p. 206] [PDF page 226]
+
+206                 Part III. Renewing the Paradigms
+
+into thought: “genuine aesthetic experience must become philosophy
+or it will not be at all” (197).
+   Nevertheless, it would be a mistake to think of this transposition of
+the aesthetic experience into philosophy as a process of conceptualiza-
+tion. The nonidentical moment in art, its mimetic Anschmiegung, can
+never be eliminated from the realm of aesthetics. Art is a form of ratio-
+nality that criticizes that which is only rational. Much like Heidegger
+with his theory of the interplay of world and earth, Adorno situates
+the work of art between its elusiveness to thought and its philosophi-
+cal interpretation. While interpretation of art is mandatory, its result is
+never sufﬁcient. The advantage that art has over conceptual thought is
+not eliminated in the interpretation: “The enigmatic character [of art]
+survives the interpretation that demands an answer” (189). Even after
+the interpretation, the work of art remains a riddle. Despite his op-
+position to Kant, this notion yet again resurrects the concept of the
+aesthetic idea. Because all great works remain enigmatic, they always
+require further elucidation and new attempts to comprehend their
+truth. Although without philosophy art cannot be understood at all,
+philosophy is not sufﬁcient to completely understand it.
+   In still another aspect Adorno harks back to Kant. Like the latter,
+Adorno does not restrict the aesthetic experience to art as had been
+customary after Hegel. Instead, he includes natural beauty in aesthet-
+ics. The beauty of nature manifests itself as that which escapes technical
+reason and the reduction of nature to the status of resource for produc-
+tion in a capitalist society. Hence, it becomes a different name for the
+nonidentical: “Natural beauty is the trace of the nonidentical within
+the objects under the spell of universal identity” (114).26 Attempts
+to formulate an aesthetics of ecology have taken up this conception,
+which can be utilized to combine an aesthetic attitude with an ethics
+of respect. Although Adorno himself would be skeptical regarding the
+chances for such a new ethos because for him no right attitude toward
+the object can emerge within a wrong society, he must nevertheless be
+credited for reintroducing natural beauty into aesthetics after its long
+absence.
+   Adorno is skeptical in general about the possibility of attributing
+speciﬁc political functions to art. Once art becomes engaged in con-
+crete social struggles, it becomes propaganda or, even worse, a com-
+modity. Diametrically opposed to the position of Lukács and also to
+
+[p. 207] [PDF page 227]
+
+Adorno                                207
+
+Sartre’s concept of an engaged literature, Adorno’s notion of the polit-
+ical in art does not manifest itself in the content. Any concrete political
+agenda undermines the precarious balance of synthesis and mimesis
+by afﬁxing a distinct position to the work. Once art tells precisely how
+life and society should be, it has stopped being enigmatic. Therefore,
+the political element in art must reside in its form. Adorno posits that
+art takes an opposition to the present society, not by speciﬁcally contra-
+dicting any of its moments but through its mere existence. Because art
+refuses to be useful and because it only follows its own internal logic,
+“it criticizes society through its existence only. . . . Nothing that is pure
+and constructed according to its immanent law exists without silently
+criticizing, without denouncing the humiliation by an existence that
+moves ever closer to the total society of commodity exchange” (335).
+    While art critiques explicit societal shortcomings, it abstains from
+painting the picture of a better polity. Adorno refuses to attribute any
+picture-book utopia to works of art: “The consolation of great art-
+works rests less in what they say and more in the fact that they exist
+despite the status quo. The most desolate carry hope with the greatest
+possibility.”27 For Adorno, the fact that art exists tells us that society
+should not exist as it is. Theologically speaking, art is a sign of the
+fallen condition. At the end of history, either as a theological parusia
+or in a completely reconciled communist world, art will therefore no
+longer be. All art carries within it the desire for its own sublation, its
+disappearance within a life that no longer needs it. The sadness of art,
+to which we will turn momentarily, is also due to the fact that its essence
+is tainted by a desire for self-overcoming. While art defends life against
+a society in which the Thanatos drive becomes ever more pronounced,
+deep within it, it harbors the same desire for its own abolition.
+    Art cannot escape its aporetic situation; it must remain independent
+from any political agenda, and at the same time, it has to retain a social
+nexus if it does not want to become a harmless pastime. Hence, it
+perpetually struggles between engagement and entertainment, and its
+existence is threatened by both moments. This seemingly inescapable
+dilemma for Adorno mirrors the state of society that has become total
+and attempts to “swallow everything that occurs” (353). Therefore, art
+can only be political by completely refusing to participate in all matters
+social – it must negate communication. Yet it is precisely from this
+renunciation of communication that art’s political uselessness results:
+
+[p. 208] [PDF page 228]
+
+208                   Part III. Renewing the Paradigms
+
+Today, the acute reason for the social uselessness of artworks that do not cede
+to crude propaganda is that they must rid themselves of all communicative
+means which might bring them closer to the population so that they can resist
+the total system of communication. Artworks only have a practical function at
+most through a hardly quantiﬁable change of consciousness, not because they
+harangue.” (360)
+
+    Still, a certain tension is undeniable between Adorno’s adherence
+to Schelling’s paradigm of art as an organon of truth and his thesis
+regarding the refusal to communicate. While it is not necessary to
+think of communication in terms of conceptual language, it seems
+to be essential for a truth content to radiate from the work to the
+recipient. If he considers hermetic works to be paradigmatic for art,
+Adorno must explain how the truth-claim can be upheld.
+    Again art’s role is deﬁned negatively: It must resist total society. All
+constructive efforts would be co-opted; hence, art’s obligation is to
+anarchism. Whereas Gadamer had hailed art for its potential to aid
+order in a world threatening to fall apart, Adorno wants to mobilize it
+against a world characterized by deathly rigidity: “The task of art today
+is to bring chaos into the order.”28 Hence, the effect of artworks is the
+dissolution of previous conceptions of world and self. Like Gadamer,
+Adorno emphasizes that a work must disappoint expectations; like
+Benjamin and Heidegger, he considers the encounter with great art to
+be a shock for the recipient. Art allows the subject to overcome his or
+her own limitations and restrictions: “Shock [Erschütterung ], in oppo-
+sition to the usual sense of the concept, is no particular satisfaction of
+the self, not related to pleasure. Rather, it is a moment of liquidation
+of the self that becomes aware of its own limits and ﬁnality through this
+shock” (364). Unlike Benjamin, however, Adorno regards the shock
+not as occurring in distraction but as the result of contemplative effort:
+“The self, in order to see even the slightest bit beyond the prison that
+it itself is, does not need distraction, but the highest concentration”
+(364). In a vision of the work’s form, its construction into a unity, the
+self loses itself and something objective breaks into the subjective con-
+sciousness. Truth occurs after the highest effort has given way to an
+egoless objectivity – a notion that resembles Zen practices.
+    Just as encounters with great art break down the subjectivity of the
+recipient, great art also transcends all subjective efforts of the artist. In
+respect to lyric poetry Adorno declares: “The highest lyrical products
+
+[p. 209] [PDF page 229]
+
+Adorno                              209
+
+are those in which the subject resonates in language without residue
+of matter until language itself speaks.”29 Sounding initially much like
+Heidegger, Adorno quickly establishes the distance between them by
+arguing that for him, the great poem contains a reconciliation of self
+and language, whereas for Heidegger, it is the manifestation of the
+sacriﬁce of the self to Being: “The moment of selﬂessness in which the
+subject submerges into language is not its sacriﬁce to Being. It is not
+that of violence, not even of violence against the subject, but that of
+reconciliation: language only speaks once it no longer speaks as alien
+to the subject, but rather as its own voice” (57).
+    The objective moment of art that we experience once our precon-
+ceived notions of it have been suspended Adorno deﬁnes as the truth
+of history. Schiller had also argued that artworks preserve the mem-
+ory of humankind. For him, they are reminders of man’s potential to
+achieve the outstanding, whereas for Adorno, they transmit to later
+generations the story of suffering. Just like man’s own history, the his-
+tory of art is one of anguish and afﬂiction. Therefore, the character
+of all great art is that of darkness, joylessness, and dissonance. These
+moments are constant in the history of art, not speciﬁc to any histori-
+cal period. The history of art cannot be written as a withdrawal of the
+harmonious and its replacement by dissonance. Nor is dissonance a
+musical phenomenon only. Rather, it is that which disrupts the seem-
+ingly harmonious totality of all great art and, thus, allows the antag-
+onistic forces contained therein to become visible. In Michelangelo,
+Rembrandt, or the late Beethoven, dissonance triumphs over harmony
+(168). Art gives expression to suffering; it does not transmit joy. As the
+truth of existence is pain, art must be true to it: “Expression of art is
+mimetic as the expression of all creatures is torment” (169).
+    Given this painful nature of art, no encounter with it can be charac-
+terized by pleasure. To understand art means to shun all pretensions
+to the delight that it might give. Whoever avers to get joy from a work
+of art makes himself known as an ignoramus. Moreover, for Adorno, it
+is an ethical imperative not to enjoy art if one does not want to aid the
+powers that be: “In the false world all ¡don is false” (26). Admiration
+for the truth of a great work takes the place of pleasure.
+
+Adorno’s aesthetic theory privileges art from the mid–eighteenth
+century onward, and he even tends to make modernist works
+
+[p. 210] [PDF page 230]
+
+210                 Part III. Renewing the Paradigms
+
+paradigmatic. This leads to the problem that modernist form exper-
+iments, such as dissonance, rupture, and hermetic communication
+structures, are projected backward onto works with a different genesis
+and appeal. It can certainly be a matter of debate if such retrospective
+interpretation yields aesthetically interesting results, partly because
+Adorno himself limits himself to a minimum of examples in his con-
+crete analyses and returns time and again to the late Beethoven as his
+main proof. There can be little doubt, however, about the inadequacy
+of this theory to comprehend preautonomous art. Adorno’s categories
+become absurd when he claims: “The autonomous Beethoven is more
+metaphysical than Bach’s ordo, hence more true.”30 If the truth of art
+depends on how well its form captures the antagonisms of society, and
+Adorno attributes to Bach the capability to do just this in an exemplary
+fashion,31 then this valuation lacks all basis and calls into question the
+usage of “truth.”
+   In addition, from Adorno’s favoring of modernist art emerges a
+doubtful tendency to be prescriptive regarding contemporary aes-
+thetic production. In an apodictic manner, Adorno declares all repre-
+sentative painting to be an impossibility and states that only nonﬁgu-
+rative art can resist society’s efforts at integration. Even a portrait of
+Che Guevara is more acceptable to the establishment than any abstract
+canvas (316). Not only is such a statement at best problematic,32 but
+Adorno also contradicts himself when he declares that absolute paint-
+ing is always in danger of becoming harmless and indistinguishable
+from wallpaper (51). Still, he insists that today’s art must be abstract
+because it must mirror societal relations that have become abstract
+themselves.
+   These lapses in judgment and self-contradictions indicate that there
+is a tendency in Adorno to let the theory dominate the actual aes-
+thetic experience. Oftentimes, preconceived notions of art’s nature
+and proper function seem to determine the interpretation of the work
+itself. Under such conditions, however, it is hard to uphold the claim
+that art possesses a truth that philosophy cannot grasp on its own.
+Rather, the already established philosophical position seems repeat-
+edly to determine what kind of truth art is expected to reveal.33
+   Adorno aims to renew Schelling’s aesthetic theory, but in the course
+of the adaptation of this paradigm to his own philosophical framework,
+he reduces it to a dark shadow of its former self. After he has reduced
+
+[p. 211] [PDF page 231]
+
+Adorno                              211
+
+the practical function of art to that of saying “No” to the status quo,
+Adorno also restricts the epistemic role of art. Despite his insistence
+that art discloses a truth that escapes the philosophical concept, this
+truth, too, is restricted to negation. Art’s only positive moment is its
+nonparticipation in anything negative, that is, its abstention from all
+practice. Its promesse de bonheur is not to tire of saying that things as
+they are now are not to be like this. Art’s truth is dark; it has none
+of the features of fulﬁllment that Schelling’s Neoplatonic encounter
+with the absolute had contained. Even the anticipation of a reconciled
+society is burdened by the thought that art will disappear once such
+a society becomes reality. At the beginning of the nineteenth century,
+truth, art, and joy were linked in Schelling’s aesthetic paradigm; by the
+middle of the twentieth century, Adorno’s reworking of this paradigm
+interdicts all pleasure, except the cognitive pleasure of knowing the
+truth about society, restricted to those few capable of deciphering art’s
+dark message.
+
+
+=== Conclusion ===
+
+[p. 213] [PDF page 233]
+
+Conclusion
+
+
+
+
+Our narrative of the German aesthetic tradition has reached the
+present. Yet we have come to no conclusion, if by conclusion we mean
+closure, the end of an intentional development and a telos to be
+reached. We end our story, because to continue it would mean to
+step into the realm of prediction. Hegel is right when he says that phi-
+losophy awakens only at the end of a day to look back, to wonder, to
+sort out, and to ﬁnd a logic in events that escape the immediacy of the
+present.
+   The current stage of aesthetics is one of revivalism. Yet while all
+of the twentieth-century aesthetic positions revived previous notions,
+there was hardly a time when almost all paradigmatic theories were
+taken up simultaneously. Today, however, some philosophers return to
+Baumgarten in order to replace aesthetics as a philosophy of art with
+the original notion of aesthetics as sense perception. Those, for exam-
+ple, who champion an ecological aesthetics argue for such a shift in
+the conception of aesthetics as a discipline. Others aim to restrict the
+notion of aesthetics to art, yet warn of a philosophical overburdening
+of art. These thinkers see the post-Kantian development in aesthetics
+as a wrong turn toward the cognitive. For them, to place demands
+upon art, like to grant access to the absolute and to contain truth un-
+available through philosophy, does art no favor. Rather, art needs to be
+freed from the heterogeneous claims that philosophy heaps upon it.
+Still others take the opposite stance and celebrate the early romantic
+philosophers for being the ones to challenge the coherence theory
+
+                                  213
+
+[p. 214] [PDF page 234]
+
+214                             Conclusion
+
+of truth from an aesthetic perspective. Art, however, retains its con-
+nection to cognition rather emphatically in this view. A fourth group
+focuses on Hegel’s pronouncement regarding the end of art and de-
+duces that art has now reached the stage where it no longer is under
+any obligations with regard to period style, medium, subject matter,
+and so forth and has therefore ﬁnally reached a stage of a joyous any-
+thing goes. Finally, the anti-idealism of Nietzsche especially is renewed
+in much poststructuralist thought. Foucault’s notion of aesthetics, as
+well as that of his German and American followers, revives the attempt
+to broaden aesthetics to enable it to give answers to traditional philo-
+sophical enigmas like self-consciousness, cognition, and the nature of
+the polity.
+   Some questions emerge when we consider the multiplicity of posi-
+tions, all attempting to continue aesthetic philosophy. First, it seems
+that one needs to determine if aesthetics is to deal predominantly
+or even exclusively with art – and generally, that means the great
+works of art from the tradition – or if aesthetics should be regarded
+as an inquiry into sense perception. In the second case, aesthetics
+can continue to deal with art but is by no means restricted to it. All
+other cultural products – television, movies, fashion, diets, design, pop
+music, and so on – as well as nature itself are as good or better as objects
+of analysis than great artworks. In consequence, empirical psychology,
+anthropology, sociology, cultural studies, and other ﬁelds could be
+incorporated into aesthetics. In fact, aesthetics would largely cease to
+be a philosophical discipline. While this prospect might be of interest
+to some, even to some philosophers, it tends to sell out philosophical
+thought to current cultural trends.
+   Or, to take the opposite view, is aesthetics still to become truly au-
+tonomous and shed the guidance of philosophy? Maybe the experi-
+ence of art – and this position presupposes a restriction of aesthet-
+ics to art, because no other product can be truly autonomous – can
+only fully unfold once it has freed itself from all philosophical expec-
+tations as well. This would mean to leave the question regarding the
+absolute to metaphysics, the question regarding truth to epistemology,
+the question regarding the foundations of a community to practical
+politics, and hence, to leave art to itself at last. Yet it is difﬁcult to
+see what would remain to be said for philosophical aesthetics once
+
+[p. 215] [PDF page 235]
+
+Conclusion                            215
+
+it had described the experience of art. Is an elaboration on Kant’s
+subjective aesthetics all that remains to be accomplished? Would not
+true aesthetic autonomy even mean to eventually leave all philosophi-
+cal reﬂection behind? Would not philosophy ultimately be condemned
+to silent admiration only?
+    When two alternatives seem equally unattractive, it could be that the
+question to which these positions give answer is wrong. Both aesthetics,
+the one that wants to return to Baumgarten’s theory of sense percep-
+tion and the one that aims to grant true autonomy to the aesthetic
+experience for the ﬁrst time, regard the autonomy of art as a given.
+Yet it might be that the multifaceted and somewhat confused state of
+contemporary aesthetics is due to the fact that the era of autonomous
+art has ended, motivating especially the turn away from art to sense
+perception in aesthetics. Not to be misunderstood, certainly art has by
+no means lost its present autonomy. But it can hardly be doubted that
+art neither accepts nor experiences any restrictions at all these days. It
+can choose to be political if it wants, but it can equally well opt not to
+be. It can quote historical styles, yet it can also aim to be original and
+free from citations. Such freedom of art, however, seems problematic,
+both for art itself and for its philosophical reﬂection. For the artists
+themselves, Thomas Mann has expressed this difﬁculty in his novel
+Doktor Faustus. The dilemma of his protagonist Adrian Leverkühn is
+precisely that art no longer belongs anywhere, yet it cannot overcome
+its longing to belong. In order to create nevertheless, Leverkühn
+sells his soul to the devil. In the end, though, no saving grace in-
+terferes with his fate; death overcomes life and renders the works
+meaningless.
+    If this is the plight of art today, it should not be a surprise to ﬁnd
+aesthetics in the contradictory state it is in. Philosophical aesthetics
+can only ﬁnd its function when art itself has found its role beyond
+autonomy once more. Yet this role cannot be prescribed by politics,
+philosophy, or theology. Art can only give up its freedom of its own
+free will. That art encounters no invitations from anywhere to sacriﬁce
+its autonomy, however, is a sad fact to acknowledge. An art, though,
+that would tie itself to something other than itself, to something that
+merits the sacriﬁce of autonomy, would under one perspective look
+a lot like that romantic art that Hegel had considered as overcome
+
+[p. 216] [PDF page 236]
+
+216                           Conclusion
+
+by religion and eventually by philosophy. Rather than being a Kunstre-
+ligion in which the gods and their sculptural representation collapse
+into one, the notion of romantic art rests on art’s acknowledgment of
+a metaphysical truth that lies beyond its own sphere, but to which it is
+nevertheless obliged, because it has its very foundation in this ground.
+Such a conception still seems to be a realistic option today, but its
+possibility must be elucidated elsewhere.
+
+
+=== Notes to Chapter 10 ===
+
+[p. 241] [PDF page 261]
+
+Chapter 10. Adorno
+
+1    The reception of his aesthetic theory follows him along this path. Peter
+     Uwe Hohendahl writes on p. 197 of his book Prismatic Thought: Theodor
+     W. Adorno (Lincoln: University of Nebraska Press, 1990): “Adorno’s the-
+     ory of the artwork openly and explicity harks back to German idealism,
+     especially to the theories of Kant and Hegel.” While this is certainly true,
+     the Romantics, primarily Schelling, are of at least equal importance, al-
+     though the latter is never even mentioned by Hohendahl. And while
+     Christoph Menke on p. 249 of his study The Sovereignity of Art: Aesthetic
+     Negativity in Adorno and Derrida (Cambridge, Mass.: MIT Press, 1998) ac-
+     knowledges “remnants of the romantic model,” he, too, prefers to play
+     them down in order to emphasize Adorno’s self-reﬂexive position that
+     is aware of the dangers of the aesthetic experience of negativity “for the
+     interplay of the dimensions of reason.” Since this book is available in
+     English translation, I quote the translation here and further down the
+     German original.
+2    Negative Dialektik, 9th ed. (Frankfurt am Main: Suhrkamp, 1997), pp. 19 f.
+3    See also R. Bubner, “Adornos Negative Dialektik,” in J. Habermas and
+     L. von Friedeburg, eds., Adorno-Konferenz 1983 (Frankfurt am Main:
+     Suhrkamp, 1983), pp. 35–40.
+4    “Der Essay als Form,” in Noten zur Literatur, 7th ed. (Frankfurt am Main:
+     Suhrkampt, 1998), pp. 9–33. For some other parallels between Adorno
+
+[p. 242] [PDF page 262]
+
+and early Romanticism, especially in regard to the theory of subjec-
+      tivity, see Jochen Hörisch’s article “Herrscherwort, Geld und geltende
+      Sätze: Adornos Aktualisierung der Frühromantik und ihre Afﬁnität zur
+      poststrukturalistischen Kritik des Subjekts,” in Burkhard Lindner and
+      W. Martin Lüdke, eds., Konstruktion der Moderne: Materialien zur ästhetischen
+      Theorie Theodor W. Adornos (Frankfurt am Main: Suhrkamp, 1980), pp.
+      397–414.
+ 5    Max Horkheimer, “Traditionelle und kritische Theorie,” in Tradi-
+      tionelle und kritische Theorie: Fünf Aufsätze (Frankfurt am Main: Fischer,
+      1992).
+ 6    Rüdiger Bubner, “Kann Theorie ästhetisch werden? Zum Hauptmotiv
+      der Philosophie Adornos,” in Konstruktion der Moderne, pp. 108–37. Quo-
+      tation is on p. 114.
+ 7    Max Horkheimer and Theodor W. Adorno, Dialektik der Aufklärung
+      (Frankfurt am Main: Fischer, 1971), p. 2.
+ 8    See Christoph Menke-Eggers, Die Souveränität der Kunst: Ästhetische
+      Erfahrung nach Adorno und Derrida (Frankfurt am Main: Atheäum, 1988),
+      p. 12: “The concept of aesthetic negativity is the key to understanding
+      the double function of modern art for Adorno: It is aesthetic discourse
+      next to other discourses and simultaneously a subversion of the reason
+      of all discourses.” Menke-Eggers does not see the basic duplicity of art
+      in its nature as both autonomous and socially determined, but rather
+      in the tension between modern artistic autonomy pari passu with other
+      discourses and Romantic aesthetic superiority over all expressions of ra-
+      tionality.
+ 9    Walter Benjamin, Gesammelte Schriften I, Book 2 (Frankfurt am Main:
+      Suhrkamp, 1991). I am quoting from the third version of the essay, pp.
+      471–508. Quotations are on pp. 479 ff.
+10    Jürgen Habermas, “Zwischen Kunst und Politik: Eine Auseinanderset-
+      zung mit Walter Benjamin,” Merkur 9 (1972): 856–69. Reference is on
+      p. 858.
+11    Ibid., p. 859.
+12    “Résumé über Kulturindustrie,” in Ohne Leitbild. Gesammelte Schriften 10,
+      Book 1 (Frankfurt am Main: Suhrkamp, 1977), pp. 337–45. Reference is
+      on p. 338. Compare also Dialektik der Aufklärung, p. 108.
+13    Dialektik der Aufklärung, p. 130.
+14    “Über den Fetischcharakter in der Musik,” in Dissonanzen, in Gesammelte
+      Schriften 14 (Frankfurt am Main: Suhrkamp, 1991) pp. 14–50. Quotation
+      is on p. 34.
+15    “Résumé über Kulturindustrie,” p. 345.
+16    “Zeitlose Mode: Zum Jazz” in Prismen, in Gesammelte Schriften 10, Book 1,
+      pp. 123–37.
+
+[p. 243] [PDF page 263]
+
+17   Wolfgang Sandner, in his article “Popularmusik als somatisches Stim-
+     ulans: Adornos Kritik der ‘leichten Musik,’ ” argues convincingly that
+     Adorno has a rather simpliﬁed notion of jazz music and uses the term
+     oftentimes to refer to commercial dance hall music. In Otto Kolleritsch,
+     ed., Adorno und die Musik (Graz: Universal Edition, 1979), pp. 125–32.
+18   Ästhetische Theorie (Frankfurt am Main: Suhrkamp, 1992), p. 16.
+19   Philosophie der neuen Musik (Frankfurt am Main: Suhrkamp, 1991), p. 37.
+20   See also Karol Sauerland, Einführung in die Ästhetik Adornos (Berlin and
+     New York: de Gruyter, 1979), pp. 54 ff.
+21   “Die Kunst und die Künste,” in Ohne Leitbild, Parva Aesthetica, Gesammelte
+     Schriften 10 , Book 1, pp. 432–49. Quotation is on p. 450.
+22   Josef Früchtl’s dissertation Mimesis: Konstellation eines Zentralbegriffs bei
+     Adorno traces the many implications of this concept in Adorno’s phi-
+     losophy. A good overview of the complexity of this notion is provided
+     by the graphic representation on p. 276. (Würzburg: Könighausen und
+     Neumann, 1986).
+23   Negative Dialektik, p. 387.
+24   Compare Negative Dialektik, p. 25.
+25   “Wahrheit, Schein, Versöhnung: Adornos ästhetische Rettung der Mod-
+     erne,” in Adorno-Konferenz 1983, pp. 138–76. Quotation is on p. 143.
+26   See also Günter Figal’s dissertation, Theodor W. Adorno: Das Naturschöne
+     als spekulative Gedankenﬁgur (Bonn: Bouvier, 1977).
+27   Minima Moralia: Reﬂexionen aus dem beschädigten Leben, 20th ed. (Frankfurt
+     am Main: Suhrkamp, 1991), p. 299.
+28   Ibid., p. 298.
+29   “Rede über Lyrik und Gesellschaft,” Noten zur Literatur, pp. 49–68.
+     Quotation is on p. 56.
+30   Negative Dialektik, p. 389. Adorno repeats the statement in Ästhetische Theo-
+     rie, p. 317.
+31   “Bach gegen seine Liebhaber verteidigt,” in Prismen, in Gesammelte
+     Schriften 10, Book 1, pp. 138–51.
+32   See also Rolf Wiggershaus, 2d ed., Adorno (Munich: Beck, 1998), p. 121.
+33   See also Rüdiger Bubner, “Kann Theorie ästhetisch werden? Zum Haupt-
+     motiv der Philosophie Adornos,” p. 129.

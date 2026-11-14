@@ -1,0 +1,1163 @@
+The German Aesthetic Tradition
+Kai Hammermeister | Cambridge University Press, 2002
+
+Chapter 1: Baumgarten, Mendelssohn
+Print pages 3–20; PDF pages 23–40
+
+
+=== Preface ===
+
+[p. ix] [PDF page 11]
+
+Preface
+
+
+
+
+The questions regarding art and beauty are as old as philosophy itself,
+or older, considering that Homer, Hesiod, and Pindar already reﬂect
+on the role and particular gifts of the poet. Yet for the longest time,
+art and beauty have been treated separately for the most part. The two
+notions were generally discussed in the context of other philosophical
+issues in which art and beauty played only a subordinate role. Philo-
+sophically, beauty more often than not was treated in the context of
+metaphysics, be it for Plato, Plotinus, or Thomas Aquinas. The concept
+of art, on the other hand, underwent a long series of permutations that
+have by no means reached an end. The tendency was for the concept of
+art to become narrower and to exclude more and more activities and
+products. Crafts, trades, and skills were originally all included in the
+concept of art, understood as tcnh and ars; the equation of art with
+the ﬁne arts was a very late development.
+   No art, whether as practical know-how or as a member of the ﬁne arts
+family, was ever considered autonomous before Kant. Art was imbed-
+ded in a social, pedagogical, theological, or merely economic program
+that regulated its production. Not until the eighteenth century were
+the questions regarding art’s epistemological and practical value, and
+about the nature of the work of art and of beauty, integrated into
+a systematic, independent philosophical discipline that then became
+known as aesthetics. Before this time, the term “aesthetics,” derived
+from the Greek aisthesis, meaning perception, had referred to the
+philosophical theory of sense perception. Baumgarten and Kant both
+
+                                   ix
+
+[p. x] [PDF page 12]
+
+x                                  Preface
+
+still use it in this sense, although Kant adopts the new meaning of the
+term between the ﬁrst and the third Critique, that is, between 1781
+and 1790. Taking up some British and French ideas from Hutcheson,
+Shaftesbury, Burke, Dubos, and others, as well as from rationalist
+metaphysics, a unique philosophical discipline emerged in Germany
+around the middle of the eighteenth century. This book tells the story
+of the emergence and the subsequent development of aesthetic phi-
+losophy in Germany.
+    Philosophical aesthetics was not only born in Germany; the devel-
+opment of this discipline is also a predominantly Germanic affair for
+two speciﬁc reasons. First, the German aesthetic tradition is resistant
+to outside inﬂuences to an unusually high degree. The writers who
+belong to this tradition respond to one another without introducing
+ideas adopted from contemporary discussions in other languages, the
+standard references to antiquity notwithstanding. Second, while the
+German tradition of philosophical aesthetics is self-sufﬁcient, philoso-
+phers outside this discourse respond to German concepts without
+themselves having a signiﬁcant inﬂuence in shaping the tradition.
+Thus, Dewey, Sartre, Croce, Satayana, Danto, Langer, and Ricoeur, to
+select a random few, all take up concepts developed within the German
+context of aesthetics. Philosophy of art in the nineteenth and twentieth
+centuries written in Britain, France, Italy, the United States, and else-
+where constantly has recourse to the German tradition. In short, philo-
+sophical aesthetics as a discipline is thoroughly grounded in German
+thought and, hence, cannot be understood without a detailed knowl-
+edge of this tradition.
+    This book is true to its title insofar as it tells the story of the
+German aesthetic tradition. Yet, its title is not entirely true to its subject.
+Properly, the book would have had to be called The Germanic Aesthetic
+Tradition. As a glance at the table of contents will make evident, not
+all of the authors discussed herein are German. In fact, some have not
+even written in German. In three cases, the extension from German
+to Germanic is especially in order. First, Søren Kierkegaard is a Danish
+philosopher who wrote his books in Danish. Even though Danish is a
+Germanic language, other characteristics of his work not only justify his
+inclusion but make it a necessity. Kierkegaard developed his thought
+in opposition to the tradition of German idealism, primarily the ob-
+jective idealism of G. W. F. Hegel. Much of what Kierkegaard writes
+
+[p. xi] [PDF page 13]
+
+Preface                                xi
+
+is directed against the systematic philosophy of the eminent Berlin
+thinker. This holds true as well for his aesthetics: Kierkegaard’s con-
+ception of this philosophical discipline is a direct challenge to Hegel’s
+position. Without Kierkegaard’s speciﬁc contribution to aesthetics that
+later becomes important to Heidegger, Adorno, and Lukács, the nar-
+rative of the German aesthetic tradition would be incomplete.
+   The second case concerns Georg Lukács, who was a Hungarian cit-
+izen and wrote both in German and in Hungarian. Although his early
+essays on aesthetic questions were written in Hungarian, Lukács was
+educated in Germany, lived there, and took classical German philoso-
+phy as his frame of reference.
+   Since I read neither Danish nor Hungarian, I rely on existing
+translations of the works of Kierkegaard and Lukács into English. All
+other translations from all other languages are mine; in the case of
+Baumgarten’s writings, I translated from the Latin into English, con-
+sulting a German edition where appropriate.
+   The third case concerns both Ernst Cassirer and Herbert Marcuse,
+both of whom were German expatriates. Marcuse became an Ameri-
+can citizen and published a good number of his books and essays in
+English. Still, his work is connected to the Frankfurt School and takes
+up the traditions of German idealism, Marxism, and Freudian psycho-
+analysis. Where his texts have ﬁrst appeared in English, I naturally
+quote these editions. Where Marcuse himself or his wife translated
+(and often edited) from original German publications into English,
+I take this to be the authorized translation and quote from it.
+Cassirer happened to write down most of his aesthetic philosophy late
+in life during his years in exile. Hence, some of his most important
+pronouncements on this subject were written in English, either in the
+context of an introduction of his philosophy to an English-speaking
+readership or as classroom lectures.
+   This book on the German aesthetic tradition serves several pur-
+poses. First, it introduces the major positions in German philosophical
+aesthetics and elucidates their interdependence and their attempts at
+overcoming and renewing previous positions. Second, the book intro-
+duces the important ﬁgures of this tradition, not merely as a collection
+of isolated portraits but in the context of a historical narrative. Hence,
+the grouping of the individual thinkers under the rubrics of The
+Age of Paradigms, Challenging the Paradigms, and Renewing the
+
+[p. xii] [PDF page 14]
+
+xii                               Preface
+
+Paradigms indicates their belonging to larger historical movements.
+Third, the book gives expression to the conviction that the history of
+philosophy cannot be separated from systematic philosophy. History
+only comes into view when questions of problems, concerns, and philo-
+sophical interests are raised, and these interests must naturally be those
+of our own age. This hermeneutic principle forbids the claim that our
+narrative exhausts the historical material. No single narrative can ever
+accomplish such a feat. On the other hand, the same hermeneutic
+grounding demands that our engagement with historical philosophi-
+cal texts be motivated by questions that concern us today. What is of
+merely historical interest is of no interest at all.
+   This book also argues that there is an internal logic to the narra-
+tive that unfolds. The examined positions in philosophical aesthetics
+do not simply follow one another; they adhere to a larger pattern
+that becomes clear in retrospect. In short, the thesis of this book is
+that paradigmatic positions in aesthetic philosophy were established
+during the period of German idealism and romanticism, that these
+paradigmatic positions were subsequently challenged by writers in the
+nineteenth century, and that in the twentieth century all the positions
+were renewed precisely in the order in which they ﬁrst emerged. This
+last fact, and I take it to be a fact, still allows for a number of possible
+conclusions to be drawn. These can be aligned along a spectrum of
+which the two extreme positions would be the following. On the one
+side, the weakest version of this stance argues for a simple coincidence
+in the historical pattern by claiming that the positions of idealism and
+romanticism are so rich and varied that they attract new interest after a
+period of challenges and attempts to dismantle them. Nevertheless, the
+renewal of the paradigmatic positions could have started as well with
+Hegel, then moved to Kant and progressed to Schelling from there.
+That the original order – Kant–Schiller–Schelling–Hegel – held up
+in the twentieth-century revival is seen as more or less a convenient
+pattern for organizational purposes, but hardly an essential feature.
+On the other side of the spectrum, though, we ﬁnd a strong stance
+that might be called hard-core Hegelianism. In this view, the idealist
+positions are challenged, only to be amended and elevated later to a
+higher level. True to the dialectical model, this view does not regard
+the historical pattern as a coincidence but, rather, as the display of
+logic and hence of necessity in history.
+
+[p. xiii] [PDF page 15]
+
+Preface                               xiii
+
+   Both positions are plausible, and good arguments can be advanced
+against both of them as well. It is less important to subscribe to either
+than to acknowledge a historical pattern in the ﬁrst place. To attempt
+an explanation of this pattern would bring us into the ﬁeld of the
+philosophy of history and, hence, further away from our subject than
+we might like. It is not our aim to venture into this other philosophical
+discipline, let alone the prima philosophia, namely metaphysics, which is
+very likely to enter into this discussion as well. But to write intellectual
+history means to narrate a story and, hence, to believe in a beginning,
+a middle, and an end. The assembling of facts or the portrayal of a
+number of individual thinkers is not yet historiography, but merely
+the preparation for it. To stop at this point means to have failed as a
+historian of philosophy.
+   In the present context, it is unnecessary to abstract from the ma-
+terial at hand, that is, the aesthetic discourse, in order to examine
+overarching patterns of the movement of thought. Instead, the ma-
+terial must speak for itself. I did not write this study with a theory of
+history in mind to which the material was meant to conform. Rather, a
+pattern emerged as I read and reread the texts in a historical sequence.
+All I ask of the reader for now is to pay some attention to the striking
+historical parallels and the repetition of questions and approaches in
+different ages. And while my thesis of the patterned progression of
+Germanic aesthetics might not be in sync with the spirit of our times –
+in fact, it probably runs against its current – the book can be read
+without subscribing to any such narrative. Before I establish historical
+inﬂuences and similarities, I take each thinker on his own terms. Most
+of the space in every chapter is devoted to the detailed discussion of
+the aesthetic theory of one or more philosophers. Hence, all chapters
+can be read independently, in reverse order, or selectively. But to say
+it again: What makes this study a book, rather than a collection of
+portraits, is its narrative.
+   It could be argued against our narrative of an inner logic in the
+history of German aesthetic thought that it is achieved at the cost
+of eliminating those contributions to aesthetics that do not ﬁt the
+scheme. I do not believe, however, that this charge can be substanti-
+ated. Certainly there are omissions: Little if any reference is made to
+the writings of Marx and Engels, Freud, and the artists’ aesthetics of
+J. W. Goethe, Jean Paul, R. Wagner, W. Kandinsky, and P. Klee, to name
+
+[p. xiv] [PDF page 16]
+
+xiv                              Preface
+
+only some. Still, I hold that an inclusion of these writers would not
+have changed the historical pattern signiﬁcantly. They were omitted
+not because their writings would disturb or overturn the presented nar-
+rative but for two very different reasons. The ﬁrst is that these writers
+themselves did not situate themselves within the tradition of German
+philosophical aesthetics. Generally speaking, one joins a philosophical
+discourse – at least in the continental tradition – when one responds
+to problems previously unsolved or inadequately solved by referring
+to writings of other philosophers and by continuing or challenging a
+certain vocabulary. In respect to philosophical aesthetics, this gesture
+of joining the discourse is hardly present in any of the omitted writ-
+ers. The second reason for the omission of these thinkers is that their
+writings on art generally do not advance a position that answers to the
+basic questions and concerns of the aesthetic tradition. Rather, one
+aspect from which to view art is singled out and made the sole focus
+of the writer’s contribution. This is not to say that these texts can be
+neglected in our philosophical inquiry into questions of art, beauty,
+ugliness, and so on. Quite the contrary is true, since much originality
+can be found in these books and essays. And still, all of them fail to res-
+pond to some concerns that are central to philosophical aesthetics, for
+example, the arguments for or against a practical and epistemic value
+of art, the inclusion or exclusion of nature in philosophical aesthe-
+tics, and the relation of aesthetics to other philosophical disciplines.
+In the end, the omissions were not mine. The tradition of philosophi-
+cal aesthetics itself selects those who belong. In this process, the votes
+of those who opt out of that tradition count most.
+   To facilitate the comparisons among the many different writers in
+the German aesthetic tradition, we will consider their contributions
+under three speciﬁc aspects, although our discussion will nowhere
+be limited to these moments. The ﬁrst is the philosopher’s ontolog-
+ical discussion of art, the second the epistemic role attributed to art
+and beauty, and the third the practical function the writer locates in
+artworks. While many other aspects of aesthetics will demand our at-
+tention in addition to these factors, they nevertheless serve well as prin-
+ciples of comparison. To be sure, the selection of these criteria does
+not imply that all aesthetic philosophy must answer these questions.
+Rather, I isolated only those issues in the history of the philosophy of
+art and beauty that were addressed by thinkers time and again. Not all
+
+[p. xv] [PDF page 17]
+
+Preface                               xv
+
+philosophers were interested in all of them, and the fact that all of them
+were discussed by one thinker or another does not make for a better
+or more complete aesthetic philosophy at all. Yet the comparison of
+many varied approaches to the same discipline becomes much easier
+if we focus on a few characteristic features. This procedure might have
+a certain artiﬁciality, but I hope that it will facilitate the comprehen-
+sion of aesthetics as a historical process in which similar questions ﬁnd
+similar or radically different answers, or in which certain questions are
+dismissed, ignored, or forgotten. Historiography depends on compa-
+rability, and comparability rests on the identiﬁcation of elements that
+are neither unchangeable nor radically unstable.
+
+Many friends and colleagues took time to read the manuscript or parts
+of it. All of them offered helpful comments, although I could not
+incorporate every single one. Among those with whom I discussed the
+manuscript in its entirety or in parts, I would like to thank especially
+Bernd Fischer, John Davidson, and Paul Reitter. My student Benjamin
+Beebe helped greatly with the editing process of the last draft of the
+book. An anonymous reader for Cambridge University Press offered
+helpful suggestions. As always, my ﬁrst reader was Matt Crosby. His
+presence is the most important reminder for me that art, despite its
+inexhaustible richness, cannot ﬁll a life. To him this book is dedicated.
+   This study was written in Columbus, Ohio, the Black Forest, and
+New York City. To dwell in these places while working with the great
+texts from the German aesthetic tradition brought home once more
+the relevance of philosophical aesthetics to the understanding of both
+the beauty of art and nature and the ugliness that is thrust to the
+foreground in modernist art and the cityscape of Manhattan. The
+advantage of life in a metropolis, however, is that our large cities allow
+for multiple encounters with a wide spectrum of great art that force
+philosophical aesthetics into the background and remind us that it is
+of secondary status only. What comes ﬁrst and foremost are the works
+of art themselves.
+
+February 2002
+
+
+=== Chapter text ===
+
+[p. 3] [PDF page 23]
+
+1
+
+                 Baumgarten, Mendelssohn
+
+
+
+
+                        Alexander Baumgarten
+Immanuel Kant’s (1724–1804) towering presence at the end of the
+eighteenth century tends to throw a shadow backward in history, eclips-
+ing many of the less forceful and original thinkers. The situation is no
+different in philosophical aesthetics. Although Kant’s 1790 Critique of
+Judgment – unlike the 1781 Critique of Pure Reason that received little
+friendly attention until Reinhold’s Briefe über die Kantische Philosophie
+(Letters on the Kantian philosophy) of 1786–71 – created a fanfare on
+the philosophical scene (some slight delay in reception notwithstand-
+ing), it did not emerge from out of the blue. Kant had already reacted
+against previous, albeit more modest attempts to ground a philosoph-
+ical aesthetics – attempts, however, that ultimately failed to establish
+an aesthetic paradigm to serve as a starting point for productive elab-
+orations or dissent for future generations.
+   The pre-Kantian philosophical aesthetics were not meant to be a
+break with the dominant philosophical system, namely, that of Leibniz
+and Wolff. Instead, they should be considered elaborations of it that
+nolens, volens helped to undermine the foundations that they labored to
+strengthen.2 When Alexander Baumgarten (1714–1762) introduced
+the plan for aesthetics as a new philosophical discipline with its own
+name, he did so in order to prop up the traditional rationalist meta-
+physics by making it more encompassing. Yet Baumgarten’s attempt
+to consolidate rationalism turned, under his hands, into a critical
+
+
+                                    3
+
+[p. 4] [PDF page 24]
+
+4                      Part I. The Age of Paradigms
+
+endeavor. Aesthetics, intended to be an extension of a rationalist
+worldview, became more and more independent, until ﬁnally the
+rationalist metaphysics were discredited and aesthetics remained be-
+hind as a survivor. Therefore, in order to understand Baumgarten’s
+and Mendelssohn’s projects, it is necessary to brieﬂy outline that philo-
+sophical system that they adhered to and planned to amend by their
+writings on aesthetics.
+   In 1735, the young Alexander Baumgarten published his Medita-
+tiones philosophicae de nonullis ad poema pertinentibus (Philosophical med-
+itations on some requirements of the poem), which appeared in Latin,
+as did almost all of his writings, and in which he identiﬁed a theory
+of sensibility labeled aesthetics as a desideratum. Here we ﬁnd for the
+ﬁrst time in the history of philosophy the notion of aesthetics as an in-
+dependent philosophical discipline. Yet the meaning of the term is far
+from our understanding of aesthetics as a philosophical investigation
+of art and a theory of beauty and ugliness. Baumgarten’s aesthetics
+refers to a theory of sensibility as a gnoseological faculty, that is, a
+faculty that produces a certain type of knowledge. Aesthetics is taken
+very literally as a defense of the relevance of sensual perception. Philo-
+sophical aesthetics originated as advocacy of sensibility, not as a theory
+of art. Yet without a positive valuation of the senses and their objects,
+art could not have achieved philosophical dignity but would have re-
+mained with the lesser ontological status that traditional metaphysics
+had assigned to it, compared to rationality.
+   The aesthetics of Baumgarten and Mendelssohn can be considered
+an undertaking to claim epistemological relevance for sensual per-
+ception. This was no small task, since Descartes (1596–1650) had just
+renewed the Platonic devaluation of the objects of the senses in favor of
+a rationality cleansed of sensibility.3 The Cartesian mathematization
+and rationalization of cognition entailed a certain impoverishment
+of reality by excluding the evidence of sensual perception that could
+not be elevated to a general principle. Descartes had explained his
+rejection of aesthetic cognition by claiming that it consists of value
+judgments that are not methodical but merely subjective. Sensibility’s
+epistemic force was considered weak after Descartes, although Leibniz
+(1646–1716) took the ﬁrst step away from purely mathematical cogni-
+tion. Moreover, that part of the Christian tradition that insisted on the
+mortiﬁcation of the ﬂesh was still largely unchallenged and received
+new vigor in the eighteenth century in the form of Protestant Pietism.
+
+[p. 5] [PDF page 25]
+
+Baumgarten, Mendelssohn                           5
+
+    Leibniz rested his philosophical system on a theological basis,
+namely, the assumption of the world as creatio Dei, a creation of God.
+Therefore, the world can be nothing but a well-ordered unity in which
+the structures of reality are identical with the laws of rationality, as they
+are predominantly expressed in logic, physics, and mathematics. This
+logico-ontological equivalence, as it is sometimes called, is not a simple
+mirroring of reality in cognition. Instead, Leibniz assumes a hierarchy
+of cognitive levels that range from largely unconscious perceptions to
+complete comprehension. He develops this system of cognitive differ-
+entiation in several of his writings that provide the foil for the aesthetic
+attempts of Baumgarten and Mendelssohn.4 Leibniz distinguishes on
+a ﬁrst level between cognitions that are obscure and those that are
+clear. Obscure cognitions are such that do not become fully conscious
+and of which we therefore have no concept. They are so-called petites
+perceptions, too obscure to allow for the recognition of their object.
+Leibniz mentions the noise of the ocean as an example, since we can-
+not attribute the overall noise to the breaking of the individual waves.
+Clear cognition, however, is conscious and allows for the recognition
+of the object. But clear cognition subsumes under it a whole spectrum
+of cognitive achievements that become ever more complete. The low-
+est level of clear cognition divides itself into confused and distinct
+cognitive insight. We call a cognition clear and confused if the object
+possesses a multitude of (sensible) features, but we cannot list them
+separately. We do know they exist, but we would fail in an attempt to
+list them one by one. In opposition to this level, a clear and distinct
+cognition is able to enumerate all features of the object and give a
+complete deﬁnition of it. Leibniz splits the distinct cognition again
+into adequate and inadequate, as well as into symbolic and intuitive.
+Somewhat simpliﬁed, we can take him to say that these higher levels
+of cognition are purely rational, most of them are rare achievements
+for human beings, and the very highest level, adequate and intuitive
+knowledge, is reserved for God who possesses a complete and instan-
+taneous knowledge of all features of the object.
+    What concerns us in the present context is the level of clear and
+confused cognition. If this sounds paradoxical, it is important to re-
+member that a clear cognition achieves only the recognition of an
+object, but that it does not exhaust its elements in an analytic pro-
+cedure. We are aware of the complexity of the object, although we
+cannot separate and enumerate its elements. This cognition is rich,
+
+[p. 6] [PDF page 26]
+
+6                       Part I. The Age of Paradigms
+
+multifaceted, lively, even emotionally charged. It involves responses of
+like and dislike, and Leibniz locates both art and beauty on this level of
+cognition. But aesthetic judgments necessarily have to remain unjusti-
+ﬁable statements of emotional response. In a famous pronouncement
+on art, Leibniz states: “We sometimes comprehend in a clear manner
+without any doubt whether a poem or a picture is well made or not,
+because there is an I-don’t-know-what (je ne sais quoi) that satisﬁes or
+repels us.”5 It is not only that a vague je ne sais quoi – a phrase that was to
+become very important in British eighteenth-century aesthetics, as can
+be found for example in William Hogarth’s The Analysis of Beauty in
+which several references are listed6 – is responsible for our liking or dis-
+liking of works or art; beauty in general exists solely for the incomplete
+human cognition. It is a precondition for our valuation of an object as
+beautiful to have a merely confused idea of it and to be unable to trans-
+form it into a distinct idea. Beauty therefore is a by-product of ﬂawed
+human cognition; in God’s mind beauty is absent. God’s cognition is
+instantaneous, that is, without sensible elements and, thus, devoid of
+the category of beauty. This is the point where Baumgarten’s reeval-
+uation sets in. His aim is to convince us that confusion of perception
+is not exclusively negative and privative but, rather, a unique mode of
+cognition that carries its own richness, complexity, and necessity.
+    As we have seen, Baumgarten is the philosopher who in the middle
+of the eighteenth century begins to advocate aesthetics as a new philo-
+sophical discipline and who coins the name that soon was to designate
+it as an independent ﬁeld of inquiry. After Baumgarten concluded
+his treatise on the philosophical requirements of the poem with the
+call for aesthetics, he continued to lay the groundwork for his pub-
+lications on aesthetics of the 1750s. In his book on metaphysics of
+1739, he devotes a noticeable amount of attention to what he calls
+sensual or aesthetic cognition, and he also takes up this cause in a
+series of letters published as a kind of philosophical journal under
+the title Aletheophilus (Friend of the truth). In 1742, Baumgarten be-
+came the ﬁrst philosophical teacher ever to lecture on aesthetics, and
+out of these academic courses grew his two-volume Aesthetica of 1750
+and 1758. Partly because these publications were written in somewhat
+forbidding Latin, his direct inﬂuence on contemporary philosophy
+and literary theory remained limited. Indirectly, however, his ideas
+soon acquired a certain inﬂuence. This was due to a publication of
+Baumgarten’s student G. F. Meier, who in 1748 printed his German
+
+[p. 7] [PDF page 27]
+
+Baumgarten, Mendelssohn                            7
+
+treatise Anfangsgründe aller schönen Wissenschaften (Foundations of all
+liberal arts) that was based largely on his teacher’s lectures and quickly
+popularized Baumgarten’s ideas.
+   Alexander Baumgarten deﬁnes aesthetics in the ﬁrst paragraph of
+his Aesthetica as follows: “Aesthetics (as the theory of the liberal arts,
+as inferior cognition, as the art of beautiful thinking and as the art of
+thinking analogous to reason) is the science of sensual cognition.”7
+Baumgarten packages quite a few things into this deﬁnition, and he
+basically spends the rest of the Aesthetica elaborating on the different
+elements of this opening statement. The most important thing to be
+noted is that his aesthetics is the combination of a twofold approach
+to the subject. Aesthetics is considered to be a science of sensual cog-
+nition, as well as a theory of art. The general aim for Baumgarten is
+to establish the latter by means of the former, although the relation of
+the two moments is not always as clear as Baumgarten thinks it might
+be. It should also be mentioned that both in respect to terminology
+and in terms of structure, the Aesthetica is committed to the traditional
+rhetorical system that it frequently challenges but that is nevertheless
+taken to be the common horizon of author and readers. That is to
+say that Baumgarten’s elaboration on the stages and elements of aes-
+thetic truth is modeled on the production stages of a public speech
+(inventio, dispositio, elocutio) as taught by rhetorical treatises. And yet in
+Baumgarten’s view, the rhetorical model, as was recently renewed by
+the Swiss literary critics Bodmer, Breitinger, and others, stands in need
+of expansion since it is limited to the linguistic arts and can provide
+no direct assistance for composers and painters.8
+   Despite its emphasis on the senses and their cognitive value, Baum-
+garten’s aesthetics must not be regarded as an intentional break
+with, or even an intentional critique of, the rationalist metaphysics of
+Leibniz and Wolff. Its primary interest seems to be the strengthening
+of the rationalist system by including neglected elements that should
+ultimately serve to further the cause of rational cognition. Baum-
+garten argues that sensual cognition is essential for rational cognition:
+“The major inferior faculties of cognition, namely the naturally de-
+veloped ones, are required for beautiful thinking. They are not only
+simultaneously possible with the higher natural ones, but they are re-
+quired for them as a precondition (sine qua non)” (Aesthetica, §41). In
+anonymously published lecture notes, a student reports Baumgarten
+stating that in order to improve reason, aesthetics must aid logic.9 With
+
+[p. 8] [PDF page 28]
+
+8                        Part I. The Age of Paradigms
+
+Leibniz, Baumgarten assumes that some of our cognition is obscure
+while some is distinct; that is, cognition at one end of the spectrum
+is entirely without concepts and thus without rational justiﬁcation,
+while at the other end it rests on complete conceptual knowledge. Be-
+tween these two extreme forms of cognition some mediation must be
+found, for there is no direct way from the obscurity of the unconscious
+petites perceptions to rational cognition. The connecting link between
+the two Baumgarten claims to have found in the confused cognition
+of sensuality:
+
+[It is said that] confusion is the mother of error. My answer to this is: it is a
+necessary condition for the discovery of truth, because nature does not make
+leaps from obscure to distinct thought [ubi natura non facit saltum ex obscuritate
+in distinctionem]. Out of the night dawn leads to daylight. We must concern
+ourselves with confused cognition so as to avoid errors in large numbers and to
+a large extent that befall those who ignore it. We do not commend confusion,
+but rather the emendation of cognition insofar as a necessary moment of
+confused cognition is mixed into it. (Aesthetica, §7)
+
+   It is the primary aim of the science of sensual cognition to aid the
+faculties of logical cognition. In order to do so, the unique modes
+of sensual cognition need to be investigated. But to claim relevance
+for sensual perception as an unavoidable element of all cognitive
+procedures was not an easy task. Not only did Baumgarten have to
+struggle against the devaluation of sensuality that runs through the
+history of Western philosophy from Plato onward and is a dominant
+motive in the rationalist metaphysics of Leibniz, but he was also mov-
+ing against the headwind of religion. Protestant Pietism gained more
+and more inﬂuence during Baumgarten’s lifetime and argued for a
+break with the Catholic medieval tradition according to which the
+glory of God shines forth from the splendor of the world. For Pietism,
+one’s relation to God was to be purely inward and nonsensual. Yet
+Baumgarten’s new science of sensual cognition was determined not
+to regard sense data merely as stimuli for higher and more advanced
+processes of cognition but, rather, to consider it an independent form
+of cognition itself.
+   In fact, the logician who neglected sensory moments was considered
+a philosopher manqué, an incompletely developed human being who
+lacks the fullness of existence. Baumgarten (and even more so his
+
+[p. 9] [PDF page 29]
+
+Baumgarten, Mendelssohn                           9
+
+student G. F. Meier) pitched against the dry logician the felix aestheticus,
+the successful aesthetician, who combines attention to and love for the
+sensory world with the faculty of rational cognition.
+   Sensual cognition must not be seen as a faulty or incomplete rational
+cognition but, rather, as an independent faculty. Baumgarten argues
+that to comprehend an object obscurely, confusedly, or indistinctly is
+not a failure, and must thus be considered a speciﬁc achievement of
+the soul (Metaphysica, §520). If a representation is not distinct, it can
+only be sensual for Baumgarten. Therefore, the inferior cognition is
+a sensual mode of cognition (Metaphysica, §521). Although it is not
+rational itself, the fact that it is a faculty of cognition makes it anal-
+ogous to rational procedures. Baumgarten thus deﬁnes aesthetics as
+the art of thinking analogous to rationality (ars analogi rationis). This
+mode comes to human beings as part of their instinctive heritage, and
+as such it is something that does not yet set us apart from animals.
+This so-called natural aesthetics, however, needs practice in order to
+develop its potential. Properly trained, natural aesthetics can be trans-
+formed into the art of beautiful thinking, a term that we shall have
+to return to (Aesthetica, §47). Such training for the felix aestheticus de-
+pends as much on repeated exercises, as prescribed by the rhetorical
+system, as on familiarity with aesthetic theory. Baumgarten concludes
+that practical exercises need to be supplemented by theory, and theory
+in turn must be brought down to a practical level by means of exercises
+(Aesthetica, §62).
+   Inferior cognition does entail a lack of rationality, but it does not
+entail a lack of truth. In a rather bold fashion, Baumgarten states that
+aesthetic cognition does indeed have its own truth claim. He argues
+that there are several levels of truth that coincide with the levels of
+cognition. A metaphysical truth seems the equivalent of an intuitive
+and adequate cognition, that is, something that is restricted to God.
+As far as man is concerned, his rational insights produce a truth that
+Baumgarten labels logical. The third truth is the result of confused
+cognition, namely, aesthetic truth (Aesthetica, §423). Baumgarten elab-
+orates on how he understands aesthetic truth by situating it between
+falsehood and the certainty we achieve through correct employment of
+our rational faculties. Aesthetic truth for Baumgarten seems to come
+rather close to the rhetorical conception of truth, namely, probability.
+In the rhetorical tradition, an argument was true if it was convincing,
+
+[p. 10] [PDF page 30]
+
+10                     Part I. The Age of Paradigms
+
+probable, or more likely to be true than other contenders for truth, but
+it did not have to agree with the substance of the object as the philo-
+sophical adaequatio -theory demanded. An argument would be deemed
+probable if we hold something to be true without having any logical
+proof for this belief. The object of aesthetic truth, Baumgarten writes,
+“is neither certain nor is its truth perceived in full light” (Aesthetica,
+§483). This kind of truth strays a good way from the traditional philo-
+sophical conception of truth as correspondence of mind and reality
+as the system of Leibniz advocates it and to which Baumgarten clearly
+subscribes at other times.
+    Although logical truth, and logical truth only, can provide us with
+certainty, it pays a high price for it. Much like Nietzsche, Baumgarten
+regards logical truth to be an impoverished abstraction, that is, a move-
+ment from concrete instances to a general concept. The multitude of
+concrete sensual experiences carries with it a sense of fullness, vibrancy,
+and liveliness that gets lost in abstraction. Therefore, Baumgarten fa-
+mously concludes: “But what is abstraction if not a loss?” (Aesthetica,
+§560). We are to think of abstract logical truth as somewhat pale and
+somewhat lifeless in comparison to the probability that the aesthetic
+faculty provides. Aesthetic truth, in opposition, celebrates “richness,
+chaos and matter” (Aesthetica, §564). The term chaos, however, does
+not indicate that Baumgarten considers aesthetic truth to be unstruc-
+tured, devoid of recurring elements or without necessary conditions.
+Instead, he proposes three criteria according to which the unique per-
+fection of sensual cognition can be judged. The ﬁrst of these moments
+is richness of imagination, which means that an aesthetic idea is the
+more perfect the more individual elements it contains. Complexity of
+content becomes elevated to a characteristic of aesthetic perfection.
+In Leibniz, confused cognition had little value attached to it, but in
+Baumgarten it encompasses a redeeming fullness and complexity that
+we ﬁnd pleasurable. An aesthetic idea, though, does not merely have to
+be complex to be perfect. Baumgarten deﬁnes the second character-
+istic of aesthetic perfection as magnitude of imagination. In this, the
+mere sensual complexity is linked with the notion of relevance and,
+thus, to a form of judgment that is no longer purely sensual. Rather
+traditionally, Baumgarten argues that aesthetic ideas are more satisfy-
+ing for us if they pertain to more relevant matters, that is, if a narrative
+tells about the lot of humans instead of that of animals or if pictorial
+representations depict historical scenes instead of ﬂowers. The third
+
+[p. 11] [PDF page 31]
+
+Baumgarten, Mendelssohn                         11
+
+and ﬁnal element in Baumgarten’s list is that of clarity of presentation,
+which is a traditional rhetorical ideal.
+   The most interesting of these characteristics is certainly that of rich-
+ness of imagination. We can understand it to express the fact that aes-
+thetic perception and aesthetic truth consist of an ever-renewed con-
+templation of the multitude of elements contained in the aesthetic
+object without our being able or willing to unify them under a con-
+cept. But what remains confused also remains rich. Baumgarten, with
+this elevation of confused richness, obviously points forward toward
+Kant and his important notion of the aesthetic idea.
+   As has been pointed out, the aim of an aesthetic theory for Baum-
+garten is to aid in the perfection of sensual cognition. Perfection of
+sensual cognition, however, is deﬁned as beauty. Conversely, imper-
+fection of aesthetic cognition is ugliness. Art as the manifestation of
+the beautiful therefore aims to represent the purposeful unity and
+harmony of the world. In this, Baumgarten subscribes to the classical
+pulchrum theory that regards the universe as a beautiful creation and
+every beautiful object as a mirroring instance of the whole. Represen-
+tation in the form of mirroring is an idea that Baumgarten takes from
+Leibniz’s Monadology that rests on the assumption of a coherence of
+subject and object, that is, the logico-ontological equivalence. Later
+we will see that the notion of the aesthetic monad also recurs in the
+writings of Adorno. The aesthetic representation of the larger unity in
+one beautiful object is what Baumgarten labels “thinking beautifully”
+(pulchre cogitare).
+   With this deﬁnition we have come full circle and ﬁnd ourselves
+again at the point where we started the analysis, namely Paragraph
+One of the Aesthetica. Aesthetics, as we recall, was deﬁned not only as
+the science of sensual cognition but also as the theory of liberal arts,
+an inferior cognition, the art of thinking beautifully, and the art that is
+analogous to rationality. Thus, the opening sentence contains, in the
+form of brief parenthetical deﬁnitions, the arguments that the many
+hundreds of paragraphs that follow elaborate. Some of the deﬁnitions,
+as has become clear, are obliged to the traditional rhetorical system
+and to the rationalist metaphysics of Leibniz and Wolff, whereas others
+break away from these traditions and open new paths of inquiry into
+the unique status of aesthetics as a philosophical project.
+   As has been demonstrated, Baumgarten’s aesthetics takes a double
+approach to its subject matter, namely, as a theory of sensual perception
+
+[p. 12] [PDF page 32]
+
+12                    Part I. The Age of Paradigms
+
+and as a philosophy of art. Philosophy of art, however, has to be under-
+stood in a wider sense than usual so that it can encompass the theory
+of production of art, that is, those elements that Baumgarten incor-
+porates from poetics and rhetoric. True art, and that means good art,
+depends on the application of rules that the science of art and beauty
+is to develop. With this proposition, Baumgarten exerted some inﬂu-
+ence on the Regelpoetiken (regulative poetics) of the eighteenth century
+that continued the Baroque tradition of M. Opitz and others until they
+were displaced by the Geniepoetik (poetics of genius) that ﬂorished with
+the Storm-and-Stress movement in Germany.
+    Yet another important factor in Baumgarten’s theory of aesthetics
+is his inclusion of emotional aspects into the process of cognition. His
+notion of “aesthetic enthusiasm” reunites artistic emotionality and
+cognitive achievements that had been opposed to each other since
+Plato’s criticism of artistic inspiration (mania) as an interference with
+rationality. One of Baumgarten’s arguments implies that the aesthetic
+effect allows us to tap into memory resources no longer available to
+voluntary recollection. Without having to stretch this theory too far,
+we can ﬁnd its repercussions in Marcel Proust’s notion of the memoire
+involontaire that is set in motion by sensual experiences and contains
+an equally unique mode of cognition.
+
+Turning to our three aspects under which we want to consider the con-
+tributions of the individual writers, namely the ontological, the epis-
+temic, and the practical functions attributed to art and beauty, we shall
+ﬁrst consider Baumgarten’s response to the ontological question. His
+answer to “What is art?” is nowhere stated explicitly, yet can be inferred
+easily from the argumentation. An object of art, it can be concluded,
+is one that, better than other objects, represents the purposeful unity
+and the beauty of the world. This ontological stance is rather conser-
+vative and limits itself to restating the familiar positions of the meta-
+physical theories of Leibniz. Questioned about the cognitive value of
+art, Baumgarten repeats the ontological argument in somewhat dif-
+ferent form, but he also adds an important new element. Certainly
+we can learn from a work of art that the world is created beautifully
+and that harmony prevails in it. Yet this is a rather abstract truth. Aes-
+thetic truth, on the other hand, shelters the immediacy of experience
+in all its individuality, richness, and complexity. The truth of art can
+
+[p. 13] [PDF page 33]
+
+Baumgarten, Mendelssohn                          13
+
+thus be pitched against logical truth – a criticism of rationality that
+is taken up by romanticism and brought to prominence by aesthetic
+theories of the twentieth century. The truth of art for Baumgarten is
+not a mere preparation for logical truth, nor, even more importantly,
+is it accessible by means of logic. The truth of art remains sensual,
+unconceptualized, or, as Adorno would later call it, nonidentical.
+    Closely related to this argument are the statements on the practical
+value of art. If we ask what exactly art can do, Baumgarten’s answer
+seems rather straightforward, but it undercuts itself. Baumgarten justi-
+ﬁed the need for an aesthetic theory with the argument that it helps
+to make the transition from unconscious and obscure cognition to
+distinct cognition. A theory of confused cognition as a theory of sen-
+suality thus aids rationality. But this answer creates more problems than
+it solves. If the aesthetic truth is independent from the logical truth,
+it can also not be reduced to the latter’s handmaiden. The practical
+purpose of art is not to train our aesthetic sensibilities in order to leave
+them behind for more rational conduct. More likely, the repeated en-
+counters with art help us to become more well-rounded human beings
+who are able to balance sensuality and rationality, aesthetic immediacy
+and abstract cognition. Aesthetics might have been meant to be a prop
+for the perfection of rationality, but it emerged as a lively critic of it.
+After Baumgarten, however, aesthetics no longer defended its useful-
+ness by reference to its helpfulness for logical modes of thought. In-
+stead, it presented itself both as independent of and even productively
+opposed to rationality.
+    With Baumgarten, aesthetics takes a great step toward its indepen-
+dence as a philosophical discipline. While Baumgarten was mainly con-
+cerned with the aspect of cognition, Moses Mendelssohn contributed
+essays exploring the unique pleasure man derives from the aesthetic
+object.
+
+
+                          Moses Mendelssohn
+Whereas Alexander Baumgarten embodies the rationalist side of mid-
+eighteenth-century aesthetics, Moses Mendelssohn (1729–1786) rep-
+resents the emotive side. Together these two thinkers sum up the
+aesthetic tendencies of this century in Germany. Much like Baum-
+garten, Mendelssohn is an adherent of the rationalist metaphysics
+
+[p. 14] [PDF page 34]
+
+14                     Part I. The Age of Paradigms
+
+of Leibniz and Wolff, and consequently, his aesthetic writings share
+many features with those of Baumgarten. There is little need to restate
+these principles of Baroque philosophy since Mendelssohn takes them
+for granted, possibly to an even larger extent than Baumgarten. He,
+too, assumes a hierarchy of cognitive achievements in which little cog-
+nitive value is attributed to sensuality, whereas rational cognition is
+considered devoid of sensuality. Arguing in the Platonic tradition,
+Mendelssohn states that beauty as a sensual phenomenon is part of
+the realm of change about which ultimate truth statements cannot be
+made due to its ephemeral character. The volatile nature of beauty
+thus has to be separated from rational cognition. Our judgment of the
+beautiful – Kant will later argue this point vehemently – is therefore
+not a judgment that holds true for everyone by virtue of its adherence
+to undeniable principles of reason (cf. Verwandtschaft des Schönen und
+Guten – Afﬁnity of the beautiful and the good).10
+   The elevation of sensuality, beauty, and works of art to cognitive re-
+spectability, however, is not Mendelssohn’s primary concern. Of higher
+importance to him is the pleasurable sensation that the perfection of
+art and beauty induces.11 Mendelssohn’s aesthetics constitutes the link
+between the rationalism of the Leibniz/Wolff system and the aesthetics
+of classicism as advanced by Goethe, Schiller, W. von Humboldt, and
+others. Insofar as his writings emphasize human perfectability and
+art’s contribution to the aesthetic education of man leading to the
+well-rounded human being, they anticipate in several respects classical
+anthropology and art criticism. Therefore, it appears justiﬁed to label
+Mendelssohn’s an aesthetics of perfection, albeit one that changes the
+focus from the perfect universe of the rationalist metaphysicians to
+the classicists’ teleological improvement of man.
+   Mendelssohn explicates his ideas on aesthetics in a number of es-
+says, as well as in an exchange of letters with Friedrich Nicolai and Got-
+thold Ephraim Lessing. His most relevant aesthetic texts are Briefe über
+die Empﬁndungen (Letters on sensations, 1755) and its sequel Rhapsodie,
+oder Zusätze zu den Briefen über die Empﬁndungen (Rhapsody, or addenda
+to the letters on sensations, 1761), Über die Hauptgrundsätze der schönen
+Künste und Wissenschaften (On the main principles of the beaux arts
+and liberal arts, 1757), and Über das Erhabene und Naı̈ve in den schönen
+Wissenschaften (On the sublime and naı̈ve in the liberal arts, 1758).
+Most relevant might be the ﬁrst essay in which Mendelssohn develops
+his basic ideas, which he later elaborates and modiﬁes only slightly.
+
+[p. 15] [PDF page 35]
+
+Baumgarten, Mendelssohn                         15
+
+    The Letters on Sensations are modeled in form and diction on
+Shaftesbury’s (1661–1713) The Moralists or A Philosophical Rhapsody of
+1709. From Shaftesbury Mendelssohn takes the notions of creative ge-
+nius and the work of art as an organic totality, but largely discards
+Shaftesbury’s moralistic tendencies. Mendelssohn agrees with Baum-
+garten that the sensation of beauty rests neither on an obscure nor on
+a distinct cognition, but on a confused one. That said, he leaves epis-
+temological concerns behind to turn toward the psychological ramiﬁ-
+cations of art and beauty.
+    Beauty – this is an idea Mendelssohn repeats throughout his writ-
+ings – depends on an easily comprehensible unity of the manifold in
+sensual perception. The beautiful object therefore must neither be
+too small nor too large (originally, this is the Aristotelian notion of
+eusÖnopton, i.e., that which can be visually grasped at once) because
+if too great in size, an immediate comprehension of its unity will be
+impossible, whereas if too minute, the object will lack in variety of ele-
+ments – a theory that Johann Joachim Winckelmann (1717–1768) in
+his 1764 History of Ancient Art also proposed.12 This reduction of beau-
+tiful objects to a human scale not only comprises a classical thought
+in itself, but also indicates a clear break with the traditional pulchrum
+theory, according to which the cosmos is a beautiful entity. The uni-
+verse is much too large to be sensually comprehended, and thus it
+disqualiﬁes itself as an object of beauty: “This inﬁnite universe is no
+visibly beautiful object. Nothing deserves this name that does not enter
+our senses all at once” (Letters on Sensations, 51).
+    Whereas this humanization of the beautiful marks a break with tra-
+ditional notions of beauty, Mendelssohn’s debunking of Gothic ar-
+chitecture that results from the same argumentation is perfectly in
+keeping with the taste of the age. The eighteenth century at large re-
+garded the Gothic period as inharmonious and tasteless, although this
+valuation goes back in its essence to Vasari’s attempt to establish the su-
+periority of the Renaissance artists by discrediting their precursors.13
+Mendelssohn, too, subscribes to this judgment by arguing that Gothic
+cathedrals fail as architectural objects because their endless detailing,
+that is, the manifold, cannot be perceptually uniﬁed and thus remains
+scattered, random, and dissatisfying. Not until Goethe and Herder and
+the essay Von deutscher Baukunst (On German architecture) of 1772 by
+the former – who made a point of emphasizing the “complete, great
+impression” consisting of “a thousand harmonizing details” in Gothic
+
+[p. 16] [PDF page 36]
+
+16                      Part I. The Age of Paradigms
+
+architecture14 – did this derision of the Gothic style come to an end.
+Ironically, it was soon celebrated by the romantics as a genuine and
+superior German contribution to art.
+   Another break with the aesthetic tradition can be detected in
+Mendelssohn’s separation of beauty and perfection. Although he sub-
+scribes to Leibniz’s theorems that beauty consists in perfection of sen-
+sual perception, truth in logical perfection, and the good in man in
+moral perfection, he no longer equates every expression of perfection
+with beauty. In fact, there are distinct instances where a perfect form,
+that is, one that fulﬁlls its telos, is outright ugly. Picture the human
+body suggests Mendelssohn, and he takes up an argument that can
+already be found in Xenophon and Longinus’s treatise On the Sublime
+(42; 5). If it is perfectly formed, we admire its beauty, but such beauty
+is merely external, because the body as a whole also possesses an inside
+that repels us:
+
+The beauty of the human form, the pleasant colors, the curved features that
+enchant in his face, are only as if molded into the exterior shell. They only
+last as long as our senses. Underneath the skin terrible forms lie hidden.
+All vessels are intertwined seemingly without order. The entrails balance each
+other, but without harmony. Much manifold, but nowhere unity. Much activity,
+but nowhere ease in activity. How much the creator would have failed if beauty
+had been his only aim!” (Letters on Sensations, 59)
+
+The world at large and man are indeed perfect creations for
+Mendelssohn, who, like Leibniz, could not envision a more perfect
+universe. Yet perfection does not express itself any longer as beauty:
+The universe because of its size and man considered as a biological
+creature fail to satisfy our sense of beauty, since it does not grant us aes-
+thetic pleasure to ponder the cosmos or man’s intestines. Mendelssohn
+here advances the same argument that Edmund Burke had put forth
+when he declared that functional perfection (“ﬁtness”) is not the
+cause of beauty, a theory that had originated with Socrates. Burke
+uses the same example of the inner organs of man as ﬁt, but not
+beautiful.15
+   Mendelssohn distinguishes three sources of pleasure; the ﬁrst stems
+from the unity of the manifold and is called beauty, the second is
+the unanimity of the manifold called perfection, and the third results
+from the improvement of our physique and is called sensual pleasure.
+
+[p. 17] [PDF page 37]
+
+Baumgarten, Mendelssohn                        17
+
+Ideally, aesthetic pleasure contains all three elements, but practically,
+only works of music have achieved this aim for Mendelssohn, who nev-
+ertheless hopes for the discovery of new forms of art that will result in
+the same uniﬁed pleasure for the other senses. The sensation of per-
+fection produces a feeling of bodily ease and relaxation, a “pleasant
+affect” that consists of a harmonious nervous tension and a stimulation
+without fatigue. In Rhapsody, Mendelssohn adds that sensual pleasure
+not only improves our bodily condition but leads to a harmonious play
+of all human faculties. While the pleasure of viewing a painting here
+comes dangerously close to that of eating a cake, Mendelssohn never-
+theless advances the fruitful idea of the harmonious play of faculties
+caused by aesthetic cognition. Moreover, he distinguishes between the
+perfection of the object and the perfection of its representation in
+the subject. This important differentiation allows for a beautiful rep-
+resentation of objects that fail to be perfect themselves: “This artistic
+representation can be sensually perfect even if the object of it would be
+neither good nor beautiful in nature” (Main Principles, 431). Although
+Mendelssohn insists on the perfection of aesthetic representation as a
+necessity, the distinction between artistic representation and the refe-
+rential object to which an independent aesthetic value can be assigned
+also takes the ﬁrst cautious step in the direction of representations,
+both without recognizable object and without beauty.
+    Mendelssohn was also the ﬁrst German philosopher to devote sig-
+niﬁcant attention to the concept of sublimity that had already been
+discussed in Britain and France for a couple of decades. He deﬁnes the
+sublime as the sensual expression of an extraordinary perfection, as
+well as beauty of such enormous dimensions that it cannot be sensually
+comprehended all at once. Although it remains unclear how we should
+judge something to be beautiful ﬁrst in order to move from there to the
+realization that we fail to encompass it and consequently have to clas-
+sify it as sublime, Mendelssohn insists on the beautiful element in the
+sublime object. Sublimity produces a divergent complex of emotions
+in us due to the pleasure that results from its beautiful aspect and
+the frustration caused by our failure to grasp it in its entirety. Unlike
+Edmund Burke, however, Mendelssohn regards sublimity not as incit-
+ing terror but admiration and, thus, associates it with an ultimately pos-
+itive emotional response. Most future philosophers, however, insofar
+as they deal with the concept of the sublime, will refer back to Kant’s
+
+[p. 18] [PDF page 38]
+
+18                     Part I. The Age of Paradigms
+
+concept of it and disregard the contributions of Mendelssohn. His
+notion of the naı̈ve, on the other hand, clearly inﬂuenced Schiller’s
+deﬁnition of naı̈ve art. He deﬁnes as naı̈ve the simplistic representa-
+tion of a beautiful and noble soul. Thus, the naı̈ve is restricted to the
+representation of man and his actions, although these have to be of
+relevance. The representation itself will hide more than it reveals, and
+therefore it conforms to the rhetorical style of genus humilis, yet with-
+out weightiness of its object, the naı̈ve collapses into the ridiculous
+(cf. On the Sublime).
+   Another inﬂuential feature of Mendelssohn’s writings is his attempt
+to classify the individual forms of art according to a semiotic system, dis-
+tinguishing the different art forms according to the signs they use. He
+follows the French philosopher Jean-Baptiste Dubos (1670–1742) by
+basing painting, sculpture, architecture, music, and dance on natural
+signs that are determined by their afﬁnity to the represented object,
+whereas poetry and rhetoric depend on arbitrary signs without any
+connecting element between sign and signiﬁed (except for the rare
+onomatopoetic instance). This conception was taken up and modiﬁed
+in the writings of both Lessing and Herder and might very well be the
+ﬁrst attempt at a semiotic theory of art in German.
+   Interesting as these ideas may be, Mendelssohn’s main importance
+nevertheless is to be found in his undertaking to secure greater auto-
+nomy for art. While Baumgarten labored to gain acceptance for the
+cognitive aspects of beauty and art, Mendelssohn did the same for
+art’s emotional elements. And whereas Baumgarten’s theory led to a
+strengthening of the Regelpoetik (poetics of rules), Mendelssohn em-
+phasized pleasure over regulations. With this, he contributed signif-
+icantly to the paradigmatic shift from an aesthetics of production to
+an aesthetics of reception and a general psychological aesthetics that
+reached its epitome in the writings of Karl Philipp Moritz (1756–1793).
+   This tendency toward greater autonomy of the aesthetic sphere was
+aided further by Mendelssohn’s concept of Billigungsvermögen (faculty
+of approbation) that must be considered a direct precursor of Kant’s
+notion of “disinterested pleasure.”16 Mendelssohn, who in turn was
+preceded by Shaftesbury and his notion of aesthetic sensation as
+“disinterested love,” as well as by Dubos’s concept of plaisir pur
+(whether he knew of Winckelmann’s notion that the reception of art
+must be “cleansed of all intentions” is hard to assess), distinguished
+
+[p. 19] [PDF page 39]
+
+Baumgarten, Mendelssohn                            19
+
+between three faculties of the soul, the faculty of cognition, the ap-
+petite, and the faculty of sensation (after 1785 called faculty of appro-
+bation). The third faculty handles aesthetic perception that is removed
+from both rational cognition and appetite as a form of pleasure with-
+out desire. Finally, Mendelssohn argues for greater autonomy of art by
+separating art and morality, to some degree, by allowing for the artistic
+representation of morally wrong acts because of their emotive poten-
+tial. These morally reprehensible acts do not serve only as negative
+examples in art; they are artistically good and valuable elements:
+
+The stage has its own morality. In life nothing is good that is not grounded in
+our perfection; on the stage, however, everything is good that has its ground
+in the most forceful passions. The reason of tragedy is to incite passions.
+Therefore, suicide is theatrically good. (Letters on Sensations, 94)
+
+    This is not to say that art does not fulﬁll ethical purposes for
+Mendelssohn, since it does so without a doubt. And yet its subject
+matter is free from regulation; and it is this freedom that allows art
+to contribute to man’s betterment. Mendelssohn’s psychological aes-
+thetics of perfection ultimately underwrites an anthropological model
+that unites the sensual perfection of art with the perfectability of man.
+As art is no longer the result of successfully applied rules, the original
+creator, that is, the genius, moves to the forefront of the discussion.
+Works of art are created by the man of genius, who is characterized for
+Mendelssohn by his perfection of all faculties and their harmonious
+interplay (Main Principles, 433f.). But art does not only originate in
+perfection; it also stirs its recipient toward it: “The soul does not only
+enjoy the contentment of its body as a spectator, as it responds to the
+perfection of an object with serenity; rather, through sensual pleasure
+it gains no small degree of perfection by which the pleasurable sensa-
+tion is enlivened in turn” (Rhapsody, 392f.). Art turns into a means of
+aesthetic education – a notion that plays a signiﬁcant role in Schiller’s
+Letters on Aesthetic Education and in Goethe’s bildungsroman Wilhelm
+Meister’s Apprenticeship. Mendelssohn has a clear picture of man’s per-
+fection: “The perfection of man consists – despite the ridicule of those
+who despise wisdom – next to the well-being of the body in a cleansed
+reason, in an upright heart and in a ﬁne and tender sense for true
+beauty, or in a harmony of the lower and upper faculties of the soul”
+(Briefe über Kunst – Letters on art, 166).
+
+[p. 20] [PDF page 40]
+
+20                    Part I. The Age of Paradigms
+
+Mendelssohn’s main interest with respect to aesthetics does not lie
+with its epistemological nor with its ontological aspects but, rather,
+with its psychological element. Therefore, it is hardly surprising if he
+does not explicitly address the question of what a work of art is in
+opposition to nonartistic objects. We can nevertheless deduce an on-
+tological deﬁnition: A work of art is the perfect (or at least properly
+idealized) representation of an object that does not have to be beauti-
+ful in itself and that causes us pleasure. This deﬁnition is somewhat
+weak and due to the shift in its deﬁnition of art from an objective fea-
+ture to a subjective response – a move that Kant will shortly thereafter
+radicalize. The problems of this subjectivization will be discussed in
+the context of Kant’s approach that is altogether more sophisticated
+and well thought out.
+   Mendelssohn does, however, attribute a practical function to art,
+namely, its potential to move man toward perfection. With this, art
+becomes an indispensable tool in all education that has little choice
+but to become aesthetic.
+   Epistemologically, Mendelssohn’s theory remains weak, since it
+does not attribute any unique cognitive function to art. It results from a
+skepticism regarding the cognitive approach to art that tends to eclipse
+the emotional aspect. Since Mendelssohn considered it his role to em-
+phasize the contentment produced by encounters with aesthetic per-
+fection, the subordination of the epistemological moment is likely to
+have been the price Mendelssohn had to pay. Between Baumgarten’s
+emphasis on cognition and Mendelssohn’s stress on aesthetic psychol-
+ogy and human perfectability, the realm for aesthetic investigation was
+largely staked out.
+   Baumgarten and Mendelssohn are a farewell and an annunciation.
+Their aesthetic theories are committed to the metaphysical rational-
+ism of the eighteenth century, and yet they undermine its founda-
+tions involuntarily. But because they adhere to the rationalism of the
+Leibniz/Wolff system, they do not achieve the autonomy necessary to
+establish aesthetics as an independent discipline in philosophy. Both
+thinkers open vistas for the idealists, but they do not advance strong
+aesthetic paradigms. The age of aesthetic paradigms in philosophy
+only begins with Kant.
+
+
+=== Notes to Chapter 1 ===
+
+[p. 217] [PDF page 237]
+
+Chapter 1. Baumgarten, Mendelssohn
+
+1   For an interesting account of the philosophical issues that were at stake
+    in the decade immediately following the publication of the ﬁrst Critique,
+    cf. Frederick C. Beiser, The Fate of Reason: German Philosophy from Kant to
+    Fichte (Cambridge, Mass.: Harvard University Press, 1987).
+2   For an account that argues against any break between the rationalist met-
+    aphysics and Baumgarten’s aesthetics, cf. Horst Michael Schmidt, Sinnli-
+    chkeit und Verstand: Zur philosophischen und poetologischen Begründung von
+    Erfahrung und Urteil in der deutschen Aufklärung (Leibniz, Wolff, Gottsched,
+    Bodmer und Breitinger, Baumgarten) (Munich: Fink, 1982), Chapter 4.
+3   Herbert Marcuse argues from a socioanalytic perspective that this de-
+    valuation of epistemic sensibility was brought about by the association
+    of sensibility as cognitive means and as appetite: “But the senses are
+    not exclusively, not even primarily, organs of cognition. Their cogni-
+    tive function is confused with their appetitive function (sensuality); they
+    are erotogenic, and they are governed by the pleasure principle. From
+    this fusion of the cognitive and appetitive functions derives the confused,
+    inferior, passive character of sense-cognition which makes it unsuitable
+    for the reality principle unless subjected to and formed by the conceptual
+    activity of the intellect, of reason” (Eros and Civilization. [Boston: Beacon
+    Press, 1966], p. 183 f.). Consequently, Marcuse claims Baumgarten as
+    one precursor for his project of nonrepressive sublimation in which art
+    safeguards the pleasure of the senses against their domination by the
+    reality principle.
+4   The most elaborate version can be found in Meditationes de Cognitione,
+    Veritate et Ideis (Meditations on cognition, truth and ideas) of 1684.
+
+
+                                     217
+
+[p. 218] [PDF page 238]
+
+Another sketch is provided in §24 of Discours de Métaphysique (Discourse
+      on metaphysics). The most fundamental distinction between obscure
+      and clear cognition is also taken up in §289 of Essais de theodicée sur la
+      bonté de Dieu, la liberté de l’homme et l’origine du mal (Essay on the goodness
+      of God, the freedom of man and the origin of evil).
+ 5    Discours de Métaphysique, §24.
+ 6    New Haven and London: Yale University Press, 1997, p. 4.
+ 7    At least this famous ﬁrst paragraph shall be quoted in the original Latin
+      here: “Aesthetica (theoria liberalium artium, gnoseologia inferior, ars
+      pulchre cogitandi, ars analogi rationis) est scientia cognitionis sensiti-
+      vae.” In Alexander Gottlieb Baumgarten, Theoretische Ästhetik: Die grundle-
+      genden Abschnitte aus der “Aesthetica” (1750/1758), Latin/German text
+      edited and translated by Hans Rudolf Schweizer (Hamburg: Meiner,
+      1983), p. 3. It might be added that a complete translation of the Aes-
+      thetica into German does not yet exist.
+ 8    See Ursula Franke, Kunst als Erkenntnis: Die Rolle der Sinnlichkeit in der
+      Ästhetik des Alexander Gottlieb Baumgarten, Studia Leibnitiana Supple-
+      menta, Vol. 9 (Wiesbaden: Franz Steiner, 1972), p. 39. Franke’s disser-
+      tation still remains one of the best commentaries on Baumgarten’s aes-
+      thetics.
+ 9    “Kollegium über die Ästhetik,” in Alexander Gottlieb Baumgarten, Texte
+      zur Grundlegung der Ästhetik, Latin/German text edited and translated by
+      Hans Rudolf Schweizer (Hamburg: Meiner, 1983), p. 80.
+10    All quotations from Mendelssohn refer to his Gesammelte Schriften (Berlin:
+      Akademie-Ausgabe, 1929). The writings on aesthetics can be found in
+      the ﬁrst two volumes.
+11    See Julius H. Schoeps, Moses Mendelssohn (Königstein: Jüdischer Verlag,
+      1979).
+12    Cf. Geschichte der Kunst des Altertums, in Winckelmanns Werke (Berlin and
+      Weimar: Aufbau, 1982), p. 196.
+13    E. H. Gombrich demonstrates that Vasari’s deﬁnition of “Gothic” is not
+      the result of a morphological study, but rather due to the application of
+      a stereotypical listing of architectural ﬂaws that Vasari takes over from
+      Vitruvius. The condemnation of the Gothic, however, becomes dogmatic
+      only when in Northern Europe the Classical is pitched against regional
+      architecture so that “Gothic”comes to signify the bad taste of the Middle
+      Ages that was overcome by the Italian resurrection of Antique princi-
+      ples of art. Norm and Form: Studies in the Art of the Renaissance (London:
+      Phaidon, 1966).
+14    Hamburger Ausgabe (Munich: Deutscher Taschenbuch Verlag, 1988),
+      vol. 12, p. 11.
+15    A Philosophical Enquiry into the Origin of our Ideas of the Sublime and Beautiful,
+      Part III, Section 6 (Oxford: Oxford University Press, 1990), p. 97.
+
+[p. 219] [PDF page 239]
+
+16   Cf. Klaus-Werner Segreff, Moses Mendelssohn und die Aufklärungsästhetik im
+     18. Jahrhundert (Bonn: Bouvier, 1984), pp. 97 ff.

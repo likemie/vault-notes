@@ -1,0 +1,1197 @@
+The German Aesthetic Tradition
+Kai Hammermeister | Cambridge University Press, 2002
+
+Chapter 4: Schelling
+Print pages 62–86; PDF pages 82–106
+
+
+=== Chapter text ===
+
+[p. 62] [PDF page 82]
+
+4
+
+                             Schelling
+
+
+
+
+If Kant’s Critique of Judgment marks the low point of classical German
+philosophy in respect to the philosophical signiﬁcance attributed to
+the work of art, the writings of Friedrich Wilhelm Joseph Schelling
+(1775–1854) mark the peak in the estimation of art’s role for phi-
+losophy. In Schelling’s early writings, art is not merely one of many
+possible objects of philosophy but, rather, an integral part of it. More-
+over, art is considered indispensable insofar as it is seen as the only
+means of completing the philosophical system that Schelling proposes.
+It might go too far, though, to advance the thesis, as Dieter Jähnig
+does, that only in Schelling’s work, even more precisely, only in the
+sixth chapter of the System des transzendentalen Idealismus (System of
+transcendental idealism) of 1800, did Western philosophy envision
+an intimate mutual dependency of art and philosophy.1 The fact is
+that romantic philosophy in general esteemed art as the necessary
+completion of philosophical investigation. Schelling is probably the
+one who thought through this position with the most philosophical
+rigor and who contributed the most coherent investigation, but this
+is due to the fact that Schelling remained committed to the idea of
+the philosophical system, whereas most romantics took a much more
+ambivalent stance toward systematic philosophy and the demands it
+places on the form of argumentation. Friedrich Schlegel (1772–1829)
+declared: “It is equally deadly for the spirit to have and not to have a
+system. Thus, one will have to decide to combine both.” (KA II, 173,
+no. 53)2
+
+                                   62
+
+[p. 63] [PDF page 83]
+
+Schelling                               63
+
+    The romantic suspicion of totality as the object of conceptual knowl-
+edge manifests itself in the style employed for philosophizing. Roman-
+tic theorizing more often than not takes the form of the fragment that
+no longer is embedded in an overarching systematic discussion, and
+yet it differs from the aphorism by not being self-contained and by
+pointing toward a totality. This totality can no longer be the object of a
+comprehensive philosophical discourse, a point that Schelling argues
+forcefully without giving up on the idea of the system itself, but instead,
+the gesture toward totality takes the place of the system for most ro-
+mantics. Needless to say, it is often harder to distill a coherent position
+from fragmentary philosophy, and partly for this reason, Schelling’s
+more systematic attempts make him a philosophically more approach-
+able (though by no means easier) representative of romanticism than
+Novalis or Friedrich Schlegel. Still, Schelling was not alone among the
+romantics in his defense of the system, since Karl Wilhelm Ferdinand
+Solger (1780–1819) also declared: “One can and may not philosophize
+without a system,” 3 although this system for Solger had to be presented
+in the form of a dialogue, which since Plato moves philosophy closer
+to art (leaving aside here the differences that Hegel, in his review of
+Solger, established between these two thinkers).
+    The romantic reverence for art as a medium of cognition is not
+unprecedented either. Some thirty-ﬁve years earlier, Johann Georg
+Hamann (1730–1788) had already opposed the rationalism of the En-
+lightenment, as well as the rationalist metaphysics of the Wolfﬁans,
+by stressing the necessity of artistic creation for cognition. Artistic cre-
+ation is primarily that of God, but to the process of divine creation man
+responds with poetic language. Poetic language is the translation of a
+cognition based on sensuality, as Hamann states in his Aesthetica in nuce
+(1762): “Senses and passions speak and understand nothing but im-
+ages. Of images the entire treasure of human cognition and beatitude
+consists.” 4 The artist re-creates the original creation and, thus, helps to
+reveal God’s revelation in nature. Poetic language is most genuine to
+man because it allows for more insight into the being of God than spec-
+ulative philosophy: “Poetry is the native language of mankind” (81).
+Not only did Hamann exert a strong inﬂuence on the generation of
+the Sturm und Drang, the Storm and Stress, but his religiously moti-
+vated opposition against the overvaluation of reason and his advocacy
+of art as a means of gaining insights otherwise unattainable to man
+
+[p. 64] [PDF page 84]
+
+64                      Part I. The Age of Paradigms
+
+also inﬂuenced romantic thinkers, such as Schleiermacher, Schelling,
+Novalis, and Friedrich Schlegel. But again it is Hölderlin who must be
+regarded as the immediate precursor of Schelling in the attempt to
+consider the aesthetic as the via regia to the absolute that remains un-
+knowable by all conceptual means. His aesthetic fragments of the latter
+half of the 1790s contained both the idea of the rationally ever-elusive
+absolute and that of beauty as the means to enable its experiential
+realization.
+   Romanticism, like idealism, can be understood as a response to the
+Kantian dualism of noumena and phenomena, of nature and freedom,
+that was still unresolved. The romantics took up Fichte’s suggestion
+that the pure ego constitutes the ground that precedes the division
+of subject and object, and in this they found themselves in agreement
+with idealist philosophy. Kant himself had already proposed that the
+faculty that allows one to attribute a manifold of sensory data to one
+and the same perceiving entity, namely, the “transcendental synthesis
+of apperception,” must be considered as the “highest point” of philos-
+ophy (Critique of Pure Reason, B 136), although he did not take it to be
+the principle to bridge the noumenal and phenomenal realm. Only
+Fichte elevated the ego into the position of foundational being, but
+in romantic philosophy this ground is no longer accessible by means
+of reason. It can only be disclosed symbolically, and it is precisely this
+function of disclosure of the ground of being that Schelling and the
+other romantic thinkers attribute to the work of art.
+   Schelling is traditionally positioned between Fichte and Hegel as
+yet another step from subjective to objective idealism. While this holds
+true for his aesthetic writings, it is not necessarily the case for his overall
+position in the history of philosophy. While Schelling certainly helped
+to prepare the shift from the principle of the self as the ground of
+being to that of the absolute thinking itself as Hegel proposes it, he
+also survived Hegel by more than twenty years and advanced critical
+evaluations of Hegelian rationalism – even before the demise of his
+former friend and fellow student at the Evangelisches Stift at Tübingen –
+that argue from a vantage point comparable to Kierkegaard and
+Nietzsche. Therefore, Manfred Frank even suggests considering
+Hegel as the link between Fichte and Schelling.5 Our concern
+here, however, is merely Schelling’s contribution to philosophical
+aesthetics.
+
+[p. 65] [PDF page 85]
+
+Schelling                                65
+
+   Yet Schelling’s writings on the philosophy of art cannot be severed
+from his philosophy as a whole exactly because they derive their value
+from the position attributed to art in the system at large. Especially
+Schelling’s most important pronouncement on aesthetics, that is, the
+ﬁnal chapter of the System of Transcendental Idealism, cannot be un-
+derstood without a comprehension of the system he attempts to set
+up. Systematic philosophy is characterized by the dependence of all
+argumentative elements on one central idea, as well as by their interde-
+pendence. Without the knowledge of the organizing idea, individual
+insights cannot be gained. Kant had deﬁned the philosophical system
+in the Critique of Pure Reason as follows: “I understand a system to be
+the unity of the manifold insights [Erkenntnisse] under one idea. This is
+the concept of reason in the form of a totality, insofar as it determines
+a priori the scope of the manifold as well as the position of the parts
+in respect to each other” (B 860 ff.). Schelling, despite his failure to
+achieve this goal at all times, subscribes to this philosophical ideal as
+much as Fichte or Hegel, and thus the relevance of his aesthetics will
+only reveal itself in light of the entire System of Transcendental Idealism.
+   The System, however, is not the only text by Schelling that deals with
+aesthetics. In the years between 1800 and 1807, at least ﬁve of his pub-
+lications deal exclusively, substantially, or at least partially with the sub-
+ject of art. After the 1800 System, these are the dialogue Bruno (1802),
+his lecture series Philosophie der Kunst (Philosophy of art, 1802–3 and
+1804–5, published posthumously 1859), the fourteenth lecture of
+theVorlesungen über die Methode des akademischen Studiums (Lectures on
+the method of academic studies, 1803), and ﬁnally Über das Verhältnis
+der bildenden Künste zu der Natur (On the relation of the visual arts to
+nature, 1807), a speech given on the occasion of the christening day of
+the Bavarian king. After that, only occasional statements on individual
+works of art or brief meditations on the relation of art to the Philosophy
+of Revelation appear in Schelling’s writings.
+   Before Schelling formulated his ﬁrst approach to aesthetics, he had
+become a member of the circle of friends later known as the Jena ro-
+mantics: Friedrich and August Wilhelm Schlegel, Caroline Schlegel,
+Ludwig Tieck, Friedrich Schleiermacher, Dorothea Veit, and Gotthilf
+Heinrich Schubert, to name only the most prominent ones. With
+Goethe’s support – Schelling was an admirer of his theory of colors –
+the twenty-four-year-old had been awarded a professorship in Jena
+
+[p. 66] [PDF page 86]
+
+66                     Part I. The Age of Paradigms
+
+where he then taught as a colleague of Fichte. The romantic circle
+deeply inﬂuenced Schelling’s thinking about art in the years 1798
+to 1800, by which time the circle had by and large been destroyed,
+mainly due to the scandal surrounding the liaison between Schelling
+and Caroline Schlegel (August Wilhelm’s wife), the consequent di-
+vorce of the couple, and Caroline’s subsequent marriage to Schelling.
+Fichte also had had to leave Jena in 1799 due to accusations of athe-
+ism, which led Goethe to comment: “As one star falls, the other rises”
+(Fichte III, vol. 3, p. 346). The falling star is, of course, Fichte, the
+rising one, Schelling. The path was open for the latter to become the
+prime philosopher of the romantic generation – despite all his idealist
+leanings and the consequent criticism of both early romanticism and
+idealism.
+    Schelling’s views on the relevance of art for philosophy changed
+during his lifetime. While he argued for art as the indispensable com-
+pletion of the philosophical project in the 1800 System, he subjugated
+it to conceptual knowledge in his lectures on art of two years later. It
+might even be telling that Schelling never published the manuscript
+of these talks, although he repeated his Jena lectures of 1802–3 in
+Würzburg in 1804–5. Odo Marquard goes so far as to suggest that the
+Philosophy of Art was presented in lecture form “not as the execution
+of aesthetics but instead of it.” 6 The fact is, though, that art loses its
+privileged status in Schelling’s thought shortly after the completion
+of the System, although for some time it remains on a par with the
+philosophical concept or comes in behind it as a very close second –
+a position which resembles closely that of Hegel. In the last phase of his
+philosophical development, however, Schelling’s evaluation of artistic
+creativity and its products becomes signiﬁcantly more cautious and
+even moderately hostile. Under the perspective of Christian philoso-
+phy, art appears to be “worldly and pagan in its nature.” 7 Schelling’s
+most important and inﬂuential contribution to the philosophy of art
+undoubtedly is contained in the closing discussion of the System from
+which a direct line can be drawn to the philosophy of art as advanced
+by Heidegger and Adorno. For this reason, our discussion will focus
+on this text to a large extent, before we brieﬂy consider the Philosophy
+of Art. In conclusion, we will examine the notion of irony as proposed
+primarily by F. Schlegel and Solger as an artistic strategy to bridge
+philosophy and art.
+
+[p. 67] [PDF page 87]
+
+Schelling                             67
+
+                 The System of Transcendental Idealism
+Published in 1800 when Schelling was only twenty-ﬁve years old, The
+System of Transcendental Idealism is one of the most important texts of
+classical German philosophy. It brings to a close the ﬁrst period of
+Schelling’s philosophy that had begun in 1794 and is characterized
+by writings on natural and transcendental philosophy. The constant
+partner in the philosophical dialogue is Fichte, although Schelling’s
+contributions achieve a considerable independence from this thinker,
+who strongly inﬂuenced the philosophical scene in Germany in the
+1790s and who was widely admired by the romantics. Fichte himself
+had greeted Schelling’s ﬁrst publications with approval; he consid-
+ered him to be his most talented follower, if not his equal, although
+Schelling moved away from Fichte by supplementing his writings on
+transcendental philosophy with those on the philosophy of nature.
+Without an attempt to reconcile these two aspects, however, a relapse
+into the Kantian dualism could not be avoided, and so nature and
+the transcendental must be shown to present two sides of one coin.
+It is one aim of the System to unite the philosophy of nature, which
+deduces the ideal from the real, with the transcendental philosophy,
+which understands nature as a reﬂex of spirit.
+    The System, much like Hegel’s Phenomenology of Spirit (1806),
+presents the narrative of the stages of self-consciousness, so that
+Schelling states in his introduction that “philosophy . . . is the ongo-
+ing history of self-consciousness” (System, VIII).8 The aim of it is to
+demonstrate the identity of subject and object, self and nature, which
+becomes revealed in the history of mankind. Schelling attempts to
+unite his tendency toward an overarching totality, that is, the absolute
+that both idealists and romantics consider as that which precedes sub-
+ject and object, as he inherited it from Spinoza with his allegiance to
+Fichte’s Wissenschaftslehre (Science of knowledge).9
+    The absolute, however – and this is where idealism and romanti-
+cism part ways – cannot become an object of knowledge because this
+would precisely perpetuate the subject–object split that is meant to be
+overcome. Moreover, it would establish the primacy of the self over
+the absolute, since the self is able to embrace every object concep-
+tually, and thus, a conceptually knowable absolute would result in a
+philosophical paradox. The absolute [das Unbedingte], Schelling puns,
+
+[p. 68] [PDF page 88]
+
+68                    Part I. The Age of Paradigms
+
+cannot be a thing [ein Ding], and whatever cannot be an object nec-
+essarily escapes conceptualization. The same opposition of absolute
+and objects, Unbedingtes and Dinge, is also advanced by Novalis in his
+collection of fragments called Blüthenstaub (Pollen, 1798). There he
+writes: Wir suchen überall das Unbedingte, und ﬁnden immer nur Dinge. (We
+search everywhere for the absolute, but we always only ﬁnd things.)10
+If the absolute becomes an object of knowledge, this knowledge has
+to be phrased in terms of propositions, since no thinking is possible
+without language, that is, the propositional junction of subject and
+predicate.
+    Hölderlin had made this point in his 1795 fragment Urtheil und
+Seyn (Proposition or judgment and being) that was not published be-
+fore 1961, but the content of which was certainly communicated to
+Hölderlin’s friends. Written roughly one year after Fichte’s Science of
+Knowledge – simultaneously with and yet independent of Schelling’s
+Das Ich als Prinzip der Philosophie (The ego as principle of philosophy) –
+this text is intended as an argument against Fichte’s principle of the
+ego as the foundation of philosophy. Hölderlin sets up an opposition
+between being and proposition (or judgment) in which being marks
+the indifference of subject and object, whereas proposition is the princi-
+ple of separation: “Proposition [Urtheil ] is in the highest and strictest
+sense the original separation of subject and object which were inti-
+mately united in the intellectual intuition, that separation which makes
+possible subject and object in the ﬁrst place, the original separation
+[Ur = Theilung].”11 Propositional thinking – a redundant expression –
+thus disables the appearance of being that precedes all relation of
+the subject to its object and, therefore, cannot become the object of
+cognition. Yet being is not identity either, because all identiﬁcation
+demands an instance that can identify subject and object as the same
+and that, in turn, needs to precede the separation of subject and ob-
+ject. Thus, the self can under no circumstances be the ﬁnal principle
+of philosophy. Being, in Dieter Henrich’s words, becomes a “liminal
+concept of cognition.”12
+    Despite the fact that conceptual knowledge cannot present access
+to the absolute, it can still be grasped in the intellectual intuition,
+a thought shared by Hölderlin and Schelling. Kant had called it “in-
+tuitive reason” and restricted it to God (Critique of Judgment, §77),
+whereas Fichte coined the term “intellectual intuition” [intellektuelle
+
+[p. 69] [PDF page 89]
+
+Schelling                             69
+
+Anschauung] in order to designate the philosopher’s observation of
+that act in which the self posits itself, that is, the Tathandlung.13 For
+Schelling, intellectual intuition is a form of certainty that is not me-
+diated by concepts, but instead is an unmediated vision that reveals,
+much like for Fichte, the empirical self as freely posited. In it, the
+self acquires a certainty of itself without reaching knowledge of itself
+since the certainty remains unconceptualized. The absolute self as the
+ground of both subject and object cannot become an object for knowl-
+edge since it always precedes the reﬂexive self – in fact, the absolute
+is more than the ground that grounds subject and object, self and
+world. Objectivity and knowledge of the absolute can therefore not
+be achieved philosophically, that is, by means of concepts, but only
+symbolically, that is, through the work of art.14 The state of intellec-
+tual intuition is precarious and unaccountable; it is like a “state of
+death”15 from which we have no choice but to return to the state of re-
+ﬂection, knowledge of our empirical self and the division into subject
+and object. Schelling takes up the tradition of mythical knowledge as
+represented by Jakob Böhme and others by arguing that the absolute
+can be experienced in a deathlike state that transcends all concepts.
+And yet, this mythical certainty is not the ultimate point of Schelling’s
+system, but rather, it is overcome by the knowledge of the absolute that
+the objective existence of the work of art grants us.
+    Schelling is not the ﬁrst philosopher to consider art as possessing
+the power to unify subject and object by means of beauty where both
+practice and reﬂection fail in this effort. Again it is Hölderlin who
+constitutes the bridge between Schiller’s advanced Kantianism and
+the idealism of Hegel and the romanticism of Schelling. In the lat-
+ter half of the 1790s, Hölderlin sketches out his aesthetic ideas in a
+number of essays, none of which was published during his lifetime.
+He even planned to write a series of letters, tentatively titled New Let-
+ters on the Aesthetic Education of Man, in which the argument was to be
+advanced that the aesthetic sense will overcome the division of subject
+and object, reason and revelation (letter to Niethammer of February
+24, 1796). These ideas were communicated to his student friends
+Schelling and Hegel both in letters and in personal conversations in
+Frankfurt, where both Hegel and Hölderlin lived brieﬂy and where
+Schelling visited. Beauty, Hölderlin argues, makes the union that pre-
+cedes subject and object accessible, a state of indifferentiation that
+
+[p. 70] [PDF page 90]
+
+70                      Part I. The Age of Paradigms
+
+he labels Seyn [being].16 Sensual beauty, that is, beauty manifested as
+nature as well as art, will lead the way back to the Seyn – a slightly
+problematic concept, as Dieter Henrich has pointed out, for if beauty
+mirrors this original union only in the realm of the senses, then it
+is difﬁcult to comprehend how it should overcome the split between
+thought and reality.17
+    The history of self-consciousness in Schelling’s System that reaches
+its acme in the encounter with the work of art has to undergo a pro-
+cess of development in order to reach this ﬁnal and highest stage,
+during which it passes from sensation to reﬂection to praxis. Sensa-
+tion marks that stage in which the naı̈ve consciousness regards objects
+as having an independent existence of the self and, thus, thinks of
+the object as a “thing in itself.” The consciousness of mere sensation
+does not yet realize that it itself, that is, the productive intuition, posits
+the object. Consciousness forgets about its own productive activity and
+mistakes the object as independent (System, 138). In the state of re-
+ﬂexion, the self already distances itself from the object by means of
+thought, that is, linguistic operations, but only to realize the interde-
+pendence of its concepts and the object (System, 281 f.). In the state
+of praxis, ﬁnally, the realm of intersubjectivity is reached in which
+other individuals make demands on the self. But again the conscious
+erection of a moral order, the expression of the right of every indi-
+vidual to impose limits on the freedom of other individuals, leads to
+insight into the posited nature of the world of objects. The moral uni-
+verse manifests itself as law, that is, the repudiating force that punishes
+“with iron necessity” (System, 406) the violation of another person’s
+freedom. “History as a whole is an ongoing gradual revelation of the
+absolute” (System, 438) – although this process is itself endless. There-
+fore, the absolute can also not be known in history. It is, however,
+achieved in nature that represents the harmony of conscious and un-
+conscious activities. This elevation of nature over history harks back to
+the importance that Schelling attributed to it in his natural philoso-
+phy. And still, nature’s embodiment of the absolute is not the ultimate
+resting point for the System, either, because the identity that it presents
+is not knowable for the reﬂexive self as one that rests in the absolute
+self (System, 449 f.). Nature’s harmony is without consciousness and
+demands yet another step – the knowledge of the absolute provided
+by art.
+
+[p. 71] [PDF page 91]
+
+Schelling                               71
+
+    Neither the moral freedom of man demonstrated in the course of
+history nor the product of nature was able to fulﬁll the demand for the
+conscious realization of the absolute in which conscious and uncon-
+scious activity are known to be identical. Thus, yet another, higher level
+in the narrative of self-consciousness needs to be reached in order to
+achieve this aim, and what freedom and nature were incapable of pro-
+viding reaches its telos in the work of art. While nature in its production
+begins unconsciously and ends in consciousness, namely, that of man,
+the artistic activity reverses this process by beginning consciously and
+continuing without consciousness. While the artist certainly decides to
+create a speciﬁc work and to make plans for it, the execution demands
+that an additional force beyond the control of the artist enter into
+the work. It is precisely the deﬁnition of genius – and all artistic cre-
+ation for Schelling depends on genius – that the unconscious element
+joins the conscious effort. The true artist, after he has begun his work,
+is then visited by an outside power that adds the objective moment to
+the product, that is, that which transcends the merely personal and
+consciously drafted. These visitations, however, isolate the artist from
+his fellow beings and force him to represent things in his work that
+he himself fails to comprehend completely and that supply the inﬁ-
+nite meaning that characterizes every work of art. Thus, every work of
+art conjoins two elements: one that Schelling calls “art” [Kunst] and
+that signiﬁes art in the sense of tcnh, that is, skill, practice, and imita-
+tion of the established artistic paradigms, primarily the art of classical
+Greece; the other that Schelling labels “poetry” and that refers to the
+unconscious moment that enters the work of art not as a result of the
+effort of the artist but, instead, as the reﬂex of “grace” (System, 459). No
+work of art can come into existence without both moments present,
+although Schelling declares, more in allegiance with Goethe’s classi-
+cism than with the credo of the romantic poets, that in the end the
+patient practice, especially as imitatio, as the study of and the inspiration
+by the ancient masters, wins precedence over inspiration. Inspiration
+alone will not lead to anything without technical skill and knowledge
+of the artistic tradition, whereas these qualities can still produce a re-
+spectable work, even though it will fall short of the requirements for
+great art.
+    Where conscious and unconscious activity unite in order to demon-
+strate their identity in the artistic product, a sense of wonder will be
+
+[p. 72] [PDF page 92]
+
+72                       Part I. The Age of Paradigms
+
+experienced, just like that which is said to set in motion all philosoph-
+ical thought:
+
+Because this absolute consonance of the two opposed activities is fundamen-
+tally inexplicable, yet still a phenomenon that, though incomprehensible, is
+undeniable, art is the only and eternal revelation that exists as well as the mir-
+acle that, even if it had only existed once, would have to convince us of the
+absolute reality of the Highest. (System, 460)
+
+   Both the artistic creativity itself and the unsettled search of man for
+the absolute come to rest in the ﬁnal product, the work of art. In it,
+the reﬂexive self understands itself to be merely a lower order [Potenz
+der Selbstanschauung] of the absolute self:
+
+Because it was the free tendency towards self-representation in that [original]
+identity that had incipiently caused this division, the feeling that accompanies
+this [aesthetic] intuition will be one of inﬁnite satisfaction. All drive to produce
+stands still with the completion of the product, all contradictions are resolved
+[aufgehoben], all riddles solved. (System, 456)
+
+   The work of art represents the identity of conscious and uncon-
+scious activity, although it doesn’t collapse these into each other. In-
+stead, conscious and unconscious tendencies remain both intact and
+sublated at the same time, thereby guaranteeing an inﬁnite opposition
+of these moments. Since no ultimate reconciliation can be achieved
+between them, the work of art never allows for just one interpretation,
+but for an inﬁnite multitude: “Such is the case with every true work
+of art inasmuch as every one, as if an inﬁnity of purposes were con-
+tained in it, is capable of inﬁnite interpretation, and one can never
+say whether this inﬁnity had its cause in the artist or lies merely in the
+work of art” (System, 463 f.).
+   With this idea of the inﬁnite interpretability of art – a favorite con-
+cept of romantic thought in general – Schelling harks back to Kant’s
+notion of the aesthetic idea that had been deﬁned as one that causes
+an inﬁnite amount of thought without ever subsuming the multitude
+of sensual riches under one concept. And yet the eternal strife of con-
+scious and unconscious activity in the work of art does not cause it
+to give an impression of restlessness. Quite the opposite; the artwork,
+and here again Schelling’s classicist leanings manifest themselves, is
+
+[p. 73] [PDF page 93]
+
+Schelling                                  73
+
+the “expression of quietude and of calm greatness” (System, 464). This
+formulation echoes almost verbatim Winckelmann’s famous deﬁni-
+tion of Greek masterpieces as exhibiting “an noble simplicity and calm
+greatness.”18 Such impression prevails even if the subject matter por-
+trays great emotional or physical perturbance like joy or pain.
+   The inﬁnite strife of conscious and unconscious activity as united
+in a ﬁnal product is nothing but a deﬁnition of beauty without which
+no work of art can exist as such. Beauty is manifest “where the inﬁnite
+opposition is sublated [aufgehoben] in the object” (System, 465). Works
+of art are by deﬁnition and necessity beautiful, and they are also the
+prime examples of beauty. Schelling concedes that beauty certainly
+appears in natural objects as well, although in nature, it is random
+and can only be recognized due to our familiarity with the beauty as it
+shines in art:
+
+The organic product of nature will therefore not necessarily be beautiful, and
+if it is beautiful, its beauty, because the necessity for its existence cannot be
+thought as existing in nature, will appear as utterly arbitrary. . . . This clariﬁes
+what ought to be thought of imitation of nature as the principle of art, since by
+no means does nature – which is only accidentally beautiful – prescribe the
+rule for art. Instead, that which art produces in its perfection is the principle
+and norm for the judgment of natural beauty. (System, 466 f.)
+
+    With such institution of the supremacy of beauty in art over that
+in nature, Schelling overturns Kant’s hierarchy. Kant had argued that
+the genius is the person in whom nature prescribes the rule to art
+(CJ, §46), thereby placing nature above man-made objects. But it is
+Schelling’s view that turned out to be more inﬂuential, so that Solger
+states in his Lectures on Aesthetics: “Nothing beautiful exists outside of
+art. If we consider nature under the aspect of beauty, we transfer the
+notion of art onto nature” (1).
+    Schelling argues vehemently against the notion that art might have
+any kind of use value, be it theoretical or practical. He reasons that art
+has no end outside itself, and only as an end in itself can it retain its
+“holiness and purity” (System, 467). To consider art a means for sensual
+pleasure is barbaric; to look for a use value in it reveals the spirit of
+an age in which economic principles reign supreme; even to connect
+it to morality is fruitless; and scientiﬁc knowledge cannot be expected
+
+[p. 74] [PDF page 94]
+
+74                      Part I. The Age of Paradigms
+
+from it, since all scientiﬁc inquiry is directed toward a speciﬁc goal and
+driven by speciﬁc questions and, therefore, has to remain subordinate
+to the absolute freedom of the work of art.
+    To be sure, it is not merely that art and science – and philoso-
+phy for Schelling is part of the scientiﬁc project – are not opposed
+in their respective quest; rather, it is that they have set identical tasks
+for themselves. Science, however, will never be able to fulﬁll its own
+task, whereas art is the very embodiment of this fulﬁllment. Art has
+already achieved what always remains an incomplete project for sci-
+ence. Philosophy is incapacitated by its own contradiction between
+its task – thinking the absolute – and the means at its disposal –
+knowledge achieved through concepts. Since the absolute cannot
+become the object of knowledge, philosophy ﬁnds itself in the role
+of Tantalus: The water is within reach, but every gesture toward it
+causes its withdrawal. The utmost that the philosopher can achieve
+is the state of intellectual intuition, although this state, despite the
+unmediated certainty that it grants, escapes philosophical justiﬁca-
+tion. Only in the work of art does the intellectual intuition ﬁnd its
+objective demonstration. Much like Schiller, Schelling argues that phi-
+losophy can lead only one fragment of man to the highest form of
+completion, whereas art overcomes fragmentation and achieves the
+uniﬁcation of man in aesthetic intuition (System, 480). According to
+Schelling:
+
+This objectivity of the intellectual intuition that is generally accepted and by
+no means deniable is art itself. Because the aesthetic intuition is precisely the
+intellectual intuition gone objective. Only the artwork reﬂects for me what is
+not reﬂected in anything else, namely that absolute identity that had already
+divided itself in the self. What the philosopher regards as already divided in
+the ﬁrst act of consciousness is being reﬂected through the miracle of art while
+it is inaccessible for every other intuition. (System, 472)
+
+   What has already been lost in every conscious act that rests on con-
+cepts is recovered in art. Only art is capable of representing the inﬁnite,
+and nothing that does not contain such inﬁnity is a work of art. And al-
+though every work of art naturally has a subject matter that represents
+only one aspect of the world, its true content nevertheless is the world
+as totality. This is why Schelling can claim that, in fact, only one true
+work of art exists, namely, one objective manifestation of the inﬁnity of
+
+[p. 75] [PDF page 95]
+
+Schelling                                  75
+
+the world, although this work of art exists in many different exemplars.
+The Neoplatonism inherent in this concept of the one idea of art that
+emanates into the material multitude of factually existing artworks will
+become distinctly more prominent in Schelling’s writings on art in the
+years after the System.
+   The System itself closes its discussion of art with a veritable hymn
+that sums up the preceding pages:
+
+If the aesthetic intuition is merely the intellectual intuition gone objective,
+then it is self-understood that art is at once the only true and eternal organon
+and document of philosophy that always anew documents what philosophy
+cannot externally represent, namely the unconscious in act and production
+and its original identity with consciousness. Art is therefore the Highest to the
+philosopher, because as it were it opens the most holy where in eternal and
+primary union burns as if in one ﬂame what is separated in nature and history
+and what must ﬂee each other in life and act as well as in thought. (System,
+475)
+
+   These much-quoted lines demonstrate how art is the capstone of
+the philosophical system as the harmonious objectiﬁcation of con-
+sciousness and unconsciousness, subject and object, as identical in the
+absolute. Therefore, those branches of knowledge that can achieve
+this representation of identity only subjectively, that is, science and
+philosophy, have to be aligned with art. A utopian vision of a future
+in which all merely subjective knowledge gives way to a comprehen-
+sive poetic knowledge closes Schelling’s System. Schelling calls for a
+New Mythology that will close the gap between the present and that
+future state in which all sciences have been dissolved in universal
+poetry:
+
+. . . therefore it can be expected that philosophy, as it was born and raised
+by poetry, and with it all those sciences that it leads toward perfection will
+after their perfection ﬂow back like individual rivers into the extensive ocean
+of poetry from where they originated. It is not hard to say what will be the
+mediator for the return of science to poetry, since such mediator existed as
+mythology before this division that now seems unbridgeable had occurred. Yet
+how a New Mythology could come into existence not as the invention of one
+single poet but of a new generation living as one poet is a problem to which the
+solution can be expected from the future fate of the world and the consequent
+course of history. (System, 477 f.)
+
+[p. 76] [PDF page 96]
+
+76                     Part I. The Age of Paradigms
+
+    Schelling’s notion of a New Mythology was not unique; instead, it
+was very much in the air around the turn of the century.19 Herder in
+his Iduna dialogue (1796) had called for a renewal of ancient Greek
+and Nordic mythology as a means for societal refurbishing. The most
+vigorous call for a New Mythology, however, came in the form of a “pro-
+gram for agitation” (Dieter Henrich), namely, the so-called Das älteste
+Systemprogramm des deutschen Idealismus (The oldest systematic program
+of German idealism, probably 1796). Although the brief text is writ-
+ten in Hegel’s handwriting, the authorship – Schelling, Hölderlin,
+Hegel, or, less likely, an unknown fourth person – is still disputed. It
+declares that “the philosopher must possess as much aesthetic force as
+the poet,” because it is the idea of beauty that unites all other ideas.
+In the context of an anarchist critique of the mechanized modern
+polity that does not allow for the symbolization of freedom as a con-
+cept of reason, since mechanical entities cannot represent ideas, po-
+etry as the highest form of art is advanced as anticipation of a social
+existence that will have returned to a unity beyond mechanical func-
+tioning. Once this state has been reached, poetry will take over the
+functions of all other arts and sciences, including philosophy: “poetry
+alone will survive all other sciences and arts.” To mediate between
+the present state and the poeticized one, a New Mythology is called
+for: “We must have a New Mythology, but this Mythology must be in
+the service of reason, it must become a Mythology of reason. Before
+we haven’t rendered the ideas aesthetic, i.e., mythological, they hold
+no interest for the populace, and before the Mythology hasn’t be-
+come reasonable the philosopher must be ashamed of it.”20 Thus, this
+type of mythology will reconcile the sphere of art with the – one is
+tempted to use a Hegelian term in Marx’s sense: alienating – social
+reality.
+    In 1799, Novalis in his Die Christenheit oder Europa (Christianity or
+Europe) prophesied a rebirth of the Catholic Christian faith that would
+not only lead to a Europe that had overcome its nationalisms, but would
+also cause “a universal individuality, a new history, a new humanity, the
+sweetest embrace of a young surprised church and a loving God, and
+simultaneously the heartfelt [innige] reception of a new messiah in
+its thousand limbs.”21 Although the Christian faith cannot properly
+be called a mythology, the unifying function that Novalis attributes
+to its revival allows us to draw parallels to the present discussion.
+Finally, Friedrich Schlegel’s centerpiece of the Gespräch über die Poesie
+
+[p. 77] [PDF page 97]
+
+Schelling                                 77
+
+(Conversation about poetry, 1800), namely, the Rede über die Mythologie
+(Speech on mythology), was written with the knowledge of the System-
+programm. Not distinguishing between poetry and mythology, Schlegel
+considers it its function to unite all of mankind through the aesthetic
+certainty of the absolute that it grants:
+
+Neither this [romantic] esprit nor a mythology can exist without something
+original and inimitable [ein erstes Ursprüngliches und Unnachahmliches] that is
+absolutely indivisible and that still lets its old nature and force shine through
+after all permutations. . . . Because it is the beginning of all poetry to suspend
+[aufzuheben] the way and the laws of reasonably thinking reason and to return
+us to the beautiful confusion of phantasy, to the original chaos of human
+nature of which I know thus far no symbol more beautiful than the colorful
+swarm of the ancient Gods.22
+
+    In general, the New Mythology has the function of unifying aesthetic
+intuition with the polity, that is, of reuniting art as an epistemologi-
+cal instrument with practical philosophy. This aspect is certainly of
+greater importance in the Systemprogramm than it is in Schlegel, who
+tends to emphasize the aesthetic moment over the social, yet it still
+remains the basis of the various conceptions of a New Mythology.
+Whereas aesthetic intuition is a merely private affair, its incorporation
+into a mythology is meant to guarantee the social aspect of art. And
+whereas a critical function is never attributed to the individual work,
+the New Mythology both takes a critical stance toward the present
+and anticipates a future reconciled in all its theoretical and practical
+aspects. And yet it should be mentioned, although a detailed discus-
+sion of this issue would lead far beyond our present scope, that it is
+somewhat difﬁcult to comprehend how the transition from the apo-
+litical individual work of art (this nature of the artwork will become
+even clearer in our discussion of irony) to the socially committed New
+Mythology is meant to be achieved.
+
+
+                               Philosophy of Art
+Continuities as well as discontinuities exist between Schelling’s aes-
+thetic theories of the System of Transcendental Idealism and the writings
+of the following seven years, especially the manuscript for his lecture
+on the Philosophy of Art. One thing, though, is clear beyond a doubt:
+Art loses its status as the capstone of the philosophical system in all of
+
+[p. 78] [PDF page 98]
+
+78                     Part I. The Age of Paradigms
+
+these texts. Despite its continuing relevance for philosophical thought,
+it no longer reaches what philosophy cannot achieve. Art is a vital
+contribution to thought because it still fulﬁlls functions that cannot
+be executed by conceptual thought, yet ultimately it depends on the
+philosopher to interpret its exploits. Also, the emphasis on the ge-
+nius as necessary producer of artworks gives way to a conception on a
+larger historical scale in which entire peoples serve as agents of artis-
+tic production23 – yet another tendency that underscores Schelling’s
+move from romanticism toward a Hegelian idealism during his mid-
+dle period, the years of the so-called Identitätsphilosophie (philosophy
+of identity).
+    Our discussion of the Philosophy of Art will be limited to the general
+ﬁrst part and leave out most of the second part in which Schelling de-
+velops a system of the individual arts. This half of the work, however,
+depends heavily on the manuscript of private lectures that August
+Wilhelm Schlegel (1767–1845), Friedrich’s brother, had given in
+Berlin in the years 1801–3 and that Schelling had borrowed from
+him.24
+    It can even be argued that the absolute itself acquires a new quality
+in the Philosophy of Art (PA) that adds another dimension to that being
+that precedes the differentiation into subject and object, namely, those
+“romantic” features of chaos, night and darkness. The absolute itself
+is mere “bottomless nothingness” [bodenlose Leere] (PA, 393).25 Only
+with the emergence of ideas [Urbilder] that introduce limitation, that
+is, the ﬁnite, into the absolute is the creation of the universe possible.
+What we know as the gods of ancient mythology are the ﬁrst sensual
+manifestations of these ideas, the ﬁrst emanations of the absolute.
+Whereas beauty is the reﬂection of the well-ordered universe, in the
+sublime we still encounter chaos (PA, 465), although the sublime must
+never be allowed to overpower order; that is, it must always retain a
+trace of beauty. Inversely, beauty must contain an aspect of sublimity,
+something faintly terrible (PA, 468 f.) – an idea that takes up the
+Aristotelian theory of catharsis and that is echoed in the verses of R. M.
+Rilke’s ﬁrst Duino Elegies: Denn das Schöne ist nichts als des Schrecklichen
+Anfang / Den wir noch grade ertragen (The beautiful is nothing but the
+beginning of the terrifying / that we can still endure).
+    Art, and now Schelling argues in the Neoplatonic tradition, does
+not represent objects; that is, it is not engaged in any naturalistic
+
+[p. 79] [PDF page 99]
+
+Schelling                                 79
+
+mimesis but, rather, represents the idea of the object. This metaphys-
+ical grounding of aesthetics can be considered an attempt to suspend
+the individualizing tendencies of Kant’s aesthetic philosophy.26 Even
+more explicit than in the Philosophy of Art, this Neoplatonic understand-
+ing of art informs the 1807 lecture On the Relation of the Visual Arts to
+Nature. Every object, Schelling afﬁrms here, is determined by its idea:
+“every object is ruled by an eternal concept” (RN, 300).27 A work of
+art can be considered successful when it represents the transcendental
+beauty of the idea – we remember that Schelling had deﬁned the ideas
+as simultaneously true and beautiful – to the senses, a conception that
+anticipates Hegel’s deﬁnition of beauty as the sensual splendor of the
+idea. In consequence, the artist in his work does not imitate the objects
+of nature that surround him; instead, he turns away from the visible
+world to directly imitate the ideas. This other aspect of the Platonic
+theory of mimesis, one that has been called “esoteric” and that is also
+taken up by Plotinus (e.g., Ennead V, 8, 1), will again play an important
+role in Schopenhauer’s aesthetics:
+
+He [the artist] must distance himself from the product or the creation, but
+only in order to be elevated to the creative force and to grasp it mentally
+[geistig]. Through this he soars upward into the realm of pure concepts; he
+leaves the creation in order to regain it with thousandfold interest and thereby
+to return to it. That spirit of nature that labors inside the object through form
+and gestalt as if through images [Sinnbilder] the artist must imitate, and only
+insofar as he grasps it in his imitation does he achieve truth [etwas Wahrhaftes].
+(RN, 301)
+
+   The work of art thus represents not the empirical object but its
+idea. Another way of putting this is by claiming that in art, every ob-
+ject is presented as the epitome of its existence, a state where it has
+reached its telos. Art captures the perfect moment and lifts the object
+out of the ﬂow of time, allowing it to become eternal in its preser-
+vation through art.28 The true being of the object is not its tempo-
+ral existence by its timeless presence that it reclaims in the artwork.
+This idea of the perfect moment that reveals the true nature of the
+object, transcends time, and eternalizes the object in art will inform
+many poetic theories of modernist writers, as in James Joyce’s theory
+of epiphany, Virginia Woolf’s “moment of being,” or Marcel Proust’s
+moment privilégié.
+
+[p. 80] [PDF page 100]
+
+80                      Part I. The Age of Paradigms
+
+   As much as the material world as God’s creation is the result of
+his emanation [Entäusserung], so the activity of the artist consists in
+pouring the idea into a form that is perceptible to the senses: “As
+much as all of creation is a work of the highest emanation, so the artist
+must negate himself and decend into the singular, not shying away
+from isolation, nor from agony and the pain of form” (RN, 304). Art is
+here likened to God’s act of creation that is considered a painful event
+of individualization and materialization – a kenosis, in the term of the
+New Testament, and, hence, an idea more Christian in nature than
+Neoplatonic, since Plotinus speaks of the engendering of the cosmos
+as a “painless labor” (Ennead V, 8, 12).
+   Obviously, Schelling has not given up all moments of the theory
+of genius, since one of its standard topoi is the parallelization of
+the work of the artist with the divine creation. The painful aspect
+of this notion is also echoed in Karl Wilhelm Ferdinand Solger’s
+tragic version of romantic irony. Without taking up the discussion of
+irony here, we can nevertheless point out that Solger regards the in-
+corporation of the absolute (which he calls “idea”) in an object of
+art as an event that destroys the eternal nature of the absolute and
+that thus causes sadness in the observer. In his dialogue Erwin he
+asserts:
+
+When the idea through artistic reason is incorporated in the individual object,
+it does not only express itself therein, nor does it appear as merely temporal
+and transient, but instead it becomes the present reality. Since nothing exists
+outside of it, only nothingness and transience, immense sadness must grip
+us when we see the most glorious dissolve into nothing through its necessary
+earthly existence.29
+
+   Whereas the intellectual intuition encounters the absolute in its
+transcendent state and sensual perception only considers the transient
+nature of objects, art hovers in between these two spheres. Art has a
+tragic aspect, but it is not tragic throughout, because from its vantage
+point both realms come into view. This view that observes the moment
+of the incarnation of the absolute in the artistic object is labeled “irony”
+by Solger. No matter what its achievements are, it will always retain its
+moment of sadness that is caused by the embodiment of the idea in a
+material object.
+
+[p. 81] [PDF page 101]
+
+Schelling                                81
+
+    Returning to the Philosophy of Art, Schelling’s Neoplatonic aesthetics
+deﬁne art and truth as two different perspectives on the absolute. An
+object is beautiful when it is so adequate to its idea that the inﬁnite (the
+concept) enters the real. In fewer words, in beauty the real becomes
+ideal. Schelling repeats the ontological arguments from the System of
+Transcendental Idealism that had deﬁned the artwork as the point of
+indifference between conscious and unconscious, freedom and neces-
+sity, subject and object. The work of art is not identical with the idea,
+but it is the reﬂection [Gegenbild ] of the idea [Urbild]. Its beauty is not
+an achievement of the artist; rather, it is due to its reﬂecting quality of
+the inﬁnite that is characterized by truth and beauty. Again, Schelling
+takes up a Neoplatonic motif in this deﬁnition of pulchritudo [beauty]
+as splendor dei [the splendor of God].30
+    If ideas are by necessity true and beautiful, it follows that the ugliness
+of some empirical objects cannot be traced back to ugly ideas; rather,
+it results from the merely temporal perspective on things. Ugliness is a
+mode of privation, the absence of almost all reﬂected splendor of the
+Urbild, the idea. Such interdependence of art and the transcendent
+naturally leads to a postulate of intimate ties between art and religion.
+At the end of his art historical essay on the allegorical representations
+of death and sleep in ancient art, Wie die Alten den Tod gebildet (How
+the ancients depicted death, 1768–9), Lessing had already come to the
+same Neoplatonic conclusion: “Only misunderstood religion can dis-
+tance us from art: and it is a proof of the true, the correctly understood
+true religion when everywhere it leads us back to the beautiful.”31 And
+Solger afﬁrms two decades after Schelling: “Religion cannot exist with-
+out art, as something merely rational; this is the other side of religion.
+Shall the religious principle reveal itself, it can only do this in mani-
+festations that are capable of representing an idea [Solger’s term for
+the absolute]. Similarly, the orientation toward religion is inherent
+in the sphere of art” (Lectures on Aesthetics, 94). In his Lectures on the
+Method of Academic Studies, Schelling states that no poetic world can ex-
+ist outside religion and that no objective representation of religion is
+possible without art (LM, 352).32 And although art causes the inﬁnite
+to appear in the ﬁnite realm, the mere appearance is not sufﬁcient
+but needs to be interpreted. Such interpretation can neither be un-
+dertaken by the artist himself nor by the untrained consumer of art.
+
+[p. 82] [PDF page 102]
+
+82                     Part I. The Age of Paradigms
+
+The interpretation of the presence of the inﬁnite in the ﬁnite object
+depends on the philosopher, and aesthetics therefore are deﬁned as
+the investigation of the “representation of the absolute world in the
+form of art” (LM, 350).
+    Manfred Frank has pointed out rightly that a certain tension in
+Schelling’s later conception of art cannot be overlooked. If philosophy
+can grasp the absolute through its interpretation of art, the inﬁnite in-
+terpretability of art and, thus, the ever-elusive nature of the absolute is
+endangered. It seems that either thesis has to be given up to achieve co-
+herence, unless a new philosophical conception of the absolute can be
+argued for that no longer depends on the embodiment of the absolute
+in privileged objects – a path that Hegel will soon take by advancing
+the notion that philosophy can dispense with the assistance of art when
+it comes to knowledge of the absolute.33
+
+
+                                  Irony
+Irony is regarded by the romantics as the link between speculation and
+poetic practice, as that which philosophy can understand but only art
+can do. By becoming ironic, poetry enables itself to fulﬁll the promises
+of romantic philosophy. This claim, however, can only be compre-
+hended if the deﬁnition of the term “irony” is clariﬁed, since it has
+little to do with our quotidian understanding of that same word.
+    Two meanings can already be distinguished in the traditional sense
+of the concept of irony. The ﬁrst is the one developed by the rhetorical
+system, especially Quintilian and Cicero, where irony is used as a ﬁgure
+of speech that means exactly the opposite of what it says. By employing
+some kind of hint through mimic or intonation, the so-called signal of
+irony, our interlocutor understands that we mean to debunk a book
+of which we ironically say: “This is a very good piece of writing!” Thus,
+rhetorical irony leaves us with a positive statement that is in no way
+unclear insofar as it is the reversal of the literal meaning.
+    The other traditional notion of irony is the Socratic one, which
+consisted in Socrates’ pretense to always know less that his dialogue
+partner and thereby to dismantle the latter’s presumed knowledge. It
+is not a ﬁgure of speech but an ethos of communication that only has
+the appearance of playfulness, but that turns out to be an instrument
+of the serious quest for knowledge.
+
+[p. 83] [PDF page 103]
+
+Schelling                                  83
+
+   Romantic irony distinguishes itself sharply from either position
+since it lacks the positive result of the rhetorical ﬁgure of speech, as
+well as the serious conviction of the attainability of a truth that can be
+grasped as a concept and communicated to others. Instead, romantic
+irony undermines all positions insofar as they are positive, ﬁnal, and
+limited. In the words of Friedrich Schlegel:
+
+In it, all must be joke and all must be earnestness, all innocently open and all
+deeply concealed. It has its source in the uniﬁcation of the artistic sense of
+life [Lebenskunstsinn] with the scientiﬁc spirit, in the engagement of completed
+natural philosophy and completed philosophy of art. It contains and produces
+a sense of the irreconcilable opposition of the inﬁnite and the ﬁnite, the
+impossibility and necessity of a complete communication. It is the freest of all
+licenses, because through it one overcomes oneself [setzt man sich über sich selbst
+hinweg] and yet the most regulated, because it is absolutely necessary. (KA II,
+159 f., no. 108)
+
+    This type of irony gestures toward the inﬁnite by rendering all
+ﬁnitude unstable and incomplete. Through its use the empirical self
+transcends itself toward the absolute in a “constant change between
+self-creation and self-destruction” (KA II, 172, no. 51). The self never
+arrives at full self-knowledge or self-certainty, but remains elusive, the
+object of (romantic) longing.
+    Of course, irony cannot escape the necessity of all propositions to
+establish some positive meaning (even in propositions containing a
+negation) by means of its conjunction of subject and predicate. Thus,
+an ironic statement also posits something ﬁnite and positive, and yet –
+just like rhetorical irony – it overturns it through the way it is stated. But
+whereas the rhetorical ﬁgure of speech leaves it at that, romantic irony
+does not arrive at a stable position but overturns this again. Not coming
+to a rest in its constant back and forth between the proposition and its
+negation, it renders all ﬁnite positions equally meaningless. Schlegel
+writes: “Everything worth something must be simultaneously this and
+its opposite” (KA XVIII, 82, no. 633). And just before that: “Everything
+that does not annihilate itself is not free and worth nothing” (KA XVIII,
+82, no. 628).
+    The result of this inﬁnite process of mutual negation is not the subla-
+tion of both positions into a higher form of coexistence, a Hegelian syn-
+thesis but, rather, a sense of instability and of constant change between
+
+[p. 84] [PDF page 104]
+
+84                      Part I. The Age of Paradigms
+
+“chaos and system” (KA XVIII, 283, no. 1048). Solger elaborates on
+this point that not only does irony “annihilate” all that is ﬁnite – a
+form of “objective irony” that Hegel praises and likens to the dialec-
+tical force of negation – but the absolute itself at which this inﬁnite
+process of negation hints also does not emerge as a positive moment.
+Irony can only provide an “intimation of totality” (KA II, 323) that is
+understood as that of which no perception can exist. Thus, philosophy
+can describe irony, but it is art that must practice it.
+   Georg Lukács has summarized this discussion in his 1920 Die Theorie
+des Romans (The theory of the novel):
+
+The irony of the poet is the negative mysticism of the godless ages: a docta
+ignorantia in respect to meaning; a demonstration of the merciful and ill-
+meaning labor of the demons; the decline to comprehend more than the fact
+of this labor and the deep certainty that can only be given form [nur gestaltend
+ausdrückbar]: in this refusal and impossibility to know one has seen and grasped
+the ﬁnal, the true substance, the present, nonexisting God in its truth.34
+
+    In a somewhat dense manner, Lukács explains that the romantics
+held that by demonstrating the impossibility of all ﬁnite knowledge,
+they had grasped the absolute. And yet this absolute does not achieve
+presence either, because it cannot manifest itself as something pos-
+itive. The absolute remains concealed in all its revelation; it is the
+“nonexisting God.”
+    Ernst Behler, the editor of the critical edition of Schlegel’s works,
+has argued that the romantic irony is nothing but an application
+of the Socratic irony to literature.35 Taking his stance against Søren
+Kierkegaard, Behler seems to underestimate the negative force of
+romantic irony that Kierkegaard took issue with. For the latter, irony
+was the synonym of romanticism in general and – following in the foot-
+steps of Hegel who had stated that this type of irony was symptomatic
+for a self-congratulatory ego that had cut all ties to reality36 – thereby
+the symptom of a frivolous attitude that destroyed all seriousness by un-
+dermining every possibility to commit and to communicate.37 Socratic
+irony, and Kierkegaard was right in this, rested precisely on these
+assumptions:
+
+Irony now functioned as that for which nothing was established, as that which
+was ﬁnished with everything, and also as that which had the absolute power
+to do everything. If it allowed something to remain established, it knew that it
+
+[p. 85] [PDF page 105]
+
+Schelling                                 85
+
+had the power to destroy it, knew at the very same moment it let it continue. If
+it posited something, it knew it had the authority to annul it, knew at the very
+same moment it posited it. It knew that in general it possessed the absolute
+power to bind and to unbind. It was lord over the idea just as much as over
+the phenomenon, and it destroyed the one with the other. It destroyed the
+phenomenon by showing that it did not correspond to the idea; it destroyed
+the idea by showing that it did not correspond to the phenomenon. Both were
+correct, since the idea and the phenomenon are only in and with each other.
+And during all this, irony saved its carefree life, since the subject, man, was
+able to do all this, for who is as great as Allah, and who can endure before
+him?38
+
+
+    Kierkegaard, defending the ideal of the Socratic irony as a tool for
+the establishment of truth, fears that in romantic irony all seriousness,
+gratitude, and humility disappear from human existence. The roman-
+tic poet, in the absence the absolute, becomes the sole representative of
+the Highest. Far from being a humiliation of the narcissistic fantasies
+of grandeur, as Manfred Frank argues,39 we would have to consider
+romantic irony as the function of a hypertrophic self. Similarly, art in
+the view of romantic philosophy would emerge as the supreme epis-
+temic organ that has already undermined its own capacity of arriving
+at that conceptual knowledge that is necessary for the communica-
+tion and the societal discourse of values. Romantic irony is obsessed
+with its own endless procedure and, thus, disables all agreement on
+valuation. The aestheticization of epistemology brings in its wake the
+loss of those foundations that are necessary for the establishment of
+communal ethical standards.
+    In the paradigm of aesthetics that Schelling and the other roman-
+tic philosophers develop, the epistemic function of art overrules all
+others; ontological functions are secondary, and any practical func-
+tion is denied to the artwork. The result of this stance is that art takes
+precedence over science, of which philosophy is considered a part.
+Art is cast in a role in which it is celebrated as that product of the
+human spirit that reveals a kind of truth that is not only different from
+scientiﬁc truth; instead it is its foundation. The truth of art precedes
+scientiﬁc truth and enables it: Without the world-disclosing activity
+of art, no individual inquiry would be possible. From here, a direct
+line leads to Heidegger’s theory of art as a disclosure of truth, as well
+as to the radical criticism of “instrumental reason,” as Adorno and
+
+[p. 86] [PDF page 106]
+
+86                    Part I. The Age of Paradigms
+
+Horkheimer termed the scientiﬁc project. Schelling’s paradigm must
+be considered the grandfather of today’s tendencies in philosophy to
+abort metaphysics, ontology, and epistemology all in favor of aesthetics.
+One cannot help but feel that philosophy somehow gets shortchanged
+with the establishment of romantic aesthetics – a sense that led Hegel
+to a reversal of the hierarchy of philosophy and art as expressed by the
+Schelling of the System.
+
+
+=== Notes to Chapter 4 ===
+
+[p. 224] [PDF page 244]
+
+Chapter 4. Schelling
+
+ 1    Schelling: Die Kunst in der Philosophie, Vol. 1: Schellings Begründung von
+      Natur und Geschichte (Pfullingen: Neske, 1966), p. 10. Jähnig also under-
+      estimates Schelling’s contributions to philosophy other than aesthetics
+      when he claims in his foreword that the actual achievement of Schelling
+      is the ﬁnal part of the System of Transcendental Idealism, and that therefore
+      this is what the name Schelling stands for.
+
+[p. 225] [PDF page 245]
+
+2    Friedrich Schlegel, Kritische Ausgabe. (KA) (Paderborn, Munich, Vienna,
+     and Darmstadt: Schöningh and Wissenschaftliche Buchgesellschaft,
+     1958 ff.). The fragments are quoted according to volume, page, and
+     number of the individual fragment.
+3    The dictum comes from the Nachgelassene Schriften and is quoted in the
+     introduction (xi) to the Vorlesungen über Ästhetik (Lectures on aesthetics,
+     1819) by K. W. L. Heyse. A reprint of the original 1828 edition appeared
+     in 1969 (Darmstadt: Wissenschaftliche Buchgesellschaft).
+4    Stuttgart: Reclam, 1968, p. 83.
+5    Eine Einführung in Schellings Philosophie (Frankfurt am Main: Suhrkamp,
+     1985), p. 11. My reading of Schelling owes much to the writings of Man-
+     fred Frank, who has done a lot to rekindle a philosophical interest in
+     this thinker and the Romantic philosophers in general. In fact, my own
+     engagement with aesthetics began in a more serious manner as a student
+     in his lecture class on the aesthetics of early Romanticism; these lectures
+     were consequently published as Einführung in die frühromantische Ästhetik.
+     Despite this debt, we differ in our valuation of the importance that con-
+     temporary philosophy should attribute to the Romantic paradigm.
+6    “Über einige Beziehungen zwischen Ästhetik und Therapeutik in der
+     Philosophie des neunzehnten Jahrhunderts,” in Manfred Frank and
+     Gerhard Kurz, eds., Materialien zu Schellings philosophischen Anfängen
+     (Frankfurt am Main: Suhrkamp, 1975), pp. 341–77. Quotation is on
+     p. 371.
+7    Cf. Lorenz Dittmann, “Schellings Philosophie der Bildenden Kunst,” in
+     H. Baur, L. Dittmann, et al., eds., Kunstgeschichte und Kunsttheorie im 19.
+     Jahrhundert (Berlin: de Gruyter, 1963), pp. 38–82. The quotation from
+     Schelling can be found on p. 79.
+8    System des transzendentalen Idealismus (Hamburg: Meiner, 1992). The page
+     numbers in parentheses do not refer to this edition, however, but to the
+     original edition of 1800.
+9    Cf. Walter Schulz, Introduction to System des transzendentalen Idealismus
+     (Hamburg: Meiner, 1992), pp. ix–xlvi. This reference is on p. xi.
+10   Schriften, Vol. 2: Das philosophische Werk I (Stuttgart: Kohlhammer, 1960),
+     p. 413.
+11   Grosse Stuttgarter Ausgabe, Vol. IV, Book 1 (Stuttgart: Kohlhammer, 1960),
+     pp. 216–17.
+12   Cf. Henrich’s important article “Hölderlin über Urteil und Sein: Eine
+     Studie zur Entstehungsgeschichte des Idealismus,” Hölderlin Jahrbuch 14
+     (Tübingen: Mohr and Siebeck), (1965–6), pp. 73–96. Quotation is on
+     p. 79. For a more detailed account, cf. Henrich’s Der Grund im Bewusstsein:
+     Untersuchungen zu Hölderlins Denken (1794–1795) (Stuttgart: Klett-Cotta,
+     1992), pp. 40–112.
+
+[p. 226] [PDF page 246]
+
+13    Zweite Einleitung in die Wissenschaftslehre (1797). J. G. Fichte, Werke, Vol. 1:
+      Schriften zur Wissenschaftslehre (Frankfurt am Main: Deutscher Klassiker
+      Verlag, 1997), §5, p. 145.
+14    Andrew Bowie argues for a close proximity of Schelling’s aesthetics to
+      linguistic philosophy, since he considers both as subverting the notion
+      of representation. It cannot be said what the absolute really is – the work
+      of art only shows the absolute, yet does not make it knowable. Schelling
+      and Modern European Philosophy: An Introduction (London and New York:
+      Routledge, 1993), p. 183 f. Bowie’s notion of representation is the one
+      much criticized in recent philosophy as presuming a full presence of the
+      represented. My use of the term, however, refers back to the original
+      legal meaning of the term to which Gadamer has alerted us, namely,
+      as a situational mediation between the absent that is represented and
+      the stand-in that is present. In turn, the representing element itself is
+      characterized by a curious mixture of presence – its physical and mental
+      identity – and absence – the irrelevance of this identity that is meant to
+      disappear behind the represented.
+15    Walter Schulz, Introduction to System des transzendentalen Idealismus, p. xv.
+16    For a detailed discussion of Hölderlin’s role as the pathbreaker for
+      both Schelling and Hegel, cf. Panajotis Kondylis’s dissertation, titled Die
+      Entstehung der Dialektik: Eine Analyse der geistigen Entwicklung von Hölderlin,
+      Schelling und Hegel bis 1802 (Stuttgart: Klett-Cotta, 1979).
+17    “Hölderlin über Urteil und Sein,” p. 82.
+18    Gedanken über die Nachahmung der griechischen Werke in der Malerei und Bild-
+      hauerkunst, in Werke, pp. 1–35. Quotation is on p. 17.
+19    Cf. Manfred Frank, Der kommende Gott: Vorlesungen über die Neue Mythologie
+      (Frankfurt am Main: Suhrkamp, 1982).
+20    Hölderlin, Grosse Stuttgarter Ausgabe, Vol. IV, Book 1, pp. 297–9.
+21    Schriften, Vol. 3: Das philosophische Werk II (Stuttgart: Kohlhammer, 1960),
+      pp. 507–24. Quotation is on p. 519.
+22    Friedrich Schlegel, Schriften zur Kunst und Literatur (Munich: Hanser,
+      1970), p. 305.
+23    Cf. Hans Michael Baumgartner and Harald Korten, Friedrich Wilhelm
+      Joseph Schelling (Munich: Beck, 1996), p. 99.
+24    Cf. Schelling’s letters to A. W. Schlegel of Sept. 3, 1802, and Oct. 4 and
+      21, 1802, in F. W. J. Schelling, Texte zur Philosophie der Kunst (Stuttgart:
+      Reclam, 1982), pp. 134–8.
+25    Sämtliche Werke, Vol. 5 (Stuttgart and Augsburg: J. G. Cotta, 1859).
+26    Cf. Werner Beierwaltes, Introduction to F. W. J. Schelling, Texte zur
+      Philosophie der Kunst, p. 24.
+27    Über das Verhältnis der bilden den Künste zu der Natur (RN), Sämtliche Werke,
+      vol. 7, pp. 289–329.
+
+[p. 227] [PDF page 247]
+
+28   For Lessing, this notion would be detrimental. In his Laokoon he argued:
+     “Only that is fruitful which leaves room to play for the imagination. The
+     more we see, the more we have to contribute in thought. The more we
+     contribute in thought, the more we must believe to see. In the entire
+     process of an affect no moment lacks this advantage more than its epit-
+     ome. Above it nothing exists, and to show the acme to the eye means to
+     tie the wings of imagination.” Werke in drei Bänden, vol. 3, p. 27.
+29   Erwin: Vier Gespräche über das Schöne und die Kunst (Munich: Fink, 1970),
+     reprint of the 1907 edition, p. 387.
+30   Cf. W. Beierwaltes, Introduction, 23.
+31   Werke in drei Bänden, vol. 3, p. 245.
+32   Vorlesungen über die Methode des akademischen Studiums (LM), Sämtliche
+     Werke, Vol. 5.
+33   Frank, Einführung in die frühromantische Ästhetik, pp. 199 f.
+34   Berlin: Paul Cassirer, 1920, pp. 87 f.
+35   “Die Theorie der romantischen Ironie,” in Studien zur Romantik und zur
+     idealistischen Philosophie (Paderborn: Schöningh, 1988), pp. 46–65, espe-
+     cially p. 58.
+36   Vorlesungen über die Ästhetik I, Vol. 13 of Werke, edited by E. Molden-
+     hauer and Karl Markus Michel (Frankfurt am Main: Suhrkamp, 1970),
+     p. 95.
+37   For an account that positions F. Schlegel’s concept of irony much closer
+     to Hegel’s quest for the absolute, see R. Bubner’s “Zur dialektischen
+     Bedeutung romantischer Ironie,” in Innovationen des Idealismus
+     (Göttingen: Vandenhoeck und Ruprecht, 1995), pp. 152–63. Bubner
+     argues that Schlegel’s irony mediates between Fichte’s notion of the ab-
+     solute ego as a beginning for all philosophy and Hegel’s notion of the
+     absolute as an objective telos. In his reading of Schlegel, irony keeps
+     awake the desire to leave all particular achievements behind in order to
+     advance to the absolute and its philosophical conception.
+38   The Concept of Irony with Continual Reference to Socrates, trans. Howard and
+     Edna Hong, vol. 2 in Works (Princeton, N.J.: Princeton University Press,
+     1989), pp. 275 f.
+39   Einführung in die frühromantische Ästhetik, p. 335.

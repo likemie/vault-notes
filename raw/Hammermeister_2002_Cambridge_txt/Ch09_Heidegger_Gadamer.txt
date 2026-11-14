@@ -1,0 +1,1041 @@
+The German Aesthetic Tradition
+Kai Hammermeister | Cambridge University Press, 2002
+
+Chapter 9: Heidegger, Gadamer
+Print pages 173–193; PDF pages 193–213
+
+
+=== Chapter text ===
+
+[p. 173] [PDF page 193]
+
+9
+
+                      Heidegger, Gadamer
+
+
+
+
+                           Martin Heidegger
+Martin Heidegger’s (1889–1976) writings on art renew the romantic
+paradigm in the philosophy of art for the twentieth century. Despite all
+his criticism of the idealist tradition, Heidegger insists with Schelling
+on art as a Wahrheitsgeschehen, a truth-event, that is, an occasion when
+truth becomes conspicuous. Still, Heidegger differs from his romantic
+precursor in that he does not elevate art to that height where it be-
+comes the only access to truth. Rather, he allows for some few alterna-
+tive events in which truth reveals itself as well. Nevertheless, Heidegger
+agrees with Schelling insofar as both thinkers place art as an “organon
+of truth” above the propositional correctness of science and, hence,
+some versions of philosophy.
+   Heidegger begins to write about art in the 1930s. He deals with this
+subject in his lectures on Hölderlin and Nietzsche of the 1930s and
+1940s; in 1935 he gives the lecture “Der Ursprung des Kunstwerks” (The
+origin of the work of art) in Freiburg and repeats it the following year in
+Zurich and Frankfurt am Main. Although this text was the most prob-
+ing and systematic of his pronouncements on art, it was not published
+until 1950 when it appeared as the opening essay of the book Holzwege
+(Paths in the wood). In 1951 the essay “Bauen Wohnen Denken” (Building
+dwelling thinking) followed, in 1969 “Die Kunst und der Raum” (Art and
+space). A good number of essays on poetry, especially on the works of
+Hölderlin, Rilke, and Stefan George, as well as on the visual arts which
+
+
+                                   173
+
+[p. 174] [PDF page 194]
+
+174                  Part III. Renewing the Paradigms
+
+become more important for Heidegger in the 1950s and 1960s, round
+out the picture.1
+    Heidegger’s gesture in all his writings on art is to repudiate philo-
+sophical aesthetics. He draws the line between himself and almost
+all of the Western tradition of philosophy of art, especially the clas-
+sical German tradition in the wake of Baumgarten and Kant. Just as
+Heidegger thinks of the history of philosophy after the pre-Socratics
+as one of Seinsvergessenheit (forgetfulness of being), he narrates the
+story of the philosophy of art as one that never came into its own. In
+his lectures on Nietzsche, Heidegger distinguishes six phases in the
+relation of philosophy and art.2 The ﬁrst phase covers the centuries of
+great art in ancient Greece, presumably from Homer to Euripides, and
+is characterized by the absence of all philosophical reﬂection on art.
+(Heidegger neglects here the pre-Socratic philosophical opposition
+against the poets.) For Heidegger, the philosophy of art only begins
+after the decline of great art and philosophy in Greece. From its incep-
+tion, this philosophy sets out on the wrong track by transposing the
+hyle -morphe distinction, that is, that between matter and form, from the
+sphere of the production of tools to that of art. He will return to this
+point in his lecture on the origin of the artwork. The beginning of the
+modern era marks the third phase in which taste, deﬁned as man’s
+individualistic relationship to his surroundings, becomes the measure
+of all that exists. Beauty is only discussed in reference to the subject,
+as his perception, that is, as aisthesis. Heidegger argues that great art
+discloses “the unconditional, absolute” (83), but that in the modern
+age, art loses its function to represent the absolute. That is why the
+high point of philosophical aesthetics – phase four – namely, the age
+of classical German philosophy, coincides with the end of all great
+art. The greatness of philosophical aesthetics in Germany results from
+its ability to think through this end of art, as we read it most con-
+vincingly in Hegel’s system. Phase ﬁve happens when the nineteenth
+century, above all Richard Wagner, attempts to turn art into an abso-
+lute necessity once more, but effects only art’s dissolution into mere
+emotionality and ultimately into nothingness. While the emotional in-
+toxication is meant to compensate for sterile and technical human ex-
+istence, it fails to provide orientation for great poetry and thought. It is
+Nietzsche who concludes this development in the sixth and ﬁnal phase
+by transforming aesthetics into physiology through the conception
+
+[p. 175] [PDF page 195]
+
+Heidegger, Gadamer                          175
+
+of emotional intoxication as a phenomenon of nerves and physico-
+electrical responses. Here, philosophical thought on art comes to an
+end and is consequently in need of a new beginning – by Heidegger
+himself.
+   The problematic aspect of this narrative is not so much its one-
+sidedness and its resulting historical inaccuracy. More problematic is
+that Heidegger’s claim for a fresh start glosses over his afﬁnities for
+the idealist tradition, especially Schelling. Some important differences
+notwithstanding, Heidegger is the ﬁrst thinker of the twentieth century
+to renew Schelling’s elevation of art to the most important means
+of cognition, yet Heidegger constistently refuses to acknowledge this
+debt.
+   Heidegger’s most important contribution to the philosophy of art,
+the essay The Origin of the Work of Art, again repudiates the entirety of the
+philosophical tradition and then suggests a better solution to the prob-
+lem in question. This means, brieﬂy stated, that Heidegger replaces the
+ontological approach to art with an epistemological approach. This is
+a change that we must explore in some detail. We can already note,
+however, that the ontological dimension of art is nevertheless not only
+retained but also understood from this new perspective.3
+   Heidegger’s opening meditations in The Origin of the Work of Art
+follow the structure of the Scholastic ontology, according to which an
+object is deﬁned by reference to its genus, the class of object to which
+the individual object belongs (i.e., the work of art being a thing as in
+opposition to an animal or a god), and its differtia speciﬁca, the unique
+moment that differentiates the type from the species of which it is a
+subgroup (i.e., the work of art being a different thing than a rock or a
+hammer). An artwork, Heidegger explains, is a thing. This is its genus:
+“Works of art exist as naturally as other things too” (9).4 Hence, we
+must ﬁrst ask what a thing is. But when asking this question, we must
+always keep in mind that not everything that exists is a thing: “man
+is no thing,” neither is God (12). Therefore, we must also inquire
+why and how an artwork differs from other objects; that is, we must
+ﬁnd the differentia speciﬁca. This differentiation between the thing and
+that which exists but is no thing will be of importance for Heidegger’s
+critique of the traditional conceptions of thingness.5
+   Heidegger distinguishes between three traditional conceptions of
+thingness. The ﬁrst is the oldest and has determined the ontology
+
+[p. 176] [PDF page 196]
+
+176                  Part III. Renewing the Paradigms
+
+of our grammar. When we think of propositions as the attribution of
+predicates to grammatical subjects, we think of grammar as a reﬂection
+of that concept of a thing that deﬁnes it as a substance plus its attributes.
+Yet this ontology of sustantia and accidens is too broad to be useful for
+the deﬁnition of a thing, because it refers not only to things but to
+everything that exists: “With its help we can never delineate the thing
+against that which exists but is not a thing” (16).
+    The second concept is that of the thing as an aistheton, that is, as the
+unity of a sensual manifold. A thing would then be deﬁned as the sum
+of all its properties that we can perceive, that is, see, hear, smell, taste,
+or touch. Yet Heidegger argues that this notion is counterintuitive.
+In our experience of things, we do not distinguish between a sensual
+perception and its material carrier. We do not hear a noise in order to
+determine in a separate mental process that we hear an airplane. We do
+not taste ﬁrst something sweet in order to decide next that we are eating
+chocolate. Rather, to separate sensual perception from the perceived
+object, we must distance ourselves from our quotidian experience.
+Such insight is always the result of an abstraction. The fact is, then,
+that the things themselves are closer to us than our perceptions. The
+thingness of a thing precedes the conscious perception of its sensual
+properties.
+    Finally, Heidegger discusses that concept of thingness that forms
+the basis of all aesthetic theory, namely, the notion of the thing as
+formed matter. Yet this differentiation of form, morphe, and matter,
+hyle, suffers from the same ﬂaw as the ﬁrst conception of thingness. It
+does not allow for a distinction between that which exists as a thing
+and that which does not exist as a thing, because it can be applied
+to pretty much anything, including man and God, two beings that
+are not things. Hence, all three concepts of thingness that traditional
+ontologies supply are not sufﬁcient to grasp the nature of the thing. We
+still do not know what the thing is: “The unobtrusive thing withholds
+itself most stubbornly from thought” (25). The question regarding
+the genus of the work of art has therefore failed already. Without the
+genus of an object, however, the inquiry into its differentia speciﬁca is
+impossible. Must the ontological approach to the artwork therefore
+be aborted altogether? Heidegger is not willing to do so because this
+would eliminate ontology from the discussion of art for good. But
+his intention, as we will see, is to reverse the order of questioning.
+
+[p. 177] [PDF page 197]
+
+Heidegger, Gadamer                        177
+
+Instead of basing an aesthetics on an ontology, he aims to discover the
+thingness of things as a result of the experience of art. Ontology does
+not precede aesthetics; it follows it.
+   Instead of abandoning the ontological question, Heidegger sug-
+gests that we might learn more about the thing when we limit our
+discussion to those objects that we ourselves have produced. Already
+in Sein und Zeit (Being and time, 1927), he had discussed this class of
+things under the rubric of Zeug, tools.6 A tool, however, is character-
+ized by its unobtrusiveness, the fact that it disappears behind its use.
+We do not pay attention to the hammer when we hang a picture. If
+we do so, hitting the nail will be much harder or impossible because
+our intention is not directed toward the task but toward the means to
+accomplish it. Similarly, we only notice our shoes when they are un-
+comfortable, that is, ﬂawed tools. Otherwise, these shoes only serve as
+tools to make our walking more efﬁcient. So how can we ask what the
+nature of the tool is if we already know that “the toolness of the tool
+consists in its usefulness [Dienlichkeit]” (26)? For Heidegger, art pro-
+vides an answer to this question. Only in the work of art can we learn
+what the nature of the tool is because here it sheds its hiddenness:
+“Rather it is only through the work and in the work that the toolness
+of the tool becomes visible” (30).
+   Heidegger famously demonstrates this thesis by discussing one of
+van Gogh’s paintings of a pair of shoes. Heidegger mistakes the boots
+of the painter for a pair of peasant shoes and ﬁnds captured in them
+the world of the peasant with her toil and joy. The art historian Meyer
+Schapiro has pointed out that the depicted shoes, however, have never
+belonged to a farming woman but, rather, to the artist himself. Despite
+this mistaken attribution of the shoes to an owner, the basic concept
+seems to remain valid. Nothing forces us to conclude, as Schapiro does,
+that Heidegger’s fanciful description contains nothing that could not
+have been imagined in looking at a real pair of shoes.7 Apart from the
+fact that everyday objects rarely invite any ﬂight of fancy in the ﬁrst
+place, it is relevant to distinguish between the depicted object and its
+model. The mere fact that the shoes in question never belonged to a
+peasant does not bear in the least on the possibility that the painting
+in which they are shown represents them as a pair of boots worn by
+farmers. Hence, it remains true that we only learn about the nature
+of the tool from the work of art. In art, we pay attention to that which
+
+[p. 178] [PDF page 198]
+
+178                 Part III. Renewing the Paradigms
+
+according to its nature must otherwise remain concealed. Art has the
+epistemological function of letting us see what cannot be seen directly.
+Hence, Heidegger famously deﬁnes the artwork as “das Sich-ins-Werk-
+Setzen der Wahrheit des Seienden” (the truth of being positioning itself in
+the work) (30). Ultimately, the ontological question has led us to an un-
+derstanding of the epistemological function of the work of art, and an
+important shift of emphasis has occured along the way. The ontologi-
+cal question has not been answered but replaced: “What art is, is one of
+those questions that are not answered in the essay” (91). Heidegger’s
+opposition against philosophical aesthetics results precisely from this
+ontological dispute. For him, philosophical aesthetics suffers from the
+inability to properly distinguish art from other objects. As a result,
+philosophical aesthetics falls into step with instrumental reason and
+turns art into Bestand, a reservoir of objects which can be placed op-
+posite the subject, contemplated from a distance, and ultimately con-
+trolled at will.
+
+The Truth of Art
+It is not the essence of art that is of interest for Heidegger but its
+function, namely, to disclose the truth of being as an event:8 “In the
+work, when being is here opened up into the what and how of its
+existence, an event of truth is at work” (30). We must therefore ask
+how Heidegger conceives of this truth-event in art.
+   Heidegger demonstrates this Wahrheitsgeschehen, this truth-event, by
+discussing a Greek temple as an artwork. The anonymity of its architect
+allows Heidegger to emphasize that in the philosophy of art, only the
+work is of importance, not the artist: “In great art, and we only talk
+about such art, the artist remains irrelevant in respect to the work,
+almost a self-destructing passage for the production of the work” (35).
+Heidegger distances himself clearly from the notion of genius and the
+work as an expression of the self. Needless to say, for him all biograph-
+ical interpretations of art are not only ﬂawed but altogether ignorant
+of the nature of art.
+   It is equally obvious for Heidegger that art must not be thought of
+as mimetic of reality. Especially architecture demonstrates that an art-
+work does not reproduce anything that exists already: “A building, a
+Greek temple, does not represent anything [bildet nichts ab]. It merely
+stands there in the midst of the rugged mountain valley”9 (37). Since
+
+[p. 179] [PDF page 199]
+
+Heidegger, Gadamer                          179
+
+the temple does not represent, it follows that works of arts are not signs
+that point away from themselves toward that which they represent.
+Works do not signify; rather, they allow something to be fully present.
+About the statue of the god in the temple Heidegger writes: “It is no
+representation that would allow us to learn how the god looks, instead
+it is a work that lets the god himself be present and therefore is the god
+himself. The same holds true for the linguistic work” (39). Gadamer
+will later use the term ästhetische Nichtunterscheidung (aesthetic nondif-
+ferentiation) for this fact.
+    In his discussion of the tool, Heidegger had demonstrated that its
+nature is its hiddenness and that we can only understand it by detour
+through the work of art. This moment of disclosure is characteristic
+for art in general. Works of art allow something to become visible,
+to be present, that had hitherto remained hidden. This moment of
+disclosure of truth in the work Heidegger calls world. World, just like
+tools, generally remains hidden from our view. Drawing on Husserl’s
+concept of the Lebenswelt, the life-world, Heidegger explains:
+
+World is never an object that stands before us and can be contemplated. World
+is always that immaterial being that governs us as long as the paths of birth
+and death, blessing and spell hold us outside ourselves into Being. Where the
+essential decisions of our history are made, are accepted and abandoned by
+us, mistaken and newly inquired about, there the world worlds [da weltet die
+Welt]. (41)
+
+   Hence, world is not the sum of objects but the backdrop of our life,
+that is, that linguistically stored knowledge about the “objective, social
+and subjective world” – as Habermas later differentiates, though not
+in the spirit of Heidegger – that provides us with interpretations and
+prejudices before we enter any situation.10 But language and world
+always remain behind the back of those who live in it. We cannot turn
+them into objects for our contemplation because that would presume
+a perspective from outside the world. Yet such extramundane position
+is an impossibility. World is only disclosed to us in the work of art:
+“The work erects a world. The work holds the openness of the world
+open” (41). The Greek temple, therefore, does not merely stand in the
+mountain valley but organizes both the landscape and man’s existence
+around it: “The temple through its existence grants to the things their
+face and to man the perspective on himself ” (39).
+
+[p. 180] [PDF page 200]
+
+180                    Part III. Renewing the Paradigms
+
+  The poet Wallace Stevens captured this organizing power of the
+work in a poem with the title “The Anecdote of the Jar”:
+
+                     I placed a jar in Tennessee,
+                     And round it was, upon a hill.
+                     It made the slovenly wilderness
+                     Surround that hill.
+                     The wilderness rose up to it,
+                     And sprawled around, no longer wild.
+                     The jar was round upon the ground
+                     And tall and of a port in air.
+                     It took dominion everywhere.
+                     The jar was gray and bare.
+                     It did not give of bird or bush,
+                     Like nothing else in Tennessee.11
+
+   In his 1951 essay “Building Dwelling Thinking,” Heidegger uses the
+example of a bridge to demonstrate how a work organizes the space
+around it and transforms it into a world.12 In other words, art lets us
+see something that remains hidden from view in our quotidian life.
+The work allows us a new perspective on our existence and our world:
+
+The positioning of truth in the work pushes open the uncanny and simulta-
+neously pushes over the familiar and that which we take for it. The truth that
+discloses itself in the work can never be proven and deduced from what exists
+so far [das Bisherige]. What exists so far is refuted in its exclusive reality by the
+work. What art founds can therefore never be compensated by the ready-at-
+hand [das Vorhandene] and the controllable [das Verfügbare]. The foundation
+is a surplus, a present. (77)
+
+   Therefore, the work not only lets us see those things that have re-
+mained hidden so far; it also makes visible the world in which these
+individual objects occur. Art, to repeat this point, is not mimetic. In
+the artwork something new comes into existence. Paul Klee famously
+declared in exactly the same spirit that art does not reproduce the
+visible, but it renders visible. A similar formulation can be found in
+the work of Konrad Fiedler who writes: “We will cease to want to see
+nature through art; rather, we will submit to art so that it teaches us to
+see nature.”13
+   Yet this disclosure of world is not merely cognitive; it possesses an
+ethical dimension. In The Origin of the Work of Art we read: “In the
+
+[p. 181] [PDF page 201]
+
+Heidegger, Gadamer                         181
+
+proximity of the work we had suddenly been elsewhere from where we
+used to be.” This sentence merely hints at the change that we undergo
+when we experience the truth of an artwork. And while the absence
+of an ethics in Heidegger’s works has oftentimes been bemoaned,
+Heidegger does imply an ethical dimension of art in his lectures on
+Nietzsche. The argument there runs like this. Art is what pleases. What
+pleases, however, depends on who I am. Who I am depends on what
+I demand from myself. The extent of a demand, though, can only be
+judged from the extremes that it covers. That demand that will tell me
+about myself must draw the line between what I can still endure and ask
+of myself and that which lies beyond. Heidegger then refers to the ﬁrst
+of Rainer Maria Rilke’s Duino Elegies in which beauty is said to be “nichts
+als des Schrecklichen Anfang, den wir noch grade ertragen” (nothing but the
+beginning of terror that we still barely endure). Hence, the beauty
+of art is the initiator of self-transcendence, of the development of
+the self toward its utmost possibilities. Art, despite its own restfulness,
+does not let us rest but urges us to change and develop. Heidegger
+never fully developed this thought,14 but it nevertheless underlies his
+meditations on art.
+    One last moment must be noted in respect to the world-disclosing
+function of the work of art, namely, Heidegger’s privileging of lan-
+guage. For him, just like for Hegel, poetry holds a special status among
+the arts. This is not because poetry marks the transition to the philo-
+sophical concept, as Hegel had explained it, but because language
+must disclose being for man before he can even produce works of art.
+Not only does language precede art, but it ﬁrst allows all of man’s ex-
+pressions: “Where there is no language, as in the being of stone, plant
+and animal, there is also no openness of being” (75). If the disclosing
+event of art is a gift, as Heidegger had formulated it, then language is
+that gift which man has received from Being and which put him in the
+position to then produce works of art himself that disclose a world. In
+the words of Hans-Georg Gadamer: “The work of language is the most
+original poetry of Being.”15
+    While it is the function of the moment of world in the artwork
+to disclose, to make visible, and to allow for a new perspective, it is
+vital to note that this event must not be understood as a cognitive
+gain that could then be captured conceptually. Heidegger’s position
+is far from such Hegelianism and remains close to the Schelling of The
+
+[p. 182] [PDF page 202]
+
+182                  Part III. Renewing the Paradigms
+
+System of Transcendental Idealism who had argued that only art grants an
+intellectual intuition that can never be transposed into philosophical
+thought. Heidegger, too, insists that art remains ultimately unknow-
+able. Long before Adorno, he speaks of the “Rätsel der Kunst,” the
+enigma of art (83). Every work of art contains a moment that can-
+not be understood, that remains hidden and resists all attempts of
+elucidation. Heidegger calls this moment earth: “Earth is the essential
+self-concealing [das wesenhaft Sich-Verschliessende]” (44). Because all art
+contains this moment of earth, no one experience will ever come to
+terms with the work; no single interpretation will ever sufﬁce.16 The
+earth is the reason that Kant’s aesthetic idea, namely, that the work of art
+invites endless thought, also holds true for Heidegger’s philosophy of
+art. Yet if earth were simply that which remains hidden, we would have
+no knowledge of it to begin with. Therefore, earth must announce
+itself as hidden: “The earth is not simply the concealed, but that which
+announces itself as self-concealing [was als Sichverschliessendes aufgeht]”
+(54). The hiddenness of the earth is twofold: It is the reason that we can
+mistake something for something else, that is, that errors can occur
+in our judgment (Heidegger’s term Verstellen, blockage), but it is also
+that which resists all cognition (Versagen, refusal) (54).
+    Especially this latter manifestation, earth as refusal to yield to cog-
+nition, has important consequences not only for art. The reason that
+Heidegger does not want to dismiss the ontological question in his
+philosophy of art is that art becomes endowed with the function of an
+ontological safekeeper. This is because Heidegger extends the notion
+of earth from the sphere of art to being in general. Earth is what re-
+sists cognition: “The earth lets every attempt to intrude upon it crash
+against it. It turns every calculating intrusion into destruction” (43).
+Art is merely the privileged site of the demonstration that technical
+and scientiﬁc reason are ultimately destructive. It differs in this respect
+from other objects – things or tools – because it presents itself as that
+which withdraws. Only in our encounters with art do we realize that ev-
+ery attempt to force it to disclose its secret will result in the destruction
+of those qualities that distinguish the work of art from a nonartistic
+object. By extension, art protects all things in the age of the destruction
+of things, of serial production, easy replaceability, and the absence of
+all traces of human workmanship in the object: “Therefore the work
+of art is an instance that protects from the general loss of things. Just
+
+[p. 183] [PDF page 203]
+
+Heidegger, Gadamer                        183
+
+as Rilke transﬁgures the innocence of the thing poetically in the midst
+of the collective disappearance of thingness by showing the thing to
+the angel, the thinker thinks the same loss of thingness by realizing its
+safe-keeping in the work of art.”17
+    Heidegger himself does not refer to Rilke’s Dinggedichte (Thing
+poems) in the artwork essay, but in the text “Wozu Dichter?” (Why
+Poets?) he quotes approvingly from a 1925 letter by Rilke in which
+the poet claims that his grandparents still knew things, whereas the
+present generation knows merely objects.18 It would lead us too far
+astray to discuss this safekeeping function of art further, but it is cer-
+tainly true that Heidegger’s essay “Das Ding” (The thing) must be read
+as a continuation of the discussion that had not found its conclusion in
+The Origin of the Work of Art, as Gadamer has stated.19 The two moments
+of world and earth in the work of art do not merely coexist alongside
+each other; their respective functions, disclosure and concealing, are
+engaged in a struggle: “The opposition of world and earth is a strife”
+(46). Strife must here be understood in the sense of agon, the contest
+that was an essential element in the Greek concept of self-perfection:
+“In the essential strife the opponents raise each other into the self-
+realization of their essence. . . . In the strife each carries the other
+beyond itself ” (46). Therefore, the artwork always contains a tension,
+an internal kinetic energy. Only because the work of art moves can
+it move us. Yet there is nothing restless about the artwork either. Just
+as the artwork harbors both world and earth, it must be thought of
+as simultaneously moving and at rest. We will have to return to this
+thought as an interesting reversal of Kant’s kinetic explanation of the
+aesthetic experience.
+    Heidegger had claimed that our encounters with art contain a mo-
+ment of the uncanny because we realize that truth is not a matter of
+mere disclosure but also of concealing. Every truth partakes in that
+which remains unknown: “The essence of truth, i.e. of unconcealed-
+ness, is shot through with refusal” (53). Truth is therefore the struggle
+between world and earth and by no means the struggle of world against
+earth. In the work of art, we experience this struggle as beauty: “Beauty
+is one way in which truth appears [west] as unconcealedness” (55). We
+must take note of the indeﬁnite article in this sentence. Heidegger
+does not claim that truth appears only in art, but that art is just one
+of its manifestations. He acknowledges other instances of truth as well
+
+[p. 184] [PDF page 204]
+
+184                  Part III. Renewing the Paradigms
+
+and names the founding of a state, the self-sacriﬁce for an ideal, and
+philosophical thought (55). As we will see shortly, however, Heidegger
+explicitly excludes science from this list of truth-events.
+   As this comparison of art with political events might already indi-
+cate, Heidegger’s notion of art is far from that of a solitary aesthetic
+Erlebnis, an experience of consumption. Rather, he continues that ide-
+alist tradition that had always regarded art as a communal event: “The
+safekeeping of the work does not isolate human beings in their experi-
+ences, but moves them into the belonging to the truth that happens in
+the work. Thus it founds the being for and with each other as the his-
+torical relation of human existence to unconcealedness [und gründet
+so das Für- und Miteinandersein als das geschichtliche Ausstehen des Da-seins
+aus dem Bezug zur Unverborgenheit]” (69). Hence, the experience of art
+is not a matter of personal taste or of withdrawn contemplation but,
+rather, an event that allows man to overcome his isolation. Art is not
+existential,20 but it grants man the experience of society that consti-
+tutes one aspect of his world.
+   Art, however, is more than that experience that breaks down the
+barriers between men. Heidegger’s conception of art is more radical
+than this. In his view, we do not always already live in a society in
+order to then produce art for certain collective purposes. Art, as much
+as the political founding of a state, is one of man’s primary activities
+on which all social life is based. Without art, man would not know
+social life at all. Man has a history precisely because he can encounter
+himself and his world in the work: “Art is history in the essential sense
+that it founds history [dass sie Geschichte gründet]” (80). This founding
+of history Heidegger regards in the 1930s as closely connected to the
+historical fate of nations.21 Later, this historical and political moment
+of art disappears from his texts. What remains, nevertheless, is the
+insistence on the communal aspect of art. In regard to the political
+moment of art Heidegger writes: “World is the disclosing openness of
+the wide paths of the simple and essential decisions in the fate of a
+historical people” (45).
+   It would be no more than a truism to state that an artwork is almost
+always the result of a single individual, even in the case of architecture,
+where the execution of the structure depends on the help of many but
+the conception is that of one mind. Yet this does not mean that the
+individual is the source of the work of art. Biographical interpretation
+
+[p. 185] [PDF page 205]
+
+Heidegger, Gadamer                        185
+
+also fails because art, especially poetry, is not the achievement of a
+solitary genius but, rather, must be considered the “telos of historical
+existence” (78). It is not the poet who speaks; rather, the language of
+a historical people speaks through him or her.22 Heidegger takes this
+notion from the poets Friedrich Hölderlin, who thinks of the poet as
+a transmitter of poetic messages from the gods, and Stefan George,
+for whom poetry was the constitutive moment of those elitist circles
+that guard and transmit Western culture. Hence, there is nothing that
+makes this concept speciﬁc for a National Socialist aesthetics, as had
+been argued.23 That it can also be used for the purposes of a fascist
+state, as Heidegger might very well have intended, still does not make it
+genuinely totalitarian. Nevertheless, the fact that Heidegger drops the
+political references in his writings on art in the 1950s and 1960s could
+be understood as a result of his disappointment with the National
+Socialists.
+
+Heidegger and Idealism
+By advancing art as a truth-event, Heidegger renews Schelling’s
+paradigm of art as an “organon of truth.” For the Schelling of 1800, it
+was a certainty that art ranked above philosophy in its potential to grant
+intellectual intuition of the absolute. Although he would later reverse
+this hierarchy and thus move closer to Hegel’s position, for a brief
+period the notion of art as the most important means of cognition was
+paradigmatic. Heidegger, however, is never as clear on this question as
+Schelling. Repeatedly he thinks and writes about the relationship of
+poetry and philosophy, and in different essays he suggests different hi-
+erarchical relationships. In his late philosophical poem “Cezanne,” for
+example, Heidegger indicates that art achieves what philosophy can
+only aim for. Art enters the realm of Einfalt (simplicity, unity), whereas
+thought remains tied to Zwiefalt (doubling, division). Heidegger here
+renews the idea that the sublation of signiﬁcation in art lets the signi-
+ﬁed be present. Philosophy, on the other hand, does not result in a
+full presence.24
+   Still, this position is merely a tendency and not Heidegger’s last word
+on the strife between poetry and philosophy. Other essays suggest at
+least an equality; some even tend to attribute ultimate supremacy to
+thought. It might be tempting to solve this problem by suggesting a
+division of labor between two unique, yet ultimately incomparable,
+
+[p. 186] [PDF page 206]
+
+186                 Part III. Renewing the Paradigms
+
+activities. One could consequently think of this difﬁcult relation in
+the following manner: Philosophy is a Hegelian enterprise that looks
+backward in time and meditates about the present as a result of past
+developments. Poetry, on the other hand, could be thought of as that
+visionary activity that opens paths into the future, as the poet Hölderlin
+had conceived of it. Poetry’s world-disclosing moment could be seen
+as the opening of a space in which man’s individual and communal
+life can take place. A rivalry between poetry and philosophy would be
+replaced in this conception by a division of tasks. Heidegger would
+have avoided both Schelling’s supremacy of art as well as Hegel’s dis-
+placement of art by religion and philosophy. And yet, Heidegger’s
+thinking about art never reaches the clear separation of functions sug-
+gested here. Up to the very last pronouncements on art, he struggles
+to achieve a hierarchical order of art and thought that would not de-
+pend on the separation of their speciﬁc functions. Mostly, art wins out
+in this strife and establishes itself as that event that can fulﬁll its own
+promise, while philosophy does not know the quiet self-fulﬁllment of
+art.
+    Whereas the precise relation of art and philosophy remains prob-
+lematic for Heidegger, this is not the case for the hierarchy of art and
+science. This is not the place to discuss Heidegger’s notion of science,
+but two things must be kept in mind when thinking about scientiﬁc
+and aesthetic truth. The ﬁrst is that Heidegger thinks of science as
+the historical manifestation of instrumental reason, that is, the quan-
+tifying and calculating objectiﬁcation of man’s life-world. Secondly,
+Heidegger regards scientiﬁc truth claims as one-dimensional propo-
+sitions. Generally speaking, his notion of science comes closer to the
+positivist self-deﬁnition of the scientists of the nineteenth century than
+to the post-empiricist conception of science in the twentieth century.
+There is little need to uphold the strict opposition of art and science,
+as proposed by Heidegger, in an age in which those conceptions of
+science as advanced by Thomas Kuhn or Paul Feyerabend move sci-
+ence much closer to the domain of art. This new understanding of
+science acknowledges preconditions for its research that Heidegger
+had advanced in his essay on the origin of art. Hence, the notion that
+science depends on a previously disclosed understanding of being –
+a paradigm in the words of Kuhn25 – today seems more acceptable to
+scientists as well.
+
+[p. 187] [PDF page 207]
+
+Heidegger, Gadamer                         187
+
+   Heidegger excludes science from his list of truth-events with the fol-
+lowing explanation: “Science is no originary truth-event, but rather the
+expansion of an already open sphere of truth by means of appropria-
+tion and justiﬁcation of that which presents itself as possible and nec-
+essary correctness in its surrounding” (62). We must note two things
+in this statement. Heidegger sets up an opposition between truth and
+correctness [Richtigkeit]. While truth happens in art, self-sacriﬁce, and
+the founding of a state, science merely achieves correctness. This is
+because scientiﬁc correctness is secondary to, even parasitic on, truth.
+Correct statements are not possible without a preceding truth. Art
+opens a sphere of orientation that must already exist before any kind
+of scientiﬁc question can be posed. Without a disclosed world, science
+is an impossibility. As Manfred Frank comments: “Truth as proposi-
+tional truth is only possible under the precondition of a semantically
+disclosed world – and art is true in that sense that it stands on the side
+of this disclosure of meaning that precedes all propositions.”26 The
+problematic aspect of this relationship, however, is that science tends
+to forget about its necessary dependence on aesthetic unconcealed-
+ness. Instead of acknowledging its debt to art, science obscures it. More
+and more, truth becomes associated with correctness; one-dimensional
+propositions triumph over thought. Yet while this simpliﬁed narrative
+no longer holds, it has been corrected in Heidegger’s sense. Science
+now largely acknowledges that its questions depend on something that
+lies outside its own sphere and precedes it.
+   The relation of Heidegger’s philosophy of art to idealism is com-
+plex. While the proximity of his thought to the Schelling of The System
+of Transcendental Idealism is unmistakable, Heidegger positions himself
+in a complicated constellation of attraction and repulsion in regard to
+other idealists as well.27 While it seems at ﬁrst sight that his aesthetic
+position is thoroughly anti-Kantian, this is not quite the case when
+one takes a second look. True enough, Heidegger clearly breaks with
+Kant’s subjectivist aesthetics, and he insists that art is not an Erlebnis,
+a merely subjective experience of consumption. While an ontology
+of art is more or less inconceivable inside the Kantian framework,
+Heidegger, just like the post-Kantian idealists, emphasizes the objec-
+tive moment of art. This is most obvious when we think about the
+kinetic moment in aesthetics. Kant had argued that the aesthetic ex-
+perience consists in a playful back and forth between imagination and
+
+[p. 188] [PDF page 208]
+
+188                 Part III. Renewing the Paradigms
+
+understanding, because imagination keeps sending its material to the
+faculty of understanding in order to be uniﬁed under a concept. This
+conceptualization, however, fails, and understanding returns the mate-
+rial to the imagination. In this process, we joyfully become aware of the
+workings of these mental faculties and their interaction that is endless,
+yet never frustrating. Heidegger, too, ﬁnds the kinetic moment in art of
+importance. Yet for him this cannot be an issue of subjective response;
+the motion must be located in the object. Hence, he conceives of the
+strife of world and earth as a continuing agon, a movement that allows
+each moment to develop fully due to the resistance of the opposing
+other. As little as the continuing back and forth between imagination
+and understanding produces nervous agitation for Kant, but rather is
+synonymous with self-perpetuating pleasure, for Heidegger the strife
+of world and earth is an internal struggle within an object that seems
+entirely peaceful.
+   Yet Kant had also left the realm of purely subjective responses to
+art behind both by claiming a moral function for the artwork and by
+insisting on its importance in the process of social unity, which needs
+to be renewed consistently. Much like him, Heidegger also insists on
+the ability of the artwork to overcome solitary reception and to play
+a role in the constitution and maintenance of a community. While
+Kant argues this point by referring the necessary collective character
+of the aesthetic judgment, Heidegger is less clear on the precise inter-
+action of artwork and community. As with his philosophy in general,
+a desideratum for a social hermeneutics seems to announce itself in
+this discussion of art’s transindividual relevance.
+   Furthermore, Heidegger continues Kant’s notion of the aesthetic
+idea. If the only function of a work of art were to erect a world, the
+meaning of this work could conceivably be transposed into philo-
+sophical concepts. But against this Hegelian transformation of the
+“enigma of art” into propositional truth, Heidegger advances the no-
+tion of earth. Earth guarantees the continuing enchantment of the
+work; it opposes all ﬁnal interpretation, it protects the thing against its
+disappearance in total utilization, and it teaches us about the neces-
+sary limits of all cognition, especially that of a scientiﬁc nature. While
+Heidegger agrees with Hegel’s attempts to overcome the opposition
+of subject and object in art, he makes it equally clear that art is not
+one manifestation of spirit that could be overcome by more advanced
+
+[p. 189] [PDF page 209]
+
+Heidegger, Gadamer                        189
+
+manifestations: “Art neither belongs to the accomplishments of cul-
+ture nor is it a manifestation of spirit. Rather, it belongs to the event
+that allows one to determine the ‘meaning of Being’” (91).
+   Ultimately, however, Heidegger’s position comes closest to that of
+Schelling, for he insists on art as an event of truth, possibly even one
+that leaves philosophy behind. For a brief moment, Schelling was con-
+vinced of art’s supremacy. Heidegger is more cautious, and at least in
+The Origin of the Work of Art acknowledges that truth can also be brought
+about by practices other than art. Yet the fact that art is discussed in
+an epistemological context and that its truth is opposed to scientiﬁc
+correctness is certainly beholden to Schelling. Both in the works of his
+student Gadamer and in that of his opponent Adorno, this insistence
+on the truth of art will manifest itself as well.
+
+
+                        Hans-Georg Gadamer
+Heidegger’s philosophy of art contains a gesture of concealment. A
+debt to early Romantic aesthetics is indicated, yet never spelled out. In
+the works of Heidegger’s student Hans-Georg Gadamer (1900–2002),
+we ﬁnd the same repudiation of idealist aesthetics that had already
+covered up unacknowledged romantic sympathies and debts in the
+writings of his teacher. But whereas Heidegger includes much of the
+pre-idealist philosophy of art in his criticism of the tradition, Gadamer
+advocates a return to ancient philosophy as a means of overcoming the
+impasse created by Kantian aesthetics. Gadamer’s solution to the ques-
+tion of how to overcome the idealist heritage is to renew the philosophy
+of art by transforming aesthetics into a privileged area of hermeneutics.
+Hermeneutics for Gadamer no longer signiﬁes a method of interpre-
+tation, as it had for the Bible scholars of the Reformation and the Euro-
+pean humanists, who aimed for the comprehension or restitution of an
+authentic text, nor a controlled reading operation to prevent misun-
+derstanding, as for the founder of modern hermeneutics, the roman-
+tic Friedrich Schleiermacher. Instead, Gadamer develops Heidegger’s
+“hermeneutics of facticity” into a philosophical hermeneutics, that is,
+a philosophy that regards understanding – seen as a process between
+persons or as a dialogue with oneself – as one of the most important
+constituting factors in man’s existence and no longer as merely a tool
+for the comprehension of texts.28
+
+[p. 190] [PDF page 210]
+
+190                  Part III. Renewing the Paradigms
+
+    Gadamer’s magnum opus Wahrheit und Methode (Truth and method,
+1960) opens its discussion of truth not with an analysis of traditional
+philosophical theories of truth but, rather, with a long section on art.
+Yet for Gadamer, art has to be defended against aesthetics, because
+the truth of art got lost in it: “The following investigations therefore
+begin with a critique of aesthetic consciousness in order to defend
+the experience of truth that the work of art grants us against the scien-
+tiﬁc concept of truth.”29 As the decisive turn in the history of aesthetics
+Gadamer pinpoints the work of Kant; his subjectivization of aesthetics,
+Gadamer claims, has led to the separation of aesthetics and epistemol-
+ogy. Against this dominant notion in aesthetics Gadamer pitches the
+necessity of regaining a concept of art as cognition.
+    He faults Kant’s aesthetic theory for discrediting all notions of cog-
+nition except that of the natural sciences. Therefore, the humanities
+were forced to emulate the methodological operations of the natural
+sciences, yet the truth of their objects, mainly art, gets lost in this trans-
+formation. Gadamer argues that no methodology exists that could be
+applied in order to disclose the truth of art and to understand a work
+correctly.
+    The reverse side of Kant’s antiepistemic approach to aesthetics is
+his subjectivization of man’s encounter with art. Art is no longer de-
+ﬁned as a speciﬁc kind of object but, rather, as that which elicits an
+aesthetic judgment. More important than the work is now the sub-
+jective response to it: The experience replaces the work. But to dis-
+credit the importance of the work entails its separation from the social,
+historical, and religious world of its production. The aesthetic experi-
+ence fails to connect to the world of the work. Therefore, a hermeneu-
+tic philosophy of art must reintegrate the work into the totality of its ex-
+istence in order to overcome the isolating aesthetic experience. Such
+reintegration into its world will also restitute the work’s cognitive func-
+tion. Hence, Gadamer can claim: “Art is cognition and the experience
+of the work of art grants this cognition.”30
+    In order to overcome the subject–object division in the aesthetic ex-
+perience, Gadamer does not rely on a Hegelian metaphysics of spirit.
+Instead, he suggests an ontological approach to art that de-essentializes
+the artwork without ceasing to consider it as a transhistorical point
+of reference, an object of “hermeneutical identity.”31 Gadamer takes
+up those interpretations of art that consider it a form of play. In his
+
+[p. 191] [PDF page 211]
+
+Heidegger, Gadamer                           191
+
+version of aesthetics, the work of art is seen as a game that bridges
+the gap between work and recipient because a game lacks existence
+without players who play it. Similarly, art can be understood neither
+as the work outside the situation of its reception nor as the subjective
+experience of aesthetic pleasure that disregards its source. The art-
+work only comes into true existence in the moment of its reception.
+Here it gains its identity as much as it grants a renewed identity to
+viewer and reader. Taking up Husserl’s notion of horizon, Gadamer
+describes this process of mediation between work and viewer as one
+of Horizontverschmelzung, the melting together of horizons. In the pro-
+cess of the reception of a historical work, neither the work nor the
+recipient remains the same. Past and present together form a new to-
+tality that explains both the continuing vividness of the work and its
+power to affect the life of the viewer, listener, or reader. Art does not
+leave the lives of its recipients unchanged, but it exerts a transforma-
+tive power. And yet, the recipients remain subjects in the humanist
+sense as well. Art for Gadamer never turns into a play without players,
+an event without human beings, as for example Derrida’s notion of
+jeu suggests.
+   While Truth and Method does not explain how Gadamer conceives
+of the transformative power of art, later essays take up this question.
+One of the most provocative of these texts presents a new conception
+of mimesis, the concept that had ﬁgured large in Lukács’s aesthetics
+and would do so, too, in Adorno’s writings. By taking up an ancient
+notion of mimesis, Gadamer provides art with a practical function that
+encompasses the individual and the social sphere. For this, he turns
+away from Plato’s understanding of mimesis and replaces it with that
+of the Pythagoreans. In their view, mimesis is not the imitation of an
+existing object but, rather, the threefold experience of order, namely,
+the order of the world, of musical harmony, and of a well-balanced
+soul.32 Hence, Gadamer writes:
+
+To attest order – this to me seems to have always been valid insofar as every
+work of art, even in our world that changes more and more into uniformity and
+seriality, attests to the mental power of order that constitutes the reality of
+our life. In the work of art happens in an exemplary manner what we all
+do in existing: constant construction of world. It stands in the midst of a
+disintegrating world of the familiar as a guarantee of order, and maybe all
+forces of protection on which all culture rests rely on that which we encounter
+
+[p. 192] [PDF page 212]
+
+192                  Part III. Renewing the Paradigms
+
+in an exemplary manner in the doing of the artist and in the experience of
+art: that we always bring back to order what disintegrates.33
+
+
+   Art provides order in a disorderly, chaotic world. This order is not
+merely cognitive but also moral. Although this is not the place to dis-
+cuss the complex interaction of cognitive and moral order, there can
+be little doubt that Gadamer’s notion of mimesis supports a view of art
+that considers it a necessity in the constitution of a just community.34
+   In order to demonstrate how art can disclose truth, Gadamer re-
+sorts to Plato’s theory of art, but only to reverse it. Whereas Plato had
+charged artworks with being ontologically ﬂawed representations of
+ideas, even further removed from the eternal essence of the object
+than their materially existing counterparts, Gadamer argues for a su-
+perior status of art. It is art that truly contains the essence of the object,
+not an immaterial idea. In the artwork we do not face a lack of ontolog-
+ical signiﬁcance but, rather, an increase of true existence and, hence,
+of cognizability: “Works of art have an ontologically superior status.”35
+   Art allows a process of cognition to take place. Processes of cog-
+nition, of learning, and of comprehension, however, are the gen-
+uine subject of hermeneutics as the theory of understanding. Hence,
+Gadamer concludes that art as an event of cognition falls into the
+domain of hermeneutics. Instead of perpetuating aesthetics as a sub-
+jectivist endeavor, it must give way to an encompassing theory of
+understanding, namely, philosophical hermeneutics: “Hermeneutic
+consciousness achieves a scope wider than that of aesthetic conscious-
+ness. Aesthetics must be dissolved into hermeneutics.” 36
+   Gadamer shares with Heidegger the emphasis on the truth of
+art that is a heritage from Schelling’s romantic aesthetics. Yet while
+Heidegger never makes the ﬁnal decision regarding philosophy’s po-
+tential to disclose truth as art does, Gadamer establishes a hierarchy.
+For him, the work of art transmits a kind of knowledge that philoso-
+phy lacks: “We do not read philosophical texts like a poem that knows
+everything. We rather read a philosophical text as one that will also
+not know, but whose author has inquired and thought for longer.”37
+   Another way of putting the same idea is by stating that philosophi-
+cal knowledge cannot ﬁnd closure, whereas art has always reached its
+telos. Yet philosophical texts have the same capacity to bridge the gap
+of time and to become fully present for us.38 Their presence, though,
+
+[p. 193] [PDF page 213]
+
+Heidegger, Gadamer                       193
+
+is an invitation to think and hence to question, if questioning is, as
+Heidegger famously put it, the piety of thought. Our encounters with
+art, to be sure, must also begin with a question so that the dialogue
+between us and the work can be opened up. But once we have listened
+to the answer of the work, we ﬁnd ourselves included in the restful-
+ness of art. And although Gadamer would probably not claim that we
+encounter the absolute in these priviledged moments, the effects of
+Schelling’s intellectual intuition and Gadamer’s shared truth of the
+work seem very much alike.
+
+
+=== Notes to Chapter 9 ===
+
+[p. 238] [PDF page 258]
+
+Chapter 9. Heidegger, Gadamer
+
+ 1    For a biographical account of Heidegger’s involvement with the vi-
+      sual arts, see Heinrich Wiegand Petzet’s book Auf einen Stern zugehen:
+      Begegnungen mit Martin Heidegger 1929–1976 (Frankfurt am Main: So-
+      cietäts-Verlag, 1983), pp. 141–67. Especially Heidegger’s early interest
+      in the Worpswede artist colony is not well known. Also noteworthy is
+      Heidegger’s reported statement of the late 1950s in which he claims,
+      after having studied the works of Paul Klee, that art is changing and that
+      this might necessitate a second part of the Origin of the Work of Art. The
+      fact that he never attempted to write such a sequel suggests that mod-
+      ern phenomena in art can also be comprehended within the framework
+      that Heidegger provides in his 1936 lecture. For an attempt to trace in-
+      ﬂuences of painters, sculptors, and poets on Heidegger’s philosophy at
+      large, see Gerhard Faden’s Der Schein der Kunst: Zu Heideggers Kritik der
+      Ästhetik (Würzburg: Könighausen und Neumann, 1986).
+ 2    Nietzsche (Frankfurt am Main: Klostermann, 1996), vol. 1, pp. 77 ff.
+ 3    O. Pöggeler goes so far as to argue that “the essay The Origin of the Work
+      of Art does not present a philosophy of art”; rather, it must be read as
+      an elaboration on the ontological meditations of Being and Time. I will
+      show that these two moments do not only not exclude each other but
+      are dependent upon one another (Otto Pöggeler, Der Denkweg Martin
+      Heideggers [Pfullingen: Neske, 1963], p. 207).
+ 4    Heidegger’s essay is quoted from the 1960 Reclam edition for which
+      Hans-Georg Gadamer wrote an introduction, “Zur Einführung”
+      (Stuttgart: Reclam, 1997).
+ 5    For a close reading of Heidegger’s essay, see Friedrich-Wilhelm von
+      Herrmann’s Heideggers Philosophie der Kunst: Eine systematische Interpre-
+      tation der Holzwege Abhandlung “Der Ursprung des Kunstwerks” (Frank-
+      furt am Main: Klostermann, 1980). Hermann’s detailed elucidation
+      of the text, however helpful, abstains from any attempt to explicate
+      the genesis of Heidegger’s thought by reference to the philosophical
+      tradition.
+ 6    Sein und Zeit, 16th ed. (Tübingen: Niemeyer, 1986), §22.
+ 7    “The Still Life as a Personal Object – A Note on Heidegger and van
+      Gogh,” in Theory and Philosophy of Art: Style, Artist, and Society (New York:
+      George Braziller, 1994), pp. 135–43.
+ 8    Therefore, it strikes me as a misguided interpretation to claim, as San-
+      dra Lee Bartky does: “Like so many aestheticians before him, what Hei-
+      degger seeks to uncover is the essence of art.” “Heidegger’s Philosophy
+      of Art,” in Thomas Sheehan, ed., Heidegger: The Man and the Thinker
+      (Chicago: Precedent Publishing, 1981), pp. 257–74. Quotation is on
+      p. 257.
+
+[p. 239] [PDF page 259]
+
+9    For a discussion of Heidegger’s view on architecture, see my article
+     “Hegel, Heidegger und die Architektur” in Weimarer Beiträge 3 (2001):
+     433–46.
+10   Theorie des kommunikativen Handelns (Frankfurt am Main: Suhrkamp,
+     1995), vol. 2, pp. 182 ff.
+11   I owe this reference to Richard Rorty, who quoted the poem in one of
+     his lectures.
+12   While The Origin of the Work of Art regards only two forces, namely world
+     and earth, at work in the work, the later essay views art as the site of
+     the Geviert (fourfold) of heaven and earth, man and gods. See Walter
+     Biemel’s Heidegger (Reinbeck: Rowohlt, 1973), p. 97.
+13   K. Fiedler, Über die Beurteilung von Werken der Bildenden Kunst, p. 97,
+     quoted in A. Gehlen, Zeit-Bilder, p. 62.
+14   Nietzsche, vol. 2, pp. 111 ff.
+15   “Zur Einführung,” 114.
+16   Walter Biemel takes this term much too literally when he connects it to
+     the concept of physis and writes in his discussion of the Greek temple:
+     “The earth is meant to appear as earth, i.e. as sea, rock, sky, olive trees and
+     everything else that belongs to it” (Heidegger, 84). Also, George Steiner
+     misunderstands Heidegger when he argues that the moment of earth
+     in art refers to the absence of the signiﬁed object, while world refers to
+     the presence of the signiﬁer: “In the great work of art, hiddenness and
+     exhibition – the absence of the object itself and its intense presence via
+     the artist’s representation – are in eternal conﬂict.” (Martin Heidegger
+     [Chicago: University of Chicago Press, 1991], p. 135.) Heidegger does
+     not have the absence of the signiﬁed object in mind but, rather, the
+     absence of the possibility of any deﬁnite interpretation.
+17   Gadamer, “Zur Einführung,” p. 112.
+18   Holzwege (Frankfurt am Main: Klostermann, 1980), pp. 265–316, quota-
+     tion on p. 287.
+19   M. Heidegger, “Das Ding,” in Vorträge und Aufsätze (Pfullingen: Neske,
+     1954), pp. 157–80.
+20   Sandra Lee Bartky mistakenly opposes scientiﬁc and existential aesthetic
+     truth. Heidegger’s philosophy of art, however, is not an individualist
+     account but a collective one. “Heidegger’s Philosophy of Art,” p. 271.
+21   It is somewhat difﬁcult to comprehend how O. Pöggeler can argue that
+     Heidegger’s aesthetic analysis was advanced in lieu of a political one:
+     “Heidegger undertook the analysis of the artwork when he refused him-
+     self the analysis of the state due to the political circumstances.” (Philoso-
+     phie und Politik bei Heidegger, 2d ed. [Munich and Freiburg: K. Alber, 1974],
+     p. 122.) To read Heidegger’s essay on the artwork as an expression of
+     political romanticism, i.e., the ﬂight from the polity, seems to cleanse it of
+
+[p. 240] [PDF page 260]
+
+its political implications, which certainly contain moments that oppose
+      the totalitarian regime.
+22    Richard Rorty certainly cannot point to The Origin of the Work of Art
+      when he argues that Heidegger’s philosophy of art centers around self-
+      creation: “So to say that Dasein is guilty is to say that it speaks some-
+      body else’s language, and so lives in a world it never made – a world
+      which, just for this reason, is not its Heim.” Contingency, Irony, and Solidarity
+      (Cambridge: Cambridge University Press, 1989), p. 109. But even the
+      later Heidegger does not subscribe to an individualist aesthetics. While
+      Heidegger does not continue to claim that art has a national and polit-
+      ical function, he never loses sight of its communal moment. On the no-
+      tions of language and Heim or Heimat in Heidegger, see my essay “Heimat
+      in Heidegger and Gadamer,” Philosophy and Literature 24, no. 2 (2000):
+      312–26.
+23    Philippe Lacoue-Labarthe, Heidegger, Art and Politics: The Fiction of the
+      Political, trans. Chris Turner (Oxford: Basil Blackwell, 1990).
+24    M. Heidegger, “Cezanne,” Jahresgabe der Heidegger-Gesellschaft 1991.
+      Text version of 1974.
+25    The Structure of Scientiﬁc Revolutions, 2d enlarged ed. (Chicago: University
+      of Chicago Press, 1970).
+26    Einführung in die frühromantische Ästhetik, p. 26.
+27    See the essays in the volume edited by Tom Rockmore: Heidegger, German
+      Idealism and Neo-Kantianism (New York: Humanity Books, 2000). Unfor-
+      tunately, the question of aesthetics receives marginal attention at best in
+      this collection. Even Heidegger’s relation to Schelling is discussed in re-
+      spect to mysticism and Schelling’s Freiheitsschrift, not to the 1800 System of
+      Transcendental Idealism (Douglas Hedley, “Schelling and Heidegger: The
+      Mythical Legacy and Romantic Afﬁnities,” pp. 141–56).
+28    For this and the following, see also my monograph Hans-Georg Gadamer
+      (Munich: Beck, 1999). In respect to art, especially pp. 35–50 and 78–93.
+29    Wahrheit und Methode (Tübingen: Mohr and Siebeck, 1990), p. 3.
+30    Ibid., p. 103.
+31    It is somewhat difﬁcult, yet not necessarily impossible, to square these
+      two notions. Generally, the problem has been discussed in the context
+      of Gadamer’s concept of classical art that is meant to constitute the ideal
+      combination of transhistorical validity and nonessential existence. For
+      a critique of such a possibility, see Hans Robert Jauss’s Literaturgeschichte
+      als Provokation (Frankfurt am Main: Suhrkamp, 1970), p. 186, as well as
+      Peter Christian Lang’s Hermeneutik, Ideologiekritik, Ästhetik: Über Gadamer
+      und Adorno sowie Fragen einer aktuellen Ästhetik (Königstein: Forum Aca-
+      demicum in der Verlagsqruppe Athenäum, Hain, Scriptor, Hanstein,
+      1981), p. 24. In defense of Gadamer, Georgia Warnke’s Gadamer:
+
+[p. 241] [PDF page 261]
+
+Hermeneutics, Tradition and Reason (Stanford, Calif.: Stanford University
+     Press, 1987), p. 189. Also Hammermeister, Hans-Georg Gadamer, p. 113.
+32   “Kunst und Nachahmung” in Gesammelte Werke, vol. 8, pp. 25–36.
+33   Ibid., p. 36.
+34   Mary Deveraux in her article “Can Art Save Us? A Meditation of
+     Gadamer,” in Philosophy and Literature 15 (1991): 59–73, argues against the
+     notion that art always supports order. In his response, Kenneth Buckman
+     attempts to strengthen Gadamer’s position (“Gadamer on Art, Morality,
+     and Authority,” in Philosophy and Literature 21 [1997]: 144–50). Both De-
+     veraux and Buckman, however, do not realize that Gadamer localizes
+     order neither in the structure of the work nor in the activity of the artist,
+     but in the situation of reception.
+35   Jean Grondin, ed., Hans-Georg Gadamer Lesebuch (Munich: Fink, 1997),
+     p. 182.
+36   Wahrheit und Methode, p. 170.
+37   “Hermeneutik auf der Spur,” in Gesammelte Werke, vol. 10, pp. 148–74.
+     Quotation is on p. 173.
+38   “Philosophie und Literatur,” in Gesammelte Werke, vol. 8, pp. 240–57.

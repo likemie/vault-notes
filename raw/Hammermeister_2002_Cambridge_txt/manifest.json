@@ -1,0 +1,261 @@
+{
+  "source": "raw/！！！The German Aesthetic Tradition by Kai Hammermeister (z-lib.org).pdf",
+  "source_sha256": "8bbc0c533ad248f97d27b1cc235a96a700e21fedabc9238f5e4039bd4911b0eb",
+  "title": "The German Aesthetic Tradition",
+  "year": 2002,
+  "isbn": "9780511068980",
+  "encoding": "UTF-8",
+  "entries": [
+    {
+      "chapter": 1,
+      "title": "Baumgarten, Mendelssohn",
+      "part": 1,
+      "txt": "Ch01_Baumgarten_Mendelssohn.txt",
+      "pdf_pages": [
+        23,
+        40
+      ],
+      "print_pages": [
+        3,
+        20
+      ],
+      "notes_pdf_pages": [
+        237,
+        238,
+        239
+      ],
+      "supplements": [
+        {
+          "title": "Preface",
+          "pdf_pages": [
+            11,
+            17
+          ],
+          "print_pages": [
+            "ix",
+            "xv"
+          ]
+        }
+      ],
+      "sha256": "d9cfb80ac776fe48030c50de3e77fa74c6b76aaf5862023003d4d61f5f60ce3a"
+    },
+    {
+      "chapter": 2,
+      "title": "Kant",
+      "part": 1,
+      "txt": "Ch02_Kant.txt",
+      "pdf_pages": [
+        41,
+        61
+      ],
+      "print_pages": [
+        21,
+        41
+      ],
+      "notes_pdf_pages": [
+        239,
+        240,
+        241,
+        242
+      ],
+      "supplements": [],
+      "sha256": "92c3f9d71a0e152d386f9fb37f96678b24235433b2b810c37f2098d3d311d9e6"
+    },
+    {
+      "chapter": 3,
+      "title": "Schiller",
+      "part": 1,
+      "txt": "Ch03_Schiller.txt",
+      "pdf_pages": [
+        62,
+        81
+      ],
+      "print_pages": [
+        42,
+        61
+      ],
+      "notes_pdf_pages": [
+        242,
+        243,
+        244
+      ],
+      "supplements": [],
+      "sha256": "ff8d406b3e53f1f9fc0611186953703ef71df77facde74d67293827150fc193e"
+    },
+    {
+      "chapter": 4,
+      "title": "Schelling",
+      "part": 1,
+      "txt": "Ch04_Schelling.txt",
+      "pdf_pages": [
+        82,
+        106
+      ],
+      "print_pages": [
+        62,
+        86
+      ],
+      "notes_pdf_pages": [
+        244,
+        245,
+        246,
+        247
+      ],
+      "supplements": [],
+      "sha256": "0b86bdc0e27e36f396b078bfe80186795b1f9800f9e540b041d2c7da2bbfa0b4"
+    },
+    {
+      "chapter": 5,
+      "title": "Hegel",
+      "part": 1,
+      "txt": "Ch05_Hegel.txt",
+      "pdf_pages": [
+        107,
+        128
+      ],
+      "print_pages": [
+        87,
+        108
+      ],
+      "notes_pdf_pages": [
+        247,
+        248,
+        249,
+        250
+      ],
+      "supplements": [],
+      "sha256": "b8315a16d60edee466c6d2e28b9c53d050209848560d16e751a96408fa51c797"
+    },
+    {
+      "chapter": 6,
+      "title": "Schopenhauer",
+      "part": 2,
+      "txt": "Ch06_Schopenhauer.txt",
+      "pdf_pages": [
+        131,
+        147
+      ],
+      "print_pages": [
+        111,
+        127
+      ],
+      "notes_pdf_pages": [
+        250,
+        251,
+        252
+      ],
+      "supplements": [],
+      "sha256": "8488934eac1fb6a312f846f4a9268aa718fc2741b7f9166eca0fdcf0d7ab7c9c"
+    },
+    {
+      "chapter": 7,
+      "title": "Kierkegaard, Nietzsche",
+      "part": 2,
+      "txt": "Ch07_Kierkegaard_Nietzsche.txt",
+      "pdf_pages": [
+        148,
+        170
+      ],
+      "print_pages": [
+        128,
+        150
+      ],
+      "notes_pdf_pages": [
+        252,
+        253,
+        254
+      ],
+      "supplements": [],
+      "sha256": "57136ce45957c4b50a001fbeb5e78c1a03e9ec842e653075edef23d557e51d38"
+    },
+    {
+      "chapter": 8,
+      "title": "Cassirer, Lukács",
+      "part": 3,
+      "txt": "Ch08_Cassirer_Lukacs.txt",
+      "pdf_pages": [
+        173,
+        192
+      ],
+      "print_pages": [
+        153,
+        172
+      ],
+      "notes_pdf_pages": [
+        254,
+        255,
+        256,
+        257
+      ],
+      "supplements": [],
+      "sha256": "140138a5dd94f3669a17c5b236447380406cc812dc9b1a3c8c7ab63a7a94a484"
+    },
+    {
+      "chapter": 9,
+      "title": "Heidegger, Gadamer",
+      "part": 3,
+      "txt": "Ch09_Heidegger_Gadamer.txt",
+      "pdf_pages": [
+        193,
+        213
+      ],
+      "print_pages": [
+        173,
+        193
+      ],
+      "notes_pdf_pages": [
+        258,
+        259,
+        260,
+        261
+      ],
+      "supplements": [],
+      "sha256": "61fad0344acbdf5ed5881c74204e927a09311150fa5144406481794d593a364e"
+    },
+    {
+      "chapter": 10,
+      "title": "Adorno",
+      "part": 3,
+      "txt": "Ch10_Adorno.txt",
+      "pdf_pages": [
+        214,
+        231
+      ],
+      "print_pages": [
+        194,
+        211
+      ],
+      "notes_pdf_pages": [
+        261,
+        262,
+        263
+      ],
+      "supplements": [
+        {
+          "title": "Conclusion",
+          "pdf_pages": [
+            233,
+            236
+          ],
+          "print_pages": [
+            213,
+            216
+          ]
+        }
+      ],
+      "sha256": "6c1a67577cd34bfa7b922af34c2ec680e131b0a578acca2ba7ae4a009a37bae1"
+    }
+  ],
+  "bibliography": {
+    "txt": "Bibliography.txt",
+    "pdf_pages": [
+      265,
+      275
+    ],
+    "print_pages": [
+      245,
+      255
+    ],
+    "sha256": "2d7fac1612751888c007aa7ad507eb083431c9500e15086be518448aa6515b71"
+  }
+}

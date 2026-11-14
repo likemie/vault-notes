@@ -1,0 +1,954 @@
+The German Aesthetic Tradition
+Kai Hammermeister | Cambridge University Press, 2002
+
+Chapter 3: Schiller
+Print pages 42–61; PDF pages 62–81
+
+
+=== Chapter text ===
+
+[p. 42] [PDF page 62]
+
+3
+
+                                Schiller
+
+
+
+
+Friedrich Schiller (1759–1805) takes Kant’s Critique of Judgment as the
+starting point for his philosophical investigations of beauty and art. As
+he writes in the ﬁrst letter of Über die ästhetische Erziehung des Menschen
+in einer Reihe von Briefen (On the aesthetic education of man in a series
+of letters, 1795): “I will, to be sure, not conceal from you the fact
+that it is Kantian principles upon which the propositions that follow
+will for the most part be based.”1 And yet, from early on, the Kantian
+aesthetic paradigm does not satisfy Schiller. More and more Kant’s
+division of nature and freedom comes to be seen as part of the problem
+of modernity in which man’s faculties are pitched against each other
+and never come to a full development and a harmonious uniﬁcation.
+As much as Kant served as the inspiration for Schiller’s turn toward
+philosophical aesthetics, his subjective and ahistorical stance was soon
+considered by Schiller to be one of the main obstacles not only to a
+productive aesthetics but also to ethical thought as an investigation of
+the duties of man toward himself, as well as to his polity.2
+   Before Schiller’s encounter with Kant’s aesthetic theory – this fact
+is often forgotten in the reception of Schiller’s thought on art and
+beauty – he went through a Baumgartenian phase characterized by
+the association of sensuality and beauty with inferior cognition. This
+period is most clearly manifested in his 1788 poem Die Künstler (The
+artists), in which art is assigned a preparatory role for rational cogni-
+tion. Associated with a more infantile state of humanity’s development,
+art in this early conception is understood to give way eventually to
+
+                                     42
+
+[p. 43] [PDF page 63]
+
+Schiller                               43
+
+sensually untainted truth: “Was wir als Schönheit hier empfunden, / Wird
+einst als Wahrheit uns entgegengehen” (What we here perceived as beauty /
+will one day come to us as truth). Sensuality, however, is seen with
+Leibniz mainly as an obscuring of rationality, albeit one that can be
+redeemed to a certain extent when it manifests itself as beauty. Schiller
+soon overcomes this position, but the linkage of the metaphor of
+mankind’s childhood with (naı̈ve) art recurs in later writings, in which
+Schiller also attempts to balance the gains and losses of the inevitability
+of growing up.
+   In his ﬁrst meditations on aesthetics after his encounter with the
+Critique of Judgment, Schiller regards it as his vocation to discover an
+objective principle of art that can overcome Kant’s subjectivism. In
+his 1793 Kallias oder Über die Schönheit (Kallias or on beauty), Schiller
+criticizes previous philosophical theories of art because either they lack
+an objective principle or, if they adhere to one, they neglect sensuality
+to the point of its negation. Edmund Burke remains caught up in
+sensual subjectivism without any objective moment; Kant advances a
+subjective deﬁnition of beauty that equally fails to provide objective
+standards; Baumgarten and Mendelssohn adhere to a system of object-
+ive rationality that links art with perfection, but loses all sensuality in
+this alliance.3 Incorrect as these assessments might be (Baumgarten
+and Mendelssohn can hardly be considered full-ﬂedged supporters
+of the aesthetics of perfection), Schiller at this stage of his aesthetic
+investigations aims primarily at providing a sensual theory of art that
+encompasses objective criteria for its deﬁnition and evaluation.4
+   Although Schiller keeps coming back to this objective principle in
+later publications (Aesthetic Letters, letter 25), and although his own
+deﬁnition of beauty, as we shall see, proposes such an objective prin-
+ciple, his attention is more and more occupied by a different prob-
+lem. Schiller’s interest shifts from the investigation of the possibility of
+an objective aesthetic principle to a critique of Kant’s ahistorical ap-
+proach to aesthetics without abandoning the ﬁrst quest. This criticism
+emerges from an attempt to elaborate on Kant’s efforts to relate art
+and morality by introducing the dimension of history. Schiller clearly
+goes beyond the limits of Kant’s transcendental idealism, not so much
+by supplanting his transcendental grounding of beauty but, rather, by
+introducing an additional anthropological and historical foundation.
+Because Schiller is not willing to give up the transcendental moment
+
+[p. 44] [PDF page 64]
+
+44                     Part I. The Age of Paradigms
+
+of art, his extension of the Kantian system ultimately leads to a perma-
+nent opposition of reality and the appearance of art, as will become
+apparent from the Aesthetic Letters (AL).
+    It is precisely this historical moment that lets us see Schiller as a
+bridge between Kant and Hegel, between transcendental and objective
+idealism. It is not so much Schiller’s attempts to supply an objective
+principle of aesthetics that move him closer to the position of Hegel,
+as Georg Lukács explained it,5 as it is the historical character of his
+thought. Hegel himself claimed Schiller as a precursor in his Lectures
+on Aesthetics for this very reason.6
+    In respect to morality, the collective aspect for Schiller is more preva-
+lent than the individual one, and yet the encounter with the artwork
+remains in the realm of personal experience – an argument that will
+later cause him some difﬁculty.7 In his efforts to unite art and moral-
+ity, Schiller makes two presuppositions. The ﬁrst is that despite the
+fact that every individual has a moral responsibility and also the ca-
+pability to act according to moral principles, the achievement of a
+moral community transcends individual efforts and becomes a polit-
+ical task. Schiller’s second presupposition is that it is impossible to
+achieve a moral community by direct political action, either by means
+of political education or by revolution. Therefore, the only way to
+build a republic of free and equal members is by detour through an
+aesthetic education that mediates between the natural state of man
+and the utopian vision of humanity. These opening pronouncements
+of the Aesthetic Letters are Schiller’s strongest attempt to desubjectivize
+the Kantian aesthetics, and yet in the end, this project does not come
+to fruition.
+    Although Schiller’s Aesthetic Letters are his most important contribu-
+tion to the aesthetic tradition, he wrote a number of other texts dealing
+with philosophical issues of art. His period as a philosopher, however,
+was restricted mainly to roughly the half decade between 1790 and
+1795. The beginning of this stage of Schiller’s career was marked by
+his reception of the Kantian writings, whereas he “closed the philo-
+sophical shop” (letter to Goethe of December 17, 1795) shortly after
+his friendship with Goethe had begun in order to return to the writ-
+ing of ﬁction. The ﬁrst Kantian inﬂuence can be detected in the 1791
+Über den Grund des Vergnügens an tragischen Gegenständen (On the rea-
+son for the pleasure in tragic subjects), in which he already states his
+
+[p. 45] [PDF page 65]
+
+Schiller                                45
+
+great theme, namely, the conjunction of art and morality. In the letters
+to his friend Körner, published posthumously in 1847 under the title
+Kallias oder Über die Schönheit (Kallias or on beauty), Schiller formulates
+for the ﬁrst time the thought that beauty is the sensual expression of
+freedom – a notion that will play a more important role in the Aesthetic
+Letters. Some smaller texts, Über das Erhabene (On the sublime, circa
+1795), Über die notwendigen Grenzen beim Gebrauch schöner Formen (On
+the necessary limits of the usage of beautiful forms, 1795 – the only
+aesthetic text by Schiller that takes up the issue of cognition and art),
+and Über das Pathetische (On pathos, 1793), test the limits of Kantian aes-
+thetics and push its boundaries without ever making a clear break with
+Kant. In Über Anmut und Würde (On grace and dignity, 1793), Schiller
+argues – taking up Cicero’s distinction of venustas (grace) and dignitas
+(dignity) – that physical beauty, united with grace, the physical man-
+ifestation of the soul’s achievement to act morally out of desire, and
+dignity, the adherence to the moral law even in suffering, accounts for
+the perfect image of humanity that we ﬁnd represented in the sculp-
+ture of classical Greece. Finally, Über naı̈ve und sentimentalische Dichtung
+(On naı̈ve and sentimental poetry, 1796) can be considered an attempt
+to apply the categories he had developed in the Aesthetic Letters to po-
+etry and its historical development, thus again uniting aesthetic with
+historic speculation. Not counting some philosophical poems, Schiller
+gave up philosophy in the middle of the 1790s to write plays, such as
+Wallenstein, Maria Stuart, and Wilhelm Tell.
+
+
+ The Aesthetic Education of Man – Social Critique of the Present
+Schiller’s Aesthetic Letters undertakes to establish a new aesthetic
+paradigm by uniting a formal and a historical aspect, that is, by com-
+bining a theory of human drives with the idea of education. The very
+thought of education, however, is not only historical insofar as it pre-
+supposes a development from a less to a more desirable individual
+or collective constitution; it also demands the analysis of the present.
+While the notion of education does not need a preestablished vision
+of where to move – better pedagogical theories set goals depending on
+the potential to be developed – all efforts at guidance and improve-
+ment must understand the shortcomings, distortions, and dormant
+possibilities of the present. Therefore, Schiller’s presentation of an
+
+[p. 46] [PDF page 66]
+
+46                      Part I. The Age of Paradigms
+
+aesthetic education opens with a detailed analysis of the present stage
+of mankind seen in its disorder.
+   The Aesthetic Letters proposes to combine the motive of education
+as it had become dominant in the Enlightenment philosophy of the
+eighteenth century with the newly established discipline of aesthetics.
+Yet it was by no means the ﬁrst time that a philosopher envisioned art
+to be used for pedagogical purposes. Plato repeatedly emphasized the
+role that art should play in the education of the youth, as, for example,
+when he writes in The Republic:
+
+We must seek out such artists as have the talent to pursue the beautiful and the
+graceful in their work, in order that our young men shall beneﬁt from living,
+as it were, in a healthy place, whence something from these beautiful works
+will strike their eyes and ears like a breeze that brings health from salubrious
+places to, and harmony with, the beauty of reason.” (401 c)8
+
+   The educational idea was much discussed again in the eighteenth
+century. Schiller writes to his friend Körner of his approval of the read-
+ing of Mirabeau’s (1749–1791) essay Sur l’education, which he suggests
+for a translation into German (letter of October 15, 1792). Further-
+more, both Immanuel Kant and Johann Gottlieb Fichte had elaborated
+on the relevance of education in the process that leads humanity to
+freedom. As we will see, Fichte’s educational concept of freedom that
+transcends the social and political realm largely determined Schiller’s
+deﬁnition of this term.
+   Kant’s idea of education, on the other hand, is less relevant for
+the aesthetic pedagogical project. Although Kant also assumed that
+the moral state was a political goal that was to be reached only with the
+establishment of a universal republic, he thought that the educa-
+tional preparation for this utopian vision was the responsibility of the
+state in its present constitution (Idee zu einer Allgemeinen Geschichte in
+weltbürgerlicher Absicht, 1784). Schiller dissents from this on two counts:
+He assumes that a direct achievement of a moral state is impossible,
+but requires the detour through the aesthetic state; and he strongly
+believes that the state cannot achieve these educational projects. Thus,
+the way to the moral betterment of all leads through individual, volun-
+tary, and unorganized encounters with art – a somewhat anarchic vision
+for reform from the outset that can be seen to backﬁre later on. Yet
+Schiller clearly dismisses the state from all pedagogical responsibility:
+
+[p. 47] [PDF page 67]
+
+Schiller                                 47
+
+Should we expect this effect [the education of man’s entire faculties] from
+the state? That is not possible, because the state as it exists now has caused the
+evil, and the state as reason conceives it in the idea must itself be based on an
+improved mankind rather than bring it about. (AL, letter 7)
+
+    Schiller’s analysis of his age draws a gloomy picture. Egotism has
+dissolved the communal spirit: “In the lap of the most reﬁned society
+egoism has built its system, and we experience all the contagions and all
+the calamities of society without developing a communal sense” (AL,
+letter 5). All thought of the common good is absent in man, but the
+care for his own soul has also been displaced by the exclusive concern
+with material possessions: “like fugitives from a burning city everyone
+seeks only to rescue his personal possessions from the devastation”
+(AL, letter 5). The sciences cannot balance this development because
+they have become overspecialized and impotent; the division of labor,
+albeit necessary for societal development, has alienated man from both
+the product of his work and himself. Modernity allows man’s potential
+to unfold only fragmentarily – “whole classes of human beings develop
+only a part of their capacities” (AL, letter 6) – and a vision of totality
+cannot even be found in the organized community, the state, because
+it remains alien to its citizens. The sixth letter presents one of the early
+analyses of alienation from a materialist perspective:
+
+Eternally fettered to only one single fragment of the whole, man develops
+himself only fragmentarily; eternally listening to the monotonous noise of the
+wheel that he drives, he never develops the harmony of his nature, and instead
+of modeling himself after the idea of humanity he becomes the mere imprint
+of his occupation, his science. (AL, letter 6)
+
+   Culture, up to its highest expression in the philosophy of Kant,
+thus causes an internal schism in man, who ﬁnds his faculties opposed
+to each other, thereby leading to their mutual immobilization and
+degeneration:
+
+Intuitive and speculative reason withdrew upon their respective ﬁelds and
+began to guard their boundaries with distrust and jealousy, yet by conﬁning
+one’s activity to a single sphere we have established a master who often ends
+up suppressing all other abilities. While in one case the luxurious imagination
+ravages the carefully tended plantations of reason, in another case the spirit
+of abstraction stiﬂes the ﬁre that was meant to warm the heart and kindle the
+fantasy. (AL, letter 6)
+
+[p. 48] [PDF page 68]
+
+48                     Part I. The Age of Paradigms
+
+    In addition to these ailments of modernity, both lower and upper
+classes suffer from speciﬁc disﬁgurations of the human ideal. With the
+lower strata of society it is “barbarity,” the degeneration into savage
+patterns of behavior: “Among the lower and more numerous classes we
+ﬁnd crude, lawless impulses which the loosening of the bonds of civil
+order has unleashed and which hurry with ungovernable anger toward
+their bestial satisfaction” (AL, letter 5). The upper classes, on the other
+hand, suffer from languor and stiﬂing permissiveness. While the lower
+classes fall back upon precivilized states of vulgarity and savagery, the
+leisured class (to use this expression of Thorsten Veblen here) have
+lost all goals and sense of purpose in its overreﬁnement: “the civilized
+classes present to us the even more repugnant spectacle of languor
+and a depravity of character that is all the more outrageous because
+culture itself is its source” (letter 5).
+    Now this analysis of the ills of present society is neither new nor
+genuine to Schiller. He simply echoes much of the Enlightenment
+critique of society, and yet he differs signiﬁcantly from it in the solution
+he offers. His own suggestion for overcoming the calamity of the age
+presents itself as the only viable one, since the other two possibilities
+that Schiller considers, enlightenment and revolution, both have failed
+in their efforts. Schiller concedes that “the age is enlightened” (AL,
+letter 8); that is, the problems and their causes have been detected and
+publicly discussed, and yet no improvement of the individual nor of
+the societal condition has come about as a result. He speculates that it
+is not enough to present the truth, but that man’s moral character has
+to be prepared to receive it; otherwise, it will not fall on fertile ground.
+The present age, however, has not prepared man for enlightenment:
+“Since it does not reside in the objects, something must be present in
+the mind of man that hinders the reception of truth, no matter how
+bright it shines, and its acceptance, no matter how lively it persuades”
+(letter 8).
+    The other means of change, namely revolution, had just been
+demonstrated to fail by the Reign of Terror in France. More explicitly
+than in the Aesthetic Letters, Schiller dismisses the French Revolution in
+the Augustenburger Briefe, the ﬁrst version of the letters that were written
+under the immediate impression of the orgy of slaughtering in 1793:
+“The attempt of the French people to institute itself into its holy
+human rights and to gain political freedom has only brought to light
+
+[p. 49] [PDF page 69]
+
+Schiller                             49
+
+the impotence and unworthiness of it. This attempt has not only
+thrown back this unhappy people into barbarity and slavery, but to-
+gether with it a considerable part of Europe”.9
+    In Schiller’s view, in order to overcome the malaise of the present,
+it is important to remember that mankind did not always live under
+these conditions. Much in the spirit of classicism, he turns to Greece
+for an image of unalienated and unfragmented life. In Greece, more
+precisely in the polis of Athens of roughly the ﬁfth century b.c., sen-
+suality and reason had not yet been divorced from each other, and
+their functioning in unison made for the happiest period of human-
+ity. These childhood days of mankind continue to provide him with the
+image of man’s fulﬁllment, although no return to it is possible. Instead,
+man must move forward from his present position in order to achieve
+yet again the ideal of his development. In his 1796 essay On Naı̈ve and
+Sentimental Poetry, Schiller sketches out this philosophical notion of a
+historical development in more detail. Greece, that is, the naı̈ve and
+natural state of mankind’s development, brings forth out of itself art
+as the negation of nature through reason. And yet art does not simply
+negate nature, because as it develops nature to its full potential, art
+allows man the return to nature. This return, or ideal, is the perfection
+of man brought about by the perfection of art. The ideal bridges the
+gap between cold reason and unreﬂective sensibility, or as Schiller will
+put it, between beautiful form and moral energy. This notion of the
+ideal as a unifying moment of reason and feeling, beauty and morality,
+and form and energy recurs again in the philosophy of Hegel, who
+perceptively pointed out these moments in Schiller’s writings.
+    The movement toward the ideal is the content of Schiller’s aesthetic
+education. He, too, argues that man once lived in a natural state (which
+is not the hypothetical state of nature that the contractualists, such as
+Hobbes and Rousseau, paint in either terrifying or glorifying colors
+but, rather, the polity of Athens), and he needed to leave it in order
+to establish a self-determined ideal state – a process that Schiller com-
+pares to that of a child growing up to become an adult. Without this
+development, mankind would remain in the stage of pure potentiality,
+like a child who promises to become everything while abiding in the
+realm of numberless choices. The inﬁnity of childhood is all capability
+and potentiality; adulthood is actuality and limitation. Yet despite the
+loss of the myriad possibilities that were eliminated by every choice,
+
+[p. 50] [PDF page 70]
+
+50                     Part I. The Age of Paradigms
+
+development also means the achievement of a higher level of reality.
+In order to fulﬁll its telos, mankind must become what it only promised
+to be in its naı̈ve childhood stage. The ideal state remains the goal,
+yet the means to achieve it have failed so far. In fact, any attempt to
+move directly from the present state of self-interest and alienation to
+the moral state is bound to fail; therefore, a mediating stage has to be
+found and installed in order to guarantee a transition without violence.
+It is precisely this function that the aesthetic state is conceived to fulﬁll.
+Aesthetic education is at its outset the complement of enlightenment
+and the avoidance of revolutionary violence.
+    Therefore, Schiller’s essay on aesthetics might only seem apolitical
+to his contemporaries, as Schiller argues with some concern, but it is
+in fact politically charged. The politics of the day is aesthetics, “since it
+is through beauty that we arrive at freedom” (AL, letter 2). In this con-
+text, the fragmentation of the totality of man’s abilities and potential
+must not be considered a mere shortcoming of modernity. Instead,
+by means of specialization and the evolution of only select talents, the
+human species enables its own progress. Where the individual suffers,
+the collective proﬁts. Yet the ideal is determined by the reconstitution
+of all faculties in all individuals. We all carry around in ourselves this
+ideal man who will emerge victorious in the ideal state – an idea that
+Schiller takes over from Fichte’s Über die Bestimmung des Gelehrten (The
+vocation of the scholar, 1794).
+    Art is not only the means by which the present state will be trans-
+formed into the ideal state; it also reminds us of our childhood happi-
+ness that remains a vision and a responsibility. Whereas the political,
+social, and moral spheres have all been corrupted in the course of his-
+tory, art is the reservoir for the ideal of the life of totality: “Humanity
+has lost its dignity, but art has rescued and preserved it in signiﬁcant
+stone; truth lives on in the midst of deception, and from the copy the
+original will once again be restored” (AL, letter 9). Here, Schiller takes
+a strong stance against Plato who had charged the aesthetic appear-
+ance with a loss of truth. For Schiller, however, art has safeguarded
+the truth of man in times of decay, and from art will issue forth the
+regenerated man of the ideal. Political and moral change toward the
+better will be brought about by a change in taste – a thought that
+connects Schiller directly to Friedrich Nietzsche, who writes in 1886
+that the renewal of philosophical thought depends on “the arrival of
+
+[p. 51] [PDF page 71]
+
+Schiller                               51
+
+a new species of philosophers who have a new taste and tendency in
+opposition to the present ones” (Beyond Good and Evil, §2).
+   Art is assigned a very concrete historical function in this scheme,
+and yet Schiller’s aesthetic philosophy is incomplete without its formal
+aspect that investigates the nature of mankind apart from its social
+deformation. This theory of drives provides the basis for the histori-
+cal justiﬁcation of art’s central role in the political agenda. Schiller’s
+paradigmatic aesthetics are founded on the endeavor to mediate the
+formal aspect of his aesthetic anthropology with the historical aspect
+of the progression from natural through aesthetic to moral state.
+
+The Theory of Drives
+Schiller’s entire text of the Aesthetic Letters is structured around a series
+of oppositions that are mediated by a third term. His historical model
+pitched the natural state against the ideal state and posited the aes-
+thetic state as the transition. Aesthetic man, in turn, is considered
+to mediate between natural and ideal man. This latter transition is
+further developed in Schiller’s theory of drives, which is based on
+Fichte’s model of impulses. In the context of his moral philosophy,
+Fichte had stated that the natural drive and the drive of freedom, the
+“pure drive,” must be united in a third drive, namely that of morality.
+Schiller adopts this basic model, yet he makes decisive changes when
+working out his own conception of the three drives, most importantly
+in respect to the third.
+   Man, according to this theory, is governed by two drives that are both
+complementary and oppositional. The ﬁrst is called the Stofftrieb, the
+sense drive; it is determined by sensuality, perception, and the primacy
+of the matter of the world over the ego. Since the ego is responsible
+for organizing the sense impressions, it is constantly threatened by
+the sense drive’s anarchic onslaught up to the point of its complete
+dissolution. The sense drive remains committed to the individual in-
+stance of sense input without any attempt at abstraction and generaliza-
+tion. Its world is ﬁlled with examples that never exemplify a rule. Man
+under the rule of the sense drive is devoid of individuality, because
+he is nothing more than the receptive vessel of constantly changing
+impressions. As far as there is a personality to speak of, it is subject
+to constant modiﬁcation, the toy of time and alteration. For this ego
+there is no freedom – an argument that Kant, Fichte, and Schiller all
+
+[p. 52] [PDF page 72]
+
+52                     Part I. The Age of Paradigms
+
+advance – since it remains subject to causality and, thus, to the determi-
+nation by previous instances that in turn are determined by instances
+previous to them, and so on ad inﬁnitum. The world of this sensual
+ego is pure materiality; its relation to this world is one of receptivity.
+The ego is passively given over to physical necessity, namely, the laws
+of nature. And yet this subjection of the sensual ego to matter and the
+forces of nature not only is a negative form of dependence but also is
+the principle of life, dynamism, and futurity.
+   The Formtrieb, the form drive, on the other hand, results from the
+unchangeable part of man. Since this part of the self cannot itself
+change, it can also not have its origin in any kind of outside causa-
+tion and must, therefore, be the ground of itself, just as Fichte had
+argued for the pure ego. Whereas the sensual ego is determined by
+sensuality, the self operates under the principles of reason. Against
+constant change it pitches its own atemporality, and against matter,
+form. Whereas the sense drive receives sense data, the form drive im-
+presses form on them. It is not the world as a material totality that
+determines the latter but, rather, the spirit. The spirit, however, is not
+passive but, rather, the principle of activity. The necessity of the form
+drive is not physical but moral, and it is not subject to the laws of nature
+but to those of reason. Whereas the sense drive not only aims at an
+abandoning of the self to the world but also hungers for ever more
+and new objects, the form drive has a chilling quality that freezes its
+objects in time and sets the eternal gestalt against life’s principle of
+permanent mutation.
+   Since both of these drives inhabit distinct spheres, they cannot di-
+rectly interact with each other. And yet both of them “require restric-
+tion” (AL, letter 14), because the uninhibited development of either
+drive would result in self-destruction. Therefore, Schiller posits the will
+as that force that keeps both drives in check, although it is not quite
+clear where exactly the will itself is supposed to originate: “It is there-
+fore the will that acts toward both drives as an authority, but neither
+of the two can of its own accord act as an authority against the other”
+(AL, letter 19). Still, it is not enough merely to keep both drives in
+check by means of the will; in order to overcome man’s fragmentation
+they need to be mediated.
+   Such mediation Schiller ﬁnds in the Spieltrieb, the play drive that is
+able to unify time and atemporality, becoming and being, change and
+
+[p. 53] [PDF page 73]
+
+Schiller                               53
+
+identity. The very phrase “play drive” combines Kantian and Fichtean
+inﬂuences by its reference to Kant’s free play of faculties in the aes-
+thetic experience and Fichte’s theory of drives: “Reason demands, on
+transcendental grounds, that a partnership between the sense drive
+and the form drive should exist, namely a play drive, because only
+the union of reality with form, of contingency with necessity, of suffer-
+ing with freedom fulﬁlls the conception of humanity” (AL, letter 15).
+This play drive, however, is exactly the aesthetic principle. The term
+play refers to the contemplation of the beautiful that frees man both
+from the atemporality of the law and from sensual desire by situating
+him in between both. Man takes seriously both the pleasure of the
+senses and the perfection of the moral law, but beauty is devoid of
+such earnestness – beauty is the object of play. In play, man expresses
+his complete nature, no longer divided into sensuality and morality.
+As Schiller famously writes: “Man plays only when he is in the full
+sense of the word a man, and he is only wholly man when he is playing”
+(AL, letter 15).
+   Beauty, both natural and artistic, restores the balance of human fac-
+ulties, because “we ﬁnd the actual and therefore limited man either in
+a condition of tension or in one of relaxation, depending on whether
+the one-sided activity of isolated faculties is disturbing the harmony
+of his being or if the unity of his nature is based on the overall de-
+generation of his sensual and rational faculties” (AL, letter 17). In
+man, who is too restricted by the demands of the moral law, beauty
+restores the harmony with the senses, and in languid man it infuses
+new energy. Since beauty is the mediator between the two drives, it also
+follows that it can be deﬁned neither in purely empirical nor in purely
+transcendental terms because it needs to participate in both spheres.
+   It is clear, though, that the two sets of oppositions that Schiller sets
+up – the ﬁrst being that between natural and ideal state, natural and
+ideal man; the second that between sensuality and reason, change
+and atemporality, pure and empirical I, matter and spirit, passivity
+and activity, physical and moral laws, and so on – and that are both
+supposed to be mediated by art, need mediation between them in
+turn. Whereas the ﬁrst set of oppositions emerged from a critique of
+modernity and is, thus, rather ﬁrmly grounded in history, the second
+set refers to anthropological constants. Only insofar as they hint at the
+historically vague emancipation of man from nature and at the process
+
+[p. 54] [PDF page 74]
+
+54                      Part I. The Age of Paradigms
+
+of individuation by means of the Fichtean Tathandlung, which causes
+the differentiation not only between I and non-I but also between
+pure and empirical I, is a historical moment present here. Still, the
+opposition of reason and sensuality or of spirit and matter is hardly
+a modern phenomenon. In other words, the theory of drives has no
+intrinsic connection with Schiller’s political critique and vision, and
+yet he needs to bring them together in order to ground his political
+project. Whereas man under the perspective of drives does not need
+to be situated in a historical context in order to be understood, man
+who suffers from the fragmented state of his being brought about by
+modernity is a radically historical creature. Schiller’s task is, thus, to
+mediate between the formal and the historical aspect of his theory of
+aesthetic education by ﬁnding functions in the play drive that are both
+anthropological constants and historical agents.
+
+Beauty, Formal and Historical
+Schiller had argued that man can only achieve the transition from the
+sensual to the rational and moral state by means of the aesthetic inter-
+mediary in which both drives are present, the opposition of which does
+not lead to a deadlock but, rather, allows for freedom of both drives.
+This freedom of the play drive, however, is nothing else but beauty.
+Only beauty can manifest the union of the rational and the real, the
+person and his or her temporal states, causality and indeterminacy.
+Beauty, Schiller famously deﬁnes, “is the only possible expression of
+freedom in appearance” (AL, letter 23). This is Schiller’s deﬁnition
+of beauty throughout all his aesthetic writings, and although it ap-
+pears only in a footnote in the Aesthetic Letters, it is still central for the
+understanding of this text.
+   A more detailed description of the concept of freedom is put forth
+in the Kallias Letters. With Kant, Schiller there argues that true freedom
+can only be achieved by the supersensory, since all empirical objects
+remain determined by the chain of cause and effects. Freedom can
+thus never ﬁnd a sensual expression. And yet some objects to us seem
+as if they had broken away from causality and had their raison d’être
+purely in themselves. Objects that strikes us as thus indetermined are
+beautiful: Beauty is freedom in appearance. This deﬁnition of beauty
+marks a distinct break with Kant’s aesthetics. The principle of beauty
+as freedom in appearance is no longer a merely subjective response
+
+[p. 55] [PDF page 75]
+
+Schiller                                  55
+
+of disinterested pleasure but, rather, precisely that objective princi-
+ple that Schiller had meant to introduce from the beginning of his
+aesthetic endeavor. The encounter with the beautiful transcends the
+subjective sphere and unites the subject and the object that is perceived
+as if free from all outside determination in the aesthetic experience.10
+   The unifying role attributed to art and natural beauty in this theory
+points forward to the systems of Schelling and Hegel and their ground-
+ing of both subject and object in a preceding principle.11 The pleasure
+we take in beauty Schiller calls love, thereby introducing a term that
+will ﬁgure prominently in the speculative idealism of both Schelling
+and Hegel, the latter of whom credits Schiller with this notion. It would
+be more appropriate, however, to speak of the reintroduction of the
+concept of love in the philosophical search for a principle that can
+unify the sensual manifold. Thus, we are led back to Plotinus (ca. 204–
+270), who advanced love as the striving for unity and beauty as the
+expression of such unity:
+
+What do you feel in the presence of the grace you discern in actions, in man-
+ners, in sound morality, in all the works and fruits of virtue, in the beauty of
+Souls? When you see that you yourself are beautiful within, what do you feel?
+What is this Dionysiac exultation that thrills through your being, this straining
+upward of all your soul, this longing to break away from the body and live
+sunken within the veritable self? These are no other than the emotions of
+Souls under the spell of love.12
+
+   Even before Schiller, Karl Philipp Moritz (1756–1793) had pointed
+toward the moment of love in beauty that causes us to overcome our
+individual limitations and to participate in a higher existence: “The
+pleasure in beauty must therefore move ever closer to love if it wants
+to be real.”13
+   For Schiller, love is that bond that conjoins reason to sensuality in
+beauty. This idea, however, constitutes an application to aesthetics of
+his early thinking on love as was expressed in the 1786 Philosophische
+Briefe / Theosophie des Julius (Philosophical letters / theosophy of Julius).
+In this early attempt at a monist philosophy that would overcome
+the denigration of sensuality by rationalism, Schiller had conceived of
+love as a cosmic principle more than a unifying power that overcame
+antinomies; he called it the “reﬂection of this one single ur-force.”14
+In love, the loving subjects transcend the limits of individuality and
+
+[p. 56] [PDF page 76]
+
+56                     Part I. The Age of Paradigms
+
+realize the self in the other. Self and other are not eclipsed into each
+other; rather, a preceding commonality is experienced that exposes
+the strict opposition of subject and object as secondary and inadequate.
+In the context of beauty, love does not only refer to the inclination of
+the subject to be absorbed in the beautiful object; the beautiful object
+itself is seen as the loving uniﬁcation of reason and sensuality. This con-
+cept of love, however, becomes problematic when – as can be rightfully
+expected – love is regarded as a voluntary union between equals. In
+this case, the Kantian framework – accepted in this respect by Schiller
+without much hesitation – that demands the dominance of reason
+over sensuality is too restrictive to be able to contain the concept of
+love in which we would have to attribute an egalitarian standing to
+both reason and sensuality.15 Again, Schiller pushes the boundaries of
+transcendental idealism without arriving at the speculative system that
+will solve this aporia.
+    The transition between Schiller and the idealist concept of love is
+provided, as so often, by the poet Friedrich Hölderlin (1770–1843),
+who considers love to be the metaphorical expression both of the
+individual positions of the lovers and of the unity that dissolves those
+individualities. Hölderlin was the ﬁrst of the three Stiftler – himself,
+Schelling, and Hegel all having been roommates at the seminary, the
+Stift, in Tübingen – to follow in the footsteps of Schiller and Jacobi
+and develop his own version of a Vereinigungsphilosophie (philosophy
+of uniﬁcation) in which the concept of love ﬁgures prominently. In
+the three early fragments of Hyperion oder Der Eremit in Griechenland
+(Hyperion or the hermit in Greece, 1793), love is already seen as the
+principle that unites the opposite drives of man. In Hyperions Jugend
+(Hyperion’s youth), it is written: “The opposition [Widerstreit] of the
+drives, of which none is dispensible, love unites, the daughter of riches
+and poverty.”16 The closing lines of the second part of the novel, written
+in 1799 toward the end of his phase of aesthetic speculation, phrase
+this ideal as follows: “Like the row of lovers are the dissonances of the
+world. Reconciliation is in the midst of quarrel and all that is separated
+becomes united again.”17
+    Schiller can only achieve an approximation to objective idealism
+by turning away from Kant’s understanding of freedom as the auto-
+nomy of reason and morality from sensuality. Instead, Schiller aims at
+a mediation of this concept with that of Fichte: “whenever I speak of
+
+[p. 57] [PDF page 77]
+
+Schiller                              57
+
+freedom I do not mean the sort that is necessarily attached to man
+as a being of reason, and that can neither be given to him nor taken
+from him, but the sort that is based upon his composite nature” (AL,
+letter 19, footnote).18
+   Fichte’s notion of freedom is, this is important to note, emphat-
+ically educational. He argues that sensuality is in need of guidance
+and development by means of reason, and that freedom consequently
+consists in the liberation from the power that an untamed sensuality
+has over man. And yet freedom is nothing transcendent. Man remains
+a sensual being even as a free agent, thereby deﬁning freedom not
+in opposition to man’s sensual nature, but as partaking in it. Schiller
+agrees with this notion, but instead of a general education of the senses
+he envisions a speciﬁcally aesthetic one.19
+   Beauty deﬁned as freedom thus has no concrete content either. In-
+dividual manifestations of beauty serve no circumscribed moral pur-
+pose, nor do they reveal a hitherto unknown truth. Instead, the culture
+of beauty demonstrates the freedom of man to turn himself into what-
+ever being he envisions while remaining under the law of morality.
+This freedom of self-creation is present in every encounter with the
+beautiful, because we leave the aesthetic mindset in a state of pure
+potentiality in which every actual activity is conceivable to us. At least
+ideally this is the case, because human existence never achieves purity,
+so that every aesthetic encounter must remain an approximation to
+the ideal aesthetic state (which, since it regenerates itself endlessly,
+would not lead back to reality at all, but leave us suspended in a state
+of aesthetic bliss from which only the imperfection of the phenomena
+saves us). Works of art can be classiﬁed for their merit according to the
+proximity to this pure aesthetic state that they allow us to achieve. As
+works of art, however, they do so exclusively on the basis of their form,
+leaving aside all considerations of content: “In a truly beautiful work
+of art the content should do nothing, the form everything, because
+form alone affects man in his entirety, while content affects only indi-
+vidual faculties” (AL, letter 22). The beauty of form alone is capable
+of uniting rationality and sensuality in man, whereas the content will
+appeal to one faculty more than the other at all times. In the contem-
+plation of beauty, though, we enter the realm of ideas without leaving
+behind the realm of sensuality. Truth as an achievement of reason is
+only to be had for the price of sacriﬁcing sensuality, but beauty’s reign
+
+[p. 58] [PDF page 78]
+
+58                       Part I. The Age of Paradigms
+
+is benevolent and never asks to forfeit any of man’s faculties. Instead,
+beauty introduces harmony into division.
+    Yet beauty’s freedom remains restricted to the aesthetic realm. All
+beauty contains the promise of man’s reconciliation with himself, but
+only so as strictly divorced from reality:
+
+Only insofar as it is truthful (expressly renouncing all claim to reality), and
+only insofar as it is self-reliant (dispensing with all assistance from reality), is
+appearance aesthetic. As soon as it is deceitful and simulates reality and as
+soon as it is impure and requires reality for its effect, it is nothing but a base
+tool for material ends and cannot aid the freedom of the spirit. (AL, letter 26)
+
+    In short, art and reality, aesthetic appearance and factuality, have
+to remain separate. Of this conclusion Schiller is convinced, and he
+repeats it in other contexts. In his foreword to The Bride of Messina
+(1803), he argues that “art is only true to the extent that it completely
+abandons reality and becomes purely ideal.”20 This notion of art as the
+principle of semblance, of appearance that is opposed to reality, will
+reappear roughly seventy-ﬁve years later in Nietzsche’s conception of
+the Apollonian as he develops it in The Birth of Tragedy.
+    There are two ways to read this separation of the aesthetic and the
+real in Schiller. The ﬁrst interpretation is suggested by the Marxist
+reception of the Aesthetic Letters, in which the work of art is considered
+as that which remains unreconciled with reality and, thus, harbors
+the potential to both negate this reality and keep alive the promise
+of a better one. Georg Lukács and Theodor W. Adorno both argue
+in this vein, and Ernst Bloch’s concept of art as Vorschein, a promesse
+de bonheur of future times, owes much to Schiller’s notion of aesthetic
+appearance. The other way to understand the separation of art from
+reality, however, is to consider it as yet another instance of Schiller’s
+inability to successfully fuse the historical and the formal aspect of
+his aesthetic theory. If art remains divorced from political and social
+life without any chance of interfering with it, the project of aesthetic
+education must be considered a failure when judged according to
+its own premises. Aesthetic reconciliation must become factual for it
+to succeed, all the more so because it was set up as an alternative
+to all revolutionary action. For Marxist thinkers, art is not burdened
+with such responsibility, since they expect radical political action to
+
+[p. 59] [PDF page 79]
+
+Schiller                                 59
+
+bring about the transition from the alienating system of capitalism to
+harmonizing socialism as the cure to man’s fragmentation. Art can,
+therefore, remain sheltered from action, whereas for Schiller, politics
+had been deﬁned in terms of the aesthetic.
+   It was J. G. Fichte who pointed out this weakness in Schiller’s theory
+as early as 1794 in hisUeber Geist und Buchstab in der Philosophie (On the
+spirit and the letter in philosophy), a submission to Schiller’s journal
+Die Horen in which the Aesthetic Letters appeared in installments. Fichte’s
+essay, however, was rejected by Schiller and did not appear in print
+before 1798:
+
+Therefore the times and regions of serfdom are also those of tastelessness;
+and if it is on the one hand not advisable to give freedom to man before his
+aesthetic sense is developed, it is on the other hand impossible to develop
+the latter before he is free; and the idea to lead man to the appreciation of
+freedom through aesthetic education and hence to freedom itself gets us into
+a vicious circle unless we ﬁnd a means beforehand of awakening the courage
+in some individuals out of the great multitude to be nobody’s master and
+nobody’s slave.21
+
+   Schiller’s turn from the politics of egalitarianism to a hierarchy of
+aesthetic awareness and thus of self-realization, that is, the separation
+of beauty as freedom in appearance from the unfreedom of society,
+remains an unsolved problem of the Aesthetic Letters that undercuts its
+own premises.
+    This is even more evident in the last of the twenty-seven letters on
+aesthetic education. Here, the discrepancy between the initial utopian
+vision of a moral state to which the aesthetic state constitutes the
+bridge and the abandonment of this political impetus becomes most
+discernible. Although Schiller repeats the claim that the aesthetic state
+already allows for the freedom of each and the equality of all, he no
+longer understands the term “state” to signify a polity. Instead, the
+term comes to designate small circles of aesthetically educated men
+who have risen above and outside society and have constituted elite
+groups of independent thinkers and artists:
+
+But does such a state of beautiful appearance exist and where can it be found?
+It exists as a need in every ﬁnely tuned soul; as a reality it can probably only
+be found, like the pure church and the pure republic, in some few select
+
+[p. 60] [PDF page 80]
+
+60                      Part I. The Age of Paradigms
+
+circles where behavior is not governed by the mindless imitation of foreign
+manners but by one’s own beautiful nature, where man moves through the
+most complicated situations with daring ease and quiet innocence and without
+the necessity to insult the freedom of others in order to assert his own, or to
+throw away his dignity to show grace. (AL, letter 27)
+
+    The aesthetic state, even in its reduced version as salon culture, is
+no longer advanced as the transition to the moral state but has become
+an aim in its own right. Schiller’s project of reconciliation has failed;
+political egalitarianism has folded over into an apotheosis of elitism. As
+Hans-Georg Gadamer comments: “In the grounding of the aesthetic
+reconciliation of the Kantian dualism between Is and Ought yawns a
+deep, unsolved dualism.”22 Beauty, freedom, love, and the ideal have
+been so many attempts to bridge this gap, and yet the paradigm of
+a union of formal and historical aesthetics remains unattainable for
+Schiller.23
+    It has become apparent that Schiller’s primary interest in aesthet-
+ics is practical. This strong emphasis on the moral function of beauty
+leads to a relatively weak stance regarding the epistemological and
+ontological aspect of art. In terms of ontology, Schiller advances an
+objective principle of beauty, namely, that of freedom in appearance,
+in order to overcome Kant’s restriction of the beautiful to the subjec-
+tive sphere. Rather, he suggests, we should consider beauty to be an
+attribute both of the object located in its form and of the subject, that
+is, the sense of love that is deﬁned by our pleasure in the beautiful
+object in which we want to be absorbed: “Beauty is therefore certainly
+an object for us, since reﬂection is the condition under which we have
+a sensation of it; but it is at the same time a state of the subject, since
+feeling is the condition under which we have a representation of it”
+(AL, letter 25). An objective principle, however, that is attained by
+reﬂection and thus subject to cognition should consequently lead
+to a strong epistemological position. Instead, Schiller adheres to the
+Kantian view by repeating that our encounters with beauty are strictly
+separated from cognitive advances: “Beauty produces no individual
+result whatsoever, either for the reason or the will; it realizes no in-
+dividual purpose, either intellectual or moral; it discovers no individ-
+ual truth, helps us to perform no individual duty, and is, in a word,
+equally incapable of establishing the character and enlightening the
+
+[p. 61] [PDF page 81]
+
+Schiller                             61
+
+mind” (AL, letter 21). This rift between art and truth is widened by
+Schiller’s insistence on the radical foreignness of aesthetic appearance
+with respect to reality. Truth as a form of insight into reality cannot
+be distilled from a realm that does not touch upon reality. Ultimately,
+however, such separation calls for either revelation or a speculative
+idealism that explains this dualism as a secondary phenomenon. The
+latter is the path of Schelling and Hegel.
+
+
+=== Notes to Chapter 3 ===
+
+[p. 222] [PDF page 242]
+
+Chapter 3. Schiller
+
+ 1    All of Schiller’s later writings on aesthetics are collected in Volume 2 of
+      the Werke in drei Bänden (Munich: Hanser, 1966).
+ 2    In his book The Aesthetic State: A Quest in Modern German Thought
+      (Berkeley: University of California Press, 1989), Josef Chytry focuses on
+      what he believes is the utopian moment of an aesthetically ordained
+      state in German thought from classicism to the twentieth century. Un-
+      fortunately, he greatly underestimates the metaphysical quest that mo-
+      tivated the inquiries of Schiller, as well as Hölderlin, Schelling, and
+      Hegel (and, ex negativo, Heidegger). The great emphasis placed on
+      the aspect of practical philosophy – especially in Romantic and Ideal-
+      ist philosophy only one of the many reﬂexes of the metaphysical basis
+      of the system – therefore leads to a distorted view of this philosophical
+      tradition.
+ 3    Kallias oder Über die Schönheit, p. 352.
+ 4    In a letter to his friend Körner of December 21, 1792, Schiller states: “I be-
+      lieve to have found the objective concept of beauty that eo ipso qualiﬁes
+      for an objective principle of taste and that Kant doubts.” Quoted from
+      Jürgen Bolten, ed., Schillers Briefe über die ästhetische Erziehung (Frankfurt
+      am Main: Suhrkamp, 1984), p. 99. See also the letter to Fischenich of
+      February 11, 1793.
+ 5    Lukács makes this point repeatedly in his writings. One good summary of
+      his views on Schiller’s aesthetics is the 1935 essay “Zur Ästhetik Schillers”
+      in his book Beiträge zur Geschichte der Ästhetik (Berlin: Aufbau, 1956). Still,
+      despite complimenting Schiller on his historical sense, Lukács neverthe-
+      less faults him for failing to develop a “thoroughly concrete historical
+      position,” because Schiller deduces his historical categories from his cat-
+      egories of reason and, hence, postulates the priority of consciousness
+      over being. For the Marxist Lukács, this general problem of idealism can
+      only be corrected by the materialism of Marxism-Leninism.
+
+[p. 223] [PDF page 243]
+
+6    Generally, in the nineteenth century, Schiller was regarded as a Kantian
+     who attempted to solve some of Kant’s unresolved issues, whereas in the
+     twentieth century, he was considered a precursor of Hegel. For a brief
+     recapitulation of this turnabout in the reception, cf. Michael J. Böhler,
+     “Die Bedeutung Schillers für Hegels Ästhetik,” in PMLA 87 (1972):
+     182–91.
+7    Jürgen Habermas plays down this moment by claiming that all aesthetic
+     education in Schiller refers to the community, not to the individual.
+     While certainly true for the stated intentions in the beginning of the
+     Aesthetic Letters, the twenty-seventh letter undercuts this position, as will be
+     discussed at the end of this chapter. Der philosophische Diskurs der Moderne
+     (Frankfurt am Main: Suhrkamp, 1984), p. 59.
+8    Trans. G. M. A. Grube (Indianapolis: Hackett, 1974). Translation altered.
+     See also Plato’s Protagoras, p. 326, as well as Nomoi II, pp. 653–6, and VII,
+     pp. 797–816.
+9    J. Bolten, Schillers Briefe, 41. In his famous poem Das Lied von der Glocke
+     (The song of the bell), Schiller echoes these criticisms of both the En-
+     lightenment and revolution. Against the Enlightenment educators he
+     argues: “Weh denen, die dem Ewigblinden / Des Lichtes Himmelsfackel leihn! /
+     Sie strahlt ihm nicht, sie kann nur zünden / Und äschert Städt und Länder ein.”
+     (Woe upon those who lend the torch of heaven to the eternally blind. It
+     does not enlighten him, it only enﬂames and burns down cities and coun-
+     tries.) And against the revolutionaries: “Wenn sich die Völker selbst befrein, /
+     Da kann die Wohlfahrt nicht gedein.” (When the peoples free themselves,
+     welfare cannot prosper.)
+10   Without this philosophical understanding of freedom, an interpretation
+     of Schiller’s aesthetics is bound to remain superﬁcial. Fredric Jameson,
+     for example, regards freedom merely in the twofold sense of an inte-
+     gration of personality on the psychic level and the political freedom of
+     the (bourgeois) individual on the societal level. This limitation of the
+     comprehension of the concept of freedom then leads to the claim that
+     Schiller’s Aesthetic Letters is not an aesthetic but, rather, a political system
+     in which the experience of art is considered the utopian anticipation
+     of revolution. It hardly comes as a surprise that such a restricted read-
+     ing of the text leads to the faulty conclusion that art’s synthesis is “little
+     more than costume drama and a meditation on the lessons of antiquity.”
+     Marxism and Form (Princeton, N.J.: Princeton University Press, 1971),
+     p. 94.
+11   For a very insightful interpretation of this aspect of Schiller’s aesthetics,
+     cf. Dieter Henrich, “Beauty and Freedom: Schiller’s Struggle with Kant’s
+     Aesthetics,” in Ted Cohen and Paul Guyer, eds., Essays in Kant’s Aesthetics
+     (Chicago: Chicago University Press, 1982), pp. 237–57.
+
+[p. 224] [PDF page 244]
+
+12    Plotinus, The Enneads, trans. Stephen MacKenna (London: Penguin,
+      1991), pp. 49 f.
+13    Karl Philipp Moritz, “Versuch einer Vereinigung aller schönen Künste
+      und Wissenschaften unter dem Begriff des in sich selbst Vollendeten,”
+      Beiträge zur Ästhetik (Mainz: Dieterich’sche Verlagsbuchhandlung, 1989),
+      pp. 7–18. Quotation is on p. 11.
+14    Werke in drei Bänden, vol. 1, pp. 701–18. Quotation is on p. 709.
+15    Cf. Dieter Henrich, “Der Begriff der Schönheit in Schillers Ästhetik,”
+      in Zeitschrift für philosophische Forschung 6 (1957): 527–47. Also compare
+      Manfred Frank, Einführung in die frühromantische Ästhetik (Frankfurt am
+      Main: Suhrkamp, 1989), pp. 104–20.
+16    Friedrich Hölderlin, Sämtliche Werke und Briefe (Munich: Hanser, 1970),
+      vol. 1, p. 522.
+17    Ibid., p. 744.
+18    In fact, matters are a bit more complicated than this. As with many of
+      Schiller’s philosophical terms, deﬁnition remains vague and the same
+      term is often used to denote different concepts. As Manfred Frank
+      (Einführung in die frühromantische Ästhetik, p. 118) has pointed out, the
+      term freedom is used by Schiller in four different senses. However, the
+      relevant sense for the present discussion is the one we refer to here.
+19    For a good account of the relation of Schiller and Fichte in these respects,
+      see Wilhelm Hogrebe, “Fichte und Schiller: Eine Skizze,” in J. Bolten,
+      Schillers Briefe, pp. 276–89.
+20    Werke, vol. 3, p. 473.
+21    Fichte. Gesamtausgabe I (Stuttgart: Frommann, 1981), vol. 6, pp. 333–61.
+      Quotation is on p. 348.
+22    Wahrheit und Methode, p. 89.
+23    In his discussion of the naı̈ve and the sentimental, Georg Lukács comes
+      to the same conclusion: “But the deepest contradiction of Schiller’s con-
+      ception is that between historical and aesthetic understanding of his own
+      basic concepts.” “Schillers Theorie der modernen Literatur,” in Goethe
+      und seine Zeit (Bern: A. Francke, 1947), pp. 78–109. Quotation is on
+      p. 106.

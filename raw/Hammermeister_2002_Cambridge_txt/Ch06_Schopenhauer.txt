@@ -1,0 +1,801 @@
+The German Aesthetic Tradition
+Kai Hammermeister | Cambridge University Press, 2002
+
+Chapter 6: Schopenhauer
+Print pages 111–127; PDF pages 131–147
+
+
+=== Chapter text ===
+
+[p. 111] [PDF page 131]
+
+6
+
+                          Schopenhauer
+
+
+
+
+Without much doubt, Arthur Schopenhauer (1788–1860) is the one
+philosopher of art with the largest inﬂuence on artists, on their un-
+derstanding of themselves, and on their artistic production. The list
+of those who acknowledge debts to Schopenhauer is long: the writ-
+ers Friedrich Hebbel, August Strindberg, Thomas Hardy, Emile Zola,
+Marcel Proust, Thomas Mann, Edgar Allan Poe, Charles Baudelaire,
+Stephane Mallarmé, Joseph Conrad, André Gide, Robert Musil,
+Samuel Beckett, W. B. Yeats, Jorge L. Borges, Thomas Bernhard,
+and Arno Schmidt; the painter Eugene Delacroix; the composers
+Richard Wagner, Arnold Schönberg, Sergey Prokoﬁev, and Nikolay
+Rimsky-Korsakoff, as well as numerous others. Yet as pronounced as
+Schopenhauer’s inﬂuence on the artistic community itself is, his effect
+on signiﬁcant philosophers in general and on philosophical aesthetics
+in particular is negligible. With the exception of Friedrich Nietzsche,
+who is less a disciple than an idiosyncratic commentator with his own
+agenda, Schopenhauer’s thought on art remained isolated in the his-
+tory of ideas. Hence, his writings do not mark the beginning of a new
+productive approach to the riddle of art as much as they signal the
+beginning of the dismantling of the idealist tradition. Historically, the
+importance of Schopenhauer does not result so much from his effect
+on future thinkers; it lies in the fact that with him, the skeptical reac-
+tion against the achievements of idealism sets in and is clearly visible.
+   Chronologically, to be sure, Schopenhauer’s philosophical mag-
+num opus Die Welt als Wille und Vorstellung [The world as will and
+
+                                   111
+
+[p. 112] [PDF page 132]
+
+112                 Part II. Challenging the Paradigms
+
+representation, 1818] appeared before Hegel began his lectures on
+aesthetics, yet chronology does not matter much in this case. Clearly,
+Schopenhauer’s philosophy is not part of German idealism – despite
+his self-stylization as the true heir of Kant. We will see that with re-
+spect to some of the most central positions of idealist philosophy of
+art, Schopenhauer not only strays from the lines of argumentation but
+also advocates a deﬁnite reversal of these positions. Despite the force-
+fulness of his writing and the self-assured declaration of his superiority
+over Hegel especially, Schopenhauer’s thinking achieves neither the
+conceptual rigor nor the systematic breadth of his idealist precursors,
+as becomes apparent from the many contradictions and inconclusive
+arguments in his writings. Schopenhauer’s aesthetic theory is part of
+his large treatise The World as Will and Representation, the book that he
+published as a young philosopher and kept amending and comment-
+ing on for the rest of his life. Of the four sections of this work, one
+is devoted to the philosophy of art. Some shorter essays that take up
+questions like the interesting and its relation to the beautiful, the ques-
+tion of style in art and the art of writing – art taken here in the sense of
+rhetorical skill – ﬂesh out his ideas. Yet despite the obvious importance
+that art holds for Schopenhauer both personally and philosophically,
+his aesthetic theory is often unclear and inconsistent when we get down
+to the particulars. While this is not the place to explore all of the ap-
+parent aporias in detail,1 we will still have to attend to some of them
+in order to realize that Schopenhauer’s thought marks the beginning
+of a period of skepticism in aesthetic philosophy.
+   It will turn out that there are three problematic departures from
+idealist positions on aesthetics that are indicative of a reductive ten-
+dency in the philosophy of art. The ﬁrst is an individualist turn that
+considers art as no longer tied to a community, be it a more or less
+universal community as for Kant or the nation-state as for Hegel. Art
+matters only under the perspective of the isolated individual and his
+need to escape from an unbearable existence that is partly made in-
+sufferable precisely by the necessary communal nature of human life.
+The communal moment is not absent from Schopenhauer’s aesthetic
+considerations, but it now has to serve as a negative backdrop from
+which art offers liberation. Connected to this individualistic turn of
+aesthetics is a reversal of both the epistemological and the practical
+moment of aesthetics. Although Schopenhauer insists on art’s capacity
+
+[p. 113] [PDF page 133]
+
+Schopenhauer                            113
+
+to grant insights otherwise unavailable, the mediation between this
+epistemologically optimistic stance and his general antirationalism is
+problematic. Equally questionable is the insistence on the practical
+dimension of the aesthetic encounter. The practical moment of aes-
+thetics in Schopenhauer no longer leads to an engagement with the
+world but to a withdrawal from it. Thus, aesthetic experience is pu-
+tatively a technique of liberation from the world in which the only
+practical element left is the one that aims to end all praxis – if not for
+good, then at least temporarily. As with all systematic philosophy – and
+Schopenhauer aims to provide an all-encompassing system – the indi-
+vidual elements, including the aesthetic one, can only be understood
+when situated within their proper context in the system. Therefore, we
+will brieﬂy have to explore Schopenhauer’s metaphysical system ﬁrst.
+
+
+                  The World as Will and Representation
+Having said that Schopenhauer’s aesthetics is part of his metaphysics,
+it becomes necessary to characterize the latter with greater precision,
+all the more so because Schopenhauer’s understanding of metaphysics
+constitutes a departure from the metaphysical tradition in several re-
+spects. Traditional speculative metaphysics aims to comprehend the
+entirety of reality by reference to a principle that is not itself part
+of this reality but precedes it. And Schopenhauer goes along with
+this assumption. Yet whereas this tradition is based on the primacy of
+reason or spirit as the transcendent principle that had replaced the
+Judeo-Christian creator – God, Schopenhauer radically breaks with
+these teachings and proposes the will as a fundamental principle, thus
+giving precedence to an irrational principle over the rationalist meta-
+physical heritage. Schopenhauer deﬁnes the will so that it is no longer
+characterized as a supporting agent of rationality but as an irrational
+force.
+    Since Schopenhauer’s teaching of the will is essential for his philoso-
+phy of art, we need to sketch out these fundamentals of his philosophy.
+As the title of his main work indicates, Schopenhauer argues that the
+world is given to us in a twofold manner. Claiming to follow Kant’s
+epistemology of the Critique of Pure Reason, he advances the notion
+that the object can be known only because of faculties contributed by
+the subject, although he reduces Kant’s categories and modalities to
+
+[p. 114] [PDF page 134]
+
+114                 Part II. Challenging the Paradigms
+
+a single principle, namely, that of the principle of sufﬁcient reason
+[Satz vom Grund ].2 Kant had advanced the notion that the thing-in-
+itself cannot be known because it is not a phenomenon that would
+present itself to our senses, yet it is nevertheless necessary in order to
+guarantee the identity of the objects as ﬁxed points of reference in the
+ﬂow of consciousness. Kant concluded that the objects of the world
+are merely products of our faculties of cognition but not the things-
+in-themselves. From that view, Schopenhauer takes a further step with
+his thesis that the world is merely representation, an appearance for
+the subject: “Everything that belongs to the world and can belong to
+it is inescapably marked by this being-determined [Bedingtsein] by the
+subject and only exists for the subject. The world is representation.”3
+    Schopenhauer also calls the multitude of representations by the
+name of Maya, the term that in Hindu philosophy signiﬁes the veil of
+appearance behind which the truth of existence, namely, the oneness
+of all beings, is hidden. With this, he becomes one of the nineteenth-
+century philosophers who is most inﬂuenced (at least in his terminol-
+ogy) by the discovery of the Upanishads by the romantic generation,
+although the late Schelling and others also point out the resemblance
+between their own thinking and that of India’s great religious heritage.
+Behind the representation thus lies the thing-in-itself that is, strictly
+speaking, unknowable. Yet one exception allows us to grasp the nature
+of the thing-in-itself and then to generalize this experience so as to
+ﬁnd in it the key that unlocks the metaphysical principle of the world.
+This exception is our body that we not only know as object among
+objects and thus as representation, but that also grants us immediate
+access to the will: “Every act of the will is immediately and necessarily
+also a movement of the body” (WWR, 164). Hence, Schopenhauer
+calls the body “the will that became visible” (WWR, 173), and he de-
+duces from this individual access to the determining principle of em-
+pirical reality that all objects are driven by the same force, that is, that
+the thing-in-itself is not unknowable after all but must be the will. The
+will “is the essence of all singular existence and also of totality: it ap-
+pears in every blind force of nature; it also appears in the contemplated
+acts of man” (WWR, 177).
+    By making the body the privileged site of cognition, Schopenhauer
+reverses the hierarchy of body and intellect that had characterized
+the Western philosophical tradition, most prominently in Descartes.4
+
+[p. 115] [PDF page 135]
+
+Schopenhauer                            115
+
+Yet the generalization from the discovery of the individual will to
+the will as principle of the world is not entirely convincing, since
+Schopenhauer never clariﬁes in what relation the individual will stands
+to the world will. References to the Hindu theory of Atman and
+Brahman do not help to elucidate the issue, because it still needs to be
+explained whether the individual will is part of the one encompassing
+will and, if so, how it can be distinguished from it. Conceivably, it could
+also be argued that the former only participates in the latter in certain
+respects, yet in this case, it would have to contain elements that are not
+part of the world will, which in turn would need to be accounted for.
+Aristotle’s discussion of the problematic relation of empirical object
+and Platonic idea, the question of methexis, can mutatis mutandis be
+applied to this puzzling connection of individual will and world will.
+   The will for Schopenhauer is an egoistic and blind drive that only
+asks for satisfaction yet never reaches it and, thus, produces ever-new
+needs and wants: “All willing is founded in need [Bedürfniss], hence
+in lack [Mangel ], hence in suffering” (WWR, 288). The satisfaction of
+one desire gives birth immediately to new cravings, so that under the
+rule of will, no situation can ever exist in which man’s needs have all
+been satisﬁed and he is at rest, not wanting anything more or different
+from what he has and is at present. So long as we are driven by the will,
+“there will never be permanent happiness nor peace” (WWR, 288).
+Moreover, since the world is such that the means to satisfy our wants
+are fewer than those wants, and there are many people with identical or
+similar desires, our existence is also one of constant strife and warfare
+with our fellow men. Again we are confronted with a devaluation of the
+communal that, unlike for Hobbes and other contractualists, cannot
+be salvaged by means of a rational agreement.
+   Schopenhauer thus reverses the traditional metaphysical hierarchy
+of the West in which reason took ﬁrst place and will, understood as de-
+sire, was secondary. Schopenhauer declares outright: “Originally and
+essentially cognition is a function of the will” (WWR, 262). Whereas
+for Kant will was still closely associated with autonomy and practical
+reason, Schopenhauer understands it to be drive, unconscious strife,
+and desire.5 With this deﬁnition of the will, Schopenhauer ﬁnds him-
+self much closer to Schelling’s conception of nature, demonstrating
+once more the inﬂuence of romantic philosophy and especially of
+that of Schelling. Yet whereas Schelling had conceived of nature as a
+
+[p. 116] [PDF page 136]
+
+116                Part II. Challenging the Paradigms
+
+teleological drive toward spirit, Schopenhauer reverses this optimistic
+concept. Instead of joyful productivity he regards deprivation and suf-
+fering as the hallmarks of will. There is no hope for development, but
+only a static and aimless circulation of desire, a nihilistic disappoint-
+ment with all positive movement toward an ideal.6
+   As the ground of all being, the will objectiﬁes itself and brings forth
+ideas. It is never made quite clear why the will should have such a de-
+sire for objectiﬁcation in the ﬁrst place, but Schopenhauer considers
+the world of representations the empirical manifestation of the ideas.
+The ideas, which Schopenhauer labels “Platonic ideas,” also have a
+rather peculiar meaning for him. They are not identical with con-
+cepts, since the latter are abstractions from the empirical reality and,
+thus, secondary to phenomenal objects. Nor are they transcendent
+blueprints of individual objects, since ideas for Schopenhauer do not
+refer to single beings, but only to classes of beings that share the same
+ontological characteristics. Ideas are thus empirical levels of objectiﬁ-
+cation of the will, according to which the strata of the empirical world
+are organized into inorganic nature, organic nature, animals, humans,
+and so on. Therefore, Schopenhauer would not agree with Plato that
+an empirical bed has a bed-idea as its model according to which it
+can be fabricated and used, because for him, only levels of empirical
+reality correspond to an idea. Ideas do not refer to objects in their
+entirety, but only to their ontological essence as determined by the will
+that manifests itself as mere persistence and heaviness in inorganic
+nature, dependence on the interchange with the environment in
+plants, movement in animals, and self-consciousness in human beings.
+Whereas the objects of phenomenal reality depend on the principle
+of sufﬁcient reason and are thus always imbedded in a totality, ideas
+are free from causality. Scientiﬁc investigation can only make claims
+about appearances and never penetrates to the thing-in-itself. Yet
+nevertheless, there is one means of access to both the ideas and the
+will, and that is art. Following Schelling and the romantics, Schopen-
+hauer, too, places aesthetic cognition above conceptual knowledge.
+While philosophy, understood as the highest of the sciences, can
+point the way toward such cognition, only aesthetic contemplation
+can achieve it.
+   Yet the aim of art is not merely to grant the viewer or listener an
+insight that would otherwise be unavailable; more important still is
+
+[p. 117] [PDF page 137]
+
+Schopenhauer                            117
+
+its ability to quiet the forces of the will, since the workings of the will
+are the sources of human misery. The upshot of Schopenhauer’s phi-
+losophy is to overcome the subservience to the will and to ﬁnd peace
+without desires, without aims, and without the pains of an individual
+existence that is merely a phenomenal illusion. The will is one, its indi-
+vidual manifestations – Schopenhauer calls the individualizing force
+of the will the principium individuationis – but an illusion. All suffering
+stems from the will’s blind strife; hence, philosophy’s task is to allevi-
+ate pain by overcoming the pressure of the will. While it cannot do so
+itself, it can prepare for the praxis of the circumvention of the will by
+alerting man to the means at his disposal to achieve this aim.
+    Schopenhauer lists three possibilities to achieve quietude of the
+will. The ﬁrst is the aesthetic experience that we will discuss at length.
+The second is the attitude of compassion in which I make someone
+else’s suffering my own. Such behavior, however, is directed against
+the egoism of the will and would under normal circumstances have to
+be considered harmful to the agent from the perspective of the will.
+The fact that I can act out of compassion therefore proves that man is
+able to overcome his egoism and forget himself in acts of charity. The
+last possibility of ﬁnding peace is the direct negation of the will that
+leads to the denial of one’s own physical needs, that is, to ascetic with-
+drawal. While this last path to peace is difﬁcult and only an option for
+some very few persons, both the experiences of art and of compassion
+are open to more individuals, although never to a majority. Their draw-
+back, however, is their ephemeral nature. Both from art and from the
+act of good will – to use a paradoxical formulation – we have to return to
+our quotidian existence that is governed by strife and unrest. Because
+of the ﬂeeting nature of the aesthetic experience, art can never grant
+redemption but is merely a palliative; it is not a way out of suffering,
+merely a “consolation” (WWR, 384). But now we must turn to those
+privileged moments of calm that art grants us as an escape from misery.
+
+Art as Alleviation of Suffering
+Since cognition serves the will as one of its instruments, it follows
+that its objects are restricted to the phenomenal world. Strictly speak-
+ing, we can only know those representations in time and space that
+are mere appearances and that, hence – according to the Platonic
+tradition – lack any intrinsic value. Yet Schopenhauer argues that there
+
+[p. 118] [PDF page 138]
+
+118                  Part II. Challenging the Paradigms
+
+is an exception to this restriction of our cognitive faculties to the world
+of appearances:
+
+The possible, yet exceptional transition from the usual cognition of individual
+objects to the cognition of the idea happens suddenly when cognition tears
+itself free from the will. Through this act the subject ceases to be a mere indi-
+vidual and is now the pure, will-less subject of cognition which no longer fol-
+lows relations [of objects], but rests in secure contemplation of the presented
+object removed from all context. Hereby the subject overcomes himself.
+(WWR, 264)
+
+    What Schopenhauer describes here as the overcoming of will and
+the possibility of a cognition free from self-interest is, of course, the
+aesthetic experience. Three characteristics deﬁne this aesthetic expe-
+rience of which we ﬁnd two in this quotation, namely, the suspension
+of will – a form of disinterestedness that had constituted one of Kant’s
+four elements of the aesthetic judgment – as well as the cognition of
+an idea. The third is the requirement that the object of contemplation
+be beautiful, a proposition that we will have to investigate more closely
+shortly.
+    This formulation of the aesthetic experience is problematic in at
+least one respect because it appears that the contemplation that frees
+us from the will needs to begin with the will to contemplate, namely, to
+actively engage with the aesthetic object.7 At the basis of this is a certain
+confusion on Schopenhauer’s part regarding the active and passive
+moments of the aesthetic encounter. He never makes clear whether the
+aesthetic state is induced by the object without any contribution by the
+subject or whether it is initiated by the subject. Presumably the latter
+is the case, since Schopenhauer rejects an overpowering force on the
+side of the object as destructive of beauty and, therefore, interesting at
+best. The interesting he deﬁnes as that which forces us to respond to it,
+but this force is experienced as a pressure on our will and thus counter-
+productive in a situation that aims precisely at the suspension of the
+will.8 Beauty, we can thus deduce, is not overpowering but inviting,
+yet every invitation must be pondered, decided upon, and result in
+an action before an encounter can follow. Since art requires beauty, it
+cannot overwhelm us and, consequently, needs our active response to
+its appeal. Also, Schopenhauer had deﬁned genius as the exceptional
+power to actively bracket the will. Yet he argues – again confusing
+
+[p. 119] [PDF page 139]
+
+Schopenhauer                           119
+
+matters – that to this active power of the genius the receptivity of the
+one who contemplates the work of art corresponds, thus stressing
+again the positive factor. Either way, however, Schopenhauer’s argu-
+mentation does not add up and lingers between an epistemological
+passivity and the demand for active participation in that act that lets
+all activity rest.
+    Since cognition must necessarily view every object in a context be-
+cause it is restricted to the phenomenal realm and thus governed by
+the principle of sufﬁcient reason, cognition cannot achieve insight
+into the ideas. These exist in isolation and free from causation. Every
+object that exists in a context can also never be sufﬁciently deﬁned
+and thus known, because the attempt at a complete deﬁnition has
+to take into account the other objects to which the original object is
+contextually related. These in turn carry with them their own con-
+text to which they need to be related, and so on ad inﬁnitum. The
+idea, however, could be fully known since it exists freely. Art, hence,
+“repeats the ideas, the essence and permanence of all phenomena of
+the world, that were comprehended in pure contemplation” (WWR,
+273). It follows Schopenhauer’s famous deﬁnition of art: “We can
+therefore deﬁne it [i.e., art] as the contemplation of objects inde-
+pendent of the principle of sufﬁcient reason” (WWR, 273f.). With
+this deﬁnition, however, Schopenhauer maneuvered himself into
+another corner. He, to be sure, conceives of art as cognition. Closely
+following Schelling’s lead, he argues that art is not only cognition
+but also a higher cognition than everyday experience or scientiﬁc in-
+sight, because only art can penetrate the veil of appearances, Maya,
+and progress to the ideas. Just as in romantic aesthetics, art’s po-
+tential for cognition is thus elevated above the cognitive faculties of
+philosophy.
+    This thesis, however, is problematic since Schopenhauer is unable
+to explain exactly how the cognition of the aesthetic experience is sup-
+posed to function. He excludes reason and its means, that is, concepts,
+from the cognition of ideas that he had clearly distinguished from con-
+cepts. The speciﬁc cognition of art, Schopenhauer insists, is sensual
+and presupposes the breakdown of those mental faculties that remain
+tied to phenomena and their mental representations, namely, under-
+standing and reason. But what other faculties are left for the cognition
+of ideas? Following Kant, we could point to imagination and sensuality,
+
+[p. 120] [PDF page 140]
+
+120                 Part II. Challenging the Paradigms
+
+yet the former cannot distinguish ideas from phantasmagoric produc-
+tions, and the latter cannot achieve any cognition without the aid of
+other faculties. Hence, Schopenhauer leaves a great lacuna where he
+should have explained his theory of the cognition of ideas by means
+of art. Instead, we ﬁnd a confusing, vague, and shifting association
+of cognitive achievements with different mental faculties without any
+clear sense of the precise operations of any of them.9
+
+
+                    The Objective Vision of Genius
+Art, as we have already seen, must be produced by a genius, since only in
+the genius do the cognitive powers dominate the will. Genius, thus, “is
+nothing but absolute objectivity, i.e., the objective direction of the spirit
+in opposition to the subjective one that is directed toward the self and
+the will” (WWR, 274). And just as contemplation begins with an act of
+will, both for the genius himself and for the contemplator of a work of
+art, so the will is also involved in the artistic production. Schopenhauer
+conceives of only the contemplation of the idea itself as will-less,
+whereas his model of artistic production follows the model of poiesis as
+conscious creation. The execution of a work of art must be driven by
+the will, Schopenhauer argues, because only the will can initiate the
+search for the means that are most adequate for the communication
+of the idea.10 Again we ﬁnd that art is unimaginable without the will,
+both in its creation and its reception.
+   Schopenhauer’s theory of genius, thus, is antirealist in the sense
+that the central feature of the genius is his participation in the ideal
+world.11 As has been pointed out, this conception is inﬂuenced by the
+ideas of literary romanticism and its opposition between the genius
+and the philistine who remains stuck in the quotidian world of strife
+and care for personal welfare, as he has been depicted very amusingly,
+for example, in Ludwig Tieck’s comedies.12 But not only the romantics
+set the philistine in opposition to the cultivated person with a sense
+for art; Goethe, too, subscribes to the same antithesis in his poem
+“Gedichte sind gemalte Fensterscheiben!” (Poems are painted win-
+dows!). Against such philistinism Schopenhauer pitches the genius’s
+potential for intellectual intuition – a concept that he criticizes
+severely in Fichte only to utilize himself in the aesthetic context. And
+while Schopenhauer celebrates the genius as much as the previous
+
+[p. 121] [PDF page 141]
+
+Schopenhauer                           121
+
+generation of Storm-and-Stress authors, he makes it clear that for him,
+genius is not the expression of subjective individuality but, rather, the
+overcoming of all individual aspects and the ascent to pure objectivity.
+There is certainly a strong mystical element in this conception, insofar
+as the genius achieves both quietude and a close connection to the
+source of being in his contemplation. Here, too, Schopenhauer allies
+himself with the romantics who had rediscovered the writings of Jakob
+Böhme, Meister Eckhart, and other mystics for themselves.
+    The aesthetic experience is, then, the repetition of the genius’s
+vision mediated by the work of art. Again Schopenhauer argues for
+a certain involvement of the subject in this process that is not exclu-
+sively driven by the aesthetic object. Aesthetic experience presupposes
+a special talent as well, namely, the ability to become for a moment
+of time a pure subject of contemplation. Most people, however, al-
+though they posses this latent ability (WWR, 286), cannot actualize it.
+Some intellectual potential – the precise deﬁnition of which remains
+unclear – is necessary to comprehend the idea that is represented in
+the work of art, so that especially the most outstanding works of art
+“must remain incomprehensible and inaccessible to the dull majority
+of people” (WWR, 339). We do not ﬁnd out what precisely the majority
+of people are missing, since Schopenhauer was unable to explain how
+the cognition of ideas is meant to function, yet it is clear that for him,
+art is certainly an elitist affair. While he conceded that the consolation
+of art is available to more human beings than the redemption from
+suffering by means of ascetic negation of the will, he leaves little doubt
+that the requirements for the aesthetic experience still exclude the
+large majority from ﬁnding a moment of peace.
+   We must now turn to Schopenhauer’s conception of beauty. We have
+identiﬁed three requirements for the aesthetic experience, namely, the
+cognition of an idea, the liberation from the will, and ﬁnally, beauty as
+the third condition. Schopenhauer advances a deﬁnition of beauty at
+one point, although it leaves much to be desired when he writes: “the
+adequate objectiﬁcation of the will by means of a spatial phenomenon
+is beauty in the objective sense” (WWR, 324 f.). The question here
+is what distinguishes an adequate from an inadequate representation
+(presumably, Schopenhauer does not mean to refer to an immediate
+representation of the will, but the representation of an idea, since
+the only objectiﬁcation of the will that Schopenhauer can imagine is
+
+[p. 122] [PDF page 142]
+
+122                 Part II. Challenging the Paradigms
+
+music, that is, precisely not a spatial phenomenon) and what mental
+faculty would be able to distinguish the two. Also, it remains vague why
+the adequate representation constitutes beauty in an objective sense,
+since Schopenhauer leaves it open what sort of subjective beauty there
+could be.
+    Yet more surprising still for an aesthetic theory is his claim that in
+every object its idea can be contemplated and that art, hence, is on-
+tologically not fundamentally different from all other objects: “Since
+every object can be contemplated objectively and free from all context
+and since furthermore the will appears in every object as one level of its
+objectiﬁcation and the object is therefore expression of an idea, every
+object is beautiful” (WWR, 307). It hardly needs to be emphasized that
+Schopenhauer contradicts himself again here, since before, he had ar-
+gued that no path leads from the phenomenal world to the world of
+ideas by means of the cognitive faculties that are always subservient
+to the will, whereas according to this statement, nothing should pre-
+vent us from such ascent. Still, the thesis that every object can serve
+as the source of aesthetic experience and must at least be considered
+of potential beauty is most puzzling. Art seems to lose a good bit of its
+privileged status if we take Schopenhauer seriously on this point. To be
+sure, he backpedals quickly and relativizes his argument by stating that
+some objects are more beautiful than others because they “aid the ob-
+jective contemplation, invite it, and even force it so that we then call it
+beautiful” (WWR, 307). Yet once more this deﬁnition leaves us discon-
+tented: What before had been excluded from art, namely the element
+of force as one that involves the will in a struggle and thus hinders
+contemplation, is here put forward as one deﬁning element of beauty.
+    To be sure, beauty cannot be found only in art but also in nature:
+“The aesthetic pleasure is essentially the same, be it produced by a
+work of art or immediately by the contemplation of nature or life.
+The work of art is merely an aid to that cognition that constitutes said
+pleasure” (WWR, 287). The beauty of art is superior to that of nature
+only in the sense that the work of art represents the idea cleansed of
+all accidental elements. Natural beauty still requires that we prepare it
+and penetrate to its idea, whereas the artist has already done this work
+for us and serves the idea up straight. Even ugly art – although such
+art falls short of the aesthetic requirements and should sensu strictu not
+be labeled art at all – can serve an aesthetic function, Schopenhauer
+
+[p. 123] [PDF page 143]
+
+Schopenhauer                           123
+
+states. In it the idea still appears, yet the ugliness of the object does
+not further the cognition but hinders it (WWR, 308).
+   The other possible conduit of an aesthetic experience is the sub-
+lime. The sublime threatens the subject, that is, the self-perpetuating
+drive of the will. Once the subject manages to tear itself away from the
+sense of danger and thus to liberate itself from the will, it achieves the
+same state of quiet contemplation that the work of art provides. Thus,
+with the sublime a struggle against the will needs to be won before
+contemplation can ensue; beauty accomplishes the same end without
+any force: “What thus distinguishes the sense of sublimity from that of
+beauty is this: with the beautiful pure cognition has gotten the upper
+hand without any struggle . . . whereas this state of pure cognition must
+ﬁrst be won in the case of the sublime by a conscious and violent tear-
+ing away from those conditions that the will had realized as adverse”
+(WWR, 296). Since the sublime depends on the willful negation of
+the threatening aspects and, thus, willful overcoming of the will even
+before cognition can be achieved, beauty is conceived as cognition
+without struggle.
+   Obviously, Schopenhauer’s theory of beauty is also no less problem-
+atic. For him, beauty not only characterizes the successful work of art
+but also turns out to be an attribute of the ideas themselves that the
+genius contemplates in his ecstatic vision, as well as an attribute of
+every nonartistic object insofar as it can serve as an initiator of pure
+contemplation. While some commentators grant Schopenhauer the
+beneﬁt of the doubt by claiming that this multifaceted deﬁnition of
+beauty can be read as a quasi-romantic opposition against the norma-
+tive deﬁnition of classicism,13 it seems to me that such vagueness of
+deﬁnition renders the term almost useless.
+
+
+                     From Architecture to Music
+Based on his metaphysics of will, Schopenhauer then develops a sys-
+tem of the forms of art. These forms he regards as aesthetic corres-
+pondences to the levels of objectiﬁcation of the will, so that inor-
+ganic nature, organic nature of plants and animals, and the sphere
+of human life all ﬁnd their respective artistic representation in one
+form of art. The lowest form of art that corresponds to the lowest
+manifestation of will is architecture. The function of architecture is
+
+[p. 124] [PDF page 144]
+
+124                 Part II. Challenging the Paradigms
+
+“to clearly express some ideas that are part of the lowest levels of the
+objectiﬁcation of the will: namely heaviness, cohesion, rigidity, hard-
+ness, these general qualities of stone, these ﬁrst, simplest, vaguest ap-
+pearances of the will, the bass line of nature” (WWR, 312). From here
+the hierarchy of the forms of art mirrors that of nature: The art of
+gardening presents the beauty of the vegetable kingdom; the art of
+landscaping does the same, but it contains a transposition from the
+actual material to the representational realm; the art of animal paint-
+ing – a unique form of art for Schopenhauer – corresponds to the
+fauna; and with historical painting and sculpture we reach the sphere
+of human life and the embodiment of human beauty as the perfect
+objectiﬁcation of will. Portraiture then moves from the general de-
+piction of man to individual representation; poetry as a discursive art
+peaks in tragedy that constitutes the epitome of all representational
+arts. The tragic for Schopenhauer not only embodies “the struggle of
+the will against itself” (WWR, 364), but more importantly shows us that
+the demise of the tragic hero does not result from any individual ﬂaw:
+“The true meaning of the tragedy is the deeper insight that the hero
+does not do penance for his particular sins, but rather for the original
+sin, the guilt of being” (WWR, 365).
+   At the highest rank in the hierarchy of art, yet no longer part of the
+representational forms of art, is located music. While all the other arts
+have a direct correspondence to an idea as the objectiﬁcation of the
+will, music is the unmediated objectiﬁcation of the will itself: “Hence
+we can regard the phenomenal world, or nature, and music as two dif-
+ferent expressions of the same instance” (WWR, 376). Music grips us
+most of all the arts because through music we gain direct access to the
+will. Music is “embodied will,” not embodied idea. Drawing on Scholas-
+tic vocabulary, Schopenhauer declares: “Concepts are the universalia
+post rem, while music gives universalia ante rem and reality the universalia
+in re” (WWR, 378). Following the romantic thinkers, Schopenhauer
+thus reverses Kant’s hierarchy of arts in which music had taken the
+lowest rank, partly because in the interaction of imagination and un-
+derstanding, music sticks closest to the pole of imagination and con-
+tains no aspect of thought, partly because musical performances can
+be obtrusive by necessarily affecting everyone in earshot (Critique of
+Judgment, §54).14 And while it is certainly true that the aesthetics of the
+late eighteenth century in general (with the exception of Diderot) did
+
+[p. 125] [PDF page 145]
+
+Schopenhauer                                125
+
+not pay much heed to music, and that this form of art only came to
+prominence in aesthetic reﬂection with the romantic generation and
+with Schopenhauer himself, both were preceded by J. J. W. Heinse’s
+(1746–1803) essay-novel Hildegard von Hohenthal. In this narrative,
+music is also considered as a means of access to the objects as they
+exist outside of any conceptual framework, although Heinse regards
+the necessary dispensation of the verbal as grounded in an outbreak of
+passion – a thought diametrically opposed to Schopenhauer, yet closely
+allied with the poetics of Storm-and-Stress.
+    In his theory of music, Schopenhauer comes closest to the very
+traditional deﬁnition of beauty as the harmonious integration of parts
+into a totality, thus presenting a requirement that was absent from
+previous attempts to deﬁne the beautiful. Still, this new approach to
+beauty might very well be at odds with his previous cognitivist deﬁnition
+of beauty. Yet it is the cognitive function of art that leads him to declare
+that if music could be translated into concepts, it would be the “true
+philosophy” (WWR, 380).
+    Obviously, Schopenhauer’s theory of the forms of art is entirely
+ahistorical. For him, forms of art do not develop or change. This static
+picture of art results from his general rejection of history as a useful
+category for thought – an attitude that he shares with his idol Goethe:
+
+The history of humankind, the bustle of events, the change of ages, the multi-
+ple forms of human life in different periods and centuries – all this is merely
+the accidental form of the appearance of the idea, does not belong to the latter
+itself, but only to its representation which is the object of individual cognition
+and as foreign, inessential and unimportant to it as their shapes are to the
+clouds. (WWR, 270)
+
+   Having rejected history as an illusion, however, Schopenhauer is
+hard put to explain changes in the forms of art that he himself de-
+plores. At one point in time, he argues, for example, that the rise
+of opera led to a corruption of music, because a medium foreign to
+music, namely, words as elements of the conceptual realm, dominate
+in it.15 Yet an ahistorical conception of the arts must either have ac-
+counted for the form of opera beforehand, so that it could not be con-
+sidered a corruption but merely an intermediate form between poetry
+and music, or it must regard such corruption as irrelevant, since his-
+torical developments can never pose a threat to transhistorical forms.
+
+[p. 126] [PDF page 146]
+
+126                 Part II. Challenging the Paradigms
+
+    The problem with Schopenhauer’s aesthetic theory is not so much
+that it is full of inconsistencies and that many questions remain open.
+That is also the case with Kant’s Critique of Judgment, for example, al-
+though certainly to a much lesser extent. Much more problematic,
+however, are Schopenhauer’s departures from central positions of
+idealism. For one, there is the individualistic turn in his aesthetics.
+Schopenhauer paves the way for an aestheticism free from all ties to
+moral, communal, practical, and even metaphysical considerations.
+With the German idealists, art always was considered in some kind
+of nexus to a larger whole. Yet Schopenhauer transforms aesthetics
+into an individualist endeavor. True to the soteriological impetus of
+his metaphysics at large, the importance of art results from its rele-
+vance as a means for relief that it provides for the consumer. This
+has two important consequences for the philosophy of art: The ﬁrst
+is that a redemptive function is transposed from religion to art and
+that art thus turns into something of an ersatz religion.16 Precisely
+this position made Schopenhauer a favorite with the bored, enlight-
+ened, politically powerless, and somewhat areligious bourgeoisie of the
+post-1848 period in which Schopenhauer came to fame. Secondly, the
+individualistic turn also emphasizes the role of experience in art over
+and above the work of art itself – possibly even more so than Kant’s
+third Critique. Also, we ﬁnd here one of the rare instances in which
+a theoretical position in aesthetics antedates a tendency in artistic prac-
+tice. Although tendencies to subjectivize painting, to mention only one
+example, had been under way for a long time – in painting certainly
+since romanticism, if not in part since the Renaissance – they only
+became a credo within the impressionist art of the latter half of the
+nineteenth century.17
+    Furthermore, Schopenhauer’s theory of art complicates both the
+epistemological and the practical moment of art to the point of revers-
+ing their traditional function. We have already seen that Schopenhauer
+couldn’t sufﬁciently explain how his antirationalist metaphysics could
+go together with his cognitivist aesthetics. For a solution to that im-
+passe he would have to show us what mental faculty exists beyond
+reason and understanding, both of which are said to be dependent
+functions of the will that can grant cognition free from the will. Since
+one of his aims is to dismantle rationality as a function of the will, that
+
+[p. 127] [PDF page 147]
+
+Schopenhauer                           127
+
+is, as secondary and subservient, it is hard to see how the cognitive
+aspect of aesthetics can win out over the rationalist skepticism.
+    A similar impasse results when we consider the practical function of
+art. Schopenhauer certainly attributes a didactic function to the aes-
+thetic experience, namely, one that reveals to us the ephemeral nature
+of all appearances. As he states in a collection of aphorisms, literature
+can contribute to the necessary disillusionment of man: “In order to
+achieve the necessary, clear and profound understanding of the true
+and sad condition of man it is more than helpful to study their ac-
+tions and manners in literature as a commentary on their actions and
+manners in real life and vice versa.”18 Literature, thus, should serve to
+undo our positive expectations of human intercourse. All art, in other
+words, has the practical function not to further our engagement with
+the world but to support our withdrawal from it.19 Individualism, the
+emphasis on personal experience over and above reality, epistemolog-
+ical skepticism, and practical asceticism, however, are the signs of a
+philosophy in general and an aesthetic theory in particular that mark
+the farewell to a position that considers man’s life valuable, worthy of
+improvement through individual and communal efforts, and joyous
+due to its participation in a totality that both precedes the individual
+and yet demands his engagement in order to become truly a home for
+him.
+
+
+=== Notes to Chapter 6 ===
+
+[p. 230] [PDF page 250]
+
+Chapter 6. Schopenhauer
+
+ 1    Many of the inconsistencies of Schopenhauer’s aesthetics are explored
+      carefully in Barbara Neymeyr’s dissertation Ästhetische Autonomie als
+      Abnormität: Kritische Analysen zu Schopenhauers Ästhetik im Horizont seiner
+      Willensmetaphysik (Berlin and New York: de Gruyter, 1996). For a basic,
+      albeit uncritical, introduction in English, see the chapter “Art and Ideas”
+      in Christopher Janaway’s Schopenhauer (Oxford: Oxford University Press,
+      1994).
+ 2    A good summary of Schopenhauer’s simpliﬁcation of Kant’s epistemol-
+      ogy can be found in Ulrich Pothast, Die eigentlich metaphysische Tätigkeit:
+      Über Schopenhauers Ästhetik und ihre Anwendung durch Samuel Beckett (Frank-
+      furt am Main: Suhrkamp, 1982). Pothast points out Schopenhauer’s lack
+      of arguments for the ideal existence of time and space and the absence
+      of the metaphysical and transcendental deduction of the categories, as
+
+[p. 231] [PDF page 251]
+
+well as some other tight spots in his reduction of Kant’s epistemology to
+     the principle of sufﬁcient reason. See especially p. 18.
+3    Die Welt als Wille und Vorstellung (WWR) (Stuttgart: Reclam, 1987) vol. 1,
+     p. 35.
+4    See Walter Schulz, “Die problematische Stellung der Kunst in Schopen-
+     hauers Philosophie,” in Jürgen Brummack et al., eds., Literaturwissenschaft
+     und Geistesgeschichte: FS für Richard Brinkmann (Tübingen: Niemeyer,
+     1981), pp. 403–15, especially p. 403.
+5    See Walter Schulz: “Schopenhauer und Nietzsche: Gemeinsamkeiten
+     und Differenzen,” in Wolfgang Schirmacher, ed., Schopenhauer, Nietzsche
+     und die Kunst (Vienna: Passagen, 1991), 21–34, especially p. 22. For a
+     celebration of this position as a liberation of the unconscious that had
+     been violated by conceptual thought in Kant, see Nick Land’s essay “Art
+     as Insurrection: The Question of Aesthetics in Kant, Schopenhauer, and
+     Nietzsche.” The piece is philosophically not very convincing but con-
+     stitutes a typical postmodern attempt to downplay rationality, and thus
+     it provides a good example for the thesis that Lukács might have been
+     wrong with his accusations against Schopenhauer in his The Destruction
+     of Reason, yet that his criticism could hold for some Schopenhauer advo-
+     cates. In Keith Ansell-Peterson, ed., Nietzsche and Modern German Thought
+     (London and New York: Routledge, 1991), pp. 240–56.
+6    See Jochen Schmidt, Die Geschichte des Genie-Gedankens in der deutschen
+     Literatur, Philosophie und Politik 1750–1945 (Darmstadt: Wissen-
+     schaftliche Buchgesellschaft, 1985) vol. 1, especially pp. 471 f.
+7    Paul Guyer has put his ﬁnger on this spot very perceptively in his es-
+     say “Pleasure and Knowledge in Schopenhauer’s Aesthetics,” in Dale Ja-
+     quette, ed., Schopenhauer, Philosophy and the Arts (Cambridge: Cambridge
+     University Press, 1996), pp. 109–32, especially pp. 116f. I follow him in
+     his argumentation.
+8    See Schopenhauer’s 1821 essay “Über das Interessante,” in A. Schopen-
+     hauer, Sämtliche Werke (Munich: Piper, 1923), vol. 6, pp. 379–89, especially
+     p. 381.
+9    For this discussion, see also Ulrich Pothast, Die eigentlich metaphysische
+     Tätigkeit, pp. 69 ff.
+10   Schopenhauer, “Zur Metaphysik des Schönen und der Ästhetik,” in
+     Sämtliche Werke, vol. 2, pp. 453–93, especially p. 457.
+11   For a detailed discussion of this theory of genius, see Jochen Schmidt,
+     Die Geschichte des Genie-Gedankens.
+12   See Arthur Hübscher, “Der Philosoph der Romantik,” Schopenhauer-
+     Jahrbuch 34 (1951–2): 1–17.
+13   Ulrich Pothast, Die eigentlich metaphysische Tätigkeit, p. 81.
+14   Günther K. Lehmann also ﬁnds it puzzling that Schopenhauer’s meta-
+     physical aesthetics of quietude and silence ﬁnds its most adequate
+
+[p. 232] [PDF page 252]
+
+expression in music as the art of sound. Ästhetik der Utopie (Stuttgart:
+      Neske, 1995), p. 45.
+15    Schopenhauer, “Zur Metaphysik des Schönen und der Ästhetik, ” p. 473.
+16    See also Brigitte Scheer, Einführung in die philosophische Ästhetik
+      (Darmstadt: Primus, 1997), p. 152.
+17    This discussion is taken up from an aesthetic perspective in Arnold
+      Gehlen’s excellent yet still underrated work Zeit-Bilder: Zur Soziologie
+      und Ästhetik der Modernen Malerei (Frankfurt am Main: Klostermann,
+      1986).
+18    A. Schopenhauer, Aphorismen zur Lebensweisheit (Munich: Goldmann,
+      1978), p. 159.
+19    For a Marxist critique of this position, see Hans-Dieter Bahr, Das gefesselte
+      Engagement: Zur Ideologie der kontemplativen Ästhetik Schopenhauers (Bonn:
+      Bouvier, 1970).

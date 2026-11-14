@@ -1,0 +1,1016 @@
+The German Aesthetic Tradition
+Kai Hammermeister | Cambridge University Press, 2002
+
+Chapter 8: Cassirer, Lukács
+Print pages 153–172; PDF pages 173–192
+
+
+=== Chapter text ===
+
+[p. 153] [PDF page 173]
+
+8
+
+                         Cassirer, Lukács
+
+
+
+
+                   Ernst Cassirer’s neo-Kantianism
+By and large, the neo-Kantian schools in Germany were not very
+interested in questions of aesthetics. Art and beauty mostly took sec-
+ond place to epistemology and ethics. Two notable exceptions are the
+Kant scholar Ernst Cassirer (1874–1945) and the young Georg Lukács
+(1885–1971), who also began his philosophical career under the inﬂu-
+ence of neo-Kantianism. Cassirer was, in fact, one of the founders of the
+Kulturwissenschaftliche Bibliothek, better known as the Warburg Institute,
+where he collaborated closely with the art historians and theoreticians
+Erwin Panofsky and Fritz Saxl during the years 1926–33. Still, despite
+a multivolume study on the philosophy of symbolic forms, Cassirer
+never presented a uniﬁed and fully developed theory of art. It is nev-
+ertheless possible to reconstruct his position based on a number of
+essays, lectures, and book chapters all dealing with the problems of
+aesthetics and its history. In this context, however, the main focus will
+be Cassirer’s attempt to “rejuvenate” Kant’s aesthetic theory, because
+after the challenge to the paradigmatic aesthetics of the idealists by
+Schopenhauer, Kierkegaard, and Nietzsche, we now return to precisely
+these paradigmatic positions.
+   Against the positivist notions of aesthetics that had been developed
+toward the end of the nineteenth century in the works of Helmholtz,
+Fechner, and others, who had attempted to reduce the sense for beauty
+and art to a physiological response, Cassirer stresses the uniqueness of
+
+
+                                   153
+
+[p. 154] [PDF page 174]
+
+154                   Part III. Renewing the Paradigms
+
+the aesthetic experience as something that cannot be elucidated by sci-
+entiﬁc research. Cassirer returns to Kant in order to ﬁnd a justiﬁcation
+for the autonomy of art from science and morality. Yet this means con-
+sequently that science and morality cannot be reduced to aesthetic en-
+terprises either, as Nietzsche had wanted it. Neither science nor art can
+subsume the other under itself, and the same holds true for morality. In
+his Essay on Man, the 1944 summary of his Philosophie der symbolischen For-
+men (Philosophy of symbolic forms) for an English audience, Cassirer
+writes in the chapter that deals with art: “The aesthetic experience –
+the experience of contemplation – is a different state of mind from
+the coolness of our theoretical and the sobriety of our moral judge-
+ment. . . . Science gives us order in thoughts; morality gives us order
+in actions; art gives us order in the apprehension of visible, tangible,
+and audible appearances.”1 The insistence on the autonomy of art, sci-
+ence, and morality, respectively, is the most important aspect of his phi-
+losophy that Cassirer owes to Kant. Yet unfortunately, this also means
+that he inherits Kant’s problems that result from the separation of the
+notions of freedom and nature, beauty and morality: Both thinkers are
+at pains to reconnect the autonomous spheres to each other. Kant’s
+failure to make this connection convincingly had given rise to one of
+the most exciting periods in the history of philosophy, namely, German
+idealism. And while the renewed interest in the aesthetic positions of
+the idealists in the twentieth century hardly depends on Cassirer’s neo-
+Kantianism, the resulting philosophies of art very much resemble the
+paradigmatic reactions to Kant’s Critique of Judgment.
+   The basis for Cassirer’s philosophy is anthropological, namely, the
+idea that man is not so much the Aristotelian animal rationale but an
+animal symbolicum.2
+
+The ego, the individual mind, cannot create reality. Man is surrounded by a
+reality that he did not make, that he has to accept as an ultimate fact. But it is
+for him to interpret reality, to make it coherent, understandable, intelligible –
+and this task is performed in different ways in the various human activities, in
+religion and art, in science and philosophy. In all of them man proves to be
+not only the passive recipient of an external world; he is active and creative.
+But what he creates is not a new substantial thing; it is a representation, an
+objective description of the empirical world.3
+
+   Cassirer argues that art together with myth, religion, language, and
+science is a basic phenomenon of human life and culture; and with
+
+[p. 155] [PDF page 175]
+
+Cassirer, Lukács                          155
+
+all these spheres art shares the nature of a symbolic expression of
+man. It would lead us too far astray in the present context to examine
+Cassirer’s notion of the symbol; hence, it must sufﬁce to state that
+for him symbols constitute human reality as the result of a process
+of inquiry into and discovery of new aspects of a preexisting reality.
+One of Cassirer’s most important concerns in his aesthetic theory is,
+therefore, to establish an autonomous sphere of art by delineating it
+against myth, language, science, and morality and vice versa.
+   Cassirer argues that both language and science remove man from
+the immediacy of his lived experience and introduce a mediating
+symbolic sphere between man and reality. As much as this process
+of abstraction from the real is a necessary condition for scientiﬁc dis-
+covery and progress, as well as the basis for all linguistic communica-
+tion, it inevitably leads to reduced vividness of life as well: “Language
+and science are abbreviations of reality; art is an intensiﬁcation of
+reality. Language and science depend upon one and the same pro-
+cess of abstraction; art may be described as a continuous process
+of concentration.”4 Yet not only does art salvage the richness of life
+against linguistic and scientiﬁc impoverishment, it is also the neces-
+sary counterbalance to the scientiﬁc hubris claiming that reality is
+completely knowable and by extension controllable:
+
+It would seem as though reality were not only accessible to our scientiﬁc ab-
+stractions but exhaustible by them. But as soon as we approach the ﬁeld of
+art this proves to be an illusion. For the aspects of things are innumerable,
+and they vary from one moment to another. . . . The revelation of this inex-
+haustability of the aspects of things is one of the great privileges and one of
+the deepest charms of art.5
+
+   Cassirer mobilizes Kant’s notion of the aesthetic idea in order to limit
+not only the enterprise of scientiﬁc reason but also the possibilities of
+language. By pitching art against language, Cassirer demonstrates a
+conception of language that is closer to twentieth-century structural-
+ism than to the tradition of Hamann, Herder, and Humboldt.6 Their
+notion, on the other hand, was taken up by Nietzsche and revived in
+Heidegger, Gadamer, and others, who emphasize the creative and un-
+scientiﬁc nature of language. (We will return to these positions of the
+latter thinkers in the next chapter.) But Cassirer, too, realizes that a
+radical opposition of language and art is unthinkable because it would
+disqualify plays, novels, and poetry from being art altogether, so in the
+
+[p. 156] [PDF page 176]
+
+156                 Part III. Renewing the Paradigms
+
+end he allows for aesthetic speech to mediate between scientiﬁc objec-
+tivity and the intensity of personal experience. Yet Cassirer only hints
+at the uniqueness of such aesthetic language without stating explicitly
+how and why language can escape its abstract nature and incorporate
+the vividness of myth and art.
+    The autonomy of art also extends to morality. Cassirer argues against
+Plato and Tolstoy, both of whom had charged art with inciting passions
+that rational man is obliged to keep under control, by siding with
+Aristotle and his notion of catharsis. Instead of arousing unwanted
+emotions, Cassirer states, art helps to bring about the harmonious
+balance of the soul that the Greeks called euthymia. He argues that
+both Plato and Tolstoy forget that art is not a direct expression of pain,
+anger, jealousy, greed, lust, or rage but, rather, their representation in
+a new medium. This new medium, the work of art, is characterized by
+the predominance of form over content so that in it “all our feelings
+undergo a sort of transubstantiation with respect to their essence and
+their character. The passions themselves are relieved of their material
+burden. We feel their form and their life but not their encumbrance.”7
+Cassirer goes on to state that art is less about single emotions like grief
+or anger than about “the dynamic process of life itself.” The passions
+from which we might suffer in everyday life and which indeed might
+need to be controlled are liberated in art from their urgency and
+captivating power. The form of the artwork reigns over its content.
+Hence, art does not incite passions but supports the moral life by
+allowing us to live them vicariously. Just as Kant took pains to prove that
+some connection must exist between art and morality, Cassirer asserts
+that art’s portrayed emotions lead to “an inner freedom which cannot
+be attained in any other way.” Whereas Kant’s notion of art as a symbol
+of the morally good restricts art to the beautiful, Cassirer’s theory of
+art as a cleansing representation of imprudent, immodest, or immoral
+emotions also allows for the representation of the ugly as it manifests
+itself in violent, disgusting, or pornographic acts. Despite Cassirer’s
+upholding of high culture, his aesthetics in this respect comes closer
+to the reality of art in the twentieth century than does that of Kant.
+    Still, for Cassirer, content ultimately has to take second place to
+form, and ugliness is only permissible as an element of content, not of
+form. Yet form is the more important aspect of art, and it is precisely
+the harmony of form that we call beauty. The beautiful form, however,
+
+[p. 157] [PDF page 177]
+
+Cassirer, Lukács                       157
+
+is not a quality of the object but a “formative act” of the mind. Cassirer
+here renews Kant’s attempt to shift aesthetics from the objective to
+the subjective pole. Although he acknowledges that beauty and plea-
+sure depend on something objective, that is, the material existence of
+the artwork, its form ﬁrst needs to be recognized as beautiful by the
+recipient. Hence, “beauty is not an immediate property of things” but
+the constitution of the form of the things in the mind of the reader,
+viewer, or listener. Such focus on the subjective side of the aesthetic
+experience, however, tends to bring in its wake a rather ahistorical
+conception of art that leaves out social factors and historical changes
+in the functions and forms of art. For Cassirer, these moments play al-
+most as little a role as for Kant, and therefore, their absence opens his
+theory to the same charges that had been leveled against his precursor.
+    From this Kantian perspective, Cassirer also reads Plato’s theory
+of artistic mimesis, thus bringing up one of the most discussed top-
+ics in twentieth-century aesthetics. In his essay “Eidos und Eidolon,”
+Cassirer aims to revise the traditional reading of Plato’s purported de-
+valuation of the empirical world. Not only does the late Plato admit
+in his dialogue Timaeus that the world as the creation of a demiurg
+is an empirical manifestation of truth; beauty, characterized by pro-
+portion and right measure, also plays an essential role in this world
+because it mediates between art and truth. Hence, Plato’s aesthetic
+thought is much more ambivalent than hitherto admitted and cannot
+be reduced to a paradigmatic criticism of mimesis understood in a
+naturalistic sense. Cassirer argues that Plato had not understood art
+to be a mere mirroring of nature, or at least he had not exclusively
+understood it this way. Therefore, Cassirer can ﬁnd his own position
+anticipated in Plato: “Art is not a mere repetition of nature and life; it
+is a sort of transformation and transubstantiation. This transubstanti-
+ation is brought about by the power of aesthetic form.”8
+    Interestingly enough, Cassirer again shies away from a concrete
+analysis of the transformative moment of art and resorts to religious
+language by using the metaphor of the Eucharist. While there is lit-
+tle reason to deny a connection of the religious and the aesthetic
+discourses, the metaphorical use of religious language cannot cover up
+Cassirer’s main difﬁculty, namely, to reconnect the autonomous sphere
+of art back to man’s other symbolic expressions. In fact, repeatedly,
+Cassirer ﬁnds himself arguing against the suspicion that the autonomy
+
+[p. 158] [PDF page 178]
+
+158                  Part III. Renewing the Paradigms
+
+of art is identical to the position of l’art pour l’art that he rejects. In
+order to escape this association, he must demonstrate that some con-
+nection exists between the forms of art and the reality of everyday life.
+He does so by postulating art as a double reality of both autonomous
+forms and representation of reality: “Art is not a display and an enjoy-
+ment of empty forms. What we intuit in the medium of art and artistic
+forms is a double reality, the reality of nature and of human life. And
+every great work of art gives us a new approach to and a new interpreta-
+tion of nature and life.”9 In the end, however, Cassirer merely gestures
+in the direction of a connection between reality and art, life and form.
+Yet his aesthetics ultimately fails to assign a place to the historical and
+social in connection with art. These, however, are the questions that
+Georg Lukács becomes most interested in when he leaves his early
+Kantianism behind, driven by the question of art’s possibilities to help
+meliorate social reality.
+    The other question that emerges from the interconnection of art
+and reality is that of the truth of art. Cassirer claims that “art gives us a
+new kind of truth – a truth not of empirical things but of pure forms.”10
+With this statement he echoes a fundamental position of the neo-
+Kantian theoretician of art and private collector Konrad Fiedler (1841–
+1895), whose theory of aesthetic vision as an enrichment of quotidian
+viewing patterns also inﬂuenced the young Lukács, Vasily Kandinsky,
+Paul Klee, and other aestheticians and artists. But unless Cassirer wants
+to resort to a Platonic understanding of pure forms and thus undercut
+his own position, he needs to supply an explanation of how the truth of
+pure forms relates to the truth of things. Yet on this issue Cassirer falls
+silent. Still, the question of the truth value of art is another constant
+element of the aesthetic discourse of the twentieth century. Even more
+than Lukács, however, it concerns Heidegger and Adorno.
+    Neo-Kantian aesthetics are thus challenged by Lukács from a so-
+ciohistorical position that takes up many of the charges that Schiller
+had leveled against Kant. The other challenge comes from Heidegger
+who, much like Schelling, insists on art as an organon of truth.
+
+
+                 Neo-Marxism as neo-Schillerianism?
+The history of aesthetics knows no neo-Schillerianism proper. Yet there
+are sufﬁcient similarities in neo-Marxist aesthetic positions to suggest a
+
+[p. 159] [PDF page 179]
+
+Cassirer, Lukács                        159
+
+historical parallel. Obviously, important differences exist as well, and
+to overlook them or gloss over them would mean to distort philo-
+sophical history. Schiller, despite his turn toward the realities of social
+and political history, stands ﬁrmly on idealist philosophical ground.
+Neo-Marxism, on the other hand, notwithstanding its more complex
+discussions of the base–superstructure relationship, regards dialectical
+and historical materialism as the historical successor of idealism. From
+this perspective, Schiller is frequently considered a mere intermediate
+step, albeit an important one, from the subjective idealism of Kant
+to the objective idealism of Hegel – and from there to Marx, Engels,
+and oftentimes Lenin (and in some cases, certainly in those of Ernst
+Bloch and Georg Lukács, also Stalin). While Schiller made it explicit
+that his notion of aesthetic education is meant to take place in lieu
+of revolution, the neo-Marxist aestheticians want both: art and revolu-
+tion. Therefore, Lukács credits Schiller for being the ﬁrst to attempt
+to discover the dialectics of history and aesthetics, yet still faults him
+for ending up in the apologetic camp of bourgeois culture due to his
+decrying of revolutionary activity.11
+   Likewise, Schiller’s conclusion that art always remains separated
+from reality and that man’s reconciliation with himself only happens
+in the aesthetic sphere has been interpreted differently. While in this
+case the moderate and bourgeois interpreters were the ones to charge
+Schiller with quietism and aestheticism, Marxist thinkers took him to
+state that art always remains unreconciled with reality and, hence, har-
+bors the potential both to negate the existing reality and to advocate a
+better one. Still, there are more similarities to be found. Despite dif-
+ferent suggested solutions, both Schiller and Lukács are concerned
+with a similar problem, namely, how to reconcile the autonomy of
+art with its practical role in the the process of social melioration. In
+other words, both wonder how art can facilitate the establishment of
+a utopian republic of free men without being reduced to a mere tool
+for political purposes.
+   Schiller’s new paradigm in aesthetics, the combination of formal
+and historical moments (i.e., of a theory of human drives and one of
+aesthetic education), also provides the basis of Lukács’s neo-Marxist
+aesthetics. With Schiller, Lukács shares the humanist ideal of man as
+free, unalienated, and completely developed.12 Art, then, is seen by
+both as the reservoir of the vision of uncorrupted and unalienated
+
+[p. 160] [PDF page 180]
+
+160                  Part III. Renewing the Paradigms
+
+humanity, and it is hailed for its potential to tap into the anthropolog-
+ical substance and to serve as a reminder that man has not yet reached
+his telos.13 These similarities will become more evident after the dis-
+cussion of Lukács’s aesthetic theory; for the moment, it shall sufﬁce
+to point out the historical pattern according to which a Schillerian
+paradigm is taken up in response to neo-Kantian aesthetics. Before
+we turn to the Marxist writings of Lukács, however, we shall brieﬂy
+examine his development as a philosopher from neo-Kantianism to a
+historical and materialist dialectics.
+   Georg Lukács (1885–1971) wrote a large number of articles and
+books dealing with aesthetics in general. Starting with his earliest
+works, art, especially literature, stood at the center of his interest. In
+1908 he published a history of modern drama, thought by some to
+be his best book ever, followed in 1911 by the collection of essays Die
+Seele und die Formen (Soul and forms) that appeared ﬁrst in Hungarian
+and was soon after translated into German, the principle language of
+his writings, by Lukács himself. During the years 1912 to 1914, Lukács
+wrote down his ﬁrst attempt at a systematic aesthetics, the Philosophie der
+Kunst (Philosophy of art), which was never ﬁnished and also not pub-
+lished until very late in the author’s life. This was followed in 1916–18
+by the so-called Heidelberger Ästhetik, equally unﬁnished and long un-
+published. Then came the still much-read Theorie des Romans (Theory
+of the novel, 1916–20); Es geht um den Realismus (Realism is at stake,
+1936); Beiträge zur Geschichte der Ästhetik (Contributions to the history of
+aesthetics, 1954); Kunst und objektive Wahrheit (Art and objective truth,
+1954); Über die Besonderheit als Kategorie des Ästhetischen (On typicality
+as a category of aesthetics, 1957); Wider den missverstandenen Realis-
+mus (Against misunderstood realism, 1958); and the voluminous Die
+Eigenart des Ästhetischen (The quality of the aesthetic, 1963), the ﬁrst
+of three conceived parts of what was meant to be Lukács’s ﬁnal and
+systematic word on aesthetics. This list is only a selection and excludes
+a fair number of books primarily on the subject of literature.14
+   The work of the early Lukács, that is, the books and articles be-
+fore his conversion to communism in 1918 that led to his becoming a
+member in the Communist Party of Hungry in the same year, share the
+attitude of what Lukács himself later critically called “romantic anticap-
+italism.” The essays of Soul and Forms and the chapters of the Heidelberg
+Aesthetics display inﬂuences from several thinkers, either teachers of
+
+[p. 161] [PDF page 181]
+
+Cassirer, Lukács                         161
+
+the young Lukács or historical ideals. To the latter group belongs
+Kierkegaard, whom Lukács rediscovers for the twentieth century even
+before Heidegger, and with whom he shares the repulsion for the com-
+mercialized bourgeois life and the consequent search for an authentic
+existence. Max Weber, on the other hand, was a personal friend with
+whose diagnosis of the modern world as disenchanted Lukács agrees.
+Then there was Georg Simmel, also a teacher of Lukács, whose opposi-
+tion of life as something heterogenous, unorderly, and almost anarchic
+and form as homogeneity and law was to inform the basic opposition
+of Soul and Forms.15
+    Just like Schiller, Lukács begins his aesthetic considerations with
+a diagnosis of contemporary culture at large. Better than in the es-
+says of Soul and Form itself, this position is worked out in his arti-
+cle “Ästhetische Kultur” (Aesthetic culture) of 1912. In keeping with
+the vitalist convictions of his time, Lukács deﬁnes culture as “unity of
+life; force of the unity that enhances life, enriches life.”16 Yet in the
+present age, this culture has only managed to produce the type of
+the expert who administers life without even thinking about its con-
+tents and the aesthete who withdraws into himself – a distinction that
+goes back to Max Weber and that in one form or the other becomes
+a staple in the critique of the process of the modernization of soci-
+ety, from Adorno and Horkheimer to MacIntyre’s After Virtue. Lukács
+echoes Kierkegaard when he claims that aesthetic culture is based on
+mood, that is, the arbitrary and nonrational relation between subject
+and object, and that hence, nothing can transcend the moment: The
+individual remains locked in his solitary moods. To reduce all objects
+to mere incitements for moods, however, prevents all true life of the
+soul. Both the soul and art must presuppose the independence of the
+object that resists the effort to turn it into a mood maker and forces
+a struggle upon the subject. Both the form of the soul and the form
+of great art then result from this struggle with the object, and only
+this self-formation, coupled with true artistic form, will allow for the
+overcoming of isolation. Contemporary culture, however, has not only
+produced alienated man but also reduced art, one of the few means of
+rescue, to trivial entertainment. Still, Lukács is not willing to give up
+on his ideal of unalienated, fraternal life, even if he considers present
+culture as unable to provide a home for the meaningful art of the past.
+Yet there is a glimmer of hope that precisely this past art will prove to be
+
+[p. 162] [PDF page 182]
+
+162                  Part III. Renewing the Paradigms
+
+the storage for those forces that enable man to overcome his present
+alienation.17
+   While Lukács’s ﬁrst attempt at a systematic aesthetics aims to fuse
+vitalism with a Kantian aesthetic subjectivism, his Heidelberg Aesthetics of
+four years later has shed the vitalist elements and even takes a turn from
+Kant to Hegel. After leaving his Hegelian stage of Theory of the Novel
+behind, Lukács develops a Marxist aesthetics in the thirties and forties,
+primarily through his readings of nineteenth-century literary realism.
+Yet Hegel, more than any other idealist philosopher, nevertheless re-
+mains his constant point of reference in future ventures into aesthetics.
+
+
+                        The Quality of the Aesthetic
+Lukács’s numerous volumes on art are written mostly from a Marxist-
+Leninist perspective. Some of these are of greater clarity and percep-
+tiveness of the artistic object than the 1963 Aesthetics; others are still
+more dogmatic, including apologetic misjudgments of Stalin’s contri-
+butions to linguistics and, by extension, to aesthetics that border on
+the ridiculous.18 The late aesthetics itself is lengthy and repetitious19
+and, moreover, fails to offer the systematic coherence at which it is
+aimed.20 Instead of a uniﬁed whole, we are confronted with loosely
+connected detailed discussions of central categories of Lukács’s aes-
+thetic theory, many of which had been developed more than thirty
+years before. Other central concepts had already made their appear-
+ance in the Heidelberg Aesthetics, yet of course had to be reinterpreted
+in a Marxist light. Still, the reason to turn to the 1963 Aesthetics is
+that the volume presents something of a summa, a last and ﬁnal word
+on the matter of aesthetics that had been central to Lukács’s thought
+throughout his life and political activity.
+   The 1963 Aesthetics, despite its length of roughly two thousand pages,
+remains unﬁnished. It presents only the ﬁrst of three intended parts.
+The conceived but never-written sections were meant to deal with
+the structure of the work of art (Part 2) and the social history of art
+(Part 3).21 Part 1, then, titled Die Eigenart des Ästhetischen (The quality
+of the aesthetic), examines art as a genuine form of the representation
+of reality.
+   Before we begin to discuss Lukács’s work, a brief recapitulation of
+the basic theses of orthodox Marxist aesthetics, to which Lukács more
+
+[p. 163] [PDF page 183]
+
+Cassirer, Lukács                             163
+
+or less subscribes, will help to provide a context for the discussion. A
+brief yet precise summary of this position can be found in Marcuse’s
+The Aesthetic Dimension:
+
+  1. There is a deﬁnite connection between art and the material base, be-
+     tween art and the totality of the relations of production. With the change
+     in production relations, art itself is transformed as part of the superstruc-
+     ture, although, like other ideologies, it can lag behind or anticipate social
+     changes.
+  2. There is a deﬁnite connection between art and social class. The only
+     authentic, true, progressive art is the art of an ascending class. It ex-
+     presses the consciousness of this class.
+  3. Consequently, the political and the aesthetic, the revolutionary content
+     and the artistic quality tend to coincide.
+  4. The writer has an obligation to articulate and express the interests and
+     needs of the ascending class. (In capitalism, this would be the prole-
+     tariat.)
+  5. A declining class or its representatives are unable to produce anything
+     but “decadent” art.
+  6. Realism (in various senses) is considered as the art form which cor-
+     responds most adequately to the social relationships, and thus is the
+     “correct” art form.22
+
+   Lukács’s central concern is to develop a theory of art as mimesis.23
+His ﬁrst task in this endeavor is to delineate artistic mimesis against
+scientiﬁc mimesis, because both art and science deal with the same
+objective reality and both reﬂect this reality cognitively. Yet whereas
+science must cleanse all subjective moments from its study of the ob-
+ject, this does not hold true for art. Lukács calls scientiﬁc mimesis
+“desanthropomorphizing” and explains that in science “appearance
+and essence must be neatly separated,” while in art an “obvious sen-
+sual inseparability of appearance and essence” prevails (II, 174).24 Fur-
+thermore, this means that in science the universal must rule over the
+individual, yet in art, Lukács argues with Aristotle, “aesthetic mimesis
+presents humanity always in the form of individuals and of individual
+fates” (I, 155). Yet not every particular can stand in for the universal,
+as Lukács emphasizes in his discussion of the category of Besonderheit
+(typicality). While the particular remains an isolated individual, the
+typical represents a unity of individual and universal (III, 175). Art
+can, therefore, portray objective historical tendencies in the typical.
+
+[p. 164] [PDF page 184]
+
+164                  Part III. Renewing the Paradigms
+
+Neither can it achieve the generality of science nor must it remain tied
+to the mere likings, fancies, and preferences with which we respond
+to particulars. Only the typical fulﬁlls art’s social calling: “The mime-
+sis of society’s metabolism [Stoffwechsel ] with nature is the ﬁnal, truly
+ultimate object of aesthetic mimesis” (I, 144).
+    Mimesis must not be understood as a photocopy of reality, but for
+Lukács it is based on a selection of features of reality, as well as on a
+positive or negative evaluation of the objects it portrays. This attitude
+constitutes one of the principles of socialist realism in art and is gen-
+erally called Parteilichkeit (partisanship) (I, 155).25 Moreover, selection
+also refers to the fact that mimesis does not merely reproduce reality;
+it aims to improve upon it by presenting it as adequate to man through
+the elimination of reality’s alien and careless aspects. Art, therefore,
+is an autonomous reality that was selected, appraised, and formed.
+The difference between a mechanical copying and a realistic mimesis
+is all-important in art: The former is naturalistic and apologetic, the
+latter realistic and critical. Whereas naturalist art “fetishizes” the brute
+facts, realistic art is based on an analysis of their historical function.
+Naturalist art never penetrates the surface of reality and, hence, lacks
+a central requirement of all art, namely, the union of essence and ap-
+pearance. Only realism in art overcomes the particular and presents
+the typical. As we will see shortly, precisely this privileged access to
+reality that Lukács reserves for realist art poses a problem that under-
+mines the very foundation of his aesthetic theory. Before we discuss
+this point, we must examine the achievements that Lukács attributes
+to his conception of mimesis.
+    In the work of art, man beholds himself as the creator of an au-
+tonomous world, thus merging the experiences of self and world. Yet
+while man’s everyday experience thus far has always been one of alien-
+ation, that is, a situation in which the products of man’s labor are
+experienced by himself as something foreign, in the experience of art
+alienation is overcome. Art, in essence, is therefore a higher, more
+conscious form of labor. The product of labor in capitalist societies
+remains alienated from the laborer because he doesn’t control and
+comprehend the process of production, nor does he proﬁt from the
+surplus that his labor has added to the raw material. Art, on the other
+hand, allows the subject to undergo the necessary alienation with-
+out which no progress in self-awareness can be achieved, as Hegel
+
+[p. 165] [PDF page 185]
+
+Cassirer, Lukács                          165
+
+demonstrated in the Phenomenology of Spirit, as well as the sublation
+[Aufhebung] of the alienation.
+   The experience of art nevertheless does not remain isolated from
+everyday life. Instead, Lukács conceives of a dialectical relation of aes-
+thetic and quotidian experiences. The mimetic work of art incites
+both a cognitive and emotional change in the beholder, so that a
+hitherto unknown aspect of reality becomes cognizable. As we will
+see in Lukács’s discussion of the notion of catharsis, the aspect of art
+that changes patterns of everyday life also has an emotional side to it.
+Taking up a distinction that he had already developed in his Heidel-
+berg Aesthetics, Lukács describes the transformation that the recipient
+undergoes vis-à-vis a work of art as one from complete man [der ganze
+Mensch] to whole man [der Mensch ganz]. The artwork
+
+breaks into the life of the soul of the recipient, subjugates his ordinary way
+of looking at the world, forces a new “world” upon him, ﬁlls him with new
+or newly perceived contents, and precisely all this causes him to absorb this
+“world” with renewed, with rejuvenated sense organs and modes of cognition.
+The transformation of complete man into whole man gives rise to a factual and
+formal, actual and potential broadening and enriching of his psyche. (III, 10)
+
+   Yet in order for art to achieve these transformations in the beholder,
+it must be both a container of the past and a guide to the future.
+Man overcomes his alienation from humanity’s past in the work of art,
+just as he overcomes self-alienation. Art is the reservoir of mankind’s
+history, as Lukács echoes Schiller, but the artwork does not only con-
+tain the sociohistorical determinants of the time of its origin. Great
+art is also characterized by the “inseparability of its historical nature
+and its fulﬁllment of the aesthetic norm that holds for all mankind”
+(II, 34). Lukács, however, makes no attempt to deduce this transhis-
+torical aesthetic norm, and we can assume that he would be hard
+put to square this notion with a thoroughly materialist aesthetics. The
+corollary of the transhistorical moment in the artwork is his concept
+of an anthropological essence that responds to art and that we will
+encounter as an argument in Lukács’s attack on modernism. For the
+moment, sufﬁce it to say that Lukács insists on the fact that art’s vision
+of man as a fully developed human being is nothing transcendent but,
+rather, the necessary reﬂection of historical teleology, “the reﬂection
+of the true existence, of the true development of mankind” (III, 17).
+
+[p. 166] [PDF page 186]
+
+166                  Part III. Renewing the Paradigms
+
+    The way to achieve progress by means of art is precisely through
+art’s effects on everyday life that consist in a changed emotional and
+cognitive attitude. To analyze the process of such change, Lukács refers
+back to Aristotle’s theory of catharsis that he reads through the eyes of
+Lessing. Catharsis is not merely an emotional upheaval with which the
+spectator responds to the plight of the hero in tragedy but, rather, a
+uniﬁed response of the whole man to great works of art in general. For
+Lukács, a restriction of catharsis to the emotional level, as cleansing as
+it might be, carries the danger of isolating it from our ethos, the habit-
+ual behavior that governs most of our actions. In short, he fears that
+emotional cleansing could occur without any moral consequences.
+Against this conception of catharsis he pitches the one he ﬁnds preﬁg-
+ured in Lessing’s Hamburgische Dramaturgie, and repeatedly he quotes
+Lessing’s deﬁnition of catharsis as a “transformation of the passions
+into virtuous skills [tugendhafte Fertigkeiten].” To base the cathartic ef-
+fect solely on emotional responses means to degrade great art to
+the status of entertainment. But true catharsis presupposes an ethical
+renewal based on insight. Such a cathartic event is one “that forces the
+complete man of everyday life to a true conversion [Umkehr] by means
+of a rational upheaval” (III, 28). Thus, a cycle of cathartic aesthetic
+experiences and quotidian life exists, because the catharsis results in
+a change of interests in man that, in turn, leads to the seeking out
+of different – presumably worthier and more challenging – works of
+art: “So much is for sure, that man’s approaches to art are never of
+a disinterested nature. The entire ﬁeld of aesthetic reception is shot
+through completely with human interests” (III, 150). Without making
+it explicit, Lukács here takes up Schiller’s notion of aesthetic educa-
+tion. Man’s tastes and insights into reality change due to encounters
+with artworks.
+    Such aesthetic transformative power, however, Lukács grants only
+to works of art. While he admits that beauty exists in nature as well – yet
+without working out a theory of beauty – he argues against any relevant
+aesthetic experience that would originate in nature. In fact, for Lukács,
+the beauty of nature is not an aesthetic phenomenon at all, because it
+fails to rise to the level of typicality where it could present a unity of the
+particular and the universal. The beauty of nature never transcends
+the particular (III, 79). Much like the erotic experience of beauty,
+although without the desire that for Lukács generally accompanies
+the former, the encounter with natural beauty is merely pleasurable,
+
+[p. 167] [PDF page 187]
+
+Cassirer, Lukács                         167
+
+but it lacks all cognitive moments that in art are supplied by a notion
+of totality.
+    A similar argument is advanced when Lukács takes modernist art
+to task, as he does in the so-called expressionism debate and on nu-
+merous other occasions. This, however, is not the place to recapitu-
+late this debate in detail in which Lukács, together with such writers
+as Johannes R. Becher (later to become secretary of culture in the
+German Democratic Republic), argued against Bertolt Brecht, Walter
+Benjamin, and Ernst Bloch. Sufﬁce it to say that Lukács charged the
+expressionist movement in art for having apologetic and decadent
+underpinnings. We must take note in this context that Lukács tends
+to collapse the terms modernism, decadence, and avant-garde into
+each other and uses these terms more or less synonymously to refer to
+movements like naturalism, symbolism, and expressionism. From a his-
+torical point of view, this is hardly correct, since the one encompassing
+notion is modernism, under which rubric decadence, symbolism, nat-
+uralism, expressionism, and so forth are grouped. However, those writ-
+ers that Lukács hails as the true avant-garde, such as Thomas Mann and
+Maxim Gorki, are also part of the modernist movement in literature.
+    Yet more important than this quarrel about classiﬁcations in literary
+history is the fact that Lukács attempts to redeﬁne the meaning of both
+realism and avant-garde. For him, realism is neither a literary style nor
+a period (like the second half of the nineteenth century) but an artistic
+practice that shows the “objective social totality,” whereas modernist
+literature “takes reality to be as it appears immediately to the writer.”26
+If realism presents an objective view of reality as a totality, modernist
+forms of art necessarily remain tied to the particular perspectives of
+the artists. Yet to turn away from art’s responsibility for presenting an
+image of totality means nothing less than to fall into decadence. The
+particular never reaches the typical and is far from all universality that
+is meant to appear in it. Hence, all that modernist writers like Proust,
+Kafka, Beckett, or Joyce, to name but a few, can achieve is to present
+an aesthetically interesting form without granting any insight into the
+objective forces of history. Art, Lukács insists, must not only present the
+negative, fallen, and degenerate but also contain images of the worthy
+and noble, because against all social distortions these positive images
+tap into the anthropological substance of man where they are meant to
+keep awake the longing for an unalienated life.27 Consequently, only
+this type of literature deserves to be called avant-garde.
+
+[p. 168] [PDF page 188]
+
+168                 Part III. Renewing the Paradigms
+
+   This dismissal of almost all modernist art as merely decadent and
+devoid of true insight can certainly not hold up to scrutiny. One of
+the most convincing criticisms of Lukács’s notion of realism was put
+forward by Adorno in his essay “Erpresste Versöhnung” (Reconcilia-
+tion under duress). Therein, Adorno demonstrates convincingly that
+Lukács’s understanding of modernist literature is limited, misguided,
+and often self-contradictory. And while it is true that Lukács values
+content over form, he does not, as his ontology of art shows, remain
+blind toward the formal aspect of aesthetic creation. Hence, Adorno
+is wrong to make the general claim that Lukács “refuses to acknowl-
+edge the central relevance of literary technique.”28 But he is all the
+more right to argue that Lukács’s advocacy of socialist realism in lit-
+erature amounts to a defense of oftentimes mediocre writing (the re-
+peated applauding of Makarenko in the Aesthetics is just one such case)
+and to an equally distasteful apology for the Soviet Republic. Socialism
+has not achieved social reconciliation, yet to expect its literature to say
+so is indeed to propose and defend a reconciliation under duress.
+
+Lukács’s ontology of art, from his early essays to the 1963 Aesthetics,
+concentrates on the question of form. Without being able to trace the
+development of this idea, discussed in the Aesthetics under the head-
+ings of rhythm, geometry, proportion, and ornament, at least the main
+criterion for artistic form must be pointed out. The form of the work of
+art unites artist and recipient because form is composition that guides
+the reception. In aesthetic encounters, we are not free vis-à-vis the ob-
+ject, but we are led along a path that the artwork has mapped out for
+us. We can fail to understand this formal law of reception, yet such
+failure means not to comprehend the work in question at all. Guiding
+composition is an objective fact, not a suggestion. Hence, the recipi-
+ent must give himself over to the “ordering, systematizing force of the
+work” (II, 216). It follows that there is only one truly adequate response
+to the work of art, namely, that which comprehends the objective form
+of the work in the process of its reception. While the ideal of perfect
+comprehension might have to remain an approximation, its postula-
+tion nevertheless entails that Lukács give up on Kant’s aesthetic idea.
+For Lukács, it is not an essential element of the artwork that it can
+never be reached by an adequate description or interpretation and
+that it always invites an inﬁnite number of such attempts. For him, art
+can basically be fully cognized, since its form is an objective moment
+
+[p. 169] [PDF page 189]
+
+Cassirer, Lukács                         169
+
+of the work. As will become apparent, this position gets dangerously
+close to making art superﬂuous, a mere detour through the senses and
+the effects of beauty to a goal that could perceivably also be reached
+on the straight road of theory.
+   In his discussion of the epistemological function of the work of art,
+Lukács states that the realist artwork presents the essence of reality to
+the recipient. Realist art, unlike naturalist creations, cuts through the
+surface of reality and lays bare the organizing principles of the histori-
+cal situation of the work of art, that is, the distribution of the means of
+production, society’s more or less advanced stage of interchange with
+nature, and so on. Yet a problem emerges out of such conception of
+mimesis:29 If we want to distinguish good realist from bad naturalist art,
+we must presuppose another cognitive instance that can distinguish
+the correct representation of the essence of reality from the incorrect
+representations. For Lukács, this ability results from the application
+of Marxist-Leninist theory, especially its moment of historical materi-
+alism. But if such a theory is capable of uncovering the historical and
+present truths of reality, what function other than the illustration of
+a theoretically gained insight could art possibly have? Lukács’s theory
+knows of a privileged access to reality, yet this access is not artistic but
+theoretical. He seems forced to think of art either as an ornamental
+repetition of that truth that materialist theory had already provided
+or as secularized biblia pauperum (a bible for the spiritually poor) for
+those not educated enough to grasp the objective historical truth with-
+out visual aids. Neither position seems to do justice to the complexi-
+ties of art, to which Lukács’s lifelong fascination with this subject also
+attests.
+   In order to avoid such reductive tendencies in the theory of art, both
+Heidegger and Adorno resort to a Schellingian conception that at-
+tributes a truth value to art that cannot be had philosophically. Art
+again becomes the only “organon of truth,” unrivaled by any theory
+that claims privileged access to reality. These positions and the prob-
+lems that emerge from them will concern us in the next chapters.
+
+
+                            Herbert Marcuse
+In some respects, Herbert Marcuse (1898–1979) is even closer to
+Schiller than is Lukács. Yet unlike the latter, he never aimed at a sys-
+tematic aesthetic theory, although aesthetic thought is very much at
+
+[p. 170] [PDF page 190]
+
+170                 Part III. Renewing the Paradigms
+
+the center of his philosophical endeavors. More a philosophical es-
+sayist like Montaigne or Pascal, he sketches his ideas lightly, and the
+precise relation between individual elements of these thoughts on aes-
+thetics is not always clear. Yet like Schiller, Marcuse basically struggles
+all his life to merge a theory of drives – in his case, not taken from
+Fichte but from Freud – and a classical notion of the work of art. And
+much like Schiller, Marcuse also ﬁnds that these two moments don’t
+square easily, so at different stages of his development, one tends to
+take precedence over the other. Another way of describing the two
+meanings of “aesthetics” in Marcuse is as a new sensibility or a new
+libidinal reality principle, on the one hand, and the idealist concep-
+tion of the artwork as a totality, on the other. Neither notion ever wins
+the upper hand for long, so that commentators who focus on only
+one aspect generally end up with a distorted picture.30 To rephrase
+aesthetics as a concept of sensibility is yet another attempt to go back
+beyond Kant to Baumgarten. But for Marcuse, this aesthetic sensibility
+has less a cognitive than a libidinal function, dreaming up “images of
+a life without fear”31 and of a nonrepressive society.
+    Earlier stages of Marcuse’s aesthetic thought stress the sensitive as-
+pect of aesthetics more, but they give way to an emphasis on the artwork
+in later writings. Marcuse goes through a brief phase during which he
+dismisses all traditional art as afﬁrmative of a repressive society and
+as a false reconciliation in the realm of illusion. Art is seen in opposi-
+tion to life and is faulted for the political passivity it produces in the
+individual: “But the achievement [of art] is illusory, false, ﬁctitious:
+it remains within the dimension of art, a work of art; in reality, fear
+and frustration go on unabated (as they do, after the brief katharsis, in
+the psyche).”32 During Marcuse’s most intensive involvement with the
+student rebellion of the late 1960s and its attempts to develop forms
+of antiart as a continuation of the avant-garde call from the beginning
+of the century to merge art and life, he no longer believed that the
+artwork was a negotiation between pleasure principle and reality prin-
+ciple, as Freud had described it. Instead, he argued that the traditional
+artwork had been entirely co-opted by a falsely permissive society and,
+hence, had to be replaced by artistic acts capable of liberating the last
+reserves of libidinal energy capable of resisting the present society:
+“The disorderly, uncivil, farcical, artistic desublimation of culture con-
+stitutes an essential element of radical politics: of the subverting forces
+
+[p. 171] [PDF page 191]
+
+Cassirer, Lukács                        171
+
+in transition.”33 But a few years later, Marcuse has already returned to
+a notion of the work of art as the actual site of the aesthetic, claim-
+ing that radical antiart must fail, because by trying to bridge the gap
+to reality it loses its power to negate precisely this reality.34 Yet it is
+the negative moment of art that makes it an indispensable tool in the
+struggle for political liberation.
+    Marcuse claims that the advanced capitalist society has managed
+to ban the authoritative father ﬁgure and has instituted a regime of
+false permissiveness and “repressive tolerance.” Where everything is
+allowed, but nothing matters and makes a difference, art is the last
+resort of the negative that is directed against the status quo: “In this
+sense, every authentic work of art would be revolutionary, i.e., subver-
+sive of perception and understanding, an indictment of the established
+reality, the appearance of the image of liberation.”35 These negating
+moments of art Marcuse also locates in works and periods of art that
+are labeled “decadent” by the aesthetics of socialist realism. Marcuse
+praises such works as Baudelaire’s Les Fleur du Mal, with their celebra-
+tion of evil as value-neutral aesthetic achievements, not for their own
+sake but because these poems liberate energies that can be directed
+against the present reality. In opposition to Lukács, for whom such
+literature was the ﬁnal artistic expression of a dying social class, Mar-
+cuse regards it as a reservoir of libidinal energies useful for purposes
+of rebellion.
+    After Marcuse faces up to the failure of antiart as a political tool,
+he again locates the potential for change in the classical artwork: “Art
+cannot change the world, but it can contribute to changing the con-
+sciousness and drives of the men and women who could change the
+world.”36 Whereas Schiller, Fichte, and Freud all argue for a transhis-
+torical nature of man’s drives, Marcuse here develops the notion that
+art can inﬂuence the instinctual or libidinal makeup of a person. This
+idea still allows him to consider aesthetics as a matter both of sensi-
+bility and of art. Yet as far as art is concerned, Marcuse has reached
+the conclusion that only “great art” will serve as a means to achieve
+these changes. Much like Lukács, Marcuse thus ends up with a notion
+of a “transhistorical substance of art.”37 Against Lukács, however, he
+insists that art can never expose the basic socioeconomic structure and
+dynamic of a society, because only a scientiﬁc analysis can fulﬁll this
+task. Like Adorno, Marcuse holds that the traditional work of art with
+
+[p. 172] [PDF page 192]
+
+172                 Part III. Renewing the Paradigms
+
+its emphasis on beauty contains energies of resistance: “The Beautiful
+belongs to the imagery of liberation.”38 But even after liberation from
+repression has been achieved, art will not disappear for Marcuse, be-
+cause “socialism does not and cannot liberate Eros from Thanatos.”39
+In other words, art remains unreconciled with all reality, even that of
+a utopia, because no reality, no matter how free from fear and how
+unrepressed, can overcome death. Only in art can Eros triumph over
+Thanatos. So it is death that assures the immortality of art and teaches
+us that in art “beauty returns, the ‘soul’ returns.”40 Such language re-
+minds us of the young Lukács, who could have used this phrase in one
+of the essays of Soul and Form. While Lukács himself felt compelled to
+revoke his early writings, obviously other Marxist thinkers found useful
+notions in them.
+
+Taking into consideration only the dates of the publication of cen-
+tral works in the twentieth-century German aesthetic tradition, one
+might conclude that hardly any progression from one philosophical
+position to another is made. Instead, it might seem as if a more or
+less random simultaneity of revivals or paradigms governs aesthetics
+after Nietzsche and the positivists. Cassirer’s neo-Kantian Essay on Man
+appears in 1944; Heidegger’s renewal of Schelling in 1936; Adorno’s
+appropriation of Schelling in 1970; Lukács’s Schillerian Aesthetics in
+1963; Marcuse’s essays on art around the same time. Kant would be
+preceded by Schelling, who in turn would be followed by Schiller.
+Still, these dates suggest a chronological disorder that is deceptive. If
+we take into account when the thoughts contained in the published
+works were ﬁrst developed by their authors, a more well-structured nar-
+rative emerges. Cassirer developed his neo-Kantian aesthetics in the
+1920s, while Lukács only returned to questions of art and the Schil-
+lerian social aspects of it in the early 1930s. Next came Heidegger’s
+neoromantic position, followed by Adorno’s rereading of Schelling.
+Hence, despite some overlaps, repetitions – Marcuse is a point in ques-
+tion – and minor irregularities, the aesthetics of the twentieth century
+remains strikingly close to the order of paradigmatic positions as they
+were developed by Kant, Schiller, Schelling, and Hegel. From the res-
+urrection of the Kantian and Schillerian paradigms, we must now turn
+to the ﬁrst attempt to establish a new version of Schelling’s aesthetics.
+
+
+=== Notes to Chapter 8 ===
+
+[p. 234] [PDF page 254]
+
+Chapter 8. Cassirer, Lukács
+
+ 1    An Essay on Man: An Introduction to a Philosophy of Human Culture (New
+      Haven, Conn.: Yale University Press, 1944), pp. 147, 168.
+
+[p. 235] [PDF page 255]
+
+2    See also Emery E. George’s essay “Ernst Cassirer and Neo-Kantian
+     Aesthetics: A Holistic Approach to the Problems of Language and Art,”
+     in R. W. Bailey, L. Matejka, and P. Steiner, eds., The Sign: Semiotics around
+     the World (Ann Arbor: Michigan Slavic Publications, 1978), pp. 132–45.
+3    E. Cassirer, “Language and Art II,” in Symbol, Myth, and Culture: Essays and
+     Lectures 1935–1945 (New Haven, Conn.: Yale University Press, 1979), pp.
+     166–95. Quotation is on p. 195.
+4    An Essay on Man, p. 148.
+5    Ibid., pp. 144–5.
+6    For an account that positions Cassirer much closer to the constructionist
+     and aesthetic camp of language philosophy, see Hazard Adams’s article
+     “Thinking Cassirer,” in Criticism 25, no. 3 (1983): 181–95.
+7    An Essay on Man, p. 148. Also of interest in regard to this question is
+     Cassirer’s 1943 lecture “The Educational Value of Art,” in Symbol, Myth,
+     and Culture: Essays and Lectures 1935–1945, pp. 196–215.
+8    “The Educational Value of Art,” p. 211.
+9    “Language and Art I,” Symbol, Myth, and Culture: Essays and Lectures 1935–
+     1945, pp. 145–65. Quotation is on p. 157.
+10   An Essay on Man, p. 164.
+11   “Zur Ästhetik Schillers,” Beiträge zur Geschichte der Ästhetik (Berlin: Aufbau,
+     1956), pp. 96 and 16, respectively.
+12   “Zur Ästhetik Schillers,” p. 77.
+13   See Sebastian Kleinschmidt’s thoughtful article “Georg Lukács und
+     die Wertabstufungen in der Kunst,” Sinn und Form 1(1985): 638–54.
+     Reference is on p. 651. Obviously, here and elsewhere Lukács harks
+     back to Aristotelian concepts, as can be easily seen with respect to
+     his discussions of mimesis and catharsis. Yet a thorough discussion of
+     Aristotelianism in Lukács is still lacking. Pierre van Rutten’s article
+     “L’aristotelisme dans l’esthétique de Lukács” (Georg Lukács et la théorie
+     littéraire contemporaine [Montreal: Association des professeurs de français
+     des universités et collèges canadiens, 1983], pp. 99–114) points out a
+     number of references to Aristotle throughout the writings of Lukács, but
+     abstains from a philosophical discussion. Moreover, van Rutten seems
+     to lack a thorough understanding of Aristotle as when he writes on
+     p. 106: “Lukács reconnait qu’Aristote est très proche du positivisme
+     matérialiste.” Of course, everything depends on one’s understanding
+     of proximity, yet a full-blown material positivism can hardly be attributed
+     to the Stagirite.
+14   A good and brief summary of Lukács’s main writings on aesthetic real-
+     ism can be found in Stuart Sim’s Georg Lukács (Hertfordshire: Harvester
+     Wheatsheaf, 1994). Unfortunately, the aesthetic theory itself is left out
+     in this volume.
+
+[p. 236] [PDF page 256]
+
+15    The French structuralist Marxist Lucien Goldmann considered Soul
+      and Forms to be the result of a more curious mixture, namely, that of
+      phenomenological structuralism and tragic Kantianism. “The Aesthet-
+      ics of the Young Lukács,” New Hungarian Quarterly 47 (1972): 129–35.
+      Reference is on p. 129.
+16    In Frank Benseler and Werner Jung, eds., Lukács 1996: Jahrbuch der Inter-
+      nationalen Georg-Lukács-Gesellschaft (Bern: Peter Lang, 1997), pp. 13–26.
+      The text was originally written in Hungarian and appeared for the ﬁrst
+      time in German translation in this volume.
+17    While I agree with Dennis Crow’s assessment that the central contri-
+      bution of Soul and Forms lies in the criticism of nihilism and aesthetic
+      individualism, I disagree with his view that Lukács offers no vision of
+      transcendence of this culture and that life therefore has to remain stuck
+      in tragic and frustrated individualism. “Form and the Uniﬁcation of
+      Aesthetics and Ethics in Lukács’ Soul and Forms,” New German Critique
+      15 (1978): 159–77. Reference is on p. 176.
+18    For an example, see the article “Literatur und Kunst als Überbau,”
+      Beiträge zur Geschichte der Ästhetik, pp. 404–27.
+19    Rüdiger Bubner seems right in his judgments that the 1963 Aesthetics is
+      verbose and that it neither presents a substantially new concept of realism
+      nor formulates an established concept more convincingly. Yet it is still one
+      of the better places to study Lukács’s ideas in a larger context. “Hegel’s
+      Aesthetics: Yesterday and Today,” in Warren Steinkraus and Kenneth
+      Schmitz, eds., Art and Logic in Hegel’s Philosophy (Atlantic Highlands, N.J.:
+      Humanities Press and Sussex: Harvester Press, 1980), pp. 15–33.
+20    See Jürgen von Kempski’s article “Zur Ästhetik von Georg Lukács,” Neue
+      Rundschau (1965): 109–20; reference is on p. 118. For the opposite, yet
+      hardly convincing opinion, see Agnes Heller’s “Lukács’ Aesthetics,” New
+      Hungarian Quarterly 24 (1966): 84–94. Reference is on p. 93.
+21    While Lukács never wrote this third part of his aesthetic theory, his friend
+      Arnold Hauser in 1953 published the impressive Sozialgeschichte der Kunst
+      und Literatur (Social history of art and literature) (Munich: Beck, 1990)
+      that was much to Lukács’s liking.
+22    The Aesthetic Dimension: Toward a Critique of Marxist Aesthetics (Boston:
+      Beacon Press, 1978). The text appeared in German in 1977 as Die Per-
+      manenz der Kunst: Wider eine bestimmte Marxistische Ästhetik and was subse-
+      quently translated and revised by the author and his wife Erica Sherover.
+      Quotation is on p. 1 f.
+23    Therefore, the literary critic Fredric Jameson seems wrong when he
+      claims that “Lukács’ work may be seen as a continuous and lifelong
+      meditation on narrative.” (Marxism and Form, [Princeton, N.J.: Princeton
+      University Press, 1971] p. 163.) While the role of narrative ﬁgures large
+
+[p. 237] [PDF page 257]
+
+in Lukács’s studies, the more fundamental category is that of mimesis,
+     which ﬁnds its application not only in literature but also in music, paint-
+     ing, and so on.
+24   The 1963 Aesthetics is here quoted in the shortened version in four vol-
+     umes that Lukács asked his student Ferenc Fehér to prepare for publica-
+     tion. The Roman numeral refers to the volume, the Arabic numeral to
+     the page. Ästhetik I–IV (Darmstadt and Neuwied: Luchterhand, 1972).
+25   In more of a Marxist jargon, this thought is phrased in “Literatur und
+     Kunst als Überbau” on p. 419 as follows: “Every superstructure does not
+     only reﬂect reality, but takes an active stance for or against the old or the
+     new base, and when the superstructure gives up this active role it stops
+     being the superstructure. Applied to the theory of art this means that all
+     literature and art also are an activity, a vote [Stellungnahme] for or against
+     a base.”
+26   Georg Lukács, “Es geht um den Realismus,” in Werke, Vol. 4: Probleme
+     des Realismus I: Essays über Realismus (Neuwied and Berlin: Luchterhand,
+     1971), pp. 313–43. Quotations are on pp. 318, 21.
+27   Kleinschmidt, “Georg Lukács und die Wertabstufungen in der Kunst,”
+     pp. 650 f.
+28   “Erpresste Versöhnung,” in Gesammelte Schriften, Vol. 2: Noten zur Lite-
+     ratur (Frankfurt am Main: Suhrkamp, 1977), pp. 251–80. Quotation is
+     on p. 263.
+29   In this discussion I follow Rüdiger Bubner’s important article “Über
+     einige Bedingungen gegenwärtiger Ästhetik,” Neue Hefte für Philosophie
+     5 (1973): 38–73.
+30   The tendency in overemphasizing one moment usually favors the ﬁrst
+     over the second. Two examples are Fredric Jameson’s essay “Marcuse
+     and Schiller” in Marxism and Form and the chapter on Marcuse in
+     Heinz Paetzold’s Neomarxistische Ästhetik II: Adorno-Marcuse (Düsseldorf:
+     Pädagogischer Verlag Schwan, 1974).
+31   Herbert Marcuse, One-Dimensional Man: Studies in the Ideology of Advanced
+     Industrial Society (Boston: Beacon Press, 1966), pp. 238 f.
+32   An Essay on Liberation (Boston: Beacon Press, 1969), p. 44.
+33   Ibid., p. 48.
+34   Herbert Marcuse, Counterrevolution and Revolt (Boston: Beacon Press,
+     1972), p. 101.
+35   Herbert Marcuse, The Aesthetic Dimension, p. xi.
+36   Ibid., pp. 32 f.
+37   Ibid., p. xii.
+38   Ibid., p. 65.
+39   Ibid., p. 72.
+40   Counterrevolution and Revolt, p. 117.

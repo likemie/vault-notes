@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch10.md"
     },
     {
+      "basename": "Serialization",
+      "path": "wiki/concepts/political-economy-geopolitics/Serialization.md"
+    },
+    {
       "basename": "Argument_Anderson_2016_Verso_Ch11",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "template-fact-event",
       "path": "wiki/templates/template-fact-event.md"
-    },
-    {
-      "basename": "Printer-Journalist",
-      "path": "wiki/concepts/political-economy-geopolitics/Printer-Journalist.md"
     }
   ],
   "omittedPaths": [],

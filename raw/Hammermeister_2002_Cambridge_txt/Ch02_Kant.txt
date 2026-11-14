@@ -1,0 +1,1037 @@
+The German Aesthetic Tradition
+Kai Hammermeister | Cambridge University Press, 2002
+
+Chapter 2: Kant
+Print pages 21–41; PDF pages 41–61
+
+
+=== Chapter text ===
+
+[p. 21] [PDF page 41]
+
+2
+
+                                 Kant
+
+
+
+
+If the single most inﬂuential text in the history of philosophical aes-
+thetics were to be chosen, Immanuel Kant’s (1724–1804) Kritik der
+Urteilskraft (Critique of judgment) of 1790 might very well turn out
+to be the one that a majority of philosophers would point to. De-
+spite all the good reasons they can list for their justiﬁcation, the
+selection of the third Critique is peculiar, because in the history of
+philosophical aesthetics (that properly only begins with precisely
+this publication), Kant is probably the one thinker who attributes
+the least signiﬁcance to the work of art. And yet Kant must be re-
+garded as the philosopher who at the same time claimed an im-
+portance for the aesthetic judgment that is on a par with those of
+a cognitive and moral nature. Kant, however, does not understand
+an aesthetic judgment to refer exclusively to art. In fact, for him
+most aesthetic judgments are not about art, but nature. They are
+about beauty in natural objects, as well as about our experience of
+the sublime.
+    The Critique of Judgment was written not as a theory of art and beauty
+but as an exploration of that faculty that is meant to guarantee the
+unity of reason, as Kant explains in his introduction. After having
+written the ﬁrst two Critiques, he encountered the difﬁculty that the
+principles of pure reason and of practical reason are not identical
+and that, therefore, a gap had opened between theory and practice or
+freedom and nature. The third Critique is Kant’s attempt to bridge this
+rift through the advancement of judgment as a faculty that mediates
+
+                                   21
+
+[p. 22] [PDF page 42]
+
+22                        Part I. The Age of Paradigms
+
+between sensuality and cognition on the one hand and between sen-
+suality and moral action on the other.
+    Art nevertheless achieves a new dignity in this philosophy that stems
+from its independence. Art for Kant is seen neither as a faulty cognition
+nor as a handmaiden of any speciﬁc ethical teaching. These insights,
+however, can by no means be taken for granted. The philosophical
+tradition had been very skeptical about art’s capacity to contribute
+insights to the workings of our world or any transcendent realm. Plato
+had argued in the Republic (Book X) that art imitates objects that
+the artist ﬁnds in his surroundings, but these objects in themselves
+are already mimetic approximations to ideas, mere copies of a lost
+original. These ideas are eternal, without change, and as such they are
+preconditions for the existence of their material manifestations. Thus,
+a bed is an object that can only be produced by a craftsman because
+he knows about the idea of the bed; and yet the individual bed will not
+achieve the perfection of the idea after which it is modeled. A painted
+bed, moreover, does not even possess the usefulness of a real bed; it is a
+mere depiction that shares only a few characteristics with the real bed
+and even fewer with the bed-idea. Looking at a painted bed, therefore,
+can teach the viewer disappointingly little about those facts that matter
+most, namely, the ideas. Although Plato also accounts for the possibility
+that the artist, like the craftsman, does not imitate material objects but
+paints his pictures according to his vision of the idea1 (a notion that
+will become relevant for Schelling’s and Schopenhauer’s philosophy
+of art), the general tendency of Plato’s philosophy is to devalue art in its
+epistemic potential, that is, the possibility to ground any kind of insight.
+    This suspicious attitude toward art’s claim to knowledge per-
+sists more or less unbroken until the eighteenth century.2 Gotthold
+Ephraim Lessing (1729–1781), for example, states in the inﬂuential
+essay Laokoon oder über die Grenzen der Malerei und Poesie (Laokoon or on
+the limits of painting and poetry, 1766), faintly echoing the aesthetics
+of the Stoa:
+
+Truth is necessary for the soul; and it becomes tyranny to exert any force upon
+it in respect to this vital need. The ultimate end of the arts, however, is pleasure;
+and pleasure is dispensible.3
+
+   Even Baumgarten, as we have seen, cannot free himself entirely of
+this aspect of art theory insofar as he claims a potential for cognitive
+
+[p. 23] [PDF page 43]
+
+Kant                                  23
+
+insight for sensual and artistic perception, but this insight is still of a
+lower nature than that of reason. For Kant, who valued Baumgarten
+highly as a metaphysician but not at all as an aesthetician, the attempt
+to advance principles of reason for the critical judgment of beauty and
+to claim the status of science for such rules was hopelessly ﬂawed. Kant
+argues that art will always seem inferior when its potential for cognition
+is compared to that of reason. Therefore, the status of art can only be
+raised if the connection between art and cognition is severed: Both
+must inhabit realms independent of each other. This is the aim of the
+Critique of Judgment, namely, to establish our pronouncements on art
+and beauty not as an inferior version of our judgments on truth or
+morality, but as independent of both, albeit related to both and thus
+able to span their divergence.
+    Art, however, does pay a price for its new independence as well.
+Although Kant has a certain interest in showing that art still relates
+to morality, its relations to our faculties of cognition are much less
+important to him. To be sure, the aesthetic judgment is not and cannot
+be devoid of cognitive elements altogether, and yet Kant reduces them
+drastically by advancing the notion that art has basically no relation
+to truth.4 One of the ongoing projects of the aesthetic tradition ever
+since has been to challenge Kant in this respect and to demonstrate
+the epistemic relevance of works of art. This project, as we shall see,
+led to an overcompensation in several cases where exclusive or at least
+predominant truth-claims were conferred upon art.
+    There is another reason that Kant’s Critique of Judgment can be con-
+sidered a watershed in the history of aesthetics. It is precisely in this
+text that the term “aesthetics” comes to acquire the meaning we at-
+tribute to it today. The term traditionally referred to the theory of
+sensual perception, and Kant himself uses it with this understanding
+in the Critique of Pure Reason of 1781 in the section on “Transcendental
+Aesthetics,” in which he attempts to demonstrate the transcendental
+conditions of sensual experience. Less than a decade later, though, the
+term aesthetics has shifted its meaning for Kant, and now he employs
+it as a designation of his theory of taste, that is, an inquiry into beauty
+and art.
+    Despite this new junction of the term aesthetics with the artistic and
+beautiful, Kant’s exploration of these areas contains hardly any refer-
+ences to concrete works of art. St. Peter’s in Rome and the Egyptian
+
+[p. 24] [PDF page 44]
+
+24                      Part I. The Age of Paradigms
+
+pyramids are mentioned as sole examples of works of art, but only in
+passing and without any attempt at an analysis. Moreover, Kant does
+not cite them as examples of the beautiful, but in the context of his dis-
+cussion of sublimity. This almost complete absence of all references to
+speciﬁc works of art has led to the distinction between Kant’s aesthetics
+as formal and that of primarily Hegel as one of content, all the more
+so since the latter’s Lectures on Aesthetics are, under one perspective, a
+veritable world history of art.
+   The sense in which Kant uses the term “critique” must be distin-
+guished from that which the term came to acquire simultaneously in
+art criticism. Critique in the context of Kant’s philosophy refers to
+the attempt to investigate the requirements of the possibility of con-
+crete philosophical endeavors. Kant’s critical project in the Critique
+of Pure Reason begins with a doubt about the truth of all synthetic a
+priori sentences in order to then move to the demonstration of their
+possibility that is in accordance with the conditions of our reason. At
+the same time, however, the term critique also started to be used for
+the process of the qualitative evaluation of individual works of art. In
+this sense, it is employed in Herder’s Kritische Wälder (Critical forests,
+1769) and practised in Lessing’s Hamburgische Dramaturgie (1767–9).
+   Apart from the fact that it is not Kant’s interest to interpret in-
+dividual artistic achievements but, rather, to lay the foundations for
+our ability to judge something as beautiful or artistic, he also did not
+have a very intimate knowledge of the arts. In fact, Kant’s ﬁrsthand
+familiarity with works of art was limited at best. As has been pointed
+out correctly, Kant did not even take those examples of great art for
+his model that were available to him, like the Königsberg cathedral,
+but instead oriented himself toward wallpaper patterns, porcelain, pa-
+per cutouts, and the carved handles of walking sticks as prime artistic
+examples.5
+   The Critique of Judgment of 1790 was not Kant’s ﬁrst attempt to deal
+with the subject of art. In his so-called precritical period, that is, before
+the year 1770, Kant not only published on philosophy but also wrote
+treatises on the natural sciences and in other ﬁelds. His ﬁrst text on
+beauty is his booklet of 1764 Beobachtungen über das Gefühl des Schönen
+und Erhabenen (Observations about the sensation of the beautiful and
+sublime), which closely follows Edmund Burke’s publication of 1757
+Enquiry into the Origin of Our Ideal of the Sublime and Beautiful. Kant’s text,
+
+[p. 25] [PDF page 45]
+
+Kant                                25
+
+though, is more a study in anthropology and moral psychology than
+in aesthetics. But he does treat questions of beauty and art in other
+contexts, namely, in his lectures on logic and anthropology, as well as
+in a treatise written after the Critique of Judgment, the Anthropology of
+1798. And yet the most inﬂuential and original treatment of the newly
+founded philosophical discipline of aesthetics can certainly be found
+in the third Critique that we shall explore in some detail.6
+
+
+
+                   Beauty: The Judgment of Taste
+Pre-Kantian philosophers who dealt with questions of art and beauty
+had kept these two notions more or less strictly separated. Hand in
+hand with this separation went a decisive difference in valuation.
+Whereas beauty had always been at least respected, if not highly
+praised, art, on the other hand – including all the trades that were
+frowned upon because of the necessary physical labor – oftentimes
+achieved only a dubious status in the reﬂections of these philosophers.
+Plato, for example, placed the idea of beauty together with that of the
+good on the very top of his hierarchy of ideas. In his view, beauty, un-
+derstood as a harmonious totality, mirrors the state of the world and
+the cosmos as created by a demiurge (Timaeus). This ideal of the di-
+vinely created cosmos that radiates the beauty of its creator continues
+to determine aesthetic thought from Plotinus to Thomas Aquinus, but
+the thinkers who subscribe to this ideal generally have rather little to
+say about the value of art. Kant does not differ from the tradition in
+this respect all that much. He, too, separates beauty from art and treats
+both of them under different headings in his Critique of Judgment (CJ).
+In this division, beauty is the much wider category and contains all of
+the artistic products in addition to all the objects of beauty in nature.
+This emphasis on natural beauty was soon to disappear from the writ-
+ings on aesthetics – as we shall see shortly, Hegel deliberately excludes
+nature from his aesthetic reﬂections – and did not return to aesthetic
+investigations until the late twentieth century, most prominently with
+Adorno.
+   Kant distinguishes two types of beauty, a distinction that will turn
+out to be somewhat at odds with several of his valuations in the ﬁeld
+of beauty:
+
+[p. 26] [PDF page 46]
+
+26                      Part I. The Age of Paradigms
+
+There are two types of beauty: free beauty (pulchritudo vaga) or merely adher-
+ent beauty (pulrichtudo adherens). The ﬁrst does not presuppose any concept
+of what the object is meant to be; the second presupposes such concept and
+the perfection of the object according to it. The types of the former are called
+(independently existing) beauties of this or that object; the other, as adherent
+to a concept, is attributed to objects that are classed under the concept of a
+particular purpose. (CJ, §16)
+
+    As examples of free beauty Kant lists ﬂowers (the purpose of which
+only the botanist knows), “drawings à la grecque, vine patterns as
+framework or on wallpaper, . . . all music without text.” Its opposite
+category, namely adherent beauty, is purposive. Kant mentions the
+beauty of a horse, a building, and the human ﬁgure as examples; and
+the judgment regarding them depends as much on a sense of purpose
+as on a concept of perfection. Whereas the judgment of free beauty
+is pure, that of adherent beauty is an applied, impure judgment. In
+order to ﬁnd an architectural object or the body of man beautiful, we
+need to connect the object to a concept of its purpose in the world,
+its telos, and hence a sense of its usefulness. Yet “the connection of
+the good [in this case the purposive] with beauty does the purity of
+the latter harm” (CJ, §16). Kant, however, does not want to classify
+objects according to their type of beauty, but only judgments regarding
+these objects. He states that many arguments about beauty result from
+a confusion of the speakers regarding their point of view, so that the
+beauty of a ﬂower could be judged by a botanist as purposive while his
+interlocutor refers to it as an example of free beauty. The dispute can
+be solved on the level of argument about the object itself, but only
+through reﬂection on the type of discourse brought to bear on the
+object.
+    As fascinating as this self-reﬂexive aesthetic turn is, it does not solve
+all the problems that Kant’s distinction of pure and adherent beauty
+produces. While everything in this paragraph seems to indicate a su-
+periority of the pure aesthetic judgment, all the following discussions
+surprisingly rank adherent beauty as higher. A certain tension between
+these views, however, cannot be eliminated. Kant’s deﬁnition of beauty
+as purposiveness without purpose does align well with his notion of free
+beauty, yet in the paragraph following this discussion he argues that
+the highest form of beauty is the human body, that is, precisely an
+object that receives its beauty through its manifestation of a purpose.
+
+[p. 27] [PDF page 47]
+
+Kant                                  27
+
+The reverse effect takes place with music, the only form of art that
+Kant includes under the category of free beauty. Yet in his discussion
+of music in §54, Kant ranks music as the lowest of the arts, since “it
+only plays with sensations,” is “more pleasure than culture,” and is far-
+thest removed from understanding of all the arts. Furthermore, while
+the association of the good with the beautiful is presented in §16 as
+an infringement on pure beauty and, hence, as adverse to the pure
+aesthetic judgment, we will see that in §59 Kant goes to great lengths
+in order to establish precisely such a connection between the moral
+and the aesthetic judgment. Thus, we are left with the impression that
+the distinction between the two types of beauty is not integrated well
+into Kant’s exploration of the aesthetic.7
+   To be sure, not all that is beautiful has to be art for Kant, but all
+that is art has to be beautiful. Kant does not allow for the possibility of
+ugly art, although he concedes – following Aristotle’s pronouncement
+in his Poetics – that art can certainly portray ugly subjects in a beautiful
+manner:
+
+The Furies, diseases, devastions of war and the like can (as harmful events)
+be described beautifully, even be depicted in painting; only one type of
+ugliness cannot be represented according to nature without destroying all
+aesthetic pleasure and hence aesthetic beauty, namely that which causes dis-
+gust. (CJ, §48)
+
+   The part of the Critique of Judgment in which he analyzes beauty and
+our judgment of it, namely, the “Analytic of Aesthetic Judgment,” is
+probably the most tightly argued section of the third Critique, although
+there are still enough problematic and puzzling statements left. One
+of the aspects that might strike us as somewhat confusing is the fact
+that Kant presents his four deﬁnitions of the aesthetic judgment and
+thus of beauty in the form of four seemingly contradictory theses. To
+sort out these contradictions is one task of our explication. We should
+mention in passing that the fourfold structure of the aesthetic judg-
+ment is set up according to the criteria established for judgments in the
+Critique of Pure Reason (1781/1787), namely quality, quantity, relation,
+and modality. By applying these necessary moments of the analytic and
+synthetic judgments to the aesthetic judgment, Kant emphasizes the
+cognitive aspect of the latter. Although the aesthetic judgment cannot
+lay claim to the logical universality, it nevertheless invites, as we shall
+
+[p. 28] [PDF page 48]
+
+28                      Part I. The Age of Paradigms
+
+see, universal consent. In order to evaluate what is beautiful, Kant ar-
+gues, we need taste, which he deﬁnes as “the faculty of estimating the
+beautiful” (CJ, §1, footnote). Such an estimate must meet four criteria
+in order to be considered a judgment of taste, and that in turn means
+that beauty is deﬁned by those very same criteria.
+   The ﬁrst and possibly most surprising moment of the judgment of
+taste is that it does not refer to any qualities of the object, but merely to
+the feeling of pleasure or displeasure within the subject. The opening
+sentences of the Critique of Judgment are remarkable for their radicality,
+and they should still elicit a reaction of at least surprise from the reader:
+
+In order to discern whether something is beautiful or not, we do not submit
+its representation to (the faculty of) understanding for cognition, rather we
+relate it by means of the imagination (possibly connected to understanding) to
+the subject and its feeling of pleasure and displeasure. The judgment of taste
+is therefore no cognitive judgment, hence not logical, but aesthetic, meaning
+that whose determining ground can only be subjective. (CJ, §1)
+
+   Kant makes it perfectly clear that the aesthetic judgment shares pre-
+cious little common ground with the rational judgment, and that art
+therefore has no capacity to teach us anything. Beauty has no relation
+to insight and cognition.8
+   It is equally important for Kant to separate the aesthetic judgment
+not only from the rational judgment but also from two forms of plea-
+sure with which it could easily be confused. He distinguishes three
+kinds of pleasure of which the pleasure in beauty is one. The other
+two pleasures, though, differ in one very important aspect from this
+one, because they are interested in the existence of the object. The
+ﬁrst of these is the pleasure of the agreeable, which is purely subjective.
+This type of pleasure accounts for my preference of wine over beer or
+of soup over salad. As these examples demonstrate, my pleasure in
+the agreeable has a strong interest in its existence, because I have no
+intention of leaving the object intact; instead, I want to use it for the
+gratiﬁcation of my desires.
+   The same holds true for the pleasure we feel in encountering the
+good. This pleasure is precisely the opposite of the agreeable, not in
+that it is not subjective at all but in that it depends on a concept of the
+good, and that this concept must hold true, not only for myself but for
+everyone. The cognition of the good, however, brings in its wake the
+
+[p. 29] [PDF page 49]
+
+Kant                                  29
+
+interest in its existence, because we cannot think of something as good
+without wanting it to exist. The only kind of pleasure that does not take
+an interest in the existence of its object is therefore the aesthetic plea-
+sure – a concept that occurs for the ﬁrst time in the aesthetic writings
+of Hutcheson and Shaftesbury. Instead of inciting desire, the pleasure
+of beauty frees us from all such longings and strivings – a thought
+that will soon emerge at the center of Schopenhauer’s aesthetics. De-
+spite beauty’s power to “quicken” our faculties, it also calms us. It is at
+the same time profoundly moving and deeply satisfying, stirring, and
+quieting. This, as it were, becomes the starting point for Schiller’s re-
+ception of Kant. Kant, thus, gives the ﬁrst of his four deﬁnitions: “Taste
+is the faculty of judging an object or a mode of representation based
+on pleasure or aversion, yet without any interest. The object of such
+pleasure is called beautiful” (CJ, §5). An anticipation of this position
+can be found in the aesthetics of Karl Philipp Moritz (1756–1793),
+who writes in his earliest treatise on the subject in 1785, hence half a
+decade before the third Critique: “But what brings us pleasure without
+actually being useful we call beautiful. . . . I have to take pleasure in
+a beautiful object purely for its own sake; to this end the lack of an
+exterior purpose must be replaced by an inner purpose; the object
+must be something perfect in itself.”9
+    Whereas the pleasure of the agreeable is purely subjective, that of
+the beautiful is not, because it lays claim to a universal delight. On the
+other hand, the aesthetic judgment cannot claim that kind of univer-
+sality that is only possible for rational judgments. Therefore, aesthetic
+pleasure becomes deﬁned as subjective universality.10 This second con-
+tradiction can be explained and solved as follows:
+    True universality, Kant argues, can only be achieved by means of
+concepts, that is, something that is validated by its logical necessity and
+that cannot therefore be disputed without self-contradiction. Aesthetic
+judgments, however, are not of this kind. In order to see how they differ,
+we need to understand how we arrive at any kind of perceptual knowl-
+edge. For Kant, there are three faculties involved in the type of knowl-
+edge that depends on experience, the ﬁrst being sensibility (the passive
+reception of sensory stimuli), the second imagination (the ordering of
+the sensory manifold into a unity), and the third understanding (the
+provision of a concept under which to subsume the results of imagina-
+tion’s activity). It is the nature of the aesthetic judgment, though, never
+
+[p. 30] [PDF page 50]
+
+30                     Part I. The Age of Paradigms
+
+to move from step two, imagination, to step three, understanding. But
+since only understanding can provide concepts, and no universality
+can be reached without conceptualization, the aesthetic judgment has
+to resort to some other claim that allows it to transcend its subjectivity.11
+   Kant explains this universalizing claim of the aesthetic judgment
+by recourse to the commonality of the pleasure involved in it. Not to
+reach conceptualization does not mean to be a frustrated judgment
+but, rather, the opposite. The nature of the aesthetic pleasure can be
+found in the constant attempt to move from imagination to under-
+standing without ever arriving there. This free play of the faculties, as
+Kant calls it, produces a feeling of pleasure that results from a “quicken-
+ing of faculties.” No matter how many concepts understanding offers
+for that aesthetic unity that imagination passes on to it as a candi-
+date for conceptualization, no concept ever sufﬁces. Yet the attempts
+at ﬁnding an appropriate concept cannot be abandoned. Ever new
+conceptual suggestions have to be made. This process is, in principle,
+endless because it can never be brought to a satisfying conclusion. Aes-
+thetic pleasure, therefore, always renews itself. We don’t get tired of
+looking at a familiar painting or listening to the same symphony be-
+cause we do not come to terms with these sources of aesthetic pleasure
+by placing them under a concept to which we could then return for
+future reference.
+   This thought is expressed in a slightly different fashion in Kant’s
+notion of the aesthetic idea. Kant’s famous deﬁnition reads as follows:
+
+By an aesthetic idea I mean that representation of imagination that incites
+much thought, yet without any thought, i.e. concept ever being adequate to it
+and that can therefore not be reached and rendered comprehensible by any
+language. (CJ, §49)
+
+   Kant describes an aesthetic idea as that procedure by which we at-
+tempt to subsume the unity of the manifold under a concept, but fail
+to do so. In other words, it is never possible for us to say what a work
+of art is exactly about, although it appears to have advanced into a
+depth that could not have been reached by other means. We will have
+to continue to make attempts to express what this depth contains, but
+no single one can be satisfying and ﬁnal. We shall always have to re-
+turn to the beautiful object and puzzle over it again. What we ﬁnd in
+this formulation of the aesthetic idea is one of the ﬁrst attempts of
+
+[p. 31] [PDF page 51]
+
+Kant                                  31
+
+modern aesthetics to explain the ultimate uninterpretability of works
+of art especially.12 This idea can be found in many subsequent aes-
+thetics, especially in the romantic contributions, most prominently in
+Schelling, as well as in Heidegger and Adorno, although none of them
+share the subjectivist aesthetics of Kant. Ultimate uninterpretability
+after Kant becomes more a feature of the object than characteristic of
+the aesthetic pleasure that the subject feels.
+   It might also be, however, that Kant is less consistent when it comes
+to the aesthetic idea than it appears at ﬁrst sight. One critic has ar-
+gued that the third Critique does not only establish a new hermeneutic
+paradigm in aesthetics, namely, one that rests on the inﬁnite inter-
+pretability of the work of art, but also legitimizes a variety of aesthetic
+forms that resist this paradigm. Both music and nonsense literature are
+regarded as too far removed from conceptual cognition to be more
+than merely pleasurable for Kant, yet on the other hand, he argues
+that these anticognitive aesthetic pleasures are greatly beneﬁcial for
+man’s mental and physical well-being.13
+   It still needs to be explained why the aesthetic judgment can make
+any claim to universality, because the pleasure of the agreeable cer-
+tainly cannot. We have seen, however, that the agreeable is tied up
+with the interest of the subject in its existence, whereas the beautiful
+had been deﬁned as that which pleases without satisfying any concrete
+antecedent desire of the subject. Kant claims that I can expect every-
+one else to agree with my aesthetic judgment exactly because no purely
+personal like, dislike, or interest is at stake. When we encounter the
+beautiful, we should all experience the same pleasurable feeling of
+the free play of faculties. We have no arguments at hand actually to
+convince others that a given object is beautiful, but we can reasonably
+expect them to share our judgment nevertheless because as human be-
+ings with the same faculties as ours, they should experience the same
+stimulation of these faculties. Thus, Kant deﬁnes: “The beautiful is that
+which, without any concept, pleases universally” (CJ, §9).
+   Kant’s fourth deﬁnition of the aesthetic judgment resembles the
+second one very closely and elaborates on the argument from a
+different angle; therefore, it is less repetitious to treat it together
+with the second deﬁnition before we advance to the third. For
+our purposes, it sufﬁces to point out Kant’s claim that the aes-
+thetic judgment is necessarily collective: “The beautiful is that which,
+
+[p. 32] [PDF page 52]
+
+32                      Part I. The Age of Paradigms
+
+without any concept, is cognized as an object of a necessary pleasure”
+(CJ, §22).
+   The third moment advances the famous deﬁnition of beauty as pur-
+posiveness without purpose. For Kant, the work of art or the beautiful
+object of nature does not have an end outside itself; it does not serve
+any purpose and is thus free from all ﬁnality. One reason that we can
+never attribute an end to a beautiful object is that every deﬁnition of
+an end for Kant relies on some idea of perfection, namely, the ulti-
+mate purpose of an object. Since beauty, as we have seen, can never
+be conceptualized, no beautiful object can ever be thought to have
+a purpose. And yet when we encounter it, it seems that it has been
+designed as if to fulﬁll a very particular function, since there is noth-
+ing arbitrary about it. One way to solve this seeming contradiction is to
+think of it as saying that beauty does of course incite pleasure in us and
+that this is very well a purpose. And yet the beautiful object does not
+exist on behalf of its viewer; it is truly independent. Beauty seems to
+exist for our pleasure, yet it is not the aim of any beautiful object to do
+so. Kant’s fourth deﬁnition reads: “Beauty is the form of purposiveness
+in an object, insofar as it is perceived without the representation of a
+purpose” (CJ, §17).
+   To sum up this discussion of the aesthetic judgment, Kant settles
+the old dispute whether one can argue about taste or not (de gustibus
+non est disputandum) by stating that it is certainly possible to do so, but
+the argument can never be settled because neither party could give
+any universally valid reason for its judgment. Although aesthetic judg-
+ments do not provide knowledge, they are still related to the faculty of
+understanding, and thus they participate in cognition. Since animals
+lack cognition as based on concepts, their world certainly knows the
+agreeable, but it is devoid of all beauty.14
+
+
+                                  Sublimity
+Kant distinguishes between two manifestations of the sublime: the
+mathematical sublime and the dynamic sublime. In both cases, the
+sublime is not a quality of an object but, rather, much like the plea-
+sure that we call beauty, a response of the subject:
+
+. . . the sublime in the strictest sense cannot be contained in any sensual form,
+but only refers to ideas of reason. (CJ, §23)
+
+[p. 33] [PDF page 53]
+
+Kant                                    33
+
+    Kant deﬁnes the sublime as that “which is absolutely great,” and
+which here means “great beyond all comparison” (CJ, §25). It follows
+that it can therefore not properly be an object of the senses, because
+imagination will not be able to synthesize the sensual manifold of
+an absolutely great object into a unity. In other words, there are no
+sublime objects, but only sublime states of subjectivity brought about
+by encounters with certain classes of objects.
+    In the case of the mathematical sublime, it is primarily the idea of
+inﬁnity that qualiﬁes as sublime. We can never arrive at the concept of
+inﬁnity, namely as an absolute totality, by means of sensory experience
+and, thus, by the means of the faculty of imagination. Imagination does
+not allow us to think a totality because every sum of units of measure-
+ments can be further enlarged. We can always add on to any number,
+large as it may be, and we can always think of any space as expandable.
+And yet to be able to think the inﬁnite indicates that a faculty exists
+in man that transcends experience, and this bestows a unique dignity
+upon man: “To merely be able to think the given inﬁnite without con-
+tradictions requires a faculty in the mind that is itself supersensible”
+(CJ, §26). This experience, that the mind abandons imagination and
+still contains an idea as soaring as inﬁnity, endows man with a renewed
+sense of worthiness and elevation. (In the context of his discussion of
+quantity, Hegel later attributed this shudder caused by – bad – inﬁnity
+not to sublimity but merely to the boredom of the series that never
+ﬁnds an end; Encyclopedia of Philosophical Sciences, §104.)
+    Our encounters with the causes of the dynamical sublime, however,
+are different insofar as they contain a moment of anxiety. In these
+cases, we experience nature as a force strong enough to destroy us
+and, therefore, as “a source of fear.” Our ﬁrst response to a situation
+we later might come to call sublime is, therefore, intense displeasure
+since we feel vulnerable and inferior to the brute forces of nature.
+Kant famously mentions
+
+boldly overhanging and, as it were, threatening rocks, thunderclouds piled
+up in the sky, moving along with thunder and lightning, volcanoes in all their
+destructive power, hurricanes with the destruction in their track, the boundless
+ocean rising in anger, a high cataract of a mighty river and so on. (CJ, §28)
+
+   And yet this experience in itself has no sublime value at all because
+without a second step, we do not arrive at sublimity. The displeasure
+
+[p. 34] [PDF page 54]
+
+34                      Part I. The Age of Paradigms
+
+of inferiority must be turned into a sense of independence and even
+human superiority over nature. In order to achieve this, a process of
+reﬂection is needed. As long as we are in a position of safety – aesthetic
+sublimity has of course no place in the struggle for survival – the en-
+counter with the forces of nature lets us discover in ourselves a “power
+of resistance” that stems from the discovery that human freedom is
+not subject to natural destruction, but transcends the sensory realm:
+
+The irresistability of it [nature] forces us on the one side to acknowledge
+our physical helplessness, but on the other side reveals a faculty of estimating
+ourselves independent of it. On this faculty rests a self-preservation of a very
+different kind as that which can be challenged and endangered by nature, so
+that humanity remains unhumiliated in our person, even though man would
+be defeated by that force. (CJ, §28)
+
+    Eventually, we do arrive at a sense of pleasure that results from our
+insight into the indestructibility of human nature. Therefore, what we
+ultimately call sublime is certainly not that phenomenon of nature
+that threatens to destroy us with its might, but exactly our feeling of
+independence from nature.
+    Whereas beauty has a calming effect on man, sublimity can be un-
+derstood as an expression of moral energy. The sublime experience
+is the triumph of the supersensory part of the self over the material
+and ﬁnite part. While beauty rests on the basis of sensory experience,
+sublimity aims at abandoning the sensory and moving toward reason.
+Beauty and sublimity, therefore, have very little in common; in fact,
+they are opposed to each other. Schiller, as well as the idealists Schelling
+and Hegel, will attempt to overcome this opposition because they ar-
+gue that without a uniﬁcation of beauty and sublimity, the self will
+remain divided between sensibility and morality. In Kant’s aesthetics,
+however, these two experiences stand problematically unconnected.
+
+
+                              Fine Art, Genius
+Kant had declared beauty not to be a quality of the object. And yet
+when he comes to talk about art, or ﬁne art as he labels it, he does
+make attempts to deﬁne the beautiful features of the arts in question.
+For this purpose he distinguishes, much like Lessing in his Laokoon,
+between temporal and atemporal arts (he actually separates poetry
+
+[p. 35] [PDF page 55]
+
+Kant                                    35
+
+and rhetoric from the temporal arts as a third category, but this need
+not concern us here). In the case of the atemporal arts of painting and
+sculpture, beauty rests with the draftsmanship, not with color. For Kant,
+only perceptible form should enter the aesthetic judgment, but not the
+play of colors that is merely agreeable. In music, beauty is seen to rest
+with the composition, although Kant remains rather vague about what
+we are to understand under this term. Kant leaves no doubt that for
+him the beauty of nature always surpasses that of art15 because it lays
+claim to immediate interest, whereas artistic products always mediate
+between their subject matter and the recipient. This explains why Kant
+holds that the work of art should look like a product of nature:
+
+Hence the purposiveness in products of the ﬁne arts must not seem purposeful,
+although they are purposeful; i.e. ﬁne art must be able to be considered as
+nature, our consciousness of it as art notwithstanding. A product of art appears
+to be nature when it agrees exactly with the rules according to which alone
+the product can become what it is intended to be, yet without displaying the
+embarrassment of academic form, i.e. without indicating that the rule had
+guided the artist and restrained his mental powers. (CJ, §45)
+
+
+   Kant argues here that art must not negate its character as a human
+product, yet it shall look like nature nevertheless. How are we to re-
+solve this new contradiction? It seems that Kant positions himself in a
+tradition of aesthetic thought that found its most coherent expression
+in the Renaissance ideal of sprezzatura, that is, the seemingly effort-
+less production of works of art that was, for example, advocated by
+Baldassare Castiglione in Il Cortegiano of 1528. The ﬁnal artistic prod-
+uct is supposed to look uncontrived, natural, and effortless, instead of
+showing traits of adherence to rules or imitating previous works of art.
+   For Kant, there is only one way to create artistic products that look
+like natural ones, namely, through genius: “Fine arts must necessarily
+be regarded as arts of genius” (CJ, §46). We should think of a genius as
+an outstandingly talented person brought forth by nature so that he
+or she can in turn produce works of art:
+
+Genius is the talent (natural endowment) which gives the rule to art. Because
+talent as an innate productive ability of the artist belongs itself to nature,
+one could also say: Genius is the innate, mental aptitude (ingenium) through
+which nature gives the rule to art. (CJ, §46)
+
+[p. 36] [PDF page 56]
+
+36                      Part I. The Age of Paradigms
+
+   Much has been made of this statement that nature gives the rule to
+art through the genius, and there are probably a number of readings
+possible. It seems clear, though, that art involves rules. But unlike the
+traditional rhetorical system, the poetics of the Baroque period, or the
+eighteenth-century Swiss critics Bodmer and Breitinger, Kant does not
+think that artistic products result from the adherence to previously
+established rules. And yet, if every work of art would establish rules
+that held true only for itself and no other product, the very notion of
+a rule would not make sense. There are no rules that apply to one case
+only. Therefore, the genius should probably be seen as one who knows
+about the established rules for the productions of works of art, but who
+also knows when to disregard them. The originality of the genius lies
+in the ability to adhere to rules and to expand them at the same time,
+and he or she does so in a seemingly effortless and unstrained way.
+   Taste, like artistic production, also does not proceed according to
+rules. And yet it, too, is in need of some kind of orientation that Kant
+ﬁnds in the outstanding works of art of our tradition:
+
+Among all faculties and talents taste, because its judgment is not determined
+by concepts and regulations, is the one most in need of those examples which
+have received applause for the longest time in the course of culture so that it
+does not fall back into the rudeness of its earliest efforts and become crude
+again. (CJ, §32)
+
+   Winckelmann had in his 1763 Abhandlung von der Fähigkeit der
+Empﬁndung des Schönen in der Kunst und dem Unterrichte in derselben (Trea-
+tise on the capability to perceive the beautiful in art and the instruc-
+tion thereof) also declared – and both ﬁnd themselves in agreement
+with the rhetorical tradition: “Thus true and complete knowledge of
+beauty in art can only be achieved through contemplation of the orig-
+inals themselves, and ideally in Rome.”16 But despite this postulated
+necessity to provide schooling and corrective mechanisms for taste, it
+ultimately remains unclear how exactly the paradigms of tradition are
+supposed to fulﬁll this function, since they cannot achieve the status
+of regulations.
+   One more aspect should be pointed out in Kant’s discussion of ﬁne
+art. We already saw that the aesthetic judgment transcends the purely
+subjective sphere and invites everyone’s agreement. Therefore, the
+encounter with beauty somehow seems to have a tendency to force us
+
+[p. 37] [PDF page 57]
+
+Kant                                      37
+
+out of our isolation and to establish contact with the other members
+of our society:
+
+Empirically, the beautiful only exists in society. And if we grant that the impulse
+to society is natural to man and that the ﬁtness and liking for it, i.e. sociability,
+is a requirement for man as a social being and a predicate of humanity, then
+it follows that taste as a faculty of judgment through which we communicate
+our feeling to everyone else must be considered a means of promoting that
+which everyone’s natural inclination calls for. (CJ, §41)
+
+    Kant states as the explicit purpose of the work of art: “Fine art, on
+the other hand, is a mode of representation that is purposeful in itself,
+and that, although without purpose, advances the culture of the mental
+powers in the interest of social communication” (CJ, §44). All forms of
+beauty, be they artistic or natural, incite in us a pleasureable feeling and
+the desire to communicate this pleasure so that others might share in
+it. Art, it could be argued, is one of the means to strengthen communal
+ties, if not a means to help establish a community in the ﬁrst place.
+    Friedrich Schiller echoes this notion in his 1793 letters on aesthet-
+ics to his patron, the Prince Friedrich Christian of Schleswig-Holstein-
+Sonderburg-Augustenburg. These are now collected as the Augusten-
+burger Briefe that constitute the raw material for the Letters on the Aes-
+thetic Education of Man. There, Schiller claims that the communica-
+tive nature of judgments of taste unites individuals into a society (see
+Letter of December 1793). Johann Gottlieb Fichte (1762–1814) also
+takes up the same idea in his 1794 On the Spirit and the Letter in Philosophy.
+In the second of these ﬁctional letters, Fichte states that artistic inspira-
+tion expands the individuality of the artist into a collective disposition
+[Universalsinn], so that in turn, the work of art unites individual men
+and women into a community – an idea that from this time on regularly
+reemerges in the context of the discussion of the social role of art.17
+
+
+                             Beauty and Morality
+Whereas the moral judgment relies upon concepts and achieves
+universal validity, the aesthetic judgment is nonconceptual and of
+merely subjective universality. Therefore, both belong to different cat-
+egories and, accordingly, hardly any connection should exist between
+beauty and morality. And yet, throughout the Critique of Judgment,
+
+[p. 38] [PDF page 58]
+
+38                       Part I. The Age of Paradigms
+
+Kant suggests several possibilities for how to tie up the one with
+the other.
+   Confronted with a work of art, it is not enough simply for us to take
+pleasure in it, Kant argues at one point. The pleasure we feel in beauty
+should ultimately be directed toward morality, because only moral
+ideas may be contemplated as ends in themselves:
+
+When ﬁne arts are not, either proximately or remotely, united with moral
+ideas, which alone are contemplated with a self-sufﬁcient pleasure, the above
+[a displeasure with the object] is the fate that ultimately awaits them. (CJ, §52)
+
+   Kant also argues that there is a hierarchy of beautiful forms at the
+top of which we can ﬁnd the human ﬁgure as the ideal of beauty. The
+human ﬁgure achieves this superiority not because the beauty of its
+form surpasses that of roses or horses but because an extrasensual ele-
+ment manifests itself visibly in the human body. This nonsensory mo-
+ment is man’s morality that distinguishes him from all natural forms.
+The highest form of beauty must therefore “be sought in the human
+ﬁgure. Here the ideal consists in the expression of the moral, apart
+from which the object would not please at once universally and posi-
+tively (not merely negatively in an academically correct presentation)”
+(CJ, §17).
+   Kant’s most complicated attempt to bring together beauty and
+morality can be found in the famous Section 59, titled “Beauty as the
+Symbol of Morality.” Here, too, several arguments seem to be lumped
+together, but the most discussed and complex one is set up roughly in
+the following way:
+
+Now, I say: The beautiful is the symbol of the morally good; and only in this
+respect (a relation that is natural to everyone and that everyone expects from
+others as their duty) does it please with the claim to everyone’s agreement;
+simultaneously, the mind becomes aware of a certain ennoblement and an
+elevation above the mere receptivity to pleasure from sense perceptions, and it
+estimates the worth of others according to a similar maxim of their judgments.
+(CJ, §59)
+
+   The most important thing to ﬁgure out is what Kant means by the
+beautiful being a symbol of the morally good. A symbol here is deﬁned
+as something that allows for a sensory experience of something else
+that is nonsensory. The morally good is such a nonsensory idea, or a
+
+[p. 39] [PDF page 59]
+
+Kant                                  39
+
+rational idea, that always escapes experiential representation. Kant had
+called the aesthetic idea nonconceptualizable [inexponibel]; that is, it
+perpetually escapes its representation by means of a concept that un-
+derstanding would supply. As a corollary, the rational idea (like the
+morally good) is inostensible [indemonstrabel ], because it can never be
+exempliﬁed by means of a sensory instance. Therefore, the impossi-
+bility of subsuming the aesthetic idea under a concept symbolizes, or
+demonstrates experientially, the complementary shortcoming of the
+concept of morality, namely, its indemonstrability. Thus, beauty hints
+symbolically at morality.
+    Taste has yet another function for morality, and this one is pre-
+paratory. The regular exercise of aesthetic judgments, which ultimately
+point beyond the sensory pleasure toward a moral interest, get the in-
+dividual into the habit of ﬁnding delight more in moral ideas than in
+sensuality: “Taste allows, as it were, for a transition without too violent
+a leap from sensory stimulation to habitual moral interest” (§59). Not
+all of these arguments carry the same force of conviction, but they
+prove sufﬁciently that Kant had a strong interest in orienting the aes-
+thetic judgment toward morality.18 Although Kant demonstrated the
+independence of taste from morality and reason, he still wanted to
+make sure that no possibility existed for art to turn against morality.
+The person who enjoys his pleasurable encounters with the beautiful
+is the same who is subject to the universal moral law from which taste
+cannot and should not attempt to set him free.
+
+It cannot be doubted that Kant’s Critique of Judgment ﬁrst established
+philosophical aesthetics as an independent discipline. This was the
+result of his argument that the object of aesthetics, namely beauty in
+its natural and artistic manifestation, is independent of conceptual
+knowledge, both theoretical and moral. Thus, beauty merits its own
+independent inquiry.
+    And yet the results of the Kantian aesthetics leave us strangely unsat-
+isﬁed when viewed from a different perspective, namely, when ques-
+tioned about the ontological status of the work of art, its epistemic
+value (the truth content) and its practical potential. First, Kant does
+not answer the ontological question at all. The aesthetic judgment does
+not relate to the object, but is merely the expression of the pleasur-
+able subjective state of the free play of imagination and understanding.
+
+[p. 40] [PDF page 60]
+
+40                    Part I. The Age of Paradigms
+
+Beauty for Kant does lie in the eye of the beholder, not in a relativistic
+sense but in an ontological one. There are no beautiful objects, only
+those that incite in us a response of aesthetic pleasure.19 But since
+not every object we encounter is able to do just that, it is somewhat
+hard to comprehend why there shouldn’t be a class of objects that
+are capable of arousing aesthetic pleasure, and these would be the ob-
+jects we would call art or beautiful products of nature. Thus, subjective
+pleasure would lead to a classiﬁcation of objects as either art or nonart.
+    It should also be pointed out that we must not understand pleasure
+to be simply an agreeable sensation. If that were the case, modern art
+with its emphasis on displeasing and disturbing elements and its license
+to outright ugliness would prove Kant outdated. (The same holds true
+for many Gothic representations of the cruciﬁed Christ, an image that
+invites contemplation in the form of compassion, not as “disinterested
+pleasure” in the beautiful.) His concept of pleasure, though, refers
+to the free play of faculties in which the imagination attempts to sub-
+sume the object in question under a concept that understanding is to
+provide. Nothing in this deﬁnition excludes ugly objects from partic-
+ipating in the same free play. The aesthetic idea that induces much
+thought without ever arriving at a conceptual conclusion is applicable
+to modern art as well, even if this art has given up on the project of
+pleasing viewers, readers, or listeners.
+    In regard to the truth-claim of art, Kant’s theory takes a strong
+stance. He declares outright that the aesthetic judgment is not cog-
+nitive and that, therefore, matters of art and matters of knowledge
+must not be confused. This is one of the legacies of Kant’s aesthetics
+that turned out to be one of the greatest objects of contention in the
+tradition of philosophical thought on art from then on.
+    The third issue, namely the practical relevance of art and beauty,
+is the only one for which Kant provides a positive answer. Although
+beautiful objects have no direct practical value, they still serve as sym-
+bols of the morally good, and to encounter them regularly establishes
+a habit, contradictory enough, of valuing them not for the pleasure
+they incite but for their supersensory appeal. In this theory, the most
+positive feature of art is to strengthen us in our efforts to lead a moral
+life.
+    Immanuel Kant establishes the ﬁrst strong paradigm of aesthetics
+that is characterized by the independence of art from cognition and
+
+[p. 41] [PDF page 61]
+
+Kant                               41
+
+from morality, by its formal nature that is free from the inﬂuences
+of history and of concrete developments in the arts, and ﬁnally by its
+subjectivization of the aesthetic experience that is divorced from the
+object and ﬁrmly rooted in the subject. All of these elements of the
+Kantian paradigm serve as a starting point for the other paradigmatic
+aesthetics up to the system of Hegel, and each one of the following
+paradigms can be considered an attempt to correct one or more of
+Kant’s assumptions.
+
+
+=== Notes to Chapter 2 ===
+
+[p. 219] [PDF page 239]
+
+Chapter 2. Kant
+
+1    Brigitte Scheer comments on this notion of esoteric mimesis in
+     Einführung in die philosophische Ästhetik (Darmstadt: Primus, 1997), p. 21.
+2    Odo Marquard attempts a somewhat idiosynchratic explanation of the
+     rise of philosophical aesthetics in the eighteenth century. He argues
+     that aesthetics is the outcome of the frustration with scientiﬁc reason
+     that cannot comprehend the totality of reality (Kant’s thing in itself re-
+     mains unknowable) and the frustration with practical reason that thinks
+     the concept of the good independent of its concrete existence. Thus,
+     the turn toward aesthetics mediates between abstract scientiﬁc reason
+     and concrete historical reason that has not yet been achieved by philo-
+     sophical thought. Aesthetica und Anaesthetica: Philosophische Überlegungen
+     (Paderborn: Schöningh, 1989), pp. 21–31.
+3    Werke in drei Bänden (Munich: Hanser, 1982), vol. 3, p. 20.
+4    The philosopher who sees this radical split between art and truth as detri-
+     mental for the history of aesthetics is Hans-Georg Gadamer. Cf. Wahrheit
+     und Methode, 6th ed. (Tübingen: Mohr and Siebeck, 1990), pp. 48–107.
+5    Otto Pöggeler, Die Frage nach der Kunst: Von Hegel zu Heidegger (Munich
+     and Freiburg: K. Alber, 1984), pp. 215. In all fairness it has to be pointed
+     out, however, that Kant included more references to concrete works of
+     art in his 1764 Beobachtungen über das Gefühl des Schönen und Erhabenen
+     (Observations about the sensation of the beautiful and sublime). Here,
+     Kant mentions such antique literary ﬁgues as Homer, Virgil, and Ovid,
+     as well as Milton, Klopstock, and the painter Hogarth. Similarly, in his
+     Anthropology, Kant mentions a fair number of contemporary writers, such
+     as Sterne, Fielding, Richardson, and others, as well as painters from dif-
+     ferent ages. For a study on Kant’s reception in the history of art, see Mark
+     A. Cheetham’s Kant, Art and Art History: Moments of Discipline (Cambridge:
+     Cambridge University Press, 2001).
+6    For a detailed account of Kant’s third Critique in English, cf. Paul Guyer’s
+     Kant and the Claims of Taste, 2d ed. (Cambridge: Cambridge University
+     Press, 1997). Equally important are his two other volumes, Essays in Kant’s
+     Aesthetics (Chicago: University of Chicago Press, 1982) and Kant and the
+     Experience of Freedom (Cambridge: Cambridge University Press, 1993). For
+     discussions of many of the problems of Kant’s aesthetic theory, see the ex-
+     cellent volume edited by Herman Parret: Kants Ästhetik. Kant’s Aesthetics.
+     L’esthétique de Kant (Berlin and New York: de Gruyter, 1998).
+7    Winfried Menninghaus argues in his book In Praise of Nonsense: Kant and
+     Bluebeard (Stanford, Calif.: Stanford University Press, 1999), that a direct
+
+[p. 220] [PDF page 240]
+
+line can be drawn from Kant’s notion of free beauty in art to the notion
+      of the arabesque and the poetry of nonsense of the early Romantics.
+      To me, this argument overemphasizes the antihermeneutic moments in
+      the third Critique, yet certain parallels in argumentation exist without a
+      doubt.
+ 8    Kant relativizes this position in his 1798 Anthropologie in pragmatischer Hin-
+      sicht (Anthropology in the pragmatic respect). Here, he argues that an
+      a priori judgment of taste exists, and he labels this aesthetic judgment
+      vernünftelnd, roughly meaning moving in the direction of a nonsensual
+      judgment. Yet even with respect to the regular aesthetic judgment, Kant
+      now claims that it is both a judgment of taste and a judgment of under-
+      standing, although the purity of the latter suffers in it (§64). These highly
+      complex problems merit further discussion, but this has to be done in a
+      separate study.
+ 9    Karl Philipp Moritz, “Versuch einer Vereinigung aller schönen Künste
+      und Wissenschaften unter dem Begriff des in sich selbst Vollendeten,”
+      Beiträge zur Ästhetik (Mainz: Dieterich’sche Verlagsbuchhandlung, 1989),
+      pp. 7–18. Quotation is on p. 12.
+10    Ernst Cassirer points out that there is a tradition of the moment of disin-
+      terested pleasure that ranges from Plotinus to Moses Mendelssohn and
+      Karl Philipp Moritz. Kant’s Life and Thought (New Haven, Conn.: Yale
+      University Press, 1981), p. 326. See also Chapter 1 in this volume and the
+      discussion of Billigungsvermögen in Mendelssohn.
+          Heinz Paetzold has attempted to read disinterested pleasure as a
+      paradigm for a noninstrumental way of the subject to relate to objects.
+      He sees in this an anticipation of Heidegger’s theory of art. Paetzold also
+      suggests that there is a utopian element in the free play of imagination
+      and understanding that hints at a successful existence in which sensuality
+      and rationality are reconciled. Aesthetic perception therefore contains
+      the possibility of a different society. I think that this reading stretches
+      Kant beyond his limits, but it is an interesting recent attempt to reread
+      the aesthetic tradition from a more or less neo-Marxist point of view.
+      Ästhetik des deutschen Idealismus (Wiesbaden: Steiner, 1983).
+11    Manfred Frank has suggested that the relevance of this moment of Kant’s
+      theory for the philosophers of discourse ethics, primarily J. Habermas
+      and K.-O. Apel, is due to the strong emphasis on the universalizability
+      of a subjective judgment. While there are certainly connections here, I
+      doubt that especially Apel’s insistence on rational ultimate explanation
+      can be seen as taking very many cues from Kant’s commonality of feeling.
+      Ultimate explanations rely heavily on conceptualization, albeit a coun-
+      terfactual one. Einführung in die frühromantische Ästhetik (Frankfurt am
+      Main: Suhrkamp, 1989), pp. 68 ff.
+
+[p. 221] [PDF page 241]
+
+12   Peter Bürger suggested that the aesthetic idea does not have to be re-
+     stricted to works of art, but that it also accounts for historical personal-
+     ities, etc. Zur Kritik der idealistischen Ästhetik, 2d ed. (Frankfurt am Main:
+     Suhrkamp, 1990). While this is certainly worth considering, it becomes
+     unclear which kind of objects could contain aesthetic ideas and which
+     could not. Once the ﬁrst step beyond the work of art is taken, there is
+     little reason not to argue that basically everything might become subject
+     to an inﬁnite number of interesting interpretations. This position is gen-
+     erally held by such neopragmatists as Richard Rorty, Stanley Fish, and
+     others. For the negation of any ontologically special status of art, see, for
+     example, Fish’s Is There a Text in This Class? (Cambridge, Mass.: Harvard
+     University Press, 1980), as well as Rorty’s “The Pragmatist’s Progress,”
+     in Umberto Eco with Richard Rorty, Jonathan Culler, and Christine
+     Brooke-Rose, Interpretation and Overinterpretation, edited by Stefan Collini
+     (Cambridge: Cambridge University Press, 1992), pp. 89–108.
+13   Winfried Menninghaus, In Praise of Nonsense, especially pp. 15–31.
+14   At times, artists and theoreticians have fantasized about a perceptive in-
+     nocence that would lead to aesthetic appreciation free from all concepts.
+     Such seeing or listening, it is then assumed, would very much resemble
+     that of animals. This fantasy is obviously a far cry from Kant, who would
+     regard it as neither desirable nor possible. For an account of this posi-
+     tion, see Arthur Danto’s “Animals as Art Historians: Reﬂections on the
+     Innocent Eye,” in Beyond the Brillo Box: The Visual Arts in Post-Historical
+     Perspective (Berkeley: University of California Press, 1992), pp. 14–31.
+15   In his book Kant and Fine Art (Oxford: Oxford University Press, 1986),
+     Salim Kemal challenges this reading by claiming a superiority of art over
+     nature because of its link to morality (p. 15 and passim). Although this
+     argument certainly calls into question the rigidity of Kant’s hierarchy,
+     I doubt that it carries enough weight to actually reverse it.
+16   Werke in einem Band (Berlin and Weimar: Aufbau, 1982), p. 150.
+17   In recent years, the Italian proponent of “weak thought,” Gianni Vattimo,
+     argued that part of the aesthetic pleasure results from the subject’s recog-
+     nition of its own membership in a group. This recognition together with
+     taste is what deﬁnes the aesthetic function. “Death or Decline of Art,” in
+     The End of Modernity (Baltimore: Johns Hopkins University Press, 1991).
+18   Generally speaking, Kant argues against habitual morality, a notion that
+     Hegel treats under the heading of Sittlichkeit. In his 1798 Anthropologie
+     in pragmatischer Hinsicht (Anthropology in pragmatic respect), he states
+     clearly: “Virtue is that moral strength that lies in obedience to one’s duty
+     without ever becoming a habit, but that must rather emerge always anew
+     and original from one’s mental disposition [Denkungsart]” (§10). A few
+     paragraphs later, however, Kant argues that social role playing can be
+
+[p. 222] [PDF page 242]
+
+helpful in turning merely pretended virtues into habitual ones (§12). It
+      seems that a certain tension regarding the desirability of morality based
+      on habit continues to exist in Kant.
+19    Nelson Goodman argues that Kant’s emphasis on the beautiful causes
+      his entire aesthetic theory to become unbalanced, since there are many
+      instances in which art is not beautiful. Languages of Art: An Approach to
+      the Theory of Symbols (Indianapolis and New York: Bobbs-Merrill, 1968).
+      I brieﬂy address this concern later in the context of pleasure. For an argu-
+      ment similar to mine, see Mary A. McCloskey, Kants’s Aesthetics (London:
+      Macmillan Press, 1987), Chapters 2 and 4.
