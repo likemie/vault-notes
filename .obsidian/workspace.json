@@ -113,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -328,19 +328,22 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e2374d26ccaac553",
+  "active": "d8039914fdb2fe9c",
   "lastOpenFiles": [
+    "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso.md",
+    "wiki/templates/template-argument-edited-volume.md",
+    "wiki/templates/template-argument-textbook.md",
+    "wiki/templates/template-argument-monograph.md",
+    "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md",
+    "wiki/arguments/journal-articles/Higher Education Policy/Argument_He_2018_HEP.md",
+    "wiki/arguments/journal-articles/Educational Research Review/Argument_Chen_Cheung_2025_ERR.md",
+    "wiki/arguments/journal-articles/Educational Research Review/Argument_DeJong_2023_ERR.md",
+    "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md",
     "tmp/tools-base.css",
     "tmp/tools-cards-20261115.css",
-    "wiki/arguments/journal-articles/Higher Education Policy/Argument_He_2018_HEP.md",
     "tmp/method-base.css",
     "tmp/method-pipeline-20261115.css",
-    "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso.md",
     "tmp/dimension-facets-20261115.css",
-    "wiki/templates/template-argument-edited-volume.md",
-    "wiki/templates/template-argument-monograph.md",
-    "wiki/templates/template-argument-textbook.md",
-    "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md",
     "tmp/textbook-contents-base.css",
     "tmp/contents-spine-20261115.css",
     "wiki/methods/quantitative/Begg and Mazumdar Rank Correlation.md",
@@ -353,7 +356,6 @@
     "wiki/concepts/political-economy-geopolitics/Traduttori Traditori.md",
     "wiki/facts/us/Open Society Institute.md",
     "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge.md",
-    "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch01-e661f4f9/batch-005/result.json",
     "wiki/templates/template-method.md",
     "top_Hao_2026_Nature_Fig1_AI_Adoption_Prevalence.jpg",
     "未命名.canvas",
@@ -366,8 +368,6 @@
     "wiki/persons/us/G. William Skinner.md",
     "wiki/persons/italy/Franco Moretti.md",
     "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Santos_Silova_2026_Discourse.md",
-    "wiki/persons/uk/Elie Kedourie.md",
-    "wiki/templates/template-theory.md",
     "top_Hao_2026_Nature_Fig4_Follow_on_Engagement_and_Overlapping_Works.jpg",
     "Claude outputs/callout-preview/compare_timeline_titles.png",
     "Claude outputs/callout-preview/compare_timeline_motion.png",

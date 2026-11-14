@@ -28493,7 +28493,7 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout.callo
   transition: transform 620ms var(--tl-ease), opacity 220ms ease !important;
  }
  /* Ruler rule: baseline with minor and major ticks */
- & > .callout-title { padding-bottom: 1rem !important; margin-bottom: 1.6rem !important; }
+ & > .callout-title { padding-bottom: 1rem !important; margin-bottom: 2.15rem !important; }
  & > .callout-title::after {
   content: "" !important; display: block !important; position: absolute !important; left: 0 !important; right: 0 !important; bottom: 0 !important;
   width: auto !important; height: 7px !important; transform: none !important; opacity: .6 !important;
