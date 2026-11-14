@@ -29,8 +29,10 @@ related_concepts:
   - "[[General Purpose Technology]]"
   - "[[Market Failure]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Serialization]]"
   - "[[Cold War University]]"
   - "[[University-Based Research Infrastructure]]"
+  - "[[National Biography]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods: []
@@ -39,7 +41,7 @@ related_persons:
   - "[[David C. Mowery]]"
   - "[[Benedict Anderson]]"
 related_facts:
-  - "[[National Science Foundation]]"
+  - "[[Department of Defense]]"
 related_arguments:
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
   - "[[Argument_Anderson_2016_Verso_Ch11]]"
@@ -104,17 +106,17 @@ updated: 2026-11-14
 ---
 
 > [!concept-proposition] 命题三｜现代人文历史学科的建制化将政治断裂编码为连续的历史序列以服务国家认同
-> **历史学学科建制对革命断裂的收编功能** 探讨19世纪初现代研究型大学设立历史学专业教席如何将剧烈的政治断裂降温并纳入可理解的世俗因果序列。
+> **历史学学科建制对革命断裂的收编功能** 探讨19世纪初现代研究型大学设立历史学专业教席如何将剧烈的政治断裂降温并纳入连续的历史长河。
 
 > [!claim] Anderson, B.
-> **大学历史系教席对革命断裂的序列化编码** 19世纪初柏林大学与拿破仑索邦大学创设首批历史学专业教席，标志着历史学由启蒙时期的业余爱好建制化为现代大学正规学术学科。在钟表制造业扩张与齐一空洞时间确立的背景下，历史学学科建制化将法国大革命带来的绝对时间断裂（如1792年废除基督教历法的共和国元年），重新编织进以公元纪年为基准的不可逆世俗历史因果序列中，使革命断裂转化为可供后世借鉴的历史先例与国家传记材料。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, p. 198)]]
+> **大学历史系教席对革命断裂的[[Serialization|序列化]]编码** 19世纪初柏林大学与拿破仑索邦大学创设首批历史学专业教席，标志着历史学由启蒙时期的业余爱好建制化为现代大学正规学术学科。在钟表制造业扩张与齐一空洞时间确立的背景下，历史学学科建制化将法国大革命带来的绝对时间断裂（如1792年废除基督教历法的共和国元年），重新编入以公元纪年为基准的连续历史长河中，使革命断裂转化为可供后世借鉴的历史先例与国家传记材料。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, p. 198)]]
 
 ---
 
 > [!prop-table] 围绕学科建制化形成的代表性命题
 > | 命题陈述 | 核心机制 | 提出学者 | 实证支持情境 |
 > |---|---|---|---|
-> | 新兴学科建制化依赖公共研发资金对大学基础设施的早期战略注资 | 弥补[[Market Failure\|市场失灵]]；承担早期探索试错成本；构建独立教研平台 | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio and Mowery (2005)]] | 战后美国国防部与国家科学基金会资助大学计算机系创立历程 |
+> | 新兴学科建制化依赖公共研发资金对大学基础设施的早期战略注资 | 弥补[[Market Failure\|市场失灵]]；承担早期探索试错成本；构建独立教研平台 | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio and Mowery (2005)]] | 战后[[Department of Defense\|美国国防部]]与国家科学基金会资助大学计算机系创立历程 |
 > | 学科建制化充当打通军民与产学壁垒的[[Knowledge Mediation\|知识中介]]与高层次人才策源地 | 大学作为跨部门知识枢纽；高层次青年科学家与工程师培养外溢 | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio and Mowery (2005)]] | 1960–1980年代全美[[Research Universities\|研究型大学]]计算机科学人才流向产业 |
 > | 现代历史学学科建制化将政治断裂编码为世俗历史因果序列 | 设立专业教席；运用齐一时间因果律将革命断裂降温为常规历史先例 | [[Argument_Anderson_2016_Verso_Ch11\|Anderson (2016)]] | 19世纪初柏林大学与索邦大学首设历史学教席及公元纪年重构 |
 
