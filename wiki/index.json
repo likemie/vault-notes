@@ -13555,6 +13555,16 @@
     ]
   },
   {
+    "title": "Geo-biography",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Geo-biography.md",
+    "aliases": [
+      "地理传记",
+      "思想著作的地理传记",
+      "著作地理传记"
+    ]
+  },
+  {
     "title": "Geo-Body",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Geo-Body.md",
@@ -31076,6 +31086,16 @@
     ]
   },
   {
+    "title": "Fernand Braudel",
+    "type": "person",
+    "path": "wiki/persons/france/Fernand Braudel.md",
+    "aliases": [
+      "费尔南·布罗代尔",
+      "布罗代尔",
+      "Braudel, F."
+    ]
+  },
+  {
     "title": "Frantz Fanon",
     "type": "person",
     "path": "wiki/persons/france/Frantz Fanon.md",
@@ -33907,6 +33927,17 @@
       "温斯顿·丘吉尔",
       "丘吉尔",
       "Winston S. Churchill"
+    ]
+  },
+  {
+    "title": "Anthony D. Smith",
+    "type": "person",
+    "path": "wiki/persons/uk/Anthony D. Smith.md",
+    "aliases": [
+      "安东尼·D·史密斯",
+      "安东尼·史密斯",
+      "Anthony Smith",
+      "Smith, A. D."
     ]
   },
   {

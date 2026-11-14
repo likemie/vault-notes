@@ -19,17 +19,19 @@ tags:
   - theme/collective-memory
   - theme/historiography
 related_concepts:
+  - "[[Document]]"
   - "[[Reassurance of Fratricide]]"
   - "[[Reversed Ventriloquism]]"
   - "[[Homogeneous, Empty Time]]"
   - "[[Print-Capitalism]]"
 related_theories:
   - "[[Imagined Community]]"
+  - "[[Necropolitics]]"
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Benedict Anderson]]"
   - "[[Fernand Braudel]]"
+  - "[[Benedict Anderson]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch11]]"
@@ -42,7 +44,7 @@ updated: 2026-11-14
 ---
 
 > [!def] National Biography
-> **民族传记（National Biography）** 指现代民族为确立自身在[[Homogeneous, Empty Time|齐一空洞时间]]中的历史连续性与同一性，在经历深刻历史断裂与集体失忆后，借助现代印刷媒介与历史编纂学构建的自传叙事体系。与现代个人自传沿年代顺流而下（从出生到死亡）不同，民族由于缺乏具名始祖与自然消亡节点，其传记必须溯时间之流而上（up time），从当下现实向远古始祖与考古发现逆向延伸，并将人口统计中具有政治象征意义的暴力死难重构为归属于民族自身的英雄牺牲。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 208–210)]]
+> **民族传记（National Biography）** 指现代民族为确立自身在齐一空洞时间中的历史连续性与同一性，在经历深刻历史断裂与集体失忆后，借助现代印刷媒介与历史编纂学构建的自传叙事体系。与现代个人自传沿年代顺流而下（从出生到死亡）不同，民族由于缺乏具名始祖与自然消亡节点，其传记必须溯时间之流而上（up time），从当下现实向远古始祖与考古发现逆向延伸，并将人口统计中具有政治象征意义的暴力死难重构为归属于民族自身的英雄牺牲。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 208–210)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向现代政治共同体通过历史叙事与修辞转化，将时间断裂与集体失忆缝合为同一自传的符号机制。
@@ -57,7 +59,7 @@ updated: 2026-11-14
 > [!boundary]- 概念边界
 > - 区别于个人世俗自传：个人自传具备确定的出生与生理死亡节点，遵循顺流而下的时间线索展开人生历程叙述；民族传记缺乏始祖生物原点且没有自然死亡，叙事由当下现实向远古回溯。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 209–210)]]
 > - 区别于传统王朝神圣世系：王朝编年史以神圣天命或创世生殖为开端（如《马太福音》三代父子相继），在神圣时间中展现创世者的恩典传承；民族传记置身于世俗的齐一空洞时间，依托科学考古与历史档案进行回溯性重构。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 208–209)]]
-> - 区别于客观人口学死亡统计：历史人口学将死亡视为无差别的人口损耗概率与年均死亡率数据（如布罗代尔笔下的日常死亡）；民族传记则从冷酷的统计总和中挑选特定战死、处决与暗杀，将其重铸为凝结民族血肉的英雄纪念。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, p. 210)]]
+> - 区别于客观人口学死亡统计：历史人口学将死亡视为无差别的人口损耗概率与年均死亡率数据（如[[Fernand Braudel|布罗代尔]]笔下的日常死亡）；民族传记则从冷酷的统计总和中挑选特定战死、处决与暗杀，将其重铸为凝结民族血肉的英雄纪念。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, p. 210)]]
 
 ---
 
@@ -107,7 +109,7 @@ updated: 2026-11-14
 > [!contrast-table] 所有命题归纳
 > | 命题陈述 | 核心机制 | 理论意义 |
 > |---|---|---|
-> | 意识断裂催生的集体失忆构成民族自传叙事的生成根源 | 现代世俗失忆与文献同一性弥补 | 阐明民族身份由现代历史叙事建构而非古老血缘承袭 |
+> | 意识断裂催生的集体失忆构成民族自传叙事的生成根源 | 现代世俗失忆与[[Document\|文献]]同一性弥补 | 阐明民族身份由现代历史叙事建构而非古老血缘承袭 |
 > | 逆向时间追溯与死亡收编确立了民族在齐一空洞时间中的超越性同一 | 溯流而上（Up time）与暴力牺牲的神圣化收编 | 揭示国家如何将偶然死难转化为维系统一认同的政治图腾 |
 
 ---
@@ -121,7 +123,7 @@ updated: 2026-11-14
 > | [[Homogeneous, Empty Time]] | 概念 | 民族传记赖以展开溯流而上逆向构织的世俗线性时空框架。 |
 > | [[Print-Capitalism]] | 概念 | 批量复制与传播档案、报纸、传记与教科书的物质制度载体。 |
 > | [[Imagined Community]] | 理论 | 民族传记所服务的现代主权与有限想象共同体理论。 |
-> | [[Benedict Anderson]] | 人物 | 提出民族自传理论并揭示其逆向发生学与死亡政治学的学者。 |
+> | [[Benedict Anderson]] | 人物 | 提出民族自传理论并揭示其逆向发生学与[[Necropolitics\|死亡政治学]]的学者。 |
 > | [[Fernand Braudel]] | 人物 | 法国年鉴学派史学家，安德森借其人口死亡率统计反衬民族传记的神圣死亡抢夺。 |
 
 ---

@@ -30,6 +30,7 @@ related_concepts:
   - "[[National Biography]]"
   - "[[Geo-Body]]"
   - "[[Map-as-Logo]]"
+  - "[[Geo-biography]]"
   - "[[Creativity]]"
   - "[[Educational Pilgrimage]]"
   - "[[Administrative Pilgrimage]]"
@@ -66,6 +67,7 @@ related_persons:
   - "[[Walter Benjamin]]"
   - "[[Erich Auerbach]]"
   - "[[Robin Dunbar]]"
+  - "[[Anthony D. Smith]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
 related_facts:
@@ -116,7 +118,7 @@ updated: 2026-11-14
 > - **1991 — *Imagined Communities* (Second Edition)** 增订第10章《人口普查、地图、博物馆》与第11章《记忆与遗忘》，既剖析殖民晚期国家规制，亦解构“必须已经遗忘”与[[Reassurance of Fratricide|兄弟残杀的抚慰]]，揭示溯流而上的[[National Biography|民族传记]]建构。关联条目：[[Geo-Body]]、[[Map-as-Logo]]、[[Reassurance of Fratricide]]、[[National Biography]]。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 167–190)]]; [[Argument_Anderson_2016_Verso_Ch11|(pp. 191–206)]]
 > - **1998 — *The Spectre of Comparisons: Nationalism, Southeast Asia, and the World*** 深入探讨东南亚比较政治中的民族主义幽灵与政治现代性转型。
 > - **2005 — *Under Three Flags: Anarchism and the Anti-Colonial Imagination*** 考察 19 世纪末全球无政府主义网络与反殖民文学想象的互动。
-> - **2006/2016 — *Imagined Communities* (Revised Edition)** 专著增补《后记》，梳理该书在全球跨国翻译网络中的“地理传记”，肯定非中心地区的盗版与[[Creativity|创造性]]挪用，重申去欧洲中心化的论战宗旨。并在第七章提出最后一波民族主义生成模型，揭示[[Educational Pilgrimage|教育朝圣]]与[[Administrative Pilgrimage|行政朝圣]]的空间同构。关联条目：[[Modular Nationalism]]、[[Imagined Community]]、[[Educational Pilgrimage]]、[[Bilingual Intelligentsia]]。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 4–7)]]; [[Argument_Anderson_2016_Verso_Ch07|(pp. 113–140)]]; [[Argument_Anderson_2016_Verso_Ch11|(pp. 207–228)]]
+> - **2006/2016 — *Imagined Communities* (Revised Edition)** 专著增补《后记》，梳理该书在全球跨国翻译网络中的“[[Geo-biography|地理传记]]”，肯定非中心地区的盗版与[[Creativity|创造性]]挪用，重申去欧洲中心化的论战宗旨。并在第七章提出最后一波民族主义生成模型，揭示[[Educational Pilgrimage|教育朝圣]]与[[Administrative Pilgrimage|行政朝圣]]的空间同构。关联条目：[[Modular Nationalism]]、[[Imagined Community]]、[[Educational Pilgrimage]]、[[Bilingual Intelligentsia]]。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 4–7)]]; [[Argument_Anderson_2016_Verso_Ch07|(pp. 113–140)]]; [[Argument_Anderson_2016_Verso_Ch11|(pp. 207–228)]]
 
 ---
 
@@ -161,7 +163,7 @@ updated: 2026-11-14
 > - **时间哲学渊源** [[Walter Benjamin|瓦尔特·本雅明]] — 借用其[[Homogeneous, Empty Time|齐一而空洞的时间]]与[[Messianic Time|弥赛亚时间]][[Construct|构念]]，奠定现代民族共时性想象的哲学基础。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 24–25)]]
 > - **文学表象分析对话** [[Erich Auerbach|埃里希·奥尔巴赫]] — 依据其图型解释学，剖析中世纪预表与神圣同时性。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, p. 24)]]
 > - **学术对话者** [[Robin Dunbar|罗宾·邓巴]]（Robin Dunbar）— [[Dunbar's Number|邓巴数]]认知上限为安德森民族想象假说提供了演化人类学微观基础。
-> - **学术论辩对手** 安东尼·史密斯（Anthony D. Smith）— 族群象征主义学者，批评其现代建构论割裂了历史族群连续性。
+> - **学术论辩对手** [[Anthony D. Smith|安东尼·史密斯]]（Anthony D. Smith）— 族群象征主义学者，批评其现代建构论割裂了历史族群连续性。
 > - **当代引述与重估者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中引述其“情感国家”论断。
 
 ---

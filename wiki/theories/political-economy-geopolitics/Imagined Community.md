@@ -76,6 +76,7 @@ related_methods:
 related_persons:
   - "[[Benedict Anderson]]"
   - "[[Lee Kuan Yew]]"
+  - "[[Anthony D. Smith]]"
 related_facts:
   - "[[Goh Report]]"
   - "[[Speak Mandarin Campaign]]"
@@ -237,7 +238,7 @@ updated: 2026-11-14
 > > 争论民族究竟是近代人为发明的政治建构，还是基于前现代族裔符号与血缘记忆的自然延续。
 > >
 > > - **建构主义现代论（Anderson / Gellner）** 强调民族是印刷资本主义与现代学校机器在近代被想象出来的有限政治实体。
-> > - **族群象征主义（Anthony D. Smith）** 批评现代主义切断历史纵深，强调现代民族必须依附于前现代族群（ethnie）的神话与象征资源。
+> > - **族群象征主义（[[Anthony D. Smith]]）** 批评现代主义切断历史纵深，强调现代民族必须依附于前现代族群（ethnie）的神话与象征资源。
 >
 > > [!axis] 情感民族与爱国凝聚 vs 去国家化[[Cosmopolitanism|世界主义]]
 > > 争论民主社会应当积极巡守“情感民族”边界以维系公民凝聚力，还是应当放弃爱国大叙事转向去中心化的世界主义。

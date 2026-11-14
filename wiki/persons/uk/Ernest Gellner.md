@@ -25,12 +25,14 @@ related_concepts:
   - "[[Nationalism]]"
   - "[[Paradigm]]"
   - "[[Homophily]]"
+  - "[[Print-Capitalism]]"
   - "[[Horizontal Comradeship]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Anthony D. Smith]]"
   - "[[Benedict Anderson]]"
 related_facts: []
 related_arguments:
@@ -84,7 +86,7 @@ updated: 2026-11-11
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 开创了现代主义民族理论范式，与安东尼·史密斯的族群象征主义以及安德森的文化建构论构成当代学术论争的核心坐标系。
+> - **理论路径** 开创了现代主义民族理论范式，与[[Anthony D. Smith|安东尼·史密斯]]的族群象征主义以及安德森的文化建构论构成当代学术论争的核心坐标系。
 > - **教育政治学路径** 揭示了国家公立学校系统垄断文化再生产、推行标准化语言在现代民族国家塑造中的枢纽作用。
 > - **批评与反思** 安德森批评其将发明简单等同于虚假与伪造，遮蔽了超越面对面原始村落的各类共同体在文化想象风格上的深层差异。
 
@@ -110,7 +112,7 @@ updated: 2026-11-11
 > [!debates] 学术争议
 >
 > > [!axis] 工业功能主义工具论 vs 媒介文化想象论
-> > 争论民族究竟是工业社会应对文化标准化需求的工具性制度发明，还是依托大众媒介与印刷资本主义生成的文化想象实体。
+> > 争论民族究竟是工业社会应对文化标准化需求的工具性制度发明，还是依托大众媒介与[[Print-Capitalism|印刷资本主义]]生成的文化想象实体。
 > >
 > > - **Gellner（1983）** 强调工业化社会对流动劳动力的结构性需求迫使国家通过统一公共教育发明同质的高阶民族文化。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. xii)]]
 > > - **Anderson（1983/2016）** 批评其功能主义与工具主义取向，强调印刷资本主义与大众媒介所形塑的文化想象风格与[[Horizontal Comradeship|横向同志情谊]]。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 6)]]

@@ -24,7 +24,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Total Factor Productivity]]"
   - "[[Cognitive Decoupling]]"
-  - "[[Pride in Learning]]"
   - "[[Transnational Education]]"
   - "[[Policy Borrowing]]"
   - "[[De-Westernisation]]"
@@ -47,6 +46,7 @@ related_instruments: []
 related_persons:
   - "[[Francis Fukuyama]]"
   - "[[Samuel P. Huntington]]"
+  - "[[Fernand Braudel]]"
   - "[[Edward Said]]"
 related_facts:
   - "[[Huntington-Wallace Line]]"
@@ -75,7 +75,7 @@ updated: 2026-11-11
 > [!theory-origin] 理论形成脉络
 > - **提出者与原始文本** 塞缪尔·P. [[Samuel P. Huntington|亨廷顿]]于 1993 年在《外交事务》（*Foreign Affairs*）发表论文《文明的冲突？》（*The Clash of Civilizations?*），后于 1996 年出版专著《文明的冲突与世界秩序的重建》（*The Clash of Civilizations and the Remaking of World Order*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Huntington, 1993; cited in Karp & Zamiska, 2025, p. 85)]]
 > - **原初问题** 苏联解体与东欧剧变后，两极冷战结构瓦解，南斯拉夫内战与高加索冲突等区域战争展现出强烈的族群与宗教撕裂特征，既有现实主义均势理论与自由主义全球化[[Paradigm|范式]]难以解释此类冲突。
-> - **理论资源与材料** 汲取斯宾格勒（Oswald Spengler）、汤因比（Arnold Toynbee）与布罗代尔（Fernand Braudel）的文明史观，结合英国学者威廉·华莱士（William Wallace）关于西欧中世纪基督教边界的历史考证（[[Huntington-Wallace Line|亨廷顿-华莱士线]]）。
+> - **理论资源与材料** 汲取斯宾格勒（Oswald Spengler）、汤因比（Arnold Toynbee）与[[Fernand Braudel|布罗代尔]]（Fernand Braudel）的文明史观，结合英国学者威廉·华莱士（William Wallace）关于西欧中世纪基督教边界的历史考证（[[Huntington-Wallace Line|亨廷顿-华莱士线]]）。
 > - **形成路径** 亨廷顿通过将世界划分为主要文明板块，界定文明核心国与断层线国家，构建了冷战后大国博弈与区域冲突预测的地缘[[Analytic Framework|分析框架]]。
 
 > [!dev-timeline] 理论演变与论辩发展
@@ -99,7 +99,7 @@ updated: 2026-11-11
 ---
 
 > [!theory-proposition] 命题一｜冷战后全球政治冲突的深层根源在于文明认同而非意识形态或经济利益
-> [[Samuel P. Huntington|亨廷顿]]主张，现代化并不等同于西方化。非西方社会在经济和军事实力增强的过程中，反而强化了对本土文明传统的文化[[Pride in Learning|自豪]]感（本土化复兴），进而挑战西方霸权。冷战时期由意识形态划定的阵营让位于由宗教、历史叙事和语言维系的文明纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Huntington, 1993; Karp & Zamiska, 2025, p. 85)]]
+> [[Samuel P. Huntington|亨廷顿]]主张，现代化并不等同于西方化。非西方社会在经济和军事实力增强的过程中，反而强化了对本土文明传统的文化自豪感（本土化复兴），进而挑战西方霸权。冷战时期由意识形态划定的阵营让位于由宗教、历史叙事和语言维系的文明纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Huntington, 1993; Karp & Zamiska, 2025, p. 85)]]
 
 > [!example|notitle]
 > 在[[Transnational Education|跨国教育]][[Policy Borrowing|政策借用]]中，非西方国家在引进西方科学技术（硬技术）的同时，往往坚决抵制西方关于人权、世俗化与通识价值的规范输出，呈现出“技术现代化与文化[[De-Westernisation|去西方化]]”并行的制度特征。

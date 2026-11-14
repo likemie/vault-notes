@@ -21,14 +21,21 @@ tags:
   - theme/medieval-history
 related_concepts:
   - "[[Dynastic Realm]]"
+  - "[[Normal School]]"
+  - "[[Epistemology]]"
+  - "[[Paradigm]]"
+  - "[[Nationalism]]"
   - "[[Messianic Time]]"
   - "[[Truth-Language]]"
-related_theories: []
+related_theories:
+  - "[[Imagined Community]]"
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Benedict Anderson]]"
   - "[[Lucien Febvre]]"
+  - "[[Fernand Braudel]]"
+  - "[[Walter Benjamin]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
@@ -53,7 +60,7 @@ updated: 2026-11-11
 ---
 
 > [!timeline] 生平与学术历程
-> - **1886** 出生于里昂一个犹太学者家庭，毕业于巴黎高等师范学院，早年深受埃米尔·涂尔干（Émile Durkheim）社会学思想熏陶。
+> - **1886** 出生于里昂一个犹太学者家庭，毕业于巴黎高等[[Normal School|师范学院]]，早年深受埃米尔·涂尔干（Émile Durkheim）社会学思想熏陶。
 > - **1914–1918** 第一次世界大战爆发后应征入伍，历任步兵中士至上尉，因作战英勇屡获战功勋章。
 > - **1919–1929** 任教于斯特拉斯堡大学，与[[Lucien Febvre|吕西安·费弗尔]]结为学术挚友，1924年出版开拓性名著《摸彩国王》，系统考证英法君主触摸治疗瘰疬病的神圣王权仪式。
 > - **1929** 与费弗尔联合创办《经济与社会史年鉴》（*Annales d'histoire économique et sociale*），标志着年鉴学派的正式诞生。
@@ -65,7 +72,7 @@ updated: 2026-11-11
 > [!work-line] 主要著作
 > - **1924 — *Les Rois Thaumaturges*（《摸彩国王》/《国王神迹》）** 运用宗教人类学与历史社会学方法，剖析英法君主通过肉身接触治愈病患的王权奇迹信仰，揭示王朝统治依赖超自然神圣魅力的生成机制。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, p. 20, n. 26)]]
 > - **1939–1940 — *La Société féodale*（《封建社会》）** 跨越欧洲中世纪全景，分析从贵族文盲阶层的视觉象征阅读，到弥赛亚末世时间感知的整体精神气质，构成安德森论证中世纪共同体表象风格的基础。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 15, 23)]]
-> - **1949 — *Apologie pour l'histoire ou Métier d'historien*（《历史学家的技艺》）** 经典史学认识论手稿，确立历史学作为“理解人类过去的科学”的跨学科证据检验与历史批判标准。
+> - **1949 — *Apologie pour l'histoire ou Métier d'historien*（《历史学家的技艺》）** 经典史学[[Epistemology|认识论]]手稿，确立历史学作为“理解人类过去的科学”的跨学科证据检验与历史批判标准。
 
 ---
 
@@ -75,9 +82,9 @@ updated: 2026-11-11
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 与费弗尔共同奠定法国年鉴学派基础，深刻影响了布罗代尔（Fernand Braudel）、勒高夫（Jacques Le Goff）等后继史学大家的心态史与长时段理论。
-> - **方法路径** 倡导总体史（total history）观念，将民俗学、语言学、人类学与经济统计引入史料考证，革新了中世纪社会文化史的实证范式。
-> - **对民族主义研究的启发** 为安德森等学者提供了理解前现代王权合法性构建、视觉象征读图机制及时间断裂的深层历史人类学基底。
+> - **理论路径** 与费弗尔共同奠定法国年鉴学派基础，深刻影响了[[Fernand Braudel|布罗代尔]]（Fernand Braudel）、勒高夫（Jacques Le Goff）等后继史学大家的心态史与长时段理论。
+> - **方法路径** 倡导总体史（total history）观念，将民俗学、语言学、人类学与经济统计引入史料考证，革新了中世纪社会文化史的实证[[Paradigm|范式]]。
+> - **对[[Nationalism|民族主义]]研究的启发** 为安德森等学者提供了理解前现代王权合法性构建、视觉象征读图机制及时间断裂的深层历史人类学基底。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Anderson_2016_Verso_Ch02|Anderson (2016)]] — 引述布洛赫关于神圣王权治愈力、中世纪贵族读图机制以及末世时间紧迫感的心态史材料，支撑对王朝领域合法性与均质时间断裂的理论论证。
@@ -86,7 +93,7 @@ updated: 2026-11-11
 
 > [!person-network] 关系网络
 > - **学术同仁** [[Lucien Febvre|吕西安·费弗尔]] — 斯特拉斯堡大学同事，共同创办《经济与社会史年鉴》，携手开创法国年鉴学派的心态史学传统。
-> - **思想对话者** [[Benedict Anderson|本尼迪克特·安德森]] — 安德森在《想象的共同体》中频繁引述其对中世纪末世迫近时间观与神圣王权仪式的考证。
+> - **思想对话者** [[Benedict Anderson|本尼迪克特·安德森]] — 安德森在《[[Imagined Community|想象的共同体]]》中频繁引述其对中世纪末世迫近时间观与神圣王权仪式的考证。
 
 ---
 
@@ -96,7 +103,7 @@ updated: 2026-11-11
 > > 探讨前现代社会的心态结构中，究竟是末日审判的垂直降临构成了支配性时间维度，还是世俗连续的历史演进意识已初具雏形。
 > >
 > > - **Bloch（1939）** 考证中世纪欧洲人深信末日随时可能降临，这一普遍的末世迫近心态阻碍了面向未来的世俗长远筹划。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, p. 23)]]
-> > - **[[Argument_Anderson_2016_Verso_Ch02|Anderson (2016)]]** 结合瓦尔特·本雅明的弥赛亚时间论述，将布洛赫的心态史材料提炼为传统宗教与王朝领域赖以维系的同时性感知结构。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, p. 24)]]
+> > - **[[Argument_Anderson_2016_Verso_Ch02|Anderson (2016)]]** 结合[[Walter Benjamin|瓦尔特·本雅明]]的[[Messianic Time|弥赛亚时间]]论述，将布洛赫的心态史材料提炼为传统宗教与王朝领域赖以维系的同时性感知结构。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, p. 24)]]
 
 ---
 

@@ -54,6 +54,7 @@ related_methods:
 related_persons:
   - "[[Immanuel Wallerstein]]"
   - "[[Robert Arnove]]"
+  - "[[Fernand Braudel]]"
   - "[[Immanuel Kant]]"
   - "[[Carlos Alberto Torres]]"
   - "[[John W. Meyer]]"
@@ -110,7 +111,7 @@ updated: 2026-11-11
 > [!theory-components] 核心分析构件
 > - **单一国际劳动分工与不平等交换** 资本主义世界体系的运转不依赖单一全球政府，而是依靠跨国界商品链与劳动分工将不同地区咬合在一起。剩余价值通过“不平等交换”机制持续从边缘流向中心，使中心国家的资本积累与边缘国家的相对贫困化成为同一历史进程的两面。
 > - **半边缘的结构稳定机制** 半边缘不仅是经济过渡状态，更是维持世界体系稳定的政治防震层。它防止了边缘群体对中心掠夺形成两极对立的全球两极极化革命，展现出复杂的局部产业升级与区域次级霸权特征。
-> - **长时段动力学与霸权更迭周期** 借鉴法国年鉴学派费尔南·布罗代尔（Fernand Braudel）的“长时段”（la longue durée）理论，世界体系的运转受制于周期性的[[Immanuel Kant|康德]]拉季耶夫长波（K-waves）与霸权兴衰周期（荷兰 $\to$ 英国 $\to$ 美国）。
+> - **长时段动力学与霸权更迭周期** 借鉴法国年鉴学派[[Fernand Braudel|费尔南·布罗代尔]]（Fernand Braudel）的“长时段”（la longue durée）理论，世界体系的运转受制于周期性的[[Immanuel Kant|康德]]拉季耶夫长波（K-waves）与霸权兴衰周期（荷兰 $\to$ 英国 $\to$ 美国）。
 > - **破除“[[Methodological Nationalism|方法论民族主义]]”** 理论坚决反对以主权国家作为[[Doxa|不言自明]]的自足[[Unit of Analysis|分析单元]]，主张资本主义世界经济体本身是唯一具有实体性因果解释力的社会现实。
 
 ---

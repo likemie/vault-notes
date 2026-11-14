@@ -66,8 +66,10 @@ related_persons:
   - "[[José de San Martín]]"
   - "[[Adamantios Koraes]]"
   - "[[Alexandre de Rhodes]]"
+  - "[[Fernand Braudel]]"
   - "[[Benedict Anderson]]"
   - "[[Eric Hobsbawm]]"
+  - "[[Anthony D. Smith]]"
 related_facts:
   - "[[EU]]"
 status: draft
@@ -289,7 +291,7 @@ updated: 2026-11-14
 > [!sub-claim] 5.3 民族传记从冷酷人口统计中抢夺暗杀与屠杀重铸为神圣牺牲
 
 > [!mechanism] [[Necropolitics|死亡政治学]]机制：从世俗人口死亡率中截取并升华为神圣牺牲
-> 构成民族传记核心骨架的死亡，带有特殊的政治含义。费尔南·布罗代尔（Braudel, 1972）在《菲利普二世时代的地中海和地中海世界》中把日常政治事件比作微弱尘埃，强调千百万普通人的生老病死最终汇入了冷冰冰的总体死亡率。
+> 构成民族传记核心骨架的死亡，带有特殊的政治含义。[[Fernand Braudel|费尔南·布罗代尔]]（Braudel, 1972）在《菲利普二世时代的地中海和地中海世界》中把日常政治事件比作微弱尘埃，强调千百万普通人的生老病死最终汇入了冷冰冰的总体死亡率。
 > 但民族自传完全跨过了这种平均化的世俗统计，专门从中截取具有强烈政治象征意义的自杀、就义、暗杀、处决与大屠杀，通过叙事修辞把这些暴力死难改写为全体公民必须共同铭记的神圣牺牲，从而为有限且拥有主权的政治共同体赋予超越生死的崇高感 (p. 210)。
 
 > [!contrast-table] 个人自传与民族传记的情节构织机制对比
@@ -311,7 +313,7 @@ updated: 2026-11-14
 > [[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）在后记中剖析了该书1983年出版时的四重论战意图：
 > 1. **支持汤姆·奈恩的批判** 在英国语境下支持汤姆·奈恩《不列颠的解体》（Nairn, 1977）关于联合王国属于前共和帝国残余的论断，批判古典马克思主义在民族主义理论上的回避；
 > 2. **批判自由主义与保守主义的盲区** 指出民族主义能够激发数百万人自愿赴死的情感力量，是自由主义或保守主义无法解释的（现实中从未出现过“无名马克思主义者之墓”或“阵亡自由主义者[[Tomb of the Unknown Soldier|衣冠冢]]”）；
-> 3. **打破欧洲中心主义** 基于在印尼与暹罗的长期深耕经验，批评欧内斯特·盖尔纳（Gellner, 1983）、埃里克·[[Eric Hobsbawm|霍布斯鲍姆]]（Hobsbawm, 1990）与安东尼·史密斯（Smith, 1986）的欧洲中心主义，以西属美洲经验证明民族主义起源于新大陆而非欧洲；
+> 3. **打破欧洲中心主义** 基于在印尼与暹罗的长期深耕经验，批评欧内斯特·盖尔纳（Gellner, 1983）、埃里克·[[Eric Hobsbawm|霍布斯鲍姆]]（Hobsbawm, 1990）与[[Anthony D. Smith|安东尼·史密斯]]（Smith, 1986）的欧洲中心主义，以西属美洲经验证明民族主义起源于新大陆而非欧洲；
 > 4. **打破大国沙文主义的傲慢** 针对美苏及中印等大国在认知上的闭目塞听（社会学家卡尔·多伊奇［Deutsch, 1966］曾指出“权力就是不用去倾听”），特别聚焦匈牙利、泰国、瑞士、越南与菲律宾等中小国家经验 (pp. 212–215)。
 
 > [!sub-claim] 6.2 各国独立左翼出版商出于本土政治斗争需要主动引进并翻译该书
@@ -364,7 +366,7 @@ updated: 2026-11-14
 > *The effect of this tropology is to figure episodes in the colossal religious conflicts of mediaeval and early modern Europe as reassuringly fratricidal wars between – who else? – fellow Frenchmen. Since we can be confident that, left to themselves, the overwhelming majority of Renan’s French contemporaries would never have heard of ‘la Saint-Barthélemy’ or ‘les massacres du Midi,’ we become aware of a systematic historiographical campaign, deployed by the state mainly through the state’s school system, to ‘remind’ every young Frenchwoman and Frenchman of a series of antique slaughters which are now inscribed as ‘family history.’ Having to ‘have already forgotten’ tragedies of which one needs unceasingly to be ‘reminded’ turns out to be a characteristic device in the later construction of national genealogies.*
 
 > [!citation-card] [[National Biography|民族传记]]的时间倒溯与神圣死亡收编
-> 民族缺乏清晰可考的生物学诞生，其寿命即便终结也属于非自然现象。因为没有具名的始祖，民族传记无法像福音书那样顺着世代繁衍记录谱系。唯一的办法是逆着时间长河倒推传记，投向北京人、爪哇人或亚瑟王，投向考古学微弱灯光照亮的一切深处。然而这种构筑过程却由死亡所标志，并对传统家谱进行了奇特的倒置：从当下的现实出发，二战催生了一战，色当战败孕育了奥斯特利茨胜利，华沙起义成为以色列国的精神先驱。民族自传对抗着平均化的世俗死亡率，从布罗代尔无情累积的墓地中截取示范性的自杀、就义、暗杀、处决与大屠杀，将这些暴力死亡转化为属于全民族的神圣资产。(pp. 209–210)
+> 民族缺乏清晰可考的生物学诞生，其寿命即便终结也属于非自然现象。因为没有具名的始祖，民族传记无法像福音书那样顺着世代繁衍记录谱系。唯一的办法是逆着时间长河倒推传记，投向北京人、爪哇人或亚瑟王，投向考古学微弱灯光照亮的一切深处。然而这种构筑过程却由死亡所标志，并对传统家谱进行了奇特的倒置：从当下的现实出发，二战催生了一战，色当战败孕育了奥斯特利茨胜利，华沙起义成为以色列国的精神先驱。民族自传对抗着平均化的世俗死亡率，从[[Fernand Braudel|布罗代尔]]无情累积的墓地中截取示范性的自杀、就义、暗杀、处决与大屠杀，将这些暴力死亡转化为属于全民族的神圣资产。(pp. 209–210)
 >
 > *Nations, however, have no clearly identifiable births, and their deaths, if they ever happen, are never natural. Because there is no Originator, the nation’s biography can not be written evangelically, ‘down time,’ through a long procreative chain of begettings. The only alternative is to fashion it ‘up time’ – towards Peking Man, Java Man, King Arthur, wherever the lamp of archaeology casts its fitful gleam. This fashioning, however, is marked by deaths, which, in a curious inversion of conventional genealogy, start from an originary present. World War II begets World War I; out of Sedan comes Austerlitz; the ancestor of the Warsaw Uprising is the state of Israel... From Braudel’s remorselessly accumulating cemeteries, however, the nation’s biography snatches, against the going mortality rate, exemplary suicides, poignant martyrdoms, assassinations, executions, wars, and holocausts. But, to serve the narrative purpose, these violent deaths must be remembered/forgotten as ‘our own.’*
 

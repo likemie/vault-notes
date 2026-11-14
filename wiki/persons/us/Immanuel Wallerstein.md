@@ -45,6 +45,8 @@ related_methods:
   - "[[Ethnography]]"
 related_instruments: []
 related_persons:
+  - "[[Fernand Braudel]]"
+  - "[[Alexandre de Rhodes]]"
   - "[[Robert Arnove]]"
   - "[[Stanford School]]"
   - "[[John W. Meyer]]"
@@ -66,7 +68,7 @@ updated: 2026-11-02
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国历史社会学家、国际政治经济学家与新马克思主义理论家；曾任国际社会学学会（[[International Schools Association|ISA]]）主席（1994–1998）、纽约州立大学宾汉姆顿分校费尔南·布罗代尔经济、历史体系与文明研究中心主任，以及耶鲁大学资深高级研究学者。
+> - **身份位置** 美国历史社会学家、国际政治经济学家与新马克思主义理论家；曾任国际社会学学会（[[International Schools Association|ISA]]）主席（1994–1998）、纽约州立大学宾汉姆顿分校[[Fernand Braudel|费尔南·布罗代尔]]经济、历史体系与文明研究中心主任，以及耶鲁大学资深高级研究学者。
 > - **核心角色** [[World-Systems Theory|世界体系分析]]（World-Systems Analysis, WSA）的开创者；在批判传统现代化理论与拉美[[Dependency Theory|依附论]]静态模型的基础上，以资本主义世界经济的“中心—半边缘—边缘”三层结构和长时段历史动力学重塑了当代宏观社会科学，为比较教育学解构跨国资本积累、援助霸权控制以及教育[[Institutional Layering|制度分层]]固化提供了核心政治经济学支柱。
 > - **代表贡献** 创立资本主义[[World-Systems Theory|世界体系理论]]；确立长时段（la longue durée）与系统分析的结合；出版四卷本奠基性巨著《现代世界体系》（*The Modern World-System*, 1974, 1980, 1989, 2011）；倡导“反思 19 世纪社会科学”（unthinking nineteenth-century social science），弥合实证规律法则与叙事历史人文学科的二元割裂。
 
@@ -91,7 +93,7 @@ updated: 2026-11-02
 > [!thought-timeline] 思想发展
 > - **1960 年代 — 非洲实地考察与反思[[Developmentalism|发展主义]]** 深入西非考察去殖民化运动，发现边缘国家不发达的根源在于长期卷入欧美中心国家主导的不等价贸易交换与全球依附结构，超越了内部技术或资本暂时匮乏的传统解释。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 104)]]
 >   - **代表成果** 非洲去殖民化与民族独立专著。
->   - **理论思想渊源** 吸收马克思主义政治经济学、安德烈·贡德·弗兰克（Andre Gunder Frank）的[[Dependency Theory|依附理论]]，以及萨米尔·阿明（Samir Amin）与沃尔特·罗德尼（Walter Rodney）的不均衡发展理论。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 101)]]
+>   - **理论思想渊源** 吸收马克思主义政治经济学、安德烈·贡德·弗兰克（Andre Gunder Frank）的[[Dependency Theory|依附理论]]，以及萨米尔·阿明（Samir Amin）与沃尔特·[[Alexandre de Rhodes|罗德]]尼（Walter Rodney）的不均衡发展理论。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 101)]]
 > - **1970–1980 年代 — 现代世界体系与长时段历史动力学** 借鉴法国年鉴学派布罗代尔（Fernand Braudel）的“长时段”历史学，系统构筑以 1450–1600 年“漫长的 16 世纪”为起点的资本主义世界经济整体论。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104, 114)]]
 >   - **代表著作** *The Modern World-System*（卷一 1974，卷二 1980，卷三 1989）。
 >   - **理论推进** 提出“半边缘（semi-periphery）”缓冲机制，阐释荷兰、英国到美国霸权的兴衰更迭规律，指出资本主义世界经济体本身是唯一真实自足的[[Unit of Analysis|分析单位]]，打破了将孤立国家作为自足实体的传统假定。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–105)]]
