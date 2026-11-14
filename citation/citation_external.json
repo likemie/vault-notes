@@ -944,6 +944,8 @@
     "Anthony (2016)": "Anthony, 2016",
     "Anthony Biglan (1973)": "Anthony Biglan, 1973",
     "Anthony Biglan, 1973": "Anthony Biglan, 1973",
+    "Anthony D. Smith (1995)": "Anthony D. Smith, 1995",
+    "Anthony D. Smith, 1995": "Anthony D. Smith, 1995",
     "Anthony, 2016": "Anthony, 2016",
     "Antoni Verger et al. (2019)": "Antoni Verger et al., 2019",
     "Antoni Verger et al., 2019": "Antoni Verger et al., 2019",
@@ -7327,7 +7329,9 @@
     "Erlenmeyer-Kimling & Jarvik (1963)": "Erlenmeyer-Kimling & Jarvik, 1963",
     "Erlenmeyer-Kimling & Jarvik, 1963": "Erlenmeyer-Kimling & Jarvik, 1963",
     "Ernest Gellner (1983)": "Ernest Gellner, 1983",
+    "Ernest Gellner (1995)": "Ernest Gellner, 1995",
     "Ernest Gellner, 1983": "Ernest Gellner, 1983",
+    "Ernest Gellner, 1995": "Ernest Gellner, 1995",
     "Ernest Rutherford (1900)": "Ernest Rutherford, 1900",
     "Ernest Rutherford, 1900": "Ernest Rutherford, 1900",
     "Ernst (2001)": "Ernst, 2001",
@@ -34777,6 +34781,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/higher-education/Biglan's Disciplinary Classification Scheme.md"
+      ],
+      "title": ""
+    },
+    "Anthony D. Smith, 1995": {
+      "aliases": [
+        "Anthony D. Smith, 1995",
+        "Anthony D. Smith (1995)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Anthony D. Smith, 1995"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/uk/Anthony D. Smith.md"
       ],
       "title": ""
     },
@@ -81561,6 +81580,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch01.md"
+      ],
+      "title": ""
+    },
+    "Ernest Gellner, 1995": {
+      "aliases": [
+        "Ernest Gellner, 1995",
+        "Ernest Gellner (1995)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ernest Gellner, 1995"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/uk/Anthony D. Smith.md"
       ],
       "title": ""
     },

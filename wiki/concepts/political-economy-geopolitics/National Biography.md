@@ -9,10 +9,10 @@ aliases:
 summary: "本尼迪克特·安德森提出的现代民族认同叙事建构理论。现代民族在经历18世纪末世俗化与革命的深刻历史断裂后产生集体失忆，进而效仿现代个人传记模式构建叙事。与个人传记沿时间顺流而下（从出生到死亡）不同，民族传记溯流而上，从当下现实投射至远古始祖，并将无名死难者中具有政治象征意义的暴力死亡重构为归属于民族自身的历史谱系。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/political-philosophy
   - theme/nationalism

@@ -8,7 +8,7 @@ aliases:
 summary: "本尼迪克特·安德森在后记中提出的跨国知识传播与理论挪用机制。边缘与外围社会的知识分子出于本土政治斗争与现实思想危机，在未经中心学术霸权授权、不受原产地理论初始解释框定的前提下，主动对外部理论进行引介、转译与创造性重构，打破自西方中心单向扩散的时间等级神话。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

@@ -8,10 +8,10 @@ summary: "法国著名历史学家，年鉴学派联合创始人，代表作《�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 6
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 13
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: 1886
 died: 1944
 lifespan: "1886–1944"
@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
