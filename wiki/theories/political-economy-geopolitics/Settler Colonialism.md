@@ -6,7 +6,7 @@ aliases:
 summary: "沃尔夫提出的殖民主义形式理论，核心是消除的逻辑而非剥削的逻辑，近年被西方学者用于分析新疆的汉人移民与维吾尔人关系"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 8
+theory_related_count: 9
 theory_related_level: 0
 theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
+  - "[[Indigenismo]]"
   - "[[Nationalism]]"
 related_theories:
   - "[[Necropolitics]]"
@@ -38,13 +39,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
 
 > [!def] Settler Colonialism
-> 定居殖民主义（Settler Colonialism）是一种特殊的殖民主义形式。其核心特征在于，定居者并非旨在剥削土著居民的劳动力，而是遵循“消除的逻辑”（logic of elimination），通过系统性侵占土地并以定居者人口替代土著居民，实现对土著政治、文化与肉体存在的结构性消除。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 99]]) 这一概念最早由帕特里克·沃尔夫（Patrick Wolfe, 2006）系统化提出。
+> 定居殖民主义（Settler Colonialism）是一种特殊的殖民主义形式。其核心特征在于，定居者遵循“消除的逻辑”（logic of elimination），重在永久占领土地并以定居人口替代土著居民，实现对土著政治、文化与肉体存在的结构性消除，有别于传统殖民主义对劳动力的剥削。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 99]]) 这一概念最早由帕特里克·沃尔夫（Patrick Wolfe, 2006）系统化提出。
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向以消除或替换土著人口为核心逻辑的持续主权占领，而非暂时的资源开发。
@@ -83,11 +84,11 @@ updated: 2026-11-11
 > [!debates] [[Paradigm\|范式]]局限与去政治化效果
 > 
 > > [!axis] 西方学术与国家控制的“合谋”
-> > - **布拉格（[[Argument_Bulag_2024_CE\|Bulag, 2024]]）的批判** 将新疆框定为殖民地虽然道德立场鲜明，却在政治效果上面临深刻悖论。定居殖民主义以“土著人”[[Discourse|话语]]为武器，而根据国际法，土著人地位并不支持要求将定居者遣返原籍（因为现状已被国际社会默认），反而是将反殖民自决权降格为国家主权框架内的内部人权与自治请求，客观上锁死了少数民族的行动边界。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 100]])
+> > - **布拉格（[[Argument_Bulag_2024_CE\|Bulag, 2024]]）的批判** 将新疆框定为殖民地虽然道德立场鲜明，却在政治效果上面临深刻悖论。定居殖民主义以“土著人”[[Discourse|话语]]为武器，而根据国际法，土著人地位不支持要求将定居者遣返原籍（因为现状已被国际社会默认），进而将反殖民自决权降格为国家主权框架内的内部人权与自治请求，客观上锁死了少数民族的行动边界。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 100]])
 > > - **消解宪法自治权** 该框架将地方与中央的关系赤裸裸地界定为殖民关系，实际上抹杀并否定了该地区作为“维吾尔自治区”的官方宪法地位，使少数民族的宪法自治权利变得多余。这在客观上与国家掏空、削弱自治区自治权力的努力达成了非意图的话语合谋。
 > 
 > > [!axis] 土著话语与政治双重标准
-> > - **托马斯·阿尔伯茨（Thomas Alberts, 2015）的发现** 全球土著主义调查表明，与土著相关的政策和国际法自 1940 年代以来多被设计为促进同化，自决权已被收缩为国家框架内部的改良性自治。
+> > - **托马斯·阿尔伯茨（Thomas Alberts, 2015）的发现** 全球[[Indigenismo|土著主义]]调查表明，与土著相关的政策和国际法自 1940 年代以来多被设计为促进同化，自决权已被收缩为国家框架内部的改良性自治。
 > > - **西方学者的双重标准** 达伦·拜勒（Darren Byler）等《新疆元年》的编辑们在学术上积极宣扬定居殖民主义并使用“土著”概念，但在政治实践中却拒绝支持维吾尔人的独立自决。他们担心的理由是许多东突厥斯坦倡导者似乎是“排他性的右翼族裔[[Nationalism|民族主义]]”，从而暴露了西方左翼学术的政治虚伪与对少数民族政治主体性的二次剥夺。
 
 ---

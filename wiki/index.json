@@ -12891,6 +12891,17 @@
     ]
   },
   {
+    "title": "Awakening from Sleep",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Awakening from Sleep.md",
+    "aliases": [
+      "苏醒隐喻",
+      "从沉睡中苏醒",
+      "民族苏醒隐喻",
+      "从沉睡中苏醒隐喻"
+    ]
+  },
+  {
     "title": "Banal Imperialism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Banal Imperialism.md",
@@ -13736,6 +13747,16 @@
     ]
   },
   {
+    "title": "Indigenismo",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Indigenismo.md",
+    "aliases": [
+      "土著主义",
+      "印第安主义",
+      "拉美土著主义"
+    ]
+  },
+  {
     "title": "Informationalization",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Informationalization.md",
@@ -14397,6 +14418,17 @@
       "多语种帝国",
       "多方言王朝帝国",
       "Polyvernacular Dynastic Empire"
+    ]
+  },
+  {
+    "title": "Positive Piracy",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Positive Piracy.md",
+    "aliases": [
+      "正向盗版",
+      "生产性盗版",
+      "积极盗版",
+      "Piracy in the Positive Sense"
     ]
   },
   {
