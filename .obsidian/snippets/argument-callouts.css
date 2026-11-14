@@ -27411,9 +27411,10 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
 html body .callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content table.entry-map-colors {
   --entry-map-paper:var(--ac-paper,var(--background-primary));
   --entry-map-divider:color-mix(in srgb,var(--text-muted) 13%,transparent);
+  --entry-map-row-divider:color-mix(in srgb,var(--text-muted) 7%,transparent);
   --entry-map-gutter:clamp(.42rem,1.5cqi,.85rem);
   --entry-map-row-tint:4%;
-  --entry-map-active-tint:9%;
+  --entry-map-active-tint:15%;
   width:100% !important;
   border:1px solid var(--entry-map-divider) !important;
   border-radius:10px !important;
@@ -27472,7 +27473,7 @@ html body .callout.callout.callout.callout.callout.callout[data-callout="entry-m
   & tbody td {
     background:var(--entry-map-reading-surface) !important;
     border:0 !important;
-    border-block-end:1px solid var(--entry-map-divider) !important;
+    border-block-end:1px solid var(--entry-map-row-divider) !important;
     box-shadow:none !important;
     font-size:.94em !important;
     line-height:1.66 !important;
@@ -27500,12 +27501,31 @@ html body .callout.callout.callout.callout.callout.callout[data-callout="entry-m
     text-underline-offset:.2em;
   }
 
-  & tbody tr:is(:hover,:focus-within) {
+  & tbody tr:focus-within {
     --entry-map-row-tint:var(--entry-map-active-tint);
   }
 
+  & tbody tr:focus-within td:first-child a.internal-link {
+    text-decoration-color:var(--entry-type-tone) !important;
+  }
+
+  @media (hover:hover) {
+    & tbody tr:hover { --entry-map-row-tint:var(--entry-map-active-tint); }
+    & tbody tr:hover td:first-child a.internal-link {
+      text-decoration-color:var(--entry-type-tone) !important;
+    }
+  }
+
   @media (prefers-reduced-motion:no-preference) {
-    & tbody td { transition:background-color 160ms ease !important; }
+    & tbody td {
+      transition:background-color 280ms ease-out !important;
+    }
+    & tbody td:first-child a.internal-link {
+      transition:text-decoration-color 280ms ease-out !important;
+    }
+    & tbody tr:is(:hover,:focus-within) :is(td,td:first-child a.internal-link) {
+      transition-duration:160ms !important;
+    }
   }
 }
 

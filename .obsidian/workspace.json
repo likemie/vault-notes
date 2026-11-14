@@ -113,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -328,8 +328,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "96c685dea1ff308e",
+  "active": "dcfc1210476513af",
   "lastOpenFiles": [
+    "wiki/concepts/political-economy-geopolitics/Print-Capitalism.md",
+    "wiki/theories/political-economy-geopolitics/Imagined Community.md",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch11-5ff1b0a6/batch-007/result.json",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch11-5ff1b0a6/batch-006/result.json",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch11-5ff1b0a6/batch-005/result.json",
@@ -344,7 +346,6 @@
     "output/related-updates/Argument_Anderson_2016_Verso_Ch11-5ff1b0a6/batch-009/batch-result.schema.json",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch11-5ff1b0a6/batch-008/batch-result.schema.json",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch11-5ff1b0a6/batch-007/prompt.md",
-    "output/related-updates/Argument_Anderson_2016_Verso_Ch11-5ff1b0a6/batch-007/batch-result.schema.json",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch11-5ff1b0a6/batch-006/prompt.md",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch11-5ff1b0a6/batch-005/prompt.md",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch11-5ff1b0a6/batch-004/prompt.md",
@@ -352,8 +353,6 @@
     "output/related-updates/Argument_Anderson_2016_Verso_Ch11-5ff1b0a6/batch-003/prompt.md",
     "output/related-updates/Argument_Anderson_2016_Verso_Ch11-5ff1b0a6/batch-001/prompt.md",
     "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md",
-    "wiki/concepts/political-economy-geopolitics/Print-Capitalism.md",
-    "wiki/theories/political-economy-geopolitics/Imagined Community.md",
     "wiki/templates/template-concept.md",
     "wiki/templates/template-fact-eef-programme.md",
     "wiki/templates/template-theory.md",

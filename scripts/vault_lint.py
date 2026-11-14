@@ -1009,8 +1009,28 @@ def entry_map_row_is_argument(cells: List[str]) -> bool:
     return False
 
 
-def check_entry_map_arguments(path: Path, text: str, issues: List[Issue]) -> None:
-    """条目关联与理论构件都不把 Argument 列为条目。"""
+ENTRY_MAP_TYPE_ALIASES = {
+    "概念": "concept",
+    "理论": "theory",
+    "方法": "method",
+    "工具": "instrument", "量表": "instrument", "测量工具": "instrument",
+    "人物": "person",
+    "事实": "fact", "机构": "fact", "组织": "fact", "政策": "fact",
+    "事件": "fact", "项目": "fact",
+}
+
+
+def entry_map_type(label: str) -> str:
+    """Match the display's known type families while keeping custom types distinct."""
+    label = label.casefold().strip()
+    base = re.split(r"[(（]", label, maxsplit=1)[0].strip()
+    if base.endswith("事实"):
+        return "fact"
+    return ENTRY_MAP_TYPE_ALIASES.get(base, base if base in ENTRY_MAP_TYPE_ALIASES.values() else label)
+
+
+def check_entry_maps(path: Path, text: str, issues: List[Issue]) -> None:
+    """Check research links and contiguous type groups in entry maps."""
     if TEMPLATES_DIR in path.parents or is_schema_or_workflow_doc(path) or not is_wiki_entry_path(path):
         return
 
@@ -1022,6 +1042,12 @@ def check_entry_map_arguments(path: Path, text: str, issues: List[Issue]) -> Non
     in_map = False
     map_depth = 0
     section = ""
+    group_types = False
+    table_started = False
+    type_column = None
+    table_width = 0
+    seen_types: set[str] = set()
+    previous_type = ""
     line_number = body_start_line
 
     for line in body.splitlines(keepends=True):
@@ -1034,6 +1060,8 @@ def check_entry_map_arguments(path: Path, text: str, issues: List[Issue]) -> Non
             kind = header.group("kind").strip().lower()
             in_map = kind in {"entry-map", "theory-constructs"}
             section = "理论构件" if kind == "theory-constructs" else "条目关联"
+            group_types = kind == "entry-map" and "构件" not in (header.group("title") or "")
+            table_started = False
             map_depth = depth if in_map else 0
             line_number += line.count("\n")
             continue
@@ -1061,6 +1089,32 @@ def check_entry_map_arguments(path: Path, text: str, issues: List[Issue]) -> Non
         content = quoted.group("content").strip()
         if content.startswith("|"):
             cells = entry_map_cells(content)
+            if group_types and not entry_map_separator(cells):
+                if not table_started:
+                    table_started = True
+                    headings = [markdown_visible_text(cell).casefold() for cell in cells]
+                    type_column = None
+                    if not any("构件" in heading for heading in headings):
+                        type_column = next(
+                            (i for i, heading in enumerate(headings) if heading in {"类型", "type"}),
+                            None,
+                        )
+                    table_width = len(cells)
+                    seen_types.clear()
+                    previous_type = ""
+                elif type_column is not None and len(cells) == table_width:
+                    label = markdown_visible_text(cells[type_column])
+                    current_type = entry_map_type(label)
+                    if current_type and current_type != previous_type:
+                        if current_type in seen_types:
+                            issues.append(Issue(
+                                "WARN", rel(path),
+                                f"条目关联的「{label}」分散在多段，请把同类型的行放在一起",
+                                line=line_number,
+                                code="ENTRY_MAP_TYPE_GROUPING",
+                            ))
+                        seen_types.add(current_type)
+                    previous_type = current_type
             if entry_map_row_is_argument(cells):
                 links = ordered_wikilink_targets(cells[0])
                 target = links[0] if links else cells[1].strip()
@@ -1070,15 +1124,17 @@ def check_entry_map_arguments(path: Path, text: str, issues: List[Issue]) -> Non
                     line=line_number,
                     code="ENTRY_MAP_ARGUMENT",
                 ))
-        elif re.match(r"^[-*+]\s+", content):
-            links = ordered_wikilink_targets(content)
-            if links and links[0].startswith("Argument_"):
-                issues.append(Issue(
-                    "ERROR", rel(path),
-                    f"{section}不单列 Argument：{links[0]} 应写入相关研究索引",
-                    line=line_number,
-                    code="ENTRY_MAP_ARGUMENT",
-                ))
+        else:
+            table_started = False
+            if re.match(r"^[-*+]\s+", content):
+                links = ordered_wikilink_targets(content)
+                if links and links[0].startswith("Argument_"):
+                    issues.append(Issue(
+                        "ERROR", rel(path),
+                        f"{section}不单列 Argument：{links[0]} 应写入相关研究索引",
+                        line=line_number,
+                        code="ENTRY_MAP_ARGUMENT",
+                    ))
 
         line_number += line.count("\n")
 
@@ -3746,7 +3802,7 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
     check_duplicate_citations(path, text, data, issues)
     check_related_research_duplicate_books(path, text, by_title, issues)
     check_related_research_entry_length(path, text, issues)
-    check_entry_map_arguments(path, text, issues)
+    check_entry_maps(path, text, issues)
     check_citation_card_language_order(path, text, issues)
 
 
