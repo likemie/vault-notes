@@ -113,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -328,14 +328,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e2374d26ccaac553",
+  "active": "d8039914fdb2fe9c",
   "lastOpenFiles": [
-    "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md",
-    "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso.md",
-    "wiki/arguments/journal-articles/Higher Education Policy/Argument_He_2018_HEP.md",
     "wiki/templates/template-argument-edited-volume.md",
     "wiki/templates/template-argument-monograph.md",
+    "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso.md",
     "wiki/methods/quantitative/Begg and Mazumdar Rank Correlation.md",
+    "tmp/warrant-bridge-20261115.css",
+    "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md",
+    "tmp/exegesis-gloss-20261115.css",
+    "tmp/argument-callouts.backup-20261115.css",
+    "wiki/arguments/journal-articles/Higher Education Policy/Argument_He_2018_HEP.md",
     "wiki/templates/template-argument.md",
     "wiki/persons/greece/Antonis Liakos.md",
     "wiki/persons/global/Azmi Bishara.md",
@@ -356,10 +359,7 @@
     "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch01-e661f4f9/batch-004/prompt.md",
     "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch01-e661f4f9/batch-001/prompt.md",
     "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch01-e661f4f9/batch-003/prompt.md",
-    "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch01-e661f4f9/batch-003/batch-result.schema.json",
     "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch01-e661f4f9/batch-002/prompt.md",
-    "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch01-e661f4f9/batch-002/batch-result.schema.json",
-    "output/related-updates/Argument_Hammermeister_2002_Cambridge_Ch01-e661f4f9/batch-001/batch-result.schema.json",
     "wiki/facts/finland/Finnish PISA Miracle.md",
     "wiki/persons/us/G. William Skinner.md",
     "wiki/persons/italy/Franco Moretti.md",
@@ -368,7 +368,6 @@
     "wiki/templates/template-theory.md",
     "wiki/templates/template-argument-textbook.md",
     "top_Hao_2026_Nature_Fig4_Follow_on_Engagement_and_Overlapping_Works.jpg",
-    "wiki/templates/template-fact-event.md",
     "Claude outputs/callout-preview/compare_timeline_titles.png",
     "Claude outputs/callout-preview/compare_timeline_motion.png",
     "Claude outputs/callout-preview/compare_timeline.png",

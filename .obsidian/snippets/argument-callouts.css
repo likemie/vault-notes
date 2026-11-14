@@ -27681,3 +27681,298 @@ html body .callout.callout.callout.callout.callout:is([data-callout="theory-cons
     & tbody td { transition:background-color 160ms ease !important; }
   }
 }
+
+/* >>> EXEGESIS GLOSS DESIGN · 2026-11-15
+   Shared header grammar with claim, question and lens (eyebrow, serif title, line motif).
+   Own character: a margin gloss lit by amber light. Corner glow, dotted rule, hung note thread, round fold button. */
+@property --ex-glow { syntax: "<percentage>"; inherits: true; initial-value: 8%; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="exegesis"] {
+ --ex-accent: #bf7a2a; --ex-ink: #8e5416; --ex-glow: 8%;
+ --ex-ease: cubic-bezier(.22,.68,.25,1);
+ --callout-color: 191,122,42 !important;
+ --ac-accent: var(--ex-accent) !important; --ac-ink: var(--ex-ink) !important;
+ --list-marker-color: var(--ex-accent);
+ container-type: inline-size; position: relative !important; overflow: hidden !important;
+ padding: 1.1rem 1.4rem 1.05rem !important;
+ background:
+  radial-gradient(130% 150px at 100% 0%, color-mix(in srgb, var(--ex-accent) var(--ex-glow), transparent), transparent 62%),
+  var(--ac-paper) !important;
+ border: 1px solid color-mix(in srgb, var(--ex-accent) 22%, var(--background-modifier-border)) !important;
+ border-radius: 10px !important; box-shadow: none !important; transform: none !important;
+ transition: border-color 260ms var(--ex-ease), --ex-glow 520ms var(--ex-ease) !important;
+
+ &:where(.theme-dark *) { --ex-accent: #dfa462; --ex-ink: #ecc08d; --callout-color: 223,164,98 !important; }
+ &::before, &::after { display: none !important; }
+
+ /* Header: eyebrow, serif title, margin-note motif, fold button */
+ & > .callout-title {
+  position: relative !important; width: 100% !important; box-sizing: border-box; overflow: clip;
+  display: flex !important; align-items: flex-start !important; gap: .6rem !important;
+  padding: 0 0 .85rem !important; margin: 0 0 .9rem !important;
+  border: 0 !important; background: none !important; box-shadow: none !important; cursor: pointer;
+ }
+ & > .callout-title .callout-icon { display: none !important; }
+ & > .callout-title .callout-title-inner {
+  display: block !important; position: relative !important; flex: 1 1 0% !important;
+  width: auto !important; max-width: none !important; min-width: 0 !important;
+  padding: 0 84px 0 0 !important; box-sizing: border-box;
+  font-family: var(--ac-serif) !important; font-weight: 500 !important; letter-spacing: .015em !important; color: var(--text-normal) !important;
+ }
+ & > .callout-title .callout-title-inner::before {
+  content: "EXEGESIS" !important; display: block !important; width: max-content; height: auto !important;
+  margin: 0 0 .45rem !important; padding: 0 0 0 22px !important;
+  font: 600 10.5px/1.5 var(--ac-sans) !important; letter-spacing: .12em !important; text-transform: none !important;
+  background: linear-gradient(var(--ex-accent),var(--ex-accent)) left center / 12px 2px no-repeat !important;
+  border: 0 !important; border-radius: 0 !important; box-shadow: none !important; color: var(--ex-ink) !important;
+  animation: none !important; transition: background-size 280ms var(--ex-ease) !important;
+ }
+ /* Motif: a passage, one underlined line, and the note it leads to */
+ & > .callout-title .callout-title-inner::after {
+  content: "" !important; display: block !important; position: absolute; right: 0; top: 2px;
+  width: 64px; height: 44px; pointer-events: none;
+  background: var(--ex-accent) !important; opacity: .5;
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 44' fill='none' stroke='black' stroke-width='1.2' stroke-linecap='round'%3E%3Cpath d='M5 10h24M5 21h17M5 34h24M25 23c9 0 6-10 15-10'/%3E%3Cpath d='M5 25.5h17' stroke-width='2.2'/%3E%3Crect x='41' y='5' width='18' height='16' rx='2'/%3E%3Cpath d='M45 11h10M45 15h6'/%3E%3C/svg%3E") center / contain no-repeat;
+  mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 44' fill='none' stroke='black' stroke-width='1.2' stroke-linecap='round'%3E%3Cpath d='M5 10h24M5 21h17M5 34h24M25 23c9 0 6-10 15-10'/%3E%3Cpath d='M5 25.5h17' stroke-width='2.2'/%3E%3Crect x='41' y='5' width='18' height='16' rx='2'/%3E%3Cpath d='M45 11h10M45 15h6'/%3E%3C/svg%3E") center / contain no-repeat;
+  border: 0 !important; box-shadow: none !important; margin: 0 !important; padding: 0 !important;
+  transform: translateX(-3px); transform-origin: 80% 30%;
+  transition: transform 420ms var(--ex-ease), opacity 220ms ease !important;
+ }
+ /* Fold: round hairline button */
+ & > .callout-title .callout-fold {
+  flex: 0 0 auto; align-self: center; display: grid !important; place-items: center;
+  width: 26px; height: 26px; padding: 0 !important; margin: 0 !important; border-radius: 50%;
+  border: 1px solid color-mix(in srgb, var(--ex-accent) 34%, transparent);
+  color: var(--ex-ink) !important; background: transparent;
+  transition: background-color 220ms ease, border-color 220ms ease, transform 320ms var(--ex-ease) !important;
+ }
+ & > .callout-title .callout-fold svg { width: 14px; height: 14px; transition: transform 320ms var(--ex-ease) !important; }
+ /* Dotted rule under the header */
+ & > .callout-title::after {
+  content: "" !important; display: block !important; position: absolute; left: 0; right: 0; bottom: 0; height: 2px;
+  background: radial-gradient(circle, var(--ex-accent) 1px, transparent 1.4px) left center / 7px 2px repeat-x;
+  opacity: .5; pointer-events: none;
+ }
+ /* Light that travels along the rule on hover */
+ & > .callout-title::before {
+  content: "" !important; display: block !important; position: absolute; left: -72px; bottom: 0;
+  width: 72px; height: 2px; border-radius: 2px; opacity: 0; pointer-events: none;
+  background: linear-gradient(90deg, transparent, var(--ex-accent), transparent);
+ }
+
+ /* Body: a note hung on a thread */
+ & > .callout-content {
+  position: relative; padding: 0 0 0 1.15rem !important; margin: 0 !important; background: none !important;
+  font: 400 .96em/1.85 var(--ac-sans) !important; letter-spacing: 0 !important;
+  color: var(--text-normal) !important; overflow-wrap: anywhere;
+ }
+ & > .callout-content::before {
+  content: ""; position: absolute; left: 2px; top: .7em; bottom: .35em; width: 1px;
+  background: linear-gradient(var(--ex-accent), color-mix(in srgb, var(--ex-accent) 12%, transparent));
+  opacity: .55; transform-origin: top; pointer-events: none;
+ }
+ & > .callout-content::after {
+  content: ""; position: absolute; left: 0; top: .62em; width: 5px; height: 5px;
+  background: var(--ex-accent); transform: rotate(45deg); pointer-events: none;
+ }
+ & > .callout-content > p { margin: .8em 0 !important; padding-left: 0 !important; }
+ & > .callout-content > :first-child { margin-top: 0 !important; }
+ & > .callout-content > :last-child { margin-bottom: 0 !important; }
+ & > .callout-content > :is(ul, ol) > li::marker { color: var(--ex-accent); }
+ & > .callout-content a.internal-link { color: var(--ex-ink) !important; text-underline-offset: .22em; }
+ & a:focus-visible { outline: 2px solid var(--ex-accent); outline-offset: 3px; }
+
+ /* Open state: rule draws, thread drops, note settles */
+ &:not(.is-collapsed) > .callout-title::after { animation: ex-rule-draw 560ms var(--ex-ease) both; }
+ &:not(.is-collapsed) > .callout-content { animation: ex-note-open 380ms var(--ex-ease) both !important; }
+ &:not(.is-collapsed) > .callout-content::before { animation: ex-thread-drop 640ms var(--ex-ease) 80ms both; }
+ &:not(.is-collapsed) > .callout-content::after { animation: ex-node-pop 420ms var(--ex-ease) 60ms both; }
+
+ /* Collapsed state: one quiet row */
+ &.is-collapsed { --ex-glow: 5%; }
+ &.is-collapsed > .callout-title { margin-bottom: 0 !important; padding-bottom: 0 !important; }
+ &.is-collapsed > .callout-title::after, &.is-collapsed > .callout-title::before { display: none !important; }
+ &.is-collapsed > .callout-title .callout-title-inner::after { opacity: .32; }
+
+ &:focus-within { border-color: var(--ex-accent) !important; }
+
+ @media (hover: hover) {
+  &:hover { --ex-glow: 15%; border-color: color-mix(in srgb, var(--ex-accent) 62%, transparent) !important; box-shadow: none !important; transform: none !important; }
+  &:hover > .callout-title .callout-title-inner::before { background-size: 16px 2px !important; }
+  &:hover > .callout-title .callout-title-inner::after { transform: translateX(0) scale(1.05); opacity: .9; }
+  &:not(.is-collapsed):hover > .callout-title::before { animation: ex-rule-sweep 1200ms var(--ex-ease) both; }
+  & > .callout-title:hover .callout-fold { background: color-mix(in srgb, var(--ex-accent) 16%, transparent); border-color: var(--ex-accent); transform: scale(1.08); }
+ }
+
+ @container (max-width: 420px) {
+  & > .callout-title .callout-title-inner { padding-right: 0 !important; }
+  & > .callout-title .callout-title-inner::after { display: none !important; }
+ }
+ @container (max-width: 300px) {
+  & > .callout-content { padding-left: .85rem !important; }
+ }
+
+ @media (prefers-reduced-motion: reduce) {
+  &, & *, & *::before, & *::after, & > .callout-title::before, & > .callout-title::after,
+  & > .callout-content, & > .callout-content::before, & > .callout-content::after { animation: none !important; transition: none !important; }
+  & > .callout-title::before { display: none !important; }
+ }
+ @media print {
+  & { background: none !important; }
+  & > .callout-title::before { display: none !important; }
+ }
+}
+@keyframes ex-rule-draw { from { clip-path: inset(0 100% 0 0); } to { clip-path: inset(0 0 0 0); } }
+@keyframes ex-rule-sweep { 0% { left: -72px; opacity: 0; } 18% { opacity: .95; } 82% { opacity: .95; } 100% { left: 100%; opacity: 0; } }
+@keyframes ex-note-open { from { opacity: 0; transform: translateY(-6px); } to { opacity: 1; transform: none; } }
+@keyframes ex-thread-drop { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+@keyframes ex-node-pop { 0% { transform: rotate(45deg) scale(0); } 70% { transform: rotate(45deg) scale(1.35); } 100% { transform: rotate(45deg) scale(1); } }
+/* <<< EXEGESIS GLOSS DESIGN */
+
+/* >>> WARRANT BRIDGE DESIGN · 2026-11-15
+   Shared header grammar with claim, question, lens and exegesis (eyebrow, serif title, line motif).
+   Own character: the bridge from data to claim. Slate drafting paper, blueprint grid in one corner,
+   a Toulmin D→C motif with the warrant anchored beneath, a load-bearing beam under the header.
+   Keeps the charcoal colour role set in SEMANTIC CALLOUT COLORS. */
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="warrant"] {
+ --wr-accent: #8ea5b3; --wr-ink: #c3d3dc; --wr-steel: #5d7280;
+ --wr-ease: cubic-bezier(.22,.68,.25,1);
+ --ac-paper: #273036; --ac-hair: #3e4c55; --ac-edge: #687e8b;
+ --ac-accent: var(--wr-accent) !important; --ac-ink: var(--wr-ink) !important;
+ --callout-color: 142,165,179 !important;
+ --text-normal: #e1e7ea; --text-muted: #aebbc3; --text-accent: #c3d3dc;
+ container-type: inline-size; position: relative !important; overflow: hidden !important;
+ padding: 1.1rem 1.4rem 1.05rem !important;
+ color: var(--text-normal) !important;
+ background:
+  linear-gradient(to right, color-mix(in srgb, var(--wr-accent) 9%, transparent) 1px, transparent 1px) right top / 14px 14px,
+  linear-gradient(to bottom, color-mix(in srgb, var(--wr-accent) 9%, transparent) 1px, transparent 1px) right top / 14px 14px,
+  var(--ac-paper) !important;
+ border: 1px solid var(--ac-hair) !important;
+ border-left: 1px solid var(--ac-hair) !important;
+ border-radius: 10px !important; box-shadow: none !important; transform: none !important;
+ transition: border-color 260ms var(--wr-ease) !important;
+
+ &:where(.theme-dark *) { --ac-paper: #222a2f; --ac-hair: #37444c; }
+ /* The grid only lives in the top-right corner */
+ &::before {
+  content: "" !important; display: block !important; position: absolute; inset: 0; pointer-events: none; z-index: 0;
+  background: radial-gradient(48% 150px at 100% 0%, transparent 0%, color-mix(in srgb, var(--ac-paper) 70%, transparent) 55%, var(--ac-paper) 100%) !important;
+  border: 0 !important; transition: opacity 420ms var(--wr-ease);
+ }
+ /* Corner registration mark, like a drafting sheet */
+ &::after {
+  content: "" !important; display: block !important; position: absolute; left: 9px; bottom: 9px; width: 9px; height: 9px;
+  border-left: 1px solid var(--wr-steel); border-bottom: 1px solid var(--wr-steel);
+  opacity: .7; pointer-events: none; z-index: 0; transition: transform 360ms var(--wr-ease), border-color 220ms ease;
+ }
+ & > * { position: relative; z-index: 1; }
+
+ /* Header */
+ & > .callout-title {
+  position: relative !important; width: 100% !important; box-sizing: border-box;
+  display: flex !important; align-items: flex-start !important; gap: .6rem !important;
+  padding: 0 0 .85rem !important; margin: 0 0 .9rem !important;
+  border: 0 !important; background: none !important; box-shadow: none !important;
+ }
+ & > .callout-title .callout-icon { display: none !important; }
+ & > .callout-title .callout-title-inner {
+  display: block !important; position: relative !important; flex: 1 1 0% !important;
+  width: auto !important; max-width: none !important; min-width: 0 !important;
+  padding: 0 84px 0 0 !important; box-sizing: border-box;
+  font-family: var(--ac-serif) !important; font-weight: 500 !important; letter-spacing: .015em !important;
+  color: var(--text-normal) !important;
+ }
+ & > .callout-title .callout-title-inner::before {
+  content: "WARRANT" !important; display: block !important; width: max-content; height: auto !important;
+  margin: 0 0 .45rem !important; padding: 0 0 0 22px !important;
+  font-family: var(--ac-sans) !important; font-weight: 600 !important; line-height: 1.5 !important;
+  letter-spacing: .12em !important; text-transform: none !important;
+  background: linear-gradient(var(--wr-accent),var(--wr-accent)) left center / 12px 2px no-repeat !important;
+  border: 0 !important; border-radius: 0 !important; box-shadow: none !important; color: var(--wr-ink) !important;
+  animation: none !important; transition: background-size 280ms var(--wr-ease) !important;
+ }
+ /* Motif: Data → Claim, with the Warrant anchored beneath the arrow */
+ & > .callout-title .callout-title-inner::after {
+  content: "" !important; display: block !important; position: absolute; right: 0; top: 2px;
+  width: 64px; height: 44px; pointer-events: none;
+  background: var(--wr-accent) !important; opacity: .55;
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 44' fill='none' stroke='black' stroke-width='1.2' stroke-linecap='round'%3E%3Ccircle cx='8' cy='12' r='4'/%3E%3Crect x='50' y='8' width='9' height='9' rx='1'/%3E%3Cpath d='M12 12h33M42 9l3 3-3 3'/%3E%3Cpath d='M29 12v16' stroke-dasharray='2 2.4'/%3E%3Cpath d='M22 36l7-8 7 8z'/%3E%3Cpath d='M17 40h24'/%3E%3C/svg%3E") center / contain no-repeat;
+  mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 44' fill='none' stroke='black' stroke-width='1.2' stroke-linecap='round'%3E%3Ccircle cx='8' cy='12' r='4'/%3E%3Crect x='50' y='8' width='9' height='9' rx='1'/%3E%3Cpath d='M12 12h33M42 9l3 3-3 3'/%3E%3Cpath d='M29 12v16' stroke-dasharray='2 2.4'/%3E%3Cpath d='M22 36l7-8 7 8z'/%3E%3Cpath d='M17 40h24'/%3E%3C/svg%3E") center / contain no-repeat;
+  border: 0 !important; box-shadow: none !important; margin: 0 !important; padding: 0 !important;
+  transform: translateY(2px); transition: transform 420ms var(--wr-ease), opacity 220ms ease !important;
+ }
+ & > .callout-title .callout-fold {
+  flex: 0 0 auto; align-self: center; display: grid !important; place-items: center;
+  width: 26px; height: 26px; padding: 0 !important; margin: 0 !important; border-radius: 6px;
+  border: 1px solid var(--ac-hair); color: var(--wr-ink) !important; background: transparent;
+  transition: background-color 220ms ease, border-color 220ms ease !important;
+ }
+ & > .callout-title .callout-fold svg { width: 14px; height: 14px; }
+ /* Beam: hairline with two bearings; fills from the left on hover */
+ & > .callout-title::after {
+  content: "" !important; display: block !important; position: absolute; left: 0; right: 0; bottom: 0; height: 5px;
+  background:
+   linear-gradient(var(--wr-accent), var(--wr-accent)) left center / 0% 1px no-repeat,
+   linear-gradient(var(--ac-hair), var(--ac-hair)) center / 100% 1px no-repeat,
+   linear-gradient(var(--wr-accent), var(--wr-accent)) left center / 5px 5px no-repeat,
+   linear-gradient(var(--wr-accent), var(--wr-accent)) right center / 5px 5px no-repeat;
+  pointer-events: none; transition: background-size 620ms var(--wr-ease);
+ }
+
+ /* Body */
+ & > .callout-content {
+  padding: 0 !important; margin: 0 !important; background: none !important;
+  font-family: var(--ac-sans) !important; font-size: .96em !important; line-height: 1.85 !important;
+  letter-spacing: 0 !important; color: var(--text-normal) !important; overflow-wrap: anywhere;
+ }
+ & > .callout-content > p { margin: .8em 0 !important; }
+ & > .callout-content > :first-child { margin-top: 0 !important; }
+ & > .callout-content > :last-child { margin-bottom: 0 !important; }
+ /* "because" becomes a small inline tag with a connector */
+ & > .callout-content > p:first-child::before {
+  content: "because" !important; display: inline-block !important; vertical-align: .08em;
+  margin: 0 .55em 0 0 !important; padding: 0 .45em .05em !important;
+  font: italic 500 .95em/1.45 var(--ac-serif) !important; letter-spacing: .01em !important; text-transform: none !important;
+  color: var(--wr-ink) !important;
+  border: 0 !important; border-bottom: 1px solid var(--wr-accent) !important; border-radius: 3px 3px 0 0 !important; box-shadow: none !important;
+  background: color-mix(in srgb, var(--wr-accent) 13%, transparent) !important;
+ }
+ & > .callout-content > :is(ol, ul) > li::marker { color: var(--wr-accent); font-variant-numeric: tabular-nums; font-weight: 600; }
+ & > .callout-content :is(li, p) > strong:first-of-type { color: var(--wr-ink) !important; font-weight: 650 !important; }
+ & > .callout-content a.internal-link { color: var(--wr-ink) !important; text-underline-offset: .22em; text-decoration-color: color-mix(in srgb, var(--wr-accent) 50%, transparent); }
+ & a:focus-visible { outline: 2px solid var(--wr-accent); outline-offset: 3px; }
+
+ /* Open: the bearings settle, the body rises */
+ &:not(.is-collapsed) > .callout-content { animation: wr-rise 360ms var(--wr-ease) both !important; }
+ &:not(.is-collapsed) > .callout-title::after { animation: wr-beam-set 620ms var(--wr-ease) both; }
+
+ &.is-collapsed > .callout-title { margin-bottom: 0 !important; padding-bottom: 0 !important; }
+ &.is-collapsed > .callout-title::after { display: none !important; }
+ &.is-collapsed > .callout-title .callout-title-inner::after { opacity: .35; }
+
+ &:focus-within { border-color: var(--ac-edge) !important; }
+
+ @media (hover: hover) {
+  &:hover { border-color: var(--ac-edge) !important; border-left-color: var(--ac-edge) !important; box-shadow: none !important; transform: none !important; }
+  &:hover::before { opacity: .55; }
+  &:hover::after { transform: translate(-2px, 2px); border-color: var(--wr-accent); }
+  &:hover > .callout-title .callout-title-inner::before { background-size: 16px 2px !important; }
+  &:hover > .callout-title .callout-title-inner::after { transform: translateY(0) scale(1.05); opacity: .95; }
+  &:not(.is-collapsed):hover > .callout-title::after { background-size: 100% 1px, 100% 1px, 5px 5px, 5px 5px; }
+  & > .callout-title:hover .callout-fold { background: color-mix(in srgb, var(--wr-accent) 16%, transparent); border-color: var(--wr-accent); }
+ }
+
+ @container (max-width: 420px) {
+  & > .callout-title .callout-title-inner { padding-right: 0 !important; }
+  & > .callout-title .callout-title-inner::after { display: none !important; }
+ }
+ @media (prefers-reduced-motion: reduce) {
+  &, & *, &::before, &::after, & *::before, & *::after { animation: none !important; transition: none !important; }
+ }
+ @media print {
+  & { background: none !important; color: inherit !important; --text-normal: inherit; }
+ }
+}
+@keyframes wr-rise { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: none; } }
+@keyframes wr-beam-set { from { clip-path: inset(0 50% 0 50%); } to { clip-path: inset(0 0 0 0); } }
+/* <<< WARRANT BRIDGE DESIGN */
