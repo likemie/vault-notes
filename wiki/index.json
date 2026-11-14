@@ -4623,6 +4623,25 @@
     ]
   },
   {
+    "title": "Aesthetic Autonomy",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Aesthetic Autonomy.md",
+    "aliases": [
+      "审美自主性",
+      "艺术自主性",
+      "Autonomy of Art"
+    ]
+  },
+  {
+    "title": "Aesthetic Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Aesthetic Education.md",
+    "aliases": [
+      "审美教育",
+      "美育"
+    ]
+  },
+  {
     "title": "Allgemeine Pädagogik",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Allgemeine Pädagogik.md",
@@ -22222,6 +22241,15 @@
       "阿什比法则",
       "Ashby's Law",
       "Requisite Variety"
+    ]
+  },
+  {
+    "title": "Logico-Ontological Equivalence",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Logico-Ontological Equivalence.md",
+    "aliases": [
+      "逻辑-本体论等价性",
+      "逻辑本体论等价性"
     ]
   },
   {
@@ -40821,6 +40849,28 @@
       "Positivismusstreit",
       "German Positivist Dispute",
       "Positivist Dispute"
+    ],
+    "subtype": "event"
+  },
+  {
+    "title": "Protestant Pietism",
+    "type": "fact",
+    "path": "wiki/facts/germany/Protestant Pietism.md",
+    "aliases": [
+      "新教虔敬派",
+      "虔敬派",
+      "Pietism"
+    ],
+    "subtype": "event"
+  },
+  {
+    "title": "Sturm und Drang",
+    "type": "fact",
+    "path": "wiki/facts/germany/Sturm und Drang.md",
+    "aliases": [
+      "狂飙突进运动",
+      "Storm-and-Stress Movement",
+      "狂飙突进"
     ],
     "subtype": "event"
   },
