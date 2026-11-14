@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Anderson_2016_Verso_Ch11",
+      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md"
+    },
+    {
+      "basename": "National Biography",
+      "path": "wiki/concepts/political-economy-geopolitics/National Biography.md"
+    },
+    {
+      "basename": "Reversed Ventriloquism",
+      "path": "wiki/concepts/political-economy-geopolitics/Reversed Ventriloquism.md"
+    },
+    {
       "basename": "Argument_Anderson_2016_Verso_Ch06",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch06.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Argument_Anderson_2016_Verso_Ch09",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch09.md"
-    },
-    {
-      "basename": "Argument_Anderson_2016_Verso_Ch11",
-      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md"
     },
     {
       "basename": "Argument_Anderson_2016_Verso_Ch10",
@@ -191,14 +199,6 @@
     {
       "basename": "Angoff Method",
       "path": "wiki/methods/quantitative/Angoff Method.md"
-    },
-    {
-      "basename": "Analysis of Variance",
-      "path": "wiki/methods/quantitative/Analysis of Variance.md"
-    },
-    {
-      "basename": "Analysis of Covariance",
-      "path": "wiki/methods/quantitative/Analysis of Covariance.md"
     }
   ],
   "omittedPaths": [],
