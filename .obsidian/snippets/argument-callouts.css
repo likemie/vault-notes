@@ -27928,15 +27928,8 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
  & > .callout-content > p { margin: .8em 0 !important; }
  & > .callout-content > :first-child { margin-top: 0 !important; }
  & > .callout-content > :last-child { margin-bottom: 0 !important; }
- /* "because" becomes a small inline tag with a connector */
- & > .callout-content > p:first-child::before {
-  content: "because" !important; display: inline-block !important; vertical-align: .08em;
-  margin: 0 .55em 0 0 !important; padding: 0 .45em .05em !important;
-  font: italic 500 .95em/1.45 var(--ac-serif) !important; letter-spacing: .01em !important; text-transform: none !important;
-  color: var(--wr-ink) !important;
-  border: 0 !important; border-bottom: 1px solid var(--wr-accent) !important; border-radius: 3px 3px 0 0 !important; box-shadow: none !important;
-  background: color-mix(in srgb, var(--wr-accent) 13%, transparent) !important;
- }
+ /* No "because" lead word */
+ & > .callout-content > p:first-child::before { content: none !important; display: none !important; }
  & > .callout-content > :is(ol, ul) > li::marker { color: var(--wr-accent); font-variant-numeric: tabular-nums; font-weight: 600; }
  & > .callout-content :is(li, p) > strong:first-of-type { color: var(--wr-ink) !important; font-weight: 650 !important; }
  & > .callout-content a.internal-link { color: var(--wr-ink) !important; text-underline-offset: .22em; text-decoration-color: color-mix(in srgb, var(--wr-accent) 50%, transparent); }
@@ -27976,3 +27969,159 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
 @keyframes wr-rise { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: none; } }
 @keyframes wr-beam-set { from { clip-path: inset(0 50% 0 50%); } to { clip-path: inset(0 0 0 0); } }
 /* <<< WARRANT BRIDGE DESIGN */
+
+/* >>> CONTENTS SPINE DESIGN · 2026-11-15
+   textbook-overview（章节导航）: from a three-equal-column table to a table of contents.
+   Each chapter: outlined numeral on a book spine, serif chapter line, summary as reading text,
+   related entries as small tags in a side margin. Same header grammar as the other callouts. */
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="textbook-overview"] {
+ --tb-tint: color-mix(in srgb, var(--tb-accent) 7%, transparent);
+ --tb-soft: color-mix(in srgb, var(--tb-accent) 22%, var(--background-modifier-border));
+
+ & > .callout-content { overflow: visible !important; }
+ & :is(.table-wrapper, .el-table) { overflow: visible !important; }
+
+ & table, & thead, & tbody {
+  display: block !important; width: 100% !important; max-width: 100% !important; min-width: 0 !important;
+  table-layout: auto !important; border: 0 !important; border-radius: 0 !important;
+  background: none !important; box-shadow: none !important; margin: 0 !important;
+ }
+ & tbody { counter-reset: tb-ch; }
+ & tr {
+  display: grid !important; position: relative;
+  grid-template-columns: 3rem minmax(0, 1fr) minmax(9.5rem, 27%);
+  column-gap: 1.15rem; background: none !important; transform: none !important; box-shadow: none !important;
+ }
+ & :is(th, td) {
+  display: block !important; width: auto !important; min-width: 0 !important; max-width: none !important;
+  padding: 0 !important; border: 0 !important; background: none !important;
+ }
+
+ /* Header: slim label rail */
+ & thead tr { padding: 0 .5rem .55rem .25rem; margin-bottom: .1rem; border-bottom: 1px solid var(--tb-soft); }
+ & thead th {
+  font: 600 10.5px/1.5 var(--ac-sans) !important; letter-spacing: .12em !important;
+  color: var(--tb-ink) !important; opacity: .85; background: none !important; text-transform: uppercase !important;
+ }
+ & thead th:nth-child(1) { grid-column: 1; }
+ & thead th:nth-child(2) { grid-column: 2; }
+ & thead th:nth-child(3) { grid-column: 3; padding-left: .95rem !important; }
+
+ /* Chapter rows */
+ & tbody tr {
+  counter-increment: tb-ch;
+  grid-template-areas: "num ch ch" "num sum rel";
+  row-gap: .45rem; padding: 1rem .5rem 1.1rem .25rem; border-radius: 8px;
+  transition: background-color 260ms var(--tb-ease) !important;
+ }
+ & tbody tr + tr { border-top: 1px solid var(--ac-hair-soft); border-radius: 0; }
+ & tbody tr:last-child td { border-bottom: 0 !important; }
+
+ /* Outlined numeral */
+ & tbody tr::before {
+  content: counter(tb-ch, decimal-leading-zero); grid-area: num; align-self: start; justify-self: center;
+  font: 600 1.9em/1 var(--ac-serif); letter-spacing: -.02em; font-variant-numeric: lining-nums tabular-nums;
+  color: transparent; -webkit-text-stroke: 1px var(--tb-accent); opacity: .75; margin-top: .05rem;
+  transition: color 300ms var(--tb-ease), opacity 300ms ease, transform 420ms var(--tb-ease);
+ }
+ /* Book spine below the numeral */
+ & tbody tr::after {
+  content: ""; position: absolute; left: calc(.25rem + 1.5rem); top: 3.35rem; bottom: .35rem; width: 1px;
+  background: linear-gradient(var(--tb-soft), transparent); transform-origin: top;
+  transition: background 300ms ease;
+ }
+
+ /* Chapter line */
+ & tbody td:nth-child(1) {
+  grid-area: ch; font: 600 1.02em/1.5 var(--ac-serif) !important; letter-spacing: .01em !important;
+  color: var(--text-normal) !important; padding-top: .1rem !important;
+ }
+ & tbody td:nth-child(1) a.internal-link {
+  font: inherit !important; color: var(--text-normal) !important; text-decoration: none !important;
+  background: linear-gradient(var(--tb-accent), var(--tb-accent)) left bottom / 0% 1px no-repeat !important;
+  padding-bottom: 1px !important; transition: background-size 380ms var(--tb-ease), color 220ms ease;
+ }
+ /* Summary */
+ & tbody td:nth-child(2) {
+  grid-area: sum; font: 400 .94em/1.82 var(--ac-sans) !important;
+  color: color-mix(in srgb, var(--text-normal) 86%, transparent) !important;
+ }
+ & tbody td:nth-child(2) a.internal-link { font-weight: 600 !important; color: var(--text-normal) !important; text-decoration-color: color-mix(in srgb, var(--tb-accent) 40%, transparent) !important; }
+ /* Related: side margin with tags */
+ & tbody td:nth-child(3) {
+  grid-area: rel; align-self: start; padding: .2rem 0 .2rem .95rem !important;
+  border-left: 1px dashed var(--tb-soft) !important;
+  display: flex !important; flex-wrap: wrap; align-items: center; align-content: flex-start; gap: .3rem .2rem;
+  font: 400 .74em/1.5 var(--ac-sans) !important; color: var(--text-muted) !important;
+ }
+ & tbody td:nth-child(3):has(a) { color: var(--text-faint, var(--text-muted)) !important; }
+ & tbody td:nth-child(3):not(:has(a)) { display: block !important; font-size: .82em !important; line-height: 1.7 !important; }
+ & tbody td:nth-child(3) a.internal-link {
+  display: inline-block !important; max-width: 100%; margin: 0 !important; padding: .1em .62em !important;
+  font: 500 1.09em/1.5 var(--ac-sans) !important; color: var(--tb-ink) !important;
+  text-decoration: none !important; white-space: normal; overflow-wrap: break-word;
+  border: 1px solid var(--tb-soft) !important; border-radius: 999px !important;
+  background: color-mix(in srgb, var(--tb-accent) 6%, transparent) !important;
+  transition: border-color 200ms ease, background-color 200ms ease, box-shadow 260ms var(--tb-ease), transform 260ms var(--tb-ease) !important;
+ }
+
+ /* Part rows (only the first cell filled): a section band, no chapter number */
+ & tbody tr:has(> td:nth-child(2):empty):has(> td:nth-child(3):empty) {
+  counter-increment: none; grid-template-areas: "ch ch ch" !important; row-gap: 0;
+  padding: 1.15rem .5rem .45rem .25rem; background: none !important;
+ }
+ & tbody tr:has(> td:nth-child(2):empty):has(> td:nth-child(3):empty)::before,
+ & tbody tr:has(> td:nth-child(2):empty):has(> td:nth-child(3):empty)::after,
+ & tbody tr:has(> td:nth-child(2):empty):has(> td:nth-child(3):empty) > td:not(:first-child) { display: none !important; }
+ & tbody tr:has(> td:nth-child(2):empty):has(> td:nth-child(3):empty) > td:first-child {
+  display: flex !important; align-items: center; gap: .7rem;
+  font: 600 .78em/1.5 var(--ac-sans) !important; letter-spacing: .1em !important; color: var(--tb-ink) !important;
+ }
+ & tbody tr:has(> td:nth-child(2):empty):has(> td:nth-child(3):empty) > td:first-child::after {
+  content: ""; flex: 1; height: 1px; background: linear-gradient(90deg, var(--tb-soft), transparent);
+ }
+
+ /* Two-column tables */
+ & tr:not(:has(> :nth-child(3))) { grid-template-columns: 3rem minmax(0, 1fr); }
+ & tbody tr:not(:has(> :nth-child(3))) { grid-template-areas: "num ch" "num sum"; }
+
+ /* Open: chapters rise in sequence */
+ &:not(.is-collapsed) tbody tr { animation: tb-row-in 460ms var(--tb-ease) both; }
+ &:not(.is-collapsed) tbody tr::after { animation: tb-spine-grow 700ms var(--tb-ease) both; }
+ &:not(.is-collapsed) tbody tr:nth-child(2) { animation-delay: 40ms; }
+ &:not(.is-collapsed) tbody tr:nth-child(3) { animation-delay: 80ms; }
+ &:not(.is-collapsed) tbody tr:nth-child(4) { animation-delay: 120ms; }
+ &:not(.is-collapsed) tbody tr:nth-child(5) { animation-delay: 160ms; }
+ &:not(.is-collapsed) tbody tr:nth-child(6) { animation-delay: 200ms; }
+ &:not(.is-collapsed) tbody tr:nth-child(7) { animation-delay: 240ms; }
+ &:not(.is-collapsed) tbody tr:nth-child(n+8) { animation-delay: 280ms; }
+
+ @media (hover: hover) {
+  & tbody tr:hover { background: linear-gradient(90deg, var(--tb-tint), transparent 75%) !important; }
+  & tbody tr:hover td { background: none !important; }
+  & tbody tr:hover::before { color: var(--tb-accent); opacity: 1; transform: translateY(-2px); }
+  & tbody tr:hover::after { background: linear-gradient(var(--tb-accent), transparent); }
+  & tbody tr:hover td:nth-child(1) a.internal-link { background-size: 100% 1px !important; }
+  & tbody td:nth-child(3) a.internal-link:hover { border-color: var(--tb-accent) !important; background: color-mix(in srgb, var(--tb-accent) 16%, transparent) !important; transform: translateY(-1px); box-shadow: 0 2px 8px -4px var(--tb-accent) !important; }
+ }
+
+ /* Narrow panes: stack the side margin under the summary */
+ @container (max-width: 560px) {
+  & tr { grid-template-columns: 2.4rem minmax(0, 1fr) !important; column-gap: .8rem; }
+  & thead { display: none !important; }
+  & tbody tr { grid-template-areas: "num ch" "num sum" "num rel" !important; }
+  & tbody tr::before { font-size: 1.5em; }
+  & tbody tr::after { left: calc(.25rem + 1.2rem); top: 2.8rem; }
+  & tbody td:nth-child(3) { border-left: 0 !important; padding-left: 0 !important; }
+ }
+ @media (prefers-reduced-motion: reduce) {
+  & tbody tr, & tbody tr::before, & tbody tr::after, & a { animation: none !important; transition: none !important; }
+ }
+ @media print {
+  & tbody tr { animation: none !important; break-inside: avoid; }
+  & tbody tr::before { color: #555; -webkit-text-stroke: 0; }
+ }
+}
+@keyframes tb-row-in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+@keyframes tb-spine-grow { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+/* <<< CONTENTS SPINE DESIGN */

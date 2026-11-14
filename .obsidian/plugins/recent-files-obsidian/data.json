@@ -5,12 +5,20 @@
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md"
     },
     {
+      "basename": "template-argument-monograph",
+      "path": "wiki/templates/template-argument-monograph.md"
+    },
+    {
+      "basename": "Argument_He_2018_HEP",
+      "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_He_2018_HEP.md"
+    },
+    {
       "basename": "template-argument-edited-volume",
       "path": "wiki/templates/template-argument-edited-volume.md"
     },
     {
-      "basename": "template-argument-monograph",
-      "path": "wiki/templates/template-argument-monograph.md"
+      "basename": "template-argument-textbook",
+      "path": "wiki/templates/template-argument-textbook.md"
     },
     {
       "basename": "Argument_Anderson_2016_Verso",
@@ -19,10 +27,6 @@
     {
       "basename": "Begg and Mazumdar Rank Correlation",
       "path": "wiki/methods/quantitative/Begg and Mazumdar Rank Correlation.md"
-    },
-    {
-      "basename": "Argument_He_2018_HEP",
-      "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_He_2018_HEP.md"
     },
     {
       "basename": "template-argument",
@@ -47,10 +51,6 @@
     {
       "basename": "template-theory",
       "path": "wiki/templates/template-theory.md"
-    },
-    {
-      "basename": "template-argument-textbook",
-      "path": "wiki/templates/template-argument-textbook.md"
     },
     {
       "basename": "template-fact-event",
