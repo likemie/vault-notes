@@ -27071,7 +27071,8 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
       box-shadow:none !important;
       transform:none !important;
       pointer-events:none;
-      z-index:0;
+      /* Keep the end of each segment above the next row's background and under its node. */
+      z-index:1;
       transition:background-size 200ms ease-out !important;
     }
 
@@ -27152,6 +27153,18 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
   }
 
   @media (hover:hover) {
+    & > .callout-content > :is(ul,ol) > li:is(:hover,:focus-within) {
+      --dt-event-highlight:color-mix(in srgb,var(--tf-accent) 5%,var(--ac-paper));
+      background:
+        linear-gradient(var(--dt-rule),var(--dt-rule)) no-repeat right bottom / calc(100% - var(--dt-gutter)) 1px,
+        linear-gradient(var(--dt-event-highlight),var(--dt-event-highlight)) no-repeat right / calc(100% - var(--dt-gutter)) 100% !important;
+    }
+
+    & > .callout-content > :is(ul,ol) > li:last-child:is(:hover,:focus-within) {
+      background:linear-gradient(var(--dt-event-highlight),var(--dt-event-highlight)) no-repeat right /
+        calc(100% - var(--dt-gutter)) 100% !important;
+    }
+
     /* Position of each event in the sequence; it sets how long the light takes to arrive. */
     & > .callout-content > :is(ul,ol) > li { --dt-i:0; --dt-step:85ms; }
     & > .callout-content > :is(ul,ol) > li:nth-child(2) { --dt-i:1; }
@@ -27200,6 +27213,9 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
     }
     & > .callout-content > :is(ul,ol) > li:is(:hover,:focus-within)::before {
       outline:5px solid color-mix(in srgb,var(--dt-flow-light) 26%,transparent);
+    }
+    & > .callout-content > :is(ul,ol) > li:last-child:is(:hover,:focus-within)::before {
+      outline-width:3px;
     }
 
     /* Events after the pointer step back a little: they have not happened yet. */
