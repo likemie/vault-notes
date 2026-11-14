@@ -243,21 +243,20 @@ updated: 2026-11-15
 
 ---
 
-> [!ref-table] 核心术语索引
-> | 术语 | 理论界定 | 出现位置 | 关联条目 |
-> |---|---|---|---|
-> | **想象的共同体（Imagined Community）** | 界定为本质上有限且享有主权的想象政治共同体；“想象”指超越面对面村落的群体得以连结的方式，有别于虚假捏造 | 第1章，pp. 5–7 | [[Imagined Community]] |
-> | **模块化（Modular）** | 民族与革命这类文化造物在18世纪末定型后脱离原初土壤，成为不设专利、可供不同社会形态按不同自觉程度移植和拼装的现成[[Paradigm\|范式]] | 第1章，p. 4；第5章，pp. 82–84 | [[Modular Nationalism]] |
-> | **[[Homogeneous, Empty Time\|齐一而空洞的时间]]（Homogeneous, Empty Time）** | 借用[[Walter Benjamin\|本雅明]]构念，指由钟表和日历度量、事件之间靠“与此同时”横向并存的世俗线性时间，用来对照前现代纵向预表的[[Messianic Time\|弥赛亚时间]] | 第2章，pp. 24–26 | [[Homogeneous, Empty Time]] |
-> | **[[Print-Language\|印刷语言]]（Print-Language）** | 印刷资本主义把千百种口语方言收拢、筛选并固定下来的标准化书面语言；既在拉丁文之下、口语之上打通书面交流，又塑造古老感并重排权力等级 | 第3章，pp. 44–47 | [[Print-Language]] |
-> | **[[Administrative Pilgrimage\|行政朝圣]]（Administrative Pilgrimage）** | 借用[[Victor Turner\|特纳]]的朝圣模型，指官僚在固定辖区内往返升迁的流动路线；路线边界把同僚的共同挫折转化为对辖区的祖国认同 | 第4章，pp. 56–60 | [[Administrative Pilgrimage]] |
-> | **官方民族主义（Official Nationalism）** | 19世纪中叶起世袭王朝与帝国统治者为抵御大众民族主义而采取的自卫策略，把民族的紧绷外衣硬套在[[Polyvernacular Empire\|多语种帝国]]身躯上推行自上而下同化 | 第6章，pp. 86–88 | [[Official Nationalism]] |
-> | **[[Unisonance\|同声相应]]（Unisonance）** | 国定假日齐唱国歌时，互不相识的人们依循同一旋律唱出相同歌词所感受到的声波共鸣与同时性体验 | 第8章，p. 149 | [[Unisonance]] |
-> | **[[Chancellory War\|密室战争]]（Chancellory War）** | 由极少数最高层精英在中枢闭门拍板发动的边境或地缘冲突，普通民众直到开战后才被自卫口号动员起来 | 第9章，p. 165 | [[Chancellory War]] |
-> | **[[Geo-Body\|地理身体]]（Geo-Body）与[[Map-as-Logo\|地图标识]]（Map-as-Logo）** | 借用[[Thongchai Winichakul\|通猜]]概念，指近代测绘先导划定的封闭领土实体，以及脱离经纬细节后印上徽章和出版物、供大众效忠的纯图形轮廓 | 第10章，pp. 174–182 | [[Geo-Body]]、[[Map-as-Logo]] |
-> | **总括性分类网格（Totalizing Classificatory Grid）与序列化（Serialization）** | 分别比作殖民统治思维的经线与纬线：前者将人、地、物硬性归入非此即彼的排他格子，后者预设世界由成批可替换编号的复数单位构成 | 第10章，pp. 188–189 | [[Totalizing Classificatory Grid]]、[[Serialization]] |
-> | **[[Reversed Ventriloquism\|反向腹语术]]（Reversed Ventriloquism）** | 19世纪史学家与第二代民族主义者以死者代言人自居，利用死者的沉默替语言不通或已消亡的古代文明发声，把现代建国诉求投射为先人遗愿 | 第11章，pp. 201–203 | [[Reversed Ventriloquism]] |
-> | **[[Reassurance of Fratricide\|兄弟残杀的抚慰]]（Reassurance of Fratricide）** | 国家通过学校历史教育不断提醒公众记住古代屠杀的名字，同时抹去异教或阶级冲突背景，改写为同一民族家庭内部的手足相残 | 第11章，pp. 204–205 | [[Reassurance of Fratricide]] |
+> [!ref-table] 原创概念和理论
+> | 术语 | 作者界定 |
+> |---|---|
+> | **想象的共同体（Imagined Community）** | 界定为本质上有限且享有主权的想象政治共同体；“想象”指超越面对面村落的群体得以连结的方式，有别于虚假捏造 |
+> | **模块化（Modular）** | 民族与革命这类文化造物在18世纪末定型后脱离原初土壤，成为不设专利、可供不同社会形态按不同自觉程度移植和拼装的现成[[Paradigm\|范式]] |
+> | **[[Print-Capitalism\|印刷资本主义]]（Print-Capitalism）** | 追求利润最大化的印刷出版业与人类语言多样性宿命、印刷技术三者交互作用形成的动力机制，在世俗层面大规模催生了想象的共同体 |
+> | **[[Print-Language\|印刷语言]]（Print-Language）** | 印刷资本主义把千百种口语方言收拢、筛选并固定下来的标准化书面语言；既在拉丁文之下、口语之上打通书面交流，又塑造古老感并重排权力等级 |
+> | **[[Administrative Pilgrimage\|行政朝圣]]（Administrative Pilgrimage）** | 指近代科层官僚在固定辖区内往返升迁的流动路线；路线边界与人事公文的可替换性把同僚的共同挫折转化为对辖区的祖国认同 |
+> | **[[Unisonance\|同声相应]]（Unisonance）** | 国定假日齐唱国歌时，互不相识的人们依循同一旋律唱出相同歌词所感受到的声波共鸣与同时性体验 |
+> | **[[Chancellory War\|密室战争]]（Chancellory War）** | 由极少数最高层精英在中枢闭门拍板发动的边境或地缘冲突，普通民众直到开战后才被自卫口号动员起来 |
+> | **[[Map-as-Logo\|地图标识]]（Map-as-Logo）** | 殖民与民族国家制图学演化出的纯粹符号形态：领土轮廓脱离经纬度与山川参照后，变成可印上徽章、邮票和出版物供大众效忠的图腾徽标 |
+> | **总括性分类网格（Totalizing Classificatory Grid）与序列化（Serialization）** | 分别比作殖民统治思维的经线与纬线：前者将人、地、物硬性归入非此即彼的排他格子，后者预设世界由成批可替换编号的复数单位构成 |
+> | **[[Reversed Ventriloquism\|反向腹语术]]（Reversed Ventriloquism）** | 19世纪史学家与第二代民族主义者以死者代言人自居，利用死者的沉默替语言不通或已消亡的古代文明发声，把现代建国诉求投射为先人遗愿 |
+> | **[[Reassurance of Fratricide\|兄弟残杀的抚慰]]（Reassurance of Fratricide）** | 国家通过学校历史教育不断提醒公众记住古代屠杀的名字，同时抹去异教或阶级冲突背景，改写为同一民族家庭内部的手足相残 |
 
 ## 来源
 

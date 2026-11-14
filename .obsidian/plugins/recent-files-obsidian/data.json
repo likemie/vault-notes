@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Argument_Hammermeister_2002_Cambridge_Ch01",
-      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md"
-    },
-    {
-      "basename": "template-argument-monograph",
-      "path": "wiki/templates/template-argument-monograph.md"
+      "basename": "Argument_Anderson_2016_Verso",
+      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso.md"
     },
     {
       "basename": "Argument_He_2018_HEP",
@@ -17,12 +13,16 @@
       "path": "wiki/templates/template-argument-edited-volume.md"
     },
     {
+      "basename": "template-argument-monograph",
+      "path": "wiki/templates/template-argument-monograph.md"
+    },
+    {
       "basename": "template-argument-textbook",
       "path": "wiki/templates/template-argument-textbook.md"
     },
     {
-      "basename": "Argument_Anderson_2016_Verso",
-      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso.md"
+      "basename": "Argument_Hammermeister_2002_Cambridge_Ch01",
+      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md"
     },
     {
       "basename": "Begg and Mazumdar Rank Correlation",

@@ -226,8 +226,17 @@ updated: 2026-11-15
 > - **千年历史文化存量的回流与合法性借用** 自两千五百年前南方丝绸之路开辟及古代[[Tributary System|朝贡体系]]确立以来，中国在生活习俗、建筑礼制、宗族道德与宗教信仰等层面已在东南亚奠定了深厚的文化根基。现有分校实际上是在回流并借用这笔丰厚的历史文化存量以确立自身的合法性。
 > - **缺乏认同基础时的单向文化输出失效** 在缺乏华人历史记忆和对华认知基础的老挝，中国分校单向输出文化影响力的努力收效甚微，说明软实力的有效运作高度依附于受众与施展国之间既有的认同基础。分校办学反过来在微观上巩固了所在国对华认知，形成了双向互构的动态循环（见图 1）。
 
-> [!figure]- 图1：中国软实力与东南亚中国大学国际分校互动关系分析框架
-> ![](https://img.mylikemie.icu/sources/He_2018_HEP/figures/He_2018_HEP_Fig1_Soft_Power_IBC_Interaction_Framework.jpg)
+> [!logic-map]- 图1 中国软实力与东南亚中国大学国际分校互动关系分析框架（He & Wilkins, 2018）
+> ```mermaid
+> flowchart LR
+>     SP["东道国既有的中国软实力影响\n(Existing Chinese Soft Power Influences in the Host Country)"]
+>     EP["中国经济硬实力\n(Economic Power of China)"]
+>     IBC["中国大学海外分校办学地位与吸引力\n(Status of Chinese IBCs)"]
+> 
+>     SP -->|"提升与助推 (enhances)"| IBC
+>     EP -->|"工具性赋能 (enhances)"| IBC
+>     IBC -->|"在地强化与反哺 (reinforces)"| SP
+> ```
 
 > [!sub-claim] 2. 软实力根本上长在硬实力之上，中国经济腾飞直接决定了中文的含金量
 
