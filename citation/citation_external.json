@@ -7108,6 +7108,8 @@
     "Elicker, 1997": "Elicker, 1997",
     "Elizabeth Anderson (2012)": "Elizabeth Anderson, 2012",
     "Elizabeth Anderson, 2012": "Elizabeth Anderson, 2012",
+    "Elizabeth Eisenstein (1968)": "Elizabeth Eisenstein, 1968",
+    "Elizabeth Eisenstein, 1968": "Elizabeth Eisenstein, 1968",
     "Elledge (2013)": "Elledge, 2013",
     "Elledge, 2013": "Elledge, 2013",
     "Elleman (2017a)": "Elleman, 2017a",
@@ -79936,6 +79938,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/educational-philosophy/Epistemic Injustice.md"
+      ],
+      "title": ""
+    },
+    "Elizabeth Eisenstein, 1968": {
+      "aliases": [
+        "Elizabeth Eisenstein, 1968",
+        "Elizabeth Eisenstein (1968)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Elizabeth Eisenstein, 1968"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch02.md"
       ],
       "title": ""
     },

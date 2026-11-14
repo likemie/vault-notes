@@ -10,7 +10,7 @@ summary: "由 Colin Begg 与 Madhuchhanda Mazumdar（1994）提出的一种用�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -38,6 +38,7 @@ related_methods:
   - "[[Trim and Fill Method]]"
   - "[[Fail-Safe N]]"
   - "[[Fixed-Effect Model]]"
+  - "[[Funnel Plot]]"
   - "[[Multilevel Egger's Test]]"
 related_instruments: []
 related_persons: []
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-29
+updated: 2026-11-14
 ---
 
 ---
@@ -92,11 +93,24 @@ updated: 2026-10-29
 > 3. **计算大样本近似 $Z$ 检验**
 >    $$Z = \frac{\tau}{\sqrt{\frac{2(2k + 5)}{9k(k - 1)}}}$$
 >    依据标准正态分布计算双尾显著性 $p$ 值。
+>
+> > [!geogebra] 小研究效应与 Begg 秩相关
+> > - **左图横轴与纵轴** 各研究效应量 $y_i$ 与标准误；纵轴向下增大，蓝点为 20 项示例研究，不代表实证数据。
+> > - **左图虚线** 蓝色竖线为[[Fixed-Effect Model|固定效应]]均值 $\bar{y}_{\text{fixed}}$，两条灰线为 $\bar{y}_{\text{fixed}} \pm 1.96 \times SE$ 的漏斗边界。
+> > - **右图横轴与纵轴** 方差 $v_i$ 与标准化效应 $y_i^*$；Kendall's $\tau$ 比较的就是这两列的秩次。
+> > - **滑块 μ** 示例数据的真实效应。
+> > - **滑块 β** 小研究效应强度，示例效应量按 $y_i = \mu + \beta \cdot SE_i + e_i \cdot SE_i$ 生成，$\beta = 0$ 时无偏倚。
+> > - **滑块 k** 纳入研究数（6–20）。
+> > - **读数** 固定效应均值、$\tau$、$Z$ 与双尾 $p$；判定文字在 $p < .05$ 时变为红色。
+> >
+> > 先保持 $\beta = 0$、$k = 20$，此时 $\tau = 0$；把 β 逐步调大，观察[[Funnel Plot|漏斗图]]底部的小样本研究向右偏移，右图紫点由水平散布变为向右上倾斜，$Z$ 越过 1.96。再将 k 降到 6，同样的 β 下 $Z$ 明显变小，对应上文所述的小样本检验功效偏低。
+> >
+> > ![[wiki/assets/geogebra/begg_rank_correlation.ggb]]
 
 ---
 
 > [!example] [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] 高等教育[[Critical Thinking\|批判性思维]][[Meta-meta-analysis\|二阶元分析]][[Publication Bias\|发表偏倚]]互补诊断
-> 在探讨[[Problem-Based Learning\|问题本位学习]]对高等教育学生产出影响的二阶[[Meta-analysis\|元分析]]中，作者采用了四重互补偏倚检验：
+> 这项探讨[[Problem-Based Learning\|问题本位学习]]对高等教育学生产出影响的二阶[[Meta-analysis\|元分析]]采用了四重互补偏倚检验：
 > - **Begg 秩相关结果** Kendall's $\tau = -0.01, Z = 0.12, p = .89$，未提示存在显著发表偏倚；
 > - **Egger 回归结果** $t(45) = 5.53, p < .001$，提示可能存在轻微小研究效应；
 > - **[[Trim and Fill Method\|剪补法]]校正** 建议补入 6 个负向[[Effect Size\|效应量]]，调整后效应量从 $ES = 0.68$ 微降至 $ES = 0.60$；
