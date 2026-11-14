@@ -10,10 +10,10 @@ summary: "希腊启蒙思想家、语文学家与古典文献学家，现代希�
 type: person
 nationality: greece
 person_region: "greece"
-person_related_count: 8
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: 1748
 died: 1833
 lifespan: "1748–1833"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Philological Revolution]]"
   - "[[Print-Language]]"
   - "[[Nationalism]]"
+  - "[[National Biography]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods:
@@ -37,10 +38,11 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch05]]"
+  - "[[Argument_Anderson_2016_Verso_Ch11]]"
 confidence: high
 status: active
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
@@ -89,9 +91,10 @@ updated: 2026-11-13
 > - **语言改革路径** 确立的希腊纯正语成为希腊王国自1834年至1976年的法定官方语言，主导了希腊教育、法律与行政体系一个多世纪的书面语规范。
 > - **民族主义理论阐释** 安德森在《想象的共同体》第五章深入剖析科拉伊斯的演说与活动，将其作为19世纪欧洲语文学革命、双语词典编纂与读者阶层联盟（流亡学者与远洋海商）相互配合的历史典范。
 > - **教育与社会动员路径** 其推动出版的古典文献与通俗教本广泛流通于黑海至爱琴海的希腊商帮之间，直接启发了1814年在敖德萨成立的革命秘密组织“友谊社”（Philike Hetairia）。
+> - **革命断裂向古老谱系的目光逆转** 安德森在第11章重审其1803年演说，指出科拉伊斯关于正视愚昧并丈量先祖距离的呼吁，虽残留大革命时间断裂的余音，但已体现出目光从未来逆转投向古代祖先荣耀的第二代民族谱系重构。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, p. 195)]]
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch05|Anderson (2016)]] — 系统评析科拉伊斯的1803年演说与语言去野蛮化呼吁，揭示学者语文学考据与海外商人资本联盟对民族想象的关键驱动（pp. 74–75, 81–82）。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 在第5章（pp. 74–75）与第11章（p. 195）评析其1803年演说，阐发语文学动员及目光由大革命断裂逆转投向古代祖先的谱系重构。
 
 ---
 
@@ -108,3 +111,4 @@ updated: 2026-11-13
 > | [[Philological Revolution]] | 概念 | 编纂现代希腊语规范词典并考据古典希腊文献，推动古典语言世俗化与白话规范化。 |
 > | [[Print-Language]] | 概念 | 创办报刊并出版《希腊图书馆》丛书，构建联结海外侨民与本土臣民的印刷共同体。 |
 > | [[Nationalism]] | 概念 | 提出希腊文明现状演说，将文化启蒙与语言净化确立为民族独立主权的前提条件。 |
+> | [[National Biography\|民族传记]] | 概念 | 将目光从大革命断裂逆转投向远古祖先，开创第二代民族主义溯流而上的谱系构建。 |

@@ -11,7 +11,7 @@ summary: "阿根廷、智利与秘鲁独立运动领袖，南美南部“解放�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -44,10 +44,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Anderson_2016_Verso]]"
   - "[[Argument_Anderson_2016_Verso_Ch08]]"
+  - "[[Argument_Anderson_2016_Verso_Ch11]]"
 confidence: high
 status: active
 created: 2026-11-12
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
@@ -93,9 +94,10 @@ updated: 2026-11-13
 > - **公民平等制度推进** 宣布废除印第安劳役人头税与宗教裁判所，打破半岛统治集团对原住民的人身奴役特权。
 > - **模块化民族国家样板塑造** 其在秘鲁将印第安原住民统称为秘鲁人的政治权衡，在跨大西洋印刷媒介中被提炼为拥有独立主权与普遍公民权的现代共和国理想模型，向欧洲后发民族证实了该套制度的可复制性。[[Argument_Anderson_2016_Verso|(Anderson, 2016, pp. 80–81)]]
 > - **语言建构与主权归化机制** 1821年圣马丁法令确立克丘亚语原住民享有平等的秘鲁人国民身份，被安德森作为证明现代民族从诞育之初即通过语言文化而非生物血统构想的核心史料，奠定了现代国家普遍开放的归化入籍制度传统。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 149–150)]]
+> - **革命新颖性与时间断裂** 1821年法令在修辞上摧毁了殖民时代的种族范畴，与法国大革命废黜旧历一样，标志着现代人与旧世界时间传统的深刻决裂。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 197–198)]]
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 探讨其命名秘鲁人的政治修辞与制度蓝本（pp. 51–52, 80–81）；在第8章（[[Argument_Anderson_2016_Verso_Ch08]]）进一步借此论证民族认同源于语言文化而非血统建构（pp. 149–150）。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 在第4、8、11章系统分析其原住民命名法令的跨阶层认同、语言建构及与旧世界时间断裂的革命新颖性。
 
 ---
 

@@ -8,7 +8,7 @@ summary: "19世纪法国著名哲学家与历史学家；在巴黎索邦大学�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 16
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---

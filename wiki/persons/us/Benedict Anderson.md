@@ -41,6 +41,9 @@ related_concepts:
   - "[[Colonial Racism]]"
   - "[[Educational Pilgrimage]]"
   - "[[Bilingual Intelligentsia]]"
+  - "[[Reassurance of Fratricide]]"
+  - "[[National Biography]]"
+  - "[[Reversed Ventriloquism]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods:
@@ -52,6 +55,8 @@ related_persons:
   - "[[Robin Dunbar]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
+  - "[[Tom Nairn]]"
+  - "[[Eric Hobsbawm]]"
 related_facts:
   - "[[EU]]"
   - "[[European Commission]]"
@@ -61,6 +66,7 @@ related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch07]]"
   - "[[Argument_Anderson_2016_Verso_Ch08]]"
   - "[[Argument_Anderson_2016_Verso_Ch10]]"
+  - "[[Argument_Anderson_2016_Verso_Ch11]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Xu_2024_CE]]"
 confidence: high
@@ -95,10 +101,10 @@ updated: 2026-11-13
 
 > [!work-line] 主要著作
 > - **1983 — *Imagined Communities: Reflections on the Origin and Spread of Nationalism*** 提出民族是由印刷资本主义与大众媒介所构筑的想象共同体，成为全球被引用最多的社科经典之一。关联条目：[[Imagined Community]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Anderson, 1983/2006)]]
-> - **1991 — *Imagined Communities* (Second Edition)** 增订第10章《人口普查、地图、博物馆》，纠正此前过度偏向王朝官方民族主义的解释，确立晚期殖民国家权力制度对后殖民民族主义心智的深层规制。关联条目：[[Geo-Body]]、[[Map-as-Logo]]。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 167–190)]]
+> - **1991 — *Imagined Communities* (Second Edition)** 增订第10章《人口普查、地图、博物馆》与第11章《记忆与遗忘》，既剖析殖民晚期国家规制，亦解构“必须已经遗忘”与[[Reassurance of Fratricide|兄弟残杀的抚慰]]，揭示溯流而上的[[National Biography|民族传记]]建构。关联条目：[[Geo-Body]]、[[Map-as-Logo]]、[[Reassurance of Fratricide]]、[[National Biography]]。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 167–190)]]; [[Argument_Anderson_2016_Verso_Ch11|(pp. 191–206)]]
 > - **1998 — *The Spectre of Comparisons: Nationalism, Southeast Asia, and the World*** 深入探讨东南亚比较政治中的民族主义幽灵与政治现代性转型。
 > - **2005 — *Under Three Flags: Anarchism and the Anti-Colonial Imagination*** 考察 19 世纪末全球无政府主义网络与反殖民文学想象的互动。
-> - **2016 — *Imagined Communities* (Revised Edition)** 专著修订版系统奠定民族主义建构论范式，并在第七章提出最后一波民族主义生成模型，揭示殖民地教育朝圣与行政朝圣的空间同构如何将帝国管区转化为民族国家疆界。关联条目：[[Modular Nationalism]]、[[Imagined Community]]、[[Educational Pilgrimage]]、[[Bilingual Intelligentsia]]。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 4–7)]]; [[Argument_Anderson_2016_Verso_Ch07|(pp. 113–140)]]
+> - **2006/2016 — *Imagined Communities* (Revised Edition)** 专著增补《后记》，梳理该书在全球跨国翻译网络中的“地理传记”，肯定非中心地区的盗版与创造性挪用，重申去欧洲中心化的论战宗旨。并在第七章提出最后一波民族主义生成模型，揭示教育朝圣与行政朝圣的空间同构。关联条目：[[Modular Nationalism]]、[[Imagined Community]]、[[Educational Pilgrimage]]、[[Bilingual Intelligentsia]]。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, pp. 4–7)]]; [[Argument_Anderson_2016_Verso_Ch07|(pp. 113–140)]]; [[Argument_Anderson_2016_Verso_Ch11|(pp. 207–228)]]
 
 ---
 
@@ -116,9 +122,10 @@ updated: 2026-11-13
 > - **政治学与比较教育路径** 深刻重塑了民族主义研究的[[Constructivist Paradigm|建构主义范式]]，启发了关于教科书、课程大纲与国家[[Official Knowledge|官方知识]]生产的全球批判性研究；在超国家区域一体化研究中，安德森的理论被进一步延伸用于分析[[EU|欧洲联盟]]如何将教育作为核心文化象征工具，在主权阻滞情境下塑造“欧洲家园”与超国家认同（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009, p. 482]]）。
 > - **认知人类学与宏观组织路径** 为解释人类如何跨越[[Dunbar's Number|邓巴数]]认知上限（约 150 人）开展超大规模跨地域协作提供了核心文化分析工具。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
 > - **[[Technological Republic|技术共和国]][[Geopolitics|地缘政治]]路径** 卡普与扎米斯卡借用安德森的洞见论证，现代高科技社会与国家防卫不仅需要代码与算法，更需要依赖语言与共享历史叙事所维系的共同体想象；批评后现代去国家化思潮放弃巡守“[[Imagined Community|情感民族]]”边界的战略错误。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 191–198)]]
+> - **历史记忆哲学与去欧洲中心化传播** 在第11章提出[[National Biography|民族传记]]与[[Reassurance of Fratricide|兄弟残杀的抚慰]]范畴，解构国家公立教育如何收编内战创伤；并在后记中以全球翻译与正向盗版机制，批判英美学术界的欧洲中心主义偏见。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 199–228)]]
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 《想象的共同体》界定民族为有限主权的想象共同体（Ch01），剖析教育与行政朝圣如何铸造最后一波民族疆界（Ch07），辨析爱国主义与种族主义的阶级分野（Ch08），并考订人口普查、地图与博物馆三大制度对后殖民国家心智的深层规制（Ch10）。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 《想象的共同体》界定民族为有限主权的想象共同体（Ch01），剖析教育与行政朝圣（Ch07）、爱国与种族主义（Ch08）、殖民三制度（Ch10）及记忆遗忘与兄弟残杀抚慰（Ch11）。
 > - [[Argument_Xu_2024_CE|Xu (2024)]] — 运用安德森想象共同体框架，实证解构中国大陆与香港初中历史教材中的领土与族群叙事。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 将安德森想象共同体与邓巴数结合，论述现代高科技攻坚的大规模协同基础及情感民族边界防卫。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 借用安德森想象共同体理论，剖析[[European Commission|欧盟委员会]]在马斯特里赫特条约危机下如何将教育作为建构“欧洲认同”的象征动员工具。（p. 482）
@@ -137,6 +144,8 @@ updated: 2026-11-13
 > - **学术对话与引介** [[Thongchai Winichakul|通猜·威尼差恭]] — 东南亚史学者，其关于暹罗测绘与地理身体的研究被安德森在第十章重点推介并引为核心理论支撑。
 > - **理论对话与论辩** [[Ernest Gellner|欧内斯特·格尔纳]] — 对话格尔纳“民族主义发明民族”命题，批评其将发明混同于伪造，强调共同体的根本分野在于被想象的具体风格。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 6)]]
 > - **思想溯源对话** [[Ernest Renan|欧内斯特·勒南]] — 引述勒南关于民族本质在于共享记忆与共同遗忘的双重命题，阐释集体自传叙事缝合历史断裂的机制。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. xiv)]]
+> - **理论盟友与对话对象** [[Tom Nairn|汤姆·奈恩]] — 在《想象的共同体》后记中坦陈写作该书旨在支援奈恩《不列颠的解体》，批判传统马克思主义在民族主义理论上的回避与浅薄。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 208–209)]]
+> - **欧洲中心主义批判对象** [[Eric Hobsbawm|埃里克·霍布斯鲍姆]] — 批评霍布斯鲍姆等欧洲史家将民族起源局限于西欧双元革命的欧洲中心主义，以美洲独立经验打破欧洲中心神话。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, p. 209)]]
 > - **时间哲学渊源** [[Walter Benjamin|瓦尔特·本雅明]] — 借用其[[Homogeneous, Empty Time|齐一而空洞的时间]]与[[Messianic Time|弥赛亚时间]]构念，奠定现代民族共时性想象的哲学基础。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 24–25)]]
 > - **文学表象分析对话** [[Erich Auerbach|埃里希·奥尔巴赫]] — 依据其图型解释学，剖析中世纪预表与神圣同时性。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, p. 24)]]
 > - **学术对话者** [[Robin Dunbar|罗宾·邓巴]]（Robin Dunbar）— [[Dunbar's Number|邓巴数]]认知上限为安德森民族想象假说提供了演化人类学微观基础。
@@ -173,6 +182,9 @@ updated: 2026-11-13
 > | [[Dunbar's Number]] | 概念 | 与安德森想象链接理论形成跨学科对话，提供大规模协作的神经人类学依据。 |
 > | [[Technological Republic]] | 概念 | 被卡普与扎米斯卡作为超大规模科技攻坚与公民认同维系的核心理论构件。 |
 > | [[Official Knowledge]] | 概念 | 为批判性教育学解构国家教科书与历史叙事提供了奠基性[[Analytic Framework\|分析框架]]。 |
+> | [[Reassurance of Fratricide]] | 概念 | 阐释国家公立教育如何借由悖论语法将残酷异质屠杀收编为家庭同胞悲剧。 |
+> | [[National Biography]] | 概念 | 揭示现代民族在经历大革命时间断裂后如何溯流而上构建古老谱系自传。 |
+> | [[Reversed Ventriloquism]] | 概念 | 剖析历史学家与第二代民族主义精英代拟沉默古代死者深层意图的代言修辞。 |
 > | [[Geo-Body]] | 概念 | 第十章引介并推广通猜概念，阐明制图术先导构建排他性主权领土。 |
 > | [[Map-as-Logo]] | 概念 | 第十章系统阐发，揭示殖民制图如何演化为无限复制的去脉络化图腾徽标。 |
 > | [[Educational Pilgrimage]] | 概念 | 第七章揭示殖民地学生向首府汇聚的求学旅程如何将行政地图内化为民族疆界。 |
