@@ -7,7 +7,7 @@ aliases:
 summary: "本尼迪克特·安德森界定现代民族意识形成机制的核心构念，指资本主义商品生产体系与机械复制印刷技术的历史结合。其追求资本增殖与开拓大众市场的内在动力，打破了拉丁文双语精英市场的垄断壁垒，将分散的地方方言装配为跨地域的标准化印刷语言；美洲殖民地经验进一步揭示，报纸商品在齐一空洞时间中塑造共读同胞，而其在地化流通网络界定了分立主权实体的地理边界。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -50,10 +50,11 @@ related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch05]]"
   - "[[Argument_Anderson_2016_Verso_Ch07]]"
   - "[[Argument_Anderson_2016_Verso_Ch09]]"
+  - "[[Argument_Anderson_2016_Verso_Ch11]]"
 confidence: high
 status: active
 created: 2026-11-11
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
@@ -167,6 +168,7 @@ updated: 2026-11-13
 > - **15世纪中叶 — 古登堡印刷术与早期图书资本主义萌芽** 金属活字与印刷工坊在莱茵河畔兴起，书籍成为人类首批标准化商品。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 39–40)]]
 > - **16世纪初 — 宗教改革与方言畅销书市场爆发** 马丁·路德与出版商结盟，德语圣经开创单语大众读者市场，动摇罗马神权统治。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 41–42)]]
 > - **17世纪中叶 — 拉丁文市场饱和与方言全面印刷化** 欧洲出版资本全面转向通俗方言书籍，奠定主要民族语言的书面基础。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 40–41)]]
+> - **18世纪中后期 — 跨大西洋航海技术、制图学与印刷资本主义协同** 计时钟表（哈里森航海天文钟）与经纬测绘技术的突破，依托印刷资本主义大众媒介化，使跨大西洋定居者得以在地理阻绝下感知与宗主国的齐一平行共存。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, p. 192)]]
 > - **18世纪末–19世纪初 — 美洲殖民地地方报纸兴起与在地化市场分割** 地方商业报刊在西属美洲普及，报纸流通网络与行政边界重合塑造了复数主权民族国家。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 61–65)]]
 > - **19世纪前半叶 — 资产阶级阅读连带与语文学出版浪潮** 词典、语法书与通俗报刊全面商品化，资产阶级依托印刷文字形成首个纯粹基于想象的横向阶级团结。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, pp. 77–79)]]
 > - **19世纪末–20世纪初 — 荷属东印度通俗马来语出版与本土认同扩展** 港口华人印刷商与欧亚混血出版人创办低地马来语报刊与通俗小说，推动通俗马来语由殖民官僚公文向城市大众媒介转型，为跨岛屿民族共同体奠定语言基石。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 135)]]
@@ -213,4 +215,4 @@ updated: 2026-11-13
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 阐明印刷资本主义装配标准化语言（第3章）、在地报纸界定美洲边界（第4章）、资产阶级阅读连带（第5章）、东印度通俗媒介培育跨岛屿认同（第7章）及大革命历史事件的印刷编码与概念模型化机制（第9章，[[Argument_Anderson_2016_Verso_Ch09]]）。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 系统阐明印刷资本主义在语言标准化、美洲边界、阶级连带、反殖民认同、革命模型化及跨大西洋平行共时性（第11章，[[Argument_Anderson_2016_Verso_Ch11]]）中的关键机制。

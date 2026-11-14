@@ -27407,18 +27407,26 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"]:not(.is-collapsed) > .callout-title { margin-bottom:.75rem !important; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content { padding:0 !important; }
 
-/* Flat tints distinguish entry types. */
+/* Keep the table continuous and put the stronger type tint around linked names. */
 html body .callout.callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content table.entry-map-colors {
   --entry-map-paper:var(--ac-paper,var(--background-primary));
-  --entry-map-divider:color-mix(in srgb,var(--text-muted) 18%,transparent);
+  --entry-map-divider:color-mix(in srgb,var(--text-muted) 13%,transparent);
   --entry-map-gutter:clamp(.42rem,1.5cqi,.85rem);
+  --entry-map-name-tint:25%;
+  --entry-map-row-tint:4%;
   width:100% !important;
-  border:0 !important;
-  border-radius:0 !important;
+  border:1px solid var(--entry-map-divider) !important;
+  border-radius:10px !important;
   border-collapse:separate !important;
   border-spacing:0 !important;
-  background:none !important;
+  background:var(--entry-map-paper) !important;
+  overflow:hidden;
   table-layout:fixed !important;
+
+  &:where(.theme-dark *) {
+    --entry-map-name-tint:26%;
+    --entry-map-row-tint:5%;
+  }
 
   & :is(th,td):nth-child(2) { display:none !important; }
 
@@ -27443,20 +27451,19 @@ html body .callout.callout.callout.callout.callout.callout[data-callout="entry-m
   & td a { white-space:normal !important; }
   & tbody tr {
     --entry-type-tone:#87919d;
-    --entry-map-tint:11%;
-    --entry-map-reading-surface:var(--entry-map-paper);
+    --entry-map-reading-surface:color-mix(in srgb,var(--entry-type-tone) var(--entry-map-row-tint),var(--entry-map-paper));
     background:none !important;
   }
 
-  & tr[data-entry-map-kind="concept"] { --entry-type-tone:#65a9cc; }
-  & tr[data-entry-map-kind="theory"] { --entry-type-tone:#ae94d1; }
-  & tr[data-entry-map-kind="method"] { --entry-type-tone:#65b69b; }
-  & tr[data-entry-map-kind="instrument"] { --entry-type-tone:#d3a963; }
-  & tr[data-entry-map-kind="person"] { --entry-type-tone:#d791ae; }
-  & tr[data-entry-map-kind="fact"] { --entry-type-tone:#ce9072; }
+  & tr[data-entry-map-kind="concept"] { --entry-type-tone:#51b7f2; }
+  & tr[data-entry-map-kind="theory"] { --entry-type-tone:#ac8cff; }
+  & tr[data-entry-map-kind="method"] { --entry-type-tone:#46d6ab; }
+  & tr[data-entry-map-kind="instrument"] { --entry-type-tone:#efca61; }
+  & tr[data-entry-map-kind="person"] { --entry-type-tone:#e998c4; }
+  & tr[data-entry-map-kind="fact"] { --entry-type-tone:#f48c66; }
 
   & thead th {
-    background:none !important;
+    background:color-mix(in srgb,var(--fdc-accent) 10%,var(--entry-map-paper)) !important;
     color:var(--fdc-ink) !important;
     font:650 .87em/1.4 var(--ac-sans) !important;
     border:0 !important;
@@ -27472,24 +27479,31 @@ html body .callout.callout.callout.callout.callout.callout[data-callout="entry-m
     line-height:1.62 !important;
   }
 
-  & tbody td:first-child {
-    background:color-mix(in srgb,var(--entry-type-tone) var(--entry-map-tint),var(--entry-map-paper)) !important;
-    font-weight:550 !important;
+  & tbody td:first-child { font-weight:550 !important; }
+
+  & tbody td:first-child:not(:has(a.internal-link)) {
+    background:color-mix(in srgb,var(--entry-type-tone) 12%,var(--entry-map-paper)) !important;
   }
+
+  & tbody tr:last-child > td { border-block-end:0 !important; }
 
   & tbody td:first-child a.internal-link {
     color:var(--text-normal) !important;
     font-weight:inherit !important;
+    background:color-mix(in srgb,var(--entry-type-tone) var(--entry-map-name-tint),var(--entry-map-paper)) !important;
+    padding:.14em .42em !important;
+    border-radius:4px !important;
+    box-decoration-break:clone;
     text-underline-offset:.2em;
   }
 
   & tbody tr:is(:hover,:focus-within) {
-    --entry-map-tint:19%;
-    --entry-map-reading-surface:color-mix(in srgb,var(--entry-type-tone) 5%,var(--entry-map-paper));
+    --entry-map-name-tint:34%;
+    --entry-map-row-tint:9%;
   }
 
   @media (prefers-reduced-motion:no-preference) {
-    & tbody td { transition:background-color 160ms ease !important; }
+    & tbody :is(td,a.internal-link) { transition:background-color 160ms ease !important; }
   }
 }
 
