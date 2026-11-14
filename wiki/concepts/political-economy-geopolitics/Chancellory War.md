@@ -5,10 +5,10 @@ aliases:
   - 内阁战争
   - 首相府战争
   - chancellory wars
-summary: "本尼迪克特·安德森在《想象的共同体》中提出的现代国家冲突形态，指由继承了旧政权官僚中枢、疆界档案与官方民族主义的后革命统治领导层在中枢密室谋划发动的地缘战争。其特征在于冲突决策源于国家马基雅维利主义利益算计，基层民众事前未被咨询亦无深层仇恨，只在事后被官方自卫修辞动员卷入战局。"
+summary: "本尼迪克特·安德森在《想象的共同体》中提出的现代国家冲突形态，指由继承了旧政权官僚中枢、疆界档案与官方民族主义的后革命统治领导层在中枢密室谋划发动的地缘战争。其特征在于冲突决策源于国家马基雅维利主义利益算计，基层民众事前未被咨询亦无深层仇恨，只在事后被官方自卫修辞动员卷入战局；安德森在后记中披露该章在跨国传播中曾因揭露社会主义密室战争而遭遇威权审查全盘抽除。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,20 +17,34 @@ tags:
   - concept/nationalism
   - theme/war
   - theme/state-machinery
+related_concepts:
+  - "[[Official Nationalism]]"
+  - "[[Modular Nationalism]]"
+related_theories:
+  - "[[Imagined Community]]"
+related_methods: []
+related_instruments: []
+related_persons:
+  - "[[Benedict Anderson]]"
+related_facts:
+  - "[[1978-1979 Indochina Armed Conflicts]]"
+related_arguments:
+  - "[[Argument_Anderson_2016_Verso_Ch09]]"
+  - "[[Argument_Anderson_2016_Verso_Ch11]]"
 confidence: high
 status: active
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
 
 > [!def] Chancellory War
-> **密室战争（Chancellory War，亦译内阁战争或首相府战争）** 是[[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）在《[[Imagined Community|想象的共同体]]》第9章中界定的现代国家冲突形态。该概念指后革命政权领导层在夺取政权后，因继承了前朝与殖民时期的官僚档案、地图测绘、条约疆界与宫殿中枢，进而采纳古老王朝的[[Official Nationalism|官方民族主义]]视角，在中枢密室闭门决策发动的地缘常规武装冲突。其核心机制在于战争直接源于统治精英基于国家理性（国家马基雅维利主义）的权力算计；普通民众事先未经咨询且缺乏利益关联，政权只在军事行动爆发后，借助以谎言为主导的官方防卫性修辞动员群众参与。[[Argument_Anderson_2016_Verso_Ch09|(Anderson, 2016, pp. 164–166)]]
+> **密室战争（Chancellory War，亦译内阁战争或首相府战争）** 是[[Benedict Anderson|本尼迪克特·安德森]]在《[[Imagined Community|想象的共同体]]》第9章中界定的现代国家冲突形态。该概念指后革命政权领导层在夺取政权后，因继承了前朝与殖民时期的官僚档案、地图测绘、条约疆界与宫殿中枢，进而采纳古老王朝的[[Official Nationalism|官方民族主义]]视角，在中枢密室闭门决策发动的地缘常规武装冲突。其核心机制在于战争直接源于统治精英基于国家理性（国家马基雅维利主义）的权力算计；普通民众事先未经咨询且缺乏利益关联，政权只在军事行动爆发后，借助以虚假宣传为主导的官方防卫性修辞动员群众参与。[[Argument_Anderson_2016_Verso_Ch09|(Anderson, 2016, pp. 164–166)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 揭示现代主权国家（特别是声称秉持国际主义的社会主义政权）之间的常规战争，本质上是由垄断国家机器的最高执政集团闭门发动的中枢权力博弈。
-> - **用途** 破解将现代国家冲突简单归咎于“历史世仇”、“民间自发民族仇恨”或“意识形态圣战”的传统叙事，阐明官僚国家机器对革命领导阶层的制度同化。
+> - **用途** 破解将现代国家冲突归咎于民间自发历史仇恨或纯粹意识形态圣战的传统叙事，阐明官僚国家机器对革命领导阶层的制度同化。
 > - **边界** 区别于被压迫群体自下而上自发反抗外来侵略的全民民族解放斗争，亦不同于由宗教圣战或纯粹部落宗族冲突驱动的原生暴力。
 
 > [!citation-card] 安德森论密室战争与国家动员机制
@@ -39,8 +53,8 @@ updated: 2026-11-13
 > *I emphasize leaderships, because it is leaderships, not people, who inherit old switchboards and palaces. No one imagines, I presume, that the broad masses of the Chinese people give a fig for what happens along the colonial border between Cambodia and Vietnam. Nor is it at all likely that Khmer and Vietnamese peasants wanted wars between their peoples, or were consulted in the matter. In a very real sense these were 'chancellory wars' in which popular nationalism was mobilized largely after the fact and always in a language of self-defence.*
 
 > [!boundary]- 概念边界
-> - 区别于群众民族解放战争：群众解放斗争源于大众反抗殖民压迫的自发政治觉醒；密室战争则是由垄断国家机器的官僚寡头在闭门内阁中决策并自上而下强加于社会的军事对抗。
-> - 区别于官方民族主义虚构神话：通俗民族主义的文化人造物多为富有牺牲情感的“神话”；官方民族主义在密室战争中向公众灌输的自卫性战争借口，往往属于统治阶层蓄意制造的“政治谎言”。[[Argument_Anderson_2016_Verso_Ch09|(Anderson, 2016, p. 165, n. 10)]]
+> - 区别于群众民族解放战争 — 群众解放斗争源于大众反抗殖民压迫的自发政治觉醒；密室战争则是由垄断国家机器的官僚集团在闭门内阁中决策并自上而下强加于社会的军事对抗。
+> - 区别于官方民族主义虚构神话 — 通俗民族主义的文化人造物多为富有牺牲情感的神话；官方民族主义在密室战争中向公众灌输的自卫性借口，往往属于统治阶层蓄意制造的政治谎言。[[Argument_Anderson_2016_Verso_Ch09|(Anderson, 2016, p. 165, n. 10)]]
 
 ---
 
@@ -76,7 +90,7 @@ updated: 2026-11-13
 > **国家机器的同化反噬机制** 探讨激进反体制政权在掌握国家政权后为何不可避免地滑向传统地缘政治竞争，学者聚焦旧政权留存的制度软硬件对执政精英的结构性同化。
 
 > [!claim] Anderson, B.
-> **旧国家行政网络与领主心理** 革命领导阶层无论初衷何等激进，一旦进入国家大厦，均会继承旧国家庞大复杂的官僚行政网络：档案卷宗、测绘地图、国界条约与旧日宫殿。布尔什维克将首都迁回沙皇古都莫斯科克里姆林宫，中国共产党在中南海与紫禁城旁施政，领导层在不知不觉中扮演起旧庄园主的统治角色。伴随对旧国家机器的接管，古代君王被逆向归化为现代国民先祖，使旨在维系国家最高利益的官方民族主义和国家马基雅维利主义在革命政权内部全面回潮。[[Argument_Anderson_2016_Verso_Ch09|(Anderson, 2016, pp. 164–165)]]
+> **旧国家行政网络与领主心理** 革命领导阶层无论初衷何等激进，一旦进入国家大厦，均会继承旧国家庞大复杂的官僚行政网络：档案卷宗、测绘地图、国界条约与旧日宫殿。布尔什维克将首都迁回沙皇古都莫斯科克里姆林宫，领导层在不知不觉中扮演起旧庄园主的统治角色。伴随对旧国家机器的接管，古代君王被逆向归化为现代国民先祖，使旨在维系国家最高利益的官方民族主义和国家马基雅维利主义在革命政权内部全面回潮。[[Argument_Anderson_2016_Verso_Ch09|(Anderson, 2016, pp. 164–165)]]
 
 ---
 
@@ -100,11 +114,20 @@ updated: 2026-11-13
 > - **18世纪 — 欧洲古典内阁战争模式** 封建君主与贵族重臣在宫廷密室决策，动用职业雇佣军为王位继承与领地争夺发动有限内阁战争（Kabinettskrieg）。
 > - **1978–1979年 — 印度支那与中越武装冲突爆发** 独立共产党政权之间首次爆发大规模常规领土战争，粉碎了无产阶级国际主义消灭民族国家的理论设想。
 > - **1983年 — 安德森确立密室战争理论范畴** 安德森在《[[Imagined Community|想象的共同体]]》第9章系统界定密室战争，揭示后革命政权继承旧国家机器与官方民族主义、在中枢密室闭门决策发动的地缘战争发生学机制。[[Argument_Anderson_2016_Verso_Ch09|(Anderson, 2016, pp. 164–166)]]
+> - **1983/2006 — 概念的跨国传播与威权审查过滤** 安德森在后记中披露，《想象的共同体》中文简体字版在出版时，涉及批判领导层与社会主义国家密室战争分析的整个第9章被全盘抽除，生动确证了密室战争理论对威权国家审查机器构成的尖锐挑战。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 228–235)]]
 
 ---
 
+> [!debates|notitle] 学术争议
+>
+> > [!axis] 国家理性官僚计算 vs 民间历史宿怨自发爆发
+> > 争论社会主义国家间的边界战争究竟源于执政集团基于旧政权条约档案的地缘利益算计，还是源于两族民众之间根深蒂固的历史族群敌意。
+> >
+> > - **官方叙事与原生论观点** 将武装冲突描绘为两族数百年历史恩怨或对方政权背信弃义的自发反弹。
+> > - **密室战争理论（[[Argument_Anderson_2016_Verso_Ch09|Anderson, 2016]]）** 强调普通农民对殖民边界毫无利益诉求，冲突纯属统治集团垄断的密室权力算计，民间仇恨主要在战后被国家宣传机器自上而下煽动。[[Argument_Anderson_2016_Verso_Ch09|(Anderson, 2016, p. 165)]]
+
 > [!warning|limits] 适用局限
-> 该概念专用于分析具备科层官僚体系与常备军体制的现代主权国家，在中枢执政集团主导下发动的常规地缘战争；不适用于解释无国家形态的游击反叛武装的去中心化冲突，亦不能直接套用于因资源极度匮乏引发的微观社区械斗。
+> 该概念专用于分析具备科层官僚体系与常备军体制的现代主权国家，在中枢执政集团主导下发动的常规地缘战争；不适用于解释无国家形态的游击反叛武装的去中心化冲突，亦不能直接套用于因资源极度匮乏引发的微观社区械斗。[[Argument_Anderson_2016_Verso_Ch09|(Anderson, 2016, pp. 164–166)]]
 
 ---
 
@@ -119,5 +142,5 @@ updated: 2026-11-13
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch09|Anderson (2016)]] — 系统界定密室战争，揭示革命政权接管旧国家电线网络后复活官方民族主义并爆发地缘战争的机制（pp. 164–166）。
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 系统界定密室战争机制（第9章，[[Argument_Anderson_2016_Verso_Ch09]]），并在第11章后记中揭示该章在跨国传播中遭遇威权全盘审查抽除（[[Argument_Anderson_2016_Verso_Ch11]]）。

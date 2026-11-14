@@ -11,7 +11,7 @@ aliases:
 summary: "本尼迪克特·安德森用以剖析现代民族主义深层文化根源的象征构念。指现代国家为阵亡无名军人设立的空置或遗骸不可考的纪念碑与公共陵墓；该构念揭示了民族主义承接传统宗教安顿死亡、苦难与宿命连续性的本体功能，通过将个体的偶然牺牲转化为民族集体的永恒命运，构筑起维系横向认同与政治牺牲意愿的世俗圣坛。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -32,10 +32,11 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
+  - "[[Argument_Anderson_2016_Verso_Ch11]]"
 confidence: high
 status: active
 created: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -113,6 +114,7 @@ updated: 2026-11-11
 > - **第一次世界大战时期 — 无名战士之墓的普遍创设** 大规模工业化总体战导致海量士兵尸骨无存；1920年英法两国在西敏寺与凯旋门正式设立无名战士之墓，随后被全球现代国家普遍采纳。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 9–10)]]
 > - **20世纪中叶 — 公共礼仪制度化与冷战国祭** 无名烈士墓演化为现代主权国家迎送外国元首、举行独立纪念日公祭的核心礼仪圣坛。
 > - **1983年 — 安德森提出文化人类学阐释** 安德森在《想象的共同体》中将无名烈士之墓作为切入民族主义文化根源的首发象征，确立其在政治人类学与历史哲学中的经典构念地位。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 9–12)]]
+> - **1983/2006 — 后记论战意图回溯** 安德森在后记中反思指出，以无名烈士之墓作为切入点旨在直接击中经典马克思主义与自由主义在解释自愿赴死情感魔力上的盲区，强调唯有民族范畴提供了超越政党学说的存在论宿命感。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 213–214)]]
 
 ---
 
@@ -145,4 +147,4 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch02|Anderson (2016)]]：阐明无名战士之墓与衣冠冢作为现代民族文化独特象征的形成机制及其对宗教存在论功能的承接。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 系统阐明无名战士之墓对宗教存在论功能的承接（第1章），并在后记中回溯其反思自由主义与马克思主义解释盲区的论战意图（第11章，[[Argument_Anderson_2016_Verso_Ch11]]）。
