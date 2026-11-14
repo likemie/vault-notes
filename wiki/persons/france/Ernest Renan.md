@@ -24,6 +24,8 @@ tags:
 related_concepts:
   - "[[Nationalism]]"
   - "[[Everyday Plebiscite]]"
+  - "[[Reassurance of Fratricide]]"
+  - "[[National Biography]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
   - "[[Geopolitics]]"
@@ -44,6 +46,7 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Anderson_2016_Verso_Ch01]]"
+  - "[[Argument_Anderson_2016_Verso_Ch11]]"
 confidence: high
 status: active
 created: 2026-10-08
@@ -89,12 +92,13 @@ updated: 2026-11-11
 
 > [!influence-path] 影响路径
 > - **理论路径** 奠定了现代政治哲学中的“公民民族主义”[[Paradigm|范式]]，其关于“[[Everyday Plebiscite|每日公民投票]]”与“共同遗忘”的双重洞见，为[[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）剖析“[[Imagined Community|想象的共同体]]”如何跨越历史断裂缝合认同提供了奠基性思想资源。
+> - **兄弟残杀的抚慰与国家历史编纂学** 安德森在第11章解构勒南演讲中“必须已经遗忘”的悖论语法，揭示现代国家历史教科书如何通过提示惨案名称将残酷的异质杀戮收编为同胞兄弟相残的家庭叙事。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 199–204)]]
 > - **政策与政治[[Discourse|话语]]路径** 成为现代西方民主共和国抵抗狭隘血缘沙文主义、构建多族裔包容性公民国家认同的核心法理与哲学支柱。
 > - **当代[[Geopolitics|地缘政治]]与[[Technological Republic|技术共和国]]重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《技术共和国》中借用勒南命题，呼吁西方重塑共同生活的公民信念以克服冷漠与文化虚无。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]] — 引述勒南关于民族本质在于共享记忆更在于共同遗忘的命题，指出新兴民族借助叙事机制缝合历史断裂以确立古老连续性（p. xiv）。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 阐发欧内斯特·勒南“[[Everyday Plebiscite|每日公民投票]]”命题对当代重塑国家认同与技术共和国生存意志的关键意义。
+> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 在第1章（p. xiv）与第11章（pp. 199–204）引述勒南命题，解构“必须已经遗忘”的悖论语法如何通过公立学校将古代异质屠杀重构为[[Reassurance of Fratricide|兄弟残杀的抚慰]]与[[National Biography|民族传记]]。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 在第17章（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch. 17]]）阐发勒南“[[Everyday Plebiscite|每日公民投票]]”命题对当代重塑国家认同与技术共和国生存意志的关键意义。
 
 ---
 
@@ -126,6 +130,8 @@ updated: 2026-11-11
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Everyday Plebiscite\|每日公民投票]] | 概念 | 勒南在 1882 年演讲中提出的核心概念，奠定公民民族主义基石。 |
+> | [[Reassurance of Fratricide\|兄弟残杀的抚慰]] | 概念 | 安德森在解构勒南演讲中“必须已经遗忘”悖论语法时提出的核心机制。 |
+> | [[National Biography\|民族传记]] | 概念 | 勒南强调的共同遗忘与叙事缝合是构建溯流而上民族传记的认识论前提。 |
 > | [[Technological Republic\|技术共和国]] | 概念 | 卡普引用勒南的共同生活愿望作为技术共和国国家凝聚力的精神来源。 |
 > | [[Civic Religion\|公民宗教]] | 概念 | 勒南强调共同牺牲与崇高道德情感是维系世俗国家的准宗教纽带。 |
 > | [[National Character\|国民性]] | 概念 | 勒南主张摆脱狭隘种族血统论，从历史牺牲与公民共识重塑国民品格。 |
