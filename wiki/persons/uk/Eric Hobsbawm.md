@@ -10,10 +10,10 @@ summary: "英国马克思主义史学家，现代主义民族理论奠基人之�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: 1917
 died: 2012
 lifespan: "1917–2012"
@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-11
-updated: 2026-11-12
+updated: 2026-11-14
 ---
 
 ---

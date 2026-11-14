@@ -8,10 +8,10 @@ summary: "爱尔兰裔美国政治学家与东南亚研究权威，康奈尔大�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 34
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 40
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 person_kind: "scholar"
 born: 1936
 died: 2015
@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---

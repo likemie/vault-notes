@@ -8,7 +8,11 @@ aliases:
 summary: "德国犹太裔哲学家、文化批评家与翻译家，法兰克福学派重要思想纽带。其在《历史哲学论纲》中提出的齐一而空洞的时间、弥赛亚时间以及历史天使等论断，深刻揭示了近代世俗历史意识的建构本性，为本尼迪克特·安德森阐释现代民族作为想象政治共同体的时间感知基础提供了核心哲学基石。"
 type: person
 nationality: germany
-person_region: germany
+person_region: "germany"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: 1892
 died: 1940
 lifespan: "1892–1940"

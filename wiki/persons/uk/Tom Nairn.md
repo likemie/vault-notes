@@ -9,10 +9,10 @@ summary: "苏格兰政治理论家与历史学家，西方马克思主义民族�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: 1932
 died: 2023
 lifespan: "1932–2023"
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-11
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
