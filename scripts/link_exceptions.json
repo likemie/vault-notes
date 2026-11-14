@@ -802,5 +802,35 @@
       "sentence": "大众出版印刷市场、大学校园、工会沙龙与民间识字班课堂",
       "target": "wiki/concepts/higher-education/Grandes Ecoles.md"
     }
+  ],
+  "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md": [
+    {
+      "sentence": "比较德国美学传统时确立的三项核心维度，分别追问艺术的本体规定、艺术与美的认识价值以及艺术对人的实践功能，用于横向贯通不同时代哲学家的美学立场（Preface, pp.",
+      "target": "wiki/concepts/educational-psychology/Epistemic Value.md"
+    },
+    {
+      "sentence": "实践目的发生自我颠覆：美学从理性主义的辅助工具演变为独立乃至与之形成创造性对立的学科（p.",
+      "target": "wiki/concepts/competency-and-assessment/Creativity.md"
+    },
+    {
+      "sentence": "悬置或弱化独特认知功能，对认识论进路持保留态度（pp.",
+      "target": "wiki/concepts/educational-philosophy/Epoché.md"
+    },
+    {
+      "sentence": "**译文与版本依赖** 鲍姆嘉通拉丁文著作的英译参照了德文对译本；除丹麦语和匈牙利语文献依托既有英译本外，其余德文与拉丁文引文均经重新译定（Preface, p.",
+      "target": "wiki/concepts/research-methodology/Document.md"
+    }
+  ],
+  "wiki/concepts/educational-psychology/Epistemic Value.md": [
+    {
+      "sentence": "不同的学科对何种认识产出具有高价值持有不同判据：某些领域珍视高度抽象的数学模型，另一些领域则赋予精湛的实验操作规程与野外标本鉴别以崇高价值。",
+      "target": "wiki/concepts/educational-philosophy/The Sublime.md"
+    }
+  ],
+  "wiki/persons/germany/Moses Mendelssohn.md": [
+    {
+      "sentence": "通过区分认知、欲望与赞同官能，并主张舞台拥有独立于日常伦理的审美法则，他为艺术自主性开辟了道路；但其对认知维度的悬置与主观化转向，也使艺术的本体论界定弱化为主体愉悦反应。",
+      "target": "wiki/concepts/educational-philosophy/Epoché.md"
+    }
   ]
 }

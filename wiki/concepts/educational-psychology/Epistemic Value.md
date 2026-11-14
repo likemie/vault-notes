@@ -50,7 +50,7 @@ updated: 2026-11-14
 > - **边界** 认识论价值直接指向认知成就本身的知性与解释意义，区别于追求文凭、金钱或社会声望的工具性功利价值（instrumental value）。
 
 > [!citation-card] 认识论价值的界定与认知资源权衡
-> 认识论价值是指向各种认识成就的相对价值。个体对某一[[Epistemic Aims\|认识目标]]的追求决策，直接取决于该认识成就的相对价值是否超过付出认知努力所承担的成本。高水平的探究依赖于个体对高阶解释与深层理解赋予充分的认识论价值。（pp. 142, 146）
+> 认识论价值是指向各种认识成就的相对价值。个体对某一[[Epistemic Aims\|认识目标]]的追求决策，直接取决于该认识成就的相对价值是否超过付出认知努力所承担的成本。高水平的探究依赖于个体对高阶解释与深层理解赋予充分的认识论价值。[[Argument_Chinn_2011_EducPsychol|(Chinn et al., 2011, pp. 142, 146)]]
 >
 > *Epistemic value is the relative value placed on different epistemic achievements... The decision to adopt an epistemic aim depends on evaluating whether the epistemic value of that achievement outweighs the cognitive effort and costs required... Sustained inquiry relies on attributing high epistemic value to deep explanations and causal understanding.*
 
@@ -99,7 +99,7 @@ updated: 2026-11-14
 > **价值规范的学科文化与领域依附维度** 考察学术共同体的价值取向如何形塑具体学科的方法偏好与评价准则。
 
 > [!claim] Chinn, C. A. et al.
-> **共同体价值形塑学科规范** 认识论价值不仅存在于个体心智中，更体现为特定学科共同体的文化规范。不同的学科对何种认识产出具有高价值持有不同判据：某些领域珍视高度抽象的数学模型，另一些领域则赋予精湛的实验操作规程与野外标本鉴别以[[The Sublime|崇高]]价值。理解学科特定的认识论价值，是学习者融入学科探究文化与形成专业[[Epistemic Agency\|认识主体性]]的核心前提。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 146)]]
+> **共同体价值形塑学科规范** 认识论价值不仅存在于个体心智中，更体现为特定学科共同体的文化规范。不同的学科对何种认识产出具有高价值持有不同判据：某些领域珍视高度抽象的数学模型，另一些领域则赋予精湛的实验操作规程与野外标本鉴别以崇高价值。理解学科特定的认识论价值，是学习者融入学科探究文化与形成专业[[Epistemic Agency\|认识主体性]]的核心前提。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 146)]]
 
 ---
 
@@ -124,6 +124,16 @@ updated: 2026-11-14
 
 > [!warning] 适用局限
 > - **主观自陈测量的掩饰效应** 在[[Questionnaire\|问卷]]或访谈中，学习者容易受到社会赞许性影响而高估自己对深层机制理解的认识论价值，使得外显报告的价值与实际面对高难度任务时的逃避行为存在测量脱节。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Epistemic Aims]] | 概念 | 认识论价值决定个体是否采纳并投入高阶认识目标。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, pp. 145–146)]] |
+> | [[Epistemic Cognition]] | 概念 | 认识论价值是扩展认识论认知模型的核心构成维度之一。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 142)]] |
+> | [[Epistemic Agency]] | 概念 | 理解学科特定的认识论价值是学习者形成专业认识主体性的重要前提。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 146)]] |
 
 ---
 

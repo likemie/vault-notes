@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-14
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -135,7 +135,7 @@ updated: 2026-11-11
 > [!feature] [[Epoché|悬置]]还原后的先验意识三要素
 > 通过悬置将客观世界放入括号之后，留存下来的唯有纯粹意识流；胡塞尔经典辨析出意识的三大构成性基石：
 > - **思维主体之“我”（The 'I' who thinks）** 先验能思核心，是所有体验、感知与判断的发起极点与统一枢纽。
-> - **主体的心理与思维行为（Mental [[ASEAN Credit Transfer System|Acts]] / Noesis）** 意识的意向作用，涵盖感知、回忆、想象、判断、期待等具体的体验过程。
+> - **主体的心理与思维行为（Mental Acts / Noesis）** 意识的意向作用，涵盖感知、回忆、想象、判断、期待等具体的体验过程。
 > - **思维行为的意向对象（Intentional Objects / Noema）** 意识所朝向的意义客体，即被感知、被回忆或被思考之物在意识中显现的特定形态。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 19)]]
 
 > [!feature] 质性与工程观察中的悬置三维度
@@ -145,8 +145,8 @@ updated: 2026-11-11
 
 > [!feature] 超国家量化治理中[[Ontology|本体论]]悬置的多重运作机制
 > - **制度历史与社会脉络括弧化（Bracketing National Contexts）** 将各国深嵌的历史传统、制度安排与文化独特性系统性置入括号，视其为无碍[[Commensuration|通约]]测量的可忽略噪音。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 448)]]
-> - **教育本体论价值追求均质化（Homogenizing Educational Values）** 消除关于教育目的、伦理追求与公民理想的多元哲学论争，将教育整体还原为单一经济主义绩效维度。同上
-> - **全球去情境等值通约空间建构（Fabricating Global [[Space of Equivalence]]）** 借助指标、基准与跨国测验，构建跨越国界的单一[[Human Capital Theory|人力资本]]等值标尺，实现跨国可比性与超国家远程操控。同上
+> - **教育本体论价值追求均质化（Homogenizing Educational Values）** 消除关于教育目的、伦理追求与公民理想的多元哲学论争，将教育整体还原为单一经济主义绩效维度。
+> - **全球去情境等值通约空间建构（Fabricating Global [[Space of Equivalence]]）** 借助指标、基准与跨国测验，构建跨越国界的单一[[Human Capital Theory|人力资本]]等值标尺，实现跨国可比性与超国家远程操控。
 > - **法律主权与宪制争议的政治悬置（Political Epoché of Legal Sovereignty）** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 24, 34]]）指出，在[[European Education Space|欧洲教育空间]]中，[[EU|欧盟]]受制于“[[Subsidiarity Principle|辅助性原则]]”而无法推行硬性法律指令；超国家政策精英通过政治上的“主权悬置”（political epoché），将敏感的宪法权限与国家管辖权放入括号，转而借助[[Data Infrastructure|数据基础设施]]、指标对比与跨国测验等软治理工具塑造共同教育空间。
 
 > [!logic-map]- 要素关系
@@ -272,14 +272,6 @@ updated: 2026-11-11
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 18–19)]] — 详尽梳理胡塞尔[[Phenomenology|现象学]][[Epoché|悬置]]的定义、放入括号的操作意涵、先验意识三要素以及 Curtis（1978）现象学共识对质性探究[[Paradigm|范式]]的奠基。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025, pp. 166–167)]] — 论证在工程文化与复杂系统诊断中“悬置评判”（suspending judgment）与如实注视云状现实的[[Epistemology|认识论]]核心地位。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, p. 448)]] — 揭示[[OECD|经合组织]]如何通过[[Ontology|本体论]]悬置将各国历史传统放入括号，制造全球等值[[Commensuration|通约]]空间并实施[[Governing at a Distance|远程治理]]。
-> - [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 24, 34)]] — 揭示[[EU|欧盟]]与经合组织如何在[[Subsidiarity Principle|辅助性原则]]下运用政治悬置（political epoché）将法律主权争议放入括号，依托数据基建推进[[European Education Space|欧洲教育空间]]治理。
-
----
-
 > [!entry-map] 悬置概念知识网络与关联矩阵
 >
 > | 条目 | 类型 | 关联与贡献说明 |
@@ -296,3 +288,11 @@ updated: 2026-11-11
 > | [[OECD]] | 事实 | 运用本体论悬置与跨国测评构建全球教育[[Space of Equivalence\|等值空间]]的超国家组织。 |
 > | [[Fazal Rizvi]] | 人物 | 批判揭示经合组织量化治理中本体论悬置机制的全球教育政策学者。 |
 > | [[Bob Lingard]] | 人物 | 共同揭示指标治理通过悬置制度脉络建构等值通约空间的教育社会学家。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 18–19)]] — 详尽梳理胡塞尔[[Phenomenology|现象学]][[Epoché|悬置]]的定义、放入括号的操作意涵、先验意识三要素以及 Curtis（1978）现象学共识对质性探究[[Paradigm|范式]]的奠基。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025, pp. 166–167)]] — 论证在工程文化与复杂系统诊断中“悬置评判”（suspending judgment）与如实注视云状现实的[[Epistemology|认识论]]核心地位。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, p. 448)]] — 揭示[[OECD|经合组织]]如何通过[[Ontology|本体论]]悬置将各国历史传统放入括号，制造全球等值[[Commensuration|通约]]空间并实施[[Governing at a Distance|远程治理]]。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 24, 34)]] — 揭示[[EU|欧盟]]与经合组织如何在[[Subsidiarity Principle|辅助性原则]]下运用政治悬置（political epoché）将法律主权争议放入括号，依托数据基建推进[[European Education Space|欧洲教育空间]]治理。

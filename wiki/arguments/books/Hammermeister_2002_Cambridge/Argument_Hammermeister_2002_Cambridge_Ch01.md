@@ -10,7 +10,7 @@ title: "Argument_Hammermeister_2002_Cambridge_Ch01"
 argument_key: "Argument_Hammermeister_2002_Cambridge_Ch01"
 argument_display_title: "The German aesthetic tradition"
 argument_kind: "book-chapter"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -51,6 +51,7 @@ related_persons:
   - "[[Plato]]"
   - "[[Aristotle]]"
   - "[[Xenophon]]"
+  - "[[Johann Gottfried von Herder]]"
 status: draft
 created: "2026-11-14"
 updated: "2026-11-14"
@@ -166,7 +167,7 @@ updated: "2026-11-14"
 > [!feature] 门德尔松对近代美学的关键理论创新
 > - **三种愉悦与官能游戏** 区分源于杂多统一的美、源于杂多一致的完善以及源于生理舒缓与诸官能和谐游戏的感官愉悦（认为唯有音乐在实践中兼备三者；但其将观画愉悦与吃蛋糕相提并论的倾向亦暴露了感官化的风险）（pp. 16–17）。
 > - **崇高与素朴的引入** 在德国哲学中率先系统讨论[[The Sublime|崇高]]，将其界定为非凡完美的感性表达或超出感官瞬间把握极限的美，引发局部美感愉悦与整体把握受挫交织、最终转化为赞叹（区别于伯克的恐惧）的复合情绪；同时将素朴界定为对高贵美好灵魂的简朴再现（属 *genus humilis*），深刻影响了席勒（pp. 17–18）。
-> - **艺术符号分类体系** 追随法国学者让-巴蒂斯特·杜博斯（Jean-Baptiste Dubos），按所用符号将绘画、雕塑、建筑、音乐与舞蹈归入自然符号，将诗与修辞归入任意符号，奠定了德国早期艺术符号学的基础并启发了戈特霍尔德·埃夫莱姆·莱辛（Gotthold Ephraim Lessing）与约翰·戈特弗里德·赫尔德（Johann Gottfried Herder）（p. 18）。
+> - **艺术符号分类体系** 追随法国学者让-巴蒂斯特·杜博斯（Jean-Baptiste Dubos），按所用符号将绘画、雕塑、建筑、音乐与舞蹈归入自然符号，将诗与修辞归入任意符号，奠定了德国早期艺术符号学的基础并启发了戈特霍尔德·埃夫莱姆·莱辛（Gotthold Ephraim Lessing）与[[Johann Gottfried von Herder|约翰·戈特弗里德·赫尔德]]（Johann Gottfried Herder）（p. 18）。
 > - **赞同官能与舞台道德** 在认知与欲望之外设立感觉官能（1785 年后称赞同官能，*Billigungsvermögen*），把审美确立为无欲之乐，直接先导了康德的[[Disinterested Pleasure|无功利愉悦]]（pp. 18–19）。他进而主张“舞台有其自身的道德”，剧场旨在激发强烈激情，故自杀等现实中应受谴责的行为在悲剧中可以是艺术上的善（p. 19）。
 
 > [!sub-claim] 3. 过于偏重主观愉悦削弱了门德尔松的艺术本体论

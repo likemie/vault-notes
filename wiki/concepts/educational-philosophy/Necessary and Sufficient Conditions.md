@@ -39,7 +39,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -161,6 +161,15 @@ updated: 2026-11-03
 > 在复杂教育生态中，极难孤立确立绝对意义上的单一充分条件；若将某种统计显著的经验相关机械升级为“政策成功的必要条件”，容易在政策移植中引发削足适履的教条化干预。
 
 ---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Causality]] | 概念 | 必要条件与充分条件是因果推断与逻辑归因的基础分析工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, pp. 56–57)]] |
+> | [[Compound Causes]] | 概念 | 复杂教育情境中必要与充分条件多以 INUS 复合因果构型协同起效。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, pp. 56–57)]] |
+> | [[Interaction Effect]] | 概念 | 多重条件在交互作用中改变彼此的作用方向与强度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, pp. 56–57)]] |
+> | [[National Large-Scale Assessments]] | 概念 | 全员人口普查式测评构成测试问责制落地的制度必要条件。[[Argument_Verger_2019_Discourse\|(Verger et al., 2019, p. 256)]] |
 
 ---
 

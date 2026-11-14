@@ -7549,8 +7549,6 @@
     "F. R. Sagasti, 1976": "F. R. Sagasti, 1976",
     "FAZ (1998)": "FAZ, 1998",
     "FAZ, 1998": "FAZ, 1998",
-    "FBA (1975)": "FBA, 1975",
-    "FBA, 1975": "FBA, 1975",
     "FFT Education Datalab (2018)": "FFT Education Datalab, 2018",
     "FFT Education Datalab, 2018": "FFT Education Datalab, 2018",
     "FNAE (2020)": "FNAE, 2020",
@@ -17405,8 +17403,6 @@
     "N. et al., 2006": "N. et al., 2006",
     "NAE (1964)": "NAE, 1964",
     "NAE, 1964": "NAE, 1964",
-    "NAS (1980)": "NAS, 1980",
-    "NAS, 1980": "NAS, 1980",
     "NCEE (2015)": "NCEE, 2015",
     "NCEE (2021)": "NCEE, 2021",
     "NCEE, 2015": "NCEE, 2015",
@@ -25188,8 +25184,6 @@
     "Verschaffel, 1999": "Verschaffel, 1999",
     "Verschuren (2003)": "Verschuren, 2003",
     "Verschuren, 2003": "Verschuren, 2003",
-    "Verso (1998)": "Verso, 1998",
-    "Verso, 1998": "Verso, 1998",
     "Verstak et al. (2014)": "Verstak et al., 2014",
     "Verstak et al., 2014": "Verstak et al., 2014",
     "Vescio et al. (2008)": "Vescio et al., 2008",
@@ -83236,21 +83230,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch17.md"
-      ],
-      "title": ""
-    },
-    "FBA, 1975": {
-      "aliases": [
-        "FBA, 1975",
-        "FBA (1975)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "FBA, 1975"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/uk/Elie Kedourie.md"
       ],
       "title": ""
     },
@@ -154697,21 +154676,6 @@
       ],
       "title": ""
     },
-    "NAS, 1980": {
-      "aliases": [
-        "NAS, 1980",
-        "NAS (1980)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "NAS, 1980"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/us/G. William Skinner.md"
-      ],
-      "title": ""
-    },
     "NCEE, 2015": {
       "aliases": [
         "NCEE, 2015",
@@ -211293,21 +211257,6 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14.md",
         "wiki/concepts/research-methodology/Analytic Generalization.md",
         "wiki/methods/qualitative/Participant Observation.md"
-      ],
-      "title": ""
-    },
-    "Verso, 1998": {
-      "aliases": [
-        "Verso, 1998",
-        "Verso (1998)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Verso, 1998"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/italy/Franco Moretti.md"
       ],
       "title": ""
     },

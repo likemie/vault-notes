@@ -54,7 +54,7 @@ updated: 2026-11-14
 > - **代表贡献** 1998年出版《欧洲小说地图：1800–1900》（*Atlas of the European Novel 1800–1900*），2005年出版《图表、地图与树状图：文学史的抽象模型》（*Graphs, Maps, Trees*），2013年出版《远读》（*Distant Reading*）。
 
 > [!citation-card] 安德森论莫雷蒂对“地缘传记”的方法启发
-> 地缘传记的构想，最初源于阅读弗兰科·莫雷蒂引人入胜的《欧洲小说地图：1800–1900》（Verso, 1998）。莫雷蒂令人信服地展示了如何将小说的地理扩散轨迹清晰绘制在地图上，进而揭示出印刷文本的发行模式、语言壁垒以及文学市场的空间扩张。这使我意识到，我们完全可以对一部学术著作做同样的研究：追踪它的翻译轨迹、它的跨国航行，以及它在跨越政治与文化边界时经历的奇妙变异。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, p. 211, n. 1)]]
+> 地缘传记的构想，最初源于阅读弗兰科·莫雷蒂引人入胜的《欧洲小说地图：1800–1900》（由 Verso 出版，1998年）。莫雷蒂令人信服地展示了如何将小说的地理扩散轨迹清晰绘制在地图上，进而揭示出印刷文本的发行模式、语言壁垒以及文学市场的空间扩张。这使我意识到，我们完全可以对一部学术著作做同样的研究：追踪它的翻译轨迹、它的跨国航行，以及它在跨越政治与文化边界时经历的奇妙变异。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, p. 211, n. 1)]]
 >
 > *The idea of a [[Geo-biography|geo-biography]] came to me from reading Franco Moretti's fascinating Atlas of the European Novel 1800–1900 (London: Verso, 1998). Moretti demonstrated how the geographical diffusion of novels could be tracked on maps, revealing patterns of distribution, linguistic barriers, and the spatial expansion of literary markets. It occurred to me that one might attempt something similar with an academic text – [[Tracking|tracking]] its translations, its travels, and the curious mutations it underwent as it crossed political and cultural borders.*
 
@@ -68,7 +68,7 @@ updated: 2026-11-14
 > - **2000** 转任斯坦福大学丹·萨利副校长荣誉讲席教授。
 > - **2005** 出版方法论宣言式著作《图表、地图与树状图：文学史的抽象模型》（*Graphs, Maps, Trees*），系统引入量化图表、空间制图与达尔文演化分支模型。
 > - **2010** 在斯坦福大学正式建立“斯坦福文学实验室”（Stanford Literary Lab），开启基于海量数字化文学文库的计算批评实践。
-> - **2013** 出版论文集《远读》（*Distant Reading*），次年荣获美国国家书评人协会奖（National Book Critics Circle Award）。
+> - **2013** 出版理论专集《远读》（*Distant Reading*），次年荣获美国国家书评人协会奖（National Book Critics Circle Award）。
 
 ---
 
@@ -93,8 +93,8 @@ updated: 2026-11-14
 
 ---
 
-> [!citation-card] 莫雷蒂论文学地图在空间分析中的经验效力
-> 地图不是一种被动装饰，而是一种积极的分析工具。每一张文学地图都迫使我们直面文学形式与社会空间之间的真实联系。通过把小说内部的情节空间与外部印刷品的跨国流通网络直接映射在地理图纸上，我们能够清晰看到传统批评视而不见的结构性现象：边界在哪里停滞、资本在哪里集中、何种叙事模式能够突破语言屏障走向大陆。
+> [!citation-card] 莫雷蒂谈文学地图在空间分析中的经验效力
+> 地图作为一种积极的分析工具，超越了被动装饰的范畴。每一张文学地图都迫使我们直面文学形式与社会空间之间的真实联系。通过把小说内部的情节空间与外部印刷品的跨国流通网络直接映射在地理图纸上，我们能够清晰看到传统批评视而不见的结构性现象：边界在哪里停滞、资本在哪里集中、何种叙事模式能够突破语言屏障走向大陆。
 >
 > *A map is not an ornament; it is an analytical tool. It forces you to look at literature in a completely different way... Space [[ASEAN Credit Transfer System|acts]] as an internal logic to the novel, and geography becomes an explanatory framework for the [[Research in Schools Evaluation|rise]] and diffusion of narrative genres.*
 
