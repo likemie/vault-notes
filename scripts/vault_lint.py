@@ -2906,7 +2906,38 @@ def citation_identity(display: str, target: str = "") -> str:
     return f"{source}|{year_match.group(0).lower()}|{locator}"
 
 
-def citation_units(text: str) -> List[Tuple[str, int, str]]:
+def citation_callout_units(lines: List[str], offset: int) -> List[Tuple[str, int, str]]:
+    """Group each callout's own lines, masking nested callouts to preserve offsets."""
+    quote_re = re.compile(r"^\s*((?:>[ \t]*)+)")
+    heading_re = re.compile(r"\[![^\]\n]+\]")
+    units: List[Tuple[int, int, int]] = []
+    active: List[Tuple[int, int]] = []
+    owners: List[Optional[int]] = []
+    for i, line in enumerate(lines):
+        quote = quote_re.match(line)
+        depth = quote.group(1).count(">") if quote else 0
+        starts_callout = bool(quote and heading_re.match(line, quote.end()))
+        while active and (active[-1][0] > depth or (starts_callout and active[-1][0] == depth)):
+            active.pop()
+        if starts_callout:
+            active.append((depth, len(units)))
+            units.append((i, offset, i))
+        owner = active[-1][1] if active else None
+        owners.append(owner)
+        if owner is not None:
+            start, start_offset, _ = units[owner]
+            units[owner] = (start, start_offset, i)
+        offset += len(line)
+
+    return [
+        ("".join(line if owners[i] == owner else re.sub(r"[^\r\n]", " ", line)
+                 for i, line in enumerate(lines[start:end + 1], start)),
+         start_offset, "callout")
+        for owner, (start, start_offset, end) in enumerate(units)
+    ]
+
+
+def citation_units(text: str, *, whole_callouts: bool = False) -> List[Tuple[str, int, str]]:
     """Return paragraph and callout units while preserving offsets."""
     lines = text.splitlines(keepends=True)
     units: List[Tuple[str, int, str]] = []
@@ -2930,6 +2961,9 @@ def citation_units(text: str) -> List[Tuple[str, int, str]]:
             i += 1
             while i < len(lines) and quote_line_re.match(lines[i]):
                 i += 1
+            if whole_callouts:
+                units.extend(citation_callout_units(lines[start:i], offsets[start]))
+                continue
             # Inside a callout, each list item / table row / quoted paragraph is
             # its own unit, matching how lists outside callouts are split.
             sub_start = start
@@ -2974,7 +3008,7 @@ def check_duplicate_citations(
     scan = re.sub(r"%%.*?%%", mask_comment, scan, flags=re.DOTALL)
     scan = re.sub(r"<!--.*?-->", mask_comment, scan, flags=re.DOTALL)
 
-    for unit, unit_offset, unit_kind in citation_units(scan):
+    for unit, unit_offset, unit_kind in citation_units(scan, whole_callouts=True):
         occurrences: Dict[str, List[Tuple[int, str]]] = {}
         masked_unit = list(unit)
 
