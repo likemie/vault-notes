@@ -8,7 +8,7 @@ aliases:
 summary: "本尼迪克特·安德森在后记中提出的跨国知识传播与理论挪用机制。边缘与外围社会的知识分子出于本土政治斗争与现实思想危机，在未经中心学术霸权授权、不受原产地理论初始解释框定的前提下，主动对外部理论进行引介、转译与创造性重构，打破自西方中心单向扩散的时间等级神话。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Print-Capitalism]]"
   - "[[Nationalism]]"
   - "[[Official Nationalism]]"
+  - "[[Traduttori Traditori]]"
   - "[[Paradigm]]"
   - "[[Geo-biography]]"
   - "[[Commensuration]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-14
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -63,7 +64,7 @@ updated: 2026-11-14
 > [!boundary]- 概念边界
 > - 区别于负向盗版（Negative Piracy）：负向盗版以侵犯知识产权牟取私利为目的，或与威权国家合谋对文本进行阉割（如中国大陆出版社在私下交易中全盘抽除涉及批判[[Official Nationalism|官方民族主义]]的整部第九章）；正向盗版则是为了介入本土现实斗争、反思沙文主义而展开的无畏引介与知识共享。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 228–235)]]
 > - 区别于中心授权的标准学术引进：标准学术引进严格受制于跨国出版寡头的版权控制与规范审查；正向盗版往往由边缘地区小微左翼出版社在军政府整肃或法律风险下铤而走险完成（如土耳其 Metis 出版社以法人顶替牢狱之灾）。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, p. 218)]]
-> - 区别于机械直译（Literal Translation）：正向盗版必然包含创造性偏离与“本土化背叛”（traduttori traditori），译者会根据本土认知框架主动替换案例或加注反思（如日本译本将英国文学引语替换为《平家物语》）。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 217, 234–235)]]
+> - 区别于机械直译（Literal Translation）：正向盗版必然包含创造性偏离与“本土化背叛”（[[Traduttori Traditori|traduttori traditori]]），译者会根据本土认知框架主动替换案例或加注反思（如日本译本将英国文学引语替换为《平家物语》）。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 217, 234–235)]]
 
 ---
 

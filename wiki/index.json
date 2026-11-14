@@ -15141,6 +15141,18 @@
     ]
   },
   {
+    "title": "Traduttori Traditori",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Traduttori Traditori.md",
+    "aliases": [
+      "翻译即背叛",
+      "翻译者即背叛者",
+      "跨语际创造性转译",
+      "创造性背叛",
+      "语际不可通约性"
+    ]
+  },
+  {
     "title": "Transformative Change",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Transformative Change.md",
@@ -31807,6 +31819,16 @@
     ]
   },
   {
+    "title": "Azmi Bishara",
+    "type": "person",
+    "path": "wiki/persons/global/Azmi Bishara.md",
+    "aliases": [
+      "阿兹米·比沙拉",
+      "比沙拉",
+      "Bishara, A."
+    ]
+  },
+  {
     "title": "Carlota Perez",
     "type": "person",
     "path": "wiki/persons/global/Carlota Perez.md",
@@ -31875,6 +31897,16 @@
       "Koraes, A.",
       "Adamantios Korais",
       "Coray"
+    ]
+  },
+  {
+    "title": "Antonis Liakos",
+    "type": "person",
+    "path": "wiki/persons/greece/Antonis Liakos.md",
+    "aliases": [
+      "安东尼斯·利阿科斯",
+      "利阿科斯",
+      "Liakos, A."
     ]
   },
   {
@@ -48764,6 +48796,19 @@
       "科学研究与开发办公室",
       "战时科学研究与开发办公室",
       "OSRD"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "Open Society Institute",
+    "type": "fact",
+    "path": "wiki/facts/us/Open Society Institute.md",
+    "aliases": [
+      "开放社会研究所",
+      "开放社会基金会",
+      "Open Society Foundations",
+      "OSI",
+      "OSF"
     ],
     "subtype": "organization"
   },

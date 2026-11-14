@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -43,13 +43,14 @@ related_persons:
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
   - "[[Brian Uzzi]]"
-related_facts: []
+related_facts:
+  - "[[Open Society Institute]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit10]]"
 confidence: high
 status: draft
 created: 2026-11-02
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -70,7 +71,7 @@ updated: 2026-11-11
 
 > [!policy-design] 方案设计
 > - **抽样与配对协议** 严格限定在 2008 年特定期刊目录内开展[[Random Sampling|随机抽样]]，复验团队直接与原始研究团队联系获取原始实验材料与详细规程。
-> - **全面预注册规范** 所有复验实验方案在正式执行前均在开放科学框架（Open Science Framework, OSF）完成方案锁定与预注册（[[Preregistration]]），杜绝选择性报告。
+> - **全面预注册规范** 所有复验实验方案在正式执行前均在开放科学框架（Open Science Framework, [[Open Society Institute|OSF]]）完成方案锁定与预注册（[[Preregistration]]），杜绝选择性报告。
 > - **统计检验与评价指标** 采用双重评估口径，结合客观[[Statistical Significance|统计显著性]]（$p < 0.05$）与复验团队主观整体评价进行综合判定。
 
 > [!citation-card] 心理学实证结论复现性的全局实测

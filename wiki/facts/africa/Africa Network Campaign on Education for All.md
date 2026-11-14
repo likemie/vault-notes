@@ -10,7 +10,7 @@ subtype: organization
 region: africa
 fact_region: "africa"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -37,6 +37,7 @@ related_facts:
   - "[[UNESCO]]"
   - "[[Dakar Framework for Action]]"
   - "[[Global Partnership for Education]]"
+  - "[[Open Society Institute]]"
   - "[[Achieve]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[Global Campaign for Education]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -57,7 +58,7 @@ updated: 2026-11-11
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2000 年 4 月在达喀尔世界教育论坛（World Education Forum）期间由非洲各国非政府组织代表联合发起创设，旨在确保非洲基层声音在《全民教育[[Dakar Framework for Action|达喀尔行动纲领]]》的实施中不被边缘化。
 > - **总部地点 / 业务辐射** 区域协调秘书处设于塞内加尔达喀尔，业务网络按地缘语言划分为西非、东非、中非与南部非洲四大子区域，深度覆盖全非 39 个主权国家。
-> - **法人属性与经费基础** 独立的非营利国际非政府组织网络，资金来源于国际发展伙伴项目资助（如[[Global Partnership for Education|全球教育伙伴关系]]民事赋权基金、开放社会基金会等）。
+> - **法人属性与经费基础** 独立的非营利国际非政府组织网络，资金来源于国际发展伙伴项目资助（如[[Global Partnership for Education|全球教育伙伴关系]]民事赋权基金、[[Open Society Institute|开放社会基金会]]等）。
 > - **核心宗旨与法定职责** 赋能非洲国家级教育联盟，监督政府兑现将至少 20% 国家财政预算或 4%–6% 国内生产总值投入公共教育的基准指标；消除女童受教育障碍与战乱冲突地区的失学危机。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 74)]]
 > - **官方平台与在线门户** 官方门户为 [ANCEFA](https://ancefa.org/)，提供核心业务信息与公开资源检索。
 

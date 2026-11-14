@@ -5,7 +5,7 @@ aliases:
 summary: "在研究开始前公开登记研究设计、结果测量和分析计划的做法，用于减少事后调整、选择性报告和可疑研究实践。"
 type: concept
 domain: "research-methodology"
-related_count: 65
+related_count: 66
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -76,6 +76,7 @@ related_persons:
 related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[ISRCTN]]"
+  - "[[Open Society Institute]]"
   - "[[Education Endowment Foundation]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Education Innovation and Research]]"
@@ -91,7 +92,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-02'
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -123,7 +124,7 @@ updated: 2026-11-11
 ---
 
 > [!contrast-table] 预注册及相关开放科学规程的对比辨析
-> | 维度 | 常规科学预注册（如 OSF） | 教育评估注册（如 REES） | 国际临床与试验注册（如 [[ISRCTN]]） | 期刊注册报告（Registered Reports） |
+> | 维度 | 常规科学预注册（如 [[Open Society Institute\|OSF]]） | 教育评估注册（如 REES） | 国际临床与试验注册（如 [[ISRCTN]]） | 期刊注册报告（Registered Reports） |
 > |---|---|---|---|---|
 > | **登记时点** | 数据收集或分析前自由提交 | 干预与评估启动前强制备案 | 临床或教育试验招募前登记 | 研究设计阶段提交同行评审 |
 > | **审核与约束** | 平台仅提供时间戳，通常不设实质同行外审 | 需符合教育科学规范，未备案分析会被审查机构剔除 | 需符合国际临床与试验透明标准，提供全球唯一编码 | 经期刊两轮严格盲审，通过即获原则性接收承诺 |

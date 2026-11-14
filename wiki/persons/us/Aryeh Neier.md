@@ -8,10 +8,10 @@ summary: "美籍德裔著名人权活动家、法学家，美国公民自由联�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1937"
 lifespan: "1937–至今"
 tags:
@@ -33,19 +33,20 @@ related_persons:
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
 related_facts:
+  - "[[Open Society Institute]]"
   - "[[Skokie Free Speech Case]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05]]"
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美籍犹太裔著名人权与民权活动家、法学家，美国公民自由联盟（American Civil Liberties Union, ACLU）前执行总监（1970–1978）、人权观察（Human Rights Watch, HRW）联合创始人、开放社会研究所（Open Society Institute）前所长。
+> - **身份位置** 美籍犹太裔著名人权与民权活动家、法学家，美国公民自由联盟（American Civil Liberties Union, ACLU）前执行总监（1970–1978）、人权观察（Human Rights Watch, HRW）联合创始人、[[Open Society Institute|开放社会研究所]]（Open Society Institute）前所长。
 > - **核心角色** 当代西方第一修正案法理与国际人权运动的关键领袖，以在极具争议的历史关头坚守言论自由宪法原则、不惜承受巨大社会与组织代价著称。
 > - **代表贡献** 在 1977 年[[Skokie Free Speech Case|斯科基言论自由案]]中力排众议为纳粹游行权利辩护；出版经典著作《保卫我的敌人：美国纳粹、斯科基案与自由的风险》（*Defending My Enemy*, 1979）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–58)]]
 

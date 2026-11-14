@@ -7,9 +7,9 @@ summary: "通过明确的纳入标准和系统搜索策略识别、筛选与评�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 89
-method_related_level: 8
-method_related_stars: "💎💎⭐⭐"
+method_related_count: 90
+method_related_level: 9
+method_related_stars: "💎💎💎"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -100,6 +100,7 @@ related_facts:
   - "[[Education Resources Information Center]]"
   - "[[Web of Science]]"
   - "[[Scopus]]"
+  - "[[Open Society Institute]]"
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Social Programs That Work]]"
@@ -118,7 +119,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -167,7 +168,7 @@ updated: 2026-11-14
 ---
 
 > [!proc] 通用程序
-> 1. **界定[[Research Question|研究问题]]与拟定注册协议（Protocol）** 运用 [[PICO Framework|PICO]]（人群、干预、对照、产出）或 SPIDER 框架精准界定研究边界，明确界定纳入与排除标准；在 PROSPERO 或 Open Science Framework（OSF）公开[[Preregistration|预注册]]研究方案，锁定方法学设计以规避事后数据窥探。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 32)]]
+> 1. **界定[[Research Question|研究问题]]与拟定注册协议（Protocol）** 运用 [[PICO Framework|PICO]]（人群、干预、对照、产出）或 SPIDER 框架精准界定研究边界，明确界定纳入与排除标准；在 PROSPERO 或 Open Science Framework（[[Open Society Institute|OSF]]）公开[[Preregistration|预注册]]研究方案，锁定方法学设计以规避事后数据窥探。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 32)]]
 > 2. **系统与穷尽式[[Literature Search|文献检索]]** 研制布尔逻辑检索式，联合受控词表（MeSH/Thesaurus）与自由文本关键词，横跨多个国际数据库执行全样本检索；严密记录检索时间、语法与命中篇数，补充灰色文献与未发表报告以遏制[[Publication Bias|发表偏倚]]。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 43)]]
 > 3. **双人独立筛选与质量风险评估** 至少两位独立评审员基于标题/摘要开展初筛，随后获取全文进行二阶深筛，计算[[Intercoder Agreement|编码一致性]]系数（Cohen's Kappa）；随后运用公认评估工具针对选择偏倚、实施偏倚、测量偏倚与损耗偏倚进行方法学质量评级。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 38)]]
 > 4. **结构化数据提取与证据综合** 提取样本特征、干预剂量、控制条件、测量工具及[[Effect Size|效应量]]数据；依据研究问题的认识论属性，选择开展定量[[Meta-analysis|元分析]]统计合并，或开展[[Thematic Synthesis|质性主题综合]]与实在论机制提炼。

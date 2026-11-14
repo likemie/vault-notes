@@ -7,7 +7,7 @@ aliases:
 summary: "本尼迪克特·安德森在后记中提出的学术著述与理论观念跨国传播的分析框架。不同于依据生理寿命按时间顺流记录的传统个人自传，地理传记追踪文本跨越语言、主权国界与地缘政治板块时的旅行与再脉络化历程，揭示理论脱离原产地后如何在边缘社会的政治危机与跨语际摩擦中获得新生。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 20
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Official Nationalism]]"
   - "[[Transnational Education]]"
   - "[[National Biography]]"
+  - "[[Traduttori Traditori]]"
 related_theories:
   - "[[Imagined Community]]"
   - "[[Post-colonial Theory]]"
@@ -40,13 +41,14 @@ related_instruments: []
 related_persons:
   - "[[Benedict Anderson]]"
   - "[[Franco Moretti]]"
-related_facts: []
+related_facts:
+  - "[[Open Society Institute]]"
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch11]]"
 confidence: high
 status: active
 created: 2026-11-14
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -111,7 +113,7 @@ updated: 2026-11-14
 > **制度审查、资本赞助与[[Creativity|创造性]]翻译机制** 探讨跨国知识流动中主权国家机器、跨国资本与独立知识分子三者之间的交织博弈。
 
 > [!claim] Anderson, B.
-> **地缘政治博弈与转译摩擦** 安德森在后记中剖析了三种跨国流动形态：其一为独立学者出于政治抵抗展开的[[Positive Piracy|正向盗版]]；其二为索罗斯开放社会研究所等跨国基金会对中东欧转型国家的巨额赞助翻译，重塑了后共产主义大学的知识版图；其三为威权国家通过私下版权交易实施的选择性删减，直接抽除批判[[Official Nationalism|官方民族主义]]的核心章节。地理传记通过剖析这些具体遭遇，揭示出知识在跨越边界时必然面临主权权力、资本力量与语言翻译三者的复杂博弈。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 225–235)]]
+> **地缘政治博弈与转译摩擦** 安德森在后记中剖析了三种跨国流动形态：其一为独立学者出于政治抵抗展开的[[Positive Piracy|正向盗版]]；其二为索罗斯[[Open Society Institute|开放社会研究所]]等跨国基金会对中东欧转型国家的巨额赞助翻译，重塑了后共产主义大学的知识版图；其三为威权国家通过私下版权交易实施的选择性删减，直接抽除批判[[Official Nationalism|官方民族主义]]的核心章节。地理传记通过剖析这些具体遭遇，揭示出知识在跨越边界时必然面临主权权力、资本力量与语言翻译三者的复杂博弈。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 225–235)]]
 
 ---
 
@@ -146,7 +148,7 @@ updated: 2026-11-14
 > |:-----|:-----|:-----|
 > | [[National Biography]] | 概念 | 地理传记的方法论镜像，从空间位移角度打破传统个人自传的历时线性框架。 |
 > | [[Positive Piracy]] | 概念 | 地理传记的核心驱动机制之一，边缘社会通过正向盗版推动理论的跨国传播。 |
-> | [[Incommensurability]] | 概念 | 语际不可通约性是地理传记中概念发生本土化偏离与创造性转译的深层根源。 |
+> | [[Incommensurability]] | 概念 | [[Traduttori Traditori\|语际不可通约性]]是地理传记中概念发生本土化偏离与创造性转译的深层根源。 |
 > | [[Print-Capitalism]] | 概念 | 印刷资本主义为书籍跨越大洋流动提供了现代出版工业与商品流通渠道。 |
 
 ---

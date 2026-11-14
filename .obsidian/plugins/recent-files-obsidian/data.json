@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md"
     },
     {
+      "basename": "template-argument",
+      "path": "wiki/templates/template-argument.md"
+    },
+    {
       "basename": "Argument_Hammermeister_2002_Cambridge",
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge.md"
     },
@@ -127,10 +131,6 @@
     {
       "basename": "template-fact-eef-programme",
       "path": "wiki/templates/template-fact-eef-programme.md"
-    },
-    {
-      "basename": "template-argument",
-      "path": "wiki/templates/template-argument.md"
     },
     {
       "basename": "Barmecide Feast",

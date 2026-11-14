@@ -210,7 +210,7 @@ Edited volume overview 是论文集或编著的结构入口，不是主要可引
 - `subtype` 使用 `edited-volume-overview`，`publication_type` 使用 `edited-volume`。
 - overview 不填写 `citation_aliases`，不进入 citation 索引。
 - `summary` 说明论文集的组织问题、编者立场和全书结构，不写成图书简介。
-- `## 编著定位` 使用 `[!volume-profile]`，说明核心议题、材料边界、章节关系和本页使用方式。
+- `## 编著定位` 使用 `[!volume-profile]`，说明核心议题、编者对话对象、章节关系和本页使用方式。
 - `## 编者问题与组织主张` 使用 `[!question]` 和 `[!volume-argument]`，区分共同问题、组织逻辑和整体贡献；不要把编者导论改写成普通摘要。
 - `## 全书结构与章节路线` 使用 `[!volume-structure]` 和 `[!volume-map]`，优先用分部分列表和 Mermaid 图呈现组织逻辑；不要把目录压成大表格。
 - `## 理论、方法与关键词` 使用 `[!volume-tools]`，只写能解释全书结构或跨章关系的理论、概念、方法和关键词。
@@ -240,7 +240,7 @@ Monograph Argument 是整本专著的论证入口。它可以作为 `single-argu
 
 - 使用 `template-argument-monograph.md`。
 - `subtype` 使用 `monograph`，`publication_type` 使用 `book`。
-- `## 全书定位` 使用 `[!monograph-profile]`，只说明对象、文献类型、处理粒度与已读材料范围，不预先重复全书结论。
+- `## 全书定位` 使用 `[!monograph-profile]`，只说明对象、文献类型与作者对话对象，不预先重复全书结论。
 - `## 研究问题与核心主张` 使用 `[!question]` 和 `[!monograph-thesis]`，分别回答“要解决什么问题”与“全书给出什么答案”。核心主张保留简短总判断，不展开章节证据或再次复述问题起点。
 - `## 理论、概念与方法工具` 使用 `[!monograph-tools]` 和 `[!monograph-method]`，只说明贯穿全书的分析工具、材料来源与分析方式；具体概念定义链接已有条目。这里只标明证据类型，不重复末节的完整局限。
 - `## 全书论证地图` 在 `[!book-argument-map]` 与 `[!argument-steps]` 之间择一，呈现全书解释路径，不逐章复述。图不足以表达关键前提或中间推论时，只补充遗漏的短段落；不得再附一套与图逐项对应的步骤。
@@ -253,6 +253,7 @@ Monograph Argument 是整本专著的论证入口。它可以作为 `single-argu
   概述式结论可改用精炼的 `[!finding-cards]`，二者默认择一。跨章表格中的具体案例和数值优先回链章节页或主条目。
 - 关键引用集中到 `## 关键引用`，同一引文不同时出现在核心主张与后部引用区。只保留支撑全书解释的少量原文，标注章节与页码；没有页码时只标注章节，不编造页码。
 - `## 自述局限` 使用 `[!book-limits]`，只写书中明确自述的研究局限、边界条件或未来方向，避免添加多余的材料边界、推断边界、引用提醒等元说明或格式化套话。
+- `## 作者术语索引` 使用 `[!ref-table]`，只收作者明确界定或限定含义的术语，置于 `## 来源` 之前、`## 自述局限` 之后。
 - 整本书 source record 创建前，可以暂时省略 `## 来源` 的 source wikilink；source record 创建后再补入。
 - `summary` 说明全书核心论证，写法为“研究对象/核心问题 + 理论视角/材料 + 全书论证或发现”。
 

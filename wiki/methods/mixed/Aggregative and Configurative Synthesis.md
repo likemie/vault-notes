@@ -11,7 +11,7 @@ summary: "由 David Gough et al. 奠定的系统综述证据整合元方法论�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 40
+method_related_count: 41
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#fef3c7"
@@ -67,12 +67,13 @@ related_persons:
   - "[[David Gough]]"
 related_facts:
   - "[[EPPI-Reviewer]]"
+  - "[[Open Society Institute]]"
 related_arguments:
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
 confidence: high
 status: active
 created: 2026-11-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -105,7 +106,7 @@ updated: 2026-11-11
 > - **分析方法**
 >   - 聚合分析：先验框架映射、频数与比例统计、覆盖率矩阵、[[Meta-analysis|元分析]]合并。
 >   - 配置分析：跨层级主题[[Emergence|涌现]]分析、机制互锁矩阵、质性语义比较、理论重组。
-> - **辅助技术** 开放科学框架（OSF）方案[[Preregistration|预注册]]、[[PRISMA]] 流程规范、质性分析软件（NVivo）团队盲编码。
+> - **辅助技术** 开放科学框架（[[Open Society Institute|OSF]]）方案[[Preregistration|预注册]]、[[PRISMA]] 流程规范、质性分析软件（NVivo）团队盲编码。
 
 ---
 
