@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Discourse]]"
   - "[[Technological Agnosticism]]"
+  - "[[The Sublime]]"
   - "[[Innovation Desert]]"
   - "[[Technological Escapism]]"
   - "[[Consumer Internet]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -62,7 +63,7 @@ updated: 2026-11-03
 > [!contrast-table] 概念辨析
 > | 维度 | 市场必胜论（Market Triumphalism） | 公民共和主义（Civic Republicanism） | [[Technological Agnosticism\|技术不可知论]] |
 > |:---|:---|:---|:---|
-> | **公共善定位** | 否认先验公共善，由个体偏好聚合与市场价格定义价值 | 主张通过公共民主协商确立共同体的崇高善观念 | 宣称技术中立，拒绝在工程研发中预设道德与政治立场 |
+> | **公共善定位** | 否认先验公共善，由个体偏好聚合与市场价格定义价值 | 主张通过公共民主协商确立共同体的[[The Sublime\|崇高]]善观念 | 宣称技术中立，拒绝在工程研发中预设道德与政治立场 |
 > | **资源配置准绳** | 资本收益率、用户流量、商业估值最大化 | 满足国家战略安全、公民德性培养与公共福祉 | 追求技术探索的纯粹可能性与商业可行性 |
 > | **创新导向后果** | 资本过度涌入消费娱乐软件，制造公共[[Innovation Desert\|创新荒漠]] | 引导前沿科技主动对接国防、医疗与重大民生挑战 | 科技精英逃避争议，在关键地缘冲突中保持冷眼旁观 |
 

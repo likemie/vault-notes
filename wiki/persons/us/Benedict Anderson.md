@@ -44,6 +44,7 @@ related_concepts:
   - "[[Technological Republic]]"
   - "[[Geopolitics]]"
   - "[[Positive Piracy]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Homogeneous, Empty Time]]"
   - "[[Messianic Time]]"
@@ -136,7 +137,7 @@ updated: 2026-11-14
 > - **政治学与比较教育路径** 深刻重塑了民族主义研究的[[Constructivist Paradigm|建构主义范式]]，启发了关于教科书、课程大纲与国家[[Official Knowledge|官方知识]]生产的全球批判性研究；在超国家区域一体化研究中，安德森的理论被进一步延伸用于分析[[EU|欧洲联盟]]如何将教育作为核心文化象征工具，在主权阻滞情境下塑造“欧洲家园”与超国家认同（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009, p. 482]]）。
 > - **认知人类学与宏观组织路径** 为解释人类如何跨越[[Dunbar's Number|邓巴数]]认知上限（约 150 人）开展超大规模跨地域协作提供了核心文化分析工具。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
 > - **[[Technological Republic|技术共和国]][[Geopolitics|地缘政治]]路径** 卡普与扎米斯卡借用安德森的洞见论证，现代高科技社会与国家防卫不仅需要代码与算法，更需要依赖语言与共享历史叙事所维系的共同体想象；批评后现代去国家化思潮放弃巡守“[[Imagined Community|情感民族]]”边界的战略错误。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 191–198)]]
-> - **历史记忆哲学与去欧洲中心化传播** 在第11章提出[[National Biography|民族传记]]与[[Reassurance of Fratricide|兄弟残杀的抚慰]]范畴，解构国家公立教育如何收编内战创伤；并在后记中以全球翻译与[[Positive Piracy|正向盗版]]机制，批判英美学术界的欧洲中心主义偏见。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 199–228)]]
+> - **历史记忆哲学与去欧洲中心化传播** 在第11章提出[[National Biography|民族传记]]与[[Reassurance of Fratricide|兄弟残杀的抚慰]]范畴，解构国家公立教育如何收编内战创伤；并在后记中以全球翻译与[[Positive Piracy|正向盗版]]机制，批判英[[Philosophical Aesthetics|美学]]术界的欧洲中心主义偏见。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 199–228)]]
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 《想象的共同体》界定民族为有限主权的想象共同体（Ch01），剖析教育与行政朝圣（Ch07）、爱国与种族主义（Ch08）、殖民三制度（Ch10）及记忆遗忘与兄弟残杀抚慰（Ch11）。

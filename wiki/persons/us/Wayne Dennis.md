@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Document]]"
   - "[[Scientific Productivity]]"
+  - "[[The Sublime]]"
   - "[[Champ]]"
   - "[[Creativity]]"
   - "[[Scientific Creativity]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -54,7 +55,7 @@ updated: 2026-11-11
 > - **代表贡献** 1954 年开展针对顶尖科学家的终生出版文献追踪（Dennis, 1954），确证终生持续高产出与历史定评卓越性之间存在稳固正相关。
 
 > [!citation-card] 丹尼斯论[[Scientific Productivity|科研生产力]]与学者学术显赫性的关联
-> 针对 71 位[[National Academy of Sciences|美国国家科学院]]院士及欧洲卓越科学家的终生发表统计表明，终生产出极高的学者几乎无一例外都获得了崇高的学术显赫地位，他们被收录于《大英百科全书》或科学重要发展史文献中。持续的高生产力构成了学者建立长远学术声誉的坚实经验基础。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 15)]]
+> 针对 71 位[[National Academy of Sciences|美国国家科学院]]院士及欧洲卓越科学家的终生发表统计表明，终生产出极高的学者几乎无一例外都获得了[[The Sublime|崇高]]的学术显赫地位，他们被收录于《大英百科全书》或科学重要发展史文献中。持续的高生产力构成了学者建立长远学术声誉的坚实经验基础。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 15)]]
 >
 > *Individual productivity has been shown to closely correlate with the eminence of a scientist as well as her perceived contributions to the [[Champ|field]]. This pattern was documented by Wayne Dennis, dating back at least to 1954, when he studied 71 members of the US National Academy of Sciences and eminent European scientists. He found that, almost without exception, highly productive individuals have also achieved scientific eminence...*
 

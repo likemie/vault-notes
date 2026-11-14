@@ -27,6 +27,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Scientifically Based Research]]"
   - "[[Discourse]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Reading Programs]]"
   - "[[Student Mobility]]"
   - "[[Operationalization]]"
@@ -116,7 +117,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-05-01
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -134,7 +135,7 @@ updated: 2026-11-11
 > NCLB 强制要求各州建立统一学术标准与 3–8 年级全员年度测试问责体系，确立[[Adequate Yearly Progress|学年充分进展]]（[[Adequate Yearly Progress|AYP]]）阶梯制裁，并将全文 110 次提及的“[[Scientifically Based Research|科学本位研究]]”（SBR）作为联邦教育拨款与采购的法定准入门槛。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 16)]]; [[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253–254)]]
 
 > [!policy-design] 政策设计
-> - **政策目标** 确保所有儿童接受公平、高质量教育，消除基于种族、贫困和特殊需求的[[Academic Achievement|学业成就]]差距，要求到 2013–2014 学年全美学生 100% 达到州立标准的“熟练”（proficient）水平。
+> - **政策目标** 确保所有儿童接受公平、高质量教育，消除基于种族、贫困和特殊需求的[[Academic Achievement|学业成就]]差距，要求到 2013–2014 学年全[[Philosophical Aesthetics|美学]]生 100% 达到州立标准的“熟练”（proficient）水平。
 > - **适用对象** 全美各州教育厅、学区公立中小学校、K–12 教师及在读学生。
 > - **政策工具** 借助联邦 [[Elementary and Secondary Education Act of 1965|ESEA]] 专项拨款（整体拨款因法案增长 18%），重点嵌入以下核心项目：
 >   - **[[Title I of the Elementary and Secondary Education Act|Title I]]** 为高贫困学校提供补充教育资金；

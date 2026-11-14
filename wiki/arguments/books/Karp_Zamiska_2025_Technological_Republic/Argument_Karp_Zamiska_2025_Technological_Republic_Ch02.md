@@ -46,6 +46,7 @@ related_concepts:
   - "[[Big Science]]"
   - "[[General Purpose Technology]]"
   - "[[Other Transaction Authority]]"
+  - "[[The Sublime]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -71,7 +72,7 @@ sources:
 part_of: "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 status: draft
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-11-14
 ---
 ---
 
@@ -249,7 +250,7 @@ updated: 2026-10-22
 > | **最大的战略风险** | 弹药与重型装备产能不足 | 历史胜利者滋生的盲目自满，误以为西方依然稳操胜券（p. 28） |
 
 > [!conclusion] 章节论证收束：软件世纪的国家防御决断
-> 历史经验表明，和平与繁荣从来不是仅凭良好意愿与崇高理念就能自发维系的，坚实的武装防御往往是展开有效政治对话的前提。西方防务体系当前仍深陷于为大规模地面动能战争服务的老旧采办轨道，然而下一场冲突的胜负将完全由软件与算法决定。在原子威慑落幕与人工智能威慑开启的历史转折点上，保持清醒、摒弃自满并将工程才智全速投入国家防务软件建设，是维系[[Technological Republic|技术共和国]]地缘生存的唯一路径（pp. 27–28）。
+> 历史经验表明，和平与繁荣从来不是仅凭良好意愿与[[The Sublime|崇高]]理念就能自发维系的，坚实的武装防御往往是展开有效政治对话的前提。西方防务体系当前仍深陷于为大规模地面动能战争服务的老旧采办轨道，然而下一场冲突的胜负将完全由软件与算法决定。在原子威慑落幕与人工智能威慑开启的历史转折点上，保持清醒、摒弃自满并将工程才智全速投入国家防务软件建设，是维系[[Technological Republic|技术共和国]]地缘生存的唯一路径（pp. 27–28）。
 
 ---
 

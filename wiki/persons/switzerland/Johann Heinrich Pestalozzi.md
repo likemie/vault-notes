@@ -32,6 +32,7 @@ related_concepts:
   - "[[Establishing One's Will]]"
   - "[[Foundational Literacy and Numeracy]]"
   - "[[Educational Meliorism]]"
+  - "[[The Sublime]]"
   - "[[Document]]"
 related_theories: []
 related_methods:
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -136,7 +137,7 @@ updated: 2026-11-11
 > | [[Normal School]] | 概念 | 裴斯泰洛齐伊弗东实验推动了欧美正规公立师范学校的制度化创设。 |
 > | [[Common School Movement]] | 概念 | 裴斯泰洛齐的人道教学法是公学运动击溃残酷体罚与机械背诵的核心旗帜。 |
 > | [[Rote Learning]] | 概念 | 裴斯泰洛齐直观教学法与实物教学所坚决扬弃并取代的落后教学方式。 |
-> | [[Educational Meliorism]] | 概念 | 其毕生致力于通过普及平民人道教育以改良社会不公的崇高精神体现。 |
+> | [[Educational Meliorism]] | 概念 | 其毕生致力于通过普及平民人道教育以改良社会不公的[[The Sublime\|崇高]]精神体现。 |
 > | [[Marc-Antoine Jullien]] | 人物 | 早期实地考察伊弗东并将其方法吸纳为比较教育[[Questionnaire\|问卷]]核心指标的学者。 |
 > | [[Horace Mann]] | 人物 | 在第七次报告与波士顿大论战中极力捍卫并推广裴斯泰洛齐方法的美国公学领袖。 |
 > | [[Calvin Stowe]] | 人物 | 在 1837 年欧洲报告中向俄亥俄州与全美议会推崇其教学法的美国教育家。 |

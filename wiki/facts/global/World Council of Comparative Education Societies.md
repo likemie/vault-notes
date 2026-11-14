@@ -34,6 +34,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Discourse]]"
   - "[[Champ]]"
+  - "[[Philosophical Aesthetics]]"
 related_theories:
   - "[[Postmodernism]]"
 related_methods:
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -107,7 +108,7 @@ updated: 2026-11-11
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[UNESCO]] | Fact (Org) | 享有联合国教科文组织正式咨商地位，在跨国学术审议与全球教育指南编制中深度合作。 |
-> | [[Comparative and International Education Society]] | Fact (Org) | 1970 年倡议发起创设 WCCES 的核心北美学会成员。 |
+> | [[Comparative and International Education Society]] | Fact (Org) | 1970 年倡议发起创设 WCCES 的核心北[[Philosophical Aesthetics\|美学]]会成员。 |
 > | [[Comparative Education Society in Europe]] | Fact (Org) | 1970 年倡议发起创设 WCCES 的泛欧区域学会成员，维系欧洲双重代表制。 |
 > | [[Wolfgang Mitter]] | Person | 曾任 WCCES 主席，协调冷战终结后苏东国家教育转型的国际学术评估并确立欧洲平行会员制。 |
 > | [[Brian Holmes]] | Person | 曾任 WCCES 主席，推动与 UNESCO 合作编制教育指南并创设计划理论转型委员会。 |

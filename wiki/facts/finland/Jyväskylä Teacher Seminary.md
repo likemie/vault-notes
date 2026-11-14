@@ -30,6 +30,7 @@ related_concepts:
   - "[[Enlightenment]]"
   - "[[Normal School]]"
   - "[[Microteaching]]"
+  - "[[The Sublime]]"
 related_persons:
   - "[[Uno Cygnaeus]]"
 related_arguments:
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -82,5 +83,5 @@ updated: 2026-11-11
 ---
 
 > [!eval-box] 历史贡献与制度遗产
-> - **确立“民族之烛”师道精神** 学院将从教塑造成服务民族生存的崇高神圣事业，塑造了社会公众对初等教师的深厚道德敬意与职业信任。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 19–21)]]
+> - **确立“民族之烛”师道精神** 学院将从教塑造成服务民族生存的[[The Sublime|崇高]]神圣事业，塑造了社会公众对初等教师的深厚道德敬意与职业信任。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 19–21)]]
 > - **筑牢赫尔巴特讲授范式** 长期推行严密的备课大纲、结构化显性讲授与堂堂清练习规程，使赫尔巴特学派教学法深深烙印于数代教师心中，成为芬兰微观教学高效卓越的深层支柱。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 40–46)]]

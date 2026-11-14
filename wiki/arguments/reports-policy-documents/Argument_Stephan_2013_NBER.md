@@ -21,10 +21,12 @@ tags:
 related_concepts:
   - "[[Research Universities]]"
   - "[[PhD Overproduction in Science]]"
+  - "[[The Sublime]]"
   - "[[Externalization]]"
   - "[[Soft-Money Faculty Model]]"
   - "[[Shopping Mall Model of Research Universities]]"
   - "[[Document]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Indirect Costs of Research]]"
   - "[[Early-Career Researchers]]"
   - "[[Grandes Ecoles]]"
@@ -42,6 +44,7 @@ related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
   - "[[Paula Stephan]]"
+  - "[[Charles Hirschman]]"
   - "[[Kenneth Burke]]"
   - "[[James Madison]]"
   - "[[Peter Thiel]]"
@@ -62,7 +65,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-02
-updated: 2026-11-11
+updated: 2026-11-14
 subtype: report
 publication_type: report
 title: "Argument_Stephan_2013_NBER"
@@ -89,7 +92,7 @@ issuing_organization: "[[National Bureau of Economic Research]]"
 
 > [!concept-lens] 阅读透镜
 > - **对象** 1940 年代至 2010 年代美国研究型大学与[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）、[[National Institutes of Health|美国国家卫生研究院]]（National Institutes of Health, NIH）等联邦资助机构之间长达七十年的互动演进、科研经费流向与科研劳动力市场。（pp.3–4）
-> - **张力** [[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）原初设计的由政府无偿资助以保障大学开展高风险、不可预测之纯探索的崇高蓝图，与现实演化中大学将科研空间租赁化、将教师薪资[[Externalization|外部化]]、将项目交付流水线化的功利避险生态之间的剧烈张力。（pp.4–5, 30–32, 37）
+> - **张力** [[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）原初设计的由政府无偿资助以保障大学开展高风险、不可预测之纯探索的[[The Sublime|崇高]]蓝图，与现实演化中大学将科研空间租赁化、将教师薪资[[Externalization|外部化]]、将项目交付流水线化的功利避险生态之间的剧烈张力。（pp.4–5, 30–32, 37）
 > - **贡献** 破除了将学术危机单向归咎于外部行政管制的传统理解，从微观经济学与[[Academic Capitalism|学术资本主义]]制度演进视角，系统揭示了大学组织作为主动博弈者如何参与塑造了自身的制度困境。（pp.29–31, 37）
 
 ---
@@ -111,7 +114,7 @@ issuing_organization: "[[National Bureau of Economic Research]]"
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **历史档案与政策文献**<br>Archival & Policy Analysis | 追溯 1945 年布什报告原文、1950 年代 [[National Institutes of Health\|NIH]] 与 [[National Science Foundation\|NSF]] 早期立项年报、总统科学顾问委员会（President's Science Advisory Committee, PSAC）西博格报告、国会听证备忘录及联邦科研间接成本政策演变。（pp.4–17） |
-> | **宏观统计与描述性分析**<br>[[Descriptive Analysis]] | 对全美科学与工程博士授予量、学位攻读时间、科研授权机构分布、联邦资助赫芬达尔-赫希曼指数（Herfindahl-Hirschman Index, HHI）及设备基建开支展开历时性长周期量化分析。（pp.5–28） |
+> | **宏观统计与描述性分析**<br>[[Descriptive Analysis]] | 对全美科学与工程博士授予量、学位攻读时间、科研授权机构分布、联邦资助赫芬达尔-[[Charles Hirschman\|赫希曼]]指数（Herfindahl-Hirschman Index, HHI）及设备基建开支展开历时性长周期量化分析。（pp.5–28） |
 > | **机构微观财务追踪**<br>Institutional Financial Analysis | 整合 NSF Webcaspar 数据库与全美大学捐赠基金报告，剖析不同层级大学自筹科研开支、教师启动配套包及医学院债务结构。（pp.23–28, 33–34） |
 
 > [!sample-panel]- 样本与材料快照
@@ -216,7 +219,7 @@ issuing_organization: "[[National Bureau of Economic Research]]"
 
 在 1950 年代之前，联邦资助主要用于购置科研仪器或支持耗材，专任教师的基本薪资仍由大学本体保障；但从 1960 年代起，这一薪酬机制发生了显著转变（pp.11, 14）。
 
-联邦经费在全美学术研发总支出中的占比在 1960 年代达到历史高位，为大学向联邦争取更多支持提供了客观环境（p.11）。
+联邦经费在全[[Philosophical Aesthetics|美学]]术研发总支出中的占比在 1960 年代达到历史高位，为大学向联邦争取更多支持提供了客观环境（p.11）。
 
 > [!example] 图 3：美国学术研发经费各部门支持份额变迁（1953–2011）
 > ![](https://img.mylikemie.icu/sources/Stephan_2013_NBER/figures/Stephan_2013_NBER_Fig3_Academic_RD_Support_by_Sector.jpg)

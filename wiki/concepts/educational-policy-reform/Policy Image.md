@@ -22,6 +22,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Policy Entrepreneur]]"
   - "[[Venue Shopping]]"
+  - "[[The Sublime]]"
   - "[[Competitiveness]]"
   - "[[Problem Finding]]"
   - "[[Knowledge-Based Economy]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -56,7 +57,7 @@ updated: 2026-11-11
 > - **边界** 政策形象不等于公众对某项政策的孤立民调支持率，是深度嵌于制度结构内部的话语霸权与问题归因[[Paradigm|范式]]。
 
 > [!citation-card] 政策形象的重构与政策垄断的破裂
-> 断裂平衡理论指出，公共政策子系统长期被利益集团所把持的稳态垄断所统治。倡导改革的[[Policy Entrepreneur|政策企业家]]若要打破既有政策垄断，必须从两个维度协同发力：第一是开展[[Venue Shopping|制度场所转换]]，寻找对新理念更友好的决策机构；第二是重塑政策形象，通过动员危机指标与核心价值，将原有政策正面崇高的社会形象彻底颠覆。在[[Common Core State Standards|共同核心标准]]运动中，改革倡导者将以往象征“地方民主自治”的分权标准成功重塑为“危害国家全球[[Competitiveness|竞争力]]与拉大社会不公”的负面形象。
+> 断裂平衡理论指出，公共政策子系统长期被利益集团所把持的稳态垄断所统治。倡导改革的[[Policy Entrepreneur|政策企业家]]若要打破既有政策垄断，必须从两个维度协同发力：第一是开展[[Venue Shopping|制度场所转换]]，寻找对新理念更友好的决策机构；第二是重塑政策形象，通过动员危机指标与核心价值，将原有政策正面[[The Sublime|崇高]]的社会形象彻底颠覆。在[[Common Core State Standards|共同核心标准]]运动中，改革倡导者将以往象征“地方民主自治”的分权标准成功重塑为“危害国家全球[[Competitiveness|竞争力]]与拉大社会不公”的负面形象。
 >
 > *Policy entrepreneurs alter well-established policy monopolies by creating a new policy image and by engaging in 'venue shopping' to find alternative decision-making arenas that are more receptive to their arguments. In the CCSS case, proponents created a negative policy image of current state standards, showing they were weak and fragmented, which challenged the long-standing monopoly of state and local control.* [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
 

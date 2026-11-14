@@ -94,6 +94,7 @@ related_concepts:
   - "[[Aggressive Intergovernmentalism]]"
   - "[[Educational Decentralization]]"
   - "[[Sadler's Garden Metaphor]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Theoretical Standpoint]]"
   - "[[Heterogeneity]]"
 related_theories:
@@ -171,7 +172,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-09-05
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -275,7 +276,7 @@ updated: 2026-11-11
 > - **Ch. 09 — Reflections on the Development of Comparative Education** [[Argument_Rust_2009_Reflections]] — 平反十九世纪[[Influences Across Cultures|跨文化影响]]考证遗产，揭示实证[[Pluralism|多元主义]]的健康本质，建构涵盖强制再生产的全球化四重批判响应模型。
 > - **Ch. 10 — Comparative Education: Historical Reflections** [[Argument_Kazamias_2009_HistoricalReflections]] — 确立学科作为“[[Protean Episteme|普罗透斯式认识体系]]”的四重论述代际演化，批判[[Positivism|实证主义]]对单一全能方法的迷信，以期刊文献计量数据诊断历史维度的流失与“[[Historical Amnesia|历史健忘症]]”危机，为学科再造奠定历史哲学与人文关怀锚点。
 > - **Ch. 20 — The [[EU|European Union]] and Education in Spain** [[Argument_Garcia_Garrido_2009_SpainEU]] — 将西班牙教育置于欧盟多国比较框架，剖析亲欧主义与孤立主义的历史张力，批判激进[[Educational Decentralization|教育分权]]导致的行政臃肿、国家教育空间解体危机与中等[[Comprehensive Education|综合中学制]]平庸化。
-> - **Ch. 22 — Who is [[Sadler's Garden Metaphor|Strolling Through The Global Garden]]? International Agencies and Educational Transfer** [[Argument_Beech_2009_GlobalGarden]] — 构建全球教育[[Champ|场域]]五位置流通模型，解构国际组织过度简化生成的[[Global Educational Discourse|全球教育话语]]与问题方案双重垄断，揭示拉美学术/官方精英“[[Gatekeepers|守门人]]网络”对政策空间的闭合，以及通用模型在基层学校机构落地时的实践异化与脱节。
+> - **Ch. 22 — Who is [[Sadler's Garden Metaphor|Strolling Through The Global Garden]]? International Agencies and Educational Transfer** [[Argument_Beech_2009_GlobalGarden]] — 构建全球教育[[Champ|场域]]五位置流通模型，解构国际组织过度简化生成的[[Global Educational Discourse|全球教育话语]]与问题方案双重垄断，揭示拉[[Philosophical Aesthetics|美学]]术/官方精英“[[Gatekeepers|守门人]]网络”对政策空间的闭合，以及通用模型在基层学校机构落地时的实践异化与脱节。
 > - **Ch. 23 — Mobility, Migration and Minorities in Education** [[Argument_Sobe_Fischer_2009_MobilityMigration]] — 运用空间转向与[[Governmentality|治理术]]视角，解构欧美对[[Student Mobility|学生流动]]的阶层化双重政策编码，并通过中、美、西、英、印五国案例剖析学校作为封闭容器对流动少数群体的空间规训与能动博弈。
 > - **Ch. 28 — The [[OECD]] and Global Shifts in Education Policy** [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]] — 剖析[[OECD]]自 1990 年代中期后如何建构“[[Knowledge-Based Economy|知识经济]]的[[Social Imaginary|社会想象]]”并依托[[PISA]]制造全球可[[Commensuration|通约]]“[[Space of Equivalence|等值空间]]”，将教育公平、性别平权与社会资本全面工具化为经济效率的附庸，使自身从政府间论坛转型为独立的跨国政策行动者。
 > - **Ch. 29 — Can Multilateral Banks Educate the World?** [[Argument_Castro_2009_MultilateralBanks]] — 解构以[[World Bank|世行]]与美洲开发银行为代表的[[Multilateral Development Bank|多边开发银行]]在教育援助中“资金银行”与“理念银行”的双重角色，剖析多边机构的官僚病理、技术规训与政策套用盲区，实证阐明外部借贷成败取决于借款国本土政治意愿与制度能力。

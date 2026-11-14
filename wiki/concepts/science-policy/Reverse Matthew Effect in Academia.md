@@ -29,6 +29,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Bureaucracy]]"
   - "[[Discourse]]"
+  - "[[The Sublime]]"
   - "[[The 41st Chair]]"
 related_theories: []
 related_methods:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -88,7 +89,7 @@ updated: 2026-11-11
 > **地位越高跌落越重的反向声誉弹性** 分析学术界对顶尖学者违规行为的更强信任背叛感如何转化为更严厉的社会惩戒。
 
 > [!claim] Lu et al. (2013)
-> **学术不端撤稿的超额声誉折损** Lu et al. (2013) 追踪顶级期刊全量撤稿事件证实，顶尖知名学者若因数据造假或剽窃欺诈发生撤稿，其遭受的整体被引损失与同行评价降级远比普通年轻学者严峻。知名学者此前享有的崇高声誉使共同体对其成果寄予绝对信任，欺诈行为彻底摧毁了这一信任基础，导致同行在后续引用中对其整个既往成果网络实施广泛的规避与抵制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 34)]]
+> **学术不端撤稿的超额声誉折损** Lu et al. (2013) 追踪顶级期刊全量撤稿事件证实，顶尖知名学者若因数据造假或剽窃欺诈发生撤稿，其遭受的整体被引损失与同行评价降级远比普通年轻学者严峻。知名学者此前享有的[[The Sublime|崇高]]声誉使共同体对其成果寄予绝对信任，欺诈行为彻底摧毁了这一信任基础，导致同行在后续引用中对其整个既往成果网络实施广泛的规避与抵制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 34)]]
 
 ---
 

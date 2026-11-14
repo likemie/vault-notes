@@ -30,6 +30,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Ecological Validity]]"
   - "[[Creativity Assessment]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Open-Mindedness]]"
   - "[[Divergent Thinking]]"
   - "[[Domain Specificity]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-26
+updated: 2026-11-14
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-10-26
 > |---|---|---|---|
 > | **创造性（Creativity）** | 产品在所属领域内兼具**新颖性（Novelty）** 与**适切性（Appropriateness）** 的综合程度。 | 专家依据内隐标准进行 1–7 分（或 1–9 分）相对评分，不提供细化量规以避免刻板约束。 | $\alpha \ge 0.70 \sim 0.90$ |
 > | **技术质量（Technical Quality）** | 产品的基本工艺、技法熟练度、语法严谨性或制作规范度。 | 独立于创造性单列评定，用以析出单纯技能熟练度对创造性评价的干扰。 | $\alpha \ge 0.75 \sim 0.92$ |
-> | **美学价值（Aesthetic Appeal）** | 产品的视觉美感、感染力、艺术张力或表述优雅性。 | 独立评定，用于检验产品形式美与构思新颖性之间的分离度。 | $\alpha \ge 0.70 \sim 0.88$ |
+> | **[[Philosophical Aesthetics\|美学]]价值（Aesthetic Appeal）** | 产品的视觉美感、感染力、艺术张力或表述优雅性。 | 独立评定，用于检验产品形式美与构思新颖性之间的分离度。 | $\alpha \ge 0.70 \sim 0.88$ |
 > | **新颖性（Novelty / Originality）** | 构想的不寻常度、突破陈套与独特程度（部分实验中单列）。 | 专家对照样本整体水平评估该作品在观念上的创新幅度。 | $\alpha \ge 0.72 \sim 0.89$ |
 
 ---

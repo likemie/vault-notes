@@ -38,9 +38,11 @@ related_concepts:
   - "[[People-to-People Connectivity]]"
   - "[[Dialogue in Education]]"
   - "[[South-South Cooperation]]"
+  - "[[The Sublime]]"
   - "[[Policy Framing]]"
   - "[[Community of Shared Future for Mankind]]"
   - "[[Public Diplomacy]]"
+  - "[[Hard Power]]"
   - "[[Sino-Foreign Cooperation in Running Schools]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
@@ -61,7 +63,9 @@ related_facts:
   - "[[Luban Workshop]]"
   - "[[University Alliance of the Silk Road]]"
   - "[[ASEAN]]"
+  - "[[Belt and Road Initiative]]"
   - "[[Confucius Institute]]"
+  - "[[Opinions on Properly Conducting the Education Opening-up Work of the New Era]]"
   - "[[Fudan University Budapest Campus]]"
   - "[[China-ASEAN Federation for Vocational Education]]"
   - "[[Chinese-ASEAN Modern Craftsmanship Institute]]"
@@ -69,10 +73,11 @@ related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Custer_2021_AidData]]"
   - "[[Argument_Wang_Liang_Chen_2025_CES]]"
+  - "[[Argument_He_2018_HEP]]"
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
@@ -127,7 +132,7 @@ updated: 2026-11-13
 
 ---
 
-> [!concept-proposition] 命题一｜教育出海在官方政策[[Discourse|话语]]中被框架化为[[South-South Cooperation|南南合作]]与互利共赢的崇高事业
+> [!concept-proposition] 命题一｜教育出海在官方政策[[Discourse|话语]]中被框架化为[[South-South Cooperation|南南合作]]与互利共赢的[[The Sublime|崇高]]事业
 > **[[Discourse|话语]]合法化维度** 探究官方政策文本如何通过语言建构将国家主导的教育对外输出合法化为服务区域发展的公共事业。
 
 > [!claim] Woo, E.
@@ -149,11 +154,11 @@ updated: 2026-11-13
 
 ---
 
-> [!concept-proposition] 命题三｜境外实体分校受高校微观市场拓展驱动，策略性借用国家宏观战略话语并依附经贸硬实力
+> [!concept-proposition] 命题三｜境外实体分校受高校微观市场拓展驱动，策略性借用国家宏观战略话语并依附经贸[[Hard Power|硬实力]]
 > **微观办学动因与多重依附机制** 探究微观办学主体在教育出海实践中的真实动力机制，揭示海外实体分校源于大学追求国际化声誉与学费创收的自主诉求，在运营中策略性借用服务国家软实力的官方话语，并依托母国经贸硬实力带来的就业溢价维系生源。
 
 > [!claim] [[Argument_He_2018_HEP|He and Wilkins (2018)]]
-> **微观市场创收驱动与宏观战略话语借用** 何岚（Lan He）与斯蒂芬·威尔金斯（Stephen Wilkins）对老挝、马来西亚与泰国的中国大学海外实体分校调研指出，实体分校创设的核心动力源于国内大学寻求国际化声誉、规避境内生源竞争与开拓海外学费市场的自主诉求。在实践中，分校策略性借用“服务国家软实力投射”与配合“一带一路”建设的官方话语，以此获取国内教育行政部门的审批许可与财政支持；与此同时，分校生源稳固高度依赖母国经贸硬实力创造的高薪双语岗位溢价，确立了教育出海中微观自主市场逻辑、宏观话语借用与经贸硬实力依附的三重联动机制。[[Argument_He_2018_HEP|(He & Wilkins, 2018, pp. 327–335)]]
+> **微观市场创收驱动与宏观战略话语借用** 何岚（Lan He）与斯蒂芬·威尔金斯（Stephen Wilkins）对老挝、马来西亚与泰国的中国大学海外实体分校调研指出，实体分校创设的核心动力源于国内大学寻求国际化声誉、规避境内生源竞争与开拓海外学费市场的自主诉求。在实践中，分校策略性借用“服务国家软实力投射”与配合“[[Belt and Road Initiative|一带一路]]”建设的官方话语，以此获取国内教育行政部门的审批许可与财政支持；与此同时，分校生源稳固高度依赖母国经贸硬实力创造的高薪双语岗位溢价，确立了教育出海中微观自主市场逻辑、宏观话语借用与经贸硬实力依附的三重联动机制。[[Argument_He_2018_HEP|(He & Wilkins, 2018, pp. 327–335)]]
 
 ---
 
@@ -169,7 +174,7 @@ updated: 2026-11-13
 > [!dev-timeline] 概念演变
 > - **2000年代初 — 探索试水阶段** 伴随国家“走出去”战略的提出，个别高校开始探索[[Sino-Foreign Cooperation in Running Schools|中外合作办学]]的境外延伸与[[Confucius Institute|孔子学院]]试点。
 > - **2010年 — 政策正式立项** 《国家中长期教育改革和发展规划纲要（2010—2020年）》明确提出“支持有条件的高等学校开展[[International Branch Campus|境外办学]]”，启动战略规划。
-> - **2016年 — 体系化推进阶段** 中央两办印发《关于做好新时期教育对外开放工作的若干意见》，教育部印发《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》，确立以分校、联盟、奖学金与[[Luban Workshop|鲁班工坊]]为支柱的系统出海格局。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 678–680)]]
+> - **2016年 — 体系化推进阶段** 中央两办印发《[[Opinions on Properly Conducting the Education Opening-up Work of the New Era|关于做好新时期教育对外开放工作的若干意见]]》，教育部印发《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》，确立以分校、联盟、奖学金与[[Luban Workshop|鲁班工坊]]为支柱的系统出海格局。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 678–680)]]
 > - **2018年 — 实体分校出海的微观动因与话语借用解构** [[Argument_He_2018_HEP|He and Wilkins (2018)]] 基于老挝、马来西亚与泰国三所中国境外分校实证，揭示海外实体分校源于大学自主市场开拓，在办学中策略性借用官方软实力话语并依附经贸硬实力外溢。[[Argument_He_2018_HEP|(He & Wilkins, 2018, pp. 327–335)]]
 > - **2020年至今 — 地缘阵痛与调整阶段** 受到中美科技博弈加剧、西方学术安全审查收紧与[[Fudan University Budapest Campus|复旦大学布达佩斯分校事件]]等在地草根抵制的影响，教育出海转向防范主权与债务风险、注重本土民意受纳度的谨慎推进轨道。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 693–694)]]
 

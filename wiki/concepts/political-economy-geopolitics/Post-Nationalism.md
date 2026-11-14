@@ -23,10 +23,10 @@ related_concepts:
   - "[[Nationalism]]"
   - "[[Cosmopolitanism]]"
   - "[[Discourse]]"
+  - "[[The Sublime]]"
   - "[[Everyday Plebiscite]]"
   - "[[Civic Religion]]"
   - "[[Hard Power]]"
-  - "[[Pride in Learning]]"
   - "[[Geopolitics]]"
   - "[[Technological Republic]]"
 related_theories:
@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -61,7 +61,7 @@ updated: 2026-11-11
 > - **边界** 不等于彻底否定社会组织，是主张以纯粹程序法治、普遍人权规范或非政府组织网络替代实质性的国家文化共同体。
 
 > [!citation-card] 卡普与扎米斯卡论后国家主义造成的消费主义异化
-> 当代左翼声称致力于遏制资本市场的贪婪与不平等，另一方面却对捍卫国家文化或民族认同持排斥态度；他们未能意识到，当国家从提供崇高公民意义的阵地上撤退时，所留下的巨大精神真空绝不会被理性的博爱所填补，是立刻被商业消费主义所占领。人们的身份、地位与归属感退化为购买力水平，从而使社会按照财富多寡被彻底分层与固化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 194)]]
+> 当代左翼声称致力于遏制资本市场的贪婪与不平等，另一方面却对捍卫国家文化或民族认同持排斥态度；他们未能意识到，当国家从提供[[The Sublime|崇高]]公民意义的阵地上撤退时，所留下的巨大精神真空绝不会被理性的博爱所填补，是立刻被商业消费主义所占领。人们的身份、地位与归属感退化为购买力水平，从而使社会按照财富多寡被彻底分层与固化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 194)]]
 >
 > *The modern left claims to be committed to curbing the excesses of the market, but its unwillingness to reckon with and take seriously the good that can come from a national culture or shared identity has only enabled the very excesses it purports to oppose... leaving a void filled by an ascendant consumer culture.*
 
@@ -82,7 +82,7 @@ updated: 2026-11-11
 ---
 
 > [!feature] 核心要素
-> - **国家历史叙事祛魅** 系统解构传统国家的英雄人物、建国神话与爱国[[Pride in Learning|自豪]]，将历史研究局限于揭露内部冲突与不平等。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Breidlid et al., 2008; Karp & Zamiska, 2025, pp. 193–194)]]
+> - **国家历史叙事祛魅** 系统解构传统国家的英雄人物、建国神话与爱国自豪，将历史研究局限于揭露内部冲突与不平等。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Breidlid et al., 2008; Karp & Zamiska, 2025, pp. 193–194)]]
 > - **文化中立与包容泛化** 拒绝确立任何实质性的国家文化正典，宣称国家仅由多元亚文化拼贴而成。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Macron, 2017; Jégo, 2017; Karp & Zamiska, 2025, pp. 191–192)]]
 > - **后国家道德替代方案** 倡导宪政爱国主义或跨国界博爱，试图在无国家归属感的前提下维持社会协作。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Sennett, 1994; Nussbaum, 1994; Karp & Zamiska, 2025, p. 198)]]
 

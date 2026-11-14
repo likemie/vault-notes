@@ -29,6 +29,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Incubation]]"
   - "[[College and Career Readiness]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Policy Entrepreneur]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Evidence-Based Policy-Making]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-11-02
+updated: 2026-11-14
 ---
 
 ---
@@ -87,7 +88,7 @@ updated: 2026-11-02
 >
 > - **2009–2020** **主导 CCSS 研制与测评联盟运营期**
 >
->   作为技术主笔方联合[[National Governors Association|全国州长协会]]（NGA）与[[Council of Chief State School Officers|州首席教育官理事会]]（CCSSO）起草全美通用标准；后续长期主导大学与职业就绪评估联盟（PARCC）的研发与运营；2020 年随着标准常态化，其核心技术团队与数字化资源整体合并入全美学生测量协会（NWEA）。
+>   作为技术主笔方联合[[National Governors Association|全国州长协会]]（NGA）与[[Council of Chief State School Officers|州首席教育官理事会]]（CCSSO）起草全美通用标准；后续长期主导大学与职业就绪评估联盟（PARCC）的研发与运营；2020 年随着标准常态化，其核心技术团队与数字化资源整体合并入全[[Philosophical Aesthetics|美学]]生测量协会（NWEA）。
 >
 >   - **2009** 联合 NGA 与 CCSSO 正式启动 CCSS 标准文本起草与跨州征求意见。
 >   - **2010** 研发微观对标分析工具（Crosswalks），为各州采纳标准提供逐条映射论证。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 17–18)]]

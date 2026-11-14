@@ -35,6 +35,7 @@ related_methods:
   - "[[Questionnaire]]"
 related_instruments: []
 related_persons:
+  - "[[Gottfried Wilhelm Leibniz]]"
   - "[[Sotiria Grek]]"
 related_facts:
   - "[[Federal Ministry of Education and Research]]"
@@ -49,13 +50,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-11-02
+updated: 2026-11-14
 ---
 
 ---
 
 > [!claim] 项目定位
-> “语境中的物理”（Physik im Kontext, piko）是[[Federal Ministry of Education and Research|德国联邦教育与研究部]]（BMBF）在首届[[PISA|国际学生评估项目]]（[[PISA]]）引发全国震荡后，于 2001 年委托基尔大学莱布尼茨科学与数学教育研究所（IPN）牵头立项的全国性中学物理课程与教学改革项目。该项目旨在革新传统以抽象公式推导为中心的物理教学，培养契合[[Knowledge-Based Economy|知识经济]]需求的跨学科[[Scientific Literacy|科学素养]]。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 29–30)]]
+> “语境中的物理”（Physik im Kontext, piko）是[[Federal Ministry of Education and Research|德国联邦教育与研究部]]（BMBF）在首届[[PISA|国际学生评估项目]]（[[PISA]]）引发全国震荡后，于 2001 年委托基尔大学[[Gottfried Wilhelm Leibniz|莱布尼茨]]科学与数学教育研究所（IPN）牵头立项的全国性中学物理课程与教学改革项目。该项目旨在革新传统以抽象公式推导为中心的物理教学，培养契合[[Knowledge-Based Economy|知识经济]]需求的跨学科[[Scientific Literacy|科学素养]]。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 29–30)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2001 年底紧急立项，2002 年全面推进，历经两期试点至 2008 年结项。

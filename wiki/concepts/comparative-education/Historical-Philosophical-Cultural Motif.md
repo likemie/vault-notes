@@ -40,6 +40,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Working Hypothesis]]"
   - "[[Hypothesis]]"
+  - "[[The Sublime]]"
   - "[[Independent Variable]]"
   - "[[Whole Person Education]]"
   - "[[Scientism]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -192,7 +193,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题四｜比较教育是以人为中心直面文明伦理危机的人文教化知识体系
-> **古典全人教化与人本主义关怀** 该维度揭示历史学派对抗狭隘技术官僚规训、坚守以人为中心文明关切的崇高伦理旨趣。
+> **古典全人教化与人本主义关怀** 该维度揭示历史学派对抗狭隘技术官僚规训、坚守以人为中心文明关切的[[The Sublime|崇高]]伦理旨趣。
 
 > [!claim] [[Robert Ulich\|Ulich, R.]]
 > **西方两千年思想史长河中的全人教化沉思** 乌利希将比较教育置于西方文明思想史的宏阔纵深中，主张比较研究必须超越孤立主权国家的微观学校技术细节，探寻中世纪、文艺复兴、理性主义与工业科技四大历史浪潮中人性观念的演进。比较教育学是一门以人为中心（Anthropocentric）的人文知识体系，其终极使命在于直面文明危机，涵养受过教育的人的古典全人教化（*[[Paideia]]*）情怀，有别于单纯传授办学技巧的技术科学。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 51–52, 56–57)]]

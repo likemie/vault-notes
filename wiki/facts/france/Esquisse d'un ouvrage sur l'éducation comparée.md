@@ -31,9 +31,11 @@ related_concepts:
   - "[[International Education]]"
   - "[[Document]]"
   - "[[Scientific Method]]"
+  - "[[The Sublime]]"
   - "[[Faculty Psychology]]"
   - "[[Boarding Schools]]"
   - "[[Normal School]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Positivism]]"
   - "[[Geisteswissenschaften]]"
   - "[[Paradigm]]"
@@ -51,6 +53,7 @@ related_persons:
   - "[[Francis Bacon]]"
   - "[[Johann Heinrich Pestalozzi]]"
   - "[[Jean Piaget]]"
+  - "[[Charles Perrault]]"
   - "[[Victor Cousin]]"
   - "[[Jean-Jacques Rousseau]]"
 related_facts: []
@@ -59,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -78,7 +81,7 @@ updated: 2026-11-11
 
 ## 文本架构与核心设想
 
-朱利安的《计划》兼具严格的自然[[Scientific Method|科学方法]]学移植雄心与崇高的启蒙主义人道改良追求：
+朱利安的《计划》兼具严格的自然[[Scientific Method|科学方法]]学移植雄心与[[The Sublime|崇高]]的启蒙主义人道改良追求：
 
 > [!claim] 核心设想
 > 教育学完全可以同医学和解剖学一样被建构为一门“准实证科学”。通过编制标准化的题项[[Questionnaire\|问卷]]，系统搜集欧洲各国的客观教育“事实与观察（facts and observations）”，并统一录入“比较观察表（Comparative Observation Tables）”中横向并置分析，即可清晰研判各国教育现状何者“正在前进、保持停滞或正在倒退”，从而提炼普遍有效的教育法则，指导各国审慎借用他国制度长处，实现全欧文明的和平复兴。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 13–15; Fraser, 1964:36–37)]]
@@ -121,8 +124,8 @@ updated: 2026-11-11
 > [!timeline] 文本产生、遗忘与重新发掘时间线
 > - **1816–1817** 《计划》在《教育学报》分期连载，并出版两卷本单行本（朱利安仅完成了前两个领域即初等与中等教育的完整[[Questionnaire\|问卷]]题项编制）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11, 15)]]
 > - **1817–1930s** 长期沉寂与历史遗忘：由于缺乏主权国家的行政财力支撑与常设机构承接，《计划》出版后在 19 世纪欧陆并未演化为大规模的实地调研项目，[[Document|文献]]在图书馆书架上湮没了整整一个多世纪。（p. 11）
-> - **1935–1943** 偶然重新发掘：在[[International Education\|国际教育]]局（IBE）第一任局长[[Jean Piaget\|皮亚杰]]（Jean Piaget）与研究学者佩罗塞尔（P. Rosselló）等人的发掘下，《计划》重新面世，国际比较教育学界正式追认朱利安为“比较教育学之父”。（Fraser, 1964; Gautherin, 1993）
-> - **1964** 斯特沃特·弗雷泽（Stewart Fraser）将《计划》英译并在哥伦比亚大学出版（*Jullien's Plan for Comparative Education 1816–1817*），引发英美学界的系统研讨与[[Positivism\|实证主义]]重新诠释。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11, 35)]]
+> - **1935–1943** 偶然重新发掘：在[[International Education\|国际教育]]局（IBE）第一任局长[[Jean Piaget\|皮亚杰]]（Jean Piaget）与研究学者[[Charles Perrault|佩罗]]塞尔（P. Rosselló）等人的发掘下，《计划》重新面世，国际比较教育学界正式追认朱利安为“比较教育学之父”。（Fraser, 1964; Gautherin, 1993）
+> - **1964** 斯特沃特·弗雷泽（Stewart Fraser）将《计划》英译并在哥伦比亚大学出版（*Jullien's Plan for Comparative Education 1816–1817*），引发英[[Philosophical Aesthetics|美学]]界的系统研讨与[[Positivism\|实证主义]]重新诠释。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11, 35)]]
 > - **1990s–2000s** 思想史回归：帕尔默（R. R. Palmer, 1993）与卡洛扬纳基、卡扎米亚斯（2009）等学者突破单纯实证主义视角，将其置于法国大革命、启蒙自由主义与欧洲“[[Geisteswissenschaften|精神科学]]”脉络中进行历史唯物主义与人文主义重估。（pp. 16–20）
 
 ---
@@ -149,7 +152,7 @@ updated: 2026-11-11
 > > [!axis] 自然实证科学 vs 欧洲大陆[[Geisteswissenschaften|精神科学]]（Human Sciences）
 > > 欧洲大陆人文主义与思想史学者强调不能用 20 世纪美国[[Behaviorism|行为主义]]量化实证观来机械裁剪朱利安的 19 世纪文本。
 > >
-> > - **R. R. Palmer (1993)** 考证指出，朱利安在其 1819 年《人类知识分类总表》中明确将教育学列入涉及心灵与道德经验的“二级精神科学（second order sciences）”；其所谓的“科学”指称一切崇高的人类理性反思，绝非狭隘的统计指标计算。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 17–18]]; Palmer, 1993:176–178）
+> > - **R. R. Palmer (1993)** 考证指出，朱利安在其 1819 年《人类知识分类总表》中明确将教育学列入涉及心灵与道德经验的“二级精神科学（second order sciences）”；其所谓的“科学”指称一切[[The Sublime|崇高]]的人类理性反思，绝非狭隘的统计指标计算。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 17–18]]; Palmer, 1993:176–178）
 > > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]]** 论证朱利安追求的是一种“复调的人道世界（polyphonic human world）”，其核心驱动力是启蒙[[Cosmopolitanism|世界主义]]、儿童自然权利与欧洲和平秩序维系，是具有深厚人文关怀的现代性起点。（pp. 18–20）
 
 > [!citation-card] 代表性学术评论：诺亚与埃克斯坦 vs 卡洛扬纳基与卡扎米亚斯

@@ -39,6 +39,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Counterpart Funds]]"
   - "[[Document]]"
+  - "[[The Sublime]]"
   - "[[Research Tool]]"
   - "[[Epistemic Ascent]]"
   - "[[Learning Progression]]"
@@ -95,7 +96,7 @@ sources:
 part_of:
 status: draft
 created: 2026-09-24
-updated: 2026-11-11
+updated: 2026-11-14
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_McDonnell_2013_AmJE"
@@ -251,7 +252,7 @@ issuing_organization: ""
 > 4. **组建独立验证委员会** 设立由 29 位跨学科顶尖学者与评估专家组成的外部把关委员会，依据证据充分性、清晰度与国际可比性三大原则实施质量认证。
 
 > [!warrant]- 诉诸研究证据作为去政治化盾牌的技术防御机制
-> 起草团队将标准牢固锚定在研究证据这一崇高旗号之下，迫使所有外部利益相关者必须提供可被学术检验的实证数据才能提出修改意见；这一极高的技术门槛有效瓦解了意识形态游说，保护研制团队免受无休止的政治谈判干扰。
+> 起草团队将标准牢固锚定在研究证据这一[[The Sublime|崇高]]旗号之下，迫使所有外部利益相关者必须提供可被学术检验的实证数据才能提出修改意见；这一极高的技术门槛有效瓦解了意识形态游说，保护研制团队免受无休止的政治谈判干扰。
 
 > [!sub-claim] 2. 学术研究证据分布严重失衡，仅能充当宏观原则的护栏而无法决定具体条文
 

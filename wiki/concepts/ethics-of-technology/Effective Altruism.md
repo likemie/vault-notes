@@ -24,6 +24,7 @@ related_concepts:
   - "[[Hard Belief]]"
   - "[[Junzi]]"
   - "[[Hard Power]]"
+  - "[[The Sublime]]"
   - "[[Technological Republic]]"
   - "[[Civic Rituals]]"
   - "[[Value Neutrality]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-09
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -80,7 +81,7 @@ updated: 2026-11-03
 > [!feature] 核心要素
 > - **单一福利指标的算术化还原（Metric Utilitarianism）** 将极其丰富的人类文明经验、审美追求与共同体责任，简化为诸如“每美元拯救生命数”或“预防疾病伤残调整寿命年”等单一量化指标。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–213)]]
 > - **脱嵌于政治共同体的抽象[[Cosmopolitanism|普世主义]]（Disembodied Universalism）** 宣称所有生命福利在道德计算中具有绝对均等权重，以此在伦理上否定个体对本土政治共同体、历史传统与国家宪政防卫的特殊责任。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–214)]]
-> - **科技精英的道德避险庇护所（Moral Cover for Technocrats）** 为硅谷高管与软件工程师提供了一种披着崇高理想外衣的心理安慰剂，使其能够合理化自身的政治冷漠，延缓面对人类对生命意义与终极善恶的严肃探寻。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 213–215)]]
+> - **科技精英的道德避险庇护所（Moral Cover for Technocrats）** 为硅谷高管与软件工程师提供了一种披着[[The Sublime|崇高]]理想外衣的心理安慰剂，使其能够合理化自身的政治冷漠，延缓面对人类对生命意义与终极善恶的严肃探寻。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 213–215)]]
 > - **与[[Technological Agnosticism|技术不可知论]]的价值共谋（Collusion with Technological Agnosticism）** 与拒绝实质道德承诺的[[Technological Agnosticism|技术不可知论]]高度契合，共同构成了现代高科技产业规避国家民主问责与安全义务的理论盾牌。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 214–216)]]
 
 > [!logic-map]- 有效利他主义的意识形态机制与危机

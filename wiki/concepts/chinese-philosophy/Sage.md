@@ -36,6 +36,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Technological Republic]]"
   - "[[Engineering Mindset]]"
+  - "[[The Sublime]]"
   - "[[Document]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -191,7 +192,7 @@ updated: 2026-11-03
 > > [!axis] 治国者的“圣王道德主义” vs. 现代治理的“人性现实与激励对称”
 > > 探讨公共治理应当依赖选拔无私奉献的道德圣人，还是依靠承认人性私利并设计权责对称的制度规则。
 > >
-> > - **传统政治道德主义** 认为执政者必须具备崇高的无私献身精神与清贫操守，道德教化是良政的根本保障。
+> > - **传统政治道德主义** 认为执政者必须具备[[The Sublime|崇高]]的无私献身精神与清贫操守，道德教化是良政的根本保障。
 > > - **卡普与[[Lee Kuan Yew|李光耀]]的现代现实主义** 指出将公职人员预设为圣人是脱离实际的虚伪道德主义，必然导致平庸官僚盛行与富豪寡头垄断；唯有对标市场、给予公正回报才能吸纳顶尖实干人才。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 180–183)]]
 
 > [!warning] 适用局限

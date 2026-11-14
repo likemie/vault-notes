@@ -22,6 +22,7 @@ tags:
   - theme/qualification-recognition
 related_concepts:
   - "[[International Baccalaureate]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[International Schools]]"
   - "[[International Qualification Recognition]]"
 related_facts:
@@ -34,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-22
+updated: 2026-11-14
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-10-22
 
 > [!actor-grid] 三种扩展立场的不同控制原则
 > - **开放采用立场** 只要课程具有价值，就应向需要它的学校开放；控制主要意味着不超过行政服务能力，增加学校也能增加收入。
-> - **限制增长立场** 担心北美学校、[[United World Colleges|联合世界书院]]学生或单科证书考生增长过快造成支配，主张限制增长较快的部分。
+> - **限制增长立场** 担心北[[Philosophical Aesthetics|美学]]校、[[United World Colleges|联合世界书院]]学生或单科证书考生增长过快造成支配，主张限制增长较快的部分。
 > - **积极规划立场** 反对从数量直接推断治理或评分支配，同时反对完全依赖需求自然增长，主张主动支持其他地区。会议确认的平衡方向与这一立场相符。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 207–209)]]
 
 ---

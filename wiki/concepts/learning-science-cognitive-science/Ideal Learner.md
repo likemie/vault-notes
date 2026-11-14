@@ -21,6 +21,7 @@ related_concepts:
   - "[[Enculturation]]"
   - "[[Concept Mapping]]"
   - "[[Learning Virtues]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Self-Cultivation]]"
 related_theories:
   - "[[Cultural Models]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-22
+updated: 2026-11-14
 ---
 
 > [!info] 定义
@@ -105,7 +106,7 @@ Li 选择研究"理想"而非"一般"学习者的理论依据来自发展心理�
 > [!success|notitle]
 > ### 学习目的的跨文化差异
 > 当"学习"一词被**开放定义（left open for respondents to construe）** 时([[Argument_Li_2012_Cambridge\|Li, 2012, p.104]])：
-> - **欧美学生**将其解释为"**理解世界**"（understanding the world）
+> - **欧[[Philosophical Aesthetics|美学]]生**将其解释为"**理解世界**"（understanding the world）
 > - **中国学生**将其解释为"**道德与社会自我完善**"（moral and social [[Self-Cultivation\|self-perfection]]），以及学术学习
 >
 > 这表明理想学习者形象中的"学习目的"差异不是由研究者的提示框架造成的——它是自然浮现的文化差异。

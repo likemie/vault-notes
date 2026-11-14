@@ -26,6 +26,7 @@ tags:
   - region/global
 related_concepts:
   - "[[Learner Autonomy]]"
+  - "[[The Sublime]]"
   - "[[Focused Research Organization]]"
   - "[[Data Infrastructure]]"
   - "[[Industrial Commons]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-08
+updated: 2026-11-14
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-11-08
 > - **零门槛全球开放共享** 坚持无版权壁垒、无付费墙的绝对公共品属性，允许全球任何研究团队与商业公司免许可批量下载全部结构数据。
 
 > [!citation-card] 开放数据公地倡议宣言
-> 蛋白质数据库自诞生起便确立了科学公共资产的崇高宗旨：生命的原子级结构属于全人类。通过开放、标准化与无条件的知识共享，我们将数代科学家的劳动结晶汇聚为一座永恒的智慧公地。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 22)]]
+> 蛋白质数据库自诞生起便确立了科学公共资产的[[The Sublime|崇高]]宗旨：生命的原子级结构属于全人类。通过开放、标准化与无条件的知识共享，我们将数代科学家的劳动结晶汇聚为一座永恒的智慧公地。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 22)]]
 >
 > *The Protein Data Bank is an open-access, global archive of 3D structural data of biological macromolecules that serves millions of researchers, educators, and students worldwide, enabling breakthroughs in science and medicine.*
 

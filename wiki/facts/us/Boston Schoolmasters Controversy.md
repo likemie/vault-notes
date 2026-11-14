@@ -27,6 +27,7 @@ tags:
   - theme/nineteenth-century
 related_concepts:
   - "[[Normal School]]"
+  - "[[The Sublime]]"
   - "[[Rote Learning]]"
   - "[[Faculty Psychology]]"
   - "[[Policy Borrowing]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-30
+updated: 2026-11-14
 ---
 
 ---
@@ -58,7 +59,7 @@ updated: 2026-10-30
 > [!event-context] 事件背景
 > - **时间 / 地点** 1844 年夏至 1845 年底；主要爆发于马萨诸塞州波士顿市，随后迅速扩散至整个新英格兰乃至全美公共知识界。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 31–32)]]
 > - **关键主体** 一方为马萨诸塞州教育委员会秘书[[Horace Mann\|霍勒斯·曼]]及其支持者（自由派政要、[[Normal School\|师范教育]]倡导者及改良派知识分子）；对立方为“波士顿文法学校校长协会”（Association of Masters of the Boston Grammar Schools）的 31 位文法学校校长（以理查德·格林·帕克 Richard Greene Parker 等资深校长为执笔代表）。（Downs, 1974; p. 32）
-> - **制度背景** 波士顿文法学校（[[Grammar School]]）自殖民地时期起即享有崇高的精英声誉，校长们习惯于拥有不受外部行政干涉的绝对治校权；而曼所领导的[[Common School Movement\|公学运动]]推行州级统一督导、设立公立[[Normal School\|师范学校]]、提高办学问责制，直接触动了文法学校建制派的既得特权与专业权威。（Cremin, 1957; pp. 31–32）
+> - **制度背景** 波士顿文法学校（[[Grammar School]]）自殖民地时期起即享有[[The Sublime|崇高]]的精英声誉，校长们习惯于拥有不受外部行政干涉的绝对治校权；而曼所领导的[[Common School Movement\|公学运动]]推行州级统一督导、设立公立[[Normal School\|师范学校]]、提高办学问责制，直接触动了文法学校建制派的既得特权与专业权威。（Cremin, 1957; pp. 31–32）
 > - **直接诱因** 1844 年 1 月霍勒斯·曼发表 《[[Seventh Annual Report of the Massachusetts Board of Education\|第七次年度报告]]》，严厉抨击波士顿及新英格兰学校普遍存在的机械[[Rote Learning\|死记硬背]]与严酷肉体惩罚，极力称赞普鲁士学校依靠关爱与温和纪律维持良好秩序且无体罚。波士顿校长们深感被严重侮辱，决定联合发起反攻。（Downs, 1974:88; pp. 31–32）
 
 ---

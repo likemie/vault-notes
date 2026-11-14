@@ -32,6 +32,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Problematisation]]"
   - "[[Democratic Education]]"
+  - "[[The Sublime]]"
   - "[[Geisteswissenschaften]]"
   - "[[Bildung]]"
   - "[[National Character]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -137,7 +138,7 @@ updated: 2026-11-11
 > **实然因果说明与应然民主改良的混同** [[Isaac Kandel\|坎德尔]]（I. L. Kandel）等比较教育历史学派先驱在考察国家制度演化时，试图在历史叙事中寄托[[Democratic Education\|民主教育]]改良愿景；将国家教育现状的客观成因（What is）与未来教育应该走向民主自治（What ought to be）混为一谈，导致史料选择被先验道德热情所裹挟，陷入逆向剪裁证据的辉格主义泥潭。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 54–55)]]
 
 > [!claim] Kandel, I. L.
-> **以教育促进自由民主为历史终极目的论** 比较教育研究的崇高价值不仅在于客观记录各国外在制度，更在于揭示专制主义与民主政体对人类精神的不同塑造；历史演进展现了民主自由对国家主义集权管制的终极道德超越，因而教育史研究天然承载着捍卫自由主义理想的改良使命。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 46–48; Kandel, 1933)]]
+> **以教育促进自由民主为历史终极目的论** 比较教育研究的[[The Sublime|崇高]]价值不仅在于客观记录各国外在制度，更在于揭示专制主义与民主政体对人类精神的不同塑造；历史演进展现了民主自由对国家主义集权管制的终极道德超越，因而教育史研究天然承载着捍卫自由主义理想的改良使命。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 46–48; Kandel, 1933)]]
 
 ---
 

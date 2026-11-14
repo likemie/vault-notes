@@ -29,6 +29,7 @@ tags:
 related_concepts:
   - "[[Enlightenment]]"
   - "[[Epistemology]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Empiricism]]"
   - "[[Perpetual Peace]]"
   - "[[Revolutionism]]"
@@ -56,6 +57,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Marc-Antoine Jullien]]"
+  - "[[Gottfried Wilhelm Leibniz]]"
   - "[[Jin Li]]"
   - "[[Jean-Jacques Rousseau]]"
   - "[[Plato]]"
@@ -71,14 +73,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
 
 ## 简介
 
-伊曼努尔·康德（Immanuel Kant, 1724–1804）是德国哲学家，[[Enlightenment|启蒙运动]]的集大成者与德国古典哲学的奠基人。他终身执教于柯尼斯堡大学，以三大批判体系重塑了西方哲学的[[Epistemology|认识论]]、伦理学与美学版图，并在政治哲学、[[Wight's Three Traditions of International Theory|国际关系理论]]与现代教育思想中占据着枢纽性的源头地位。
+伊曼努尔·康德（Immanuel Kant, 1724–1804）是德国哲学家，[[Enlightenment|启蒙运动]]的集大成者与德国古典哲学的奠基人。他终身执教于柯尼斯堡大学，以三大批判体系重塑了西方哲学的[[Epistemology|认识论]]、伦理学与[[Philosophical Aesthetics|美学]]版图，并在政治哲学、[[Wight's Three Traditions of International Theory|国际关系理论]]与现代教育思想中占据着枢纽性的源头地位。
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国哲学家、启蒙时代思想大师、柯尼斯堡大学逻辑与形而上学讲座教授；德国批判哲学与古典唯心论的奠基旗手。
@@ -100,7 +102,7 @@ updated: 2026-11-11
 
 > [!timeline] 生平与职涯
 > - **1724** 出生于东普鲁士柯尼斯堡的一个虔敬派（Pietist）工匠家庭。
-> - **1740–1746** 就读于柯尼斯堡大学，师从马丁·克努岑（Martin Knutzen），系统研习莱布尼茨—沃尔夫学派哲学、牛顿物理学与数学。
+> - **1740–1746** 就读于柯尼斯堡大学，师从马丁·克努岑（Martin Knutzen），系统研习[[Gottfried Wilhelm Leibniz|莱布尼茨]]—沃尔夫学派哲学、牛顿物理学与数学。
 > - **1755** 提交《自然通史与天体理论》，提出解释太阳系起源的“星云假说”；同年以《形而上学认识各首要原则的新解说》获得大学任教资格。
 > - **1770** 就任柯尼斯堡大学逻辑与形而上学讲座教授，发表就职论文《感性与知性世界的形式与原则》，开启长达十年的沉潜批判思考。
 > - **1781** 出版第一批判《纯粹理性批判》（*Kritik der reinen Vernunft*），宣告先验批判哲学的正式诞生，完成[[Epistemology\|认识论]]的哥白尼式转向。
@@ -122,7 +124,7 @@ updated: 2026-11-11
 >   - **代表著作** 《自然通史与天体理论》（1755）、《试将负数概念引入哲学》（1763）。
 >   - **关键概念／方法** 太阳系星云假说、万有引力与斥力平衡、经验形而上学。
 >   - **阶段转向** 受到休谟将经验[[Causality\|因果性]]还原为主观习惯联想的“独断迷梦”当头棒喝，深感[[Empiricism\|经验论]]无法提供确定性知识基石，决心重构理性心智的合法权利界限。
-> - **1781–1790 — 批判哲学确立时期（三大批判体系建构）** 集中回应“我能知道什么？”（[[Epistemology\|认识论]]）、“我应当做什么？”（伦理学）与“我可以期望什么？”（美学与目的论）三大终极问题。
+> - **1781–1790 — 批判哲学确立时期（三大批判体系建构）** 集中回应“我能知道什么？”（[[Epistemology\|认识论]]）、“我应当做什么？”（伦理学）与“我可以期望什么？”（[[Philosophical Aesthetics|美学]]与目的论）三大终极问题。
 >   - **代表著作** 《纯粹理性批判》（1781/1787）、《道德形而上学奠基》（1785）、《[[Phronesis|实践理性]]批判》（1788）、《判断力批判》（1790）。
 >   - **关键概念／方法** 哥白尼式革命、先天综合判断、时空先验感性形式、知性范畴（量、质、关系、模态）、物自体（*Ding an sich*）、定言律令（*Categorical Imperative*）、意志自律。[[Argument_Li_2012_Cambridge\|Li (2012, pp. 25–26, 30)]]
 >   - **阶段转向** 成功在纯粹理性经验边界（现象界）与实践理性道德要求（本体界）之间建立起严格划分，将人类心智确立为能动立法的主体。

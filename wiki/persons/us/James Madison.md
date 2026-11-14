@@ -25,6 +25,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Technological Republic]]"
+  - "[[The Sublime]]"
   - "[[Document]]"
   - "[[Civic Religion]]"
   - "[[Procedural Piety]]"
@@ -34,6 +35,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Alexander Hamilton]]"
+  - "[[Thomas Jefferson]]"
   - "[[Lee Kuan Yew]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
@@ -43,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -54,7 +56,7 @@ updated: 2026-11-11
 > - **代表贡献** 起草弗吉尼亚方案与美国宪法核心条款；论述派系治理与复合共和制机制；在《[[Technological Republic|技术共和国]]》中被作为反思美国公职补偿历史起源与防腐戒条的关键思想坐标。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 181–182)]]
 
 > [!citation-card] 人物定位的关键来源
-> 自共和国建国以来，我们一直坚守这样一种希望：有抱负且才华横溢的人会出于个人致富以外的崇高原因竞选公职以报效国家。1787 年在一场关于国会薪酬的辩论中，后来成为美国第四任总统的詹姆斯·麦迪逊对允许国会议员掌控自身薪酬持怀疑态度。他主张，国会议员“为了自肥而将手伸进公款是不体面的”。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 181–182)]]
+> 自共和国建国以来，我们一直坚守这样一种希望：有抱负且才华横溢的人会出于个人致富以外的[[The Sublime|崇高]]原因竞选公职以报效国家。1787 年在一场关于国会薪酬的辩论中，后来成为美国第四任总统的詹姆斯·麦迪逊对允许国会议员掌控自身薪酬持怀疑态度。他主张，国会议员“为了自肥而将手伸进公款是不体面的”。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 181–182)]]
 >
 > *Since the founding of the republic, we have sought to hold on to the hope that well-meaning and talented people would run for office to serve their country for reasons other than their personal enrichment. In 1787, at a debate regarding congressional salaries, James Madison, who would become the fourth president of the United States, was skeptical of allowing members of Congress to have control over their own compensation. He argued that it would “be indecent to put their hands into the public purse for the sake of their own pockets.”*
 
@@ -67,7 +69,7 @@ updated: 2026-11-11
 > - **1787** 出席费城制宪会议，提出“弗吉尼亚方案”，主导确立联邦三权分立架构；在国会薪酬辩论中力主限制议员自定薪酬的权力以防腐化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 181–182)]]
 > - **1787–1788** 撰写《联邦党人文集》中的 29 篇文章（包括著名的第 10 篇与第 51 篇）。
 > - **1789–1797** 担任首届联邦众议员，主持起草并通过《权利法案》（前十条宪法修正案）。
-> - **1801–1809** 出任托马斯·杰斐逊总统的国务卿，主导路易斯安那购地案。
+> - **1801–1809** 出任[[Thomas Jefferson|托马斯·杰斐逊]]总统的国务卿，主导路易斯安那购地案。
 > - **1809–1817** 当选并连任第四任美国总统，领导应对 1812 年第二次美英战争。
 > - **1836** 在弗吉尼亚蒙彼利埃庄园逝世，享年 85 岁。
 

@@ -44,6 +44,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Cultural Capital]]"
   - "[[Technological Republic]]"
+  - "[[The Sublime]]"
   - "[[Champ]]"
   - "[[Commensuration]]"
   - "[[Discourse]]"
@@ -56,6 +57,7 @@ related_concepts:
   - "[[Metascience]]"
   - "[[Research Question]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Language-of-State]]"
   - "[[Literature Review]]"
   - "[[Official Knowledge]]"
   - "[[Policy Borrowing]]"
@@ -101,7 +103,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -131,7 +133,7 @@ updated: 2026-11-11
 > - **20 世纪 90 年代至 2000 年代 — [[Paradigm|范式]]论争超越与健康多元主义确立** [[Val D. Rust|瓦尔·拉斯特]]等学者通过长期计量追踪，证实比较教育进入了以 26 种[[Theoretical Perspective|理论视角]]并存互补、质性与量化并重为标志的“健康多元主义”（Healthy Pluralism）。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]
 > - **2005 年 — [[Critical Pluralism|批判性多元主义]]升级** [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] 结合美国联邦阅读立法，指出传统多元主义忽视[[Cultural Capital|文化资本]]不平等与次政府铁三角阻隔，催生了吸纳[[Critical Theory|批判理论]]的批判性多元主义。
 > - **2022 年 — 国家科层治理对科学多元主义的制度性规训** 塞格霍姆等通过对[[Swedish Schools Inspectorate|瑞典学校督察局]]的实证追踪，揭示行政机构在面对学术界的“健康多元主义”时，出于维持监管权威与消除混淆的科层诉求，主动通过单一片面范式组织知识库与招募研究者，以此规避冲突并压制科学多元主义。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 653)]]
-> - **2025 年 — 批判“淹没性多元”与重建实质道德共同体** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》（Ch. 17 & Ch. 18）中指出，当代西方将包容性推向极端，沦为麦金太尔所斥责的“威胁淹没我们所有人的多元主义”（Submerging Pluralism）；罗杰·金博尔（Roger Kimball, 2004）揭示“容纳一切的渴望已退化为对任何价值的无所支持”。必须重拾对体制崇高性的自信与德性政治，构建能维系道德生活的实质共同体。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–201)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–216)]]
+> - **2025 年 — 批判“淹没性多元”与重建实质道德共同体** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》（Ch. 17 & Ch. 18）中指出，当代西方将包容性推向极端，沦为麦金太尔所斥责的“威胁淹没我们所有人的多元主义”（Submerging Pluralism）；罗杰·金博尔（Roger Kimball, 2004）揭示“容纳一切的渴望已退化为对任何价值的无所支持”。必须重拾对体制[[The Sublime|崇高]]性的自信与德性政治，构建能维系道德生活的实质共同体。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–201)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–216)]]
 
 ---
 
@@ -202,7 +204,7 @@ updated: 2026-11-11
 > | 利益表达通道（Truman, 1971; [[Argument_Edmondson_2005_EPAA\|Edmondson, 2005, p. 4]]） | **公开参与渠道有效性** 基层群体是否有制度化途径向立法者表达异见？ | 听证会邀请名单、公众咨询期设立、请愿信件签收记录。 | 若存在公开意见征集但无实质审议回应，表明仅具程序合法性形式。 |
 > | 文化资本门槛（Bourdieu, 1997; [[Argument_Edmondson_2005_EPAA\|Edmondson, 2005, p. 6]]） | **专业语言与入场门槛** 决策者是否以“不具备专业资质”为由贬低草根诉求？ | 议员对选民抗议的公开发言、听证会资格审核标准。 | 若草根信件被定性为“情绪化/非理性”而遭搁置，支持资本排斥判断。 |
 > | 文化多元性防线（[[Argument_Mitter_2009_Europe\|Mitter, 2009, pp. 98–99]]） | **本土文化生态抗阻度** 外部普遍主义政策在遭遇本土多语言语境时如何调适？ | 本土法律修订条款、地方学校对国际测评的抵制声浪。 | 若外部模式被全盘机械套用，表明多元文化抗阻机制失效。 |
-> | 多元社会凝聚机制（Gopinathan, 1979; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17\|Karp & Zamiska, 2025, pp. 195–201]]） | **共同语言与公德规范整合度** 多元族群社会是否建立了跨越族群部落主义的通用语与价值中枢？ | 国家语言政策、双语课程比例、核心价值观法案。 | 若放任语言与族群自发生长导致社会分裂，表明多元治理失灵；建立共同公德支持一体多元。 |
+> | 多元社会凝聚机制（Gopinathan, 1979; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17\|Karp & Zamiska, 2025, pp. 195–201]]） | **共同语言与公德规范整合度** 多元族群社会是否建立了跨越族群部落主义的通用语与价值中枢？ | [[Language-of-State\|国家语言]]政策、双语课程比例、核心价值观法案。 | 若放任语言与族群自发生长导致社会分裂，表明多元治理失灵；建立共同公德支持一体多元。 |
 > | 健康多元主义（[[Argument_Rust_2009_Reflections\|Rust et al., 2009, pp. 121–123]]） | **[[Knowledge Production\|知识生产]]的范式包容度** 该学科领域是否存在单一理论范式的垄断？ | 旗舰期刊中 26 种[[Paradigm\|范式]]占比、量化与质性文章比例。 | 若某一方法占比超 70% 且排斥异质投稿，表明陷入霸权；多范式均衡则判定为健康多元。 |
 > | 科层对科学多元性的规训（[[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al., 2022, p. 653]]） | **循证政策中的范式包容度 vs 行政简化** 决策与规制机构在构建循证基准时，是否容纳了学界的多元竞争视角？是否通过排他性范式采购消除学术争议？ | 官方[[Literature Review\|文献综述]]的流派分布、外聘专家库构成、对异质理论的采纳记录。 | 若[[Official Knowledge\|官方知识]]库由单一学派垄断并排除反方证据，支持科层压制科学多元主义假说。 |
 > | 实质美德与道德共同体（MacIntyre, 2007; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|Karp & Zamiska, 2025, pp. 212–216]]） | **超越相对主义的中立评估** 政策是否在多元包容名义下放弃了对卓越生活与实质美德的追求？ | 公民德育课程要求、公共文化评判标准、高校通识正典设置。 | 坚守卓越美德支持实质共同体；放任道德不可知论表明滑向“淹没性多元”虚无。 |

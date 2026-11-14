@@ -30,6 +30,7 @@ related_concepts:
   - "[[Creativity Training]]"
   - "[[SCAMPER]]"
   - "[[Creativity]]"
+  - "[[The Sublime]]"
   - "[[Champ]]"
   - "[[Engineering Education]]"
   - "[[Brainstorming]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-11-02
+updated: 2026-11-14
 ---
 
 ---
@@ -71,7 +72,7 @@ updated: 2026-11-02
 > - **1954 年** 斯大林逝世后获得平反释放，定居阿塞拜疆巴库，全身心投入 TRIZ 理论的严谨科学建构与教学推广。
 > - **1956 年** 发表代表性奠基论文《关于发明创造的心理学》，首次向公众正式披露 TRIZ 体系。
 > - **1970 年代** 创立巴库阿奇舒勒公共发明学院，指导建立全苏数十个 TRIZ 实验室，分析专利突破 20 万件，完善 40 发明原理与 ARIZ 算法。
-> - **1984 年** 出版传世经典专著《[[Creativity]] as an Exact Science》，确立创新作为精确可教科学的崇高地位。
+> - **1984 年** 出版传世经典专著《[[Creativity]] as an Exact Science》，确立创新作为精确可教科学的[[The Sublime|崇高]]地位。
 > - **1998 年** 逝世于俄罗斯彼得罗扎沃茨克，其 TRIZ 理论在后冷战时代走向全球，被三星、波音、空客与全球顶尖工学院奉为研发圭臬。
 
 ---

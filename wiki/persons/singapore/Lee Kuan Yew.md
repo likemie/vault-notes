@@ -27,6 +27,8 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Junzi]]"
+  - "[[The Sublime]]"
+  - "[[Language-of-State]]"
   - "[[Document]]"
   - "[[Value Neutrality]]"
   - "[[Technological Republic]]"
@@ -45,6 +47,7 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 related_persons:
+  - "[[Thomas Stamford Raffles]]"
   - "[[Goh Keng Swee]]"
   - "[[Confucius]]"
   - "[[John Rawls]]"
@@ -55,7 +58,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-02
+updated: 2026-11-14
 ---
 
 ---
@@ -66,18 +69,18 @@ updated: 2026-11-02
 > - **代表贡献** 主导确立[[Singapore Civil Service Salary Benchmarking Policy|新加坡公职薪酬市场化挂钩制度]]与[[Speak Mandarin Campaign|讲华语运动]]；构建起廉洁高效的现代文官治理体制；将新加坡从 1960 年人均国内生产总值（Gross Domestic Product, GDP）仅 428 美元的极端脆弱小岛，建设为人均 GDP 超 8.4 万美元的全球高科技与金融枢纽。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–197)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–216)]]
 
 > [!citation-card] 人物定位的关键来源
-> 李光耀在 1994 年议会辩论中明确指出，政治家和公职人员同样是有血有肉、有家庭有现实抱负的普通男女；当社会高谈阔论崇高的道德情怀时，必须记住归根结底极少有人会甘愿成为不食人间烟火的神职人员。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
+> 李光耀在 1994 年议会辩论中明确指出，政治家和公职人员同样是有血有肉、有家庭有现实抱负的普通男女；当社会高谈阔论[[The Sublime|崇高]]的道德情怀时，必须记住归根结底极少有人会甘愿成为不食人间烟火的神职人员。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
 >
 > *Lee responded that politicians “are real men and women, just like you and me, with real families who have real aspirations in life.” He continued: “So when we talk of all these high-falutin, noble, lofty causes, remember at the end of the day, very few people become priests.”*
 
 ---
 
 > [!timeline] 生平与职涯
-> - **1923** 出生于新加坡，就读于莱佛士书院，二战后赴英国剑桥大学菲茨威廉学院攻读法律，以双重一级荣誉学位毕业。
+> - **1923** 出生于新加坡，就读于[[Thomas Stamford Raffles|莱佛士]]书院，二战后赴英国剑桥大学菲茨威廉学院攻读法律，以双重一级荣誉学位毕业。
 > - **1954** 参与创立人民行动党（People's Action Party, PAP）并出任秘书长。
 > - **1959** 在自治邦大选中获胜，就任新加坡首任总理。
 > - **1965** 领导新加坡脱离马来西亚独立；在酒商公会发表历史性演说，宣示以未来一代、一百年乃至一千年的时间跨度进行国家生存计算。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 194)]]
-> - **1979** 依据副总理[[Goh Keng Swee|吴庆瑞]]主持的《[[Goh Report|吴庆瑞报告]]》，正式启动全国范围的[[Speak Mandarin Campaign|讲华语运动]]，果断重塑多方言丛林为统一国家语言人格。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
+> - **1979** 依据副总理[[Goh Keng Swee|吴庆瑞]]主持的《[[Goh Report|吴庆瑞报告]]》，正式启动全国范围的[[Speak Mandarin Campaign|讲华语运动]]，果断重塑多方言丛林为统一[[Language-of-State|国家语言]]人格。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
 > - **1986** 在国庆群众大会上阐明国家介入私人领域是多民族建国的必要基础，随后逐步过渡到赋权民众自主选择的新发展阶段。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–197)]]
 > - **1994** 在议会提交《竞争性薪酬确保廉洁高效政府》白皮书，正式将公职薪酬对标私营部门市场化公式法定化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
 > - **2015** 在新加坡中央医院逝世，享年 91 岁。

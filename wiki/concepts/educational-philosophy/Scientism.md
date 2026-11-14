@@ -49,6 +49,7 @@ related_concepts:
   - "[[Scientific Explanation]]"
   - "[[Cognitive Authority]]"
   - "[[Empiricism]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Discourse]]"
 related_theories:
   - "[[Behaviorism]]"
@@ -63,6 +64,7 @@ related_methods:
 related_persons:
   - "[[Jürgen Habermas]]"
   - "[[John Hattie]]"
+  - "[[Martin Luther]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
   - "[[Hu Shi]]"
@@ -80,7 +82,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-14
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -169,7 +171,7 @@ updated: 2026-11-03
 > **量化盲从与学术探究的去个性化异化** 特里·扬斯指出，当代社会科学对定量计算与高级统计模型的狂热迷信，实质上构成了抹杀个体[[Heterogeneity|异质性]]的集体主义控制。量化技术本身固然能为经验观察提供辅助工具，但当其反客为主升格为研究终极目的时，社会科学便沦为冷漠数学的一个应用分支，彻底背弃了其深入探索与阐明人类艰难生存困境的人道天职，带来了普遍的去个性化（depersonalization）危机。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 115)]]
 
 > [!claim] Wittgenstein (1974)
-> **科学疆界与生命根本问题的永恒未及** 路德维希·维特根斯坦的哲学箴言揭示了科学主义狂妄全能幻觉的[[Epistemology|认识论]]局限：即便自然科学解答了所有能够被经验陈述的科学问题，人类存在的核心困惑、生命意义与伦理抉择却依然丝毫未被触及。科学主义企图用测量数据终结关于教育价值与生命追求的探索，属于根本性的范畴错置。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 115)]]
+> **科学疆界与生命根本问题的永恒未及** [[Martin Luther|路德]]维希·维特根斯坦的哲学箴言揭示了科学主义狂妄全能幻觉的[[Epistemology|认识论]]局限：即便自然科学解答了所有能够被经验陈述的科学问题，人类存在的核心困惑、生命意义与伦理抉择却依然丝毫未被触及。科学主义企图用测量数据终结关于教育价值与生命追求的探索，属于根本性的范畴错置。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 115)]]
 
 ---
 
@@ -238,7 +240,7 @@ updated: 2026-11-03
 ---
 
 > [!citation-card] 霍克海默与[[Jürgen Habermas|哈贝马斯]]论科学主义的自我神化与工具理性危机
-> [[Positivism|实证主义]]是对自然概念的数学化，而科学主义则是科学对自身的盲目崇拜——深信科学是开展研究与解释现象的唯一方式。科学心态已被提升至几乎不容置疑的霸权地位，近乎成为当代西方社会的新宗教（科学主义），成为唯一合法的[[Epistemology|认识论]]。在此视角下，一切知识皆被等同于实证科学知识，粗暴剥离了诠释学、美学、批判、道德与[[Creativity|创造性]]认知形式，使人类行为退化为纯粹的技术操控。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Horkheimer, 1972; Habermas, 1972, cited in Cohen et al., 2011, p. 115)]]
+> [[Positivism|实证主义]]是对自然概念的数学化，而科学主义则是科学对自身的盲目崇拜——深信科学是开展研究与解释现象的唯一方式。科学心态已被提升至几乎不容置疑的霸权地位，近乎成为当代西方社会的新宗教（科学主义），成为唯一合法的[[Epistemology|认识论]]。在此视角下，一切知识皆被等同于实证科学知识，粗暴剥离了诠释学、[[Philosophical Aesthetics|美学]]、批判、道德与[[Creativity|创造性]]认知形式，使人类行为退化为纯粹的技术操控。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Horkheimer, 1972; Habermas, 1972, cited in Cohen et al., 2011, p. 115)]]
 >
 > *Positivism is the mathematization of concepts about nature, and scientism is science's belief in itself as the only way of conducting research and explaining phenomena... The scientific mentality has been elevated to an almost unassailable position – almost to the level of a religion (scientism) – as being the only epistemology of the west. In this view all knowledge becomes equated with scientific knowledge. This neglects hermeneutic, aesthetic, critical, moral, creative and other forms of knowledge. It reduces behaviour to technicism.*
 

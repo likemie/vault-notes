@@ -20,6 +20,7 @@ tags:
   - theme/liberalism
 related_concepts:
   - "[[Buen Vivir]]"
+  - "[[The Sublime]]"
   - "[[Discourse]]"
 related_theories:
   - "[[Postmodernism]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -44,7 +45,7 @@ updated: 2026-11-03
 > 正当与善（The Right and the Good）是政治哲学与伦理学中的基础概念对子：“正当”（The Right）指向规定个体基本权利、法律程序与分配正义的普遍规范与底线原则；“善”（The Good）则指向关于人生意义、德性卓越、[[Buen Vivir|美好生活]]（Good Life）与共同体终极价值的实质性构想。当代自由主义体制过度强调“正当优先于善”（The Priority of Right over Good），导致公共讨论与教育体系逐渐将一切对“善”的探索与价值决断驱逐出公共领域。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 80–82)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 揭示现代自由民主社会在确立程序公正与权利平等的同时，陷入无法对美好生活、国家使命与崇高美德做出肯定性判断的规范性困境。
+> - **含义** 揭示现代自由民主社会在确立程序公正与权利平等的同时，陷入无法对美好生活、国家使命与[[The Sublime|崇高]]美德做出肯定性判断的规范性困境。
 > - **用途** 解释当代公共机构与大学教育为何充斥着冷漠的合规技术与防卫性程序，而缺乏引领社会走向崇高目标的道德激情。
 > - **边界** 区分于相对主义道德观，正当与善的张力旨在寻找骨架（正当）与血肉（善）之间的有机结合，而非否定正义本身的必要性。
 

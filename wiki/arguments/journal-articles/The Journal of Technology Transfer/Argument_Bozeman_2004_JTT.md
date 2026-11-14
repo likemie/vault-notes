@@ -44,6 +44,7 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Engineering Education]]"
   - "[[Scientific Autarky]]"
+  - "[[The Sublime]]"
   - "[[Seed Funding]]"
   - "[[Sunset Provisions]]"
   - "[[Red Tape]]"
@@ -68,7 +69,7 @@ related_facts:
   - "[[National Aeronautics and Space Administration]]"
 status: active
 created: 2026-10-06
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 ---
 
@@ -152,7 +153,7 @@ updated: 2026-11-11
 > [!sub-claim] 3. 基础[[Scientific Autarky|科学自主]]性与国家经济目标导向的办学路线分歧
 
 > [!tension] 纯基础[[Scientific Autarky|科学自主]]性 vs 国家战略竞争力取向
-> - **小科学保守阵营的恐慌** 许多大学传统学者深感忧虑，担心为国家竞争力设立集中化大中心会背离 NSF 守护自由探索纯科学的崇高神殿，甚至抽干个人科学家小额资助经费池。
+> - **小科学保守阵营的恐慌** 许多大学传统学者深感忧虑，担心为国家竞争力设立集中化大中心会背离 NSF 守护自由探索纯科学的[[The Sublime|崇高]]神殿，甚至抽干个人科学家小额资助经费池。
 > - **产业工程改革派的进取** 以[[Erich Bloch|埃里希·布洛赫]]（Erich Bloch）与[[Nam Pyo Suh|徐南杓]]（Nam Pyo Suh）为代表的倡导者则坚信，现代工程学天然具有高度交叉融合特征，必须通过中心模式重塑工程教育与产业创新的制度纽带。
 
 ---

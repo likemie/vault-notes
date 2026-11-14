@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "template-theory",
+      "path": "wiki/templates/template-theory.md"
+    },
+    {
+      "basename": "template-method",
+      "path": "wiki/templates/template-method.md"
+    },
+    {
+      "basename": "template-fact-event",
+      "path": "wiki/templates/template-fact-event.md"
+    },
+    {
+      "basename": "Subversives",
+      "path": "wiki/concepts/political-economy-geopolitics/Subversives.md"
+    },
+    {
+      "basename": "Argument_He_2018_HEP",
+      "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_He_2018_HEP.md"
+    },
+    {
+      "basename": "Argument_Zhu_Yang_2023_HEP",
+      "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_Zhu_Yang_2023_HEP.md"
+    },
+    {
+      "basename": "Argument_Woo_2023_HEP",
+      "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_Woo_2023_HEP.md"
+    },
+    {
+      "basename": "Print-Capitalism",
+      "path": "wiki/concepts/political-economy-geopolitics/Print-Capitalism.md"
+    },
+    {
+      "basename": "Argument_Anderson_2016_Verso",
+      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso.md"
+    },
+    {
       "basename": "Argument_Anderson_2016_Verso_Ch11",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md"
     },
@@ -53,10 +89,6 @@
       "path": "wiki/concepts/political-economy-geopolitics/Serialization.md"
     },
     {
-      "basename": "Print-Capitalism",
-      "path": "wiki/concepts/political-economy-geopolitics/Print-Capitalism.md"
-    },
-    {
       "basename": "Imagined Community",
       "path": "wiki/theories/political-economy-geopolitics/Imagined Community.md"
     },
@@ -67,10 +99,6 @@
     {
       "basename": "template-fact-eef-programme",
       "path": "wiki/templates/template-fact-eef-programme.md"
-    },
-    {
-      "basename": "template-theory",
-      "path": "wiki/templates/template-theory.md"
     },
     {
       "basename": "template-argument",
@@ -165,40 +193,12 @@
       "path": "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md"
     },
     {
-      "basename": "Argument_Anderson_2016_Verso",
-      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso.md"
-    },
-    {
       "basename": "Argument_Anderson_2016_Verso_Ch05",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch05.md"
     },
     {
       "basename": "Simón Bolívar",
       "path": "wiki/persons/venezuela/Simón Bolívar.md"
-    },
-    {
-      "basename": "Bourgeois Reading Solidarity",
-      "path": "wiki/concepts/political-economy-geopolitics/Bourgeois Reading Solidarity.md"
-    },
-    {
-      "basename": "Study Abroad",
-      "path": "wiki/concepts/educational-technology/Study Abroad.md"
-    },
-    {
-      "basename": "Average Variance Extracted",
-      "path": "wiki/methods/quantitative/Average Variance Extracted.md"
-    },
-    {
-      "basename": "Argument_Anderson_2016_Verso_Ch04",
-      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch04.md"
-    },
-    {
-      "basename": "Author Name Disambiguation",
-      "path": "wiki/methods/quantitative/Author Name Disambiguation.md"
-    },
-    {
-      "basename": "Angoff Method",
-      "path": "wiki/methods/quantitative/Angoff Method.md"
     }
   ],
   "omittedPaths": [],

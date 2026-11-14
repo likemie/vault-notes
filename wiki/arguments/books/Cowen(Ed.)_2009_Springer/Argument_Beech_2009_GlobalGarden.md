@@ -56,9 +56,11 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Return on Investment]]"
   - "[[Effective Teaching]]"
+  - "[[The Sublime]]"
   - "[[School Autonomy]]"
   - "[[Encyclopaedic Definition of Knowledge]]"
   - "[[Epistemology]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Educational Meliorism]]"
   - "[[Falsification]]"
   - "[[Categorical Funding]]"
@@ -102,7 +104,7 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-10-15
-updated: 2026-11-11
+updated: 2026-11-14
 subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Beech_2009_GlobalGarden"
@@ -254,7 +256,7 @@ issuing_organization: ""
 > | 国际机构 | 核心认识论立场 | 发展哲学与关键工具 | 典型政策修辞与[[Geopolitics\|地缘政治]]博弈焦点 |
 > |---|---|---|---|
 > | **[[World Bank\|世界银行]]（WB）** | 绝对[[Human Capital Theory\|人力资本理论]]（Human Capital Theory, HCT）主导，自称在广度与严谨性上无可匹敌（1995: 21；p. 347） | 将教育全面工具化为经济增长引擎；以经受三十余年检验的[[Return on Investment\|社会投资回报]]率与成本效益核算为最高评判准绳 | 将教材、黑板与粉笔定为最[[Effective Teaching\|有效教学]]物资；将教师薪酬视为削减成本之主要障碍（Carnoy, 1999）；实证宣称若 1960 年韩国入学率同巴基斯坦一样低，其 1985 年人均国内生产总值（Gross Domestic Product, GDP）将萎缩 40%（pp. 346–347） |
-> | **[[UNESCO\|联合国教科文组织]]（UNESCO）** | 崇高的人本主义立场（Mayor et al., 1997；p. 347） | 坚决反对将人降格为人力资本与生产工具，强调人是发展的终极目的而非经济手段；旨在促进人的全面发展、尊严、和平、宽容与人权 | 菲利普·琼斯（Phillip Jones）与戴维·科尔曼（David Coleman, 2005）揭露 1996 年[[Delors Report\|德洛尔报告]]《学习：内在的财富》（*Learning: The Treasure Within*）实质是 UNESCO 在北面遭受 OECD 侵蚀、南面遭受世行挤压的领导地位危机中，为重塑政治合法性展开的公开舆论反击（pp. 347–348） |
+> | **[[UNESCO\|联合国教科文组织]]（UNESCO）** | [[The Sublime\|崇高]]的人本主义立场（Mayor et al., 1997；p. 347） | 坚决反对将人降格为人力资本与生产工具，强调人是发展的终极目的而非经济手段；旨在促进人的全面发展、尊严、和平、宽容与人权 | 菲利普·琼斯（Phillip Jones）与戴维·科尔曼（David Coleman, 2005）揭露 1996 年[[Delors Report\|德洛尔报告]]《学习：内在的财富》（*Learning: The Treasure Within*）实质是 UNESCO 在北面遭受 OECD 侵蚀、南面遭受世行挤压的领导地位危机中，为重塑政治合法性展开的公开舆论反击（pp. 347–348） |
 > | **[[OECD\|经济合作与发展组织]]（OECD）** | 混合型新自由主义经济视角（Papadopoulos, 1994；p. 347） | 虽以经济增长为重心，但主张该主导地位必须受到社会维度与人类福祉的适度平衡与规约 | 放弃指令性强制，通过破译新兴趋势、开展同行评议与制定指标体系确立国际游戏规则，软性引导成员国采纳有效政策 |
 
 比奇对核心政策文本的系统比对证实，上述关于人本主义与经济主义的哲学分歧，实质上统摄在同一个深层思想系统之下，共同服务于跨国政策方案的标准化建构（p. 348）。
@@ -284,7 +286,7 @@ issuing_organization: ""
 为系统解释全球教育话语的生成、中介与落地机制，比奇将伯恩斯坦的语篇控制权理论与卡斯特的[[Space of Flows|流动空间]]概念相结合，构建了跨国教育场域的五位置结构模型（Bernstein, 1990; Castells, 2000；pp. 349–351）。
 
 > [!quad-grid] 全球教育场域五大结构位置与职能分工表
-> - **全球学术空间（Global Academic Space）** 话语生产的最高层级。依托国际专业期刊、学术专著、国际研讨会及学者与学生的跨国流动网络运转，属于纯粹的流动空间；掌控关于教育可思与不可思（thinkable/unthinkable）的终极认识论边界；西欧与北美学术传统占据压倒性霸权。（pp. 350–351）
+> - **全球学术空间（Global Academic Space）** 话语生产的最高层级。依托国际专业期刊、学术专著、国际研讨会及学者与学生的跨国流动网络运转，属于纯粹的流动空间；掌控关于教育可思与不可思（thinkable/unthinkable）的终极认识论边界；西欧与北[[Philosophical Aesthetics|美学]]术传统占据压倒性霸权。（pp. 350–351）
 > - **国际组织（International Agencies）** 话语中介与普遍化场所。受制于[[Educational Meliorism|改良主义]]行动与紧迫实用主义，国际机构充当应用专家，将深奥前沿的学术话语通过过度简化提炼为去情境化的普遍操作包裹，生产出以五大支柱为核心的全球教育话语。
 > - **国家（The State）** 法定政策话语的专属生产场所。作为政治权力争夺与多方社会利益妥协博弈的交汇点，国家负责将外来输入话语转译并协商为具有法律强制力的政策法令。（p. 351）
 > - **本土学术空间（Local Academic Space）** 本土学术话语生产场所。通过引介、解释与转译全球学术话语建构本土话语，理论上应当形成本土反思并向国家提供替代性方案，但在许多外围国家发育不全并严重依附。（pp. 351–352）

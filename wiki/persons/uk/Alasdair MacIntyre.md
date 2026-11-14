@@ -24,6 +24,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Construct]]"
   - "[[Enlightenment]]"
+  - "[[The Sublime]]"
   - "[[Document]]"
   - "[[Technological Republic]]"
   - "[[Phronesis]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-30
+updated: 2026-11-14
 ---
 
 ---
@@ -76,7 +77,7 @@ updated: 2026-10-30
 ---
 
 > [!claim] 核心思想
-> [[Enlightenment|启蒙运动]]试图脱离具体目的论传统建立普遍道德规则的方案已彻底破产，导致现代社会沦为情感主义支配下的无休止价值争吵；那种以绝对包容为名解构一切实质善恶标准的“[[Pluralism|淹没性多元主义]]”最终会导致社会的道德虚无与瘫痪；人类唯有在拥有共享崇高目的、叙事统一性与内在卓越实践的真实共同体中，方能维系有意义的道德生活。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(MacIntyre, 2007; Karp & Zamiska, 2025, p. 201)]]
+> [[Enlightenment|启蒙运动]]试图脱离具体目的论传统建立普遍道德规则的方案已彻底破产，导致现代社会沦为情感主义支配下的无休止价值争吵；那种以绝对包容为名解构一切实质善恶标准的“[[Pluralism|淹没性多元主义]]”最终会导致社会的道德虚无与瘫痪；人类唯有在拥有共享[[The Sublime|崇高]]目的、叙事统一性与内在卓越实践的真实共同体中，方能维系有意义的道德生活。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(MacIntyre, 2007; Karp & Zamiska, 2025, p. 201)]]
 
 > [!citation-card] 麦金太尔论抵制淹没性多元主义与重建道德共同体
 > 正是那种威胁着要将我们所有人淹没的多元主义，必须予以坚决抵制……现在是时候去构建能够维系道德生活的新型共同体形式了。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(MacIntyre, 2007; Karp & Zamiska, 2025, p. 201)]]

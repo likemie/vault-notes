@@ -22,6 +22,7 @@ tags:
   - theme/global-south
 related_concepts:
   - "[[Discourse]]"
+  - "[[Philosophical Aesthetics]]"
 related_theories:
   - "[[Orientalism]]"
 related_methods: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-11-14
 ---
 
 ---
@@ -65,7 +66,7 @@ updated: 2026-10-22
 > [!work-line] 代表著作与批评视角
 > - **2012 — *From the Ruins of Empire*** 梳理梁启超、阿富汗尼、泰戈尔等非西方先驱思想家对西方帝国主义的批判与现代性求索。
 > - **2017 — *Age of Anger*** 借助[[Jean-Jacques Rousseau|卢梭]]对伏尔泰商战社会的批判，揭示全球现代化失衡与民粹愤怒的深层心理机制。
-> - **2021 — *Reorientations of [[Edward Said]]*** 剖析《[[Orientalism|东方主义]]》如何被西方高等教育吸纳并建制化，指出欧美学术界将后殖民批判演变为特定精英阶层的职业晋升工具，同时忽视了非西方本土历史中存在的等级支配[[Discourse|话语]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 90–93)]]
+> - **2021 — *Reorientations of [[Edward Said]]*** 剖析《[[Orientalism|东方主义]]》如何被西方高等教育吸纳并建制化，指出欧[[Philosophical Aesthetics|美学]]术界将后殖民批判演变为特定精英阶层的职业晋升工具，同时忽视了非西方本土历史中存在的等级支配[[Discourse|话语]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 90–93)]]
 
 ---
 

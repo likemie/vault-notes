@@ -26,6 +26,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Variable]]"
   - "[[Evaluation Research]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Postpositivism]]"
 related_theories:
   - "[[Complexity Theory]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -123,7 +124,7 @@ updated: 2026-11-03
 ---
 
 > [!dev-timeline] 概念演变
-> - **古典哲学时期 — 善恶与道德本体起源** 探讨伦理（道德善恶）与美学（审美体验）的本体起源，追问城邦正义与理想人性的本质。
+> - **古典哲学时期 — 善恶与道德本体起源** 探讨伦理（道德善恶）与[[Philosophical Aesthetics|美学]]（审美体验）的本体起源，追问城邦正义与理想人性的本质。
 > - **19世纪末至20世纪中叶 — [[Positivism\|实证主义]]的[[Value Neutrality\|价值无涉]]神话** [[Auguste Comte\|奥古斯特·孔德]]（Auguste Comte）与逻辑实证主义将科学等同于价值中立（Wertfreiheit），将价值判断斥为不可验证的形而上学臆测，试图在科学中彻底驱逐价值。
 > - **20世纪中后期 — [[Critical Theory\|批判理论]]与后实证反思** 法兰克福学派揭露工具理性的意识形态欺骗，指出“无良知科学”的毁灭性风险；[[Postpositivism\|后实证主义]]正式确立“事实必定是理论负载与价值负载（theory-laden and value-laden）”的[[Epistemology\|认识论]]命题。
 > - **21世纪前沿 — 复杂性与参与式行动共生** [[Complexity Theory\|复杂性理论]]与[[Action Research\|行动研究]]彻底确立探究者的价值内嵌性，教育研究全面拥抱价值反思、社会正义诉求与多元共生网络。

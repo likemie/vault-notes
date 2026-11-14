@@ -51,6 +51,7 @@ related_concepts:
   - "[[Valley of Death]]"
   - "[[Responsible Innovation]]"
   - "[[Return on Investment]]"
+  - "[[The Sublime]]"
   - "[[Geopolitics]]"
   - "[[Research Security]]"
   - "[[Absorptive Capacity]]"
@@ -114,7 +115,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -312,7 +313,7 @@ updated: 2026-11-11
 > > - **国家战略制造派（Kratsios 2026）** 指出单边开放许可若脱离本土制造生态，会导致国家纳税人资助的重大成果被竞争对手低成本承接并形成产业垄断（如平板显示与电池），主张将技术许可与本土制造及安全审查紧密挂钩。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 34–35)]]
 
 > [!critique] 外部批评
-> - **大学“[[Academic Capitalism|学术资本主义]]”异化批评** 批评者指出高校对专利许可收益和版税分成的过度追逐，扭曲了大学作为公共知识灯塔的崇高使命，诱发利益冲突、科研保密增加以及本科基础教学被边缘化。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 144)]]
+> - **大学“[[Academic Capitalism|学术资本主义]]”异化批评** 批评者指出高校对专利许可收益和版税分成的过度追逐，扭曲了大学作为公共知识灯塔的[[The Sublime|崇高]]使命，诱发利益冲突、科研保密增加以及本科基础教学被边缘化。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 144)]]
 > - **跨国技术转移的非法情报与安全摩擦** 国家间技术转移并不完全通过公开透明的市场与法定渠道进行；冷战时期的大规模工业间谍活动证实了非正式秘密转移的客观存在，而在当代[[Geopolitics|地缘政治]]竞争中，跨国技术转移日益面临更严苛的[[Research Security|科研安全]]审查与合规摩擦。[[Argument_Glitz_2020_AmEconRev|(Glitz & Meyersson, 2020, pp. 1056, 1096)]]
 
 > [!warning] 适用局限

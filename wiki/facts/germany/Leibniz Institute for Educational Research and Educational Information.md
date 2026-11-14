@@ -58,6 +58,7 @@ related_methods:
   - "[[Classroom Observation]]"
 related_instruments: []
 related_persons:
+  - "[[Gottfried Wilhelm Leibniz]]"
   - "[[Wolfgang Mitter]]"
   - "[[Max Planck]]"
 related_facts:
@@ -80,13 +81,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
 
 > [!claim] 核心定位
-> 莱布尼茨教育研究与教育信息研究所（德语：Leibniz-Institut für Bildungsforschung und Bildungsinformation, 缩写为 DIPF；曾用名：德国[[International Education\|国际教育]]研究所 German Institute for International Educational Research）是德意志联邦共和国历史最悠久、规模最大的国家级非大学实证教育研究与教育信息基础设施中枢。米特（[[Wolfgang Mitter]]）指出，DIPF 与[[Max Planck Institute for Human Development|柏林马克斯·普朗克教育研究所]]共同构成了战后西德大学体系之外的两大国家级比较教育实体研究支柱。研究所作为莱布尼茨学会（Leibniz Association）核心成员，受[[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（KMK）与[[Federal Ministry of Education and Research\|德国联邦教育与研究部]]（BMBF）联合资助与委托，主导编撰德国国家[[Comprehensive Education|综合教育]]报告（Bildungsbericht）、研发技术支持测评（[[Test-Based Accountability|TBA]]），并协同慕尼黑工业大学（TUM）与基尔莱布尼茨科学与数学教育研究所（IPN）共同组建[[Zentrum für internationale Bildungsvergleichsstudien\|德国国际教育比较研究中心]]（ZIB）。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90)]]；[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–145)]]；[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
+> [[Gottfried Wilhelm Leibniz|莱布尼茨]]教育研究与教育信息研究所（德语：Leibniz-Institut für Bildungsforschung und Bildungsinformation, 缩写为 DIPF；曾用名：德国[[International Education\|国际教育]]研究所 German Institute for International Educational Research）是德意志联邦共和国历史最悠久、规模最大的国家级非大学实证教育研究与教育信息基础设施中枢。米特（[[Wolfgang Mitter]]）指出，DIPF 与[[Max Planck Institute for Human Development|柏林马克斯·普朗克教育研究所]]共同构成了战后西德大学体系之外的两大国家级比较教育实体研究支柱。研究所作为莱布尼茨学会（Leibniz Association）核心成员，受[[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（KMK）与[[Federal Ministry of Education and Research\|德国联邦教育与研究部]]（BMBF）联合资助与委托，主导编撰德国国家[[Comprehensive Education|综合教育]]报告（Bildungsbericht）、研发技术支持测评（[[Test-Based Accountability|TBA]]），并协同慕尼黑工业大学（TUM）与基尔莱布尼茨科学与数学教育研究所（IPN）共同组建[[Zentrum für internationale Bildungsvergleichsstudien\|德国国际教育比较研究中心]]（ZIB）。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90)]]；[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–145)]]；[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1951 年创设于美占区法兰克福（初名国际教育研究高等学校 Hochschule für Internationale Pädagogische Forschung），旨在战后引入现代[[Experiential Learning\|经验教育]]科学与跨国比较方法重建德国教育学术；1964 年转制为跨州联合资助的德国国际教育研究所（DIPF）；2018 年正式更名为莱布尼茨教育研究与教育信息研究所，强化其数字时代教育信息学与基础设施职能。

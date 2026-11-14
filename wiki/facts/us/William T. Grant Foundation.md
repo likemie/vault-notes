@@ -38,6 +38,7 @@ related_concepts:
   - "[[Metascience]]"
   - "[[Discipline-Based Theory]]"
   - "[[Document]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Academic Freedom]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Internal Validity]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -122,7 +123,7 @@ updated: 2026-11-11
 
 > [!finding-cards] 关键成效与辐射影响
 > - **破除唯学术发表的象牙塔激励错配** 迫使美国高校社会科学界反思将论文篇数与[[Journal Impact Factor|影响因子]]作为唯一评价指标的弊端，为从事跨界实践研究的学者拓宽了职业生涯通道。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 222)]]
-> - **终结采矿式科研伦理危害** 唤醒了全美学术界对边缘社区“数据采矿”剥削现象的深刻警惕，使权力共享与社区自决成为受资助项目的法定前置伦理标准。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–221)]]
+> - **终结采矿式科研伦理危害** 唤醒了全[[Philosophical Aesthetics|美学]]术界对边缘社区“数据采矿”剥削现象的深刻警惕，使权力共享与社区自决成为受资助项目的法定前置伦理标准。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–221)]]
 
 > [!stat-cards]- 核心规模数据
 > - **≈ 90** 基金会深耕青少年发展与社会科学研究资助的历史（年）。

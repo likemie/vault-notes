@@ -24,6 +24,7 @@ tags:
   - theme/ethics-of-technology
   - region/us
 related_concepts:
+  - "[[Philosophical Aesthetics]]"
   - "[[Technological Agnosticism]]"
   - "[[Paradigm]]"
   - "[[Creativity]]"
@@ -52,14 +53,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-30
+updated: 2026-11-14
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 史蒂夫·乔布斯（Steven Paul Jobs, 1955–2011）是美国著名企业家、工业设计先驱、发明家，苹果公司（Apple Inc.）联合创始人兼长期首席执行官（CEO）；个人微型计算机时代与移动智能终端革命的开创者与标志性领袖。
-> - **核心角色** 将 1960 年代反文化运动的人文叛逆精神、东方美学与精密数字工程深度结合的关键枢纽；主导开发了 Apple II、Macintosh、iMac、iPod、iPhone 与 iPad，重构了全球个人计算、数字出版、音乐、电影与移动通信产业。
+> - **核心角色** 将 1960 年代反文化运动的人文叛逆精神、东方[[Philosophical Aesthetics|美学]]与精密数字工程深度结合的关键枢纽；主导开发了 Apple II、Macintosh、iMac、iPod、iPhone 与 iPad，重构了全球个人计算、数字出版、音乐、电影与移动通信产业。
 > - **代表贡献** 开创图形用户界面（GUI）与鼠标操作的商业化微机；在里德学院书法课启发下开创优雅排版字体系统；提出“艺术与科技的十字路口”产品哲学；在《1984》广告中确立个人电脑解放大众、击碎老大哥集权控制的文化符号。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 100–102)]]
 
 > [!citation-card] 乔布斯招募斯卡利时的时代之问

@@ -40,6 +40,7 @@ related_methods:
   - "[[Item Response Theory]]"
   - "[[Scale Development]]"
 related_persons:
+  - "[[Gottfried Wilhelm Leibniz]]"
   - "[[Sigrid Hartong]]"
 related_facts:
   - "[[Federal Ministry of Education and Research]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-11-14
 ---
 
 ---
@@ -83,7 +84,7 @@ updated: 2026-10-22
 >   - **SC5（高等教育第一学年）** 追踪全德普通高校与应用科学大学新生学业与就业。
 >   - **SC6（成年人与[[Lifelong Learning\|终身学习]]）** 追踪劳动力市场成年人群体的技能维持与职业轨迹。
 > - **多维测量支柱** 涵盖认知能力（数学、阅读、科学、信息素养）、非认知技能（大五人格、学业自我概念、[[Metacognition\|元认知]]策略）、教育背景[[Questionnaire\|问卷]]及宏观制度环境[[Variable\|变量]]。
-> - **数据开放与质控** 由莱布尼茨教育轨迹研究所（Leibniz Institute for Educational Trajectories, LIfBi）设立专门的研究数据中心（FDZ-LIfBi），采用分级数据安全访问协议（Scientific Use Files / On-Site / Remote Access）向全球科研人员开放。
+> - **数据开放与质控** 由[[Gottfried Wilhelm Leibniz|莱布尼茨]]教育轨迹研究所（Leibniz Institute for Educational Trajectories, LIfBi）设立专门的研究数据中心（FDZ-LIfBi），采用分级数据安全访问协议（Scientific Use Files / On-Site / Remote Access）向全球科研人员开放。
 
 > [!citation-card] [[Sigrid Hartong\|哈通]]论 NEPS 从临时专项向常设国家基建的转变
 > NEPS 项目的制度化奠定了德国实证教育研究的纵向[[Data Infrastructure\|数据基础设施]]：

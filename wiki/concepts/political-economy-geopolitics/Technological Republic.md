@@ -29,6 +29,7 @@ related_concepts:
   - "[[Total Factor Productivity]]"
   - "[[Innovation Desert]]"
   - "[[Moral Dualism]]"
+  - "[[The Sublime]]"
   - "[[Technological Agnosticism]]"
   - "[[Cult of Optionality]]"
   - "[[Establishment Caste]]"
@@ -150,7 +151,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -164,7 +165,7 @@ updated: 2026-11-11
 > 3. **重构同盟防务自主** 破解欧洲与日本因过度依赖外部保护伞而形成的[[Bonsai Army|盆景军队]]困局，依托分布式软件与自主系统重塑同盟战略纵深；
 > 4. **扭转[[Big Idea Famine|大构想饥荒]]** 引导科技投资与顶尖工程师走出消费主义虚拟应用的狭隘温室，重返关乎[[Total Factor Productivity|全要素生产率]]（Total Factor Productivity, TFP）的深层实体创新与国家重大战略挑战；
 > 5. **创立国家技术和平队** 创设国家技术和平队（Technological Peace Corps）等制度化通道，打通硅谷工程师与公共部门治理的壁垒，根除治理体系中的[[Innovation Desert|创新荒漠]]；
-> 6. **解构[[Moral Dualism|道德二元论]]** 破除将商业消费技术视作崇高、将国家安全技术视作污秽的道德二元论，重申技术发展必须服务于自由制度的生存与延续；
+> 6. **解构[[Moral Dualism|道德二元论]]** 破除将商业消费技术视作[[The Sublime|崇高]]、将国家安全技术视作污秽的道德二元论，重申技术发展必须服务于自由制度的生存与延续；
 > 7. **破除[[Technological Agnosticism|技术不可知论]]与种姓化危机** 批判硅谷“为了建造而建造”的技术不可知论与逃避排他性承诺的[[Cult of Optionality|选择权崇拜]]，打破资本垄断下的[[Establishment Caste|统治集团种姓化]]，以“正义是骨架、[[Buen Vivir|美好生活]]是血肉”的[[Hard Belief|硬信念]]重建国家政治认同；
 > 8. **重铸文明历史锚定与[[Cognitive Decoupling|认知脱钩]]求真理性** 克服因[[Western Civilization Course|西方文明课]]程解体与[[Canon Wars|经典之争]]导致国家认同沦为断线气球的道德真空，抵制身份政治对客观事实的绑架，重塑独立评估事实真伪的“认知脱钩”能力；
 > 9. **采购法治与商用现成优先** 破除传统军工承包商成本加成垄断，严格执行《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]案》确立的[[Commercial Off-The-Shelf|商用现成产品]]（Commercial Off-The-Shelf, COTS）法定优先权；

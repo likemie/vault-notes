@@ -25,6 +25,7 @@ related_concepts:
   - "[[Curriculum Alignment]]"
   - "[[System-Wide Improvement]]"
   - "[[Evidence-Based Education]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Learning Gain]]"
   - "[[Variable]]"
   - "[[Heterogeneity]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-11-13
 > - **1970–1980年代** 在密歇根州立大学执教，担任教学研究所（Institute for Research on Teaching）联合主任，开展开创性的教师教学决策与内容分配实证观察。
 > - **1988–2000年代初** 调任威斯康星大学麦迪逊分校，创立国家数学与科学教育评估中心，领导开发了实施课程调查（SEC）方法体系。
 > - **2007–2014** 出任宾夕法尼亚大学教育研究生院院长，推动[[Evidence-Based Education|循证教育]]政策研究与大规模评估计量工具开发。
-> - **2014年至今** 担任宾大荣休教授，持续为全美学区与州教育厅提供课程对齐度量与[[Learning Gain|增值评价]]咨询。
+> - **2014年至今** 担任宾大荣休教授，持续为全[[Philosophical Aesthetics|美学]]区与州教育厅提供课程对齐度量与[[Learning Gain|增值评价]]咨询。
 
 ---
 

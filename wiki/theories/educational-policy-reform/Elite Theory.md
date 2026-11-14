@@ -25,6 +25,7 @@ related_concepts:
   - "[[Homophily]]"
   - "[[Discourse]]"
   - "[[Paradigm]]"
+  - "[[The Sublime]]"
   - "[[Whole Language]]"
   - "[[Research Question]]"
   - "[[Problem Finding]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -103,7 +104,7 @@ updated: 2026-11-11
 > 在美国《[[Reading Excellence Act\|卓越阅读法案]]》审议期间，全美逾十万名公立学校一线教师致信国会反对法案对自然拼读的狭隘规制，但国会教育委员会领导层与少数政商精英直接通过口头表决（voice vote）强行通过法案，基层民意在封闭的精英决策中完全失效。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, pp. 6, 8)]]
 
 > [!theory-proposition] 命题二｜国家级专家委员会以技术客观性为面具组建同质化精英同盟并制造排他性科学共识
-> 在高度依赖专业知识的教育与社会政策领域，统治精英往往不直接诉诸政治强权，而是通过设立享有崇高声誉的国家级专家委员会来行使精英控制职能。遴选机制表面上高呼“把政治热情留在门外，唯专业能力是举”，实质上却通过预设的方法论偏好精准挑选来自量化实验、神经医学等主流同质化背景的学者，系统性排斥质性、[[Action Research|行动研究]]与社会文化视角的学者。通过这种方式出台的国家评估报告看似汇集了全国最高学术共识，实为精英寡头巩固自身知识霸权与商业同盟的强力杠杆。[[Argument_Edmondson_2005_EPAA\|(Schumpeter, 1976; Edmondson, 2005, pp. 9–10)]]
+> 在高度依赖专业知识的教育与社会政策领域，统治精英往往不直接诉诸政治强权，而是通过设立享有[[The Sublime|崇高]]声誉的国家级专家委员会来行使精英控制职能。遴选机制表面上高呼“把政治热情留在门外，唯专业能力是举”，实质上却通过预设的方法论偏好精准挑选来自量化实验、神经医学等主流同质化背景的学者，系统性排斥质性、[[Action Research|行动研究]]与社会文化视角的学者。通过这种方式出台的国家评估报告看似汇集了全国最高学术共识，实为精英寡头巩固自身知识霸权与商业同盟的强力杠杆。[[Argument_Edmondson_2005_EPAA\|(Schumpeter, 1976; Edmondson, 2005, pp. 9–10)]]
 
 > [!example|notitle]
 > [[National Research Council|国家研究委员会]]（NRC）的《预防幼童阅读困难》报告以及随后的[[National Reading Panel\|国家阅读委员会]]（NRP），成员绝大多数来自实证认知心理学与医学背景，其得出的“五大阅读技能”被直接写入联邦法律，而反对机械技能切片的质性学者与[[Whole Language\|全语言]]教育者被扣上“反科学”标签并彻底逐出国家政策咨询体系。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, p. 10)]]

@@ -36,6 +36,7 @@ related_concepts:
   - "[[Cooperative Research and Development Agreement]]"
   - "[[Co-Design]]"
   - "[[Megascience Installations]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Innovation Ecosystem]]"
   - "[[Evidence Ecosystem]]"
   - "[[Paradigm]]"
@@ -90,7 +91,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -134,7 +135,7 @@ updated: 2026-11-11
 > [!finding-cards] 核心业务与科研矩阵
 > - **[[Megascience Installations|大科学装置]]与物理基石** 运营先进光子源（[[American Physical Society|APS]]）、国家同步辐射光源二期（NSLS-II）与散裂中子源（SNS）在内的全球顶尖科研设施。
 > - **先进动力与清洁装备协同联合体（先进涡轮机 ATS 项目）** 针对重型燃气轮机耐高温涂层与气动力学瓶颈，DOE 依托橡树岭等国家实验室联合通用电气与西门子，通过对等研发资助与共享测试台分担关键试制风险，促成现代高效联合循环发电机组的全球技术领先。[[Argument_Block_2008_PS|(Block, 2008, pp. 178–180)]]
-> - **纳米科学研究中心（NSRCs）与微纳中试基础设施** 依托 5 大国家纳米科学研究中心（如伯克利分子铸造厂 Molecular Foundry、阿贡纳米材料中心 CNM、布鲁克海文功能纳米材料中心 CFN），为全美学术界与初创企业提供开放式纳米材料合成、纳米光刻与高精度结构表征平台。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 19–21)]]
+> - **纳米科学研究中心（NSRCs）与微纳中试基础设施** 依托 5 大国家纳米科学研究中心（如伯克利分子铸造厂 Molecular Foundry、阿贡纳米材料中心 CNM、布鲁克海文功能纳米材料中心 CFN），为全[[Philosophical Aesthetics|美学]]术界与初创企业提供开放式纳米材料合成、纳米光刻与高精度结构表征平台。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 19–21)]]
 > - **微电子[[Co-Design|协同设计]]（Co-Design）与能效极限攻坚** 设立微电子科学研究中心与极低能耗计算专项，跨越材料、器件、物理紧凑模型到系统架构，攻克二维半导体（TMDs）、拓扑量子材料与自旋电子学器件，解决人工智能与数据中心指数级电力瓶颈。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12)]]
 > - **超级计算与数值模拟平台** 研制 Frontier、Aurora、Summit 等百亿亿次级（Exascale）超级计算机，构筑全美微电子多尺度材料模拟与科学 AI 模型训练的核心算力基座。
 > - **[[Transformational AI Models Consortium|变革性人工智能模型联合体]]（Transformational AI Models Consortium）** 聚合 24 家产学研伙伴，依托 DOE 独有的物理、材料、燃烧与聚变实验数据集，联合训练跨学科科学基座大模型。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 61–63)]]

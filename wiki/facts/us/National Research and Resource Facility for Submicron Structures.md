@@ -28,6 +28,7 @@ tags:
   - theme/semiconductor
   - theme/nanotechnology
 related_concepts:
+  - "[[Philosophical Aesthetics]]"
   - "[[Grandes Ecoles]]"
   - "[[Industry Affiliate Program]]"
   - "[[Open-Mindedness]]"
@@ -52,13 +53,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-11-02
+updated: 2026-11-14
 ---
 
 ---
 
 > [!claim] 核心定位
-> **国家亚微米结构研究与设施中心（National Research and Resource Facility for Submicron Structures, NRRFSS）** 是[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）于 1977 年在康奈尔大学（Cornell University）出资设立的首个国家级微细加工与微电子用户设施。中心开创了由联邦政府资助昂贵微细加工装备与洁净室、并向全美学术界与产业界科研人员开放租赁共享的运作模式，旨在打破高校无力单独承担尖端微电子装备沉没成本的瓶颈，推动大学前沿探索与工业界尖端制造工艺的深度融合。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 291–292)]]
+> **国家亚微米结构研究与设施中心（National Research and Resource Facility for Submicron Structures, NRRFSS）** 是[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）于 1977 年在康奈尔大学（Cornell University）出资设立的首个国家级微细加工与微电子用户设施。中心开创了由联邦政府资助昂贵微细加工装备与洁净室、并向全[[Philosophical Aesthetics|美学]]术界与产业界科研人员开放租赁共享的运作模式，旨在打破高校无力单独承担尖端微电子装备沉没成本的瓶颈，推动大学前沿探索与工业界尖端制造工艺的深度融合。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 291–292)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1977 年由 NSF 设立于康奈尔大学工程学院。1970 年代中后期微电子制造装备与超净间成本呈现天文数字式暴涨，加之[[Ministry of International Trade and Industry|日本通商产业省]]启动超大规模集成电路（[[VLSI Project|VLSI]]）国家项目引发美国产业竞争危机，促使学界与联邦政府探索集中式微纳加工公共设施。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 287, 291–292)]]

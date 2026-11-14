@@ -27,6 +27,7 @@ related_concepts:
   - "[[Normal School]]"
   - "[[State Educational Sovereignty]]"
   - "[[Dual School System]]"
+  - "[[The Sublime]]"
   - "[[Policy Borrowing]]"
   - "[[Comprehensive Education]]"
   - "[[Paradigm]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-30
+updated: 2026-11-14
 ---
 
 ---
@@ -92,7 +93,7 @@ updated: 2026-10-30
 > [[François Guizot|基佐]]主张以“折衷自由主义（Eclectic Liberalism）”统摄现代国家教育治理：在政治上拒绝天主教教权的独占垄断与极端世俗激进主义，将基督教道德与世俗公权力视导有机熔铸为一体；在法权上确立国家对教育的最高视导主权，强制市镇设立公立初小、保障赤贫儿童免费入学，同时法定保护“教学自由（*la liberté d’enseignement*）”以包容私人力量；在制度上建立以各省公立[[Normal School\|师范学校]]为枢纽的师资培育垄断，并将初等公学垂直划分为面向平民大众的初等初小与面向中产工商业的初等高级[[Dual School System\|双轨学制]]，以实现社会秩序稳固与文明循序渐进。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 27–30)]]
 
 > [!citation-card] 基佐在 1833 年致全国小学教师通谕中的经典训勉
-> 基佐在颁布法案后直接向全法小学教师致信，将教师定位为国家世俗道德与文明重生的神圣使者：小学教师的职责绝非局限于传授读写算基础知识，更在于以身作则感化灵魂，将爱国情操、对法律的敬畏与崇高道德深植儿童心田；国家保障教师的基本尊严与最低俸给，教师则必须担负起维系文明与社会稳定的基石天职。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 29)]]；引自 Halls (1965:20)
+> 基佐在颁布法案后直接向全法小学教师致信，将教师定位为国家世俗道德与文明重生的神圣使者：小学教师的职责绝非局限于传授读写算基础知识，更在于以身作则感化灵魂，将爱国情操、对法律的敬畏与[[The Sublime|崇高]]道德深植儿童心田；国家保障教师的基本尊严与最低俸给，教师则必须担负起维系文明与社会稳定的基石天职。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 29)]]；引自 Halls (1965:20)
 >
 > *Primary school teachers are called upon to render immense services to their country ... to instill in children's hearts those moral and civic virtues without which neither liberty nor public order can endure.*
 

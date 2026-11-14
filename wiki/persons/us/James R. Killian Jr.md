@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Research Universities]]"
   - "[[Paradigm]]"
+  - "[[The Sublime]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -81,7 +82,7 @@ updated: 2026-11-11
 > - **1950s — 危机治理与科学政治家建制** 回应苏联人造卫星激起的全民恐慌与军种内讧，探索科学家群体如何直接介入最高国家大战略决策。
 >   - **代表著作** 《[[Strengthening American Science 1958|加强美国科学：联邦政府的角色]]》（1958）、回忆录《斯普特尼克、科学家与艾森豪威尔》（*Sputnik, Scientists, and Eisenhower*）。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 >   - **关键概念** 科学顾问避雷针功能、太空计划民事化、长期目标驱动。
->   - **阶段转向** 坚决抵制军方陆海空三军瓜分太空探索的企图，力推成立独立的民事实体（NASA），确保空间探索服务于和平科研与国家崇高声望。
+>   - **阶段转向** 坚决抵制军方陆海空三军瓜分太空探索的企图，力推成立独立的民事实体（NASA），确保空间探索服务于和平科研与国家[[The Sublime|崇高]]声望。
 
 ---
 

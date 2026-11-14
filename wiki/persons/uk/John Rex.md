@@ -25,6 +25,7 @@ related_concepts:
   - "[[Interpretivism]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
+  - "[[The Sublime]]"
   - "[[Discourse]]"
   - "[[Cultural Capital]]"
   - "[[Interpretive Paradigm]]"
@@ -39,6 +40,7 @@ related_methods:
   - "[[Classroom Observation]]"
 related_instruments: []
 related_persons:
+  - "[[Alexandre de Rhodes]]"
   - "[[Max Weber]]"
   - "[[Basil Bernstein]]"
   - "[[Talcott Parsons]]"
@@ -49,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-30
+updated: 2026-11-14
 ---
 
 ---
@@ -62,7 +64,7 @@ updated: 2026-10-30
 ---
 
 > [!timeline] 生平与职涯
-> - **1925** 出生于南非伊丽莎白港，早年在罗德斯大学（Rhodes University）求学，因坚决反对南非种族隔离制度而遭受政治迫害，后流亡英国。
+> - **1925** 出生于南非伊丽莎白港，早年在[[Alexandre de Rhodes|罗德]]斯大学（Rhodes University）求学，因坚决反对南非种族隔离制度而遭受政治迫害，后流亡英国。
 > - **1950s** 在利兹大学获得博士学位，深受[[Max Weber\|马克斯·韦伯]]方法论与冲突理论启发，投身英国工业城市阶级结构与移民社会学研究。
 > - **1967** 与罗伯特·摩尔（Robert Moore）合作出版里程碑式著作《种族、社区与冲突》（*Race, Community and Conflict*），奠定城市住房阶级（housing classes）理论。
 > - **1970–1979** 先后担任华威大学社会学讲座教授、系主任与欧洲种族关系研究中心主任。
@@ -81,7 +83,7 @@ updated: 2026-10-30
 ---
 
 > [!claim] 核心思想
-> 社会科学固然必须理解行动者的主观意图与[[Thomas Theorem\|情境定义]]，但这绝不构成社会科学的全部目的与终点。行动者对生活情境的主观理解往往受制于意识形态蒙蔽、阶级认同局限或认知盲区，呈现为典型的“虚假意识”。社会科学家的崇高天职，在于保持超越参与者主观盲区的独立反思距离，探寻那些支配和形塑个体行动、但在当事人主观世界中往往隐而不显的深层客观因果机制与结构性权力关系。
+> 社会科学固然必须理解行动者的主观意图与[[Thomas Theorem\|情境定义]]，但这绝不构成社会科学的全部目的与终点。行动者对生活情境的主观理解往往受制于意识形态蒙蔽、阶级认同局限或认知盲区，呈现为典型的“虚假意识”。社会科学家的[[The Sublime|崇高]]天职，在于保持超越参与者主观盲区的独立反思距离，探寻那些支配和形塑个体行动、但在当事人主观世界中往往隐而不显的深层客观因果机制与结构性权力关系。
 
 > [!citation-card] 雷克斯论行动者的虚假意识与社会科学寻求客观视角的使命
 > 雷克斯指出，尽管社会反应与制度模式可能是行动者情境定义的产物，但也存在一种可能性，即这些行动者可能处于虚假意识之中；因此，社会学家有义务去探寻一种客观的视角，这种视角绝不必然是任何参与行动者的视角……我们根本没有必要将自己纯粹、狭隘地局限在参与行动者自身所向我们提供的社会现实之内。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 26)]]

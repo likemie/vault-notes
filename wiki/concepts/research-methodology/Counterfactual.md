@@ -32,6 +32,7 @@ related_concepts:
   - "[[Fundamental Problem of Causal Inference]]"
   - "[[Homophily]]"
   - "[[Preregistration]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Clinical Trial]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence Standards]]"
@@ -92,7 +93,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -194,7 +195,7 @@ updated: 2026-11-11
 > **学校组织生态下的宏观反事实与多层统计结构** 探讨教育改革如何突破微观个体反事实的局限，在学校与班级整群层面构建具有政策意义的常态对照基准。
 
 > [!claim] [[Robert Slavin\|Slavin, R.]] E.
-> **整群试验中常规教学对照（[[Business as Usual\|BAU]]）的反事实实质与多层嵌套校正** 教育政策改革中的因果验证不能依赖抽象教学原则，而必须依托整校层面的整群[[Randomised Controlled Trials\|随机对照试验]]。在整校改革中，控制组所代表的反事实确立为各校正在实施的真实常规教学（[[Business as Usual]], BAU）。由于学生嵌套于班级、班级嵌套于学校，反事实比较必须采用[[Hierarchical Linear Model\|多层线性模型]]（Hierarchical Linear Modeling, HLM）进行方差分解，纠正群聚效应导致的自由度虚高；只有在全校生态中经受住与 BAU 的反事实对照检验，干预措施才具备真正向全美学校规模化推广的有效性。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–23, 26–27)]]
+> **整群试验中常规教学对照（[[Business as Usual\|BAU]]）的反事实实质与多层嵌套校正** 教育政策改革中的因果验证不能依赖抽象教学原则，而必须依托整校层面的整群[[Randomised Controlled Trials\|随机对照试验]]。在整校改革中，控制组所代表的反事实确立为各校正在实施的真实常规教学（[[Business as Usual]], BAU）。由于学生嵌套于班级、班级嵌套于学校，反事实比较必须采用[[Hierarchical Linear Model\|多层线性模型]]（Hierarchical Linear Modeling, HLM）进行方差分解，纠正群聚效应导致的自由度虚高；只有在全校生态中经受住与 BAU 的反事实对照检验，干预措施才具备真正向全[[Philosophical Aesthetics|美学]]校规模化推广的有效性。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–23, 26–27)]]
 
 ---
 

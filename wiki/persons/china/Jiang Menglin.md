@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Normal School]]"
   - "[[Grandes Ecoles]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Study Abroad]]"
   - "[[Recontextualization]]"
   - "[[Democratic Education]]"
@@ -48,14 +49,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 中国民国时期著名教育家、出版家、行政官僚，哥伦比亚大学[[Normal School\|师范学院]]博士，先后任《新教育》杂志主编、北京[[Grandes Ecoles|大学校]]长及中华民国教育部部长。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.614–615]]）
-> - **核心角色** [[John Dewey\|杜威]]在华留美学生网络的核心节点，1919–1925年间[[New Education Movement\|新教育运动]]激进民主派的领袖与理论旗手。
+> - **核心角色** [[John Dewey\|杜威]]在华留[[Philosophical Aesthetics|美学]]生网络的核心节点，1919–1925年间[[New Education Movement\|新教育运动]]激进民主派的领袖与理论旗手。
 > - **代表贡献** 主导创办并主编《新教育》（*The New Education*）杂志；提出“以教育创造新国家”与学校隔离改造论；深度参与[[1922 Educational System Reform\|1922年学制改革]]七项标准的制定。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.614–618]]）
 
 > [!citation-card] 人物定位的关键来源

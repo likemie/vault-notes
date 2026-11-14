@@ -35,6 +35,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Technical Rationality]]"
   - "[[Operationalization]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Professional Interest]]"
   - "[[Working Hypothesis]]"
 related_theories:
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -197,7 +198,7 @@ updated: 2026-11-11
 > | [[Human Capital Theory\|人力资本理论]] | 理论 | 芝加哥学派密切结合的经济学理论，视学校教育为人力资源配置的核心载体。 |
 > | [[Historical-Comparative Method\|历史比较法]] | 方法 | 福斯特批判的传统方法，促使比较史学派反思并重建历史解释的科学性。 |
 > | [[Comparative Education Center at Chicago 1958\|芝加哥大学比较教育中心]] | 事实 | 福斯特担任副主任并开展长期跨国实证调查的学术大本营。 |
-> | [[Comparative and International Education Society\|比较与国际教育学会]] | 事实 | 1979–1980 年出任学会会长，巩固实证社会学在北美学会的权威地位。 |
+> | [[Comparative and International Education Society\|比较与国际教育学会]] | 事实 | 1979–1980 年出任学会会长，巩固实证社会学在北[[Philosophical Aesthetics\|美学]]会的权威地位。 |
 
 ---
 

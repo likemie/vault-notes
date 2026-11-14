@@ -33,7 +33,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Performance Pay]]"
   - "[[Cross-cultural Validity]]"
-  - "[[Pride in Learning]]"
+  - "[[The Sublime]]"
   - "[[PISA Shock]]"
   - "[[Global Testing Culture]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-11-02
+updated: 2026-11-14
 ---
 
 ---
@@ -118,7 +118,7 @@ updated: 2026-11-02
 
 > [!factors] 决定法国微弱政策回应的四大深层机制
 > - **“国家科学”（science d'État）的权威垄断** 法国中央教育部与高等学术建制长期形成了一套自足的教育评估与哲学知识生产体系。国家官僚精英坚信自身的评价理论优于经合组织的外来技术，削弱了国际评估的认知规训效力。
-> - **“文化例外”（Exception culturelle）的哲学防线** 法国社会各界普遍将教育视为塑造共和公民的崇高文化工程，而非单纯的劳动力技能训练营；面对外部竞争压力，社会精英习惯于诉诸文化[[Pride in Learning|自豪]]与哲学独特性展开防御。
+> - **“文化例外”（Exception culturelle）的哲学防线** 法国社会各界普遍将教育视为塑造共和公民的[[The Sublime|崇高]]文化工程，而非单纯的劳动力技能训练营；面对外部竞争压力，社会精英习惯于诉诸文化自豪与哲学独特性展开防御。
 > - **强大会考体系（Baccalauréat）的制度锁定** 法国高中毕业会考拥有逾两百年的法理权威与全民认同，深层决定了中学课程体系的运作逻辑。PISA 评估的实用素养难以动摇会考所确立的学科知识霸权。
 > - **媒体与实证数据的认知断裂** 大众媒体虽乐于以耸动口吻转载成绩危机，但法国知识界与政策制定圈并未建立起基于 PISA 微观数据的系统性循证分析通道，使得国际数据始终停留在抽象的政治修辞表层。
 

@@ -46,6 +46,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Theoretical Perspective]]"
   - "[[Paradigm]]"
+  - "[[The Sublime]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Ontology]]"
   - "[[Research Question]]"
@@ -84,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -229,7 +230,7 @@ updated: 2026-11-03
 > > 争论基础教育与学术研究应以系统深入的学科本体知识为根基，还是以灵活适应当代商业网络的操作能力为重心。
 > >
 > > - **[[Knowledge-Based Economy|知识经济]]与超国家治理拥护者（[[OECD|经合组织]]；Foray & Lundvall, 1996）** 认为全球竞争依赖于劳动者快速跨界吸纳新技术、在复杂关系网络中协作并将知识转化为商业创新的程序性操作能力；静态的学科理论存量已无法应对快速变化的生产方式。
-> > - **批判教育社会学与文化哲学立场（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]；[[Argument_Mitter_2009_Europe|Mitter, 2009]]）** 指责去学科化的技能至上主义剥离了知识的历史文化脉络与批判反思维度，将学生降格为纯粹服务于资本积累的单向度劳动力，消解了教育启迪公民民主反思的崇高使命。
+> > - **批判教育社会学与文化哲学立场（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]；[[Argument_Mitter_2009_Europe|Mitter, 2009]]）** 指责去学科化的技能至上主义剥离了知识的历史文化脉络与批判反思维度，将学生降格为纯粹服务于资本积累的单向度劳动力，消解了教育启迪公民民主反思的[[The Sublime|崇高]]使命。
 >
 > > [!axis] 学科理论纯粹性 vs [[Mixed Methods Research|混合方法]][[Pragmatic Paradigm|实用主义]]整合
 > > 探讨在实证研究中坚持传统母学科的理论边界，还是为解决复杂现实问题跨越学科壁垒进行折衷整合。

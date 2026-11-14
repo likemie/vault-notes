@@ -24,6 +24,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Technical Rationality]]"
   - "[[Problem Finding]]"
+  - "[[The Sublime]]"
   - "[[Epistemic Governance]]"
   - "[[Meditative Mode of Governance]]"
   - "[[Inquisitive Mode of Governance]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -88,7 +89,7 @@ updated: 2026-11-03
 > |:---|:---|:---|:---|
 > | **权力渊源** | 技术官僚专业特长、客观统计指标与实证研究声誉 | 宪法条约法定授权、司法裁判权与国家强制力 | 普世人权伦理、宗教信仰或历史道德感召力 |
 > | **核心治理机制** | 基础知识生产、跨国基准设定、[[Problem Finding\|问题界定]]与政策咨询 | 法律颁布、行政命令、司法审查与违规惩处 | 道德倡导、舆论谴责、人道主义呼吁与良知动员 |
-> | **合规驱动力** | 规避非理性标签、争取国际良好声誉与竞争优势 | 规避违法制裁成本、法律诉讼与行政处罚 | 维护伦理自尊、履行人道承诺与追求道义崇高 |
+> | **合规驱动力** | 规避非理性标签、争取国际良好声誉与竞争优势 | 规避违法制裁成本、法律诉讼与行政处罚 | 维护伦理自尊、履行人道承诺与追求道义[[The Sublime\|崇高]] |
 > | **典型国际载体** | 经合组织（[[OECD]]）、世界银行（[[World Bank]]） | 国际法院（ICJ）、[[World Trade Organization\|世界贸易组织]]（WTO）争端解决机构 | 国际红十字会（ICRC）、国际特赦组织、[[UNESCO]] |
 
 ---

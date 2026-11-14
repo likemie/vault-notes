@@ -31,6 +31,7 @@ related_concepts:
   - "[[Research Topic]]"
   - "[[Bureaucracy]]"
   - "[[Indirect Costs of Research]]"
+  - "[[The Sublime]]"
   - "[[Knowledge Production]]"
   - "[[Technology-Oriented Social Contract]]"
   - "[[Cognitive Authority]]"
@@ -68,7 +69,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -130,7 +131,7 @@ updated: 2026-11-11
 > - **战略防卫与核军控独立技术评估** 独立测算洲际导弹突防概率与反弹道导弹系统的效费比，为艾森豪威尔和肯尼迪政府达成《部分禁止核试验条约》（PTBT）提供技术支撑。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
 
 > [!citation-card] 高自治与高嵌入治理结构
-> 艾森豪威尔总统组建总统科学顾问委员会（PSAC），使学术精英直接参与核威慑、导弹防御与航天工程的最高决策，形成了历史上罕见的高自治与高嵌入治理结构。在微观层面，立项与评价完全依托同行评议，政府不干涉研究细节；在宏观层面，科学家被公认为“国家理性”的化身，享有崇高的公共威望。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
+> 艾森豪威尔总统组建总统科学顾问委员会（PSAC），使学术精英直接参与核威慑、导弹防御与航天工程的最高决策，形成了历史上罕见的高自治与高嵌入治理结构。在微观层面，立项与评价完全依托同行评议，政府不干涉研究细节；在宏观层面，科学家被公认为“国家理性”的化身，享有[[The Sublime|崇高]]的公共威望。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 >
 > *President Eisenhower formed the President's Science Advisory Committee (PSAC), allowing academic elites to directly participate in highest-level decisions on nuclear deterrence, missile defense, and aerospace engineering. This forged a historically rare governance structure characterized by high autonomy and high embeddedness, wherein scientists were widely recognized as the embodiment of "national reason."*
 

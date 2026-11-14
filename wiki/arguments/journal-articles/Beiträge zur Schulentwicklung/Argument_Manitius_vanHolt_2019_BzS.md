@@ -70,6 +70,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Praxis]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Research Scope]]"
 related_theories:
   - "[[Complexity Theory]]"
@@ -104,7 +105,7 @@ related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
 status: completed
 created: 2026-09-26
-updated: 2026-10-29
+updated: 2026-11-14
 ---
 ---
 
@@ -353,7 +354,7 @@ updated: 2026-10-29
 > [!citation-card] 中层制度化支持实体的实证研究空白
 > 针对德国教育体制中连接宏观与微观的关键中间层长期遭遇忽视的现状：
 > 
-> 在德国教育体系中，那些旨在支持单体学校、且在纯粹政策纲领层面上被赋予转移关键职能的体制化机构（例如[[School Inspection|学校督导]]部门与各州立研究所），迄今为止几乎未曾受到学术研究的系统关注。英美学界关于政策执行的深入研究为此提供了重要线索。
+> 在德国教育体系中，那些旨在支持单体学校、且在纯粹政策纲领层面上被赋予转移关键职能的体制化机构（例如[[School Inspection|学校督导]]部门与各州立研究所），迄今为止几乎未曾受到学术研究的系统关注。英[[Philosophical Aesthetics|美学]]界关于政策执行的深入研究为此提供了重要线索。
 > 
 > *Dass hier noch Bedarf an Aufarbeitung besteht, zeigt exemplarisch bereits die Tatsache, dass die schulsystemischen Institutionen in Deutschland, die Einzelschulen unterstützen sollen und denen rein programmatisch eine wichtige Rolle in Transferprozessen zugewiesen wird, bislang kaum erforscht werden (z. B. Schulaufsicht und [[German State Educational Institutes and Quality Agencies|Landesinstitute]]). Die angloamerikanische Forschung zu policy implementation liefert hierzu Hinweise.*
 

@@ -44,6 +44,7 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Causality]]"
   - "[[Effective Teaching]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Evaluator Independence]]"
   - "[[Fade-out Effect]]"
   - "[[Evidence Standards]]"
@@ -129,7 +130,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -186,7 +187,7 @@ updated: 2026-11-11
 > - **WWC 审查手册（Review Procedures and Standards Handbooks）** 国际公认的最详尽[[Causality\|因果推断]]操作规程，现行 Handbook v5.0 对[[Randomised Controlled Trials\|随机对照试验]]、准实验与[[Regression Discontinuity Design\|断点回归]]提供了数学级审查细则。
 > - **教育实践指南（Practice Guides）** 针对阅读障碍、初中代数、[[Effective Teaching\|有效教学]]行为等关键领域，汇聚循证专家共识向校长和教师提供操作建议。
 > - **干预评估报告（Intervention Reports）** 针对特定具名商业课程或教学项目，发布包含单项研究评级与综合有效性判定的独立裁定报告。
-> - **“找有效干预”在线数据库（Find What Works Tool）** 供全美学区决策者检索经过实证认证的教育干预方案。
+> - **“找有效干预”在线数据库（Find What Works Tool）** 供全[[Philosophical Aesthetics|美学]]区决策者检索经过实证认证的教育干预方案。
 
 > [!contrast-table] WWC 评级层级与关键准入门槛
 > | 评级维度 | WWC 规定标准 |

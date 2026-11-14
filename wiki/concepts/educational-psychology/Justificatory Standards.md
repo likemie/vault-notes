@@ -23,6 +23,7 @@ related_concepts:
   - "[[Epistemic Ideals]]"
   - "[[Epistemology]]"
   - "[[Reliable Epistemic Processes]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Trust Calibration]]"
   - "[[Discourse]]"
   - "[[Evidence Standards]]"
@@ -62,7 +63,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -98,7 +99,7 @@ updated: 2026-11-03
 
 > [!feature] 确证标准的核心维度与分类
 > - **实证确证标准（Evidential Standards）** 涉及如何利用经验材料与实验数据确证信念，如要求全域证据契合、无重大反例、推论直接性以及大规模多源汇合印证。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, pp. 154–155)]]; [[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 209–211)]]
-> - **非实证确证标准（Nonevidential Standards）** 涉及理论美学与形式逻辑的要求，包括[[Internal Consistency\|内部一致性]]（internal consistency）、解释简洁性（simplicity）、模型优雅性以及启发未来研究的能力（fruitfulness）。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 155)]]
+> - **非实证确证标准（Nonevidential Standards）** 涉及理论[[Philosophical Aesthetics|美学]]与形式逻辑的要求，包括[[Internal Consistency\|内部一致性]]（internal consistency）、解释简洁性（simplicity）、模型优雅性以及启发未来研究的能力（fruitfulness）。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 155)]]
 > - **证词与权威确证标准（Testimonial Standards）** 评估他人报告与专家证词的细粒度理由，区分盲目盲信与基于科学共同体同行评议、方法透明度及利益冲突审查的理性校准信任（[[Trust Calibration|Calibrated Trust]]）。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, pp. 151–153)]]
 > - **动态情境敏感性与社会协商（Situational Sensitivity & Social Negotiation）** 确证标准随任务情境动态调整，并在课堂[[Discourse|话语]]互动流中由师生共同体持续辩驳协商而成。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 471)]]
 

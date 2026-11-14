@@ -54,6 +54,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Evaluator Independence]]"
   - "[[Knowledge Production]]"
+  - "[[The Sublime]]"
   - "[[Performativity]]"
   - "[[School Leadership]]"
   - "[[Strategic Compliance]]"
@@ -157,7 +158,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -354,7 +355,7 @@ updated: 2026-11-11
 > > - **学术批判** [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] 尖锐指出，EEF 借助跨国矿业寡头资本构建全球[[Evidence Network\|证据网络]]，其推崇的标准化循证模式实质上将主权国家的教师教育大纲（如澳大利亚《强劲开端》报告）卷入新自由主义[[Policy Network\|理念编排]]，造成教育知识生产的隐性政治偏向。
 >
 > > [!axis] 财政溯源伦理悖论与跨国企业资本洗白（免费校餐结余资金 vs 弱势儿童救助修辞）
-> > 探讨 EEF 崇高的公平与证据[[Discourse|话语]]是否掩盖了紧缩财政削减弱势儿童直接福利以及为跨国企业资本漂绿的深层矛盾。
+> > 探讨 EEF [[The Sublime|崇高]]的公平与证据[[Discourse|话语]]是否掩盖了紧缩财政削减弱势儿童直接福利以及为跨国企业资本漂绿的深层矛盾。
 > >
 > > - **批判政策社会学视阈** [[Argument_Rowe_2022_IJER\|Rowe (2022, pp. 6–8)]] 尖锐揭露，EEF 的 1.25 亿英镑法定初始留本基金直接来自英国教育部“决定不增加免费学生校餐计划”（Free School Meals initiative）所形成的预算节余；这形成了极具讽刺意味的制度悖论：一个标榜为弱势儿童“促进教育公平”的机构，其启动资金恰恰来自削减贫困儿童免费午餐的公共福利开支。同时，EEF 的资助母体（[[Sutton Trust\|萨顿信托]]与 [[Impetus]]）汇聚了华尔街投行与跨国私募股权资本，并与全球矿业寡头必和必拓基金会深度结盟向海外扩张，使其客观上沦为跨国商业金融资本规避税收、构建中立公关形象与重塑主权国家教育议程的战略工具。
 > > - **官方与辩护立场** 强调留本基金为证据机构提供了超越选举周期的长期财政保障，且与私人慈善基金会的合作有效撬动了社会闲散资本投向公共教育科研，通过严谨因果评估避免了数十亿英镑教育经费的盲目浪费。

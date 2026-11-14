@@ -21,6 +21,8 @@ tags:
   - theme/state-capacity
 related_concepts:
   - "[[Civic Religion]]"
+  - "[[Language-of-State]]"
+  - "[[The Sublime]]"
   - "[[Hard Power]]"
   - "[[Horizontal Comradeship]]"
   - "[[Cultural Relativism]]"
@@ -46,13 +48,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-09
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
 
 > [!def] Civic Rituals
-> 公民仪式（Civic Rituals）是指现代世俗国家为了在缺乏血缘与宗族纽带的大规模陌生人群体中建构政治认同、凝聚集体意志并维系跨阶层信任而设立的制度化国民装置。它涵盖公立教育系统的通识正典大纲、国民防卫服役、超越党派的[[Civic Religion|公民宗教]]立约、规范标准化的国家语言以及蓬勃自由的新闻论坛。在当代技术共和主义视阈下，这些传统公民装置的荒废导致陌生人之间的“想象亲密感”破裂，不仅使大众退缩至娱乐与体育亚文化，更导致科技精英退守封闭的“技术城邦”，构成西方民主政体抵御地缘威胁与内部撕裂的深层制度危机。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 216–218)]]
+> 公民仪式（Civic Rituals）是指现代世俗国家为了在缺乏血缘与宗族纽带的大规模陌生人群体中建构政治认同、凝聚集体意志并维系跨阶层信任而设立的制度化国民装置。它涵盖公立教育系统的通识正典大纲、国民防卫服役、超越党派的[[Civic Religion|公民宗教]]立约、规范标准化的[[Language-of-State|国家语言]]以及蓬勃自由的新闻论坛。在当代技术共和主义视阈下，这些传统公民装置的荒废导致陌生人之间的“想象亲密感”破裂，不仅使大众退缩至娱乐与体育亚文化，更导致科技精英退守封闭的“技术城邦”，构成西方民主政体抵御地缘威胁与内部撕裂的深层制度危机。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 216–218)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指称现代国家用于克服个体原子化隔离、生产共同归属感与神圣义务感的制度性实践通道。
@@ -65,7 +67,7 @@ updated: 2026-11-11
 > *The interpersonal tether that makes possible a form of imagined intimacy among strangers within groups of a significant size was severed and banished from the public sphere. The old means of manufacturing a nation, the civic rituals of an educational system, mandatory service in national defense, religion, a shared language, and a thriving and free press have all but been dismantled or withered from neglect and abuse.*
 
 > [!boundary]- 概念边界
-> - 不等于 极权主义意识形态洗脑 — 极权动员以消灭个人自由与独立思考为代价；民主公民仪式旨在保护个体权利的同时，培育对宪政制度与法治共同体的崇高忠诚。
+> - 不等于 极权主义意识形态洗脑 — 极权动员以消灭个人自由与独立思考为代价；民主公民仪式旨在保护个体权利的同时，培育对宪政制度与法治共同体的[[The Sublime|崇高]]忠诚。
 > - 不等于 商业消费娱乐活动 — 娱乐与体育虽然能汇聚庞大人流，但属于无政治责任与公共担当的单薄快感体验，无法在面临战争或重大危机时提供制度防卫力量。
 
 ---

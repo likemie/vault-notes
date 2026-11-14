@@ -24,8 +24,10 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Hard Power]]"
   - "[[Geopolitics]]"
+  - "[[The Sublime]]"
   - "[[Problematisation]]"
   - "[[Consumer Internet]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Technological Republic]]"
   - "[[Analytical Stance]]"
 related_theories: []
@@ -49,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -117,12 +119,12 @@ updated: 2026-11-11
 > **政治异化与历史演化维度** 该命题剖析了黑客伦理在历史演进中的内在悲剧性：当对国家的批判过度推向对公共共同体责任的全面解构时，技术解放理想迅速被晚期资本主义消费市场所吸纳。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
-> **理想退化与消费异化命题** 亚历山大·卡普与尼古拉斯·扎米斯卡论证指出，黑客革命最终抛弃了自身早期的崇高理想。由于美国社会的国家认同与共同体认同被彻底解构与[[Problematisation|问题化]]，整整一代技术精英将其注意力与才华全面转向满足个人消费者的微观需求，从早期赋权个体的反叛构想退变为唯利是图的[[Consumer Internet|消费互联网]]商业机器，造成了面对地缘危机时严重的国家战略技术空洞化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 100–102)]]
+> **理想退化与消费异化命题** 亚历山大·卡普与尼古拉斯·扎米斯卡论证指出，黑客革命最终抛弃了自身早期的[[The Sublime|崇高]]理想。由于美国社会的国家认同与共同体认同被彻底解构与[[Problematisation|问题化]]，整整一代技术精英将其注意力与才华全面转向满足个人消费者的微观需求，从早期赋权个体的反叛构想退变为唯利是图的[[Consumer Internet|消费互联网]]商业机器，造成了面对地缘危机时严重的国家战略技术空洞化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 100–102)]]
 
 ---
 
 > [!dev-timeline] 概念演变
-> - **1950s–1960s — 第一代：麻省理工学院（Massachusetts Institute of Technology, MIT）铁路模型俱乐部与 TX-0 大型机** 高校极客沉浸于探索分时计算系统，形成早期动手实践与代码美学规范。
+> - **1950s–1960s — 第一代：麻省理工学院（Massachusetts Institute of Technology, MIT）铁路模型俱乐部与 TX-0 大型机** 高校极客沉浸于探索分时计算系统，形成早期动手实践与代码[[Philosophical Aesthetics|美学]]规范。
 > - **1970s — 第二代：西海岸硬件极客与[[Homebrew Computer Club|家酿计算机俱乐部]]** 从大型机走向自制微型电脑（Altair 8800），将反文化反集权诉求融入硬件电路，[[Lee Felsenstein|李·费尔森斯坦]]与斯蒂夫·沃兹尼亚克成为代表。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, p. 98)]]
 > - **1980s — 第三代：商业软件与游戏极客** 软件开始商业化，[[Steven Levy|史蒂文·利维]]出版《黑客》对前两代黑客伦理进行经典提炼与抢救性记录。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, p. 99)]]
 > - **1984 — 苹果 Macintosh 与《1984》超级碗广告** [[Steve Jobs|史蒂夫·乔布斯]]将反权威黑客精神包装为击碎老大哥集权控制的个人消费品符号。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 101–102)]]

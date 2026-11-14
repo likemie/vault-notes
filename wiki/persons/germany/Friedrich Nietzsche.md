@@ -38,6 +38,7 @@ related_concepts:
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Paradigm]]"
   - "[[Voluntarism]]"
+  - "[[Philosophical Aesthetics]]"
 related_theories:
   - "[[Three Generations of Mission-Oriented Policy]]"
   - "[[Postmodernism]]"
@@ -46,6 +47,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Max Weber]]"
+  - "[[Martin Luther]]"
   - "[[Socrates]]"
   - "[[Mariana Mazzucato]]"
   - "[[Jean-François Lyotard]]"
@@ -56,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -74,7 +76,7 @@ updated: 2026-11-11
 ---
 
 > [!timeline] 生平与职涯
-> - **1844** 出生于普鲁士萨克森省勒肯镇的一个路德宗牧师家庭。
+> - **1844** 出生于普鲁士萨克森省勒肯镇的一个[[Martin Luther|路德]]宗牧师家庭。
 > - **1864–1868** 先后在波恩大学和莱比锡大学研习古典语文学，结识李契尔（Friedrich Ritschl）并深受叔本华哲学与瓦格纳音乐震撼。
 > - **1869** 年仅 24 岁在尚未获得博士学位的情况下，破格受聘为瑞士巴塞尔大学古典语文学正教授。
 > - **1872** 出版处女作《悲剧的诞生》（*Die Geburt der Tragödie*），提出日神精神与酒神精神的二元辩证，引发古典学界激烈争论。
@@ -121,7 +123,7 @@ updated: 2026-11-11
 ---
 
 > [!person-network] 关系网络
-> - **思想渊源** 叔本华、瓦格纳 — 早期深受叔本华[[Voluntarism|唯意志论]]与瓦格纳歌剧的悲剧美学启迪，后在思想成熟期展开决裂与超越。
+> - **思想渊源** 叔本华、瓦格纳 — 早期深受叔本华[[Voluntarism|唯意志论]]与瓦格纳歌剧的悲剧[[Philosophical Aesthetics|美学]]启迪，后在思想成熟期展开决裂与超越。
 > - **后世继承者** [[Max Weber|马克斯·韦伯]] — 吸收其价值冲突论与现代性诊断；米歇尔·福柯 — 继承并发展其谱系学批判方法。
 > - **教化传统对话者** 歌德、威廉·冯·洪堡 — 共同立足于德意志[[Paideia|古典教化]]传统，但尼采更为激烈地批判了教化的国家建制化与平庸化。
 

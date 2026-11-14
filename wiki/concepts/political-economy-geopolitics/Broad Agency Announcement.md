@@ -22,6 +22,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Network Governance]]"
   - "[[Embedded Network Governance]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[DARPA Model]]"
   - "[[Paradigm]]"
   - "[[Other Transaction Authority]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -59,7 +60,7 @@ updated: 2026-11-03
 > - **在[[Network Governance|网络治理]]中的角色** BAA 是项目经理（PM）将深思熟虑的战略方向转化为法律发包文本的正式载体，为后续开展[[Embedded Network Governance|嵌入型网络治理]]与技术撮合奠定合法性基础。
 
 > [!citation-card] BAA 在 [[DARPA]] 创新链条中的战略定位
-> DARPA 项目经理通过起草广泛领域资助公告（BAA）确立前沿方向并向全美学术界与产业界播撒构想；BAA 的公告文本不规定具体实现工艺，是描绘一个宏伟的技术愿景，促使不同学科的领军科学家主动组建跨界团队响应招标。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1137–1139)]]
+> DARPA 项目经理通过起草广泛领域资助公告（BAA）确立前沿方向并向全[[Philosophical Aesthetics|美学]]术界与产业界播撒构想；BAA 的公告文本不规定具体实现工艺，是描绘一个宏伟的技术愿景，促使不同学科的领军科学家主动组建跨界团队响应招标。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1137–1139)]]
 >
 > *Program managers seed ideas to the research community through Broad Agency Announcements (BAAs), articulating a visionary technological goal rather than specifying technical steps.*
 

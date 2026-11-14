@@ -21,6 +21,7 @@ tags:
   - theme/educational-equity
   - theme/evidence-informed-policy
 related_concepts:
+  - "[[Philosophical Aesthetics]]"
   - "[[Academic Attrition]]"
   - "[[Classroom Management]]"
   - "[[Socioeconomic Status]]"
@@ -43,14 +44,14 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-30
+updated: 2026-11-14
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名教育心理学家、学校心理学学者，印第安纳大学布卢明顿分校（Indiana University Bloomington）咨询与教育心理学名誉教授，曾长期主持印第安纳大学“公平项目”（The Equity Project）。
-> - **核心角色** 全美学校惩戒、校园安全与排他性管教（Disciplinary Exclusion）实证研究的开创性学者。他通过长期追踪的量化与计量证据，打破了“零容忍政策保障校园安全”的虚假神话，是实证教育学者成功深入[[United States Congress|美国国会]]委员会听证会并驱动国家立法改革的典范代表。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]
+> - **核心角色** 全[[Philosophical Aesthetics|美学]]校惩戒、校园安全与排他性管教（Disciplinary Exclusion）实证研究的开创性学者。他通过长期追踪的量化与计量证据，打破了“零容忍政策保障校园安全”的虚假神话，是实证教育学者成功深入[[United States Congress|美国国会]]委员会听证会并驱动国家立法改革的典范代表。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]
 > - **代表贡献** 揭示全美学校惩戒中严峻的种族不成比例性（Racial Disproportionality）；系统反思“零容忍”（Zero Tolerance）纪律政策的破坏性；受邀向[[House Committee on Education and the Workforce\|众议院教育与劳动力委员会]]听证会作证，直接促成联邦民权法案修正与学校恢复性司法实践。
 
 > [!citation-card] 国会委员会听证会中的学者作证

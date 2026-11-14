@@ -27,6 +27,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Social Regime]]"
   - "[[Technology Transfer]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Innovation Ecosystem]]"
   - "[[Early-Career Researchers]]"
   - "[[Research Universities]]"
@@ -48,7 +49,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -96,7 +97,7 @@ updated: 2026-11-11
 > - **理论路径** 开创“[[Academic Capitalism|学术资本主义]]”理论，成为全球高等教育社会学、科学政策与政治经济学引用率最高的经典分析流派之一。
 > - **方法路径** 倡导深度微观案例调查、高校财务与专利数据审计相融洽的制度实证方法。
 > - **政策路径** 其对大学过度商业化与知识私有化的批判性反思，深刻启发了后续关于开放科学、大学公共利益使命的政策讨论。
-> - **跨国／跨领域传播** 学术资本主义理论被西欧、东亚及拉美学者广泛借用，成为分析全球大学公司化与国家新自由主义转型的核心武器。
+> - **跨国／跨领域传播** 学术资本主义理论被西欧、东亚及拉[[Philosophical Aesthetics|美学]]者广泛借用，成为分析全球大学公司化与国家新自由主义转型的核心武器。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 在分析 1990 年代美国[[Social Contract of Science|科学社会契约]]再协商时，重点引用希拉·斯劳特的经验观点，驳斥了“单一契约替代论”，确立了冷战遗产、经济竞争与健康契约多元交叠共存的史学论断。

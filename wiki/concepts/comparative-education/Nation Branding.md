@@ -38,6 +38,7 @@ related_concepts:
   - "[[Study Abroad]]"
   - "[[Nordic Model of Education]]"
   - "[[Public Value]]"
+  - "[[The Sublime]]"
   - "[[Global Education Industry]]"
 related_theories:
   - "[[Integrated Marketing Communications Theory]]"
@@ -47,7 +48,8 @@ related_methods:
   - "[[Post-structural Policy Analysis]]"
   - "[[Analytic Framework]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Martin Luther]]"
 related_facts:
   - "[[PISA]]"
   - "[[Finnish Government Education Export Programme]]"
@@ -59,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-09
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -113,7 +115,7 @@ updated: 2026-11-11
 > **符号抽象与制度脱嵌** 比较教育批判学者指出，国家品牌化通过将教育简化为商业商标，抹杀了教育成功所依赖的独特社会历史土壤。
 > 
 > > [!claim] Schatz (2016)
-> > **品牌化的话语简化机制** 国家品牌化在教育出口中的应用具有高度的建构性与还原性：它将芬兰综合基础学校的成功经验剥离于深厚的路德宗教化传统、福利[[Social Support|社会支持]]网络以及极高教师职业声望之外，构筑为一个具有通用商业吸引力的品牌叙事；这种操作将公共教育的神圣民主价值贬抑为世俗商品，并在全球推销中掩盖了其深层制度在异质情境下的不可移植性。
+> > **品牌化的话语简化机制** 国家品牌化在教育出口中的应用具有高度的建构性与还原性：它将芬兰综合基础学校的成功经验剥离于深厚的[[Martin Luther|路德]]宗教化传统、福利[[Social Support|社会支持]]网络以及极高教师职业声望之外，构筑为一个具有通用商业吸引力的品牌叙事；这种操作将公共教育的神圣民主价值贬抑为世俗商品，并在全球推销中掩盖了其深层制度在异质情境下的不可移植性。
 > 
 > > [!claim] [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]]
 > > **从公共关注向商业需求的质变转译** 芬兰教育出口政策文献通过国家品牌化话语，构建了教育出口的“商业理由”（business case）：政策将海外代表团的考察兴趣定性为天然的商品购买需求，声称“缺乏商业出口是公立系统的供给失职”；这种品牌化逻辑系统排除了国家间学术互换、公益性教育援助与双边互惠等非商业性交流可能。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 387–388)]]
@@ -152,7 +154,7 @@ updated: 2026-11-11
 > [!debates|notitle] 学术争议
 >
 > > [!axis] 全球认知度提升 vs 教育[[Public Value|公共价值]]异化
-> > 官方政策与外事经济部门坚信，国家品牌化能够将本国优质教育资源推向全球，树立国家创新先锋形象并获取高附加值经贸收益；批判学者则指出，国家品牌化将关乎民主平等与公民培育的崇高公共事业异化为追逐利润的货架商品，反向侵蚀了公共教育的道德制高点与公信力。
+> > 官方政策与外事经济部门坚信，国家品牌化能够将本国优质教育资源推向全球，树立国家创新先锋形象并获取高附加值经贸收益；批判学者则指出，国家品牌化将关乎民主平等与公民培育的[[The Sublime|崇高]]公共事业异化为追逐利润的货架商品，反向侵蚀了公共教育的道德制高点与公信力。
 >
 > > [!axis] 国家形象增值 vs 表层政策借用误导
 > > 品牌倡导方强调清晰的国家标签有助于国际合作方快速识别优质伙伴；比较教育学者则批评国家品牌化制造了虚假的“灵丹妙药”幻象，诱使发展中国家忽视本国现实条件盲目开展表层借用，导致跨国政策移植的系统性失败。

@@ -31,6 +31,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Comprehensive Education]]"
   - "[[Paradigm]]"
+  - "[[The Sublime]]"
   - "[[Unit of Analysis]]"
   - "[[Intercultural Education]]"
   - "[[Transnational Education]]"
@@ -98,7 +99,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
@@ -178,7 +179,7 @@ updated: 2026-11-13
 > **共和制度防卫与公共知识分配** 阐明北美[[Common School Movement|公学运动]]改革者如何将国家公共教育权视为维系普选民主与自由政治的基石。
 
 > [!claim] [[Horace Mann|Mann, H.]] and Cremin, L.
-> **公学教育权是自由共和政体的立国基石** 霍勒斯·曼在领导马萨诸塞州公学运动时确立经典命题：在普选民主时代，若任由教育沦为私人宗派的附庸或富人的排他特权，普遍文盲与公民知识匮乏必将导致共和国退化为暴民专制或寡头政治；唯有由国家出面保障公立学校由全社会“共同管理、共同税收供养并贯彻超宗派世俗道德”，国家教育权才能履行其捍卫自由民主生命线的崇高天职。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 31–34)]]；引自 Cremin (1957:7)
+> **公学教育权是自由共和政体的立国基石** 霍勒斯·曼在领导马萨诸塞州公学运动时确立经典命题：在普选民主时代，若任由教育沦为私人宗派的附庸或富人的排他特权，普遍文盲与公民知识匮乏必将导致共和国退化为暴民专制或寡头政治；唯有由国家出面保障公立学校由全社会“共同管理、共同税收供养并贯彻超宗派世俗道德”，国家教育权才能履行其捍卫自由民主生命线的[[The Sublime|崇高]]天职。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 31–34)]]；引自 Cremin (1957:7)
 
 > [!claim] [[Calvin Stowe|Stowe, C.]] and [[Henry Barnard|Barnard, H.]]
 > **公学国家立法培育爱国精神与国民凝聚力** 斯托与巴纳德通过考察欧洲公共教育向各州议会证明，国家立法对教育的主权保障是现代社会唤醒青年对国家及其制度认同的有效机制，有力推动了美国各州议会通过公立学校法案。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 31–33)]]；引自 Knight (1930:255)

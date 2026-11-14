@@ -30,6 +30,7 @@ related_concepts:
   - "[[Responsible Innovation]]"
   - "[[Engineering Mindset]]"
   - "[[Edge Autonomy]]"
+  - "[[The Sublime]]"
   - "[[Pillarization]]"
   - "[[Steering at a Distance]]"
   - "[[Paradigm]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -192,7 +193,7 @@ updated: 2026-11-03
 > **政治经济激励与公共[[Human Capital Theory|人力资本]]壁垒** 阐释以道德禁欲为名的薪酬压制如何演化为一种阻碍顶尖技术与治理人才进入公共机构的隐性繁文缛节，加剧治理阶层的寡头化与寻租化。
 
 > [!claim] [[Lee Kuan Yew|Lee, K. Y.]], [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
-> **低薪规制壁垒与激励对标重构断言** 亚历山大·卡普与尼古拉斯·扎米斯卡论证指出，对公职人员薪酬的刻意压制（如美联储主席仅拿 19 万美元年薪）看似崇高，实则构成了一种阻碍公共效能的隐性制度繁文缛节：
+> **低薪规制壁垒与激励对标重构断言** 亚历山大·卡普与尼古拉斯·扎米斯卡论证指出，对公职人员薪酬的刻意压制（如美联储主席仅拿 19 万美元年薪）看似[[The Sublime|崇高]]，实则构成了一种阻碍公共效能的隐性制度繁文缛节：
 > 1. **逆向淘汰与公共职位寡头化** 极低的法定薪酬使得公共职位沦为富豪阶层自我奉献的特权游乐场（如福布斯亿万富豪中约 11% 参政），或迫使公职人员在离职后通过政商旋转门将权力变现；
 > 2. **市场化激励打破人才进入壁垒** 李光耀（[[Lee Kuan Yew]]）在新加坡推行公务员薪酬对标私营部门政策，直面真实人性与利益诉求，以权责对称的市场化报酬扫除平庸官僚繁文缛节，成功吸纳顶尖工程与治理人才重构国家能力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 179–183)]]
 

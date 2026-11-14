@@ -29,6 +29,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Determinism]]"
   - "[[Unit of Analysis]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Corporate Education]]"
   - "[[Habitus]]"
   - "[[Champ]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -141,7 +142,7 @@ updated: 2026-11-11
 
 韦伯区分了四种纯粹的社会行动理想类型（Weber, 1921/22, §2）：
 - **目的理性行动（Zweckrationalität）** 基于对手段、目的与后果的理性权衡与效用计算作出抉择。
-- **价值理性行动（Wertrationalität）** 纯粹基于对某种伦理、美学或宗教价值本身的无条件信仰而行动，不计功利后果。
+- **价值理性行动（Wertrationalität）** 纯粹基于对某种伦理、[[Philosophical Aesthetics|美学]]或宗教价值本身的无条件信仰而行动，不计功利后果。
 - **情感行动（affektuelles Handeln）** 由当下的特定情绪状态与心理冲动所驱动的行动。
 - **传统行动（traditionales Handeln）** 依赖根深蒂固的习惯、惯例与历史习俗所驱动的行动。
 

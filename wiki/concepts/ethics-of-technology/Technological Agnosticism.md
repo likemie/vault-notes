@@ -39,6 +39,7 @@ related_concepts:
   - "[[Hacker Ethic]]"
   - "[[Cognitive Decoupling]]"
   - "[[Cultural Relativism]]"
+  - "[[The Sublime]]"
   - "[[Junzi]]"
   - "[[General Education]]"
   - "[[Engineering Education]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -170,7 +171,7 @@ updated: 2026-11-11
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025, Ch. 18)]]
 > **程序中立与功利折算的双重迷思** 鲁斯·本尼迪克特（Ruth Benedict, 1934）的[[Cultural Relativism|文化相对主义]]与[[John Rawls|约翰·罗尔斯]]（John Rawls, 2005）的形式程序中立抽空了公共生活的文化特质，使规范正当与实质善意发生断裂；彼得·辛格（Peter Singer, 1975）奠定的[[Effective Altruism|有效利他主义]]（Effective Altruism, EA）则将公民使命降格为单一的福利计算，为科技精英提供了逃避国家防卫与政治忠诚的廉价道德外衣。
 >
-> 正如列奥·施特劳斯（Leo Strauss, 1959）所警示，将科学探索与道德判断截然二分的“道德迟钝”预设，若被绝对化为对一切崇高目标的冷漠与不可知论，终将滑向文化虚无主义；[[Lee Kuan Yew|李光耀]]（Lee Kuan Yew, 2000）在治理中践行儒家[[Junzi|君子]]美德的历史经验表明，唯有重新确立具体的伦理特质与实质文化锚桩，才能抵御不可知论引发的共同体瓦解。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–216)]]
+> 正如列奥·施特劳斯（Leo Strauss, 1959）所警示，将科学探索与道德判断截然二分的“道德迟钝”预设，若被绝对化为对一切[[The Sublime|崇高]]目标的冷漠与不可知论，终将滑向文化虚无主义；[[Lee Kuan Yew|李光耀]]（Lee Kuan Yew, 2000）在治理中践行儒家[[Junzi|君子]]美德的历史经验表明，唯有重新确立具体的伦理特质与实质文化锚桩，才能抵御不可知论引发的共同体瓦解。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–216)]]
 
 ---
 

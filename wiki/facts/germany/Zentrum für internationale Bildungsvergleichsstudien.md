@@ -50,6 +50,7 @@ related_methods:
   - "[[Meta-analysis]]"
 related_instruments: []
 related_persons:
+  - "[[Gottfried Wilhelm Leibniz]]"
   - "[[Tina Seidel]]"
 related_facts:
   - "[[Federal Ministry of Education and Research]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-11-02
+updated: 2026-11-14
 ---
 
 ---
@@ -77,7 +78,7 @@ updated: 2026-11-02
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 创设于 2010 年，立项契机在于 2000 年“PISA 震荡”（[[PISA Shock\|PISA-Schock]]）后，德国亟需建立常设化、高水准的国家学术基础设施，以摆脱以往每届大型国际测评临时组建大学科研团队竞标带来的碎片化与方法断层。
-> - **总部地点与三方联合架构** 实体总部设于慕尼黑工业大学（TUM 社会科学与技术学院教育系）；由三大权威科研实体组成紧密联合体：慕尼黑工业大学（TUM，牵头主持机构）、[[Leibniz Institute for Educational Research and Educational Information\|莱布尼茨教育研究与教育信息研究所]]（DIPF，法兰克福/柏林）以及莱布尼茨科学与数学教育研究所（IPN，基尔）。
+> - **总部地点与三方联合架构** 实体总部设于慕尼黑工业大学（TUM 社会科学与技术学院教育系）；由三大权威科研实体组成紧密联合体：慕尼黑工业大学（TUM，牵头主持机构）、[[Leibniz Institute for Educational Research and Educational Information\|莱布尼茨教育研究与教育信息研究所]]（DIPF，法兰克福/柏林）以及[[Gottfried Wilhelm Leibniz|莱布尼茨]]科学与数学教育研究所（IPN，基尔）。
 > - **法人属性与经费保障** 由联邦公共财政（BMBF）与 16 个联邦州（通过 KMK）按协议长期各半联合资助，具备官方特许的国家科研与测评法定职能。
 > - **核心宗旨与服务对象** 宗旨是长期追踪德国学生在数学、阅读与科学领域的素养水平及变动趋势，揭示[[Socioeconomic Status|家庭社会经济背景]]对教育机会的制约机制；直接服务于联邦与各州教育行政部门、中小学校长、教师培训机构以及教育实证学者。
 

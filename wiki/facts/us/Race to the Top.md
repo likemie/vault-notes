@@ -30,6 +30,7 @@ related_concepts:
   - "[[Charter Schools]]"
   - "[[Counterpart Funds]]"
   - "[[Test-Based Accountability]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Performance Pay]]"
   - "[[Model Dependency]]"
   - "[[Learning Gain]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-26
-updated: 2026-11-02
+updated: 2026-11-14
 ---
 
 ---
@@ -122,7 +123,7 @@ updated: 2026-11-02
 > - **产出与学业指标** [[National Assessment of Educational Progress|全国教育进展评估]]（NAEP）达标率变动轨迹；高中毕业率与大学免补习录取率。
 
 > [!finding-cards] 核心实证结论
-> - **闪电重塑全美学术标准版图** 巨额资金诱导在极短时间内产生了显著的同构效应：在不到两年时间内，全美 45 个州及哥伦比亚特区火速通过立法或行政表决采纳了 [[Common Core State Standards|CCSS]]，实现了美国建国以来前所未有的国家学术标准大统一。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 16–17)]]
+> - **闪电重塑全[[Philosophical Aesthetics|美学]]术标准版图** 巨额资金诱导在极短时间内产生了显著的同构效应：在不到两年时间内，全美 45 个州及哥伦比亚特区火速通过立法或行政表决采纳了 [[Common Core State Standards|CCSS]]，实现了美国建国以来前所未有的国家学术标准大统一。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 16–17)]]
 > - **对学生实际学业产出改善缺乏显著稳定增益** 联邦资助的后续追踪评估表明，RTTT 获奖州在 NAEP 数学和阅读成绩上的提升幅度并未显著优于未获奖州；标准更新与数据系统建设并未自动转化为课堂微观教学质量的实质性跨越。
 > - **系统性激活各州教师评估体系改革** 迫使绝大多数参与州全面立法推行将学生测验增值模型（[[Value-Added Model|Value-Added Modeling]], VAM）纳入教师聘用考核的激进体制变革。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 256–257)]]
 

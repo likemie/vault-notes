@@ -26,6 +26,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Early-Career Researchers]]"
   - "[[Paradigm]]"
+  - "[[Polyvernacular Empire]]"
   - "[[Research Translation]]"
   - "[[Print-Language]]"
   - "[[Construct]]"
@@ -40,6 +41,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[William Jones]]"
+  - "[[Jean-François Champollion]]"
   - "[[Benedict Anderson]]"
   - "[[Johann Gottfried von Herder]]"
   - "[[Josef Dobrovský]]"
@@ -50,10 +52,11 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch05]]"
+  - "[[Argument_Anderson_2016_Verso]]"
 confidence: high
 status: active
 created: 2026-11-12
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
@@ -111,12 +114,12 @@ updated: 2026-11-13
 > **世俗化演化机制** 探讨学术语言研究如何改变人类对语言本质的本体论界定，学者聚焦全球视野与历史演化观念对神授秩序的颠覆。
 
 > [!claim] Anderson, B.
-> **世俗平等[[Paradigm|范式]]** 18世纪末[[William Jones|威廉·琼斯]]（William Jones）对梵语的开创性探究证实古印度文明比希腊罗马更为古老，商博良（Jean Champollion）对古埃及象形文字的破译进一步解构了西方古代神话，闪米特语族研究则瓦解了希伯来语的神圣特权。语文学将演化视为核心研究方法，将语言确立为由说话者与读者共同创造和维系的世俗内部领域，消解了语言连接外在神秘力量的先验假定。古老圣语被迫与粗俗方言并立于相同的世俗本体论地位，每一种语言都转变为由其母语群体集体所有的平等文化资产。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, pp. 72–73)]]
+> **世俗平等[[Paradigm|范式]]** 18世纪末[[William Jones|威廉·琼斯]]（William Jones）对梵语的开创性探究证实古印度文明比希腊罗马更为古老，[[Jean-François Champollion|商博良]]（Jean Champollion）对古埃及象形文字的破译进一步解构了西方古代神话，闪米特语族研究则瓦解了希伯来语的神圣特权。语文学将演化视为核心研究方法，将语言确立为由说话者与读者共同创造和维系的世俗内部领域，消解了语言连接外在神秘力量的先验假定。古老圣语被迫与粗俗方言并立于相同的世俗本体论地位，每一种语言都转变为由其母语群体集体所有的平等文化资产。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, pp. 72–73)]]
 
 ---
 
 > [!concept-proposition] 命题二｜职业知识分子通过词典编纂与史诗整理将地方方言锻造为政治动员的文化蓝图
-> **知识精英的符号建构机制** 探讨语文学家与编纂者如何在多语种帝国内将学术[[Research Translation|研究转化]]为民族政治认同，学者关注词典、语法书与大众媒介的结合。
+> **知识精英的符号建构机制** 探讨语文学家与编纂者如何在[[Polyvernacular Empire|多语种帝国]]内将学术[[Research Translation|研究转化]]为民族政治认同，学者关注词典、语法书与大众媒介的结合。
 
 > [!claim] Anderson, B.
 > **民族蓝图的符号锻造** 19世纪欧洲民族主义的先锋是一批以操纵语言为职业的知识分子，包括学者、教师、乡村牧师、作家与律师。在希腊、捷克、匈牙利、乌克兰、芬兰与挪威，知识精英通过发掘民歌史诗、编纂系统语法与双语词典，使原本仅在农牧底层口耳相传的土语升格为可承载高等学术与行政规制的[[Print-Language|印刷国语]]。这种学术建构不仅提供了民族独特性与古老性的文献实证，而且通过大学课堂与报刊网络向新兴读写阶层扩散，促使多语种王朝帝国境内的臣民依据语言边界将自身重构为主权政治实体。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, pp. 73–77)]]

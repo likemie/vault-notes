@@ -30,6 +30,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Enlightenment]]"
   - "[[Scapegoat Mechanism]]"
+  - "[[The Sublime]]"
   - "[[Research Question]]"
   - "[[Foundational Literacy and Numeracy]]"
   - "[[Critical Thinking Disposition]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -96,7 +97,7 @@ updated: 2026-11-11
 ---
 
 > [!theory-proposition] 命题一｜人类欲望具有非自主的模仿生成性
-> 个体之所以渴望某种职业地位、生活方式、商业风口或消费客体，根本原因在于其潜意识中选定了某个他者作为参照榜样，并通过复制榜样的意图使该客体显现出排他性的崇高价值；客体本身的物理属性通常并不具备决定性差异，是模仿的连锁反应赋予了其虚幻的吸引力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 157–158)]]
+> 个体之所以渴望某种职业地位、生活方式、商业风口或消费客体，根本原因在于其潜意识中选定了某个他者作为参照榜样，并通过复制榜样的意图使该客体显现出排他性的[[The Sublime|崇高]]价值；客体本身的物理属性通常并不具备决定性差异，是模仿的连锁反应赋予了其虚幻的吸引力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 157–158)]]
 
 > [!example|notitle]
 > 在高校热门专业报考或科技创投风口中，大量个体与资本蜂拥争夺某一赛道，并非基于对该领域的理性测算，而是业内领头羊的偶发涉足触发了全社会的模仿共振。

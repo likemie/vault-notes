@@ -27,6 +27,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Culture of Disbelief]]"
   - "[[Technological Agnosticism]]"
+  - "[[The Sublime]]"
 related_theories:
   - "[[Pluralism]]"
 related_methods: []
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -87,7 +88,7 @@ updated: 2026-11-11
 > >
 > > - **Rawls (1988)** 坚持[[The Right and the Good|正当优先于善]]，以确保[[Pluralism|多元主义]]社会中公民平等的权利保障与国家中立。
 > > - **Heller (1987)** 批评指出“正义是骨架，美好生活则是血肉”，缺乏实质善追求的制度只是一具冰冷空洞的骨架。
-> > - **[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|Karp & Zamiska (2025)]]** 进一步批评指出，战后精英过度偏执于罗尔斯式的抽象程序正义，导致公共[[Discourse|话语]]无菌化，诱发了统治阶层的[[Culture of Disbelief|不信文化]]与[[Technological Agnosticism|技术不可知论]]，使社会丧失了维系共同体存续的崇高道德担当。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 80)]]
+> > - **[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|Karp & Zamiska (2025)]]** 进一步批评指出，战后精英过度偏执于罗尔斯式的抽象程序正义，导致公共[[Discourse|话语]]无菌化，诱发了统治阶层的[[Culture of Disbelief|不信文化]]与[[Technological Agnosticism|技术不可知论]]，使社会丧失了维系共同体存续的[[The Sublime|崇高]]道德担当。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 80)]]
 
 ---
 

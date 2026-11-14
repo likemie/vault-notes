@@ -48,6 +48,7 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Gottfried Wilhelm Leibniz]]"
   - "[[Tina Seidel]]"
 related_facts:
   - "[[Qualitätsoffensive Lehrerbildung]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -148,7 +149,7 @@ updated: 2026-11-11
 > - **国家科研证据清算中介孵化** 2017 年专项资助设立慕尼黑工业大学教学研究清算中心（[[Clearing House Unterricht\|CHU]]），打破德语区长期缺乏本土清算平台的困局。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
 > - **国家测评与报告联合资助** 联合 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 出资设立 [[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]] 统筹 [[PISA]] 测评，联合资助 [[Leibniz Institute for Educational Research and Educational Information\|DIPF]] 编撰国家[[Comprehensive Education|综合教育]]报告（*[[Bildung]] in Deutschland*）。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–145)]]
 > - **教育数字化与基础设施战略** 出资数百亿欧元推进“学校数字化公约”（DigitalPakt Schule），支持全德中小学与职业学校宽带网络、数字化教学工具与终端配置。
-> - **前沿科学教育与卓越资助** 统筹国家卓越大学战略（Exzellenzstrategie）、[[Max Planck Society|马克斯·普朗克学会]]与莱布尼茨学会等国家骨干科研联合会的长期财政资助。
+> - **前沿科学教育与卓越资助** 统筹国家卓越大学战略（Exzellenzstrategie）、[[Max Planck Society|马克斯·普朗克学会]]与[[Gottfried Wilhelm Leibniz|莱布尼茨]]学会等国家骨干科研联合会的长期财政资助。
 > - **应对 PISA 冲击的理科教学创新攻坚工程** 在首轮测评震荡后，立项资助直接对接国际评估框架的学科改进工程，包括情境中的化学（[[Chemie im Kontext|CHIK]]）、情境中的物理（PIKO）以及理科教学增效项目（[[SINUS]]），推动一线课堂从传统概念灌输转向情境化探究与产出监控。（BMBF, 2007; [[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 29–30]]）
 
 ---

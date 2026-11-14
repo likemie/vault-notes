@@ -32,6 +32,7 @@ related_concepts:
   - "[[Predictive Validity]]"
   - "[[Reliability]]"
   - "[[Grandes Ecoles]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[International Qualification Recognition]]"
 related_theories: []
 related_methods:
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -134,7 +135,7 @@ updated: 2026-11-11
 > - **资格制度** IB从创制阶段进入可重复运行的跨国考试和大学资格网络。
 > - **组织制度** [[International Baccalaureate|IBO]] 从依赖个人关系和临时资助的项目转向有合同、收费、分权业务和政府代表的常设组织。
 > - **[[International Education\|国际教育]]** 试验显示国际课程的制度单位不是教学大纲，而是学校、评价、承认、行政和资金构成的闭环。
-> - **后续扩张** [[United World Colleges\|联合世界书院]]和北美学校的增长随后为 IB 提供更大规模的学校、师生和政治支持网络。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 66, 87–97)]]
+> - **后续扩张** [[United World Colleges\|联合世界书院]]和北[[Philosophical Aesthetics|美学]]校的增长随后为 IB 提供更大规模的学校、师生和政治支持网络。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 66, 87–97)]]
 
 > [!entry-map] 相关概念／政策
 >

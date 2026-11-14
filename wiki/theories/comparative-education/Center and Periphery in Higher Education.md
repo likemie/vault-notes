@@ -30,6 +30,7 @@ related_concepts:
   - "[[Study Abroad]]"
   - "[[Student Mobility]]"
   - "[[Tacit Knowledge]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Research Question]]"
   - "[[Emergence]]"
   - "[[Original Innovation Capability]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -91,7 +92,7 @@ updated: 2026-11-11
 > 全球高水平大学网络具有极强的马太集聚效应，前沿知识的标准制定、重大突破认证与顶级实验平台主要垄断在英、美、德等极少数学术中心国家的一流研究型大学。阿特巴赫（1981）指出，边缘大学无论如何扩张规模，在学术范式与成果认可上依然受制于学术中心的引力场。
 
 > [!example|notitle]
-> 历史计量表明，1901—2025 年诺贝尔奖得主的高校求学与任职网络中，哈佛大学、剑桥大学、麻省理工学院等英美学术中心始终占据绝对枢纽地位。[[Argument_Zhang_Zhao_2026_EDR|(张娟和赵祥辉, 2026, p. 33)]]
+> 历史计量表明，1901—2025 年诺贝尔奖得主的高校求学与任职网络中，哈佛大学、剑桥大学、麻省理工学院等英[[Philosophical Aesthetics|美学]]术中心始终占据绝对枢纽地位。[[Argument_Zhang_Zhao_2026_EDR|(张娟和赵祥辉, 2026, p. 33)]]
 
 ---
 

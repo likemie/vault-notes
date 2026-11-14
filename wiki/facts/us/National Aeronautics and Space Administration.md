@@ -35,6 +35,7 @@ related_concepts:
   - "[[Grit]]"
   - "[[General Purpose Technology]]"
   - "[[Knowledge Production]]"
+  - "[[The Sublime]]"
   - "[[Diversity, Equity, and Inclusion]]"
   - "[[Reliability]]"
   - "[[Star Scientists]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -141,7 +142,7 @@ updated: 2026-11-11
 > - **政策与工程标准建立** 首创并推广至全球工业界的[[Technology Readiness Level|技术就绪度]]（TRL 1–9 级）评价规程，确立了现代大科学工程系统管理的基石标准。
 
 > [!finding-cards] 关键成效与辐射影响
-> - **技术共和国大科学工程典范** NASA 的建立与运行证明了国家将崇高地缘使命与顶尖科学探索无缝结合的组织效能，成为战后美国赢得科技冷战的标志性制度力量。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–8)]]
+> - **技术共和国大科学工程典范** NASA 的建立与运行证明了国家将[[The Sublime|崇高]]地缘使命与顶尖科学探索无缝结合的组织效能，成为战后美国赢得科技冷战的标志性制度力量。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–8)]]
 > - **催生微电子与计算产业革命** 1960 年代阿波罗导航计算机（AGC）对硅芯片的海量刚性采购，直接摊薄了[[Fairchild Semiconductor|仙童半导体]]等企业的生产成本，使微芯片从军工专用跨入民用个人计算。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 3)]]
 > - **大学基础科研民用支柱确立** 作为 1957 年后崛起的三大民用资助机构之一，与 NSF、NIH 协同承接了联邦科研经费由军工向大学自由探索的战略转移。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 37–38)]]
 

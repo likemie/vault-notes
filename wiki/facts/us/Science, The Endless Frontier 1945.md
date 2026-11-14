@@ -43,6 +43,7 @@ related_concepts:
   - "[[Learning by Doing]]"
   - "[[Total Quality Management]]"
   - "[[Technological Catch-up]]"
+  - "[[The Sublime]]"
   - "[[National Innovation System]]"
 related_theories:
   - "[[Social Contract of Science]]"
@@ -87,7 +88,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-26
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -211,7 +212,7 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》第一章，探讨 1944 年罗斯福致信布什的历史脉络、科学家在民主防卫中的崇高地位及战后技术共和国契约的建立。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》第一章，探讨 1944 年罗斯福致信布什的历史脉络、科学家在民主防卫中的[[The Sublime|崇高]]地位及战后技术共和国契约的建立。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 2026 年白宫战略报告，全面对照 1945 年布什报告，肯定其公共资助核心，同时宣告单向管道终结，提出四大支柱与 2028 财年研发预算优先序。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 系统剖析布什《科学——无止境的边疆》所确立的三大制度性承诺，揭示 2025 年起美国科技政策实践启动对布什契约的退出与结构性转型。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 系统反思并批判布什报告在战后制度化的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]，提出[[Discovery-Invention Cycle|发现-发明循环]]理论。

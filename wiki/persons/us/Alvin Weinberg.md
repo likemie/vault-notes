@@ -21,6 +21,7 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Institutional Drift]]"
   - "[[Public Dynamic Capabilities]]"
+  - "[[The Sublime]]"
   - "[[Champ]]"
   - "[[Grand Challenges]]"
   - "[[Agile Governance]]"
@@ -38,7 +39,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-19
+updated: 2026-11-14
 title: Alvin Weinberg
 aliases:
   - Weinberg, A.
@@ -55,7 +56,7 @@ aliases:
 > - **对当代政策理论的启示** [[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）与[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）在构建[[Three Generations of Mission-Oriented Policy|使命导向政策三代演进]]理论时，深度汲取了温伯格的组织社会学洞见，用以阐明第二代使命机构为何在完成军工与登月任务后容易陷入“使命漂移”（Mission [[Institutional Drift|drift]]），以及为何必须构建[[Public Dynamic Capabilities|公共部门动态能力]]以转向应对 21 世纪重大社会挑战。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 794–795)]]
 
 > [!claim] 核心政策哲学
-> 大科学研究机构是为了国家的崇高战略使命而建立的，其核心是动用巨额公共资源解决具体的重大现实问题，而非漫无目的的基础探索；然而，当一项国家使命圆满完成或面临外部环境突变时，国家实验室必须展现出重组技能与资源的敏捷性，避免退化为脱离社会迫切需求的自闭型学术象牙塔。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 794)]]
+> 大科学研究机构是为了国家的[[The Sublime|崇高]]战略使命而建立的，其核心是动用巨额公共资源解决具体的重大现实问题，而非漫无目的的基础探索；然而，当一项国家使命圆满完成或面临外部环境突变时，国家实验室必须展现出重组技能与资源的敏捷性，避免退化为脱离社会迫切需求的自闭型学术象牙塔。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 794)]]
 
 ---
 

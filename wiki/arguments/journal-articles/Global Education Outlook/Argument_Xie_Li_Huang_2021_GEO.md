@@ -50,7 +50,6 @@ related_concepts:
   - "[[Public-Private Partnership]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Comparative Turn in Education Policy]]"
-  - "[[Pride in Learning]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[New Public Management]]"
   - "[[Evaluation Research]]"
@@ -63,6 +62,7 @@ related_concepts:
   - "[[Charter Schools]]"
   - "[[Progressive Education]]"
   - "[[Student Motivation]]"
+  - "[[The Sublime]]"
   - "[[Social Regime]]"
   - "[[Geopolitics]]"
   - "[[Knowledge Production]]"
@@ -141,7 +141,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-26
-updated: 2026-11-11
+updated: 2026-11-14
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Xie_Li_Huang_2021_GEO"
@@ -276,7 +276,7 @@ issuing_organization: ""
 
 > [!taxonomy] 国际比较测评的三类感知反应（Steiner-Khamsi, 2003）
 > - **丑闻化（Scandalization）** 传统教育强国遭遇意外挫败，大众媒介与政界将低迷排名渲染为国家危机。
-> - **荣誉化（Glorification）** 优异表现国家将高排位树立为国家[[Pride in Learning|自豪]]感来源，证明既有路线的正确性。
+> - **荣誉化（Glorification）** 优异表现国家将高排位树立为国家自豪感来源，证明既有路线的正确性。
 > - **无动于衷（Indifference）** 部分主权国家因国内政治生态、文化自足或教育共识，对跨国排名采取冷处理或脱敏态度。
 
 > [!sub-claim] 1. 成绩落差国家将 PISA 指标直接作为国内体制改革的蓝图
@@ -347,7 +347,7 @@ issuing_organization: ""
 > [!case] 法国与英国：工会阻击与朝野政党互掷数据的政策攻防
 > 在法国，由中央行政精英主导的国家科学（science d'État）传统底蕴深厚，政府与官方学者对本土教育科学拥有极高权威。[[Xavier Pons|沙维尔·庞斯]]（Pons, 2011, 2016）指出，在 2001 至 2004 年间，法国左翼政要、决策层与教师工会对 PISA 嗤之以鼻，视其为英美新自由主义的文化渗透。直到 2005 年后右翼势力上台，时任总统萨科齐开始在施政演讲中频繁援引 PISA 排名，借此在 2007 年发起以提高办学效率为名的激进改革，大幅削减公共教育财政预算并裁减教师编制（Pons, 2016）。这一举措遭遇了左翼政党与工会的长期联合罢工抵制，双方均援引数据指责对方破坏法国的文化例外与共和平等传统。
 >
-> 在英国，新工党政府高度利用其在 PISA 中的良好排位，向公众宣称全国读写算战略与中央集权问责机制成效斐然，并以此作为关键论据，在议会中成功阻击了保守党要求进一步放开[[School Choice\|学校选择]]与市场化代金券的激进主张。在苏格兰，苏格兰教育学会（EIS）则敏锐地将目光转向高居榜首的芬兰，援引芬兰案例中教师享有崇高职业声望与充分教学自主权的事实，发起向苏格兰地方政府要求大幅提高教师薪酬待遇、削减行政考核负担并叫停学校裁撤的大规模抗争。
+> 在英国，新工党政府高度利用其在 PISA 中的良好排位，向公众宣称全国读写算战略与中央集权问责机制成效斐然，并以此作为关键论据，在议会中成功阻击了保守党要求进一步放开[[School Choice\|学校选择]]与市场化代金券的激进主张。在苏格兰，苏格兰教育学会（EIS）则敏锐地将目光转向高居榜首的芬兰，援引芬兰案例中教师享有[[The Sublime|崇高]]职业声望与充分教学自主权的事实，发起向苏格兰地方政府要求大幅提高教师薪酬待遇、削减行政考核负担并叫停学校裁撤的大规模抗争。
 
 > [!sub-claim] 3. 二维象限模型清晰呈现政策性质与影响范围的国别分化
 

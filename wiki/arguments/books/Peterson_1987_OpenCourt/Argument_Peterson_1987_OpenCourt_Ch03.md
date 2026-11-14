@@ -55,6 +55,7 @@ related_concepts:
   - "[[Face Validity]]"
   - "[[Language Skills]]"
   - "[[Praxis]]"
+  - "[[Philosophical Aesthetics]]"
 related_theories: []
 related_methods:
   - "[[Multiple-Choice Questions]]"
@@ -76,7 +77,7 @@ sources:
 part_of: "[[Argument_Peterson_1987_OpenCourt]]"
 status: draft
 created: 2026-08-17
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 ---
 
@@ -426,7 +427,7 @@ Peterson 对理解环境的判断接近部分实现。学生确实接触多种�
 #### 享受环境：制度只能间接创造兴趣与闲暇条件
 
 > [!claim] 享受环境是全人教育目标，也是考试最难触及的部分
-> Peterson 把享受物质、社会、审美和精神环境的能力纳入完整教育，也包括学习怎样使用闲暇。钓鱼、滑水、音乐、绘画或其他个人兴趣可以通过教育发展，其中许多活动无法成为考试大纲的内容。英美学校传统又容易把课外生活集中于团队运动和观看比赛，学生享受环境的方式需要更广的选择（p. 58）。
+> Peterson 把享受物质、社会、审美和精神环境的能力纳入完整教育，也包括学习怎样使用闲暇。钓鱼、滑水、音乐、绘画或其他个人兴趣可以通过教育发展，其中许多活动无法成为考试大纲的内容。英[[Philosophical Aesthetics|美学]]校传统又容易把课外生活集中于团队运动和观看比赛，学生享受环境的方式需要更广的选择（p. 58）。
 
 > [!chain-link] IBO 如何通过间接条件保护学习兴趣
 > - **先保护可自由使用的时间** CASS 与整体课表限制备考占满学生生活，让艺术、服务、运动和个人兴趣获得实际空间。

@@ -29,6 +29,7 @@ related_concepts:
   - "[[Policy Ambiguity]]"
   - "[[Discourse]]"
   - "[[Cognitive Authority]]"
+  - "[[The Sublime]]"
   - "[[Return on Investment]]"
   - "[[Evidence-Based Education]]"
   - "[[Governing by Numbers]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -107,7 +108,7 @@ updated: 2026-11-03
 > **[[Cognitive Authority|认知权威]]防御与学科边界构筑机制** 围绕教育领域人人皆自居专家的特殊生态如何倒逼治理机构引入硬核复杂技术展开。
 
 > [!claim] Maasen and Weingart (2005)
-> **专家权威的去圣化危机** 当现代社会将[[Knowledge Production\|知识生产]]全面向公众开放时，专业知识的神秘感被打破，决策者面临多元相悖证据的轰炸，专家意见从崇高裁决沦为派系政治的游说工具。
+> **专家权威的去圣化危机** 当现代社会将[[Knowledge Production\|知识生产]]全面向公众开放时，专业知识的神秘感被打破，决策者面临多元相悖证据的轰炸，专家意见从[[The Sublime|崇高]]裁决沦为派系政治的游说工具。
 
 > [!claim] Steiner-Khamsi et al.
 > **代偿性技术防线的构筑** 正因为教育过程对每一个公民而言皆亲身经历且直观可感，[[Policy Brokerage\|政策中介]]机构（如[[World Bank\|世行]]与 [[OECD]]）必须建立比其他领域更极端的统计门槛（如世界银行对 [[Randomised Controlled Trials\|RCT]] 的狂热偏好、经合组织对复杂[[Item Response Theory\|项目反应理论]]的垄断），以技术复杂性制造“只有我们可以科学计算教育”的合法性光环。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 539)]]

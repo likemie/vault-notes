@@ -41,6 +41,7 @@ related_concepts:
   - "[[Education Going Global]]"
   - "[[Public Diplomacy]]"
   - "[[People-to-People Connectivity]]"
+  - "[[The Sublime]]"
   - "[[China Solution]]"
   - "[[Knowledge Production]]"
   - "[[Analytical Stance]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -119,7 +120,7 @@ updated: 2026-11-11
 > **[[Soft Power|软实力]]与[[Hard Power|硬实力]]依附** 探讨依托经济补贴推进的跨国教育在面对外部地缘环境与东道国社会反弹时的局限性。
 
 > [!claim] Woo, E.
-> **物质补贴依附与地缘抗拒风险** 尽管[[Public Diplomacy|公共外交]]叙事充满合作共赢与[[People-to-People Connectivity|民心相通]]的崇高修辞，北京共识在高等教育领域的实际投射高度依附于中国经济高速增长所带来的全额财政奖学金与基建就业预期等功利性拉动因素。一旦经济增长放缓或外部大国对抗升级，缺乏深层文化与[[Academic Freedom|学术自由]]价值认同的教育合作极易遭遇冲击；自上而下的政府间推进模式在遭遇合作国本土草根市民社会的透明度质疑与主权主张时，展现出显著的结构性脆弱。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
+> **物质补贴依附与地缘抗拒风险** 尽管[[Public Diplomacy|公共外交]]叙事充满合作共赢与[[People-to-People Connectivity|民心相通]]的[[The Sublime|崇高]]修辞，北京共识在高等教育领域的实际投射高度依附于中国经济高速增长所带来的全额财政奖学金与基建就业预期等功利性拉动因素。一旦经济增长放缓或外部大国对抗升级，缺乏深层文化与[[Academic Freedom|学术自由]]价值认同的教育合作极易遭遇冲击；自上而下的政府间推进模式在遭遇合作国本土草根市民社会的透明度质疑与主权主张时，展现出显著的结构性脆弱。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
 
 ---
 

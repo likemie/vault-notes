@@ -35,6 +35,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Business as Usual]]"
   - "[[Paradigm]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Peer-Supported Learning]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Variable]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-30
+updated: 2026-11-14
 ---
 
 ---
@@ -133,7 +134,7 @@ updated: 2026-10-30
 > [!indicators] 影响力维度与指标
 > - **库容规模全美第二** 在全美 12 所清算中心汇总的 1,359 个去重教育干预项目池中，BEE 贡献了 **124 个项目**，规模仅次于 [[What Works Clearinghouse\|WWC]]。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 16)]]
 > - **奠定现代[[Meta-analysis\|元分析]]学科审查[[Paradigm\|范式]]** 其发表的数十篇阅读与数学综合元分析累计被引数千次，成为 WWC 与英国 [[Education Endowment Foundation\|EEF]] 研制教学工具包的重要基础文献。
-> - **直接催生 [[Evidence for ESSA]]** 将学术综述库成功转化为服务各州教育厅与全美学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 采购的现代决策基础设施。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–25)]]
+> - **直接催生 [[Evidence for ESSA]]** 将学术综述库成功转化为服务各州教育厅与全[[Philosophical Aesthetics|美学]]区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 采购的现代决策基础设施。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–25)]]
 
 > [!stat-cards]- 核心规模数据
 > - **124** （个） BEE 纳入的去重教育干预项目总量（居全美清算中心第 2 位）。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 16)]]

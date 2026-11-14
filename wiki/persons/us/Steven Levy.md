@@ -30,6 +30,7 @@ related_concepts:
   - "[[Analytical Stance]]"
   - "[[Hard Power]]"
   - "[[Counterculture Computing]]"
+  - "[[Philosophical Aesthetics]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-11-14
 ---
 
 ---
@@ -122,7 +123,7 @@ updated: 2026-10-22
 > | [[Hacker Ethic]] | Concept | 首次在学术与出版界系统命名、提炼并定义该伦理规范的核心原则。 |
 > | [[Counterculture Computing]] | Concept | 系统记录并剖析了 1960–1980 年代反文化与个人计算技术的交融历程。 |
 > | [[Homebrew Computer Club]] | Fact (Org) | 利维在其《黑客》专著中深度记录的微机革命核心策源地。 |
-> | [[Steve Jobs]] | Person | 利维长期跟踪报道并将反文化美学与黑客精神推向全球大众消费市场的关键人物。 |
+> | [[Steve Jobs]] | Person | 利维长期跟踪报道并将反文化[[Philosophical Aesthetics\|美学]]与黑客精神推向全球大众消费市场的关键人物。 |
 > | [[Lee Felsenstein]] | Person | 利维在《黑客》中重点剖析的家酿俱乐部主持人与反体制硬件极客代表。 |
 
 ---

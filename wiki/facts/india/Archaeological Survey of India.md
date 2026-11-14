@@ -26,13 +26,14 @@ tags:
   - theme/colonialism
 related_concepts:
   - "[[Colonial Archaeology]]"
-  - "[[Official Nationalism]]"
+  - "[[Discourse]]"
+  - "[[The Sublime]]"
+  - "[[Nationalism]]"
   - "[[Totalizing Classificatory Grid]]"
-  - "[[Map-as-Logo]]"
+  - "[[Artefact]]"
 related_theories:
   - "[[Imagined Community]]"
-related_methods:
-  - "[[Historical-Comparative Method]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Benedict Anderson]]"
@@ -41,16 +42,17 @@ related_facts:
   - "[[École française d'Extrême-Orient]]"
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch10]]"
+  - "[[Argument_Anderson_2016_Verso]]"
 confidence: high
 status: active
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
 
 > [!claim] 核心定位
-> 印度考古调查局（Archaeological Survey of India，简称 ASI）是 1861 年由英国殖民工程师亚历山大·坎宁安（Alexander Cunningham）创立、并在 1899–1905 年由印度总督寇松勋爵（Lord Curzon）重组并系统赋权的官方文物监管与学术调查机构。作为大英帝国在南亚及缅甸实施文化治理的旗舰机构，该局确立了近代殖民考古学的发掘、分类与保护规程，通过将古代佛教、印度教与伊斯兰建筑纳入统一帝国监护网络，为外来统治建构深厚的文明保护者合法性。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 184, 196)]]
+> 印度考古调查局（Archaeological Survey of India，简称 ASI）是 1861 年由英国殖民工程师亚历山大·坎宁安（Alexander Cunningham）创立、并在 1899–1905 年由印度总督寇松勋爵（Lord Curzon）重组并系统赋权的官方文物监管与学术调查机构。作为大英帝国在南亚及缅甸实施文化治理的旗舰机构，该局确立了近代[[Colonial Archaeology|殖民考古学]]的发掘、分类与保护规程，通过将古代佛教、印度教与伊斯兰建筑纳入统一帝国监护网络，为外来统治建构深厚的文明保护者合法性。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 184, 196)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1861 年由英属印度工务部门正式创设，旨在将东印度公司时代杂乱的业余东方学考察升级为国家主导的系统性历史地貌普查；1899 年寇松勋爵即位总督后力主重组并设立常设财政拨款，将其升格为受内政部直接领导的法定古物总局。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, p. 196, n. 30)]]
@@ -89,8 +91,8 @@ updated: 2026-11-13
 ---
 
 > [!finding-cards] 关键成效与帝国治理影响
-> - **文明退化话语与帝国监护论证** 该局的官方出版物持续强调当代南亚与缅甸土著经历了长期的精神堕落与文明倒退，既无力阅读祖先的碑铭，也无法自行阻止宏伟建筑的自然倾颓；大英帝国的考古修复被塑造为将沉睡文明唤醒并代行托管的崇高道德使命。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 184–185)]]
-> - **民族主义运动反向吸收** 殖民考古局发掘出的辉煌物质文明，在 20 世纪反殖民斗争中反向激发了国大党领袖（如尼赫鲁在《印度的发现》中）的民族自豪感，成为论证古老印度具有统一历史主体性的核心论据。
+> - **文明退化[[Discourse|话语]]与帝国监护论证** 该局的官方出版物持续强调当代南亚与缅甸土著经历了长期的精神堕落与文明倒退，既无力阅读祖先的碑铭，也无法自行阻止宏伟建筑的自然倾颓；大英帝国的考古修复被塑造为将沉睡文明唤醒并代行托管的[[The Sublime|崇高]]道德使命。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 184–185)]]
+> - **[[Nationalism|民族主义]]运动反向吸收** 殖民考古局发掘出的辉煌物质文明，在 20 世纪反殖民斗争中反向激发了国大党领袖（如尼赫鲁在《印度的发现》中）的民族自豪感，成为论证古老印度具有统一历史主体性的核心论据。
 
 ---
 
@@ -100,7 +102,7 @@ updated: 2026-11-13
 > > 争论印度考古调查局的历史地位究竟应当归结为南亚近代文化遗产保护体制的奠基者，还是服务于维多利亚晚期帝国主义将自身合法化为东方文明监护人的政治工具。
 > >
 > > - **制度遗产继承论** 肯定该局开创了南亚成体系的铭文学与地层学研究，其建立的法律框架与遗址网络在分治后被印巴两国无缝继承并沿用至今。
-> > - **[[Benedict Anderson|Anderson (2016)]]** 指出该局在寇松推动下的重组深受殖民国家统治心智驱动，其核心意图在于通过将古代宗教圣地改造为世俗帝国权标，以此证明当代土著居民无自决能力的理论前提。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 184–186)]]
+> > - **[[Argument_Anderson_2016_Verso|Anderson (2016)]]** 指出该局在寇松推动下的重组深受殖民国家统治心智驱动，其核心意图在于通过将古代宗教圣地改造为世俗帝国权标，以此证明当代土著居民无自决能力的理论前提。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 184–186)]]
 
 ---
 
@@ -111,8 +113,8 @@ updated: 2026-11-13
 > | [[Colonial Archaeology]] | 概念 | 典范形态；印度考古调查局是英属帝国在亚洲推行殖民考古学与古迹世俗权标化的最高权力建制。 |
 > | [[Borobudur Restoration]] | 事实 | 区域呼应；与荷属东印度婆罗浮屠修复项目在东南亚及南亚形成跨国殖民文物保护网络。 |
 > | [[École française d'Extrême-Orient]] | 事实 | 帝国竞逐；与法国远东学院在亚洲古代文明发掘与帝国声望争夺中形成直接学术对比。 |
-> | [[Totalizing Classificatory Grid]] | 概念 | 网格编目；该局对遗迹的编号、分类与普查，展现了总括性分类网格对物质文化的规训。 |
-> | [[Benedict Anderson]] | 人物 | 批判阐发者；在《想象的共同体》第10章中将寇松对该局的重组作为殖民考古治理的经典案例剖析。 |
+> | [[Totalizing Classificatory Grid]] | 概念 | 网格编目；该局对遗迹的编号、分类与普查，展现了总括性分类网格对[[Artefact\|物质文化]]的规训。 |
+> | [[Benedict Anderson]] | 人物 | 批判阐发者；在《[[Imagined Community\|想象的共同体]]》第10章中将寇松对该局的重组作为殖民考古治理的经典案例剖析。 |
 
 ---
 

@@ -63,6 +63,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Engineering Education]]"
   - "[[Post-Fordism]]"
+  - "[[The Sublime]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
   - "[[Cooperative Integrated Reading and Composition]]"
@@ -112,7 +113,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-20
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -251,7 +252,7 @@ updated: 2026-11-11
 > >
 > > - **[[Epistemology\|认识论]]批判（Epistemic Critique）** 批判技能话语试图抽离具体知识内容，假定存在一套通用的、脱离学科语境的独立思维技能；然而认知科学与科学教育表明，深度思维必须依赖扎实的领域专业知识与[[Big Ideas\|大概念]]支撑（Royal Society, 2026a; Millar & Osborne, 1998）。
 > > - **政治经济学与治理批判（Critical Political Economy）** 指责 [[Single-Case Design\|SCD]] 充当了新自由主义资本重构与教育商品化的意识形态遮羞布，通过“数据治理”剥夺了教师的专业自主权，并将教育公共品属性窄化为纯粹的劳动力技能供应（[[Argument_Zhao_2020_JEC\|Zhao, 2020]]）。
-> > - **人文主义与全人发展批判（Humanistic Critique）** 抨击结果导向素养将生命意义、同理心、审美与公民民主参与等崇高价值剔除出教育中心，造成人性的单向度工具化（[[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022]]）。
+> > - **人文主义与全人发展批判（Humanistic Critique）** 抨击结果导向素养将生命意义、同理心、审美与公民民主参与等[[The Sublime|崇高]]价值剔除出教育中心，造成人性的单向度工具化（[[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022]]）。
 
 > [!warning] 适用局限与边缘化偏倚（[[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, pp. 257–258]]）
 > - **素养偏倚** 主流政策系统性偏向短期生产力认知技能，严重边缘化深度文本阅读、环境生态伦理、人际社会情感及具身实验探究。

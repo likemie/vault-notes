@@ -26,6 +26,7 @@ related_concepts:
   - "[[Data Infrastructure]]"
   - "[[Positivism]]"
   - "[[Variable]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Heterogeneity]]"
   - "[[Data Literacy]]"
   - "[[Determinism]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-11-14
 ---
 
 ---
@@ -78,7 +79,7 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 项目推进历程
-> - **2007–2011 — 预警指标理论验证与指标确立** 全美学界与非营利机构（如约翰斯·霍普金斯大学团队）确立以缺勤率与不及格课程为核心的预警指标模型；马萨诸塞州立项论证将全州纵向数据库转变为预测性决策平台的可行性。
+> - **2007–2011 — 预警指标理论验证与指标确立** 全[[Philosophical Aesthetics|美学]]界与非营利机构（如约翰斯·霍普金斯大学团队）确立以缺勤率与不及格课程为核心的预警指标模型；马萨诸塞州立项论证将全州纵向数据库转变为预测性决策平台的可行性。
 > - **2012–2016 — 算法系统上线与全州学区接入** [[Massachusetts Department of Elementary and Secondary Education\|DESE]] 正式向全州学区推送 EWIS 报告，嵌入州级统一商业智能与数据报告平台（Edwin Analytics），提供从早期儿童阶段到高中毕业的全链条风险评分。
 > - **2017–至今 — 预测向大学升学扩展与微观实践反思** 预测模型进一步向高等教育延伸，纳入预测学生在高中毕业后是否能在六年内完成大学学业的预测概率；与此同时，学界与实地调研揭示出基层顾问对风险标签的扭曲使用等意外后果。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 6)]]
 

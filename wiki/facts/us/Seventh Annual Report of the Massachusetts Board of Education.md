@@ -36,6 +36,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Popular Education]]"
   - "[[Paradigm]]"
+  - "[[The Sublime]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-30
+updated: 2026-11-14
 ---
 
 ---
@@ -158,5 +159,5 @@ updated: 2026-10-30
 > | [[Prussian Draft Education Law of 1819]] | 政策 | 曼在报告中所高度盛赞的普鲁士初等义务教育与[[Normal School\|师范学院]]建制的法律母体。 |
 > | [[Normal School]] | 概念 | 本报告力推的核心制度工具，推动美国建立现代专业师范体系。 |
 > | [[Policy Borrowing]] | 概念 | 本报告开创了将外部实绩转译为国内争议改革政治合法化依据的借用[[Paradigm\|范式]]。 |
-> | [[Educational Meliorism]] | 概念 | 报告所贯穿的以教育改良推动社会与政治进步的崇高信念。 |
+> | [[Educational Meliorism]] | 概念 | 报告所贯穿的以教育改良推动社会与政治进步的[[The Sublime\|崇高]]信念。 |
 > 

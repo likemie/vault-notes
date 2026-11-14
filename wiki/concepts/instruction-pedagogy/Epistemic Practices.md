@@ -38,6 +38,7 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[Nature of Science]]"
   - "[[Open-Mindedness]]"
+  - "[[The Sublime]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Epistemic Provocateur]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -202,7 +203,7 @@ updated: 2026-11-03
 > **实践转化与素养生成机制** 探讨课堂动手操作如何升华为面向公共生活的审议理性，确立教师显性指导的关键价值。
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]
-> **元[[Discourse|话语]]引导与公民审议能力** 单纯让学生动手操作无法自发形成深层的[[Nature of Science\|科学本质]]理解与[[Scientific Literacy\|科学素养]]。教师必须运用显性元话语（meta-discourse），引导学生反思为何接受该项证据、如何排查竞争性解释，从而将微观操作提炼为对公共审查、理性说服与[[Open-Mindedness|思想开放]]等崇高价值的认同，培育现代公民参与民主决策的认识论能动性。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 146–148, 161)]]
+> **元[[Discourse|话语]]引导与公民审议能力** 单纯让学生动手操作无法自发形成深层的[[Nature of Science\|科学本质]]理解与[[Scientific Literacy\|科学素养]]。教师必须运用显性元话语（meta-discourse），引导学生反思为何接受该项证据、如何排查竞争性解释，从而将微观操作提炼为对公共审查、理性说服与[[Open-Mindedness|思想开放]]等[[The Sublime|崇高]]价值的认同，培育现代公民参与民主决策的认识论能动性。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 146–148, 161)]]
 
 ---
 

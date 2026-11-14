@@ -28,6 +28,7 @@ related_concepts:
   - "[[Boundary Spanner]]"
   - "[[Brainstorming]]"
   - "[[Star Scientists]]"
+  - "[[The Sublime]]"
   - "[[Broad Agency Announcement]]"
   - "[[Champ]]"
   - "[[DARPA Model]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-11-02
+updated: 2026-11-14
 ---
 
 ---
@@ -71,7 +72,7 @@ updated: 2026-11-02
 ---
 
 > [!actor-grid] 组织治理架构
-> - **理事会成员（Council Members）** 由全美物理、化学、材料、微电子等领域享有崇高学术声望的顶尖大学讲席教授、[[National Academy of Sciences|美国国家科学院]]/国家工程院院士组成。
+> - **理事会成员（Council Members）** 由全美物理、化学、材料、微电子等领域享有[[The Sublime|崇高]]学术声望的顶尖大学讲席教授、[[National Academy of Sciences|美国国家科学院]]/国家工程院院士组成。
 > - **[[DARPA]] 协调官员** 各技术办公室（DSO、MTO 等）主任与资深项目经理，负责输入真实战略需求并直接接收研讨成果。
 
 > [!pathways] 业务运行机制

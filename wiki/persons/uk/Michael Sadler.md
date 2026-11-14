@@ -24,6 +24,7 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[Bildung]]"
   - "[[Normal School]]"
+  - "[[The Sublime]]"
   - "[[Liberal Education]]"
   - "[[Reference Society]]"
   - "[[Cross-National Attraction]]"
@@ -92,7 +93,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: '2026-06-08'
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -121,7 +122,7 @@ updated: 2026-11-11
 > - **1907** **倡建大英帝国教育局** 规划并正式发表《大英帝国教育局构想》（A Bureau of Education for the British Empire）方案，前瞻性倡导建立跨帝国领地的比较教育协同与情报协调机制。
 > - **1911–1923** **主政利兹大学推进现代地方大学治理** 出任利兹[[Grandes Ecoles|大学校]]长（Vice-Chancellor），在英格兰北部工业重镇全力推进现代地方大学治理体制，将博雅教养与工业社会实践需求深度整合。
 > - **1917–1919** **统领加尔各答大学委员会（萨德勒委员会）重构南亚高等教育** 受英国政府委派，率团远赴英属印度出任加尔各答大学委员会（Calcutta University Commission，通称“萨德勒委员会”）主席，历时两年开展浩繁深入的[[Fieldwork\|实地调查]]，主笔撰写了长达 13 卷的里程碑式总报告。该报告不仅系统剖析了殖民地大学脱离本土社会生活与中学基础薄弱的积弊，更前瞻性提出设立完全中学与中等教育委员会、发展现代综合性大学、强化[[Normal School\|师范教育]]与女性教育等划时代方案，深刻重塑了整个 20 世纪南亚次大陆的高等与中等教育体制。
-> - **1923–1934** **执掌牛津大学大学学院与持续公共介入** 出任牛津大学大学学院院长（Master of University College, Oxford），以崇高学术声望持续参与国家公共教育政策辩论与智库咨询。
+> - **1923–1934** **执掌牛津大学大学学院与持续公共介入** 出任牛津大学大学学院院长（Master of University College, Oxford），以[[The Sublime|崇高]]学术声望持续参与国家公共教育政策辩论与智库咨询。
 > - **1943** **逝世与教育政治家历史定位** 逝世于牛津，享年 82 岁。传记学者希金森将其学术与政治生涯概括为兼具深邃学术造诣与宏阔公共眼界的“教育政治家”（Educational Statesman），始终视比较教育为推动国家制度重塑的“改革能动杠杆”（Agency of reform）。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 44–45)]]
 
 ---

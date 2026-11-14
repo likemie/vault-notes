@@ -35,6 +35,7 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[Grand Theory]]"
   - "[[National Rejuvenation Narrative]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Knowledge Transfer]]"
   - "[[Network Governance]]"
   - "[[Zhonghua Minzu]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -154,7 +155,7 @@ updated: 2026-11-11
 ---
 
 > [!person-network] 关系网络
-> - **师承与学术谱系** 李泽厚 — 当代著名哲学家，赵汀阳在中国社会科学院研究生院时期的导师，其“积淀说”与实践美学深刻影响了赵汀阳对中华文明本体连续性的思考。
+> - **师承与学术谱系** 李泽厚 — 当代著名哲学家，赵汀阳在中国社会科学院研究生院时期的导师，其“积淀说”与实践[[Philosophical Aesthetics|美学]]深刻影响了赵汀阳对中华文明本体连续性的思考。
 > - **学界引介者** 西蒙·马金森（Simon Marginson） — 英国牛津大学高等教育学者，在跨国高等教育与全球学术秩序研究中借用赵汀阳天下理论提炼[[Tianxia Heuristic|天下启发式]][[Analytic Framework|分析框架]]。
 > - **学界引介者** 杨锐（Yang Rui） — 香港大学比较教育学者，将天下体系引入中国现代大学模式建构与全球[[Knowledge Transfer|知识转移]]关系的分析中。
 > - **理论解构者** 乌拉迪恩·布拉格（Uradyn E. Bulag） — 剑桥大学社会人类学家，从[[Necropolitics|死亡政治]]、后殖民批判与族群政策实践对其天下哲学展开系统解构。

@@ -21,16 +21,30 @@ tags:
   - theme/nationalism
   - theme/philippines
   - history/southeast-asia
+related_concepts:
+  - "[[Nationalism]]"
+  - "[[Horizontal Comradeship]]"
+  - "[[Discourse]]"
+  - "[[Document]]"
+  - "[[Paradigm]]"
+  - "[[The Sublime]]"
+  - "[[Colonial Racism]]"
+related_persons:
+  - "[[Macario Sakay]]"
+  - "[[Benedict Anderson]]"
+  - "[[Jose Rizal]]"
+related_arguments:
+  - "[[Argument_Anderson_2016_Verso_Ch08]]"
 confidence: high
 status: draft
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
 
 > [!claim] 核心定性
-> 加达洛共和国（Republic of Katagalugan）是美菲战争期间由菲律宾平民革命家马卡里奥·萨凯（Macario Sakay）建立的反殖民游击政权。该政权坚持反抗美国殖民侵略，其1902年宪法确立了群岛全体人民超越种族、肤色、财产与教育差别的彻底平等原则，被[[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）作为论证反殖民民族主义具备[[Horizontal Comradeship|横向同志情谊]]、超越反向种族主义的核心历史实证。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 157–158)]]
+> 加达洛共和国（Republic of Katagalugan）是美菲战争期间由菲律宾平民革命家[[Macario Sakay|马卡里奥·萨凯]]（Macario Sakay）建立的反殖民游击政权。该政权坚持反抗美国殖民侵略，其1902年宪法确立了群岛全体人民超越种族、肤色、财产与教育差别的彻底平等原则，被[[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）作为论证反殖民[[Nationalism|民族主义]]具备[[Horizontal Comradeship|横向同志情谊]]、超越反向种族主义的核心历史实证。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 157–158)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1902年至1907年；菲律宾吕宋岛南部（黎刹省、拉古纳省、甲米地省与巴丹半岛一带的山区与农村）。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, p. 158, n. 26)]]
@@ -60,7 +74,7 @@ updated: 2026-11-13
 > |:---|:---|:---|
 > | 核心行动者 | [[Macario Sakay\|马卡里奥·萨凯]]、卡雷翁与工农战士 | 美军将领、殖民总督与本土亲美政客 |
 > | 阶级社会基础 | 农村自耕农、城市手工业者与平民知识分子 | 宗主国工商业资本、天主教保守修会与大地主买办 |
-> | 核心价值话语 | 民族完全独立、平民彻底平等、同胞合一心性 | 仁慈同化（Benevolent Assimilation）、治安规训与殖民监护 |
+> | 核心价值[[Discourse\|话语]] | 民族完全独立、平民彻底平等、同胞合一心性 | 仁慈同化（Benevolent Assimilation）、治安规训与殖民监护 |
 > | 斗争抗衡策略 | 山地机动游击、政治纲领宣传与平民群众路线 | 集中营迁移、军事清剿、将独立武装污名化为强盗 |
 >
 > **关键分歧** 双方围绕菲律宾群岛的主权归属与人民政治地位展开殊死抗衡；萨凯主张群岛人民享有完全自治与无差别的平等公民人格，殖民当局则试图将群岛锁定为由白人监护的属地市场。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 157–158)]]
@@ -68,12 +82,12 @@ updated: 2026-11-13
 ---
 
 > [!indicators] 历史影响维度
-> - **制度创生与立法实践** 在东南亚早期宪政文献中树立了彻底消除种族门第与贫富歧视的激进平权范式。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 157–158)]]
+> - **制度创生与立法实践** 在东南亚早期宪政[[Document|文献]]中树立了彻底消除种族门第与贫富歧视的激进平权[[Paradigm|范式]]。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 157–158)]]
 > - **思想范式变迁** 实证证明了受压迫民族的爱国反抗建立在普遍人道主义与兄弟情谊之上，破除了西方学界将民族主义等同于排他仇恨的偏见。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 157–158)]]
 > - **社会认同重塑** 丰富了群岛人民共同的内在心神（loób）文化，为后续全菲范围的反帝反霸斗争提供了跨族群认同资源。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, p. 158, n. 26)]]
 
 > [!finding-cards] 关键历史后果
-> - **击碎殖民污名神话** 萨凯政权的崇高纲领撕下了美军将反抗战士贬低为单纯盗匪的舆论伪装，确立其作为菲律宾民族英雄的崇高地位。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, p. 158, n. 26)]]
+> - **击碎殖民污名神话** 萨凯政权的[[The Sublime|崇高]]纲领撕下了美军将反抗战士贬低为单纯盗匪的舆论伪装，确立其作为菲律宾民族英雄的崇高地位。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, p. 158, n. 26)]]
 > - **提供无反向种族主义实证** 安德森将加达洛共和国宪法作为关键文本证据，表明反殖民民族主义从未退化为针对白人的生物仇恨。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 157–158)]]
 > - **奠定平民民族主义传统** 承接安德烈·滂尼发秀（Andrés Bonifacio）开创的平民革命路线，使激进民主意识深深植根于东南亚现代政治思想脉络。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 157–158)]]
 

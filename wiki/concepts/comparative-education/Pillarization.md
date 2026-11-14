@@ -29,6 +29,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Grandes Ecoles]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[The Sublime]]"
   - "[[Competitiveness]]"
   - "[[Unit of Analysis]]"
   - "[[Policy Network]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -197,7 +198,7 @@ updated: 2026-11-11
 > > - **行政效能批评论** 指出为了保障数千所独立小校的绝对财政对等，国家被迫建立极度繁密的审查网络，造成公共资源的严重浪费与系统适应迟滞。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 143–144)]]
 >
 > > [!axis] 教育省封闭自足保护 vs 现代[[Knowledge-Based Economy|知识经济]]与劳动力市场衔接
-> > 探讨教育体系应当作为追求崇高人文教化的自治净土，还是应当敏捷响应国家产业与就业市场需求。
+> > 探讨教育体系应当作为追求[[The Sublime|崇高]]人文教化的自治净土，还是应当敏捷响应国家产业与就业市场需求。
 > >
 > > - **教育省自治立场** 强调教育旨在培养具备健全人格与民主公民意识的自由个体，必须构筑坚固防线抵御工商业界的功利主义侵蚀。
 > > - **现代产业适应立场** 批评长期的柱状互保使学校沦落为远离现实的象牙塔，专业设置陈旧、学生修业年限过长，严重拖累了国家经济[[Competitiveness|竞争力]]。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 150–151)]]

@@ -44,6 +44,7 @@ related_concepts:
   - "[[Principle of Parsimony]]"
   - "[[Operationalization]]"
   - "[[Hypothesis]]"
+  - "[[The Sublime]]"
   - "[[Bildung]]"
   - "[[Perpetual Peace]]"
   - "[[Educational Meliorism]]"
@@ -173,7 +174,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ## 定义
@@ -246,7 +247,7 @@ updated: 2026-11-11
 > - **科学四大基本预设（Four Scientific Assumptions）** 实证研究的日常运作立足于[[Determinism\|决定论]]（因果必然性）、[[Empiricism\|经验主义]]（[[Reliability\|可靠性]]依凭经验证据）、[[Principle of Parsimony\|简约原则]]（奥卡姆剃刀与最精简解释）以及普遍性（从局部样本外推至总体）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 112–113)]]
 > - **科学探究的五阶段与假说演绎程序（Five Stages of Scientific Enquiry）** 实证[[Scientific Method\|经验科学]]遵循由莫利（Mouly, 1978）与克林格（Kerlinger, 1970）所界定的经典探究规程：由日常经验障碍激发的怀疑萌芽 $\rightarrow$ 明确界定问题与[[Variable\|变量]]边界 $\rightarrow$ 提出可[[Falsification\|证伪]]的因果假说 $\rightarrow$ 严密演绎推导假说的经验蕴涵 $\rightarrow$ 通过受控实验或[[Systematic Sampling\|系统抽样]]开展假设检验与理论修正。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 114)]]
 > - **假说演义与可[[Operationalization\|操作化]]测量（Operationalization & [[Hypothesis]]-testing）** 概念必须被转化为具体的测量指标与可量化[[Variable\|变量]]，假说必须包含潜在反驳的具体经验条件（Popper, 1968; Kerlinger, 1970）。
-> - **古典道德引领与社会改良取向（Melioristic Subordination）** 在 19 世纪现代主义发轫期，以朱利安为代表的准实证主义坚守伦理优先性，经验事实分类系统服从于医治大革命后社会道德溃败、推进全人教化与促进世界和平的崇高使命。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 13–14)]]
+> - **古典道德引领与社会改良取向（Melioristic Subordination）** 在 19 世纪现代主义发轫期，以朱利安为代表的准实证主义坚守伦理优先性，经验事实分类系统服从于医治大革命后社会道德溃败、推进全人教化与促进世界和平的[[The Sublime|崇高]]使命。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 13–14)]]
 > - **跨国量化验证与未来预测导向（Cross-national Quantification & Predictive Power）** 20 世纪中叶实证主义科学运动强调：比较研究必须超越历史回溯解释，以跨国可量化指标的操作化检验为手段，追求对未来改革后果的预测控制能力（predictive power），确立“科学比较教育”对“历史经验描述”的[[Paradigm\|范式]]替代。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 53–54)]]
 > - **战后国家规划理性与政治合法化共谋（Political Alibi for State Planning）** 20 世纪下半叶实证量化模式之所以全面压倒历史比较与哲学审辨，其核心动力在于它与战后现代民族国家推行中央五年计划、证明追加教育预算合理性（如[[Human Capital Theory\|人力资本理论]]计算）以及技术援助合法化达成了深层政治共谋；实证主义的“科学客观光环”被官僚体制借用为推行既定政策的合法性借口（alibi）。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 64, 67–68)]]; [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148)]]
 

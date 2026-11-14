@@ -43,7 +43,8 @@ related_theories: []
 related_methods:
   - "[[Intervention Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Gottfried Wilhelm Leibniz]]"
 related_facts:
   - "[[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung]]"
   - "[[SINUS]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-11-02
+updated: 2026-11-14
 ---
 
 ---
@@ -102,7 +103,7 @@ updated: 2026-11-02
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方（BLK & BMBF & 各州教育部）** 负责宏观政策审批、跨州财政 50:50 配比与 PISA 冲击后的专项科研资助追加。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 29)]]
-> - **科学研发与高校联盟** 多特蒙德大学、伍珀塔尔大学、弗伦斯堡大学与基尔大学莱布尼茨科学教育研究所（IPN）联合组成专家组，负责情境模块设计与伴随评估。
+> - **科学研发与高校联盟** 多特蒙德大学、伍珀塔尔大学、弗伦斯堡大学与基尔大学[[Gottfried Wilhelm Leibniz|莱布尼茨]]科学教育研究所（IPN）联合组成专家组，负责情境模块设计与伴随评估。
 > - **一线教研协作网（Set）** 跨校教师协作组与各州教研员协同开展单元试用、磨课研讨与同侪互访。
 > - **受试与受益对象** 参与情境单元实验教学的中学生，尤其在实验探究与科学反思中获益。
 

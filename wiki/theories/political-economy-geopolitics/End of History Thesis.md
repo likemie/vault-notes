@@ -30,6 +30,7 @@ related_concepts:
   - "[[Winner's Fallacy]]"
   - "[[Hard Power]]"
   - "[[Paradigm]]"
+  - "[[The Sublime]]"
   - "[[Construct]]"
   - "[[Perpetual Peace]]"
   - "[[Unit of Analysis]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -90,7 +91,7 @@ updated: 2026-11-11
 > | **历史的终结（End of History）** | 核心命题 | 判定人类社会组织形态的演化已达不可逾越的终极状态。 |
 > | **寻求承认的斗争（Thymos）** | 心理动力机制 | 解释人类超越单纯物质欲望、追求自身尊严与平等的根本历史驱动力。 |
 > | **普遍同质国家（Universal State）** | 制度载体 | 自由民主与市场经济相结合的现代国家[[Paradigm\|范式]]，消解了根本性阶级与身份冲突。 |
-> | **最后的人（The Last Man）** | 人性反思 | 描绘历史终结后失去崇高奋斗目标、沉溺于消费娱乐与平庸安适的现代人心理图景。 |
+> | **最后的人（The Last Man）** | 人性反思 | 描绘历史终结后失去[[The Sublime\|崇高]]奋斗目标、沉溺于消费娱乐与平庸安适的现代人心理图景。 |
 > | **胜者谬误（[[Winner's Fallacy]]）** | 批判性衍生[[Construct\|构念]] | 揭示[[Francis Fukuyama\|福山]]理论给西方战略界带来的认知麻痹，误将阶段性历史优势当成无需捍卫的[[Perpetual Peace\|永久和平]]。 |
 
 ---

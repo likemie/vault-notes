@@ -26,6 +26,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Early-Career Researchers]]"
   - "[[Document]]"
+  - "[[The Sublime]]"
   - "[[Empiricism]]"
   - "[[Proto-Scientific Motif]]"
   - "[[Educational Meliorism]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -139,7 +140,7 @@ updated: 2026-11-11
 > **[[Academic Iconography\|学科肖像学]]与传统的发明** 探讨学科如何通过符号化个别历史人物与经典文献来确立自身传统，以及这种肖像崇拜如何阻碍对历史复杂性的真实理解。
 
 > [!claim] Cowen, R.
-> **学科肖像学的反思与图腾解构** 考恩指出，比较教育学尚未理解自身的肖像学（iconographies）。以[[Michael Sadler\|迈克尔·萨德勒]]（Sir Michael Sadler）爵士为例，学科史赋予其超乎寻常的崇高地位，尽管其 1900 年关于外国教育制度研究的著名演讲在学理上带来的混乱远多于解答。萨德勒被固定在学科历史图腾之列，恰恰构成了传统的发明这一社会建构问题。此外，对于[[George Bereday\|乔治·贝雷迪]]（George Bereday）与[[Joseph Lauwerys\|约瑟夫·劳韦里斯]]（Joseph Lauwerys）等构筑跨洲思想网络的核心人物，学科同样缺乏严肃的历史学家式深层研究，往往停留于表面化的赞誉与肖像化崇拜。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
+> **学科肖像学的反思与图腾解构** 考恩指出，比较教育学尚未理解自身的肖像学（iconographies）。以[[Michael Sadler\|迈克尔·萨德勒]]（Sir Michael Sadler）爵士为例，学科史赋予其超乎寻常的[[The Sublime|崇高]]地位，尽管其 1900 年关于外国教育制度研究的著名演讲在学理上带来的混乱远多于解答。萨德勒被固定在学科历史图腾之列，恰恰构成了传统的发明这一社会建构问题。此外，对于[[George Bereday\|乔治·贝雷迪]]（George Bereday）与[[Joseph Lauwerys\|约瑟夫·劳韦里斯]]（Joseph Lauwerys）等构筑跨洲思想网络的核心人物，学科同样缺乏严肃的历史学家式深层研究，往往停留于表面化的赞誉与肖像化崇拜。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
 
 ---
 

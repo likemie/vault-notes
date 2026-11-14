@@ -28,6 +28,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Transnational Education]]"
   - "[[Discourse]]"
+  - "[[The Sublime]]"
   - "[[Hard Power]]"
   - "[[Developmentalism]]"
   - "[[Outward-Oriented Internationalization]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-29
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -123,7 +124,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题二｜官方政策[[Discourse|话语]]容易将知识外交修辞转化为国家地缘战略工具
-> **政策工具化批判** 该命题聚焦国家政策实践对知识外交概念的策略性吸纳，揭示崇高理想叙事与国家[[Hard Power|硬实力]]诉求之间的现实张力。
+> **政策工具化批判** 该命题聚焦国家政策实践对知识外交概念的策略性吸纳，揭示[[The Sublime|崇高]]理想叙事与国家[[Hard Power|硬实力]]诉求之间的现实张力。
 
 > [!claim] Woo, S.
 > **平等伙伴修辞遮蔽不对称依赖与硬实力依附** 主权国家在推动跨国高等教育战略时，倾向于在政策文本中广泛吸收知识外交所倡导的平等、包容与互利共赢叙事；然而在深层资源配置与权力运作中，此类多边合作往往深度依附于国家的经济硬实力与地缘诉求，容易演变为美化单向软实力渗透的修辞外衣。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684, 691–692)]]

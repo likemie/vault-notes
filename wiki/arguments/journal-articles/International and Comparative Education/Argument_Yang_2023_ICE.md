@@ -27,6 +27,7 @@ related_concepts:
   - "[[Brand Honeycomb Model]]"
   - "[[Operationalization]]"
   - "[[Competitiveness]]"
+  - "[[The Sublime]]"
   - "[[Learning Crisis]]"
   - "[[High-Stakes Testing]]"
   - "[[Discourse]]"
@@ -46,6 +47,7 @@ related_methods:
   - "[[Documentary Analysis]]"
   - "[[Case Study]]"
   - "[[Comparative Case Study]]"
+  - "[[Trend Study]]"
 related_instruments: []
 related_persons:
   - "[[Pasi Sahlberg]]"
@@ -71,7 +73,7 @@ sources:
 part_of:
 status: active
 created: 2026-11-10
-updated: 2026-11-11
+updated: 2026-11-14
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Yang_2023_ICE"
@@ -169,7 +171,7 @@ issuing_organization: ""
 > [!sub-claim] 3. 把教育推销与全球人道责任结合，展现化解世界教育危机的国家担当
 
 > [!mechanism] 功能利益与情感利益深度交织的双重价值定位
-> - **崇高属性促成利益交融** 学校教育的崇高属性使功能效用与情感认同紧密相融。芬兰教育品牌的功能利益定位于拥有解决世界教育问题的专业能力，情感利益定位于具有化解世界教育危机的国家责任感。
+> - **[[The Sublime|崇高]]属性促成利益交融** 学校教育的崇高属性使功能效用与情感认同紧密相融。芬兰教育品牌的功能利益定位于拥有解决世界教育问题的专业能力，情感利益定位于具有化解世界教育危机的国家责任感。
 > - **全球治理责任的战略宣示** 2018 年芬兰外交部发布《提升芬兰在教育领域的全球作用》，将芬兰描述为解决世界[[Learning Crisis|学习危机]]的责任国；2017 年教育与文化部出台《全球教育品牌芬兰行动计划》，明确表达通过输出教育智慧与解决方案引领全球教育治理的愿景。
 
 > [!sub-claim] 4. 用教少学多三大反常识悖论打造独特个性，将援助重心锁定贫困地区
@@ -206,7 +208,7 @@ issuing_organization: ""
 > - **多项测评数据的持续验证** 除 PISA 外，芬兰官方与研究机构亦系统借势[[PIRLS|国际阅读素养进展研究]]（Progress in International Reading Literacy Study, PIRLS）第二名与[[TIMSS|国际数学与科学趋势研究]]（Trends in International Mathematics and Science Study, TIMSS）科学第三名等成绩，在政府报告中持续强化芬兰教育位居一流的客观认知。
 
 > [!case] 于韦斯屈莱大学借势 PIRLS 与 TIMSS 的测评事件营销
-> 2012 年 12 月 11 日，芬兰[[Finnish Institute for Educational Research|于韦斯屈莱大学教育研究所]]面向全球媒体发布题为《芬兰学生的学习能力位居世界前列》的专题新闻通报。报告指出，芬兰教育卓越的证据不仅限于 PISA 成绩，在多项独立国际测试中均保持顶尖水准：在 2011 年国际阅读素养进展研究（PIRLS）中，芬兰在 45 个参测国中荣获总分第二名；在同年国际数学与科学趋势研究（TIMSS）中，芬兰八年级学生的[[Scientific Literacy|科学素养]]在 50 个参测国中位列全球第三，且校际间与学生间的成绩落差为全样本最小。于韦斯屈莱大学借助测评放榜时机开展事件营销，将复杂的教学质量指标转化为直观的国际排行榜单，有力巩固了芬兰教育品牌客观卓越的公信力。
+> 2012 年 12 月 11 日，芬兰[[Finnish Institute for Educational Research|于韦斯屈莱大学教育研究所]]面向全球媒体发布题为《芬兰学生的学习能力位居世界前列》的专题新闻通报。报告指出，芬兰教育卓越的证据不仅限于 PISA 成绩，在多项独立国际测试中均保持顶尖水准：在 2011 年国际阅读素养进展研究（PIRLS）中，芬兰在 45 个参测国中荣获总分第二名；在同年国际数学与科学[[Trend Study|趋势研究]]（TIMSS）中，芬兰八年级学生的[[Scientific Literacy|科学素养]]在 50 个参测国中位列全球第三，且校际间与学生间的成绩落差为全样本最小。于韦斯屈莱大学借助测评放榜时机开展事件营销，将复杂的教学质量指标转化为直观的国际排行榜单，有力巩固了芬兰教育品牌客观卓越的公信力。
 
 > [!sub-claim] 2. 接待各国使团实地考察，把教育知识打包为跨境收费产业并绑定多边援助
 

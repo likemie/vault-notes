@@ -27,6 +27,7 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Determinism]]"
   - "[[Artefact]]"
+  - "[[The Sublime]]"
   - "[[Scientific Autarky]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Academic Freedom]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-11-11
 > - **1950s–1960s — 科学政治家双轨游说与基础科学独立性守护** 回应冷战军备垄断对大学基础研究的计划性侵蚀与外部政治干预问题。
 >   - **代表著作** 《[[Basic Research and National Goals 1965|基础研究与国家目标]]》（1965）、《白宫科学家：艾森豪威尔的科学顾问日记》（*A Scientist at the White House*）。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 39)]]
 >   - **关键概念** 小科学（Little Science）、学科十年普查、[[Social Contract of Science|科学社会契约]]。
->   - **阶段转向** 摆脱狭隘的武器研发视角，致力于利用自身崇高的学术声望在政治权力与[[Scientific Autarky|科学自主]]之间搭建平衡制度；力推国会第二通道，确保国家为大学自由研究提供持续稳定的财政托底。
+>   - **阶段转向** 摆脱狭隘的武器研发视角，致力于利用自身[[The Sublime|崇高]]的学术声望在政治权力与[[Scientific Autarky|科学自主]]之间搭建平衡制度；力推国会第二通道，确保国家为大学自由研究提供持续稳定的财政托底。
 
 ---
 

@@ -23,6 +23,7 @@ tags:
   - theme/teacher-status
 related_concepts:
   - "[[Normal School]]"
+  - "[[The Sublime]]"
   - "[[Nationalism]]"
   - "[[Discourse]]"
   - "[[Kansankynttilä]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -71,7 +72,7 @@ updated: 2026-11-11
 ---
 
 > [!citation-card] 历史定性：阿克塞尔·利勒论瑞典族文化特权与防卫立场
-> 瑞典民族享有拥有更为古老且更崇高文化的特权，并通过其语言与整个斯堪的纳维亚北方保持着直接的精神纽带。瑞典语人群的使命在于保护这一不可替代的文明遗产，使之不被盲目的同质化浪潮所淹没。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 26)]]
+> 瑞典民族享有拥有更为古老且更[[The Sublime|崇高]]文化的特权，并通过其语言与整个斯堪的纳维亚北方保持着直接的精神纽带。瑞典语人群的使命在于保护这一不可替代的文明遗产，使之不被盲目的同质化浪潮所淹没。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 26)]]
 >
 > *The Swedish nationality has the privilege to own an older and higher standing culture and via its language stand in immediate spiritual connection with the entire Scandinavian north.*
 

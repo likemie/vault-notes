@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Hard Power]]"
   - "[[Technological Republic]]"
+  - "[[The Sublime]]"
   - "[[Grit]]"
   - "[[Geopolitics]]"
   - "[[Analytical Stance]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
@@ -93,7 +94,7 @@ updated: 2026-11-13
 ---
 
 > [!claim] 核心思想
-> 基辛格主张国际和平建立在各大国实力均衡与可信[[Hard Power|硬实力]]威慑的现实基石之上。在历史动力学上，他坚决反对将历史降格为盲目物质力量或社会结构的被动演进，强调具备崇高信念、深邃历史感与[[Grit|坚毅]]决断力的开拓型领袖，能够在历史的分岔口以坚强的意志打破环境束缚，开创前所未有的国家命运与文明格局。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Kissinger, 2000; Karp & Zamiska, 2025, p. 197)]]
+> 基辛格主张国际和平建立在各大国实力均衡与可信[[Hard Power|硬实力]]威慑的现实基石之上。在历史动力学上，他坚决反对将历史降格为盲目物质力量或社会结构的被动演进，强调具备[[The Sublime|崇高]]信念、深邃历史感与[[Grit|坚毅]]决断力的开拓型领袖，能够在历史的分岔口以坚强的意志打破环境束缚，开创前所未有的国家命运与文明格局。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Kissinger, 2000; Karp & Zamiska, 2025, p. 197)]]
 
 > [!citation-card] 基辛格论领袖性格对历史环境的决定性突破
 > 究竟是环境还是个人性格塑造历史进程的古老争论，最终在[[Lee Kuan Yew|李光耀]]的领导成就面前以后者胜出而告终。卓越领袖是能够在虚无与险境中重新界定国家可能性的伟大开拓者。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Kissinger, 2000, p. x; Karp & Zamiska, 2025, p. 197)]]

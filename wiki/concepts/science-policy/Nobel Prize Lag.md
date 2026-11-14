@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Original Innovation Capability]]"
   - "[[Big Science]]"
+  - "[[The Sublime]]"
   - "[[Sleeping Beauty in Science]]"
   - "[[Lost Winners]]"
   - "[[Survivorship Bias]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -65,7 +66,7 @@ updated: 2026-11-11
 > - **边界** 专指顶级终身成就奖项在成果发表与最终加冕之间的认可滞后，不同于科研手稿从投递到刊出的常规出版时滞。
 
 > [!citation-card|notitle] 诺贝尔奖授奖时滞的指数增长危机
-> 现如今受到推迟的不仅是重[[Big Science|大科学]]发现的做出时机，还有对其学术成就的正式承认。事实上，在科学家做出足以问鼎诺贝尔奖的发现与其最终正式受奖之间，横亘着一条持续拉大的时间裂隙。在 1940 年以前，仅有 11% 的物理学奖、15% 的化学奖以及 24% 的生理学或医学奖得主在做出原始突破后等待超过 20 年才斩获荣誉。自 1985 年以来，等待超过二十年的比例在上述三个学科领域分别暴增至 60%、52% 与 45%。发现与其正式承认之间的时间间隔近似服从一条指数增长曲线，预测至本世纪末，得主的平均获奖年龄很可能超过其预期寿命。鉴于诺贝尔奖绝不授予已故学者的章程规定，这一授奖时滞正在动摇这项科学界最崇高荣誉制度的基石。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 45)]]
+> 现如今受到推迟的不仅是重[[Big Science|大科学]]发现的做出时机，还有对其学术成就的正式承认。事实上，在科学家做出足以问鼎诺贝尔奖的发现与其最终正式受奖之间，横亘着一条持续拉大的时间裂隙。在 1940 年以前，仅有 11% 的物理学奖、15% 的化学奖以及 24% 的生理学或医学奖得主在做出原始突破后等待超过 20 年才斩获荣誉。自 1985 年以来，等待超过二十年的比例在上述三个学科领域分别暴增至 60%、52% 与 45%。发现与其正式承认之间的时间间隔近似服从一条指数增长曲线，预测至本世纪末，得主的平均获奖年龄很可能超过其预期寿命。鉴于诺贝尔奖绝不授予已故学者的章程规定，这一授奖时滞正在动摇这项科学界最[[The Sublime|崇高]]荣誉制度的基石。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 45)]]
 >
 > *It's not only discovery that's delayed these days – so is recognition. Indeed, there is a steadily increasing gap in time between when a scientist makes a discovery worthy of a Nobel and when she is awarded for it. Before 1940, only 11 percent of physics, 15 percent of chemistry, and 24 percent of physiology or medicine Nobel Prize recipients had to wait more than 20 years for their recognition after the original discovery. Since 1985, a two-decade delay has affected 60 percent, 52 percent, and 45 percent of the awards, respectively. The increasing interval between discovery and its formal recognition is approximated by an exponential curve, projecting that by the end of this century, the prizewinners' average age for receiving the award is likely to exceed their projected life expectancy... Given that the Nobel Prize cannot be awarded posthumously, this lag threatens to undermine science's most venerable institution.*
 

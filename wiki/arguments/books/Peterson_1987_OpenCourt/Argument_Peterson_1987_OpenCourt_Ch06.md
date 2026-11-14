@@ -34,6 +34,7 @@ related_concepts:
   - "[[International Schools]]"
   - "[[Teacher Support for Students]]"
   - "[[Advanced Placement Program]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Theory of Knowledge]]"
   - "[[Extended Essay]]"
   - "[[Twelfth-Grade Slump]]"
@@ -82,7 +83,7 @@ related_theories:
   - "[[Theory of Mind]]"
 status: draft
 created: 2026-09-01
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 ---
 
@@ -120,7 +121,7 @@ updated: 2026-11-11
 > | 1982 | 21 | 6 | 57 | 65 | 22 |
 > | 1984 | 27 | 10 | 66 | 126 | 36 |
 >
-> **图表解读** 1977–1979 年各地区增速大致接近，1980 年后北美明显脱离原有轨迹。1984 年北美学校数已接近欧洲两倍，但表格只呈现授权机构数量，不能说明每校完整文凭考生比例、课程质量或学生结果（p. 131）。
+> **图表解读** 1977–1979 年各地区增速大致接近，1980 年后北美明显脱离原有轨迹。1984 年北[[Philosophical Aesthetics|美学]]校数已接近欧洲两倍，但表格只呈现授权机构数量，不能说明每校完整文凭考生比例、课程质量或学生结果（p. 131）。
 
 > [!example] 图6-1：第10,000份[[International Baccalaureate\|国际文凭]]的颁发
 > ![](https://img.mylikemie.icu/books/Peterson_1987_OpenCourt/figures/Figure_6-1_10000th_IB_Diploma.jpg)

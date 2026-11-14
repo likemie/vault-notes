@@ -22,6 +22,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Consumer Internet]]"
   - "[[Technological Agnosticism]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Big Science]]"
   - "[[Problematisation]]"
   - "[[Hard Power]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -60,7 +61,7 @@ updated: 2026-11-11
 > [!concept-lens] 概念透镜
 > - **含义** 揭示个人电脑与软件革命是深受 1960 年代反战、民权及反权威思潮浸染的文化政治产物，有别于单纯的工程突破。
 > - **用途** 解释硅谷技术先驱在文化上天然亲近个体自由主义、对政府防务合作持有道德洁癖的深层思想根源。
-> - **边界** 不等于单纯的技术黑客活动（Hacking）；它是一套包含出版物（如《全球概览》）、社区社团（如[[Homebrew Computer Club|家酿计算机俱乐部]]）与设计美学的宏大文化运动。
+> - **边界** 不等于单纯的技术黑客活动（Hacking）；它是一套包含出版物（如《全球概览》）、社区社团（如[[Homebrew Computer Club|家酿计算机俱乐部]]）与设计[[Philosophical Aesthetics|美学]]的宏大文化运动。
 
 > [!citation-card] 布兰德论反文化作为计算机革命的哲学基石
 > 反文化对中央集权的蔑视，不仅为无领导的互联网，而且为整个个人计算机革命提供了哲学基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, p. 98)]]

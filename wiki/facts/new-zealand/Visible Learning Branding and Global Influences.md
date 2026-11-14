@@ -45,6 +45,7 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Paradigm]]"
+  - "[[The Sublime]]"
   - "[[Grand Theory]]"
   - "[[Policy Entrepreneur]]"
   - "[[Educational Management Organisation]]"
@@ -101,7 +102,7 @@ related_instruments:
 confidence: high
 status: stable
 created: '2026-05-04'
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 > [!claim] 核心定性
@@ -230,7 +231,7 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > *Hattie's present modus operandi in global networking might reasonably be characterised as a seamless blend of public good, not-for-profit and for-profit policy entrepreneurship and advocacy.*
 
 > [!citation-card] 约翰逊与詹岑论跨国出版巨头收购与公立学校特许加盟化
-> 2018 年，年营业额估算达 5000 万美元的跨国出版巨头[[Corwin Press|考文出版社]]从认知教育手中全面收购了 Visible Learningplus 的专营权，进一步将可见学习推向全球化的商业变现流水线。学校被重塑为管理森严的特许加盟店，由沦为技术操作工的教师提供一套标准化的教学核查清单。针对测验成绩下滑的人为恐慌，可见学习承诺提供简单廉价的微观处方，却完全漠视了关于教育崇高宗旨的更[[Grand Theory|宏大叙事]]。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 24–25, 29–31)]]
+> 2018 年，年营业额估算达 5000 万美元的跨国出版巨头[[Corwin Press|考文出版社]]从认知教育手中全面收购了 Visible Learningplus 的专营权，进一步将可见学习推向全球化的商业变现流水线。学校被重塑为管理森严的特许加盟店，由沦为技术操作工的教师提供一套标准化的教学核查清单。针对测验成绩下滑的人为恐慌，可见学习承诺提供简单廉价的微观处方，却完全漠视了关于教育[[The Sublime|崇高]]宗旨的更[[Grand Theory|宏大叙事]]。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 24–25, 29–31)]]
 >
 > *In 2018, Corwin Press, a publishing powerhouse with estimated annual revenues of \$50 million, acquired Visible Learningplus from Cognition Education... Prescriptive teaching ceases to be an ethical, relational profession. Schools are recast as tightly managed franchises, staffed by teacher technicians, delivering a checklist of best practice teaching strategies... It promises simple, cheap, classroom level fixes to manufactured alarm surrounding achievement scores.*
 

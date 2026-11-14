@@ -26,6 +26,7 @@ tags:
   - theme/research-synthesis
   - theme/evidence-based-policy
 related_concepts:
+  - "[[The Sublime]]"
   - "[[Document]]"
   - "[[Research Utilization]]"
   - "[[Output-Oriented Governance]]"
@@ -39,6 +40,7 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Knowledge Production]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Curriculum Alignment]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Policy Window]]"
   - "[[Social Science as Legitimation Alibi]]"
@@ -49,7 +51,8 @@ related_methods:
   - "[[Research Synthesis]]"
   - "[[Knowledge Extent]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Andrew Porter]]"
 related_facts:
   - "[[National Academy of Sciences]]"
   - "[[Swedish National Agency for Education]]"
@@ -67,13 +70,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-26
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
 
 > [!claim] 核心定位
-> 美国国家科学研究委员会（National Research Council, NRC）是[[National Academy of Sciences|美国国家科学院]]（National Academy of Sciences, NAS）、国家工程院（[[Swedish National Agency for Education|NAE]]）和国家医学院（NAM）三大学术院联合设立的主导常设运营中枢与国家最高科学咨询实体。该机构遵循[[United States Congress|美国国会]]法定特许状运作，以出具具有崇高学术公信力、超越两党政治偏见的独立同行评审[[Research Synthesis|证据综合]]报告著称；在教育政策领域，NRC 既在[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）运动初期系统审查全美基于标准的问责制实证[[Document|文献]]并确立顶层科学合法性（[[Argument_McDonnell_2013_AmJE|McDonnell & Weatherford, 2013]]），又在 2012 年里程碑报告《公共政策中的科学[[Research Utilization|证据使用]]》中系统提炼出学者介入[[Output-Oriented Governance|循证治理]]面临的结构性两难。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–10)]]; [[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 654)]]
+> 美国国家科学研究委员会（National Research Council, NRC）是[[National Academy of Sciences|美国国家科学院]]（National Academy of Sciences, NAS）、国家工程院（[[Swedish National Agency for Education|NAE]]）和国家医学院（NAM）三大学术院联合设立的主导常设运营中枢与国家最高科学咨询实体。该机构遵循[[United States Congress|美国国会]]法定特许状运作，以出具具有[[The Sublime|崇高]]学术公信力、超越两党政治偏见的独立同行评审[[Research Synthesis|证据综合]]报告著称；在教育政策领域，NRC 既在[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）运动初期系统审查全美基于标准的问责制实证[[Document|文献]]并确立顶层科学合法性（[[Argument_McDonnell_2013_AmJE|McDonnell & Weatherford, 2013]]），又在 2012 年里程碑报告《公共政策中的科学[[Research Utilization|证据使用]]》中系统提炼出学者介入[[Output-Oriented Governance|循证治理]]面临的结构性两难。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–10)]]; [[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 654)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 创立于 1916 年。由时任美国总统伍德罗·威尔逊（Woodrow Wilson）倡议成立，旨在将全美顶尖科学家与技术专家的智力资源组织化，为联邦政府及各州在重大公共危机与战略决策中提供独立、客观且经严格同行评审的科学咨询。
@@ -115,7 +118,7 @@ updated: 2026-11-11
 
 > [!pathways] 业务运行机制
 > - **议程设置与选题确立** 接受国会法定授权、联邦行政部门委托或基金会定向资助，确保课题切中重大国家战略需求与政策前沿。
-> - **实证证据精细梳理与转译** 在 [[Common Core State Standards|CCSS]] 研讨中，NRC 重点聚焦两大实证研究线索：一是安德鲁·波特（Andrew Porter）团队对全美 31 个州课程标准的精细微观比对，揭露各州大纲在[[Knowledge Extent|知识广度]]与深度上的巨大混乱；二是将各州及格标准映射到[[National Assessment of Educational Progress|全国教育进展评估]]（[[National Assessment of Educational Progress|NAEP]]）上的实证研究。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 10)]]
+> - **实证证据精细梳理与转译** 在 [[Common Core State Standards|CCSS]] 研讨中，NRC 重点聚焦两大实证研究线索：一是[[Andrew Porter|安德鲁·波特]]（Andrew Porter）团队对全美 31 个州课程标准的精细微观比对，揭露各州大纲在[[Knowledge Extent|知识广度]]与深度上的巨大混乱；二是将各州及格标准映射到[[National Assessment of Educational Progress|全国教育进展评估]]（[[National Assessment of Educational Progress|NAEP]]）上的实证研究。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 10)]]
 > - **质量控制与透明度保障** 执行严格的利益申报公开、委员会构成平衡审查、独立同行评议以及审查意见强制答辩机制，确保研究过程免受资助方意志干预。
 
 ---
@@ -141,7 +144,7 @@ updated: 2026-11-11
 > [!finding-cards] 关键成效与辐射影响
 > - **为全国标准运动提供科学权威立论** 成功将各州分散标准的问题从单纯的政治利益诉求，提升为经国家最高学术机构认定的“国家教育体系质量危机”，赋予通用标准以坚实的科学正当性。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–10)]]
 > - **界定“必要但不充分”的学术审慎边界** 报告明确提醒政策界：统一标准仅是提升学业质量的[[Necessary and Sufficient Conditions|必要条件]]而非充分条件，必须配套教材与师资支持，为后续改革注入了清醒的专业防范意识。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 12)]]
-> - **推动将课程对标技术引入决策主流** 使安德鲁·波特的课程一致性测量工具与 NCES 的刻度映射分析直接转化为全美州长峰会的决策议题。
+> - **推动将课程对标技术引入决策主流** 使安德鲁·波特的[[Curriculum Alignment|课程一致性]]测量工具与 NCES 的刻度映射分析直接转化为全美州长峰会的决策议题。
 
 > [!stat-cards]- 核心规模数据
 > - **1916** NRC 创立年份。

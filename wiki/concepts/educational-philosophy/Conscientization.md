@@ -36,6 +36,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Value Neutrality]]"
   - "[[South-South Cooperation]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Reflexivity]]"
   - "[[Active Learning]]"
   - "[[Epistemic Agency]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-25
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -141,7 +142,7 @@ updated: 2026-11-03
 > **跨国[[Policy Mobility|政策流动]]与代表性知识扩散维度** 探讨基于本土扎根与道义团结的意识化如何打破全球北方技术垄断，开创从全球南方反向流向北方的跨国解放[[Paradigm|范式]]。
 
 > [!claim] Stone, D., Porto de Oliveira, O., & Pal, L. A.
-> **意识化的代表性知识属性与跨国反向扩散** 黛安·斯通等学者（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）指出，保罗·弗莱雷在 20 世纪 60 年代巴西东北部贫困地区的成人扫盲实践中，开创了以意识化（Conscientização）与批判性对话为标志的[[Critical Pedagogy|批判教育学]]。弗莱雷的理论权威直接建立在与底层失地农民休戚与共的生存体验及分配正义信念之上，有别于北方主流的形式化资质与[[Value Neutrality|价值中立]]修辞，构成典型的“代表性知识”（Representational Knowledge）。20 世纪 70 年代，弗莱雷流亡日内瓦并与坦桑尼亚总统朱利叶斯·尼雷尔（Julius Nyerere）等南方领袖开展[[South-South Cooperation|南南合作]]，推动以意识化为核心的代表性知识反向流动至日内瓦、欧洲和北美学术界，打破了全球北方对教育知识流动的单向技术垄断，在跨国政策空间确立了具有南方向北方扩散特征的解放范式。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 6–7)]]
+> **意识化的代表性知识属性与跨国反向扩散** 黛安·斯通等学者（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）指出，保罗·弗莱雷在 20 世纪 60 年代巴西东北部贫困地区的成人扫盲实践中，开创了以意识化（Conscientização）与批判性对话为标志的[[Critical Pedagogy|批判教育学]]。弗莱雷的理论权威直接建立在与底层失地农民休戚与共的生存体验及分配正义信念之上，有别于北方主流的形式化资质与[[Value Neutrality|价值中立]]修辞，构成典型的“代表性知识”（Representational Knowledge）。20 世纪 70 年代，弗莱雷流亡日内瓦并与坦桑尼亚总统朱利叶斯·尼雷尔（Julius Nyerere）等南方领袖开展[[South-South Cooperation|南南合作]]，推动以意识化为核心的代表性知识反向流动至日内瓦、欧洲和北[[Philosophical Aesthetics|美学]]术界，打破了全球北方对教育知识流动的单向技术垄断，在跨国政策空间确立了具有南方向北方扩散特征的解放范式。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 6–7)]]
 
 ---
 

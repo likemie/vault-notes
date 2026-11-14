@@ -52,6 +52,7 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Conatus]]"
   - "[[STEM Education]]"
+  - "[[The Sublime]]"
   - "[[Early-Career Researchers]]"
   - "[[Knowledge Co-production]]"
   - "[[Research Impact]]"
@@ -88,7 +89,7 @@ related_facts:
 related_arguments: []
 status: draft
 created: 2026-09-04
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 ---
 
@@ -230,7 +231,7 @@ updated: 2026-11-11
 
 > [!sub-claim] 主题二：参与认知的深刻去精英化与反哺科研质量共识（p. 95）
 
-科研人员对公众参与在学术体系中的地位认知发生了结构性转变：参与不仅被广泛视为一项崇高的道德职责，更被科研人员自身深刻体会到其对激发自身研究激情以及拓展研究深度的巨大价值。
+科研人员对公众参与在学术体系中的地位认知发生了结构性转变：参与不仅被广泛视为一项[[The Sublime|崇高]]的道德职责，更被科研人员自身深刻体会到其对激发自身研究激情以及拓展研究深度的巨大价值。
 
 最引人瞩目的变化在于参与主体的“去精英化”与“全员化”——认为公众参与“最适合由资深研究人员承担”（Best done by senior researchers）的受访者比例，从 2006 年的 44% 骤降至 2015 年的 21%，并在 2025 年彻底跌至 9% 的冰点；同时，认为参与应由“受训专业人员全权承担”（Best done by trained professionals）的比例亦回落至 20%。这充分表明，广大早期职业研究人员（[[Early-Career Researchers]], ECRs）、博士后与普通教职学者已经普遍建立起直面公众的自主信心，彻底终结了“科普是资深学者专利”的旧有范式（图 7，p. 95）。
 

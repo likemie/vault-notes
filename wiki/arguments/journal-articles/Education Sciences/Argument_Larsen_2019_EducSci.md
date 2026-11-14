@@ -48,6 +48,7 @@ related_concepts:
   - "[[Theoretical Knowledge]]"
   - "[[Neuromyth]]"
   - "[[Document]]"
+  - "[[The Sublime]]"
   - "[[Student Well-being]]"
   - "[[Pedagogical Subject]]"
   - "[[Reform Pedagogy]]"
@@ -94,7 +95,7 @@ sources:
 part_of: ''
 status: stable
 created: '2026-05-04'
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 ---
 
@@ -263,7 +264,7 @@ updated: 2026-11-13
 可见学习对学生心智透明度的执着追求，在西方思想史中有着深厚的权力谱系。
 
 > [!proc] 视觉控制技术的演变：从神圣凝视到算法测度
-> 1. **神学起点：全知全能上帝的绝对穿透** 北非早期教父圣奥古斯丁在《忏悔录》第三卷中提出著名命题：上帝审视我，比我审视内心更为幽深，上帝居于我之顶巅更崇高之处（*interior intimo meo, superior summo meo*）。
+> 1. **神学起点：全知全能上帝的绝对穿透** 北非早期教父圣奥古斯丁在《忏悔录》第三卷中提出著名命题：上帝审视我，比我审视内心更为幽深，上帝居于我之顶巅更[[The Sublime|崇高]]之处（*interior intimo meo, superior summo meo*）。
 > 2. **权力机制：持续凝视与强迫自我审判** [[Peter Sloterdijk|彼得·斯洛特戴克]]（Peter Sloterdijk）在《后上帝时代》中解构该传统，指出这套神学修辞催生了来自上方的恒常监视（Dauerbeobachtung）与内化于心的强迫自省（Zwang zur Selbstbeobachtung）。
 > 3. **世俗化转移：从神职代行到管理理性** 伴随世俗化进程，全知全视（*omnes videndes*）的神权被移交给启蒙时代的规划师、统计官僚与政治家。
 > 4. **当代终局：算法统治与 [[PISA]] 测验体制** 现代教育测评、[[Student Well-being|学生幸福感]]指数与算法监控全面接管神权凝视，了解自身影响（know thy impact）的技术律令将学校从精神自由探究的场所异化为数据规训工厂。

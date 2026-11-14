@@ -21,7 +21,6 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Discourse]]"
   - "[[Ideal Learner]]"
-  - "[[Refined Mastery]]"
   - "[[Take the World Upon Oneself]]"
   - "[[Western Learner]]"
   - "[[Chinese Learner]]"
@@ -29,6 +28,7 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Humility]]"
   - "[[Pride in Learning]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Concept Mapping]]"
   - "[[Confucian Tutoring Style]]"
   - "[[Cognitive Source]]"
@@ -52,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 > [!info] 定义
@@ -77,7 +77,7 @@ updated: 2026-11-11
 ### 2. 勤奋／发奋（Diligence / Self-Exertion — qínfèn / fāfèn）
 
 > [!info] 文本传统
-> 在做出真诚承诺之后，将承诺转化为持续的学习行动。勤奋要求学习者"在学习上花费大量时间"，这被认为能"增加熟悉度，从而开启[[Refined Mastery\|精通]]的机会"([[Argument_Li_2012_Cambridge\|Li, 2012, pp.49-50]])。
+> 在做出真诚承诺之后，将承诺转化为持续的学习行动。勤奋要求学习者"在学习上花费大量时间"，这被认为能"增加熟悉度，从而开启精通的机会"([[Argument_Li_2012_Cambridge\|Li, 2012, pp.49-50]])。
 
 > [!success] 实证发现
 > 在实证研究中，勤奋（qinfen）指做出明确决心之后的**频繁学习行为**——因此意味着大量时间投入。一个独特的实证细节：学习者常在做出决心后与家人、密友或教师**分享学习目标**，这些"见证人"（witnesses）负责监督决心与后续行动的一致性([[Argument_Li_2012_Cambridge\|Li, 2012, pp.91-92]])。这显示了勤奋不仅是个体内在品质，还是**社会嵌入的行为**——与 [[Take the World Upon Oneself\|以天下为己任]] 中"学习者的社会角色"一脉相承。
@@ -156,7 +156,7 @@ updated: 2026-11-11
 > > 七岁神童项橐向已经享有盛名的孔子提出问题而孔子无法回答时，孔子承认项橐为他的老师。孔子在自身巨大成就的背景下展示的谦虚，为中国学习者树立了明确的榜样。
 
 > [!success] 实证发现
-> 谦虚在当代的理想学习者描述中表现为对成就的**冷静与谦逊**——"即使内心高兴，也需要保持平静和谦虚"([[Argument_Li_2012_Cambridge\|Li, 2012, p.96]])。对中国学习者来说，谦虚不被视为个人弱点，而被视为**个人力量和勇气**——与欧美学习者对成就的"自豪"（pride）形成系统性对比([[Argument_Li_2012_Cambridge\|Li, 2012, pp.95-96]])。
+> 谦虚在当代的理想学习者描述中表现为对成就的**冷静与谦逊**——"即使内心高兴，也需要保持平静和谦虚"([[Argument_Li_2012_Cambridge\|Li, 2012, p.96]])。对中国学习者来说，谦虚不被视为个人弱点，而被视为**个人力量和勇气**——与欧[[Philosophical Aesthetics|美学]]习者对成就的"自豪"（pride）形成系统性对比([[Argument_Li_2012_Cambridge\|Li, 2012, pp.95-96]])。
 
 ---
 

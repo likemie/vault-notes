@@ -27,6 +27,7 @@ related_concepts:
   - "[[Document]]"
   - "[[International Education]]"
   - "[[Paradigm]]"
+  - "[[The Sublime]]"
   - "[[Comprehensive Education]]"
   - "[[Intercultural Education]]"
   - "[[Epistemology]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-11-02
+updated: 2026-11-14
 ---
 
 ---
@@ -91,7 +92,7 @@ updated: 2026-11-02
 > - **1981–1985** **主政[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）架设冷战学术桥梁** 当选并连任欧洲比较教育学会（CESE）会长，恪守学者个人会员制原则，积极打破东西欧阵营壁垒，促成铁幕两侧教育学者的制度化对话。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 91–92)]]
 > - **1991–1996** **主政[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES）引领全球网络重组** 在柏林墙倒塌与苏东剧变后出任 WCCES 会长，组织协调后社会主义国家的教育体制转型评估，推动跨大洲学术对话与理论重构。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
 > - **2009** **发表巨著《欧洲的比较教育》奠定两百年学科史权判定评** 为考恩与卡扎米亚斯主编的《比较教育学国际手册》撰写长篇专论《欧洲的比较教育》（*Comparative [[Education in Europe]]*），从地缘版图、[[Paradigm|范式]]更迭、学会社会学与政策光谱对欧洲比较教育两百年历史展开全景式总结。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87–99)]]
-> - **2014** **逝世于德国美因茨与历史定论** 逝世于德国美因茨，享年 87 岁。学术界高度评价其作为欧洲比较教育学会政治中立与理性导航守护者的崇高学术声望。
+> - **2014** **逝世于德国美因茨与历史定论** 逝世于德国美因茨，享年 87 岁。学术界高度评价其作为欧洲比较教育学会政治中立与理性导航守护者的[[The Sublime|崇高]]学术声望。
 
 ---
 

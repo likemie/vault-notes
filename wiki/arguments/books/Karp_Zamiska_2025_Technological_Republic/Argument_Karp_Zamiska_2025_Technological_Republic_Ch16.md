@@ -42,6 +42,7 @@ related_concepts:
   - "[[Engineering Mindset]]"
   - "[[Paradigm]]"
   - "[[Red Tape]]"
+  - "[[The Sublime]]"
   - "[[Performativity]]"
   - "[[Sage]]"
   - "[[Competitiveness]]"
@@ -65,7 +66,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 ---
 
@@ -107,7 +108,7 @@ updated: 2026-11-11
 
 ### 一、 西方公职法定薪酬过低迫使政界沦为富豪志愿俱乐部与离职变现跳板
 
-现代西方政治体系陷入了一种表面崇高、实则极度虚伪的薪酬激励悖论。
+现代西方政治体系陷入了一种表面[[The Sublime|崇高]]、实则极度虚伪的薪酬激励悖论。
 
 > [!stat-cards]- 华盛顿公职薪酬与富豪从政关键数据
 > - **\$190K** 美联储主席法定年薪，不及华尔街投资银行初级分析师总收入。

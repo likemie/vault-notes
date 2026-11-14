@@ -41,6 +41,7 @@ related_methods:
   - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
+  - "[[Gottfried Wilhelm Leibniz]]"
   - "[[Richard J. Shavelson]]"
 related_facts:
   - "[[Clearing House Unterricht]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-11-14
 ---
 
 ---
@@ -67,7 +68,7 @@ updated: 2026-10-22
 > [!timeline] 生平与职涯
 > - **1974** 出生于德国巴伐利亚州。
 > - **1994–2000** 于雷根斯堡大学与慕尼黑大学攻读心理学与教育学，获心理学硕士学位。
-> - **2000–2003** 进入基尔大学莱布尼茨科学与数学教育研究所（IPN），参与德国视频教学分析重大专项，获心理学博士学位。
+> - **2000–2003** 进入基尔大学[[Gottfried Wilhelm Leibniz|莱布尼茨]]科学与数学教育研究所（IPN），参与德国视频教学分析重大专项，获心理学博士学位。
 > - **2005–2006** 赴美国斯坦福大学教育学院担任访问学者，与[[Richard J. Shavelson\|理查德·沙维尔森]]（Richard J. Shavelson）展开深度学术合作，系统梳理国际[[Effective Teaching\|有效教学]][[Meta-analysis\|元分析]]。
 > - **2007** 在国际权威期刊 *Review of Educational Research* 发表有效教学十年元分析综述，奠定在教学有效性综合领域的国际学术声誉。
 > - **2007–2009** 担任耶拿大学教育心理学教授。

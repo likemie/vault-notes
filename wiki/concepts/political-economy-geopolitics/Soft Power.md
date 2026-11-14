@@ -36,6 +36,8 @@ related_concepts:
   - "[[Knowledge Diplomacy]]"
   - "[[Façade of Rationality]]"
   - "[[Study Abroad]]"
+  - "[[Language-of-State]]"
+  - "[[The Sublime]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Epistemic Community]]"
   - "[[Educational Soft Power]]"
@@ -44,12 +46,12 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Winner's Fallacy]]"
   - "[[Power Conversion Dilemma]]"
+  - "[[International Branch Campus]]"
   - "[[Policy Borrowing]]"
   - "[[South-South Cooperation]]"
   - "[[Governing by Numbers]]"
   - "[[Educational Diplomacy]]"
   - "[[Alumnus Effect]]"
-  - "[[International Branch Campus]]"
   - "[[Education Going Global]]"
   - "[[Technological Republic]]"
   - "[[Cultural Recognition]]"
@@ -89,6 +91,8 @@ related_facts:
   - "[[Systems Approach for Better Education Results]]"
   - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Xiamen University Malaysia]]"
+  - "[[Soochow University in Laos]]"
+  - "[[Bangkok Business School]]"
 related_arguments:
   - "[[Argument_Yu_Xie_2025_JHE]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -97,13 +101,14 @@ related_arguments:
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
   - "[[Argument_Custer_2021_AidData]]"
+  - "[[Argument_He_2018_HEP]]"
   - "[[Argument_Velasco_2022_CSJ]]"
   - "[[Argument_Zhu_Yang_2023_HEP]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
 confidence: high
 status: active
 created: 2026-06-29
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
@@ -149,12 +154,12 @@ updated: 2026-11-13
 > | **核心资源** | 军事装备、金融储备、经济制裁壁垒 | 文化产品、政治哲学、对外援助声誉 | 物质惩罚工具与规范认同工具的战略组合 | 跨国可比统计量、标准化测评、[[Performance Indicators\|绩效指标]]数据库 |
 > | **权力作用机制** | 指挥式权力：强制服从、威慑与金钱收买 | 同化式权力：规范吸引、制度示范与价值内化 | 上下文智力：依据情境灵活配置胡萝卜与大棒 | 认识论规制：通过“事实”定义问题、数字作为[[Façade of Rationality\|理性表象]]的脚手架与同行互评 |
 > | **主导行为体** | 主权民族国家、地缘军事集团 | 主权国家、国家文化机构（[[Confucius\|孔子]]学院/歌德学院） | 国家外交决策层、国防与外贸联合部门 | 国际政府间组织（[[OECD]]、世界银行）、跨国智库与非政府评估网络 |
-> | **在教育中的表现** | 冻结[[Study Abroad\|留学]]签证、科研禁运、关闭涉外办学项目 | 设立政府奖学金、输出本国课程、推广国家语言 | 附带政治条件的教育贷款、定向人才培养协议 | [[PISA]] 跨国排名的软治理、SABER 政策工具箱、最佳实践模板推介 |
+> | **在教育中的表现** | 冻结[[Study Abroad\|留学]]签证、科研禁运、关闭涉外办学项目 | 设立政府奖学金、输出本国课程、推广[[Language-of-State\|国家语言]] | 附带政治条件的教育贷款、定向人才培养协议 | [[PISA]] 跨国排名的软治理、SABER 政策工具箱、最佳实践模板推介 |
 
 ---
 
 > [!feature] 核心要素与运作机制
-> - **非强制性吸引力机制（Attraction Mechanism）** 软实力的核心机制在于通过展示具有吸引力的文化生活方式、崇高的制度理念或被普遍认可的发展成就，促使他国自主产生认同并调整自身政策偏好，区别于诉诸武力威胁或经济利诱的强制逻辑。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 10–11)]]
+> - **非强制性吸引力机制（Attraction Mechanism）** 软实力的核心机制在于通过展示具有吸引力的文化生活方式、[[The Sublime|崇高]]的制度理念或被普遍认可的发展成就，促使他国自主产生认同并调整自身政策偏好，区别于诉诸武力威胁或经济利诱的强制逻辑。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 10–11)]]
 > - **国际议程设置与规范合法性（Agenda-Setting & Normative Legitimacy）** 奈强调，在全球化与高度媒介化的信息时代，使自身的治理准则被公认为普遍真理、将自身的战略关切上升为跨国制度议程的能力，构成了当代大国软实力的最高表现形式。
 > - **探究与调解的双重运作模式** 国际治理体系中软实力的行使依托两种相辅相成的实践路径：探究模式通过客观指标与普查监测搜集跨国信息，建立不可撼动的认知权威；调解模式在此认知基座上提供政策工具与咨询建议，促成主权国家的自愿趋同。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 270–272)]]
 > - **高等教育跨国流动的三重传导路径** 在全球[[Geopolitics of Higher Education|高等教育地缘政治]]中，国家通过三种机制投射软实力：一是通过特色课程体系与学术标准引导国际留学生形成对本国发展道路的认同；二是通过科研合作与[[Discourse|话语]]输出建立国际社会对本国制度价值的信任；三是将教育伙伴关系无缝融入对外战略与经济合作走廊。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
@@ -222,7 +227,7 @@ updated: 2026-11-13
 > **[[Power Conversion Dilemma|权力转化困境]]阻滞政治信任** 中国在南亚与中亚的大规模教育资助、奖学金供给与职业技能培训有效满足了对象国青年的实用就业诉求，但基于经济收益预期的实用偏好未能转化为对大国外交战略的深层政治认同。受援国民调显示，教育资金与机构布点并未带来政策评价的显著提升；面对驻在国族群政治敏感性与边境安全争端，教育软实力呈现出显著的转化困境与脆弱边界。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 23–24, 62–66, 72–75)]]
 
 > [!claim] He, L. & Wilkins, S.
-> **既有存量借用与经济硬实力依附** 何岚（Lan He）与斯蒂芬·威尔金斯（Stephen Wilkins）对老挝、马来西亚与泰国的中国大学国际分校调研指出，海外分校直接回流并借用东道国千百年来积淀的中华历史文化与语言认知存量；驱动当地学生求学的根本动力源于经贸硬实力与中资企业出海带来的岗位薪资溢价，软实力投射深层依附于经济硬实力的支撑。[[Argument_He_2018_HEP|(He & Wilkins, 2018, pp. 333–335)]]
+> **既有存量借用与经济硬实力依附** 何岚（Lan He）与斯蒂芬·威尔金斯（Stephen Wilkins）对老挝、马来西亚与泰国的中国大学[[International Branch Campus|国际分校]]调研指出，海外分校直接回流并借用东道国千百年来积淀的中华历史文化与语言认知存量；驱动当地学生求学的根本动力源于经贸硬实力与中资企业出海带来的岗位薪资溢价，软实力投射深层依附于经济硬实力的支撑。[[Argument_He_2018_HEP|(He & Wilkins, 2018, pp. 333–335)]]
 
 ---
 
@@ -292,7 +297,7 @@ updated: 2026-11-13
 > | **中柬跨境高等教育联合示范** | 综合性大学跨国分校与澜湄科技交流工坊 | 柬埔寨受援高校工程学科建设中中方师资与实验室设备占比逾 70% | 超越单向文化同化，在共建经贸走廊中实现科技卓越展演与国家发展治理经验的互构认同 | [[Argument_Zhu_Yang_2025_HE\|(Zhu & Yang, 2025)]] |
 > | **南亚与中亚教育公共外交** | 中国官方：251 项教育援助、35.8 万个奖学金名额、65 所孔子机构、高校全英文授课 | 52% 人文触点集聚于 16 个核心城市；86% 精英不会汉语但 64% 出于经贸就业意愿期望提升 | 创造实用技能红利但未能转化为深层政治互信，在地缘军事摩擦与族群政治敏感面前极为脆弱 | [[Argument_Custer_2021_AidData\|(Custer et al., 2021)]] |
 > | **东南亚高教外交与软实力指标** | [[Ministry of Education of the People's Republic of China\|中国教育部]]、孔子学院与高校境外分校 | 2018 年东南亚在华留学生约 8 万人，设立 31 所孔院与[[Xiamen University Malaysia\|厦大马校]]等；Soft Power 30 指数排第 27 位（文化/参与高但教育下滑） | 触发短期校友积极情感与长期准外交中介，但受南海领土争端与地缘历史戒心制约面临转化阻滞 | [[Argument_Velasco_2022_CSJ\|(Velasco, 2022)]] |
-> | **东南亚境外办学分校** | 中国高校海外实体分校（老挝苏大、厦大马校、曼谷商学院） | 3 所部批分校，16 位知情人访谈，涵盖 7 项教育软实力指标 | 证明分校依靠借用既有文化存量稳固办学，中文求学动力直接来自经贸硬实力与中企岗位溢价 | [[Argument_He_2018_HEP\|(He & Wilkins, 2018)]] |
+> | **东南亚境外办学分校** | 中国高校海外实体分校（[[Soochow University in Laos\|老挝苏大]]、厦大马校、[[Bangkok Business School\|曼谷商学院]]） | 3 所部批分校，16 位知情人访谈，涵盖 7 项教育软实力指标 | 证明分校依靠借用既有文化存量稳固办学，中文求学动力直接来自经贸硬实力与中企岗位溢价 | [[Argument_He_2018_HEP\|(He & Wilkins, 2018)]] |
 
 ---
 

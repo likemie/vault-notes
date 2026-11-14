@@ -25,6 +25,7 @@ tags:
   - region/singapore
 related_concepts:
   - "[[Competitiveness]]"
+  - "[[The Sublime]]"
   - "[[Technological Republic]]"
 related_persons:
   - "[[Lee Kuan Yew]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-26
+updated: 2026-11-14
 ---
 
 ---
@@ -58,7 +59,7 @@ updated: 2026-10-26
 > - **约束机制** 配套极其严苛的《防止贪污法令》（Prevention of Corruption Act）与贪污调查局（Corrupt Practices Investigation Bureau, CPIB）执法，形成高薪养廉与违法必惩的权责对称机制。
 
 > [!citation-card] [[Lee Kuan Yew|李光耀]]论公共职位的人性现实与激励
-> 政治家是有血有肉、有现实抱负的普通人；当我们谈论高尚崇高的理想时，归根结底极少有人会成为神职人员。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
+> 政治家是有血有肉、有现实抱负的普通人；当我们谈论高尚[[The Sublime|崇高]]的理想时，归根结底极少有人会成为神职人员。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
 >
 > *Lee responded that politicians “are real men and women, just like you and me, with real families who have real aspirations in life.” He continued: “So when we talk of all these high-falutin, noble, lofty causes, remember at the end of the day, very few people become priests.”*
 

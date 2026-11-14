@@ -86,6 +86,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Humanistic Episteme]]"
   - "[[Axiology]]"
+  - "[[The Sublime]]"
   - "[[Research Scope]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
@@ -113,6 +114,7 @@ related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Plato]]"
   - "[[Aristotle]]"
+  - "[[Martin Luther]]"
   - "[[Francis Bacon]]"
   - "[[René Descartes]]"
   - "[[Jean-Jacques Rousseau]]"
@@ -125,6 +127,7 @@ related_facts:
   - "[[Department for Education]]"
   - "[[National Education]]"
   - "[[Grammar School]]"
+  - "[[Toward a Science of Comparative Education 1969]]"
   - "[[Esquisse d'un ouvrage sur l'éducation comparée]]"
 related_theories:
   - "[[Structural Functionalism]]"
@@ -133,7 +136,7 @@ related_theories:
   - "[[Behaviorism]]"
 status: draft
 created: 2026-09-06
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 ---
 
@@ -385,7 +388,7 @@ updated: 2026-11-11
 >
 > - **文艺复兴的人文觉醒与宗教改革的教派分立（Renaissance and Reformation）**
 >
->   文艺复兴打破经院哲学禁锢，重新发掘古希腊罗马古典文明，高扬人的尊严、世俗个性与审美自由，将教育从枯燥的教义辩论转向古典人文主义博雅教养（*Studia humanitatis*），催生了以培养文雅绅士和公民领袖为宗旨的精英古典中学（如文理中学与[[Grammar School\|文法学校]]）。宗教改革中路德与加尔文打破罗马教廷的精神垄断，确立“唯独圣经”与“信徒皆祭司”信条；为了使每个信徒能够直接研读母语圣经，宗教改革在历史上首次赋予平民识字与初等教育以绝对的宗教义务性，强力推动世俗政权承担设立公共初等学校的法定责任。两者共同奠定了近代西方中等精英[[Liberal Education\|博雅教育]]与初等大众母语普及教育并行的双轨制雏形。
+>   文艺复兴打破经院哲学禁锢，重新发掘古希腊罗马古典文明，高扬人的尊严、世俗个性与审美自由，将教育从枯燥的教义辩论转向古典人文主义博雅教养（*Studia humanitatis*），催生了以培养文雅绅士和公民领袖为宗旨的精英古典中学（如文理中学与[[Grammar School\|文法学校]]）。宗教改革中[[Martin Luther|路德]]与加尔文打破罗马教廷的精神垄断，确立“唯独圣经”与“信徒皆祭司”信条；为了使每个信徒能够直接研读母语圣经，宗教改革在历史上首次赋予平民识字与初等教育以绝对的宗教义务性，强力推动世俗政权承担设立公共初等学校的法定责任。两者共同奠定了近代西方中等精英[[Liberal Education\|博雅教育]]与初等大众母语普及教育并行的双轨制雏形。
 >
 > - **理性主义时代的启蒙科学与世俗国家塑造（Rationalism）**
 >
@@ -446,7 +449,7 @@ updated: 2026-11-11
 > [!index-table] 1960 年代实证主义学者对历史比较学派的四大核心指控
 > | 批判向度 | 实证批评代表学者与核心文献 | 核心攻击焦点与理论定性 |
 > |---|---|---|
-> | **前科学与主观臆测** | Noah and Eckstein (1969), *Toward a Science of Comparative Education* | 将萨德勒、坎德尔和汉斯归入学科演进的**前科学（Pre-scientific）因素与力量阶段**；指责其结论依赖学者个人的私人洞察力（Private insights），缺乏判定各因素相对重要性的客观标准，结论充其量只是待检验的假说。（p.53） |
+> | **前科学与主观臆测** | Noah and Eckstein (1969), *[[Toward a Science of Comparative Education 1969\|Toward a Science of Comparative Education]]* | 将萨德勒、坎德尔和汉斯归入学科演进的**前科学（Pre-scientific）因素与力量阶段**；指责其结论依赖学者个人的私人洞察力（Private insights），缺乏判定各因素相对重要性的客观标准，结论充其量只是待检验的假说。（p.53） |
 > | **缺乏因果预测力** | [[Brian Holmes\|Holmes]] (1965), *Problems in Education: A Comparative Approach* | 断言历史比较无法替代**科学比较教育**；学科必须是一门**概括性科学（Generalising science）**；教育决策者关心的是行动的未来后果而非历史渊源，真正的理解来自于成功的预测（Successful prediction）。（Holmes, 1965:19–21, 30） |
 > | **个殊性排斥比较** | Anderson (1961); [[Philip Foster\|Foster]] (1960) | 指责历史学派固守历史主义（Historicism），认定历史仅处理具有唯一时空坐标的个殊且不可重复现象；既然个殊事物不可比较，比较学者就必须告别历史，转向探寻规律与可重复模式的经验社会科学。 |
 > | **滑向神秘主义** | Epstein (1970) | 攻击萨德勒对[[Intangible Spiritual Forces\|无形精神力量]]（无形、不可捉摸精神力量）的强调**濒临神秘主义（Borders on mysticism）**，指责其呼吁学者关注非经验力量实质上是将严谨的实证分析引向随意的空想或灵性启示。（p.54） |
@@ -510,7 +513,7 @@ updated: 2026-11-11
 > - **方法论通达：以非普适探索性假说（Working Hypotheses of a Limited Nature）连接历史特殊性与理论建构**
 >   援引[[Crane Brinton\|布林顿]]（Crane Brinton）比较史学理论，论证学者完全有能力从个殊、具体与经验的历史事实中提炼中程理论命题。这些非普适探索性假说能够投射至其他相似历史情境中接受检验与反哺阐释，破除了实证派所谓历史个殊不可比较、缺乏理论建构效能的实证教条，为历史比较法确立了严谨的因果解释合法性。（Kazamias, 1963: 396; 2009: 56）
 > - **[[Axiology\|价值论]]归宿：铸就直面极权崇拜、社会断裂与技术异化的时代文明防线**
->   比较教育学承载着深刻的政治与道德哲学使命。历史学派学者亲历 20 世纪两次世界大战与极权浩劫，深知教育若脱离人文批判反思，极易沦为军国主义同质化动员、极权意识形态灌输或经济效率机器。历史比较学者必须具备深厚的哲学情怀与文明史自觉，主动介入当代人类面临的政治极权、社会不公与伦理异化等重大危机，守护教育作为人类精神解放之途的崇高品格。（pp.56–57）
+>   比较教育学承载着深刻的政治与道德哲学使命。历史学派学者亲历 20 世纪两次世界大战与极权浩劫，深知教育若脱离人文批判反思，极易沦为军国主义同质化动员、极权意识形态灌输或经济效率机器。历史比较学者必须具备深厚的哲学情怀与文明史自觉，主动介入当代人类面临的政治极权、社会不公与伦理异化等重大危机，守护教育作为人类精神解放之途的[[The Sublime|崇高]]品格。（pp.56–57）
 
 ---
 

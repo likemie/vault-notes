@@ -41,6 +41,7 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Commensuration]]"
   - "[[Soft Power]]"
+  - "[[The Sublime]]"
 related_theories:
   - "[[Governing at a Distance]]"
 related_methods:
@@ -78,7 +79,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-28
-updated: 2026-11-11
+updated: 2026-11-14
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Grek_2024_EERJ"
@@ -306,7 +307,7 @@ issuing_organization: ""
 ---
 
 > [!citation-card] 质保基础设施作为欧洲化的核心驱动
-> 在此语境下，质量保障超越了治理高等教育的业务工具范畴，成为推动欧洲一体化本身的核心引擎；大学亦被赋予崇高使命，被宣示为践行全球欧洲地缘战略与彰显欧洲生活方式的关键支柱。
+> 在此语境下，质量保障超越了治理高等教育的业务工具范畴，成为推动欧洲一体化本身的核心引擎；大学亦被赋予[[The Sublime|崇高]]使命，被宣示为践行全球欧洲地缘战略与彰显欧洲生活方式的关键支柱。
 >
 > *In this context, quality assurance does not represent merely a tool of governing higher education but has become a driver of Europeanisation per se, with universities being proclaimed as carriers of ‘global Europe’ and the ‘European way of life’ (European Commission, 2022).*
 

@@ -29,6 +29,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Avatar]]"
+  - "[[The Sublime]]"
   - "[[Transnational Education]]"
   - "[[Little Science]]"
   - "[[Creativity]]"
@@ -94,7 +95,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-11-10
+updated: 2026-11-14
 ---
 
 ---
@@ -117,7 +118,7 @@ updated: 2026-11-10
 >   - 同年 7 月[[United States Congress|美国国会]]通过《国家航空航天法案》成立[[National Aeronautics and Space Administration|国家航空航天局]]（NASA），将民用航天职能从军方剥离；
 >   - 同年 9 月国会通过《[[National Defense Education Act of 1958|国防教育法]]》（National Defense Education Act, NDEA 1958），联邦财政首次对数学、科学、工程与关键外语教育进行大规模定向注资；同年芝加哥大学在卡耐基基金会资助下建立[[Comparative Education Center at Chicago 1958|芝加哥大学比较教育中心]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 421–423)]]; [[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 37–38)]]
 > - **1957–1967 — 科技政策黄金十年与国家战略储备定位**
->   - 斯普特尼克危机开启了美国科技政策的“黄金十年”。在此期间，联邦研发经费保持年均两位数的高速增长，基础研究被赋予应对未来不确定性的战略储备定位，享受政府充分信任与底线托底保障；科学家被社会公认为“国家理性”的[[Avatar|化身]]，享有崇高的公共威望。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
+>   - 斯普特尼克危机开启了美国科技政策的“黄金十年”。在此期间，联邦研发经费保持年均两位数的高速增长，基础研究被赋予应对未来不确定性的战略储备定位，享受政府充分信任与底线托底保障；科学家被社会公认为“国家理性”的[[Avatar|化身]]，享有[[The Sublime|崇高]]的公共威望。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 >   - 危机促使联邦资助重心打破五角大楼与原子能委员会以定向合同对大学研发的垄断（曾占学术科研 76%），资金加速流向国家科学基金会（NSF）与 NASA，推动大学自由基础研究蓬勃兴起。1959 年艾森豪威尔总统在[[Symposium on Basic Research 1959|基础研究研讨会]]上发表《科学：自由的女仆》演讲，公开为学术自主提供政治担保；1960 年 PSAC 发表《科学进步、大学及联邦政府》（[[Seaborg Report 1960|西博格报告]]），从国家战略高度确立了大学基础研究与高层次研究生培养同构的政策信条。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 37–39)]]
 > - **1959–1961 — 跨国扩散与“经济北约”重塑期** 斯普特尼克危机促使大西洋两岸将科学技术与教育置于地缘竞争前沿；[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（OEEC）顺势自我重塑为“世界一流教育的先驱”，于 1961 年正式改组为[[OECD|经合组织]]（OECD），被西方史学界定性为旨在抗衡华沙条约组织经济阵营的“经济北约”；经合组织投入巨额资源开展[[Transnational Education|跨国教育]]统计，将[[Human Capital Theory|人力资本理论]]与宏观控制论规划紧密缝合。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 540–541)]]
 > - **1961–1970 年代 — 全球创新治理与学科普查机制成熟**

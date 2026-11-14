@@ -28,6 +28,7 @@ related_concepts:
   - "[[Scientific Attitude]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Quality Education]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Paradigm Wars]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-11-14
 ---
 
 ---
@@ -64,7 +65,7 @@ updated: 2026-10-22
 
 > [!timeline] 生平与职涯
 > - **1891** 出生于安徽歙县。
-> - **1914–1917** 留美学习，先后就读于伊利诺伊大学与哥伦比亚大学[[Normal School\|师范学院]]，受教于[[John Dewey\|杜威]]。
+> - **1914–1917** 留[[Philosophical Aesthetics|美学]]习，先后就读于伊利诺伊大学与哥伦比亚大学[[Normal School\|师范学院]]，受教于[[John Dewey\|杜威]]。
 > - **1919** 参与《新教育》编辑工作及[[John Dewey\|杜威]]访华接待，早期曾主张学校为“小共和国”。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.73]]）
 > - **1923** 转向平民教育，发起中华平民教育促进会，鼓励学生走出校园走向大众。
 > - **1925** 创办《新教育评论》（*Review of [[New Education Movement\|The New Education]]*），确立[[Scientific Attitude\|科学态度]]原则，取代激进民主政治路线。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.620]]）

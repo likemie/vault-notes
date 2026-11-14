@@ -34,6 +34,7 @@ related_concepts:
   - "[[Policy Mobility]]"
   - "[[Cross-National Attraction]]"
   - "[[Pre-Transfer Agency]]"
+  - "[[The Sublime]]"
   - "[[Epistemology]]"
   - "[[Scholiocentric Approach]]"
   - "[[Enlightenment]]"
@@ -160,7 +161,7 @@ related_arguments:
 confidence: high
 status: stable
 created: '2026-05-01'
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -322,7 +323,7 @@ updated: 2026-11-11
 
 > [!quad-grid] 跨国吸引力的四类修辞火花（Attraction Sparks）
 > - **丑闻化（Scandalisation）** 借外部卓越成就反衬本土危机与落后，制造紧迫感以击溃反对声音。（[[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 229]]）
-> - **颂扬（Glorification）** 将外部成功范例理想化为改革标杆，为既定方案构建崇高声望。
+> - **颂扬（Glorification）** 将外部成功范例理想化为改革标杆，为既定方案构建[[The Sublime|崇高]]声望。
 > - **警示烽火（Beacons of Warning）** 将外国不良后果作为反面教材，警戒本土政策避免重蹈覆辙（如曼对欧陆专制教育的警示）。
 > - **合法化辩护（Legitimating Rationales）** 抽取外国具体制度实绩作为论据，直接为本土争议性决策的正当性背书。
 

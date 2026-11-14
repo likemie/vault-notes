@@ -63,6 +63,7 @@ related_concepts:
   - "[[Nationalism]]"
   - "[[Causality]]"
   - "[[Liberal Education]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Big Science]]"
   - "[[Return on Investment]]"
   - "[[Problem Solving]]"
@@ -121,6 +122,7 @@ related_persons:
   - "[[Patricia Broadfoot]]"
 related_facts:
   - "[[National Education]]"
+  - "[[Toward a Science of Comparative Education 1969]]"
   - "[[IEA]]"
   - "[[Research Strategies in Comparative Education]]"
 related_arguments: []
@@ -129,7 +131,7 @@ sources:
 part_of: "[[Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-10-01
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 ---
 
@@ -276,7 +278,7 @@ updated: 2026-11-11
 ---
 
 > [!claim|step] 论证步骤三　战后实证科学化运动追求量化规律与政策预测，但过度依赖技术手段导致脱离文化情境与人文价值
-> 二战后英美学界掀起将比较教育改造成严密科学的风潮，试图用统计回归、[[Variable|变量]]测算和假说演绎彻底替代历史研究；然而这种做法预设了单一通用科学方法的迷思，把复杂的教育现象缩减为抽象的数字指标，不仅割裂了教育背后的历史文化脉络，还往往沦为政府官员推卸教育决策责任的工具。（pp.144–152）
+> 二战后英[[Philosophical Aesthetics|美学]]界掀起将比较教育改造成严密科学的风潮，试图用统计回归、[[Variable|变量]]测算和假说演绎彻底替代历史研究；然而这种做法预设了单一通用科学方法的迷思，把复杂的教育现象缩减为抽象的数字指标，不仅割裂了教育背后的历史文化脉络，还往往沦为政府官员推卸教育决策责任的工具。（pp.144–152）
 
 20 世纪 50 年代末至 60 年代，战后成长起来的一批年轻学者对历史-哲学传统发起猛烈批评，指责其主观性强、缺乏严密的实证检验，且无法为战后迅速扩张的国家教育规划提供精确的预测数据。比较教育学由此掀起了一场将自身重塑为实证社会科学的激烈争鸣。
 
@@ -288,7 +290,7 @@ updated: 2026-11-11
 
 > [!tension] 战后三[[Big Science|大科学]]流派在研究取向上的分歧
 > - **芝加哥学派的结构功能分析（强调恒常社会规律）** [[C. Arnold Anderson|阿诺德·安德森]]（C. Arnold Anderson）与[[Philip Foster|菲利普·福斯特]]（Philip Foster）将社会学的功能分析引入教育研究，重点考察学校教育在社会分流、人才选拔和人力资源开发中的客观作用，试图找出不受具体时空限制的教育运行普遍规律；随后乔治·普萨哈罗普洛斯（[[George Psacharopoulos]]）等人更将[[Human Capital Theory|人力资本理论]]推向计量极致，试图以跨国[[Return on Investment|教育投资回报率]]函数建立全球通用的预测模型。（pp.146–147）
-> - **哥大学派的跨国变量因果测算（强调量化实证指标）** [[Harold Noah|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein|马克斯·埃克斯坦]]（Max Eckstein）在 1969 年《走向比较教育科学》中，极力主张用标准化的变量名称替代具体的国别名称，通过[[IEA|国际教育成就评价协会]]（International Association for the Evaluation of Educational Achievement, IEA）等大规模跨国测试数据和多元统计分析，寻找变量之间跨越国界的因果关系。（pp.147–149）
+> - **哥大学派的跨国变量因果测算（强调量化实证指标）** [[Harold Noah|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein|马克斯·埃克斯坦]]（Max Eckstein）在 1969 年《[[Toward a Science of Comparative Education 1969|走向比较教育科学]]》中，极力主张用标准化的变量名称替代具体的国别名称，通过[[IEA|国际教育成就评价协会]]（International Association for the Evaluation of Educational Achievement, IEA）等大规模跨国测试数据和多元统计分析，寻找变量之间跨越国界的因果关系。（pp.147–149）
 > - **伦敦学派的情境[[Problem Solving|问题解决]]方法（强调条件限定下的预测）** [[Brian Holmes|布赖恩·霍姆斯]]（Brian Holmes）借鉴波普尔的科学哲学，提出比较研究不能脱离具体的制度背景；科学法则必须结合各国的具体初始条件，才能对教育改革的后果做出审慎的条件性推测。（pp.149–151）
 
 > [!sub-claim] 2. 哥大学派的跨国变量分析示例

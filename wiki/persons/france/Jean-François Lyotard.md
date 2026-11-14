@@ -29,6 +29,7 @@ related_concepts:
   - "[[Doctoral Dissertation]]"
   - "[[Foundational Literacy and Numeracy]]"
   - "[[Positivism]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Commensuration]]"
   - "[[Incommensurability]]"
   - "[[Discourse]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-10
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -121,7 +122,7 @@ updated: 2026-11-11
 >   - **代表著作** 《现象学》（*La phénoménologie*, 1954）、阿尔及利亚独立运动政治评论（后集结为《政治写作》*Political Writings*, 1993）。
 >   - **关键概念／方法** 现象学（[[Phenomenology]]）、革命政治分析。
 >   - **阶段转向** 在索邦完成了以禅宗与道教为线索的伦理学论文，试图通过现象学克服[[Positivism\|实证主义]]与理性主义的局限，并在秘密支持阿尔及利亚独立斗争中，反思正统马克思主义官僚体制对工人阶级斗争的压制。
-> - **Late 1960s–1970s中 — 感性美学与力比多经济学转向阶段** 回应经典马克思主义和结构主义对欲望的系统压制，转向力比多强度的释放。
+> - **Late 1960s–1970s中 — 感性[[Philosophical Aesthetics|美学]]与力比多经济学转向阶段** 回应经典马克思主义和结构主义对欲望的系统压制，转向力比多强度的释放。
 >   - **代表著作** 《论述，形象》（*Discours, figure*, 1971）、《力比多经济学》（*Libidinal Economy*, 1974）。
 >   - **关键概念／方法** 形象（Figure）解构、力比多流、欲望强度。
 >   - **阶段转向** 在此阶段[[Jean-François Lyotard|利奥塔]]彻底与辩证唯物主义决裂。在《论述，形象》中，他以形象（figure）反抗概念指称逻辑，拒绝将艺术整合进[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式的绝对精神；在《力比多经济学》中，他批判了马克思的“假意识”学说，认为资本主义工业化不仅是剥削，也是力比多强度的无序释放，主张以边缘冲动解构统治结构。

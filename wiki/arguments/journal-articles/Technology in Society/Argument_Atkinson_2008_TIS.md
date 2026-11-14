@@ -32,6 +32,7 @@ related_concepts:
   - "[[Carnegie Classification of Institutions of Higher Education]]"
   - "[[Competitiveness]]"
   - "[[Technology Transfer Office]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Megascience Installations]]"
   - "[[Technology Transfer]]"
   - "[[Creativity]]"
@@ -96,7 +97,7 @@ sources:
 part_of:
 status: completed
 created: 2026-10-02
-updated: 2026-11-11
+updated: 2026-11-14
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Atkinson_2008_TIS"
@@ -312,7 +313,7 @@ issuing_organization: ""
 
 在 1950 至 1960 年代，伴随冷战争霸与太空竞赛，联邦研发支出呈指数级增长并在 1963 年达到占全美研发总额 68% 的历史峰值。在此背景下，大学获得了海量无需商业化问责的联邦课题，导致大学研究人员逐渐忽视与工业界的合作。
 
-> [!phase] 战后全美学术科研资金提供者份额结构变迁
+> [!phase] 战后全[[Philosophical Aesthetics|美学]]术科研资金提供者份额结构变迁
 > - **1953 年：战后启动期**
 >   联邦政府出资占全美大学科研支出的 54.6%，私营工业界占 7.7%，大学自身资金及其他非营利来源占 37.7%。
 > - **1970–1975 年：联邦垄断与越战紧缩期**

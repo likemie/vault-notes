@@ -55,6 +55,7 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Comparative Pedagogy]]"
   - "[[Severability of Politics and Pedagogy]]"
+  - "[[The Sublime]]"
   - "[[Scientific Method]]"
   - "[[Problem Finding]]"
   - "[[Falsification]]"
@@ -135,6 +136,7 @@ related_persons:
   - "[[Marc-Antoine Jullien]]"
   - "[[William H. Payne]]"
   - "[[Peter Sandiford]]"
+  - "[[Thomas Jefferson]]"
   - "[[William T. Harris]]"
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
@@ -163,6 +165,7 @@ related_facts:
   - "[[Report on the State of Public Instruction in Prussia]]"
   - "[[Seventh Annual Report of the Massachusetts Board of Education]]"
   - "[[National Education in Europe]]"
+  - "[[Toward a Science of Comparative Education 1969]]"
   - "[[World Council of Comparative Education Societies]]"
   - "[[Research Strategies in Comparative Education]]"
   - "[[UNESCO]]"
@@ -170,7 +173,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 ---
 
@@ -246,7 +249,7 @@ updated: 2026-11-11
 学科名称的演变与早期教席的设立，生动反映了这一学术谱系的形成历程：
 
 > [!term] 比较教育学术语的历史源流与概念辨析
-> - **相对优势探讨（1785）** 托马斯·杰斐逊（Thomas Jefferson）在论及美洲教育相对于欧洲的相对优势（comparative advantages）时较早使用了比较修辞。（p.121）
+> - **相对优势探讨（1785）** [[Thomas Jefferson|托马斯·杰斐逊]]（Thomas Jefferson）在论及美洲教育相对于欧洲的相对优势（comparative advantages）时较早使用了比较修辞。（p.121）
 > - **比较教育命名确立（1826）** 威廉·罗素（William Russell）英译朱利安法文著作时首次确立比较教育（comparative education）英文表述。
 > - **比较教学科学探索（1888–1889）** [[William T. Harris|威廉·T·哈里斯]]（[[William T. Harris]]）主张建立比较教学科学（a science of [[Comparative Pedagogy]]），强调探寻普遍规律。
 > - **德语界学术辨析（至今）** 德语学术界持续辨析比较教育科学（Vergleichende Erziehungswissenschaft）与比较教育学（Vergleichende Pädagogik），区分理论探究与实务指导属性。（p.122）
@@ -286,7 +289,7 @@ updated: 2026-11-11
 这一跨文化借用逻辑在《[[Seventh Annual Report of the Massachusetts Board of Education|第七次年度报告]]》与巴纳德的赞评中均有鲜明体现，两人的推崇都是比较后作出的有目的选择，而非对普鲁士制度的无条件照单全收：
 
 > [!citation-card] [[Horace Mann|霍勒斯·曼]]《第七次年度报告》（1844）论普鲁士学校声誉
-> 在欧洲各国之中，普鲁士长期以来以其学校卓越而享有最崇高的声誉。（p.125）
+> 在欧洲各国之中，普鲁士长期以来以其学校卓越而享有最[[The Sublime|崇高]]的声誉。（p.125）
 >
 > *"Among the nations of Europe, Prussia has long enjoyed the most distinguished reputation for excellence of its schools."* (Mann, 1844)
 
@@ -390,7 +393,7 @@ updated: 2026-11-11
 ---
 
 > [!claim|step] 论证步骤三　战后单一功能主义正统的瓦解促成了健康的理论多元主义，全球学会网络打破了西方封闭垄断
-> 1969 年诺亚（[[Harold Noah]]）与埃克斯坦（[[Max Eckstein]]）的《比较教育科学探索》（*Toward a Science of Comparative Education*）曾以乐观姿态宣布学科终于确立为合法科学；然而此后数十年的发展恰好证明了相反的趋势——不是走向单一范式的科学统一，而是走向涵盖 26 种[[Theoretical Standpoint|理论立场]]的多元并存格局，并通过全球学会联合会网络打破了西方中心主义的地域封闭。这一演变不是学科碎片化的危机，而是理论心智走向成熟的标志。（pp.129–133）
+> 1969 年诺亚（[[Harold Noah]]）与埃克斯坦（[[Max Eckstein]]）的《比较教育科学探索》（*[[Toward a Science of Comparative Education 1969|Toward a Science of Comparative Education]]*）曾以乐观姿态宣布学科终于确立为合法科学；然而此后数十年的发展恰好证明了相反的趋势——不是走向单一范式的科学统一，而是走向涵盖 26 种[[Theoretical Standpoint|理论立场]]的多元并存格局，并通过全球学会联合会网络打破了西方中心主义的地域封闭。这一演变不是学科碎片化的危机，而是理论心智走向成熟的标志。（pp.129–133）
 
 > [!sub-claim] 1. 世界学会联合会成立与非西方学者群体的兴起，推动学科[[Knowledge Production|知识生产]]从英美中心走向全球多中心
 

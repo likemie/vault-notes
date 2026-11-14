@@ -39,6 +39,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[State Educational Sovereignty]]"
   - "[[Regimes of Truth]]"
+  - "[[The Sublime]]"
   - "[[Open Method of Coordination]]"
   - "[[Bologna Process Export Thesis]]"
   - "[[Global Regionalisms]]"
@@ -89,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-29
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -189,7 +190,7 @@ updated: 2026-11-11
 > > - **比较学者实证批判** [[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（[[José Luis García Garrido]]）尖锐指出，西班牙等国在立法上高唱博洛尼亚欧洲主义，但实质上耗费了大量时间却难见实效。大学法案借自治之名将人事与财权下放给自治区，反而助长了地方孤立主义与学术近亲繁殖（教师多由本校嫡系提拔，外地学者遭排斥）；新学制大纲不仅未促进趋同，反而造成地方分割。此外，大学在软科[[Academic Ranking of World Universities|世界大学学术排名]]与[[Times Higher Education World University Rankings|泰晤士高等教育世界大学排名]]中表现低迷，博洛尼亚对标彻底沦为掩盖质量危机的表面修辞。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 332–333)]]
 >
 > > [!axis] 争议四：知识欧洲修辞下的资本化操演与[[Regimes of Truth|真理体制]]重构
-> > 博洛尼亚进程是建设欧洲文化智识共同体的崇高方案，还是新自由主义重塑高教市场的工具？
+> > 博洛尼亚进程是建设欧洲文化智识共同体的[[The Sublime|崇高]]方案，还是新自由主义重塑高教市场的工具？
 > > - **官方文化主义修辞** 1999 年《索邦宣言》声称欧洲不仅属于欧元与银行，也必须成为以知识为基础的智识与文化共同体。
 > > - **福柯权力-知识理论批判** [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] 解构指出，“知识欧洲”构成了欧盟权力-知识的规训蓝图；欧盟委员会积极介入博洛尼亚进程，其实质是将高等教育学位与学分改造为适应全球劳动力流动、可消费且可替换的商业化无形资本，依托[[Open Method of Coordination|开放协调法]]（OMC）与资历框架将高校纳入[[Panopticism|全景敞视]]监控网络。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480, 488–492)]]
 >

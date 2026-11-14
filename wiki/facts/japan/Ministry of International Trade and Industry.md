@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Embedded Autonomy]]"
   - "[[Paradigm]]"
+  - "[[The Sublime]]"
   - "[[New Public Management]]"
   - "[[Market Shaping and Creating]]"
   - "[[Market Failure]]"
@@ -68,7 +69,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-11
+updated: 2026-11-14
 title: Ministry of International Trade and Industry
 aliases:
   - MITI
@@ -84,7 +85,7 @@ aliases:
 
 > [!org-context] 机构背景
 > - **运行历史** 1949 年 5 月由商工省与贸易厅合并成立，直属日本内阁；主导战后日本三十余年年均近 10% 的高速经济增长，2001 年改组为经济产业省。
-> - **[[Organizational Culture|组织文化]]与精英选拔** 招募东京大学法学部等顶级院校最优秀的国家公务员，构建起高度非腐败、具有崇高使命感与跨代凝聚力的精英官僚阶层。
+> - **[[Organizational Culture|组织文化]]与精英选拔** 招募东京大学法学部等顶级院校最优秀的国家公务员，构建起高度非腐败、具有[[The Sublime|崇高]]使命感与跨代凝聚力的精英官僚阶层。
 > - **核心治理哲学** 拒绝新古典自由放任与静态比较优势学说，坚信国家必须主动引导动态比较优势，通过国家战略规划开辟面向未来的前沿[[Technological Trajectories|技术轨道]]。
 
 ---

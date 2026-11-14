@@ -36,6 +36,7 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Normal School]]"
   - "[[Homophily]]"
+  - "[[The Sublime]]"
   - "[[Teacher Subject Matter Knowledge]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Theoretical Perspective]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -133,7 +134,7 @@ updated: 2026-11-11
 > [!stat-cards]- 核心历史数据
 > - **56.87%** Hattie 纳入的 133 项正向[[Effect Size|效应量]]在数理检验中的总体变差系数，处于极度不均匀区间。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 239)]]
 > - **79%** 俄罗斯总统行政学院（RANEPA 2018）全俄监测中反映报表文书显著增加、工作急剧加重的中学教师比例。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 240)]]
-> - **16% vs. 66%+** 全俄民调（VTsIOM 2018）中认为教师职业崇高受尊重的公民仅 16%，而[[Teaching and Learning International Survey|TALIS]]-2013 显示新加坡、韩国等亚洲国家超三分之二教师认同自身社会价值。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 239)]]
+> - **16% vs. 66%+** 全俄民调（VTsIOM 2018）中认为教师职业[[The Sublime|崇高]]受尊重的公民仅 16%，而[[Teaching and Learning International Survey|TALIS]]-2013 显示新加坡、韩国等亚洲国家超三分之二教师认同自身社会价值。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 239)]]
 > - **>25%** 沃洛格达州打算近期转行离职的教师中，将行政文书与官僚化压力作为首要退职动因的比例。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 240–241)]]
 
 ---

@@ -20,6 +20,7 @@ tags:
   - cultural-capital
   - history/19th-century
 related_concepts:
+  - "[[The Sublime]]"
   - "[[Cultural Capital]]"
   - "[[Competitiveness]]"
   - "[[Avatar]]"
@@ -35,6 +36,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Uno Cygnaeus]]"
+  - "[[Martin Luther]]"
   - "[[Gabriel Heller Sahlgren]]"
   - "[[Hannu Simola]]"
 related_facts:
@@ -47,13 +49,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
 
 > [!def] Kansankynttilä
-> 芬兰语“Kansankynttilä”（意为“民族之烛”或“人民之烛”）是 19 世纪中后期发端于[[Fennoman Movement|芬诺曼运动]]的教师文化社会学原型。该概念将初等国民学校教师定性为超越单纯学科讲授的世俗道德启蒙者与地方社群领袖，赋予教师与神职人员、医生并列的乡村崇高社会声望，形成了芬兰基础教育能够在普通薪资条件下长期吸引并锁定全国最高认知素养生源的深层制度[[Cultural Capital|文化资本]]。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 18–22, 29–31)]]
+> 芬兰语“Kansankynttilä”（意为“民族之烛”或“人民之烛”）是 19 世纪中后期发端于[[Fennoman Movement|芬诺曼运动]]的教师文化社会学原型。该概念将初等国民学校教师定性为超越单纯学科讲授的世俗道德启蒙者与地方社群领袖，赋予教师与神职人员、医生并列的乡村[[The Sublime|崇高]]社会声望，形成了芬兰基础教育能够在普通薪资条件下长期吸引并锁定全国最高认知素养生源的深层制度[[Cultural Capital|文化资本]]。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 18–22, 29–31)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向芬兰特定历史与民族构建进程中赋予教师群体的崇高社会地位、广泛社区公共职责及高道德伦理预期。
@@ -93,7 +95,7 @@ updated: 2026-11-11
 > **文化世俗化机制** 探讨当社会从前工业化民族危机迈入后工业富裕社会后，教师职业神圣光环退却对教育成效带来的连锁冲击。
 >
 > > [!claim] Sahlgren, G. H.
-> > **权威基础瓦解与学业衰退** 随着芬兰迈入富裕信息社会，“民族之烛”所寄托的威权服从心理与路德宗天职感逐步被个人自由与后物质主义追求所取代。家长对教师权威的服从度降低，课堂教学法从赫尔巴特严密讲授转向学生自主探究，直接诱发了 2000 年代中后期学业成绩的大幅滑落。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 51–53, 58–61)]]
+> > **权威基础瓦解与学业衰退** 随着芬兰迈入富裕信息社会，“民族之烛”所寄托的威权服从心理与[[Martin Luther|路德]]宗天职感逐步被个人自由与后物质主义追求所取代。家长对教师权威的服从度降低，课堂教学法从赫尔巴特严密讲授转向学生自主探究，直接诱发了 2000 年代中后期学业成绩的大幅滑落。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 51–53, 58–61)]]
 
 ---
 

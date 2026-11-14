@@ -34,6 +34,7 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Empiricism]]"
   - "[[Faculty Psychology]]"
+  - "[[The Sublime]]"
   - "[[Popular Education]]"
   - "[[Document]]"
   - "[[Unit of Analysis]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ## 简介
@@ -147,7 +148,7 @@ updated: 2026-11-11
 > - **阶级分流的垂直学校网络**
 >   精准设计四级分流网络：初小普及平民传授读写算与德性；高小面向工商业中产传授实用理化与簿记；低阶中学面向中上阶层；高阶文理中学面向社会顶层精英传授古典文化，巩固大资产阶级政治统治秩序。（Brewer, 1971:95; pp. 28–29）
 > - **文理融通的“[[Culture Générale\|普通文化]]”通识理想**
->   立足[[Faculty Psychology\|心灵官能心理学]]与心智训练理论，将古典人文学科（作为体认人类本性崇高维度的本体）与现代数学、自然科学和外语统整，打造兼顾道德修养与现代科学能力的精英教养范式。（Brewer, 1971:91–92; p. 30）
+>   立足[[Faculty Psychology\|心灵官能心理学]]与心智训练理论，将古典人文学科（作为体认人类本性[[The Sublime|崇高]]维度的本体）与现代数学、自然科学和外语统整，打造兼顾道德修养与现代科学能力的精英教养范式。（Brewer, 1971:91–92; p. 30）
 
 > [!note] 相关引文
 > 库森在 1831 年报告与相关著述中对国家教育权、外国借用及古典人文教育留下了深刻的历史论述：

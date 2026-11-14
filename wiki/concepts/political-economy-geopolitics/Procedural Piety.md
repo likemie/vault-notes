@@ -33,6 +33,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Innovation Desert]]"
   - "[[Founder Culture]]"
+  - "[[The Sublime]]"
   - "[[Epistemology]]"
 related_theories: []
 related_methods: []
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -165,7 +166,7 @@ updated: 2026-11-03
 > > 探讨公共治理是否应当引入私营市场的薪酬与激励模型。
 > >
 > > - **实效与市场对标派（[[Lee Kuan Yew|李光耀]]、卡普、扎米斯卡）** 认为公职人员也是具有现实生活诉求的普通人，低薪只会导致平庸化与隐性寻租，唯有高薪对标才能吸引最顶尖英才。
-> > - **古典与道德纯洁派（传统建制派）** 担忧高薪会吸引投机分子，损害公共服务的无私奉献精神与制度崇高感。
+> > - **古典与道德纯洁派（传统建制派）** 担忧高薪会吸引投机分子，损害公共服务的无私奉献精神与制度[[The Sublime|崇高]]感。
 >
 > > [!axis] 严格合规审查 vs 实干战略容错
 > > 探讨在反腐与审计中是否应当对具有重大战略战功的实干领袖给予程序宽容。

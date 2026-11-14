@@ -29,6 +29,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Document]]"
   - "[[Avatar]]"
+  - "[[The Sublime]]"
   - "[[Competitiveness]]"
   - "[[Grand Challenges]]"
   - "[[Variable]]"
@@ -85,7 +86,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-05
-updated: 2026-11-11
+updated: 2026-11-14
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Fan_2026_BCAS"
@@ -202,7 +203,7 @@ journal: "中国科学院院刊"
 
 > [!dimension] 冷战时期维系高自治与高资助的五大制度支柱
 > - **合法性基础（Legitimacy Base）**
->   国家安全独大，科学象征民主、自由与现代化，科学家被公认为“国家理性”的[[Avatar|化身]]并享有崇高公共声望。
+>   国家安全独大，科学象征民主、自由与现代化，科学家被公认为“国家理性”的[[Avatar|化身]]并享有[[The Sublime|崇高]]公共声望。
 > - **制度与资源支持（Institutional and Resource Support）**
 >   1957—1967 年迎来科技政策黄金十年，联邦研发经费高速递增，基础研究被赋予应对未来不确定性的战略储备地位。
 > - **自治空间（Autonomy Space）**

@@ -26,6 +26,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Response to Intervention]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Paradigm]]"
   - "[[Problem Solving]]"
   - "[[Self-Efficacy]]"
@@ -41,7 +42,6 @@ related_methods:
   - "[[Efficacy Trial]]"
 related_instruments: []
 related_persons:
-  - "[[Jack Douglas]]"
   - "[[Ben Levin]]"
 related_facts:
   - "[[National Institute of Child Health and Human Development]]"
@@ -54,16 +54,16 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
 
 > [!claim] 项目定位
-> **Number Rockets（数字火箭）** 是由范德堡大学（Vanderbilt University）林恩·富克斯（Lynn S. Fuchs）与[[Jack Douglas\|道格拉斯]]·富克斯（Douglas Fuchs）学术团队领衔研发、受美国国家儿童健康与人类发育研究所（[[National Institute of Child Health and Human Development|NICHD]]）资助的小学一年级早期数学小组干预方案；其核心目标是在小学一年级早期精准甄别数学学习困难高危儿童，通过受训辅导教师开展高结构化的小组显性教学，在[[Response to Intervention\|干预反应模型]]（RTI）的 Tier 2 防线阻断终身数学学习失能的形成。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
+> **Number Rockets（数字火箭）** 是由范德堡大学（Vanderbilt University）林恩·富克斯（Lynn S. Fuchs）与道格拉斯·富克斯（Douglas Fuchs）学术团队领衔研发、受美国国家儿童健康与人类发育研究所（[[National Institute of Child Health and Human Development|NICHD]]）资助的小学一年级早期数学小组干预方案；其核心目标是在小学一年级早期精准甄别数学学习困难高危儿童，通过受训辅导教师开展高结构化的小组显性教学，在[[Response to Intervention\|干预反应模型]]（RTI）的 Tier 2 防线阻断终身数学学习失能的形成。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
-> - **立项时间与周期** 研发始于 2000 年代初，经 NICHD 与联邦[[Institute of Education Sciences\|教育科学研究院]]（IES）多项科研课题资助，于 2005 年发布里程碑式对照试验成果，常态化运用于全美学区干预实践。
+> - **立项时间与周期** 研发始于 2000 年代初，经 NICHD 与联邦[[Institute of Education Sciences\|教育科学研究院]]（IES）多项科研课题资助，于 2005 年发布里程碑式对照试验成果，常态化运用于全[[Philosophical Aesthetics|美学]]区干预实践。
 > - **发起方与资助机制** 范德堡大学特殊教育系主持，联合联邦 NICHD 提供大规模[[Random Assignment\|随机分配]]对照试验研发资助。
 > - **覆盖范围与对象** 全美公立小学一年级经通用数学筛查处于全校后 20%–25% 的高危弱势学生。
 > - **核心问题导向** 攻克小学一年级学生在由非正式计数向正式算术过渡中因运算事实（Number Combinations）提取迟缓与概念混乱导致的学业脱轨，开创数学领域 RTI 早期预防实证[[Paradigm\|范式]]。

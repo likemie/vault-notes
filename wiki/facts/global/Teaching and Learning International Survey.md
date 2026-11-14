@@ -28,6 +28,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Knowledge Mediation]]"
   - "[[Policy Brokerage]]"
+  - "[[Teacher Leadership]]"
   - "[[Distributed Leadership]]"
   - "[[Constructivist Paradigm]]"
   - "[[Inquiry-Based Learning]]"
@@ -36,6 +37,7 @@ related_concepts:
   - "[[Constructivist Instruction]]"
   - "[[Rote Learning]]"
   - "[[Heterogeneity]]"
+  - "[[The Sublime]]"
   - "[[Causality]]"
   - "[[Rich and Thick Description]]"
   - "[[Democratising Evidence]]"
@@ -66,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -101,7 +103,7 @@ updated: 2026-11-11
 
 > [!dev-timeline] 项目推进历程
 > - **2008 年 — TALIS 奠基与首轮框架确立期** 确立初中教师为核心测量对象，发布首部国际综合报告，聚焦教学实践、教师评价与专业发展需求，24 个国家参与试点。
-> - **2013 年 — 学段拓展与分布式领导力量表引入期** 增设小学与高中可选模块，首次推出“TALIS-[[PISA]] 联动调查”；同时，[[Education International\|国际教育协会]]（EI）资助开展跨国教师领导力质性调研（Bangs & Frost, 2012），直接推动 TALIS 2013 引入分布式领导力（[[Distributed Leadership]]）测评维度，促成[[OECD\|经合组织]]官方报告将转向分布式领导列为系统性政策建议（OECD, 2014）。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 210)]]
+> - **2013 年 — 学段拓展与分布式领导力量表引入期** 增设小学与高中可选模块，首次推出“TALIS-[[PISA]] 联动调查”；同时，[[Education International\|国际教育协会]]（EI）资助开展跨国[[Teacher Leadership|教师领导力]]质性调研（Bangs & Frost, 2012），直接推动 TALIS 2013 引入分布式领导力（[[Distributed Leadership]]）测评维度，促成[[OECD\|经合组织]]官方报告将转向分布式领导列为系统性政策建议（OECD, 2014）。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 210)]]
 > - **2018 年至今 — 教师工作压力指标突破与全球素养扩张期** 全面引入数字化教学能力、多元文化包容素养与社会情感技能培养支持；更重要的是，经合组织采纳 EI 建议，在 2018 年调查中首次增设针对教师工作压力来源与性质的专属量表（OECD, 2020），使一线教师身心耗竭获得客观量化实证确证；覆盖近 50 个经济体，成为联合国《[[UN Sustainable Development Goals\|可持续发展目标]] 4》（[[UN Sustainable Development Goals\|SDG 4]]）教师关键指标的核心数据源。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–211)]]；[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 544)]]
 
 ---
@@ -129,7 +131,7 @@ updated: 2026-11-11
 > - **[[Constructivist Instruction\|建构主义教学]]实践与效能感正相关** 跨国实证一致表明，采用合作探究与认知激活教学策略的教师，其工作自我效能感与职业留任意愿显著高于仅采用[[Rote Learning\|机械记忆]]讲授的教师。
 > - **形式化专业发展的[[Heterogeneity\|异质性]]低效** 尽管 90% 以上的教师参加了短期培训班，但绝大多数教师认为离身式的专家讲座对其微观课堂教学改变收效甚微，深度校本教研与同行听评课展现出更高的正向转化率。
 > - **教师身心重压与职业地位危机** 超过三分之一的教师报告承受中高度工作压力，行政文书负担、频繁的外部问责检查与微观纪律挑战是造成师资流失的核心结构性瓶颈。
-> - **教师社会声望与职业价值感的跨国断层** TALIS-2013 数据揭示了不同文化与经济体中教师社会地位的剧烈分化：在马来西亚（Malaysia）、新加坡（Singapore）、韩国（Korea）与阿拉伯联合酋长国（United Arab Emirates, UAE）等亚洲国家与地区，高达三分之二（约 67%）的教师深信自己的工作具有崇高的社会价值与公众认可度；而在俄罗斯等转型经济体中，仅有极少数教师（约 16%）认同其社会声望。这一实证表明，忽视教师社会地位与基本尊严的机械效能排名，极易诱发教育系统深层的师资流失危机。[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019, p. 240)]]
+> - **教师社会声望与职业价值感的跨国断层** TALIS-2013 数据揭示了不同文化与经济体中教师社会地位的剧烈分化：在马来西亚（Malaysia）、新加坡（Singapore）、韩国（Korea）与阿拉伯联合酋长国（United Arab Emirates, UAE）等亚洲国家与地区，高达三分之二（约 67%）的教师深信自己的工作具有[[The Sublime|崇高]]的社会价值与公众认可度；而在俄罗斯等转型经济体中，仅有极少数教师（约 16%）认同其社会声望。这一实证表明，忽视教师社会地位与基本尊严的机械效能排名，极易诱发教育系统深层的师资流失危机。[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019, p. 240)]]
 > - **跨国数据二次挖掘与峰会协商转化** [[Education International\|国际教育协会]]委托达林-哈蒙德（Linda Darling-Hammond）等著名学者对 TALIS 数据开展二次独立挖掘，发表关于教师短缺与专业协作的独立政策洞见（Burns & Darling-Hammond, 2014）；TALIS 数据同时成为每年[[International Summits on the Teaching Profession\|国际教师职业峰会]]（ISTP）部长与工会平等磋商的扎实证据支撑。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210, 216)]]
 
 > [!stat-cards]- 关键实证数据

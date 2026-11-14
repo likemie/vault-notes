@@ -30,6 +30,7 @@ related_concepts:
   - "[[Little Science]]"
   - "[[Research Topic]]"
   - "[[Grandes Ecoles]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Geopolitics]]"
 related_theories:
   - "[[Social Contract of Science]]"
@@ -72,7 +73,7 @@ sources:
 part_of:
 status: active
 created: 2026-11-04
-updated: 2026-11-11
+updated: 2026-11-14
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Yang_2017_MUE"
@@ -231,7 +232,7 @@ issuing_organization: ""
 > |---|---|---|---|---|
 > | **1952** | 1400万美元 | 350万美元 | 众议院初裁仅批30万，经参议院紧急游说补至350万 | 朝鲜战争爆发导致财政紧缩，麦卡锡主义政治忠诚审查严苛 |
 > | **1953** | 1500万美元 | 475万美元 | 仅批准申请额的31.7%，削减超过三分之二 | 国会质疑纯基础研究实用价值，资金优先倾斜涉军任务 |
-> | **1954** | 1225万美元 | 800万美元 | 批准率升至65.3%，资金缺口依然达425万美元 | 战后军事机构合同依然占据全美学术科研资金主流 |
+> | **1954** | 1225万美元 | 800万美元 | 批准率升至65.3%，资金缺口依然达425万美元 | 战后军事机构合同依然占据全[[Philosophical Aesthetics\|美学]]术科研资金主流 |
 > | **1955** | 1400万美元 | 1225万美元 | 批准率大幅回升至87.5%，基础科学呼声渐获重视 | 艾森豪威尔政府成立初期逐步调整科研与文教政策关系 |
 > | **1956** | 2000万美元 | 1600万美元 | 批准额首次突破1500万美元关口 | 冷战科技竞赛隐忧浮现，基础研究经费逐步走出低谷 |
 > | **1957** | 4000万美元 | 4000万美元 | 全额批准申请额度，成为卫星危机前夕的制度铺垫 | 国际地球物理年（International Geophysical Year, IGY）启动，前沿科学探索重要性上升 |

@@ -52,6 +52,7 @@ related_concepts:
   - "[[Learning Strategies]]"
   - "[[Heterogeneity]]"
   - "[[Differentiated Instruction]]"
+  - "[[The Sublime]]"
   - "[[Mediatisation of Education Policy]]"
   - "[[School Choice]]"
   - "[[School Autonomy]]"
@@ -84,6 +85,7 @@ related_persons:
   - "[[António Nóvoa]]"
   - "[[Nikolas Rose]]"
   - "[[Stephen Ball]]"
+  - "[[Martin Luther]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
@@ -113,7 +115,7 @@ related_arguments: []
 sources:
   - "[[sources/Grek_2009_JEdPolicy|Grek_2009_JEdPolicy]]"
 created: 2026-10-21
-updated: 2026-11-11
+updated: 2026-11-14
 status: draft
 ---
 ---
@@ -228,7 +230,7 @@ PISA 的技术设计彻底脱离了各个国家具体的教学大纲与文化背
 
 > [!case] 芬兰案例档案：奇迹叙事与防御性集权调整
 > - **历史参照系的反转** 芬兰传统上习惯于向外国寻求教育改革模式，长年以德国作为制度借鉴典范；PISA 结果公布后芬兰突然从学习追随者转变为全球学习典范（Välijärvi et al., 2002, p. 3）。
-> - **成功机制的官方归因** 芬兰教育部将成就归因于高质量与高公平的结合（Ministry of Education, 2007）；综合学校制度的非分流特征（non-[[Differentiated Instruction|differentiation]]）消除了过早学轨划分，确保教师能兼顾各类学生差异；教师享有崇高的社会地位，全员具备教育学硕士学历。
+> - **成功机制的官方归因** 芬兰教育部将成就归因于高质量与高公平的结合（Ministry of Education, 2007）；综合学校制度的非分流特征（non-[[Differentiated Instruction|differentiation]]）消除了过早学轨划分，确保教师能兼顾各类学生差异；教师享有[[The Sublime|崇高]]的社会地位，全员具备教育学硕士学历。
 > - **无统考环境与教学自主权** 芬兰在义务教育阶段完全不设全国性升学终结考试，国家评分标准保持弹性；教师完全自主决定选用教科书，承接了 1990 年代初课程改革所赋予的广泛教学自由。
 > - **克制的媒体关注度** 芬兰新闻界在公布结果后表现极为平静，仅有 8 个版面的报道篇幅，与德国引发的全民舆论风暴形成鲜明对照（European Network, 2004）。
 > - **政策决策的悖论性收紧** 在获得全球极高声誉的同时，芬兰政府出台政策，通过增加综合学校的必修课比重并向核心学科倾斜来推进体系一体化（Välijärvi et al., 2002, p. 44），展现出评估数据与国内政治决策之间复杂的非对称联动。
@@ -242,7 +244,7 @@ PISA 的技术设计彻底脱离了各个国家具体的教学大纲与文化背
 > - **部长级会议的紧急动员** [[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]（Standing Conference of the Ministers of Education and Cultural Affairs, KMK）于 2002 年通过紧急决议，拟定衡量初中与高中毕业能力水平的国家标准，并在小学及中学末期全面推行大规模标准化统测。
 > - **从输入管理转向产出监控** 摆脱过去仅依靠大纲课时与资源调配的传统模式，转向以毕业能力和劳动力市场准入技能为核心的产出控制体系。
 > - **直接对接测评的项目研发** 尽管国内学界对统计效度存在批评（Wuttke, 2006），各州仍启动了直接对应测评模型的重大改进工程，包括[[Chemie im Kontext|情境中的化学]]项目（Chemie im Kontext, CHIK）、情境中的物理项目（[[Physik im Kontext]], PIKO）以及理科教学增效项目（[[SINUS|Steigerung der Effizienz des mathematisch-naturwissenschaftlichen Unterrichts]], SINUS）（BMBF, 2007）；德国 PISA 联合体定期发布能力监测报告（Prenzel et al., 2004）。
-> - **学校组织的现代性重塑** 路德维希·庞格拉茨（Ludwig Pongratz）将这一改革讨论与 1960 年代的教育大灾难（Bildungskatastrophe）相对照，指出激进改革已超出数据本身的直接要求，其实质是借助外部压力将德国学校改造为自负盈亏、接受全面质量监控的自我管理组织（Pongratz, 2006, p. 472; p. 30）。
+> - **学校组织的现代性重塑** [[Martin Luther|路德]]维希·庞格拉茨（Ludwig Pongratz）将这一改革讨论与 1960 年代的教育大灾难（Bildungskatastrophe）相对照，指出激进改革已超出数据本身的直接要求，其实质是借助外部压力将德国学校改造为自负盈亏、接受全面质量监控的自我管理组织（Pongratz, 2006, p. 472; p. 30）。
 
 > [!sub-claim] 3. 英国拿亮眼排名为既有路线背书，英格兰与苏格兰借数据各取所需
 

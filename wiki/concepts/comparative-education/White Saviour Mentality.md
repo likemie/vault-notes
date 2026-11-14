@@ -32,6 +32,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Epoché]]"
   - "[[Crisis Epistemology]]"
+  - "[[The Sublime]]"
   - "[[Contributory Expertise]]"
   - "[[Aidland]]"
   - "[[Country Ownership]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-10
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -126,7 +127,7 @@ updated: 2026-11-11
 > [!debates|notitle] 学术争议
 >
 > > [!axis] 善意人道主义救援 vs 结构性权力再生产
-> > 学界围绕外部专家的援助行动属于超越国界的崇高利他行为，还是再生产南北不平等的[[Hegemony|文化霸权]]工具展开辩论。
+> > 学界围绕外部专家的援助行动属于超越国界的[[The Sublime|崇高]]利他行为，还是再生产南北不平等的[[Hegemony|文化霸权]]工具展开辩论。
 > >
 > > - **传统人道主义发展学派** 坚称全球最贫困脆弱地区的教育危机具有迫切性，具备专业技术与充足资源的外部专家参与援助属于人权保障底线，不应过度泛政治化。
 > > - **后殖民与去殖民批评学派（[[Argument_Santos_Silova_2026_Discourse|Santos & Silova, 2026]]; Cole, 2012）** 指出抛开殖民历史与地缘资本分配不均的“中立技术救助”，本质是将结构性压迫转化为个别施恩者的道德剧场，客观上巩固了全球北方掌握唯一真理的认知垄断。

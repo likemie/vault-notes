@@ -23,6 +23,7 @@ tags:
   - theme/governance
 related_concepts:
   - "[[Heckler's Veto]]"
+  - "[[The Sublime]]"
   - "[[Grandes Ecoles]]"
   - "[[Academic Freedom]]"
   - "[[Technological Republic]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-11-14
 ---
 
 ---
@@ -65,7 +66,7 @@ updated: 2026-10-22
 > - **1961** 出任耶鲁大学教务长（Provost）。
 > - **1963** 正式就任耶鲁大学第 17 任校长，启动一系列现代化改革，包括废除按家庭财富与背景录取的旧规，率先实行基于需求的全奖盲审录取（Need-blind Admission），并于 1969 年实现男女同校。
 > - **1963** 在极端种族隔离分子华莱士访校风波中收到[[Pauli Murray|保利·默里]]来信，后在多方暴力威胁压力下撤回邀请（后自述从原则上看属错误妥协，但在防范暴力上有现实考量）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 58–59)]]
-> - **1970** 在耶鲁黑豹党审判（[[1970 Yale May Day Crisis|1970年耶鲁五一危机]]）期间，顶住校园炸弹爆炸与国民警卫队进驻的恐慌，公开向抗议者开放食堂与宿舍，并发表关于司法公正的争议言论，顶住白宫逼退风暴确立崇高声望。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 65–66)]]
+> - **1970** 在耶鲁黑豹党审判（[[1970 Yale May Day Crisis|1970年耶鲁五一危机]]）期间，顶住校园炸弹爆炸与国民警卫队进驻的恐慌，公开向抗议者开放食堂与宿舍，并发表关于司法公正的争议言论，顶住白宫逼退风暴确立[[The Sublime|崇高]]声望。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 65–66)]]
 > - **1977–1981** 被吉米·卡特总统任命为美国驻英国大使。
 > - **1986–1988** 出任牛津大学大学学院院长，成为历史上极少数主掌牛津学院的美国学者。
 > - **1988** 逝世于英国牛津。

@@ -21,6 +21,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Construct]]"
   - "[[Hypothesis]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Document]]"
   - "[[Big Ideas]]"
   - "[[Operationalization]]"
@@ -46,7 +47,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -101,7 +102,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题一｜在同等解释效力下，包含较少假定与概念实体的理论在[[Epistemology|认识论]]上更为优越
-> **理论评价与概念经济维度** 探讨科学理论的选择准则。简约原则确立了理论美学与[[Epistemology\|认识论]]上的优先性排序。
+> **理论评价与概念经济维度** 探讨科学理论的选择准则。简约原则确立了理论[[Philosophical Aesthetics|美学]]与[[Epistemology\|认识论]]上的优先性排序。
 
 > [!claim] Cohen, Manion & Morrison
 > **概念经济性与理论选择判定** 科学探究要求以最经济的方式解释现象；面对同一教育事实，用两项概念予以说明明确优于使用三项概念，简明的理论模型在认识论上始终优先于臃肿繁复的理论系统。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 16)]]

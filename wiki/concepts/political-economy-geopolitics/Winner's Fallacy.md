@@ -22,6 +22,7 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[Geopolitics]]"
   - "[[Grand Theory]]"
+  - "[[The Sublime]]"
   - "[[Demonstration Effect]]"
   - "[[Augmented Reality]]"
   - "[[Technological Republic]]"
@@ -43,7 +44,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -83,7 +84,7 @@ updated: 2026-11-03
 >   二战以来数代人未经历大国直接交锋的惨烈恐怖，导致社会精英将和平视为自然演化的既定事实，完全丧失了对地缘冲突与强权掠夺的现实警惕。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 29–30)]]
 > - **制度胜利的意识形态神圣化**
 >   将冷战阶段性结局教条化为人类历史演进的绝对终点，误以为民主制度的道义号召力足以自动瓦解一切外部威权挑战。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–32)]]
-> - **道德崇高与战略筹码的割裂**
+> - **道德[[The Sublime|崇高]]与战略筹码的割裂**
 >   沉溺于微观的伦理审查与道德纯洁性辩论，忽视了国际外交谈判根本依托于施加伤害能力的冷酷现实。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 32–33)]]
 > - **对国家庇护契约的单向解构**
 >   科技新贵在法治、资本市场与公共研发体系的培育下建立商业帝国，却在国家面临安全挑战时拒绝提供技术支持，陷入道德搭便车心态。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 34–35)]]

@@ -29,9 +29,9 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Grandes Ecoles]]"
   - "[[Research Translation]]"
+  - "[[The Sublime]]"
   - "[[Policy Borrowing]]"
   - "[[Educational Decentralization]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Participant Observation]]"
@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-11-02
+updated: 2026-11-14
 ---
 
 ---
@@ -83,7 +83,7 @@ updated: 2026-11-02
 > - **高阶学术与咨询专家库** 长期与美国顶尖政策学院、测量机构与教师专业发展学者保持紧密合作，形成即时响应的咨询响应网络。
 
 > [!pathways] 业务运行机制
-> - **高层政治穿梭与议程敲门** 亨特州长与前西弗吉尼亚州州长鲍勃·怀斯（Bob Wise）凭借个人在两党州长间的崇高威望，充当跨界[[Policy Entrepreneur|政策企业家]]，亲自前往各州游说，打消地方保守派对联邦集权的疑虑。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 8)]]
+> - **高层政治穿梭与议程敲门** 亨特州长与前西弗吉尼亚州州长鲍勃·怀斯（Bob Wise）凭借个人在两党州长间的[[The Sublime|崇高]]威望，充当跨界[[Policy Entrepreneur|政策企业家]]，亲自前往各州游说，打消地方保守派对联邦集权的疑虑。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 8)]]
 > - **中介组织每周例行协调网络** 自 2010 年秋季起，亨特研究所常态化组织涵盖[[National Governors Association|全国州长协会]]（NGA）、[[Council of Chief State School Officers|州首席教育官理事会]]（CCSSO）、两大教师工会（[[American Federation of Teachers|AFT]]、[[National Education Association|NEA]]）、全国家长教师协会（PTA）以及智库的每周跨机构电话会议，系统同步各州立法进展与风险预警。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 20)]]
 > - **循证知识转译与去行话包装** 将晦涩的认知心理学与跨国测评数据（[[TIMSS]]/[[PISA]]）剪裁为通俗易懂的“政策简报（Briefings）”，使民选政客能在数分钟内把握核心决策逻辑。
 

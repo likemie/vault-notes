@@ -29,6 +29,7 @@ related_concepts:
   - "[[Industry Affiliate Program]]"
   - "[[International Schools]]"
   - "[[Global Education Industry]]"
+  - "[[The Sublime]]"
   - "[[Public-Private Partnership]]"
   - "[[Transnational Education]]"
 related_theories:
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-09
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -130,7 +131,7 @@ updated: 2026-11-11
 > [!debates] 核心争议交锋
 >
 > > [!axis] 国家品牌信誉维护 vs 商业产品参差不齐
-> > 批评者指出，部分会员企业推销的快速短训班与商业软件缺乏实证严谨性，一旦在海外遭遇学业成效质疑，将直接损害整个芬兰公立基础教育积累的崇高国际信誉；机构方则辩称已建立严格的专家准入审核与伦理评估流程，能够维护国家品牌声誉。
+> > 批评者指出，部分会员企业推销的快速短训班与商业软件缺乏实证严谨性，一旦在海外遭遇学业成效质疑，将直接损害整个芬兰公立基础教育积累的[[The Sublime|崇高]]国际信誉；机构方则辩称已建立严格的专家准入审核与伦理评估流程，能够维护国家品牌声誉。
 >
 > > [!axis] 公私利益混同与寻租风险
 > > 政策社会学分析表明，官方通过国家教育局设立产业集群，使特定私营资本得以借用主权国家公信力进行海外商业寻租，造成纳税人公共财政承担外事推广开支而私人资本独享商业利润的非对称利益格局。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 391–393)]]

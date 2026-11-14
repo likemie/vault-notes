@@ -26,12 +26,14 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Creativity]]"
   - "[[Direct Instruction]]"
+  - "[[The Sublime]]"
   - "[[Herbart-Zillerist Pedagogy]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Johann Heinrich Pestalozzi]]"
+  - "[[Martin Luther]]"
 related_facts:
   - "[[Jyväskylä Teacher Seminary]]"
   - "[[National Board of General Education in Finland]]"
@@ -42,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -61,7 +63,7 @@ updated: 2026-11-11
 
 > [!timeline] 生平与职涯
 > - **1810** 出生于芬兰海门林纳（Hämeenlinna），后于图尔库皇家学院及赫尔辛基大学修读自然科学与神学。
-> - **1837–1858** 历任维堡路德宗教区牧师与俄美公司阿拉斯加新阿尔汉格尔斯克教区牧师，在边疆办学实践中积累初等教育与手工劳作设想。
+> - **1837–1858** 历任维堡[[Martin Luther|路德]]宗教区牧师与俄美公司阿拉斯加新阿尔汉格尔斯克教区牧师，在边疆办学实践中积累初等教育与手工劳作设想。
 > - **1858–1861** 受芬兰参议院委托赴瑞典、丹麦、德国与瑞士系统考察欧洲初等教育，重点吸收裴斯泰洛齐、弗勒贝尔与第斯多惠的教学改革经验。
 > - **1863** 创办芬兰第一所培养男女初等教育教师的于韦斯屈莱师范讲习所，并担任首任所长直至 1869 年。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 24, 40)]]
 > - **1866** 起草并推动芬兰参议院颁布《国民学校法令》，正式确立初等教育世俗化公立学制。
@@ -94,7 +96,7 @@ updated: 2026-11-11
 > - **跨国传播** 劳作教育成为 19 世纪末国际[[New Education Movement|新教育运动]]的重要借鉴对象，确立了芬兰在国际手工教育领域的早期声誉。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] 阐明西格纽斯确立的严厉师范选拔与威权式德育规范，如何跨越一个多世纪持续塑造芬兰教师的崇高社会地位与高结构微观课堂实践。
+> - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] 阐明西格纽斯确立的严厉师范选拔与威权式德育规范，如何跨越一个多世纪持续塑造芬兰教师的[[The Sublime|崇高]]社会地位与高结构微观课堂实践。
 
 ---
 

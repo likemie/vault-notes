@@ -47,6 +47,7 @@ related_concepts:
   - "[[Man-Computer Symbiosis]]"
   - "[[Strategic Autonomy]]"
   - "[[Lifelong Learning]]"
+  - "[[The Sublime]]"
   - "[[Variable]]"
   - "[[Document]]"
   - "[[Research Translation]]"
@@ -97,7 +98,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -284,7 +285,7 @@ updated: 2026-11-03
 > > 争论教育的首要公共价值是培养平等批判的民主公民，还是提升劳动力市场的生产率与全球竞争力。
 > >
 > > - **[[OECD|经合组织]]（OECD）与人力资本视角** 强调在[[Knowledge-Based Economy|知识经济]]时代，教育的首要使命是开发劳动力技能、促进[[Lifelong Learning|终身学习]]并为经济增长提供持续动力，国家必须通过可测量的绩效数据确保教育投资的经济回报。
-> > - **批判教育社会学立场** 强调教育是人人共享的民主权利与文化公物；将教育公共价值完全依附于人力资本产出，不仅侵蚀了教育培养自由批判人格与社会平等的崇高使命，更将社会正义降格为服务于资本积累的残余物。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–452)]]
+> > - **批判教育社会学立场** 强调教育是人人共享的民主权利与文化公物；将教育公共价值完全依附于人力资本产出，不仅侵蚀了教育培养自由批判人格与社会平等的[[The Sublime|崇高]]使命，更将社会正义降格为服务于资本积累的残余物。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–452)]]
 
 ---
 

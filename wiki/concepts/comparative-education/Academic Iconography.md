@@ -26,6 +26,7 @@ related_concepts:
   - "[[Scientific Credit]]"
   - "[[Reflexivity]]"
   - "[[Epistemology]]"
+  - "[[The Sublime]]"
   - "[[Avatar]]"
   - "[[Comparative History of Comparative Education]]"
   - "[[Discipline-Based Theory]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -79,7 +80,7 @@ updated: 2026-11-03
 ---
 
 > [!feature] 核心机制与建构特征
-> - **起源图腾的神圣化（Sacralization of Origin Totems）** 学科倾向于选定个别兼具道德声望与行政地位的学者作为开山鼻祖（如[[Michael Sadler\|迈克尔·萨德勒]]爵士），将其塑造为学科纯洁性与崇高使命的[[Avatar\|化身]]。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
+> - **起源图腾的神圣化（Sacralization of Origin Totems）** 学科倾向于选定个别兼具道德声望与行政地位的学者作为开山鼻祖（如[[Michael Sadler\|迈克尔·萨德勒]]爵士），将其塑造为学科纯洁性与[[The Sublime|崇高]]使命的[[Avatar\|化身]]。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
 > - **经典的去脉络化拔高（Decontextualized Canonization）** 将特定演讲或片段隐喻（如 Sadler 1900 年关于外部力量不可随意移植的花园隐喻）抽离出具体政策争端，赋予其普遍方法论法典地位，掩盖其概念模糊性与操作困境。
 > - **传统的发明与合法性确证（Invention of Disciplinary Tradition）** 在学科谋求大学独立教席、系所建制与基金资助的特定历史阶段，通过回溯性建构连续的伟人谱系来掩盖学科初期的断裂与偶然性。
 > - **能见度分配的系统性倒错（Asymmetric Invisibility）** 肖像学在制造聚光灯效应的同时，将真实构筑跨国思想立交桥的复杂行动者（如[[Joseph Lauwerys\|约瑟夫·劳韦里斯]]、[[George Bereday\|乔治·贝雷迪]]）简化为轶事，并将女性学者（如安·德赖兰 [Ann Dryland]、哈廷盖夫人 [Madame Hattinguais]）彻底边缘化。

@@ -45,6 +45,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Dissimilar Units]]"
   - "[[Heterogeneity]]"
+  - "[[The Sublime]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Comprehensive Education]]"
   - "[[Grand Theory]]"
@@ -85,6 +86,7 @@ related_persons:
   - "[[Michael Sadler]]"
 related_facts:
   - "[[IEA]]"
+  - "[[Toward a Science of Comparative Education 1969]]"
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[CHIPS and Science Act]]"
@@ -95,7 +97,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -180,7 +182,7 @@ updated: 2026-11-11
 > **超越时空的非历时性制度规律** 比较教育学的科学任务应当是建立由抽象社会系统构成的分析模型，探索其本质上不带历史时态且往往超越时间的内在关联（relationships of essentially undated and often timeless nature）；研究者虽面临制度复杂性的巨大挑战，但通过严格隔离控制[[Variable\|变量]]与大样本统计推断，完全能够剔除主观信念与历史干扰，确立跨国恒常通则。（Anderson, 1961, p. 4; [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou, 2009, pp. 62, 65]]）
 
 > [!claim] [[Harold Noah\|Noah, H. J.]] & [[Max Eckstein\|Eckstein, M. A.]]
-> **变量函数共变关系与拒称法则自律** 比较研究旨在通过严密的变量[[Operationalization\|操作化]]，在跨国数据中建立可检验的数学函数关系（$y = f(x)$）；然而由于函数共变不等于因果关联、变量影响传递方向具有双向不确定性且微观因果传导机制未明，研究者必须保持高度方法论自律，审慎避免将经验概括性命题赋予法则（laws）的崇高地位。（Noah & Eckstein, 1969: 96, 120; [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou, 2009, p. 62]]）
+> **变量函数共变关系与拒称法则自律** 比较研究旨在通过严密的变量[[Operationalization\|操作化]]，在跨国数据中建立可检验的数学函数关系（$y = f(x)$）；然而由于函数共变不等于因果关联、变量影响传递方向具有双向不确定性且微观因果传导机制未明，研究者必须保持高度方法论自律，审慎避免将经验概括性命题赋予法则（laws）的[[The Sublime|崇高]]地位。（Noah & Eckstein, 1969: 96, 120; [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou, 2009, p. 62]]）
 
 > [!claim] [[Brian Holmes\|Holmes, B.]]
 > **情境权变社会学法则与预测划界标准** 汲取爱因斯坦相对论物理学启示，断言社会学法则的有效性严格依赖于其适用的初始情境条件，不存在绝对超越时空的因果定律；比较教育学必须放弃探寻普适全称定律的野心，转而运用假说-演绎法化解具体技术问题，并将政策后果的概率性预测确立为界定科学与非科学的根本划界标准。（Holmes, 1981: 78–79; [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou, 2009, pp. 62–64, 67]]）
@@ -232,7 +234,7 @@ updated: 2026-11-11
 
 > [!dev-timeline] 科学[[Paradigm|范式]]的兴起、演进与解体
 > - **1950 年代末 — 历史范式危机与转型萌发** 二战浩劫击碎了古典人文教化精英的神话，古典历史学派被指责沉溺于宏观文化白描而无力回应战后重建规划；[[George Bereday|乔治·贝雷迪]]（George Bereday）提出比较四步法，将学科目标推向跨国普遍法则探寻，充当过渡桥梁。（pp. 59–62）
-> - **1960 年代 — 科学范式全盛与[[Epistemology|认识论]]大论战** 芝加哥大学中心建立，推进超越时空的制度规律探索；诺亚与埃克斯坦（1969）出版《走向比较教育科学》，建立[[Variable|变量]]共变检验程序；霍姆斯（1965, 1981）提出[[Critical Dualism|批判二元论]]与假说-演绎[[Problem Approach|问题法]]，以预测力划界；科学范式确立绝对统治地位。（pp. 62–67）
+> - **1960 年代 — 科学范式全盛与[[Epistemology|认识论]]大论战** 芝加哥大学中心建立，推进超越时空的制度规律探索；诺亚与埃克斯坦（1969）出版《[[Toward a Science of Comparative Education 1969|走向比较教育科学]]》，建立[[Variable|变量]]共变检验程序；霍姆斯（1965, 1981）提出[[Critical Dualism|批判二元论]]与假说-演绎[[Problem Approach|问题法]]，以预测力划界；科学范式确立绝对统治地位。（pp. 62–67）
 > - **1970 年代中叶 — 三重危机与全包容神话破灭** 西方滞胀与第三世界危机戳破了实证规划承诺；量子物理学打破[[Determinism|决定论]]神话；后现代思潮解构[[Grand Theory|宏大叙事]]，单一科学范式不可逆转地走向衰落。（pp. 68–69）
 > - **1980 年代至今 — 学科复数化与全球治理制度惯性** 学界确立多元范式并存且无霸权主导的共识（[[Comparative Educations]]）；与此同时，实证量化模式在 [[IEA]] 与 [[OECD]]（如 [[PISA]] 测验）等跨国治理机制中依然保有强大的制度惯性[[Discourse|话语]]权。（p. 69）
 > - **2000 年代 — [[Pluralism|健康多元主义]]实证确立** 拉斯特等学者（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）依托文献计量实证证实，冷战时期单一实证功能主义正统已彻底终结，学科演进为涵盖 26 种理论传统的健康多元主义格局，确立了方法论与理论工具自由选择的成熟研究范式。

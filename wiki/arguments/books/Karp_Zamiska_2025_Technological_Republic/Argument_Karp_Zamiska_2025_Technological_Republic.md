@@ -53,6 +53,7 @@ related_concepts:
   - "[[Effective Altruism]]"
   - "[[Civic Rituals]]"
   - "[[Junzi]]"
+  - "[[The Sublime]]"
   - "[[Scapegoat Mechanism]]"
   - "[[Dunbar's Number]]"
   - "[[Everyday Plebiscite]]"
@@ -260,7 +261,7 @@ related_methods:
   - "[[Effectiveness Trial]]"
 status: draft
 created: '2026-10-07'
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 ---
 
@@ -288,7 +289,7 @@ updated: 2026-11-11
 > - **[[Engineering Mindset|工程思维]]与[[Swarm Intelligence|群智能]]** 借鉴生物蜂群（[[Martin Lindauer|林道尔]]）与[[Flocking Behavior|椋鸟群飞]]（[[Giorgio Parisi|帕里西]]）的[[Edge Autonomy|边缘自治]]，结合即兴演剧（约翰斯通）、反权威从众心理（阿施、[[Stanley Milgram|米尔格拉姆]]）与刺猬/狐狸模型（柏林、[[Philip Tetlock|泰特洛克]]），构建直面客观物理与实战反馈的微观组织哲学（pp. 115–167）。
 > - **[[Founder Culture|创始人文化]]、长程资产托管与所有权社会** 结合奥德修斯自我约束、大卫·斯文森三百年托管哲学、全员股权公社与法伦布拉赫（Fahlenbrach, 2009）及普渡大学团队（Lee et al., 2016）实证，确立创始人长期主义溢价，提供打破防卫型官僚与季度短期主义的组织治理典范（pp. 171–189, 205–218）。
 > - **[[Cultural Relativism|文化相对主义]]与[[Effective Altruism|有效利他主义]]批判** 批判本尼迪克特人类学假说、克拉克文明论战中的相对主义虚无，以及硅谷将道德承诺退化为抽象量化避险计算的意识形态异化，倡导恢复对客观审美与卓越成就的坚定辨别力（pp. 83–96, 205–218）。
-> - **[[Civic Rituals|公民仪式]]与儒家[[Junzi|君子]]美德** 结合赫希国家制造装置理论、[[Lee Kuan Yew|李光耀]]治国思想与古典共和主义，论证以教育通识正典、国民防卫服役及君子实质美德维系陌生人间“想象亲密感”，在自由市场个人主义与崇高集体体验中重铸技术共和国（pp. 190–218）。
+> - **[[Civic Rituals|公民仪式]]与儒家[[Junzi|君子]]美德** 结合赫希国家制造装置理论、[[Lee Kuan Yew|李光耀]]治国思想与古典共和主义，论证以教育通识正典、国民防卫服役及君子实质美德维系陌生人间“想象亲密感”，在自由市场个人主义与[[The Sublime|崇高]]集体体验中重铸技术共和国（pp. 190–218）。
 > - **[[Scapegoat Mechanism|替罪羊机制]]与清教禁欲悖论** 借助[[Kenneth Burke|肯尼斯·伯克]]修辞学与新加坡[[Lee Kuan Yew|李光耀]]对标实践，剖析体制在遭遇结构性无能时如何借由微小合规瑕疵名誉献祭[[Hyman Rickover|里科弗]]式实干领袖，阐明务实激励与共同体认同的必要性（pp. 179–189）。
 > - **[[Dunbar's Number|邓巴数]]、[[Everyday Plebiscite|每日公投]]与[[Civic Religion|公民宗教]]** 引入演化人类学（邓巴）、现代民族理论（勒南、安德森）与宗教社会学（贝拉），论证超大规模现代技术文明必须依赖超越血统的共享神话与公民宗教以维系跨世代的生存与防卫意志（pp. 190–204）。
 
@@ -352,7 +353,7 @@ updated: 2026-11-11
 ### 破除市场必胜论与形式合规迷思：以创始人长程托管、公民仪式与君子美德重铸技术共和国
 
 > [!book-synthesis] 破除程序主义与以[[Founder Culture|创始人文化]]重铸[[Technological Republic|技术共和国]]的制度逻辑
-> - **递进或修正** 针对公共治理与文明重塑，论证构建起四重批判与建设支柱：在外部市场层面，[[Market Triumphalism|市场必胜论]]与特权阶层[[Luxury Belief|炫耀性信念]]将前沿科技驱逐出公共领域，制造了大面积的[[Innovation Desert|创新荒漠]]；在公共治理内部，清教徒式道德纯洁性与微薄薪酬制度将公职演变为富豪寡头志愿活动或离职变现秀，狭隘程序主义借助[[Scapegoat Mechanism|替罪羊机制]]逆向淘汰[[Hyman Rickover|里科弗]]式实干领袖；在文明生存哲学层面，超大规模现代文明无法仅凭自然纽带维系，必须依托[[Imagined Community|想象的共同体]]克服[[Dunbar's Number|邓巴数]]生理社交极限，以[[Everyday Plebiscite|每日公投]]命题重塑全民族共享神话与[[Civic Religion|公民宗教]]；在政治哲学收官层面，深科技构建高度依赖审美品味，创始人长期主义溢价（Founder Premium）与全员股权所有权模式打破了资本雇佣异化，批判[[Cultural Relativism|文化相对主义]]、[[Effective Altruism|有效利他主义]]与形式[[Value Neutrality|价值中立]]的避险算计，主张在公共领域复兴儒家[[Junzi|君子]]式实质美德与[[Civic Rituals|制造国家的公民仪式]]，在个人自由与崇高集体体验中重铸[[Technological Republic|技术共和国]]。（pp. 171–218）
+> - **递进或修正** 针对公共治理与文明重塑，论证构建起四重批判与建设支柱：在外部市场层面，[[Market Triumphalism|市场必胜论]]与特权阶层[[Luxury Belief|炫耀性信念]]将前沿科技驱逐出公共领域，制造了大面积的[[Innovation Desert|创新荒漠]]；在公共治理内部，清教徒式道德纯洁性与微薄薪酬制度将公职演变为富豪寡头志愿活动或离职变现秀，狭隘程序主义借助[[Scapegoat Mechanism|替罪羊机制]]逆向淘汰[[Hyman Rickover|里科弗]]式实干领袖；在文明生存哲学层面，超大规模现代文明无法仅凭自然纽带维系，必须依托[[Imagined Community|想象的共同体]]克服[[Dunbar's Number|邓巴数]]生理社交极限，以[[Everyday Plebiscite|每日公投]]命题重塑全民族共享神话与[[Civic Religion|公民宗教]]；在政治哲学收官层面，深科技构建高度依赖审美品味，创始人长期主义溢价（Founder Premium）与全员股权所有权模式打破了资本雇佣异化，批判[[Cultural Relativism|文化相对主义]]、[[Effective Altruism|有效利他主义]]与形式[[Value Neutrality|价值中立]]的避险算计，主张在公共领域复兴儒家[[Junzi|君子]]式实质美德与[[Civic Rituals|制造国家的公民仪式]]，在个人自由与[[The Sublime|崇高]]集体体验中重铸[[Technological Republic|技术共和国]]。（pp. 171–218）
 > - **成立条件** 这一治理重塑方案依赖于社会勇于打破程序中立与形式合规所制造的道德真空，重振对实质公共善、卓越美德与实战成果的哲学裁判；同时要求制度设计在破除清教徒禁欲主义的同时，以市场化对标激励、[[Founder Culture|创始人文化]]、全员股权所有权社会与超越血缘的公民认同构筑权责与信念对称的长效协同机制。（pp. 178–218）
 
 ---

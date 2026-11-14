@@ -35,6 +35,7 @@ related_concepts:
   - "[[Technological Republic]]"
   - "[[Sage]]"
   - "[[Algorithmic Bias]]"
+  - "[[The Sublime]]"
   - "[[Blackstone's Ratio]]"
   - "[[Hard Power]]"
   - "[[Engineering Mindset]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -217,7 +218,7 @@ updated: 2026-11-11
 > > [!axis] 公职道德圣职化 vs 市场对标薪酬激励
 > > 探讨公共部门应依赖公职人员的无私奉献，还是依赖市场化薪酬吸引顶尖人才以跨越创新荒漠。
 > >
-> > - **传统公职道德派** 认为公共服务是崇高的道德召唤，给予高薪会招致逐利之徒，损害公共信托。
+> > - **传统公职道德派** 认为公共服务是[[The Sublime|崇高]]的道德召唤，给予高薪会招致逐利之徒，损害公共信托。
 > > - **[[Lee Kuan Yew|李光耀]]与现代治理派** 指出“极少有人会成为神职人员”，低薪不仅无法防腐，反而导致治理人才流失、富豪垄断公职或离职寻租，必须对标市场薪酬才能吸引顶尖工程治理人才。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 180–183)]]
 
 > [!warning] 适用局限

@@ -23,6 +23,7 @@ tags:
   - theme/critical-theory
 related_concepts:
   - "[[Buen Vivir]]"
+  - "[[The Sublime]]"
   - "[[The Right and the Good]]"
   - "[[Hard Belief]]"
 related_theories:
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-25
+updated: 2026-11-14
 ---
 
 ---
@@ -73,7 +74,7 @@ updated: 2026-10-25
 ---
 
 > [!claim] 核心思想
-> [[Ágnes Heller|阿格妮丝·赫勒]]（Ágnes Heller）主张，人类生存的完满性绝不能仅由抽象的法律规则与程序正义来定义。正义是维持社会运转不可或缺的制度骨架，但赋予生活以真正意义与充实感的，是人们在具体历史与文化中对美德、审美、爱以及崇高之“善”的追求与体验。放弃对[[Buen Vivir|美好生活]]的道德决断，将导致现代社会在技术与物质繁荣中丧失精神内核。
+> [[Ágnes Heller|阿格妮丝·赫勒]]（Ágnes Heller）主张，人类生存的完满性绝不能仅由抽象的法律规则与程序正义来定义。正义是维持社会运转不可或缺的制度骨架，但赋予生活以真正意义与充实感的，是人们在具体历史与文化中对美德、审美、爱以及[[The Sublime|崇高]]之“善”的追求与体验。放弃对[[Buen Vivir|美好生活]]的道德决断，将导致现代社会在技术与物质繁荣中丧失精神内核。
 
 ---
 

@@ -24,6 +24,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Paradigm]]"
   - "[[Ways of Knowing]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Cultural Hierarchy]]"
   - "[[Ontology]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 > [!theory-position] 理论定位
@@ -89,7 +90,7 @@ updated: 2026-11-11
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 1990 年代至 2000 年代初由瓦尔特·米尼奥洛（[[Walter Mignolo]]）、恩里克·杜塞尔（Enrique Dussel）与阿尼瓦尔·基哈诺（Aníbal Quijano）等拉美学者确立基础。Mignolo (2002) 在 *The [[Geopolitics of Knowledge]] and the Colonial Difference* 中系统阐发去殖民知识地缘政治分析框架。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 38–39)]]
+> - **提出者与原始文本** 1990 年代至 2000 年代初由瓦尔特·米尼奥洛（[[Walter Mignolo]]）、恩里克·杜塞尔（Enrique Dussel）与阿尼瓦尔·基哈诺（Aníbal Quijano）等拉[[Philosophical Aesthetics|美学]]者确立基础。Mignolo (2002) 在 *The [[Geopolitics of Knowledge]] and the Colonial Difference* 中系统阐发去殖民知识地缘政治分析框架。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 38–39)]]
 > - **原初问题** 20 世纪下半叶民族独立运动虽瓦解了形式上的殖民行政体系，全球南北之间的知识等级、技术依赖与文化依附却持续加剧。西方内部[[Postmodernism|后现代主义]]对启蒙理性的反思局限于欧洲经验内部，无法诊断殖民差异对第三世界造成的系统性压制。
 > - **理论资源与材料** 吸收基哈诺关于“权力的殖民性”（coloniality of power）判断、[[Dependency Theory|依附理论]]、[[Immanuel Wallerstein|沃勒斯坦]]世界体系论，以及弗朗茨·[[Frantz Fanon|法农]]（Frantz Fanon）在《黑皮肤，白面具》（1952）中对殖民主体心理创伤与[[Cultural Hierarchy|文化等级]]的洞察。
 > - **形成路径** 从权力的殖民性推展至知识与存在的殖民性，证明知识始终具备空间与地理位置性；通过引入“殖民差异”，界定出帝国权力边界处知识被抹杀与重构的动力学机制，进而确立“去链接”（delinking）与“认识论不服从”纲领。

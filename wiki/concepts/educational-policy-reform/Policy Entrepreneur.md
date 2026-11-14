@@ -28,6 +28,7 @@ related_concepts:
   - "[[Externalization]]"
   - "[[Educational Management Organisation]]"
   - "[[Policy Mobility]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Homework]]"
   - "[[Transnational Education]]"
   - "[[Educational Privatisation]]"
@@ -76,7 +77,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -119,7 +120,7 @@ updated: 2026-11-11
 > [!feature] 核心要素
 > - **政策机会窗口敏锐捕捉（[[Policy Window]] Coupling）** 密切监控社会矛盾、宏观政治动向与政府资助激励，在危机舆论爆发或财政拨款开启的短暂窗口期，迅速将预设的改革方案与社会痛点精准对接。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–5)]]
 > - **跨界网络协同与多边同盟（Cross-Sector Networked Coalition）** 依托资深政界精英人脉、智库研究资源与学术领袖威望，绕过传统官僚[[Bureaucracy|科层制]]阻隔，组建跨越两党政要、商业领袖、基金会与专业组织的多元协同网络。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9, 21)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 73–74)]]
-> - **实证指标与核心价值策略性打包（Strategic Framing & Evidence Packaging）** 善于将冷峻的量化差距指标（如全美学生成绩评估 [[National Assessment of Educational Progress|NAEP]] 鸿沟、国际数学和科学评测 [[TIMSS]] 课程差距）与国家经济安全、阶层流动及社会正义等根本价值符号深度绑定，制造改革共识。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 10–12)]]
+> - **实证指标与核心价值策略性打包（Strategic Framing & Evidence Packaging）** 善于将冷峻的量化差距指标（如全[[Philosophical Aesthetics|美学]]生成绩评估 [[National Assessment of Educational Progress|NAEP]] 鸿沟、国际数学和科学评测 [[TIMSS]] 课程差距）与国家经济安全、阶层流动及社会正义等根本价值符号深度绑定，制造改革共识。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 10–12)]]
 > - **诉诸实证研究的技术性防卫（Technocratic Shielding）** 高举以证据为基础的专业旗帜，将高度政治化、涉及利益分配的改革方案定义为中立客观的学术研发与专业[[Homework|作业]]，筑牢抵御外部意识形态争议的制度护栏。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 13, 19)]]
 > - **跨公私载体无缝切换与知识商业化（Seamless Straddling & Monetisation）** 在国家公共顾问、非营利慈善信托与营利性商业公司三种制度载体间自由切换身份，依托[[Educational Management Organisation|教育管理组织]]（[[Educational Management Organisation|EMO]]）双层架构，实现公共科研成果的专有品牌化与跨国特许变现。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. viii–ix, 47–50)]]
 

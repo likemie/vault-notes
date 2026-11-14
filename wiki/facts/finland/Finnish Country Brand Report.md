@@ -30,6 +30,7 @@ tags:
 related_concepts:
   - "[[Nation Branding]]"
   - "[[Education Export]]"
+  - "[[The Sublime]]"
   - "[[Competitiveness]]"
   - "[[Education Going Global]]"
   - "[[Competition State]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -68,7 +69,7 @@ updated: 2026-11-11
 ---
 
 > [!claim] 政策核心
-> 报告正式将芬兰卓越的公立基础教育与教师培养体系确立为国家品牌三大支柱之一，提出将[[PISA|国际学生评估项目]]（PISA）积累的崇高国际公信力打包为具有全球[[Competitiveness|竞争力]]的商业营销资产，构建由国家统领的[[Education Going Global|教育出海]]推广网络，使公共教育服务于芬兰从传统福利国家向外向型[[Competition State|竞争国家]]的战略转型。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 380, 384, 387)]]
+> 报告正式将芬兰卓越的公立基础教育与教师培养体系确立为国家品牌三大支柱之一，提出将[[PISA|国际学生评估项目]]（PISA）积累的[[The Sublime|崇高]]国际公信力打包为具有全球[[Competitiveness|竞争力]]的商业营销资产，构建由国家统领的[[Education Going Global|教育出海]]推广网络，使公共教育服务于芬兰从传统福利国家向外向型[[Competition State|竞争国家]]的战略转型。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 380, 384, 387)]]
 
 > [!policy-design] 政策设计
 > - **政策目标** 树立芬兰作为全球[[Problem Solving|问题解决]]者的国家形象；将不可贸易的福利社会声誉转化为切实的外贸出口增长极；力争将[[GATS and Trade in Education Services|教育服务贸易]]培育为支柱产业。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, p. 384)]]

@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Research Universities]]"
   - "[[Competitiveness]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Early-Career Researchers]]"
   - "[[Research Translation]]"
   - "[[Heterogeneous Integration]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -69,7 +70,7 @@ updated: 2026-11-11
 
 > [!policy-design] 方案设计
 > - **项目目标** 保持美国在纳米技术与微电子基础研究领域的全球[[Competitiveness|竞争力]]，提供跨学科实验支持并培育全谱系高技术工程人才。（p. 21）
-> - **覆盖对象** 全美学术界师生、非营利科研机构学者、小企业创新研发人员及跨国企业先期探索团队。（p. 38）
+> - **覆盖对象** 全[[Philosophical Aesthetics|美学]]术界师生、非营利科研机构学者、小企业创新研发人员及跨国企业先期探索团队。（p. 38）
 > - **干预措施** 开放数千种微纳制造与分析表征工具；提供由全职专业工程技术人员支持的操作培训；建立跨节点统一计费、远程流片试验与知识产权保护机制。（pp. 21–22）
 > - **实施控制** 实行基于同行评议的项目准入、透明分时计费制度与严格的安全及防扩散合规审查。（p. 23）
 

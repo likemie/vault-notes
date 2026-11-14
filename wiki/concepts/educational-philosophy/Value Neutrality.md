@@ -31,6 +31,7 @@ related_concepts:
   - "[[Incommensurability]]"
   - "[[Variable]]"
   - "[[Discourse]]"
+  - "[[The Sublime]]"
   - "[[Geisteswissenschaften]]"
   - "[[Bildung]]"
   - "[[Postpositivism]]"
@@ -120,7 +121,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-17
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -173,7 +174,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题一｜19 世纪现代主义教育科学在发轫之初明确拒绝价值无涉并将事实经验彻底从属于全人伦理与制度改良
-> **伦理改良引领维度** 该维度澄清比较教育学与教育科学的历史源流，阐明其早期体系不仅不追求价值中立，反而明确将经验调查统领于全人教化与社会改良的崇高目的之中。
+> **伦理改良引领维度** 该维度澄清比较教育学与教育科学的历史源流，阐明其早期体系不仅不追求价值中立，反而明确将经验调查统领于全人教化与社会改良的[[The Sublime|崇高]]目的之中。
 
 > [!claim] Kaloyannaki, P. & [[Andreas Kazamias|Kazamias, A.]] M.
 > **早期准实证教育科学对价值无涉的明确拒斥** 19 世纪初现代主义先驱[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien）的比较教育[[Questionnaire|问卷]]与跨国观察表，从一开始就明确拒绝现代价值无涉的实证论；朱利安将教育学划归为欧陆“二级[[Geisteswissenschaften|精神科学]]”，其经验事实搜集始终全面服从于服务全人道德教化（[[Bildung]]）、预防流血革命并促进欧洲持久和平的启蒙伦理。20 世纪美国行为实证派（Noah & Eckstein, 1969）以现代“价值中立”标尺指责其问卷带有引导性提问与主观偏见，完全陷入了时代倒错的辉格史谬误，忽视了教育探究在发轫期天然具有的道德改良属性（[[Educational Meliorism]]）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 16–18)]]

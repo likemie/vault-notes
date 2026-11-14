@@ -27,6 +27,7 @@ related_concepts:
   - "[[Democratic Education]]"
   - "[[Bildung]]"
   - "[[Academic Freedom]]"
+  - "[[The Sublime]]"
   - "[[Educational Meliorism]]"
   - "[[National Rejuvenation Narrative]]"
   - "[[Theoretical Standpoint]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
@@ -118,7 +119,7 @@ updated: 2026-11-13
 > **文化根基与跨国对话的辩证统一** 历史学派断言，国际理解是建立在各民族对自身文化传统深邃理解基础上的文明互鉴，有别于要求抹去民族个性的虚无[[Cosmopolitanism|世界主义]]。
 
 > [!claim] Kandel, I.
-> **理智鉴赏作为国际理解的核心支柱** 坎德尔强调，比较教育的崇高使命在于培育一种基于理智、反思与鉴赏理解的国际主义，而非脆弱的情感空谈。一个对自己民族的文化精神毫无体认的学生，绝不可能真正领悟他国教育制度的精髓；只有通过文化民族主义汲取本国文明的精粹，才能在跨国比较中以包容博雅的胸襟接纳异质文明的贡献。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933: xxv; Kazamias, 2009: 49, 引自 Kazamias, 2009b)]]
+> **理智鉴赏作为国际理解的核心支柱** 坎德尔强调，比较教育的[[The Sublime|崇高]]使命在于培育一种基于理智、反思与鉴赏理解的国际主义，而非脆弱的情感空谈。一个对自己民族的文化精神毫无体认的学生，绝不可能真正领悟他国教育制度的精髓；只有通过文化民族主义汲取本国文明的精粹，才能在跨国比较中以包容博雅的胸襟接纳异质文明的贡献。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933: xxv; Kazamias, 2009: 49, 引自 Kazamias, 2009b)]]
 
 > [!claim] [[Andreas Kazamias\|Kazamias, A.]]
 > **坎德尔历史[[Educational Meliorism\|改良主义]]的价值核心** 卡扎米亚斯指出，坎德尔将比较教育视为一门具有强烈“历史改良主义（Historical Meliorism）”旨趣的学问。他通过倡导文化民族主义并猛烈抨击政治民族主义，实际上是在大萧条与世界大战阴云密布的至暗时刻，以比较教育学为思想武器，为捍卫人类西方自由民主传统与世界和平构筑起坚实的人文防线。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 1961: 91; 2009: 49, 引自 Kazamias, 2009b)]]

@@ -21,6 +21,7 @@ tags:
   - theme/team-science
   - theme/reward-system
 related_concepts:
+  - "[[The Sublime]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Document]]"
   - "[[Literature Search]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -68,7 +69,7 @@ updated: 2026-11-11
 > - **制度边界** 不等于成果被引量，被引量反映成果的宏观注意力汇聚，而信誉分配指涉该影响份额在各合作成员之间的具体归属折算。
 
 > [!citation-card] 科学奖励系统中的个体化导向与团队现实
-> 与其他职业相比，科学界以高度重视褒奖个体而非团队而著称。重大的标志性科学发现往往以发现者的名字冠名，从欧几里得几何学、牛顿运动定律，到孟德尔遗传定律与[[Werner Heisenberg|海森堡]]测不准原理皆是如此。同样，赋予巨额资金与崇高声望的科学大奖，从诺贝尔奖、菲尔兹奖到图灵奖，无一例外倾向于只奖励个体的突出贡献。尽管科学的生产方式已经全面转向团队协作，学术界的关键人事决策，招聘、晋升和终身教职评审，仍然建立在对个体成就的单独评估之上。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 135–136)]]
+> 与其他职业相比，科学界以高度重视褒奖个体而非团队而著称。重大的标志性科学发现往往以发现者的名字冠名，从欧几里得几何学、牛顿运动定律，到孟德尔遗传定律与[[Werner Heisenberg|海森堡]]测不准原理皆是如此。同样，赋予巨额资金与[[The Sublime|崇高]]声望的科学大奖，从诺贝尔奖、菲尔兹奖到图灵奖，无一例外倾向于只奖励个体的突出贡献。尽管科学的生产方式已经全面转向团队协作，学术界的关键人事决策，招聘、晋升和终身教职评审，仍然建立在对个体成就的单独评估之上。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 135–136)]]
 >
 > *Compared with other professions, science is notorious for its emphasis on celebrating individuals rather than teams, particularly when it comes to rewards and recognition. Indeed, iconic achievements are often known by the discovering scientist’s name... While the mode of production in science has been shifting toward teams, important decisions in science are still based almost entirely on individual achievement.*
 

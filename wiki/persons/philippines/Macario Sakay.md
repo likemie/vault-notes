@@ -22,10 +22,24 @@ tags:
   - theme/anti-colonialism
   - theme/nationalism
   - history/southeast-asia
+related_concepts:
+  - "[[Nationalism]]"
+  - "[[Horizontal Comradeship]]"
+  - "[[Colonial Racism]]"
+  - "[[The Sublime]]"
+  - "[[Paradigm]]"
+  - "[[Document]]"
+related_persons:
+  - "[[Benedict Anderson]]"
+  - "[[Jose Rizal]]"
+related_facts:
+  - "[[Republic of Katagalugan]]"
+related_arguments:
+  - "[[Argument_Anderson_2016_Verso_Ch08]]"
 confidence: high
 status: draft
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
@@ -33,7 +47,7 @@ updated: 2026-11-13
 > [!person-profile] 人物档案
 > - **身份位置** 菲律宾平民革命家、卡蒂普南（Katipunan）重要将领、[[Republic of Katagalugan|加达洛共和国]]（Republic of Katagalugan）总统兼抗美游击总司令。
 > - **核心角色** 在菲律宾第一共和国士绅精英降美后，代表底层工农大众扛起抗美独立旗帜，建立平等主义革命政权并制定彻底破除种族偏见的宪政纲领。
-> - **代表贡献** 建立加达洛共和国并颁布1902年平等宪法，被[[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）作为论证现代民族主义基于语言文化、追求[[Horizontal Comradeship|横向同志情谊]]而无反向种族主义的核心历史人物与实证范本。
+> - **代表贡献** 建立加达洛共和国并颁布1902年平等宪法，被[[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）作为论证现代[[Nationalism|民族主义]]基于语言文化、追求[[Horizontal Comradeship|横向同志情谊]]而无反向种族主义的核心历史人物与实证范本。
 
 ---
 
@@ -60,7 +74,7 @@ updated: 2026-11-13
 ---
 
 > [!claim] 核心思想
-> 萨凯的核心思想在于确立了反殖民民族主义的激进平权本质。萨凯坚决反对依据肤色、财产与教育水平对公民划分等级，主张全体出生于群岛的同胞在内在本质与奉献能力上拥有绝对平等的崇高地位。这种立足于同胞合一心神（loób）的政治认同，彻底阻断了民族主义退化为针对白人宗主国群体的反向种族仇恨，彰显了现代民族共同体基于道义手足情谊的包容力量。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 157–158)]]
+> 萨凯的核心思想在于确立了反殖民民族主义的激进平权本质。萨凯坚决反对依据肤色、财产与教育水平对公民划分等级，主张全体出生于群岛的同胞在内在本质与奉献能力上拥有绝对平等的[[The Sublime|崇高]]地位。这种立足于同胞合一心神（loób）的政治认同，彻底阻断了民族主义退化为针对白人宗主国群体的反向种族仇恨，彰显了现代民族共同体基于道义手足情谊的包容力量。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 157–158)]]
 
 > [!citation-card] 萨凯共和国宪法确立超越肤色的平等同胞人格
 > 凡出生于本塔加洛群岛的塔加洛人，绝不可因其种族或肤色而自命凌驾于他人之上；无论白皙或黝黑、富贵或赤贫、受教育或无知，全员一律完全平等，并且应当合于同一内在心神（loób）之中。在教育、财富或相貌上或有差异，但在人的本质（pagkatao）以及为共同事业奉献的能力上，绝无差别。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 157–158)]]
@@ -82,9 +96,9 @@ updated: 2026-11-13
 > |:-----|:-----|:-----|
 > | [[Republic of Katagalugan]] | 史实 | 萨凯创立并领导的平民抗美政权，其宪政纲领承载了萨凯的平权思想。 |
 > | [[Horizontal Comradeship]] | 概念 | 理论体现；萨凯宪法是横向同志情谊跨越肤色与阶级差别的直接制度体现。 |
-> | [[Colonial Racism]] | 概念 | 对抗范式；萨凯以平民激进平等原则瓦解了帝国殖民种族主义的支配神话。 |
+> | [[Colonial Racism]] | 概念 | 对抗[[Paradigm\|范式]]；萨凯以平民激进平等原则瓦解了帝国殖民种族主义的支配神话。 |
 > | [[Jose Rizal]] | 人物 | 民族先驱；黎刹的平权牺牲精神为萨凯的游击抗暴提供了深厚的道德滋养。 |
-> | [[Benedict Anderson]] | 人物 | 征引萨凯宪法文献，系统论证反殖民民族运动具备博爱本色。 |
+> | [[Benedict Anderson]] | 人物 | 征引萨凯宪法[[Document\|文献]]，系统论证反殖民民族运动具备博爱本色。 |
 
 ---
 

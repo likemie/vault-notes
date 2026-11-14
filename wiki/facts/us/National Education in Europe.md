@@ -33,6 +33,7 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Auslandspadagogik]]"
   - "[[Encyclopaedism]]"
+  - "[[The Sublime]]"
   - "[[Educational Meliorism]]"
   - "[[General Education]]"
   - "[[Knowledge Mediation]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-30
+updated: 2026-11-14
 ---
 
 ---
@@ -87,7 +88,7 @@ updated: 2026-10-30
 巴纳德在《欧洲[[National Education|国民教育]]》中展现了极其严谨的[[Document|文献]]学汇纂精神与行政改良抱负：
 
 > [!claim] 核心主张
-> 巴纳德坚信客观真实的制度事实本身即具有最强大的启迪力量。著作系统呈现了欧洲各国公立学校的组织法令、课程进度、师资考核与公共财政数据，盛赞普鲁士建立的“真正的国民教育（true [[National Education]]）”体系；巴纳德主张美国应当以崇高而审慎的[[Educational Meliorism\|改良主义]]（[[Educational Meliorism]]）态度，汲取欧洲文明数百年积淀的成熟学校制度精粹，为美利坚共和国构建坚不可摧的普及国民教育大厦。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 31–34; Barnard, 1872:365)]]
+> 巴纳德坚信客观真实的制度事实本身即具有最强大的启迪力量。著作系统呈现了欧洲各国公立学校的组织法令、课程进度、师资考核与公共财政数据，盛赞普鲁士建立的“真正的国民教育（true [[National Education]]）”体系；巴纳德主张美国应当以[[The Sublime|崇高]]而审慎的[[Educational Meliorism\|改良主义]]（[[Educational Meliorism]]）态度，汲取欧洲文明数百年积淀的成熟学校制度精粹，为美利坚共和国构建坚不可摧的普及国民教育大厦。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 31–34; Barnard, 1872:365)]]
 
 全书以惊人的体量将各国的公共教育解构为八大相互咬合的制度维度：
 

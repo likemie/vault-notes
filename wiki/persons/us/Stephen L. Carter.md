@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Culture of Disbelief]]"
   - "[[Discourse]]"
+  - "[[The Sublime]]"
   - "[[Hard Belief]]"
 related_theories:
   - "[[Pluralism]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-11-14
 ---
 
 ---
@@ -71,7 +72,7 @@ updated: 2026-10-22
 ---
 
 > [!claim] 核心思想
-> 斯蒂芬·L. 卡特（Stephen L. Carter）主张，真正的[[Pluralism|多元主义]]与言论自由必须允许公民基于真诚的宗教与道德信念参与公共辩论。他坚决反对将一切道德主张强行折叠为冷冰冰的法条与技术合规，警示过度世俗化会导致公共生活丧失崇高的道德动力，最终使民主政体异化为平庸自利的竞技场。
+> 斯蒂芬·L. 卡特（Stephen L. Carter）主张，真正的[[Pluralism|多元主义]]与言论自由必须允许公民基于真诚的宗教与道德信念参与公共辩论。他坚决反对将一切道德主张强行折叠为冷冰冰的法条与技术合规，警示过度世俗化会导致公共生活丧失[[The Sublime|崇高]]的道德动力，最终使民主政体异化为平庸自利的竞技场。
 
 ---
 

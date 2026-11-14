@@ -33,6 +33,7 @@ related_concepts:
   - "[[ASEAN Way]]"
   - "[[Knowledge-Based Economy]]"
   - "[[State Educational Sovereignty]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Global Regionalisms]]"
 related_theories:
   - "[[Comparative Regionalism]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -139,7 +140,7 @@ updated: 2026-11-11
 > [!dev-timeline]- 博洛尼亚输出假说的形成与实证争鸣
 > - **2006–2008 — 欧洲学界提出外部维度与样板输出论** 帕维尔·兹加加（Zgaga, 2006）系统探讨博洛尼亚进程的“外部维度”；学界陆续出现将博洛尼亚视作全球区域高教合作通用模板（Template/Model）的政策输出[[Document|文献]]。
 > - **2008 — 东南亚官方报告公开发出规避警告** 东南亚教育部长组织高教中心（[[SEAMEO]] RIHED）发布《高教一体化》专题报告，明确提醒成员国对博洛尼亚全面模式保持警惕与防备，驳斥了机械移植建议。
-> - **2012–2014 — 扩散假说的理论化主张** 部分欧美学者（如 Huisman et al., 2012; Vögtle & Martens, 2014）将博洛尼亚的全球辐射正式概括为具有示范引领作用的输出假说。
+> - **2012–2014 — 扩散假说的理论化主张** 部分欧[[Philosophical Aesthetics|美学]]者（如 Huisman et al., 2012; Vögtle & Martens, 2014）将博洛尼亚的全球辐射正式概括为具有示范引领作用的输出假说。
 > - **2017 — 跨区域田野证据对假说的系统[[Falsification|证伪]]** 周孟娴与拉维内发表跨案例深度[[Qualitative Research|质性研究]]，依据历史时序、官方文献拒斥及组织分工[[Heterogeneity|异质性]]，宣告博洛尼亚进程输出假说无法解释东南亚高教合作的真实逻辑。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 143–144, 153–156)]]
 
 ---

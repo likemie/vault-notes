@@ -25,6 +25,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Decodification]]"
   - "[[Variable]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Paradigm]]"
   - "[[Visible Learning]]"
 related_theories: []
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-11-02
+updated: 2026-11-14
 ---
 
 ---
@@ -101,7 +102,7 @@ updated: 2026-11-02
 > [!software-impl] 软件实现
 > - **数据准备** 构建包含逻辑值或 0/1 整型的宽表数据框。
 > - **推荐工具**
->   - **R 语言**`ComplexUpset` 包（高度兼容 `ggplot2` 语法，支持丰富的美学定制）与 `UpSetR` 包；
+>   - **R 语言**`ComplexUpset` 包（高度兼容 `ggplot2` 语法，支持丰富的[[Philosophical Aesthetics|美学]]定制）与 `UpSetR` 包；
 >   - **Python**`upsetplot` 库（基于 `pandas.MultiIndex` 与 `matplotlib` 实现）。
 > - **典型 R 代码[[Paradigm\|范式]]**
 >   ```r

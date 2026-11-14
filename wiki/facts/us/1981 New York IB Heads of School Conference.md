@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[International Schools]]"
   - "[[International Baccalaureate]]"
+  - "[[Philosophical Aesthetics]]"
 related_theories:
   - "[[Theory of Mind]]"
 related_methods: []
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-03
-updated: 2026-10-22
+updated: 2026-11-14
 ---
 
 ---
@@ -46,7 +47,7 @@ updated: 2026-10-22
 > - **时间／地点** 1981 年 2 月，美国纽约，由联合国[[International Schools\|国际学校]]主办，是[[International Baccalaureate\|国际文凭]]校长年会首次在美洲举行。
 > - **关键主体** 国际文凭办公室、[[International Baccalaureate North America\|国际文凭北美公司]]、[[Gerard Renaud\|杰拉德·雷诺]]（Gerard Renaud）、[[Gilbert Nicol\|吉尔伯特·尼科尔]]（Gilbert Nicol）、汤姆·哈戈特（[[Theory of Mind|ToM]] Hagoort）、[[Fred Block|布洛克]]·卡鲁斯（Blouke Carus）及来自各地区的学校校长。
 > - **制度背景** 国际文凭理事会重组后，三分之一成员由学校选举产生并代表学校；校长年会在日内瓦与其他国际城市间轮流举行，用于讨论共同问题和建立学校共同体。
-> - **触发条件** 北美学校增长、纽约办公室成本和区域法人独立，引发部分校长对课程美国化、资金失衡和 IBNA 分离主义的担忧。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 146–147)]]
+> - **触发条件** 北[[Philosophical Aesthetics|美学]]校增长、纽约办公室成本和区域法人独立，引发部分校长对课程美国化、资金失衡和 IBNA 分离主义的担忧。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 146–147)]]
 
 > [!dev-timeline] 从私下猜疑到制度化处理
 > - **1979 年　早期警讯** 维也纳会议后，尼科尔获悉有人把 [[International Baccalaureate North America\|IBNA]] 描述为威胁 [[International Baccalaureate|IBO]] 未来的分离主义组织。

@@ -28,6 +28,7 @@ related_concepts:
   - "[[Social-Emotional Learning]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Based Policy-Making]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Document]]"
   - "[[Preregistration]]"
   - "[[Developer-Made Measures]]"
@@ -51,6 +52,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"
+  - "[[Alexandre de Rhodes]]"
   - "[[Ben Levin]]"
   - "[[Mark Ginsburg]]"
 related_facts:
@@ -75,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -92,9 +94,9 @@ updated: 2026-11-11
 ---
 
 > [!dev-timeline] 平台发展历程
-> - **2015 — [[Every Student Succeeds Act\|ESSA]] 法案颁布催生法定证据需求** [[United States Congress|美国国会]]通过 ESSA，首次将联邦每年数十亿美元的 [[Title I of the Elementary and Secondary Education Act\|Title I]] 一类学校改进经费与四级法定[[Evidence Standards\|证据标准]]严格挂钩，全美学区急需能够快速判别合规干预项目的工具。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 23)]]
+> - **2015 — [[Every Student Succeeds Act\|ESSA]] 法案颁布催生法定证据需求** [[United States Congress|美国国会]]通过 ESSA，首次将联邦每年数十亿美元的 [[Title I of the Elementary and Secondary Education Act\|Title I]] 一类学校改进经费与四级法定[[Evidence Standards\|证据标准]]严格挂钩，全[[Philosophical Aesthetics|美学]]区急需能够快速判别合规干预项目的工具。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 23)]]
 > - **2017 — Evidence for ESSA 平台正式上线** JHU CRRE 团队依托[[Best Evidence Encyclopedia\|最佳证据百科全书]]（BEE）三十年学术积累，正式推出 Evidence for ESSA 交互式平台，首期发布 K-12 阅读与数学经过严格审查的项目清单。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, p. 110)]]
-> - **2018–2019 — 州级教育政策采纳与用户规模激增** 亚利桑那、路易斯安那、内华达、明尼苏达、北卡罗来纳与罗德岛等州教育厅直接将平台列为学区编制联邦拨款申请的官方参考基准；月度活跃教育者突破 70,000 人。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 24–25)]]
+> - **2018–2019 — 州级教育政策采纳与用户规模激增** 亚利桑那、路易斯安那、内华达、明尼苏达、北卡罗来纳与[[Alexandre de Rhodes|罗德]]岛等州教育厅直接将平台列为学区编制联邦拨款申请的官方参考基准；月度活跃教育者突破 70,000 人。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 24–25)]]
 > - **2021–至今 — 持续扩展与常态化运营** 在斯[[Ben Levin|莱文]]逝世后，CRRE 团队持续维持平台的常态化运营与学科扩展，进一步纳入中等教育与全校综合改革方案。[[Argument_Slavin_2021_ECNUROE\|(Slavin et al., 2021, pp. 19–21)]]
 
 ---

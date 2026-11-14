@@ -34,6 +34,7 @@ related_concepts:
   - "[[Scientific Mobility]]"
   - "[[Technology Transfer]]"
   - "[[Geopolitics]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[South-South Cooperation]]"
   - "[[Engineering Education]]"
   - "[[Education Going Global]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -143,7 +144,7 @@ updated: 2026-11-11
 > > 伴随大国战略竞争加剧，美欧部分国家对接受中国国家留学基金委资助的学者与理工科研究生施加严格的背景安全审查与签证限制。
 > >
 > > - **美欧部分立法与监管机构** 质疑公派协议中的回国服务条款与约束要求，将学术资助视作国家驱动的[[Technology Transfer|技术转移]]通道。
-> > - **实证政策观察** 指出[[Geopolitics|地缘政治]]脱钩与西方审查正在削弱从欧美学术重镇获取前沿基础科研知识的渠道，公派学术交流面临显著的地缘摩擦成本。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
+> > - **实证政策观察** 指出[[Geopolitics|地缘政治]]脱钩与西方审查正在削弱从欧[[Philosophical Aesthetics|美学]]术重镇获取前沿基础科研知识的渠道，公派学术交流面临显著的地缘摩擦成本。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
 >
 > > [!axis] 留学生吸引力的制度依附与经济韧性挑战
 > > 依靠全额奖学金拉动国际留学生规模引发关于其长期可持续性与内生吸引力的讨论。

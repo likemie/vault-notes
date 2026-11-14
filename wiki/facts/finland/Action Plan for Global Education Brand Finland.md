@@ -25,6 +25,7 @@ related_concepts:
   - "[[Education Export]]"
   - "[[International Education]]"
   - "[[Learning Crisis]]"
+  - "[[The Sublime]]"
   - "[[Soft Power]]"
   - "[[Discourse]]"
   - "[[Nation Branding]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -82,7 +83,7 @@ updated: 2026-11-11
 ---
 
 > [!policy-evaluation] 政策成效与影响
-> - **塑造负责任大国形象** 将品牌“理想顾客”锁定于脆弱地区，赋予商业出口强烈的崇高情感利益，缓解了教育产业化输出的伦理争议。[[Argument_Yang_2023_ICE|(杨明全和邓丽, 2023, p. 6)]]
+> - **塑造负责任大国形象** 将品牌“理想顾客”锁定于脆弱地区，赋予商业出口强烈的[[The Sublime|崇高]]情感利益，缓解了教育产业化输出的伦理争议。[[Argument_Yang_2023_ICE|(杨明全和邓丽, 2023, p. 6)]]
 > - **多边合作网络拓展** 依托与 [[UNICEF]]、[[UNESCO]] 的协同机制，扩大了芬兰在国际教育规则制定中的[[Soft Power|软实力]][[Discourse|话语]]权。[[Argument_Yang_2023_ICE|(杨明全和邓丽, 2023, p. 6)]]
 
 ---

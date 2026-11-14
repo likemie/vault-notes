@@ -24,6 +24,7 @@ tags:
   - policy/computing-infrastructure
 related_concepts:
   - "[[Center of Calculation]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Research Tool]]"
   - "[[Big Science]]"
   - "[[Paradigm]]"
@@ -43,13 +44,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
 
 > [!claim] 项目定位
-> 国家科学基金会超级[[Center of Calculation|计算中心]]计划（[[National Science Foundation|NSF]] Supercomputer Centers Program）是 20 世纪 80 年代 NSF 推进科研基础设施现代化的划时代重大专项，标志着联邦资助机制从传统的为学者个人课题购置分散中小型仪器，跨越式升级为国家级超大规模计算公共设施的集中建设与全美学者网络化共享服务。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 41)]]
+> 国家科学基金会超级[[Center of Calculation|计算中心]]计划（[[National Science Foundation|NSF]] Supercomputer Centers Program）是 20 世纪 80 年代 NSF 推进科研基础设施现代化的划时代重大专项，标志着联邦资助机制从传统的为学者个人课题购置分散中小型仪器，跨越式升级为国家级超大规模计算公共设施的集中建设与全[[Philosophical Aesthetics|美学]]者网络化共享服务。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 41)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1985 年由 NSF 正式批准建立首批中心，作为美国国家先导性先进科研计算基础设施跨越数十年持续升级迭代。

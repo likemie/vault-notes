@@ -33,6 +33,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Humility]]"
   - "[[Sustainability Education]]"
+  - "[[The Sublime]]"
   - "[[Public Value]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Knowledge-Based Economy]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -106,7 +107,7 @@ updated: 2026-11-11
 
 > [!lessons] 治理定位与全球影响
 > - **拓宽国家课程改革的育人视界** [[PISA]] 全球胜任力促使许多参测国突破传统孤立的学科知识边界，加速将[[Sustainability Education|可持续发展教育]]（ESD）、跨文化交流与联合国[[Global Citizenship|全球公民教育]]（GCED）理念纳入基础教育国家标准与校本特色课程。
-> - **防范量化指标对道德伦理的工具化收编** 教育哲学界警示，全球公民意识与同理心等深层人本素养具有丰富的历史文化内涵与实践伦理意义，若将其彻底异化为跨国排行榜上的竞争点数，将侵蚀全球教育合作的崇高[[Public Value|公共价值]]。
+> - **防范量化指标对道德伦理的工具化收编** 教育哲学界警示，全球公民意识与同理心等深层人本素养具有丰富的历史文化内涵与实践伦理意义，若将其彻底异化为跨国排行榜上的竞争点数，将侵蚀全球教育合作的[[The Sublime|崇高]][[Public Value|公共价值]]。
 
 ---
 

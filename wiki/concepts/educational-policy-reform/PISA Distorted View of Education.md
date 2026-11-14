@@ -23,6 +23,7 @@ related_concepts:
   - "[[Whole Person Education]]"
   - "[[PISA Made-up Claim]]"
   - "[[PISA Monolithic View of Education]]"
+  - "[[The Sublime]]"
   - "[[Positional Good]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Paradigm]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -55,7 +56,7 @@ updated: 2026-11-03
 > - **边界** 属于对 PISA 的批判中聚焦价值导向与课程窄化的理论构件，与聚焦实证构念的[[PISA Made-up Claim|捏造的主张]]和关注文化强加的[[PISA Monolithic View of Education|单一教育观]]共同构成批评基石。
 
 > [!citation-card] 赵勇论经济目的垄断对多元教育目的的排挤
-> 虽然为经济参与做准备是教育机构的部分责任，但这绝不能成为唯一的责任。许多国家的教育目的明确包含公民身份、社会正义、好奇心、同理心与身心健康。然而，在基于 PISA 分数与排名的喧嚣讨论中，这些崇高的教育目的经常被遗忘或完全忽视。追求窄化定义的教育目的势必以牺牲更广泛的教育目的为代价。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
+> 虽然为经济参与做准备是教育机构的部分责任，但这绝不能成为唯一的责任。许多国家的教育目的明确包含公民身份、社会正义、好奇心、同理心与身心健康。然而，在基于 PISA 分数与排名的喧嚣讨论中，这些[[The Sublime|崇高]]的教育目的经常被遗忘或完全忽视。追求窄化定义的教育目的势必以牺牲更广泛的教育目的为代价。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 >
 > *While preparing for economic participation is certainly part of the responsibilities of educational institutions, it cannot and should not be the only one... But these educational purposes are often forgotten or ignored in discussions based on PISA scores and rankings.*
 

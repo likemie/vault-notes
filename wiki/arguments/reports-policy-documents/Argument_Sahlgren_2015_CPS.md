@@ -29,7 +29,7 @@ related_theories:
   - "[[Wealth Effect in Education]]"
 status: active
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-14
 tags:
   - theme/pisa
   - theme/comparative-education
@@ -43,6 +43,7 @@ sources:
   - "[[sources/Sahlgren_2015_CPS/Sahlgren_2015_CPS|Sahlgren_2015_CPS]]"
 related_concepts:
   - "[[International Education]]"
+  - "[[The Sublime]]"
   - "[[Direct Instruction]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Academic Achievement]]"
@@ -103,6 +104,7 @@ related_facts:
   - "[[Health Behaviour in School-aged Children]]"
 related_persons:
   - "[[Uno Cygnaeus]]"
+  - "[[Martin Luther]]"
   - "[[Gabriel Heller Sahlgren]]"
   - "[[Julian Le Grand]]"
   - "[[Pasi Sahlberg]]"
@@ -133,7 +135,7 @@ related_methods:
 > 芬兰在 2000 年代初的[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）中取得卓越表现并在后续测试中持续滑坡的真实机制究竟为何？[[International Education|国际教育]]政策界广为流传的去问责、无统考、教师高度自主、短课时与硕士化学历这套政策解释，能否经受住严格的历史时间序列数据与微观计量经济学因果证据的检验？
 
 > [!claim] 核心主张
-> 芬兰在国际测验中的历史性成绩攀升始于 1970 至 1980 年代中央集权、指令性大纲与督学监控的旧体制时期，流行政策归因存在严重的时代倒置谬误；芬兰教育成功的真实动因植根于 19 世纪芬诺曼民族构建赋予教师群体的崇高社会地位、后发工业化社会保持的勤勉服从文化与经济起飞阶段的财富效应，以及基层教师长期坚守的传统[[Direct Instruction|直接教学]]法；1990 年代去中心化后加速推行的学生中心与[[Inquiry-Based Learning|探究式教学]]，是导致芬兰[[Academic Achievement|学业表现]]持续滑坡的关键因果诱因。
+> 芬兰在国际测验中的历史性成绩攀升始于 1970 至 1980 年代中央集权、指令性大纲与督学监控的旧体制时期，流行政策归因存在严重的时代倒置谬误；芬兰教育成功的真实动因植根于 19 世纪芬诺曼民族构建赋予教师群体的[[The Sublime|崇高]]社会地位、后发工业化社会保持的勤勉服从文化与经济起飞阶段的财富效应，以及基层教师长期坚守的传统[[Direct Instruction|直接教学]]法；1990 年代去中心化后加速推行的学生中心与[[Inquiry-Based Learning|探究式教学]]，是导致芬兰[[Academic Achievement|学业表现]]持续滑坡的关键因果诱因。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 芬兰基础教育系统自 1960 年代以来的长周期历史变迁、历次国际教育评价（涵盖[[First International Mathematics Study|第一届国际数学研究]]［First International Mathematics Study, FIMS］、[[Second International Mathematics Study|第二届国际数学研究]]［Second International Mathematics Study, SIMS］、[[TIMSS|国际数学与科学趋势研究]]［Trends in International Mathematics and Science Study, TIMSS］、PISA 以及[[Programme for the International Assessment of Adult Competencies|国际成人能力评估项目]]［Programme for the International Assessment of Adult Competencies, PIAAC］），与芬兰国防军数十万入伍士兵的认知测试微观档案。
@@ -209,7 +211,7 @@ related_methods:
 > - **1860s–1910s — 民族国家建构与教师神圣化时期** 芬诺曼知识精英将普及初等教育确立为凝聚民族认同的战略工具，乡村教师被赋予崇高的社会声望与[[Cultural Capital|文化资本]]（pp. 19–21）。
 >
 >   - 1863：[[Uno Cygnaeus|乌诺·西格纽斯]]创办[[Jyväskylä Teacher Seminary|于韦斯屈莱师范学院]]，确立以严谨德育、纪律规训与手工劳作为核心的师范传统。
->   - 1866：颁布《[[Primary School Decree of 1866|1866年国民学校法令]]》，初等学校脱离路德宗教会管辖并走向世俗公立化。
+>   - 1866：颁布《[[Primary School Decree of 1866|1866年国民学校法令]]》，初等学校脱离[[Martin Luther|路德]]宗教会管辖并走向世俗公立化。
 >   - 1899–1917：在沙皇俄国推行俄罗斯化高压同化期间，基层中小学成为被动抵抗阵地，教师被社会尊为[[Kansankynttilä|民族之烛]]。
 >   - 1918：[[1918 Finnish Civil War|1918年芬兰内战]]爆发，战后初等学校被确立为弥合阶级裂痕、培养国家认同与爱国纪律的中枢。
 >

@@ -20,6 +20,7 @@ tags:
   - theme/higher-education
 related_concepts:
   - "[[General Education]]"
+  - "[[The Sublime]]"
   - "[[Thick Belonging]]"
   - "[[Productization of the Mind]]"
   - "[[Canon Wars]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -63,7 +64,7 @@ updated: 2026-11-03
 > *There exists alongside of and rather clearly differentiated from the churches an elaborate and well-institutionalized civil religion in America... this religion—or perhaps better, this religious dimension—has its own seriousness and integrity and requires the same care and understanding that any religion does.*
 
 > [!citation-card] [[William H. McNeill|威廉·麦克尼尔]]论核心正典作为世俗公民宗教
-> 围绕西方传统构建的核心课程，其卓越之处在于它使美国能够从碎片化且异质的文化经历中构建出统一的国家认同——这是一种世俗的公民宗教，它在数百年间深深扎根于历史真理，同时又承载着为国家事业赋予连贯性与精神根基的崇高抱负。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 84–85)]]
+> 围绕西方传统构建的核心课程，其卓越之处在于它使美国能够从碎片化且异质的文化经历中构建出统一的国家认同——这是一种世俗的公民宗教，它在数百年间深深扎根于历史真理，同时又承载着为国家事业赋予连贯性与精神根基的[[The Sublime|崇高]]抱负。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 84–85)]]
 >
 > *The virtue of a core curriculum situated around the Western tradition was that it facilitated and indeed made possible the construction of a national identity in the United States from a fractured and disparate set of cultural experiences—a form of civic religion, tethered largely to truth and history across the centuries but also aspirational in its desire to provide coherence to and grounding of a national endeavor.*
 

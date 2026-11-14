@@ -31,16 +31,19 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Teaching Assistant]]"
   - "[[Implementation Fidelity]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Multi-tiered Systems of Support]]"
   - "[[Response to Proven Instruction]]"
-  - "[[Problem Solving]]"
+  - "[[Response to Intervention]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
   - "[[Implementation and Process Evaluation]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[James C. Scott]]"
+  - "[[Ben Levin]]"
 related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[Every Student Succeeds Act]]"
@@ -51,13 +54,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
 
 > [!claim] 项目定位
-> **ROOTS Math（数学根基方案）** 是由俄勒冈大学教学与学习中心（University of Oregon Center on Teaching and Learning）本·克拉克（Ben Clarke）、克里斯蒂安·多布勒（Christian Doabler）、汉克·菲恩（Hank Fien）与斯科特·贝克（Scott K. Baker）等学者联合研发、受美国国家[[Institute of Education Sciences|教育科学研究院]]（IES）重点资助的早期初等数学小组干预项目；其核心目标是在小学一年级（部分向幼儿园延伸）早期筛查出面临严重数学困难的高危儿童，依托高度显性、系统化的核心数感与整数概念微课程，在 Tier 2 层级阻断早期学业差距的持续扩大。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, p. 28)]]
+> **ROOTS Math（数学根基方案）** 是由俄勒冈大学教学与学习中心（University of Oregon Center on Teaching and Learning）本·克拉克（Ben Clarke）、克里斯蒂安·多布勒（Christian Doabler）、汉克·菲恩（Hank Fien）与[[James C. Scott|斯科特]]·贝克（Scott K. Baker）等学者联合研发、受美国国家[[Institute of Education Sciences|教育科学研究院]]（IES）重点资助的早期初等数学小组干预项目；其核心目标是在小学一年级（部分向幼儿园延伸）早期筛查出面临严重数学困难的高危儿童，依托高度显性、系统化的核心数感与整数概念微课程，在 Tier 2 层级阻断早期学业差距的持续扩大。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 始于 2010 年代初，由美国联邦教育科学研究院（IES）设立专项资助课题连续支持，经过多中心大规模[[Randomised Controlled Trials|随机对照试验]]迭代完善，至今常态化在全美各学区运行。
@@ -78,7 +81,7 @@ updated: 2026-11-11
 > - **核心概念体系聚焦** 重点聚焦三大陆基概念：十进制位值理解（Place Value）、基数与序数原理（Counting & Cardinality）、以及基于数轴与点阵图的数字量感比较（Magnitude Comparison）。
 > - **助教 1:2–5 弹性小组结构** 既可在 1:2 的微型对子中递送，亦可在 1:5 的标准小组中实施，便于学校根据助教编制弹性排班。
 
-> [!citation-card] 斯莱文论 ROOTS 的实证增益与助教价值
+> [!citation-card] 斯[[Ben Levin|莱文]]论 ROOTS 的实证增益与助教价值
 > 助教辅导模式在数学领域同样产生了极为显著的因果成效。例如针对一年级数学困难儿童开展的 ROOTS 方案，在两项独立的[[Randomised Controlled Trials|随机对照试验]]中由教学助教以小组形式实施，取得了 +0.24 的平均[[Effect Size|效应量]]，双双达到《[[Every Student Succeeds Act|每一个学生成功法]]》（ESSA）强[[Evidence Standards|证据标准]]。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, p. 28)]]
 >
 > *Small-group tutoring by paraprofessionals was also effective in elementary mathematics. ROOTS, delivered to first graders in small groups (1:2 to 1:5) by [[Teaching Assistant|Teaching Assistants]] across two randomized trials, produced an effect size of +0.24, meeting the ESSA Strong rating.*
@@ -88,7 +91,7 @@ updated: 2026-11-11
 > [!dev-timeline] ROOTS 发展历程
 > - **2012–2015 — 原型研发与第一轮整群[[Randomised Controlled Trials|随机对照试验]]** 俄勒冈大学团队在俄勒冈州多学区开展首期大规模整群 RCT（Clarke et al., 2014），验证由助教实施 ROOTS 对弱势一年级儿童数学概念掌握的因果净增益。
 > - **2015–2018 — 多中心大规模复现与小组规模对比试验** 在波士顿等更多城市学校开展第二轮大规模独立 RCT 试验（Clarke et al., 2016; Doabler et al., 2016），系统比较 1:2 与 1:5 组规模对[[Implementation Fidelity|实施保真度]]与[[Effect Size|效应量]]的影响，确认两类规模均能产生稳健效益。
-> - **2019–至今 — 确立为 [[Every Student Succeeds Act|ESSA]] 强证据基石** 在斯莱文桑代克奖演说中被正式列为初等数学 Tier 2 小组辅导代表性强证据方案，成为全美学区构建[[Multi-tiered Systems of Support|多层支持系统]]（MTSS）时的优先选型。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, p. 28)]]
+> - **2019–至今 — 确立为 [[Every Student Succeeds Act|ESSA]] 强证据基石** 在斯莱文桑代克奖演说中被正式列为初等数学 Tier 2 小组辅导代表性强证据方案，成为全[[Philosophical Aesthetics|美学]]区构建[[Multi-tiered Systems of Support|多层支持系统]]（MTSS）时的优先选型。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, p. 28)]]
 
 ---
 
@@ -140,7 +143,7 @@ updated: 2026-11-11
 > | [[Small Group Tuition]] | 概念 | ROOTS 采用的小组辅导形态，验证了 1:2 至 1:5 师生比的教学有效性。 |
 > | [[Teaching Assistant]] | 概念 | 证明非专业教学助教在规范规程下能达到专业教师同等的干预增益。 |
 > | [[Multi-tiered Systems of Support]] | 概念 | 作为初等数学 Tier 2 早期预防的核心实证支点。 |
-> | [[Response to Proven Instruction]] | 概念 | 循证干预反应模型中面向数学高危群体的标准化小组辅导方案。 |
+> | [[Response to Proven Instruction]] | 概念 | 循证[[Response to Intervention\|干预反应模型]]中面向数学高危群体的标准化小组辅导方案。 |
 > | [[Institute of Education Sciences]] | 事实 | 为项目研发、工具测评及多轮随机对照试验提供专项科研资助。 |
 > | [[Every Student Succeeds Act]] | 事实 | 达成法案规定的 Tier 1（Strong）强证据等级标准。 |
 > | [[Fraction Face-Off!]] | 事实 | 高年级助教数学小组辅导方案，与 ROOTS 共同构成小学数学分层干预链。 |

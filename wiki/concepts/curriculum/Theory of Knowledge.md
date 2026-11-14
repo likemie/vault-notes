@@ -39,6 +39,7 @@ related_concepts:
   - "[[Summer School]]"
   - "[[Teacher Support for Students]]"
   - "[[International Schools]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[School Autonomy]]"
   - "[[Homework]]"
   - "[[Rationalism in International Relations]]"
@@ -104,7 +105,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-30
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -205,7 +206,7 @@ TOK 早期允许学校自行设计课程，并可因地方文化条件省略不�
 > - **共同质量（红方）** 自由度过大时，课程可能退化为缺少连续结构的时事讲座。[[International Baccalaureate|国际文凭组织]]（International Baccalaureate Organization，IBO）需要通过学术顾问讨论、教师培训和评价调节，确保不同学校仍然围绕知识、证据、判断和学科方法开展反思。
 
 > [!case] [[Summer School|暑期学校]]把抽象课程理念转化为教师共同实践
-> TOK 得到[[Teacher Support for Students|教师支持]]的重要迹象，是世界各地暑期学校持续吸引教师和学生参加，每次平均约 35–40 人。苏·巴斯蒂安（Sue Bastian）在联合国[[International Schools|国际学校]]、卢博尔·韦莱茨基（Lubor Velecky）在南安普敦大学，帮助不熟悉法国哲学传统的英美学校教师理解课程。培训既解释 TOK 的课程边界，也让教师共同讨论怎样把[[Knowledge Questions|知识问题]]组织成连续课程。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 179)]]
+> TOK 得到[[Teacher Support for Students|教师支持]]的重要迹象，是世界各地暑期学校持续吸引教师和学生参加，每次平均约 35–40 人。苏·巴斯蒂安（Sue Bastian）在联合国[[International Schools|国际学校]]、卢博尔·韦莱茨基（Lubor Velecky）在南安普敦大学，帮助不熟悉法国哲学传统的英[[Philosophical Aesthetics|美学]]校教师理解课程。培训既解释 TOK 的课程边界，也让教师共同讨论怎样把[[Knowledge Questions|知识问题]]组织成连续课程。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 179)]]
 
 > [!question] 共同题目既评价学生，也向新教师示范课程边界
 > - 如果道德规范只是特定社会的惯例，追求更公正的社会是否仍有意义？

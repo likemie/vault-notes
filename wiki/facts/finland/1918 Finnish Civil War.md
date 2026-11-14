@@ -25,16 +25,18 @@ related_facts:
   - "[[Education for All]]"
 related_arguments:
   - "[[Argument_Sahlgren_2015_CPS]]"
+related_concepts:
+  - "[[The Sublime]]"
 confidence: medium
 status: active
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
 
 > [!claim] 核心定性
-> 1918 年芬兰内战是芬兰现代历史上最为惨烈的社会政治冲突，战后秩序重建将初等教育体系确立为弥合阶级裂痕、构建国民道德共识与消解激进革命冲动的根本国家制度，奠定了现代普及教育与教师崇高地位的历史基石。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–21)]]
+> 1918 年芬兰内战是芬兰现代历史上最为惨烈的社会政治冲突，战后秩序重建将初等教育体系确立为弥合阶级裂痕、构建国民道德共识与消解激进革命冲动的根本国家制度，奠定了现代普及教育与教师[[The Sublime|崇高]]地位的历史基石。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–21)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1918 年 1 月 27 日至 5 月 15 日，战火蔓延至芬兰南部工业城镇与中北部广袤乡村。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, p. 20)]]

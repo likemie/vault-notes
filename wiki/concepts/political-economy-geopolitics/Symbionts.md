@@ -30,6 +30,7 @@ related_concepts:
   - "[[Opportunists]]"
   - "[[Avatar]]"
   - "[[Baptist-Bootlegger Coalition]]"
+  - "[[The Sublime]]"
   - "[[Apprenticeship]]"
   - "[[Theoretical Perspective]]"
 related_theories:
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -126,7 +127,7 @@ updated: 2026-11-03
 > **联盟政治与制度稳态维度** 揭示目标迥异的政治群体如何通过奇特的共生联盟维持规制安排。
 
 > [!claim] Mahoney, J. & Thelen, K. (2009)
-> **“浸礼会与私酒贩”政治同盟** 制度支持者与共生者在实质诉求上常常大相径庭，但两者在“维持既有形式规范不变”上存在坚实的公分母。正如美国禁酒令时期出于崇高伦理的浸礼会教徒与大发横财的黑市私酒贩共同极力阻止废除禁酒法律一样，在福利国家与产业规制中，道德进步派与自利保守派亦会达成奇特的制度共生，共同压制中间派与[[Insurrectionaries|起义者]]的系统改革方案（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, p. 31]]）。
+> **“浸礼会与私酒贩”政治同盟** 制度支持者与共生者在实质诉求上常常大相径庭，但两者在“维持既有形式规范不变”上存在坚实的公分母。正如美国禁酒令时期出于[[The Sublime|崇高]]伦理的浸礼会教徒与大发横财的黑市私酒贩共同极力阻止废除禁酒法律一样，在福利国家与产业规制中，道德进步派与自利保守派亦会达成奇特的制度共生，共同压制中间派与[[Insurrectionaries|起义者]]的系统改革方案（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, p. 31]]）。
 
 ---
 

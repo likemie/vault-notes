@@ -88,6 +88,7 @@ related_concepts:
   - "[[Neuroplasticity]]"
   - "[[Category Mistake]]"
   - "[[Discourse]]"
+  - "[[The Sublime]]"
   - "[[Cultural Capital]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Value Neutrality]]"
@@ -204,7 +205,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 > [!tip] 知识网络与批评条目维护分流指引
@@ -603,7 +604,7 @@ updated: 2026-11-11
 
 > [!tension] 概念史视阈下的教化（Bildung）免疫与陶冶之镜去中心化（[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 8–10]]）
 > - **“学习”[[Discourse|话语]]半个世纪的语义演变** 运用历史学家[[Reinhart Koselleck|赖因哈特·科塞勒克]]（[[Reinhart Koselleck]]）的概念史（*Begriffsgeschichte*）方法考察，学习（læring）概念在 1960–1970 年代原本承载着反抗专制与个性解放的改革锋芒，但在近半个世纪内被资本主义绩效逻辑所吸收，演变为服务于新自由主义自我优化、标准化达标与过度顺从的规训工具。
-> - **教化作为抵制平庸体制的批判性免疫** 德意志教化（[[Bildung]]）源于《圣经·创世记》中人依“上帝形象”（*imago Dei*）受造的神圣原型，具备自足自生的崇高内在价值。科塞勒克（2006）指出，教化是生命个体在面对教育系统时，坚定拒绝被系统愚弄、变短视和过度顺从（renunciation to be made stupid, short-sighted, and far too adaptive by the educational 'system'）的自觉批判反思成果。
+> - **教化作为抵制平庸体制的批判性免疫** 德意志教化（[[Bildung]]）源于《圣经·创世记》中人依“上帝形象”（*imago Dei*）受造的神圣原型，具备自足自生的[[The Sublime|崇高]]内在价值。科塞勒克（2006）指出，教化是生命个体在面对教育系统时，坚定拒绝被系统愚弄、变短视和过度顺从（renunciation to be made stupid, short-sighted, and far too adaptive by the educational 'system'）的自觉批判反思成果。
 > - **破除陶冶之镜的自恋封闭** 可见学习将学生与教师限制在“陶冶之镜”（mirror of formation）中，使个体只能在镜中凝视自己作为功利竞争与自我监控工具的倒影；真正的教育学艺术是去中心化的实践，教师的核心天职在于引导学生打破镜中自恋，走向镜外广阔未知的客观世界。
 
 ---

@@ -66,6 +66,7 @@ related_concepts:
   - "[[Research-Practice Partnership]]"
   - "[[Positivism]]"
   - "[[Transnational Education]]"
+  - "[[The Sublime]]"
   - "[[Variable]]"
   - "[[Research Question]]"
   - "[[Analytical Stance]]"
@@ -125,7 +126,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -375,7 +376,7 @@ updated: 2026-11-11
 > - **2018–2021 — [[Transnational Education|跨国教育]]证据生态扩散与全球南方本土化网络** 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）携手[[BHP Foundation\|必和必拓基金会]]（BHP Foundation）启动为期 5 年的全球合作项目，支持智利 [[SUMMA]]（拉丁美洲与加勒比证据中心）以及澳大利亚实证学习组织（[[Evidence for Learning]]，E4L），将教学与学习工具箱（[[EEF Teaching and Learning Toolkit]]）翻译转译为西班牙语并开展区域因果试验本土化，探索循证中介机构跨国扩散与全球南方国家生态适配路径。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
 > - **2021–2022 — 跨国政策调查与五维诊断体系** [[OECD]] 启动[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]，覆盖 29 国 37 个教育系统，正式构建涵盖结构、关系、质量、文化与能力的证据生态系统五维[[Analytic Framework\|分析框架]]。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 24–27)]]
 > - **2022 — 跨国证据生态组织图景与政务联结实证测度** [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] 基于 OECD 调查对 29 国 37 个教育系统开展系统性实证诊断，首次绘制出 17 类组织生态位分布、部委网络规模与强度非线性脱钩、专业中介角色的行政端集聚，确证了“学术供给过剩、微观转化贫瘠”的中心—外围失衡结构。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 78–96)]]
-> - **2022 — 跨领域知识动员模型生态演进比较** [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 横向比照卫生、公共治理与教育领域主流知识动员模型，提炼出构件交互从孤立管道走向双层嵌套生态、行动者定位从一维标签走向多维功能复合体的深层演化轨迹，并提出兼具自适应机制与崇高教育目标的下一代生态构建路径。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 43–46, 51–52)]]
+> - **2022 — 跨领域知识动员模型生态演进比较** [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 横向比照卫生、公共治理与教育领域主流知识动员模型，提炼出构件交互从孤立管道走向双层嵌套生态、行动者定位从一维标签走向多维功能复合体的深层演化轨迹，并提出兼具自适应机制与[[The Sublime|崇高]]教育目标的下一代生态构建路径。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 43–46, 51–52)]]
 > - **2022 — 生态需求摸排、外层大系统整合与行为改变视阈确立** [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] 系统阐述中介机构在证据生态系统中的自我循证进路，提出重构后的需求拉动双层嵌套构图（Figure 7.1），揭示官方治理模型遗漏外部政治问责大系统的结构性盲区，制定生态需求诊断（Box 7.2）与外层制度自省（Box 7.3）评估框架，并依托英国[[What Works Network\|有效性网络]]（WWN）实践与[[Literacy Octopus\|识字八爪鱼试验]]（Literacy Octopus Trial）因果实证，彻底推翻单向推送的信息赤字假设，推动证据生态学扎根于行为改变科学。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 148–153; Lord et al., 2017)]]
 > - **2022 — [[Quality Use of Research Evidence Framework\|QURE]] 框架阐明证据生态的系统使能支柱与过程监控治理转向** [[Argument_Rickinson_2022_EducRes\|Rickinson, Cirkony, et al. (2022)]] 基于跨卫生、社会关照、教育与政策四大领域的[[Systematic Review\|系统综述]]（[[PRISMA]] 10,813 $\to$ 112 篇核心[[Document|文献]]），将宏观系统影响（System Influences）解构为战略优先性确立、文化与基础设施专项资助、以及贯通全生态链条的形成性自我监控与反馈机制，主张宏观治理从下游结果审计转向决策过程本身的问责制、透明度与可争辩性。
 

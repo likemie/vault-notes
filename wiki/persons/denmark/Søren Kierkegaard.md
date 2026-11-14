@@ -27,6 +27,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Technical Rationality]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Epoché]]"
   - "[[Objectivism]]"
   - "[[Dehumanization]]"
@@ -45,6 +46,7 @@ related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Socrates]]"
   - "[[Thomas Schelling]]"
+  - "[[Martin Luther]]"
   - "[[Louis Cohen]]"
   - "[[Keith Morrison]]"
 related_facts: []
@@ -54,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-22
+updated: 2026-11-14
 ---
 
 ---
@@ -77,13 +79,13 @@ updated: 2026-10-22
 > - **1840–1841年** 与雷金娜·奥尔森（Regine Olsen）订婚，但因感到自身内在的忧郁与神圣使命无法融入世俗婚姻，于次年断然解除婚约。这一剧烈情感创伤催化了其一生爆发性的哲学创作。前往柏林旁听[[Thomas Schelling|谢林]]（Schelling）讲座，随后彻底与德国观念论体系决裂。
 > - **1843–1846年** 迎来高产的假名写作期。先后发表《非此即彼》（*Enten-Eller*，1843）、《恐惧与战栗》（*Frygt og Bæven*，1843）、《哲学的哲学片段》（*Philosophiske Smuler*，1844）以及巨著《哲学片段的非科学附言》（*Afsluttende uvidenskabelig Efterskrift*，1846），系统清算黑格尔历史理性系统，确立“主观性即真理”的存在论原则。
 > - **1846–1850年** 卷入与哥本哈根讽刺周刊《海盗船》（*Corsaren*）的公共论战，遭受世俗大众的嘲弄。此事件促使其深刻反思现代大众传媒催生的“群众心态”与公共意见的平庸化，相继出版《时代批判》（*En literair Anmeldelse*，1846）与《致死的疾病》（*Sygdommen til Døden*，1849）。
-> - **1854–1855年** 发起针对丹麦国家路德教会世俗化与建制官僚化的猛烈抨击，创办期刊《瞬间》（*Øieblikket*），痛斥体制化宗教背叛了个体在上帝面前的真实生存。
+> - **1854–1855年** 发起针对丹麦国家[[Martin Luther|路德]]教会世俗化与建制官僚化的猛烈抨击，创办期刊《瞬间》（*Øieblikket*），痛斥体制化宗教背叛了个体在上帝面前的真实生存。
 > - **1855年** 10月在街头因体力衰竭晕倒，11月11日病逝于哥本哈根腓特烈医院，年仅42岁。其思想在19世纪后期长期沉寂，直至20世纪初被翻译介绍至德法思想界，彻底引爆了现代存在主义哲学运动。
 
 ---
 
 > [!thought-timeline] 思想发展
-> - **1843–1845 — 美学与伦理生存的辩证阶段（Aesthetic & Ethical Stage）** 探索个体存在的三重境界（美学境界、伦理境界、宗教境界），揭示美学沉沦的虚无感与伦理责任的局限。
+> - **1843–1845 — [[Philosophical Aesthetics|美学]]与伦理生存的辩证阶段（Aesthetic & Ethical Stage）** 探索个体存在的三重境界（美学境界、伦理境界、宗教境界），揭示美学沉沦的虚无感与伦理责任的局限。
 >   - **代表著作** 《非此即彼》（*Either/Or*, 1843）、《恐惧与战栗》（*Fear and Trembling*, 1843）、《重复》（*Repetition*, 1843）。
 >   - **关键概念／方法** 美学人生、伦理决断、信仰的跃入（Leap of faith）、目的性[[Epoché\|悬置]]（Teleological suspension of the ethical）。
 >   - **阶段转向** 假托不同虚构作者的视角，展现个体在浪漫快感、道德法则与绝对信仰之间的痛苦抉择，证明抽象普遍的伦理法则无法穷尽个体面对存在的绝对处境。

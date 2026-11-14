@@ -25,9 +25,9 @@ tags:
   - governance
   - federalism
 related_concepts:
+  - "[[Philosophical Aesthetics]]"
   - "[[College and Career Readiness]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
 related_theories:
   - "[[Punctuated Equilibrium Theory]]"
 related_methods:
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-11-02
+updated: 2026-11-14
 ---
 
 ---
@@ -87,7 +87,7 @@ updated: 2026-11-02
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **[[Common Core State Standards|共同核心州立标准]]（CCSS 共同版权方）** 与 [[Council of Chief State School Officers|CCSSO]] 联合拥有 CCSS 的知识产权与官方发布权，主导了英语语言艺术与数学标准的研制、发布与推广。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 1)]]
-> - **《迈向成功的基准》旗舰政策报告** 2008 年联合 CCSSO 与 [[Achieve]] 发布《迈向成功的基准：确保美国学生获得世界一流教育》（*Benchmarking for Success*），动员 [[PISA]] 与 [[TIMSS]] 等跨国数据为制定全美学术标准立论。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 10)]]
+> - **《迈向成功的基准》旗舰政策报告** 2008 年联合 CCSSO 与 [[Achieve]] 发布《迈向成功的基准：确保美国学生获得世界一流教育》（*Benchmarking for Success*），动员 [[PISA]] 与 [[TIMSS]] 等跨国数据为制定全[[Philosophical Aesthetics|美学]]术标准立论。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 10)]]
 > - **全美州长教育峰会** 周期性召开由各州州长、大企业高管与高校领袖参与的最高规格政策会议，重塑跨期教育改革议程。
 > - **各州政策实施技术简报** 针对课程过渡、测试转换与教师培训发布大量实操性操作规程。
 

@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Examined Life]]"
   - "[[Mind and Its Wonders]]"
+  - "[[The Sublime]]"
   - "[[Avatar]]"
   - "[[Sage]]"
   - "[[Critical Thinking]]"
@@ -58,14 +59,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-10-22
+updated: 2026-11-14
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 苏格拉底（Socrates，约 470–399 BCE）是古希腊古典时期的雅典哲学家，一生不立文字，其思想与言行完全通过学生[[Plato|柏拉图]]的《对话录》以及[[Xenophon|色诺芬]]（Xenophon）等人的记述得以长存流传[[Argument_Li_2012_Cambridge|(Li, 2012, p. 27 脚注 1)]]。
-> - **核心角色** 苏格拉底被视为西方学习传统中“未经[[Examined Life|省察的生活]]”与“心智及其奇迹（[[Mind and Its Wonders]]）”两大支柱的最崇高人格[[Avatar|化身]]。他既是“叮咬雅典怠惰骏马的牛虻”，又是“执行审慎评判与明智评估的西方[[Sage|圣人]]”，是西方[[Critical Thinking|批判性思维]]无可争议的文化化身[[Argument_Li_2012_Cambridge|(Li, 2012, p. 33)]]。
+> - **核心角色** 苏格拉底被视为西方学习传统中“未经[[Examined Life|省察的生活]]”与“心智及其奇迹（[[Mind and Its Wonders]]）”两大支柱的最[[The Sublime|崇高]]人格[[Avatar|化身]]。他既是“叮咬雅典怠惰骏马的牛虻”，又是“执行审慎评判与明智评估的西方[[Sage|圣人]]”，是西方[[Critical Thinking|批判性思维]]无可争议的文化化身[[Argument_Li_2012_Cambridge|(Li, 2012, p. 33)]]。
 > - **代表贡献** 创立苏格拉底式反诘法（[[Socratic Elenchus|Elenchus]]）与精神[[Socratic Dialogue|助产术]]（Maieutics）；确立“[[Examined Life|未经省察的生活不值得过]]”这一哲学反思基石；在[[Meno|《美诺篇》]]中通过童奴几何演示创立知识即回忆说（Theory of Recollection），开启了西方启发式提问教学与先天心智传统。
 
 > [!citation-card] 赫克特论苏格拉底的创新性象征

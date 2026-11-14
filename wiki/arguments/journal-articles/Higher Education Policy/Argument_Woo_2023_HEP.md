@@ -42,6 +42,7 @@ related_concepts:
   - "[[Scientific Mobility]]"
   - "[[International Branch Campus]]"
   - "[[Education Going Global]]"
+  - "[[The Sublime]]"
   - "[[Total War]]"
   - "[[Research Universities]]"
   - "[[Technology Transfer]]"
@@ -78,6 +79,8 @@ related_facts:
   - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Belt and Road Education Action Plan]]"
   - "[[ASEAN]]"
+  - "[[Opinions on Properly Conducting the Education Opening-up Work of the New Era]]"
+  - "[[Bangkok Business School]]"
   - "[[University Alliance of the Silk Road]]"
   - "[[Luban Workshop]]"
   - "[[China Scholarship Council]]"
@@ -89,7 +92,7 @@ related_facts:
   - "[[Sino-Soviet Educational Cooperation]]"
 status: active
 created: 2026-10-19
-updated: 2026-11-11
+updated: 2026-11-14
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Woo_2023_HEP"
@@ -175,7 +178,7 @@ sources:
 > | 《推动共建丝绸之路经济带和21世纪海上丝绸之路的愿景与行动》 | 国家发改委、外交部、商务部，2015年3月 | 各部委、省级政府、央企与民营企业 | 全球化与多极化背景下的全方位国家对外开放顶层规划与经济走廊设计 | 设立中国政府奖学金并提出教育合作作为民心相通纽带 |
 > | 《高等职业教育创新发展行动计划（2015—2018年）》 | 中华人民共和国教育部，2015年10月 | 专科层次高等职业院校与应用技术大学 | 推动职业教育现代化与质量提升，促进专业设置与产业产能走出去紧密对接 | 规范职业院校[[International Branch Campus\|境外办学]]与实训基地建设，服务沿线重大工程 |
 > | 《高等学校科技创新服务“一带一路”倡议行动计划》 | 中华人民共和国教育部，2018年11月 | 75所直属重点大学及地方研究型高校、科研院所 | 建立技术创新合作平台，推动科研商业化转移与科技人才跨国双向流动 | 强化中国顶尖大学在高端科技合作与重大工程研发中的引领地位 |
-> | 《关于做好新时期教育对外开放工作的若干意见》 | 中共中央办公厅、国务院办公厅，2016年4月 | 全国各高校、各部委及各省直机关 | 强调党对教育的全面领导，将教育对外开放与两个一百年奋斗目标紧密绑定 | 新时代教育元治理纲领，确立教育服务大国外交与[[Telling China's Story Well\|讲好中国故事]]的政治导向 |
+> | 《[[Opinions on Properly Conducting the Education Opening-up Work of the New Era\|关于做好新时期教育对外开放工作的若干意见]]》 | 中共中央办公厅、国务院办公厅，2016年4月 | 全国各高校、各部委及各省直机关 | 强调党对教育的全面领导，将教育对外开放与两个一百年奋斗目标紧密绑定 | 新时代教育元治理纲领，确立教育服务大国外交与[[Telling China's Story Well\|讲好中国故事]]的政治导向 |
 
 ---
 
@@ -203,7 +206,7 @@ sources:
 > - **处方性框架（Prognostic Framing）**
 >   开出整套行动清单，涵盖设立丝绸之路中国政府奖学金、建设境外合作办学机构、组建跨国高校联盟，并在语言、交通、基建、能源、水利与医药等急需专业开展定向联合培养。
 > - **激励性框架（Motivational Framing）**
->   高度调动文明互鉴、[[People-to-People Connectivity|民心相通]]与[[Community of Shared Future for Mankind|人类命运共同体]]等宏大理念，将教育交流升华为促进区域包容性增长与共同富裕的崇高事业。
+>   高度调动文明互鉴、[[People-to-People Connectivity|民心相通]]与[[Community of Shared Future for Mankind|人类命运共同体]]等宏大理念，将教育交流升华为促进区域包容性增长与共同富裕的[[The Sublime|崇高]]事业。
 
 这套框架将零散的国际交流项目整合为兼具紧迫性与道义感的国家行动，在语言层面确立了行动的合法地位。
 
@@ -229,7 +232,7 @@ sources:
 官方政策倡导的合作处方迅速转化为多层次的办学实体与多边网络，集中投向境外独立校区、跨国高校联盟与重点涉外涉企学位项目。
 
 > [!evidence-grid] 跨国境外独立办学与多边高校网络实践
-> - **[[International Branch Campus|海外分校]]实体拓展** 厦门大学在马来西亚设立分校，成为中国一流大学在海外设立的第一所全日制独立校区（[[International Branch Campus|国际分校]]）；云南财经大学在泰国设立曼谷商学院，服务中泰产能合作与商贸金融需求。
+> - **[[International Branch Campus|海外分校]]实体拓展** 厦门大学在马来西亚设立分校，成为中国一流大学在海外设立的第一所全日制独立校区（[[International Branch Campus|国际分校]]）；云南财经大学在泰国设立[[Bangkok Business School|曼谷商学院]]，服务中泰产能合作与商贸金融需求。
 > - **[[University Alliance of the Silk Road|丝绸之路大学联盟]]（University Alliance of the Silk Road, UASR）** 西安交通大学于2015年发起成立该联盟，汇聚来自五大洲30多个国家和地区的130余所高校，成为横跨欧亚非的非官方学术多边合作枢纽。
 > - **学分学历多边互认** 截至2019年，中国政府已与24个一带一路沿线国家签署了双边学历学位互认协议，为跨境人才流动扫清制度障碍。
 

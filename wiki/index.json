@@ -4992,6 +4992,18 @@
     ]
   },
   {
+    "title": "Disinterested Pleasure",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Disinterested Pleasure.md",
+    "aliases": [
+      "无功利愉悦",
+      "无利害愉悦",
+      "赞同官能",
+      "Billigungsvermögen",
+      "faculty of approbation"
+    ]
+  },
+  {
     "title": "Double Hermeneutic",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Double Hermeneutic.md",
@@ -5610,6 +5622,16 @@
     ]
   },
   {
+    "title": "Philosophical Aesthetics",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Philosophical Aesthetics.md",
+    "aliases": [
+      "哲学美学",
+      "美学",
+      "Aesthetics"
+    ]
+  },
+  {
     "title": "Phronesis",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Phronesis.md",
@@ -5891,6 +5913,16 @@
       "priority of right over good",
       "正当优先于善",
       "正当与善的区分"
+    ]
+  },
+  {
+    "title": "The Sublime",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/The Sublime.md",
+    "aliases": [
+      "崇高",
+      "sublime",
+      "sublimity"
     ]
   },
   {
@@ -9474,6 +9506,15 @@
     ]
   },
   {
+    "title": "Aesthetic Truth",
+    "type": "concept",
+    "path": "wiki/concepts/epistemology/Aesthetic Truth.md",
+    "aliases": [
+      "审美真理",
+      "感性真理"
+    ]
+  },
+  {
     "title": "Non-Arbitrariness of the Sign",
     "type": "concept",
     "path": "wiki/concepts/epistemology/Non-Arbitrariness of the Sign.md",
@@ -9481,6 +9522,20 @@
       "符号的非任意性",
       "符号非任意性",
       "nonarbitrariness of the sign"
+    ]
+  },
+  {
+    "title": "Sensual Cognition",
+    "type": "concept",
+    "path": "wiki/concepts/epistemology/Sensual Cognition.md",
+    "aliases": [
+      "感性认识",
+      "感性认知",
+      "下级认识论",
+      "gnoseologia inferior",
+      "inferior cognition",
+      "clear and confused cognition",
+      "清晰而混乱的认识"
     ]
   },
   {
@@ -31273,6 +31328,18 @@
     ]
   },
   {
+    "title": "Alexander Gottlieb Baumgarten",
+    "type": "person",
+    "path": "wiki/persons/germany/Alexander Gottlieb Baumgarten.md",
+    "aliases": [
+      "Alexander Baumgarten",
+      "亚历山大·戈特利布·鲍姆嘉通",
+      "鲍姆嘉通",
+      "亚历山大·鲍姆嘉通",
+      "Baumgarten, A. G."
+    ]
+  },
+  {
     "title": "Andreas Helmke",
     "type": "person",
     "path": "wiki/persons/germany/Andreas Helmke.md",
@@ -31432,6 +31499,16 @@
     ]
   },
   {
+    "title": "Gottfried Wilhelm Leibniz",
+    "type": "person",
+    "path": "wiki/persons/germany/Gottfried Wilhelm Leibniz.md",
+    "aliases": [
+      "戈特弗里德·威廉·莱布尼茨",
+      "莱布尼茨",
+      "Leibniz, G. W."
+    ]
+  },
+  {
     "title": "Hilbert Meyer",
     "type": "person",
     "path": "wiki/persons/germany/Hilbert Meyer.md",
@@ -31567,6 +31644,16 @@
     "aliases": [
       "Weber, M.",
       "马克斯·韦伯"
+    ]
+  },
+  {
+    "title": "Moses Mendelssohn",
+    "type": "person",
+    "path": "wiki/persons/germany/Moses Mendelssohn.md",
+    "aliases": [
+      "摩西·门德尔松",
+      "门德尔松",
+      "Mendelssohn, M."
     ]
   },
   {
@@ -51201,6 +51288,11 @@
     "title": "Argument_Hammermeister_2002_Cambridge",
     "type": "argument",
     "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge.md"
+  },
+  {
+    "title": "Argument_Hammermeister_2002_Cambridge_Ch01",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md"
   },
   {
     "title": "Argument_Karp_Zamiska_2025_Technological_Republic",

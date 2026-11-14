@@ -41,6 +41,7 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Discourse]]"
   - "[[Constructivist Paradigm]]"
+  - "[[The Sublime]]"
   - "[[Determinism]]"
   - "[[Professional Judgment]]"
   - "[[Critical Pedagogy]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-11-02
+updated: 2026-11-14
 ---
 
 ---
@@ -132,7 +133,7 @@ updated: 2026-11-02
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 构建教育目的三维[[Analytic Framework|分析框架]]与教育三重[[Deficiencies Model for an Introduction|缺陷模型]]，重塑了当代全球教育哲学反思[[Positivism|实证主义]]与绩效问责的理论语汇；提出[[Learnification|学习化]]批判，重申教师作为文化引导者与意义启迪者的崇高地位。
+> - **理论路径** 构建教育目的三维[[Analytic Framework|分析框架]]与教育三重[[Deficiencies Model for an Introduction|缺陷模型]]，重塑了当代全球教育哲学反思[[Positivism|实证主义]]与绩效问责的理论语汇；提出[[Learnification|学习化]]批判，重申教师作为文化引导者与意义启迪者的[[The Sublime|崇高]]地位。
 > - **方法路径** 倡导基于开放、递归与符号系统的教育[[Ontology|本体论]]分析，论证教育涉及非[[Determinism|决定论]]复杂系统，推动研究界从孤立因果线性干预转向审视社会复杂性与情境意义生成。
 > - **政策与实践路径** 深刻影响了英国、荷兰、北欧等国教师教育体系与课程哲学重构，为一线教师抗拒官僚化数据考核、捍卫课堂[[Professional Judgment|专业判断力]]（[[Phronesis|实践智慧]]）提供了关键思想武器。
 > - **跨国传播与论辩** 理论被广泛引入政策社会学与实证教育研究批判：里格利（Wrigley）援引其系统论反驳循证医学模型；罗默（Rømer）借用其被动性概念解构可见学习对被动维度的偏狭排斥；考恩（Cowen）在比较教育制度分析中印证其哲学诊断。

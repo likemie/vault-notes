@@ -30,6 +30,7 @@ related_concepts:
   - "[[Technological Republic]]"
   - "[[Counterculture Computing]]"
   - "[[Hacker Ethic]]"
+  - "[[The Sublime]]"
   - "[[Civic Religion]]"
   - "[[Winner's Fallacy]]"
   - "[[Geopolitics]]"
@@ -41,6 +42,8 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[Regulatory Sandbox]]"
   - "[[Big Science]]"
+  - "[[Educational Soft Power]]"
+  - "[[International Branch Campus]]"
   - "[[STEM Education]]"
   - "[[Determinism]]"
   - "[[Cosmopolitanism]]"
@@ -80,12 +83,13 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
+  - "[[Argument_He_2018_HEP]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13]]"
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
@@ -142,7 +146,7 @@ updated: 2026-11-13
 > - **敏捷软件架构、算法模型与自主蜂群** 现代硬实力已脱离纯粹的物理质量与士兵数量对比，转而取决于谁能以最快速度从海量多模态数据中提炼目标情报并协同无人化作战单元实施打击。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 29–31)]]
 > - **深科技实体制造与实战试验场全链条协同** 软件硬实力无法悬空存在，必须依托先进制造能力与一线实战物理反馈，形成软硬件快速迭代的验证协同体系。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 39–43)]]
 > - **国家认同与地缘威慑意志基石** 硬实力不单纯是硬件参数，其实战威慑力根本上取决于共同体为捍卫自身而战斗的集体意志；抽离了国家认同与防卫意志的社会，必将丧失对外威慑力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 204)]]
-> - **克服[[Soft Belief|软信念]]与实质文化德性护城河** 硬实力的长期维系依赖于由审美品味、崇高道德目标、全员所有权社会与[[Civic Religion|世俗公民宗教]]构成的实质信念体系；若陷入[[Soft Belief|软信念]]的避险合规与道德中立，硬实力研发将沦为平庸的资本消耗。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 205–218)]]
+> - **克服[[Soft Belief|软信念]]与实质文化德性护城河** 硬实力的长期维系依赖于由审美品味、[[The Sublime|崇高]]道德目标、全员所有权社会与[[Civic Religion|世俗公民宗教]]构成的实质信念体系；若陷入[[Soft Belief|软信念]]的避险合规与道德中立，硬实力研发将沦为平庸的资本消耗。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 205–218)]]
 > - **高教研发工具化与实体产能配套** 发展型国家通过调动顶尖[[Research Universities|研究型大学]]攻坚关键核心技术，调动应用型院校支撑跨国产业走廊，将高等教育转化为构筑国家工业制造与科技硬实力的战略系统。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 685–687)]]
 
 > [!logic-map]- 现代软件硬实力生产机制与文化信念共生拓扑图
@@ -246,7 +250,7 @@ updated: 2026-11-13
 > - **1970 年代 — [[Counterculture Computing|反文化计算]]的分离与挑战** 黑客文化明确拒绝为军工机构研发武器，开启了硅谷与国家硬实力建设的历史性脱节。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–100)]]
 > - **1990 年代 — 软硬实力二元区分与冷战后[[Winner's Fallacy|赢家谬误]]** [[Joseph S. Nye Jr.|约瑟夫·奈]]系统界定硬实力与[[Soft Power|软实力]]的边界；西方社会普遍陷入过度依赖软实力的胜者谬误，放任实体制造业萎缩。
 > - **2000 年代 — [[Consumer Internet|消费互联网]]对硬科技资源的虹吸** 硅谷科技精英全面滑向以广告变现和日常便利为导向的消费互联网，国家安全与硬实力技术研发被边缘化。
-> - **2018 年 — 经济硬实力对教育软实力溢价的决定性支撑** [[Argument_He_2018_HEP|He and Wilkins (2018)]] 结合东南亚中国大学分校实证，基于马特恩（Mattern, 2005）理论证明软实力植根于硬实力，揭示海外分校的求学生源本质上是由中国经贸硬实力与中企海外投资带来的就业溢价所驱动。[[Argument_He_2018_HEP|(He & Wilkins, 2018, pp. 333–335)]]
+> - **2018 年 — 经济硬实力对[[Educational Soft Power|教育软实力]]溢价的决定性支撑** [[Argument_He_2018_HEP|He and Wilkins (2018)]] 结合东南亚中国大学分校实证，基于马特恩（Mattern, 2005）理论证明软实力植根于硬实力，揭示[[International Branch Campus|海外分校]]的求学生源本质上是由中国经贸硬实力与中企海外投资带来的就业溢价所驱动。[[Argument_He_2018_HEP|(He & Wilkins, 2018, pp. 333–335)]]
 > - **2020 年代初 — 智能化时代的硬实力重塑与告别[[Soft Belief|软信念]]** 卡普与扎米斯卡系统论证以敏捷软件与人工智能重构硬实力，并在《[[Technological Republic|技术共和国]]》（Ch. 17–18）确立硬实力、国家认同防卫意志与克服软信念的共生体系。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025)]]
 > - **2023 年 — 发展型国家高教工业硬实力工具化与依附脆弱性** [[Argument_Woo_2023_HEP|Woo (2023)]] 揭示，发展型国家将[[Research Universities|研究型大学]]与职业技术院校全面整合为硬实力出海工具；同时实证证实，过度寄生于经济硬实力补贴的对外吸引力在面临外部地缘波动时具有深层脆弱性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 685–687, 692–694)]]
 > - **2025 年 — 大学作为科技硬实力展演窗口与硬基建主导实证** [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] 揭示发展型国家将高等教育机构作为向外界展演前沿科技硬实力的核心窗口（战略性扩大 33% [[STEM Education|STEM]] 奖学金规模），并实证揭示对外战略中硬性基础设施投资规模是文教社会援助的 2.36 倍。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1051–1053)]]

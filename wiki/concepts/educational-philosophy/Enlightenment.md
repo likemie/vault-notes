@@ -28,6 +28,8 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Technical Rationality]]"
   - "[[Emergence]]"
+  - "[[The Sublime]]"
+  - "[[Dynastic Realm]]"
   - "[[Epistemology]]"
   - "[[Scientific Method]]"
   - "[[Grand Theory]]"
@@ -49,8 +51,8 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Scientific Literacy]]"
   - "[[General Education]]"
-  - "[[Practical Epistemology]]"
   - "[[Discourse]]"
+  - "[[Practical Epistemology]]"
   - "[[State Educational Sovereignty]]"
   - "[[Bildung]]"
   - "[[Modular Nationalism]]"
@@ -79,9 +81,9 @@ related_arguments:
   - "[[Argument_Kelly_Licona_2018_EpistemicPractices]]"
   - "[[Argument_Anderson_2016_Verso_Ch01]]"
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
-  - "[[Argument_Anderson_2016_Verso_Ch04]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
+  - "[[Argument_Anderson_2016_Verso_Ch04]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 related_theories:
@@ -100,7 +102,7 @@ related_facts:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -119,9 +121,9 @@ updated: 2026-11-11
 > *Enlightenment is man’s [[Emergence]] from his self-incurred immaturity. ... There is more chance of an entire public enlightening itself ... if only the public concerned is left in freedom ... freedom to make public use on one’s reason in all matters.*
 
 > [!citation-card] 安德森论启蒙运动催生主权想象共同体
-> 民族被想象为主权的，因为该概念诞生于启蒙运动与政治革命摧毁神权秩序与世袭王朝合法性的历史关口；主权国家成为现代人确认自身自由与政治自主的崇高徽标。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 7)]]
+> 民族被想象为主权的，因为该概念诞生于启蒙运动与政治革命摧毁神权秩序与世袭王朝合法性的历史关口；主权国家成为现代人确认自身自由与政治自主的[[The Sublime|崇高]]徽标。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 7)]]
 >
-> *The nation is imagined as sovereign because the concept was born in an age in which Enlightenment and Revolution were destroying the legitimacy of the divinely-ordained, hierarchical dynastic realm.*
+> *The nation is imagined as sovereign because the concept was born in an age in which Enlightenment and Revolution were destroying the legitimacy of the divinely-ordained, hierarchical [[Dynastic Realm|dynastic realm]].*
 
 > [!boundary]- 概念边界
 > - 不等于工具理性绝对膨胀（Instrumental Rationality） — 工具理性将理性降格为追求功利效率的技术算计；启蒙理性包含价值反思、道德自律、普遍人权与批判自由的实质规范维度。
@@ -240,7 +242,7 @@ updated: 2026-11-11
 
 > [!dev-timeline] 概念演变
 > - **18世纪中后期 — 启蒙哲学奠基与理性觉醒** [[Jean-Jacques Rousseau|卢梭]]发表《爱弥儿》（1762）、[[Immanuel Kant|康德]]发表《回答这个问题：什么是启蒙？》（1784），确立自然自由与公开运用理性的哲学纲领。
-> - **18世纪末 — 神权王朝解体与世俗连续性追寻** 启蒙运动消解了神圣王朝统治的形而上学合法性与宗教救赎，促使政治合法性向世俗主权转移，并催生将必死宿命转化为国家政治命运的民族想象。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 7)]][[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 10–12)]] 与此同时，18世纪末欧陆启蒙自然哲学催生了人种与气候退化偏见，而美洲土生白人统治精英则高度工具化地筛选吸收启蒙自由主权话语，借法理平权消除黑奴与从属阶级暴动威胁。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 47–49, 58–60)]]
+> - **18世纪末 — 神权王朝解体与世俗连续性追寻** 启蒙运动消解了神圣王朝统治的形而上学合法性与宗教救赎，促使政治合法性向世俗主权转移，并催生将必死宿命转化为国家政治命运的民族想象。[[Argument_Anderson_2016_Verso_Ch01|(Anderson, 2016, p. 7)]][[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 10–12)]] 与此同时，18世纪末欧陆启蒙自然哲学催生了人种与气候退化偏见，而美洲土生白人统治精英则高度工具化地筛选吸收启蒙自由主权[[Discourse|话语]]，借法理平权消除黑奴与从属阶级暴动威胁。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 47–49, 58–60)]]
 > - **1790s–1830s — 大革命法制试验与比较教育现代主义发端** 孔多塞与塔列朗起草国民公学法案；朱利安发表《比较教育工作计划》（1817），将启蒙理性转化为准[[Observation Method|科学观察]]表与[[Perpetual Peace|永久和平]]蓝图；普鲁士聚芬草案（1819）与法国基佐法案（1833）将启蒙教育权法典化；奠定比较教育第一代的启蒙哲学地基。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 11–14, 26–29)]]；[[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 139–141)]]
 > - **1830s–1860s — 北美[[Common School Movement|公学运动]]与世俗公民体制确立** [[Horace Mann|霍勒斯·曼]]领导马萨诸塞州公学运动，将启蒙理性落地为公共税收维持、面向全体平民的非宗派世俗公立学校。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 31–34)]]
 > - **20世纪中叶 — 启蒙辩证法反思与极权主义批判** 霍克海默与阿多诺在《启蒙辩证法》（1947）中深刻反思工具理性异化，指出盲目崇拜技术算计与控制自然会导致启蒙走向神话反面。

@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Discourse]]"
   - "[[Construct]]"
+  - "[[The Sublime]]"
   - "[[Evidence-Based Education]]"
   - "[[Lifelong Learning]]"
   - "[[Active Learning]]"
@@ -77,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-11-03
 > **学习化（Learnification）** 是由当代荷兰教育哲学家[[Gert Biesta|格特·比斯塔]]（Gert Biesta）首创的批判性概念，指教育理论与实践[[Discourse|话语]]被以效果为中心、去价值负荷的“学习”（Learning）与“学习结果”（Learning Outcomes）逻辑全面侵蚀与重塑的现象。该[[Construct|构念]]揭示：传统教育中教师引领主体涉入客观文化传统的教育学关系，被异化为以产出测量为中介的技术化交付过程；学生被编码为需对自身效能持续负责的学习消费者，消解了教育关涉主体成熟（Mündigkeit）、民主审议与道德解放的根本宗旨。[[Argument_Biesta_2010_SPE|(Biesta, 2010, pp. 15–20)]]; [[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 1–3)]]
 
 > [!concept-lens] 概念透镜
-> - **核心功能** 揭示当代教育改革表面上的“以学生为中心”修辞，实质上掩盖了新自由主义问责制与量化监控对教育崇高目的的抽离。
+> - **核心功能** 揭示当代教育改革表面上的“以学生为中心”修辞，实质上掩盖了新自由主义问责制与量化监控对教育[[The Sublime|崇高]]目的的抽离。
 > - **理论用途** 用于解构可见学习、[[Evidence-Based Education|证据为本教育]]（[[Evidence-Based Education|EBE]]）及新自由主义[[Lifelong Learning|终身学习]]政策，分析教育学语言如何从关乎伦理与文化意义的教育哲学退化为关涉生产率与[[Effect Size|效应量]]的技术管理学。
 > - **制度边界** 严格区别于纯粹倡导自主探究的[[Active Learning|主动学习]]；学习化批判聚焦于解构将“学习”提升为凌驾于价值目的、内容选择与主体性培育之上的抽象生存命令，旨在唤醒对教育崇高价值维度的关注。
 

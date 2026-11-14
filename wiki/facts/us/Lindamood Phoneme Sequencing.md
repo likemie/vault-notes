@@ -31,6 +31,7 @@ related_concepts:
   - "[[Multi-tiered Systems of Support]]"
   - "[[Small Group Tuition]]"
   - "[[Paradigm]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Response to Intervention]]"
   - "[[Lifelong Learning]]"
   - "[[Response to Proven Instruction]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-11-11
 
 > [!dev-timeline] LiPS 发展历程
 > - **1970–1980 年代 — 临床创立与 ADD [[Paradigm\|范式]]成型** 林达穆德夫妇在临床言语矫正中提炼出“动作—听觉—视觉”多感官语音感知体系，出版《深入听觉辨别训练》手册。
-> - **1990 年代 — [[National Institute of Child Health and Human Development|NICHD]] 国家阅读认知危机攻关** 托尔格森团队在佛罗里达州开展里程碑式的长期追踪 [[Randomised Controlled Trials\|RCT]]（Torgesen et al., 1997），证实 LiPS 在一年级严重阅读障碍儿童中取得了突破性的[[Decodification\|解码]]增益（[[Effect Size\|效应量]]超 $+0.60$），确立了其全美学术声誉。
+> - **1990 年代 — [[National Institute of Child Health and Human Development|NICHD]] 国家阅读认知危机攻关** 托尔格森团队在佛罗里达州开展里程碑式的长期追踪 [[Randomised Controlled Trials\|RCT]]（Torgesen et al., 1997），证实 LiPS 在一年级严重阅读障碍儿童中取得了突破性的[[Decodification\|解码]]增益（[[Effect Size\|效应量]]超 $+0.60$），确立了其全[[Philosophical Aesthetics|美学]]术声誉。
 > - **2000–2010 年代 — 计算机辅助与多学段评估** 托尔格森等学者进一步开发结合计算机软件的综合干预（Torgesen et al., 2010），在 K–2 年级多中心实验中再次验证了 $+0.69$ 的超额效应量。
 > - **2015–至今 — 法定 [[Every Student Succeeds Act\|ESSA]] 强证据金标准** 在《每一个学生成功法》（ESSA）证据分级中，LiPS 作为极少数在 Tier 2 与 Tier 3 均达到 Strong 评级的经典方案，被全美各州学区广泛采纳为特殊教育分流前的最后拦截屏障。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 

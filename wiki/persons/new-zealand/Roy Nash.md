@@ -25,6 +25,7 @@ related_concepts:
   - "[[Critic and Conscience of Society]]"
   - "[[Determinism]]"
   - "[[International Education]]"
+  - "[[The Sublime]]"
   - "[[Teacher Expectations]]"
   - "[[Cultural Capital]]"
   - "[[Positivism]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-17
-updated: 2026-10-30
+updated: 2026-11-14
 ---
 
 ---
@@ -82,7 +83,7 @@ updated: 2026-10-30
 > - **1970 年代后期** 移居新西兰加盟梅西大学教育系，开启长达近三十年针对新西兰公立教育体制、毛利教育与阶级不平等的宏微观结合实证研究。
 > - **1990 年代** 确立[[Critical Realism|批判实在论]]视角下的教育社会学整合框架，主编并出版多部关于新西兰公立教育与社会阶级的专著，与理查德·哈克（Richard Harker）等人开展大规模纵向追踪调查。
 > - **2003–2004** 出版总结性专著《新西兰的社会阶级与教育》（*Social Class and Education in New Zealand*）及方法论经典论文《社会学中的解释与量化》（*Explanation and Quantification in Sociology*）。
-> - **2006** 在新西兰北帕默斯顿因病逝世，[[International Education|国际教育]]学界对其卓越的批判洞见与方法论坚守致以崇高敬意。
+> - **2006** 在新西兰北帕默斯顿因病逝世，[[International Education|国际教育]]学界对其卓越的批判洞见与方法论坚守致以[[The Sublime|崇高]]敬意。
 
 ---
 

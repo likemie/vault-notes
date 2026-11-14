@@ -28,10 +28,12 @@ tags:
 related_concepts:
   - "[[Kansankynttilä]]"
   - "[[Paradigm]]"
+  - "[[The Sublime]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Martin Luther]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Uno Cygnaeus]]"
   - "[[Johan Vilhelm Snellman]]"
@@ -44,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-07
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -52,7 +54,7 @@ updated: 2026-11-11
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1866 年 5 月 11 日由沙皇亚历山大二世批准、芬兰大公国参议院正式颁布《关于芬兰国民学校制度之组织的法令》（*Förordning angående folkskoleväsendets i Finland organisation*）。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–22)]]
 > - **适用地区 / 对象** 芬兰大公国全境城乡各级地方市镇、初等教育适龄儿童及师范讲习所学员。
-> - **问题背景** 19 世纪中叶芬兰初等教育极度落后且完全受制于路德宗教区教会，教学局限于认字与教理问答；芬诺曼知识精英深受[[Georg Wilhelm Friedrich Hegel|黑格尔]]国家哲学启发，急需通过世俗化教育培育现代芬兰民族意识。
+> - **问题背景** 19 世纪中叶芬兰初等教育极度落后且完全受制于[[Martin Luther|路德]]宗教区教会，教学局限于认字与教理问答；芬诺曼知识精英深受[[Georg Wilhelm Friedrich Hegel|黑格尔]]国家哲学启发，急需通过世俗化教育培育现代芬兰民族意识。
 > - **制度位置** 芬兰历史上第一部专门规范初等教育的系统性法规，终结了教会对学校教育的排他性控制，开创了现代世俗国家教育行政体制。
 
 ---
@@ -104,4 +106,4 @@ updated: 2026-11-11
 > | [[Uno Cygnaeus]] | 人物 | 法令的起草人、制度设计总设计师与首任国民学校总监。 |
 > | [[Jyväskylä Teacher Seminary]] | 组织 | 为法令执行而专门创立的芬兰初等教师培训母机。 |
 > | [[Compulsory Education Act 1921]] | 政策 | 承接该法令发展而来的全民强制义务教育法制成果。 |
-> | [[Kansankynttilä]] | 概念 | 该法令确立的教师世俗崇高声望的具体文化符号。 |
+> | [[Kansankynttilä]] | 概念 | 该法令确立的教师世俗[[The Sublime\|崇高]]声望的具体文化符号。 |

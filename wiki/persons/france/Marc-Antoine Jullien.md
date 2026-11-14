@@ -36,6 +36,7 @@ related_concepts:
   - "[[Cosmopolitanism]]"
   - "[[Nationalism]]"
   - "[[Normal School]]"
+  - "[[The Sublime]]"
   - "[[Positivism]]"
   - "[[Scientism]]"
   - "[[Performance Indicators]]"
@@ -61,6 +62,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Johann Heinrich Pestalozzi]]"
+  - "[[Thomas Jefferson]]"
   - "[[Francis Bacon]]"
   - "[[Franz Hilker]]"
   - "[[Immanuel Kant]]"
@@ -88,7 +90,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -110,7 +112,7 @@ updated: 2026-11-11
 > - **1789** 作为巴黎中学生亲历攻占巴士底狱，深受启蒙理性思潮激励。
 > - **1792–1794** 青年时代迅速激进化，加入雅各宾俱乐部并出任国民公会特派战地记者，深度卷入罗伯斯庇尔（Maximilien Robespierre）政权的恐怖统治，将[[National Education|国民教育]]视作政治暴力革命的附庸工具。（Palmer, 1993:ix, 154）
 > - **1798–1801** 作为拿破仑·波拿巴（Napoleon Bonaparte）远征埃及军团的战争专员前往北非；亲历军阀专制残暴、政治清洗与帝国侵略战争后，对政治暴力产生深刻幻灭，随之游历英格兰、苏格兰与欧洲大陆。（Palmer, 1993:ix）
-> - **1805–1810** 思想发生根本转向，投身教育与社会改良研究；1808 年出版《教育总论》；1810 年实地考察瑞士伊弗东（Yverdon）[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]（J. H. Pestalozzi）学校与霍夫维尔费伦伯格（P. E. Fellenberg）学校，奠定以儿童为中心的自然主义与人道主义教育哲学；同年致信美国前总统杰斐逊（Thomas Jefferson）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 12, 19–20)]]
+> - **1805–1810** 思想发生根本转向，投身教育与社会改良研究；1808 年出版《教育总论》；1810 年实地考察瑞士伊弗东（Yverdon）[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]（J. H. Pestalozzi）学校与霍夫维尔费伦伯格（P. E. Fellenberg）学校，奠定以儿童为中心的自然主义与人道主义教育哲学；同年致信美国前总统[[Thomas Jefferson|杰斐逊]]（Thomas Jefferson）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 12, 19–20)]]
 > - **1817** 发表比较教育奠基之作《[[Esquisse d'un ouvrage sur l'éducation comparée\|关于比较教育的一项著作的计划与初步观点]]》（*Esquisse*），系统阐发比较解剖学类比、经验分类学与跨国[[Questionnaire\|问卷调查]]规程。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11–13)]]
 > - **1819–1830** 创办并主编《[[Revue encyclopédique\|百科评论]]》（*Revue encyclopédique*），提出 1819 年《人类知识总表》，将教育学归入关涉心灵与道德的二级[[Geisteswissenschaften|精神科学]]；践行[[Francis Bacon|培根]]式的科学统一思想与世界公民理念，广泛刊载各大洲的公共教育与文化进展。（Palmer, 1993:176–181）
 > - **1830–1848** 赞同 1830 年七月革命与 1848 年二月革命；积极投身伦敦“和平之友协会”（Association of Friends for Peace），在 1833 年《致英格兰民族书》中将比较解剖学类比升华为“比较文明学”，呼吁以跨国教育协作荡涤旧时代野蛮战争残余；1848 年在巴黎逝世，数周后路易-拿破仑·波拿巴当选法兰西第二共和国总统。（Palmer, 1993:ix, 205; [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 19]], 22–24）
@@ -166,7 +168,7 @@ updated: 2026-11-11
 > *It is not enough for us to be encyclopedists; we aspire especially to be cosmopolites (world citizens). We would not think our task fulfilled unless each of our numbers presented, in the most complete and accurate way, the state of sciences, letters, arts, intellectual labors and moral improvement throughout the surface of the globe.*
 
 > [!citation-card] 以比较文明与比较教育荡涤野蛮战争残余（1833）
-> 我们杰出而博学的居维叶在崇高的沉思中准确判断出：只有比较解剖学和比较地质学才能推动长期停留在幼年期的解剖学与地质学发展。同样，只有比较文明才能迅速推进我们当前的文明，荡涤其尽管拥有辉煌奇迹却依然保留的深重野蛮残余。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 22–23; Palmer, 1993, p. 205)]]
+> 我们杰出而博学的居维叶在[[The Sublime|崇高]]的沉思中准确判断出：只有比较解剖学和比较地质学才能推动长期停留在幼年期的解剖学与地质学发展。同样，只有比较文明才能迅速推进我们当前的文明，荡涤其尽管拥有辉煌奇迹却依然保留的深重野蛮残余。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 22–23; Palmer, 1993, p. 205)]]
 >
 > *Our illustrious and learned CUVIER, whose recent death was a loss as keenly felt in England as in France, had rightly judged, in his lofty meditations, that only comparative anatomy and comparative geology could advance the sciences of anatomy and geology which remained so long in their infancy. Similarly, only comparative civilization can speedily advance our present civilization, which still preserves, despite its brilliant and imposing wonders, the deep and afflicting traces of the old barbarism.*
 

@@ -25,6 +25,7 @@ related_concepts:
   - "[[Educational Level]]"
   - "[[Nationalism]]"
   - "[[Discourse]]"
+  - "[[The Sublime]]"
   - "[[Cultural Capital]]"
   - "[[Normal School]]"
   - "[[Direct Instruction]]"
@@ -37,20 +38,21 @@ related_persons:
   - "[[Johan Vilhelm Snellman]]"
   - "[[Uno Cygnaeus]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
+  - "[[Martin Luther]]"
   - "[[Pasi Sahlberg]]"
 related_facts:
-  - "[[Kalevala Compilation]]"
   - "[[Jyväskylä Teacher Seminary]]"
   - "[[National Education]]"
   - "[[Svecoman Movement]]"
   - "[[Finnish PISA Miracle]]"
+  - "[[Kalevala Compilation]]"
   - "[[Programme for the International Assessment of Adult Competencies]]"
 related_arguments:
   - "[[Argument_Sahlgren_2015_CPS]]"
 confidence: high
 status: completed
 created: 2026-11-06
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
@@ -67,7 +69,7 @@ updated: 2026-11-13
 ---
 
 > [!dev-timeline] 事件推进历程
-> - **1820–1840 年代 — 语言搜集与思想启蒙期** 知识精英发起民歌采风并整理出版[[Kalevala Compilation|民族史诗《卡勒瓦拉》]]（Kalevala），斯内尔曼等学者在报刊上发起民族意识论战，主张赋予芬兰语官方地位。
+> - **1820–1840 年代 — 语言搜集与思想启蒙期** 知识精英发起民歌采风并整理出版民族史诗《卡勒瓦拉》（Kalevala），斯内尔曼等学者在报刊上发起民族意识论战，主张赋予芬兰语官方地位。
 > - **1850–1870 年代 — 师资培育与学校网络初建期** 沙皇亚历山大二世批准提升芬兰语地位；1863 年创立于韦斯屈莱教师研修学院（[[Jyväskylä Teacher Seminary]]），系统招收有志于乡村普及教育的芬兰语青年，开启高标准乡村师资体系建设。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–21)]]
 > - **1880–1917 年 — 抵御沙俄同化与建国胜利期** 面对 19 世纪末沙皇政府强制推行的俄罗斯化政策，初等学校网络成为民众消极抵抗帝国渗透的核心堡垒；教师群体深度融入基层动员，最终在 1917 年赢得国家独立。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 21–22)]]
 
@@ -103,7 +105,7 @@ updated: 2026-11-13
 
 > [!indicators] 历史影响维度
 > - **制度创生与立法** 推动沙皇签署 1863 年语言法令赋予芬兰语法定地位，创设 1863 年于韦斯屈莱教师研修学院，奠定全国性芬兰语初等学校网络。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 20–21)]]
-> - **教师社会声望建构** 赋予从教者“民族之烛”（kansankynttilä）的神圣使命感，使乡村教师享有与牧师、医生并列的社会崇高声誉，确立了极其严苛的师资选拔门槛。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 19–21)]]
+> - **教师社会声望建构** 赋予从教者“民族之烛”（kansankynttilä）的神圣使命感，使乡村教师享有与牧师、医生并列的社会[[The Sublime|崇高]]声誉，确立了极其严苛的师资选拔门槛。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 19–21)]]
 > - **社会重教文化累积** 奠定了芬兰全社会崇尚知识、尊重权威与勤勉自律的深层[[Cultural Capital|文化资本]]，为 20 世纪经济追赶与芬兰教育崛起提供了跨世代的文化基石。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 18–22, 63–65)]]
 
 ---
@@ -127,7 +129,7 @@ updated: 2026-11-13
 > > 当代学者围绕芬兰教育在国际测评中取得优异成绩的根源展开了制度改革派与历史文化派的分歧。
 > >
 > > - **当代综合学校派（以萨尔伯格为代表）** 将成功归因于 1970 年代以来的综合学校均等化改革、硕士师资培养及去标准化测评。
-> > - **历史制度与文化派（以萨尔格伦为代表）** 指出芬兰教育的顶峰表现实由芬诺曼运动确立的教师崇高地位、路德宗勤勉文化及传统[[Direct Instruction|直接教学]]法所奠定，综合学校改革反而伴随着后续的学术衰退。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 18–26, 63–66)]]
+> > - **历史制度与文化派（以萨尔格伦为代表）** 指出芬兰教育的顶峰表现实由芬诺曼运动确立的教师崇高地位、[[Martin Luther|路德]]宗勤勉文化及传统[[Direct Instruction|直接教学]]法所奠定，综合学校改革反而伴随着后续的学术衰退。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 18–26, 63–66)]]
 
 ---
 

@@ -43,6 +43,7 @@ related_concepts:
   - "[[University-Based Research Infrastructure]]"
   - "[[Technology Transfer]]"
   - "[[Construct]]"
+  - "[[The Sublime]]"
   - "[[Value Neutrality]]"
   - "[[Gatekeepers]]"
   - "[[New Public Management]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -203,7 +204,7 @@ updated: 2026-11-11
 > - **2011–2019 — Gough 证据生态演进中的中介枢纽化** Gough et al. （[[EPPI-Centre]]）从最初构建生产-中介-使用三元系统（2011），到逆转图式凸显实践需求与中介拉力（2018），最终在双层嵌套模型中确立中介在沟通连接与全系统元研究中的核心地位（2019）。
 > - **2019 — 德语区反思中层中介机构的实证成效与双重脱节** 马尼蒂乌斯与范霍尔特（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019]]）系统审视德语区各州研训研究所与[[School Inspection|学校督导]]的知识中介功能，指出制度化中介机构在承担枢纽角色的同时面临严重的实证研究赤字，呼吁建立兼顾科学严谨与实践适切的中介研究体系。
 > - **2020 — 政策大使作为新型跨国知识中介** 戴安娜·斯通等（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）提出[[Policy Ambassador|政策大使]][[Construct|构念]]，阐发兼具本土扎根实践与国际外交资本的个体知识中介在推动南方[[Representational Knowledge|代表性知识]]进入全球多边议程中的桥梁机制（pp. 2–6）。
-> - **2022 — [[OECD]] 整合比较中的反思与超越** [[Argument_Torres_2022_KMModels|Torres (2022b)]] 横向对比主流模型，指出未来知识中介必须突破单纯的学术证据推销，转向促进证据与教育创新的深度共生（Révai, 2020），并以学生与教师的深度专业学习为崇高目标。
+> - **2022 — [[OECD]] 整合比较中的反思与超越** [[Argument_Torres_2022_KMModels|Torres (2022b)]] 横向对比主流模型，指出未来知识中介必须突破单纯的学术证据推销，转向促进证据与教育创新的深度共生（Révai, 2020），并以学生与教师的深度专业学习为[[The Sublime|崇高]]目标。
 > - **2026 — 超国家知识中介修辞批判与认识论平等倡导** [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] 分析经合组织 288 家中介调研报告，解构跨国知识中介的修辞隐喻与守门机制，主张中介机构应超越被动分发管道，充当捍卫本土实践知识与认识论平等的对话平台（pp. 344, 347–348, 350–351）。
 
 ---

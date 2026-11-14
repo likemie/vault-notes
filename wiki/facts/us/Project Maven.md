@@ -32,6 +32,7 @@ related_concepts:
   - "[[Winner's Fallacy]]"
   - "[[Technological Republic]]"
   - "[[Culture of Disbelief]]"
+  - "[[The Sublime]]"
 related_persons:
   - "[[Mariana Mazzucato]]"
   - "[[Alexander Karp]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-26
+updated: 2026-11-14
 ---
 
 ---
@@ -109,7 +110,7 @@ updated: 2026-10-26
 > | [[Winner's Fallacy]] | 概念 | 思想根源，展现后冷战胜者自满如何使科技企业单方面废弃与国家的防务合作契约。 |
 > | [[Hard Power]] | 概念 | 实践领域，算法与计算机视觉构成了 21 世纪软件硬实力的决定性中枢。 |
 > | [[Technological Republic]] | 概念 | 理论对照，揭示科技企业退出防务工程对现代技术共和国政产学研协同传统的侵蚀。 |
-> | [[Culture of Disbelief]] | 概念 | 文化背景，反映受教育精英阶层在不信文化冲刷下丧失崇高国家信念的虚无状态。 |
+> | [[Culture of Disbelief]] | 概念 | 文化背景，反映受教育精英阶层在不信文化冲刷下丧失[[The Sublime\|崇高]]国家信念的虚无状态。 |
 > | [[Alexander Karp]] | 人物 | 关键行动者，其领导的[[Palantir Technologies\|帕兰提尔]]在传统大厂退出后坚决承接防务 AI 研发并捍卫国家安全。 |
 > | [[Mariana Mazzucato]] | 人物 | 理论参照，其关于国家在底层突破中引领作用的洞见揭露了硅谷[[Historical Amnesia\|历史健忘症]]。 |
 > | [[DARPA]] | 事实 | 历史参照，奠定现代计算与互联网基础的国防机构，构成梅文项目的制度源流。 |

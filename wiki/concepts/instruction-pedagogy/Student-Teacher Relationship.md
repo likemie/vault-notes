@@ -50,6 +50,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Pure Evaluation]]"
   - "[[Dependent Variable]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Positivism]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-06'
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 > [!def] Student-Teacher Relationship
@@ -227,7 +228,7 @@ updated: 2026-11-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] — 梳理[[John Hattie|哈蒂]][[Meta-analysis|元分析]]模型中高增益要素，确立师生关系（$d=0.72$）作为高回报干预的基准定位。
-> - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 比较儒家与欧美学习模型，通过严密的[[Cluster Analysis|聚类分析]]实证确立师生关系在东亚学习传统中的本体性地位（占求知维度 11%）。
+> - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 比较儒家与欧[[Philosophical Aesthetics|美学]]习模型，通过严密的[[Cluster Analysis|聚类分析]]实证确立师生关系在东亚学习传统中的本体性地位（占求知维度 11%）。
 > - [[Argument_Lekhal_2015_Paideia\|Lekhal et al. (2015)]] — 基于挪威 4,128 名中小学生调查，分析师生关系感知在男女生之间的微弱均差（$d=-0.05$）及多信息源回归中的表现。
 > - [[Argument_Håkansson_2015_TT\|Håkansson (2015a)]] — 综合 43 项国际与本土综述，论证[[Structured Teaching|结构化教学]]必须依靠支持性师生互动与[[Classroom Management|课堂管理]]实现有机平衡。
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 揭示中国重点大学中第一代大学生因文化[[Habitus|惯习]]隔阂回避深层师生交流的社会再生产机制。

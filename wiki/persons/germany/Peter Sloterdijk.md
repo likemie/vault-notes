@@ -22,6 +22,7 @@ tags:
   - critical-theory/surveillance
   - region/germany
 related_concepts:
+  - "[[Philosophical Aesthetics]]"
   - "[[Paradigm]]"
   - "[[Bildung]]"
   - "[[Determinism]]"
@@ -42,13 +43,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-18
-updated: 2026-10-22
+updated: 2026-11-14
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 德国当代哲学家、文化理论家、散文家，卡尔斯鲁厄设计学院哲学与美学教授及前校长。
+> - **身份位置** 德国当代哲学家、文化理论家、散文家，卡尔斯鲁厄设计学院哲学与[[Philosophical Aesthetics|美学]]教授及前校长。
 > - **核心角色** 二十世纪末至二十一世纪欧陆哲学与文化批评最具辨识度的思想家之一，开创微观与宏观共存的“球体空间学”（Spherology）以及反思人类生存修行的“人类技术学”（Anthropotechnics）。
 > - **代表贡献** 提出《犬儒理性批判》（*Kritik der zynischen Vernunft*）；在《后上帝时代》（*Nach Gott*）中解构神学全知穿透演化为西方世俗现代性**恒常监视（Dauerbeobachtung）** 与**强迫自我省察（Zwang zur Selbstbeobachtung）** 的权力谱系；在《你必须改变你的生活》中论述作为苦修与练习系统（Übungssysteme）的自我形塑。
 

@@ -60,6 +60,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Geopolitical Subject]]"
   - "[[Outward-Oriented Internationalization]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Variable]]"
   - "[[Public Diplomacy]]"
   - "[[Study Abroad]]"
@@ -104,7 +105,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -245,7 +246,7 @@ updated: 2026-11-11
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 揭示古典与后殖民地缘政治中西方中心主义[[Epistemology|认识论]]霸权，解构将全球南方框定为依附边缘的话语偏见。
 
 > [!warning] 适用局限
-> 地缘政治分析视角高度适宜考察宏观国际战略博弈、跨国科技竞争、教育安全化政策以及国家[[Outward-Oriented Internationalization|外向型国际化]]布局；在解释微观层面的高校日常教学法变革、纯粹基础学科的内部逻辑演进以及去政治化的个体审美学习体验时，存在过度泛政治化与解释过度的理论风险。
+> 地缘政治分析视角高度适宜考察宏观国际战略博弈、跨国科技竞争、教育安全化政策以及国家[[Outward-Oriented Internationalization|外向型国际化]]布局；在解释微观层面的高校日常教学法变革、纯粹基础学科的内部逻辑演进以及去政治化的个体审[[Philosophical Aesthetics|美学]]习体验时，存在过度泛政治化与解释过度的理论风险。
 
 ---
 

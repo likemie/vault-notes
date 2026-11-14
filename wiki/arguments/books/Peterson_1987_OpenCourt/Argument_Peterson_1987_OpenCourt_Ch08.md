@@ -36,6 +36,7 @@ related_concepts:
   - "[[Creativity, Action, Service]]"
   - "[[Student Motivation]]"
   - "[[Experiential Learning]]"
+  - "[[Philosophical Aesthetics]]"
 related_persons:
   - "[[Michael S. Brown]]"
   - "[[Desmond Hoare]]"
@@ -57,7 +58,7 @@ sources:
   - "[[books/Peterson_1987_OpenCourt/Peterson_1987_OpenCourt|Peterson_1987_OpenCourt]]"
 status: draft
 created: 2026-10-07
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 > [!question] [[International Education|国际教育]]的价值、教学与供给责任如何共同成立
 > 国际教育指什么，为什么值得追求？应怎样教、向谁提供？应由私人、国家政府还是国际机构承担？三个问题分别涉及价值分析、教育设计与政治供给，只有相互连接才能确定[[International Baccalaureate|国际文凭]]和[[United World Colleges|联合世界书院]]的未来方向。（p. 193）
@@ -391,7 +392,7 @@ IB 的六组学科结构是折中，其国际性需要更多文化与国家的�
 > [!row-contrast] 两种支配担忧受到制度事实反驳
 > | 担忧 | 支持反驳的制度事实 | 推论 |
 > |---|---|---|
-> | 北美学校增长会支配治理 | 1984年约一半 IB 学校在北美，24位理事仅4位来自北美，其中2位是校长；只有三分之一理事席位由校长会议选举 | 学校份额不能直接等同于治理份额 |
+> | 北[[Philosophical Aesthetics\|美学]]校增长会支配治理 | 1984年约一半 IB 学校在北美，24位理事仅4位来自北美，其中2位是校长；只有三分之一理事席位由校长会议选举 | 学校份额不能直接等同于治理份额 |
 > | UWC 或单科证书考生会扭曲完整文凭评分 | 等级不按统计常模分配 | 某类学生的表现不能通过相对排名机制改变其他人的标准 |
 >
 > 两种反驳分别涉及治理构成和评分逻辑，不能把它们简化为规模没有影响的判断。（p. 208）

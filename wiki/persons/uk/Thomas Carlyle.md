@@ -22,6 +22,7 @@ tags:
   - region/uk
 related_concepts:
   - "[[Grandes Ecoles]]"
+  - "[[The Sublime]]"
   - "[[Paradigm]]"
   - "[[Technological Republic]]"
   - "[[Bureaucracy]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-11-14
 ---
 
 ---
@@ -73,7 +74,7 @@ updated: 2026-10-22
 ---
 
 > [!claim] 核心思想
-> 人类历史的本质是伟大人物在世间所成就之事的总和；客观物质环境与大众群体固然构成历史演进的背景燃料，但唯有具备非凡洞察力、崇高品格与钢铁意志的卓越领袖作为不可或缺的引燃闪电，历史进程才得以发生根本性的破局与飞跃。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 197–198)]]
+> 人类历史的本质是伟大人物在世间所成就之事的总和；客观物质环境与大众群体固然构成历史演进的背景燃料，但唯有具备非凡洞察力、[[The Sublime|崇高]]品格与钢铁意志的卓越领袖作为不可或缺的引燃闪电，历史进程才得以发生根本性的破局与飞跃。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 197–198)]]
 
 > [!citation-card] 卡莱尔论伟人作为时代的引燃闪电
 > 伟人始终是他所在时代不可或缺的救世主；他是一道闪电，没有他，燃料将永远不会燃烧。大众的灵魂只是沉睡的燃料，等待着天降神火的触碰。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 197)]]

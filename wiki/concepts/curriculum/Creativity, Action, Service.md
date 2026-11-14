@@ -27,6 +27,7 @@ related_concepts:
   - "[[Extended Essay]]"
   - "[[Extracurricular Activities]]"
   - "[[International Schools]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Concurrency of Learning]]"
   - "[[Epistemology]]"
   - "[[Knowledge Questions]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -114,7 +115,7 @@ updated: 2026-11-11
 > 大西洋学院和美国西部书院继续开展海上及山地救援，哥伦比亚和坦桑尼亚学校发展自然保护，城市学校则更多帮助老人、病人和处境不利者。服务价值不只来自身体危险，也来自学生克服与陌生人交往的心理困难，以及受助者能否获得稳定关系。共同要求因此从固定救援模式转向识别当地真正需要什么。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 168–169, 184–185)]]
 
 > [!tension] 质量保障不能等同于强制计分
-> 学校数量增长使踢球或看电影是否算 CASS 之类边界问题难以靠个人联络解决。1984–1985 年调查只收到 134 所文凭学校中 54 所回应；北美学生自组织传统、发展中国家对家长主义的担忧及部分国家对学生社会服务的限制又使统一评价困难。彼得森主张加强教师指导和文凭档案，而不以文凭资格强迫每名学生参与或把活动纳入分数体系。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 182–184)]]
+> 学校数量增长使踢球或看电影是否算 CASS 之类边界问题难以靠个人联络解决。1984–1985 年调查只收到 134 所文凭学校中 54 所回应；北[[Philosophical Aesthetics|美学]]生自组织传统、发展中国家对家长主义的担忧及部分国家对学生社会服务的限制又使统一评价困难。彼得森主张加强教师指导和文凭档案，而不以文凭资格强迫每名学生参与或把活动纳入分数体系。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 182–184)]]
 
 ---
 

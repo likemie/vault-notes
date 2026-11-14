@@ -34,6 +34,7 @@ related_concepts:
   - "[[Subsidiarity Principle]]"
   - "[[Soft Power]]"
   - "[[State Educational Sovereignty]]"
+  - "[[The Sublime]]"
   - "[[Academic Inbreeding]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Avatar]]"
@@ -104,7 +105,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-09
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -161,7 +162,7 @@ updated: 2026-11-11
 > >     M1 --> D3["解释 PISA 研究高度集中于欧洲 (62.4%)"]
 > > 
 > >     M2 --> S1["ERASMUS / TEMPUS / 终身学习计划"]
-> >     M2 --> S2["将流动性编码为欧洲公民崇高美德"]
+> >     M2 --> S2["将流动性编码为欧洲公民[[The Sublime|崇高]]美德"]
 > >     M2 --> S3["生产就业能力资本并设立外围文化边界"]
 > > 
 > >     M3 --> R1["条约保障主权：欧盟教育实为成员国总和"]

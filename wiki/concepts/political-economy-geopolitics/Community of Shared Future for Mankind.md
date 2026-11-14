@@ -26,6 +26,7 @@ related_concepts:
   - "[[Policy Framing]]"
   - "[[South-South Cooperation]]"
   - "[[People-to-People Connectivity]]"
+  - "[[The Sublime]]"
   - "[[Epistemology]]"
   - "[[Cosmopolitanism]]"
   - "[[China Solution]]"
@@ -40,6 +41,7 @@ related_concepts:
   - "[[Grand Theory]]"
   - "[[Hard Power]]"
   - "[[Soft Power]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Internationalization of Vocational Education]]"
 related_theories:
   - "[[Hegemony]]"
@@ -53,6 +55,7 @@ related_facts:
   - "[[Achieve]]"
   - "[[Chinese-ASEAN Modern Craftsmanship Institute]]"
   - "[[ASEAN]]"
+  - "[[Luban Workshop]]"
   - "[[Forum on China-Africa Cooperation]]"
   - "[[Belt and Road Education Action Plan]]"
 related_arguments:
@@ -62,13 +65,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
 
 > [!def] Community of Shared Future for Mankind
-> **人类命运共同体（Community of Shared Future for Mankind，早期译为 Community of Shared Destiny）** 是当代中国外交哲学、对外大战略与全球治理愿景的顶层叙事核心与全局性[[Social Imaginary|社会想象]]（Social Imaginary）。由中国最高决策层系统阐发并写入宪法序言与执政纲领，旨在倡导建立一个持久和平、普遍安全、共同繁荣、开放包容、清洁美丽的世界。在[[Discourse Analysis|话语分析]]与政策社会学视阈下，该概念构成了中国应对西方[[Washington Consensus|华盛顿共识]]失灵与全球治理赤字的替代性意识形态方案；在“[[Belt and Road Initiative|一带一路]]”倡议及[[Transnational Education|跨国教育]]扩张中，它充当了核心的[[Policy Framing|激励性框架]]（Motivational Framing），通过强化[[South-South Cooperation|南南合作]]、文明互鉴与[[People-to-People Connectivity|民心相通]]等包容性修辞，赋予国家主导的对外战略行动以崇高的道德号召力与多边合法性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 682, 684, 688–691)]]
+> **人类命运共同体（Community of Shared Future for Mankind，早期译为 Community of Shared Destiny）** 是当代中国外交哲学、对外大战略与全球治理愿景的顶层叙事核心与全局性[[Social Imaginary|社会想象]]（Social Imaginary）。由中国最高决策层系统阐发并写入宪法序言与执政纲领，旨在倡导建立一个持久和平、普遍安全、共同繁荣、开放包容、清洁美丽的世界。在[[Discourse Analysis|话语分析]]与政策社会学视阈下，该概念构成了中国应对西方[[Washington Consensus|华盛顿共识]]失灵与全球治理赤字的替代性意识形态方案；在“[[Belt and Road Initiative|一带一路]]”倡议及[[Transnational Education|跨国教育]]扩张中，它充当了核心的[[Policy Framing|激励性框架]]（Motivational Framing），通过强化[[South-South Cooperation|南南合作]]、文明互鉴与[[People-to-People Connectivity|民心相通]]等包容性修辞，赋予国家主导的对外战略行动以[[The Sublime|崇高]]的道德号召力与多边合法性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 682, 684, 688–691)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种将全人类生存繁衍、经济互惠与文明共存视为高度相互依存有机整体的全球治理[[Epistemology|认识论]]构想。
@@ -179,9 +182,9 @@ updated: 2026-11-11
 > | [[Belt and Road Initiative]] | 事实 | 人类命运共同体理念对外展开实践推进与物质化落地的核心国家大战略依托。 |
 > | [[South-South Cooperation]] | 概念 | 人类命运共同体倡导的主权平等与发展中国家包容性互助的核心话语与实践模式。 |
 > | [[People-to-People Connectivity]] | 概念 | 共同体建设在社会文化维度推进民意基础与跨国理解的关键支柱。 |
-> | [[Knowledge Diplomacy]] | 概念 | 借助跨国高等教育、科研合作与鲁班工坊输出命运共同体理念的知识外交载体。 |
+> | [[Knowledge Diplomacy]] | 概念 | 借助跨国高等教育、科研合作与[[Luban Workshop\|鲁班工坊]]输出命运共同体理念的知识外交载体。 |
 > | [[Washington Consensus]] | 概念 | 与人类命运共同体形成鲜明对照的西方新自由主义全球治理传统范式。 |
-> | [[Hegemony]] | 理论 | 批判学者用以解构跨国倡议背后的地缘战略利益与话语霸权建构的理论透镜。 |
+> | [[Hegemony]] | 理论 | 批判学者用以解构跨国倡议背后的地缘战略利益与话语霸权建构的[[Theoretical Standpoint\|理论透镜]]。 |
 > | [[Discourse Analysis]] | 方法 | 解构政策文本中道德激励框架与地缘经济工具主义张力的质性分析方法。 |
 
 ---

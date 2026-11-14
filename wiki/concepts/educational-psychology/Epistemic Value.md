@@ -17,6 +17,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemic Aims]]"
   - "[[Presence]]"
+  - "[[The Sublime]]"
   - "[[Epistemic Agency]]"
   - "[[Student Engagement]]"
   - "[[Disciplina and Doctrina]]"
@@ -35,7 +36,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -98,7 +99,7 @@ updated: 2026-11-03
 > **价值规范的学科文化与领域依附维度** 考察学术共同体的价值取向如何形塑具体学科的方法偏好与评价准则。
 
 > [!claim] Chinn, C. A. et al.
-> **共同体价值形塑学科规范** 认识论价值不仅存在于个体心智中，更体现为特定学科共同体的文化规范。不同的学科对何种认识产出具有高价值持有不同判据：某些领域珍视高度抽象的数学模型，另一些领域则赋予精湛的实验操作规程与野外标本鉴别以崇高价值。理解学科特定的认识论价值，是学习者融入学科探究文化与形成专业[[Epistemic Agency\|认识主体性]]的核心前提。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 146)]]
+> **共同体价值形塑学科规范** 认识论价值不仅存在于个体心智中，更体现为特定学科共同体的文化规范。不同的学科对何种认识产出具有高价值持有不同判据：某些领域珍视高度抽象的数学模型，另一些领域则赋予精湛的实验操作规程与野外标本鉴别以[[The Sublime|崇高]]价值。理解学科特定的认识论价值，是学习者融入学科探究文化与形成专业[[Epistemic Agency\|认识主体性]]的核心前提。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 146)]]
 
 ---
 

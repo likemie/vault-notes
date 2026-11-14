@@ -27,6 +27,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Academic Freedom]]"
   - "[[Early-Career Researchers]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Big Science]]"
   - "[[Paradigm]]"
   - "[[Matthew Effect in Academia]]"
@@ -55,7 +56,7 @@ sources:
 part_of:
 status: active
 created: 2026-11-05
-updated: 2026-11-11
+updated: 2026-11-14
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Heinze_2009_RP"
@@ -75,7 +76,7 @@ journal: "Research Policy"
 > 科研机构微观组织特征（团队规模、领导风格、技能配置与空间结构）以及宏观制度环境（资助机制、同行评议规范与职业流动），如何系统性塑造科研团队产出突破性[[Scientific Creativity|科学创造力]]的能力？
 
 > [!claim] 核心主张
-> 重大科学突破高度依赖 2–8 人的小型科研团队、组织内部的[[Complementary Variety|互补多样性]]支持、稳定的弹性基线资助以及平权促进型学术领导；过度依赖短期竞争性同行评议资助、资助机构跟风立项与突破后团队盲目扩张，构成了扼杀早期高风险科学创造力的关键制度障碍。
+> 重大科学突破高度依赖 2–8 人的小型科研团队、组织内部的[[Complementary Variety|互补多样性]]支持、稳定的弹性基线资助以及平权促进型学术领导；过度依赖短期竞争性同行评议资助、资助机构跟风立项与突破后团队盲目扩张，构成了扼杀早期高风险科学[[Creativity|创造力]]的关键制度障碍。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 欧美纳米技术与人类遗传学领域 20 项顶尖高[[Creativity|创造性]]科研突破及其所在课题组。
@@ -136,7 +137,7 @@ journal: "Research Policy"
 > | **高度创造力学者总计** | 22 | 29 | 14 | 11 | 76 |
 > | **数据库入库学者总规模** | 224 | 204 | 150 | 111 | 689 |
 >
-> **图表解读** 数据库收录 689 位欧美学者，经由专家提名与国际大奖多重视角交叉甄选出 76 位高创造力学者，构成 20 项深度案例的抽样基础。
+> **图表解读** 数据库收录 689 位欧[[Philosophical Aesthetics|美学]]者，经由专家提名与国际大奖多重视角交叉甄选出 76 位高创造力学者，构成 20 项深度案例的抽样基础。
 
 ---
 

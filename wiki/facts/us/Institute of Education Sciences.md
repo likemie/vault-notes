@@ -25,6 +25,7 @@ tags:
   - theme/research-policy-nexus
 related_concepts:
   - "[[Academic Achievement]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Lifelong Learning]]"
   - "[[Evidence Standards]]"
   - "[[Internal Validity]]"
@@ -50,6 +51,7 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Statistical Normalisation]]"
   - "[[Determinism]]"
+  - "[[Curriculum Alignment]]"
   - "[[Teacher Collaboration]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Based Education]]"
@@ -98,7 +100,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-11-02
+updated: 2026-11-14
 ---
 
 ---
@@ -108,7 +110,7 @@ updated: 2026-11-02
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 2002 年依据美国联邦立法创设，取代原有的[[Office of Educational Research and Improvement|教育研究与改进办公室]]（Office of Educational Research and Improvement, OERI），旨在从制度层面确立教育科学研究的专业独立性，摆脱党派政治与意识形态对教育科研立项与数据发布的干预。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 206)]]
-> - **总部地点与辐射范围** 总部位于美国华盛顿特区，资助与业务辐射覆盖全美学前教育、初等教育、中等教育、高等教育以及成人[[Lifelong Learning\|终身教育]]的全生命周期教育科学研究。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 209)]]
+> - **总部地点与辐射范围** 总部位于美国华盛顿特区，资助与业务辐射覆盖全[[Philosophical Aesthetics|美学]]前教育、初等教育、中等教育、高等教育以及成人[[Lifelong Learning\|终身教育]]的全生命周期教育科学研究。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 209)]]
 > - **法人属性与经费基础** 属于联邦政府法定科研机构，享有独立联邦财政预算拨款，年度教育科研专属投资预算约为 1.5 亿美元（USD 150 million），是全球资金规模最大的官方教育实证科研出资主体之一。
 > - **核心宗旨与法定职责** 资助高标准因果实证研究、国家教育统计监测、干预方案大规模有效性评估及研究成果实践转化，推动教育系统由直觉信念驱动向循证知识系统转型。
 
@@ -232,7 +234,7 @@ updated: 2026-11-02
 > > 围绕统一课程标准能否切实提升学生[[Academic Achievement|学业成就]]，IES 创始领导层与政策倡导者展开了持久的实证交锋。
 > >
 > > - **标准无效论与教材[[Determinism|决定论]]（质疑立场）** IES 创始院长格罗弗·J·怀特赫斯特（Grover J. Whitehurst, 2009）与[[Brookings Institution|布鲁金斯学会]]研究员汤姆·洛夫利斯（Tom Loveless, 2012）基于全美宏观数据指出，各州以往课程标准的质量评级与该州实际 [[National Assessment of Educational Progress|NAEP]] 统考成绩之间完全不存在统计相关性（相关系数接近于 0）；标准评级被评为“极弱”的州与评为“极强”的州成绩无异。怀特赫斯特力陈政策层过度迷信自上而下的抽象标准，而忽视了真正进入教室的具体课程教材；课程教材的提分潜力和[[Effect Size|效应量]]远大于空泛的标准文本。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 21)]]
-> > - **课程一致性提分论（支持立场）** [[William H. Schmidt|威廉·H·施密特]]与理查德·T·黄（William H. Schmidt & Richard T. Houang, 2012）构建课程一致性模型反驳指出，在控制贫困率和标准切分点后，原先州标准越接近 [[Common Core State Standards|CCSS]] 的州，NAEP 实际成绩越高且提分更快，力证严谨连贯的宏观标准对提升教育质量具备长远牵引力。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 21–22)]]
+> > - **[[Curriculum Alignment|课程一致性]]提分论（支持立场）** [[William H. Schmidt|威廉·H·施密特]]与理查德·T·黄（William H. Schmidt & Richard T. Houang, 2012）构建课程一致性模型反驳指出，在控制贫困率和标准切分点后，原先州标准越接近 [[Common Core State Standards|CCSS]] 的州，NAEP 实际成绩越高且提分更快，力证严谨连贯的宏观标准对提升教育质量具备长远牵引力。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 21–22)]]
 
 > [!citation-card] 施奈德论拆解干预构件与终结混杂药丸袋黑箱
 > 许多教育干预完全就像一袋混杂的药丸：由一大堆构件拼凑而成，其中许多构件从未被清晰识别过，更谈不上被独立评估。IES 正全力推动教育研究者明确界定干预的各项构件，进而分离每一项构件的独立效应与实施成本。（p. 207）

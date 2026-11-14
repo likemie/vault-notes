@@ -21,16 +21,23 @@ tags:
   - theme/comparative-literature
   - theme/linguistics
 related_concepts:
+  - "[[Discourse]]"
+  - "[[Epistemology]]"
+  - "[[Paradigm]]"
+  - "[[Philosophical Aesthetics]]"
+  - "[[The Sublime]]"
+  - "[[Enlightenment]]"
   - "[[Homogeneous, Empty Time]]"
   - "[[Truth-Language]]"
   - "[[Print-Language]]"
-  - "[[Epistemology]]"
+  - "[[Nationalism]]"
 related_theories:
   - "[[Imagined Community]]"
-related_methods:
-  - "[[Historical-Comparative Method]]"
+related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Charles Perrault]]"
+  - "[[René Descartes]]"
   - "[[Erich Auerbach]]"
   - "[[Benedict Anderson]]"
 related_facts: []
@@ -39,18 +46,18 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
 
 > [!claim] 核心定性
-> 17世纪末法国古今之争是欧洲现代历史意识确立与世俗文化自主性奠定的关键分水岭，标志着西方思想界终结了盲目崇拜古典古代的权威垄断，为现代民族白话语言与世俗文学赢得对等合法性确立了认识论基础。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, pp. 70–71)]]
+> 17世纪末法国古今之争是欧洲现代历史意识确立与世俗文化自主性奠定的关键分水岭，标志着西方思想界终结了盲目崇拜古典古代的权威垄断，为现代民族白[[Discourse|话语]]言与世俗文学赢得对等合法性确立了[[Epistemology|认识论]]基础。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, pp. 70–71)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1687年至1715年间，主要发生于法国巴黎的法兰西学术院（Académie française）及巴黎文人沙龙。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, p. 70, n. 3)]]
-> - **核心当事主体** 现代派领袖夏尔·佩罗（Charles Perrault）与封特奈尔（Fontenelle）；古人派领袖布瓦洛（Nicolas Boileau-Despréaux）、拉辛（Jean Racine）与拉封丹（Jean de La Fontaine）。
-> - **深层制度与社会背景** 路易十四法兰西绝对君主制达到全盛，法国在政治、军事、科学与戏剧艺术领域取得巨大成就；现代实验科学与笛卡尔理性主义哲学崛起，冲击了经院哲学对古典文本的盲信。
+> - **核心当事主体** 现代派领袖[[Charles Perrault|夏尔·佩罗]]（Charles Perrault）与封特奈尔（Fontenelle）；古人派领袖布瓦洛（Nicolas Boileau-Despréaux）、拉辛（Jean Racine）与拉封丹（Jean de La Fontaine）。
+> - **深层制度与社会背景** 路易十四法兰西绝对君主制达到全盛，法国在政治、军事、科学与戏剧艺术领域取得巨大成就；现代实验科学与[[René Descartes|笛卡尔]]理性主义哲学崛起，冲击了经院哲学对古典文本的盲信。
 > - **直接导火索 / 触发事件** 1687年1月27日，夏尔·佩罗在法兰西学术院公共集会上朗诵长诗《路易大帝的世纪》（*Siècle de Louis le Grand*），公开宣称在科学、建筑与文学领域当代法国均已超越奥古斯都时期的古罗马与伯里克利时期的古希腊。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, p. 70, n. 3)]]
 
 ---
@@ -59,7 +66,7 @@ updated: 2026-11-13
 > - **1687–1694 — 论战爆发与正面交锋**
 >   - 1687年佩罗朗诵诗作引发布瓦洛当场愤怒退席，开启长达数年的学术公开论战。
 >   - 1688–1697年佩罗连续出版四卷本《古今对比对话录》（*Parallèle des Anciens et des Modernes*），以理性与积累性进步法则系统论证现代人在工程、天文、医学及诗歌表现手法上超越古人。
->   - 1694年布瓦洛发表《对朗吉努斯的批判反思》，为古典范式与普遍美学永恒法则辩护。
+>   - 1694年布瓦洛发表《对朗吉努斯的批判反思》，为古典[[Paradigm|范式]]与普遍[[Philosophical Aesthetics|美学]]永恒法则辩护。
 > - **1694–1701 — 阵营妥协与第一阶段平息**
 >   - 1694年佩罗与布瓦洛在学术院实现公开握手和解，双方承认古人在灵感上的典范地位与现代人在工艺和知识上的累积进步。
 > - **1713–1715 — 荷马之争与现代性确立**
@@ -75,7 +82,7 @@ updated: 2026-11-13
 ---
 
 > [!actor-grid] 权力—立场矩阵
-> - **现代派（Moderns）** 夏尔·佩罗、封特奈尔 — 坚持人类理性与知识具有累积进步性，主张基督教现代文明在道德与科学上比异教古典时代更为崇高纯粹，全力捍卫现代法语文学的独立尊严。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, p. 70)]]
+> - **现代派（Moderns）** 夏尔·佩罗、封特奈尔 — 坚持人类理性与知识具有累积进步性，主张基督教现代文明在道德与科学上比异教古典时代更为[[The Sublime|崇高]]纯粹，全力捍卫现代法语文学的独立尊严。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, p. 70)]]
 > - **古人派（Ancients）** 布瓦洛、拉辛、拉封丹 — 坚持古希腊罗马作家发现了永恒不变的自然美学法则，强调艺术的至高任务在于严格遵循古典规范与理性秩序。
 > - **裁决与庇护者** 法兰西王室与学术院 — 借由推崇当代法国的卓越成就强化太阳王路易十四的王权神圣声望，客观上为现代派提供了坚固的制度依托。
 
@@ -84,7 +91,7 @@ updated: 2026-11-13
 > [!finding-cards] 关键历史后果
 > - **历史纵深感与世俗时间的生成** 彻底打破了中世纪基督教将圣经事件、古典时代与当下现实混为一谈的垂直预表图型，确立了古代与现代具有明确历史距离的新型时间意识。
 > - **白话语言自主性确立** 论战使现代白话从长期仰视古典拉丁文与希腊文的自卑情结中解放出来，赋予法语以及后续各欧陆民族语言独立创造高雅文化的道义底气。
-> - **启蒙进步观念的萌芽** 论战中提出的“矮人站在巨人肩膀上因而看得更远”的知识积累说，成为18世纪启蒙哲学家阐发普遍人类进步史观的理论先声。
+> - **启蒙进步观念的萌芽** 论战中提出的“矮人站在巨人肩膀上因而看得更远”的知识积累说，成为18世纪[[Enlightenment|启蒙哲学]]家阐发普遍人类进步史观的理论先声。
 
 ---
 
@@ -96,4 +103,4 @@ updated: 2026-11-13
 > | [[Truth-Language]] | 概念 | 破除拉丁语与古希腊语作为不可逾越神圣典范的垄断，推动欧洲语言世俗化。 |
 > | [[Print-Language]] | 概念 | 为现代法语及其他民族白话印刷出版物的学术与文学合法性确立提供思想武器。 |
 > | [[Erich Auerbach]] | 人物 | 在《摹仿论》中系统阐发古今之争在西方文学表象与现代历史意识生成中的枢纽地位。 |
-> | [[Benedict Anderson]] | 人物 | 在《想象的共同体》第五章将其作为解剖欧洲民族主义语言平等主义兴起的认识论起点。 |
+> | [[Benedict Anderson]] | 人物 | 在《[[Imagined Community\|想象的共同体]]》第五章将其作为解剖欧洲[[Nationalism\|民族主义]]语言平等主义兴起的认识论起点。 |

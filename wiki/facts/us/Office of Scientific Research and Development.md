@@ -32,6 +32,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Scientific Creativity]]"
   - "[[Application Engineering]]"
+  - "[[The Sublime]]"
   - "[[Knowledge Production]]"
   - "[[Creativity]]"
 related_theories:
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -120,7 +121,7 @@ updated: 2026-11-11
 > - **《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》政策蓝图** 1944 年底罗斯福致信布什要求总结 OSRD 经验，布什于 1945 年提交报告，将 OSRD 的成功经验提炼为由国家长效资助大学基础研究的战后科技宪章。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 35)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
 
 > [!citation-card] 战时国家与科学界的政治契约
-> 1942 年《科利尔》（Collier's）杂志向近三百万读者介绍了万尼瓦尔·布什这位当时鲜为人知的工程师和政府官员，并直称其为“可能赢得这场战争的人”。1944 年 11 月罗斯福总统在信中要求布什总结战时动员经验，筹划如何将那些被战事剧烈打乱研究轨迹的物理学家和工程师导向和平时期的民用科学进步。这一系列历史事实表明，科学家在国家最高决策层享有高度信任与崇高地位。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
+> 1942 年《科利尔》（Collier's）杂志向近三百万读者介绍了万尼瓦尔·布什这位当时鲜为人知的工程师和政府官员，并直称其为“可能赢得这场战争的人”。1944 年 11 月罗斯福总统在信中要求布什总结战时动员经验，筹划如何将那些被战事剧烈打乱研究轨迹的物理学家和工程师导向和平时期的民用科学进步。这一系列历史事实表明，科学家在国家最高决策层享有高度信任与[[The Sublime|崇高]]地位。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
 
 ---
 

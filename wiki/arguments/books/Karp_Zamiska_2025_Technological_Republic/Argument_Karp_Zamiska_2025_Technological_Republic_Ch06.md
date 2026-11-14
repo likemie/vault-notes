@@ -36,6 +36,7 @@ related_concepts:
   - "[[Technological Agnosticism]]"
   - "[[Cult of Optionality]]"
   - "[[Culture of Disbelief]]"
+  - "[[The Sublime]]"
   - "[[Productization of the Mind]]"
   - "[[Establishment Caste]]"
   - "[[Cosmopolitanism]]"
@@ -47,7 +48,6 @@ related_concepts:
   - "[[Professional Interest]]"
   - "[[Hard Belief]]"
   - "[[Historical Amnesia]]"
-  - "[[Refined Mastery]]"
   - "[[Discourse]]"
   - "[[Champ]]"
 related_persons:
@@ -75,12 +75,12 @@ related_arguments: []
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 ---
 
 > [!chapter-question]
-> 为什么掌握前沿算力与万亿资本的硅谷科技精英，会深陷将工程建造与国家使命割裂的“[[Technological Agnosticism|技术不可知论]]”与“[[Cult of Optionality|选择权崇拜]]”？过度世俗化与[[Culture of Disbelief|不信文化]]如何消解了社会的崇高信念？高等教育的[[Productization of the Mind|心智产品化]]与资本极化又如何催生了[[Establishment Caste|统治集团种姓化]]危机？
+> 为什么掌握前沿算力与万亿资本的硅谷科技精英，会深陷将工程建造与国家使命割裂的“[[Technological Agnosticism|技术不可知论]]”与“[[Cult of Optionality|选择权崇拜]]”？过度世俗化与[[Culture of Disbelief|不信文化]]如何消解了社会的[[The Sublime|崇高]]信念？高等教育的[[Productization of the Mind|心智产品化]]与资本极化又如何催生了[[Establishment Caste|统治集团种姓化]]危机？
 
 > [!claim] 核心主旨
 > 当代西方掌握颠覆性代码与数字基础设施的科技精英，深陷一种将工程建造活动与国家战略使命彻底割裂的[[Technological Agnosticism|技术不可知论]]（Technological Agnosticism）与[[Cult of Optionality|选择权崇拜]]（Cult of Optionality）。正如[[Amy Gutmann|艾米·古特曼]]（[[Amy Gutmann]]）所表述的“首要道德效忠不属于任何国家共同体而只属于正义本身”的[[Cosmopolitanism|世界主义]]理念，以及[[Manuel Castells|曼努埃尔·卡斯特尔斯]]（[[Manuel Castells]]）所揭示的“精英是世界主义的，大众是本土的”，技术精英自诩为无国界的超脱者，将“为了建造而建造”奉为最高圭臬，却对国家的存续目的与[[Hard Power|硬实力]]防卫保持沉默与回避。在[[Culture of Disbelief|不信文化]]（Culture of Disbelief）与战后过度世俗化的冲刷下，受教育阶层驱逐了超验信仰与崇高道德追求，将程序包容异化为一无所信；而高等教育体制从文明器皿退化为行政看护者，催生了严重的[[Productization of the Mind|心智产品化]]（Productization of the Mind），导致近半数顶尖学府毕业生涌入金融与咨询业，人文学科断崖式腰斩。面对西海岸极少数科技巨头高达 21.4 万亿美元的空前资本垄断与不可知论冷漠，当代社会面临着[[E. Digby Baltzell|E. 迪格比·巴尔策尔]]（[[E. Digby Baltzell]]）所警示的[[Establishment Caste|统治集团种姓化]]（Establishment Caste）危机；正如匈牙利哲学家[[Ágnes Heller|阿格妮丝·赫勒]]（[[Ágnes Heller]]）所断言，“正义是骨架，[[Buen Vivir|美好生活]]是血肉”，若要走出后现代解构所造成的道德虚无并重塑[[Technological Republic|技术共和国]]，必须克服因恐惧非议而形成的集体沉默，重新唤起公民与精英阶层为崇高信念承担现实代价的智识勇气（pp. 69–82）。
@@ -165,7 +165,7 @@ updated: 2026-11-11
 
 战后对传统信仰的过度清洗，摧毁了社会维系共同体价值的语言。
 
-> [!warrant]- 消除一切规范性价值使社会丧失确立崇高目标的公共空间
+> [!warrant]- 消除一切规范性价值使社会丧失确立[[The Sublime|崇高]]目标的公共空间
 > 战后美国为了促进社会包容而系统性地将宗教与传统信仰从公共生活中剥离。这一举措虽然打破了传统排他性，但其意料之外的严重后果是彻底摧毁了表达国家规范性理念、共同体价值与崇高愿景的公共空间。对一切价值的无条件容忍，最终蜕变为对任何崇高原则的一无所信（pp. 72–73）。
 
 这种偏狭心态在现代思想史上有其深厚渊源。
@@ -219,7 +219,7 @@ updated: 2026-11-11
 > - **职业流向高度同质化（Careerist Herd Behavior）**
 >   哈佛大学 2023 届应届毕业生调查显示，近半数毕业生进入金融与管理咨询行业；而在 1971 年，这一比例仅为 6%（Barton, 2023; Goldin et al., 2023; Martinez, 2023）。这种避险与追求高流动性变现的选择，正是[[Cult of Optionality|选择权崇拜]]的制度化体现（pp. 75–76）。
 > - **人文学科断崖式萎缩与工程专业极化膨胀（Decline of Humanities vs. CS Surge）**
->   全美大学毕业生中获得人文学科学位的比例从 1966 年的 14% 腰斩至 2010 年的 7%（Armitage et al., 2013）；与此同时，计算机与工程专业在读人数在过去十年中实现翻番，从 2014 年的 51,696 人激增至 2023 年的 112,720 人（National Student Clearinghouse, 2024）。[[Technological Republic|技术共和国]]需要的是对历史矛盾与现实世界保持好奇的新型工程师，而非单纯[[Refined Mastery|精通]]代码编写的技能工匠（p. 76）。
+>   全美大学毕业生中获得人文学科学位的比例从 1966 年的 14% 腰斩至 2010 年的 7%（Armitage et al., 2013）；与此同时，计算机与工程专业在读人数在过去十年中实现翻番，从 2014 年的 51,696 人激增至 2023 年的 112,720 人（National Student Clearinghouse, 2024）。[[Technological Republic|技术共和国]]需要的是对历史矛盾与现实世界保持好奇的新型工程师，而非单纯精通代码编写的技能工匠（p. 76）。
 
 ---
 

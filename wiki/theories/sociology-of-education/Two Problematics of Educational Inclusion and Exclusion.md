@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Discourse]]"
   - "[[Positivism]]"
+  - "[[The Sublime]]"
   - "[[Epistemology]]"
   - "[[Educational Meliorism]]"
   - "[[Knowledge Questions]]"
@@ -57,14 +58,14 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
 
 > [!theory-position] 理论定位
 > - **解释对象** 现代教育改革与政策治理中，“包容”（Inclusion）与“排斥”（Exclusion）如何在宏观制度结构与微观知识[[Discourse|话语]]双重层面上交织生成。
-> - **理论问题** 传统自由主义与[[Positivism|实证主义]]政策研究长期将“教育排斥”窄化为入学机会不足、资源短缺或社会代表性失衡，忽视了看似崇高和普惠的包容性改革政策，往往在其内部推理系统与分类规则中内生性地生产出对边缘人群的深层否定与文化排斥。
+> - **理论问题** 传统自由主义与[[Positivism|实证主义]]政策研究长期将“教育排斥”窄化为入学机会不足、资源短缺或社会代表性失衡，忽视了看似[[The Sublime|崇高]]和普惠的包容性改革政策，往往在其内部推理系统与分类规则中内生性地生产出对边缘人群的深层否定与文化排斥。
 > - **理论类型** 教育社会学[[Critical Theory|批判理论]]、社会[[Epistemology|认识论]]（Social Epistemology）[[Analytic Framework|分析框架]]。
 > - **知识位置** 由[[Thomas S. Popkewitz|托马斯·S·波普科维茨]]（Thomas S. Popkewitz）与斯韦克·林德布拉德（Sverker Lindblad）于 2000 年在《教育研究评论》（*Review of Educational Research*）中提出，由[[Noah Sobe|诺亚·索比]]（Noah W. Sobe）与梅丽莎·菲舍尔（Melissa G. Fischer）等学者引入空间治理与跨国比较教育学研究中。
 

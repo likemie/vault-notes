@@ -48,10 +48,12 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[Developmentalism]]"
   - "[[European Education Space]]"
+  - "[[The Sublime]]"
   - "[[Study Population and Sample]]"
   - "[[Lifelong Learning]]"
   - "[[Teacher Mobility]]"
   - "[[Multiple Institution Attendance]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Attrition]]"
   - "[[Migrant Education]]"
   - "[[Language Skills]]"
@@ -98,7 +100,7 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: completed
 created: 2026-10-10
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 ---
 
@@ -210,7 +212,7 @@ updated: 2026-11-11
 
 > [!sub-claim] 1. 欧洲一体化将跨国高校学生流动建构为高尚的公民美德与灵活就业资本
 
-在欧洲一体化建设中，跨国空间流动被赋予了崇高的象征意义。[[António Nóvoa|安东尼奥·诺沃亚]]（Nóvoa, 2002）指出，欧洲政策话语借用古典人文旅行与游学传统，将跨国流动塑造为自由开拓与面向未来的时代象征。（pp. 361–363）
+在欧洲一体化建设中，跨国空间流动被赋予了[[The Sublime|崇高]]的象征意义。[[António Nóvoa|安东尼奥·诺沃亚]]（Nóvoa, 2002）指出，欧洲政策话语借用古典人文旅行与游学传统，将跨国流动塑造为自由开拓与面向未来的时代象征。（pp. 361–363）
 
 > [!policy-design] 欧洲一体化进程中[[Student Mobility|学生流动]]的制度设计与身份建构
 > - **政策目标（Policy Goals）** 借由跨国流动塑造超民族的欧洲认同与网络归属感（Schissler & Soysal, 2005; Soysal, 2002），强化高等教育乃至欧洲人本身的欧洲维度，替代传统的同质化民族国家构建模式。（pp. 362–363）
@@ -236,7 +238,7 @@ updated: 2026-11-11
 > - **底层家庭的主动避险选择** 柯博等学者（Kerbow et al., 2003）对芝加哥城市学校的调查表明，大量居住变迁属于同城近距离搬迁；许多贫困与少数族裔家庭中途转校是深思熟虑的选择，旨在逃避原校严重的校园暴力、低下的教学质量与混乱校风，是底层家长谋求孩子人身安全的理性抗争。
 > - **高等教育与[[Teacher Mobility|教师流动]]的反差镜像** 在美国高等教育中，学生跨校流动被称为[[Multiple Institution Attendance|多机构就读]]（Multiple Institution Attendance），常被指责为拉低毕业率的低效损耗（Pusser & Turner, 2004）；只有富裕家庭学生的海外交流才被命名为国际交流而免遭污名。同时，在[[Teacher Mobility|教师流动]]（Teacher Mobility）镜像中，欧洲将教师跨国任教视作一体化理想（Sayer, 2006），而美国基础教育则更关注优秀教师因为待遇和环境逃离贫困薄弱学校的流失危机（Attrition, Elfers et al., 2006; Scafidi et al., 2007）。（pp. 363–364）
 
-> [!contrast-table] 欧美学生流动政策建构的跨大西洋对比
+> [!contrast-table] 欧[[Philosophical Aesthetics|美学]]生流动政策建构的跨大西洋对比
 > | 比较维度 | 欧洲联盟政策话语（EU Discourse） | 美国联邦问责政策话语（US NCLB Discourse） |
 > |---|---|---|
 > | **教育学段与核心主体** | 高等教育阶段本科生与研究生（文化精英自主选择） | 基础教育中小学生（K–12，城市贫困与少数族裔被动应对） |

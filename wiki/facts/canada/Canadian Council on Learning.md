@@ -32,6 +32,7 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Knowledge Mediation]]"
   - "[[Apprenticeship]]"
+  - "[[The Sublime]]"
   - "[[Epistemology]]"
   - "[[Epistemic Governance]]"
   - "[[Heterogeneity]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-11-02
+updated: 2026-11-14
 ---
 
 ---
@@ -106,7 +107,7 @@ updated: 2026-11-02
 > - **结构化[[Systematic Review\|系统综述]]与实践知识库** 在学前早期干预、成人技能再培训及职场[[Apprenticeship|学徒制]]领域完成数十项二阶[[Research Synthesis|证据综合]]，推动实证证据转化为公共政策方案。
 
 > [!citation-card] 使命准则：为了全体加拿大人的终身学习
-> 加拿大终身学习委员会的崇高使命，是促进和支持全面终身学习实证知识的产生与使用，以使全体加拿大人的社会与经济生活更加充实。(Canadian Council on Learning, 2005)
+> 加拿大终身学习委员会的[[The Sublime|崇高]]使命，是促进和支持全面终身学习实证知识的产生与使用，以使全体加拿大人的社会与经济生活更加充实。(Canadian Council on Learning, 2005)
 >
 > *"The Canadian Council on Learning promotes and supports the creation, dissemination and use of knowledge based on research and data on whole-of-life learning, to enrich the social and economic lives of all Canadians."*
 

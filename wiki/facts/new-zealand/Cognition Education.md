@@ -37,6 +37,7 @@ related_concepts:
   - "[[International Schools]]"
   - "[[School Leadership]]"
   - "[[Global Education Reform Movement]]"
+  - "[[The Sublime]]"
   - "[[Transnational Education]]"
   - "[[Implementation Fidelity]]"
   - "[[Class Size]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: stable
 created: "2026-05-23"
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -184,7 +185,7 @@ updated: 2026-11-11
 > > 批判学者依据新西兰慈善服务局（Charities Services）公开财务报表指出，Cognition Group 通过设立非营利 Trust 控股营利 Limited，在 2012 至 2014 年间利用大额关联交易使得商业实体连续多年呈现账面亏损、免缴企业所得税；而 Trust 每年反哺公共教育的实际慈善赠款仅占总营收的 0.9% 左右。这种以慈善之名行避税之实的法人结构，严重背离了公益免税法人的立法初衷。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 71–73)]]
 >
 > > [!axis] 学者兼职、利益冲突与政商旋转门争议
-> > 学者[[John Hattie|约翰·哈蒂]]在新西兰教育界享有崇高声誉，长期担任教育部高级顾问与重大政策委员会主席；然而哈蒂在担任 Cognition Trust 董事会成员的同时，又通过 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 的商业专营直接从 Cognition 营利实体领取巨额版税分红（5 年间超 86.9 万新西兰元）。即使这在法律形式上未被认定为违法违规，但学者公信力与商业利益链条的深度绑定，在学术伦理上存在重大的利益冲突与道义模糊性。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31)]]
+> > 学者[[John Hattie|约翰·哈蒂]]在新西兰教育界享有[[The Sublime|崇高]]声誉，长期担任教育部高级顾问与重大政策委员会主席；然而哈蒂在担任 Cognition Trust 董事会成员的同时，又通过 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 的商业专营直接从 Cognition 营利实体领取巨额版税分红（5 年间超 86.9 万新西兰元）。即使这在法律形式上未被认定为违法违规，但学者公信力与商业利益链条的深度绑定，在学术伦理上存在重大的利益冲突与道义模糊性。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31)]]
 >
 > > [!axis] 公共教育资产私有化与新自由主义资本化
 > > 从《明日学校》推行以来，Cognition 的演进揭示了新自由主义准市场如何将国家原本应当无偿提供的公共教育服务与知识资源逐步打包为昂贵的商品。通过将原本由大学公共资金资助的学术研究转变为受版权严密保护的商业专营品牌，排除了无力支付高昂咨询费的弱势学区，加剧了教育资源分配的市场化不公。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 30–31)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 65)]]

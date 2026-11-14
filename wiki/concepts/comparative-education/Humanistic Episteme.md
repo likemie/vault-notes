@@ -34,6 +34,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Variable]]"
   - "[[Transnational Education]]"
+  - "[[The Sublime]]"
   - "[[Intangible Spiritual Forces]]"
   - "[[Governing by Numbers]]"
   - "[[National Character]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -131,7 +132,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题二｜比较教育学的学术合法性建立在广义科学观的人文系统探究之上
-> **击碎[[Positivism\|实证主义]]对“科学”概念的经验垄断** 针对战[[Postmodernism\|后现代主义]]实证派对历史学派“非科学、主观臆断”的攻讦，人本认识论确立了广义科学的崇高合法性。
+> **击碎[[Positivism\|实证主义]]对“科学”概念的经验垄断** 针对战[[Postmodernism\|后现代主义]]实证派对历史学派“非科学、主观臆断”的攻讦，人本认识论确立了广义科学的[[The Sublime|崇高]]合法性。
 
 > [!claim] [[Andreas Kazamias\|Kazamias, A.]]
 > **广义科学观（Wissenschaft）为人文历史比较确立严谨合法性** 卡扎米亚斯论证指出，将科学等同于自然科学式的统计度量、实验控制与机械预测，是英语语境下实证主义的狭隘偏见。在欧陆思想史上，德语 *Wissenschaft* 与古希腊语 *Episteme* 均指代对人类文化、社会与精神现象的严谨系统性知识探究；萨德勒、[[Isaac Kandel\|坎德尔]]、汉斯与乌利希的历史人文比较研究完全具备科学合法性，为人文主义学术传统在现代量化浪潮中捍卫了崇高的尊严。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]

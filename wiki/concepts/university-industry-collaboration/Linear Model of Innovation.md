@@ -21,6 +21,7 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Doxa]]"
   - "[[Theoretical Knowledge]]"
+  - "[[The Sublime]]"
   - "[[Chain-linked Model]]"
   - "[[Innovation Models Evolution]]"
   - "[[Curiosity-Driven Research]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -79,7 +80,7 @@ updated: 2026-11-03
 > [!citation-card] 线性创新模型的文化偏见与政策管道预设
 > 该模型包含一个[[Doxa|不言自明]]的科学研究（以白大褂科学为象征）对技术开发（以邋遢工程为象征）的主导预设，很快成为工业组织安排创新活动的模板。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 863)]]
 >
-> 战后科学政策建立在深层的文化偏见之上：[[Theoretical Knowledge|理论知识]]被置于崇高地位，而手艺与工程发明则被贬低为次等。这种二元对立使得政策制定者误以为只需资助纯科学，技术应用便会自然喷涌。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
+> 战后科学政策建立在深层的文化偏见之上：[[Theoretical Knowledge|理论知识]]被置于[[The Sublime|崇高]]地位，而手艺与工程发明则被贬低为次等。这种二元对立使得政策制定者误以为只需资助纯科学，技术应用便会自然喷涌。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
 >
 > 将基础研究、应用研究与开发割裂为由不同机构按阶段负责的单向管道，不仅在经验上无法解释当代研发由私人资本主导（企业研发投入超政府与高校总和三倍）的现实，更导致由纳税人出资的科学发现因缺乏本土实体承接而直接外溢给竞争对手。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5, 34–35)]]
 

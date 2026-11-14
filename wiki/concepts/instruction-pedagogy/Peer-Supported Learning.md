@@ -40,6 +40,7 @@ related_concepts:
   - "[[Zero-Sum Competition]]"
   - "[[Nerd]]"
   - "[[Metacognition]]"
+  - "[[The Sublime]]"
   - "[[Homework]]"
   - "[[Academic Achievement]]"
   - "[[Visible Learning]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -108,7 +109,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题一｜学生层面的同伴互助通过认知外显与美德重构，将学业竞争转化为协作共进的正和生态
-> **认知重构与文化美德的协同效应** 给他人讲解是最高阶的[[Metacognition|元认知]]激活方式，而在集体互助文化中求助与施助被赋予了崇高道德价值。
+> **认知重构与文化美德的协同效应** 给他人讲解是最高阶的[[Metacognition|元认知]]激活方式，而在集体互助文化中求助与施助被赋予了[[The Sublime|崇高]]道德价值。
 
 > [!claim] [[Jin Li|Li, J.]]; Chen et al.
 > **东亚“同学”伦理对零和博弈的制度性超越** 跨文化实证研究表明，在东亚学校文化中，同伴互助不仅是认知策略，更是深刻的道德实践。通过课代表制度、一对一结对帮扶（兵教兵）以及小组共同完成[[Homework|作业]]，高成就学生通过向同伴讲解深化学科理解，展现慷慨与社会责任；低成就学生则以[[Humility|谦逊]]态度寻求指导。由于教师的评价部分取决于全班整体进步幅度，学生群体自发形成了尊重榜样、渴望向高成就者看齐的同伴风尚，彻底改写了西方校园中将刻苦学者污名化为“[[Nerd|书呆子]]”（[[Nerd]]）的逆反亚文化。大规模[[Longitudinal Study|纵向研究]]进一步确证，加入互助型同伴群体的学生，其社交技能与[[Academic Achievement|学业成就]]呈现长周期的双向强化。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 200–208)]]

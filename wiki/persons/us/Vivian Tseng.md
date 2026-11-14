@@ -26,6 +26,7 @@ related_concepts:
   - "[[Democratising Evidence]]"
   - "[[Research-Practice Partnership]]"
   - "[[Document]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Metascience]]"
   - "[[Boundary Spanner]]"
   - "[[Knowledge Production]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-30
+updated: 2026-11-14
 ---
 
 ---
@@ -70,7 +71,7 @@ updated: 2026-10-30
 > [!timeline] 生平与职涯
 > - **教育背景** 获得加州大学洛杉矶分校（University of California, Los Angeles, UCLA）学士学位，以及纽约大学（New York University, NYU）心理学博士学位，长期关注移民儿童、少数族裔青少年福祉与系统不平等问题。
 > - **2004–2022** 加盟[[William T. Grant Foundation\|威廉·T·格兰特基金会]]并升任高级副总裁，全面主管基金会研究资助组合，开创全美首个专注于“政策与实践中研究证据如何被利用”的常设资助项目，推动设立跨部门机构挑战资助（Institutional Challenge Grants）；曾任亚裔美国人与太平洋岛民慈善协会（Asian Americans/Pacific Islanders in Philanthropy, AAPIP）董事会主席。
-> - **2017** 推动研制并发布 [[Research-Practice Partnership\|RPP]] 有效性五大维度评估框架（Henrick et al., 2017），为全美学区-大学伙伴关系确立立项与评估基准。
+> - **2017** 推动研制并发布 [[Research-Practice Partnership\|RPP]] 有效性五大维度评估框架（Henrick et al., 2017），为全[[Philosophical Aesthetics|美学]]区-大学伙伴关系确立立项与评估基准。
 > - **2022–至今** 出任美国儿童发展基金会总裁兼首席执行官，系统领导早期儿童教育、社会公正与跨界协作政策研究。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220, 249)]]
 
 ---

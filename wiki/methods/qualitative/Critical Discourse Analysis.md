@@ -38,6 +38,7 @@ related_concepts:
   - "[[Text Generation]]"
   - "[[Geopolitics]]"
   - "[[Explanatory Critique]]"
+  - "[[The Sublime]]"
   - "[[Reflexivity]]"
   - "[[Transnational Education]]"
   - "[[Regimes of Truth]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -125,7 +126,7 @@ updated: 2026-11-11
 > | 资料边界 | 聚焦特定国家倡议（如“[[Belt and Road Initiative\|一带一路]]”）自提出至全面铺开期间颁布的核心涉外教育文件群。 |
 
 > [!proc] 质性分析程序
-> 1. **文本层面框架分析（Text Analysis / Framing）** 提取文本语言表层特征与框架化策略；系统划分[[Policy Framing|诊断性框架]]（确立问题瓶颈）、处方性框架（提供解方措施）与激励性框架（动员崇高价值），揭示政策如何将国家行为塑造为道义共赢事业。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–684)]]
+> 1. **文本层面框架分析（Text Analysis / Framing）** 提取文本语言表层特征与框架化策略；系统划分[[Policy Framing|诊断性框架]]（确立问题瓶颈）、处方性框架（提供解方措施）与激励性框架（动员[[The Sublime|崇高]]价值），揭示政策如何将国家行为塑造为道义共赢事业。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–684)]]
 > 2. **话语实践层面互文性分析（Discursive Practice / Intertextuality）** 分析目标文本与其他宏观战略文本的互文引用与[[Interdiscursivity|互话语性]]网络，厘清政策立项的驱动力（最高政治意志）、推进工具（高教攻关与高职出海）与价值导向（讲好国家故事）。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–687)]]
 > 3. **宏观社会实践层面社会学批判（Social Practice / Explanatory Critique）** 结合历史记忆、发展型国家体制与大国地缘秩序对峙，解释为何特定话语框架能够获得合法性，揭示教育对外开放背后的全球治理替代性追求。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–692)]]
 > 4. **[[Reflexivity|反身性]]审查与多源证据互证** 引入[[Critical Realism|批判实在论]][[Explanatory Critique|解释性批判]]原则，对照物质制度条件与实地执行反馈，排除竞争性解释并防范过度诠释偏误。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]

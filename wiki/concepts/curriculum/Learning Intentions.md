@@ -42,14 +42,13 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Self-control]]"
   - "[[Visible Learning]]"
+  - "[[The Sublime]]"
   - "[[Critical Pedagogy]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Positivism]]"
-  - "[[Document]]"
 related_theories:
   - "[[Behaviorism]]"
   - "[[Phenomenology]]"
-  - "[[Critical Theory]]"
 related_methods: []
 related_instruments: []
 related_persons:
@@ -69,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -215,7 +214,7 @@ updated: 2026-11-03
 > *Students need to know the learning intentions and the success criteria of the tasks... Too often students think that completing the activity or writing neatly is the goal, rather than understanding the underlying concepts and causal relationships.*
 
 > [!citation-card] 约翰逊与詹岑论学习意图沦为白板打卡与形式主义表演
-> 在澳大利亚部分推行了基于《[[Visible Learning|可见的学习]]》的高影响教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）的学区中，教师被迫卷入极其肤浅的[[Performativity|表演性]]技术操作，例如在上课前必须在白板上端正写出当堂课程的课题与学习意图。随着证据本位最佳实践取代了原本存在于教师专业决策中的信任，教师的自主权、对职业的热爱以及同行间的专业共同体发展显著萎缩（Lilley, 2022）。规定式的教学不再是一门关乎伦理与人际关系的崇高事业。学校被重塑为管理森严的特许加盟店，由沦为技术操作工的教师提供一套标准化的教学核查清单。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 29–30)]]
+> 在澳大利亚部分推行了基于《[[Visible Learning|可见的学习]]》的高影响教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）的学区中，教师被迫卷入极其肤浅的[[Performativity|表演性]]技术操作，例如在上课前必须在白板上端正写出当堂课程的课题与学习意图。随着证据本位最佳实践取代了原本存在于教师专业决策中的信任，教师的自主权、对职业的热爱以及同行间的专业共同体发展显著萎缩（Lilley, 2022）。规定式的教学不再是一门关乎伦理与人际关系的[[The Sublime|崇高]]事业。学校被重塑为管理森严的特许加盟店，由沦为技术操作工的教师提供一套标准化的教学核查清单。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 29–30)]]
 >
 > *In Australian districts where High Impact Teaching Strategies (HITS) based on Visible Learning have been implemented, teachers are forced into simplistic performative technical actions such as writing the topic of a class on the board before beginning a lesson. Teacher autonomy, enjoyment of the profession, and collegial professional development decrease (Lilley, 2022) as "evidence based best practices" replace the trust that once existed in their professional decision making. Prescriptive teaching ceases to be an ethical, relational profession. Schools are recast as tightly managed franchises, staffed by teacher technicians, delivering a checklist of best practice teaching strategies.*
 

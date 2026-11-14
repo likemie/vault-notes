@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Research Utilization]]"
   - "[[Evidence-Based Education]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[School Leadership]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Paradigm]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-07
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -74,7 +75,7 @@ updated: 2026-11-11
 ---
 
 > [!timeline] 生平与职涯
-> - **2010s** 在特拉华大学创立教育研究使用中心（CRUE），获得美国[[Institute of Education Sciences|教育科学研究院]]（IES）等重大资助，针对全美学区与学校展开长期追踪。
+> - **2010s** 在特拉华大学创立教育研究使用中心（CRUE），获得美国[[Institute of Education Sciences|教育科学研究院]]（IES）等重大资助，针对全[[Philosophical Aesthetics|美学]]区与学校展开长期追踪。
 > - **2018** 在《教育研究者》（*Educational Researcher*）发表标志性专文，系统构建教育研究与实践连接的全新概念框架，正式提出深层使用范畴。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 3–4)]]
 > - **2022** 发布 CRUE 多案例实证研究成果，详尽绘制全美典型深层使用学校在领导力、能力建设与证据中介上的组织支持图谱。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 4)]]
 > - **2024** 在《教育科学》（*Education Sciences*）发表专文，系统揭示校长在学校证据利用中的专业胜任力、角色定位与制度贡献。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 10–11)]]

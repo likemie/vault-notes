@@ -30,6 +30,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Epistemology]]"
   - "[[Mentorship]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Engineering Mindset]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Emergence]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -114,7 +115,7 @@ updated: 2026-11-11
 ---
 
 > [!influence-path] 影响路径
-> - **视觉艺术与美学范式路径** 彻底终结了文艺复兴以来西方传统透视画法与画架控制，开创行动绘画与抽象表现主义全景构图，深刻重塑二战后全球现代艺术格局。
+> - **视觉艺术与[[Philosophical Aesthetics|美学]]范式路径** 彻底终结了文艺复兴以来西方传统透视画法与画架控制，开创行动绘画与抽象表现主义全景构图，深刻重塑二战后全球现代艺术格局。
 > - **科学学与创造力计量路径** 成为大数据科学学验证艺术界爆发期（[[Hot Streak]]）与爆发期模型的首要经验基准案例；基于长周期拍卖价格大数据的实证分析证实，波洛克在 1947 至 1950 年的 3.5 年爆发期内密集产出毕生最高价值代表作，随后重归基线，为人类创造力暂态激发的动力学规律提供了跨界关键证据。[[Argument_Liu_2018_Nature|(Liu et al., 2018, p. 396)]]
 > - **企业组织文化与技术创新路径** 作为反抗平庸合群（Likability）与推崇创造性摩擦的经典案例被引入现代技术创业与[[Engineering Mindset|工程思维]]反思，指导突破性组织容纳高摩擦异端人才。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 156–157)]]
 

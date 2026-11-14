@@ -25,6 +25,7 @@ related_concepts:
   - "[[Intelligent Tutoring Systems]]"
   - "[[Evaluation Research]]"
   - "[[Academic Achievement]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-16
+updated: 2026-11-14
 ---
 
 ---
@@ -87,7 +88,7 @@ updated: 2026-10-16
 ---
 
 > [!warning] 跨中心分歧与典型案例
-> CASEL 专注于 [[Social-Emotional Learning\|SEL]] 领域的垂直深耕，其认证方案在全美学区选购情绪管理与霸凌预防课程时具有极高号召力：
+> CASEL 专注于 [[Social-Emotional Learning\|SEL]] 领域的垂直深耕，其认证方案在全[[Philosophical Aesthetics|美学]]区选购情绪管理与霸凌预防课程时具有极高号召力：
 > - 与 [[What Works Clearinghouse\|WWC]] 相比，CASEL 更强调**教学法设计与教师培训可获得性**，而 WWC 则更聚焦于微观统计偏差与数据流失率，体现了专业学科中介与通用因果清算中心的侧重点差异([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 6–8]])。
 
 ---

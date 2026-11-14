@@ -22,6 +22,7 @@ related_concepts:
   - "[[Boarding Schools]]"
   - "[[Bureaucracy]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[The Sublime]]"
   - "[[Open-Mindedness]]"
   - "[[Paradigm]]"
 related_theories: []
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -70,7 +71,7 @@ updated: 2026-11-03
 > |---|---|---|---|
 > | **物理与空间边界** | 存在高墙、门禁或严格行政边界的物理/制度性封闭空间 | 物理空间通常开放，但要求成员投入无限的时间与心理忠诚 | 物理与制度边界开放，工作与私人生活[[Champ\|场域]]明确分立 |
 > | **权威控制范围** | 涵盖睡眠、就餐、工作、娱乐与交往的全部日常生活 | 垄断成员的情感归属、价值观与精神承诺（如宗派团体） | 仅在契约约定的特定工作时间与职责范围内行使权威 |
-> | **对异质摩擦的态度** | 通过严格的一体化日程与语言[[Disciplina and Doctrina\|规训]]消除人际碰撞摩擦 | 借助排他性的道德崇高感排斥外部异质观念 | 容纳多元背景成员，在市场或社会互动中直接面对观念冲突 |
+> | **对异质摩擦的态度** | 通过严格的一体化日程与语言[[Disciplina and Doctrina\|规训]]消除人际碰撞摩擦 | 借助排他性的道德[[The Sublime\|崇高]]感排斥外部异质观念 | 容纳多元背景成员，在市场或社会互动中直接面对观念冲突 |
 
 ---
 

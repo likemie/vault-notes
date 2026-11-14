@@ -22,9 +22,9 @@ tags:
   - theme/introspection
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Mind and Its Wonders]]"
   - "[[Culture of Disbelief]]"
   - "[[Epistemology]]"
+  - "[[The Sublime]]"
   - "[[Theoretical Perspective]]"
   - "[[Self-control]]"
   - "[[Critical Thinking Disposition]]"
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -67,7 +67,7 @@ updated: 2026-11-11
 > [!citation-card] 对人类心灵的审视与向内探索的能力
 > 西格蒙德·弗洛伊德，这位精神分析学家对人类心灵的审问与探求，彻底改变了我们调查与探索自身心理机制的意愿与能力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 167)]]
 >
-> *Sigmund Freud, the psychoanalyst whose interrogations of the [[Mind and Its Wonders|human mind]] transformed our willingness and ability to investigate our own psychology.*
+> *Sigmund Freud, the psychoanalyst whose interrogations of the human mind transformed our willingness and ability to investigate our own psychology.*
 
 ---
 
@@ -101,7 +101,7 @@ updated: 2026-11-11
 ---
 
 > [!claim] 核心思想
-> 西格蒙德·弗洛伊德（Sigmund Freud）主张，人类的显意识理性只是冰山一角，个体行为、社会文化与价值系统深层受制于被压抑的无意识本能冲动。这一思想在[[Epistemology|认识论]]上赋予人类前所未有的向内穿透力（Interrogation of the Mind），但其将宗教信仰与超验崇高道德还原为心理病理防御的[[Theoretical Perspective|理论取向]]，也为现代世俗精英阶层排斥严肃信仰的怀疑主义铺平了道路。
+> 西格蒙德·弗洛伊德（Sigmund Freud）主张，人类的显意识理性只是冰山一角，个体行为、社会文化与价值系统深层受制于被压抑的无意识本能冲动。这一思想在[[Epistemology|认识论]]上赋予人类前所未有的向内穿透力（Interrogation of the Mind），但其将宗教信仰与超验[[The Sublime|崇高]]道德还原为心理病理防御的[[Theoretical Perspective|理论取向]]，也为现代世俗精英阶层排斥严肃信仰的怀疑主义铺平了道路。
 
 > [!citation-card] 文明秩序与权威内化
 > 文明社会的法律、规范与自我调节意识，建立在主体对外部规则权威的心理内化之上；若外部权威载体撤退，个体自律与秩序感便难以自发生成。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 64–66)]]

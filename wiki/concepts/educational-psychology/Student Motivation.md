@@ -29,6 +29,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Achievement Goal Orientations]]"
   - "[[Epistemology]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Interaction Effect]]"
   - "[[School Norm Adaptation]]"
   - "[[Surface and Deep Learning]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -130,7 +131,7 @@ updated: 2026-11-03
 > **文化建构与[[Epistemology|认识论]]反思维度** 检视西方心理学将兴趣驱动视为最高级内在动机、将义务责任划归外在操纵的二元预设，揭示东亚文化中道德自主性的深层机制。
 
 > [!claim] [[Argument_Li_2012_Cambridge|Li (2012)]]
-> **诚心驱动具有高度自律自主性** [[Jin Li|李瑾]]对中美学习信念的比较研究确证，东亚传统将学习视为全人道德陶冶与品格完善的核心途径。在这种文化图式下，学生的驱动力源于“人应当通过求知实现自我完善”的深刻伦理认同。即使面对缺乏趣味的内容，学生依靠诚心与意志保持专注，这种自律展现出高度自主的内化行动，体现出道德修养信念所蕴含的深层主体能动性。强行将非兴趣驱动的用功归类为受制于外界压力的外在动机，忽视了文化信念对动机内化的决定性作用。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 120–142, 3473)]]
+> **诚心驱动具有高度自律自主性** [[Jin Li|李瑾]]对中[[Philosophical Aesthetics|美学]]习信念的比较研究确证，东亚传统将学习视为全人道德陶冶与品格完善的核心途径。在这种文化图式下，学生的驱动力源于“人应当通过求知实现自我完善”的深刻伦理认同。即使面对缺乏趣味的内容，学生依靠诚心与意志保持专注，这种自律展现出高度自主的内化行动，体现出道德修养信念所蕴含的深层主体能动性。强行将非兴趣驱动的用功归类为受制于外界压力的外在动机，忽视了文化信念对动机内化的决定性作用。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 120–142, 3473)]]
 
 ---
 

@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Literature Search]]"
   - "[[Document]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-11-02
+updated: 2026-11-14
 ---
 
 ---
@@ -91,7 +92,7 @@ updated: 2026-11-02
 
 > [!finding-cards] 核心业务矩阵与代表性产出
 > - **[[What Works Clearinghouse|有效干预清算中心]]（WWC）创设** 2002 年 8 月投入 1850 万美元设立 WWC，委托独立评估机构梳理全美教育干预的因果证据，制定初版[[Study Design and Implementation Assessment Device|研究设计与实施评估规程]]（Study DIAD），开启全美官方证据清算新纪元。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 34–36)]]
-> - **国家教育统计与 [[National Assessment of Educational Progress|NAEP]] 测评** 长期维持对全美学区、高校与成人教育的数据追踪，主导发布被誉为“国家成绩单”的国家教育进展评估（National Assessment of Educational Progress, NAEP）。
+> - **国家教育统计与 [[National Assessment of Educational Progress|NAEP]] 测评** 长期维持对全[[Philosophical Aesthetics|美学]]区、高校与成人教育的数据追踪，主导发布被誉为“国家成绩单”的国家教育进展评估（National Assessment of Educational Progress, NAEP）。
 > - **[[Education Resources Information Center|教育资源信息中心]]（ERIC）** 建立并维持全球最大规模的开放获取教育文献题录与全文数据库体系，奠定教育知识传播的数字化基础设施。
 > - **国家研发中心网络** 在全美重点大学资助设立多个国家级教育研究中心（如阅读、数学、学生学习与学校组织等领域）。
 

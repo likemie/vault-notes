@@ -21,6 +21,7 @@ tags:
   - country/greece
 related_concepts:
   - "[[Humanistic Episteme]]"
+  - "[[The Sublime]]"
   - "[[Scientific Paradigm]]"
   - "[[Bildung]]"
   - "[[Culture Générale]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -71,7 +72,7 @@ updated: 2026-11-11
 > [!concept-lens] 概念透镜
 > - **城邦公共性透镜** 揭示个体教化始终与城邦政治命运紧密捆绑，教化的最高目的在于培育对城邦正义与公共善（*to kalon*）的担当意识，有别于私性利益的最大化。
 > - **整全人本透镜（Anthropocentric Lens）** 帮助比较教育学者跳出对考试大纲、班级编制与学制年限的微观白描，将比较视线拉升至人类文明危机与对人（*Anthropos*）之神圣尊严的终极关怀。
-> - **文明反思与祛魅透镜** 透视古典教化崇高神话在 20 世纪极权主义浩劫中的历史溃败，审视学科从浪漫主义古典情怀向现代实证[[Scientific Paradigm\|科学范式]]转型的制度必然性。
+> - **文明反思与祛魅透镜** 透视古典教化[[The Sublime|崇高]]神话在 20 世纪极权主义浩劫中的历史溃败，审视学科从浪漫主义古典情怀向现代实证[[Scientific Paradigm\|科学范式]]转型的制度必然性。
 
 > [!citation-card] 卡扎米亚斯与[[Robert Ulich\|乌利希]]论广义古希腊教化超越微观学校教育
 > 比较教育学科奠基大师们不仅从狭隘的学校教育（schooling）视域审视教育，更从广义的文化教化（paideia/culture）层面理解教育；他们将比较教育视为一门人文主义知识体系（humanistic episteme），其根本关切应当始终锁定在人（anthropos）身上。它充盈着人文主义哲学情怀，深切关照人类所面临的宏大政治、社会与伦理危机。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
@@ -135,7 +136,7 @@ updated: 2026-11-11
 > **灵魂转向作为教化的最高本体** 柏拉图在《理想国》第七卷中指出，教化是让整个灵魂伴随着视线发生根本性的转向（*periagoge*），从变动不居的感官生灭之物转向对真实存在与至善之光（*to agathon*）的智性观照，有别于像某些智者所宣称的那样将知识硬塞进空无一物的灵魂。唯有经历这种深层心智洗礼的哲人，才具备为城邦执政的公义品格。
 
 > [!claim] Mattheou, D.
-> **希腊古典教化对现代中等教育的奠基** 马修指出，在现代希腊公共教育体系确立之初，古典教化（*Klassiki Paedeia*）被赋予了同西欧大国教化传统同等崇高的地位。它植根于古希腊哲学沉思与审美理想，致力于培养在智力、道德与审美上全面协调发展的个体，以其高洁品格与卓越才能忠诚服务于民族国家复兴与人类文明演进。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 59)]]
+> **希腊古典教化对现代中等教育的奠基** 马修指出，在现代希腊公共教育体系确立之初，古典教化（*Klassiki Paedeia*）被赋予了同西欧大国教化传统同等[[The Sublime|崇高]]的地位。它植根于古希腊哲学沉思与审美理想，致力于培养在智力、道德与审美上全面协调发展的个体，以其高洁品格与卓越才能忠诚服务于民族国家复兴与人类文明演进。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 59)]]
 
 ---
 

@@ -31,6 +31,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Tiered Evidence Grants]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Academic Achievement]]"
   - "[[Evaluator Independence]]"
   - "[[Logic Model]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-11-02
+updated: 2026-11-14
 ---
 
 ---
@@ -78,7 +79,7 @@ updated: 2026-11-02
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2015 年随 ESSA 法案签署设立，2017 财年正式承接前身[[Investing in Innovation Program|创新投资项目]]（Investing in Innovation, i3）并常态化持续运行。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 23–24)]]
 > - **发起方与资助机制** 由美国联邦教育部初等与中等教育办公室主导，采用基于实证成熟度的竞争性分层资助模型，年均资助预算达数亿美元。
-> - **覆盖范围与对象** 面向全美学区、州教育厅、高校、非营利教育机构及公私合作伙伴，重点服务高比例弱势学生、处境不利学区与[[Academic Achievement|学业表现]]倒数 5% 的薄弱学校。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 23–25)]]
+> - **覆盖范围与对象** 面向全[[Philosophical Aesthetics|美学]]区、州教育厅、高校、非营利教育机构及公私合作伙伴，重点服务高比例弱势学生、处境不利学区与[[Academic Achievement|学业表现]]倒数 5% 的薄弱学校。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 23–25)]]
 > - **核心问题导向** 扭转教育改革长期依赖商业营销与行政主观偏好的被动局面，将联邦研发资金直接导向经过严格因果实验验证的教学方案。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 22–24)]]
 
 ---

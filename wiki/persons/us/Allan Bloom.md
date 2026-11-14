@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[General Education]]"
   - "[[Positivism]]"
+  - "[[The Sublime]]"
   - "[[Cultural Relativism]]"
   - "[[Open-Mindedness]]"
   - "[[Grand Theory]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-11-14
 ---
 
 ---
@@ -76,7 +77,7 @@ updated: 2026-10-22
 ---
 
 > [!thought-timeline] 思想发展
-> - **1960–1970年代 — 古典政治哲学经典的翻译与阐发** 致力于恢复[[Plato|柏拉图]]、[[Jean-Jacques Rousseau|卢梭]]等古代与近代经典文本的哲学原貌，批判现代[[Positivism|实证主义]]与[[Behaviorism|行为主义]]对崇高政治德性的矮化。
+> - **1960–1970年代 — 古典政治哲学经典的翻译与阐发** 致力于恢复[[Plato|柏拉图]]、[[Jean-Jacques Rousseau|卢梭]]等古代与近代经典文本的哲学原貌，批判现代[[Positivism|实证主义]]与[[Behaviorism|行为主义]]对[[The Sublime|崇高]]政治德性的矮化。
 >   - **代表著作** 柏拉图《理想国》译注本（1968）。
 >   - **关键概念／方法** 古典政治哲学、文本细读。
 > - **1980–1992 — 大学危机批判与历史目的论解构** 直面美国高等教育在虚无主义与[[Cultural Relativism|文化相对主义]]侵蚀下的精神危机，指出对“[[Open-Mindedness|开放性]]”的盲目崇拜驱逐了共同体价值并导致学生对国家政治遗产的无知与犬儒；同时警惕后冷战意识形态对历史复杂性与大国博弈残酷本质的乌托邦式轻信。

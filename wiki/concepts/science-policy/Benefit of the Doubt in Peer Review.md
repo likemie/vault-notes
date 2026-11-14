@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Falsification]]"
+  - "[[The Sublime]]"
   - "[[Chain of Evidence]]"
   - "[[Paradigm]]"
   - "[[Epistemic Stances]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -59,7 +60,7 @@ updated: 2026-11-03
 > - **边界** 适用于存在解释模糊性或前沿争议的理论手稿与实验报告，不适用于存在直接可[[Falsification|证伪]]数据硬伤的稿件。
 
 > [!citation-card] 单盲与双盲审稿中的积极歧视与严格审视
-> 单盲与双盲审稿的对比揭示了积极歧视的深层原因：具备崇高地位的知名研究者享有充分的疑罪从无特权，而缺乏声望光环的普通学者则在研究设计与方法学等各个层面遭遇超常的严苛审视。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 32)]]
+> 单盲与双盲审稿的对比揭示了积极歧视的深层原因：具备[[The Sublime|崇高]]地位的知名研究者享有充分的疑罪从无特权，而缺乏声望光环的普通学者则在研究设计与方法学等各个层面遭遇超常的严苛审视。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 32)]]
 >
 > *These results suggest positive discrimination as a more likely explanation: authors with perceived status are subject of the benefit of the doubt, whereas those without the status get extra scrutiny on issues from research design to methodology.*
 

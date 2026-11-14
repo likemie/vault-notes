@@ -18,34 +18,44 @@ tags:
   - theme/language-policy
   - political-philosophy
 related_concepts:
-  - "[[Print-Language]]"
+  - "[[Construct]]"
   - "[[Print-Capitalism]]"
+  - "[[Print-Language]]"
+  - "[[The Sublime]]"
+  - "[[Academic Achievement]]"
+  - "[[Avatar]]"
   - "[[Administrative Vernacular]]"
   - "[[Truth-Language]]"
+  - "[[Ontology]]"
   - "[[Official Knowledge]]"
+  - "[[Geopolitics]]"
+  - "[[Cultural Hierarchy]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Benedict Anderson]]"
+  - "[[Pierre Bourdieu]]"
+  - "[[Basil Bernstein]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch03]]"
 confidence: high
 status: active
 created: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
 
 > [!def] Language-of-Power
-> 权力语言（Language-of-Power）是[[Benedict Anderson|本尼迪克特·安德森]]阐述现代民族意识生成机制时的关键构念，指在[[Print-Capitalism|印刷资本主义]]扩张过程中，因与印刷语言偶然亲近而被机械标准化、赋予排他性政治与文化崇高地位的优势语言形态。它打破了各口语方言并立共存的平衡状态，将未能成功获得印刷形态的同族方言贬降为“次级方言”或粗鄙俚语，确立了主导社会流动与国家公职准入的语言等级秩序，并在后续历史演进中演化为现代主权国家规训国民认同与同化边陲少数族裔的马基雅维利式统治技术。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 47–48)]]
+> 权力语言（Language-of-Power）是[[Benedict Anderson|本尼迪克特·安德森]]阐述现代民族意识生成机制时的关键[[Construct|构念]]，指在[[Print-Capitalism|印刷资本主义]]扩张过程中，因与[[Print-Language|印刷语言]]偶然亲近而被机械标准化、赋予排他性政治与文化[[The Sublime|崇高]]地位的优势语言形态。它打破了各口语方言并立共存的平衡状态，将未能成功获得印刷形态的同族方言贬降为“次级方言”或粗鄙俚语，确立了主导社会流动与国家公职准入的语言等级秩序，并在后续历史演进中演化为现代主权国家规训国民认同与同化边陲少数族裔的马基雅维利式统治技术。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 47–48)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向语言内部的阶层化分化与权力赋权机制，特指因机械复制印刷与国家政权结合而垄断公信力的官方合法语言。
-> - **用途** 帮助研究者揭示看似自然演进的标准语言背后的权力筛选机制，解释教育体系中教学语言垄断对少数族裔学业成就与文化身份的隐性压制。
+> - **用途** 帮助研究者揭示看似自然演进的标准语言背后的权力筛选机制，解释教育体系中教学语言垄断对少数族裔[[Academic Achievement|学业成就]]与文[[Avatar|化身]]份的隐性压制。
 > - **边界** 区别于前印刷时代的世俗[[Administrative Vernacular|行政方言]]（后者缺乏普及全民的冲动），亦区别于依赖神学天启的[[Truth-Language|真理语言]]（后者具有神圣不可翻译性）。
 
 > [!citation-card] 安德森论权力语言的生成与方言降格
@@ -55,7 +65,7 @@ updated: 2026-11-11
 
 > [!boundary]- 概念边界
 > - 不等于 [[Administrative Vernacular|行政方言]]：旧行政方言仅是封建官僚为自身办公便利采纳的务实工具，无意将该语言普及至臣民；权力语言依托印刷媒介普及大众，具备重塑大众认同与社会分层的穿透力。
-> - 不等于 [[Truth-Language|真理语言]]：真理语言依靠神圣不可翻译性与本体论崇拜维系跨地域神权统治；权力语言是世俗印刷资本主义市场选择的产物，具有符号任意性与世俗排他性。
+> - 不等于 [[Truth-Language|真理语言]]：真理语言依靠神圣不可翻译性与[[Ontology|本体论]]崇拜维系跨地域神权统治；权力语言是世俗印刷资本主义市场选择的产物，具有符号任意性与世俗排他性。
 > - 不等于 普通地方口语土语：口语土语自发演变且形式多元，缺乏机械标准化的印刷形态；权力语言拥有统一词典、正字法与语法规范，垄断正式教育与司法公文领域。
 
 ---
@@ -73,7 +83,7 @@ updated: 2026-11-11
 > [!feature] 核心要素
 > - **方言亲近性与择一固化（Dialectal Proximity & Crystallization）** 印刷商基于降低成本与扩大读者市场的动机，优先选择靠近权力中心且在地理上具有辐射力的特定方言（如萨克森高地德语、伦敦南部方言、曼谷中部泰语）印制文本，使其凝固为标准语范本。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, p. 47)]]
 > - **未印刷方言的贬降机制（Loss of Caste for Unprinted Cousins）** 未能成功转化为印刷媒介的近亲方言丧失学术与政治尊严，被剥夺正式公文与文学表达资格，退化为主要用于非正式场合的“次级方言”（sub-standard dialects）。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, p. 47)]]
-> - **主权国家的制度垄断与马基雅维利操纵（State Monopolization & Manipulation）** 现代国家通过公立学校教育与考试制度将特定权力语言制度化为[[Official Knowledge|官方知识]]；并在地缘政治博弈中有意识地干预文字转写系统（如泰国压制山地少数族群自立转写文字、凯末尔推行强制罗马化、苏联推行强制西里尔化）。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 47–48)]]
+> - **主权国家的制度垄断与马基雅维利操纵（State Monopolization & Manipulation）** 现代国家通过公立学校教育与考试制度将特定权力语言制度化为[[Official Knowledge|官方知识]]；并在[[Geopolitics|地缘政治]]博弈中有意识地干预文字转写系统（如泰国压制山地少数族群自立转写文字、凯末尔推行强制罗马化、苏联推行强制西里尔化）。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 47–48)]]
 
 > [!logic-map]- 权力语言的生成、等级分化与政治规训拓扑
 > ```mermaid
@@ -96,11 +106,11 @@ updated: 2026-11-11
 
 ---
 
-> [!concept-proposition] 命题二｜权力语言的垄断确立了族群文化等级并被现代国家用作同化少数群体的马基雅维利式工具
+> [!concept-proposition] 命题二｜权力语言的垄断确立了族群[[Cultural Hierarchy|文化等级]]并被现代国家用作同化少数群体的马基雅维利式工具
 > **制度垄断与国家对书写转写系统的政治操纵** 探讨成型的权力语言如何被现代主权国家转化为压制异质文化认同与维系统一统治的行政规训装置。
 
 > [!claim] Anderson, B.
-> **文字转写干预与权力语言的国家垄断** 当权力语言的客观形态一旦确立，便成为可供后发统治者模仿与有意识操纵的形式范式。国家通过制度手段垄断文字合法性：泰国政府允许山地少数民族保留口头语言，却坚决阻止西方传教士为其创制转写拼音系统并出版母语书籍，借此捍卫中部泰语的绝对主导权；土耳其凯末尔政权为了切断更广泛的伊斯兰认同，强行推行拉丁化改革；苏联政府则先后实施反伊斯兰罗马化与大俄罗斯主义西里尔化操纵，将原本共享阿拉伯字母书写体系的突厥语族切割分化。权力语言在此演化为国家自上而下重塑族群边界、规训国民心智的强硬控制技术。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 47–48)]]
+> **文字转写干预与权力语言的国家垄断** 当权力语言的客观形态一旦确立，便成为可供后发统治者模仿与有意识操纵的形式[[Paradigm|范式]]。国家通过制度手段垄断文字合法性：泰国政府允许山地少数民族保留口头语言，却坚决阻止西方传教士为其创制转写拼音系统并出版母语书籍，借此捍卫中部泰语的绝对主导权；土耳其凯末尔政权为了切断更广泛的伊斯兰认同，强行推行拉丁化改革；苏联政府则先后实施反伊斯兰罗马化与大俄罗斯主义西里尔化操纵，将原本共享阿拉伯字母书写体系的突厥语族切割分化。权力语言在此演化为国家自上而下重塑族群边界、规训国民心智的强硬控制技术。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 47–48)]]
 
 ---
 
@@ -115,8 +125,8 @@ updated: 2026-11-11
 > [!dev-timeline] 概念演变
 > - **16–17世纪 — 印刷出版择一固化与标准语确立** 印刷商在西欧确立高地德语、巴黎法语与国王英语的出版垄断，低地德语等未印刷方言沦为次级口语。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, p. 47)]]
 > - **19–20世纪 — 民族国家制度化与文字政治操纵** 现代国家建立统一公立学校网络，将权力语言定为法定教学语言；凯末尔在土耳其推行强制罗马化，苏联推行强制西里尔化，泰国压制山地民族书写系统。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 47–48)]]
-> - **1983年 — 安德森提出权力语言构念** 安德森在《想象的共同体》第3章系统提炼“权力语言”，将其确立为民族意识生成的三大基石机制之一。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 47–48)]]
-> - **当代教育社会学应用** 结合布迪厄合法语言与伯恩斯坦官方知识语码理论，广泛应用于批判主流教育考试对少数族裔语言资本的隐性剥夺。
+> - **1983年 — 安德森提出权力语言构念** 安德森在《[[Imagined Community|想象的共同体]]》第3章系统提炼“权力语言”，将其确立为民族意识生成的三大基石机制之一。[[Argument_Anderson_2016_Verso_Ch03|(Anderson, 2016, pp. 47–48)]]
+> - **当代教育社会学应用** 结合[[Pierre Bourdieu|布迪厄]]合法语言与[[Basil Bernstein|伯恩斯坦]]官方知识语码理论，广泛应用于批判主流教育考试对少数族裔语言资本的隐性剥夺。
 
 ---
 

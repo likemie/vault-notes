@@ -29,6 +29,7 @@ related_concepts:
   - "[[Agile Governance]]"
   - "[[Eroom's Law]]"
   - "[[Innovation Hub]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Congressional Earmarks]]"
   - "[[Valley of Death]]"
   - "[[Paradigm]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-02
+updated: 2026-11-14
 ---
 
 ---
@@ -64,7 +65,7 @@ updated: 2026-11-02
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2022 年 3 月依据联邦预算法案正式设立，背景是应对美国生物医药基础研究投入庞大但向临床转化效率持续放缓的[[Eroom's Law|厄鲁姆定律]]困境。
-> - **总部地点 / 业务辐射** 采取“总分结合”的分布式[[Innovation Hub|创新枢纽]]架构，在马里兰州贝塞斯达、得克萨斯州达拉斯及马萨诸塞州剑桥设立核心研发枢纽，业务辐射全美学术界、初创公司与国家实验室。
+> - **总部地点 / 业务辐射** 采取“总分结合”的分布式[[Innovation Hub|创新枢纽]]架构，在马里兰州贝塞斯达、得克萨斯州达拉斯及马萨诸塞州剑桥设立核心研发枢纽，业务辐射全[[Philosophical Aesthetics|美学]]术界、初创公司与国家实验室。
 > - **法人属性与经费基础** 联邦政府直属研发机构，独立享有[[Congressional Earmarks|国会专项拨款]]（初始拨款 10 亿美元，随后年度预算超 15 亿美元），具备极高资金调配灵活性。
 > - **核心宗旨与法定职责** 跨越基础生命科学向临床转化之间的“[[Valley of Death|死亡之谷]]”，资助传统同行评议难以支持的颠覆性平台技术（如通用癌症靶向递送、神经假体修复与快速抗原响应系统）。
 

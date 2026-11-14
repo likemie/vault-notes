@@ -14,7 +14,7 @@ person_related_color: "#fef3c7"
 born: "1890"
 died: "1974"
 lifespan: "1890–1974"
-updated: 2026-11-11
+updated: 2026-11-14
 tags:
   - person/engineer
   - person/policy-architect
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Big Science]]"
   - "[[Consumer Internet]]"
+  - "[[The Sublime]]"
   - "[[Academic Freedom]]"
   - "[[Learning by Doing]]"
   - "[[Valley of Death]]"
@@ -63,6 +64,7 @@ related_persons:
   - "[[Chris Freeman]]"
   - "[[Fred Block]]"
   - "[[Michael Kratsios]]"
+  - "[[Benjamin Franklin]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
   - "[[Steve Jobs]]"
@@ -145,7 +147,7 @@ created: 2026-10-02
 > - **1920s–1930s — 工程技术创新与计算先驱期** 专注于复杂电力网络计算与模拟计算机硬件设计，开创模拟计算工程学。
 >   - **代表工作** 微分分析仪研制；创立雷神公司（Raytheon）前身。
 >   - **阶段特征** 具备深厚的工程师动手制作与工程制造底色，强调以机器与实用工具突破人类计算极限。
-> - **1940–1945 — 战时国防科研动员与跨界协同期** 在 [[Office of Scientific Research and Development|OSRD]] 架构下紧密联合大学学者与工业研发网络，实现理论物理与装备工程的跨界大协同。1942 年《科利尔》杂志向全美近三百万读者介绍布什为可能赢得战争的人，树立了科学家在国家生存中的崇高地位。
+> - **1940–1945 — 战时国防科研动员与跨界协同期** 在 [[Office of Scientific Research and Development|OSRD]] 架构下紧密联合大学学者与工业研发网络，实现理论物理与装备工程的跨界大协同。1942 年《科利尔》杂志向全美近三百万读者介绍布什为可能赢得战争的人，树立了科学家在国家生存中的[[The Sublime|崇高]]地位。
 >   - **代表著作** *As We May Think* (Atlantic Monthly, 1945)。
 >   - **关键机制** 战时合同外包制、Memex 超文本概念原型、军工产学大协同、[[Technological Republic|技术共和国]]雏形。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
 > - **1945–1950s — 战后和平时期国家科学契约奠基期** 为摆脱战时军方严格管制、确保高校科学家[[Academic Freedom|学术自由]]与长期财政保障，建构基础研究神圣性叙事。
@@ -184,7 +186,7 @@ created: 2026-10-02
 ---
 
 > [!person-network] 关系网络
-> - **政治委托人** 富兰克林·罗斯福、哈里·杜鲁门（Harry S. Truman） — 报告的委托总统与接收总统。
+> - **政治委托人** [[Benjamin Franklin|富兰克林]]·罗斯福、哈里·杜鲁门（Harry S. Truman） — 报告的委托总统与接收总统。
 > - **战时科学指挥协同者** [[J. Robert Oppenheimer]] — 布什支持并委任奥本海默领导洛斯阿拉莫斯实验室，二人共同开创了[[Manhattan Project|曼哈顿工程]][[Big Science|大科学]]攻坚[[Paradigm|范式]]。
 > - **当代历史对话者与改革者** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios） — 2026 年主持起草《[[Science A New Golden Age 2026|科学：新的黄金时代]]》，在全面对照[[Science, The Endless Frontier 1945|布什报告]]的基础上重构战后科技资助与制造承接体系。
 > - **地缘战略与技术动员反思者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 2025 年在《[[Technological Republic|技术共和国]]》中回顾布什主导 [[Office of Scientific Research and Development|OSRD]] 时期科学界与国家安全机构的高度互信与战略结盟，呼唤在新一代人工智能竞争与破除[[Big Idea Famine|大构想饥荒]]中重振这一动员传统。

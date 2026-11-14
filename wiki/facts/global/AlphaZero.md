@@ -22,8 +22,8 @@ tags:
   - theme/cognitive-science
   - region/global
 related_concepts:
-  - "[[Refined Mastery]]"
   - "[[Paradigm]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Epistemology]]"
 related_theories: []
 related_methods:
@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-02
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -64,7 +64,7 @@ updated: 2026-11-11
 > - **强化学习自激对弈** 在自我交锋中以胜负结果作为唯一奖励信号，不断用表现更优的新模型替代旧模型生成新的训练博弈，形成正向自激演化。
 
 > [!citation-card] AlphaZero 彻底摆脱人类认知束缚
-> AlphaZero 从零外部数据输入起步，仅供给基础规则，完全通过自我反复博弈迭代演化最优表征；系统在 4 小时内攻克国际象棋、8 小时[[Refined Mastery|精通]]围棋，展现出超越人类直觉的全局大局观，彻底摆脱了人类认知偏倚的深刻羁绊。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 234–235)]]
+> AlphaZero 从零外部数据输入起步，仅供给基础规则，完全通过自我反复博弈迭代演化最优表征；系统在 4 小时内攻克国际象棋、8 小时精通围棋，展现出超越人类直觉的全局大局观，彻底摆脱了人类认知偏倚的深刻羁绊。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 234–235)]]
 >
 > *AlphaZero starts with no domain knowledge beyond basic rules... It took four hours of training to master chess, and eight hours to master Go. AlphaZero displays a distinct playing style that does not conform to human traditions, illustrating how machines can generate counterintuitive strategies unburdened by human biases.*
 
@@ -91,7 +91,7 @@ updated: 2026-11-11
 
 > [!finding-cards] 核心实证结论
 > - **超高速泛化与学习能力** 在零人类经验输入下，仅耗费 4 小时国际象棋对弈、2 小时将棋对弈与 8 小时围棋对弈，即全面击败该领域最顶尖的专用计算机程序（Stockfish、elmo 与 AlphaGo Lee）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, p. 235)]]
-> - **创造超越人类传统的异质直觉** 国际特级大师复盘证实，AlphaZero 频繁走出突破数百年人类围棋与国际象棋定式原则的招法，表现出主动牺牲子力以换取动态位置优势的非人类策略美学。
+> - **创造超越人类传统的异质直觉** 国际特级大师复盘证实，AlphaZero 频繁走出突破数百年人类围棋与国际象棋定式原则的招法，表现出主动牺牲子力以换取动态位置优势的非人类策略[[Philosophical Aesthetics|美学]]。
 > - **机器假说空间的自主拓展范式** 证明在目标函数与规则边界确凿的封闭空间中，机器探索无需依赖人类历史数据的平庸输入，甚至能主动规避人类经验中固有的认知死角与偏误。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 234–235)]]
 
 > [!stat-cards]- 关键实证数据

@@ -56,6 +56,7 @@ related_concepts:
   - "[[Tacit Knowledge]]"
   - "[[Technical Rationality]]"
   - "[[Policy Science in Comparative Education]]"
+  - "[[Philosophical Aesthetics]]"
 related_theories:
   - "[[Governmentality]]"
   - "[[Societies of Control]]"
@@ -89,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-05'
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -213,6 +214,6 @@ updated: 2026-11-11
 > | [[Governing by Numbers]] | 概念 | 批判分析；揭示数目化指标如何将复杂学校重构为可审计客体并赋能远距治理。 |
 > | [[Critical Policy Analysis]] | 方法 | 范式开创；提出政策驱动力—推进工具—价值三维视角，超越技术理性[[Policy Science in Comparative Education\|政策科学]]。 |
 > | [[School Choice]] | 概念 | 阶级策略剖析；揭示市场择校实质是优势中产阶层锁定优质教育资源的特权机制。 |
-> | [[Conditioned State Theory]] | 理论 | 理论引申；其私有化阶级策略被拉美学者运用于剖析受限国家的新自由主义转型。 |
+> | [[Conditioned State Theory]] | 理论 | 理论引申；其私有化阶级策略被拉[[Philosophical Aesthetics\|美学]]者运用于剖析受限国家的新自由主义转型。 |
 > | 伦敦大学学院教育学院（IOE） | 组织 | 批判性教育政策社会学研究的学术大本营。 |
 > | 伦敦大学国王学院 | 组织 | 批判性教育政策社会学研究的学术大本营。 |

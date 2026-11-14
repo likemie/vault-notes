@@ -24,6 +24,7 @@ tags:
   - school/kantianism
 related_concepts:
   - "[[Transnational Education]]"
+  - "[[The Sublime]]"
   - "[[Rightness]]"
   - "[[Hard Power]]"
   - "[[Revolutionism]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-06
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -87,7 +88,7 @@ updated: 2026-11-11
 > - **边界** 严格区别于短期的均势休战（Negative Peace）；永久和平追求消弭战争根源的制度性法权互信（Positive Peace），但在缺乏中央强制执行力的现实国际丛林中，若脱离可信威慑力量将退化为空洞的道德乌托邦。
 
 > [!citation-card] 朱利安论跨国比较探究作为消除野蛮战争的基础设施
-> 马克-安托万·朱利安在 1833 年《致英格兰民族书》中将比较解剖学类比升华为崇高的世界和平事业：正如居维叶通过比较解剖学推动了自然科学的巨大飞跃，唯有“比较文明学”与跨国教育探究才能加速推进当下的文明，荡涤其依旧保留的深重而令人痛心的旧时代野蛮战争残余。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 23–24; cited in Palmer, 1993, p. 205)]]
+> 马克-安托万·朱利安在 1833 年《致英格兰民族书》中将比较解剖学类比升华为[[The Sublime|崇高]]的世界和平事业：正如居维叶通过比较解剖学推动了自然科学的巨大飞跃，唯有“比较文明学”与跨国教育探究才能加速推进当下的文明，荡涤其依旧保留的深重而令人痛心的旧时代野蛮战争残余。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 23–24; cited in Palmer, 1993, p. 205)]]
 >
 > *Our illustrious and learned CUVIER ... had rightly judged ... that only comparative anatomy and comparative geology could advance the sciences ... Similarly, only comparative civilization can speedily advance our present civilization, which still preserves, despite its brilliant and imposing wonders, the deep and afflicting traces of the old barbarism.*
 

@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Colonial Archaeology]]"
   - "[[Paradigm]]"
+  - "[[The Sublime]]"
   - "[[Discourse]]"
   - "[[Geopolitics]]"
   - "[[Official Nationalism]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
@@ -85,7 +86,7 @@ updated: 2026-11-13
 ---
 
 > [!claim] 核心思想
-> 莱佛士坚信大英帝国在海外的统治应当建立在崇高的道德与学术优越性之上。他批判旧式东印度公司将东方仅视为商业榨取来源的目光短浅，主张帝国应承担起恢复被封建专制与热带自然所掩埋的古代东方辉煌文明的责任。通过科学发掘古代遗迹与编纂地方通史，殖民者在彰显自身文明教化使命的同时，将外来武力征服转化为保护东方古老遗产的正义托管。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 183–185)]]
+> 莱佛士坚信大英帝国在海外的统治应当建立在[[The Sublime|崇高]]的道德与学术优越性之上。他批判旧式东印度公司将东方仅视为商业榨取来源的目光短浅，主张帝国应承担起恢复被封建专制与热带自然所掩埋的古代东方辉煌文明的责任。通过科学发掘古代遗迹与编纂地方通史，殖民者在彰显自身文明教化使命的同时，将外来武力征服转化为保护东方古老遗产的正义托管。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 183–185)]]
 
 ---
 

@@ -31,6 +31,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Cognitive Deskilling]]"
   - "[[Alien Intelligence]]"
+  - "[[The Sublime]]"
   - "[[Learned Helplessness]]"
   - "[[Epistemic Malformation]]"
   - "[[Reliability]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-23
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -83,7 +84,7 @@ updated: 2026-11-03
 > [!feature] 教育计算机化的核心特征
 > - **模式识别压倒主观阐释** 教学与考核聚焦于固定格式（如五段式作文）、关键词匹配与中心句提取，排斥多义性、矛盾性与富有独创性的主观体验。Davies (2022)
 > - **[[High-Stakes Testing|高利害测验]]的制度催化** 受到标准化统考与绩效问责驱动，教师因应试压力被迫推行机械八股训练，形成套路化写作（Formulaic Writing）的普遍风气。Learned et al. (2020)
-> - **道德与哲学追求的消解** 历史源头上从早期探寻神学真理、道德至善的崇高目标，全面退化为狭隘的劳动力技能清单培训。Applebee (1974); Collin (2024)
+> - **道德与哲学追求的消解** 历史源头上从早期探寻神学真理、道德至善的[[The Sublime|崇高]]目标，全面退化为狭隘的劳动力技能清单培训。Applebee (1974); Collin (2024)
 > - **[[Formative Epistemic Injustice|成长性认识不正义]]的前置触发** 在大模型介入前，该生态已通过知识阻断（排斥非标见解）、实践剥夺（扼杀自由阐释）与自我认知失真（应试自信 vs. 创作失能），前置侵害了求知者的成长权。[[Argument_Smith_2026_SPE|Smith (2026, p. 6)]]
 
 > [!logic-map]- 教育计算机化的制度异化与技术代劳共谋链条

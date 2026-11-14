@@ -27,6 +27,7 @@ related_concepts:
   - "[[Epoché]]"
   - "[[Ontology]]"
   - "[[Homophily]]"
+  - "[[The Sublime]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Social Imaginary]]"
   - "[[Construct]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -82,7 +83,7 @@ updated: 2026-11-11
 > - **边界** 不等于事物在本体论意义上的自然[[Homophily|同质性]]，不适用于捕捉无法被标准化量化的本土情境性教育价值。
 
 > [!citation-card] [[OECD|经合组织]]测评与等值空间的建构
-> 国际学生评估项目（PISA）由此创造了一个可通约的测量空间，或者用阿兰·德罗西埃（Desrosières, 1998）的术语来说，创造了一个全球性的等值空间。在统计技术的层面上，信度与跨国比较被赋予了绝对优先于效度与本体论的崇高地位——也就是不再要求对被测量的事物保持概念上的深刻敏锐性。……数字所具有的力量恰恰在于，它们将构成一次测量、一个刻度、一个数字背后所涉及的大量复杂判断与决策完全变得不可见，因而也变得无可辩驳（Rose, 1999: 208）。可以说，如果没有[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]对其核心论断的有力呼应，PISA的迅速崛起是根本不可能实现的。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+> 国际学生评估项目（PISA）由此创造了一个可通约的测量空间，或者用阿兰·德罗西埃（Desrosières, 1998）的术语来说，创造了一个全球性的等值空间。在统计技术的层面上，信度与跨国比较被赋予了绝对优先于效度与本体论的[[The Sublime|崇高]]地位——也就是不再要求对被测量的事物保持概念上的深刻敏锐性。……数字所具有的力量恰恰在于，它们将构成一次测量、一个刻度、一个数字背后所涉及的大量复杂判断与决策完全变得不可见，因而也变得无可辩驳（Rose, 1999: 208）。可以说，如果没有[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]对其核心论断的有力呼应，PISA的迅速崛起是根本不可能实现的。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 >
 > *PISA regards as crucially important its claim to comparability and a commensurate space of international comparison – a space of uniform measurement, or what Desrosieres (1998) refers to as a “space of equivalence.” Within national frameworks; there was always greater concern about the creation of this national commensurable space than about [[Construct]] validity, more about issues of reliability and comparison than ontology. The same is the case with PISA. ... As Rose (1999) has argued, policy as numbers tends to do this – the power of numbers is such that they “render invisible and hence incontestable – the complex array of judgements and decisions that go into a measurement, a scale, a number”.*
 

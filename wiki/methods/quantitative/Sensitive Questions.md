@@ -30,6 +30,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Construct Validity]]"
   - "[[Informed Consent]]"
+  - "[[Sensual Cognition]]"
   - "[[Attrition]]"
   - "[[Response Bias]]"
   - "[[Leading Questions]]"
@@ -48,7 +49,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -78,7 +79,7 @@ updated: 2026-11-11
 > [!method-stack] 方法层级
 > - **研究设计** [[Survey Research|调查研究]]设计、敏感行为流行率测量、[[Rating Scale|态度量表]]编制。
 > - **数据收集** 自填问卷、在线匿名调查、知情人调查、反向日记记录、卡片分类与信封回收法。
-> - **分析方法** 频数交叉检验、未应答模式分析、敏感性认知事后评定。
+> - **分析方法** 频数交叉检验、未应答模式分析、敏[[Sensual Cognition|感性认知]]事后评定。
 > - **辅助技术** 有意加载（Deliberate Loading）、熟悉词汇替换、长问题缓冲、时序反转。
 
 ---

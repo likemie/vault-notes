@@ -27,6 +27,7 @@ related_concepts:
   - "[[Curricular Governance]]"
   - "[[Abstract]]"
   - "[[School Leadership]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Professional Learning Community]]"
   - "[[Teacher Leadership]]"
   - "[[Paradigm]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
@@ -96,7 +97,7 @@ updated: 2026-11-13
 > [!influence-path] 影响路径
 > - **理论路径** 打破了教育管理学长期被英雄主义校长论垄断的局面，确立了分布式领导（Distributed Leadership）与社会网络分析在学校组织研究中的主流地位。
 > - **方法路径** 倡导结合微观日常影子跟随观察（Shadowing）、日志记录与社会网络分析，精确测绘学校内部真实存在的专业建议与求助流向。
-> - **政策路径** 直接为全美学区推行以教师[[Professional Learning Community|专业学习共同体]]（PLCs）为核心的角色转型提供了理论指导（如加州桑格学区）。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 491)]]
+> - **政策路径** 直接为全[[Philosophical Aesthetics|美学]]区推行以教师[[Professional Learning Community|专业学习共同体]]（PLCs）为核心的角色转型提供了理论指导（如加州桑格学区）。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 491)]]
 > - **跨国／跨领域传播** 分布式领导概念被英国、加拿大、澳大利亚与中国广泛引入，成为解释卓越学校培育[[Teacher Leadership|教师领导力]]（Teacher Leadership）的基础构念。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 491)]]
 
 ---

@@ -64,6 +64,7 @@ related_concepts:
   - "[[STEM Education]]"
   - "[[Funds of Knowledge]]"
   - "[[Enlightenment]]"
+  - "[[The Sublime]]"
   - "[[Champ]]"
   - "[[Ways of Knowing]]"
   - "[[Open-Mindedness]]"
@@ -92,7 +93,7 @@ sources:
   - "[[books/Matthews(Ed.)_2018_Springer/Ch05_Kelly_Licona_2018|Ch05_Kelly_Licona_2018]]"
 status: draft
 created: 2026-09-21
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 ---
 
@@ -381,7 +382,7 @@ updated: 2026-11-11
 > *Epistemic practices are the socially organized and interactionally accomplished ways that members of a group propose, communicate, evaluate, and legitimize knowledge claims. Drawing from studies of science and education, this chapter argues that epistemic practices are interactional (constructed among people through concerted activity), contextual (situated in social practices and cultural norms), intertextual (communicated through a history of coherent discourses, signs and symbols), and consequential (legitimized knowledge instantiates power and culture). Through application of these epistemic practices, communities justify knowledge claims.*
 
 > [!citation-card] 论解构刻板的[[Scientific Method\|科学方法]]与面向证据审议的[[Scientific Literacy\|科学素养]]
-> 由于认识论实践依赖于特定领域与时代变迁（因知识生产所面临的挑战而不断改变），因此根本不存在一套封闭固定的科学实践。这与教育实践中常常将科学方法机械阐释为一套线性步骤的做法形成了鲜明对比。恰恰相反，在人类理解其经验的多元方式中，存在着各具特色的学科性（以及非学科性！）知晓方式。这里的核心宗旨绝不是去教条地规定一套固定的八项实践（如 NGSS 所列），也不是去机械推行科学方法的五个步骤；而是去识别人们如何形成认识，并体会以系统化方式理解世界以使证据向公共审查与评价开放的崇高价值。（pp. 144–145）
+> 由于认识论实践依赖于特定领域与时代变迁（因知识生产所面临的挑战而不断改变），因此根本不存在一套封闭固定的科学实践。这与教育实践中常常将科学方法机械阐释为一套线性步骤的做法形成了鲜明对比。恰恰相反，在人类理解其经验的多元方式中，存在着各具特色的学科性（以及非学科性！）知晓方式。这里的核心宗旨绝不是去教条地规定一套固定的八项实践（如 NGSS 所列），也不是去机械推行科学方法的五个步骤；而是去识别人们如何形成认识，并体会以系统化方式理解世界以使证据向公共审查与评价开放的[[The Sublime|崇高]]价值。（pp. 144–145）
 >
 > *Since epistemic practices are [[Champ\|field]]- and time-dependent (changing due to the challenges of knowledge production), there is not a limited set of “science practices.” This contrasts with how “the scientific method” is often interpreted in education as a set of linear steps. Rather, there are disciplinary (and other!) [[Ways of Knowing]] that vary across the multiple ways that humans make sense of their experience. The point is not to define a given set of eight practices (NGSS Lead States 2013), or the five steps of the scientific method. Rather, the idea is to identify the ways people come to know and recognize the value of making sense in systematic ways that render evidence open for public scrutiny and evaluation.*
 

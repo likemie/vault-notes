@@ -54,6 +54,7 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Examination-Oriented Education]]"
   - "[[Humility]]"
+  - "[[The Sublime]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Document]]"
   - "[[Output-Oriented Governance]]"
@@ -106,7 +107,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -198,7 +199,7 @@ updated: 2026-11-11
 > **破除确定性神话与抵御极端怀疑论** 缺乏对[[Scientific Uncertainty|科学不确定性]]的理性认知，是公众走向反智主义与阴谋论的重要诱因；当公众误以为科学是绝对真理时，一旦科学界因新证据而修正早期共识（如防疫指导动态更新），便会产生严重的被背叛感；理解暂定性与自我纠错是科学素养的核心防御武器。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 30)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 62)]]
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]]
-> **破除单一[[Scientific Method|科学方法]]神话与体会公共审查价值** 真正的科学素养重在识别各学科多元的知晓方式，体会以系统化方式使证据向公共审查与评价开放的崇高价值，超越对八项固定实践或五个步骤等教条套路的[[Rote Learning|机械记忆]]。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 144–145)]]
+> **破除单一[[Scientific Method|科学方法]]神话与体会公共审查价值** 真正的科学素养重在识别各学科多元的知晓方式，体会以系统化方式使证据向公共审查与评价开放的[[The Sublime|崇高]]价值，超越对八项固定实践或五个步骤等教条套路的[[Rote Learning|机械记忆]]。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 144–145)]]
 
 ---
 

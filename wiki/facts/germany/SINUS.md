@@ -51,7 +51,8 @@ related_theories:
 related_methods:
   - "[[Scale Development]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Gottfried Wilhelm Leibniz]]"
 related_facts:
   - "[[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung]]"
   - "[[TIMSS]]"
@@ -68,13 +69,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-11-02
+updated: 2026-11-14
 ---
 
 ---
 
 > [!claim] 项目定位
-> “提高数理教学效率联合改革试验”（Steigerung der Effizienz des mathematisch-naturwissenschaftlichen Unterrichts, SINUS）是由德国[[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung|联邦与各州教育规划与科研促进委员会]]（BLK）于 1998 年设立的国家级大型教学改革与转移试验项目。该项目直面德国在 1997 年第三次国际数学与科学研测（[[TIMSS]]）及后续 [[PISA]] 中暴露的理科素养低迷危机，依托基尔大学莱布尼茨科学与数学教育研究所（IPN）统筹学术研发，开创了通过跨校[[Teacher Collaboration|教师协作]]网络与校本模块化实践推动学科教学改进的新[[Paradigm|范式]]。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 9, 11)]]
+> “提高数理教学效率联合改革试验”（Steigerung der Effizienz des mathematisch-naturwissenschaftlichen Unterrichts, SINUS）是由德国[[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung|联邦与各州教育规划与科研促进委员会]]（BLK）于 1998 年设立的国家级大型教学改革与转移试验项目。该项目直面德国在 1997 年第三次国际数学与科学研测（[[TIMSS]]）及后续 [[PISA]] 中暴露的理科素养低迷危机，依托基尔大学[[Gottfried Wilhelm Leibniz|莱布尼茨]]科学与数学教育研究所（IPN）统筹学术研发，开创了通过跨校[[Teacher Collaboration|教师协作]]网络与校本模块化实践推动学科教学改进的新[[Paradigm|范式]]。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 9, 11)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1998 年正式立项启动先导试验（1998–2003 年）；因成效显著，随后扩展为面向全德的规模化推广计划“SINUS-Transfer”（2003–2007 年），并进一步延伸至小学阶段（2009–2013 年）。

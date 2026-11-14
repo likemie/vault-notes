@@ -39,6 +39,7 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Document]]"
   - "[[Research Translation]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Literature Search]]"
   - "[[Transfer Science]]"
 related_facts:
@@ -53,11 +54,12 @@ related_arguments:
   - "[[Argument_Kelly_2025_ROE]]"
 related_theories:
   - "[[Organizational Culture]]"
-related_persons: []
+related_persons:
+  - "[[Martin Luther]]"
 confidence: high
 status: completed
 created: 2026-09-26
-updated: 2026-10-30
+updated: 2026-11-14
 ---
 
 > [!claim] 核心定位
@@ -99,7 +101,7 @@ updated: 2026-10-30
 > | **QUA-LiS NRW**<br>Qualitäts- und UnterstützungsAgentur – Landesinstitut für Schule NRW | 北莱茵-威斯特法伦州（索斯特） | 统筹全州课程大纲编制、教师进修、学校咨询；主导《学校发展研究文丛》出版 | 主办 2018 年 KBBB [[Knowledge Transfer\|知识转移]]大会；深度参与 FMS 平台共建 | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 8)]] |
 > | **ISB Bayern**<br>Staatsinstitut für Schulqualität und Bildungsforschung | 巴伐利亚州（慕尼黑） | 办学质量监测、全州统测试卷研制、学科教学法与实证教育[[Research Translation\|研究转化]] | 研发巴伐利亚 LehrplanPLUS 课程大纲体系与数字化教学资源库 | [[Argument_Dedering_2009_EERJ\|Dedering (2009, p. 485)]] |
 > | **LI Hamburg**<br>Landesinstitut für Lehrerbildung und Schulentwicklung | 汉堡自由汉萨市（汉堡） | 贯通第二阶段见习教师培养（Referendariat）与职后培训；开展低利害形成性治理 | 与 [[Institute for Educational Monitoring and Quality Improvement\|IfBQ]] 协同开展校长“同侪案例会商”（Kollegiale Fallberatung） | [[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 231)]] |
-> | **LISUM**<br>Landesinstitut für Schule und Medien Berlin-Brandenburg | 柏林-勃兰登堡跨州（路德维希费尔德） | 跨联邦州课程共建、数字媒体教育推进、中小学教学支持平台运营 | 研发柏林-勃兰登堡跨州联合统一教学大纲与数字媒介素养指南 | KMK (2015, p. 13) |
+> | **LISUM**<br>Landesinstitut für Schule und Medien Berlin-Brandenburg | 柏林-勃兰登堡跨州（[[Martin Luther\|路德]]维希费尔德） | 跨联邦州课程共建、数字媒体教育推进、中小学教学支持平台运营 | 研发柏林-勃兰登堡跨州联合统一教学大纲与数字媒介素养指南 | KMK (2015, p. 13) |
 
 ---
 
@@ -113,7 +115,7 @@ updated: 2026-10-30
 > [!citation-card] 机构研究的严重滞后与国际反思
 > 针对中层机构在德国教育转移研究中的空白，学者强调吸纳国际政策执行理论：
 > 
-> 德国教育体系中负责支持单体学校、且在政策纲领上被赋予关键转移职能的制度化机构（例如[[School Inspection|学校督导]]部门与各州立研究所），迄今为止几乎未曾受到学术研究的系统关注。英美学界关于政策执行（policy implementation）的深入研究为此提供了重要镜鉴。（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, pp. 11–12]]）
+> 德国教育体系中负责支持单体学校、且在政策纲领上被赋予关键转移职能的制度化机构（例如[[School Inspection|学校督导]]部门与各州立研究所），迄今为止几乎未曾受到学术研究的系统关注。英[[Philosophical Aesthetics|美学]]界关于政策执行（policy implementation）的深入研究为此提供了重要镜鉴。（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, pp. 11–12]]）
 > 
 > *Dass hier noch Bedarf an Aufarbeitung besteht, zeigt exemplarisch bereits die Tatsache, dass die schulsystemischen Institutionen in Deutschland, die Einzelschulen unterstützen sollen und denen rein programmatisch eine wichtige Rolle in Transferprozessen zugewiesen wird, bislang kaum erforscht werden (z. B. Schulaufsicht und Landesinstitute).*
 

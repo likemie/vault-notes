@@ -32,6 +32,7 @@ related_concepts:
   - "[[Output-Oriented Governance]]"
   - "[[Research Literacy]]"
   - "[[Early-Career Researchers]]"
+  - "[[The Sublime]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Research Utilization]]"
   - "[[Academic Achievement]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-04
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -151,7 +152,7 @@ updated: 2026-11-11
 
 ---
 
-> [!concept-proposition] 命题三｜教育科研影响力具有间接性与缓慢渗透性，系统治理需依托崇高目标指引（乌托邦之喻）
+> [!concept-proposition] 命题三｜教育科研影响力具有间接性与缓慢渗透性，系统治理需依托[[The Sublime|崇高]]目标指引（乌托邦之喻）
 > **间接缓慢特征与系统导向价值** 探讨教育人文与社会科学科研影响力的特殊性。与生物医药或工业技术产生直接、线性的产出不同，教育科学对真实课堂和学生学习的影响往往是高度间接、潜移默化且极其缓慢的。
 
 > [!claim] Galeano (2012); [[Argument_Torres_2022_KMModels|Torres (2022b)]]

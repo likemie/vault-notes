@@ -30,6 +30,7 @@ related_concepts:
   - "[[Finnish Paradoxes]]"
   - "[[Public Diplomacy]]"
   - "[[Research Question]]"
+  - "[[The Sublime]]"
   - "[[Critical Pedagogy]]"
   - "[[Discourse]]"
   - "[[Falsification]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-10
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -131,7 +132,7 @@ updated: 2026-11-11
 > [!debates] 理论争议
 >
 > > [!axis] 商业营销逻辑与公共教育伦理的冲突
-> > 争论将整合营销传播应用于公共教育是否会异化教育的崇高公共属性。
+> > 争论将整合营销传播应用于公共教育是否会异化教育的[[The Sublime|崇高]]公共属性。
 > >
 > > - **营销倡导立场** 强调在全球注意力经济中，系统运用 IMC 手段有助于破除国际认知壁垒，将优质教育经验推向世界并换取经贸与文化收益。
 > > - **[[Critical Pedagogy|批判教育学]]立场** 批评商业营销话术将教育简化为消费符号，在向外界宣扬最好时不可避免地建构出劣质的他者，并掩盖本国教育现实中的固有危机。[[Argument_Yang_2023_ICE|(杨明全和邓丽, 2023, p. 8)]]

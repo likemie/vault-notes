@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Epistemology]]"
+  - "[[The Sublime]]"
   - "[[Positivism]]"
   - "[[Knowledge Production]]"
   - "[[Value Neutrality]]"
@@ -102,7 +103,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ## 定义
@@ -110,7 +111,7 @@ updated: 2026-11-11
 教育改良主义是 19 世纪比较与[[International Education|国际教育]]探究的精神底色，构成了贯穿学科现代主义发端的统治性[[Epistemology|认识论]]母题：
 
 > [!def] Educational Meliorism
-> **教育改良主义（Educational Meliorism）** 源自拉丁语 *melior*（意为“更好”），在比较教育思想史中定义为**以现实改进为先验目标的探究（inquiry with the objective of improvement）**。它是贯穿 19 世纪所有先驱求知活动的统治性母题（overriding consideration/purpose）：坚信人类社会与学校体制存在可诊断、可救治的弊病，通过跨国经验事实汇纂与横向对照能够发掘普遍善好法则，以救治母国政治危机、维系共和民主政体、预防流血暴力革命并增进人类全人福祉。这一崇高关怀从发端起便内生于现代“比较认识论问题域（comparative epistemic problematique）”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 33–34)]]
+> **教育改良主义（Educational Meliorism）** 源自拉丁语 *melior*（意为“更好”），在比较教育思想史中定义为**以现实改进为先验目标的探究（inquiry with the objective of improvement）**。它是贯穿 19 世纪所有先驱求知活动的统治性母题（overriding consideration/purpose）：坚信人类社会与学校体制存在可诊断、可救治的弊病，通过跨国经验事实汇纂与横向对照能够发掘普遍善好法则，以救治母国政治危机、维系共和民主政体、预防流血暴力革命并增进人类全人福祉。这一[[The Sublime|崇高]]关怀从发端起便内生于现代“比较认识论问题域（comparative epistemic problematique）”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 33–34)]]
 
 该概念为打破 20 世纪战后学科史的[[Positivism|实证主义]]偏见提供了核心认识论透镜：
 
@@ -179,7 +180,7 @@ updated: 2026-11-11
 >   将探究的根本正当性建立在救治现实缺陷之上，坚信人类社会具有可改进性；拒绝脱离社会苦难的纯智力游戏，求知天然承载着增进人类福祉的道德使命。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 33–34)]]
 > - **双重实践路径分化（Dual Structural Pathways）**
 >   在大西洋两岸具体制度情境下发生机制分流：欧陆表现为以[[Victor Cousin|库森]]为代表的“行政制度移植与机制转置（transposition）模式”，直接推动国家法典化；北美表现为以[[Horace Mann|霍勒斯·曼]]为代表的“政治动员与合法化依据（legitimating rationales）模式”，借域外实绩击溃本土反对派。（pp. 28–30, 33–34）
-> - **事实经验求真与崇高伦理规范的深度共生（Fact-VALUE Synthesis）**
+> - **事实经验求真与[[The Sublime|崇高]]伦理规范的深度共生（Fact-VALUE Synthesis）**
 >   经验事实的客观搜集与分类图表编制，从属于服务全人道德教化、理性预防流血革命与维系国际和平的启蒙伦理规范，形成经验分类服务于精神道德的有机统一。（pp. 16–22, 34）
 > - **应对现代性危机（Crisis of Modernity）的国家整合诉求**
 >   深嵌于 19 世纪大革命创伤、普鲁士耶拿惨败重建、美利坚独立后自由共和体制维系等重大危机之中，充当现代民族国家重构公共领域与社会整合的核心纽带。（pp. 24–26, 31–32）
@@ -323,7 +324,7 @@ updated: 2026-11-11
 
 ## 概念演变
 
-教育改良主义在两个世纪的学科演进中，经历了从启蒙崇高抱负、制度分化、历史哲学升华、实证贬抑到当代批判重构的演化历程：
+教育改良主义在两个世纪的学科演进中，经历了从启蒙[[The Sublime|崇高]]抱负、制度分化、历史哲学升华、实证贬抑到当代批判重构的演化历程：
 
 > [!dev-timeline] 概念演变
 > - **1817 — 准科学人道主义道德改良萌芽阶段** 朱利安发表《计划》，将教育改良主义与居维叶比较解剖学分类、全人道德教化与世界和平共同体蓝图深度交织，奠定学科最初的[[Epistemology|认识论]][[Paradigm|范式]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 11–14, 21–24)]]
@@ -343,7 +344,7 @@ updated: 2026-11-11
 
 > [!debates] 学术争议
 >
-> > [!axis] 改良主义是崇高[[Epistemology|认识论]]基石还是非科学价值偏见
+> > [!axis] 改良主义是[[The Sublime|崇高]][[Epistemology|认识论]]基石还是非科学价值偏见
 > > 围绕早期先驱强烈的道德改良动机，学界形成了两大对立视角的学术交锋：[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 16–18, 33–34)]]
 > >
 > > - **Harold Noah and Max Eckstein (1969)** 批评早期改良主义充斥着强烈的价值诱导设问与主观行政偏见，严重损害了经验调查的客观性，未能达到真正[[Value Neutrality|价值无涉]]的科学标准。

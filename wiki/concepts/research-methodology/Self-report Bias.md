@@ -25,6 +25,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Habitus]]"
   - "[[Socioeconomic Status]]"
+  - "[[The Sublime]]"
   - "[[Construct Validity]]"
   - "[[Heterogeneity]]"
   - "[[Research Impact]]"
@@ -65,7 +66,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-07-11
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -146,7 +147,7 @@ updated: 2026-11-03
 > **规范压力与态度行为脱节** 探讨个体与机构在面对制度规范时如何通过自陈修饰塑造合规形象，导致调查结果中态度得分虚高。
 
 > [!claim] Dale (2006); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13\|Cohen et al. (2011d)]]; [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]]
-> **社会赞许性高报与外显行为脱节** 在涉及专业伦理、公共责任或价值认同的调查中，受访者面临强烈的社会赞许心理动机，倾向于给出符合规范期望的正面回答。教师在[[Questionnaire\|问卷]]中普遍对教育科研的价值表达极高自评认同，但这种高态度得分并未转化为实际的课堂教学使用；口头表达的崇高信念很大程度上是自我形象管理的产物，构成了测量学上的知行虚假繁荣。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13\|(Cohen et al., 2011d, p. 262)]]; [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 8)]]
+> **社会赞许性高报与外显行为脱节** 在涉及专业伦理、公共责任或价值认同的调查中，受访者面临强烈的社会赞许心理动机，倾向于给出符合规范期望的正面回答。教师在[[Questionnaire\|问卷]]中普遍对教育科研的价值表达极高自评认同，但这种高态度得分并未转化为实际的课堂教学使用；口头表达的[[The Sublime|崇高]]信念很大程度上是自我形象管理的产物，构成了测量学上的知行虚假繁荣。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13\|(Cohen et al., 2011d, p. 262)]]; [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 8)]]
 
 > [!warrant]- 动机防御机制
 > 人类具有维护内在一致性与良好自我概念的心理本能；当客观行为未能达到理想规范时，在匿名或非匿名的调查中通过言辞高报是低成本恢复心理平衡的主要途径。

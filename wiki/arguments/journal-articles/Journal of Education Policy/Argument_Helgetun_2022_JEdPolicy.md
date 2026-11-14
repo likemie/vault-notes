@@ -33,6 +33,7 @@ related_concepts:
   - "[[Initial Teacher Training]]"
   - "[[Paradigm]]"
   - "[[Heterogeneity]]"
+  - "[[The Sublime]]"
   - "[[Technical Rationality]]"
   - "[[Gatekeepers]]"
   - "[[Reliability]]"
@@ -76,7 +77,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-09-16
-updated: 2026-11-11
+updated: 2026-11-14
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Helgetun_2022_JEdPolicy"
@@ -215,7 +216,7 @@ issuing_organization: ""
 > - **证据范畴的多样化扩张** 证据范畴超越了单一的量化测验，广泛吸纳了同行评议论文、医学临床实践类比、[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）倡导的[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）以及[[Action Research\|行动研究]]，构筑起主导性的[[Rationalized Myth\|合理化神话]]。
 
 > [!warrant]- 跨国声誉背书的修辞逻辑
-> 政策论证策略打破了局限于本土历史经验的传统。通过对芬兰、新加坡等[[Heterogeneity\|异质性]]教育体制的去情境化摘引，以及对医学临床 RCT 工具的跨领域类比，政策文本确立了实证证据不证自明的崇高地位，为重构英格兰教师教育体系提供了跨国声誉背书。
+> 政策论证策略打破了局限于本土历史经验的传统。通过对芬兰、新加坡等[[Heterogeneity\|异质性]]教育体制的去情境化摘引，以及对医学临床 RCT 工具的跨领域类比，政策文本确立了实证证据不证自明的[[The Sublime|崇高]]地位，为重构英格兰教师教育体系提供了跨国声誉背书。
 
 ---
 

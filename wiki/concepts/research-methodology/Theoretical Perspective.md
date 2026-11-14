@@ -34,6 +34,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Theoretical Standpoint]]"
   - "[[Knowledge Production]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Research Question]]"
   - "[[Transnational Education]]"
   - "[[Emergence]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -160,7 +161,7 @@ updated: 2026-11-11
 > **[[Epistemology|认识论]]层级与学科方法论维度** 本类命题探讨理论视角在科学探究层级中的位置，厘清方法论（Methodology）与具体方法（Methods）的本质区别。
 
 > [!claim] [[Val D. Rust|Rust, V. D.]]
-> **方法论层级与理论视角的等同性** 依据罗布森与菲利普斯的研究分层理论，科学研究自上而下包含认识论（Level 1）、策略（Level 2）、方法（Level 3）与方法论（Level 4）。北美学术界常将方法论收窄为统计抽样等技术操作，造成学科认识论贫乏；而在英欧传统与严谨元研究中，方法论是统领[[Paradigm|研究范式]]与概念框架的最高层级，其实质正是“理论视角”。研究者所秉持的理论视角决定了[[Research Question|研究问题]]的性质、材料收集的侧重点以及对[[Transnational Education|跨国教育]]现象的解释深度。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–122)]]
+> **方法论层级与理论视角的等同性** 依据罗布森与菲利普斯的研究分层理论，科学研究自上而下包含认识论（Level 1）、策略（Level 2）、方法（Level 3）与方法论（Level 4）。北[[Philosophical Aesthetics|美学]]术界常将方法论收窄为统计抽样等技术操作，造成学科认识论贫乏；而在英欧传统与严谨元研究中，方法论是统领[[Paradigm|研究范式]]与概念框架的最高层级，其实质正是“理论视角”。研究者所秉持的理论视角决定了[[Research Question|研究问题]]的性质、材料收集的侧重点以及对[[Transnational Education|跨国教育]]现象的解释深度。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–122)]]
 
 ---
 

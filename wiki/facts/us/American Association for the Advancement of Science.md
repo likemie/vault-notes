@@ -29,6 +29,8 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[STEM Education]]"
   - "[[Evidence-Based Policy-Making]]"
+  - "[[The Sublime]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Tacit Knowledge]]"
   - "[[Learning by Doing]]"
   - "[[Grandes Ecoles]]"
@@ -67,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -85,14 +87,14 @@ updated: 2026-11-11
 
 > [!org-evolution] 组织发展历程
 > - **1848–1900 — 奠基与《科学》杂志整合**
->   - 推动美国早期国家科研机构的设立；1900 年正式收购托马斯·爱迪生创办的《科学》（*Science*）杂志并将其确立为官方旗舰学刊，奠定了全球综合学术界的崇高权威。
+>   - 推动美国早期国家科研机构的设立；1900 年正式收购托马斯·爱迪生创办的《科学》（*Science*）杂志并将其确立为官方旗舰学刊，奠定了全球综合学术界的[[The Sublime|崇高]]权威。
 > - **1945–1972 — 战后科学政策建制化与国家科学基金会创设**
 >   - 二战后深度参与《[[Science, The Endless Frontier 1945|无尽的前沿]]》所倡导的国家科研体制构建，积极推动民事独立的[[National Science Foundation|美国国家科学基金会]]（NSF）立法设立与冷战初期科技政策审议；前 NSF 主任[[Richard C. Atkinson|理查德·C·阿特金森]]等顶尖科技领袖先后出任 AAAS 会长。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37, 48)]]
 >   - 1959 年与国家科学院及斯隆基金会联合主办全美[[Symposium on Basic Research 1959|基础研究研讨会]]，促成[[Dwight D. Eisenhower|艾森豪威尔]]总统发表《科学：自由的女仆》演讲，为国家保障大学学术自由与基础研究财政支持确立最高政治担保。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 38)]]
 >   - 拓展教育学部（Section Q），深度参与全美中小学科学教材现代化与课程标准化改革。
 > - **1973–2000 — 科技政策研究员制度化与联邦 R&D 预算权威监测**
 >   - 1973 年面对水门事件后国会山专业科学幕僚极其匮乏的困境，AAAS 开创性设立国会科学研究员计划，此后迅速扩展为全美科技政策研究员计划（STPF）。在 [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] 的分析中，该计划与 [[American Educational Research Association|AERA]] 等专业学会联合，成为教育研究者全职沉浸于国会山立法生态的最具变革性的制度通道。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, pp. 46–47)]]
->   - 1976 年起正式确立年度“联邦研发预算分析报告”（AAAS R&D Budget and Policy Program），成为全美学术界、国会与联邦机构评估国家科研支出最权威的独立统计与政策监督平台。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 28)]]
+>   - 1976 年起正式确立年度“联邦研发预算分析报告”（AAAS R&D Budget and Policy Program），成为全[[Philosophical Aesthetics|美学]]术界、国会与联邦机构评估国家科研支出最权威的独立统计与政策监督平台。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 28)]]
 > - **2001–至今 — 9/11 后反恐预算转向警示与当代战略转型**
 >   - 九一一事件后，AAAS 研发预算监测项目紧密追踪联邦科研经费从传统国防基础研究向短期战术开发与国土安全/生物医药反恐的大规模重组，持续警示预算结构倾斜对大学工程与物理基础科学研究的挤出风险。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 28, 41–43)]]
 

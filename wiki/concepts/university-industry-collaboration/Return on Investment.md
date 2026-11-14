@@ -66,6 +66,7 @@ related_concepts:
   - "[[Social Science as Legitimation Alibi]]"
   - "[[New Public Management]]"
   - "[[Public Value]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Applied Medical Innovation]]"
   - "[[Steering at a Distance]]"
   - "[[Educational Brokerage Agency]]"
@@ -109,7 +110,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-06-02
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -287,7 +288,7 @@ updated: 2026-11-11
 > *It is strongly based on human capital theory and on measurements of the social rates of return to investment in education, which the World Bank argues have withstood the tests of more than three decades of careful scrutiny.*
 
 > [!warning] 适用局限
-> 投资回报框架建立在高度量化的投入—产出因果假设之上，对于无法在劳动力市场直接变现的公民人权培育、批判性反思、文化传承、美学修养以及无直接商业原型的基础哲学探究，具有严重的解释力盲区与体制性排斥。
+> 投资回报框架建立在高度量化的投入—产出因果假设之上，对于无法在劳动力市场直接变现的公民人权培育、批判性反思、文化传承、[[Philosophical Aesthetics|美学]]修养以及无直接商业原型的基础哲学探究，具有严重的解释力盲区与体制性排斥。
 
 ---
 

@@ -21,6 +21,7 @@ tags:
   - theme/competition
   - level/higher-ed
 related_concepts:
+  - "[[The Sublime]]"
   - "[[Global Universities Rankings]]"
   - "[[Quasi-market]]"
   - "[[Early-Career Researchers]]"
@@ -78,13 +79,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
 
 > [!def] Matthew Effect in Academia
-> 学术马太效应（Matthew Effect in Academia）源自[[Robert K. Merton|罗伯特·K·默顿]]（Robert K. Merton, 1968）对科学社会学中优势累积现象的经典概括，描述已有崇高声望的学者在同行评审、合作成果所有权确认及学术引文中获得不成比例的认可；[[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]]将其进一步概念化为制度化的马太效应（institutionalized Matthew effect），揭示当代高等教育通过卓越评估、竞争性拨款及[[Global Universities Rankings|全球大学排名]]，使办学资金、声誉资本与顶尖人才系统性向头部机构集聚；[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Wang and Barabási (2021)]]则将这一机制数理化为无标度引文网络中的优先连接动力学，阐明早期可见度与声望如何通过正反馈滚雪球效应形成重尾分布。
+> 学术马太效应（Matthew Effect in Academia）源自[[Robert K. Merton|罗伯特·K·默顿]]（Robert K. Merton, 1968）对科学社会学中优势累积现象的经典概括，描述已有[[The Sublime|崇高]]声望的学者在同行评审、合作成果所有权确认及学术引文中获得不成比例的认可；[[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]]将其进一步概念化为制度化的马太效应（institutionalized Matthew effect），揭示当代高等教育通过卓越评估、竞争性拨款及[[Global Universities Rankings|全球大学排名]]，使办学资金、声誉资本与顶尖人才系统性向头部机构集聚；[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Wang and Barabási (2021)]]则将这一机制数理化为无标度引文网络中的优先连接动力学，阐明早期可见度与声望如何通过正反馈滚雪球效应形成重尾分布。
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指涉学术界中优势积累的自增强正反馈循环，既包含个体微观声望对同行认知评价的信号替代，也包含中观大学组织通过评估[[Quasi-market|准市场]]对资源的结构性吸附，以及宏观引文网络对既有节点的优先连接。

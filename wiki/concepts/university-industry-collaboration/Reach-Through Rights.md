@@ -26,6 +26,7 @@ related_concepts:
   - "[[Material Transfer Agreement]]"
   - "[[Scaffolding]]"
   - "[[Creativity]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Innovation Ecosystem]]"
   - "[[Clinical Trial]]"
 related_theories:
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-05
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -102,7 +103,7 @@ updated: 2026-11-11
 > > **到达提成引发下游版税堆叠与项目搁置** 迈克尔·[[Ágnes Heller|赫勒]]与丽贝卡·艾森伯格指出，到达提成使上游科研工具所有者能够在下游新药研发成功后分享收益；当研发一种新药需要同时运用数十种受保护的基础工具和筛选方法时，累加的到达提成比例将变得无法承受，迫使制药企业终止该研发管线，造成严重的反公地资源闲置。[[Argument_Thompson_et_al_2018_RP|(Heller & Eisenberg, 1998; via Thompson et al., 2018, p. 1061)]]
 >
 > > [!claim] Murray, F.
-> > **杜邦到达提成激化高校与跨国企业的体制对抗** [[Fiona Murray|菲奥娜·默里]]以哈佛[[Oncomouse|致癌小鼠]]为例阐明，杜邦公司坚持对利用小鼠产出的任何下游商业成果索取到达提成，直接打破了学术界“投入即共享”的默契，促使全美学术科研人员大面积放弃该小鼠模型的后续实验，并最终迫使[[National Institutes of Health|美国国立卫生研究院]]（NIH）介入废除该条款。[[Argument_Thompson_et_al_2018_RP|(Murray, 2010; via Thompson et al., 2018, p. 1062)]]
+> > **杜邦到达提成激化高校与跨国企业的体制对抗** [[Fiona Murray|菲奥娜·默里]]以哈佛[[Oncomouse|致癌小鼠]]为例阐明，杜邦公司坚持对利用小鼠产出的任何下游商业成果索取到达提成，直接打破了学术界“投入即共享”的默契，促使全[[Philosophical Aesthetics|美学]]术科研人员大面积放弃该小鼠模型的后续实验，并最终迫使[[National Institutes of Health|美国国立卫生研究院]]（NIH）介入废除该条款。[[Argument_Thompson_et_al_2018_RP|(Murray, 2010; via Thompson et al., 2018, p. 1062)]]
 
 ---
 

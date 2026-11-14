@@ -81,6 +81,7 @@ related_concepts:
   - "[[Positional Good]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Champ]]"
+  - "[[The Sublime]]"
   - "[[Problem Solving]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -107,6 +108,7 @@ related_facts:
   - "[[World Bank]]"
   - "[[UNESCO]]"
   - "[[World Education Indicators]]"
+  - "[[Education at a Glance]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[Organisation for European Economic Co-operation]]"
   - "[[Programme on Educational Building]]"
@@ -120,7 +122,7 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: completed
 created: 2026-04-13
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 ---
 
@@ -163,7 +165,7 @@ updated: 2026-11-11
 > |---|---|---|
 > | **官方史料与制度规范** | 《1960–1990年的教育：经合组织视角》（[[George Papadopoulos\|Papadopoulos]], 1994）、《经合组织公约》（1961）、《年度报告》（1997, 1998）。 | 1960–1990年冷战时期及组织初创阶段的欧洲重建背景。 |
 > | **治理转型与经济纲领** | 《转型中的治理：经合组织国家的公共管理改革》（OECD, 1995）、《知识经济》（OECD, 1996c）、《2030年全球化与联动》（OECD, 1996a）。 | 苏联解体后新自由主义全球化霸权确立与政府职能重塑阶段。 |
-> | **[[Transnational Education\|跨国教育]]监测与评估** | 《教育概览》（OECD, 1997）、《测量学生知识与技能：评估新框架》（OECD, 1999）、《经合组织教育工作2005–2006》（OECD, 2005）。 | PISA测评体系建立、首轮2000年结果发布及独立教育司成立时期。 |
+> | **[[Transnational Education\|跨国教育]]监测与评估** | 《[[Education at a Glance\|教育概览]]》（OECD, 1997）、《测量学生知识与技能：评估新框架》（OECD, 1999）、《经合组织教育工作2005–2006》（OECD, 2005）。 | PISA测评体系建立、首轮2000年结果发布及独立教育司成立时期。 |
 > | **社会政策与外部网络** | 《经合组织全球关系计划2007–2008》（OECD, 2007）、《性别与经济发展：[[Diane Elson\|黛安·埃尔森]]的研究》（OECD, 2006）、[[World Education Indicators\|世界教育指标]]项目档案。 | 经合组织面向中国、印度等非成员经济体扩张及社会政策工具化时期。 |
 
 ---
@@ -479,7 +481,7 @@ PISA除了测试核心认知能力外，还通过庞大的[[Questionnaire|问卷
 > *The OECD reifies globalization, that is, it treats the concept in an ontologized manner, as if it refers to an objective and self-evident entity. However, this understanding of globalization masks the fact that it presupposes a particular set of normative assumptions about how the world economic order should be organized and governed. It ignores the role that subjective agency – both individual and collective – plays in how historical changes might be shaped and steered, and the fact that the vision of globalization promoted by the OECD reflects a deliberate ideological project of economic liberalization (Bourdieu, 2003), which privileges a particular politico-economic philosophy, replacing national economic development perspectives with a singular global view of the economy.*
 
 > [!citation-card] [[PISA]]测评制造全球[[Space of Equivalence|等值空间]]与跨国[[Reliability|信度]]优先原则
-> 国际学生评估项目（PISA）由此创造了一个可[[Commensuration|通约]]的测量空间，或者用[[Alain Desrosières|阿兰·德罗西埃]]（Desrosières, 1998）的术语来说，创造了一个全球性的[[Space of Equivalence|等值空间]]。在统计技术的层面上，信度与跨国比较被赋予了绝对优先于效度与[[Ontology|本体论]]的崇高地位——也就是不再要求对被测量的事物保持概念上的深刻敏锐性。……数字所具有的力量恰恰在于，它们将构成一次测量、一个刻度、一个数字背后所涉及的大量复杂判断与决策完全变得不可见，因而也变得无可辩驳（Rose, 1999: 208）。可以说，如果没有[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]对其核心论断的有力呼应，PISA的迅速崛起是根本不可能实现的。（pp. 447–448）
+> 国际学生评估项目（PISA）由此创造了一个可[[Commensuration|通约]]的测量空间，或者用[[Alain Desrosières|阿兰·德罗西埃]]（Desrosières, 1998）的术语来说，创造了一个全球性的[[Space of Equivalence|等值空间]]。在统计技术的层面上，信度与跨国比较被赋予了绝对优先于效度与[[Ontology|本体论]]的[[The Sublime|崇高]]地位——也就是不再要求对被测量的事物保持概念上的深刻敏锐性。……数字所具有的力量恰恰在于，它们将构成一次测量、一个刻度、一个数字背后所涉及的大量复杂判断与决策完全变得不可见，因而也变得无可辩驳（Rose, 1999: 208）。可以说，如果没有[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]对其核心论断的有力呼应，PISA的迅速崛起是根本不可能实现的。（pp. 447–448）
 >
 > *PISA thus creates a commensurable space of measurement or in Alain Desrosières’ (1998) terms, a global “space of equivalence.” In terms of statistical technologies, reliability and comparison take priority over validity and ontology – being conceptually acute about what is being measured. ... As Rose (1999) has argued, policy as numbers tends to do this – the power of numbers is such that they “render invisible and hence incontestable – the complex array of judgements and decisions that go into a measurement, a scale, a number” (Rose, 1999: 208). Arguably then PISA’s [[Research in Schools Evaluation|RISE]] and rise would not have been possible without the social imaginary of knowledge economy complementing its central claims.*
 

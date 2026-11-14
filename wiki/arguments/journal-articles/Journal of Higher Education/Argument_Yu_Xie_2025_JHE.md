@@ -58,6 +58,7 @@ related_concepts:
   - "[[STEM Education]]"
   - "[[International Branch Campus]]"
   - "[[Study Abroad]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Academic Freedom]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Hard Power]]"
@@ -109,7 +110,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-26
-updated: 2026-11-11
+updated: 2026-11-14
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Yu_Xie_2025_JHE"
@@ -399,7 +400,7 @@ journal: "高等教育研究"
 
 > [!tension] 高校面对国家主权逻辑时的共谋与抵抗
 > - **共谋** 高校嵌入国家的法律框架，在处理边境治理时可能选择配合国家的移民与安全政策，通过留学生管理和数据监控参与边境控制。
-> - **抵抗** 高校基于知识伦理、国际声誉或学术价值，保有相对自主性。例如，2025年4月，哈佛大学针对美国联邦政府撤销其国际学生与交流访问者项目（SEVP）认证一事发表声明，批评此举是妨害学术自主的非法行为，并随即提起联邦诉讼、申请临时禁令，同时为受影响群体提供法律与行政支持，协调其他高校保障国际学生在美学习与研究。
+> - **抵抗** 高校基于知识伦理、国际声誉或学术价值，保有相对自主性。例如，2025年4月，哈佛大学针对美国联邦政府撤销其国际学生与交流访问者项目（SEVP）认证一事发表声明，批评此举是妨害学术自主的非法行为，并随即提起联邦诉讼、申请临时禁令，同时为受影响群体提供法律与行政支持，协调其他高校保障国际学生在[[Philosophical Aesthetics|美学]]习与研究。
 
 > [!warrant]- 博弈揭示的地缘政治洞察力
 > 高校与国家之间的博弈分析揭示了一个根本性张力，高校同时嵌入两套逻辑：

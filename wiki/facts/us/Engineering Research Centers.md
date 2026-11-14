@@ -36,12 +36,14 @@ related_concepts:
   - "[[Engineering Education]]"
   - "[[Engineering Mindset]]"
   - "[[Pilot Scale Platform]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Paradigm]]"
   - "[[Congressional Earmarks]]"
   - "[[Research Translation]]"
   - "[[Heterogeneous Integration]]"
   - "[[Counterpart Funds]]"
   - "[[Little Science]]"
+  - "[[The Sublime]]"
   - "[[University-Based Research Center]]"
 related_persons:
   - "[[Fred Block]]"
@@ -71,7 +73,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -106,7 +108,7 @@ updated: 2026-11-11
 
 > [!dev-timeline] 项目推进历程
 > - **1983–1984 — 方案动议与顶层规划期** [[National Academy of Sciences|美国国家科学院]]与国家工程院相继发布报告，确立以应对[[Competitiveness|竞争力]]危机为轴心的中心设计准则；[[Erich Bloch|埃里希·布洛赫]]（Erich Bloch）与[[Nam Pyo Suh|徐南杓]]（Nam Pyo Suh）等具有产业界与工程深厚背景的领导者主导推进制度构建。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–367, 371)]]
-> - **1985–1990 — 第一代（Gen-1）试点与制度定型期** 首批资助设立 6 所中心；面对特拉华大学与加州大学圣巴巴拉分校两所早期中心的未获续约与提前关闭，[[National Science Foundation|NSF]] 顶住政治压力坚守严格问责原则，向全美学术界树立了重实效与重规划的鲜明导向。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 367, 373)]]
+> - **1985–1990 — 第一代（Gen-1）试点与制度定型期** 首批资助设立 6 所中心；面对特拉华大学与加州大学圣巴巴拉分校两所早期中心的未获续约与提前关闭，[[National Science Foundation|NSF]] 顶住政治压力坚守严格问责原则，向全[[Philosophical Aesthetics|美学]]术界树立了重实效与重规划的鲜明导向。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 367, 373)]]
 > - **1990s–2010s — 第二/三代（Gen-2/3）模式扩散与跨部门辐射** 衍生出 NSF [[Science and Technology Centers|科学技术中心]]（STC）、地震工程研究中心（Earthquake ERCs）及纳米级科学与工程中心（NSEC），强化系统测试平台建设与微技术商业化，被英国、爱尔兰与[[National Aeronautics and Space Administration|NASA]] 广泛移植。布洛克（2008）指出，至 2007 年 NSF 支持了 50 个此类产学中心，吸引 500+ 企业合作并实现 1:10 的企业配套出资放大效应，其组织[[Paradigm|范式]]被国防部、能源部及[[Congressional Earmarks|国会专项拨款]]广泛复制。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 366, 369–370)]]; [[Argument_Block_2008_PS|(Block, 2008, p. 189)]]
 > - **2020 年代至今 — 第四代（Gen-4）升级与战略半导体联合体融合** 启动 Gen-4 ERC，强调“基础工程突破、工程研究文化重塑、社会价值与多元包容”四大支柱；其产学协同[[Paradigm|范式]]直接融入《[[CHIPS and Science Act|芯片与科学法案]]》框架下的 [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 跨校中心与奥尔巴尼 300 毫米晶圆中试协同网络。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 22–24)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 2–5)]]
 
@@ -141,7 +143,7 @@ updated: 2026-11-11
 > [!debates] 核心争议与组织张力
 >
 > > [!axis] [[Big Science|大科学]]中心对[[Little Science|小科学]]自由探索的资源挤占争议
-> > ERC 设立之初引发全美学术界强烈震荡：保守派纯基础科学学者担忧，将大量联邦经费以大额中心和合作协议形式集中，会严重抽干传统以院系为依托、面向个人科学家的自由探索 PI 资助池，甚至背离 [[National Science Foundation|NSF]] 守护纯理论探索的崇高使命。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–366)]]
+> > ERC 设立之初引发全美学术界强烈震荡：保守派纯基础科学学者担忧，将大量联邦经费以大额中心和合作协议形式集中，会严重抽干传统以院系为依托、面向个人科学家的自由探索 PI 资助池，甚至背离 [[National Science Foundation|NSF]] 守护纯理论探索的[[The Sublime|崇高]]使命。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–366)]]
 > >
 > > - **传统学术派** 主张保护个人 PI 的纯学术探索好奇心与去中心化竞争。
 > > - **产业与中心派** 强调复杂系统工程难题必须依托多学科大中心协同攻关。

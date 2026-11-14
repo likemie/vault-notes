@@ -25,6 +25,7 @@ tags:
   - region/chile
 related_concepts:
   - "[[School Vouchers]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Geopolitics]]"
   - "[[Study Abroad]]"
   - "[[Early-Career Researchers]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-25
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -57,7 +58,7 @@ updated: 2026-11-11
 
 > [!event-context] 历史背景与学术源起
 > - **时间跨度与空间发源** 始于 1956 年美国国际合作署（ICA，后并入 USAID）资助设立的“智利项目”（Chile Project），在 1973 年智利军事政变后进入权力执掌巅峰并持续至 20 世纪 80 年代末。
-> - **核心牵头主体** 芝加哥大学经济学教授米尔顿·弗里德曼（Milton Friedman）、阿诺德·哈伯格（Arnold Harberger），智利天主教大学（Pontifical Catholic University of Chile）经济学系，以及塞尔希奥·德[[Claudio de Moura Castro|卡斯特罗]]（Sergio de Castro）、埃尔南·比奇（Hernán Büchi）等智利留美学者。
+> - **核心牵头主体** 芝加哥大学经济学教授米尔顿·弗里德曼（Milton Friedman）、阿诺德·哈伯格（Arnold Harberger），智利天主教大学（Pontifical Catholic University of Chile）经济学系，以及塞尔希奥·德[[Claudio de Moura Castro|卡斯特罗]]（Sergio de Castro）、埃尔南·比奇（Hernán Büchi）等智利留[[Philosophical Aesthetics|美学]]者。
 > - **深层[[Geopolitics|地缘政治]]契机** 冷战初期美国政府与福特基金会试图遏制拉美结构主义与社会主义思潮蔓延，通过资助第三世界大学与美国顶尖学府建立对口交流，系统培育亲自由市场的本土经济知识精英。
 > - **直接执政契机** 1973 年 9 月 11 日萨尔瓦多·阿连德（Salvador Allende）民选政府遭军事政变推翻，皮诺切特军政权急需一套能够平抑恶性通货膨胀与重组国家经济的现成理论方案，芝加哥男孩起草的经济纲领《砖块》（El Ladrillo）随即成为军政府国家发展蓝图。
 

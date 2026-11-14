@@ -25,6 +25,7 @@ related_concepts:
   - "[[STEM Education]]"
   - "[[Epistemic Practices]]"
   - "[[Scientific Method]]"
+  - "[[The Sublime]]"
   - "[[Champ]]"
   - "[[Knowledge Framework]]"
   - "[[Scaffolding]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-26
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -84,7 +85,7 @@ updated: 2026-11-03
 > - **边界** 认知方式有别于彼此割裂封闭的心智模块，而在实际认识活动中高度交织；它提供了考察知识形成过程的认识论透镜，而非机械打勾的技能操作清单。
 
 > [!citation-card] 凯利与利科纳（2018）论学科认知方式与公共证据审查
-> 凯利与利科纳（Kelly & Licona）指出，认识论实践依学科领域与历史时代而变化，不存在一套固定不变的科学实践封闭清单。与教育界常将科学方法简化为线性步骤相反，人类理解经验的途径展现出多元的学科（及文化）认知方式。科学教育的核心目的在于识别人们求知的多样化方式，并确立系统化赋义的崇高价值——使经验证据处于可接受公共审查与评估的开放状态，有别于硬性定义八项实践或五步方法。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, p. 154)]]
+> 凯利与利科纳（Kelly & Licona）指出，认识论实践依学科领域与历史时代而变化，不存在一套固定不变的科学实践封闭清单。与教育界常将科学方法简化为线性步骤相反，人类理解经验的途径展现出多元的学科（及文化）认知方式。科学教育的核心目的在于识别人们求知的多样化方式，并确立系统化赋义的[[The Sublime|崇高]]价值——使经验证据处于可接受公共审查与评估的开放状态，有别于硬性定义八项实践或五步方法。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, p. 154)]]
 >
 > *Since epistemic practices are [[Champ\|field]]- and time-dependent... there is not a limited set of 'science practices.' This contrasts with how 'the scientific method' is often interpreted in education as a set of linear steps. Rather, there are disciplinary (and other!) ways of knowing that vary across the multiple ways that humans make sense of their experience. The point is not to define a given set of eight practices (NGSS Lead States 2013), or the five steps of the scientific method. Rather, the idea is to identify the ways people come to know and recognize the value of making sense in systematic ways that render evidence open for public scrutiny and evaluation.*
 

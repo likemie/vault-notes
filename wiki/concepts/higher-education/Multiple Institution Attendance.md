@@ -28,6 +28,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[European Education Space]]"
   - "[[Employability]]"
+  - "[[The Sublime]]"
   - "[[Socioeconomic Status]]"
   - "[[Document]]"
   - "[[Internationalization of Higher Education]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -84,7 +85,7 @@ updated: 2026-11-11
 > - **跨校学分积累（Cross-Institutional Credit Accumulation）** 学生在两个或更多不同独立法人高校修读并试图拼接学分。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 364)]]
 > - **转学制度摩擦（Transfer Friction）** 接收高校对原就读高校课程大纲的严苛审查，导致大量学分无法计入主修专业，形成学分流失。
 > - **系统效率损耗判定（Systemic Efficiency Deficit）** 高等教育绩效拨款框架将延长修业年限与降低按时毕业率视作资源浪费。
-> - **阶层化去神圣化（De-sanctification of Domestic Mobility）** 国内底层流动被剥夺了任何文化崇高感，呈现出与海外精英流动的阶层割裂。
+> - **阶层化去神圣化（De-sanctification of Domestic Mobility）** 国内底层流动被剥夺了任何文化[[The Sublime|崇高]]感，呈现出与海外精英流动的阶层割裂。
 
 ---
 

@@ -26,6 +26,7 @@ related_concepts:
   - "[[Technological Republic]]"
   - "[[New Public Management]]"
   - "[[Procedural Piety]]"
+  - "[[The Sublime]]"
   - "[[Discourse]]"
   - "[[Engineering Mindset]]"
   - "[[Competitiveness]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -89,7 +90,7 @@ updated: 2026-11-03
 > [!contrast-table] 概念辨析
 > | 维度 | 创始人文化（Founder Culture） | 防卫型官僚文化（Defensive [[Bureaucracy]]） | 表演性道德主义（[[Procedural Piety\|Performative Moralism]]） |
 > |:---|:---|:---|:---|
-> | **核心诉求** | 解决物理世界真实难题，交付可衡量的实质战略成果 | 严格遵循既定程序规章，规避行政、审计与舆论风险 | 宣示崇高口号与清教徒式道德纯洁性，获取文化优越感 |
+> | **核心诉求** | 解决物理世界真实难题，交付可衡量的实质战略成果 | 严格遵循既定程序规章，规避行政、审计与舆论风险 | 宣示[[The Sublime\|崇高]]口号与清教徒式道德纯洁性，获取文化优越感 |
 > | **权责结构** | 权责高度对称，领导者直接承担成败后果与战略利益 | 权责分散脱节，决策者不承受政策失误与延误的实际代价 | 零成本道德表态，将政策恶果与治理失败转嫁给一线群众 |
 > | **薪酬与人才观** | 市场化对标与权责对称激励，吸引顶尖实干与工程天才 | 压低公职薪酬并预设圣徒假设，迫使人才流向金融与游说界 | 将公职视作苦行圣职，对微小合规瑕疵发起猎巫审判 |
 > | **面对创新风险** | 设立工程底线，在复杂前线敢于打破死板规章敏捷攻坚 | 视新技术为潜在麻烦，以繁琐[[Red Tape\|繁文缛节]]阻碍技术进入 | 因潜在滥用风险而主张全面禁止，以消极避险为第一要务 |

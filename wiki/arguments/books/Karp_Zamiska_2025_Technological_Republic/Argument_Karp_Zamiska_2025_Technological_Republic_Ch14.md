@@ -46,13 +46,13 @@ related_concepts:
   - "[[Epoché]]"
   - "[[Critical Thinking Disposition]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[The Sublime]]"
   - "[[Geopolitics]]"
   - "[[Grand Theory]]"
   - "[[Agile Governance]]"
   - "[[Lean Production]]"
   - "[[Totally Pedagogised Society]]"
   - "[[Bureaucracy]]"
-  - "[[Mind and Its Wonders]]"
 related_theories:
   - "[[Mimetic Theory]]"
   - "[[Hedgehog and Fox Model]]"
@@ -80,7 +80,7 @@ related_arguments: []
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-30
+updated: 2026-11-14
 ---
 ---
 
@@ -201,7 +201,7 @@ updated: 2026-10-30
 > - **程序执行的物理二元性** 软件开发具有明确的客观性——程序要么能够正常执行，要么发生运行错误，不存在模棱两可的中间状态；编程人员必须直接面对客观反馈，任何辩解都无法改变程序运行的真实状态。
 > - **[[Herbert Hoover|胡佛]]论工程师面对公众检验的责任** 前总统[[Herbert Hoover|赫伯特·胡佛]]（Herbert Hoover）在回忆录中指出，工程师的最大责任在于其成果完全呈现在公众面前，既不能像医生那样把错误埋进坟墓，也不能像律师那样巧辩免责或推给法官；这种直接面对客观检验的特质构成了工程文化的核心（p. 160）。
 
-> [!warrant]- [[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]]：从崇高殿堂踏入泥泞激流的实验精神
+> [!warrant]- [[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]]：从[[The Sublime|崇高]]殿堂踏入泥泞激流的实验精神
 > 工程实践必须从抽象理论的殿堂深入到具体复杂的现实细节之中。正如美国哲学家[[John Dewey|约翰·杜威]]（John Dewey）在 1922 年《[[Pragmatic Paradigm|实用主义]]美国》（*Pragmatic America*）中所写，探索者必须从崇高的高傲殿堂走下来，踏入具体事物的泥泞激流之中。正视并亲近现实系统的缺陷与矛盾，是推动技术进步的动力；这种实用主义作风抑制了教条主义，激发了在完全接受某种理论前必须探究其实际运作机制的实验精神，并有力抵制了草率宽泛的概括（pp. 160–161）。
 
 > [!case] 战后[[Operation Paperclip|回形针行动]]招募德国科技人员展现的求实作风
@@ -292,7 +292,7 @@ updated: 2026-10-30
 > [!citation-card] [[Philip Tetlock|泰特洛克]]论人类追求[[Determinism|决定论]]规律与厌恶概率误差
 > 人类心智在迷宫实验中输给动物，是因为我们从本质上是决定论的思考者，厌恶那种承认错误不可避免的概率策略。
 >
-> *As Tetlock explained, the [[Mind and Its Wonders|human mind]] was bested by the animal in the maze study "because we are, deep down, deterministic thinkers with an aversion to probabilistic strategies that accept the inevitability of error."*（p. 162）
+> *As Tetlock explained, the human mind was bested by the animal in the maze study "because we are, deep down, deterministic thinkers with an aversion to probabilistic strategies that accept the inevitability of error."*（p. 162）
 
 > [!citation-card] [[Herbert Hoover|胡佛]]论工程师作品暴露于公众面前的直接责任
 > 与其他职业相比，工程师的最大责任在于他的作品完全暴露在大众眼前，所有人都能看到；工程师既不能像医生那样把错误埋进坟墓，也不能像律师那样巧舌如簧将其辩解得无影无踪，或者把责任推给法官。

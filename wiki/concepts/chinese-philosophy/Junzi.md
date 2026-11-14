@@ -28,7 +28,9 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Value Neutrality]]"
   - "[[Creativity]]"
+  - "[[The Sublime]]"
   - "[[Benevolence]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Hard Belief]]"
   - "[[Cultural Relativism]]"
   - "[[Technological Republic]]"
@@ -53,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -72,7 +74,7 @@ updated: 2026-11-11
 > *They have traveled a considerable distance along the way, living a considerable number of roles... they are serene and at peace in their persons... they perform all functions not only with skill but with grace, dignity and beauty, and find pleasure in this performance... they now work for others... especially those in need... their actions are not forced, but easy, spontaneous and creative. In short, the life of a junzi has very strong aesthetic and ethical [[Dimensions|dimensions]].*
 
 > [!citation-card] 李光耀论儒家君子美德作为小国生存与治理基石
-> 对李光耀而言，追求的理想是成为[[Confucius|孔子]]在两千多年前所倡导的“君子”——一个孝顺父母、忠于配偶、悉心教子并效忠国家的典范人物。对于当今许多人而言，这样具体的美德概念必须作为偏狭和排他而被抵制。但是，在以包容之名抛弃了这些美德之后，我们又愿意提出并捍卫何种崇高或典范生活的美德呢？[[John Rawls|约翰·罗尔斯]]的政治自由主义主张在目标上保持中立，其列出的美德（公平合作、礼貌、宽容与合理性）被证明是有限和温和的——不过是一套维持公民社会运作的无可争议的背景要求，根本无法为公共生活提供任何丰富性或文化特质。空洞的中立正使我们的辨别本能发生萎缩。我们现在必须认真对待这种可能性：正是共享文化的复兴，而非对其放弃，才能使我们继续生存与保持凝聚。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–216)]]
+> 对李光耀而言，追求的理想是成为[[Confucius|孔子]]在两千多年前所倡导的“君子”——一个孝顺父母、忠于配偶、悉心教子并效忠国家的典范人物。对于当今许多人而言，这样具体的美德概念必须作为偏狭和排他而被抵制。但是，在以包容之名抛弃了这些美德之后，我们又愿意提出并捍卫何种[[The Sublime|崇高]]或典范生活的美德呢？[[John Rawls|约翰·罗尔斯]]的政治自由主义主张在目标上保持中立，其列出的美德（公平合作、礼貌、宽容与合理性）被证明是有限和温和的——不过是一套维持公民社会运作的无可争议的背景要求，根本无法为公共生活提供任何丰富性或文化特质。空洞的中立正使我们的辨别本能发生萎缩。我们现在必须认真对待这种可能性：正是共享文化的复兴，而非对其放弃，才能使我们继续生存与保持凝聚。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–216)]]
 >
 > *For Lee Kuan Yew, the aspirational ideal was to become, as Confucius urged more than two thousand years ago, a junzi, which has been variously translated as an “exemplary person,” or “gentleman.” This was someone who is “loyal to his father and mother,” “faithful to his wife,” “brings up his children well,” and is a “loyal citizen of his emperor”... What we need is more cultural specificity—in education, technology, and politics—not less. The vacant neutrality of the current moment risks allowing our instinct for discernment to atrophy. We must now take seriously the possibility that it will be the resurrection of a shared culture, not its abandonment, that will make possible our continued survival and cohesion.*
 
@@ -95,7 +97,7 @@ updated: 2026-11-11
 
 > [!feature] 核心要素
 > - **道德品质的自致性与去贵族化** [[Confucius|孔子]]将君子从血缘出身彻底重塑为道德卓越标准，确立了人人皆可通过学习与[[Self-Cultivation|修身]]成为君子的普遍性路径。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 41–42)]]
-> - **多重社会角色的自如履行与审美维度** 君子在家庭、社群与国家的多重角色中游刃有余，不仅以娴熟技巧、更以优雅、尊严与美感履行责任，使道德实践升华为一种充满愉悦的美学生活。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 42)]]
+> - **多重社会角色的自如履行与审美维度** 君子在家庭、社群与国家的多重角色中游刃有余，不仅以娴熟技巧、更以优雅、尊严与美感履行责任，使道德实践升华为一种充满愉悦的[[Philosophical Aesthetics|美学]]生活。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 42)]]
 > - **内在宁静与从容创生的行为流露** 君子在自身之中保持宁静安详，面对外界诱惑与逆境处变不惊；其行事是发自内省仁德的自发、从容与富有[[Creativity|创造性]]，有别于受制于外在规训的被动勉强。
 > - **家庭伦理与公民忠诚的链条贯通** 儒家君子将微观家庭孝悌（孝顺父母、忠于家庭、悉心抚幼）与宏观国家政治忠诚紧密连结，构建起从修身、齐家到治国、平天下的同心圆伦理链条。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, p. 215)]]
 > - **作为城邦抵御地缘脆弱性的实质道德锚点** 在现代[[Geopolitics|地缘政治]]竞争中，君子品格为小国与面临动荡的社会提供了超越单一财富追逐的[[Hard Belief|硬信念]]，成为抵御外部危机与内部虚无的坚实支柱。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–216)]]

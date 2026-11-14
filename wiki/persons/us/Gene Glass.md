@@ -38,12 +38,12 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Positivism]]"
   - "[[Commensuration]]"
+  - "[[The Sublime]]"
   - "[[Research Scope]]"
   - "[[Epistemic Value]]"
   - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Incommensurability]]"
-  - "[[Falsification]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-06-08"
-updated: 2026-11-02
+updated: 2026-11-14
 ---
 
 > [!person-profile] 人物档案
@@ -174,7 +174,7 @@ updated: 2026-11-02
 
 本条目所依托的吉恩·格拉斯经典方法学论断与当代实证对勘引文如下。
 
-> [!citation-card] 探索变异性：科学家的崇高事业
+> [!citation-card] 探索变异性：科学家的[[The Sublime|崇高]]事业
 > 跨越[[Research Scope|研究边界]]去综合证据，并不是为了抹杀研究之间的区别，而是为了理解究竟是什么条件导致了效果的波动。探索变异性的分布本身，才是[[Meta-analysis|元分析]]不可替代的[[Epistemic Value|认识论价值]]所在。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 37)]]
 >
 > *Synthesizing evidence across research boundaries is not aimed at erasing differences between studies, but at understanding what conditions produce fluctuations in effects. Exploring the distribution of variability itself is the irreplaceable epistemological value of meta-analysis.*

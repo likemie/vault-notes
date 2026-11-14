@@ -51,6 +51,7 @@ related_concepts:
   - "[[Liberal Education]]"
   - "[[Positivism]]"
   - "[[Educational Meliorism]]"
+  - "[[The Sublime]]"
   - "[[Nationalism]]"
   - "[[Intangible Spiritual Forces]]"
   - "[[Discourse]]"
@@ -119,7 +120,7 @@ related_facts:
   - "[[World Bank]]"
 status: draft
 created: 2026-09-07
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 ---
 
@@ -198,7 +199,7 @@ updated: 2026-11-11
 这一支配性的人文精神深刻塑造了初创时期的比较教育学。学科奠基学者包括[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）以及后来的[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）与[[Robert Ulich|罗伯特·乌利希]]（Robert Ulich）等，皆秉持[[Educational Meliorism|改良主义]]、整体主义与唯心主义的研究取向（Kazamias & Schwartz, 1977; Noah & Eckstein, 1969）。
 
 > [!assumptions] 古典历史学派的核心知识前提与研究范畴
-> - **改良主义立场（Meliorism）** 坚信教育是推动人类文明进步、改善社会处境与促进道德净化的崇高事业；比较研究的终极抱负在于促进不同民族国家之间的精神理解与人道主义制度改良。（Kazamias & Schwartz, 1977）
+> - **改良主义立场（Meliorism）** 坚信教育是推动人类文明进步、改善社会处境与促进道德净化的[[The Sublime|崇高]]事业；比较研究的终极抱负在于促进不同民族国家之间的精神理解与人道主义制度改良。（Kazamias & Schwartz, 1977）
 > - **唯心主义与观念支配论（Idealism）** 坚信思想观念与文化理想从根本上支配着人类的历史行动；理解一国教育制度的关键，在于考掘其背后潜藏的哲学理想与文化信仰。
 > - **历史整体主义视界（Holism）** 强调教育制度深植于民族漫长历史的长河中，绝不可孤立抽离考察；萨德勒（1964）主张探究历史深处被遗忘的斗争与旧战役（battles long ago），汉斯（1958）系统提炼宗教（天主教、新教、正教）与世俗要素（民主、人文主义、[[Nationalism|民族主义]]、社会主义）对教育的综合塑造。
 > - **[[Intangible Spiritual Forces\|不可捉摸的精神力量]]（Intangible Spiritual Forces）** 坎德尔（Kandel, 1955, p. xix）将潜藏于教育制度之下的无形精神与文化力量作为核心分析对象；两次世界大战之间的经济大萧条、极端民族主义与极权意识形态崛起（Noah & Eckstein, 1969, p. 50），促使历史学派将全部精力倾注于通过人文哲学洞察捍卫民主制度的文化根基。

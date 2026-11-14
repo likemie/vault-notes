@@ -28,6 +28,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Allgemeine Pädagogik]]"
   - "[[Herbart-Zillerist Pedagogy]]"
+  - "[[The Sublime]]"
   - "[[Direct Instruction]]"
   - "[[Internalised Centralisation]]"
   - "[[Lecturing]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-07
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -81,7 +82,7 @@ updated: 2026-11-11
 ---
 
 > [!claim] 核心思想
-> 教育的最高目的是形成儿童坚定的道德品格与意志决断；这一过程要求教师保持崇高的道德权威与专业主导地位，依据严密的认知阶段开展结构化[[Direct Instruction|直接讲授]]，通过系统操练将外在知识转化为学生内生的理性秩序，从而锻造出服务于现代民族国家存续的合格公民。
+> 教育的最高目的是形成儿童坚定的道德品格与意志决断；这一过程要求教师保持[[The Sublime|崇高]]的道德权威与专业主导地位，依据严密的认知阶段开展结构化[[Direct Instruction|直接讲授]]，通过系统操练将外在知识转化为学生内生的理性秩序，从而锻造出服务于现代民族国家存续的合格公民。
 
 > [!citation-card] 索伊尼宁论教学阶段与品格塑造
 > 教学不仅仅是传授孤立的技能，更是在学生心灵深处构建系统化的观念网络。唯有经过教师高度严谨的引导、连贯的阐发与扎实的温习，知识才能真正转化为道德行动的力量。

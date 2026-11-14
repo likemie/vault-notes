@@ -47,6 +47,7 @@ related_concepts:
   - "[[Allgemeine Pädagogik]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Positivism]]"
+  - "[[The Sublime]]"
   - "[[Ontology]]"
   - "[[Paradigm]]"
   - "[[Phenomenon-Based Learning]]"
@@ -99,7 +100,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
@@ -276,7 +277,7 @@ updated: 2026-11-13
 > > - **绩效实证派** 追求可测量的学习产出、[[Effect Size|效应量]]与技能达标清单。
 > > - **教化哲学与批判派（Larsen, Biesta, Terhart）** 捍卫不可[[Operationalization|操作化]]的内在尊严与文化实质内容。
 >
-> > [!axis] 古典人文教化的崇高承诺 vs 二战极权浩劫中的精英共谋危机
+> > [!axis] 古典人文教化的[[The Sublime|崇高]]承诺 vs 二战极权浩劫中的精英共谋危机
 > > 围绕人文教化是否能够自发构成抵御野蛮与极权暴政的文明屏障展开深刻的史学反思。
 > >
 > > - **古典人文主义传统（Humboldt, 1961; Arnold, 1869）** 坚信研读古典人文学术能够涵养人性的至善与公义，维系社会理性与国家秩序。

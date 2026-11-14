@@ -35,6 +35,7 @@ related_concepts:
   - "[[South-South Cooperation]]"
   - "[[Transnational Education]]"
   - "[[Retroduction]]"
+  - "[[The Sublime]]"
   - "[[Soft Power]]"
   - "[[Study Abroad]]"
   - "[[Knowledge Diplomacy]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-12
+updated: 2026-11-14
 ---
 
 ---
@@ -119,7 +120,7 @@ updated: 2026-11-12
 > **政治合法性与对外战略整合** 考察历史创伤叙事如何为当代跨国政策赋权，将国内繁荣诉求转换为国际秩序重塑的行动正当性。
 
 > [!claim] Woo, E.
-> **历史正义与国家行动的因果桥接** [[Argument_Woo_2023_HEP|Woo (2023)]] 运用[[Critical Realism|批判实在论]]的[[Retroduction|逆推溯因]]（Retroduction）逻辑指出，[[Belt and Road Initiative|一带一路]]跨国教育行动之所以呈现深层战略从属性，是因为政策深植于民族复兴叙事这一基础[[Discursive Field|话语场域]]。复兴叙事建立在反转近代[[Century of Humiliation|百年屈辱]]的心理预设之上，使对外政策不仅被视作常规的国际合作，更被赋予了纠正历史不公、重塑大国尊严的崇高使命，使[[Education Going Global|教育出海]]在深层结构上必须服从于两个一百年奋斗目标的达成。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–689)]]
+> **历史正义与国家行动的因果桥接** [[Argument_Woo_2023_HEP|Woo (2023)]] 运用[[Critical Realism|批判实在论]]的[[Retroduction|逆推溯因]]（Retroduction）逻辑指出，[[Belt and Road Initiative|一带一路]]跨国教育行动之所以呈现深层战略从属性，是因为政策深植于民族复兴叙事这一基础[[Discursive Field|话语场域]]。复兴叙事建立在反转近代[[Century of Humiliation|百年屈辱]]的心理预设之上，使对外政策不仅被视作常规的国际合作，更被赋予了纠正历史不公、重塑大国尊严的[[The Sublime|崇高]]使命，使[[Education Going Global|教育出海]]在深层结构上必须服从于两个一百年奋斗目标的达成。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–689)]]
 
 ---
 

@@ -20,6 +20,7 @@ tags: [person/scientist, person/philosopher, field/immunology, field/philosophy-
 related_concepts:
   - "[[Research Question]]"
   - "[[Scientific Method]]"
+  - "[[The Sublime]]"
   - "[[Hypothesis]]"
   - "[[Praxis]]"
   - "[[Scientism]]"
@@ -44,7 +45,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -55,7 +56,7 @@ updated: 2026-11-11
 > - **代表贡献** 实验证实获得性免疫耐受（荣获 [[Nobel Prize in Physiology or Medicine\|诺贝尔生理学或医学奖]]）；在《可解的艺术》（*The Art of the Soluble*）中系统提出科学是“可解的艺术”，确立了假说的想象性直觉先入与严格排除法检验机制。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 16)]]
 
 > [!citation-card] 科学作为可解的艺术与假说的先入之见
-> 假说是富有想象力的先入之见，是一种关于尚不可见的现象的直觉，是对尚未发生事物的合理预期……好的科学家绝非仅仅是事实的搜集者。科学方法始于意识并慎重地从给定情境的所有要素中进行选择；科学是一门‘可解的艺术’——科学家研究的不是那些最崇高或最诱人的形而上问题，而是那些在现有手段下能够被实际解决的问题。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Medawar, 1981 via Cohen et al., 2011, Ch. 1, p. 16)]]
+> 假说是富有想象力的先入之见，是一种关于尚不可见的现象的直觉，是对尚未发生事物的合理预期……好的科学家绝非仅仅是事实的搜集者。科学方法始于意识并慎重地从给定情境的所有要素中进行选择；科学是一门‘可解的艺术’——科学家研究的不是那些最[[The Sublime|崇高]]或最诱人的形而上问题，而是那些在现有手段下能够被实际解决的问题。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Medawar, 1981 via Cohen et al., 2011, Ch. 1, p. 16)]]
 >
 > *[[Hypothesis\|hypotheses]] are imaginative preconceptions of what might be true, an intuitive forewarning of what the phenomenon could be... Science is the art of the soluble. If politics is the art of the possible, research is surely the art of the soluble. Both are immensely practical-minded affairs. Good scientists study the most important problems they think they can solve. It is, after all, their professional business to solve problems, not merely to grapple with them.*
 

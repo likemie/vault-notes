@@ -61,6 +61,7 @@ related_concepts:
   - "[[Evidence-Innovation Knowledge Dynamics]]"
   - "[[Theoretical Perspective]]"
   - "[[Problem Solving]]"
+  - "[[The Sublime]]"
   - "[[Discourse]]"
   - "[[Research Scope]]"
 related_theories:
@@ -90,7 +91,7 @@ sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch02_Torres_2022|Ch02_Torres_2022]]"
 status: draft
 created: 2026-09-12
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 ---
 
@@ -423,7 +424,7 @@ Révai (2020) 在 [[OECD]] 工作论文中提出了教育生态中证据与创�
 
 > [!sub-claim] 2. 终极目标在系统治理中的导向价值：乌托邦之喻
 
-针对模型普遍缺失终极目标的缺陷，Eduardo Galeano (2012) 的经典论述阐释了为生态系统确立崇高目标的治理意义：（p.51）
+针对模型普遍缺失终极目标的缺陷，Eduardo Galeano (2012) 的经典论述阐释了为生态系统确立[[The Sublime|崇高]]目标的治理意义：（p.51）
 
 > [!citation-card] 终极目标在系统治理中的导向价值：乌托邦之喻
 > 大多数框架忽略了系统追求的主要目标。承诺一个明确目标并在图示和文字中明确表述，能让教育系统及其行动者始终锁定终极方向。如果我们将教育研究视为对学生学习产生间接而缓慢影响的事物，那么学生学习可能看起来就像地平线上遥不可及的目标。无论我们走多远，都永远无法真正触及那个地平线。然而，正如 Eduardo Galeano (2012) 所言，这正是遥不可及目标的真正意义所在：它指引我们不断前行。（p.51）

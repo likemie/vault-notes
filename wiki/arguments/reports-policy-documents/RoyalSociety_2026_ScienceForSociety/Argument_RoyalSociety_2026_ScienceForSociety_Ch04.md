@@ -48,6 +48,7 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Clinical Trial]]"
   - "[[Patient and Public Involvement]]"
+  - "[[The Sublime]]"
   - "[[Theories of Policy Change]]"
   - "[[Metascience]]"
   - "[[Document]]"
@@ -86,7 +87,7 @@ related_facts:
   - "[[Gatsby Benchmarks]]"
 status: draft
 created: 2026-09-04
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 ---
 
@@ -322,7 +323,7 @@ updated: 2026-11-11
 第三部门（Third Sector）涵盖非政府、非商业的各类慈善组织、志愿与社区社群、社会企业、合作社以及非政府组织（Non-Governmental Organizations, NGOs）。（pp. 74–75）
 
 > [!claim|lead] 步骤四核心主张
-> 第三部门以崇高使命为绝对驱动，拥有全社会最深厚的信任纽带与全流程参与专业经验；医学研究慈善联合会（[[Advanced Manufacturing Research Centre\|AMRC]]）将患者真实生活体验机制化融入 16 亿英镑研发生态，自然保护与土地管理机构依托数百万大众会员动员大规模[[Citizen Science\|公民科学]]，为整个科学界重构公众信任提供了示范性的实操范本。（pp. 74–75）
+> 第三部门以[[The Sublime|崇高]]使命为绝对驱动，拥有全社会最深厚的信任纽带与全流程参与专业经验；医学研究慈善联合会（[[Advanced Manufacturing Research Centre\|AMRC]]）将患者真实生活体验机制化融入 16 亿英镑研发生态，自然保护与土地管理机构依托数百万大众会员动员大规模[[Citizen Science\|公民科学]]，为整个科学界重构公众信任提供了示范性的实操范本。（pp. 74–75）
 
 > [!sub-claim] 主题一：医学研究慈善机构（AMRC）与患者生活经验深度嵌入研发生态
 

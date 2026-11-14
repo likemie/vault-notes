@@ -30,6 +30,7 @@ related_concepts:
   - "[[Academic Emotions]]"
   - "[[Construct]]"
   - "[[Pride in Learning]]"
+  - "[[The Sublime]]"
   - "[[Humility]]"
   - "[[Benevolence]]"
   - "[[Pragmatic Paradigm]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -84,7 +85,7 @@ updated: 2026-11-03
 > | 比较维度 | 理智情感（Intellectual Emotions） | 道德情感（Moral Emotions） | 审美情感（Aesthetic Emotions） | 功利化学业情绪（Achievement Emotions） |
 > |---|---|---|---|---|
 > | **核心评价客体** | 知识状态、信息缺口、理论融贯性与真理 | 行为伦理规范、他人福祉与社会公平 | 艺术形式、对称和谐与感官意象 | 考试成绩、排名竞争与外在奖惩 |
-> | **典型情感表现** | 好奇心、惊奇、着迷、[[Epistemology\|认识论]]困惑、理智敬畏 | 愧疚、同情、愤慨、道德[[Pride in Learning\|自豪]] | 优美感、崇高感、感官陶醉 | 考试焦虑、得失恐惧、胜任感 |
+> | **典型情感表现** | 好奇心、惊奇、着迷、[[Epistemology\|认识论]]困惑、理智敬畏 | 愧疚、同情、愤慨、道德[[Pride in Learning\|自豪]] | 优美感、[[The Sublime\|崇高]]感、感官陶醉 | 考试焦虑、得失恐惧、胜任感 |
 > | **核心促成功能** | 驱动自主探究，培育[[Epistemic Virtues and Vices\|理智美德]]与概念转变 | 维系道德责任与利他亲社会行为 | 丰富精神感知与艺术创造体验 | 调控短期学习努力程度与任务完成度 |
 > | **德性转化路径** | 转化为理智[[Humility\|谦逊]]、思想开放与探究[[Creativity\|创造力]] | 转化为同理心、正义与[[Benevolence\|仁爱]]美德 | 转化为审美鉴赏力与艺术直觉 | 难以自发转化为内在品格，易诱发外在工具主义 |
 

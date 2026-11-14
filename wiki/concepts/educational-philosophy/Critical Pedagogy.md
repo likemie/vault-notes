@@ -50,6 +50,7 @@ related_concepts:
   - "[[Structural Adjustment Programs]]"
   - "[[Hidden Curriculum]]"
   - "[[Paradigm]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[South-South Cooperation]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Forced Knowledge Transfer]]"
@@ -86,7 +87,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -195,7 +196,7 @@ updated: 2026-11-11
 > **教育即政治与超越西方资本主义现代性** 伊拉·肖尔与[[Paulo Freire|保罗·弗莱雷]]（Shor & Freire, 1987）深刻指出，教育在本质上蕴含着鲜明的政治属性，根本不存在脱离政治意识形态的中立教育。[[Val D. Rust|瓦尔·拉斯特]]等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）进一步结合[[Henry Giroux|吉鲁]]（Henry Giroux）的再生产理论，批判主流比较教育学长期将追求西方工业现代性作为定义教育的潜意识基准，实质上合谋了资本主义跨国扩张；核心国家通过附带苛刻前置条件的跨国援助与[[Structural Adjustment Programs|结构调整方案]]，向发展中国家强制移植私有化体制与依附性[[Hidden Curriculum|隐蔽课程]]。[[UNESCO|联合国教科文组织]]《[[Education for All|全民教育]]》（EFA）在亚非拉的推进历程表明，被迫照搬外部市场化模式的国家普遍受挫，而坚持主权自决与社会主义人道主义国家动员的古巴则取得了突出的教育成就。比较教育学必须彻底扬弃技术官僚干涉，转向以主权自决与社会正义为核心的解放实践（praxis of liberation）。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 133–135)]]
 
 > [!claim] Stone, D., Porto de Oliveira, O., & Pal, L. A.
-> **[[Representational Knowledge|代表性知识]]反向流动打破北方中心[[Paradigm|范式]]垄断** 黛安·斯通等学者（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）指出，批判教育学在发轫之初即深深植根于全球南方的生存体验与底层道义团结（Freire, 1970）。20 世纪 70 年代，弗莱雷在流亡期间通过世界基督教协进会以及与坦桑尼亚总统朱利叶斯·尼雷尔（Julius Nyerere）等南方领袖的实践合作，推动以意识化与批判性对话为核心的代表性知识反向流动至日内瓦、欧洲和北美学术界，打破了全球北方对教育知识流动的单向技术垄断，在跨国政策空间确立了具有南方向北方扩散特征的解放范式。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 6–7)]]
+> **[[Representational Knowledge|代表性知识]]反向流动打破北方中心[[Paradigm|范式]]垄断** 黛安·斯通等学者（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）指出，批判教育学在发轫之初即深深植根于全球南方的生存体验与底层道义团结（Freire, 1970）。20 世纪 70 年代，弗莱雷在流亡期间通过世界基督教协进会以及与坦桑尼亚总统朱利叶斯·尼雷尔（Julius Nyerere）等南方领袖的实践合作，推动以意识化与批判性对话为核心的代表性知识反向流动至日内瓦、欧洲和北[[Philosophical Aesthetics|美学]]术界，打破了全球北方对教育知识流动的单向技术垄断，在跨国政策空间确立了具有南方向北方扩散特征的解放范式。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 6–7)]]
 
 ---
 

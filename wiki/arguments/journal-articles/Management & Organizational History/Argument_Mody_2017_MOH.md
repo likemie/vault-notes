@@ -28,6 +28,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Knowledge Transfer]]"
   - "[[Academic Freedom]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[University-Based Research Center]]"
   - "[[Citation Aging]]"
   - "[[Engineering Education]]"
@@ -66,7 +67,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-06
-updated: 2026-11-11
+updated: 2026-11-14
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Mody_2017_MOH"
@@ -208,7 +209,7 @@ issuing_organization: ""
 > [!sub-claim] 2. 康奈尔大学 NRRFSS：国家用户设施、工业界游说与问责调整
 
 > [!case] 康奈尔大学 NRRFSS 的国家用户设施定位
-> 康奈尔大学依托国家科学基金会（National Science Foundation, NSF）的全国竞标建立了国家用户设施。前贝尔实验室研究员杰弗里·哈里斯（Jeffrey Harris）借调到 NSF 担任项目官员，通过组织多次行业研讨会并援引日本竞争危机，成功化解了英特尔联合创始人罗伯特·诺伊斯与国防部的质疑，将中心确立为向全美学术界与产业界开放的公共制造试验平台。
+> 康奈尔大学依托国家科学基金会（National Science Foundation, NSF）的全国竞标建立了国家用户设施。前贝尔实验室研究员杰弗里·哈里斯（Jeffrey Harris）借调到 NSF 担任项目官员，通过组织多次行业研讨会并援引日本竞争危机，成功化解了英特尔联合创始人罗伯特·诺伊斯与国防部的质疑，将中心确立为向全[[Philosophical Aesthetics|美学]]术界与产业界开放的公共制造试验平台。
 
 NRRFSS 在运营过程中不仅为 40 余家机构提供微纳实验室建设咨询，更展现出非凡的政治与治理适应力：
 

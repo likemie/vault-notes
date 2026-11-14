@@ -17,6 +17,7 @@ tags:
   - theme/secularization
   - theme/higher-education
 related_concepts:
+  - "[[The Sublime]]"
   - "[[Hard Belief]]"
 related_theories: []
 related_methods: []
@@ -30,13 +31,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
 
 > [!def] Culture of Disbelief
-> 不信文化（Culture of Disbelief）是由法学教授[[Stephen L. Carter|斯蒂芬·L. 卡特]]（Stephen L. Carter）提出的社会学与法哲学概念，指在当代西方受过高等教育的统治阶级、大学学府与企业董事会中，普遍形成的一种对宗教信仰与超验承诺的制度性偏见与贬抑：在这一文化氛围中，唯有世俗功利主义被视为合法的理智思考，而任何严肃对待崇高信念与非功利价值的人都被标签化为反理性的偏执狂热分子。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 72)]]
+> 不信文化（Culture of Disbelief）是由法学教授[[Stephen L. Carter|斯蒂芬·L. 卡特]]（Stephen L. Carter）提出的社会学与法哲学概念，指在当代西方受过高等教育的统治阶级、大学学府与企业董事会中，普遍形成的一种对宗教信仰与超验承诺的制度性偏见与贬抑：在这一文化氛围中，唯有世俗功利主义被视为合法的理智思考，而任何严肃对待[[The Sublime|崇高]]信念与非功利价值的人都被标签化为反理性的偏执狂热分子。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 72)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示当代自由主义与世俗精英在标榜“开放与包容”的同时，对超验性道德信念与深层精神追求表现出的隐蔽不宽容。

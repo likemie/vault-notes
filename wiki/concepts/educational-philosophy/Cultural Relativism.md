@@ -25,6 +25,7 @@ related_concepts:
   - "[[Western Civilization Course]]"
   - "[[Cosmopolitanism]]"
   - "[[Grand Theory]]"
+  - "[[The Sublime]]"
   - "[[Pride in Learning]]"
   - "[[Civic Rituals]]"
   - "[[Nationalism]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-09
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -83,7 +84,7 @@ updated: 2026-11-11
 > | 维度 | 文化相对主义（Cultural Relativism） | 启蒙客观卓越论（Kenneth Clark, 1969） | 技术共和主义德性论（[[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska, 2025]]） |
 > |---|---|---|---|
 > | **价值前提** | 一切文化生活模式同等有效，禁止优劣评判 | 文明是通往美、真理与卓越的客观进军 | 必须确立具体的伦理特质与审美裁量权 |
-> | **审美与品味** | 还原为阶级地位争夺符号（凡勃伦还原论） | 承载客观崇高与人类心智扩大的成果 | 前沿技术创新依赖创始人不可妥协的审美品味 |
+> | **审美与品味** | 还原为阶级地位争夺符号（凡勃伦还原论） | 承载客观[[The Sublime\|崇高]]与人类心智扩大的成果 | 前沿技术创新依赖创始人不可妥协的审美品味 |
 > | **对国家与教育的影响** | 拆解通识大纲，诱发[[Technological Agnosticism\|技术不可知论]] | 维系精英贵族[[Pride in Learning\|自豪]]感，但易陷入排他狭隘 | 以公立教育正典与[[Civic Rituals\|公民仪式]]重铸国家价值锚桩 |
 > | **潜在危机** | 导致文化虚无主义、辨别力萎缩与平庸陷阱 | 容易忽视非西方本土经验的多样性贡献 | 若缺乏开放包容易滑向盲目[[Nationalism\|民族主义]] |
 

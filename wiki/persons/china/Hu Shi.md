@@ -28,6 +28,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Pragmatism in China]]"
   - "[[Scientific Method]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Grandes Ecoles]]"
   - "[[Falsification]]"
 related_theories: []
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-11-14
 ---
 
 ---
@@ -62,7 +63,7 @@ updated: 2026-10-22
 
 > [!timeline] 生平与职涯
 > - **1891** 出生于上海（祖籍安徽绩溪）。
-> - **1910–1917** 留美学习，先入康奈尔大学农学院，后转入哥伦比亚大学哲学系，师从[[John Dewey\|杜威]]获得博士学位。
+> - **1910–1917** 留[[Philosophical Aesthetics|美学]]习，先入康奈尔大学农学院，后转入哥伦比亚大学哲学系，师从[[John Dewey\|杜威]]获得博士学位。
 > - **1917** 回国任北京大学教授，加入《新青年》编辑部，发起白话文运动。
 > - **1919–1921** 在[[John Dewey\|杜威]]访华期间担任其全国巡回讲演的首席翻译与讲学组织者。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.73]]）
 > - **1920–1930年代** 倡导“多研究些问题，少谈些主义”，主持《努力周报》《独立评论》，推动“整理国故”运动。

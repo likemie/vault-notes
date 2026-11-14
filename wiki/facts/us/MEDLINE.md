@@ -31,6 +31,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Emergence]]"
   - "[[Causality]]"
+  - "[[Philosophical Aesthetics]]"
 related_theories: []
 related_methods:
   - "[[Bibliometric Analysis]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-11-03"
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -123,7 +124,7 @@ updated: 2026-11-11
 > > [!axis] 收录地域分布与全球代表性争议
 > > 发展中国家学者对 MEDLINE 收录期刊长期偏向北美与西欧英语学术出版物提出学术公平质疑。
 > >
-> > - **批评观点** 期刊遴选委员会的评价标准深植于欧美学术规范，收录文献中非英语及发展中国家本土热带医学、传统医学期刊占比较低，导致全球医学知识网络呈现区域中心主义偏向。
+> > - **批评观点** 期刊遴选委员会的评价标准深植于欧[[Philosophical Aesthetics|美学]]术规范，收录文献中非英语及发展中国家本土热带医学、传统医学期刊占比较低，导致全球医学知识网络呈现区域中心主义偏向。
 > > - **回应辩护** LSTRC 坚持学术质量与伦理规范为第一优先准则，并通过拓展全球学术编委网络与多语种摘要收录机制，持续提升数据库对全球高水平公共卫生研究的代表性。
 
 

@@ -46,6 +46,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Discourse]]"
   - "[[Scientific Paradigm]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Foundational Literacy and Numeracy]]"
   - "[[Positivism]]"
   - "[[Scientism]]"
@@ -73,7 +74,7 @@ sources:
 part_of:
 status: draft
 created: 2026-09-21
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
@@ -180,7 +181,7 @@ updated: 2026-11-13
 >   - **阅读价值** 从科学社会学与[[Ethnography\|人种志]]观察中的微观[[Discourse|话语]]实践（Kelly & Licona），过渡到教育心理学中[[Self-Regulated Learning\|自我调节学习]]理论与显性[[Reflexivity\|反思性]] [[Nature of Science\|NOS]] 的深度平行对应（Peters-Burton），最终追溯至历史源头——马赫论科学教学中心理发生优先于纯粹逻辑推演的经典洞见，形成了科学教育认识论转向的立体透视。
 > - **主题线索三：科学概念建构的四支柱模型与课程合理性辩护** 探讨学科核心概念（如力学[[Construct\|构念]]、能量守恒定律、生物演化论）如何依托科学史哲完成课程重构与意义建构。
 >   - **相关章节** Ch. 8 Argument_Galili_2018_ScientificKnowledgeCulture；Ch. 9 Argument_Lehavi_Eylon_2018_EnergyCurriculumHPS；Ch. 10 Argument_Smith_2018_EvolutionJustifications。
->   - **阅读价值** 克服科学课程单纯面向考试与升学的功利主义取向。Galili 阐明文化内容知识如何展现[[Scientific Paradigm\|科学范式]]演进；Lehavi 和 Eylon 提出了整合科学、科学史、科学哲学与科学教育研究的四支柱课程研发模型；Smith 则揭示了现行演化论教学中功利辩护的破产，主张以美学、存在性与[[Foundational Literacy and Numeracy|基础素养]]重新确立演化论在现代思想中的根基。
+>   - **阅读价值** 克服科学课程单纯面向考试与升学的功利主义取向。Galili 阐明文化内容知识如何展现[[Scientific Paradigm\|科学范式]]演进；Lehavi 和 Eylon 提出了整合科学、科学史、科学哲学与科学教育研究的四支柱课程研发模型；Smith 则揭示了现行演化论教学中功利辩护的破产，主张以[[Philosophical Aesthetics|美学]]、存在性与[[Foundational Literacy and Numeracy|基础素养]]重新确立演化论在现代思想中的根基。
 > - **主题线索四：权威传递、证据信念与教条灌输的边界审视** 直面科学教育中由于学科专业壁垒而产生的不经反思即可接受结论的认识论困境。
 >   - **相关章节** Ch. 11 Argument_Hansson_2018_IndoctrinationHiddenCurriculum；Ch. 12 Argument_Wagner_2018_WarrantedIndoctrination。
 >   - **阅读价值** Hansson 揭示了课堂中未经检验的[[Positivism\|实证主义]]、唯[[Scientism\|科学主义]]形象如何构成[[Hidden Curriculum|隐性课程]]中的教条灌输，损害了学生对科学的认同；Wagner 则从分析哲学视角论证了在进入专门学科门槛时，暂时的权威认同与基本程序接纳可作为正当性灌输（warranted indoctrination）的必要基准，关键在于这一基准能否成功引导学生走向对证据提出独立质疑的成熟阶段。

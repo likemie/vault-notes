@@ -33,6 +33,7 @@ related_concepts:
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Discourse]]"
   - "[[Competitiveness]]"
+  - "[[The Sublime]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Research Question]]"
   - "[[Policy Mobility]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-26
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -125,7 +126,7 @@ updated: 2026-11-11
 ---
 
 > [!theory-proposition] 命题一｜政策垄断依赖排他性制度场所与积极[[Policy Image|政策形象]]的双重维系
-> 在常规政治时期，政策子系统呈现极强的制度惯性。特定利益联盟通过将自身权力锚定在排他性的制度场所内，并对外输出符合主流价值观的正面政策形象，能够有效将外部反对意见隔绝在正式决策议程之外，形成稳固的政策垄断。在教育领域，美国各州教育厅与地方学区依据宪法第十修正案形成的地方分权格局，长期维系着各自制定标准的政策垄断，其正面形象正是崇高的地方民主与防止联邦干预。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
+> 在常规政治时期，政策子系统呈现极强的制度惯性。特定利益联盟通过将自身权力锚定在排他性的制度场所内，并对外输出符合主流价值观的正面政策形象，能够有效将外部反对意见隔绝在正式决策议程之外，形成稳固的政策垄断。在教育领域，美国各州教育厅与地方学区依据宪法第十修正案形成的地方分权格局，长期维系着各自制定标准的政策垄断，其正面形象正是[[The Sublime|崇高]]的地方民主与防止联邦干预。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
 
 > [!example|notitle]
 > 美国长期以来各州自主制定课程标准的格局：1990 年代联邦自上而下推行国家标准的尝试遭遇惨败，保守派指责其侵蚀州权，自由派指责其加剧考试不公，促使分散割裂的各州标准垄断进一步固化。

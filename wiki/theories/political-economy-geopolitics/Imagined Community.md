@@ -53,6 +53,7 @@ related_concepts:
   - "[[Language-of-Power]]"
   - "[[Bilingual Education Policy]]"
   - "[[Cosmopolitanism]]"
+  - "[[The Sublime]]"
   - "[[Innovation Park]]"
   - "[[Grand Theory]]"
   - "[[Normal School]]"
@@ -162,7 +163,7 @@ updated: 2026-11-14
 > 新加坡在独立之初面临 12 种方言与多族裔割裂，[[Lee Kuan Yew|李光耀]]政府依据《[[Goh Report|吴庆瑞报告]]》推行[[Speak Mandarin Campaign|讲华语运动]]与[[Bilingual Education Policy|双语政策]]，以共享语言与国家叙事整合多元族群，最终创造了高科技产业与跨越式经济繁荣。
 
 > [!theory-proposition] 命题五｜放弃巡守“情感民族”边界导致认同真空与商业技术公社的替代性崛起
-> 部分当代学者因担忧排他性风险而主张解构国家边界，倡导去国家化的[[Cosmopolitanism|世界主义]]。然而卡普与扎米斯卡指出，人类寻找超越个体的归属感属于深层心理刚需。当国家主动放弃维护“情感民族”边界与崇高公共神话时，留下来的意义真空迅速被商业消费、财富阶层与亚文化部落填补。硅谷科技企业顺势将园区改造成封闭自足的技术城邦，通过全员股权绑定与全包式福利提供替代性的集体归属，导致公共社会的碎片化。维系现代国家共同体，依然需要健全的公共叙事与持续的公民实践认同。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 191–198)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(pp. 216–218)]]
+> 部分当代学者因担忧排他性风险而主张解构国家边界，倡导去国家化的[[Cosmopolitanism|世界主义]]。然而卡普与扎米斯卡指出，人类寻找超越个体的归属感属于深层心理刚需。当国家主动放弃维护“情感民族”边界与[[The Sublime|崇高]]公共神话时，留下来的意义真空迅速被商业消费、财富阶层与亚文化部落填补。硅谷科技企业顺势将园区改造成封闭自足的技术城邦，通过全员股权绑定与全包式福利提供替代性的集体归属，导致公共社会的碎片化。维系现代国家共同体，依然需要健全的公共叙事与持续的公民实践认同。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 191–198)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(pp. 216–218)]]
 
 > [!example|notitle]
 > 硅谷[[Innovation Park|科技园区]]为工程师提供从餐饮、住宿到娱乐的全方位供给，员工在此获得强烈的使命归属与股权回报，成为独立于国家[[Grand Theory|宏大叙事]]之外的高科技自治城邦。

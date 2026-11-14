@@ -25,6 +25,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Academic Achievement]]"
   - "[[Global Education Reform Movement]]"
+  - "[[The Sublime]]"
   - "[[The Curse of Success]]"
   - "[[Formative Assessment]]"
   - "[[High-Stakes Testing]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -63,7 +64,7 @@ updated: 2026-11-11
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指主权国家或学派在教学组织、学业评估与学生分流上采取与全球主流常识相悖的制度安排，却依然达成高水平[[Academic Achievement|学业成就]]与社会公平的理论命题集群。
 > - **用途** 用于解构芬兰基础教育成功的本土制度逻辑，分析国家教育品牌微观个性的叙事建构，并作为抗衡[[Global Education Reform Movement|全球教育改革运动]]（GERM）机械问责的理论支架。
-> - **边界** 依赖于均质福利社会托底与崇高教师专业声望的历史土壤，不适合脱离具体制度前提直接作为可移植的简易政策处方。
+> - **边界** 依赖于均质福利社会托底与[[The Sublime|崇高]]教师专业声望的历史土壤，不适合脱离具体制度前提直接作为可移植的简易政策处方。
 
 > [!citation-card|notitle] 关键表述
 > 在微观层面上，芬兰教育的个性特征则表现为著名的“芬兰悖论”：教得少，学得多；考试少，成绩好；越多样，越公平。这三个悖论来源于帕思·萨尔伯格的畅销书《芬兰道路：世界可以从芬兰教育改革中学到什么？》……芬兰教育的三个悖论基本囊括了微观层面上芬兰教育的个性优势，体现了芬兰的“教育精神”。[[Argument_Yang_2023_ICE|(杨明全和邓丽, 2023, p. 6)]]

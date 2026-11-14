@@ -34,6 +34,7 @@ related_concepts:
   - "[[Grammar of Schooling]]"
   - "[[Paradigm]]"
   - "[[Classroom Management]]"
+  - "[[The Sublime]]"
   - "[[Cultural Capital]]"
   - "[[Direct Instruction]]"
 related_theories: []
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-08
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -111,7 +112,7 @@ updated: 2026-11-11
 > > [!axis] 精英温室与真实薄弱校情境的落差
 > > 肯定者认为实习学校提供了尽善尽美的专业示范标杆；批评者则指出其实习生源与教学设施过于优越，难以充分锻炼师范生应对偏远薄弱校生源多样性与[[Classroom Management|课堂管理]]挑战的能力。
 > >
-> > - **示范标准视角** 规范的临床环境有助于新人养成严谨规范的教学习惯，树立崇高的专业标准信仰。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 18–19)]]
+> > - **示范标准视角** 规范的临床环境有助于新人养成严谨规范的教学习惯，树立[[The Sublime|崇高]]的专业标准信仰。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 18–19)]]
 > > - **情境脱节担忧** 实习学校家长[[Cultural Capital|文化资本]]雄厚且少有严重纪律问题，导致新教师在普通公立学校独立任教初期面临较大的现实适应冲击。
 
 ---

@@ -35,6 +35,7 @@ related_concepts:
   - "[[Smart Buys]]"
   - "[[Deliberative Space]]"
   - "[[Phronesis]]"
+  - "[[The Sublime]]"
   - "[[Data Literacy]]"
   - "[[Transnational Education]]"
   - "[[Evidence-Based Education]]"
@@ -58,7 +59,7 @@ related_theories:
 confidence: medium
 status: draft
 created: 2026-10-23
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -113,7 +114,7 @@ updated: 2026-11-11
 > **语言修辞与认知层级建构** 探讨国际多边组织如何调动象征性隐喻与叙事修辞塑造证据文化，揭示普遍主义知识供给对地方情境经验的[[Epistemology|认识论]]排斥机制。
 
 > [!claim] [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]]
-> **修辞隐喻对证据文化与认知层级的建构** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）基于对[[OECD|经合组织]]（OECD）、[[UNESCO|联合国教科文组织]]（UNESCO）与[[World Bank|世界银行]]（World Bank）6 份核心政策文本的[[Interpretive Policy Analysis|解释性政策分析]]指出，超国家组织所调动的修辞隐喻不仅具有阐释功能，更实质性地参与了证据文化的制度建构。例如，OECD 将[[Evidence-Based Policy-Making|循证决策]]比喻为“爵士乐队”，将研究证据设定为基准低音旋律而将地方实践裁量视作即兴伴奏；世界银行与全球教育证据顾问小组（[[Global Education Evidence Advisory Panel|GEEAP]]）则将政策团队界定为“[[Smart Buys|智能购买]]者”，推崇高性价比标准化证据采购。这些隐喻将量化实验与[[Meta-meta-analysis|二阶元分析]]确立为至高认知层级，把证据文化塑造成崇尚跨国普遍主义处方的体系，边缘化了地方教育实践者的[[Tacit Knowledge|默会知识]]与语境特异性经验。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 341, 346–348)]]
+> **修辞隐喻对证据文化与认知层级的建构** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）基于对[[OECD|经合组织]]（OECD）、[[UNESCO|联合国教科文组织]]（UNESCO）与[[World Bank|世界银行]]（World Bank）6 份核心政策文本的[[Interpretive Policy Analysis|解释性政策分析]]指出，超国家组织所调动的修辞隐喻不仅具有阐释功能，更实质性地参与了证据文化的制度建构。例如，OECD 将[[Evidence-Based Policy-Making|循证决策]]比喻为“爵士乐队”，将研究证据设定为基准低音旋律而将地方实践裁量视作即兴伴奏；世界银行与全球教育证据顾问小组（[[Global Education Evidence Advisory Panel|GEEAP]]）则将政策团队界定为“[[Smart Buys|智能购买]]者”，推[[The Sublime|崇高]]性价比标准化证据采购。这些隐喻将量化实验与[[Meta-meta-analysis|二阶元分析]]确立为至高认知层级，把证据文化塑造成崇尚跨国普遍主义处方的体系，边缘化了地方教育实践者的[[Tacit Knowledge|默会知识]]与语境特异性经验。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 341, 346–348)]]
 
 ---
 

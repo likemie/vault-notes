@@ -31,6 +31,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Transnational Education]]"
   - "[[Whiggism]]"
+  - "[[The Sublime]]"
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Positivism]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-06
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 ---
@@ -164,7 +165,7 @@ updated: 2026-11-13
 > **开放国家认同与地缘政治生存** 探讨后现代去国家化思潮下，放弃探寻共有国民性格对社会凝聚力与战略安全带来的深层危机。
 
 > [!claim] Karp, A. & Zamiska, N.
-> **摒弃国民性格探寻导致的文化真空与阶层异化** 卡普与扎米斯卡指出，现代西方学术界与左翼将研究重心从探寻国家认同与国民性格转移至单向聚焦内部冲突与撕裂，直接导致了公共领域的文化真空；这种真空迅速被消费主义所捕获，使身份与归属完全被财富阶层所定义；重构[[Technological Republic|技术共和国]]必须重塑一种超越族裔血统、面向崇高公共善的开放国民性格。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 193–194)]]
+> **摒弃国民性格探寻导致的文化真空与阶层异化** 卡普与扎米斯卡指出，现代西方学术界与左翼将研究重心从探寻国家认同与国民性格转移至单向聚焦内部冲突与撕裂，直接导致了公共领域的文化真空；这种真空迅速被消费主义所捕获，使身份与归属完全被财富阶层所定义；重构[[Technological Republic|技术共和国]]必须重塑一种超越族裔血统、面向[[The Sublime|崇高]]公共善的开放国民性格。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 193–194)]]
 
 ---
 

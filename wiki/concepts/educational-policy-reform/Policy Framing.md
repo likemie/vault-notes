@@ -28,6 +28,7 @@ related_concepts:
   - "[[International Branch Campus]]"
   - "[[Study Abroad]]"
   - "[[Community of Shared Future for Mankind]]"
+  - "[[The Sublime]]"
   - "[[Geopolitics]]"
   - "[[Grand Theory]]"
   - "[[Hard Power]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -108,7 +109,7 @@ updated: 2026-11-11
 > **认知塑造与正当性生产** 政策框架通过选择性地聚焦特定困境并将特定方案自然化为唯一解药，在[[Epistemology|认识论]]层面预先划定了行动合法性的边界。
 
 > [!claim] [[Argument_Woo_2023_HEP|Woo (2023)]]
-> **国家战略导向的问题解法绑定** 在中国推进[[Belt and Road Education Action Plan|“一带一路”教育行动]]的政策建构中，诊断性框架将沿线国家教育协同不足与技术人才匮乏界定为基础设施建设推进的阻碍，处方性框架随即顺理成章地将中国高等教育[[International Branch Campus|境外办学]]、[[Study Abroad|留学]]生奖学金供给、联合科研平台与应用型技术培训确立为不可或缺的解方，激励性框架则以“互利共赢”与“[[Community of Shared Future for Mankind|命运共同体]]”赋予行动崇高道义。这一框架化过程将教育系统与[[Geopolitics|地缘政治]]经济战略紧密衔接，使教育资源的跨国配置获得了充分的政治正当性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 683–687)]]
+> **国家战略导向的问题解法绑定** 在中国推进[[Belt and Road Education Action Plan|“一带一路”教育行动]]的政策建构中，诊断性框架将沿线国家教育协同不足与技术人才匮乏界定为基础设施建设推进的阻碍，处方性框架随即顺理成章地将中国高等教育[[International Branch Campus|境外办学]]、[[Study Abroad|留学]]生奖学金供给、联合科研平台与应用型技术培训确立为不可或缺的解方，激励性框架则以“互利共赢”与“[[Community of Shared Future for Mankind|命运共同体]]”赋予行动[[The Sublime|崇高]]道义。这一框架化过程将教育系统与[[Geopolitics|地缘政治]]经济战略紧密衔接，使教育资源的跨国配置获得了充分的政治正当性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 683–687)]]
 
 ---
 

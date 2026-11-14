@@ -27,6 +27,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Epistemology]]"
   - "[[Research Tool]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Creativity]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Variable]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -78,7 +79,7 @@ updated: 2026-11-11
 > | **认知距离** | 较近，概念与[[Research Tool\|实验工具]]具有高度亲和性 | 极远，认识论基础与评价规范截然不同 | 零，完全局限于单一专门领域范式 |
 > | **核心驱动力** | 方法迁移（掌握的工具向新问题外溢） | 宏观问题牵引或哲学思辨灵感启发 | 既定学术谱系内部的纵深技术掘进 |
 > | **转换成本** | 适中，原学科训练直接作为跳板赋能 | 极高，面临知识重建与学术社会化阻滞 | 极低，[[Path Dependence\|路径依赖]]强，无范式转换门槛 |
-> | **典型实践形态** | 物理化学、化学生物学、计量经济学 | 神经美学、量子文学批评、科技伦理 | 经典有机合成、纯代数几何推演 |
+> | **典型实践形态** | 物理化学、化学生物学、计量经济学 | 神经[[Philosophical Aesthetics\|美学]]、量子文学批评、科技伦理 | 经典有机合成、纯代数几何推演 |
 
 ---
 

@@ -31,6 +31,7 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Mission-Oriented Research]]"
 related_theories: []
 related_methods: []
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -126,7 +127,7 @@ updated: 2026-11-11
 > - **激发学术界争取自由研究的制度化博弈** 其单一军事任务导向直接引发哈佛大学[[James B. Conant|柯南特]]与加州理工学院杜布里奇等学术领袖的抵制，促使科学家通过白宫顾问委员会游说转向同行评议与基础探索。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 36, 40)]]
 
 > [!stat-cards]- 核心规模数据
-> - **76%** 二战后至卫星危机前五角大楼与原子能委员会大学研究支出占全美学术科研投入总额比重。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 37)]]
+> - **76%** 二战后至卫星危机前五角大楼与原子能委员会大学研究支出占全[[Philosophical Aesthetics|美学]]术科研投入总额比重。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 37)]]
 > - **$3.1B** 1953年联邦资助研发总支出规模（从1951年的13亿美元迅速上升至31亿美元）。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 35)]]
 
 ---

@@ -37,6 +37,7 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Epoché]]"
   - "[[Visible Learning]]"
+  - "[[The Sublime]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -170,7 +171,7 @@ updated: 2026-11-03
 > > 针对统计正态化的弊端，学界在应对路径上存在渐进修补与根本替代的分歧。
 > >
 > > - **施奈德与技术改良派** 主张通过完善 SEER 卓越标准，强制在实验中拆解干预构件并报告亚组效应，在量化框架内解决两极不均问题。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 207–208)]]
-> > - **友利田与[[Dirk Van Damme\|范达默]]** 强调单纯增加测量构件治标不治本，必须从哲学高度确立学科自主演绎建制，恢复质性反思与临床[[Phronesis\|实践智慧]]的崇高合法性。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 204–205, 226)]]
+> > - **友利田与[[Dirk Van Damme\|范达默]]** 强调单纯增加测量构件治标不治本，必须从哲学高度确立学科自主演绎建制，恢复质性反思与临床[[Phronesis\|实践智慧]]的[[The Sublime|崇高]]合法性。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 204–205, 226)]]
 
 > [!warning] 适用局限
 > 对统计正态化的批判旨在揭示均值霸权的伦理盲区，决不应被扭曲为否定量化统计科学的虚无主义或反智主义借口；科学的前途在于将高阶统计工具与严谨质性临床个案实现互补融合。

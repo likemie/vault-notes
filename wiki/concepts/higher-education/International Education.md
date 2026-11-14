@@ -43,6 +43,7 @@ related_concepts:
   - "[[Internationalization at Home]]"
   - "[[Education Export]]"
   - "[[Quasi-market]]"
+  - "[[Philosophical Aesthetics]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Dependency Theory]]"
@@ -83,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-16
-updated: 2026-11-10
+updated: 2026-11-14
 ---
 
 ---
@@ -246,7 +247,7 @@ updated: 2026-11-10
 > | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p. 26)]] | 香港国际学校 | 学费 | 年费约 10,000–20,000 美元 | 价格显示市场与阶层门槛，不代表全球国际学校共同水平 |
 > | [[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, pp. 67–71)]] | IB 六年试验，1970–1975 | 考试与承认规模 | 完整文凭考生由 29 人增至 377 人；截至 1973 年底，20 国给予一般承认，学生进入 25 国 175 所大学 | 样本非随机，承认用途和部分承认范围未在总数中分开 |
 > | [[Argument_Peterson_1987_OpenCourt_Ch08\|Peterson (1987, pp. 208–209, 217)]] | 1981–1985年城市覆盖与记述时累计规模 | 国际教育可及性 | 1981年所识别城市中47座已有 IB 学校，到1985年另增30座；[[United World Colleges\|UWC]] 校友略超过6,000人，IB 文凭持有人略超过10,000人 | 城市覆盖与累计人数描述制度规模，不能据此证明国际理解或和平效果 |
-> | [[Argument_Peterson_1987_OpenCourt_Ch08\|Peterson (1987, p. 208)]] | 1984年北美学校与理事会 | 学校份额及治理席位 | 约一半学校在北美；24名理事中4名来自北美，其中2名为校长；三分之一理事由校长会议选举 | 学校份额不直接等于治理权，未报告对实际政策影响的测量 |
+> | [[Argument_Peterson_1987_OpenCourt_Ch08\|Peterson (1987, p. 208)]] | 1984年北[[Philosophical Aesthetics\|美学]]校与理事会 | 学校份额及治理席位 | 约一半学校在北美；24名理事中4名来自北美，其中2名为校长；三分之一理事由校长会议选举 | 学校份额不直接等于治理权，未报告对实际政策影响的测量 |
 > | [[Argument_Peterson_1987_OpenCourt_Ch08\|Peterson (1987, pp. 210–212)]] | UWC 资助目标与1984年联邦德国选拔程序 | 资助规则与筛选人数 | 原设想70%奖学金生、30%缴费生；加拿大承诺转为全员全额资助。德国每年更换约300校样本，1984年300多份询问，经申请审查减至130人、ballot减至70人，再由10名委员进行两天集中评估 | 资助目标不等于实现比例；ballot操作未详述，未报告最终录取数或社会阶层比例 |
 > | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p. 18)]] | 中国出国学生的相近时期统计 | 不同来源估计 | 《中国日报》约200,000人，国际教育协会为349,506人 | 估计差距近一倍，反映跨来源口径与[[Reliability\|可靠性]]问题 |
 > | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p. 4)]] | 香港英基学校协会（[[English Schools Foundation Hong Kong\|ESF]]） | 本地学生比例 | 40%–50%为本地香港华人 | 说明侨民学校向本地家庭开放，不能代表所有国际学校 |

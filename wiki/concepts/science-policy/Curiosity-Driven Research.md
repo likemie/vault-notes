@@ -41,6 +41,7 @@ related_concepts:
   - "[[Original Innovation Capability]]"
   - "[[Research Topic]]"
   - "[[Technology-Oriented Social Contract]]"
+  - "[[The Sublime]]"
   - "[[Avatar]]"
   - "[[Research Security]]"
   - "[[Valley of Death]]"
@@ -77,7 +78,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 ---
@@ -191,7 +192,7 @@ updated: 2026-11-11
 ---
 
 > [!dev-timeline] 概念演变
-> - **1945–1989 — 黄金契约期与免检神话确立** [[Science, The Endless Frontier 1945|布什报告]]将自由探索升华为国家战略，冷战对抗为科学家换取了“高自治—高嵌入”与巨额联邦信任型经费托底，科学享有崇高的“国家理性”[[Avatar|化身]]地位。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
+> - **1945–1989 — 黄金契约期与免检神话确立** [[Science, The Endless Frontier 1945|布什报告]]将自由探索升华为国家战略，冷战对抗为科学家换取了“高自治—高嵌入”与巨额联邦信任型经费托底，科学享有[[The Sublime|崇高]]的“国家理性”[[Avatar|化身]]地位。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 > - **1990–2009 — 条件化自治与[[Pasteur's Quadrant|巴斯德象限]]再协商** 冷战终结后安全红利消退，自由探索受到财政问责压力，学术界通过确立[[Pasteur's Quadrant|巴斯德象限]]（[[Use-Inspired Basic Research|应用启发的基础研究]]），主动将自由探索包装为对接产业与社会效用的复合形态。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
 > - **2010–2024 — 免检地位瓦解与战略任务嵌套** 绩效问责刚性化（GPRAMA）、重大社会挑战导向与[[Research Security|科研安全]]合规审查剥夺了自由探索的特权；与此同时，在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》中，自由探索被重新定位于国家“前沿发现（Goal 1）”的源头支柱，通过 [[National Science Foundation|NSF]] FuSe 等计划与产业中试体系实现多尺度嵌合。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12)]]
 > - **2021 — 科学学双层网络量化实证为自由探索正名** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]基于数千万项科研成果与专利的跨界网络匹配，证实 80% 的已发表基础研究成果在级联拓扑中直接或间接支撑了下游产业专利发明，且 31% 的[[National Institutes of Health|美国国家卫生研究院]]（NIH）资助项目成果被商业专利直接引用，从全口径大数据上确立了公共财政对好奇心驱动基础探索投入的根本正当性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 247–248)]]

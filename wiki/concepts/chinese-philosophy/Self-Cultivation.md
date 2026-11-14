@@ -24,6 +24,7 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Champ]]"
   - "[[Action Better Than Words]]"
+  - "[[Philosophical Aesthetics]]"
   - "[[Take the World Upon Oneself]]"
   - "[[Ideal Learner]]"
   - "[[Learning Virtues]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-22
+updated: 2026-11-14
 ---
 
 > [!info] 定义
@@ -92,7 +93,7 @@ updated: 2026-10-22
 
 ### 1. 修身作为学习的首要目的
 
-在中国学习模型的三重目的中，**"道德／社会自我完善"被列为第一位**——优先于"获取知识／技能"和"贡献社会"([[Argument_Li_2012_Cambridge|Li, 2012, p.103, Table 3.3]])。值得注意的是，研究中的"学习"一词是**开放定义**的（left open for respondents to construe）——欧美学生将其解释为"理解世界"，中国学生则自然地将其理解为"道德与社会的自我完善"以及学术学习([[Argument_Li_2012_Cambridge|Li, 2012, p.104]])。这说明**修身不是被研究者提示出来的——它是中国大学生在听到"学习"这个词时自动联想到的首要含义**。
+在中国学习模型的三重目的中，**"道德／社会自我完善"被列为第一位**——优先于"获取知识／技能"和"贡献社会"([[Argument_Li_2012_Cambridge|Li, 2012, p.103, Table 3.3]])。值得注意的是，研究中的"学习"一词是**开放定义**的（left open for respondents to construe）——欧[[Philosophical Aesthetics|美学]]生将其解释为"理解世界"，中国学生则自然地将其理解为"道德与社会的自我完善"以及学术学习([[Argument_Li_2012_Cambridge|Li, 2012, p.104]])。这说明**修身不是被研究者提示出来的——它是中国大学生在听到"学习"这个词时自动联想到的首要含义**。
 
 > [!quote|notitle]
 > "完美自我——作为学习最重要的目的——继续激励着整体上的[[Chinese Learner\|中国学习者]]。"([[Argument_Li_2012_Cambridge\|Li, 2012, p.96]])

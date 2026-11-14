@@ -43,6 +43,7 @@ related_concepts:
   - "[[Decodification]]"
   - "[[Ontology]]"
   - "[[Document]]"
+  - "[[The Sublime]]"
   - "[[Knowledge Mediation]]"
 related_theories:
   - "[[Critical Theory]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -143,7 +144,7 @@ updated: 2026-11-03
 
 > [!debates] 教育主体理论争议
 >
-> > [!axis] 崇高政治公民理想 vs 劳动力市场功利现实
+> > [!axis] [[The Sublime|崇高]]政治公民理想 vs 劳动力市场功利现实
 > > 围绕教育主体概念所设定的民主反思与批判公民理想是否脱离了现实经济生存需求展开交锋。
 > >
 > > - **[[Critical Theory|批判理论]]立场** 坚信公立教育的首要宪法使命在于培育有抗辩力与公共责任的健全公民，若将教育退化为职业技能训练所，必然加剧威权民粹与阶级固化。

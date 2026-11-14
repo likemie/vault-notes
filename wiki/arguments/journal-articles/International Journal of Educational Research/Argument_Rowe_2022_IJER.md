@@ -35,6 +35,7 @@ related_concepts:
   - "[[Evidence-Based Policy-Making]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Paradigm]]"
+  - "[[The Sublime]]"
   - "[[Knowledge Production]]"
 related_theories:
   - "[[Actor-Network Theory]]"
@@ -76,7 +77,7 @@ sources:
 part_of:
 status: completed
 created: 2026-09-18
-updated: 2026-11-11
+updated: 2026-11-14
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Rowe_2022_IJER"
@@ -232,7 +233,7 @@ SVA 作为全澳最大的社会创投机构，管理着 1.5 亿澳元基金，�
 > [!chain-link] 政策网络重构国家科研治理的因果链条
 > - **前提：公私边界模糊与企业法律装配** 依据《公司法》设立的国家机构被赋予商业法人属性，公共监管与信息披露适用初创企业豁免，在前 18 个月内免于向公众公布经审计的财务报表。
 > - **机制：立法特许合作与营利分包** 法律正式授权其与慈善机构深度绑定，将原本属于大学学术共同体的高等教育与基础教育科研议程，以证据工具包和量规的名义外包给营利性咨询机构和闭环智库。
-> - **结论：民主问责的解体与资本特权合法化** 纳税人公共资金被逆向再分配用于资助免税的企业化中介；在[[Value Neutrality\|价值中立]]与提高弱势群体学业的崇高修辞掩护下，跨国企业资本与咨询寡头完成了对国家教育[[Knowledge Production\|知识生产]]标准与政策议程的深层掌控。
+> - **结论：民主问责的解体与资本特权合法化** 纳税人公共资金被逆向再分配用于资助免税的企业化中介；在[[Value Neutrality\|价值中立]]与提高弱势群体学业的[[The Sublime|崇高]]修辞掩护下，跨国企业资本与咨询寡头完成了对国家教育[[Knowledge Production\|知识生产]]标准与政策议程的深层掌控。
 
 ---
 

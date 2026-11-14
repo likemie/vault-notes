@@ -21,6 +21,7 @@ related_concepts:
   - "[[Technological Agnosticism]]"
   - "[[Hard Power]]"
   - "[[Hard Belief]]"
+  - "[[The Sublime]]"
   - "[[Effective Altruism]]"
   - "[[Anonymity in Research]]"
   - "[[Cosmopolitanism]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-11-03
+updated: 2026-11-14
 ---
 
 ---
@@ -61,7 +62,7 @@ updated: 2026-11-03
 > [!concept-lens] 概念透镜
 > - **含义** 揭示当代社会将道德与政治立场降格为低成本避险姿态，以程序中立与合规审查掩盖实质道德决断的缺失。
 > - **用途** 解释西方社会为何在物质与科技高度充裕的背景下陷入精神虚无、政治极化与国家防卫意志涣散。
-> - **边界** 区别于[[Hard Belief|硬信念]]（愿为原则承担声誉、法律与经济代价），亦区别于彻底的犬儒主义（软信念仍披着崇高的道德与理想主义外衣，如[[Effective Altruism|有效利他主义]]或改变世界的流行口号）。
+> - **边界** 区别于[[Hard Belief|硬信念]]（愿为原则承担声誉、法律与经济代价），亦区别于彻底的犬儒主义（软信念仍披着[[The Sublime|崇高]]的道德与理想主义外衣，如[[Effective Altruism|有效利他主义]]或改变世界的流行口号）。
 
 > [!citation-card] 软信念的低成本与虚无本质
 > 一种不需要承担任何成本与代价的信念，真的能被称为信念吗？隐匿身份与回避风险的保护伞，正在剥夺这一代人培育对理念拥有真实担当的机会，使他们既无法体会公共领域胜利的奖赏，也无法承受失败的磨砺。（p. 67）

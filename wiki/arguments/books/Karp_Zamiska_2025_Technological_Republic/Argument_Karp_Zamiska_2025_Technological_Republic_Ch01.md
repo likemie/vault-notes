@@ -36,10 +36,10 @@ related_concepts:
   - "[[Man-Computer Symbiosis]]"
   - "[[Hard Power]]"
   - "[[Paradigm]]"
-  - "[[Refined Mastery]]"
   - "[[Polymath]]"
   - "[[Public-Private Partnership]]"
   - "[[Star Scientists]]"
+  - "[[The Sublime]]"
   - "[[Intellectual Capital]]"
   - "[[Techno-Utopianism]]"
   - "[[Other Transaction Authority]]"
@@ -59,7 +59,9 @@ related_persons:
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
   - "[[Michael Fullan]]"
+  - "[[Thomas Jefferson]]"
   - "[[James Madison]]"
+  - "[[Benjamin Franklin]]"
   - "[[Franklin D. Roosevelt]]"
   - "[[Vannevar Bush]]"
   - "[[Herbert Hoover]]"
@@ -83,7 +85,7 @@ sources:
 part_of: "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 status: draft
 created: 2026-10-07
-updated: 2026-10-26
+updated: 2026-11-14
 ---
 ---
 
@@ -167,11 +169,11 @@ updated: 2026-10-26
 ### 美国建国传统将科学探索与国家治理紧密结合
 
 > [!claim] 建国先驱普遍具备深厚工程素养与务实探索精神
-> 美国早期的政治领袖并非单纯的文官或法律学者，许多人本身就是[[Refined Mastery|精通]]科学与工程的[[Polymath|博学通才]]，将技术发明视作国家建设的有机组成部分（pp. 5–6）。
+> 美国早期的政治领袖并非单纯的文官或法律学者，许多人本身就是精通科学与工程的[[Polymath|博学通才]]，将技术发明视作国家建设的有机组成部分（pp. 5–6）。
 
 > [!evidence-grid] 建国先驱的工程实践与实证探索证据
 > - **[[Michael Fullan|富兰]]克林的电学科学革命** 哈佛大学化学教授达德利·赫施巴赫评价其在电学领域的奠基性发现，在科学史上足以与 17 世纪的牛顿或 20 世纪发现脱氧核糖核酸（DNA）双螺旋结构的沃森与克里克相提并论。
-> - **杰斐逊的科学热情与发明** 1791 年致信哈里·英尼斯称科学与自然史是其热情、政治是其职责，亲自设计日晷与便携式密码机，并在农业机械与古生物学领域开展长期实证考证。（p. 5）
+> - **[[Thomas Jefferson|杰斐逊]]的科学热情与发明** 1791 年致信哈里·英尼斯称科学与自然史是其热情、政治是其职责，亲自设计日晷与便携式密码机，并在农业机械与古生物学领域开展长期实证考证。（p. 5）
 > - **[[James Madison|麦迪逊]]解剖黄鼠狼反驳退化论** 1786 年亲自解剖一只北美黄鼠狼并记录近 40 组精确测量数据，在经验层面上驳斥布封伯爵提出的美洲物种退化假说。（pp. 5–6）
 > - **亚当斯倡导实用科学政策取向** 作为第二任总统，亚当斯明确主张年轻的共和国应当摆脱以虚荣好奇心为目标的不切实际的科学，引导国家智力资源转向服务于农业与实业的技术探索。（p. 6）
 
@@ -187,7 +189,7 @@ updated: 2026-10-26
 ### 二战与冷战时期的国家防务需求直接催生了早期硅谷
 
 > [!claim] 战时科研动员开创了国家与科学界的战略合作范式
-> 二战全面爆发促成了科学界与国家权力的深度结合。1944 年 11 月，在盟军逼近德国本土之际，富兰克林·[[Franklin D. Roosevelt|罗斯福总统]]致信美国科学研究与开发署主任[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush），将战时动员科学力量服务于军事目标的举措定性为一项独特的实验，并明确指示在战后和平时期必须延续这一[[Public-Private Partnership|公私伙伴关系]]，将国家机器的威权、财力与战略意志倾注于科学探索，以促进公共健康、经济发展与国家安全，直接促成了战后国家科研体制纲领（《科学——[[Science, The Endless Frontier 1945|无尽的前沿]]》）的诞生（pp. 4–5）。
+> 二战全面爆发促成了科学界与国家权力的深度结合。1944 年 11 月，在盟军逼近德国本土之际，[[Benjamin Franklin|富兰克林]]·[[Franklin D. Roosevelt|罗斯福总统]]致信美国科学研究与开发署主任[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush），将战时动员科学力量服务于军事目标的举措定性为一项独特的实验，并明确指示在战后和平时期必须延续这一[[Public-Private Partnership|公私伙伴关系]]，将国家机器的威权、财力与战略意志倾注于科学探索，以促进公共健康、经济发展与国家安全，直接促成了战后国家科研体制纲领（《科学——[[Science, The Endless Frontier 1945|无尽的前沿]]》）的诞生（pp. 4–5）。
 
 > [!stat-cards]- 冷战防务科技动员的关键历史指标
 > - **2/3** 1960 年代联邦政府在全美所有研发（R&D）总支出中所占的历史峰值份额。
@@ -198,7 +200,7 @@ updated: 2026-10-26
 > [!feature] 工程师与科学家作为 20 世纪国家英雄的文化崇尚
 > - **布什成为国家战争英雄** 1942 年《科利尔周刊》（*Collier’s*）以可能赢得战争的人为题向近 300 万读者深度报道万尼瓦尔·布什，使其成为美国家喻户晓的科技领袖。
 > - **[[Star Scientists|科学巨擘]]的公众追捧** 居里夫人（Marie Curie）1903 年发现镭后引发跨大西洋轰动，爱因斯坦（Albert Einstein）频频登上《时代》封面并成为全民偶像。（pp. 7–8）
-> - **工程师时代的文明信念** 1920–1930 年代[[Herbert Hoover|赫伯特·胡佛]]（Herbert Hoover）时期的工程师英雄主义，将大型水坝、摩天大楼与电气化工程视为推动文明向上攀登的崇高国家事业。（pp. 8, 224）
+> - **工程师时代的文明信念** 1920–1930 年代[[Herbert Hoover|赫伯特·胡佛]]（Herbert Hoover）时期的工程师英雄主义，将大型水坝、摩天大楼与电气化工程视为推动文明向上攀登的[[The Sublime|崇高]]国家事业。（pp. 8, 224）
 
 > [!evidence-grid] 冷战国防安全与军工采购哺育早期硅谷的实证证据
 > - **仙童半导体研制间谍卫星设备** 1950 年代末期加州山景城的[[Fairchild Semiconductor|仙童半导体]]不仅奠定微电子工业基础，其航空部门更直接为美国中央情报局（Central Intelligence Agency, CIA）的侦察卫星研制机载高分辨率侦察设备，微芯片的首要初始市场为军方。（pp. 3–4）
