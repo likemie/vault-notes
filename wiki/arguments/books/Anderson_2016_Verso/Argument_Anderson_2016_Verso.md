@@ -7,7 +7,7 @@ title: "Argument_Anderson_2016_Verso"
 argument_key: "Argument_Anderson_2016_Verso"
 argument_display_title: "Imagined Communities: Reflections on the Origin and Spread of Nationalism"
 argument_kind: "book"
-argument_related_count: 83
+argument_related_count: 84
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -28,7 +28,6 @@ sources:
 related_concepts:
   - "[[Nationalism]]"
   - "[[Print-Capitalism]]"
-  - "[[Paradigm]]"
   - "[[Official Nationalism]]"
   - "[[Educational Pilgrimage]]"
   - "[[Horizontal Comradeship]]"
@@ -39,9 +38,9 @@ related_concepts:
   - "[[Language-of-Power]]"
   - "[[Administrative Pilgrimage]]"
   - "[[Modular Nationalism]]"
+  - "[[Polyvernacular Empire]]"
   - "[[Totalizing Classificatory Grid]]"
   - "[[Serialization]]"
-  - "[[Polyvernacular Empire]]"
   - "[[Historical Map]]"
   - "[[Reversed Ventriloquism]]"
   - "[[National Biography]]"
@@ -50,8 +49,8 @@ related_concepts:
   - "[[Truth-Language]]"
   - "[[Dynastic Realm]]"
   - "[[Administrative Vernacular]]"
-  - "[[Political Baptism of the Lower Classes]]"
   - "[[Creole Nationalism]]"
+  - "[[Political Baptism of the Lower Classes]]"
   - "[[Philological Revolution]]"
   - "[[Bureaucracy]]"
   - "[[Bourgeois Reading Solidarity]]"
@@ -70,24 +69,26 @@ related_concepts:
   - "[[Non-Arbitrariness of the Sign]]"
   - "[[Naturalization]]"
   - "[[Incommensurability]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Imagined Community]]"
   - "[[Law of Uneven and Combined Development]]"
   - "[[Panopticism]]"
   - "[[Colonial State Theory]]"
 related_persons:
+  - "[[Hugh Seton-Watson]]"
+  - "[[Tom Nairn]]"
+  - "[[Ernest Gellner]]"
+  - "[[Eric Hobsbawm]]"
+  - "[[Anthony D. Smith]]"
   - "[[Walter Benjamin]]"
   - "[[Victor Turner]]"
-  - "[[Hugh Seton-Watson]]"
   - "[[Benedict Anderson]]"
-  - "[[Ernest Gellner]]"
   - "[[Ernest Renan]]"
   - "[[Erich Auerbach]]"
   - "[[Martin Luther]]"
   - "[[Lucien Febvre]]"
-  - "[[Tom Nairn]]"
   - "[[Johann Gottfried von Herder]]"
-  - "[[Eric Hobsbawm]]"
   - "[[Thomas Babington Macaulay]]"
   - "[[Suwardi Surjaningrat]]"
   - "[[Jose Rizal]]"
@@ -122,8 +123,7 @@ updated: 2026-11-15
 > [!monograph-profile] 专著档案
 > - **核心对象** 近代[[Nationalism|民族主义]]如何从特定历史土壤中长出并传遍世界，涵盖美洲、欧洲、东亚以及东南亚殖民地与后殖民国家。
 > - **论证类型** 结合出版史统计、文学文本细读与跨区域历史比较的理论与历史研究。
-> - **处理粒度** `chapter-arguments`，十一章及增补后记各自独立成页。
-> - **材料边界** 涵盖十一章（第 1 章含致谢、卷首引语与第二版序言）及第 11 章末附后记《Travel and Traffic》，采用 Verso 2016 年版（文件名与 EPUB 元数据标为 2011，版权页列出 2016 与 2006，著录采用 2016）。
+> - **对话对象** 批评自由主义将民族视为无法界定之物（[[Hugh Seton-Watson|塞顿-沃森]]），修正马克思主义将民族主义视为理论败笔或政治病症的观点（[[Tom Nairn|汤姆·内恩]]），反驳[[Ernest Gellner|欧内斯特·格尔纳]]（Ernest Gellner）将“想象”等同于“捏造”的论断，打破以19世纪欧洲语言民族主义为唯一模板的欧洲中心主义（包括[[Eric Hobsbawm|霍布斯鲍姆]]、[[Anthony D. Smith|安东尼·史密斯]]），并修正初版对殖民空间治理与勒南遗忘论的偏狭理解（第1章，pp. 3–7, xiii–xv；第10章，pp. 167–168；第11章，pp. 212–215）。
 
 ---
 
@@ -140,7 +140,7 @@ updated: 2026-11-15
 > - **[[Homogeneous, Empty Time|齐一而空洞的时间]]** 借用[[Walter Benjamin|瓦尔特·本雅明]]（Walter Benjamin）的[[Construct|构念]]，说明人们如何告别等待神意应验的[[Messianic Time|弥赛亚时间]]，转而用钟表和日历感知时间；正是这种“与此同时”的感觉，让小说读者和报纸读者确信千万陌生同胞正和自己并肩生活（第2章，pp. 24–36；第11章，pp. 191–198）。
 > - **[[Print-Capitalism|印刷资本主义]]与[[Print-Language|印刷语言]]** 书商为了赚钱，在拉丁文精英市场买饱和之后转向广大的单语平民市场；印刷术把千百种口语方言收拢成有限的[[Print-Language|印刷语言]]，既打通了跨方言交流，又让文字固定下来显得古老恒久，还重新排定了[[Language-of-Power|权力语言]]的高低（第3章，pp. 39–49；第5章，pp. 69–82）。
 > - **[[Administrative Pilgrimage|行政朝圣]]与[[Educational Pilgrimage|教育朝圣]]** 借用[[Victor Turner|维克多·特纳]]（Victor Turner）的朝圣比喻，追踪殖民地官员升迁和学生求学的移动路线；当不同乡音的年轻人在同一个殖民首府相聚、又只能在同一个行政区内任职时，那块原本随便划出的殖民地版图就在他们心里长成了祖国（第4章，pp. 56–60；第7章，pp. 122–125）。
-> - **[[Modular Nationalism|模块化民族主义]]与[[Official Nationalism|官方民族主义]]** 民族国家一旦成型，就成了不设专利、谁都能抄的现成蓝图；老牌王朝和帝国统治者为了自保，把民族的旗号硬套在多语种帝国身上自上而下推行同化（第6章，pp. 85–113；第9章，pp. 159–166），殖民政府与后殖民国家也顺着[[Totalizing Classificatory Grid|总括性分类网格]]和[[Serialization|序列化]]把人口、土地和古迹编排进现代治理秩序（第10章，pp. 167–190）。
+> - **[[Modular Nationalism|模块化民族主义]]与[[Official Nationalism|官方民族主义]]** 民族国家一旦成型，就成了不设专利、谁都能抄的现成蓝图；老牌王朝和帝国统治者为了自保，把民族的旗号硬套在[[Polyvernacular Empire|多语种帝国]]身上自上而下推行同化（第6章，pp. 85–113；第9章，pp. 159–166），殖民政府与后殖民国家也顺着[[Totalizing Classificatory Grid|总括性分类网格]]和[[Serialization|序列化]]把人口、土地和古迹编排进现代治理秩序（第10章，pp. 167–190）。
 
 > [!monograph-method] 研究方法与材料
 > - **研究设计** 采用长时段、跨区域的[[Historical-Comparative Method|历史比较法]]（Historical-Comparative Method），把西欧本土、美洲殖民地、中东欧[[Polyvernacular Empire|多语种帝国]]、东南亚殖民地与独立暹罗、瑞士以及东亚国家放在同一视野里对照，看清不同社会怎样走上民族建国之路（第1–11章）。
@@ -240,6 +240,24 @@ updated: 2026-11-15
 > - **东南亚田野的经验偏向** 经验推演主要扎根于印度尼西亚与暹罗的长期[[Fieldwork|田野研究]]，对西欧与美洲新大陆的历史储备相对有限，以此主动收住普遍化宣称（第1章，pp. ix, xv；第10章，p. 168）。
 > - **初版留下的两处盲区** 1983年初版只盯着时间观念和印刷资本主义，漏掉了人口普查、地图与博物馆这些空间治理手段，把亚非官方民族主义简单看成模仿欧洲王朝，也没看透勒南的遗忘论；再版受[[Thongchai Winichakul|通猜]]等人启发补上这些缺口，不过空间治理这套机制在东南亚之外是否普遍适用，仍待更多实证检验（第1章，pp. xiii–xv；第10章，pp. 167–168）。
 > - **跨国翻译中的删改与走样** 书本一旦跨出国界进入不同语境，就逃不开政治审查的删改（例如删去讨论社会主义国家冲突的第九章），而且语言之间的[[Incommensurability|不可通约性]]让本土化翻译在激发批判力的同时，难免磨损原本的概念含义（第11章，pp. 228–235）。
+
+---
+
+> [!ref-table] 作者术语索引
+> | 术语 | 作者界定 | 出现位置 | 关联条目 |
+> |---|---|---|---|
+> | **想象的共同体（Imagined Community）** | 界定为本质上有限且享有主权的想象政治共同体；“想象”指超越面对面村落的群体得以连结的方式，有别于虚假捏造 | 第1章，pp. 5–7 | [[Imagined Community]] |
+> | **模块化（Modular）** | 民族与革命这类文化造物在18世纪末定型后脱离原初土壤，成为不设专利、可供不同社会形态按不同自觉程度移植和拼装的现成[[Paradigm\|范式]] | 第1章，p. 4；第5章，pp. 82–84 | [[Modular Nationalism]] |
+> | **[[Homogeneous, Empty Time\|齐一而空洞的时间]]（Homogeneous, Empty Time）** | 借用[[Walter Benjamin\|本雅明]]构念，指由钟表和日历度量、事件之间靠“与此同时”横向并存的世俗线性时间，用来对照前现代纵向预表的[[Messianic Time\|弥赛亚时间]] | 第2章，pp. 24–26 | [[Homogeneous, Empty Time]] |
+> | **[[Print-Language\|印刷语言]]（Print-Language）** | 印刷资本主义把千百种口语方言收拢、筛选并固定下来的标准化书面语言；既在拉丁文之下、口语之上打通书面交流，又塑造古老感并重排权力等级 | 第3章，pp. 44–47 | [[Print-Language]] |
+> | **[[Administrative Pilgrimage\|行政朝圣]]（Administrative Pilgrimage）** | 借用[[Victor Turner\|特纳]]的朝圣模型，指官僚在固定辖区内往返升迁的流动路线；路线边界把同僚的共同挫折转化为对辖区的祖国认同 | 第4章，pp. 56–60 | [[Administrative Pilgrimage]] |
+> | **官方民族主义（Official Nationalism）** | 19世纪中叶起世袭王朝与帝国统治者为抵御大众民族主义而采取的自卫策略，把民族的紧绷外衣硬套在[[Polyvernacular Empire\|多语种帝国]]身躯上推行自上而下同化 | 第6章，pp. 86–88 | [[Official Nationalism]] |
+> | **[[Unisonance\|同声相应]]（Unisonance）** | 国定假日齐唱国歌时，互不相识的人们依循同一旋律唱出相同歌词所感受到的声波共鸣与同时性体验 | 第8章，p. 149 | [[Unisonance]] |
+> | **[[Chancellory War\|密室战争]]（Chancellory War）** | 由极少数最高层精英在中枢闭门拍板发动的边境或地缘冲突，普通民众直到开战后才被自卫口号动员起来 | 第9章，p. 165 | [[Chancellory War]] |
+> | **[[Geo-Body\|地理身体]]（Geo-Body）与[[Map-as-Logo\|地图标识]]（Map-as-Logo）** | 借用[[Thongchai Winichakul\|通猜]]概念，指近代测绘先导划定的封闭领土实体，以及脱离经纬细节后印上徽章和出版物、供大众效忠的纯图形轮廓 | 第10章，pp. 174–182 | [[Geo-Body]]、[[Map-as-Logo]] |
+> | **总括性分类网格（Totalizing Classificatory Grid）与序列化（Serialization）** | 分别比作殖民统治思维的经线与纬线：前者将人、地、物硬性归入非此即彼的排他格子，后者预设世界由成批可替换编号的复数单位构成 | 第10章，pp. 188–189 | [[Totalizing Classificatory Grid]]、[[Serialization]] |
+> | **[[Reversed Ventriloquism\|反向腹语术]]（Reversed Ventriloquism）** | 19世纪史学家与第二代民族主义者以死者代言人自居，利用死者的沉默替语言不通或已消亡的古代文明发声，把现代建国诉求投射为先人遗愿 | 第11章，pp. 201–203 | [[Reversed Ventriloquism]] |
+> | **[[Reassurance of Fratricide\|兄弟残杀的抚慰]]（Reassurance of Fratricide）** | 国家通过学校历史教育不断提醒公众记住古代屠杀的名字，同时抹去异教或阶级冲突背景，改写为同一民族家庭内部的手足相残 | 第11章，pp. 204–205 | [[Reassurance of Fratricide]] |
 
 ## 来源
 

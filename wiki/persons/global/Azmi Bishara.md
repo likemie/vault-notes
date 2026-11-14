@@ -52,7 +52,7 @@ updated: 2026-11-15
 > - **代表贡献** 1999年为安德森《[[Imagined Community|想象的共同体]]》希伯来文版撰写学术导言，2014–2020年出版关于世俗化、[[Nationalism|民族主义]]与民主转型的三卷本宏篇理论巨著《论世俗性与世俗化》（*On Secularity and Secularization*）及《论民族与民族主义》（*On the Nation and Nationalism*）。
 
 > [!citation-card] 安德森论比沙拉对希伯来文版的政治介入
-> 1999年，《想象的共同体》希伯来文版在特拉维夫出版。这部译本最引人注目之处，在于长达数万字的精彩导言并非出自犹太以色列学者之手，而是由卓越的阿拉伯裔以色列政治哲学家、前议会议员阿兹米·比沙拉撰写。在以色列右翼民族主义持续高涨的压抑环境下，比沙拉极具勇气地征引安德森的[[Constructivist Paradigm|建构主义]]分析，将这部著作作为反思犹太复国主义排他性神话、批判对巴勒斯坦人军事占领与隔离政策的锐利思想武器。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 226–228)]]
+> 1999年，《想象的共同体》希伯来文版在特拉维夫出版。长达数万字的导言由阿拉伯裔以色列政治哲学家、前议会议员阿兹米·比沙拉撰写。在以色列右翼民族主义持续高涨的社会环境下，比沙拉征引安德森的[[Constructivist Paradigm|建构主义]]分析，将这部著作作为反思犹太复国主义排他性神话、批判军事占领与隔离政策的思想武器。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 226–228)]]
 >
 > *The 1999 Hebrew edition of Imagined Communities had a long, brilliant introduction by Azmi Bishara, an Arab-Israeli member of the Knesset and leading philosopher... Bishara mobilized the book's modern constructivist insights to critically deconstruct Zionist myths and racist exclusion.*
 
@@ -73,7 +73,7 @@ updated: 2026-11-15
 
 > [!thought-timeline] 思想发展
 > - **1980–1990年代 — 公民国家构想与犹太复国主义批判** 借鉴欧陆批判政治哲学，解构将以色列定义为“仅属于全球犹太人的民族国家”的法律特权，提出多元公民共和方案。
->   - **代表著作** 《绿线破裂》（*A Rupture in Political Thought*, 1998）、《想象的共同体》希伯来文版导言 (1999)。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 226–228)]]
+>   - **代表著作** 《绿线破裂》（*A Rupture in Political Thought*, 1998年出版）、《想象的共同体》希伯来文版导言（1999年发表）。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 226–228)]]
 >   - **关键概念** 全体公民的国家（State of All its Citizens）、族裔民主批判。
 >   - **阶段转向** 从[[Grandes Ecoles|大学校]]园的黑格尔哲学讲坛走向以色列政坛前沿，开展直接的宪政与意识形态对抗。
 > - **2000年代 — 阿拉伯认同危机与巴勒斯坦解放反思** 在反抗占领的同时，深入反思阿拉伯民族主义内部的专制民粹倾向与巴勒斯坦传统派系权力的官僚化堕落。
@@ -81,7 +81,7 @@ updated: 2026-11-15
 >   - **关键概念** 阿拉伯民主议程、世俗公民权。
 >   - **阶段转向** 拓展学术视界，直面阿拉伯世界普遍面临的专制体制与威权统治弊病。
 > - **2010年代至今 — 世俗化与现代民族国家大理论建构** 在多哈领导大型智库网络，系统撰写多卷本关于阿拉伯现代性、世俗化历史与政教关系的政治哲学专论。
->   - **代表著作** 《论世俗性与世俗化》（三卷本，2014）、《论民族与民族主义》（两卷本，2020）。
+>   - **代表著作** 《论世俗性与世俗化》（三卷本专著，2014年出版）、《论民族与民族主义》（两卷本专著，2020年出版）。
 >   - **关键概念** 制度性世俗化、政治共同体、现代民主转型。
 >   - **阶段转向** 总结终生思想历程，构建立足于全球南方现代经验的普遍主义政治哲学框架。
 
@@ -93,7 +93,7 @@ updated: 2026-11-15
 ---
 
 > [!citation-card] 比沙拉论民族想象作为破除神圣本质的批判工具
-> 民族不是一种自古长存的生物学机体，而是人类在世俗时间中建构出来的政治想象。一旦我们认识到任何民族认同都是经由制度、媒介与象征符号塑造出来的历史产物，那种声称某一土地生来便专属于特定受选民族的本质主义神话便轰然坍塌。这种理论洞见赋予被压迫者一种至关重要的武器：它打破了统治者构建的宿命论，证明现存的隔离与占领秩序并不是神圣永恒的，人类完全有能力凭借平等的政治意志，想象出一个属于全体公民的公正共同体。
+> 民族是人类在世俗时间中建构出来的政治想象，区别于自古长存的生物学机体。一旦认识到任何民族认同都是经由制度、媒介与象征符号塑造出来的历史产物，声称特定土地天然专属于特定选民的本质主义神话便失去了学理依据。这种理论洞见打破了统治者构建的宿命论，表明现存的隔离与占领秩序属于历史制度产物，人类有能力凭借平等的政治意志，构建出一个属于全体公民的公正共同体。
 >
 > *Nationalism is neither an eternal essence nor a biological given. It is a modern political [[Construct|construct]]. By de-sacralizing the myth of national ancestry, constructivist theory provides a potent tool to dismantle exclusionary ethno-nationalism and envision a democratic state for all its citizens.*
 

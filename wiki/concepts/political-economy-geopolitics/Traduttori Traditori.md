@@ -44,7 +44,7 @@ updated: 2026-11-15
 ---
 
 > [!def] Traduttori Traditori
-> **翻译即背叛（Traduttori Traditori）** 指[[Benedict Anderson|本尼迪克特·安德森]]在《[[Imagined Community|想象的共同体]]》后记中阐发的跨语际知识传播与概念移位理论。该命题认为，思想著作在跨越语言与主权边界时，不可能实现完全保真的对等复制；每一种接收语言背后的语法结构、历史沉淀与阶层礼仪，都会对原初文本施加不可避免的语义偏离与语境改造。这种“背叛”绝非纯粹的技术性翻译失误，而构成了思想在边缘语境中获得本土生命力与[[Creativity|创造性]]意义的制度性机制。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 228–235)]]
+> **翻译即背叛（Traduttori Traditori）** 指[[Benedict Anderson|本尼迪克特·安德森]]在《[[Imagined Community|想象的共同体]]》后记中阐发的跨语际知识传播与概念移位理论。该命题认为，思想著作在跨越语言与主权边界时，不可能实现完全保真的对等复制；每一种接收语言背后的语法结构、文化渊源与阶层礼仪，都会对原初文本施加不可避免的语义偏离与语境改造。这种“背叛”作为概念在边缘语境中获得本土生命力与[[Creativity|创造性]]意义的制度性机制，区别于技术层面的错译。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 228–235)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向学术文本与理论范畴在跨语言、跨文化转译过程中所必然发生的[[Incommensurability|不可通约性]]、语义置换与本土挪用现象。
@@ -52,7 +52,7 @@ updated: 2026-11-15
 > - **边界** 聚焦于跨语言文化转译中的生产性语义偏离，区别于由于译者疏忽导致的低级技术错译，也区别于纯粹的官方强制意识形态审查。
 
 > [!citation-card] 安德森论跨语际翻译中的创造性偏离
-> 意大利有一句流传甚广的古老谚语：“翻译即背叛”（Traduttori Traditori）。任何思想一旦进入公共流通领域，便不可避免地脱离了作者原初设定的解释边界。当一部学术著作从英语被翻译为法语、泰语、印尼语或汉语时，每一种语言背后深厚的历史经验都在迫使它发生位移。有时候是词汇在情感联想上的不可[[Commensuration|通约]]，有时候是严酷的封建敬语传统的强行介入，有时候则是语法词缀在不经意间赋予概念一种全新的被动感知。正是这些创造性的偏离，使得同一部文本在不同的文化土壤中生长出截然相异的政治生命。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 234–235)]]
+> 意大利有一句流传甚广的古老谚语：“翻译即背叛”（Traduttori Traditori）。任何思想一旦进入公共流通领域，便不可避免地脱离了原初设定的解释边界。当一部学术著作从英语被翻译为法语、泰语、印尼语或汉语时，每一种语言背后深厚的历史经验都在迫使它发生位移。有时候是词汇在情感联想上的不可[[Commensuration|通约]]，有时候是严酷的封建敬语传统的强行介入，有时候则是语法词缀在不经意间赋予概念一种全新的被动感知。正是这些创造性的偏离，使得同一部文本在不同的文化土壤中生长出截然相异的政治生命。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 234–235)]]
 >
 > *Traduttori traditori: translators are traitors. Once a text enters the public domain, it escapes its author's original control... As Imagined Communities was translated into French, Thai, Indonesian, or Chinese, the irreducible linguistic and historical peculiarities of each idiom transformed the original concepts.*
 
@@ -68,7 +68,7 @@ updated: 2026-11-15
 > |---|---|---|---|
 > | **核心假设** | 语言之间存在不可彻底通约的文化[[Heterogeneity\|异质性]] | 语言之间能够实现完全客观的信息对等 | 文本必须完全服从执政权力的合法性边界 |
 > | **偏离根源** | 接收语言的语法惯性、历史联想与社会语境 | 译者个人[[Language Skills\|语言能力]]的偶然技术瑕疵 | 国家出版管制机关的制度化外部干预 |
-> | **思想后果** | 赋予理论在边缘本土全新的批判功能与解释力 | 维持原文封闭权势，掩盖真实的文化断层 | 人为割裂原著论证骨架，阻断敏感情节 |
+> | **思想后果** | 赋予理论在边缘本土全新的批判功能与解释力 | 维持源语文本封闭权势，掩盖真实的文化断层 | 人为割裂原著论证骨架，阻断敏感情节 |
 > | **典型案例** | 法语版译为“民族想象界”、泰语强加王室敬语 | 字典字面逐词机械直译 | 删改批判社会主义密室战争的整个章节 |
 
 ---

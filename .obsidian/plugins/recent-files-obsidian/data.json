@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Anderson_2016_Verso",
+      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso.md"
+    },
+    {
       "basename": "Argument_Hammermeister_2002_Cambridge_Ch01",
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md"
+    },
+    {
+      "basename": "Argument_He_2018_HEP",
+      "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_He_2018_HEP.md"
+    },
+    {
+      "basename": "template-argument-edited-volume",
+      "path": "wiki/templates/template-argument-edited-volume.md"
+    },
+    {
+      "basename": "template-argument-monograph",
+      "path": "wiki/templates/template-argument-monograph.md"
+    },
+    {
+      "basename": "Begg and Mazumdar Rank Correlation",
+      "path": "wiki/methods/quantitative/Begg and Mazumdar Rank Correlation.md"
     },
     {
       "basename": "template-argument",
@@ -15,22 +35,6 @@
     {
       "basename": "template-method",
       "path": "wiki/templates/template-method.md"
-    },
-    {
-      "basename": "Argument_He_2018_HEP",
-      "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_He_2018_HEP.md"
-    },
-    {
-      "basename": "template-argument-monograph",
-      "path": "wiki/templates/template-argument-monograph.md"
-    },
-    {
-      "basename": "template-argument-edited-volume",
-      "path": "wiki/templates/template-argument-edited-volume.md"
-    },
-    {
-      "basename": "Argument_Anderson_2016_Verso",
-      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso.md"
     },
     {
       "basename": "Finnish PISA Miracle",
@@ -107,10 +111,6 @@
     {
       "basename": "Visible Learning Branding and Global Influences",
       "path": "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md"
-    },
-    {
-      "basename": "Begg and Mazumdar Rank Correlation",
-      "path": "wiki/methods/quantitative/Begg and Mazumdar Rank Correlation.md"
     },
     {
       "basename": "Baseline Standardized Mean Difference",
