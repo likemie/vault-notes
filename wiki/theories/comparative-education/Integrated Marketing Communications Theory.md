@@ -10,7 +10,7 @@ aliases:
 summary: "诞生于 20 世纪 90 年代营销与传播学领域的跨学科分析框架，强调以统一的目标和品牌形象整合广告、公关、销售推广及接触点渠道，形成传达统一声音的内容整合与让受众接收一致信息的渠道整合；在比较教育与教育政策研究中，被用于解构主权国家如何系统打包教育成就、塑造国家教育品牌并推进跨国传播与教育出口。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 17
+theory_related_count: 18
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"

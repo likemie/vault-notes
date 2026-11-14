@@ -12,9 +12,9 @@ subtype: event
 region: france
 fact_region: "france"
 fact_kind: "event"
-fact_related_count: 18
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - region/france

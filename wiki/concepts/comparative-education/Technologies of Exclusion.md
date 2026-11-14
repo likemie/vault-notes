@@ -8,7 +8,7 @@ aliases:
 summary: "专业知识生产者或治理机构通过创设高门槛的专门术语、复杂心理测量学模型、严苛准入资质与算法黑箱，将非专业公众与外行质疑排斥在决策审议之外的话语与技术屏障。在教育治理中，面对“专家知识民主化”（人人自诩教育专家）带来的普遍公众争鸣，政策中介机构（如世行与 OECD）策略性利用随机对照试验（RCTs）、潜变量 IRT 模型与指标矩阵等排除性技术，为政策决策构筑不可逾越的科学理性与专业权威护城河。"
 type: concept
 domain: "comparative-education"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

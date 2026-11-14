@@ -9,7 +9,7 @@ aliases:
 summary: "一种深嵌于国际发展援助与跨国政策借用中的家长制文化与认知框架（Cole, 2012; Bandyopadhyay, 2019）。将全球南方预设为治理无能与智识匮乏的受助客体，将全球北方专家塑造为道德拯救者与专长垄断者；即使外部顾问具备高度反思性，其自上而下的资金配置、身体在场与制度规程仍再生产着新殖民依附，压制了受援国的教育主权与本土认识论（Santos & Silova, 2026）。"
 type: concept
 domain: "comparative-education"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

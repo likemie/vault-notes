@@ -8,7 +8,7 @@ aliases:
 summary: "源自西方自由七艺与英国绅士品格培育传统的博雅教育理念，主张知识本身即为其目的，强调通过古典人文学术磨砺卓越心智与高尚品格，构成维多利亚时代大英帝国政治治理与抵御市侩庸俗主义的核心文化防线。"
 type: concept
 domain: "educational-philosophy"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"

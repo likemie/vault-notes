@@ -8,7 +8,7 @@ summary: "美国印第安纳大学教育心理学名誉教授，全美学校纪�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

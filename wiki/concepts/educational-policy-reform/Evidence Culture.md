@@ -6,7 +6,7 @@ aliases:
 summary: "教育政策社会学与知识动员研究的核心概念，指在特定教育治理体系与制度环境中共同形成的关于证据的价值信念、认识论假定、制度规范与实践惯例；该构念界定了何种知识具备合法证据资格、证据应如何被评价与动员，并通过修辞隐喻、层级建构与权力分配形塑政策制定者与实践者的研究参与方式。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"

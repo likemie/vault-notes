@@ -7,7 +7,7 @@ aliases:
 summary: "国际政治学与全球治理构念，指国际组织在缺乏法定强制管辖权的前提下，依托专业技术特长、去政治化理性声誉、自主科研产出与标准化量规，被主权国家公认为界定政策问题与提供决策咨询的合法权威形态；在教育领域表现为经合组织以测评数据行使软治理，以及世界银行以知识生产、管理与传播构建全球常识。"
 type: concept
 domain: "comparative-education"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"

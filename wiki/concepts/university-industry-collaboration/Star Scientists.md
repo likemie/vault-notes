@@ -8,7 +8,7 @@ aliases:
 summary: "指在颠覆性科学突破与国家重大战略工程中掌握不可编码隐性专有知识（自然知识资本）并享有崇高学术声望的极少数领军学者。该理论揭示了明星科学家在技术早期倾向于构建专有壁垒、需公共代理人网络撮合；在成熟期易形成注意力锁定与范式垄断；同时在国家战略史上构成了技术共和国政权与科学界深度结盟的核心中枢。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"

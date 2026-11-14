@@ -12,10 +12,10 @@ aliases:
 summary: "由桑托·福图纳托等人（Fortunato et al., 2014）阐释的科学计量学构念；指科学家做出开创性科学突破到其正式荣获诺贝尔科学奖之间经历的时间间隔；该间隔在 20 世纪下半叶呈现指数级延展，与诺奖禁止死后追授的章程形成生存竞赛，构成筛选晚期创新者的制度性屏障。"
 type: concept
 domain: "science-policy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/science-of-science
   - theme/scientific-career

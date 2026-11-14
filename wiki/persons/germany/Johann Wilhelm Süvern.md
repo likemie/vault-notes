@@ -11,7 +11,7 @@ summary: "普鲁士枢密顾问官与教育改革家，主持起草1819年综合
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

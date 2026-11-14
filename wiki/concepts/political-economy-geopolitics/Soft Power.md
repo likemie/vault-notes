@@ -7,7 +7,7 @@ aliases:
 summary: "约瑟夫·奈（Joseph S. Nye）提出的国际关系与地缘政治核心概念，指行为体通过文化吸引力、政治价值观感召与具有合法性的对外政策来塑造他者偏好而非诉诸军事或经济强制的能力。在当代全球教育治理与跨国比较中，软实力演进为“以硬事实施展软权力”（Soft Power by Hard Facts），国际组织通过探究模式与调解模式输出量化指标、跨国测评排名与最佳实践工具箱，对主权国家教育体系实施远处规制与政策趋同。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 74
+related_count: 79
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"

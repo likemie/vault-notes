@@ -7,7 +7,7 @@ aliases:
 summary: "批判话语分析的核心分析概念，由诺曼·费尔克拉夫基于巴赫金互文理论提出。指特定文本或话语实践中不同体裁、话语类型与风格之间复杂的相互渗透与异质性杂糅；作为连接微观文本语言特征与宏观社会权力结构的分析枢纽，既表征制度变迁与话语秩序重构的动态过程，也在政策实践中被用于融合外交、经济与教育等多重领域话语，赋予国家战略行动以正当性修辞。"
 type: concept
 domain: "research-methodology"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

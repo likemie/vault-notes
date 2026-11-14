@@ -6,10 +6,10 @@ aliases:
   - 赞同官能
   - Billigungsvermögen
   - faculty of approbation
-summary: "审美主体摆脱占有欲念与纯理性求知目的而获得的精神愉悦，由门德尔松以“赞同官能”概念系统提出并直接先导了康德的美学范式。"
+summary: "审美主体悬置占有欲念与概念求知目的所获得的无欲之乐，由门德尔松以赞同官能和舞台道德独立性系统提出，直接先导康德美学范式。"
 type: concept
 domain: "educational-philosophy"
-related_count: 0
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -49,8 +49,8 @@ updated: 2026-11-14
 ---
 
 > [!feature] 门德尔松心理美学中的三大愉悦源泉与灵魂三分
-> - **三大愉悦源泉** 美源于杂多的统一（unity of the manifold），完善源于杂多的协调一致（unanimity of the manifold），感官愉悦则源于身体状况的改善与诸官能的和谐游戏（harmonious play of all human faculties），其中唯有音乐在实践中能同时实现三者。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 16–17)]]
-> - **灵魂三分体系** 在认知官能（faculty of cognition）与欲望官能（appetite）之外，单列处理审美知觉的赞同官能（*Billigungsvermögen*），确立了无欲求的审美愉悦。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 18–19)]]
+> - **三大愉悦源泉** 美源于杂多的统一，完善源于杂多的协调一致，感官愉悦则源于身体状况的改善与诸官能的和谐游戏，其中唯有音乐在实践中能同时实现三者。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 16–17)]]
+> - **灵魂三分体系** 在认知官能与欲望官能之外，单列处理审美知觉的赞同官能（*Billigungsvermögen*），确立了无欲求的审美愉悦。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 18–19)]]
 > - **审美与道德之松绑** 允许艺术因其激发情感的潜能而再现道德上应受谴责的行为，使其不再仅充当道德反面教材，从而赋予审美领域更大自主性。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 19)]]
 
 ---
@@ -59,7 +59,7 @@ updated: 2026-11-14
 > **自主性的心理学奠基** 只有当审美接受被视为一种不以占有或道德说教为目的的独立灵魂官能时，艺术题材才能获得免于外部规训的自由。
 
 > [!claim] Hammermeister, K.
-> **通向审美教育的自由空间** 门德尔松继承了沙夫茨伯里（Shaftesbury）“无功利之爱”与杜博斯（Jean-Baptiste Dubos）“纯粹愉悦（*plaisir pur*）”的思想，通过赞同官能将艺术从道德审查与规则束缚中解放出来；正是这种题材与感受的自由，使艺术能够更有效地促成人的诸官能和谐发展，成为审美教育不可或缺的工具。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 18–20)]]
+> **通向审美教育的自由空间** 门德尔松继承了沙夫茨伯里（Shaftesbury）的无功利之爱与让-巴蒂斯特·杜博斯（Jean-Baptiste Dubos）的纯粹愉悦（*plaisir pur*）思想，通过赞同官能将艺术从道德审查与规则束缚中解放出来；正是这种题材与感受的自由，使艺术能够更有效地促成人的诸官能和谐发展，成为审美教育不可或缺的工具。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 18–20)]]
 
 ---
 

@@ -7,7 +7,7 @@ aliases:
 summary: "研究设计与认识论的核心概念。在宏观认识论与方法论层级上，指统领经验探究、界定问题性质与指导知识生成的解释透镜与范式立场；在微观研究方案与课题设计中，指专门阐述理论基础的独立章节或逻辑框架，通过彩虹桥梁机制连接变量与假设，为因果解释提供演绎依据。"
 type: concept
 domain: "research-methodology"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"

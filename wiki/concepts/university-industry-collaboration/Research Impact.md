@@ -10,10 +10,10 @@ aliases:
 summary: "指优秀学术研究对学术共同体之外的经济、社会、公共政策、医疗健康、文化、教育及生态环境等领域所产生的可证实、可测度的实质性积极贡献与变革；在循证教育中涵盖中间过程产出、使用者行为变革与最终受益人成效三层评价阶梯。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - field/higher-education
   - theme/research-assessment

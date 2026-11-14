@@ -8,9 +8,9 @@ summary: "一种基于矩阵点阵与条形图的定量多集合交集可视化�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 20
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual

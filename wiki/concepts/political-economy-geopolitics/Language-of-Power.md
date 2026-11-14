@@ -8,10 +8,10 @@ aliases:
 summary: "本尼迪克特·安德森界定印刷语言奠定民族意识的核心机制之一，指印刷资本主义从繁杂口语土语中择一固化、赋予其政治与文化优势地位的标准化书面语言。它促使方言分化为享有尊荣的主导语言与被贬降的次级方言，并被现代国家用作同化少数群体与垄断官方权力的治理工具。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 18
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/sociolinguistics
   - theme/nationalism

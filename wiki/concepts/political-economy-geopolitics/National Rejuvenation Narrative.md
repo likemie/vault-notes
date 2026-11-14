@@ -10,7 +10,7 @@ aliases:
 summary: "中国当代内政与对外战略中的核心政治与历史叙事，与百年屈辱史构成孪生叙事结构，将国家经济繁荣与跨国制度投射确立为洗雪历史屈辱、重现文明荣光的正当性依据"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"

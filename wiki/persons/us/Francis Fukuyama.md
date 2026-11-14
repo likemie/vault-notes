@@ -8,7 +8,7 @@ summary: "美国著名政治学家、政治哲学家，斯坦福大学高级研�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

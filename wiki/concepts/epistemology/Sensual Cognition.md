@@ -8,10 +8,10 @@ aliases:
   - inferior cognition
   - clear and confused cognition
   - 清晰而混乱的认识
-summary: "鲍姆嘉通基于莱布尼茨认知谱系确立的独立认知官能，指能够整体识别对象丰富特征但尚未经由概念逐一分析的感性知觉模式。"
+summary: "鲍姆嘉通基于莱布尼茨认知谱系确立的独立下级认识官能，以清晰而混乱的感性知觉连接无意识微知觉与明晰理性，构成逻辑认识的必经前提。"
 type: concept
 domain: "epistemology"
-related_count: 0
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -75,6 +75,9 @@ updated: 2026-11-14
 
 > [!claim] Baumgarten, A. G.
 > **自然美学向优美思维的转化** 人类天生具备与动物共享的自然感性能力（自然美学），但必须结合理论学习与修辞学式的反复练习，才能将其培育成“幸福的美学家（*felix aestheticus*）”所拥有的优美思维艺术，从而克服忽视感性的“残缺哲学家（*philosopher manqué*）”之偏狭。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 8–9)]]
+
+> [!example] 大海轰鸣的微知觉与“幸福的美学家”的养成
+> 莱布尼茨以聆听大海轰鸣为例说明模糊认识与清晰认识的界限：听者感知到海浪的整体声响，却无法将这一总体知觉拆解为单个浪涛拍岸的声响。鲍姆嘉通及其学生迈尔则进一步指出，若逻辑学家一味追求抽离感官的明晰概念，便会沦为缺乏完整生命体验的“残缺哲学家”；唯有将感官世界的热爱与理性认识相结合，辅以修辞学训练与理论修养，才能养成兼具感性丰盈与理性秩序的“幸福的美学家”。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 5, 8–9)]]
 
 ---
 

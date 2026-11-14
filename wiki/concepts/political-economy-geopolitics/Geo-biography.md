@@ -7,10 +7,10 @@ aliases:
 summary: "本尼迪克特·安德森在后记中提出的学术著述与理论观念跨国传播的分析框架。不同于依据生理寿命按时间顺流记录的传统个人自传，地理传记追踪文本跨越语言、主权国界与地缘政治板块时的旅行与再脉络化历程，揭示理论脱离原产地后如何在边缘社会的政治危机与跨语际摩擦中获得新生。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/political-philosophy
   - theme/translation-studies
@@ -39,6 +39,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Benedict Anderson]]"
+  - "[[Franco Moretti]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch11]]"
@@ -59,7 +60,7 @@ updated: 2026-11-14
 > - **边界** 聚焦于观念文本在公共空间与制度网络中的跨国流通史，不等于个体学者的生活旅行游记，亦不等于纯粹的语文学[[Document|文献]]版本流传考证。
 
 > [!citation-card] 安德森论著作的地理传记
-> 现在距《想象的共同体》初版已近四分之一个世纪，似乎可以借助本书的若干核心主题——[[Print-Capitalism|印刷资本主义]]、积极隐喻意义上的[[Positive Piracy|正向盗版]]、乡土化，以及[[Nationalism|民族主义]]与国际主义的结合——来勾勒它此后的旅行史。关于书籍跨国扩散的研究仍属罕见，除了文学史领域的弗兰科·莫雷蒂做出了杰出示范……我们可以从这一地理传记中看清，理论在去欧洲中心化的流动中展现出的正向盗版潜能。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 209–212)]]
+> 现在距《想象的共同体》初版已近四分之一个世纪，似乎可以借助本书的若干核心主题——[[Print-Capitalism|印刷资本主义]]、积极隐喻意义上的[[Positive Piracy|正向盗版]]、乡土化，以及[[Nationalism|民族主义]]与国际主义的结合——来勾勒它此后的旅行史。关于书籍跨国扩散的研究仍属罕见，除了文学史领域的[[Franco Moretti|弗兰科·莫雷蒂]]做出了杰出示范……我们可以从这一地理传记中看清，理论在去欧洲中心化的流动中展现出的正向盗版潜能。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 209–212)]]
 >
 > *Now that almost a quarter of a century has passed since the first publication of Imagined Communities, it seems possible to sketch out its subsequent travel-history in the light of some of the book’s own central themes... On the Geo-biography of Imagined Communities.*
 

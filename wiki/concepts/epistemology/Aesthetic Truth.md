@@ -3,10 +3,10 @@ title: Aesthetic Truth
 aliases:
   - 审美真理
   - 感性真理
-summary: "鲍姆嘉通在形而上学真理与逻辑真理之外确立的第三种真理层级，以修辞学或然性为特征，保留逻辑抽象所丧失的具体经验丰富性与生动性。"
+summary: "鲍姆嘉通在形而上学与逻辑真理之外确立的第三种真理形态，以修辞学或然性和想象力丰富性为核心，保全逻辑抽象所丧失的具体经验。"
 type: concept
 domain: "epistemology"
-related_count: 0
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

@@ -9,10 +9,10 @@ summary: "英国著名社会学家，华威大学荣休教授，冲突理论与�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 18
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1925"
 died: "2011"
 lifespan: "1925–2011"

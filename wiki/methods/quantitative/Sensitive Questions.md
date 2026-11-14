@@ -10,7 +10,7 @@ summary: "问卷设计与调查研究中针对受访者私密、威胁或具社�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 20
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"

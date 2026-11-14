@@ -8,7 +8,7 @@ summary: "美国著名教育心理学家、证据本位教育改革（EBR）奠�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 43
+person_related_count: 44
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"

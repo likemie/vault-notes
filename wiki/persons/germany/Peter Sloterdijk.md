@@ -8,7 +8,7 @@ summary: "德国当代哲学家与文化理论家，卡尔斯鲁厄设计学院�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

@@ -9,7 +9,7 @@ aliases:
 summary: "当代中国外交战略与全球治理哲学的核心话语纲领与社会想象（Social Imaginary）。主张超越传统零和博弈与西方中心主义霸权逻辑，追求持久和平、普遍安全、共同繁荣、开放包容与清洁美丽的全球治理新秩序；在对外政策与教育出海实践中，作为核心激励性框架（Motivational Framing），赋予国家倡议以道德崇高性与多边共赢正当性。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 33
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"

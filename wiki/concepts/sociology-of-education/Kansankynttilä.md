@@ -9,10 +9,10 @@ aliases:
 summary: "芬兰语中对国民学校教师的经典文化隐喻（意为“民族之烛”），诞生于19世纪芬诺曼民族运动，将教师定性为超越单纯课堂讲授的乡村世俗道德楷模、社区组织中枢与民族启蒙先锋，奠定了芬兰教师不依赖高薪即可吸纳顶尖认知生源的深厚社会声望。"
 type: concept
 domain: "sociology-of-education"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - sociology-of-education
   - teacher-profession

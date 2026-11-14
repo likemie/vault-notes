@@ -15,10 +15,10 @@ aliases:
 summary: "关于人类能力与智力可塑性的内隐认知信念系统，区分视智力为固定不变的天赋实体观（固定型思维）与视智力为可通过学习、努力与策略持续拓展的增量发展观（成长型思维），深层影响学业动机、面对失败的韧性、同伴文化的评价机制以及大规模现场干预的转化效度"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 39
-theory_related_level: 3
-theory_related_stars: "💎"
-theory_related_color: "#ede9fe"
+theory_related_count: 40
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 domain: learning-science-cognitive-science
 tags:
   - theme/motivation

@@ -9,7 +9,7 @@ summary: "美国特拉华大学教育学院教授、教育研究使用中心（C
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

@@ -8,7 +8,7 @@ summary: "荷兰教育哲学家，教育的美丽风险作者与教育目的论�
 type: person
 nationality: netherlands
 person_region: "netherlands"
-person_related_count: 41
+person_related_count: 42
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"

@@ -9,7 +9,7 @@ aliases:
 summary: "激发、引导并维持个体开展学业学习与智力探究的内在心理倾向与动力系统；在西方心理学中主要由自我决定理论、成就目标与期望-价值理论阐释，在跨文化视角下涵盖东亚道德自我完善的诚心驱动，并在大规模元分析中展现出对学业成就的稳健中等促进效应。"
 type: concept
 domain: "educational-psychology"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"

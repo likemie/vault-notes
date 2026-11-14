@@ -8,7 +8,7 @@ summary: "新西兰批判教育社会学者、批判实在论方法论学者、�
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 28
+person_related_count: 29
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

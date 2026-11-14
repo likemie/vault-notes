@@ -9,7 +9,7 @@ summary: "美国著名外交家、国际政治学者，现实主义地缘战略�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 15
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

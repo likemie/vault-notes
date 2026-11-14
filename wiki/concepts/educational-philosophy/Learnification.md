@@ -7,7 +7,7 @@ aliases:
 summary: "由格特·比斯塔提出的批判性哲学构念，用以诊断教育话语被以效果为中心的“学习”逻辑全面殖民的现象。该构念揭示：当教育被降维为无休止的学习过程、学习结果与效应量排名时，教师被降格为学习促进者，学生被重塑为需持续自我优化的学习客户，从而彻底遮蔽了关涉主体成人、民主公民与全人教化（Bildung）的崇高教育目的。"
 type: concept
 domain: "educational-philosophy"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"

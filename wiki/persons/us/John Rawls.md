@@ -8,10 +8,10 @@ summary: "20世纪著名政治哲学家、哈佛大学讲座教授，以《正�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1921"
 died: "2002"
 lifespan: "1921–2002"

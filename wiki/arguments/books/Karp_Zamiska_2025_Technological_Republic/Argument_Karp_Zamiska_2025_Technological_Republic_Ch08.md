@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch08"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch08"
 argument_display_title: "“Flawed systems”"
 argument_kind: "book-chapter"
-argument_related_count: 26
+argument_related_count: 28
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"

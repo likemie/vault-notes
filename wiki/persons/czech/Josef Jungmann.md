@@ -9,7 +9,7 @@ summary: "捷克语文学家、文学史家与翻译家，捷克民族复兴运�
 type: person
 nationality: czech
 person_region: "czech"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

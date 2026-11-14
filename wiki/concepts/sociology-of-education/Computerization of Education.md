@@ -7,7 +7,7 @@ aliases:
 summary: "由 William Davies (2022) 批判提出并由 Smith (2026) 引入教育哲学的批判社会学概念，指在标准化改革与高利害测验压力下，读写教育系统性向计算机优势能力（信息处理与模式识别）靠拢，从而边缘化并驱逐人类独有的主观阐释与深层理解；在生成式 AI 时代，算法代劳与套路八股形成恶性共谋，前置并加剧了成长性认识不正义。"
 type: concept
 domain: "sociology-of-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

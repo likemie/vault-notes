@@ -13,7 +13,7 @@ summary: "关注语言与符号实践如何建构、维持和重塑权力关系�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 40
+method_related_count: 41
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"

@@ -6,7 +6,7 @@ aliases:
 summary: "从去殖民视角审视知识与全球权力空间配置的批判理论，揭示西方认识论如何通过殖民差异维系全球等级秩序，主张打破现代性与殖民性联动并开辟多元认知传统。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 48
+theory_related_count: 49
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"

@@ -7,7 +7,7 @@ title: "Argument_Torres_2022_KMModels"
 argument_key: "Argument_Torres_2022_KMModels"
 argument_display_title: "Louder than words: Review and comparative analysis of knowledge mobilisation models"
 argument_kind: "book-chapter"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"

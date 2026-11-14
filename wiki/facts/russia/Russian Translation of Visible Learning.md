@@ -10,7 +10,7 @@ subtype: event
 region: russia
 fact_region: "russia"
 fact_kind: "event"
-fact_related_count: 31
+fact_related_count: 32
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#fef3c7"

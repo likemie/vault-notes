@@ -9,7 +9,7 @@ summary: "芬兰现代教育家、政治家、赫尔辛基大学教育学教授�
 type: person
 nationality: finland
 person_region: "finland"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

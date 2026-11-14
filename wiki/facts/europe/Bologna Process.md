@@ -12,7 +12,7 @@ subtype: policy
 region: europe
 fact_region: "europe"
 fact_kind: "policy"
-fact_related_count: 55
+fact_related_count: 56
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"

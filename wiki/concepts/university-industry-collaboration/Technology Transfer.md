@@ -9,7 +9,7 @@ aliases:
 summary: "大学与科研机构将科学发现与工程知识转化为产业应用、商业产品及社会生产力的全过程。除以《拜杜法案》为核心的专利排他许可与衍生孵化路径外，战后信息技术体系亦证实了公共领域开源披露与人才流动的决定性作用；当代科技政策进一步依托敏捷授权协议与跨国联合实验室平台，将技术转移深度锚定于国家制造能力与战略性产业走廊。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 86
+related_count: 87
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"

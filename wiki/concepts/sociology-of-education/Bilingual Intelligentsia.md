@@ -9,7 +9,7 @@ aliases:
 summary: "安德森在《想象的共同体》中界定的先锋阶层，指20世纪殖民地因缺乏本土工商业大资产阶级而在现代学校扩张中崛起的双语知识青年；他们凭借欧洲宗主国语言的双语读写能力掌握西方民族蓝图，成为领导现代反殖民民族主义运动的核心主力。"
 type: concept
 domain: "sociology-of-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

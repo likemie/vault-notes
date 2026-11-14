@@ -10,7 +10,7 @@ summary: "美国高等教育家与科学政治家、麻省理工学院（MIT）�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

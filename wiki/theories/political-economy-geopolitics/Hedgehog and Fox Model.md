@@ -10,7 +10,7 @@ aliases:
 summary: "源自以赛亚·柏林并由菲利普·泰特洛克实证操作化的认知与决策分析框架；区分了将世界归结为单一宏大理论的决定论“刺猬型”思维与容纳多元视角、随时依据现实证据动态调整概率判断的“狐狸型”务实思维，揭示了不同认识论取向对复杂地缘政治与科技战略预测准确度的深层影响。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"

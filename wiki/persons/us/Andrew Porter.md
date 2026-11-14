@@ -9,7 +9,7 @@ summary: "美国著名教育测量学家与政策评估学者，曾任宾夕法�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

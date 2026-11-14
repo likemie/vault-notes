@@ -9,7 +9,7 @@ summary: "英国著名历史社会学家，伦敦政治经济学院（LSE）民�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 15
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_persons:
   - "[[Ernest Gellner]]"
   - "[[Eric Hobsbawm]]"
   - "[[Benedict Anderson]]"
+  - "[[Elie Kedourie]]"
   - "[[Tom Nairn]]"
 related_facts:
   - "[[Education Resources Information Center]]"
@@ -57,7 +58,7 @@ updated: 2026-11-14
 > - **代表贡献** 创立族裔象征主义理论，系统提炼“族裔共同体”（*ethnie*）及“神话-符号复合体”（*myth-symbol complex*）分析模型，确立前现代文化记忆对现代民族国家建构的深层制约机制。
 
 > [!citation-card] 安德森论战后英国民族主义理论格局中的史密斯
-> 在英语学术界，长期以来只有极少数孤立学者探讨民族主义，例如伊利·凯杜里、启蒙自由主义哲学家与社会学家欧内斯特·盖尔纳、马克思主义历史学家埃里克·霍布斯鲍姆，以及传统历史主义学者安东尼·史密斯。然而直到1977年苏格兰马克思主义者汤姆·奈恩出版极具颠覆性的《不列颠的解体》，真正的公开论争才被彻底点燃。奈恩将盖尔纳、霍布斯鲍姆和史密斯深具依恋的联合王国，描绘为行将就木的旧帝国残余。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, p. 214)]]
+> 在英语学术界，长期以来只有极少数孤立学者探讨民族主义，例如[[Elie Kedourie|伊利·凯杜里]]、启蒙自由主义哲学家与社会学家欧内斯特·盖尔纳、马克思主义历史学家埃里克·霍布斯鲍姆，以及传统历史主义学者安东尼·史密斯。然而直到1977年苏格兰马克思主义者汤姆·奈恩出版极具颠覆性的《不列颠的解体》，真正的公开论争才被彻底点燃。奈恩将盖尔纳、霍布斯鲍姆和史密斯深具依恋的联合王国，描绘为行将就木的旧帝国残余。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, p. 214)]]
 >
 > *In the English-speaking world... the [[Enlightenment]]-liberal philosopher and sociologist Ernest Gellner, the then Marxist historian [[Education Resources Information Center|Eric]] Hobsbawm, and the traditionalist historian Anthony Smith... Nairn described the United Kingdom – to which Gellner, Hobsbawm, and Smith were strongly attached – as the decrepit, unreformable relic of an eighteenth-century pre-bourgeois empire.*
 

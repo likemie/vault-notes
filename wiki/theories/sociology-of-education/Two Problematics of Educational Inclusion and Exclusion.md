@@ -9,7 +9,7 @@ aliases:
 summary: "教育包容与排斥的双重问题式是托马斯·S·波普科维茨与斯韦克·林德布拉德提出的教育社会学批判分析框架，区隔了聚焦入学机会、资源分配与国家制度代表性的“公平-参与问题式”，以及聚焦思维理性系统、文化分类图式与主体资格筛选的“知识问题式”；在比较教育学中，空间治理实践被视作沟通并统一这两大问题式的关键纽带。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 28
+theory_related_count: 29
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"

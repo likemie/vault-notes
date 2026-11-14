@@ -8,7 +8,7 @@ aliases:
 summary: "研究者在探究中所持有的价值、信念与意义目的系统，位于研究推导阶梯最顶层，界定何为有价值的知识并统领本体论、认识论与方法论选择。"
 type: concept
 domain: "educational-philosophy"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

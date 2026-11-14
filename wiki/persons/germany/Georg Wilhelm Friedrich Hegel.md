@@ -7,10 +7,10 @@ summary: "19世纪德国古典哲学大师；提出绝对精神演进与辩证�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 26
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 31
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: 1770
 died: 1831
 lifespan: "1770–1831"

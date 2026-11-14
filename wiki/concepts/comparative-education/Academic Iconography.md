@@ -9,7 +9,7 @@ aliases:
 summary: "比较教育学史编纂批判概念，指学科为确立自身存在与制度合法性，将特定历史人物、标志性演讲或文本神圣化为起源图腾的社会建构机制，常伴随对历史复杂性与理论混淆的遮蔽。"
 type: concept
 domain: "comparative-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

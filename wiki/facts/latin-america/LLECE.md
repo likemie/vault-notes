@@ -12,9 +12,9 @@ subtype: program
 region: latin-america
 fact_region: "latin-america"
 fact_kind: "program"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "1994–至今"
 initiator_organization: "联合国教科文组织拉丁美洲和加勒比地区教育办事处（UNESCO OREALC）与拉美19国教育部"

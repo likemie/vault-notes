@@ -8,7 +8,7 @@ summary: "法国哲学家、七月王朝教育决策者，作为比较教育第�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 41
+person_related_count: 42
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"

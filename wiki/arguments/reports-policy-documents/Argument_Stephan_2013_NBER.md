@@ -72,7 +72,7 @@ title: "Argument_Stephan_2013_NBER"
 argument_key: "Argument_Stephan_2013_NBER"
 argument_display_title: "The endless frontier: Reaping what Bush sowed? (NBER Working Paper No. 19687)"
 argument_kind: "report"
-argument_related_count: 32
+argument_related_count: 35
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dcfce7"

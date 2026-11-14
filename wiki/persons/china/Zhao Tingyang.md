@@ -7,7 +7,7 @@ summary: "中国当代哲学家，中国社会科学院哲学研究所研究员�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 28
+person_related_count: 29
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

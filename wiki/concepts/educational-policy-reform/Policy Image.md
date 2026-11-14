@@ -7,7 +7,7 @@ aliases:
 summary: "断裂平衡理论（PET）的核心分析概念，指特定政策议题在公众和政治精英心目中的符号化表征、价值框架与社会建构；它由实证信息、核心价值与情感修辞共同编织而成，决定了政策被认知为中立的专业自治还是急需政府介入的治理危机，是政策企业家瓦解既有政策垄断的关键话语手段。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

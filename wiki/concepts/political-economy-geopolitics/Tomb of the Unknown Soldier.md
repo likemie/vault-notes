@@ -11,10 +11,10 @@ aliases:
 summary: "本尼迪克特·安德森用以剖析现代民族主义深层文化根源的象征构念。指现代国家为阵亡无名军人设立的空置或遗骸不可考的纪念碑与公共陵墓；该构念揭示了民族主义承接传统宗教安顿死亡、苦难与宿命连续性的本体功能，通过将个体的偶然牺牲转化为民族集体的永恒命运，构筑起维系横向认同与政治牺牲意愿的世俗圣坛。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 7
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 14
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/politics
   - theme/nationalism

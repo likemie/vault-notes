@@ -9,10 +9,10 @@ summary: "英国免疫学家与科学哲学家，1960年诺贝尔生理学或医
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1915"
 died: "1987"
 lifespan: "1915–1987"

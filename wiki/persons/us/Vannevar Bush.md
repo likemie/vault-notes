@@ -7,7 +7,7 @@ summary: "美国电机工程师、科技管理者与战后科技政策奠基人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 72
+person_related_count: 74
 person_related_level: 7
 person_related_stars: "💎💎⭐"
 person_related_color: "#fef3c7"

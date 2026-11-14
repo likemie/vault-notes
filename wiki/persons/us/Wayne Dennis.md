@@ -8,7 +8,7 @@ summary: "美国发展心理学家与科研生涯计量早期开拓者，曾任�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

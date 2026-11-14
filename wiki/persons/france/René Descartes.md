@@ -9,10 +9,10 @@ summary: "法国哲学家、数学家与科学家，近代哲学之父。以普�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 17
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 25
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1596"
 died: "1650"
 lifespan: "1596–1650"

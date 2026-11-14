@@ -7,7 +7,7 @@ aliases:
 summary: "指统计度量通过人为创设统一分类法、刻度与公分母，在异质社会事物间建立起可相互通约的均质度量空间；在跨国教育治理中以统计信度置换情境构念效度并悬置教育本体论，成为超国家远处掌舵的技术工具。"
 type: concept
 domain: "research-methodology"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"

@@ -7,10 +7,10 @@ aliases:
 summary: "国际关系与地缘政治的核心范畴，指行为体通过军事武力、强制威慑与经济制裁迫使他者服从的指挥性权力。在智能化时代，硬实力的物质基石转向算法模型、自主无人系统与实体先进制造；发展型国家进一步将高等教育与科技走廊整编为硬实力支柱。硬实力无法脱离实质防卫意志而孤立维系，且单纯依靠经济硬实力补贴的对外投射面临显著的地缘政治脆弱性。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 58
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 62
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - concept/political-economy
   - theme/national-security

@@ -7,7 +7,7 @@ title: "Argument_Manitius_vanHolt_2019_BzS"
 argument_key: "Argument_Manitius_vanHolt_2019_BzS"
 argument_display_title: "Transfer als Gegenstand von Programmatik und Forschung. Einige Diskursbeobachtungen"
 argument_kind: "journal-article"
-argument_related_count: 66
+argument_related_count: 67
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"

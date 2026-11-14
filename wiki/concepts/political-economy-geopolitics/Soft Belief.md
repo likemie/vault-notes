@@ -6,7 +6,7 @@ aliases:
 summary: "政治哲学与技术地缘政治学概念，指无需承担现实代价、流于程序合规、公关话术与道德表演的薄弱信念形态；卡普与扎米斯卡以此诊断当代西方精英阶层与硅谷科技界的道德退缩、技术不可知论与战略虚无。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

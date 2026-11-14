@@ -11,10 +11,10 @@ aliases:
 summary: "指官僚体制与公共文化中将行政规章、程序合规与道德纯洁性置于实质治理成果之上的教条化倾向。卡普与扎米斯卡以此批判西方公共部门深陷形式主义合规与道德表演、将公职人员预设为无欲苦行僧、并借由微小合规瑕疵对实干领袖发起道德猎巫，从而导致治理能力瘫痪与人才逆向淘汰的深层体制病理。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/political-economy
   - theme/public-governance

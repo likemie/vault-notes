@@ -7,7 +7,7 @@ title: "Argument_Cowen_2009_HistoryCreation"
 argument_key: "Argument_Cowen_2009_HistoryCreation"
 argument_display_title: "On history and on the creation of comparative education"
 argument_kind: "book-chapter"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"

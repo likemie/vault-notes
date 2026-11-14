@@ -10,10 +10,10 @@ aliases:
 summary: "中国学习模型中的核心情感与目的性构念，指学习者在青少年阶段反思人生意义并确立明确学业志向的承诺过程；作为连接好學心与学习美德的动力枢纽，其独特特征在于依托家庭与师友的见证人机制将个体抱负转化为社会契约。"
 type: concept
 domain: "chinese-philosophy"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 18
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - region/china
   - theme/cross-cultural-learning

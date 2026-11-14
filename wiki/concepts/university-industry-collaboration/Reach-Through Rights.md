@@ -10,7 +10,7 @@ aliases:
 summary: "知识产权许可与技术转移合同机制，指上游基础研究工具、试剂或检测方法的专利权人，在许可协议或材料转移协议中强制要求对被许可方利用该工具后续开发出的下游商业产品或科学发现索取利润提成、排他专有权或所有权主张。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

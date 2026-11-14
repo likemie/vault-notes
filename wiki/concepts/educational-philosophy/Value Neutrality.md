@@ -10,7 +10,7 @@ aliases:
 summary: "主张科学研究应排除研究者主观价值偏见并保持程序中立的认识论规范；在启蒙发轫期曾服从于道德改良，在韦伯与20世纪实证学派中被法典化为科学基石，在批判理论中被解构为维护统治的意识形态，并在当代公共与科技竞争中凸显为区分描述性经验事实与规范性道德评价的认知脱钩求真能力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 90
+related_count: 91
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"

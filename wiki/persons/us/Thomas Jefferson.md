@@ -8,10 +8,10 @@ summary: "美国主要建国先驱、《独立宣言》起草人、第三任美�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 13
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: 1743
 died: 1826
 lifespan: "1743–1826"

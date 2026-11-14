@@ -7,10 +7,10 @@ aliases:
 summary: "以感性认识、美与艺术的本体论、认识论及实践功能为研究对象的独立哲学分支，18世纪中期由鲍姆嘉通在德国首次命名并奠基。"
 type: concept
 domain: "educational-philosophy"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 13
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - field/philosophy
   - theme/aesthetics

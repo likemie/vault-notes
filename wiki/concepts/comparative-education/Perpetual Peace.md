@@ -9,10 +9,10 @@ aliases:
 summary: "源自康德哲学与启蒙国际主义的规范性政治与教育构想，主张通过普遍理性觉醒、共和立宪法权与跨国制度协作消除野蛮战争状态；在比较教育学中构成了人道主义与世界公民教化的奠基性伦理动因，在当代地缘战略中则遭遇现实主义批判——警示单方面去武力化无法换取永久和平，缺乏可信威慑与硬实力的和平主义幻觉反将加剧国际安全秩序的脆弱性。"
 type: concept
 domain: "comparative-education"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - theme/comparative-education
   - theme/international-education

@@ -11,7 +11,7 @@ subtype: organization
 region: india
 fact_region: "india"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"

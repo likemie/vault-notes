@@ -8,7 +8,7 @@ aliases:
 summary: "批判教育学、国家理论与教育哲学中的核心构念，指公立教育所培育的具备民主权利、公共理性、具身教化与反思批判能力的完整主体，抵御新自由主义市场化与实证主义可见监控对人性的工具化剥离。"
 type: concept
 domain: "comparative-education"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"

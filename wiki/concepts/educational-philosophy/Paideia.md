@@ -9,7 +9,7 @@ aliases:
 summary: "源自古希腊城邦文明的整全公民培育与灵魂转向哲学，整合智性沉思、伦理德性与审美和谐，是西方全人教育与比较教育以人为本（anthropos）思想史传统的始源母题。"
 type: concept
 domain: "educational-philosophy"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"

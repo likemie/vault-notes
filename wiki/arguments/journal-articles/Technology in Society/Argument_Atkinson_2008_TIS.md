@@ -104,7 +104,7 @@ title: "Argument_Atkinson_2008_TIS"
 argument_key: "Argument_Atkinson_2008_TIS"
 argument_display_title: "Research universities: Core of the US science and technology system"
 argument_kind: "journal-article"
-argument_related_count: 66
+argument_related_count: 67
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"

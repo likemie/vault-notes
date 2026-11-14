@@ -5,7 +5,7 @@ subtype: organization
 region: japan
 fact_region: "japan"
 fact_kind: "organization"
-fact_related_count: 42
+fact_related_count: 43
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"

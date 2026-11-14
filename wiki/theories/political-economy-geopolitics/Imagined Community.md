@@ -9,7 +9,7 @@ aliases:
 summary: "本尼迪克特·安德森提出的民族主义理论，主张民族是被想象的、拥有有限边界和主权的政治共同体。同胞虽互不相识，却在心中共享一体意象。近代印刷资本主义与大众教育为这种想象奠定了物质基础。后续研究进一步将其延伸至认知人类学与科技政治学，揭示共同体叙事如何维系大规模人群的技术协作，并探讨去国家化背景下公民认同的转变。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 61
+theory_related_count: 62
 theory_related_level: 6
 theory_related_stars: "💎💎"
 theory_related_color: "#fef3c7"

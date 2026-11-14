@@ -10,7 +10,7 @@ summary: "19世纪德国著名哲学家、古典语文学家与文化批判家�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 21
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

@@ -8,10 +8,10 @@ aliases:
 summary: "中国传统学习过程中勤奋与自勉美德的终极境界，指历经熟悉与练习阶段后达成的一种技能与精神高度融合的化境。在儒道互补的学习哲学中，精通不仅表现为对知识技艺细节的完全掌握与随心所欲运用自如，更代表技进乎道的人格化存在状态；其方法论包含入道（严格模仿大师规范）与出道（立足传统根基实现创造性超越）两阶段，与西方行为主义可量化测量的掌握形成鲜明对照。"
 type: concept
 domain: "chinese-philosophy"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - region/china
   - field/chinese-philosophy

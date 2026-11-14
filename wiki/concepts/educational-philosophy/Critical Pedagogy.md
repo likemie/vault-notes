@@ -7,10 +7,10 @@ aliases:
 summary: "一种将课程与教学视为文化政治斗争场域的批判教育哲学，主张以学生的活经验为起点，通过对话式提问、批判意识觉醒与可能性的语言，解构传统储蓄式教育与当代数智异化中的权力压迫，旨在培育具有自主性与社会解放潜能的批判求知者。"
 type: concept
 domain: "educational-philosophy"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - theory/critical
   - paradigm/critical

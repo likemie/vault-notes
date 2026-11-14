@@ -8,7 +8,7 @@ summary: "德国理性主义哲学家，以“上帝创世”和逻辑-本体论
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 0
+person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"

@@ -5,10 +5,10 @@ aliases:
 summary: "跨越单一国家教育边界组织人员、共同生活、课程、评价与资格承认的教育实践和制度。既包含以跨文化理解为目的的教育计划，也包含全球化推动的流动市场扩张，以及当代发展型国家依托地缘战略资助推进南南合作的新型治理形态。"
 type: concept
 domain: "higher-education"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - concept/higher-education
   - theme/international-education

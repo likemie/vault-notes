@@ -9,10 +9,10 @@ summary: "德国慕尼黑工业大学教育心理学讲席教授，德国教学�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1974"
 died: ""
 lifespan: "1974–至今"

@@ -10,7 +10,7 @@ aliases:
 summary: "指在儒家与比较哲学传统中体现最高道德卓越、普世仁爱与知行合一的终极理想人格；在比较政治学与现代治理反思中，该概念亦被用于指称将公职人员预设为不计世俗回报之无私修道者或哲学王的“圣人治理假设”，构成透视道德教化、社会流动与公共激励机制的跨文化理论透镜。"
 type: concept
 domain: "chinese-philosophy"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"

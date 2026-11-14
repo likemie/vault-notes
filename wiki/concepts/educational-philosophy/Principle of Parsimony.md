@@ -4,10 +4,10 @@ aliases: [简约原则, 奥卡姆剃刀, Occam's razor, 简便律, law of parsim
 summary: "科学探究四大基本假设之一，源于奥卡姆剃刀与爱因斯坦准则，主张在同等解释力的假说或模型中优先选择实体最少、概念最经济的理论，构成统计建模、模型拟合与理论建构的核心原则。"
 type: concept
 domain: "educational-philosophy"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags: [theme/epistemology, theme/methodology, theme/research-philosophy, methodology/quantitative]
 related_concepts:
   - "[[Epistemology]]"

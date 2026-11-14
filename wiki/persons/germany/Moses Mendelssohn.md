@@ -8,10 +8,10 @@ summary: "18世纪德国启蒙哲学家，将美学重心从认识论转向审�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 0
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 13
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1729"
 died: "1786"
 lifespan: "1729–1786"

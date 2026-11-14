@@ -8,7 +8,7 @@ summary: "英裔美籍教育社会学家与比较教育学家，芝加哥大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"

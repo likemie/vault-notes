@@ -8,7 +8,7 @@ summary: "美国著名法学家、耶鲁大学法学院讲座教授，以《不�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"

@@ -8,7 +8,7 @@ summary: "丹麦哲学家与神学家，存在主义哲学的先驱与奠基人�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 23
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

@@ -9,7 +9,7 @@ summary: "俄裔美籍物理化学家、哈佛大学教授、曼哈顿工程内�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

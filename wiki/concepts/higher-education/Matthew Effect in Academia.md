@@ -8,10 +8,10 @@ aliases:
 summary: "Merton (1968) 提出、经 Schulze-Cleven et al. (2017) 制度化并由 Wang and Barabási (2021) 拓展至科学计量与引文网络的概念，描述个体声望溢价、机构评估拨款循环及优先连接机制如何驱动学术资源与注意力持续向既有优势方集中。"
 type: concept
 domain: "higher-education"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - matthew-effect
   - higher-education

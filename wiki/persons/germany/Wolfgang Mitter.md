@@ -7,10 +7,10 @@ summary: "德国比较教育学家，曾任法兰克福德国国际教育研究�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 39
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 40
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1927"
 died: "2014"
 lifespan: "1927–2014"

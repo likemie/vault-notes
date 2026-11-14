@@ -11,7 +11,7 @@ aliases:
 summary: "描述单盲同行评审中资深知名学者因学术声望积累而享有的系统性审稿倾斜；面对非传统假说、推导生僻或细节瑕疵，审稿人倾向于推定知名学者必言之成理并给予宽容信任，而普通或青年学者提交同等文本则面临缺陷推定与严苛挑剔，成为单盲审稿相较双盲审稿录取率剧增 58%–63% 的核心认知机制。"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

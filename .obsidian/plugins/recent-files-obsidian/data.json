@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "template-theory",
-      "path": "wiki/templates/template-theory.md"
+      "basename": "Argument_Anderson_2016_Verso",
+      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso.md"
+    },
+    {
+      "basename": "Finnish PISA Miracle",
+      "path": "wiki/facts/finland/Finnish PISA Miracle.md"
+    },
+    {
+      "basename": "Argument_He_2018_HEP",
+      "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_He_2018_HEP.md"
+    },
+    {
+      "basename": "Argument_Santos_Silova_2026_Discourse",
+      "path": "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Santos_Silova_2026_Discourse.md"
     },
     {
       "basename": "template-method",
       "path": "wiki/templates/template-method.md"
+    },
+    {
+      "basename": "template-theory",
+      "path": "wiki/templates/template-theory.md"
+    },
+    {
+      "basename": "template-argument-textbook",
+      "path": "wiki/templates/template-argument-textbook.md"
     },
     {
       "basename": "template-fact-event",
@@ -15,10 +35,6 @@
     {
       "basename": "Subversives",
       "path": "wiki/concepts/political-economy-geopolitics/Subversives.md"
-    },
-    {
-      "basename": "Argument_He_2018_HEP",
-      "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_He_2018_HEP.md"
     },
     {
       "basename": "Argument_Zhu_Yang_2023_HEP",
@@ -31,10 +47,6 @@
     {
       "basename": "Print-Capitalism",
       "path": "wiki/concepts/political-economy-geopolitics/Print-Capitalism.md"
-    },
-    {
-      "basename": "Argument_Anderson_2016_Verso",
-      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso.md"
     },
     {
       "basename": "Argument_Anderson_2016_Verso_Ch11",
@@ -173,14 +185,6 @@
       "path": "wiki/theories/sociology-of-education/Organizational Culture.md"
     },
     {
-      "basename": "Argument_Santos_Silova_2026_Discourse",
-      "path": "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Santos_Silova_2026_Discourse.md"
-    },
-    {
-      "basename": "Finnish PISA Miracle",
-      "path": "wiki/facts/finland/Finnish PISA Miracle.md"
-    },
-    {
       "basename": "Tropical Gothic",
       "path": "wiki/concepts/political-economy-geopolitics/Tropical Gothic.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Anderson_2016_Verso_Ch05",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch05.md"
-    },
-    {
-      "basename": "Simón Bolívar",
-      "path": "wiki/persons/venezuela/Simón Bolívar.md"
     }
   ],
   "omittedPaths": [],

@@ -9,7 +9,7 @@ aliases:
 summary: "指公共机构在面对高度不确定性与重大社会挑战时，识别前沿方向、协调跨部门资源、进行实验试错并实现制度化反思学习的组织能力；强调建立内部专业研判能力以抵御外部咨询机构带来的去能力化风险。"
 type: concept
 domain: "science-policy"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"

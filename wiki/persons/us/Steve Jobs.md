@@ -9,10 +9,10 @@ summary: "美国企业家、工业设计师与苹果公司联合创始人，开�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1955"
 died: "2011"
 lifespan: "1955–2011"

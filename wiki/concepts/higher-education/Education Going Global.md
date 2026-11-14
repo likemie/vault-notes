@@ -12,7 +12,7 @@ aliases:
 summary: "中国高等教育与职业教育系统性向海外延伸办学与输出制度经验的战略实践，涵盖境外办学、多边高校联盟、定向奖学金与产教协同标准输出"
 type: concept
 domain: "higher-education"
-related_count: 40
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"

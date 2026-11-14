@@ -7,10 +7,10 @@ aliases:
 summary: "本尼迪克特·安德森界定民族共同体属性的核心构念，指不论现实社会内部存在何种深刻的阶级剥削与物质不平等，民族在集体心理图景中始终被表象为一种深沉平等的横向兄弟纽带；该构念为解释近现代千百万人甘愿为有限的民族想象牺牲献身提供了关键的情感与伦理基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 22
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 33
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 concept_field: "political-economy-geopolitics"
 concept_related_count: 8
 concept_related_level: 0

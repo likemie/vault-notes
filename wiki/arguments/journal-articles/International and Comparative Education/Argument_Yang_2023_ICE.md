@@ -47,7 +47,6 @@ related_methods:
   - "[[Documentary Analysis]]"
   - "[[Case Study]]"
   - "[[Comparative Case Study]]"
-  - "[[Trend Study]]"
 related_instruments: []
 related_persons:
   - "[[Pasi Sahlberg]]"
@@ -80,7 +79,7 @@ title: "Argument_Yang_2023_ICE"
 argument_key: "Argument_Yang_2023_ICE"
 argument_display_title: "芬兰教育品牌建构与国际传播——基于整合营销传播理论视角"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -208,7 +207,7 @@ issuing_organization: ""
 > - **多项测评数据的持续验证** 除 PISA 外，芬兰官方与研究机构亦系统借势[[PIRLS|国际阅读素养进展研究]]（Progress in International Reading Literacy Study, PIRLS）第二名与[[TIMSS|国际数学与科学趋势研究]]（Trends in International Mathematics and Science Study, TIMSS）科学第三名等成绩，在政府报告中持续强化芬兰教育位居一流的客观认知。
 
 > [!case] 于韦斯屈莱大学借势 PIRLS 与 TIMSS 的测评事件营销
-> 2012 年 12 月 11 日，芬兰[[Finnish Institute for Educational Research|于韦斯屈莱大学教育研究所]]面向全球媒体发布题为《芬兰学生的学习能力位居世界前列》的专题新闻通报。报告指出，芬兰教育卓越的证据不仅限于 PISA 成绩，在多项独立国际测试中均保持顶尖水准：在 2011 年国际阅读素养进展研究（PIRLS）中，芬兰在 45 个参测国中荣获总分第二名；在同年国际数学与科学[[Trend Study|趋势研究]]（TIMSS）中，芬兰八年级学生的[[Scientific Literacy|科学素养]]在 50 个参测国中位列全球第三，且校际间与学生间的成绩落差为全样本最小。于韦斯屈莱大学借助测评放榜时机开展事件营销，将复杂的教学质量指标转化为直观的国际排行榜单，有力巩固了芬兰教育品牌客观卓越的公信力。
+> 2012 年 12 月 11 日，芬兰[[Finnish Institute for Educational Research|于韦斯屈莱大学教育研究所]]面向全球媒体发布题为《芬兰学生的学习能力位居世界前列》的专题新闻通报。报告指出，芬兰教育卓越的证据不仅限于 PISA 成绩，在多项独立国际测试中均保持顶尖水准：在 2011 年国际阅读素养进展研究（PIRLS）中，芬兰在 45 个参测国中荣获总分第二名；在同年国际数学与科学趋势研究（TIMSS）中，芬兰八年级学生的[[Scientific Literacy|科学素养]]在 50 个参测国中位列全球第三，且校际间与学生间的成绩落差为全样本最小。于韦斯屈莱大学借助测评放榜时机开展事件营销，将复杂的教学质量指标转化为直观的国际排行榜单，有力巩固了芬兰教育品牌客观卓越的公信力。
 
 > [!sub-claim] 2. 接待各国使团实地考察，把教育知识打包为跨境收费产业并绑定多边援助
 

@@ -111,7 +111,7 @@ title: "Argument_Beech_2009_GlobalGarden"
 argument_key: "Argument_Beech_2009_GlobalGarden"
 argument_display_title: "Who is strolling through the global garden? International agencies and educational transfer"
 argument_kind: "book-chapter"
-argument_related_count: 71
+argument_related_count: 73
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"

@@ -12,7 +12,7 @@ aliases:
 summary: "涵盖学生间协同探究与教师间教研协作的双层互助学习范式；在学生层面通过认知外显与包容试错促进深度理解，在教师层面依托教研室信任文化与经验共享维系专业共同体，构成抵御新自由主义绩效工资零和竞争侵蚀的核心屏障。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"

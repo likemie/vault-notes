@@ -33158,6 +33158,14 @@
       ],
       "title": ""
     },
+    "FBA, 1975": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/uk/Elie Kedourie.md"
+      ],
+      "title": ""
+    },
     "FFT Education Datalab, 2018": {
       "doi": "",
       "isbn": "",
@@ -56338,6 +56346,14 @@
       ],
       "title": ""
     },
+    "Kedourie, 1960": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md"
+      ],
+      "title": ""
+    },
     "Keehn, 2008": {
       "datasets": [
         "eef:reading-comprehension-strategies"
@@ -74677,6 +74693,14 @@
       "seen_in": [],
       "title": "Parental Involvement and Student Academic Achievement: A Meta-Analysis"
     },
+    "Moretti, 1998": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md"
+      ],
+      "title": ""
+    },
     "Morgan et al., 2019": {
       "doi": "",
       "isbn": "",
@@ -76445,6 +76469,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/us/National Academy of Sciences.md"
+      ],
+      "title": ""
+    },
+    "NAS, 1980": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/G. William Skinner.md"
       ],
       "title": ""
     },
@@ -99009,6 +99041,14 @@
       ],
       "title": ""
     },
+    "Skinner, 1957": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md"
+      ],
+      "title": ""
+    },
     "Skinner, 1958": {
       "doi": "",
       "isbn": "",
@@ -110556,6 +110596,14 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14.md",
         "wiki/concepts/research-methodology/Analytic Generalization.md",
         "wiki/methods/qualitative/Participant Observation.md"
+      ],
+      "title": ""
+    },
+    "Verso, 1998": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/italy/Franco Moretti.md"
       ],
       "title": ""
     },

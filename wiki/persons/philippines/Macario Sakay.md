@@ -10,10 +10,10 @@ summary: "菲律宾平民革命家、卡蒂普南抗暴游击领袖与加达洛�
 type: person
 nationality: philippines
 person_region: "philippines"
-person_related_count: 0
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: 1878
 died: 1907
 lifespan: "1878–1907"

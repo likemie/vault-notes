@@ -10,7 +10,7 @@ aliases:
 summary: "科学社会学与科学学的核心构念，指科学共同体向学者及其成果赋予的专业承认与声望资本，充当学术奖励系统的基础通货并支配职称晋升、终身教职、科研资助与顶尖大奖的评定。在合著成为主流的现代科学中，署名名单的信息不对称导致实际科研劳动投入与共同体感知贡献产生系统性脱节，受到学科署名序位惯例、马太效应与隐性偏见的结构性调节。"
 type: concept
 domain: "science-policy"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

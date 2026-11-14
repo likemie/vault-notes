@@ -8,7 +8,7 @@ aliases:
 summary: "主权国家借鉴商业品牌营销理念与话语技术，将国家形象、文化声誉与公共制度体系包装为具备全球竞争优势的战略资产。在比较教育领域，国家品牌化促使政策制定者将综合学校与跨国测评优异表现脱嵌并凝练为国家教育标签，以此为教育出口构建商业吸引力，但遮蔽了教育在深层社会福利网络中的历史制度根基。"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"

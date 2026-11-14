@@ -11,7 +11,7 @@ aliases:
 summary: "探讨地理空间、权力运作与国际秩序构建相互关系的政治学与政治地理学核心概念及分析视角，涵盖物质—实践端的古典领土博弈范式、观念—科学端的新地缘与批判地缘范式，并在当代跨国高等教育与科技竞争中体现为制度性知识权力与全球空间秩序的争夺。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 73
+related_count: 74
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"

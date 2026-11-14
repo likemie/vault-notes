@@ -6,10 +6,10 @@ aliases:
 summary: "阿奇勒·姆本贝提出的批判政治哲学理论，主张主权权力的最终表达在于决定谁可以活、谁必须死的能力，构成对福柯生命政治的激进拓展；在民族教育与语言政策研究中，学者进一步拓展出语言死亡政治与“自我牺牲”式死亡政治框架，揭示国家如何通过制度性剥夺与同化重塑少数群体的生存与认同。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 8
-theory_related_level: 0
-theory_related_stars: "☆"
-theory_related_color: "#e5e7eb"
+theory_related_count: 15
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theory/political-theory
   - theme/sovereignty

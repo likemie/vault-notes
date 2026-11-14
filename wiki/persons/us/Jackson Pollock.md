@@ -8,7 +8,7 @@ summary: "美国20世纪著名画家，抽象表现主义与行动绘画领军�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

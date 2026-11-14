@@ -7,7 +7,7 @@ summary: "19世纪苏格兰著名历史学家、散文家与哲学家；提出�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

@@ -8,7 +8,7 @@ aliases:
 summary: "早期计算机与软件文化中的反体制伦理体系，以史蒂文·利维（Steven Levy）1984年专著《黑客：计算机革命的英雄》为代表，主张一切信息应当自由共享、权力应当去中心化，并将企业、政府与大学官僚机构定性为压制探索冲动的缺陷系统；在卡普与扎米斯卡（2025）的科技政治批判框架中，黑客伦理在瓦解冷战国家科技动员传统的同时，为硅谷技术精英向个人消费主义与政治不可知论退缩奠定了文化基石。"
 type: concept
 domain: "ethics-of-technology"
-related_count: 21
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

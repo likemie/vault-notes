@@ -9,7 +9,7 @@ aliases:
 summary: "中国近现代政治与集体记忆中的核心历史创伤叙事，指代1840年至1949年受制于列强侵略的屈辱历程，构成了当代国家救亡图存、追求繁荣与实现民族复兴的深层心理机制与合法性根基"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

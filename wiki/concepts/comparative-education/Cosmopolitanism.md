@@ -9,7 +9,7 @@ aliases:
 summary: "主张个体首要伦理忠诚应归于全人类共同体而非特定民族国家的规范哲学与教育思潮。在比较教育中主张超越狭隘爱国主义培育世界公民；在政治哲学与战略治理中则引发深层张力——批评者指出抽象世界主义常制造公共道德真空，弱化民主政体的防卫意志与制度凝聚力；安德森在民族主义研究中揭示其对爱国政治之爱的病理化误判，并展示启蒙普遍主义如何使早期美洲独立实践被体验为自明的全人类真理。"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

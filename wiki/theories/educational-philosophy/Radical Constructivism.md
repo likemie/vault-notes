@@ -5,7 +5,7 @@ aliases:
 summary: "由冯·格拉泽斯费尔德创立的认识论与学习哲学，主张知识是认知主体对其经验世界的适切性组织，强调主观适应性检验，在教育学中引发了关于教学本质、文化规范与技术理性边界的深刻争鸣"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 45
+theory_related_count: 46
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"

@@ -8,10 +8,10 @@ aliases:
 summary: "本尼迪克特·安德森界定的殖民阶级文化构念，指19世纪晚期至20世纪初宗主国资产阶级官员与商人在海外殖民地建立的封建伪贵族生活方式。高度资本主义将宗主国工业与军事暴力置于舞台幕后，使普通平民文官得以在海外庄园与大批土著仆从簇拥下模仿贵族排场，构成了殖民种族主义的阶级心理与权力日常基础。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 13
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/colonialism
   - theme/class-reproduction

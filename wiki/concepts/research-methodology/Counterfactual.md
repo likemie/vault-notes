@@ -10,7 +10,7 @@ aliases:
 summary: "因果推断中通过构建与设想原因不存在时的潜在结果以识别真实因果效应的核心推理机制，在实证研究中依托控制组与随机分配构建无偏反事实代理"
 type: concept
 domain: "research-methodology"
-related_count: 63
+related_count: 64
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"

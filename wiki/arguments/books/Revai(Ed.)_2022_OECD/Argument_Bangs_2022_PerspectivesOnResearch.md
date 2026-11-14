@@ -7,9 +7,9 @@ title: "Argument_Bangs_2022_PerspectivesOnResearch"
 argument_key: "Argument_Bangs_2022_PerspectivesOnResearch"
 argument_display_title: "Perspectives on education research (N. Révai, Ed.)"
 argument_kind: "book-chapter"
-argument_related_count: 89
-argument_related_level: 8
-argument_related_stars: "💎💎⭐⭐"
+argument_related_count: 91
+argument_related_level: 9
+argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
 authors:
   - "[[John Bangs|Bangs, J.]]"

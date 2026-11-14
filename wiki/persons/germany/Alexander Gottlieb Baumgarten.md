@@ -10,10 +10,10 @@ summary: "德国理性主义哲学家，莱布尼茨-沃尔夫学派成员，首
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 0
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 13
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1714"
 died: "1762"
 lifespan: "1714–1762"

@@ -12,7 +12,7 @@ subtype: policy
 region: denmark
 fact_region: "denmark"
 fact_kind: "policy"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"

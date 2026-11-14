@@ -10,7 +10,7 @@ summary: "英国殖民行政长官、东方学家、新加坡开埠者。1811至
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

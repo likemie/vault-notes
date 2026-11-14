@@ -9,7 +9,7 @@ aliases:
 summary: "将零散或偶发的政策信息组织为结构化问题并隐含相应解法的组织原则与意义建构过程，涵盖诊断性、处方性与激励性三层维度。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

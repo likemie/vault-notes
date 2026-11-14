@@ -8,7 +8,7 @@ aliases:
 summary: "欧洲高等教育研究与早期比较区域主义中的理论假说，假定欧洲博洛尼亚进程是全球高等教育政策协调的先导范式与模仿样板，其他区域的一体化动力源于对欧洲经验的单向外生扩散；该假说因忽视非欧区域自主合作历史、官方明确抵制与主权防卫诉求而受到实证证伪"
 type: concept
 domain: "higher-education"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

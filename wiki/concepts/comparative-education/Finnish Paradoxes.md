@@ -10,7 +10,7 @@ aliases:
 summary: "芬兰比较教育学者萨尔伯格系统提炼的教育哲学构念，概括为教得少学得多、考试少成绩好、越多样越公平三大反常识命题。该构念揭示了依托高素质均衡师资、形成性支持评价与全纳兜底机制抗衡新自由主义问责规训的制度逻辑，成为芬兰国家教育品牌中最具辨识度的微观个性特质。"
 type: concept
 domain: "comparative-education"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

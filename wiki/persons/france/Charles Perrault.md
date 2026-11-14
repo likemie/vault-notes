@@ -8,10 +8,10 @@ summary: "17世纪法国古典主义时期的作家、法兰西学院院士、�
 type: person
 nationality: "france"
 person_region: "france"
-person_related_count: 4
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 12
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1628"
 died: "1703"
 lifespan: "1628–1703"

@@ -9,7 +9,7 @@ aliases:
 summary: "阿特巴赫开创的高等教育政治社会学与比较教育学理论，揭示全球知识生产与大学体系存在结构性的中心—边缘层级；极少数核心国家的研究型大学垄断着科学前沿范式、资源与学术声誉，主导着全球学术流动与人才深层嵌入。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 15
+theory_related_count: 16
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"

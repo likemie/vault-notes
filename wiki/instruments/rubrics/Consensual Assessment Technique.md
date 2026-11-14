@@ -6,7 +6,7 @@ aliases:
 summary: "由阿马比尔提出的创造性产品评估黄金标准，要求多位领域专家基于各自内隐经验独立对真实创造产物的新颖性与适切性进行相对评定"
 type: instrument
 instrument_type: rubric
-instrument_related_count: 18
+instrument_related_count: 19
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#ffedd5"

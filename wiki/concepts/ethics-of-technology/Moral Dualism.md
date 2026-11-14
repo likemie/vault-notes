@@ -7,10 +7,10 @@ aliases:
 summary: "一种将复杂人类社会与地缘政治简化为压迫者与被压迫者、统治者与被统治者对立的道德认知模式；该范式将无权者天然道德化并剥夺其道德能动性，忽视弱者与强者皆具有施恶潜能的历史事实，在科技与安全领域容易滋生逃避现实战略抉择的绝对和平主义。"
 type: concept
 domain: "ethics-of-technology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/ethics
   - theme/moral-philosophy

@@ -11,7 +11,7 @@ aliases:
 summary: "由研究者好奇心驱动并自主设定议程的开放式探索，涉及原创知识生产、同行问责，以及教育研究和科学资助中的自主性条件。"
 type: concept
 domain: "science-policy"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"

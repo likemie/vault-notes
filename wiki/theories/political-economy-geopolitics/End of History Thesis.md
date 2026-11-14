@@ -9,7 +9,7 @@ aliases:
 summary: "弗朗西斯·福山提出的政治哲学与国际政治理论，主张冷战结束标志着人类意识形态演进的终点与自由民主制作为人类政府最终形式的普世确立；后遭遇文明冲突论、威权韧性及技术共和国视角下胜者谬误与硬实力懈怠的深刻批判。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 22
+theory_related_count: 23
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"

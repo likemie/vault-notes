@@ -63,7 +63,7 @@ title: "Argument_Heinze_2009_RP"
 argument_key: "Argument_Heinze_2009_RP"
 argument_display_title: "Organizational and institutional influences on creativity in scientific research"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 25
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -76,7 +76,7 @@ journal: "Research Policy"
 > 科研机构微观组织特征（团队规模、领导风格、技能配置与空间结构）以及宏观制度环境（资助机制、同行评议规范与职业流动），如何系统性塑造科研团队产出突破性[[Scientific Creativity|科学创造力]]的能力？
 
 > [!claim] 核心主张
-> 重大科学突破高度依赖 2–8 人的小型科研团队、组织内部的[[Complementary Variety|互补多样性]]支持、稳定的弹性基线资助以及平权促进型学术领导；过度依赖短期竞争性同行评议资助、资助机构跟风立项与突破后团队盲目扩张，构成了扼杀早期高风险科学[[Creativity|创造力]]的关键制度障碍。
+> 重大科学突破高度依赖 2–8 人的小型科研团队、组织内部的[[Complementary Variety|互补多样性]]支持、稳定的弹性基线资助以及平权促进型学术领导；过度依赖短期竞争性同行评议资助、资助机构跟风立项与突破后团队盲目扩张，构成了扼杀早期高风险科学创造力的关键制度障碍。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 欧美纳米技术与人类遗传学领域 20 项顶尖高[[Creativity|创造性]]科研突破及其所在课题组。

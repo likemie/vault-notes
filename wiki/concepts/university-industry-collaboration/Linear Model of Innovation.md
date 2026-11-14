@@ -6,10 +6,10 @@ aliases:
 summary: "一种预设从基础科学到技术开发再到经济增长单向因果链的概念模型；战后主导科技政策资源配置，后因忽视反馈机制、轻视工程发明的前提使能地位以及导致本土制造脱节而遭受系统性批判。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - theme/innovation-studies
   - theme/science-policy

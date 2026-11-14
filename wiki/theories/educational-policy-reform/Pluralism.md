@@ -17,7 +17,7 @@ aliases:
 summary: "跨越政治学、文化哲学、科学知识社会学与比较教育学的核心理论。在政治与学科层面主张权力分散博弈与健康多范式共存；在比较教育中主张文化多元以抗衡普遍主义规训；在科层循证治理中揭示行政权威对科学多元主义的制度性压制。卡普与扎米斯卡结合麦金太尔与李光耀实践，进一步批判多元主义滑向文化相对主义、空洞程序中立与“包容一切即支持虚无”的淹没性陷阱，论证多元社会必须依托共同语言、实质美德与道德共同体维系长程凝聚力。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 63
+theory_related_count: 65
 theory_related_level: 6
 theory_related_stars: "💎💎"
 theory_related_color: "#fef3c7"

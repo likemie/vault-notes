@@ -8,7 +8,7 @@ aliases:
 summary: "儒家传统中通过终身学习与修身追求仁的理想人格与典范人物，兼具审美、伦理与自发道德实践维度；在现代政治哲学与国家治理视阈下，君子德性被李光耀等思想家阐释为抵御地缘政治脆弱性与维持社会凝聚力的实质性道德锚点，为超越形式主义程序中立提供了具体的文化伦理支撑。"
 type: concept
 domain: "chinese-philosophy"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

@@ -7,7 +7,7 @@ aliases:
 summary: "由雷默（J. C. Ramo）于2004年提出并在后危机时代演进的非西方发展范式与治理模式，强调国家战略规划、实验主义渐进改革、社会稳定与自主创新，在跨国高等教育中体现为国家战略驱动、全额奖学金供给与治国理政经验输出，与新自由主义华盛顿共识形成深刻对照。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"

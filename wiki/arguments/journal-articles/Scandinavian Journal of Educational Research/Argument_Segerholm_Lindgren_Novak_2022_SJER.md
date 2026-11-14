@@ -7,10 +7,10 @@ title: "Argument_Segerholm_Lindgren_Novak_2022_SJER"
 argument_key: "Argument_Segerholm_Lindgren_Novak_2022_SJER"
 argument_display_title: "Evidence-based governing? Educational research in the service of the Swedish Schools Inspectorate"
 argument_kind: "journal-article"
-argument_related_count: 49
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#dbeafe"
+argument_related_count: 50
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: "Scandinavian Journal of Educational Research"
 authors:
   - "Segerholm, C."

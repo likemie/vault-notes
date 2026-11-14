@@ -10,7 +10,7 @@ aliases:
 summary: "描述学术丑闻、撤稿危机与制度危机发生时声望资本对学者产生非对称性反噬与失衡责任分担的社会学机制；实证表明知名学者因学术欺诈撤稿所遭受的历史既往代表作引文损失远高于不知名同行，而在诚实错误下惩罚差异消失；在合著撤稿中则呈现出资深学者全身而退、青年学者承担毁灭性职业责任的残酷转嫁不对称。"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

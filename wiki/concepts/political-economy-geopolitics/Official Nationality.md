@@ -10,10 +10,10 @@ aliases:
 summary: "1832年沙俄教育大臣谢尔盖·乌瓦罗夫提出的意识形态纲领与教育方针，以‘专制、东正教与民族性’三位一体为核心。该构念是欧洲世袭封建君主政权最早系统借用现代‘民族’概念捍卫神权专制的理论原型；通过在学校教育中强化宗法效忠与等级隔离，防范西欧自由主义扩散，奠定了后续沙皇俄国全面推行强制俄罗斯化官方民族主义的思想与政策基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 13
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 25
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/political-economy
   - nationalism

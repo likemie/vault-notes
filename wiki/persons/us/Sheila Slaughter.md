@@ -7,7 +7,7 @@ summary: "美国当代著名高等教育学学者，佐治亚大学麦克比高�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

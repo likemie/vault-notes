@@ -10,7 +10,7 @@ aliases:
 summary: "学者在认知范畴、概念工具与研究方法具有高度亲和性的邻近学科之间开展转轨与交叉融合的创新模式；以方法迁移与工具外溢为核心驱动力，构成重大原始创新的主导跨学科形态。"
 type: concept
 domain: "higher-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

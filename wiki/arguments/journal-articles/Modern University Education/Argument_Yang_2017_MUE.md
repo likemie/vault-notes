@@ -80,7 +80,7 @@ title: "Argument_Yang_2017_MUE"
 argument_key: "Argument_Yang_2017_MUE"
 argument_display_title: "学术与政治: 卫星危机前后美国联邦政府大学科研资助政策的博弈与嬗变"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"

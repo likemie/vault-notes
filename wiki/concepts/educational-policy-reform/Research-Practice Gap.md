@@ -9,7 +9,7 @@ aliases:
 summary: "指教育研究与学校实践之间的系统性脱节：研究者与实践者常被形容为在两个分离的世界里工作，既是系统层面的常见障碍，也是贯穿各层级的跨层关系机制"
 type: concept
 domain: "educational-policy-reform"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"

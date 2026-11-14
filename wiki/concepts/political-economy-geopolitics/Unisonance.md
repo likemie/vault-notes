@@ -9,7 +9,7 @@ aliases:
 summary: "本尼迪克特·安德森界定的现代民族认同具象化机制，指通过在节庆典礼中齐声唱诵国歌或仪式诗歌，使互不相识的个体在同一瞬间用相同旋律与韵律发声，在物理声波与身体共鸣中具象感知齐一空洞时间中的共时存在，将抽象的民族想象转化为无私的集体手足情谊体验。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 7
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

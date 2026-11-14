@@ -8,7 +8,7 @@ aliases:
 summary: "本尼迪克特·安德森在《想象的共同体》中用于阐释19世纪欧洲民族主义兴起机制的核心构念，指18世纪末至19世纪以词典编纂、比较语法、民间史诗搜集与白话文学复兴为核心的学术与文化运动。语文学革命将神圣古典语言降格至与各地方言平等的世俗地位，确立了语言平等主义的认知范式，并通过双语词典与印刷出版物将方言提升为拥有崇高历史深度的印刷国语，为多语种王朝帝国境内的读写阶层提供了构建主权民族认同的认知工具与制度蓝图。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 26
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

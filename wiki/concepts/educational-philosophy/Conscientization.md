@@ -8,7 +8,7 @@ aliases:
 summary: "由保罗·弗莱雷提出的解放教育学核心构念，指受压迫者在提问式对话中觉察自身处境与权力支配结构，并将批判性反思与改造现实的行动融汇为反思实践的认识论深化过程。"
 type: concept
 domain: "educational-philosophy"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"

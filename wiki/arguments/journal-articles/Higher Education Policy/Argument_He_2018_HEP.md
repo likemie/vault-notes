@@ -7,9 +7,9 @@ title: "Argument_He_2018_HEP"
 argument_key: "Argument_He_2018_HEP"
 argument_display_title: "The return of China’s soft power in South East Asia: An analysis of the international branch campuses established by three Chinese universities"
 argument_kind: "journal-article"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "Higher Education Policy"
 authors:

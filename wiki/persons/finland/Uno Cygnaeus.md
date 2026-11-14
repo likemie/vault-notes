@@ -8,7 +8,7 @@ summary: "芬兰教育家与神职人员，被尊为“芬兰初等教育之父�
 type: person
 nationality: finland
 person_region: "finland"
-person_related_count: 11
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

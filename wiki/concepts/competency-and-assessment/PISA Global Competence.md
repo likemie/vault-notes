@@ -9,7 +9,7 @@ aliases:
 summary: "经合组织（OECD）在 PISA 2018 测评周期中确立的多维跨学科综合素养框架，评估青少年审视地方、全球和跨文化议题，理解与欣赏不同视角与世界观，与不同文化背景者进行开放、得体和有效互动，以及为了集体福祉与可持续发展采取行动的综合能力；由包含情境化认知任务的直接认知测验与学生背景问卷两部分组成，展现出从工具性劳动力技能向跨文化公民素养与全球社会责任的范式拓展，但也引发了学界关于西方价值观预设与量化治理的激烈争论。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

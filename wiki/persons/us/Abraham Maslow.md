@@ -9,7 +9,7 @@ summary: "美国心理学家，人本主义心理学主要奠基人，曾任美�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

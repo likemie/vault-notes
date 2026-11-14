@@ -9,7 +9,7 @@ summary: "中国现代哲学家、文学家、外交官，新文化运动与五�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
