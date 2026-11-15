@@ -9,7 +9,7 @@ summary: "美国科学教育与学习科学学者，加州大学洛杉矶分校�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -75,7 +75,7 @@ updated: 2026-11-15
 > [!timeline] 生平与学术节点
 > - **1990s** 在西北大学学习科学专业获得博士学位，受 Brian J. Reiser 等学者影响，深入探索基于软件支架支持中学生开展复杂[[Scientific Explanation|科学解释建构]]的研究（如 ExplanationConstructor 工具）。
 > - **2000s** 任职于加州大学洛杉矶分校（UCLA）教育与信息研究院，历任助理教授、副教授、正教授。在 *Science Education*、*Cognition and Instruction* 等顶刊发表系列奠基性成果。
-> - **2003–2005** 发表重要论文 *Formal explanations as causal narratives* (2003) 与 *Understanding students' practical epistemologies and their influence on learning science* (2005)，系统确立解释驱动探究框架与[[Practical Epistemology|实践认识论]]理论。
+> - **2003–2005** 发表重要文章 *Formal explanations as causal narratives* (2003) 与 *Understanding students' practical epistemologies and their influence on learning science* (2005)，系统确立解释驱动探究框架与[[Practical Epistemology|实践认识论]]理论。
 > - **2014** 在 *Journal of the Learning Sciences* 发表方法论名篇 *Conjecture Mapping: An Approach to Systematic Educational Design Research*，规范了学习科学中设计假设与干预中介的操作映射流程。
 > - **2016** 在 *Review of Research in Education* 发表综述 *Science education, epistemological commitments, and educational research*，全面梳理科学教育从心理信念向社会[[Epistemic Practices|认识论实践]]的历史转向。
 > - **2020s** 其关于科学解释评价标准（相关性、因果链、概念网络、多模态表征）的理论框架被广泛应用于跨国科学课程研制以及[[Man-Computer Symbiosis|人机协同]]探究教学（如 [[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez, 2026]]）。
@@ -87,7 +87,7 @@ updated: 2026-11-15
 >   - **核心问题** 传统科学教学侧重事实记忆，学生如何学会像科学家一样建构高质量的因果解释。
 >   - **代表著作** *Explanation-driven inquiry* (2004, with Brian Reiser); *Understanding students' practical epistemologies* (2005)。
 >   - **关键概念** [[Scientific Explanation|科学解释]]、因果叙事（Causal Narratives）、[[Practical Epistemology|实践认识论]]、[[Epistemic Scaffolding|认识论支架]]。
->   - **思想贡献** 确立了科学解释不是孤立的主张罗列，而是回答“为什么”与“如何发生”的因果机制链条，提出了相关性、[[Causality|因果性]]、概念性与表征水平等评价维度。
+>   - **思想贡献** 确立了科学解释作为回答“为什么”与“如何发生”的因果机制链条（区别于孤立的主张罗列），提出了相关性、[[Causality|因果性]]、概念性与表征水平等评价维度。
 > - **2010s 至今 — 实践[[Epistemology|认识论]]转向与[[Design-Based Research|设计研究]]方法论**
 >   - **核心问题** 学生的[[Epistemological Beliefs|认识论信念]]如何转化为课堂探究行动，以及如何系统设计干预环境促进深层探究。
 >   - **代表著作** *Conjecture Mapping* (2014); *Science education, epistemological commitments, and educational research* (2016)。
@@ -97,7 +97,7 @@ updated: 2026-11-15
 ---
 
 > [!claim] 核心思想
-> 桑多瓦尔主张科学教育的核心目标是培育学生的“[[Practical Epistemology|实践认识论]]”素养。科学探究不能停留于遵循教条化的操作步骤，而应以建构和评估“因果解释”为核心引擎。学生对科学知识本质的理解，并非体现在脱离情境的哲学[[Questionnaire|问卷]]回答中，而是直接具象化在他们日常探究中如何寻找证据、如何串联因果机制、如何排查逻辑漏洞以及如何评判模型优劣的实践行动之中。因此，教学干预必须提供显性的学科[[Epistemic Ideals|认识论标准]]与[[Scaffolding|脚手架]]，支持学生自主建构因果叙事并确立对科学知识的审验权威。
+> 桑多瓦尔主张科学教育的核心目标是培育学生的“[[Practical Epistemology|实践认识论]]”素养。科学探究不能停留于遵循教条化的操作步骤，而应以建构和评估“因果解释”为核心引擎。学生对科学知识本质的理解直接具象化在他们日常探究中如何寻找证据、如何串联因果机制、如何排查逻辑漏洞以及如何评判模型优劣的实践行动之中，远超脱离情境的哲学[[Questionnaire|问卷]]回答。因此，教学干预必须提供显性的学科[[Epistemic Ideals|认识论标准]]与[[Scaffolding|脚手架]]，支持学生自主建构因果叙事并确立对科学知识的审验权威。
 
 > [!citation-card] 论实践[[Epistemology|认识论]]对科学学习的塑造
 > 学生在探究中所践行的认识论，决定了他们如何组织探究活动、如何对待反常数据以及何时认为一项解释已经‘足够好’。唯有显化科学家评价解释的学科标准，才能引导学生从表层操作跨越到深层科学机制的建构。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, pp. 638–642)]]

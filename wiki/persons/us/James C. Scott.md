@@ -9,7 +9,7 @@ summary: "美国著名比较政治学家与政治人类学家，耶鲁大学斯�
 type: person
 subtype: scholar
 person_region: "us"
-person_related_count: 23
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

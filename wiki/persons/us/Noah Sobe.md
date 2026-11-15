@@ -9,10 +9,10 @@ summary: "美国芝加哥洛约拉大学比较教育学与教育政策教授，�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 20
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 19
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "c. 1971"
 died: ""
 lifespan: "c. 1971–至今"

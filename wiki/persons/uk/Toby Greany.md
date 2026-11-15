@@ -7,7 +7,7 @@ summary: "英国诺丁汉大学教育领导力教授，前伦敦大学学院教�
 type: person
 nationality: "uk"
 person_region: "uk"
-person_related_count: 24
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -89,7 +89,7 @@ updated: 2026-11-15
 ---
 
 > [!claim] 核心思想
-> 英格兰倡导的“[[Self-Improving School System\|自我改进学校系统]]”并未真正消除新自由主义官僚控制，而是构建了一种由科层问责统领、[[Quasi-market|准市场]]生源竞争渗透、横向网络弱势共存的三重混合治理模式；在缺乏外部督导体制与问责激励协同调整的情况下，单纯依靠学校自发探索无法形成普遍的循证实践生态。
+> 英格兰倡导的“[[Self-Improving School System\|自我改进学校系统]]”在保留新自由主义官僚控制的同时，构建了一种由科层问责统领、[[Quasi-market|准市场]]生源竞争渗透、横向网络弱势共存的三重混合治理模式；在缺乏外部督导体制与问责激励协同调整的情况下，单纯依靠学校自发探索无法形成普遍的循证实践生态。
 
 > [!citation-card] 外部问责框架转型作为证据知情自改进的先决条件
 > 外部问责与视导结构若不明确转向支持循证改进，英格兰自我改进学校系统的根基注定脆弱不堪。因此，现行的 [[Ofsted]] 督导框架必须实施彻底改革，确保证据知情学校改进不仅受到制度性鼓励，更成为免受防御性迎检焦虑侵害的法定核心支柱。（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 133]]）
@@ -106,9 +106,9 @@ updated: 2026-11-15
 ---
 
 > [!person-network] 关系网络
-> - **核心实证合作者** [[Chris Brown]] — 长期搭档推进[[Evidence-Informed Practice\|证据知情实践]]研究，共同发表包括 LPS 实证论文在内的系列代表作。
-> - **政策与治理合作者** 罗伯·海厄姆（Rob Higham） — 深度合作撰写英格兰混合治理三重机制的大型研究专著。
-> - **测量合作者** [[Alan Daly]] — 共同参与 [[Research Learning Communities\|RLC]] 项目的调查工具开发与[[Network Analysis\|社会网络分析]]。
+> - **核心实证研究伙伴** [[Chris Brown]] — 长期搭档推进[[Evidence-Informed Practice\|证据知情实践]]研究，共同发表包括 LPS 实证文章在内的系列代表作。
+> - **政策与治理研究伙伴** 罗伯·海厄姆（Rob Higham） — 深度合作撰写英格兰混合治理三重机制的大型研究专著。
+> - **测量研究伙伴** [[Alan Daly]] — 共同参与 [[Research Learning Communities\|RLC]] 项目的调查工具开发与[[Network Analysis\|社会网络分析]]。
 
 ---
 

@@ -9,7 +9,7 @@ summary: "芝加哥大学教育与社会学教授、比较教育研究中心主�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 32
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -71,7 +71,7 @@ updated: 2026-11-15
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名教育社会学家、比较教育学家，芝加哥大学教育系与社会学系教授，芝加哥大学比较教育研究中心（[[Comparative Education Center at Chicago 1958\|Comparative Education Center]]）创任主任（1958–1972 年），美国[[Comparative and International Education Society\|比较与国际教育学会]]（Comparative and [[International Education]] Society, CIES）前会长（1963–1964 年）。
 > - **核心角色** 比较教育第三论述代际（社会科学与[[Positivism\|实证主义]]代际）芝加哥学派的核心领军人物；将[[Structural Functionalism|结构功能主义]]社会学理论系统引入跨国比较，强力倡导摆脱历史个殊性描述，确立探寻教育制度与外部社会矩阵之间恒常规律的经验实证[[Paradigm\|范式]]。
-> - **代表贡献** 创立享誉全球的芝加哥大学比较教育研究中心并培养了包括[[Philip Foster\|菲利普·福斯特]]（Philip Foster）在内的整整一代实证社会学学者；发表纲领性论文《比较教育学的方法论》（1961 年）；与玛丽·让·鲍曼（Mary Jean Bowman）合作奠定比较教育与经济发展、[[Human Capital Theory\|人力资本]]跨国测量的基础。
+> - **代表贡献** 创立享誉全球的芝加哥大学比较教育研究中心并培养了包括[[Philip Foster\|菲利普·福斯特]]（Philip Foster）在内的整整一代实证社会学学者；发表纲领性文章《比较教育学的方法论》（1961 年）；与玛丽·让·鲍曼（Mary Jean Bowman）合作奠定比较教育与经济发展、[[Human Capital Theory\|人力资本]]跨国测量的基础。
 
 > [!citation-card] Kazamias论芝加哥学派的恒常规律追求与结构功能分析
 > 在比较教育第三论述代际（社会科学与实证主义代际）中，安德森与福斯特代表了芝加哥学派的结构功能主义进路。他们将社会学的客观功能分析全面引入教育研究，重点考察学校教育在社会流动、人才选拔和人力资源配置中的客观作用，极力探求不受具体时空限制的教育与社会运行普遍规律，试图为战后新兴国家的技术援助与五年计划提供实证依据。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 146–147)]]
@@ -90,7 +90,7 @@ updated: 2026-11-15
 > - **1927–1932 年** 在明尼苏达大学攻读社会学，先后获得学士、硕士和博士学位。
 > - **1930 年代–1940 年代** 先后在艾奥瓦州立学院、哈佛大学以及肯塔基大学任教，从事农村社会学、社会分层与教育机会研究。
 > - **1958 年** 受聘加盟芝加哥大学，创立芝加哥大学比较教育研究中心（[[Comparative Education Center at Chicago 1958\|Comparative Education Center]]）并出任创任主任，开启长达数十年的学科领导历程。
-> - **1961 年** 在《[[International Education|国际教育]]评论》发表里程碑论文《比较教育学的方法论》（*Methodology of comparative education*），正式向传统历史学派下达实证方法论战书。
+> - **1961 年** 在《[[International Education|国际教育]]评论》发表里程碑文章《比较教育学的方法论》（*Methodology of comparative education*），正式向传统历史学派下达实证方法论战书。
 > - **1963–1964 年** 当选并出任美国比较教育学会（后更名为 [[Comparative and International Education Society|CIES]]）会长。
 > - **1965 年** 与 Mary Jean Bowman 合著出版《教育与经济发展》（*Education and Economic Development*），推动比较教育全面介入战后发展中国家的[[Human Capital Theory|人力资本]]规划。
 > - **1972 年** 从芝加哥大学比较教育研究中心主任职位荣休，继续从事[[Transnational Education|跨国教育]]平等与职业流动的比较研究。
@@ -188,7 +188,7 @@ updated: 2026-11-15
 ---
 
 > [!person-network] 关系网络
-> - **芝加哥学派学术搭档与门生** 福斯特 — 芝加哥中心副主任、核心合作者与学生；玛丽·让·鲍曼（Mary Jean Bowman） — [[Human Capital Theory|人力资本]]与教育经济学长期合作者；
+> - **芝加哥学派学术搭档与门生** 福斯特 — 芝加哥中心副主任、核心搭档与学生；玛丽·让·鲍曼（Mary Jean Bowman） — [[Human Capital Theory|人力资本]]与教育经济学长期研究伙伴；
 > - **跨大西洋实证科学化同盟** 诺亚、埃克斯坦（哥大学派）、霍姆斯（伦敦学派） — 共同构成第三代际社会科学化运动的三大重镇；
 > - **方法论论辩对手** 传统历史学派（[[Isaac Kandel\|坎德尔]]、汉斯、[[Michael Sadler\|萨德勒]]）及历史比较史学家（卡扎米亚斯）；
 > - **学术史评价者** [[Val D. Rust\|瓦尔·D·拉斯特]]（Val D. Rust） — 考据安德森将常规社会科学规范引入学科的奠基地位。

@@ -9,10 +9,10 @@ summary: "美国比较教育学家，加州大学洛杉矶分校（UCLA）荣休
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 41
-person_related_level: 4
-person_related_stars: "💎⭐"
-person_related_color: "#fce7f3"
+person_related_count: 39
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1934"
 lifespan: "1934–至今"
 tags:
@@ -87,7 +87,7 @@ updated: 2026-11-15
 
 > [!timeline] 生平与职涯
 > - **1934** 出生于美国犹他州。早年求学于杨百翰大学（Brigham Young University）攻读历史学，随后在斯坦福大学与明尼苏达大学深造。
-> - **1967** 在密歇根大学师从美国著名教育史学家与比较教育奠基人[[Claude A. Eggertsen|克劳德·埃格特森]]（Claude A. Eggertsen），完成[[Doctoral Dissertation|博士论文]]《一战以来德国对外国教育的兴趣》（*German Interest in Foreign Education Since World War I*），开创[[Intercultural Education|跨文化教育]]双向影响的专精研究。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 126)]]
+> - **1967** 在密歇根大学师从美国著名教育史学家与比较教育奠基人[[Claude A. Eggertsen|克劳德·埃格特森]]（Claude A. Eggertsen），完成[[Doctoral Dissertation|博士学位研究]]《一战以来德国对外国教育的兴趣》（*German Interest in Foreign Education Since World War I*），开创[[Intercultural Education|跨文化教育]]双向影响的专精研究。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 126)]]
 > - **1969** 加入加州大学洛杉矶分校（UCLA）教育研究生院，历任助理教授、副教授、正教授，主持比较与[[International Education|国际教育]]研究中心，培养了跨越数十年的跨国博士生团队。
 > - **1988–1989** 当选并出任美国[[Comparative and International Education Society|比较与国际教育学会]]（CIES）会长，发表多篇反思学科[[Epistemology|认识论]]基础与方法演化的会长演说与纲领性[[Document|文献]]。
 > - **1990s–2000s** 深入开展挪威教育改革长程制度追踪、德美双向[[Policy Borrowing|教育借用]]比较，并主持 UCLA 团队对全球比较教育主流期刊的研究策略与[[Theoretical Perspective|理论取向]]展开大规模文献计量调查。
@@ -96,10 +96,10 @@ updated: 2026-11-15
 ---
 
 > [!work-line] 主要著作
-> - **1967 — *German Interest in Foreign Education Since World War I*** 博士学位论文，系统梳理德国现代历史上对外部国家教育体制的借鉴与反思，奠定[[Influences Across Cultures|跨文化影响]]研究的实证史学基石。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 126)]]
+> - **1967 — *German Interest in Foreign Education Since World War I*** 博士学位专论，系统梳理德国现代历史上对外部国家教育体制的借鉴与反思，奠定[[Influences Across Cultures|跨文化影响]]研究的实证史学基石。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 126)]]
 > - **1989 — *The Democratic Tradition and the Evolution of Schooling in Norway*** 追踪挪威十九世纪以来的民主政治传统与学校制度演进，提出[[Policy Borrowing|政策借用]]从发起调研、凝聚共识、法定架构到落地实施的四阶段模型。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 124)]]
 > - **1999 — *[[Research Strategies in Comparative Education]]*** 与学生合作在《比较教育评论》（*CER*）发表大规模实证计量分析，系统检视 1950 年代以来比较教育研究在文本综述、量化测量、田野[[Ethnography|民族志]]与大型数据库运用上的演化轨迹。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 135)]]
-> - **2003 — *Theory in Comparative Education*** 基于对主要期刊作者的大规模学术[[Questionnaire|问卷]]，绘制包含 26 种理论传统的学科全景地图，确立学科从[[Structural Functionalism|结构功能主义]]正统走向理论[[Pluralism|多元主义]]的转折。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 132)]]
+> - **2003 — *Theory in Comparative Education*** 基于对主要期刊撰稿人的大规模学术[[Questionnaire|问卷]]，绘制包含 26 种理论传统的学科全景地图，确立学科从[[Structural Functionalism|结构功能主义]]正统走向理论[[Pluralism|多元主义]]的转折。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 132)]]
 > - **2004 — *Foreign Influences in Educational Reform*** 首次建构教育应对全球化的三维分析[[Paradigm|范式]]，将教育响应区分为主动采纳的“接受”、抵制霸权的“反抗”以及本土知识的“恢复”。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 133–134)]]
 > - **2009 — *Reflections on the Development of Comparative Education*** 总结比较教育学跨越两百年的学科史编纂学，平反前实证时期的跨文化经验研究，并将全球化响应模型拓展为涵盖“强制再生产”的批判四元论。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–138)]]
 
@@ -143,10 +143,10 @@ updated: 2026-11-15
 > > 针对全球化背景下政策借用的性质存在显著的[[Epistemology|认识论]]分歧。
 > >
 > > - **技术功能主义借用论** 认为全球化推动了最佳教育实践的跨国自愿借鉴与趋同。
-> > - **批判[[Dependency Theory|依附论]]（拉斯特等）** 揭示受援国接受外部政策往往并非自愿借用，而是受制于[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]的贷款硬约束，实质是强制再生产与新自由主义市场化霸权。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 134–135)]]
+> > - **批判[[Dependency Theory|依附论]]（拉斯特等）** 揭示受援国接受外部政策往往受制于[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]的贷款硬约束，实质是强制再生产与新自由主义市场化霸权，难言自愿借用。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 134–135)]]
 
 > [!warning] 未解问题与适用边界
-> - **文献计量抽样的截面局限** 其团队关于 26 种范式的统计主要基于 UCLA 对核心英语期刊作者的[[Questionnaire|问卷调查]]，未能充分覆盖非英语学术圈与边缘国家的本土出版物。
+> - **文献计量抽样的截面局限** 其团队关于 26 种范式的统计主要基于 UCLA 对核心英语期刊撰稿人的[[Questionnaire|问卷调查]]，未能充分覆盖非英语学术圈与边缘国家的本土出版物。
 > - **非西方边缘学者的能见度困境** 尽管世界学会网络大幅扩展，但在全球学术政治经济不平等制约下，低人类发展指数国家的学者在国际核心刊物中的代表性依然显著不足。
 
 ---

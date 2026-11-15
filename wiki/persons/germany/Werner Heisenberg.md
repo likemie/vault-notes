@@ -10,10 +10,10 @@ summary: "德国理论物理学家、量子力学奠基人之一、1932 年诺�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 10
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 9
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1901"
 died: "1976"
 lifespan: "1901–1976"

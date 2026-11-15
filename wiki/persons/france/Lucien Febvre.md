@@ -8,7 +8,7 @@ summary: "法国著名历史学家，年鉴学派联合创始人，与亨利-让
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 4
+person_related_count: 5
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"

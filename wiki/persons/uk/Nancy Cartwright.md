@@ -7,10 +7,10 @@ summary: "英国科学哲学家，因果机制、证据外推与反思 RCT 局�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 40
-person_related_level: 4
-person_related_stars: "💎⭐"
-person_related_color: "#fce7f3"
+person_related_count: 38
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1944"
 died: ""
 lifespan: "1944–至今"
@@ -77,7 +77,7 @@ updated: 2026-11-15
 > - **代表贡献** 提出 RCT 证据外推三阶段模型、因果机制支持性因素理论（Support Factors / INUS 条件），为教育循证实践中抵御“机械剪贴”并确立“情境[[Recontextualization\|再脉络化]]”提供了底层[[Epistemology\|认识论]]。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015)]]
 
 > [!citation-card] 人物定位的关键来源
-> 卡特赖特的研究并非抽象形而上学推演，而是直接回应一项核心现实难题：在某处取得成功的政策或教学证据，凭什么能够在此时此地的全新课堂中奏效。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 10–11)]]
+> 卡特赖特的研究直接回应一项核心现实难题：在某处取得成功的政策或教学证据，凭什么能够在此时此地的全新课堂中奏效。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 10–11)]]
 >
 > *Cartwright's work directly addresses the practical challenge of [[External Validity]]: how evidence that an intervention worked "somewhere" can warrant claims that it will work "here and now."*
 
@@ -92,7 +92,7 @@ updated: 2026-11-15
 ---
 
 > [!work-line] 主要著作
-> - **2010 — *The limitations of [[Randomised Controlled Trials\|randomized controlled trials]] in predicting effectiveness*** 揭示 [[Randomised Controlled Trials\|RCT]] 证据外推的三阶段跃迁困境（it-works-somewhere $\to$ capacity claims $\to$ it-will-work-for-us），阐明未明机制下的外推盲目性。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 10)]]
+> - **2010 — *The limitations of [[Randomised Controlled Trials\|randomized controlled trials]] in predicting effectiveness*** 揭示 [[Randomised Controlled Trials\|RCT]] 证据外推的三阶段外推跨度困境（it-works-somewhere $\to$ capacity claims $\to$ it-will-work-for-us），阐明未明机制下的外推盲目性。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 10)]]
 > - **2012 — *[[Evidence-Based Policy-Making|Evidence-Based Policy]]: A Practical Guide to Doing It Better*（与 Jeremy Hardie 合著）** 系统建构证据知情政策的实用操作框架，提出支持因素饼图（Support Factor Cakes）与因果作用通路。
 > - **2013 — *Knowing what we are talking about: Why evidence doesn't always travel*** 深入论证证据跨情境迁移的边界约束，指出忽视原生地行动理论与依附条件的移植注定失败，成为教育循证研究倡导情境[[Recontextualization\|再脉络化]]的核心参考[[Document|文献]]。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 123)]]
 > - **2014 — *Making the Most of the Evidence in Education: A Guide for Working Out What Works... Here and Now*（与 [[Nick Cowen]] 合著）** 专为一线教育实践者编写的循证指南，批判教条化的方案忠实度，倡导基于校本特征的[[Creativity\|创造性]]适配。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015)]]
@@ -108,7 +108,7 @@ updated: 2026-11-15
 > *“It is widely acknowledged that we generally don't know all the important causes for a factor, let alone knowing the distribution of subpopulations homogeneous with respect to these in the study and the target populations.”*（Cartwright & Munro, 2010, p. 263）
 
 > [!citation-card] 论证据跨情境迁移的再脉络化必要性
-> 教师运用研究绝非简单地在不同情境间“剪切和粘贴”（cutting and pasting）改进方案，这种做法几乎不可能奏效。相反，实践者必须具备衡量其行动理论及支持性因素的能力，查明原始干预在原情境中起效的[[Necessary and Sufficient Conditions\|必要条件]]，并审思这些条件如何能有效转译到自身所在的新环境。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 123)]]
+> 教师在不同情境间简单“剪切和粘贴”（cutting and pasting）改进方案的做法几乎不可能奏效；实践者必须具备衡量其行动理论及支持性因素的能力，查明原始干预在原情境中起效的[[Necessary and Sufficient Conditions\|必要条件]]，并审思这些条件如何能有效转译到自身所在的新环境。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 123)]]
 >
 > *“Rather than simply ‘cutting and pasting’ approaches to improve practice from one setting to another, which is never likely to be effective, teachers need to be able to gauge which theories of action and supporting/dependent factors were required to make the intervention work in its original setting and how these might translate to their own setting.”*（Cartwright, 2013; cited in Brown & Greany, 2018, p. 123）
 
@@ -126,8 +126,8 @@ updated: 2026-11-15
 ---
 
 > [!person-network] 关系网络
-> - **学术合作者** [[Nick Cowen]] — 共同撰写教育循证政策工作论文，将卡特赖特因果哲学落地为学校决策指南。
-> - **学术合作者** Jeremy Hardie — 共同撰写《证据知情政策实践指南》（2012）。
+> - **学术伙伴** [[Nick Cowen]] — 共同撰写教育循证政策工作研究，将卡特赖特因果哲学落地为学校决策指南。
+> - **学术伙伴** Jeremy Hardie — 共同撰写《证据知情政策实践指南》（2012）。
 > - **教育学共振者** [[Gert Biesta]] — 同样反对医学化 [[Randomised Controlled Trials\|RCT]] 垄断教育研究，从价值哲学与因果哲学双向夹击“什么有效”教条。
 > - **教育研究应用者** [[Chris Brown]]、[[Toby Greany]] — 在[[Evidence-Based School Development\|循证学校改进]]研究中将卡特赖特外推思想[[Operationalization\|操作化]]为校本探究转译原则。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 123)]]
 
@@ -139,7 +139,7 @@ updated: 2026-11-15
 > > 争论卡特赖特对 [[Randomised Controlled Trials\|RCT]] 局限性的批判是否会削弱[[Evidence-Based Education\|循证教育]]的科学威信。
 > >
 > > - **[[Pragmatism in China\|实验主义]]捍卫者** 担忧过度强调机制未明与情境[[Heterogeneity\|异质性]]会导致学校放弃高严谨性的大规模量化证据，重回[[Empiricism\|经验主义]]清谈。
-> > - **卡特赖特的回应** 明确阐明自己绝不反对 RCT 实验，而是反对在完全不理解因果机制与边界条件的情况下开展盲目的野蛮外推。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 11)]]
+> > - **卡特赖特的回应** 明确阐明自己支持合理使用 RCT 实验，仅反对在完全不理解因果机制与边界条件的情况下开展盲目外推。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 11)]]
 
 > [!warning] 实践[[Operationalization\|操作化]]的复杂度门槛
 > 卡特赖特倡导的“分析所有潜在因果机制与协同支持因素”在哲学上极其完备，但在日常教学高度繁重、时间极其匮乏的中小学现场，一线教师往往缺乏足够的资源与分析素养去绘制详尽的因果饼图，容易在复杂分析中陷入行动迟缓。
@@ -152,7 +152,7 @@ updated: 2026-11-15
 > |:-----|:-----|:-----|
 > | [[Cartwright's Three-Stage Knowledge Framework]] | 理论 | 卡特赖特提出的核心外推模型，解析从局部有效到本土起效的三阶段转化机制。 |
 > | [[Causality]] | 概念 | 卡特赖特毕生深耕的科学哲学核心议题，区分因果定律与情境因果容量。 |
-> | [[Programme Fidelity vs Adaptation]] | 概念 | 卡特赖特所介入的核心政策辩论，论证保真度并非金科玉律、本土适配方能成功的机理。 |
+> | [[Programme Fidelity vs Adaptation]] | 概念 | 卡特赖特所介入的核心政策辩论，论证本土适配相对于僵化保真度的必要性与作用机理。 |
 > | [[Evidence-Informed Practice]] | 概念 | 卡特赖特理论在教育领域的具象化形态，要求教师行使批判性因果审议。 |
 > | [[School Enquiry Cycle]] | 概念 | 探究循环中强调基于行动理论的情境转译，直接渊源于卡特赖特的证据迁移论。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 123)]] |
 > | [[Transfer Translation Transformation]] | 概念 | 描述研究证据从学术界向学校情境化再生的深层转化理论。 |

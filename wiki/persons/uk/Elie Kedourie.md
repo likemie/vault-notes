@@ -8,7 +8,7 @@ summary: "英国著名保守主义政治哲学家、思想史家，伦敦政治�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

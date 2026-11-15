@@ -8,7 +8,7 @@ summary: "美国著名人类学家、无政府主义理论家，曾任教于耶�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -100,8 +100,8 @@ updated: 2026-11-15
 ---
 
 > [!person-network] 关系网络
-> - **博士导师** 马歇尔·萨林斯（Marshall Sahlins） — 著名人类学家，《石器时代经济学》作者。
-> - **晚期合作者** 戴维·温格罗（David Wengrow） — 伦敦大学学院考古学教授，合著《万物的黎明》。
+> - **博士导师** 马歇尔·萨林斯（Marshall Sahlins） — 著名人类学家，《石器时代经济学》撰著者。
+> - **晚期研究伙伴** 戴维·温格罗（David Wengrow） — 伦敦大学学院考古学教授，合著《万物的黎明》。
 > - **跨界对话者** [[Peter Thiel|彼得·蒂尔]] — 虽政治立场截然对立，但两人对“科技停滞于 140 字符与屏幕”的批判高度共鸣。
 
 ---

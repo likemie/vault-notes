@@ -7,7 +7,7 @@ summary: "葡萄牙应用数学家、统计学家与前教育与科学部部长�
 type: person
 nationality: "portugal"
 person_region: "portugal"
-person_related_count: 14
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

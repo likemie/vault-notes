@@ -9,7 +9,7 @@ summary: "美国广告界先驱与创造力教育先锋，BBDO 广告公司联�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 15
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

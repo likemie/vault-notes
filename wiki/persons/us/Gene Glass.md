@@ -8,7 +8,7 @@ summary: "美国教育心理学家与统计学家 1976年创造元分析一词�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 38
+person_related_count: 37
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -103,7 +103,7 @@ updated: 2026-11-15
 ---
 
 > [!claim] 核心思想
-> [[Meta-analysis|元分析]]的[[Epistemology|认识论]]灵魂在于跨越不同测量工具与情境约束，将各独立研究的效果标准化为可比尺度（如 Glass's $\Delta$），进而在离散变异中揭示真实规律。元分析绝非将多元异[[Qualitative Research|质的研究]]粗暴压缩为一个孤立的平均数字，而是必须完整呈现效果分布的复杂图表。混杂不同的研究如同研究水果时混合苹果与橙子，唯有探索水果整体的多样性才配得上严肃科学探究；将元分析简化为单一数字排行榜的做法，彻底背离了统计综合的科学初衷。
+> [[Meta-analysis|元分析]]的[[Epistemology|认识论]]灵魂在于跨越不同测量工具与情境约束，将各独立研究的效果标准化为可比尺度（如 Glass's $\Delta$），进而在离散变异中揭示真实规律。元分析必须完整呈现效果分布的复杂图表，避免将多元异[[Qualitative Research|质的研究]]粗暴压缩为一个孤立的平均数字。混杂不同的研究如同研究水果时混合苹果与橙子，唯有探索水果整体的多样性才配得上严肃科学探究；将元分析简化为单一数字排行榜的做法，彻底背离了统计综合的科学初衷。
 
 > [!math-def] 标准化[[Effect Size|效应量]]测度：Glass's $\Delta$ 的数理设定与除数逻辑
 > 格拉斯针对实验干预与对照设计的元分析提出标准化均值差度量 Glass's $\Delta$：
@@ -129,7 +129,7 @@ updated: 2026-11-15
 
 > [!influence-path] 影响路径
 > - **理论路径** 确立了[[Empiricism|经验主义]]与[[Postpositivism|后实证主义]]多源[[Research Synthesis|证据综合]]的合法性，促使社会科学摆脱单一小样本研究的片面局限。
-> - **方法路径** 使[[Meta-analysis|元分析]]跃升为医学（如 Cochrane 协作网）与教育学（如 Campbell 协作网）的标准综合工具；Glass's $\Delta$ 奠定了跨量表标准化[[Effect Size|效应量]]的通用算法。
+> - **方法路径** 使[[Meta-analysis|元分析]]成为医学（如 Cochrane 协作网）与教育学（如 Campbell 协作网）的标准综合工具；Glass's $\Delta$ 奠定了跨量表标准化[[Effect Size|效应量]]的通用算法。
 > - **政策路径** 深刻启发了现代[[Evidence-Based Education|循证教育]]与政策证据库（如美国 [[What Works Clearinghouse|WWC]]、英国 [[Education Endowment Foundation|EEF]] 工具包及[[John Hattie|约翰·哈蒂]]的 [[Visible Learning]]）的建设。
 > - **批判性学术回响** 格拉斯关于图表与[[Heterogeneity|异质性]]的警示，成为当代批判性学者（如 Wrigley、Johnson & Janzen）反思新自由主义[[Governing by Numbers|数字治理]]与伪科学简单平均的核心思想武器。
 
@@ -145,7 +145,7 @@ updated: 2026-11-15
 ---
 
 > [!person-network] 关系网络
-> - **核心合作者** 玛丽·李·史密斯（Mary Lee Smith） — 共同开创心理治疗与[[Class Size|班级规模]]两大里程碑[[Meta-analysis|元分析]]，确立元分析的操作规程与图表规范。
+> - **核心研究伙伴** 玛丽·李·史密斯（Mary Lee Smith） — 共同开创心理治疗与[[Class Size|班级规模]]两大里程碑[[Meta-analysis|元分析]]，确立元分析的操作规程与图表规范。
 > - **思想渊源** 本杰明·布鲁姆（Benjamin Bloom） — 影响了其将标准差单位作为跨测验[[Effect Size|效应量]]统一维度的统计学思考。
 > - **指标对照者** [[Jacob Cohen|雅各布·科恩]]（Jacob Cohen） — 科恩提出以合并标准差为除数的 Cohen's $d$（假定方差齐性），与格拉斯以对照组标准差为除数的 Glass's $\Delta$（包容干预引起的方差[[Heterogeneity|异质性]]）并列为两大经典标准化效应量流派。两者在元分析中的无换算混同是后世方法学审查的重点。
 > - **争议性继承者** [[John Hattie|约翰·哈蒂]]（John Hattie） — 将元分析进一步聚合为[[Meta-meta-analysis|元-元分析]]，但在操作中走向了简单平均与单一效应量排行榜，被学界指责背离了格拉斯的初衷。
@@ -156,7 +156,7 @@ updated: 2026-11-15
 > [!debates] 学术争议
 >
 > > [!axis] 苹果与橙子的[[Heterogeneity|异质性]]混合争议
-> > 方法论与[[Positivism|实证主义]]学者质疑[[Meta-analysis|元分析]]将不同测量指标、不同教学法和不同人群的研究混为一谈属于统计炼金术。格拉斯反驳指出，研究水果整体必然包含苹果与橙子，关键在于展现不同条件下的分布差异，而不是机械输出一个毫无指导意义的单一均值。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 37)]]
+> > 方法论与[[Positivism|实证主义]]学者质疑[[Meta-analysis|元分析]]将不同测量指标、不同教学法和不同人群的研究混为一谈属于统计炼金术。格拉斯反驳指出，研究水果整体必然包含苹果与橙子，关键在于展现不同条件下的分布差异，避免机械输出一个毫无指导意义的单一均值。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 37)]]
 >
 > > [!axis] 元分析成果遭政策工具化与断章取义截取争议
 > > 批判学者指出，格拉斯与史密斯（1979）原本清晰证实了[[Class Size|班级规模]]减少具有超过 30 个百分位点的巨大增益，但后世政策倡导者（如[[John Hattie|哈蒂]]）却宣称从中提取出 $d=0.09$ 的极低[[Effect Size|效应量]]。格拉斯的严谨实验曲线被剥离上下文，局部极平缓尾端被断章取义截取，充当了政府削减教育经费、推卸增编责任的实证借口。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 32–33)]]
@@ -174,7 +174,7 @@ updated: 2026-11-15
 本条目所依托的吉恩·格拉斯经典方法学论断与当代实证对勘引文如下。
 
 > [!citation-card] 探索变异性：科学家的[[The Sublime|崇高]]事业
-> 跨越[[Research Scope|研究边界]]去综合证据，并不是为了抹杀研究之间的区别，而是为了理解究竟是什么条件导致了效果的波动。探索变异性的分布本身，才是[[Meta-analysis|元分析]]不可替代的[[Epistemic Value|认识论价值]]所在。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 37)]]
+> 跨越[[Research Scope|研究边界]]去综合证据，旨在理解究竟是什么条件导致了效果的波动，保留研究之间的实质区别。探索变异性的分布本身，才是[[Meta-analysis|元分析]]不可替代的[[Epistemic Value|认识论价值]]所在。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 37)]]
 >
 > *Synthesizing evidence across research boundaries is not aimed at erasing differences between studies, but at understanding what conditions produce fluctuations in effects. Exploring the distribution of variability itself is the irreplaceable epistemological value of meta-analysis.*
 

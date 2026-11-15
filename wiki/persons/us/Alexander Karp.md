@@ -10,10 +10,10 @@ summary: "美国企业家与社会理论学者，帕兰提尔科技公司联合�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 40
-person_related_level: 4
-person_related_stars: "💎⭐"
-person_related_color: "#fce7f3"
+person_related_count: 38
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1967"
 died: ""
 lifespan: "1967–至今"
@@ -141,7 +141,7 @@ updated: 2026-11-15
 > [!influence-path] 影响路径
 > - **理论路径** 融合法兰克福[[Critical Theory|批判理论]]、[[Pragmatic Paradigm|实用主义]]哲学与组织生态学，开创[[Technological Republic|技术共和国]]治理学说与工程[[Epistemology|认识论]]体系。
 > - **方法路径** 将[[Taiichi Ohno|大野耐一]][[Five Whys|五问法]]系统拓展至软件架构与跨部门组织诊断，推行无过错复盘与前线部署工程实践。
-> - **政策路径** 推动《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]案》在司法裁判中实质落地，倒逼美国国防部改革防务采购规程，向商业科技开放准入。
+> - **政策路径** 推动《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]案》在司法裁判中实质落地，促使美国国防部改革防务采购规程，向商业科技开放准入。
 > - **跨国／跨领域传播** 深度介入俄乌冲突、地缘情报分析与北约联合防务数据体系重构，引领西方科技界重拾国家防务使命。
 
 ---

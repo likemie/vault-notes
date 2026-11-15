@@ -9,7 +9,7 @@ summary: "挪威语文学家、词典编纂家与民俗学家，新挪威语（L
 type: person
 nationality: norway
 person_region: "norway"
-person_related_count: 8
+person_related_count: 6
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"

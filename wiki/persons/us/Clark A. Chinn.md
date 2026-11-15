@@ -8,7 +8,7 @@ summary: "美国教育心理学家与学习科学家，罗格斯大学教授，�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 43
+person_related_count: 40
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"

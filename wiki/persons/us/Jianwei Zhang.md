@@ -8,7 +8,7 @@ summary: "学习科学与教育技术学者，纽约州立大学奥尔巴尼分�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 28
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -116,8 +116,8 @@ updated: 2026-11-15
 ---
 
 > [!person-network] 关系网络
-> - **师承／合作者** [[Marlene Scardamalia]]、[[Carl Bereiter]] — 博士后与长期科研合作导师，共同推进[[Knowledge Building Theory|知识建构理论]]与国际知识创新与技术中心（Institute for Knowledge Innovation and Technology, IKIT）网络。
-> - **合作者** 陶丹（Dan Tao）、田艳（Yan Tian）、袁广基（Guangji Yuan） — 长期合作开展基于知识建构的设计基实证研究。
+> - **师承／研究伙伴** [[Marlene Scardamalia]]、[[Carl Bereiter]] — 博士后与长期科研合作导师，共同推进[[Knowledge Building Theory|知识建构理论]]与国际知识创新与技术中心（Institute for Knowledge Innovation and Technology, IKIT）网络。
+> - **研究伙伴** 陶丹（Dan Tao）、田艳（Yan Tian）、袁广基（Guangji Yuan） — 长期合作开展基于知识建构的设计基实证研究。
 
 ---
 

@@ -8,7 +8,7 @@ summary: "美国著名社会学家与计算社会科学先驱，芝加哥大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

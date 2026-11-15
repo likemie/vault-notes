@@ -9,10 +9,10 @@ summary: "希腊裔国际教育政策专家与历史学家，经合组织（OECD
 type: person
 nationality: global
 person_region: "global"
-person_related_count: 20
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 18
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1926"
 died: ""
 lifespan: "1926–至今"
@@ -61,7 +61,7 @@ updated: 2026-11-15
 > - **代表贡献** 著有经合组织官方教育历史专著《1960–1990年的教育：经合组织视角》（*Education 1960–1990: The OECD Perspective*, 1994）；主导确立了教育作为促进民主公民培育与社会凝聚的公共物品定位；倡导尊重成员国主权自主性的非强制自愿协商与国别审查机制。
 
 > [!citation-card] 人物定位的关键来源
-> 归根到底，在帕帕多普洛斯时代曾经代表着成员国就教育议题展开平等辩论的独特论坛的经合组织，如今已经蜕变成为一个拥有自身独立意志的政策行动者；它通过自身的意识形态倡导与技术统计运作，强力推行着一种更加关注经济效率而非社会与文化培育的特定教育观。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 452)]]
+> 归根到底，在帕帕多普洛斯时代曾经代表着成员国就教育议题展开平等辩论的独特论坛的经合组织，如今已经演变为一个拥有自身独立意志的政策行动者；它通过自身的意识形态倡导与技术统计运作，强力推行着一种更加关注经济效率而非社会与文化培育的特定教育观。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 452)]]
 >
 > *Ultimately, the OECD, which, in the Papadopoulos period, represented a unique forum for its members to debate educational issues has now become a policy actor in its own right, which promotes, through its ideological and technical work, a particular view of education concerned more with economic efficiency than with issues of social and cultural formations.*
 

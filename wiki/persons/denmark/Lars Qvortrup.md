@@ -7,7 +7,7 @@ summary: "丹麦教育学者和系统理论研究者，专业判断与复杂性�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 38
+person_related_count: 37
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -88,8 +88,8 @@ updated: 2026-11-15
 > - **2000 年代初** 深入研究[[Niklas Luhmann|尼克拉斯·卢曼]][[Luhmann's Systems Theory|社会系统理论]]，将自组织系统与操作封闭概念引入教育学与知识社会学分析。
 > - **2013** 联合主编《学习理论与教学论》（*Læringsteori & [[Didaktik]]*），系统梳理[[Behaviorism|行为主义]]与现代教学论的发展脉络。
 > - **2014** 与 Niels Egelund 共同为[[John Hattie|约翰·哈蒂]]著作《[[Visible Learning|可见的学习]]：教师版》（*Visible Learning for Teachers*）丹麦语译本撰写长篇学术导言，开启可见学习在丹麦的官方引介与推广。
-> - **2015** 在 *[[Paideia]]* 发表论文，面对丹麦学界的激烈批评，提出以 Bateson 理论修正哈蒂[[Surface and Deep Learning|表层学习]]局限的动态知识模型（[[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015]]）。
-> - **2019** 在 *Nordic Journal of Studies in Educational Policy* 发表代表性辩护论文（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019]]），运用“解释社群”、观察透镜[[Epistemology|认识论]]与系统结构联结理论，全面反驳北欧批评阵营。
+> - **2015** 在 *[[Paideia]]* 发表文章，面对丹麦学界的激烈批评，提出以 Bateson 理论修正哈蒂[[Surface and Deep Learning|表层学习]]局限的动态知识模型（[[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015]]）。
+> - **2019** 在 *Nordic Journal of Studies in Educational Policy* 发表代表性辩护文章（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019]]），运用“解释社群”、观察透镜[[Epistemology|认识论]]与系统结构联结理论，全面反驳北欧批评阵营。
 
 ---
 
@@ -123,7 +123,7 @@ updated: 2026-11-15
 > - **理论路径** 将[[Niklas Luhmann|卢曼]]系统论的“结构联结”（系统结构联结）概念深度引入[[Evidence-Based Education|循证教育]]辩护，克服了朴素[[Positivism|实证主义]]的机械[[Determinism|因果决定论]]；提出[[Dynamic Knowledge and Learning Model|动态知识与学习模型]]，为反思与扩展[[John Hattie|哈蒂]]学习结果（Learning Outcomes）[[Construct|构念]]提供了系统论框架。
 > - **方法路径** 倡导基于二阶控制论与系统观察论的“多透镜[[Epistemology|认识论]]”，主张不同研究方法代表不同的观察位置，为调和教育研究中的定性与定量方法论[[Paradigm Wars|范式之争]]提供了认识论方案。
 > - **政策与实践路径** 作为丹麦引入《[[Visible Learning|可见的学习]]》的关键学术推手，其撰写的导言与政策咨询报告直接影响了丹麦基础教育改革、[[Teacher Professional Development Programs|教师专业发展项目]]与[[School Effectiveness|学校效能]]评估政策的推进。
-> - **跨国传播与论辩** 其 2019 年在 NordSTEP 发表的辩护论文成为国际学术界关于《可见的学习》论争中罕见且具系统理论深度的支持方代表[[Document|文献]]，与北欧及国际批判学界展开长久对话。
+> - **跨国传播与论辩** 其 2019 年在 NordSTEP 发表的辩护专论成为国际学术界关于《可见的学习》论争中罕见且具系统理论深度的支持方代表[[Document|文献]]，与北欧及国际批判学界展开长久对话。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 丹麦哲学家罗默系统批判克沃特鲁普的医学化类比与原始数据库存设想，指出其导致的“衰变序列”。
@@ -131,7 +131,7 @@ updated: 2026-11-15
 ---
 
 > [!person-network] 关系网络
-> - **理论盟友与合作者** [[John Hattie|约翰·哈蒂]]（辩护对象与合作引介者）、Niels Egelund（丹麦译本导言合著者）。
+> - **理论盟友与研究伙伴** [[John Hattie|约翰·哈蒂]]（辩护对象与引介伙伴）、Niels Egelund（丹麦译本导言共著人）。
 > - **思想理论资源** [[Niklas Luhmann|尼克拉斯·卢曼]]（社会系统论与结构联结）、Gregory Bateson（学习阶层论）、Heinz von Foerster（二阶控制论与观察透镜）、[[Herbert A. Simon|Herbert Simon]]（[[Bounded Rationality|有限理性]]）、[[Donald A. Schön|Donald Schön]]（[[Reflexivity|反思性]]实践）。
 > - **丹麦论辩对手** [[Thomas Aastrup Rømer|托马斯·罗默]]（教育哲学五线批判对手）、斯滕·内珀·拉尔森（批判[[Epistemology|认识论]]论敌）。
 

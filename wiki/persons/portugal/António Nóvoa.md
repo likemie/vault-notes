@@ -10,7 +10,7 @@ summary: "葡萄牙著名比较教育学家与历史学家，里斯本大学前�
 type: person
 nationality: portugal
 person_region: "portugal"
-person_related_count: 35
+person_related_count: 33
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"

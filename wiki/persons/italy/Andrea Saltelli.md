@@ -6,7 +6,7 @@ summary: "意大利应用统计学家与敏感性分析学者，前欧盟委员�
 type: person
 nationality: italy
 person_region: "italy"
-person_related_count: 15
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

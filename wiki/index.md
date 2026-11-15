@@ -5509,7 +5509,7 @@ Total entries: **5121**
 > [!index-list]- Hammermeister_2002_Cambridge (3)
 > - [[Argument_Hammermeister_2002_Cambridge]] — 德国美学传统的分章阅读入口，按原书三部十章记录文本位置和解读进度。
 > - [[Argument_Hammermeister_2002_Cambridge_Ch01]] — 剖析鲍姆嘉通与门德尔松如何在莱布尼茨-沃尔夫理性主义体系内分别从感性认识论和情感心理学创立哲学美学，揭示其巩固理性主义的初衷如何转化为对抽象理性的批判与艺术自主性的先声。
-> - [[Argument_Hammermeister_2002_Cambridge_Ch02]] — 从本体论、认识论与实践功能三维视角剖析康德《判断力批判》，揭示其如何通过剥离艺术认知诉求、确立鉴赏判断四重契机、区分崇高与美并借天才与道德象征重构审美自主性，从而奠定形式主义、主观化的首个强美学范式。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch02]] — 从艺术是什么、能否带来知识以及如何影响道德生活三个维度剖析康德《判断力批判》，说明康德如何把审美从求真与说教中独立出来，以四重标准界定鉴赏判断、区分崇高与美，并借助天才与道德象征重建美与伦理的联系，从而奠定偏重形式与主观体验的首个强美学范式。
 
 > [!index-list]- Karp_Zamiska_2025_Technological_Republic (19)
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic]] — 剖析西方科技精英撤退至消费应用与公共部门沦为创新荒漠的制度及文化根源，结合冷战科技史、组织实验、司法判例与帕兰提尔实战经验，论证以软件硬实力、工程思维、创始人长程托管及公民仪式重铸技术共和国的路径。

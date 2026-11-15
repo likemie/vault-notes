@@ -9,7 +9,7 @@ summary: "意大利理论物理学家与复杂网络科学家，印第安纳大�
 type: person
 nationality: italy
 person_region: "italy"
-person_related_count: 23
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

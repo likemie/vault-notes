@@ -8,7 +8,7 @@ summary: "瑞士心理学家与哲学家，认知发展阶段理论与发生认�
 type: person
 nationality: switzerland
 person_region: "switzerland"
-person_related_count: 37
+person_related_count: 36
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"

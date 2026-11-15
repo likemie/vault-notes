@@ -10,7 +10,7 @@ summary: "美国心理学家，宾夕法尼亚大学克里斯托弗·布朗讲�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -88,7 +88,7 @@ updated: 2026-11-15
 ---
 
 > [!claim] 核心思想
-> 长期成就的核心驱动力并非仅由认知智商或天赋智力所决定，个体内在对长远目标的持久专注与直面阻碍时的坚持韧性（即坚毅品质）构成了跨越逆境并实现卓越的决定性心理特征。在科学学因果评估中，坚毅品质作为难以在常规管理底表中直接观测的心理学特质，构成了混杂资助效益与真实产出关系的典型遗漏[[Variable|变量]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 248–249)]]
+> 除认知智商与天赋智力外，个体内在对长远目标的持久专注与直面阻碍时的坚持韧性（即坚毅品质）同样构成跨越逆境并实现卓越的关键心理特征。在科学学因果评估中，坚毅品质作为难以在常规管理底表中直接观测的心理学特质，构成了混杂资助效益与真实产出关系的典型遗漏[[Variable|变量]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 248–249)]]
 
 > [!citation-card] [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]论坚毅因子的混杂偏误风险
 > [[Multiple Regression|多元回归]]虽然能够通过引入[[Fixed-Effect Model|固定效应]]控制机构声望等可观测变量，但无法控制同样普遍存在的不可观测因素。以著名的坚毅因子为例：拥有更强坚毅品[[Qualitative Research|质的研究]]人员既更容易赢得基金资助，本身也往往具备更高的[[Scientific Productivity|科研生产力]]。这类混杂因子是观察性研究的最大阻碍，动摇了观测到的统计相关是否代表真实[[Causality|因果关系]]的判断。如果资助与高产的关系完全由个体内在的坚毅因子驱动，盲目向冷门领域追加资助将收效甚微。[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|(Wang & Barabási, 2021, pp. 248–249)]]

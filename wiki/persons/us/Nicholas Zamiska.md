@@ -9,7 +9,7 @@ summary: "美国法律学者与科技企业高管，耶鲁法学院法律博士�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 23
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -86,9 +86,9 @@ updated: 2026-11-15
 >   - **代表成果** 针对政府监管、公共采购与行政法治的实证分析。
 >   - **关键概念／方法** 行政法治、信息公开、制度[[Path Dependence|路径依赖]]。
 >   - **阶段转向** 从法律学术观察转向科技企业的战略法务与前沿制度实践。
-> - **2016–2024 — 政府采购法治与商用准入破局阶段** 依托 [[Federal Acquisition Streamlining Act of 1994|FASA 1994]] 法律条款，系统挑战五角大楼定制采购垄断，重塑采办制度标准。
+> - **2016–2024 — 政府采购法治与商用准入突破阶段** 依托 [[Federal Acquisition Streamlining Act of 1994|FASA 1994]] 法律条款，系统挑战五角大楼定制采购垄断，重塑采办制度标准。
 >   - **代表成果** 推动 [[Palantir Technologies|Palantir]] v. United States Army 案胜诉判决落地；构建[[Commercial Off-The-Shelf|商用现成产品]]（COTS）法理框架。
->   - **关键概念／方法** COTS 法定优先权、成本文书合规壁垒解构、市场竞争机制引入。
+>   - **关键概念／方法** COTS 法定优先权、成本报告文书合规壁垒解构、市场竞争机制引入。
 >   - **阶段转向** 从单项司法诉讼上升为关于国家科技能力供给与行政治理现代化的全局思考。
 > - **2025 — [[Technological Republic|技术共和国]]制度设计阶段** 与卡普合著专著，系统提供融合组织社会学、采购法治与工程[[Epistemology|认识论]]的制度重构蓝图。
 >   - **代表著作** *The [[Technological Republic]]: [[Hard Power]], [[Soft Belief]], and the Future of the West*（2025）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025)]]
@@ -128,8 +128,8 @@ updated: 2026-11-15
 ---
 
 > [!person-network] 关系网络
-> - **师承／合作者** [[Alexander Karp]] — 长期密切合作者、企业领导者与《[[Technological Republic|技术共和国]]》专著共同作者。
-> - **师承／合作者** [[Peter Thiel]] — [[Palantir Technologies|帕兰提尔]]联合创始人，重大防务科技与法律战略的协同者。
+> - **师承／研究伙伴** [[Alexander Karp]] — 长期密切搭档、企业领导者与《[[Technological Republic|技术共和国]]》专著共同撰著者。
+> - **师承／研究伙伴** [[Peter Thiel]] — [[Palantir Technologies|帕兰提尔]]联合创始人，重大防务科技与法律战略的协同者。
 
 ---
 
@@ -150,7 +150,7 @@ updated: 2026-11-15
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Technological Republic]] | 概念 | 共同作者与制度设计者：构建技术共和国的采购法治、行政改革与组织重构框架。 |
+> | [[Technological Republic]] | 概念 | 共同撰著者与制度设计者：构建技术共和国的采购法治、行政改革与组织重构框架。 |
 > | [[Commercial Off-The-Shelf]] | 概念 | 法理阐发与判例推动者：系统论证 [[Federal Acquisition Streamlining Act of 1994\|FASA 1994]] 商用优先权的法律效力与实效机制。 |
 > | [[Engineering Mindset]] | 概念 | 治理应用者：将工程师文化与敏捷自组织拓展至公共行政与反官僚治理实践。 |
 > | [[Palantir Technologies]] | 事实 | 企业事务主管兼法律顾问：主导重大防务科技法律抗争，推动商用防务软件实战落地。扎米斯卡担任高管、法律顾问与董事的核心机构。 |

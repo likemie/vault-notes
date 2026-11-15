@@ -8,7 +8,7 @@ summary: "荷兰著名公共管理与规制治理学者，新西兰惠灵顿维�
 type: person
 nationality: netherlands
 person_region: "netherlands"
-person_related_count: 25
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -69,8 +69,8 @@ updated: 2026-11-15
 ---
 
 > [!academic-timeline] 生平与学术节点
-> - **2007 年 — 建筑规制执行追踪与[[Realist Evaluation|实在论评估]]发轫** 在代尔夫特理工大学完成[[Doctoral Dissertation|博士论文]]并发表关于荷兰建筑规制执行困境的研究，提出运用实在论视角解构不同层级主体对规制变革性质的时空感知差异。(Van der Heijden et al., 2007)
-> - **2010 年 — [[Theory of Gradual Institutional Change|渐进制度变迁]]研究批判** 在国际权威期刊 *Regulation & Governance* 发表综述论文，系统反思[[James Mahoney|马奥尼]]与希伦等人关于渐进制度变迁理论的解释力边界与实证检验限度。
+> - **2007 年 — 建筑规制执行追踪与[[Realist Evaluation|实在论评估]]发轫** 在代尔夫特理工大学完成[[Doctoral Dissertation|博士学位研究]]并发表关于荷兰建筑规制执行困境的研究，提出运用实在论视角解构不同层级主体对规制变革性质的时空感知差异。(Van der Heijden et al., 2007)
+> - **2010 年 — [[Theory of Gradual Institutional Change|渐进制度变迁]]研究批判** 在国际权威期刊 *Regulation & Governance* 发表综述文章，系统反思[[James Mahoney|马奥尼]]与希伦等人关于渐进制度变迁理论的解释力边界与实证检验限度。
 > - **2011 年 — [[Institutional Layering|制度层叠]]理论史经典定音** 在 *Politics* 发表里程碑综述 *Institutional Layering: A Review of the Use of the Concept*，系统梳理跨学科六十年 166 篇核心文献，确立行动者与工具[[Variable|变量]]的因果桥梁价值，批判当代文献混淆制度再生产的概念漂移。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011)]]
 > - **2014–2017 年 — 城市气候治理与规制实验拓展** 出版专著 *Innovations in Urban Climate Governance*（Cambridge University Press, 2017），将比较制度分析延伸至悉尼等全球典型城市的低碳规制[[Experimental Research|实验研究]]。
 > - **2016 年至今 — 领衔国家规制实践教席** 出任新西兰惠灵顿维多利亚大学首位初级产业部规制实践讲席教授，担任国际公共政策学会（IPPA）资深学者，主导亚太规制质量提升项目。
@@ -85,7 +85,7 @@ updated: 2026-11-15
 > [!claim] 核心理论贡献
 > 1. **[[Institutional Layering|制度层叠]]因果解释[[Variable|变量]]论** 针对突变论与渐变论在宏观层面陷入循环论证的学术死结，范德海登论证指出：只要将分析焦点集中在被附加的行动者（Actors Added）与政策工具（Instruments Added）这两个具象因果解释变量上，制度层叠[[Analytic Framework|分析框架]]便能打通宏观外生危机与微观日常妥协，成为弥合[[Punctuated Equilibrium Theory|间断均衡理论]]与渐进演进理论鸿沟的中观理论枢纽。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 16)]]
 > 2. **制度变迁性质的主体位置与时间尺度制约假说** 借鉴波森与蒂利（1997）的[[Realist Evaluation|实在论评估]]提问，提出“对谁而言、在何种情境下构成了何种变迁”。在荷兰住房法案例中，2003 年微观承包商感知为激进剧烈颠覆，1983 年以来的住房部谈判者定性为渐进政策妥协，1901 年以来的百年宏观法理演进则定性为边际延续。客观统一的变迁标尺并不存在，任何定性评估均受制于观察者的行政坐标与时间视重视角。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10–11)]]
-> 3. **变迁与再生产边界红线界定** 坚决批判当代经验文献随意借用层叠概念的学术乱象；论证指出阿克里尔等人的[[EU|欧盟]]预算模型与博阿斯的互联网[[Composite-Standard Model|复合标准模型]]实质上是外围图层保护既有核心，属于高厚度商驱动的[[Path Dependence|路径依赖]]、制度再生产与制度加固，绝非推动行为质变的制度层叠，捍卫了概念的严密性与理论比较优势。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 13–14)]]
+> 3. **变迁与再生产边界红线界定** 坚决批判当代经验文献随意借用层叠概念的学术乱象；论证指出阿克里尔等人的[[EU|欧盟]]预算模型与博阿斯的互联网[[Composite-Standard Model|复合标准模型]]实质上是外围图层保护既有核心，属于高厚度商驱动的[[Path Dependence|路径依赖]]、制度再生产与制度加固，区别于推动行为质变的制度层叠，捍卫了概念的严密性与理论比较优势。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 13–14)]]
 
 > [!citation-card] 实在论提问在制度变迁领域的引申
 > 借鉴[[Ray Pawson|雷·波森]]与尼克·蒂利（Pawson & Tilley, 1997）关于“何种方案在何种情境中对谁有效”的经典论断，范德海登等人（2007）提出制度变迁的核心追问应被调整为“何为变迁、对谁而言、在何种情境下发生”。通过这种方式，我们明确承认变迁取决于观察者的视角：对规制体制内的微观行动者（如建筑承包商）而言看似剧烈的断裂，在宏观政策制定者（如住房部长）眼中可能仅为渐进调适，在长期历史学家眼中则属于微小的历史延续。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 10)]]
@@ -95,7 +95,7 @@ updated: 2026-11-15
 ---
 
 > [!network] 思想继承与跨学科对话
-> - **思想承接：[[Kathleen Thelen]]（凯瑟琳·希伦）** 范德海登全面继承了希伦关于内生[[Theory of Gradual Institutional Change|渐进制度变迁]]的核心洞见，但同时通过系统史料考证指出希伦并非层叠概念的孤立起点，发掘出希克勒、贝利斯尔与克雷普斯等重要前史，并指出当代学者对希伦理论的不当稀释与泛化。
+> - **思想承接：[[Kathleen Thelen]]（凯瑟琳·希伦）** 范德海登全面继承了希伦关于内生[[Theory of Gradual Institutional Change|渐进制度变迁]]的核心洞见，但同时通过系统史料考证指出层叠概念在希伦之前已有学术渊源，发掘出希克勒、贝利斯尔与克雷普斯等重要前史，并指出当代学者对希伦理论的不当稀释与泛化。
 > - **方法论汲取：[[Ray Pawson]]（雷·波森）** 范德海登将波森在社会评估领域开创的科学实在论框架跨学科迁移至公共政策与制度变迁分析，为化解[[Historical Institutionalism|历史制度主义]]内部关于变迁规模的假性二元对立提供了方法论透镜。
 > - **批判对话：Taylor Boas（泰勒·博阿斯）** 范德海登直接对质博阿斯的互联网[[Composite-Standard Model|复合标准模型]]，指出其虽借用层叠概念，机制实质却是外围厚度商加固底层核心的[[Path Dependence|路径依赖]]与制度再生产，由此厘清了[[Evolutionary Economics|演化经济学]]与历史制度主义的分析边界。
 

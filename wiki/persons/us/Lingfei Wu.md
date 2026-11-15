@@ -8,7 +8,7 @@ summary: "计算社会学家与科学学学者，匹兹堡大学计算机与信�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

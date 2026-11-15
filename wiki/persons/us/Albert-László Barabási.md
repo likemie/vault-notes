@@ -10,7 +10,7 @@ summary: "匈牙利裔美籍复杂网络科学家与统计物理学家，美国�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 37
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"

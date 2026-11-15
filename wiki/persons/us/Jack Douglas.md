@@ -8,7 +8,7 @@ summary: "美国社会学家，加州大学圣地亚哥分校荣休教授，存�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 27
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

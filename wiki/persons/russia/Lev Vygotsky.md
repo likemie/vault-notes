@@ -9,7 +9,7 @@ summary: "苏联心理学家，社会文化心理学与文化-历史活动理论
 type: person
 nationality: russia
 person_region: "russia"
-person_related_count: 27
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -90,7 +90,7 @@ related_arguments:
 ---
 
 > [!claim] 核心思想
-> 人类高级心理功能并非直接产生于生物神经刺激，而是由社会文化符号、语言与工具（Mediating Tools）所中介；学习是一个嵌入在社会历史与人际互动中的合作过程，学校系统教育通过传授科学概念引导认知发展。
+> 人类高级心理功能由社会文化符号、语言与工具（Mediating Tools）所中介，超越单纯的生物神经刺激；学习是一个嵌入在社会历史与人际互动中的合作过程，学校系统教育通过传授科学概念引导认知发展。
 
 > [!claim] 科学概念与自发概念的分化
 > 维果茨基将概念区分为**科学概念（scientific concepts）** 与**自发概念（spontaneous concepts）**。科学概念是在学校教育中系统传授的、具有明确逻辑体系与抽象结构的知识；自发概念是在日常生活经验中自然形成的、缺乏系统结构的知识。这一区分被[[Social Realism\|社会实在论]]（Social Realism）学者作为划分“日常知识”与“[[Epistemology\|认识论]]知识/强大知识”的关键来源。[[Argument_McPhail_2023_JCS\|(McPhail et al., 2023, p. 4)]]
@@ -99,7 +99,7 @@ related_arguments:
 > 维果茨基断言社会互动是认知深化的核心中介。在东亚高压考试与教学改革语境中，这一论断被发现与[[Confucius\|孔子]]关于“启发式[[Dialogue in Education|对话教学]]有助于深度思考”的古老传统信念产生了深刻的[[Selective Affinity\|选择性亲和]]（Selective Affinity），帮助本土教师消解了对外来以学生为中心教育（[[Learner-Centred Education\|LCE]]）的异己感。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 596)]]
 
 > [!claim] [[Scaffolding\|认知支架]]与社会化引导
-> 维果茨基学派提出**认知支架（Cognitive Scaffolding）** 与[[Zone of Proximal Development\|最近发展区]]理论，强调儿童并非在真空中孤立建构技能，而是通过社交世界（如照料者与教师）的持续引导获得文化性认知工具。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 198)]]
+> 维果茨基学派提出**认知支架（Cognitive Scaffolding）** 与[[Zone of Proximal Development\|最近发展区]]理论，强调儿童通过社交世界（如照料者与教师）的持续引导获得文化性认知工具，其技能建构嵌入社会互动之中。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 198)]]
 
 > [!citation-card] 关键表述
 > 科学概念与自发概念的区分，为课程设计中理解日常知识与[[Theoretical Knowledge\|理论知识]]的区别提供了坚实基础。（p.4）
@@ -122,7 +122,7 @@ related_arguments:
 ---
 
 > [!person-network] 关系网络
-> - **合作者 / 莫斯科三人组** Alexander Luria & Alexei Leontiev — 1920–1930 年代共同奠定苏联文化-历史心理学与早期[[Third Generation Activity Theory\|活动理论]]。
+> - **研究伙伴 / 莫斯科三人组** Alexander Luria & Alexei Leontiev — 1920–1930 年代共同奠定苏联文化-历史心理学与早期[[Third Generation Activity Theory\|活动理论]]。
 > - **继承与扩展者** [[Yrjö Engeström]] — 在 Vygotsky 心理中介三角基础上增加共同体、规则与劳动分工，发展出第二代与[[Third Generation Activity Theory\|第三代活动理论]]。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 590)]]
 > - **理论吸收者** Graham McPhail & [[Michael Young]] — 吸收其科学概念与自发概念区分，构建[[Social Realism\|社会实在论]]与 [[Curriculum Design Coherence Model\|CDCM]] 课程框架。[[Argument_McPhail_2023_JCS\|(McPhail et al., 2023, p. 4)]]
 > - **思想对话与文化亲和** [[Confucius]] — 维果茨基的社会认知中介论在东亚教育实践中与孔子启发式对话传统产生[[Selective Affinity\|选择性亲和]]。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 596)]]

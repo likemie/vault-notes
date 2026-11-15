@@ -8,7 +8,7 @@ summary: "美国著名教育经济学家，斯坦福大学胡佛研究所高级�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

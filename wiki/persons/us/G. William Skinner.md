@@ -9,10 +9,10 @@ summary: "美国著名历史人类学家、汉学家，美国国家科学院院�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 9
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1925"
 died: "2008"
 lifespan: "1925–2008"
