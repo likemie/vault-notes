@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: italy
 person_region: "italy"
-person_related_count: 32
+person_related_count: 33
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
   - "[[Technological Republic]]"
   - "[[National Innovation System]]"
+  - "[[New Mythology]]"
   - "[[General Purpose Technology]]"
   - "[[Picking the Willing]]"
   - "[[Orchestrator State]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-26
+updated: 2026-11-15
 ---
 
 ---
@@ -91,20 +92,20 @@ updated: 2026-10-26
 > - **1999** 获得新社会研究学院（The New School for Social Research）经济学博士学位。
 > - **2013** 出版代表作《企业型国家》（*The Entrepreneurial State*），系统论证了国家在苹果智能手机、生物制药、互联网等关键颠覆性创新中承担早期高风险投资的引领者角色。
 > - **2017** 创立伦敦大学学院创新与公共目的研究所（IIPP），并担任创始所长。
-> - **2018** 受[[EU|欧盟]]委员会委托发布政策报告《欧盟使命导向研究与创新》（*[[Mission-Oriented Research]] & Innovation in the European Union*），同年在《工业与企业变迁》（*Industrial and Corporate Change*）发表关于[[Mission-Oriented Innovation Policy|使命导向创新政策]]挑战与机遇的奠基性理论论文。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
+> - **2018** 受[[EU|欧盟]]委员会委托发布政策报告《欧盟使命导向研究与创新》（*[[Mission-Oriented Research]] & Innovation in the European Union*），同年在《工业与企业变迁》（*Industrial and Corporate Change*）发表关于[[Mission-Oriented Innovation Policy|使命导向创新政策]]挑战与机遇的奠基性期刊文章。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
 > - **2021 至今** 担任世界卫生组织全民健康经济学委员会（WHO Council on the Economics of Health for All）主席。
 
 ---
 
 > [!thought-timeline] 思想发展
-> - **2013–2015 — 企业型国家与风险收益不对称批判** 批判公共部门仅被视为被动市场修复者的传统偏见，揭示国家在前沿技术探索中的激进创新与风险承担功能，主张建立公共风险与公共收益相匹配的制度机制。特别指出硅谷奇迹并非单纯由自由创业家与风险投资创造，其底层核心源于美国军方、[[DARPA]] 与政府长期承担的高风险战略研发投资与早期订单托底，尖锐批判科技巨头的[[Historical Amnesia|历史健忘症]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 229)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 74–75)]]
+> - **2013–2015 — 企业型国家与风险收益不对称批判** 批判公共部门仅被视为被动市场修复者的传统偏见，揭示国家在前沿技术探索中的激进创新与风险承担功能，主张建立公共风险与公共收益相匹配的制度机制。特别指出硅谷奇迹的底层核心源于美国军方、[[DARPA]] 与政府长期承担的高风险战略研发投资与早期订单托底，无法单纯归功于自由创业家与风险投资，尖锐批判科技巨头的[[Historical Amnesia|历史健忘症]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 229)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 74–75)]]
 >   - **代表著作** *The Entrepreneurial State: Debunking Public vs. Private Myths in Risk and Innovation* (2013)。
 >   - **关键概念** [[Market Shaping and Creating]]、[[Patient Capital|耐心资本]]（Patient Capital）、[[Historical Amnesia|历史健忘症]]。
 > - **2016–2018 — [[Mission-Oriented Innovation Policy|使命导向创新政策]]与[[Public Value|公共价值]]重构** 将国家主动引导能力系统化为应对重大社会挑战（[[Grand Challenges]]）与[[Wicked Problem|复杂社会难题]]的使命驱动模式，构建包括战略方向、组织能力、[[Dynamic Assessment|动态评估]]和风险收益分享的政策工具箱。
 >   - **代表著作** *Mission-oriented innovation policies: challenges and opportunities* (2018)。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
 >   - **关键概念** [[Mission-Oriented Innovation Policy]]、[[ROAR Framework]]。
 > - **2020–至今 — [[Policy Conditionalities|制度化附加条件]]与公私契约重塑** 将公共价值理念纵深推进至实操性产业契约领域，系统构建以技能培训、利润分享、分红禁令及普惠获取为核心的附加条件分类学，主张打破无条件资本救济，以硬性双向责任重构现代产业战略。
->   - **代表著作** 政策报告与前沿论文论及公共投资附加条件（Conditionalities for Public Investment）。
+>   - **代表著作** 政策报告与期刊文章论及公共投资附加条件（Conditionalities for Public Investment）。
 >   - **关键概念** [[Policy Conditionalities]]、[[Modern Industrial Policy]]、[[Technological Republic]]。
 
 ---
@@ -125,7 +126,7 @@ updated: 2026-10-26
 > [!influence-path] 影响路径
 > - **理论路径** 拓展了[[Evolutionary Economics|演化经济学]]与国家[[Systems of Innovation|创新系统]]（[[National Innovation System|National Systems of Innovation]]）理论，推动创新研究从“[[Market Failure|市场失灵]]修补”转向“[[Market Shaping and Creating|市场共创]]与[[Public Value|公共价值创造]]”，提出了完备的 ROAR [[Analytic Framework|分析框架]]。
 > - **政策与立法路径** 直接塑造了[[EU|欧盟]]“[[Horizon Europe|地平线欧洲]]”（Horizon Europe）框架计划的架构，为美欧半导体法案（[[CHIPS and Science Act|CHIPS Act]]）与绿色转型产业政策提供了附加条件契约[[Paradigm|范式]]。
-> - **技术政治经济学批判** 其关于公共研发奠基作用的论证，被 [[Technological Republic|技术共和国]] 框架用作打破科技巨头“自发创新神话”、批判硅谷[[Historical Amnesia|历史健忘症]]与重建政产协同契约的基石理论。
+> - **技术政治经济学批判** 其关于公共研发奠基作用的论证，被 [[Technological Republic|技术共和国]] 框架用作打破科技巨头“自发创[[New Mythology|新神话]]”、批判硅谷[[Historical Amnesia|历史健忘症]]与重建政产协同契约的基石理论。
 
 ---
 
@@ -135,13 +136,13 @@ updated: 2026-10-26
 > > 新古典经济学者与公共选择学派质疑政府能否准确把握技术变革方向，担忧过度干预会导致寻租、政治俘获与资本浪费；马祖卡托反驳指出，历史上根本性的[[General Purpose Technology|通用技术]]突破几乎均由公共资金早期重度承担，关键在于建立透明的组合管理与共担机制而非逃避引领。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–809)]]
 > >
 > > - **Buchanan (2003)** 批评行业性垂直干预极易被特定企业游说集团俘获，造成公共资源浪费。
-> > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] 主张以社会挑战而非特定行业为靶向，通过“[[Picking the Willing|挑选意愿者]]”而非“挑选赢家”来规避传统寻租弊端。
+> > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] 主张针对具体社会挑战（而非特定行业），通过“[[Picking the Willing|挑选意愿者]]”而非“挑选赢家”来规避传统寻租弊端。
 >
 > > [!axis] 超国家“协调者”理想与主权财政赤字现实
 > > 比较政治经济学者检验马祖卡托倡导的国家塑造者与协调者模式在缺乏统一财政的超国家实体（[[EU|欧盟]]）中的落地成效，指出其低估了制度结构约束。
 > >
 > > - **[[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]]** 批评指出，[[European Commission|欧委会]]试图扮演马祖卡托式的“[[Orchestrator State|产业政策协调者]]”，但因缺乏中央独立财政资源与直投能力，政策实质蜕化为放宽成员国国家援助，导致富国垄断补贴而小国被边缘化的单一市场分裂风险。
-> > - **理论辩护** 强调这并非使命导向或[[Public Value|公共价值]]理论本身的缺陷，而是多层级宪政体制中超国家财政工具供给不足的制度滞后。
+> > - **理论辩护** 强调这一困境源于多层级宪政体制中超国家财政工具供给不足的制度滞后，无损于使命导向与[[Public Value|公共价值]]理论本身。
 
 ---
 

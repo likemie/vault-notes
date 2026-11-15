@@ -12,7 +12,7 @@ summary: "约翰·迈耶等开创的社会学新制度主义与世界社会研�
 type: person
 subtype: school
 person_region: "United States"
-person_related_count: 36
+person_related_count: 37
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Otherhood]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
+  - "[[New Mythology]]"
   - "[[Class Size]]"
   - "[[Policy Borrowing]]"
   - "[[Red Tape]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -80,7 +81,7 @@ updated: 2026-11-11
 > [!person-profile] 学派档案
 > - **学术重镇与发源** 斯坦福大学社会学系与教育学院（Stanford University），发轫于 20 世纪 70 年代，为社会学新制度主义（Sociological Institutionalism）与世界社会研究的学术大本营。
 > - **领军人物与代表学者** 奠基领袖为[[John W. Meyer|约翰·迈耶]]（John W. Meyer）；核心学者包括布赖恩·罗恩（Brian Rowan）、弗朗西斯科·拉米雷斯（Francisco O. Ramirez）、约翰·博利（John Boli）、乔治·托马斯（George M. Thomas）；后继学者涵盖戴维·贝克（David P. Baker）、阿伦·[[Aaron Benavot|贝纳沃特]]（Aaron Benavot）、帕特丽夏·布罗姆利（Patricia Bromley）与戴维·约翰·弗兰克（David John Frank）等。
-> - **核心研究纲领** 突破传统社会科学中的技术功能论（效率[[Determinism|决定论]]）与经济冲突论（阶级支配论），主张现代民族国家组织与大众教育体系并非微观生产力协调的产物，而是由超越国界的启蒙理性“[[Cultural Models|世界文化模型]]”与合法性仪式塑造而成；揭示普世规范扩散中的非强制同构与政策去耦合机制。
+> - **核心研究纲领** 突破传统社会科学中的技术功能论（效率[[Determinism|决定论]]）与经济冲突论（阶级支配论），主张现代民族国家组织与大众教育体系由超越国界的启蒙理性“[[Cultural Models|世界文化模型]]”与合法性仪式塑造而成，超越了纯粹微观生产力协调的解释；揭示普世规范扩散中的非强制同构与政策去耦合机制。
 > - **代表性理论贡献** 创立[[World Society Theory|世界社会理论]]与组织社会学新制度主义；提炼出[[Institutional Isomorphism|制度同构]]、[[Rationalized Myth|制度神话]]与仪式、结构去耦合（Structural decoupling）、他者性与无私代理、[[Organizational Actorhood|组织行动者身份]]（Organizational Actorhood）等奠基性构件。
 
 > [!citation-card] 斯坦福学派的核心理论渊源
@@ -91,7 +92,7 @@ updated: 2026-11-11
 > [!dev-timeline] 学派演进里程碑
 > - **1970s — 组织制度主义奠基** 迈耶与罗恩（Meyer & Rowan, 1977）发表《制度化组织：作为神话与仪式的正式结构》，针对美国学校内部“松散联结”（loose coupling）与宏观合法性并存的悖论，首次阐明正式结构迎合[[Rationalized Myth|制度神话]]的去耦合机制。
 > - **1977–1987 — 大众教育大扩张跨国实证转向** 迈耶、拉米雷斯与博利等学者（Meyer et al., 1977; Ramirez & Boli, 1987）运用大样本跨国时间序列回归，[[Falsification|证伪]]了大众教育取决于国内工业化水平的功能主义假说，论证国家构建与成员身份界定是驱动全球义务教育普及的政治文化动力。[[Argument_Amos_2022_Springer|(Amos, 2022, pp. 54–55)]]
-> - **1990s — [[World Society Theory|世界社会理论]]系统化** 迈耶等（Meyer, Boli, Thomas, & Ramirez, 1997）在《美国社会学期刊》发表集大成之作《世界社会与民族国家》，界定去中心化的理性化[[Cultural Models|世界文化模型]]、[[Otherhood|为他者行动]]与主权形式趋同，学派跃升为跨国治理与全球化研究主流[[Paradigm|范式]]。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
+> - **1990s — [[World Society Theory|世界社会理论]]系统化** 迈耶等（Meyer, Boli, Thomas, & Ramirez, 1997）在《美国社会学期刊》发表集大成之作《世界社会与民族国家》，界定去中心化的理性化[[Cultural Models|世界文化模型]]、[[Otherhood|为他者行动]]与主权形式趋同，学派确立为跨国治理与全球化研究主流[[Paradigm|范式]]。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
 > - **2000s 至今 — 全球评估、人权课程与组织能动性拓展** [[Aaron Benavot|贝纳沃特]]、布罗姆利、弗兰克与扎普（Zapp）等后继学者，将理论版图拓展至全球课程标准化、人权教育渗透、现代大学作为理性化完全组织的能动性演变，以及国际组织在[[UN Sustainable Development Goals|可持续发展目标]]（SDGs）多边治理中的[[Knowledge Production|知识生产]]。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 148–154)]]
 
 ---
@@ -99,11 +100,11 @@ updated: 2026-11-11
 > [!ref-table] 斯坦福学派核心理论基石与解释逻辑
 > | 理论基石 | 核心论断与假设 | 解释机制与微观运作 | 经验表征与现实映射 |
 > |:---|:---|:---|:---|
-> | **形式理性与[[Rationalized Myth\|制度神话]]** | 组织结构是对制度环境中理性神话的仪式性反映，而非追求微观生产效率的工程结果。 | 汲取[[Max Weber\|韦伯]]合理化理论，强调遵循制度神话换取合法性与资源，正式结构充当仪式化合规展示。 | 薄弱学校建立完备但闲置的咨询室与数字管理台账，以满足督导验收与专项经费门槛。 |
+> | **形式理性与[[Rationalized Myth\|制度神话]]** | 组织结构是对制度环境中[[New Mythology\|理性神话]]的仪式性反映，而非追求微观生产效率的工程结果。 | 汲取[[Max Weber\|韦伯]]合理化理论，强调遵循制度神话换取合法性与资源，正式结构充当仪式化合规展示。 | 薄弱学校建立完备但闲置的咨询室与数字管理台账，以满足督导验收与专项经费门槛。 |
 > | **[[Cultural Models\|世界文化模型]]的外生性** | 战后由启蒙理性、人权规范与正义目标构成的世界文化，为民族国家确立了先验的现代性脚本。 | 主权国家在非强制情境下为了确立国际合法性，自发进行跨国模仿与[[Institutional Isomorphism\|制度同构]]。 | 非工业化新兴发展中国家在缺乏现代工业需求下，依然普遍照搬六三三学制与门类齐全的学科大纲。 |
 > | **去耦合的缓冲协调机制** | 外来普世规范与本土资源约束、日常教学技术存在固有张力，组织通过结构性脱节化解冲突。 | 对外严格展示完备的文本大纲与质量指标以维系外部合法性，对内保留教师自由裁量权与本土操作惯例。 | 课程大纲全盘引入探究式教学与建构主义，一线教室因超大[[Class Size\|班额]]依然维持传统填鸭式齐读。 |
 > | **[[Otherhood\|他者性]]与无私代理机制** | 去中心化的世界社会缺乏单一中央政府，依赖中立专业代理人输出理智化的普世法则。 | 大学、科学家、国际组织以客观科学面貌充当“为他者行动”的无私中介，赋予改革不可辩驳的道德正当性。 | [[PISA\|PISA 测评]]等跨国指标体系被包装为客观中立的科学工具，驱动各国主动进行[[Policy Borrowing\|政策借用]]。 |
-> | **[[Organizational Actorhood\|组织行动者身份]]的建构** | 现代组织并非天然拥有独立意图的实体，而是被世界文化塑造成具备理性自主与社会责任的责任主体。 | 外部制度环境赋予组织自主权、战略规划与问责要求，推动学校与大学向具备完整管理边界的“完全组织”演进。 | 现代大学普遍建立独立的品牌传播、战略规划与社会责任部门，深陷评估[[Red Tape\|繁文缛节]]与形式化治理。 |
+> | **[[Organizational Actorhood\|组织行动者身份]]的建构** | 现代组织由世界文化塑造成具备理性自主与社会责任的责任主体，打破了“组织天然拥有独立意图”的预设。 | 外部制度环境赋予组织自主权、战略规划与问责要求，推动学校与大学向具备完整管理边界的“完全组织”演进。 | 现代大学普遍建立独立的品牌传播、战略规划与社会责任部门，深陷评估[[Red Tape\|繁文缛节]]与形式化治理。 |
 
 
 > [!work-line] 学派代表性经典[[Document|文献]]

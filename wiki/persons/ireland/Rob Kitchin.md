@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: ireland
 person_region: "ireland"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Emergence]]"
+  - "[[New Mythology]]"
 related_theories: []
 related_methods:
   - "[[Critical Discourse Analysis]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -62,10 +63,10 @@ updated: 2026-10-30
 > [!person-profile] 人物档案
 > - **身份位置** 爱尔兰人文地理学家与空间信息学者，梅努斯大学（Maynooth University）社会科学研究所（Maynooth University Social Sciences Institute, MUSSI）教授、欧洲研究理事会（[[Engineering Research Centers|ERC]]）高级研究员。
 > - **核心角色** 批判性数据研究（Critical Data Studies, [[Critical Discourse Analysis|CDS]]）与智慧城市／空间[[Data Infrastructure\|数据基础设施]]研究的奠基者与领军人物；提出并系统化了数据汇聚体（Data [[Assemblage]]）理论框架，开创了从[[Ontology\|本体论]]、物质性、政治经济学与技术政治维度解剖数字基础设施的分析路径。
-> - **代表贡献** 奠定批判性数据研究理论纲领，出版里程碑著作《数据革命》（*The Data Revolution*）；提出数据绝非纯净无瑕的客观存在，而是深深嵌入社会-技术装配的建构物；其概念分析[[Paradigm\|范式]]被广泛引入教育社会学、公共治理与算法监测批判研究。
+> - **代表贡献** 奠定批判性数据研究理论纲领，出版里程碑著作《数据革命》（*The Data Revolution*）；提出数据是深深嵌入社会-技术装配中的建构物，打破了“数据纯净客观”的预设；其概念分析[[Paradigm\|范式]]被广泛引入教育社会学、公共治理与算法监测批判研究。
 
 > [!citation-card] 基钦论数据的建构性与数据汇聚体
-> 数据绝非自然存在或等待被捕获的客观事实，它们始终被构想、记录并嵌于特定的社会-技术与政治经济系统之中；必须将数据系统视为充满价值偏好与治理权力的汇聚体。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 2)]]
+> 数据无法脱离构想、生产与储存它们的理念、技术、人员和语境而独立存在，它们始终嵌于特定的社会-技术与政治经济系统之中；必须将数据系统视为充满价值偏好与治理权力的汇聚体。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 2)]]
 >
 > *Data do not exist independently of the ideas, techniques, technologies, people and contexts that conceive, produce, process, manage, analyse and store them.*
 
@@ -96,7 +97,7 @@ updated: 2026-10-30
 ---
 
 > [!claim] 核心思想
-> 基钦主张瓦解“数据客观真实”的技术[[Positivism\|实证主义]]神话，指出任何数据集、算法模型与监测仪表盘都不是对现实的中立反映，而是由[[Epistemology\|认识论假设]]、法律规范、财政资源、硬件设施与组织[[Habitus|惯习]]共同构成的“[[Data Infrastructure\|数据汇聚体]]”（Data [[Assemblage]]）；数据的生产与流转过程始终是一套被制造、被过滤、被治理的技术政治实践。
+> 基钦主张瓦解“数据客观真实”的技术[[Positivism\|实证主义]]神话，指出任何数据集、算法模型与监测仪表盘都无法中立反映现实，它们实为由[[Epistemology\|认识论假设]]、法律规范、财政资源、硬件设施与组织[[Habitus|惯习]]共同构成的“[[Data Infrastructure\|数据汇聚体]]”（Data [[Assemblage]]）；数据的生产与流转过程始终是一套被制造、被过滤、被治理的技术政治实践。
 
 > [!citation-card] 基钦论数据汇聚体的复合构成
 > 数据汇聚体由思想体系、客观知识、物质设备、财政模式、制度结构、法律与政治体制以及主体实践等相互交织的异质元素组成，它不仅规范着数据如何生成，更直接塑造了数据能够生产何种治理效能。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 2)]]
@@ -135,7 +136,7 @@ updated: 2026-10-30
 > > 统计学家与政策量化分析阵营常指责批判性数据研究过于激进，认为过分强调数据的社会建构性可能瓦解公共政策依据实证数据改进效能的合法基石。
 > >
 > > - **[[Positivism\|实证主义]]学者** 强调高质量标准化数据依然是克服主观偏见、实现公平分配与透明监督的最有力工具。
-> > - **基钦（2014）** 反驳指出揭示[[Data Infrastructure\|数据汇聚体]]并非全盘否定实证数据的价值，而是为了打破盲目崇拜算法与数字的假象，使[[Technical Rationality\|技术理性]]回到负责任与民主审视的轨道。
+> > - **基钦（2014）** 反驳指出揭示[[Data Infrastructure\|数据汇聚体]]旨在打破盲目崇拜算法与数字的假象，在保留实证数据价值的同时使[[Technical Rationality\|技术理性]]回到负责任与民主审视的轨道。
 
 > [!warning] 未解问题与边界
 > 在[[Generative Artificial Intelligence\|生成式人工智能]]与大语言模型迅猛发展的今天，海量合成数据与自动化代理系统的[[Emergence\|涌现]]，正对传统基于静态数据集与固定基础设施的数据汇聚体[[Analytic Framework\|分析框架]]提出新的理论拓展需求。
@@ -147,6 +148,6 @@ updated: 2026-10-30
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Data Infrastructure]] | 概念 | 将数据基础设施理论化为嵌入权力与价值的数据汇聚体。 |
-> | [[Technical Rationality]] | 概念 | 深刻批判将技术与算法视为中立客观的理性神话。 |
+> | [[Technical Rationality]] | 概念 | 深刻批判将技术与算法视为中立客观的[[New Mythology\|理性神话]]。 |
 > | [[Sigrid Hartong]] | 人物 | 为哈通等教育治理学者解构学校监测提供底层概念框架。 |
 
