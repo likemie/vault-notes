@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -107,6 +107,7 @@ updated: 2026-11-15
 > - **1790 — 康德的先验衔接** 康德在《判断力批判》中以审美社会可传达性与“美作为道德善的象征”论证美育作为从感官向习惯性道德兴趣过渡的准备阶段。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 36–41)]]
 > - **1796 — [[Friedrich Hölderlin|荷尔德林]]的哲学化推进** [[Friedrich Hölderlin|荷尔德林]]（Friedrich Hölderlin）在致尼特哈默信（1796 年 2 月 24 日）中筹划《人类审美教育新书简》，率先把美确立为通向概念无法认知的绝对者（*Seyn*）之御道（*via regia*），并将这一构想直接传递给谢林与[[Georg Wilhelm Friedrich Hegel|黑格尔]]。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 64, 69–70)]]
 > - **18 世纪末 — 德国古典主义美育** 门德尔松的人性完善美育观与康德的鉴赏交往论被席勒《审美教育书简》（1795）系统发展为融合人类学冲动论与历史进路的政治解放方案，并在歌德《威廉·迈斯特的学习时代》中得到文学呼应；但席勒在书简第 27 封信中又将“审美国家”收窄为少数精英沙龙圈层。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 14, 19)]]; [[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 37)]]; [[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, pp. 45–54, 59–60)]]
+> - **20 世纪 — 新马克思主义对席勒美育关切的平行继承** 恩斯特·布洛赫、[[Georg Lukács|卢卡奇]]与[[Herbert Marcuse|马尔库塞]]等新马克思主义美学家虽主张艺术与政治革命并重（而非席勒式以美育替代革命），但仍重拾《审美教育书简》开启的双重关切：抵御艺术沦为政治宣传工具，并追问艺术如何克服[[Alienation|异化]]、推动自由共同体的实现。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 158–160)]]
 
 ---
 
@@ -133,5 +134,5 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]]：[[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]述门德尔松人性完善美育；[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]析康德道德象征桥梁；[[Argument_Hammermeister_2002_Cambridge_Ch03|第 3 章]]论席勒《审美教育书简》的冲动调解与精英化悖论；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]述荷尔德林 1796 年筹划《人类审美教育新书简》对谢林与黑格尔的先导。
+> [!evidence-grid] 相关研究索引
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]]：[[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]述门德尔松人性完善美育；[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]析康德道德象征桥梁；[[Argument_Hammermeister_2002_Cambridge_Ch03|第 3 章]]论席勒《审美教育书简》的冲动调解与精英化悖论；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]述荷尔德林 1796 年筹划《人类审美教育新书简》对谢林与黑格尔的先导；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析新马克思主义对席勒美育双重关切的平行继承（pp. 158–160）。

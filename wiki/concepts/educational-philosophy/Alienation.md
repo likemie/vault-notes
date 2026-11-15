@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -134,5 +134,5 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Hammermeister_2002_Cambridge_Ch03|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch03|第 3 章]]析席勒美育与革命路径之争（pp. 47–59）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]论卢卡奇将艺术视作克服异化的自觉劳动（pp. 161–165）。

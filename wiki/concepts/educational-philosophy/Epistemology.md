@@ -152,7 +152,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -379,7 +379,7 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 在教育研究方法学经典中确立认识论在探究设计阶梯中的核心支柱地位，系统剖析[[Positivism|实证主义]]、[[Interpretive Paradigm|诠释范式]]、[[Critical Theory|批判理论]]与[[Pragmatic Paradigm|实用主义]][[Mixed Methods Research|混合方法]]的认识论分野。
 > - [[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] — 从认知发展与教育心理学视角，将认识论[[Operationalization|操作化]]为个体心智中的“[[Epistemological Understanding|认识论理解]]”，实证揭示了主客观协调的演进机制与[[Domain Specificity|领域特殊性]]。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 援引[[Immanuel Wallerstein|沃勒斯坦]]关于[[World-Systems Theory|世界体系分析]]作为针对欺骗性认识论的反抗的论断，确立探寻真理与追求正义社会在批判教育研究认识论中的根本统一性（p. 115）。

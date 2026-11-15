@@ -25,7 +25,7 @@ related_arguments: []
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -64,5 +64,5 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Hammermeister_2002_Cambridge_Ch08|Hammermeister (2002)]] — 第 8 章分析马尔库塞如何在“压抑性容忍”的诊断下，从反艺术实验回归自律伟大艺术的否定性辩护（pp. 170–171）。

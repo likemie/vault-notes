@@ -31,7 +31,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -54,9 +54,9 @@ updated: 2026-11-15
 
 > [!concept-proposition] 命题一｜艺术对激情的再现未必自动带来情绪净化，缺乏道德标准时亦可能诱发放纵
 > **理性反思的双向可能** 黑格尔把亚里士多德的卡塔西斯改写为“通过反思松弛激情”，但当代学者指出这一因果链条并不稳固。
-
-> [!claim] Hammermeister, K.
-> **反驳黑格尔的卡塔西斯解释** 仅仅对激情展开反思，既可能成为警戒激情的契机，也同样可能变成纵容激情的邀请。由于黑格尔明确认为艺术自身无法提供外在的道德标准，遭遇艺术作品后不良情绪自动减弱的结果也就难以成立。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 94)]]
+>
+> > [!claim] Hammermeister, K.
+> > **反驳黑格尔的卡塔西斯解释** 仅仅对激情展开反思，既可能成为警戒激情的契机，也同样可能变成纵容激情的邀请。由于黑格尔明确认为艺术自身无法提供外在的道德标准，遭遇艺术作品后不良情绪自动减弱的结果也就难以成立。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 94)]]
 
 ---
 
@@ -100,5 +100,5 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析黑格尔对卡塔西斯的理性主义改造（p. 94）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]述卡西尔形式转化与卢卡奇伦理皈依重构（pp. 156, 165–166）。
