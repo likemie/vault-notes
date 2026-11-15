@@ -12,6 +12,7 @@
 - 修改已有条目必须先读取文件，判断目标章节、子主题与插入位置，再使用 `str_replace` 精确替换相关段落，不重写整个文件。
 - 期刊 Argument 不记录本篇自引，不写作者与年份，也不写指向本篇的页码。书籍、教材、论文集章节和报告引用当前文献时只写页码，如（pp.147–148）。其他条目按 APA 格式引用。非 Argument 条目不写 YAML `sources` 和正文 `## 来源`；
 - “相关研究索引”中，只有同一本专著或教材的分章节 Argument 合并为一个顶层来源条目；论文集章节按各章作者与独立论证分别列出，不合并，也不用论文集 overview 替代章节证据。每个顶层索引条目只写一句话，可见文字不超过 150 个字符；脚本只提醒超限，不自动压缩正文。
+- Person 的“相关研究索引”只收以此人为核心的研究：把其思想或方法作为分析框架或核心工具，或以此人为研究对象。顺带引用、背景点名和此人自著不收；没有符合条件的研究时省略该模块。细则见 `wiki/templates/TEMPLATE-SPEC.md` 的 Person 规则。
 - `[!entry-map]` 条目关联只收录 Concept、Theory、Method、Instrument、Person、Fact。Argument 写入 `[!evidence-grid-a] 相关研究索引`。关系说明需要出处时，仍用 APA 短引用链接 Argument。
 - 条目关联表中，同类型的行连续排列，类型之间的先后顺序由条目内容决定。增量 lint 通过 `ENTRY_MAP_TYPE_GROUPING` 提示分散的类型。
 - `[!theory-constructs]` 记录理论内部的构件、构件类型与理论功能。构件可链接独立条目；Argument 写入相关研究索引。
@@ -228,7 +229,7 @@ wiki/
 - 文件名和 `title` 不使用 tag 风格 slug。
 - 标题表达归属关系时，优先使用自然英文结构，如 `Van Leeuwen's Legitimation Theory`、`Teaching Theory of Gruschka`。
 - Concept / Theory / Method / Instrument / Fact 的标题和文件名默认不得带括号、冒号、引号；缩写放入 `aliases` 或正文说明。
-- Person 命名细则按 `template-person.md` 执行。
+- Person 命名细则按 `wiki/templates/TEMPLATE-SPEC.md` 的 Person 规则执行。
 - Argument 文件名和 `title` 通常保持一致。
 - 缩写、中文译名、常见变体放入 `aliases`。
 
@@ -263,7 +264,7 @@ OECD_2018_GlobalCompetence
 
 - Argument 不使用 `aliases`。
 - Concept / Theory / Method / Instrument / Fact 的 `aliases` 写中文译名、常见英文变体和缩写。
-- Person 的 `aliases` 按 `template-person.md` 执行。
+- Person 的 `aliases` 按 `wiki/templates/TEMPLATE-SPEC.md` 的 Person 规则执行。
 - 页面中某个人名第一次出现时尽可能使用全名，中文正文采用中文（英文）格式；后续再次出现可自由使用英文原文（如英文姓氏或全名）或中文名/姓氏，无需机械重复添加双语括号。APA 引用中的人名保留英文原样。
 - 中文译名、英文变体和缩写分成不同 alias；不要把“中文（English）”这类双语括注整体写进一个 alias。人名或缩写与中文术语组合的常用写法（如“Pearson相关”“PISA素养”“IB文凭项目”）可以作为 alias。
 - 英文 alias 默认不区分大小写；不要同时写只差大小写的重复 alias。

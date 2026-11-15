@@ -8,14 +8,27 @@ aliases:
 summary: "康德在《判断力批判》中确立的非概念性反思判断，以无功利愉悦、主观普遍性、无目的的合目的性与必然共同愉悦界定美，弥合自然必然性与道德自由之间的裂隙。"
 type: concept
 domain: "educational-philosophy"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - field/philosophy
   - theme/aesthetics
   - theme/enlightenment
+related_concepts:
+  - "[[Phronesis]]"
+  - "[[Epoché]]"
+  - "[[Disinterested Pleasure]]"
+  - "[[Aesthetic Education]]"
+  - "[[Philosophical Aesthetics]]"
+  - "[[Aesthetic Idea]]"
+  - "[[Aesthetic Autonomy]]"
+  - "[[Paradigm]]"
+related_persons:
+  - "[[Immanuel Kant]]"
+related_arguments:
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
 confidence: high
 status: draft
 created: "2026-11-15"
@@ -25,7 +38,7 @@ updated: 2026-11-15
 ---
 
 > [!def] Judgment of Taste
-> 鉴赏判断（Judgment of Taste）是[[Immanuel Kant|伊曼努尔·康德]]（Immanuel Kant）在 1790 年《判断力批判》中界定的“评判美的能力”（*CJ*, §1 脚注），指主体脱离知性概念归摄、直接借助想象力将对象表象关联于自身愉快或不愉快情感的审美判断。该判断既脱离认知判断的逻辑普遍性，也区别于感官快适与道德善的利害关切，构成康德沟通纯理论理性（自然）与实践理性（自由）的中介桥梁。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 21–22, 27–32)]]
+> 鉴赏判断（Judgment of Taste）是[[Immanuel Kant|伊曼努尔·康德]]（Immanuel Kant）在 1790 年《判断力批判》（*Critique of Judgment*, *CJ*）中界定的评判美的能力（*CJ*, §1 脚注），指主体脱离知性概念归摄、直接借助想象力将对象表象关联于自身愉快或不愉快情感的审美判断。该判断既脱离认知判断的逻辑普遍性，也区别于感官快适与道德善的利害关切，构成康德沟通纯理论理性（自然）与实践理性（自由）的中介桥梁。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 21–22, 27–32)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 依据《纯粹理性批判》的质、量、关系、模态四项范畴，从无功利性、主观普遍性、无目的的合目的性与必然性四个契机规定审美判断与美的本质。
@@ -44,7 +57,7 @@ updated: 2026-11-15
 
 ---
 
-> [!contrast-table|notitle] 康德鉴赏判断的四重契机（依据《纯粹理性批判》范畴框架）
+> [!index-table|notitle] 康德鉴赏判断的四重契机（依据《纯粹理性批判》范畴框架）
 > | 契机维度 | 核心定义 | 机制与理论含义 |
 > |---|---|---|
 > | **质（无功利性）** | 基于无任何利害关系的愉快或不愉快评判对象（*CJ*, §5） | 将审美愉悦严格区隔于满足感官欲望的快适与预设概念要求的道德善，确立[[Disinterested Pleasure\|无功利愉悦]]（pp. 28–29）。 |
@@ -88,4 +101,4 @@ updated: 2026-11-15
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch02|Hammermeister (2002)]] — 解析康德《判断力批判》中鉴赏判断的四重契机、自由美与依附美张力及其对后世美学范式的奠基作用。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch02|Hammermeister (2002)]] — 解析康德《判断力批判》中鉴赏判断的四重契机、自由美与依附美张力及其对后世美学[[Paradigm|范式]]的奠基作用。

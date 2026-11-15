@@ -3,6 +3,7 @@ citation: "Hammermeister, K. (2002). The German aesthetic tradition. Cambridge U
 extracted_to:
   - "[[Argument_Hammermeister_2002_Cambridge]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
 processed_date: 2026-11-14
 ---
 

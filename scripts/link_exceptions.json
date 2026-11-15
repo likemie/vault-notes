@@ -832,5 +832,25 @@
       "sentence": "通过区分认知、欲望与赞同官能，并主张舞台拥有独立于日常伦理的审美法则，他为艺术自主性开辟了道路；但其对认知维度的悬置与主观化转向，也使艺术的本体论界定弱化为主体愉悦反应。",
       "target": "wiki/concepts/educational-philosophy/Epoché.md"
     }
+  ],
+  "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch02.md": [
+    {
+      "sentence": "伊曼努尔·康德（Immanuel Kant）如何在 1790 年《判断力批判》（*Critique of Judgment*, *CJ*）中以鉴赏判断弥合纯粹理性（自然）与实践理性（自由）之间的裂隙？",
+      "target": "wiki/concepts/educational-philosophy/Phronesis.md"
+    },
+    {
+      "sentence": "康德通过切断审美与概念认知、实用欲望及直接道德目的的捆绑，赋予鉴赏判断与理论、道德判断同等重要的独立地位，由此在德国思想史上正式确立了形式主义、主观化且脱离历史语境的第一个强美学范式；尽管这一方案悬置了艺术作品的本体论界定与真理性诉求，却凭借自由游戏、审美理念、天才立法以及美作为道德的象征，全面塑造了后康德至黑格尔乃至 20 世纪美学争论的议程（pp.",
+      "target": "wiki/concepts/educational-philosophy/Epoché.md"
+    }
+  ],
+  "wiki/concepts/educational-philosophy/Judgment of Taste.md": [
+    {
+      "sentence": "该判断既脱离认知判断的逻辑普遍性，也区别于感官快适与道德善的利害关切，构成康德沟通纯理论理性（自然）与实践理性（自由）的中介桥梁。",
+      "target": "wiki/concepts/educational-philosophy/Phronesis.md"
+    },
+    {
+      "sentence": "区别于对快适与善的判断 — 对快适（如美酒）与道德善的愉悦均伴随对对象实际存在的利害兴趣，唯有鉴赏判断悬置了占有欲望。",
+      "target": "wiki/concepts/educational-philosophy/Epoché.md"
+    }
   ]
 }
