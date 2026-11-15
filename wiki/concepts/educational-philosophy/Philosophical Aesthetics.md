@@ -57,7 +57,7 @@ related_theories:
 confidence: high
 status: draft
 created: "2026-11-14"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -177,8 +177,14 @@ updated: 2026-11-15
 > | [[Indirect Communication]] | 概念 | 克尔凯郭尔以假名与人格化生存姿态替代直接知识传递的话语策略。[[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, p. 129)]] |
 > | [[Apollonian and Dionysian]] | 概念 | 尼采《悲剧的诞生》确立的双重艺术与自然原力，晚期统一为迷醉形态。[[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, pp. 138–146)]] |
 > | [[Perspectivism]] | 概念 | 尼采哲学全面审美化后拒绝单一客观真理的认识论立场。[[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, pp. 147–148)]] |
+> | [[Animal Symbolicum]] | 概念 | 卡西尔用以奠定艺术、语言与科学自主分立的人类学基础界定。[[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 154–155)]] |
+> | [[Typicality]] | 概念 | 卢卡奇用以统一孤立个别与抽象普遍、界定现实主义摹仿的核心审美范畴。[[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 163–164)]] |
+> | [[Repressive Tolerance]] | 概念 | 马尔库塞揭示发达资本主义社会收编反艺术抗争的制度机制。[[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, p. 171)]] |
 > | [[Kierkegaard's Aesthetics]] | 理论 | 克尔凯郭尔存在境界层级与审美批判理论。[[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, pp. 128–135)]] |
 > | [[Nietzsche's Aesthetics]] | 理论 | 尼采跨越悲剧美学、实证批判与哲学审美化的三阶段美学纲领。[[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, pp. 136–150)]] |
+> | [[Cassirer's Aesthetics]] | 理论 | 新康德主义符号美学分支，以形式集中强化与情感转化捍卫艺术自律。[[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 154–158)]] |
+> | [[Lukács's Aesthetics]] | 理论 | 马克思主义现实主义美学分支，围绕艺术摹仿、典型性与克服异化展开。[[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 163–169)]] |
+> | [[Marcuse's Aesthetics]] | 理论 | 法兰克福学派批判美学分支，揭示反艺术困境并退守自律艺术否定潜能。[[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 169–172)]] |
 > | [[Alexander Gottlieb Baumgarten]] | 人物 | 哲学美学的首位命名者与系统奠基人。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 4, 6)]] |
 > | [[Moses Mendelssohn]] | 人物 | 推动哲学美学向情感心理学与审美教育转向的关键人物。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 13–14, 18)]] |
 > | [[Immanuel Kant]] | 人物 | 赋予“美学”现代学科语义并确立首个强范式的哲学家。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 23, 40–41)]] |
@@ -188,8 +194,11 @@ updated: 2026-11-15
 > | [[Arthur Schopenhauer]] | 人物 | 以盲目意志形而上学拆解德国唯心论美学传统并开启避世唯美主义的哲学家。[[Argument_Hammermeister_2002_Cambridge_Ch06\|(Hammermeister, 2002, pp. 111–113, 126–127)]] |
 > | [[Søren Kierkegaard]] | 人物 | 将审美降格为初级存在阶段并在感性论回溯中丧失认知功能的思想家。[[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, pp. 128–135)]] |
 > | [[Friedrich Nietzsche]] | 人物 | 将美学转化为应用生理学并推上第一哲学地位的哲学家。[[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, pp. 136–150)]] |
+> | [[Ernst Cassirer]] | 人物 | 以符号动物人类学复兴康德自律美学的新康德主义哲学家。[[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 153–158)]] |
+> | [[Georg Lukács]] | 人物 | 构建以典型性、党性与理性卡塔西斯为核心的马克思主义现实主义美学体系。[[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 160–169)]] |
+> | [[Herbert Marcuse]] | 人物 | 结合弗洛伊德冲动理论与古典艺术总体性、在压抑性容忍下重申伟大艺术否定性的批判理论家。[[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 169–172)]] |
 
 ---
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1]]–[[Argument_Hammermeister_2002_Cambridge_Ch03|3 章]]溯鲍姆嘉通至康德与席勒；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4]]–[[Argument_Hammermeister_2002_Cambridge_Ch06|6 章]]析谢林、黑格尔与叔本华；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析克尔凯郭尔与尼采的反唯心论转向。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1]]–[[Argument_Hammermeister_2002_Cambridge_Ch03|3 章]]溯鲍姆嘉通至康德与席勒；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4]]–[[Argument_Hammermeister_2002_Cambridge_Ch06|6 章]]析谢林、黑格尔与叔本华；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析克尔凯郭尔与尼采的反唯心论转向；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析卡西尔、卢卡奇与马尔库塞对古典范式的 20 世纪重演。
