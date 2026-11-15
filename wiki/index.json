@@ -4699,6 +4699,15 @@
     ]
   },
   {
+    "title": "Aestheticism",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Aestheticism.md",
+    "aliases": [
+      "唯美主义",
+      "艺术至上主义"
+    ]
+  },
+  {
     "title": "Aesthetics of Ugliness",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Aesthetics of Ugliness.md",
@@ -5955,6 +5964,15 @@
     ]
   },
   {
+    "title": "Principium Individuationis",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Principium Individuationis.md",
+    "aliases": [
+      "个体化原理",
+      "individation principle"
+    ]
+  },
+  {
     "title": "Principle of Parsimony",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Principle of Parsimony.md",
@@ -5964,6 +5982,16 @@
       "Occam's razor",
       "简便律",
       "law of parsimony"
+    ]
+  },
+  {
+    "title": "Principle of Sufficient Reason",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Principle of Sufficient Reason.md",
+    "aliases": [
+      "充足理由律",
+      "充足根据律",
+      "Satz vom Grund"
     ]
   },
   {
@@ -6186,6 +6214,16 @@
       "技术官僚理性",
       "Technocratic Rationalism",
       "Technocratic Rationality"
+    ]
+  },
+  {
+    "title": "The Interesting",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/The Interesting.md",
+    "aliases": [
+      "趣味性",
+      "das Interessante",
+      "有趣"
     ]
   },
   {
@@ -22667,6 +22705,16 @@
     ]
   },
   {
+    "title": "Schopenhauer's Aesthetics",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Schopenhauer's Aesthetics.md",
+    "aliases": [
+      "叔本华美学",
+      "叔本华艺术哲学",
+      "Schopenhauer's Philosophy of Art"
+    ]
+  },
+  {
     "title": "Social Justice Theory",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Social Justice Theory.md",
@@ -31692,6 +31740,17 @@
       "安德烈亚斯·施莱歇尔",
       "施莱歇尔",
       "A. Schleicher"
+    ]
+  },
+  {
+    "title": "Arthur Schopenhauer",
+    "type": "person",
+    "path": "wiki/persons/germany/Arthur Schopenhauer.md",
+    "aliases": [
+      "叔本华",
+      "阿图尔·叔本华",
+      "Schopenhauer, A.",
+      "A. Schopenhauer"
     ]
   },
   {
@@ -51855,6 +51914,11 @@
     "title": "Argument_Hammermeister_2002_Cambridge_Ch05",
     "type": "argument",
     "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md"
+  },
+  {
+    "title": "Argument_Hammermeister_2002_Cambridge_Ch06",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
   },
   {
     "title": "Argument_Karp_Zamiska_2025_Technological_Republic",

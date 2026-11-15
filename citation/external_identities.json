@@ -6351,6 +6351,14 @@
       ],
       "title": ""
     },
+    "Bahr, 1970": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
+      ],
+      "title": ""
+    },
     "Bai et al., 2020": {
       "datasets": [
         "metax:S1711"
@@ -38834,6 +38842,14 @@
       ],
       "title": ""
     },
+    "Gehlen, 1986": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
+      ],
+      "title": ""
+    },
     "Gehring et al., 2005": {
       "doi": "",
       "isbn": "",
@@ -43602,6 +43618,14 @@
       ],
       "title": ""
     },
+    "Guyer, 1996": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
+      ],
+      "title": ""
+    },
     "Guzman et al., 2018": {
       "datasets": [
         "metax:S1443"
@@ -45087,6 +45111,16 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2009_CE.md"
+      ],
+      "title": ""
+    },
+    "Hans-Dieter Bahr, 1970": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Aestheticism.md",
+        "wiki/persons/germany/Arthur Schopenhauer.md",
+        "wiki/theories/educational-philosophy/Schopenhauer's Aesthetics.md"
       ],
       "title": ""
     },
@@ -52344,6 +52378,14 @@
       ],
       "title": ""
     },
+    "Janaway, 1994": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
+      ],
+      "title": ""
+    },
     "Jane Kenway et al., 2006": {
       "doi": "",
       "isbn": "",
@@ -55033,6 +55075,18 @@
       "isbn": "",
       "seen_in": [],
       "title": "Using elaborative interrogation to facilitate acquisition of factual information in cooperative learning settings: One good strategy deserves another"
+    },
+    "Kai Hammermeister, 2002": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Aestheticism.md",
+        "wiki/concepts/educational-philosophy/Principium Individuationis.md",
+        "wiki/concepts/educational-philosophy/Principle of Sufficient Reason.md",
+        "wiki/concepts/educational-philosophy/The Interesting.md",
+        "wiki/theories/educational-philosophy/Schopenhauer's Aesthetics.md"
+      ],
+      "title": ""
     },
     "Kainz, 2019": {
       "doi": "",
@@ -63405,6 +63459,14 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
         "wiki/arguments/journal-articles/Science/Argument_Fortunato_2018_Science.md",
         "wiki/concepts/competency-and-assessment/Creativity.md"
+      ],
+      "title": ""
+    },
+    "Lehmann, 1995": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
       ],
       "title": ""
     },
@@ -78084,6 +78146,14 @@
       ],
       "title": ""
     },
+    "Neymeyr, 1996": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
+      ],
+      "title": ""
+    },
     "Ng & Tan, 2010": {
       "doi": "",
       "isbn": "",
@@ -82930,6 +83000,15 @@
       ],
       "title": ""
     },
+    "Paul Guyer, 1996": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/germany/Arthur Schopenhauer.md",
+        "wiki/theories/educational-philosophy/Schopenhauer's Aesthetics.md"
+      ],
+      "title": ""
+    },
     "Paul Higgins, 2016": {
       "doi": "",
       "isbn": "",
@@ -85904,6 +85983,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md"
+      ],
+      "title": ""
+    },
+    "Pothast, 1982": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
       ],
       "title": ""
     },
@@ -94581,6 +94668,14 @@
       ],
       "title": ""
     },
+    "Scheer, 1997": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
+      ],
+      "title": ""
+    },
     "Scheerens & Bosker, 1997": {
       "datasets": [
         "metax:S0541"
@@ -95081,6 +95176,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Constructivist, problem-based learning does work: A meta-analysis of curricular comparisons involving a single medical school"
+    },
+    "Schmidt, 1985": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
+      ],
+      "title": ""
     },
     "Schmidt, 2008": {
       "doi": "10.1146/annurev.polisci.11.060606.135342",
@@ -95710,6 +95813,22 @@
       "isbn": "",
       "seen_in": [
         "wiki/instruments/checklists/CONSORT-SPI.md"
+      ],
+      "title": ""
+    },
+    "Schulz, 1981": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
+      ],
+      "title": ""
+    },
+    "Schulz, 1991": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
       ],
       "title": ""
     },
@@ -109297,6 +109416,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effects of peer tutoring on the academic achievement of students in the subject of biology at secondary level"
+    },
+    "Ulrich Pothast, 1982": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Principle of Sufficient Reason.md"
+      ],
+      "title": ""
     },
     "Ulrichsen & Kelleher, 2022": {
       "doi": "",

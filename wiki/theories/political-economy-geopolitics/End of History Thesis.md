@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -75,17 +75,17 @@ updated: 2026-11-14
 
 > [!theory-origin] 思想源流与建构路径
 > - **[[Georg Wilhelm Friedrich Hegel|黑格尔]]与科耶夫的历史哲学遗产** [[Francis Fukuyama|弗朗西斯·福山]]继承了[[Georg Wilhelm Friedrich Hegel|黑格尔]]（G. W. F. Hegel）关于历史是人类追求“获得承认的斗争”（Struggle for Recognition）以及亚历山大·科耶夫（Alexandre Kojève）关于普遍同质国家（Universal and Homogeneous State）的思辨论断，认为历史是有方向、有终点的理性和自由展开过程。
-> - **冷战终结与柏林墙倒塌的历史契机** 1989 年柏林墙倒塌前夕，福山在《国家利益》（*The National Interest*）发表论文《历史的终结？》，随后于 1992 年扩展出版专著《历史的终结与最后的人》，对苏联解体与西方自由主义阵营的胜利进行哲学升华。
+> - **冷战终结与柏林墙倒塌的历史契机** 1989 年柏林墙倒塌前夕，福山在《国家利益》（*The National Interest*）发表文章《历史的终结？》，随后于 1992 年扩展出版专著《历史的终结与最后的人》，对苏联解体与西方自由主义阵营的胜利进行哲学升华。
 
 > [!dev-timeline] 理论演进与争议历程
-> - **1989 — 原初论文发表** 福山发表《历史的终结？》，提出大国意识形态对抗已实质终结，西方自由民主制成为普世共识。
+> - **1989 — 原初文章发表** 福山发表《历史的终结？》，提出大国意识形态对抗已实质终结，西方自由民主制成为普世共识。
 > - **1992 — 专著体系化成型** 出版《历史的终结与最后的人》，引入“气魄/激情”（Thymos）概念，探讨历史终结后“最后的人”面临的无聊与虚无危机。
 > - **1990s–2000s — [[Clash of Civilizations|文明冲突论]]与威权韧性的多方反驳** [[Samuel P. Huntington|塞缪尔·亨廷顿]]提出“文明冲突论”，批判福山低估了文化与宗教断裂；全球化进程中威权国家经济崛起打破了“现代化必然带来西方民主化”的线性预设。
 > - **2025 — [[Technological Republic|技术共和国]]视角下的批判与[[Winner's Fallacy|胜者谬误]]定性** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》第 3 章指出，福山的历史终结论作为一种意识形态[[Grand Theory|宏大叙事]]，误导西方精英滋生了严重的[[Winner's Fallacy|胜者谬误]]，使之将和平安全视为免费的背景常态，导致国家在软件与人工智能[[Hard Power|硬实力]]建设上严重懈怠。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–32)]]
 
 ---
 
-> [!entry-map] 理论构件与功能索引
+> [!theory-constructs] 关键概念与理论构件
 > | 理论构件 | 构件类型 | 在理论中的核心功能 |
 > |:---|:---|:---|
 > | **历史的终结（End of History）** | 核心命题 | 判定人类社会组织形态的演化已达不可逾越的终极状态。 |
@@ -96,19 +96,19 @@ updated: 2026-11-14
 
 ---
 
-> [!theory-proposition] 命题一　人类意识形态演进的终点是自由民主制
-> [[Francis Fukuyama|福山]]论证，君主制、法西斯主义与共产主义等替代性政治意识形态在 20 世纪的竞争中相继瓦解，自由民主制在理念层面已无根本性对手。人类历史并非漫无目的的循环，而是一部朝向自由、平等与民主治理的单向目的论进程。
+> [!theory-proposition] 命题一｜人类意识形态演进的终点是自由民主制
+> [[Francis Fukuyama|福山]]论证，君主制、法西斯主义与共产主义等替代性政治意识形态在 20 世纪的竞争中相继瓦解，自由民主制在理念层面已无根本性对手。人类历史是一部朝向自由、平等与民主治理的单向目的论进程，有别于漫无目的的循环。
 
 > [!example|notitle]
 > 在冷战结束初期，中东欧国家普遍开启向西方市场经济与代议民主制的“[[Transitology|转型学]]”（Transitology）制度移植，被广泛视为历史终结论在现实政策中的直接印证。
 
-> [!theory-proposition] 命题二　大国兴衰循环被普世自由秩序所超越
+> [!theory-proposition] 命题二｜大国兴衰循环被普世自由秩序所超越
 > 福山理论暗示，古典现实主义所描绘的大国之间必然爆发霸权战争与兴衰更替的残酷历史循环只是前现代的幻觉；在自由民主国家之间构建的国际法规范与经济相互依存网络中，持久和平（[[Perpetual Peace]]）将自发维系。
 
 > [!example|notitle]
 > 1990 年代西方大国大幅削减常规军费开支，享受冷战胜利后的“和平红利”，将国家安全重心转向全球反恐与区域维和。
 
-> [!theory-proposition] 命题三　历史终结论诱发[[Winner's Fallacy|胜者自满]]并销蚀国家防务[[Hard Power|硬实力]]（批判性反命题）
+> [!theory-proposition] 命题三｜历史终结论诱发[[Winner's Fallacy|胜者自满]]并销蚀国家防务[[Hard Power|硬实力]]（批判性反命题）
 > 依据[[Strategic Bargaining Theory|战略博弈论]]与《[[Technological Republic|技术共和国]]》现实主义批判，福山的历史终结论构成了典型的当代[[Winner's Fallacy|胜者谬误]]。正如学者[[Allan Bloom|阿兰·布鲁姆]]（Allan Bloom）所剖析，该理论诱人地消解了大国博弈的危机感；然而自由民主社会的存续从来不能单纯依靠道义优越感，它根本上依赖于拥有让对手明确预期的[[Hard Power|硬实力]]（而在 21 世纪硬实力的核心是算法软件）。
 
 > [!example|notitle]
@@ -129,18 +129,18 @@ updated: 2026-11-14
 
 ---
 
-> [!boundary]- 理论边界与局限
+> [!theory-boundary] 局限性与适用边界
 > - **目的论历史观的先验盲区** 将特定历史时期的政治胜利绝对化为普遍法则，无法解释 21 世纪威权体制借助尖端监控与人工智能技术展现出的超强动员力与技术韧性。
-> - **忽视暴力的底层议价功能** 脱离了[[Thomas Schelling|托马斯·谢林]][[Strategic Bargaining Theory|战略博弈论]]所揭示的常识——没有扎实的物理与软件伤害能力作为后盾，和平倡议将沦为空洞口号。
+> - **忽视暴力的底层议价功能** 脱离了[[Thomas Schelling|托马斯·谢林]][[Strategic Bargaining Theory|战略博弈论]]所揭示的常识，即没有扎实的物理与软件伤害能力作为后盾，和平倡议将沦为空洞口号。
 > - **文化普适性预设的破产** 西方自由民主制的成功依赖特定的历史传统、法治土壤与早期国家战略孵化，无法在缺乏本土制度承接力的社会中自发移植。
 
 ---
 
-> [!critique] 历史终结论遭遇的核心学术批判
+> [!critique] 批评索引
 > - **现实主义批评（Mearsheimer / Schelling）** 进攻性现实主义学者指出，国际体系的无政府状态与大国对相对权力的争夺永不休止；将制度胜负寄托于意识形态终结论是极度危险的战略天真。
 > - **[[Technological Republic|技术共和国]]地缘批判（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）** 专著第 3 章明确指出，[[Francis Fukuyama|福山]]理论是后冷战西方世界观最主要的思想毒素之一，它催生了将和平视为自然常态的[[Winner's Fallacy|胜者谬误]]，导致西方在面对竞争对手前沿军工 AI 突破时一度陷入战略麻痹。
 
 ---
 
-> [!evidence-grid] 相关论证索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska (2025, Ch. 3, pp. 31–36)]] — 系统批判[[Francis Fukuyama|福山]]历史终结论所制造的[[Winner's Fallacy|胜者谬误]]，重申 21 世纪大国外交与安全必须依托建立在软件之上的[[Hard Power|硬实力]]。

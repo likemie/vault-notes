@@ -156,7 +156,7 @@ updated: 2026-11-15
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 在西方知识确定性传统与心智奇迹探索中，系统剖析康德范畴论对调和唯理论与经验论、确立人类心智主动加工结构的奠基性贡献。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 阐释怀特国际理论框架中的康德革命主义传统，揭示其[[Cosmopolitanism|世界主义]]道德激情如何深刻塑造了 20 世纪批判、[[Dependency Theory\|依附论]]与后殖民比较教育研究。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 考证康德[[Enlightenment\|启蒙哲学]]如何与[[Jean-Jacques Rousseau\|卢梭]]自由思想汇聚，直接催生了朱利安比较教育准科学实证设想背后的世界主义人道主义母题与永久和平蓝图。
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]与[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]定位康德《判断力批判》为美学范式起点，系统剖析其鉴赏判断、崇高、天才及美与道德关系。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]与[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]剖析康德美学范式起点；[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]录黑格尔对其审美非功利性的肯定与主观性批评（pp. 92–95）。
 
 ---
 
@@ -164,7 +164,7 @@ updated: 2026-11-15
 > - **思想激荡与唤醒者** 大卫·休谟（David Hume） — 其经验怀疑论打破了康德的“独断论迷梦”，逼使康德转向批判哲学以重建因果律与科学知识的客观必然性。
 > - **道德与自然主义共鸣者** 让-雅克·[[Jean-Jacques Rousseau\|卢梭]]（Jean-Jacques Rousseau） — 康德自承卢梭纠正了其智力精英傲慢，教会其尊重普通人的道德尊严；卢梭的公意与自由观直接启发了康德的意志自律学说。
 > - **唯理与[[Empiricism\|经验论]]对话者** [[Plato\|柏拉图]]、[[René Descartes\|笛卡尔]]、[[George Berkeley\|贝克莱]]、洛克 — 康德综合了笛卡尔先验理性与洛克经验归纳，在西方哲学长河中确立了批判综合[[Paradigm\|范式]]。[[Argument_Li_2012_Cambridge\|Li (2012, pp. 25, 30)]]
-> - **辩证法继承与批判者** [[Georg Wilhelm Friedrich Hegel\|黑格尔]]（Hegel） — 黑格尔继承康德的主体性原则，但批判康德将物自体与现象生硬割裂的“主观唯心论”，将其提升为主客观统一的历史唯心辩证法。
+> - **辩证法继承与批判者** [[Georg Wilhelm Friedrich Hegel\|黑格尔]]（Hegel） — 黑格尔继承康德的主体性原则，批判康德将物自体与现象生硬割裂的“主观唯心论”；在美学上赞赏康德审美无功利与拒绝科学公式化的立场，同时批评其鉴赏判断停留于主观感受而缺乏历史维度与客观真理（[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 88–89, 93–94)]]）。
 > - **比较教育思想受惠者** [[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien） — 朱利安深受康德启蒙理性与[[Perpetual Peace\|永久和平]]思想触动，将比较教育观察表设计为消除民族偏狭、构建欧洲永久和平共同体的实践载体。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 20–22)]]
 
 ---

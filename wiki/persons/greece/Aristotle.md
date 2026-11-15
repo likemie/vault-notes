@@ -105,9 +105,11 @@ updated: 2026-11-15
 > - **理论路径** 确立了目的论伦理学、[[Phronesis|实践智慧]]与[[Habituation|习惯化]]德性教育传统，深刻塑造了西方古典至现代共和主义政治与教育哲学。
 > - **通识课程坐标** 在哥伦比亚、芝加哥、斯坦福等名校“名著课程”（Great Books）与西方文明必修课中作为核心必读文本；在20世纪60年代后成为[[Canon Wars|经典之争]]中反思课程大纲编辑特权与宗派主义的经典案例。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 88)]]
 > - **[[Critical Pedagogy|批判教育学]]反思** 后世[[Critical Pedagogy|批判教育学]]派（如[[John Dewey|杜威]]与[[Paulo Freire|弗莱雷]]）指出，亚里士多德将教育限定于适应既有社会阶层与权威指令，缺乏对社会不公的批判与变革能力（[[Argument_Darwish_2009_Queens|Darwish, 2009, pp. 4–5]]）。
+> - **美学与诗学接受** [[Georg Wilhelm Friedrich Hegel|黑格尔]]在美学讲演中对亚里士多德《诗学》的“卡塔西斯”（Catharsis，净化说）作理性主义解读（将恐惧与怜悯视为非理性情感并归于理念认知），后世[[Karl Rosenkranz|罗森克兰茨]]亦承接《诗学》（1448b）“丑物若经成功模仿亦可生快感”的命题推进[[Aesthetics of Ugliness|丑的美学]]探讨 [[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 94–96, 105)]]。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp and Zamiska (2025)]] — 以[[Joseph Tussman|图斯曼]]“为何选柏拉图而不选亚里士多德”之问为例，剖析 1960 年代高校通识正典大纲选目的武断性与合法性危机（p. 88）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002, Ch. 5)]] — 分析黑格尔对亚里士多德《诗学》“卡塔西斯”的理性主义诠释（pp. 94–96），以及《诗学》（1448b）模仿论与[[Aesthetics of Ugliness|丑的美学]]之渊源（p. 105）。
 
 ---
 
@@ -130,5 +132,6 @@ updated: 2026-11-15
 > | [[Phronesis]] | 概念 | 提出实践智慧概念，将伦理德性与具体情境中的审慎判断相联结。 |
 > | [[Habituation]] | 概念 | 论证通过重复践行正义与节制等行为养成德性[[Habitus\|习性]]的教育机制 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 4)]]。 |
 > | [[General Education]] | 概念 | 作为西方大学[[Western Civilization Course\|西方文明课程]]的核心正典思想家之一，其选目争议成为 1960 年代[[Canon Wars\|经典之争]]的导火索 [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07\|(Karp & Zamiska, 2025, p. 88)]]。 |
+> | [[Aesthetics of Ugliness]] | 概念 | 《诗学》（1448b）指出人对丑陋事物之精细模仿亦可产生审美快感，为后世黑格尔学派推进丑的美学提供古典依据 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 105)]]。 |
 > | [[1968 Stanford Western Civ Reform]] | 事实 | 其正典选目代表性争议助推了 1968 年斯坦福大学废除西方文明统一必修课的改革。 |
 
