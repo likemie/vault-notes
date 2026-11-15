@@ -16429,6 +16429,8 @@
     "Meng, 2023": "Meng, 2023",
     "Menges & Brinko (1986)": "Menges & Brinko, 1986",
     "Menges & Brinko, 1986": "Menges & Brinko, 1986",
+    "Menninghaus (1999)": "Menninghaus, 1999",
+    "Menninghaus, 1999": "Menninghaus, 1999",
     "Menon et al. (2009)": "Menon et al., 2009",
     "Menon et al., 2009": "Menon et al., 2009",
     "Menter et al. (2011)": "Menter et al., 2011",
@@ -147524,6 +147526,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effects of Student Evaluation Feedback: A Meta-Analysis of Higher Education Research"
+    },
+    "Menninghaus, 1999": {
+      "aliases": [
+        "Menninghaus, 1999",
+        "Menninghaus (1999)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Menninghaus, 1999"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Aesthetic Idea.md"
+      ],
+      "title": ""
     },
     "Menon et al., 2009": {
       "aliases": [

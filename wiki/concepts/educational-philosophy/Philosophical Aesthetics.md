@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-14"
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -89,22 +89,24 @@ updated: 2026-11-14
 > - **1735 — 学科命名** 鲍姆嘉通在《关于诗的若干哲学沉思》中首次提出“美学（aesthetics）”作为独立哲学学科的名称，意指感性知觉理论。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 4)]]
 > - **1750–1758 — 体系奠基** 鲍姆嘉通出版《美学》，将其界定为感性认识科学和自由艺术理论；其学生迈尔于 1748 年率先以德文出版讲义使之广为传播。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 6–7)]]
 > - **1755–1761 — 情感与心理转向** 门德尔松发表《论情感的书信》与《狂想曲》，将美学从认识论转向主体愉悦、[[The Sublime|崇高]]与审美教育。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 14–19)]]
-> - **1781–1790 — 语义定型** [[Immanuel Kant|康德]]在《纯粹理性批判》（1781）中仍沿用感性知觉理论之旧义，而在 1790 年《判断力批判》中正式采纳关于美与艺术哲学的新义，开启哲学美学范式时代。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. ix–x, 3, 20)]]
+> - **1781–1790 — 语义定型与范式确立** [[Immanuel Kant|康德]]在《纯粹理性批判》（1781）“先验感性论”中仍沿用感性经验先验条件之旧义，而在 1790 年《判断力批判》中正式将其转为关于鉴赏、美与艺术的哲学（同时区分哲学的“批判”即可能性条件探究与赫尔德、莱辛的艺术批评），开启以形式主义、主观化及脱离认知与道德为特征的首个强美学范式。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 23–24, 40–41)]]
 
 ---
 
 > [!entry-map] 条目关联
->
-> | 条目 | 类型 | 关系 |
-> |:-----|:-----|:-----|
-> | [[Sensual Cognition]] | 概念 | 鲍姆嘉通将感性认识确立为哲学美学的核心对象与奠基起点。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, p. 7)]] |
-> | [[Aesthetic Truth]] | 概念 | 构成哲学美学在认识论维度上区别于逻辑真理的核心判准。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 9–10)]] |
-> | [[Disinterested Pleasure]] | 概念 | 门德尔松通过赞同官能推进哲学美学向接受心理学与自主性转向。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 18–19)]] |
-> | [[The Sublime]] | 概念 | 门德尔松引入德国哲学美学的重要审美范畴。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 17–18)]] |
-> | [[Alexander Gottlieb Baumgarten]] | 人物 | 哲学美学的首位命名者与系统奠基人。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 4, 6)]] |
-> | [[Moses Mendelssohn]] | 人物 | 推动哲学美学向情感心理学与审美教育转向的关键人物。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 13–14, 18)]] |
+
+| 条目 | 类型 | 关系 |
+|:-----|:-----|:-----|
+| [[Sensual Cognition]] | 概念 | 鲍姆嘉通将感性认识确立为哲学美学的核心对象与奠基起点。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, p. 7)]] |
+| [[Aesthetic Truth]] | 概念 | 构成哲学美学在认识论维度上区别于逻辑真理的核心判准。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 9–10)]] |
+| [[Disinterested Pleasure]] | 概念 | 门德尔松与康德通过无功利愉悦推进哲学美学向接受心理学与主体判断转向。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 18–19)]]；[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 28–29)]] |
+| [[The Sublime]] | 概念 | 门德尔松引入并由康德在主体理性层面重构的重要审美范畴。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 17–18)]]；[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 32–34)]] |
+| [[Judgment of Taste]] | 概念 | 康德在《判断力批判》中确立美学学科独立性的核心判断机制。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 27–32)]] |
+| [[Alexander Gottlieb Baumgarten]] | 人物 | 哲学美学的首位命名者与系统奠基人。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 4, 6)]] |
+| [[Moses Mendelssohn]] | 人物 | 推动哲学美学向情感心理学与审美教育转向的关键人物。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 13–14, 18)]] |
+| [[Immanuel Kant]] | 人物 | 赋予“美学”现代学科语义并确立首个强范式的哲学家。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 23, 40–41)]] |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 系统梳理 18 世纪德国哲学美学从鲍姆嘉通感性认识论到门德尔松心理美育的起源与早期演变。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]梳理德国哲学美学从鲍姆嘉通到门德尔松的起源；[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]剖析康德赋予“美学”现代语义并建立首个强范式。

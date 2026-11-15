@@ -76,12 +76,18 @@ updated: 2026-11-15
 > [!claim] Hammermeister, K.
 > **表象完美、无欲之乐与舞台道德** 门德尔松首先区分对象完美与表象完美，指出即使自然对象本身既不善也不美，艺术再现依然可以在感性上达到完美，为脱离客观美丑甚至非具象艺术迈出第一步（p. 17）；继而设立[[Disinterested Pleasure|赞同官能]]，将审美界定为脱离认知与占有欲的无欲之乐（pp. 18–19）；最终提出“舞台自有其道德”，允许悲剧为激发强烈激情而呈现现实中应受谴责的自杀等行为，从而将艺术题材从常规伦理审查中解放出来（p. 19）。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 17–19)]]
 
+> [!concept-proposition] 命题三｜康德通过切断艺术与真理性认知的联系确立审美自主性，却也为此付出了剥夺艺术认知价值的代价
+> **独立地位与认识论代价** 康德论证艺术在与理性比较认知潜力时注定处于劣势，因此唯有将审美判断从真理与道德判断中剥离出来，才能赋予艺术独立哲学尊严。
+
+> [!claim] Hammermeister, K.
+> **脱离认知而留存道德象征** 《判断力批判》确立[[Judgment of Taste|鉴赏判断]]既独立于理论认知又独立于实践道德，却同时担任沟通二者的桥梁；这一方案虽使艺术摆脱了“低级认知”或“伦理婢女”的附庸地位，但也大幅削弱了艺术与真理的关联（伽达默尔 Hans-Georg Gadamer 在《真理与方法》中对此严厉批评），同时康德仍在第 59 节通过“美作为道德的象征”以及习惯性道德准备重新将审美导向道德生活。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 22–23, 38–41, 219 n.4)]]
+
 ---
 
 > [!dev-timeline] 概念演变
 > - **1750–1758 — 认知自主萌芽** 鲍姆嘉通在《美学》中确立独立于逻辑真理的审美真理，客观上动摇了美学对逻辑的从属地位。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 12–13)]]
 > - **1755–1785 — 心理与伦理自主推进** 门德尔松先后提出表象完美独立、舞台自有其道德与赞同官能，推动美学从规则诗学转向接受美学并扩大艺术自主空间。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 17–19)]]
-> - **1790 — 范式确立门槛** 康德《判断力批判》正式确立审美判断的独立地位，克服前康德时期依附理性主义形而上学导致的自主性不足。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 20)]]
+> - **1790 — 范式确立** 康德《判断力批判》切断美与概念认知的直接绑缚，正式确立审美判断的先验独立地位，并在“自然借[[Genius|天才]]给艺术立法”中规定艺术生产自主性。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 21–23, 35–36)]]
 
 ---
 
@@ -91,16 +97,19 @@ updated: 2026-11-15
 ---
 
 > [!entry-map] 条目关联
->
-> | 条目 | 类型 | 关系 |
-> |:-----|:-----|:-----|
-> | [[Philosophical Aesthetics]] | 概念 | 审美自主性是哲学美学脱离形而上学与逻辑学附庸、确立独立学科地位的核心条件。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 12–13, 20)]] |
-> | [[Aesthetic Truth]] | 概念 | 审美真理独立于逻辑真理的地位是鲍姆嘉通推动美学自主的认识论依据。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 12–13)]] |
-> | [[Disinterested Pleasure]] | 概念 | 门德尔松提出无欲之乐的赞同官能，为审美经验脱离日常欲望与道德说教奠定心理基础。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 18–19)]] |
-> | [[Alexander Gottlieb Baumgarten]] | 人物 | 客观上以审美真理动摇理性主义独尊，开启美学独立化进程。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 12–13)]] |
-> | [[Moses Mendelssohn]] | 人物 | 以表象完美、赞同官能与舞台道德进一步拓展艺术自主空间。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 17–19)]] |
+
+| 条目 | 类型 | 关系 |
+|:-----|:-----|:-----|
+| [[Philosophical Aesthetics]] | 概念 | 审美自主性是哲学美学脱离形而上学与逻辑学附庸、确立独立学科地位的核心条件。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 12–13, 20)]] |
+| [[Aesthetic Truth]] | 概念 | 审美真理独立于逻辑真理的地位是鲍姆嘉通推动美学自主的认识论依据。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 12–13)]] |
+| [[Disinterested Pleasure]] | 概念 | 门德尔松与康德先后通过无功利愉悦将审美体验从欲望与实用目的中解放出来。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 18–19)]]；[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 28–29)]] |
+| [[Judgment of Taste]] | 概念 | 康德确立审美判断独立于概念认知与道德利害的核心机制。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 23, 28–32)]] |
+| [[Genius]] | 概念 | 康德赋予艺术创作摆脱陈规模仿、自主确立新规范的生产机制。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 35–36)]] |
+| [[Alexander Gottlieb Baumgarten]] | 人物 | 客观上以审美真理动摇理性主义独尊，开启美学独立化进程。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 12–13)]] |
+| [[Moses Mendelssohn]] | 人物 | 以表象完美、赞同官能与舞台道德进一步拓展艺术自主空间。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 17–19)]] |
+| [[Immanuel Kant]] | 人物 | 通过第三批判确立美学独立范式，并引发后世关于艺术认知价值的持续争论。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 22–23, 39–41)]] |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]]：梳理鲍姆嘉通与门德尔松如何在巩固理性主义形而上学的初衷下逐步推进艺术自主性，并指出前康德美学因依附旧体系而未能论证完全自主性。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]梳理前康德美学对自主性的推进；[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]分析康德以切断认知为代价确立审美独立及其道德象征回锚。

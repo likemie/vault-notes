@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -138,7 +138,7 @@ updated: 2026-11-14
 
 > [!influence-path] 影响路径
 > - **认识论与学习科学路径** 康德的“哥白尼式革命”彻底击碎了心灵被动接受印记的白板说，提出心智先天地配备加工经验框架的主动建构观；[[Jin Li\|李瑾]]（[[Argument_Li_2012_Cambridge\|Li, 2012]]）指出康德在西方 2500 年认识论之争中提供了融通[[Empiricism\|经验论]]与唯理论的典范，其范畴加工模型（“佩戴玫瑰色眼镜看世界”）构成了现代[[Cognitive Constructivism\|认知建构主义]]与儿童概念认知科学的重要思想先声。[[Argument_Li_2012_Cambridge\|Li (2012, pp. 25–26, 30)]]
-> - **哲学美学范式奠基路径** 康德在 1790 年《判断力批判》中正式确立美学作为美与艺术哲学的独立范式，吸收并改造了[[Alexander Gottlieb Baumgarten|鲍姆嘉通]]的感性丰富性（演进为审美理念）与[[Moses Mendelssohn|门德尔松]]的[[Disinterested Pleasure|赞同官能]]（发展为[[Disinterested Pleasure|无功利愉悦]]），并在[[The Sublime|崇高]]论上成为后世哲学回溯的核心基准。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. ix–x, 11, 17–20)]]
+> - **哲学美学范式奠基路径** 康德先在 1764 年《论优美感与崇高感》中从人类学与道德心理学切入，继而在 1790 年《判断力批判》中正式确立美学作为独立学科的首个强范式：以[[Judgment of Taste|鉴赏判断]]四重契机与[[Disinterested Pleasure|无功利愉悦]]剥离美与概念认知的绑缚，以[[Aesthetic Idea|审美理念]]开启现代艺术不可穷尽阐释的诠释学传统，以[[Genius|天才]]规定“自然借以向艺术立法”，以数学的崇高与力学的崇高将[[The Sublime|崇高]]收归主体超感性理性能力，并以“美作为道德的象征”重新在审美与伦理之间架设桥梁；其美学形式主义、主体化转向及对艺术真理性诉求的剥离，成为黑格尔之前乃至阿多诺与伽达默尔等后世美学着力回应的核心起点。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. ix–x, 11, 17–20)]]；[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 21–41)]]
 > - **国际关系英国学派与[[Revolutionism\|革命主义]]传统** 马丁·怀特（Martin Wight, 1992）在国际理论三大传统中将康德确立为“革命主义（Revolutionism）”传统的始祖，与马基雅维利的现实主义、格老秀斯的理性主义并立；康德将普遍的人类共同体（Universal Human Community）确立为国际关系的终极实体，超越了主权国家的孤立视角，倡导消除苦难、追求世界大同与[[Perpetual Peace\|永久和平]]的道德激情。[[Argument_Klerides_2023_CE\|Klerides (2023, p. 418)]]
 > - **比较教育学发端期的启蒙精神纽带** 卡洛扬纳基与卡扎米亚斯（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009]]）考证，康德在 1784 年论著中阐明的“启蒙即勇敢运用理性、走出未成熟状态”的自主性命题，对学科始祖朱利安（[[Marc-Antoine Jullien]]）产生了划时代的思想启蒙；促使朱利安从大革命雅各宾恐怖统治与拿破仑帝国战争的幻灭中抽离，将教育升华为预防政治暴力循环、促进世界和平与全人教化的理性替代方案。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 20, 22–24)]]
 > - **[[Critical Thinking\|批判性思维]]与现代教育哲学** 康德的“Sapere aude!”与定言律令将受教育者从被动服从权威教条中解放出来，奠定了现代[[Critical Thinking\|批判性思维]]、道德自律与民主公民教育的法哲学基座。
@@ -148,7 +148,7 @@ updated: 2026-11-14
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 阐释怀特国际理论框架中的康德革命主义传统，揭示其[[Cosmopolitanism|世界主义]]道德激情如何深刻塑造了 20 世纪批判、[[Dependency Theory\|依附论]]与后殖民比较教育研究。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 考证康德[[Enlightenment\|启蒙哲学]]如何与[[Jean-Jacques Rousseau\|卢梭]]自由思想汇聚，直接催生了朱利安比较教育准科学实证设想背后的世界主义人道主义母题与永久和平蓝图。
 > - [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] — 将康德置于德意志教化（[[Bildung]]）与存在[[Ontology|本体论]]哲学传统，以此对抗当代[[Positivism|实证主义]]将教育降维为即时可见学习的狭隘化倾向。
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 将康德《判断力批判》（1790）定位为哲学美学范式时代的起点，阐明其如何吸收并超越鲍姆嘉通与门德尔松的前范式美学（pp. ix–x, 3, 18–20）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]与[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]定位康德《判断力批判》为美学范式起点，系统剖析其鉴赏判断、崇高、天才及美与道德关系。
 
 ---
 

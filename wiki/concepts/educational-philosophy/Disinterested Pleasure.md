@@ -28,7 +28,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-14"
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -61,17 +61,24 @@ updated: 2026-11-14
 > [!claim] Hammermeister, K.
 > **通向审美教育的自由空间** 门德尔松继承了沙夫茨伯里（Shaftesbury）的无功利之爱与让-巴蒂斯特·杜博斯（Jean-Baptiste Dubos）的纯粹愉悦（*plaisir pur*）思想，通过赞同官能将艺术从道德审查与规则束缚中解放出来；正是这种题材与感受的自由，使艺术能够更有效地促成人的诸官能和谐发展，成为审美教育不可或缺的工具。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 18–20)]]
 
+> [!concept-proposition] 命题二｜康德通过区分三种愉悦将无功利性确立为鉴赏判断的首要先验标准
+> **脱离存在兴趣的审美愉悦** 康德在《判断力批判》（§5）中系统区分感官快适、道德善与美所引发的愉悦，指出唯有审美愉悦完全不关心对象是否实际存在。
+
+> [!claim] Hammermeister, K.
+> **快适、善与美的三重区隔** 对快适（如偏好葡萄酒胜过啤酒）的愉悦基于纯粹主观欲望并意图消耗对象，对道德善的愉悦虽要求普遍有效性却仍伴随促使善存在之实践兴趣；唯有审美愉悦悬置了一切占有与渴望，同时激发并安顿人的认识官能，这一立场在 1785 年卡尔·菲利普·莫里茨（Karl Philipp Moritz）“美因自身完美而令人愉悦”的论述中已见先声，并深刻影响了叔本华（Arthur Schopenhauer）与席勒（Friedrich Schiller）。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 28–29)]]
+
 ---
 
 > [!entry-map] 条目关联
->
-> | 条目 | 类型 | 关系 |
-> |:-----|:-----|:-----|
-> | [[Philosophical Aesthetics]] | 概念 | 标志着哲学美学从客体规则转向主体心理接受的关键步骤。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 18–19)]] |
-> | [[Moses Mendelssohn]] | 人物 | 通过赞同官能和舞台道德分离论确立该概念的直接先驱。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 18–19)]] |
-> | [[Immanuel Kant]] | 人物 | 在《判断力批判》中将门德尔松的赞同官能发展为经典的无功利愉悦理论。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 18, 20)]] |
+
+| 条目 | 类型 | 关系 |
+|:-----|:-----|:-----|
+| [[Philosophical Aesthetics]] | 概念 | 标志着哲学美学从客体规则转向主体心理接受的关键步骤。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 18–19)]] |
+| [[Judgment of Taste]] | 概念 | 无功利愉悦构成康德鉴赏判断四重契机中“质”的维度核心规定。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 28–29)]] |
+| [[Moses Mendelssohn]] | 人物 | 通过赞同官能和舞台道德分离论确立该概念的直接先驱。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 18–19)]] |
+| [[Immanuel Kant]] | 人物 | 在《判断力批判》中将门德尔松的赞同官能发展为经典的无功利愉悦理论。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 18, 20)]] |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 梳理门德尔松如何借由“赞同官能”与戏剧道德独立性为康德无功利愉悦及德国美育传统奠定基础。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]梳理门德尔松“赞同官能”与舞台道德；[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]解析康德对快适、善与无功利美感的三重区隔。

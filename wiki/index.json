@@ -4642,6 +4642,16 @@
     ]
   },
   {
+    "title": "Aesthetic Idea",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Aesthetic Idea.md",
+    "aliases": [
+      "审美理念",
+      "ästhetische Idee",
+      "aesthetic ideas"
+    ]
+  },
+  {
     "title": "Allgemeine Pädagogik",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Allgemeine Pädagogik.md",
@@ -5320,6 +5330,16 @@
     ]
   },
   {
+    "title": "Genius",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Genius.md",
+    "aliases": [
+      "天才",
+      "Genie",
+      "ingenium"
+    ]
+  },
+  {
     "title": "Haraway's SF",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Haraway's SF.md",
@@ -5411,6 +5431,17 @@
       "解释主义",
       "诠释主义",
       "interpretivist"
+    ]
+  },
+  {
+    "title": "Judgment of Taste",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Judgment of Taste.md",
+    "aliases": [
+      "鉴赏判断",
+      "审美判断",
+      "Geschmacksurteil",
+      "Aesthetic Judgment"
     ]
   },
   {
@@ -51419,6 +51450,11 @@
     "title": "Argument_Hammermeister_2002_Cambridge_Ch01",
     "type": "argument",
     "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md"
+  },
+  {
+    "title": "Argument_Hammermeister_2002_Cambridge_Ch02",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch02.md"
   },
   {
     "title": "Argument_Karp_Zamiska_2025_Technological_Republic",

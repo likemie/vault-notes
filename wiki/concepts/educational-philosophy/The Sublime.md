@@ -26,7 +26,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-14"
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -59,17 +59,24 @@ updated: 2026-11-14
 > [!example] 无限宇宙、哥特式大教堂与崇高判断的逻辑张力
 > 按照门德尔松的“易观性（*eusynopton*）”尺度，无限宇宙因无法被感官瞬间整体把握而丧失常规意义上的美，哥特式大教堂亦因细节繁复难以在知觉中统一而被其归为不和谐之物。然而在崇高理论中，正是这种超越感官统一极限的庞大对象激发了混合情感。需要注意的是，门德尔松坚持崇高对象必须包含美的成分，却未充分解释主体如何先行判定某物为美、继而因无法把握其全体而转归为崇高的逻辑过渡。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 15–17)]]
 
+> [!concept-proposition] 命题二｜康德将崇高从对象属性彻底收归主体超越感性的理性能力，并与美形成二元对立
+> **数学的崇高与力学的崇高** [[Immanuel Kant|康德]]在《判断力批判》（§§23–28）中界定崇高“绝对伟大”且“超越一切比较”，因此崇高不存在于任何感性形式或自然客体之中，只存在于遭遇特定对象时被唤醒的主体理性状态之中。
+
+> [!claim] Hammermeister, K.
+> **理性尊严的唤醒与美-崇高之分立** 康德区分两种崇高形态：数学的崇高面对无限观念，想象力因无法将绝对整体综合为感性统一而受挫，却由此反证心灵中存在超越经验的超感性理性能力，赋予人尊严与崇高感（后世[[Georg Wilhelm Friedrich Hegel|黑格尔]]在《哲学全书》§104 中则将此类“坏无限”引起的战栗视作无尽序列的枯燥）；力学的崇高面对悬崖、雷暴、火山或怒海等足以毁灭肉身的自然暴力，人在安全处境下借由反思克服最初的恐惧与不快，在自身中发现不受自然摧毁的道德自由与“抵抗力”。由此，美带来宁静且扎根感官经验，崇高则体现道德能量并力图脱离感官转向理性，二者在康德体系中处于对立状态，成为席勒、谢林与黑格尔着力弥合的核心裂隙。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 32–34)]]
+
 ---
 
 > [!entry-map] 条目关联
->
-> | 条目 | 类型 | 关系 |
-> |:-----|:-----|:-----|
-> | [[Philosophical Aesthetics]] | 概念 | 崇高作为超越传统和谐美范畴的审美维度拓展了哲学美学的边界。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, p. 17)]] |
-> | [[Moses Mendelssohn]] | 人物 | 首位在德国哲学中对崇高予以系统阐发的思想家。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 17–18)]] |
-> | [[Immanuel Kant]] | 人物 | 后世对崇高概念的讨论主要依循康德的范式重构。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 17–18)]] |
+
+| 条目 | 类型 | 关系 |
+|:-----|:-----|:-----|
+| [[Philosophical Aesthetics]] | 概念 | 崇高作为超越传统和谐美范畴的审美维度拓展了哲学美学的边界。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, p. 17)]] |
+| [[Judgment of Taste]] | 概念 | 康德体系中与崇高形成“感官宁静 vs 道德超拔”对立的另一核心审美判断类型。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 32–34)]] |
+| [[Moses Mendelssohn]] | 人物 | 首位在德国哲学中对崇高予以系统阐发的思想家。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 17–18)]] |
+| [[Immanuel Kant]] | 人物 | 在《判断力批判》中区分数学的崇高与力学的崇高，确立主体转向的经典范式。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 32–34)]] |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 阐明门德尔松如何将崇高引入德国美学并揭示其以赞叹为核心的混合情感结构。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]阐明门德尔松引入崇高与混合情感；[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]剖析康德数学与力学的崇高及其与美的对立。
