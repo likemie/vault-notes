@@ -7,9 +7,9 @@ title: "Argument_Hammermeister_2002_Cambridge"
 argument_key: "Argument_Hammermeister_2002_Cambridge"
 argument_display_title: "The German Aesthetic Tradition"
 argument_kind: "book"
-argument_related_count: 28
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 36
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#ede9fe"
 authors:
   - "Hammermeister, K."
@@ -41,6 +41,10 @@ related_concepts:
   - "[[Aesthetic Intuition]]"
   - "[[New Mythology]]"
   - "[[Romantic Irony]]"
+  - "[[Absolute Spirit]]"
+  - "[[Mimesis]]"
+  - "[[End of Art]]"
+  - "[[Aesthetics of Ugliness]]"
   - "[[Document]]"
 related_persons:
   - "[[Alexander Gottlieb Baumgarten]]"
@@ -50,13 +54,17 @@ related_persons:
   - "[[Friedrich Wilhelm Joseph Schelling]]"
   - "[[Friedrich Schlegel]]"
   - "[[Karl Wilhelm Ferdinand Solger]]"
+  - "[[Georg Wilhelm Friedrich Hegel]]"
+  - "[[Karl Rosenkranz]]"
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch03]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch04]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch05]]"
 related_theories:
   - "[[Schiller's Theory of Drives]]"
+  - "[[Hegel's Aesthetics]]"
 status: "draft"
 created: "2026-11-14"
 updated: 2026-11-15
@@ -66,7 +74,7 @@ updated: 2026-11-15
 > - **书名** 《德国[[Philosophical Aesthetics|美学]]传统》（The German Aesthetic Tradition）。
 > - **撰写者** 凯·哈默迈斯特（Kai Hammermeister）。
 > - **出版信息** Cambridge University Press，2002 年，电子版 ISBN 9780511068980。
-> - **处理粒度** 分章建立论证页；目前已解读第 1–4 章，其余各章待解读。
+> - **处理粒度** 分章建立论证页；目前已解读第 1–5 章，其余各章待解读。
 
 > [!textbook-overview] 章节导航
 > | 章节 | 内容概要 | 主要关联条目 |
@@ -76,7 +84,7 @@ updated: 2026-11-15
 > | [[Argument_Hammermeister_2002_Cambridge_Ch02\|第 2 章 Kant]] | I · The Age of [[Paradigm\|Paradigms]]；pp. 21–41。[[Immanuel Kant\|康德]]《判断力批判》的[[Judgment of Taste\|鉴赏判断]]四重契机、[[Aesthetic Idea\|审美理念]]、[[The Sublime\|崇高]]二分、[[Genius\|天才]]立法及美作为道德象征。 | 已解读 |
 > | [[Argument_Hammermeister_2002_Cambridge_Ch03\|第 3 章 Schiller]] | I · The Age of [[Paradigm\|Paradigms]]；pp. 42–61。[[Friedrich Schiller\|席勒]]《[[Aesthetic Education\|审美教育]]书简》的现代性异化诊断、[[Schiller's Theory of Drives\|冲动学说]]、[[Play Drive\|游戏冲动]]、“显现中的自由”与[[Aesthetic Semblance\|审美外观]]悖论。 | 已解读 |
 > | [[Argument_Hammermeister_2002_Cambridge_Ch04\|第 4 章 Schelling]] | I · The Age of [[Paradigm\|Paradigms]]；pp. 62–86。[[Friedrich Wilhelm Joseph Schelling\|谢林]]《先验唯心论体系》的[[Aesthetic Intuition\|审美直观]]与[[New Mythology\|新神话]]、《艺术哲学》的新柏拉图主义转向，以及[[Friedrich Schlegel\|施莱格尔]]与[[Karl Wilhelm Ferdinand Solger\|索尔格]]的[[Romantic Irony\|浪漫反讽]]。 | 已解读 |
-> | 第 5 章 Hegel | I · The Age of Paradigms；pp. 87–108。[TXT](../../../../raw/Hammermeister_2002_Cambridge_txt/Ch05_Hegel.txt) | 待解读 |
+> | [[Argument_Hammermeister_2002_Cambridge_Ch05\|第 5 章 Hegel]] | I · The Age of [[Paradigm\|Paradigms]]；pp. 87–108。[[Georg Wilhelm Friedrich Hegel\|黑格尔]]的[[Absolute Spirit\|绝对精神]]与[[Hegel's Aesthetics\|黑格尔美学]]、反[[Mimesis\|摹仿]]论、[[End of Art\|艺术终结论]]及[[Karl Rosenkranz\|罗森克兰茨]]的[[Aesthetics of Ugliness\|丑的美学]]。 | 已解读 |
 > | 第 6 章 Schopenhauer | II · Challenging the Paradigms；pp. 111–127。[TXT](../../../../raw/Hammermeister_2002_Cambridge_txt/Ch06_Schopenhauer.txt) | 待解读 |
 > | 第 7 章 Kierkegaard, Nietzsche | II · Challenging the Paradigms；pp. 128–150。[TXT](../../../../raw/Hammermeister_2002_Cambridge_txt/Ch07_Kierkegaard_Nietzsche.txt) | 待解读 |
 > | 第 8 章 Cassirer, Lukács | III · Renewing the Paradigms；pp. 153–172。[TXT](../../../../raw/Hammermeister_2002_Cambridge_txt/Ch08_Cassirer_Lukacs.txt) | 待解读 |

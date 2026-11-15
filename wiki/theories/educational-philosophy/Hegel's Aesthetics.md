@@ -7,14 +7,32 @@ aliases:
 summary: "黑格尔围绕绝对精神的感性显现建构的哲学美学体系，将美界定为理念的感性显现，按象征型、古典型与浪漫型三阶段展开艺术史与艺术门类体系，并提出艺术最高功能终结论。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 0
-theory_related_level: 0
-theory_related_stars: "☆"
-theory_related_color: "#e5e7eb"
+theory_related_count: 15
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - field/educational-philosophy
   - theme/aesthetics
   - theme/idealism
+related_concepts:
+  - "[[Philosophical Aesthetics]]"
+  - "[[Absolute Spirit]]"
+  - "[[Mimesis]]"
+  - "[[End of Art]]"
+  - "[[Aesthetics of Ugliness]]"
+  - "[[Research Question]]"
+related_persons:
+  - "[[Immanuel Kant]]"
+  - "[[Friedrich Wilhelm Joseph Schelling]]"
+  - "[[Friedrich Schiller]]"
+  - "[[Karl Rosenkranz]]"
+  - "[[Georg Wilhelm Friedrich Hegel]]"
+  - "[[Friedrich Schlegel]]"
+  - "[[Karl Wilhelm Ferdinand Solger]]"
+  - "[[Friedrich Hölderlin]]"
+related_arguments:
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch05]]"
 confidence: high
 status: draft
 created: "2026-11-15"
@@ -56,7 +74,7 @@ updated: 2026-11-15
 > | **艺术形式三阶段（象征/古典/浪漫）** | 分类 / 框架 | 按理念与感性形式的匹配程度（追求、达成、舍弃理想），贯通历史世界观演进。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 98–99)]] |
 > | [[Mimesis]] | 概念 | 作为被拒斥的对立面，黑格尔以“正确性不等于真理”论证艺术高于自然现实复写。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 95–96)]] |
 > | [[End of Art]] | 概念 | 标记精神退出感性雕塑转向内在反思的转折点，确立哲学概念相对于艺术的优位。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 101–102)]] |
-> | [[Aesthetics of Ugliness]] | 概念 | 黑格尔学派（魏塞、[[Karl Rosenkranz\|罗森克兰茨]]）围绕丑与匮乏问题对本理论作出的体系增补与突破。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 92–93, 105–108)]] |
+> | [[Aesthetics of Ugliness]] | 概念 | 黑格尔学派（魏塞、[[Karl Rosenkranz\|罗森克兰茨]]）围绕丑与匮乏问题对黑格尔美学作出的体系增补与突破。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 92–93, 105–108)]] |
 
 ---
 

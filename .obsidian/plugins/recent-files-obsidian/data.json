@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Jürgen Habermas",
-      "path": "wiki/persons/germany/Jürgen Habermas.md"
+      "basename": "Argument_Hammermeister_2002_Cambridge_Ch04",
+      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch04.md"
     },
     {
       "basename": "Argument_Hammermeister_2002_Cambridge_Ch03",
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch03.md"
+    },
+    {
+      "basename": "Friedrich Schiller",
+      "path": "wiki/persons/germany/Friedrich Schiller.md"
+    },
+    {
+      "basename": "Jürgen Habermas",
+      "path": "wiki/persons/germany/Jürgen Habermas.md"
     },
     {
       "basename": "Begg and Mazumdar Rank Correlation",
@@ -23,10 +31,6 @@
     {
       "basename": "Aesthetic Semblance",
       "path": "wiki/concepts/educational-philosophy/Aesthetic Semblance.md"
-    },
-    {
-      "basename": "Friedrich Schiller",
-      "path": "wiki/persons/germany/Friedrich Schiller.md"
     },
     {
       "basename": "Argument_Hammermeister_2002_Cambridge_Ch02",
@@ -195,10 +199,6 @@
     {
       "basename": "Serialization",
       "path": "wiki/concepts/political-economy-geopolitics/Serialization.md"
-    },
-    {
-      "basename": "Imagined Community",
-      "path": "wiki/theories/political-economy-geopolitics/Imagined Community.md"
     }
   ],
   "omittedPaths": [],

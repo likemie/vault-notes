@@ -4691,6 +4691,14 @@
     ]
   },
   {
+    "title": "Aesthetic State",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Aesthetic State.md",
+    "aliases": [
+      "审美国家"
+    ]
+  },
+  {
     "title": "Aesthetics of Ugliness",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Aesthetics of Ugliness.md",
@@ -4698,6 +4706,14 @@
       "丑的美学",
       "丑学",
       "Aischrology"
+    ]
+  },
+  {
+    "title": "Alienation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Alienation.md",
+    "aliases": [
+      "异化"
     ]
   },
   {
@@ -5284,6 +5300,17 @@
     ]
   },
   {
+    "title": "Esoteric Mimesis",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Esoteric Mimesis.md",
+    "aliases": [
+      "秘传模仿论",
+      "深层模仿论",
+      "Esoteric Theory of Mimesis",
+      "Neoplatonic Mimesis"
+    ]
+  },
+  {
     "title": "Examined Life",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Examined Life.md",
@@ -5351,6 +5378,15 @@
     ]
   },
   {
+    "title": "Form Drive",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Form Drive.md",
+    "aliases": [
+      "形式冲动",
+      "Formtrieb"
+    ]
+  },
+  {
     "title": "Free Beauty",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Free Beauty.md",
@@ -5369,6 +5405,14 @@
       "诸官能自由游戏",
       "Free Play of Imagination and Understanding",
       "Free Play of the Faculties"
+    ]
+  },
+  {
+    "title": "Freedom in Appearance",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Freedom in Appearance.md",
+    "aliases": [
+      "显现中的自由"
     ]
   },
   {
@@ -5668,6 +5712,16 @@
     "path": "wiki/concepts/educational-philosophy/Narrative Knowledge.md",
     "aliases": [
       "叙事知识"
+    ]
+  },
+  {
+    "title": "Naïve and Sentimental Poetry",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Naïve and Sentimental Poetry.md",
+    "aliases": [
+      "素朴与感伤的诗",
+      "论素朴的诗与感伤的诗",
+      "素朴诗与感伤诗"
     ]
   },
   {
@@ -5989,6 +6043,16 @@
     ]
   },
   {
+    "title": "Romantic Fragment",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Romantic Fragment.md",
+    "aliases": [
+      "浪漫派断片",
+      "断片写作",
+      "Fragment"
+    ]
+  },
+  {
     "title": "Romantic Irony",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Romantic Irony.md",
@@ -6036,6 +6100,16 @@
     "aliases": [
       "筛选隔离",
       "条件独立屏蔽"
+    ]
+  },
+  {
+    "title": "Sense Drive",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Sense Drive.md",
+    "aliases": [
+      "感性冲动",
+      "Stofftrieb",
+      "质料冲动"
     ]
   },
   {
@@ -31840,6 +31914,16 @@
     ]
   },
   {
+    "title": "Johann Georg Hamann",
+    "type": "person",
+    "path": "wiki/persons/germany/Johann Georg Hamann.md",
+    "aliases": [
+      "约翰·格奥尔格·哈曼",
+      "哈曼",
+      "Hamann, J. G."
+    ]
+  },
+  {
     "title": "Johann Gottfried von Herder",
     "type": "person",
     "path": "wiki/persons/germany/Johann Gottfried von Herder.md",
@@ -31922,6 +32006,15 @@
     ]
   },
   {
+    "title": "Manfred Frank",
+    "type": "person",
+    "path": "wiki/persons/germany/Manfred Frank.md",
+    "aliases": [
+      "曼弗雷德·弗兰克",
+      "Frank, M."
+    ]
+  },
+  {
     "title": "Marcelo Parreira do Amaral",
     "type": "person",
     "path": "wiki/persons/germany/Marcelo Parreira do Amaral.md",
@@ -31997,6 +32090,14 @@
       "Luhmann, N.",
       "尼克拉斯·卢曼",
       "卢曼"
+    ]
+  },
+  {
+    "title": "Novalis",
+    "type": "person",
+    "path": "wiki/persons/germany/Novalis.md",
+    "aliases": [
+      "诺瓦利斯"
     ]
   },
   {
@@ -41107,6 +41208,17 @@
     "subtype": "event"
   },
   {
+    "title": "Jena Romantics",
+    "type": "fact",
+    "path": "wiki/facts/germany/Jena Romantics.md",
+    "aliases": [
+      "耶拿浪漫派",
+      "耶拿浪漫派朋友圈",
+      "Jena Romanticism"
+    ],
+    "subtype": "event"
+  },
+  {
     "title": "Nazi Purge of University Scholars",
     "type": "fact",
     "path": "wiki/facts/germany/Nazi Purge of University Scholars.md",
@@ -41115,6 +41227,18 @@
       "纳粹解聘德国大学教授事件",
       "1933年德国大学犹太学者解聘事件",
       "Dismissal of Scientists in Nazi Germany"
+    ],
+    "subtype": "event"
+  },
+  {
+    "title": "Oldest Systematic Program of German Idealism",
+    "type": "fact",
+    "path": "wiki/facts/germany/Oldest Systematic Program of German Idealism.md",
+    "aliases": [
+      "Das älteste Systemprogramm des deutschen Idealismus",
+      "德国唯心论最古老的系统纲领",
+      "Oldest Systematic Program",
+      "最古老的系统纲领"
     ],
     "subtype": "event"
   },
@@ -51726,6 +51850,11 @@
     "title": "Argument_Hammermeister_2002_Cambridge_Ch04",
     "type": "argument",
     "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch04.md"
+  },
+  {
+    "title": "Argument_Hammermeister_2002_Cambridge_Ch05",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md"
   },
   {
     "title": "Argument_Karp_Zamiska_2025_Technological_Republic",

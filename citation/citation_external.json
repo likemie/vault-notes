@@ -696,6 +696,8 @@
     "Altbach, 2011": "Altbach, 2011",
     "Altenburg (2016)": "Altenburg, 2016",
     "Altenburg, 2016": "Altenburg, 2016",
+    "Althaus (1992)": "Althaus, 1992",
+    "Althaus, 1992": "Althaus, 1992",
     "Altheide & Snow (1979)": "Altheide & Snow, 1979",
     "Altheide & Snow, 1979": "Altheide & Snow, 1979",
     "Altinok et al. (2014)": "Altinok et al., 2014",
@@ -8940,6 +8942,8 @@
     "Gervacio, 2024": "Gervacio, 2024",
     "Gerwig et al. (2021)": "Gerwig et al., 2021",
     "Gerwig et al., 2021": "Gerwig et al., 2021",
+    "Gethmann-Siefert (1996)": "Gethmann-Siefert, 1996",
+    "Gethmann-Siefert, 1996": "Gethmann-Siefert, 1996",
     "Getsie et al. (1985)": "Getsie et al., 1985",
     "Getsie et al., 1985": "Getsie et al., 1985",
     "Gettinger (1993)": "Gettinger, 1993",
@@ -10249,6 +10253,8 @@
     "Hans, 1958": "Hans, 1958",
     "Hans, 1959": "Hans, 1959",
     "Hans, 1964": "Hans, 1964",
+    "Hans-Georg Gadamer (1990)": "Hans-Georg Gadamer, 1990",
+    "Hans-Georg Gadamer, 1990": "Hans-Georg Gadamer, 1990",
     "Hanscomb & MacBeath (2003)": "Hanscomb & MacBeath, 2003",
     "Hanscomb & MacBeath, 2003": "Hanscomb & MacBeath, 2003",
     "Hansford & Hattie (1980)": "Hansford & Hattie, 1980",
@@ -10773,7 +10779,9 @@
     "Henri-Jean Martin (1976)": "Henri-Jean Martin, 1976",
     "Henri-Jean Martin, 1976": "Henri-Jean Martin, 1976",
     "Henrich (1957)": "Henrich, 1957",
+    "Henrich (1971)": "Henrich, 1971",
     "Henrich, 1957": "Henrich, 1957",
+    "Henrich, 1971": "Henrich, 1971",
     "Henrick et al. (2017)": "Henrick et al., 2017",
     "Henrick et al., 2017": "Henrick et al., 2017",
     "Henrickson et al. (2003)": "Henrickson et al., 2003",
@@ -11571,6 +11579,8 @@
     "Höft et al., 2019": "Höft et al., 2019",
     "Hörning (2001)": "Hörning, 2001",
     "Hörning, 2001": "Hörning, 2001",
+    "Hösle (1987)": "Hösle, 1987",
+    "Hösle, 1987": "Hösle, 1987",
     "Húsen (1982)": "Húsen, 1982",
     "Húsen, 1982": "Húsen, 1982",
     "I. L. (1933)": "I. L., 1933",
@@ -13729,6 +13739,7 @@
     "Kuhl et al. (2019)": "Kuhl et al., 2019",
     "Kuhl et al., 2019": "Kuhl et al., 2019",
     "Kuhn (1962)": "Kuhn, 1962",
+    "Kuhn (1966)": "Kuhn, 1966",
     "Kuhn (1970)": "Kuhn, 1970",
     "Kuhn (1977)": "Kuhn, 1977",
     "Kuhn (1991)": "Kuhn, 1991",
@@ -13739,6 +13750,7 @@
     "Kuhn et al. (2017)": "Kuhn et al., 2017",
     "Kuhn et al., 2017": "Kuhn et al., 2017",
     "Kuhn, 1962": "Kuhn, 1962",
+    "Kuhn, 1966": "Kuhn, 1966",
     "Kuhn, 1970": "Kuhn, 1970",
     "Kuhn, 1977": "Kuhn, 1977",
     "Kuhn, 1991": "Kuhn, 1991",
@@ -23801,6 +23813,8 @@
     "Syverson, 2011": "Syverson, 2011",
     "Szczurek (1982)": "Szczurek, 1982",
     "Szczurek, 1982": "Szczurek, 1982",
+    "Szondi (1974)": "Szondi, 1974",
+    "Szondi, 1974": "Szondi, 1974",
     "Szumski et al. (2017)": "Szumski et al., 2017",
     "Szumski et al., 2017": "Szumski et al., 2017",
     "Sáenz et al. (2005)": "Sáenz et al., 2005",
@@ -33009,6 +33023,21 @@
       "seen_in": [],
       "title": "Effects of one versus two bouts of moderate intensity physical activity on selective attention during a school morning in Dutch primary schoolchildren  A randomized controlled trial"
     },
+    "Althaus, 1992": {
+      "aliases": [
+        "Althaus, 1992",
+        "Althaus (1992)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Althaus, 1992"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md"
+      ],
+      "title": ""
+    },
     "Altheide & Snow, 1979": {
       "aliases": [
         "Altheide & Snow, 1979",
@@ -36116,6 +36145,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md",
         "wiki/concepts/educational-philosophy/End of Art.md"
       ],
       "title": ""
@@ -60446,6 +60476,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md",
         "wiki/concepts/educational-philosophy/End of Art.md"
       ],
       "title": ""
@@ -93366,6 +93397,21 @@
       ],
       "title": ""
     },
+    "Gethmann-Siefert, 1996": {
+      "aliases": [
+        "Gethmann-Siefert, 1996",
+        "Gethmann-Siefert (1996)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Gethmann-Siefert, 1996"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md"
+      ],
+      "title": ""
+    },
     "Getsie et al., 1985": {
       "aliases": [
         "Getsie et al., 1985",
@@ -103014,6 +103060,21 @@
       ],
       "title": ""
     },
+    "Hans-Georg Gadamer, 1990": {
+      "aliases": [
+        "Hans-Georg Gadamer, 1990",
+        "Hans-Georg Gadamer (1990)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hans-Georg Gadamer, 1990"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md"
+      ],
+      "title": ""
+    },
     "Hanscomb & MacBeath, 2003": {
       "aliases": [
         "Hanscomb & MacBeath, 2003",
@@ -106932,6 +106993,21 @@
         "wiki/theories/educational-philosophy/Schiller's Theory of Drives.md"
       ],
       "title": "Der Begriff des Schönen in Schillers Ästhetik"
+    },
+    "Henrich, 1971": {
+      "aliases": [
+        "Henrich, 1971",
+        "Henrich (1971)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Henrich, 1971"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md"
+      ],
+      "title": ""
     },
     "Henrick et al., 2017": {
       "aliases": [
@@ -112718,6 +112794,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Jornitz_2022_Bildung_algorithmic.md"
+      ],
+      "title": ""
+    },
+    "Hösle, 1987": {
+      "aliases": [
+        "Hösle, 1987",
+        "Hösle (1987)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hösle, 1987"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md"
       ],
       "title": ""
     },
@@ -128271,6 +128362,21 @@
         "wiki/concepts/educational-philosophy/Paradigm.md"
       ],
       "title": "The Structure of Scientific Revolutions"
+    },
+    "Kuhn, 1966": {
+      "aliases": [
+        "Kuhn, 1966",
+        "Kuhn (1966)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kuhn, 1966"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md"
+      ],
+      "title": ""
     },
     "Kuhn, 1970": {
       "aliases": [
@@ -201453,6 +201559,21 @@
       "seen_in": [],
       "title": "Meta-analysis of simulation games effectiveness for cognitive learning"
     },
+    "Szondi, 1974": {
+      "aliases": [
+        "Szondi, 1974",
+        "Szondi (1974)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Szondi, 1974"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md"
+      ],
+      "title": ""
+    },
     "Szumski et al., 2017": {
       "aliases": [
         "Szumski et al., 2017",
@@ -202772,6 +202893,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md",
         "wiki/concepts/educational-philosophy/Mimesis.md"
       ],
       "title": ""
@@ -212091,7 +212213,9 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/educational-philosophy/Absolute Spirit.md"
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md",
+        "wiki/concepts/educational-philosophy/Absolute Spirit.md",
+        "wiki/theories/educational-philosophy/Hegel's Aesthetics.md"
       ],
       "title": ""
     },
@@ -217817,6 +217941,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md",
         "wiki/concepts/educational-philosophy/End of Art.md"
       ],
       "title": ""

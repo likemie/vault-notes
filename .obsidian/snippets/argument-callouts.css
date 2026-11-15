@@ -28761,8 +28761,11 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout.callo
   margin: 0 0 .35rem !important; padding: 0 0 .15rem !important;
   border: 0 !important; background: none !important; box-shadow: none !important;
   font: 600 1.1em/1.5 var(--ac-serif) !important; letter-spacing: .02em !important; color: var(--text-normal) !important;
-  background-image: linear-gradient(var(--tt2-accent), var(--tt2-accent)) !important;
-  background-repeat: no-repeat !important; background-position: left bottom !important; background-size: 1.6rem 2px !important;
+  background-image:
+   linear-gradient(var(--tt2-accent), var(--tt2-accent)),
+   linear-gradient(color-mix(in srgb, var(--tt2-accent) 30%, transparent), color-mix(in srgb, var(--tt2-accent) 30%, transparent)) !important;
+  background-repeat: no-repeat !important; background-position: left bottom, left bottom !important;
+  background-size: 3.2rem 2px, 100% 1px !important;
   transition: background-size 460ms var(--tt2-ease) !important;
  }
  & > .callout-content > :is(ul, ol) > li > strong:first-of-type a.internal-link,
@@ -28838,7 +28841,7 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout.callo
    animation: tt2-pulse 1.6s ease-out infinite;
   }
   & > .callout-content > :is(ul, ol) > li:hover > strong:first-of-type,
-  & > .callout-content > :is(ul, ol) > li:hover > p:first-child > strong:first-of-type { background-size: 100% 2px !important; }
+  & > .callout-content > :is(ul, ol) > li:hover > p:first-child > strong:first-of-type { background-size: 100% 2px, 100% 1px !important; }
   & > .callout-content > :is(ul, ol) > li:hover > :is(ul, ol) { border-color: color-mix(in srgb, var(--tt2-accent) 50%, transparent) !important; }
   & > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li:hover { background: color-mix(in srgb, var(--tt2-accent) 5%, transparent) !important; }
   & > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li:hover > :is(strong, p > strong):first-of-type::before { transform: scale(1.4); }

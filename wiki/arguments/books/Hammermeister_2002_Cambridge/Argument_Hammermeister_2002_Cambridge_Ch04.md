@@ -10,9 +10,9 @@ title: "Argument_Hammermeister_2002_Cambridge_Ch04"
 argument_key: "Argument_Hammermeister_2002_Cambridge_Ch04"
 argument_display_title: "The German aesthetic tradition"
 argument_kind: "book-chapter"
-argument_related_count: 35
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 42
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
 book_title: "The German Aesthetic Tradition"
 publisher: "Cambridge University Press"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Ontology]]"
   - "[[Discourse]]"
+  - "[[Romantic Fragment]]"
   - "[[Aesthetic Education]]"
   - "[[Genius]]"
   - "[[Aesthetic Idea]]"
@@ -46,6 +47,7 @@ related_concepts:
   - "[[Nationalism]]"
   - "[[Epoché]]"
   - "[[The Sublime]]"
+  - "[[Esoteric Mimesis]]"
   - "[[Doxa]]"
 related_theories:
   - "[[Schelling's Aesthetics]]"
@@ -58,7 +60,10 @@ related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Johann Gottlieb Fichte]]"
   - "[[Friedrich Hölderlin]]"
+  - "[[Novalis]]"
   - "[[Martin Luther]]"
+  - "[[Johann Georg Hamann]]"
+  - "[[Manfred Frank]]"
   - "[[Søren Kierkegaard]]"
   - "[[Friedrich Nietzsche]]"
   - "[[Baruch Spinoza]]"
@@ -66,7 +71,9 @@ related_persons:
   - "[[Aristotle]]"
   - "[[Socrates]]"
 related_facts:
+  - "[[Jena Romantics]]"
   - "[[Sturm und Drang]]"
+  - "[[Oldest Systematic Program of German Idealism]]"
 confidence: high
 status: draft
 created: "2026-11-15"
@@ -130,22 +137,22 @@ updated: "2026-11-15"
 > [!contrast-table] 早期浪漫派内部在“断片”与“体系”之间的分歧
 > | 立场阵营 | 代表人物 | 核心观点与文本依据 |
 > |---|---|---|
-> | **断片写作派** | 诺瓦利斯、[[Friedrich Schlegel\|弗里德里希·施莱格尔]] | 怀疑概念[[Discourse\|话语]]能否穷尽总体性，偏爱断片（Fragment）：断片不同于自我封闭的格言，它脱离包罗万象的体系论证却仍指向不可穷尽的总体；施莱格尔甚至断言“拥有体系与没有体系对精神同样致命”（《施莱格尔全集》（*Kritische Friedrich-Schlegel-Ausgabe*, *KA*）II, 173, no. 53）（pp. 62–63）。 |
+> | **断片写作派** | [[Novalis\|诺瓦利斯]]、[[Friedrich Schlegel\|弗里德里希·施莱格尔]] | 怀疑概念[[Discourse\|话语]]能否穷尽总体性，偏爱[[Romantic Fragment\|断片]]（Fragment）：断片不同于自我封闭的格言，它脱离包罗万象的体系论证却仍指向不可穷尽的总体；施莱格尔甚至断言“拥有体系与没有体系对精神同样致命”（《施莱格尔全集》（*Kritische Friedrich-Schlegel-Ausgabe*, *KA*）II, 173, no. 53）（pp. 62–63）。 |
 > | **体系坚守派** | [[Friedrich Wilhelm Joseph Schelling\|谢林]]、[[Karl Wilhelm Ferdinand Solger\|索尔格]] | 谢林忠实于康德《纯粹理性批判》（第二版 B 860 ff.）的先验统一体系理想；索尔格主张“离开体系便不能也不允许进行哲学思考”，仅要求以柏拉图式对话贴近艺术。正是这种体系意识，使谢林在哲学上比诺瓦利斯或施莱格尔更容易把握（pp. 62–63, 65）。 |
 
 > [!exegesis]- Jähnig 对谢林独创性的高估与耶拿浪漫派的兴衰（1798–1800）
 > - **Jähnig (1966) 的过度断言** 迪特·耶尼希（Dieter Jähnig）认为西方哲学唯独在谢林《先验唯心论体系》第六章中才设想出艺术与哲学的紧密相互依存（Jähnig, 1966）。但浪漫派哲学普遍把艺术推崇为哲学探究的必要完成，谢林的突出之处在于他因坚守体系哲学而作出了最严密、最连贯的论证（pp. 62, 224 n.1）。
-> - **耶拿朋友圈的聚散与谢林艺术观的三阶段流变** 1798 年，二十四岁的谢林因赞赏歌德（Johann Wolfgang von Goethe）的色彩学而获其力挺出任耶拿大学教授，融入由施莱格尔兄弟、卡罗琳·施莱格尔（Caroline Schlegel）、[[Martin Luther|路德]]维希·蒂克（Ludwig Tieck）、施莱尔马赫（Friedrich Schleiermacher）、多萝西娅·法伊特（Dorothea Veit）与舒伯特（Gotthilf Heinrich Schubert）组成的耶拿浪漫派圈子；1799 年费希特因无神论指控离开耶拿（歌德称“一星陨落，另一星升起”），至 1800 年耶拿圈因谢林与奥古斯特·威廉·施莱格尔之妻卡罗琳的恋情、离婚及再婚而瓦解（pp. 65–66）。1800 至 1807 年间谢林集中出版五部涉及美学的重要文本后，艺术迅速失去体系顶石特权，至晚期《启示哲学》更从基督教哲学立场视艺术为“世俗与异教的”（pp. 65–66, 225 n.7）。
+> - **耶拿朋友圈的聚散与谢林艺术观的三阶段流变** 1798 年，二十四岁的谢林因赞赏歌德（Johann Wolfgang von Goethe）的色彩学而获其力挺出任耶拿大学教授，融入由施莱格尔兄弟、卡罗琳·施莱格尔（Caroline Schlegel）、[[Martin Luther|路德]]维希·蒂克（Ludwig Tieck）、施莱尔马赫（Friedrich Schleiermacher）、多萝西娅·法伊特（Dorothea Veit）与舒伯特（Gotthilf Heinrich Schubert）组成的[[Jena Romantics|耶拿浪漫派]]圈子；1799 年费希特因无神论指控离开耶拿（歌德称“一星陨落，另一星升起”），至 1800 年耶拿圈因谢林与奥古斯特·威廉·施莱格尔之妻卡罗琳的恋情、离婚及再婚而瓦解（pp. 65–66）。1800 至 1807 年间谢林集中出版五部涉及美学的重要文本后，艺术迅速失去体系顶石特权，至晚期《启示哲学》更从基督教哲学立场视艺术为“世俗与异教的”（pp. 65–66, 225 n.7）。
 
 > [!sub-claim] 2. 哈曼、费希特与荷尔德林为艺术高于概念铺平了道路
 
 > [!thought-timeline] 浪漫派艺术高于概念立场的三大思想来源
-> - **1762** **哈曼（Johann Georg Hamann）的反理性主义诗学** 在《核桃壳里的美学》（*Aesthetica in nuce*）中反对启蒙理性主义与沃尔夫派形而上学，提出上帝的创造原初以艺术方式展开，人类则以诗意语言回应：“感官与激情除图像外一无所言、一无所解”，“诗是人类的母语”（p. 81, 83）。艺术家通过重演原初创造而比思辨哲学更深地揭示上帝在自然中的启示；这一立场深刻影响了[[Sturm und Drang|狂飙突进运动]]与施莱尔马赫、谢林、诺瓦利斯及施莱格尔（pp. 63–64）。
+> - **1762** **[[Johann Georg Hamann|哈曼]]（Johann Georg Hamann）的反理性主义诗学** 在《核桃壳里的美学》（*Aesthetica in nuce*）中反对启蒙理性主义与沃尔夫派形而上学，提出上帝的创造原初以艺术方式展开，人类则以诗意语言回应：“感官与激情除图像外一无所言、一无所解”，“诗是人类的母语”（p. 81, 83）。艺术家通过重演原初创造而比思辨哲学更深地揭示上帝在自然中的启示；这一立场深刻影响了[[Sturm und Drang|狂飙突进运动]]与施莱尔马赫、谢林、诺瓦利斯及施莱格尔（pp. 63–64）。
 > - **1794–1797** **[[Johann Gottlieb Fichte|费希特]]（Johann Gottlieb Fichte）的纯粹自我与[[Intellectual Intuition|理智直观]]** 浪漫派与唯心论共同回应康德物自体/现象界、自然/自由的二元分裂，接纳费希特把纯粹自我提升为先于主客分裂的存在根基（推进康德《纯粹理性批判》B 136 的“统觉的先验综合”），但浪漫派主张这一根基无法由理性触及，只能通过艺术作品予以象征性揭示（p. 64）。
 > - **1795–1799** **[[Friedrich Hölderlin|荷尔德林]]（Friedrich Hölderlin）的直接先导作用** 荷尔德林在 1790 年代下半叶的残篇与致尼特哈默信（1796 年 2 月 24 日）中筹划《人类[[Aesthetic Education|审美教育]]新书简》，率先把美确立为通向概念无法认知的绝对者（*Seyn*）之御道（*via regia*），并在图宾根与法兰克福的信件和谈话中将这些构想直接传递给谢林与[[Georg Wilhelm Friedrich Hegel|黑格尔]]（pp. 64, 69–70）。
 
 > [!exegesis]- 谢林究竟是从费希特通向黑格尔的环节，还是黑格尔之后的超越者？
-> 传统哲学史通常把谢林置于费希特与黑格尔之间，视为从主观唯心论迈向客观唯心论的一步；就其早期美学文本而言，这一判断大体成立。然而，曼弗雷德·弗兰克（Manfred Frank）指出，谢林比图宾根同窗黑格尔多活了二十余年，并在黑格尔生前及死后从接近克尔凯郭尔（[[Søren Kierkegaard]]）与[[Friedrich Nietzsche|尼采]]（Friedrich Nietzsche）的立场批判黑格尔理性主义，因此反过来可以把黑格尔视作费希特与谢林之间的过渡环节（Frank, 1985; p. 64）。
+> 传统哲学史通常把谢林置于费希特与黑格尔之间，视为从主观唯心论迈向客观唯心论的一步；就其早期美学文本而言，这一判断大体成立。然而，[[Manfred Frank|曼弗雷德·弗兰克]]（Manfred Frank）指出，谢林比图宾根同窗黑格尔多活了二十余年，并在黑格尔生前及死后从接近克尔凯郭尔（[[Søren Kierkegaard]]）与[[Friedrich Nietzsche|尼采]]（Friedrich Nietzsche）的立场批判黑格尔理性主义，因此反过来可以把黑格尔视作费希特与谢林之间的过渡环节（Frank, 1985; p. 64）。
 
 ---
 
@@ -203,7 +210,7 @@ updated: "2026-11-15"
 > | 文献或思想家 | 核心主张 | 社会与哲学指向 |
 > |---|---|---|
 > | **[[Friedrich Wilhelm Joseph Schelling\|谢林]]《先验唯心论体系》（1800）** | 寄望“犹如一位诗人般生活的新一代”孕育[[New Mythology\|新神话]] | 引导哲学及一切臻于完善之科学如同江河般流回“普遍诗学的浩瀚海洋”（pp. 75–76） |
-> | **《德国唯心论最古老的系统纲领》（约 1796）** | 黑格尔手迹、执笔归属仍存争议（谢林、荷尔德林或黑格尔）的“鼓动纲领”，要求哲学家具备诗人审美力 | 从无政府主义视角批判机械化现代国家无法象征自由，主张理念必须审美化方能打动民众、神话必须理性化方免哲学家蒙羞（p. 76） |
+> | **[[Oldest Systematic Program of German Idealism\|《德国唯心论最古老的系统纲领》]]（约 1796）** | 黑格尔手迹、执笔归属仍存争议（谢林、荷尔德林或黑格尔）的“鼓动纲领”，要求哲学家具备诗人审美力 | 从无政府主义视角批判机械化现代国家无法象征自由，主张理念必须审美化方能打动民众、神话必须理性化方免哲学家蒙羞（p. 76） |
 > | **[[Johann Gottfried von Herder\|赫尔德]]《伊杜娜》（1796）** | 呼吁复兴古希腊与北欧神话 | 作为社会文化更新的工具（p. 76） |
 > | **诺瓦利斯《基督教世界或欧洲》（1799）** | 预言天主教信仰复兴（虽非严格神话，但功能平行） | 超越[[Nationalism\|民族主义]]分裂，实现普遍个性与新人类在“爱之上帝与年轻教会”中的统一（p. 76） |
 > | **[[Friedrich Schlegel\|施莱格尔]]《神话演讲》（1800）** | 诗与神话合一，主张[[Epoché\|悬置]]理性思维规律、重返幻想的优美混沌与古代诸神绚丽群像 | 借由绝对者的审美确定性联合全人类；但浪漫派整体均未解释非政治的个体艺术品如何过渡到具社会承诺的新神话（pp. 76–77） |
@@ -213,7 +220,7 @@ updated: "2026-11-15"
 > [!feature] 中期新柏拉图主义美学的四大理论支点
 > - **创作主体转向民族与哲学阐释优先** 在 1802–1805 年《艺术哲学》（第二部分借鉴奥古斯特·威廉·施莱格尔 1801–1803 年柏林私人讲稿）、1803 年《学术研究方法论讲演录》及 1807 年《论造型艺术与自然的关系》中，创作主体由个体天才转向整个民族；艺术不再能抵达哲学所不及的境地，反而必须依赖哲学家的概念阐释来解读有限物中的无限显现；奥多·马夸德（Odo Marquard）甚至认为《艺术哲学》以讲演形式“取代了美学研究本身，而非真正实践美学”（pp. 66, 77–78, 81–82）。
 > - **绝对者、理念（*Urbild*）与[[The Sublime|崇高]]互含** 绝对者本身是深不见底的虚无（*bodenlose Leere*），唯有理念引入有限性方使宇宙创生成为可能，古代神话诸神即理念的最初感性显现；美是秩序井然宇宙的映照，崇高则是在混沌中依然保留美与秩序的痕迹，且美本身须含一丝令人敬畏的崇高因子（呼应[[Aristotle|亚里士多德]]净化说与里尔克《杜伊诺哀歌》“美无非是恐怖的开端”）（p. 78）。
-> - **深层模仿论与永恒的完善瞬间** 承袭柏拉图与普罗提诺（*Ennead* V, 8, 1）的秘传模仿论，艺术家离开经验自然以直接模仿永恒理念（*Urbild*），将对象提炼至其目的论顶点的完善瞬间并使之脱离时间流逝而永恒（预示黑格尔“美是理念的感性显现”）（pp. 78–79）。
+> - **深层模仿论与永恒的完善瞬间** 承袭柏拉图与普罗提诺（*Ennead* V, 8, 1）的[[Esoteric Mimesis|秘传模仿论]]，艺术家离开经验自然以直接模仿永恒理念（*Urbild*），将对象提炼至其目的论顶点的完善瞬间并使之脱离时间流逝而永恒（预示黑格尔“美是理念的感性显现”）（pp. 78–79）。
 > - **创作作为自我倾空（*kenosis*）与艺术—宗教纽带** 艺术家将理念倾注于感性形式如同上帝创世的痛苦个体化（*kenosis*，不同于普罗提诺的无痛分娩）；美作为理念的映象（*Gegenbild*）与上帝的光辉（*splendor dei*），与宗教结成密不可分的纽带（呼应莱辛《古人如何描绘死亡》与索尔格），而丑只是缺乏理念光辉的匮乏模式（pp. 80–81）。
 
 > [!critique-logic] Frank 指出的中期体系内在矛盾
