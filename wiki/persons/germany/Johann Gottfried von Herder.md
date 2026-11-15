@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-12
-updated: 2026-11-13
+updated: 2026-11-15
 ---
 
 ---
@@ -74,6 +74,7 @@ updated: 2026-11-13
 > - **1772 — *Abhandlung über den Ursprung der Sprache*** 探讨人类语言的人类学发生过程，确立思维与语言表象系统的内生同一性。
 > - **1778–1779 — *Volkslieder*** 搜集欧洲各族民间歌谣与口头史诗，倡导从民间口传传统中汲取鲜活的民族审美资源。
 > - **1784–1791 — *Ideen zur Philosophie der Geschichte der Menschheit*** 论证人类文化的多样性与各民族价值的平等自足性，批判单一理性主义尺度对非西方文明的粗暴审判。
+> - **1796 — *Iduna*** 呼吁复兴古希腊与北欧神话，将其作为社会文化更新的工具（[[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister, 2002, p. 76]]）。
 
 ---
 
@@ -101,3 +102,14 @@ updated: 2026-11-13
 > - **师承／思想对话** 伊曼纽尔·康德 — 柯尼斯堡大学导师；赫尔德早年深受其影响，后在历史哲学与理性批判领域与其分道扬镳。
 > - **同时代对话者** 约翰·沃尔夫冈·冯·歌德（Johann Wolfgang von Goethe） — 魏玛时期的亲密挚友与智识盟友，共同推动狂飙突进与魏玛古典主义。
 > - **后世批评与阐释者** [[Benedict Anderson|本尼迪克特·安德森]] — 剖析其语言私有财产观念在19世纪欧洲[[Philological Revolution|语文学革命]]与民族主义普及中的深远催化作用。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Cultural Nationalism vs. Political Nationalism]] | 概念 | 确立以语言与民间传统为界标的文化民族主义传统。 |
+> | [[Bildung]] | 概念 | 提出每个民族均拥有各自独特的民族文化形成方式。 |
+> | [[Philological Revolution]] | 概念 | 其语言与民间歌谣研究直接推动 19 世纪欧洲语文学与方言词典编纂。 |
+> | [[Nationalism]] | 概念 | 其“每个民族都有专属语言”的命题为 19 世纪语言民族主义提供了思想源头 [[Argument_Anderson_2016_Verso_Ch05\|(Anderson, 2016, pp. 69–70)]]。 |

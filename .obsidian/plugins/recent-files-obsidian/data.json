@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Hammermeister_2002_Cambridge_Ch03",
+      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch03.md"
+    },
+    {
       "basename": "AI Deterrence",
       "path": "wiki/concepts/political-economy-geopolitics/AI Deterrence.md"
     },
     {
-      "basename": "Argument_Hammermeister_2002_Cambridge_Ch03",
-      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch03.md"
+      "basename": "Thomas Schelling",
+      "path": "wiki/persons/us/Thomas Schelling.md"
     },
     {
       "basename": "Jürgen Habermas",
@@ -195,10 +199,6 @@
     {
       "basename": "Imagined Community",
       "path": "wiki/theories/political-economy-geopolitics/Imagined Community.md"
-    },
-    {
-      "basename": "template-concept",
-      "path": "wiki/templates/template-concept.md"
     }
   ],
   "omittedPaths": [],

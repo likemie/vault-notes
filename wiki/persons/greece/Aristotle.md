@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-25
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -77,7 +77,7 @@ updated: 2026-10-30
 
 ---
 
-> [!claim] 核心思想与经典案例
+> [!claim] 核心思想
 > 亚里士多德认为万物皆有其目的或功能（Telos），人类的终极目的在于依据理性的活动以实现最高善（Eudaimonia）；教育的使命在于通过习得与[[Habituation|习惯化]]（Habituation）训练青年运用理性。然而，这一教育传统假设社会秩序与阶级边界由统治者设定，且排除了女性与奴隶形成[[Critical Thinking|批判性思维]]的可能性，形成了维系既有秩序的保守教育观（[[Argument_Darwish_2009_Queens|Darwish, 2009, pp. 4–5]]）。
 
 ---
@@ -93,11 +93,8 @@ updated: 2026-10-30
 
 ---
 
-> [!concept-lens] 通识正典的选目裁决与正典合法性危机
-> 在20世纪美国高校本科[[General Education|通识教育]]（[[Western Civilization Course|西方文明课]]程）中，亚里士多德与[[Plato|柏拉图]]构成不可或缺的古典思想源头，但在课程实际编订中两者常常面临选目取舍的编纂冲突。
-
-> [!case] 图斯曼之问：选目武断性与正典大纲的合法性瓦解
-> 在1960年代末欧美大学反战与民权运动席卷校园的背景下，正典必修课大纲遴选的“代表性”遭遇广泛质疑。加州大学伯克利分校哲学系主任[[Joseph Tussman|约瑟夫·图斯曼]]（Joseph Tussman）在1968年反思通识必修课设计时发出著名的质问：
+> [!case] 图斯曼之问：通识正典的选目武断性与合法性瓦解
+> 在20世纪美国高校本科[[General Education|通识教育]]（[[Western Civilization Course|西方文明课]]程）中，亚里士多德与[[Plato|柏拉图]]构成古典思想源头，但在课程实际编订中两者常常面临选目取舍的编纂冲突。在1960年代末欧美大学反战与民权运动席卷校园的背景下，正典必修课大纲遴选的“代表性”遭遇广泛质疑。加州大学伯克利分校哲学系主任[[Joseph Tussman|约瑟夫·图斯曼]]（Joseph Tussman）在1968年反思通识必修课设计时发出著名的质问：
 > “我们选了柏拉图，为何不选亚里士多德？为何没有更多欧里庇得斯？选了《失乐园》，为何不选但丁？选了密尔，为何不选马克思？”（*We have Plato, but why not Aristotle? Why not more Euripides? Paradise Lost, but why not Dante? John Stuart Mill, but why not Marx?*）[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 88)]]
 >
 > 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）指出，图斯曼对“为何选柏拉图而不选亚里士多德”等具体篇目的编辑技术质疑，表面上聚焦于大纲篇幅限制与选目武断性，实质上反映了1960年代学术界对西方文明整体概念内部连贯性的深刻怀疑，并最终成为加速斯坦福等名校废除西方文明统一必修课（[[1968 Stanford Western Civ Reform|1968年斯坦福西方文明课程改革]]）与引发全美[[Canon Wars|经典之争]]的关键推力。
@@ -108,4 +105,30 @@ updated: 2026-10-30
 > - **理论路径** 确立了目的论伦理学、[[Phronesis|实践智慧]]与[[Habituation|习惯化]]德性教育传统，深刻塑造了西方古典至现代共和主义政治与教育哲学。
 > - **通识课程坐标** 在哥伦比亚、芝加哥、斯坦福等名校“名著课程”（Great Books）与西方文明必修课中作为核心必读文本；在20世纪60年代后成为[[Canon Wars|经典之争]]中反思课程大纲编辑特权与宗派主义的经典案例。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 88)]]
 > - **[[Critical Pedagogy|批判教育学]]反思** 后世[[Critical Pedagogy|批判教育学]]派（如[[John Dewey|杜威]]与[[Paulo Freire|弗莱雷]]）指出，亚里士多德将教育限定于适应既有社会阶层与权威指令，缺乏对社会不公的批判与变革能力（[[Argument_Darwish_2009_Queens|Darwish, 2009, pp. 4–5]]）。
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp and Zamiska (2025)]] — 以[[Joseph Tussman|图斯曼]]“为何选柏拉图而不选亚里士多德”之问为例，剖析 1960 年代高校通识正典大纲选目的武断性与合法性危机（p. 88）。
+
+---
+
+> [!person-network] 关系网络
+> - **师承／学术渊源** [[Plato|柏拉图]] — 亚里士多德曾在其雅典学园研读与教学二十年，后在西方[[General Education|通识教育]]正典编纂中常与之构成选目取舍参照。
+> - **后世批评与对话者** [[John Dewey|杜威]]、[[Paulo Freire|弗莱雷]] — 从[[Critical Pedagogy|批判教育学]]立场反思其顺应既有社会阶层与权威指令的习惯化教育观 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 4–5)]]。
+> - **课程史参照者** [[Joseph Tussman|约瑟夫·图斯曼]] — 1968 年以柏拉图与亚里士多德的篇目取舍质疑西方文明必修课大纲的遴选标准 [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 88)]]。
+
+---
+
+> [!critique] 批评索引
+> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 批评亚里士多德的目的论与[[Habituation|习惯化]]教育观将女性与奴隶排除在[[Critical Thinking|批判性思维]]之外，在制度上维护既有阶层与统治秩序（pp. 4–5）。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Phronesis]] | 概念 | 提出实践智慧概念，将伦理德性与具体情境中的审慎判断相联结。 |
+> | [[Habituation]] | 概念 | 论证通过重复践行正义与节制等行为养成德性[[Habitus\|习性]]的教育机制 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 4)]]。 |
+> | [[General Education]] | 概念 | 作为西方大学[[Western Civilization Course\|西方文明课程]]的核心正典思想家之一，其选目争议成为 1960 年代[[Canon Wars\|经典之争]]的导火索 [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07\|(Karp & Zamiska, 2025, p. 88)]]。 |
+> | [[1968 Stanford Western Civ Reform]] | 事实 | 其正典选目代表性争议助推了 1968 年斯坦福大学废除西方文明统一必修课的改革。 |
 

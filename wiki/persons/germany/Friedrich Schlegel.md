@@ -67,7 +67,7 @@ updated: 2026-11-15
 
 > [!work-line] 主要著作
 > - **1798–1800 — 断片集（*Kritische Ausgabe* 收录）** 拒绝格言式的自我封闭，以指向总体性却又不被封闭体系吞没的断片形式展开哲学思考，提出“自我创造与自我毁灭”的[[Romantic Irony|浪漫反讽]]。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62–63, 83–84)]]
-> - **1800 — 《关于诗的对话》（*Gespräch über die Poesie*）之《神话演讲》（*Rede über die Mythologie*）** 在知悉《德国唯心论最古老的系统纲领》的基础上撰写，不区分诗与神话，主张借由神话提供关于绝对者的审美确定性，通过[[Epoché|悬置]]理性思维规律并将人类带回幻想的优美混沌来联合全人类。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 76–77)]]
+> - **1800 — 《关于诗的对话》（*Gespräch über die Poesie*）之《神话演讲》（*Rede über die Mythologie*）** 在知悉《德国唯心论最古老的系统纲领》的基础上撰写，不区分诗与神话，主张借由神话提供关于绝对者的审美确定性，通过悬置理性思维规律并将人类带回幻想的优美混沌来联合全人类。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 76–77)]]
 
 ---
 

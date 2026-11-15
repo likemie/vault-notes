@@ -125,6 +125,7 @@ updated: 2026-11-15
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]] — 将克尔凯郭尔确立为破除实证主义客观性迷思、捍卫个体独特性与主观性能力的核心思想源头；系统呈现其对时代去人化倾向的诊断，作为全书由实证主义向自然主义与诠释[[Paradigm\|范式]]过渡的存在论支点。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — 第 4 章阐释克尔凯郭尔在《论反讽概念》中批判[[Friedrich Schlegel|施莱格尔]]式[[Romantic Irony|浪漫反讽]]使自我凌驾于一切伦理与生存严肃性之上（pp. 84–85）。
 
 ---
 
@@ -137,6 +138,7 @@ updated: 2026-11-15
 
 > [!person-network] 关系网络
 > - **哲学论敌** [[Georg Wilhelm Friedrich Hegel\|黑格尔]]（G. W. F. Hegel） — 批判黑格尔构建吞噬个体激情的客观历史理性大厦，主张思辨体系无法安顿个体的真实生存困境。
+> - **浪漫反讽批判对象** [[Friedrich Schlegel\|施莱格尔]]（Friedrich Schlegel） — 在《论反讽概念》中斥责浪漫诗人自封为凌驾理念与现象之上的主宰，抹除[[Socrates|苏格拉底]]反讽原有的严肃、感恩与谦卑。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 84–85)]]
 > - **存在论回响** 存在主义哲学群落 — 承袭其焦虑、绝望、自由决断与生存优先于本质的核心母题。
 > - **社会学与教育学转译者** [[Louis Cohen]]、[[Keith Morrison]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]]） — 将其作为打破教育研究中[[Positivism\|实证主义]]垄断、确立自然主义与拟人化探究合法性的理论基石。
 > - **社会机制批判对象** 大众传媒（《海盗船》杂志）、体制化国教会 — 批判制造平庸大众与抹杀个体真实信念的社会建制。
