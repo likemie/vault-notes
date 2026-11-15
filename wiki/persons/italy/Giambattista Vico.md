@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: italy
 person_region: "italy"
-person_related_count: 7
+person_related_count: 5
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -29,7 +29,6 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
-  - "[[Johann Gottfried von Herder]]"
   - "[[Johann Georg Hamann]]"
 related_facts: []
 related_arguments:
@@ -50,12 +49,12 @@ updated: 2026-11-15
 ---
 
 > [!claim] 核心思想与[[Hegel's Aesthetics|黑格尔美学]]关联
-> “艺术在不同历史时代承担不同功能”这一见解最早由维科在其历史哲学中提出，随后也为 18 世纪德国的[[Johann Gottfried von Herder|赫尔德]]与[[Johann Georg Hamann|哈曼]]所熟悉。在此基础上，黑格尔进一步完成了从单一最高原则推导出艺术历史流变必然性的哲学工程，将历史与形式分析融合为[[Kunstformen|艺术形式]]的演进叙事。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 97)]]
+> “艺术在不同历史时代承担不同功能”这一见解最早由维科在其历史哲学中提出，随后也为 18 世纪德国的赫尔德与[[Johann Georg Hamann|哈曼]]所熟悉。在此基础上，黑格尔进一步完成了从单一最高原则推导出艺术历史流变必然性的哲学工程，将历史与形式分析融合为[[Kunstformen|艺术形式]]的演进叙事。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 97)]]
 
 ---
 
 > [!person-network] 关系网络
-> - **同脉先驱** [[Johann Gottfried von Herder|赫尔德]]、[[Johann Georg Hamann|哈曼]]：与维科共同构成 18 世纪认识艺术历史功能差异的先导脉络。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 97)]]
+> - **同脉先驱** 赫尔德、[[Johann Georg Hamann|哈曼]]：与维科共同构成 18 世纪认识艺术历史功能差异的先导脉络。
 > - **后世推进** [[Georg Wilhelm Friedrich Hegel|黑格尔]]：在维科等人的历史洞察之后，首次尝试从最高哲学原则推导出艺术史演变的必然规律。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 97)]]
 
 ---

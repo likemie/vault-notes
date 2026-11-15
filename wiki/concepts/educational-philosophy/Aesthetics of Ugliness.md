@@ -85,6 +85,7 @@ updated: 2026-11-15
 > - **古代至 18 世纪 — 古典起源与“[[The Interesting|有趣]]之物”** [[Aristotle|亚里士多德]]（《诗学》1448b）指出对丑陋对象的成功再现能带来快感；普罗提诺将丑归因于灵魂沉入肉体；18 世纪诗学将丑视为美的反面与“有趣之物”（interesting）；1795 年弗里德里希·施莱格尔《论希腊诗的研究》成为德国唯心论语境下丑学的奠基文本之一。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 105)]]
 > - **1830 — 黑格尔派体系化开端** 克里斯蒂安·赫尔曼·魏塞（Christian Hermann Weisse）在《美学体系》中论证美是[[The Sublime|崇高]]（美向真善过渡）与丑（美因恶而扭曲）的共同根基，而丑标志着崇高向滑稽的过渡。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 106)]]
 > - **1853 — 罗森克兰茨《丑的美学》高峰** 罗森克兰茨建立复杂严谨的丑的形态学体系，系统剖析丑与美、伦理及喜剧的关系，并在论证总体性依赖丑时为独立丑学奠基。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 106–108)]]
+> - **1872–1889 — 尼采的过渡与生理学重释** 尼采在《悲剧的诞生》（§24）将音乐不和谐音收编进和谐总体，尚未超越罗森克兰茨；晚期则脱离黑格尔派否定性框架，把丑直接界定为生命能量衰竭与颓废。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 142, 145–146)]]
 > - **20 世纪 — 阿多诺的现代主义反转** 阿多诺针对现代艺术彻底反转罗森克兰茨的命题，断言当代艺术中的美总是从丑之中产生。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 106–107)]]
 
 ---
@@ -95,10 +96,12 @@ updated: 2026-11-15
 > |---|---|---|
 > | [[Mimesis]] | 概念 | 罗森克兰茨将错误再现界定为丑的第二种基本形态，与黑格尔对摹仿的拒斥形成对照。 |
 > | [[Hegel's Aesthetics]] | 理论 | 丑的美学主要源于黑格尔学派对正统古典主义排除丑的理论回应与增补。 |
+> | [[Nietzsche's Aesthetics]] | 理论 | 早期仍将不和谐音收编入和谐总体，晚期将丑生理学化为颓废与能量衰竭。[[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, pp. 142, 145–146)]] |
 > | [[Georg Wilhelm Friedrich Hegel]] | 人物 | 界定丑为匮乏现象并仅在时间性诗歌中有限容许丑的哲学家。 |
 > | [[Karl Rosenkranz]] | 人物 | 撰写《丑的美学》（1853），构建最完整的黑格尔派丑学形态学体系。 |
+> | [[Friedrich Nietzsche]] | 人物 | 在早期吸纳不和谐音后，于晚期以生命力衰竭界定丑。[[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, pp. 142, 145–146)]] |
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — 第 5 章追踪从黑格尔排斥丑、魏塞与罗森克兰茨建构丑的形态学到阿多诺现代反转的丑学演进史（pp. 92–93, 105–108）。
+> [!evidence-grid] 相关研究索引
+> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — 第 5 章追踪黑格尔至罗森克兰茨与阿多诺的丑学演进；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析尼采早期不和谐音与晚期颓废生理学（pp. 142, 145–146）。

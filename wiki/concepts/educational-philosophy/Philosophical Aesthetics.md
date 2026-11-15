@@ -117,6 +117,14 @@ updated: 2026-11-15
 
 ---
 
+> [!concept-proposition] 命题六｜克尔凯郭尔与尼采在反抗德国唯心论美学中回溯感性知觉或生理学，分别导致审美降格或全面哲学审美化
+> **存在主义与生命哲学的双向拆解** 克尔凯郭尔与尼采均试图越过德国唯心论体系，把美学重新奠基于感性知觉（*aisthesis*）或身体生理学之上，却分别走向把审美降格为初级生存阶段与把美学扩张为取代形而上学的第一哲学。
+>
+> > [!claim] Hammermeister, K.
+> > **回溯前唯心论的理论代价与“恐怖美学”** [[Søren Kierkegaard|索伦·克尔凯郭尔]]（Søren Kierkegaard）将审美拆分为超历史古典艺术与受瞬间心境支配的感官生活态度，虽揭示了自我创造摧毁悲剧共同体根基的困境，却因将感性窄化为情欲而丧失感性认知功能，在论证深度上不及席勒。[[Friedrich Nietzsche|弗里德里希·尼采]]（Friedrich Nietzsche）历经《悲剧的诞生》日神与酒神美学及实证主义插曲后，在 1880 年代借古希腊广义制作（*techne*）概念把美学还原为应用生理学并推向全部哲学根基，却因排斥[[Natural Beauty|自然美]]与理性尺度而滑向拒绝承认他者视角的“恐怖美学”，直接激起新康德主义与[[Georg Lukács|格奥尔格·卢卡奇]]（Georg Lukács）的双重反弹。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 128–150)]]
+
+---
+
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -125,6 +133,7 @@ updated: 2026-11-15
 > | **审美认识论至上与浪漫派转向** | 艺术由哲学顶石回落至理念映象，建立起认识论主导、实践性退场的浪漫派美学范式 | 后康德唯心论、早期浪漫派与现代存在论美学源流 | [[Friedrich Wilhelm Joseph Schelling\|Schelling, F. W. J.]]; [[Friedrich Schlegel\|Schlegel, F.]]; Hammermeister, K. |
 > | **客观唯心论与艺术历史化** | 艺术受限于感性显现而低于哲学概念，同时在起源与功能上全面历史化 | 德国古典唯心论终结、艺术史奠基与艺术终结论 | Hegel, G. W. F.; Hammermeister, K. |
 > | **唯意志论逆转与唯美主义转向** | 艺术脱离共同体、理性与现实实践，转为个体摆脱欲望痛苦的暂时安慰 | 德国唯心论拆解、[[Schopenhauer's Aesthetics\|叔本华美学]]与现代唯美主义 | [[Arthur Schopenhauer\|Schopenhauer, A.]]; Hammermeister, K. |
+> | **反唯心论回溯与哲学审美化** | 克尔凯郭尔以存在论贬抑审美并丧失感性认知，尼采以应用生理学与视角主义扩张美学至全哲学并滑向“恐怖美学” | 存在主义美学批判、尼采哲学审美化与 20 世纪双向反弹 | Kierkegaard, S.; Nietzsche, F.; Hammermeister, K. |
 
 ---
 
@@ -137,6 +146,7 @@ updated: 2026-11-15
 > - **1800–1807 — 浪漫派美学与认识论中心主义** 谢林在《先验唯心论体系》（1800）中以[[Aesthetic Intuition|审美直观]]确立艺术高于概念哲学的地位，随后在《艺术哲学》（1802–1805）转向新柏拉图主义理念[[Mimesis|模仿]]并交由哲学阐释；浪漫派将艺术认识论功能绝对化的范式为海德格尔与阿多诺奠基，并引发黑格尔对哲学地位的反转。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62–66, 74–86)]]
 > - **1817–1835 — 绝对精神体系与历史化转向** [[Georg Wilhelm Friedrich Hegel|黑格尔]]在《哲学全书纲要》与《美学讲演录》中将美界定为理念的感性显现，把艺术安置在[[Absolute Spirit|绝对精神]]的初级环节，反转浪漫派“艺术高于哲学”的秩序，并以历史三阶段与媒介谱系开启现代艺术史学科。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 87–95, 97–103)]]
 > - **1818 — 唯意志论逆转与唯美主义先声** [[Arthur Schopenhauer|阿图尔·叔本华]]（Arthur Schopenhauer）在《作为意志和表象的世界》中以非理性盲目意志取代理性本原，将艺术静观界定为短暂摆脱[[Principium Individuationis|个体化原理]]痛苦与直觉理念的安慰通道，并把音乐置于艺术顶端，由此开启对唯心论美学的怀疑论拆解与避世转向。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 111–127)]]
+> - **1843–1889 — 反唯心论的存在论降格与哲学审美化** [[Søren Kierkegaard|克尔凯郭尔]]在《非此即彼》等著述中越过唯心论回到 *aisthesis*，将审美生活定位于须由伦理扬弃的初级阶段；[[Friedrich Nietzsche|尼采]]则从《悲剧的诞生》与实证主义批判走向 1880 年代的应用生理学与全面哲学审美化，将美学推上取代形而上学的第一哲学位置。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 128–150)]]
 
 ---
 
@@ -154,6 +164,11 @@ updated: 2026-11-15
 > | [[Absolute Spirit]] | 概念 | 黑格尔用以界定艺术、宗教与哲学真理层级关系的体系框架。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 90–92)]] |
 > | [[End of Art]] | 概念 | 黑格尔美学中艺术在反思时代失去最高真理载体功能的历史命题。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 101–103)]] |
 > | [[Aestheticism]] | 概念 | 叔本华通过个人主义与避世转向为之铺路的脱离道德与共同体之艺术取向。[[Argument_Hammermeister_2002_Cambridge_Ch06\|(Hammermeister, 2002, pp. 112–113, 126–127)]] |
+> | [[Indirect Communication]] | 概念 | 克尔凯郭尔以假名与人格化生存姿态替代直接知识传递的话语策略。[[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, p. 129)]] |
+> | [[Apollonian and Dionysian]] | 概念 | 尼采《悲剧的诞生》确立的双重艺术与自然原力，晚期统一为迷醉形态。[[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, pp. 138–146)]] |
+> | [[Perspectivism]] | 概念 | 尼采哲学全面审美化后拒绝单一客观真理的认识论立场。[[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, pp. 147–148)]] |
+> | [[Kierkegaard's Aesthetics]] | 理论 | 克尔凯郭尔存在境界层级与审美批判理论。[[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, pp. 128–135)]] |
+> | [[Nietzsche's Aesthetics]] | 理论 | 尼采跨越悲剧美学、实证批判与哲学审美化的三阶段美学纲领。[[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, pp. 136–150)]] |
 > | [[Alexander Gottlieb Baumgarten]] | 人物 | 哲学美学的首位命名者与系统奠基人。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 4, 6)]] |
 > | [[Moses Mendelssohn]] | 人物 | 推动哲学美学向情感心理学与审美教育转向的关键人物。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 13–14, 18)]] |
 > | [[Immanuel Kant]] | 人物 | 赋予“美学”现代学科语义并确立首个强范式的哲学家。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 23, 40–41)]] |
@@ -161,8 +176,10 @@ updated: 2026-11-15
 > | [[Friedrich Wilhelm Joseph Schelling]] | 人物 | 在《体系》中将艺术推为哲学最高工具，后于《艺术哲学》转向新柏拉图主义理念模仿。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, pp. 62, 74–82)]] |
 > | [[Georg Wilhelm Friedrich Hegel]] | 人物 | 在绝对精神体系中历史化哲学美学并反转浪漫派艺术观的哲学家。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 87–92)]] |
 > | [[Arthur Schopenhauer]] | 人物 | 以盲目意志形而上学拆解德国唯心论美学传统并开启避世唯美主义的哲学家。[[Argument_Hammermeister_2002_Cambridge_Ch06\|(Hammermeister, 2002, pp. 111–113, 126–127)]] |
+> | [[Søren Kierkegaard]] | 人物 | 将审美降格为初级存在阶段并在感性论回溯中丧失认知功能的思想家。[[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, pp. 128–135)]] |
+> | [[Friedrich Nietzsche]] | 人物 | 将美学转化为应用生理学并推上第一哲学地位的哲学家。[[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, pp. 136–150)]] |
 
 ---
 
-> [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]溯源鲍姆嘉通至门德尔松；[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]析康德美学范式；[[Argument_Hammermeister_2002_Cambridge_Ch03|第 3 章]]论席勒历史化美育；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]探谢林与浪漫派认识论美学；[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析黑格尔绝对精神美学与艺术终结论；[[Argument_Hammermeister_2002_Cambridge_Ch06|第 6 章]]析叔本华唯意志论对唯心论美学传统的怀疑论拆解。
+> [!evidence-grid] 相关研究索引
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1]]–[[Argument_Hammermeister_2002_Cambridge_Ch03|3 章]]溯鲍姆嘉通至康德与席勒；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4]]–[[Argument_Hammermeister_2002_Cambridge_Ch06|6 章]]析谢林、黑格尔与叔本华；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析克尔凯郭尔与尼采的反唯心论转向。

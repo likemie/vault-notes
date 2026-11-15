@@ -54,5 +54,13 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch06|Hammermeister (2002)]] — 论证叔本华美学的个人主义转向如何使艺术沦为代偿宗教并开启脱离道德与共同体的唯美主义。
+> [!concept-proposition] 命题二｜克尔凯郭尔揭示唯美主义沉溺瞬间心境、将世界素材化并摧毁悲剧共同体根基
+> **瞬间依赖与他者敬意丧失** 审美主体拒绝作出伦理抉择而停留于中性心境，将他人与世界贬低为诗意建构的素材库，最终导致人格碎片化、孤独与悲剧艺术的消亡。
+>
+> > [!claim] Hammermeister, K.
+> > **自我创造对悲剧艺术的反噬** [[Søren Kierkegaard|索伦·克尔凯郭尔]]（Søren Kierkegaard）在《非此即彼》中批判审美生活方式让人完全陷入当下心境，阻断统觉统一性与德性习惯，使审美自由排斥尊重与义务；当现代个体丧失家庭、国家与族群纽带而“成为自身创造者”时，苦痛只剩个人悔恨，作为生活模式的唯美主义反而摧毁了作为艺术形式的悲剧，同时与晚期尼采的“自我审美化”遥相呼应。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 132–135, 147)]]
+
+---
+
+> [!evidence-grid] 相关研究索引
+> - [[Argument_Hammermeister_2002_Cambridge_Ch06|Hammermeister (2002)]] — 第 6 章析叔本华唯美主义个人主义转向；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析克尔凯郭尔审美心境批判与尼采自我审美化（pp. 132–135, 147）。

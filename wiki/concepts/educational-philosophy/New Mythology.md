@@ -72,6 +72,7 @@ updated: 2026-11-15
 > | **[[Novalis\|诺瓦利斯]]《基督教世界或欧洲》（1799）** | 预言天主教信仰复兴（虽非严格神话，但承担同类统一功能） | 超越民族主义分裂，重塑普遍个性与新人类共同体 [[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, p. 76)]] |
 > | **[[Friedrich Wilhelm Joseph Schelling\|谢林]]《先验唯心论体系》（1800）** | 寄望“犹如一位诗人般生活的新一代”共同孕育新神话 | 引导哲学与各门科学回归普遍诗学，消除科学知识与诗意知识的鸿沟 [[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, p. 75)]] |
 > | **[[Friedrich Schlegel\|施莱格尔]]《神话演讲》（1800）** | 认为诗与神话并无二致，须[[Epoché\|悬置]]理性思维规律、重返幻想的优美混沌与古代诸神象征 | 借由绝对者的审美确定性联合全人类 [[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, pp. 76–77)]] |
+> | **[[Friedrich Nietzsche\|尼采]]《悲剧的诞生》（1872）** | 借从巴赫、贝多芬到理查德·瓦格纳（Richard Wagner）总体艺术作品的德国音乐奠基新神话（§23） | 重演 1800 年前后浪漫派文化再生方案，数后即与瓦格纳决裂并斥其为文化颓废 [[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, pp. 138, 141–142)]] |
 
 ---
 
@@ -95,11 +96,13 @@ updated: 2026-11-15
 > | [[Aesthetic Intuition]] | 概念 | 新神话旨在将局限于私人经验的审美直观转化为公共社会媒介。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, pp. 75–77)]] |
 > | [[Romantic Irony]] | 概念 | 与新神话的公共政治诉求形成对比，突显个体艺术作品的非政治特质。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, p. 77)]] |
 > | [[Schelling's Aesthetics]] | 理论 | 新神话构成谢林 1800 年《体系》美学章节的乌托邦尾声。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, p. 75)]] |
+> | [[Nietzsche's Aesthetics]] | 理论 | 早期借瓦格纳乐剧重演浪漫派新神话方案，随后迅速决裂。[[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, pp. 138, 141–142)]] |
 > | [[Friedrich Wilhelm Joseph Schelling]] | 人物 | 在《先验唯心论体系》末尾呼吁借新神话实现科学向诗学的回归。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, p. 75)]] |
 > | [[Friedrich Schlegel]] | 人物 | 在《神话演讲》中倡导以古代诸神象征和幻想混沌为核心的新神话。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, pp. 76–77)]] |
 > | [[Johann Gottfried von Herder]] | 人物 | 在 1796 年《伊杜娜》对话中率先呼吁更新古希腊与北欧神话以实现社会更新。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, p. 76)]] |
+> | [[Friedrich Nietzsche]] | 人物 | 《悲剧的诞生》（§23）诉诸德国音乐奠基新神话，后斥瓦格纳为颓废。[[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, pp. 138, 141–142)]] |
 
 ---
 
-> [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — 第 4 章对比谢林、《最古老的系统纲领》、赫尔德、诺瓦利斯与施莱格尔的新神话构想，并指出个体艺术与公共神话之间的过渡难题。
+> [!evidence-grid] 相关研究索引
+> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — 第 4 章对比 1800 年前后新神话诸版本；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析尼采《悲剧的诞生》对瓦格纳新神话的挪用与决裂（pp. 141–142）。

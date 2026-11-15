@@ -10,12 +10,12 @@ cssclasses:
   - person-page
 nationality: canada
 person_region: "canada"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 born: "1931"
-lifespan: "1931–"
+lifespan: "1931–至今"
 tags:
   - region/canada
   - field/philosophy
@@ -24,6 +24,8 @@ tags:
 related_concepts:
   - "[[Mimesis]]"
   - "[[End of Art]]"
+  - "[[Document]]"
+  - "[[Philosophical Aesthetics]]"
 related_theories:
   - "[[Hegel's Aesthetics]]"
 related_methods: []
@@ -43,10 +45,10 @@ updated: 2026-11-15
 
 > [!person-profile] 人物档案
 > - **身份位置** 当代哲学家与[[Georg Wilhelm Friedrich Hegel|黑格尔]]思想史研究学者。
-> - **核心角色** 在黑格尔美学当代阐释中，分别就反[[Mimesis|摹仿]]论实质与[[End of Art|艺术终结论]]的社会学意义提出关键界定。
-> - **代表文献** 《黑格尔》（*Hegel*, 1975, pp. 470, 479）。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 96, 102, 229 n.22)]]
+> - **核心角色** 在[[Hegel's Aesthetics|黑格尔美学]]当代阐释中，分别就反[[Mimesis|摹仿]]论实质与[[End of Art|艺术终结论]]的社会学意义提出关键界定。
+> - **代表[[Document|文献]]** 《黑格尔》（*Hegel*, 1975, pp. 470, 479）。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 96, 102, 229 n.22)]]
 
-> [!citation-card] 泰勒概括黑格尔美学的非再现真理性
+> [!citation-card] 泰勒概括黑格尔[[Philosophical Aesthetics|美学]]的非再现真理性
 > 艺术是把握理念的一种意识方式，却有别于对理念的再现。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 96)]]
 >
 > *Art is a mode of consciousness of the Idea, but it is not a representation of it. (Taylor, 1975, p. 470)*

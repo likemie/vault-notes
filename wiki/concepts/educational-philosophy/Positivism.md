@@ -481,3 +481,4 @@ updated: 2026-11-15
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025, Ch. 14–15)]] — 阐述“极致狐狸”工程实证[[Epistemology|认识论]]，以客观物理运行与解决公共物理苦难为裁判，解构刺猬型教条与奢侈信念。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 从[[Niklas Luhmann|卢曼]]二阶观察与[[Phenomenology|现象学]]批判哈蒂《可见的学习》背后的评价实证主义与“超实证可见性意识形态”，揭示其将具身心智降解为表象化[[Performance Indicators|绩效指标]]的认识论盲点与规范遮蔽（pp. 3–10）。
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026, pp. 341, 346–348)]] — 解构[[Transnational Education|跨国教育]]治理中全球教育证据顾问小组（[[Global Education Evidence Advisory Panel|GEEAP]]）所标榜的实证绝对客观性神话，揭示“[[Smart Buys|智能购买]]”等成本效益排序对地方制度土壤的剥离与实证主义采购清单异化。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch07|Hammermeister (2002, Ch. 7)]] — 析尼采《人性的，太人性的》的实证主义转向，及晚期排斥[[Natural Beauty|自然美]]与支配自然科学精神的合谋（pp. 137, 144–145, 149）。

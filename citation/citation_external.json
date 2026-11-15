@@ -3256,6 +3256,8 @@
     "Briggs, 2014": "Briggs, 2014",
     "Bright (2011)": "Bright, 2011",
     "Bright, 2011": "Bright, 2011",
+    "Brigitte Scheer (1997)": "Brigitte Scheer, 1997",
+    "Brigitte Scheer, 1997": "Brigitte Scheer, 1997",
     "Brigman (1999)": "Brigman, 1999",
     "Brigman (2003a)": "Brigman, 2003a",
     "Brigman (2003b)": "Brigman, 2003b",
@@ -52006,6 +52008,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A Meta-Analysis of the Effects of Grade Retention of K-6 Students on Student Achievement, 1990-2010"
+    },
+    "Brigitte Scheer, 1997": {
+      "aliases": [
+        "Brigitte Scheer, 1997",
+        "Brigitte Scheer (1997)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Brigitte Scheer, 1997"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Ersatz Religion.md"
+      ],
+      "title": ""
     },
     "Brigman, 1999": {
       "aliases": [
@@ -103262,6 +103279,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-philosophy/Aestheticism.md",
+        "wiki/concepts/educational-philosophy/Ersatz Religion.md",
         "wiki/persons/germany/Arthur Schopenhauer.md",
         "wiki/theories/educational-philosophy/Schopenhauer's Aesthetics.md"
       ],
@@ -166003,6 +166021,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/educational-philosophy/Poiesis.md",
         "wiki/persons/germany/Arthur Schopenhauer.md",
         "wiki/theories/educational-philosophy/Schopenhauer's Aesthetics.md"
       ],
@@ -209877,6 +209896,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/educational-philosophy/Poiesis.md",
         "wiki/concepts/educational-philosophy/Principle of Sufficient Reason.md"
       ],
       "title": ""

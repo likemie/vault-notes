@@ -14354,6 +14354,14 @@
       "seen_in": [],
       "title": "A Meta-Analysis of the Effects of Grade Retention of K-6 Students on Student Achievement, 1990-2010"
     },
+    "Brigitte Scheer, 1997": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Ersatz Religion.md"
+      ],
+      "title": ""
+    },
     "Brigman, 1999": {
       "datasets": [
         "eef:social-and-emotional-learning",
@@ -45165,6 +45173,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-philosophy/Aestheticism.md",
+        "wiki/concepts/educational-philosophy/Ersatz Religion.md",
         "wiki/persons/germany/Arthur Schopenhauer.md",
         "wiki/theories/educational-philosophy/Schopenhauer's Aesthetics.md"
       ],
@@ -83127,6 +83136,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/educational-philosophy/Poiesis.md",
         "wiki/persons/germany/Arthur Schopenhauer.md",
         "wiki/theories/educational-philosophy/Schopenhauer's Aesthetics.md"
       ],
@@ -109561,6 +109571,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/educational-philosophy/Poiesis.md",
         "wiki/concepts/educational-philosophy/Principle of Sufficient Reason.md"
       ],
       "title": ""

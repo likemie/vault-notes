@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 6
+person_related_count: 8
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -23,9 +23,12 @@ tags:
   - theme/aesthetics
 related_concepts:
   - "[[Absolute Spirit]]"
+  - "[[Document]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Hegel's Aesthetics]]"
-related_methods: []
+related_methods:
+  - "[[Philosophical Analysis in Education]]"
 related_instruments: []
 related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
@@ -42,11 +45,11 @@ updated: 2026-11-15
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 19 世纪德国哲学家、黑格尔的学生，主张经济基础对包含[[Absolute Spirit|绝对精神]]诸形式在内的上层建筑具有决定性优先地位。
+> - **身份位置** 19 世纪德国哲学家、[[Georg Wilhelm Friedrich Hegel|黑格尔]]的学生，主张经济基础对包含[[Absolute Spirit|绝对精神]]诸形式在内的上层建筑具有决定性优先地位。
 > - **核心角色** 在历史与艺术关系的讨论中，提供了“艺术超越历史制约”的经典反证难题。
-> - **代表文献** 《政治经济学批判大纲》（*Grundrisse*, 1857–1858, p. 31）。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 89)]]
+> - **代表[[Document|文献]]** 《政治经济学批判大纲》（*Grundrisse*, 1857–1858, p. 31）。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 89)]]
 
-> [!citation-card] 马克思论希腊艺术的超历史范式地位
+> [!citation-card] 马克思论希腊艺术的超历史[[Paradigm|范式]]地位
 > 困难之处不在于理解希腊艺术和史诗同一定的社会发展形式结合在一起；困难之处在于，它们至今仍能带给我们审美享受，而且在某种意义上依然被奉为规范和无法企及的范式。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 89)]]
 >
 > *The difficulty is not to understand that Greek art and epos are tied to certain social forms of development. The difficulty is that they still grant aesthetic pleasure and figure as norm and inimitable paradigms. (Marx, 1857–1858, p. 31)*
@@ -59,7 +62,7 @@ updated: 2026-11-15
 ---
 
 > [!person-network] 关系网络
-> - **师承关系** [[Georg Wilhelm Friedrich Hegel|黑格尔]]：作为黑格尔的学生，马克思将历史唯物主义的基础-上层建筑模型引入哲学分析，却在希腊艺术持久魅力问题上承认艺术超越特定社会形态的难题。
+> - **师承关系** [[Georg Wilhelm Friedrich Hegel|黑格尔]]：作为黑格尔的学生，马克思将历史唯物主义的基础-上层建筑模型引入[[Philosophical Analysis in Education|哲学分析]]，却在希腊艺术持久魅力问题上承认艺术超越特定社会形态的难题。
 > - **理论呼应** [[Hans-Georg Gadamer|伽达默尔]]：马克思对希腊艺术与史诗持续带来审美愉悦的观察，与伽达默尔“一切艺术的本质同时性”在现象层面形成呼应。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 89)]]
 
 ---

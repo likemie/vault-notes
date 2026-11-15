@@ -55,5 +55,13 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch06|Hammermeister (2002)]] — 剖析叔本华如何借个体化原理将苦难归因于表象分裂，并揭示个我意志向世界意志推论中的“分有”论证漏洞。
+> [!concept-proposition] 命题二｜尼采在《悲剧的诞生》中借阿波罗与狄奥尼索斯之争重构个体化原理的防御功能与越界消解
+> **幻象防御与狂醉复归** 尼采承袭叔本华的个体化原理界定[[Apollonian and Dionysian|日神与酒神]]对立：阿波罗原则代表个体化秩序与抵御生存恐怖的防御梦境，狄奥尼索斯原则则在狂醉中撕破摩耶之幕，使个体如浪尖泡沫般消散并复归太一。
+>
+> > [!claim] Hammermeister, K.
+> > **悲剧对个体化原理的仪式化驯服** 凯·哈默迈斯特（Kai Hammermeister, 2002）指出，尼采将雕塑、史诗等阿波罗艺术视为个体化幻象的最高表达，而希腊悲剧则通过音乐歌队与英雄梦境的张力在仪式中驯服酒神的毁灭性狂醉，使个体既能承受存在的恐怖又能复归存在统一体。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 139–141)]]
+
+---
+
+> [!evidence-grid] 相关研究索引
+> - [[Argument_Hammermeister_2002_Cambridge_Ch06|Hammermeister (2002)]] — 第 6 章析叔本华个体化原理与“分有”漏洞；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析尼采《悲剧的诞生》日神/酒神对该原理的重构（pp. 139–141）。

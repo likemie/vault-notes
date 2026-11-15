@@ -80,7 +80,8 @@ updated: 2026-11-15
 ---
 
 > [!warning|limits] 适用局限
-> 康德虽主张经典艺术范例对培养和纠正鉴赏力不可或缺，但鉴于鉴赏判断不可概念化的前提，这些传统范例究竟如何发挥近似规则的引导功能而又不沦为硬性条规，在《判断力批判》中仍未得到充分说明。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 36)]]
+> - **古典范例引导悖论** 康德虽主张经典艺术范例对培养和纠正鉴赏力不可或缺，但鉴于鉴赏判断不可概念化的前提，这些传统范例究竟如何发挥近似规则的引导功能而又不沦为硬性条规，在《判断力批判》中仍未得到充分说明。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 36)]]
+> - **实证主义对天才奇迹的祛魅** [[Friedrich Nietzsche|尼采]]在《人性的，太人性的》（§146–147）的实证主义阶段，将艺术家对“天才奇迹”的沉溺与宗教迷信相提并论，斥之为滞留儿童或少年阶段的认知倒退。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, p. 145)]]
 
 ---
 
@@ -93,8 +94,9 @@ updated: 2026-11-15
 > | [[Immanuel Kant]] | 人物 | 在《判断力批判》第 46 节提出“自然借天才给艺术立法”的哲学家。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 35–36)]] |
 > | [[Friedrich Wilhelm Joseph Schelling]] | 人物 | 在《先验唯心论体系》中以天才结合有意识技艺与无意识诗意恩典，翻转康德的自然美优先论。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, pp. 71–73)]] |
 > | [[Arthur Schopenhauer]] | 人物 | 将天才界定为克服个人主观性的绝对客观直观，并引出审美精英主义与动静悖论。[[Argument_Hammermeister_2002_Cambridge_Ch06\|(Hammermeister, 2002, pp. 120–121)]] |
+> | [[Friedrich Nietzsche]] | 人物 | 在实证主义阶段将“天才奇迹”批判为与宗教迷信同源的幼稚崇拜。[[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, p. 145)]] |
 
 ---
 
-> [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch02|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]阐明康德如何借助天才概念弥合自然美与人工艺术的张力；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]分析谢林如何把天才界定为技艺与无意识恩典的统一并在中期转向民族主体；[[Argument_Hammermeister_2002_Cambridge_Ch06|第 6 章]]考察叔本华如何把天才界定为绝对客观直观与抗衡庸俗的机制，并指出其意志动静悖论与审美精英主义倾向。
+> [!evidence-grid] 相关研究索引
+> - [[Argument_Hammermeister_2002_Cambridge_Ch02|Hammermeister (2002)]] — 第 2 章析康德天才；第 4 章析谢林天才；第 6 章析叔本华天才；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析尼采对天才奇迹的祛魅（p. 145）。

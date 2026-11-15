@@ -70,11 +70,20 @@ updated: 2026-11-15
 
 ---
 
+> [!concept-proposition] 命题三｜尼采将美感拟人化并绑定生命权力感，彻底排除了让人遭遇他者的自然美
+> **拟人化审美与科学主义共谋** 当美被界定为主体生命力与权力感的投射时，不以人为主宰的自然界便失去了独立审美地位。
+>
+> > [!claim] Hammermeister, K.
+> > **“只有人是美的”与自然他者的消失** 尼采在《偶像的黄昏》中宣称“只有人是美的”，并在 1883 年遗稿中把美感归结为对象是否符合主体自身驱动力的理想；这种拟人化、以利益与权力感为导向的美感定义彻底排除了能让人遭遇他者的自然美，反而暴露出他与 19 世纪支配自然的实证科学精神暗中合谋。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, p. 149)]]
+
+---
+
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **精神优位原则** | 说明自然美为何次于艺术美且以艺术美为认知前提 | 黑格尔美学范围界定与讲演录文本考辨 | Hegel; Hammermeister |
 > | **同源纯化与摇摆张力** | 艺术美仅在于滤除自然美中的偶然杂质，却动摇“万物皆美”与艺术特权 | 叔本华自然美与艺术美关系辨析 | [[Arthur Schopenhauer\|Schopenhauer]]; Hammermeister |
+> | **拟人化排除自然美** | 以人类权力感与驱动力垄断美感定义，抹除自然他者并滑向“恐怖美学” | 尼采晚期哲学审美化批判 | [[Friedrich Nietzsche\|Nietzsche]]; Hammermeister |
 
 ---
 
@@ -90,10 +99,12 @@ updated: 2026-11-15
 > | [[Philosophical Aesthetics]] | 概念 | 黑格尔将哲学美学限定为艺术哲学，重塑了自然美在学科中的边缘位置 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 92–93)]]。 |
 > | [[Absolute Spirit]] | 概念 | 自然缺乏绝对精神所需的自我意识，决定了自然美次于艺术美 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 93)]]。 |
 > | [[Hegel's Aesthetics]] | 理论 | 呈现黑格尔既原则排斥自然美又微弱保留它的内在文本张力 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 92–93)]]。 |
+> | [[Nietzsche's Aesthetics]] | 理论 | 以拟人化权力感垄断美感定义并彻底排斥自然美的晚期美学纲领 [[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, p. 149)]]。 |
 > | [[Georg Wilhelm Friedrich Hegel]] | 人物 | 主张自然美是艺术美折射的哲学家 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 93)]]。 |
 > | [[Arthur Schopenhauer]] | 人物 | 主张艺术美只是替人剔除自然美中偶然杂质的哲学家 [[Argument_Hammermeister_2002_Cambridge_Ch06\|(Hammermeister, 2002, p. 122)]]。 |
+> | [[Friedrich Nietzsche]] | 人物 | 在《偶像的黄昏》宣称“只有人是美的”并排除自然美的哲学家 [[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, p. 149)]]。 |
 
 ---
 
-> [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析黑格尔对自然美的降格（pp. 92–93）；[[Argument_Hammermeister_2002_Cambridge_Ch06|第 6 章]]析叔本华自然美纯化与强迫静观矛盾（p. 122）。
+> [!evidence-grid] 相关研究索引
+> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — 第 5 章析黑格尔对自然美的降格（pp. 92–93）；第 6 章析叔本华自然美纯化矛盾（p. 122）；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析尼采拟人化美感对自然美的排除（p. 149）。
