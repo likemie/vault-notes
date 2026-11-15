@@ -80,5 +80,5 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Hammermeister_2002_Cambridge_Ch08|Hammermeister (2002)]] — 第 8 章阐释卢卡奇如何以典型性区分艺术与科学、现实主义与自然主义/现代主义，并分析其理论困境（pp. 163–169）。

@@ -10,10 +10,10 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 48
-person_related_level: 4
-person_related_stars: "💎⭐"
-person_related_color: "#fce7f3"
+person_related_count: 52
+person_related_level: 5
+person_related_stars: "💎⭐⭐"
+person_related_color: "#ffedd5"
 born: "1724"
 died: "1804"
 lifespan: "1724–1804"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Aesthetic Idea]]"
   - "[[Genius]]"
   - "[[Critical Thinking]]"
+  - "[[Typicality]]"
   - "[[Self-Cultivation]]"
   - "[[Moral Dualism]]"
   - "[[Alienation]]"
@@ -71,11 +72,13 @@ related_persons:
   - "[[Theodor Adorno]]"
   - "[[Hans-Georg Gadamer]]"
   - "[[Jean-Jacques Rousseau]]"
+  - "[[Friedrich Nietzsche]]"
   - "[[Plato]]"
   - "[[René Descartes]]"
   - "[[George Berkeley]]"
 related_facts:
   - "[[Protestant Pietism]]"
+  - "[[Philosophy of Art]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
@@ -83,6 +86,7 @@ related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch05]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch07]]"
 confidence: high
 status: draft
 created: 2026-05-22
@@ -111,7 +115,7 @@ updated: 2026-11-15
 > - **1781** 出版第一批判《纯粹理性批判》（*Kritik der reinen Vernunft*），宣告先验批判哲学的正式诞生，完成[[Epistemology\|认识论]]的哥白尼式转向；该书仍沿用[[Alexander Gottlieb Baumgarten|鲍姆嘉通]]“感性知觉理论”之旧义使用“美学”一词。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. ix)]]
 > - **1784** 发表里程碑启蒙论著《答复这个问题：“什么是启蒙？”》（*Beantwortung der Frage: Was ist Aufklärung?*），提出“Sapere aude!（敢于求知／勇于运用自己的理性！）”的时代口号。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 20)]]
 > - **1785–1788** 相继出版《道德形而上学奠基》（1785）与第二批判《[[Phronesis|实践理性]]批判》（1788），确立绝对命令与理性自律道德哲学。
-> - **1790** 出版第三批判《判断力批判》（*Kritik der Urteilskraft*），沟通自然必然性与道德自由，正式采纳“美与艺术哲学”的现代美学语义，开启德国哲学美学的范式时代。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. ix–x, 3, 20)]]
+> - **1790** 出版第三批判《判断力批判》（*Kritik der Urteilskraft*），沟通自然必然性与道德自由，正式采纳“美与[[Philosophy of Art|艺术哲学]]”的现代美学语义，开启德国哲学美学的范式时代。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. ix–x, 3, 20)]]
 > - **1795** 针对欧洲热月政变后的国际战争局势发表《论[[Perpetual Peace\|永久和平]]》（*Zum ewigen Frieden*），构想主权共和国联盟与世界公民款待权法权框架。
 > - **1803** 在学生林克（F. T. Rink）协助下整理出版《论教育学》（*Über Pädagogik*），系统阐发教育在人类从动物自然向道德自律进化中的核心阶梯功能。[[Argument_Li_2012_Cambridge\|Li (2012, p. 35)]]
 > - **1804** 在柯尼斯堡逝世，墓碑铭刻其名言：“头顶的星空与心中的道德律”。
@@ -160,7 +164,7 @@ updated: 2026-11-15
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 在西方知识确定性传统与心智奇迹探索中，系统剖析康德范畴论对调和唯理论与经验论、确立人类心智主动加工结构的奠基性贡献。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 阐释怀特国际理论框架中的康德革命主义传统，揭示其[[Cosmopolitanism|世界主义]]道德激情如何深刻塑造了 20 世纪批判、[[Dependency Theory\|依附论]]与后殖民比较教育研究。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 考证康德[[Enlightenment\|启蒙哲学]]如何与[[Jean-Jacques Rousseau\|卢梭]]自由思想汇聚，直接催生了朱利安比较教育准科学实证设想背后的世界主义人道主义母题与永久和平蓝图。
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1]]–[[Argument_Hammermeister_2002_Cambridge_Ch02|2 章]]析美学范式；[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]录黑格尔批评；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析尼采对无利害的攻击与新康德主义反弹（pp. 146, 149–150）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1]]–[[Argument_Hammermeister_2002_Cambridge_Ch02|2 章]]析美学范式；[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]录黑格尔批评；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析[[Friedrich Nietzsche|尼采]]对无利害的攻击与新康德主义反弹（pp. 146, 149–150）。
 
 ---
 
@@ -175,7 +179,7 @@ updated: 2026-11-15
 
 > [!debates] 学术争议
 >
-> > [!axis] 心智范畴的跨文化普遍性 vs 文化具身特殊性
+> > [!axis] 心智范畴的跨文化普遍性 vs 文化具身[[Typicality|特殊性]]
 > > 康德将 12 先验范畴假设为全人类不变的[[Epistemology\|认识论]]硬件。
 > > - **普遍先验论（Kantian Epistemology）** 主张人类理性具有跨越时空的统一结构，为科学规律与普遍道德提供本体立足点。
 > > - **跨文化认知心理学（[[Argument_Li_2012_Cambridge\|Li, 2012]]）** 指出心智范畴本身深受古希腊印欧语系语法结构与西方求真探究传统的历史塑造；东亚儒家文化对心智的理解侧重于道德[[Self-Cultivation\|修身]]（德行）而非形式逻辑抽象，质疑康德先验范畴的绝对普适性。[[Argument_Li_2012_Cambridge\|Li (2012, pp. 25–26)]]

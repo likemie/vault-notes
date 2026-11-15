@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_persons:
   - "[[Karl Rosenkranz]]"
   - "[[Aristotle]]"
   - "[[Georg Lukács]]"
+  - "[[Karl Marx]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch05]]"
@@ -66,7 +67,7 @@ updated: 2026-11-15
 > [!person-network] 关系网络
 > - **批判对话对象** [[Georg Wilhelm Friedrich Hegel|黑格尔]]、[[Karl Rosenkranz|卡尔·罗森克兰茨]] — 阿多诺重修黑格尔漏掉的亚里士多德摹仿潜能，并反转罗森克兰茨的美绝对、丑派生等级。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 96, 106–107)]]
 > - **思想资源** [[Aristotle|亚里士多德]] — 阿多诺对摹仿范畴的现代重修在实质上深度得益于亚里士多德。
-> - **同代参照** [[Georg Lukács|格奥尔格·卢卡奇]] — 同样从现代马克思主义与美学立场出发回应黑格尔对摹仿论的批评。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 96)]]
+> - **同代参照** [[Georg Lukács|格奥尔格·卢卡奇]] — 同样从现代[[Karl Marx|马克思]]主义与美学立场出发回应黑格尔对摹仿论的批评。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 96)]]
 
 ---
 

@@ -72,5 +72,5 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Hammermeister_2002_Cambridge_Ch08|Hammermeister (2002)]] — 第 8 章分析卡西尔如何以符号动物奠基新康德主义美学，并区隔艺术、语言与科学（pp. 154–156）。

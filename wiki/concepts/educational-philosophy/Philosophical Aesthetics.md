@@ -123,6 +123,12 @@ updated: 2026-11-15
 > > [!claim] Hammermeister, K.
 > > **回溯前唯心论的理论代价与“恐怖美学”** [[Søren Kierkegaard|索伦·克尔凯郭尔]]（Søren Kierkegaard）将审美拆分为超历史古典艺术与受瞬间心境支配的感官生活态度，虽揭示了自我创造摧毁悲剧共同体根基的困境，却因将感性窄化为情欲而丧失感性认知功能，在论证深度上不及席勒。[[Friedrich Nietzsche|弗里德里希·尼采]]（Friedrich Nietzsche）历经《悲剧的诞生》日神与酒神美学及实证主义插曲后，在 1880 年代借古希腊广义制作（*techne*）概念把美学还原为应用生理学并推向全部哲学根基，却因排斥[[Natural Beauty|自然美]]与理性尺度而滑向拒绝承认他者视角的“恐怖美学”，直接激起新康德主义与[[Georg Lukács|格奥尔格·卢卡奇]]（Georg Lukács）的双重反弹。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 128–150)]]
 
+> [!concept-proposition] 命题七｜20 世纪德国美学在思想发生学上重演了从康德、席勒到谢林与黑格尔的古典范式秩序
+> **新康德主义与新马克思主义的双重复兴** 尽管各派代表作的出版年代前后交错，但按思想萌发期排序，20 世纪德国美学依次重演了康德式自律辩护、席勒式社会解放关切以及谢林—黑格尔式真理器官转向。
+>
+> > [!claim] Hammermeister, K.
+> > **卡西尔、卢卡奇与马尔库塞的范式推进及限度** [[Ernst Cassirer|恩斯特·卡西尔]]（Ernst Cassirer）在 1920 年代以[[Animal Symbolicum|符号动物]]重铸康德自律美学，将艺术界定为集中强化现实的自主符号形式，却因主观形式转向而缺失历史维度并回避纯形式与事物真理的连接；[[Georg Lukács|卢卡奇]]与[[Herbert Marcuse|赫伯特·马尔库塞]]（Herbert Marcuse）则重启[[Friedrich Schiller|席勒]]克服[[Alienation|异化]]与维护艺术自律的双重关切，前者借[[Typicality|典型性]]、党性（*Parteilichkeit*）与理性[[Catharsis|卡塔西斯]]构建现实主义，却因赋予马克思列宁主义理论以认知特权而威胁艺术独立性，后者在[[Repressive Tolerance|压抑性容忍]]下从反艺术退回伟大自律艺术的否定力量，并以爱欲（*Eros*）与死亡本能（*Thanatos*）奠定美与艺术的永恒性。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 153–172)]]
+
 ---
 
 > [!contrast-table] 所有命题归纳
@@ -134,6 +140,7 @@ updated: 2026-11-15
 > | **客观唯心论与艺术历史化** | 艺术受限于感性显现而低于哲学概念，同时在起源与功能上全面历史化 | 德国古典唯心论终结、艺术史奠基与艺术终结论 | Hegel, G. W. F.; Hammermeister, K. |
 > | **唯意志论逆转与唯美主义转向** | 艺术脱离共同体、理性与现实实践，转为个体摆脱欲望痛苦的暂时安慰 | 德国唯心论拆解、[[Schopenhauer's Aesthetics\|叔本华美学]]与现代唯美主义 | [[Arthur Schopenhauer\|Schopenhauer, A.]]; Hammermeister, K. |
 > | **反唯心论回溯与哲学审美化** | 克尔凯郭尔以存在论贬抑审美并丧失感性认知，尼采以应用生理学与视角主义扩张美学至全哲学并滑向“恐怖美学” | 存在主义美学批判、尼采哲学审美化与 20 世纪双向反弹 | Kierkegaard, S.; Nietzsche, F.; Hammermeister, K. |
+> | **20 世纪古典范式重演** | 卡西尔重铸康德符号自律美学，卢卡奇与马尔库塞以社会历史与冲动理论重启席勒式美育解放议题 | 新康德主义美学、新马克思主义美学与批判理论过渡 | [[Ernst Cassirer\|Cassirer, E.]]; [[Georg Lukács\|Lukács, G.]]; [[Herbert Marcuse\|Marcuse, H.]]; Hammermeister, K. |
 
 ---
 
@@ -147,6 +154,9 @@ updated: 2026-11-15
 > - **1817–1835 — 绝对精神体系与历史化转向** [[Georg Wilhelm Friedrich Hegel|黑格尔]]在《哲学全书纲要》与《美学讲演录》中将美界定为理念的感性显现，把艺术安置在[[Absolute Spirit|绝对精神]]的初级环节，反转浪漫派“艺术高于哲学”的秩序，并以历史三阶段与媒介谱系开启现代艺术史学科。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 87–95, 97–103)]]
 > - **1818 — 唯意志论逆转与唯美主义先声** [[Arthur Schopenhauer|阿图尔·叔本华]]（Arthur Schopenhauer）在《作为意志和表象的世界》中以非理性盲目意志取代理性本原，将艺术静观界定为短暂摆脱[[Principium Individuationis|个体化原理]]痛苦与直觉理念的安慰通道，并把音乐置于艺术顶端，由此开启对唯心论美学的怀疑论拆解与避世转向。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 111–127)]]
 > - **1843–1889 — 反唯心论的存在论降格与哲学审美化** [[Søren Kierkegaard|克尔凯郭尔]]在《非此即彼》等著述中越过唯心论回到 *aisthesis*，将审美生活定位于须由伦理扬弃的初级阶段；[[Friedrich Nietzsche|尼采]]则从《悲剧的诞生》与实证主义批判走向 1880 年代的应用生理学与全面哲学审美化，将美学推上取代形而上学的第一哲学位置。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 128–150)]]
+> - **1920s–1944 — 新康德主义符号美学复兴** [[Ernst Cassirer|卡西尔]]以[[Animal Symbolicum|符号动物]]重铸康德艺术自律原则，在《人论》（1944）及文化科学研究院演讲中提出艺术对现实的集中强化与形式净化，但面临非历史性与纯形式真理连接困境。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 153–158)]]
+> - **1930s–1963 — 马克思主义现实主义美学体系化** [[Georg Lukács|卢卡奇]]在《审美的特性》（1963）等著述中以[[Typicality|典型性]]、党性与理性[[Catharsis|卡塔西斯]]重构[[Mimesis|摹仿]]论，试图通过艺术克服现代[[Alienation|异化]]，却因外部理论认知特权引发艺术自主性悖论。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 160–169)]]
+> - **1966–1978 — 批判理论与伟大艺术否定性回调** [[Herbert Marcuse|马尔库塞]]从《论解放》（1969）的反艺术去升华转向《反革命与造反》（1972）与《审美之维》（1978），在[[Repressive Tolerance|压抑性容忍]]体制下重申自律伟大艺术改造意识与冲动、抗衡死亡本能的永恒否定力量。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 169–172)]]
 
 ---
 

@@ -8,10 +8,10 @@ cssclasses:
   - person-page
 nationality: greece
 person_region: "greece"
-person_related_count: 16
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 25
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "384 BCE"
 died: "322 BCE"
 lifespan: "384 BCE – 322 BCE"
@@ -28,25 +28,34 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Habituation]]"
   - "[[General Education]]"
-  - "[[Critical Thinking]]"
   - "[[Habitus]]"
+  - "[[Critical Thinking]]"
   - "[[Western Civilization Course]]"
   - "[[Canon Wars]]"
   - "[[Critical Pedagogy]]"
+  - "[[Philosophical Aesthetics]]"
+  - "[[Poetics]]"
+  - "[[Catharsis]]"
+  - "[[Mimesis]]"
+  - "[[Aesthetics of Ugliness]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Plato]]"
   - "[[Joseph Tussman]]"
+  - "[[Karl Marx]]"
   - "[[John Dewey]]"
   - "[[Paulo Freire]]"
+  - "[[Georg Wilhelm Friedrich Hegel]]"
+  - "[[Karl Rosenkranz]]"
 related_facts:
   - "[[1968 Stanford Western Civ Reform]]"
 related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
-  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch05]]"
 confidence: high
 status: draft
 created: 2026-07-25
@@ -83,7 +92,7 @@ updated: 2026-11-15
 > > [!thesis-quote] 《尼各马可伦理学》（*Nicomachean Ethics*, 1103a33）
 > > 人们通过造房子成为建筑师，通过弹奏里拉琴成为奏琴手；同理，我们通过施行正义的行为变得正义，通过克制的行为变得克制，通过勇敢的行为变得勇敢。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 4)]]
 
-> [!person-thesis] 主张二｜教育传统预设既定阶层边界，将女性与奴隶排除出批判性思维之外
+> [!person-thesis] 主张二｜教育传统预设既定阶层边界，将女性与奴隶排除出[[Critical Thinking|批判性思维]]之外
 > 亚里士多德的教育传统假设社会秩序与阶级边界由统治者设定，认为只有特定男性公民能够成为理性思考者，而将女性与奴隶排除在[[Critical Thinking|批判性思维]]之外，从而在制度上维护既有的阶层与统治秩序。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 4–5)]]
 >
 > > [!thesis-quote] 《政治学》（*Politics*, 1260a30）
@@ -92,7 +101,7 @@ updated: 2026-11-15
 ---
 
 > [!citation-card] [[Joseph Tussman|约瑟夫·图斯曼]]论通识正典的选目武断性与合法性瓦解
-> 在 20 世纪美国高校本科[[General Education|通识教育]]（[[Western Civilization Course|西方文明课程]]）中，亚里士多德与[[Plato|柏拉图]]构成古典思想源头，但在课程实际编订中两者常面临选目取舍冲突。1968 年加州大学伯克利分校哲学系主任[[Joseph Tussman|约瑟夫·图斯曼]]（Joseph Tussman）质疑道：“我们选了柏拉图，为何不选亚里士多德？为何没有更多欧里庇得斯？选了《失乐园》，为何不选但丁？选了密尔，为何不选马克思？”卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）指出，这一编辑技术质疑实质上反映了 1960 年代学术界对西方文明整体概念内部连贯性的深刻怀疑，加速了[[1968 Stanford Western Civ Reform|1968年斯坦福西方文明课程改革]]与全美[[Canon Wars|经典之争]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 88)]]
+> 在 20 世纪美国高校本科[[General Education|通识教育]]（[[Western Civilization Course|西方文明课]]程）中，亚里士多德与[[Plato|柏拉图]]构成古典思想源头，但在课程实际编订中两者常面临选目取舍冲突。1968 年加州大学伯克利分校哲学系主任[[Joseph Tussman|约瑟夫·图斯曼]]（Joseph Tussman）质疑道：“我们选了柏拉图，为何不选亚里士多德？为何没有更多欧里庇得斯？选了《失乐园》，为何不选但丁？选了密尔，为何不选[[Karl Marx|马克思]]？”卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）指出，这一编辑技术质疑实质上反映了 1960 年代学术界对西方文明整体概念内部连贯性的深刻怀疑，加速了[[1968 Stanford Western Civ Reform|1968年斯坦福西方文明课程改革]]与全美[[Canon Wars|经典之争]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 88)]]
 >
 > *We have Plato, but why not Aristotle? Why not more Euripides? Paradise Lost, but why not Dante? John Stuart Mill, but why not Marx?*
 
@@ -102,10 +111,10 @@ updated: 2026-11-15
 > - **理论路径** 确立了目的论伦理学、[[Phronesis|实践智慧]]与[[Habituation|习惯化]]德性教育传统，深刻塑造了西方古典至现代共和主义政治与教育哲学。
 > - **通识课程坐标** 在哥伦比亚、芝加哥、斯坦福等名校“名著课程”（Great Books）与西方文明必修课中作为核心必读文本；在20世纪60年代后成为[[Canon Wars|经典之争]]中反思课程大纲编辑特权与宗派主义的经典案例。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 88)]]
 > - **[[Critical Pedagogy|批判教育学]]反思** 后世[[Critical Pedagogy|批判教育学]]派（如[[John Dewey|杜威]]与[[Paulo Freire|弗莱雷]]）指出，亚里士多德将教育限定于适应既有社会阶层与权威指令，缺乏对社会不公的批判与变革能力（[[Argument_Darwish_2009_Queens|Darwish, 2009, pp. 4–5]]）。
-> - **美学与诗学接受** [[Georg Wilhelm Friedrich Hegel|黑格尔]]在美学讲演中对亚里士多德《诗学》的“卡塔西斯”（Catharsis，净化说）作理性主义解读（将恐惧与怜悯视为非理性情感并归于理念认知），后世[[Karl Rosenkranz|罗森克兰茨]]亦承接《诗学》（1448b）“丑物若经成功模仿亦可生快感”的命题推进[[Aesthetics of Ugliness|丑的美学]]探讨 [[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 94–96, 105)]]。
+> - **[[Philosophical Aesthetics|美学]]与[[Poetics|诗学]]接受** [[Georg Wilhelm Friedrich Hegel|黑格尔]]在美学讲演中对亚里士多德《诗学》的“[[Catharsis|卡塔西斯]]”（Catharsis，净化说）作理性主义解读（将恐惧与怜悯视为非理性情感并归于理念认知），后世[[Karl Rosenkranz|罗森克兰茨]]亦承接《诗学》（1448b）“丑物若经成功[[Mimesis|模仿]]亦可生快感”的命题推进[[Aesthetics of Ugliness|丑的美学]]探讨 [[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 94–96, 105)]]。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp and Zamiska (2025)]] — 以[[Joseph Tussman|图斯曼]]“为何选柏拉图而不选亚里士多德”之问为例，剖析 1960 年代高校通识正典大纲选目的武断性与合法性危机（p. 88）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp and Zamiska (2025)]] — 以图斯曼“为何选柏拉图而不选亚里士多德”之问为例，剖析 1960 年代高校通识正典大纲选目的武断性与合法性危机（p. 88）。
 > - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002, Ch. 5)]] — 分析黑格尔对亚里士多德《诗学》“卡塔西斯”的理性主义诠释（pp. 94–96），以及《诗学》（1448b）模仿论与[[Aesthetics of Ugliness|丑的美学]]之渊源（p. 105）。
 
 ---
