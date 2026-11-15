@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -108,7 +108,7 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — 第 5–6 章析摹仿、[[Aesthetics of Ugliness|丑学]]与叔本华批判；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析反击尼采“恐怖美学”；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]专论《审美的特性》。
 
 ---

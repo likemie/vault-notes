@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-25
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -113,9 +113,9 @@ updated: 2026-11-15
 > - **[[Critical Pedagogy|批判教育学]]反思** 后世[[Critical Pedagogy|批判教育学]]派（如[[John Dewey|杜威]]与[[Paulo Freire|弗莱雷]]）指出，亚里士多德将教育限定于适应既有社会阶层与权威指令，缺乏对社会不公的批判与变革能力（[[Argument_Darwish_2009_Queens|Darwish, 2009, pp. 4–5]]）。
 > - **[[Philosophical Aesthetics|美学]]与[[Poetics|诗学]]接受** [[Georg Wilhelm Friedrich Hegel|黑格尔]]在美学讲演中对亚里士多德《诗学》的“[[Catharsis|卡塔西斯]]”（Catharsis，净化说）作理性主义解读（将恐惧与怜悯视为非理性情感并归于理念认知），后世[[Karl Rosenkranz|罗森克兰茨]]亦承接《诗学》（1448b）“丑物若经成功[[Mimesis|模仿]]亦可生快感”的命题推进[[Aesthetics of Ugliness|丑的美学]]探讨 [[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 94–96, 105)]]。
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp and Zamiska (2025)]] — 以图斯曼“为何选柏拉图而不选亚里士多德”之问为例，剖析 1960 年代高校通识正典大纲选目的武断性与合法性危机（p. 88）。
-> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002, Ch. 5)]] — 分析黑格尔对亚里士多德《诗学》“卡塔西斯”的理性主义诠释（pp. 94–96），以及《诗学》（1448b）模仿论与[[Aesthetics of Ugliness|丑的美学]]之渊源（p. 105）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析黑格尔诠释卡塔西斯与《诗学》丑学渊源（pp. 94–96, 105）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析[[Ernst Cassirer|卡西尔]]与[[Georg Lukács|卢卡奇]]对卡塔西斯及个体摹仿传统的吸纳（pp. 154–156, 163–166）。
 
 ---
 

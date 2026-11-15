@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -85,7 +85,7 @@ updated: 2026-11-15
 > - **对[[Sturm und Drang|狂飙突进运动]]的影响** 哈曼出于宗教动机反对过度推崇抽象理性，其对感官、激情与诗意表达的辩护直接滋养了狂飙突进运动一代青年作家与赫尔德（[[Johann Gottfried von Herder]]）的早期诗学。
 > - **对德国早期浪漫派的开启** 他将艺术作为获取理性无法企及的认知洞见的通道，直接影响了施莱尔马赫（Friedrich Schleiermacher）、谢林（[[Friedrich Wilhelm Joseph Schelling]]）、[[Novalis|诺瓦利斯]]（Novalis）与[[Friedrich Schlegel|弗里德里希·施莱格尔]]（Friedrich Schlegel），成为德国浪漫派艺术认识论的重要前史坐标。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 63–64)]]
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — 将哈曼《核桃壳里的美学》（1762）定位为浪漫派“艺术作为认知媒介”立场早于 35 年的思想先驱，梳理其对狂飙突进运动与早期浪漫派的延续性影响（pp. 63–64）。
 
 ---

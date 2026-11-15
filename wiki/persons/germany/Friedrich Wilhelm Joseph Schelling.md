@@ -60,7 +60,7 @@ related_facts:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -108,7 +108,7 @@ updated: 2026-11-15
 > - **理论路径** 翻转[[Immanuel Kant|康德]]（Immanuel Kant）“[[Natural Beauty|自然美]]高于艺术美”的等级秩序，主张艺术美才是评判自然美的原则与规范，直接启发[[Karl Wilhelm Ferdinand Solger|索尔格]]（Karl Wilhelm Ferdinand Solger）的艺术[[Philosophical Aesthetics|美学]]；其中期将理念与感性光辉结合的观点则先声夺人地指向黑格尔“美是理念的感性显现”之界定，而其新柏拉图主义“完善瞬间”理论亦呼应詹姆斯·乔伊斯（James Joyce）、弗吉尼亚·伍尔夫（Virginia Woolf）与马塞尔·普鲁斯特（Marcel Proust）等现代主义诗学。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 73, 79)]]
 > - **跨领域传播** 将艺术确立为先于并奠基科学真理的世界揭示活动，在思想史上直接开启了马丁·海德格尔（Martin Heidegger）“艺术作为真理之敞开”的理论与[[Theodor Adorno|西奥多·阿多诺]]（Theodor W. Adorno）、马克斯·霍克海默（Max Horkheimer）对“工具理性”的激进批判。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 66, 85–86)]]
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — 阐述谢林从《先验唯心论体系》将艺术奉为哲学顶石到《艺术哲学》转向新柏拉图主义的演进轨迹，并评估其[[Epistemology|认识论]]中心主义美学对海德格尔与阿多诺的深远影响。
 
 ---

@@ -36,7 +36,7 @@ related_arguments: []
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -90,7 +90,7 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Hammermeister_2002_Cambridge_Ch08|Hammermeister (2002)]] — 第 8 章剖析其随笔式美学中的感性与艺术作品张力、反艺术转向回调及对正统马克思主义的修正（pp. 162–163, 169–172）。
 
 ---

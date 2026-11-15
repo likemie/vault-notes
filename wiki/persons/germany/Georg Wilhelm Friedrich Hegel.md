@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-12
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -133,9 +133,9 @@ updated: 2026-11-15
 > - **抵御量化还原论的哲学防线** 当代欧陆教育哲学学者（如 Larsen, 2019）在反思[[Positivism|实证主义]]评价时，重新激活包含黑格尔在内的德意志[[Geisteswissenschaften|精神科学]]教化传统，以此阐释教育生成中不可度量的历时深度，抵御将学习缩减为短期可见指标的技术主义倾向。
 > - **艺术史学科与现代[[End of Art|艺术终结论]]** 将内容美学与历史发展观念结合，为 19 世纪人文学科中的艺术史建立提供方法范式，并经由[[Hans-Georg Gadamer|伽达默尔]]、[[Arthur Danto|阿瑟·丹托]]与[[Karl Rosenkranz|罗森克兰茨]]延展为现代[[Aesthetic Autonomy|艺术自主性]]论辩与[[Aesthetics of Ugliness|丑学]]传统。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 88–89, 102–108)]]
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Cole_2005_JRIE|Cole (2005)]] — 批判主导当代国际课程的“黑格尔式教化”，指责其以理性规训压抑主观情感，将学习还原为服务于市场与国家契约的工具性阶梯。
-> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]与[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]剖析其反转浪漫派等级、确立[[Hegel's Aesthetics|黑格尔美学]]、[[Absolute Spirit|绝对精神]]与[[End of Art|艺术终结论]]（pp. 84–108）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch04|第 4]]–[[Argument_Hammermeister_2002_Cambridge_Ch05|5 章]]析浪漫派等级反转与[[Hegel's Aesthetics|黑格尔美学]]（pp. 84–108）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析[[Georg Lukács|卢卡奇]]黑格尔转向与异化扬弃（pp. 158–165）。
 
 ---
 

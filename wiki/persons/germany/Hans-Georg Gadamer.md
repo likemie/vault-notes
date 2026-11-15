@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -69,7 +69,7 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002, Ch. 5)]] — 梳理伽达默尔“一切艺术的本质同时性”、哲学诠释学对话原则及“艺术作为艺术的解放”对黑格尔美学的承接与当代转化（pp. 89, 97, 103, 105）。
 
 ---

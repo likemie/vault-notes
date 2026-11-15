@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -67,5 +67,5 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002, Ch. 5)]]：引用《政治经济学批判大纲》论述马克思对希腊艺术超越社会发展形式、持久成为审美范式的承认（p. 89）。
+> [!evidence-grid] 相关研究索引
+> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析希腊艺术超历史范式（p. 89）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析新马克思主义美学重塑席勒与黑格尔遗产（pp. 158–160, 169）。

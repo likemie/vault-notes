@@ -40,7 +40,7 @@ related_arguments: []
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -100,7 +100,7 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Hammermeister_2002_Cambridge_Ch08|Hammermeister (2002)]] — 第 8 章分析其新康德主义美学、符号动物奠基、现实强化论与非历史局限（pp. 153–158）。
 
 ---

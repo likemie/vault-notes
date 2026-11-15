@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -71,8 +71,8 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002, Ch. 5)]] — 记录阿多诺在摹仿论重修、浪漫派音乐定性以及“现代艺术之美从丑中产生”三方面对黑格尔学派美学的反转（pp. 96, 106–107）。
+> [!evidence-grid] 相关研究索引
+> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析摹仿重修与美丑反转（pp. 96, 106–107）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析对卢卡奇“强制和解”批评及与[[Herbert Marcuse|马尔库塞]]共识（pp. 168, 171–172）。
 
 ---
 
