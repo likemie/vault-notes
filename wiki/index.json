@@ -4772,6 +4772,15 @@
     ]
   },
   {
+    "title": "Bad Infinity",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Bad Infinity.md",
+    "aliases": [
+      "恶无限",
+      "Schlechte Unendlichkeit"
+    ]
+  },
+  {
     "title": "Banality of Evil",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Banality of Evil.md",
@@ -5860,6 +5869,15 @@
     ]
   },
   {
+    "title": "Objective Spirit",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Objective Spirit.md",
+    "aliases": [
+      "客观精神",
+      "Objektiver Geist"
+    ]
+  },
+  {
     "title": "Objectivism",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Objectivism.md",
@@ -5937,6 +5955,16 @@
     ]
   },
   {
+    "title": "Philosophical Hermeneutics",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Philosophical Hermeneutics.md",
+    "aliases": [
+      "哲学诠释学",
+      "哲学解释学",
+      "Hermeneutics"
+    ]
+  },
+  {
     "title": "Phronesis",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Phronesis.md",
@@ -5955,6 +5983,15 @@
     "aliases": [
       "游戏冲动",
       "Spieltrieb"
+    ]
+  },
+  {
+    "title": "Poetics",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Poetics.md",
+    "aliases": [
+      "诗学",
+      "诗论"
     ]
   },
   {
@@ -6278,6 +6315,15 @@
     "path": "wiki/concepts/educational-philosophy/Structural Coupling.md",
     "aliases": [
       "结构耦合"
+    ]
+  },
+  {
+    "title": "Subjective Spirit",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Subjective Spirit.md",
+    "aliases": [
+      "主观精神",
+      "Subjektiver Geist"
     ]
   },
   {
@@ -30910,6 +30956,16 @@
     ]
   },
   {
+    "title": "Charles Taylor",
+    "type": "person",
+    "path": "wiki/persons/canada/Charles Taylor.md",
+    "aliases": [
+      "查尔斯·泰勒",
+      "泰勒",
+      "Taylor, C."
+    ]
+  },
+  {
     "title": "Christopher Martin",
     "type": "person",
     "path": "wiki/persons/canada/Christopher Martin.md",
@@ -32237,6 +32293,16 @@
     ]
   },
   {
+    "title": "Johann Joachim Winckelmann",
+    "type": "person",
+    "path": "wiki/persons/germany/Johann Joachim Winckelmann.md",
+    "aliases": [
+      "约翰·约阿希姆·温克尔曼",
+      "温克尔曼",
+      "Winckelmann, J. J."
+    ]
+  },
+  {
     "title": "Johann Wilhelm Süvern",
     "type": "person",
     "path": "wiki/persons/germany/Johann Wilhelm Süvern.md",
@@ -32267,6 +32333,16 @@
       "哈贝马斯",
       "J. Habermas",
       "Habermas, J."
+    ]
+  },
+  {
+    "title": "Karl Marx",
+    "type": "person",
+    "path": "wiki/persons/germany/Karl Marx.md",
+    "aliases": [
+      "卡尔·马克思",
+      "马克思",
+      "Marx, K."
     ]
   },
   {
@@ -32621,6 +32697,15 @@
     ]
   },
   {
+    "title": "Plotinus",
+    "type": "person",
+    "path": "wiki/persons/global/Plotinus.md",
+    "aliases": [
+      "普罗提诺",
+      "普罗丁"
+    ]
+  },
+  {
     "title": "Wadi Haddad",
     "type": "person",
     "path": "wiki/persons/global/Wadi Haddad.md",
@@ -32856,6 +32941,16 @@
       "弗兰科·莫雷蒂",
       "莫雷蒂",
       "Moretti, F."
+    ]
+  },
+  {
+    "title": "Giambattista Vico",
+    "type": "person",
+    "path": "wiki/persons/italy/Giambattista Vico.md",
+    "aliases": [
+      "乔万尼·维科",
+      "维科",
+      "Vico, G."
     ]
   },
   {

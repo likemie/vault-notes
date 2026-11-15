@@ -8930,6 +8930,8 @@
     "Gerber & Cheung, 2008": "Gerber & Cheung, 2008",
     "Gerhard Lehmbruch (1982)": "Gerhard Lehmbruch, 1982",
     "Gerhard Lehmbruch, 1982": "Gerhard Lehmbruch, 1982",
+    "Gerhard vom Hofe (1982)": "Gerhard vom Hofe, 1982",
+    "Gerhard vom Hofe, 1982": "Gerhard vom Hofe, 1982",
     "Gerick & Tulowitzki (2019)": "Gerick & Tulowitzki, 2019",
     "Gerick & Tulowitzki, 2019": "Gerick & Tulowitzki, 2019",
     "German philosopher Honneth (1996)": "German philosopher Honneth, 1996",
@@ -10694,10 +10696,14 @@
     "Heft & Scharff, 2017": "Heft & Scharff, 2017",
     "Hefter et al. (2015)": "Hefter et al., 2015",
     "Hefter et al., 2015": "Hefter et al., 2015",
+    "Heftrich (1991)": "Heftrich, 1991",
+    "Heftrich, 1991": "Heftrich, 1991",
     "Heid (2003)": "Heid, 2003",
     "Heid, 2003": "Heid, 2003",
     "Heidegger (1927)": "Heidegger, 1927",
+    "Heidegger (1996)": "Heidegger, 1996",
     "Heidegger, 1927": "Heidegger, 1927",
+    "Heidegger, 1996": "Heidegger, 1996",
     "Heidlage et al. (2020)": "Heidlage et al., 2020",
     "Heidlage et al., 2020": "Heidlage et al., 2020",
     "Heindl (2019)": "Heindl, 2019",
@@ -15869,8 +15875,6 @@
     "Martens, 2007": "Martens, 2007",
     "Martha Feldman (1989)": "Martha Feldman, 1989",
     "Martha Feldman, 1989": "Martha Feldman, 1989",
-    "Martha Nussbaum (1998)": "Martha Nussbaum, 1998",
-    "Martha Nussbaum, 1998": "Martha Nussbaum, 1998",
     "Martin & Balla (1991)": "Martin & Balla, 1991",
     "Martin & Balla, 1991": "Martin & Balla, 1991",
     "Martin & Vallance (2008)": "Martin & Vallance, 2008",
@@ -18076,11 +18080,13 @@
     "Nusche (2016)": "Nusche, 2016",
     "Nusche, 2016": "Nusche, 2016",
     "Nussbaum (1994)": "Nussbaum, 1994",
+    "Nussbaum (1998)": "Nussbaum, 1998",
     "Nussbaum (2000)": "Nussbaum, 2000",
     "Nussbaum (2013)": "Nussbaum, 2013",
     "Nussbaum et al. (2008)": "Nussbaum et al., 2008",
     "Nussbaum et al., 2008": "Nussbaum et al., 2008",
     "Nussbaum, 1994": "Nussbaum, 1994",
+    "Nussbaum, 1998": "Nussbaum, 1998",
     "Nussbaum, 2000": "Nussbaum, 2000",
     "Nussbaum, 2013": "Nussbaum, 2013",
     "Nuthall (2007)": "Nuthall, 2007",
@@ -27569,9 +27575,7 @@
     "哈蒂与齐勒 (2017)": "哈蒂与齐勒, 2017",
     "哈蒂与齐勒, 2017": "哈蒂与齐勒, 2017",
     "哈贝马斯 (1972)": "哈贝马斯, 1972",
-    "哈贝马斯 (1985)": "哈贝马斯, 1985",
     "哈贝马斯, 1972": "哈贝马斯, 1972",
-    "哈贝马斯, 1985": "哈贝马斯, 1985",
     "哲学学士 (1951)": "哲学学士, 1951",
     "哲学学士, 1951": "哲学学士, 1951",
     "哲学硕士与博士 (1955)": "哲学硕士与博士, 1955",
@@ -27856,8 +27860,6 @@
     "波特, 1990": "波特, 1990",
     "海克纳 (1985)": "海克纳, 1985",
     "海克纳, 1985": "海克纳, 1985",
-    "海德格尔 (1996)": "海德格尔, 1996",
-    "海德格尔, 1996": "海德格尔, 1996",
     "潘洪建 (2018)": "潘洪建, 2018",
     "潘洪建, 2018": "潘洪建, 2018",
     "澳大利亚 (2005)": "澳大利亚, 2005",
@@ -93379,6 +93381,21 @@
       ],
       "title": ""
     },
+    "Gerhard vom Hofe, 1982": {
+      "aliases": [
+        "Gerhard vom Hofe, 1982",
+        "Gerhard vom Hofe (1982)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Gerhard vom Hofe, 1982"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md"
+      ],
+      "title": ""
+    },
     "Gerick & Tulowitzki, 2019": {
       "aliases": [
         "Gerick & Tulowitzki, 2019",
@@ -103261,7 +103278,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md"
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md",
+        "wiki/concepts/educational-philosophy/Philosophical Hermeneutics.md"
       ],
       "title": ""
     },
@@ -106451,6 +106469,21 @@
       ],
       "title": ""
     },
+    "Heftrich, 1991": {
+      "aliases": [
+        "Heftrich, 1991",
+        "Heftrich (1991)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Heftrich, 1991"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md"
+      ],
+      "title": ""
+    },
     "Heid, 2003": {
       "aliases": [
         "Heid, 2003",
@@ -106480,6 +106513,22 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-philosophy/Epoché.md"
+      ],
+      "title": ""
+    },
+    "Heidegger, 1996": {
+      "aliases": [
+        "Heidegger, 1996",
+        "Heidegger (1996)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Heidegger, 1996"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md",
+        "wiki/concepts/epistemology/Perspectivism.md"
       ],
       "title": ""
     },
@@ -119557,7 +119606,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md",
-        "wiki/concepts/epistemology/Perspectivism.md"
+        "wiki/concepts/epistemology/Perspectivism.md",
+        "wiki/theories/educational-philosophy/Nietzsche's Aesthetics.md"
       ],
       "title": ""
     },
@@ -143693,21 +143743,6 @@
       ],
       "title": ""
     },
-    "Martha Nussbaum, 1998": {
-      "aliases": [
-        "Martha Nussbaum, 1998",
-        "Martha Nussbaum (1998)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Martha Nussbaum, 1998"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md"
-      ],
-      "title": ""
-    },
     "Martin & Balla, 1991": {
       "aliases": [
         "Martin & Balla, 1991",
@@ -159794,6 +159829,21 @@
         "wiki/persons/us/Martha Nussbaum.md",
         "wiki/theories/educational-policy-reform/Pluralism.md",
         "wiki/theories/political-economy-geopolitics/Imagined Community.md"
+      ],
+      "title": ""
+    },
+    "Nussbaum, 1998": {
+      "aliases": [
+        "Nussbaum, 1998",
+        "Nussbaum (1998)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Nussbaum, 1998"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md"
       ],
       "title": ""
     },
@@ -203361,7 +203411,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md",
-        "wiki/concepts/educational-philosophy/Mimesis.md"
+        "wiki/concepts/educational-philosophy/Mimesis.md",
+        "wiki/persons/canada/Charles Taylor.md"
       ],
       "title": ""
     },
@@ -228505,21 +228556,6 @@
       ],
       "title": ""
     },
-    "哈贝马斯, 1985": {
-      "aliases": [
-        "哈贝马斯, 1985",
-        "哈贝马斯 (1985)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "哈贝马斯, 1985"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/educational-philosophy/Nietzsche's Aesthetics.md"
-      ],
-      "title": ""
-    },
     "哲学学士, 1951": {
       "aliases": [
         "哲学学士, 1951",
@@ -230623,22 +230659,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/educational-philosophy/Phenomenology.md"
-      ],
-      "title": ""
-    },
-    "海德格尔, 1996": {
-      "aliases": [
-        "海德格尔, 1996",
-        "海德格尔 (1996)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "海德格尔, 1996"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md",
-        "wiki/concepts/epistemology/Perspectivism.md"
       ],
       "title": ""
     },
