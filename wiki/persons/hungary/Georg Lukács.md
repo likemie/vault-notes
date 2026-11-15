@@ -10,10 +10,10 @@ cssclasses:
   - person-page
 nationality: hungary
 person_region: "hungary"
-person_related_count: 11
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 21
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1885"
 died: "1971"
 lifespan: "1885–1971"
@@ -25,6 +25,10 @@ tags:
 related_concepts:
   - "[[Philosophical Aesthetics]]"
   - "[[Mimesis]]"
+  - "[[Aesthetic Education]]"
+  - "[[Aestheticism]]"
+  - "[[Catharsis]]"
+  - "[[Alienation]]"
   - "[[Aesthetics of Ugliness]]"
 related_theories:
   - "[[Hegel's Aesthetics]]"
@@ -32,10 +36,16 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Immanuel Kant]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
+  - "[[Friedrich Schiller]]"
+  - "[[Friedrich Nietzsche]]"
   - "[[Aristotle]]"
+  - "[[Max Weber]]"
+  - "[[Søren Kierkegaard]]"
   - "[[Arthur Schopenhauer]]"
   - "[[Theodor Adorno]]"
+  - "[[Walter Benjamin]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch05]]"
@@ -49,26 +59,46 @@ updated: 2026-11-15
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 20 世纪匈牙利马克思主义哲学家与文学理论家。
-> - **核心角色** 在 20 世纪[[Philosophical Aesthetics|美学]]中从现实主义立场出发反驳[[Georg Wilhelm Friedrich Hegel|黑格尔]]（Georg Wilhelm Friedrich Hegel）对[[Mimesis|摹仿]]论的全面拒斥，同时在 19 至 20 世纪[[Aesthetics of Ugliness|丑学]]讨论中延续相关思考。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 96, 106)]]
-> - **代表贡献** 论证现实主义艺术与摹仿在美学中的必要性，并与黑格尔共享“艺术呈现高于既有日常现实的真实”这一正面判断。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 96)]]
+> - **身份位置** 20 世纪匈牙利马克思主义哲学家与文学理论家，早期受新[[Immanuel Kant|康德]]主义与生命哲学影响，1918 年加入匈牙利共产党后转向历史与辩证唯物论。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 153, 160)]]
+> - **核心角色** 在 20 世纪[[Philosophical Aesthetics|美学]]中从社会历史与现实主义立场反驳[[Georg Wilhelm Friedrich Hegel|黑格尔]]（Georg Wilhelm Friedrich Hegel）对[[Mimesis|摹仿]]论的拒斥，同时从[[Friedrich Schiller|席勒]]（Friedrich Schiller）式的异化批判与[[Aesthetic Education|审美教育]]出发挑战新康德主义与[[Friedrich Nietzsche|尼采]]的[[Aestheticism|唯美主义]]。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 96, 106)]][[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 158–160)]]
+> - **代表贡献** 建立以[[Mimesis|摹仿]]、[[Typicality|典型性]]（*Besonderheit*）、党性（*Parteilichkeit*）及“完整的人”向“人的完整”转化为核心的[[Lukács's Aesthetics|卢卡奇美学]]，并持续推进艺术中丑的哲学讨论。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 106)]][[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 163–166)]]
+
+---
+
+> [!thought-timeline] 思想发展
+> - **1908–1918 — 浪漫反资本主义与新康德主义阶段** 反对商业化的资产阶级生活，追寻本真存在与形式对孤独的克服；融合生命哲学、康德审美主观主义与齐美尔的“生命—形式”对立。
+>   - **代表著作** 《现代戏剧发展史》（1908）、《心灵与形式》（1911）、《审美文化》（1912）、《艺术哲学》（1912–1914，未竟）、《海德堡美学》（1916–1918，未竟）。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 160–161)]]
+>   - **阶段转向** 1916 年后逐渐褪去生命哲学色彩并从康德转向黑格尔，直至 1918 年皈依共产主义。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 160, 162)]]
+> - **1916–1920 — 黑格尔主义过渡阶段** 以《小说理论》（1916–1920）为标志，黑格尔此后始终作为其美学思考的恒常参照。
+> - **1930s–1963 — 马克思主义现实主义与体系美学阶段** 透过 19 世纪文学现实主义发展马克思主义美学，最终在《审美的特性》（1963）中以历史唯物论与现实主义摹仿论集大成。
+>   - **代表著作** 《现实主义事关重大》（1936）、《美学史论稿》（1954）、《艺术与客观真理》（1954）、《论作为美学范畴的典型性》（1957）、《反对被误解的现实主义》（1958）及《审美的特性》（1963）。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, p. 160)]]
 
 ---
 
 > [!claim] 核心思想（基于[[Hegel's Aesthetics|黑格尔美学]]对话部分）
 > 卢卡奇反对黑格尔把[[Mimesis|摹仿]]排除在美学之外的做法，坚持现实主义艺术与摹仿范畴在美学中的必要性。不过，哈默迈斯特指出，尽管卢卡奇与黑格尔在“是否保留摹仿”上立场相反，但双方（连同[[Aristotle|亚里士多德]]）在正面结论上其实高度一致：艺术超越了平庸现实的简单复制，呈现出高于既有日常现实的真实。此外，在 19 至 20 世纪的美学史上，卢卡奇也持续讨论了“丑”在艺术中的地位。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 96, 106)]]
 
+> [!person-thesis] 主张一｜艺术通过典型性与理性卡塔西斯克服日常异化，将“完整的人”转化为“人的完整”
+> 在《审美的特性》中，卢卡奇区分了去人类中心化的科学摹仿与不可分离地融合现象和本质的艺术摹仿，主张唯有借助[[Typicality|典型性]]（个别与普遍的统一）与党性（*Parteilichkeit*）的现实主义艺术能揭示历史客观趋势。受莱辛（Gotthold Ephraim Lessing）式[[Catharsis|卡塔西斯]]启发，他认为伟大艺术打破[[Alienation|异化]]的日常经验，使人经历理性的震动与道德皈依（*Umkehr*），进而更新日常认知与兴趣。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 163–166)]]
+>
+> > [!thesis-quote] 《审美的特性》（1963）
+> > 艺术作品闯入接受者的心灵生活，征服他看待世界的寻常方式，将一个新的“世界”加诸于他，用新的或重新感知到的内容充实他，而正是这一切促使他以更新了的、焕发活力的感官和认知方式去吸收这个“世界”。完整的人向人的完整这一转化，引发了其心灵在事实与形式上、现实与潜能上的拓宽与丰富。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, p. 165)]]
+> >
+> > *The artwork breaks into the life of the soul of the recipient, subjugates his ordinary way of looking at the world, forces a new “world” upon him, fills him with new or newly perceived contents, and precisely all this causes him to absorb this “world” with renewed, with rejuvenated sense organs and modes of cognition. The transformation of complete man into whole man gives rise to a factual and formal, actual and potential broadening and enriching of his psyche.*
+
 ---
 
 > [!person-network] 关系网络
+> - **师承与同代影响** 格奥尔格·齐美尔（Georg Simmel）与[[Max Weber|马克斯·韦伯]]（Max Weber） — 齐美尔“异质生命与同质形式”的对立奠定了《心灵与形式》的基本张力；韦伯的现代世界“祛魅”诊断及“专家与唯美主义者”之分深刻影响了卢卡奇的现代性批判。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, p. 161)]]
+> - **思想先驱** [[Søren Kierkegaard|索伦·克尔凯郭尔]]（Søren Kierkegaard）与[[Friedrich Schiller|席勒]] — 卢卡奇先于海德格尔重新发现克尔凯郭尔以反抗市民商业生活；晚期则吸纳席勒的人道主义理想与[[Aesthetic Education|美育]]构想，却批评席勒以美育取代革命而滑向资产阶级辩护。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 159, 161, 166)]]
 > - **辩论对象** [[Georg Wilhelm Friedrich Hegel|黑格尔]] — 卢卡奇反对黑格尔拒斥摹仿，但在“艺术呈现高于日常现实的真实”上与之相通。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 96)]]
 > - **批判对象** [[Arthur Schopenhauer|阿图尔·叔本华]]（Arthur Schopenhauer） — 在《理性的毁灭》中批判叔本华哲学与美学的非理性主义倾向及其政治社会后果。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 127, 231 n.5)]]
-> - **同代参照** [[Theodor Adorno|西奥多·阿多诺]] — 同样在 20 世纪美学中围绕摹仿论与丑的问题回应黑格尔传统。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 96, 106)]]
+> - **同代参照与争论** [[Theodor Adorno|西奥多·阿多诺]]、贝尔托·布莱希特（Bertolt Brecht）、[[Walter Benjamin|瓦尔特·本雅明]]（Walter Benjamin）、恩斯特·布洛赫（Ernst Bloch）与[[Herbert Marcuse|赫伯特·马尔库塞]]（Herbert Marcuse） — 在表现主义论战及战后美学中，上述学者普遍反对卢卡奇将现代主义简单斥为“颓废”并强求社会主义现实主义“强制和解”的做法。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 96, 106)]][[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 167–168, 171)]]
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析其与黑格尔的摹仿与丑学对话（pp. 96, 106）；[[Argument_Hammermeister_2002_Cambridge_Ch06|第 6 章]]引《理性的毁灭》定位叔本华非理性主义（p. 231 n.5）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析其摹仿与丑学；[[Argument_Hammermeister_2002_Cambridge_Ch06|第 6 章]]引《理性的毁灭》；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]专论其早期转向与《审美的特性》体系（pp. 158–169）。
 
 ---
 
@@ -76,7 +106,11 @@ updated: 2026-11-15
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Mimesis]] | 概念 | 卢卡奇从现实主义立场捍卫摹仿对美学的重要性，反驳黑格尔 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 96)]]。 |
+> | [[Mimesis]] | 概念 | 卢卡奇从现实主义立场捍卫摹仿对美学的重要性，反驳黑格尔并区分艺术摹仿与科学摹仿 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 96)]][[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 163–164)]]。 |
 > | [[Aesthetics of Ugliness]] | 概念 | 卢卡奇在 20 世纪美学哲学中继续推进对“丑”的讨论 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 106)]]。 |
+> | [[Typicality]] | 概念 | 卢卡奇美学用以统一特殊与普遍、区分现实主义与自然主义及现代主义的核心范畴 [[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 163–164, 167)]]。 |
+> | [[Catharsis]] | 概念 | 卢卡奇经由莱辛重释亚里士多德，将卡塔西斯界定为引导日常伦理转化的理性震动 [[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 165–166)]]。 |
+> | [[Alienation]] | 概念 | 卢卡奇将艺术视作高于资本主义异化劳动的创造实践，借以克服人与历史及自身的疏离 [[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 164–165)]]。 |
 > | [[Hegel's Aesthetics]] | 理论 | 与黑格尔在摹仿问题上针锋相对，但在艺术超越日常现实上共识相通 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 96)]]。 |
 > | [[Schopenhauer's Aesthetics]] | 理论 | 卢卡奇在《理性的毁灭》中批判其非理性主义与避世转向 [[Argument_Hammermeister_2002_Cambridge_Ch06\|(Hammermeister, 2002, pp. 127, 231 n.5)]]。 |
+> | [[Lukács's Aesthetics]] | 理论 | 涵盖其从早期浪漫反资本主义到 1963 年《审美的特性》的完整美学理论体系 [[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 158–169)]]。 |

@@ -5,6 +5,18 @@
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
     },
     {
+      "basename": "Principium Individuationis",
+      "path": "wiki/concepts/educational-philosophy/Principium Individuationis.md"
+    },
+    {
+      "basename": "template-argument",
+      "path": "wiki/templates/template-argument.md"
+    },
+    {
+      "basename": "Principle of Sufficient Reason",
+      "path": "wiki/concepts/educational-philosophy/Principle of Sufficient Reason.md"
+    },
+    {
       "basename": "Argument_Hammermeister_2002_Cambridge_Ch05",
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Argument_Hammermeister_2002_Cambridge_Ch04",
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch04.md"
-    },
-    {
-      "basename": "template-argument",
-      "path": "wiki/templates/template-argument.md"
     },
     {
       "basename": "template-person",
@@ -191,14 +199,6 @@
     {
       "basename": "Argument_Anderson_2016_Verso_Ch06",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch06.md"
-    },
-    {
-      "basename": "Argument_Anderson_2016_Verso_Ch07",
-      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch07.md"
-    },
-    {
-      "basename": "Argument_Anderson_2016_Verso_Ch08",
-      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch08.md"
     }
   ],
   "omittedPaths": [],

@@ -8,16 +8,26 @@ aliases:
 summary: "根据哲学本体论或认知官能对各艺术门类进行的系统排序。叔本华以意志客体化等级为尺度将艺术由建筑排列至悲剧，并把直接表达意志本身的音乐置于最高位，从而反转了康德《判断力批判》第54节将音乐置于末位的排序。"
 type: concept
 domain: "educational-philosophy"
+related_count: 6
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - field/educational-philosophy
   - theme/aesthetics
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Philosophy of Tragedy]]"
+  - "[[Kunstformen]]"
+related_theories:
+  - "[[Schopenhauer's Aesthetics]]"
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Arthur Schopenhauer]]"
+  - "[[Immanuel Kant]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch06]]"
 confidence: high
 status: draft
 created: 2026-11-15
@@ -44,7 +54,7 @@ updated: 2026-11-15
 > [!feature] 叔本华艺术等级体系的序列结构
 > - **无机底层与植物界** 建筑对应意志客体化的最低层级，负责清晰表现石块的沉重、内聚、刚性与硬度；园林艺术与风景画则分别在实物层面与表象层面呈现植物界之美。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 123–124)]]
 > - **动物界与人类生活领域** 动物画作为独立门类对应动物界；历史画与雕塑进入人类生活领域，展现作为意志完美客体化的人类之美；肖像画则从普遍的人类描绘转向个体再现。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, p. 124)]]
-> - **话语艺术巅峰与音乐例外** 诗歌作为话语艺术在[[Philosophy of Tragedy|悲剧]]中达到一切再现艺术的顶点；居于全序列顶端的音乐则超出再现艺术之外，不再以理念为中介，而是直接作为意志的化身（embodied will）。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, p. 124)]]
+> - **话语艺术巅峰与音乐例外** 诗歌作为话语艺术在[[Philosophy of Tragedy|悲剧]]中达到一切再现艺术的顶点；居于全序列顶端的音乐则超出再现艺术之外，跳过理念中介，直接作为意志的化身（embodied will）。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, p. 124)]]
 
 ---
 

@@ -207,8 +207,10 @@
     "Adams & Farrell, 1967": "Adams & Farrell, 1967",
     "Adams & Titler (2013)": "Adams & Titler, 2013",
     "Adams & Titler, 2013": "Adams & Titler, 2013",
+    "Adams (1983)": "Adams, 1983",
     "Adams (2009)": "Adams, 2009",
     "Adams (2013)": "Adams, 2013",
+    "Adams, 1983": "Adams, 1983",
     "Adams, 2009": "Adams, 2009",
     "Adams, 2013": "Adams, 2013",
     "Adamson (1972)": "Adamson, 1972",
@@ -268,8 +270,10 @@
     "Adolfsson (2018)": "Adolfsson, 2018",
     "Adolfsson, 2018": "Adolfsson, 2018",
     "Adorno (1962)": "Adorno, 1962",
+    "Adorno (1977)": "Adorno, 1977",
     "Adorno (1997)": "Adorno, 1997",
     "Adorno, 1962": "Adorno, 1962",
+    "Adorno, 1977": "Adorno, 1977",
     "Adorno, 1997": "Adorno, 1997",
     "Aeon et al. (2021)": "Aeon et al., 2021",
     "Aeon et al., 2021": "Aeon et al., 2021",
@@ -3501,7 +3505,9 @@
     "Bubeck et al., 2023": "Bubeck et al., 2023",
     "Bubis (1998)": "Bubis, 1998",
     "Bubis, 1998": "Bubis, 1998",
+    "Bubner (1973)": "Bubner, 1973",
     "Bubner (1995)": "Bubner, 1995",
+    "Bubner, 1973": "Bubner, 1973",
     "Bubner, 1995": "Bubner, 1995",
     "Buch & Wetzel (2001)": "Buch & Wetzel, 2001",
     "Buch & Wetzel, 2001": "Buch & Wetzel, 2001",
@@ -4192,7 +4198,9 @@
     "Cassil, 2005": "Cassil, 2005",
     "Cassinadri (2024)": "Cassinadri, 2024",
     "Cassinadri, 2024": "Cassinadri, 2024",
+    "Cassirer (1944)": "Cassirer, 1944",
     "Cassirer (1981)": "Cassirer, 1981",
+    "Cassirer, 1944": "Cassirer, 1944",
     "Cassirer, 1981": "Cassirer, 1981",
     "Castellacci (2008)": "Castellacci, 2008",
     "Castellacci, 2008": "Castellacci, 2008",
@@ -15297,7 +15305,9 @@
     "Luiten et al. (1980)": "Luiten et al., 1980",
     "Luiten et al., 1980": "Luiten et al., 1980",
     "Lukács (1920)": "Lukács, 1920",
+    "Lukács (1963)": "Lukács, 1963",
     "Lukács, 1920": "Lukács, 1920",
+    "Lukács, 1963": "Lukács, 1963",
     "Lumby & English (2009)": "Lumby & English, 2009",
     "Lumby & English, 2009": "Lumby & English, 2009",
     "Lumpe (1995)": "Lumpe, 1995",
@@ -27862,6 +27872,8 @@
     "波特, 1990": "波特, 1990",
     "海克纳 (1985)": "海克纳, 1985",
     "海克纳, 1985": "海克纳, 1985",
+    "海德格尔 (1936)": "海德格尔, 1936",
+    "海德格尔, 1936": "海德格尔, 1936",
     "潘洪建 (2018)": "潘洪建, 2018",
     "潘洪建, 2018": "潘洪建, 2018",
     "澳大利亚 (2005)": "澳大利亚, 2005",
@@ -28067,6 +28079,8 @@
     "里兹维与林加德, 2009": "里兹维与林加德, 2009",
     "闵尊涛等 (2018)": "闵尊涛等, 2018",
     "闵尊涛等, 2018": "闵尊涛等, 2018",
+    "阿多诺 (1970)": "阿多诺, 1970",
+    "阿多诺, 1970": "阿多诺, 1970",
     "阿德科亚 (2023)": "阿德科亚, 2023",
     "阿德科亚, 2023": "阿德科亚, 2023",
     "阿施 (1951)": "阿施, 1951",
@@ -28100,6 +28114,8 @@
     "项目, 1980s": "项目, 1980",
     "马奥尼与希伦 (2009)": "马奥尼与希伦, 2009",
     "马奥尼与希伦, 2009": "马奥尼与希伦, 2009",
+    "马尔库塞 (1978)": "马尔库塞, 1978",
+    "马尔库塞, 1978": "马尔库塞, 1978",
     "高谢 (2000)": "高谢, 2000",
     "高谢, 2000": "高谢, 2000",
     "鲁登道夫 (1935)": "鲁登道夫, 1935",
@@ -29604,6 +29620,21 @@
       ],
       "title": ""
     },
+    "Adams, 1983": {
+      "aliases": [
+        "Adams, 1983",
+        "Adams (1983)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Adams, 1983"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch08.md"
+      ],
+      "title": ""
+    },
     "Adams, 2009": {
       "aliases": [
         "Adams, 2009",
@@ -30042,6 +30073,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md"
+      ],
+      "title": ""
+    },
+    "Adorno, 1977": {
+      "aliases": [
+        "Adorno, 1977",
+        "Adorno (1977)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Adorno, 1977"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch08.md"
       ],
       "title": ""
     },
@@ -53796,6 +53842,21 @@
       ],
       "title": ""
     },
+    "Bubner, 1973": {
+      "aliases": [
+        "Bubner, 1973",
+        "Bubner (1973)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bubner, 1973"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch08.md"
+      ],
+      "title": ""
+    },
     "Bubner, 1995": {
       "aliases": [
         "Bubner, 1995",
@@ -58951,6 +59012,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-technology/Cognitive Deskilling.md"
+      ],
+      "title": ""
+    },
+    "Cassirer, 1944": {
+      "aliases": [
+        "Cassirer, 1944",
+        "Cassirer (1944)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Cassirer, 1944"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Catharsis.md"
       ],
       "title": ""
     },
@@ -139573,6 +139649,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch04.md"
+      ],
+      "title": ""
+    },
+    "Lukács, 1963": {
+      "aliases": [
+        "Lukács, 1963",
+        "Lukács (1963)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Lukács, 1963"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Catharsis.md"
       ],
       "title": ""
     },
@@ -230682,6 +230773,21 @@
       ],
       "title": ""
     },
+    "海德格尔, 1936": {
+      "aliases": [
+        "海德格尔, 1936",
+        "海德格尔 (1936)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "海德格尔, 1936"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch08.md"
+      ],
+      "title": ""
+    },
     "潘洪建, 2018": {
       "aliases": [
         "潘洪建, 2018",
@@ -232212,6 +232318,21 @@
       ],
       "title": ""
     },
+    "阿多诺, 1970": {
+      "aliases": [
+        "阿多诺, 1970",
+        "阿多诺 (1970)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "阿多诺, 1970"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch08.md"
+      ],
+      "title": ""
+    },
     "阿德科亚, 2023": {
       "aliases": [
         "阿德科亚, 2023",
@@ -232450,6 +232571,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/us/James Mahoney.md"
+      ],
+      "title": ""
+    },
+    "马尔库塞, 1978": {
+      "aliases": [
+        "马尔库塞, 1978",
+        "马尔库塞 (1978)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "马尔库塞, 1978"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch08.md"
       ],
       "title": ""
     },

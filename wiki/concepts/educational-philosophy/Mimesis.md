@@ -60,6 +60,17 @@ updated: 2026-11-15
 
 ---
 
+> [!concept-proposition] 命题二｜20 世纪美学将摹仿重构为审美形式转化或揭示社会历史本质的现实主义认知
+> **超越照相式复制的现代辩护** 面对自然主义复制论的局限，20 世纪美学重新发掘摹仿的建构性与认知潜能，将其界定为形式转化或对社会历史总体的选择性重构。
+>
+> > [!claim] Cassirer, E.
+> > **重释柏拉图与形式转化论** 在《理念与偶像》（*Eidos und Eidolon*）中，[[Ernst Cassirer|恩斯特·卡西尔]]（Ernst Cassirer）修正了对[[Plato|柏拉图]]（Plato）贬低经验世界的传统读法，指出晚期柏拉图在《蒂迈欧篇》中承认世界作为造物主之作是真理的经验显现，并以“比例与尺度”之美中介艺术与真理。由此，卡西尔主张艺术摹仿是依靠审美形式力量完成的“改造与变质转化”，超越了对自然和生活的简单重复。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, p. 157)]]
+>
+> > [!claim] Lukács, G.
+> > **艺术摹仿、典型性与党性原则** 在《审美的特性》（1963）中，卢卡奇构建了系统化的艺术摹仿论，区分“去人类中心化”且分离现象与本质的科学摹仿，以及保持现象与本质感性不可分、以个体命运展现[[Typicality|典型性]]的艺术摹仿。艺术摹仿基于对现实特征的选择与正负评价（即社会主义现实主义的“党性” *Parteilichkeit*），旨在清除现实的疏离与粗糙面向，呈现出批判性的自主真实。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 163–164)]]
+
+---
+
 > [!debates|notitle] 学术争议
 >
 > > [!axis] 黑格尔式反摹仿论与亚里士多德—现代主义摹仿传统之争
@@ -75,10 +86,15 @@ updated: 2026-11-15
 > | 条目 | 类型 | 贡献 |
 > |---|---|---|
 > | [[Aesthetics of Ugliness]] | 概念 | 黑格尔批判摹仿论无法区分美丑，而[[Karl Rosenkranz\|罗森克兰茨]]则重新以“错误再现”定义丑。 |
+> | [[Typicality]] | 概念 | 卢卡奇借助典型性界定艺术摹仿如何超越孤立个别并展现社会与自然的新陈代谢 [[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 163–164)]]。 |
 > | [[Hegel's Aesthetics]] | 理论 | 拒斥摹仿论是黑格尔将艺术定义为“理念的感性显现”的逻辑推论。 |
+> | [[Cassirer's Aesthetics]] | 理论 | 卡西尔重读柏拉图《蒂迈欧篇》，将艺术摹仿界定为审美形式的变质转化 [[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, p. 157)]]。 |
+> | [[Lukács's Aesthetics]] | 理论 | 以艺术摹仿与科学摹仿之分、党性及典型性奠定现实主义美学基础 [[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 163–164, 169)]]。 |
 > | [[Georg Wilhelm Friedrich Hegel]] | 人物 | 提出正确性与真理之分并系统反驳自然主义摹仿论的哲学家。 |
+> | [[Ernst Cassirer]] | 人物 | 修正柏拉图反摹仿定见的新康德主义美学家 [[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, p. 157)]]。 |
+> | [[Georg Lukács]] | 人物 | 发展出作为社会历史认知与批判工具的现实主义摹仿论 [[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 163–164)]]。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — 第 5 章梳理黑格尔反驳摹仿论的三重论证，并对照亚里士多德、卢卡奇与阿多诺的摹仿观（pp. 95–96）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]梳黑格尔反摹仿三重论证（pp. 95–96）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析卡西尔重读柏拉图与卢卡奇艺术摹仿论（pp. 157, 163–164, 169）。

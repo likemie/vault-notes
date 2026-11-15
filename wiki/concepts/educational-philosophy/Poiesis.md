@@ -7,16 +7,25 @@ aliases:
 summary: "源于古希腊哲学的有意识创作与生产概念。在叔本华美学中，只有对柏拉图理念的审美静观本身是无意志的，遵循诗性制作（poiesis）模式的艺术作品执行过程则必须由意志驱动，以寻找最恰当的媒介传达理念。"
 type: concept
 domain: "educational-philosophy"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - field/educational-philosophy
   - theme/aesthetics
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Genius]]"
+  - "[[Phronesis]]"
+related_theories:
+  - "[[Schopenhauer's Aesthetics]]"
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Arthur Schopenhauer]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch06]]"
 confidence: high
 status: draft
 created: 2026-11-15

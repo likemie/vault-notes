@@ -7,17 +7,27 @@ aliases:
 summary: "指宗教的救赎功能在世俗化语境下转移至艺术领域，使艺术为失去宗教慰藉或政治行动力的个体提供姑息性解脱。哈默迈斯特指出，叔本华的个人主义救赎美学使艺术成为1848年后资产阶级的替代性宗教。"
 type: concept
 domain: "educational-philosophy"
+related_count: 6
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - field/educational-philosophy
   - theme/aesthetics
   - theme/ethics
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Aestheticism]]"
+  - "[[Civic Religion]]"
+related_theories:
+  - "[[Schopenhauer's Aesthetics]]"
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Arthur Schopenhauer]]"
+  - "[[Arnold Gehlen]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch06]]"
 confidence: high
 status: draft
 created: 2026-11-15

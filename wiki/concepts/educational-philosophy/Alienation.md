@@ -97,6 +97,9 @@ updated: 2026-11-15
 >
 > > [!claim] Hammermeister, K.
 > > **马克思主义的革命解决路径** 在马克思主义传统（如乔治·[[Georg Lukács|卢卡奇]]、[[Theodor Adorno|西奥多·阿多诺]]与恩斯特·布洛赫）的阐释视野中，克服资本主义异化需要依靠激进的政治与社会革命迈向社会主义；艺术由此卸下直接改造政治的重负，只需作为保持与现实对立、留存未来希望的自律领域。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, pp. 58–59)]]
+>
+> > [!claim] Lukács, G.
+> > **艺术作为克服异化的高级自觉劳动** 在早年《审美文化》（1912）中，卢卡奇已追随[[Max Weber|马克斯·韦伯]]（Max Weber）批判现代社会制造出只知行政的“专家”与退缩自闭的“唯美主义者”，并将伟大艺术视为存储克服异化力量的库藏。在晚年《审美的特性》（1963）中，他进一步将艺术界定为一种更高级、更自觉的劳动形式：资本主义劳动产物因工人无法掌控生产过程和剩余价值而成为异己对象，艺术作品却让主体既经历自我意识进步所需的对象化，又能在作品中实现异化的扬弃（*Aufhebung*），借此克服人与自身及人类历史的疏离。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 161–162, 164–165)]]
 
 ---
 
@@ -127,8 +130,9 @@ updated: 2026-11-15
 > | [[Aesthetic State]] | 概念 | 作为走出异化状态、和平过渡到道德理想国家的审美中介阶段。[[Argument_Hammermeister_2002_Cambridge_Ch03\|(Hammermeister, 2002, pp. 50, 59–60)]] |
 > | [[Play Drive]] | 概念 | 借由游戏冲动协调感性与形式，对抗单一职业分工导致的官能畸形。[[Argument_Hammermeister_2002_Cambridge_Ch03\|(Hammermeister, 2002, pp. 52–53)]] |
 > | [[Critical Theory]] | 理论 | 批判理论家继承其对现代分裂与审美自律之否定潜能的关注，同时转向社会政治变革。[[Argument_Hammermeister_2002_Cambridge_Ch03\|(Hammermeister, 2002, pp. 58–59)]] |
+> | [[Lukács's Aesthetics]] | 理论 | 卢卡奇将艺术界定为扬弃资本主义劳动异化的高级自觉劳动。[[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 164–165)]] |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch03|Hammermeister (2002, pp. 47–50, 58–59)]] — 分析席勒《审美教育书简》第六封信的唯物视角异化诊断，并对比席勒的美育调解方案与马克思主义革命路径之间的张力。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch03|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch03|第 3 章]]析席勒美育与革命路径之争（pp. 47–59）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]论卢卡奇将艺术视作克服异化的自觉劳动（pp. 161–165）。

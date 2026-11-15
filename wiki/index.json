@@ -4737,6 +4737,15 @@
     ]
   },
   {
+    "title": "Animal Symbolicum",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Animal Symbolicum.md",
+    "aliases": [
+      "符号动物",
+      "symbolic animal"
+    ]
+  },
+  {
     "title": "Anthropomorphic Model",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Anthropomorphic Model.md",
@@ -4758,6 +4767,16 @@
       "阿波罗与狄奥尼索斯",
       "Apollonian-Dionysian Duality",
       "日神精神与酒神精神"
+    ]
+  },
+  {
+    "title": "Asceticism",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Asceticism.md",
+    "aliases": [
+      "禁欲主义",
+      "禁欲否定",
+      "苦行主义"
     ]
   },
   {
@@ -5339,6 +5358,16 @@
     ]
   },
   {
+    "title": "Ersatz Religion",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Ersatz Religion.md",
+    "aliases": [
+      "替代性宗教",
+      "代偿宗教",
+      "审美救赎论"
+    ]
+  },
+  {
     "title": "Esoteric Mimesis",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Esoteric Mimesis.md",
@@ -5510,6 +5539,17 @@
       "SF (Haraway)",
       "哈拉维的SF",
       "推测性编造"
+    ]
+  },
+  {
+    "title": "Hierarchy of the Arts",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Hierarchy of the Arts.md",
+    "aliases": [
+      "艺术等级体系",
+      "艺术门类等级",
+      "艺术阶梯",
+      "艺术分类等级"
     ]
   },
   {
@@ -5741,6 +5781,16 @@
     ]
   },
   {
+    "title": "Methexis",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Methexis.md",
+    "aliases": [
+      "分有问题",
+      "参与问题",
+      "柏拉图分有"
+    ]
+  },
+  {
     "title": "Mimesis",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Mimesis.md",
@@ -5965,6 +6015,16 @@
     ]
   },
   {
+    "title": "Philosophy of Tragedy",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Philosophy of Tragedy.md",
+    "aliases": [
+      "悲剧哲学",
+      "悲剧理论",
+      "叔本华悲剧观"
+    ]
+  },
+  {
     "title": "Phronesis",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Phronesis.md",
@@ -5992,6 +6052,16 @@
     "aliases": [
       "诗学",
       "诗论"
+    ]
+  },
+  {
+    "title": "Poiesis",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Poiesis.md",
+    "aliases": [
+      "诗性制作",
+      "艺术制作",
+      "艺术创制"
     ]
   },
   {
@@ -6160,6 +6230,16 @@
       "真理体制",
       "真理政制",
       "regime of truth"
+    ]
+  },
+  {
+    "title": "Repressive Tolerance",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Repressive Tolerance.md",
+    "aliases": [
+      "压抑性容忍",
+      "虚假宽容",
+      "false permissiveness"
     ]
   },
   {
@@ -6421,6 +6501,17 @@
     "path": "wiki/concepts/educational-philosophy/Transhumanism.md",
     "aliases": [
       "超人类主义"
+    ]
+  },
+  {
+    "title": "Typicality",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Typicality.md",
+    "aliases": [
+      "典型性",
+      "Besonderheit",
+      "特殊性",
+      "aesthetic typicality"
     ]
   },
   {
@@ -22591,6 +22682,16 @@
     ]
   },
   {
+    "title": "Cassirer's Aesthetics",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Cassirer's Aesthetics.md",
+    "aliases": [
+      "卡西尔美学",
+      "卡西尔的美学理论",
+      "neo-Kantian aesthetics of Cassirer"
+    ]
+  },
+  {
     "title": "Cognitive Constructivism",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Cognitive Constructivism.md",
@@ -22759,6 +22860,26 @@
       "Luhmannian Systems Theory",
       "社会系统理论",
       "卢曼社会系统理论"
+    ]
+  },
+  {
+    "title": "Lukács's Aesthetics",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Lukács's Aesthetics.md",
+    "aliases": [
+      "卢卡奇美学",
+      "卢卡奇的美学理论",
+      "Marxist aesthetics of Lukács"
+    ]
+  },
+  {
+    "title": "Marcuse's Aesthetics",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Marcuse's Aesthetics.md",
+    "aliases": [
+      "马尔库塞美学",
+      "马尔库塞的美学理论",
+      "critical aesthetics of Marcuse"
     ]
   },
   {
@@ -32080,6 +32201,16 @@
     ]
   },
   {
+    "title": "Ernst Cassirer",
+    "type": "person",
+    "path": "wiki/persons/germany/Ernst Cassirer.md",
+    "aliases": [
+      "恩斯特·卡西尔",
+      "卡西尔",
+      "Cassirer, E."
+    ]
+  },
+  {
     "title": "Ewald Terhart",
     "type": "person",
     "path": "wiki/persons/germany/Ewald Terhart.md",
@@ -32234,6 +32365,16 @@
     ]
   },
   {
+    "title": "Herbert Marcuse",
+    "type": "person",
+    "path": "wiki/persons/germany/Herbert Marcuse.md",
+    "aliases": [
+      "赫伯特·马尔库塞",
+      "马尔库塞",
+      "Marcuse, H."
+    ]
+  },
+  {
     "title": "Hilbert Meyer",
     "type": "person",
     "path": "wiki/persons/germany/Hilbert Meyer.md",
@@ -32311,6 +32452,16 @@
       "聚芬",
       "Johann Wilhelm Suevern",
       "Johann Wilhelm Suvern"
+    ]
+  },
+  {
+    "title": "Johann Wolfgang von Goethe",
+    "type": "person",
+    "path": "wiki/persons/germany/Johann Wolfgang von Goethe.md",
+    "aliases": [
+      "Goethe, J. W. v.",
+      "歌德",
+      "约翰·沃尔夫冈·冯·歌德"
     ]
   },
   {
@@ -52345,6 +52496,11 @@
     "title": "Argument_Hammermeister_2002_Cambridge_Ch07",
     "type": "argument",
     "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md"
+  },
+  {
+    "title": "Argument_Hammermeister_2002_Cambridge_Ch08",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch08.md"
   },
   {
     "title": "Argument_Karp_Zamiska_2025_Technological_Republic",
