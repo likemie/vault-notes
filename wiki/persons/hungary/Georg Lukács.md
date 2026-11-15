@@ -10,10 +10,10 @@ cssclasses:
   - person-page
 nationality: hungary
 person_region: "hungary"
-person_related_count: 8
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 11
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1885"
 died: "1971"
 lifespan: "1885–1971"
@@ -28,15 +28,18 @@ related_concepts:
   - "[[Aesthetics of Ugliness]]"
 related_theories:
   - "[[Hegel's Aesthetics]]"
+  - "[[Schopenhauer's Aesthetics]]"
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Aristotle]]"
+  - "[[Arthur Schopenhauer]]"
   - "[[Theodor Adorno]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch05]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch06]]"
 confidence: high
 status: draft
 created: "2026-11-15"
@@ -59,12 +62,13 @@ updated: 2026-11-15
 
 > [!person-network] 关系网络
 > - **辩论对象** [[Georg Wilhelm Friedrich Hegel|黑格尔]] — 卢卡奇反对黑格尔拒斥摹仿，但在“艺术呈现高于日常现实的真实”上与之相通。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 96)]]
+> - **批判对象** [[Arthur Schopenhauer|阿图尔·叔本华]]（Arthur Schopenhauer） — 在《理性的毁灭》中批判叔本华哲学与美学的非理性主义倾向及其政治社会后果。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 127, 231 n.5)]]
 > - **同代参照** [[Theodor Adorno|西奥多·阿多诺]] — 同样在 20 世纪美学中围绕摹仿论与丑的问题回应黑格尔传统。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 96, 106)]]
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002, Ch. 5)]] — 梳理卢卡奇从现实主义立场出发对黑格尔反摹仿论的反驳及其对丑的关注（pp. 96, 106）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析其与黑格尔的摹仿与丑学对话（pp. 96, 106）；[[Argument_Hammermeister_2002_Cambridge_Ch06|第 6 章]]引《理性的毁灭》定位叔本华非理性主义（p. 231 n.5）。
 
 ---
 
@@ -75,3 +79,4 @@ updated: 2026-11-15
 > | [[Mimesis]] | 概念 | 卢卡奇从现实主义立场捍卫摹仿对美学的重要性，反驳黑格尔 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 96)]]。 |
 > | [[Aesthetics of Ugliness]] | 概念 | 卢卡奇在 20 世纪美学哲学中继续推进对“丑”的讨论 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 106)]]。 |
 > | [[Hegel's Aesthetics]] | 理论 | 与黑格尔在摹仿问题上针锋相对，但在艺术超越日常现实上共识相通 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 96)]]。 |
+> | [[Schopenhauer's Aesthetics]] | 理论 | 卢卡奇在《理性的毁灭》中批判其非理性主义与避世转向 [[Argument_Hammermeister_2002_Cambridge_Ch06\|(Hammermeister, 2002, pp. 127, 231 n.5)]]。 |

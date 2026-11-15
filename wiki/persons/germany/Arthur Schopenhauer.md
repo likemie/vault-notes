@@ -127,13 +127,13 @@ updated: 2026-11-15
 > > 叔本华宣称审美静观必须彻底摆脱意志，却在静观启动、[[Genius|天才]]制作与[[The Sublime|崇高]]体验中重新引入意志力量的主动介入。
 > >
 > > - **保罗·盖耶（Paul Guyer, 1996）** 批评“脱离意志的静观必须以主动投入的意志为开端”，暴露出无意志体验与创作动能之间的张力。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 118–121, 231)]]
-> > - **凯·哈默迈斯特（Kai Hammermeister, 2002）** 指出叔本华在界定[[The Interesting|趣味性]]与崇高主体抗争恐惧时，实质承认了意志的主动参与。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 118–123)]]
+> > - **凯·哈默迈斯特（Kai Hammermeister）** 指出叔本华在界定[[The Interesting|趣味性]]与崇高主体抗争恐惧时，实质承认了意志的主动参与。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 118–123)]]
 >
 > > [!axis] 审美解脱的慰藉价值 vs 避世主义意识形态
 > > 学界对叔本华将艺术界定为逃离苦难的避难所存在截然不同的历史与政治评价。
 > >
 > > - **汉斯-迪特·巴尔（Hans-Dieter Bahr, 1970）与[[Georg Lukács|格奥尔格·卢卡奇]]（Georg Lukács）** 从[[Ideology Critique|意识形态批判]]与理性主义立场出发，批评静观美学掩盖社会实践、开启非理性主义毁灭路径。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 127, 232)]]
-> > - **凯·哈默迈斯特（2002）** 认为叔本华虽然在哲学论证上充满裂隙，却使艺术摆脱功利附庸，深刻启发了现代主义艺术创作与艺术自主性意识。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 111–113, 126–127)]]
+> > - **哈默迈斯特** 认为叔本华虽然在哲学论证上充满裂隙，却使艺术摆脱功利附庸，深刻启发了现代主义艺术创作与艺术自主性意识。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 111–113, 126–127)]]
 
 > [!warning] 未解问题与边界
 > 叔本华体系内部存在多重未解裂隙：第一，未能说明个我意志究竟是宇宙世界意志的一部分还是分有，重演了亚里士多德对柏拉图分有难题的质疑；第二，在排斥概念与理性之后，未交代究竟由想象力还是感性承担理念的直观认知；第三，既主张“万物皆可静观因而皆美”，又退缩为某些对象更能“强迫”静观，且空间性的美的定义难以涵盖非空间的音乐；第四，在反历史主义框架下却哀叹歌剧因语言介入而导致音乐堕落。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 114–115, 119–125)]]
