@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-16
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -124,18 +124,18 @@ updated: 2026-11-11
 
 ---
 
-> [!entry-map] 关键概念与理论构件
+> [!theory-constructs] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
 > | **[[Knowledge Production\|知识构成性兴趣]]** | [[Analytic Framework\|分析框架]] | [[Jürgen Habermas\|哈贝马斯]]区分技术（控制自然）、实践（社会互动与理解）与解放（摆脱压迫）三类人类原初求知动力，界定不同[[Paradigm\|研究范式]]的[[Epistemology\|认识论]]根基。 |
 > | **[[Ideology Critique\|意识形态批判]]** | 方法机制 | 核心方法论程序。通过批判反思揭示虚假意识，暴露统治群体将特殊部门利益包装为全社会普遍利益的修辞策略。 |
 > | **[[Ideal Speech Situation\|理想言说情境]]** | 规范准则 | 设定所有参与者拥有完全平等的发声权利、免受权力胁迫与层级压制的对称沟通规范，作为评估现实民主与学术商议质量的标准。 |
-> | **主体间承认机制（Intersubjective Recognition）** | 规范机制 | 霍耐特（Axel Honneth）界定的人类主体互认机制；[[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] 用于揭示新泰勒主义量化规训对师生交往意向性与主体尊严的系统性消解。 |
+> | **主体间承认机制（Intersubjective Recognition）** | 规范机制 | 霍耐特（Axel Honneth）界定的人类主体互认机制，用于揭示新泰勒主义量化规训对师生交往意向性与主体尊严的系统性消解。 |
 > | **实践（[[Praxis]]）** | 行动机制 | 在理论反思指导下指向自由与正义的自觉变革行动。强调反思与行动的有机融合，使专业实践超越纯粹的技术操作。 |
 > | **政策的价值建构属性** | 概念基石 | 指出公共政策是统治群体关于理想社会秩序的权威宣告，本质是负载利益与价值偏好的社会建构，有别于技术中立的科学工程。 |
 > | **[[Critical Pluralism\|批判性多元主义]]** | [[Institutional Displacement\|制度替代]]模型 | 埃德蒙森提出的批判性替代框架，要求教育者统整功能、沟通与批判三类研究，在本土拒止、社会结盟与伦理对质中重夺自主权。 |
-> | **系统与生活世界张力** | 社会理论模型 | [[Jürgen Habermas\|哈贝马斯]]晚期区分金钱与权力介导的行政系统与依凭共识交往的生活世界；[[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]] 用以诊断教育技术化对师生主体意向性的系统性殖民。 |
+> | **系统与生活世界张力** | 社会理论模型 | [[Jürgen Habermas\|哈贝马斯]]晚期区分金钱与权力介导的行政系统与依凭共识交往的生活世界，用以诊断教育技术化对师生主体意向性的系统性殖民。 |
 
 > [!mechanism-map]- 机制图：批判理论的解构与解放动力链条
 > ```mermaid
@@ -238,10 +238,11 @@ updated: 2026-11-11
 
 ---
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011)]] — 阐释批判教育研究理论与方法：解构[[Technical Rationality|技术理性]]，界定[[Emancipatory Action Research|解放性行动研究]]与[[Ideal Speech Situation|理想言说情境]]（Ch. 2, Ch. 18）。
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 运用批判理论与政策价值建构论剖析[[Reading Excellence Act|卓越阅读法案]]立法铁三角，创立[[Critical Pluralism|批判性多元主义]]框架。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 131–132, 136)]] — 揭示批判知识共同体打破战后[[Structural Functionalism|结构功能主义]]霸权、确立26种[[Theoretical Standpoint|理论立场]]共存的[[Pluralism|多元主义]]历程。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 运用批判理论结合[[Jürgen Habermas|哈贝马斯]]系统/生活世界模型与舍恩技术理性说，剖析当代教育心理学与可见学习运动如何剥离师生[[Intentionality|意向性]]与主体意义，充当官僚行政系统应对[[Legitimation Crisis|合法化危机]]的技术掩体（pp. 83–89）。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 结合[[Axel Honneth|霍耐特]][[Recognition Theory|主体间承认理论]]与舍恩技术理性说，微观解构[[John Hattie|哈蒂]]反馈[[Meta-analysis|元分析]]数据链，揭示[[Neo-Taylorism|新泰勒主义]]规训对[[Pedagogical Subject|教育主体]]性的消解（pp. 14–15）。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 结合马克思拜物教批判与[[Sheila Slaughter|斯劳特]]戴克视差理论，解构可见学习[[Paradigm|范式]]中的[[Panopticism|全景敞视]]规训与商品化逻辑。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch03|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch03|第 3 章]]指出阿多诺、卢卡奇与布洛赫等西方马克思主义批评家肯定席勒[[Aesthetic Semblance|审美外观]]保留了否定异化现实与许诺幸福的乌托邦潜能（p. 58）。

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "AI Deterrence",
+      "path": "wiki/concepts/political-economy-geopolitics/AI Deterrence.md"
+    },
+    {
       "basename": "Argument_Hammermeister_2002_Cambridge_Ch03",
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch03.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "template-concept",
       "path": "wiki/templates/template-concept.md"
-    },
-    {
-      "basename": "template-fact-eef-programme",
-      "path": "wiki/templates/template-fact-eef-programme.md"
     }
   ],
   "omittedPaths": [],
