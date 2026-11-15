@@ -4623,6 +4623,15 @@
     ]
   },
   {
+    "title": "Absolute Spirit",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Absolute Spirit.md",
+    "aliases": [
+      "绝对精神",
+      "Absoluter Geist"
+    ]
+  },
+  {
     "title": "Adherent Beauty",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Adherent Beauty.md",
@@ -4679,6 +4688,16 @@
       "审美假象",
       "ästhetischer Schein",
       "aesthetic appearance"
+    ]
+  },
+  {
+    "title": "Aesthetics of Ugliness",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Aesthetics of Ugliness.md",
+    "aliases": [
+      "丑的美学",
+      "丑学",
+      "Aischrology"
     ]
   },
   {
@@ -5151,6 +5170,16 @@
     ]
   },
   {
+    "title": "End of Art",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/End of Art.md",
+    "aliases": [
+      "艺术终结论",
+      "艺术的过去性特征",
+      "Vergangenheitscharakter der Kunst"
+    ]
+  },
+  {
     "title": "Enlightenment",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Enlightenment.md",
@@ -5586,6 +5615,16 @@
       "回忆说",
       "知识即回忆",
       "Anamnesis"
+    ]
+  },
+  {
+    "title": "Mimesis",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Mimesis.md",
+    "aliases": [
+      "摹仿",
+      "模仿",
+      "模仿论"
     ]
   },
   {
@@ -22384,6 +22423,16 @@
     ]
   },
   {
+    "title": "Hegel's Aesthetics",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Hegel's Aesthetics.md",
+    "aliases": [
+      "黑格尔美学",
+      "黑格尔艺术哲学",
+      "Hegel's Philosophy of Art"
+    ]
+  },
+  {
     "title": "Law of Requisite Variety",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Law of Requisite Variety.md",
@@ -31842,6 +31891,16 @@
       "哈贝马斯",
       "J. Habermas",
       "Habermas, J."
+    ]
+  },
+  {
+    "title": "Karl Rosenkranz",
+    "type": "person",
+    "path": "wiki/persons/germany/Karl Rosenkranz.md",
+    "aliases": [
+      "卡尔·罗森克兰茨",
+      "罗森克兰茨",
+      "Rosenkranz"
     ]
   },
   {

@@ -1124,6 +1124,8 @@
     "Arnold (2002)": "Arnold, 2002",
     "Arnold (2011)": "Arnold, 2011",
     "Arnold (2013)": "Arnold, 2013",
+    "Arnold Gehlen (1960)": "Arnold Gehlen, 1960",
+    "Arnold Gehlen, 1960": "Arnold Gehlen, 1960",
     "Arnold et al. (1986)": "Arnold et al., 1986",
     "Arnold et al., 1986": "Arnold et al., 1986",
     "Arnold, 1996": "Arnold, 1996",
@@ -4416,7 +4418,9 @@
     "Charles Myers, 1964": "Charles Myers, 1964",
     "Charles O’Reilly & Michael Tushman (2008)": "Charles O’Reilly & Michael Tushman, 2008",
     "Charles O’Reilly & Michael Tushman, 2008": "Charles O’Reilly & Michael Tushman, 2008",
+    "Charles Taylor (1975)": "Charles Taylor, 1975",
     "Charles Taylor (2004)": "Charles Taylor, 2004",
+    "Charles Taylor, 1975": "Charles Taylor, 1975",
     "Charles Taylor, 2004": "Charles Taylor, 2004",
     "Charmaz (2006)": "Charmaz, 2006",
     "Charmaz, 2006": "Charmaz, 2006",
@@ -23970,6 +23974,7 @@
     "Taylor & Spence-Thomas, 2015": "Taylor & Spence-Thomas, 2015",
     "Taylor (1911)": "Taylor, 1911",
     "Taylor (1968)": "Taylor, 1968",
+    "Taylor (1975)": "Taylor, 1975",
     "Taylor (1980)": "Taylor, 1980",
     "Taylor (1992)": "Taylor, 1992",
     "Taylor (1995)": "Taylor, 1995",
@@ -23996,6 +24001,7 @@
     "Taylor et al., 2023": "Taylor et al., 2023",
     "Taylor, 1911": "Taylor, 1911",
     "Taylor, 1968": "Taylor, 1968",
+    "Taylor, 1975": "Taylor, 1975",
     "Taylor, 1980": "Taylor, 1980",
     "Taylor, 1992": "Taylor, 1992",
     "Taylor, 1995": "Taylor, 1995",
@@ -25283,6 +25289,8 @@
     "Vitale et al., 2016": "Vitale et al., 2016",
     "Vitta & Al-Hoorie (2020)": "Vitta & Al-Hoorie, 2020",
     "Vitta & Al-Hoorie, 2020": "Vitta & Al-Hoorie, 2020",
+    "Vittorio Hösle (1987)": "Vittorio Hösle, 1987",
+    "Vittorio Hösle, 1987": "Vittorio Hösle, 1987",
     "Vladescu (2020)": "Vladescu, 2020",
     "Vladescu, 2020": "Vladescu, 2020",
     "Vo et al. (2017)": "Vo et al., 2017",
@@ -26073,6 +26081,8 @@
     "Will Brehm, 2023": "Will Brehm, 2023",
     "Willett et al. (1983)": "Willett et al., 1983",
     "Willett et al., 1983": "Willett et al., 1983",
+    "Willi Oelmüller (1969)": "Willi Oelmüller, 1969",
+    "Willi Oelmüller, 1969": "Willi Oelmüller, 1969",
     "William (2004)": "William, 2004",
     "William Callahan (2012)": "William Callahan, 2012",
     "William Callahan, 2012": "William Callahan, 2012",
@@ -36092,6 +36102,21 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15.md",
         "wiki/methods/quantitative/Ex Post Facto Research.md"
+      ],
+      "title": ""
+    },
+    "Arnold Gehlen, 1960": {
+      "aliases": [
+        "Arnold Gehlen, 1960",
+        "Arnold Gehlen (1960)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Arnold Gehlen, 1960"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/End of Art.md"
       ],
       "title": ""
     },
@@ -60407,6 +60432,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/science-policy/Organizational Ambidexterity.md"
+      ],
+      "title": ""
+    },
+    "Charles Taylor, 1975": {
+      "aliases": [
+        "Charles Taylor, 1975",
+        "Charles Taylor (1975)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Charles Taylor, 1975"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/End of Art.md"
       ],
       "title": ""
     },
@@ -202721,6 +202761,21 @@
       ],
       "title": ""
     },
+    "Taylor, 1975": {
+      "aliases": [
+        "Taylor, 1975",
+        "Taylor (1975)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Taylor, 1975"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Mimesis.md"
+      ],
+      "title": ""
+    },
     "Taylor, 1980": {
       "aliases": [
         "Taylor, 1980",
@@ -212025,6 +212080,21 @@
       "seen_in": [],
       "title": "The flipped classroom in second language learning: A meta-analysis."
     },
+    "Vittorio Hösle, 1987": {
+      "aliases": [
+        "Vittorio Hösle, 1987",
+        "Vittorio Hösle (1987)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Vittorio Hösle, 1987"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Absolute Spirit.md"
+      ],
+      "title": ""
+    },
     "Vladescu, 2020": {
       "aliases": [
         "Vladescu, 2020",
@@ -217735,6 +217805,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis of instructional systems applied in science teaching"
+    },
+    "Willi Oelmüller, 1969": {
+      "aliases": [
+        "Willi Oelmüller, 1969",
+        "Willi Oelmüller (1969)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Willi Oelmüller, 1969"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/End of Art.md"
+      ],
+      "title": ""
     },
     "William Callahan, 2012": {
       "aliases": [

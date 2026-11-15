@@ -97,6 +97,7 @@ updated: 2026-11-15
 > | 1812–1816 | *Wissenschaft der Logik* [逻辑学] | 推导概念由浅入深的辩证发展范畴，确立否定之否定与扬弃（Aufheben）的核心辩证法则。 | [[Paradigm]] |
 > | 1821 | *Grundlinien der Philosophie des Rechts* [法哲学原理] | 阐释抽象法、道德与伦理生活，将教化界定为超越自然本能融入普遍伦理共同体的必由之路。 | [[Bildung]]；[[Disciplina and Doctrina]] |
 > | 1808–1816 | *Gymnasialreden* [纽伦堡文科中学演讲集] | 记录担任中学校长期间的教育反思，论述古典语言与理性训练在塑造青少年健全心智中的核心地位。 | [[Bildung]] |
+> | 1835/1842 | *Vorlesungen über die Ästhetik* [美学讲演录] | 海因里希·古斯塔夫·霍托（Heinrich Gustav Hotho）据黑格尔海德堡与柏林讲稿编订出版，界定美为“理念的感性显现”，提出艺术形式三阶段与艺术终结论。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 89–90, 95, 102)]] | [[Hegel's Aesthetics]]；[[Absolute Spirit]] |
 
 ---
 
@@ -115,10 +116,11 @@ updated: 2026-11-15
 > - **现代课程与制度化教育反思** 当代批判课程学者（如 Cole, 2005）认为，黑格尔式教化常被现代[[International Education|国际教育]]体制（如[[International Baccalaureate|国际文凭]]课程）内化为深层语法，批评其倾向于用客观理性框架修剪个体情感，把学生预设为等待填充的“空无认知者（[[Empty Knower]]）”。
 > - **大众传播与民族共同体想象** 黑格尔关于读报替代晨祷的哲学洞见，经由[[Benedict Anderson|本尼迪克特·安德森]]的理论阐发，成为理解现代人在均质空的、时间中通过大众印刷媒介确证[[Horizontal Comradeship|横向同志情谊]]的经典分析范式。
 > - **抵御量化还原论的哲学防线** 当代欧陆教育哲学学者（如 Larsen, 2019）在反思[[Positivism|实证主义]]评价时，重新激活包含黑格尔在内的德意志[[Geisteswissenschaften|精神科学]]教化传统，以此阐释教育生成中不可度量的历时深度，抵御将学习缩减为短期可见指标的技术主义倾向。
+> - **艺术史学科与现代艺术终结论** 将内容美学与历史发展观念结合，为 19 世纪人文学科中的艺术史建立提供方法范式，并经由伽达默尔、阿瑟·丹托与[[Karl Rosenkranz|罗森克兰茨]]延展为现代艺术自主性论辩与丑学传统。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 88–89, 102–108)]]
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cole_2005_JRIE|Cole (2005)]] — 批判主导当代国际课程的“黑格尔式教化”，指责其以理性规训压抑主观情感，将学习还原为服务于市场与国家契约的工具性阶梯。
-> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — 第 4 章剖析黑格尔因谢林与浪漫派将美学置于哲学之上而反转二者等级，并辨析其对施莱格尔主观反讽的批评与对索尔格客观反讽的肯定（pp. 63, 84–86）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]与[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]剖析其反转浪漫派等级、确立[[Hegel's Aesthetics|黑格尔美学]]、[[Absolute Spirit|绝对精神]]与[[End of Art|艺术终结论]]（pp. 84–108）。
 
 ---
 
@@ -153,5 +155,11 @@ updated: 2026-11-15
 > | [[Disciplina and Doctrina]] | 概念 | 刻画绝对精神在客体化制度世界中对个体自然意志实施的理性规训。 |
 > | [[Resonant Oscillation]] | 概念 | 黑格尔式的单向度理性知识获取模式被分析为产生认知“共振震荡”的重要一极。 |
 > | [[Homogeneous, Empty Time]] | 概念 | 提出读报替代晨祷的经典洞见，为世俗日历时间的日常仪式化复制提供哲学线索。 |
+> | [[Absolute Spirit]] | 概念 | 确立精神超越主观与客观阶段后，经由艺术、宗教与哲学实现自我认识的最高结构。 |
+> | [[End of Art]] | 概念 | 论证艺术就其最高真理功能而言已成为过去之物，让位于基督教与哲学概念反思。 |
+> | [[Aesthetics of Ugliness]] | 概念 | 界定丑为美的匮乏并仅在诗歌中有限容许丑，引发黑格尔学派系统建构丑学。 |
+> | [[Mimesis]] | 概念 | 区分再现正确性与艺术真理，提出三重论证反驳自然主义摹仿论。 |
 > | [[Imagined Community]] | 理论 | 晨祷类比揭示大众在私密空间分秒不差复制同一种世俗仪式，支撑民族想象。 |
+> | [[Hegel's Aesthetics]] | 理论 | 将美界定为理念的感性显现，并将历史艺术形式与门类媒介系统平行整合。 |
 > | [[Immanuel Kant]] | 人物 | 批判吸收其主体性与范畴论，将先验唯心论推展为绝对历史辩证法。 |
+> | [[Karl Rosenkranz]] | 人物 | 门下弟子，撰写《丑的美学》延续并突破黑格尔的总体性与美丑边界。 |
