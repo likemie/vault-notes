@@ -55,8 +55,11 @@ updated: 2026-11-15
 
 ---
 
-> [!claim] 核心思想（基于[[Hegel's Aesthetics|黑格尔美学]]对话部分）
-> 在围绕[[Hegel's Aesthetics|黑格尔美学]]的批判对话中，阿多诺的三项核心立场尤为突出：第一，黑格尔把摹仿简化为对现成物体的照抄并加以拒绝，漏掉了[[Aristotle|亚里士多德]]摹仿概念里蕴含的表演与潜能维度，阿多诺在后续美学中重修了这一维度（p. 96）；第二，阿多诺把浪漫派音乐界定为“变奏战胜主题”，这恰好解释了为何坚持整体统一性的黑格尔讨厌韦伯（Carl Maria von Weber）的音乐（p. 106）；第三，针对罗森克兰茨“美是原初绝对的、丑只是美的派生与否定”的古典等级，阿多诺面向现代艺术将这一关系彻底反转，主张现代艺术中的美总是从丑之中产生（pp. 106–107）。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 96, 106–107)]]
+> [!person-thesis] 主张一｜重修亚里士多德摹仿的潜能维度并诊断浪漫派音乐的“变奏压倒主题”
+> 在围绕[[Hegel's Aesthetics|黑格尔美学]]的批判对话中，黑格尔把摹仿简化为对现成物体的照抄并加以拒绝，漏掉了[[Aristotle|亚里士多德]]摹仿概念里蕴含的表演与潜能维度，阿多诺在后续美学中重修了这一维度；同时，阿多诺把浪漫派音乐界定为“变奏战胜主题”，恰好解释了为何坚持整体统一性的黑格尔讨厌韦伯（Carl Maria von Weber）的音乐。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 96, 106)]]
+
+> [!person-thesis] 主张二｜面向现代艺术反转古典美丑等级，主张美总是从丑中产生
+> 针对罗森克兰茨“美是原初绝对的、丑只是美的派生与否定”的古典等级，阿多诺面向现代艺术将这一关系彻底反转，主张现代艺术中的美总是从丑之中产生。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 106–107)]]
 
 ---
 
@@ -74,7 +77,7 @@ updated: 2026-11-15
 
 > [!entry-map] 条目关联
 >
-> | 条目 | 类型 | 关系 |
+> | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Mimesis]] | 概念 | 阿多诺重修亚里士多德摹仿概念的表演与潜能维度以回应黑格尔 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 96)]]。 |
 > | [[Aesthetics of Ugliness]] | 概念 | 阿多诺针对现代艺术反转罗森克兰茨立场，主张美从丑中产生 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 106–107)]]。 |

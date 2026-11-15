@@ -92,13 +92,13 @@ updated: 2026-11-15
 > - **师承与同代影响** 格奥尔格·齐美尔（Georg Simmel）与[[Max Weber|马克斯·韦伯]]（Max Weber） — 齐美尔“异质生命与同质形式”的对立奠定了《心灵与形式》的基本张力；韦伯的现代世界“祛魅”诊断及“专家与唯美主义者”之分深刻影响了卢卡奇的现代性批判。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, p. 161)]]
 > - **思想先驱** [[Søren Kierkegaard|索伦·克尔凯郭尔]]（Søren Kierkegaard）与[[Friedrich Schiller|席勒]] — 卢卡奇先于海德格尔重新发现克尔凯郭尔以反抗市民商业生活；晚期则吸纳席勒的人道主义理想与[[Aesthetic Education|美育]]构想，却批评席勒以美育取代革命而滑向资产阶级辩护。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 159, 161, 166)]]
 > - **辩论对象** [[Georg Wilhelm Friedrich Hegel|黑格尔]] — 卢卡奇反对黑格尔拒斥摹仿，但在“艺术呈现高于日常现实的真实”上与之相通。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 96)]]
-> - **批判对象** [[Arthur Schopenhauer|阿图尔·叔本华]]（Arthur Schopenhauer） — 在《理性的毁灭》中批判叔本华哲学与美学的非理性主义倾向及其政治社会后果。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 127, 231 n.5)]]
+> - **批判对象** [[Arthur Schopenhauer|阿图尔·叔本华]]（Arthur Schopenhauer）与[[Friedrich Nietzsche|弗里德里希·尼采]]（Friedrich Nietzsche） — 在《理性的毁灭》中批判叔本华的非理性主义倾向及其政治社会后果，并以社会历史美学反击尼采晚期自我审美化与“恐怖美学”。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 127, 231 n.5)]][[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 149–150)]]
 > - **同代参照与争论** [[Theodor Adorno|西奥多·阿多诺]]、贝尔托·布莱希特（Bertolt Brecht）、[[Walter Benjamin|瓦尔特·本雅明]]（Walter Benjamin）、恩斯特·布洛赫（Ernst Bloch）与[[Herbert Marcuse|赫伯特·马尔库塞]]（Herbert Marcuse） — 在表现主义论战及战后美学中，上述学者普遍反对卢卡奇将现代主义简单斥为“颓废”并强求社会主义现实主义“强制和解”的做法。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 96, 106)]][[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 167–168, 171)]]
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析其摹仿与丑学；[[Argument_Hammermeister_2002_Cambridge_Ch06|第 6 章]]引《理性的毁灭》；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]专论其早期转向与《审美的特性》体系（pp. 158–169）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — 第 5–6 章析摹仿、丑学与叔本华批判；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析反击尼采“恐怖美学”；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]专论《审美的特性》。
 
 ---
 

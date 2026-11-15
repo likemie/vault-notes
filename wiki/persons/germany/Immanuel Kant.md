@@ -160,7 +160,7 @@ updated: 2026-11-15
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 在西方知识确定性传统与心智奇迹探索中，系统剖析康德范畴论对调和唯理论与经验论、确立人类心智主动加工结构的奠基性贡献。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 阐释怀特国际理论框架中的康德革命主义传统，揭示其[[Cosmopolitanism|世界主义]]道德激情如何深刻塑造了 20 世纪批判、[[Dependency Theory\|依附论]]与后殖民比较教育研究。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 考证康德[[Enlightenment\|启蒙哲学]]如何与[[Jean-Jacques Rousseau\|卢梭]]自由思想汇聚，直接催生了朱利安比较教育准科学实证设想背后的世界主义人道主义母题与永久和平蓝图。
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]与[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]剖析康德美学范式起点；[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]录黑格尔对其审美非功利性的肯定与主观性批评（pp. 92–95）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1]]–[[Argument_Hammermeister_2002_Cambridge_Ch02|2 章]]析美学范式；[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]录黑格尔批评；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析尼采对无利害的攻击与新康德主义反弹（pp. 146, 149–150）。
 
 ---
 

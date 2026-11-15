@@ -77,27 +77,24 @@ updated: 2026-11-15
 
 ---
 
-> [!claim] 核心思想
-> 亚里士多德认为万物皆有其目的或功能（Telos），人类的终极目的在于依据理性的活动以实现最高善（Eudaimonia）；教育的使命在于通过习得与[[Habituation|习惯化]]（Habituation）训练青年运用理性。然而，这一教育传统假设社会秩序与阶级边界由统治者设定，且排除了女性与奴隶形成[[Critical Thinking|批判性思维]]的可能性，形成了维系既有秩序的保守教育观（[[Argument_Darwish_2009_Queens|Darwish, 2009, pp. 4–5]]）。
-
----
-
-> [!case] 案例：刀具的 Telos 与人类的理性沉思
-> 亚里士多德在《尼各马可伦理学》中指出万物皆有其固有目的（Telos）——例如刀具的 Telos 是切割；同理，人类的 Telos 是理性沉思，这是将人类与其他动物区分开来的特殊功能（[[Argument_Darwish_2009_Queens|Darwish, 2009, p. 4]]）。教育的终极目标在于培育年轻人的实用理性与知性德性，使其实现这一终极目的。
-
-> [!case] 案例：建筑师与奏琴手的习惯化（Habituation）
-> 亚里士多德提出“人们通过造房子成为建筑师，通过弹奏里拉琴成为奏琴手；同理，我们通过施行正义的行为变得正义，通过克制的行为变得克制，通过勇敢的行为变得勇敢”（*Nicomachean Ethics* 1103a33）（[[Argument_Darwish_2009_Queens|Darwish, 2009, p. 4]]）。在教学论上，这意味着教育行政或学校管理者制定学生应当学习的内容，教师执行该日程，学生通过重复行为养成[[Habitus|习性]]——学生无需质疑教育系统本身的合法性。
-
-> [!case] 案例：《政治学》中的阶层隔绝与对女性奴隶的排斥
-> 在《政治学》中，亚里士多德同意古希腊诗人索福克勒斯的名言“沉默是女性的光彩”（*Politics* 1260a30）（[[Argument_Darwish_2009_Queens|Darwish, 2009, p. 5]]）。他认为只有特定男性公民能够成为理性思考者，而女性与奴隶被排除在批判性思维之外，从而在制度上维护了既有的阶层与统治秩序。
-
----
-
-> [!case] 图斯曼之问：通识正典的选目武断性与合法性瓦解
-> 在20世纪美国高校本科[[General Education|通识教育]]（[[Western Civilization Course|西方文明课]]程）中，亚里士多德与[[Plato|柏拉图]]构成古典思想源头，但在课程实际编订中两者常常面临选目取舍的编纂冲突。在1960年代末欧美大学反战与民权运动席卷校园的背景下，正典必修课大纲遴选的“代表性”遭遇广泛质疑。加州大学伯克利分校哲学系主任[[Joseph Tussman|约瑟夫·图斯曼]]（Joseph Tussman）在1968年反思通识必修课设计时发出著名的质问：
-> “我们选了柏拉图，为何不选亚里士多德？为何没有更多欧里庇得斯？选了《失乐园》，为何不选但丁？选了密尔，为何不选马克思？”（*We have Plato, but why not Aristotle? Why not more Euripides? Paradise Lost, but why not Dante? John Stuart Mill, but why not Marx?*）[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 88)]]
+> [!person-thesis] 主张一｜万物皆有其目的，教育通过习惯化训练青年实现理性沉思的最高善
+> 亚里士多德认为万物皆有其固有目的或功能（Telos），例如刀具的 Telos 是切割，而人类的特殊功能与终极目的在于依据理性沉思实现最高善（Eudaimonia）。在教学论上，教育的使命在于通过重复习得与[[Habituation|习惯化]]（Habituation）训练青年运用实用理性与知性德性：教育行政或学校管理者制定学习内容，教师执行该日程，学生通过重复践行养成[[Habitus|习性]]，而无需质疑教育系统本身的合法性。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 4)]]
 >
-> 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）指出，图斯曼对“为何选柏拉图而不选亚里士多德”等具体篇目的编辑技术质疑，表面上聚焦于大纲篇幅限制与选目武断性，实质上反映了1960年代学术界对西方文明整体概念内部连贯性的深刻怀疑，并最终成为加速斯坦福等名校废除西方文明统一必修课（[[1968 Stanford Western Civ Reform|1968年斯坦福西方文明课程改革]]）与引发全美[[Canon Wars|经典之争]]的关键推力。
+> > [!thesis-quote] 《尼各马可伦理学》（*Nicomachean Ethics*, 1103a33）
+> > 人们通过造房子成为建筑师，通过弹奏里拉琴成为奏琴手；同理，我们通过施行正义的行为变得正义，通过克制的行为变得克制，通过勇敢的行为变得勇敢。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 4)]]
+
+> [!person-thesis] 主张二｜教育传统预设既定阶层边界，将女性与奴隶排除出批判性思维之外
+> 亚里士多德的教育传统假设社会秩序与阶级边界由统治者设定，认为只有特定男性公民能够成为理性思考者，而将女性与奴隶排除在[[Critical Thinking|批判性思维]]之外，从而在制度上维护既有的阶层与统治秩序。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 4–5)]]
+>
+> > [!thesis-quote] 《政治学》（*Politics*, 1260a30）
+> > 沉默是女性的光彩。（亚里士多德引索福克勒斯语）[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 5)]]
+
+---
+
+> [!citation-card] [[Joseph Tussman|约瑟夫·图斯曼]]论通识正典的选目武断性与合法性瓦解
+> 在 20 世纪美国高校本科[[General Education|通识教育]]（[[Western Civilization Course|西方文明课程]]）中，亚里士多德与[[Plato|柏拉图]]构成古典思想源头，但在课程实际编订中两者常面临选目取舍冲突。1968 年加州大学伯克利分校哲学系主任[[Joseph Tussman|约瑟夫·图斯曼]]（Joseph Tussman）质疑道：“我们选了柏拉图，为何不选亚里士多德？为何没有更多欧里庇得斯？选了《失乐园》，为何不选但丁？选了密尔，为何不选马克思？”卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）指出，这一编辑技术质疑实质上反映了 1960 年代学术界对西方文明整体概念内部连贯性的深刻怀疑，加速了[[1968 Stanford Western Civ Reform|1968年斯坦福西方文明课程改革]]与全美[[Canon Wars|经典之争]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 88)]]
+>
+> *We have Plato, but why not Aristotle? Why not more Euripides? Paradise Lost, but why not Dante? John Stuart Mill, but why not Marx?*
 
 ---
 

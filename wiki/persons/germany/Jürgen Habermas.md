@@ -132,13 +132,16 @@ updated: 2026-11-15
 
 ---
 
-> [!claim] 核心思想
-> 现代社会的危机根源于理性维度的病态片面化——工具理性与行政系统（官僚控制与资本逻辑）侵入并残酷殖民了本应以语言沟通为基础的文化生活世界。同时，现代民主政体的政治合法性根本上取决于国家能否有效提供安全、健康、教育与经济繁荣等核心公共品；当技术红利被封闭精英垄断而无法转化为公共治理效能时，国家将不可避免地陷入深层的[[Legitimation Crisis|合法化危机]]。现代性是一项远未完成的理性解放工程。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 25)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 8–9, 11)]]
+> [!person-thesis] 主张一｜工具理性殖民生活世界与公共品供给赤字引发合法化危机
+> 现代社会的危机根源于理性维度的病态片面化，工具理性与行政系统（官僚控制与资本逻辑）侵入并殖民了本应以语言沟通为基础的文化生活世界。同时，现代民主政体的政治合法性根本上取决于国家能否有效提供安全、健康、教育与经济繁荣等核心公共品；当技术红利被封闭精英垄断而无法转化为公共治理效能时，国家将不可避免地陷入深层的[[Legitimation Crisis|合法化危机]]。现代性是一项远未完成的理性解放工程。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 25)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 8–9, 11)]]
 
-> [!citation-card] 实证主义批判与科学主义世俗宗教
-> 实证主义将全部人类知识窄化为实证[[Scientific Method|经验科学]]，使科学心态被神化为近乎西方文明唯一的世俗宗教（科学主义），彻底忽视了诠释学、审美、批判、道德与[[Creativity|创造性]]等多元知识形态，将人类行为降格为狭隘的技术主义；狭隘的因果解释沦为解释人类存在的唯一手段，削弱了使人之为人的主体性特征。实证主义对预测与控制的痴迷，粗暴扼杀了关于社会价值、道德判断与善恶信念的公共理性辩论，使科学沦为服务于既得统治的技术工具，最终造就了一个丧失道德自省能力的“没有良知的社会”。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 18–19)]]
+> [!person-thesis] 主张二｜实证主义将知识窄化为科学主义世俗宗教并压抑多元理性
+> 实证主义将全部人类知识窄化为实证[[Scientific Method|经验科学]]，使科学心态被神化为西方文明的世俗宗教（[[Scientism|科学主义]]），从而排斥诠释学、审美、批判、道德与[[Creativity|创造性]]等多元知识形态，扼杀关于社会价值与道德判断的公共理性辩论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 18–19)]]
 >
-> *Habermas (1972)... provides a corrosive critique of positivism, arguing that the scientific mentality has been elevated to an almost unassailable position – almost to the level of a religion (scientism) – as being the only epistemology of the west... It reduces behaviour to technicism. Positivism's concern for control and, thereby, its appeal to the passivity of behaviourism and for instrumental reason is a serious danger to the more open-ended, creative, humanitarian aspects of social behaviour.*
+> > [!thesis-quote] 《认识与兴趣》（1968；引自 Cohen et al., 2011）
+> > 实证主义将全部人类知识窄化为实证[[Scientific Method|经验科学]]，使科学心态被神化为近乎西方文明唯一的世俗宗教（科学主义），彻底忽视了诠释学、审美、批判、道德与[[Creativity|创造性]]等多元知识形态，将人类行为降格为狭隘的技术主义；狭隘的因果解释沦为解释人类存在的唯一手段，削弱了使人之为人的主体性特征。实证主义对预测与控制的痴迷，粗暴扼杀了关于社会价值、道德判断与善恶信念的公共理性辩论，使科学沦为服务于既得统治的技术工具，最终造就了一个丧失道德自省能力的“没有良知的社会”。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 18–19)]]
+> >
+> > *Habermas (1972)... provides a corrosive critique of positivism, arguing that the scientific mentality has been elevated to an almost unassailable position – almost to the level of a religion (scientism) – as being the only epistemology of the west... It reduces behaviour to technicism. Positivism's concern for control and, thereby, its appeal to the passivity of behaviourism and for instrumental reason is a serious danger to the more open-ended, creative, humanitarian aspects of social behaviour.*
 
 > [!theory-core] 知识构成性兴趣三分法与[[Paradigm|研究范式]]
 >

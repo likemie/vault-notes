@@ -11930,7 +11930,9 @@
     "James, 1993": "James, 1993",
     "James, 2012": "James, 2012",
     "James, 2017": "James, 2017",
+    "Jameson (1971)": "Jameson, 1971",
     "Jameson (1991)": "Jameson, 1991",
+    "Jameson, 1971": "Jameson, 1971",
     "Jameson, 1991": "Jameson, 1991",
     "Jamie Peck (1998)": "Jamie Peck, 1998",
     "Jamie Peck, 1998": "Jamie Peck, 1998",
@@ -15749,6 +15751,8 @@
     "March, 1991": "March, 1991",
     "Marcucci (1980)": "Marcucci, 1980",
     "Marcucci, 1980": "Marcucci, 1980",
+    "Marcuse (1978)": "Marcuse, 1978",
+    "Marcuse, 1978": "Marcuse, 1978",
     "Marder & Walkington (2010)": "Marder & Walkington, 2010",
     "Marder & Walkington, 2010": "Marder & Walkington, 2010",
     "Mare (1980)": "Mare, 1980",
@@ -18667,7 +18671,9 @@
     "Packer & Goicoechea, 2000": "Packer & Goicoechea, 2000",
     "Paek & Runco (2018)": "Paek & Runco, 2018",
     "Paek & Runco, 2018": "Paek & Runco, 2018",
+    "Paetzold (1974)": "Paetzold, 1974",
     "Paetzold (1983)": "Paetzold, 1983",
+    "Paetzold, 1974": "Paetzold, 1974",
     "Paetzold, 1983": "Paetzold, 1983",
     "Pagan (2014)": "Pagan, 2014",
     "Pagan, 2014": "Pagan, 2014",
@@ -27872,8 +27878,6 @@
     "波特, 1990": "波特, 1990",
     "海克纳 (1985)": "海克纳, 1985",
     "海克纳, 1985": "海克纳, 1985",
-    "海德格尔 (1936)": "海德格尔, 1936",
-    "海德格尔, 1936": "海德格尔, 1936",
     "潘洪建 (2018)": "潘洪建, 2018",
     "潘洪建, 2018": "潘洪建, 2018",
     "澳大利亚 (2005)": "澳大利亚, 2005",
@@ -28079,8 +28083,6 @@
     "里兹维与林加德, 2009": "里兹维与林加德, 2009",
     "闵尊涛等 (2018)": "闵尊涛等, 2018",
     "闵尊涛等, 2018": "闵尊涛等, 2018",
-    "阿多诺 (1970)": "阿多诺, 1970",
-    "阿多诺, 1970": "阿多诺, 1970",
     "阿德科亚 (2023)": "阿德科亚, 2023",
     "阿德科亚, 2023": "阿德科亚, 2023",
     "阿施 (1951)": "阿施, 1951",
@@ -28114,8 +28116,6 @@
     "项目, 1980s": "项目, 1980",
     "马奥尼与希伦 (2009)": "马奥尼与希伦, 2009",
     "马奥尼与希伦, 2009": "马奥尼与希伦, 2009",
-    "马尔库塞 (1978)": "马尔库塞, 1978",
-    "马尔库塞, 1978": "马尔库塞, 1978",
     "高谢 (2000)": "高谢, 2000",
     "高谢, 2000": "高谢, 2000",
     "鲁登道夫 (1935)": "鲁登道夫, 1935",
@@ -115468,6 +115468,21 @@
       ],
       "title": ""
     },
+    "Jameson, 1971": {
+      "aliases": [
+        "Jameson, 1971",
+        "Jameson (1971)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Jameson, 1971"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch08.md"
+      ],
+      "title": ""
+    },
     "Jameson, 1991": {
       "aliases": [
         "Jameson, 1991",
@@ -142856,6 +142871,21 @@
       "seen_in": [],
       "title": "A Meta-Analysis of Research on Methods of Teaching Mathematical Problem Solving"
     },
+    "Marcuse, 1978": {
+      "aliases": [
+        "Marcuse, 1978",
+        "Marcuse (1978)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Marcuse, 1978"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch08.md"
+      ],
+      "title": ""
+    },
     "Marder & Walkington, 2010": {
       "aliases": [
         "Marder & Walkington, 2010",
@@ -164149,6 +164179,21 @@
         "wiki/concepts/competency-and-assessment/Creativity.md",
         "wiki/concepts/research-methodology/Criterion Problem.md",
         "wiki/concepts/research-methodology/Predictive Validity.md"
+      ],
+      "title": ""
+    },
+    "Paetzold, 1974": {
+      "aliases": [
+        "Paetzold, 1974",
+        "Paetzold (1974)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Paetzold, 1974"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch08.md"
       ],
       "title": ""
     },
@@ -230773,21 +230818,6 @@
       ],
       "title": ""
     },
-    "海德格尔, 1936": {
-      "aliases": [
-        "海德格尔, 1936",
-        "海德格尔 (1936)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "海德格尔, 1936"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch08.md"
-      ],
-      "title": ""
-    },
     "潘洪建, 2018": {
       "aliases": [
         "潘洪建, 2018",
@@ -232318,21 +232348,6 @@
       ],
       "title": ""
     },
-    "阿多诺, 1970": {
-      "aliases": [
-        "阿多诺, 1970",
-        "阿多诺 (1970)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "阿多诺, 1970"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch08.md"
-      ],
-      "title": ""
-    },
     "阿德科亚, 2023": {
       "aliases": [
         "阿德科亚, 2023",
@@ -232571,21 +232586,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/us/James Mahoney.md"
-      ],
-      "title": ""
-    },
-    "马尔库塞, 1978": {
-      "aliases": [
-        "马尔库塞, 1978",
-        "马尔库塞 (1978)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "马尔库塞, 1978"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch08.md"
       ],
       "title": ""
     },

@@ -83,13 +83,13 @@ updated: 2026-11-15
 
 ---
 
-> [!claim] 核心思想
+> [!person-thesis] 主张一｜感性认识具备独立审美真理，使美学脱离逻辑婢女地位
 > 鲍姆嘉通的哲学计划以巩固莱布尼茨-沃尔夫理性主义体系为初衷，主张[[Sensual Cognition|感性认识]]是连接无意识微小知觉和清晰逻辑概念的必要中介，从而为理性认识奠定基础。然而一旦赋予感性以独立的[[Aesthetic Truth|审美真理]]与完善标准，美学便脱离了逻辑婢女的从属位置，转而成为批判抽象理性贫乏性的独立哲学力量，为后世浪漫主义与现代美学批判理性奠定了先声。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 3–4, 7–13)]]
-
-> [!citation-card] 抽象与损失之辩
-> 抽象若有所得，所失亦何其多。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 10)]]
 >
-> *But what is abstraction if not a loss?*
+> > [!thesis-quote] 《美学》（*Aesthetica*, 1750/1758）
+> > 抽象若有所得，所失亦何其多。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 10)]]
+> >
+> > *But what is abstraction if not a loss?*
 
 ---
 
