@@ -4750,6 +4750,17 @@
     ]
   },
   {
+    "title": "Apollonian and Dionysian",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Apollonian and Dionysian.md",
+    "aliases": [
+      "日神与酒神",
+      "阿波罗与狄奥尼索斯",
+      "Apollonian-Dionysian Duality",
+      "日神精神与酒神精神"
+    ]
+  },
+  {
     "title": "Axiology",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Axiology.md",
@@ -5538,6 +5549,16 @@
       "incommensurable",
       "范式不可通约性",
       "paradigm incommensurability"
+    ]
+  },
+  {
+    "title": "Indirect Communication",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Indirect Communication.md",
+    "aliases": [
+      "间接沟通",
+      "间接传达",
+      "Indirekte Meddelelse"
     ]
   },
   {
@@ -9933,6 +9954,16 @@
       "符号的非任意性",
       "符号非任意性",
       "nonarbitrariness of the sign"
+    ]
+  },
+  {
+    "title": "Perspectivism",
+    "type": "concept",
+    "path": "wiki/concepts/epistemology/Perspectivism.md",
+    "aliases": [
+      "视角主义",
+      "透视主义",
+      "Epistemological Perspectivism"
     ]
   },
   {
@@ -22643,6 +22674,15 @@
     ]
   },
   {
+    "title": "Kierkegaard's Aesthetics",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Kierkegaard's Aesthetics.md",
+    "aliases": [
+      "克尔凯郭尔美学",
+      "Kierkegaard's Philosophy of Art"
+    ]
+  },
+  {
     "title": "Law of Requisite Variety",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Law of Requisite Variety.md",
@@ -22673,6 +22713,15 @@
       "Luhmannian Systems Theory",
       "社会系统理论",
       "卢曼社会系统理论"
+    ]
+  },
+  {
+    "title": "Nietzsche's Aesthetics",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Nietzsche's Aesthetics.md",
+    "aliases": [
+      "尼采美学",
+      "Nietzsche's Philosophy of Art"
     ]
   },
   {
@@ -52196,6 +52245,11 @@
     "title": "Argument_Hammermeister_2002_Cambridge_Ch06",
     "type": "argument",
     "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
+  },
+  {
+    "title": "Argument_Hammermeister_2002_Cambridge_Ch07",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md"
   },
   {
     "title": "Argument_Karp_Zamiska_2025_Technological_Republic",

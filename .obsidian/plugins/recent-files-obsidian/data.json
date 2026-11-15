@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Catharsis",
+      "path": "wiki/concepts/educational-philosophy/Catharsis.md"
+    },
+    {
       "basename": "Argument_Hammermeister_2002_Cambridge_Ch05",
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Anderson_2016_Verso_Ch09",
       "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch09.md"
-    },
-    {
-      "basename": "Argument_Anderson_2016_Verso_Ch10",
-      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch10.md"
     }
   ],
   "omittedPaths": [],

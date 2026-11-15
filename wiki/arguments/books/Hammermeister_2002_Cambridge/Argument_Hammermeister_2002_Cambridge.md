@@ -74,7 +74,7 @@ updated: 2026-11-15
 > - **书名** 《德国[[Philosophical Aesthetics|美学]]传统》（The German Aesthetic Tradition）。
 > - **撰写者** 凯·哈默迈斯特（Kai Hammermeister）。
 > - **出版信息** Cambridge University Press，2002 年，电子版 ISBN 9780511068980。
-> - **处理粒度** 分章建立论证页；目前已解读第 1–6 章，其余各章待解读。
+> - **处理粒度** 分章建立论证页；目前已解读第 1–7 章，其余各章待解读。
 
 > [!textbook-overview] 章节导航
 > | 章节 | 内容概要 | 主要关联条目 |
@@ -86,7 +86,7 @@ updated: 2026-11-15
 > | [[Argument_Hammermeister_2002_Cambridge_Ch04\|第 4 章 Schelling]] | I · The Age of [[Paradigm\|Paradigms]]；pp. 62–86。[[Friedrich Wilhelm Joseph Schelling\|谢林]]《先验唯心论体系》的[[Aesthetic Intuition\|审美直观]]与[[New Mythology\|新神话]]、《艺术哲学》的新柏拉图主义转向，以及[[Friedrich Schlegel\|施莱格尔]]与[[Karl Wilhelm Ferdinand Solger\|索尔格]]的[[Romantic Irony\|浪漫反讽]]。 | 已解读 |
 > | [[Argument_Hammermeister_2002_Cambridge_Ch05\|第 5 章 Hegel]] | I · The Age of [[Paradigm\|Paradigms]]；pp. 87–108。[[Georg Wilhelm Friedrich Hegel\|黑格尔]]的[[Absolute Spirit\|绝对精神]]与[[Hegel's Aesthetics\|黑格尔美学]]、反[[Mimesis\|摹仿]]论、[[End of Art\|艺术终结论]]及[[Karl Rosenkranz\|罗森克兰茨]]的[[Aesthetics of Ugliness\|丑的美学]]。 | 已解读 |
 > | [[Argument_Hammermeister_2002_Cambridge_Ch06\|第 6 章 Schopenhauer]] | II · Challenging the Paradigms；pp. 111–127。[[Arthur Schopenhauer\|叔本华]]的意志形而上学、[[Schopenhauer's Aesthetics\|叔本华美学]]、[[Principle of Sufficient Reason\|充足理由律]]、[[Principium Individuationis\|个体化原理]]、[[The Interesting\|趣味性]]、音乐至上论及[[Aestheticism\|唯美主义]]转向。 | 已解读 |
-> | 第 7 章 Kierkegaard, Nietzsche | II · Challenging the Paradigms；pp. 128–150。[TXT](../../../../raw/Hammermeister_2002_Cambridge_txt/Ch07_Kierkegaard_Nietzsche.txt) | 待解读 |
+> | [[Argument_Hammermeister_2002_Cambridge_Ch07\|第 7 章 Kierkegaard, Nietzsche]] | II · Challenging the Paradigms；pp. 128–150。[[Søren Kierkegaard\|克尔凯郭尔]]的[[Kierkegaard's Aesthetics\|存在美学]]与[[Indirect Communication\|间接沟通]]、[[Friedrich Nietzsche\|尼采]]的三阶段[[Nietzsche's Aesthetics\|美学]]、[[Apollonian and Dionysian\|日神与酒神]]、[[Perspectivism\|视角主义]]及“恐怖美学”引发的双向反弹。 | 已解读 |
 > | 第 8 章 Cassirer, Lukács | III · Renewing the Paradigms；pp. 153–172。[TXT](../../../../raw/Hammermeister_2002_Cambridge_txt/Ch08_Cassirer_Lukacs.txt) | 待解读 |
 > | 第 9 章 Heidegger, Gadamer | III · Renewing the Paradigms；pp. 173–193。[TXT](../../../../raw/Hammermeister_2002_Cambridge_txt/Ch09_Heidegger_Gadamer.txt) | 待解读 |
 > | 第 10 章 Adorno | III · Renewing the Paradigms；pp. 194–211。[TXT](../../../../raw/Hammermeister_2002_Cambridge_txt/Ch10_Adorno.txt) | 待解读 |

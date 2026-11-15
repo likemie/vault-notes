@@ -121,6 +121,7 @@ updated: 2026-11-15
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 动用尼采精神三变隐喻阐释三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]的组织能力演进。
+> - [[Argument_Hammermeister_2002_Cambridge|Hammermeister (2002)]]（[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]）— 梳理[[Nietzsche's Aesthetics|尼采美学]]三阶段演进、[[Apollonian and Dionysian|日神与酒神]]二元论及哲学审美化向[[Perspectivism|视角主义]]与生理学的转向（pp. 136–150）。
 
 ---
 
@@ -149,7 +150,10 @@ updated: 2026-11-15
 > |:-----|:-----|:-----------|
 > | [[Three Generations of Mission-Oriented Policy]] | 理论 | 尼采精神三变隐喻是该理论划分三代使命形态的核心哲学工具。 |
 > | [[Postmodernism]] | 理论 | 尼采的视角主义与重估一切价值构成了后现代主义教育哲学的思想先声。 |
+> | [[Nietzsche's Aesthetics]] | 理论 | 涵盖其悲剧美学、实证主义批判与晚期哲学审美化三阶段演进。 |
 > | [[Max Weber]] | 人物 | 韦伯的价值多元论与现代性反思深受尼采哲学思想的深刻启迪。 |
 > | [[Bildung]] | 概念 | 尼采是德国经典教养传统中对庸俗现代性与教育功利化最具穿透力的批判者。 |
 > | [[Mission-Oriented Innovation Policy]] | 概念 | 尼采关于儿童形态自我创造的论述为现代使命政策的敏捷实验[[Paradigm\|范式]]提供了隐喻支撑。
+> | [[Apollonian and Dionysian]] | 概念 | 《悲剧的诞生》确立的双重艺术与自然原力，晚期统一为刺激生命力的迷醉形态。 |
+> | [[Perspectivism]] | 概念 | 尼采拒绝单一客观真理、主张真值源自个体生命视角的认识论立场。 |
 > | 巴塞尔大学 | 组织 | 早年任教并形成突破性哲学思想的重要学术基地。 |

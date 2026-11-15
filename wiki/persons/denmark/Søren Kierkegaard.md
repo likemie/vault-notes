@@ -129,7 +129,7 @@ updated: 2026-11-15
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]] — 将克尔凯郭尔确立为破除实证主义客观性迷思、捍卫个体独特性与主观性能力的核心思想源头；系统呈现其对时代去人化倾向的诊断，作为全书由实证主义向自然主义与诠释[[Paradigm\|范式]]过渡的存在论支点。
-> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — 第 4 章阐释克尔凯郭尔在《论反讽概念》中批判施莱格尔式[[Romantic Irony|浪漫反讽]]使自我凌驾于一切伦理与生存严肃性之上（pp. 84–85）。
+> - [[Argument_Hammermeister_2002_Cambridge|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]剖析其对[[Romantic Irony|浪漫反讽]]的批判（pp. 84–85）；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]系统重构[[Kierkegaard's Aesthetics|克尔凯郭尔美学]]与[[Indirect Communication|间接沟通]]（pp. 128–135）。
 
 ---
 
@@ -165,4 +165,5 @@ updated: 2026-11-15
 
 > [!critique] 批评索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]] — 指出在教育研究实操中，若将主观性能力极端化为对一切经验规律的拒斥，亦可能导致研究滑入无法进行横向比较与政策对话的微观独语困境。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch07|Hammermeister (2002, Ch. 7)]] — 指出[[Kierkegaard's Aesthetics|克尔凯郭尔美学]]将感性狭隘绑定于情欲而丧失了前唯心论感性论的认知维度，其假名人物亦沦为哲学范畴的图解（pp. 129–135）。
 
