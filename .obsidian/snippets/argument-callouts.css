@@ -29111,3 +29111,44 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout.callo
 @keyframes mv-bead { 0% { left: 0; opacity: 0; } 12% { opacity: 1; } 88% { opacity: 1; } 100% { left: calc(100% - 6px); opacity: 0; } }
 @keyframes mv-sweep { from { transform: translateX(-110%); } to { transform: translateX(110%); } }
 /* <<< STEP AND PROPOSITION MOTION */
+
+/* >>> EXEGESIS SUBHEADS · 2026-11-15
+   [!exegesis] list items (and paragraphs) that open with a bold lead: the lead becomes its own
+   serif sub-heading in amber with a diamond mark and a short rule, so it reads apart from the body. */
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="exegesis"] {
+ & > .callout-content > :is(ul, ol) { list-style: none !important; padding-left: 0 !important; margin: 0 !important; }
+ & > .callout-content > :is(ul, ol) > li { position: relative; margin: 0 !important; padding: 0 0 0 .1rem !important; }
+ & > .callout-content > :is(ul, ol) > li + li { margin-top: 1.15rem !important; padding-top: 1.05rem !important; border-top: 1px dashed color-mix(in srgb, var(--ex-accent) 22%, transparent) !important; }
+ & > .callout-content > :is(ul, ol) > li::marker { content: none !important; }
+ & > .callout-content > :is(ul, ol) > li > :is(.list-bullet, .list-collapse-indicator) { display: none !important; }
+
+ & > .callout-content > :is(ul, ol) > li > :is(strong:first-child, .list-bullet + strong),
+ & > .callout-content > :is(ul, ol) > li > p:first-child > strong:first-child,
+ & > .callout-content > p > strong:first-child:not(:only-child) {
+  display: flex !important; align-items: center; gap: .55rem; width: fit-content; max-width: 100%;
+  margin: 0 0 .5rem !important; padding: 0 0 .3rem !important;
+  font: 600 1.06em/1.5 var(--ac-serif) !important; letter-spacing: .02em !important;
+  color: var(--ex-ink) !important; background: none !important; border: 0 !important;
+  background-image: linear-gradient(color-mix(in srgb, var(--ex-accent) 45%, transparent), color-mix(in srgb, var(--ex-accent) 45%, transparent)) !important;
+  background-repeat: no-repeat !important; background-position: left bottom !important; background-size: 2.4rem 1px !important;
+  transition: background-size 420ms var(--ex-ease) !important;
+ }
+ & > .callout-content > :is(ul, ol) > li > :is(strong:first-child, .list-bullet + strong)::before,
+ & > .callout-content > :is(ul, ol) > li > p:first-child > strong:first-child::before,
+ & > .callout-content > p > strong:first-child:not(:only-child)::before {
+  content: ""; flex: 0 0 auto; width: 6px; height: 6px; background: var(--ex-accent); transform: rotate(45deg);
+  transition: transform 300ms var(--ex-ease);
+ }
+ & > .callout-content > :is(ul, ol) > li > :is(strong:first-child, .list-bullet + strong) + br,
+ & > .callout-content > :is(ul, ol) > li > p:first-child > strong:first-child + br,
+ & > .callout-content > p > strong:first-child + br { display: none !important; }
+ & > .callout-content strong:first-child a.internal-link { color: inherit !important; }
+
+ @media (hover: hover) {
+  & > .callout-content > :is(ul, ol) > li:hover > :is(strong:first-child, .list-bullet + strong, p:first-child > strong:first-child),
+  & > .callout-content > p:hover > strong:first-child:not(:only-child) { background-size: 100% 1px !important; }
+  & > .callout-content > :is(ul, ol) > li:hover > :is(strong:first-child, .list-bullet + strong, p:first-child > strong:first-child)::before,
+  & > .callout-content > p:hover > strong:first-child:not(:only-child)::before { transform: rotate(135deg) scale(1.25); }
+ }
+}
+/* <<< EXEGESIS SUBHEADS */

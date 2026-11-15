@@ -81,6 +81,7 @@ updated: 2026-11-15
 > - **1790 — 康德限定于神性** 康德在《判断力批判》第 77 节将“直观理性”严格归属上帝，排除人类拥有理智直观的可能。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 68)]]
 > - **1795–1797 — 荷尔德林与费希特的哲学引入** 荷尔德林在《判断与存在》（1795）中将理智直观界定为主客紧密合一的原初状态；费希特在《知识学第二导论》（1797）中正式铸造 *intellektuelle Anschauung* 术语以指称哲学家对自我“事行”的直观。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 68–69)]]
 > - **1800 — 谢林的审美转化** 谢林在《先验唯心论体系》中指出理智直观只是脆弱、私密的“类死亡状态”，唯有转化为艺术作品中的[[Aesthetic Intuition|审美直观]]才能获得普遍客观的证明。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 69, 74–75)]]
+> - **1818 — 叔本华的矛盾借用** [[Arthur Schopenhauer|阿图尔·叔本华]]（Arthur Schopenhauer）在批判费希特哲学时曾严厉抨击理智直观，却在《作为意志和表象的世界》中借用同一概念来刻画[[Genius|天才]]对柏拉图理念的纯粹直观，用以树立艺术家与庸人的对立。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, p. 120)]]
 
 ---
 
@@ -94,8 +95,9 @@ updated: 2026-11-15
 > | [[Johann Gottlieb Fichte]] | 人物 | 在《知识学第二导论》中铸造“理智直观”术语以描述自我设定自身的事行。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, pp. 68–69)]] |
 > | [[Friedrich Hölderlin]] | 人物 | 在《判断与存在》中以理智直观指称先于命题分离的主客合一存在。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, p. 68)]] |
 > | [[Friedrich Wilhelm Joseph Schelling]] | 人物 | 论证理智直观缺乏客观可证性，必须通过艺术完成其体系使命。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, pp. 69, 74–75)]] |
+> | [[Arthur Schopenhauer]] | 人物 | 在批判费希特时猛烈攻击理智直观，却在天才美学中暗中借用该概念指称理念直观。[[Argument_Hammermeister_2002_Cambridge_Ch06\|(Hammermeister, 2002, p. 120)]] |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — 第 4 章追溯理智直观从康德、费希特、荷尔德林到谢林的演变，阐明其向审美直观转化的哲学必然性。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]追溯理智直观从康德、费希特、荷尔德林到谢林的演变，阐明其向审美直观转化的哲学必然性；[[Argument_Hammermeister_2002_Cambridge_Ch06|第 6 章]]指出叔本华虽抨击费希特的理智直观，仍将其借用于天才直观理念。

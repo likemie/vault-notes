@@ -62,12 +62,19 @@ updated: 2026-11-15
 > [!claim] Hammermeister, K.
 > **原则排斥与有限保留的张力** 黑格尔在美学开篇就把研究对象收窄为美的艺术，由此在原则上排除了自然美；但在具体讲授中，他又通过“对概念的暗示”把自然美有限地留在了体系边缘（不过通行本 13. 157–177 的自然美章节极可能出自编订者霍托的扩写）。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 92–93, 228 n.11)]]
 
+> [!concept-proposition] 命题二｜叔本华将艺术美界定为剔除自然美偶然杂质的纯化形式，同时在“万物皆美”与“艺术特权”间摇摆
+> **自然美与艺术美的同源纯化** [[Arthur Schopenhauer|叔本华]]不像黑格尔那样贬低自然美，认为静观自然与欣赏艺术本质上均能通达柏拉图理念，艺术美只是替观者滤除了自然美中的偶然成分。
+
+> [!claim] Hammermeister, K.
+> **万物皆美与强制静观的冲突** 叔本华既主张任何对象都能成为客观静观的对象因而“万物皆美”，又退一步承认某些对象更能助长、邀请乃至迫使主体进入客观静观，并由此把艺术美界定为剔除自然美中的偶然杂质；这一说法不仅削弱了艺术的独特地位，也把此前在《论趣味性》中排斥的“强制力”重新引入了美的定义。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, p. 122)]]
+
 ---
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **精神优位原则** | 说明自然美为何次于艺术美且以艺术美为认知前提 | 黑格尔美学范围界定与讲演录文本考辨 | Hegel; Hammermeister |
+> | **同源纯化与摇摆张力** | 艺术美仅在于滤除自然美中的偶然杂质，却动摇“万物皆美”与艺术特权 | 叔本华自然美与艺术美关系辨析 | [[Arthur Schopenhauer\|Schopenhauer]]; Hammermeister |
 
 ---
 
@@ -84,8 +91,9 @@ updated: 2026-11-15
 > | [[Absolute Spirit]] | 概念 | 自然缺乏绝对精神所需的自我意识，决定了自然美次于艺术美 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 93)]]。 |
 > | [[Hegel's Aesthetics]] | 理论 | 呈现黑格尔既原则排斥自然美又微弱保留它的内在文本张力 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 92–93)]]。 |
 > | [[Georg Wilhelm Friedrich Hegel]] | 人物 | 主张自然美是艺术美折射的哲学家 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 93)]]。 |
+> | [[Arthur Schopenhauer]] | 人物 | 主张艺术美只是替人剔除自然美中偶然杂质的哲学家 [[Argument_Hammermeister_2002_Cambridge_Ch06\|(Hammermeister, 2002, p. 122)]]。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002, Ch. 5)]] — 分析黑格尔把美学限定为“美的艺术的哲学”后对自然美的降格处理，并提示讲演录自然美章节的霍托扩写嫌疑（pp. 92–93）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析黑格尔对自然美的降格（pp. 92–93）；[[Argument_Hammermeister_2002_Cambridge_Ch06|第 6 章]]析叔本华自然美纯化与强迫静观矛盾（p. 122）。
