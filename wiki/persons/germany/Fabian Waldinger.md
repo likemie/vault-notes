@@ -7,6 +7,8 @@ aliases:
   - Waldinger, F.
 summary: "德籍应用微观经济学与科学学学者，慕尼黑大学应用微观经济学终身教授，曾任教于伦敦政治经济学院（LSE）与华威大学，欧洲经济学会（EEA）会士；开创性利用重大历史突发外生冲击（如 1933 年纳粹德国驱逐犹太学者、二战盟军空袭德国大学实验室）检验科学同伴效应与无形学院因果机制；其在《经济研究评论》等顶刊的系列实证研究克服了反射问题与内生性自选偏误，确立了科学学历史自然实验识别范式。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 17

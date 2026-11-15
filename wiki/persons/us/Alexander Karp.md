@@ -8,6 +8,8 @@ aliases:
   - Karp, A. C.
 summary: "美国企业家与社会理论学者，帕兰提尔科技公司联合创始人兼首席执行官，法兰克福大学社会理论博士；主张科技产业与国家防务的深度结盟，倡导技术共和国理念，构建了融合群智能、建设性不服从、商用现成采购改革与极致狐狸工程认识论的组织治理哲学。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 38

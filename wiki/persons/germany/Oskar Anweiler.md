@@ -5,6 +5,8 @@ aliases:
   - 奥斯卡·安维勒
 summary: "德国比较教育学家与历史学家，波鸿鲁尔大学教育学教授；开创战后西德苏联与东欧社会主义教育体制研究重镇，提出比较教育作为依附于普通教育学但面向历史学与社会学的交叉领域（Querschnittsbereich），主持完成两德教育体制经典对比专著。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 24

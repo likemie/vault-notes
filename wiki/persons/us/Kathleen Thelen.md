@@ -8,6 +8,8 @@ aliases:
   - Kathleen Ann Thelen
 summary: "麻省理工学院政治学讲席教授、美国文理科学院院士、前美国政治学会主席；当代历史制度主义与比较政治经济学领军学者，渐进制度变迁理论体系奠基人；系统界定制度层叠、制度漂移、制度转换与制度替代四大内生演进机制，打破传统制度分析将制度变迁局限于外生重大冲击的理论局限。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 39

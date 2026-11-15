@@ -6,6 +6,8 @@ aliases:
   - List, F.
 summary: "19 世纪德国著名历史学派经济学家、后发国家追赶与国家创新系统思想的先驱；深刻批判亚当·斯密古典自由主义的实物资本局限，创立国家政治经济学理论体系，论证知识与脑力技能作为智力资本对生产力的决定性作用，系统阐明了国家在协调技术教育、保护战略产业与组织技术学习中的不可替代功能。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 12

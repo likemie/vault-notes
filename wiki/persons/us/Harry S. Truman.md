@@ -8,6 +8,8 @@ aliases:
   - 杜鲁门总统
 summary: "美国第33任总统（1945–1953）；冷战初期美国科技政策与国防动员体制的关键奠基者；任内提出杜鲁门主义，推动学术研究军事化与国防任务机构资助垄断，强力推进氢弹计划；因科学机构管理权争议导致范内瓦·布什辞职与 OSRD 废除，其把技术作为解决政治军事问题手段的功利主义施政导向，引发了战后美国学术界对自由基础探索的长期抵制与制度博弈。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 17

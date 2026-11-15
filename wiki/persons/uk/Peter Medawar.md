@@ -7,6 +7,8 @@ aliases:
   - 梅达沃
 summary: "英国免疫学家与科学哲学家，1960年诺贝尔生理学或医学奖得主，提出科学是“可解的艺术”，深刻阐明科学假说的想象性先入与排除法检验机制。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 20

@@ -7,6 +7,8 @@ aliases:
   - Thomas Russell Nairn
 summary: "苏格兰政治理论家与历史学家，西方马克思主义民族理论重要批评者，《新左翼评论》早期主笔之一。尖锐指出未能合理解释民族主义构成了马克思主义历史性的理论败笔，提出民族主义是资本主义全球不平衡发展导致的现代病理现象；其对现代雅努斯双面性格的剖析，构成了本尼迪克特·安德森从人类学文化根基重构民族属性的关键对话基点。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 20

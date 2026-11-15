@@ -5,6 +5,8 @@ aliases:
   - 曾薇薇安
 summary: "美国心理学者与教育资助慈善战略专家，曾任威廉·T·格兰特基金会高级副总裁，现任儿童发展基金会总裁兼首席执行官，倡导研究证据民主化与长效研究-实践伙伴关系（RPP），致力于终结学术界的榨取式科研"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 23

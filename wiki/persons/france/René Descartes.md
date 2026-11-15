@@ -7,6 +7,8 @@ aliases:
   - R. Descartes
 summary: "法国哲学家、数学家与科学家，近代哲学之父。以普遍怀疑确立我思故我在（Cogito, ergo sum）第一原理，构建心物二元论形而上学体系，开创西方现代主体性哲学与理性主义传统；在数学上发明解析几何，统一代数与几何学表象。"
 type: person
+cssclasses:
+  - person-page
 nationality: france
 person_region: "france"
 person_related_count: 25

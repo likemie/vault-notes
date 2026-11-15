@@ -6,6 +6,8 @@ aliases:
   - Liu, L.
 summary: "计算社会科学家与科学学青年学者，宾夕法尼亚州立大学信息科学与技术学院助理教授；2018 年作为第一撰稿人在《自然》发表封面长文，系统提出学术爆发期模型（Hot-Streak Model），揭示了跨科学、艺术与影视领域的代表作成簇规律；2021 年在《自然·通讯》进一步揭示了“探索－利用”策略对触发爆发期的微观机制。"
 type: person
+cssclasses:
+  - person-page
 nationality: china
 person_region: "china"
 person_related_count: 17

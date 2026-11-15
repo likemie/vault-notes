@@ -6,6 +6,8 @@ aliases:
   - G. H. Mead
 summary: "美国哲学家、社会心理学家与社会学家，实用主义哲学与符号互动论奠基者，提出社会自我建构、扮演他人角色、主我与客我辩证及重要符号互动理论。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 29

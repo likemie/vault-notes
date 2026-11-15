@@ -5,6 +5,8 @@ aliases:
   - Das, J.
 summary: "乔治城大学麦考特公共政策学院教授、前世界银行发展经济学研究局（DEC）首席经济学家，古根海姆学者。长期主持巴基斯坦 LEAPS 追踪实验，开创性通过大规模随机对照试验揭示向家长与学校发放学生学业报告单（Report Cards）打破信息不对称、促使私立学校提质降费的因果机制，荣获世界银行首届研究科学院杰出科研奖，在扎普认知治理模型中作为多边机构行使“知识表彰”与微观实证治理的标杆学者。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 15

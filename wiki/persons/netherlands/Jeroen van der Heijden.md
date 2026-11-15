@@ -6,6 +6,8 @@ aliases:
   - Van der Heijden, J.
 summary: "荷兰著名公共管理与规制治理学者，新西兰惠灵顿维多利亚大学规制实践讲席教授、代尔夫特理工大学名誉研究员、澳大利亚国家大学兼聘学者；系统研究渐进制度变迁、建筑规制执行、城市气候治理与实在论政策评估，以跨学科文献史考证厘清制度层叠理论传统与概念边界，并开创性提出变迁定性取决于观察者制度位置与时间尺度的实在论评估框架。"
 type: person
+cssclasses:
+  - person-page
 nationality: netherlands
 person_region: "netherlands"
 person_related_count: 24

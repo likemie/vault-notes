@@ -5,6 +5,8 @@ aliases:
   - 希尔达·塔巴
 summary: "爱沙尼亚裔美国教育学家与课程理论家，提出课程设计的四大知识层次理论，为学科事实向核心主旨的链接提供了理论基石。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 4

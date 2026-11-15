@@ -6,6 +6,8 @@ aliases:
   - 蒂尔
 summary: "德裔美国著名风险投资家、政治思想家、PayPal 联合创始人与 Palantir 早期联合创始人，长期批判大构想饥荒与科技大停滞假说，主张以阿波罗登月计划等非连续重大物理与科技跃升作为衡量人类真正进步的根本标尺。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 14

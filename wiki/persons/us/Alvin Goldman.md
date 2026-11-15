@@ -6,6 +6,8 @@ aliases:
   - Alvin I. Goldman
 summary: "美国哲学家，当代可靠主义认识论与社会认识论的核心奠基人；提出过程可靠主义、知识辨识理论与专家证词评估模型，为认识论认知与人工智能中介知识确证奠定哲学基石。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 22

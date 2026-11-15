@@ -7,6 +7,8 @@ aliases:
   - Papadopoulos, G. S.
 summary: "希腊裔国际教育政策专家与历史学家，经合组织（OECD）前教育副司长与教育研究与创新中心（CERI）前副主任；著有经合组织教育官方史《1960–1990年的教育：经合组织视角》（1994），奠定了战后三十年经合组织包容多元意识形态、倡导教育公共物品价值与尊重成员国主权自愿协商的“帕帕多普洛斯时代”。"
 type: person
+cssclasses:
+  - person-page
 nationality: global
 person_region: "global"
 person_related_count: 18

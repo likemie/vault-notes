@@ -9,6 +9,8 @@ aliases:
   - Cattell, J. M.
 summary: "美国心理学家与科学学先驱，哥伦比亚大学心理学系首任系主任，美国心理学会（APA）前主席与《科学》（Science）杂志长期主编；1906–1910 年主编出版《美国科学名人录》，率先主张运用科学方法定量测定促进或阻碍科学进步的社会条件，开创了对科学家群体进行系统量化排名的历史先河。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 9

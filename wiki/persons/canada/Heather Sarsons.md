@@ -7,6 +7,8 @@ aliases:
   - Sarsons, H.
 summary: "加拿大经济学家，不列颠哥伦比亚大学温哥华经济学院副教授，曾任芝加哥大学布斯商学院经济学副教授；依托全美前三十顶尖经济学系教员人事数据库，实证揭示了女性经济学者在合著发表中遭遇的严重终身教职晋升惩罚，确证姓氏字母序署名机制容易放大评价层面的无意识性别偏见。"
 type: person
+cssclasses:
+  - person-page
 nationality: canada
 person_region: "canada"
 person_related_count: 6

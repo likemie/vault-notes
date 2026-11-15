@@ -5,6 +5,8 @@ aliases:
   - 霍勒斯·曼
 summary: "美国公立学校运动领袖与马萨诸塞州教育委员会首任秘书，作为比较教育第一重论述代际（启蒙准科学与行政改良代际）核心代表，1844年第七次年度报告以校为中心考察欧洲初等教育，确立教育为自由共和制度基石并开创将外部经验转译为国内改革政治合法化依据的比较借用范式"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 38

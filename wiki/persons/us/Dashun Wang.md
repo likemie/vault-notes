@@ -6,6 +6,8 @@ aliases:
   - Wang, D.
 summary: "美籍华裔复杂系统与计算社会科学家，美国西北大学凯洛格管理学院讲席教授、科学学与创新科学中心（CSSI）创始主任；运用海量学术与专利大数据、复杂网络和统计物理模型，在团队科学尺度分工、学术爆发热手效应、WSB 引文动力学模型、引文分布普适性与学者影响力 Q 模型等领域做出了奠基性贡献，与巴拉巴西合著《科学学》专著。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 36

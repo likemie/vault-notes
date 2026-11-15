@@ -4,6 +4,8 @@ aliases:
   - 雅尔·本特森
 summary: "瑞典教育学者，经合组织教育研究与创新中心（OECD CERI）资深项目主管与实际掌舵人（1971–2002）。领导 CERI 历经从 1970 年代人文主义“循环教育”（Recurrent Education）向 1980 年代跨国教育指标体系（INES 项目）及 1992 年首版《教育概览》（EAG）的战略转型，并在 1990 年代强力推动跨国学生学业测评开发，被史学界公认为经合组织从冷战经济协调机构重塑为全球量化教育指标与评估帝国的幕后关键操盘手。"
 type: person
+cssclasses:
+  - person-page
 nationality: "sweden"
 person_region: "sweden"
 person_related_count: 36

@@ -7,6 +7,8 @@ aliases:
   - King Chulalongkorn
 summary: "暹罗（泰国）查克里王朝第五任国王（1868–1910年在位），泰国近代国家转型的核心奠基人。在《想象的共同体》中，本尼迪克特·安德森将其与明治天皇进行跨国比较，剖析亚非传统君主在西方殖民包围下推行制度自卫的独特模式。与明治日本全民军工动员不同，朱拉隆功以荷属东印度、英属马来亚等周边殖民地的“官员国家”为蓝本，推进王权集权化与财政理性化，并大规模引进华人契约劳工承担基础设施开发，刻意使本土泰人农业社会保持不受触动与非政治化，实现了不激活大众民族主义的专制统治延续。"
 type: person
+cssclasses:
+  - person-page
 nationality: thailand
 person_region: "thailand"
 person_related_count: 11

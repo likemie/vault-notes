@@ -6,6 +6,8 @@ aliases:
   - Joseph Ernest Renan
 summary: "19世纪法国著名哲学家与历史学家；在巴黎索邦大学著名演讲中发表《什么是民族？》，率先提出将民族界定为基于历史共同牺牲与当下持续共识的“每日公民投票”，奠定了现代公民民族主义与国家认同理论的哲学基石。"
 type: person
+cssclasses:
+  - person-page
 nationality: france
 person_region: "france"
 person_related_count: 22

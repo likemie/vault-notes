@@ -7,6 +7,8 @@ aliases:
   - Garfield, E.
 summary: "科学计量学与现代信息检索之父，科学信息研究所（ISI）创始人；首创科学引文索引（SCI）、期刊引证报告（JCR）与期刊影响因子（JIF），开创性地将学术引文从单纯文献溯源标记转化为对科学思想网络、演化路径与跨学科影响力展开大规模定量测度的核心工具。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 17

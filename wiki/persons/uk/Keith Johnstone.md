@@ -6,6 +6,8 @@ aliases:
   - Johnstone, K.
 summary: "英国著名戏剧导演、剧作家与教育家，现代即兴剧（Improvisational Theatre）理论与教学体系的奠基人，《即兴》（Impro）作者；提出地位交易（Status Transactions）与“本质地位与扮演地位”（Status You Are vs Status You Play）理论，揭示人际权力博弈的表演性与工具性属性。"
 type: person
+cssclasses:
+  - person-page
 nationality: "uk"
 person_region: "uk"
 person_related_count: 12

@@ -6,6 +6,8 @@ aliases:
   - De Jong, T.
 summary: "荷兰特温特大学讲席教授、欧洲科学院院士、国际著名学习科学家与教育技术学家。欧洲虚拟科学实验生态圈 Go-Lab 发起人与首席科学家，《教育研究评论》2023 年捍卫探究教学里程碑综述第一作者，指导式探究学习原理与认知支架协同理论的领军学者"
 type: person
+cssclasses:
+  - person-page
 nationality: "netherlands"
 person_region: "netherlands"
 person_related_count: 17

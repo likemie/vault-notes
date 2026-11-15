@@ -7,6 +7,8 @@ aliases:
   - Fenn, J. B.
 summary: "美籍分析化学家与诺贝尔化学奖得主，曾任耶鲁大学与弗吉尼亚联邦大学教授；因发明用于生物大分子质谱分析的电喷雾电离技术（ESI）于 2002 年荣获诺贝尔奖，其在年逾七旬被耶鲁强制退休后继续探索并做出巅峰成就的经历，成为科学学反驳年龄限制创造力迷思的标志性范例。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 20

@@ -7,6 +7,8 @@ aliases:
   - Sandel, M. J.
 summary: "美国著名政治哲学家、哈佛大学讲座教授，当代社群主义政治哲学代表人物；以对自由主义国家道德中立性与市场必胜论的深刻批判闻名，指出将善观念逐出公共广场留下的价值真空导致公共话语的琐碎化与科技产业的逃避主义。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 19

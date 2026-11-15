@@ -6,6 +6,8 @@ aliases:
   - Braudel, F.
 summary: "法国著名历史学家，法国年鉴学派第二代领袖，法国高等社会科学院（EHESS）创办人，法兰西学院院士，倡导长时段历史观与总体史范式。本尼迪克特·安德森在《想象的共同体》中征引其地中海研究，指出布罗代尔将个别政治事件视为历史尘埃，主张以平均化的世俗死亡率观察历史，以此反衬出现代民族传记对暴力死难的神圣化截取。"
 type: person
+cssclasses:
+  - person-page
 nationality: france
 person_region: "france"
 person_related_count: 14

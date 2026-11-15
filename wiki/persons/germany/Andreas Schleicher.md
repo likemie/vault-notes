@@ -6,6 +6,8 @@ aliases:
   - A. Schleicher
 summary: "德国教育统计学家、经合组织（OECD）教育与技能司司长及秘书长教育政策特别顾问，被公认为国际学生评估项目（PISA）的总设计师；主导将经合组织重塑为全球教育数据中枢与政策中介平台，开创了基于大规模跨国评估的软性硬事实治理范式。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 43

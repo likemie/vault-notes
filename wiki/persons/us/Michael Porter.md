@@ -7,6 +7,8 @@ aliases:
   - Michael E. Porter
 summary: "美国哈佛商学院经济学与战略管理学者，当代竞争战略、国家竞争优势与产业集群理论奠基人。其提出的钻石模型阐明了国家竞争优势源于本土要素、需求、相关产业与企业竞争的动态互动；其全球化反而使母国环境更重要的论断，被创新经济学（如克里斯·弗里曼）确认为国家创新系统不可替代的理论支柱，并被批判地缘政治学分析为塑造当代枢纽与流动空间政策的核心想象来源。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 30

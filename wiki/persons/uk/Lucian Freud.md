@@ -5,6 +5,8 @@ aliases:
   - Freud, L.
 summary: "德裔英国具象派画家，心理学大师西格蒙德·弗洛伊德之孙；以极度专注、悬置主观评判的细致观察和冷峻逼真的具象画风著称，被卡普与扎米斯卡引入工程思维认识论，作为直面客观物理现实、克制将先验偏见强加于世界之上的典范。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 14

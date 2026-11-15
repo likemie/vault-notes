@@ -7,6 +7,8 @@ aliases:
   - Jürgen Schriewer
 summary: "德国比较教育学者与系统理论家，柏林洪堡大学比较教育研究所荣休讲座教授；将卢曼的自创生社会系统理论与世界体系理论引入比较教育，创立以“向世界参照外化”（Externalisation）为核心的话语形成分析范式，坚守欧洲比较教育的文化历史与学科本体理论传统。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 44

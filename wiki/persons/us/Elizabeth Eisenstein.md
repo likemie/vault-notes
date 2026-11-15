@@ -8,6 +8,8 @@ aliases:
   - E. Eisenstein
 summary: "美国历史学家，早期现代欧洲印刷文化史与媒介传播史开拓者，密歇根大学历史学荣休教授。代表作《作为变革动力的印刷机》（The Printing Press as an Agent of Change, 1979）系统论证了活字印刷术作为独立因果变量，如何通过文本标准化、排版固定化与跨地域普及驱动文艺复兴、宗教改革与近代科学革命。其关于印刷品创造‘远距离无形公众’的论断，为本尼迪克特·安德森的印刷资本主义理论提供了关键史学奠基。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 3

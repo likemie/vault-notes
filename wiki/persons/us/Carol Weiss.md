@@ -5,6 +5,8 @@ aliases:
   - Weiss, C. H.
 summary: "美国政策与社会研究学者，研究利用（research utilization）研究的开创者，提出研究利用的七种模型与知识渗透（knowledge creep）概念，奠定概念性、工具性与象征性使用类型学的基础"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 17

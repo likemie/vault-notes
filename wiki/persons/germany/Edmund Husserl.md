@@ -6,6 +6,8 @@ aliases:
   - Edmund Gustav Albrecht Husserl
 summary: "奥地利-德国哲学家与数学家，现象学奠基人，提出悬置（epoché）方法与“回到事物本身”原则，开创先验现象学传统并确立生活世界为科学认识的本体论地基。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 25

@@ -8,6 +8,8 @@ aliases:
   - Madden, N. A.
 summary: "美国当代著名教育心理学家、约翰斯·霍普金斯大学教育研究与改革中心研究员、Success for All 基金会联合创始人兼首席执行官，合作整合阅读与写作（CIRC）与全校循证阅读方案的核心研发者"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 15

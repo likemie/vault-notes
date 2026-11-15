@@ -6,6 +6,8 @@ aliases:
   - Klahr, D.
 summary: "美国卡耐基梅隆大学认知心理学与学习科学荣休讲席教授，科学推理与探究技能研究巨擘。提出科学发现双空间搜索模型（SDDS），开创变量控制策略（CVS）经典教学实验；其关于直接讲授与发现学习的对比研究引发了国际学习科学界长达二十年的大论辩"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 23

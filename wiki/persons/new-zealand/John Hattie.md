@@ -6,6 +6,8 @@ aliases:
   - 哈蒂
 summary: "新西兰教育统计学家，著有 Visible Learning，是元分析综合的代表人物，为教育研究和政策实践提供高影响力但极具争议的证据排序框架。"
 type: person
+cssclasses:
+  - person-page
 nationality: new-zealand
 person_region: "new-zealand"
 person_related_count: 164

@@ -5,6 +5,8 @@ aliases:
   - Fei, X.
 summary: "中国著名人类学家与社会学家，提出了中华民族多元一体格局与差序格局理论，其 1988 年对中华民族的重新阐释深刻影响了国家民族政策与历史教育叙事"
 type: person
+cssclasses:
+  - person-page
 nationality: china
 person_region: "china"
 person_related_count: 15

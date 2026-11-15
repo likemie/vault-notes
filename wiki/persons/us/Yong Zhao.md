@@ -5,6 +5,8 @@ aliases:
   - 赵勇
 summary: "华裔比较教育学者，堪萨斯大学教育学院教授，以教育副作用框架和 PISA 系统性批评著称，为反思标准化改革和国际评估提供批判性视角"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 16

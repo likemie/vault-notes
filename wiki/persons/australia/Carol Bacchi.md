@@ -6,6 +6,8 @@ aliases:
   - Bacchi
 summary: "澳大利亚政治学家、阿德莱德大学政治学荣休教授，后结构批判政策分析代表学者，创立“问题表征分析法”（WPR 框架），确立政策主动生产并建构问题本身的建构主义认识论命题"
 type: person
+cssclasses:
+  - person-page
 nationality: australia
 person_region: "australia"
 person_related_count: 25

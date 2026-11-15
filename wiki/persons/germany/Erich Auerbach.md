@@ -6,6 +6,8 @@ aliases:
   - E. Auerbach
 summary: "德国罗曼语文学家与比较文学家，代表作《摹仿论》。通过对西方古典与中世纪文学表象机制的微观细读，系统阐明了基督教以预表与实现为核心的图型解释学及垂直神圣时间观；本尼迪克特·安德森据此剖析中世纪宗教共同体如何在缺乏横向因果与世俗同时性的条件下维持普世图景。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 8

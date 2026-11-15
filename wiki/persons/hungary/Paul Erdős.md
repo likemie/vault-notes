@@ -8,6 +8,8 @@ aliases:
   - Paul Erdos
 summary: "匈牙利传奇数学家，20 世纪发表论著最多的学者之一（逾 1,500 篇数学论著，与 500 余位学者合作）；以超常的合作广度与终生巡回合作的学术生涯著称，成为数学与科学合著网络中典型的核心枢纽节点，并催生了测度网络距离的“埃尔德什数”。"
 type: person
+cssclasses:
+  - person-page
 nationality: hungary
 person_region: "hungary"
 person_related_count: 19

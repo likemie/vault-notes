@@ -7,6 +7,8 @@ aliases:
   - George A. Keyworth
 summary: "美国核物理学家与科技政策专家，1981至1985年出任里根总统科学顾问兼白宫科技政策办公室主任；在应对半导体与先进制造国际竞争危机中力挺工程研究中心计划，与布洛赫合力重塑美国联邦科研资助格局。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 11

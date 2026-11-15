@@ -6,6 +6,8 @@ aliases:
   - 尼葛洛庞帝
 summary: "美国计算机科学家、麻省理工学院媒体实验室联合创始人与《数字化生存》作者，提出当代科技创业生态陷入微小浅层消费应用的“大构想饥荒”（Big Idea Famine）。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 9

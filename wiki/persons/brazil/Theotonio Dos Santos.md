@@ -6,6 +6,8 @@ aliases:
   - Dos Santos, T.
 summary: "巴西著名马克思主义经济学家与社会学家，依附理论与新依附论的核心奠基人，系统揭示外围国家在世界资本主义体系不平等交换与跨国依附结构下的畸形积累与不发达本质，为解构外围国家教育扩张与受限国家体制提供了宏观政治经济学根基"
 type: person
+cssclasses:
+  - person-page
 nationality: brazil
 person_region: "brazil"
 person_related_count: 19

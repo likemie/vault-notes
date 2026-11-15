@@ -6,6 +6,8 @@ aliases:
   - "Woods, P."
 summary: "英国教育社会学家，开放大学荣休教授，微观课堂民族志与教育符号互动论领军人物。在教育研究中提炼符号互动论三大核心公设，开创师生日常生存策略与亚文化协商的经典深描，确立以互动本身作为基本分析单位的方法论纲领。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 23

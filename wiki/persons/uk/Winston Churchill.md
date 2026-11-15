@@ -6,6 +6,8 @@ aliases:
   - Winston S. Churchill
 summary: "英国政治家、演说家与历史学家，二战时期英国首相，界定文明是以法治、议会和公民意见取代强权暴政的社会形态"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 1

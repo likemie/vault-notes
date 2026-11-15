@@ -4,6 +4,8 @@ aliases:
   - 苏格拉底
 summary: "古希腊哲学家，西方批判性思维与省察生活的最高人格化身，以反诘法、精神助产术和未经省察的生活不值得过著称，虽未立文字却通过柏拉图对话录深刻塑造了西方学习传统"
 type: person
+cssclasses:
+  - person-page
 nationality: greece
 person_region: "greece"
 person_related_count: 29

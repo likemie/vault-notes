@@ -5,6 +5,8 @@ aliases:
   - 纳夫西卡·亚历克夏杜
 summary: "瑞典于默奥大学应用教育学系教育工作学教授，欧洲教育政策与治理、比较教育学学者，牛津大学哲学博士。长期聚焦欧盟跨国教育治理、开放协调法机制、话语制度主义与理念权力，系统揭示超国家教育议程建构中的制度惯性、部门割裂与主权防线博弈。"
 type: person
+cssclasses:
+  - person-page
 nationality: sweden
 person_region: "sweden"
 person_related_count: 24

@@ -6,6 +6,8 @@ aliases:
   - Venky Narayanamurti
 summary: "美籍印裔应用物理学家与科技政策学者，哈佛大学工程与应用科学学院（SEAS）首任院长、哈佛肯尼迪政府学院科学、技术与公共政策项目（STPP）主任，曾任贝尔实验室固态电子学研究主管与桑迪亚国家实验室副总裁；批判战后以布什报告为代表的基础/应用研究二分法，开创“发现-发明循环理论”，主张重构以长远公共效用为导向的联邦科研资助机制。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 28

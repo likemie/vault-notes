@@ -6,6 +6,8 @@ aliases:
   - Blackstone, W.
 summary: "18 世纪英国法学家、牛津大学首位英国法讲座教授、法官；代表作《英国法释义》奠定了英美普通法体系的现代法理学基石，并确立了著名的布莱克斯通比率（宁纵十罪，不枉一无辜）。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 9

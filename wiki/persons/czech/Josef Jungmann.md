@@ -7,6 +7,8 @@ aliases:
   - Jungmann, J.
 summary: "捷克语文学家、文学史家与翻译家，捷克民族复兴运动第二阶段的核心领袖。编纂里程碑式的五卷本《捷德词典》（1835–1839），通过广泛吸收古语、外方言与近缘斯拉夫语词汇极大拓展了捷克语表达现代哲学、科学与高雅文学的能力；本尼迪克特·安德森在《想象的共同体》中将其双语词典编纂视为打破帝国官方语言垄断、赋予被统治族群方言以平等尊严的关键技术媒介。"
 type: person
+cssclasses:
+  - person-page
 nationality: czech
 person_region: "czech"
 person_related_count: 13

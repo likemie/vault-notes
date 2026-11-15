@@ -5,6 +5,8 @@ aliases:
   - Dale, R.
 summary: "英国批判教育社会学家与比较教育学者，布里斯托尔大学荣休教授。提出“全球结构化教育议程”（GSAE），与苏珊·罗伯逊等共同构建“多标度教育治理”理论，并系统归纳了全球化影响国家教育政策的八大外部机制。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 29

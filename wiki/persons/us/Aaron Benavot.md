@@ -6,6 +6,8 @@ aliases:
   - Benavot, A.
 summary: "美国著名比较教育学家与教育社会学家，纽约州立大学奥尔巴尼分校教授，联合国教科文组织《全球教育监测报告》（GEMR）前主任。斯坦福新制度主义核心成员，代表作《大众学校知识》，系统开辟了全球小学课程门类时间分配的跨国量化比较研究，并实证揭示了分权改革背景下以色列初中课程落地的阶层分化。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 24

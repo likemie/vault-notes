@@ -7,6 +7,8 @@ aliases:
   - Fredric Lawrence Cheyette
 summary: "美国中世纪历史学家，阿默斯特学院教授，在1976年美国历史学会年会上率先呼吁废除大学西方文明通识必修课"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 3

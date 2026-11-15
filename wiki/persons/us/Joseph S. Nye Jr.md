@@ -6,6 +6,8 @@ aliases:
   - Joseph Nye
 summary: "美国著名国际关系理论家、新自由制度主义奠基人之一，哈佛大学肯尼迪政府学院前院长；系统提出“软实力”与“巧实力”理论范式，深刻重塑了当代全球政治、外交战略与地缘权力结构研究"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 29

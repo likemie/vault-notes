@@ -5,6 +5,8 @@ aliases:
   - John G. O'Neill
 summary: "新西兰梅西大学教育学院教授、批判教育政策学者，2012 年发起公开信成功阻遏政府借哈蒂理论扩大公立学校班额，2016 年调查披露认知教育公司向哈蒂累计支付逾 86.9 万新西兰元第三方报酬的政商利益旋转门。"
 type: person
+cssclasses:
+  - person-page
 nationality: new-zealand
 person_region: "new-zealand"
 person_related_count: 17

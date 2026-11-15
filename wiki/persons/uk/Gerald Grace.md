@@ -5,6 +5,8 @@ aliases:
   - 杰拉尔德·格雷斯
 summary: "英国教育社会学学者，新西兰大学法中社会的批评者与良知条款首创者，天主教教育学与城市教育社会学代表人物，直面新管理主义与技术理性对大学自治的侵蚀。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 18

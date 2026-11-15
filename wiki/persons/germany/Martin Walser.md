@@ -6,6 +6,8 @@ aliases:
   - Martin Johannes Walser
 summary: "当代德国著名小说家、剧作家与公共知识分子；在1998年法兰克福和平奖演讲中批判大屠杀记忆的媒体工具化与“道德大棒”，引发了战后德国影响深远的“瓦尔泽-布比斯之争”，成为反思集体内疚与国家认同正常化的核心代表。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 12

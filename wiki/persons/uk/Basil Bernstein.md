@@ -7,6 +7,8 @@ aliases:
   - Basil B. Bernstein
 summary: "英国当代教育社会学与社会语言学奠基理论家，开创语言代码理论、知识分类与框架、教育话语装置、横向知识结构与弱语法理论，从结构与权力视角深刻批判微观互动论对不平等再生产的忽视。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 46

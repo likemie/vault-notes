@@ -6,6 +6,8 @@ aliases:
   - Kedourie, E.
 summary: "英国著名保守主义政治哲学家、思想史家，伦敦政治经济学院（LSE）政治学荣休教授，英国国家学术院院士。1960年出版奠基作《民族主义》，将民族主义界定为欧洲大陆近代观念发明的破坏性狂热，开启英语学界对现代民族主义思想谱系的系统研究。本尼迪克特·安德森将其与盖尔纳、霍布斯鲍姆、安东尼·史密斯并列为二战后英国民族主义研究四大代表人物之一。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 10

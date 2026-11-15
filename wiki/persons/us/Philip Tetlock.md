@@ -8,6 +8,8 @@ aliases:
   - Tetlock, P.
 summary: "加拿大裔美国政治心理学家，宾夕法尼亚大学心理学与政治学教授；通过对政治专家预测长达二十年的大规模实证跟踪研究，提出刺猬型与狐狸型思维分类，系统论证概率思维与经验务实态度对政治与战略预测准确度的决定性影响。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 15

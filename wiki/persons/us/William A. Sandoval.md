@@ -7,6 +7,8 @@ aliases:
   - 桑多瓦尔
 summary: "美国科学教育与学习科学学者，加州大学洛杉矶分校教授，实践认识论与科学解释因果叙事评价标准开创者，推动科学课堂从形式论证转向因果机制解释与认识论探究实践。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 24

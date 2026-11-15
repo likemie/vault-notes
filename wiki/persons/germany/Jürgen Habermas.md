@@ -7,6 +7,8 @@ aliases:
   - Habermas, J.
 summary: "德国当代哲学家与社会理论家，法兰克福学派第二代领袖，系统提出交往行动理论、公共领域结构转型、三种知识构成性兴趣学说与晚期资本主义合法化危机理论，深刻重塑了批判教育学、实证主义批判与现代国家治理合法性分析。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 51

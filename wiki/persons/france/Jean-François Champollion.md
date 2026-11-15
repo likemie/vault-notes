@@ -7,6 +7,8 @@ aliases:
   - Jean-Francois Champollion
 summary: "19世纪法国著名历史学家、语言学家与现代埃及学奠基人；1822年凭借对罗塞塔石碑与古埃及象形文字的系统破译发表《致达西埃先生信》，1836年出版巨著《埃及语法》；他不仅开创了科学的埃及考古与文献破译学，更与威廉·琼斯的梵语研究一道，向欧洲思想界揭示了远较希腊罗马更为古老深邃的非欧洲古代文明世界，从根本上动摇了传统圣经年代学与古典中心主义对“古代”的垄断，推动了19世纪语文学革命的全球化拓展。"
 type: person
+cssclasses:
+  - person-page
 nationality: "france"
 person_region: "france"
 person_related_count: 6

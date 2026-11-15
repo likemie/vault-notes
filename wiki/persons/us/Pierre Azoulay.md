@@ -8,6 +8,8 @@ aliases:
   - Azoulay, P.
 summary: "法裔美籍实证经济学家与科学学学者，麻省理工学院斯隆管理学院国际管理与战略学教授，美国国家经济研究局（NBER）研究员；以将准实验因果推断范式深度引入科学经济学与科学社会学著称，通过设计针对霍华德·休斯医学研究所研究员与诺贝尔奖得主的实证研究，确立了剥离未观测天资并证实马太效应纯粹因果地位的方法论范式。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 36

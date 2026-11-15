@@ -7,6 +7,8 @@ aliases:
   - Michelet, J.
 summary: "19世纪法国著名历史学家与文学家，法国浪漫主义史学与现代民族主义史学奠基人之一。主张历史学应作为逝者的法庭，首创代表无名死者发言的史学方法，被本尼迪克特·安德森视为第二代民族主义历史意识由断裂转向谱系连续的核心代表。"
 type: person
+cssclasses:
+  - person-page
 nationality: france
 person_region: "france"
 person_related_count: 14

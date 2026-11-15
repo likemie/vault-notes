@@ -5,6 +5,8 @@ aliases:
   - Fiona E. Murray
 summary: "麻省理工学院斯隆管理学院创新与技术管理终身教授，创新经济学与科学学权威学者；与斯科特·斯特恩共同开创专利与科学出版物配对（PPP）方法论，系统揭示知识产权对学术知识传播与累积性创新的因果影响，并深入研究开放科学、科研工具治理与公私制度边界。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 26

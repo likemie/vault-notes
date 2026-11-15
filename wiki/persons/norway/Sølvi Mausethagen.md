@@ -6,6 +6,8 @@ aliases:
   - 毛塞特哈根
 summary: "挪威奥斯陆城市大学（OsloMet）教育学教授，教育治理、研究使用与教师专业性研究领军学者，系统批判教育研究使用中的个体缺陷归因偏误，倡导第四代专业敏感型研究使用与教师研究素养。"
 type: person
+cssclasses:
+  - person-page
 nationality: norway
 person_region: "norway"
 person_related_count: 25

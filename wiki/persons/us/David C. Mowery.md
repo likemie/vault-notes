@@ -8,6 +8,8 @@ aliases:
   - Mowery, D.
 summary: "美国著名创新经济学与科技政策学者，加州大学伯克利分校哈斯商学院讲席教授、NBER 研究员；演化经济学与技术创新史制度学派核心代表，长期致力于国家创新系统、国防研发与首发采购催化机制、高技术研发联盟治理、大学技术转移及技术轨迹演进规律研究。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 52

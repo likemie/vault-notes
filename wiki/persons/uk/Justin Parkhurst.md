@@ -6,6 +6,8 @@ aliases:
   - J. Parkhurst
 summary: "贾斯汀·帕克赫斯特（Justin Parkhurst）是伦敦政治经济学院（LSE）全球卫生政策副教授，英国著名政策学者与循证治理理论家，提出‘证据的良好治理’（Good Governance of Evidence）理论体系，著有里程碑专著《The Politics of Evidence》（2017），深刻影响了公共政策、卫生治理与教育证据生态研究。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 15

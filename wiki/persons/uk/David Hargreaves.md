@@ -9,6 +9,8 @@ aliases:
   - Hargreaves, D.
 summary: "英国著名教育社会学家、教育改革家与政策顾问，开创性运用符号互动论与越轨标签理论剖析课堂分层机制，1996 年以医学类比演讲开启英国循证教育运动政策大讨论，后系统构想自我改进学校系统并开创联合实践发展范式"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 45

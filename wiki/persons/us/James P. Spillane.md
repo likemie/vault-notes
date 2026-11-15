@@ -7,6 +7,8 @@ aliases:
   - 詹姆斯·P·斯皮兰
 summary: "美国西北大学教育与社会政策学院讲座教授，分布式领导理论与政策执行认知学派开山学者；早期与戴维·科恩合作界定课程治理与课堂实践的互动机制，后系统创立分布式领导分析框架与一线教师意义建构模型，深刻重塑了当代学校治理与教学改进研究。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 17

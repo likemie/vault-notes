@@ -6,6 +6,8 @@ aliases:
   - 克莱里德斯
 summary: "塞浦路斯比较教育与教育史学者，塞浦路斯大学副教授，主要运用国际关系理论（如 Wight 国际理论三大传统）解构比较教育的历史演变与知识生产的权力政治"
 type: person
+cssclasses:
+  - person-page
 nationality: cyprus
 person_region: "cyprus"
 person_related_count: 19

@@ -6,6 +6,8 @@ aliases:
   - Galton, F.
 summary: "英国维多利亚时代著名博学家、人类学家与统计学先驱，达尔文表弟；开创了回归与相关等现代统计方法、指纹鉴别与心理测量学，并通过 1906 年普利茅斯家畜市集估重实验奠定了群体智慧的经验研究传统。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 12

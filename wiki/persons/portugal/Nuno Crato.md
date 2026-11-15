@@ -5,6 +5,8 @@ aliases:
   - 努诺·克拉托
 summary: "葡萄牙应用数学家、统计学家与前教育与科学部部长（2011–2015）；主导了国际著名的‘葡萄牙教育奇迹’，在欧洲主权债务危机与财政紧缩背景下，推行基于结构化核心大纲、全国学段终点统测与早周期补救教学的循证改革，使葡萄牙在国际学生评估项目（PISA）中实现历史性跨周期持续攀升。"
 type: person
+cssclasses:
+  - person-page
 nationality: "portugal"
 person_region: "portugal"
 person_related_count: 13

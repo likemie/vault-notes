@@ -8,6 +8,8 @@ aliases:
   - Galenson, D.
 summary: "美籍经济学家，芝加哥大学经济学教授，美国国家经济研究局（NBER）研究员；以将经济学实证计量范式引入艺术史与人类创造力生命周期研究著称，开创性提出“概念型创新者”（早熟演绎突破）与“实验型创新者”（大器晚成经验归纳）的创造力双模态分类体系，为科学学中解析不同学科学者峰值年龄差异奠定了认知认识论基础。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 18

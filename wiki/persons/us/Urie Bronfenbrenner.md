@@ -5,6 +5,8 @@ aliases:
   - 布朗芬布伦纳
 summary: "美籍著名发展心理学家，康奈尔大学终身教授，生态系统理论与生物生态学发展模型的开创者，美国联邦“开端计划”（Head Start）的核心学术奠基人，其提出的历时系统（Chronosystem）被创造性跨学科应用于政策制定时间生态研究。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 10

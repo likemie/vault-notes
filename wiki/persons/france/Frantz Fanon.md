@@ -6,6 +6,8 @@ aliases:
   - 法农
 summary: "马提尼克裔法国精神病学家和去殖民思想家，黑皮肤，白面具作者，为教育研究分析殖民主体性、种族化经验与知识解放提供基础。"
 type: person
+cssclasses:
+  - person-page
 nationality: france
 person_region: "france"
 person_related_count: 10

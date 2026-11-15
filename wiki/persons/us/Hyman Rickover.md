@@ -8,6 +8,8 @@ aliases:
   - Hyman G. Rickover
 summary: "美国海军四星上将，被誉为核海军之父；领导开发了世界上第一艘核动力潜艇鹦鹉螺号（USS Nautilus），奠定了美国在冷战时期的水下绝对战略威慑优势；以注重实效、打破官僚繁文缛节与极端严苛的工程管理著称。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 10

@@ -6,6 +6,8 @@ aliases:
   - L. Febvre
 summary: "法国著名历史学家，年鉴学派联合创始人，与亨利-让·马丁合著经典名著《书的诞生》。开创结合经济统计与社会心态的书籍史与印刷文化研究；本尼迪克特·安德森依据其对欧洲摇篮本印刷规模、巴黎图书市场拉丁文向方言逆转以及早期印刷工坊资本主义属性的实证统计，论证了神圣真理语言霸权的瓦解与印刷资本主义的发生机制。"
 type: person
+cssclasses:
+  - person-page
 nationality: france
 person_region: "france"
 person_related_count: 5

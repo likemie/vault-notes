@@ -6,6 +6,8 @@ aliases:
   - J. Zhang
 summary: "学习科学与教育技术学者，纽约州立大学奥尔巴尼分校副教授；长期深耕知识建构理论与计算机支持协作学习，提出反思性结构化机制，揭示学习者协同构建探究方向与弹性组织架构以行使认识能动性的实践路径"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 27

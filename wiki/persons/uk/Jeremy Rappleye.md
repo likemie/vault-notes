@@ -5,6 +5,8 @@ aliases:
   - 杰里米·拉普利
 summary: "英国比较教育学者，提出跨国吸引力情境概念地图，将情境拆解为结构层与人的层面的双层互动，以停滞的修辞重新框定抵制的力量"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 8

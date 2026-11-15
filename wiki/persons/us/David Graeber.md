@@ -6,6 +6,8 @@ aliases:
   - 格雷伯
 summary: "美国著名人类学家、无政府主义理论家，曾任教于耶鲁大学和伦敦政治经济学院，批判当代互联网技术演化为超高速图书馆与邮购目录的野心萎缩现象。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 10

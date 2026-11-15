@@ -6,6 +6,8 @@ aliases:
   - 布迪厄
 summary: "法国社会学家，场域-习性-资本理论创立者，著有《区分》与《继承人》，为教育研究分析再生产、不平等与学校权力提供核心分析语言。"
 type: person
+cssclasses:
+  - person-page
 nationality: france
 person_region: "france"
 person_related_count: 56

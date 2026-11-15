@@ -6,6 +6,8 @@ aliases:
   - 蒋孟邻
 summary: "民国教育家，哥伦比亚大学师范学院毕业，杜威在华哥伦比亚校友网络核心成员，《新教育》主编，新教育运动激进民主派代表，主张以隔离于旧社会的学校创造“新国家”与理想公民。"
 type: person
+cssclasses:
+  - person-page
 nationality: china
 person_region: "china"
 person_related_count: 18

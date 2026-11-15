@@ -8,6 +8,8 @@ aliases:
   - N. Hans
 summary: "俄裔英国比较教育学家，伦敦大学国王学院读者，20 世纪前中期欧洲宏大历史文化全景与精神科学学派的代表领袖；提出解释国家教育体系的三维因素分析框架与驱动力理论，开创抗衡量化行为主义的文化主义学术主干"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 45

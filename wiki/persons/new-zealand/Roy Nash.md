@@ -6,6 +6,8 @@ aliases:
   - R. Nash
 summary: "新西兰批判教育社会学者、批判实在论方法论学者、梅西大学教育学讲席教授，以社会阶级再生产、方差分解模型及对量化统计被用作政策宣传工具的警示而著称。"
 type: person
+cssclasses:
+  - person-page
 nationality: new-zealand
 person_region: "new-zealand"
 person_related_count: 28

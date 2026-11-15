@@ -7,6 +7,8 @@ aliases:
   - David P Phillips
 summary: "加州大学圣迭戈分校社会学荣休教授，计量社会学与因果推断先驱学者；设计 1978 年《纽约时报》大罢工准自然实验，实证确立大众媒体曝光对医学论著首年引文具备 72.8% 的独立因果加成，排除了挑选假说的内生性混淆；在社会学中提出模仿自杀的维特效应。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 10

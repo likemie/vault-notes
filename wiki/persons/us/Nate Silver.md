@@ -6,6 +6,8 @@ aliases:
   - Nathaniel Read Silver
 summary: "美国统计学家、数据记者与作家，FiveThirtyEight 创始人，提出评估事实真伪的认知脱钩概念"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 5

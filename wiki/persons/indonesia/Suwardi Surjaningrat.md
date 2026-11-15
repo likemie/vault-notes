@@ -10,6 +10,8 @@ aliases:
   - Surjaningrat, S.
 summary: "印度尼西亚早期民族主义运动先驱、教育家与政治活动家，印尼现代教育奠基人。1913年发表荷兰语政论《如果我是一个荷兰人》，以反讽修辞拆解宗主国官方民族主义与殖民统治的缝合焊缝；后创办塔曼·西斯瓦民族教育体系，被尊为印尼国民教育之父。"
 type: person
+cssclasses:
+  - person-page
 nationality: indonesia
 person_region: "indonesia"
 person_related_count: 6

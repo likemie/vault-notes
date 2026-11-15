@@ -5,6 +5,8 @@ aliases:
   - Menter, I.
 summary: "牛津大学教师教育荣休教授，英国教育研究协会与苏格兰教育研究协会前主席，专注于教师教育政策、教师劳动力市场与教育循证治理研究"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 25

@@ -9,6 +9,8 @@ aliases:
   - 学习鸿沟
 summary: "美国比较教育心理学家，通过 The Learning Gap 等跨国比较研究，实证验证了东亚学生在数学成就上持续超越美国学生的现象及其文化根源"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 5

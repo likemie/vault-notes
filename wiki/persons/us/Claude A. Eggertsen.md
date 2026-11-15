@@ -7,6 +7,8 @@ aliases:
   - C. A. Eggertsen
 summary: "美国教育史学家与比较教育学家，密歇根大学比较教育学讲座教授，美国比较教育学会（CIES 前身）早期核心领袖，二战后由单一国别教育史跨界转向全球比较教育学科的开拓先驱，瓦尔·拉斯特的博士导师。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 23

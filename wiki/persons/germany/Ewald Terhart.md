@@ -7,6 +7,8 @@ aliases:
   - E. Terhart
 summary: "德国当代著名教育学家、明斯特大学荣休教授，欧陆普通教学论与教师教育研究权威；以对《可见的学习》提出稳定性与变异性双重困境模型、系统批判二阶元分析形式主义与教化实质内容空洞化而享有国际盛誉。"
 type: person
+cssclasses:
+  - person-page
 nationality: "germany"
 person_region: "germany"
 person_related_count: 20

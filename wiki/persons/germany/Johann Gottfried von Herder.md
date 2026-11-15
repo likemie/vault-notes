@@ -7,6 +7,8 @@ aliases:
   - Johann Gottfried Herder
 summary: "18世纪德国哲学家、神学家、文学批评家与诗人，狂飙突进运动与魏玛古典主义代表人物。提出语言与民族精神内在一体性学说，断言每个民族均拥有独特的民族文化形成过程与其私有专属的民族语言，奠定了现代文化民族主义与语言决定论的思想根基；本尼迪克特·安德森在《想象的共同体》中将其学说视为19世纪欧洲将民族构想为排他性私有财产语言共同体的经典源头。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 11

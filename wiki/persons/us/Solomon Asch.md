@@ -7,6 +7,8 @@ aliases:
   - S. E. Asch
 summary: "波兰裔美籍著名社会心理学与格式塔心理学先驱，因开创性设计线段判断从众实验、揭示个体意志在群体压力下的脆弱性与独立性而享誉学界，对群体动力学、组织文化以及反从众工程思维产生了深远影响。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 15

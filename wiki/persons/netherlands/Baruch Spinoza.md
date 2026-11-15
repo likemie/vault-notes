@@ -4,6 +4,8 @@ aliases:
   - 斯宾诺莎
 summary: "17世纪荷兰哲学家。在后现代教育学与批判性课程理论中，其“物质一元论”和“内在性平面”被视为解构传统权威教育的强有力哲学武器。其主张通过拥抱课堂的真实情感（欲力）来释放群体力量，从而开启跨学科的知识创造。"
 type: person
+cssclasses:
+  - person-page
 nationality: netherlands
 person_region: "netherlands"
 person_related_count: 8

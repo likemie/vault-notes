@@ -7,6 +7,8 @@ aliases:
   - Franklin Delano Roosevelt
 summary: "美国第32任总统，二战同盟国领袖；推行“新政”重塑现代福利国家与规制国家，通过缴费型融资制度设计为美国社会保障制度奠定反紧缩制度韧性；决断建立战时政产研常态化协同机制并开启曼哈顿工程，奠定了美国国家创新体系与技术共和国的政治基石。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 17

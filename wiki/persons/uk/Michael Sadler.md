@@ -6,6 +6,8 @@ aliases:
   - 萨德勒
 summary: "英国比较教育先驱与历史主义学派代表人物，主持教育部特别调查与报告办公室，以德国为核心参照系系统研究外国学制以应对工业竞争焦虑，开创情境主义不可移植性原理，并开启比较教育在英国大学的早期建制化进程"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 64

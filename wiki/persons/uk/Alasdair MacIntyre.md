@@ -6,6 +6,8 @@ aliases:
   - Alasdair Chalmers MacIntyre
 summary: "当代著名苏格兰裔道德哲学与政治哲学家、美德伦理学代表学者；代表作《追寻美德》深刻批判启蒙运动以来的情感主义与淹没性多元主义，主张在具体社群传统中重建道德生活与卓越实践。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 15

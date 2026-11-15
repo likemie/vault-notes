@@ -8,6 +8,8 @@ aliases:
   - Brinton, C.
 summary: "美国著名历史学家、哈佛大学讲席教授与美国历史学会前主席，以革命比较史经典《革命的解剖》闻名，其关于从个殊历史事实提炼中程‘非普适探索性假说’的方法论论断为历史比较法确立了核心因果解释合法性。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 17

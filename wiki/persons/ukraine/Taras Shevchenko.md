@@ -7,6 +7,8 @@ aliases:
   - Taras Hryhorovych Shevchenko
 summary: "乌克兰伟大的民族诗人、画家与人文主义思想家，现代乌克兰书面文学语言的奠基人；农奴出身，通过诗集《科布扎尔》将民间日常口语系统升格为具备高度文学尊严的民族语言，决定性促成了现代乌克兰民族意识的觉醒；因反对沙俄专制统治与农奴制度遭沙皇尼古拉一世长期流放西伯利亚直至身心折损，成为19世纪欧洲语言与民族抗争的殉难象征。"
 type: person
+cssclasses:
+  - person-page
 nationality: "ukraine"
 person_region: "ukraine"
 person_related_count: 7

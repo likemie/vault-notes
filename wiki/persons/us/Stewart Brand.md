@@ -6,6 +6,8 @@ aliases:
   - Brand, S.
 summary: "美国著名反文化代表人物、作家、环境主义者与网络文化先驱，《全球概览》（Whole Earth Catalog）创办人，早期网络社区 The WELL 与今日永存基金会（Long Now Foundation）联合发起人；最早深刻洞察并论证了1960年代反文化运动对中央集权的蔑视构成了去中心化互联网与整个个人计算机革命的哲学基石，成为连接嬉皮士运动、生态公社主义与硅谷数字科技革命的最关键思想桥梁。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 20

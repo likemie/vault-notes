@@ -7,6 +7,8 @@ aliases:
   - 戴维·K·科恩
 summary: "美国当代教育政策与教学微观社会学奠基学者，哈佛大学与密歇根大学荣休讲座教授；与理查德·埃尔莫尔等共同提出微观教学核心构念，并开创课程治理与课堂教学互动关系分析框架，深刻揭示了宏观政策指令在穿透教室门槛时遭遇的认知与制度阻滞。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 16

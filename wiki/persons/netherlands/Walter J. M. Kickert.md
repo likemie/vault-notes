@@ -9,6 +9,8 @@ aliases:
   - Kickert, W.
 summary: "荷兰伊拉斯谟大学公共管理学荣休教授，欧洲网络治理与公共管理理论领军学者，曾深度参与荷兰教育与科学部改革实践，系统提炼并阐释了高等教育远距离操纵范式与公共政策网络协调理论。"
 type: person
+cssclasses:
+  - person-page
 nationality: "netherlands"
 person_region: "netherlands"
 person_related_count: 22

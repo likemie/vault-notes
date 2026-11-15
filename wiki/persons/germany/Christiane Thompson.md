@@ -5,6 +5,8 @@ aliases:
   - 克里斯蒂安妮·汤普森
 summary: "德国教育学者和高等教育研究者，主体化与数字化治理研究者，为教育研究分析大学治理与学习文化转型提供理论视角。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 13

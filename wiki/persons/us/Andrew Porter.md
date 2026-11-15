@@ -7,6 +7,8 @@ aliases:
   - 安德鲁·C·波特
 summary: "美国著名教育测量学家与政策评估学者，曾任宾夕法尼亚大学教育研究生院院长及美国教育研究协会（AERA）主席；开创实施课程调查（SEC）与波特课程对齐指数（Porter Alignment Index），首次将抽象的课程治理与教学对齐转化为可精确量化计算的经验测度工具。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 22

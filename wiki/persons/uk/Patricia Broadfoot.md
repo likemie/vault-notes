@@ -6,6 +6,8 @@ aliases:
   - 帕特里夏·布罗德富特
 summary: "英国比较教育与教育评价泰斗，布里斯托大学荣休教授，曾任格罗斯特大学副校长、英国国际与比较教育学会（BAICE）会长及《Comparative Education》主编；倡导跨文化课堂教学评价与微观“学习学”（Learnology），与罗宾·亚历山大共同奠定英国比较教育微观课堂转向。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 21

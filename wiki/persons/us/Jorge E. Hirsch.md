@@ -8,6 +8,8 @@ aliases:
   - Hirsch, J. E.
 summary: "美籍阿根廷裔凝聚态物理学家，加州大学圣迭戈分校物理学教授；2005 年提出量化测度学者个体累积学术成就的 h 指数，并于 2019 年提出测度团队学术引领力的 hα 指数，深刻重塑了当代全球科学计量学与科研评价范式。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 7

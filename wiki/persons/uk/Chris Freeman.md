@@ -7,6 +7,8 @@ aliases:
   - Christopher Freeman
 summary: "英国著名演化经济学家、创新经济学开拓者，萨塞克斯大学科技政策研究所（SPRU）创始人；系统阐发国家创新系统概念，将技术创新界定为根植于国家教育体系、产业组织与研发机构网络的制度化集体学习过程，开创技术-经济范式理论。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 33

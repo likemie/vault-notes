@@ -6,6 +6,8 @@ aliases:
   - 朱子
 summary: "南宋理学家，程朱理学集大成者。编纂四书并将其确立为科举经典；提出格物致知与八条目修养链条。其思想在当代国家课程中被尊为官方知识正统，同时在边缘学生中引发对其道德束缚与灵性缺失的反思"
 type: person
+cssclasses:
+  - person-page
 nationality: china
 person_region: "china"
 person_related_count: 15

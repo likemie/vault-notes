@@ -6,6 +6,8 @@ aliases:
   - "Mendelssohn, M."
 summary: "18世纪德国启蒙哲学家，将美学重心从认识论转向审美心理学与人性完善，提出赞同官能、审美与道德分离及德国哲学史上早期崇高与符号艺术分类理论。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 13

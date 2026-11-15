@@ -7,6 +7,8 @@ aliases:
   - John Arderne Rex
 summary: "英国著名社会学家，华威大学荣休教授，冲突理论与种族关系研究权威。在方法论上对微观诠释范式提出经典批判，强调行动者情境界定背后存在“虚假意识”，坚持社会科学家具有超越当事人主观报告、探寻深层客观结构因果机制的学术使命。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 20

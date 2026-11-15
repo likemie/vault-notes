@@ -5,6 +5,8 @@ aliases:
   - 简·奈特
 summary: "加拿大国际高等教育学者，系统界定高等教育国际化、国际教育枢纽三类模型与知识外交五要素分析框架，主张以互信互惠的多边学术合作超越零和博弈。"
 type: person
+cssclasses:
+  - person-page
 nationality: canada
 person_region: "canada"
 person_related_count: 36

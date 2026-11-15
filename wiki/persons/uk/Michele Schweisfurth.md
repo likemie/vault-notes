@@ -4,6 +4,8 @@ aliases:
   - Schweisfurth, M.
 summary: "格拉斯哥大学比较与国际教育学教授，以以学生为中心教育（LCE）的跨国比较研究与 7 项最低实施标准著称"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 9

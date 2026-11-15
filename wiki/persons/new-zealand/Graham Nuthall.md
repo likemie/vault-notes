@@ -6,6 +6,8 @@ aliases:
   - Graham Anthony Nuthall
 summary: "新西兰坎特伯雷大学教育学教授，课堂生态学与学习微观机制开拓者，提出课堂三个世界理论与纳撒尔盲区定律，对可见的学习理论形成关键启发。"
 type: person
+cssclasses:
+  - person-page
 nationality: new-zealand
 person_region: "new-zealand"
 person_related_count: 14

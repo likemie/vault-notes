@@ -5,6 +5,8 @@ aliases:
   - 阿图罗·埃斯科瓦尔
 summary: "哥伦比亚裔美国人类学家和设计理论家，Designs for the Pluriverse作者，为教育研究思考去殖民知识与替代性未来提供视角。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 10

@@ -6,6 +6,8 @@ aliases:
   - Kenneth Duva Burke
 summary: "美国著名文学理论家、修辞学家与哲学家；提出戏剧主义（Dramatism）理论与符号行动论，在《持久与变迁》（Permanence and Change, 1935）中深刻剖析了人类社会通过仪式化牺牲个体以卸载集体罪咎感的替罪羊机制（Scapegoat Mechanism）。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 8

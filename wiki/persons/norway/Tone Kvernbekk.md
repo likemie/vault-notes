@@ -6,6 +6,8 @@ aliases:
   - 克韦恩贝克
 summary: "挪威奥斯陆大学教育哲学教授，循证教育哲学分析的国际代表学者，代表作《教育中的循证实践》，从开放复杂系统、因果预设、内外系统差异、副作用与系统柔韧性/稳定性系统奠定教育证据哲理。"
 type: person
+cssclasses:
+  - person-page
 nationality: norway
 person_region: "norway"
 person_related_count: 23

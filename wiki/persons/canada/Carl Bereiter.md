@@ -6,6 +6,8 @@ aliases:
   - 卡尔·贝莱特
 summary: "加拿大教育理论家与认知科学家，知识建构理论联合奠基人；提出心智之外的知识与概念人工制品构念，并将波普尔三世界理论引入教育学以区分主观学习与客观知识生产，但其对客观世界的形式化化简亦引发了关于抽空学科实质内容与教化维度的持续学术论争。"
 type: person
+cssclasses:
+  - person-page
 nationality: canada
 person_region: "canada"
 person_related_count: 27

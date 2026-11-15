@@ -7,6 +7,8 @@ aliases:
   - 陶知行
 summary: "中国教育家，哥伦比亚大学师范学院毕业，杜威在华受业弟子与批判性改造者，创办《新教育评论》，提出“科学态度”三大要素，倡导生活教育与平民教育，推动实用主义适应中国国情。"
 type: person
+cssclasses:
+  - person-page
 nationality: china
 person_region: "china"
 person_related_count: 16

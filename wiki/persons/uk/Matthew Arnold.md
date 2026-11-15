@@ -5,6 +5,8 @@ aliases:
   - Arnold, M.
 summary: "维多利亚时代英国皇家学校督学、诗人与文化批评家，19 世纪督学行政考察进路与历史-哲学-文化比较教育母题的重要先驱；以《文化与无政府状态》批判自由放任市侩主义，通过欧陆中等公学考察论证国家作为全民族代表力量介入全人教化（Bildung）的合法性。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 26

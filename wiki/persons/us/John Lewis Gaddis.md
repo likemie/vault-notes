@@ -6,6 +6,8 @@ aliases:
   - 加迪斯
 summary: "美国著名冷战史学家、耶鲁大学讲席教授，被誉为“冷战史学界的院长”，以提出二战后大国均势与核威慑维系的“长和平”（The Long Peace）理论著称。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 8

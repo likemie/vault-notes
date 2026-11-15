@@ -7,6 +7,8 @@ aliases:
   - Jobs, S. P.
 summary: "美国企业家、工业设计师与苹果公司联合创始人，开创个人电脑、图形用户界面、数字音乐与智能手机革命；作为反文化运动消退期成长起来的技术先驱，将人文美学与精密工程相融合，开创极简产品哲学；在卡普与扎米斯卡（2025）的批判中，乔布斯的革命本质上是亲密的个人革命，其以个人设备赋权个体、抵御政府与企业巨兽的哲学，深刻塑造了硅谷脱离国家战略使命的消费主义技术范式。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 20

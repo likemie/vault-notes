@@ -6,6 +6,8 @@ aliases:
   - Robin Ian MacDonald Dunbar
 summary: "英国演化人类学家与进化心理学家，牛津大学教授。提出著名的“邓巴数”（150定律），发现大脑新皮质容量与灵长类及人类社群规模之间的演化关联，为理解人类直接社交约束与宏观共同体建构提供了生物人类学基础。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 10

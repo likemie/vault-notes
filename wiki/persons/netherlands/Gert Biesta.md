@@ -6,6 +6,8 @@ aliases:
   - Gert J. J. Biesta
 summary: "荷兰教育哲学家，教育的美丽风险作者与教育目的论重构者，为教育研究反思证据本位、学习化与主体形成提供核心批判。"
 type: person
+cssclasses:
+  - person-page
 nationality: netherlands
 person_region: "netherlands"
 person_related_count: 42

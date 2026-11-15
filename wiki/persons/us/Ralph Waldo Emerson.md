@@ -6,6 +6,8 @@ aliases:
   - Emerson, R. W.
 summary: "美国思想家、散文家与诗人，19世纪超验主义运动领袖；在《论自信》中系统倡导个体自立与非从众品格，主张敢于承受世俗不悦并果断抛弃陈旧的理论尸体，其反从众与动态求真精神成为现代工程文化抵御平庸顺从、快速迭代止损的哲学源泉。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 16

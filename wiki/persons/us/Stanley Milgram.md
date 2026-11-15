@@ -6,6 +6,8 @@ aliases:
   - S. Milgram
 summary: "美国著名社会心理学家，曾在耶鲁大学主持极具震撼力与争议性的权威服从电击实验，深刻揭示了普通人在权威指令下施加伤害的平庸之恶与服从倾向；其理论与实证发现对现代研究伦理、机构审查委员会制度确立以及反思科层制盲从文化产生了划时代影响。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 18

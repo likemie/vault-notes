@@ -6,6 +6,8 @@ aliases:
   - 平克
 summary: "加拿大裔美国认知心理学家、哈佛大学教授，以《人性中的善良天使》和《当下的启蒙》闻名，提供人类历史暴力长期下降与二战后大国长和平的系统量化实证证据。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 8

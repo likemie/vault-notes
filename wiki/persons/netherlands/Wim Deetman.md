@@ -8,6 +8,8 @@ aliases:
   - Deetman, W.
 summary: "荷兰著名政治家，基督教民主党（CDA）领袖，荷兰二战后任职时间最长的教育与科学大臣（1982–1989），后历任荷兰议会二院议长与海牙市长；主政教育部期间促成划时代的1985年《高等教育自主与质量》（HOAK）白皮书，以高超的法团协商妥协艺术主导推进了高等职业教育大兼并与大学预算紧缩调整，是欧洲大陆推行高等教育去规制化与远距离操纵治理转型的核心政治领袖与体制庇护者。"
 type: person
+cssclasses:
+  - person-page
 nationality: "netherlands"
 person_region: "netherlands"
 person_related_count: 21

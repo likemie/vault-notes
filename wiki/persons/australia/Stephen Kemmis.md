@@ -6,6 +6,8 @@ aliases:
   - Kemmis, S.
 summary: "澳大利亚教育研究者，批判性行动研究的核心理论家，与Carr合著Becoming Critical，与McTaggart共同系统化行动研究的螺旋模型与核心原则"
 type: person
+cssclasses:
+  - person-page
 nationality: australia
 person_region: "australia"
 person_related_count: 11

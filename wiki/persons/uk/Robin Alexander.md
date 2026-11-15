@@ -5,6 +5,8 @@ aliases:
   - Robin J. Alexander
 summary: "剑桥大学教育学教授、英国学术院院士，跨国课堂教学文化比较与“比较教学论”（Comparative Pedagogy）奠基人，英法印俄美五国初等教育里程碑研究《文化与教学》（2000）作者，对话教学（Dialogic Teaching）理论开创者，英国《剑桥初等教育调查》领衔主持者。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 30

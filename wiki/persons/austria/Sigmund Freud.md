@@ -5,6 +5,8 @@ aliases:
   - Freud, S.
 summary: "奥地利神经学家、精神分析学派创始人；开创无意识潜意识、人格结构与本能压抑理论，其对人类心灵的审视彻底重塑了现代人探索内在心理机制的能力，而其对文明秩序与本能压抑的论断深刻启示了社会化权威内化机制。"
 type: person
+cssclasses:
+  - person-page
 nationality: austria
 person_region: "austria"
 person_related_count: 19

@@ -8,6 +8,8 @@ aliases:
   - A. Duckworth
 summary: "美国心理学家，宾夕法尼亚大学克里斯托弗·布朗讲席教授，非营利研究机构“品格实验室”创始人，麦克阿瑟天才奖得主；开创[[Grit|坚毅]]（Grit）心理学构念与测量量表，其关于坚毅特质的研究被实证科学学广泛用作探索科研生产力与不可观测混杂变量机制的核心理论依据。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 18

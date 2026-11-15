@@ -7,6 +7,8 @@ aliases:
   - Benjamin Levin
 summary: "多伦多大学安大略教育研究院（OISE）教育领导与政策教授，前安大略省教育部副部长；全系统教育改进与知识动员领域的代表学者与政策架构师，提炼并践行了以少数聚焦目标、现场微观情境学习及跨层级实施反馈环为特征的系统提质范式。"
 type: person
+cssclasses:
+  - person-page
 nationality: canada
 person_region: "canada"
 person_related_count: 11

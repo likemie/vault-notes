@@ -1,6 +1,8 @@
 ---
 summary: "奥地利裔美国著名经济学家，演化经济学与现代创新理论开山宗师；提出创造性破坏、创新五种形式及企业家精神理论，其关于企业组织动态能力与探索-利用双元平衡的思想被当代公共治理学者创造性迁移，奠定了公共部门动态能力理论的演化制度主义基石。"
 type: person
+cssclasses:
+  - person-page
 nationality: austria
 person_region: "austria"
 person_related_count: 14

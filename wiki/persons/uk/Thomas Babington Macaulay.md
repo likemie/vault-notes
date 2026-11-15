@@ -9,6 +9,8 @@ aliases:
   - Lord Macaulay
 summary: "英国历史学家、辉格党政治家与殖民地官员，曾任最高统治委员会法律委员与孟加拉公共教育委员会主席。1835年起草《教育备忘录》确立以英语为教学媒介的精英同化体制，奠定麦考利主义范式。安德森在《想象的共同体》中将其作为大英帝国官方民族主义与文化同化工程的核心切入点。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 0

@@ -6,6 +6,8 @@ aliases:
   - 尤德考夫斯基
 summary: "美国决策论学者与人工智能对齐理论先驱，机器智能研究院（MIRI）联合创始人；主张超级AI具有极高的人类灭绝风险（高 P(doom)），在2023年公开呼吁全面关停前沿强AI研发。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 9

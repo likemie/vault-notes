@@ -5,6 +5,8 @@ aliases:
   - Quine, W. V. O.
 summary: "20世纪下半叶最重要的分析哲学家之一，提出了自然化认识论，极大地改变了认识论的研究方向。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 4

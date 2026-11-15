@@ -5,6 +5,8 @@ aliases:
   - 格罗弗·怀特赫斯特
 summary: "美国教育政策官员和研究管理者，IES 证据标准体系关键设计者，为教育研究制度化 RCT 优先级和联邦证据治理提供案例。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 14

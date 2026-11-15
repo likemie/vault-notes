@@ -7,6 +7,8 @@ aliases:
   - Zamiska, N. W.
 summary: "美国法律学者与科技企业高管，耶鲁法学院法律博士，帕兰提尔科技公司企业事务主管兼首席执行官办公室法律顾问；专注于国防采购法律制度改革、行政官僚体制诊断、商用现成产品法定优先权与技术共和国的治理机制重塑。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 20

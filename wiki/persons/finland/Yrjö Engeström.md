@@ -5,6 +5,8 @@ aliases:
   - 于尔约·恩格斯特罗姆
 summary: "芬兰组织学习与教育研究者，在 Vygotsky 中介三角模型基础上发展为第三代活动理论，提出扩展性学习、扩展性改造和边界跨越概念，将活动系统之间矛盾视为集体变革动力"
 type: person
+cssclasses:
+  - person-page
 nationality: finland
 person_region: "finland"
 person_related_count: 7

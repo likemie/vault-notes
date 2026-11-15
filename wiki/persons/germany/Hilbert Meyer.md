@@ -5,6 +5,8 @@ aliases:
   - 希尔伯特·迈耶
 summary: "德国教育学者和 Didaktik 研究者，好教学十项标准提出者，为教学质量研究和课堂观察提供系统参照。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 3

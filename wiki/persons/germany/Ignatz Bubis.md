@@ -5,6 +5,8 @@ aliases:
   - Bubis, I.
 summary: "战后德国著名社会活动家、政治家、大屠杀幸存者，曾任德国犹太人中央理事会主席；在1998年“瓦尔泽-布比斯之争”中严厉抨击瓦尔泽对大屠杀纪念的批判为“精神纵火”，坚定捍卫公开制度化反思作为德国宪政民主的道德底线。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 8

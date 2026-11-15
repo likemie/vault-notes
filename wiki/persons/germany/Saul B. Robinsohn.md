@@ -7,6 +7,8 @@ aliases:
   - Saul Robinsohn
 summary: "德国与以色列比较教育学家、课程改革理论家，曾任联合国教科文组织汉堡教育研究所所长与柏林马克斯·普朗克人类发展与教育研究所所长；1961 年与约瑟夫·劳威斯联合发起创立欧洲比较教育学会（CESE），主持开创欧洲首个宏观跨国社会学比较项目《社会进程中的学校改革》，在政策咨询上开创激进立法干预模式并深度主导联邦德国全面教育改革计划。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 16

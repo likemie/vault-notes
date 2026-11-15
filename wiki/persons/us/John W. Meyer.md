@@ -6,6 +6,8 @@ aliases:
   - 约翰·迈耶
 summary: "美国社会学家，斯坦福学派新制度主义与世界社会理论奠基人，揭示全球文化模型、组织行动者身份与为他者行动机制，解释战后教育体制的全球同构与现代大学角色。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 42

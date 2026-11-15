@@ -5,6 +5,8 @@ aliases:
   - 米什拉
 summary: "印度著名散文家与文化批评家，深入批判后殖民学术建制化与东方主义理论在非西方视角的盲区"
 type: person
+cssclasses:
+  - person-page
 nationality: global
 person_region: "global"
 person_related_count: 6

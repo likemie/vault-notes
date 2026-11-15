@@ -6,6 +6,8 @@ aliases:
   - 利奥塔
 summary: "法国后结构主义哲学家，后现代状况作者与知识合法化理论代表人物，其绩效性（Performativity）概念在教育研究中广泛用于分析全球评估与排名"
 type: person
+cssclasses:
+  - person-page
 nationality: france
 person_region: "france"
 person_related_count: 44

@@ -7,6 +7,8 @@ aliases:
   - Chris Lubienski
 summary: "美国教育政策学者，印第安纳大学布卢明顿分校教授，以研究思想市场、教育智库政治学与择校市场化闻名。其理论揭示政策中介机构在证据过剩环境下选择性包装实证以推销特定意识形态处方的运作机制。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 26

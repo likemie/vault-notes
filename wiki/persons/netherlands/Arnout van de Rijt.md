@@ -8,6 +8,8 @@ aliases:
   - van de Rijt, A.
 summary: "荷兰计算与实验社会学家，欧洲大学学院（EUI）社会学讲席教授，乌得勒支大学社会学教授；率先在真实协作网络中开展随机田野实验，为学术界与复杂社会系统中的马太效应与累积优势提供了剥离天赋干扰的严格因果证据。"
 type: person
+cssclasses:
+  - person-page
 nationality: netherlands
 person_region: "netherlands"
 person_related_count: 10

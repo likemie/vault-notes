@@ -6,6 +6,8 @@ aliases:
   - Kitchin, R.
 summary: "爱尔兰梅努斯大学社会科学研究所教授，批判性数据研究领军学者，系统构建数据汇聚体理论与关键数据基础设施分析范式，深刻影响数字治理与教育数据化研究"
 type: person
+cssclasses:
+  - person-page
 nationality: ireland
 person_region: "ireland"
 person_related_count: 21

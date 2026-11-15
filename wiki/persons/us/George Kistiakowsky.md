@@ -7,6 +7,8 @@ aliases:
   - George Bogdan Kistiakowsky
 summary: "俄裔美籍物理化学家、哈佛大学教授、曼哈顿工程内向爆炸炸药透镜发明者；曾任艾森豪威尔总统科技特别助理兼总统科学顾问委员会（PSAC）主席，于 1963 年创立国家科学院科学与公共政策委员会（COSPUP）并主导编制《基础研究与国家目标》（1965），开辟了科学界跨过官僚机构直通美国国会的第二立法咨询通道，为战后美国学术自由与基础研究黄金期的确立做出了奠基性制度贡献。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 22

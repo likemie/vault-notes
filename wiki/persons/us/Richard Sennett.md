@@ -5,6 +5,8 @@ aliases:
   - Sennett, R.
 summary: "当代著名美国社会学家、伦敦政治经济学院与纽约大学教授；城市社会学与劳动社会学领军学者，曾撰文反思“共享国家认同之恶”，探讨在不依赖传统民族主义前提下实现跨阶层协同的可能性。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 12

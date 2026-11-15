@@ -6,6 +6,8 @@ aliases:
   - 图尔钦
 summary: "俄裔美籍复杂系统科学家、历史动态学（Cliodynamics）创立者、康涅狄格大学生态学与进化生物学系名誉教授，在《末日时代》（2023）中提出精英生产过剩（Elite Overproduction）理论，用于解释高等教育扩张与择优体制导致的精英供求失衡及国家政治动荡机制。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 9

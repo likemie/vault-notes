@@ -5,6 +5,8 @@ aliases:
   - 法扎尔·里兹维
 summary: "澳大利亚与美国著名教育政策与跨国治理学者，墨尔本大学荣誉教授。批判性全球教育政策社会学与高等教育批判地缘政治学代表人物。与鲍勃·林加德长期合作，系统揭示经合组织知识经济社会想象建构、PISA数字治理机制，以及亚洲崛起与地缘政治位移对全球高等教育市场化重构的独立因果驱动。"
 type: person
+cssclasses:
+  - person-page
 nationality: australia
 person_region: "australia"
 person_related_count: 53

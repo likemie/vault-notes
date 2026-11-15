@@ -7,6 +7,8 @@ aliases:
   - 亚历克斯·法克尼·奥斯本
 summary: "美国广告界先驱与创造力教育先锋，BBDO 广告公司联合创始人，创造性教育基金会（CEF）发起人。创立了奠定当代群体构想基石的“头脑风暴法（Brainstorming）”，与悉尼·帕内斯共同奠定“创造性问题解决（CPS）”模型，并提出 SCAMPER 启发式创新检核表的原始 73 问雏形。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 14

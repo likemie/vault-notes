@@ -8,6 +8,8 @@ aliases:
   - 布里奇曼
 summary: "美国实验物理学家与科学哲学家，1946年诺贝尔物理学奖得主，操作主义（Operationalism）创始人。曾执教哈佛大学并指导奥本海默，提出科学家仅对揭示自然事实负责、科学探索本身超越善恶道德的非道德论（Amoral）立场，成为现代科学与硅谷工程师群体回避技术价值反思的典型伦理范式。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 9

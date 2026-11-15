@@ -6,6 +6,8 @@ aliases:
   - 乌利希
 summary: "德裔美籍教育哲学家与文化史学家，哈佛大学教授，比较教育第二论述代际（历史-哲学与自由人文主义代际）代表学者；从纳粹德国流亡美国，坚守以人为本与精神科学传统，倡导博雅教育与民主公民资格以抵御极权主义，是贝雷迪与卡扎米亚斯的导师。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 54

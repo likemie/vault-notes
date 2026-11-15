@@ -5,6 +5,8 @@ aliases:
   - 富兰克林
 summary: "美国开国元勋、政治家、科学家与报人兼印刷商，安德森将其视为北美土生白人民族主义兴起的物质制度典范，揭示了报业印刷商与邮政局长身份的深度同构如何构筑起北美早期跨殖民地通讯与共同体认同的物质中枢"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 11

@@ -7,6 +7,8 @@ aliases:
   - Boron, A.
 summary: "阿根廷著名马克思主义政治学家与社会学家，拉丁美洲社会科学理事会（CLACSO）前执行秘书长，系统论证当代帝国主义与新自由主义资本主义危机，主张马克思主义作为当代不可逾越的批判哲学地平线，为批判社会科学与解放实践重建提供了重要认识论支撑"
 type: person
+cssclasses:
+  - person-page
 nationality: argentina
 person_region: "argentina"
 person_related_count: 21

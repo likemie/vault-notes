@@ -7,6 +7,8 @@ aliases:
   - King, R. D.
 summary: "英国计算生物学家与人工智能学者，剑桥大学与查尔姆斯理工大学教授，英国计算机学会与欧洲人工智能学会会士；世界首创机器人科学家“亚当”（Adam）与“夏娃”（Eve）的开创者。通过将一阶谓词逻辑假设生成、主动学习与自动化实验室机器人硬件相融合，完成了人类科技史上首个无人类直接介入的自主科学假设生成与物理实验验证完整循环。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 11

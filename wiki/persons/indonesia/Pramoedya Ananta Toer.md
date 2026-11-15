@@ -8,6 +8,8 @@ aliases:
   - Toer, P. A.
 summary: "印度尼西亚现当代最重要的现实主义作家与反殖民知识分子代表，代表作《布鲁岛四部曲》与《布洛拉的故事》。本尼迪克特·安德森在《想象的共同体》中高度推崇其文学作品，在第8章征引其小说《逝去之物》揭示民族语言如何依托童年家庭私密记忆与感官体验构筑起深沉的爱国主义依恋情感，在第10章以其历史巨著《玻璃之屋》作为全景监视与序列化现代治理范式的理论隐喻。"
 type: person
+cssclasses:
+  - person-page
 nationality: indonesia
 person_region: "indonesia"
 person_related_count: 8

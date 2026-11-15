@@ -8,6 +8,8 @@ aliases:
   - E. R. H. Fuchs
 summary: "美国卡内基梅隆大学工程与公共政策教授，技术变革与国家创新治理学者；通过对 DARPA 微系统技术办公室的长程扎根案例研究提出嵌入型网络治理概念，揭示公共代理人如何主动重塑研发者社会网络以引导关键技术轨道。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 28

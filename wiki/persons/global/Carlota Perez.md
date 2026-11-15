@@ -5,6 +5,8 @@ aliases:
   - Perez, C.
 summary: "委内瑞拉/英国著名演化经济学家、技术创新与长波理论学者，伦敦大学学院（UCL）与萨塞克斯大学兼职教授；开创性提出“技术-经济范式”概念，阐明重大技术革命与既有社会制度框架之间的“制度滞后”与结构失调机制，与克里斯·弗里曼（Chris Freeman）共同奠定了新熊彼特主义长波演化理论。"
 type: person
+cssclasses:
+  - person-page
 nationality: global
 person_region: "global"
 person_related_count: 20

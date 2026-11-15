@@ -7,6 +7,8 @@ aliases:
   - James Bryant Conant
 summary: "美国著名有机化学家、哈佛大学第 23 任校长（1933–1953）、二战时期全美防卫研究委员会（NDRC）主席、战后首任美国驻西德大使；20 世纪美国高等教育现代化与战后科技政策领袖，在哈佛大学推行通识教育红皮书改革与按才选拔奖学金，战时深度领导曼哈顿工程原子弹动员，战后最早针对杜鲁门政府军事化科研与计划性控制发起学术自由阻击，警示大学研究滑向程序化与行政附庸的制度危险。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 20

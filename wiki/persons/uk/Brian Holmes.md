@@ -6,6 +6,8 @@ aliases:
   - Holmes, B.
 summary: "英国著名比较教育学家与科学哲学家，伦敦大学教育学院领袖，欧洲比较教育学会（CESE）奠基人之一，问题解决法（Problem Approach）创立者；引入波普尔批判理性主义与杜威反思思维，推动欧洲比较教育的实证主义转向与预测性政策科学建构，确立战后第三代际三大流派之一的伦敦学派。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 70

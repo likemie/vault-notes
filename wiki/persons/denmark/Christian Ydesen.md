@@ -5,6 +5,8 @@ aliases:
   - Christian Valdemar Ydesen
 summary: "丹麦奥尔堡大学教育社会学与全球治理教授、牛津大学高级研究学者，当代国际组织历史制度主义与量化教育治理代表学者。开创全球教育治理复合体（Global Education Governing Complex）研究，系统剖析战后经合组织（OECD）、教科文组织与世界银行在地缘竞争中的权力分工与指标规制；在《数字治理 2.0》（Steiner-Khamsi et al., 2024）中阐释冷战危机动员向硬事实软权力霸权演进的制度逻辑。"
 type: person
+cssclasses:
+  - person-page
 nationality: "denmark"
 person_region: "denmark"
 person_related_count: 40

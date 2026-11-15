@@ -7,6 +7,8 @@ aliases:
   - Anne Alexandre Sabès Pétion
 summary: "海地共和国首任总统兼反殖民革命领袖，在玻利瓦尔流亡海地期间为其提供关键船舶军火援助并订立在南美解放区全面废奴契约，安德森将其作为打破欧洲中心论与揭示拉美独立运动阶级妥协机制的跨国历史枢纽"
 type: person
+cssclasses:
+  - person-page
 nationality: "haiti"
 person_region: "haiti"
 person_related_count: 12

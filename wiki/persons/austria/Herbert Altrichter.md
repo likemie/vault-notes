@@ -6,6 +6,8 @@ aliases:
   - H. Altrichter
 summary: "奥地利教育学家、林茨大学荣休讲席教授，德语区教育治理研究与教师行动研究领域的先驱奠基人"
 type: person
+cssclasses:
+  - person-page
 nationality: austria
 person_region: "austria"
 person_related_count: 19

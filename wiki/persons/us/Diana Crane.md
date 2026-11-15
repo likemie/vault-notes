@@ -7,6 +7,8 @@ aliases:
   - Crane, D.
 summary: "美国科学社会学与文化社会学家，宾夕法尼亚大学社会学系荣誉教授；将德里克·德索拉·普赖斯关于“无形学院”的隐喻发展为系统性的经验社会学理论，1972 年出版奠基专著《无形学院：科学共同体中的知识扩散》；通过对农村社会学与高能物理学研究网络的实证分析，阐明少数顶尖核心学者如何依托密切的非正式学术互动、期刊编委审稿与课题资助网络，主导全学科知识扩散方向与范式演变。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 14

@@ -6,6 +6,8 @@ aliases:
   - 朱利安·罗特
 summary: "美国心理学家，社会学习理论的主要奠基人之一，提出控制点（locus of control）构念和社会学习行为公式，对归因理论和人格心理学的发展有重要影响"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 9

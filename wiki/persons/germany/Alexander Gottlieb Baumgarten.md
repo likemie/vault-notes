@@ -8,6 +8,8 @@ aliases:
   - "Baumgarten, A. G."
 summary: "德国理性主义哲学家，莱布尼茨-沃尔夫学派成员，首次将美学确立为独立哲学学科，主张感性认识作为下级认识论具有独立真理价值与完善标准。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 13

@@ -1,6 +1,8 @@
 ---
 title: William T. Harris
 type: person
+cssclasses:
+  - person-page
 status: stable
 created: 2026-10-01
 nationality: us

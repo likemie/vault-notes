@@ -5,6 +5,8 @@ aliases:
   - Ohmae, K.
 summary: "日本著名管理学家、战略咨询家、经济评论家，麦肯锡公司前亚太区董事长；1990 年在《无国界的世界》中提出全球化使民族国家主权边界“正在融化”的激进假说，倡导美、欧、日“三极互联经济”（ILE），主张跨国公司与消费者已使国家政客、官僚与军队沦为夕阳产业；成为 1990 年代“全球化导致民族国家过时论”的代表人物，也是克里斯·弗里曼（Chris Freeman）论证国家创新系统不可替代性时的核心批判对象。"
 type: person
+cssclasses:
+  - person-page
 nationality: japan
 person_region: "japan"
 person_related_count: 10

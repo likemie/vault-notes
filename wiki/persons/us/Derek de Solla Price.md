@@ -9,6 +9,8 @@ aliases:
   - Price, D. J. d. S.
 summary: "科学计量学与信息计量学奠基人，耶鲁大学科学史阿瓦隆讲席教授；提出大科学概念、科学文献指数增长律、引文网络累积优势模型与普赖斯平方根定律，确立了运用定量方法审视科学系统宏观演化规律的学科范式。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 24

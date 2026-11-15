@@ -8,6 +8,8 @@ aliases:
   - Eric John Ernest Hobsbawm
 summary: "英国马克思主义史学家，现代主义民族理论奠基人之一。提出‘被发明的传统’与现代性建构论，指出二战后社会主义运动在形式与实质上面临向民族形态靠拢的历史铁律；其关于旧制度阶级统计表象晚出与民族主义历史黄昏的定性，构成了本尼迪克特·安德森反思阶级表象与民族兴衰的重要史学基准。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 10

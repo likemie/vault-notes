@@ -7,6 +7,8 @@ aliases:
   - 基辛格
 summary: "美国著名外交家、国际政治学者，现实主义地缘战略与均势理论的集大成者。曾任美国国家安全事务助理与国务卿，主张国际秩序依赖均势与可信硬实力威慑；在历史哲学上高度肯定领袖意志与历史能动性，论定卓越领导者性格能够打破环境决定论并重塑历史进程。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 16

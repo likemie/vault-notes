@@ -4,6 +4,8 @@ aliases:
   - 强世功
 summary: "中国宪法学者，北京大学法学院教授，曾任中联办研究人员，后《国安法》时代一国两制“主权决断”法理阐释的代表人物，主张通过施米特式主权决断与思想改造重塑香港人心归属"
 type: person
+cssclasses:
+  - person-page
 nationality: "china"
 person_region: "china"
 person_related_count: 11

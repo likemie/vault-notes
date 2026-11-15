@@ -6,6 +6,8 @@ aliases:
   - John Kingdon
 summary: "美国著名政治学者，密歇根大学政治学荣休教授，美国文理科学院院士；多源流分析框架（Multiple Streams Framework）的创立者，首次系统提出政策之窗（Policy Window）与政策企业家（Policy Entrepreneur）等经典概念，将组织决策的垃圾桶模型发展为解释公共政策议程设置与政策变迁的核心理论典范。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 23

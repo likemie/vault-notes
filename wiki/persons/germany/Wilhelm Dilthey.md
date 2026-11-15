@@ -6,6 +6,8 @@ aliases:
   - Dilthey, W.
 summary: "德国历史主义哲学家与教育学家，柏林大学哲学教授；创立精神科学（Geisteswissenschaften）与生命解释学，提出自然科学的“说明”与精神科学的“理解”之二元划分，被公认为欧洲比较教育学三大先驱进路之一（精神科学/文化主义进路）的奠基人。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 21

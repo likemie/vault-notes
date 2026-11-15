@@ -5,6 +5,8 @@ aliases:
   - Geoff N. Masters
 summary: "澳大利亚教育测评学家，长期担任澳大利亚教育研究委员会（ACER）首席执行官，致力于解构传统年级课程交付模型，开创以学生个体发展阶段与年度学业成长增量为基准的发展性测评理论，为 Gonski 2.0 改革提供关键理论奠基。"
 type: person
+cssclasses:
+  - person-page
 nationality: australia
 person_region: "australia"
 person_related_count: 15

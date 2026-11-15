@@ -5,6 +5,8 @@ aliases:
   - Robert Leach
 summary: "日内瓦国际学校社会研究教师与早期 IB 草根倡议者，组织 1962 年会议、推动 International Baccalaureate 名称进入正式讨论，并取得首笔 UNESCO 项目资助。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 8

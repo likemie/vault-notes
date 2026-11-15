@@ -6,6 +6,8 @@ aliases:
   - Fukuyama, F.
 summary: "美国著名政治学家、政治哲学家，斯坦福大学高级研究员；提出著名的“历史终结论”，并在后期深刻反思西方国家能力衰败、政治极化与后现代相对主义对道德判断和认识论基础的自我瓦解。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 21

@@ -5,6 +5,8 @@ aliases:
   - 贝克莱
 summary: "爱尔兰哲学家与克洛因主教，经验论—唯心论代表人物，以存在即被感知将洛克经验论推向主观唯心论，其思想在 Li 的西方心智传统追溯中构成经验论脉络的关键一环"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 10

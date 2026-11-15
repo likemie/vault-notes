@@ -5,6 +5,8 @@ aliases:
   - Greany, T.
 summary: "英国诺丁汉大学教育领导力教授，前伦敦大学学院教育研究院学习领导力中心主任，英格兰自我改进学校系统与横向校际网络治理领军学者，系统界定了自我改进学校系统的核心支柱，主持教学学校联盟国家评估并提出学校循证领导力四因素框架"
 type: person
+cssclasses:
+  - person-page
 nationality: "uk"
 person_region: "uk"
 person_related_count: 23

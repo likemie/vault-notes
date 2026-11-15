@@ -5,6 +5,8 @@ aliases:
   - G. W. F. Hegel
 summary: "19世纪德国古典哲学大师；提出绝对精神演进与辩证扬弃理论，其教化思想深刻塑造了德意志教化传统与现代国家主义教育哲学；本尼迪克特·安德森引述其关于晨报替代晨祷的著名论断，以阐释现代人在均质空的、时间内分秒不差复制日常仪式所构筑的世俗民族想象。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 30

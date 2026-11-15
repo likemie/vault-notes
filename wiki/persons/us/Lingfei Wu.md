@@ -6,6 +6,8 @@ aliases:
   - Wu, L.
 summary: "计算社会学家与科学学学者，匹兹堡大学计算机与信息学院助理教授；聚焦科技创新网络与团队组织动力学，领衔在《Nature》发表大科学与小团队颠覆性分工的封面里程碑研究，确立颠覆性指数在大数据科学学中的经典应用。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 11

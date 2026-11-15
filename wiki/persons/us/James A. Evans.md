@@ -6,6 +6,8 @@ aliases:
   - Evans, J. A.
 summary: "美国著名社会学家与计算社会科学先驱，芝加哥大学社会学讲席教授、知识实验室（Knowledge Lab）主任、圣塔菲研究所外聘教授；开创性运用大规模机器学习与知识网络分析，在科研范式演化、算法与人工智能科学学、小团队颠覆性发现及学术注意力的集中与分散机制等领域产生了世界性影响。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 18

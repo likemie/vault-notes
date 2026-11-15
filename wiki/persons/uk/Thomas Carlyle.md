@@ -5,6 +5,8 @@ aliases:
   - Carlyle, T.
 summary: "19世纪苏格兰著名历史学家、散文家与哲学家；提出著名的“伟人理论”，主张世界历史本质上是杰出领袖与实干英雄的传记，英雄是点燃时代燃料的不可或缺之闪电。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 13

@@ -6,6 +6,8 @@ aliases:
   - Lord Mountbatten
 summary: "英国海军将领与公共人物，1968年后把联合世界书院从单校扩展倡议重组为具有国际治理、国家委员会和多种成员模式的教育网络。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 10

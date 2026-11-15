@@ -7,6 +7,8 @@ aliases:
   - Robert F. Arnove
 summary: "美国著名比较教育学泰斗，比较与国际教育学会（CIES）前会长，印第安纳大学荣誉总理教授，系统奠定全球化与本土实践辩证法分析框架，为批判比较教育学解构跨国新自由主义政策借用与本土抗争提供了核心理论范式。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 54

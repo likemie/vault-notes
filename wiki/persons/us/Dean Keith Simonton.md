@@ -8,6 +8,8 @@ aliases:
   - Simonton, D. K.
 summary: "美籍创造力心理学家与历史计量学先驱，加利福尼亚大学戴维斯分校杰出名誉教授；系统提出创造力生成的达尔文主义模型与成功恒定概率模型，测度人类天才成长、科学产出与杰作时序规律，为科学学解析科研生涯突破机制奠定了开创性认知心理学基础。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 22

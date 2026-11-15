@@ -6,6 +6,8 @@ aliases:
   - Christopher M. Martin
 summary: "加拿大教育哲学家，不列颠哥伦比亚大学副教授。从政治自由主义与民主审议理论出发，在教育哲学中首创“成长性认识不正义（Formative Epistemic Injustice）”概念，系统论证了未成年人在求知者形成期享有参与民主辩论与探究实践的根本权利。"
 type: person
+cssclasses:
+  - person-page
 nationality: canada
 person_region: "canada"
 person_related_count: 11

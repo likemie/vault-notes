@@ -4,6 +4,8 @@ aliases:
   - 徐南杓
 summary: "美籍韩裔机械工程学家与高教管理领袖，麻省理工学院荣休教授，公理设计理论开创者；出任 NSF 首任工程学助理主任期间主掌工程学学部，与布洛赫紧密搭档奠定工程研究中心的制度蓝图与评审实施架构。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 11

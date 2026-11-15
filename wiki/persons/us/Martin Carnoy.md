@@ -5,6 +5,8 @@ aliases:
   - Carnoy, M.
 summary: "美国比较教育学与教育政治经济学奠基泰斗，斯坦福大学荣休讲席教授，开创教育依附理论与文化帝国主义批判，揭示教育政策分析必然暗含前置国家理论，批判结构调整话语中将教师薪酬定性为效率阻碍并将教师打上‘恶棍’标签的紧缩逻辑，系统剖析转型社会的教育国家关系"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 32

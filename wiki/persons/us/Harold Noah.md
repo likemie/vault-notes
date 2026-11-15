@@ -8,6 +8,8 @@ aliases:
   - H. Noah
 summary: "美籍英裔著名比较教育学家与教育经济学家，哥伦比亚大学师范学院前院长、讲座教授，CIES 前会长；战后第三代际实证科学主义运动中哥大学派代表人物，与埃克斯坦合著《走向比较教育科学》（1969），提出‘用变量名称替代系统国名’的核心方法论纲领。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 52

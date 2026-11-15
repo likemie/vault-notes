@@ -6,6 +6,8 @@ aliases:
   - Father of Finnish Public Education
 summary: "芬兰教育家与神职人员，被尊为“芬兰初等教育之父”，创立于韦斯屈莱师范讲习所，起草《1866年国民学校法令》，并首创现代手工劳作教育（Slöjd）。"
 type: person
+cssclasses:
+  - person-page
 nationality: finland
 person_region: "finland"
 person_related_count: 13

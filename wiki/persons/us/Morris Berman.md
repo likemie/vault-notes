@@ -5,6 +5,8 @@ aliases:
   - Berman, M.
 summary: "美国著名文化史学家、社会批评家，以“意识三部曲”与《美国文化的薄暮》著称，批判晚期资本主义文化衰退与过度解构主义对客观真理与智识传统的消解。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 6

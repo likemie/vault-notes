@@ -9,6 +9,8 @@ aliases:
   - José Francisco de San Martín y Matorras
 summary: "阿根廷、智利与秘鲁独立运动领袖，南美南部“解放者”，秘鲁首任护国公；安德森在《想象的共同体》中将其作为分析帝国军事巡游与跨阶级民族认同修辞建构的标志性个案，阐发其颁布法令将原住民统称为秘鲁人的政治修辞如何跨越识字率断层线赋予底层以横向同志情谊"
 type: person
+cssclasses:
+  - person-page
 nationality: argentina
 person_region: "argentina"
 person_related_count: 12

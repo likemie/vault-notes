@@ -6,6 +6,8 @@ aliases:
   - 皮亚杰
 summary: "瑞士心理学家与哲学家，认知发展阶段理论与发生认识论创立者，提出科学思维是持续建构与重组的演进过程而非静态实体，为理解儿童认知、建构主义与课程设计提供基石。"
 type: person
+cssclasses:
+  - person-page
 nationality: switzerland
 person_region: "switzerland"
 person_related_count: 36

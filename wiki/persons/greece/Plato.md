@@ -4,6 +4,8 @@ aliases:
   - 柏拉图
 summary: "古希腊哲学家，苏格拉底的学生、亚里士多德的老师，西方哲学奠基人之一，以理型论、洞穴喻、哲学家王与《美诺篇》回忆说深刻塑造了西方形而上学、知识论、教育思想与政治哲学传统"
 type: person
+cssclasses:
+  - person-page
 nationality: greece
 person_region: "greece"
 person_related_count: 44

@@ -7,6 +7,8 @@ aliases:
   - Bengt-Ake Lundvall
 summary: "丹麦著名演化经济学家、创新系统理论奠基人之一，奥尔堡大学荣休教授；最早正式提出“国家创新系统”术语，开创“互动学习”微观分析范式；1996 年与多米尼克·福瑞共同为主编经合组织里程碑著作，系统界定“学习型经济”构念，论证在知识快速折旧时代，互动沟通与终身学习能力是国家核心竞争力的决定性源泉。"
 type: person
+cssclasses:
+  - person-page
 nationality: denmark
 person_region: "denmark"
 person_related_count: 23

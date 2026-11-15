@@ -7,6 +7,8 @@ aliases:
   - W. W. Brickman
 summary: "美国比较教育史学家与教育史学者，比较教育学会（CIES）创始人兼首任会长，《比较教育评论》（CER）创刊编辑。主张比较教育学必须植根于一手史料考据与深厚的历史文化情境，系统整理了跨越数个世纪的古典比较教育文献遗产，并在战后科学主义大论战中坚决捍卫历史主义与人文主义分析取向。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 27

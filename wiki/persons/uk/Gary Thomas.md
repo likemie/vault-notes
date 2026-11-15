@@ -5,6 +5,8 @@ aliases:
   - 加里·托马斯
 summary: "英国教育学者和方法论批评者，民间科学观批判代表人物，为教育研究反思 RCT 黄金标准和因果解释模式提供替代视角。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 7

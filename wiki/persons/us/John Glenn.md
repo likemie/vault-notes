@@ -6,6 +6,8 @@ aliases:
   - John Herschel Glenn Jr.
 summary: "美国二战海军陆战队战斗机飞行员、首位环绕地球飞行的宇航员及资深联邦参议员（俄亥俄州），参议院政府事务委员会主席；《1994年联邦采购精简法》（FASA 1994）的核心立法起草人与推动者，致力于打破联邦政府繁文缛节与采购避险惰性、确立商用现成产品法定优先地位的务实政治家。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 8

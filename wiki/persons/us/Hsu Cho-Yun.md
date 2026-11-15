@@ -5,6 +5,8 @@ aliases:
   - Hsu, C.-Y.
 summary: "中国著名历史学家，海外文化保守主义史学代表人物，提出族裔文化型中国观，强调中国由中原汉族与汉文化界定，其史学著作深刻影响了海峡两岸及香港的传统文化认同构建"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 6

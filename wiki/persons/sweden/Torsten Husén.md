@@ -6,6 +6,8 @@ aliases:
   - Torsten Husen
 summary: "瑞典教育学家与心理测量学家，斯德哥尔摩大学国际教育研究所创始所长，IEA 首任主席与 IAE 首任院长。既是大规模跨国量化测评的奠基人，又是揭示战后实证科学规划承诺破灭与学校制度合法性危机的领军学者。"
 type: person
+cssclasses:
+  - person-page
 nationality: sweden
 person_region: "sweden"
 person_related_count: 34

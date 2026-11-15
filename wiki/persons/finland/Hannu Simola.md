@@ -5,6 +5,8 @@ aliases:
   - Hannu Tapani Simola
 summary: "赫尔辛基大学教育社会学荣休教授，国际著名的芬兰教育历史社会学学者，通过国家档案考证解构芬兰PISA神话，提出“芬兰教育之谜”与历史偶然性理论。"
 type: person
+cssclasses:
+  - person-page
 nationality: finland
 person_region: "finland"
 person_related_count: 15

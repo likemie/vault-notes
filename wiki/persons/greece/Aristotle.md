@@ -4,6 +4,8 @@ aliases:
   - 亚里士多德
 summary: "古希腊哲学家，提出目的论、习惯化道德培养与实践智慧；在西方高等教育史上作为核心通识正典代表，在20世纪“经典之争”中成为审视通识选目裁决与正典制度解体的关键思想坐标。"
 type: person
+cssclasses:
+  - person-page
 nationality: greece
 person_region: "greece"
 person_related_count: 16

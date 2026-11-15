@@ -5,6 +5,8 @@ aliases:
   - 帕思·萨尔伯格
 summary: "芬兰著名教育学者、教育政策顾问，全球教育改革运动（GERM）概念的提出者，著有《芬兰传奇》，主张以专业信任、合作文化与全人发展抵制新自由主义标准化与商业竞争问责。"
 type: person
+cssclasses:
+  - person-page
 nationality: finland
 person_region: "finland"
 person_related_count: 31

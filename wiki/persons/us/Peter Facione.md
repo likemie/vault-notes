@@ -6,6 +6,8 @@ aliases:
   - 法乔恩
 summary: "美国著名教育哲学家、心理学家与高阶思维测评先驱，美国哲学学会德尔菲批判性思维共识报告首席研究员，加州批判性思维技能测验与倾向问卷编制者"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 11

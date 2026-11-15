@@ -7,6 +7,8 @@ aliases:
   - James Scott
 summary: "美国著名比较政治学家与政治人类学家，耶鲁大学斯特林政治学与人类学讲座教授；以对现代国家治理理性、地方性知识与底层反抗的颠覆性研究闻名；在《像国家一样审视》中提出“国家简化”、“可读性”与“极端现代主义”等经典构念，深刻揭示国家官僚体系为了实现行政控制而强行裁剪复杂现实的认识论暴力，成为当代教育督导与治理研究的重要批判理论源泉。"
 type: person
+cssclasses:
+  - person-page
 subtype: scholar
 person_region: "us"
 person_related_count: 22

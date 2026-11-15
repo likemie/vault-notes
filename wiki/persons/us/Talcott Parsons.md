@@ -6,6 +6,8 @@ aliases:
   - 帕森斯
 summary: "20世纪美国结构功能主义社会学泰斗、哈佛大学社会学系长期系主任，系统构建社会行动理论与 AGIL 结构功能分析框架；在1947年关于人类侵犯性的论著中深刻揭示了成年人因社会继承权落空产生的不公正待遇感与制度怨恨如何成为掩盖个人失败的心理借口。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 12

@@ -6,6 +6,8 @@ aliases:
   - Niall Campbell Ferguson
 summary: "英国著名历史学家，斯坦福大学胡佛研究所高级研究员，专精全球金融史、帝国兴衰史与西方文明演进研究"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 3

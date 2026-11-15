@@ -9,6 +9,8 @@ aliases:
   - Mas Marco
 summary: "印度尼西亚早期激进作家、新闻记者与反殖民活动家，印尼通俗白话文学与早期工人运动先驱。代表作《黑色的三宝垄》（Semarang Hitam, 1924）被本尼迪克特·安德森在《想象的共同体》中列为现代小说通过多线共时叙事与流浪汉视角表象荷属东印度民族共同体的重要范本；因尖锐抨击荷兰殖民统治与参与反抗运动屡遭监禁，最终流放并病逝于波文迪古尔集中营。"
 type: person
+cssclasses:
+  - person-page
 nationality: indonesia
 person_region: "indonesia"
 person_related_count: 5

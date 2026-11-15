@@ -7,6 +7,8 @@ aliases:
   - Neil J. Smelser
 summary: "美国当代著名社会学大师，国际社会学会（ISA）前主席，加州大学伯克利分校社会学荣休教授，结构功能主义与经济社会学权威，系统揭示全球化生产与跨国流动对民族国家主权边界与公民团结核心象征的根本性解构"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 11

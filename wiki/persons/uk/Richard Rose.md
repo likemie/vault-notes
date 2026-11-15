@@ -6,6 +6,8 @@ aliases:
   - R. Rose
 summary: "英国比较政治学家（1933–2019），斯特拉斯克莱德大学政治学荣誉教授；提出「经验汲取」（Lesson-Drawing）理论，系统区分政策借用（Policy Transfer）中直接移植（Copying）、模仿（Emulation）、学习（Learning）与启发（Inspiration）等不同路径。罗斯的经验汲取框架是比较教育政策借用研究的核心理论来源，也是 Steiner-Khamsi et al. 分析国际组织如何将他国经验打包中介传播的重要概念支柱。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 15

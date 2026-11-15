@@ -5,6 +5,8 @@ aliases:
   - 菲洛梅娜·默里
 summary: "澳大利亚墨尔本大学荣誉教授、让·莫内讲座教授（Jean Monnet Chair ad personam），当代欧洲研究中心前主任。长期致力于欧洲联盟治理、比较区域主义及欧亚跨区域关系研究，提出制度适切性裁量空间概念，对多边常设委员会机制与区域组织规范本土化具有重要理论贡献。"
 type: person
+cssclasses:
+  - person-page
 nationality: australia
 person_region: "australia"
 person_related_count: 12

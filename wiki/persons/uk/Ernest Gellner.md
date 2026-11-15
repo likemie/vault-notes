@@ -6,6 +6,8 @@ aliases:
   - Gellner, E.
 summary: "英籍捷克裔哲学家与社会人类学家，现代民族主义现代主义学派奠基人之一。提出民族主义是工业社会功能性需求的产物，主张民族主义创造并构想了民族；其将发明等同于伪造与虚假的分析取向，构成了本尼迪克特·安德森以想象的共同体反思民族表象风格的核心对话基点。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 10

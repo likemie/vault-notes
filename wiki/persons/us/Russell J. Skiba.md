@@ -6,6 +6,8 @@ aliases:
   - 斯基巴
 summary: "美国印第安纳大学教育心理学名誉教授，全美学校纪律与排他性管教实证研究先驱，以对学校零容忍政策的严谨批评与对非裔学生管教种族不成比例性的实证揭示而闻名，多次受邀向美国国会听证会提供专家证词。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 14

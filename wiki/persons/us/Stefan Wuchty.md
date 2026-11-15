@@ -7,6 +7,8 @@ aliases:
   - Wuchty, S.
 summary: "复杂网络科学家与计算生物学家，迈阿密大学副教授，曾任西北大学复杂系统研究所（NICO）研究员；2007 年与 Benjamin F. Jones、Brian Uzzi 在《科学》发表奠基性成果，通过分析近两千万篇论著与两百万件专利，首次提出相对团队影响力（RTI），系统确立了团队生产在现代科学中的主导地位。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 13

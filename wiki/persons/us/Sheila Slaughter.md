@@ -5,6 +5,8 @@ aliases:
   - 斯劳特
 summary: "美国当代著名高等教育学学者，佐治亚大学麦克比高等教育研究所荣休讲席教授，“学术资本主义”理论的奠基人。其实证研究深刻揭示了冷战后美国大学如何卷入全球知识经济竞争，形成多重契约交叠演化的复杂图景。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 22

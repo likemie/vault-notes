@@ -5,6 +5,8 @@ aliases:
   - 约翰·穆勒
 summary: "南非裔英国教育社会学家，社会实在论的核心学者之一，与 Young 共同提出有力知识概念，关注课程改革与学业成就不平等"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 6

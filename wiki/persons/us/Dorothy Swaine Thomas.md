@@ -7,6 +7,8 @@ aliases:
   - Thomas, D. S.
 summary: "美籍社会学家与人口学家，宾夕法尼亚大学社会学讲席教授，美国社会学会（ASA）历史上首位女性主席（1952）；与威廉·伊萨克·托马斯合著《美国的儿童》（1928）并共同确立了著名的托马斯定理；长期在学术引用中遭遇系统性姓名遮蔽与贡献剥夺，成为科学马太效应与女性学者学术承认缺失的典型案例。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 10

@@ -6,6 +6,8 @@ aliases:
   - John R. Hardwig
 summary: "美国哲学家，田纳西大学诺克斯维尔分校荣休教授，当代社会认识论中“认识依赖”与“专家信任”理论的开创者；首次确立现代高度分工知识生产中诉诸专家权威与协作网络的理性正当性。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 15

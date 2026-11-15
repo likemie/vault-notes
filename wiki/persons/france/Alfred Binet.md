@@ -5,6 +5,8 @@ aliases:
   - 比奈
 summary: "法国心理学家、教育学家与智力测验先驱，索邦大学心理生理学实验室主任；与西奥多·西蒙合作研制出世界上首个实用智力测验量表（比奈-西蒙智力量表），提倡通过严谨、长期的直接田野观察洞察人类与动物心智运作规律。"
 type: person
+cssclasses:
+  - person-page
 nationality: france
 person_region: "france"
 person_related_count: 5

@@ -6,6 +6,8 @@ aliases:
   - A. Comte
 summary: "19世纪法国实证主义哲学家与社会学奠基人，提出知识演进三阶段法则、实证科学分类阶梯与实证政治学，其将自然科学方法移植于人类社会事物的学说深度形塑了现代社会科学与启蒙教育改良构想。"
 type: person
+cssclasses:
+  - person-page
 nationality: "france"
 person_region: "france"
 person_related_count: 36

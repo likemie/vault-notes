@@ -4,6 +4,8 @@ aliases:
   - marc-tucker
 summary: "美国著名教育政策专家、国家教育与经济中心（NCEE）创始人兼荣休主席；长期主导全球高绩效基础教育系统国际对标研究，主编《超越上海》，主张美国教育改革必须超越零散方案，整体借鉴东亚与北欧的高质量全系统设计与教师队伍建设。"
 type: person
+cssclasses:
+  - person-page
 subtype: expert
 person_region: "us"
 person_related_count: 11

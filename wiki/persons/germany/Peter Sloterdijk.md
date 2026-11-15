@@ -6,6 +6,8 @@ aliases:
   - Sloterdijk, P.
 summary: "德国当代哲学家与文化理论家，卡尔斯鲁厄设计学院前校长，以球体三部曲、人类技术学与对西方神学凝视世俗化为恒常监视与自我省察的批判解构著称。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 12

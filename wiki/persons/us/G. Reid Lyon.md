@@ -6,6 +6,8 @@ aliases:
   - G·里德·里昂
 summary: "美国神经心理学家与联邦教育科研高级官员，曾任 NICHD 儿童发展与行为分支主管及布什白宫教育顾问；在 1990 年代阅读战争中强力推行直接系统拼读法与因果推断实验证据标准，主导起草 REA 与 NCLB 阅读法案核心条文并组建 NRP，是次政府铁三角的核心官僚代表。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 23

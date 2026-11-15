@@ -6,6 +6,8 @@ aliases:
   - 西利
 summary: "美国生物学家与行为生态学家，康奈尔大学生物学名誉教授；当代蜜蜂群体决策与社会生物学研究的权威领军学者，著有《蜜蜂的民主》（Honeybee Democracy），系统继承并深化了卡尔·冯·弗里施与马丁·林道尔的蜂群群智能自组织理论。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 7

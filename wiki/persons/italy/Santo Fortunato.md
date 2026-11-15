@@ -7,6 +7,8 @@ aliases:
   - Fortunato, S.
 summary: "意大利理论物理学家与复杂网络科学家，印第安纳大学布卢明顿分校信息与计算学院教授、复杂网络与系统研究中心主任；网络社团发现算法与模块度分辨率极限开创者之一，科学学领军学者；通过实证检验确立引文网络优先连接激活门槛（7次被引）并证明跨学科引文分布普适性。"
 type: person
+cssclasses:
+  - person-page
 nationality: italy
 person_region: "italy"
 person_related_count: 22

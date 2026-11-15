@@ -8,6 +8,8 @@ aliases:
   - Woolley, A.
 summary: "美国组织心理学家与行为科学家，卡耐基梅隆大学泰珀商学院组织行为学讲席教授、副院长；开创性提出并实证测度了团队集体智慧（c 因子），揭示群体共情、话语权均衡与多元包容对复杂团队协同效能的决定性作用。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 13

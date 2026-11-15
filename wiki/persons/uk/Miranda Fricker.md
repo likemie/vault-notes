@@ -5,6 +5,8 @@ aliases:
   - 弗里克
 summary: "英国著名哲学家、社会认识论泰斗，牛津大学哲学系教授、英国国家学术院院士（FBA）；开创了当代批判性社会认识论中的“认识不正义（Epistemic Injustice）”理论范式，系统提出证词不正义与诠释不正义，其学说深刻启发了教育哲学、技术伦理与认知发展研究。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 12

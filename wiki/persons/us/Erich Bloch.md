@@ -4,6 +4,8 @@ aliases:
   - 埃里希·布洛赫
 summary: "美国电气工程师与科技管理领袖，首位产业界出身的美国国家科学基金会主任；任内确立工程科学战略地位，奠定工程研究中心与科学技术中心的制度基石。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 21

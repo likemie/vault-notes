@@ -5,6 +5,8 @@ aliases:
   - Qian, M.
 summary: "中国历史学家与文化保守主义代表人物，新亚书院创办人，其文化保守主义与汉族文化中心主义思想深刻塑造了香港殖民时期及回归后中国历史教育的叙事传统"
 type: person
+cssclasses:
+  - person-page
 nationality: china
 person_region: "china"
 person_related_count: 9

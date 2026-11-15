@@ -6,6 +6,8 @@ aliases:
   - Rawls, J.
 summary: "20世纪著名政治哲学家、哈佛大学讲座教授，以《正义论》重构当代规范政治哲学与自由主义理论，提出无知之幕、作为公平的正义以及正当优先于善的核心命题。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 10

@@ -7,6 +7,8 @@ aliases:
   - Martin N. Ravallion
 summary: "澳大利亚著名发展经济学家、微观计量学大师（1952–2022），世界银行发展经济学研究局（DEC）前研究部主任、乔治城大学讲席教授；首创国际“1美元/天”极端贫困线测定标准，系统奠定了现代跨国贫困与不平等实证计量范式；其与亚当·瓦格斯塔夫联合完成的世界银行全行科研出版物与引文影响力系统性审计，为扎普（Zapp, 2017）解构世界银行教育知识生产总量、学科构成及发表霸权提供了核心的实证数据母本。"
 type: person
+cssclasses:
+  - person-page
 nationality: australia
 person_region: "australia"
 person_related_count: 18

@@ -7,6 +7,8 @@ aliases:
   - Khoi, L. T.
 summary: "越裔法国著名比较教育学家与经济学家，巴黎第五大学（勒内·笛卡尔大学）终身教授、泛索邦大学经济与社会发展研究所（IEDES）核心研究员；综合文化史、社会学与政治经济学开创法国比较教育“文化历史-结构学派”，以1981年专著《比较教育》打破英美经验主义与西方中心主义垄断。"
 type: person
+cssclasses:
+  - person-page
 nationality: france
 person_region: "france"
 person_related_count: 14

@@ -7,6 +7,8 @@ aliases:
   - D. Stokes
 summary: "美国政治学家、公共政策学者，普林斯顿大学伍德罗·威尔逊学院前院长。针对冷战后国家安全合法性消退与财政赤字危机，于 1997 年出版《帕斯德象限》，提出二维研究动机模型，确立“由应用启发的基础研究”合法性，打破战后线性模型；不仅被弗雷德·布洛克（Fred Block）吸收为论证美国发展型网络国家（DNS）主动跨越技术转化死亡之谷的认识论基础，亦在 2026 年白宫科技报告中被确立为解释现代前沿科技突破的理论基石。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 43

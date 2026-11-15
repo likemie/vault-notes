@@ -6,6 +6,8 @@ aliases:
   - Dennis, W.
 summary: "美国发展心理学家与科研生涯计量早期开拓者，曾任布鲁克林学院心理系主任；1954 年在《科学月刊》通过对 71 位美国国家科学院院士和欧洲杰出科学家全生命周期产出追踪，首次实证确证科学高产出与历史学术显赫性高度正相关，为学术生产力与科学卓越定量研究奠定了经验基石。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 14

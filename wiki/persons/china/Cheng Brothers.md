@@ -9,6 +9,8 @@ aliases:
   - Cheng Yi
 summary: "北宋理学家，程颢与程颐兄弟，程朱理学奠基人，重新开启儒家学习传统，将天理概念系统引入修身与学习理论"
 type: person
+cssclasses:
+  - person-page
 nationality: china
 person_region: "china"
 person_related_count: 10

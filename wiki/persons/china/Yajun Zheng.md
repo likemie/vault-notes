@@ -5,6 +5,8 @@ aliases:
   - 郑雅君
 summary: "中国高等教育研究者，双模式框架提出者和 金榜题名之后 作者，为教育研究解释大学生出路分化与文化障碍提供分析工具。"
 type: person
+cssclasses:
+  - person-page
 nationality: china
 person_region: "china"
 person_related_count: 28

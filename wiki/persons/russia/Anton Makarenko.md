@@ -6,6 +6,8 @@ aliases:
   - 马卡连柯
 summary: "苏联教育改革家，因其教育思想与实践被西方学界称为苏联的 John Dewey，主张通过教育克服不利生活环境，其思想在矫正教育领域受到持续关注"
 type: person
+cssclasses:
+  - person-page
 nationality: russia
 person_region: "russia"
 person_related_count: 9

@@ -8,6 +8,8 @@ aliases:
   - George Hugh Nicholas Seton-Watson
 summary: "英国历史学家与政治学家，东欧与俄罗斯史权威学者，自由主义民族学派代表人物。在代表著作《民族与国家》中系统考察全球民族国家演进谱系，坦承自由主义理性主义无法为民族拟定普遍先验的科学界定；其提出的‘当群体中相当成员自认构成民族时民族即存在’之经验主义表述，启发了本尼迪克特·安德森向文化想象范式的人类学转向。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 14

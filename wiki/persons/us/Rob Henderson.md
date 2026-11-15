@@ -6,6 +6,8 @@ aliases:
   - Henderson, R.
 summary: "美国社会学者、作家与公共知识分子，剑桥大学心理学博士；以提出炫耀性信念（Luxury Beliefs）概念闻名，深刻剖析当代精英阶层如何通过前卫激进观念进行文化地位炫耀并对工人阶级造成负面外部性。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 7

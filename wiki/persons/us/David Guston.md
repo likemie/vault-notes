@@ -5,6 +5,8 @@ aliases:
   - David H. Guston
 summary: "美国当代著名科学技术政策与STS学者，亚利桑那州立大学教授。系统构建了科学社会契约的委托—代理分析框架与边界组织理论，代表作《在政治与科学之间》深刻剖析了国家在保障科研诚信与科研产出率之间的制度化协调机制。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 21

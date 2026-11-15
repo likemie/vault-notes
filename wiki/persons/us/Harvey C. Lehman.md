@@ -9,6 +9,8 @@ aliases:
   - Lehman, H. C.
 summary: "美籍心理学家，俄亥俄大学心理学教授；人类创造力生命周期研究的近代奠基人，耗费近三十年心血撰写里程碑巨著《年龄与成就》（Age and Achievement, 1953），通过系统统计化学、物理、数学、医学、发明、文学与音乐等跨领域卓越成果产出年龄，首次在经验上确立了人类顶级智力创造力在中年（30 至 40 岁）达到峰值的宏观规律，构成了当代科学学生涯成就研究的历史基石。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 12

@@ -6,6 +6,8 @@ aliases:
   - Schugurensky, D.
 summary: "当代著名比较教育学家与参与式民主学者，长期任教于多伦多大学安大略教育研究院（OISE）与亚利桑那州立大学，提出世界银行与美国商业圆桌会在高等教育重组中具有“选择性亲和”，深刻剖析跨国资本如何迫使拉美公立大学推行使用者付费与市场化创收"
 type: person
+cssclasses:
+  - person-page
 nationality: canada
 person_region: "canada"
 person_related_count: 20

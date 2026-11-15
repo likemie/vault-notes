@@ -5,6 +5,8 @@ aliases:
   - 雷·波森
 summary: "英国利兹大学社会研究方法论名誉教授，科学实在论评估与实在论综合的创立者；提出背景-机制-结果（CMO）因果配置模型与生成性因果观，系统解构随机对照试验与元分析的去情境化偏误，为社会政策、公共管理与制度变迁分析提供了情境敏感型的评估范式。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 41

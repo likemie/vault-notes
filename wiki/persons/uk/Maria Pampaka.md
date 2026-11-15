@@ -5,6 +5,8 @@ aliases:
   - 玛丽亚·潘帕卡
 summary: "英国教育研究者，学习结果测量与什么有效批判研究者，为教育研究把能动性与非成就性结果重新纳入方法论讨论。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 5

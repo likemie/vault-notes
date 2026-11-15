@@ -7,6 +7,8 @@ aliases:
   - M. Planck
 summary: "德国理论物理学家、量子论创立者、诺贝尔物理学奖得主，提出普朗克常数与科学范式代际演进的普朗克原理，深刻影响现代物理学革命与科学认识论发展。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 10

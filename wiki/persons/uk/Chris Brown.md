@@ -5,6 +5,8 @@ aliases:
   - C. Brown
 summary: "英国杜伦大学教育学教授（曾任职于华威大学与UCL教育学院），国际“证据知情学校”与教师专业学习网络（PLNs）领军学者，提出了整合数据诊断与研究证据的“学校探究循环”模型。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 21

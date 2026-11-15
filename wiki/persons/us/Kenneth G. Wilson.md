@@ -7,6 +7,8 @@ aliases:
   - Wilson, K. G.
 summary: "美籍理论物理学家、1982 年诺贝尔物理学奖得主，曾任康奈尔大学与俄亥俄州立大学教授；开创重整化群理论并解决相变临界现象，其跨越数十年的完整学术出版序列被科学学者作为图钉投影法与生涯序列置换的经典微观案例。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 12

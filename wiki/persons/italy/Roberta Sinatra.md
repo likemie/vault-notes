@@ -7,6 +7,8 @@ aliases:
   - Sinatra, R.
 summary: "意大利复杂网络科学家与计算科学学者，哥本哈根信息技术大学网络数据科学教授；以将统计物理与大数据计算引入科学学、人类创造力与学术评价闻名，领衔提出随机影响规律并构建学者能力 Q 因子模型，开创了现代量化科学学关于个体生涯演化与引文动力学的实证理论体系。"
 type: person
+cssclasses:
+  - person-page
 nationality: italy
 person_region: "italy"
 person_related_count: 21

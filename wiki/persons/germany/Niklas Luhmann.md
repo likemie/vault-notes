@@ -6,6 +6,8 @@ aliases:
   - 卢曼
 summary: "德国社会学家，社会系统理论创始人；提出自创生系统、双重偶然性、观察盲点与系统结构互应，其教育技术赤字论与外化命题为教育系统自指性再生产与跨国政策借用提供了严密解释框架。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 37

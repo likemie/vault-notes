@@ -8,6 +8,8 @@ aliases:
   - Pedro IV of Portugal
 summary: "巴西帝国缔造者与首任皇帝，兼任葡萄牙国王佩德罗四世，1822年领导巴西和平脱离葡萄牙独立并加冕称帝，安德森将其视为支撑“巴西例外论”的核心王朝行动者，阐明其跨洋延续的君主正统性避免了巴西陷入西属美洲式的地缘分裂"
 type: person
+cssclasses:
+  - person-page
 nationality: "brazil"
 person_region: "brazil"
 person_related_count: 6

@@ -6,6 +6,8 @@ aliases:
   - "Douglas, J. D."
 summary: "美国社会学家，加州大学圣地亚哥分校荣休教授，存在主义社会学与日常生活社会学开创者。在方法论上提出“规范范式”与“诠释范式”的两分架构，将实证主义与行为主义归入假定行为受先验规则支配的规范范式之下，为当代教育研究方法论范式划界奠定概念基石。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 26

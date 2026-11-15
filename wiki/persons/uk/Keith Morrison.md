@@ -6,6 +6,8 @@ aliases:
   - Morrison, K.
 summary: "英国教育研究方法学者，与 Cohen、Manion 合著《Research Methods in Education》，该书是教育研究方法领域的综合性教材"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 8

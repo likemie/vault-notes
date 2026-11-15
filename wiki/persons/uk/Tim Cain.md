@@ -6,6 +6,8 @@ aliases:
   - 凯恩
 summary: "英国 Edge Hill 大学教育学教授，教师研究使用与循证教学实践领域的先驱学者，提出教学审议中的“第三声音”理论，系统揭示教师面对学术研究文本时的五类能动反应模式与阻抗机制。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 29

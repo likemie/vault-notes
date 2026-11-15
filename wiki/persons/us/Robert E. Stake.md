@@ -7,6 +7,8 @@ aliases:
   - Robert Edward Stake
 summary: "美国教育评估与质性研究方法论学者，伊利诺伊大学厄巴纳-香槟分校荣休教授，案例研究方法与回应性评估的主要创立者；提出自然主义概括概念，确立了质性研究有别于量化推断的另一套推广逻辑；其对量化与质性研究取向差异的经典界定被比较教育学科广泛引用"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 16

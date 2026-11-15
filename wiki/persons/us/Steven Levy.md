@@ -6,6 +6,8 @@ aliases:
   - Levy, S.
 summary: "美国著名科技记者、作家与《连线》（Wired）杂志资深主笔，1984年出版里程碑著作《黑客：计算机革命的英雄》，首次系统总结并确立了“黑客伦理”（Hacker Ethic）；其深刻批判大企业与政府官僚体制为压制探索冲动的“缺陷系统”（Flawed Systems），成为记录早期软件与个人计算反体制文化、开源精神与数字自由主义的最核心思想史文献与编年史家。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 19

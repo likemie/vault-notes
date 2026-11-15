@@ -7,6 +7,8 @@ aliases:
   - Uzzi, B.
 summary: "美籍组织社会学家与网络科学家，西北大学凯洛格管理学院讲席教授，西北大学复杂系统研究所（NICO）联合主任；开创性揭示了团队生产在现代科学中的主导地位（2007）以及小世界网络拓扑对团队创意表现的非线性倒 U 形驱动规律（2005）。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 23

@@ -4,6 +4,8 @@ aliases:
   - 安德烈亚·萨尔泰利
 summary: "意大利应用统计学家与敏感性分析学者，前欧盟委员会联合研究中心（JRC）计量经济学与应用统计部门负责人、卑尔根大学教授，以提出全局敏感性分析方法论以及对跨国教育量化排名（如 OECD PISA）缺乏不确定性核查展开统计学批判闻名。"
 type: person
+cssclasses:
+  - person-page
 nationality: italy
 person_region: "italy"
 person_related_count: 14

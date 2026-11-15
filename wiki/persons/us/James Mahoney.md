@@ -7,6 +7,8 @@ aliases:
   - James A. Mahoney
 summary: "美国政治学家与历史社会学家，西北大学政治学与社会学讲席教授；历史制度主义与比较历史分析领军学者，因果推断与路径依赖理论奠基人之一；与凯瑟琳·希伦提出渐进制度变迁理论，系统建构以权力分配、制度模糊性与遵从裁量权为核心的内生制度演进分析框架。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 35

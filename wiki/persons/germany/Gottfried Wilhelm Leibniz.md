@@ -6,6 +6,8 @@ aliases:
   - "Leibniz, G. W."
 summary: "德国理性主义哲学家，以“上帝创世”和逻辑-本体论等价性为基础建立认知层级谱系，将美与艺术置于“清晰而混乱的认识”层面，构成18世纪德国美学奠基的理论背景与对话前提。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 9

@@ -7,6 +7,8 @@ aliases:
   - D. A. Schön
 summary: "美国哲学家与组织学习学者，反思性实践理论奠基人与实证主义技术理性批判代表人物，揭示专业实践中的沼泽地困境，为教育研究重估教师专业判断与行动中反思提供核心思想资源。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 41

@@ -6,6 +6,8 @@ aliases:
   - Douglas N. Walton
 summary: "加拿大哲学家、非形式逻辑与论辩理论家，提出系统的论证型式理论及配套批判性提问清单，深刻影响了人工智能、法律逻辑与科学论证教育。"
 type: person
+cssclasses:
+  - person-page
 nationality: canada
 person_region: "canada"
 person_related_count: 12

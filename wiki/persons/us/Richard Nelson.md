@@ -7,6 +7,8 @@ aliases:
   - Richard R. Nelson
 summary: "美国著名演化经济学家、创新经济学哥伦比亚学派领军学者，与悉尼·温特（Sidney Winter）合著《经济变迁的演化理论》奠定现代演化经济学基石；与克里斯·弗里曼（Chris Freeman）、本格特-奥克·伦德瓦尔（Bengt-Åke Lundvall）并称为国家创新系统理论的三大奠基人；主持开展跨国国家创新系统大型实证比较，深刻批判新古典增长理论将技术与制度变迁简化为无法解构的“索洛余值”。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 18

@@ -1,6 +1,8 @@
 ---
 title: W. H. G. Armytage
 type: person
+cssclasses:
+  - person-page
 related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
 status: stable

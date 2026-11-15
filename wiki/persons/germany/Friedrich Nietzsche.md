@@ -8,6 +8,8 @@ aliases:
   - Friedrich Wilhelm Nietzsche
 summary: "19世纪德国著名哲学家、古典语文学家与文化批判家；提出精神三变、重估一切价值、视角主义与权力意志学说，对西方形而上学传统与现代性虚无主义进行了彻底解构，其哲学隐喻深刻启迪了当代使命导向创新政策演化理论、后现代教育哲学与现代社会学认识论。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 23

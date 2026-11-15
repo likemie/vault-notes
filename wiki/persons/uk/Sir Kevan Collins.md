@@ -7,6 +7,8 @@ aliases:
   - Collins, K.
 summary: "英国著名教育家与公共政策官员，英国教育捐赠基金会（EEF）创设首席执行官（2011–2019），曾任伦敦塔村区行政长官与英国政府后疫情教育追赶专员；作为全球循证教育运动的关键枢纽，深度主导了《教学与学习工具包》的研制与跨国输出，并跨界出任澳大利亚教育研究组织（AERO）首届专家董事，是英澳循证政策流动与跨国治理网络的具身代表。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 31

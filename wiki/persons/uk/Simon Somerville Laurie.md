@@ -7,6 +7,8 @@ aliases:
   - Simon Laurie
 summary: "苏格兰哲学家与教育学家，1876 年受任爱丁堡大学首任教育学贝尔讲席教授，开创了大英帝国乃至英语世界高等学府设立正规教育学大学教席的建制化先河。主张将哲学认识论、教育思想史与跨国历史比较融入教育科学，奠定了现代师资专业化培训与教育学作为独立学术学科的合法性。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 10

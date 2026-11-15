@@ -5,6 +5,8 @@ aliases:
   - D. Gough
 summary: "英国伦敦大学学院教育学院（UCL Institute of Education, UCL IOE）实证政策与实践荣休教授、EPPI-Centre前主任，证据知情政策与实践（Evidence-Informed Policy and Practice, EIPP）、系统综述方法论及证据生态系统框架的主要开拓者与理论奠基人"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 37

@@ -5,6 +5,8 @@ aliases:
   - 马戎
 summary: "中国社会学与民族学家，北京大学社会学系教授，因提出少数民族政策的去政治化与族群化理论而对二十一世纪的中国民族政策转型产生深远影响"
 type: person
+cssclasses:
+  - person-page
 nationality: china
 person_region: "china"
 person_related_count: 9

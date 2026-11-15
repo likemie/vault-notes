@@ -7,6 +7,8 @@ aliases:
   - 苏珊·H·福尔曼
 summary: "美国著名教育政策学者，曾任宾夕法尼亚大学教育研究生院院长与哥伦比亚大学教师学院首任女性院长；作为美国 1990 年代系统性教育改革理论核心构建者，开创课程政策连贯性与课程治理分析框架，主张通过全州统一课程标准、教材资源、职前职后师训与学业测评的严格对齐解决公立教育碎片化困局。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 10

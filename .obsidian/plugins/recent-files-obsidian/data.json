@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Argument_Hammermeister_2002_Cambridge_Ch02",
-      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch02.md"
-    },
-    {
       "basename": "template-person",
       "path": "wiki/templates/template-person.md"
     },
     {
+      "basename": "Jürgen Habermas",
+      "path": "wiki/persons/germany/Jürgen Habermas.md"
+    },
+    {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic",
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic.md"
+    },
+    {
+      "basename": "Argument_Hammermeister_2002_Cambridge_Ch02",
+      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch02.md"
+    },
+    {
+      "basename": "Begg and Mazumdar Rank Correlation",
+      "path": "wiki/methods/quantitative/Begg and Mazumdar Rank Correlation.md"
+    },
+    {
+      "basename": "Visible Learning Branding and Global Influences",
+      "path": "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md"
     },
     {
       "basename": "Argument_Anderson_2016_Verso",
@@ -23,14 +35,6 @@
     {
       "basename": "Argument_Hammermeister_2002_Cambridge_Ch01",
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md"
-    },
-    {
-      "basename": "Begg and Mazumdar Rank Correlation",
-      "path": "wiki/methods/quantitative/Begg and Mazumdar Rank Correlation.md"
-    },
-    {
-      "basename": "Visible Learning Branding and Global Influences",
-      "path": "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md"
     },
     {
       "basename": "Immanuel Kant",
@@ -195,10 +199,6 @@
     {
       "basename": "Benevolence",
       "path": "wiki/concepts/chinese-philosophy/Benevolence.md"
-    },
-    {
-      "basename": "Conference-Centric Publication Model",
-      "path": "wiki/concepts/academic-writing/Conference-Centric Publication Model.md"
     }
   ],
   "omittedPaths": [],

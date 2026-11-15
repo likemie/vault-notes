@@ -6,6 +6,8 @@ aliases:
   - Fullan, M.
 summary: "加拿大著名教育变革与领导力学者，多伦多大学安大略教育研究院（OISE）荣休教授与前院长，Michael Fullan Enterprises 首席执行官；开创全系统变革、动能领导力与深度学习新教学法（NPDL），深度介入多国公立教育改革政策，并在跨国教育商业特许与思想领袖运作中发挥关键枢纽作用。"
 type: person
+cssclasses:
+  - person-page
 nationality: canada
 person_region: "canada"
 person_related_count: 21

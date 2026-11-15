@@ -5,6 +5,8 @@ aliases:
   - 潘岳
 summary: "中国统战官员与历史学者，现任国家民委主任，因提出五胡入华等历史叙事并推动铸牢中华民族共同体意识而成为民族政策转型的核心设计者"
 type: person
+cssclasses:
+  - person-page
 nationality: china
 person_region: "china"
 person_related_count: 7

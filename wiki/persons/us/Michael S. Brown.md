@@ -7,6 +7,8 @@ aliases:
   - M. S. Brown
 summary: "美国生物化学家与遗传学家，德克萨斯大学西南医学中心分子遗传学讲席教授；与约瑟夫·戈尔茨坦长期合作发现低密度脂蛋白（LDL）受体机制，揭示胆固醇代谢调控的分子基础，共同荣获1985年诺贝尔生理学或医学奖；二人的超过半世纪超级科研合作，在团队科学研究中被作为终身科学超级联结的经典典范。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 9

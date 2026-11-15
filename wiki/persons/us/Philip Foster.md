@@ -6,6 +6,8 @@ aliases:
   - Foster, P. J.
 summary: "英裔美籍教育社会学家与比较教育学家，芝加哥大学教授，比较教育第三论述代际（社会科学与实证主义代际）芝加哥学派核心代表；以结构功能主义分析学校社会分流，提出‘职业学校谬误’理论，开创非洲教育现代化与实证调查研究。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 31

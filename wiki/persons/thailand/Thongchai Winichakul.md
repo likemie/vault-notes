@@ -7,6 +7,8 @@ aliases:
   - Thongchai
 summary: "泰国著名历史学家、威斯康星大学麦迪逊分校东南亚史荣休教授，后殖民批判地理学与东南亚民族主义研究代表学者。其代表作《图绘暹罗》提出著名的“地理身体”概念，揭示现代地图测绘如何颠覆前现代佛教宇宙图景，先导构建出排他性主权的现代暹罗民族国家形态，对安德森《想象的共同体》第10章产生决定性理论启发。"
 type: person
+cssclasses:
+  - person-page
 nationality: thailand
 person_region: "thailand"
 person_related_count: 9

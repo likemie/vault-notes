@@ -5,6 +5,8 @@ aliases:
   - 迪特里希·本纳
 summary: "德国教育学家，现代普通教育学与非肯定性教育理论代表人物，提出品格陶成与教育实践的双重区分及修正版教学三角模型，阐明教与学两类独立活动的协同机制。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 23

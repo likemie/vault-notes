@@ -5,6 +5,8 @@ aliases:
   - 保罗·莫里斯
 summary: "英国比较教育与课程研究学者，香港课程政治与政策借用研究代表人物，为教育研究理解全球化论述在本地课程中的转译提供案例。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 19

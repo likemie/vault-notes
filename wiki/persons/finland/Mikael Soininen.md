@@ -7,6 +7,8 @@ aliases:
   - 索伊尼宁
 summary: "芬兰现代教育家、政治家、赫尔辛基大学教育学教授与芬兰教育部长（1919–1922），将德国赫尔巴特-齐勒学派教学法系统本土化为芬兰师资培训与国民学校核心大纲，并直接起草推动《1921年义务教育法》颁布落地。"
 type: person
+cssclasses:
+  - person-page
 nationality: finland
 person_region: "finland"
 person_related_count: 13

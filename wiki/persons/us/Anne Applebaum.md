@@ -6,6 +6,8 @@ aliases:
   - 阿普尔鲍姆
 summary: "美国著名历史学家、政论家、普利策奖得主，长期研究威权主义与极权统治，指出自由主义世界秩序并非自然存在，必须依靠法治制度与硬实力强制力予以维护。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 6

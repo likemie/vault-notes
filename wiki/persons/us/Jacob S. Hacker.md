@@ -7,6 +7,8 @@ aliases:
   - Jacob Hacker
 summary: "美国政治学家，耶鲁大学政治学讲席教授，美国文理科学院院士；当代福利国家政治、公共政策与制度变迁理论领军学者；在施特雷克与希伦主编的《制度变迁的超越》（2005）中首创制度漂移与政策漂移理论，揭示高否决门槛下战略性不作为诱发的实质保障侵蚀与风险私有化，其分析框架为渐进变迁双维矩阵提供原型基石。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 18

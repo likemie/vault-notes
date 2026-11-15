@@ -6,6 +6,8 @@ aliases:
   - Wendy Nelson Espeland
 summary: "美国西北大学社会学教授，量化社会学、评价与指标社会学领军学者。提出“通约化”理论（Commensuration as a Social Process），揭示量化指标抹除异质语境与社会复杂性以生产表象共识的机制；提出“反应性”理论（Reactivity in Quantification）与指标叙事理论（Narrating Numbers），深刻批判大学排名对高等教育生态的焦虑驱动机制，以及公共政策中数字作为理性表象的脚手架之政治叙事本质。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 24

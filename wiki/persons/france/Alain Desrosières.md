@@ -7,6 +7,8 @@ aliases:
   - Alain Desrosieres
 summary: "法国著名统计学家、科学史家与量化社会学先驱，长期担任法国国家统计与经济研究所（INSEE）高级统计专员及亚历山大·柯瓦雷研究中心研究员。其奠基性著作《大数的政治：统计推理的历史》创立了“量化社会学”，系统阐释“等值空间”（Space of Equivalence）与“通约”（Commensuration）的社会建构机制，揭示统计测度是通过制度惯例与技术公约“将事物凝聚在一起”的政治工程；其思想深刻启发了当代跨国教育治理与数字治理的批判研究。"
 type: person
+cssclasses:
+  - person-page
 nationality: france
 person_region: "france"
 person_related_count: 30

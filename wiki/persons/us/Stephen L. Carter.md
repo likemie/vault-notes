@@ -6,6 +6,8 @@ aliases:
   - Carter, S. L.
 summary: "美国著名法学家、耶鲁大学法学院讲座教授，以《不信文化》深刻批判当代受教育阶层对宗教信仰与道德信念的制度性排斥与偏见。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 7

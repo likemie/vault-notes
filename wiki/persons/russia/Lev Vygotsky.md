@@ -7,6 +7,8 @@ aliases:
   - 维高斯基
 summary: "苏联心理学家，社会文化心理学与文化-历史活动理论奠基人，提出最近发展区（ZPD）、心理中介工具与科学/自发概念区分，对社会实在论课程设计、对话教学及跨国活动理论产生深远影响"
 type: person
+cssclasses:
+  - person-page
 nationality: russia
 person_region: "russia"
 person_related_count: 26

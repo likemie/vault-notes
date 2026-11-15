@@ -7,6 +7,8 @@ aliases:
   - 欧文·J·古德
 summary: "英国数学家、统计学家与密码学家，二战期间图灵在布莱切利庄园的重要合作者；1964年率先提出“超智能”与“智能爆炸”概念，成为早期通用人工智能理论预测与机器心智假说的奠基学者。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 7

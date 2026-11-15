@@ -7,6 +7,8 @@ aliases:
   - Radicchi, F.
 summary: "意大利复杂系统物理学家与计算科学学者，印第安纳大学布卢明顿分校信息、计算与工程学院教授；主要从事复杂网络拓扑、统计物理与科学学研究，以开创跨学科相对引文标准化算法证实引文分布普适性，以及通过双盲行为实验确证学者成果评价中的自子情结偏误而闻名。"
 type: person
+cssclasses:
+  - person-page
 nationality: italy
 person_region: "italy"
 person_related_count: 14

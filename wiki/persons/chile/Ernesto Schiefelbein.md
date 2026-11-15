@@ -6,6 +6,8 @@ aliases:
   - Schiefelbein, E.
 summary: "智利著名教育经济学家、统计学家与比较教育学者，曾任智利教育部长与联合国教科文组织拉美及加勒比地区办事处（OREALC）主任，长期致力于拉美教育扩张、教育财政与民主化实证评估，为揭示拉美教育扩张与底层文盲停滞的结构性矛盾提供了关键数据基准"
 type: person
+cssclasses:
+  - person-page
 nationality: chile
 person_region: "chile"
 person_related_count: 17

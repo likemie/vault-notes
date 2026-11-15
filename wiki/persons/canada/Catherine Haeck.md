@@ -5,6 +5,8 @@ aliases:
   - C. Haeck
 summary: "加拿大教育与劳动经济学家，魁北克大学蒙特利尔分校经济学教授与组织分析跨大学研究中心研究员，专注于儿童早期发展与教育干预政策的微观计量因果评估，以对魁北克建构主义课程改革学业影响的准实验实证评估而知名。"
 type: person
+cssclasses:
+  - person-page
 nationality: canada
 person_region: "canada"
 person_related_count: 19

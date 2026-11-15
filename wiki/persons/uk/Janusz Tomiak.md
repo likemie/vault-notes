@@ -7,6 +7,8 @@ aliases:
   - Tomiak, J. J.
 summary: "波兰裔英国比较教育学家，伦敦大学教育研究院（IOE）与斯拉夫和东欧研究学院（SSEES）苏联与东欧教育副教授；战后英国学派“文化主义”阵营核心代表，以跨冷战铁幕的扎实一手文献考据开辟苏联与东欧社会主义教育比较研究，在两极对抗中维系跨国学术对话。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 15

@@ -8,6 +8,8 @@ aliases:
   - Drucker, P.
 summary: "奥地利裔美国著名管理思想家、管理学科奠基人，被誉为“现代管理学之父”；提出知识工作者（Knowledge Worker）、目标管理（MBO）以及基于交响乐团组织模型（Symphony Orchestra Model）的扁平无中介知识型组织构想。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 8

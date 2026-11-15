@@ -7,6 +7,8 @@ aliases:
   - 霍夫施塔特
 summary: "美国认知科学家、哲学家与计算机科学家，普利策奖著作《哥德尔、艾舍尔、巴赫：集异璧之大成》（GEB）作者，印第安纳大学杰出教授。长期致力于类比推理、意识形成机制与概念创造研究，是当代大语言模型主流技术路线的著名批评者，主张当前大模型仅是训练数据的巧言拼凑与表层模仿，并未触及人类心灵的核心推理机制。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 8

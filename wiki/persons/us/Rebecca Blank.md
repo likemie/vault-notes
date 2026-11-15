@@ -8,6 +8,8 @@ aliases:
   - Rebecca M. Blank
 summary: "美国著名劳动经济学家与高等教育管理者，曾任美国商务部副部长与威斯康星大学麦迪逊分校校长；1991 年在《美国经济评论》主持学术出版史上首个单盲与双盲同行评审随机对照试验，实证确证顶尖机构文稿享有显著外生录用溢价，为同行评审制度去偏改革奠定了严谨因果证据基石。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 9

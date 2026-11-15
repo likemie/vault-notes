@@ -5,6 +5,8 @@ aliases:
   - 肯尼斯·金
 summary: "英国爱丁堡大学比较与国际教育荣休教授，国际技术与职业教育培训（TVET）、技能发展及中非教育合作研究领域的重要学者。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 33

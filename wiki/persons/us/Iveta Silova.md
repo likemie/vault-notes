@@ -5,6 +5,8 @@ aliases:
   - 伊薇塔·西洛娃
 summary: "拉脱维亚裔美国比较教育学者，亚利桑那州立大学教授，前比较与国际教育学会会长，以去殖民地缘知识政治、后社会主义教育转型与人类世教育未来研究见长。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 33

@@ -5,6 +5,8 @@ aliases:
   - 斯蒂芬·鲍尔
 summary: "英国教育社会学家，伦敦大学学院教育学院政策社会学荣休教授，批判性教育政策社会学开拓者，提出内生与外生私有化、表演性规训、政策网络治理及市场化作为阶级策略的核心分析框架。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 56

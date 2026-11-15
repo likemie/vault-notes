@@ -6,6 +6,8 @@ aliases:
   - Alexander Duncan Campbell Peterson
 summary: "英国教育家、牛津大学教育学教授，国际文凭组织首任总干事与 IB 大学预科项目核心设计者，主张以思维过程、独立研究和真实行动重构通识教育。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 35

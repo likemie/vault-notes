@@ -7,6 +7,8 @@ aliases:
   - L. H. Jordan
 summary: "加拿大宗教学家、近代比较宗教学的先驱。在 1905 年出版的经典巨著《比较宗教：其起源与发展》中，系统梳理了包括比较解剖学、比较语言学与比较教育学在内的 26 个近代比较学科，论证各学科运用科学方法阐明“关系之基本规律”的统一方法论逻辑，成为比较教育学早期确立科学范式地位的重要学科论据。"
 type: person
+cssclasses:
+  - person-page
 nationality: canada
 person_region: "canada"
 person_related_count: 13

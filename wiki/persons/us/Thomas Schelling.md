@@ -9,6 +9,8 @@ aliases:
   - Thomas C. Schelling
 summary: "美国著名经济学家、博弈论大师、诺贝尔经济学奖得主；开创战略冲突理论与现代威慑理论，深刻揭示伤害能力即谈判筹码、战争是流动的讨价还价过程以及强制性暴力必须具备预期性等经典现实主义博弈命题。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 8

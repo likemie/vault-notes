@@ -6,6 +6,8 @@ aliases:
   - Pierre-Jerome Bergeron
 summary: "加拿大统计学者与咨询顾问，渥太华大学数学与统计学系兼任教授，麦吉尔大学统计学博士，以从数理统计学视角系统解构 John Hattie 可见学习方法论及二阶元分析失范而知名"
 type: person
+cssclasses:
+  - person-page
 nationality: canada
 person_region: "canada"
 person_related_count: 22

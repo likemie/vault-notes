@@ -7,6 +7,8 @@ aliases:
   - 胡适之
 summary: "中国现代哲学家、文学家、外交官，新文化运动与五四运动核心领袖，杜威在华受业弟子与首席转译者，将实用主义极端化转译为“实验主义”反迷信武器，深远塑造了民国思想界与学术规范。"
 type: person
+cssclasses:
+  - person-page
 nationality: china
 person_region: "china"
 person_related_count: 13

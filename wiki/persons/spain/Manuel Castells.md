@@ -7,6 +7,8 @@ aliases:
   - Manuel Castells Oliván
 summary: "西班牙社会学家，网络社会与信息时代发展模式奠基人，提出流动空间与场所空间、网络国家及“精英是世界主义的，大众是本土的”命题，深刻影响批判地理学、教育政策社会学及国家主义转型研究。"
 type: person
+cssclasses:
+  - person-page
 nationality: spain
 person_region: "spain"
 person_related_count: 36

@@ -5,6 +5,8 @@ aliases:
   - 弗莱明
 summary: "加州大学伯克利分校教授、冯氏工程领导力研究所主任，曾任哈佛商学院教授；技术重组与组合创新计量先驱学者，以专利分类代码与期刊引文构建重组测度，实证揭示跨学科合作会剧烈拉开产出价值的离散方差，使团队同时面临跻身颠覆性爆款与彻底失败的双向激增。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 14

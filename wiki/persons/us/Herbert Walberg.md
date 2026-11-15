@@ -6,6 +6,8 @@ aliases:
   - Herbert J. Walberg
 summary: "美国当代著名教育心理学家与量化研究综合先驱，芝加哥伊利诺伊大学名誉教授，教育生产力九因素理论提出者，其课堂强化元分析构成了当代循证教育与《可见的学习》早期实证综合的理论基石"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 27

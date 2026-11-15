@@ -6,6 +6,8 @@ aliases:
   - Robert Neelly Bellah
 summary: "美国著名宗教社会学家、加州大学伯克利分校社会学荣休教授；1967年发表经典论文《美国的公民宗教》，系统论证了存在于特定教会体制之外、凝聚国家宪政与历史共识的“公民宗教”维度。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 12

@@ -11,6 +11,8 @@ aliases:
   - Stowe, 1837
 summary: "19世纪北美圣经学者与教育改革家，受俄亥俄州议会委托考察欧洲初等教育并发表著名的1837年报告，极力推崇普鲁士公学经验与师资培育，推动美国中西部公学立法与行政借用"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 18

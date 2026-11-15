@@ -5,6 +5,8 @@ aliases:
   - Schuller, T.
 summary: "英国社会科学院（Academy of Social Sciences）院士，长期研究社会资本、终身学习与教育中介，与Tracey Burns合著《教育中介机构的历史与演进》（2022），倡导从单体机构迈向跨机构元协作以建构累积性知识库。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 19

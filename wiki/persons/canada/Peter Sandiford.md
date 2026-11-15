@@ -5,6 +5,8 @@ aliases:
   - P. Sandiford
 summary: "英裔加拿大教育学家、心理学家，多伦多大学教育学教授，曾任教于哥伦比亚大学师范学院，1918 年编著出版全球首部大学通用比较教育教材《比较教育》，确立了以国别教育为基本单元的经典区域教学与研究范式。"
 type: person
+cssclasses:
+  - person-page
 nationality: canada
 person_region: "canada"
 person_related_count: 13

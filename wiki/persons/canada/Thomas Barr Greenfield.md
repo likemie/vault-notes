@@ -5,6 +5,8 @@ aliases:
   - 托马斯·巴尔·格林菲尔德
 summary: "加拿大教育行政学者，主观主义教育行政研究代表人物，为教育研究挑战实证主义组织理论并重申意义与经验的重要性提供主观主义转向。"
 type: person
+cssclasses:
+  - person-page
 nationality: canada
 person_region: "canada"
 person_related_count: 11

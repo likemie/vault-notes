@@ -5,6 +5,8 @@ aliases:
   - 卡罗琳·希尔兹
 summary: "加拿大教育学者，变革型领导力理论提出者，为教育研究连接权力、正义与领导实践提供框架。"
 type: person
+cssclasses:
+  - person-page
 nationality: canada
 person_region: "canada"
 person_related_count: 7

@@ -6,6 +6,8 @@ aliases:
   - Hamilton, A.
 summary: "美国建国先驱、首任美国财政部长，国家干预主义与幼稚工业保护论的鼻祖；1791 年向美国国会呈递纲领性文献《关于制造业的报告》，主张以保护关税、奖励先进设备引进、设立发明特许权及国家资助基础设施等系统手段培育新兴制造工业，其工业追赶思想深刻启蒙了弗里德里希·李斯特（Friedrich List），成为后发国家技术赶超与国家创新系统学派的早期思想渊源。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 5

@@ -7,6 +7,8 @@ aliases:
   - Ivar Andreas Aasen
 summary: "挪威语文学家、词典编纂家与民俗学家，新挪威语（Landsmål / Nynorsk）之父。出身农家，通过长期深入挪威西部与偏远乡村搜集记录口语方言，编纂《挪威方言新语法》与《挪威方言词典》，系统建构起独立于丹麦统治书面语的本土现代印刷国语；本尼迪克特·安德森在《想象的共同体》中将其作为19世纪欧洲文人学者凭借田野方言采风与词典编纂技术无中生有打造民族语言的最纯粹典范。"
 type: person
+cssclasses:
+  - person-page
 nationality: norway
 person_region: "norway"
 person_related_count: 6

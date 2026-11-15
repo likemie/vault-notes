@@ -5,6 +5,8 @@ aliases:
   - J. Bangs
 summary: "英国资深教育政策学者与教师工会战略家，剑桥大学教育学院高级研究员，长期担任国际教育协会（EI）特别顾问及全英教师联合会（NUT）教育政策负责人；国际教师职业峰会（ISTP）的核心联合发起人与联合主席；主张将有组织的教师专业集体确立为教育科研与宏观政策设计的核心共创伙伴，开创了工会独立研究院运作、争取国际调查数据共有权及反向注入课堂现实量表的知识治理新范式。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 34

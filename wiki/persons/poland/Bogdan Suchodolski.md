@@ -6,6 +6,8 @@ aliases:
   - B. Suchodolski
 summary: "波兰著名哲学家、教育学家、科学史家与比较教育学家，波兰科学院院士，20世纪中叶马克思主义人文主义教育哲学与终身教育理论的重要代表。在欧洲比较教育学术史中，他与汉斯、施奈德并称为坚守历史文化与哲学理想主义“欧洲维度”的三大欧洲大师之一，倡导从人类解放与文化哲学的宏阔视界审视欧洲教育传统与现代性危机。"
 type: person
+cssclasses:
+  - person-page
 nationality: poland
 person_region: "poland"
 person_related_count: 14

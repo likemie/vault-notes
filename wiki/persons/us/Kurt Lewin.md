@@ -6,6 +6,8 @@ aliases:
   - Lewin, K.
 summary: "社会心理学创始人之一、行动研究的奠基人，提出群体动力学、力场分析、变革三步模型（解冻—移动—再冻结）和行动研究螺旋模型"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 12

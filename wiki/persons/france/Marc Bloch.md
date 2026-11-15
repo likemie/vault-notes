@@ -6,6 +6,8 @@ aliases:
   - M. Bloch
 summary: "法国著名历史学家，年鉴学派联合创始人，代表作《封建社会》与《摸彩国王》。开创从跨学科长时段心态史与比较史学剖析社会结构的范式；本尼迪克特·安德森多次引述其对中世纪王权神圣治愈力、大众视觉符号读图机制以及末世弥赛亚时间观念的精辟论述，以支撑对王朝领域神圣合法性与现代时间断裂的理论推导。"
 type: person
+cssclasses:
+  - person-page
 nationality: france
 person_region: "france"
 person_related_count: 13

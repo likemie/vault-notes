@@ -7,6 +7,8 @@ aliases:
   - Garcia Garrido, J. L.
 summary: "西班牙比较教育学家，曾任欧洲比较教育学会主席与西班牙国家远程教育大学教授。长期致力于欧洲一体化背景下的教育趋同、西班牙教育政策史、中等综合教育弊端以及教育分权体制危机的批判性研究。"
 type: person
+cssclasses:
+  - person-page
 nationality: spain
 person_region: "spain"
 person_related_count: 14

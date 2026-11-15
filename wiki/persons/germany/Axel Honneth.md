@@ -5,6 +5,8 @@ aliases:
   - 霍耐特
 summary: "德国当代著名哲学家、社会理论家，法兰克福学派第三代领军人物，法兰克福大学社会研究所前所长，其创立的主体间承认理论与物化重构学说构成了当代批判教育学反思量化技术规训与捍卫主体尊严的关键哲学基石"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 22

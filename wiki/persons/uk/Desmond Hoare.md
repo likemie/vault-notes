@@ -5,6 +5,8 @@ aliases:
   - Rear-Admiral Desmond Hoare
 summary: "英国海军工程少将、大西洋学院创校校长，以共同任务、严格技能训练、海上与悬崖救援及跨文化共同生活把学校的国际教育愿景转化为日常制度。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 10

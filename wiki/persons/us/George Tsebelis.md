@@ -6,6 +6,8 @@ aliases:
   - Tsebelis, G.
 summary: "美籍希腊裔政治学家，密歇根大学政治学讲席教授，美国文理科学院院士；否决玩家理论开创者，理性选择制度主义领军学者；通过形式化博弈模型系统提炼否决者数量与意识形态距离对政策变迁稳定性的制约机制，为历史制度主义分析制度否决可能性提供核心理论基石。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 22

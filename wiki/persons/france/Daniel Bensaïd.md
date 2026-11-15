@@ -9,6 +9,8 @@ aliases:
   - Bensaid, D.
 summary: "法国当代著名马克思主义哲学家与政治活动家，巴黎第八大学哲学系教授，法国1968年“五月风暴”核心领导人之一，提出“冷酷的严谨科学”与“热烈的批判乌托邦”辩证统一观，为新世纪复兴葛兰西实践哲学与反全球化解放抵抗奠定认识论基石"
 type: person
+cssclasses:
+  - person-page
 nationality: france
 person_region: "france"
 person_related_count: 18

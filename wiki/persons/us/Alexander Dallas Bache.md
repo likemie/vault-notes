@@ -7,6 +7,8 @@ aliases:
   - Alexander D. Bache
 summary: "美国著名科学家、物理学家与教育家，本杰明·富兰克林的曾外孙，吉拉德学院首任校长，美国国家科学院首任院长，受托赴欧洲实地调研 278 所学校并于 1839 年出版 666 页巨著《欧洲教育报告》，是 19 世纪美国公学运动与欧洲教育考察的四大家之一。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 14

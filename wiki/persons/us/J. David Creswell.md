@@ -6,6 +6,8 @@ aliases:
   - David Creswell
 summary: "美国心理学家，卡内基梅隆大学心理学教授，研究方向为压力下的心理韧性，与父亲 John W. Creswell 合著研究设计教材"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 5

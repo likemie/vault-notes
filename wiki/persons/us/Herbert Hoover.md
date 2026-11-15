@@ -7,6 +7,8 @@ aliases:
   - Herbert Clark Hoover
 summary: "美国第31任总统、采矿工程师与人道主义救济专家，斯坦福大学首届地质与采矿工程专业毕业生；在回忆录中系统阐述工程师面对物理现实的极端透明性与不可逃避的责任对称性，主张工程成果要么运转要么崩溃、无任何辩解借口，被现代工程哲学与技术共和国理论确立为反官僚推诿与求真认识论的标志性思想源流。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 18

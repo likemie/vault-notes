@@ -6,6 +6,8 @@ aliases:
   - David Michael Gonski
 summary: "澳大利亚商业律师、企业高管与教育政策调查特派主席，先后领衔Gonski 1.0拨款审查与Gonski 2.0卓越教育审查，提出引入民间慈善捐资机制及建立国家证据机构的关键建议（第23条），深度从属于企业慈善与风险创投网络。"
 type: person
+cssclasses:
+  - person-page
 nationality: australia
 person_region: "australia"
 person_related_count: 31

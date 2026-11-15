@@ -5,6 +5,8 @@ aliases:
   - 沃尔夫冈·米特
 summary: "德国比较教育学家，曾任法兰克福德国国际教育研究所（DIPF）所长、欧洲比较教育学会（CESE）与世界比较教育学会联合会（WCCES）会长；以统一性与多样性二分法系统阐释欧洲比较教育两百年学科史，开创东西欧教育比较与后社会主义转型研究，主张比较教育在政策咨询中的航海隐喻与交叉学科定位。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 40

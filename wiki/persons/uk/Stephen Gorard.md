@@ -6,6 +6,8 @@ aliases:
   - S. Gorard
 summary: "英国杜伦大学教育学与公共政策教授，杜伦大学证据教育中心主任，英国循证教育与教育研究方法学学者，提出戈拉德研究可信度筛子，系统批判零假设显著性检验与单项研究影响力奖赏机制"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 27

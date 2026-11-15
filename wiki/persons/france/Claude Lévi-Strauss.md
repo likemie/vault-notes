@@ -6,6 +6,8 @@ aliases:
   - Lévi-Strauss
 summary: "法国人类学家、哲学家，结构主义人类学奠基人，法兰西学术院院士；代表作包括《亲属的基本结构》（1949）、《忧郁的热带》（1955）、《野性的思维》（1962）；将西方文明扩张定性为强加于原住民社会的“怪异而无法理解的浩劫”，成为战后后现代与后殖民思潮反思欧洲中心主义与解构西方文明正典宏大叙事的人类学思想源头。"
 type: person
+cssclasses:
+  - person-page
 nationality: "france"
 person_region: "france"
 person_related_count: 15

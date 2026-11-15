@@ -4,6 +4,8 @@ aliases:
   - 哈罗德·加芬克尔
 summary: "美国社会学家，常人方法学（Ethnomethodology）创始人，将日常生活实践推理作为独立经验研究课题，提出索引性、反思性与破坏性实验，颠覆传统结构功能主义秩序观。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 27

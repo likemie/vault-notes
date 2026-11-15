@@ -7,6 +7,8 @@ aliases:
   - Tina Seidel-Schöne
 summary: "德国慕尼黑工业大学教育心理学讲席教授，德国教学研究清算中心（Clearing House Unterricht）学术发起人与首席科学家，深耕课堂有效教学、教师专业知觉与循证教师教育。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 20

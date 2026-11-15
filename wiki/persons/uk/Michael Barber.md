@@ -7,6 +7,8 @@ aliases:
   - Barber, M.
 summary: "英国著名教育政策顾问与跨国管理咨询领袖，“交付学”（Deliverology）体系奠基人；曾任布莱尔内阁首相交付组负责人、麦肯锡全球教育业务掌门人及培生集团首席教育顾问，推动因果证据量规与目标问责进入国家机器，其咨询理念直接影响了英国教育捐赠基金会（EEF）的创设白皮书规划。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 42

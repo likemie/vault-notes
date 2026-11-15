@@ -6,6 +6,8 @@ aliases:
   - Eacott, S.
 summary: "澳大利亚教育行政学者，关系取向组织理论与领导力社会认识论代表人物，以对哈蒂可见学习的新泰勒主义与大师崇拜批判著称。"
 type: person
+cssclasses:
+  - person-page
 nationality: australia
 person_region: "australia"
 person_related_count: 35

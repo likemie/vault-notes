@@ -5,6 +5,8 @@ aliases:
   - 帕特里克·夏农
 summary: "美国著名批判教育学者、宾夕法尼亚州立大学读写教育学名誉教授，提出政策研究三范式（政策导向型、沟通型、批判型），长期致力于揭示早期阅读教学中的商业教材资本控制、阶级不平等与次政府寻租，是批判性多元主义与民主读写教育的重要理论先驱。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 24

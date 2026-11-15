@@ -7,6 +7,8 @@ aliases:
   - J. H. Pestalozzi
 summary: "瑞士近代著名民主主义教育家与小学教学法之父，首倡顺应儿童心理发展与官能和谐展开的要素教学法与直观教学，其人道主义教育实验深刻启迪了19世纪欧洲初等公学师范体系，并成为美法比较教育先驱开展制度借用的共同教学法源泉"
 type: person
+cssclasses:
+  - person-page
 nationality: switzerland
 person_region: "switzerland"
 person_related_count: 22

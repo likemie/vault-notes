@@ -6,6 +6,8 @@ aliases:
   - Julian Grand
 summary: "英国著名社会政策学家与福利经济学家，伦敦政治经济学院理查德·蒂特马斯讲席教授，公共服务准市场理论与择校激励理论奠基人，曾任英国首相高级政策顾问。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 18

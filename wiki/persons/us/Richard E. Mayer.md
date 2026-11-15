@@ -7,6 +7,8 @@ aliases:
   - Richard Mayer
 summary: "美国加州大学圣巴巴拉分校心理学杰出教授，当代教育心理学与学习科学巨擘。创立多媒体学习认知理论（CTML）并系统提炼十二项多媒体设计原则；发表著名的纯发现学习三振出局论，确立了指导式探究教学在认知科学中的规范合法性"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 18

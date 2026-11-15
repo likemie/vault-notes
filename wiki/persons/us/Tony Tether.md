@@ -7,6 +7,8 @@ aliases:
   - Anthony Tether
 summary: "美国电气工程师与科技政策管理者，DARPA 史上任期最长的局长（2001–2009）；任内推行“弥合鸿沟”战略与激进采办机制改革，资助无人车大挑战赛与 CALO 智能助理项目，引发学术界关于经典模式终结的抗议；Block（2008）将其作为隐蔽发展型网络国家过度依赖军事外衣导致科研涉密化与学术生态断裂的标本，Fuchs（2010）则实证揭示其任内微观嵌入型网络治理机制仍具深层连续性。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 21

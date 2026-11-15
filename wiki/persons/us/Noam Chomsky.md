@@ -7,6 +7,8 @@ aliases:
   - 乔姆斯基
 summary: "美国语言学家、哲学家、认知科学家与公共知识分子，生成文法理论创立者，被誉为现代语言学之父与认知革命的关键奠基人。长期执教麻省理工学院与亚利桑那大学，坚决批判基于纯粹概率与经验主义的大语言模型路线，指出大模型缺乏区分必然真理、经验事实与不可能情况的模态认知能力，停留在人类认知演化的前文明阶段。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 11

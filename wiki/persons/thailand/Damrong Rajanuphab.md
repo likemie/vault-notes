@@ -7,6 +7,8 @@ aliases:
   - Prince Damrong Rajanubhab
 summary: "暹罗（泰国）查克里王朝著名政治家、教育改革家与历史学家，拉玛四世之子、朱拉隆功大帝异母弟，被称为“泰国历史学之父”。作为泰国首任教育部大臣，他奠定近代公立学校制度并将西方现代地理学列为初中必修课，打破传统佛教宇宙图景；转任内政部大臣后推行“行省制（Thesaphiban）”，配合现代几何三角测绘终结旧式曼陀罗神圣聚落，在行政实践层面确立了排他性连续国界的现代国家领土空间（prathet），是泰国“地理身体”与官方民族主义空间落地的关键奠基人。"
 type: person
+cssclasses:
+  - person-page
 nationality: thailand
 person_region: "thailand"
 person_related_count: 10

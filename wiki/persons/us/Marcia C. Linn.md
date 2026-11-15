@@ -7,6 +7,8 @@ aliases:
   - Marcia Linn
 summary: "美国加州大学伯克利分校荣休教授、美国国家教育科学院院士与美国科学促进会会士，著名学习科学与科学教育家。创立知识整合（Knowledge Integration）教学理论框架与 WISE 网络探究科学环境平台，引领技术增强科学教育、NLP 自动化形成性评价与教育公平研究"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 22

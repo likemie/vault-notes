@@ -6,6 +6,8 @@ aliases:
   - Puiggrós, A.
 summary: "阿根廷著名教育史学家与批判比较教育学家，曾任阿根廷教育部副部长与拉美比较教育学会会长，系统提出拉美教育主体批判理论，深刻剖析新自由主义国家撤资对公立教育民主化进程与公民反思主体的系统性解构"
 type: person
+cssclasses:
+  - person-page
 nationality: argentina
 person_region: "argentina"
 person_related_count: 28

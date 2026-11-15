@@ -6,6 +6,8 @@ aliases:
   - 弗莱雷
 summary: "巴西教育家与哲学家，批判教育学奠基人，以《被压迫者教育学》闻名；提出储蓄式教育批判、提问式对话与批判意识觉醒，代表全球南方植根于底层斗争的代表性知识对西方主流教育体系的反向重构。"
 type: person
+cssclasses:
+  - person-page
 nationality: brazil
 person_region: "brazil"
 person_related_count: 49

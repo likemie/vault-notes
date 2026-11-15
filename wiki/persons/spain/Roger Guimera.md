@@ -8,6 +8,8 @@ aliases:
   - Guimera, R.
 summary: "西班牙统计物理学家与复杂网络科学家，加泰罗尼亚高等研究院（ICREA）研究教授、罗维拉-维尔吉利大学正教授；长期致力于复杂系统、社会网络与贝叶斯推断模型研究，领衔在《Science》提出了著名的团队组装生成模型。"
 type: person
+cssclasses:
+  - person-page
 nationality: spain
 person_region: "spain"
 person_related_count: 13

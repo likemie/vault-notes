@@ -7,6 +7,8 @@ aliases:
   - E. J. King
 summary: "伦敦大学国王学院比较教育学讲座教授，欧洲比较教育学会（CESE）奠基人之一；坚守萨德勒以来的文化主义传统，在实证主义争论中抵御机械物理学预测，提出关键决策时刻理论与政策科学定位，因规训阿彻事件引发对学科守门机制的深刻反思。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 30

@@ -6,6 +6,8 @@ aliases:
   - 杰森·比奇
 summary: "阿根廷与澳大利亚批判比较教育学者，蒙纳士大学副教授，伦敦大学教育学院罗伯特·考恩博士弟子。开创全球教育场域五位置话语流通模型与关系性空间视角，系统解构跨国机构对全球教育话语的双重垄断、拉美守门人网络与微观政策异化机制。"
 type: person
+cssclasses:
+  - person-page
 nationality: argentina
 person_region: "argentina"
 person_related_count: 52

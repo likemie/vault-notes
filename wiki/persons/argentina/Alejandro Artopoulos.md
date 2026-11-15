@@ -5,6 +5,8 @@ aliases:
   - 亚历杭德罗·阿尔托普洛斯
 summary: "阿根廷圣安德烈斯大学教育学者，与 Beech 合著关于教育话语跨空间流通的论文，使用行动者网络理论分析阿根廷 Conectar Igualdad 项目"
 type: person
+cssclasses:
+  - person-page
 nationality: argentina
 person_region: "argentina"
 person_related_count: 10

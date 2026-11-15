@@ -7,6 +7,8 @@ aliases:
   - G. H. Sahlgren
 summary: "瑞典与英国教育经济学家，伦敦政治经济学院经济学学者、教育市场改革研究中心研究主任，以微观计量经济学准实验、长时段测试序列对齐与历史制度主义方法系统解构“芬兰教育神话”而知名。"
 type: person
+cssclasses:
+  - person-page
 nationality: sweden
 person_region: "sweden"
 person_related_count: 40

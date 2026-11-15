@@ -6,6 +6,8 @@ aliases:
   - Stuart A. Kauffman
 summary: "美国理论生物学家、复杂系统科学先驱、圣塔菲研究所核心学者、麦克阿瑟天才奖得主。提出复杂性范式核心法则“秩序是免费的，它取代了控制”，阐明复杂适应系统自组织机制既非先验设计亦非外在控制，为教育系统打破变量操纵与线性管理奠定科学哲学根基。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 14

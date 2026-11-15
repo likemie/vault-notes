@@ -7,6 +7,8 @@ aliases:
   - Waltman, L.
 summary: "荷兰科学计量学家，莱顿大学科学技术研究中心（CWTS）讲席教授；科学知识图谱与聚类可视化开源工具 VOSviewer 联合开发者，CWTS 莱顿大学排名核心架构师，开放引文倡导组织核心成员；长期致力于引文网络聚类算法、科研绩效负责任评价与开放学术元数据基础设施建设（Fortunato et al., 2018）。"
 type: person
+cssclasses:
+  - person-page
 nationality: netherlands
 person_region: "netherlands"
 person_related_count: 21

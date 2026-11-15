@@ -6,6 +6,8 @@ aliases:
   - Luther, M.
 summary: "16世纪德国宗教改革先驱与神学家。开创性地将《圣经》翻译为通俗德语，并依托蓬勃发展的印刷资本主义网络进行大规模出版发行，成为近代欧洲首位具有现代意义的畅销书作家；其宗教改革出版战打破了罗马教廷对神圣拉丁文与救赎秩序的垄断，有力推动了德语印刷语言的标准化与大众民族意识的萌芽。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 7

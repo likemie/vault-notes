@@ -5,6 +5,8 @@ aliases:
   - 金·希尔德坎普
 summary: "荷兰特温特大学教育学教授，国际数据驱动决策与数据团队干预模型领军学者，提出了整合校本数据诊断与实证干预的学校改进框架。"
 type: person
+cssclasses:
+  - person-page
 nationality: netherlands
 person_region: "netherlands"
 person_related_count: 12

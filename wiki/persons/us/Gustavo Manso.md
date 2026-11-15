@@ -7,6 +7,8 @@ aliases:
   - Manso, G.
 summary: "美籍金融经济学家与契约理论家，加利福尼亚大学伯克利分校哈斯商学院金融学讲席教授；在创新激励、动态契约理论与组织学习领域享有国际学术声誉；其开创的动态两阶段创新激励模型证明，激发高风险探索必须在短期内宽容失败并在长期重奖成功，为学术界理解现代科研资助生态与企业研发激励提供了基础微观经济学框架（Manso, 2011; Azoulay et al., 2011）。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 12

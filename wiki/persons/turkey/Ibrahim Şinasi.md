@@ -7,6 +7,8 @@ aliases:
   - İbrahim Şinasi
 summary: "19世纪奥斯曼帝国坦齐马特时期的启蒙思想家、报刊政论家与剧作家，现代土耳其新闻报刊之父；在巴黎留学五年后返回伊斯坦布尔，先后创办首份非官方土耳其语民办报纸《情况译报》（1860）与《思想画报》（1862），通过大刀阔斧剔除宫廷奥斯曼语繁复的花哨阿拉伯-波斯文饰，创制出简洁明快的现代土耳其白话散文体，推动了公众舆论的诞生与近代公民权利意识的发展。"
 type: person
+cssclasses:
+  - person-page
 nationality: "turkey"
 person_region: "turkey"
 person_related_count: 5

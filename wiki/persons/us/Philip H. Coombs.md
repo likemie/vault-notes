@@ -6,6 +6,8 @@ aliases:
   - Philip Coombs
 summary: "美国著名教育经济学家、高级外交官与国际教育规划专家，曾任约翰·肯尼迪政府首任主管教育与文化事务的助理国务卿，联合国教科文组织国际教育规划研究所（IIEP）首任所长。其 1968 年出版的里程碑著作《世界教育危机》将教育危机叙事赋予普遍主义特征，成为冷战时期国际组织动员跨国教育规划与量化治理的枢纽人物。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 22

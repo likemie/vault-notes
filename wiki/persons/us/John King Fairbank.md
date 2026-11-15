@@ -6,6 +6,8 @@ aliases:
   - Fairbank
 summary: "美国著名历史学家、汉学家，哈佛大学费正清东亚研究中心创始人，西方近代中国史研究的拓荒者与领军人物。首创关于前近代东亚区域秩序的经典“朝贡体系模型”（Fairbank Model），奠定了战后西方理解中华帝国对外关系、华夏中心主义与中西文明互动的核心概念框架。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 12

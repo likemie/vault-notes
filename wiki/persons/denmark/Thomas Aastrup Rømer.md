@@ -7,6 +7,8 @@ aliases:
   - Thomas Rømer
 summary: "丹麦教育哲学学者，Visible Learning 五线批评与纯粹评价概念提出者，为教育研究反思评价主义和技术化治理提供系统批判。"
 type: person
+cssclasses:
+  - person-page
 nationality: denmark
 person_region: "denmark"
 person_related_count: 46

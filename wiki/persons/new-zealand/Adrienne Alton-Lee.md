@@ -5,6 +5,8 @@ aliases:
   - 艾德里安·阿尔顿-李
 summary: "新西兰教育学家，新西兰教育部《最佳证据综合》（BES）项目创设者与领衔首席研究员，通过对本土与国际微观实证证据的系统综合，揭示学业成绩差距主要源自校内班级方差的统计事实，直接推动新西兰国家教育政策全面聚焦优质教学。"
 type: person
+cssclasses:
+  - person-page
 nationality: new-zealand
 person_region: "new-zealand"
 person_related_count: 21

@@ -5,6 +5,8 @@ aliases:
   - 鲍勃·达维什
 summary: "加拿大教育学者，皇后大学硕士，致力于结合杜威实用主义与弗莱雷批判教育学，审查国际文凭（IB）知识论（TOK）课程中的主动学习与实践局限"
 type: person
+cssclasses:
+  - person-page
 nationality: canada
 person_region: "canada"
 person_related_count: 10

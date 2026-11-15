@@ -5,6 +5,8 @@ aliases:
   - Kattel, R.
 summary: "爱沙尼亚裔公共治理与创新政策学者，伦敦大学学院创新与公共目的研究所（IIPP）教授兼副所长，开创公共部门动态能力与演化政策能力理论，系统阐释使命导向创新政策的历史代际转型与创新官僚制。"
 type: person
+cssclasses:
+  - person-page
 nationality: "estonia"
 person_region: "estonia"
 person_related_count: 27

@@ -6,6 +6,8 @@ aliases:
   - 萨卡罗普洛斯
 summary: "国际著名教育经济学家、世界银行资深教育顾问与人力资本理论核心践行者，开创了跨国教育投资回报率（RORE）的全球比较计量传统；在比较教育学科史上，被卡扎米亚斯定性为芝加哥学派人力资本理论与战后第三代际“实证经验主义与唯方法论主义”（Methodological Empiricism）的核心代表学者。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 26

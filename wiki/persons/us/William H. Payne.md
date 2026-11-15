@@ -7,6 +7,8 @@ aliases:
   - W. H. Payne
 summary: "美国教育学家，密歇根大学首任教学科学与艺术讲座教授（全美首个大学教育学教席创立者），皮博迪师范学院院长，率先在大学开设欧洲教育体制与学校系列讲座，著有《教育科学论》，是美国高等教育教育学建制化与大学比较教育讲座的开拓先驱。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 18

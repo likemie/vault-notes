@@ -5,6 +5,8 @@ aliases:
   - 鲍勃·林加德
 summary: "澳大利亚与英国著名教育政策社会学家，澳大利亚社会科学院院士。长期与法扎尔·里兹维等学者合作，开创批判性全球教育政策社会学研究，系统解构经合组织从协商论坛演变为独立政策行动者的历程、知识经济社会想象、PISA数字治理与跨国等值空间，以及后福利国家时代的多层网络治理与远处掌舵机制。"
 type: person
+cssclasses:
+  - person-page
 nationality: australia
 person_region: "australia"
 person_related_count: 49

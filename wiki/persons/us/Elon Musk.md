@@ -6,6 +6,8 @@ aliases:
   - 马斯克
 summary: "知名科技企业家，特斯拉（Tesla）与太空探索技术公司（SpaceX）创始人，以推进可重复使用运载火箭、电动汽车与填补国家重大工程创新真空著称。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 6

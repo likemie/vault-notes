@@ -7,6 +7,8 @@ aliases:
   - 瓦尔·拉斯特
 summary: "美国比较教育学家，加州大学洛杉矶分校（UCLA）荣休教授，曾任比较与国际教育学会（CIES）会长；致力于比较教育研究方法论、欧洲教育改革史与跨文化影响考证，提出全球化教育响应类型学，倡导多元主义范式与质朴实证研究"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 39

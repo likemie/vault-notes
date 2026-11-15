@@ -7,6 +7,8 @@ aliases:
   - Victor Witter Turner
 summary: "英国文化人类学家，象征人类学代表人物，以对赞比亚恩丹布人仪式、阈限（liminality）与社会剧场（social drama）的研究著称。其在《象征之林》与《戏剧、场域与隐喻》中对作为意义创造体验的“朝圣旅程”与“共融”（communitas）的论述，被安德森创造性地引入民族主义研究，用以阐明绝对主义官僚巡游与殖民地世俗朝圣如何将空间位移转化为民族共同体归属感。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 5

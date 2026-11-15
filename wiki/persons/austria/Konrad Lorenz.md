@@ -8,6 +8,8 @@ aliases:
   - Lorenz, K.
 summary: "奥地利著名动物行为学家、鸟类学家，经典习性学（Ethology）奠基人之一，1973年诺贝尔生理学或医学奖得主；《所罗门王的指环》作者，系统研究动物社会行为、印刻现象与啄序（Pecking Order）等级支配机制。"
 type: person
+cssclasses:
+  - person-page
 nationality: "austria"
 person_region: "austria"
 person_related_count: 9

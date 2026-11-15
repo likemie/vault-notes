@@ -5,6 +5,8 @@ aliases:
   - Gérard Renaud
 summary: "日内瓦国际学校哲学教师、国际文凭早期课程与组织架构者，参与提出六学科组和知识论，并在六年试验中管理日内瓦办公室及财务。"
 type: person
+cssclasses:
+  - person-page
 nationality: global
 person_region: "global"
 person_related_count: 11

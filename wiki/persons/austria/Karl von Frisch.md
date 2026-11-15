@@ -6,6 +6,8 @@ aliases:
   - Von Frisch
 summary: "奥地利动物行为学家与感官生理学家，1973年诺贝尔生理学或医学奖得主；开创性破译了蜜蜂舞蹈语言（Tanzsprache），证明蜜蜂通过摇摆舞步长与太阳夹角编码目标空间距离与方位，为动物符号交流与自组织群体协调机制研究奠定了学科基石。"
 type: person
+cssclasses:
+  - person-page
 nationality: austria
 person_region: "austria"
 person_related_count: 8

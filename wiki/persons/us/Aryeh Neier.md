@@ -6,6 +6,8 @@ aliases:
   - Neier, A.
 summary: "美籍德裔著名人权活动家、法学家，美国公民自由联盟（ACLU）前执行总监、人权观察（Human Rights Watch）联合创始人；以在1977年斯科基案中坚定捍卫极端分子言论自由权利而闻名，践行以自由限制权力的硬信念原则。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 10

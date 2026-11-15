@@ -7,6 +7,8 @@ aliases:
   - R. Debray
 summary: "法国著名哲学家、媒介学（mediology）创始人与左翼思想家，曾参与拉丁美洲游击革命运动，后任法国总统密特朗的外交顾问。安德森在《想象的共同体》第2章引述其经典专论《马克思主义与民族问题》（Marxism and the National Question, 1977），借以阐明民族主义突破纯粹唯物政治意识形态局限、将个体降生的偶然性转化为神圣不朽宿命的存在论逻辑。"
 type: person
+cssclasses:
+  - person-page
 nationality: france
 person_region: "france"
 person_related_count: 5

@@ -5,6 +5,8 @@ aliases:
   - S. Grek
 summary: "英国爱丁堡大学欧洲与全球教育治理讲席教授，英国国家学术院院士；主要研究跨国组织、以数治教与欧洲教育空间的政策社会学，提出认识论基础设施分析框架，揭示指标、元标准与数据库作为软性治理技术的运作机制。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 52

@@ -5,6 +5,8 @@ aliases:
   - Pan Suyan
 summary: "香港比较与高等教育学者，香港浸会大学教授。开创性将中国古代朝贡体系的历史地缘逻辑转译至现代高等教育研究，系统提出涵盖中国例外论、经贸与外交交织、语言文化输出与国际形象塑造的高等教育“新朝贡分析框架”（Neo-Tributary Analytical Framework）。"
 type: person
+cssclasses:
+  - person-page
 nationality: china
 person_region: "china"
 person_related_count: 25

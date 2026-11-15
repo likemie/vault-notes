@@ -7,6 +7,8 @@ aliases:
   - Skinner, G. W.
 summary: "美国著名历史人类学家、汉学家，美国国家科学院院士，亚洲研究协会（AAS）前主席，康奈尔大学与斯坦福大学人类学荣休教授。创立中国历史地理“巨区理论”（Macroregions）与农村市场层级理论，开启西方中国研究微观区域分析范式。1950年代出版《泰国华人社会：一部分析的历史》与《泰国华人社区中的领导权与权力》，系统论述东南亚华人流散社群的跨海宗族纽带与文化向心力。本尼迪克特·安德森在《想象的共同体》中征引其研究，作为美洲土生白人与海外华人历史认同断裂机制的经典学术对照。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 9

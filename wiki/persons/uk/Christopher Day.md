@@ -5,6 +5,8 @@ aliases:
   - 克里斯托弗·戴
 summary: "英国教育领导力学者，ISSPP 项目创始人，为教育研究建立情境敏感的成功校长国际比较知识基础。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 8

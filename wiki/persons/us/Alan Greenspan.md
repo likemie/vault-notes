@@ -6,6 +6,8 @@ aliases:
   - 格林斯潘
 summary: "美国著名经济学家、第13任联邦储备委员会主席（1987–2006），在1996年发表演讲首次提出“非理性繁荣”（Irrational Exuberance）预警，用于警示资产价格泡沫及其崩溃风险；在卡普与扎米斯卡（2025）的科技大战略分析中，格林斯潘预警的繁荣并非单纯的非理性，而是无差别的资本狂热，导致整个时代忽视了企业与国家防务软件的战略机遇。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 7

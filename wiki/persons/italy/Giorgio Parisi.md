@@ -5,6 +5,8 @@ aliases:
   - 帕里西
 summary: "意大利理论物理学家，罗马第一大学教授，2021年诺贝尔物理学奖得主；在统计力学、自旋玻璃与复杂系统理论领域享有崇高声誉，通过在罗马实施的高速三维摄像阵列观测揭示了椋鸟群飞中的边缘信息瞬间无损传递与无首领自组织协同机制。"
 type: person
+cssclasses:
+  - person-page
 nationality: italy
 person_region: "italy"
 person_related_count: 7

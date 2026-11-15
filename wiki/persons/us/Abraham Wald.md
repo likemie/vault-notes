@@ -7,6 +7,8 @@ aliases:
   - Wald, A.
 summary: "奥地利裔美籍数学家与统计学家，在二战哥伦比亚大学统计研究小组中提出战机装甲防护的幸存者偏差分析模型，创立序贯分析与统计决策理论，对数理统计、计量经济学与因果推断奠定奠基性基础"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 7

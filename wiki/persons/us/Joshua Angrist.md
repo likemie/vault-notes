@@ -8,6 +8,8 @@ aliases:
   - Joshua D. Angrist
 summary: "美籍以色列裔实证劳动经济学与计量经济学家，麻省理工学院福特经济学讲席教授，2021 年诺贝尔经济学奖得主；实证微观计量“可信性革命”的核心领军学者，创立局部平均处理效应（LATE）理论与工具变量因果推断范式，合著《基本无害的计量经济学》，深刻重塑了当代社会科学与科学学的因果识别证据标准。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 21

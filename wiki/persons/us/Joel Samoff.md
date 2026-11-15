@@ -6,6 +6,8 @@ aliases:
   - Samoff, J.
 summary: "美国比较教育学家与非洲政治发展学者，斯坦福大学非洲研究中心兼任教授，系统揭示国际援助与跨国政策借用统识机制，率先提出金融-智识复合体构念，深刻批判世界银行对第三世界教育政策与实证范式的霸权控制"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 33

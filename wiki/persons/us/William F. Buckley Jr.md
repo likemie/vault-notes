@@ -7,6 +7,8 @@ aliases:
   - William Buckley
 summary: "美国著名保守主义政论家、作家与公共知识分子，《国家评论》创办人与《火线》节目主持人；其关于“宁愿由电话簿前两千人统治也不愿由哈佛教师统治”的名言深刻揭示了常识直觉与脱节精英主义之间的张力。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 3

@@ -7,6 +7,8 @@ aliases:
   - Sir Walter Bodmer
 summary: "英国人类遗传学家、牛津大学教授，1985年主持撰写皇家学会里程碑式报告《公众理解科学》（Bodmer Report），奠定了现代科学传播与公众参与科学的制度框架"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 12

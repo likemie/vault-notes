@@ -7,6 +7,8 @@ aliases:
   - Murrow, E. R.
 summary: "美国传奇广播电视记者、新闻战地播报先驱与公共知识分子，以战时伦敦播报与1954年公开抨击麦卡锡主义树立公共媒介监督与公民智识勇气的典范。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 5

@@ -8,6 +8,8 @@ aliases:
   - James Killian
 summary: "美国高等教育家与科学政治家、麻省理工学院（MIT）第 10 任校长（1948–1959）；1957 年苏联卫星危机后出任美国首任总统科学特别助理兼总统科学顾问委员会（PSAC）主席，充当国家应对科技危机的“避雷针”，开辟了科学家直通白宫椭圆形办公室的高层咨询通道，统筹推动了美国国家航空航天局（NASA）的民事建制并主持起草了《加强美国科学：联邦政府的角色》（1958）等纲领性文件。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 15

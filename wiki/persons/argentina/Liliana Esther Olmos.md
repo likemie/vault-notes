@@ -7,6 +7,8 @@ aliases:
   - Liliana E. Olmos
 summary: "阿根廷裔比较教育社会学者，加州大学洛杉矶分校拉丁美洲中心研究员，长期聚焦拉美教育的政治经济学、国家理论、全球化批判与成人教育政策"
 type: person
+cssclasses:
+  - person-page
 nationality: argentina
 person_region: "argentina"
 person_related_count: 20

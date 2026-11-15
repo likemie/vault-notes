@@ -6,6 +6,8 @@ aliases:
   - 祈克果
 summary: "丹麦哲学家与神学家，存在主义哲学的先驱与奠基人。以对客观性幻觉的深刻反思、对个体生存具体性的捍卫以及主观性能力的提倡，为教育研究中反思实证主义去人化倾向与建构诠释范式提供了本体论和认识论基石。"
 type: person
+cssclasses:
+  - person-page
 nationality: denmark
 person_region: "denmark"
 person_related_count: 25

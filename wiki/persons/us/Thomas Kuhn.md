@@ -7,6 +7,8 @@ aliases:
   - T. Kuhn
 summary: "美国科学史家与科学哲学家，以《科学革命的结构》（1962）提出范式概念、科学革命与不可通约性理论，重塑了战后科学哲学与社会科学认识论，其四维范式构件与范式危机模型深刻影响了比较教育学的方法论反思。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 25

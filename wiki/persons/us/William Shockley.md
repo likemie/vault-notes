@@ -8,6 +8,8 @@ aliases:
   - Shockley, W.
 summary: "美籍物理学家与发明家，1956 年诺贝尔物理学奖得主；在文献计量学与科研管理领域，于 1957 年提出科研生产力的对数正态分布假说与八重连续乘法跨栏模型，奠定了科学学解析微观个体生理与心理能力差异被指数级放大为宏观极端产出分布的微观机理基石。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 15

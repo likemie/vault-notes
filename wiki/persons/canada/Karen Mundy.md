@@ -5,6 +5,8 @@ aliases:
   - Mundy, K.
 summary: "加拿大著名比较教育学者，多伦多大学安大略教育研究院（OISE）教授，全球教育伙伴关系（GPE）前首席技术官。开创了国际教育多边主义的三阶段历史演化框架，深入研究教科文组织与世界银行的权力变迁及全球民间社会的跨国倡导网络。"
 type: person
+cssclasses:
+  - person-page
 nationality: canada
 person_region: "canada"
 person_related_count: 24

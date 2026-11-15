@@ -6,6 +6,8 @@ aliases:
   - Streeck, W.
 summary: "德国经济社会学家，马克斯·普朗克社会研究所荣休所长，当代比较政治经济学与历史制度主义核心大师；与凯瑟琳·希伦合编《制度变迁的超越》（2005），首创以规则设计与践行脱节为枢纽的渐进制度变迁形态学，系统提出置换、层叠、漂移、转换与耗竭五大形态；晚近以对民主资本主义危机与新自由主义延期治理的深刻制度批判享誉学界。"
 type: person
+cssclasses:
+  - person-page
 nationality: "germany"
 person_region: "germany"
 person_related_count: 29

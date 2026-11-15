@@ -7,6 +7,8 @@ aliases:
   - Josef Dobrovsky
 summary: "捷克语文学家、历史学家与斯拉夫学奠基人，被誉为‘斯拉夫学之父’。通过撰写《波希米亚语言与古代文学史》等系统著作，科学清理斯拉夫古文献与捷克语文法规则，将沦落为乡村平民土语的捷克方言升格为现代学术研究与规范书面语的核心载体；本尼迪克特·安德森在《想象的共同体》中将其视为19世纪初中欧学者将边缘口语方言锻造为印刷民族语言的先驱代表。"
 type: person
+cssclasses:
+  - person-page
 nationality: czech
 person_region: "czech"
 person_related_count: 7

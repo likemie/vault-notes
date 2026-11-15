@@ -1,6 +1,8 @@
 ---
 summary: "美国著名政治学家与东亚政治经济学权威，发展型国家理论开创者；其经典名著《通产省与日本奇迹》系统阐释以日本通商产业省为核心的精英官僚体制与领航机构运作机制，为第一代使命政策中的国家自主性与产业战略追赶提供了核心分析范式。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 9

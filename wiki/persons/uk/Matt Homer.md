@@ -5,6 +5,8 @@ aliases:
   - 马特·霍默
 summary: "英国教育研究者和定量方法学者，什么有效议程批判讨论参与者，为教育研究反思定量证据的适用范围提供声音。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 4

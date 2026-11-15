@@ -7,6 +7,8 @@ aliases:
   - Richard F. Elmore
 summary: "哈佛大学教育领导学荣休讲席教授，教育政策执行、学校领导力与全系统改进理论的奠基学者；提出逆向映射法、教学核心三要素互动理论及教学巡视法，深刻影响了学区系统提质与微观教学改善的当代研究范式。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 13

@@ -7,6 +7,8 @@ aliases:
   - Atkinson, R. C.
 summary: "美国认知心理学家、科学政策制定者与高等教育领袖，曾任美国国家科学基金会主任与加州大学总校长；在认知记忆模型、联邦大学科研资助体制与高考录取评价改革领域具有重要影响。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 22

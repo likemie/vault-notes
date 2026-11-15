@@ -4,6 +4,8 @@ aliases:
   - 约瑟夫·图斯曼
 summary: "美国哲学家、教育理论家，加州大学伯克利分校哲学系主任，伯克利实验大学计划创立者；代表作包括《大学成人礼》（1968）与《义务与政治体》（1960）；在 1968 年对西方文明正典大纲篇目选择提出经典质问（“选了柏拉图，为何不选亚里士多德？...”），揭示了通识核心课程在选目特权与文明传承之间的内在张力。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 12

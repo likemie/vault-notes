@@ -6,6 +6,8 @@ aliases:
   - 艾伦·C·K·张
 summary: "香港中文大学教育学院教授、证据本位教育改革与大规模随机实验专家，与 Robert Slavin 长期合作推动全球循证教育与最佳证据百科（BEE）本土化，近年来引领生成式 AI 教育干预元分析标准与边际效益假说实证建构。"
 type: person
+cssclasses:
+  - person-page
 nationality: china
 person_region: "china"
 person_related_count: 42

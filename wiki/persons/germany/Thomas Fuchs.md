@@ -5,6 +5,8 @@ aliases:
   - Fuchs, T.
 summary: "德国精神病学家与哲学家，海德堡大学卡尔·雅斯贝尔斯哲学与精神病学讲席教授，身体现象学、脑生态学与生成主体间性理论奠基人，以批判神经还原论和提出大脑作为关系器官著称。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 17

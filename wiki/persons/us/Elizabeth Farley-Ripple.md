@@ -7,6 +7,8 @@ aliases:
   - 法利-里普尔
 summary: "美国特拉华大学教育学院教授、教育研究使用中心（CRUE）主任，深层使用框架（Deep Use Framework）与全美教育证据调查（SEE-S/SEE-D）的奠基人，系统揭示学校微观证据活动链条与组织使能条件。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 25

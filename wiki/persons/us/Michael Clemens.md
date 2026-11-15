@@ -7,6 +7,8 @@ aliases:
   - Clemens, M. A.
 summary: "美国发展经济学家，乔治梅森大学经济学教授、全球发展中心（CGD）前资深研究员；以对国际援助有效性、人口流动与教育发展指标的长周期历史计量研究著称，其2004年代表作《通往学校的漫长之路》证明入学率演进主要受宏观经济基本面与代际父母教育水平驱动，揭示了多边机构频繁重设短期教育目标的虚妄性。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 14

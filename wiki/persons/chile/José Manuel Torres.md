@@ -7,6 +7,8 @@ aliases:
   - José M. Torres
 summary: "智利公共政策与教育研究学者，经合组织教育研究与创新中心（OECD CERI）顾问，专长于教育研究知识动员模型分类、证据利用阻碍与机制分析及系统治理。"
 type: person
+cssclasses:
+  - person-page
 nationality: chile
 person_region: "chile"
 person_related_count: 25

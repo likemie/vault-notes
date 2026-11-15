@@ -8,6 +8,8 @@ aliases:
   - Bergstrom, C. T.
 summary: "美国理论生物学家与复杂网络学者，华盛顿大学生物学系教授；著名期刊引文网络算法 Eigenfactor 与信息论网络聚类算法 Infomap 开创者之一；长期聚焦学术交流拓扑、科研评价指标反思与数据质疑批判思维，揭示信息流在科学系统中的传播机制，是现代科学学与负责任科研计量的重要奠基学者（Fortunato et al., 2018）。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 17

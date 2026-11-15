@@ -6,6 +6,8 @@ aliases:
   - 罗伯特·斯拉文
 summary: "美国著名教育心理学家、证据本位教育改革（EBR）奠基人与 Success for All 联合创始人，创立最佳证据百科（BEE），确立了严格实验评估、基线等效门槛与循证政策激励的现代范式。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 44

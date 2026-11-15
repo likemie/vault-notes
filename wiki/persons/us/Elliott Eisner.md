@@ -5,6 +5,8 @@ aliases:
   - Elliott W. Eisner
 summary: "斯坦福大学教育学与艺术学荣休教授、美国著名课程理论家与质性评价先驱，开创教育鉴赏与教育批评理论，系统批判行为主义量化还原论，被批判学者作为反思教育实证主义实验室控制范式、捍卫课堂生态效度与教学人文艺术属性的核心学术权威。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 27

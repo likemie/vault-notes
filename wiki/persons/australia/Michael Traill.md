@@ -6,6 +6,8 @@ aliases:
   - Michael Traill AM
 summary: "澳大利亚前麦格理银行银行家、社会创投（SVA）创会首席执行官与学校加计划首任董事长，将商业风投纪律植入公共教育慈善与社会影响力投资的政策企业家，联邦社会影响力投资工作组主席。"
 type: person
+cssclasses:
+  - person-page
 nationality: "australia"
 person_region: "australia"
 person_related_count: 23

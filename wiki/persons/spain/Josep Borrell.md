@@ -6,6 +6,8 @@ aliases:
   - 博雷利
 summary: "西班牙政治家，曾任欧洲联盟外交与安全政策高级代表，提出欧洲冷战后军队退化为“盆景军队”以及防务采购高度碎片化、滋生“盆景产业”的战略诊断。"
 type: person
+cssclasses:
+  - person-page
 nationality: spain
 person_region: "spain"
 person_related_count: 10

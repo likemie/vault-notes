@@ -9,6 +9,8 @@ aliases:
   - Eddington, A.
 summary: "英国著名天体物理学家与数学家，剑桥大学天文台台长，皇家学会会士；1919 年领导普林西比岛日食观测实证确证广义相对论，奠定恒星内部物理结构理论并提出埃丁顿极限；作为长途骑行爱好者提出埃丁顿数，其离散累加阈值算法构成了文献计量学 h 指数的数学同构先驱。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 7

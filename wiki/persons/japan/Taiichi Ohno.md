@@ -5,6 +5,8 @@ aliases:
   - Ohno, T.
 summary: "日本工业工程师与丰田汽车高管，丰田生产方式（TPS）的主要开创者；提出五问法（Five Whys）根本原因分析流程与准时制（JIT）精益制造理念，强调直面生产一线物理现实、深入现场观察与持续追溯系统故障根因，被现代工程思维与技术共和国理论确立为组织深层诊断与反免责文化的关键源流。"
 type: person
+cssclasses:
+  - person-page
 nationality: japan
 person_region: "japan"
 person_related_count: 17

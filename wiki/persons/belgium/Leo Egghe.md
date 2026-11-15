@@ -7,6 +7,8 @@ aliases:
   - Egghe, L.
 summary: "比利时数学家与信息计量学家，哈瑟尔特大学荣休教授，《信息计量学杂志》创刊主编，2001 年普赖斯奖得主；2006 年提出弥补 h 指数漠视顶尖高被引突破缺陷的 g 指数，并构建了合著成果分数信誉分配的数学理论，奠定了现代信息计量学数理基础。"
 type: person
+cssclasses:
+  - person-page
 nationality: belgium
 person_region: "belgium"
 person_related_count: 13

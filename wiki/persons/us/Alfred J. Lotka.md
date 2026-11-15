@@ -9,6 +9,8 @@ aliases:
   - Lotka, A. J.
 summary: "美籍数学家、物理化学家与统计学家，大都会人寿保险公司数理研究主管，美国统计学会（ASA）前主席；1926 年提出刻画科学生产力反平方幂律分布的洛特卡定律，开创了数理统计与文献计量学对科学共同体产出不均等性展开宏观定量研究的学科先河。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 12

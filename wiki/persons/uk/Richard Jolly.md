@@ -7,6 +7,8 @@ aliases:
   - Jolly, R.
 summary: "英国著名发展经济学家与国际公共官员，曾任萨塞克斯大学发展研究院（IDS）院长、联合国儿童基金会（UNICEF）副执行主任及联合国开发计划署（UNDP）《人类发展报告》高级协调员；作为国际发展目标（IDTs）制定的关键亲历者与知情人，系统揭示了西方捐助国与多边官僚在指标起草中的非正式博弈与目标窄化内幕。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 11

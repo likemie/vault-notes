@@ -5,6 +5,8 @@ aliases:
   - Allen, J.
 summary: "英国开放大学经济与人文地理学荣休教授，拓扑空间化与拓扑权力理论的开创者，代表作包括《拓扑扭转：权力转移的地理学》（2011）、《国家权力的组装》（2010，与 Allan Cochrane 合著）及《失落的权力地理学》（2003），奠定了空间作为关系连接与近距触达的拓扑学分析范式，对批判性教育治理研究产生深远影响。"
 type: person
+cssclasses:
+  - person-page
 nationality: "uk"
 person_region: "uk"
 person_related_count: 24

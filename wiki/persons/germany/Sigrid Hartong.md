@@ -6,6 +6,8 @@ aliases:
   - Hartong, S.
 summary: "德国赫尔穆特·施密特大学教育治理与教育科学教授，欧洲批判性数据研究与教育治理前沿学者，聚焦学校监测数字化、隐秘数据中介、政策拓扑学重组及做数据微观张力"
 type: person
+cssclasses:
+  - person-page
 nationality: "germany"
 person_region: "germany"
 person_related_count: 29

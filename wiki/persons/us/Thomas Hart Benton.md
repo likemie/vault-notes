@@ -6,6 +6,8 @@ aliases:
   - Benton, T. H.
 summary: "美国20世纪著名壁画家与地方主义（Regionalism）绘画运动核心领袖，纽约艺术学生联盟资深导师；在现代主义抽象浪潮中坚守具象叙事风格，以鲜明的抵抗性格、严厉批评与非讨好态度著称，其与杰克逊·波洛克的激烈师生交锋被卡普与扎米斯卡作为反思平庸讨好文化与激发突破性创造力的经典范例。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 11

@@ -6,6 +6,8 @@ aliases:
   - Wecker, C.
 summary: "德国慕尼黑工业大学与希尔德斯海姆大学经验教育研究与学科教学论教授，代表作为对约翰·哈蒂可见的学习展开的系统性数学推导与二阶元分析方法学批判，倡导建立解耦商业出版的中央标准化证据数据基础设施"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 29

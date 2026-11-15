@@ -8,6 +8,8 @@ aliases:
   - John Tilton
 summary: "美国著名产业经济学家，哥伦比亚大学与科罗拉多矿业学院教授、布鲁金斯学会资深学者；1971年出版经典专著《技术国际扩散：半导体案例》，最早实证证实国防采购打破老牌电子管巨头垄断、使新创企业占据近七成市场的产业重塑机制。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 15

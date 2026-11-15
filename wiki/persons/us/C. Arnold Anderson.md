@@ -7,6 +7,8 @@ aliases:
   - 阿诺德·安德森
 summary: "芝加哥大学教育与社会学教授、比较教育研究中心主任，CIES 前会长，比较教育第三论述代际（社会科学与实证主义代际）芝加哥学派领袖；将结构功能主义全面引入跨国比较，倡导探寻教育与社会矩阵之间超越时空的恒常规律，开创教育经济与人力资本研究。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 31

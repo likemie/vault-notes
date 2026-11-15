@@ -7,6 +7,8 @@ aliases:
   - Sir William Jones
 summary: "英国东方学家、比较语文学先驱与法学家，加尔各答亚洲学会创立者。1786年通过对梵语、古希腊语与拉丁语等语言结构特征的系统比较，证实印欧语系的共同起源，开创了现代比较历史语言学范式；本尼迪克特·安德森在《想象的共同体》中将其梵语发现视为语文学打破圣经创世记神学谱系、引发欧洲圣语去神圣化与世俗语言平等革命的关键转折点。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 15

@@ -6,6 +6,8 @@ aliases:
   - Gene V. Glass
 summary: "美国教育心理学家与统计学家 1976年创造元分析一词并奠定效应量标准化方法 坚称元分析应是呈现变异分布的图表而非追求单一均值 其班级规模经典研究被批判性学者用于揭露实证数据遭政策截取的断章取义"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 37

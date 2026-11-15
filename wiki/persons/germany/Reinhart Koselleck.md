@@ -6,6 +6,8 @@ aliases:
   - Koselleck, R.
 summary: "德国历史学家与历史哲学家，比勒费尔德学派核心人物，现代概念史（Begriffsgeschichte）奠基人，以鞍型期理论、多层历史时间（Zeitschichten）与教化语义学结构著称。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 16

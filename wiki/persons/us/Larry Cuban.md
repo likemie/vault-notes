@@ -5,6 +5,8 @@ aliases:
   - 拉里·库班
 summary: "美国教育史学家和课程理论家，学校改革史与技术乌托邦批判代表人物，为教育研究理解改革循环、课堂稳定性与政策落差提供历史视角。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 5

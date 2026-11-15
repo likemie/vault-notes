@@ -7,6 +7,8 @@ aliases:
   - Carl R. Rogers
 summary: "美国人本主义心理学泰斗，来访者中心疗法与以人为中心教育创始人，曾任美国心理学会主席。倡导“全人教育”模型，确立行动者主观“内部参照框架”认识论，从当事人眼睛打量生活世界，为自然主义探究与表意法提供深厚的人格哲学根基。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 17

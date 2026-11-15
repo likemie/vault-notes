@@ -6,6 +6,8 @@ aliases:
   - A. Giddens
 summary: "英国当代社会学家与社会理论家，系统提出结构化理论与结构二重性，提炼实证主义社会学的方法论统一与产出同构两大假定，创立双重诠释（double hermeneutic）学说揭示社会科学的前诠释世界与主体间性，深刻重塑质性数据分析、反思性与现代性反思。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 40

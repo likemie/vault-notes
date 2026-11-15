@@ -6,6 +6,8 @@ aliases:
   - Paul Paulus
 summary: "美国得克萨斯大学阿灵顿分校杰出心理学教授，当代群体创造力与团队创新交互理论的领军学者。通过系统的实验室析因实验与元分析，解构了面对面头脑风暴中的“生产阻塞（Production Blocking）”、“评价顾虑”与“社会惰化”三大过程损失，提出群体认知协同刺激模型，并开创性证实了书面脑力激荡（Brainwriting）与独立-群体混合训练的优越性。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 12

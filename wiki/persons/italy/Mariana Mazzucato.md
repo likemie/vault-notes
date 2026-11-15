@@ -5,6 +5,8 @@ aliases:
   - 马祖卡托
 summary: "意大利裔经济学家，伦敦大学学院创新与公共目的研究所创始所长，倡导企业型国家、使命导向型创新政策与产业政策附加条件契约，提出市场塑造与ROAR分析框架，深刻批判硅谷科技巨头抹杀国家研发奠基作用的历史健忘症。"
 type: person
+cssclasses:
+  - person-page
 nationality: italy
 person_region: "italy"
 person_related_count: 32

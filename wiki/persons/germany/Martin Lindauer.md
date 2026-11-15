@@ -5,6 +5,8 @@ aliases:
   - 林道尔
 summary: "德国动物行为学家与社会生物学家，慕尼黑大学动物学研究所研究员；师承诺贝尔奖得主卡尔·冯·弗里施，长期深耕蜜蜂群体行为研究，在1951年通过对埃克蜂群的经典野外观测揭示了无中心控制下的群体决策与筑巢投票机制，为群智能与自组织理论奠定了坚实的经验生物学基础。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 8

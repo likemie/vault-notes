@@ -7,6 +7,8 @@ aliases:
   - Baltzell, E. D.
 summary: "美国著名社会学家、宾夕法尼亚大学教授，创造了WASP（白人盎格鲁-撒克逊新教徒）概念，以《费城绅士》与《新教当权派》开创了美国精英统治与阶级分析学派。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 5

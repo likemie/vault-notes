@@ -5,6 +5,8 @@ aliases:
   - 吉尔·梅尔比
 summary: "丹麦教育研究者，高绩效学校与弱势学生提升研究者，为教育研究提供丹麦语境下有效教学与学校改进的本土证据。"
 type: person
+cssclasses:
+  - person-page
 nationality: denmark
 person_region: "denmark"
 person_related_count: 7

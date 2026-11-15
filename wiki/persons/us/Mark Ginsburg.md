@@ -7,6 +7,8 @@ aliases:
   - Mark B. Ginsburg
 summary: "美国著名批判比较教育学家，《比较教育评论》（CER）前主编，匹兹堡大学与马里兰大学教授，系统开创全球语境下教育改革政治经济学分析范式，深刻阐明经济、意识形态与国家权力对转型社会教育变迁的结构性规训"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 18

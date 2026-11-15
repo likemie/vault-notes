@@ -7,6 +7,8 @@ aliases:
   - Immanuel Maurice Wallerstein
 summary: "美国历史社会学家，世界体系分析创始人。提出资本主义世界经济的中心-半边缘-边缘三层分工结构、长时段历史动力学与霸权更迭周期，解构“方法论民族主义”，主张将资本主义世界经济体作为唯一真实的分析单位，为比较教育批判跨国援助霸权与全球不平等提供了核心政治经济学范式。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 30

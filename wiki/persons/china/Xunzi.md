@@ -6,6 +6,8 @@ aliases:
   - Hsün Tzu
 summary: "战国儒家思想家，主张性恶论，强调礼义教化与后天学习对改造人性的关键作用，为学习必要性提供了不同于孟子的儒家论证"
 type: person
+cssclasses:
+  - person-page
 nationality: china
 person_region: "china"
 person_related_count: 9

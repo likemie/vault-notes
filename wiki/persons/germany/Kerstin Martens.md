@@ -4,6 +4,8 @@ aliases:
   - 克里斯汀·马滕斯
 summary: "德国不来梅大学国际关系与全球社会政策教授，德国科学基金会（DFG）SFB 1342“全球社会政策动态”跨学科中心核心主持学者。国际组织社会学与全球教育治理领军学者，开创“以硬事实施展软权力”（Soft Power by Hard Facts）分析框架与“使命性教育嵌入”（Education-for-Mandates）理论构念，并主持构建全球 30 个涉教育政府间组织数据库（IO-ED），系统解构非专门组织跨界干预全球教育治理的权力机制。"
 type: person
+cssclasses:
+  - person-page
 nationality: "germany"
 person_region: "germany"
 person_related_count: 30

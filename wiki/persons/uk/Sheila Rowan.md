@@ -6,6 +6,8 @@ aliases:
   - Sheila Rowan FRS
 summary: "英国物理学家、格拉斯哥大学引力研究所教授、皇家学会会士（FRS），曾任苏格兰首席科学顾问，2026年英国皇家学会《科学为社会》报告指导委员会联席主席"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 8

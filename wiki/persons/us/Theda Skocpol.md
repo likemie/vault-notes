@@ -7,6 +7,8 @@ aliases:
   - Theda R. Skocpol
 summary: "美国比较历史社会学家与政治学家，哈佛大学政府与社会学讲席教授，美国政治学会前主席；历史制度主义与国家中心视角奠基人；提出找回国家与制度权力分配本质论，将制度定义为权力和资源的分配工具，为制度渐进变迁的权力分配导向奠定结构基础。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 21

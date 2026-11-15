@@ -7,6 +7,8 @@ aliases:
   - J. L. Goldstein
 summary: "美国遗传学家与分子生物学家，德克萨斯大学西南医学中心遗传学系讲席教授与系主任；与迈克尔·布朗合作发现低密度脂蛋白（LDL）受体机制，揭示胆固醇代谢调控的分子基础，共同荣获1985年诺贝尔生理学或医学奖；二人长达半世纪以上的超级合作在团队科学研究中被作为终身科研超级联结的典范。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 9

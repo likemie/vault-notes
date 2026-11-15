@@ -8,6 +8,8 @@ aliases:
   - Doug Carnine
 summary: "俄勒冈大学荣休教授、直接教学法先驱，2000 年在福特汉姆研究所发表报告极力主张教育效仿现代医学模式，将教师经验贬为战地传闻与轶事并将教学斥为不成熟职业，成为哈蒂贬抑教师专业判断并推行技术规训的核心论据。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 22

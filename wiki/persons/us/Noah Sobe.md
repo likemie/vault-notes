@@ -7,6 +7,8 @@ aliases:
   - Sobe
 summary: "美国芝加哥洛约拉大学比较教育学与教育政策教授，比较与国际教育学会（CIES）前主席，联合国教科文组织《教育的未来》全球旗舰报告主笔协调人。提出解构比较教育传统静态容器观的关系性“大写背景”（c/Context）理论，并倡导打破方法论民族主义的“穿梭比较法”（Criss-Crossing Comparison）。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 19

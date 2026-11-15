@@ -5,6 +5,8 @@ aliases:
   - 雅各布·科恩
 summary: "美国心理学家与统计学家，行为科学统计功效分析与效应量标准化的奠基人，提出 Cohen d 指标与经验阈值框架（0.2/0.5/0.8），在强调效应量相对于单纯显著性检验重要性的同时，严厉警示不可将经验阈值教条化为跨情境绝对标准。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 28

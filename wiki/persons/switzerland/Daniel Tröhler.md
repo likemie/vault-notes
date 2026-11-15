@@ -6,6 +6,8 @@ aliases:
   - Tröhler, D.
 summary: "瑞士教育历史与课程学学者，以课程历史的宗教与政治维度分析、地缘认识论权力游戏批判以及对新自由主义数据治理的解构著称"
 type: person
+cssclasses:
+  - person-page
 nationality: switzerland
 person_region: "switzerland"
 person_related_count: 15

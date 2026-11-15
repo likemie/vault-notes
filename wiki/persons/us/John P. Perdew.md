@@ -8,6 +8,8 @@ aliases:
   - Perdew, J. P.
 summary: "美国理论凝聚态物理学家与量子化学家，杜兰大学物理与工程物理学教授，美国国家科学院院士；作为密度泛函理论的核心开拓者，构建了雅各布天梯泛函阶梯体系；其1992年发表于《物理评论B》的代表作在后续独立施引文献中复现了特定的印刷排版错漏，成为科学学确证引文复制行为与优先连接微观物理起源的里程碑级实证标本（Perdew, 1992; Simkin & Roychowdhury, 2003; Wang & Barabási, 2021）。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 18

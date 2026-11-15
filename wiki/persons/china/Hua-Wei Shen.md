@@ -7,6 +7,8 @@ aliases:
   - H. W. Shen
 summary: "中国网络科学与计算社会学学者，中国科学院计算技术研究所研究员、博士生导师；与艾伯特-拉斯洛·巴拉巴西合作提出了基于共引网络和学者参与度矩阵的集体贡献分配算法（2014），成功预测了跨学科多学者合署诺贝尔奖成果的得主归属，为量化科学共同体的隐性声誉分配机制提供了计算方法。"
 type: person
+cssclasses:
+  - person-page
 nationality: china
 person_region: "china"
 person_related_count: 12

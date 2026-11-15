@@ -8,6 +8,8 @@ aliases:
   - Jerome Schnee
 summary: "美国著名产业经济学与科技政策学者，哥伦比亚大学与罗格斯大学管理学教授；1978年在《Research Policy》发表奠基性论文，率先构建经济、技术与人力资本三维分析框架，系统揭示政府采购确定性需求与学习经济对战后半导体与计算机产业崛起的塑造机制。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 20

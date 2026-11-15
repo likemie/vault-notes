@@ -5,6 +5,8 @@ aliases:
   - 赵汀阳
 summary: "中国当代哲学家，中国社会科学院哲学研究所研究员，以重构古典“天下体系”作为超越西方威斯特伐利亚主权国家的全球制度哲学而闻名；其思想被教育学界转译为跨国高教治理的“天下启发式”，同时在政治人类学界引发关于同化修辞与死亡政治的深刻批判。"
 type: person
+cssclasses:
+  - person-page
 nationality: china
 person_region: "china"
 person_related_count: 29

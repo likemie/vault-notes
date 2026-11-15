@@ -6,6 +6,8 @@ aliases:
   - 罗伯特·戈登
 summary: "美国著名宏观经济学家、西北大学讲席教授，以《美国增长的起伏》闻名，提出 1970 年代以来全要素生产率系统性放缓以及第三次工业革命创新狭窄化的经济学定论。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 11

@@ -8,6 +8,8 @@ aliases:
   - Newman, M. E. J.
 summary: "英国统计物理学家与复杂网络领军学者，密歇根大学 Paul Dirac 杰出大学物理学教授、圣塔菲研究所外聘教授；2001 年在 PNAS 发表关于科学合著网络结构的开创性系列实证，首次精确测量了物理、生物与数学领域的度分布、平均距离与集聚系数，奠定了学术合著网络的实证拓扑范式。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 16

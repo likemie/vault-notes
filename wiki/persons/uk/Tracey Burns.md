@@ -5,6 +5,8 @@ aliases:
   - Burns, T.
 summary: "加拿大裔英国籍经合组织资深分析师与教育知识治理学者，长期在OECD教育研究与创新中心（CERI）主导教育中介机构研究，与Tom Schuller合著《教育中介机构的历史与演进》，倡导推进跨机构元协作以建构跨国累积性知识库。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 26

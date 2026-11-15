@@ -7,6 +7,8 @@ aliases:
   - Jones, B. F.
 summary: "美籍创新经济学家与科学学者，西北大学凯洛格管理学院讲席教授；以提出知识负担理论、量化测度科学创新巅峰年龄后延及大团队与小团队的创新分工闻名，开创了现代科学经济学关于知识生产函数与科研人力资本配置的核心实证范式。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 29

@@ -9,6 +9,8 @@ aliases:
   - Barnard, 1854
 summary: "美国近代教育家与首任联邦教育专员，作为比较教育第一重论述代际（启蒙准科学与行政改良代际）核心代表，编纂卷帙浩繁的《国民教育》与《美国教育杂志》，以校为中心汇集欧洲办学经验，开创将外国史料转译为本土公学立法与行政建制政治合法化依据的典范"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 35

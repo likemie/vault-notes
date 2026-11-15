@@ -6,6 +6,8 @@ aliases:
   - 沃特金斯
 summary: "澳大利亚教育心理学家，中国学习者悖论的核心研究者，通过实证研究揭示东亚学习者表面看似被动实则深度投入的学习模式"
 type: person
+cssclasses:
+  - person-page
 nationality: australia
 person_region: "australia"
 person_related_count: 9

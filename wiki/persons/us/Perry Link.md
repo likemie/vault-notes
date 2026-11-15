@@ -6,6 +6,8 @@ aliases:
   - Eugene Perry Link Jr.
 summary: "美国著名汉学家、普林斯顿大学东亚研究荣休教授、加州大学河滨分校校长讲席教授；以提出“吊灯里的巨蟒”审查心理威慑隐喻、研究中国现当代文学与知识分子政治生态著称。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 6

@@ -7,6 +7,8 @@ aliases:
   - Anthony Appiah
 summary: "英美著名哲学家与文化批评家，纽约大学教授，世界主义伦理倡导者与本质主义西方文明叙事的批判者"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 7

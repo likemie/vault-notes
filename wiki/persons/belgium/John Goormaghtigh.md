@@ -4,6 +4,8 @@ aliases:
   - 约翰·戈尔马蒂赫
 summary: "比利时国际事务与组织领导者，长期主持 ISES／IBO 理事会，为早期 IB 建立独立法律地位、跨国治理网络和制度连续性。"
 type: person
+cssclasses:
+  - person-page
 nationality: belgium
 person_region: "belgium"
 person_related_count: 10

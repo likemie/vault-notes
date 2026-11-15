@@ -7,6 +7,8 @@ aliases:
   - Young, M. F. D.
 summary: "英国教育社会学家，社会实在论的核心学者之一，与 Muller 共同提出有力知识概念，主张学科知识对学生认知和社会发展具有独特价值"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 6

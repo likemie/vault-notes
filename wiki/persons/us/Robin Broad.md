@@ -5,6 +5,8 @@ aliases:
   - Broad, R.
 summary: "美国著名国际政治经济学家，美利坚大学国际服务学院荣休教授，古根海姆学者。以发表《研究、知识与“范式维护”的艺术》闻名，系统解构了世界银行发展经济学研究局（DEC）如何通过研究资金定向倾斜、同行评审筛选、选择性引用与内部人事激励，维护新自由主义华盛顿共识并抑制反思性学术异见的“范式维护”机制，是扎普解构世行知识生产“自我引证”与学术控制的核心批判理论源泉。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 20

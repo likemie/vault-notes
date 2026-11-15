@@ -6,6 +6,8 @@ aliases:
   - Felsenstein, L.
 summary: "美国早期著名计算机工程师、反文化活动家、硬件黑客与“家酿计算机俱乐部”（Homebrew Computer Club）协调人，奥斯本1号（Osborne 1）首台便携式商用电脑的总设计师；作为反文化计算运动的核心领袖，他主张将个人计算机作为摆脱政府与大公司科层束缚、实现个体自主解放的核心媒介，成为硅谷早期技术自组织与微型计算硬件革命的关键枢纽。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 20

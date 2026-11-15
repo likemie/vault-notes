@@ -7,6 +7,8 @@ aliases:
   - Paula E. Stephan
 summary: "美国当代著名科学经济学家，佐治亚州立大学经济学教授，长期研究大学科研资助结构、科学家劳动力市场、博士与博士后激励机制以及科研体制的经济动力学"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 20

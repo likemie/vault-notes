@@ -7,6 +7,8 @@ aliases:
   - 布贝克
 summary: "法国计算机科学家与机器学习专家，前微软研究院通用人工智能基础研究团队负责人，现任职于OpenAI。2023年牵头发表开创性论文《通用人工智能的火花：GPT-4早期实验》，设计常识物理堆叠与独角兽绘图等核心测试，首次系统论证大语言模型展现出超越传统狭义AI的通用人类推理雏形。"
 type: person
+cssclasses:
+  - person-page
 nationality: france
 person_region: "france"
 person_related_count: 9

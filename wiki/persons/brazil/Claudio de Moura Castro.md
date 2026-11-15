@@ -7,6 +7,8 @@ aliases:
   - C. M. Castro
 summary: "巴西著名教育经济学家、国际比较教育学者与多边发展金融高阶官员；曾任巴西高等教育人员培训协调局局长、国际劳工组织培训政策主管、世界银行高阶教育经济学家与泛美开发银行首席教育顾问；以主权信用合作社论、思想与资金双轮驱动论、执行端组织非学习论及拉美职业技术教育实务与普职分流制度分析著称。"
 type: person
+cssclasses:
+  - person-page
 nationality: brazil
 person_region: "brazil"
 person_related_count: 20

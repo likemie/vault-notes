@@ -7,6 +7,8 @@ aliases:
   - M. A. Eckstein
 summary: "美籍著名比较教育学家，纽约城市大学皇后学院教育学教授，CIES 前会长（1988–1989）；战后第三代际实证科学主义运动中哥大学派代表人物，与诺亚合著《走向比较教育科学》（1969），系统推进‘以变量替代系统’的跨国量化假设检验范式。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 55

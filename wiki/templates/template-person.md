@@ -3,6 +3,8 @@ title: <% tp.file.title %>
 aliases: []
 summary: ""
 type: person
+cssclasses:
+  - person-page
 nationality: ""
 born: ""
 died: ""

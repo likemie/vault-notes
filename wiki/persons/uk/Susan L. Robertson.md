@@ -5,6 +5,8 @@ aliases:
   - Robertson, S. L.
 summary: "英国著名教育社会学家与批判全球化理论家，剑桥大学教育学讲席教授，《全球化、社会与教育》创刊主编。主要研究涵盖服务贸易总协定（GATS）对国家教育主权的重塑、多标度教育治理以及全球教育工业与教师劳工转型。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 18

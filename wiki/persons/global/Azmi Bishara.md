@@ -6,6 +6,8 @@ aliases:
   - Bishara, A.
 summary: "阿拉伯裔以色列著名政治哲学家、前以色列议会议员、多哈阿拉伯研究与政策研究中心总干事。早年在德国柏林洪堡大学获哲学博士学位。1999年为本尼迪克特·安德森《想象的共同体》希伯来语版撰写长篇学术导言，创造性地动用想象共同体理论作为解构犹太复国主义本质主义神话与排他性隔离政策的批判思想资源，成为建构主义民族理论在中东地缘政治现实中批判性介入的代表学者。"
 type: person
+cssclasses:
+  - person-page
 nationality: global
 person_region: "global"
 person_related_count: 11

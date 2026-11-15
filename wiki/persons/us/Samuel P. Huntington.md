@@ -7,6 +7,8 @@ aliases:
   - Samuel Phillips Huntington
 summary: "美国著名政治学家，哈佛大学教授，文明冲突论与现代政治秩序理论的代表学者"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 7

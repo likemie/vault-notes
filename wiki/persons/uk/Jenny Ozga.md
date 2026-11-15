@@ -6,6 +6,8 @@ aliases:
   - Jennifer Ozga
 summary: "英国著名教育政策社会学家，牛津大学教育学系荣休讲座教授，英国国家学术院院士；以对欧洲教育治理、质性政策分析、数据化（Datafication）治理与现代学校督察制度的研究闻名；提出“知识告知政策与知识构成政策”的经典区分，系统揭示知识如何直接内生为国家统治工具的权力机制，为当代欧洲督导治理研究奠定了核心分析范式。"
 type: person
+cssclasses:
+  - person-page
 subtype: scholar
 person_region: "uk"
 person_related_count: 20

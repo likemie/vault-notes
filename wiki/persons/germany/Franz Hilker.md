@@ -7,6 +7,8 @@ aliases:
   - Hilker, F.
 summary: "德国比较教育学家与国际教育交流专家，黑森州教育部顾问兼黑森州教育文献与研究中心主任、联合国教科文组织汉堡教育研究所筹备理事；以1962年专著《比较教育学》确立“描述-解释-并置-比较”四步方法论，与施奈德共同构成战后西德比较教育第一阶段的双核奠基人。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 29

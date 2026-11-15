@@ -6,6 +6,8 @@ aliases:
   - Baron-Cohen, S.
 summary: "英国发展心理病理学家与认知神经科学家，剑桥大学发展心理病理学讲席教授、自闭症研究中心主任；以心智理论与自闭症谱系研究著称，开发了眼区读心测试（Reading the Mind in the Eyes Test, RMET），成为跨学科测定社会认知能力的标准化工具，并在团队科学中被用于测量群体平均社会敏感度以预测集体智慧。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 12

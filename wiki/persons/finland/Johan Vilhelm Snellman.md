@@ -7,6 +7,8 @@ aliases:
   - Johan Snellman
 summary: "19世纪芬兰哲学家、政治家、芬诺曼建国运动核心领袖与芬兰大公国参议员，确立了“小国存亡唯有依托文化自立与全民受教育”的国家哲学信条，从源头上奠定了芬兰尊崇教育与教师的文化传统。"
 type: person
+cssclasses:
+  - person-page
 nationality: finland
 person_region: "finland"
 person_related_count: 13

@@ -6,6 +6,8 @@ aliases:
   - Van Damme
 summary: "比利时比较教育学者与国际教育政策专家，曾任根特大学教育学教授、经合组织教育研究与创新中心（CERI）主任，主张克服教育科研的意识形态偏狭与复现危机，将其确立为具备自主演绎理论与严格同行自律的独立学术学科"
 type: person
+cssclasses:
+  - person-page
 nationality: belgium
 person_region: "belgium"
 person_related_count: 40

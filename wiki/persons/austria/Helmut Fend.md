@@ -6,6 +6,8 @@ aliases:
   - H. Fend
 summary: "奥地利教育社会学家、苏黎世大学荣休讲席教授，欧洲学校效能理论、学校四大社会功能学说与教育再情境化理论泰斗"
 type: person
+cssclasses:
+  - person-page
 nationality: austria
 person_region: "austria"
 person_related_count: 16

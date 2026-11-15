@@ -6,6 +6,8 @@ aliases:
   - Burrhus Frederic Skinner
 summary: "美国著名心理学家，操作性行为主义奠基人，教学机器与程序教学发明者，其强化控制与小步子分步教学原理构成了当代教育技术、系统教学设计与量化教学反馈的理论基石"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 32

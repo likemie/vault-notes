@@ -8,6 +8,8 @@ aliases:
   - Coray
 summary: "希腊启蒙思想家、语文学家与古典文献学家，现代希腊民族觉醒的核心智识先驱。主导现代希腊纯正语（Katharevousa）语言规范化运动与古典文库整理，推动希腊臣民摆脱奥斯曼统治时期的愚昧状态以承继古典城邦遗产；本尼迪克特·安德森在《想象的共同体》中将其视为19世纪初欧洲方言语文学家与海外海商联盟推动民族动员的经典典范。"
 type: person
+cssclasses:
+  - person-page
 nationality: greece
 person_region: "greece"
 person_related_count: 10

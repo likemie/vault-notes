@@ -5,6 +5,8 @@ aliases:
   - 马克·里金森
 summary: "澳大利亚莫纳什大学教育学教授与莫纳什 Q 项目负责人，提出研究证据质量使用框架，开创从证据质量向使用质量的范式转向"
 type: person
+cssclasses:
+  - person-page
 nationality: australia
 person_region: "australia"
 person_related_count: 24

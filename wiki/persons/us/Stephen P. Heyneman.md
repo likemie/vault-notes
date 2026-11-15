@@ -8,6 +8,8 @@ aliases:
   - Heyneman, S.
 summary: "美国著名国际教育政策与比较教育学者，范德堡大学荣休教授，世界银行教育司前高级官员与政策研究主管（1976–1998），CIES前主席。以提出“海尼曼-洛克斯利效应”奠定学界声誉，后从内部人视角深刻反思解构世界银行跨国教育贷款的成本收益与生产函数教条，其关于世行内部教条主义论战的史学记述获得卡斯特罗等圈内同僚的亲历互证。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 33

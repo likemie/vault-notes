@@ -7,6 +7,8 @@ aliases:
   - Popkewitz, T. S.
 summary: "美国著名比较教育学、课程史学与社会认识论泰斗，威斯康星大学麦迪逊分校教授，将福柯后结构主义权力微观物理学与治理术引入教育学，开创社会认识论视角，揭示经合组织等国际组织如何通过教师教育改革与专业标准实施跨国社会规训"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 31

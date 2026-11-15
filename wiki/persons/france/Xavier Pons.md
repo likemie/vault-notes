@@ -6,6 +6,8 @@ aliases:
   - Pons, X.
 summary: "法国当代著名教育政治社会学家，巴黎东岱大学（UPEC）教育科学教授，组织社会学中心（CSO）副研究员。开创教育评估与公共政策接收社会学分析范式，系统揭示法国以中央行政精英和官方学者为核心的“国家科学”（science d’État）对 PISA 新自由主义渗透的制度性抵御；提出学习性知识与政策性知识的结构性断裂模型，阐明国际量化测验在欧洲多国如何被降解为服务国内政党政治的修辞工具。"
 type: person
+cssclasses:
+  - person-page
 nationality: france
 person_region: "france"
 person_related_count: 24

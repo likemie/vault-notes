@@ -7,6 +7,8 @@ aliases:
   - J. Rizal
 summary: "菲律宾民族英雄、思想家、眼科医生与文学家，反西班牙殖民统治先驱，代表作西语长篇小说《不许犯我》与《贪婪的统治》。本尼迪克特·安德森在《想象的共同体》中将其小说视为现代文学表象齐一空洞时间与建构民族想象的核心范本，指出其反讽叙事与共时多线结构将虚构社会与读者日常生活缝合，催生了菲律宾民族政治认同。"
 type: person
+cssclasses:
+  - person-page
 nationality: philippines
 person_region: "philippines"
 person_related_count: 6

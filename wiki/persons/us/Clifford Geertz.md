@@ -5,6 +5,8 @@ aliases:
   - Clifford James Geertz
 summary: "美国人类学家，诠释人类学（interpretive anthropology）的代表人物，以厚描述（thick description）概念深刻影响质性研究与民族志方法论"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 14

@@ -7,6 +7,8 @@ aliases:
   - Haddad, W. D.
 summary: "国际教育政策专家与多边高级官员，曾任世界银行中央教育政策部门负责人与1990年泰国宗滴恩世界全民教育大会（WCEFA）执行秘书；主导了全民教育运动初期四大多边发起机构的筹备协调，并在后期反思中明确指认将主权国家自主弹性抉择扭曲为单一全球量化目标是历史性失误。"
 type: person
+cssclasses:
+  - person-page
 nationality: global
 person_region: "global"
 person_related_count: 12

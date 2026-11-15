@@ -6,6 +6,8 @@ aliases:
   - Goffman, E.
 summary: "加拿大裔美国社会学家，微观社会学与拟剧论先驱；以全控机构和机构生活叙事揭示规则、私人空间与身份维护之间的关系，为学校制度生活的比较分析提供资源。"
 type: person
+cssclasses:
+  - person-page
 nationality: global
 person_region: "global"
 person_related_count: 11

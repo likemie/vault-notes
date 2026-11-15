@@ -6,6 +6,8 @@ aliases:
   - Song, C.
 summary: "美籍华裔理论物理学家与复杂系统科学家，美国迈阿密大学物理系副教授；长期深耕分形网络重标度、人类动力学与学术引文动力学建模；作为核心创立者与王大顺、巴拉巴西提出引文动力学 WSB 模型，推导出单篇文献累积被引封闭解析解与终极影响力解，奠定了引文物理建模体系。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 18

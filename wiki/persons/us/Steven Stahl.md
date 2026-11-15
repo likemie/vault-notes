@@ -8,6 +8,8 @@ aliases:
   - "斯塔尔"
 summary: "美国阅读教学研究专家与教育心理学家，1980至1990年代美国“阅读战争”中科学阅读研究阵营的关键学者。因主持1989年与1994年全语言教学元分析而处于识字教学争论的核心位置，后对全语言与语言经验法的分类混淆进行了方法论自我修正。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 11

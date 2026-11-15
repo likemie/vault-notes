@@ -6,6 +6,8 @@ aliases:
   - Murray, A. P.
 summary: "美国著名非裔民权活动家、法学家、女性主义先驱、首位非裔圣公会女牧师，全国妇女组织（NOW）联合创始人；以在1963年耶鲁信函中前瞻性批判“起哄者否决”并捍卫宪法言论自由原则著称。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 12

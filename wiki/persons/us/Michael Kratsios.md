@@ -5,6 +5,8 @@ aliases:
   - 克拉齐奥斯
 summary: "美国当代科技政策制定者与战略管理者，曾任美国第4任首席技术官（CTO）及国防部负责研究与工程的副部长，2025年起主管白宫科学技术政策办公室（OSTP）；2026年向总统呈交《科学：新的黄金时代》，主张在坚守公共基础研究资助的同时，以组合式资助、新型科研组织、本土制造转化与生成核验协同全面重构战后科研体制。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 40

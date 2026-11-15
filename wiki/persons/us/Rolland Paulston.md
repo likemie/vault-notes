@@ -6,6 +6,8 @@ aliases:
   - Rolland G. Paulston
 summary: "匹兹堡大学比较教育学教授，1976年比较与国际教育学会（CIES）会长，第四代际“批判冲突范式”的方法论奠基人，1977年发表划时代论文终结结构功能主义学术垄断，1990年代开创“社会地图学”（Social Cartography）。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 29

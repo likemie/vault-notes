@@ -5,6 +5,8 @@ aliases:
   - Held, D.
 summary: "英国著名政治学家、全球化理论与民主转型奠基学者，系统提出全球化的多维互动定义与世界主义民主模型，为批判比较教育学解构民族国家主权边界被穿透及跨国治理对教育政策规训提供了核心分析框架"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 22

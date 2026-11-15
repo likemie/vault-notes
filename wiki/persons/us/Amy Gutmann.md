@@ -6,6 +6,8 @@ aliases:
   - Gutmann, A.
 summary: "美国著名政治哲学家、宾夕法尼亚大学前校长，以《民主教育》和《民主公民身份》奠定审议民主与民主教育理论体系，主张道德效忠应超越特定共同体而指向正义本身。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 6

@@ -5,6 +5,8 @@ aliases:
   - J. Sharples
 summary: "英国伦敦大学学院教育学院（UCL IoE）教授、教育捐赠基金会（EEF）前资深顾问与“有效证据联盟”研究员，致力于证据知情实践（EIP）与知识动员研究，提出了将专业技能与研究证据融合的经典反脚本化EIP定义。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 13

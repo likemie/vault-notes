@@ -6,6 +6,8 @@ aliases:
   - Allan David Bloom
 summary: "美国著名政治哲学家、古典学家，列奥·施特劳斯学派代表人物，芝加哥大学社会思想委员会教授；著有《走向封闭的美国精神》，其对福山历史终结论的哲学审视揭示了将大国兴衰循环视作终结的历史幻觉。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 18

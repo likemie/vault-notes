@@ -5,6 +5,8 @@ aliases:
   - 南希·卡特赖特
 summary: "英国科学哲学家，因果机制、证据外推与反思 RCT 局限的代表学者；其关于支持性因素与证据无法自动迁移的哲学论断，为教育实践反对剪贴式政策借用与推进情境再脉络化提供了坚实的方法论基石。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 38

@@ -8,6 +8,8 @@ aliases:
   - Douglas C. Prasher
 summary: "美籍分子生物学家，首位克隆并测序水母绿色荧光蛋白（GFP）基因的学者（1992）；因科研资助耗尽将克隆基因无偿寄送给马丁·沙尔菲与钱永健后被迫离开学界，转行担任汽车经销店礼宾车司机；其工作直接支撑了 2008 年诺贝尔化学奖成果，成为科学学探讨学术贡献与声誉分配脱节的经典案例。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 13

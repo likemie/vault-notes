@@ -7,6 +7,8 @@ aliases:
   - Brint, S.
 summary: "加利福尼亚大学河滨分校社会学与公共政策杰出教授，美国当代著名高等教育社会学家；长期主持“Colleges & Universities 2000 Project”，代表作包括《为高等教育两度欢呼》等；在科技政策与高等教育治理研究中深入剖析了研究型大学的组织转型、知识经济中的学科分层以及国家战略产业政策对学术生态的深远影响。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 14

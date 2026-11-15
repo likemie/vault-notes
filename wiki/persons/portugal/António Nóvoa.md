@@ -8,6 +8,8 @@ aliases:
   - António Manuel Seixas Sampaio da Nóvoa
 summary: "葡萄牙著名比较教育学家与历史学家，里斯本大学前校长。开创欧洲教育空间建构批判分析范式，揭示欧盟话语将学生流动塑造为公民美德的机制；系统剖析欧盟在《马斯特里赫特条约》辅助性原则制约下，如何依托最佳实践修辞、量化指标基准线与博洛尼亚进程三大软性治理技术深度重塑成员国教育政策。"
 type: person
+cssclasses:
+  - person-page
 nationality: portugal
 person_region: "portugal"
 person_related_count: 33

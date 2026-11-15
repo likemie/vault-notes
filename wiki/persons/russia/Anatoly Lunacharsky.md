@@ -6,6 +6,8 @@ aliases:
   - Anatoly Vasilyevich Lunacharsky
 summary: "苏俄首任教育人民委员（1917–1929），主持早期苏联教育体系的建立，将学校教育与工业生产连接但反对单一技术训练，亲自邀请 John Dewey 于 1928 年访问苏联"
 type: person
+cssclasses:
+  - person-page
 nationality: russia
 person_region: "russia"
 person_related_count: 2

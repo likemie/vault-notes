@@ -6,6 +6,8 @@ aliases:
   - Kingman Brewster
 summary: "美国著名法学家、教育家、外交官，耶鲁大学第17任校长（1963–1977）、美国驻英大使（1977–1981）、牛津大学大学学院院长；以在1960–1970年代民权与反战危机中展现出卓越的领导力、政治勇气与制度担当著称。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 12

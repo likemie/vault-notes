@@ -5,6 +5,8 @@ aliases:
   - 戴尔·德朗布尔
 summary: "巴西认识论学者和实践者，Creative Tension of Sense and Ganz-Methode 提出者，为教育研究连接基层实践、剧场与知识地缘政治提供拉美视角。"
 type: person
+cssclasses:
+  - person-page
 nationality: brazil
 person_region: "brazil"
 person_related_count: 17

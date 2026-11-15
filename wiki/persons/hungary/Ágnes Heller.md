@@ -7,6 +7,8 @@ aliases:
   - Agnes Heller
 summary: "匈牙利著名哲学家、布达佩斯学派核心代表人物，师从卢卡奇，以《超越正义》和《日常生活社会学》深刻探讨现代性伦理、正义与美好生活之血肉关系。"
 type: person
+cssclasses:
+  - person-page
 nationality: hungary
 person_region: "hungary"
 person_related_count: 7

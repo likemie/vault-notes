@@ -6,6 +6,8 @@ aliases:
   - 孔丘
 summary: "中国春秋时期思想家、教育家，儒学创始人，以修身成仁、好学动能与有教无类为核心。在当代国家课程中被塑造为中华文化唯一缩影与软实力符号，而在文化边缘群体中引发对其汉儒中心主义、男权等级性与人类中心主义的跨文化反思"
 type: person
+cssclasses:
+  - person-page
 nationality: china
 person_region: "china"
 person_related_count: 42

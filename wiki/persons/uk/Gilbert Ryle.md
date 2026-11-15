@@ -5,6 +5,8 @@ aliases:
   - 吉尔伯特·赖尔
 summary: "英国哲学家，1946 年提出知其然与知其所用的经典区分，对认识论和教育哲学产生深远影响"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 6

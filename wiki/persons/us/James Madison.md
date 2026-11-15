@@ -7,6 +7,8 @@ aliases:
   - James Madison Jr.
 summary: "美国第四任总统，政治哲学家，美国宪法之父，《联邦党人文集》主要作者之一。在《技术共和国》第16章中，卡普与扎米斯卡回顾了麦迪逊在1787年制宪会议上关于国会薪酬的辩论，分析其警惕议员自定薪资将手伸进公款的历史戒条如何塑造了美国公职禁欲传统，并探讨这一传统在现代演变为阻断平民参政与加剧人才贫困的制度悖论。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 12

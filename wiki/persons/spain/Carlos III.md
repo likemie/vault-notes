@@ -7,6 +7,8 @@ aliases:
   - Charles III
 summary: "西班牙波旁王朝开明专制君主（1759–1788年在位），大西洋波旁改革的总设计师。通过推行大规模财政税收集权、强化跨大西洋商业专卖、驱逐耶稣会以及系统性起用半岛官员压制美洲土生白人，其激进统治被史学界辛辣称为‘对美洲的第二次征服’；本尼迪克特·安德森将其界定为引爆西属美洲土生白人阶级恐慌与反叛离心冲动的关键历史推动者。"
 type: person
+cssclasses:
+  - person-page
 nationality: spain
 person_region: "spain"
 person_related_count: 10

@@ -5,6 +5,8 @@ aliases:
   - 诺曼·费尔克拉夫
 summary: "英国语言学学者、社会学家，兰卡斯特大学语言学荣休教授，批判话语分析（CDA）奠基人，创立文本、话语实践与社会实践三维分析框架，奠定政策话语的解释性批判与规范性批判方法论基础。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 35

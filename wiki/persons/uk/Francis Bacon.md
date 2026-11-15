@@ -8,6 +8,8 @@ aliases:
   - Bacon, F.
 summary: "17世纪英国哲学家与政治家，经验主义科学哲学奠基人；提出归纳推理方法与四假相说，倡导将科学探索从经院权威转向自然观察与经验实证，提出重大科学突破根植于时代条件的成熟，奠定了现代实证科学方法论基石。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 13

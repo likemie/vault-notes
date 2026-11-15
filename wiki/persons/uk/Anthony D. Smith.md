@@ -7,6 +7,8 @@ aliases:
   - Smith, A. D.
 summary: "英国著名历史社会学家，伦敦政治经济学院（LSE）民族主义研究荣休教授，《国家与民族主义》创刊主编，民族主义“族裔象征主义”（Ethno-symbolism）学派奠基人。本尼迪克特·安德森将其与盖尔纳、霍布斯鲍姆并列为英国民族主义研究三大传统代表。主张现代民族根植于前现代“族裔共同体”（ethnie）的神圣神话、象征符号与集体记忆。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 16

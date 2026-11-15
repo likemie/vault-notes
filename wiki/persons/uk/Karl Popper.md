@@ -8,6 +8,8 @@ aliases:
   - Sir Karl Popper
 summary: "奥地利裔英国科学哲学家与社会哲学家，提出可证伪性划界标准与批判理性主义；其猜想与反驳认识论、批判二元论与情境逻辑深刻重塑了战后科学哲学与比较教育学，但其证伪主义近年亦被批判性学者反思在证据本位商业化与新自由主义去规制化中所遭受的话语挪用。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 44

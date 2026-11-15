@@ -6,6 +6,8 @@ aliases:
   - B. Anderson
 summary: "爱尔兰裔美国政治学家与东南亚研究权威，康奈尔大学国际研究荣休讲席教授。以1983年出版的经典著作《想象的共同体》闻名于世，开创性地将民族定义为一种通过印刷资本主义与大众媒介所构筑的有限且享有主权的想象政治共同体；卡普与扎米斯卡进一步将其引申为克服邓巴数极限、维系科技共和国超大规模协作的战略基石。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 54

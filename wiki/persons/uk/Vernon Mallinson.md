@@ -6,6 +6,8 @@ aliases:
   - Mallinson, V.
 summary: "英国比较教育学家、雷丁大学比较教育学教授，战后英国历史-文化学派代表性学者，以《比较教育学导论》中确立的‘教育是国民性格的函数’理论闻名，是战后英美比较教育方法论大论战中的关键靶点。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 12

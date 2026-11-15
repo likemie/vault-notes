@@ -5,6 +5,8 @@ aliases:
   - 温贝托·马图拉纳
 summary: "智利生物学家和哲学家，自创生理论共同创立者与知识之树作者，为教育研究思考生命、认知与关系性学习提供深层本体论资源。"
 type: person
+cssclasses:
+  - person-page
 nationality: chile
 person_region: "chile"
 person_related_count: 7

@@ -6,6 +6,8 @@ aliases:
   - Pollock, J.
 summary: "美国20世纪著名画家，抽象表现主义与行动绘画领军主将；开创滴画技法打破画架与透视传统，其1947至1950年间迎来集中爆发期并密集产出毕生代表作，成为科学学跨界证实创造力爆发期动力学以及现代创新反思平庸从众的标志性典范。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 17

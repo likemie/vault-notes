@@ -6,6 +6,8 @@ aliases:
   - Sir Peter Lampl
 summary: "英国教育慈善家、萨顿信托（Sutton Trust）创始人兼董事长与教育捐赠基金会（EEF）创始理事会主席，首创通过独立捐赠信托与What Works循证机制打破社会阶层固化，主导推动了英国教育平等、学生溢价与循证教学工具包改革。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 28

@@ -7,6 +7,8 @@ aliases:
   - C.-C. Tsai
 summary: "台湾师范大学讲座教授、学习科学与教育技术领域国际知名学者，系统提出网络学习环境下的认识论信念变迁假说（Tsai, 2004）及认识网络分析法，并与合作者建构人机自适应认识立场与共生学习理论框架。"
 type: person
+cssclasses:
+  - person-page
 nationality: taiwan
 person_region: "taiwan"
 person_related_count: 31

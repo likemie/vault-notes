@@ -6,6 +6,8 @@ aliases:
   - 阿德科亚
 summary: "英国约克大学政治学学者、政论作家，长期研究身份政治与道德二元论，指出机械等同无权与圣洁是对从属群体的道德屈尊与能动性剥夺。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 7

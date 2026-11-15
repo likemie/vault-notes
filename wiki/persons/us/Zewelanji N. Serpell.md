@@ -7,6 +7,8 @@ aliases:
   - Zewelanji Serpell
 summary: "美国教育心理学家，弗吉尼亚联邦大学教授，曾任国会教育与劳动力委员会 AERA 国会研究员，提出了指导教育研究者介入联邦立法决策的政策导航框架与政策制定时间系统视角"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 10

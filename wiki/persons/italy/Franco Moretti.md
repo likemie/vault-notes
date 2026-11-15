@@ -6,6 +6,8 @@ aliases:
   - Moretti, F.
 summary: "意大利著名比较文学学者、文学社会学家，斯坦福大学文学实验室创立者与荣休教授。提出“远读”（Distant Reading）与文学地理学（Literary Geography）方法，倡导将定量分析、地图测绘与演化模型引入世界文学研究。1998年出版《欧洲小说地图：1800–1900》，其绘制印刷小说跨国流布与空间壁垒的方法，直接启发了本尼迪克特·安德森对《想象的共同体》展开“地缘传记”（Geo-biography）研究。"
 type: person
+cssclasses:
+  - person-page
 nationality: italy
 person_region: "italy"
 person_related_count: 13

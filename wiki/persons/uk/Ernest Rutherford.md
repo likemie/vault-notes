@@ -8,6 +8,8 @@ aliases:
   - 欧内斯特·卢瑟福勋爵
 summary: "新西兰裔英国核物理学家，近代核物理学之父，1908 年诺贝尔化学奖得主，曾任英国皇家学会会长与剑桥大学卡文迪许实验室主任；以发现放射性半衰期、确立原子核式行星模型与实现人工核反应闻名，并在科学传播机制上开创利用期刊致编辑信快速发表完整成果的特洛伊木马策略，奠定了现代科学顶刊快报体裁的建制范式。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 12

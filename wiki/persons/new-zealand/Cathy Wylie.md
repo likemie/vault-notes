@@ -4,6 +4,8 @@ aliases:
   - 凯茜·怀利
 summary: "新西兰教育政策评估与学校治理学者，新西兰教育研究委员会（NZCER）首席研究员，以对《明日学校》分权改革展开长达数十年的全国系统性追踪调查闻名，证实单纯依靠市场竞争与行政分权无法提升教学质量，为新西兰教育政策转向微观课堂教学与系统重构提供关键经验实证。"
 type: person
+cssclasses:
+  - person-page
 nationality: new-zealand
 person_region: "new-zealand"
 person_related_count: 14

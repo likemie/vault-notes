@@ -8,6 +8,8 @@ aliases:
   - 斯旺森
 summary: "美籍物理学家、情报学家与图书馆学学者，芝加哥大学研究生图书馆学院前院长与荣休教授；非相关文献知识发现与文献驱动发现（LBD）奠基人。首创 ABC 假说推理模型，通过挖掘孤立非交互医学文献库，成功推断出深海鱼油对雷诺氏症的疗效及偏头痛与镁缺乏的因果关联并获临床证实，为计算科学学与自动化假设生成开辟了理论先河。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 10

@@ -7,6 +7,8 @@ aliases:
   - Alexander Petersen
 summary: "美国复杂系统科学与科学计量学者，加利福尼亚大学默塞德分校管理学副教授；提出学术声望速度阈值模型，系统揭示知名学者早期引文增速溢价与跨过临界规模后无标度优先连接主导的交叉演化机制，为学术职业生涯动力学提供了严谨微观计量框架。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 11

@@ -7,6 +7,8 @@ aliases:
   - E. von Glasersfeld
 summary: "德裔美籍哲学家与认知心理学家，激进建构主义创始人，主张知识是个体主动组织的经验自足世界而非对外部实在的客观表征，深刻重塑了数学与科学教育认识论。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 25

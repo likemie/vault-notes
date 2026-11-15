@@ -7,6 +7,8 @@ aliases:
   - Block, F.
 summary: "美国加利福尼亚大学戴维斯分校经济社会学研究教授，当代国家理论与科技创新政治经济学学者。提出发展型网络国家与隐藏的发展型国家理论，系统揭示美国联邦科研网络在市场原教旨主义意识形态遮蔽下的产业催化机制，并从波兰尼视角批判知识商品化与自由市场自发调节神话。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 34

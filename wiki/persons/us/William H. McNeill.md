@@ -7,6 +7,8 @@ aliases:
   - William Hardy McNeill
 summary: "美国著名历史学家，芝加哥大学历史学教授，全球通史奠基人与西方文明通识课程的代表倡导者"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 9

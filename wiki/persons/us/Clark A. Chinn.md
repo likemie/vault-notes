@@ -6,6 +6,8 @@ aliases:
   - Clark Chinn
 summary: "美国教育心理学家与学习科学家，罗格斯大学教授，认识论认知与科学探究论证领域权威学者。创立 AIR 认识论认知模型与 PRACCIS 探究框架，提出探究学习六要素，系统捍卫指导式探究在深层概念建构中的认识论价值"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 40

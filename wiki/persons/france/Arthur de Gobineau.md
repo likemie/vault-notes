@@ -7,6 +7,8 @@ aliases:
   - Comte de Gobineau
 summary: "法国贵族、外交官与作家，19世纪科学种族主义与雅利安优越论代表人物，代表作四卷本《人种不平等论》。本尼迪克特·安德森在《想象的共同体》中将其作为现代种族主义源自封建贵族阶级意识形态而非现代通俗民族主义的核心史学证据，指出其学说本质上是贵族特权阶层对抗1848年平民民主与通俗语言民族主义的反动意识形态产物。"
 type: person
+cssclasses:
+  - person-page
 nationality: "france"
 person_region: "france"
 person_related_count: 7

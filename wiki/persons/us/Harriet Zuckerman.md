@@ -8,6 +8,8 @@ aliases:
   - Zuckerman, H.
 summary: "美国科学社会学家，哥伦比亚大学社会学荣休教授，安德鲁·W·梅隆基金会前高级副总裁；与罗伯特·K·默顿长期合作，通过对全美 41 位诺贝尔奖得主的开创性深度访谈与定量分析，出版经典名著《科学精英》（1977），为科学界马太效应、第四十一把交椅以及同行评审中知名学者享有的疑罪从无特权确立了奠基性经验证据。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 16

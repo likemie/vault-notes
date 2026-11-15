@@ -7,6 +7,8 @@ aliases:
   - Pareto, V.
 summary: "意大利经济学家、社会学家与哲学家，洛桑学派代表人物；提出著名的帕累托最优概念、国民财富分配的帕累托幂律分布以及 80/20 法则，为现代福利经济学、社会分层理论以及科学学中理解学术注意力与引文极端不平等的肥尾分布奠定了数学思想原典。"
 type: person
+cssclasses:
+  - person-page
 nationality: italy
 person_region: "italy"
 person_related_count: 12

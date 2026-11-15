@@ -7,6 +7,8 @@ aliases:
   - Abraham H. Maslow
 summary: "美国心理学家，人本主义心理学主要奠基人，曾任美国心理学会主席。提出人类需求层次理论与自我实现学说；在《科学心理学》中系统提炼“科学九大功能”，打破实证主义将科学狭隘缩减为验证技术的偏见，展现科学作为价值追求、创造性实践与精神庆典的完整面貌。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 19

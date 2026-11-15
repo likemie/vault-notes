@@ -7,6 +7,8 @@ aliases:
   - Larissa Lomnitz
 summary: "拉美著名人类学家，智利科学院院士，墨西哥国立自治大学（UNAM）荣休教授，专注于拉美城市贫困生存网络与中产阶级脆弱性研究，其关于智利中产阶级在新自由主义教育券与私有化改革中生存危机的田野调查，为批判教育政治社会学提供了关键一手实证支撑"
 type: person
+cssclasses:
+  - person-page
 nationality: chile
 person_region: "chile"
 person_related_count: 18

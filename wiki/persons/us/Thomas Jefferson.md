@@ -6,6 +6,8 @@ aliases:
   - T. Jefferson
 summary: "美国主要建国先驱、《独立宣言》起草人、第三任美国总统（1801–1809年）。在启蒙自然权利、古典共和主义与世俗教育立国思想上作出奠基性贡献；本尼迪克特·安德森在《想象的共同体》中着重剖析其作为弗吉尼亚大种植园奴隶主精英，面对英王总督敦莫尔伯爵解放奴隶法令时的阶级激愤，揭示北美革命先驱在普世公民自由修辞背后的庄园奴隶制阶级自保底色。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 13

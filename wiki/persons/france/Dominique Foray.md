@@ -7,6 +7,8 @@ aliases:
   - Foray, D.
 summary: "法国著名经济学家、创新与知识经济学权威，瑞士洛桑联邦理工学院（EPFL）荣休教授，曾任法国国家科学研究中心（CNRS）研究主任及经济合作与发展组织（OECD）资深顾问。其与伦德瓦尔于1996年奠定OECD“学习型经济”分析范式，论证在编码知识廉价化情境下，默会知识与持续终身学习是国家竞争力的稀缺根基；其作为欧盟“智能专门化”战略的核心理论架构师，深刻影响了当代全球科技创新与教育人力资本政策。"
 type: person
+cssclasses:
+  - person-page
 nationality: france
 person_region: "france"
 person_related_count: 31

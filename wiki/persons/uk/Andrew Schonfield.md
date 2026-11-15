@@ -1,6 +1,8 @@
 ---
 summary: "英国著名政治经济学家与制度比较学者，英国皇家国际事务研究所前所长；其里程碑著作《现代资本主义》系统剖析二战后法、德、英、美四国国家干预与经济规划模式，为第一代使命政策中的后发追赶、意向性规划及公共能力演化提供了奠基性的制度史分析框架。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 9

@@ -9,6 +9,8 @@ aliases:
   - Merton, R. K.
 summary: "美国科学社会学奠基人，哥伦比亚大学教授，美国国家科学奖章得主；提出科学界马太效应、第四十一把交椅与科学发现优先权机制，奠定了科学奖励系统与同行评议地位偏倚的制度社会学理论基石。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 14

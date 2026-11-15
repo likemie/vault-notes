@@ -1,6 +1,8 @@
 ---
 summary: "美国著名核物理学家与大科学时代科技政策思想奠基人，曾任橡树岭国家实验室主任长达18年；系统揭示大科学国家实验室在完成原有军事使命后面临的使命漂移困境，提出科学选择标准与技术解决手段理论，奠定了使命导向政策两代转型的组织分析基石。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 13

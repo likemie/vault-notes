@@ -5,6 +5,8 @@ aliases:
   - George H. Heilmeier
 summary: "美国工程师、发明家与科技政策管理者，液晶显示（LCD）技术发明人；曾任 DARPA 局长（1975–1977），首创规范颠覆性研发立项与评估的“海尔迈耶问卷”（Heilmeier Catechism），并将 DARPA 战略导向隐形战机与空间监视等重大国防技术轨道。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 12

@@ -5,6 +5,8 @@ aliases:
   - 大卫·菲利普斯
 summary: "英国比较教育学者，牛津大学荣休教授；与奥克斯共同提出政策借用四阶段循环模型与跨国吸引力结构性类型学，为分析跨国教育政策流动与本土情境重构奠定了经典分析框架。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 14

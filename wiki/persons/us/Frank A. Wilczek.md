@@ -8,6 +8,8 @@ aliases:
   - 维尔切克
 summary: "美籍理论物理学家、2004 年诺贝尔物理学奖得主，麻省理工学院物理学讲席教授；在强相互作用量子色动力学中开创性发现渐近自由现象。其在 1973 年入行发表的第一项学术论著即斩获诺贝尔奖（相对位次处于序列开端），在科学学中与约翰·芬恩年逾七旬的晚期突破形成极值对照，成为证实重大突破可在全生命周期发表序列任意位次随机涌现的标志性范例。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 14

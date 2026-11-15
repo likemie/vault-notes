@@ -3,6 +3,8 @@ title: Rom Harré
 aliases: [Harré, 罗姆·哈雷]
 summary: "英国社会心理学家和哲学家，人因取向的创始人，将人视为制定计划、自我监控的行动者，对社会行为研究和教育研究方法论有深远影响。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 6

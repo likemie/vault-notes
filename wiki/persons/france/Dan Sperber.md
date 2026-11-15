@@ -6,6 +6,8 @@ aliases:
   - 斯珀伯
 summary: "法国认知科学家与哲学家，关联理论与认识论警觉理论创立者，提出人类沟通中的内容、信源与接收者审验防御机制以及理性的论辩互动演化模型。"
 type: person
+cssclasses:
+  - person-page
 nationality: france
 person_region: "france"
 person_related_count: 19

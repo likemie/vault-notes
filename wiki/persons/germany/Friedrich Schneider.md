@@ -5,6 +5,8 @@ aliases:
   - 弗里德里希·施奈德
 summary: "德国天主教教育学家，德语区比较教育学奠基人，曾任教于科隆教育学院、萨尔茨堡大学与慕尼黑大学；创办《国际教育学评论》，创立教育驱动力理论（Triebkräfte），与尼古拉斯·汉斯共同开创 20 世纪前中期欧洲宏大历史文化全景与精神科学范式。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 29

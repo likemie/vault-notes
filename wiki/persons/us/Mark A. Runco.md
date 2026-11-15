@@ -7,6 +7,8 @@ aliases:
   - Mark Runco
 summary: "美国创造力心理学家，Creativity Research Journal 创刊主编，在发散思维测量、创造潜能理论与创造力评估领域做出了系统性学术贡献"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 18

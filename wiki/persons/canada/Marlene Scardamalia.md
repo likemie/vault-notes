@@ -6,6 +6,8 @@ aliases:
   - Scardamalia, M.
 summary: "加拿大著名学习科学家与教育心理学家，多伦多大学安大略教育研究院杰出教授，知识建构理论与认识能动性概念的开创者"
 type: person
+cssclasses:
+  - person-page
 nationality: canada
 person_region: "canada"
 person_related_count: 25

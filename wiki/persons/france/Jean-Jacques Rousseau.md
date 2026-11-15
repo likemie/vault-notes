@@ -6,6 +6,8 @@ aliases:
   - 让-雅克·卢梭
 summary: "法国启蒙思想家与教育哲学家，以《爱弥儿》《社会契约论》奠定现代儿童中心教育与民主政治哲学，主张消极教育、内在成长节律与公意学说"
 type: person
+cssclasses:
+  - person-page
 nationality: france
 person_region: "france"
 person_related_count: 16

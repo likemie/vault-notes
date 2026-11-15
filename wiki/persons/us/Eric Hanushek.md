@@ -6,6 +6,8 @@ aliases:
   - Hanushek
 summary: "美国著名教育经济学家，斯坦福大学胡佛研究所高级研究员，教育生产函数与教师效能微观计量分析的奠基人，以揭示学校资源投入与宏观成绩脱节、确立教师教学质量对学生长期成长与国家经济增长决定性影响的研究闻名于世。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 23

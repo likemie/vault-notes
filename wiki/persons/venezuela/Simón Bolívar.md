@@ -9,6 +9,8 @@ aliases:
   - Simón José Antonio de la Santísima Trinidad Bolívar Palacios
 summary: "拉美独立运动领袖，大哥伦比亚共和国首任总统，被尊称为“解放者”；安德森在《想象的共同体》中将其作为剖析土生白人民族主义双重属性的核心案例，揭示其作为种植园贵族防范黑奴起义的自保机制，以及其泛美洲统一蓝本被在地化报纸市场与行政区划瓦解的历史根源"
 type: person
+cssclasses:
+  - person-page
 nationality: venezuela
 person_region: "venezuela"
 person_related_count: 12

@@ -5,6 +5,8 @@ aliases:
 - Neurath, O.
 summary: "奥地利哲学家、社会学家和经济学家，维也纳学派核心成员，以反基础主义实证主义、纽拉特原则（Neurath-principle）和百科全书主义著称，在迪昂与蒯因之间构成不完全决定性论题发展的重要桥梁"
 type: person
+cssclasses:
+  - person-page
 nationality: austria
 person_region: "austria"
 person_related_count: 15

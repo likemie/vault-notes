@@ -9,6 +9,8 @@ aliases:
   - G. Bereday
 summary: "哥伦比亚大学师范学院比较教育学讲座教授，《比较教育评论》（CER）创刊主编，美国比较教育学会早期会长，提出归纳式四步比较法，是战后历史主义向科学范式过渡的关键桥梁学者与跨国学术网络奠基者。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 40

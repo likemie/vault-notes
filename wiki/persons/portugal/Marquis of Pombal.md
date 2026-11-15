@@ -7,6 +7,8 @@ aliases:
   - Marquês de Pombal
 summary: "葡萄牙启蒙专制政治家、首任庞巴尔侯爵（1750–1777年执掌王国大权）。通过坚决驱逐耶稣会、在巴西推行罗马帝国公民权同化实验并严禁歧视性蔑称，同时严格垄断跨大西洋贸易与科英布拉大学法学教育，重塑了葡属帝国的中央集权架构；本尼迪克特·安德森以其帝国治理政策作为透视巴西维系政治统一与单一帝国经验的对照坐标。"
 type: person
+cssclasses:
+  - person-page
 nationality: portugal
 person_region: "portugal"
 person_related_count: 9

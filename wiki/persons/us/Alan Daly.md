@@ -7,6 +7,8 @@ aliases:
   - Daly, A.
 summary: "美国加利福尼亚大学圣迭戈分校教育研究系杰出教授，教育社会网络分析与证据流动研究领军学者，率先将社会网络理论系统引入学校组织改进与学区领导力，揭示高利害问责下关系空间与信任网络对知识动员的决定性影响，并联合设计了研究学习共同体基线调查问卷"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 28

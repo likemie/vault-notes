@@ -5,6 +5,8 @@ aliases:
   - Marianne A. Larsen
 summary: "加拿大比较教育与教育史学家，西安大略大学荣休教授，曾任比较与国际教育学会（CIES）会长，福柯谱系学与空间理论在比较教育中的代表学者；以 1955–1994 年核心期刊严密文献计量实证确证比较教育陷入“历史健忘症”，终身倡导通过后结构主义话语分析重构历史比较教育学。"
 type: person
+cssclasses:
+  - person-page
 nationality: canada
 person_region: "canada"
 person_related_count: 21

@@ -6,6 +6,8 @@ aliases:
   - I. Snook
 summary: "新西兰当代著名教育哲学家、梅西大学荣休教授，国际灌输理论与教育伦理学奠基人之一，长期批判新自由主义教育市场化、教育凭证与教育绩效主义，主张教育研究必须维护公共价值与教师专业反思。"
 type: person
+cssclasses:
+  - person-page
 nationality: new-zealand
 person_region: "new-zealand"
 person_related_count: 29

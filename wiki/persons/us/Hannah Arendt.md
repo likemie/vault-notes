@@ -5,6 +5,8 @@ aliases:
   - 阿伦特
 summary: "德裔美籍著名政治哲学家、思想家，20世纪最具原创性与批判力的政治理论家之一；以极权主义起源、公共领域与行动理论、艾希曼审判中的“平庸之恶”论断以及对思维与判断力的哲学阐释闻名于世，对现代民主理论、政治伦理及教育哲学产生了划时代影响。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 24

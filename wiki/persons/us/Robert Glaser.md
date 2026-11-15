@@ -5,6 +5,8 @@ aliases:
   - 格拉泽
 summary: "美国教育心理学与教学设计理论家，程序化教学与标准参照测验奠基人，其输入—输出与矫正性反馈系统模型构成了《可见的学习》等实证教学理论的行为主义思想源流"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 25

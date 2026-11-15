@@ -7,6 +7,8 @@ aliases:
   - Diane R. Elson
 summary: "英国著名女性主义经济学家、社会学家，埃塞克斯大学社会学与经济学荣休教授，列昂惕夫经济学奖得主。作为女性主义宏观经济学与性别反应型预算的先驱，其研究深刻揭示宏观经济政策中隐蔽的性别偏见；批判国际组织在推行知识经济议程时，将女性教育与赋权矮化为“释放未充分利用的劳动力潜能”与“提高资源配置效率”的工具主义收编。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 16

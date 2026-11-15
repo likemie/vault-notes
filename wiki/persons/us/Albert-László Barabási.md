@@ -8,6 +8,8 @@ aliases:
   - Albert-Laszlo Barabasi
 summary: "匈牙利裔美籍复杂网络科学家与统计物理学家，美国东北大学复杂网络研究中心主任、哈佛大学医学院医学系教授；无标度网络与优先连接机制（BA 模型）提出者，网络科学与当代科学学（Science of Science）的奠基领军学者，建立了学术生涯 Q 模型与随机影响法则，与王大顺合著《科学学》专著。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 31

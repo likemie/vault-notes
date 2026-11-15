@@ -7,6 +7,8 @@ aliases:
   - 阿奇舒勒
 summary: "苏联发明家、工程师与创造力科学家，发明问题解决理论（TRIZ）的开创者与阿奇舒勒发明学派奠基人。通过系统分析数十万项国际高阶专利，打破了创新依赖不可控天赋的神秘主义，提炼出技术系统演化八大规律、理想最终解（IFR）、39×39 矛盾矩阵及 40 个通用发明原理，确立了发明创新的算法化与可教导性体系。"
 type: person
+cssclasses:
+  - person-page
 nationality: "russia"
 person_region: "russia"
 person_related_count: 15

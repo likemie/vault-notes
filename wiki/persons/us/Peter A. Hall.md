@@ -7,6 +7,8 @@ aliases:
   - Peter Hall
 summary: "加拿大与美国政治学家，哈佛大学欧洲研究讲席教授，当代比较政治学与历史制度主义核心奠基人；提出新制度主义三大学派经典分类，与索斯基斯开创资本主义多样性理论；在制度变迁研究中倡导将制度视为承载权力偏向的分配工具，推动历史制度主义与理性选择学派的理论对话与微观能动性整合。"
 type: person
+cssclasses:
+  - person-page
 nationality: "us"
 person_region: "us"
 person_related_count: 27

@@ -6,6 +6,8 @@ aliases:
   - Robert J. Marzano
 summary: "美国教育学者，循证教育与教学改革先驱，首创将元分析应用于学校效能研究，提出理论驱动的元综合框架及学校效能五层级模型"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 22

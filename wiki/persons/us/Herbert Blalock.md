@@ -5,6 +5,8 @@ aliases:
   - 赫伯特·布莱洛克
 summary: "美国社会学家和计量方法论学者，因果建模和社会科学统计方法的先驱，推动将口头理论转化为形式化因果模型以澄清变量间关系"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 8

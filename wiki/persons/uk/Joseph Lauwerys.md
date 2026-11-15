@@ -5,6 +5,8 @@ aliases:
   - 约瑟夫·劳韦里斯
 summary: "英国首任比较教育教授（1947），欧洲比较教育学会首任主席（1961–1967），UNESCO 早期顾问，致力于国际理解、民主理想和科学人道主义，体现理性主义传统对比较教育的奠基与塑造。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 35

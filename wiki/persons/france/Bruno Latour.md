@@ -5,6 +5,8 @@ aliases:
   - 布鲁诺·拉图尔
 summary: "法国著名哲学家、人类学家与科学社会学家，科学技术学（STS）与行动者网络理论（ANT）的核心奠基人；提出广义对称性、铭文装置、计算中心、不变移动物与重新组装社会理论，为现代教育政策拓扑学、数据基础设施与远处治理研究提供了基础本体论与方法论工具。"
 type: person
+cssclasses:
+  - person-page
 nationality: france
 person_region: "france"
 person_related_count: 30

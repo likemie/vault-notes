@@ -7,6 +7,8 @@ aliases:
   - 萨义德
 summary: "美籍巴勒斯坦裔文学理论家与文化批评家，后殖民理论奠基人，揭示西方学术与东方主义叙述背后的权力建构机制，并阐明现代语文学确立语言自主性的世俗化历程"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 12

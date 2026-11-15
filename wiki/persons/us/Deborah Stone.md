@@ -5,6 +5,8 @@ aliases:
   - 黛博拉·斯通
 summary: "美国著名政策学者，布兰代斯大学公共政策荣休教授，政策悖论与解释主义政策分析学派代表人物；其代表作《政策悖论：政治决策的艺术》系统批判了以纯粹经济学和技术理性为核心的工程主义政策模型，确立了政策问题界定的战略性表征、因果故事叙事与量化指标符号化动员的建构主义分析范式。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 20

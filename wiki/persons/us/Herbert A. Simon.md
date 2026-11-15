@@ -7,6 +7,8 @@ aliases:
   - 赫伯特·西蒙
 summary: "美国政治学家、经济学家与认知科学家，诺贝尔经济学奖与图灵奖得主；开创有限理性理论并奠基早期符号人工智能，其决策模型与技术预言对理解专业实践认知局限及计算智能演化具有深远影响。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 20

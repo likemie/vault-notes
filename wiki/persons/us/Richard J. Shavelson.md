@@ -8,6 +8,8 @@ aliases:
   - Richard Shavelson
 summary: "美国当代著名教育心理学家与心理测量学家，斯坦福大学教育学院名誉教授、前院长，AERA 前主席，概化理论奠基人之一，提出沙维尔森自我概念多层级模型，开创高等教育批判性思维评估并系统阐释教育知识中介理论。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 36

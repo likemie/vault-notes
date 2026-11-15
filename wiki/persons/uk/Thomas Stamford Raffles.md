@@ -8,6 +8,8 @@ aliases:
   - Raffles, T. S.
 summary: "英国殖民行政长官、东方学家、新加坡开埠者。1811至1815年英国占领爪哇期间担任副总督，开创由欧洲殖民官员系统发掘、测绘并重构本土古代文明遗产的东方学先河；1814年组织发掘婆罗浮屠并清理丛林覆盖，1817年出版奠基性两卷本巨著《爪哇史》。莱佛士通过将古代宏伟古迹与当代贫弱土著对照，开创了殖民考古学与东方学以学术威权论证帝国保护统治合法性的经典范式。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 14

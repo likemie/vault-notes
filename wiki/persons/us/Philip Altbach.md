@@ -6,6 +6,8 @@ aliases:
   - 阿特巴赫
 summary: "美国比较教育与国际高等教育泰斗，波士顿学院国际高等教育中心（CIHE）创办主任，曾任《比较教育评论》（CER）主编与比较与国际教育学会（CIES）会长，开创全球中心-边缘学术依附理论与高等教育知识生产体系分析，权威定性 1970 年代后比较教育多元范式转向。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 31

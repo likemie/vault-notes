@@ -6,6 +6,8 @@ aliases:
   - "George A. Kelly"
 summary: "美国临床心理学家，个人建构理论的创始人，repertory grid 技术的发明者。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 10

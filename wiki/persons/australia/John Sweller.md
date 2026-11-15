@@ -4,6 +4,8 @@ aliases:
   - 约翰·斯威勒
 summary: "澳大利亚认知与教育心理学家，新南威尔士大学名誉教授，认知负荷理论（CLT）开创者。其基于工作记忆局限性主张显性直接教学的必要性，并批判极简指导与探究学习；其理论深刻影响全球教学设计，并在当代英澳教育政策与循证科学教学论战中引发系统交锋"
 type: person
+cssclasses:
+  - person-page
 nationality: australia
 person_region: "australia"
 person_related_count: 33

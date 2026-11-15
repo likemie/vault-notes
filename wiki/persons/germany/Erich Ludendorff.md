@@ -6,6 +6,8 @@ aliases:
   - 鲁登道夫
 summary: "一战时期德国陆军高级将领、军事理论家，著有《总体战》（Der totale Krieg），主张战争是动员举国国民与工业资源的生死较量，将平民与生产设施界定为合法打击目标。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 6

@@ -5,6 +5,8 @@ aliases:
   - 多琳·马西
 summary: "英国人文地理学家，关系性空间与权力几何理论代表人物，为教育研究理解高教空间、流动与地缘政治提供关键语言。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 19

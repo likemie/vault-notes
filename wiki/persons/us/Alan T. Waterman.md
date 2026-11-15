@@ -7,6 +7,8 @@ aliases:
   - 沃特曼
 summary: "美国物理学家、海军研究办公室（ONR）前首席科学家、美国国家科学基金会（NSF）首任主任（1950–1963）；战后美国民事基础科学资助体系的奠基人，领导初创时期的基金会顶住国会削减与五角大楼计划性合同垄断，开创联邦研究生与博士后奖学金体系，将 NSF 建设为全美研究型大学基础科学研究的“首席赞助商”。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 18

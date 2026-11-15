@@ -8,6 +8,8 @@ aliases:
   - T. S. Prøitz
 summary: "挪威著名教育科学学者，东南挪威大学（USN）教育科学系教授，北欧教育政策评估与研究-实践伙伴关系（RPP）前沿专家；主持瑞典国家级发展、学习与研究试点项目（ULF）五年跟踪评估；批判传统填补鸿沟隐喻与强行同化迷思，系统提出以承认专业异质性为前提的第三空间话语（Third Space Discourse）协作理论，确立一线教师作为审议把关专家的角色定位，为循证教育实践伙伴关系提供了深厚的方法学与组织社会学基石。"
 type: person
+cssclasses:
+  - person-page
 nationality: norway
 person_region: "norway"
 person_related_count: 34

@@ -6,6 +6,8 @@ aliases:
   - Chuang Tzu
 summary: "战国道家思想家，以庖丁解牛等寓言阐发通过专注实践达到精通的理念，其思想为东亚学习传统中熟能生巧提供了哲学基础"
 type: person
+cssclasses:
+  - person-page
 nationality: china
 person_region: "china"
 person_related_count: 5

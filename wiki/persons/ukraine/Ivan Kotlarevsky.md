@@ -7,6 +7,8 @@ aliases:
   - Ivan Petrovych Kotlyarevsky
 summary: "乌克兰近代民族文学奠基人、剧作家与社会活动家；1798年发表取材于民间生活的仿讽史诗《伊尼特》，开创性地将长期被沙俄官方蔑视为粗俗“小俄罗斯乡巴佬方言”的乌克兰民间口语升格为风趣、深刻的书面文学体裁，引发全社会轰动，直接激发了1804年哈尔科夫大学的文学繁荣与1819年首部乌克兰语法的诞生。"
 type: person
+cssclasses:
+  - person-page
 nationality: "ukraine"
 person_region: "ukraine"
 person_related_count: 7

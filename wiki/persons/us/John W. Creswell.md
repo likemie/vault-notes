@@ -6,6 +6,8 @@ aliases:
   - 约翰·克雷斯维尔
 summary: "美国当代著名混合方法与质性研究方法论学者，系统确立混合方法作为第三范式的美学设计类型学与联合展示分析规程，提出质性研究五路径比较框架。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 45

@@ -6,6 +6,8 @@ aliases:
   - "Yang, R."
 summary: "香港比较教育与高等教育学者，香港大学教育学院讲座教授、前院长。开创性系统构建中国涉外高等教育运作机制与多维软实力资源的解释分析传统，长期致力于现代大学的中国模式与跨文明对话研究。"
 type: person
+cssclasses:
+  - person-page
 nationality: "china"
 person_region: "china"
 person_related_count: 33

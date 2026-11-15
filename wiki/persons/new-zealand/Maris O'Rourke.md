@@ -7,6 +7,8 @@ aliases:
   - Maris L. O'Rourke
 summary: "新西兰教育政策家与跨国治理专家，新西兰首任女性教育总监（1989–1995），领导实施了轰动国际教育界的“明日学校”（Tomorrow Schools）激进分权与学校自治改革；1995–2001 年出任世界银行首任教育总监，紧密配合行长沃尔芬森的“知识银行”战略，主持创建了全行首个教育知识管理系统（EKMS）与教育咨询服务部（EAS），是将新自由主义教育管理范式与知识中介建制深度植入跨国多边机构的关键政策企业家。"
 type: person
+cssclasses:
+  - person-page
 nationality: new-zealand
 person_region: "new-zealand"
 person_related_count: 19

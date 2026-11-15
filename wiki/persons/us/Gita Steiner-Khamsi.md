@@ -6,6 +6,8 @@ aliases:
   - 吉塔·斯泰纳-哈姆西
 summary: "美国比较教育学者，政策借用与借出政治分析代表人物，倡导比较教育口述史与学科演进概念化，为教育转移把注意力从政策内容转向能动者、利益与流通过程提供分析框架。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 46

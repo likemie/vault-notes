@@ -8,6 +8,8 @@ aliases:
   - Fernández de Lizardi
 summary: "墨西哥作家、报人与启蒙思想家，笔名“墨西哥思想家”，代表作《糊涂鹦鹉》（El Periquillo Sarniento, 1816）被公认为拉丁美洲第一部现代长篇小说。本尼迪克特·安德森在《想象的共同体》中将其小说流浪汉叙事结构视为早期民族共同体表象的典范，论证了主角在殖民地医院、监狱与官僚机构中的漫游如何首次将墨西哥描摹为一个界限清晰、内部共时连接的均质社会地理空间。"
 type: person
+cssclasses:
+  - person-page
 nationality: mexico
 person_region: "mexico"
 person_related_count: 4

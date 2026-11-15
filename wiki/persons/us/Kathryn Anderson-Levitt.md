@@ -5,6 +5,8 @@ aliases:
   - Anderson-Levitt, K. M.
 summary: "美国教育人类学家与比较教育学者，密歇根大学迪尔伯恩分校荣休教授、加州大学洛杉矶分校兼任教授。主编里程碑著作《本土意义，全球学校教育》，通过美、法、几内亚跨国多地点课堂阅读教学民族志，系统论证了全球文化规范与地方教师文化中介的辩证关系。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 17

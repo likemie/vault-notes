@@ -6,6 +6,8 @@ aliases:
   - 班杜拉
 summary: "加拿大裔美国心理学家，社会学习理论（后演化为社会认知理论）的创立者，提出交互决定论和自我效能概念，对教育心理学和行为科学研究产生深远影响"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 7

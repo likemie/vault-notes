@@ -8,6 +8,8 @@ aliases:
   - 本笃
 summary: "中世纪早期基督教隐修院制度奠基人，西方修道主义之父，《圣本笃会规》制定者。在《技术共和国》第16章中，卡普与扎米斯卡援引教宗额我略一世记述的圣本笃面对政敌身亡时沉痛哀悼并严厉训诫门徒不得幸灾乐祸的典故，以此阐明成熟政治文明与治国理政应具备的审慎伦理与宽容底线，批判现代社会沉溺于道德猎巫与替罪羊献祭的狂热心理。"
 type: person
+cssclasses:
+  - person-page
 nationality: italy
 person_region: "italy"
 person_related_count: 8

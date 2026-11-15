@@ -5,6 +5,8 @@ aliases:
   - 庄腾腾
 summary: "中国教育研究者，中国教育实证研究文献计量整理者，为理解本土证据生产格局与研究趋势提供基础资料。"
 type: person
+cssclasses:
+  - person-page
 nationality: china
 person_region: "china"
 person_related_count: 7

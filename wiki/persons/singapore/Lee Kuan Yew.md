@@ -6,6 +6,8 @@ aliases:
   - Harry Lee Kuan Yew
 summary: "新加坡建国总理（1959–1990年在任）。以千年期战略决断、市场化高薪养廉文官制、讲华语运动与儒家君子政德著称，将极端资源匮乏小岛建设为全球高科技与金融枢纽；基辛格评价其领导力终结了历史由形势还是性格塑造的争论，被卡普与扎米斯卡视为技术共和国兼具制度理性与文化德性的治国典范。"
 type: person
+cssclasses:
+  - person-page
 nationality: singapore
 person_region: "singapore"
 person_related_count: 25

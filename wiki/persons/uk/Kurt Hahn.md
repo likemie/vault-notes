@@ -5,6 +5,8 @@ aliases:
   - Hahn, K.
 summary: "德裔英国教育家，以共同服务、挑战性活动与跨文化生活把态度教育转化为行动，并推动大西洋学院及联合世界书院形成。"
 type: person
+cssclasses:
+  - person-page
 nationality: uk
 person_region: "uk"
 person_related_count: 6

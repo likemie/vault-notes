@@ -8,6 +8,8 @@ aliases:
   - Heisenberg, W.
 summary: "德国理论物理学家、量子力学奠基人之一、1932 年诺贝尔物理学奖得主；开创矩阵力学并提出不确定性原理，在科学学与创新认知研究中被作为概念型创新者的代表范例，用于阐明先验演绎公理思维在青年期打破传统范式的独特优势。"
 type: person
+cssclasses:
+  - person-page
 nationality: germany
 person_region: "germany"
 person_related_count: 9

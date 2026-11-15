@@ -8,6 +8,8 @@ aliases:
   - Milojevic, S.
 summary: "信息科学家与科学计量学家，印第安纳大学布鲁明顿分校信息与计算学院教授、科学与技术信息研究中心主任；长期致力于科学团队规模动态学、科学文献计量增长规律与学者学术生涯模型，提出了著名的核心团队与扩展团队双模演化模型。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 13

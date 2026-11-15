@@ -6,6 +6,8 @@ aliases:
   - 佩罗
 summary: "17世纪法国古典主义时期的作家、法兰西学院院士、皇家建筑总监助理；1687年发表诗作《路易大帝时代》，公开主张现代法国在科学、艺术与文学成就上已全面超越古希腊与古罗马，由此在法兰西学院引爆了震动全欧思想界的“古今之争”（Querelle des Anciens et des Modernes），成为“现代派”领袖；这一争论打破了古典古代绝对不可逾越的神圣权威，为启蒙时代历史进步观念与现代世俗文化的自主性确立了关键合法性。"
 type: person
+cssclasses:
+  - person-page
 nationality: "france"
 person_region: "france"
 person_related_count: 12

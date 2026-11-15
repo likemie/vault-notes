@@ -7,6 +7,8 @@ aliases:
   - 德·博诺
 summary: "英国/马耳他认知学者、心理学家与思维技术先驱，侧向思维（Lateral Thinking）与六顶思考帽体系的开创者。主张将大脑理解为自组织模式形成的非线性神经网络，提出突破逻辑思维定势的“激发与运动（PO）”、随机输入及侧向谜题等外显心智工具，并创立了全球应用最为广泛的 CoRT 思维训练课程。"
 type: person
+cssclasses:
+  - person-page
 nationality: "uk"
 person_region: "uk"
 person_related_count: 15

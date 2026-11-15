@@ -7,6 +7,8 @@ aliases:
   - 坎德尔
 summary: "哥伦比亚大学师范学院比较教育学讲座教授，《教育年鉴》（1924–1944）创办主编，20世纪比较教育历史-哲学传统泰斗，提出力量与因素分析框架及民族性格理论。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 60

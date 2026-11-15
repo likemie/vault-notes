@@ -7,6 +7,8 @@ aliases:
   - Eisenhower, D. D.
 summary: "美国第34任总统、陆军五星上将，在二战中担任盟军最高统帅；冷战时期重组总统科学顾问委员会并签署《国防教育法》，同时在1961年告别演说中预警军工复合体与科技精英俘获公共政策的双重宪政危险"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 20

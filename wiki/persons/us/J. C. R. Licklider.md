@@ -8,6 +8,8 @@ aliases:
   - Licklider, J. C. R.
 summary: "美国心理学家与计算机科学先驱，DARPA信息处理技术办公室（IPTO）首任主任，人机共生构想提出者；深刻推动了阿帕网、交互式计算与早期人工智能研究的发展，开创了国防战略资助与前沿计算突破紧密结合的科研范式。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 13

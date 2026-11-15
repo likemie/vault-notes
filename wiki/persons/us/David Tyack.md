@@ -4,6 +4,8 @@ aliases:
   - david-tyack
 summary: "美国当代著名教育史学家、斯坦福大学教育学与历史学荣休教授；与拉里·库班合著教育史里程碑著作《修补走向乌托邦》，开创‘学校文法’理论，系统揭示了公立学校深层组织结构与惯性文法对宏观教育改革政策的抗变机制。"
 type: person
+cssclasses:
+  - person-page
 subtype: scholar
 person_region: "us"
 person_related_count: 11

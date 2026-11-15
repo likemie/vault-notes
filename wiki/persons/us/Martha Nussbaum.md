@@ -6,6 +6,8 @@ aliases:
   - Martha Craven Nussbaum
 summary: "当代美国著名哲学家、芝加哥大学法学与哲学杰出贡献教授；倡导世界主义与可行能力方法，曾撰文将爱国主义自豪感斥为“道德上的危险”，主张首要效忠全人类共同体。"
 type: person
+cssclasses:
+  - person-page
 nationality: us
 person_region: "us"
 person_related_count: 12
