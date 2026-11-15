@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -48,6 +48,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Jerome E. Schnee]]"
+  - "[[Georg Lukács]]"
   - "[[Pierre Bourdieu]]"
   - "[[Ann Swidler]]"
   - "[[Eric Hobsbawm]]"
@@ -91,7 +92,7 @@ updated: 2026-11-15
 >   - **1903** 辞去海德堡正式教职，以荣誉教授身份退居私人学者，依靠家族资产开展独立研究（Lepsius, 2016）。
 > - **1904–1914 学术复兴、跨洋考察与学会创立**
 >   - **1904** 与雅菲（Edgar Jaffé）、桑巴特（Werner Sombart）共同接手《社会科学与社会政策文库》主编，发表《社会科学和社会政策知识的“客观性”》与《新教伦理与资本主义精神》第一部分；秋季赴美考察工业社区并会见杜波依斯（W. E. B. Du Bois）（Scaff, 2013；Kaube, 2014, pp. 210–215）。
->   - **1909–1910** 与滕尼斯（Ferdinand Tönnies）、齐美尔（Georg Simmel）等共同创立德国社会学学会（DGS）；海德堡周日沙龙汇集特勒尔奇、雅斯贝尔斯、卢卡奇与布洛赫等学者（Müller & Sigmund, 2014, p. 4；Kaesler, 2014, p. 677）。
+>   - **1909–1910** 与滕尼斯（Ferdinand Tönnies）、齐美尔（Georg Simmel）等共同创立德国社会学学会（DGS）；海德堡周日沙龙汇集特勒尔奇、雅斯贝尔斯、[[Georg Lukács|卢卡奇]]与布洛赫等学者（Müller & Sigmund, 2014, p. 4；Kaesler, 2014, p. 677）。
 > - **1914–1920 战时反思、魏玛制宪与两篇天职演讲**
 >   - **1914–1918** 初期任海德堡后备军医院纪律军官；一战后期积极撰文主张议会民主化，反对盲目兼并（Bruhns, 2017）；1917 年发表《以学术为业》。
 >   - **1918–1919** 参与魏玛宪法起草咨询；加入德国民主党（DDP）；参加凡尔赛和谈代表团；1919 年发表《以政治为业》，同年接任慕尼黑大学教席（Mommsen, 1988；Kaesler, 2014, pp. 890–892）。

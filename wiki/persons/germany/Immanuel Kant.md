@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 44
+person_related_count: 48
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Moral Dualism]]"
   - "[[Alienation]]"
+  - "[[Sittlichkeit]]"
   - "[[Certainty of Knowledge]]"
   - "[[Mind and Its Wonders]]"
   - "[[Realism in International Relations]]"
@@ -67,6 +68,8 @@ related_persons:
   - "[[Alexander Gottlieb Baumgarten]]"
   - "[[Jin Li]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
+  - "[[Theodor Adorno]]"
+  - "[[Hans-Georg Gadamer]]"
   - "[[Jean-Jacques Rousseau]]"
   - "[[Plato]]"
   - "[[René Descartes]]"
@@ -79,6 +82,7 @@ related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch05]]"
 confidence: high
 status: draft
 created: 2026-05-22
@@ -147,7 +151,7 @@ updated: 2026-11-15
 
 > [!influence-path] 影响路径
 > - **认识论与学习科学路径** 康德的“哥白尼式革命”彻底击碎了心灵被动接受印记的白板说，提出心智先天地配备加工经验框架的主动建构观；[[Jin Li\|李瑾]]（[[Argument_Li_2012_Cambridge\|Li, 2012]]）指出康德在西方 2500 年认识论之争中提供了融通[[Empiricism\|经验论]]与唯理论的典范，其范畴加工模型（“佩戴玫瑰色眼镜看世界”）构成了现代[[Cognitive Constructivism\|认知建构主义]]与儿童概念认知科学的重要思想先声。[[Argument_Li_2012_Cambridge\|Li (2012, pp. 25–26, 30)]]
-> - **哲学美学范式奠基路径** 康德先在 1764 年《论优美感与[[The Sublime|崇高]]感》中从人类学与道德心理学切入，继而在 1790 年《判断力批判》中正式确立美学作为独立学科的首个强范式：以[[Judgment of Taste|鉴赏判断]]四重契机与[[Disinterested Pleasure|无功利愉悦]]剥离美与概念认知的绑缚，以[[Aesthetic Idea|审美理念]]开启现代艺术不可穷尽阐释的诠释学传统，以[[Genius|天才]]规定“自然借以向艺术立法”，以数学的崇高与力学的崇高将[[The Sublime|崇高]]收归主体超感性理性能力，并以“美作为道德的象征”重新在审美与伦理之间架设桥梁；其美学形式主义、主体化转向及对艺术真理性诉求的剥离，成为[[Georg Wilhelm Friedrich Hegel|黑格尔]]之前乃至阿多诺与伽达默尔等后世美学着力回应的核心起点。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. ix–x, 11, 17–20)]]；[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 21–41)]]
+> - **哲学美学范式奠基路径** 康德先在 1764 年《论优美感与[[The Sublime|崇高]]感》中从人类学与道德心理学切入，继而在 1790 年《判断力批判》中正式确立美学作为独立学科的首个强范式：以[[Judgment of Taste|鉴赏判断]]四重契机与[[Disinterested Pleasure|无功利愉悦]]剥离美与概念认知的绑缚，以[[Aesthetic Idea|审美理念]]开启现代艺术不可穷尽阐释的诠释学传统，以[[Genius|天才]]规定“自然借以向艺术立法”，以数学的崇高与力学的崇高将[[The Sublime|崇高]]收归主体超感性理性能力，并以“美作为道德的象征”重新在审美与伦理之间架设桥梁；其美学形式主义、主体化转向及对艺术真理性诉求的剥离，成为[[Georg Wilhelm Friedrich Hegel|黑格尔]]之前乃至[[Theodor Adorno|阿多诺]]与[[Hans-Georg Gadamer|伽达默尔]]等后世美学着力回应的核心起点。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. ix–x, 11, 17–20)]]；[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 21–41)]]
 > - **国际关系英国学派与[[Revolutionism\|革命主义]]传统** 马丁·怀特（Martin Wight, 1992）在国际理论三大传统中将康德确立为“革命主义（Revolutionism）”传统的始祖，与马基雅维利的现实主义、格老秀斯的理性主义并立；康德将普遍的人类共同体（Universal Human Community）确立为国际关系的终极实体，超越了主权国家的孤立视角，倡导消除苦难、追求世界大同与[[Perpetual Peace\|永久和平]]的道德激情。[[Argument_Klerides_2023_CE\|Klerides (2023, p. 418)]]
 > - **比较教育学发端期的启蒙精神纽带** 卡洛扬纳基与卡扎米亚斯（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009]]）考证，康德在 1784 年论著中阐明的“启蒙即勇敢运用理性、走出未成熟状态”的自主性命题，对学科始祖朱利安（[[Marc-Antoine Jullien]]）产生了划时代的思想启蒙；促使朱利安从大革命雅各宾恐怖统治与拿破仑帝国战争的幻灭中抽离，将教育升华为预防政治暴力循环、促进世界和平与全人教化的理性替代方案。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 20, 22–24)]]
 > - **[[Critical Thinking\|批判性思维]]与现代教育哲学** 康德的“Sapere aude!”与定言律令将受教育者从被动服从权威教条中解放出来，奠定了现代[[Critical Thinking\|批判性思维]]、道德自律与民主公民教育的法哲学基座。
@@ -182,7 +186,7 @@ updated: 2026-11-15
 > > - **现实主义批评派（[[Argument_Klerides_2023_CE\|Klerides, 2023]]）** 警惕其将世界划分为“忠于世界秩序者”与“阻碍历史进步者”的绝对[[Moral Dualism|道德二元论]]，指出这一传教性冲动在历史上容易[[Alienation|异化]]为自命正义的霸权干涉与文明优越论。[[Argument_Klerides_2023_CE\|Klerides (2023, pp. 418–419)]]
 
 > [!critique] 形式主义空洞批判
-> [[Georg Wilhelm Friedrich Hegel\|黑格尔]]与现代伦理学派批评康德的“定言律令”陷入纯粹的形式主义；其绝对命令要求不含矛盾的普遍化，但脱离了具体历史情境、社会关系与伦理生活（*Sittlichkeit*），在面临复杂伦理冲突时往往难以提供切实的实质性指引。
+> [[Georg Wilhelm Friedrich Hegel\|黑格尔]]与现代伦理学派批评康德的“定言律令”陷入纯粹的形式主义；其绝对命令要求不含矛盾的普遍化，但脱离了具体历史情境、社会关系与[[Sittlichkeit|伦理生活]]（*Sittlichkeit*），在面临复杂伦理冲突时往往难以提供切实的实质性指引。
 
 > [!warning] 未解问题与边界
 > 康德严格划分“现象界（因果必然性支配）”与“本体界（自由意志支配）”，导致科学实证因果律与道德自由意志在认识论上处于永久断裂状态；如何打破物自体不可知论的悬隔，始终是德国古典哲学与后康德思想家未竟的焦点课题。

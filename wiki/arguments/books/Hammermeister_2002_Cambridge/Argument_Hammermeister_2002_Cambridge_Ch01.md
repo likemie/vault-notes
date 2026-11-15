@@ -10,9 +10,9 @@ title: "Argument_Hammermeister_2002_Cambridge_Ch01"
 argument_key: "Argument_Hammermeister_2002_Cambridge_Ch01"
 argument_display_title: "The German aesthetic tradition"
 argument_kind: "book-chapter"
-argument_related_count: 28
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 30
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
 book_title: "The German Aesthetic Tradition"
 publisher: "Cambridge University Press"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Aesthetic Education]]"
   - "[[Judgment of Taste]]"
+  - "[[Natural Beauty]]"
   - "[[Aesthetic Idea]]"
   - "[[Genius]]"
   - "[[The Sublime]]"
@@ -51,6 +52,7 @@ related_persons:
   - "[[Moses Mendelssohn]]"
   - "[[René Descartes]]"
   - "[[Plato]]"
+  - "[[Theodor Adorno]]"
   - "[[Aristotle]]"
   - "[[Xenophon]]"
   - "[[Friedrich Schiller]]"
@@ -146,7 +148,7 @@ updated: 2026-11-15
 > - **认知起点缺失概念** 人类认知一端是完全缺乏概念与理性辩护的模糊微小知觉，另一端则是建立在完整概念之上的明晰理性知识（pp. 5, 8）。
 > - **自然演化不存在跳跃** 正如黑夜经由黎明方才引向白昼，自然界从不直接从模糊思想跳跃至明晰思想（*ubi natura non facit saltum ex obscuritate in distinctionem*）（*Aesthetica* §7）（p. 8）。
 > - **混乱认识承担中介功能** [[Sensual Cognition|感性认识]]（即下级认识论 *gnoseologia inferior* 与类似理性的思维艺术 *ars analogi rationis*）恰恰填补了二者之间的空隙，关注它才能避免理性在缺乏感性根基时陷入大量谬误（pp. 7–9）。
-> - **修辞训练塑造完人** 通过理论与修辞学式反复练习将动物亦具备的自然美学转化为优美思维的艺术（*Aesthetica* §§47, 62），使人成为兼顾感性与理性的幸福美学家（*felix aestheticus*），克服忽视感性的残缺哲学家（*philosopher manqué*）之偏狭（pp. 8–9）。
+> - **修辞训练塑造完人** 通过理论与修辞学式反复练习将动物亦具备的[[Natural Beauty|自然美]]学转化为优美思维的艺术（*Aesthetica* §§47, 62），使人成为兼顾感性与理性的幸福美学家（*felix aestheticus*），克服忽视感性的残缺哲学家（*philosopher manqué*）之偏狭（pp. 8–9）。
 
 > [!exegesis]- 解读：感性如何充当认知的“黎明”
 > 鲍姆嘉通以自然界“黑夜必经黎明方能迎来白昼”作比，说明人的认识不可能跳过感性的中间地带直接抵达抽象概念（*Aesthetica* §7）（p. 8）。只埋首抽象推演、忽视感官世界的“干瘪逻辑学家”在生命体验上是残缺的；经过修辞与感知训练的幸福美学家则能同时保有个体对世界的好奇与热爱，以及理性的清晰判断（pp. 8–9）。
@@ -167,7 +169,7 @@ updated: 2026-11-15
 > [!contrast-table|notitle] 鲍姆嘉通美学在全书三维框架下的张力
 > | 分析维度 | 理论主张与文本依据 | 历史张力与理论后果 |
 > |---|---|---|
-> | **本体论维度** | 援引古典 *pulchrum* 理论与莱布尼茨《单子论》，认为美是感性认识的完善，艺术品是比他物更善反映世界目的性统一与和谐的单子镜像（pp. 11–12） | 本体论立场较为保守，尚未脱离莱布尼茨形而上学预设；审美单子观念在 20 世纪西奥多·阿多诺（Theodor W. Adorno）著作中再度复现（pp. 11–12） |
+> | **本体论维度** | 援引古典 *pulchrum* 理论与莱布尼茨《单子论》，认为美是感性认识的完善，艺术品是比他物更善反映世界目的性统一与和谐的单子镜像（pp. 11–12） | 本体论立场较为保守，尚未脱离莱布尼茨形而上学预设；审美单子观念在 20 世纪[[Theodor Adorno\|西奥多·阿多诺]]（Theodor W. Adorno）著作中再度复现（pp. 11–12） |
 > | **认识论维度** | 审美真理保留了经验的直接性、个体性与复杂性，无法被逻辑概念穷尽，构成独立于逻辑真理的认识方式（pp. 12–13） | 成为后来浪漫主义及阿多诺非同一性理论批判逻辑理性的思想先声（p. 13） |
 > | **实践功能维度** | 原初辩护理由是“美学辅助逻辑”、引导人从模糊迈向明晰；但若审美真理自足独立，艺术便无法被降格为逻辑的婢女，而旨在培养平衡感性与理性的全面之人（pp. 12–13） | 实践目的发生自我颠覆：美学从理性主义的辅助工具演变为独立乃至与之形成创造性对立的学科（p. 13） |
 

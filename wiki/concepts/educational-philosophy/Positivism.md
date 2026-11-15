@@ -9,7 +9,7 @@ aliases:
 summary: "一种主张真正知识唯独建立在感官经验、观察与实验基础之上的认识论立场，预设自然与社会遵循同质客观法则；在启蒙发轫期曾从属于全人道德教化与社会改良，而在20世纪演化为追求价值中立与法则概括的统治性实证范式。"
 type: concept
 domain: "educational-philosophy"
-related_count: 147
+related_count: 148
 related_level: 14
 related_stars: "💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -139,6 +139,7 @@ related_persons:
   - "[[Marianne Larsen]]"
   - "[[Francis Bacon]]"
   - "[[Karl Popper]]"
+  - "[[Theodor Adorno]]"
   - "[[Crane Brinton]]"
   - "[[Niklas Luhmann]]"
 related_facts:
@@ -384,7 +385,7 @@ updated: 2026-11-15
 > - **1830–1850 年代 — 孔德确立实证哲学[[Epistemology\|认识论]]总纲** 孔德出版六卷本《实证哲学教程》，系统确立神学—形而上学—实证三阶段法则，确立社会物理学/社会学的独立学科地位与跨领域方法论统一假设。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 113)]]
 > - **20 世纪前半叶 — 逻辑实证主义鼎盛与波普尔[[Falsification\|证伪主义]]超越** 维也纳学派追求经验证实与物理主义统一语言；波普尔（[[Karl Popper]]）提出证伪原则打破归纳证实神话，推动实证主义由粗糙证实走向批判理性主义。
 > - **20 世纪 60 年代 — 比较教育实证[[Scientific Paradigm\|科学范式]]确立与[[Empiricism|唯方法论主义]]盛行** 战后自然科学工程突破与[[Behaviorism|行为主义]]革命共同推动科学化运动达到鼎盛；诺亚与埃克斯坦（Noah & Eckstein）与芝加哥学派（Anderson & Foster）确立可测量假设检验与预测标准，但被图尔敏（Toulmin, 1963）与巴伯（Barber, 1972）批评为迷信单一全能科学方法的“唯方法论主义”（Methodologism）；霍姆斯（[[Brian Holmes]]）则明确将[[Problem Approach|问题法]]界定为拒斥古典实证论的“后相对论社会科学”。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009)]]；[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 53–56)]]；[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–151)]]
-> - **1960s–1980s — 德国社会学“实证主义之争”（[[Positivist Dispute in German Sociology|Positivismusstreit]]）与欧陆反思** 在英美实证量化范式盛行之际，欧陆爆发了以波普尔（批判理性主义）与[[Jürgen Habermas|哈贝马斯]]/阿多诺（[[Critical Theory|批判理论]]）为焦点的德国社会学“实证主义之争”（*Positivismusstreit*）；米特尔指出，该争论连同新马克思主义理论深刻重塑了欧洲比较教育学，解构了实证范式所谓[[Value Neutrality|价值中立]]的假象，迫使学界直面阶级权力与社会再生产机制。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 94)]]
+> - **1960s–1980s — 德国社会学“实证主义之争”（[[Positivist Dispute in German Sociology|Positivismusstreit]]）与欧陆反思** 在英美实证量化范式盛行之际，欧陆爆发了以波普尔（批判理性主义）与[[Jürgen Habermas|哈贝马斯]]/[[Theodor Adorno|阿多诺]]（[[Critical Theory|批判理论]]）为焦点的德国社会学“实证主义之争”（*Positivismusstreit*）；米特尔指出，该争论连同新马克思主义理论深刻重塑了欧洲比较教育学，解构了实证范式所谓[[Value Neutrality|价值中立]]的假象，迫使学界直面阶级权力与社会再生产机制。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 94)]]
 > - **20 世纪 70–80 年代 — 批判政治经济学解构与实证主义意识形态借口暴露** 经济滞胀与第三世界发展危机戳破了实证预测神话；[[Martin Carnoy|马丁·卡诺伊]]（Carnoy, 1983）等激进学者揭露实证功能主义与[[Human Capital Theory|人力资本理论]]本质上充当了资本主义再生产与阶级妥协的“意识形态借口”（ideological alibi），学科走向复数的“[[Comparative Educations\|多个比较教育学]]”。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 68–69)]]；[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 153–154)]]
 > - **1990 年代 — 历史维度流失与“[[Historical Amnesia|历史健忘症]]”诊断** 卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）考证指出，实证唯方法论主义长期霸权导致学科历史研究发文占比跌破 5%，使比较教育学陷入严重的“历史健忘症”（Historical Amnesia），切断了与制度源流的活态联系；卡扎米亚斯力倡复兴历史假说检验以重建历史与科学的综合。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 155–156)]]
 > - **2000–2003 年 — 法定实证主义（Statutory Positivism）垄断尝试与后实证审议纠偏** [[United States Congress|美国国会]]通过《[[Reading Excellence Act|卓越阅读法]]》（REA）与《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）试图以成文法形式将实证主义假设检验与[[Randomised Controlled Trials|随机对照试验]]确立为国家唯一科研标准，甚至在卡斯尔草案（H.R. 4875）中试图贬低[[Qualitative Research|质性研究]]；[[National Research Council|国家研究委员会]]（NRC）发布《教育科学研究》（SRE）确立跨方法六大原则，并在国会听证中捍卫探究方法随问题而定的[[Postpositivism|后实证主义]]常态科学观，最终在《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA 2002）中扭转了法定实证主义的方法清单垄断。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 31–36)]]

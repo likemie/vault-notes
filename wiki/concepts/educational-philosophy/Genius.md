@@ -71,6 +71,12 @@ updated: 2026-11-15
 > [!claim] Hammermeister, K.
 > **意识与无意识的客观化及等级翻转** 在谢林看来，天才使超越个人控制的无意识力量（诗意或“恩典”）加入艺术家有意识的构想与技艺（*Kunst* / *techne*）之中，赋予作品无限可阐释性；谢林强调单纯灵感离开技术与古代大师范例便一事无成，并翻转康德《判断力批判》第 46 节“自然借天才给艺术立法”的层级，论证自然美只是偶然出现，完美艺术才是评判自然美的原则与规范（这一立场至 1802–1805 年《艺术哲学》中进一步由个体天才转向整个民族）。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 71–73, 78)]]
 
+> [!concept-proposition] 命题三｜叔本华将天才界定为克服个人主观性的绝对客观直观，并在主客动静张力中滑向审美精英主义
+> **主观性克服与神秘主义谱系** 区别于狂飙突进运动张扬个性，[[Arthur Schopenhauer|叔本华]]把天才规定为认知摆脱意志、克服一切个人主观性的纯客观状态，并在寂静直观这一点上接续雅各布·伯梅（Jakob Böhme）与埃克哈特大师（Meister Eckhart）等神秘主义传统。
+
+> [!claim] Hammermeister, K.
+> **动静悖论与审美排他性** 叔本华借路德维希·蒂克（Ludwig Tieck）喜剧与歌德诗作建构艺术家与庸人的对立，暗中借用他在[[Johann Gottlieb Fichte|费希特]]哲学中严厉抨击的[[Intellectual Intuition|理智直观]]来描述天才。在界定天才时，他先称之为“主动悬置意志的非凡能力”，而在《关于美与美学的形而上学》论述艺术制作（poiesis）时又承认意志驱动艺术家寻找恰当媒介来传达理念，暴露出被动静观与主动参与的矛盾；同时，艺术鉴赏要求观众具备短暂重温天才直观的心智禀赋，致使最杰出的作品对缺乏该条件的多数人保持晦涩与排他。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 120–121, 231 n.10)]]
+
 ---
 
 > [!warning|limits] 适用局限
@@ -86,8 +92,9 @@ updated: 2026-11-15
 > | [[Aesthetic Autonomy]] | 概念 | 天才摆脱既有规则诗学束缚，是艺术生产层面自主性的重要体现。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 35–36)]] |
 > | [[Immanuel Kant]] | 人物 | 在《判断力批判》第 46 节提出“自然借天才给艺术立法”的哲学家。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 35–36)]] |
 > | [[Friedrich Wilhelm Joseph Schelling]] | 人物 | 在《先验唯心论体系》中以天才结合有意识技艺与无意识诗意恩典，翻转康德的自然美优先论。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, pp. 71–73)]] |
+> | [[Arthur Schopenhauer]] | 人物 | 将天才界定为克服个人主观性的绝对客观直观，并引出审美精英主义与动静悖论。[[Argument_Hammermeister_2002_Cambridge_Ch06\|(Hammermeister, 2002, pp. 120–121)]] |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch02|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]阐明康德如何借助天才概念弥合自然美与人工艺术的张力；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]分析谢林如何把天才界定为技艺与无意识恩典的统一并在中期转向民族主体。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch02|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]阐明康德如何借助天才概念弥合自然美与人工艺术的张力；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]分析谢林如何把天才界定为技艺与无意识恩典的统一并在中期转向民族主体；[[Argument_Hammermeister_2002_Cambridge_Ch06|第 6 章]]考察叔本华如何把天才界定为绝对客观直观与抗衡庸俗的机制，并指出其意志动静悖论与审美精英主义倾向。

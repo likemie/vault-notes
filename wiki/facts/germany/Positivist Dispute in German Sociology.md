@@ -13,7 +13,7 @@ subtype: event
 region: germany
 fact_region: "germany"
 fact_kind: "event"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -45,6 +45,7 @@ related_instruments: []
 related_persons:
   - "[[Wolfgang Mitter]]"
   - "[[Karl Popper]]"
+  - "[[Theodor Adorno]]"
   - "[[Jürgen Habermas]]"
   - "[[Brian Holmes]]"
   - "[[Nicholas Hans]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -65,10 +66,10 @@ updated: 2026-10-30
 > **德国社会学[[Positivism|实证主义]]争论（德语：*Positivismusstreit in der deutschen Soziologie*）**是 20 世纪 60 年代西德社会科学界爆发的里程碑式方法论与[[Epistemology|认识论]]大论战。论战双方围绕社会科学的研究对象、真理标准、[[Value Neutrality|价值中立]]以及社会批判功能展开全面交锋。在比较教育学史上，[[Wolfgang Mitter|沃尔夫冈·米特]]（[[Wolfgang Mitter]]）指出，这场论战构成了 1960 至 1980 年代欧洲比较教育理论[[Paradigm|范式]]演更与认识论分化的根本动力。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94)]]
 
 > [!event-context] 事件背景
-> - **时间跨度 / 核心发源地** 1961 年 10 月发轫于西德蒂宾根举行的德国社会学会工作会议（DGfS-Arbeitstagung），白热化交锋持续至 1970 年代初，1969 年正式汇编出版《德国社会学中的实证主义争论》论文集。
+> - **时间跨度 / 核心发源地** 1961 年 10 月发轫于西德蒂宾根举行的德国社会学会工作会议（DGfS-Arbeitstagung），白热化交锋持续至 1970 年代初，1969 年正式汇编出版《德国社会学中的实证主义争论》文集。
 > - **核心阵营与领军学者**
 >   - **批判理性主义阵营（Critical Rationalism）** 由[[Karl Popper|卡尔·波普尔]]（[[Karl Popper]]）与汉斯·阿尔伯特（Hans Albert）领衔，坚持经验[[Falsification|证伪]]、假说演绎模型、逻辑严密性与[[Critical Dualism|批判二元论]]（事实与规范分离）；
->   - **法兰克福学派[[Critical Theory|批判理论]]阵营（Frankfurt School Critical Theory）** 由狄奥多·阿多诺（Theodor W. Adorno）与[[Jürgen Habermas|尤尔根·哈贝马斯]]（[[Jürgen Habermas]]）领衔，坚持辨证总体性（Totalität）、历史实践批判、事实与价值的辩证交织以及社会科学的解放性功能。
+>   - **法兰克福学派[[Critical Theory|批判理论]]阵营（Frankfurt School Critical Theory）** 由狄奥多·[[Theodor Adorno|阿多诺]]（Theodor W. Adorno）与[[Jürgen Habermas|尤尔根·哈贝马斯]]（[[Jürgen Habermas]]）领衔，坚持辨证总体性（Totalität）、历史实践批判、事实与价值的辩证交织以及社会科学的解放性功能。
 > - **深层思想史危机** 战后德国学界试图从纳粹主义崩溃的意识形态创伤中重建社会科学。实证派试图通过彻底的[[Empiricism|经验主义]]与价值中立清洗极权意识形态毒素；法兰克福学派则反驳认为，缺乏总体性批判与历史自省的纯粹实证主义，本质上是技术官僚统治对现存统治秩序的被动顺从。
 
 ---

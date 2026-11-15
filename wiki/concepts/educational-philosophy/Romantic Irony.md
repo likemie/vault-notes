@@ -8,7 +8,7 @@ aliases:
 summary: "早期浪漫派用以沟通哲学思辨与诗意实践的核心艺术策略，通过不断建立又自我消解一切有限命题，在混沌与体系的永恒摆荡中暗示不可概念化的无限绝对者。"
 type: concept
 domain: "educational-philosophy"
-related_count: 11
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,20 +18,23 @@ tags:
   - theme/aesthetics
   - theme/romanticism
 related_concepts:
+  - "[[Sittlichkeit]]"
+  - "[[Genius]]"
   - "[[New Mythology]]"
-  - "[[Epistemology]]"
 related_theories:
   - "[[Schelling's Aesthetics]]"
 related_persons:
   - "[[Friedrich Schlegel]]"
   - "[[Karl Wilhelm Ferdinand Solger]]"
   - "[[Socrates]]"
+  - "[[Georg Lukács]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Manfred Frank]]"
   - "[[Johann Gottlieb Fichte]]"
   - "[[Søren Kierkegaard]]"
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch04]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch05]]"
 confidence: high
 status: draft
 created: "2026-11-15"
@@ -48,7 +51,7 @@ updated: 2026-11-15
 > - **用途** 解释早期浪漫派如何在承认一切语言命题必定有限（主谓分离）的同时，依然避免被有限立场固化。
 > - **边界** 浪漫反讽沉溺于永无止境的自我否定程序，既无法形成可沟通的正面概念知识，也难以建立共同体共享的伦理与价值评价标准。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 84–85)]]
 
-> [!citation-card|notitle] 卢卡奇论浪漫反讽作为无神时代的否定神秘主义
+> [!citation-card|notitle] [[Georg Lukács|卢卡奇]]论浪漫反讽作为无神时代的否定神秘主义
 > 诗人的反讽是无神时代的否定神秘主义：一种关于意义的“有学识的无知”（*docta ignorantia*）；是对魔鬼仁慈而恶意之劳作的展示，拒绝去理解超出这一劳作事实之外的东西，以及那只能通过造型加以表达的深沉确定性——在这种拒绝求知与求知之不可能中，人已然窥见并把握了那终极的、真实的实体，即在场却又不存在的上帝的真理（《小说理论》，pp. 87–88）。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 84)]]
 >
 > *The irony of the poet is the negative mysticism of the godless ages: a docta ignorantia in respect to meaning... in this refusal and impossibility to know one has seen and grasped the final, the true substance, the present, nonexisting God in its truth.*
@@ -78,7 +81,7 @@ updated: 2026-11-15
 > >
 > > - **Behler (1988) 与 [[Manfred Frank]]** 恩斯特·贝勒（Ernst Behler）主张浪漫反讽只是将苏格拉底反讽应用于文学（Behler, 1988）；曼弗雷德·弗兰克（Manfred Frank）则认为浪漫反讽是对自我自大幻想的贬抑。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 84–85)]]
 > > - **Bubner (1995)** 吕迪格·布布纳（Rüdiger Bubner）认为施莱格尔的反讽在[[Johann Gottlieb Fichte|费希特]]“绝对自我”与黑格尔“客观绝对者”之间扮演辩证中介，不断唤起超越既有成就、趋向绝对者的渴望（Bubner, 1995）。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 227 n.37)]]
-> > - **[[Georg Wilhelm Friedrich Hegel|黑格尔]]与克尔凯郭尔（[[Søren Kierkegaard]]）** 黑格尔批评浪漫反讽违背要求个体认同的社会风习（*Sittlichkeit*），切断一切现实纽带，“只活在自我享乐的极乐之中”（13. 95），是自我吹捧的任性自我之症候（不过《哲学全书纲要》§560 对谢林与浪漫天才的评价相对温和）；克尔凯郭尔在《论反讽概念》中指出，当浪漫诗人自诩同时主宰理念与现象、随心立废万物时，所有严肃性、感恩与谦卑都随之消失，暴露出“膨胀自我”（hypertrophic self）与价值共识瓦解的危机。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 85)]]; [[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 93–94)]]
+> > - **[[Georg Wilhelm Friedrich Hegel|黑格尔]]与克尔凯郭尔（[[Søren Kierkegaard]]）** 黑格尔批评浪漫反讽违背要求个体认同的[[Sittlichkeit|社会风习]]（*Sittlichkeit*），切断一切现实纽带，“只活在自我享乐的极乐之中”（13. 95），是自我吹捧的任性自我之症候（不过《哲学全书纲要》§560 对谢林与浪漫[[Genius|天才]]的评价相对温和）；克尔凯郭尔在《论反讽概念》中指出，当浪漫诗人自诩同时主宰理念与现象、随心立废万物时，所有严肃性、感恩与谦卑都随之消失，暴露出“膨胀自我”（hypertrophic self）与价值共识瓦解的危机。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 85)]]; [[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 93–94)]]
 
 ---
 

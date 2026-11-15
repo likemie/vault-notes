@@ -5,7 +5,7 @@ aliases:
 summary: "指现代社会分工、专门化生产与制度化理性造成人类诸官能分裂、个体沦为机械碎片并与其劳动产物、共同体及完整人性相疏离的状态。"
 type: concept
 domain: "educational-philosophy"
-related_count: 17
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,6 +32,8 @@ related_theories:
 related_persons:
   - "[[Friedrich Schiller]]"
   - "[[Immanuel Kant]]"
+  - "[[Georg Lukács]]"
+  - "[[Theodor Adorno]]"
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch03]]"
   - "[[Argument_Hammermeister_2002_Cambridge]]"
@@ -94,7 +96,7 @@ updated: 2026-11-15
 > > **审美教育作为温和替代方案** 席勒认为当代已经足够启蒙，真理已被公开讨论，但异化状态下的人心尚未做好接纳真理的准备；而法国大革命的恐怖统治又证明暴力革命只会把人抛回野蛮与奴役，因此只能通过[[Aesthetic Education|审美教育]]与[[Aesthetic State|审美国家]]的中介逐步修补人性。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, pp. 48–50)]]
 >
 > > [!claim] Hammermeister, K.
-> > **马克思主义的革命解决路径** 在马克思主义传统（如乔治·卢卡奇、西奥多·阿多诺与恩斯特·布洛赫）的阐释视野中，克服资本主义异化需要依靠激进的政治与社会革命迈向社会主义；艺术由此卸下直接改造政治的重负，只需作为保持与现实对立、留存未来希望的自律领域。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, pp. 58–59)]]
+> > **马克思主义的革命解决路径** 在马克思主义传统（如乔治·[[Georg Lukács|卢卡奇]]、[[Theodor Adorno|西奥多·阿多诺]]与恩斯特·布洛赫）的阐释视野中，克服资本主义异化需要依靠激进的政治与社会革命迈向社会主义；艺术由此卸下直接改造政治的重负，只需作为保持与现实对立、留存未来希望的自律领域。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, pp. 58–59)]]
 
 ---
 

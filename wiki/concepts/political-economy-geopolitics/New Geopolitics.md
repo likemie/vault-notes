@@ -5,7 +5,7 @@ aliases:
 summary: "20世纪90年代以来以批判地缘政治为代表的一系列地缘政治理论范式，采取建构主义立场，将空间理解为流动的社会建构，将知识置于地缘政治分析的中心"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,6 +32,7 @@ related_theories:
   - "[[Governmentality]]"
 related_methods: []
 related_persons:
+  - "[[Theodor Adorno]]"
   - "[[Jürgen Habermas]]"
 related_facts: []
 related_arguments:
@@ -39,16 +40,16 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] New Geopolitics
-> 新[[Geopolitics|地缘政治]]（New Geopolitics）是20世纪90年代以来以[[Critical Geopolitics\|批判地缘政治]]（Critical Geopolitics）为代表的一系列地缘政治理论的统称。它采取[[Constructivist Paradigm\|建构主义]]立场，与处于物质—实践端的[[Classical Geopolitics\|传统地缘政治]]形成[[Ontology\|本体论]]上的根本差异：空间不是政治活动的客观背景，而是经由命名、叙述、分类及治理等[[Discourse|话语]]实践不断生产与重组的社会政治产物；权力不再主要体现为军事力量或对领土的直接控制，而是表现为通过[[Knowledge Production\|知识生产]]、话语建构、规范制定与日常治理实现的空间秩序塑造能力。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 11–12)]]
+> 新[[Geopolitics|地缘政治]]（New Geopolitics）是20世纪90年代以来以[[Critical Geopolitics\|批判地缘政治]]（Critical Geopolitics）为代表的一系列地缘政治理论的统称。它采取[[Constructivist Paradigm\|建构主义]]立场，与处于物质—实践端的[[Classical Geopolitics\|传统地缘政治]]形成[[Ontology\|本体论]]上的根本差异：空间作为经由命名、叙述、分类及治理等[[Discourse|话语]]实践不断生产与重组的社会政治产物，区别于传统地缘政治所预设的客观背景；权力亦主要表现为通过[[Knowledge Production\|知识生产]]、话语建构、规范制定与日常治理实现的空间秩序塑造能力，有别于单纯的军事力量或领土直接控制。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 11–12)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 新地缘政治不是传统地缘政治的升级版或替代品，而是在本体论上与后者形成延续与互补关系的另一种[[Paradigm\|范式]]。它在"地缘政治是物质性还是观念性"和"是科学性（知识）还是实践性（行动）"两个本体论问题上选择了观念—科学端。
+> - **含义** 新地缘政治在本体论上与传统地缘政治形成延续与互补的另一种[[Paradigm\|范式]]，在“地缘政治是物质性还是观念性”和“是科学性（知识）还是实践性（行动）”两个本体论问题上选择了观念—科学端，而非传统地缘政治的简单升级或替代。
 > - **用途** 它将知识、话语和文化实践纳入地缘政治分析的中心，使研究者能够考察高等教育、媒体、教育叙事等"低政治"领域如何通过意义生产参与全球空间秩序的建构。
 > - **边界** 新地缘政治的分析焦点在话语和象征层面，对物质权力结构（军事部署、资源控制、领土安全）的直接分析能力相对较弱。当代趋势是两种范式的复合嵌套。
 
@@ -58,11 +59,11 @@ updated: 2026-11-11
 ---
 
 > [!feature] 核心要素
-> - **[[Constructivist Paradigm\|建构主义]]空间观** 空间不是预设的中性物理容器，而是通过[[Discourse|话语]]实践（命名、分类、叙述、治理）持续生产和重组的政治产物。空间的物质性（校园布局、基础设施）本身也是权力干预的结果。
-> - **知识作为权力形式** 知识不再被视为[[Value Neutrality\|价值中立]]的认知成果，而是嵌入特定历史—地理位置的权力表达形式。通过理论生产、学术规范和学科体系，某些认识框架得以普遍化，其他知识传统则被边缘化或去合法化。
-> - **多层级行动者网络** 行动主体不再限于同质化的民族国家，而是扩展为包含国家机构、国际组织、专家群体、教育机构、媒体和"普通行动者"的多层级网络。
+> - **[[Constructivist Paradigm\|建构主义]]空间观** 空间作为通过[[Discourse|话语]]实践（命名、分类、叙述、治理）持续生产和重组的政治产物，脱离了预设中性物理容器的假设；空间的物质性（校园布局、基础设施）本身也是权力干预的结果。
+> - **知识作为权力形式** 知识作为嵌入特定历史—地理位置的权力表达形式，脱离了[[Value Neutrality\|价值中立]]认知成果的预设。通过理论生产、学术规范和学科体系，某些认识框架得以普遍化，其他知识传统则被边缘化或去合法化。
+> - **多层级行动者网络** 行动主体突破同质化民族国家的局限，扩展为包含国家机构、国际组织、专家群体、教育机构、媒体和"普通行动者"的多层级网络。
 > - **话语与治理分析** 新[[Geopolitics|地缘政治]]致力于解构显性权力对抗背后隐藏的合法性生产、[[Problem Finding\|问题界定]]与常识化过程。地缘政治不仅是一种国家[[Governmentality\|治理术]]（statecraft），更是一种"理解、叙述与组织世界的方式"。
-> - **哲学基础** 源于法兰克福学派及其他西方马克思主义分支的哲学思想，包括阿多诺（T. Adorno）、[[Jürgen Habermas\|哈贝马斯]]、德里达，以及在[[Geopolitics of Higher Education\|高等教育地缘政治]]研究中被广泛引用的福柯（M. Foucault）和葛兰西等人的思想。
+> - **哲学基础** 源于法兰克福学派及其他西方马克思主义分支的哲学思想，包括[[Theodor Adorno|阿多诺]]（T. Adorno）、[[Jürgen Habermas\|哈贝马斯]]、德里达，以及在[[Geopolitics of Higher Education\|高等教育地缘政治]]研究中被广泛引用的福柯（M. Foucault）和葛兰西等人的思想。
 
 ---
 

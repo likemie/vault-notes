@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Hammermeister_2002_Cambridge_Ch04",
+      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch04.md"
+    },
+    {
+      "basename": "template-argument",
+      "path": "wiki/templates/template-argument.md"
+    },
+    {
+      "basename": "template-person",
+      "path": "wiki/templates/template-person.md"
+    },
+    {
+      "basename": "template-argument-edited-volume",
+      "path": "wiki/templates/template-argument-edited-volume.md"
+    },
+    {
       "basename": "template-theory",
       "path": "wiki/templates/template-theory.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "Jürgen Habermas",
       "path": "wiki/persons/germany/Jürgen Habermas.md"
-    },
-    {
-      "basename": "Argument_Hammermeister_2002_Cambridge_Ch04",
-      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch04.md"
     },
     {
       "basename": "Document",
@@ -51,10 +63,6 @@
     {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic",
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic.md"
-    },
-    {
-      "basename": "template-person",
-      "path": "wiki/templates/template-person.md"
     },
     {
       "basename": "The Sublime",
@@ -101,10 +109,6 @@
       "path": "wiki/arguments/books/BrunoJofre_Schriewer_2012_Routledge/Argument_BrunoJofre_Schriewer_2012_Routledge.md"
     },
     {
-      "basename": "template-argument-edited-volume",
-      "path": "wiki/templates/template-argument-edited-volume.md"
-    },
-    {
       "basename": "template-argument-textbook",
       "path": "wiki/templates/template-argument-textbook.md"
     },
@@ -123,10 +127,6 @@
     {
       "basename": "Argument_Hagevold_Forsstrom_Keles_2026_ERR",
       "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
-    },
-    {
-      "basename": "template-argument",
-      "path": "wiki/templates/template-argument.md"
     },
     {
       "basename": "Argument_Hammermeister_2002_Cambridge",

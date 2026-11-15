@@ -7,7 +7,7 @@ aliases:
 summary: "谢林围绕绝对者的艺术显现建构的哲学美学体系，前期在《先验唯心论体系》中将艺术确立为哲学的唯一永恒工具与文献，中期在《艺术哲学》中转向新柏拉图主义理念美学并让艺术重归哲学概念阐释之下。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 26
+theory_related_count: 28
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Philosophical Aesthetics]]"
+  - "[[Natural Beauty]]"
   - "[[Aesthetic Intuition]]"
   - "[[Intellectual Intuition]]"
   - "[[Document]]"
@@ -38,6 +39,7 @@ related_persons:
   - "[[Johann Gottlieb Fichte]]"
   - "[[Friedrich Hölderlin]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
+  - "[[Theodor Adorno]]"
   - "[[Friedrich Wilhelm Joseph Schelling]]"
   - "[[Baruch Spinoza]]"
   - "[[Johann Georg Hamann]]"
@@ -59,7 +61,7 @@ updated: 2026-11-15
 > - **解释对象** 艺术作品在哲学体系中的[[Epistemology|认识论]]、[[Ontology|本体论]]与历史地位，以及意识与无意识、理念与感性形式如何在艺术创作中达成统一。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62, 66, 71–75)]]
 > - **理论问题** 回应[[Immanuel Kant|康德]]（Immanuel Kant）留下的现象与物自体、自然与自由之二元裂隙，以及语言命题（*Urtheil*）必然导致主客分离、致使概念哲学无法把握绝对者的根本困境。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 64, 67–69, 74)]]
 > - **理论类型** 以认识论功能为核心驱动、兼具本体论与新[[Plato|柏拉图]]主义形而上学维度的体系化[[Philosophical Aesthetics|哲学美学]]。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62, 78–82, 85)]]
-> - **知识位置** 属于德国古典唯心论与早期浪漫派美学传统，承接[[Johann Gottlieb Fichte|费希特]]（Johann Gottlieb Fichte）与[[Friedrich Hölderlin|荷尔德林]]（Friedrich Hölderlin），反转康德的自然美优先论，并直接开启[[Georg Wilhelm Friedrich Hegel|黑格尔]]（Georg Wilhelm Friedrich Hegel）、海德格尔（Martin Heidegger）与阿多诺（Theodor W. Adorno）的艺术真理之思。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 64, 66, 73, 85–86)]]
+> - **知识位置** 属于德国古典唯心论与早期浪漫派美学传统，承接[[Johann Gottlieb Fichte|费希特]]（Johann Gottlieb Fichte）与[[Friedrich Hölderlin|荷尔德林]]（Friedrich Hölderlin），反转康德的[[Natural Beauty|自然美]]优先论，并直接开启[[Georg Wilhelm Friedrich Hegel|黑格尔]]（Georg Wilhelm Friedrich Hegel）、海德格尔（Martin Heidegger）与[[Theodor Adorno|阿多诺]]（Theodor W. Adorno）的艺术真理之思。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 64, 66, 73, 85–86)]]
 
 > [!claim] 核心判断
 > 在 1800 年《先验唯心论体系》中，谢林（[[Friedrich Wilhelm Joseph Schelling]]）将艺术确立为哲学体系的最高顶石：由于概念思维无法把握先于主客分裂的绝对者，唯有艺术通过[[Aesthetic Intuition|审美直观]]把私人性的[[Intellectual Intuition|理智直观]]客观化，充当哲学的唯一工具与[[Document|文献]]；但在 1802 年之后的《艺术哲学》与同一哲学时期，谢林转向新柏拉图主义，将艺术视为绝对理念（*Urbild*）的感性映象（*Gegenbild*），使艺术重新从属于哲学家的概念阐释。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 66, 74–75, 77–82)]]

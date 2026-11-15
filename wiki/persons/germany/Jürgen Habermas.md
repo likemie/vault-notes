@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 48
+person_related_count: 49
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -67,6 +67,7 @@ related_instruments: []
 related_persons:
   - "[[Immanuel Kant]]"
   - "[[Friedrich Wilhelm Joseph Schelling]]"
+  - "[[Theodor Adorno]]"
   - "[[Max Planck]]"
   - "[[Stephen Kemmis]]"
   - "[[Klaus Nielsen]]"
@@ -106,7 +107,7 @@ updated: 2026-11-15
 > [!timeline] 生平与职涯
 > - **1929** 出生于德国莱茵兰杜塞尔多夫（Düsseldorf），少年时期亲历纳粹极权崩溃与战后社会废墟，由此确立了反思集权暴力、捍卫民主宪政与重建理性交往的终身使命。
 > - **1954** 以谢林（[[Friedrich Wilhelm Joseph Schelling|F. W. J. Schelling]]）哲学研究获波恩大学哲学博士学位。
-> - **1956–1959** 进入法兰克福社会研究所，担任霍克海默（Max Horkheimer）与阿多诺（Theodor W. Adorno）的高级研究助手，吸收早期法兰克福学派的批判理论传统。
+> - **1956–1959** 进入法兰克福社会研究所，担任霍克海默（Max Horkheimer）与[[Theodor Adorno|阿多诺]]（Theodor W. Adorno）的高级研究助手，吸收早期法兰克福学派的批判理论传统。
 > - **1962** 以《公共领域的结构转型》（*Strukturwandel der Öffentlichkeit*）取得教授资格，考掘资产阶级公共领域的形成机理，并警示资本与大众传媒垄断导致的再封建化（re-feudalization）危机。
 > - **1964–1971** 接替霍克海默出任法兰克福大学哲学与社会学教授；1968 年出版《认识与兴趣》（*Erkenntnis und Interesse*），系统提出三种知识构成性兴趣。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, Ch. 2)]]
 > - **1971–1981** 出任施塔恩贝格[[Max Planck|马克斯·普朗克]]科学技术世界生活条件研究所所长；1973 年发表《晚期资本主义的合法化问题》（*Legitimationsprobleme im Spätkapitalismus*）。

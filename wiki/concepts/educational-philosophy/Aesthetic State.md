@@ -5,7 +5,7 @@ aliases:
 summary: "席勒历史哲学与审美教育方案中的过渡性政治-审美范畴，最初构想为联结自然国家与道德理想国家的无暴力中介，最终在《审美教育书简》结尾收缩为少数精英的沙龙圈层。"
 type: concept
 domain: "educational-philosophy"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_persons:
   - "[[Friedrich Schiller]]"
   - "[[Immanuel Kant]]"
   - "[[Johann Gottlieb Fichte]]"
+  - "[[Hans-Georg Gadamer]]"
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch03]]"
   - "[[Argument_Hammermeister_2002_Cambridge]]"
@@ -113,7 +114,7 @@ updated: 2026-11-15
 
 > [!critique|notitle] 外部批评
 > - **循环论证批评** 费希特（1794/1798）指出，在奴役体制下既无法提前培育审美趣味，又不敢在缺乏审美趣味时赋予自由，席勒方案在逻辑上面临无解的恶性循环。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, p. 59)]]
-> - **实然与应然二元分裂未解** 汉斯-格奥尔格·伽达默尔（Hans-Georg Gadamer）评价席勒试图在审美中调和康德实然与应然二元对立的根基上，依然横亘着一道深刻而未获解决的二元裂口。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, p. 60)]]
+> - **实然与应然二元分裂未解** [[Hans-Georg Gadamer|汉斯-格奥尔格·伽达默尔]]（Hans-Georg Gadamer）评价席勒试图在审美中调和康德实然与应然二元对立的根基上，依然横亘着一道深刻而未获解决的二元裂口。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, p. 60)]]
 
 ---
 

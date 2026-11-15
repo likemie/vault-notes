@@ -11,10 +11,10 @@ cssclasses:
   - person-page
 nationality: hungary
 person_region: "hungary"
-person_related_count: 8
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1929"
 died: "2019"
 lifespan: "1929–2019"
@@ -24,6 +24,7 @@ tags:
   - theme/ethics
   - theme/critical-theory
 related_concepts:
+  - "[[Sittlichkeit]]"
   - "[[Buen Vivir]]"
   - "[[Alienation]]"
   - "[[The Sublime]]"
@@ -35,6 +36,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Hannah Arendt]]"
+  - "[[Georg Lukács]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06]]"
@@ -48,7 +50,7 @@ updated: 2026-11-15
 
 > [!person-profile] 人物档案
 > - **身份位置** 匈牙利哲学家、[[Critical Theory|批判理论]]家，布达佩斯学派（Budapest School）核心成员，纽约新学院（The New School for Social Research）[[Hannah Arendt|汉娜·阿伦特]]哲学讲座教授。
-> - **核心角色** 20世纪重要的伦理学与政治哲学家，二战大屠杀幸存者，系统反思了极权主义、现代性危机与当代伦理生活的重建。
+> - **核心角色** 20世纪重要的伦理学与政治哲学家，二战大屠杀幸存者，系统反思了极权主义、现代性危机与当代[[Sittlichkeit|伦理生活]]的重建。
 > - **代表贡献** 出版《超越正义》（*Beyond Justice*, 1987），提出“正义是骨架，[[Buen Vivir|美好生活]]是血肉”的经典道德哲学命题。
 
 > [!citation-card] 正义作为骨架与美好生活作为血肉
@@ -60,7 +62,7 @@ updated: 2026-11-15
 
 > [!timeline] 生平与职涯
 > - **1929** 出生于布达佩斯一个犹太家庭。二战期间亲历纳粹大屠杀并幸免于难（其父亲遇难于奥斯威辛）。
-> - **1947–1955** 就读于布达佩斯大学，师从著名马克思主义哲学家格奥尔格·卢卡奇（György Lukács），成为布达佩斯学派骨干。
+> - **1947–1955** 就读于布达佩斯大学，师从著名马克思主义哲学家[[Georg Lukács|格奥尔格·卢卡奇]]（György Lukács），成为布达佩斯学派骨干。
 > - **1968** 因公开谴责苏联入侵捷克斯洛伐克遭到政治清洗与监视。
 > - **1977** 流亡澳大利亚，任教于拉筹伯大学（La Trobe University）。
 > - **1986–2009** 接替[[Hannah Arendt|汉娜·阿伦特]]，担任纽约新学院哲学讲座教授。
@@ -77,7 +79,7 @@ updated: 2026-11-15
 ---
 
 > [!claim] 核心思想
-> [[Ágnes Heller|阿格妮丝·赫勒]]（Ágnes Heller）主张，人类生存的完满性绝不能仅由抽象的法律规则与程序正义来定义。正义是维持社会运转不可或缺的制度骨架，但赋予生活以真正意义与充实感的，是人们在具体历史与文化中对美德、审美、爱以及[[The Sublime|崇高]]之“善”的追求与体验。放弃对[[Buen Vivir|美好生活]]的道德决断，将导致现代社会在技术与物质繁荣中丧失精神内核。
+> [[Ágnes Heller|阿格妮丝·赫勒]]（Ágnes Heller）主张，人类生存的完满性绝不能仅由抽象的法律规则与程序正义来定义。正义是维持社会运转不可或缺的制度骨架，但赋予生活以真正意义与充实感的，是人们在具体历史与文化中对美德、审美、爱以及[[The Sublime|崇高]]之“善”的追求与体验。放弃对[[Buen Vivir|美好生活]]的道德决断，将导致现代社会在技术与物质繁荣中丧失精神根基。
 
 ---
 

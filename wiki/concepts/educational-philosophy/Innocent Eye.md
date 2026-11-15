@@ -7,7 +7,7 @@ aliases:
 summary: "设想主体脱离一切概念预设、以类似动物般的纯真感知直接通达审美的理论幻想，在康德美学中因缺乏知性认知参与而被视为既不可能也不可取。"
 type: concept
 domain: "educational-philosophy"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Disinterested Pleasure]]"
 related_persons:
   - "[[Immanuel Kant]]"
+  - "[[Arthur Danto]]"
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
 confidence: high
@@ -37,7 +38,7 @@ updated: 2026-11-15
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 假定彻底清除概念与前见后即可获得纯粹审美感受的直观神话。
 > - **用途** 揭示“无概念判断”与“无认知能力”之间的关键理论界线，澄清康德为何拒斥将动物性感知当作审美典范。
-> - **边界** 康德虽然主张审美判断不归结为逻辑概念证明，但仍要求知性参与其中；阿瑟·丹托（Arthur Danto, 1992）亦在当代艺术哲学中专门反思过这一“动物式艺术史家”的设定。
+> - **边界** 康德虽然主张审美判断不归结为逻辑概念证明，但仍要求知性参与其中；[[Arthur Danto|阿瑟·丹托]]（Arthur Danto, 1992）亦在当代艺术哲学中专门反思过这一“动物式艺术史家”的设定。
 
 ---
 

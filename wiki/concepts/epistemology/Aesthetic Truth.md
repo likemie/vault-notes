@@ -6,7 +6,7 @@ aliases:
 summary: "鲍姆嘉通在形而上学与逻辑真理之外确立的第三种真理形态，以修辞学或然性和想象力丰富性为核心，保全逻辑抽象所丧失的具体经验。"
 type: concept
 domain: "epistemology"
-related_count: 6
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,16 +17,18 @@ tags:
 related_concepts:
   - "[[Philosophical Aesthetics]]"
   - "[[Sensual Cognition]]"
+  - "[[Aesthetic Idea]]"
   - "[[Commensuration]]"
 related_persons:
   - "[[Alexander Gottlieb Baumgarten]]"
   - "[[Immanuel Kant]]"
+  - "[[Theodor Adorno]]"
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
 confidence: high
 status: draft
 created: "2026-11-14"
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -42,7 +44,7 @@ updated: 2026-11-14
 > [!citation-card|notitle] 审美真理的三大完善标准
 > 第一要素是想象力的丰富性，意指一个审美观念所包含的个体元素越多则越完善；第二特征是想象力的重要性，将纯粹感性复杂性与重要性判断相联结；第三项要素则是表达的清晰性这一传统修辞理想。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 10–11)]]
 >
-> *The first of these moments is richness of imagination, which means that an aesthetic idea is the more perfect the more individual elements it contains... Baumgarten defines the second characteristic of aesthetic perfection as magnitude of imagination... The third and final element in Baumgarten's list is that of clarity of presentation, which is a traditional rhetorical ideal.*
+> *The first of these moments is richness of imagination, which means that an [[Aesthetic Idea|aesthetic idea]] is the more perfect the more individual elements it contains... Baumgarten defines the second characteristic of aesthetic perfection as magnitude of imagination... The third and final element in Baumgarten's list is that of clarity of presentation, which is a traditional rhetorical ideal.*
 
 ---
 
@@ -57,7 +59,7 @@ updated: 2026-11-14
 > **抽象与丰盈的张力** 理性概念从具体实例跃向一般共相时会滤除感性细节，审美真理则拥抱丰富性、混沌与质料。
 
 > [!claim] Baumgarten, A. G.
-> **不可[[Commensuration|通约]]的真理维度** 逻辑真理固然提供确定性，但抽象本质上是一种损失（*Aesthetica* §560），它使真理显得苍白而缺乏生气；审美真理所拥抱的“丰富、混沌与质料”（*Aesthetica* §564）构成了独立于逻辑真理且无法被逻辑穷尽的认识维度，这一洞见在后来浪漫主义及阿多诺（Theodor W. Adorno）“非同一性”理论中得到深化。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 10, 12–13)]]
+> **不可[[Commensuration|通约]]的真理维度** 逻辑真理固然提供确定性，但抽象本质上是一种损失（*Aesthetica* §560），它使真理显得苍白而缺乏生气；审美真理所拥抱的“丰富、混沌与质料”（*Aesthetica* §564）构成了独立于逻辑真理且无法被逻辑穷尽的认识维度，这一洞见在后来浪漫主义及[[Theodor Adorno|阿多诺]]（Theodor W. Adorno）“非同一性”理论中得到深化。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 10, 12–13)]]
 
 ---
 

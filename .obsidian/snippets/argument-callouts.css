@@ -28865,3 +28865,249 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout.callo
 @keyframes tt2-rail { from { transform: scaleY(0); } to { transform: scaleY(1); } }
 @keyframes tt2-pulse { 0% { box-shadow: 0 0 0 4px var(--ac-paper), 0 0 0 4px color-mix(in srgb, var(--tt2-accent) 45%, transparent); } 100% { box-shadow: 0 0 0 4px var(--ac-paper), 0 0 0 12px transparent; } }
 /* <<< THOUGHT TIMELINE STRATA DESIGN */
+
+/* >>> PERSON THESIS PAIR DESIGN · 2026-11-15
+   Person page 核心思想 as thesis + original-text pairs.
+   [!person-thesis] 主张一｜<完整判断>  holds the argued paraphrase and, nested inside,
+   [!thesis-quote] <出处>  holds the original wording that grounds it.
+   Same family as PROPOSITION / ARGUMENT STEP: eyebrow, large serif title, full rule, body panel.
+   Own character: a gold thesis panel tethered to an ink quote card with a large quotation mark. */
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="person-thesis"] {
+ --pt-accent: #c9952b; --pt-ink: #8a5f0c; --pt-quote: #6b6f86;
+ --pt-ease: cubic-bezier(.22,.68,.25,1);
+ --pt-soft: color-mix(in srgb, var(--pt-accent) 24%, var(--background-modifier-border));
+ --pt-panel: color-mix(in srgb, var(--pt-accent) 7%, var(--ac-paper, var(--background-primary)));
+ --ac-accent: var(--pt-accent) !important; --ac-ink: var(--pt-ink) !important;
+ --callout-color: 201,149,43 !important;
+ container-type: inline-size; position: relative !important;
+ margin: 1.4rem 0 !important; padding: .2rem 0 .4rem !important;
+ background: none !important; border: 0 !important; border-radius: 0 !important; box-shadow: none !important;
+
+ &:where(.theme-dark *) {
+  --pt-accent: #e8b955; --pt-ink: #f1cf82; --pt-quote: #a9aec8;
+  --pt-panel: color-mix(in srgb, var(--pt-accent) 7%, #1f1f22);
+ }
+ &::before, &::after { display: none !important; }
+
+ /* Header: eyebrow, large serif thesis, full rule with a gold lead segment */
+ & > .callout-title {
+  position: relative !important; display: flex !important; align-items: flex-start !important; gap: .6rem !important;
+  padding: 0 0 .8rem !important; margin: 0 0 1rem !important;
+  border: 0 !important; background: none !important; box-shadow: none !important;
+ }
+ & > .callout-title .callout-icon { display: none !important; }
+ & > .callout-title .callout-title-inner {
+  display: block !important; flex: 1 1 0% !important; min-width: 0 !important; padding: 0 !important;
+  font-family: var(--ac-serif) !important; font-size: 1.3em !important; font-weight: 600 !important;
+  line-height: 1.45 !important; letter-spacing: .02em !important; color: var(--text-normal) !important;
+ }
+ & > .callout-title .callout-title-inner::before {
+  content: "THESIS" !important; display: block !important; width: max-content;
+  margin: 0 0 .5rem !important; padding: 0 0 0 22px !important;
+  font: 600 10.5px/1.5 var(--ac-sans) !important; letter-spacing: .14em !important; text-transform: none !important;
+  background: linear-gradient(var(--pt-accent),var(--pt-accent)) left center / 12px 2px no-repeat !important;
+  border: 0 !important; border-radius: 0 !important; box-shadow: none !important; color: var(--pt-ink) !important;
+  transition: background-size 280ms var(--pt-ease) !important;
+ }
+ & > .callout-title::after {
+  content: "" !important; display: block !important; position: absolute; left: 0; right: 0; bottom: 0; height: 2px;
+  background:
+   linear-gradient(var(--pt-accent), var(--pt-accent)) left bottom / 3.4rem 2px no-repeat,
+   linear-gradient(var(--pt-soft), var(--pt-soft)) left bottom / 100% 1px no-repeat;
+  transition: background-size 520ms var(--pt-ease);
+ }
+ & > .callout-title .callout-fold { flex: 0 0 auto; align-self: center; color: var(--pt-ink) !important; }
+
+ /* Body panel: the argued paraphrase */
+ & > .callout-content {
+  padding: 0 !important; margin: 0 !important; background: none !important;
+  font: 400 .96em/1.88 var(--ac-sans) !important; color: var(--text-normal) !important;
+ }
+ & > .callout-content > p {
+  position: relative; margin: 0 !important; padding: .55rem 1.2rem .55rem 1.35rem !important;
+  background: var(--pt-panel) !important; border-left: 3px solid var(--pt-accent) !important;
+ }
+ & > .callout-content > p:first-child { padding-top: 1rem !important; border-top-right-radius: 10px; }
+ & > .callout-content > p:is(:last-child, :has(+ :not(p))) { padding-bottom: 1rem !important; border-bottom-right-radius: 10px; }
+ & > .callout-content > p:first-child::before {
+  content: ""; position: absolute; left: -3px; top: 0; width: 3px; height: 1.6rem; background: var(--pt-ink); opacity: .6;
+ }
+ & > .callout-content a.internal-link { color: var(--pt-ink) !important; text-underline-offset: .22em; }
+ & > .callout-content > :is(ul, ol) { margin: .6rem 0 0 1.35rem !important; }
+ & a:focus-visible { outline: 2px solid var(--pt-accent); outline-offset: 3px; }
+
+ /* Original-text card nested under the thesis, tethered to the panel */
+ & > .callout-content > .callout[data-callout="thesis-quote"] { margin-top: 1.5rem !important; }
+
+ &:not(.is-collapsed) > .callout-content { animation: pt-rise 380ms var(--pt-ease) both; }
+ &:not(.is-collapsed) > .callout-title::after { animation: pt-rule 620ms var(--pt-ease) both; }
+ &.is-collapsed > .callout-title { margin-bottom: 0 !important; }
+
+ @media (hover: hover) {
+  &:hover > .callout-title .callout-title-inner::before { background-size: 18px 2px !important; }
+  &:hover > .callout-title::after { background-size: 100% 2px, 100% 1px; }
+ }
+}
+
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="thesis-quote"] {
+ --pq-accent: #6b6f86; --pq-ink: #4c5068; --pq-gold: #c9952b;
+ --pq-ease: cubic-bezier(.22,.68,.25,1);
+ --pq-soft: color-mix(in srgb, var(--pq-accent) 26%, var(--background-modifier-border));
+ --callout-color: 107,111,134 !important;
+ position: relative !important; overflow: visible !important;
+ margin: 1.5rem 0 0 1.35rem !important; padding: 1rem 1.25rem 1rem 1.4rem !important;
+ background: color-mix(in srgb, var(--pq-accent) 5%, var(--background-primary)) !important;
+ border: 1px solid var(--pq-soft) !important; border-radius: 10px !important; box-shadow: none !important;
+ transition: border-color 240ms ease, transform 320ms var(--pq-ease) !important;
+
+ &:where(.theme-dark *) { --pq-accent: #a9aec8; --pq-ink: #c8cce0; --pq-gold: #e8b955; background: color-mix(in srgb, var(--pq-accent) 6%, #1c1c1f) !important; }
+
+ /* Tether from the thesis panel down to the quote */
+ &::before {
+  content: "" !important; display: block !important; position: absolute; left: -1.35rem; top: -1.5rem;
+  width: 1.35rem; height: calc(1.5rem + 1.35rem); pointer-events: none;
+  border-left: 1px dashed color-mix(in srgb, var(--pq-gold) 55%, transparent);
+  border-bottom: 1px dashed color-mix(in srgb, var(--pq-gold) 55%, transparent);
+  border-bottom-left-radius: 8px; background: none !important; transform: none !important; opacity: 1 !important;
+ }
+ /* Large quotation mark */
+ &::after {
+  content: "\201C" !important; display: block !important; position: absolute; right: .9rem; top: -.15rem;
+  font: 700 4.2rem/1 var(--ac-serif); color: var(--pq-accent); opacity: .16; pointer-events: none;
+  background: none !important; transition: transform 420ms var(--pq-ease), opacity 260ms ease;
+ }
+ & > .callout-title {
+  display: flex !important; align-items: center !important; gap: .5rem !important;
+  padding: 0 3rem .55rem 0 !important; margin: 0 0 .7rem !important;
+  border: 0 !important; border-bottom: 1px solid color-mix(in srgb, var(--pq-accent) 18%, transparent) !important;
+  background: none !important; box-shadow: none !important;
+ }
+ & > .callout-title .callout-icon { display: none !important; }
+ & > .callout-title .callout-title-inner {
+  display: block !important; padding: 0 !important; font: 500 .92em/1.5 var(--ac-serif) !important; letter-spacing: .02em !important;
+  color: var(--pq-ink) !important;
+ }
+ & > .callout-title .callout-title-inner::before {
+  content: "ORIGINAL TEXT" !important; display: block !important; width: max-content; margin: 0 0 .3rem !important;
+  padding: 0 0 0 20px !important; font: 600 10px/1.5 var(--ac-sans) !important; letter-spacing: .14em !important;
+  background: linear-gradient(var(--pq-accent),var(--pq-accent)) left center / 11px 2px no-repeat !important;
+  border: 0 !important; box-shadow: none !important; color: var(--pq-ink) !important;
+ }
+ &[data-callout-metadata~="notitle"]:not(.is-collapsible) > .callout-title { display: none !important; }
+ & > .callout-content {
+  padding: 0 !important; margin: 0 !important; background: none !important;
+  font: 400 .93em/1.85 var(--ac-sans) !important; color: var(--text-normal) !important;
+ }
+ & > .callout-content > p { margin: .55em 0 !important; padding: 0 !important; background: none !important; border: 0 !important; }
+ & > .callout-content > :first-child { margin-top: 0 !important; }
+ & > .callout-content > :last-child { margin-bottom: 0 !important; }
+ /* The original-language line: serif italic, hung on a hairline */
+ & > .callout-content > p:has(> em:only-child), & > .callout-content > p > em:only-child {
+  font-family: var(--ac-serif) !important; font-style: italic;
+ }
+ & > .callout-content > p:has(> em:only-child) {
+  padding-left: .95rem !important; border-left: 1px solid color-mix(in srgb, var(--pq-accent) 45%, transparent) !important;
+  color: color-mix(in srgb, var(--text-normal) 72%, transparent) !important; line-height: 1.75;
+ }
+ & > .callout-content a.internal-link { color: var(--pq-ink) !important; text-underline-offset: .22em; }
+
+ &:not(.is-collapsed) { animation: pq-in 460ms var(--pq-ease) 120ms both; }
+ &:not(.is-collapsed)::before { animation: pq-tether 520ms var(--pq-ease) both; }
+
+ @media (hover: hover) {
+  &:hover { border-color: color-mix(in srgb, var(--pq-accent) 60%, transparent) !important; transform: translateX(3px) !important; }
+  &:hover::after { transform: translate(-3px, 2px) scale(1.08); opacity: .3; }
+ }
+ @media (prefers-reduced-motion: reduce) {
+  &, &::before, &::after, & * { animation: none !important; transition: none !important; }
+  &:hover { transform: none !important; }
+ }
+}
+/* Standalone quote (not nested): no tether, no indent */
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="thesis-quote"]:not(.callout-content > *) { margin-left: 0 !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="thesis-quote"]:not(.callout-content > *)::before { display: none !important; }
+@media (prefers-reduced-motion: reduce) {
+ html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="person-thesis"] *,
+ html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="person-thesis"] *::before,
+ html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="person-thesis"] *::after { animation: none !important; transition: none !important; }
+}
+@keyframes pt-rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+@keyframes pt-rule { from { clip-path: inset(0 100% 0 0); } to { clip-path: inset(0 0 0 0); } }
+@keyframes pq-in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+@keyframes pq-tether { from { clip-path: inset(0 0 100% 0); } to { clip-path: inset(0 0 0 0); } }
+/* <<< PERSON THESIS PAIR DESIGN */
+
+/* >>> STEP AND PROPOSITION MOTION · 2026-11-15
+   Motion layer for [!claim|step]（论证步骤）and [!theory-proposition] / [!concept-proposition]（命题）.
+   Layout and colours stay as set in type-scale.css and concept-study.css; this block only adds:
+   a drawn title rule with a lead segment, eyebrow and rule that extend on hover,
+   a panel whose side bar grows in, a light pass across the panel on hover, and a scroll-in reveal. */
+:is(html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="claim"][data-callout-metadata~="step"],
+    html body .callout.callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="theory-proposition"],[data-callout="concept-proposition"])) {
+ --mv-ease: cubic-bezier(.22,.68,.25,1);
+
+ /* Title rule: replace the flat border with a drawn line and a stronger lead segment */
+ & > .callout-title { position: relative !important; border-bottom-color: transparent !important; }
+ & > .callout-title::after {
+  content: "" !important; display: block !important; position: absolute !important;
+  left: 0 !important; right: 0 !important; bottom: -2px !important; top: auto !important;
+  width: auto !important; height: 2px !important; margin: 0 !important; border: 0 !important; opacity: 1 !important;
+  background:
+   linear-gradient(var(--mv-c), var(--mv-c)) left center / 4.5rem 2px no-repeat,
+   linear-gradient(color-mix(in srgb, var(--mv-c) 50%, transparent), color-mix(in srgb, var(--mv-c) 50%, transparent)) left center / 100% 2px no-repeat !important;
+  transform: none !important; pointer-events: none;
+  transition: background-size 620ms var(--mv-ease) !important;
+ }
+ /* A bead that rides the rule on hover */
+ & > .callout-title::before {
+  content: "" !important; display: block !important; position: absolute !important;
+  left: 0; bottom: -4px; top: auto !important; width: 6px !important; height: 6px !important; border-radius: 50%;
+  background: var(--mv-c) !important; box-shadow: 0 0 0 3px color-mix(in srgb, var(--mv-c) 20%, transparent);
+  opacity: 0; pointer-events: none; border: 0 !important; margin: 0 !important;
+ }
+ & > .callout-title .callout-title-inner::before { transition: background-size 320ms var(--mv-ease), letter-spacing 420ms var(--mv-ease) !important; }
+
+ /* Panel: side bar grows in, light pass on hover */
+ & > .callout-content { position: relative !important; overflow: hidden !important; transition: background-color 240ms ease, box-shadow 320ms var(--mv-ease) !important; }
+ & > .callout-content::after {
+  content: ""; position: absolute; inset: 0; pointer-events: none; border-radius: inherit;
+  background: linear-gradient(105deg, transparent 30%, color-mix(in srgb, var(--mv-c) 12%, transparent) 50%, transparent 70%);
+  transform: translateX(-110%);
+ }
+
+ /* Open */
+ &:not(.is-collapsed) > .callout-title::after { animation: mv-rule 760ms var(--mv-ease) both; }
+ &:not(.is-collapsed) > .callout-content { animation: mv-panel 520ms var(--mv-ease) 120ms both; }
+ &.is-collapsed > .callout-title::after, &.is-collapsed > .callout-title::before { display: none !important; }
+
+ @media (hover: hover) {
+  &:hover > .callout-title, &:focus-within > .callout-title { border-bottom-color: transparent !important; }
+  &:hover > .callout-title::after { background-size: 100% 2px, 100% 2px !important; }
+  &:not(.is-collapsed):hover > .callout-title::before { animation: mv-bead 1300ms var(--mv-ease) both; }
+  &:hover > .callout-title .callout-title-inner::before { background-size: 20px 2px !important; letter-spacing: .2em !important; }
+  &:hover > .callout-content { box-shadow: inset 4px 0 0 var(--mv-c) !important; }
+  &:hover > .callout-content::after { animation: mv-sweep 1100ms var(--mv-ease) both; }
+ }
+
+ /* Scroll-in: the rule draws as the block enters view */
+ @supports (animation-timeline: view()) {
+  &:not(.is-collapsed) > .callout-title::after {
+   animation: mv-rule linear both !important; animation-timeline: view() !important; animation-range: entry 0% entry 70% !important;
+  }
+ }
+
+ @media (prefers-reduced-motion: reduce) {
+  & > .callout-title::after, & > .callout-title::before, & > .callout-content, & > .callout-content::after, & .callout-title-inner::before { animation: none !important; transition: none !important; }
+ }
+ @media print { & > .callout-content::after, & > .callout-title::before { display: none !important; } }
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout="claim"][data-callout-metadata~="step"] { --mv-c: rgb(var(--step-c, 99, 102, 241)); }
+html body .callout.callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="theory-proposition"],[data-callout="concept-proposition"]) { --mv-c: rgb(var(--cp-accent, 82, 92, 153)); }
+@keyframes mv-rule { from { clip-path: inset(0 100% 0 0); } to { clip-path: inset(0 0 0 0); } }
+@keyframes mv-panel {
+ from { opacity: 0; transform: translateY(8px); box-shadow: inset 0 0 0 var(--mv-c); }
+ to { opacity: 1; transform: none; }
+}
+@keyframes mv-bead { 0% { left: 0; opacity: 0; } 12% { opacity: 1; } 88% { opacity: 1; } 100% { left: calc(100% - 6px); opacity: 0; } }
+@keyframes mv-sweep { from { transform: translateX(-110%); } to { transform: translateX(110%); } }
+/* <<< STEP AND PROPOSITION MOTION */

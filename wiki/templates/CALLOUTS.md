@@ -1344,6 +1344,25 @@ Method 条目沿用 v4.1 扁平体系（短横眉标 + 衬线标题 + 发丝线�
 
 ---
 
+## 人物主张与原文（Person 核心思想）
+
+`[!person-thesis]` 与 `[!thesis-quote]` 成对使用，只用于 Person 页“核心思想”。外层写一条主张，内层嵌套支撑它的原文。
+
+```markdown
+> [!person-thesis] 主张一｜<完整判断>
+> 用自己的话论证这条主张：含义、回应的问题与适用条件。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+>
+> > [!thesis-quote] <原文出处，如：《认识与兴趣》（1968）>
+> > 中文译文或中文原文。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> >
+> > *Original text or English translation.*
+```
+
+- 外观：person-thesis 与 PROPOSITION / ARGUMENT STEP 同族，眉标 THESIS、衬线大标题、整宽底线（左段金色），正文在左侧金色色轨的浅底面板里；thesis-quote 眉标 ORIGINAL TEXT，标题写出处，右上角大引号，斜体原文挂一条细竖线，并用金色虚线从主张面板引到原文卡。
+- 每页 1–3 组；原文只放与该主张直接对应的一段，不另列独立 `[!citation-card]`。
+- 原文卡可加 `|notitle` 隐藏出处标题；单独使用（不嵌套）时自动去掉引线与缩进。
+- 样式：`argument-callouts.css` 的 `PERSON THESIS PAIR DESIGN` 段（2026-11-15）。
+
 ## 引用
 
 ```markdown

@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_methods:
   - "[[Historical-Comparative Method]]"
 related_instruments: []
 related_persons:
+  - "[[Hans-Georg Gadamer]]"
   - "[[Steen Nepper Larsen]]"
   - "[[Niklas Luhmann]]"
   - "[[B. F. Skinner]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-18
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -68,7 +69,7 @@ updated: 2026-11-11
 
 > [!timeline] 生平与职涯
 > - **1923** 出生于德国萨克森州格利茨（Görlitz）。
-> - **1947–1954** 在海德堡大学、布里斯托大学研读历史学、哲学与法学，师从伽达默尔（Hans-Georg Gadamer）、洛维特（Karl Löwith）与海德格尔。
+> - **1947–1954** 在海德堡大学、布里斯托大学研读历史学、哲学与法学，师从[[Hans-Georg Gadamer|伽达默尔]]（Hans-Georg Gadamer）、洛维特（Karl Löwith）与海德格尔。
 > - **1954** 在海德堡大学完成[[Doctoral Dissertation|博士论文]]《批判与危机》（*Kritik und Krise*），从观念史角度探讨启蒙乌托邦与现代政治危机的根源。
 > - **1972–1997** 共同主编并撰写八卷本巨著《历史基本概念：德国政治与社会语言历史辞典》，确立现代概念史学术规范。
 > - **1973–1988** 担任比勒费尔德大学理论历史学讲席教授，使该校成为战后德国社会历史学与概念史研究中心。

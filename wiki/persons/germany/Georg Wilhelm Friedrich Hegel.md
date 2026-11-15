@@ -9,10 +9,10 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 32
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 47
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: 1770
 died: 1831
 lifespan: "1770–1831"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Bildung]]"
+  - "[[Sittlichkeit]]"
   - "[[Empty Knower]]"
   - "[[Paradigm]]"
   - "[[Homogeneous, Empty Time]]"
@@ -29,20 +30,28 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Absolute Spirit]]"
   - "[[International Education]]"
   - "[[International Baccalaureate]]"
   - "[[Horizontal Comradeship]]"
   - "[[Positivism]]"
   - "[[Geisteswissenschaften]]"
+  - "[[End of Art]]"
+  - "[[Aesthetic Autonomy]]"
+  - "[[Aesthetics of Ugliness]]"
+  - "[[Romantic Irony]]"
   - "[[Paideia]]"
   - "[[Print-Capitalism]]"
   - "[[The Sublime]]"
   - "[[Critical Pedagogy]]"
   - "[[Heterogeneity]]"
   - "[[Resonant Oscillation]]"
+  - "[[Mimesis]]"
+  - "[[Kunstformen]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Imagined Community]]"
+  - "[[Hegel's Aesthetics]]"
   - "[[Critical Theory]]"
 related_methods:
   - "[[Memos]]"
@@ -52,12 +61,18 @@ related_persons:
   - "[[Friedrich Wilhelm Joseph Schelling]]"
   - "[[Johann Gottlieb Fichte]]"
   - "[[Benedict Anderson]]"
+  - "[[Hans-Georg Gadamer]]"
+  - "[[Arthur Danto]]"
+  - "[[Karl Rosenkranz]]"
   - "[[Immanuel Kant]]"
+  - "[[Karl Wilhelm Ferdinand Solger]]"
   - "[[Baruch Spinoza]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cole_2005_JRIE]]"
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch05]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch04]]"
 confidence: high
 status: active
 created: 2026-08-12
@@ -69,7 +84,7 @@ updated: 2026-11-15
 > [!person-profile] 人物档案
 > - **身份位置** 18–19 世纪德国哲学家，德国古典唯心主义的集大成者，曾任柏林[[Grandes Ecoles|大学校]]长，近代西方辩证法与历史哲学大师。
 > - **核心角色** 构筑了涵盖逻辑学、自然哲学与精神哲学的绝对唯心论庞大体系；在教育哲学与批判课程研究中，其教化（[[Bildung]]）理论被确立为古典人文主义与制度化学校教育的重要哲学源头；在民族理论中，其晨祷类比被用于揭示大众传媒建构现代世俗共同体的仪式机制。
-> - **代表贡献** 创立绝对唯心论辩证法体系；阐发精神辩证否定与扬弃（Aufheben）运动；构建以伦理生活（Sittlichkeit）为核心的黑格尔式教化（Hegelian [[Bildung]]）模型；提出晨报阅读作为现代世俗祈祷仪式的深刻论断。
+> - **代表贡献** 创立绝对唯心论辩证法体系；阐发精神辩证否定与扬弃（Aufheben）运动；构建以[[Sittlichkeit|伦理生活]]（Sittlichkeit）为核心的黑格尔式教化（Hegelian [[Bildung]]）模型；提出晨报阅读作为现代世俗祈祷仪式的深刻论断。
 
 > [!citation-card] 批判课程论视角下的传统教化模式
 > 在传统（黑格尔式）课堂中，教育的核心被预设为通过外在的结构化知识来填充“空无认知者（[[Empty Knower]]）”，其政治终点是服务于市场与国家的市民社会。[[Argument_Cole_2005_JRIE|(Cole, 2005)]]
@@ -97,7 +112,7 @@ updated: 2026-11-15
 > | 1812–1816 | *Wissenschaft der Logik* [逻辑学] | 推导概念由浅入深的辩证发展范畴，确立否定之否定与扬弃（Aufheben）的核心辩证法则。 | [[Paradigm]] |
 > | 1821 | *Grundlinien der Philosophie des Rechts* [法哲学原理] | 阐释抽象法、道德与伦理生活，将教化界定为超越自然本能融入普遍伦理共同体的必由之路。 | [[Bildung]]；[[Disciplina and Doctrina]] |
 > | 1808–1816 | *Gymnasialreden* [纽伦堡文科中学演讲集] | 记录担任中学校长期间的教育反思，论述古典语言与理性训练在塑造青少年健全心智中的核心地位。 | [[Bildung]] |
-> | 1835/1842 | *Vorlesungen über die Ästhetik* [美学讲演录] | 海因里希·古斯塔夫·霍托（Heinrich Gustav Hotho）据黑格尔海德堡与柏林讲稿编订出版，界定美为“理念的感性显现”，提出艺术形式三阶段与艺术终结论。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 89–90, 95, 102)]] | [[Hegel's Aesthetics]]；[[Absolute Spirit]] |
+> | 1835/1842 | *Vorlesungen über die Ästhetik* [ [[Philosophical Aesthetics\|美学]]讲演录] | 海因里希·古斯塔夫·霍托（Heinrich Gustav Hotho）据黑格尔海德堡与柏林讲稿编订出版，界定美为“理念的感性显现”，提出艺术形式三阶段与艺术终结论。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 89–90, 95, 102)]] | [[Hegel's Aesthetics]]；[[Absolute Spirit]] |
 
 ---
 
@@ -116,7 +131,7 @@ updated: 2026-11-15
 > - **现代课程与制度化教育反思** 当代批判课程学者（如 Cole, 2005）认为，黑格尔式教化常被现代[[International Education|国际教育]]体制（如[[International Baccalaureate|国际文凭]]课程）内化为深层语法，批评其倾向于用客观理性框架修剪个体情感，把学生预设为等待填充的“空无认知者（[[Empty Knower]]）”。
 > - **大众传播与民族共同体想象** 黑格尔关于读报替代晨祷的哲学洞见，经由[[Benedict Anderson|本尼迪克特·安德森]]的理论阐发，成为理解现代人在均质空的、时间中通过大众印刷媒介确证[[Horizontal Comradeship|横向同志情谊]]的经典分析范式。
 > - **抵御量化还原论的哲学防线** 当代欧陆教育哲学学者（如 Larsen, 2019）在反思[[Positivism|实证主义]]评价时，重新激活包含黑格尔在内的德意志[[Geisteswissenschaften|精神科学]]教化传统，以此阐释教育生成中不可度量的历时深度，抵御将学习缩减为短期可见指标的技术主义倾向。
-> - **艺术史学科与现代艺术终结论** 将内容美学与历史发展观念结合，为 19 世纪人文学科中的艺术史建立提供方法范式，并经由伽达默尔、阿瑟·丹托与[[Karl Rosenkranz|罗森克兰茨]]延展为现代艺术自主性论辩与丑学传统。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 88–89, 102–108)]]
+> - **艺术史学科与现代[[End of Art|艺术终结论]]** 将内容美学与历史发展观念结合，为 19 世纪人文学科中的艺术史建立提供方法范式，并经由[[Hans-Georg Gadamer|伽达默尔]]、[[Arthur Danto|阿瑟·丹托]]与[[Karl Rosenkranz|罗森克兰茨]]延展为现代[[Aesthetic Autonomy|艺术自主性]]论辩与[[Aesthetics of Ugliness|丑学]]传统。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 88–89, 102–108)]]
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cole_2005_JRIE|Cole (2005)]] — 批判主导当代国际课程的“黑格尔式教化”，指责其以理性规训压抑主观情感，将学习还原为服务于市场与国家契约的工具性阶梯。
@@ -126,7 +141,7 @@ updated: 2026-11-15
 
 > [!person-network] 关系网络
 > - **思想激荡与哲学渊源** [[Immanuel Kant|康德]] — 黑格尔全面继承并推进了康德的主体性原则，扬弃了物自体与现象界的二元分裂，构筑了主客观统一的绝对唯心论体系。
-> - **美学等级反转与反讽论辩** [[Friedrich Wilhelm Joseph Schelling|谢林]]、[[Friedrich Schlegel|施莱格尔]]、[[Karl Wilhelm Ferdinand Solger|索尔格]] — 黑格尔反转谢林早期《先验唯心论体系》“艺术高于哲学”的等级秩序，在书评中肯定索尔格“客观反讽”的否定辩证力量，同时严厉批评施莱格尔式浪漫反讽切断现实联系。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 63, 84–86)]]
+> - **美学等级反转与反讽论辩** 谢林、施莱格尔、[[Karl Wilhelm Ferdinand Solger|索尔格]] — 黑格尔反转谢林早期《先验唯心论体系》“艺术高于哲学”的等级秩序，在书评中肯定索尔格“[[Romantic Irony|客观反讽]]”的否定辩证力量，同时严厉批评施莱格尔式浪漫反讽切断现实联系。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 63, 84–86)]]
 > - **[[Paideia|古典教化]]同道** 威廉·冯·洪堡（Wilhelm von Humboldt） — 普鲁士教育改革时期的思想同道，共同确立了以古典人文素养与哲学思辨为核心的现代大学与文科中学教育[[Paradigm|范式]]。
 > - **理论对话与引述者** [[Benedict Anderson|本尼迪克特·安德森]] — 安德森在论述[[Print-Capitalism|印刷资本主义]]与现代时间经验时，借用黑格尔的晨祷类比来刻画大众在日常生活中体验到的世俗同时性。
 > - **当代后现代批判论敌** [[Baruch Spinoza|斯宾诺莎]]、德勒兹与当代批判学者 — 借由内在性平面与情感力量，对黑格尔的国家目的论与理性规训体系展开解构。
@@ -160,6 +175,6 @@ updated: 2026-11-15
 > | [[Aesthetics of Ugliness]] | 概念 | 界定丑为美的匮乏并仅在诗歌中有限容许丑，引发黑格尔学派系统建构丑学。 |
 > | [[Mimesis]] | 概念 | 区分再现正确性与艺术真理，提出三重论证反驳自然主义摹仿论。 |
 > | [[Imagined Community]] | 理论 | 晨祷类比揭示大众在私密空间分秒不差复制同一种世俗仪式，支撑民族想象。 |
-> | [[Hegel's Aesthetics]] | 理论 | 将美界定为理念的感性显现，并将历史艺术形式与门类媒介系统平行整合。 |
+> | [[Hegel's Aesthetics]] | 理论 | 将美界定为理念的感性显现，并将历史[[Kunstformen\|艺术形式]]与门类媒介系统平行整合。 |
 > | [[Immanuel Kant]] | 人物 | 批判吸收其主体性与范畴论，将先验唯心论推展为绝对历史辩证法。 |
 > | [[Karl Rosenkranz]] | 人物 | 门下弟子，撰写《丑的美学》延续并突破黑格尔的总体性与美丑边界。 |

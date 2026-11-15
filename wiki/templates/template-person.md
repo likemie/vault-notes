@@ -77,15 +77,24 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-> [!claim] 核心思想
-> 用一段话概括此人最稳定、最有解释力的思想主张。聚焦可争辩的核心论断，不复述著作清单。
+%% 核心思想写成 1–3 组“主张 + 原文”。每组一个 [!person-thesis]，标题为“主张一｜<完整判断>”；正文用自己的话论证这条主张，段末给 APA 引用；紧接着在同一 callout 内嵌套一个 [!thesis-quote]，放直接支撑这条主张的原文。
+   原文卡标题写出处（著作名与年份，或“<学者名>转述”）；先写中文译文或中文原文，再空一行写英文原文（斜体）。一条主张只配与它直接对应的原文，不把原文另列成独立卡片，也不写“关键表述一”等元叙述标签。 %%
 
-%% 记录代表性思想引文。直接使用不折叠卡片（[!citation-card]），卡片标题直接采用具体思想主题或名言关键词，严禁添加“关键表述一/二/三”、“关键表述：”等自我说明性元叙述标签。 %%
-
-> [!citation-card] <核心命题或思想主题，如：教育权作为国家公共资源>
-> 中文译文或中文原文。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> [!person-thesis] 主张一｜<用完整句写出此人的一个核心判断>
+> 用一段连贯文字说明这一主张的含义、它回应的问题与适用条件，聚焦可争辩的判断，不复述著作清单。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 >
-> *Original text or English translation.*
+> > [!thesis-quote] <原文出处，如：《认识与兴趣》（1968）>
+> > 中文译文或中文原文。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> >
+> > *Original text or English translation.*
+
+> [!person-thesis] 主张二｜<另一个核心判断>
+> 说明这一主张与主张一的关系（延伸、补充或张力）及其论证依据。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+>
+> > [!thesis-quote] <原文出处>
+> > 中文译文或中文原文。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> >
+> > *Original text or English translation.*
 
 ---
 

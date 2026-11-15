@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 23
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -48,6 +48,7 @@ related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[John Hattie]]"
   - "[[Max Planck]]"
+  - "[[Theodor Adorno]]"
   - "[[Klaus Nielsen]]"
 related_facts: []
 related_arguments:
@@ -79,7 +80,7 @@ updated: 2026-11-15
 > - **1970 年代** 在波恩大学与波鸿大学研读哲学与社会学，深受青年[[Georg Wilhelm Friedrich Hegel|黑格尔]]派与早期[[Critical Theory|批判理论]]启发。
 > - **1982** 在柏林自由大学完成[[Doctoral Dissertation|博士论文]]，受[[Jürgen Habermas|尤尔根·哈贝马斯]]（[[Jürgen Habermas]]）邀请赴[[Max Planck|马克斯·普朗克]]研究所担任助理研究员，正式[[Infusion Approach|融入法]]兰克福学派正统谱系。
 > - **1992** 发表德文奠基作《承认的斗争》（*Kampf um Anerkennung*），英译本于 1996 年出版，震动西方哲学与政治学界，被公认为法兰克福学派第三代崛起的代表标志。
-> - **2001** 接任法兰克福社会研究所（IfS）所长，执掌阿多诺与霍克海默开创的批判理论重镇长达 17 年。
+> - **2001** 接任法兰克福社会研究所（IfS）所长，执掌[[Theodor Adorno|阿多诺]]与霍克海默开创的批判理论重镇长达 17 年。
 > - **2003** 与美国批判女权主义哲学家南希·弗雷泽（Nancy Fraser）展开载入当代政治哲学史的“再分配还是承认”世纪大论战，出版合著《再分配还是承认？一个政治-哲学交换》（*Redistribution or Recognition?*）。
 > - **2008** 出版《物化：[[Recognition Theory|承认理论]]的重构》（*Reification: A New Look at an Old Idea*），将存在论层面的原初承认确立为社会交往的第一基石。
 > - **2011** 出版法哲学巨著《自由的权利》（*Das Recht der Freiheit*），系统论证现代民主社会三大领域的社会自由实现。
@@ -147,4 +148,4 @@ updated: 2026-11-15
 > | [[Critical Theory\|批判理论]] | 学派归属 | 作为法兰克福学派第三代领军人，将批判理论推进至关注微观道德体验的承认斗争。 |
 > | [[Jürgen Habermas\|尤尔根·哈贝马斯]] | 导师与思想源流 | 继承其交往行为理论，同时克服其形式主义言说商谈局限，推进至实质承认。 |
 > | [[Technical Rationality\|技术理性]] | 批判对立面 | 霍耐特的物化学说为批判舍恩界定的技术理性工程控制提供了深层存在论依据。 |
-> | [[Visible Learning\|可见的学习]] | 理论批判靶向 | 尼尔森等运用霍耐特理论解构可见学习对师生[[Intentionality\|主体意向性]]的剥夺与[[Neo-Taylorism\|新泰勒主义]][[Disciplina and Doctrina\|规训]]。 |
+> | [[Visible Learning\|可见的学习]] | 理论批判对象 | 尼尔森等运用霍耐特理论解构可见学习对师生[[Intentionality\|主体意向性]]的剥夺与[[Neo-Taylorism\|新泰勒主义]][[Disciplina and Doctrina\|规训]]。 |

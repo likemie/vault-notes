@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 22
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -46,10 +46,13 @@ related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Gottfried Wilhelm Leibniz]]"
   - "[[Alexander Gottlieb Baumgarten]]"
+  - "[[Georg Lukács]]"
   - "[[Friedrich Hölderlin]]"
   - "[[Friedrich Wilhelm Joseph Schelling]]"
   - "[[Friedrich Nietzsche]]"
+  - "[[Theodor Adorno]]"
   - "[[Johann Gottlieb Fichte]]"
+  - "[[Hans-Georg Gadamer]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch03]]"
@@ -101,14 +104,14 @@ updated: 2026-11-15
 >
 > *Man plays only when he is in the full sense of the word a man, and he is only wholly man when he is playing. (AL, letter 15)*
 
-> [!citation-card] 格奥尔格·卢卡奇论席勒的历史意识与唯心主义局限
+> [!citation-card] [[Georg Lukács|格奥尔格·卢卡奇]]论席勒的历史意识与唯心主义局限
 > 格奥尔格·卢卡奇（Georg Lukács）肯定席勒在美学中引入了历史感，但批评其历史范畴仍从理性范畴推导而来，主张意识优先于存在，并认为“历史理解与审美理解基本概念之间的矛盾”构成了席勒思想中最深层的内在冲突。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, pp. 44, 222 n.5, 224 n.23)]]
 
 ---
 
 > [!influence-path] 影响路径
 > - **德国古典哲学路径** 席勒关于历史性、美作为主客体统一以及“爱”的哲学思考，经由[[Friedrich Hölderlin|弗里德里希·荷尔德林]]（Friedrich Hölderlin）的“统一哲学”（*Vereinigungsphilosophie*），直接启发了谢林（[[Friedrich Wilhelm Joseph Schelling]]）与[[Georg Wilhelm Friedrich Hegel|黑格尔]]的客观唯心主义美学体系。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, pp. 44, 55–56)]]
-> - **现代性批判与西方马克思主义路径** 其《审美教育书简》第六封信对劳动分工与人的[[Alienation|异化]]之剖析，以及第 26 封信关于审美外观否定现实的论断，深刻影响了卢卡奇、[[Friedrich Nietzsche|弗里德里希·尼采]]（Friedrich Nietzsche）的日神精神、恩斯特·布洛赫（Ernst Bloch）的“前照”（*Vorschein*）以及西奥多·阿多诺（Theodor W. Adorno）的审美现代性理论。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, pp. 47, 50–51, 58–59)]]
+> - **现代性批判与西方马克思主义路径** 其《审美教育书简》第六封信对劳动分工与人的[[Alienation|异化]]之剖析，以及第 26 封信关于审美外观否定现实的论断，深刻影响了卢卡奇、[[Friedrich Nietzsche|弗里德里希·尼采]]（Friedrich Nietzsche）的日神精神、恩斯特·布洛赫（Ernst Bloch）的“前照”（*Vorschein*）以及[[Theodor Adorno|西奥多·阿多诺]]（Theodor W. Adorno）的审美现代性理论。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, pp. 47, 50–51, 58–59)]]
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hammermeister_2002_Cambridge_Ch03|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch03|第 3 章]]系统剖析席勒如何借助冲动学说、游戏冲动与审美外观重构康德美学[[Paradigm|范式]]，并揭示其形式与历史维度无法弥合的内在分裂。
@@ -124,7 +127,7 @@ updated: 2026-11-15
 
 > [!critique] 批评索引
 > - **约翰·戈特利布·费希特（1794）** 在提交《季节女神》的文稿《论哲学中的精神与字母》中指出，没有自由就无法培养审美品味，没有审美品味又无法赋予人自由，席勒的美育政治方案陷入恶性循环。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, p. 59)]]
-> - **汉斯-格奥尔格·伽达默尔（Hans-Georg Gadamer）** 指出席勒在试图以审美调和康德“实然与应然”二元论时，自身却裂开了一道更深且未解决的二元对立。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, p. 60)]]
+> - **[[Hans-Georg Gadamer|汉斯-格奥尔格·伽达默尔]]（Hans-Georg Gadamer）** 指出席勒在试图以审美调和康德“实然与应然”二元论时，自身却裂开了一道更深且未解决的二元对立。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, p. 60)]]
 
 ---
 

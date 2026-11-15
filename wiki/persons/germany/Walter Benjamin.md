@@ -11,10 +11,10 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 16
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: 1892
 died: 1940
 lifespan: "1892–1940"
@@ -26,6 +26,11 @@ tags:
 related_concepts:
   - "[[Homogeneous, Empty Time]]"
   - "[[Messianic Time]]"
+  - "[[Nationalism]]"
+  - "[[Creativity]]"
+  - "[[Cultural Nationalism vs. Political Nationalism]]"
+  - "[[Construct]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Imagined Community]]"
@@ -33,22 +38,26 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Benedict Anderson]]"
+  - "[[Theodor Adorno]]"
+  - "[[Jürgen Habermas]]"
   - "[[Erich Auerbach]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
+  - "[[Argument_Anderson_2016_Verso]]"
+  - "[[Argument_Anderson_2016_Verso_Ch09]]"
 confidence: high
 status: active
 created: 2026-11-11
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 德国犹太裔哲学家、文学批评家、散文家与翻译家，20世纪西方马克思主义与法兰克福学派批判理论的关键代表人物。
+> - **身份位置** 德国犹太裔哲学家、文学批评家、散文家与翻译家，20世纪西方马克思主义与法兰克福学派[[Critical Theory|批判理论]]的关键代表人物。
 > - **核心角色** 近现代历史哲学与媒介文化研究的重要奠基者，以独创的弥赛亚救赎神学与唯物史观融合视角，批判近代资产阶级启蒙进步主义的线性时间假定。
-> - **代表贡献** 提出[[Homogeneous, Empty Time|齐一而空洞的时间]]（homogeneous, empty time）与[[Messianic Time|弥赛亚时间]]（Messianic time）的经典分野，为[[Benedict Anderson|本尼迪克特·安德森]]解剖现代民族主义的认知根源提供了关键理论工具。
+> - **代表贡献** 提出[[Homogeneous, Empty Time|齐一而空洞的时间]]（homogeneous, empty time）与[[Messianic Time|弥赛亚时间]]（Messianic time）的经典分野，为[[Benedict Anderson|本尼迪克特·安德森]]解剖现代[[Nationalism|民族主义]]的认知根源提供了关键理论工具。
 
 > [!citation-card] 本雅明论同质空洞的时间与弥赛亚救赎
 > 历史主义正确地提出了历史的“普遍”图像。它确立了一种方法，其程序是添加式的：调集大量事实来填补空洞而齐一的时间。历史唯物主义则以一种建设性的原则为依据。思考不仅包含观念的流动，也包含观念的停滞。当思考在充满紧张的关系群中突兀止步时，它就赋予这个关系群一种震颤，借此将它凝结为一个单子。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 24–25)]]
@@ -81,8 +90,8 @@ updated: 2026-11-14
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 成为法兰克福学派批判理论、文化研究与后现代历史哲学的核心源泉，深刻启发了阿多诺、哈贝马斯、德里达与阿甘本。
-> - **对民族主义研究的启发** 安德森在《想象的共同体》中将本雅明剖析的“齐一而空洞的时间”创造性转化为解释民族想象成立的关键认知机制，奠定了文化民族主义研究的时间论转向。
+> - **理论路径** 成为法兰克福学派批判理论、文化研究与后现代历史哲学的核心源泉，深刻启发了[[Theodor Adorno|阿多诺]]、[[Jürgen Habermas|哈贝马斯]]、德里达与阿甘本。
+> - **对民族主义研究的启发** 安德森在《[[Imagined Community|想象的共同体]]》中将本雅明剖析的“齐一而空洞的时间”[[Creativity|创造性]]转化为解释民族想象成立的关键认知机制，奠定了[[Cultural Nationalism vs. Political Nationalism|文化民族主义]]研究的时间论转向。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 汲取其齐一空洞时间论断阐释民族共时想象（[[Argument_Anderson_2016_Verso_Ch02|第2章]]），并在全书收尾以历史天使寓言反思现代民族主义悲剧（[[Argument_Anderson_2016_Verso_Ch09|第9章]]）。
@@ -90,7 +99,7 @@ updated: 2026-11-14
 ---
 
 > [!person-network] 关系网络
-> - **理论转化与对话者** [[Benedict Anderson|本尼迪克特·安德森]] — 在《想象的共同体》中创造性转化其时间构念，奠定民族主义文化根源的分析范式。
+> - **理论转化与对话者** [[Benedict Anderson|本尼迪克特·安德森]] — 在《想象的共同体》中创造性转化其时间[[Construct|构念]]，奠定民族主义文化根源的分析[[Paradigm|范式]]。
 > - **文学解释学参照** [[Erich Auerbach|埃里希·奥尔巴赫]] — 与奥尔巴赫的中世纪图型解释学形成参照，共同支撑安德森对前现代预表时间与现代世俗时间的对比。
 
 ---

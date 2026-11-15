@@ -6,7 +6,7 @@ aliases:
 summary: "谢林在《先验唯心论体系》中提出的最高认识论直观形态，指成为客观存在的理智直观，借由艺术作品将哲学概念无法呈现的意识与无意识原初同一性公开展示出来。"
 type: concept
 domain: "educational-philosophy"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,7 @@ related_theories:
   - "[[Schelling's Aesthetics]]"
 related_persons:
   - "[[Friedrich Wilhelm Joseph Schelling]]"
+  - "[[Theodor Adorno]]"
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch04]]"
 confidence: high
@@ -71,7 +72,7 @@ updated: 2026-11-15
 > [!dev-timeline] 概念演变
 > - **1800 — 体系顶点的确立** 谢林在《先验唯心论体系》第六章将审美直观置于哲学体系顶点，宣告艺术高于概念哲学。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62, 74–75)]]
 > - **1802–1805 — 地位回落与理念阐释** 在《艺术哲学》与《学术研究方法论讲演录》中，谢林取消艺术作为哲学顶石的特权，主张艺术显现仍需哲学家运用概念加以阐释。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 66, 77–78, 81–82)]]
-> - **20 世纪 — 现代哲学回响** 谢林在《体系》中由审美直观确立的“艺术真理先于并开启科学探究”之思路，直接延展至海德格尔（Martin Heidegger）“艺术作为真理之敞开”的理论及阿多诺（Theodor W. Adorno）对工具理性的批判。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 66, 85–86)]]
+> - **20 世纪 — 现代哲学回响** 谢林在《体系》中由审美直观确立的“艺术真理先于并开启科学探究”之思路，直接延展至海德格尔（Martin Heidegger）“艺术作为真理之敞开”的理论及[[Theodor Adorno|阿多诺]]（Theodor W. Adorno）对工具理性的批判。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 66, 85–86)]]
 
 ---
 
