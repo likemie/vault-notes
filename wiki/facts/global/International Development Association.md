@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Academic Achievement]]"
   - "[[State Educational Sovereignty]]"
+  - "[[Alienation]]"
   - "[[Multilateral Development Bank]]"
   - "[[Counterpart Funds]]"
   - "[[Policy Conditionalities]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-15
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -133,7 +134,7 @@ updated: 2026-11-11
 > > - **批评视角（反方）** 出资国每三年一度在增资谈判中设定冗长且互相冲突的“特别优先议题”，将贷款与新自由主义经济教条、私有化竞争或严苛指标相挂钩；由于极贫国家在增资谈判中缺乏投票权与议价筹码，往往只能被动接受外源性政策强加，削弱了[[State Educational Sovereignty|国家教育主权]]与本土政策自主性。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 476)]]
 > > - **机构与出资方立场（正方）** 辩护者主张增资谈判必须对发达国家纳税人的公共支出负责；设立治理与绩效考核机制（PBA 与 CPIA），是防止优惠资金流向腐败政权、确保援助真正到达社会底层的必要风控约束。
 >
-> > [!axis] 基层治理毛细力匮乏与“重投入轻产出”执行异化争议
+> > [!axis] 基层治理毛细力匮乏与“重投入轻产出”执行[[Alienation|异化]]争议
 > > 发展学者反思协会在极贫国家的实际治理穿透力与教育成果转化瓶颈。
 > >
 > > - **批评视角（反方）** 正如[[Claudio de Moura Castro|卡斯特罗]]（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 468–469]]）所揭示，最贫困国家最严重匮乏的是公共官僚的基层治理毛细渗透力（Capillarity），根本无力驾驭错综复杂的微观教育交易流程；这导致国际开发协会的软贷款项目频繁陷入资金拨付严重滞后、繁琐合规程序导致项目烂尾的泥潭；在考核压力下，项目官僚往往将注意力退缩至易于核销发票的“砖瓦校舍修建与课本采购”，对真正改善一线课堂教学质量与学生实际认知习得作用甚微。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 468–471)]]

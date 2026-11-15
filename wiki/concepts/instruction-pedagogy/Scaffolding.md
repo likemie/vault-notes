@@ -14,7 +14,7 @@ aliases:
 summary: "教师、同伴或技术工具在学习者最近发展区内提供的临时性认知与教学支持结构，通过任务拆解、启发提示与系统性渐隐，协助学习者跨越能力边界并将外部支持内化为自主心智能力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 66
+related_count: 67
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Defeater]]"
   - "[[Alternative Hypothesis]]"
   - "[[Wicked Problem]]"
+  - "[[Alienation]]"
   - "[[Structured Teaching]]"
   - "[[Document]]"
   - "[[Justificatory Standards]]"
@@ -99,7 +100,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 > [!def] Scaffolding
@@ -176,7 +177,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题二｜缺乏系统性渐隐的过度支架会诱发[[Cognitive Offloading|认知外包]]并侵蚀自主思维能力
-> **支架滞留与认知依赖风险** 围绕长期持续支持是否会导致学生从“借力探索”滑向“心智委托”的理论争议。脚手架若不主动退场，将由认知跳板异化为思维惰性的温床。
+> **支架滞留与认知依赖风险** 围绕长期持续支持是否会导致学生从“借力探索”滑向“心智委托”的理论争议。脚手架若不主动退场，将由认知跳板[[Alienation|异化]]为思维惰性的温床。
 
 > [!claim] Wang et al.; Zhao et al.
 > **支架渐隐缺失诱发心智惰性** 教学支架具有严格的生命周期性。如果教学系统或智能工具在学习者跨越入门瓶颈后依然长期提供全面细致的答案提示或步骤代劳，学生往往会演变为捷径式操作，直接跳过探索推导、方案比对与差错审视的深层动脑环节。这种未经渐隐的持续外部辅助，在客观上剥夺了学生经受挫折反思和自主试错的宝贵心智演练机会，最终诱发对外部工具的严重认知依赖，导致独立[[Problem Solving\|问题解决能力]]与独创性表现出现滑坡。因此，分阶段系统性撤除辅助是保证脚手架促学价值最终积累为个人自主素养的充要条件。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 5–6, 14–15)]]

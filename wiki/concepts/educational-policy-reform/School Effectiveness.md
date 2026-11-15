@@ -8,7 +8,7 @@ aliases:
 summary: "以学校内部组织与教学差异解释学业成就的研究取向，在政策治理中将学校重塑为可量化干预的技术对象，并在全球教育转移中被学术重商主义包装为跨国咨询商品。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 60
+related_count: 61
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Abstract]]"
   - "[[Category Mistake]]"
+  - "[[Alienation]]"
   - "[[Class Size]]"
   - "[[Document]]"
   - "[[Disciplina and Doctrina]]"
@@ -90,7 +91,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 > [!def] School Effectiveness
@@ -194,7 +195,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题五｜混淆校内相对效能与校际社会效能导致[[Category Mistake|范畴谬误]]与责任转嫁
-> **效能[[Paradigm|范式]]的[[Category Mistake|范畴谬误]]与政治卸责** 揭示实证效能研究中混淆微观“校内教学改进（第一类研究）”与宏观“克服社会阶层不平等（第二类研究）”所引发的归因断裂，以及量化数据被政客异化为规训公立学校的机制。
+> **效能[[Paradigm|范式]]的[[Category Mistake|范畴谬误]]与政治卸责** 揭示实证效能研究中混淆微观“校内教学改进（第一类研究）”与宏观“克服社会阶层不平等（第二类研究）”所引发的归因断裂，以及量化数据被政客[[Alienation|异化]]为规训公立学校的机制。
 
 > [!claim|notitle]
 > **两类效能研究的范畴谬误与结构性责任隐匿** [[Ivan Snook|斯努克]]等人指出，正统学校效能研究与[[John Hattie|约翰·哈蒂]]（John Hattie）在证据解读中犯下了严重的范畴谬误（Category Mistake）：它们将第一类效能研究（探讨在学生背景同质的前提下，校内教师如何改进教学）的发现，非法外推至第二类效能研究（探讨学校能否克服社会不平等）。大量实证研究（如英国 Gray et al., 1986；新西兰 Harker, 1995）表明，学生家庭背景（[[Socioeconomic Status|SES]]）解释了 70%–80% 的学业总方差，校际净效能差异仅占约 8%–10%。哈蒂与新自由主义政策制定者借“校内教师差异大于校际差异”为由，宣称学校和教师能够单凭教学效能克服贫困，本质上是在用微观教学参数掩盖宏观社会不平等的决定性影响，为政府削减教育经费、推卸社会再分配责任提供了实证借口。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97–99)]]

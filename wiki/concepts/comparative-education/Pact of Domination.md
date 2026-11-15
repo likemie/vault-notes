@@ -8,7 +8,7 @@ aliases:
 summary: "批判政治社会学与拉美依附国家理论核心概念，指外围资本主义国家中国内后封建寡头、新兴买办资产阶级与跨国垄断资本跨越利益分歧结成的排他性阶级同盟，解释了国家何以沦为代用国家并在面对底层抗争时推行教育双轨与补偿性合法化"
 type: concept
 domain: "comparative-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ tags:
   - latin-america
 related_concepts:
   - "[[Construct]]"
+  - "[[Alienation]]"
   - "[[Cultural Capital]]"
   - "[[Compensatory Legitimation]]"
 related_theories:
@@ -37,13 +38,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Pact of Domination
-> 支配同盟（Pact of Domination）是[[Dependency Theory|依附论]]国家学说与批判教育政治社会学中的核心[[Construct|构念]]，指外围资本主义国家中国内大地主阶级、买办金融-工业资产阶级与跨国垄断资本集团跨越派系分歧所结成的排他性权力同盟与统治契约；该同盟将国家机器异化为维护少数特权阶层利益的“代用国家（Surrogate State）”，使国家在本质上无法履行代表全体公民公意、推动实质教育公平与经济民主化的公共职能。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
+> 支配同盟（Pact of Domination）是[[Dependency Theory|依附论]]国家学说与批判教育政治社会学中的核心[[Construct|构念]]，指外围资本主义国家中国内大地主阶级、买办金融-工业资产阶级与跨国垄断资本集团跨越派系分歧所结成的排他性权力同盟与统治契约；该同盟将国家机器[[Alienation|异化]]为维护少数特权阶层利益的“代用国家（Surrogate State）”，使国家在本质上无法履行代表全体公民公意、推动实质教育公平与经济民主化的公共职能。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向统治阶级内部跨部门、跨国界的结构性联合。

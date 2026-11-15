@@ -9,7 +9,7 @@ aliases:
 summary: "指人类意识内在指向特定对象、寻求生存意义与建构社会价值的先在属性；在教育哲学中，主体意向性强调学习者与教师是探求生活世界意义的主动行动者，构成了抵抗行为主义机械因果控制与新泰勒主义量化规训的核心本体论根基"
 type: concept
 domain: "educational-philosophy"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Technical Rationality]]"
   - "[[Self-Efficacy]]"
+  - "[[Alienation]]"
   - "[[Operationalization]]"
   - "[[Variable]]"
   - "[[Paradigm]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 （主体意向性 / 意向性）
@@ -77,7 +78,7 @@ updated: 2026-11-11
 > - **用途** 用于透视当代[[Evidence-Based Education|循证教育]]与[[Technical Rationality|技术理性]]如何借由认知术语（如[[Self-Efficacy|自我效能]]、自我设限）置换学习者真实的生存困境，揭示量化指标对师生生命关怀的制度性放逐。
 > - **边界** 意向性始终嵌入在制度规则与主体间承认的关系网络之中，是具有深刻历史社会性的主体实践能力。
 
-> [!citation-card] 意向性的放逐与技术问题解决器的异化
+> [!citation-card] 意向性的放逐与技术问题解决器的[[Alienation|异化]]
 > [[John Hattie|哈蒂]]的体系中彻底缺乏关于人类意向性的概念，对学校在学生生活中扮演的角色亦缺乏理解。他的著作未曾将学生或教师描绘为寻求与诠释意义的主体，学生仅仅被视作对教师影响做出反应的客体。学生的意向性与独特性被一种追求解决问题效率的理解所置换，最终将活生生的人异化为纯粹的技术问题解决器。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, p. 14)]]
 >
 > *Hattie gives no concept of intentionality, and no understanding of the role that school plays in students' lives. His work does not portray students or teachers as seeking or interpreting meaning... The students' intentionality and uniqueness are replaced by an understanding of their effectiveness in solving problems.*

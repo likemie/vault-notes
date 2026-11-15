@@ -7,7 +7,7 @@ aliases:
 summary: "全面质量管理（Total Quality Management, TQM）是以全员参与、流程持续改进（CQI）、学习者导向及客观数据决策为特征的组织治理范式。由戴明与朱兰奠基，经产业联盟（如 SEMATECH）实践后，于 1990 年代广泛渗透至高等教育质量保证与学校治理变革。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Technological Catch-up]]"
   - "[[Industry Affiliate Program]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Alienation]]"
   - "[[Critical Thinking]]"
   - "[[Red Tape]]"
   - "[[Emergence]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -168,7 +169,7 @@ updated: 2026-11-03
 ---
 
 > [!critique] 外部批评
-> - **“学生即产品/顾客”的隐喻异化** 批评者指出，教育过程具有深度的主体互动性，将学生简单物化为制造业中的“加工产品”或纯粹的“商业顾客”，会严重矮化师生之间充满启发、挑战与[[Critical Thinking|批判性思维]]的教育本体价值。
+> - **“学生即产品/顾客”的隐喻[[Alienation|异化]]** 批评者指出，教育过程具有深度的主体互动性，将学生简单物化为制造业中的“加工产品”或纯粹的“商业顾客”，会严重矮化师生之间充满启发、挑战与[[Critical Thinking|批判性思维]]的教育本体价值。
 > - **官僚合规主义与表格[[Red Tape|繁文缛节]]** 当 TQM 被行政官僚异化为大量的质量记录、评审表格和形式主义审核时，会大量挤占教师真正的教学与科研精力。
 
 > [!warning] 适用局限

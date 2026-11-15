@@ -9,7 +9,7 @@ aliases:
 summary: "国际关系与软法治理中的合规机制在教育领域的制度化应用，指超国家机构通过公布跨国联赛排名将参测国区分为“优胜者”与“落后者”，借助大众媒体议程激活国内公众落后恐慌与政治问责，以此倒逼政府启动教育改革的非强制性声誉规制技术"
 type: concept
 domain: "comparative-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Bureaucracy]]"
   - "[[State Educational Sovereignty]]"
   - "[[Nationalism]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -147,4 +148,4 @@ updated: 2026-11-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 系统阐发点名羞辱机制在经合组织硬事实软治理中的地位，深度解析德国与瑞士的体制重构路径。
-> - [[Argument_Zhao_2020_JEC|Zhao (2020)]] — 批判排行榜羞辱对全球基础教育造成的应试内卷异化与教育生态单向度破坏。
+> - [[Argument_Zhao_2020_JEC|Zhao (2020)]] — 批判排行榜羞辱对全球基础教育造成的应试内卷[[Alienation|异化]]与教育生态单向度破坏。

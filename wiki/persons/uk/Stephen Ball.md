@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 56
+person_related_count: 57
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Policy Entrepreneur]]"
   - "[[School Choice]]"
+  - "[[Alienation]]"
   - "[[Soft Privatisation]]"
   - "[[Philanthrocapitalism]]"
   - "[[Recontextualization]]"
@@ -106,7 +107,7 @@ updated: 2026-11-15
 > - **1990 年代初** 执教于伦敦大学国王学院，1993 年发表关于教育市场与[[School Choice|择校]]的经典研究，提出市场机制实质是国家重塑阶级特权的阶级策略。
 > - **1994 年** 出版著作 *Education Reform: A Critical and Post-structural Approach*，确立政策文本、政策语境与政策实践动态互动的批判[[Analytic Framework|分析框架]]。
 > - **2000 年代初** 加盟伦敦大学教育学院（IOE），任教育政策卡尔·曼海姆讲座教授；系统考察新工党政府的教育市场化与公私伙伴网络。
-> - **2003 年** 发表开创性专论 *The teacher's soul and the terrors of [[Performativity]]*，提出[[Performativity|表演性]]概念，奠定批判量化问责对教师主体性异化研究的理论基石。
+> - **2003 年** 发表开创性专论 *The teacher's soul and the terrors of [[Performativity]]*，提出[[Performativity|表演性]]概念，奠定批判量化问责对教师主体性[[Alienation|异化]]研究的理论基石。
 > - **2008 年** 与德博拉·尤德尔（Deborah Youdell）合作发布全球报告《公共教育中的[[Soft Privatisation|隐性私有化]]》，正式确立内生与[[Exogenous Privatisation|外生私有化]]的双轨分析[[Paradigm|范式]]；同年发表 *Some sociologies of education*，反思教育社会学史上的治理目光转向。
 > - **2012 年** 出版 *Global Education Inc.*，系统绘制全球教育商业化、[[Philanthrocapitalism|慈善资本主义]]与跨国[[Policy Network|政策网络]]图景。
 

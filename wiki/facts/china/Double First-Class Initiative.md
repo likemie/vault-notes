@@ -13,7 +13,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 35
+fact_related_count: 37
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ tags:
   - policy/national-strategy
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[Mimesis]]"
   - "[[Original Innovation Capability]]"
   - "[[Competitiveness]]"
   - "[[Soft Power]]"
@@ -44,6 +45,7 @@ related_concepts:
   - "[[Student Mobility]]"
   - "[[English-Medium Instruction in Higher Education]]"
   - "[[Document]]"
+  - "[[Alienation]]"
   - "[[People-to-People Connectivity]]"
   - "[[Academic Freedom]]"
   - "[[International Education Hubs]]"
@@ -70,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-10
+updated: 2026-11-15
 ---
 
 ---
@@ -78,7 +80,7 @@ updated: 2026-11-10
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2015 年 10 月由中华人民共和国国务院正式印发《统筹推进世界一流大学和一流学科建设总体方案》；2017 年 9 月教育部、财政部、国家发展改革委联合公布首批建设高校及建设学科名单。
 > - **适用地区 / 对象** 全国重点高等院校及其重点建设学科，首轮确定 42 所世界一流大学建设高校（A 类 36 所，B 类 6 所）与 95 所一流学科建设高校。
-> - **问题背景** 在全球[[Knowledge-Based Economy|知识经济]]与大国科技竞争背景下，中国亟须从技术引进与模仿转向具备自主前沿[[Original Innovation Capability|原始创新能力]]；高水平大学需要提升学术排位与国际[[Competitiveness|竞争力]]，服务国家创新驱动发展与对外大战略。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 80–81)]]
+> - **问题背景** 在全球[[Knowledge-Based Economy|知识经济]]与大国科技竞争背景下，中国亟须从技术引进与[[Mimesis|模仿]]转向具备自主前沿[[Original Innovation Capability|原始创新能力]]；高水平大学需要提升学术排位与国际[[Competitiveness|竞争力]]，服务国家创新驱动发展与对外大战略。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 80–81)]]
 > - **制度位置** 该政策是继 1993 年《中国教育改革和发展纲要》、1995 年“[[Project 211|211 工程]]”以及 1998 年“[[Project 985|985 工程]]”之后，中国高等教育领域规格最高、投入最集中的顶层制度重组。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 80)]]
 
 ---
@@ -154,7 +156,7 @@ updated: 2026-11-10
 >
 > > [!axis] 理工科指标突进 vs 人文社科全面均衡
 > > 针对一流学科建设评价指标偏向自然科学与工程技术发表的现象产生学术反思。
-> > - **指标异化担忧** 资源向具备量化排位优势的理工科学科倾斜，可能导致人文学科与社会科学在学术生态中面临边缘化与评价尺度趋同风险。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 80)]]
+> > - **指标[[Alienation|异化]]担忧** 资源向具备量化排位优势的理工科学科倾斜，可能导致人文学科与社会科学在学术生态中面临边缘化与评价尺度趋同风险。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 80)]]
 > > - **竞争策略辩护** 强调在科技强国建设初期，聚焦关键战略技术和可比国际指标是快速缩小与西方大国科技代差的现实选择。
 
 ---

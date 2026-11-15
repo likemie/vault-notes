@@ -7,7 +7,7 @@ aliases:
 summary: "知识的创造、建构与合法化过程。在宏观治理与地缘场域揭示资本偏向、跨国指标自指性、国家教育督导对单一范式知识的行政建构与清洗，以及大国脱钩对知识策源地地位的冲击；在微观教学场域指向学习者在协商共同体中依托证据协调自主生成新知并内化审议价值。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 154
+related_count: 155
 related_level: 15
 related_stars: "💎💎💎💎💎"
 related_color: "#ddd6fe"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Humboldtian Model of Higher Education]]"
   - "[[Scientific Productivity]]"
   - "[[Intellectual Capital]]"
+  - "[[Alienation]]"
   - "[[Narrative Knowledge]]"
   - "[[Gatekeepers]]"
   - "[[Policy Brokerage]]"
@@ -185,7 +186,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -286,7 +287,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题三｜产学协同机制与知识产权法案重塑了知识生产成果的资本归属与学科生态
-> **[[Intellectual Capital|知识资本]]化与学科非对称繁荣** 剖析研发成果向产业转化过程中，知识生产如何发生资本异化并导致人文社会科学的相对衰退。
+> **[[Intellectual Capital|知识资本]]化与学科非对称繁荣** 剖析研发成果向产业转化过程中，知识生产如何发生资本[[Alienation|异化]]并导致人文社会科学的相对衰退。
 
 > [!claim] [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]]; [[Argument_Partaken_2022_Springer|Partaken (2022)]]
 > **知识生产的商业化规训与资本剥离** 1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》打破了联邦资助成果归政府所有的僵局，明确大学可享有专利并向企业转让，极大地激活了生物医药与工程等硬科学领域的知识生产；然而这种市场导向也导致知识生产成果在法律所有权上被工业资本捕获，并加剧了学科资源的不对称分配——可直接创造商业专利的硬科学受到资本热捧，而承担批判反思功能的[[Narrative Knowledge|叙事知识]]（人文社会科学）在国家研发盘子中面临持续的相对边缘化。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]; [[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 71–75)]]

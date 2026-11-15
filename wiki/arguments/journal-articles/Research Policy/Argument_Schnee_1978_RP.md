@@ -34,7 +34,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Applied Medical Innovation]]"
   - "[[Paradigm]]"
-  - "[[Refined Mastery]]"
+  - "[[Alienation]]"
   - "[[Evaluation Research]]"
   - "[[Big Science]]"
 related_theories:
@@ -66,7 +66,7 @@ sources:
   - "[[sources/Schnee_1978_RP/Schnee_1978_RP|Schnee_1978_RP]]"
 status: active
 created: 2026-10-03
-updated: 2026-11-11
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Schnee_1978_RP"
@@ -296,7 +296,7 @@ journal: "Research Policy"
 
 ---
 
-> [!claim|step] 论证步骤五　差异化人才流动机制促成了半导体行业网络衍生与计算机企业内部经验迁移
+> [!claim|step] 论证步骤五　差[[Alienation|异化]]人才流动机制促成了半导体行业网络衍生与计算机企业内部经验迁移
 > 空间与国防大项目在半导体领域催化了以研发外溢与衍生企业繁衍为特征的高频企业间人才流动；在计算机领域则构建了以大型复杂系统项目经理跨部门调配为特征的企业内经验迁移，系统性培育了美国高技术管理与工程人才库。
 
 > [!sub-claim] 1. [[Bell Labs|贝尔实验室]]与仙童半导体的离职创业网络形成了高频的企业间人才流动
@@ -325,7 +325,7 @@ journal: "Research Policy"
 > [!finding-cards] 核心发现
 > 1. **公共大项目经济影响三位一体** 联邦政府在产业萌芽期通过巨额研发资助分担高风险沉没成本、在商业化初期通过 100% [[Assured Demand|确定性需求]]采购托底早熟器件释放 20%–30% 的[[Learning Economy|学习经济]]效应，并依托择优发包扶持新创企业打破垄断。
 > 2. **前沿技术演进加速与[[Demonstration Effect|示范效应]]确立** 空间与国防任务对极端环境耐受性与微型化的苛刻标准极大压缩了技术成熟周期；阿波罗登月计划与 [[Sage]] 防空系统的公开成功消除了工商业界的认知疑虑，直接推动了工业过程控制与民航订票等民用数字化普及。
-> 3. **构建企业间衍生网络与企业内知识平移双重人才机制** 空间国防订单为半导体行业离职创业的初创企业提供了生存土壤，维系了高频的企业间流动；同时为计算机工业培养了数以千计[[Refined Mastery|精通]]超大型实时系统的项目管理与架构骨干，通过企业内跨部门调配反哺国民经济关键领域。
+> 3. **构建企业间衍生网络与企业内知识平移双重人才机制** 空间国防订单为半导体行业离职创业的初创企业提供了生存土壤，维系了高频的企业间流动；同时为计算机工业培养了数以千计精通超大型实时系统的项目管理与架构骨干，通过企业内跨部门调配反哺国民经济关键领域。
 
 > [!stat-cards]- 核心数据
 > - **100%** 1962 年全美 400 万美元集成电路商业化元年产值中军工与空间采购所占份额。

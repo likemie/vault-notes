@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 32
+person_related_count: 33
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Neo-Taylorism]]"
   - "[[Student Motivation]]"
+  - "[[Alienation]]"
   - "[[Operationalization]]"
   - "[[Disciplina and Doctrina]]"
 related_theories:
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 （伯尔赫斯·弗雷德里克·斯金纳）
@@ -148,7 +149,7 @@ updated: 2026-11-02
 > > - **工程[[Positivism|实证主义]]倡导者** 视即时反馈与目标分解为提高教育效率、保障弱势群体达标的科学手段。
 > > - **[[Critical Theory|批判理论]]学派（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）** 论证斯金纳的[[Technical Rationality|技术理性]]回路消解了师生间的主体间承认，抽空了个体寻求生命意义的[[Intentionality|意向性]]，最终使教育沦为服务于[[Neo-Taylorism|新泰勒主义]]量化问责与行为操纵的管理工具。
 >
-> > [!axis] [[Student Motivation|学习动机]]异化：内在求知欲 vs 外在强化依赖
+> > [!axis] [[Student Motivation|学习动机]][[Alienation|异化]]：内在求知欲 vs 外在强化依赖
 > > 争论过度依赖外部奖励是否会损害学生长期的内在学习兴趣。
 > >
 > > - **行为主义设计者** 认为强化物能迅速启动并维持学业任务介入。

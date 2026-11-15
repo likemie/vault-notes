@@ -9,7 +9,7 @@ title: "Argument_Hartmann_2022_CorporateEducation"
 argument_key: "Argument_Hartmann_2022_CorporateEducation"
 argument_display_title: "The internationalisation of further education: Between geoeconomics and geopolitics"
 argument_kind: "book"
-argument_related_count: 17
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -24,6 +24,8 @@ tags:
 related_concepts:
   - "[[Corporate Education]]"
   - "[[Geopolitics]]"
+  - "[[Alienation]]"
+  - "[[Mimesis]]"
   - "[[Corporate University]]"
   - "[[Document]]"
   - "[[Further Education]]"
@@ -49,7 +51,7 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-18
-updated: 2026-11-11
+updated: 2026-11-15
 year: 2022
 doi: ""
 citation_aliases:
@@ -79,13 +81,13 @@ Meyer and Rowan(1977)进一步指出：科学、法律和规则本身并不自�
 
 ### DiMaggio & Powell 的制度同构：组织为什么越来越像？
 
-这是论文最核心的理论工具。DiMaggio and Powell(1983)发现，同一个领域内的组织会通过三种机制变得越来越像（同构），而不是通过市场竞争来差异化(pp.183–184)：
+这是论文最核心的理论工具。DiMaggio and Powell(1983)发现，同一个领域内的组织会通过三种机制变得越来越像（同构），而不是通过市场竞争来差[[Alienation|异化]](pp.183–184)：
 
 **强制型同构（Coercive Isomorphism）：因为你不得不服从。** 当一个组织依赖另一个组织时，后者可以强加其规范，不管对方是否真心接受。
 
 > 例：抵制 Facebook 几乎不可能——不是因为你喜欢它，而是因为没有替代品来维持你的社交关系。同理，抵制 Microsoft 培训项目几乎不可能，因为 Windows 是操作系统的事实标准(p.193)。
 
-**模仿型同构（Mimetic Isomorphism）：因为你不确定该怎么做，所以模仿别人。** 在高度不确定的环境中（比如不知道未来需要什么技能），组织倾向于模仿"看起来成功"的同行。
+**[[Mimesis|模仿]]型同构（Mimetic Isomorphism）：因为你不确定该怎么做，所以模仿别人。** 在高度不确定的环境中（比如不知道未来需要什么技能），组织倾向于模仿"看起来成功"的同行。
 
 > 例：很多公司看到竞争对手设立了"[[Corporate University\|企业大学]]"，于是自己也设立一个——不是因为分析过这是最有效的培训方式，而是因为"别人都这么做了，我们也得做"(p.189)。
 

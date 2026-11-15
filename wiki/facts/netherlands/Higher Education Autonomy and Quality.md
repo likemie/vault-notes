@@ -14,7 +14,7 @@ subtype: policy
 region: "netherlands"
 fact_region: "netherlands"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Red Tape]]"
   - "[[Policy Network]]"
   - "[[Discourse]]"
+  - "[[Alienation]]"
   - "[[Research Universities]]"
   - "[[Strategic Autonomy]]"
   - "[[Pillarization]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -121,7 +122,7 @@ updated: 2026-10-22
 > |:---|:---|:---|:---|
 > | **财政预算控制** | 刚性削减高教支出，消除常年财政超支赤字 | 维护办学与科研基础经费，拒绝行政强行裁撤系所 | 引入一揽子总额拨款（Block Grants）替代科目预算，高校自主通过 TVC 削减 2.57 亿荷盾预算 |
 > | **行政规制边界** | 保障公共财政利用效率与国家整体教育质量底线 | 消除细密繁文缛节与工时凭证审查，保障学术自治 | 政府调控退出部门以下微观事务，仅在自治导致严重不可接受后果时启动事后纠偏 |
-> | **质量控制时序** | 确保教育质量可追溯与可评估，防止放权导致质量滑坡 | 抵制政府将评估指标异化为变相行政惩罚工具 | 确立以高校自评与独立同行专家外评为主体的质量循环回路，与直接惩处脱钩 |
+> | **质量控制时序** | 确保教育质量可追溯与可评估，防止放权导致质量滑坡 | 抵制政府将评估指标[[Alienation\|异化]]为变相行政惩罚工具 | 确立以高校自评与独立同行专家外评为主体的质量循环回路，与直接惩处脱钩 |
 > | **市场化改革限度** | 增强办学灵活性以适应劳动力市场需求 | 拒绝将大学异化为自定律费、面向资本市场的商业机构 | 明确否决自由市场“企业家型大学”提案，保留公共责任与法团多主体协商框架 |
 
 ---

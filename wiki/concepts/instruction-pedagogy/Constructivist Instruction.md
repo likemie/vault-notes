@@ -9,7 +9,7 @@ aliases:
 summary: "以学习者主动建构意义为核心的教学系统，主张通过创设真实情境、激活先备经验、嵌入认知支架与促进社会协作达成概念转变与深层理解。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 64
+related_count: 65
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Cognitive Apprenticeship]]"
   - "[[Discourse]]"
   - "[[Scaffolding]]"
+  - "[[Alienation]]"
   - "[[Working Memory]]"
   - "[[Critical Pedagogy]]"
   - "[[Cultural Capital]]"
@@ -91,7 +92,7 @@ related_instruments:
   - "[[Framework for Teaching]]"
 confidence: high
 created: 2026-09-21
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 > [!def] Constructivist Instruction
@@ -179,7 +180,7 @@ updated: 2026-11-03
 > - **1999 年 — [[Constructive Alignment\|建构性对齐]]的系统化课程设计** [[Argument_Biggs_1999_HERD\|Biggs (1999)]] 提出建构性对齐理论，为建构主义由抽象教学理念转变为严密可操作的大学课程系统提供了标准蓝图。
 > - **2006–2007 年 — 无指导建构主义大论辩** 认知负荷学派（Kirschner, Sweller, & Clark, 2006）发表论文激烈抨击建构主义教学是“未提供足够指导的无效教学”；Hmelo-Silver, Duncan and Chinn (2007) 迅速撰文反驳，通过大量课堂证据澄清现代建构主义教学（如[[Inquiry-Based Learning\|指导式探究]]与 PBL）本质上包含密集而有力的[[Scaffolding\|认知支架]]。
 > - **2009–2011 年 — 宏观实证二阶综合辨正建构主义教学角色** 约翰·哈蒂（2009）与[[Ewald Terhart|埃瓦尔德·特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）基于 800 余项[[Meta-analysis|元分析]]建立二阶综合，量化对比教师作为激活者（$d = 0.60$）与促进者（$d = 0.17$）的效应断层；特哈特进一步确立从“学习即建构”无法直接推论出教师必须退居为被动促进者，推动了建构主义教学向教师显性认知领导与情境支架深度融合的理论升华。
-> - **2018 年 — 建构主义折衷方案的批判哲学审视与教学论双重瓦解** [[Argument_Rømer_2018_EPT|Rømer (2018)]] 深入剖析了[[John Hattie|哈蒂]]对[[Radical Constructivism|激进建构主义]]折衷吸收的[[Epistemology|认识论]]危机。Rømer 指出，哈蒂一方面采纳建构主义的唯我论前设，将知识降维为学习者内在心智的自主建构，从而剥离了客观人类文化（波普尔“世界三”）与教师的文化权威中介；另一方面又试图用极度主动的教师干预进行嫁接，结果导致教师退化为窥视并监控学生心智参数的技术员。此种折衷方案造成了“教学概念的双重瓦解”，警示建构主义教学若脱离客观文化实体与公共教化传统，极易沦为主观唯我论与技术化监控机器的异化组合。
+> - **2018 年 — 建构主义折衷方案的批判哲学审视与教学论双重瓦解** [[Argument_Rømer_2018_EPT|Rømer (2018)]] 深入剖析了[[John Hattie|哈蒂]]对[[Radical Constructivism|激进建构主义]]折衷吸收的[[Epistemology|认识论]]危机。Rømer 指出，哈蒂一方面采纳建构主义的唯我论前设，将知识降维为学习者内在心智的自主建构，从而剥离了客观人类文化（波普尔“世界三”）与教师的文化权威中介；另一方面又试图用极度主动的教师干预进行嫁接，结果导致教师退化为窥视并监控学生心智参数的技术员。此种折衷方案造成了“教学概念的双重瓦解”，警示建构主义教学若脱离客观文化实体与公共教化传统，极易沦为主观唯我论与技术化监控机器的[[Alienation|异化]]组合。
 > - **2021–2023 年 — 因果[[Meta-analysis\|元分析]]确立支架建构教学的高效能** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 与 [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 通过大样本元分析量化证实，提供结构化指导与证据评估规则的建构式探究教学具有突出的学业与[[Epistemology\|认识论]]增益，彻底终结了将建构主义等同于放任式探索的理论误区。
 
 ---

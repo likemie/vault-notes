@@ -11,9 +11,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 大学多学科产学合作研究中心（University-Based Research Center）
 headquarters: "Stanford, California, USA"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Mentorship]]"
   - "[[Academic Freedom]]"
   - "[[Research Question]]"
+  - "[[Alienation]]"
   - "[[Industry Affiliate Program]]"
   - "[[University-Based Research Center]]"
   - "[[Academic Entrepreneurship]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -104,7 +105,7 @@ updated: 2026-11-02
 
 > [!indicators] 影响力维度与指标
 > - **资金与赞助规模** 吸引 **20 家** 全球半导体与计算机巨头各出资 75 万美元（累计 1500 万美元企业基建基金），带动上千万美元联邦科研匹配。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 294)]]
-> - **研究项目集聚度** 截至 1985 年，中心关联教授在 CIS 设施内同时推进 **173 项** 差异化微电子与系统研发课题。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 296)]]
+> - **研究项目集聚度** 截至 1985 年，中心关联教授在 CIS 设施内同时推进 **173 项** 差[[Alienation|异化]]微电子与系统研发课题。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 296)]]
 > - **模式复制与示范** 其模式被加州大学伯克利分校、伊利诺伊大学、明尼苏达大学、德克萨斯大学等全美多所高校微电子中心广泛参考借鉴。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 294–295)]]
 
 ---

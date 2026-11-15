@@ -7,7 +7,7 @@ title: "Argument_Ramming_2025_CorporateSupport"
 argument_key: "Argument_Ramming_2025_CorporateSupport"
 argument_display_title: "Gaining support within companies for collaboration"
 argument_kind: "book"
-argument_related_count: 44
+argument_related_count: 45
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#ede9fe"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Counterpart Funds]]"
   - "[[Doctoral Dissertation]]"
   - "[[Corporate R&D Labs]]"
+  - "[[Alienation]]"
   - "[[Corporate Venture Capital]]"
   - "[[Academic Entrepreneurship]]"
   - "[[Paradigm]]"
@@ -82,7 +83,7 @@ sources:
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 status: active
 created: 2026-06-03
-updated: 2026-11-11
+updated: 2026-11-15
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 publication_place: "Cham"
 publisher: "Springer"
@@ -310,7 +311,7 @@ publisher: "Springer"
 
 > [!sub-claim] 3. 产学合作价值包含内部吸收、初创收购与生态共建三种路径，单一模式易错失底层突破机遇
 
-针对不同成熟度与商业属性的高校科研成果，企业通常构建三条差异化的价值实现路径（pp. 232–233）：
+针对不同成熟度与商业属性的高校科研成果，企业通常构建三条差[[Alienation|异化]]的价值实现路径（pp. 232–233）：
 
 > [!pathways] 大学前沿研究向商业价值转化的三轨协同路径
 > - **内部产品吸收路径** 将高校原型代码与算法直接整合入企业现有产品线；适合对当前业务有明确性能提升、契合短期研发排期的成熟技术。

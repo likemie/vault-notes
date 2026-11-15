@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: china
 person_region: "china"
-person_related_count: 42
+person_related_count: 43
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
+  - "[[Alienation]]"
   - "[[Metacognitive Laziness]]"
   - "[[Socioeconomic Status]]"
   - "[[Scaffolding]]"
@@ -114,7 +115,7 @@ updated: 2026-11-15
 >   - **关键概念／方法** [[Evidence-Based Reform]]、[[Evidence-Based Education]]、[[Randomised Controlled Trials]]、[[Best Evidence Encyclopedia]]。
 >   - **阶段特征** 强调以医学[[Clinical Trial\|临床试验]]标准规范教育干预，识别中国学者对证据本位[[Paradigm\|范式]]的[[Epistemology\|认识论]]与本土化质疑并进行系统辩护。
 > - **2022–至今 — 新兴技术循证评价、[[Meta-analysis\|元分析]]标准与教育公平拓展阶段**
->   - **核心问题** 破解早期生成式 AI 教育研究方法学不严密、过度乐观膨胀与抽屉文件偏倚，探究智能技术在跨文化与不同资源环境中的差异化分配效用。
+>   - **核心问题** 破解早期生成式 AI 教育研究方法学不严密、过度乐观膨胀与抽屉文件偏倚，探究智能技术在跨文化与不同资源环境中的差[[Alienation|异化]]分配效用。
 >   - **代表著作** 
 >     - Chen, S., & Cheung, A. C. K. (2025). Effect of [[Generative Artificial Intelligence]] on university students' learning outcomes: A [[Systematic Review]] and meta-analysis. *Educational Research Review*, 49, Article 100737. [[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025)]]
 >   - **关键概念／方法** [[Marginal Gains Hypothesis]]、[[Metacognitive Laziness]]、[[Third Generation Activity Theory\|AT-MCSCL]] 框架、[[Baseline Standardized Mean Difference]]、[[Trim and Fill Method]]。

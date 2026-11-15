@@ -104,6 +104,7 @@ updated: 2026-11-15
 > - **1790 — 康德批判哲学的主体转向** 康德在《判断力批判》（§§23–28）中提出数学的崇高与力学的崇高，使崇高脱离对象感性形式而指向主体道德自由，并与立足感官的美形成二元张力。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 32–34)]]
 > - **1790 年代以降 — 德国唯心论的弥合努力** 席勒、谢林与黑格尔力图重新结合美与崇高，避免主体长期分裂在感性与道德之间；黑格尔并在《哲学全书》§104 中质疑康德的数学崇高只是“坏无限”引起的枯燥感。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 33–34)]]
 > - **1802–1805 — 谢林《艺术哲学》中的混沌与互含** 谢林（Friedrich Wilhelm Joseph Schelling）把美界定为有序宇宙的映照，把崇高界定为在混沌中依然保留秩序与美之痕迹的显现，同时主张美本身必须包含某种令人生畏的崇高因子（呼应[[Aristotle|亚里士多德]]净化说与里尔克《杜伊诺哀歌》）。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 78)]]
+> - **1830–1835 — 黑格尔象征型艺术定位与魏塞的过渡重构** [[Georg Wilhelm Friedrich Hegel|黑格尔]]在《美学讲演录》中将波斯、印度与埃及古代东方“象征型艺术”界定为追寻意义的崇高表达（以不充分的物质形式摸索模糊理念）；其门徒克里斯蒂安·赫尔曼·魏塞（Christian Hermann Weisse, 1830）则在《美学体系》中将美确立为崇高（美向真善过渡）与丑的共同根基。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 98, 106)]]
 
 ---
 
@@ -118,8 +119,9 @@ updated: 2026-11-15
 > | [[Moses Mendelssohn]] | 人物 | 首位在德国哲学中对崇高予以系统阐发的思想家。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 17–18)]] |
 > | [[Immanuel Kant]] | 人物 | 在《判断力批判》中区分数学的崇高与力学的崇高，确立主体转向的经典范式。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 32–34)]] |
 > | [[Friedrich Wilhelm Joseph Schelling]] | 人物 | 在《艺术哲学》中论证崇高显现混沌而仍保留美之秩序，且美与崇高彼此蕴含。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, p. 78)]] |
+> | [[Georg Wilhelm Friedrich Hegel]] | 人物 | 批评康德数学崇高为“坏无限”，并将古代东方象征型艺术界定为崇高的历史表达。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, p. 33)]]; [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 98)]] |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]阐明门德尔松引入崇高与混合情感；[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]剖析康德数学与力学的崇高；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]补充谢林《艺术哲学》中崇高与美的互含关系。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]析门德尔松崇高观；[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]论康德崇高二分；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]探谢林美与崇高互含；[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]录黑格尔象征型崇高与魏塞重构。

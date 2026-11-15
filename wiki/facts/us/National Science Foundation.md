@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 108
+fact_related_count: 109
 fact_related_level: 10
 fact_related_stars: "💎💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -59,6 +59,7 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[Original Innovation Capability]]"
   - "[[Early-Career Researchers]]"
+  - "[[Alienation]]"
   - "[[Scale Enlargement]]"
   - "[[Scientific Method]]"
   - "[[Portfolio-Based Research Funding]]"
@@ -146,7 +147,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-11-05
+updated: 2026-11-15
 ---
 
 ---
@@ -294,7 +295,7 @@ updated: 2026-11-05
 > > [!axis] 课题助研津贴 vs 可携带式早期奖学金
 > > 探讨研究生资助究竟应以充当 PI 实验室用工为导向，还是以赋权[[Early-Career Researchers|青年学者]]独立探索为导向。
 > >
-> > - **课题助研用工化批评（[[Argument_Stephan_2013_NBER|Stephan, 2013]]）** 资助过度绑定在 PI 项目上的助研津贴（GRAs），导致学生被异化为廉价劳动力并延长修读年限。
+> > - **课题助研用工化批评（[[Argument_Stephan_2013_NBER|Stephan, 2013]]）** 资助过度绑定在 PI 项目上的助研津贴（GRAs），导致学生被[[Alienation|异化]]为廉价劳动力并延长修读年限。
 > > - **可携带奖学金改革论** 主张大[[Scale Enlargement|规模扩充]] NSF GRFP 奖学金名额，直接向博士生本人发放可携带资金，赋予青年学者挑选顶尖导师与跨学科探索的充分自主权。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
 
 ---

@@ -7,7 +7,7 @@ aliases:
 summary: "大学教师与学生在追求学术真理、传播思想、开展科研以及自主决定教学与学业评价方式上享有的不受非学术干预的法定与制度化自主权。既是知识生产开放渗透性的基石，也是产学合作知识产权博弈、国家高教政策转译以及发展型国家战略导向的核心制度交汇点。"
 type: concept
 domain: "higher-education"
-related_count: 94
+related_count: 95
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -60,6 +60,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Cosmopolitanism]]"
   - "[[Value Neutrality]]"
+  - "[[Alienation]]"
   - "[[Research Universities]]"
   - "[[Champ]]"
   - "[[Scientific Creativity]]"
@@ -121,7 +122,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-26
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -288,7 +289,7 @@ updated: 2026-11-11
 > > - **面向权力的社会良知立场（[[Argument_Grace_2010_NZJES|Grace, 2010]]）** 坚持将社会阶级与不平等结构置于分析核心，基于严谨实证面向执政权力讲真话，承担对公共政策与执政党派的独立民主制衡责任。
 
 > [!critique|notitle] 外部批评
-> - **资助竞争内卷异化反噬** 阿特金森与布兰皮德（[[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008, p. 45]]）尖锐指出，当高校科研资助率极度走低、学者面临严苛长聘生存考核时，同行评议制度演变为避险筛选机制；学者为求生存主动退守稳妥渐进的安全项目，实质学术自由在微观实践中被异化为学术避险与文献平庸化生产。
+> - **资助竞争内卷[[Alienation|异化]]反噬** 阿特金森与布兰皮德（[[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008, p. 45]]）尖锐指出，当高校科研资助率极度走低、学者面临严苛长聘生存考核时，同行评议制度演变为避险筛选机制；学者为求生存主动退守稳妥渐进的安全项目，实质学术自由在微观实践中被异化为学术避险与文献平庸化生产。
 
 > [!warning|limits] 适用局限
 > 学术自由属于受专业规范与法律规制的相对自主权；在现实契约中，学者作为大学雇员受到学科伦理规范与利益冲突政策的约束，在[[University-Industry Collaboration|产学合作]]与涉密科研中受到发表延迟与国家安全合规审查的制度限定。[[Argument_Hall_2025_EthicalLegalFrameworks|(Hall, 2025, p. 266)]]; [[Argument_Dean_2025_UICollaborationSupport|(Dean et al., 2025, pp. 249–250)]]

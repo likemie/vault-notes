@@ -9,7 +9,7 @@ aliases:
 summary: "由中央或联邦教育行政部门主导，面向特定学段或年龄群体实施的标准化外部学业成就测评体系。作为规制型治理中扩张最快的数据密集型政策工具，它在技术上充当系统监测基础设施，在政治上常与基于测验的问责制绑定，并在政体行政传统调节下经历从抽样到全样、从诊断到高利害惩戒的分层演化。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Soft Power]]"
   - "[[Tracking]]"
+  - "[[Alienation]]"
   - "[[Institutional Layering]]"
   - "[[New Public Management]]"
   - "[[School Choice]]"
@@ -64,7 +65,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -117,7 +118,7 @@ updated: 2026-11-11
 
 ---
 
-> [!concept-proposition] 命题一｜国家大规模评估凭借低侵入性技术外观具有自主扩张与功能异化的制度惯性
+> [!concept-proposition] 命题一｜国家大规模评估凭借低侵入性技术外观具有自主扩张与功能[[Alienation|异化]]的制度惯性
 > **工具自主性与制度演进惯性** 这类命题探讨国家大规模评估如何在技术中立性的合法性包装下逐步扩张其制度版图，并从初期的数据收集工具异化为刚性的问责支柱。
 
 > [!claim] Verger, A. et al.

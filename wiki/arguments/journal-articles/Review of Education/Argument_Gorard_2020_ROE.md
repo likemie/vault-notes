@@ -7,7 +7,7 @@ title: "Argument_Gorard_2020_ROE"
 argument_key: "Argument_Gorard_2020_ROE"
 argument_display_title: "What is the evidence on the best way to get evidence into use in education? Review of Education, 8(2), 570–610"
 argument_kind: "journal-article"
-argument_related_count: 83
+argument_related_count: 84
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Research Question]]"
   - "[[Effective Teaching]]"
+  - "[[Alienation]]"
   - "[[Research Utilization]]"
   - "[[Research Impact]]"
   - "[[Knowledge Exchange]]"
@@ -101,7 +102,7 @@ related_facts:
   - "[[Strategic School Improvement Fund]]"
 status: completed
 created: 2026-09-15
-updated: 2026-11-11
+updated: 2026-11-15
 journal: Review of Education
 citation: "Gorard, S., See, B. H., & Siddiqui, N. (2020). What is the evidence on the best way to get evidence into use in education? Review of Education, 8(2), 570–610."
 authors:
@@ -222,7 +223,7 @@ sources:
 
 ### 论证步骤一　证据利用领域深陷近九成文献无因果设计的严重实证赤字，且科研体制对单项研究现实影响力的狂热奖赏异化为逆向学术推销
 
-> [!claim] 核心主张：方法学赤字与评价异化
+> [!claim] 核心主张：方法学赤字与评价[[Alienation|异化]]
 > 教育循证运动在前端因果干预评估上建立了严苛标准，但在后端如何促成证据利用上却陷入了近九成文献无[[Counterfactual\|反事实]]设计的实证虚无；同时，现行学术评价体制对单项研究现实影响力的过度奖赏严重背离了贝叶斯证据积累原则，甚至催生出向已被证实无效的干预颁发影响力大奖的制度扭曲。
 
 > [!sub-claim] 1. 前端因果评估繁荣掩盖后端证据利用实证近九成归零的方法学赤字

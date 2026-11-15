@@ -38,6 +38,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Academic Achievement]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Alienation]]"
   - "[[Extending School Time]]"
   - "[[De-Academisation of Advisory Working Groups]]"
   - "[[Tacit Knowledge]]"
@@ -89,14 +90,14 @@ sources:
 part_of:
 status: draft
 created: 2026-11-09
-updated: 2026-11-10
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Volmari_2025_CE"
 argument_key: "Argument_Volmari_2025_CE"
 argument_display_title: "Scientification or political legitimation? Tracing the concepts of evidence and context in Nordic school reforms"
 argument_kind: "journal-article"
-argument_related_count: 56
+argument_related_count: 57
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -218,7 +219,7 @@ issuing_organization: ""
 > [!row-contrast] 北欧三国学校改革决策机制与证据采信横向比对
 > | 属性维度 | 丹麦（Folkeskole 2014） | 芬兰（POPS 2014） | 挪威（[[Fagfornyelsen]] 2020） |
 > |---|---|---|---|
-> | **改革驱动与核心问题** | 强化公立学校学业水平；延长学生在校学时，强化丹麦语与数学，推行差异化教学，引入每日锻炼。 | 顺应经合组织核心素养理念，重组课时分配标准与全国基础教育课程总目标（Decree 422/2012）。 | 针对 2006 知识促进改革开展深度评估，全面重构未来社会与劳动力市场所需的学科核心能力。 |
+> | **改革驱动与核心问题** | 强化公立学校学业水平；延长学生在校学时，强化丹麦语与数学，推行差[[Alienation\|异化]]教学，引入每日锻炼。 | 顺应经合组织核心素养理念，重组课时分配标准与全国基础教育课程总目标（Decree 422/2012）。 | 针对 2006 知识促进改革开展深度评估，全面重构未来社会与劳动力市场所需的学科核心能力。 |
 > | **决策准备机构性质** | 无正式官方调查委员会；依托教育部主办的利益相关者研讨会与国会政党闭门谈判。 | 历经政党更迭后由教育部与国家教育署纯文官组成专属工作组，完全剔除大学专职学者。 | 成立高规格官方调查委员会（[[Ludvigsen Commission\|卢德维格森委员会]]），产出两部独立国家官方报告（NOU 2014:7 与 2015:8）。 |
 > | **学术专家的制度角色** | 处于边缘与外围地位；仅作为部委偶尔邀请的单场演讲嘉宾或外部智库顾问。 | 学者参与率大幅缩减；学者不担任工作组主席，学术见解仅作为文官个人知识储备的一部分。 | 大学校长与资深教授担任委员会主席和核心成员；学术界直接主导研究证据层级的裁定。 |
 > | **核心采信证据类型** | 聚焦能够证明预期干预因果成效的具体评估方案，辅以[[Danish Evaluation Institute\|丹麦评估研究所]]的教学报告。 | 长期积累的芬兰国家教育评估中心（[[Finnish Education Evaluation Centre]], KARVI）学生学业成就监测报告与[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）管理数据。 | 学习科学领域的研究综述、元分析、基于系统综述的高质量实证研究与既往改革实证评估。 |

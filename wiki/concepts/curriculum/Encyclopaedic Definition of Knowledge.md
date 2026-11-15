@@ -10,10 +10,10 @@ aliases:
 summary: "源于欧陆与拉美的教育知识传统，将知识界定为由学科分类、客观事实与经典概念构成的系统体系，核心在于知识讲授与理性记忆。1990年代跨国治理中，它被国际组织推行的‘全球教育话语’判定为落后僵化，并被能力本位课程强行替代；但在阿根廷等国，废除统编大纲、下放课程自主权因缺乏专业配套，诱发教师集体翻抄商业教辅目录备课的反常恶果，致使国家课程主权向出版资本让渡。"
 type: concept
 domain: "curriculum"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/curriculum
   - theme/sociology-of-knowledge
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Paradigm]]"
   - "[[Global Educational Discourse]]"
+  - "[[Alienation]]"
   - "[[Ontology]]"
   - "[[Creativity]]"
   - "[[Discourse]]"
@@ -59,13 +60,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Encyclopaedic Definition of Knowledge
-> 百科全书式知识观（Encyclopaedic Definition of Knowledge），指一种历史悠久、深受欧洲启蒙传统与[[Positivism|实证主义]]熏陶的教育知识[[Paradigm|范式]]，在拉丁美洲（阿根廷、巴西）及欧洲大陆的[[National Education|国民教育]]体制中占据长期统治地位。该传统将知识界定为由系统事实、经典理论、学科前沿分类与文化记忆构成的客观知识宝库，主张学校教育的核心使命是通过自上而下的国家详尽大纲，将这一体系完整传授给学生并要求其理解与记忆。在 1980–1990 年代跨国治理中，国际多边组织所推销的“[[Global Educational Discourse|全球教育话语]]”将其判定为落后、低效与不适应信息时代的过时产物，推行激进的能力本位（Competencies）与校本自主权替代；然而在缺乏专业制度配套的外围受援国落地时，激发出教师备课恐慌与抄袭商业教辅图书目录等始料未及的实践异化恶果。（Gvirtz & Beech, 2004; Beech, 2005; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 348, 354]]）
+> 百科全书式知识观（Encyclopaedic Definition of Knowledge），指一种历史悠久、深受欧洲启蒙传统与[[Positivism|实证主义]]熏陶的教育知识[[Paradigm|范式]]，在拉丁美洲（阿根廷、巴西）及欧洲大陆的[[National Education|国民教育]]体制中占据长期统治地位。该传统将知识界定为由系统事实、经典理论、学科前沿分类与文化记忆构成的客观知识宝库，主张学校教育的核心使命是通过自上而下的国家详尽大纲，将这一体系完整传授给学生并要求其理解与记忆。在 1980–1990 年代跨国治理中，国际多边组织所推销的“[[Global Educational Discourse|全球教育话语]]”将其判定为落后、低效与不适应信息时代的过时产物，推行激进的能力本位（Competencies）与校本自主权替代；然而在缺乏专业制度配套的外围受援国落地时，激发出教师备课恐慌与抄袭商业教辅图书目录等始料未及的实践[[Alienation|异化]]恶果。（Gvirtz & Beech, 2004; Beech, 2005; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 348, 354]]）
 
 > [!concept-lens] 概念透镜
 > - **知识[[Ontology|本体论]]视界** 强调知识具有客观实在性与学科完整性，拒斥将知识降格为纯粹实用操作技能或瞬时情境应对。

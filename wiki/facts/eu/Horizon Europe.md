@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 37
+fact_related_count: 38
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Distributed Agency]]"
   - "[[Citizen Science]]"
+  - "[[Alienation]]"
   - "[[Epistemology]]"
   - "[[Competitiveness]]"
   - "[[Geopolitics of Knowledge]]"
@@ -72,7 +73,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -123,7 +124,7 @@ updated: 2026-10-30
 > - **2018 年** [[EU|欧盟]]委员会发布战略报告《使命导向研究与创新》，正式确立[[Mariana Mazzucato|马祖卡托]]提出的使命导向创新治理蓝图。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
 > - **2019 年** 欧洲议会与理事会就第九框架计划的核心法规原则达成初步政治共识，确立三大支柱结构。
 > - **2021 年** 欧洲议会与欧盟理事会正式通过条例，计划全面启动实施（总预算达 955 亿欧元，含 NextGenerationEU 绿色复苏增量），并公布五大战略使命工作方案。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–789)]]
-> - **2023 年** 在全球大国科技竞争升温背景下，国际高等教育学者系统比对《地平线欧洲》与中美产业科技战略的分野，凸显欧洲在社会福祉与生态可持续领域的差异化定位。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]] 同年，欧盟通过《[[European Chips Act|欧洲芯片法案]]》，其第一支柱“欧洲芯片倡议”直接将“地平线欧洲”（尤其是第四集群“数字、工业与空间”）及“关键数字技术联合承诺”既有资助流吸纳重组，引发预算挪用与改换名目的治理争议。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 12–13)]]
+> - **2023 年** 在全球大国科技竞争升温背景下，国际高等教育学者系统比对《地平线欧洲》与中美产业科技战略的分野，凸显欧洲在社会福祉与生态可持续领域的差[[Alienation|异化]]定位。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]] 同年，欧盟通过《[[European Chips Act|欧洲芯片法案]]》，其第一支柱“欧洲芯片倡议”直接将“地平线欧洲”（尤其是第四集群“数字、工业与空间”）及“关键数字技术联合承诺”既有资助流吸纳重组，引发预算挪用与改换名目的治理争议。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 12–13)]]
 
 ---
 

@@ -7,7 +7,7 @@ title: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_key: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_display_title: "Evidence on evidence-informed policy and practice"
 argument_kind: "book-chapter"
-argument_related_count: 80
+argument_related_count: 81
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -89,6 +89,7 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Operationalization]]"
   - "[[Reliability]]"
+  - "[[Alienation]]"
   - "[[Internal Validity]]"
   - "[[Classroom Management]]"
   - "[[Sage]]"
@@ -123,7 +124,7 @@ related_instruments:
   - "[[EMMIE Framework]]"
 status: draft
 created: 2026-09-13
-updated: 2026-11-11
+updated: 2026-11-15
 sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch07_Gough_2022|Ch07_Gough_2022]]"
 ---
@@ -451,7 +452,7 @@ sources:
 > [!critique-fatal] 导致知识中介功效主张丧失正当性的四大病理根源（p. 154）
 > 1. **证据库缺乏代表性** 仅凭零散、选择性研究下结论，完全忽视领域内相反实证证据的存在；
 > 2. **研究质量与切合度欠缺** 基础研究方法学严谨性不足、存在严重偏倚风险，或评价指标与现实政策决策问题严重脱节；
-> 3. **证据体量与粒度不充分** 仅证明样本总体在平均意义上有效，缺乏足够的亚群数据支撑对处境不利学生的差异化推断；
+> 3. **证据体量与粒度不充分** 仅证明样本总体在平均意义上有效，缺乏足够的亚群数据支撑对处境不利学生的差[[Alienation|异化]]推断；
 > 4. **解释与应用边界偏差** 脱离情境边界与实施条件，盲目将特定实验情境下的平均效应值推断至[[Heterogeneity\|异质性]]真实教学场景。
 
 对全球 15 个主流网络证据门户的跨案例调查（Gough & White, 2018）证实，中介行业在评级标准上存在显著分化与结构性底线失守（Table 7.1, pp. 154–155）：

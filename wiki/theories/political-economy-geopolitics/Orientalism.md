@@ -7,7 +7,7 @@ aliases:
 summary: "萨义德开创的后殖民批判理论，揭示西方通过知识生产与话语建构将东方表征为异域、落后与依附的文化他者以论证支配合法性，广泛用于解构跨文化教育刻板印象、高等教育知识依附及跨国测评的种族焦虑。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 48
+theory_related_count: 49
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[International Education]]"
+  - "[[Alienation]]"
   - "[[Doxa]]"
   - "[[Western Learner]]"
   - "[[Critical Thinking]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-11
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -103,7 +104,7 @@ updated: 2026-11-11
 > - **2010年 — [[Intercultural Education|跨文化教育]]与[[Chinese Learner|中国学习者]]解构** 简·瑞安（[[Argument_Ryan_2010_ChineseLearner|Ryan, 2010]]）援引东方主义框架，解构跨文化教育中对“[[Chinese Learner|中国学习者]]”的缺陷型刻板印象，指出西方学术界习惯将中国特质定义为对西方规范的偏离。（pp. 39–40）
 > - **2021–2023年 — 比较教育与 [[PISA]] 种族焦虑批判** [[Argument_Klerides_2023_CE|Klerides (2023)]] 与 [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] 揭示西方政界与媒体对东亚 PISA 高表现体系的“灵感与威胁”双重叙事，指出将东亚成功归咎于[[Rote Learning|死记硬背]]或威权训练的倾向，实为东方主义文化偏见的当代变体。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 428)]]；[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 495)]]
 > - **2022年 — [[Geopolitics of Higher Education|高等教育地缘政治]]与认识论依附** [[Fazal Rizvi|法扎尔·里兹维]]（[[Argument_Rizvi_2022_Springer|Rizvi, 2022]]）将东方主义拓展至高等教育历史演进，剖析当代[[International Education|国际教育]]消费与跨国科研合作中隐性再生产的文化等级与认识论依附。（pp. 91–97, 101）
-> - **2024–2025年 — 去殖民教条化与反向政治挪用反思** 维克斯（[[Argument_Vickers_2024_CE|Vickers, 2024]]）警示在[[National Education|香港国民教育]]中“东方主义”标签被反向挪用以压制合理批判的现象；卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp & Zamiska, 2025]]）梳理沙茨与[[Pankaj Mishra|米什拉]]等学者的反思，指出西方学界将东方主义异化为身份政治审查标签并忽视非西方内部压迫的理论盲区。（pp. 90–93）
+> - **2024–2025年 — 去殖民教条化与反向政治挪用反思** 维克斯（[[Argument_Vickers_2024_CE|Vickers, 2024]]）警示在[[National Education|香港国民教育]]中“东方主义”标签被反向挪用以压制合理批判的现象；卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp & Zamiska, 2025]]）梳理沙茨与[[Pankaj Mishra|米什拉]]等学者的反思，指出西方学界将东方主义[[Alienation|异化]]为身份政治审查标签并忽视非西方内部压迫的理论盲区。（pp. 90–93）
 
 ---
 

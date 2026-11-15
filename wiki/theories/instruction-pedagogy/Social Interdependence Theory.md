@@ -7,7 +7,7 @@ aliases:
 summary: "由 Kurt Lewin 开创、Morton Deutsch 奠基、David & Roger Johnson 系统化发展的社会心理学与教学理论。该理论主张个体的目标实现结构决定了其互动模式：积极互赖激发促进性互动，消极互赖激发阻碍性互动，无互赖导致个体孤立，从而奠定了合作学习的根本机制基础。"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 16
+theory_related_count: 17
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Group Investigation]]"
   - "[[Dialogue in Education]]"
   - "[[Operationalization]]"
+  - "[[Alienation]]"
   - "[[Scaffolding]]"
 related_theories: []
 related_methods:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -121,7 +122,7 @@ updated: 2026-10-22
 
 > [!debates] 理论边界与学术争鸣
 > - **过度强调动机，低估认知负荷** 批评者认为社会互赖理论偏重动机与社会心理维度，忽视了低年级或新手学生在复杂协作中面临的认知过载问题。
-> - **真实课堂情境中的互赖异化** 在缺乏充分教师[[Scaffolding\|脚手架]]的情况下，组内地位不平等会导致高成就学生单向主导，破坏理论预设的平等促进性互动。
+> - **真实课堂情境中的互赖[[Alienation|异化]]** 在缺乏充分教师[[Scaffolding\|脚手架]]的情况下，组内地位不平等会导致高成就学生单向主导，破坏理论预设的平等促进性互动。
 
 ---
 

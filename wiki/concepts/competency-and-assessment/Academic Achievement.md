@@ -40,6 +40,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Simplicity of Knowledge]]"
   - "[[Ways of Knowing]]"
+  - "[[Alienation]]"
   - "[[Learned Helplessness]]"
   - "[[Theoretical Validity]]"
   - "[[Measurement Alignment]]"
@@ -164,10 +165,9 @@ related_facts:
   - "[[Organic Law on Education 2006]]"
   - "[[EU]]"
   - "[[TIMSS]]"
-  - "[[Danish Evaluation Institute]]"
-  - "[[Finnish Education Evaluation Centre]]"
   - "[[Best Evidence Synthesis]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Finnish Education Evaluation Centre]]"
 related_arguments:
   - "[[Argument_Greene_2018_JEP]]"
   - "[[Argument_Lodewyk_2007_EducPsych]]"
@@ -198,15 +198,15 @@ related_arguments:
   - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Erdem_2026_SHE]]"
   - "[[Argument_Sahlgren_2015_CPS]]"
-  - "[[Argument_Volmari_2025_CE]]"
   - "[[Argument_Sarbiewska_2019_KiW]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
+  - "[[Argument_Volmari_2025_CE]]"
   - "[[Argument_Barrenechea_2023_JEC]]"
 confidence: high
 status: active
 created: 2026-08-15
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 （学业成就）
@@ -289,7 +289,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题二｜学生学业成就的水平梯度与性别优势深植于能力可塑性观与反思性认识方式
-> **学业分化中的认识信念与[[Ways of Knowing|认知方式]]根源** 探讨学生长期学业成绩的优劣分化以及群体间性别差异背后的心理机制，阐明能力可塑性观与认知方式如何驱动差异化学习产出。
+> **学业分化中的认识信念与[[Ways of Knowing|认知方式]]根源** 探讨学生长期学业成绩的优劣分化以及群体间性别差异背后的心理机制，阐明能力可塑性观与认知方式如何驱动差[[Alienation|异化]]学习产出。
 
 > [!claim] [[Argument_Lodewyk_2007_EducPsych|Lodewyk (2007)]]; [[Argument_Greene_2010_JEP|Greene et al. (2010)]]
 > **高低学业阶梯中的信念断层与恶性循环** 学生长期学业成绩的优劣分化与能力可塑性信念及知识复杂性认识紧密相关。学业优异学生普遍持有成长型能力信念与复杂知识网络观，倾向于将学习视为主动建构与概念整合的过程，从而在面对挑战时保持坚韧的自我调节；相反，学业落后群体普遍深信学习能力天生固定且知识仅为被动记忆的碎片，遇到学业困难时极易产生[[Learned Helplessness|习得性无助]]；此外，特定学科的持续失败经验会反向强化教条主义认识，促使学生滑向初级认识论阶段。[[Argument_Lodewyk_2007_EducPsych|(Lodewyk, 2007, pp. 318–320)]]; [[Argument_Greene_2010_JEP|(Greene et al., 2010)]]
@@ -581,6 +581,6 @@ updated: 2026-11-11
 > - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 批判将学业成就差异全然归因于校内过程的技术主义还原论，指出抽离家庭[[Cultural Capital|文化资本]]与阶级贫困等非学校社会变量会制造出单凭校内改革即可抹平成就差距的政策错觉，强调学业差距研究必须正视宏观社会结构的制约限度。（p. 91）
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 以德国 PISA 2000 为案例，揭示 PISA 将学业成就与家庭社会经济背景的绑定程度列为核心诊断指标，德国的绑定程度在发达国家中居首位，由此引发 PISA 休克并驱动德国以国家统一标准和全日制学校扩建回应阶层与学业成就的结构性挂钩。
 > - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 整合国际测验半世纪标准化追踪微观数据与应征士兵认知档案，证实芬兰学业成就腾飞始于集权督导时期，并借助境内双语自然实验确立教师职业地位与选拔门槛对学业表现的因果决定作用（pp. 11–17, 25–29）。
-> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 比较北欧三国改革中基于学业成就提升的话语合法化机制，展现丹麦将学时与学业挂钩的问责逻辑与芬兰依托 KARVI 抽样监测维护教育公平的治理分野。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 比较北欧三国改革中基于学业成就提升的话语合法化机制，展现丹麦将学时与学业挂钩的问责逻辑与芬兰依托 [[Finnish Education Evaluation Centre|KARVI]] 抽样监测维护教育公平的治理分野。
 > - [[Argument_Sarbiewska_2019_KiW|Sarbiewska (2019)]] — 梳理新西兰 2003 年《面向多元背景学生的优质教学》国家战略演进，借助 Alton-Lee 方差分解（校内班级方差达 59%）与 [[Eric Hanushek|Hanushek]] 教师年成长增量数据，论证教育治理从宏观治理结构向微观有效教学转型的制度轨迹。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对 43 篇系统改进实证文献开展[[Thematic Synthesis|质性主题综合]]，揭示全系统研究普遍将大规模标准化统考分数作为评判改进的核心标尺，反思其忽视非认知与全人发展目标的绩效主义倾向。

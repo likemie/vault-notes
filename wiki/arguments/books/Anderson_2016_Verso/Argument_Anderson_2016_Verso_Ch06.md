@@ -10,7 +10,7 @@ title: "Argument_Anderson_2016_Verso_Ch06"
 argument_key: "Argument_Anderson_2016_Verso_Ch06"
 argument_display_title: "Imagined Communities: Reflections on the Origin and Spread of Nationalism · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 30
+argument_related_count: 32
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -37,7 +37,9 @@ related_concepts:
   - "[[Administrative Pilgrimage]]"
   - "[[Official Nationality]]"
   - "[[Philological Revolution]]"
+  - "[[Mimesis]]"
   - "[[Naturalization]]"
+  - "[[Alienation]]"
   - "[[Study Abroad]]"
   - "[[Discourse]]"
   - "[[Beamtenstaat]]"
@@ -65,7 +67,7 @@ related_facts:
   - "[[Russification of Finland]]"
 status: draft
 created: 2026-11-12
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -148,7 +150,7 @@ updated: 2026-11-14
 
 > [!case] 德皇威廉二世一战后遭流放与伊朗巴列维国王亲吻泥土
 > - **第一号德意志人的反噬** 德皇威廉二世自封为第一号德意志人。1918年德国战败后，政界与军方正是以德意志民族的名义要求其退位负责，并将其放逐到荷兰。君主身份的民族化，剥夺了传统神权王位超然于政治成败之外的庇护（pp. 87–88）。
-> - **巴列维国王的流亡姿态** 伊朗国王穆罕默德-礼萨·巴列维自命为伊朗人民的国王，最终在革命中被指控为民族叛徒。流亡登机时，他在镜头前跪地亲吻泥土并带走一小袋土地。这种姿态模仿了现代民族英雄加里波第的形象，反映出传统君主已经完全承认了现代民族主权对自身统治的评判权（p. 88）。
+> - **巴列维国王的流亡姿态** 伊朗国王穆罕默德-礼萨·巴列维自命为伊朗人民的国王，最终在革命中被指控为民族叛徒。流亡登机时，他在镜头前跪地亲吻泥土并带走一小袋土地。这种姿态[[Mimesis|模仿]]了现代民族英雄加里波第的形象，反映出传统君主已经完全承认了现代民族主权对自身统治的评判权（p. 88）。
 
 > [!sub-claim] 3. 官方民族主义是统治集团借用大众民族模型发起的保守自卫
 
@@ -193,7 +195,7 @@ updated: 2026-11-14
 > [!warrant]- 麦考利主义的思想改造与自上而下同化
 > 1813年东印度公司宪章续期时，英国议会规定每年拨付专款推广原住民教育。1834年麦考利出任孟加拉公共教育委员会主席，并于次年起草《教育备忘录》，确立[[Macaulayism|麦考利主义]]。麦考利主张通过全英语教学体系消灭印度本土传统知识，培养一批血统属于印度、但在趣味、思想与道德上完全英格兰化的中介职员。这种长远的心智同化构成了维多利亚时期官方民族主义的典型特征，随后被推广至马来亚等殖民地（pp. 93–94）。
 
-> [!case] 麦考利1835年《教育备忘录》与印度文官[[Bipin Chandra Pal|比平·钱德拉·帕尔]]的双重异化
+> [!case] 麦考利1835年《教育备忘录》与印度文官[[Bipin Chandra Pal|比平·钱德拉·帕尔]]的双重[[Alienation|异化]]
 > - **文化帝国主义的极端表述** 麦考利在备忘录中断言，欧洲优秀图书馆的一个书架价值胜过全印度与阿拉伯的全部本土文学；并在1836年宣称三十年内受过英式教育的孟加拉体面阶层将不再崇拜偶像。麦考利推行的是一种精神混血工程（mental miscegenation）（pp. 93–94）。
 > - **帕尔文官的文化贱民困境** 印度文官[[Bipin Chandra Pal|比平·钱德拉·帕尔]]（Bipin Chandra Pal, 1932）在回忆录中指出，通过严苛考试并在英国[[Study Abroad|留学]]的印度高级官员，在生活举止上完全英国化，在本土社会沦为被同胞视为异类的边缘人；但在殖民体系内，他们遭遇无情的层级天花板，终身只能在本土同胞中任职（pp. 94–95）。
 > - **仕途流动通道的刚性封锁** 印度本土同化精英既无法调往西非黄金海岸或香港任职，更被绝对禁止进入伦敦中枢。这种排他性在白人自治领同样存在：英格兰化的澳大利亚文官不能在英国本土任职，在很长时期内也无法出任堪培拉总督，大权始终被英格兰本土英国人牢牢掌控（pp. 95–96）。

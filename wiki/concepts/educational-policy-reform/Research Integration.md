@@ -7,7 +7,7 @@ aliases:
 summary: "实践者在专业审议中将学术证据与情境经验、实践智慧主动调和，并将研究参与制度化内嵌于学校日常文化、课表例程与协同教研结构的连续专业实践范式"
 type: concept
 domain: "educational-policy-reform"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Tacit Knowledge]]"
   - "[[Research-Practice Partnership]]"
+  - "[[Alienation]]"
   - "[[Effective Teaching]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Implementation Fidelity]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-15
 ---
 
 ---
@@ -89,7 +90,7 @@ updated: 2026-11-08
 > [!feature] 核心要素
 > - **认识论整合（Epistemological Integration）** 实践者在专业审议中将研究证据置于由学生现实需求、课堂约束与教学伦理构成的多方对话中，作为[[Third Voice|第三声音]]展开理性审视。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 18)]]
 > - **组织性整合（Organizational Integration）** 学校管理层通过调整排课表、设立常态化教研作息与搭建跨学科研讨平台，将研究参与内嵌为学校组织的常规流程。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 18)]]
-> - **双向共生机制** 组织结构为认识论审议提供时间、空间与心理安全保障；真实的认识论对话防范组织规程异化为形式主义的空壳。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 18)]]
+> - **双向共生机制** 组织结构为认识论审议提供时间、空间与心理安全保障；真实的认识论对话防范组织规程[[Alienation|异化]]为形式主义的空壳。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 18)]]
 
 > [!logic-map]- 研究整合的运行结构
 > ```mermaid

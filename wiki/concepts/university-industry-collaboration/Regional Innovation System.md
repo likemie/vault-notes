@@ -10,10 +10,10 @@ aliases:
 summary: "指由地理邻近的企业、大学、科研机构与地方政府在特定次国家区域内构成的互动学习网络，依赖面对面交流、隐性知识扩散与地方制度厚度培育差异化区域竞争优势。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 38
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - theme/innovation
   - theme/innovation-policy
@@ -22,10 +22,12 @@ related_concepts:
   - "[[Tacit Knowledge]]"
   - "[[National Innovation System]]"
   - "[[Heterogeneity]]"
+  - "[[Mimesis]]"
   - "[[Industrial District]]"
   - "[[University-Industry Co-location]]"
   - "[[Knowledge Exchange]]"
   - "[[Technology Transfer]]"
+  - "[[Alienation]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Transnational Education]]"
   - "[[Informationalization]]"
@@ -66,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -79,7 +81,7 @@ updated: 2026-11-11
 > [!concept-lens] 概念透镜
 > - **含义** 次国家地理尺度上由产业集聚、产学研协同平台与地方社会制度共同构筑的区域性互动学习网络。
 > - **用途** 解释为何在相同国家宏观制度环境下，不同次国家区域的技术活力与产业升级能力出现巨大分化，打破忽视空间[[Heterogeneity|异质性]]与地方产业特殊性的“一刀切”科技政策迷思。
-> - **边界** 区别于脱离国家宏观主权制度与全球贸易网络的封闭孤岛，区别于单纯物理集聚的房地产开发式产业园区，且不意味着所有区域都要模仿硅谷的专利转让与独角兽孵化模式。
+> - **边界** 区别于脱离国家宏观主权制度与全球贸易网络的封闭孤岛，区别于单纯物理集聚的房地产开发式产业园区，且不意味着所有区域都要[[Mimesis|模仿]]硅谷的专利转让与独角兽孵化模式。
 
 > [!citation-card] Freeman 论下层区域与地方产业集聚的历史根基
 > 阿尔弗雷德·马歇尔早在 1890 年就指出，[[Industrial District|工业区]]内行业秘密飘在空气中；这种依赖地理相近、熟练劳动力流动、专业技术服务与人际面对面信任的次国家下层区域集聚，历来是国家创新系统的微观基石。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 21)]]
@@ -109,7 +111,7 @@ updated: 2026-11-11
 > - **[[Tacit Knowledge|隐性知识]]面对面溢出与专业劳动力池** 行业绝招、工艺经验在本地跨组织流动与非正式交往中低成本扩散，形成马歇尔式“行业秘密飘在空气中”的浓厚氛围。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 21)]]
 > - **地方制度厚度与社会信任资本** 地方行业公会、[[Technology Transfer|技术转移]]中介、信用联盟与地方政府形成的非正式合作惯例，提供抗风险与协同创新缓冲。
 > - **本地大学作为中立公共空间与催化载体** 地方高校作为中立公共空间召集竞争性企业对话，提供定制化技术培训与工程咨询，有别于孤立的专利发明工厂。[[Argument_Lester_2005_MIT|(Lester, 2005, pp. 11–24)]]
-> - **差异化产业转型路径适配** 区域[[Systems of Innovation|创新系统]]必须精准对接四类产业转型情境（新产业培育、外来产业移植、成熟产业多元化、既有传统产业工艺升级）。[[Argument_Lester_2005_MIT|(Lester, 2005, pp. 11–13)]]
+> - **差[[Alienation|异化]]产业转型路径适配** 区域[[Systems of Innovation|创新系统]]必须精准对接四类产业转型情境（新产业培育、外来产业移植、成熟产业多元化、既有传统产业工艺升级）。[[Argument_Lester_2005_MIT|(Lester, 2005, pp. 11–13)]]
 > - **全球-[[Local Knowledge in Evidence-Based Policy|地方知识]]管道连接** 依托高水平[[Transnational Education|跨国高等教育]]枢纽与国际联合实验室，将全球前沿知识资源直接导入次国家区域创新网络，避免本地网络过度内生封闭与[[Path Dependence|技术锁定]]。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 4, 10)]]
 
 > [!logic-map]- 要素关系

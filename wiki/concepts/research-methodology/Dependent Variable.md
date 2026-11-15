@@ -11,7 +11,7 @@ aliases:
 summary: "实验或量化研究中被观察和测量的结果变量，其变化被假定为自变量的操纵或选择所导致，是因果推断中的输出条件。"
 type: concept
 domain: "research-methodology"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Scientific Creativity]]"
   - "[[Creativity]]"
   - "[[Paradigm]]"
+  - "[[Alienation]]"
   - "[[Evaluation Research]]"
   - "[[Positivism]]"
 related_theories: []
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-12
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -149,7 +150,7 @@ updated: 2026-11-11
 > [!dev-timeline] 概念演变
 > - **1930s–1950s — 实验心理学因果[[Paradigm|范式]]确立** 费希尔与实验心理学界明确确立因变量作为假定后果的量化测度标准，奠定控制组前后测因果推断数理基石。
 > - **1980s–2000s — 多变量模型与结构方程建模拓展** 随着统计计算发展，因变量在路径分析与结构方程模型中被拓展为多阶段内生变量，既作为前置自变量的后果，又作为后续因变量的前因。
-> - **2010s — 大规模[[Research Synthesis|证据综合]]与因变量窄化反思** 罗默等学者审视二阶元分析实践，揭示将多维复杂的教育发展简化为单一学业成就因变量所引发的方法论异化，指出狭隘因变量对教育教学自变量的反向规训风险。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 6–7)]]
+> - **2010s — 大规模[[Research Synthesis|证据综合]]与因变量窄化反思** 罗默等学者审视二阶元分析实践，揭示将多维复杂的教育发展简化为单一学业成就因变量所引发的方法论[[Alienation|异化]]，指出狭隘因变量对教育教学自变量的反向规训风险。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 6–7)]]
 > - **2011 — 分位数因变量矩阵刻画极端长尾探索** [[Argument_Azoulay_2011_RJE|Azoulay et al. (2011)]] 针对生命科学研究的高偏态特征，构建前 1% 顶层突破与底层试错成果的多层分位数因变量矩阵，确立了非线性分位数因变量在捕捉高风险探索行为因果效应中的计量范本。
 > - **2023 — 回归模型因变量与样本外预测局限** 刘等系统总结科学学量化建模范式，指出经典回归通过形式化设定因变量与自变量的函数关系估计特定假说，但因未观测混杂与方差解释度局限，因变量的样本外预测能力显著弱于机器学习与机制模型。[[Argument_Liu_2023_NHB|(Liu et al., 2023, p. 1878)]]
 

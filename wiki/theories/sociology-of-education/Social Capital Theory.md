@@ -6,7 +6,7 @@ aliases:
 summary: "以 Bourdieu、Coleman and Putnam 为代表的跨学科理论，将社会关系网络、信任、规范和互惠性视为一种可产生经济和社会回报的资本形式。ODwyer et al.（2023）将其应用于产学合作网络演化，揭示声誉基础的信任和诚信基础的信任在合作不同阶段的差异化作用"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 13
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Economic Fundamentalism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Social Imaginary]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -79,5 +80,5 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_ODwyer_Filieri_OMalley_2023_JTT|O'Dwyer et al. (2023)]] — 将社会资本理论应用于[[University-Industry Collaboration|产学合作]]网络演化，揭示声誉信任与诚信信任在合作不同阶段的差异化功能。
+> - [[Argument_ODwyer_Filieri_OMalley_2023_JTT|O'Dwyer et al. (2023)]] — 将社会资本理论应用于[[University-Industry Collaboration|产学合作]]网络演化，揭示声誉信任与诚信信任在合作不同阶段的差[[Alienation|异化]]功能。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 剖析[[OECD]]如何吸纳Putnam的社会资本概念并将其重构为管理经济边缘化、维系[[Knowledge-Based Economy|知识经济]]生产率的剩余性政策工具。

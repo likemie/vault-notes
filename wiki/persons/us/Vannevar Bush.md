@@ -9,14 +9,14 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 74
+person_related_count: 75
 person_related_level: 7
 person_related_stars: "💎💎⭐"
 person_related_color: "#fef3c7"
 born: "1890"
 died: "1974"
 lifespan: "1890–1974"
-updated: 2026-11-14
+updated: 2026-11-15
 tags:
   - person/engineer
   - person/policy-architect
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Big Idea Famine]]"
   - "[[Total Factor Productivity]]"
   - "[[Research Universities]]"
+  - "[[Alienation]]"
   - "[[Institutional Complementarity]]"
   - "[[National Innovation System]]"
   - "[[Corporate R&D Labs]]"
@@ -195,7 +196,7 @@ created: 2026-10-02
 > - **反文化个人计算对立范式代表（Countercultural Personal Computing Antithesis）** [[Steve Jobs|史蒂夫·乔布斯]]、[[Lee Felsenstein|李·费尔森斯坦]]、[[Stewart Brand|斯图尔特·布兰德]]、斯蒂芬·利维 — 1970 年代硅谷反文化先驱，主张技术应赋权个体以对抗国家与企业机器，打破了布什开创的国家安全使命与科技共同体紧密结盟的传统。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–100)]]
 > - **战后制度继承与反思者** [[Donald Stokes|唐纳德·斯托克斯]]（Donald Stokes） — 1997 年提出[[Pasteur's Quadrant|巴斯德象限]]以打破布什报告的一维滑动轴。
 > - **当代科技创新批判者** [[Venkatesh Narayanamurti|文卡泰什·纳拉亚纳穆尔提]]（Venkatesh Narayanamurti） — 2013 年撰文宣告布什二分法终结，提出[[Discovery-Invention Cycle|发现-发明循环]]理论以取代布什的单向流水线假说。
-> - **高校科研契约反思者** [[Paula Stephan|保拉·斯蒂芬]]（Paula Stephan） — 2013 年系统考察战后大学对布什契约的能动改造与异化，揭示布什关于高风险容错、独立学生奖学金与学科均衡设想的迷失。
+> - **高校科研契约反思者** [[Paula Stephan|保拉·斯蒂芬]]（Paula Stephan） — 2013 年系统考察战后大学对布什契约的能动改造与[[Alienation|异化]]，揭示布什关于高风险容错、独立学生奖学金与学科均衡设想的迷失。
 > - **演化[[Systems of Innovation|创新系统]]批判者** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman） — 1995 年从历史与演化视角剖析布什线性模型的盲区，提出包含组织变革、工艺学习与[[Institutional Complementarity|制度互补]]的[[National Innovation System|国家创新系统]]理论。
 
 ---

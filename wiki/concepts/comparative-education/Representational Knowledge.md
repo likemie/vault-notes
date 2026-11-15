@@ -6,7 +6,7 @@ aliases:
 summary: "由戴安·斯通、奥斯曼尼·波尔图·德奥利维拉与莱斯利·帕尔在发展合作与政策转移研究中界定的替代性专业知识形态，指合法性源于本土扎根经验、发展情境感知以及对边缘或受压迫群体的道义认同，用以制衡与补充传统全球北方技术官僚专长的治理知识。"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Positivism]]"
+  - "[[Alienation]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-23
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -129,7 +130,7 @@ updated: 2026-11-03
 > > - **批判治理视角（[[Argument_Stone_2020_PolSoc|Stone et al., 2020, pp. 6–7, 10]]）** 指出所谓客观中立的技术专长往往内嵌了西方中心主义与资助方利益偏好，代表性知识将长期被边缘化的声音制度化为决策依据，是对实质正义与民主问责的制度性纠偏。
 
 > [!warning] 适用局限
-> 代表性知识深度依存于特定的本土政治生态与社会历史语境，在脱离原发社群后若被教条化复制，同样可能面临水土不服与执行异化风险。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 10–11)]]
+> 代表性知识深度依存于特定的本土政治生态与社会历史语境，在脱离原发社群后若被教条化复制，同样可能面临水土不服与执行[[Alienation|异化]]风险。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 10–11)]]
 
 ---
 

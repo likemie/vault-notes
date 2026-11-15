@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 37
+person_related_count: 38
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Literature Review]]"
   - "[[Academic Achievement]]"
+  - "[[Alienation]]"
   - "[[Publication Bias]]"
   - "[[Epistemology]]"
   - "[[Differentiated Instruction]]"
@@ -91,7 +92,7 @@ updated: 2026-11-15
 > - **1975–1976 年** 当选美国教育研究协会（[[American Educational Research Association|AERA]]）主席；在 1976 年主席就职演说中首次创造“[[Meta-analysis|元分析]]”一词，将其界定为“对大量个别研究的统计分析结果进行再分析，以整合其实证发现”。
 > - **1977 年** 与玛丽·李·史密斯（Mary Lee Smith）合作发表关于心理治疗效果的里程碑元分析，发现治疗组平均[[Effect Size|效应量]]为 0.6 个标准差（$d=0.60$），有力反驳了 Hans Eysenck 所谓心理治疗无效的学术垄断共识。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 36–37)]]
 > - **1979 年** 与玛丽·李·史密斯联合发表关于[[Class Size|班级规模]]与[[Academic Achievement|学业成就]]关系的开创性元分析，绘制出班额缩减对学生[[Academic Achievement|学业成绩]]非线性提升的经典斜率曲线。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 32)]]
-> - **2000 年** 发表名篇 *Meta-analysis at 25*，回顾元分析诞生四分之一世纪的成就与异化，严厉批评后继者将丰富多维的元分析退化为追求单一均值排行的工具主义倾向。
+> - **2000 年** 发表名篇 *Meta-analysis at 25*，回顾元分析诞生四分之一世纪的成就与[[Alienation|异化]]，严厉批评后继者将丰富多维的元分析退化为追求单一均值排行的工具主义倾向。
 
 ---
 

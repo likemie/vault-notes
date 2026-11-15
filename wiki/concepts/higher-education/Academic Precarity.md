@@ -10,7 +10,7 @@ aliases:
 summary: "刻画当代高等教育与科研体系中普遍存在的结构性劳动力脆弱性状态。由于博士与博士后规模急剧扩张而终身教职增长停滞，青年学者长期受困于短期流动合同、软钱资助周期与层级依附，正职初聘年龄推迟，且微小外部评价挫折即可触发高概率离职流失。"
 type: concept
 domain: "higher-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[New Managerialism]]"
   - "[[Interaction Effect]]"
   - "[[Paradigm]]"
+  - "[[Alienation]]"
   - "[[Critical Thinking]]"
   - "[[Scientific Creativity]]"
   - "[[Emergence]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-03
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -116,7 +117,7 @@ updated: 2026-11-11
 > **科研生态心理成本与人才流失机制** 论证高强度绩效监控与身份不安全感如何引发学术群体的普遍性抑郁和焦虑，进而侵蚀科学建制的长期可持续发展能力。
 
 > [!claim] [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]]
-> **学术心理危机与创新人才的非自愿退出** 豪布罗克等学者汇总实证调查表明，超过三分之一的博士生与青年学者承受着抑郁和焦虑症状，其流行率远超普通社会公众水平。重叠出现的抚养育儿责任、异地频繁搬迁与成果高产考核，将学术探索异化为机械性流程培训。当微小的项目申评挫折将科研退出率推高 10% 以上时，大量兼具[[Critical Thinking|批判性思维]]与原创潜力的学者被系统性挤出学术界，造成科学共同体中坚人才的严重流失。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026)]]
+> **学术心理危机与创新人才的非自愿退出** 豪布罗克等学者汇总实证调查表明，超过三分之一的博士生与青年学者承受着抑郁和焦虑症状，其流行率远超普通社会公众水平。重叠出现的抚养育儿责任、异地频繁搬迁与成果高产考核，将学术探索[[Alienation|异化]]为机械性流程培训。当微小的项目申评挫折将科研退出率推高 10% 以上时，大量兼具[[Critical Thinking|批判性思维]]与原创潜力的学者被系统性挤出学术界，造成科学共同体中坚人才的严重流失。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026)]]
 
 ---
 

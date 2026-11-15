@@ -7,7 +7,7 @@ aliases:
 summary: "教育管理与教学中以系统层面和课堂层面的多元数据为依据作出决策的取向，经历目标设定、数据收集、质检分析、改进落实与循环评估的探究过程；虽能精准诊断校本学情病因，但自身不包含现成教学解决方案，亟需与外部研究知情教学实践（RITP）在学校探究循环中深度整合。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Teacher Collaboration]]"
   - "[[Algorithmic Bias]]"
+  - "[[Alienation]]"
   - "[[Variable]]"
   - "[[Dialogue in Education]]"
   - "[[Paradigm]]"
@@ -66,7 +67,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -171,7 +172,7 @@ updated: 2026-11-11
 > [!debates] 学术争议
 >
 > > [!axis] 问责驱动还是教学改进驱动
-> > 政策制定者常将 DBDM 作为监督学校绩效与确保行政合规的问责抓手；而一线教育者与研究者强调，高压问责会导致数据造假、考试投机与课程窄化，DBDM 必须立足于支持教师教学反思与差异化辅导。
+> > 政策制定者常将 DBDM 作为监督学校绩效与确保行政合规的问责抓手；而一线教育者与研究者强调，高压问责会导致数据造假、考试投机与课程窄化，DBDM 必须立足于支持教师教学反思与差[[Alienation|异化]]辅导。
 > >
 > > - **行政问责取向** 强调标准化测试数据的纵向监控、达标率考核与外部排名。
 > > - **形成性改进取向** 倡导过程性数据分析、课堂互动观察与教师协作意义建构。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 156–157)]]

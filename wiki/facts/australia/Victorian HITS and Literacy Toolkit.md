@@ -11,7 +11,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 33
+fact_related_count: 34
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Neo-Taylorism]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Alienation]]"
   - "[[Decodification]]"
   - "[[Critical Pedagogy]]"
   - "[[Discourse]]"
@@ -68,7 +69,7 @@ part_of: ""
 confidence: high
 status: stable
 created: 2026-05-03
-updated: 2026-11-14
+updated: 2026-11-15
 year: 2017
 doi: ""
 citation_aliases: []
@@ -142,7 +143,7 @@ citation_aliases: []
 > - **适用对象** 一线任课教师与受教学规范约束的中小学生。
 > - **政策工具** 官方 HITS 教学折页、读写工具包网页平台、教案审查量表与行政巡课记录表。
 
-> [!pathways] 实施路径与异化表象
+> [!pathways] 实施路径与[[Alienation|异化]]表象
 > - **顶层行政设计与指令下达** 维州教育部将 10 项策略定位为“每一间教室都应发生的高质量教学”，通过全州校长研讨会与区域培训网络进行自上而下的政策渗透。
 > - **基层执行中的打卡清单化** 为满足行政检查的客观可视化要求，学校管理层将原本灵活的教学原则转化为生硬的机械打卡指标。最典型的实践要求是：任课教师必须在上课铃响前，在白板上端正书写当堂课题与明确的[[Learning Intentions|学习意图]]（Learning Intentions），否则在教学常规检查中便会被扣分（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）。
 > - **读写教学中的技术主义收紧** 在每日固定开展的读写课（Literacy Hour）上，教师被硬性要求严格依照工具包指定的阅读实操步骤进行教学，过度强化单一[[Decodification|解码]]拼读法，排挤了儿童对阅读文本的整体性文化理解（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 149]]）。

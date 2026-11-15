@@ -8,10 +8,10 @@ aliases:
 summary: "教师与学生在教学活动前共同明确的核心认知理解与概念迁移目标；但在新泰勒主义问责与循证政策规训下，原本指向深层认知建构的学习意图容易异化为形式主义的白板打卡与管理监控指标。"
 type: concept
 domain: "curriculum"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - theme/formative-assessment
   - theme/instruction
@@ -20,6 +20,7 @@ tags:
   - teacher-autonomy
   - performativity
 related_concepts:
+  - "[[Alienation]]"
   - "[[Success Criteria]]"
   - "[[Causality]]"
   - "[[Learning Progression]]"
@@ -68,13 +69,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Learning Intentions
-> 学习意图（Learning Intentions，又称认知学习意图）指教师与学生在教学活动开始前共同明晰并共享的核心认知目标、深层概念理解与能力发展指向。它明确回答了“学生在认知层面应当理解什么、能够运用什么以及为何要学习这一内容”，旨在将课堂重心从表面化的“活动任务完成（Task Completion）”转向深层的“认知意义建构（Cognitive Construction）”（Clarke, Timperley, & Hattie, 2003；Hattie, 2005, p. 17）。然而，在当代循证政策的刚性推行中，学习意图亦面临被异化为行政检查清单与白板打卡表演的制度风险（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）。
+> 学习意图（Learning Intentions，又称认知学习意图）指教师与学生在教学活动开始前共同明晰并共享的核心认知目标、深层概念理解与能力发展指向。它明确回答了“学生在认知层面应当理解什么、能够运用什么以及为何要学习这一内容”，旨在将课堂重心从表面化的“活动任务完成（Task Completion）”转向深层的“认知意义建构（Cognitive Construction）”（Clarke, Timperley, & Hattie, 2003；Hattie, 2005, p. 17）。然而，在当代循证政策的刚性推行中，学习意图亦面临被[[Alienation|异化]]为行政检查清单与白板打卡表演的制度风险（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向教学设计的认知实质与能力要求，界定学生思维需要达到的深度与广度，而非学生手头所做的具体操作步骤。

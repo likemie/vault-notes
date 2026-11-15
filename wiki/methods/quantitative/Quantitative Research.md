@@ -10,7 +10,7 @@ summary: "通过操作化变量、标准化测量、受控实验或抽样调查�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 86
+method_related_count: 87
 method_related_level: 8
 method_related_stars: "💎💎⭐⭐"
 method_related_color: "#dcfce7"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Emergence]]"
   - "[[Ontology]]"
+  - "[[Alienation]]"
   - "[[Determinism]]"
   - "[[Epistemic Stances]]"
   - "[[Rich and Thick Description]]"
@@ -117,7 +118,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -199,7 +200,7 @@ updated: 2026-11-11
 > - **去情境化与实验室木偶剧危机** 为追求[[Internal Validity\|内部效度]]在人工环境中极度隔离控制[[Variable\|变量]]，剥离了教育赖以发生的立体历史生活情境，导致产出的实证发现往往平庸琐碎，丧失对复杂实践的指导力（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 115]]）。
 > - **概念数学化与计算崇拜批判** 特里·扬斯（Terry Ions）抨击量化计算崇拜造成社会科学去个性化；马克斯·霍克海默（Max Horkheimer）与查尔斯·汉普登-特纳（Charles Hampden-Turner）揭示了将活生生的人降解为机械零件的[[Scientism\|科学主义]]意识形态偏见（Horkheimer, 1972；Ions, 1977）。
 > - **[[Complexity Theory\|复杂适应系统]]下的“变量恒常悖论”** 复杂性理论指出，教育世界处于动态[[Emergence\|涌现]]之中，所谓“保持其他变量恒常”在[[Ontology\|本体论]]上纯属虚妄，受控研究所精确测量的仅仅是已死去的历史（Morrison, 2001；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 28]]）。
-> - **[[Value Neutrality\|价值中立]]神话与宣传异化风险** [[Søren Kierkegaard\|索伦·克尔凯郭尔]]（[[Søren Kierkegaard]]）指陈客观性追求切断了人与生存经验的本质关联；[[Jürgen Habermas\|尤尔根·哈贝马斯]]（Jürgen Habermas）警示工具理性导致“无良知社会”；若缺乏价值反思，量化研究极易被异化为意识形态宣传与技术官僚绩效控制的修辞工具（[[Argument_Snook_2009_NZJES\|Snook et al., 2009, p. 104]]；Nash, 2004）。
+> - **[[Value Neutrality\|价值中立]]神话与宣传[[Alienation|异化]]风险** [[Søren Kierkegaard\|索伦·克尔凯郭尔]]（[[Søren Kierkegaard]]）指陈客观性追求切断了人与生存经验的本质关联；[[Jürgen Habermas\|尤尔根·哈贝马斯]]（Jürgen Habermas）警示工具理性导致“无良知社会”；若缺乏价值反思，量化研究极易被异化为意识形态宣传与技术官僚绩效控制的修辞工具（[[Argument_Snook_2009_NZJES\|Snook et al., 2009, p. 104]]；Nash, 2004）。
 
 ---
 

@@ -10,7 +10,7 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Philosophical Aesthetics]]"
   - "[[Heterogeneity]]"
   - "[[Data Literacy]]"
+  - "[[Alienation]]"
   - "[[Determinism]]"
   - "[[Technical Rationality]]"
   - "[[Epistemology]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -95,7 +96,7 @@ updated: 2026-11-14
 
 > [!finding-cards] 核心实证结论
 > - **预测准确性与宏观识别效能** 在纯统计预测维度上，多指标回归模型对群体层面的高中辍学与按期毕业表现出较高的统计预测力，帮助州教育厅精准定位了高辍学风险的薄弱学区与群体分布。
-> - **微观实践[[Heterogeneity\|异质性]]与赤字标签陷阱** 实地定性调研揭示，在缺乏配套个别化辅导资源与正确[[Data Literacy\|数据素养]]指引下，基层行政与指导顾问并未将高风险评级转化为帮扶干预，而是将其直接异化为否定学生发展潜力的[[Determinism\|决定论]]标签。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 6)]]
+> - **微观实践[[Heterogeneity\|异质性]]与赤字标签陷阱** 实地定性调研揭示，在缺乏配套个别化辅导资源与正确[[Data Literacy\|数据素养]]指引下，基层行政与指导顾问并未将高风险评级转化为帮扶干预，而是将其直接[[Alienation|异化]]为否定学生发展潜力的[[Determinism\|决定论]]标签。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 6)]]
 
 ---
 

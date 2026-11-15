@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 37
+fact_related_count: 38
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Charter Schools]]"
   - "[[Performance Pay]]"
   - "[[Educational Privatisation]]"
+  - "[[Alienation]]"
   - "[[Test-Based Accountability]]"
   - "[[Discourse]]"
   - "[[Professional Judgment]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -151,7 +152,7 @@ updated: 2026-11-02
 > > - **工会立场** 坚决指出缺乏工会保护的教师极易成为地方行政专断的牺牲品；集体谈判不仅是维权手段，更是维护专业独立性与防止公共[[Educational Privatisation\|教育私有化]]流失的最后防线。
 >
 > > [!axis] 政治行动与政党结盟争议
-> > 批评者质疑 NEA 经常性为特定政党候选人背书并投入巨额政治捐款，可能造成部分持不同政治立场会员的异化感。
+> > 批评者质疑 NEA 经常性为特定政党候选人背书并投入巨额政治捐款，可能造成部分持不同政治立场会员的[[Alienation|异化]]感。
 > >
 > > - **外部质疑** 认为教师专业组织应当保持党派中立，避免将公共讲台与政党选举深度捆绑。
 > > - **工会立场** 坚称教育决策本质上受公共立法与财政拨款支配，若无强大且有组织的政治发声，公立教育与弱势儿童的利益将在华盛顿权力博弈中被彻底边缘化。

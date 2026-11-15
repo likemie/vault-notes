@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Knowledge Mediation]]"
   - "[[Abstract]]"
+  - "[[Alienation]]"
   - "[[International Education]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Research Impact]]"
@@ -85,7 +86,7 @@ updated: 2026-11-15
 ---
 
 > [!claim] 核心思想
-> Burns 的核心论旨在于：教育[[Knowledge Mediation\|知识中介]]不能止步于向学校与教师提供[[Abstract\|研究摘要]]与工具包，必须在政策、实践与公众媒介三个层面同时发力；中介机构的高夭折率本质上是政治与预算治理失灵的体现，而非学术绩效不足；唯有建立跨机构、跨国别的元中介协作网络（"中介的中介"），并保持对循证医学技术化异化的警惕，才能建构真正具有社会公信力的累积性教育知识基石。
+> Burns 的核心论旨在于：教育[[Knowledge Mediation\|知识中介]]不能止步于向学校与教师提供[[Abstract\|研究摘要]]与工具包，必须在政策、实践与公众媒介三个层面同时发力；中介机构的高夭折率本质上是政治与预算治理失灵的体现，而非学术绩效不足；唯有建立跨机构、跨国别的元中介协作网络（"中介的中介"），并保持对循证医学技术化[[Alienation|异化]]的警惕，才能建构真正具有社会公信力的累积性教育知识基石。
 
 > [!citation-card] Burns & Schuller 论建构累积性知识基石的系统要求
 > 正如[[Research Synthesis|研究综合]]本身已经从关注单篇论文迈向二阶[[Systematic Review\|系统综述]]一样，中介的结构与流程同样需要在机构与系统之间协同运作，以支持累积性的努力。（p. 66）

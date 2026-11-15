@@ -23,7 +23,7 @@ title: "Argument_Bulfone_2024_IAI"
 argument_key: "Argument_Bulfone_2024_IAI"
 argument_display_title: "Adjusting to new geopolitical realities: Semiconductors industrial policy in the US and EU (IAI Papers 24 | 13)"
 argument_kind: "report"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dcfce7"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Counterpart Funds]]"
   - "[[Reciprocal Control Mechanism]]"
   - "[[Geopolitics]]"
+  - "[[Alienation]]"
   - "[[Emergence]]"
 related_methods:
   - "[[Comparative Policy Analysis]]"
@@ -66,7 +67,7 @@ related_facts:
   - "[[National Institute of Standards and Technology]]"
 status: draft
 created: 2026-10-06
-updated: 2026-10-29
+updated: 2026-11-15
 tags:
   - argument/report
   - industrial-policy
@@ -262,7 +263,7 @@ tags:
 
 > [!chain-link] 欧洲半导体产业政策的内生制度困境演进链
 > - **前提：超国家财政主权缺位** 欧委会无权独立发债与直接征收产业税，无法建立类似于美国联邦政府那样的中央产业直投基金。（pp.13, 16）
-> - **传导：政策异化为豁免国家援助** 欧委会退化为规则审批者，将补贴重担与项目风险完全推给各成员国财政。（pp.13–14）
+> - **传导：政策[[Alienation|异化]]为豁免国家援助** 欧委会退化为规则审批者，将补贴重担与项目风险完全推给各成员国财政。（pp.13–14）
 > - **扭曲：成员国财政空间悬殊失衡** 德法等富裕大国垄断了重大外资建厂项目，小国和高负债成员国被严重边缘化。（pp.13–14, 17）
 > - **危机：统一大市场公平竞争受损** 跨国协同遭遇行政壁垒，各成员国各自为战，无法形成一致对外的产业合力。（pp.16–17）
 > - **结论：战略自主迫切需要超国家财政突破** 欧盟若想真正实现产业自主，必须在欧盟层面建立统一的公共投资基金，加强跨国投资统筹，并加快建成调动私营资本所必需的银行业与资本市场联盟。（p.17）

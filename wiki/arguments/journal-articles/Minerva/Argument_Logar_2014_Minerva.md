@@ -7,9 +7,9 @@ title: "Argument_Logar_2014_Minerva"
 argument_key: "Argument_Logar_2014_Minerva"
 argument_display_title: "Semiconductor Research Corporation: A case study in cooperative innovation partnerships"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 30
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: Minerva
 authors:
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Doctoral Dissertation]]"
   - "[[Paradigm]]"
   - "[[Academic Freedom]]"
+  - "[[Alienation]]"
   - "[[Technology Transfer]]"
   - "[[Champ]]"
   - "[[Heterogeneity]]"
@@ -60,7 +61,7 @@ related_facts:
   - "[[EU]]"
 status: draft
 created: 2026-10-05
-updated: 2026-11-11
+updated: 2026-11-15
 tags:
   - theme/university-industry-collaboration
   - theme/science-policy
@@ -161,7 +162,7 @@ tags:
 
 > [!sub-claim] 1. 设立跨越近中远期的多轨道计划以满足不同技术成熟度需求
 
-> [!taxonomy] SRC 差异化子计划的时间尺度与使命分工
+> [!taxonomy] SRC 差[[Alienation|异化]]子计划的时间尺度与使命分工
 > - **近中期改良（全球研究协作，GRC）** 紧密围绕国际半导体技术路线图（ITRS），聚焦收窄技术选项并攻关 3 至 8 年内的共性工艺瓶颈。
 > - **中远期探索（焦点研究中心计划，FCRP）** 针对 8 至 12 年后的前沿场景创造技术选项，支持跨校研究中心探索 CMOS 物理极限。
 > - **远期颠覆（纳米电子学研究倡议，NRI）** 探索 10 至 15 年后通往超越 CMOS 时代的下一代逻辑开关物理原理与全新概念器件。

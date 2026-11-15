@@ -7,7 +7,7 @@ aliases:
 summary: "经加工的派生统计量，具技术理性与权力规制双重属性（Le Galès, 2016）。通过将异质系统还原为可比数值与排名，在提供决策信息的同时重塑组织行为；既是构筑“理性表象”的政治脚手架（Steiner-Khamsi et al., 2024），亦在经合组织投入产出系统中以等价空间悬置教育目的哲学辩论（Rizvi & Lingard, 2009），并在超国家治理中形成跨机构数据依附与资产流动（Grek, 2009）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 92
+related_count: 93
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Data Infrastructure]]"
   - "[[Discourse]]"
   - "[[Academic Attrition]]"
+  - "[[Alienation]]"
   - "[[Performativity]]"
   - "[[Space of Equivalence]]"
   - "[[Ontology]]"
@@ -120,7 +121,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -213,7 +214,7 @@ updated: 2026-11-11
 
 ---
 
-> [!concept-proposition] 命题二｜指标具有强烈的反身履行性诱发系统性表演与应试异化
+> [!concept-proposition] 命题二｜指标具有强烈的反身履行性诱发系统性表演与应试[[Alienation|异化]]
 > **组织社会学与测量的履行性维度** 剖析指标从反映现实的工具转化为追求的目标后，如何倒逼行动者采取[[Performativity|表演性]]应对与合规策略。
 
 > [!claim] [[Argument_Gorur_2014_Discourse|Gorur (2014)]]

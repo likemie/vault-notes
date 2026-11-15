@@ -7,7 +7,7 @@ aliases:
 summary: "高校毕业生求职出路分化中的一种典型类型，以目标掌控模式与弱价值信念结合为特征；行动者深谙高校与劳动力市场选拔规则，擅长策略性资源配置与简历变现，但将深层人生意义与价值认同置于悬置状态"
 type: concept
 domain: "sociology-of-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[The Sublime]]"
   - "[[Competitiveness]]"
   - "[[Critical Pedagogy]]"
+  - "[[Alienation]]"
   - "[[Theoretical Perspective]]"
   - "[[Paradigm]]"
 related_theories:
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-09'
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -144,7 +145,7 @@ updated: 2026-11-14
 > [!debates] 学术争议与批判反思
 >
 > > [!axis] 工具理性泛滥与主体性迷失的规范性批判
-> > 在高等教育社会学与[[Critical Pedagogy|批判教育学]]视角下，机会主义模式的蔓延被视作高等教育育人宗旨异化的缩影。
+> > 在高等教育社会学与[[Critical Pedagogy|批判教育学]]视角下，机会主义模式的蔓延被视作高等教育育人宗旨[[Alienation|异化]]的缩影。
 > >
 > > - **[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]** [[Opportunists|机会主义者]]虽然在世俗竞争中极易胜出，但由于长期将人生意义与深层价值[[Epoché|悬置]]，行动者可能在步入职场后陷入深层存在主义焦虑，一旦外部世俗评价体系崩塌或遭遇职场停滞，容易面临严重的意义危机。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023)]]
 > > - **批判教育学者** 机会主义者催生了精致利己主义与选课学、绩点博弈的盛行，破坏了大学作为探求真理与公共关怀[[Champ|场域]]的制度生态。

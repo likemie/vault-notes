@@ -14,9 +14,9 @@ subtype: program
 region: finland
 fact_region: "finland"
 fact_kind: "program"
-fact_related_count: 29
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 period: "2010–至今"
 initiator_organization: "芬兰教育与文化部（Ministry of Education and Culture, Finland）"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Document]]"
   - "[[Professional Capital]]"
+  - "[[Alienation]]"
   - "[[Public-Private Partnership]]"
   - "[[Problematisation]]"
 related_theories:
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-09
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -129,7 +130,7 @@ updated: 2026-11-11
 > - **[[PISA]] 测评盛誉的商业挪用机制** FGEE 借助话语转译操作，将公共基础教育在国际测评中积累的国家公信力，直接挪用为高等教育收费与职业教育商业化出口的合法性借口，掩盖了对外部商业需求的虚构。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 387–388)]]
 > - **公法保障向商业障碍的定性逆转** 政策[[Document|文献]]系统性地将旨在维护公民平等权利与公益属性的法治条款表征为束缚活力的绊脚石，推动国家自我限权并为私营资本开辟绿色通道。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 388–389)]]
 > - **教职人员主体性的企业家化规训** 通过微专业培训与绩效导向考核，微观治理技术促使教师与管理人员自发将个人职业声望与国家出口创收绑定，重塑了[[Professional Capital|专业资本]]的内涵。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 389–391)]]
-> - **公立教育系统的平台化与产业供给端异化** 在准市场话语包装下，公立学校演变为私营教育科技公司的免费产品测试平台与公信力背书跳板，形成公共财政承担试错风险、私人资本海外攫取利润的非对称合作结构。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 391–393)]]
+> - **公立教育系统的平台化与产业供给端[[Alienation|异化]]** 在准市场话语包装下，公立学校演变为私营教育科技公司的免费产品测试平台与公信力背书跳板，形成公共财政承担试错风险、私人资本海外攫取利润的非对称合作结构。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 391–393)]]
 
 > [!stat-cards]- 关键政策文献与制度数据快照
 > - **16** （份） 涵盖 2010 年至 2020 年间连续发布的 5 部核心纲领白皮书及 11 部法规改革文件总量。

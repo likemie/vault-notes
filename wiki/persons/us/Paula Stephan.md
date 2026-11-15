@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Scientific Productivity]]"
   - "[[Creativity]]"
   - "[[Knowledge Production]]"
+  - "[[Alienation]]"
   - "[[Early-Career Researchers]]"
   - "[[Externalization]]"
 related_theories:
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -83,7 +84,7 @@ updated: 2026-11-11
 ---
 
 > [!claim] 核心思想
-> 当代大学科研系统的种种结构性危机，并非单纯源自联邦政府的政策规制，而是大学组织与教师在应对《[[Science, The Endless Frontier 1945|无尽的前沿]]》历史机遇时，为了追求规模扩张与机构声誉而主动游说、重构契约所造成的体制性后果；科研体制在正反馈循环中异化为依赖外部软钱、出租科研物理空间并生产过量廉价劳动力的脆弱生态。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 2–3, 29–31, 37)]]
+> 当代大学科研系统的种种结构性危机，并非单纯源自联邦政府的政策规制，而是大学组织与教师在应对《[[Science, The Endless Frontier 1945|无尽的前沿]]》历史机遇时，为了追求规模扩张与机构声誉而主动游说、重构契约所造成的体制性后果；科研体制在正反馈循环中[[Alienation|异化]]为依赖外部软钱、出租科研物理空间并生产过量廉价劳动力的脆弱生态。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 2–3, 29–31, 37)]]
 
 > [!citation-card] 斯蒂芬论战后科研体制的自发演化与后果
 > 审视历史记录可以发现，科研契约的转变更多是由大学自身而非联邦政府主导推动的。布什建立了一套资助体制，而大学管理者与教师精明地将其改造以服务于自身目的。现代大学科研体系由此演进而来。该体系如今面临的诸多压力正是这些适应性改造的产物。我们如今所收获的，与其说是布什当年播下的种子，不如说是大学与教师在 1950 和 1960 年代为了回应《无尽的前沿》所带来的机遇而竭力推动建立的制度。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 37)]]

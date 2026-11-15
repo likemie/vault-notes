@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_display_title: "Research Methods in Education · Ch12"
 argument_kind: "book-chapter"
-argument_related_count: 41
+argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Linguistic Turn]]"
   - "[[Interpretive Paradigm]]"
+  - "[[Alienation]]"
   - "[[Doxa]]"
   - "[[Problem Finding]]"
   - "[[Categorical Funding]]"
@@ -74,9 +75,11 @@ related_theories:
   - "[[Pluralism]]"
 related_facts:
   - "[[Schulen im Team]]"
+related_persons:
+  - "[[Alexandre de Rhodes]]"
 status: draft
 created: 2026-06-24
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 ---
 
@@ -303,7 +306,7 @@ updated: 2026-11-11
 > - **高校机构的档案收藏**
 >   通常保存在高等教育机构中，维护被捐赠给它们的个人和机构文献。例如英国华威大学的现代记录中心（Modern Records Centre）和伦敦大学教育学院（Institute of Education, University of London）的档案收藏。
 > - **个人或机构自留档案**
->   没有进入有组织仓储机构的档案，由相关个人或机构自己保留。这类档案最难定位，可能已经被忽视且不易直接研究，但一旦被研究者发现，往往收获最丰富。18世纪英国教育者Jane Johnson的档案被放在一个鞋盒里，于1986年在美国罗德岛的一个橱柜中被发现（Heath, 1997）。在此之前，这些材料在历史上完全不可见；发现之后，它们改变了学界对18世纪英国女性教育实践的理解。
+>   没有进入有组织仓储机构的档案，由相关个人或机构自己保留。这类档案最难定位，可能已经被忽视且不易直接研究，但一旦被研究者发现，往往收获最丰富。18世纪英国教育者Jane Johnson的档案被放在一个鞋盒里，于1986年在美国[[Alexandre de Rhodes|罗德]]岛的一个橱柜中被发现（Heath, 1997）。在此之前，这些材料在历史上完全不可见；发现之后，它们改变了学界对18世纪英国女性教育实践的理解。
 
 > [!case] 新西兰青少年帮派调查委员会的档案（McCu​​lloch，2004，第4章）
 > 新西兰教育部奥克兰北部地区办公室保存的档案提供了一个档案研究的示范性案例。其中一个文件系列涉及一个于1970年成立的委员会，该委员会负责调查当时日益引起关切的青少年帮派扩散问题。
@@ -371,7 +374,7 @@ Jupp and Norris（1993）将文献分析的多元理论路径归纳为三种一�
 > - **实证主义传统（positivist approach）**
 >   主张客观、系统、理性和可量化的研究。这种传统将文献视为数据容器：如果按正确的方法处理，文献将产出关于事实的可验证信息。Halstead（1988）关于英国校长 Ray Honeyford 与多元文化教育争论的研究是这一传统的代表性案例：他通过对一千多篇地方和全国性报纸、杂志和期刊文章进行详尽和系统的研究，构建了一个关于争议各方立场的经验地图。然而，该研究的局限在于它没有发展出涉及不同立场之间权力差异或话语策略的分析。实证主义传统的优势在于其系统性和可复制性；其局限在于倾向于忽视文献的语言结构、权力关系和意识形态维度。
 > - **解释性传统（[[Interpretive Paradigm\|interpretive approach]]）**
->   认为包括文献在内的社会现象并非客观给定，而是经由社会互动和意义赋予过程**建构**而成。在这一取向下，分析者的任务不是判断文献准确与否，而是理解其生产者和读者赋予了它什么样的意义，以及这些意义是如何在特定的社会情境中形成的。解释性传统特别适合于研究不同行动者对同一政策文本的差异化解读。为什么同一个课程改革文件在不同学校被理解成截然不同的东西。
+>   认为包括文献在内的社会现象并非客观给定，而是经由社会互动和意义赋予过程**建构**而成。在这一取向下，分析者的任务不是判断文献准确与否，而是理解其生产者和读者赋予了它什么样的意义，以及这些意义是如何在特定的社会情境中形成的。解释性传统特别适合于研究不同行动者对同一政策文本的差[[Alienation|异化]]解读。为什么同一个课程改革文件在不同学校被理解成截然不同的东西。
 > - **批判传统（critical approach）**
 >   以马克思主义、女性主义或批判性话语理论（[[Critical Discourse Analysis]]）为代表，将文献视为社会冲突、权力关系和控制机制的场域。这一传统的两个代表性案例展示了批判性文献分析的不同进路：
 >

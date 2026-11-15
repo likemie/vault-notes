@@ -11,7 +11,7 @@ subtype: program
 region: australia
 fact_region: "australia"
 fact_kind: "program"
-fact_related_count: 41
+fact_related_count: 42
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[School Leadership]]"
   - "[[International Education]]"
+  - "[[Alienation]]"
   - "[[Research Utilization]]"
   - "[[Professional Learning Community]]"
   - "[[Appropriate Research]]"
@@ -73,7 +74,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -85,7 +86,7 @@ updated: 2026-11-11
 > - **立项时间 / 周期** 2019 年启动，设计实施周期为 5 年（2019–2024）。
 > - **发起方与资助机制** 由澳大利亚莫纳什大学教育学院主导，获得澳大利亚知名慈善机构保罗·拉姆齐基金会全额专项资助，联合各州教育部、学校系统与关键利益相关者深度合作。
 > - **覆盖范围与对象** 覆盖澳大利亚 4 个州（新南威尔士州、维多利亚州、昆士兰州、南澳大利亚州），调查样本涵盖公立、天主教与独立私立学校系统的 906 名一线教师与[[School Leadership\|学校领导]]者。
-> - **核心问题导向** [[International Education\|国际教育]]界长期深陷何谓高质量证据的学术争辩，却极度匮乏关于何谓[[Quality Use of Research Evidence Framework\|高质量研究使用]]的实证探讨；学校虽有获取外部研究的渠道，却往往面临盲从流行、领导独断强加或缺乏时间的异化困境。
+> - **核心问题导向** [[International Education\|国际教育]]界长期深陷何谓高质量证据的学术争辩，却极度匮乏关于何谓[[Quality Use of Research Evidence Framework\|高质量研究使用]]的实证探讨；学校虽有获取外部研究的渠道，却往往面临盲从流行、领导独断强加或缺乏时间的[[Alienation|异化]]困境。
 
 ---
 

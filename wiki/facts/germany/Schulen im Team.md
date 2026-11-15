@@ -12,7 +12,7 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -30,9 +30,11 @@ related_concepts:
   - "[[Industrial District]]"
   - "[[Knowledge Transfer]]"
   - "[[Absorptive Capacity]]"
+  - "[[Alienation]]"
   - "[[Homework]]"
   - "[[Public-Private Partnership]]"
   - "[[Transfer Science]]"
+  - "[[Mimesis]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Recontextualization]]"
   - "[[Heterogeneity]]"
@@ -49,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-10-16
+updated: 2026-11-15
 ---
 
 ---
@@ -72,7 +74,7 @@ updated: 2026-10-16
 > - **跨校多轨教研网络（Schulnetzwerke）**
 >   打破传统德国分流学制壁垒，组织 4 至 5 所地理相近但不同类型的中学（以及后期的对口小学）组成紧密型区域教研网络，针对跨学段、跨学轨教学断层建立常规会商机制。
 > - **教师网络团队与学科备课工作坊**
->   各校选拔骨干学科教师组成“网络团队”（Netzwerkteams），定期举行跨校联合教研与备课工作坊，聚焦核心议题（如语言敏感型学科教学 Sprachförderung、认知激活、差异化[[Homework|作业]]设计）协同研发具体教学单元。
+>   各校选拔骨干学科教师组成“网络团队”（Netzwerkteams），定期举行跨校联合教研与备课工作坊，聚焦核心议题（如语言敏感型学科教学 Sprachförderung、认知激活、差[[Alienation|异化]][[Homework|作业]]设计）协同研发具体教学单元。
 > - **专业网络主持人（Netzwerkmoderator/innen）专业支架**
 >   项目为每个网络配备经过专门培训的外部专业主持人，由大学专家与州立研训骨干提供过程辅导与组织管理咨询，为校际协商提供流程规范与方法学支架。
 > - **校领导协同网络（Schulleitungsnetzwerke）**
@@ -120,7 +122,7 @@ updated: 2026-10-16
 
 > [!finding-cards] [[Transfer Science|转移科学]]核心发现
 > - **转移对象（Transfergegenstand）特质深刻制约扩散阻抗**
->   实证研究表明，可直接感知的具象工具（如导学案、实验活动清单）在网络中极易扩散，但往往停留在形式模仿层面；而深层教学理念（如语言敏感型施教、[[Inquiry-Based Learning|探究式学习]]）的转移必须依托同侪持续对话和结构化支架，经由一线教师的“[[Recontextualization|本土重构]]”（Re-Kontextualisierung）方能实现微观行为转化（van Holt, 2014; [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 12]]）。
+>   实证研究表明，可直接感知的具象工具（如导学案、实验活动清单）在网络中极易扩散，但往往停留在形式[[Mimesis|模仿]]层面；而深层教学理念（如语言敏感型施教、[[Inquiry-Based Learning|探究式学习]]）的转移必须依托同侪持续对话和结构化支架，经由一线教师的“[[Recontextualization|本土重构]]”（Re-Kontextualisierung）方能实现微观行为转化（van Holt, 2014; [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 12]]）。
 > - **[[Absorptive Capacity|组织吸收能力]]（Absorptionsfähigkeit）决定转移成效的可持续性**
 >   单体学校并非被动的技术接收器，各校内部微观政治生态与[[Organizational Culture|组织文化]]的[[Heterogeneity|异质性]]导致其对网络成果的吸纳能力存在显著分化。具备开放教研文化与校领导明确支持的学校能够将网络创新顺利制度化；反之，内部孤立、缺乏校本研讨机制的学校在外部项目支持撤出后迅速遭遇创新衰减（Manitius & Groot-Wilken, 2017）。
 > - **合作性知识管理（Kooperatives Wissensmanagement）是网络成功的催化剂**

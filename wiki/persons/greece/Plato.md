@@ -8,7 +8,7 @@ cssclasses:
   - person-page
 nationality: greece
 person_region: "greece"
-person_related_count: 44
+person_related_count: 45
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Technological Republic]]"
   - "[[Western Learner]]"
+  - "[[Alienation]]"
   - "[[Engineering Mindset]]"
   - "[[Red Tape]]"
 related_theories:
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -222,7 +223,7 @@ updated: 2026-10-22
 > [!critique] 批评索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合[[John Dewey|杜威]]与弗雷尔的批判教育学视角，严厉批驳柏拉图阶层固定化教育选拔观与专制治理模型。
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 从现代教育 AI（Q-Tutor）交互规范出发，深度解构柏拉图《美诺篇》几何问答中的收敛预设陷阱。
-> - [[Argument_Li_2012_Cambridge|Li (2012)]] — 剖析柏拉图精英选拔体系对[[Western Learner|西方学习者]]观念差异化的文化定型。
+> - [[Argument_Li_2012_Cambridge|Li (2012)]] — 剖析柏拉图精英选拔体系对[[Western Learner|西方学习者]]观念差[[Alienation|异化]]的文化定型。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|Karp & Zamiska (2025)]] — 批判《理想国》善者不为名利执政的假定对现代公共治理激励机制造成的扭曲。
 
 > [!warning] 未解问题与边界

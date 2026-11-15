@@ -16,7 +16,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 44
+fact_related_count: 46
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ tags:
   - level/k12
 related_concepts:
   - "[[Academic Achievement]]"
+  - "[[Alienation]]"
   - "[[Evidence Standards]]"
   - "[[School Leadership]]"
   - "[[Variable]]"
@@ -57,6 +58,7 @@ related_methods:
   - "[[Hierarchical Linear Model]]"
   - "[[Pre-test and Post-test]]"
 related_persons:
+  - "[[Alexandre de Rhodes]]"
   - "[[Ben Levin]]"
 related_facts:
   - "[[United States Congress]]"
@@ -83,7 +85,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-09-16
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -92,7 +94,7 @@ updated: 2026-11-11
 > - **发布时间 / 签署主体** [[United States Congress|美国国会]]于 2015 年 12 月两党压倒性高票通过（参议院 85:12，众议院 359:64），由贝拉克·奥巴马（Barack Obama）总统正式签署生效。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 23)]]
 > - **适用地区 / 覆盖对象** 全美 50 州公立中小学校（K–12），重点规范接受联邦 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资助的学校，尤其是[[Academic Achievement\|学业表现]]处于全州倒数 5% 的综合支持与改进学校（Comprehensive Support and Improvement, CSI）以及存在群体差距的针对性支持与改进学校（Targeted Support and Improvement, TSI）。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 25)]]
 > - **问题背景** 全面修正 2001 年《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]（No Child Left Behind Act, NCLB）》中僵化严苛的联邦全面达标要求（[[Adequate Yearly Progress]], AYP）与惩罚性行政问责机制；在向各州下放教育治理与评价自主权的同时，建立以因果证据为导向的精准改进与财政激励体系。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–23)]]
-> - **制度位置** 属于美国 1965 年《[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]（Elementary and Secondary Education Act of 1965, ESEA）》的第七次全面重新授权。在宪法第十修正案确立的教育州权分权体制下，法案深刻吸取了 NCLB 诱发应试操练与集体舞弊的异化教训，标志着美国基础教育治理从僵化规制向发展型治理进路、从单一测试问责向证据分级激励的历史性跨越。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
+> - **制度位置** 属于美国 1965 年《[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]（Elementary and Secondary Education Act of 1965, ESEA）》的第七次全面重新授权。在宪法第十修正案确立的教育州权分权体制下，法案深刻吸取了 NCLB 诱发应试操练与集体舞弊的[[Alienation|异化]]教训，标志着美国基础教育治理从僵化规制向发展型治理进路、从单一测试问责向证据分级激励的历史性跨越。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
 
 ---
 
@@ -132,7 +134,7 @@ updated: 2026-11-11
 > [!actor-grid] 循证导向的三重财政激励机制（[[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 428]]）
 > - **学校改进刚性拨款（Section 1003 SIG）** 全州倒数 5% 的 CSI 学校申请联邦 Title I 改进资金时，法定强制必须采纳 Tier 1–3 项目。
 > - **联邦竞争性偏好分（Competitive Preference Points）** 在[[Education Innovation and Research\|教育创新与研究计划]]（EIR）、教师与校长伙伴关系资助（TSL）等非学校改进联邦拨款中，提议采纳符合 Tier 1–2 方案的申请者享有法定加分偏好。
-> - **州级自主扩展与准入收紧（State-Level Adoption）** 亚利桑那、路易斯安那、内华达、明尼苏达、北卡罗来纳与罗德岛等州直接将 ESSA 证据门槛拓展为**州级自有教育财政拨款**的必备条件；其中亚利桑那（AZ）与路易斯安那（LA）等州进一步收紧准入，明确将采购范围限定在 Tier 1 强证据与 Tier 2 中等证据，剔除 Tier 3。
+> - **州级自主扩展与准入收紧（State-Level Adoption）** 亚利桑那、路易斯安那、内华达、明尼苏达、北卡罗来纳与[[Alexandre de Rhodes|罗德]]岛等州直接将 ESSA 证据门槛拓展为**州级自有教育财政拨款**的必备条件；其中亚利桑那（AZ）与路易斯安那（LA）等州进一步收紧准入，明确将采购范围限定在 Tier 1 强证据与 Tier 2 中等证据，剔除 Tier 3。
 
 ---
 

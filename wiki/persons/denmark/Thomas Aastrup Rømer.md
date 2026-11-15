@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: denmark
 person_region: "denmark"
-person_related_count: 46
+person_related_count: 47
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Pure Evaluation]]"
   - "[[Construct]]"
   - "[[Didaktik]]"
+  - "[[Alienation]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Pragmatic Paradigm]]"
@@ -87,7 +88,7 @@ updated: 2026-11-15
 > - **核心角色** 欧洲教化传统与批判教育哲学在当代[[Evidence-Based Education|循证教育]]论辩中的重要捍卫者，以对[[John Hattie|约翰·哈蒂]]《[[Visible Learning|可见的学习]]》展开的“五线哲学批判”和提出“[[Pure Evaluation|纯粹评价]]”概念闻名。
 > - **代表贡献** 提出[[Pure Evaluation|纯粹评价]]（Pure Evaluation）[[Construct|构念]]、拆解可见学习的五线教育哲学批判框架（[[Argument_Rømer_2018_EPT|Rømer, 2018]]）、系统论证评价图式对教学论（[[Didaktik]]）与文化世界三的解构机制。
 
-> [!citation-card] 论可见学习的评价异化本质
+> [!citation-card] 论可见学习的评价[[Alienation|异化]]本质
 > 可见学习本身缺乏作为独立学习理论的学理基础，在实质上难以被视为教学理论；它真实反映的是当教育与学习完全屈从于简陋评价图式时所造成的理论异化。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 2)]]
 >
 > *Visible Learning is not a learning theory in its own right, and in fact it is not a pedagogical theory at all. Rather, Visible Learning is what happens when education and learning are subjected to a rather simplistic theory of evaluation.*

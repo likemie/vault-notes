@@ -8,7 +8,7 @@ aliases:
 summary: "源自西方自由七艺与英国绅士品格培育传统的博雅教育理念，主张知识本身即为其目的，强调通过古典人文学术磨砺卓越心智与高尚品格，构成维多利亚时代大英帝国政治治理与抵御市侩庸俗主义的核心文化防线。"
 type: concept
 domain: "educational-philosophy"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -20,6 +20,7 @@ tags:
   - country/uk
 related_concepts:
   - "[[Junzi]]"
+  - "[[Alienation]]"
   - "[[Bildung]]"
   - "[[Culture Générale]]"
   - "[[Paideia]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -81,7 +82,7 @@ updated: 2026-11-14
 > [!concept-lens|notitle] 概念透镜
 > - **超功利智识透镜** 强调知识探究摆脱奴役性与实用性工具束缚，通过文雅心智的自由展开获得理智自治与审美充实。
 > - **品格与领导力透镜** 揭示英式自由教育是依托公学自治组织、体育竞技与寄宿规训，将道德责任内化为阶层本能，为大英帝国政治与海外殖民治理输送领导人才，有别于单纯书斋思辨。
-> - **文化批评与防御透镜** 透视古典人文知识分子如何以自由教育作为精神武器，抗击工业资本主义带来的机械异化、庸俗市侩主义与社会无政府危机。
+> - **文化批评与防御透镜** 透视古典人文知识分子如何以自由教育作为精神武器，抗击工业资本主义带来的机械[[Alienation|异化]]、庸俗市侩主义与社会无政府危机。
 > - **民主政体防御透镜** 透视 20 世纪比较教育第二论述代际（Kandel, Ulich, Hans）如何将博雅教育作为抵御法西斯暴政与极权主义意识形态、维系自由民主政体与培育全人公民资格的核心道德堡垒。
 
 > [!citation-card|notitle] 关键表述

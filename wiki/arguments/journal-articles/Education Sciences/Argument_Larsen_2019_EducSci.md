@@ -9,7 +9,7 @@ title: "Argument_Larsen_2019_EducSci"
 argument_key: "Argument_Larsen_2019_EducSci"
 argument_display_title: "Blindness in seeing: A philosophical critique of the Visible Learning paradigm in education"
 argument_kind: "journal-article"
-argument_related_count: 56
+argument_related_count: 58
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -50,11 +50,13 @@ related_concepts:
   - "[[Document]]"
   - "[[The Sublime]]"
   - "[[Student Well-being]]"
+  - "[[Alienation]]"
   - "[[Pedagogical Subject]]"
   - "[[Reform Pedagogy]]"
   - "[[Competitiveness]]"
   - "[[Developmentalism]]"
   - "[[Learnification]]"
+  - "[[Judgment of Taste]]"
   - "[[Participatory Sense-Making]]"
   - "[[Incarnation-Extension Dialectics]]"
   - "[[Reflexivity]]"
@@ -95,7 +97,7 @@ sources:
 part_of: ''
 status: stable
 created: '2026-05-04'
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 ---
 
@@ -267,7 +269,7 @@ updated: 2026-11-14
 > 1. **神学起点：全知全能上帝的绝对穿透** 北非早期教父圣奥古斯丁在《忏悔录》第三卷中提出著名命题：上帝审视我，比我审视内心更为幽深，上帝居于我之顶巅更[[The Sublime|崇高]]之处（*interior intimo meo, superior summo meo*）。
 > 2. **权力机制：持续凝视与强迫自我审判** [[Peter Sloterdijk|彼得·斯洛特戴克]]（Peter Sloterdijk）在《后上帝时代》中解构该传统，指出这套神学修辞催生了来自上方的恒常监视（Dauerbeobachtung）与内化于心的强迫自省（Zwang zur Selbstbeobachtung）。
 > 3. **世俗化转移：从神职代行到管理理性** 伴随世俗化进程，全知全视（*omnes videndes*）的神权被移交给启蒙时代的规划师、统计官僚与政治家。
-> 4. **当代终局：算法统治与 [[PISA]] 测验体制** 现代教育测评、[[Student Well-being|学生幸福感]]指数与算法监控全面接管神权凝视，了解自身影响（know thy impact）的技术律令将学校从精神自由探究的场所异化为数据规训工厂。
+> 4. **当代终局：算法统治与 [[PISA]] 测验体制** 现代教育测评、[[Student Well-being|学生幸福感]]指数与算法监控全面接管神权凝视，了解自身影响（know thy impact）的技术律令将学校从精神自由探究的场所[[Alienation|异化]]为数据规训工厂。
 
 视觉监控机制要求学生将一切内在心智外显化，在方法层面伴随着无法弥补的盲区。
 
@@ -298,7 +300,7 @@ updated: 2026-11-14
 > | 维度 | 交换价值 | 使用价值 |
 > |---|---|---|
 > | **社会逻辑** | [[Cognitive Capitalism\|认知资本主义]]与[[Human Capital Theory\|人力资本理论]]，劳动力商品化。 | 生命个体的丰富成长、精神解放与人类共同体福祉。 |
-> | **表现形态** | 绩效标签、认证价格、工资报酬与效应量排名。 | 批判反思能力、审美判断力、对生活意义的深度体悟。 |
+> | **表现形态** | 绩效标签、认证价格、工资报酬与效应量排名。 | 批判反思能力、[[Judgment of Taste\|审美判断]]力、对生活意义的深度体悟。 |
 > | **主体姿态** | 戴上雇员面具，将整个人力资本完全奉献给资方支配。 | 在雇员面具背后保留真正的人，拥有超越职务要求的思考勇气。 |
 
 #### 2. 回归德意志教化传统：从神学“原型之像”到破除镜中自恋的去中心化

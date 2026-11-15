@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 42
+person_related_count: 44
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -30,6 +30,7 @@ tags:
   - theme/international-relations
 related_concepts:
   - "[[Enlightenment]]"
+  - "[[Epistemology]]"
   - "[[Empiricism]]"
   - "[[Philosophical Aesthetics]]"
   - "[[Paradigm]]"
@@ -37,17 +38,17 @@ related_concepts:
   - "[[Revolutionism]]"
   - "[[Phronesis]]"
   - "[[Emergence]]"
-  - "[[Epistemology]]"
   - "[[Causality]]"
   - "[[Cosmopolitanism]]"
+  - "[[The Sublime]]"
   - "[[Judgment of Taste]]"
   - "[[Disinterested Pleasure]]"
   - "[[Aesthetic Idea]]"
   - "[[Genius]]"
-  - "[[The Sublime]]"
   - "[[Critical Thinking]]"
   - "[[Self-Cultivation]]"
   - "[[Moral Dualism]]"
+  - "[[Alienation]]"
   - "[[Certainty of Knowledge]]"
   - "[[Mind and Its Wonders]]"
   - "[[Realism in International Relations]]"
@@ -65,12 +66,13 @@ related_persons:
   - "[[Gottfried Wilhelm Leibniz]]"
   - "[[Alexander Gottlieb Baumgarten]]"
   - "[[Jin Li]]"
+  - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Jean-Jacques Rousseau]]"
   - "[[Plato]]"
   - "[[René Descartes]]"
   - "[[George Berkeley]]"
-  - "[[Georg Wilhelm Friedrich Hegel]]"
-related_facts: []
+related_facts:
+  - "[[Protestant Pietism]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
@@ -87,7 +89,7 @@ updated: 2026-11-15
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国哲学家（1724–1804），[[Enlightenment|启蒙运动]]的集大成者与德国古典哲学的奠基人，终身执教于柯尼斯堡大学。
-> - **核心角色** 在西方哲学史上发动认识论的“哥白尼式革命”，提出先天范畴论终结先天论与[[Empiricism\|经验论]]的千年论争；确立理性自律的定言律令伦理学；在[[Philosophical Aesthetics|哲学美学]]中以《判断力批判》正式开启美学[[Paradigm|范式]]时代；在国际政治理论中开创以世界公民共同体与[[Perpetual Peace\|永久和平]]为核心的“[[Revolutionism\|革命主义]]（Revolutionism）”传统；在教育哲学中确立“启蒙即勇敢运用理性”与“人只有受教育才能成为人”的现代主体性命题。
+> - **核心角色** 在西方哲学史上发动[[Epistemology|认识论]]的“哥白尼式革命”，提出先天范畴论终结先天论与[[Empiricism\|经验论]]的千年论争；确立理性自律的定言律令伦理学；在[[Philosophical Aesthetics|哲学美学]]中以《判断力批判》正式开启美学[[Paradigm|范式]]时代；在国际政治理论中开创以世界公民共同体与[[Perpetual Peace\|永久和平]]为核心的“[[Revolutionism\|革命主义]]（Revolutionism）”传统；在教育哲学中确立“启蒙即勇敢运用理性”与“人只有受教育才能成为人”的现代主体性命题。
 > - **代表贡献** 创立三大批判体系（《纯粹理性批判》《[[Phronesis|实践理性]]批判》《判断力批判》）；发表《答复这个问题：什么是启蒙？》（1784）与《论永久和平》（1795）；其启蒙自主性哲学与永久和平蓝图深刻启迪了 19 世纪初现代比较教育始祖[[Marc-Antoine Jullien\|马克-安托万·朱利安]]，促成了比较教育学从革命政治暴力向教育预防论与国际和平治理的[[Paradigm\|范式]]转向。
 
 > [!citation-card] 人物定位的关键来源：启蒙即公开运用理性的自由
@@ -98,7 +100,7 @@ updated: 2026-11-15
 ---
 
 > [!timeline] 生平与职涯
-> - **1724** 出生于东普鲁士柯尼斯堡的一个虔敬派（Pietist）工匠家庭。
+> - **1724** 出生于东普鲁士柯尼斯堡的一个[[Protestant Pietism|虔敬派]]（Pietist）工匠家庭。
 > - **1740–1746** 就读于柯尼斯堡大学，师从马丁·克努岑（Martin Knutzen），系统研习[[Gottfried Wilhelm Leibniz|莱布尼茨]]—沃尔夫学派哲学、牛顿物理学与数学。
 > - **1755** 提交《自然通史与天体理论》，提出解释太阳系起源的“星云假说”；同年以《形而上学认识各首要原则的新解说》获得大学任教资格。
 > - **1770** 就任柯尼斯堡大学逻辑与形而上学讲座教授，发表就职论著《感性与知性世界的形式与原则》，开启长达十年的沉潜批判思考。
@@ -145,7 +147,7 @@ updated: 2026-11-15
 
 > [!influence-path] 影响路径
 > - **认识论与学习科学路径** 康德的“哥白尼式革命”彻底击碎了心灵被动接受印记的白板说，提出心智先天地配备加工经验框架的主动建构观；[[Jin Li\|李瑾]]（[[Argument_Li_2012_Cambridge\|Li, 2012]]）指出康德在西方 2500 年认识论之争中提供了融通[[Empiricism\|经验论]]与唯理论的典范，其范畴加工模型（“佩戴玫瑰色眼镜看世界”）构成了现代[[Cognitive Constructivism\|认知建构主义]]与儿童概念认知科学的重要思想先声。[[Argument_Li_2012_Cambridge\|Li (2012, pp. 25–26, 30)]]
-> - **哲学美学范式奠基路径** 康德先在 1764 年《论优美感与崇高感》中从人类学与道德心理学切入，继而在 1790 年《判断力批判》中正式确立美学作为独立学科的首个强范式：以[[Judgment of Taste|鉴赏判断]]四重契机与[[Disinterested Pleasure|无功利愉悦]]剥离美与概念认知的绑缚，以[[Aesthetic Idea|审美理念]]开启现代艺术不可穷尽阐释的诠释学传统，以[[Genius|天才]]规定“自然借以向艺术立法”，以数学的崇高与力学的崇高将[[The Sublime|崇高]]收归主体超感性理性能力，并以“美作为道德的象征”重新在审美与伦理之间架设桥梁；其美学形式主义、主体化转向及对艺术真理性诉求的剥离，成为黑格尔之前乃至阿多诺与伽达默尔等后世美学着力回应的核心起点。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. ix–x, 11, 17–20)]]；[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 21–41)]]
+> - **哲学美学范式奠基路径** 康德先在 1764 年《论优美感与[[The Sublime|崇高]]感》中从人类学与道德心理学切入，继而在 1790 年《判断力批判》中正式确立美学作为独立学科的首个强范式：以[[Judgment of Taste|鉴赏判断]]四重契机与[[Disinterested Pleasure|无功利愉悦]]剥离美与概念认知的绑缚，以[[Aesthetic Idea|审美理念]]开启现代艺术不可穷尽阐释的诠释学传统，以[[Genius|天才]]规定“自然借以向艺术立法”，以数学的崇高与力学的崇高将[[The Sublime|崇高]]收归主体超感性理性能力，并以“美作为道德的象征”重新在审美与伦理之间架设桥梁；其美学形式主义、主体化转向及对艺术真理性诉求的剥离，成为[[Georg Wilhelm Friedrich Hegel|黑格尔]]之前乃至阿多诺与伽达默尔等后世美学着力回应的核心起点。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. ix–x, 11, 17–20)]]；[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 21–41)]]
 > - **国际关系英国学派与[[Revolutionism\|革命主义]]传统** 马丁·怀特（Martin Wight, 1992）在国际理论三大传统中将康德确立为“革命主义（Revolutionism）”传统的始祖，与马基雅维利的现实主义、格老秀斯的理性主义并立；康德将普遍的人类共同体（Universal Human Community）确立为国际关系的终极实体，超越了主权国家的孤立视角，倡导消除苦难、追求世界大同与[[Perpetual Peace\|永久和平]]的道德激情。[[Argument_Klerides_2023_CE\|Klerides (2023, p. 418)]]
 > - **比较教育学发端期的启蒙精神纽带** 卡洛扬纳基与卡扎米亚斯（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009]]）考证，康德在 1784 年论著中阐明的“启蒙即勇敢运用理性、走出未成熟状态”的自主性命题，对学科始祖朱利安（[[Marc-Antoine Jullien]]）产生了划时代的思想启蒙；促使朱利安从大革命雅各宾恐怖统治与拿破仑帝国战争的幻灭中抽离，将教育升华为预防政治暴力循环、促进世界和平与全人教化的理性替代方案。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 20, 22–24)]]
 > - **[[Critical Thinking\|批判性思维]]与现代教育哲学** 康德的“Sapere aude!”与定言律令将受教育者从被动服从权威教条中解放出来，奠定了现代[[Critical Thinking\|批判性思维]]、道德自律与民主公民教育的法哲学基座。
@@ -177,7 +179,7 @@ updated: 2026-11-15
 > > [!axis] [[Revolutionism\|革命主义]]世界主义的道德激情 vs 传教干涉主义风险
 > > 怀特（Wight, 1992）指出康德式的革命主义对建立超越国家边界的人类普遍共同体怀有无限道德热忱。
 > > - **道德世界主义派（Bull, 1992）** 赞赏其消除全人类苦难、实现[[Perpetual Peace\|永久和平]]的激进人道主义伦理。
-> > - **现实主义批评派（[[Argument_Klerides_2023_CE\|Klerides, 2023]]）** 警惕其将世界划分为“忠于世界秩序者”与“阻碍历史进步者”的绝对[[Moral Dualism|道德二元论]]，指出这一传教性冲动在历史上容易异化为自命正义的霸权干涉与文明优越论。[[Argument_Klerides_2023_CE\|Klerides (2023, pp. 418–419)]]
+> > - **现实主义批评派（[[Argument_Klerides_2023_CE\|Klerides, 2023]]）** 警惕其将世界划分为“忠于世界秩序者”与“阻碍历史进步者”的绝对[[Moral Dualism|道德二元论]]，指出这一传教性冲动在历史上容易[[Alienation|异化]]为自命正义的霸权干涉与文明优越论。[[Argument_Klerides_2023_CE\|Klerides (2023, pp. 418–419)]]
 
 > [!critique] 形式主义空洞批判
 > [[Georg Wilhelm Friedrich Hegel\|黑格尔]]与现代伦理学派批评康德的“定言律令”陷入纯粹的形式主义；其绝对命令要求不含矛盾的普遍化，但脱离了具体历史情境、社会关系与伦理生活（*Sittlichkeit*），在面临复杂伦理冲突时往往难以提供切实的实质性指引。

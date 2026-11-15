@@ -8,7 +8,7 @@ aliases:
 summary: "教育干预在达成预期教学或测验效果的同时伴随引发的非意图负面代价或长远损害；作为对“什么有效”单维评价逻辑的核心认识论与方法论反思，主张将副作用监测制度化为教育政策与循证干预的必备规程。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Implementation Fidelity]]"
   - "[[Teacher Professional Agency]]"
   - "[[Phronesis]]"
+  - "[[Alienation]]"
   - "[[Evidence-Based Education]]"
   - "[[Operationalization]]"
   - "[[Effective Teaching]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -101,7 +102,7 @@ updated: 2026-11-11
 > - **双生硬币属性（Inseparability of Effects and Side Effects）** 干预的积极效果与其消极副作用源于同一机制；追求单一指标的极限优化（如解题熟练度）往往直接挤压支持发散探究的认知资源。[[Argument_Zhao_2017_JEC|(Zhao, 2017, pp. 2–3)]]
 > - **公共卫生与流行病学类比（Public Health & Epidemiological Analogy）** 借鉴临床药物研发严格的双重审批与上市后不良事件监测规范，教育决策必须将副作用的前瞻性评估确立为循证合规的前提准则。[[Argument_Zhao_2017_JEC|(Zhao, 2017, p. 3)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 19)]]
 > - **教育论争的钟摆盲区（Educational Pendulum Syndrome）** 缺乏副作用监测导致学界陷入零和争执：支持者出示有效性证据，反对者出示危害证据，双方各自执着于不同侧面，导致政策在不同方案间盲目往复震荡。[[Argument_Zhao_2017_JEC|(Zhao, 2017, pp. 5–6)]]
-> - **专业裁量对行政强制的缓冲防御（[[Teacher Professional Agency|Professional Agency]] as Buffering Shield）** 教师的一线[[Phronesis|实践智慧]]能够对外部强制方案的潜在副作用保持敏锐警惕，通过情境化调适阻断过度标准化带来的异化损害。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 19–20)]]
+> - **专业裁量对行政强制的缓冲防御（[[Teacher Professional Agency|Professional Agency]] as Buffering Shield）** 教师的一线[[Phronesis|实践智慧]]能够对外部强制方案的潜在副作用保持敏锐警惕，通过情境化调适阻断过度标准化带来的[[Alienation|异化]]损害。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 19–20)]]
 
 > [!logic-map]- 要素关系与调控机制
 > ```mermaid

@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Grand Theory]]"
   - "[[The Sublime]]"
+  - "[[Alienation]]"
   - "[[Technological Republic]]"
   - "[[Engineering Mindset]]"
 related_theories:
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -101,7 +102,7 @@ updated: 2026-11-14
 > [!feature] 思想支柱
 > - **[[Hedgehog and Fox Model|刺猬与狐狸]]的认知二元模型（The Hedgehog and the Fox）** 刺猬将一切归结于单一中心体系与宏大教条，狐狸则追求多样、偶发且经验关联的多元目标；这一模型被[[Philip Tetlock|泰特洛克]]验证为预测复杂地缘与社会系统的关键认知指标。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 159–160)]]
 > - **价值[[Incommensurability|不可通约性]]（Value Incommensurability）** 自由、平等、正义等[[The Sublime|崇高]]价值之间存在无法用数学公分母折算的内在张力，选择必然伴随悲剧性的妥协。
-> - **消极自由与积极自由的边界** 捍卫个体免于外在强制的“消极自由”，警惕以“追求更高自我实现”为名的积极自由异化为集体主义强制。
+> - **消极自由与积极自由的边界** 捍卫个体免于外在强制的“消极自由”，警惕以“追求更高自我实现”为名的积极自由[[Alienation|异化]]为集体主义强制。
 
 ---
 

@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: taiwan
 person_region: "taiwan"
-person_related_count: 31
+person_related_count: 32
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Epistemic Agency]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Alienation]]"
   - "[[Metacognition]]"
   - "[[Learning Analytics]]"
   - "[[Inquiry-Based Learning]]"
@@ -82,7 +83,7 @@ updated: 2026-11-15
 
 > [!timeline] 生平与职涯
 > - **1996** 获美国哥伦比亚大学科学教育博士学位，返台任教于交通大学教育研究所，开创科学[[Epistemological Beliefs\|认识论信念]]与网络化学习环境的交叉研究。
-> - **2004** 发表于权威期刊关于网络化教学与认识论信念重塑的奠基性论文，系统提出网络学习环境对不同认识论信念学习者的差异化影响及逆向重塑机制。
+> - **2004** 发表于权威期刊关于网络化教学与认识论信念重塑的奠基性论文，系统提出网络学习环境对不同认识论信念学习者的差[[Alienation|异化]]影响及逆向重塑机制。
 > - **2006–2019** 先后出任台湾科技大学与台湾师范大学讲座教授，长期主持教育技术与学习科学前沿研究团队，历任国际顶级期刊 *Computers & Education* 与 *International Journal of Science Education* 主编。
 > - **2020–至今** 出任台湾师范大学教育学院院长，主持学习科学跨国顶尖研究中心，推进[[Generative Artificial Intelligence\|生成式人工智能]]时代的认知建模与自适应支架研究。
 > - **2025** 与合作者在 *Educational Researcher* 发表专论，将网络[[Epistemology\|认识论]]假说升级为生成式人工智能时代的[[Man-Computer Symbiosis|人机共生]]认识理论框架。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–368)]]

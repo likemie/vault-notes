@@ -11,7 +11,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 43
+fact_related_count: 45
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#fef3c7"
@@ -30,12 +30,14 @@ related_concepts:
   - "[[Document]]"
   - "[[Academic Inbreeding]]"
   - "[[Sociology of Valuation and Evaluation]]"
+  - "[[Mimesis]]"
   - "[[Transnational Education]]"
   - "[[Grandes Ecoles]]"
   - "[[Global Universities Rankings]]"
   - "[[Scientific Productivity]]"
   - "[[Comprehensive Education]]"
   - "[[Heterogeneity]]"
+  - "[[Alienation]]"
   - "[[Critical Thinking]]"
   - "[[Cross-cultural Validity]]"
   - "[[Study Abroad]]"
@@ -74,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-11
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -125,7 +127,7 @@ updated: 2026-11-11
 > | 知识合法性标准 | 在 *Nature*、*Science* 与 SCIE 高被引成果及诺贝尔奖/菲尔兹奖的集中度 | 教学质量、专业实践技能、本土人文社科批判传承与社区公平贡献 |
 > | 制度策略导向 | 集中科研重金吸引顶尖科研成果产出团队与外籍高被引学者 | 坚持招收弱势背景生源与提供区域公共福祉，但面临排名被惩罚风险 |
 >
-> **关键制度冲突** 两种逻辑围绕“大学是否等同于自然科学研究机构”展开深层交锋。以 ARWU 为代表的硬指标迫使全球高校走向同质化模仿，削弱了不同国家与类型院校依据本土地缘社会需求发展多元使命的制度空间。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 132–137)]]
+> **关键制度冲突** 两种逻辑围绕“大学是否等同于自然科学研究机构”展开深层交锋。以 ARWU 为代表的硬指标迫使全球高校走向同质化[[Mimesis|模仿]]，削弱了不同国家与类型院校依据本土地缘社会需求发展多元使命的制度空间。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 132–137)]]
 
 ---
 
@@ -154,7 +156,7 @@ updated: 2026-11-11
 > > 制度史学家与科技政策学者将 ARWU 视作战后去中心化科研体制在全球优选中的真实生产力映照；而批判社会学者则认为其以片面量化指标虚构了唯一的“世界一流大学”标准，掩盖了深层制度不公。
 > >
 > > - **制度效能与竞争优势视角** Atkinson & Blanpied 强调，ARWU 排名不仅未夸大美国实力，反而客观呈现了美国[[Research Universities|研究型大学]]因师生紧密互动、分散竞争性同行评审资助与跨校争夺学术人才所迸发出的巨大创新优势，而欧亚各国中央集权高教体系的平均主义支持未能产生同等质量的突破。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–43)]]
-> > - **估值社会学与使命剥夺视角** Boyadjieva 指出，ARWU 假定了一种未被清晰界定的单一“高等教育质量”，通过赋予自然科学与精英奖项极高权重，严重惩罚了以社会融合与多元教学为导向的公立赠地大学，将[[Heterogeneity|异质性]]的公共机构异化为同质化的科研竞赛机器。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 132–136)]]
+> > - **估值社会学与使命剥夺视角** Boyadjieva 指出，ARWU 假定了一种未被清晰界定的单一“高等教育质量”，通过赋予自然科学与精英奖项极高权重，严重惩罚了以社会融合与多元教学为导向的公立赠地大学，将[[Heterogeneity|异质性]]的公共机构[[Alienation|异化]]为同质化的科研竞赛机器。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 132–136)]]
 >
 > > [!axis] 教学成果测量的有效性困境
 > > 排名界关于是否能够以及如何测量高等教育本质质量的长久论战。

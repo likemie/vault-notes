@@ -5,7 +5,7 @@ aliases:
 summary: "由 Cole (2005) 提出的一种以想象力和情感政治为核心的课程设计主张，主张在内在性平面上通过组合学生身体的相遇与欲力以引导智识创新。"
 type: concept
 domain: "curriculum"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
+  - "[[Alienation]]"
   - "[[Conatus]]"
   - "[[Knowledge Power]]"
   - "[[Feeder Mechanism]]"
@@ -36,13 +37,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-13
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] International Spinozian Curriculum
-> 国际[[Baruch Spinoza\|斯宾诺莎]]主义课程（international Spinozian curriculum）是由大卫·R·科尔（Cole, D. R.）于 2005 年针对[[International Baccalaureate\|国际文凭]][[Theory of Knowledge\|知识论]]应试异化所提出的一种课程设计框架与教学主张。该主张认为应当摒弃心物二元对立和外部理性规训，将课堂视为无否定和矛盾的内在性平面。它以学生的想象力与[[Conatus\|欲力]]（[[Conatus]]）为学习动力，通过正视并组合课堂中的情感波动，引导学生共同审视[[Knowledge Power|知识权力]]边界，从而培育能在后现代知识社会中进行跨学科规则创新的自主认知者。[[Argument_Cole_2005_JRIE\|(Cole, 2005, pp. 214, 220)]]
+> 国际[[Baruch Spinoza\|斯宾诺莎]]主义课程（international Spinozian curriculum）是由大卫·R·科尔（Cole, D. R.）于 2005 年针对[[International Baccalaureate\|国际文凭]][[Theory of Knowledge\|知识论]]应试[[Alienation|异化]]所提出的一种课程设计框架与教学主张。该主张认为应当摒弃心物二元对立和外部理性规训，将课堂视为无否定和矛盾的内在性平面。它以学生的想象力与[[Conatus\|欲力]]（[[Conatus]]）为学习动力，通过正视并组合课堂中的情感波动，引导学生共同审视[[Knowledge Power|知识权力]]边界，从而培育能在后现代知识社会中进行跨学科规则创新的自主认知者。[[Argument_Cole_2005_JRIE\|(Cole, 2005, pp. 214, 220)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 这个概念指向一种以想象力为引擎、以情感生产力为纽带、以权力探索为导向的非契约化、生产性课程模式。（pp.214, 222）

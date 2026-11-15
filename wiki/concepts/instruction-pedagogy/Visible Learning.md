@@ -5,7 +5,7 @@ aliases:
 summary: "John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 162
+related_count: 163
 related_level: 16
 related_stars: "💎💎💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Evaluative Judgement]]"
   - "[[Contributory Expertise]]"
   - "[[Cult of the Guru]]"
+  - "[[Alienation]]"
   - "[[Performance Indicators]]"
   - "[[Teacher Professional Agency]]"
   - "[[Barometer of Achievement]]"
@@ -186,7 +187,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 > [!tip] 知识网络与子条目维护分流指引
@@ -319,7 +320,7 @@ updated: 2026-11-11
 > **[[Practitioner Enquiry|实践者探究]]对流行概念的情境化校准** 欧洲跨国质性实证表明，苏格兰中小学领导者在接触 Visible Learning 等广受炒作的外部流行概念时，坚决抵制脱离本土情境的机械套用，转而依托教师专业标准中的“实践者探究”（Practitioner Enquiry），凭借扎根课堂的一线[[Contributory Expertise|贡献型专长]]对概念的本土适切性展开严格审视与校准；德国汉堡学校亦组建教学发展小组（Unterrichtsentwicklung）自主研读 Hattie 著作，将其作为校本同侪对话与形成性反思的专业参考坐标，展现了实践者对外部证据标签的主动去魅与反思性转化。[[Argument_Kelly_2025_ROE|(Kelly et al., 2025, pp. 13–14, 20–21)]]
 
 > [!claim] [[Scott Eacott|Eacott, S.]]
-> **[[Neo-Taylorism|新泰勒主义]]风险与[[Cult of the Guru|大师崇拜]]批判** 斯科特·伊科特（Scott Eacott）等批判学者指出，若将 VL 异化为行政当局追求[[Performance Indicators|绩效指标]]的标准化控制工具，试图通过量化排名拆解教学实践并寻找“唯一正确方法”，便会沦为“新时代的泰勒主义”（Neo-Taylorism），剥夺[[Teacher Professional Agency|教师专业能动性]]并诱发虚假的大师崇拜。[[Argument_Eacott_2019_IJLE|(Eacott, 2019, pp. 777–778)]]
+> **[[Neo-Taylorism|新泰勒主义]]风险与[[Cult of the Guru|大师崇拜]]批判** 斯科特·伊科特（Scott Eacott）等批判学者指出，若将 VL [[Alienation|异化]]为行政当局追求[[Performance Indicators|绩效指标]]的标准化控制工具，试图通过量化排名拆解教学实践并寻找“唯一正确方法”，便会沦为“新时代的泰勒主义”（Neo-Taylorism），剥夺[[Teacher Professional Agency|教师专业能动性]]并诱发虚假的大师崇拜。[[Argument_Eacott_2019_IJLE|(Eacott, 2019, pp. 777–778)]]
 
 > [!claim] Johnson, G. R. & Janzen, M. D.
 > **[[Cargo Cult Science|货物崇拜科学]]与行政监控的技术殖民** 约翰逊与詹森进一步从科学哲学与管理学视角指出，VL 具有披着实证外衣的[[Cargo Cult Science|货物崇拜科学]]（Cargo Cult Science）特征；其标志性的[[Barometer of Achievement|气压计图表]]直接脱胎于用于自上而下联网监控教师软件使用进度的 [[Assessment Tools for Teaching and Learning|asTTle]] 行政系统，体现了行政监控诉求对[[Feedback|教学反馈]]工具的规训重塑。通过将教学比附为外科手术或高山救援，文本贬抑教师专业判断为不成熟经验，在维多利亚州等地诱发了强行按清单板书打卡的[[Performativity|表演性]]异化。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30, 34–36)]]

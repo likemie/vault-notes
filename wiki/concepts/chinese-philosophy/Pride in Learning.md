@@ -9,10 +9,10 @@ aliases:
 summary: "学习者在完成挑战性学业任务后产生的自我意识情感。在西方心智导向学习传统中，骄傲被视为源于能力与努力内部归因的单向正面成就情感与后续探索动力；在东亚儒家美德传统中，骄傲表现为兼具自我成就认可与傲慢自满警惕的双价悖论情感，以谦逊为结构性对立面，并通过日常家庭社会化与预防焦点转化为持续修身的自我完善机制。"
 type: concept
 domain: "chinese-philosophy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 27
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/affect
   - theme/self-conscious-emotion
@@ -20,39 +20,57 @@ tags:
   - region/east-asia
   - region/western
 related_concepts:
+  - "[[Academic Achievement]]"
+  - "[[Mind-Oriented Learning Process]]"
   - "[[Humility]]"
-  - "[[Western Learner]]"
+  - "[[Student Motivation]]"
+  - "[[Heterogeneity]]"
+  - "[[Cultural Nationalism vs. Political Nationalism]]"
+  - "[[Self-Cultivation]]"
+  - "[[Self-Efficacy]]"
+  - "[[Discourse]]"
   - "[[Socratic Tutoring Style]]"
+  - "[[Alienation]]"
+  - "[[Habitus]]"
+  - "[[Virtue-Oriented Learning Process]]"
+  - "[[Creativity]]"
+  - "[[Academic Engagement]]"
+  - "[[Variable]]"
+  - "[[Commensuration]]"
+  - "[[Western Learner]]"
   - "[[Confucian Tutoring Style]]"
   - "[[Learning Virtues]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
+  - "[[Cultural Models]]"
 related_methods:
   - "[[Discourse Analysis]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
   - "[[Jin Li]]"
+  - "[[Socrates]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-11-12
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Pride in Learning
-> **学习中的骄傲（Pride in Learning）** 指学习者在完成具有挑战性的学业任务并取得优异成绩后产生的自我意识情感（self-conscious emotion）。该情感以个体对自身学业表现与社会评价标准的内省比较为基础（[[Argument_Li_2012_Cambridge|Li, 2012, p. 76]]）。在西方心智导向传统中，骄傲被界定为高度正面的成就情感，是能力与努力内部归因的必然产物，并为后续学术探索提供动力；而在东亚儒家学习传统中，骄傲呈现为一种兼具正面成就欣喜与负面傲慢警惕的双价悖论情感（paradoxical emotion），其对立面指向内在道德力量维度的[[Humility|谦逊]]（[[Argument_Li_2012_Cambridge|Li, 2012, pp. 76–79]]）。
+> **学习中的骄傲（Pride in Learning）** 指学习者在完成具有挑战性的学业任务并取得优异成绩后产生的自我意识情感（self-conscious emotion）。该情感以个体对自身[[Academic Achievement|学业表现]]与社会评价标准的内省比较为基础（[[Argument_Li_2012_Cambridge|Li, 2012, p. 76]]）。在西方[[Mind-Oriented Learning Process|心智导向]]传统中，骄傲被界定为高度正面的成就情感，是能力与努力内部归因的必然产物，并为后续学术探索提供动力；而在东亚[[Confucian Learning Tradition|儒家学习传统]]中，骄傲呈现为一种兼具正面成就欣喜与负面傲慢警惕的双价悖论情感（paradoxical emotion），其对立面指向内在道德力量维度的[[Humility|谦逊]]（[[Argument_Li_2012_Cambridge|Li, 2012, pp. 76–79]]）。
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指涉学习者在学业成功情境中触发的自我价值评估与情感体验，揭示不同文化对自我表现、成就归因及社会评价的深层规范。
-> - **用途** 帮助研究者透视跨文化学习动机的异质性，解释东西方家庭辅导对话中情感引导策略的分野，以及东亚学生高学业成就与高自我贬抑并存的情感心理机制。
-> - **边界** 严格界定为学业成就情境中的自我意识情感；不适用于政治民族主义视阈下的集体自豪，亦区别于缺乏自我反省的狂妄自大。
+> - **用途** 帮助研究者透视跨文化[[Student Motivation|学习动机]]的[[Heterogeneity|异质性]]，解释东西方家庭辅导对话中情感引导策略的分野，以及东亚学生高学业成就与高自我贬抑并存的情感心理机制。
+> - **边界** 严格界定为学业成就情境中的自我意识情感；不适用于[[Cultural Nationalism vs. Political Nationalism|政治民族主义]]视阈下的集体自豪，亦区别于缺乏自我反省的狂妄自大。
 
 > [!citation-card] 儒家学习传统中的双价骄傲与谦逊机制
-> 英语 pride 与中文“骄傲”之间不存在语义对称性。“骄傲”一词同时包含傲慢自负的警惕意味。东亚学习者体验到的骄傲是一种兼具正负取向的悖论式情感。在儒家传统中，骄傲的对立面指向具有内在道德修养的谦逊，促使个体在取得成就时启动预防焦点，将潜在的自满冲动转化为面向未来的持续修身。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 77–79)]]
+> 英语 pride 与中文“骄傲”之间不存在语义对称性。“骄傲”一词同时包含傲慢自负的警惕意味。东亚学习者体验到的骄傲是一种兼具正负取向的悖论式情感。在儒家传统中，骄傲的对立面指向具有内在道德修养的谦逊，促使个体在取得成就时启动预防焦点，将潜在的自满冲动转化为面向未来的持续[[Self-Cultivation|修身]]。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 77–79)]]
 >
 > *Pride in East Asian learners functions as a paradoxical emotion... The opposite of pride in the Confucian tradition is humility rather than shame, prompting learners to adopt a prevention focus that channels achievement into continuous self-perfection.*
 
@@ -69,7 +87,7 @@ updated: 2026-11-12
 > | **情感效价** | 单向纯正面成就情感 | 正负交织的双价悖论情感 | 纯负面道德缺陷与认知偏狭 |
 > | **归因基础** | 内部能力与努力的直接确证 | 努力达成的阶段结果但需警惕退步 | 脱离客观事实的盲目自我膨胀 |
 > | **对立概念** | 失败导致的羞耻或低自尊 | 维持持续进取的[[Humility\|谦逊]]德性 | 认知清醒与客观自我审视 |
-> | **后续导向** | 强化自我效能与探索冲动 | 启动预防焦点并转向持续自我完善 | 停止努力并排斥外部建设性反馈 |
+> | **后续导向** | 强化[[Self-Efficacy\|自我效能]]与探索冲动 | 启动预防焦点并转向持续自我完善 | 停止努力并排斥外部建设性反馈 |
 
 ---
 
@@ -77,7 +95,7 @@ updated: 2026-11-12
 > - **内部归因与自我意识评价** 骄傲依赖于个体对自身学业成就的客观认知与内部归因，学习者意识到自身的表现达成或超越了既定标准。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 76)]]
 > - **词汇语义的双价承载** 中文“骄傲”在语言学上天然附带“傲慢”与“自负”的警告色彩，使东亚学习者在感知成就的同时内生伴随道德自省。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 77)]]
 > - **谦逊作为结构性平衡极** 儒家学习体系将[[Humility|谦逊]]确立为调和骄傲的核心德性，防止学习者因一次成功而陷入懈怠。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 79)]]
-> - **家庭话语的社会化分轨** 欧美家庭通过[[Socratic Tutoring Style|苏格拉底式辅导]]主动向儿童灌输自我骄傲，华人家庭则通过[[Confucian Tutoring Style|儒家式引导]]将成就转化为面向未来的努力承诺。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 195–198)]]
+> - **家庭[[Discourse|话语]]的社会化分轨** 欧美家庭通过[[Socratic Tutoring Style|苏格拉底式辅导]]主动向儿童灌输自我骄傲，华人家庭则通过儒家式引导将成就转化为面向未来的努力承诺。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 195–198)]]
 
 > [!logic-map]- 两种文化传统中骄傲情感的认知与社会化机制
 > ```mermaid
@@ -111,11 +129,11 @@ updated: 2026-11-12
 
 ---
 
-> [!concept-proposition] 命题三｜母子日常言语互动通过苏格拉底追问与儒家德性引导差异化社会化骄傲情感
-> **亲子日常对话与情感话语社会化** 考察家庭微观互动模式如何将宏观文化信念内化为儿童的情感表达惯习。
+> [!concept-proposition] 命题三｜母子日常言语互动通过[[Socrates|苏格拉底]]追问与儒家德性引导差[[Alienation|异化]]社会化骄傲情感
+> **亲子日常对话与情感话语社会化** 考察家庭微观互动模式如何将宏观文化信念内化为儿童的情感表达[[Habitus|惯习]]。
 >
 > > [!claim] [[Argument_Li_2012_Cambridge|Li (2012)]]
-> > **言语互动中的情感规范塑造** 李瑾与冯海娣通过母子日常学业对话的[[Discourse Analysis|话语分析]]表明，欧裔美国母亲习惯运用[[Socratic Tutoring Style|苏格拉底式辅导]]追问，将骄傲作为标准反应明确传授给儿童，要求子女不仅要让父母感到骄傲，更要为自己的成就感到自豪。相比之下，华人母亲在相似情境下注重借助[[Confucian Tutoring Style|儒家式引导]]将成功定性为阶段性进展，督促儿童保持踏实心态并承诺未来付出更多努力。这种言语互动使儿童自幼习得了截然不同的成就情感表达规则。[[Argument_Li_2012_Cambridge|(Li, 2012, Ch. 7, pp. 195–198)]]
+> > **言语互动中的情感规范塑造** 李瑾与冯海娣通过母子日常学业对话的[[Discourse Analysis|话语分析]]表明，欧裔美国母亲习惯运用[[Socratic Tutoring Style|苏格拉底式辅导]]追问，将骄傲作为标准反应明确传授给儿童，要求子女不仅要让父母感到骄傲，更要为自己的成就感到自豪。相比之下，华人母亲在相似情境下注重借助儒家式引导将成功定性为阶段性进展，督促儿童保持踏实心态并承诺未来付出更多努力。这种言语互动使儿童自幼习得了截然不同的成就情感表达规则。[[Argument_Li_2012_Cambridge|(Li, 2012, Ch. 7, pp. 195–198)]]
 
 ---
 
@@ -123,7 +141,7 @@ updated: 2026-11-12
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **内部归因正向激励** | 骄傲作为能力的自我确证，充当学术探索的主导积极情感 | 西方心智导向学习体系、成就动机研究 | [[Argument_Li_2012_Cambridge\|Li (2012)]] |
-> | **双价悖论与预防转化** | 骄傲融合成功欣喜与傲慢警惕，经由谦逊转化为持续修身 | 儒家美德导向学习体系、跨文化情感心理学 | [[Argument_Li_2012_Cambridge\|Li (2012)]] |
+> | **双价悖论与预防转化** | 骄傲融合成功欣喜与傲慢警惕，经由谦逊转化为持续修身 | 儒家[[Virtue-Oriented Learning Process\|美德导向]]学习体系、跨文化情感心理学 | [[Argument_Li_2012_Cambridge\|Li (2012)]] |
 > | **家庭言语社会化分轨** | 亲子对话分别通过苏格拉底追问与德性引导重塑骄傲规范 | 学前与学龄儿童家庭教育、话语分析研究 | [[Argument_Li_2012_Cambridge\|Li (2012)]] |
 
 ---
@@ -147,8 +165,8 @@ updated: 2026-11-12
 > > [!axis] 促进焦点动力 vs 预防焦点调节
 > > 探讨学业动力的可持续性究竟依赖于不断强化正面骄傲带来的晋升期望，还是依赖于防范自满与错误的戒惧心理。
 > >
-> > - **促进焦点派** 认为单向肯定骄傲能最大化个体的探索动机与创造力，避免过度自省带来的心理耗竭。
-> > - **预防焦点派** 强调警惕骄傲有助于维持长期稳定的学业投入，防止因短期挫折引发剧烈的自尊崩溃。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 78–79)]]
+> > - **促进焦点派** 认为单向肯定骄傲能最大化个体的探索动机与[[Creativity|创造力]]，避免过度自省带来的心理耗竭。
+> > - **预防焦点派** 强调警惕骄傲有助于维持长期稳定的[[Academic Engagement|学业投入]]，防止因短期挫折引发剧烈的自尊崩溃。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 78–79)]]
 
 > [!warning|limits] 适用局限
 > 该概念聚焦于个体学业成就引发的自我意识情感，不能无条件泛化至非学术领域的娱乐竞技体验；同时，自陈式情感数据容易受受访者社会期望偏差影响，研究者需结合生理唤醒与日常互动录像开展交叉检验。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 358)]]
@@ -160,10 +178,10 @@ updated: 2026-11-12
 > [!ref-table]- 学习中的骄傲相关跨文化实证研究
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Li_2012_Cambridge\|Li (2012, p. 75)]] | 欧美与中国模范学习者（各40名） | 质性开放联想编码 | 模范学习者话语中提及骄傲的比例 | 欧裔美国受访者提及率 53%（21/40）vs 中国受访者提及率 22%（9/40） | 组间差异显著 | 自由联想频数反映两套文化在成就情感表征上的显著认知偏向 |
-> | [[Argument_Li_2012_Cambridge\|Li (2012, p. 77)]] | 34名居住美国十年以上或在美成长的中英双语者 | 跨语言语义翻译实验 | pride 与“骄傲”语义对称性及负面含义辨识 | 英语 pride 译为“骄傲”达 93%，其中 31% 指出附带傲慢负面含义；中文“骄傲”译为 pride 达 90%，其中 45% 指出附带自负含义 | 语义双向确认 | 确证两种语言在成就情感概念空间上存在不可通约的道德评价差异 |
+> | [[Argument_Li_2012_Cambridge\|Li (2012, p. 77)]] | 34名居住美国十年以上或在美成长的中英双语者 | 跨语言语义翻译实验 | pride 与“骄傲”语义对称性及负面含义辨识 | 英语 pride 译为“骄傲”达 93%，其中 31% 指出附带傲慢负面含义；中文“骄傲”译为 pride 达 90%，其中 45% 指出附带自负含义 | 语义双向确认 | 确证两种语言在成就情感概念空间上存在不可[[Commensuration\|通约]]的道德评价差异 |
 > | [[Argument_Li_2012_Cambridge\|Li (2012, p. 78)]] | 华人学龄前儿童（5岁组） | 发展心理学实验与故事访谈 | 高成就同伴情境中的“傲慢担忧”出现率 | 5岁华人儿童自发表现出对高成就者变得自满傲慢的担忧倾向 | 质性发展模式观察 | 证实对骄傲的道德防线在正规学校教育开启前便已完成早期社会化内化 |
 
 ---
@@ -179,7 +197,7 @@ updated: 2026-11-12
 > | [[Learning Virtues]] | 概念 | 包含勤奋、刻苦与谦逊在内的儒家美德学习品质集合。 |
 > | [[Confucian Learning Tradition]] | 理论 | 将学业探索锚定于道德完善与自我修养的核心理论体系。 |
 > | [[Discourse Analysis]] | 方法 | 分析母子学业辅导录像与跨文化情感话语微观秩序的研究方法。 |
-> | [[Jin Li]] | 人物 | 开创东西方学习传统文化模型并系统实证骄傲双价性的学者。 |
+> | [[Jin Li]] | 人物 | 开创东西方学习传统[[Cultural Models\|文化模型]]并系统实证骄傲双价性的学者。 |
 
 ---
 

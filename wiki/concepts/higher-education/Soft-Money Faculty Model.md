@@ -9,7 +9,7 @@ aliases:
 summary: "研究型大学将专任教师薪酬全部或部分转嫁给外部竞争性科研经费资助的聘任模式，大学免除基础薪酬兜底责任，导致学者深度依附项目资助并推高机构财务脆弱性"
 type: concept
 domain: "higher-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Externalization]]"
   - "[[Academic Entrepreneurship]]"
+  - "[[Alienation]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -87,7 +88,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题一｜软钱机制重构了大学与学者的契约并将学术人员降格为高风险自负盈亏者
-> **雇佣契约异化** 探讨软钱模式如何打破战前大学向学者提供稳定教职庇护的传统契约，将科研队伍推向高度波动的外部资金市场。
+> **雇佣契约[[Alienation|异化]]** 探讨软钱模式如何打破战前大学向学者提供稳定教职庇护的传统契约，将科研队伍推向高度波动的外部资金市场。
 
 > [!claim] [[Paula Stephan|Stephan, P.]]
 > **薪资[[Externalization|外部化]]转嫁打破了大学传统庇护纽带** 战后大学管理层逐步发现通过向联邦政府争取薪资覆盖政策，可以大幅削减大学对学术研究的本体投资。然而这一转嫁机制使得教师的生存直接绑定于基金成功率，彻底扭转了学者追求原创长远探索的自主性，倒逼其屈从于追求短期资助的生存博弈。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–31)]]

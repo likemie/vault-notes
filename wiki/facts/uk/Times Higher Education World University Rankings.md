@@ -12,7 +12,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 38
+fact_related_count: 39
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#fef3c7"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Matthew Effect in Academia]]"
   - "[[Non-monetary Competition]]"
+  - "[[Alienation]]"
   - "[[Transnational Education]]"
   - "[[Halo Effect]]"
   - "[[Public Value]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-19
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -124,7 +125,7 @@ updated: 2026-11-11
 
 > [!indicators] 历史影响维度
 > - **全球学术资本分层** 极大地强化了全球高等教育领域的[[Matthew Effect in Academia|学术马太效应]]，推动高校在[[Non-monetary Competition|非货币竞争]]中以排名名次作为声望通货。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 801–802)]]
-> - **高等教育机构策略异化** 迫使各国大学设立专门的排名称职办公室，按照指标权重精准优化师生比、高引成果数量与国际合作网络，加速了高等教育的[[Academic Capitalism|学术资本主义]]转型。
+> - **高等教育机构策略[[Alienation|异化]]** 迫使各国大学设立专门的排名称职办公室，按照指标权重精准优化师生比、高引成果数量与国际合作网络，加速了高等教育的[[Academic Capitalism|学术资本主义]]转型。
 > - **击碎区域一体化趋同修辞** 揭示出对标[[Bologna Process|博洛尼亚进程]]的欧洲高校在科研与声誉上的巨大断层，破除了欧洲高等教育趋同一体化的政策幻象。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 332–333)]]
 
 > [!finding-cards] 关键历史后果

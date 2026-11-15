@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Rationalized Myth]]"
   - "[[Analytical Stance]]"
   - "[[Epistemology]]"
+  - "[[Alienation]]"
   - "[[Policy-Based Evidence-Making]]"
 related_theories:
   - "[[Behaviorism]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -128,7 +129,7 @@ updated: 2026-10-30
 > > - **学术[[Analytical Stance\|批判立场]]** 指责框架将复杂的教育学过度简化为狭隘的认知科学与指令清单，剥离了教育哲学、社会正义与情境批判维度。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90, 96)]]
 
 > [!citation-card] 教师教育中的[[Epistemology\|认识论]]封闭批判
-> CCF 虽然披着实证研究的科学外衣，但在制度运作上却导致了认识论的封闭；国家通过法定清单界定了什么是允许被讲授的合法证据，将教师培养由专业探究异化为对中央指定清单的依附与遵从。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 96)]]
+> CCF 虽然披着实证研究的科学外衣，但在制度运作上却导致了认识论的封闭；国家通过法定清单界定了什么是允许被讲授的合法证据，将教师培养由专业探究[[Alienation|异化]]为对中央指定清单的依附与遵从。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 96)]]
 >
 > *The framing of the core content framework risk codifying evidence into rigid prescriptions, severing the unbroken chain of critical reflection required for true professional development.*
 

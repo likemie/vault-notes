@@ -7,7 +7,7 @@ aliases:
 summary: "以知识、创新、高等教育、研发与高阶思维技能作为价值创造与全球竞争核心要素的经济形态；在技术自动化与AI浪潮下，其战略重心从静态专业知识转向高阶认知能力，但面临宏观政策宣示与微观学业评价滞后的深层制度悖论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 102
+related_count: 103
 related_level: 10
 related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -75,6 +75,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Theoretical Perspective]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Pasteur's Quadrant]]"
@@ -130,7 +131,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -345,5 +346,5 @@ updated: 2026-11-11
 > - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] — 比较新加坡与[[UAE Education Hub Projects|阿联酋教育枢纽]]，批判 KBE 话语掩盖制度建设不足的深层缺陷。
 > - [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] — 揭示 21 世纪技能话语作为 KBE 在个体主体性层面的微观[[Operationalization|操作化]]与[[Self-Entrepreneur|自我企业家]]规训。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 剖析 OECD 如何依托新增长理论[[Constructed Knowledge|建构知识]]经济的全球[[Social Imaginary|社会想象]]，推动学习向操作性技能与学习型经济转型，并将性别平权与社会凝聚力重构为经济效率工具。
-> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 结合福柯全景敞视理论解构欧盟里斯本战略话语，揭示知识经济如何将知识异化为快速折旧的商品，并依托开放协调法构筑超国家软法规训体系。
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 结合福柯全景敞视理论解构欧盟里斯本战略话语，揭示知识经济如何将知识[[Alienation|异化]]为快速折旧的商品，并依托开放协调法构筑超国家软法规训体系。
 > - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 跨区域比较欧洲与东南亚高等教育合作，揭示全球知识经济话语如何作为观念解释变量，在欧洲赋权超国家协调、在东南亚为维系主权的务实结网提供合法性支点。

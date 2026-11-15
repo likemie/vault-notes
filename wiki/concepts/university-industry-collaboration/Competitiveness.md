@@ -11,7 +11,7 @@ aliases:
 summary: "驱动国家科技战略、大学治理变革与劳动力技能重塑的核心逻辑与地缘政治装置。在新自由主义社会想象下，国家经济竞争力被假定为直接取决于由国际标准衡量的教育质量；在宏观上体现为长程战略计算、先进制造、跨国多边监测与地缘威慑；在中观上体现为产学中心破除学科壁垒与排名审计重塑大学；在微观上体现为产线组织学习与学习分析；创始人长期主义与全员股权模式构成了抵御短期金融化的深层制度基石。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 95
+related_count: 96
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Pilot Scale Platform]]"
   - "[[Permissionless Innovation]]"
+  - "[[Alienation]]"
   - "[[Process Knowledge]]"
   - "[[Multilateral Surveillance]]"
   - "[[Technological Republic]]"
@@ -129,7 +130,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-19
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -191,7 +192,7 @@ updated: 2026-11-11
 > - **国家战略产业对齐与实体制造支撑锚定（Strategic Alignment & Manufacturing Anchors）** 将国家宏观安全诉求作为科研立项前提，建设共享试验场与[[Pilot Scale Platform|中试平台]]，确保科学发现转化为本土制造能力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 33–35)]]
 > - **破除规制阻滞与恢复[[Permissionless Innovation|无许可创新]]（Regulatory Reform & Sandboxes）** 将行政审批延误导致的“不行动代价”纳入核算，通过[[Regulatory Sandbox|监管沙盒]]为硬科技试验松绑。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 37–38)]]
 > - **创始人长期主义与非委员会决策空间（Founder Stewardship & Aesthetic Space）** 赋予具备审美品味的创始人充分的决断空间，以自愿自我约束抵御资本市场的季度短期主义，形成长周期突破性创新的制度溢价。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 209–211)]]
-> - **全员股权与硅谷式所有权社会（[[Founder Culture|ownership society]] & Employee Equity）** 向全员创新人才普惠授予股权，使劳动者共享企业成长红利，打破传统资本家独占剩余价值的雇佣异化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 211–212)]]
+> - **全员股权与硅谷式所有权社会（[[Founder Culture|ownership society]] & Employee Equity）** 向全员创新人才普惠授予股权，使劳动者共享企业成长红利，打破传统资本家独占剩余价值的雇佣[[Alienation|异化]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 211–212)]]
 > - **跨学科中心化组织与前竞争联合体（Interdisciplinary Consortia & Centers）** 突破传统院系系所割裂，以大学研究中心与公私联合体统筹跨行业共性重资产风险。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004)]]
 > - **排名与指标化作为竞争基础设施（Metric Infrastructure & Rankings）** 排名量化指标主动生产差异，将全球竞争想象下沉至大学与学者日常行为。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, p. 220)]]
 > - **以人为本的产线工程组织学习（Human-Centered Engineering Learning）** 强调微观制造竞争力源于一线技术人员的[[Process Knowledge|过程知识]]与快速排障，而非单纯依赖硬件机械自动化。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 117–118)]]

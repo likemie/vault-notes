@@ -9,7 +9,7 @@ subtype: event
 region: multi
 fact_region: "multi"
 fact_kind: "event"
-fact_related_count: 7
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[International Schools]]"
   - "[[Advanced Placement Program]]"
+  - "[[Alienation]]"
   - "[[Philosophical Aesthetics]]"
 related_theories: []
 related_methods: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-03
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -82,7 +83,7 @@ updated: 2026-11-14
 > 地方自主提供采用权限，外部考试先例降低资格与大学关系的不确定性，质量焦虑提供采用动机，区域组织再把兴趣转化为申请和教师能力。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 134–152)]]
 
 > [!finding-cards] 影响与后果
-> - **课程功能改变** IB 从主要服务跨国流动学生，扩展为本地公立学校的学术拔尖、学校差异化、族群融合与地区升学工具。
+> - **课程功能改变** IB 从主要服务跨国流动学生，扩展为本地公立学校的学术拔尖、学校差[[Alienation|异化]]、族群融合与地区升学工具。
 > - **区域财务改变** 1980—1985 年北[[Philosophical Aesthetics|美学]]校约增长 300%，同期其他地区约增长 33%，新增订阅和考试收入支持 [[International Baccalaureate|IBO]] 的全球运营。
 > - **教师网络扩大** 1978 年培训覆盖 26 校 97 名教师，1984 年已覆盖 106 所授权学校的 579 名教师，另有候选学校参与。
 > - **适用范围扩大** 采用学校横跨农村、小城、都会区、富裕社区和贫困社区，但共同点主要是教师与管理者认同 IB 目标。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 147, 151–153)]]

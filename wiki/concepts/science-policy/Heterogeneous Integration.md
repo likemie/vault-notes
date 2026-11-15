@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Assemblage]]"
+  - "[[Alienation]]"
   - "[[Process Design Kit]]"
   - "[[Commercial Off-The-Shelf]]"
   - "[[Innovation Ecosystem]]"
@@ -39,13 +40,12 @@ related_facts:
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[DARPA]]"
   - "[[CHIPS and Science Act]]"
-  - "[[National Strategy on Microelectronics Research]]"
 related_arguments:
   - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -59,7 +59,7 @@ updated: 2026-11-03
 > - **边界** 异构集成不等于传统的印刷电路板（Printed Circuit Board, PCB）板级[[Assemblage|组装]]，它在微米甚至亚微米尺度实现微互连与键合；也不等同于单一硅基晶圆上的单片系统级芯片（System-on-Chip, SoC）制造。
 
 > [!citation-card] 异构集成的战略功能定位
-> 随着微电子应用场景从超级计算机延伸至边缘传感和高辐射航天载荷，芯片性能需求呈现高度分化，迫使半导体技术偏离单纯依赖晶体管特征尺寸微缩的传统路径。通过异构集成与三维芯粒堆叠，研究人员能够将差异化半导体材料与专用架构无缝组合，驱动后摩尔时代微电子性能的持续拓展。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 3, 12, 17)]]
+> 随着微电子应用场景从超级计算机延伸至边缘传感和高辐射航天载荷，芯片性能需求呈现高度分化，迫使半导体技术偏离单纯依赖晶体管特征尺寸微缩的传统路径。通过异构集成与三维芯粒堆叠，研究人员能够将差[[Alienation|异化]]半导体材料与专用架构无缝组合，驱动后摩尔时代微电子性能的持续拓展。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 3, 12, 17)]]
 >
 > *As microelectronic devices have become pervasive, their key performance requirements have become increasingly varied, necessitating a divergence from the traditional scaling in feature size exemplified by Moore’s Law... These application-specific requirements are driving an increased diversification of microelectronics, which will be enabled and advanced by approaches such as heterogeneous integration and chiplets.*
 

@@ -9,7 +9,7 @@ aliases:
 summary: "以预先界定的标准或学习结果为判断依据，用于识别个体是否达标及其表现质量。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Scoring Rubrics]]"
   - "[[Constructive Alignment]]"
   - "[[School Choice]]"
+  - "[[Alienation]]"
   - "[[Placement, Formative, Diagnostic, and Summative Testing]]"
   - "[[Formative Assessment]]"
   - "[[International Baccalaureate]]"
@@ -61,7 +62,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -164,7 +165,7 @@ updated: 2026-11-03
 > **政策工具杂合与多重功能冲突维度** 探讨在大规模国家教育评估体系中，决策者如何将标准参照的胜任力门槛与常模参照的排位分流机制进行制度拼贴。
 
 > [!claim] [[Argument_Verger_2019_Discourse|Verger et al. (2019)]]
-> **标准参照与常模参照的大规模评估制度杂合** 贝尔赫等（Antoni Verger et al., 2019）在系统梳理全球测试问责政策工具时指出，国家层面的全员统考在实践中往往同时杂合标准参照与常模参照的双重功能。以智利教育质量测量系统（[[SIMCE]]）为例，该测验既作为标准参照工具设定各年级学科的达标标准与最低胜任力水平，用于监测学校课程达标情况；同时又作为常模参照工具计算校际排位百分比并向社会公布排行榜，为家长[[School Choice|择校]]与代金券市场竞争提供区分信号。这种多重功能的政策杂合使标准参照测验在高利害问责环境中承受了常模竞争的异化压力。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]
+> **标准参照与常模参照的大规模评估制度杂合** 贝尔赫等（Antoni Verger et al., 2019）在系统梳理全球测试问责政策工具时指出，国家层面的全员统考在实践中往往同时杂合标准参照与常模参照的双重功能。以智利教育质量测量系统（[[SIMCE]]）为例，该测验既作为标准参照工具设定各年级学科的达标标准与最低胜任力水平，用于监测学校课程达标情况；同时又作为常模参照工具计算校际排位百分比并向社会公布排行榜，为家长[[School Choice|择校]]与代金券市场竞争提供区分信号。这种多重功能的政策杂合使标准参照测验在高利害问责环境中承受了常模竞争的[[Alienation|异化]]压力。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]
 
 ---
 

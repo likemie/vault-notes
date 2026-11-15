@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 125
+fact_related_count: 126
 fact_related_level: 12
 fact_related_stars: "💎💎💎💎"
 fact_related_color: "#fecdd3"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Abstract]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Publication Bias]]"
+  - "[[Alienation]]"
   - "[[Governing by Numbers]]"
   - "[[Evidence Era]]"
   - "[[Rationalized Myth]]"
@@ -158,7 +159,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -337,7 +338,7 @@ updated: 2026-11-14
 
 > [!debates] 核心学术与政策争议
 >
-> > [!axis] 官方绩效辩护 vs 管理主义异化（“[[Governing by Numbers\|以数字治理]]”）
+> > [!axis] 官方绩效辩护 vs 管理主义[[Alienation|异化]]（“[[Governing by Numbers\|以数字治理]]”）
 > > 探讨客观证据评级是否沦为新自由主义官僚问责的遮羞布。
 > >
 > > - **官方与支持者立场** 认为工具包提供了客观、清晰的量化标尺，帮助弱势学校摆脱商业推销忽悠，实现财政资源的最优配置。

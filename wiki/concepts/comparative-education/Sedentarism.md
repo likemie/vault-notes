@@ -7,10 +7,10 @@ aliases:
 summary: "定居主义是一种将固定地域居住、扎根生活与空间稳定视为人类文明、秩序与理性默认基准的认识论偏见与治理意识形态；该观念将物理流动与漫游状态编码为落后、病态或缺乏教化的社会偏常，在现代教育体制中为强制定居化改造、学籍空间壁垒与学校封闭容器规训提供了正当性辩护。"
 type: concept
 domain: "comparative-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/comparative-education
   - theme/spatial-turn
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Transiency]]"
   - "[[Discourse]]"
   - "[[Temporalization of Space]]"
+  - "[[Alienation]]"
   - "[[Boarding Schools]]"
   - "[[Migrant Children]]"
   - "[[Habitus]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -64,7 +65,7 @@ updated: 2026-11-11
 > *The customary paradigm has been to attribute movement and the advantages that accrue from an ability to occupy multiple positions to cultural elites... Settlement, stability, and all that remains in-situ is then coded as a "backwards" provincial remainder needing to be reformed/transformed by "forces" seen as "moving in" from the outside. Connected to this is the analytic and cultural paradigm that views "authentic" forms of mobility as inhering exclusively in the free (and freeing) movements of subjects for whom journeys/departures are a matter of choice.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Temporalization of Space|空间的时间化]] — 后者侧重将地理差异纵向投射为历史文明阶段（以时间序列吞并地理空间）；定居主义则侧重在空间本体上将静止锚定为正常，将移动判定为缺陷与异化。
+> - 不等于 [[Temporalization of Space|空间的时间化]] — 后者侧重将地理差异纵向投射为历史文明阶段（以时间序列吞并地理空间）；定居主义则侧重在空间本体上将静止锚定为正常，将移动判定为缺陷与[[Alienation|异化]]。
 > - 不等于普通的户籍管理制度 — [[Hukou System|户籍制度]]是定居主义意识形态在特定国家行政机器中的具体政策工具，定居主义则是支撑该类工具得以合法运转的底层文化理性。
 
 ---

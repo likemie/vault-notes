@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Triangular Cooperation]]"
   - "[[Performance Indicators]]"
   - "[[International Education]]"
+  - "[[Alienation]]"
   - "[[Policy Translation]]"
   - "[[Governing by Numbers]]"
   - "[[Paradigm]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -125,7 +126,7 @@ updated: 2026-11-11
 > > [!axis] 数据中立共享 vs 政策产品价值预设
 > > 围绕 UOE 数据集的治理属性存在关键评述。
 > >
-> > - **官方技术中立论** 强调基础统计数据完全中立客观，不同机构只是根据自身法定职权研发差异化的数据衍生品。
+> > - **官方技术中立论** 强调基础统计数据完全中立客观，不同机构只是根据自身法定职权研发差[[Alienation|异化]]的数据衍生品。
 > > - **批判政策社会学审视** 强调统计收集的分类标准（如把教育开支区分为消费或投资）本身就内生了新自由主义[[Human Capital Theory|人力资本]]假设，具有深刻的政策导向性。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–34)]]
 
 ---

@@ -7,7 +7,7 @@ aliases:
 summary: "教育实践者与行动者在面对外部学术研究证据、商业教育产品、政策改革倡议及隐性私有化渗透时，所秉持的主动探询研究质量、审验因果逻辑、穿透利益修辞并评估情境适切性的专业认知与制度审议立场；既是教师行使审慎专业判断的核心基石，也是公立学校与民间组织抵御技术理性盲从、影子国家异化与商业资本渗透的关键防线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Professional Learning Community]]"
   - "[[Shadow State]]"
+  - "[[Alienation]]"
   - "[[Policy Entrepreneur]]"
   - "[[Discourse]]"
   - "[[International Education]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -148,7 +149,7 @@ updated: 2026-11-11
 
 ---
 
-> [!concept-proposition] 命题三｜批判性分析立场是民间组织与教育行动者抵御超国家治理规训与[[Shadow State|影子国家]]异化的制度底线
+> [!concept-proposition] 命题三｜批判性分析立场是民间组织与教育行动者抵御超国家治理规训与[[Shadow State|影子国家]][[Alienation|异化]]的制度底线
 > **跨国治理审议与民间自主性防御** 探讨分析立场如何从微观教学领域延展至宏观国际政治经济学，成为民间社会组织抵御外部资金诱导、维护公共利益代表性的关键机制。
 
 > [!claim] [[Robert Arnove|Arnove, R.]]

@@ -9,7 +9,7 @@ aliases:
 summary: "由卡罗尔·韦斯开创并经公共政策与教育研究发展的理论模型谱系，系统阐明学术研究进入政策与实践的非线性多元机制（知识驱动、问题解决、互动、政治、战术、启蒙及社会智识事业），奠定工具性、概念性与象征性使用三元分类的基础。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 57
+theory_related_count: 58
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Research-Engaged School]]"
   - "[[Knowledge Transfer]]"
   - "[[Knowledge Co-production]]"
+  - "[[Alienation]]"
   - "[[New Public Management]]"
   - "[[Homework]]"
   - "[[Teacher Questioning]]"
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -159,7 +160,7 @@ updated: 2026-10-30
 
 > [!proposition-chain] 延伸命题
 > - **推论一（源自核心命题一：互动模型的制度化演进）** 从 Weiss 的互动模型出发，当代教育改革演化出了“第四代研究使用”理论与[[Ecosystem for Research-Engaged Schools\|研究参与学校生态系统模型]]（Ecosystem for [[Research-Engaged School\|Research-Engaged Schools]]），主张研究机构与中小学建立“研究者-实践者伙伴关系”（Researcher-Practitioner Partnerships, [[Research-Practice Partnership\|RPP]]），从单向[[Knowledge Transfer\|知识转移]]（Transfer）走向[[Knowledge Co-production\|知识共创]]（Co-production）。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 3)]]
-> - **推论二（源自核心命题二：反向象征性异化推论）** 当[[New Public Management\|新公共管理]]（NPM）与高利害问责机制将“证据本位”强行作为量化考核指标时，学校和教师为了展示合法性，极易倒退向政治模型与战术模型，产生仪式性的象征性使用（如言语上堆砌术语、机械填报量表），阻碍真实教学反思。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 18)]]
+> - **推论二（源自核心命题二：反向象征性[[Alienation|异化]]推论）** 当[[New Public Management\|新公共管理]]（NPM）与高利害问责机制将“证据本位”强行作为量化考核指标时，学校和教师为了展示合法性，极易倒退向政治模型与战术模型，产生仪式性的象征性使用（如言语上堆砌术语、机械填报量表），阻碍真实教学反思。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 18)]]
 > - **应用命题** 在教育政策与教师教育评价中，不得仅以“是否有具体证据被直接采纳（工具性指标）”作为衡量科研转化成效的唯一标准，必须将概念性理解深化、专业[[Discourse|话语]]更新与探究文化塑造纳入多维评价体系。
 
 > [!mechanism-map]- 机制图

@@ -9,7 +9,7 @@ aliases:
 summary: "指科学证据被政策制定者吸纳为决策合法性基础的过程，使科学知识从外部咨询信息转变为治理权威的构成性要素，并与科学的政治化形成共生张力。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Document]]"
   - "[[Epistemic Drift]]"
+  - "[[Alienation]]"
   - "[[Tacit Knowledge]]"
   - "[[Academic Freedom]]"
   - "[[Consultocracy]]"
@@ -96,7 +97,7 @@ updated: 2026-11-15
 > - **认识论权威向知识生产机构转移** 决策系统确立以实证证据为准绳的规范基准，大学、智库与研究者成为治理合法性的共同生产者。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 146)]]
 > - **研究影响评估制度化** 国家通过评估框架（如英国[[Research Excellence Framework|研究卓越框架]]（Research Excellence Framework, REF））将社会影响力确立为学术评价指标，制度化驱动学者对齐政策议题。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 146)]]
 > - **合法化修辞与工具性筛选** 政治系统在实践中往往优先采信契合既定改革议程的证据，科学引据充当向公众证明改革势在必行的政治背书。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 540–542)]]
-> - **多元证据采信的制度依赖** 不同国家行政传统塑造了差异化的科学化实现形态（如挪威学者委员会制、芬兰行政[[Tacit Knowledge|默会知识]]与丹麦政策导向型委托）。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 537–539)]]
+> - **多元证据采信的制度依赖** 不同国家行政传统塑造了差[[Alienation|异化]]的科学化实现形态（如挪威学者委员会制、芬兰行政[[Tacit Knowledge|默会知识]]与丹麦政策导向型委托）。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 537–539)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid

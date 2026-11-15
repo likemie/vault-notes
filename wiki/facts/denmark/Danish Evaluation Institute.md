@@ -10,7 +10,7 @@ subtype: organization
 region: denmark
 fact_region: "denmark"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Differentiated Instruction]]"
   - "[[Individualised Instruction]]"
+  - "[[Alienation]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Output-Oriented Governance]]"
   - "[[Construct]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-09
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -83,7 +84,7 @@ updated: 2026-11-11
 ---
 
 > [!indicators] 辐射影响
-> - **教学法规范确立** 其倡导的差异化[[Framework for Teaching|教学框架]]被丹麦教育部全盘吸纳为 2014 年新法案指导一线课堂教学的基础原则。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 534)]]
+> - **教学法规范确立** 其倡导的差[[Alienation|异化]][[Framework for Teaching|教学框架]]被丹麦教育部全盘吸纳为 2014 年新法案指导一线课堂教学的基础原则。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 534)]]
 > - **核心引文渗透** 在[[Danish Public School Reform|丹麦公立学校改革]]官方文献中，EVA 的实证调查报告构成同行评议期刊成果之外最核心的专业证据来源。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 535)]]
 
 ---

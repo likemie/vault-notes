@@ -7,7 +7,7 @@ aliases:
 summary: "生物医药与科学研发经济学中的核心经验规律（摩尔定律 Moore Law 的反向拼写）：指尽管计算机算力、高通量筛选与基因测序技术呈指数级进步，通胀调整后每十亿美元研发投入所产生的新药获批数量却呈现每九年减半的长期指数级下降趋势；在更广阔的科学政策视阈下，该定律用于表征当代科研边际生产率普遍放缓、行政合规成本膨胀与既有研发组织范式陷入瓶颈的系统性困境。"
 type: concept
 domain: "science-policy"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Portfolio-Based Research Funding]]"
   - "[[Clinical Trial]]"
   - "[[Goodhart's Law]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
 related_methods: []
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -174,7 +175,7 @@ updated: 2026-11-11
 > | [[Focused Research Organization]] | Concept | 专为攻克导致厄鲁姆定律生效的中等规模工程瓶颈而设立的新型科研组织形态。 |
 > | [[Clinical Trial]] | Concept | 厄鲁姆定律在生物医药领域中所深度关涉的长周期、高成本人体临床试验阶段。 |
 > | [[Academic Risk Aversion]] | Concept | 研发成本高企与资助率低迷直接诱发的科研人员学术避险与保守化倾向。 |
-> | [[Goodhart's Law]] | Concept | 与厄鲁姆定律交织、导致学者追求指标篇数而忽视实质突破的评价异化法则。 |
+> | [[Goodhart's Law]] | Concept | 与厄鲁姆定律交织、导致学者追求指标篇数而忽视实质突破的评价[[Alienation\|异化]]法则。 |
 > | [[Science A New Golden Age 2026]] | Fact ([[Document]]) | 系统提出以机制设计、新型组织与[[Genesis Mission\|创世纪计划]]破解厄鲁姆定律的白宫报告。 |
 > | [[Michael Kratsios]] | Person | 主持起草白宫 [[Office of Science and Technology Policy\|OSTP]] 2026 报告、倡导以体制[[Paradigm\|范式]]转变逆转研发效率放缓的科技政策学者。 |
 

@@ -12,7 +12,7 @@ aliases:
 summary: "指以最终实质成效与产出为核心裁判尺度的现代治理范式。在教育领域，表现为以国家质量标准、系统成效监测与数据反馈为核心，强调路径自主而非目标自主的调控模式；在国家战略与公共治理领域，表现为以物理世界实质成果（如建造战略重器、攻克疾病、消除犯罪）为最高衡量基准，反对以程序合规和道德表演替代实质战功的防卫型官僚主义。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Founder Culture]]"
   - "[[Feedback]]"
+  - "[[Alienation]]"
   - "[[Bureaucracy]]"
   - "[[Recontextualization]]"
   - "[[Heterogeneity]]"
@@ -86,7 +87,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -139,7 +140,7 @@ updated: 2026-11-11
 > - **路径自主与赋权攻坚（Path Autonomy & Operational Agility）** 破除微观人事与采购规章的死板束缚，赋予一线实干领袖充足的资源调配与技术实施自由度。
 > - **诊断反馈与转译支持（Diagnostic [[Feedback]] & Translation）** 建立多层次数据反馈流与专业支持界面，推动评估结果向微观实践改进的真实转化。[[Argument_Altrichter_2019_ZfB|(Altrichter et al., 2019, p. 24)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 187–188)]]
 > - **事后产出反馈控制（Ex-Post Output Feedback Control）** 汲取控制论稳态调节机制，政府放弃对编制、人员和具体课程细目等事前投入的刚性规制，将公共干预严格限定于对可测实质产出（如毕业生规模、修业年限、办学质评）的事后评估与统包预算挂钩，赋予机构内部运行自适应调节弹性（[[Argument_Kickert_1995_Governance\|Kickert, 1995, pp. 135, 150]]）。
-> - **防范象征性仪式与实施断层（Safeguarding Against Symbolic Rituals）** 产出导向治理若缺乏长期的实施投资与专业转译，极易异化为决策者挑拣证据作后置辩护的公关表演；必须建立常态化知识库并保护基层专业领导者的情境调试空间，防止循证治理沦为虚饰仪式（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026, pp. 348–351]]）。
+> - **防范象征性仪式与实施断层（Safeguarding Against Symbolic Rituals）** 产出导向治理若缺乏长期的实施投资与专业转译，极易[[Alienation|异化]]为决策者挑拣证据作后置辩护的公关表演；必须建立常态化知识库并保护基层专业领导者的情境调试空间，防止循证治理沦为虚饰仪式（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026, pp. 348–351]]）。
 
 > [!logic-map]- 产出导向治理制度传导与调控架构
 > ```mermaid

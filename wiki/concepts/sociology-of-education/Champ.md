@@ -6,10 +6,10 @@ aliases:
 summary: "Pierre Bourdieu 的核心概念，指具有相对自主性、客观位置关系网络和资本分布结构的社会空间，行动者在此依据内隐规则争夺特定资源与象征资本；亦被拓展用于分析超国家机构通过数据基础设施与可比指标建构的跨国政策场域。"
 type: concept
 domain: "sociology-of-education"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - field-theory
   - bourdieu
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Performance Indicators]]"
+  - "[[Alienation]]"
   - "[[Visible Learning]]"
   - "[[Phronesis]]"
   - "[[European Education Space]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-08
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -141,7 +142,7 @@ updated: 2026-11-11
 > **问责规训与场域资本重构** 探讨量化实证指标与可见学习议程如何重塑学校内部各主体的实践逻辑与权力位置。
 
 > [!claim] Larsen; Blackmore
-> **[[Performance Indicators|绩效指标]]对教师专业场域的异化重塑** 拉森（[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 4–7]]）指出，当[[Visible Learning|可见的学习]]与标准化数据监测渗透入学校教育体系时，教师被深度卷入由行政问责、政治期望与生源竞争织就的制度化权力场域中。在此类被外部绩效逻辑侵蚀的场域内部，教师的核心[[Phronesis|实践理性]]从关注学生具身成长与长周期涵育，异化为产出漂亮的达标测验数据以换取管理层的嘉奖与生存合法性。量化数据作为新型象征资本垄断了场域内的评价权，促使教师与学生的主观存在体验被客观化参数全面取代。
+> **[[Performance Indicators|绩效指标]]对教师专业场域的[[Alienation|异化]]重塑** 拉森（[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 4–7]]）指出，当[[Visible Learning|可见的学习]]与标准化数据监测渗透入学校教育体系时，教师被深度卷入由行政问责、政治期望与生源竞争织就的制度化权力场域中。在此类被外部绩效逻辑侵蚀的场域内部，教师的核心[[Phronesis|实践理性]]从关注学生具身成长与长周期涵育，异化为产出漂亮的达标测验数据以换取管理层的嘉奖与生存合法性。量化数据作为新型象征资本垄断了场域内的评价权，促使教师与学生的主观存在体验被客观化参数全面取代。
 
 ---
 

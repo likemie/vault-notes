@@ -10,7 +10,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Language Skills]]"
   - "[[Research Universities]]"
+  - "[[Alienation]]"
   - "[[Study Abroad]]"
   - "[[Academic Freedom]]"
   - "[[Grandes Ecoles]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-10
+updated: 2026-11-15
 ---
 
 ---
@@ -95,7 +96,7 @@ updated: 2026-11-10
 >   以标准化模式在全球五大洲高水平[[Research Universities|研究型大学]]落地，形成了由国家汉办自上而下集中统筹的快速扩张态势。
 > - **2010–2018年 — 质量提升与综合职能深化期**
 >   从单一语言授课向涵盖学术交流、商务汉语与特色专业教育（如中医孔院、农业孔院）的综合性文化交流平台拓展；深度融入“[[Belt and Road Initiative|一带一路]]”沿线人文交流。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 685)]]
-> - **2015–2021年 — 南亚与中亚深度布局与差异化应对**
+> - **2015–2021年 — 南亚与中亚深度布局与差[[Alienation|异化]]应对**
 >   在南亚与中亚13国布设65所孔子机构（28所孔子学院、37所孔子课堂），占该区域外国文化中心总数的30%；在吉尔吉斯斯坦形成高达25所机构的高密度集聚（占全吉外国文化中心总数的64%）；在乌兹别克斯坦面临2所法规划线配额上限时，通过向对口大学直接赠送语言教学设备与数字软件绕开限制；在马尔代夫因宗教敏感性淡化孔子学院名称，改设为“汉语学习中心”（MLLC）。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 24–26, 42, 60)]]
 > - **2019年至今 — 地缘摩擦、制度改组与民间化转型期**
 >   面对外部地缘环境复杂演化与部分西方国家立法审查，官方实施体制改组，[[Confucius|孔子]]学院品牌转由民间非营利社团“中国国际中文教育基金会”独立运营管理。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 693–694)]] 与此同时，在东南亚等周边区域的布局持续扩展，至 2021 年达到 31 所，依托与在地大学的机制深度整合充当区域人文交流纽带。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 85)]]

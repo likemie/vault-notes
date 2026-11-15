@@ -10,7 +10,7 @@ aliases:
 summary: "在短期量化考评、同行评审偏好与就业不稳定压力倒逼下，科研人员（特别是青年学者）为维持学术生涯生存，理性选择迎合既有主流范式、追逐流行热点词汇并主动规避高风险探索的制度化学术适应策略。"
 type: concept
 domain: "higher-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Academic Risk Aversion]]"
   - "[[Novelty Bias in Peer Review]]"
   - "[[Discourse]]"
+  - "[[Alienation]]"
   - "[[Academic Inbreeding]]"
   - "[[Variable]]"
   - "[[Transnational Education]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-03
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -110,7 +111,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题二｜学术门阀与层级依附加剧了青年学者对学术权威的依顺并削弱了独立学术议程
-> **学阀权力垄断与学术自主性退化** 揭示导师掌控科研资源与职业通道的权力不对称如何将学术后备军异化为被动执行者，阻断异质思想的发育。
+> **学阀权力垄断与学术自主性退化** 揭示导师掌控科研资源与职业通道的权力不对称如何将学术后备军[[Alienation|异化]]为被动执行者，阻断异质思想的发育。
 
 > [!claim] [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]]
 > **层级门阀结构对学术独立性的系统性窒息** 豪布罗克等学者强调，在[[Academic Inbreeding|学术近亲繁殖]]（[[Academic Inbreeding]]）与学术领主网络深植的体制中，科研权力高度集中于资深权威之手。青年学者的职业聘任、署名权益与课题机会完全受制于高级负责人的主观宽容度。该依附格局迫使青年科研人员严格服从团队负责人的学术范式与利益布局，难以自主开辟独立研究议程，最终将富有创新潜能的青年学者锁闭为大型生产流水线上的狭隘执行单元。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026)]]

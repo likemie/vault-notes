@@ -10,7 +10,7 @@ subtype: program
 region: denmark
 fact_region: "denmark"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Differentiated Instruction]]"
   - "[[Extending School Time]]"
+  - "[[Alienation]]"
   - "[[School Leadership]]"
   - "[[Nordic Model of Education]]"
   - "[[Whole Person Education]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-15
 ---
 
 ---
@@ -95,7 +96,7 @@ updated: 2026-11-10
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Danish Public School Reform]] | Fact (Policy) | 该项目作为先导实践试验直接服务的丹麦国家基础教育重大改革法案。 |
-> | [[Danish Evaluation Institute]] | Fact (Organization) | 为该先导实验项目提供教学法与差异化评估支持的国家机构。 |
+> | [[Danish Evaluation Institute]] | Fact (Organization) | 为该先导实验项目提供教学法与差[[Alienation\|异化]]评估支持的国家机构。 |
 > | [[Danish National Centre for Social Research]] | Fact (Organization) | 为该项目[[School Leadership\|学校领导力]]与学生表现提供纵向实证监测的科研实体。 |
 > | [[Nordic Model of Education]] | Concept | 该项目力图在现代国际竞争中维系与更新的北欧福利国家[[Whole Person Education\|全人教育]]传统。 |
 > | [[POLNET]] | Fact (Program) | 追踪考察丹麦改革准备阶段及新北欧学校实证[[Document\|文献]]引据的跨国科研项目。 |

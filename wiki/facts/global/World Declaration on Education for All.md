@@ -12,7 +12,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Basic Learning Needs]]"
   - "[[Problem Solving]]"
   - "[[Transnational Education]]"
+  - "[[Alienation]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -103,7 +104,7 @@ updated: 2026-11-11
 
 > [!finding-cards] 效果与评价
 > - **确立基础教育全纳哲学** 将满足基本学习需求确立为不可剥夺的基本人权，彻底改变了战后[[Transnational Education|跨国教育]]发展的政策叙事。[[Argument_King_2007_CE|(King, 2007, pp. 379–380)]]
-> - **多边机构执行中的指标异化** 虽文本确立了六大综合维度，但世界银行与 UNICEF 在资金落地中迅速聚焦于易测量的正规初等教育，导致早期保育、成人扫盲与实用技能被边缘化。[[Argument_King_2007_CE|(King, 2007, pp. 380–381)]]
+> - **多边机构执行中的指标[[Alienation|异化]]** 虽文本确立了六大综合维度，但世界银行与 UNICEF 在资金落地中迅速聚焦于易测量的正规初等教育，导致早期保育、成人扫盲与实用技能被边缘化。[[Argument_King_2007_CE|(King, 2007, pp. 380–381)]]
 > - **弹性建议向刚性指标的转化** 行动框架赋予各国的自主设定弹性被技术官僚剥离，逐步变为 2000 年前必须达标的单一全球硬性倒计时，导致后续目标落空并引发频繁的目标重置。[[Argument_King_2007_CE|(King, 2007, pp. 380, 389)]]
 > - **南方国家起草权缺位** 尽管 155 国参会，但文本设计与学段取舍权完全由北方多边技术官员垄断，未给发展中国家提供围绕中高等教育与工业化关系的实质政治辩论空间。[[Argument_King_2007_CE|(King, 2007, pp. 380–381)]]
 

@@ -8,10 +8,10 @@ aliases:
 summary: "源自安第斯原住民宇宙观的生态伦理与整体繁荣哲学，强调人与自然（Pachamama）、跨代际社群及精神传统的互依和谐共生；在教育哲学与批判发展学中，构成解构西方人类中心主义、新自由主义人力资本论与单纯经济增长神话的核心替代范式。"
 type: concept
 domain: "educational-philosophy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/educational-philosophy
   - theme/latin-american-philosophy
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Posthumanism]]"
   - "[[Paradigm]]"
   - "[[Productization of the Mind]]"
+  - "[[Alienation]]"
   - "[[The Right and the Good]]"
   - "[[Document]]"
   - "[[Technological Agnosticism]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -97,7 +98,7 @@ updated: 2026-11-02
 > [!concept-proposition] 命题一｜从[[Human Capital Theory|人力资本]]到生态共生：Buen Vivir 对教育功利化与[[Productization of the Mind|心智产品化]]的批判
 
 > [!claim] 命题核心主张
-> 当代全球教育政策深受[[Human Capital Theory|人力资本]]论主导，将受教育者异化为劳动力市场中可定价的技能资产（如名校毕业生高度集中于金融咨询等变现行业，导致严重的[[Productization of the Mind|心智产品化]]）。Buen Vivir 提供了根本性的解毒剂：它主张真正的“好教育”不是帮助个体在文凭军备竞赛中胜出以实现更多的个人消费（*vivir mejor*），而是引导受教育者理解自身的消费抉择如何嵌于生态系统与他人福祉之中，在测量与排名之外重建关于生命意义与伦理责任的深层感知。[[Argument_Amos_2022_Springer|(Amos, 2022, pp. 64–65)]]
+> 当代全球教育政策深受[[Human Capital Theory|人力资本]]论主导，将受教育者[[Alienation|异化]]为劳动力市场中可定价的技能资产（如名校毕业生高度集中于金融咨询等变现行业，导致严重的[[Productization of the Mind|心智产品化]]）。Buen Vivir 提供了根本性的解毒剂：它主张真正的“好教育”不是帮助个体在文凭军备竞赛中胜出以实现更多的个人消费（*vivir mejor*），而是引导受教育者理解自身的消费抉择如何嵌于生态系统与他人福祉之中，在测量与排名之外重建关于生命意义与伦理责任的深层感知。[[Argument_Amos_2022_Springer|(Amos, 2022, pp. 64–65)]]
 
 ---
 

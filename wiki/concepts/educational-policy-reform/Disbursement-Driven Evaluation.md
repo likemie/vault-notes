@@ -9,7 +9,7 @@ aliases:
 summary: "国际发展金融与超国家教育借贷中的组织评估异化机制；指多边开发银行内部将资金顺利拨付率与合同硬件投入（校舍修建、培训人数、教材分发）作为项目成功的核心乃至唯一考核指标，而系统性回避与淡化学生实际学业成果是否实质提升的制度惯性；该机制揭示了多边机构在方案设计端具备敏捷吸收前沿理念的学习能力，而在执行与评估端数十年来持续固化于合规账目核查与非学习状态的组织悖论。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ tags:
   - theme/organizational-sociology
 related_concepts:
   - "[[Multilateral Development Bank]]"
+  - "[[Alienation]]"
   - "[[Academic Achievement]]"
   - "[[Absorptive Capacity]]"
   - "[[Bureaucracy]]"
@@ -47,13 +48,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Disbursement-Driven Evaluation
-> **放贷驱动评估（Disbursement-Driven Evaluation）**，亦称**投入导向评估（Input-Biased Evaluation）**，是指在[[Multilateral Development Bank|多边开发银行]]（如[[World Bank|世界银行]]、[[Inter-American Development Bank|泛美开发银行]]）教育信贷体系中长期存在的一种组织制度异化现象：机构内部的绩效考核与声誉激励高度绑定于**贷款资金的拨付进度（Disbursement Rate）** 与**物理硬件投入的会计合规性**（如规定数量的校舍是否建成、预定指标的教师是否接受过轮训、教材与电脑设备是否采购分发到位）；而在项目验收与后续追踪中，系统性回避或形式化淡化最具根本意义的实质性问题——受训教师的教学实践是否真正改善、学生的[[Academic Achievement|学业表现]]与认知技能是否获得实质提升。这种机制使得多边机构在方案设计端展现出极高敏捷度的学术[[Absorptive Capacity|吸收能力]]，但在基层执行与评估端却数十年来深陷合规报销与“只数砖头不问育人”的非学习固化陷阱。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 470–472)]]
+> **放贷驱动评估（Disbursement-Driven Evaluation）**，亦称**投入导向评估（Input-Biased Evaluation）**，是指在[[Multilateral Development Bank|多边开发银行]]（如[[World Bank|世界银行]]、[[Inter-American Development Bank|泛美开发银行]]）教育信贷体系中长期存在的一种组织制度[[Alienation|异化]]现象：机构内部的绩效考核与声誉激励高度绑定于**贷款资金的拨付进度（Disbursement Rate）** 与**物理硬件投入的会计合规性**（如规定数量的校舍是否建成、预定指标的教师是否接受过轮训、教材与电脑设备是否采购分发到位）；而在项目验收与后续追踪中，系统性回避或形式化淡化最具根本意义的实质性问题——受训教师的教学实践是否真正改善、学生的[[Academic Achievement|学业表现]]与认知技能是否获得实质提升。这种机制使得多边机构在方案设计端展现出极高敏捷度的学术[[Absorptive Capacity|吸收能力]]，但在基层执行与评估端却数十年来深陷合规报销与“只数砖头不问育人”的非学习固化陷阱。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 470–472)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种将发展贷款的“资金流转进度”和“物理资产采购量”异化为衡量项目终极成败的组织考核偏误。

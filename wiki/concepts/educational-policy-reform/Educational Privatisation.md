@@ -10,7 +10,7 @@ aliases:
 summary: "指将公共教育的供给、资金、管理及政策制定权向私营部门、市场机制或商业逻辑转移的结构性变革过程。在新自由主义全球化下，斯蒂芬·鲍尔与托雷斯等学者将其界定为国家重塑教育权力的阶级策略，通常分化为公立系统内部企业化改组的内生私有化与外部服务及立法议程承包的外生私有化。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Washington Consensus]]"
   - "[[International Education]]"
   - "[[Education Export]]"
+  - "[[Alienation]]"
   - "[[Policy Entrepreneur]]"
   - "[[Policy Network]]"
   - "[[Critical Pedagogy]]"
@@ -84,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-17
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -201,7 +202,7 @@ updated: 2026-11-11
 > > 争论私有化与市场机制究竟通过竞争赋权提升了教育供给效率，还是摧毁了教育作为民主公共品的平等基石。
 > >
 > > - **新自由主义与公共选择学派（Chubb & Moe, 1990; Friedman, 1955）** 主张打破公立科层垄断，赋予家长自由选择权，通过优胜劣汰激励学校提升教学效能，满足多元教育需求。
-> > - **批判社会学与教育政治经济学派（Ball, 1993; [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]; [[Argument_Snook_2009_NZJES|Snook et al., 2009]]）** 指责市场化将弱势家庭和学困生系统性挤压至边缘劣势学校，使教育异化为优势阶层专属的再生产工具，从根本上动摇了社会流动与民主平等的基石。
+> > - **批判社会学与教育政治经济学派（Ball, 1993; [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]; [[Argument_Snook_2009_NZJES|Snook et al., 2009]]）** 指责市场化将弱势家庭和学困生系统性挤压至边缘劣势学校，使教育[[Alienation|异化]]为优势阶层专属的再生产工具，从根本上动摇了社会流动与民主平等的基石。
 >
 > > [!axis] 财政短缺实用纾困 vs 资本掠夺与公共教育主权丧失
 > > 争论在公共预算赤字下引入社会资本是否属于正当的财政自救手段。

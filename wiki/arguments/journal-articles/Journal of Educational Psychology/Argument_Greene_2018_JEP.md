@@ -42,6 +42,7 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Rote Learning]]"
   - "[[Dependent Variable]]"
+  - "[[Alienation]]"
   - "[[Procedural Knowledge]]"
   - "[[Educational Level]]"
   - "[[Chain of Evidence]]"
@@ -94,16 +95,16 @@ sources:
   - "[[sources/Greene_2018_JEP/Greene_2018_JEP|Greene_2018_JEP]]"
 status: draft
 created: 2026-08-19
-updated: 2026-10-30
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Greene_2018_JEP"
 argument_key: "Argument_Greene_2018_JEP"
 argument_display_title: "A meta-analytic review of the relationship between epistemic cognition and academic achievement"
 argument_kind: "journal-article"
-argument_related_count: 69
-argument_related_level: 6
-argument_related_stars: "💎💎"
+argument_related_count: 70
+argument_related_level: 7
+argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
 journal: "Journal of Educational Psychology"
 book_title: ""
@@ -344,7 +345,7 @@ issuing_organization: ""
 > 认识论认知对学业成就的预测效力展现出深刻的“任务加工层级特异性”：它与概念性理解和论证表现高度紧密挂钩，而与底层的陈述性[[Rote Learning\|死记硬背]]近乎脱节；同时在学段分布上打破了传统发展模型假定，中小学生展现出比大学生更强的关联。
 
 > [!concept-lens] 认知加工层级与任务特异性
-> 过去的研究常把学业成就作为一个同质的[[Dependent Variable\|因变量]]，掩盖了认识论认知在不同认知层次任务中的差异化表现。本研究依据认知心理学对学业成就的加工层级进行了精细化解构：
+> 过去的研究常把学业成就作为一个同质的[[Dependent Variable\|因变量]]，掩盖了认识论认知在不同认知层次任务中的差[[Alienation|异化]]表现。本研究依据认知心理学对学业成就的加工层级进行了精细化解构：
 > - **高阶加工任务（Higher-Order Processing）** 包含**概念性知识（Conceptual Knowledge）** 与**论证表现（Argumentation）**，要求协调多源信息、评估证据权重并重构直觉图式。
 > - **低阶记忆任务（Lower-Order Processing）** 包含**陈述性知识（Declarative Knowledge）** 与 **[[Procedural Knowledge\|程序性知识]]（[[Procedural Knowledge]]）**，主要考核封闭性事实的复述与算法规则的套用。
 

@@ -7,7 +7,7 @@ aliases:
 summary: "一种将复杂人类社会与地缘政治简化为压迫者与被压迫者、统治者与被统治者对立的道德认知模式；该范式将无权者天然道德化并剥夺其道德能动性，忽视弱者与强者皆具有施恶潜能的历史事实，在科技与安全领域容易滋生逃避现实战略抉择的绝对和平主义。"
 type: concept
 domain: "ethics-of-technology"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Critical Pedagogy]]"
   - "[[Positivism]]"
+  - "[[Alienation]]"
   - "[[AI Deterrence]]"
 related_theories:
   - "[[Critical Theory]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -158,7 +159,7 @@ updated: 2026-11-14
 > > [!axis] [[Critical Theory|批判理论]]解放叙事 vs 现实主义普遍人性论
 > > 围绕社会矛盾的性质产生根本对立。
 > >
-> > - **批判理论派（Freire et al.）** 强调压迫结构是导致一切异化与暴力的唯一根源，消灭压迫结构即能实现人性的普遍解放。
+> > - **批判理论派（Freire et al.）** 强调压迫结构是导致一切[[Alienation|异化]]与暴力的唯一根源，消灭压迫结构即能实现人性的普遍解放。
 > > - **现实主义派（Adekoya; Karp & Zamiska）** 认为权力结构固然重要，但施恶潜能根植于人类普遍天性，即使处于被压迫地位的群体在掌权或特定情境下同样会实施残暴行径。
 >
 > > [!axis] 绝对和平主义规范 vs 悲剧抉择下的实效威慑伦理

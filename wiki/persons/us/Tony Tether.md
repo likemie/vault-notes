@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Embedded Network Governance]]"
   - "[[Network Governance]]"
   - "[[Science Programs]]"
+  - "[[Alienation]]"
   - "[[Innovation Ecosystem]]"
   - "[[Vertical Disintegration]]"
 related_theories:
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-26
+updated: 2026-11-15
 ---
 
 ---
@@ -124,7 +125,7 @@ updated: 2026-10-26
 > > [!axis] 瑟瑟采办改革是否摧毁了 [[DARPA]] 长期支持自由学术探索的传统
 > > 全美高校计算机学术界与[[National Academy of Sciences|美国国家科学院]]（NAS）强烈抗议其削减大学基础科研并将项目保密化；瑟瑟与国防部管理者则辩护称改革大幅提高了国防投资转化效率。
 > >
-> > - **[[Computing Research Association|美国计算机研究协会]]（CRA）与大学学者** 批评瑟瑟短视，将长期颠覆性研究异化为短期工程交付，破坏了滋养互联网与现代计算产业的产学研自由生态。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134, 1138)]]
+> > - **[[Computing Research Association|美国计算机研究协会]]（CRA）与大学学者** 批评瑟瑟短视，将长期颠覆性研究[[Alienation|异化]]为短期工程交付，破坏了滋养互联网与现代计算产业的产学研自由生态。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134, 1138)]]
 > > - **[[Argument_Fuchs_2010_RP|Fuchs (2010)]]** 借助深入扎根实证指出，学术界仅依据宏观合同结构得出“DARPA 已死”的结论过于片面，微观非正式治理机制的深层连续性才是机构效能的真正源泉。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1144–1146)]]
 >
 > > [!axis] 隐蔽网络国家的军事庇护优势 vs 部门主管个人偏好与涉密倒退风险

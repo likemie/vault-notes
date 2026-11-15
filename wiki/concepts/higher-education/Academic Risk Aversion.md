@@ -9,7 +9,7 @@ aliases:
 summary: "在高度竞争性科研资助、同行评审可行性偏见与短周期考评约束下，科研人员与资助机构系统性偏向选择高确定性、短期可见的渐进型研究，极力规避长周期、高失败率之颠覆性探索的制度性行为偏好。"
 type: concept
 domain: "higher-education"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -21,6 +21,7 @@ tags:
   - sociology-of-science
 related_concepts:
   - "[[Epistemology]]"
+  - "[[Alienation]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Paradigm]]"
   - "[[Falsification]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -74,7 +75,7 @@ updated: 2026-11-11
 
 > [!concept-lens] 概念透镜
 > - **微观生存理性** 在青年教师 3 年启动金耗尽与 6 年长聘考核倒逼下，学者必须迅速斩获外部资助以支付薪水与维系团队运转；失败的职业代价极高，选择稳妥项目成为个体理性的生存防御策略。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
-> - **同行评审异化** 同行评审（Peer Review）由早期的“甄别前沿新知”异化为过度看重“技术可行性”（Doability）与[[Pilot Testing|预实验]]数据（Pilot Data），形成项目尚未获批而实质工作已完成大半的避险潜规则。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 31)]]
+> - **同行评审[[Alienation|异化]]** 同行评审（Peer Review）由早期的“甄别前沿新知”异化为过度看重“技术可行性”（Doability）与[[Pilot Testing|预实验]]数据（Pilot Data），形成项目尚未获批而实质工作已完成大半的避险潜规则。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 31)]]
 > - **宏观政策悖论** 政府公共财政资助基础科学的原初经济学逻辑在于承担私人资本不愿承担的高风险探索；然而竞争性立项机制反而制造了极端追求短期可见成果的避险机制，架空了国家资助的公共效用。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 31–32)]]
 
 > [!citation-card] 罗杰·科恩伯格论同行评审的极度避险

@@ -12,7 +12,7 @@ aliases:
 summary: "科学探究四大基本假设之一，主张可靠知识源自感官观察与直接经验，理论必须依托经验证据支撑，奠定了实证科学方法、Mouly 经验演化五步进程以及现代软件工程即兴经验科学的认识论基石。"
 type: concept
 domain: "educational-philosophy"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Scientific Method]]"
   - "[[Variable]]"
+  - "[[Alienation]]"
   - "[[Feedback]]"
   - "[[Construct]]"
   - "[[Theoretical Perspective]]"
@@ -82,7 +83,7 @@ related_facts:
 confidence: high
 status: completed
 created: 2026-09-09
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -123,7 +124,7 @@ updated: 2026-11-11
 > - **证据的概率确认性（Probabilistic Confirmation）** 现代科学经验主义认识到经验证据无法提供绝对确定性，是以概率统计的形式为假说提供支持度或[[Falsification|证伪]]检验。
 > - **Mouly [[Scientific Method|经验科学]]五步演进规程（Five Steps of Empirical Science）** 穆利（Mouly, 1978）系统提炼的实证演进阶梯：经验积累、分类整理、精密量化、关系发现、逼近真理。
 > - **反先验教条主义（Anti-a-priori Dogmatism）** 拒绝任何未经经验数据检验的先验教条或权威断言，坚持理论与系统的立足性完全取决于证据与实战质量。
-> - **方法论经验主义与唯方法论主义（Methodological Empiricism & Methodologism）** 在 20 世纪战后实证[[Scientism|科学主义]]运动中，经验主义被窄化为图尔敏（Stephen Toulmin, 1963）所界定的通用科学方法信仰，即仅认可假设检验、受控调查、[[Variable|变量]]测量与量化统计解释（Noah & Eckstein, 1969；Psacharopoulos, 1987），异化为巴伯（Bernard Barber, 1972）所批判的脱离历史文化语境与价值反思的唯方法论主义。
+> - **方法论经验主义与唯方法论主义（Methodological Empiricism & Methodologism）** 在 20 世纪战后实证[[Scientism|科学主义]]运动中，经验主义被窄化为图尔敏（Stephen Toulmin, 1963）所界定的通用科学方法信仰，即仅认可假设检验、受控调查、[[Variable|变量]]测量与量化统计解释（Noah & Eckstein, 1969；Psacharopoulos, 1987），[[Alienation|异化]]为巴伯（Bernard Barber, 1972）所批判的脱离历史文化语境与价值反思的唯方法论主义。
 > - **工程经验实战性与即兴试错（Engineering Empiricism & Improvisational [[Feedback]]）** 在技术与复杂自适应系统构建中，经验主义体现为对物理世界运行结果与实战反馈的绝对服从。前沿工程本质上是一门经验观察性科学（empirical and observational science），摒弃象牙塔式的先验公理推导，奉行尝试一切管用之法的务实准则，通过持续碰撞现实的即兴迭代获取真实认知（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025, pp. 122–123]]）。
 
 > [!proc] 经验科学的五步演化进程（Mouly, 1978）

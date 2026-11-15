@@ -8,7 +8,7 @@ aliases:
 summary: "历史制度主义与比较政治经济学中的渐进制度变迁核心机制；指制度在未经历外生重大危机冲击的情境下，由于日常正常运转持续耗竭其赖以维系的外部前提条件、产生递减收益或超越增长极限，最终累积导致规制效能逐步枯竭瓦解与自我消亡的内生演变过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 17
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Institutional Conversion]]"
   - "[[Rule Ambiguity]]"
   - "[[Institutional Layering]]"
+  - "[[Alienation]]"
   - "[[Paradigm]]"
   - "[[Scientific Paradigm]]"
   - "[[Veto Possibilities]]"
@@ -38,13 +39,14 @@ related_persons:
   - "[[Wolfgang Streeck]]"
   - "[[Kathleen Thelen]]"
   - "[[James Mahoney]]"
+  - "[[Alexandre de Rhodes]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -73,7 +75,7 @@ updated: 2026-11-03
 > | 变迁类型 | 核心机制 | 规则文本状态 | 实践与结果状态 | 典型驱动动力 |
 > |---|---|---|---|---|
 > | **[[Institutional Displacement\|制度置换]]** | 背叛与入侵 | 旧规则废弃或边缘化，引入全新规则 | 新规则地位逐步上升 | 竞争性行动逻辑扩散与示范 |
-> | **[[Institutional Layering\|制度层叠]]** | 差异化增长 | 在既有规则边缘附加新规则补丁 | 新层吸纳支持，挤占旧层空间 | 规避正面政治否决冲突 |
+> | **[[Institutional Layering\|制度层叠]]** | 差[[Alienation\|异化]]增长 | 在既有规则边缘附加新规则补丁 | 新层吸纳支持，挤占旧层空间 | 规避正面政治否决冲突 |
 > | **[[Institutional Drift\|制度漂移]]** | 刻意疏于维护 | 规则文本维持冻结不变 | 规则与外部现实脱节，保障范围萎缩 | 维持现状阵营策略性不作为 |
 > | **[[Institutional Conversion\|制度转换]]** | 重新定向与再解释 | 规则文本保持连续不变 | 规则被转用于全新目标与功能 | 行动者利用模糊性开展由下而上的再解释 |
 > | **[[Institutional Exhaustion\|制度耗竭]]** | 资源耗损（Depletion） | 规则形式或存续，但操作性丧失 | 制度效能枯竭，逐步萎缩消亡 | 正常运作反噬前提条件与收益递减 |
@@ -130,7 +132,7 @@ updated: 2026-11-03
 ---
 
 > [!evidence-grid] 制度耗竭的代表性经验案例
-> - **德国提前退休政策与福利国家财政耗竭（自我消耗典范）** 战后德国政府与工会达成默契，通过法定提前退休制度（Vorruhestand 与 Altersteilzeit）促使老龄工人提前退出劳动力市场，以缓解结构性失业并平息劳工抗争；然而随着企业将该制度普遍化为常规减员工具，退休年龄大幅提前，在职纳税人急剧萎缩而养老金刚性支出暴增，推高工资附加税并反向扼杀制造企业国际[[Competitiveness|竞争力]]，最终迫使施罗德政府启动改革彻底废止该机制。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 29–30)]]
+> - **德国提前退休政策与福利国家财政耗竭（自我消耗典范）** 战后德国政府与工会达成默契，通过法定提前退休制度（Vorruhestand 与 Altersteilzeit）促使老龄工人提前退出劳动力市场，以缓解结构性失业并平息劳工抗争；然而随着企业将该制度普遍化为常规减员工具，退休年龄大幅提前，在职纳税人急剧萎缩而养老金刚性支出暴增，推高工资附加税并反向扼杀制造企业国际[[Competitiveness|竞争力]]，最终迫使施[[Alexandre de Rhodes|罗德]]政府启动改革彻底废止该机制。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 29–30)]]
 > - **欧陆战后福利共识的边际收益递减（收益递减典范）** 战后福利国家社会保险机制在覆盖工业蓝领工人的核心群体阶段展现出显著的正向稳定效能；但随着规制扩展至非正规就业与服务业，其维系成本呈现指数级上升，财政转移支付的边际效用不断递减，最终在 1990 年代引发全欧洲范围内的福利开支削减与结构调整。
 > - **集中化行业工资协议向弱势部门的过度延伸（增长极限典范）** 德国金属等支柱产业工会制定的集中集体谈判协议原本依托高端制造业超额利润维系；当工会将同等严苛的工时与工资标准强制延伸至欠发达的前东德地区及边缘服务业时，中小企业无力承受刚性成本，导致集体协议出现雪崩式违约与雇主退会，规制系统因过度扩张而陷入制度耗竭。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, p. 30)]]
 

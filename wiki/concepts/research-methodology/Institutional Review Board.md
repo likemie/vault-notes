@@ -8,7 +8,7 @@ aliases:
 summary: "设立于高校和研究机构内部依据法规在数据收集前审查涉及人类受试者研究方案的伦理治理机构；在规范受试者风险防范与知情同意的同时，也因规章形式主义、情境伦理钝感与抑制激进科学探索而面临深刻的制度批评。"
 type: concept
 domain: "research-methodology"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Deception in Research]]"
   - "[[Non-maleficence and Beneficence in Research]]"
+  - "[[Alienation]]"
   - "[[Sensitive Research]]"
   - "[[Emergence]]"
   - "[[Guilty Knowledge]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -137,7 +138,7 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题二｜IRB 的科层化规章合规倾向容易异化为阻碍激进科学探索与增加启动成本的体制障碍
+> [!concept-proposition] 命题二｜IRB 的科层化规章合规倾向容易[[Alienation|异化]]为阻碍激进科学探索与增加启动成本的体制障碍
 > **科学治理与组织病理学维度** 剖析伦理委员会如何因规避自身风险演化为官僚化设卡，抑制颠覆性社会科学探索并拖延临床试验周期。
 
 > [!claim] Hammersley, M.; [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]

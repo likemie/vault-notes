@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 41
+person_related_count: 42
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Doctoral Dissertation]]"
   - "[[Discourse]]"
   - "[[Phronesis]]"
+  - "[[Alienation]]"
   - "[[Independent Variable]]"
   - "[[Problem Finding]]"
   - "[[Visible Learning]]"
@@ -77,7 +78,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -131,7 +132,7 @@ updated: 2026-11-11
 > - **实践中反思（Reflection-in-Action）** 专业人员在行动过程中遭遇意外或未预期结果时所展开的即时、内省探究——“此刻发生了什么？我需要如何即时调整策略以应对当下的独特情境？”这是[[Phronesis|实践智慧]]的核心载体。
 > - **对实践的反思（Reflection-on-Action）** 专业人员在行动完成后抽身离开现场、或与同行展开的追溯性审议——回顾实践的有效性、检视行动背后的隐性前设，并为未来的专业进修与[[Paradigm|范式]]调整确立方向。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 6)]]
 
-> [!critique] 对[[Technical Rationality|技术理性]]的系统解构及其教育异化诊断
+> [!critique] 对[[Technical Rationality|技术理性]]的系统解构及其教育[[Alienation|异化]]诊断
 > 舍恩（1983）对[[Positivism|实证主义]]专业[[Epistemology|认识论]]展开了极具穿透力的批判：
 > - **工程与医学模型的盲目移植** 技术理性将工程师分析材料与医生诊治疾病的手段-目的模式视为一切专业实践的通则（Schön, 1983, p. 31）；现代教育系统盲目仿效这一范式，企图将复杂的课堂教学简化为“输入[[Independent Variable|自变量]] ➔ 产生既定结果”的因果干预，将复杂的教育活动剥离出特定的历史、文化与制度背景，视为能够完全通过基础科学与工程手段予以排除的技术故障。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 81–82)]]; [[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 3–5)]]
 > - **高地与沼泽地的认识论错配** 坚固的高地上存在清晰良构的学术问题，但人类专业实践的大多数关键议题均处于充满混乱、价值对立与不确定性的“沼泽低地”（Swampy Lowland）。技术理性将手段-目的假定为既定且不容置疑，无法处理“[[Problem Finding|问题界定]]”（Problem Setting）本身。

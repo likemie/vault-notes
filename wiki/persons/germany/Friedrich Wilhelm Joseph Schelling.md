@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 20
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Genius]]"
   - "[[New Mythology]]"
   - "[[The Sublime]]"
+  - "[[Mimesis]]"
   - "[[Philosophical Aesthetics]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
@@ -44,12 +45,16 @@ related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Friedrich Hölderlin]]"
   - "[[Johann Gottlieb Fichte]]"
+  - "[[Novalis]]"
   - "[[Immanuel Kant]]"
   - "[[Karl Wilhelm Ferdinand Solger]]"
   - "[[Friedrich Schlegel]]"
+  - "[[Manfred Frank]]"
   - "[[Friedrich Nietzsche]]"
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch04]]"
+related_facts:
+  - "[[Jena Romantics]]"
 confidence: high
 status: draft
 created: "2026-11-15"
@@ -72,7 +77,7 @@ updated: 2026-11-15
 
 > [!timeline] 生平与职涯
 > - **1775** 出生于德国；青年时期与[[Georg Wilhelm Friedrich Hegel|黑格尔]]（Georg Wilhelm Friedrich Hegel）及[[Friedrich Hölderlin|弗里德里希·荷尔德林]]（Friedrich Hölderlin）同窗于图宾根神学院（Evangelisches Stift）。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62, 64, 69)]]
-> - **1794–1800** 开展自然哲学与先验哲学写作，1798 年在歌德（Johann Wolfgang von Goethe）支持下年仅二十四岁受聘为耶拿大学教授，与[[Johann Gottlieb Fichte|费希特]]（Johann Gottlieb Fichte）共事，并融入以施莱格尔兄弟、卡罗琳·施莱格尔（Caroline Schlegel）与诺瓦利斯（Novalis）为核心的耶拿浪漫派朋友圈。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 65–67)]]
+> - **1794–1800** 开展自然哲学与先验哲学写作，1798 年在歌德（Johann Wolfgang von Goethe）支持下年仅二十四岁受聘为耶拿大学教授，与[[Johann Gottlieb Fichte|费希特]]（Johann Gottlieb Fichte）共事，并融入以施莱格尔兄弟、卡罗琳·施莱格尔（Caroline Schlegel）与[[Novalis|诺瓦利斯]]（Novalis）为核心的[[Jena Romantics|耶拿浪漫派朋友圈]]。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 65–67)]]
 > - **1800** 年仅二十五岁出版《先验唯心论体系》（*System des transzendentalen Idealismus*），结束早期哲学阶段并将艺术置于体系顶点。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 66–67)]]
 > - **1802–1807** 经历同一哲学时期，发表对话《布鲁诺》（1802）、讲授《艺术哲学》（1802–1803 年耶拿、1804–1805 年维尔茨堡，1859 年遗稿出版），发表《学术研究方法论讲演录》第十四讲（1803）与《论造型艺术与自然的关系》（1807）。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 65–66, 78–79)]]
 > - **1831–1854** 在[[Georg Wilhelm Friedrich Hegel|黑格尔]]去世后又生活了二十余年，并在后期《启示哲学》与基督教哲学视角下对世俗艺术采取审慎甚至排斥态度，于 1854 年逝世。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62, 64–66)]]
@@ -86,7 +91,7 @@ updated: 2026-11-15
 >   - **阶段转向** 主张绝对者无法成为概念认知的对象，唯有艺术作品中的审美直观才能在客观存在中展示意识与无意识、主体与客体的原初同一，艺术由此居于哲学体系的最高位置。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 67–75)]]
 > - **1801–1807 — 同一哲学与新柏拉图主义转向** 进入所谓同一哲学（*Identitätsphilosophie*）中期阶段，改从绝对者内部理念（*Urbilder*）的流溢理解美与艺术。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 77–82)]]
 >   - **代表著作** 《布鲁诺》（1802）、《艺术哲学》（1802–1805）、《学术研究方法论讲演录》（1803）、《论造型艺术与自然的关系》（1807）。
->   - **关键概念／方法** 理念（*Urbild*）与映象（*Gegenbild*）、[[The Sublime|崇高]]与美的相互蕴含、新柏拉图主义模仿论。
+>   - **关键概念／方法** 理念（*Urbild*）与映象（*Gegenbild*）、[[The Sublime|崇高]]与美的相互蕴含、新柏拉图主义[[Mimesis|模仿论]]。
 >   - **阶段转向** 艺术失去哲学体系顶石的地位，转而从属于需要哲学家加以阐释的概念知识，创作主体重心也由个体天才转向作为历史主体的整个民族。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 66, 77–78, 81–82)]]
 > - **后期 — 启示哲学与基督教批判阶段** 从基督教哲学立场审视艺术创作及其产物，将艺术判定为具有“世俗与异教本性”的活动。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 66)]]
 
@@ -121,7 +126,7 @@ updated: 2026-11-15
 > > 学界围绕谢林究竟是从主观唯心论迈向黑格尔客观唯心论的中间环节，还是超越黑格尔理性主义的独立思想节点存在分歧。
 > >
 > > - **传统哲学史观点** 仅就美学文本与早期发展而言，通常将谢林置于[[Johann Gottlieb Fichte|费希特]]与[[Georg Wilhelm Friedrich Hegel|黑格尔]]之间，视为从主观唯心论向客观唯心论过渡的一步。
-> > - **Frank (1985)** 曼弗雷德·弗兰克（Manfred Frank）指出谢林在黑格尔去世后仍活跃二十余年并从接近克尔凯郭尔与[[Friedrich Nietzsche|尼采]]的立场批判黑格尔理性主义，因而主张反过来将黑格尔视为费希特与谢林之间的环节（Frank, 1985）。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 64)]]
+> > - **Frank (1985)** [[Manfred Frank|曼弗雷德·弗兰克]]（Manfred Frank）指出谢林在黑格尔去世后仍活跃二十余年并从接近克尔凯郭尔与[[Friedrich Nietzsche|尼采]]的立场批判黑格尔理性主义，因而主张反过来将黑格尔视为费希特与谢林之间的环节（Frank, 1985）。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 64)]]
 
 > [!warning] 未解问题与边界
 > 曼弗雷德·弗兰克指出谢林中期《艺术哲学》存在内在张力：若哲学能够通过阐释艺术来把握绝对者，则《体系》所捍卫的“艺术无限可阐释性”与绝对者不可穷尽的隐匿本性便会受到威胁。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 82)]] 此外，以谢林为代表的浪漫派美学将艺术的认识论功能置于最高位、次化[[Ontology|本体论]]并否定实践功能，使哲学自身被缩减为美学附庸，引发黑格尔反转其等级的回应。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 85–86)]]

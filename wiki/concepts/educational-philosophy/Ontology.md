@@ -137,7 +137,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题一｜本体论预设决定社会实在的存在方式并界定[[Epistemology|认识论]]进路
-> **实在性质对探究进路的刚性约束** 探讨社会现象的客观硬质性假设与主观建构假设如何决定科学探究的方向。
+> **实在性质对探究进路的决定性制约** 探讨社会现象的客观硬质性假设与主观建构假设如何决定科学探究的方向。
 
 > [!claim] Cohen et al.
 > **本体论决定[[Epistemology\|认识论]]推导** 吉布森·伯勒尔（Gibson Burrell）与加雷斯·摩根（Gareth Morgan）提炼的四组核心假设中，本体论居于基础先导地位。研究者关于现象本质的本体论设问直接分化为实在论与[[Nominalism\|唯名论]]两极：若认定社会实在如同自然界一般具有客观独立性，必然推导采用[[Positivism\|实证主义]]认识论，运用中立实验与通则法则进行[[Variable\|变量]]测度；若认定社会实在仅存在于人类心灵与知觉赋予之中，则必然要求[[Interpretive Paradigm\|反实证主义]]认识论，采用表意法与质性[[Rich and Thick Description\|深描]]去理解个体独特的意义世界（Burrell & Morgan, 1979）[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 115)]]。

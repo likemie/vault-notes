@@ -8,7 +8,7 @@ aliases:
 summary: "伴随学习意图向学生显性呈现的具体质性表现指标、证据特征与进阶阶梯，用于判定学生在何种程度上达成了预期的认知理解与能力目标"
 type: concept
 domain: "competency-and-assessment"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Creativity]]"
   - "[[Open-Mindedness]]"
+  - "[[Alienation]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -138,7 +139,7 @@ updated: 2026-11-03
 >
 > > [!axis] 原子化目标偏狭 vs 大周期成功标准的卓越具象化
 > >
-> > - **原子化目标弊端** 实践中[[Learning Intentions|学习意图]]常被异化为孤立、碎片化且低阶的技术清单，容易挫伤学生的求知好奇心。
+> > - **原子化目标弊端** 实践中[[Learning Intentions|学习意图]]常被[[Alienation|异化]]为孤立、碎片化且低阶的技术清单，容易挫伤学生的求知好奇心。
 > > - **大周期卓越指引** [[John Hattie|哈蒂]]反思指出若重新设计评价体系将优先使用成功标准，主张以 10 至 12 周为适宜评估周期，通过公开往届优秀范例（如 A 与 B 等级样本）向学生整体展现卓越的实质构成。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 256–257)]]
 
 > [!metax-divider]

@@ -7,12 +7,13 @@ aliases:
 summary: "教师根据学生在准备度、兴趣和学习风格等维度的个体差异，主动调整教学内容、教学过程、学习成果及学习环境的教学框架（Tomlinson, 2001, 2014）；在班级异质性扩大的背景下被多国基础教育改革（如丹麦 2014 年综合学校改革）确立为兼顾卓越与公平的核心举措（Volmari et al., 2025），元分析显示其对整体学业成就具有加速效应（MetaX d = 0.58），但其实施成效高度依赖教师专业诊断能力与弹性分组机制。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 39
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
 status: active
 related_concepts:
+  - "[[Alienation]]"
   - "[[Metacognition]]"
   - "[[Heterogeneity]]"
   - "[[Theoretical Perspective]]"
@@ -41,15 +42,12 @@ related_concepts:
   - "[[Concept Mapping]]"
   - "[[Direct Instruction]]"
   - "[[Evidence-Based Policy-Making]]"
-  - "[[Variable]]"
-  - "[[Document]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Sample Size Determination]]"
-  - "[[Discourse Analysis]]"
 related_facts:
   - "[[Common Core State Standards]]"
   - "[[Visible Learning Meta-X]]"
@@ -64,13 +62,13 @@ tags:
   - theme/evidence-based-policy
   - metax
 created: 2026-10-22
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ## 概念定义
 
 > [!def] Differentiated Instruction
-> 差异化教学是指教师在面对学生多[[Metacognition|元认知]]水平与[[Heterogeneity|异质性]]背景时，预先且持续规划的主动教学策略。教师依据对学生准备度（Readiness）、兴趣（Interest）和学习偏好（Learning Profile）的评估，在教学内容（Content）、学习过程（Process）、学习成果（Product）以及课堂学习环境（Learning Environment）四个核心维度实施动态调整，以确保每位学习者在适合自身的发展区内获得适切挑战（Tomlinson, 2001, 2014）。
+> 差[[Alienation|异化]]教学是指教师在面对学生多[[Metacognition|元认知]]水平与[[Heterogeneity|异质性]]背景时，预先且持续规划的主动教学策略。教师依据对学生准备度（Readiness）、兴趣（Interest）和学习偏好（Learning Profile）的评估，在教学内容（Content）、学习过程（Process）、学习成果（Product）以及课堂学习环境（Learning Environment）四个核心维度实施动态调整，以确保每位学习者在适合自身的发展区内获得适切挑战（Tomlinson, 2001, 2014）。
 
 > [!concept-lens] [[Theoretical Perspective|理论视角]]
 > - **认知与[[Constructivist Paradigm|社会建构主义]]视角（Vygotsky, 1978）** 基于[[Zone of Proximal Development|最近发展区]]（Zone of Proximal Development, ZPD）理论，差异化教学强调教学介入应紧贴学生独立解决问题与在指导下解决问题之间的临界区间，通过弹性支架协助学习者跨越认知阶梯。
@@ -117,7 +115,7 @@ updated: 2026-11-11
 
 ## 核心命题与论证
 
-> [!concept-proposition] 命题一｜差异化教学通过动态匹配认知准备度显著加速[[Academic Achievement|学业成就]]
+> [!concept-proposition] 命题一｜差[[Alienation|异化]]教学通过动态匹配认知准备度显著加速[[Academic Achievement|学业成就]]
 > **学业效能提升**
 > 差异化教学通过持续[[Formative Assessment|形成性评价]]诊断学生的先验图式，使教学活动始终作用于[[Zone of Proximal Development|最近发展区]]内，能有效消除传统无差别教学带来的认知脱节或空转。
 >
@@ -156,7 +154,7 @@ updated: 2026-11-11
 
 > [!debates] 争论焦点
 > > [!axis] 全员共同进阶 vs 优异生与后进生之间的马太效应
-> > 差异化教学究竟是在整体提升的同时缩小成就差距，还是可能扩大高低成就者之间的学业鸿沟。
+> > 差[[Alienation|异化]]教学究竟是在整体提升的同时缩小成就差距，还是可能扩大高低成就者之间的学业鸿沟。
 > >
 > > - **补偿平衡论者** 指出差异化针对困难学生提供定制化[[Scaffolding|脚手架]]与基础巩固，能有效兜住学业底线并促进教育公平。
 > > - **资源竞争论者** 认为高阶学生在[[Open-Mindedness|开放性]]探究任务中获得更迅速的认知增量，若教师时间与支持偏向某一群体，可能导致班级内部发展速率分化加剧。

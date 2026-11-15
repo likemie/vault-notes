@@ -6,7 +6,7 @@ aliases:
 summary: "作为德语教学理论传统的欧陆教学论（Didaktik），关注课程内容的选择价值、人性的教化目的与教学判断，在教育研究中用于协调规训与生成、内容与规范之间的复杂张力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Discipline-Based Theory]]"
   - "[[Positivism]]"
   - "[[Pure Evaluation]]"
+  - "[[Alienation]]"
   - "[[Central Phenomenon]]"
 related_theories:
   - "[[Didactic Triangle]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -122,7 +123,7 @@ updated: 2026-11-11
 > 德语教学论传统主张教学必须兼顾思维能力的陶冶（形式教学论）与文化科学知识的传递（实质教学论）。特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）审视《[[Visible Learning|可见的学习]]》指出，英美[[Positivism|实证主义]]将教学窄化为跨情境的通用认知策略与[[Effect Size|效应量]]竞赛，滑向了单一的形式教学论；而在课程维度完全回避各学科的教育学意义以及内容选择的合法化辩护（为何纳入此项、排除彼项），导致教学理论陷入实质内容空洞化的困境。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–431)]]
 
 > [!claim] 罗默（[[Thomas Aastrup Rømer]]）
-> **评价图式对教学论传统的遮蔽与教学三角形解体** 托马斯·奥斯特鲁普·罗默（[[Thomas Aastrup Rømer]]）从欧陆教学论与分析哲学视阈审查指出，可见学习在本质上表征了教学完全屈从于简陋评价图式（[[Pure Evaluation|纯粹评价]]）的理论异化。[[John Hattie|哈蒂]]体系系统性放逐了教学论与教化（[[Bildung]]）的[[Central Phenomenon|核心范畴]]（如世界、启迪、权威与学科实质），将师生与文化中介的三元互动还原为学生孤立的主观认知建构；这种[[Radical Constructivism|激进建构主义]]反学校思维将承载人类文明精粹的学科内容降格为工具性刺激载体，导致教学论传统的教学三角形（教师–学生–内容）彻底解体，使教学退化为追求 $d > 0.40$ 的量化控制规程。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 2–3, 7)]]
+> **评价图式对教学论传统的遮蔽与教学三角形解体** 托马斯·奥斯特鲁普·罗默（[[Thomas Aastrup Rømer]]）从欧陆教学论与分析哲学视阈审查指出，可见学习在本质上表征了教学完全屈从于简陋评价图式（[[Pure Evaluation|纯粹评价]]）的理论[[Alienation|异化]]。[[John Hattie|哈蒂]]体系系统性放逐了教学论与教化（[[Bildung]]）的[[Central Phenomenon|核心范畴]]（如世界、启迪、权威与学科实质），将师生与文化中介的三元互动还原为学生孤立的主观认知建构；这种[[Radical Constructivism|激进建构主义]]反学校思维将承载人类文明精粹的学科内容降格为工具性刺激载体，导致教学论传统的教学三角形（教师–学生–内容）彻底解体，使教学退化为追求 $d > 0.40$ 的量化控制规程。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 2–3, 7)]]
 
 ---
 

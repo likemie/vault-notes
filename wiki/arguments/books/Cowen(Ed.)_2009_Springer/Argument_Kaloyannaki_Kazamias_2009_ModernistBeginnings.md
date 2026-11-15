@@ -7,7 +7,7 @@ title: "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings"
 argument_key: "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings"
 argument_display_title: "The modernist beginnings of comparative education: The proto-scientific and the reformist-meliorist administrative motif"
 argument_kind: "book-chapter"
-argument_related_count: 77
+argument_related_count: 79
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -66,8 +66,10 @@ related_concepts:
   - "[[School Inspection]]"
   - "[[Ontology]]"
   - "[[Culture Générale]]"
+  - "[[Mimesis]]"
   - "[[Research Translation]]"
   - "[[Problem Solving]]"
+  - "[[Alienation]]"
   - "[[Whiggism]]"
   - "[[Artefact]]"
   - "[[The Sublime]]"
@@ -121,7 +123,7 @@ sources:
 part_of: "[[Argument_Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-06
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 ---
 
@@ -395,7 +397,7 @@ updated: 2026-11-14
 > [!concept-lens] 资产阶级中庸折衷主义与“普通文化”通识课程理想
 > - **含义（Meaning）** 作为七月王朝（1830–1848）统治意识形态的哲学表述，折衷主义奉行“中庸之道（middle-of-the-road）”，既不冒犯天主教亦不安抚无神论，承认大革命的自由法权却坚决拒斥激进共和主义，本质上是“大资产阶级（upper bourgeoisie）统治的辩护哲学”（Brewer, 1971:30; Roberts, 1996:352）。在课程哲学上，库森基于[[Faculty Psychology\|心灵官能心理学]]（faculty psychology）与“心智训练”（mental discipline）理论，将古典人文学科（古代语言与语文学）视为探究人类本性最高维度的本体，同时引入现代语言、数学与自然科学，构建出文理融通的“普通文化（*culture générale*）”通识课程理想，主导法国中等教育逾一个世纪。（pp.28, 30; Brewer, 1971:91–92; Halls, 1965:2）
 > - **用途（Use）** 构筑严密的四级阶层分流双轨学校系统（Brewer, 1971:95）：初级初等小学面向全体平民子弟，以读写算与宗教道德巩固社会安定；高级初等小学面向工商业中产阶级培养技术管理人才；低阶中学（*collèges*）面向中上阶层传授现代学科；高阶文理中学（*lycées*）面向社会上层精英（upper ranks of society），以古典教养与高级科学的“普通文化”再生产国家统治精英，使教育借用精准服务于维护七月王朝立宪君主制的阶级秩序。（pp.28–29; Brewer, 1971:95）
-> - **边界（Boundary）** 外部经验借用具有严格的主权理性边界：反对机械照搬外国建制，确立审慎借用（judicious borrowing）准则——“一个民族真正的伟大，不在于从不模仿他人，而在于处处借用优良之物，并在吸收改造中使其臻于完善”（Brewer, 1971:vii, 97; p.30）；所有借用经验必须全面服从于法国中央集权民族国家的世俗最高督导权。（p.30）
+> - **边界（Boundary）** 外部经验借用具有严格的主权理性边界：反对机械照搬外国建制，确立审慎借用（judicious borrowing）准则——“一个民族真正的伟大，不在于从不[[Mimesis|模仿]]他人，而在于处处借用优良之物，并在吸收改造中使其臻于完善”（Brewer, 1971:vii, 97; p.30）；所有借用经验必须全面服从于法国中央集权民族国家的世俗最高督导权。（p.30）
 
 
 ---
@@ -492,7 +494,7 @@ updated: 2026-11-14
 对 19 世纪早期发端的历史还原，向现代比较教育学界发出了深刻的认识论警示，促使学界反思去语境化的纯技术实证迷思：
 
 > [!critique] 现代比较教育学的技术自满迷思与历史传统回归
-> - **实证主义的方法论拜物教与自然[[Scientism\|科学主义]]僭越** 20 世纪后半叶，诺亚与埃克斯坦（Noah & Eckstein, 1969）、芝加哥功能主义学派（Anderson, 1961; Foster, 1960）及斯坦福世界体系学派（Arnove, 1982），狭隘地将“科学（*science*）”等同于自然科学假设检验与数理统计建模，将跨国比较异化为脱离历史文化脉络与阶级权力结构的纯技术指标演算；这一实证主义自满彻底割裂了学科初创期脱胎于欧陆“精神与人文科学（*human sciences* / *sciences humaines*）”的原初母体，使跨国研究退化为去语境化、服务于官僚问责的技术工具。（pp.17–18; Noah & Eckstein, 1969）
+> - **实证主义的方法论拜物教与自然[[Scientism\|科学主义]]僭越** 20 世纪后半叶，诺亚与埃克斯坦（Noah & Eckstein, 1969）、芝加哥功能主义学派（Anderson, 1961; Foster, 1960）及斯坦福世界体系学派（Arnove, 1982），狭隘地将“科学（*science*）”等同于自然科学假设检验与数理统计建模，将跨国比较[[Alienation|异化]]为脱离历史文化脉络与阶级权力结构的纯技术指标演算；这一实证主义自满彻底割裂了学科初创期脱胎于欧陆“精神与人文科学（*human sciences* / *sciences humaines*）”的原初母体，使跨国研究退化为去语境化、服务于官僚问责的技术工具。（pp.17–18; Noah & Eckstein, 1969）
 > - **[[Whiggism\|辉格史学]]的时代倒错与起源神话编造** 战后实证派出于学科专业化自满，编造了一套单向度的“科学进化神话”，将 19 世纪早期发端轻率贬为“幼稚前科学（pre-scientific）”与“粗劣的[[Artefact\|器物]]借用期（borrowing phase）”（Bereday, 1964; Noah & Eckstein, 1969:25–26）。卡洛扬纳基与卡扎米亚斯（pp.32–33）严正批驳了这种后发标准的时代倒错（anachronism）：早期先驱作为卓越的“教育编年史官”、“叙事家”与“早期民族志记录者”，其百科全书式的事实汇纂为后世比较学科筑就了不可替代的经验史料母体，绝非实证派笔下不加鉴别的盲目抄录。（pp.32–33; Holmes, 1965）
 > - **教育改良主义与比较认识论问题域的遮蔽** 实证主义片面标榜“价值无涉”，导致现代学界遗忘了统摄 19 世纪所有先驱求知实践的最高动因——“教育改良主义（Educational Meliorism）”，即“以现实改进为先验目标的探究（inquiry with the objective of improvement）”（pp.33–34）。朱利安关照大革命创伤与[[Perpetual Peace\|永久和平]]，库森捍卫大资产阶级立宪秩序与[[State Educational Sovereignty\|国家教育权]]，霍勒斯·曼、斯托与巴纳德捍卫合众国自由共和政体免于文盲与专制退化；先驱们的跨国探究自始至终深嵌于应对“现代性危机（crisis of modernity）”的伦理关怀之中，构成了学科不可让渡的“比较认识论问题域（comparative epistemic problematique）”。（p.34; Palmer, 1993; Cremin, 1957）
 > - **历史-哲学传统的失落与学科人道主义救赎** 现代比较研究若沉溺于官僚化的指标测验与去语境化的跨国政策借用，必将沦为无灵魂的技术拼盘。卡洛扬纳基与卡扎米亚斯呼吁学界打破方法论拜物教与技术自满，重返现代主义发端奠定的伟大传统：将客观事实调查的实证求真，与人性解放、社会正义、共和公民德性与世界文明互鉴的[[The Sublime|崇高]]伦理关怀重新熔铸为一体，找回学科失落的批判与人文灵魂。（pp.11–13, 33–34）

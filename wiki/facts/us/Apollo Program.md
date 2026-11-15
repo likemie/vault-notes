@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Mission-Oriented Research]]"
   - "[[Paradigm]]"
+  - "[[Alienation]]"
   - "[[Consumer Internet]]"
   - "[[Big Idea Famine]]"
 related_theories: []
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -173,5 +174,5 @@ updated: 2026-11-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统评估阿波罗计划与国防大项目对美国计算机和半导体产业的经济、技术与人才影响，揭示其在加速微型化演进、释放[[Learning Economy|学习经济]]与培育产业骨干中的关键机制。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引阿波罗登月计划作为激进前沿科技突破的标尺，反思当代硅谷野心异化、[[Consumer Internet|消费互联网]]狭隘化与[[Big Idea Famine|大构想饥荒]]。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引阿波罗登月计划作为激进前沿科技突破的标尺，反思当代硅谷野心[[Alienation|异化]]、[[Consumer Internet|消费互联网]]狭隘化与[[Big Idea Famine|大构想饥荒]]。
 > - [[Argument_Yang_2017_MUE|杨九斌 (2017, p. 37)]] — 考证阿波罗计划如何带动联邦研发重心从军工合同向太空与物理科学大规模倾斜，推动大学基础科研经费剧增与民事资助繁荣。

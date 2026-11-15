@@ -11,7 +11,7 @@ aliases:
 summary: "通过显性认知策略、启发式重构工具、建构主义探究环境与情境指导语，系统识别、激发与提升个体与群体创造潜能的教育教学干预方案。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 57
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Creativity]]"
   - "[[Problem Solving]]"
+  - "[[Genius]]"
   - "[[Direct Instruction]]"
   - "[[Critical Thinking]]"
   - "[[Paradigm]]"
@@ -52,6 +53,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Habituation]]"
   - "[[Task Structure]]"
+  - "[[Alienation]]"
   - "[[Determinism]]"
   - "[[Domain Specificity]]"
   - "[[Independent Knowing]]"
@@ -87,11 +89,11 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 > [!def] Creativity Training
-> [[Creativity\|创造力]]训练（Creativity Training）指通过显性讲授认知启发式策略、提供结构化[[Problem Solving\|问题解决]]模型、创设探究性教学情境及运用即时任务指导语，系统识别、激发并提升学习者[[Creativity\|创造潜能]]（Creative Potential）与显性创造表现的教育教学干预方案（Scott et al., 2004; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, pp. 6–8]]）。在教育心理学与教学论中，创造力训练确立了创造潜能的教育可塑性（Educational Malleability），打破了将创造力视为少数天才专属特权或神秘不可测灵感的宿命论偏见。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 1–3)]]
+> [[Creativity\|创造力]]训练（Creativity Training）指通过显性讲授认知启发式策略、提供结构化[[Problem Solving\|问题解决]]模型、创设探究性教学情境及运用即时任务指导语，系统识别、激发并提升学习者[[Creativity\|创造潜能]]（Creative Potential）与显性创造表现的教育教学干预方案（Scott et al., 2004; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, pp. 6–8]]）。在教育心理学与教学论中，创造力训练确立了创造潜能的教育可塑性（Educational Malleability），打破了将创造力视为少数[[Genius|天才]]专属特权或神秘不可测灵感的宿命论偏见。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 1–3)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向可教学、可干预的创造性认知加工技能、问题重构策略与外认知支持环境。
@@ -288,7 +290,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题四｜言语符号即时[[Externalization|外化]]与独立沉思组织形式展现出最强干预增益
-> **教学媒介与互动形式的认知机制** 探讨不同教学方式（言语 vs 思维 vs 技术 vs 情绪）与组织形态（个体练习 vs 小组协作）对创造力激发的差异化效能。
+> **教学媒介与互动形式的认知机制** 探讨不同教学方式（言语 vs 思维 vs 技术 vs 情绪）与组织形态（个体练习 vs 小组协作）对创造力激发的差[[Alienation|异化]]效能。
 
 > [!claim] Guo et al.
 > **言语训练与独立沉思的优势路径** 在各类干预方式中，言语训练通过口头叙述与另类用途即时表达，加速远距离语义检索并解除语义抑制，获得最高效应量（$g = 0.998$）；在组织形式上，独立个体练习（$g = 0.682$）显著优于小组协作（$g = 0.567$），证实个体深思能有效规避群体互动中的评价顾虑（Evaluation Apprehension）与生产力阻塞（Production Blocking）。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 7–9)]]

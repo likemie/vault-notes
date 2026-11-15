@@ -9,7 +9,7 @@ aliases:
 summary: "由 David 与 Arthur 奠基、经 Pierson 扩展至制度分析的演化经济学与制度主义核心理论；阐明历史偶然事件在规模报酬递增、自我强化机制、网络外部性与高转换成本驱动下，如何将技术轨道、产业标准或组织制度锁定于特定均衡；在半导体与高教领域，揭示高校通过“教育即标准”将开源架构内生化为全球产业生态路径依赖的微观机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 38
+theory_related_count: 39
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Market Failure]]"
   - "[[Rule Ambiguity]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Technological Trajectories]]"
   - "[[Evolutionary Economics]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -220,5 +221,5 @@ updated: 2026-11-11
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 批判路径依赖理论的刚性死锁假定，阐发以权力分配与[[Rule Ambiguity|规则模糊性]]为基石的渐进内生演化模型。
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 评析复合技术标准中外围叠加与厚度商对核心标准的路径依赖加固机制，辨析制度再生产与[[Institutional Layering|制度层叠]]的分析边界。
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 揭示国家行政传统（如英美新公共管理传统与欧洲大陆新韦伯主义传统）对全球教育测验问责政策折射的路径依赖效应，表明历史行政遗产锁定国家差异，抑制了全球均质化趋同。（pp. 250, 262–263）
-> - [[Argument_Murray_Moxon-Browne_2013_JCMS|Murray and Moxon-Browne (2013)]] — 将路径依赖运用于跨区域组织比较，揭示二战后西欧主权自救与东南亚后殖民建国传统所锁定的差异化一体化轨道（pp. 524–527）。
+> - [[Argument_Murray_Moxon-Browne_2013_JCMS|Murray and Moxon-Browne (2013)]] — 将路径依赖运用于跨区域组织比较，揭示二战后西欧主权自救与东南亚后殖民建国传统所锁定的差[[Alienation|异化]]一体化轨道（pp. 524–527）。
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 揭示科学学知识网络与学者合作中的拓扑路径依赖：生物医药超图分析表明新成果过度扎堆在相隔一至两步的近邻熟人圈与已知实体，局部过度稠密构筑起阻滞跨界科学发现的路径锁定。（p. 2）

@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 48
+fact_related_count: 49
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Response to Intervention]]"
   - "[[Didaktik]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Alienation]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -84,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -201,6 +202,6 @@ updated: 2026-11-11
 > | [[Response to Intervention]] | [[Didaktik\|教学理论]] | SFA 构建了以预防为导向的三层循证干预金字塔（[[Response to Proven Instruction\|RTPI]]）。 |
 > | [[Comprehensive School Reform Program]] | 联邦政策 | 1990 年代末联邦 CSR 拨款直接推动了 SFA 在全美数千所薄弱校的铺开。 |
 > | [[Educational Evidence Clearinghouses]] | 核心概念 | SFA 是检验多机构评价一致性、文献池差异与变体分层的代表案例。 |
-> | [[What Works Clearinghouse]] | 评价机构 | 对 SFA 开展微观分域审查，揭示了不同技能层面的差异化反应。 |
+> | [[What Works Clearinghouse]] | 评价机构 | 对 SFA 开展微观分域审查，揭示了不同技能层面的差[[Alienation\|异化]]反应。 |
 > | [[Best Evidence Encyclopedia]] | 评价机构 | SFA 创立团队依托 JHU 设立的清算平台，将 SFA 列为强证据标杆。 |
 

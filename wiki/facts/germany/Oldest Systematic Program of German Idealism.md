@@ -11,7 +11,7 @@ subtype: event
 region: germany
 fact_region: "germany"
 fact_kind: "event"
-fact_related_count: 7
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -21,16 +21,18 @@ tags:
   - theme/romanticism
   - region/germany
 related_concepts:
+  - "[[Document]]"
   - "[[New Mythology]]"
   - "[[Philosophical Aesthetics]]"
+  - "[[Alienation]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
-  - "[[Friedrich Wilhelm Joseph Schelling]]"
   - "[[Friedrich Hölderlin]]"
   - "[[Friedrich Schlegel]]"
+  - "[[Friedrich Wilhelm Joseph Schelling]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch04]]"
@@ -43,7 +45,7 @@ updated: 2026-11-15
 ---
 
 > [!claim] 核心定性
-> 《德国唯心论最古老的系统纲领》（*Das älteste Systemprogramm des deutschen Idealismus*，约 1796）是一份以[[Georg Wilhelm Friedrich Hegel|格奥尔格·威廉·弗里德里希·黑格尔]]（Georg Wilhelm Friedrich Hegel）手迹存世、执笔归属在[[Friedrich Wilhelm Joseph Schelling|谢林]]、[[Friedrich Hölderlin|荷尔德林]]、黑格尔乃至第四位匿名撰稿人之间长期存疑的纲领性文献。当代学者迪特·亨利希（Dieter Henrich）将其定性为“鼓动纲领”（program for agitation），该文献要求哲学家必须具备与诗人同等的审美力，并呼吁建构一种“服务于理性的[[New Mythology|新神话]]”以弥合哲学理性、艺术感性与现代政治共同体之间的裂痕。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 76)]]
+> 《德国唯心论最古老的系统纲领》（*Das älteste Systemprogramm des deutschen Idealismus*，约 1796）是一份以格奥尔格·威廉·弗里德里希·[[Georg Wilhelm Friedrich Hegel|黑格尔]]（Georg Wilhelm Friedrich Hegel）手迹存世、执笔归属在谢林、[[Friedrich Hölderlin|荷尔德林]]、黑格尔乃至第四位匿名撰稿人之间长期存疑的纲领性[[Document|文献]]。当代学者迪特·亨利希（Dieter Henrich）将其定性为“鼓动纲领”（program for agitation），该文献要求哲学家必须具备与诗人同等的审美力，并呼吁建构一种“服务于理性的[[New Mythology|新神话]]”以弥合哲学理性、艺术感性与现代政治共同体之间的裂痕。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 76)]]
 
 > [!event-context] 文献背景
 > - **成文时间 / 地理语境** 约 1796 年，产生于德国古典唯心论向早期浪漫主义过渡的思想交汇期。
@@ -65,7 +67,7 @@ updated: 2026-11-15
 ---
 
 > [!indicators] 历史影响维度
-> - **美学与政治的双向整合** 相比后来[[Friedrich Schlegel|弗里德里希·施莱格尔]]（Friedrich Schlegel）更偏重审美维度的方案，该纲领明确把社会政治整合置于[[New Mythology|新神话]]构想的核心位置，旨在使诗意存在取代异化的机械化现代国家。
+> - **[[Philosophical Aesthetics|美学]]与政治的双向整合** 相比后来[[Friedrich Schlegel|弗里德里希·施莱格尔]]（Friedrich Schlegel）更偏重审美维度的方案，该纲领明确把社会政治整合置于[[New Mythology|新神话]]构想的核心位置，旨在使诗意存在取代[[Alienation|异化]]的机械化现代国家。
 > - **早期浪漫派“新神话”思潮的直接先声** 施莱格尔在 1800 年《关于诗的对话》核心篇章《神话演讲》（*Rede über die Mythologie*）中已熟知并呼应该纲领，将诗与神话视为借由绝对者审美确定性联合全人类的媒介。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 76–77)]]
 
 ---

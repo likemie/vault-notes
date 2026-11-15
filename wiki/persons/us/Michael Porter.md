@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Paradigm]]"
   - "[[Competitiveness]]"
+  - "[[Alienation]]"
   - "[[Empiricism]]"
   - "[[Innovation Ecosystem]]"
   - "[[Hub and Flow Imaginaries]]"
@@ -100,7 +101,7 @@ updated: 2026-11-15
 > [!thought-timeline] 思想发展
 > - **1980–1985 — 企业竞争战略与产业组织[[Paradigm|范式]]** 将产业组织经济学的结构-行为-绩效（SCP）范式引入战略管理，探讨企业如何在给定的产业结构中获取超额利润。
 >   - **代表著作** *Competitive Strategy* (1980); *Competitive Advantage* (1985).
->   - **关键概念／方法** 五力分析模型、通用竞争战略（成本领先、差异化、集中化）、价值链分析。
+>   - **关键概念／方法** 五力分析模型、通用竞争战略（成本领先、差[[Alienation|异化]]、集中化）、价值链分析。
 >   - **阶段转向** 突破早期管理学[[Empiricism|经验主义]]描述，将严谨的微观经济学逻辑确立为企业战略分析基石。
 > - **1990–1998 — [[National Competitive Advantage|国家竞争优势]]与产业集群空间理论** 从企业微观战略跨越至宏观国家与中观区域[[Competitiveness|竞争力]]，探讨为何特定国家与特定城市能够在特定高科技产业中孕育出持续领先的领军企业。
 >   - **代表著作** *The Competitive Advantage of Nations* (1990); *On Competition* (1998).

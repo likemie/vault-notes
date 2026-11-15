@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Problem Solving]]"
   - "[[Socioeconomic Status]]"
+  - "[[Alienation]]"
   - "[[Data Infrastructure]]"
   - "[[Test-Based Accountability]]"
   - "[[Policy Entrepreneur]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-26
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -143,7 +144,7 @@ updated: 2026-11-02
 > > - **心理测量团队反驳** 矩阵题本设计大幅降低了学生作答疲劳，大样本常模统计分析证实群体聚合数据具有高度稳健性。
 
 > [!lessons] 经验教训与启示
-> - **实施教训** 抽样测评虽能有效防范一线学校因高利害奖惩而采取的刷题舞弊与课程窄化异化，但若缺乏与学校改进资源的有效衔接，单纯的宏观数据发布难以直接转化为课堂微观教学变革。
+> - **实施教训** 抽样测评虽能有效防范一线学校因高利害奖惩而采取的刷题舞弊与课程窄化[[Alienation|异化]]，但若缺乏与学校改进资源的有效衔接，单纯的宏观数据发布难以直接转化为课堂微观教学变革。
 > - **对未来改革的启示** 确立独立、稳健且不受短期政治选举干扰的客观[[Data Infrastructure|数据基础设施]]（Data Infrastructure），是衡量国家教育公平与诊断真实学业差距的根本基石。
 
 ---

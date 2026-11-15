@@ -9,7 +9,7 @@ aliases:
 summary: "组织社会学新制度主义理论，阐明处于同一场域中的组织因追求制度合法性与采纳合理化神话，通过强制型、模仿型与规范型三种机制走向结构与行为模式的系统性趋同。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 44
+theory_related_count: 46
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Determinism]]"
+  - "[[Mimesis]]"
   - "[[Rationalized Myth]]"
   - "[[Bureaucracy]]"
   - "[[Causality]]"
@@ -40,6 +41,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Initial Teacher Training]]"
   - "[[Demonstration Effect]]"
+  - "[[Alienation]]"
   - "[[Value Neutrality]]"
   - "[[Transnational Education]]"
   - "[[Global Testing Culture]]"
@@ -84,7 +86,7 @@ updated: 2026-11-15
 > - **知识位置** 属于社会学新制度主义（New Institutionalism in Sociology）传统，由保罗·迪马吉奥与沃尔特·鲍威尔（DiMaggio & Powell, 1983）在《铁笼再访》（*The Iron Cage Revisited*）中系统奠定；与微观资源依赖理论及宏观[[World Society Theory|世界社会理论]]形成多尺度对话。
 
 > [!claim] 核心判断
-> 处于同一组织场域中的组织，在生存竞争中不仅受制于技术效率与资源配置，更根本地依赖于制度环境赋予的合法性。组织通过**强制型（Coercive）**、**模仿型（Mimetic）** 与**规范型（Normative）** 三种制度同构机制，将环境中被广泛接受的[[Rationalized Myth|合理化神话]]与文化脚本内化为自身结构，促成场域内部组织形态与治理模式的系统性趋同。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, pp. 183–184)]]; [[Argument_Helgetun_2022_JEdPolicy|(Helgetun & Menter, 2022, pp. 91–92)]]
+> 处于同一组织场域中的组织，在生存竞争中不仅受制于技术效率与资源配置，更根本地依赖于制度环境赋予的合法性。组织通过**强制型（Coercive）**、**[[Mimesis|模仿]]型（Mimetic）** 与**规范型（Normative）** 三种制度同构机制，将环境中被广泛接受的[[Rationalized Myth|合理化神话]]与文化脚本内化为自身结构，促成场域内部组织形态与治理模式的系统性趋同。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, pp. 183–184)]]; [[Argument_Helgetun_2022_JEdPolicy|(Helgetun & Menter, 2022, pp. 91–92)]]
 
 > [!citation-card] 迪马吉奥与鲍威尔论制度同构动力
 > 处于同一组织场域中的组织，在追求制度合法性与应对环境不确定性的过程中，通过强制、模仿与规范过程采纳主导制度规范，从而促成组织形态与结构的系统性趋同。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, p. 183)]]
@@ -187,7 +189,7 @@ updated: 2026-11-15
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 受到高度监管的公共部门（如中小学、大学、医院）及具有成熟行业协会与标杆机构的组织场域。
 > - **成立条件** 场域内存在明确的资源依赖关系、畅通的信息沟通渠道，或具有强大声誉[[Demonstration Effect|示范效应]]的权威机构。
-> - **解释不足** 对完全竞争市场中依靠底层技术突破实现差异化生存的创新机制解释力有限；容易低估微观行动者的反思能动性与日常抵制技巧。
+> - **解释不足** 对完全竞争市场中依靠底层技术突破实现差[[Alienation|异化]]生存的创新机制解释力有限；容易低估微观行动者的反思能动性与日常抵制技巧。
 > - **转化困难** 强制、模仿与规范三种机制在经验现实中往往相互交织重叠，精确区分某一组织变革的主导同构机制需要细致的历史[[Process Tracing|过程追踪]]。
 > - **不能直接推出** 不能仅依据组织结构形态趋同就推断其生产效率或教育质量必然得到实质提升，也不能假定趋同消除了组织内部的利益博弈。
 

@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: canada
 person_region: "canada"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Policy Conditionalities]]"
   - "[[Doctoral Dissertation]]"
   - "[[Global Citizenship]]"
+  - "[[Alienation]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Democratic Education]]"
   - "[[Critical Pedagogy]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -81,7 +82,7 @@ updated: 2026-11-11
 
 > [!work-line] 主要著作
 > - **1994 — *Global Economic Restructuring and University Change: The Case of Universidad de Buenos Aires***（博士论文）开创性论证了[[World Bank|世界银行]]与[[Business Roundtable|美国商业圆桌会]]在教育治理改革中的[[Selective Affinity|选择性亲和]]，以阿根廷布大为标本剖析了公立大学被迫转轨市场化创收的制度暴力。[[Argument_Olmos_Torres_2009_StateTheories|(Schugurensky, 1994; Olmos & Torres, 2009, p. 81)]]
-> - **2000 — *The Social and Political Context of Higher Education Restructuring*** 系统梳理新自由主义全球化下高等教育从“公共产品”向“知识商品”异化的跨国政治经济学机制。
+> - **2000 — *The Social and Political Context of Higher Education Restructuring*** 系统梳理新自由主义全球化下高等教育从“公共产品”向“知识商品”[[Alienation|异化]]的跨国政治经济学机制。
 > - **2007 — *Four Models of Adult Education: A Philosophical and Historical Comparison*** 辨析新自由主义[[Human Capital Theory|人力资本]]模型与解放性批判意识模型在成人教育中的对立。
 > - **2011 — *Participatory Democracy and Civic Education*** 探讨全球南方基层社会如何通过参与式预算等自主空间重构民主实践。
 

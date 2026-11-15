@@ -15,10 +15,10 @@ aliases:
 summary: "一手文献是由事件直接亲历者记录或原始实证研究生成的原始数据材料；二手文献是通过对一手文献的选择、分析、改写或综合形成的派生阐述。在循证教育与社会科学中，一手与二手文献在理解门槛、信息保真度与实践转化效能上呈现出显著的方法学差异。"
 type: concept
 domain: "research-methodology"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - concept/research-methodology
   - method/historical-research
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Effective Teaching]]"
   - "[[Months of Progress]]"
+  - "[[Alienation]]"
   - "[[Null Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Literature Review]]"
@@ -84,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-24
-updated: 2026-11-10
+updated: 2026-11-15
 ---
 
 ---
@@ -123,7 +124,7 @@ updated: 2026-11-10
 > [!feature] 核心要素
 > - **一手文献的原始性与事实直接性** 包含对事件、实验条件、被试分组基线、[[Pre-test and Post-test|前测与后测]]原始数据分布及流失情况的完整无修饰记录。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 584–586)]]
 > - **二手文献的转译性与综合导航性** 运用[[Umbrella Review|伞状综述]]或[[Meta-meta-analysis|二阶元分析]]提炼宏观模式，开发[[Months of Progress|月度进步指标]]等通俗衍生参数以降低专业阅读门槛。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 576–580)]]
-> - **两类文献的转化负荷落差** 一手文献要求高阶统计素养，直接下沉课堂易诱发理解偏差与形式主义异化；二手文献虽然易读，但被动阅读难以打破教师深层教学惯性。
+> - **两类文献的转化负荷落差** 一手文献要求高阶统计素养，直接下沉课堂易诱发理解偏差与形式主义[[Alienation|异化]]；二手文献虽然易读，但被动阅读难以打破教师深层教学惯性。
 > - **实证史学中的多源互证** 在历史与跨国研究中，一手田野资料、档案日记与二手诠释性著作相互印证，共同支撑因果解释的有效性。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 130–131)]]
 
 > [!logic-map]- 文献形态与实践转化机制模型

@@ -7,7 +7,7 @@ title: "Argument_Chou_2017_PolSoc"
 argument_key: "Argument_Chou_2017_PolSoc"
 argument_display_title: "Higher education regionalism in Europe and Southeast Asia: Comparing policy ideas"
 argument_kind: "journal-article"
-argument_related_count: 60
+argument_related_count: 63
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[ASEAN Way]]"
   - "[[Falsification]]"
   - "[[Unit of Analysis]]"
+  - "[[Mimesis]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
   - "[[Norm Localisation]]"
@@ -61,6 +62,7 @@ related_concepts:
   - "[[Peer Pressure]]"
   - "[[Epistemic Friction]]"
   - "[[Dialogue in Education]]"
+  - "[[Alienation]]"
   - "[[Scale of Measurement]]"
 related_theories:
   - "[[Comparative Regionalism]]"
@@ -74,7 +76,8 @@ related_methods:
   - "[[Fieldwork]]"
   - "[[In-depth Interview]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Chulalongkorn]]"
 related_facts:
   - "[[Bologna Process]]"
   - "[[ASEAN]]"
@@ -104,7 +107,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-29
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -117,7 +120,7 @@ updated: 2026-11-11
 
 > [!concept-lens] 阅读透镜
 > - **对象** 欧洲（[[EU|欧洲联盟]]（European Union, EU）与博洛尼亚进程 48 个参与国）与东南亚（ASEAN 十国与[[SEAMEO|东南亚教育部长组织]]）的高等教育区域一体化倡议、多边治理机构及关键政策官员与决策者。
-> - **张力** [[Comparative Regionalism|比较区域主义]]理论中普遍预设的欧洲中心主义单向扩散假说（假定非欧洲区域必然通过政策借鉴、规制竞争或规范模仿吸收博洛尼亚模板）与东南亚后殖民历史下深层主权防卫、组织职能分立及维护多样性本土诉求之间的实质张力。
+> - **张力** [[Comparative Regionalism|比较区域主义]]理论中普遍预设的欧洲中心主义单向扩散假说（假定非欧洲区域必然通过政策借鉴、规制竞争或规范[[Mimesis|模仿]]吸收博洛尼亚模板）与东南亚后殖民历史下深层主权防卫、组织职能分立及维护多样性本土诉求之间的实质张力。
 > - **贡献** 确立了基于政策部门的比较区域主义分析[[Paradigm|范式]]，将观念细化为被解释[[Variable|变量]]（界定区域主义性质与目标的政策理念）与解释变量（宏观区域合作模式与全球知识经济话语），通过扎实的一手田野证据揭示了发展中国家区域高等教育空间建构的内生动力与自主机制。
 
 ---
@@ -227,7 +230,7 @@ updated: 2026-11-11
 > [!sub-claim] 2. 东盟大学联盟聚焦名校务实结网，高教中心主导部委政策对接
 
 > [!line-a] 东盟大学联盟（AUN）：精英高校网络与微观务实协同
-> - **组织属性与定位** 1995 年依托曼谷朱拉隆功大学设立常设秘书处，决策权由成员国顶尖高校校长主导。
+> - **组织属性与定位** 1995 年依托曼谷[[Chulalongkorn|朱拉隆功]]大学设立常设秘书处，决策权由成员国顶尖高校校长主导。
 > - **协作逻辑与范围** 严格限制于东盟 30 所[[Research Universities|研究型大学]]，遵循自愿参与和经费自筹原则，深耕微观学科网。
 > - **代表性政策工具** 研制《质量保障指南》(AUN, 2007) 与[[ASEAN Credit Transfer System|东盟学分转移系统]]（ASEAN Credit Transfer System, ACTS），推动具体专业层面的实质连通。
 
@@ -280,7 +283,7 @@ updated: 2026-11-11
 > [!critique-data] 对[[Bologna Process Export Thesis|博洛尼亚进程输出假说]]三大扩散机制的实证证伪
 > - **经验借鉴机制（Lesson-Drawing）在田野中破产** 主流扩散理论假定后发区域会主动借鉴成熟组织的先进治理方案以提高效率；然而东南亚教育部长组织高教中心 2008 年受命开展的官方测绘报告明确指出，博洛尼亚模式在亚洲引发了广泛疑虑，在规划本土进程时必须审慎规避其自上而下的同构趋同路径 (SEAMEO RIHED, 2008, p. 82)。
 > - **制度竞争机制（Competition）在实证中失灵** 扩散理论假定其他区域为争夺全球生源与声誉，会被动效仿欧洲建立防御性同构架构；东南亚国家在实践中保持审慎态度，继续深耕微观学科合作网络与双边学分协议，其制度演化高度遵循本土发展逻辑。
-> - **规范模仿机制（Emulation）在经验上脱靶** 扩散理论假定区域组织为寻求国际合法性会模仿主导型国际组织的规范与仪式；东南亚行动者始终将后殖民国家主权防卫与[[ASEAN Way|东盟方式]]置于最高规范位阶，断然拒绝为了所谓的国际前沿合法性而牺牲国内教育制度自主权。
+> - **规范[[Mimesis|模仿]]机制（Emulation）在经验上脱靶** 扩散理论假定区域组织为寻求国际合法性会模仿主导型国际组织的规范与仪式；东南亚行动者始终将后殖民国家主权防卫与[[ASEAN Way|东盟方式]]置于最高规范位阶，断然拒绝为了所谓的国际前沿合法性而牺牲国内教育制度自主权。
 
 > [!citation-card] 东南亚明确拒绝将博洛尼亚进程作为效仿样板
 > 东南亚政策官员的访谈记录以及官方评估报告均表明，博洛尼亚输出假说及比较区域主义的扩散预设过于简单且具误导性。阿米塔夫·阿查亚（Amitav Acharya）的[[Norm Localisation|规范本土化]]（Norm Localisation）概念更为准确地解释了这一进程：概念虽会流动，但其落地完全受制于本土行动者主动行使的转译与裁量权威。东南亚行动者在寻求最佳实践时，明确拒绝将博洛尼亚进程作为应当效仿的样板。各国在建设高教空间时坚持捍卫主权，探索出一条立足本土的多边协调路径。
@@ -295,7 +298,7 @@ updated: 2026-11-11
 
 > [!sub-claim] 3. 比较区域主义必须跳出欧洲中心主义，立足政策部门与实地田野
 
-> [!chain-link] 跨国政策理念在区域部门中的差异化转译与制度成型机制
+> [!chain-link] 跨国政策理念在区域部门中的差[[Alienation|异化]]转译与制度成型机制
 > - **前提：跨国观念与制度场景** 全球知识经济话语与跨国流动倡议在世界各大地理区域广泛传播，构成各区域政策协调的共同宏观背景。
 > - **机制：宏观合作[[Paradigm|范式]]的路径过滤** 各区域长期延续的宏观合作范式（欧洲的超国家融合传统 vs 东南亚的后殖民国家主权防卫与东盟方式）对外部跨国理念发挥决定性筛选作用。
 > - **机制：部门权力配置的差异化制度化** 宏观范式引导行动者选择特定的组织分工形态（欧洲将权力向博洛尼亚平台集中；东南亚将权力刻意割裂在高校联盟与政府部委两个独立平台）。

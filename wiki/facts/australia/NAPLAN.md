@@ -11,7 +11,7 @@ subtype: program
 region: "australia"
 fact_region: "australia"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[School Inspection]]"
   - "[[Assemblage]]"
   - "[[Performativity]]"
+  - "[[Alienation]]"
   - "[[Heterogeneity]]"
   - "[[School Choice]]"
   - "[[National Large-Scale Assessments]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -105,7 +106,7 @@ updated: 2026-11-11
 > [!finding-cards] 核心实证结论
 > - **[[Assemblage|政策装配]]与治理模式重构** 经验研究表明，NAPLAN 数据构成了一种新型“政策装配”（policy assemblage），促成了联邦政府、州官僚机构、媒体与资本市场的联动运作。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
 > - **课程窄化与[[Performativity|表演性]]应试** 统考的常态化导致学校普遍削减艺术、科学和体育课时，大量开展模拟考题操练，诱发了广泛的教育表演主义与师生心理压力。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 256, 259)]]
-> - **次国家级问责的非对称加码** 地方各州在运用数据时展现出差异化的规制强度，部分州采取温和支持，而另一些州则引入刚性校长合同考核，展现出分权政体下的治理[[Heterogeneity|异质性]]。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
+> - **次国家级问责的非对称加码** 地方各州在运用数据时展现出差[[Alienation|异化]]的规制强度，部分州采取温和支持，而另一些州则引入刚性校长合同考核，展现出分权政体下的治理[[Heterogeneity|异质性]]。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
 
 > [!stat-cards]- 关键实证数据
 > - **2008** 澳大利亚正式推行 NAPLAN 全澳统考的首测年份。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]

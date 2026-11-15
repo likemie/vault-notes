@@ -11,7 +11,7 @@ aliases:
 summary: "指认识主体在探究过程中有效构思、表达、调整和深化问题的可习得认知程序性技能。区别于作为理智品格的美德，提问技能聚焦于问题结构的精细化与探究路径的定向。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Deliberate Practice]]"
+  - "[[Alienation]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Scaffolding]]"
   - "[[Epistemic Virtues and Vices]]"
@@ -59,13 +60,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Skill of Questioning
-> 提问技能（Skill of Questioning）是指认识主体在学习与求知过程中，能够清晰表达自身认知缺口、合逻辑地构建具有高阶认知价值的问题、并依据探究情境灵活调整问题焦点与层次的可习得智力技能。在教育[[Epistemology|认识论]]中，提问技能构成了智力技能（Intellectual Skills）的核心支柱，其可以通过[[Deliberate Practice|刻意练习]]与外部支架训练掌握；但拥有提问技能并不等同于具备追求真理的理智品格，若缺乏对认知善品（Epistemic Goods）的内在热爱，提问技能可能被异化为诡辩或功利性应试工具。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 272–274)]]
+> 提问技能（Skill of Questioning）是指认识主体在学习与求知过程中，能够清晰表达自身认知缺口、合逻辑地构建具有高阶认知价值的问题、并依据探究情境灵活调整问题焦点与层次的可习得智力技能。在教育[[Epistemology|认识论]]中，提问技能构成了智力技能（Intellectual Skills）的核心支柱，其可以通过[[Deliberate Practice|刻意练习]]与外部支架训练掌握；但拥有提问技能并不等同于具备追求真理的理智品格，若缺乏对认知善品（Epistemic Goods）的内在热爱，提问技能可能被[[Alienation|异化]]为诡辩或功利性应试工具。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 272–274)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向认知主体识别知识边界、将模糊好奇转化为结构化探究指令并推动深层理解的程序性智力操作能力。

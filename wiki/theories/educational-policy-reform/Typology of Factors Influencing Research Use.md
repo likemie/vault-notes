@@ -10,7 +10,7 @@ aliases:
 summary: "整合 Humphries et al. (2014) 跨领域综述与 Best & Holmes (2010) 三代模型构建的教育研究利用影响因素分析框架，将促成机制与阻碍障壁划分为信息、互动、个体特征、结构与组织、文化五大维度，并揭示供需倒挂与系统性协调机制"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 37
+theory_related_count: 38
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Dependent Variable]]"
   - "[[Evidence Ecosystem]]"
+  - "[[Alienation]]"
   - "[[Heterogeneity]]"
   - "[[Research Literacy]]"
   - "[[Categorical Funding]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -103,7 +104,7 @@ updated: 2026-10-30
 
 ---
 
-> [!proposition-chain] 核心命题一｜影响教育[[Research Utilization\|研究利用]]的因素横跨五大异质维度并在政策与实践情境中呈现差异化权重与非对称表现
+> [!proposition-chain] 核心命题一｜影响教育[[Research Utilization\|研究利用]]的因素横跨五大异质维度并在政策与实践情境中呈现差[[Alienation|异化]]权重与非对称表现
 > - **前提一（要素五维分类与[[Heterogeneity\|异质性]]）** 影响研究利用的因素不可简化为单一维度的技术或认知问题，而是横跨信息、互动、个体特征、结构与组织、文化五大维度；每个维度同时包含正向促成机制与反向阻碍障壁。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 106, 122–123)]]
 > - **前提二（双情境现实权重的结构分化）** 政策制定端与教学实践端面临的突出障壁具有结构性差异：政策端最突出障壁为“研究产出时间与决策周期冲突”（68%）和“缺乏政策需求映射”（49%）；而学校教学实践端最突出障壁为“教师缺乏阅读研究的时间”（76%）和“缺乏研训与分析技能”（54%）。
 > - **推导** ① 研究证据流动不仅受制于单一供给质量，更是多维制度生态互动的结果；② 针对不同场景必须因地制宜配置干预手段，不可将政策制定端的机制生搬硬套至教学实践端。

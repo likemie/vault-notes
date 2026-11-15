@@ -8,7 +8,7 @@ aliases:
 summary: "专业知识生产者或治理机构通过创设高门槛的专门术语、复杂心理测量学模型、严苛准入资质与算法黑箱，将非专业公众与外行质疑排斥在决策审议之外的话语与技术屏障。在教育治理中，面对“专家知识民主化”（人人自诩教育专家）带来的普遍公众争鸣，政策中介机构（如世行与 OECD）策略性利用随机对照试验（RCTs）、潜变量 IRT 模型与指标矩阵等排除性技术，为政策决策构筑不可逾越的科学理性与专业权威护城河。"
 type: concept
 domain: "comparative-education"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Cognitive Authority]]"
   - "[[The Sublime]]"
+  - "[[Alienation]]"
   - "[[Return on Investment]]"
   - "[[Evidence-Based Education]]"
   - "[[Governing by Numbers]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -115,7 +116,7 @@ updated: 2026-11-14
 
 ---
 
-> [!concept-proposition] 命题二｜排除性技术将不可调和的政治价值取舍异化为纯粹的技术参数调整
+> [!concept-proposition] 命题二｜排除性技术将不可调和的政治价值取舍[[Alienation|异化]]为纯粹的技术参数调整
 > **政治去政治化与技术官僚自利循环** 围绕技术壁垒如何帮助政府和中介机构逃避价值伦理追责展开。
 
 > [!claim] Steiner-Khamsi et al.

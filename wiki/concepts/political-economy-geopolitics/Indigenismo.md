@@ -7,7 +7,7 @@ aliases:
 summary: "本尼迪克特·安德森剖析的美洲克里奥尔精英建构的民族认同与文化意识形态。操着欧洲殖民语言的土生白人统治阶层通过反向腹语术，代表被其殖民先辈消灭的前哥伦布印第安古代文明发声，将灭绝土著重塑为现代民族国家的远古源头，借以弥补缺乏独立语言谱系带来的时间深度匮乏。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Reversed Ventriloquism]]"
   - "[[Nationalism]]"
+  - "[[Alienation]]"
   - "[[Paradigm]]"
   - "[[National Biography]]"
   - "[[Creole Nationalism]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-14
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -58,7 +59,7 @@ updated: 2026-11-14
 > [!boundary]- 概念边界
 > - 区别于原生土著自决运动（Indigenous Self-Determination）：当代原住民运动由活态印第安社群领导，使用本土原生语言捍卫土地所有权与自治司法权；国家土著主义则是白人与混血精英在掌控政权后，利用已逝古代文明装点官方历史叙事。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, p. 203)]]
 > - 区别于欧洲语言[[Nationalism|民族主义]]：欧洲民族主义依托本土方言调查确立民族本质；拉美克里奥尔社会因与母国共享语言，无法通过语言差异建立古老世系，只能转向古代考古遗址与土著废墟建构国家图腾。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, p. 201)]]
-> - 区别于传统种族清洗理论：传统征服者理论主张彻底肉体灭绝与种族同化；土著主义则展现出“物理消灭活人、精神崇拜死者”的双重异化特征。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 202–203)]]
+> - 区别于传统种族清洗理论：传统征服者理论主张彻底肉体灭绝与种族同化；土著主义则展现出“物理消灭活人、精神崇拜死者”的双重[[Alienation|异化]]特征。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 202–203)]]
 
 ---
 

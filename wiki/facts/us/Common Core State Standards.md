@@ -12,7 +12,7 @@ subtype: policy
 region: "us"
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 41
+fact_related_count: 43
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dbeafe"
@@ -28,10 +28,12 @@ related_concepts:
   - "[[College and Career Readiness]]"
   - "[[Learning Progression]]"
   - "[[Policy Window]]"
+  - "[[Alienation]]"
   - "[[Policy Entrepreneur]]"
   - "[[Discourse]]"
   - "[[Scaffolding]]"
   - "[[Academic Achievement]]"
+  - "[[Curriculum Alignment]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Professional Judgment]]"
   - "[[Problem Finding]]"
@@ -74,7 +76,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-24
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -123,7 +125,7 @@ updated: 2026-11-11
 > - **国家网络设计** 起草专家组基于[[College and Career Readiness|大学与职业就绪]]标准自上而下逆向倒推（[[Backward Mapping]]）形成年级标准；整合认知心理学学习轨迹研究（如 K–2 早期数学进阶）与国际基准比较。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 13–14)]]
 > - **专业中介审阅** [[American Federation of Teachers|美国教师联合会]]（AFT）与[[National Education Association|全美教育协会]]（[[National Education Association|NEA]]）组建骨干教师评审团队，多轮面谈反馈文本可行性与课堂教学适用性，剔除过于抽象的学术行话。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 15)]]
 > - **慈善资金网络** [[Bill & Melinda Gates Foundation|比尔与梅琳达·盖茨基金会]]在 2009–2010 年间注资 8,900 万美元（5,000 万美元直接资助 18 个全国组织，3,900 万美元资助 10 家服务商与 20 个州地方教育局），构建起全美统一游说、信息推广与技术辅导网络。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 22)]]
-> - **各州差异化采纳落地** 各州教育行政首长与州教育委员会（SBE）主导法定采纳；高标准州（马萨诸塞、加州）依托智库逐条对标（Crosswalks）化解严苛派阻力，低及格线州（田纳西）以 90% 州测 vs 28% [[National Assessment of Educational Progress|NAEP]] 熟练断层的危机证据说服议会并夺得[[Race to the Top|力争上游]]（RTTT）首期资助。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 17–18)]]
+> - **各州差[[Alienation|异化]]采纳落地** 各州教育行政首长与州教育委员会（SBE）主导法定采纳；高标准州（马萨诸塞、加州）依托智库逐条对标（Crosswalks）化解严苛派阻力，低及格线州（田纳西）以 90% 州测 vs 28% [[National Assessment of Educational Progress|NAEP]] 熟练断层的危机证据说服议会并夺得[[Race to the Top|力争上游]]（RTTT）首期资助。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 17–18)]]
 > - **跨州测评实施与草根退考抵抗** 伴随各州将 CCSS 内容嵌入 PARCC 和 Smarter Balanced 跨州统考并与高利害问责挂钩，纽约州等地中产家庭掀起大规模[[Opt-Out Movement|退考运动]]（Opt-Out Movement），草根反测验联盟成功选举退考家长进入学区教育董事会，倒逼学区与州政府改进测评设计并放宽问责制裁。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 261–262)]]
 
 ---
@@ -196,7 +198,7 @@ updated: 2026-11-11
 > > 学界围绕课程标准的严格程度能否切实提高统考成绩展开了持久的实证交锋。
 > >
 > > - **汤姆·洛夫利斯（Tom Loveless, 2012）** 指出各州以往课程标准的质量评级与该州实际 [[National Assessment of Educational Progress|NAEP]] 统考成绩之间完全不存在统计相关性，标准评级高的州并未展现出更好的学业产出。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 21)]]
-> > - **[[William H. Schmidt|威廉·H·施密特]]与理查德·T·黄（William H. Schmidt & Richard T. Houang, 2012）** 构建课程一致性模型反驳指出，原先标准越接近 CCSS 的州，其 NAEP 实际成绩越高，且提分速度显著更快。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 21–22)]]
+> > - **[[William H. Schmidt|威廉·H·施密特]]与理查德·T·黄（William H. Schmidt & Richard T. Houang, 2012）** 构建[[Curriculum Alignment|课程一致性]]模型反驳指出，原先标准越接近 CCSS 的州，其 NAEP 实际成绩越高，且提分速度显著更快。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 21–22)]]
 >
 > > [!axis] 高利害统考捆绑与家长[[Opt-Out Movement|退考运动]]（Opt-Out Movement）
 > > 伴随标准与联邦《[[Race to the Top|力争上游]]》强利害问责测试绑定，引发了全美范围的草根公众反弹。

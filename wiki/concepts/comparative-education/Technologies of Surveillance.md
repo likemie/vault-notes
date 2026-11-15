@@ -9,10 +9,10 @@ aliases:
 summary: "在跨国教育软法治理与比较教育研究中，指依托数据化表征、跨国排位与同行评审促成政策合规的整套操作化技术工具，主要由凝视技术（Theasis）、绩效技术（Performance）与治理技术（Governance）三重维度构成，促使被监视国家在无行政强制的情境下实现政策自我审查与看齐。"
 type: concept
 domain: "comparative-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/comparative-education
   - surveillance
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Peer Pressure]]"
   - "[[Research Tool]]"
+  - "[[Alienation]]"
   - "[[Governing by Numbers]]"
   - "[[Epistemology]]"
 related_theories:
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-28
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -100,7 +101,7 @@ updated: 2026-11-11
 
 > [!applications] 比较教育与政策治理应用
 > - **解构跨国教育软法治理的微观效力** 阐明为何没有法律强制与制裁措施的开放协调法能够强力促动主权国家推进教育改革，揭示数据可见性所具有的深层政治强制力。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 492–493)]]
-> - **揭示比较教育[[Research Tool|研究工具]]的治理化异化** 诺沃亚等人指出，传统以促进国际理解为初衷的比较教育指标与比较调查，在监视技术的作用下异化为超国家集团掌舵与控制民族国家的权力工具。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480, 492)]]
+> - **揭示比较教育[[Research Tool|研究工具]]的治理化[[Alienation|异化]]** 诺沃亚等人指出，传统以促进国际理解为初衷的比较教育指标与比较调查，在监视技术的作用下异化为超国家集团掌舵与控制民族国家的权力工具。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480, 492)]]
 
 ---
 

@@ -8,7 +8,7 @@ aliases:
 summary: "政策认识论与知识利用核心构念，指决策系统在不同政策阶段对知识类型的二元分工：问题界定知识立足本土情境，揭示既有教育体制痛点与现状诊断；解决方案知识聚焦干预措施的因果效应，通常跨越国界调取外部实证研究，解释了政策制定中“问题呼唤本土化、方案借用外部因果”的结构性张力。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Evidence-Based Policy-Making]]"
   - "[[Research Utilization]]"
   - "[[Paradigm]]"
+  - "[[Alienation]]"
   - "[[Context in Comparative Education]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-09
-updated: 2026-11-10
+updated: 2026-11-15
 ---
 
 ---
@@ -89,7 +90,7 @@ updated: 2026-11-10
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Evidence-Based Policy-Making]] | Concept | 该二分概念致力于深化解构的循证政策[[Research Utilization\|知识利用]][[Paradigm\|范式]]。 |
-> | [[Policy-Based Evidence-Making]] | Concept | 方案寻找知识在决策实践中常被逆向异化的政策导向型证据制造机制。 |
+> | [[Policy-Based Evidence-Making]] | Concept | 方案寻找知识在决策实践中常被逆向[[Alienation\|异化]]的政策导向型证据制造机制。 |
 > | [[Context in Comparative Education]] | Concept | 阐释问题知识深嵌本土小写背景、方案知识借助大写背景跨国流动的理论。 |
 > | [[Danish Public School Reform]] | Fact (Policy) | 首次实证提炼并展现该知识二分运作逻辑的丹麦改革案例。 |
 

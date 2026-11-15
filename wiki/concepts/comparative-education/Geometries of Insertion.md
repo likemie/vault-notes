@@ -6,10 +6,10 @@ aliases:
 summary: "Robert Cowen（2009）提出的理论关切，指将“情境”驯服为可操作变量后，用于分析将一处所造的思想与实践精确植入另一处的嵌入几何学，并对这种社会克隆技术提出政治、伦理与长时段后果的拷问"
 type: concept
 domain: "comparative-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/comparative-education
   - theory/transfer-frameworks
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Educational Immunology]]"
   - "[[Examination Hell]]"
+  - "[[Alienation]]"
   - "[[Normal School]]"
   - "[[Pragmatic Paradigm]]"
   - "[[National Rejuvenation Narrative]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-06
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -89,7 +90,7 @@ updated: 2026-10-22
 ---
 
 > [!case] 案例一：强制性几何嵌入（战后德日的不同抗性）
-> 二战后，盟国占领当局在德、日推行了几乎平行的教育民主化蓝图。在美国占领下的日本，驻日盟军总司令部（General Headquarters of the Allied Powers，GHQ）强推美式单轨制（6-3-3-4 学制）以废除战前军国主义复轨体制，虽然该学制外在结构被完整保留，但被本土极其残酷的升学[[Examination Hell\|考试地狱]]（Examination Hell）与大学声望层级彻底拉长[[Shape-Shifting\|形变]]，异化为服务于阶级筛选的分流工具。而在德国，美占德国军事政府（Office of Military Government, United States，OMGUS）强推综合中学（Einheitsschule）以瓦解传统阶级分化，但遭到保守教育精英和地方各州（Länder）政府的联合抵制，在长时段博弈中彻底灭绝了美式综合中学，强力保留了文科中学（Gymnasium）、实科中学（Realschule）和主体中学（Hauptschule）的欧式传统三轨制。相同的转移输入在不同接受国演化出截然相反的制度形状（p. 323）。
+> 二战后，盟国占领当局在德、日推行了几乎平行的教育民主化蓝图。在美国占领下的日本，驻日盟军总司令部（General Headquarters of the Allied Powers，GHQ）强推美式单轨制（6-3-3-4 学制）以废除战前军国主义复轨体制，虽然该学制外在结构被完整保留，但被本土极其残酷的升学[[Examination Hell\|考试地狱]]（Examination Hell）与大学声望层级彻底拉长[[Shape-Shifting\|形变]]，[[Alienation|异化]]为服务于阶级筛选的分流工具。而在德国，美占德国军事政府（Office of Military Government, United States，OMGUS）强推综合中学（Einheitsschule）以瓦解传统阶级分化，但遭到保守教育精英和地方各州（Länder）政府的联合抵制，在长时段博弈中彻底灭绝了美式综合中学，强力保留了文科中学（Gymnasium）、实科中学（Realschule）和主体中学（Hauptschule）的欧式传统三轨制。相同的转移输入在不同接受国演化出截然相反的制度形状（p. 323）。
 
 > [!case] 案例二：同化性几何嵌入（大英自治领的社会再发明）
 > 19世纪加拿大上加拿大的教育局长赖森（Egerton Ryerson）等人，为了在新土地上发明社会秩序，主动引入大英帝国的学校几何。他们依靠完全平移的母国教科书、考试体制和[[Normal School\|师范学校]]，企图以极高精度复制英格兰的阶级阶层理念与道德纪律。这种嵌入几何旨在通过教育的物理性同化，消除流民与异质人口的离心力，建立起服务于殖民统治与阶级控制的稳定秩序（p. 318）。

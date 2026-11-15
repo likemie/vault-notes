@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ tags:
   - "theme/semiconductor"
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Alienation]]"
   - "[[Co-Design]]"
   - "[[Reliability]]"
   - "[[Precompetitive Research]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -72,7 +73,7 @@ updated: 2026-11-02
 > UPCRC 的制度假说在于：面对全行业基础技术底座发生质变的危机，单个企业无法凭借专有研发独立破局；必须由硬件制造领军企业与系统软件平台龙头缔结前竞争联盟，为学术界提供充裕、非排他性的长期研发资助，激励顶尖高校从底层体系结构、编程模型、编译器、运行时系统到前沿应用进行全栈式探索，并将成果全面开源开放与融入本科基础教学，进而撬动整个产业生态的[[Paradigm|范式]]转变。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 234–236)]]
 
 > [!policy-design] 方案设计与站点分工
-> - **双中心差异化分工** 为避免重复投入并覆盖并发计算全链条，项目在两所大学进行了明确的战略定位切割：
+> - **双中心差[[Alienation|异化]]分工** 为避免重复投入并覆盖并发计算全链条，项目在两所大学进行了明确的战略定位切割：
 >   - **加州大学伯克利分校（UC Berkeley UPCRC）** 聚焦消费级/桌面与互联网并发应用程序、并行算法、可复用设计模式（Design Patterns）以及普通终端用户的并行交互体验，着力解决普通软件工程师难以驾驭并发代码的痛点。(Green, 2008，转引自 [[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, p. 234]])
 >   - **伊利诺伊大学厄巴纳-香槟分校（UIUC UPCRC）** 聚焦系统级基础软件、并发编译器优化、计算机体系结构[[Co-Design|协同设计]]以及高[[Reliability|可靠性]]并发运行环境，重点攻关硬件多核与底层操作系统之间的桥接瓶颈。
 > - **前竞争知识产权与开源共享** 赞助企业与校方达成前竞争（[[Precompetitive Research|precompetitive]]）共识协议，所有研究产出的基础编程模型、算法库、教学大纲与实验原型完全向学术界和产业界开源共享，不设置排他性专利技术壁垒，以最快速度促进全球软件生态普及。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 234–235)]]

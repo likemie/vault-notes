@@ -11,7 +11,7 @@ aliases:
 summary: "由澳大利亚莫纳什大学 Q 项目提出的研究使用理论框架，将质量使用界定为对适切研究证据的审慎参与与实施，受个体、组织与系统多层使能构件协同支持，提炼出六大实践特征并广泛应用于学校实践与跨国政策生态诊断"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 50
+theory_related_count: 51
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Poor Research Use]]"
   - "[[Construct]]"
   - "[[Individualised Instruction]]"
+  - "[[Alienation]]"
   - "[[Translational Research]]"
   - "[[Knowledge Mediation]]"
   - "[[Problem Finding]]"
@@ -83,7 +84,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -144,7 +145,7 @@ updated: 2026-11-11
 > [!example|notitle]
 > 在一所专门招收肢体与智力残障学生的政府特殊学校中，普通教师 Genevieve 的循证实践依托于组织使能支柱。校长深入教学一线，每周与教师开展 1 小时一对一深度指导，研讨学术文献在[[Individualised Instruction|个别化教学]]中的落地；学校建立制度化的专业学习共同体，安排专有时间供教师研读交流，化解了单一教师在专业转化中的孤立无援。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson, Walsh, et al., 2022, p. 188)]]
 
-> [!theory-proposition] 命题三｜缺乏组织排程保障与专有时间时，个体意愿无法持续转化，必然异化为业余沉重负担或浅层交易型技术采购
+> [!theory-proposition] 命题三｜缺乏组织排程保障与专有时间时，个体意愿无法持续转化，必然[[Alienation|异化]]为业余沉重负担或浅层交易型技术采购
 > 审慎研读研究与开展教学调适高度依赖时间与精力投入。澳大利亚中小学调查显示，76% 的受访者在校期间严重缺乏时间接触研究，59% 不得不在放学后留校加班研读，69% 牺牲周末休息时间；61% 的教育者表示由于获取与[[Translational Research|转化研究]]耗费过多时间，导致使用研究显得并不划算。在宏观政策与中观学校缺乏制度化排程与行政减负时，行动者的高主观承诺度无法转化为高质量审议，发生功能性畸变：要么异化为透支教师个人业余时间的道德负担，要么退化为只图速效方案的表面文章与浅层交易型采购。[[Argument_Rickinson_2022_UsingResearchWell|(Rickinson, Walsh, et al., 2022, pp. 190–193)]]; [[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, pp. 92–95)]]
 
 > [!example|notitle]

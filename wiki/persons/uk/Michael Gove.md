@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: "uk"
 person_region: "uk"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Policy Avoidance]]"
   - "[[Output-Oriented Governance]]"
   - "[[Scientific Autarky]]"
+  - "[[Alienation]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-26
+updated: 2026-11-15
 ---
 
 ---
@@ -147,7 +148,7 @@ updated: 2026-10-26
 > [!debates] 学术与公共争议
 >
 > > [!axis] 循证[[Scientific Autarky\|科学自主]]中立 vs 新自由主义政治工具化
-> > 争论焦点在于戈夫在任内究竟是推动了客观实证决策的发展，还是将实证证据异化为了强推既定意识形态政策的修辞包装。
+> > 争论焦点在于戈夫在任内究竟是推动了客观实证决策的发展，还是将实证证据[[Alienation|异化]]为了强推既定意识形态政策的修辞包装。
 > >
 > > - **制度赞赏立场（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）** 肯定其创立 [[Education Endowment Foundation\|EEF]] 留本基金与[[Pupil Premium\|学生津贴]]的远见，认为其搭建了将科研与政客直接干预物理隔离的现代治理防线。
 > > - **批判解构立场（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）** 揭露其选择性借用 [[PISA]] 数据并大面积实施遗漏[[Discourse|话语]]，抨击其在推行[[Performance Pay\|绩效工资]]与惩罚性督导时完全漠视相反实证证据的“借壳上市”手法。

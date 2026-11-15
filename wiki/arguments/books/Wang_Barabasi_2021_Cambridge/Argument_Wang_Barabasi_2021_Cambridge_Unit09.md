@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit09"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit09"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Citation Expiration Date]]"
   - "[[Citation Distribution]]"
   - "[[Import Substitution Industrialisation]]"
+  - "[[Alienation]]"
   - "[[Second Act in Science]]"
   - "[[Null Hypothesis]]"
   - "[[Ultimate Impact]]"
@@ -83,7 +84,7 @@ sources:
 part_of: "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 status: active
 created: "2026-10-31"
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -262,7 +263,7 @@ updated: 2026-11-11
 > [!critique-method] 期刊影响因子的机制缺陷与单篇评价陷阱
 > 科学信息研究所（Institute for Scientific Information, [[Import Substitution Industrialisation|ISI]]）建立的两年期期刊影响因子（JIF），其窗口设计本质上对应了成果跳跃衰减的峰值时段；然而，将期刊层级指标投射至单篇成果评估构成了严重的文献计量学谬误 (pp. 207–208)：
 > - **公式定义与短期窗口** 期刊影响因子计算该期刊前两年发表的所有出版物在统计当年的平均被引频次。例如 2015 年，《自然》（Nature）JIF 为 38.1，《物理评论快报》（Physical Review Letters, PRL）为 7.6，《美国社会学评论》（American Sociological Review, ASR）为 4.3，而《人格与社会心理学杂志》（Journal of Personality and Social Psychology, JPSP）为 4.7 (pp. 207–208)。
-> - **评价功能的异化** [[Eugene Garfield|尤金·加菲尔德]]（Eugene Garfield）(Garfield, 1972) 提出该指标初衷是协助图书管理员选择订购核心期刊，而非用于评估个体研究质量；凭期刊声誉推断单篇成果价值无异于以封面评判图书优劣 (pp. 207–208)。
+> - **评价功能的[[Alienation|异化]]** [[Eugene Garfield|尤金·加菲尔德]]（Eugene Garfield）(Garfield, 1972) 提出该指标初衷是协助图书管理员选择订购核心期刊，而非用于评估个体研究质量；凭期刊声誉推断单篇成果价值无异于以封面评判图书优劣 (pp. 207–208)。
 > - **极端偏斜与篇际巨大鸿沟** 期刊引文分布服从极端重尾，绝大多数论著极少获引，整刊指标被顶端极少数高引爆款拉高（Seglen, 1997）；以 1992 年发表成果为例，Cell（JIF = 33.62）、PNAS（JIF = 10.48）与 PRB（JIF = 3.26）内部单篇成果在发表十年后的累积被引跨越三个数量级，均涵盖被引为零至数千次的样本 (pp. 207–208)。
 
 > [!figure]- 图19-6：期刊影响因子无法有效预测单篇成果的真实被引

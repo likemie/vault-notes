@@ -11,7 +11,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Co-affiliation]]"
   - "[[Performance Indicators]]"
   - "[[Epistemology]]"
+  - "[[Alienation]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Evidence-Based Policy-Making]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -125,7 +126,7 @@ updated: 2026-11-02
 > > [!axis] 私募风投资本逻辑对公共教育价值的[[Epistemology\|认识论]]侵蚀
 > > 探讨将商业[[Return on Investment\|投资回报]]率与绩效量规导入教育，是否会导致教育公共性与民主维度的退化。
 > >
-> > - **批判学者视阈** [[Stephen Ball\|斯蒂芬·鲍尔]]与埃玛·罗威等批判社会学家指出，以 Impetus 为代表的[[Venture Philanthropy\|风险慈善]]将弱势儿童的学业与就业异化为“可度量、可投资的资产类别”；通过引入华尔街与伦敦金融城的考核工具，公共教育议程被窄化为迎合资本逻辑的技能训练，遮蔽了阶级结构、贫困再生产等深层不平等根源（Ball, 2008；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6, 8–9]]）。
+> > - **批判学者视阈** [[Stephen Ball\|斯蒂芬·鲍尔]]与埃玛·罗威等批判社会学家指出，以 Impetus 为代表的[[Venture Philanthropy\|风险慈善]]将弱势儿童的学业与就业[[Alienation|异化]]为“可度量、可投资的资产类别”；通过引入华尔街与伦敦金融城的考核工具，公共教育议程被窄化为迎合资本逻辑的技能训练，遮蔽了阶级结构、贫困再生产等深层不平等根源（Ball, 2008；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6, 8–9]]）。
 > > - **机构与支持者立场** 强调公共财政与传统慈善充斥着低效投入，私募风投资本的尽职调查与严谨数据监控能够最大化纳税人与捐赠者的每一分钱，确保干预真正对弱势群体的学业与收入产生确定性实效。
 >
 > > [!axis] 跨国金融巨头的免税套利与道德洗白（Tax Shelter & Public Relations）

@@ -6,14 +6,14 @@ aliases:
 summary: "群体或个体在面对主导文化场域（如精英大学或国家学校课程）时，因自身文化语码被边缘化而产生的疏离感与身份断裂"
 type: concept
 domain: "sociology-of-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 confidence: high
 status: active
 created: '2026-05-09'
-updated: 2026-11-03
+updated: 2026-11-15
 tags:
   - cultural-disembedding
   - higher-education
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Habitus]]"
   - "[[Discourse]]"
+  - "[[Alienation]]"
   - "[[The Shock of the Elite]]"
   - "[[Cultural Disorientation]]"
   - "[[Cultural Barrier]]"
@@ -56,7 +57,7 @@ related_arguments:
 > [!citation-card] 关键表述
 > 官方主导的儒家版本将其呈现为单一汉文化的核心……要求所有民族效仿，这种叙事反而倾向于加剧文化分裂与疏离（文化脱嵌）。[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]
 >
-> *“The dominant official version of Confucianism, presenting it as the core of a monolithic Han culture ... tends to stoke cultural division and alienation.”*
+> *“The dominant official version of Confucianism, presenting it as the core of a monolithic Han culture ... tends to stoke cultural division and [[Alienation|alienation]].”*
 
 > [!boundary]- 概念边界
 > - **不等于 精英休克（[[The Shock of the Elite]]）** — 精英休克侧重于寒门学子在精英大学中体验到的物质、心理与自我认同的全面摧毁感；而文化脱嵌更侧重于文化语码与社会环境的不匹配及疏离感[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 116)]]。

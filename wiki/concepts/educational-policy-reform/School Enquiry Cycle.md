@@ -12,7 +12,7 @@ aliases:
 summary: "由Brown et al. 提出的证据知情学校改进模型，将校内基于数据的决策（DBDM）与校外研究知情教学实践（RITP）整合为八步探究反馈回路；并在证据知情学校系统中确立为防止活动陷阱、依托专业学习共同体检验干预成效的关键迭代引擎。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Scaffolding]]"
   - "[[Boundary Spanner]]"
+  - "[[Alienation]]"
   - "[[Activity Traps]]"
   - "[[Self-Improving School System]]"
   - "[[Knowledge Mobilisation]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -164,7 +165,7 @@ updated: 2026-11-11
 
 ---
 
-> [!concept-proposition] 命题三｜探究循环中的情境化转译必须由教师[[Professional Judgment|专业判断]]统领以防止技术化异化
+> [!concept-proposition] 命题三｜探究循环中的情境化转译必须由教师[[Professional Judgment|专业判断]]统领以防止技术化[[Alienation|异化]]
 > **抵御照搬脚本与捍卫情境敏感性** 研究证据不能直接作为操作指令，必须经过教师专业审议的情境化过滤。
 
 > [!claim] Jonathan Sharples (2013) / [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] / [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]

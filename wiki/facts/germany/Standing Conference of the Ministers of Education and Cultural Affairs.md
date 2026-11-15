@@ -12,7 +12,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Test-Based Accountability]]"
   - "[[Commensuration]]"
+  - "[[Alienation]]"
   - "[[Evidence-Based Education]]"
   - "[[Working Knowledge]]"
 related_theories: []
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -150,7 +151,7 @@ updated: 2026-10-30
 > > KMK 推动的统一国家教育标准与跨州比较监测，面临着各州独特教育传统与文化主权（Kulturhoheit）的持续抗衡。
 > >
 > > - **国家通约与比较压力** 全国统一的测试工具（VERA、IQB 比较测试）与跨州数据平台要求各州测评数据具备高度技术通约性，引发部分联邦州对自身课程独特性被国家标准化考核技术抹平的担忧。
-> > - **地方自主与多速推进分歧** 各州在落地 KMK 战略时采取了差异化的本土策略（如汉堡依托 [[Institute for Educational Monitoring and Quality Improvement|IfBQ]] 建立覆盖全学段的自主测评 KERMIT 并恪守封闭诊断原则），各州对统一[[Data Infrastructure|数据基础设施]]的接入深度与开放度存在显著分歧。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 7–8, 14)]]
+> > - **地方自主与多速推进分歧** 各州在落地 KMK 战略时采取了差[[Alienation|异化]]的本土策略（如汉堡依托 [[Institute for Educational Monitoring and Quality Improvement|IfBQ]] 建立覆盖全学段的自主测评 KERMIT 并恪守封闭诊断原则），各州对统一[[Data Infrastructure|数据基础设施]]的接入深度与开放度存在显著分歧。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 7–8, 14)]]
 
 ---
 

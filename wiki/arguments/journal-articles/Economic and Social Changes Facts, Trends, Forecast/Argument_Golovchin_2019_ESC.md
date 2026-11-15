@@ -9,10 +9,10 @@ title: "Argument_Golovchin_2019_ESC"
 argument_key: "Argument_Golovchin_2019_ESC"
 argument_display_title: "What kind of teacher does the 'school of the future' need? Possibility of using John Hattie's approach in Russian education"
 argument_kind: "journal-article"
-argument_related_count: 49
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#dbeafe"
+argument_related_count: 50
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: 'Economic and Social Changes: Facts, Trends, Forecast'
 citation: "Golovchin M.A. (2019). What kind of teacher does the 'school of the future' need? Possibility of using John Hattie's approach in Russian education. *Economic and Social Changes: Facts, Trends, Forecast*, 12(5), 229–242."
 tags:
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Deschooling]]"
   - "[[Policy Borrowing]]"
+  - "[[Alienation]]"
   - "[[Value Neutrality]]"
   - "[[Research Scope]]"
   - "[[Use of Calculators]]"
@@ -81,7 +82,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: 2026-11-14
+updated: 2026-11-15
 year: 2019
 doi: "10.15838/esc.2019.5.65.15"
 citation_aliases:
@@ -107,7 +108,7 @@ citation_aliases:
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **传统教学论五支柱 vs. 新学校运动**<br>[[Paradigm\|范式张力]] / [[Bloom's Taxonomy\|布鲁姆分类学]] | 论文以夸美纽斯与第斯多惠确立的传统教学论五支柱（知识导向、教师核心地位、班级授课制、课堂纪律、[[Bloom's Taxonomy\|Bloom 分类学]]）为参照，指出 Hattie 将教师定位为非学科专家的调节者，实质上暗合了伊里奇与霍尔特等人的[[Deschooling\|去学校化]]思想。 |
-> | **[[Policy Borrowing\|政策借用与制度陷阱]]**<br>[[Policy Borrowing]] | 用于解释外来教育方案在脱离本土文化传统与办学条件时为何容易异化。论文指出俄罗斯统一国家考试（Unified State Exam, USE）推行后仅获三分之一教师认可，警示盲目照搬西方模式极易产生制度不良反应。 |
+> | **[[Policy Borrowing\|政策借用与制度陷阱]]**<br>[[Policy Borrowing]] | 用于解释外来教育方案在脱离本土文化传统与办学条件时为何容易[[Alienation\|异化]]。论文指出俄罗斯统一国家考试（Unified State Exam, USE）推行后仅获三分之一教师认可，警示盲目照搬西方模式极易产生制度不良反应。 |
 > | **新管理主义与全景敞视**<br>[[Panopticism\|全景敞视主义]] / [[Societies of Control\|控制社会]] | 揭示 Hattie 强调的指标监测与数据持续生成，本质上是一种行政监控机制，容易将教学活动转化为自上而下的填表与达标审查。 |
 
 > [!warrant]- 理论如何支撑论证

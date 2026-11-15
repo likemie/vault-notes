@@ -7,7 +7,7 @@ aliases:
 summary: "Cowen（2005）提出的概念，指学术管理话语中的压缩政策话语和控制话语，通过绩效衡量重新定义大学和被认为是好的知识"
 type: concept
 domain: "comparative-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ tags:
   - theory/critical-theory
 related_concepts:
   - "[[Discourse]]"
+  - "[[Alienation]]"
   - "[[Knowledge Production]]"
   - "[[Totally Pedagogised Society]]"
   - "[[New Public Management]]"
@@ -37,13 +38,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Deductive Rationality
-> 演绎理性（Deductive Rationality）是比较教育与高等教育批判概念，由 [[Robert Cowen]] 于 2005 年提出。它指当代大学管理主义中自上而下的行政命令与绩效[[Discourse|话语]]体系，具体表现为“压缩的政策话语和控制话语”（compressed policy-words, words of control）。这类话语通过高压且高频的量化管理和绩效衡量，直接定义“什么是好的知识”，把学术思考异化为功绩机器上的螺丝钉，使大学依附于经济利益并退化为纯粹的企业。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 332]])
+> 演绎理性（Deductive Rationality）是比较教育与高等教育批判概念，由 [[Robert Cowen]] 于 2005 年提出。它指当代大学管理主义中自上而下的行政命令与绩效[[Discourse|话语]]体系，具体表现为“压缩的政策话语和控制话语”（compressed policy-words, words of control）。这类话语通过高压且高频的量化管理和绩效衡量，直接定义“什么是好的知识”，把学术思考[[Alienation|异化]]为功绩机器上的螺丝钉，使大学依附于经济利益并退化为纯粹的企业。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 332]])
 
 > [!concept-lens] 概念透镜
 > - **含义** 指管理主义话语中被高度压缩、不可争辩的行政指令集。它剔除了复杂的学术脉络和地方历史，直接下达量化指标命令。(p. 332)

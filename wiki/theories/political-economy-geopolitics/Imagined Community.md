@@ -9,7 +9,7 @@ aliases:
 summary: "本尼迪克特·安德森提出的民族主义理论，主张民族是被想象的、拥有有限边界和主权的政治共同体。同胞虽互不相识，却在心中共享一体意象。近代印刷资本主义与大众教育为这种想象奠定了物质基础。后续研究进一步将其延伸至认知人类学与科技政治学，揭示共同体叙事如何维系大规模人群的技术协作，并探讨去国家化背景下公民认同的转变。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 62
+theory_related_count: 63
 theory_related_level: 6
 theory_related_stars: "💎💎"
 theory_related_color: "#fef3c7"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[National Biography]]"
   - "[[Positive Piracy]]"
   - "[[One Country, Two Systems]]"
+  - "[[Alienation]]"
   - "[[Technological Republic]]"
   - "[[Civic Rituals]]"
   - "[[Epistemology]]"
@@ -89,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -118,7 +119,7 @@ updated: 2026-11-14
 > - **1991 年拓展 — 殖民国家心智与三大治理技术** 安德森在 1991 年增订第十章，指出晚期殖民国家的治理技术深刻塑造了后殖民时代的国家观念。人口普查将流动复杂的居民硬性编入排他的种族网格（[[Serialization|人身序列化]]），近代测绘通过精确边界将领土勾勒为具有排他主权的[[Geo-Body|地理身体]]与[[Map-as-Logo|地图标识]]，考古博物馆则把古代宗教遗迹重构为世俗国家的古老祖先遗产（[[Colonial Archaeology|古迹权标]]）。这三种制度共同构成了现代国家定义人口、疆域与历史合法性的管理[[Paradigm|范式]]。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 167–190)]]
 > - **1991/2006 年拓展 — 记忆与遗忘、[[Reversed Ventriloquism|反向腹语术]]与跨国传播** 安德森在 1991 年增订第十一章《记忆与遗忘》（并在 2006 年增补后记），剖析 19 世纪民族主义如何将历史断裂缝合为古老连续的谱系，提炼出[[Reassurance of Fratricide|兄弟残杀的抚慰]]、[[National Biography|民族传记]]与生者代言沉默死者的[[Reversed Ventriloquism|反向腹语术]]三大修辞；后记进而追踪著作在全球翻译流散中展现的去中心化与[[Positive Piracy|正向盗版]]潜能。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 191–235)]]
 > - **1990 年代 — 比较教育与教科书官方知识研究** 比较教育学者将该理论运用于解构历史教科书、课程大纲与仪式庆典在塑造国家认同中的政治工具功能。
-> - **2024 年 — [[One Country, Two Systems|一国两制]]下的领土与族群叙事分化** [[Argument_Xu_2024_CE|Xu (2024)]] 结合 Brubaker 分析维度，揭示中国大陆与香港历史教科书如何分别构建出领土型与族裔型的差异化民族想象。
+> - **2024 年 — [[One Country, Two Systems|一国两制]]下的领土与族群叙事分化** [[Argument_Xu_2024_CE|Xu (2024)]] 结合 Brubaker 分析维度，揭示中国大陆与香港历史教科书如何分别构建出领土型与族裔型的差[[Alienation|异化]]民族想象。
 > - **2025 年 — 认知人类学、情感民族防线与科技国家建构** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》（Ch. 17 & Ch. 18）中将想象的共同体与[[Dunbar's Number|邓巴数]]结合，论证共享语言叙事是克服生物认知上限、实现现代尖端技术协作的必要纽带；批评去国家化思潮对“情感民族”边界的放弃，并剖析了[[Civic Rituals|公民仪式]]瓦解导致社会认同碎片化与高科技封闭公社的兴起。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–198)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(pp. 216–218)]]
 
 ---

@@ -7,7 +7,7 @@ aliases:
 summary: "指科技企业与风险资本在避险动机、道德不可知论与商业暴利驱使下，系统性放弃国防安全、公共治安、基础教育与重大医疗等具有高度政治争议与体制复杂性的硬核公共难题，转而将顶尖智力与资金集中于外卖、网购、打车与休闲游戏等微小消费级便利的产业与文化逃避倾向。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Public Value]]"
   - "[[The Sublime]]"
   - "[[Deliberative Space]]"
+  - "[[Alienation]]"
   - "[[Technological Republic]]"
   - "[[Engineering Mindset]]"
   - "[[Founder Culture]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -135,7 +136,7 @@ updated: 2026-11-14
 > [!contrast-table] 命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **资本配置异化命题** | 盲目跟从消费风口取消了关于重大公共善与国家战略投资的[[Deliberative Space\|审议空间]] | 资本市场资源分配、[[Dot-Com Bubble\|互联网泡沫]]反思 | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15\|Karp & Zamiska (2025, pp. 171–172)]] |
+> | **资本配置[[Alienation\|异化]]命题** | 盲目跟从消费风口取消了关于重大公共善与国家战略投资的[[Deliberative Space\|审议空间]] | 资本市场资源分配、[[Dot-Com Bubble\|互联网泡沫]]反思 | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15\|Karp & Zamiska (2025, pp. 171–172)]] |
 > | **公关避险致荒命题** | 科技巨头以公关辞令退出争议领域，实质是将公共治理推向技术贫困 | 警务科技伦理、公共部门技术采购与应用 | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15\|Karp & Zamiska (2025, pp. 175–177)]] |
 
 ---

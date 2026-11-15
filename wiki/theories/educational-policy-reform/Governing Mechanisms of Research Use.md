@@ -7,7 +7,7 @@ aliases:
 summary: "由 Hagevold et al.（2026）依据框架综合提出的研究使用分析框架，主张信任、技能发展、可持续结构与关系四类机制跨越并贯通个体、组织与系统层级，共同塑造学校中的研究使用"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 33
+theory_related_count: 34
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Theoretical Perspective]]"
   - "[[Reliability]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
   - "[[Critical Realism]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -76,7 +77,7 @@ updated: 2026-11-11
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold, Forsström, and Keles (2026)]] 在《教育研究评论》（*Educational Research Review*）发表综合研究《Governing research use in schools: A framework synthesis of empirical studies》，正式构建研究使用治理机制框架。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 1–24)]]
+> - **提出者与原始文本** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 在《教育研究评论》（*Educational Research Review*）发表综合研究《Governing research use in schools: A framework synthesis of empirical studies》，正式构建研究使用治理机制框架。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 1–24)]]
 > - **原初问题** 既有[[Document|文献]]在解释学校研究使用受阻时，83% 的研究仅在个体层面归因于教师的研究素养不足或动机缺乏，不仅忽略了深层治理与组织条件的制约，也无法解释为何孤立的培训或外部推送无法促成常态化研究使用。
 > - **理论资源与材料** 团队以批判实在论为[[Epistemology|认识论]]基础，以 QURE 框架、深层使用模型、社会[[Ecological Systems Theory|生态系统理论]]及专业能动性理论为先验概念资源；经验材料涵盖 2010 年至 2023 年发表的 109 项跨国实证研究。
 > - **形成路径** 研究团队采用框架综合法（Framework Synthesis），结合聚合式与配置式双重分析策略，对 109 项文献展开两阶段编码与解释性综合，识别出贯通个体、组织与系统层级的四类横切机制，进而推导得出跨层治理机制理论。
@@ -164,7 +165,7 @@ updated: 2026-11-11
 > > [!axis] 跨情境适用性与制度性不信任
 > > 治理机制框架主要基于英语国家与西欧教育语境的实证研究，在高度中央集权或低资源环境中的适用性仍需检验。
 > >
-> > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026, p. 19)]]** 指出在高度中央集权的系统中，信任机制可能因结构性制度不信任而产生异化运作，低资源环境中可持续结构亦面临刚性物质制约。
+> > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026, p. 19)]]** 指出在高度中央集权的系统中，信任机制可能因结构性制度不信任而产生[[Alienation|异化]]运作，低资源环境中可持续结构亦面临刚性物质制约。
 
 > [!critique] 批评索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 指出既有实证研究过度偏向个体归因，缺乏对跨层深层治理机制的系统考量，呼吁未来实证研究在不同治理体制下直接检验四类机制的因果作用。

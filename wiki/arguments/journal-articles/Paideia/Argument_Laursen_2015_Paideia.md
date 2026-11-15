@@ -9,7 +9,7 @@ title: "Argument_Laursen_2015_Paideia"
 argument_key: "Argument_Laursen_2015_Paideia"
 argument_display_title: "Er Hattie og co"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Classroom Management]]"
   - "[[Academic Achievement]]"
   - "[[Chain of Evidence]]"
+  - "[[Alienation]]"
   - "[[Individualised Instruction]]"
 related_theories:
   - "[[Hofstede's Cultural Dimensions]]"
@@ -48,7 +49,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: 2026-10-30
+updated: 2026-11-15
 year: 2015
 doi: ""
 citation_aliases:
@@ -97,7 +98,7 @@ citation_aliases:
 > - 三个国际综合基本一致：[[Effective Teaching\|有效教学]]的核心质量是教师领导、清晰目标、个体适配、良好气氛和学生主动参与，而不是某种固定教学方法。
 > - 丹麦 [[Science Foundation Ireland|SFI]] 研究显示，明确一致的[[Classroom Management\|课堂管理]]、清晰目标、高要求和良好社会环境促进学生成绩；教师在班级团队中的合作也与更好结果相关。
 > - 丹麦证据与国际研究一致地显示，弱社会背景学生特别依赖清晰教师领导与目标，而开放教学对这类学生较不利。
-> - 丹麦研究没有显示教学差异化能显著提升学生学习。这一点与 Hattie 对[[Individualised Instruction\|个别化教学]]效应较小的判断相一致，也与 Helmke 对教学差异化经验证据不足的承认相呼应。
+> - 丹麦研究没有显示教学差[[Alienation|异化]]能显著提升学生学习。这一点与 Hattie 对[[Individualised Instruction\|个别化教学]]效应较小的判断相一致，也与 Helmke 对教学差异化经验证据不足的承认相呼应。
 > - 频繁测试是丹麦证据与国际综合之间的主要偏差：SFI and Mehlbye 发现，丹麦学生在测试较频繁时学得更多；Mehlbye 还发现测试受到学生欢迎。这与 Hattie 关于频繁测试没有显著积极效果的结论不同。
 > - SFI 关于反馈的零效应不应被过度解释，因为相关问项只询问教师是否告诉学生其发展或表现如何，没有捕捉"下一步怎样改进"这一反馈核心。
 > - Laursen 的最终区分是：语境当然重要，但学生社会背景这一语境比国家文化这一语境更能解释"什么有效"的差异。

@@ -9,7 +9,7 @@ aliases:
 summary: "在规模精简（5-10名学生、5-20分钟）的受控模拟情境中，依托单一技能分解、视听录像客观回放与‘备课-授课-评议-重教’迭代循环，支持教师开展高密度刻意练习与反思性诊断的临床师资培养模式。"
 type: concept
 domain: "teacher-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Zone of Desired Effects]]"
   - "[[Lesson Study]]"
   - "[[Champ]]"
+  - "[[Alienation]]"
   - "[[Performativity]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Advance Organizers]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -73,7 +74,7 @@ updated: 2026-11-03
 > [!boundary]- 概念边界
 > - **不等于 [[Lesson Study|课例研究]]（Lesson Study）** 课例研究立足于全真常态课堂教学，关注长周期内教研共同体围绕学科特定概念理解与学生思维展开的集体研磨；微格教学聚焦微缩环境中的微观技能模拟演练。
 > - **不等于 常规教育实习（[[Champ|field]] Practicum）** 实习直接浸入复杂学校生态，包含班主任工作与多学科教学；微格教学属于进入全真实习前的受控实验室临床准备。
-> - **不适用于 机械化表演考核** 当微格教学异化为逐项机械打分的僵化测评时，容易诱发[[Performativity|表演性]]应试套路，破坏真实师生互动中的生成性机智。
+> - **不适用于 机械化表演考核** 当微格教学[[Alienation|异化]]为逐项机械打分的僵化测评时，容易诱发[[Performativity|表演性]]应试套路，破坏真实师生互动中的生成性机智。
 
 ---
 

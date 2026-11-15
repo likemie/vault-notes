@@ -9,7 +9,7 @@ aliases:
 summary: "指公民对政治共同体怀有连贯的历史叙事、共享的伦理抱负及承担防卫与公共奉献义务的实质认同形态；与仅遵循市场规则和消费主义流行文化的薄弱归属感（Thin Belonging）相对立。在技术共和国理论中，通识正典的瓦解导致国家认同退化为薄弱归属，进而造成科技精英在道德真空中的政治脱嵌与技术不可知论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Civic Religion]]"
   - "[[General Education]]"
   - "[[Enlightenment]]"
+  - "[[Alienation]]"
   - "[[Technological Republic]]"
   - "[[Buen Vivir]]"
   - "[[Grand Theory]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -88,7 +89,7 @@ updated: 2026-11-11
 > - **防卫担当与实质牺牲精神（Civic Defense Commitment & Sacrifice）** 克服将国家安全外包给他人的搭便车心态，愿意为捍卫自由社会的延续承担现实代价与排他性承诺（[[Hard Belief|硬信念]]）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 79–82)]]
 > - **科技工程与国家使命的双向绑定（Alignment of Technology with National Purpose）** 科技精英将算法与算力等最前沿生产力定向服务于公共治理福祉与国家战略防卫，拒绝以不可知论为由逃避公共责任。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 96)]]
 
-> [!logic-map]- 归属感异化到[[Technological Agnosticism|技术不可知论]]的动力学演化图
+> [!logic-map]- 归属感[[Alienation|异化]]到[[Technological Agnosticism|技术不可知论]]的动力学演化图
 > ```mermaid
 > flowchart LR
 >   CW["战后通识正典瓦解<br>(西方文明必修课废除)"] --> MV["历史叙事断裂与道德真空<br>(断线气球危机)"]

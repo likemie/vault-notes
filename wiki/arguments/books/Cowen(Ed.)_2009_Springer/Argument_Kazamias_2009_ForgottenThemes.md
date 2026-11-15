@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_ForgottenThemes"
 argument_key: "Argument_Kazamias_2009_ForgottenThemes"
 argument_display_title: "Forgotten men, forgotten themes: The historical-philosophical-cultural and liberal humanist motif in comparative education"
 argument_kind: "book-chapter"
-argument_related_count: 97
+argument_related_count: 98
 argument_related_level: 9
 argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
@@ -68,6 +68,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Cultural Nationalism vs. Political Nationalism]]"
   - "[[Nationalism]]"
+  - "[[Alienation]]"
   - "[[Factorial Interpretive Framework]]"
   - "[[Educational Decentralization]]"
   - "[[Incommensurability]]"
@@ -327,7 +328,7 @@ updated: 2026-11-15
 
 > [!tension] 坎德尔论[[Cultural Nationalism vs. Political Nationalism\|文化民族主义与政治民族主义]]的二元价值分野
 > - **文化[[Nationalism|民族主义]]（Cultural Nationalism）** 倡导多元文化传承、精神自主与思想包容，坚信依托学校教育培育公民批判理智与国际理解（International understanding），筑牢和平共处的人道主义底线。（Kandel, 1933; Kazamias, 1963: 385）
-> - **政治民族主义（Political Nationalism）** 沦为军国主义扩张与极权国家崇拜的政治工具，推行同质化灌输与狂热盲从，将教育系统彻底异化为排他性霸权扩张与对外征服的动员机器。（Herzog, 1960; pp.48–49）
+> - **政治民族主义（Political Nationalism）** 沦为军国主义扩张与极权国家崇拜的政治工具，推行同质化灌输与狂热盲从，将教育系统彻底[[Alienation|异化]]为排他性霸权扩张与对外征服的动员机器。（Herzog, 1960; pp.48–49）
 
 然而，卡扎米亚斯结合自身青年时期的学术批判（Kazamias, 1961, 1963），深刻指出坎德尔的政治国家[[Analytic Framework|分析框架]]存在三大内在缺陷：
 

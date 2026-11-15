@@ -8,7 +8,7 @@ aliases:
 summary: "主权国家借鉴商业品牌营销理念与话语技术，将国家形象、文化声誉与公共制度体系包装为具备全球竞争优势的战略资产。在比较教育领域，国家品牌化促使政策制定者将综合学校与跨国测评优异表现脱嵌并凝练为国家教育标签，以此为教育出口构建商业吸引力，但遮蔽了教育在深层社会福利网络中的历史制度根基。"
 type: concept
 domain: "comparative-education"
-related_count: 33
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -38,7 +38,9 @@ related_concepts:
   - "[[Study Abroad]]"
   - "[[Nordic Model of Education]]"
   - "[[Public Value]]"
+  - "[[Alienation]]"
   - "[[The Sublime]]"
+  - "[[Mimesis]]"
   - "[[Global Education Industry]]"
 related_theories:
   - "[[Integrated Marketing Communications Theory]]"
@@ -61,7 +63,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-09
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -153,7 +155,7 @@ updated: 2026-11-14
 
 > [!debates|notitle] 学术争议
 >
-> > [!axis] 全球认知度提升 vs 教育[[Public Value|公共价值]]异化
+> > [!axis] 全球认知度提升 vs 教育[[Public Value|公共价值]][[Alienation|异化]]
 > > 官方政策与外事经济部门坚信，国家品牌化能够将本国优质教育资源推向全球，树立国家创新先锋形象并获取高附加值经贸收益；批判学者则指出，国家品牌化将关乎民主平等与公民培育的[[The Sublime|崇高]]公共事业异化为追逐利润的货架商品，反向侵蚀了公共教育的道德制高点与公信力。
 >
 > > [!axis] 国家形象增值 vs 表层政策借用误导
@@ -168,7 +170,7 @@ updated: 2026-11-14
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Reference Society]] | Concept | 国家品牌化致力于将本国确立为全球其他系统主动模仿与借用的基准模范国。 |
+> | [[Reference Society]] | Concept | 国家品牌化致力于将本国确立为全球其他系统主动[[Mimesis\|模仿]]与借用的基准模范国。 |
 > | [[Competitiveness]] | Concept | 国家品牌化的终极目标在于提升主权国家在跨国经贸与高端[[Human Capital Theory\|人力资本]]流动中的核心竞争力。 |
 > | [[Finnish PISA Miracle]] | Fact | 芬兰国家品牌化战略在教育领域最重要的信誉背书来源与国际营销核心资产。 |
 > | [[PISA]] | Fact | 催生全球教育联赛排名、为国家品牌化提供客观量化标签的大规模跨国测评工具。 |

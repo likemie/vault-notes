@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育学源流中考证教育思想、制度与实践跨国界、跨时空流动与相互塑形的实证探究传统，借鉴比较文学方法，为前建制期功利性描述与现代政策借用确立认识论合法性。"
 type: concept
 domain: "comparative-education"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Normal School]]"
   - "[[Going Native]]"
+  - "[[Alienation]]"
   - "[[Variable]]"
 related_theories:
   - "[[Institutional Isomorphism]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -194,7 +195,7 @@ updated: 2026-11-03
 > > 争论教学技术能否与外国政治制度完全剥离。
 > >
 > > - **[[Horace Mann|霍勒斯·曼]]（Mann, 1844）** 恶政与良教自然可分，教学法反映普遍认知规律，可脱离专制政治为自由社会所用。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 125)]]
-> > - **[[Michael Sadler|迈克尔·萨德勒]]（Sadler, 1900）** 外部事物不能像植物园花草一样随意移栽；教学法与国家政治精神高度交织，过度技术化抽离会导致异化或失效。
+> > - **[[Michael Sadler|迈克尔·萨德勒]]（Sadler, 1900）** 外部事物不能像植物园花草一样随意移栽；教学法与国家政治精神高度交织，过度技术化抽离会导致[[Alienation|异化]]或失效。
 
 > [!critique] 外部批评
 > - **考察者偏误与浪漫化投射** 批评指出，早期学者多以游历见闻为主，极易将借用国理想化的教育乌托邦投射到考察报告中，忽视被考察国本土教师与学生的真实负担与阶级压迫。

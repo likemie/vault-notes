@@ -10,7 +10,7 @@ aliases:
 summary: "指生成能够挑战、突破或实质扩展既有学术范式的高风险概念构想与开创性方法的能力与过程。现代科学政策与科学学视角将科学创造力确立为学术生态系统环境下的涌现属性，其培育深度依赖于长探索周期、容忍失败、学术自主权与制度化雇佣稳定保障。"
 type: concept
 domain: "science-policy"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Slow Science]]"
   - "[[Market Failure]]"
   - "[[Research Proposal]]"
+  - "[[Alienation]]"
   - "[[Gamification]]"
   - "[[Big Science]]"
   - "[[Early-Career Researchers]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-03
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -141,7 +142,7 @@ updated: 2026-11-11
 
 ---
 
-> [!concept-proposition] 命题二｜学术评价代理指标的异化造成创造力信号失真并诱发学术机构的逆向淘汰
+> [!concept-proposition] 命题二｜学术评价代理指标的[[Alienation|异化]]造成创造力信号失真并诱发学术机构的逆向淘汰
 > **文献计量代理指标与科学人才甄选** 揭示以发文数量和期刊声望作为能力代表的计量机制如何激励表面造势，导致实质科研潜能遭到挤出。
 
 > [!claim] [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]]

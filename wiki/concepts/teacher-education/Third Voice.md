@@ -9,7 +9,7 @@ aliases:
 summary: "由 Tim Cain 提出并在学校研究使用综合研究中深化的认识论概念，指在教师专业决策与集体研讨中，学术研究证据充当独立且平等的第三声音，与教师个人的实践经验信念（第一声音）以及同行实践文化和情境伦理（第二声音）展开审议协商，反对将研究降格为外推性行政强制指令或完全排斥为脱离现场的空洞理论。"
 type: concept
 domain: "teacher-education"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Champ]]"
   - "[[Document]]"
+  - "[[Alienation]]"
   - "[[Discourse]]"
   - "[[Reflexivity]]"
   - "[[Evidence-Based Education]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -89,7 +90,7 @@ updated: 2026-11-11
 > | 认识论定位 | 平等参与对话的审议资源，提供替代性视角 | 具有处方性质的行动指南与规范规训标准 | 潜移默化影响认知框架的背景知识源 |
 > | 实践者角色 | 拥有充分裁量权的主动审议者与整合者 | 遵循既定操作规程的被动执行者 | 接受外部观念无意识渗透的认知主体 |
 > | 核心活动机制 | 与个人经验和[[Situated Ethics\|情境伦理]]展开长时间聚焦研讨 | 严格对照标准操作方案开展遵从度核查 | 偶发性[[Document\|文献]]接触引发思维视角的缓慢重构 |
-> | 决策产出形态 | 结合本土学情的审慎权变决策与差异化改造 | 追求标准化方案在课堂教学中的原样复刻 | 实践者个人宏观信念与[[Discourse\|话语]]体系的隐性调整 |
+> | 决策产出形态 | 结合本土学情的审慎权变决策与差[[Alienation\|异化]]改造 | 追求标准化方案在课堂教学中的原样复刻 | 实践者个人宏观信念与[[Discourse\|话语]]体系的隐性调整 |
 
 ---
 

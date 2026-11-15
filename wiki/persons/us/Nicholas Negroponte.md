@@ -10,10 +10,10 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: 1943
 lifespan: "1943–至今"
 tags:
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Big Idea Famine]]"
   - "[[Big Science]]"
   - "[[Paradigm]]"
+  - "[[Alienation]]"
   - "[[Creativity]]"
   - "[[Innovation Desert]]"
   - "[[Total Factor Productivity]]"
@@ -58,7 +59,7 @@ updated: 2026-11-15
 > - **1985** 与杰罗姆·威斯纳（Jerome Wiesner）共同创立 MIT 媒体实验室并任首任主任，开创跨学科数字技术[[Paradigm|研究范式]]。
 > - **1995** 出版《数字化生存》，全球销量数百万册，成为数字革命经典纲领。
 > - **2005** 启动“每个孩子一台笔记本电脑”（One Laptop per Child, OLPC）项目，倡导技术普惠教育。
-> - **2018** 发表《[[Big Idea Famine|大构想饥荒]]》，系统批评风险投资机制对硬核科学创新的琐碎化异化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Negroponte, 2018; Karp & Zamiska, 2025, pp. 48–49)]]
+> - **2018** 发表《[[Big Idea Famine|大构想饥荒]]》，系统批评风险投资机制对硬核科学创新的琐碎化[[Alienation|异化]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Negroponte, 2018; Karp & Zamiska, 2025, pp. 48–49)]]
 
 ---
 

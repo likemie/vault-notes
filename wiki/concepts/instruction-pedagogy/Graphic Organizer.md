@@ -8,7 +8,7 @@ aliases:
 summary: "通过空间隐喻与视觉拓扑结构表征概念关系、逻辑论证与层级脉络的教学与认知脚手架，能有效卸载低阶信息检索负荷并释放高阶认知资源"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Meta-Representational Competence]]"
   - "[[Self-Scaffolding]]"
+  - "[[Alienation]]"
   - "[[Rote Learning]]"
   - "[[Heterogeneity]]"
   - "[[Dependent Variable]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -148,7 +149,7 @@ updated: 2026-11-03
 > |---|---|---|---|
 > | **认知负荷卸载命题** | 空间隐喻降低低阶心智负担，释放工作记忆用于高阶思维 | 各学段与学科的可视化教学干预 | Lei, Ding & Chiu |
 > | **工具结构复杂度命题** | 工具组织形式越简洁聚焦（导图 > 论证图 > 概念图），促学效应越强 | 教学设计中组织器类型的甄选 | Lei, Ding & Chiu |
-> | **发展适切性与元表征命题** | 外在工具收益在中学生阶段达到峰值，受诱人细节与自我脚手架双向约束 | 分学段差异化脚手架提供 | Lei, Ding & Chiu |
+> | **发展适切性与元表征命题** | 外在工具收益在中学生阶段达到峰值，受诱人细节与自我脚手架双向约束 | 分学段差[[Alienation\|异化]]脚手架提供 | Lei, Ding & Chiu |
 
 ---
 

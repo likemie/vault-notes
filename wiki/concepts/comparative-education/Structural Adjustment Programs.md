@@ -8,7 +8,7 @@ aliases:
 summary: "世界银行与国际货币基金组织在华盛顿共识下向债务危机国推行的宏观紧缩与市场化贷款附加方案；在教育领域通过推行使用者付费、私有化与分权化削减公共开支，是导致全球南方国家教育主权沦丧与阶级分化的核心外生制度因素"
 type: concept
 domain: "comparative-education"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[School Vouchers]]"
   - "[[Educational Privatisation]]"
   - "[[Shadow State]]"
+  - "[[Alienation]]"
   - "[[State Educational Sovereignty]]"
   - "[[Cultural Capital]]"
   - "[[Financial-Intellectual Complex]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -116,7 +117,7 @@ updated: 2026-11-11
 > - **推行[[Educational Privatisation|教育私有化]]与教育券制度** 大力扶持营利性与非营利性私立学校，压缩公立学校编制与办学经费，通过发行教育券刺激校际生源竞争，加速教育分轨分选。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 80)]]
 > - **行政与财政分权化甩包袱** 中央政府打着“地方赋权”与“社区自治”旗号，将公立学校的筹资与运维责任层层下推给财力薄弱的省邦与市镇政府，加剧区域校际鸿沟。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 > - **技术官僚[[Cost-Benefit Analysis|成本效益分析]][[Discourse|话语]]（Technocratic Cost-Benefit Discourse）** 国际机构依托教育生产函数与成本效益模型，将削减教育公共开支包装为中立、理性的经济科学规律，掩盖结构调整的政治规训本质。[[Argument_Arnove_2009_WorldSystems|(Heyneman, 2003; Arnove, 2009, p. 107)]]
-> - **公共服务外包与[[Shadow State|影子国家]]（Public Service Outsourcing & Shadow State）** 伴随国家财政与公共管理职能被大幅削减，国际援助方与政府绕过公立系统，将基础教育等社会服务外包给依赖外部资助的非政府组织（NGOs），致使民间组织异化为缺乏基层问责的[[Shadow State|影子国家]]，[[State Educational Sovereignty|国家教育主权]]与公共服务体系进一步瓦解。[[Argument_Arnove_2009_WorldSystems|(Kamat, 2004; Sutton & Arnove, 2004; Arnove, 2009, pp. 111–112)]]
+> - **公共服务外包与[[Shadow State|影子国家]]（Public Service Outsourcing & Shadow State）** 伴随国家财政与公共管理职能被大幅削减，国际援助方与政府绕过公立系统，将基础教育等社会服务外包给依赖外部资助的非政府组织（NGOs），致使民间组织[[Alienation|异化]]为缺乏基层问责的[[Shadow State|影子国家]]，[[State Educational Sovereignty|国家教育主权]]与公共服务体系进一步瓦解。[[Argument_Arnove_2009_WorldSystems|(Kamat, 2004; Sutton & Arnove, 2004; Arnove, 2009, pp. 111–112)]]
 
 > [!logic-map]- 结构调整方案对教育公共系统的侵蚀路径
 > ```mermaid

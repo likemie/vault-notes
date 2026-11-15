@@ -30,8 +30,8 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Dependent Variable]]"
   - "[[Visible Learning]]"
+  - "[[Alienation]]"
   - "[[Discourse]]"
-  - "[[Document]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Random Sampling]]"
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-10-18'
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 （普通语言[[Effect Size|效应量]]）
@@ -140,7 +140,7 @@ updated: 2026-11-02
 > [!critique-method] 违背概率公理与缺乏专业统计咨询的灾难案例（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, pp. 238–240]]）
 > - **不可能概率的数学崩溃** 在《[[Visible Learning|可见的学习]]》一书中，[[John Hattie|约翰·哈蒂]]试图将[[Effect Size Conversion|效应量转换]]为 CLES 向一线教育工作者普及成果，但在其二阶汇总附录中，竟汇报了负百分比与超过 100% 的荒谬概率（Topphol, 2012）。这一初等算术错误的长期存在，暴露了研究团队在数理逻辑与基础质控上的系统性匮乏。
 > - **事后统计尸检困境** 加拿大统计学者伯杰龙与里瓦尔援引罗纳德·费希尔（Ronald Fisher, 1938）的经典论断指出：在研究方案设计和执行中缺乏专业统计学家的深度参与，实验结束后再寻求咨询往往只是请统计学家做一场事后尸检——至多只能证明该分析究竟死于何种低级数学失误。
-> - **比较基线的相对性失省** [[Effect Size|效应量]]符号与 CLES 优势方向取决于隐性对照基线的设定。若基线选择反转（如从“富裕比贫困”反转为“贫困比富裕”），CLES 将从优势概率骤降为严重劣势概率。忽视基线相对性，容易使统计量异化为主观裁剪政策结论的工具。
+> - **比较基线的相对性失省** [[Effect Size|效应量]]符号与 CLES 优势方向取决于隐性对照基线的设定。若基线选择反转（如从“富裕比贫困”反转为“贫困比富裕”），CLES 将从优势概率骤降为严重劣势概率。忽视基线相对性，容易使统计量[[Alienation|异化]]为主观裁剪政策结论的工具。
 
 ---
 

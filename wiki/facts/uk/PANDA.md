@@ -13,7 +13,7 @@ subtype: program
 region: "uk"
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[School Leadership]]"
+  - "[[Alienation]]"
   - "[[Free School Meals]]"
   - "[[Paradigm]]"
   - "[[Performance Indicators]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-26
+updated: 2026-11-15
 ---
 
 ---
@@ -72,7 +73,7 @@ updated: 2026-10-26
 > [!policy-design] 方案设计
 > - **项目目标** 识别处于统计异常区间的学校教学薄弱学科与特定学生群体，建立全国统一的可视化校际同侪基准。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]
 > - **覆盖对象** 全国每所公立中小[[School Leadership|学校领导]]团队、学科组长以及 [[Ofsted]] 注册督学（HMI）。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]
-> - **干预措施** 每年秋季向每所学校定向派发厚达数十页的机密诊断报告册（包含箱线图、[[Confidence Interval|置信区间]]及差异化增值曲线），并在视导前作为督学审阅的必读情报材料。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 256–257)]]
+> - **干预措施** 每年秋季向每所学校定向派发厚达数十页的机密诊断报告册（包含箱线图、[[Confidence Interval|置信区间]]及差[[Alienation|异化]]增值曲线），并在视导前作为督学审阅的必读情报材料。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 256–257)]]
 > - **实施控制** 依托大型关系型数据库，对[[Free School Meals|免费校餐]]比例（FSM）、特殊教育需要（SEN）、母语非英语及流动性变量实施计量加权控制。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]
 
 > [!citation-card] 大规模评估的数据复杂化演进

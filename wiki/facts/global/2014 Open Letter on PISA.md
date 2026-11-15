@@ -13,7 +13,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 32
+fact_related_count: 33
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#fef3c7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Media Logic]]"
   - "[[Transnational Education]]"
   - "[[Progressive Education]]"
+  - "[[Alienation]]"
   - "[[Positivism]]"
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -99,7 +100,7 @@ updated: 2026-11-11
 ---
 
 > [!actor-grid] 权力—立场矩阵
-> - **学术抗争同盟（83 位学者及其后援网络）** [[Paul Morris]]、[[Yong Zhao\|赵勇]]、[[Stephen Ball]] 等 — 坚守[[Progressive Education\|进步主义教育]]哲学与教育民主主权，批判将教育异化为经济工具的新自由主义计量学。
+> - **学术抗争同盟（83 位学者及其后援网络）** [[Paul Morris]]、[[Yong Zhao\|赵勇]]、[[Stephen Ball]] 等 — 坚守[[Progressive Education\|进步主义教育]]哲学与教育民主主权，批判将教育[[Alienation|异化]]为经济工具的新自由主义计量学。
 > - **超国家官僚与商业资本联盟** [[OECD]] 秘书处、[[Educational Testing Service\|ETS]]、培生商业集团（Pearson） — 维护全球大规模评估的测量霸权与咨询市场收益，将排列表与量化指标标榜为现代卓越治理的不可或缺之物。
 > - **国家政治精英（调停与借壳者）** 各国保守派与中道政府部门（如[[Department for Education|英国教育部]] [[Michael Gove]] 等） — 表明上尊奉 OECD 数据权威，实质动员[[Media Logic\|媒介逻辑]]选择性借用排名危机作为推销本土争议改革的政治弹药。
 > - **一线受影响群体** 各国中小学教师、校长工会及青少年学生 — 承受高压督导问责、题海战术与持续恶化的心理焦虑。

@@ -10,7 +10,7 @@ aliases:
 summary: "指涉政策观念、治理技术与制度模型在跨国、跨区域及公私异质网络中被解构、转译、变异和再情境化的动态过程；强调政策并非在真空或纯粹地理空间中的静态线性转移，而是伴随社会-技术中介、权力拓扑与资本纽带的流动性装配。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 67
+related_count: 69
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Unit of Analysis]]"
   - "[[Discourse]]"
+  - "[[Mimesis]]"
   - "[[Policy Entrepreneur]]"
   - "[[Paradigm]]"
   - "[[Ontology]]"
@@ -45,6 +46,7 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Quasi-market]]"
   - "[[Return on Investment]]"
+  - "[[Alienation]]"
   - "[[Transnational Education]]"
   - "[[Public-Private Partnership]]"
   - "[[Infrastructures of Immobility]]"
@@ -95,7 +97,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -121,7 +123,7 @@ updated: 2026-11-11
 > [!boundary]- 概念边界
 > - 不等于 [[Policy Borrowing\|政策借用]]（Policy Borrowing） — 政策借用通常以主权民族国家（如教育部、立法机关）为核心[[Unit of Analysis\|分析单位]]，关注国内政治行动者如何利用外部名望[[Discourse|话语]]作为合法化本土改革的“外生火花”（Phillips & Ochs, 2004；Steiner-Khamsi, 2004）；政策流动打破民族国家“容器论”，将国家视为跨国异质网络中的一个参与节点，侧重去中心化、多尺度的流动拓扑（Ball, 2016；Peck & Theodore, 2015）。
 > - 不等于 政策转移（Policy Transfer） — 传统政策转移研究假定政策是在欧几里得地理空间中点对点、相对完整的静态知识搬运与理性经验汲取（Rose, 1991；Dolowitz & Marsh, 1996）；政策流动强调政策在穿梭过程中始终处于不稳定的“变异”（mutation）状态，并在到达目的地时被异质行动者重新拼装。
-> - 不等于 [[Institutional Isomorphism\|制度同构]]（Institutional Isomorphism） — 制度同构强调场域内组织在强制、模仿或规范压力下的被动趋同（DiMaggio & Powell, 1983）；政策流动强调中介机构、咨询寡头与[[Policy Entrepreneur\|政策企业家]]的主动建构、套利游说与空间重塑。
+> - 不等于 [[Institutional Isomorphism\|制度同构]]（Institutional Isomorphism） — 制度同构强调场域内组织在强制、[[Mimesis|模仿]]或规范压力下的被动趋同（DiMaggio & Powell, 1983）；政策流动强调中介机构、咨询寡头与[[Policy Entrepreneur\|政策企业家]]的主动建构、套利游说与空间重塑。
 
 ---
 
@@ -215,7 +217,7 @@ updated: 2026-11-11
 > **资本流动对快速政策跨界穿梭的实质锚定** 快速政策跨越国界的深层原动力不是抽象的教育科研共识，而是穿透地理阻隔的金融资本纽带。实证追踪表明，英国证据基金会（[[Education Endowment Foundation\|EEF]]）成立的 1.25 亿英镑始创资助本源于英国政府削减免费学生校餐的公款重定向，并吸纳了来自美洲银行、高盛、摩根大通等跨国金融巨头的资金；随后 EEF 与跨国铁矿石巨头必和必拓（BHP）基金会建立全球证据生态伙伴关系，并直接注资澳洲本土枢纽 [[Social Ventures Australia\|SVA]] 旗下的 [[Evidence for Learning\|E4L]]，进而撬动澳洲联邦与各州 5000 万澳元的公共财政配资。资本在跨国金融寡头、慈善信托与国家财政之间的穿梭流动，构成了维系整个政策流动网络的最强固黏合剂。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5–6]]
 
 > [!claim] [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]
-> **国家催化平台与异层再分配异化** 政策流动在澳大利亚的深化展现了国家从传统科层直接拨款向异层再分配的转变。以 [[Social Ventures Australia\|SVA]] 为核心的中枢网络，不仅推动了英美证据工具包的跨境位移，更依托 [[Deductible Gift Recipient\|DGR1]] 减税管道将跨国风险慈善、[[Social Impact Investing\|影响力投资]]与私营咨询业务系统装配进国家治理。公共财政反向补贴免税中介（政府资助 121.6 万澳元中对外赠款仅占 51%，其余流向私营咨询与管理费），并将弱势公立学校重构为竞逐微额资助、屈从商业量规的受助客体，印证了政策流动中资本与特许权力对公共教育民主基石的系统侵蚀。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 522–528, 531–532)]]
+> **国家催化平台与异层再分配[[Alienation|异化]]** 政策流动在澳大利亚的深化展现了国家从传统科层直接拨款向异层再分配的转变。以 [[Social Ventures Australia\|SVA]] 为核心的中枢网络，不仅推动了英美证据工具包的跨境位移，更依托 [[Deductible Gift Recipient\|DGR1]] 减税管道将跨国风险慈善、[[Social Impact Investing\|影响力投资]]与私营咨询业务系统装配进国家治理。公共财政反向补贴免税中介（政府资助 121.6 万澳元中对外赠款仅占 51%，其余流向私营咨询与管理费），并将弱势公立学校重构为竞逐微额资助、屈从商业量规的受助客体，印证了政策流动中资本与特许权力对公共教育民主基石的系统侵蚀。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 522–528, 531–532)]]
 
 ---
 

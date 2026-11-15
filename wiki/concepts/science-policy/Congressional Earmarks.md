@@ -9,7 +9,7 @@ aliases:
 summary: "指美国参众两院议员在联邦预算法案中利用立法特权直接塞入、定向划拨给本选区特定大学或产学中心的科研资助；该机制彻底绕开了同行评议程序，既引发学术界关于科研政治分肥、资源错配与择优公信力受损的严厉批评，又在保守派意识形态打压显性产业政策的背景下充当了向地方输送研发资本、建立产学协同中心的隐蔽制度通道。"
 type: concept
 domain: "science-policy"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Counterpart Funds]]"
   - "[[Academic Risk Aversion]]"
+  - "[[Alienation]]"
   - "[[Evaluation Research]]"
   - "[[Academic Start-up Packages]]"
   - "[[Early-Career Researchers]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -197,7 +198,7 @@ updated: 2026-11-11
 > | [[Industry-University Cooperative Research Centers]] | Fact | 国会专项拨款常常仿照并设立的产学共性技术研发协同实体。 |
 > | [[Advanced Technology Program]] | Fact | 显性民用产业政策计划的代表，因遭保守派围攻而促使研发资金转向专项拨款等隐蔽通道。 |
 > | [[Research Universities]] | Concept | 专项拨款争夺中的受惠高校与同行评议制度基石所在。 |
-> | [[Academic Risk Aversion]] | Concept | 伴随经费竞争白热化而出现的微观学术行为异化。 |
+> | [[Academic Risk Aversion]] | Concept | 伴随经费竞争白热化而出现的微观学术行为[[Alienation\|异化]]。 |
 > | [[Evaluation Research]] | Concept | 检验专项拨款使用效率与科研政策绩效的方法学参照。 |
 > | [[Academic Start-up Packages]] | Concept | 与专项大楼形成对比的、面向一线[[Early-Career Researchers\|青年科研人员]]的校级实质性科研配套启动机制。 |
 > | [[Fred Block]] | Person | 揭示专项拨款作为隐蔽发展型网络国家财政通道与产学中心生产性功能的社会学家。 |

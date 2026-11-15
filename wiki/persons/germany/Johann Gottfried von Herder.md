@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 11
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -36,11 +36,14 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Immanuel Kant]]"
+  - "[[Johann Georg Hamann]]"
   - "[[Josef Dobrovský]]"
   - "[[Benedict Anderson]]"
-related_facts: []
+related_facts:
+  - "[[Sturm und Drang]]"
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch05]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch04]]"
 confidence: high
 status: active
 created: 2026-11-12
@@ -62,7 +65,7 @@ updated: 2026-11-15
 ---
 
 > [!timeline] 生平与职涯
-> - **1744** 出生于东普鲁士莫隆根（Mohrungen），早年在柯尼斯堡大学修读神学与哲学，师从[[Immanuel Kant|康德]]，结识哈曼。
+> - **1744** 出生于东普鲁士莫隆根（Mohrungen），早年在柯尼斯堡大学修读神学与哲学，师从[[Immanuel Kant|康德]]，结识[[Johann Georg Hamann|哈曼]]。
 > - **1772** 发表《论语言的起源》（*Abhandlung über den Ursprung der Sprache*），确立人类理性与特定民族语言发生学一体性的哲学命题。
 > - **1776** 经歌德举荐赴魏玛公国担任教会最高总管与总督管区长，主持宗教教育与文教机构改革。
 > - **1784–1791** 撰写四卷本《人类历史哲学观念》（*Ideen zur Philosophie der Geschichte der Menschheit*），系统阐述多中心主义世界历史观与民族有机体演进理论。
@@ -100,7 +103,7 @@ updated: 2026-11-15
 
 > [!person-network] 关系网络
 > - **师承／思想对话** 伊曼纽尔·康德 — 柯尼斯堡大学导师；赫尔德早年深受其影响，后在历史哲学与理性批判领域与其分道扬镳。
-> - **同时代对话者** 约翰·沃尔夫冈·冯·歌德（Johann Wolfgang von Goethe） — 魏玛时期的亲密挚友与智识盟友，共同推动狂飙突进与魏玛古典主义。
+> - **同时代对话者** 约翰·沃尔夫冈·冯·歌德（Johann Wolfgang von Goethe） — 魏玛时期的亲密挚友与智识盟友，共同推动[[Sturm und Drang|狂飙突进]]与魏玛古典主义。
 > - **后世批评与阐释者** [[Benedict Anderson|本尼迪克特·安德森]] — 剖析其语言私有财产观念在19世纪欧洲[[Philological Revolution|语文学革命]]与民族主义普及中的深远催化作用。
 
 ---

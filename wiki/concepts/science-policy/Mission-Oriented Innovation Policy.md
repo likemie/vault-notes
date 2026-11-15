@@ -10,7 +10,7 @@ aliases:
 summary: "以应对重大社会挑战和变革性系统转型为核心导向，通过主动塑造与共创市场、战略方向引导、挑选意愿者、三层公共动态能力构建与引领和学习范式推动创新的公共政策体系"
 type: concept
 domain: "science-policy"
-related_count: 61
+related_count: 62
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Transformative System Failures]]"
   - "[[Complexity Paradox]]"
   - "[[Problem Finding]]"
+  - "[[Alienation]]"
   - "[[Regulatory Sandbox]]"
   - "[[Research Universities]]"
   - "[[Electronic Design Automation]]"
@@ -91,7 +92,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -198,7 +199,7 @@ updated: 2026-11-11
 > **动态汇合机制与路径分异** 使命是政策主体、产业部门与社会公众在争议性、复杂性与不确定性中探索并达成共识的汇合过程，有别于自上而下单向宣称的静止目标。
 
 > [!claim] [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]]
-> **路径汇合命题** 从高度棘手状态走向合法化解决方案存在三条差异化政策路径：通过政治审议与共识重构优先化解问题争议的问题导向路径；通过技术试验与[[Regulatory Sandbox|监管沙盒]]优先汇合技术可行性继而反向重构需求的解决方案导向路径；以及通过[[Reflexivity|反思性]]治理与小步渐进实现问题与方案同步演化的混合演化路径。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 481–485)]]
+> **路径汇合命题** 从高度棘手状态走向合法化解决方案存在三条差[[Alienation|异化]]政策路径：通过政治审议与共识重构优先化解问题争议的问题导向路径；通过技术试验与[[Regulatory Sandbox|监管沙盒]]优先汇合技术可行性继而反向重构需求的解决方案导向路径；以及通过[[Reflexivity|反思性]]治理与小步渐进实现问题与方案同步演化的混合演化路径。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 481–485)]]
 
 ---
 

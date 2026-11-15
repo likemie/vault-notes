@@ -10,7 +10,7 @@ aliases:
 summary: "以改善学生学业与福祉为共享愿景、依托合作探究与反思性对话深化教学实践并制度化研读转化外部证据的学校协同组织形态。"
 type: concept
 domain: "teacher-education"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Appropriate Research]]"
   - "[[Thoughtful Engagement]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Alienation]]"
   - "[[Reflexivity]]"
   - "[[Document]]"
   - "[[Learning Gain]]"
@@ -82,7 +83,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-14
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -108,7 +109,7 @@ updated: 2026-11-11
 > [!boundary]- 概念边界
 > - **不等于 全校教职工行政例会（Staff Meeting）** 行政会议以科层信息通报、规章制度宣讲与事务性布置为核心，缺乏平等的专业反思与证据研判空间；PLC 则是以学生学习证据与教学调适为中心的专业审议。
 > - **不等于 传统的年级组/单科行政教研组** 传统教研组往往侧重统一备课进度与应试练习卷编制；PLC 聚焦于围绕学生真实认知难点开展循证探究、互评课堂教学并追踪持续改善。
-> - **不等于 伪合作或表面合群（Contrived Collegiality）** 安迪·哈格里夫斯（Andy Hargreaves）指出，若 PLC 沦为管理层自上而下强制规训的流水线工具，剥夺[[Teacher Professional Agency\|教师专业能动性]]，便异化为行政问责的监控外衣。
+> - **不等于 伪合作或表面合群（Contrived Collegiality）** 安迪·哈格里夫斯（Andy Hargreaves）指出，若 PLC 沦为管理层自上而下强制规训的流水线工具，剥夺[[Teacher Professional Agency\|教师专业能动性]]，便[[Alienation|异化]]为行政问责的监控外衣。
 
 ---
 
@@ -196,7 +197,7 @@ updated: 2026-11-11
 
 ---
 
-> [!concept-proposition] 命题三｜专业学习共同体必须实现全员包容性参与并贯通非正式信任网络，否则极易异化为孤立任务小组或落入活动陷阱
+> [!concept-proposition] 命题三｜专业学习共同体必须实现全员包容性参与并贯通非正式信任网络，否则极易[[Alienation|异化]]为孤立任务小组或落入活动陷阱
 > **全员包容性、信任网络与探究质态** 剖析 PLC 在微观学校生态中可能面临的组织病理，揭示全员参与、非正式信任渠道与结构化探究协议的三位一体保障。
 
 > [!claim] Brown, C. & [[Toby Greany\|Greany, T.]]; [[Alan Daly\|Daly, A. J.]]

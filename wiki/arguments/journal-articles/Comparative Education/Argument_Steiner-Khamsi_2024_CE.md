@@ -25,6 +25,7 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[Global Education Governing Complex]]"
   - "[[Soft Power by Hard Facts]]"
+  - "[[Alienation]]"
   - "[[Governing by Numbers]]"
   - "[[Methodological Transnationalism]]"
   - "[[Relational Space]]"
@@ -49,6 +50,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Promissory Legitimacy]]"
   - "[[Technology Deficit of Education]]"
+  - "[[Mimesis]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Return on Investment]]"
@@ -146,14 +148,14 @@ part_of:
   - "[[Comparative Education]]"
 status: draft
 created: 2026-09-11
-updated: 2026-11-11
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 114
+argument_related_count: 116
 argument_related_level: 11
 argument_related_stars: "💎💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -169,7 +171,7 @@ issuing_organization: ""
 > 在数字经济催生研究证据严重过剩（[[Surplus of Evidence]]）与信息孤岛（Lubienski & Malin, 2022）林立的时代，更多知识不仅未能消除政策制定的盲区，反而加剧了政策复杂性。在这一生态背景下，作为依托知识开展规制的两大先行机构——[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）与[[World Bank\|世界银行]]（World Bank），是如何以及何时将[[Policy Brokerage\|政策中介]]（Policy Brokerage）建构为教育领域全球治理的核心工具？由五大国际组织、[[Transnational Education|跨国教育]]资本与私人慈善基金会构成的[[Global Education Governing Complex\|全球教育治理复合体]]如何[[Soft Power by Hard Facts\|以硬事实施展软权力]]？作为主要政策对象的各国政府又如何在政策周期的不同阶段策略性动员或严苛过滤这些中介证据？
 
 > [!claim] 核心主张
-> 信息过载与知识过剩为中介机构选择性提取并包装政策证据滋生了空间；国际组织通过将核心评测工具与差异化知识产品打包，[[Soft Power by Hard Facts\|以硬事实施展软权力]]，借此巩固自身的组织利基；必须确立基于多学科视角的[[Governing by Numbers\|数字治理]] 2.0比较研究纲领，依托[[Methodological Transnationalism\|方法论跨国主义]]将全球与国家视作相互依存的[[Relational Space\|关系性空间]]，揭示国家行动者在政策议程设置阶段对外在权威的工具性动员与在法定决策出台阶段的深度政治过滤。
+> 信息过载与知识过剩为中介机构选择性提取并包装政策证据滋生了空间；国际组织通过将核心评测工具与差[[Alienation|异化]]知识产品打包，[[Soft Power by Hard Facts\|以硬事实施展软权力]]，借此巩固自身的组织利基；必须确立基于多学科视角的[[Governing by Numbers\|数字治理]] 2.0比较研究纲领，依托[[Methodological Transnationalism\|方法论跨国主义]]将全球与国家视作相互依存的[[Relational Space\|关系性空间]]，揭示国家行动者在政策议程设置阶段对外在权威的工具性动员与在法定决策出台阶段的深度政治过滤。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 过去五十年间经合组织、世界银行等国际组织在全球教育治理中的工具演化，以及北欧等国中央政府在政策周期中对跨国证据的使用机制。
@@ -264,7 +266,7 @@ issuing_organization: ""
 >
 > - **1960–1970年代 — 控制论规划与技术官僚式人力预测**
 >
->   为应对计划经济体制的竞争，经合组织模仿其长期规划模式，引入控制论与[[Human Capital Theory\|人力资本理论]]，联合南欧六国实施战后首个跨国宏观规划工程[[Mediterranean Regional Project\|地中海区域项目]]（Mediterranean Regional Project，MRP），推行专注于劳动力市场需求预测的技术官僚式[[Manpower Requirements Approach\|人力需求预测法]]（Manpower Requirements Approach，MRA / 人力规划）。
+>   为应对计划经济体制的竞争，经合组织[[Mimesis|模仿]]其长期规划模式，引入控制论与[[Human Capital Theory\|人力资本理论]]，联合南欧六国实施战后首个跨国宏观规划工程[[Mediterranean Regional Project\|地中海区域项目]]（Mediterranean Regional Project，MRP），推行专注于劳动力市场需求预测的技术官僚式[[Manpower Requirements Approach\|人力需求预测法]]（Manpower Requirements Approach，MRA / 人力规划）。
 >
 > - **1980年代 — 教育标准确立与跨国指标项目起步**
 >

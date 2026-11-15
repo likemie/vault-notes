@@ -10,7 +10,7 @@ aliases:
 summary: "指在儒家与比较哲学传统中体现最高道德卓越、普世仁爱与知行合一的终极理想人格；在比较政治学与现代治理反思中，该概念亦被用于指称将公职人员预设为不计世俗回报之无私修道者或哲学王的“圣人治理假设”，构成透视道德教化、社会流动与公共激励机制的跨文化理论透镜。"
 type: concept
 domain: "chinese-philosophy"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Student Motivation]]"
   - "[[Self-Cultivation]]"
+  - "[[Alienation]]"
   - "[[Technical Rationality]]"
   - "[[Take the World Upon Oneself]]"
   - "[[Epistemology]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -96,7 +97,7 @@ updated: 2026-11-14
 > [!boundary]- 概念边界
 > - 不等于 [[Junzi|君子]] — 君子是注重道德修养与行为自觉的现实典范，但仍处于成长与[[Self-Cultivation|修身]]进程中；圣人则是仁德圆满、以天下万物为一体的终极巅峰。
 > - 不等于 宗教苦行僧（Ascetic Monks） — 苦行僧追求个体的超脱与来世救赎，圣人追求在世俗社会中践行仁政、造福苍生与建立良治。
-> - 不适用于 现代大规模公共机构的人事薪酬预设 — 现代公共治理若依赖选拔无私“圣人”而不设市场对标的激励机制，往往会异化为富豪参政或离职寻租。
+> - 不适用于 现代大规模公共机构的人事薪酬预设 — 现代公共治理若依赖选拔无私“圣人”而不设市场对标的激励机制，往往会[[Alienation|异化]]为富豪参政或离职寻租。
 
 ---
 

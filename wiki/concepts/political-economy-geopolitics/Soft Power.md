@@ -7,9 +7,9 @@ aliases:
 summary: "约瑟夫·奈（Joseph S. Nye）提出的国际关系与地缘政治核心概念，指行为体通过文化吸引力、政治价值观感召与具有合法性的对外政策来塑造他者偏好而非诉诸军事或经济强制的能力。在当代全球教育治理与跨国比较中，软实力演进为“以硬事实施展软权力”（Soft Power by Hard Facts），国际组织通过探究模式与调解模式输出量化指标、跨国测评排名与最佳实践工具箱，对主权国家教育体系实施远处规制与政策趋同。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 79
-related_level: 7
-related_stars: "💎💎⭐"
+related_count: 80
+related_level: 8
+related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - concept/political-economy-geopolitics
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Epistemic Community]]"
   - "[[Educational Soft Power]]"
   - "[[Epistemology]]"
+  - "[[Alienation]]"
   - "[[Open-Mindedness]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Winner's Fallacy]]"
@@ -108,7 +109,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-29
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -201,7 +202,7 @@ updated: 2026-11-14
 
 ---
 
-> [!concept-proposition] 命题三｜跨境高等教育中的软实力投射面临地缘工具化异化
+> [!concept-proposition] 命题三｜跨境高等教育中的软实力投射面临地缘工具化[[Alienation|异化]]
 > **[[Geopolitics|地缘政治]]工具化与跨国学术信任侵蚀** 审视当学术交流与留学生教育被单向绑定于国家软实力竞争时，如何将跨国合作拖入零和对抗并消解学术信任。
 
 > [!claim] [[Jane Knight|Knight, J.]] & 余婧然和谢爱磊

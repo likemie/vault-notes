@@ -7,7 +7,7 @@ aliases:
 summary: "谢林围绕绝对者的艺术显现建构的哲学美学体系，前期在《先验唯心论体系》中将艺术确立为哲学的唯一永恒工具与文献，中期在《艺术哲学》中转向新柏拉图主义理念美学并让艺术重归哲学概念阐释之下。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 22
+theory_related_count: 26
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[New Mythology]]"
   - "[[Genius]]"
   - "[[The Sublime]]"
+  - "[[Mimesis]]"
   - "[[Creativity]]"
   - "[[Free Play]]"
   - "[[Research Question]]"
@@ -39,9 +40,13 @@ related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Friedrich Wilhelm Joseph Schelling]]"
   - "[[Baruch Spinoza]]"
+  - "[[Johann Georg Hamann]]"
+  - "[[Manfred Frank]]"
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch04]]"
   - "[[Argument_Hammermeister_2002_Cambridge]]"
+related_facts:
+  - "[[Jena Romantics]]"
 confidence: high
 status: draft
 created: "2026-11-15"
@@ -64,7 +69,7 @@ updated: 2026-11-15
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[Friedrich Wilhelm Joseph Schelling|弗里德里希·威廉·约瑟夫·谢林]]于 1800 年出版《先验唯心论体系》（第六章集中论述艺术哲学），并在 1802–1807 年间通过对话《布鲁诺》（1802）、讲稿《艺术哲学》（1802–1803 耶拿、1804–1805 维尔茨堡）、《学术研究方法论讲演录》第十四讲（1803）及演说《论造型艺术与自然的关系》（1807）展开中期重构。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62, 65–67)]]
 > - **原初问题** 既要调和自身早期自然哲学（从实在推导理想）与先验哲学（把自然看作精神折光）以免退回康德二元论，又要解决绝对者（*das Unbedingte*）无法被命题语言对象化为“物”（*Ding*）的认识论悖论。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 67–68)]]
-> - **理论资源与材料** 融合[[Baruch Spinoza|斯宾诺莎]]（Baruch Spinoza）的绝对总体性诉求、费希特《知识学》的“自我”与“理智直观”、荷尔德林《判断与存在》及美学残篇、哈曼（Johann Georg Hamann）对诗意认知的推崇、耶拿浪漫派的对话交流、温克尔曼（Winckelmann）的古典艺术理想以及柏拉图（Plato）与普罗提诺（Plotinus）的新柏拉图主义传统（《艺术哲学》第二部分并大量借鉴奥古斯特·威廉·施莱格尔的柏林讲稿）。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 63–65, 67–70, 73, 78–79)]]
+> - **理论资源与材料** 融合[[Baruch Spinoza|斯宾诺莎]]（Baruch Spinoza）的绝对总体性诉求、费希特《知识学》的“自我”与“理智直观”、荷尔德林《判断与存在》及美学残篇、[[Johann Georg Hamann|哈曼]]（Johann Georg Hamann）对诗意认知的推崇、[[Jena Romantics|耶拿浪漫派]]的对话交流、温克尔曼（Winckelmann）的古典艺术理想以及柏拉图（Plato）与普罗提诺（Plotinus）的新柏拉图主义传统（《艺术哲学》第二部分并大量借鉴奥古斯特·威廉·施莱格尔的柏林讲稿）。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 63–65, 67–70, 73, 78–79)]]
 > - **形成路径** 谢林在《体系》中沿着自我意识从感觉、反思、实践到自然的发展史，证明道德历史无穷无尽且自然缺乏自我意识，唯有倒转自然方向（从有意识创作出发而融入无意识恩典）的艺术活动能把绝对同一性直观地呈现于成品；两年后转向同一哲学时，他则改由绝对者内部“理念”的流溢与“完整瞬间”来界定艺术。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 70–75, 78–81)]]
 
 > [!dev-timeline] 理论版本与贡献
@@ -96,7 +101,7 @@ updated: 2026-11-15
 > [!theory-proposition] 命题二｜艺术美高于自然美，且艺术拒绝一切外在功利、道德或科学目的
 > 自然的有机产物只是偶然地呈现出美，唯有艺术作品必然地、本质地体现美；因此，完美艺术构成了评判自然美的原则与规范，从而颠覆了康德《判断力批判》第 46 节“自然借天才给艺术立法”的层级。唯有彻底摆脱感官享乐、经济效用、道德说教乃至科学目标导向的从属地位，艺术作为自身目的才能保持其“神圣与纯洁”。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 73–74)]]
 
-> [!theory-proposition] 命题三｜在中期新柏拉图主义美学中，艺术模仿永恒理念并凝结超越时间的“完善瞬间”，但最终须服从哲学阐释
+> [!theory-proposition] 命题三｜在中期新柏拉图主义美学中，艺术[[Mimesis|模仿]]永恒理念并凝结超越时间的“完善瞬间”，但最终须服从哲学阐释
 > 在《艺术哲学》与《论造型艺术与自然的关系》中，谢林主张每个事物都受永恒理念支配，艺术家必须抽离经验产品、步入纯粹概念与[[Creativity|创造力]]量之中，直接模仿理念（*Urbild*），从而把对象从时间流逝中提炼至其目的论顶点的永恒当下。然而，这一有限显现本身仍是不自足的，既需要哲学家加以概念阐释，也与宗教形成相互依存的纽带。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 78–82)]]
 
 > [!example|notitle]
@@ -124,7 +129,7 @@ updated: 2026-11-15
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 德国古典唯心论、早期浪漫派美学、艺术认识论以及海德格尔与法兰克福学派对科学工具理性的批判谱系。
 > - **成立条件** 依赖“存在一个先于主客分裂且无法被命题概念穷尽的绝对者”这一形而上学预设。
-> - **解释不足** 中期理论一方面声称哲学可以通过概念阐释把握艺术中的绝对者，另一方面又要求保留艺术的无限可阐释性与绝对者的隐匿性，二者构成内在紧张（曼弗雷德·弗兰克指出）；此外，早期理论同样未能说明非政治的个体艺术品如何转化为公共性的[[New Mythology|新神话]]。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 77, 82)]]
+> - **解释不足** 中期理论一方面声称哲学可以通过概念阐释把握艺术中的绝对者，另一方面又要求保留艺术的无限可阐释性与绝对者的隐匿性，二者构成内在紧张（[[Manfred Frank|曼弗雷德·弗兰克]]指出）；此外，早期理论同样未能说明非政治的个体艺术品如何转化为公共性的[[New Mythology|新神话]]。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 77, 82)]]
 > - **不能直接推出** 不能将谢林早期《体系》的“艺术高于哲学”直接套用于其全部思想生涯，因其在 1802 年后即反转了这一等级，晚年更从基督教哲学立场批评世俗艺术。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 66)]]
 
 ---

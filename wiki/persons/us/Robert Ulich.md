@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 54
+person_related_count: 55
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Liberal Education]]"
   - "[[Competitiveness]]"
+  - "[[Alienation]]"
   - "[[Bureaucracy]]"
   - "[[Bildung]]"
   - "[[Positivism]]"
@@ -140,7 +141,7 @@ updated: 2026-11-15
 >   文艺复兴打破经院哲学禁锢，重新发掘古希腊罗马古典文明，高扬人的尊严、世俗个性与审美自由，将教育从枯燥教义辩论转向古典人文主义博雅教养（*Studia humanitatis*），催生了以培养文雅绅士和公民领袖为宗旨的精英古典中学（如文理中学与[[Grammar School\|文法学校]]）。宗教改革中[[Martin Luther|路德]]与加尔文确立信徒皆祭司信条，为了使信徒能够直接研读母语圣经，首次赋予平民母语识字与初等教育以绝对的宗教义务性，强力推动世俗政权承担设立公共初等学校的法定责任。两者共同奠定了近代西方中等精英[[Liberal Education\|博雅教育]]与初等大众普及教育并行的双轨制雏形。
 > - **理性主义时代的启蒙科学与世俗国家塑造（Rationalism）**
 >   [[Francis Bacon|培根]]、[[René Descartes\|笛卡尔]]、洛克、[[Jean-Jacques Rousseau\|卢梭]]与[[Immanuel Kant\|康德]]掀起科学革命与[[Enlightenment\|启蒙运动]]，以人类自主理性、经验观察与自然法则驱逐了神学权威与经院残余。启蒙哲人坚信人性的可塑性与社会进步；卢梭开创遵循儿童天性的自然主义教育，[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]推进现代要素教学法。民族主权国家崛起并将教育视为培育公民国家认同、传播科学知识与强化[[Competitiveness|国家竞争力]]的战略杠杆，国家政权逐步从教会手中收回教育领导权（如普鲁士 1794 年《普通邦法》与法国拿破仑帝国大学），由此确立了由国家统一规划的现代公共教育系统。
-> - **工业科学技术时期的大众教育与人性异化危机（Science and Technology）**
+> - **工业科学技术时期的大众教育与人性[[Alienation|异化]]危机（Science and Technology）**
 >   工业化大生产与机器技术推动自然科学、实用技术与大众中等教育走向历史舞台中心。乌利希在此阶段详尽考察了英法德俄四国应对现代性冲击的制度形态：英国在自由自治与精英公学传统中妥协推进中等教育普及；法国依托拿破仑集权[[Bureaucracy|官僚制]]维系国立中学的高深学术理性；德国在洪堡新人文主义全人教化（*[[Bildung]]*）理想与威权军国主义之间爆发悲剧性分裂；俄国与苏联则从沙皇专制断裂走向无产阶级统一劳动学校。乌利希警示工业主义与技术至上导致了严重的工具理性膨胀与人的异化危险，这一文明演进规律为战后亚非拉新兴国家应对工业化与文化认同冲突提供了至关重要的历史镜鉴。(Kazamias, 1963: 387)
 
 ---
@@ -244,7 +245,7 @@ updated: 2026-11-15
 > |:-----|:-----|:-----|
 > | [[Historical-Philosophical-Cultural Motif\|历史-哲学-文化母题]] | 概念 | 将母题充实为以人（anthropos）为中心的[[Paideia\|古典教化]]哲学与西方文化史分期。 |
 > | [[Historical-Comparative Method\|历史比较法]] | 方法 | 实践了将西方精神运动与多国制度发生史深度熔铸的历史叙事路径。 |
-> | [[Democratic Education\|民主教育]] | 概念 | 将社会民主价值信念融入历史叙事，抵御极权统治与工具理性异化。 |
+> | [[Democratic Education\|民主教育]] | 概念 | 将社会民主价值信念融入历史叙事，抵御极权统治与工具理性[[Alienation\|异化]]。 |
 > | [[Liberal Education\|自由教育]] | 概念 | 乌利希教育哲学的核心支柱，作为抵御极权主义与技术功利主义的精神防线。 |
 > | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 乌利希历史比较哲学所依托的多维流变认识[[Paradigm\|范式]]，贯通文明史、哲学与社会民主价值。 |
 > | [[Unit of Analysis\|分析单位]] | 概念 | 第二代际将国家教育系统作为嵌入在深厚文化与[[National Character\|民族性格]]中的整体分析单位。 |

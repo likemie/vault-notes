@@ -7,7 +7,7 @@ aliases:
 summary: "与实证主义相对立的社会科学哲学与认识论立场，主张社会实在由具有意向性的人类行动者在主体间互动中建构，探究的目的不在于发现普适因果定律，而在于通过领会与深描理解行动者赋予行动的主观意义及其所处的生活世界。"
 type: concept
 domain: "educational-philosophy"
-related_count: 60
+related_count: 61
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Emergence]]"
   - "[[Unit of Analysis]]"
+  - "[[Alienation]]"
   - "[[Knowledge Production]]"
   - "[[Epoché]]"
   - "[[Intercultural Education]]"
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-30
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -152,7 +153,7 @@ updated: 2026-11-11
 > [[Wilhelm Dilthey|狄尔泰]]与韦伯指出，人类行动不同于物理世界的被动机械位移，它始终注入了行动者对未来的意图、期望、规范与自我理解。[[Positivism|实证主义]]试图建立人类行为的通用预测法则，实质上是对人类主体能动性与自由意志的抹杀。解释主义强调探究必须立足于主位视角（Emic），将行动者对现实的[[Thomas Theorem|情境定义]]视为解释行动逻辑的唯一出发点。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, pp. 15–18]]
 
 > [!example|notitle]
-> 在学校教育研究中，学生在课堂上的“发呆”或“哄笑”在[[Behaviorism|行为主义]]量化观察量表中往往被机械记录为“偏离教学任务（off-task）”并折算为不良指标；解释主义研究者则通过访谈与情境[[Rich and Thick Description|深描]]发现，哄笑往往是师生随时间演进所共享的特殊象征密码，或是学生在抵御教学异化时维护主体自尊的微观协商策略。
+> 在学校教育研究中，学生在课堂上的“发呆”或“哄笑”在[[Behaviorism|行为主义]]量化观察量表中往往被机械记录为“偏离教学任务（off-task）”并折算为不良指标；解释主义研究者则通过访谈与情境[[Rich and Thick Description|深描]]发现，哄笑往往是师生随时间演进所共享的特殊象征密码，或是学生在抵御教学[[Alienation|异化]]时维护主体自尊的微观协商策略。
 
 > [!theory-proposition] 命题二｜有效社会[[Knowledge Production|知识生成]]于主体间理解与生活世界沉浸，研究者绝非居高临下的外在裁判
 > 阿尔弗雷德·舒茨（1962）阐明，社会科学家的“二阶[[Construct|构念]]”（Second-order Constructs）必须建立在行动者日常生活的“一阶构念”之上。研究者不可能站在真空之中获得冷眼旁观的上帝视角，研究者本身就是社会世界的一部分。知识在研究者与被研究者的互动对话中共同生产，探究要求研究者运用[[Epoché|悬置]]放下先验偏见，进入受访者的参照框架（Frame of Reference）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, pp. 18–22]]

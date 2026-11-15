@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: global
 person_region: "global"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Basic Learning Needs]]"
   - "[[Development Education]]"
   - "[[Document]]"
+  - "[[Alienation]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -91,7 +92,7 @@ updated: 2026-11-11
 
 > [!influence-path] 影响路径
 > - **制度路径** 作为执行秘书推动四大联合国与布雷顿森林机构达成战后首个全球性基础教育政策共识，奠定了全民教育（EFA）三十年跨国运动的制度架构。[[Argument_King_2007_CE|(King, 2007, pp. 379–381)]]
-> - **批判路径** 其亲历者自述为比较教育学与国际发展研究界解构“全球目标神话”提供了最具权威性的内部一手证言，证实了多边技术官僚在将弹性建议指标异化为刚性规训考核中的决定性作用。[[Argument_King_2007_CE|(King, 2007, pp. 380, 389)]]
+> - **批判路径** 其亲历者自述为比较教育学与国际发展研究界解构“全球目标神话”提供了最具权威性的内部一手证言，证实了多边技术官僚在将弹性建议指标[[Alienation|异化]]为刚性规训考核中的决定性作用。[[Argument_King_2007_CE|(King, 2007, pp. 380, 389)]]
 
 ---
 

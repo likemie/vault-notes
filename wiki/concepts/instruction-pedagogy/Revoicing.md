@@ -8,10 +8,10 @@ aliases:
 summary: "课堂话语策略，指教师重构并提升学生表述以明确观点署名权、提升认知层次并推动论证对话"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/instruction-pedagogy
   - western-learning-model
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Differentiated Instruction]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Alienation]]"
   - "[[Problem Solving]]"
   - "[[Variable]]"
 related_theories:
@@ -45,7 +46,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -125,7 +126,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题二｜话语重铸深度根植于西方个体主义与说话即思考的文化假定，与东亚去归因的倾听导向教学形成鲜明制度性对照
-> **跨文化话语规范与[[Cultural Models|文化模型]]对照** 探讨话语重铸背后所依赖的文化哲学预设，以及其在不同文化认知体系中的差异化实践与制度表现。
+> **跨文化话语规范与[[Cultural Models|文化模型]]对照** 探讨话语重铸背后所依赖的文化哲学预设，以及其在不同文化认知体系中的差[[Alienation|异化]]实践与制度表现。
 
 > [!claim] Li, J.
 > **文化模型的深层投射与跨文化制度差异** 话语重铸之所以在西方盛行，建立在个人是想法的唯一所有者以及未被言说的想法等于未被思考的文化公理之上；学前阶段用自己的语言说等教育训练为该策略提供了早期社会化铺垫。相反，在受儒家传统影响的东亚课堂中，教师收集多元回答但从不指明谁说了更好答案或谁不同意谁，因为东亚文化将想法视为集体流动的共有资源而非个人财产，这种去个人化的处理方式消除了同伴间零和比较的负面压力。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 91–93, 115–118)]]

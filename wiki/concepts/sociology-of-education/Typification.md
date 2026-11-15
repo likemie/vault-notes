@@ -4,7 +4,7 @@ aliases: [类型化, 典型化, 理想类型化, typifications]
 summary: "阿尔弗雷德·舒茨现象学社会学的核心认知与互动机制，指行动者与研究者运用源自社会既有知识库的“理想类型”心智图式来理解他人行为、组织日常生活世界并在多重实在间穿梭的过程。"
 type: concept
 domain: "sociology-of-education"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Decodification]]"
   - "[[Cultural Capital]]"
   - "[[Epistemology]]"
+  - "[[Alienation]]"
   - "[[Lesson Study]]"
   - "[[Value Neutrality]]"
   - "[[Interpretivism]]"
@@ -47,7 +48,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -117,7 +118,7 @@ updated: 2026-11-11
 > **情境多元性与多重实在维度** 探讨行动者在不同社会领域中的适应能力。类型化图式赋予行动者自如切换规则的能力。
 
 > [!claim] Burrell & Morgan
-> **传记情境与多重实在导航判定** 行动者借以类型化他人行为的日常知识储备因情境与个人传记脉络而异；社会行动者生活在多重实在共存的世界中，正是凭借差异化的类型化图式，行动者才能在不同世界之间从容穿梭，并严格遵守每个实在各自的独特游戏规则。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Burrell & Morgan, 1979 via Cohen et al., 2011, Ch. 1, p. 19)]]
+> **传记情境与多重实在导航判定** 行动者借以类型化他人行为的日常知识储备因情境与个人传记脉络而异；社会行动者生活在多重实在共存的世界中，正是凭借差[[Alienation|异化]]的类型化图式，行动者才能在不同世界之间从容穿梭，并严格遵守每个实在各自的独特游戏规则。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Burrell & Morgan, 1979 via Cohen et al., 2011, Ch. 1, p. 19)]]
 
 ---
 

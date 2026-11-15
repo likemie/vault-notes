@@ -4,10 +4,10 @@ aliases: [规范范式, normative model, 规则统治范式]
 summary: "道格拉斯提出的方法论上位范式，统领实证主义与结构功能主义取向，主张人类行为本质上受规则统治，应采纳自然科学方法探究外在因果规律，追求构建普适的宏大理性大厦。"
 type: concept
 domain: "educational-philosophy"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags: [paradigm/normative, theme/epistemology, theme/research-philosophy, methodology/quantitative]
 related_concepts:
   - "[[Paradigm]]"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Grand Theory]]"
   - "[[Emergence]]"
   - "[[Dialogue in Education]]"
+  - "[[Alienation]]"
   - "[[Determinism]]"
   - "[[Decodification]]"
   - "[[Document]]"
@@ -31,11 +32,11 @@ related_concepts:
   - "[[Nomothetic]]"
   - "[[Subjectivism]]"
 related_persons:
-  - "[[Jack Douglas]]"
   - "[[Thomas Barr Greenfield]]"
   - "[[Auguste Comte]]"
   - "[[Talcott Parsons]]"
   - "[[B. F. Skinner]]"
+  - "[[Jack Douglas]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
 related_theories:
@@ -56,13 +57,13 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Normative Paradigm
-> **规范[[Paradigm\|范式]]（Normative Paradigm）**，亦称**规范模型（normative model）**，是由社会学家[[Jack Douglas\|道格拉斯]]（Jack Douglas, 1973）提出并由 Cohen et al.（2011, Ch. 1, pp. 17–18）在教育研究方法论中系统阐发的上位范式概念。该范式统领了[[Positivism\|实证主义]]、[[Behaviorism|行为主义]]与[[Structural Functionalism|结构功能主义]]的核心取向，建立在两大基本导向假定之上：其一，人类行为在本质上受规则所统治（human behaviour is essentially rule-governed）；其二，人类行为应当采纳自然科学的方法进行[[Survey Research\|调查研究]]（investigated by the methods of natural science）。规范范式将社会视为独立于行动者的客观外在集合体，以“行为”（过去前因驱动的反应）为核心研究对象，致力于通过量化与经验实证程序构建普适的宏大理性大厦（rational edifice）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 17–18)]]
+> **规范[[Paradigm\|范式]]（Normative Paradigm）**，亦称**规范模型（normative model）**，是由社会学家道格拉斯（Jack Douglas, 1973）提出并由 Cohen et al.（2011, Ch. 1, pp. 17–18）在教育研究方法论中系统阐发的上位范式概念。该范式统领了[[Positivism\|实证主义]]、[[Behaviorism|行为主义]]与[[Structural Functionalism|结构功能主义]]的核心取向，建立在两大基本导向假定之上：其一，人类行为在本质上受规则所统治（human behaviour is essentially rule-governed）；其二，人类行为应当采纳自然科学的方法进行[[Survey Research\|调查研究]]（investigated by the methods of natural science）。规范范式将社会视为独立于行动者的客观外在集合体，以“行为”（过去前因驱动的反应）为核心研究对象，致力于通过量化与经验实证程序构建普适的宏大理性大厦（rational edifice）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 17–18)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向将社会与教育现象视为受外在不变规则支配的客体系统，通过[[Variable\|变量]]测量、受控设计与统计检验探究规律。
@@ -90,7 +91,7 @@ updated: 2026-11-03
 > | **理论的形态** | 宏大理性大厦（rational edifice），先验于研究并追求普遍概括 | [[Grounded Theory\|扎根理论]]（grounded theory）与多面图像，[[Emergence\|涌现]]于具体情境之后 |
 > | **研究者角色** | 居高临下的客观观察者、社会工程师与法则发现者 | 深入生活世界的参与者、意义理解者与情境[[Dialogue in Education\|对话]]者 |
 > | **方法论偏好** | 量化调查、受控实验、心理测量与数理统计分析 | [[Qualitative Interview\|质性访谈]]、[[Participant Observation\|参与观察]]、[[Case Study\|个案研究]]、人因陈述与[[Rich and Thick Description\|深描]] |
-> | **组织病理诊断** | 组织目标模糊、规则松弛或结构失调，需制度修补 | 权力强加外部定义导致个体异化，需释放主体自主意图 |
+> | **组织病理诊断** | 组织目标模糊、规则松弛或结构失调，需制度修补 | 权力强加外部定义导致个体[[Alienation\|异化]]，需释放主体自主意图 |
 
 ---
 

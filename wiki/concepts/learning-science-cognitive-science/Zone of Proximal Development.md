@@ -9,7 +9,7 @@ aliases:
 summary: "由维果茨基提出的心智发展与教学核心构念，指个体独立解决问题的实际水平与在他人指导或协作下的潜在水平之间的动态差距。现代教育理论已将其从儿童认知与自适应智能体脚手架，进一步拓展至基于课堂观察诊断的教师专业发展与循证辅导。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Paradigm]]"
   - "[[Dynamic Assessment]]"
+  - "[[Alienation]]"
   - "[[Scaffolding]]"
   - "[[AI Agent in Education]]"
   - "[[Learned Helplessness]]"
@@ -82,7 +83,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ## 定义
@@ -96,7 +97,7 @@ updated: 2026-11-11
 
 > [!concept-lens] 概念透镜
 > - **含义** ZPD 指向那些尚未完全成熟但正处于萌发演进状态的心智机能；它度量的是个体在社会中介支持网络下能够达到的最高功能上限，有别于孤立个体的静态认知存量。
-> - **用途** 瓦解以静态纸笔测试为唯一标准的智力评估[[Paradigm|范式]]，为[[Dynamic Assessment|动态评估]]（Dynamic Assessment）、差异化[[Scaffolding|脚手架]]教学、自适应 AI [[AI Agent in Education|智能体]]微提示以及在职教师一对一精准辅导提供导航坐标。
+> - **用途** 瓦解以静态纸笔测试为唯一标准的智力评估[[Paradigm|范式]]，为[[Dynamic Assessment|动态评估]]（Dynamic Assessment）、差[[Alienation|异化]][[Scaffolding|脚手架]]教学、自适应 AI [[AI Agent in Education|智能体]]微提示以及在职教师一对一精准辅导提供导航坐标。
 > - **边界** ZPD 必须以真实存在的社会符号互动或结构化支架为依托；若任务难度超出潜在水平上限，强行介入不仅无效，反而极易诱发认知负荷崩溃与[[Learned Helplessness|习得性无助]]。
 
 [[Lev Vygotsky|维果茨基]]从儿童发展机能视角确立了经典定义，而现代循证政策则将其推广至成人专业学习。
@@ -240,7 +241,7 @@ ZPD [[Construct|构念]]不仅支配儿童认知成长，同样统治着成年�
 > > 争论 ZPD 究竟是“更有能力的他人（MKO）”向新手单向传授规范化文化工具，还是师生在特定文化生态中平等的共同建构过程。
 > >
 > > - **传统结构派** 强调支架的定向性与权威示范，认为缺乏明确目标引领将导致学习效率低下。
-> > - **社会文化批判派** 警惕支架异化为规训权力的延伸，主张关注弱势群体自带的在地文化[[Intellectual Capital|知识资本]]。
+> > - **社会文化批判派** 警惕支架[[Alienation|异化]]为规训权力的延伸，主张关注弱势群体自带的在地文化[[Intellectual Capital|知识资本]]。
 >
 > > [!axis] [[Dynamic Assessment|动态评估]]潜能 vs 静态标准化[[Test Validity|测验效度]]
 > > 争论教育选拔是否应全面转向测查 ZPD 的动态测试。
@@ -322,7 +323,7 @@ ZPD [[Construct|构念]]不仅支配儿童认知成长，同样统治着成年�
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|
 > | [[Scaffolding]] | 概念 | 实践载体 | 脚手架是使学习者跨越最近发展区的具象化教学支撑与动态撤退技术。 |
-> | [[Effective Teaching]] | 概念 | 核心标志 | 卓越教学的核心特征之一在于精准捕捉学习者的 ZPD 并提供差异化认知挑战。 |
+> | [[Effective Teaching]] | 概念 | 核心标志 | 卓越教学的核心特征之一在于精准捕捉学习者的 ZPD 并提供差[[Alienation\|异化]]认知挑战。 |
 > | [[Observation Protocol]] | 方法 | 诊断基础 | [[Classroom Observation\|课堂观察]]协议为绘制师生微观行为基线提供数据支撑，是锚定实践 ZPD 的工具。 |
 > | [[Teach Classroom Observation Tool]] | 测量工具 | 落地工具 | 为在职教师各维度微观教学实践提供基准画像，支撑 Coach 规程定向辅导。 |
 > | [[AI Agent in Education]] | 概念 | 智能中介 | 教育智能体依托实时错因分析与图谱算法，在学习者 ZPD 内自动提供分步微提示。 |

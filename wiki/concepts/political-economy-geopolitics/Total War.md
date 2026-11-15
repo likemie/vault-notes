@@ -8,7 +8,7 @@ aliases:
 summary: "总体战指动员国家全体国民、经济工业基础与社会意志的极限战争形态。一战德国陆军将领埃里希·鲁登道夫在1935年《总体战》中确立了人民本身与工业产能皆为直接合法打击目标的战争法则；二战期间美军对日战略地毯式火攻与广岛长崎原子弹投放展现了总体战动能破坏的物理极限，并直接倒逼战后大国建立核恐怖均势，从而奠定了维系大国长和平的现代战略威慑体系。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Long Peace]]"
   - "[[AI Deterrence]]"
+  - "[[Alienation]]"
   - "[[Paradigm]]"
   - "[[Hard Power]]"
   - "[[Bonsai Army]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -93,7 +94,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题一｜工业化总体战逻辑消除平民与战斗员界限，推升战争破坏力至物理极限
-> **打击目标全域化与工业化杀伤** 该命题揭示总体战如何将战争从军队前线对决异化为国家整体产能与人口存量的灭绝性对抗。
+> **打击目标全域化与工业化杀伤** 该命题揭示总体战如何将战争从军队前线对决[[Alienation|异化]]为国家整体产能与人口存量的灭绝性对抗。
 
 > [!claim] [[Erich Ludendorff|Ludendorff, E.]]
 > **平民与工业基础设施的合法打击化** 鲁登道夫在其 1935 年论著《总体战》中系统确立了现代工业战争的极限制胜法则，指出当战争变成国民整体生命力与生产潜能的对抗时，全体人民本身理所当然地成为军事行动的直接承受者与打击目标，从而在法理与战略层面彻底废弃了传统骑士战争对非战斗人员的保护原则。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Ludendorff, 1935; cited in Karp & Zamiska, 2025, p. 39)]]

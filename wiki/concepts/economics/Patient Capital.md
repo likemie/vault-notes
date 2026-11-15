@@ -9,7 +9,7 @@ aliases:
 summary: "指具有跨周期长远投资视野、高风险耐受力且不以短期流动性套利为目的的战略性金融资本；多由公共开发银行与国家使命机构供给，是支撑深度科技跨越死亡之谷、三代使命演化与实现重大社会转型突破的核心金融支柱"
 type: concept
 domain: "economics"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Non-dilutive Funding]]"
   - "[[Picking the Willing]]"
   - "[[Cognitive Deskilling]]"
+  - "[[Alienation]]"
   - "[[Variable]]"
   - "[[Emergence]]"
   - "[[Vertical Disintegration]]"
@@ -83,7 +84,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -245,7 +246,7 @@ updated: 2026-11-11
 
 > [!warning] 适用局限与能力边界
 > - **公共组织专业能力门槛** 耐心资本的高效运作依赖公共机构内部高水平的产业研判团队与公私谈判能力；若缺乏内部专才培养并过度依赖外部咨询，极易陷入[[Cognitive Deskilling|去技能化]]陷阱。
-> - **财政纪律与止损退出难度** 当战略使命探索遭遇不可逆的技术路线失败时，若缺乏刚性的阶段性里程碑考核，耐心资本容易异化为长期补贴低效企业的沉没成本黑洞。
+> - **财政纪律与止损退出难度** 当战略使命探索遭遇不可逆的技术路线失败时，若缺乏刚性的阶段性里程碑考核，耐心资本容易[[Alienation|异化]]为长期补贴低效企业的沉没成本黑洞。
 
 ---
 

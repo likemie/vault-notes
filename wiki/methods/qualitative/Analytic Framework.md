@@ -9,7 +9,7 @@ summary: "质性研究与比较教育研究中超越参与者日常语言、运�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 100
+method_related_count: 101
 method_related_level: 10
 method_related_stars: "💎💎💎⭐"
 method_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Research Question]]"
   - "[[Literature Search]]"
+  - "[[Alienation]]"
   - "[[Educational Privatisation]]"
   - "[[Network Governance]]"
   - "[[Exogenous Privatisation]]"
@@ -130,7 +131,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-11-10
+updated: 2026-11-15
 ---
 
 ---
@@ -193,7 +194,7 @@ updated: 2026-11-10
 > | **[[Grounded Theory\|扎根理论]]框架** | [[Open Coding\|开放编码]]生成范畴 ➔ [[Axial Coding\|轴心编码]]建立条件-因果条件矩阵 ➔ [[Selective Coding\|选择性编码]]导出核心范畴 | 缺乏先验理论时的微观机制发现与草根理论生成 | Strauss and Corbin (1998) |
 > | **[[Case Study\|案例研究]]与[[Ethnography\|民族志]]** | 深度情境化[[Rich and Thick Description\|深描]]、场所活动解析与文化主题分类 | 特定[[Organizational Culture\|组织文化]]、特定社群内部的日常生活实践 | Stake (1995); Wolcott (1994) |
 > | **宏观比较政治经济学框架** | 运用资本积累、国家合法性危机、[[State Corporatism\|国家法团主义]]与[[Conditioned State Theory\|受限国家]]四重维度解构教育制度 | 解释发展中国家跨期教育扩张的动力矛盾与依附结构 | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, pp. 74–76)]] |
-> | **跨国教育[[Champ\|场域]]与[[Discourse\|话语]]流通框架** | 融合[[Basil Bernstein\|伯恩斯坦]]再情境化场域与卡斯特[[Space of Flows\|流动空间]]，区分全球学术、国际组织、国家、本土学术与学校五大结构位置，追踪话语过度简化、[[Gatekeepers\|守门人]]垄断与实践脱节 | 跨国教育治理标准在全球流动中的意义异化、权力不对称与本土实践遭遇 | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, pp. 349–355)]] |
+> | **跨国教育[[Champ\|场域]]与[[Discourse\|话语]]流通框架** | 融合[[Basil Bernstein\|伯恩斯坦]]再情境化场域与卡斯特[[Space of Flows\|流动空间]]，区分全球学术、国际组织、国家、本土学术与学校五大结构位置，追踪话语过度简化、[[Gatekeepers\|守门人]]垄断与实践脱节 | 跨国教育治理标准在全球流动中的意义[[Alienation\|异化]]、权力不对称与本土实践遭遇 | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, pp. 349–355)]] |
 > | **[[Educational Privatisation\|教育私有化]]与[[Network Governance\|网络治理]]综合框架** | 整合内[[Exogenous Privatisation\|外生私有化]]双轨（Ball & Youdell）、治理四维形态（市场/科层/网络/部族）、政策话语转型与多源纵向财务审计，追踪私营资本渗透全链条 | 解构新自由主义福利国家转型中公共服务外包、政策制定权转移与双层法人避税机制 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, pp. 1–25)]] |
 > | **政策转移两阶段分析框架** | 将跨国[[Policy Borrowing\|政策借用]]拆解为“意识形态搜寻与政策借用”和“实证规程与工具实施”两个衔接阶段，结合[[Evidence-Based Policy-Making\|循证政策制定]]机会结构解构外来方案的筛选与落地机制 | 解释跨国[[Policy Mobility\|政策流动]]如何受制于意识形态亲和性与实证因果证据位阶的双重塑动 | [[Argument_Legrand_2012_PolStud\|Legrand (2012, pp. 333–336)]] |
 > | **四维[[Critical Policy Analysis\|批判性政策分析]]框架** | 融合费尔克拉夫[[Critical Discourse Analysis\|批判话语分析]]三维模型、[[Policy Framing\|政策框架化]]（诊断/处方/激励）、鲍尔政策分析视角（驱动力/推进工具/价值）与巴斯卡[[Critical Realism\|批判实在论]][[Explanatory Critique\|解释性批判]] | 揭示大国跨国教育对外战略中表层共赢修辞与深层地缘[[Hard Power\|硬实力]]配套机制的结构性脱节 | [[Argument_Woo_2023_HEP\|Woo (2023, pp. 680–687)]] |

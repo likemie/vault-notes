@@ -9,9 +9,9 @@ aliases:
 summary: "指知识中介机构与证据门户用于规范、筛选和评定研究证据可信度与相关性的方法学准则、报告标准及功效主张判定体系，用于防范未获充分实证支持的结论误导政策与教学实践"
 type: concept
 domain: "educational-policy-reform"
-related_count: 89
-related_level: 8
-related_stars: "💎💎⭐⭐"
+related_count: 90
+related_level: 9
+related_stars: "💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - evidence-based-policy
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Appropriate Research]]"
   - "[[Publication Bias]]"
+  - "[[Alienation]]"
   - "[[Preregistration]]"
   - "[[Statistical Analysis Plan]]"
   - "[[Business as Usual]]"
@@ -118,7 +119,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -178,7 +179,7 @@ updated: 2026-11-11
 > [!critique-fatal] 导致[[Knowledge Mediation\|知识中介]]功效主张丧失正当性的四大病理根源（[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, p. 154]]）
 > - **证据库缺乏代表性** 仅依据少数个别研究做出宏观断言，未能囊括该议题下所有相关且可靠的既有研究，甚至存在[[Publication Bias\|发表偏差]]或选择性摘录。
 > - **方法质量与相关性不足** 纳入的研究在方法学上缺乏足够的严谨度与可[[Reliability\|信度]]，或者其研究设计与手头待决的教育实践问题缺乏实质关联。
-> - **证据体量与覆盖范围有限** 尽管现有研究在特定大样本总体中高度可靠，但其体量不足以推断亚群体（如特殊教育需求学生、特定处境群体）的差异化效果。
+> - **证据体量与覆盖范围有限** 尽管现有研究在特定大样本总体中高度可靠，但其体量不足以推断亚群体（如特殊教育需求学生、特定处境群体）的差[[Alienation|异化]]效果。
 > - **解释偏差与跨情境生搬硬套** 将实验室或高度控制环境下的平均有效性，未加修正地强行外推到资源禀赋、[[Organizational Culture\|组织文化]]完全不同的[[Heterogeneity\|异质性]]学校情境。
 
 > [!feature] 循证改革分级证据架构与五大方法学硬约束（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, pp. 22–26]]）

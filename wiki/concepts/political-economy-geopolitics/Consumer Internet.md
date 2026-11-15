@@ -8,7 +8,7 @@ aliases:
 summary: "指21世纪初在硅谷全面成熟的以满足个体消费者娱乐、社交、消费与便利性需求为核心驱动的技术产业范式；在卡普与扎米斯卡（2025）的科技政治批判中，消费互联网代表了硅谷从早期黑客解放理想与国家战略科技使命的双重撤退，技术精英放弃了对重大公共工程与国家安全基础设施的建设担当，转而在以广告算法、照片分享和外卖配送为代表的物质消费文化中寻求雇佣兵式的商业利益变现。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Artefact]]"
   - "[[Creativity]]"
   - "[[Hard Power]]"
+  - "[[Alienation]]"
   - "[[Elite Overproduction]]"
   - "[[Total Factor Productivity]]"
   - "[[Nature of Innovation]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -158,7 +159,7 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题三｜生活方式科技将顶尖工程智力异化为[[Technological Pastiche|技术拼贴]]与玩具创制，制造了虚假的创新繁荣
+> [!concept-proposition] 命题三｜生活方式科技将顶尖工程智力[[Alienation|异化]]为[[Technological Pastiche|技术拼贴]]与玩具创制，制造了虚假的创新繁荣
 > **科技哲学与创新形态学维度** 剖析消费互联网如何将本应用于重大物理突破的工程才华降格为对现有组件的表面缝合与伪需求包装。
 
 > [!claim] Karp & Zamiska; Graeber

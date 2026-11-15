@@ -8,7 +8,7 @@ aliases:
 summary: "由 Zewelanji N. Serpell 提出的政策导航框架，将宏观立法过程解构为问题识别、议程设置、政策制定与政策合法化四个阶段，指导教育研究者把握动态机会窗口并策略性注入实证证据"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 41
+theory_related_count: 43
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Legislative Policy Brief]]"
   - "[[Problem Finding]]"
   - "[[Knowledge Mediation]]"
+  - "[[Alienation]]"
   - "[[Boundary Spanner]]"
   - "[[Value Neutrality]]"
   - "[[Policy Window]]"
@@ -51,6 +52,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Russell J. Skiba]]"
+  - "[[Alexandre de Rhodes]]"
   - "[[Carol Weiss]]"
   - "[[John W. Kingdon]]"
 related_facts:
@@ -69,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -105,7 +107,7 @@ updated: 2026-10-30
 > [!proposition-chain] 核心命题一｜证据在政策中的介入是递归非线性的多阶段过程，各阶段具有独特的过程驱动要素与行动机会窗口
 > - **前提一** 公共政策制定遵循包含[[Problem Finding\|问题界定]]、议程设置、政策制定、政策合法化、政策执行与政策评估的六阶段生命周期，且在前端四个阶段存在明确的介入机会。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 43)]]
 > - **前提二** 各阶段由不同的系统力量驱动（阶段一受紧迫感与选民驱动；阶段二受媒体与政治立场驱动；阶段三受幕僚与委员会战略驱动；阶段四受法案文本与中介组织驱动）。
-> - **推导** 研究者不能在法案定稿后才开展被动评估，而必须针对各阶段的驱动要素实施差异化的精准介入策略。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 43–46)]]
+> - **推导** 研究者不能在法案定稿后才开展被动评估，而必须针对各阶段的驱动要素实施差[[Alienation|异化]]的精准介入策略。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 43–46)]]
 
 > [!proc] 政策四阶段介入导航路径
 > 1. **阶段一：以知情选民与[[Boundary Spanner\|知识经纪人]]身份介入问题界定（Problem Identification & Definition）**
@@ -202,7 +204,7 @@ updated: 2026-10-30
 ---
 
 > [!dev-timeline] 发展脉络
-> - **1951 — [[Policy Science in Comparative Education\|政策科学]][[Paradigm\|范式]]奠基** 哈罗德·拉斯韦尔（Harold Lasswell）确立政策科学传统，开创政策阶段模型雏形。
+> - **1951 — [[Policy Science in Comparative Education\|政策科学]][[Paradigm\|范式]]奠基** 哈[[Alexandre de Rhodes|罗德]]·拉斯韦尔（Harold Lasswell）确立政策科学传统，开创政策阶段模型雏形。
 > - **1970s — [[Research Utilization Models\|研究利用模型]]与价值冲突论** [[Carol Weiss\|卡罗尔·韦斯]]（Weiss, 1977）指出公共政策本质关乎价值选择，研究主要发挥概念启蒙而非直接工具决策功能。
 > - **1984 / 2003 — 多源流与[[Policy Window|政策之窗]]模型** [[John W. Kingdon|约翰·金登]]（Kingdon）提出政策之窗概念，揭示议程设置中的政治偶发性。
 > - **2000s — [[Evidence-Based Education\|循证教育]]运动与规制型[[Technical Rationality\|技术理性]]** 乔治·布什签署《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]），将“[[Scientifically Based Research\|基于科学的研究]]”固化为法定指标，推崇单一 [[Randomised Controlled Trials\|RCT]] 标准。

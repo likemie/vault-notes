@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Class Size]]"
+  - "[[Alienation]]"
   - "[[Document]]"
   - "[[New Managerialism]]"
   - "[[Knowledge Production]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -60,7 +61,7 @@ updated: 2026-11-11
 > - **代表贡献** 调查披露[[Cognition Education|认知教育]]公司向[[John Hattie|约翰·哈蒂]]输送巨额报酬的财务证据（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）；领导反对借实证之名推行[[Class Size|班级规模]]紧缩改革的学术公开信运动。
 
 > [!citation-card] 约翰·奥尼尔对学术中立性与商业旋转门的定性
-> 当制定国家教育标准的权威学者同时担任营利性咨询机构的董事，并从相关商业品牌推广中持续抽取高额第三方劳务报酬时，学术客观性的制度根基便已荡然无存；实证研究由此异化为掩护公共财政紧缩与教育商业变现的合法化工具。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31, citing O'Neill et al., 2016)]]
+> 当制定国家教育标准的权威学者同时担任营利性咨询机构的董事，并从相关商业品牌推广中持续抽取高额第三方劳务报酬时，学术客观性的制度根基便已荡然无存；实证研究由此[[Alienation|异化]]为掩护公共财政紧缩与教育商业变现的合法化工具。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31, citing O'Neill et al., 2016)]]
 >
 > *When an authoritative academic establishing [[New Zealand National Standards|national standards]] simultaneously serves as a director of a commercial consultancy and draws substantial third-party royalties, the institutional basis of scholarly objectivity vanishes; empirical research is reduced to a legitimating tool for fiscal austerity and commercial monetization.*
 

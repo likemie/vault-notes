@@ -10,7 +10,7 @@ aliases:
 summary: "18世纪欧洲以理性批判、经验科学、世俗化与普遍人权为核心的现代性奠基运动，主张摆脱未成熟状态，将公共教育确立为培育自主公民、重构公共领域与推进立宪法权的本体机制；同时通过消解神权王权合法性催生世俗主权想象，当代延伸至科学实践的理性证据协商与实质伦理重构。"
 type: concept
 domain: "educational-philosophy"
-related_count: 72
+related_count: 73
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Historical Amnesia]]"
   - "[[Epistemic Practices]]"
   - "[[Civic Rituals]]"
+  - "[[Alienation]]"
   - "[[Junzi]]"
   - "[[Creativity]]"
   - "[[Hard Power]]"
@@ -102,7 +103,7 @@ related_facts:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -222,7 +223,7 @@ updated: 2026-11-14
 ---
 
 > [!concept-proposition] 命题五｜启蒙科学分析与道德价值二分的道德迟钝预设孕育了当代文化虚无主义，维系启蒙现代性必须以实质伦理美德与[[Civic Rituals|公民仪式]]重塑价值锚桩
-> **科技文明的哲学反思与实质伦理重建** 探讨启蒙运动将科学分析与道德判断二分的认识论遗产在当代高科技社会的异化风险，阐明重铸启蒙技术文明为何必须诉诸实质文化特质与公民仪式。
+> **科技文明的哲学反思与实质伦理重建** 探讨启蒙运动将科学分析与道德判断二分的认识论遗产在当代高科技社会的[[Alienation|异化]]风险，阐明重铸启蒙技术文明为何必须诉诸实质文化特质与公民仪式。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025, Ch. 18)]]
 > **科学道德迟钝的虚无主义危机与实质美德重铸** 列奥·施特劳斯（Leo Strauss, 1959）深刻揭示，放弃道德视角的道德迟钝虽是启蒙运动与近代科学革命的前提，但在实践中将科学与道德截然二分极其困难，被禁止从前门进入的价值判断最终都会从后门溜进；对崇高目标的漠然与随波逐流直接构成了当代西方文化虚无主义的种子。同时，[[John Rawls|约翰·罗尔斯]]（John Rawls, 2005）的形式程序中立抽空了公共生活的文化特质，无法提供精神凝聚力。面对前沿技术竞争，维系启蒙现代性工程必须借鉴[[Lee Kuan Yew|李光耀]]在新加坡践行儒家[[Junzi|君子]]美德的治理智慧，在教育大纲、国民防卫服役与公共交往中全面恢复制造国家的公民仪式，将自由市场的个人[[Creativity|创造力]]与深厚文化信念相融合，以坚实[[Hard Power|硬实力]]重铸[[Technological Republic|技术共和国]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 214–218)]]

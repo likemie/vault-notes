@@ -5,7 +5,7 @@ aliases:
 summary: "指知识密集型资本主义的物质过程如何通过想象、指标和社会实践被话语建构并制度化的过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Doxa]]"
   - "[[Knowledge Production]]"
   - "[[Epistemology]]"
+  - "[[Alienation]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Innovation Policy Paradigms]]"
   - "[[Paradigm]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 > [!info] 定义
@@ -183,7 +184,7 @@ Polanyi 提供了一个关键的方法论启示：**要理解经济，必须分�
 
 > [!success] 应用领域
 > - 高等教育研究：分析大学如何被重构为全球[[Knowledge-Based Economy\|知识经济]]的关键基础设施——不仅是课程和治理的转变，还包括物理空间（如图书馆改造为 makerspace）的物质性转变。
-> - 比较教育：探讨不同国家和地区如何回应知识经济化的压力，以及这种回应如何差异化地重塑各国的教育系统。
+> - 比较教育：探讨不同国家和地区如何回应知识经济化的压力，以及这种回应如何差[[Alienation|异化]]地重塑各国的教育系统。
 > - 教育政策分析：揭示政策想象（如 [[Hub and Flow Imaginaries]]）如何塑造教育系统的优先事项和资源分配。
 >
 

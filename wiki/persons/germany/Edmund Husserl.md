@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 25
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Intentionality]]"
   - "[[Grandes Ecoles]]"
+  - "[[Alienation]]"
   - "[[Nature of Science]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Paradigm]]"
@@ -42,6 +43,7 @@ related_theories:
 related_methods:
   - "[[Qualitative Research]]"
 related_persons:
+  - "[[Martin Luther]]"
   - "[[Immanuel Kant]]"
   - "[[René Descartes]]"
   - "[[Alfred Schutz]]"
@@ -56,7 +58,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -77,7 +79,7 @@ updated: 2026-10-30
 > - **1859年** 出生于奥地利帝国摩拉维亚的普罗斯尼茨（Proßnitz，现捷克普罗斯捷约夫）一个德语犹太中产家庭。
 > - **1876–1883年** 先后在莱比锡大学、柏林大学和维也纳大学攻读数学、天文与物理。期间听取威廉·冯特（Wilhelm Wundt）的哲学讲座，并结识托马斯·加里格·马萨里克（[[Theory of Mind|ToM]]áš Garrigue Masaryk）。1883年在维也纳大学师从利奥·柯尼希斯贝格尔（Leo Königsberger）获得数学博士学位，论文为《变分法理论的贡献》（*Beiträge zur Variationsrechnung*）。
 > - **1884–1886年** 在维也纳大学旁听弗朗茨·布伦塔诺（Franz Brentano）的哲学与经验心理学讲座，深受其[[Intentionality|意向性]]概念启发，决意终身转向哲学研究。
-> - **1886–1887年** 受布伦塔诺推荐追随卡尔·施图姆普夫（Carl Stumpf）前往哈勒大学，于1887年完成大学授课资格论文（Habilitation）《论数的概念》（*Über den Begriff der Zahl*）。同年与马尔维娜·施泰因施奈德（Malvine Steinschneider）结婚并改信基督教路德宗。
+> - **1886–1887年** 受布伦塔诺推荐追随卡尔·施图姆普夫（Carl Stumpf）前往哈勒大学，于1887年完成大学授课资格论文（Habilitation）《论数的概念》（*Über den Begriff der Zahl*）。同年与马尔维娜·施泰因施奈德（Malvine Steinschneider）结婚并改信基督教[[Martin Luther|路德]]宗。
 > - **1887–1901年** 在哈勒大学担任无薪私人讲师（Privatdozent）。1891年发表《算术哲学》（*Philosophie der Arithmetik*），1894年遭遇哥特洛布·弗雷格（Gottlob Frege）针对该书心理学主义立场的严厉书评，促使其深刻反思并转向纯粹逻辑研究。
 > - **1900–1901年** 出版两卷本《逻辑研究》（*Logical Investigations*），系统性驳斥心理学主义，确立纯粹逻辑的客观理想性，标志着[[Phenomenology\|现象学]]作为独立哲学校派的正式诞生。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 2]]
 > - **1901–1916年** 任教于哥廷根大学，期间形成哥廷根现象学圈子。1913年发表《纯粹现象学和现象学哲学的观念第一卷》（*Ideas I*），确立“先验现象学”纲领，将意识阐发为万物意义的源泉，并系统阐发[[Epoché\|悬置]]（epoché）方法。
@@ -103,7 +105,7 @@ updated: 2026-10-30
 > - **1920s–1930s — 生活世界与主体间性阶段（Lifeworld & Intersubjectivity Phase）** 反思近代科学的意义危机，转向社会共在与前理论经验世界的[[Ontology\|本体论]]奠基。
 >   - **代表著作** 《欧洲科学的危机与先验现象学》（*The Crisis of European Sciences*, 1936）、《关于主体间性现象学》（*Zur Phänomenologie der Intersubjektivität*，手稿整理）。
 >   - **关键概念／方法** 生活世界（Lifeworld）、主体间性（Intersubjectivity）、移情（Empathy）、前理论经验（Pre-theoretical Experience）。
->   - **阶段转向** 面对纳粹兴起与欧洲文明危机，反思自伽利略以来近代实证科学通过数学化公式遮蔽真实感知的异化困境。主张[[Nature of Science\|科学本质]]上植根于主观体验的生活世界，并借助“移情”机制阐明个体意识如何与他者共建客观时空世界，系统回应了唯我主义质疑。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 4]]
+>   - **阶段转向** 面对纳粹兴起与欧洲文明危机，反思自伽利略以来近代实证科学通过数学化公式遮蔽真实感知的[[Alienation|异化]]困境。主张[[Nature of Science\|科学本质]]上植根于主观体验的生活世界，并借助“移情”机制阐明个体意识如何与他者共建客观时空世界，系统回应了唯我主义质疑。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 4]]
 
 ---
 

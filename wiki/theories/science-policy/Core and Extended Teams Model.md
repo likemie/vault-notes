@@ -8,7 +8,7 @@ aliases:
 summary: "解释当代科学中团队规模分布从经典泊松分布向重尾幂律分布演进的双重生成模型；区分随机招募成员的小型核心团队与依赖高产学者声誉累积优势快速聚集成员的扩展团队，揭示两类团队在长期存续性与知识生产中的互补分工。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 26
+theory_related_count: 27
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Metascience]]"
   - "[[Agile Governance]]"
   - "[[Research Question]]"
+  - "[[Alienation]]"
   - "[[Unit of Analysis]]"
   - "[[Guest Authorship]]"
   - "[[Early-Career Researchers]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -118,7 +119,7 @@ updated: 2026-11-11
 ---
 
 > [!theory-use] 框架入口
-> - **[[Research Question|研究问题]]** 科技资助政策应当如何在大型重大攻坚工程与青年科学家独立探索之间分配经费？高校科研管理应如何设计差异化的团队支持机制？
+> - **[[Research Question|研究问题]]** 科技资助政策应当如何在大型重大攻坚工程与青年科学家独立探索之间分配经费？高校科研管理应如何设计差[[Alienation|异化]]的团队支持机制？
 > - **分析对象与单位** 基础科学实验室、重大科技基础设施联盟与高校研究中心；[[Unit of Analysis|分析单位]]为团队历时性署名规模、成员招募动态与产出类型。
 > - **需要的材料** 历时性学术成果全量合署数据集、团队规模历史分布曲线、主导学者学术资历与课题经费结构。
 > - **解释目标** 诊断学科生态中团队规模结构是否失衡，防范资助单一偏向大型工程导致小团队源头颠覆力的衰竭。

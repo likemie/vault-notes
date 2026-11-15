@@ -9,7 +9,7 @@ title: "Argument_Vickers_2024_CE"
 argument_key: "Argument_Vickers_2024_CE"
 argument_display_title: "The motherland's suffocating embrace: schooling and public discourse on Hong Kong identity under the National Security Law"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 32
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Nationalism]]"
   - "[[Schmittian Sovereignty]]"
   - "[[Decolonial Paradox]]"
+  - "[[Mimesis]]"
   - "[[Civic Rituals]]"
   - "[[Zhonghua Minzu]]"
   - "[[Champ]]"
@@ -44,6 +45,7 @@ related_concepts:
   - "[[Cultural Hierarchy]]"
   - "[[Dialogue in Education]]"
   - "[[Social-Emotional Learning]]"
+  - "[[Alienation]]"
   - "[[Geopolitics]]"
   - "[[Cultural Relativism]]"
 related_theories: []
@@ -65,7 +67,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-05-25
-updated: 2026-11-11
+updated: 2026-11-15
 year: 2024
 doi: "10.1080/03050068.2023.2212351"
 citation_aliases:
@@ -137,7 +139,7 @@ citation_aliases:
 
 > [!chain-link] 权力结构从对抗制衡到全面规训
 > - **2020年前的抵抗性公民社会** 教育官员与学校保有一定程度的专业精神（professional ethos），抵制强行政治化。香港教育专业人员协会（Hong Kong Professional Teachers Union）为教师提供集体保护与抵抗声量。自由开放的媒体以及各类选举提供了公共制衡平台。学生在2012年德育及国民教育科争议中通过绝食和占领政府总部成功迫使政府搁置课程，展现了强劲的公民社会制衡力。
-> - **2020年后制度防线的全面解体** 国家安全法实施后，香港教育专业人员协会以及大批公民社会团体被迫解散，批评人士入狱，选举被限制在爱国者治港范畴内。公务员与全体教师必须宣誓效忠，国家安全教育成为学校的法定强制要求。教育局设立了国家安全教育一站式学校门户网站，集中发布和推广相关的课程倡议与教学资源。这包括举行国旗国歌礼仪培训（甚至在特殊学校培训中让智力障碍学生艰难模仿这些[[Civic Rituals|政治仪式]]）以及举办虚拟国家安全展览。该展览通过强调美国、英国、加拿大和澳大利亚等国也采用一切手段维护安全，以证明国家利益在内外不受威胁的必要性，并借此推行总体国家安全观。
+> - **2020年后制度防线的全面解体** 国家安全法实施后，香港教育专业人员协会以及大批公民社会团体被迫解散，批评人士入狱，选举被限制在爱国者治港范畴内。公务员与全体教师必须宣誓效忠，国家安全教育成为学校的法定强制要求。教育局设立了国家安全教育一站式学校门户网站，集中发布和推广相关的课程倡议与教学资源。这包括举行国旗国歌礼仪培训（甚至在特殊学校培训中让智力障碍学生艰难[[Mimesis|模仿]]这些[[Civic Rituals|政治仪式]]）以及举办虚拟国家安全展览。该展览通过强调美国、英国、加拿大和澳大利亚等国也采用一切手段维护安全，以证明国家利益在内外不受威胁的必要性，并借此推行总体国家安全观。
 > - **教学规训与惩罚机制的落地** 过去以软性劝勉和资助为主的游学及国民教育活动转为刚性的行政控制。教学自主权（pedagogical agency）被剥夺，教师如果偏离官方规定的学习重点将面临被指控煽动的刑事风险，从而在学校中植入结构性恐惧。
 
 > [!feature] 公共历史与文博生态的爱国化重构
@@ -205,7 +207,7 @@ citation_aliases:
 > [!chain-link] 青年不满的“心理化”规训机制
 > - **[[Youth Development Blueprint\|青年发展蓝图]]的心理学转向** 民政及青年事务局在2022年十二月发布的文件包含了探索、希望、自强、建设四项主题。其话语体系完全由积极思维和个人成长的心理学词汇主导，例如民政及青年事务局局长麦美娟（Alice Mak）宣称的愿景是“培养新一代具备爱国爱港情怀、全球视野、抱负和积极思维的年轻人”。这套框架完全回避了青年关于政治参与、社会公平和制度改革的实质诉求，试图将结构性障碍转化为个人的心理韧性与调适能力。
 > - **感恩与快乐话语的政治化利用** 教育局在2019至2022年间推行的[[My Pledge to Act\|我的行动承诺]]项目，直接要求学生在面对生活境遇时必须快乐和感恩所拥有的事物。这与在内地推行的感恩教育以及西方新自由主义框架下的[[Social-Emotional Learning\|社会情感学习]]（social and emotional learning）运动中对幸福的工具化利用完全同构，借此实现幸福的政治化（politicisation of happiness）。
-> - **对政治能动性诉求的制度性冷处理** 在教育政策对话中，学者吕大乐与张炳良（Anthony Cheung）将香港青年的反叛表述为全球青年异化现象的本地体现，指出如果不解决政治参与和能动性（agency）问题，青年政策将无法取得实效。
+> - **对政治能动性诉求的制度性冷处理** 在教育政策对话中，学者吕大乐与张炳良（Anthony Cheung）将香港青年的反叛表述为全球青年[[Alienation|异化]]现象的本地体现，指出如果不解决政治参与和能动性（agency）问题，青年政策将无法取得实效。
 
 > [!warrant]- 心理化治理的去政治化本质
 > 心理化治理在政策体系中扮演了情绪稳压器的角色。如果课程改革是从认知层面教导学生顺从，那么心理化机制则是从情感层面暗示学生，社会不满源于个体的心理适应问题。通过将社会和结构性矛盾翻译为个人调试与情绪管理问题，政权成功消解了政治动员的合法性，从而将青年的集体能动性剥离。

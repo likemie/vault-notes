@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 60
+person_related_count: 61
 person_related_level: 6
 person_related_stars: "💎💎"
 person_related_color: "#fef3c7"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Epistemology]]"
+  - "[[Alienation]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
   - "[[Educational Meliorism]]"
   - "[[Reflexivity]]"
@@ -172,7 +173,7 @@ updated: 2026-11-15
 
 > [!tension] 坎德尔论民族主义的二元价值分野
 > - **文化民族主义（Cultural Nationalism）** 倡导多元文化传承、精神自主与思想包容，坚信依托学校教育培育公民批判理智与国际理解（International understanding），筑牢和平共处的人道主义底线。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933; Kazamias, 1963: 385; 2009b: 47–49, 引自 Kazamias, 2009b)]]
-> - **政治民族主义（Political Nationalism）** 沦为军国主义扩张与极权国家崇拜的政治工具，推行同质化灌输与狂热盲从，将教育系统彻底异化为排他性霸权扩张与对外征服的动员机器。[[Argument_Kazamias_2009_ForgottenThemes\|(Herzog, 1960; Kazamias, 2009b: 48–49)]]
+> - **政治民族主义（Political Nationalism）** 沦为军国主义扩张与极权国家崇拜的政治工具，推行同质化灌输与狂热盲从，将教育系统彻底[[Alienation|异化]]为排他性霸权扩张与对外征服的动员机器。[[Argument_Kazamias_2009_ForgottenThemes\|(Herzog, 1960; Kazamias, 2009b: 48–49)]]
 
 上述政治哲学建构与历史因果探究，凝练为坎德尔对学校与国家深层关系的代表性论述。
 

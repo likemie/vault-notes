@@ -8,7 +8,7 @@ aliases:
 summary: "源自黑泽明电影的社会科学概念，指同一事件或数据集被不同利益行动者基于自身立场建构出矛盾且不可兼容的多重因果叙事，在质性研究中体现为因果的多重性，在全球治理中体现为数据可塑性引发的政策罗生门"
 type: concept
 domain: "sociology-of-education"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Governance by Spin]]"
   - "[[Epistemic Stances]]"
   - "[[Intercultural Education]]"
+  - "[[Alienation]]"
   - "[[Multiplicity]]"
   - "[[Grand Theory]]"
   - "[[Performance Pay]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -105,7 +106,7 @@ updated: 2026-11-11
 > - **多重视角主体（Positioned Observers）** 多个具有不同利益诉求、专业背景与权力等级的行动者对该客体拥有解释权或见证权。
 > - **互不兼容的因果叙事（Incompatible Causal [[Accounts]]）** 各方提供的陈述在归因逻辑（为何发生）、责任分配（谁之过错）及政策处方（何去何从）上相互矛盾。
 > - **自我服务的动机（Self-Serving Motivations）** 每个主体的叙事均服务于自身声誉维系、利益最大化或既定政治议程的正当化。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, pp. 72–73)]]
-> - **数据可塑性与[[Discourse|话语]]资源化（Data Plasticity & Resource Mobilization）** 庞杂的指标网络与长篇文本为行动者提供了极大的选择性引述空间，使数据能够被轻易异化为修辞武器。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 111–112)]]
+> - **数据可塑性与[[Discourse|话语]]资源化（Data Plasticity & Resource Mobilization）** 庞杂的指标网络与长篇文本为行动者提供了极大的选择性引述空间，使数据能够被轻易[[Alienation|异化]]为修辞武器。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 111–112)]]
 
 > [!logic-map]- 要素传导与多重视角结构
 > ```mermaid

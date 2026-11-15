@@ -74,6 +74,7 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Value Neutrality]]"
   - "[[Determinism]]"
+  - "[[Alienation]]"
   - "[[Literature Review]]"
   - "[[Operationalization]]"
   - "[[Cumulative Innovation]]"
@@ -110,14 +111,14 @@ sources:
 part_of:
 status: draft
 created: 2026-06-26
-updated: 2026-11-14
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Yu_Xie_2025_JHE"
 argument_key: "Argument_Yu_Xie_2025_JHE"
 argument_display_title: "空间、权力与高等教育：地缘政治视角下的高等教育研究"
 argument_kind: "journal-article"
-argument_related_count: 83
+argument_related_count: 84
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -562,7 +563,7 @@ journal: "高等教育研究"
 
 > [!finding-cards] 核心发现
 > 1. **[[Geopolitics of Higher Education\|高等教育的地缘政治]]研究经历从相对不可见到非自觉再到自觉的演变** 在[[Classical Geopolitics\|古典地缘政治]]阶段，高等教育不被视为独立分析对象（缺乏概念工具）；冷战时期，它仅被理解为国家战略的附属工具；冷战结束后，非自觉的研究用中心-边缘理论描述不平等但未追溯到[[Geopolitics|地缘政治理论]]；近年来的自觉研究主动引入[[Critical Geopolitics\|批判地缘政治]]和[[Space Production\|空间生产]]理论。
-> 2. **四项关键议题共享空间与权力的分析逻辑** 人的培养（从[[Human Capital Theory\|人力资本]]到[[Geopolitical Subject\|地缘政治主体]]性生产，涉及政府、教育机构和课程教学三个层面）、[[Knowledge Production\|知识生产]]（[[Epistemology\|认识论]]殖民到认识论治理，通过排名、出版平台和学者自我规训三层机制再生产全球知识等级）、学术流动（从个体选择到被流动的地缘政治实践，引入[[Infrastructures of Immobility\|流动基础设施]]概念分析制度性筛选机制）、跨境合作（从[[Soft Power\|软实力]]到[[Knowledge Diplomacy\|知识外交]]到空间项目，揭示不同国家的差异化空间策略）。四项议题共同揭示高等教育如何通过其核心功能参与全球空间秩序的生产与再生产。
+> 2. **四项关键议题共享空间与权力的分析逻辑** 人的培养（从[[Human Capital Theory\|人力资本]]到[[Geopolitical Subject\|地缘政治主体]]性生产，涉及政府、教育机构和课程教学三个层面）、[[Knowledge Production\|知识生产]]（[[Epistemology\|认识论]]殖民到认识论治理，通过排名、出版平台和学者自我规训三层机制再生产全球知识等级）、学术流动（从个体选择到被流动的地缘政治实践，引入[[Infrastructures of Immobility\|流动基础设施]]概念分析制度性筛选机制）、跨境合作（从[[Soft Power\|软实力]]到[[Knowledge Diplomacy\|知识外交]]到空间项目，揭示不同国家的差[[Alienation|异化]]空间策略）。四项议题共同揭示高等教育如何通过其核心功能参与全球空间秩序的生产与再生产。
 > 3. **传统地缘政治与[[New Geopolitics\|新地缘政治]]在空间观、权力观和高等教育角色上存在根本性[[Ontology\|本体论]]差异，但当代呈现复合嵌套形态** 传统[[Paradigm\|范式]]将空间视为客观地理实体、权力体现为军事控制，新范式将空间视为社会建构、权力体现为知识与[[Discourse|话语]]的空间秩序塑造能力。当代研究在吸收批判地缘政治成果的基础上重新纳入物质性与安全议题的分析。
 > 4. **空间生产三元维度（物质性、表征性、关系性）为整合分析提供框架** 该框架能够同时容纳传统地缘政治对物质权力的关切和新地缘政治对空间建构的分析，将高等教育空间实践分解为制度装置的物质布局、象征等级的合法性生产和行动者网络的动态协商三个彼此嵌套的维度。
 

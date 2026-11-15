@@ -8,7 +8,7 @@ aliases:
 summary: "源自瓦尔特·本雅明历史哲学、经由本尼迪克特·安德森引入民族主义理论的核心时间构念，指脱离神学救赎秩序、由时钟与公历精确度量的客观世俗线性时间。在这一时间轴线中，事件关联表现为横截面上的共时并存与“与此同时”的交错巧合；小说与报纸等印刷资本主义大众媒介将这种时间图式物化为日常生活仪式，为分散隔绝的现代个体将民族想象为在历史中齐步推进的稳固有机体提供了认知基础设施。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 10
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,10 +17,18 @@ tags:
   - theme/nationalism
   - theme/political-philosophy
 related_concepts:
+  - "[[Construct]]"
   - "[[Messianic Time]]"
+  - "[[National Biography]]"
+  - "[[Epistemic Infrastructure]]"
+  - "[[Epistemology]]"
+  - "[[Nationalism]]"
+  - "[[Alienation]]"
+  - "[[Heterogeneity]]"
+  - "[[Print-Capitalism]]"
   - "[[Truth-Language]]"
   - "[[Dynastic Realm]]"
-  - "[[Nationalism]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods: []
@@ -33,16 +41,17 @@ related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
   - "[[Argument_Anderson_2016_Verso_Ch05]]"
   - "[[Argument_Anderson_2016_Verso_Ch11]]"
+  - "[[Argument_Anderson_2016_Verso]]"
 confidence: high
 status: active
 created: 2026-11-11
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Homogeneous, Empty Time
-> **齐一而空洞的时间（Homogeneous, Empty Time）** 是[[Walter Benjamin|瓦尔特·本雅明]]提出、后被[[Benedict Anderson|本尼迪克特·安德森]]作为核心分析支柱引入现代民族研究的构念。该构念描述了一种由时钟与日历均匀刻度所度量的客观、世俗且线性的时间范畴。在这种时间意识中，同时性表现为横截面上跨空间的共时发生与“与此同时”（meanwhile）的客观并存，脱离了古典时代对神圣事件纵向预表的依附。安德森指出，这种时间体验为现代社会提供了认知前提，使数以百万计素未谋面的个体能够将民族想象为一个在均质时间流中稳固前行的实体。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 24–26)]]
+> **齐一而空洞的时间（Homogeneous, Empty Time）** 是[[Walter Benjamin|瓦尔特·本雅明]]提出、后被[[Benedict Anderson|本尼迪克特·安德森]]作为核心分析支柱引入现代民族研究的[[Construct|构念]]。该构念描述了一种由时钟与日历均匀刻度所度量的客观、世俗且线性的时间范畴。在这种时间意识中，同时性表现为横截面上跨空间的共时发生与“与此同时”（meanwhile）的客观并存，脱离了古典时代对神圣事件纵向预表的依附。安德森指出，这种时间体验为现代社会提供了认知前提，使数以百万计素未谋面的个体能够将民族想象为一个在均质时间流中稳固前行的实体。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 24–26)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向现代世俗社会中由机械计时装置与历法标定的连续、均质且前后承续的客观时间之流。
@@ -76,7 +85,7 @@ updated: 2026-11-14
 > - **历史实体的世俗移动隐喻（Solid Organism Moving through Time）** 均质时间将民族构想为一个拥有持续生命的实体，在既定日历时间轴上平稳驶向未知未来。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, p. 26)]]
 > - **全球多元文明的世俗容纳容器（Global Pluralist Vessel）** 齐一而空洞的时间打破了《圣经·创世记》的一元神学编年束缚，为欧洲在同一世俗时间坐标中容纳中国、印度与美洲等异质古老文明的客观并存提供了认知容器。[[Argument_Anderson_2016_Verso_Ch05|(Anderson, 2016, pp. 71–72)]]
 > - **共时手足竞争的空间表象（Synchronic Sibling Spatiality）** 齐一空洞时间打破了历时继承逻辑，赋予远隔大洋的同名地名（旧伦敦与新伦敦、比斯开与新比斯开）以共时平行竞争的属性，构建起跨大西洋移民社会的平行同胞认同。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, p. 191)]]
-> - **溯流而上的自传叙事架构（Upstream Autobiographical Framework）** 个人自传在齐一空洞时间中沿生理年龄顺流而下；民族传记由于缺乏生物学原点，在均质时间中采取由当下溯流而上的逆向建构，将远古始祖确立为源头。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 209–210)]]
+> - **溯流而上的自传叙事架构（Upstream Autobiographical Framework）** 个人自传在齐一空洞时间中沿生理年龄顺流而下；[[National Biography|民族传记]]由于缺乏生物学原点，在均质时间中采取由当下溯流而上的逆向建构，将远古始祖确立为源头。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 209–210)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -89,14 +98,14 @@ updated: 2026-11-14
 
 ---
 
-> [!concept-proposition] 命题一｜齐一而空洞的时间为大规模匿名陌生人构想横向共时共同体提供了认知基础设施
-> **时间认识论革命与现代政治想象** 阐明由中世纪神圣垂直时间向世俗横向时间的转变，如何使空间隔离的现代人能够在思维中确立深沉平等的同志纽带。
+> [!concept-proposition] 命题一｜齐一而空洞的时间为大规模匿名陌生人构想横向共时共同体提供了[[Epistemic Infrastructure|认知基础设施]]
+> **时间[[Epistemology|认识论]]革命与现代政治想象** 阐明由中世纪神圣垂直时间向世俗横向时间的转变，如何使空间隔离的现代人能够在思维中确立深沉平等的同志纽带。
 
 > [!claim] Benjamin, W.
 > **均质空洞时间作为现代世俗历史主义的容器** 本雅明在批判历史主义时揭示，现代资本主义社会的意识形态基础是将时间构想为一个匀质、空洞且单向流逝的容器。在这个容器中，历史事件被描绘为因果相连的链条，过去、现在与未来被置于严格的先后序列中，排除了突发的神圣救赎可能，确立了世俗时间不可逆转的客观前进属性。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, p. 24)]]
 
 > [!claim] Anderson, B.
-> **横向共时性与民族作为历史实体的生成** 安德森将本雅明的哲学概念转化为阐释民族构想的人类学工具。他指出，现代民族的本质是想象的共同体，其核心在于个体虽永不相识，却坚信数百万同胞与自己同在一个时间框架内生活、行动与呼吸。这种心理跨越唯有在“齐一而空洞的时间”确立后方成为可能。在该时间结构下，“与此同时”成为连接行动的语法枢纽，使个体能够将民族想象为一个具有实体感、在空洞时间日历中平稳且持续前行的社会机体。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 24–26)]]
+> **横向共时性与民族作为历史实体的生成** 安德森将本雅明的哲学概念转化为阐释民族构想的人类学工具。他指出，现代民族的本质是[[Imagined Community|想象的共同体]]，其核心在于个体虽永不相识，却坚信数百万同胞与自己同在一个时间框架内生活、行动与呼吸。这种心理跨越唯有在“齐一而空洞的时间”确立后方成为可能。在该时间结构下，“与此同时”成为连接行动的语法枢纽，使个体能够将民族想象为一个具有实体感、在空洞时间日历中平稳且持续前行的社会机体。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 24–26)]]
 
 ---
 
@@ -119,7 +128,7 @@ updated: 2026-11-14
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **认知基础设施命题** | 均质空洞时间提供横向共时架构，使大规模匿名人群得以构想平行的共同体存在 | 现代性转型、时间社会学、民族主义发生学 | [[Walter Benjamin]]; [[Benedict Anderson]] |
+> | **认知基础设施命题** | 均质空洞时间提供横向共时架构，使大规模匿名人群得以构想平行的共同体存在 | 现代性转型、时间社会学、[[Nationalism\|民族主义]]发生学 | [[Walter Benjamin]]; [[Benedict Anderson]] |
 > | **媒介物质化实践命题** | 小说多线叙事与报纸每日排期将齐一时间具象为普通公民的集体认同仪式 | 近代文学形式演变、传播政治经济学、大众印刷文化研究 | [[Benedict Anderson]] |
 > | **全球多元文明容器命题** | 均质世俗时间打破圣经创世记编年垄断，为全球异质文明并存提供世俗坐标 | 全球地理发现、世界历史世俗化、比较语文学起源 | [[Benedict Anderson]] |
 
@@ -132,9 +141,9 @@ updated: 2026-11-14
 > - **19世纪初 — 革命断裂编码与历史学建制化** 1789年法国大革命“元年”所代表的绝对新颖时间体验，随历史学在大学（柏林大学、索邦大学）的建制化与钟表量产，被重新编码进公元纪年的齐一空洞时间序列。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 197–204)]]
 > - **19世纪 — 报纸大众化与标准化世界时确立** 轮转印刷机使大众报纸成为日常消费品，格林尼治标准时间在跨国铁路网中推行，齐一空洞时间在制度与技术层面全球固化。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 33–36)]]
 > - **19世纪中叶以降 — 民族传记在齐一空洞时间中的逆向生成** 现代民族面对世俗化历史失忆，在齐一空洞时间中构建溯流而上的自传叙事，从当下主权逆向追溯远古起源。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 209–210)]]
-> - **1940年 — 本雅明批判空洞均质时间** 本雅明在《历史哲学论纲》中反思工业社会空洞时间对人性的异化，提出神圣当下概念对其进行解构。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, p. 24)]]
+> - **1940年 — 本雅明批判空洞均质时间** 本雅明在《历史哲学论纲》中反思工业社会空洞时间对人性的[[Alienation|异化]]，提出神圣当下概念对其进行解构。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, p. 24)]]
 > - **1983年 — 安德森重构民族时间认知** 安德森将该构念移置于文化人类学，揭示齐一空洞时间在支撑民族想象与现代国家意识形态中的基础功能。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 24–36)]]
-> - **2000年代至今 — 后殖民时间异质性反思** 查特吉（Partha Chatterjee）等学者反思非西方后殖民情境下多重历史时间的共存，拓展了对空洞均质时间适用边界的讨论。
+> - **2000年代至今 — 后殖民时间[[Heterogeneity|异质性]]反思** 查特吉（Partha Chatterjee）等学者反思非西方后殖民情境下多重历史时间的共存，拓展了对空洞均质时间适用边界的讨论。
 
 ---
 
@@ -143,7 +152,7 @@ updated: 2026-11-14
 > > [!axis] 空洞均质时间的普遍性 vs 异质多重时间的社会共存
 > > 争论齐一而空洞的时间是否完全主导了现代社会，还是非西方社会始终存在多重未被同质化的断裂时间体验。
 > >
-> > - **[[Argument_Anderson_2016_Verso_Ch02|Anderson（2016）]]** 强调随着印刷资本主义的全球扩散，齐一空洞时间构成了全球普遍移植的模块化现代认知模板。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 24–26)]]
+> > - **[[Argument_Anderson_2016_Verso_Ch02|Anderson（2016）]]** 强调随着[[Print-Capitalism|印刷资本主义]]的全球扩散，齐一空洞时间构成了全球普遍移植的模块化现代认知模板。[[Argument_Anderson_2016_Verso_Ch02|(Anderson, 2016, pp. 24–26)]]
 > > - **Chatterjee（2004）** 批评指出，在后殖民与边缘社会，被排斥的大众实践并不完全遵循钟表公历的空洞时间，传统神话、宗族礼仪与地方时间在现代性缝隙中持续并存。
 
 > [!critique|notitle] 外部批评
@@ -162,7 +171,7 @@ updated: 2026-11-14
 > | [[Truth-Language]] | 概念 | 古典宗教共同体所依赖的文字媒介，随齐一时间与方言印刷兴起而衰落。 |
 > | [[Dynastic Realm]] | 概念 | 依靠神圣中枢而非均质法权边界界定统治的前现代政治体系。 |
 > | [[Nationalism]] | 概念 | 依托齐一空洞时间中“与此同时”的共时性构想出的现代想象政治共同体。 |
-> | [[Imagined Community]] | 理论 | 本尼迪克特·安德森剖析现代政治认同生成机制的核心理论范式。 |
+> | [[Imagined Community]] | 理论 | 本尼迪克特·安德森剖析现代政治认同生成机制的核心理论[[Paradigm\|范式]]。 |
 > | [[Walter Benjamin]] | 人物 | 现代哲学中系统命名并剖析齐一而空洞时间的思想家。 |
 > | [[Benedict Anderson]] | 人物 | 揭示齐一空洞时间与小说报纸如何合力催生现代民族意识的历史学者。 |
 

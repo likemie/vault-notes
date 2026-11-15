@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 41
+person_related_count: 42
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[What Works Movement]]"
   - "[[Policy-Based Evidence-Making]]"
+  - "[[Alienation]]"
   - "[[Heterogeneity]]"
   - "[[Meta-Representational Competence]]"
   - "[[Critical Pedagogy]]"
@@ -112,7 +113,7 @@ updated: 2026-11-15
 > - **2000年代 — 循证政策批判与实在论综合开拓期** 直面新工党[[What Works Movement|循证政策运动]]与[[Systematic Review|系统综述]]潮流，解构[[Meta-analysis|元分析]]将复杂社会研究扁平化的数据清洗机制。
 >   - **代表著作** *[[Evidence-Based Policy-Making|Evidence-based Policy]]: A Realist Perspective* (2006)。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 125)]]
 >   - **关键概念／方法** 实在论综合（Realist Synthesis）、[[Policy-Based Evidence-Making|基于政策的证据制造]]（Policy-Based Evidence-Making）、元分析净化过程（The Purgative Process）、开放系统。
->   - **阶段转向** 从单个项目的实地评估，扩展至跨研究、跨情境的理论驱动型[[Research Synthesis|证据综合]]与中层理论构建，同时揭示循证政策实践中证据被逆向挑选以服务预设政治目的的异化倾向。
+>   - **阶段转向** 从单个项目的实地评估，扩展至跨研究、跨情境的理论驱动型[[Research Synthesis|证据综合]]与中层理论构建，同时揭示循证政策实践中证据被逆向挑选以服务预设政治目的的[[Alienation|异化]]倾向。
 > - **2010年代及以后 — 复杂系统评估宣言与跨学科扩展期** 将实在论评估提升为应对政策复杂性、制度[[Heterogeneity|异质性]]与多元行动者博弈的通用社会科学哲学。
 >   - **代表著作** *The Science of Evaluation: A Realist Manifesto* (2013)。
 >   - **关键概念／方法** [[Complexity Theory|复杂适应系统]]、制度情境敏感性、时空尺度感知偏差。

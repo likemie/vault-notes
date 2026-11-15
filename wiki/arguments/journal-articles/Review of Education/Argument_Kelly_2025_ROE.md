@@ -30,6 +30,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Research Literacy]]"
   - "[[Performativity]]"
+  - "[[Alienation]]"
   - "[[Contributory Expertise]]"
   - "[[Document]]"
   - "[[Epistemology]]"
@@ -50,6 +51,7 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[School Autonomy]]"
   - "[[Quasi-market]]"
+  - "[[Mimesis]]"
   - "[[Reflective Thinking]]"
   - "[[Knowledge Co-production]]"
   - "[[Teaching Assistant]]"
@@ -87,14 +89,14 @@ sources:
 part_of:
 status: draft
 created: 2026-09-18
-updated: 2026-11-11
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kelly_2025_ROE"
 argument_key: "Argument_Kelly_2025_ROE"
 argument_display_title: "Comparing school leaders' experiences of research use in England, Scotland and Germany"
 argument_kind: "journal-article"
-argument_related_count: 55
+argument_related_count: 57
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -110,7 +112,7 @@ issuing_organization: ""
 > 尽管[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）等国际组织与各国政府极力倡导一线教育者践行[[Evidence-Informed Practice\|证据知情实践]]（Evidence-Informed Practice, EIP），但在真实学校[[Champ\|场域]]中，将外部[[Research Translation\|研究转化]]为[[Academic Achievement\|学业成就]]提升的努力普遍陷入困境。本研究旨在回答：在英格兰、苏格兰与德国这三个政策传统与治理体制截然不同的欧洲教育体系中，国家治理机制与[[Knowledge Mediation\|知识中介]]生态如何塑造[[School Leadership\|学校领导]]者的证据接触经验？学校领导者在何种制度约束下接触、筛选、吸收或排斥研究证据？
 
 > [!claim] 核心主张
-> 学校领导者的[[Research Utilization\|研究使用]]经验并非单纯由个体信息获取能力或[[Research Literacy\|研究素养]]决定，而是受制于宏观政治语境与教育治理机制。英格兰的高度市场化与高利害问责催生了过剩的知识中介与[[Performativity|表演性]]依从，使研究异化为向督导证明专业合法性的防御工具；而在具备地方缓冲与低利害传统的苏格兰和德国，根植于日常教学的[[Contributory Expertise\|贡献型专长]]为抵制抽象证据教条与开展合作探究保留了关键的专业空间。
+> 学校领导者的[[Research Utilization\|研究使用]]经验并非单纯由个体信息获取能力或[[Research Literacy\|研究素养]]决定，而是受制于宏观政治语境与教育治理机制。英格兰的高度市场化与高利害问责催生了过剩的知识中介与[[Performativity|表演性]]依从，使研究[[Alienation|异化]]为向督导证明专业合法性的防御工具；而在具备地方缓冲与低利害传统的苏格兰和德国，根植于日常教学的[[Contributory Expertise\|贡献型专长]]为抵制抽象证据教条与开展合作探究保留了关键的专业空间。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 英格兰、苏格兰与德国汉堡三地的基础教育治理政策与中介[[Document|文献]]（49 份），以及 9 位对应学段中小学校长与高级管理者的深度[[Semi-structured Interview\|半结构化访谈]]。
@@ -228,7 +230,7 @@ issuing_organization: ""
 > [!line-a] 英格兰：商业轰炸、认知过载与熟人网络依赖
 > - **信息淹没与选择性忽视** 特殊教育学校校长 Leader B 直言学校每周都被商业公司、政府指南与学科组织的新材料彻底淹没，校长被迫时刻决定看什么与忽略什么，最终往往直接忽略。
 > - **二手依赖与盲目采购** 完全中学校长 Leader A 指出多数校长不了解研究的局限与批评，只能听信二手摘要或购买号称基于研究的方案；小学城市区校长 Leader C 反映半数校长不用研究或不知道 EEF。
-> - **跟风引入与同侪模仿** 校长高度依赖熟人网络推荐与区域大会交流，跟风采购构建学习力（Building Learning Power, BLP）、Thrive 行为干预、Ark 课程方案及跨越鸿沟挑战（Challenge the Gap）等项目。
+> - **跟风引入与同侪[[Mimesis|模仿]]** 校长高度依赖熟人网络推荐与区域大会交流，跟风采购构建学习力（Building Learning Power, BLP）、Thrive 行为干预、Ark 课程方案及跨越鸿沟挑战（Challenge the Gap）等项目。
 
 > [!line-b] 苏格兰：地方当局行政缓冲与专业裁量探索
 > - **地方行政过滤与知名学者研训** 地方当局承担了主要证据筛选职能，通过 Tapestry Partnership 邀请 Andy Hargreaves、[[John Hattie]]、[[Dylan Wiliam]] 与 [[Michael Fullan]] 等学者作报告并开展研训。

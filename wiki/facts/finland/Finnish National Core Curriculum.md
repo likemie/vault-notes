@@ -11,7 +11,7 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 31
+fact_related_count: 32
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Analytical Stance]]"
   - "[[Construct]]"
   - "[[Atomisation of Knowledge and Skills]]"
+  - "[[Alienation]]"
   - "[[Nordic Model of Education]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-06
-updated: 2026-11-10
+updated: 2026-11-15
 ---
 
 ---
@@ -154,7 +155,7 @@ updated: 2026-11-10
 > | [[Bildung]] | Concept | 课程哲学深植的德式全人教化传统。 |
 > | [[Didaktik]] | Concept | 芬兰教师在课程再开发中所运用的教学论传统。 |
 > | [[Epochal Key Problems]] | Concept | 跨学科模块设计所回应的时代重大议题思路。 |
-> | [[Atomisation of Knowledge and Skills]] | Concept | 批判学者担忧横向素养被降解为技能碎片的异化风险。 |
+> | [[Atomisation of Knowledge and Skills]] | Concept | 批判学者担忧横向素养被降解为技能碎片的[[Alienation\|异化]]风险。 |
 > | [[Tacit Knowledge]] | Concept | 芬兰职业文官在决策准备期鉴别与转化实证知识的核心默会经验。 |
 > | [[21st Century Skills and Competencies Discourse]] | Concept | 贯穿七大横向能力指标设定的经合组织跨国核心话语。 |
 > | [[Nordic Model of Education]] | Concept | 改革方案试图维系与现代化的北欧平等主义教育模式。 |

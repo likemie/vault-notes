@@ -6,7 +6,7 @@ aliases:
 summary: "大众媒体与公共舆论在极力夸大教育危机的同时，系统性回避对执政者推出的激进改革方案、因果机制与实证证据展开实质审视的媒介异化现象"
 type: concept
 domain: "educational-policy-reform"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Discourse]]"
+  - "[[Alienation]]"
   - "[[Moral Sidestep]]"
   - "[[Policy Borrowing]]"
   - "[[Shape-Shifting]]"
@@ -47,13 +48,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Policy Avoidance
-> 政策规避（Policy Avoidance）指大众新闻媒体在深度介入教育政策传播与危机建构过程中，将绝大部分版面与受众注意力狂热倾注于炒作抽象的质量危机、排列表落后与政治替罪羊，却对执政精英趁机推出的具体激进改革方案、操作机制及其背后的实证[[Chain of Evidence\|证据链]]条表现出系统性脱敏、冷漠与避而不谈的[[Discourse|话语]]异化现象（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）。在政策规避机制下，争议性政策是因未受到任何实质性追问与专业核查而在舆论真空中被“默认强化”（Reinforced by default），有别于因获得社会广泛认同而落地。
+> 政策规避（Policy Avoidance）指大众新闻媒体在深度介入教育政策传播与危机建构过程中，将绝大部分版面与受众注意力狂热倾注于炒作抽象的质量危机、排列表落后与政治替罪羊，却对执政精英趁机推出的具体激进改革方案、操作机制及其背后的实证[[Chain of Evidence\|证据链]]条表现出系统性脱敏、冷漠与避而不谈的[[Discourse|话语]][[Alienation|异化]]现象（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）。在政策规避机制下，争议性政策是因未受到任何实质性追问与专业核查而在舆论真空中被“默认强化”（Reinforced by default），有别于因获得社会广泛认同而落地。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向新闻媒体在面对复杂公共政策时出现的审议断裂：聚焦危机、逃避方案；聚焦口水战、逃避因果实证。

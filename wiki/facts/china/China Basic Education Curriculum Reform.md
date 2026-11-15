@@ -11,7 +11,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -19,7 +19,7 @@ issuing_organization: 教育部
 confidence: medium
 status: draft
 created: '2026-05-17'
-updated: 2026-10-26
+updated: 2026-11-15
 tags:
   - region/china
   - level/k12
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Cultural Hierarchy]]"
   - "[[Cultural Disembedding]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Nation Building through Education]]"
 related_methods:
@@ -136,7 +137,7 @@ related_arguments:
 > > [!axis] 争议二｜[[Official Knowledge\|官方知识]]垄断 vs 多元文化现实
 > > 讨论 2001 纲要指导下的教科书编写是否陷入了汉族中心主义与单一文化灌输。
 > >
-> > - **[[Argument_Yu_2024_CE\|Yu and Zhao (2024, p. 71)]]** 揭示基于 2001 纲要出台的必修教材将儒学塑造成正统“[[Official Knowledge\|官方知识]]”，反而在少数民族与信教学生中引发了[[Cultural Disembedding\|文化脱嵌]]与异化。
+> > - **[[Argument_Yu_2024_CE\|Yu and Zhao (2024, p. 71)]]** 揭示基于 2001 纲要出台的必修教材将儒学塑造成正统“[[Official Knowledge\|官方知识]]”，反而在少数民族与信教学生中引发了[[Cultural Disembedding\|文化脱嵌]]与[[Alienation|异化]]。
 
 ---
 

@@ -10,7 +10,7 @@ aliases:
 summary: "个体理解科学运作机制、批判性评估多源证据质量、接纳科学知识暂定性与不确定性，并在日常生活和公共审议中做出理性判断的核心公民素养，涵盖科学本质理解、证据辨析、认识论实践、抵御虚假信息与大模型幻觉，以及在公共政策中坚守基于客观实证可复现性与学术卓越的“金标准科学”评价心智。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 77
+related_count: 78
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -67,6 +67,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Competitiveness]]"
   - "[[Diversity, Equity, and Inclusion]]"
+  - "[[Alienation]]"
   - "[[Student Motivation]]"
   - "[[Engineering Education]]"
   - "[[Socioscientific Issues]]"
@@ -107,7 +108,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -290,7 +291,7 @@ updated: 2026-11-14
 > > - **社会正义派** 认为科学体制长期存在结构性排斥，资助标准必须显性纳入多元化与包容性（[[Diversity, Equity, and Inclusion|DEI]]）要求以弥合历史不平等。
 
 > [!critique] 高利害应试测评与刻板化[[Scientific Method|科学方法]]对探究素养的双重挤压
-> 实证调查（SET 2023）表明，高利害应试评价导致中学课堂两周至少一次动手实验的比例从 44% 跌至 26%（[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society, 2026, p. 33]]）；同时，将探究异化为刻板的“科学方法五步法”实验套路，阻碍了学生体会证据向公共审查开放的本质价值（[[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona, 2018, pp. 144–145]]）。
+> 实证调查（SET 2023）表明，高利害应试评价导致中学课堂两周至少一次动手实验的比例从 44% 跌至 26%（[[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society, 2026, p. 33]]）；同时，将探究[[Alienation|异化]]为刻板的“科学方法五步法”实验套路，阻碍了学生体会证据向公共审查开放的本质价值（[[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona, 2018, pp. 144–145]]）。
 
 > [!warning] 适用局限与警惕
 > 警惕将科学素养窄化为个人的孤立逻辑思维技巧。如果抽离了对科学建制运作（如科研资金利益冲突、学术出版商业化、过度营销与科研诚信规范）的系统认知，单纯具备一般逻辑能力的个体依然极易落入经过专业包装的利益集团虚假信息陷阱。

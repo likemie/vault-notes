@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 131
+fact_related_count: 132
 fact_related_level: 13
 fact_related_stars: "💎💎💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Refined Mastery]]"
   - "[[Foundational Literacy and Numeracy]]"
   - "[[Policy Borrowing]]"
+  - "[[Alienation]]"
   - "[[Smart Buys]]"
   - "[[Causality]]"
   - "[[Paradigm]]"
@@ -169,7 +170,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -214,7 +215,7 @@ updated: 2026-11-11
 >   - **1995** 成为南方国家最大的单一外部教育资助来源，并在《教育优先与战略》报告中自称其研究在广度与严谨性上无可匹敌（World Bank, 1995: 21），将三十余年的回报率与成本效益核算确立为最高评判准绳。比奇指出其悖论在于，世行贷款仅占[[Development Education|发展中国家教育]]总开支的 0.5%，却伴随全方位的体制干预。[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy, 1999）进一步揭示，其成本效益模型将教材、黑板与粉笔定为最划算的教学物资，把教师薪酬视作削减成本的核心障碍，并以“若 1960 年韩国入学率同巴基斯坦一样低，其 1985 年人均国内生产总值将萎缩 40%”一类宏观计量推论作为修辞武器。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–347)]]
 >   - **1996 起** 在 [[OECD]] 发布《以知识为基础的经济》后迅速跟进，拥抱[[Knowledge-Based Economy|知识经济]]概念并发布系列专题报告。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–445)]]
 >   - **1997** 联合[[OECD|经合组织]]与教科文组织发起世界[[Performance Indicators|教育指标]]（[[World Education Indicators]]，WEI）项目，将量化指标方法学推广至非成员转型经济体。
->   - **1999** 联合国际货币基金组织引入《[[Poverty Reduction Strategy Papers|减贫战略文件]]》（PRSPs），将受援国国际开发协会（IDA）优惠信贷资格与普及初等教育及消除性别差距等量化指标挂钩，借由减贫规训深度重塑南方国家教育财政。[[Argument_King_2007_CE|(King, 2007, pp. 380–382)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 542)]]
+>   - **1999** 联合国际货币基金组织引入《[[Poverty Reduction Strategy Papers|减贫战略文件]]》（PRSPs），将受援国国际开发协会（IDA）优惠信贷资格与普及初等教育及消除性别差距等量化指标挂钩，借由减贫规训深度重塑南方国家教育财政。[[Argument_King_2007_CE|(King, 2007, pp. 380–382)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 >   - **2002** 主导发起“快速通道倡议”（Fast Track Initiative，FTI），设立以初等教育完成率与宏观财政支出为核心的基准指标框架（Indicative Framework）；该倡议绕开教科文组织达喀尔六大全纳目标，聚焦于[[Millennium Development Goals|千年发展目标]]两项初等教育指标，成为多边捐助国协调基础教育资金供给的核心操作平台。[[Argument_King_2007_CE|(King, 2007, pp. 386–388)]]
 >
 > - **1999–2018** **[[Knowledge Bank|知识银行]]转型、[[Shadow State|影子国家]]外包与买方市场危机**
@@ -268,7 +269,7 @@ updated: 2026-11-11
 > - **项目设计端（Project Design）** 每一项新贷款均能系统吸纳过往同类项目的成败经验，迅速将前沿政策理念（如 [[Systems Approach for Better Education Results|SABER]]、培训券）与成功样板融入新文本，表现为高度敏捷的学习型组织。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 471)]]
 > - **项目执行与管理端（Implementation）** 导致项目搁浅的经典痼疾（[[Counterpart Funds|配套资金]]短缺、报销审计僵化、领导力真空）在数十年的项目中反复重演，未见任何实质改善，深陷执行泥潭。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 471–472)]]
 
-> [!chain-link] 投入合规替代实质成效的制度异化链条（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 470–471]]）
+> [!chain-link] 投入合规替代实质成效的制度[[Alienation|异化]]链条（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 470–471]]）
 > - **前提：官僚问责锚定于资金拨付** 在多边银行现行考核规则下，资金顺利拨付（Disbursement）是免除尴尬的唯一核心硬指标；只要资金拨付完毕，各方皆大欢喜。
 > - **中介：以物理投入测量替代教育产出** 审计机构与项目官员严格核查学校是否按期建好、计算机与教科书是否采购分发到位、教师是否接受了培训课时；这在本质上是以“测量投入（Inputs）”假冒“衡量结果（Outcomes）”。
 > - **机制：利益同盟导致揭短动力湮灭** 评估部门虽然偶尔撰写关于学习成效平庸的坦诚报告，但项目链条上的所有官员与借款国教育部均无法从中获益；揭露项目对学生真实认知能力的无效只会损害同行声誉并招致指责，致使各方默契地维持现状。

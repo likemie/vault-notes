@@ -27,7 +27,7 @@ updated: 2026-11-15
 > 艺术终结论（End of Art，德语 *Vergangenheitscharakter der Kunst*）是[[Georg Wilhelm Friedrich Hegel|黑格尔]]（Georg Wilhelm Friedrich Hegel）美学中最具争议的核心命题，指艺术仅在古希腊“艺术宗教”（*Kunstreligion*）时期充当过真理的最高显现形式，自基督教兴起与哲学反思普及后，艺术就其最高功能而言已成为“过去之物”（*etwas Vergangenes*）。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 101–102)]]
 
 > [!concept-lens|notitle] 概念透镜
-> - **含义** 并非断言人类停止创作艺术品，而是主张艺术形式不再是精神认识绝对真理的最高必然性。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 102)]]
+> - **含义** 艺术创作活动在历史上仍会延续，只是艺术形式已失去作为精神认识绝对真理最高必然性的地位。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 102)]]
 > - **用途** 解释现代艺术脱离单一宗教或内容束缚后呈现的多元风格并存现象，以及哲学反思接管最高真理话语的历史转折。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 102–103)]]
 > - **边界** 该命题一旦被字面化为艺术价值的彻底衰退，便难以解释现代重要艺术作品的持续涌现及其在世俗化时代的准宗教意义。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 102–103)]]
 

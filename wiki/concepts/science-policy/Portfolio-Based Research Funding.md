@@ -8,7 +8,7 @@ aliases:
 summary: "国家科技政策与科研资助治理中主动构建和优化资助工具、风险梯度、资助对象与组织形态的战略配置框架；通过融合对人资助、金券制、拉动机制、聚焦研究组织与元科学随机对照实验，克服单一同行评议的避险惯性并平衡纯好奇探索与应用导向攻坚。"
 type: concept
 domain: "science-policy"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -20,6 +20,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Alienation]]"
   - "[[Heterogeneity]]"
   - "[[Pull Mechanisms for Innovation]]"
   - "[[Focused Research Organization]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -83,7 +84,7 @@ updated: 2026-11-11
 > **组合式科研资助（Portfolio-Based Research Funding / Portfolio Approach to Grantmaking）** 是指国家科技管理与研发资助机构打破基于学科面板和单一共识评审的增量拨款惯性，将公共科研经费视为包含异质风险轮廓、资助对象、组织实体与选拔机制的战略投资组合进行主动构建、动态调整与实证评估的科研治理[[Paradigm|范式]]。该框架要求资助机构承担“战略资本配置者”职能，系统协调高风险颠覆性探索与渐进式应用攻关，并在政策机制上实现从“单一项目申请评审”向“多工具、多主体组合配置”的根本转型。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 20, 30–32)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 资助机构转型为主动资产组合管理者，根据国家战略需求与科学前沿认知规律，差异化配置风险等级、资助周期与激励机制，替代被动执行年度学科评审打分清单的机械分配模式。
+> - **含义** 资助机构转型为主动资产组合管理者，根据国家战略需求与科学前沿认知规律，差[[Alienation|异化]]配置风险等级、资助周期与激励机制，替代被动执行年度学科评审打分清单的机械分配模式。
 > - **用途** 用于诊断和克服国家研发资助体系工具单一化（如过度依赖高校单课题组 3–5 年期项目申报）导致的学术避险与创新钝化，为国家实验室、大学、初创实体与独立组织匹配[[Heterogeneity|异质性]]资助通道。
 > - **边界** 组合式资助着眼于宏观战略方向、机制菜单设计与主体选拔层级，坚决不代替科学家规定微观实验步骤；组合内部必须为未预见的纯好奇心探索预留不可压缩的自由空间。
 

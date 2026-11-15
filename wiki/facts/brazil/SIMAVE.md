@@ -11,7 +11,7 @@ subtype: program
 region: "brazil"
 fact_region: "brazil"
 fact_kind: "program"
-fact_related_count: 11
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -25,6 +25,8 @@ tags:
 related_concepts:
   - "[[Co-Design]]"
   - "[[Evaluation Research]]"
+  - "[[Mimesis]]"
+  - "[[Alienation]]"
   - "[[Paradigm]]"
   - "[[Externalization]]"
   - "[[New Public Management]]"
@@ -43,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -76,9 +78,9 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 项目推进历程
-> - **2000–2002 — 低利害诊断初创期** 设立 SIMAVE 评估体系，主要模仿联邦测评模式为学校提供学业水平参考信息，尚未与任何奖金或惩处挂钩。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
+> - **2000–2002 — 低利害诊断初创期** 设立 SIMAVE 评估体系，主要[[Mimesis|模仿]]联邦测评模式为学校提供学业水平参考信息，尚未与任何奖金或惩处挂钩。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
 > - **2003–2007 — 管理冲击与绩效奖金实装** 州政府推行治理现代化改革，正式引入全校集体生产力奖金机制，将统考成绩同个人货币利益硬性捆绑。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
-> - **2008–至今 — 利害机制常态化与工会摩擦** 奖金方案成为州立教育常态化治理工具，促发州工会围绕测验异化、教师健康与奖金指标可控性展开反复博弈与罢工维权。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 259, 260)]]
+> - **2008–至今 — 利害机制常态化与工会摩擦** 奖金方案成为州立教育常态化治理工具，促发州工会围绕测验[[Alienation|异化]]、教师健康与奖金指标可控性展开反复博弈与罢工维权。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 259, 260)]]
 
 ---
 

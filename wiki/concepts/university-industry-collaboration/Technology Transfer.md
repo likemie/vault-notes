@@ -9,7 +9,7 @@ aliases:
 summary: "大学与科研机构将科学发现与工程知识转化为产业应用、商业产品及社会生产力的全过程。除以《拜杜法案》为核心的专利排他许可与衍生孵化路径外，战后信息技术体系亦证实了公共领域开源披露与人才流动的决定性作用；当代科技政策进一步依托敏捷授权协议与跨国联合实验室平台，将技术转移深度锚定于国家制造能力与战略性产业走廊。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 87
+related_count: 88
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Von Neumann Architecture]]"
   - "[[Heterogeneity]]"
   - "[[Assemblage]]"
+  - "[[Alienation]]"
   - "[[Market Fundamentalism]]"
   - "[[International Education Hubs]]"
   - "[[University-Industry Collaboration]]"
@@ -115,7 +116,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -241,7 +242,7 @@ updated: 2026-11-14
 ---
 
 > [!concept-proposition] 命题六｜知识作为虚构商品的激进私有化会反向扼杀跨机构技术转移与研发协作
-> **虚构商品异化与跨机构协同阻力** 运用波兰尼虚构商品理论反思过度排他性专利占有如何引发独占忧虑并阻碍跨组织联合科研攻关。
+> **虚构商品[[Alienation|异化]]与跨机构协同阻力** 运用波兰尼虚构商品理论反思过度排他性专利占有如何引发独占忧虑并阻碍跨组织联合科研攻关。
 
 > [!claim] [[Argument_Block_2008_PS|Block (2008)]]
 > **虚构商品异化与跨界合作阻碍论** [[Fred Block|弗雷德·布洛克]]（Fred Block）拓展卡尔·波兰尼（Karl Polanyi）的虚构商品理论指出，知识在本质上属于非排他性的公共物品，科学共同体的繁荣依赖于开放辩论与无私共享。然而，受[[Market Fundamentalism|市场原教旨主义]]主导的现代技术转移体制将知识等同于普通排他性私人财产，极度推崇激进的产权占有主张。这种排他性产权逻辑构筑了严重的制度壁垒：合作各方因极度担忧潜在研发伙伴会独占产出的任何共有新知识，从而在立项谈判时陷入漫长僵局，直接阻碍了跨机构联合科研攻关的启动；此外，公共出资研发的专利（如抗癌药紫杉醇）被私营企业独占后制定垄断高价，导致纳税人遭遇双重支付，违背了公共技术转移造福社会的初衷。[[Argument_Block_2008_PS|(Block, 2008, pp. 195–198)]]

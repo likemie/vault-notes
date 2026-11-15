@@ -8,7 +8,7 @@ aliases:
 summary: "宏观教育政策治理模式的比较理论框架，对比了以强制法定框架、统一达标指标、硬性问责惩戒为特征的规制型进路（如NCLB），与以动态变革促进、地方因地制宜、综合指标与激励性证据使用为特征的发展型进路（如ESSA）及其制度效应。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 16
+theory_related_count: 17
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Paradigm]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Alienation]]"
   - "[[Heterogeneity]]"
   - "[[Evidence-Based Education]]"
   - "[[Academic Achievement]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -55,7 +56,7 @@ updated: 2026-10-22
 > - **知识位置** 由[[Zewelanji N. Serpell\|泽韦兰吉·N·瑟佩尔]]（[[Zewelanji N. Serpell]], 2020）基于公共政策学界关于气候适应政策的分类理论（Russel et al., 2018; Sutcliffe & Court, 2005）转译拓展至教育政策与[[Output-Oriented Governance\|循证治理]]领域。
 
 > [!claim] 核心主张
-> 规制型政策进路试图建立具有强制约束力的法定行动框架，依赖单一可测指标与惩戒性问责防范违规与资金浪费，但极易引发实践异化；发展型政策进路则将政策视为动态变革的赋能工具，倡导因地制宜与本土创新，注重综合多元指标并鼓励证据使用。循证改革要真正发挥效能，必须从死板的规制型控制转向兼顾情境[[Heterogeneity\|异质性]]与组织生态的发展型治理。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
+> 规制型政策进路试图建立具有强制约束力的法定行动框架，依赖单一可测指标与惩戒性问责防范违规与资金浪费，但极易引发实践[[Alienation|异化]]；发展型政策进路则将政策视为动态变革的赋能工具，倡导因地制宜与本土创新，注重综合多元指标并鼓励证据使用。循证改革要真正发挥效能，必须从死板的规制型控制转向兼顾情境[[Heterogeneity\|异质性]]与组织生态的发展型治理。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
 
 > [!citation-card] 理论源流与教育转译阐述
 > 规制型进路与发展型进路之间的区分至关重要，因为每种进路都会塑造出截然不同的政策结构。规制型进路旨在建立强制性的行动框架，其目标是创建一个稳定的监管环境，以便监督和纠正行动……发展型进路则致力于将政策融入持续变革的动态情境之中，政策旨在促进而非规制，旨在培育和部署支持积极变革的新颖实践。在发展型进路中，证据不再被视作唯一或最关键的要素，关注政策制定的具体情境以及人的因素变得至关重要。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]

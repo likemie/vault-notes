@@ -6,7 +6,7 @@ aliases:
 summary: "新西兰教育部委托奥克兰大学 John Hattie 团队开发的中小学读写与数学标准化形成性测评与报告系统，兼具诊断学情进阶与全网行政监控双重属性"
 type: instrument
 instrument_type: test
-instrument_related_count: 32
+instrument_related_count: 33
 instrument_related_level: 3
 instrument_related_stars: "💎"
 instrument_related_color: "#dbeafe"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Global Education Reform Movement]]"
   - "[[Exogenous Privatisation]]"
   - "[[Public-Private Partnership]]"
+  - "[[Alienation]]"
   - "[[Performance Pay]]"
 related_theories:
   - "[[Panopticism]]"
@@ -66,7 +67,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -141,7 +142,7 @@ updated: 2026-10-30
 > > 批判学者奥尼尔（[[John O'Neill]]）等揭示，asTTle 与其在线版本 e-asTTle 完全是由新西兰教育部公共税收全额资助、委托奥克兰大学[[John Hattie|约翰·哈蒂]]团队研发的国家公共测评基础设施。
 > >
 > > - **商业化招标与收费争议** 2015 年，新西兰教育部发布征求建议书（Request for Proposals, RFP），公开寻求出资 400 万至 800 万美元的外部商业投资伙伴，计划授予中标私营实体对 e-asTTle 系统的商业专营与持续开发权，并明确允许商业公司未来向新西兰公立学校收取软件使用费，同时由私营公司开发国际版对外销售谋利。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 8–9, 47)]]
-> > - **外生私有化批判** 这一举措引发了教育界与工会的强烈抗议，被指责为纳税人出资研发的公共知识产品被国家主动转包给私人资本牟利；同时，教育部还将系统的日常维护与教师培训大量外包给[[Cognition Education|认知教育]]（Cognition Education）等商业咨询公司，构成典型的外生私有化与[[Public-Private Partnership|公私伙伴关系]]异化。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 47–48)]]
+> > - **外生私有化批判** 这一举措引发了教育界与工会的强烈抗议，被指责为纳税人出资研发的公共知识产品被国家主动转包给私人资本牟利；同时，教育部还将系统的日常维护与教师培训大量外包给[[Cognition Education|认知教育]]（Cognition Education）等商业咨询公司，构成典型的外生私有化与[[Public-Private Partnership|公私伙伴关系]][[Alienation|异化]]。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 47–48)]]
 >
 > > [!axis] 国家政策结盟、[[Performance Pay|绩效工资]]推行与行政监控工具（Terhart 与 Snook 等学者之辩）
 > > [[Ewald Terhart|埃瓦尔德·特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 426, 434]]）与新西兰本土批判学者（[[Argument_Snook_2010_NZJES|Snook et al., 2010]]; Smythe, 2010）指出，asTTle 的研发与推广深度卷入了新西兰教育部的国家政策博弈。

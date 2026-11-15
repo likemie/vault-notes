@@ -9,7 +9,7 @@ aliases:
 summary: "贯穿研究规划与循证治理的核心方法论与认识论原则；主张研究设计、方法选择、效应量解释与证据评价必须由具体的研究与实践目的决定，而非受制于研究者个人偏好或去情境化的单一证据等级制"
 type: concept
 domain: "research-methodology"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Cultural Validity]]"
   - "[[Document]]"
+  - "[[Alienation]]"
   - "[[Research Question]]"
   - "[[Rich and Thick Description]]"
   - "[[Evaluation Research]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-19
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -134,7 +135,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题一｜[[Research Purpose|研究目的]]决定方法选择并支配从设计、抽样到数据分析的全流程规划
-> **研究规划全流程的支配性约束** 研究设计没有唯一的标准模板，[[Research Purpose\|研究目的]]支配着方法论决策的每一环节，任何以方法偏好倒推研究目的的做法都是方法论异化。
+> **研究规划全流程的支配性约束** 研究设计没有唯一的标准模板，[[Research Purpose\|研究目的]]支配着方法论决策的每一环节，任何以方法偏好倒推研究目的的做法都是方法论[[Alienation|异化]]。
 
 > [!claim] 研究规划全流程的目的支配性
 > **目的决定方法与全流程贯穿** 研究者不能简单根据个人偏好、技能习惯或技术恐惧选择方法，更不能因觉得某种方法特殊就人为篡改研究目的；这是“让尾巴摇狗”的严重错误。[[Research Purpose\|研究目的]]必须决定后续的研究类型、[[Research Question\|研究问题]]、抽样策略、伦理立场与资料收集方式。在数据分析阶段，目的适配性要求研究者明确分析旨在完成什么——是描述特征、推断因果、探索主题、检验假设，还是理解个案意义；分析目的直接决定所采纳的分析技术与报告撰写方式。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|(Cohen et al., 2011, Ch. 6, p. 91)]]

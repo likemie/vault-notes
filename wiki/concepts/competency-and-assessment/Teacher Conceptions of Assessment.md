@@ -7,7 +7,7 @@ aliases:
 summary: "教师关于评价本质、目的与价值的内隐信念体系，涵盖改进教学、学校问责、学生问责与无关性四种取向，直接决定评价数据在课堂中的实际功用"
 type: concept
 domain: "competency-and-assessment"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Reliability]]"
   - "[[Teacher Expectations]]"
+  - "[[Alienation]]"
   - "[[Reflexivity]]"
   - "[[Formative Assessment]]"
   - "[[Test-Based Accountability]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -58,7 +59,7 @@ updated: 2026-11-03
 ---
 
 > [!taxonomy] 教师评价观四维结构模型
-> - **教学改进取向（Improvement of Teaching and Learning）** 认为评价的根本目的在于诊断学生理解断层、揭示认知盲区，为教师调整后续教学方案与提供差异化指导提供循证反馈。
+> - **教学改进取向（Improvement of Teaching and Learning）** 认为评价的根本目的在于诊断学生理解断层、揭示认知盲区，为教师调整后续教学方案与提供差[[Alienation|异化]]指导提供循证反馈。
 > - **学校与教师问责取向（School and Teacher Accountability）** 将评价视作外部行政机关对学校办学绩效、办学合格率及教师教学效能进行监督、排名、问责与资源分配的控制手段。
 > - **学生问责取向（Student Accountability）** 强调评价的主要功能是对学生的个体学业资质进行终结性认证、等级评定、选拔分流或施加学习外在动力。
 > - **评价无关性取向（Irrelevance of Assessment）** 坚信标准化测试或正规评价脱离真实的日常教学互动，属于侵占师生时间的官僚负担或对学生真实能力的虚妄歪曲。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 17)]]

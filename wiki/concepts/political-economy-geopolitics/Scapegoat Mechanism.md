@@ -10,7 +10,7 @@ aliases:
 summary: "社会学、修辞学与人类学概念，指群体在面临结构性危机、道德焦虑或制度失能时，通过将自身的过错、挫折与内部矛盾仪式化转嫁给特定边缘个体或争议性实干家并予以排斥或牺牲，以暂时卸载集体罪咎感并维系表面秩序的社会心理与文化防御机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 20
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,12 +24,14 @@ tags:
   - theme/public-governance
   - theme/technological-republic
 related_concepts:
+  - "[[Mimesis]]"
   - "[[Procedural Piety]]"
   - "[[Innovation Desert]]"
   - "[[Externalization]]"
   - "[[Banality of Evil]]"
   - "[[Red Tape]]"
   - "[[Heterogeneity]]"
+  - "[[Alienation]]"
   - "[[Competitiveness]]"
   - "[[Technological Republic]]"
   - "[[Paradigm]]"
@@ -53,13 +55,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Scapegoat Mechanism
-> **替罪羊机制（Scapegoat Mechanism）** 指人类社会与组织系统在经历内部危机、制度性失能或道德失调时，通过将自身的过错、焦虑与深层矛盾投射转嫁给特定的牺牲性客体（Sacrificial Receptacle），并对其施加舆论声讨、合规清算或名誉放逐，从而在修辞与心理上仪式化卸除集体罪咎感、恢复表层秩序稳定的社会文化防御机制。在[[Kenneth Burke|肯尼斯·伯克]]（[[Kenneth Burke]]）与[[René Girard|勒内·吉拉尔]]（[[René Girard]]）的经典理论中，该机制是维系群体整合与化解模仿冲突的古老仪式；而在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的现代制度诊断中，替罪羊机制被进一步揭示为官僚体制掩盖战略无能的退行性病理——当系统无法交付重大战略成果时，平庸官僚往往退守“[[Procedural Piety|程序虔敬]]”，以严苛的微观道德审判将打破常规的功勋实干家（如[[Hyman Rickover|海曼·里科弗]]）献祭为替罪羊，导致公共部门陷入持续平庸与[[Innovation Desert|创新荒漠]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 187–188)]]
+> **替罪羊机制（Scapegoat Mechanism）** 指人类社会与组织系统在经历内部危机、制度性失能或道德失调时，通过将自身的过错、焦虑与深层矛盾投射转嫁给特定的牺牲性客体（Sacrificial Receptacle），并对其施加舆论声讨、合规清算或名誉放逐，从而在修辞与心理上仪式化卸除集体罪咎感、恢复表层秩序稳定的社会文化防御机制。在[[Kenneth Burke|肯尼斯·伯克]]（[[Kenneth Burke]]）与[[René Girard|勒内·吉拉尔]]（[[René Girard]]）的经典理论中，该机制是维系群体整合与化解[[Mimesis|模仿]]冲突的古老仪式；而在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的现代制度诊断中，替罪羊机制被进一步揭示为官僚体制掩盖战略无能的退行性病理——当系统无法交付重大战略成果时，平庸官僚往往退守“[[Procedural Piety|程序虔敬]]”，以严苛的微观道德审判将打破常规的功勋实干家（如[[Hyman Rickover|海曼·里科弗]]）献祭为替罪羊，导致公共部门陷入持续平庸与[[Innovation Desert|创新荒漠]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 187–188)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示人类群体如何通过[[Externalization|外部化]]投射与象征性牺牲来应对内部无法调和的结构性矛盾。
@@ -100,7 +102,7 @@ updated: 2026-11-03
 > - **仪式化驱逐与短暂净化（Ritual Purge & Catharsis）** 通过舆论谴责、职位剥夺或名誉抹杀，让大众与官僚获得短暂的道德纯洁感与危机化解幻觉。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 188)]]
 > - **敌对快感的道德反噬** 社会在加速敌人覆灭时往往产生狂欢与嗜血快感，消除了对复杂人性的宽容空间，最终导致掌舵者平庸化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 189)]]
 
-> [!logic-map]- 替罪羊机制在公共治理中的生成与异化路径
+> [!logic-map]- 替罪羊机制在公共治理中的生成与[[Alienation|异化]]路径
 > ```mermaid
 > flowchart TD
 >   A["系统性治理困境与战略无能<br>(如技术停滞、国防研发迟缓、通胀失控)"] --> B["集体焦虑与内部道德失调"]

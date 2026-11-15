@@ -14,7 +14,7 @@ aliases:
 summary: "衡量教育、研发、社会创新或组织协同投入与所产生综合收益之间比率的核心经济学与治理构念。在宏观层面被建构为跨国放贷与远处治理的自指性指标帝国；在中观风险慈善层面演化为以商业纪律与因果量规重塑公共教育再分配的意识形态手段；在微观产学合作层面则通过各方对回报定义的结构性分歧驱动复合创新。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 74
+related_count: 75
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Quasi-market]]"
   - "[[Discourse]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Alienation]]"
   - "[[Commensuration]]"
   - "[[Academic Freedom]]"
   - "[[Boundary Spanner]]"
@@ -110,13 +111,13 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-06-02
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Return on Investment
-> 投资回报（Return on Investment，ROI），在教育经济学、公共治理与跨部门协同创新语境中，是指衡量个体、组织或国家在教育、科研及社会创新中所投入的资源（资本、人力、时间）与由此衍生出的未来综合收益（收入溢价、生产率提升、[[Technology Transfer|技术转移]]、社会福祉）之间比例关系的复合[[Construct|构念]]。该构念跨越三重分析尺度：在宏观跨国治理层面，具体化为教育投资回报率（Rate of Return to Education，RORE），被[[Human Capital Theory|人力资本理论]]、[[World Bank|世界银行]]与[[OECD|经合组织]]工具化为设定跨国结构调整贷款的前置门槛与[[Governing at a Distance|远处治理]]指标，并将国家公共教育支出从福利国家的社会消费重构为衡量投入产出比与生产力收益的战略投资（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al., 2024, pp. 541–542]]；[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 442, 449–450]]）；在中观[[Policy Network|政策网络]]与[[Venture Philanthropy|风险慈善]]层面，演化为[[Social Impact Investing|社会投资]]回报（Social Return on Investment，SROI），被[[Philanthrocapitalism|慈善资本主义]]用作以商业投资纪律重构公共教育再分配、将国家供给置换为[[Quasi-market|准市场]]竞标的[[Discourse|话语]]工具（[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, pp. 520, 524]]）；在微观[[University-Industry Collaboration|产学合作]]层面，泛指大学、企业与医疗机构对“合作价值何在”的差异化预期，其结构性分歧构成了跨部门协同创新的根本引擎。[[Argument_Swick_Jones_2025_AcademicHealthSystems|(Swick & Jones, 2025, pp. 191–192)]]
+> 投资回报（Return on Investment，ROI），在教育经济学、公共治理与跨部门协同创新语境中，是指衡量个体、组织或国家在教育、科研及社会创新中所投入的资源（资本、人力、时间）与由此衍生出的未来综合收益（收入溢价、生产率提升、[[Technology Transfer|技术转移]]、社会福祉）之间比例关系的复合[[Construct|构念]]。该构念跨越三重分析尺度：在宏观跨国治理层面，具体化为教育投资回报率（Rate of Return to Education，RORE），被[[Human Capital Theory|人力资本理论]]、[[World Bank|世界银行]]与[[OECD|经合组织]]工具化为设定跨国结构调整贷款的前置门槛与[[Governing at a Distance|远处治理]]指标，并将国家公共教育支出从福利国家的社会消费重构为衡量投入产出比与生产力收益的战略投资（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al., 2024, pp. 541–542]]；[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 442, 449–450]]）；在中观[[Policy Network|政策网络]]与[[Venture Philanthropy|风险慈善]]层面，演化为[[Social Impact Investing|社会投资]]回报（Social Return on Investment，SROI），被[[Philanthrocapitalism|慈善资本主义]]用作以商业投资纪律重构公共教育再分配、将国家供给置换为[[Quasi-market|准市场]]竞标的[[Discourse|话语]]工具（[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, pp. 520, 524]]）；在微观[[University-Industry Collaboration|产学合作]]层面，泛指大学、企业与医疗机构对“合作价值何在”的差[[Alienation|异化]]预期，其结构性分歧构成了跨部门协同创新的根本引擎。[[Argument_Swick_Jones_2025_AcademicHealthSystems|(Swick & Jones, 2025, pp. 191–192)]]
 
 > [!concept-lens] 概念透镜
 > - **三重分析尺度** 涵盖新古典实证经济学的“宏观投入—产出因果核算”、政策网络政治经济学的“中观异层社会投资话语”以及产学研协同的“微观多元价值协商”。

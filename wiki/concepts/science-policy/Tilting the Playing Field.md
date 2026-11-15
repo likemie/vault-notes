@@ -2,7 +2,7 @@
 summary: "由 Mazzucato 与 Perez 提出、Kattel 与 Mazzucato 深化的现代科技政策核心概念，指国家超越单纯修补市场失灵与平整场地的被动角色，主动通过战略采购、规制设定与定向激励，将市场游戏规则与资本预期向符合长期公共价值的绿色与包容性技术轨道倾斜。"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Market Failure]]"
+  - "[[Alienation]]"
   - "[[Patient Capital]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Market Shaping and Creating]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-11-15
 title: Tilting the Playing Field
 aliases:
   - 倾斜竞争场地
@@ -46,7 +47,7 @@ aliases:
 ---
 
 > [!def] Tilting the Playing Field
-> **倾斜竞争场地（Tilting the Playing [[Champ|field]] / 倾斜竞技场）** 是指公共部门在科技创新与产业治理中，超越新古典经济学主张的“被动修补[[Market Failure|市场失灵]]、提供中性要素以平整竞争场地（Leveling the Playing Field）”的狭隘定位，主动通过定向战略采购、差异化税收规制、附加公共利益条件的研发资助以及长期[[Patient Capital|耐心资本]]支持，使市场竞争规则与商业投资预期系统性地向符合公共利益与重大社会目标的绿色、包容与高溢出性[[Technological Trajectories|技术轨道]]发生结构性倾斜（Mazzucato & Perez, 2015）。[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）与[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）在论述第三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]时，将“倾斜场地”确立为国家进行[[Market Shaping and Creating|市场塑造]]与创造的关键行动准则，旨在通过重塑私人资本的未来利润预期来引导和撬动（Crowd in）广泛的[[Social Impact Investing|社会投资]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–789)]]
+> **倾斜竞争场地（Tilting the Playing [[Champ|field]] / 倾斜竞技场）** 是指公共部门在科技创新与产业治理中，超越新古典经济学主张的“被动修补[[Market Failure|市场失灵]]、提供中性要素以平整竞争场地（Leveling the Playing Field）”的狭隘定位，主动通过定向战略采购、差[[Alienation|异化]]税收规制、附加公共利益条件的研发资助以及长期[[Patient Capital|耐心资本]]支持，使市场竞争规则与商业投资预期系统性地向符合公共利益与重大社会目标的绿色、包容与高溢出性[[Technological Trajectories|技术轨道]]发生结构性倾斜（Mazzucato & Perez, 2015）。[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）与[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）在论述第三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]时，将“倾斜场地”确立为国家进行[[Market Shaping and Creating|市场塑造]]与创造的关键行动准则，旨在通过重塑私人资本的未来利润预期来引导和撬动（Crowd in）广泛的[[Social Impact Investing|社会投资]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–789)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 承认市场并非天然中性或自我均衡的物理场域，其运行规则与激励结构始终由制度与公共政策深度塑造；国家有权且应当基于民主决议设定创新的价值导向。

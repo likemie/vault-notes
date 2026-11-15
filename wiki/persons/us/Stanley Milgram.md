@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Banality of Evil]]"
   - "[[Six Degrees of Separation]]"
   - "[[Document]]"
+  - "[[Alienation]]"
   - "[[Constructive Disobedience]]"
   - "[[Deception in Research]]"
   - "[[Institutional Review Board]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-11-02
 ---
 
 > [!claim] 核心学术主张
-> 在层级权威主导的情境中，个体的批判性道德判断极易在程序性催促下发生异化，个体将自身定位为执行他人意志的工具（代理态），从而以精致的礼貌掩盖对同类的伤害；唯有少数坚守自由意志与直面物理反馈者，方能在权威压迫下守住批判性抗命的底线。
+> 在层级权威主导的情境中，个体的批判性道德判断极易在程序性催促下发生[[Alienation|异化]]，个体将自身定位为执行他人意志的工具（代理态），从而以精致的礼貌掩盖对同类的伤害；唯有少数坚守自由意志与直面物理反馈者，方能在权威压迫下守住批判性抗命的底线。
 
 > [!logic-map]- 米尔格拉姆权威服从心理动力学与组织映射模型
 > ```mermaid

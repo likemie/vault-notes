@@ -8,7 +8,7 @@ aliases:
 summary: "1990年《世界全民教育宣言》（宗滴恩宣言）确立的核心理念与奠基构念。由读写算与问题解决等基础学习工具，以及知识、技能、价值观与态度等基本学习内容构成，旨在赋予个体生存、全面发展与终身学习的潜能，区别于将受教育权窄化为正规小学学龄在册率的技术官僚取向。"
 type: concept
 domain: "comparative-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[International Education]]"
+  - "[[Alienation]]"
   - "[[Foundational Literacy and Numeracy]]"
   - "[[Problem Solving]]"
   - "[[Decodification]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -53,7 +54,7 @@ updated: 2026-11-11
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向涵盖工具性素养与实质性知识技能的完整能力结构，兼顾正规学校教育与非正规学习通道。
-> - **用途** 帮助研究者透视[[International Education|国际教育]]议程中能力赋能本位与制度在册指标之间的张力，诊断教育扩张过程中的质量与内容异化。
+> - **用途** 帮助研究者透视[[International Education|国际教育]]议程中能力赋能本位与制度在册指标之间的张力，诊断教育扩张过程中的质量与内容[[Alienation|异化]]。
 > - **边界** 聚焦[[Foundational Literacy and Numeracy|基础学习]]阶段的赋能要素，不延伸为专业分化阶段的高阶学科训练或劳动力市场的特定职业资格准入。
 
 > [!citation-card] 基本学习需求的双维内涵与全纳向度

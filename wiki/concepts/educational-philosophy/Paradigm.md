@@ -8,7 +8,7 @@ aliases:
 summary: "研究共同体共享的世界观、信念体系与原则集合，涵盖本体论、认识论与方法论承诺，决定何为合法的科学知识；在科学学与社会科学中历经科学革命、实证论战与当代跨学科计量对范式开创成果注意力极化的实证确证。"
 type: concept
 domain: "educational-philosophy"
-related_count: 107
+related_count: 108
 related_level: 10
 related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Postpositivism]]"
   - "[[School Inspection]]"
+  - "[[Alienation]]"
   - "[[National Character]]"
   - "[[Governing by Numbers]]"
   - "[[Lifelong Learning]]"
@@ -133,7 +134,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -225,7 +226,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题三｜比较教育百年演进呈现从宏大历史文化全景、实证主义论战到当代多元[[Autopoiesis|自创生]]的多范式重构
-> **比较教育学科演进的范式更迭轨迹** 揭示比较教育作为跨学科领域，其范式更迭如何映射哲学社会学思潮的演进，并在各大学重镇中呈现差异化的建制轨迹。
+> **比较教育学科演进的范式更迭轨迹** 揭示比较教育作为跨学科领域，其范式更迭如何映射哲学社会学思潮的演进，并在各大学重镇中呈现差[[Alienation|异化]]的建制轨迹。
 >
 > > [!claim] [[Wolfgang Mitter|Mitter, W.]]
 > > **比较教育百年历经三大标志性理论范式阶段** 沃尔夫冈·米特系统梳理了欧洲比较教育的百年范式更迭：第一阶段（1920s–1950s）由汉斯与[[Friedrich Schneider|弗里德里希·施奈德]]所主导的**宏大历史文化全景与精神[[Scientific Paradigm|科学范式]]** 占据主导，深究[[National Character|国民性格]]与驱动力（[[Theories of the Driving Forces|Triebkräfte]]）；第二阶段（1960s–1980s）卷入[[Karl Popper|卡尔·波普尔]]批判理性主义与[[Jürgen Habermas|尤尔根·哈贝马斯]][[Critical Theory|批判理论]]之间的 **[[Positivist Dispute in German Sociology|实证主义争论]]（Positivismusstreit）**，催生了以[[Brian Holmes|布莱恩·霍姆斯]][[Problem Approach|问题法]]为代表的[[Critical Dualism|批判二元论]]范式；第三阶段（1990s 至今）则在现代主义与[[Postmodernism|后现代主义]]、斯坦福世界体系普遍主义与文化[[Pluralism|多元主义]]对峙中走向**多元分化范式**，并由施里维尔开创了结合[[Niklas Luhmann|卢曼]]系统[[Autopoiesis|自创生]]与意义[[Externalization|外化]]的比较新范式。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–94)]]

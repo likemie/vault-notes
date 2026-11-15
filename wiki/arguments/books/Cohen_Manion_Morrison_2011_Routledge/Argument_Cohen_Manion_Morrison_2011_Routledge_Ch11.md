@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
 argument_display_title: "Research Methods in Education · Ch11"
 argument_kind: "book-chapter"
-argument_related_count: 91
+argument_related_count: 92
 argument_related_level: 9
 argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
@@ -73,6 +73,7 @@ related_concepts:
   - "[[Educational Immunology]]"
   - "[[Covert Research]]"
   - "[[Fitness for Purpose]]"
+  - "[[Alienation]]"
   - "[[Face Validity]]"
   - "[[Hidden Curriculum]]"
   - "[[Unit of Analysis]]"
@@ -128,7 +129,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-24
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 > [!knowledge-map] 第11章：[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_11-1_Concept_Map.jpg)
@@ -634,7 +635,7 @@ Silverman（1993, pp. 92–93）补充了访谈的六项用途：
 > | 评论行动标准 | 探讨对情境可以做什么。 |
 > | 探索行为 | 考察当下或先前的行为。 |
 > | 引出理由和解释 | 获取参与者自身的归因和阐释。 |
->    重要警示：访谈非自动适用；某些文化参与者可能觉得访谈（或任何正式言语沟通）异化。Maxwell（2005, p. 93）引用 Whyte（1993, p. 303）的发现：在敏感群体中（如海洛因使用者）问太多问题不明智；正式访谈异化，不如用非正式对话和田野笔记替代（p.432）。
+>    重要警示：访谈非自动适用；某些文化参与者可能觉得访谈（或任何正式言语沟通）[[Alienation|异化]]。Maxwell（2005, p. 93）引用 Whyte（1993, p. 303）的发现：在敏感群体中（如海洛因使用者）问太多问题不明智；正式访谈异化，不如用非正式对话和田野笔记替代（p.432）。
 
 **非人类数据来源。** Lincoln and Guba（1985）讨论了两种非人类数据来源：
 

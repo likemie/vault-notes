@@ -9,7 +9,7 @@ aliases:
 summary: "以经验观察、受控检验与假设证伪为基础的系统性探究程序；传统实证主义将其预设为贯通自然与社会的普适法则，当代科学哲学与科学教育将其重构为多元情境化的社会认识论实践，而在跨国治理中其亦被超国家机构包装为客观中立的科学决策品牌以推行去政治化协调。"
 type: concept
 domain: "educational-philosophy"
-related_count: 101
+related_count: 102
 related_level: 10
 related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Absolute Knowing]]"
   - "[[Dialogue in Education]]"
   - "[[Predictive Validity]]"
+  - "[[Alienation]]"
   - "[[Formal Epistemology]]"
   - "[[Determinism]]"
   - "[[Empiricism]]"
@@ -130,7 +131,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -167,7 +168,7 @@ updated: 2026-11-11
 > | **主客体关系** | 主张研究者保持客观中立，降低主观干扰 | 确立科技专家对社会客体的[[Absolute Knowing\|绝对认知]]支配 | 探究者在活动情境中与工具、同伴深度互动 | 研究者与研究对象处于“主体-主体”交往[[Dialogue in Education\|对话]]中 |
 > | **真理检验标准** | 经验可重复性、[[Predictive Validity\|预测效度]]与可证伪性 | 凡不能被量化测量的命题皆被判定为无意义 | 知识能否有效解决当下行动困境并达成理解 | 阐释是否具有丰富情境深度与反思共鸣感 |
 > | **方法论取向** | 假设检验、受控观察、建模与论证综合 | 机械套用数理量化与自然科学实验外壳 | 具身参与、行动反思与局内人情境决策 | [[In-depth Interview\|深度访谈]]、[[Participant Observation\|参与观察]]、文本阐释与意义还原 |
-> | **主要风险或局限** | 容易被教条化为去情境的配方式实验步骤 | 剥夺人文价值与道德批判，异化为技术极权 | 难以自发自动转化为高阶专业[[Formal Epistemology\|形式认识论]] | 结论具有高度情境依存性，缺乏普遍因果法则 |
+> | **主要风险或局限** | 容易被教条化为去情境的配方式实验步骤 | 剥夺人文价值与道德批判，[[Alienation\|异化]]为技术极权 | 难以自发自动转化为高阶专业[[Formal Epistemology\|形式认识论]] | 结论具有高度情境依存性，缺乏普遍因果法则 |
 
 ---
 

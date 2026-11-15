@@ -10,9 +10,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 39
-fact_related_level: 3
-fact_related_stars: "💎"
+fact_related_count: 42
+fact_related_level: 4
+fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
 period: "1995–至今"
 initiator_organization: "International Association for the Evaluation of Educational Achievement"
@@ -34,7 +34,9 @@ related_concepts:
   - "[[School Inspection]]"
   - "[[Variable]]"
   - "[[International Large-Scale Assessments]]"
+  - "[[Curriculum Alignment]]"
   - "[[Competitiveness]]"
+  - "[[Alienation]]"
   - "[[Research Utilization]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Document]]"
@@ -70,10 +72,11 @@ related_arguments:
   - "[[Argument_McDonnell_2013_AmJE]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Wecker_2016_ZfE]]"
+  - "[[Argument_Barrenechea_2023_JEC]]"
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-11-10
+updated: 2026-11-15
 ---
 
 ---
@@ -151,7 +154,7 @@ updated: 2026-11-10
 > | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013, pp. 11–13)]] | 美国 50 州数学课程标准与高表现国课程对比 | 跨国课程对标与政策追踪分析 | 课程广度、深度与逻辑连贯性 | 证实美国州课程覆盖主题过多且缺乏深度（“一英里宽、一英寸深”）；高表现国聚焦少数核心概念深度进阶 | — | 为美国启动跨州统一标准（[[Common Core State Standards\|CCSS]]）提供了关键的国际基准与议程合法性 |
 > | [[Argument_Dedering_2009_EERJ\|Dedering (2009, pp. 494–495)]] | 德国教育行政科层官员访谈 | 追踪定性访谈与政策分析 | 国际测评在各州教育治理中的功能认知 | 官员普遍认同 TIMSS 具备宏观定位功能，但明确指出其无法直接推导微观改进举措 | — | 确立[[International Large-Scale Assessments\|国际大规模评估]]主要发挥宏观方位导向而非微观教学指导功能 |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, p. 33)]]（引述 Roppelt et al., 2013; Köller, 2012） | 德国大规模数理学业追踪与[[Meta-analysis\|元分析]]基准对比 | 宏观学业成长实证追踪与方法学审计 | 学期与学年常态能力成长幅度（$d$） | 证实学生全学年常态数理能力增长通常仅在 $0.20–0.40$ 个标准差（每学期 $0.15–0.20$） | 跨大规模评估稳定重现 | 击碎了哈蒂将 $d = 0.40$ 设定为排他性一学年成长基准的虚构神话，为客观评价教学法效应提供了现实依据 |
-> | [[Argument_Barrenechea_2023_JEC\|Barrenechea et al. (2023, p. 8)]]（引述 Cogan et al., 2001） | 54 个教育系统的数理课程轨迹 | 跨国课程比较与学业产出对齐分析 | 课程集权度、流转对齐度与学业一致性 | 证实具备中央集权型课程体制且各阶段课程对齐良好的系统，学生学业一致性显著更高 | 54 系统跨国比较 | 揭示国家制度中枢依靠统一教材规范学习轨迹对保障学业均质性的制度价值 |
+> | [[Argument_Barrenechea_2023_JEC\|Barrenechea et al. (2023, p. 8)]]（引述 Cogan et al., 2001） | 54 个教育系统的数理课程轨迹 | 跨国课程比较与学业产出对齐分析 | 课程集权度、流转对齐度与学业一致性 | 证实具备中央集权型课程体制且各阶段[[Curriculum Alignment\|课程对齐]]良好的系统，学生学业一致性显著更高 | 54 系统跨国比较 | 揭示国家制度中枢依靠统一教材规范学习轨迹对保障学业均质性的制度价值 |
 
 > [!stat-cards]- 关键实证数据
 > - **4** （年）为固定周期的常态化全球测评跨度。
@@ -188,7 +191,7 @@ updated: 2026-11-10
 
 > [!lessons] 经验教训与启示
 > - **实施教训** 国际抽样测试的宏观概括性无法替代单体学校的微观诊断与实地督导，过度排位炒作容易引发狭隘的应试化教学与题型操练。
-> - **对未来改革的启示** 应强化课程对标与认知诊断功能，将国际趋势比较与本土课程纵向进阶理性结合，避免将跨国量化数据简单异化为政客问责与排名的单一凭据。
+> - **对未来改革的启示** 应强化课程对标与认知诊断功能，将国际趋势比较与本土课程纵向进阶理性结合，避免将跨国量化数据简单[[Alienation|异化]]为政客问责与排名的单一凭据。
 
 ---
 

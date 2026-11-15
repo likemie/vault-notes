@@ -10,7 +10,7 @@ aliases:
 summary: "阿马蒂亚·森提出的福利与发展评价框架，将扩展个人与群体的实质自由界定为发展的核心目标，在高等教育与国际发展研究中为诊断大学多元使命、批判全球大学排名及阐明跨国定向工程教育自主造血机制提供了分析工具。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 30
+theory_related_count: 31
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[General Education]]"
   - "[[Reflexivity]]"
+  - "[[Alienation]]"
   - "[[Study Abroad]]"
   - "[[Geopolitics]]"
   - "[[Operationalization]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-11
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -164,7 +165,7 @@ updated: 2026-11-11
 >     - **D1.2.1｜批判思维与理智自由**
 >       - **含义** 独立反思现实处境、审视伦理道德与追问真理的心智充实状态。
 >       - **观察线索** [[General Education|通识教育]]批判性阅读课时、开放学术研讨参与深度。
->       - **判读规则** 缺乏[[Reflexivity|反思性]]研讨提示教育异化为机械技能灌输。
+>       - **判读规则** 缺乏[[Reflexivity|反思性]]研讨提示教育[[Alienation|异化]]为机械技能灌输。
 >       - **归属与出处** 森与德雷兹原初规范框架；[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022)]]。
 >   - **D1.3｜个体能动性与赋权**
 >     - **D1.3.1｜自我掌控与阶层流动**

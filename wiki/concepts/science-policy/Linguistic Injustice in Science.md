@@ -12,7 +12,7 @@ aliases:
 summary: "科学社会学与科学政策学中的结构性不平等概念；指当代全球学术交流与主流同行评审期刊被英语单一语种垄断，对非英语母语科研人员构成的非对称学术成本与话语壁垒；非英语母语学者需承担显著偏高的翻译润色支出、时间消耗与非学术性语言拒稿风险，导致本土化情境认知与发展中国家学者的原创贡献在国际科学话语中遭遇系统性挤压与遮蔽。"
 type: concept
 domain: "science-policy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Creativity]]"
   - "[[Document]]"
+  - "[[Alienation]]"
   - "[[Scientific Productivity]]"
   - "[[Early-Career Researchers]]"
   - "[[Status Bias in Peer Review]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -100,7 +101,7 @@ updated: 2026-11-11
 > **非对称时间与经济损耗** 考察语言壁垒在微观学术劳动中引发的成本结构失衡。
 
 > [!claim] Clavero (2010)
-> **笨拙措辞与生态学期刊中的语言不公** 米格尔·克拉韦罗（Miguel Clavero）指出，顶级期刊审稿人频繁以语言表达不够优雅为由给出负面评价；这种审稿苛责将母语者的语言习惯异化为科学质量守门准则，使非母语学者承担了极不公平的学术发表惩罚。[[Argument_Haubrock_2026_NHB|(Clavero, 2010; Haubrock et al., 2026, p. 5)]]
+> **笨拙措辞与生态学期刊中的语言不公** 米格尔·克拉韦罗（Miguel Clavero）指出，顶级期刊审稿人频繁以语言表达不够优雅为由给出负面评价；这种审稿苛责将母语者的语言习惯[[Alienation|异化]]为科学质量守门准则，使非母语学者承担了极不公平的学术发表惩罚。[[Argument_Haubrock_2026_NHB|(Clavero, 2010; Haubrock et al., 2026, p. 5)]]
 
 > [!claim] [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]]
 > **语言壁垒对全球科学叙事的收窄** 菲利普·豪布罗克（Phillip J. Haubrock）与托恩·埃弗茨（Teun Everts）等学者强调，语言障碍与资金不稳定性交织在一起，剥夺了低资源地区学者的学术可见度；这一排斥机制导致全球科学知识生产被少数核心国家的主流叙事所主导，削弱了科学系统的整体创造力。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 5)]]

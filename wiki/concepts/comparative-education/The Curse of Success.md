@@ -8,7 +8,7 @@ aliases:
 summary: "明娜·劳塔林与佩尔蒂·阿拉苏塔里针对芬兰基础教育提出的治理病理学构念。指主权国家在 PISA 等跨国测评中持续位列榜首所引发的体制性自满与改革停滞困局。中央政府将国际盛誉归功于既有顶层制度并以此作为拒绝追加教育投资与改善教师待遇的合法借口；一线教师与专业工会感知到的学业压力、区域分化与职业倦怠等深层危机，反被中央官僚定性为地方执行不力的局部瑕疵，形成中央推卸责任与基层诉求受阻的体制死锁，构成了与“PISA 震荡”互为镜像的高分国别治理困境。"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[International Large-Scale Assessments]]"
+  - "[[Alienation]]"
   - "[[PISA Shock]]"
   - "[[Pride in Learning]]"
   - "[[Externalization]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -55,7 +56,7 @@ updated: 2026-11-11
 > 成功者的诅咒（The Curse of Success）是比较教育政策社会学用于剖析测评榜首国家内部制度僵化与治理死锁的批判性[[Construct|构念]]。该构念由芬兰学者明娜·劳塔林与佩尔蒂·阿拉苏塔里（Rautalin & Alasuutari, 2009）提出，指当一个国家在[[International Large-Scale Assessments|国际大规模评估]]（如 [[PISA]]）中取得卓越排名时，跨国声誉极易被国内执政精英转化为证明现行政策绝对完美的合法化护盾；中央政府以此为由拒绝对公立教育追加长期财政投入，并将基层暴露出的体制缺陷转嫁为地方市镇与一线教师的执行失职，从而导致自上而下的政策反思能力瘫痪。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 70–71)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 揭示跨国评估中的卓越成绩如何异化为麻痹国家教育系统自我革新意识的政治束缚。
+> - **含义** 揭示跨国评估中的卓越成绩如何[[Alienation|异化]]为麻痹国家教育系统自我革新意识的政治束缚。
 > - **用途** 帮助研究者透视“高分榜样国家”光环遮蔽下的微观利益冲突、财政紧缩以及中央与地方教育博弈的真实生态。
 > - **边界** 该构念专门解释高排位国家在盛名之下的政策自满机制，不适用于排位落后国家所经历的危机催化现象。
 

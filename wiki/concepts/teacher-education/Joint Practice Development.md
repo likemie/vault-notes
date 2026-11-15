@@ -7,10 +7,10 @@ aliases:
 summary: "教师在真实课堂情境中协同分享、测试、实施与改进教学实践的双向互动过程，由 Fielding 与 Sebba 等提出并成为英格兰国家学校领导力学院的核心范式，旨在彻底超越传统单向线性移植的优秀实践转移模型，构成专业学习共同体与证据知情学校微观落地的核心机制"
 type: concept
 domain: "teacher-education"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - theme/teacher-professional-development
   - theme/evidence-informed-practice
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Lesson Study]]"
   - "[[Research Utilization]]"
   - "[[Epistemology]]"
+  - "[[Mimesis]]"
   - "[[Champ]]"
   - "[[Activity Traps]]"
   - "[[Reflexivity]]"
@@ -38,6 +39,7 @@ related_concepts:
   - "[[Teacher Questioning]]"
   - "[[School Leadership]]"
   - "[[School Enquiry Cycle]]"
+  - "[[Alienation]]"
   - "[[Performance Pay]]"
   - "[[Peer-Supported Learning]]"
   - "[[Construct]]"
@@ -45,17 +47,16 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Research-Engaged School]]"
   - "[[Knowledge Mobilisation]]"
-  - "[[Document]]"
 related_theories:
   - "[[Third Generation Activity Theory]]"
 related_methods:
   - "[[Classroom Observation]]"
 related_instruments: []
 related_persons:
+  - "[[David Hargreaves]]"
   - "[[Chris Brown]]"
   - "[[Toby Greany]]"
   - "[[Nancy Cartwright]]"
-  - "[[David Hargreaves]]"
 related_facts:
   - "[[Research Learning Communities]]"
   - "[[Department for Education]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-11-08
+updated: 2026-11-15
 ---
 
 ---
@@ -96,7 +97,7 @@ updated: 2026-11-08
 > | 维度 | 联合实践发展（JPD） | 优秀实践转移（Transfer of Good Practice） | 传统在职讲座培训（Traditional CPD） |
 > |---|---|---|---|
 > | **[[Epistemology\|认识论假设]]** | 知识具有高度情境性与缄默性，需在互动中共同建构 | 知识是可分离、可封装、可线性移植的离散实体 | 知识由学术专家垄断，教师仅为被动接受者与执行者 |
-> | **互动形态** | 双向平等互惠、相互挑战、共同探究 | 单向传递、“专家示范—新手模仿” | 单向讲授、专家灌输、自上而下灌输 |
+> | **互动形态** | 双向平等互惠、相互挑战、共同探究 | 单向传递、“专家示范—新手[[Mimesis\|模仿]]” | 单向讲授、专家灌输、自上而下灌输 |
 > | **实践[[Champ\|场域]]** | 真实常态课堂、备课现场与课例研讨现场 | 脱离原生态环境的展示课、研讨会发言 | 校外培训机构教室、报告厅、会议室 |
 > | **反思深度** | 深入审视底层行动理论、假设与因果机制（双环学习） | 聚焦表层操作步骤与技巧套用（单环模仿） | 理论记忆与宏观理念认同，脱离具体微观操作 |
 > | **常见风险** | 耗费时间与精力，易因工作量过载或虚假合意变形 | 水土不服、机械照搬，极易变成[[Activity Traps\|活动陷阱]] | 听时心动、回校不动，培训成效迅速衰减遗忘 |
@@ -188,7 +189,7 @@ updated: 2026-11-08
 > > - **现实约束批判** [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] 与 Gu et al.（2015）明确指出，在缺乏课时减免与专项经费支持的普通学校，高强度的课例研讨与同行互观给教师造成了不可持续的工作量负荷（Unsustainable workload）。
 
 > [!warning] 实施中的误区与警示
-> - **异化为行政查课与绩效考核** 随堂听课一旦与教师评优、[[Performance Pay\|绩效工资]]或督导迎检挂钩，[[Peer-Supported Learning\|同伴互助]]便变成同行监控，阻断真正的问题暴露与专业互信。
+> - **[[Alienation|异化]]为行政查课与绩效考核** 随堂听课一旦与教师评优、[[Performance Pay\|绩效工资]]或督导迎检挂钩，[[Peer-Supported Learning\|同伴互助]]便变成同行监控，阻断真正的问题暴露与专业互信。
 > - **缺少反思深度的“形式化走课”** 仅流于在教室后排走动观摩，缺乏基于客观学情数据的课后深度对话，无法触及因果行动理论。
 
 ---

@@ -7,9 +7,9 @@ title: "Argument_Arnove_2009_WorldSystems"
 argument_key: "Argument_Arnove_2009_WorldSystems"
 argument_display_title: "World-systems analysis and comparative education in the age of globalization"
 argument_kind: "book-chapter"
-argument_related_count: 59
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
+argument_related_count: 60
+argument_related_level: 6
+argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 authors:
   - "[[Robert Arnove|Arnove, R. F.]]"
@@ -55,6 +55,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Competitiveness]]"
+  - "[[Alienation]]"
   - "[[Analytical Stance]]"
   - "[[Class Size]]"
   - "[[Falsification]]"
@@ -103,7 +104,7 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-29
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 ---
 
@@ -239,7 +240,7 @@ updated: 2026-11-11
 > - **职能活动（Activities）** 经费筹措、产权归属、服务提供以及行政与质量规约。
 > - **世贸组织规制的非对称冲击** 1995 年世贸组织成立并实施 GATS，致力于消除边境壁垒、推行学历文凭互认与教育商品化。大国（如加入世贸后的中国）能够主动利用规则增强[[Competitiveness|国家竞争力]]，而经济体量弱小的国家（如牙买加、尼加拉瓜）则在世贸规约面前丧失了宏观调控教育的能力。
 
-在跨国机构压缩国家权力的同时，原本被寄予厚望的民间非政府组织也在外部资助的塑造下发生体制异化。
+在跨国机构压缩国家权力的同时，原本被寄予厚望的民间非政府组织也在外部资助的塑造下发生体制[[Alienation|异化]]。
 
 > [!critique-method] 非政府组织承接公共服务外包的制度困境（Sutton & Arnove, 2004; Kamat, 2004; pp.111–112）
 > - **国家公共主体地位的削弱** 国际援助方认为受援国政府官僚腐败低效，普遍绕过国家部门，直接出资委托非政府组织提供基础教育；这种做法使国家丧失了统筹公共教育与颁发文凭的核心权威，导致[[National Education|国民教育]]体系支离破碎。

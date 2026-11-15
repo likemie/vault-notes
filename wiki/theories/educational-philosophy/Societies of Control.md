@@ -6,7 +6,7 @@ aliases:
 summary: "Deleuze 提出的后规训权力理论，指以开放网络、算法持续调制和数据流动取代封闭机构模具规训的支配形态；在教育中表现为学习分析全程追踪、新管理主义全景监控与持续数据生产。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 21
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Learning Analytics]]"
   - "[[New Managerialism]]"
+  - "[[Alienation]]"
   - "[[Variable]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Online Self-Assessment]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-19
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -61,7 +62,7 @@ updated: 2026-11-11
 > - **知识位置** 吉尔·德勒兹（Gilles Deleuze, 1992）基于威廉·巴勒斯（William S. Burroughs）的控制概念提出，既是对福柯规训理论的批判性继承与阶段性断代，也是当代[[Critical Pedagogy|批判教育学]]解构[[Learning Analytics|学习分析]]、数字绩效管理与[[New Managerialism|新管理主义]]的核心透镜。
 
 > [!claim] 核心判断
-> 规训社会的封闭模具（Mold）正在被控制社会的持续调制（Modulation）所取代；在教育领域中，个体不再只是在特定机构内部接受阶段性成型，而是被深度嵌入以数字数据流动、算法持续评估与无休止报表自证为特征的流动控制网络中，导致教学行为异化为持续的数据生产。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 221–222)]]; [[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 237–238)]]
+> 规训社会的封闭模具（Mold）正在被控制社会的持续调制（Modulation）所取代；在教育领域中，个体不再只是在特定机构内部接受阶段性成型，而是被深度嵌入以数字数据流动、算法持续评估与无休止报表自证为特征的流动控制网络中，导致教学行为[[Alienation|异化]]为持续的数据生产。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 221–222)]]; [[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 237–238)]]
 
 ---
 

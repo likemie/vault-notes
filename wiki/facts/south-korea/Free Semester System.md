@@ -11,7 +11,7 @@ subtype: policy
 region: south-korea
 fact_region: "south-korea"
 fact_kind: "policy"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Learner Autonomy]]"
   - "[[Creativity]]"
   - "[[Problem Solving]]"
+  - "[[Alienation]]"
   - "[[Formative Assessment]]"
   - "[[Progressive Education]]"
   - "[[Student Motivation]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -81,7 +82,7 @@ updated: 2026-11-11
 ---
 
 > [!timeline] 政策时间线
-> - **2009–2012** [[PISA]] 2009 结果发布，社会反思高分低效的应试异化，学术界与政策界对标芬兰等模式展开政策酝酿。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
+> - **2009–2012** [[PISA]] 2009 结果发布，社会反思高分低效的应试[[Alienation|异化]]，学术界与政策界对标芬兰等模式展开政策酝酿。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 > - **2013** 韩国教育部选定 42 所初中启动自由学期制试点研究。
 > - **2014–2015** 试点学校规模逐步扩充至全韩国超过 70% 的初中学校。
 > - **2016** 正式在全韩国所有初级中学（3200 余所）全面法制化推行自由学期制。

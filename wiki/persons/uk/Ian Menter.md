@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Reflective Thinking]]"
   - "[[Discourse]]"
   - "[[Gatekeepers]]"
+  - "[[Alienation]]"
   - "[[Discipline-Based Theory]]"
 related_theories: []
 related_methods:
@@ -113,7 +114,7 @@ updated: 2026-11-15
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 推进了教师教育政治学与新制度主义政策分析的交叉融合，深化了学界对教育[[Output-Oriented Governance\|循证治理]]异化机制的认知。
+> - **理论路径** 推进了教师教育政治学与新制度主义政策分析的交叉融合，深化了学界对教育[[Output-Oriented Governance\|循证治理]][[Alienation|异化]]机制的认知。
 > - **政策路径** 主导的 [[British Educational Research Association\|BERA]]-RSA 调查结论被英国议会委员会及工党、保守党政策顾问广泛引用；提出的临床实践理念直接影响了英国 2015 年《[[Carter Review of Initial Teacher Training\|卡特审查]]》等国家文件的起草。
 > - **跨国传播** 其教师教育模型在苏格兰、北爱尔兰、澳大利亚及欧洲大陆多国教师专业标准制定中产生广泛回响。
 

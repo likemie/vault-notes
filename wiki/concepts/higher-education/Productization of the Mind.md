@@ -7,7 +7,7 @@ aliases:
 summary: "指当代高等教育与文化体制从培育独立反思与道德信念的精神摇篮，异化为将人类智力批量规格化为符合商业资本、金融套利与纯代码工程需求的工具性人力资产的制度过程。"
 type: concept
 domain: "higher-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
   - theme/careerism
   - theme/humanities-crisis
 related_concepts:
+  - "[[Alienation]]"
   - "[[Research Universities]]"
   - "[[Liberal Education]]"
   - "[[The Sublime]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -43,7 +44,7 @@ updated: 2026-11-14
 > 心智产品化（Productization of the Mind）是指在当代晚期资本主义与高等教育官僚化浪潮中，大学等核心文化机构不再将激发学生探求真理、审视历史矛盾与培育实质信念视为根本使命，是将人类智力资源全面商品化与工具化，批量生产专精于狭隘技能（如纯编程、金融衍生品设计、管理咨询建模）却缺乏独立价值反思能力、极易被他人战略操纵的“标准化智力产品”的现象。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 71–76)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 揭示大学从“文化与文明的承载器皿”（Vessels of Culture）退化为“行政看护机构”（Administrative Caretakers）与人才外包流水线的制度异化。
+> - **含义** 揭示大学从“文化与文明的承载器皿”（Vessels of Culture）退化为“行政看护机构”（Administrative Caretakers）与人才外包流水线的制度[[Alienation|异化]]。
 > - **用途** 解释人文学科（Humanities）的断崖式萎缩与工程/计算机专业极度功利化膨胀并存的教育危机。
 > - **边界** 区别于一般的职业技术教育，心智产品化特指顶尖[[Research Universities|研究型大学]]对其传统[[Liberal Education|博雅教育]]使命的背叛与市场妥协。
 

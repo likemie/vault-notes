@@ -7,7 +7,7 @@ aliases:
 summary: "指学术学科或产业精英在特定知识生产与意识形态驱动下，主动割裂、边缘化乃至集体遗忘制度生成演化史与公共奠基传统的病理状态；既表现为比较教育学在实证量化狂潮中放逐历史编纂法与长时段历史意识，亦表现为硅谷科技巨头抹杀国家公共研发投资奠基作用的自由市场神话。"
 type: concept
 domain: "comparative-education"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Working Hypothesis]]"
   - "[[Cult of Optionality]]"
   - "[[Protean Episteme]]"
+  - "[[Alienation]]"
   - "[[Positivism]]"
   - "[[Empiricism]]"
   - "[[Epistemology]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-11-13
+updated: 2026-11-15
 ---
 
 ---
@@ -135,7 +136,7 @@ updated: 2026-11-13
 > | [[Technological Republic]] | 概念 | 核心理论框架，通过批判历史健忘症重塑科技产业与国家战略协同的合法性基础。 |
 > | [[Technological Agnosticism]] | 概念 | 伴生病理，揭示科技精英因遗忘公共研发渊源而陷入的不问政治目的与后果的冷漠心态。 |
 > | [[Cult of Optionality]] | 概念 | 行为表征，体现历史健忘下科技阶层拒绝承担排他性国家责任的避险机制。 |
-> | [[Protean Episteme]] | 概念 | 卡扎米亚斯用以解释比较教育学随时代潮流持续变换伪装的元理论，历史健忘症是其严重异化表征。 |
+> | [[Protean Episteme]] | 概念 | 卡扎米亚斯用以解释比较教育学随时代潮流持续变换伪装的元理论，历史健忘症是其严重[[Alienation\|异化]]表征。 |
 > | [[Positivism]] | 概念 | 战后在比较教育中异化为排他性的[[Empiricism\|唯方法论主义]]，构成学科历史健忘症的直接[[Epistemology\|认识论]]根源。 |
 > | [[DARPA]] | 事实 | 关键历史实证，冷战期间资助互联网与芯片革命的公共研发机构，构成解构自由市场神话的基石证据。 |
 > | [[Mariana Mazzucato]] | 人物 | 经济学家，在《企业型国家》中系统论证底层公共研发投资，直接启发对科技巨头历史健忘症的批判。 |

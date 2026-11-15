@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 28
+person_related_count: 29
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Visible Learning]]"
   - "[[Zone of Desired Effects]]"
+  - "[[Alienation]]"
   - "[[Commensuration]]"
   - "[[Evidence-Based Education]]"
   - "[[Incommensurability]]"
@@ -124,7 +125,7 @@ updated: 2026-11-15
 > - **指标对照者** [[Gene Glass|吉恩·格拉斯]]（Gene Glass） — 格拉斯于 1976 年提出 Glass's $\Delta$（以对照组标准差为除数，容许干预改变实验组方差）；科恩则提出 Cohen's $d$（假定方差齐性，采用合并标准差作除数），二者构成标准化[[Effect Size|效应量]]的两大经典流派。
 > - **修正继承者** 拉里·赫奇斯（Larry Hedges） — 赫奇斯指出 Cohen's $d$ 在小样本下存在轻度高估的系统偏倚，通过引入小样本校正因子 $J \approx 1 - \frac{3}{4(n_E+n_C)-9}$ 发展出无偏估计量 Hedges' $g$。
 > - **转译与误读代表** [[John Hattie|约翰·哈蒂]]（John Hattie） — 将 Cohen's $d$ 推广为全球教育政策畅销书的核心符号，但将其脱离[[Sample Size Determination|样本量]]与具体情境教条化为 0.40 的单一划分线，走向了科恩所反对的机械排序。
-> - **批判审视学者** 彼得·阿勒鲁普（Peter Allerup）、[[Christof Wecker|克里斯托夫·韦克尔]]（Christof Wecker）、[[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart） — 揭示科恩谨慎的经验参照在教育政策传播中被异化为神话的机制，批判跨指标混同导致的方法学缺陷。
+> - **批判审视学者** 彼得·阿勒鲁普（Peter Allerup）、[[Christof Wecker|克里斯托夫·韦克尔]]（Christof Wecker）、[[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart） — 揭示科恩谨慎的经验参照在教育政策传播中被[[Alienation|异化]]为神话的机制，批判跨指标混同导致的方法学缺陷。
 
 ---
 

@@ -8,7 +8,7 @@ aliases:
 summary: "描述科研人员与科技资助体系在数据可得性与绩效指标驱动下过度聚集于已被照亮的成熟易测领域、而系统性忽视未测高风险前沿的认知与制度偏误机制。"
 type: concept
 domain: "science-policy"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Research Problem]]"
   - "[[Cumulative Innovation]]"
   - "[[Goodhart's Law]]"
+  - "[[Alienation]]"
   - "[[Preregistration]]"
   - "[[Paradigm]]"
 related_theories:
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-02
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -59,7 +60,7 @@ updated: 2026-11-11
 
 > [!boundary]- 概念边界
 > - 不等于 发表偏倚 / 抽屉效应 — 发表偏倚关注实验完成后因统计不显著或零结果而被锁入抽屉、未被期刊录用的结果发表偏差；街灯效应则前置于研究构思与选题立项阶段，关注因数据稀缺或高不确定性而根本未被涉足的研究空间盲区。
-> - 不等于 [[Goodhart's Law|古德哈特定律]] — 古德哈特定律描述指标被用作考核目标后引发的策略性行为异化；街灯效应则重点揭示可测性本身对研究视角的单向牵引与遮蔽。
+> - 不等于 [[Goodhart's Law|古德哈特定律]] — 古德哈特定律描述指标被用作考核目标后引发的策略性行为[[Alienation|异化]]；街灯效应则重点揭示可测性本身对研究视角的单向牵引与遮蔽。
 
 ---
 

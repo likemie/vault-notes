@@ -13,7 +13,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Institutional Review Board]]"
   - "[[Areas of Knowledge]]"
   - "[[Heterogeneity]]"
+  - "[[Alienation]]"
   - "[[Scientific Creativity]]"
   - "[[Innovation Ecosystem]]"
   - "[[People, Not Projects]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-05
-updated: 2026-11-05
+updated: 2026-11-15
 ---
 
 ---
@@ -134,7 +135,7 @@ updated: 2026-11-05
 > > 学界长期讨论 R01 强化的里程碑式考核是否导致科研人员陷入“为规避续约失败而进行增量研究”的困境。
 > >
 > > - **合规管理与确定性成效立场** 强调纳税人公共经费必须具备高度透明性与可问责性，具体研究目标能够保证科研进展的可审计性与产出确定性。
-> > - **原创探索阻碍批评** 科学政策学者与部分诺贝尔奖得主指出，前沿重大发现往往不可预先规划，强制要求在申请书中提交大量前期数据，实质上将资助对象异化为“已经完成大半的工作”，限制了探索真正未知的可能性。[[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011, pp. 530–532)]]
+> > - **原创探索阻碍批评** 科学政策学者与部分诺贝尔奖得主指出，前沿重大发现往往不可预先规划，强制要求在申请书中提交大量前期数据，实质上将资助对象[[Alienation|异化]]为“已经完成大半的工作”，限制了探索真正未知的可能性。[[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011, pp. 530–532)]]
 >
 > > [!axis] 资助项目（Fund Projects）vs 资助人才（Fund People）
 > > 生物医学资助体系围绕资金配置单元应当绑定具体实验方案还是绑定卓越个体科学家的治理争鸣。

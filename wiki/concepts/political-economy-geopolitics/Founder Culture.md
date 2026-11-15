@@ -8,7 +8,7 @@ aliases:
 summary: "指源自高科技创业生态与国家战略工程实践的组织治理范式；其核心特征在于确立权责对称与切身利益担当（Skin in the Game），破除公职禁欲主义与程序合规迷思，倡导以物理世界实质战略产出（如建造潜艇、降低疾病、消除犯罪）为最高判准，被卡普与扎米斯卡视为重塑公共治理、打破创新荒漠与重建技术共和国的核心制度手段。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 34
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -27,10 +27,12 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Procedural Piety]]"
   - "[[The Sublime]]"
+  - "[[Genius]]"
   - "[[Discourse]]"
   - "[[Engineering Mindset]]"
   - "[[Competitiveness]]"
   - "[[Social Regime]]"
+  - "[[Alienation]]"
   - "[[Hard Power]]"
   - "[[Consumer Internet]]"
   - "[[Sage]]"
@@ -62,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -92,7 +94,7 @@ updated: 2026-11-14
 > |:---|:---|:---|:---|
 > | **核心诉求** | 解决物理世界真实难题，交付可衡量的实质战略成果 | 严格遵循既定程序规章，规避行政、审计与舆论风险 | 宣示[[The Sublime\|崇高]]口号与清教徒式道德纯洁性，获取文化优越感 |
 > | **权责结构** | 权责高度对称，领导者直接承担成败后果与战略利益 | 权责分散脱节，决策者不承受政策失误与延误的实际代价 | 零成本道德表态，将政策恶果与治理失败转嫁给一线群众 |
-> | **薪酬与人才观** | 市场化对标与权责对称激励，吸引顶尖实干与工程天才 | 压低公职薪酬并预设圣徒假设，迫使人才流向金融与游说界 | 将公职视作苦行圣职，对微小合规瑕疵发起猎巫审判 |
+> | **薪酬与人才观** | 市场化对标与权责对称激励，吸引顶尖实干与工程[[Genius\|天才]] | 压低公职薪酬并预设圣徒假设，迫使人才流向金融与游说界 | 将公职视作苦行圣职，对微小合规瑕疵发起猎巫审判 |
 > | **面对创新风险** | 设立工程底线，在复杂前线敢于打破死板规章敏捷攻坚 | 视新技术为潜在麻烦，以繁琐[[Red Tape\|繁文缛节]]阻碍技术进入 | 因潜在滥用风险而主张全面禁止，以消极避险为第一要务 |
 > | **治理产出** | 打破[[Innovation Desert\|创新荒漠]]，打造现代化战略工程与国防能力 | 固化流程低效与技术代差，使公共部门沦为创新洼地 | 制造[[Discourse\|话语]]极化与审查恐惧，导致实质治理机制瘫痪 |
 
@@ -105,7 +107,7 @@ updated: 2026-11-14
 > - **权责对称的激励对标（Market-Benchmarked Compensation）** 破除将公职预设为苦行僧的圣徒迷思，以具有市场[[Competitiveness|竞争力]]的待遇激励和保留具备创始人素质的顶尖治理人才。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 181–183)]]
 > - **奥德修斯式自愿自我约束（Odyssean Self-Constraint）** 创始人主动确立制度与法律约束机制，将自身“捆绑于桅杆之上”，抵御资本市场的季度财报短期压力与利益诱惑，守护长期战略愿景。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 209–210)]]
 > - **长程资产托管哲学（Three-Century Stewardship）** 摒弃季度短期主义（Quarter-to-Quarter Short-Termism），践行如耶鲁捐赠基金大卫·斯文森（David Swensen）倡导的“跨越三个世纪”的长程资产配置与治理哲学，视组织资产为代际传承的文明基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, p. 209)]]
-> - **全员股权与所有权[[Social Regime|社会体制]]（All-Employee Equity & Ownership Society）** 破除传统工业合伙人与纯薪酬雇佣制的劳资异化，通过全员广泛股权激励使每位建设者成为共同所有者，实现集体使命与切身利益的高度统一。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 210–212)]]
+> - **全员股权与所有权[[Social Regime|社会体制]]（All-Employee Equity & Ownership Society）** 破除传统工业合伙人与纯薪酬雇佣制的劳资[[Alienation|异化]]，通过全员广泛股权激励使每位建设者成为共同所有者，实现集体使命与切身利益的高度统一。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 210–212)]]
 
 > [!logic-map]- 创始人文化重构公共部门的因果传导机制
 > ```mermaid

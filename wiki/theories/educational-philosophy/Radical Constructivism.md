@@ -5,7 +5,7 @@ aliases:
 summary: "由冯·格拉泽斯费尔德创立的认识论与学习哲学，主张知识是认知主体对其经验世界的适切性组织，强调主观适应性检验，在教育学中引发了关于教学本质、文化规范与技术理性边界的深刻争鸣"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 46
+theory_related_count: 48
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Constructed Knowledge]]"
   - "[[Epistemology]]"
   - "[[Learning Crisis]]"
+  - "[[Judgment of Taste]]"
   - "[[Ontology]]"
   - "[[Paradigm]]"
   - "[[Inquiry-Based Learning]]"
@@ -33,6 +34,7 @@ related_concepts:
   - "[[Learner Autonomy]]"
   - "[[Research Question]]"
   - "[[Epistemic Commitments]]"
+  - "[[Alienation]]"
   - "[[The Sublime]]"
   - "[[Metacognition]]"
   - "[[Discourse]]"
@@ -71,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-03
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 （激进[[Constructivist Paradigm|建构主义]]）
@@ -92,7 +94,7 @@ updated: 2026-11-14
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 德裔美籍哲学家与认知心理学家[[Ernst von Glasersfeld|恩斯特·冯·格拉泽斯费尔德]]（[[Ernst von Glasersfeld]]）在 1974 年界定该概念，并在其 1995 年的奠基性著作《激进[[Constructivist Paradigm|建构主义]]：一种知晓与学习的方式》（*Radical Constructivism: A Way of Knowing and Learning*）中确立了完备的理论体系。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 7)]]
 > - **原初问题** 传统西方哲学长期困于主客二分与怀疑论难题，难以证明心理表征与外部本体世界的一致性；教育实践中以教师为中心的单向知识灌输亦遭遇广泛的[[Learning Crisis|学习危机]]。
-> - **理论资源与材料** 理论汲取了三项关键思想资源：第一，[[George Berkeley|贝克莱]]（[[George Berkeley]]）的存在即被感知原理，奠定了经验唯我论的哲学底色；第二，[[Immanuel Kant|康德]]关于主体先验知性形式建构经验现象的学说（[[Robert Glaser|格拉泽]]斯费尔德对其进行经验心理学改造，抽离了先验规范性与审美判断）；第三，[[Jean Piaget|皮亚杰]]（[[Jean Piaget]]）的生物学同化与顺应适应机制，确立了认知平衡与图式重组的心理机制。
+> - **理论资源与材料** 理论汲取了三项关键思想资源：第一，[[George Berkeley|贝克莱]]（[[George Berkeley]]）的存在即被感知原理，奠定了经验唯我论的哲学底色；第二，[[Immanuel Kant|康德]]关于主体先验知性形式建构经验现象的学说（[[Robert Glaser|格拉泽]]斯费尔德对其进行经验心理学改造，抽离了先验规范性与[[Judgment of Taste|审美判断]]）；第三，[[Jean Piaget|皮亚杰]]（[[Jean Piaget]]）的生物学同化与顺应适应机制，确立了认知平衡与图式重组的心理机制。
 > - **形成路径** 格拉泽斯费尔德将[[Piaget's Theory of Cognitive Development|皮亚杰发生认识论]]上升为一种普遍哲学[[Epistemology|认识论]]，放弃对客观真实世界的[[Ontology|本体论]]表征参照，将真理观重塑为主观经验的适应性生存（适切性），奠定了激进建构主义的基本纲领。
 
 > [!dev-timeline] 理论演变历程
@@ -152,7 +154,7 @@ updated: 2026-11-14
 > - **[[Research Question|研究问题]]** 某种教育理论、课程方案、数字化学习环境或教学模式在何种程度上采纳了激进[[Constructivist Paradigm|建构主义]]假设？这种[[Epistemology|认识论]]取向如何影响其对学习、教师角色、知识内容与评估的界定？
 > - **分析对象与单位** 教育哲学论著、课程标准文本、教学法指南、智能化学习系统交互逻辑。
 > - **需要的材料** 理论著作原典、课堂教学实录、教学任务设计单、师生反思报告。
-> - **解释目标** 揭示教育方案底层的[[Epistemic Commitments|认识论承诺]]，辨析其赋予学习者主观能动性的同时是否带来了客观知识虚无、文化传承断裂或教学控制异化。
+> - **解释目标** 揭示教育方案底层的[[Epistemic Commitments|认识论承诺]]，辨析其赋予学习者主观能动性的同时是否带来了客观知识虚无、文化传承断裂或教学控制[[Alienation|异化]]。
 
 > [!theory-framework] 激进建构主义分析维度与判读规则
 >

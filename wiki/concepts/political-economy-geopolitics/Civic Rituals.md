@@ -9,10 +9,10 @@ aliases:
 summary: "指世俗民族国家用于维系大规模陌生人之间政治团结与“想象亲密感”的制度化国民装置，涵盖公立教育通识正典、普遍国民防卫服役、世俗公民宗教、标准化共同语言与公共新闻论坛；在当代因后现代解构与多元主义冲击而全面荒废，导致大众退守娱乐亚文化、科技精英构建封闭技术城邦，构成现代西方国家防卫意志涣散与地缘脆弱性的深层根源。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/political-economy
   - theme/technological-republic
@@ -25,6 +25,7 @@ related_concepts:
   - "[[The Sublime]]"
   - "[[Hard Power]]"
   - "[[Horizontal Comradeship]]"
+  - "[[Alienation]]"
   - "[[Cultural Relativism]]"
   - "[[Innovation Park]]"
   - "[[Technological Republic]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-09
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -110,7 +111,7 @@ updated: 2026-11-14
 
 ---
 
-> [!concept-proposition] 命题二｜公民仪式的荒废使公共领域丧失凝聚纽带，导致大众退守娱乐亚文化与科技阶层异化为孤立技术城邦
+> [!concept-proposition] 命题二｜公民仪式的荒废使公共领域丧失凝聚纽带，导致大众退守娱乐亚文化与科技阶层[[Alienation|异化]]为孤立技术城邦
 > **共同体瓦解与认同替代** 阐明仪式荒废后国家意义真空如何被商业消费娱乐与封闭式高科技城邦所填补，进而加剧政治共同体的碎裂。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025, Ch. 18)]]

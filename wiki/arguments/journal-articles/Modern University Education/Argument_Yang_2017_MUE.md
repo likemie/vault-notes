@@ -32,6 +32,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Philosophical Aesthetics]]"
   - "[[Geopolitics]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Social Contract of Science]]"
 related_methods:
@@ -73,14 +74,14 @@ sources:
 part_of:
 status: active
 created: 2026-11-04
-updated: 2026-11-14
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Yang_2017_MUE"
 argument_key: "Argument_Yang_2017_MUE"
 argument_display_title: "学术与政治: 卫星危机前后美国联邦政府大学科研资助政策的博弈与嬗变"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -380,7 +381,7 @@ issuing_organization: ""
 ---
 
 > [!warning] 自述局限
-> 研究重点聚焦于联邦层面宏观政策决策、咨询机构博弈与资助结构调整，未深入追踪各州公立大学与不同层级高校内部院系微观层面对联邦资助政策调整的差异化适应实践。
+> 研究重点聚焦于联邦层面宏观政策决策、咨询机构博弈与资助结构调整，未深入追踪各州公立大学与不同层级高校内部院系微观层面对联邦资助政策调整的差[[Alienation|异化]]适应实践。
 
 ---
 

@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: denmark
 person_region: "denmark"
-person_related_count: 23
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Tacit Knowledge]]"
   - "[[Competitiveness]]"
+  - "[[Alienation]]"
   - "[[Learning Economy]]"
   - "[[Knowledge Production]]"
   - "[[Lifelong Learning]]"
@@ -96,7 +97,7 @@ updated: 2026-11-15
 ---
 
 > [!claim] 核心思想
-> 技术创新在本质上是一个跨越企业边界的“互动学习”过程；当将不确定性、局域化学习和[[Bounded Rationality|有限理性]]作为微观经济行为的基本假定时，微观用户—生产者关系网络与宏观国家制度环境的差异，必然导向多样化与差异化的经济演进路径，而非标准化的全球趋同。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 11, 15, 17)]]
+> 技术创新在本质上是一个跨越企业边界的“互动学习”过程；当将不确定性、局域化学习和[[Bounded Rationality|有限理性]]作为微观经济行为的基本假定时，微观用户—生产者关系网络与宏观国家制度环境的差异，必然导向多样化与差[[Alienation|异化]]的经济演进路径，而非标准化的全球趋同。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 11, 15, 17)]]
 
 > [!citation-card] [[Bengt-Åke Lundvall|伦德瓦尔]]论有限理性与国家创新路径的多样性
 > 如果将不确定性、局域化学习（Localized Learning）与有限理性作为关于微观经济行为的基本且更符合现实的假设，而非传统完全信息与超理性的假设，那么必然能够得出结论：地方与国家在外部环境上的差异将往往导致完全不同的发展道路，走向日益增强的多样性，而非标准化与收敛趋同。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 15)]]

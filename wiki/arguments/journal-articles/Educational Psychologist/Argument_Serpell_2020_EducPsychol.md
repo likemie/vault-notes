@@ -18,10 +18,12 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Research-Policy Gap]]"
   - "[[Heterogeneity]]"
+  - "[[Serialization]]"
   - "[[Document]]"
   - "[[Legislative Policy Brief]]"
   - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
+  - "[[Alienation]]"
   - "[[Academic Achievement]]"
   - "[[Scientifically Based Research]]"
   - "[[Scientific Method]]"
@@ -87,14 +89,14 @@ sources:
   - "[[sources/Serpell_2020_EducPsychol/Serpell_2020_EducPsychol|Serpell_2020_EducPsychol]]"
 status: draft
 created: 2026-09-17
-updated: 2026-11-11
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Serpell_2020_EducPsychol"
 argument_key: "Argument_Serpell_2020_EducPsychol"
 argument_display_title: "Supporting the integration of evidence into federal educational policy and reform efforts: A navigational framework for educational researchers"
 argument_kind: "journal-article"
-argument_related_count: 64
+argument_related_count: 66
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -124,7 +126,7 @@ journal: Educational Psychologist
 > | **[[Two-Communities Theory\|两社区理论]]**<br>[[Two-Communities Theory]] | 揭示科学社群与政治社群在奖酬结构与话语体系上的根本[[Heterogeneity\|异质性]]，论证跨越社区边界需要专门中介机制与身份沉浸。 |
 
 > [!warrant]- 理论如何支撑论证
-> 论证通过引入政策制定时间系统理论，破除了学术界长期存在的线性理性假设，揭示出政治家对证据的利用根本上受制于外部事件驱动与时间约束；在此基础上，政策导航框架将抽象的政策制定解构为具备明确行动者特征与准入规则的序列化阶段，从而将研究者从旁观批判者转变为具有战略航行能力的政策参与者。
+> 论证通过引入政策制定时间系统理论，破除了学术界长期存在的线性理性假设，揭示出政治家对证据的利用根本上受制于外部事件驱动与时间约束；在此基础上，政策导航框架将抽象的政策制定解构为具备明确行动者特征与准入规则的[[Serialization|序列化]]阶段，从而将研究者从旁观批判者转变为具有战略航行能力的政策参与者。
 
 ---
 
@@ -164,7 +166,7 @@ journal: Educational Psychologist
 > [!claim] 核心主张：单一实验标准与宏观治理脱节，实证[[Paradigm\|范式]]须转向多元情境证据与全域数据治理
 > 传统[[Evidence-Based Education\|循证教育]]将[[Randomised Controlled Trials\|随机对照试验]]（RCT）推崇为唯一黄金标准，但教育政策兼具全域系统联动性、组织情境[[Heterogeneity\|异质性]]与时效迫切性，机械套用单一实验标准不仅无法解答复杂的治理命题，反而在高利害问责中诱发教学窄化与数据舞弊；实证范式必须向情境化多元证据与开放式全域数据治理转型。
 
-> [!sub-claim] 1. 联邦教育治理的宪政约束与规制型进路的异化困境
+> [!sub-claim] 1. 联邦教育治理的宪政约束与规制型进路的[[Alienation|异化]]困境
 
 美国宪法第十修正案确立了联邦制分权原则，将绝大部分教育事务的管辖权保留给各州与地方学区，联邦政府既不直接决定课程教材，也不统一制定[[Academic Achievement|学业成就]]基准。在此宪政约束下，联邦介入教育治理的关键支点在于专项财政拨款附带的法定规制条件，并在半个世纪的实践中经历了从规制问责到多元分权的制度演进。
 

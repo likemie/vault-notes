@@ -7,7 +7,7 @@ summary: "以单个或少数个案为分析单位深入追踪过程、情境和�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 103
+method_related_count: 109
 method_related_level: 10
 method_related_stars: "💎💎💎⭐"
 method_related_color: "#dbeafe"
@@ -38,7 +38,9 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Learner-Centred Education]]"
   - "[[Test-Based Accountability]]"
+  - "[[Educational Soft Power]]"
   - "[[Megascience Installations]]"
+  - "[[Alienation]]"
   - "[[Critical Thinking]]"
   - "[[IB Diploma Programme]]"
   - "[[Theory of Knowledge]]"
@@ -98,6 +100,7 @@ related_arguments:
   - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Wang_2025_CE]]"
+  - "[[Argument_He_2018_HEP]]"
   - "[[Argument_Dezhina_2022_ECO]]"
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Lakhani_2012_AKUIED]]"
@@ -116,6 +119,9 @@ related_arguments:
   - "[[Argument_Heinze_2009_RP]]"
   - "[[Argument_Volmari_2025_CE]]"
 related_facts:
+  - "[[Soochow University in Laos]]"
+  - "[[Xiamen University Malaysia]]"
+  - "[[Bangkok Business School]]"
   - "[[Education Endowment Foundation]]"
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
   - "[[Institute for Educational Quality Improvement]]"
@@ -130,7 +136,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-05-08
-updated: 2026-11-13
+updated: 2026-11-15
 ---
 
 ---
@@ -227,9 +233,9 @@ updated: 2026-11-13
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 采用跟踪式个案设计，结合目的抽样与理论抽样分两阶段选取 62 名个案，用以检视叙述可靠性并确证意向与行为的关联。
 > - [[Argument_Wang_2025_CE|Wang and McLaughlin (2025)]] — 以多案例研究设计，从 15 所参与跨文化 [[Learner-Centred Education|LCE]] 教师培训项目的学校中选取 4 所进行深度追踪，对比不同学校在[[Test-Based Accountability|考试问责]]压力下推进 LCE 的路径差异。
-> - [[Argument_He_2018_HEP|He and Wilkins (2018)]] — 采用多案例研究设计，选取老挝苏州大学、厦门大学马来西亚分校与泰国曼谷商学院三所境外分校，对比不同东道国语境下教育软实力的运作差异。
+> - [[Argument_He_2018_HEP|He and Wilkins (2018)]] — 采用多案例研究设计，选取[[Soochow University in Laos|老挝苏州大学]]、[[Xiamen University Malaysia|厦门大学马来西亚分校]]与泰国[[Bangkok Business School|曼谷商学院]]三所境外分校，对比不同东道国语境下[[Educational Soft Power|教育软实力]]的运作差异。
 > - [[Argument_Dezhina_2022_ECO|Dezhina and Egerev (2022)]] — 以多案例研究设计，选取研究人员国际流动、合作规制、基金重组与[[Megascience Installations|大科学装置]]本土化四个切面案例。
-> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 以四所 NSW 学校为多案例设计，通过访谈、[[Classroom Observation|课堂观察]]和文件分析对比各校 ToK 课程的实施方式，识别出四种差异化的[[Critical Thinking|批判性思维]]教学模式。
+> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 以四所 NSW 学校为多案例设计，通过访谈、[[Classroom Observation|课堂观察]]和文件分析对比各校 ToK 课程的实施方式，识别出四种差[[Alienation|异化]]的[[Critical Thinking|批判性思维]]教学模式。
 > - [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]] — 以卡拉奇一所私立学校的 [[IB Diploma Programme|IBDP]] 项目为质性案例研究，探究 [[Theory of Knowledge|TOK]] 课程中学习者的自主性角色与[[Knowledge Building Theory|知识建构]]过程。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 以 [[Education Endowment Foundation|EEF]] 为单一案例，从内部视角剖析其推动学校大规模 [[Randomised Controlled Trials|RCT]] 的制度设计、独立评估与[[Implementation and Process Evaluation|IPE]]演进。
 > - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 采用多层级纵向质性个案研究设计，结合全国性政策法规文本、技术白皮书梳理与针对联邦及各州教育部高级决策者、测量学家的[[Expert Interview|专家访谈]]，深入剖析[[Gesamtstrategie zum Bildungsmonitoring|德国国家教育监测总体战略]]下[[Institute for Educational Quality Improvement|柏林教育质量发展研究所]]（IQB）作为国家[[Center of Calculation|计算中心]]的崛起历程与跨尺度绩效[[Data Infrastructure|数据基础设施]]的拓扑运作机制。

@@ -7,7 +7,7 @@ aliases:
 summary: "Taylor 科学管理原理在教育行政与学校治理中的当代复兴，指运用唯一最佳方法预设、效应量排名、碎片化操作单元与全景监控规训教学与专业劳动的管理思潮。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 66
+related_count: 67
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Costs Benefits Ratio in Research Ethics]]"
   - "[[Cognitive Deskilling]]"
   - "[[Scientism]]"
+  - "[[Alienation]]"
   - "[[Scientific Literacy]]"
   - "[[Reliability]]"
   - "[[Document]]"
@@ -92,7 +93,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-05-03
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 > [!def] Neo-Taylorism
@@ -185,7 +186,7 @@ updated: 2026-11-03
 > **去情境工程化还原** 该维度关注新泰勒主义如何通过[[Scientism|科学主义]]修辞，将具有高度不确定性的课堂互动改造成工厂流水线式的输入-产出控制系统。
 
 > [!claim] [[Scott Eacott|Eacott, S.]]
-> 斯科特·埃考特（[[Argument_Eacott_2017_SLM|Eacott, 2017]]）指出，[[John Hattie|哈蒂]]可见学习体系将复杂的学校生活简化为[[Effect Size|效应量]]大小的技术选择，其指导思想与泰勒主义的核心原理高度同构——追求消除模糊性与主观经验，将教学实践分割为原子化的技术模块；这种思维将教育领导力异化为挑选最高回报方案的计算管理，深刻侵蚀了教育家应有的哲学反思与情境裁量权。[[Argument_Eacott_2017_SLM|(Eacott, 2017, pp. 418–422)]]
+> 斯科特·埃考特（[[Argument_Eacott_2017_SLM|Eacott, 2017]]）指出，[[John Hattie|哈蒂]]可见学习体系将复杂的学校生活简化为[[Effect Size|效应量]]大小的技术选择，其指导思想与泰勒主义的核心原理高度同构——追求消除模糊性与主观经验，将教学实践分割为原子化的技术模块；这种思维将教育领导力[[Alienation|异化]]为挑选最高回报方案的计算管理，深刻侵蚀了教育家应有的哲学反思与情境裁量权。[[Argument_Eacott_2017_SLM|(Eacott, 2017, pp. 418–422)]]
 
 > [!claim] [[Klaus Nielsen|Nielsen, K.]] & Klitmøller, J.
 > 克劳斯·尼尔森与延斯·克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）进一步揭示，新泰勒主义治理之所以推崇哈蒂的效应量数据库，源于其表面标榜非理论化、实则深植于刺激-反应[[Behaviorism|行为主义]]的机械预设；这种管理模式假定教育可以像工程力学测试一样把单一[[Variable|变量]]从班级背景与社会阶级中剥离出来，将生动的师生对话物化为冰冷的技术控制流程。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 4–5, 14–15)]]
@@ -243,7 +244,7 @@ updated: 2026-11-03
 > > - **埃考特的反驳立场（[[Argument_Eacott_2019_IJLE|Eacott, 2019, pp. 777–779]]）** 指出哈蒂偷换了辩论焦点，刻意回避了其理论被教育官僚转化为绩效控制武器的社会历史条件，实质上维护了一种剥夺教师裁量权的技术威权。
 >
 > > [!axis] 持续数据生产是问责保障还是组织病理？
-> > 争论高频次量化监测与报表制度究竟有助于保障教育公平与质量，还是诱发系统性表演与专业异化。
+> > 争论高频次量化监测与报表制度究竟有助于保障教育公平与质量，还是诱发系统性表演与专业[[Alienation|异化]]。
 > >
 > > - **行政问责支持者（[[OECD|经合组织]]与部分国家教育部门）** 坚称没有统一测量的量化数据就无法诊断薄弱环节，标准规程是缩小校际差距与防范教学懈怠的必要手段。
 > > - **批判学者与一线教育者（Biesta, 2015; [[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）** 论证高压数据生产逼迫教师“为测验而教”并疲于造表应检，引发严重的职业倦怠，彻底颠倒了教育手段与目的的关系。

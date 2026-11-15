@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: norway
 person_region: "norway"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Teacher Professional Agency]]"
   - "[[Deficiencies Model for an Introduction]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Governing by Inspection]]"
   - "[[Knowledge Integration]]"
@@ -131,5 +132,5 @@ updated: 2026-11-15
 > | [[Deficit Framing]] | 概念 | 首次系统定性并批判教育研究使用文献中的赤字框架偏误。 |
 > | [[Profession-Sensitive Conceptualisations of Research Use]] | 概念 | 倡导并构建以教师实践智慧为核心的第四代研究使用范式。 |
 > | [[Research Literacy]] | 概念 | 推进学校领导与教师研究素养的敏感性维度与情境调和理论。 |
-> | [[Governing by Inspection]] | 概念 | 深入揭示督导问责对教师专业自主与循证探究的异化机制。 |
+> | [[Governing by Inspection]] | 概念 | 深入揭示督导问责对教师专业自主与循证探究的[[Alienation\|异化]]机制。 |
 > | [[Governing Mechanisms of Research Use]] | 理论 | 为跨层治理框架提供了批判文献个体归因偏误的核心依据。 |

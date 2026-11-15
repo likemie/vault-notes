@@ -9,7 +9,7 @@ aliases:
 summary: "一种具有跨部门广泛渗透性、内在持续技术动态性以及能诱发下游互补性创新与系统性生产率提升的基础技术范式。"
 type: concept
 domain: "economics"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Lean Production]]"
   - "[[Total Quality Management]]"
   - "[[Precompetitive Research]]"
+  - "[[Alienation]]"
   - "[[Heterogeneous Integration]]"
   - "[[Hardware Security]]"
   - "[[Counterpart Funds]]"
@@ -84,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -181,7 +182,7 @@ updated: 2026-11-11
 > **技术经济特征与前竞争制度边界** 探讨为何通用目的技术（GPT）能够自发形成跨企业的前竞争联合资助生态，而能源等专用同质化技术却难以复制该模式。
 
 > [!claim] 通用目的技术的前竞争合作空间与迁移边界
-> **通用目的技术的跨领域渗透性拓宽了前竞争合作空间，而基础设施锁定与同质产出则限制了研发联合体模式向非 GPT 领域的制度迁移** 洛加尔等人（[[Argument_Logar_2014_Minerva|Logar et al., 2014]]）通过半导体与能源技术的深度对比指出，技术范式是否具备通用目的技术（GPT）属性深刻决定了其[[Precompetitive Research|前竞争研发]]合作的制度可行性。半导体作为典型的 GPT，底层芯片突破能够广泛发散地赋能计算机、通信、汽车等众多高溢价差异化终端，因而具有极其宽广的“前竞争”合作空间——竞争企业能够轻易就底层物理机理与共性制造工艺结成研发联合体（如[[Semiconductor Research Corporation|半导体研究公司]]，SRC）；相反，光伏与电网等能源技术的最终输出物是完全同质的电能，且面临积累资产长达 40 年的庞大电网基础设施锁定，前竞争阶段与商业应用高度重叠，私营企业缺乏联合出资进行共性基础探索的经济动力。这表明，半导体这一 GPT 领域的产学联合创新经验具有严格的技术经济边界，向非 GPT 领域的政策移植必须清醒认识到其基础设施锁定的结构性制约。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 256–257)]]
+> **通用目的技术的跨领域渗透性拓宽了前竞争合作空间，而基础设施锁定与同质产出则限制了研发联合体模式向非 GPT 领域的制度迁移** 洛加尔等人（[[Argument_Logar_2014_Minerva|Logar et al., 2014]]）通过半导体与能源技术的深度对比指出，技术范式是否具备通用目的技术（GPT）属性深刻决定了其[[Precompetitive Research|前竞争研发]]合作的制度可行性。半导体作为典型的 GPT，底层芯片突破能够广泛发散地赋能计算机、通信、汽车等众多高溢价差[[Alienation|异化]]终端，因而具有极其宽广的“前竞争”合作空间——竞争企业能够轻易就底层物理机理与共性制造工艺结成研发联合体（如[[Semiconductor Research Corporation|半导体研究公司]]，SRC）；相反，光伏与电网等能源技术的最终输出物是完全同质的电能，且面临积累资产长达 40 年的庞大电网基础设施锁定，前竞争阶段与商业应用高度重叠，私营企业缺乏联合出资进行共性基础探索的经济动力。这表明，半导体这一 GPT 领域的产学联合创新经验具有严格的技术经济边界，向非 GPT 领域的政策移植必须清醒认识到其基础设施锁定的结构性制约。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 256–257)]]
 
 ---
 

@@ -7,7 +7,7 @@ aliases:
 summary: "指统计度量通过人为创设统一分类法、刻度与公分母，在异质社会事物间建立起可相互通约的均质度量空间；在跨国教育治理中以统计信度置换情境构念效度并悬置教育本体论，成为超国家远处掌舵的技术工具。"
 type: concept
 domain: "research-methodology"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Social Imaginary]]"
   - "[[Construct]]"
   - "[[Champ]]"
+  - "[[Alienation]]"
   - "[[Governing by Numbers]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -95,7 +96,7 @@ updated: 2026-11-14
 > [!boundary]- 概念边界
 > - 不等于 [[Commensuration]] — 通约强调将质的差异转化为量的度量过程与认知转化机制；等值空间强调该通约过程赖以成立并制度化维系的标准化度量[[Champ|场域]]与公分母空间。
 > - 不等于客观物理同质性 — 等值空间是由统计专家联盟、标准化[[Questionnaire|问卷]]与数学模型共同维系的制度建构产物，不同于事物在本体论意义上的自然同一性。
-> - 不适用于教育本体论质性阐释 — 该概念揭示了度量建构的政治性，但其度量框架本身无法包容根植于特定文化历史背景中的差异化教育追求。
+> - 不适用于教育本体论质性阐释 — 该概念揭示了度量建构的政治性，但其度量框架本身无法包容根植于特定文化历史背景中的差[[Alienation|异化]]教育追求。
 
 ---
 

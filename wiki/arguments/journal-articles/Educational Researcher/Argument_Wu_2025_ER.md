@@ -51,6 +51,7 @@ related_concepts:
   - "[[Scale of Measurement]]"
   - "[[Constructivist Paradigm]]"
   - "[[Academic Help-Seeking]]"
+  - "[[Alienation]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Feedback]]"
   - "[[Presence]]"
@@ -85,14 +86,14 @@ sources:
 part_of:
 status: active
 created: 2026-09-22
-updated: 2026-10-29
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Wu_2025_ER"
 argument_key: "Argument_Wu_2025_ER"
 argument_display_title: "Strengthening human epistemic agency in the symbiotic learning partnership with generative artificial intelligence"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 55
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -263,7 +264,7 @@ issuing_organization: ""
 
 > [!sub-claim] 1. 修订蔡今中网络学习第二假说：缺乏反思机制的频繁交互容易固化绝对论盲从
 
-蔡今中（Tsai, 2004）在探讨网络教学时提出的第二假说认为：学习者在网络环境中的长期探索与信息碰撞，会反向重塑其认识论信念，促进其向[[Constructivist Paradigm|建构主义]]与高阶认识论演进。然而，在生成式人工智能环境下，这种演进具有严格的条件依赖性。虽然生成式 AI 的拟人化与去评价威胁特征为学习者提供了低心理门槛的[[Academic Help-Seeking|学业求助]]（Academic Help-Seeking）环境，消解了因害怕暴露愚蠢而不敢提问的求助恐惧；但若缺乏显性反思引导，单纯的频繁交互极易异化为机械依赖。
+蔡今中（Tsai, 2004）在探讨网络教学时提出的第二假说认为：学习者在网络环境中的长期探索与信息碰撞，会反向重塑其认识论信念，促进其向[[Constructivist Paradigm|建构主义]]与高阶认识论演进。然而，在生成式人工智能环境下，这种演进具有严格的条件依赖性。虽然生成式 AI 的拟人化与去评价威胁特征为学习者提供了低心理门槛的[[Academic Help-Seeking|学业求助]]（Academic Help-Seeking）环境，消解了因害怕暴露愚蠢而不敢提问的求助恐惧；但若缺乏显性反思引导，单纯的频繁交互极易[[Alienation|异化]]为机械依赖。
 
 > [!critique-method] 认识立场演进的条件依赖机制
 > - **算法依赖与认识怠惰** 由于大模型能够源源不断地提供格式工整的现成答案，缺乏元认知监控的学生会逐渐形成提问后直接复制的习惯性依赖，进一步强化凡事皆有标准答案且机器知晓一切的绝对论信念。

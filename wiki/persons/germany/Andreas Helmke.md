@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Academic Achievement]]"
   - "[[Feedback]]"
+  - "[[Alienation]]"
   - "[[Individualised Instruction]]"
 related_theories: []
 related_methods:
@@ -37,7 +38,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 > [!person-profile] 人物档案
@@ -57,5 +58,5 @@ updated: 2026-10-22
 > - Helmke, A. (2012). *Unterrichtsqualität und Lehrerprofessionalität*. Klett/Kallmeyer. 丹麦语译本：*Undervisningskvalitet og lærerprofessionalitet*. Dafolo (2013). — 德语[[Effective Teaching\|有效教学]]综合的丹麦译本之一，系统讨论教学质量与教师专业性([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.34–35, p.40]])。
 
 > [!warning] 争议与批评
-> - Helmke 支持教学差异化，但承认关于教学差异化是否提升学生学习的经验证据并不充分；这一点与丹麦 [[Science Foundation Ireland|SFI]] 报告中"教学差异化似乎没有显著效果"的结果相互呼应。相关概念见 [[Individualised Instruction]]([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.38]])。
+> - Helmke 支持教学差[[Alienation|异化]]，但承认关于教学差异化是否提升学生学习的经验证据并不充分；这一点与丹麦 [[Science Foundation Ireland|SFI]] 报告中"教学差异化似乎没有显著效果"的结果相互呼应。相关概念见 [[Individualised Instruction]]([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.38]])。
 > - Helmke 关于亚洲表现取向的解释提醒研究者，不应把高成绩直接归因于威权教学风格。观察到亚洲学生成绩高、亚洲课堂较封闭，并不能推出封闭教学就是高成绩的原因([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.39–40]])。

@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: canada
 person_region: "canada"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Transnational Education]]"
   - "[[Shadow State]]"
+  - "[[Alienation]]"
   - "[[Geopolitics]]"
   - "[[Educational Meliorism]]"
   - "[[Country Ownership]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -89,7 +90,7 @@ updated: 2026-11-11
 >   - **阶段转向** 揭示出从战后教科文组织的福利人权取向，到[[World Bank|世界银行]]结构调整主导的规训取向的质的倒退。
 > - **2000s–至今 — 跨国公民社会网络与[[Global Partnership for Education|全球教育伙伴关系]]** 考察国际非政府组织与跨国倡导网络如何参与全球教育议程设置。
 >   - **代表著作** "Transnational advocacy networks and the world NGO movement" (2001, with L. Murphy); *Educating All Children: A Global Objective* (2008)。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 111, 118)]]
->   - **关键概念／理论** 跨国倡导网络、[[Shadow State|影子国家]]异化、公私伙伴治理。
+>   - **关键概念／理论** 跨国倡导网络、[[Shadow State|影子国家]][[Alienation|异化]]、公私伙伴治理。
 >   - **阶段转向** 既肯定跨国草根联盟对受教育权的倡导力量，又深刻警示民间组织作为国际承包商可能沦为“影子国家”的依附风险。
 
 ---

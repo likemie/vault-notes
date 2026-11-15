@@ -10,7 +10,7 @@ aliases:
 summary: "科研人员向学术领域贡献与传播知识单元的速率，通常以同行评审出版物数量度量；实证表明人均年均产出在百年尺度上保持约2篇的长期稳定，在个体层面呈现极度不均衡的对数正态长尾分布，且单纯生产力与长远学术影响存在实质性脱钩。"
 type: concept
 domain: "science-policy"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Early-Career Researchers]]"
   - "[[Evaluative Validity]]"
   - "[[Reflection Problem]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Lotka's Law]]"
   - "[[Random Walk Coauthorship Model]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -246,7 +247,7 @@ updated: 2026-11-11
 > | [[h-Index]] | 方法 | 综合发文生产力（篇数）与学术影响力（被引）的复合型学者个人评价指标。 |
 > | [[Q-Factor]] | 方法 | 从发文生产力波动中剥离个体稳态转化能力并预测长远学术荣誉的理论参数。 |
 > | [[Coauthorship Network]] | 概念 | 合作网络扩张是推动现代学者署名篇数上升与知识溢出赋能的重要组织载体。 |
-> | [[Salami Publishing]] | 概念 | 将完整研究成果人为碎化为最小可发表单元以虚假膨胀生产力指标的异化现象。 |
+> | [[Salami Publishing]] | 概念 | 将完整研究成果人为碎化为最小可发表单元以虚假膨胀生产力指标的[[Alienation\|异化]]现象。 |
 
 ---
 

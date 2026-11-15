@@ -8,7 +8,7 @@ aliases:
 summary: "由戴维·多洛维茨与戴维·马什系统建构的比较公共政策与政策科学分析框架，围绕转移主体、动机、客体、来源、程度与制约因素六大维度，解构知识、制度安排与治理工具跨越管辖边界的流动与本土重塑机制。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 37
+theory_related_count: 38
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Welfare-to-Work]]"
   - "[[Cumulative Innovation]]"
+  - "[[Alienation]]"
   - "[[Policy Conditionalities]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Hard Policy Transfer]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-19
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -126,7 +127,7 @@ updated: 2026-11-11
 ---
 
 > [!theory-proposition] 命题三｜转移主体在政策搜寻与借用网络中呈现多层级结构分工与功能互补
-> 多洛维茨与马什归纳的九类转移主体在政策过程中展现出差异化的资源依赖与功能分工：当选政客与政党负责确立意识形态方向并提供政治授权；科层官僚与专业公务员主导日常的跨国方案调查、筛选与技术论证；智库、顾问与政策专家提供具体的操作方案与评价工具；而超国家与跨国组织（如 [[OECD]]、[[World Bank]]、[[International Monetary Fund|IMF]]）则依托多边网络、[[Policy Conditionalities|贷款附加条件]]与指标对标，充当跨国转移的催化中枢或强制施加者。后续研究证实，在[[Evidence-Based Policy-Making|循证决策]]规程下，面临证据紧迫性的官僚行动者往往绕过宏观国际组织，直接与拥有成熟实验数据的外国专业智库结盟，推动政策与评估规程的跨国[[Hard Policy Transfer|硬转移]]。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 332, 342–343)]]
+> 多洛维茨与马什归纳的九类转移主体在政策过程中展现出差[[Alienation|异化]]的资源依赖与功能分工：当选政客与政党负责确立意识形态方向并提供政治授权；科层官僚与专业公务员主导日常的跨国方案调查、筛选与技术论证；智库、顾问与政策专家提供具体的操作方案与评价工具；而超国家与跨国组织（如 [[OECD]]、[[World Bank]]、[[International Monetary Fund|IMF]]）则依托多边网络、[[Policy Conditionalities|贷款附加条件]]与指标对标，充当跨国转移的催化中枢或强制施加者。后续研究证实，在[[Evidence-Based Policy-Making|循证决策]]规程下，面临证据紧迫性的官僚行动者往往绕过宏观国际组织，直接与拥有成熟实验数据的外国专业智库结盟，推动政策与评估规程的跨国[[Hard Policy Transfer|硬转移]]。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 332, 342–343)]]
 
 > [!example|notitle]
 > 英国新工党推行新政福利改革时，内阁大臣（当选官员）确立了工作优先的政治方向并要求拿出实证证据；财政部与就业与养老金部的高级公务员（官僚主体）主导了对美、瑞、新、澳四国的实证比较搜寻；最终跨国委托美国专业智库 MDRC（第三方专业机构）全权负责英国就业保留与晋升示范项目的实验分组与现场审计。

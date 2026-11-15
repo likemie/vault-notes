@@ -5,7 +5,7 @@ aliases:
 summary: "指将自由市场机制与经济效率上升为解释并裁决人类一切社会生活、制度安排与道德伦理的最高自明法则；在跨国教育政策中，将教育公平窄化为形式上的学校准入，将性别平权简化为盘活女性劳动力的减贫工具，将社会资本残余化为社会维稳手段，抽空了实质社会正义的批判核心。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Total Factor Productivity]]"
   - "[[Recontextualization]]"
   - "[[Variable]]"
+  - "[[Alienation]]"
   - "[[Lifelong Learning]]"
   - "[[Competitiveness]]"
 related_theories:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -140,7 +141,7 @@ updated: 2026-11-11
 > **社会资本残余化维度** 本类命题揭示社会资本概念在跨国政策中如何沦为新自由主义市场秩序的“安全垫”，以及将系统性失业问题个体内向化的机制。
 
 > [!claim] Thomson, P.
-> **政策吸纳社会资本的三重功利冲动** 帕特·汤姆森（Pat Thomson, 1999）指出，政策话语之所以对罗伯特·普特南（Robert Putnam, 2000）式的社会资本产生狂热兴趣，主要源于三种实用冲动：对新自由主义极端个人主义瓦解国家凝聚力之弊病的对冲、维系市场运转所必需的基本信任与秩序维持、以及防范公民对经济繁荣产生异化感。
+> **政策吸纳社会资本的三重功利冲动** 帕特·汤姆森（Pat Thomson, 1999）指出，政策话语之所以对罗伯特·普特南（Robert Putnam, 2000）式的社会资本产生狂热兴趣，主要源于三种实用冲动：对新自由主义极端个人主义瓦解国家凝聚力之弊病的对冲、维系市场运转所必需的基本信任与秩序维持、以及防范公民对经济繁荣产生[[Alienation|异化]]感。
 
 > [!claim] Rizvi, F. & Lingard, B.
 > **社会排斥的个体技能归因谬误** 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）批判经合组织将社会资本工具化为管理边缘人口与防范社会排斥波及经济增长的“残余性维稳手段”；在这种视角下，失业与边缘化被歪曲归咎于处于弱势的个体“未能掌握知识经济所需的灵活技能与积极态度”，从而免除了对宏观经济结构与资本积累机制的制度性追责。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 450)]]

@@ -13,7 +13,7 @@ subtype: policy
 region: "netherlands"
 fact_region: "netherlands"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Paradigm]]"
   - "[[Network Governance]]"
+  - "[[Alienation]]"
   - "[[Document]]"
 related_theories: []
 related_methods: []
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -99,7 +100,7 @@ updated: 2026-10-30
 
 > [!debates] 政策争议焦点
 >
-> > [!axis] 对话式协商是否会异化为隐性行政强制
+> > [!axis] 对话式协商是否会[[Alienation|异化]]为隐性行政强制
 > > - **批评学者** 质疑在教育部掌握总额财政大权的前提下，所谓的“双向对话”在实质上并不对等；教育部依然可能通过在 HOOP 中设置强烈的政策偏好，隐性迫使大学修改自身的机构规划。
 > > - **基克特与规划团队（[[Argument_Kickert_1995_Governance|Kickert, 1995]]）** 强调 HOOP 在法律上不具备强制指令效力，其实质是提供透明的信息共享与预期对齐平台；在实践中大学成功多次抵制了部委的单向设想，证明了对话协商的真实有效性。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 146, 154)]]
 

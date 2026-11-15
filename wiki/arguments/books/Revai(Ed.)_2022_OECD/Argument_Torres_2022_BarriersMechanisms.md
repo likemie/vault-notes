@@ -7,7 +7,7 @@ title: "Argument_Torres_2022_BarriersMechanisms"
 argument_key: "Argument_Torres_2022_BarriersMechanisms"
 argument_display_title: "Facilitating research use: Scary barriers (and super mechanisms)"
 argument_kind: "book-chapter"
-argument_related_count: 57
+argument_related_count: 58
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -57,6 +57,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Academic Freedom]]"
   - "[[Co-Design]]"
+  - "[[Alienation]]"
   - "[[Evaluator Independence]]"
   - "[[Self-report Bias]]"
 related_theories:
@@ -99,7 +100,7 @@ related_persons:
   - "[[José Manuel Torres]]"
 status: draft
 created: 2026-09-13
-updated: 2026-10-29
+updated: 2026-11-15
 ---
 ---
 
@@ -412,7 +413,7 @@ updated: 2026-10-29
 
 > [!sub-claim] 2. 国家专项资助、双重评审准则与贯通式战略构建协同动力学生态
 
-挪威、荷兰与威尔士在全系统战略统筹方面走在国际前列，为破除科研孤岛提供了差异化的制度解法。（pp. 115–117）
+挪威、荷兰与威尔士在全系统战略统筹方面走在国际前列，为破除科研孤岛提供了差[[Alienation|异化]]的制度解法。（pp. 115–117）
 
 > [!case] 专栏 5.3 挪威教育部门研究与创新计划（FINNUT）的十年统筹实践
 > - **计划属性与跨学段覆盖** 挪威教育部门研究与创新计划（FINNUT）是挪威研究理事会（Research Council of Norway, RCN）于 2014 至 2023 年统筹实施的为期十年的国家级长期研发专项；覆盖从早期儿童教育与保育（Early Childhood Education and Care, ECEC）直至成人教育的全学段，设立四大核心资助支柱：教学与学习、专业教育与实践、管理领导与组织治理、教育与劳动力市场。（p. 115）

@@ -7,14 +7,14 @@ aliases:
 summary: "支配群体将其文化视角合法化为社会正统标准，将边缘或少数群体文化降至从属地位的符号支配与教育再生产机制"
 type: concept
 domain: "sociology-of-education"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 confidence: high
 status: active
 created: '2026-07-23'
-updated: 2026-11-03
+updated: 2026-11-15
 tags:
   - cultural-hierarchy
   - official-knowledge
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Value Neutrality]]"
   - "[[Cultural Disembedding]]"
+  - "[[Alienation]]"
   - "[[Reflexivity]]"
 related_theories:
   - "[[Hegemony]]"
@@ -134,7 +135,7 @@ related_arguments:
 > > 围绕课程是否应当建立统一的文化核心（如[[Zhonghua Minzu\|中华民族]]共同体意识）还是保持多元平等的文化认可展开辩论。
 > >
 > > - **官方同化整合视角** — 认为确立共享的汉儒文化核心有助于促进“[[Zhonghua Minzu\|中华民族]]”一体化与国家凝聚力。
-> > - **批判性多元文化视角 ([[Argument_Yu_2024_CE\|Yu & Zhao, 2024]])** — 指出强行推行单向度的文化等级不仅未能实现真正凝聚，反而在少数民族学生中造成严重的[[Cultural Disembedding\|文化脱嵌]]与异化疏离[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
+> > - **批判性多元文化视角 ([[Argument_Yu_2024_CE\|Yu & Zhao, 2024]])** — 指出强行推行单向度的文化等级不仅未能实现真正凝聚，反而在少数民族学生中造成严重的[[Cultural Disembedding\|文化脱嵌]]与[[Alienation|异化]]疏离[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
 
 > [!critique] 外部批评
 > - **对边缘群体反思能动性的低估** — [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 的实证访谈显示，文化边缘群体（少数民族与信教学生）展现出强烈的跨文化[[Reflexivity\|反思性]]，主动将儒家降格为多元文化中的一种[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 68)]]。

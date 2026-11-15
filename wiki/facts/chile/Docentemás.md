@@ -11,7 +11,7 @@ subtype: program
 region: "chile"
 fact_region: "chile"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Reliability]]"
   - "[[Reflexivity]]"
+  - "[[Alienation]]"
   - "[[Performativity]]"
   - "[[Test-Based Accountability]]"
   - "[[Institutional Layering]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-11-10
+updated: 2026-11-15
 ---
 
 ---
@@ -119,7 +120,7 @@ updated: 2026-11-10
 > > 围绕 Docentemás 是促进教师反思还是强化行政驯化，学术界与教师群体存在深层分歧。
 > >
 > > - **官方倡导阵营** 主张该系统基于《优良[[Framework for Teaching|教学框架]]》，通过同行评议与[[Reflexivity|反思性]]档案袋摆脱了唯学生测验分数的机械归因，能够精准诊断专业发展需求。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
-> > - **基层批判阵营** 批评档案袋与录像制作耗费大量备课精力，催生了大量校外有偿代做代写黑产，使真实教学实践异化为[[Performativity|表演性]]合规材料。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 259, 260)]]
+> > - **基层批判阵营** 批评档案袋与录像制作耗费大量备课精力，催生了大量校外有偿代做代写黑产，使真实教学实践[[Alienation|异化]]为[[Performativity|表演性]]合规材料。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 259, 260)]]
 
 ---
 

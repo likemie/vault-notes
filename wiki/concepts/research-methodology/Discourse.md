@@ -10,7 +10,7 @@ alias_reviewed:
 summary: "通过情境化文本、谈话与制度实践建构知识、主体性与权力关系的意义体系；在微观层面指向文本性七标准与课堂互动中微观秩序与权力的协商，在宏观层面指向跨国流动空间中去情境化的普遍主义政策话语、过度简化转译与外围本土的再情境化形变。"
 type: concept
 domain: "research-methodology"
-related_count: 82
+related_count: 85
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -37,11 +37,13 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[Recontextualization]]"
   - "[[Habitus]]"
+  - "[[Alienation]]"
   - "[[Knowledge Power]]"
   - "[[South-South Cooperation]]"
   - "[[Community of Shared Future for Mankind]]"
   - "[[Cosmopolitanism]]"
   - "[[Smart Buys]]"
+  - "[[Soft Power]]"
   - "[[Reflexivity]]"
   - "[[Policy Mobility]]"
   - "[[Knowledge Framework]]"
@@ -84,12 +86,12 @@ related_persons:
   - "[[Manuel Castells]]"
   - "[[Carol Bacchi]]"
 related_facts:
+  - "[[Belt and Road Initiative]]"
   - "[[World Bank]]"
   - "[[OECD]]"
   - "[[UNESCO]]"
   - "[[European Education Area]]"
   - "[[European Commission]]"
-  - "[[Belt and Road Initiative]]"
   - "[[Forum on China-Africa Cooperation]]"
   - "[[Belt and Road Education Action Plan]]"
   - "[[EU]]"
@@ -101,6 +103,7 @@ related_arguments:
   - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Beech_2009_CE]]"
   - "[[Argument_Campbell_2026_JPCC]]"
+  - "[[Argument_He_2018_HEP]]"
   - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
   - "[[Argument_Haubrock_2026_NHB]]"
   - "[[Argument_Larsen_2019_EducSci]]"
@@ -112,7 +115,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-13
+updated: 2026-11-15
 ---
 
 ---
@@ -179,10 +182,10 @@ updated: 2026-11-13
 > - **[[Floating Signifier|漂浮能指]]性（Floating Signifier）** 政策话语（如“能力本位”、“[[School Autonomy|学校自主权]]”、“尊重多样性”）被故意剥离具体的历史脉络与实体定义，演化为语义空虚的高包容性符号容器，使立场迥异的利益主体能够达成表面共识。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 353–355)]]
 > - **去情境化普遍主义（Decontextualized Universalism）** 国际多边机构将源自欧美特定经济体的组织管理模式包装为不依存于特定时空的全球公理，并以“信息时代的[[Educated Identity|受教育身份]]”为由推向全球南方。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
 > - **跨位置流通的过度简化（Oversimplification across Positions）** 国际机构受紧迫[[Pragmatic Paradigm|实用主义]]驱动，将原本充满学术争论的复杂理论删剪为便于技术操作与借贷捆绑的五大支柱标准化模型，并在输出外围国家时依托本土跨界[[Gatekeepers|守门人]]实现垄断。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 350–353)]]
-> - **微观实践的[[Recontextualization|再情境化]][[Shape-Shifting|形变]]（Recontextualisation Deformation）** 抽象政策话语降落至缺乏物质资源与制度配套的基层学校时，必然遭遇本土历史[[Habitus|惯习]]的抵抗，最终演化为与改革初衷背道而驰的意外后果（如将“尊重多样性”异化为对贫困的被动容忍）。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 359–361)]]
+> - **微观实践的[[Recontextualization|再情境化]][[Shape-Shifting|形变]]（Recontextualisation Deformation）** 抽象政策话语降落至缺乏物质资源与制度配套的基层学校时，必然遭遇本土历史[[Habitus|惯习]]的抵抗，最终演化为与改革初衷背道而驰的意外后果（如将“尊重多样性”[[Alienation|异化]]为对贫困的被动容忍）。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 359–361)]]
 > - **地缘[[Knowledge Power|知识权力]]中的规范性话语建构（Discursive Power in Transnational Knowledge Governance）** 新兴大国在重构跨国教育与科研合作网络时，依托多边大学联盟、智库对话与联合平台输出以“[[South-South Cooperation|南南合作]]”、“[[Community of Shared Future for Mankind|命运共同体]]”与“非对齐互惠”为核心的规范性话语，对冲西方[[Cosmopolitanism|普世主义]]叙事，为新型多边知识秩序确立正当性基础与议程主导权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1700–1701, 1703–1705)]]
 > - **修辞隐喻的话语规训与认知层级建构（Rhetorical Metaphors & Discursive Framing）** 国际多边机构借助“爵士乐队”、“[[Smart Buys|智能购买]]”等修辞隐喻建构政策话语网络，将跨国量化综合证据确立为优先认知层级，并通过责任个体化叙事将政策执行受阻归咎于公职人员个人素养短板，完成[[Governing at a Distance|远处治理]]与话语规训。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 341, 346–348)]]
-> - **官方大战略话语的策略性借用与资源置换（Strategic Discourse Appropriation）** 微观机构行动者（如大学境外分校管理层）敏锐地借用服务国家软实力辐射与配合一带一路建设等官方宏大话语符号，将自身的市场扩张与创收诉求包装为国家战略实体工程，借此撬动国内教育主管部门的行政办学许可与专项财政经费扶持，实现微观利益同宏观话语的工具性契合。[[Argument_He_2018_HEP|(He & Wilkins, 2018, pp. 330, 334–335)]]
+> - **官方大战略话语的策略性借用与资源置换（Strategic Discourse Appropriation）** 微观机构行动者（如大学境外分校管理层）敏锐地借用服务国家[[Soft Power|软实力]]辐射与配合[[Belt and Road Initiative|一带一路]]建设等官方宏大话语符号，将自身的市场扩张与创收诉求包装为国家战略实体工程，借此撬动国内教育主管部门的行政办学许可与专项财政经费扶持，实现微观利益同宏观话语的工具性契合。[[Argument_He_2018_HEP|(He & Wilkins, 2018, pp. 330, 334–335)]]
 
 ---
 

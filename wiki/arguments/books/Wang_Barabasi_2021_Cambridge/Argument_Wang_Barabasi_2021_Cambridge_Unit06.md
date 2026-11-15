@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit06"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit06"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Concierge Service]]"
   - "[[Heterogeneity]]"
   - "[[Clinical Trial]]"
+  - "[[Alienation]]"
   - "[[Guest Authorship]]"
   - "[[Ghost Authorship]]"
   - "[[Big Science]]"
@@ -82,7 +83,7 @@ sources:
 part_of: "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 status: active
 created: "2026-10-30"
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -230,7 +231,7 @@ updated: 2026-11-11
 > | **粒子物理与场论** | 57.4% | 主导地位；超大型对撞机数千人团队均按字母排序 |
 > | **理论数学** | 72.8% | 绝对主导；坚守智力研讨成果不可分割的学科哲学 |
 
-> [!warning] 专栏 13.2｜荣誉挂名与隐形贡献的学术伦理异化
+> [!warning] 专栏 13.2｜荣誉挂名与隐形贡献的学术伦理[[Alienation|异化]]
 > 团队规模膨胀带来了显著的学术伦理问题（Box 13.2, p. 143）：
 > - **荣誉挂名（[[Guest Authorship]]）的泛滥** 对自然科学与社会科学 2,300 位首位署名学者的调查表明，33% 的学术成果包含未达到署名标准的荣誉挂名人员；这一比例随团队规模激增，由 3 人团队的 9% 上升至 6 人以上团队的 30%，最核心的动机是协助合作学者通过聘任考核（p. 143）。
 > - **隐形贡献（[[Ghost Authorship]]）的剥夺** 超过半数的学术成果存在付出实质智力或实验劳动却未被列入署名名单的隐形贡献者；在科学史中，波义耳（Robert Boyle）等早期科学家将实验助手从成果发表中抹去（p. 143）。在现代科研中，承担繁重实验与编程工作的研究生和博士后成为最主要的受害者（p. 143）。

@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 185
+fact_related_count: 186
 fact_related_level: 18
 fact_related_stars: "💎💎💎💎💎💎"
 fact_related_color: "#fecdd3"
@@ -94,6 +94,7 @@ related_concepts:
   - "[[Global Educational Discourse]]"
   - "[[Metacognition]]"
   - "[[Epistemology]]"
+  - "[[Alienation]]"
   - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Learning by Doing]]"
   - "[[Total Quality Management]]"
@@ -222,7 +223,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -393,7 +394,7 @@ updated: 2026-11-11
 > >
 > > - **复合体知识武器化与排他壁垒（批判政治经济学）** 批判研究指出，经合组织与[[World Bank\|世界银行]]、[[UNESCO\|联合国教科文组织]]等构成了“[[Global Education Governing Complex\|全球教育治理复合体]]”，将可量化、可比较且可标准化的知识武器化，用以向主权政府施加远处问责。尽管各机构高调宣称多边协同（如参与设立 [[Building Evidence in Education\|BE2]] 智库联盟），但实践中极力防范自身专属利基被侵蚀；例如当联合国教科文组织与世界银行共同倡议“[[Learning Data Compact\|学习数据协定]]”（Learning Data Compact）试图建立统一框架时，经合组织拒绝签署加入，转而独立与德国开发署合作推广 [[PISA for Development\|PISA-D]]（PISA for Development），在多边合作修辞下深层延续了排他性利益争夺与地盘割据。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 539, 549–550)]]
 >
-> > [!axis] 比较教育学科[[Epistemology|认识论]]侵蚀与咨询[[Paradigm|范式]]异化
+> > [!axis] 比较教育学科[[Epistemology|认识论]]侵蚀与咨询[[Paradigm|范式]][[Alienation|异化]]
 > > 探讨经合组织指标治理对传统比较教育学科自主性、认识论深度与政策咨询伦理的深层冲击。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 95–96, 98–99)]]
 > >
 > > - **学科史批判视角（[[Argument_Mitter_2009_Europe|Mitter, 2009]]）** 欧洲比较教育学科史学者指出，经合组织主导的经济导向政策与大规模量化测评，瓦解了比较教育自战后确立的“[[Navigation Metaphor in Comparative Education\|航海隐喻]]”传统。经合组织将比较研究从呈现多元历史情境与制度备选方案的审慎中介，异化为直接绑定政府拨款与硬性问责的技术工具；这种由超国家官僚机构直接设定研究目标与评价指标的机制，不仅削弱了大学比较学者的独立探究自主权，更以去语境化的浅层排名掩盖了教育制度与本土文化土壤之间的深层生态共生关系。

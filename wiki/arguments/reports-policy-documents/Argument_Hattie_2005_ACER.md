@@ -7,7 +7,7 @@ title: "Argument_Hattie_2005_ACER"
 argument_key: "Argument_Hattie_2005_ACER"
 argument_display_title: "What is the nature of evidence that makes a difference to learning? In Using data to support learning: Proceedings of the ACER Research Conference 2005 (pp. 11–21)"
 argument_kind: "conference-paper"
-argument_related_count: 46
+argument_related_count: 47
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#e5e7eb"
@@ -24,7 +24,7 @@ citation_aliases:
 isbn: ""
 status: active
 created: 2026-09-16
-updated: 2026-11-11
+updated: 2026-11-15
 tags:
   - theme/accountability
   - theme/formative-assessment
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Homework]]"
   - "[[Socioeconomic Status]]"
+  - "[[Alienation]]"
   - "[[Epistemology]]"
   - "[[Grade Retention]]"
   - "[[Cultural Capital]]"
@@ -163,7 +164,7 @@ sources:
 
 ---
 
-> [!claim|step] 论证步骤一　揭露学校数据过载虚妄与自上而下惩罚性问责的系统异化
+> [!claim|step] 论证步骤一　揭露学校数据过载虚妄与自上而下惩罚性问责的系统[[Alienation|异化]]
 > 全球教育行政部门普遍陷入“数据丰富而信息贫乏”的技术主义陷阱；建立在“体温计牵引理论”之上的自上而下惩罚性问责非但无法提升教育质量，反而诱发严重的应试作弊与课程窄化，必须彻底转变数据治理的提问方式。（pp. 11–13）
 
 > [!sub-claim] 1. 数据堆砌的[[Epistemology|认识论]]谬误与行政提问偏差

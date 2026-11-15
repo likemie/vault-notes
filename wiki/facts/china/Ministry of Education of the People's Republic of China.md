@@ -12,7 +12,7 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Quality Education]]"
   - "[[International Education]]"
   - "[[School Inspection]]"
+  - "[[Alienation]]"
   - "[[Study Abroad]]"
   - "[[Grandes Ecoles]]"
   - "[[International Branch Campus]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-26
-updated: 2026-11-10
+updated: 2026-11-15
 ---
 
 ---
@@ -127,7 +128,7 @@ updated: 2026-11-10
 > [!pathways] 业务运行机制
 > - **战略规划与标准制定** 牵头编制教育事业发展五年规划纲要，研制国家本科专业类教学质量国家标准、义务教育课程方案与各学科学业质量标准。
 > - **行政特许与质量评估准入** 负责高等学校的设立、分立、合并与撤销审批；严格实施中外合作办学机构与项目的资格审查、专家实地核查与定期合格评估，建立涉外办学信息监管平台。[[Argument_Qu_2024_IJED|(Qu & Dai, 2024, pp. 2, 7)]]
-> - **重大工程动态管理与差异化资源倾斜** 实施“双一流”建设动态调整与绩效评价，避免身份固化；设立国家专项支持中西部高等教育振兴与乡村教师专业发展。
+> - **重大工程动态管理与差[[Alienation|异化]]资源倾斜** 实施“双一流”建设动态调整与绩效评价，避免身份固化；设立国家专项支持中西部高等教育振兴与乡村教师专业发展。
 
 ---
 

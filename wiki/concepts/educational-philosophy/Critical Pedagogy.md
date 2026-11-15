@@ -7,7 +7,7 @@ aliases:
 summary: "一种将课程与教学视为文化政治斗争场域的批判教育哲学，主张以学生的活经验为起点，通过对话式提问、批判意识觉醒与可能性的语言，解构传统储蓄式教育与当代数智异化中的权力压迫，旨在培育具有自主性与社会解放潜能的批判求知者。"
 type: concept
 domain: "educational-philosophy"
-related_count: 60
+related_count: 61
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Externalization]]"
   - "[[Man-Computer Symbiosis]]"
+  - "[[Alienation]]"
   - "[[Geopolitics]]"
   - "[[International Education]]"
   - "[[Structural Adjustment Programs]]"
@@ -87,7 +88,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -182,7 +183,7 @@ updated: 2026-11-14
 ---
 
 > [!concept-proposition] 命题三｜[[Generative Artificial Intelligence|生成式人工智能]]潜藏着数字储蓄式教育风险，必须通过确立[[Alien Intelligence|异己智能]]视角与思维全外显重构批判教学防线
-> **[[Man-Computer Symbiosis|人机共生]]异化与数字时代解放维度** 该命题将批判教育学的核心命题延伸至人工智能时代，揭示算法全盘代劳与技术崇拜背后的新型被动受教风险，重构技术环境下的反思防御规程。
+> **[[Man-Computer Symbiosis|人机共生]][[Alienation|异化]]与数字时代解放维度** 该命题将批判教育学的核心命题延伸至人工智能时代，揭示算法全盘代劳与技术崇拜背后的新型被动受教风险，重构技术环境下的反思防御规程。
 
 > [!claim] Smith, S. J.
 > **破除算法共情迷思并以[[Alien Intelligence|异己智能]]重塑批判对话客体** 当教育界将生成式 AI 视作中性计算器或共情导师时，实际上是在构建一种更隐蔽的数字储蓄式教育：学生向算法快速索取现成文字与结论，将构思、提纲与修改等核心思维环节全盘外包，陷入严重的[[Cognitive Deskilling|认知去技能化]]并承受成长性认识侵害。继承弗莱雷的批判教育学精神，教师必须坚决打破对大模型的拟人化崇拜，将其准确定位为缺乏人类生活经验与伦理关怀的异己智能（Alien Intelligence）；通过在课堂中推行思维步骤全透明外显（Showing Steps），迫使学生对 AI 输出开展反向修辞审问，将技术从代劳主体的私厨转变为接受批判性检验的靶子，捍卫学生在算法环境中的[[Epistemic Agency|认识主体性]]。[[Argument_Smith_2026_SPE\|(Smith, 2026, pp. 10–11)]]

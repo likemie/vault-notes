@@ -10,10 +10,10 @@ aliases:
 summary: "以学生标准化考试成绩评估、监督和规制学校与教师教学实践的制度安排，核心在于将评价结果制度化地与奖惩考核挂钩，是全球教育治理中的显著特征之一"
 type: concept
 domain: "educational-policy-reform"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - theme/accountability
   - theme/examination
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Global Education Reform Movement]]"
   - "[[New Public Management]]"
+  - "[[Alienation]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Decodification]]"
   - "[[Rote Learning]]"
@@ -88,7 +89,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -195,7 +196,7 @@ updated: 2026-11-11
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **课程窄化与异化** | 高利害问责导致教学窄化、表演性文化、防御性博弈造假并筛选可用于决策的证据类型 | 强管制、单指标高利害评价场景 | Ball (2003); Schweisfurth (2013); [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]]; Katz and Dack (2013); [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]] |
+> | **课程窄化与[[Alienation\|异化]]** | 高利害问责导致教学窄化、表演性文化、防御性博弈造假并筛选可用于决策的证据类型 | 强管制、单指标高利害评价场景 | Ball (2003); Schweisfurth (2013); [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]]; Katz and Dack (2013); [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]] |
 > | **情境化并行与改造** | 建立共享目标可驱动问责与改革协同 | 考试转向[[Higher-Order Thinking Skills\|高阶思维]]考核或学校重构规则场景 | Boardman and Woodruff (2004); Solomon and Lewin (2016); [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] |
 > | **全球中观嵌入** | 国际比较评估推动国家层面问责建制 | 全球教育治理与 GERM 扩散场景 | [[Argument_Li_2025_HSSC\|Li et al. (2025)]] |
 > | **行政传统体制性分化** | 问责制演进深度受制于新公共管理、新韦伯主义与拿破仑等行政传统 | 跨国比较治理与制度变迁分析场景 | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] |

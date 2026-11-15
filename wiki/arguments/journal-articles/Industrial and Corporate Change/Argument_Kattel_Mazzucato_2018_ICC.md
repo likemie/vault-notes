@@ -35,6 +35,7 @@ related_concepts:
   - "[[Tilting the Playing Field]]"
   - "[[Patient Capital]]"
   - "[[Demand-side Innovation Policy]]"
+  - "[[Alienation]]"
   - "[[Distributed Agency]]"
   - "[[Agile Governance]]"
   - "[[Embedded Autonomy]]"
@@ -67,6 +68,7 @@ related_instruments: []
 related_persons:
   - "[[Joseph Schumpeter]]"
   - "[[Friedrich Nietzsche]]"
+  - "[[Charles Hirschman]]"
   - "[[Chalmers Johnson]]"
   - "[[Richard Nelson]]"
   - "[[Alvin Weinberg]]"
@@ -93,14 +95,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kattel_Mazzucato_2018_ICC"
 argument_key: "Argument_Kattel_Mazzucato_2018_ICC"
 argument_display_title: "Mission-oriented innovation policy and dynamic capabilities in the public sector"
 argument_kind: "journal-article"
-argument_related_count: 63
+argument_related_count: 65
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -133,7 +135,7 @@ issuing_organization: ""
 > | **[[Directionality of Innovation\|创新的方向性]]**<br>[[Directionality of Innovation]] | 超越单纯衡量国内生产总值（Gross Domestic Product, GDP）与专利增速的速率观，确立国家通过战略引导推动技术演进朝向绿色与包容转型的规范价值取向。 |
 > | **[[Evolutionary Economics\|演化经济学]]**<br>[[Evolutionary Economics]] | 引入非均衡演化、根本不确定性与企业搜索规则视角，论证公共政策如何通过改变搜寻前景开辟全新[[Technological Trajectories\|技术轨道]]并塑造新市场。 |
 > | **[[Ergas Taxonomy of Technology Policy\|埃尔加斯技术政策分类]]**<br>[[Ergas Taxonomy of Technology Policy]] | 区分激进突破的使命导向型与全产业渗透的扩散导向型技术政策传统，为三代使命演化与国家能力比较提供类型学参照。 |
-> | **[[Unbalanced Growth Theory\|非均衡增长理论]]**<br>[[Unbalanced Growth Theory]] | 借鉴阿伯特·赫希曼理论，论证通过国家使命制造战略性非均衡瓶颈以倒逼跨部门协同与激发前后向产业投资的动力机制。 |
+> | **[[Unbalanced Growth Theory\|非均衡增长理论]]**<br>[[Unbalanced Growth Theory]] | 借鉴阿伯特·[[Charles Hirschman\|赫希曼]]理论，论证通过国家使命制造战略性非均衡瓶颈以倒逼跨部门协同与激发前后向产业投资的动力机制。 |
 
 > [!warrant]- 理论如何支撑论证
 > 演化经济学打破了新古典完全竞争与一般均衡假设，证明未来创新在本质上充满根本不确定性，因而基于边际收益等于边际成本的事前静态计算完全无法指导战略方向（Arrow, 1962; Nelson & Winter, 1974）。通过将企业动态能力（感知、捕获与转化）与国家能力理论相结合，理论工具阐明了公共机构如何在社会政治反馈的选择环境中持续演化出适应战略使命的组织技能。
@@ -188,7 +190,7 @@ issuing_organization: ""
 > 随着政策议题日益涉及气候适应、清洁能源与老龄化照护等多领域交织，政府内部的行政机构反而容易退守部门利益壁垒，导致跨部门协同机制严重失效，宏观战略目标在日常行政规程中被边缘化。
 
 > [!tension-table] 现代政策协调困境与[[Complexity Paradox|复杂性悖论]]
-> | 制度维度 | 现实表现与异化机制 | 论证功能与理论推导 |
+> | 制度维度 | 现实表现与[[Alienation\|异化]]机制 | 论证功能与理论推导 |
 > |:---|:---|:---|
 > | **政策复杂性悖论** | 政策议题越是复杂交织（如气候适应与老龄化照护），行政机构越发退守部门壁垒，政策制定越发条块分割。 | 揭示现代政府跨部门政策协调失灵的组织根源。 |
 > | **结果争议性与协调边缘化** | 由于复杂公共政策的最终产出极易引发利益争议，导致跨部门协调在日常行政流程中被边缘化，宏大目标淹没于例行事务。 | 证明为何传统创新政策往往退化为各自为政的部门工具。 |

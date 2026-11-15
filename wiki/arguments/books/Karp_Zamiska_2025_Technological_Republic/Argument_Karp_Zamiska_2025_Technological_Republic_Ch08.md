@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch08"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch08"
 argument_display_title: "“Flawed systems”"
 argument_kind: "book-chapter"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Philosophical Aesthetics]]"
+  - "[[Alienation]]"
   - "[[Total Factor Productivity]]"
   - "[[Technological Republic]]"
   - "[[Artefact]]"
@@ -67,7 +68,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 ---
 
@@ -188,7 +189,7 @@ updated: 2026-11-14
 > [!claim] 共同体大叙事瓦解驱动硅谷滑向唯利是图的[[Consumer Internet|消费互联网]]与[[Technological Agnosticism|技术不可知论]]
 > 硅谷从早期的反文化解放理想最终滑向了纯粹为微观个体消费欲望服务的商业帝国。这一转变的深层原因在于，美国关于国家共同体认同的“我们”（We or Us）在学术界与知识精英中被彻底解构与[[Problematisation|问题化]]，导致整整一代技术专家将注意力完全转向个体消费者。21 世纪初的新一代科技精英进一步走下神坛，抛弃了任何关于宏大政治计划或技术解放潜能的借口，以纯粹“雇佣兵”（Mercenary）的姿态全面侍奉当时的物质消费文化。在线广告、照片分享与即时外卖帝国横行，硅谷陷入严重的[[Big Idea Famine|大构想饥荒]]，并在大国地缘博弈与国家战略防御面前表现出深度的[[Technological Agnosticism|技术不可知论]]冷漠（pp. 100–102）。
 
-> [!logic-map]- 反文化个人计算向唯利是图消费互联网的异化演化全景
+> [!logic-map]- 反文化个人计算向唯利是图消费互联网的[[Alienation|异化]]演化全景
 > ```mermaid
 > flowchart LR
 >   subgraph Roots ["1970s 反文化反叛与国家认同解构"]

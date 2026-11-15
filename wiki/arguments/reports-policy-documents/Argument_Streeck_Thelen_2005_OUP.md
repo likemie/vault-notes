@@ -29,6 +29,7 @@ related_concepts:
   - "[[Rule Enactment]]"
   - "[[Document]]"
   - "[[Institutional Conversion]]"
+  - "[[Alienation]]"
   - "[[Competitiveness]]"
   - "[[Apprenticeship]]"
   - "[[Paradigm]]"
@@ -64,14 +65,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-11
-updated: 2026-10-29
+updated: 2026-11-15
 subtype: report
 publication_type: book-chapter
 title: "Argument_Streeck_Thelen_2005_OUP"
 argument_key: "Argument_Streeck_Thelen_2005_OUP"
 argument_display_title: "Introduction: Institutional change in advanced political economies"
 argument_kind: "book-chapter"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -219,7 +220,7 @@ issuing_organization: ""
 > | 维度 | [[Institutional Displacement\|制度置换]]（Displacement） | [[Institutional Layering\|制度分层]]（Layering） | [[Institutional Drift\|制度漂移]]（Drift） | [[Institutional Conversion\|制度转换]]（Conversion） | [[Institutional Exhaustion\|制度耗竭]]（Exhaustion） |
 > |---|---|---|---|---|---|
 > | **理论定义** | 次要制度相对于主导制度的重要性缓慢上升，逐步取代旧制 | 既有制度附加新元素，逐步改变其整体地位与结构 | 面对外部环境变迁疏于维护制度，导致基层实践效力滑脱 | 既有制度被重新部署用于新目标，旧结构承载新目的 | 制度随时间推移发生渐进瓦解与自然消亡 |
-> | **核心机制** | 背叛与竞争扩散 | 差异化增长 | 刻意疏于维护 | 重新定向与再解释 | 资源耗损 |
+> | **核心机制** | 背叛与竞争扩散 | 差[[Alienation\|异化]]增长 | 刻意疏于维护 | 重新定向与再解释 | 资源耗损 |
 > | **展开路径与微观动力** | 1. 制度不连贯为越轨行为开放空间；<br>2. 在既有制度内部积极培育新行动逻辑；<br>3. 重新发现并激活休眠或潜在制度资源；<br>4. 外来惯例的隐喻性入侵与同化。 | 1. 建立在旧制度边缘的新制度增长更快；<br>2. 新边缘逐步蚕食旧核心；<br>3. 新制度层分流对旧层的政治支持；<br>4. 旨在修补旧制的折衷方案演化为颠覆旧制的开端。 | 1. 策略性不根据外部变迁调整制度导致结果改变；<br>2. 制度未变，但外围情境变迁改变其实际履行；<br>3. 规则保持不变，但对现实世界的规制保护实质缩水。 | 1. 规则设计预见局限与非预期后果；<br>2. 制度妥协固有的内在模糊性；<br>3. 边缘行动者由下而上再解释与颠覆规则；<br>4. 时间推移与联盟重组为重新部署创造空间。 | 1. **自我消耗** 制度常规运转破坏自身外部前提；<br>2. **收益递减** 制度普适化改变成本收益关系；<br>3. **过度扩张** 频繁追加例外条款遭遇增长极限。 |
 >
 > （p. 31）

@@ -6,7 +6,7 @@ aliases:
 summary: "班级学生人数这一关键教育组织变量，其对教学互动与学业成果的影响取决于人数变化、教师质量、物质资源、教学方式调整以及跨情境测量精度的系统协同。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 76
+related_count: 77
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Differentiated Instruction]]"
   - "[[Individualised Instruction]]"
+  - "[[Alienation]]"
   - "[[Business as Usual]]"
   - "[[Classroom Management]]"
   - "[[Programme Fidelity vs Adaptation]]"
@@ -104,7 +105,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 > [!def] Class Size
@@ -142,7 +143,7 @@ updated: 2026-11-11
 > [!feature] 班级规模争论的四大核心基柱
 > - **测量方式与口径精细度** 评估班级人数是基于宏观注册名册、平均日常出勤，还是[[Classroom Observation|课堂观察]]当天的实际分性别在场人数。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 16–17)]]
 > - **微观课堂教与学生态** 人数变化如何重塑教师注意力分配、[[Individualised Instruction|个别化指导]]、任务在轨率及课堂纪律压力。[[Argument_ONeill_2012_NZJES|(O'Neill, 2012, pp. 157–158)]]
-> - **师资教学[[Paradigm|范式]]调适** 班级规模是教学行为展开的制度载体，其成效取决于教师能否从标准化全班讲授转向差异化与个别化诊断。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 5–7)]]
+> - **师资教学[[Paradigm|范式]]调适** 班级规模是教学行为展开的制度载体，其成效取决于教师能否从标准化全班讲授转向差[[Alienation|异化]]与个别化诊断。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 5–7)]]
 > - **证据外推与物质约束边界** 实验室或局部优质实验（如 STAR 项目）结论在师资紧缺或极端大班额（60–100人）环境中的有效性限度。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–109)]]
 
 > [!logic-map]- 要素关系与微观课堂交互回路
@@ -289,7 +290,7 @@ updated: 2026-11-11
 > > - **[[Positivism|实证主义]]孤立还原论** 假设班级规模是独立可加的单项干预，通过汇总离散实验的平均效应量，直接指导宏观资源配置与优先级排序。
 > > - **复杂系统情境论（Berger, 1982; [[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）** 班级规模本身无法作为独立[[Unit of Analysis|分析单元]]；人数减少必须与教师教学[[Paradigm|范式]]转型、[[Individualised Instruction|个别化指导]]及社会背景交互方能起效，脱离教学调适直接断言班额无效属于严重的归因偏误。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 5–7)]]
 
-> [!critique] 外部批评与政策异化
+> [!critique] 外部批评与政策[[Alienation|异化]]
 > - **分析单元混淆与反向选择假象** 许多学校策略性地将学业落后生编入小班，造成观察数据中“小班成绩反而更差”的反向选择假象；约翰逊与简森指出，[[John Hattie|哈蒂]]从格拉斯元分析中提取出非原研究认定的 $d = 0.09$，反映出元分析二次引述中的语境漂移现象。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 31–33)]]
 > - **政府财政紧缩的选择性修辞** 新西兰财政部简报（[[Treasury Briefing on Student-Teacher Ratios]]）曾援引哈蒂“教师质量是最大校内影响变量”的论断，提议提高生师比以腾挪财政资金。奥尼尔尖锐指出该建议犯下多重[[Material Fallacies|实质谬误]]：故意忽略哈蒂关于“增加班级规模是灾难性糟糕政策”的警告，并且掩盖了新西兰生师比本已显著高于 [[OECD]] 均值的事实。[[Argument_ONeill_2012_NZJES|(O'Neill, 2012, pp. 153–159)]]
 > - **[[Socioeconomic Status|阶级盲教学思维]]的技术遮蔽** 尼尔森与克利特默勒强调，哈蒂将社会阶层变量排除在[[Moderator Analysis|调节效应分析]]之外，构建了一套假定所有学生均质化的纯技术方案，在客观上掩盖了贫困儿童在结构性劣势下的真实学习困难。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 6–7)]]

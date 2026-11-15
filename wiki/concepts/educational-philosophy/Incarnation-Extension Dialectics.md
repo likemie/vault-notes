@@ -7,7 +7,7 @@ aliases:
 summary: "由斯滕·内珀·拉森提出的现象学教育哲学构念，用以替代可见学习等还原论模型。该构念将学习界定为身心综合在身体具身化（化入具身习惯与默会经验）与向外延展（拓展在世行动自由与世界理解空间）之间的双向生成运动，从现象学生存论视角复兴全人教化（Bildung）传统。"
 type: concept
 domain: "educational-philosophy"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Habitus]]"
   - "[[Tacit Knowledge]]"
+  - "[[Alienation]]"
   - "[[Discourse]]"
   - "[[Pedagogical Subject]]"
   - "[[Participatory Sense-Making]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -160,7 +161,7 @@ updated: 2026-11-14
 
 ---
 
-> [!concept-proposition] 命题三｜具身-延展辩证法揭示了可见学习将教育扁平化为可测数据的技术异化
+> [!concept-proposition] 命题三｜具身-延展辩证法揭示了可见学习将教育扁平化为可测数据的技术[[Alienation|异化]]
 > **可见性拜物教、[[Panopticism|全景敞视]]与生存论批判** 运用具身-延展辩证法剖析数据驱动型实证教学论的盲区。
 
 > [!claim] [[Argument_Larsen_2019_EducSci|Larsen (2019)]]

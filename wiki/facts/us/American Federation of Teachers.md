@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Abstract]]"
   - "[[Learning Progression]]"
+  - "[[Alienation]]"
   - "[[Discourse]]"
   - "[[Test-Based Accountability]]"
   - "[[Gatekeepers]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-26
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -121,7 +122,7 @@ updated: 2026-11-11
 > > 批评者指责工会将教师终身教职（Tenure）与劳动保护置于学生学业质量之上，阻碍了低效能教师的淘汰。
 > >
 > > - **新自由主义绩效改革派** 指责 AFT 极力反对将学生统考成绩增值模型直接与教师解聘挂钩，是对公立教育体制低效平庸的制度庇护。
-> > - **工会立场辩护** 坚决主张统考数据存在巨大的测量噪声与社会阶层偏差，高利害人事任免只会催生“为应试而教”与教学异化。
+> > - **工会立场辩护** 坚决主张统考数据存在巨大的测量噪声与社会阶层偏差，高利害人事任免只会催生“为应试而教”与教学[[Alienation|异化]]。
 >
 > > [!axis] 支持 [[Common Core State Standards|CCSS]] 带来的工会内部反弹与妥协争议
 > > AFT 领导层在早期为 CCSS 站台背书的策略在工会基层引发了尖锐的内部批评。

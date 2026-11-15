@@ -7,7 +7,7 @@ aliases:
 summary: "指艺术与审美体验脱离逻辑从属地位、日常功利欲望与常规道德说教的束缚，依据自身感性规律与内在准则获得独立哲学地位的属性。"
 type: concept
 domain: "educational-philosophy"
-related_count: 23
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,9 +22,11 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Disinterested Pleasure]]"
   - "[[Sensual Cognition]]"
+  - "[[Freedom in Appearance]]"
   - "[[Aesthetic Semblance]]"
   - "[[Subjectivism]]"
   - "[[Aesthetic Education]]"
+  - "[[Alienation]]"
   - "[[Genius]]"
   - "[[Champ]]"
 related_theories: []
@@ -98,11 +100,11 @@ updated: 2026-11-15
 > [!claim] Hammermeister, K.
 > **脱离认知而留存道德象征** 《判断力批判》确立[[Judgment of Taste|鉴赏判断]]既独立于理论认知又独立于实践道德，却同时担任沟通二者的桥梁；这一方案虽使艺术摆脱了“低级认知”或“伦理婢女”的附庸地位，但也大幅削弱了艺术与真理的关联（伽达默尔 Hans-Georg Gadamer 在《真理与方法》中对此严厉批评），同时康德仍在第 59 节通过“美作为道德的象征”以及习惯性道德准备重新将审美导向道德生活。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 22–23, 38–41, 219 n.4)]]
 
-> [!concept-proposition] 命题四｜[[Friedrich Schiller|席勒]]以“显现中的自由”与纯粹[[Aesthetic Semblance|审美外观]]确立形式自主，却进一步拉大了艺术与现实、真理的裂隙
+> [!concept-proposition] 命题四｜[[Friedrich Schiller|席勒]]以“[[Freedom in Appearance|显现中的自由]]”与纯粹[[Aesthetic Semblance|审美外观]]确立形式自主，却进一步拉大了艺术与现实、真理的裂隙
 > **客观形式原则与外观隔离** [[Friedrich Schiller|席勒]]一方面试图用“显现中的自由”克服康德的[[Subjectivism|主观主义]]，另一方面又要求艺术彻底切断与事实性现实的联系。
 
 > [!claim] Hammermeister, K.
-> **形式至上与现实放弃** 在《卡里亚斯书简》（1793）与《[[Aesthetic Education|审美教育]]书简》（1795）中，席勒将美定义为“显现中的自由”，并将作品价值完全归于形式（“内容应当无所作为，形式决定一切”，*AL*, letter 22），进而主张[[Aesthetic Semblance|审美外观]]唯有明确放弃对现实的一切声索且不依赖现实辅助时才是真实的（*AL*, letter 26）。这一立场虽为卢卡奇、布洛赫与阿多诺的否定美学提供了反抗异化现实的尺度，却也使美既不产生任何智识真理、也不履行具体道德义务（*AL*, letter 21），迫使后继的谢林与[[Georg Wilhelm Friedrich Hegel|黑格尔]]以思辨唯心论弥合艺术与真理的鸿沟。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, pp. 43, 54–55, 57–61)]]
+> **形式至上与现实放弃** 在《卡里亚斯书简》（1793）与《[[Aesthetic Education|审美教育]]书简》（1795）中，席勒将美定义为“显现中的自由”，并将作品价值完全归于形式（“内容应当无所作为，形式决定一切”，*AL*, letter 22），进而主张[[Aesthetic Semblance|审美外观]]唯有明确放弃对现实的一切声索且不依赖现实辅助时才是真实的（*AL*, letter 26）。这一立场虽为卢卡奇、布洛赫与阿多诺的否定美学提供了反抗[[Alienation|异化]]现实的尺度，却也使美既不产生任何智识真理、也不履行具体道德义务（*AL*, letter 21），迫使后继的谢林与[[Georg Wilhelm Friedrich Hegel|黑格尔]]以思辨唯心论弥合艺术与真理的鸿沟。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, pp. 43, 54–55, 57–61)]]
 
 > [!concept-proposition] 命题五｜谢林拒斥一切外在功利、道德或科学从属目的，将艺术确立为“自身即目的”的绝对自由领域
 > **纯洁性与目的自足** 在《先验唯心论体系》（1800）中，谢林激烈反对将艺术工具化，论证唯有作为自身目的时艺术才能保全其“神圣与纯洁”。

@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 37
+fact_related_count: 38
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Instrument Constituencies]]"
   - "[[Reliability]]"
   - "[[Examination-Oriented Education]]"
+  - "[[Alienation]]"
   - "[[Creativity]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[National Large-Scale Assessments]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-27
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -154,7 +155,7 @@ updated: 2026-11-11
 > > - **机构辩护立场** ETS 强调其非营利法人的中立属性，坚称客观标准化测验是消除主观偏见、识别学业差距与保障资源公平分配的最具成本效益的技术机制。
 >
 > > [!axis] 客观测量技术对复杂教育价值的窄化批评
-> > 学界批评标准化考试过度追求心理测量学的可比性与统计[[Reliability|信度]]，诱发了系统性的[[Examination-Oriented Education|应试教育]]异化。
+> > 学界批评标准化考试过度追求心理测量学的可比性与统计[[Reliability|信度]]，诱发了系统性的[[Examination-Oriented Education|应试教育]][[Alienation|异化]]。
 > >
 > > - **外部批判视角** 标准化多项选择题无法有效测度[[Creativity|创造力]]、伦理责任感及复杂的探究能力，导致中小学校园陷入题海战术与考前培训。
 > > - **技术回应进路** ETS 投入巨额经费研发自适应测评与开放式情境任务（如 HEIghten 平台），试图借助自然语言处理与机器学习算法提升对[[Higher-Order Thinking Skills|高阶思维]]的评分保真度。

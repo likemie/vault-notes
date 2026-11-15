@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: "france"
 person_region: "france"
-person_related_count: 36
+person_related_count: 37
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Interpretive Paradigm]]"
   - "[[Paradigm Wars]]"
+  - "[[Alienation]]"
   - "[[Self Explanation]]"
   - "[[Emergence]]"
   - "[[Falsification]]"
@@ -206,7 +207,7 @@ updated: 2026-11-15
 > > 争论焦点在于：将[[Scientific Method\|科学方法]]推广至全人类领域，究竟是对神权迷信与主观武断的理性解放，还是确立了一种剥夺人类价值维度的新型技术极权？
 > > 
 > > - **孔德与古典实证派** 坚信经验观察与法则发现是人类摆脱神学狂热与形而上学教条的唯一可靠路径，唯有依靠实证法则才能建立真正稳定有序、理性进步的现代文明。
-> > - **法兰克福学派（Habermas, 1972; Horkheimer, 1972）** 批评[[Positivism\|实证主义]]已将科学心态异化为一种不容置疑的新宗教（[[Scientism\|科学主义]]），将全部人类知识等同于经验科学知识，导致工具理性对生活世界的彻底统治，造就了“没有良知的社会”。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, pp. 17–18]]
+> > - **法兰克福学派（Habermas, 1972; Horkheimer, 1972）** 批评[[Positivism\|实证主义]]已将科学心态[[Alienation|异化]]为一种不容置疑的新宗教（[[Scientism\|科学主义]]），将全部人类知识等同于经验科学知识，导致工具理性对生活世界的彻底统治，造就了“没有良知的社会”。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, pp. 17–18]]
 > 
 > > [!axis] 社会因果法则的客观性 vs 人类行动主体的自我诠释
 > > 争论焦点在于：人类社会是否存在与自然界相同的客观因果规律？研究者能否采取冷漠中立的“主-客体二元对立”[[Paradigm\|研究范式]]？

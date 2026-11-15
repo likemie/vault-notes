@@ -10,7 +10,7 @@ aliases:
 summary: "以学习者自主生成新知、依托经验证据推论、行使认识能动性并参与共同体批判协商为核心的教学取向，在适切支架与指导协同下对促进概念理解与远迁移显著优于单一直接讲授"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 65
+related_count: 66
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Productive Failure]]"
   - "[[Executive Function]]"
+  - "[[Alienation]]"
   - "[[Inhibitory Control]]"
   - "[[Differentiated Instruction]]"
   - "[[Constructivist Paradigm]]"
@@ -91,12 +92,12 @@ related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Cartiff_2021_JEP]]"
   - "[[Argument_Wecker_2016_ZfE]]"
-  - "[[Argument_Zhang_2022_SE]]"
   - "[[Argument_Sahlgren_2015_CPS]]"
+  - "[[Argument_Zhang_2022_SE]]"
 confidence: high
 status: active
 created: 2026-09-20
-updated: 2026-11-06
+updated: 2026-11-15
 ---
 
 > [!def] Inquiry-Based Learning
@@ -188,7 +189,7 @@ updated: 2026-11-06
 > **学习目标与知识层级的结构匹配** 教学设计的核心原则在于教学方法与期望学习产出的精准对齐。对于事实性信息记忆与常规算理等表层、良构知识，直接教学具有更高的传递效率；而当教学目标聚焦于复杂、不良构、易引发直觉迷思（Misconceptions）的概念理解与跨情境远迁移时，探究式学习能够通过激发认知冲突与深层表征重构，达成直接教学难以企及的深层理解。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 6–7)]]
 
 > [!claim] Gerard & Linn & Homer & Plass
-> **学习者先验知识与[[Executive Function\|执行功能]]的差异化调节** 先验知识匮乏的学生在自主探究中容易迷失，但他们在指导式探究中所获得的指导增益反而显著高于高先验学生；同时，阅读理解、数学基础以及执行功能中的[[Inhibitory Control\|抑制控制]]能力（Inhibitory Control）高度预测了学生在开放虚拟实验中的探究行为与迁移成绩。对于低抑制控制或低学科自我概念的学生，必须在探究中嵌入更高密度的结构化直接指导。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 7–8)]]
+> **学习者先验知识与[[Executive Function\|执行功能]]的差[[Alienation|异化]]调节** 先验知识匮乏的学生在自主探究中容易迷失，但他们在指导式探究中所获得的指导增益反而显著高于高先验学生；同时，阅读理解、数学基础以及执行功能中的[[Inhibitory Control\|抑制控制]]能力（Inhibitory Control）高度预测了学生在开放虚拟实验中的探究行为与迁移成绩。对于低抑制控制或低学科自我概念的学生，必须在探究中嵌入更高密度的结构化直接指导。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 7–8)]]
 
 ---
 

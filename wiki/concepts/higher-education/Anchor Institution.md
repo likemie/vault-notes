@@ -28,11 +28,11 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Corporate R&D Labs]]"
   - "[[Public-Private Partnership]]"
+  - "[[Alienation]]"
   - "[[Application Engineering]]"
   - "[[Third Mission]]"
   - "[[University-Industry Collaboration]]"
   - "[[Workforce Development]]"
-  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -121,7 +121,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题三｜锚定机构的过度企业化与空间扩张可能诱发城市士绅化与学术独立性侵蚀的深层张力
-> **锚定效应的社会空间成本与治理批判** 审视大学作为锚定机构在重塑城市空间时伴生的社会分化、资源挤占与大学精神异化问题。
+> **锚定效应的社会空间成本与治理批判** 审视大学作为锚定机构在重塑城市空间时伴生的社会分化、资源挤占与大学精神[[Alienation|异化]]问题。
 
 > [!claim] 创新区扩张中的空间排斥与大学使命冲突
 > **士绅化风险与学术自主挤压** 斯皮罗指出，大学作为锚定机构推进城市创新区建设是一把双刃剑：一方面，大学地产扩张与高科技集群导入提升了区域经济活力；另一方面，高新技术区的快速扩张极易推高周边社区地价与租金，诱发严重的城市士绅化（Gentrification）并对低收入原住民造成空间排斥。同时，大学过度顺从地方经济开发逻辑，可能导致优势资源过度向[[Application Engineering|应用工程]]与商业化倾斜，对基础人文学科与大学批判性学术自主构成潜在挤压。[[Argument_Zhuo_2026_ICE|(Spirou, 2021; 卓泽林, 2026, pp. 23, 25–26)]]

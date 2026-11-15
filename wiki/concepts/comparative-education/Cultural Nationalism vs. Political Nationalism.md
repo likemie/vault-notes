@@ -9,7 +9,7 @@ aliases:
 summary: "比较教育学在两次世界大战之间形成的政治哲学二元类型学，深刻区分以国家强权、意识形态灌输与政治极权动员为特征的政治民族主义，与以文化传统传承、公民健全心智发展及国际主义理解为导向的文化民族主义。"
 type: concept
 domain: "comparative-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Democratic Education]]"
   - "[[Bildung]]"
   - "[[Academic Freedom]]"
+  - "[[Alienation]]"
   - "[[The Sublime]]"
   - "[[Educational Meliorism]]"
   - "[[National Rejuvenation Narrative]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -104,7 +105,7 @@ updated: 2026-11-14
 
 ---
 
-> [!concept-proposition] 命题一｜政治民族主义将学校异化为极权动员工具并必然导致国家对内压迫与对外冲突
+> [!concept-proposition] 命题一｜政治民族主义将学校[[Alienation|异化]]为极权动员工具并必然导致国家对内压迫与对外冲突
 > **政治权力的极权异化与教育机能扭曲** [[Isaac Kandel\|坎德尔]]与历史学派学者通过比较 1930 年代欧洲多国教育制度的变迁，揭示了政治民族主义对现代文明教育理念的致命毁灭机制。
 
 > [!claim] Kandel, I.

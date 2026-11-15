@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 美国联邦政府原子能监管与战略科研专职任务机构
 headquarters: 美国马里兰州日耳曼敦（Germantown, Maryland, USA）与华盛顿特区
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
   - "[[Philosophical Aesthetics]]"
+  - "[[Alienation]]"
   - "[[Mission-Oriented Research]]"
 related_theories: []
 related_methods: []
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -135,7 +136,7 @@ updated: 2026-11-14
 > [!debates] 核心争议交锋
 >
 > > [!axis] 国家安全计划指令 vs 大学学术自由探索
-> > 军事任务机构推行的保密合同与定向考核是否异化了大学作为探索未知机构的根本宗旨。
+> > 军事任务机构推行的保密合同与定向考核是否[[Alienation|异化]]了大学作为探索未知机构的根本宗旨。
 > >
 > > - **学术界自治倡导者** 指责 AEC 的外包合同制将大学科研绑定于狭隘的武器制造，导致基础研究经费匮乏与程序化科研危险。[[Argument_Yang_2017_MUE|(杨九斌, 2017, p. 36)]]
 > > - **任务机构决策层** 强调冷战生存危机下必须集中力量实现战略科技突破，大学有责任为国防安全提供智力支持。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–36)]]

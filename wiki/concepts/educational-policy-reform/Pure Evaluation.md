@@ -5,7 +5,7 @@ aliases:
 summary: "丹麦教育哲学界提出的批判性概念，指一种抽离具体历史时空、政策目标与课程内容，宣称在自调节系统中运作，并将教育活动简化为输入变量与输出指标审查的去情境化评价范式。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Operationalization]]"
   - "[[Transnational Education]]"
+  - "[[Alienation]]"
   - "[[Visible Learning]]"
   - "[[Variable]]"
   - "[[Research Cage]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: stable
 created: '2026-05-03'
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -101,7 +102,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题一｜纯粹评价将教育实践降维为自调节系统内的指标审查
-> **评价逻辑对教育客体的吞噬** 该命题揭示评价[[Paradigm|范式]]由“衡量教育的辅助手段”异化为“规定教育本体的先验框架”，导致传统教育学的价值追求被量化技术全面置换。
+> **评价逻辑对教育客体的吞噬** 该命题揭示评价[[Paradigm|范式]]由“衡量教育的辅助手段”[[Alienation|异化]]为“规定教育本体的先验框架”，导致传统教育学的价值追求被量化技术全面置换。
 
 > [!claim] [[Thomas Aastrup Rømer|Rømer, T. A.]]
 > **评价对教育学的殖民** 罗默（Thomas Aastrup Rømer）指出，以[[Visible Learning|可见的学习]]为代表的理论本质上是一套简化版评价学说对教育传统的吞噬。评价在传统上被界定为对给定干预政策或项目目标达成程度的回溯性调查，这一设定要求目标、干预与评估三者必须区隔为互不交互的独立实体。当这种评价逻辑被推至极致时，教育的独立生命成长与文化承载属性被全面抽离，退化为追求可测量指标与干预效应的自指系统；教师的专业关怀被狭隘化为对[[Effect Size|效应量]]数据的监控，学生的主体性则被格式化为自我监控与自我测定的微型操作员。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 2–5)]]

@@ -13,7 +13,7 @@ aliases:
 summary: "在社会、教育与政策探究中兼具物质实体、话语实践与方法学多重维度的核心概念：涵盖投射制度文化的物理器物、承载政策意义与默会知识的政策人工制品，以及因测量偏差导致的方法学人为假象。"
 type: concept
 domain: "research-methodology"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Interpretive Paradigm]]"
   - "[[Technical Rationality]]"
+  - "[[Alienation]]"
   - "[[Whiggism]]"
 related_theories:
   - "[[Organizational Culture]]"
@@ -77,7 +78,7 @@ related_facts:
 confidence: high
 status: stable
 created: 2026-08-05
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -198,7 +199,7 @@ updated: 2026-11-03
 > > 争论跨国政策借鉴究竟是通用最佳实践规程的技术性复制，还是涉及复杂意义再造与制度重构的本土转译过程。
 > >
 > > - **传统理性借鉴派** 认为标准化的政策文本与规程（人工制品）可跨语境直接复制移植。
-> > - **解释建构学派（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）** 证明政策人工制品脱离原生地默会知识后必须经过本土拼贴，任何去情境化的硬复制均会导致政策变异或执行异化。
+> > - **解释建构学派（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）** 证明政策人工制品脱离原生地默会知识后必须经过本土拼贴，任何去情境化的硬复制均会导致政策变异或执行[[Alienation|异化]]。
 
 > [!warning] 适用局限
 > 绝不可仅凭器物的物理存在直接推断行动者的主观心理意图或宏观文化全貌；在政策分析中，不可将政策人工制品（如方案指南）的文本完备性误判为实际治理效能；在[[Experimental Research|实验研究]]中，必须通过[[Blinding|盲法]]设计与异质方法交叉检验，严格防范将方法自身诱发的人为产物误判为创新发现。

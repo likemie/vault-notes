@@ -9,7 +9,7 @@ title: "Argument_Ryan_2010_ChineseLearner"
 argument_key: "Argument_Ryan_2010_ChineseLearner"
 argument_display_title: "The Chinese learner: Misconceptions and realities"
 argument_kind: "book"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#ede9fe"
@@ -37,10 +37,11 @@ related_concepts:
   - "[[Teacher Mobility]]"
   - "[[Critical Thinking]]"
   - "[[International Education]]"
-  - "[[Refined Mastery]]"
+  - "[[New Mythology]]"
   - "[[Discourse]]"
   - "[[Epistemology]]"
   - "[[Scientific Explanation]]"
+  - "[[Alienation]]"
   - "[[Avatar]]"
   - "[[Quality Education]]"
   - "[[Active Learning]]"
@@ -149,7 +150,7 @@ Ryan (p.41)指出，此后的许多学者和教育开发者（educational develo
 > 这个案例揭示了刻板印象在学术体系中的再生产机制：**它由无数普通学者在正常学术传播过程中的每一次"选择性引用"共同维持，远超出少数偏见者的个人影响。**
 
 > [!success] 2b. 优势型刻板印象（Surplus Stereotypes）
-> 较晚近的一批研究试图纠正缺陷型偏见，转而强调中国学习者的正面特征：合作性强、勤奋、数学好、高度重视教育(Lee, 1996, p.25; Watkins & Biggs, 2001)。这被称为"优势型"或"文化[[Refined Mastery\|精通]]"理论(Ryan & Louie, 2005; Ninnes, Aitchison, & Kalos, 1999)。
+> 较晚近的一批研究试图纠正缺陷型偏见，转而强调中国学习者的正面特征：合作性强、勤奋、数学好、高度重视教育(Lee, 1996, p.25; Watkins & Biggs, 2001)。这被称为"优势型"或"文化精通"理论(Ryan & Louie, 2005; Ninnes, Aitchison, & Kalos, 1999)。
 
 **例（"模范少数族裔"的起源）：** Murphy(2005)追溯发现，这种"中国人勤奋上进"的正面形象，实际上可以追溯到美国内战后移民时期对华裔的"模范少数族裔"（model minority）建构(p.45)。当时这个标签的政治功能是：用"看，这个少数族裔多努力多成功"来含蓄地贬低其他少数族裔。今天在教育领域，它同样给不符合"勤奋"模板的中国学生造成压力——一个对教育没有"高度重视"的中国学生，不仅要面对学业困难，还要面对"你不像中国人"的隐性指责。
 
@@ -157,7 +158,7 @@ Ryan (p.41)指出，此后的许多学者和教育开发者（educational develo
 
 **两者共享一个问题：** 都假设"中国学习者"是一个同质的、可定义的整体。把"被动、缺乏批判思维"换成"勤奋、合作性强"，只是换了一个更友善的标签，本质化（essentializing）的操作没有变——仍然是从文化标签推导个体特征，仍然忽略了阶层、性别、地区、个体差异。
 
-> **这一步的逻辑结论：** 缺陷型和优势型刻板印象是同一枚硬币的两面。正如 Ryan and Louie（2005, p.5）所警告的：我们需要**打破**"中国学习者"这个单一范畴，避免用一套新神话替换旧神话。
+> **这一步的逻辑结论：** 缺陷型和优势型刻板印象是同一枚硬币的两面。正如 Ryan and Louie（2005, p.5）所警告的：我们需要**打破**"中国学习者"这个单一范畴，避免用一套[[New Mythology|新神话]]替换旧神话。
 
 > [!note] 第 3 步：诊断刻板印象的学术生产机制——"大文化解释"为何有诱惑力
 > **逻辑：** 既然刻板印象明显不对，为什么它们能在学术界通行无阻？Ryan 识别出三种相互关联的机制，它们共同构成了刻板印象的学术再生产系统。
@@ -230,7 +231,7 @@ Kumaravadivelu（2003, p.716）从教师心理学角度提出了一个诚实的�
 
 #### 5a. 对学生的伤害
 
-**身份丧失与自我异化：** Ryan (pp.49–50)基于十年间对国际学生的访谈，记录了许多学生在海外学习中经历的"身份丧失和自尊降低"。这不只是"感觉不好"——当一个人被持续告知（或隐性暗示）"你的学习方式是有缺陷的"，他们不仅会怀疑自己的能力，还会怀疑自己的文[[Avatar|化身]]份。
+**身份丧失与自我[[Alienation|异化]]：** Ryan (pp.49–50)基于十年间对国际学生的访谈，记录了许多学生在海外学习中经历的"身份丧失和自尊降低"。这不只是"感觉不好"——当一个人被持续告知（或隐性暗示）"你的学习方式是有缺陷的"，他们不仅会怀疑自己的能力，还会怀疑自己的文[[Avatar|化身]]份。
 
 **例（中国学生为自己"被动"道歉）：** Ryan and Louie(2007)发现，中国学习者经常**内化**了这些刻板描述——即使在课堂上并没有什么问题，他们也会主动道歉说自己"太被动"了。这反映出他们已经被教会了用西方的标准来审判自己，与他们真实的学习状态无关。
 

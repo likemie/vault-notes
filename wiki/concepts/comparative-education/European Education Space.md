@@ -8,7 +8,7 @@ aliases:
 summary: "欧洲教育空间是指在欧洲一体化与超国家治理进程中，由欧盟委员会与OECD通过数据基础设施、资格框架、开放协调机制以及学术流动项目共同建构的功能性与象征性治理空间；该概念打破了将欧洲教育视为单一主权国家集合的地理假定，揭示了数据互认与跨国流动如何既建构出共同的欧洲公民身份想象，又在后发成员国亲欧修辞对标下掩盖主权防御与学术近亲繁殖。"
 type: concept
 domain: "comparative-education"
-related_count: 74
+related_count: 75
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Discursive Field]]"
   - "[[Student Mobility]]"
   - "[[Teacher Mobility]]"
+  - "[[Alienation]]"
   - "[[Plaintive Comparison]]"
   - "[[Study Abroad]]"
   - "[[Competitiveness]]"
@@ -105,7 +106,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-09
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -188,7 +189,7 @@ updated: 2026-11-14
 
 ---
 
-> [!concept-proposition] 命题三｜超国家教育空间受制于成员国主权防线并易异化为国内制度对标的修辞盾牌
+> [!concept-proposition] 命题三｜超国家教育空间受制于成员国主权防线并易[[Alienation|异化]]为国内制度对标的修辞盾牌
 > **超国家趋同神话与民族国家主权防御** 探讨欧洲联盟教育权能的法律宪制边界，以及后发成员国如何利用欧洲教育空间作为修辞工具掩盖本土制度惰性与保护主义。
 
 > [!claim] [[José Luis García Garrido|García Garrido]], J. L.

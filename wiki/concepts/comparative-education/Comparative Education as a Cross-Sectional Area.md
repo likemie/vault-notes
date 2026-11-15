@@ -10,7 +10,7 @@ aliases:
 summary: "德国比较教育学家奥斯卡·安维勒于1967年提出的学科建制概念。主张比较教育牢固依托于母体学科普通教育学，同时在问题意识与研究工具上面向历史学、政治学与社会学纵深切入，形成兼具规范育人关怀与跨学科实证解释力的横截面知识领域。"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Variable]]"
   - "[[Document]]"
+  - "[[Alienation]]"
   - "[[Epistemology]]"
   - "[[Public Value]]"
   - "[[Transnational Education]]"
@@ -51,7 +52,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -104,7 +105,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题一｜交叉领域属性使比较教育在面对外部社科冲击时能够兼顾规范反思与实证拓展
-> **学科自主性与跨学科吸纳能力的动态平衡** 围绕比较教育在实证社会科学浪潮中是否会丧失学科独立性展开。安维勒与米特等学者论证指出，将比较教育建构为交叉领域，使学者既能抵抗狭隘[[Positivism|实证主义]]的技术异化，又能打破传统教育哲学的孤芳自赏。
+> **学科自主性与跨学科吸纳能力的动态平衡** 围绕比较教育在实证社会科学浪潮中是否会丧失学科独立性展开。安维勒与米特等学者论证指出，将比较教育建构为交叉领域，使学者既能抵抗狭隘[[Positivism|实证主义]]的技术[[Alienation|异化]]，又能打破传统教育哲学的孤芳自赏。
 
 > [!claim] [[Wolfgang Mitter|Mitter, W.]]
 > **母体归属与跨学科开放的共生机制** 米特指出，德国及中东欧模式将比较教育视作源自哲学与神学底色的[[Allgemeine Pädagogik|普通教育学]]分支，而安维勒将其重新定性为交叉领域，具有深远的[[Epistemology|认识论]]解放意义。该界定既允许比较教育学者合法调用历史学与社会学的最新概念工具处理冷战阵营对抗、教育体制扩张与全球化冲击，又牢固保全了教育学对人的全面发展与[[Public Value|公共价值]]的根本承诺，克服了英国实用模块论与美国[[Behaviorism|行为主义]]工具论的技术官僚偏向。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]

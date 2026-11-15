@@ -62,6 +62,7 @@ related_concepts:
   - "[[Teaching Test Taking and Coaching]]"
   - "[[Peer-Supported Learning]]"
   - "[[Effective Teaching]]"
+  - "[[Alienation]]"
   - "[[Public Value]]"
   - "[[Hypothesis]]"
   - "[[School Leadership]]"
@@ -86,6 +87,7 @@ related_persons:
   - "[[John Dewey]]"
   - "[[Jacob S. Hacker]]"
   - "[[Roy Nash]]"
+  - "[[David K. Cohen]]"
 related_facts:
   - "[[The Scott Report]]"
   - "[[Picking Up the Pace]]"
@@ -96,14 +98,14 @@ sources:
 part_of: ""
 status: completed
 created: 2026-05-03
-updated: 2026-11-11
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Snook_2009_NZJES"
 argument_key: "Argument_Snook_2009_NZJES"
 argument_display_title: "Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement"
 argument_kind: "journal-article"
-argument_related_count: 61
+argument_related_count: 63
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -334,7 +336,7 @@ journal: "New Zealand Journal of Educational Studies"
 在国际视野中，针对美国长达四分之一世纪的政策实践总结同样得出了高度一致的否定结论：
 
 > [!critique-logic] 默南与科恩对美国 25 年绩效工资实践的总结
-> - **长达 25 年的失败历史** 理查德·默南（Richard Murnane）与戴维·科恩（David Cohen, 1981）对美国公立教育实践做出定性：公立学校过去二十五年推行绩效工资的大多数尝试均以失败告终。
+> - **长达 25 年的失败历史** 理查德·默南（Richard Murnane）与[[David K. Cohen|戴维·科恩]]（David Cohen, 1981）对美国公立教育实践做出定性：公立学校过去二十五年推行绩效工资的大多数尝试均以失败告终。
 > - **哈蒂元分析数据库中缺乏支持** 在哈蒂汇总的 800 项元分析中，没有任何实证研究能够证明绩效工资能够改善教学质量或提高学生学业成就。
 
 更为矛盾的是，绩效工资依靠外部金钱刺激与零和排名竞争，与哈蒂自己在书中所极力倡导的教研生态存在无法调和的机制冲突：
@@ -361,7 +363,7 @@ journal: "New Zealand Journal of Educational Studies"
 > [!finding-cards] 核心发现
 > 1. **[[Meta-meta-analysis|二阶元分析]]放弃输入质量审查导致结论失真** [[John Hattie|哈蒂]]未对纳入的 800 项[[Meta-analysis|元分析]]建立严谨的质量准入准出标准，导致劣质研究混入数据库；所依赖的发表文献受[[Publication Bias|发表偏倚]]侵蚀，且[[Variable|变量]]界定模糊引发概念混淆。
 > 2. **排除校外阶层背景导致[[School Effectiveness|学校效能]]归因发生严重偏航** 家庭背景、贫困与社会阶层解释了 70% 至 80% 的学业校际差异，将非学校因素排除在视域之外极易导致决策者高估校内孤立干预的效力，并将系统性结构危机转嫁给一线教师。
-> 3. **[[Class Size|班级规模]]效益源自与教学行为调适的结构性交互** 单纯物理降班虽不自动提升学业，但在早期学段将班额控制在 15 至 18 人是实施高密度差异化指导的必要物理基础；粗暴的平均[[Effect Size|效应量]]掩盖了 STAR 项目与 [[Picking Up the Pace|PACE 项目]]中 $d > 0.60$ 的强因果收益。
+> 3. **[[Class Size|班级规模]]效益源自与教学行为调适的结构性交互** 单纯物理降班虽不自动提升学业，但在早期学段将班额控制在 15 至 18 人是实施高密度差[[Alienation|异化]]指导的必要物理基础；粗暴的平均[[Effect Size|效应量]]掩盖了 STAR 项目与 [[Picking Up the Pace|PACE 项目]]中 $d > 0.60$ 的强因果收益。
 > 4. **[[Performance Pay|绩效工资]]缺乏实证支持且与学校改进的文化内核根本对立** 国际 25 年实践证实绩效工资普遍失败；其基于外在金钱刺激的零和博弈机制，直接摧毁了哈蒂本人所极力提倡的关爱、互信与容错的教师学习共同体文化。
 
 > [!stat-cards]- 核心数据

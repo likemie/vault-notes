@@ -8,7 +8,7 @@ aliases:
 summary: "汉娜·阿伦特提出的政治哲学与伦理学核心概念，指代在现代科层制与极权体制下，极端罪恶往往是源于放弃独立思考、丧失道德判断力以及对规章与权威程序的盲目顺从（无思状态），有别于源于个体的极端仇恨或病态恶毒；后在心理学实证、组织行为学与教育哲学中得到广泛发展与印证。"
 type: concept
 domain: "educational-philosophy"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Technological Republic]]"
   - "[[Constructive Disobedience]]"
   - "[[Social Deafness]]"
+  - "[[Alienation]]"
   - "[[Bildung]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -141,7 +142,7 @@ updated: 2026-11-03
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **命题一：合规机制下的平庸异化** | 极端灾难源于缺乏批判反思的合规执行与无思状态 | 现代科层机构、大企业管理、公共行政 | [[Hannah Arendt]]; Karp & Zamiska |
+> | **命题一：合规机制下的平庸[[Alienation\|异化]]** | 极端灾难源于缺乏批判反思的合规执行与无思状态 | 现代科层机构、大企业管理、公共行政 | [[Hannah Arendt]]; Karp & Zamiska |
 > | **命题二：权威施压下的心理脱敏** | 代理态转换与语言规避使人在礼貌中执行残酷伤害 | 权威服从情境、社会心理学实验、会议文化 | [[Stanley Milgram]]; Karp & Zamiska |
 > | **命题三：对抗平庸的制度与教育解药** | 依靠主体化判断力与建设性抗命文化阻断系统盲从 | 学校伦理教育、[[Bildung]] 传统、科技创新团队治理 | [[Gert Biesta]]; [[Thomas Aastrup Rømer]]; Karp & Zamiska |
 

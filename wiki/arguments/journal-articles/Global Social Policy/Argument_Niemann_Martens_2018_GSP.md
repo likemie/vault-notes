@@ -28,6 +28,7 @@ related_concepts:
   - "[[Meditative Mode of Governance]]"
   - "[[Naming and Shaming in Education Governance]]"
   - "[[OECD-fication]]"
+  - "[[Alienation]]"
   - "[[Constructivist Paradigm]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Policy Brokerage]]"
@@ -50,6 +51,7 @@ related_concepts:
   - "[[Externalization]]"
   - "[[PISA Shock]]"
   - "[[Evidence-Based Policy-Making]]"
+  - "[[Mimesis]]"
   - "[[Soft Power]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -78,14 +80,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-21
-updated: 2026-11-11
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Niemann_Martens_2018_GSP"
 argument_key: "Argument_Niemann_Martens_2018_GSP"
 argument_display_title: "Soft governance by hard fact? The OECD as a knowledge broker in education policy"
 argument_kind: "journal-article"
-argument_related_count: 46
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -104,7 +106,7 @@ issuing_organization: ""
 > 经合组织放弃了传统的国别个案审议，经历[[Comparative Turn in Education Policy|教育政策的比较转向]]，转向以[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）为核心的跨国量化统测，将复杂的教育过程转化为看似客观中立的硬事实，确立起专业化的[[Cognitive Authority|认知权威]]并充当全球教育[[Boundary Spanner|知识经纪人]]。通过[[Inquisitive Mode of Governance|探究式治理模式]]加工数据定义问题、借助[[Meditative Mode of Governance|调解式治理模式]]推介基于[[Human Capital Theory|人力资本理论]]的最佳实践，经合组织依托跨国排名与[[Naming and Shaming in Education Governance|点名羞辱]]机制激活各国内部危机舆论，为本土改革同盟提供实证支撑，重组国内政治博弈格局，最终推动了全球教育政策的[[OECD-fication|经合组织化]]。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 经合组织教育治理策略的演进轨迹，以及德、丹、瑞、日、以、美、英、芬等国面对测评数据时的差异化政策回应与体制重组。
+> - **对象** 经合组织教育治理策略的演进轨迹，以及德、丹、瑞、日、以、美、英、芬等国面对测评数据时的差[[Alienation|异化]]政策回应与体制重组。
 > - **张力** 国际组织缺乏硬法强制权与财政分配权，却能在主权专属的公共教育领域引发深刻的制度变迁。
 > - **贡献** 拓展[[Constructivist Paradigm|建构主义]]在国际组织研究中的分析纵深，阐明从数据加工、权威建构到重组国内政治博弈的完整软治理机制。
 
@@ -304,7 +306,7 @@ issuing_organization: ""
 > 1. **依托专业权威打破主权委托限制** [[OECD|经合组织]]等超国家机构无需依赖法定强制力，凭借专业声誉与去政治化表象建构起[[Cognitive Authority|认知权威]]，从国家代理人演变为具有独立规制影响力的全球治理枢纽。
 > 2. **量化数据硬化确立全球教育评估唯一标尺** 经合组织通过 [[PISA]] 的[[Comparative Turn in Education Policy|比较转向]]，成功将[[Human Capital Theory|人力资本]][[Paradigm|范式]]转译为量化硬事实，制定了衡量国家教育系统优劣的全球基准，确立了全球教育政策的经合组织化（OECD-fication）。
 > 3. **借由本土政治[[Externalization|外化]]打破制度否决阻力** 测评冲击的政治效应高度依赖本土媒体转译与政治外化过滤；数据硬事实通过为国内改革倡导者提供权威论据并削弱传统反对势力，打破既有制度僵局。
-> 4. **硬事实软治理范式外溢成为国际示范** 经合组织在教育领域的治理成效，使其通过[[Inquisitive Mode of Governance|探究模式]]与[[Meditative Mode of Governance|调解模式]]双模协同、以硬事实开展软治理与[[Naming and Shaming in Education Governance|点名羞辱]]的技术，成为其他涉教多边组织竞相模仿的全球治理范式。
+> 4. **硬事实软治理范式外溢成为国际示范** 经合组织在教育领域的治理成效，使其通过[[Inquisitive Mode of Governance|探究模式]]与[[Meditative Mode of Governance|调解模式]]双模协同、以硬事实开展软治理与[[Naming and Shaming in Education Governance|点名羞辱]]的技术，成为其他涉教多边组织竞相[[Mimesis|模仿]]的全球治理范式。
 
 > [!stat-cards]- 核心数据
 > - **495 -> 20** 战争关联数据库收录的 495 个国际组织中，仅 20 个（4.0%）深度介入教育治理，突显经合组织的领跑地位。

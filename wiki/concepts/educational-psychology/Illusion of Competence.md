@@ -10,7 +10,7 @@ aliases:
 summary: "认知心理学与学习科学概念，指个体因信息获取的容易性、文本表层语义流畅性或即时提取的顺畅感，产生的一种误将‘容易理解与阅读顺畅’等同于‘已真正掌握与内化知识’的元认知监控偏差。"
 type: concept
 domain: "educational-psychology"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Deliberate Practice]]"
   - "[[Brainstorming]]"
+  - "[[Alienation]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Critical Thinking]]"
   - "[[Variable]]"
@@ -43,7 +44,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 （能力错觉 / 虚假能力错觉）
@@ -139,7 +140,7 @@ updated: 2026-11-03
 > | 命题类型 | 核心主张 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **元认知机理命题** | 加工流畅性启发式导致将容易理解误判为真实掌握 | 认知心理学、记忆提取与自适应学习 | Bjork et al. (2013) |
-> | **技术异化命题** | [[Generative Artificial Intelligence\|生成式 AI]] 语义顺滑诱发能力错觉与构想惰性 | 生成式 AI 高校教学实证、文章写作 | Awal (2024); [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
+> | **技术[[Alienation\|异化]]命题** | [[Generative Artificial Intelligence\|生成式 AI]] 语义顺滑诱发能力错觉与构想惰性 | 生成式 AI 高校教学实证、文章写作 | Awal (2024); [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
 > | **教学干预命题** | 必须引入[[Epistemic Friction\|认识论摩擦]]与提取检验强制校准元认知 | 评价改革、现场答辩与反思支架设计 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
 
 ---

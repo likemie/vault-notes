@@ -8,7 +8,7 @@ summary: "比较教育学批判性定性比较方法，批判将民族国家视�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 30
+method_related_count: 31
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Discourse]]"
   - "[[Champ]]"
+  - "[[Alienation]]"
   - "[[Unit of Analysis]]"
   - "[[Context in Comparative Education]]"
   - "[[Epistemology]]"
@@ -57,7 +58,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-11-09
-updated: 2026-11-10
+updated: 2026-11-15
 ---
 
 ---
@@ -67,7 +68,7 @@ updated: 2026-11-10
 
 > [!method-scope] 方法范围
 > - **研究对象** 跨国流动的政策理念、指标框架、专家咨询网络、文官行政知识与国家改革制度现场。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 537)]]
-> - **问题类型** 回答全球化知识话语如何在看似异质的民族国家中被差异化装配、转译并达成实质性趋同的机制解释问题。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 537, 540–542)]]
+> - **问题类型** 回答全球化知识话语如何在看似异质的民族国家中被差[[Alienation|异化]]装配、转译并达成实质性趋同的机制解释问题。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 537, 540–542)]]
 > - **[[Unit of Analysis|分析单位]]** 跨国知识流动节点、政策话语装配体（Assemblages）与微观行动者网络。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, p. 537)]]
 > - **输出形式** 关系性大写背景（[[Context in Comparative Education|Big-C Context]]）的动态生成机制模型与跨国话语本土合法化路径图谱。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 540–542)]]
 

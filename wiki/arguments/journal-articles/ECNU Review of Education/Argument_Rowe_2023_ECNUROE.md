@@ -7,10 +7,10 @@ title: "Argument_Rowe_2023_ECNUROE"
 argument_key: "Argument_Rowe_2023_ECNUROE"
 argument_display_title: "Philanthrocapitalism and the state: Mapping the rise of venture philanthropy in public education in Australia"
 argument_kind: "journal-article"
-argument_related_count: 49
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#dbeafe"
+argument_related_count: 50
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: "ECNU Review of Education"
 authors:
   - "Rowe, E. E."
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Policy Mobility]]"
   - "[[Professional Judgment]]"
+  - "[[Alienation]]"
   - "[[Research Ethics]]"
 related_theories:
   - "[[Actor-Network Theory]]"
@@ -90,7 +91,7 @@ sources:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 ---
 
@@ -332,7 +333,7 @@ SVA 作为政策网络中枢，凭借严密的法人架构与跨国金融咨询�
 > [!finding-cards] 核心发现
 > 1. **[[Venture Philanthropy\|风险慈善]]的本质是追求回报的商业投资** 确证在澳大利亚崛起的风险慈善绝非单纯道德赠款，而是追求国家委员会任命、政策影响力与商业咨询利益的[[Philanthrocapitalism\|慈善资本主义]]实践。
 > 2. **[[Social Ventures Australia\|SVA]] 成功装配三大国家级教育中介实体** 揭示 SVA 在过去二十年间作为[[Policy Network\|政策网络]]中枢，系统孵化了 [[Australian Schools Plus\|Schools Plus]]、[[Evidence for Learning\|E4L]] 与 [[Australian Education Research Organisation\|AERO]]，全面渗透学校筹款、循证工具包与国家教育科研体制。
-> 3. **国家再分配形态发生异化与公共财政倒流** 实证发现 SVA 从政府吸纳的直接财政拨款（121.6 万澳元）远高于其对外发放的赠款（62.5 万澳元，仅占 51%），公共税收反向补贴了非营利机构的咨询业务与行政开销。
+> 3. **国家再分配形态发生[[Alienation|异化]]与公共财政倒流** 实证发现 SVA 从政府吸纳的直接财政拨款（121.6 万澳元）远高于其对外发放的赠款（62.5 万澳元，仅占 51%），公共税收反向补贴了非营利机构的咨询业务与行政开销。
 > 4. **制度性保密与旋转门严重架空民主问责** 披露了 SVA 获得的 1500 万澳元保密政府资助以及董事会在投行、咨询公司与高级官僚之间的无缝切换，批判其对公共民主审议的破坏。
 
 > [!stat-cards]- 核心数据

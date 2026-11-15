@@ -6,7 +6,7 @@ aliases:
 summary: "围绕证据本位教育（EBE）的认识论前提、方法论基础、实施效果和政治后果形成的多维度批评体系，涵盖民主缺陷、三重缺陷框架、方法论批评、制度政治批评及综合批判框架"
 type: concept
 domain: "educational-policy-reform"
-related_count: 94
+related_count: 95
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[New Public Management]]"
   - "[[Clinical Trial]]"
+  - "[[Alienation]]"
   - "[[Bureaucracy]]"
   - "[[Material Fallacies]]"
   - "[[Policy Borrowing]]"
@@ -118,7 +119,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -245,7 +246,7 @@ updated: 2026-11-11
 
 ---
 
-> [!concept-proposition] 命题四｜证据在政策网络中异化为官僚[[Rationalized Myth|合理化神话]]与[[Policy-Based Evidence-Making|基于政策的证据制造]]
+> [!concept-proposition] 命题四｜证据在政策网络中[[Alienation|异化]]为官僚[[Rationalized Myth|合理化神话]]与[[Policy-Based Evidence-Making|基于政策的证据制造]]
 > **政治经济学与[[Epistemic Governance\|知识治理]]异化** 揭示证据如何在国家政策网络中被官僚机构仪式化使用，演化为维护既定路线的辩护护符。
 
 > [!claim] [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]]

@@ -7,7 +7,7 @@ aliases:
 summary: "学生与教师在教育实践与微观课堂互动中建构的情感支持、道德信任与指导性交往联结。它既是学习参与、心理安全感与学业投入的关键生态条件，也是承载不同文化学习信念与社会资本转化的核心关系中介。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 57
+related_count: 58
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Study Abroad]]"
   - "[[Going Native]]"
+  - "[[Alienation]]"
   - "[[Cultural Disembedding]]"
   - "[[Paradigm]]"
   - "[[Pure Evaluation]]"
@@ -86,7 +87,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-06'
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 > [!def] Student-Teacher Relationship
@@ -175,7 +176,7 @@ updated: 2026-11-14
 > > 探讨将师生关系作为标准化技术指标还是复杂人际生态的分歧。
 > >
 > > - **绩效与标准化取向** 主张将师生关系作为可操作、可评级与可标准化的干预[[Independent Variable|自变量]]，通过教师培训量化提升师生互动行为指标。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 235)]]
-> > - **[[Critical Realism|批判实在论]]与制度反思取向** [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 与 [[Argument_Eacott_2017_SLM|Eacott (2017)]] 指出，师生关系深嵌于复杂的开放系统与微观文化脉络之中，休谟式的恒常因果观无法涵盖其深层机制；在新自由主义绩效管理与自上而下的技术官僚规训下，强行将师生交往指标化容易导致教学劳动去专业化、师生情感异化与学校[[Cultural Disembedding|文化脱嵌]]。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 193)]]; [[Argument_Eacott_2017_SLM|(Eacott, 2017, p. 216)]]
+> > - **[[Critical Realism|批判实在论]]与制度反思取向** [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 与 [[Argument_Eacott_2017_SLM|Eacott (2017)]] 指出，师生关系深嵌于复杂的开放系统与微观文化脉络之中，休谟式的恒常因果观无法涵盖其深层机制；在新自由主义绩效管理与自上而下的技术官僚规训下，强行将师生交往指标化容易导致教学劳动去专业化、师生情感[[Alienation|异化]]与学校[[Cultural Disembedding|文化脱嵌]]。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 193)]]; [[Argument_Eacott_2017_SLM|(Eacott, 2017, p. 216)]]
 >
 > > [!critique] 外部学术批判
 > > - **评价[[Paradigm|范式]]对教育交往本体的降维** [[Argument_Rømer_2018_EPT|Rømer (2018)]] 从[[Didaktik|欧陆教学论]]与教化传统出发，批判可见学习将师生关系降维为提升[[Effect Size|效应量]]的输入工具；在[[Pure Evaluation|纯粹评价]]逻辑下，教师退化为依据学生反馈调控自身效果的技术员，学生则被格式化为自我监控的操作员，致使师生间作为文化世代传承与主体间相遇的实质伦理纽带被技术指标全面消解。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 3–4, 6–8)]]

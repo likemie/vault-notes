@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 54
+fact_related_count: 56
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -38,11 +38,13 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Discourse]]"
   - "[[Learning Styles]]"
+  - "[[Mimesis]]"
   - "[[School Inspection]]"
   - "[[Class Size]]"
   - "[[Professional Judgment]]"
   - "[[Empiricism]]"
   - "[[Research Utilization]]"
+  - "[[Alienation]]"
   - "[[Evidence Ecosystem]]"
   - "[[Interpretive Validity]]"
   - "[[Educational Brokerage Agency]]"
@@ -85,7 +87,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -174,7 +176,7 @@ updated: 2026-10-30
 > | **英国教育捐赠基金会（EEF）** | 资金 / 信息 / 组织网络 | 缩小处境不利学生学业差距，确立[[Evidence Standards\|证据标准]]权威 | 支持 | 运作留本基金、资助 [[Randomised Controlled Trials\|RCT]]、编制工具包、建构[[Research Schools Network\|研究学校网络]] |
 > | **教育标准局（Ofsted）** | 法定督导权威 / 评级惩处权 | 维护国家学校质量监管秩序与法定标准合规 | 审慎 / 潜在冲突 | 依据自定督导框架巡查学校，曾推荐与 EEF 实证矛盾的实践（如[[Learning Styles\|学习风格]]） |
 > | **中小学校长与一线教师** | 专业实践自主权 / 时间精力 | 应对高利害督导过关、提升教学实效与学生成绩 | 分化（审慎支持至被动应付） | 依赖工具包快速筛选干预，但面临消化时间缺乏与情境化困难 |
-> | **商业培训与教材供应商** | 市场资本 / 营销网络 | 维系商业产品采购份额与利润最大化 | 抵触 / 策略适应 | 游说地方学区，模仿学术词汇包装未经检验的产品 |
+> | **商业培训与教材供应商** | 市场资本 / 营销网络 | 维系商业产品采购份额与利润最大化 | 抵触 / 策略适应 | 游说地方学区，[[Mimesis\|模仿]]学术词汇包装未经检验的产品 |
 
 > [!tension]- 制度大系统冲突与机制衔接张力
 >
@@ -232,7 +234,7 @@ updated: 2026-10-30
 
 > [!warning] 实施局限与现实张力
 > - **与教育标准局（[[Ofsted]]）高利害督导的机制冲突** 政府机构（尤其是 Ofsted）有时支持了与 EEF 证据相矛盾的教学实践（如[[Learning Styles|学习风格]]理论），且学校管理层首要关注应对督导达标，使循证建议面临被边缘化排斥的风险。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 37–38)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 150–151)]]
-> - **工具包在基层的机械误读与去情境化** [[EEF Teaching and Learning Toolkit\|EEF Toolkit]] 发布初期，部分学校误读助教研究结论甚至计划直接裁撤助教，反映出实践者在缺乏情境化陪伴指导时极易将抽象研究结论异化为教条。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 40)]]
+> - **工具包在基层的机械误读与去情境化** [[EEF Teaching and Learning Toolkit\|EEF Toolkit]] 发布初期，部分学校误读助教研究结论甚至计划直接裁撤助教，反映出实践者在缺乏情境化陪伴指导时极易将抽象研究结论[[Alienation|异化]]为教条。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 40)]]
 > - **一线专业人员参与度与双向互动不足** 工具包长期被一线教师感知为单向输出的静态“产品”而非共创平台，缺乏一线实践者深度参与前期方案设计的制度渠道。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 21–22)]]
 > - **政治时间窗口与科研周期的根本脱节** 政治决策窗口往往以周计算，而严谨[[Systematic Review\|系统综述]]与实证研究动辄数月至数年，造成政策出台与证据生产的时间严重脱节。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 151)]]
 

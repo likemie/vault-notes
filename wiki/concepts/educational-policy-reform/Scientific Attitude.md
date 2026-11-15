@@ -10,7 +10,7 @@ aliases:
 summary: "指个体与公众在面对自然现象、实证证据与公共决策时所秉持的理性探究倾向与价值取向，涵盖实证怀疑、拥抱不确定性、开放反思等认识论心智，并在历史教育改革（如1920年代民国新教育）与现代公众科学态度调查（如PAS 2025）中扮演核心话语功能。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Public Engagement with Science]]"
   - "[[Reflective Thinking]]"
   - "[[Epoché]]"
+  - "[[Alienation]]"
   - "[[Variable]]"
   - "[[Pragmatism in China]]"
   - "[[Discourse]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -197,7 +198,7 @@ updated: 2026-11-11
 > > - **现代公众参与理论与皇家学会（2026c）** 强调科学态度是双向的，科学家同样需要倾听公众对伦理、生态与社会影响的关切。
 
 > [!warning] 适用局限
-> 科学态度必须与具体的社会文化情境相结合。若将科学态度抽离民主监督与人文关怀，容易异化为冷酷的技术官僚主义或将所有社会争议简化为技术参数的[[Scientism\|科学主义]]。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p. 622]]）
+> 科学态度必须与具体的社会文化情境相结合。若将科学态度抽离民主监督与人文关怀，容易[[Alienation|异化]]为冷酷的技术官僚主义或将所有社会争议简化为技术参数的[[Scientism\|科学主义]]。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p. 622]]）
 
 ---
 

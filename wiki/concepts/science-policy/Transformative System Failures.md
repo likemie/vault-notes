@@ -10,10 +10,10 @@ aliases:
 summary: "指阻碍创新系统自发实现社会技术转型与应对重大挑战的四类根本性制度失灵"
 type: concept
 domain: "science-policy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/science-policy
   - innovation-policy
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Reflexive Governance]]"
   - "[[Problem Finding]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Evolutionary Economics]]"
@@ -46,7 +47,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -150,7 +151,7 @@ updated: 2026-11-03
 > - **1962 — [[Market Failure|市场失灵理论]]确立** 肯尼斯·阿罗（Kenneth Arrow）阐释研发活动的外部性与不确定性，确立第一代创新政策的补贴与知识产权逻辑。
 > - **1990s–2000s — 结构性系统失灵提出** [[Evolutionary Economics|演化经济学]]家提出国家[[Systems of Innovation|创新系统]]框架，聚焦组织间网络联系薄弱与制度基础设施不足等第二代失灵。
 > - **2012 — 变革性系统失灵正式建构** 韦伯与罗拉赫在 *Research Policy* 提出涵盖方向性、需求表达、协调与[[Reflexivity|反思性]]的四大失灵框架，奠定第三代转型创新政策理论基础。
-> - **2020 — 使命政策空间与动态路径整合** 万岑伯克等人将四大失灵融入问题–解决方案空间，提出通过差异化汇合路径克服特定系统失灵的治理策略。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 475–485)]]
+> - **2020 — 使命政策空间与动态路径整合** 万岑伯克等人将四大失灵融入问题–解决方案空间，提出通过差[[Alienation|异化]]汇合路径克服特定系统失灵的治理策略。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 475–485)]]
 
 ---
 

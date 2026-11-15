@@ -10,7 +10,7 @@ aliases:
 summary: "指学生在学年中途频繁跨校转学的非正常流动形态。在政策问责话语中常被病理化为家庭贫困、失范与学业落后的表征，甚至被学校作为未达成问责目标的免责借口；实证研究则揭示其主要受住房居住变迁驱动，并构成底层家庭逃离校园暴力与劣质教学的主动避险策略。"
 type: concept
 domain: "sociology-of-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Sedentarism]]"
   - "[[Discourse]]"
   - "[[Student Mobility]]"
+  - "[[Alienation]]"
   - "[[Cultural Capital]]"
   - "[[Migrant Education]]"
   - "[[Migrant Children]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -64,7 +65,7 @@ updated: 2026-11-03
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向在既定学制周期内部发生的非计划性、突发性跨校迁移，聚焦空间不稳定移动与学校科层考核之间的碰撞。
-> - **用途** 帮助研究者透视教育政策话语如何将结构性阶层困境（如租房动荡、就业不稳）转化为个体家庭的道德缺陷，解构绩效问责制将生源流动用作学校免责借口的制度异化。
+> - **用途** 帮助研究者透视教育政策话语如何将结构性阶层困境（如租房动荡、就业不稳）转化为个体家庭的道德缺陷，解构绩效问责制将生源流动用作学校免责借口的制度[[Alienation|异化]]。
 > - **边界** 严格区别于具有制度保障与[[Cultural Capital|文化资本]]增值意味的自愿跨国/跨校交流（如 [[Student Mobility]]、[[Erasmus Programme]]），亦有别于跨区域农业季节工随迁（[[Migrant Education]]）。
 
 > [!citation-card] 话语病理化与道德定性

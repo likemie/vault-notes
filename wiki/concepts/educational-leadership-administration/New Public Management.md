@@ -7,7 +7,7 @@ aliases:
 summary: "以企业管理与市场竞争逻辑重塑公共部门的治理范式，强调绩效指标、产出控制、性价比核算、供给竞争与服务外包；经合组织等借“良治”话语将教育治理从目的辩论置换为投入产出效率与比较绩效远处掌舵，在带来微观成本控制的同时导致公共部门去技能化与创新治理的青蛙视角。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 93
+related_count: 94
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Study Abroad]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Evidence Era]]"
+  - "[[Alienation]]"
   - "[[Rationalized Myth]]"
   - "[[Policy-Based Evidence-Making]]"
   - "[[Research Universities]]"
@@ -120,7 +121,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -219,7 +220,7 @@ updated: 2026-11-11
 
 ---
 
-> [!concept-proposition] 命题三｜新公共管理在[[Evidence Era|证据时代]]将循证实践异化为推行性价比核算与集中监控的[[Rationalized Myth|合理化神话]]
+> [!concept-proposition] 命题三｜新公共管理在[[Evidence Era|证据时代]]将循证实践[[Alienation|异化]]为推行性价比核算与集中监控的[[Rationalized Myth|合理化神话]]
 > **教师教育准入与证据政治化** 揭示 NPM 如何在教师教育领域借循证实践之名推行市场化分权，并在深层维系中央集权的远程监控。
 
 > [!claim] [[Argument_Helgetun_2022_JEdPolicy|Helgetun and Menter (2022)]]

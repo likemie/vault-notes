@@ -7,7 +7,7 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 134
+related_count: 136
 related_level: 13
 related_stars: "💎💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Educational Meliorism]]"
   - "[[Commensuration]]"
+  - "[[Mimesis]]"
   - "[[Center of Calculation]]"
   - "[[Policy Mobility]]"
   - "[[Cross-National Attraction]]"
@@ -46,6 +47,7 @@ related_concepts:
   - "[[Performance Pay]]"
   - "[[Policy Avoidance]]"
   - "[[Chain of Evidence]]"
+  - "[[Alienation]]"
   - "[[Quasi-market]]"
   - "[[School Choice]]"
   - "[[Re-Westernisation]]"
@@ -161,7 +163,7 @@ related_arguments:
 confidence: high
 status: stable
 created: '2026-05-01'
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -222,7 +224,7 @@ updated: 2026-11-14
 > | 维度 | 本概念：政策借用（Policy Borrowing） | [[World Society Theory\|世界文化理论]] | 政策转移（Policy Transfer） | [[Assemblage\|政策装配]]与拓扑重组（Policy Assemblage） |
 > |---|---|---|---|---|
 > | **分析对象** | 本地决策者的主动修辞与政治合法化过程 | 全球教育规范的扩散与长期标准化趋同 | 中立的最佳实践跨国移植与文本搬运 | 人类与非人类技术构成的社会-物质复合网络 |
-> | **核心机制** | 选择性借用、**[[Externalization\|外化]]**、合法化功能与**形态变异** | 规范的内化、仪式性模仿与世界文化扩散 | 技术性引进、跨国复制与直接政策落地 | 跨尺度数据流动、算法[[Commensuration\|通约]]与时空折叠 |
+> | **核心机制** | 选择性借用、**[[Externalization\|外化]]**、合法化功能与**形态变异** | 规范的内化、仪式性[[Mimesis\|模仿]]与世界文化扩散 | 技术性引进、跨国复制与直接政策落地 | 跨尺度数据流动、算法[[Commensuration\|通约]]与时空折叠 |
 > | **空间假设** | 基于民族国家领土边界的跨国参照 | 均质扩散的全球空间体系 | 扁平的双边或多边地理空间 | 突破领土尺度的[[Topological Spatialisation\|拓扑空间化]]网络 |
 > | **技术中介** | 政策文本、考察报告与官方辩论[[Discourse\|话语]] | 国际条约、组织成员资格与仪式性表态 | 政策工具包、培训手册与专家指导 | 数据库、题库、算法模型与[[Center of Calculation\|计算中心]] |
 > | **适用边界** | 仅适用于决策需要国内合法化协商的语境 | 侧重长期宏观趋同，低估短期地方能动性 | 预设理性决策，忽视[[Policy Mobility\|政策流动]]的政治性 | 适用于高度数字化与[[Data Infrastructure\|数据基础设施]]普及的治理情境 |
@@ -390,7 +392,7 @@ updated: 2026-11-14
 > **[[Mediatised Governance|媒介化治理]]与跨国借用的遗漏话语操作** 当代跨国政策借用不仅依赖官方文本，更演化为政治精英操纵个人与体制媒介资本的公关战。在英格兰 2013 年教师[[Performance Pay|绩效工资]]制（Performance-Related Pay, PRP）改革中，教育大臣动用新闻首发特权，高调借用 PISA 评估中的上海高分样板与 OECD 专家言论，声称重奖优秀教师是全球前沿趋势。然而，这一借用过程在[[Epistemology|认识论]]上严重依赖“遗漏话语（discourse of omission）”：系统性剔除经合组织全样本数据中“绩效工资与成绩无相关性”的核心事实，并掩盖上海依托教研组开展专业合作的制度真貌。大众媒介出于时效与流量压力集体陷入[[Policy Avoidance|政策规避]]（policy avoidance），未对借用主张的真实[[Chain of Evidence|证据链]]展开实质审查，从而使缺乏本土民意授权与科学依据的激进私有化议程成功披上了国际循证的合法化外衣。
 
 > [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
-> **策略性外在化与差异化本土借用模式** 索蒂里亚·格雷克（[[Sotiria Grek]]）在实证比较英格兰、苏格兰、德国与芬兰对 PISA 测评的政策反响时指出，跨国政策借用是决策者操纵外部世界情境以平息国内争议的“策略性外在化”（strategic externalization）机制（pp. 34–35）。各国借用模式深受本土权力结构制约：德国借助低排位制造“丑闻化（scandalisation）”以冲破各州长期僵局并确立联邦国家标准；英格兰借助高排位为其[[Quasi-market|准市场]][[School Choice|择校]]与高利害问责模式确立合法性依据并压制阶级不平等质疑；苏格兰则将良好排位作为确证教师专业自决的制度护盾以主动抵御来自英格兰的政策移植；而[[EU|欧盟]]委员会则将芬兰经验提炼为“同伴学习”的可移植处方。跨国测评数据因而成为政策行动者依循各自政治逻辑按需裁量、用于平息辩论与确立国内合法性的多功能工具。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 28–32, 34–35)]]
+> **策略性外在化与差[[Alienation|异化]]本土借用模式** 索蒂里亚·格雷克（[[Sotiria Grek]]）在实证比较英格兰、苏格兰、德国与芬兰对 PISA 测评的政策反响时指出，跨国政策借用是决策者操纵外部世界情境以平息国内争议的“策略性外在化”（strategic externalization）机制（pp. 34–35）。各国借用模式深受本土权力结构制约：德国借助低排位制造“丑闻化（scandalisation）”以冲破各州长期僵局并确立联邦国家标准；英格兰借助高排位为其[[Quasi-market|准市场]][[School Choice|择校]]与高利害问责模式确立合法性依据并压制阶级不平等质疑；苏格兰则将良好排位作为确证教师专业自决的制度护盾以主动抵御来自英格兰的政策移植；而[[EU|欧盟]]委员会则将芬兰经验提炼为“同伴学习”的可移植处方。跨国测评数据因而成为政策行动者依循各自政治逻辑按需裁量、用于平息辩论与确立国内合法性的多功能工具。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 28–32, 34–35)]]
 
 ---
 

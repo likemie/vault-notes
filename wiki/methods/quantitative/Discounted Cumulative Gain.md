@@ -9,7 +9,7 @@ summary: "信息科学与科学计量学中用于度量排序结果质量或聚�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 11
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Hot Streak]]"
   - "[[Document]]"
+  - "[[Alienation]]"
   - "[[Emergence]]"
 related_theories:
   - "[[Constant-Probability-of-Success Model]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-04
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -174,7 +175,7 @@ updated: 2026-11-11
 ---
 
 > [!method-limits] 方法局限
-> - **偏误来源** 对排序首位（$i=1$）成果赋予极高权重，若顶尖成果存在数据提取错误或偶然共引异化，总得分受其单项波动牵动较深。
+> - **偏误来源** 对排序首位（$i=1$）成果赋予极高权重，若顶尖成果存在数据提取错误或偶然共引[[Alienation|异化]]，总得分受其单项波动牵动较深。
 > - **适用边界** 依赖于可连续排序的定量基准；在成果影响力差距极小或呈均匀分布时，折损加权优势不明显。
 > - **误用风险** 盲目将包含大量负值的巩固型指标（如 $D < 0$）直接代入，导致代数相消歪曲事实；未做对数压缩直接代入超高引爆文，造成分母折损失效。
 > - **补救方式** 正负指标分离计算；长尾指标前置对数变换；结合理想排序基准（IDCG）计算归一化得分 NDCG。

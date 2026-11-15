@@ -10,9 +10,9 @@ subtype: event
 region: germany
 fact_region: "germany"
 fact_kind: "event"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 12
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
   - region/germany
@@ -20,8 +20,11 @@ tags:
   - theme/romanticism
   - theme/idealism
 related_concepts:
+  - "[[Philosophical Aesthetics]]"
+  - "[[Paradigm]]"
   - "[[Romantic Fragment]]"
   - "[[Romantic Irony]]"
+  - "[[Epistemology]]"
 related_theories:
   - "[[Schelling's Aesthetics]]"
 related_methods: []
@@ -29,7 +32,9 @@ related_instruments: []
 related_persons:
   - "[[Friedrich Wilhelm Joseph Schelling]]"
   - "[[Friedrich Schlegel]]"
+  - "[[Martin Luther]]"
   - "[[Johann Gottlieb Fichte]]"
+  - "[[Immanuel Kant]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch04]]"
@@ -42,12 +47,12 @@ updated: 2026-11-15
 ---
 
 > [!claim] 核心定性
-> 耶拿浪漫派（Jena Romantics）是 18 世纪末期（约 1798–1800 年）以德国耶拿为中心形成的一批早期浪漫主义作家与哲学家朋友圈。该群体将艺术视为完成哲学探索与弥补理性局限的必要通道，在 1798 至 1800 年间深刻塑造了[[Friedrich Wilhelm Joseph Schelling|谢林]]（Friedrich Wilhelm Joseph Schelling）《先验唯心论体系》（1800）中的美学立场，并随即于 1800 年因内部婚恋丑闻而解体。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62, 65–66)]]
+> 耶拿浪漫派（Jena Romantics）是 18 世纪末期（约 1798–1800 年）以德国耶拿为中心形成的一批早期浪漫主义作家与哲学家朋友圈。该群体将艺术视为完成哲学探索与弥补理性局限的必要通道，在 1798 至 1800 年间深刻塑造了谢林（[[Friedrich Wilhelm Joseph Schelling]]）《先验唯心论体系》（1800）中的[[Philosophical Aesthetics|美学]]立场，并随即于 1800 年因内部婚恋丑闻而解体。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62, 65–66)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 约 1798 至 1800 年，德国耶拿（耶拿大学周边知识圈）。
-> - **核心当事主体** [[Friedrich Schlegel|弗里德里希·施莱格尔]]（Friedrich Schlegel）、奥古斯特·威廉·施莱格尔（August Wilhelm Schlegel）、卡罗琳·施莱格尔（Caroline Schlegel）、路德维希·蒂克（Ludwig Tieck）、弗里德里希·施莱尔马赫（Friedrich Schleiermacher）、多萝西娅·法伊特（Dorothea Veit）、戈特希尔夫·海因里希·舒伯特（Gotthilf Heinrich Schubert）以及[[Friedrich Wilhelm Joseph Schelling|谢林]]；[[Johann Gottlieb Fichte|费希特]]（Johann Gottlieb Fichte）与歌德（Johann Wolfgang von Goethe）亦为耶拿时期的关键外部关联人物。
-> - **深层思想背景** 群体在 1798 年由歌德力挺 24 岁的谢林出任耶拿大学教授并与费希特共事的学术环境中凝聚成型，共享对康德主客二元论的克服诉求以及对艺术作为哲学最高补充的推崇。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 64–66)]]
+> - **核心当事主体** [[Friedrich Schlegel|弗里德里希·施莱格尔]]（Friedrich Schlegel）、奥古斯特·威廉·施莱格尔（August Wilhelm Schlegel）、卡罗琳·施莱格尔（Caroline Schlegel）、[[Martin Luther|路德]]维希·蒂克（Ludwig Tieck）、弗里德里希·施莱尔马赫（Friedrich Schleiermacher）、多萝西娅·法伊特（Dorothea Veit）、戈特希尔夫·海因里希·舒伯特（Gotthilf Heinrich Schubert）以及谢林；[[Johann Gottlieb Fichte|费希特]]（Johann Gottlieb Fichte）与歌德（Johann Wolfgang von Goethe）亦为耶拿时期的关键外部关联人物。
+> - **深层思想背景** 群体在 1798 年由歌德力挺 24 岁的谢林出任耶拿大学教授并与费希特共事的学术环境中凝聚成型，共享对[[Immanuel Kant|康德]]主客二元论的克服诉求以及对艺术作为哲学最高补充的推崇。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 64–66)]]
 
 ---
 
@@ -59,7 +64,7 @@ updated: 2026-11-15
 ---
 
 > [!indicators] 历史影响维度
-> - **思想范式变迁** 确立了以[[Romantic Fragment|浪漫派断片]]、[[Romantic Irony|浪漫反讽]]与艺术认识论为核心的早期浪漫派美学范式；即便该群体内部多对哲学体系抱持矛盾态度，仍整体将艺术推尊为哲学探索的必要完成环节。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62–63, 66)]]
+> - **思想[[Paradigm|范式]]变迁** 确立了以[[Romantic Fragment|浪漫派断片]]、[[Romantic Irony|浪漫反讽]]与艺术[[Epistemology|认识论]]为核心的早期浪漫派美学范式；即便该群体内部多对哲学体系抱持矛盾态度，仍整体将艺术推尊为哲学探索的必要完成环节。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62–63, 66)]]
 
 ---
 

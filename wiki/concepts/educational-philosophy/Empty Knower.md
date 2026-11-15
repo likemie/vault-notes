@@ -7,7 +7,7 @@ aliases:
 summary: "黑格尔主义教育哲学中的一个学生隐喻，指在尚未填充具体课程内容时虽缺乏实质知识储备，但被设想为天然具备理性精神潜能，能够通过辩证否定走向绝对精神的认知主体。"
 type: concept
 domain: "educational-philosophy"
-related_count: 15
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,7 +17,9 @@ tags:
 related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
+  - "[[Alienation]]"
   - "[[Empiricism]]"
+  - "[[Absolute Spirit]]"
   - "[[Big Ideas]]"
   - "[[Knowledge Questions]]"
   - "[[Reflexivity]]"
@@ -39,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-13
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -49,11 +51,11 @@ updated: 2026-11-03
 
 > [!concept-lens] 概念透镜
 > - **含义** 这个概念指向课程设计中将学生预设为缺乏实质内容、充满理性精神、能够通过外部指引走向普遍真理的认知主体。（p.212）
-> - **用途** 它帮助课程研究者透视传统理性主义和应试导向课程如何将学生异化为被动填充、机械质疑的符号表演工具。（pp.212–213）
+> - **用途** 它帮助课程研究者透视传统理性主义和应试导向课程如何将学生[[Alienation|异化]]为被动填充、机械质疑的符号表演工具。（pp.212–213）
 > - **边界** 它不适合解释强调具身经验、欲望流动和情感参与的学习过程，容易与[[Empiricism\|经验主义]]的白板说混淆。（p.212）
 
 > [!boundary]- 概念边界
-> - **有别于洛克的白板说（Tabula Rasa）** 洛克的白板说认为学生完全被动地接受环境刺激和信息累积，而空无的认知者在黑格尔哲学中被设定为理性的、自我导向的，具有通过体验进行辩证否定以追求绝对精神（Absolute Spirit）的主动精神潜能。（p.212）
+> - **有别于洛克的白板说（Tabula Rasa）** 洛克的白板说认为学生完全被动地接受环境刺激和信息累积，而空无的认知者在黑格尔哲学中被设定为理性的、自我导向的，具有通过体验进行辩证否定以追求[[Absolute Spirit|绝对精神]]（Absolute Spirit）的主动精神潜能。（p.212）
 
 ---
 

@@ -19,7 +19,6 @@ tags:
   - educational-governance
 related_concepts:
   - "[[Contributory Expertise]]"
-  - "[[Refined Mastery]]"
   - "[[Reliability]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Discourse]]"
@@ -30,6 +29,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[School Leadership]]"
   - "[[Reflexivity]]"
+  - "[[Alienation]]"
   - "[[Performativity]]"
   - "[[Evidence-Based Education]]"
   - "[[Policy Network]]"
@@ -43,13 +43,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Interactional Expertise
-> 交互型专长（Interactional Expertise）是科学知识社会学与专长社会学中的核心概念，最初由柯林斯（Harry Collins）与埃文斯（Robert Evans）在专长周期表理论中提出，后经埃亚尔（Gil Eyal）拓展至公共领域专长研究。该概念指行动者虽不具备在实践现场直接操作、解决偶发性情境问题的默会[[Contributory Expertise\|贡献型专长]]，但能够[[Refined Mastery\|精通]]该专业领域的语言、概念工具与论辩规则，从而足以与专业人员进行深入交流、转译研究发现、评估证据[[Reliability\|可靠性]]并向外部公众和政策制定者推广通用行动原则。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 7–8)]]
+> 交互型专长（Interactional Expertise）是科学知识社会学与专长社会学中的核心概念，最初由柯林斯（Harry Collins）与埃文斯（Robert Evans）在专长周期表理论中提出，后经埃亚尔（Gil Eyal）拓展至公共领域专长研究。该概念指行动者虽不具备在实践现场直接操作、解决偶发性情境问题的默会[[Contributory Expertise\|贡献型专长]]，但能够精通该专业领域的语言、概念工具与论辩规则，从而足以与专业人员进行深入交流、转译研究发现、评估证据[[Reliability\|可靠性]]并向外部公众和政策制定者推广通用行动原则。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 7–8)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向脱离现场具体物理操作与具身手艺、以语言和符号体系为媒介的专门知识与转译说服能力。
@@ -117,7 +117,7 @@ updated: 2026-11-03
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **合法性构建机制** | 依赖修辞论辩、技术客观性与方法学权威 | 政策咨询、智库评估与跨界转译 | Collins & Evans; Eyal |
-> | **治理生态与异化** | 市场化环境导致交互专长商品化与[[Performativity\|表演性]]应用 | [[Evidence-Based Education\|循证教育]]改革、问责制下的学校改进 | Kelly et al. |
+> | **治理生态与[[Alienation\|异化]]** | 市场化环境导致交互专长商品化与[[Performativity\|表演性]]应用 | [[Evidence-Based Education\|循证教育]]改革、问责制下的学校改进 | Kelly et al. |
 
 ---
 

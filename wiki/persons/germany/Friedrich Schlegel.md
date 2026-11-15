@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 11
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,12 +25,14 @@ tags:
   - theme/aesthetics
   - theme/romanticism
 related_concepts:
+  - "[[Romantic Fragment]]"
   - "[[Romantic Irony]]"
   - "[[New Mythology]]"
   - "[[Epoché]]"
   - "[[Discourse]]"
 related_persons:
   - "[[Friedrich Wilhelm Joseph Schelling]]"
+  - "[[Novalis]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Søren Kierkegaard]]"
   - "[[Socrates]]"
@@ -38,6 +40,9 @@ related_persons:
   - "[[Immanuel Kant]]"
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch04]]"
+related_facts:
+  - "[[Oldest Systematic Program of German Idealism]]"
+  - "[[Jena Romantics]]"
 confidence: high
 status: draft
 created: "2026-11-15"
@@ -48,7 +53,7 @@ updated: 2026-11-15
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国哲学家与文艺理论家（1772–1829），耶拿早期浪漫派的核心代表人物。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62, 65)]]
-> - **核心角色** 在怀疑概念知识能否把握总体性的前提下，以“断片”（Fragment）形式取代封闭体系，并系统阐述[[Romantic Irony|浪漫反讽]]与[[New Mythology|新神话]]作为哲学与艺术之间的中介机制。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62–63, 76–77, 83–84)]]
+> - **核心角色** 在怀疑概念知识能否把握总体性的前提下，以“断片”（[[Romantic Fragment|Fragment]]）形式取代封闭体系，并系统阐述[[Romantic Irony|浪漫反讽]]与[[New Mythology|新神话]]作为哲学与艺术之间的中介机制。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62–63, 76–77, 83–84)]]
 > - **代表贡献** 发展[[Romantic Irony|浪漫反讽]]理论，并以《神话演讲》（1800）推动早期浪漫派的[[New Mythology|新神话]]纲领。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 76–77, 83–84)]]
 
 > [!citation-card] 体系的悖论：有体系与无体系同样致命
@@ -60,14 +65,14 @@ updated: 2026-11-15
 
 > [!timeline] 生平与职涯
 > - **1772** 出生于德国。
-> - **1798–1800** 与兄长奥古斯特·威廉·施莱格尔（August Wilhelm Schlegel）、卡罗琳·施莱格尔（Caroline Schlegel）、谢林（[[Friedrich Wilhelm Joseph Schelling]]）、诺瓦利斯（Novalis）等人组成耶拿早期浪漫派朋友圈；1800 年发表《关于诗的对话》，其中包含《神话演讲》。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 65, 76–77)]]
+> - **1798–1800** 与兄长奥古斯特·威廉·施莱格尔（August Wilhelm Schlegel）、卡罗琳·施莱格尔（Caroline Schlegel）、谢林（[[Friedrich Wilhelm Joseph Schelling]]）、[[Novalis|诺瓦利斯]]（Novalis）等人组成耶拿早期浪漫派朋友圈；1800 年发表《关于诗的对话》，其中包含《神话演讲》。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 65, 76–77)]]
 > - **1829** 逝世。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 62)]]
 
 ---
 
 > [!work-line] 主要著作
 > - **1798–1800 — 断片集（*Kritische Ausgabe* 收录）** 拒绝格言式的自我封闭，以指向总体性却又不被封闭体系吞没的断片形式展开哲学思考，提出“自我创造与自我毁灭”的[[Romantic Irony|浪漫反讽]]。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62–63, 83–84)]]
-> - **1800 — 《关于诗的对话》（*Gespräch über die Poesie*）之《神话演讲》（*Rede über die Mythologie*）** 在知悉《德国唯心论最古老的系统纲领》的基础上撰写，不区分诗与神话，主张借由神话提供关于绝对者的审美确定性，通过悬置理性思维规律并将人类带回幻想的优美混沌来联合全人类。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 76–77)]]
+> - **1800 — 《关于诗的对话》（*Gespräch über die Poesie*）之《神话演讲》（*Rede über die Mythologie*）** 在知悉《[[Oldest Systematic Program of German Idealism|德国唯心论最古老的系统纲领]]》的基础上撰写，不区分诗与神话，主张借由神话提供关于绝对者的审美确定性，通过[[Epoché|悬置]]理性思维规律并将人类带回幻想的优美混沌来联合全人类。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 76–77)]]
 
 ---
 
@@ -77,7 +82,7 @@ updated: 2026-11-15
 ---
 
 > [!person-network] 关系网络
-> - **耶拿圈同侪** [[Friedrich Wilhelm Joseph Schelling]] — 耶拿浪漫派核心成员与[[New Mythology|新神话]]构想的共同推动者，但施莱格尔对体系哲学持矛盾态度，谢林则坚守体系理想。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62–63, 65–66, 76–77)]]
+> - **耶拿圈同侪** [[Friedrich Wilhelm Joseph Schelling]] — [[Jena Romantics|耶拿浪漫派]]核心成员与[[New Mythology|新神话]]构想的共同推动者，但施莱格尔对体系哲学持矛盾态度，谢林则坚守体系理想。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62–63, 65–66, 76–77)]]
 > - **批评者** [[Georg Wilhelm Friedrich Hegel]] — 批评施莱格尔式的浪漫反讽是切断现实联系、沉溺自我吹捧的任性自我之症候。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 84)]]
 > - **批评者** [[Søren Kierkegaard]] — 认为施莱格尔式浪漫反讽摧毁了[[Socrates|苏格拉底]]反讽追求真理的严肃性、谦卑与共同体价值共识。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 84–85)]]
 

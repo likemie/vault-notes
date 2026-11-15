@@ -8,7 +8,7 @@ aliases:
 summary: "学习者在知识获取、解释生成与判断辩护等任务中依赖外部系统的认识关系，在人工智能介入下被区分为保有反思质疑的生产性依赖与剥离评价性判断的有害性依赖。"
 type: concept
 domain: "educational-psychology"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Educational Affordances]]"
   - "[[Scaffolding]]"
+  - "[[Alienation]]"
   - "[[Cognitive Offloading]]"
   - "[[Reliability]]"
   - "[[Construct]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -148,7 +149,7 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题二｜四条社会技术路径驱动认识依赖从工具性辅助向[[Evaluative Judgement|评价性判断]]的全面委派异化
+> [!concept-proposition] 命题二｜四条社会技术路径驱动认识依赖从工具性辅助向[[Evaluative Judgement|评价性判断]]的全面委派[[Alienation|异化]]
 > **[[Educational Affordances\|技术可供性]]与制度诱因协同机制** 解构流畅度错觉、[[Cognitive Offloading\|认知卸载]]、信息压缩与高校制度化采购如何合力诱发不可逆的心智依赖。
 
 > [!claim] Du & Yuan

@@ -13,7 +13,7 @@ summary: "一种在预先设定的时间间隔或离散时间点上对特定目�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 23
+method_related_count: 24
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Research Purpose]]"
   - "[[Homework]]"
+  - "[[Alienation]]"
   - "[[Discourse]]"
   - "[[Class Size]]"
   - "[[Construct]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-29
+updated: 2026-11-15
 ---
 
 ---
@@ -131,7 +132,7 @@ updated: 2026-10-29
 
 ## 适用场景
 
-时间抽样技术在不同研究目标与现场条件下面临差异化的适用性判定。
+时间抽样技术在不同研究目标与现场条件下面临差[[Alienation|异化]]的适用性判定。
 
 > [!method-fit] 适用判断
 > - **适合使用** 行为发生频次较高、持续时间相对较长的课堂外显状态（如专注听讲、书写、讨论等[[Time on Task|任务在轨时间]]）；需要控制观察员认知负荷并保障跨国大规模实地实施一致性的场景。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 3–4)]]

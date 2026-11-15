@@ -8,7 +8,7 @@ aliases:
 summary: "学习者跨越主权国界前往境外教育机构开展学分修读、学位攻读或研修实践的物理流动过程。作为第一代跨境教育的主导形态，出国留学是个人积累文化资本与语言技能的教育投资，也是国家培育全球化治理人才与吸纳国际知识要素的重要渠道；在当代高等教育与区域创新生态中，正与中外合作办学及国际教育枢纽等在地国际化路径形成协同。"
 type: concept
 domain: "educational-technology"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Education Export]]"
   - "[[Paradigm]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Imagined Community]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-13
+updated: 2026-11-15
 ---
 
 ---
@@ -148,7 +149,7 @@ updated: 2026-11-13
 > > - **智力外流批判论** 担忧发展中国家最顶尖的高科技与管理人才通过留学滞留发达国家，造成本土公共教育投资流失与核心技术人才断层。
 > > - **智力环流共生论** 强调当代留学生通过跨国联合科研、离岸孵化、短期讲学及返国创业构建起双向流动的智力网络，促进原籍国与全球前沿科技深度融合。
 >
-> > [!axis] 全球视野赋能 vs 文化异化脱嵌
+> > [!axis] 全球视野赋能 vs 文化[[Alienation|异化]]脱嵌
 > > - **世界公民培育论** 认为跨文化留学经历打破了狭隘的民族国家中心主义，塑造包容、多元且具备全球胜任力的公民素养。
 > > - **本土情境脱嵌论** 指出过度西方化的学术训练可能导致部分留学生脱离本土经济与社会实际需求，在返国后出现制度适应不良与知识水土不服。
 

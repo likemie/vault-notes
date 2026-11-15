@@ -7,7 +7,7 @@ aliases:
 summary: "源自拉丁语更好之意且以改善社会与人类境况为根本导向的探究旨趣，是贯穿19世纪比较与国际教育发端的统治性认识论母题"
 type: concept
 domain: "comparative-education"
-related_count: 77
+related_count: 78
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Perpetual Peace]]"
   - "[[Popular Education]]"
+  - "[[Alienation]]"
   - "[[Artefact]]"
   - "[[Policy Borrowing]]"
   - "[[Scientism]]"
@@ -103,7 +104,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ## 定义
@@ -151,7 +152,7 @@ updated: 2026-11-14
 在概念边界界定上，必须将其与实证主义、表面借用及[[Hegemony|文化霸权]]明确区分：
 
 > [!boundary]- 概念边界
-> - 不等于 **脱离语境的纯技术实证主义（Technocratic Positivism）** 战后实证学派片面标榜“价值无涉”，将跨国研究异化为去语境化的数理统计演算；改良主义始终坚守伦理价值导向，经验事实搜集天然服务于构建善好社会与促进人性解放。
+> - 不等于 **脱离语境的纯技术实证主义（Technocratic Positivism）** 战后实证学派片面标榜“价值无涉”，将跨国研究[[Alienation|异化]]为去语境化的数理统计演算；改良主义始终坚守伦理价值导向，经验事实搜集天然服务于构建善好社会与促进人性解放。
 > - 不等于 **外在行为层面的“[[Artefact\|器物]]借用（[[Policy Borrowing\|Educational Borrowing]]）”** “借用”仅是改良主义在特定历史情境下的外部手段与行为表象，未能涵盖改良主义对国家危机化解、全人道德教化与世界和平的深层认识论关怀。
 > - 不等于 **帝国主义教育强权输出（Imperialist Imposition）** 经典改良主义者（如库森、霍勒斯·曼）严厉警惕盲目照搬，强调必须立足本土政治环境与风土民情展开审慎吸收与改造。
 
@@ -187,7 +188,7 @@ updated: 2026-11-14
 > - **唯心主义、历史整体主义与[[Intangible Spiritual Forces|无形精神力量]]的共生互嵌（Idealist & Holistic Meliorism）**
 >   在[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、汉斯与[[Robert Ulich|乌利希]]等古典历史比较学派手中，改良主义与唯心主义哲学（思想观念支配人类行动）、历史整体主义以及不可捉摸的精神力量紧密交织；坚信教育是推动文明进步与道德净化的崇高事业，比较探究的终极抱负在于通过对文化理想与无形力量的人文洞察，促进民族间的精神理解，并在剧烈政治危机中捍卫民主制度的人道主义根基。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 59–60)]]
 > - **四重论述代际演进与批判解放型改良主义（Four [[Discourse]] Generations & Critical-Emancipatory Meliorism）**
->   [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）以两百年学科史为跨度，系统梳理了改良主义形态的四重历史代际演变：从第一代[[Enlightenment|启蒙运动]]下[[Scholiocentric Approach|以校为中心]]（scholiocentric）的“道德教育改良主义”，到第二代萨德勒与坎德尔的“历史-文化哲学有机改良主义”，再到第三代被战[[Postpositivism|后实证主义]]异化为服务国家规划与技术援助的“行政治理[[Social Science as Legitimation Alibi|合法化借口]]（Legitimation Alibi）”；最终在 1970–1990 年代第四代批判冲突[[Paradigm|范式]]（Carnoy, Arnove, Paulston）中升华为“批判解放型改良主义（Critical-Emancipatory Meliorism）”——打破国家中立假设，将改良主义转化为解构资本主义意识形态再生产、揭露文化帝国主义并赋权被压迫阶级参与社会变革的批判解放工程。（pp. 139–156）
+>   [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）以两百年学科史为跨度，系统梳理了改良主义形态的四重历史代际演变：从第一代[[Enlightenment|启蒙运动]]下[[Scholiocentric Approach|以校为中心]]（scholiocentric）的“道德教育改良主义”，到第二代萨德勒与坎德尔的“历史-文化哲学有机改良主义”，再到第三代被战[[Postpositivism|后实证主义]][[Alienation|异化]]为服务国家规划与技术援助的“行政治理[[Social Science as Legitimation Alibi|合法化借口]]（Legitimation Alibi）”；最终在 1970–1990 年代第四代批判冲突[[Paradigm|范式]]（Carnoy, Arnove, Paulston）中升华为“批判解放型改良主义（Critical-Emancipatory Meliorism）”——打破国家中立假设，将改良主义转化为解构资本主义意识形态再生产、揭露文化帝国主义并赋权被压迫阶级参与社会变革的批判解放工程。（pp. 139–156）
 > - **话语流通视阈下的制度性改良主义（Institutional Meliorism in Discourse Circulation）**
 >   在比奇的话语流通五位置模型中，处于位置2的国际组织（[[World Bank|世界银行]]、[[OECD|经合组织]]、[[UNESCO|联合国教科文组织]]）扮演“应用专家”角色，深受制度性改良主义与紧迫[[Pragmatic Paradigm|实用主义]]驱动；为满足项目资助交付与快速见效的政策干预需求，它们将复杂的学术理论进行激进简化与去情境化打包，提炼为高度格式化的全球治理处方（如五大支柱），并以二元地理区隔（发达国家作为最佳实践样板 vs 发展中国家作为缺陷受援方）合理化去语境化政策输出。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–352)]]
 
@@ -354,7 +355,7 @@ updated: 2026-11-14
 > > 针对改良主义在政策实践中的制度化形态，学者反思其外在应用后果：
 > >
 > > - **行政决策改良派（[[Victor Cousin|库森]]、曼等）** 坚信优良制度具有可借鉴性，通过审慎剥离与改造，能够迅速将其转化为重构国家教育机器或打破国内利益僵局的强大动力。
-> > - **批判文化学派（[[Michael Sadler|萨德勒]]、考恩等）** 警示单纯受改良迫切性驱使的[[Policy Borrowing|政策借用]]，极易滑向去语境化的[[Artefact|器物]]主义拼盘；若忽视教育制度与本土文化精神的共生性，势必引发严重的文化排异与制度异化。
+> > - **批判文化学派（[[Michael Sadler|萨德勒]]、考恩等）** 警示单纯受改良迫切性驱使的[[Policy Borrowing|政策借用]]，极易滑向去语境化的[[Artefact|器物]]主义拼盘；若忽视教育制度与本土文化精神的共生性，势必引发严重的文化排异与制度[[Alienation|异化]]。
 >
 > > [!axis] 历史客观语境阐释（实然） vs 规范性社会改良（应然）的认识论张力
 > > 围绕历史探究是否应当从属于现实的制度改良，学界形成了深刻的方法论分歧：

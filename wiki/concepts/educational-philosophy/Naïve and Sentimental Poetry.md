@@ -7,7 +7,7 @@ aliases:
 summary: "席勒1796年提出的美学-历史诗学范畴，将《审美教育书简》的历史发展观应用于诗歌史，区分人类童年期与自然合一的“素朴”和现代人经由理性反思重返理想自然的“感伤”。"
 type: concept
 domain: "educational-philosophy"
-related_count: 10
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,8 +16,10 @@ tags:
   - theme/aesthetics
   - theme/history-of-philosophy
 related_concepts:
-  - "[[Alienation]]"
   - "[[Aesthetic Education]]"
+  - "[[Philosophical Aesthetics]]"
+  - "[[Alienation]]"
+  - "[[The Sublime]]"
   - "[[Aesthetic State]]"
 related_persons:
   - "[[Friedrich Schiller]]"
@@ -28,6 +30,8 @@ related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch03]]"
   - "[[Argument_Hammermeister_2002_Cambridge]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
+related_theories:
+  - "[[Hegel's Aesthetics]]"
 confidence: high
 status: draft
 created: "2026-11-15"
@@ -37,10 +41,10 @@ updated: 2026-11-15
 ---
 
 > [!def] Naïve and Sentimental Poetry
-> 素朴与感伤的诗（Naïve and Sentimental Poetry，德语 *Über naïve und sentimentalische Dichtung*）是[[Friedrich Schiller|弗里德里希·席勒]]（Friedrich Schiller）于 1796 年系统阐发的历史诗学范畴，将《审美教育书简》（1795）中的人类发展阶段论引入文学史分析，区分原初与自然合一的“素朴”状态和现代人经历理性分裂后以艺术重返理想自然的辩证历程。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, pp. 45, 49–50)]]
+> 素朴与感伤的诗（Naïve and Sentimental Poetry，德语 *Über naïve und sentimentalische Dichtung*）是[[Friedrich Schiller|弗里德里希·席勒]]（Friedrich Schiller）于 1796 年系统阐发的历史诗学范畴，将《[[Aesthetic Education|审美教育]]书简》（1795）中的人类发展阶段论引入文学史分析，区分原初与自然合一的“素朴”状态和现代人经历理性分裂后以艺术重返理想自然的辩证历程。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, pp. 45, 49–50)]]
 
 > [!concept-lens|notitle] 概念透镜
-> - **含义** 既是对古代自然统一型文学与现代反思分裂型文学的类型区分，也是把美学规则同人类历史成长阶段结合起来的哲学史模型。
+> - **含义** 既是对古代自然统一型文学与现代反思分裂型文学的类型区分，也是把[[Philosophical Aesthetics|美学]]规则同人类历史成长阶段结合起来的哲学史模型。
 > - **用途** 解释人类为何无法倒退回古希腊的素朴幸福，而必须通过艺术与反思在更高层面上重建感性与理性的统一。
 > - **边界** 在席勒美学体系中，该范畴承接了《审美教育书简》的历史维度，但其“自然—否定—回归理想自然”的辩证图式主要在历史诗学与哲学史层面展开。
 
@@ -54,7 +58,7 @@ updated: 2026-11-15
 > | 维度 | 素朴阶段（古希腊自然状态） | 现代分裂阶段 | 理想回归（艺术之完成） |
 > |------|--------|----------------|----------------|
 > | 历史隐喻 | 人类幸福的童年时期（充满无限可能性） | 脱离自然后的成人期与限制 | 理性与感性、形式与道德力量重新统一的成熟理想 |
-> | 感性与理性关系 | 二者尚未分离，在约公元前 5 世纪雅典城邦和谐共存 | 直觉理性与思辨理性割裂，出现[[Alienation|异化]] | 艺术借理性否定自然，又借完善自身引领人重返自然 |
+> | 感性与理性关系 | 二者尚未分离，在约公元前 5 世纪雅典城邦和谐共存 | 直觉理性与思辨理性割裂，出现[[Alienation\|异化]] | 艺术借理性否定自然，又借完善自身引领人重返自然 |
 
 ---
 
@@ -69,7 +73,7 @@ updated: 2026-11-15
 > **历史诗学的辩证法** 席勒借助“素朴”与现代发展的对比，克服了古典主义单纯崇尚古希腊的僵化倾向，把艺术定位为连接过去童年与未来理想的动态枢纽。
 >
 > > [!claim] Hammermeister, K.
-> > **孕育黑格尔哲学史视野的“理想”概念** 席勒把通过艺术完善而达致的人性完善界定为“理想”（the ideal），它统一了理性与情感、美与道德、美好形式与道德能量。汉默迈斯特（Kai Hammermeister）指出，这一把历史发展与理性感性统一结合起来的“理想”范畴，后来在[[Georg Wilhelm Friedrich Hegel|黑格尔]]（Georg Wilhelm Friedrich Hegel）哲学中反复重现并受到高度评价。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, p. 49)]]
+> > **孕育[[Georg Wilhelm Friedrich Hegel|黑格尔]]哲学史视野的“理想”概念** 席勒把通过艺术完善而达致的人性完善界定为“理想”（the ideal），它统一了理性与情感、美与道德、美好形式与道德能量。汉默迈斯特（Kai Hammermeister）指出，这一把历史发展与理性感性统一结合起来的“理想”范畴，后来在[[Georg Wilhelm Friedrich Hegel|黑格尔]]（Georg Wilhelm Friedrich Hegel）哲学中反复重现并受到高度评价。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, p. 49)]]
 
 ---
 
@@ -81,7 +85,7 @@ updated: 2026-11-15
 ---
 
 > [!dev-timeline] 概念演变
-> - **1758 — 早期“素朴”界定** [[Moses Mendelssohn|摩西·门德尔松]]（Moses Mendelssohn）在《论自由艺术中的崇高与素朴》中率先界定素朴概念，深刻影响了席勒后来对素朴诗的论述。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 17–18)]]
+> - **1758 — 早期“素朴”界定** [[Moses Mendelssohn|摩西·门德尔松]]（Moses Mendelssohn）在《论自由艺术中的[[The Sublime|崇高]]与素朴》中率先界定素朴概念，深刻影响了席勒后来对素朴诗的论述。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 17–18)]]
 > - **1788 — 童年与艺术的早期关联** 席勒在受[[Alexander Gottlieb Baumgarten|鲍姆嘉通]]（Alexander Gottlieb Baumgarten）影响的《艺术家》中，把美与艺术比作引导人类走向真理的童年阶段。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, pp. 42–43)]]
 > - **1796 — 系统形成历史诗学** 席勒发表《论素朴的诗与感伤的诗》，在结束哲学写作重返戏剧创作前夕，完成审美范畴与历史发展的系统对接。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, pp. 45, 49)]]
 
@@ -98,4 +102,4 @@ updated: 2026-11-15
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch03|Hammermeister (2002, pp. 42–45, 49–50)]] — 梳理席勒从早期《艺术家》到 1796 年《论素朴的诗与感伤的诗》的历史辩证思路，并点明其对黑格尔美学的影响。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch03|Hammermeister (2002, pp. 42–45, 49–50)]] — 梳理席勒从早期《艺术家》到 1796 年《论素朴的诗与感伤的诗》的历史辩证思路，并点明其对[[Hegel's Aesthetics|黑格尔美学]]的影响。

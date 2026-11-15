@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 52
+fact_related_count: 53
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Scientific Method]]"
   - "[[Educated Identity]]"
+  - "[[Alienation]]"
   - "[[Transnational Education]]"
   - "[[Empiricism]]"
   - "[[Construct]]"
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -156,7 +157,7 @@ updated: 2026-11-11
 > *Major comparative research projects like the IEA studies, followed the empirical-quantitative road... In this sense, the covariational, quantitative and empirical sort of comparative education has consistently served politicians well. They have repeatedly relied on it for the legitimation and promotion of their preconceived policies. The longevity of the IEA studies and the influence programmes like PISA have on policy making bear witness to this fact.*
 
 > [!citation-card] 考恩论 IEA 在冷战地缘博弈中将[[Educated Identity|受教育身份]]窄化为效率度量
-> [[Robert Cowen|罗伯特·考恩]]（[[Robert Cowen]]）指出，冷战期间比较教育的主要努力被投入到通过国际测试衡量教育成功（IEA 的兴起）之中。学科经历了一场根本性异化：从最初以学术理解不同国家“受教育身份”理想模型的文化探索，转向了通过 IEA 与 PISA 进行纯粹的效率测量。国际测试沦为追求技术“解决方案”的比较工具，将复杂的教育和文化语境抽空，仅剩下测量技术细节，在实践中极大地强化并维护了单一世界秩序的政治合理性。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 330–334)]]
+> [[Robert Cowen|罗伯特·考恩]]（[[Robert Cowen]]）指出，冷战期间比较教育的主要努力被投入到通过国际测试衡量教育成功（IEA 的兴起）之中。学科经历了一场根本性[[Alienation|异化]]：从最初以学术理解不同国家“受教育身份”理想模型的文化探索，转向了通过 IEA 与 PISA 进行纯粹的效率测量。国际测试沦为追求技术“解决方案”的比较工具，将复杂的教育和文化语境抽空，仅剩下测量技术细节，在实践中极大地强化并维护了单一世界秩序的政治合理性。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 330–334)]]
 
 ---
 

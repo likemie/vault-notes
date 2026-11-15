@@ -7,7 +7,7 @@ title: "Argument_Castro_2009_MultilateralBanks"
 argument_key: "Argument_Castro_2009_MultilateralBanks"
 argument_display_title: "Can multilateral banks educate the world?"
 argument_kind: "book-chapter"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -37,6 +37,7 @@ tags:
 related_concepts:
   - "[[Multilateral Development Bank]]"
   - "[[Counterpart Funds]]"
+  - "[[Alienation]]"
   - "[[Disbursement-Driven Evaluation]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Falsification]]"
@@ -86,7 +87,7 @@ sources:
   - "[[books/Cowen(Ed.)_2009_Springer/Ch29_Castro_2009|Ch29_Castro_2009]]"
 status: active
 created: 2026-10-14
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 ---
 
@@ -94,7 +95,7 @@ updated: 2026-11-11
 > 超国家[[Multilateral Development Bank|多边开发银行]]（以[[World Bank|世界银行]]与[[Inter-American Development Bank|泛美开发银行]]为代表）究竟遵循何种财务与官僚运作逻辑？外界围绕其新自由主义意识形态霸权与掠夺性干预的激烈指控，是否准确击中了其体制运作的核心症结？为什么多边银行在项目文本设计中能够持续吸纳先进理念，却在基层借贷项目的实际落地、执行推进与实质性学习成果改善上面临深刻的体制性失能？
 
 > [!claim] 核心主张
-> 多边开发银行的金融本质并非商业银行或无偿慈善机构，而是依托发达成员国高信用评级在国际金融市场低息发债筹资、以保本微利向发展中国家转贷的主权信用合作社；主权借贷契约与[[Counterpart Funds|对等配套资金]]虽能抵御借款国政客走马灯式更迭的短期破坏，但多边银行真正的阿喀琉斯之踵不在于外界夸大的意识形态霸权，而在于执行阶段繁琐僵化的报销审计对项目效率的窒息，以及只核查资金拨付与硬件采购、不问学生是否真正学到知识的重投入轻产出评估异化。（pp. 455–457, 470–472, 474–475）
+> 多边开发银行的金融本质并非商业银行或无偿慈善机构，而是依托发达成员国高信用评级在国际金融市场低息发债筹资、以保本微利向发展中国家转贷的主权信用合作社；主权借贷契约与[[Counterpart Funds|对等配套资金]]虽能抵御借款国政客走马灯式更迭的短期破坏，但多边银行真正的阿喀琉斯之踵不在于外界夸大的意识形态霸权，而在于执行阶段繁琐僵化的报销审计对项目效率的窒息，以及只核查资金拨付与硬件采购、不问学生是否真正学到知识的重投入轻产出评估[[Alienation|异化]]。（pp. 455–457, 470–472, 474–475）
 
 > [!concept-lens] 阅读透镜
 > - **对象** [[World Bank|世界银行]]（World Bank, WB）与[[Inter-American Development Bank|泛美开发银行]]（Inter-American Development Bank, IDB）数十年来在发展中国家（特别是拉丁美洲）开展的教育与社会发展贷款实践。

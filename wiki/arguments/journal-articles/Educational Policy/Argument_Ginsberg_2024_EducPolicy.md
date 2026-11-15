@@ -51,6 +51,7 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Alienation]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Small Group Tuition]]"
   - "[[Champ]]"
@@ -84,14 +85,14 @@ sources:
   - "[[sources/Ginsberg_2024_EducPolicy/Ginsberg_2024_EducPolicy|Ginsberg_2024_EducPolicy]]"
 status: stable
 created: 2026-09-17
-updated: 2026-11-11
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Ginsberg_2024_EducPolicy"
 argument_key: "Argument_Ginsberg_2024_EducPolicy"
 argument_display_title: "Does ESSA assure the use of evidence-based educational practices? Educational Policy, 38(1), 161–185"
 argument_kind: "journal-article"
-argument_related_count: 44
+argument_related_count: 45
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -271,7 +272,7 @@ issuing_organization: ""
 上述微观分化案例揭示了法定单项门槛为何在实践中难以保障资金的实质有效性。
 
 > [!warrant]- 单项合格研究门槛导致形式化合规的制度机理
-> ESSA 法定定义允许单项设计良好且实施良好的研究作为整项投资的合规依据，其初衷是鼓励教育创新并包容早期探索；但这一机制在政策执行中异化为合规漏洞。学区无需对证据库中同等严谨的反面证据或零效应研究承担解释责任，导致 42% 至 51% 的联邦公共财政被锁定在缺乏稳定证据支持的常规项目之中。
+> ESSA 法定定义允许单项设计良好且实施良好的研究作为整项投资的合规依据，其初衷是鼓励教育创新并包容早期探索；但这一机制在政策执行中[[Alienation|异化]]为合规漏洞。学区无需对证据库中同等严谨的反面证据或零效应研究承担解释责任，导致 42% 至 51% 的联邦公共财政被锁定在缺乏稳定证据支持的常规项目之中。
 
 ---
 

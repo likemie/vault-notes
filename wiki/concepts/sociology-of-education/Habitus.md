@@ -6,7 +6,7 @@ aliases:
 summary: "Pierre Bourdieu 实践理论的核心枢纽概念，指行动者在特定社会生存条件中具身化的持久行为倾向系统，用于解释客观结构、身体实践与阶层再生产。"
 type: concept
 domain: "sociology-of-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[New Public Management]]"
   - "[[Performance Indicators]]"
+  - "[[Alienation]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Tacit Knowledge]]"
   - "[[Intuition-Dependent Mode]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -126,7 +127,7 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题二｜阶层特异性惯习形塑了高等教育场域中差异化的生活组织模式与分流路径
+> [!concept-proposition] 命题二｜阶层特异性惯习形塑了高等教育场域中差[[Alienation|异化]]的生活组织模式与分流路径
 > **文化常识与大学实践图式** 家庭社会化赋予个体的阶层惯习，直接规定了其在高等教育制度环境中识别机遇、动员资源与制定生涯规划的认知框架。
 
 > [!claim] Zheng, Y.

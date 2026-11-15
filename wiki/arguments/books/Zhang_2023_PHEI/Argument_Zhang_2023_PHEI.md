@@ -13,7 +13,7 @@ title: "Argument_Zhang_2023_PHEI"
 argument_key: "Argument_Zhang_2023_PHEI"
 argument_display_title: "科技创新\"双循环\"生态系统：基于粤港澳大湾区的实践与探索"
 argument_kind: "book"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[New York Bay Area]]"
   - "[[Tokyo Bay Area]]"
   - "[[Research Question]]"
+  - "[[Alienation]]"
   - "[[Technology Transfer]]"
   - "[[Emergence]]"
   - "[[Apprenticeship]]"
@@ -80,7 +81,7 @@ related_methods:
 related_persons: []
 status: draft
 created: 2026-06-11
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 ---
 
@@ -253,7 +254,7 @@ updated: 2026-11-11
 > > - **ABAG**（旧金山湾区政府协会）：最主要区域性综合规划机构
 > > - **MTC**（大都会交通委员会）、**BCDC**（湾区保护与发展委员会）、**BAAQMD**（湾区空气质量管理区）
 >
-> > [!features] 差异化产业布局
+> > [!features] 差[[Alienation|异化]]产业布局
 > > - **旧金山市** 金融、旅游、生物制药
 > > - **南湾圣何塞市** 硅谷所在地，高科技产业领先
 > > - **东湾奥克兰市** 重工业、金属加工、石油和航运

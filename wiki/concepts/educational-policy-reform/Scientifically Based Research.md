@@ -9,7 +9,7 @@ aliases:
 summary: "由 2001 年美国《不让一个孩子掉队法》（NCLB）与 2002 年《教育科学改革法》（ESRA）确立的联邦法定证据准入标准，强调运用严谨、系统与客观的实证程序（优先青睐实验与准实验设计）获取教育有效知识，后因缺乏操作化分级及对原则与评估的混淆，在 2015 年 ESSA 中被四级循证标准替代"
 type: concept
 domain: "educational-policy-reform"
-related_count: 60
+related_count: 61
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Paradigm]]"
   - "[[Technical Rationality]]"
+  - "[[Alienation]]"
   - "[[Operationalization]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence Standards]]"
@@ -89,7 +90,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -99,7 +100,7 @@ updated: 2026-11-11
 
 > [!concept-lens] 概念透镜
 > - **含义** 国家通过法定立法手段将以实验[[Causality\|因果推断]]为核心的[[Positivism\|实证主义]]科学规范转化为教育行政准入与财政资助的规制门槛。
-> - **用途** 帮助研究者透视国家如何运用财政条件规训教育科研生产[[Paradigm\|范式]]，以及[[Technical Rationality\|技术理性]]指标在自上而下规制过程中引发的实践转化断层与政策异化。
+> - **用途** 帮助研究者透视国家如何运用财政条件规训教育科研生产[[Paradigm\|范式]]，以及[[Technical Rationality\|技术理性]]指标在自上而下规制过程中引发的实践转化断层与政策[[Alienation|异化]]。
 > - **边界** 它不等于特定干预方案本身经过了严格实证检验，亦不等于后续兼具包容性与可操作性的 [[Every Student Succeeds Act\|ESSA]] 四级[[Operationalization\|操作化]]证据分级。
 
 > [!citation-card] 联邦法典关于科学本位研究的法定界定

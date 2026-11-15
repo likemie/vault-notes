@@ -10,7 +10,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 37
+fact_related_count: 38
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[PICO Framework]]"
   - "[[Variable]]"
   - "[[Publication Bias]]"
+  - "[[Alienation]]"
   - "[[Reliability]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Zone of Desired Effects]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-18
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 > [!program-context] 项目背景
@@ -871,7 +872,7 @@ MetaX 现行分类扩展为 9 个领域、43 个子领域。下表用 2026 年 1
 > - **[[Argument_Jansen_2026_EPR|Jansen et al. (2026)]]** 从数据库随机抽取 156 项[[Academic Achievement|学业成就]]相关元分析，系统评估三种前沿大语言模型（Gemini 2.5 Pro、[[General Purpose Technology|GPT]]-4.1、GPT-o3）在[[Automated Data Extraction|自动化数据提取]]中的准确性，建立人机混合验证[[Paradigm|范式]]。
 > - **[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]** 对数据库 1.2 版的全部 322 项影响因素（1,369 篇一阶元分析）开展穷尽式[[Metascience|元科学]]质量评估与独立复现检验，系统诊断数据库在 [[PICO Framework|PICO]] 准入、模型设计混淆与数据提取上的系统性偏差。
 > - **跨主题二阶综合研究** 研究者基于数据库开展主题聚焦的二阶元分析（如特定学科教学效果、弱势群体干预效能），汇聚跨元分析的[[Effect Size|效应量]]变异，检验调节[[Variable|变量]]与[[Publication Bias|发表偏倚]]。
-> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 系统批判 Meta-X 的均值稀释效应、缺乏文献淘汰机制及课堂非人化研发实验室异化。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 系统批判 Meta-X 的均值稀释效应、缺乏文献淘汰机制及课堂非人化研发实验室[[Alienation|异化]]。
 
 ---
 

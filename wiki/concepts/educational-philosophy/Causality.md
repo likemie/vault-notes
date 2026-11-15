@@ -9,7 +9,7 @@ aliases:
 summary: "教育与社会科学中建立原因与效果之间关系的推理体系，涵盖概率因果、反事实潜在结果模型、因果识别设计层级（RCT/QED/RDD/SCD）以及生成性因果机制与筛选隔离逻辑。"
 type: concept
 domain: "educational-philosophy"
-related_count: 107
+related_count: 108
 related_level: 10
 related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -58,6 +58,7 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Emergence]]"
   - "[[Heterogeneity]]"
+  - "[[Alienation]]"
   - "[[Nomothetic]]"
   - "[[Idiographic]]"
   - "[[National Character]]"
@@ -137,7 +138,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -307,7 +308,7 @@ updated: 2026-11-11
 > > - **复杂系统学派** 批评社会系统具有[[Open-Mindedness|开放性]]与[[Emergence\|涌现]]性（Emergence），过度隔离混杂可能脱离真实情境脉络([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch. 16, p. 319]])。
 >
 > > [!axis] 平均处理效应（[[Advanced Technological Education|ATE]]） vs [[Heterogeneity\|异质性]]因果效应（HTE）
-> > 争论宏观平均[[Effect Size\|效应量]]是否会掩盖弱势群体中的差异化因果反应（如高能力与低能力学生的完全相反表现）。
+> > 争论宏观平均[[Effect Size\|效应量]]是否会掩盖弱势群体中的差[[Alienation|异化]]因果反应（如高能力与低能力学生的完全相反表现）。
 >
 > > [!axis] 跨国普适因果规律（[[Nomothetic]]） vs 历史文化脉络独特性（[[Idiographic]]）
 > > 争论比较教育学能否像自然科学一样确立超越具体国别的跨国普遍因果法则。

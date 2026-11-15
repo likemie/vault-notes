@@ -7,9 +7,9 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 178
-related_level: 17
-related_stars: "💎💎💎💎💎⭐⭐"
+related_count: 180
+related_level: 18
+related_stars: "💎💎💎💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - visible-learning
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Participatory Sense-Making]]"
   - "[[Teacher Professional Agency]]"
   - "[[Performativity]]"
+  - "[[Mimesis]]"
   - "[[Falsification]]"
   - "[[Replication in Education Research]]"
   - "[[Commensuration]]"
@@ -89,6 +90,7 @@ related_concepts:
   - "[[Category Mistake]]"
   - "[[Discourse]]"
   - "[[The Sublime]]"
+  - "[[Alienation]]"
   - "[[Cultural Capital]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Value Neutrality]]"
@@ -205,7 +207,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 > [!tip] 知识网络与批评条目维护分流指引
@@ -254,7 +256,7 @@ updated: 2026-11-14
 > - **新自由主义商业化与财政紧缩借口（Neoliberal Commercialization & Fiscal Austerity）**
 >   追踪其自诞生之初即深度嵌入的新西兰公共教育外包改制：学者身兼咨询机构董事并获取巨额版税，高频鼓吹“[[Class Size|班级规模]]不影响学业”，精准迎合了政府削减教育经费、推卸公共财政责任的紧缩政策诉求。[[Argument_Grace_2010_NZJES|(Grace, 2010)]]; [[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
 > - **[[Cargo Cult Science|货物崇拜科学]]与伪科学划界（Cargo Cult Science & Epistemic Demarcation）**
->   运用费曼科学哲学辨析其伪科学特质：外表高度模仿自然科学的图表、公式与海量数据，实质却回避同行评议、缺乏竭尽全力证明自己可能出错的求真品格，在封闭商业运作中构建不可[[Falsification|证伪]]的数字教条。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
+>   运用费曼科学哲学辨析其伪科学特质：外表高度[[Mimesis|模仿]]自然科学的图表、公式与海量数据，实质却回避同行评议、缺乏竭尽全力证明自己可能出错的求真品格，在封闭商业运作中构建不可[[Falsification|证伪]]的数字教条。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
 
 ---
 
@@ -612,7 +614,7 @@ updated: 2026-11-14
 #### 激进建构主义诱发教学双重瓦解与宏观社会维度的系统屏蔽
 
 > [!critique-logic] 教学概念的双重瓦解与波普尔第三世界的蒸发（[[Argument_Rømer_2018_EPT|Rømer, 2018, pp. 7–8, 11]]）
-> - **教师文化权威的瓦解与学生中心视角的幻象** [[Constructivist Paradigm|建构主义]]首先消解了作为文化与专业权威的教师，继而在废墟上建立起学生中心视角的幻象（让教师通过学生的眼睛看学习，让学生成为自己的教师），导致师生交往异化为机械的自我观察。
+> - **教师文化权威的瓦解与学生中心视角的幻象** [[Constructivist Paradigm|建构主义]]首先消解了作为文化与专业权威的教师，继而在废墟上建立起学生中心视角的幻象（让教师通过学生的眼睛看学习，让学生成为自己的教师），导致师生交往[[Alienation|异化]]为机械的自我观察。
 > - **波普尔第三世界（World 3）的认识论蒸发** 波普尔的第三世界包含客观文化客体、科学理论与经典艺术（如贝多芬交响乐）；哈蒂通过[[Carl Bereiter|卡尔·贝莱特]]（Carl Bereiter）消除个人学习与客观[[Knowledge Building Theory|知识建构]]的界限，将哲学实在论彻底滑向极端主观建构主义，最终创造出一个抽离了客观科学能量与文化经典的失语世界。
 > - **社会维度的系统性屏蔽** 激进建构主义将学习框定在个体唯我论内部，使得可见学习体系在面对阶级不平等、贫困、教育社会正义与[[Cultural Capital|文化资本]]再生产等外部结构性议题时，保持着制度性的盲区。
 
@@ -866,7 +868,7 @@ updated: 2026-11-14
 > - **外部哲学与社会学派（红方）** 以 [[Argument_Rømer_2018_EPT|Rømer (2018)]]、[[Argument_Terhart_2011_JCS|Terhart (2011)]]、[[Argument_Larsen_2019_EducSci|Larsen (2019)]]、[[Argument_Grace_2010_NZJES|Grace (2010)]]、[[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 为代表，认为即便统计计算完美无瑕，将教育活动还原为单一效应量排序本身就是根本性的[[Paradigm|范式]]谬误与[[Technical Rationality|技术理性]]殖民，必然消解学科教学论、遮蔽自由教养并为财政紧缩推卸责任。
 
 > [!warning] 批评谱系的适用局限与边界条件
-> - **区分体系批判与一线反思实践** 批评聚焦于宏观二阶元分析的计量无效性、教育哲学偏狭与商业专营异化，不否定一线教师在日常课堂中追求教学目标清晰、提供即时反馈以及开展反思性评估的微观实践价值。
+> - **区分体系批判与一线反思实践** 批评聚焦于宏观二阶元分析的计量无效性、教育哲学偏狭与商业专营[[Alienation|异化]]，不否定一线教师在日常课堂中追求教学目标清晰、提供即时反馈以及开展反思性评估的微观实践价值。
 > - **发表条件限制与科学可行性边界** 计量学者指出二阶元分析在科学上不可行，其适用条件受限于当前教育实证[[Document|文献]]缺乏统一报告规范与第一手微观数据共享的现实；若未来原始研究能够实现完全透明的数据共享与标准化[[Meta-regression|元回归分析]]，跨研究综合仍具有探索空间。
 
 ---

@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Home Environment]]"
   - "[[Counterculture Computing]]"
   - "[[Technological Republic]]"
+  - "[[Alienation]]"
   - "[[Paradigm]]"
   - "[[Hard Power]]"
   - "[[Analytical Stance]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -91,7 +92,7 @@ updated: 2026-10-30
 ---
 
 > [!claim] 核心思想
-> 李·费尔森斯坦坚信技术工具天生具有政治属性。传统的集中式大型机是政府官僚与大型垄断企业推行极权控制与社会监控的工具；为了抵抗这种异化，工程师必须自制属于每个人的小型化计算设备。个人计算机的根本目的不是为了协助国家推行宏大战略，而是赋权每个普通公民打破机构垄断、实现言论与心智的完全自治。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, p. 98)]]
+> 李·费尔森斯坦坚信技术工具天生具有政治属性。传统的集中式大型机是政府官僚与大型垄断企业推行极权控制与社会监控的工具；为了抵抗这种[[Alienation|异化]]，工程师必须自制属于每个人的小型化计算设备。个人计算机的根本目的不是为了协助国家推行宏大战略，而是赋权每个普通公民打破机构垄断、实现言论与心智的完全自治。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, p. 98)]]
 
 > [!feature] 费尔森斯坦的技术解放三大准则
 > - **工具自主可控（Tool Autonomy）** 个人必须能够完全理解、修改与自制其所使用的计算工具，拒绝成为封闭黑箱系统的被动奴隶。

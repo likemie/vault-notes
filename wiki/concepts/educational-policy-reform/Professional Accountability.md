@@ -4,7 +4,7 @@ aliases:
 summary: "以促进微观实践改进与能力建设为宗旨的非惩罚性教育问责范式；倡导无怨怼、无排名的结果导向，在监测识别出学业表现薄弱学校时，免除高利害公开排名与行政惩戒，代之以定向派驻专业团队、校本研修与针对性资源支持，护持专业信任与教师合作。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Strategic Compliance]]"
   - "[[School Choice]]"
   - "[[Professional Capital]]"
+  - "[[Alienation]]"
   - "[[Variable]]"
   - "[[System-Wide Improvement]]"
   - "[[Test-Based Accountability]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-15
 ---
 
 ---
@@ -80,7 +81,7 @@ updated: 2026-11-10
 
 ---
 
-> [!concept-proposition] 命题一｜非惩罚性的专业支持机制能够有效克服高利害问责诱发的防御性合规与应试异化
+> [!concept-proposition] 命题一｜非惩罚性的专业支持机制能够有效克服高利害问责诱发的防御性合规与应试[[Alienation|异化]]
 > **支持性激励对防御行为的破除机制** 揭示基于专业信任的制度环境如何保护一线教学活力并激发持续反思。
 
 > [!claim] Elmore; Fullan & Rincon-Gallardo; Barrenechea et al.

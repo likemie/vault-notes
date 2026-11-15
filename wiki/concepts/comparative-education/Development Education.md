@@ -9,7 +9,7 @@ aliases:
 summary: "聚焦全球南方国家教育现代化、体制重塑与国际援助合作的专门学术研究与政策实务领域。二战后因去殖民化与冷战地缘博弈而兴起，长期与侧重理论建构的主流比较教育学保持建制分流；后伴随多边开发银行的主权借贷与结构调整，从学术系所分立转向以项目评估、信贷约束与政策咨询为主轴的实务运作，但面临设计端理念前沿与执行端官僚失能、资金拨付考核与实质学习成效脱节的深层制度张力。"
 type: concept
 domain: "comparative-education"
-related_count: 67
+related_count: 68
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Disciplinary Institutionalization]]"
   - "[[Discourse]]"
   - "[[Global Educational Discourse]]"
+  - "[[Alienation]]"
   - "[[Formative Assessment]]"
   - "[[Foundational Literacy and Numeracy]]"
   - "[[Document]]"
@@ -97,7 +98,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -179,7 +180,7 @@ updated: 2026-11-11
 
 ### 命题三　发展教育在多边实践中深陷设计端理念敏捷与执行端重投入轻产出的系统性脱节
 
-> [!concept-lens] 组织学习断裂与拨付驱动的工程异化风险
+> [!concept-lens] 组织学习断裂与拨付驱动的工程[[Alienation|异化]]风险
 > 探讨多边机构在推行发展教育贷款时，内部官僚激励与微观执行工具如何导致项目偏离实质教学质量改进。
 
 > [!claim] [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]]

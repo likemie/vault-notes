@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 43
+person_related_count: 44
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Social-Emotional Learning]]"
   - "[[Construct Validity]]"
+  - "[[Alienation]]"
   - "[[Soft Power by Hard Facts]]"
 related_theories: []
 related_methods:
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -164,7 +165,7 @@ updated: 2026-11-11
 > - [[Argument_Zhao_2020_JEC\|Zhao (2020)]] — 批评其将东亚高应试表现归因于学生自我谴责，掩盖了高利害测评对学生心理健康与[[Creativity\|创造力]]的深远负面损害。
 
 > [!warning] 未解问题与边界
-> 纸笔与机考测评在测量非认知能力（如[[Social-Emotional Learning\|社会情感学习]]、同理心、道德判断与深层创造力）时面临难以克服的[[Construct Validity\|构念效度]]瓶颈；施莱歇尔推崇的数据驱动治理容易在基层诱发“测评反噬教学”（Teaching to the Test）的异化实践。
+> 纸笔与机考测评在测量非认知能力（如[[Social-Emotional Learning\|社会情感学习]]、同理心、道德判断与深层创造力）时面临难以克服的[[Construct Validity\|构念效度]]瓶颈；施莱歇尔推崇的数据驱动治理容易在基层诱发“测评反噬教学”（Teaching to the Test）的[[Alienation|异化]]实践。
 
 ---
 

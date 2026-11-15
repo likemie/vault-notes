@@ -13,7 +13,7 @@ aliases:
 summary: "循证教育治理中的制度化中介机构，指通过设定因果证据标准、审查实证研究并发布项目有效性评级的专业实体平台；在更广泛的知识治理中涵盖部委嵌入、自主资助与独立慈善等多元制度谱系；实证研究表明其评级面临显著的跨机构门槛分歧与构念效度挑战，且在长效存续上面临2至3年短期政治预算周期的制度性制约。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 152
+related_count: 153
 related_level: 15
 related_stars: "💎💎💎💎💎"
 related_color: "#ddd6fe"
@@ -86,6 +86,7 @@ related_concepts:
   - "[[Philosophical Aesthetics]]"
   - "[[Visible Learning]]"
   - "[[Zone of Desired Effects]]"
+  - "[[Alienation]]"
   - "[[Selectivity]]"
   - "[[Side Effects]]"
   - "[[Cognitive Deskilling]]"
@@ -192,7 +193,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -408,7 +409,7 @@ updated: 2026-11-14
 > > 各方围绕是否应强制统一所有清算中心的因果与综合标准展开争论。
 > >
 > > - **标准化倡导者** 认为跨中心评级分裂严重误导政策采购，亟需建立跨机构元标准（meta-standards），统一流失模型、集群校正与随访时限([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 29–30]])。
-> > - **[[Pluralism|多元主义]]支持者** 认为不同机构服务于不同目标人群（如军人家庭 [[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]] vs 辍学高危生 [[National Dropout Prevention Center\|NDPC]]），差异化标准反映了特定政策领域的实质需求，不宜强求一律([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 6–8]])。
+> > - **[[Pluralism|多元主义]]支持者** 认为不同机构服务于不同目标人群（如军人家庭 [[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]] vs 辍学高危生 [[National Dropout Prevention Center\|NDPC]]），差[[Alienation|异化]]标准反映了特定政策领域的实质需求，不宜强求一律([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 6–8]])。
 >
 > > [!axis] 纯因果严谨性（[[Internal Validity]]） vs 实践[[Ecological Validity\|生态效度]]（Ecological Validity）
 > > 围绕清算中心过分偏好小样本纯净实验还是重视大规模真实复杂情境的争论。

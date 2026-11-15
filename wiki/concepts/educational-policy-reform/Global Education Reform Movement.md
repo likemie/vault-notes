@@ -6,7 +6,7 @@ aliases:
 summary: "描述全球教育改革向标准化、问责、市场化和私有化集中的批判性术语，常用于分析新自由主义政策如何重塑学校制度"
 type: concept
 domain: "educational-policy-reform"
-related_count: 70
+related_count: 71
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Self-reported Grades]]"
   - "[[School Choice]]"
   - "[[Institutional Layering]]"
+  - "[[Alienation]]"
   - "[[Teacher Professional Agency]]"
   - "[[Creativity]]"
   - "[[Falsification]]"
@@ -95,7 +96,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -195,7 +196,7 @@ updated: 2026-11-11
 > **本土行政体制对全球[[Convergence Theory in Comparative Education|趋同论]]的中介调节** 探讨 GERM 倡导的同质化政策工具包在遭遇主权国家既有历史制度土壤时的过滤、转化与非均质演进机制。
 
 > [!claim] Verger, A. et al.
-> **全球趋同假说的实证破产与行政体制中介调节模型** 安东尼·维格（Antoni Verger）等基于全球 158 篇实证文献的系统综述表明，GERM 主张的全球同质化趋同假说在面对本土历史制度土壤时发生断裂。虽然 GERM 推动了标准、统考与问责工具在全球范围的广泛采纳，但其治理轨迹深度受制于既有政体行政传统的中介调节：[[New Public Management|新公共管理]]体制强化了[[School Choice|择校]]与惩戒叠加，[[Neo-Weberian State|新韦伯主义]]体制主动叫停了声誉排位，拿破仑体制则陷入常任文官与工会抵制的长期拉锯。这表明国家治理多样性持续存在，GERM 工具包通过[[Institutional Layering|制度分层]]被本土行政机器差异化吸纳与重构。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 249–255)]]
+> **全球趋同假说的实证破产与行政体制中介调节模型** 安东尼·维格（Antoni Verger）等基于全球 158 篇实证文献的系统综述表明，GERM 主张的全球同质化趋同假说在面对本土历史制度土壤时发生断裂。虽然 GERM 推动了标准、统考与问责工具在全球范围的广泛采纳，但其治理轨迹深度受制于既有政体行政传统的中介调节：[[New Public Management|新公共管理]]体制强化了[[School Choice|择校]]与惩戒叠加，[[Neo-Weberian State|新韦伯主义]]体制主动叫停了声誉排位，拿破仑体制则陷入常任文官与工会抵制的长期拉锯。这表明国家治理多样性持续存在，GERM 工具包通过[[Institutional Layering|制度分层]]被本土行政机器差[[Alienation|异化]]吸纳与重构。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 249–255)]]
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "源自古希腊城邦文明的整全公民培育与灵魂转向哲学，整合智性沉思、伦理德性与审美和谐，是西方全人教育与比较教育以人为本（anthropos）思想史传统的始源母题。"
 type: concept
 domain: "educational-philosophy"
-related_count: 32
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Geisteswissenschaften]]"
   - "[[Academic Freedom]]"
   - "[[Paradigm]]"
+  - "[[Alienation]]"
   - "[[Epistemology]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Transnational Education]]"
@@ -54,6 +55,7 @@ related_persons:
   - "[[Aristotle]]"
 related_facts:
   - "[[Gaokao]]"
+  - "[[Sturm und Drang]]"
 related_arguments:
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
@@ -61,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -113,7 +115,7 @@ updated: 2026-11-14
 > - **灵魂转向与卓越追求（Arete）** 承袭[[Socrates\|苏格拉底]]与[[Plato\|柏拉图]]洞穴隐喻，教化被界定为将灵魂的视线从虚妄表象转向永恒真理与至善理念的根本提升。
 > - **智体美的三维和谐统整（Kalokagathia）** 主张精神智力（哲学、修辞）、审美感知（音乐、诗歌）与肉身机能（体育竞技）不可偏废，追求身心合一的优美与健全。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 59)]]
 > - **城邦政治公民性（Polites）** 拒绝将教育降格为孤立个体的私性谋生，将教化锚定在公共生活之中，使青年在城邦法律、公共议事与节庆仪式中内化对城邦正义的绝对责任。
-> - **整全人本视野（Anthropocentric [[Paradigm]]）** 将完整的人（*Anthropos*）确立为一切社会制度与知识探索的中心尺度，为后世比较教育历史学派提供了对抗工具主义与技术异化的精神资源。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
+> - **整全人本视野（Anthropocentric [[Paradigm]]）** 将完整的人（*Anthropos*）确立为一切社会制度与知识探索的中心尺度，为后世比较教育历史学派提供了对抗工具主义与技术[[Alienation|异化]]的精神资源。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
 
 > [!logic-map]- 古典 Paideia 的灵魂转向与人本比较[[Epistemology\|认识论]]逻辑
 > ```mermaid
@@ -204,7 +206,7 @@ updated: 2026-11-14
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Bildung]] | 概念 | 德国精神教化传统，是希腊古典教化在 18–19 世纪德意志唯心主义与狂飙突进运动中的日耳曼化新生。 |
+> | [[Bildung]] | 概念 | 德国精神教化传统，是希腊古典教化在 18–19 世纪德意志唯心主义与[[Sturm und Drang\|狂飙突进运动]]中的日耳曼化新生。 |
 > | [[Culture Générale]] | 概念 | 法国普通文化传统，将希腊古典教化与[[René Descartes\|笛卡尔]]理性、[[Faculty Psychology\|官能心理学]]融通，构建精英行政中等课程。 |
 > | [[Liberal Education]] | 概念 | 英国自由教育传统，承袭希腊“自由艺术（artes liberales）”理念，用于培育大英帝国的绅士阶层。 |
 > | [[Historical-Philosophical-Cultural Motif]] | 概念 | 比较教育奠基时期将广义教化与精神力量作为核心解释机制的历史人文研究母题。 |

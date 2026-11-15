@@ -11,7 +11,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Incommensurability]]"
   - "[[International Education]]"
+  - "[[Alienation]]"
   - "[[Positivism]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -130,7 +131,7 @@ updated: 2026-11-11
 > > - **自由主义现代化史学** 认为贝拉吉奥会议开启了科学规划教育的新纪元，使广大发展中国家认识到知识对脱贫的战略意义，推动了全球基础教育的普及。
 > > - **批判修正派史学（2023）** 指出会议本质上是西方垄断资本与情报外交网络合作的产物，旨在将第三世界国家纳入以西方市场为核心的依附性分工体系中。(Elfert & Ydesen, 2023, 转引自 [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024, p. 542]])
 >
-> > [!axis] 育人伦理争鸣：生产力解放 vs 人的商品化异化
+> > [!axis] 育人伦理争鸣：生产力解放 vs 人的商品化[[Alienation|异化]]
 > > 各方对将教育彻底工具化为经济增长仆从的伦理审视。
 > >
 > > - **教育经济学主流** 认为将[[Human Capital Theory\|人力资本]]计量化提升了教育部门在政府财政预算分配中的议价能力，是教育事业繁荣的制度保障。

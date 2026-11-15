@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit11"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit11"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Collaboration Search Costs]]"
   - "[[Grit]]"
+  - "[[Alienation]]"
   - "[[Research Translation]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Scientific Productivity]]"
@@ -88,7 +89,7 @@ sources:
 part_of: "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 status: active
 created: "2026-10-31"
-updated: 2026-11-05
+updated: 2026-11-15
 ---
 
 ---
@@ -246,7 +247,7 @@ updated: 2026-11-05
 > [!sub-claim] 5. 科学探索路径多元复杂，无法用单一的引文指标作为绝对评价尺度
 
 > [!example] 围棋博弈隐喻：科学探索的多维度权衡
-> 在围棋博弈中，每走一步都有明确的判定标准，即选择最能赢得整场棋局的一步棋；而科学研究不存在唯一的最佳落子，无数可能的探索路径相互交织。随着科学学的发展，学界需要探索一系列捕捉不同产出与回报维度的多元指标，并深入理解这些指标之间的协同与权衡，避免将引文指标异化为评价学术的绝对单一尺度 (pp. 245–246)。
+> 在围棋博弈中，每走一步都有明确的判定标准，即选择最能赢得整场棋局的一步棋；而科学研究不存在唯一的最佳落子，无数可能的探索路径相互交织。随着科学学的发展，学界需要探索一系列捕捉不同产出与回报维度的多元指标，并深入理解这些指标之间的协同与权衡，避免将引文指标[[Alienation|异化]]为评价学术的绝对单一尺度 (pp. 245–246)。
 
 > [!contrast-table] 新兴学术影响力评价的三大拓展维度
 > | 指标拓展类别 | 核心技术路径 | 代表性具体指标 | 核心评价功能与局限 |

@@ -8,7 +8,7 @@ aliases:
 summary: "指依托现代信息通信技术开展纯线上或混合式高等教育教学、跨国学位授予与课程特许经营的高等教育机构形态，它打破了实体校园的地理边界，但同时也引发了学术商品化、文凭去脉络化以及大学公共民主职能流失的深刻危机。"
 type: concept
 domain: "higher-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Time-Space Compression]]"
   - "[[Champ]]"
+  - "[[Alienation]]"
   - "[[Online Education]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Analytical Stance]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -127,7 +128,7 @@ updated: 2026-11-11
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **资本积累与空间去地域化** | 阐明虚拟大学如何借助电信技术与特许协议突破国家边界，实现全球高等教育服务的商业化套利 | 跨国在线学位教育、离岸高等教育办学、[[GATS and Trade in Education Services\|教育服务贸易]]研究 | Castells, M.; Arnove, R. F. |
-> | **民主批判性与公共性流失** | 揭示实体学术共同体消解对大学批判公共功能、国民认同塑造与民主公民培养的深远负面影响 | 高等教育公共性反思、大学与国家关系、数字化教育异化批评 | Edwards, R.; Arnove, R. F. |
+> | **民主批判性与公共性流失** | 揭示实体学术共同体消解对大学批判公共功能、国民认同塑造与民主公民培养的深远负面影响 | 高等教育公共性反思、大学与国家关系、数字化教育[[Alienation\|异化]]批评 | Edwards, R.; Arnove, R. F. |
 
 ---
 

@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: canada
 person_region: "canada"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Creativity]]"
   - "[[Technical Rationality]]"
+  - "[[Alienation]]"
   - "[[Cult of the Guru]]"
 related_theories:
   - "[[Theory of Change]]"
@@ -53,7 +54,7 @@ related_arguments:
   - "[[Argument_Barrenechea_2023_JEC]]"
 status: active
 created: '2026-10-16'
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -130,7 +131,7 @@ updated: 2026-11-11
 > > - **批判方（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）** 指出其[[21st Century Skills and Competencies Discourse|核心素养]]内容并未超出国家法定公立课标，但通过注册商标与排他性年费机制，人为制造准入门槛，加剧公立教育对跨国资本的依附。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 41–43)]]
 
 > [!critique] 外部批评
-> - **教主崇拜与[[Technical Rationality|技术理性]]异化** 批判学者指出，富兰后期咨询风格呈现出“管理大师光环”（[[Cult of the Guru]]），依赖具有煽动性的商业修辞，将复杂的教育社会公平问题还原为标准化的打卡量规，掩盖了阶层分化与公共投入不足等结构性根源。
+> - **教主崇拜与[[Technical Rationality|技术理性]][[Alienation|异化]]** 批判学者指出，富兰后期咨询风格呈现出“管理大师光环”（[[Cult of the Guru]]），依赖具有煽动性的商业修辞，将复杂的教育社会公平问题还原为标准化的打卡量规，掩盖了阶层分化与公共投入不足等结构性根源。
 
 ---
 

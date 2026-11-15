@@ -4,7 +4,7 @@ aliases: [后结构主义, post-structuralist, poststructuralism]
 summary: "对结构功能主义决定论的反驳，强调个体能动性与内在矛盾主体，将数据与人工制品视为表演性话语与文本，主张通过解构揭示多重意义层次与意义特权化机制。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 31
+theory_related_count: 32
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Grand Theory]]"
   - "[[Ontology]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Alienation]]"
   - "[[Open-Mindedness]]"
   - "[[Institutional Layering]]"
   - "[[Knowledge Production]]"
@@ -53,7 +54,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -92,7 +93,7 @@ updated: 2026-11-02
 
 > [!feature] 核心要素
 > - **反[[Structural Functionalism|结构功能主义]]与能动性优先（Prominence of Individual Agency）** 坚决拒绝将社会和个体行为视为机械契合的封闭系统部件，批判将行为完全归结为阶级、地位和既定社会角色的结构[[Determinism\|决定论]]。
-> - **内在矛盾与多元张力主体（Contradictions and Tensions within Subjects）** 强调个体决非系统的提线木偶，是异质且差异化的主体，在阶级、族裔、性别、职业和家庭等多重身份维度自身承载着深刻的矛盾与张力。
+> - **内在矛盾与多元张力主体（Contradictions and Tensions within Subjects）** 强调个体决非系统的提线木偶，是异质且差[[Alienation|异化]]的主体，在阶级、族裔、性别、职业和家庭等多重身份维度自身承载着深刻的矛盾与张力。
 > - **数据即[[Performativity|表演性]][[Discourse|话语]]与文本（Data and Artefacts as Performed Discourses）** 课堂对话、[[Qualitative Interview\|质性访谈]]、行为观察乃至物理[[Artefact\|人工制品]]均非中立事实，是通过话语建构并被话语不断表演的文本，具有阐释的[[Open-Mindedness|开放性]]。
 > - **解构与意义特权化揭示（Deconstruction and [[Institutional Layering|layering]] of Meanings）** 教育探究的核心使命是解构现象中内嵌的多层意义，曝光特定官方或权威意义被特权化、排他化的隐秘意识形态过程。
 > - **四重视角阐释网络（Multiple Perspectives Network）** 探究必须协同捕捉参与者、研究者、研究受众与研究读者的多重视角，并将研究发现锚定在参与者对自我的主观认知之中。

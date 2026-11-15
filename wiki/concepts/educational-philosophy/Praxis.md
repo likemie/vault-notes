@@ -8,7 +8,7 @@ aliases:
 summary: "指批判性反思与改造现实的行动之辩证统一，既是批判教育学中学习者打破压迫结构的行动准则，也是历史唯物主义融合冷面制度科学与炽热解放乌托邦的认识与行动哲学"
 type: concept
 domain: "educational-philosophy"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Culture of Silence]]"
   - "[[Epistemology]]"
+  - "[[Alienation]]"
   - "[[Verbalism]]"
   - "[[Creativity]]"
   - "[[Conscientization]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-25
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -73,7 +74,7 @@ updated: 2026-11-03
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调人类对世界的认识必须在具体的社会历史实践中生成、检验与发展；思维的真理性本质上是一个实践问题而非经院哲学争论。
-> - **用途** 帮助研究者透视教育过程是否真正赋权于学习者与教师，区分工具性技能灌输与解放性行动反思，并为抵制新自由主义市场异化提供理论与组织方案。
+> - **用途** 帮助研究者透视教育过程是否真正赋权于学习者与教师，区分工具性技能灌输与解放性行动反思，并为抵制新自由主义市场[[Alienation|异化]]提供理论与组织方案。
 > - **边界** 实践不等于单纯的经验活动（Experience）或常规操作（Practice），更不等于没有反思的盲动（Activism）或缺乏行动的纯粹反思（[[Verbalism]]）。
 
 > [!citation-card] 萨特论哲学生命力与实践的不可逾越性

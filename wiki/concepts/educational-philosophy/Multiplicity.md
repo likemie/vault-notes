@@ -5,7 +5,7 @@ aliases:
 summary: "Massey 的空间理论概念，指空间中差异、关系和多重轨迹的共存，由此带来开放性和不可预测性。"
 type: concept
 domain: "educational-philosophy"
-related_count: 12
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,12 +16,14 @@ tags:
 related_concepts:
   - "[[Heterogeneity]]"
   - "[[Ontology]]"
+  - "[[Alienation]]"
   - "[[Relational Space]]"
   - "[[International Education]]"
   - "[[Emergence]]"
   - "[[Space Production]]"
   - "[[Open-Mindedness]]"
   - "[[Creativity]]"
+  - "[[Mimesis]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Space-Making]]"
 related_theories: []
@@ -34,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 > [!info] 定义
@@ -46,7 +48,7 @@ updated: 2026-10-22
 ---
 
 > [!example] 概念辨析
-> - vs 层级（hierarchy） — 层级只是多样性的一种形式（如 大学排名 中的等级差异），多重性还包括质的差异和外部关系对内部现象的分化效应。例如，各国大学系统因与全球活动的不同连接方式而走向差异化，而非趋同——这一现象被 Marginson 概括为"全球化-分化悖论"([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 6]])
+> - vs 层级（hierarchy） — 层级只是多样性的一种形式（如 大学排名 中的等级差异），多重性还包括质的差异和外部关系对内部现象的分化效应。例如，各国大学系统因与全球活动的不同连接方式而走向差[[Alienation|异化]]，而非趋同——这一现象被 Marginson 概括为"全球化-分化悖论"([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 6]])
 > - vs 多样性（diversity） — "多样性"通常指类别内既有的差异，"多重性"则强调差异是[[Relational Space\|关系性空间]]中不断生成和再生成的动态过程，包含不可控的新差异([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 7]])
 
 ---
@@ -72,7 +74,7 @@ updated: 2026-10-22
 
 > [!warning] 争议与批评
 > - **Pieterse（2020）** — 认为分化和普遍主义是人类事务的双重"驱动力"，二者交替主导而非一方压倒另一方，这意味着多重性可能在某些历史时期退潮([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 7]])
-> - **Marston et al.（2005）** — 认为复杂系统同时生成系统性秩序和开放[[Creativity\|创造性]]事件，但系统性秩序更常见，变异会随时间聚集并变得模仿性。这对 Massey "总是有松散的末端"的乐观有一定制衡
+> - **Marston et al.（2005）** — 认为复杂系统同时生成系统性秩序和开放[[Creativity\|创造性]]事件，但系统性秩序更常见，变异会随时间聚集并变得[[Mimesis|模仿]]性。这对 Massey "总是有松散的末端"的乐观有一定制衡
 
 ---
 

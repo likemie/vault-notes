@@ -7,7 +7,7 @@ title: "Argument_Hill_2022_FacilitatingActors"
 argument_key: "Argument_Hill_2022_FacilitatingActors"
 argument_display_title: "Who is facilitating research use in education systems? In N"
 argument_kind: "book-chapter"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -58,6 +58,7 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Heterogeneity]]"
   - "[[Knowledge Production]]"
+  - "[[Alienation]]"
   - "[[Knowledge Co-production]]"
   - "[[Research Question]]"
   - "[[Engagement in and with Research]]"
@@ -94,7 +95,7 @@ related_facts:
   - "[[Public Sector PhD Scheme]]"
 status: draft
 created: 2026-09-13
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 ---
 
@@ -378,7 +379,7 @@ updated: 2026-11-11
 > - **[[Public Sector PhD Scheme\|挪威公共部门博士培养计划]]（OFFPHD）** 挪威研究理事会设立，仅向公共部门常任雇员开放。旨在扩大行政机构内部研究活动，为公共部门储备高层次骨干并强化政学制度纽带。已资助国家课程方案、全纳教育、学校治理与领导力等 10 项重大课题，实现行政思维与学术理性的深度嵌合。（pp.88–89）
 > - **[[Doctoral Grant for Teachers\|荷兰教师博士资助计划]]（NWO）** 荷兰科学研究组织自 2010 年常态化实施，面向学前至高等职业教育全学段在岗一线教师开放，选题由教师基于课堂痛点自主确定。核心突破在于解决科研时间冲突：专项拨款全额承担代课聘用成本，保障教师在最长 5 年内享有最高 0.4 全职当量的法定带薪科研时间。累计资助近 500 个一线教师博士项目，打破大学对[[Knowledge Production\|知识生产]]的垄断。（pp.89–90）
 
-> [!sub-claim] 2. 研究全生命周期中的权力失衡与实践者被动工具化异化
+> [!sub-claim] 2. 研究全生命周期中的权力失衡与实践者被动工具化[[Alienation|异化]]
 
 在全系统个体参与度的宏观图景中，高校科研人员与政府研究员占据绝对主导，校长与一线教师处于最不活跃的边缘。（pp.89–90）
 

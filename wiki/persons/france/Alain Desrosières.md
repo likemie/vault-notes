@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: france
 person_region: "france"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Governing by Numbers]]"
   - "[[Performance Indicators]]"
+  - "[[Alienation]]"
   - "[[Positivism]]"
   - "[[Data Infrastructure]]"
   - "[[Technical Rationality]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -101,7 +102,7 @@ updated: 2026-11-11
 >   - **代表著作** 《大数的政治：统计推理的历史》（*The Politics of Large Numbers: A History of Statistical Reasoning*, 1993/1998）。
 >   - **关键概念／方法** [[Space of Equivalence|等值空间]]、[[Commensuration|通约化]]、将事物凝聚在一起（*tenir ensemble*）。
 >   - **阶段转向** 建立横跨科学史、政治哲学与社会学的宏大量化知识社会学框架。
-> - **2000 年代至逝世 — [[New Public Management|新公共管理]]与[[Governing by Numbers|数字治理]]批判期** 深刻解构新自由主义[[Performance Indicators|绩效指标]]、跨国排行榜与基准量化技术，指出量化考核将“证明”的认知工具异化为“治理”与惩戒的规训武器。
+> - **2000 年代至逝世 — [[New Public Management|新公共管理]]与[[Governing by Numbers|数字治理]]批判期** 深刻解构新自由主义[[Performance Indicators|绩效指标]]、跨国排行榜与基准量化技术，指出量化考核将“证明”的认知工具[[Alienation|异化]]为“治理”与惩戒的规训武器。
 >   - **代表著作** 《证明与治理：公共统计的政治分析》（*Prouver et gouverner*, 2008）；《量化历史社会学论集》（*Pour une sociologie historique de la quantification*, 2008）。
 >   - **关键概念／方法** [[Governing by Numbers|数字治理]]、绩效指标反拨、新公共管理审计。
 >   - **阶段转向** 将批判锋芒直接对准跨国组织与新自由主义国家的绩效评估狂热。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]

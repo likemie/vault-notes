@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 136
+argument_related_count: 138
 argument_related_level: 13
 argument_related_stars: "💎💎💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -83,6 +83,7 @@ related_concepts:
   - "[[Theoretical Standpoint]]"
   - "[[Hypothesis]]"
   - "[[Research Scope]]"
+  - "[[Alienation]]"
   - "[[Self Explanation]]"
   - "[[Decodification]]"
   - "[[Lecturing]]"
@@ -155,6 +156,7 @@ related_persons:
   - "[[Karl Popper]]"
   - "[[Peter Medawar]]"
   - "[[Søren Kierkegaard]]"
+  - "[[Martin Luther]]"
   - "[[B. F. Skinner]]"
   - "[[Clifford Geertz]]"
   - "[[Jack Douglas]]"
@@ -175,7 +177,7 @@ related_facts:
 related_arguments: []
 status: draft
 created: 2026-06-16
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 ---
 
@@ -589,7 +591,7 @@ updated: 2026-11-11
 > [!critique] 对量化崇拜、概念数学化与科学主义的系统清算
 > - **计算崇拜与去个性化危机（Ions, 1977）** 特里·扬斯痛陈社会科学对定量计算与统计学的过度迷信正在造成普遍的去个性化，使社会研究退化为冷漠的数学分支，剥离了对人类生存困境的温情关照。
 > - **概念数学化与科学主义意识形态（Horkheimer, 1972）** 马克斯·霍克海默批判实证主义将质性概念强行还原为数学公式，将实证经验方法神化为唯一合法的理性形态，形成了极具压迫性的科学主义（scientism）意识形态。
-> - **客观意识与自我疏离（Roszak, 1970, 1972）** 西奥多·罗斯扎克指责实证科学对所谓客观意识的偏执追逐，切断了人与自身直觉、情感及自然深层联结，直接引发了深刻的存在疏离与心理异化。
+> - **客观意识与自我疏离（Roszak, 1970, 1972）** 西奥多·罗斯扎克指责实证科学对所谓客观意识的偏执追逐，切断了人与自身直觉、情感及自然深层联结，直接引发了深刻的存在疏离与心理[[Alienation|异化]]。
 > - **心灵内在世界与伦理价值的破产（Holbrook, 1977）** 大卫·霍尔布鲁克抨击实证经验主义在面对人类心灵的内在精神世界、意义追求与道德伦理价值时展现出彻底的认识论贫困与精神破产。
 > - **外在行为偏见与零件拼凑整体（Hampden-Turner, 1970）** 查尔斯·汉普登-特纳指出，传统量化社会科学带有保守主义偏见，只关注人身上可重复、机械且容易预测的“可见外在行为”，试图用碎片化零件拼凑出虚假的整体人类形象。
 
@@ -600,7 +602,7 @@ updated: 2026-11-11
 > [!critique-fatal] 法兰克福学派与哈贝马斯：工具理性危机与“无良知社会”
 > 实证主义对预测与控制的痴迷，暗合了行为主义的操纵逻辑与狭隘工具理性，剥夺了人类行为中开放、创造与人道关怀的维度。哈贝马斯（Habermas, 1974）与霍克海默深刻指出：实证主义粗暴扼杀了关于社会价值、道德判断与善恶信念的公共理性辩论，使科学沦为服务于既得统治的技术工具，最终造就了一个丧失道德自省能力的“没有良知的社会”。
 
-正如路德维希·维特根斯坦（Ludwig Wittgenstein）所警示，实证主义对预测控制的执念最终将人类关入冰冷的机械牢笼：“即便所有可能的科学问题都已得到解答，我们生命的根本问题却依然未曾被触及”（Wittgenstein, 1974）。
+正如[[Martin Luther|路德]]维希·维特根斯坦（Ludwig Wittgenstein）所警示，实证主义对预测控制的执念最终将人类关入冰冷的机械牢笼：“即便所有可能的科学问题都已得到解答，我们生命的根本问题却依然未曾被触及”（Wittgenstein, 1974）。
 
 ---
 

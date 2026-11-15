@@ -11,7 +11,7 @@ subtype: program
 region: asia
 fact_region: "asia"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
   - theme/educational-finance
 related_concepts:
   - "[[School Autonomy]]"
+  - "[[Alienation]]"
   - "[[Counterpart Funds]]"
   - "[[Discourse]]"
   - "[[Transnational Education]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-23
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 # Third Elementary Education Project in India
@@ -104,7 +105,7 @@ updated: 2026-11-11
 > - **一线学校与社区执行主体** 全印 140 万所小学的校长、450 万名教师及学校管理委员会（[[Science Media Centre|SMC]]）家长代表。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 9)]]
 
 > [!pathways] 实施路径与管理
-> - **邦际差异化绩效协议** 结合印度联邦制特点，世行与各邦分别签订实施进度协议，建立差别化督导通道。
+> - **邦际差[[Alienation|异化]]绩效协议** 结合印度联邦制特点，世行与各邦分别签订实施进度协议，建立差别化督导通道。
 > - **密集的技术援助与现场督导** 2015 财年世行在印度派驻庞大团队，在全国 2,271 个实施点密集跟进 152 个项目，其中 44 个项目涉及教育构件。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 9)]]
 > - **数字化档案即时回传** 建设全印统一的教育管理信息系统（EMIS），将各校测试与出勤数据直接呈报中央。
 

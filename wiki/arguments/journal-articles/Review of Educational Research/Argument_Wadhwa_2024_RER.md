@@ -11,7 +11,7 @@ title: "Argument_Wadhwa_2024_RER"
 argument_key: "Argument_Wadhwa_2024_RER"
 argument_display_title: "How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs"
 argument_kind: "journal-article"
-argument_related_count: 86
+argument_related_count: 87
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -69,6 +69,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Social-Emotional Learning]]"
   - "[[Learning Strategies]]"
+  - "[[Alienation]]"
   - "[[Output-Oriented Governance]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
@@ -130,7 +131,7 @@ sources:
 part_of: ""
 status: active
 created: 2026-05-05
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 ---
 
@@ -419,7 +420,7 @@ updated: 2026-11-11
 > [!warrant]- 步骤五深度解读：微观案例如何解构宏观评价的神话
 > 五个典型案例精准剖析了清算中心评级分歧在现实运作中的四大微观生成机制：
 > 1. **“假一致”背后的隐蔽分歧（OCR 案例）** 即使底线评级相同，清算中心对混杂变量（如教学时间差异达 60 分钟/天）和聚类偏倚的包容度截然不同。这种“殊途同归”说明宏观评级抹杀了对教学机理的深层洞察。
-> 2. **结果域聚合的降维陷阱（SFA 案例）** 复杂干预往往在基础技能（拼读）上见效快，而在高阶技能（理解）上难以短期突破。WWC 的细分报告展现了真实复杂性，而单一评分机构将其打包为统一分数，掩盖了干预在不同认知层次上的差异化表现。
+> 2. **结果域聚合的降维陷阱（SFA 案例）** 复杂干预往往在基础技能（拼读）上见效快，而在高阶技能（理解）上难以短期突破。WWC 的细分报告展现了真实复杂性，而单一评分机构将其打包为统一分数，掩盖了干预在不同认知层次上的差[[Alienation|异化]]表现。
 > 3. **文献隔离与证据筛选的“黑天鹅”效应（PALS 案例）** 不同中心评审同一项目时，文献重合度竟然接近于零。Blueprints 凭借严苛标准将 94% 的研究淘汰，而 CMFR 因 6 个月随访缺失一票否决。这证明评级结论极大程度取决于清算中心文献漏斗的过滤网目大小。
 > 4. **制度准入刚性与极性冲突（CIS 案例）** CIS 的极端对立（NDPC 强推 vs CMFR 拒认）展示了“灰色委托报告”与“严格同行评审期刊”之间的制度壁垒。当一家中心完全采信项目方委托评估时，其结论必然与坚守外部学术审稿门槛的中心发生正面对撞。
 

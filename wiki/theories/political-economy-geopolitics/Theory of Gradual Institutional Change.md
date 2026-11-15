@@ -8,7 +8,7 @@ aliases:
 summary: "历史制度主义的核心中观理论，由沃尔夫冈·施特雷克、凯瑟琳·希伦与詹姆斯·马奥尼先后奠定；突破传统间断均衡模型将制度视为静态稳态的偏误，将制度界定为具有权力分配后果的社会规制；基于成文规则与基层执行之间的内生缝隙，系统建构置换、分层、漂移、转换与耗竭五大变迁形态，并通过否决门槛、执行裁量权与微观行动者联盟动力学，解释常态历史时期的颠覆性质变。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 40
+theory_related_count: 42
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Policy Science in Comparative Education]]"
   - "[[Document]]"
   - "[[Variable]]"
+  - "[[Alienation]]"
   - "[[Institutional Conversion]]"
   - "[[Strategic Compliance]]"
   - "[[Zone of Discretion]]"
@@ -52,6 +53,7 @@ related_persons:
   - "[[Kathleen Thelen]]"
   - "[[James Mahoney]]"
   - "[[Max Weber]]"
+  - "[[Charles Hirschman]]"
   - "[[Theda Skocpol]]"
   - "[[Peter A. Hall]]"
   - "[[Paul Pierson]]"
@@ -67,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-11
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -86,7 +88,7 @@ updated: 2026-11-11
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 该理论由两个里程碑阶段共同奠定：第一阶段由[[Wolfgang Streeck|沃尔夫冈·施特雷克]]（Wolfgang Streeck）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）于 2005 年合编专著《超越延续性：发达政治经济体制中的制度变迁》（*Beyond Continuity: Institutional Change in Advanced Political Economies*）导论确立形态学基础；第二阶段由[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）与希伦于 2009 年合编专著《解释制度变迁：模糊性、能动性与权力》（*Explaining Institutional Change: Ambiguity, Agency, and Power*）导论完成行动者[[Causal Modeling|因果建模]]。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 1–39)]]; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
 > - **原初问题** 为何西方发达国家的核心体制（如德国劳资共决与[[Apprenticeship|双元制学徒培训]]、法国国家干预与社会保障、美国养老与医疗体系）在没有经历外部战争、革命崩溃或宏观灾难的情况下，其治理职能与权力分配后果发生了实质性的根本逆转。
-> - **理论资源与材料** 吸收了[[Max Weber|马克斯·韦伯]]的支配组织学说、卡尔·波兰尼的双向运动理论、阿尔伯特·赫希曼的呼吁与退出模型、赛达·[[Theda Skocpol|斯考切波]]（Theda Skocpol）与[[Peter A. Hall|彼得·A·霍尔]]（Peter A. Hall）关于制度承载权力偏向的界定、[[Paul Pierson|保罗·皮尔逊]]（Paul Pierson）的时间性与非预期后果理论、[[Jacob S. Hacker|雅各布·S·哈克]]（Jacob S. Hacker）的[[Institutional Drift|政策漂移]]说，以及[[George Tsebelis|乔治·茨贝利斯]]（George Tsebelis）的否决者理论。
+> - **理论资源与材料** 吸收了[[Max Weber|马克斯·韦伯]]的支配组织学说、卡尔·波兰尼的双向运动理论、阿尔伯特·[[Charles Hirschman|赫希曼]]的呼吁与退出模型、赛达·[[Theda Skocpol|斯考切波]]（Theda Skocpol）与[[Peter A. Hall|彼得·A·霍尔]]（Peter A. Hall）关于制度承载权力偏向的界定、[[Paul Pierson|保罗·皮尔逊]]（Paul Pierson）的时间性与非预期后果理论、[[Jacob S. Hacker|雅各布·S·哈克]]（Jacob S. Hacker）的[[Institutional Drift|政策漂移]]说，以及[[George Tsebelis|乔治·茨贝利斯]]（George Tsebelis）的否决者理论。
 > - **形成路径** 首先将制度界定为依赖第三方强制力的社会规制体系，揭示规则设计与基层落实之间的结构性张力，建构过程（渐进/突发）与结果（延续/断裂）的二维属性矩阵，提炼五大渐进演进形态；随后引入微观行动者遵从博弈与否决点环境，形成完整的中观解释理论。
 
 > [!dev-timeline] 理论演进与学术扩展
@@ -102,7 +104,7 @@ updated: 2026-11-11
 > | **社会规制体系**<br>Social Regimes | 核心本体 | 将制度界定为由规则制定者、遵守者与行使强制力的第三方共同构成的权力规制网络。（[[Argument_Streeck_Thelen_2005_OUP\|Streeck & Thelen, 2005, pp. 11–14]]） |
 > | **成文规则与执行缝隙**<br>Rule-Enactment Gaps | 微观温床 | 揭示认知局限、政治妥协、策略性遵从与时间流变制造的操作缝隙，使内生演进成为可能。（[[Argument_Streeck_Thelen_2005_OUP\|Streeck & Thelen, 2005, pp. 13–16]]） |
 > | **[[Institutional Displacement\|制度置换]]** | 演进形态 | 次要制度相对于主导制度的重要性缓慢上升，或外来惯例与本土沉睡资源被激活，逐步反客为主挤出旧体制。（pp. 19–22） |
-> | **[[Institutional Layering\|制度分层]]** | 演进形态 | 面对强大否决阻力，改革者在旧核心边缘附加修补性新规，借助差异化增长逐步掏空旧核心。（pp. 22–24） |
+> | **[[Institutional Layering\|制度分层]]** | 演进形态 | 面对强大否决阻力，改革者在旧核心边缘附加修补性新规，借助差[[Alienation\|异化]]增长逐步掏空旧核心。（pp. 22–24） |
 > | **[[Institutional Drift\|制度漂移]]** | 演进形态 | 外部社会经济环境发生变迁，政治决策者策略性不作为阻挠规则更新，导致制度保护效力实质缩水。（pp. 24–26） |
 > | **[[Institutional Conversion\|制度转换]]** | 演进形态 | 成文规则保持完好，新行动者介入掌握操作权，利用法条的多义性将旧结构整体引向全新目标。（pp. 26–28） |
 > | **[[Institutional Exhaustion\|制度耗竭]]** | 演进形态 | 制度常规、成功的日常履行本身逐步吃光支撑其存续的外部财政或人口生态，遭遇增长极限而消亡。（pp. 29–31） |

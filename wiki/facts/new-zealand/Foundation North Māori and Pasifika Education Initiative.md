@@ -12,7 +12,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Policy Network]]"
   - "[[Performance Indicators]]"
+  - "[[Alienation]]"
   - "[[Paradigm]]"
   - "[[Network Governance]]"
   - "[[Educational Management Organisation]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -138,7 +139,7 @@ updated: 2026-11-11
 
 > [!lessons] 经验教训与启示
 > - **脱嵌式商业量规的失败** 单纯移植金融风险投资的尽职调查与变革理论无法解决复杂的弱势群体教育问题；忽视本土文化语境与社区主体性的高介入管理，必然导致基层抗拒与机制失灵。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 76–80)]]
-> - **中介咨询肥大症警示** 风险慈善若缺乏对专业中介开销的有效约束，容易异化为咨询顾问自我服务、侵吞公共资助的温床，必须确保资金真正下沉到一线师生。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 78–80)]]
+> - **中介咨询肥大症警示** 风险慈善若缺乏对专业中介开销的有效约束，容易[[Alienation|异化]]为咨询顾问自我服务、侵吞公共资助的温床，必须确保资金真正下沉到一线师生。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 78–80)]]
 
 ---
 

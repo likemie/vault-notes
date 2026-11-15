@@ -8,7 +8,7 @@ aliases:
 summary: "国家或地区战略性汇聚本土与跨国行动者开展教育、培训、知识生产与技术创新的高教集聚体（Knight, 2014）。涵盖学生枢纽、人才枢纽与知识/创新枢纽三种演进形态，兼具文化外交与政治经济双重运作维度；中国等转型大国依托产学政三螺旋协同，生成了单核驱动、多核集群与园区平台共享等差异化空间治理模式。"
 type: concept
 domain: "higher-education"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Heterogeneity]]"
+  - "[[Alienation]]"
   - "[[Community of Shared Future for Mankind]]"
   - "[[Relational Space]]"
   - "[[One Country, Two Systems]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-07'
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -152,7 +153,7 @@ updated: 2026-11-11
 
 ---
 
-> [!concept-proposition] 命题三｜国家区域发展战略与制度[[Heterogeneity|异质性]]催生教育枢纽差异化的空间治理形态
+> [!concept-proposition] 命题三｜国家区域发展战略与制度[[Heterogeneity|异质性]]催生教育枢纽差[[Alienation|异化]]的空间治理形态
 > **大国多轨空间模式与三螺旋协同** 探讨巨型经济体如何在多层级国家战略驱动下，因地制宜形成突破西方单一城邦经验的复杂制度性空间模式。
 
 > [!claim] Yu, J. & Xie, A.

@@ -8,7 +8,7 @@ aliases:
 summary: "大学主动重构内部文化、组织架构与激励机制以融入经济社会发展的学术转型范式；经历从早期技术转移与专利创收（第二代）向应对重大社会挑战的使命型活体实验室（第三代）的演进；在欧洲大陆高教治理中，极端自由市场企业化方案因侵蚀公共品属性而遭到否决，转而探索法团网络间接操纵路径。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Research Universities]]"
   - "[[Corporate University]]"
+  - "[[Alienation]]"
   - "[[Wicked Problem]]"
   - "[[Public Value]]"
   - "[[Citizen Science]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -94,7 +95,7 @@ updated: 2026-11-11
 > [!boundary]- 概念边界
 > - 不等于 传统象牙塔[[Research Universities|研究型大学]] — 后者以纯粹学术发现与文章发表为唯一旨趣，刻意与外部商业利益保持绝缘距离；创业型大学主动拆解制度藩篱，将知识转化为实际生产力。
 > - 不等于 营利性企业化大学（[[Corporate University]]） — 企业化大学主要作为母公司的内部培训分支运营，不具备法定学术法人地位与学术自由；创业型大学保留完整的独立学术建制与公立教育职能。
-> - 不等于 极端自由市场商业实体 — 创业型大学的组织自主性与灵活性并不等同于彻底私有化和逃离公共责任；特别是在欧陆高教体系中，大学拒绝将自身异化为追逐资本暴利与自定高额学费的自由市场投机商。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 147–148)]]
+> - 不等于 极端自由市场商业实体 — 创业型大学的组织自主性与灵活性并不等同于彻底私有化和逃离公共责任；特别是在欧陆高教体系中，大学拒绝将自身[[Alienation|异化]]为追逐资本暴利与自定高额学费的自由市场投机商。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 147–148)]]
 
 ---
 

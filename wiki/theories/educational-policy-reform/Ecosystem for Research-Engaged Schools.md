@@ -7,7 +7,7 @@ aliases:
 summary: "由 Godfrey 和 Brown（2019）提出的框架，用微观、中观、外、宏观与时间五层生态绘制研究参与如何嵌入更大的教育生态，是分析研究参与学校多层级条件的理论透镜"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 21
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Professional Learning Community]]"
   - "[[Phronesis]]"
+  - "[[Alienation]]"
   - "[[Research Utilization]]"
   - "[[Academic Achievement]]"
 related_theories:
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -121,7 +122,7 @@ updated: 2026-11-11
 > [!exegesis]- 从理论到材料的一次完整分析
 > - **现象与问题** 一所普通公立小学希望转型为研究参与学校，但推行一年后教师抱怨任务繁重且脱离教学。
 > - **维度与材料** 收集校内课表排程、教师工作日志、学区考核方案与教研纪要。微观层面发现没有固定的教研课时，教师需利用备课时间完成研究报告；中观层面发现学校与邻近优质校缺乏教研互动；宏观层面发现学区督导只检查纸质科研课题立项书，忽视日常课堂转化。
-> - **综合判读** 该校研究参与的阻滞源于微观时间赤字、中观孤立及宏观形式化课题指标的联合挤压，使研究参与异化为额外行政负担。
+> - **综合判读** 该校研究参与的阻滞源于微观时间赤字、中观孤立及宏观形式化课题指标的联合挤压，使研究参与[[Alienation|异化]]为额外行政负担。
 > - **结论强度** 该分析为调整校本排程与争取区域学区支持提供了诊断地图，但不直接推导特定课题对学生成绩的量化贡献。
 
 ---

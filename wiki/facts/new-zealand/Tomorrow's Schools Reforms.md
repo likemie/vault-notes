@@ -9,9 +9,9 @@ subtype: policy
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "policy"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "新西兰教育部"
 tags:
@@ -26,6 +26,7 @@ related_concepts:
   - "[[School Autonomy]]"
   - "[[Epoché]]"
   - "[[Transnational Education]]"
+  - "[[Alienation]]"
   - "[[Network Governance]]"
   - "[[Effective Teaching]]"
 related_theories: []
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-04'
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -113,7 +114,7 @@ updated: 2026-11-11
 > > - **新自由主义分权倡导者** 认为撤销中央官僚层级能够增强学校对地方社区需求的响应度，促进学校间良性竞争并激发办学活力。
 > > - **批判社会学学者** 批评单纯的行政管理调整完全避开了微观课堂教学，优势学区与薄弱学区的两极分化在市场竞争下进一步加剧，导致 87% 的学校面临经费短缺与过载的文书工作负担。[[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, p. 120)]]
 >
-> > [!axis] 公共支持服务竞争化 vs 利益输送与商业化异化
+> > [!axis] 公共支持服务竞争化 vs 利益输送与商业化[[Alienation|异化]]
 > > 围绕教育支持服务市场化改革展开的治理争议。
 > >
 > > - **政府效率导向** 主张引入竞争性招标（Contestable Services）能够降低后勤支持成本，打破垄断。

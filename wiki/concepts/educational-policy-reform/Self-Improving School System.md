@@ -8,7 +8,7 @@ aliases:
 summary: "英格兰基础教育治理转型中的核心政策取向，主张学校与教师承担自我改进的第一责任，依托多学院信托与教学学校联盟实现校际互助与证据扩散，将中央干预降至最低；其实践成效高度依赖学校的研究使用能力，并与延续的高压绩效问责体制存在深层结构性张力。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Recontextualization]]"
   - "[[Activity Traps]]"
+  - "[[Alienation]]"
   - "[[Grandes Ecoles]]"
   - "[[Performativity]]"
   - "[[School Leadership]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -155,7 +156,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题二｜自我改进取向与外部高压绩效问责存在深层制度张力，易诱发[[Strategic Compliance|策略性合规]]与[[Activity Traps|活动陷阱]]
-> **制度环境与行为异化** 剖析去中心化自我改进主张与集中化高压问责体制在同一制度空间内的相互冲突，揭示问责压力如何扭曲学校的证据使用行为。
+> **制度环境与行为[[Alienation|异化]]** 剖析去中心化自我改进主张与集中化高压问责体制在同一制度空间内的相互冲突，揭示问责压力如何扭曲学校的证据使用行为。
 
 > [!claim] Brown, C. & Greany, T.; Greany, T.
 > **高压问责框架对证据知情改进产生挤出效应** 尽管政策宣称赋予[[School Autonomy\|学校自主权]]，但英格兰现行的全国统一考试、排名榜与教育标准局（[[Ofsted]]）督导分级构成了决定性的外在惩戒结构。在严苛问责下，终结性测验数据压倒了一切形成性研究证据，学校往往倾向于揣摩督导员的偏好或盲从流行做法，从而跳过问题成因分析径直扑向解法，深陷形式主义的[[Activity Traps\|活动陷阱]]。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 121–122, 129–131)]]

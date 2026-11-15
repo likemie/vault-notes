@@ -7,7 +7,7 @@ title: "Argument_Sobe_Fischer_2009_MobilityMigration"
 argument_key: "Argument_Sobe_Fischer_2009_MobilityMigration"
 argument_display_title: "Mobility, migration and minorities in education"
 argument_kind: "book-chapter"
-argument_related_count: 57
+argument_related_count: 58
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Teacher Mobility]]"
   - "[[Multiple Institution Attendance]]"
   - "[[Philosophical Aesthetics]]"
+  - "[[Alienation]]"
   - "[[Attrition]]"
   - "[[Migrant Education]]"
   - "[[Language Skills]]"
@@ -100,7 +101,7 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: completed
 created: 2026-10-10
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 ---
 
@@ -244,7 +245,7 @@ updated: 2026-11-14
 > | **教育学段与核心主体** | 高等教育阶段本科生与研究生（文化精英自主选择） | 基础教育中小学生（K–12，城市贫困与少数族裔被动应对） |
 > | **政策法规与制度平台** | [[Erasmus Programme\|ERASMUS]]、[[TEMPUS]] 终身学习计划框架 | 《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（NCLB）学校绩效报告卡 |
 > | **核心语义与修辞色彩** | 流动（Mobility）、自由、欧洲认同、跨文化资产 | [[Transiency\|漂泊]]（Transiency）、失范、贫困病态、学业风险 |
-> | **治理功能定位** | 建构超国家公民归属感与网络化弹性[[Employability\|就业能力]] | 识别学校生源异化、解释未达 AYP 绩效达标的减分因子 |
+> | **治理功能定位** | 建构超国家公民归属感与网络化弹性[[Employability\|就业能力]] | 识别学校生源[[Alienation\|异化]]、解释未达 AYP 绩效达标的减分因子 |
 > | **对主体移动的定性** | 自主自决的公民权利与崇高时代美德 | 拒绝服从空间圈禁规训的越轨偏离行为 |
 > | **高等教育跨校流动** | 制度化全欧洲学分互认与学位无缝衔接 | 降格为[[Multiple Institution Attendance\|多机构就读]]，被指责为降低系统效率与毕业率 |
 > | **[[Teacher Mobility\|教师流动]]政策镜像** | 消除边境壁垒、统一欧洲师资资质的理想目标 | 师资流失危机（[[Attrition]]），揭示良师逃离贫困薄弱学校 |

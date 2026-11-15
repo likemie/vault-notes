@@ -10,7 +10,7 @@ title: "Argument_Nielsen_2021_IRTP"
 argument_key: "Argument_Nielsen_2021_IRTP"
 argument_display_title: "Measured lives in educational psychology"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Technical Rationality]]"
+  - "[[Alienation]]"
   - "[[Variable]]"
   - "[[Discourse]]"
   - "[[Positivism]]"
@@ -71,7 +72,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-29
+updated: 2026-11-15
 year: 2021
 doi: ""
 citation_aliases:
@@ -84,7 +85,7 @@ citation_aliases:
 > 为什么[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）的《[[Visible Learning|可见的学习]]》（Visible Learning, VL）在统计方法和数据合成上存在公认的严重缺陷，却依然能风靡全球，受到政策制定者、学校行政管理者与教师的极度追捧？
 
 > [!claim] 核心主张
-> 哈蒂著作的广泛流行并非由于其经验数据的科学严谨，而是因为它所蕴含的[[Technical Rationality|技术理性]]（[[Technical Rationality]]）迎合了现代学校应对[[Legitimation Crisis|合法化危机]]（[[Legitimation Crisis]]）的紧迫需要；它许诺通过标准化的因果干预产出可预测的成绩，换取了公众对教育系统的信任，但代价是把鲜活的师生异化为冷冰冰的测量[[Variable|变量]]，剥离了教育真正的意义寻求。
+> 哈蒂著作的广泛流行并非由于其经验数据的科学严谨，而是因为它所蕴含的[[Technical Rationality|技术理性]]（[[Technical Rationality]]）迎合了现代学校应对[[Legitimation Crisis|合法化危机]]（[[Legitimation Crisis]]）的紧迫需要；它许诺通过标准化的因果干预产出可预测的成绩，换取了公众对教育系统的信任，但代价是把鲜活的师生[[Alienation|异化]]为冷冰冰的测量[[Variable|变量]]，剥离了教育真正的意义寻求。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 哈蒂的《[[Visible Learning|可见的学习]]》理论框架，及其在西方国家（特别是丹麦 2014 年义务教育改革）中的政策转化与学校实践。

@@ -7,7 +7,7 @@ title: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_key: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_display_title: "Research on research use in schools: A systematic review with a framework synthesis"
 argument_kind: "journal-article"
-argument_related_count: 91
+argument_related_count: 92
 argument_related_level: 9
 argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
@@ -67,6 +67,7 @@ related_concepts:
   - "[[Communities of Practice]]"
   - "[[Class Size]]"
   - "[[Homework]]"
+  - "[[Alienation]]"
   - "[[Institutional Distrust]]"
   - "[[Normal School]]"
   - "[[Scientific Literacy]]"
@@ -133,7 +134,7 @@ sources:
 part_of:
 status: completed
 created: 2026-08-25
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -330,7 +331,7 @@ updated: 2026-11-11
 > 而在高收入国家的干预实验中，See et al. (2016) 揭示了一个耐人寻味的对称现象：即便外部研究团队专门为教师争取并划拨了固定的文献研讨时段，在缺乏结构化引导、人际互信与长效机制支撑的情况下，教师在划拨的时段内往往会不自觉地转去批改[[Homework|作业]]或处理琐碎行政公文。这表明，单纯从外部孤立地提供时间或材料，若无法触动底层的评价机制与专业责任，根本无法自发启动有深度的研究参与。
 
 > [!case] 高表现系统中的研究武器化与改革封锁（Barrett & Prendergast, 2025）
-> 问责不仅在低表现学校引发防御性平庸，在高表现教育体系中同样异化为抵制变革的盾牌。Barrett and Prendergast (2025) 调查爱尔兰的中学教学改革时发现，政策制定者与保守管理层频繁援引爱尔兰在 PISA 国际测验中长年保持的优异排名，论证学校无需增拨任何科研研讨经费，甚至将现存的高分数据作为武器，压制一线教师试图基于前沿认知科学改进教学的任何创新尝试。研究证据在此处被完全象征化与策略化：政策制定者将高分数据直接用作证明现状无懈可击并封锁专业反思的合法化工具。
+> 问责不仅在低表现学校引发防御性平庸，在高表现教育体系中同样[[Alienation|异化]]为抵制变革的盾牌。Barrett and Prendergast (2025) 调查爱尔兰的中学教学改革时发现，政策制定者与保守管理层频繁援引爱尔兰在 PISA 国际测验中长年保持的优异排名，论证学校无需增拨任何科研研讨经费，甚至将现存的高分数据作为武器，压制一线教师试图基于前沿认知科学改进教学的任何创新尝试。研究证据在此处被完全象征化与策略化：政策制定者将高分数据直接用作证明现状无懈可击并封锁专业反思的合法化工具。
 
 > [!figure]- 研究使用的障碍与促成因素编码
 > ![](https://img.mylikemie.icu/sources/Hagevold_Forsstrom_Keles_2026_ERR/figures/Hagevold_Forsstrom_Keles_2026_ERR_Fig3_Barriers_Enablers.jpg)

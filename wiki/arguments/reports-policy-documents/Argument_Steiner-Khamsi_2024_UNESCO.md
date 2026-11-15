@@ -7,7 +7,7 @@ title: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_key: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_display_title: "Strategic review: Improving the use of evidence for education policy, planning and implementation"
 argument_kind: "report"
-argument_related_count: 120
+argument_related_count: 121
 argument_related_level: 12
 argument_related_stars: "💎💎💎💎"
 argument_related_color: "#fecdd3"
@@ -66,6 +66,7 @@ related_concepts:
   - "[[Foundational Literacy and Numeracy]]"
   - "[[Global Citizenship]]"
   - "[[Appropriate Research]]"
+  - "[[Alienation]]"
   - "[[Clinical Trial]]"
   - "[[Paradigm]]"
   - "[[Commensuration]]"
@@ -168,7 +169,7 @@ related_facts:
   - "[[Lemann Foundation]]"
 status: draft
 created: 2026-10-22
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 ---
 
@@ -358,7 +359,7 @@ updated: 2026-11-11
 > | 国际大平台信息主要采用英语，多语种支持存在巨大差异（p. 27）。 | 为证据平台提供多语种专项资助，推动研究产出向联合国官方语言及主要本土语言转译（p. 27）。 |
 > | 不同专业群体（政府官员与公民社会）的证据获取渠道高度分化（p. 27）。 | 促进战略性跨部门伙伴协作，推动政府行政部门吸纳民间社会组织已建立的多元[[Evidence Network\|证据网络]]（p. 27）。 |
 > | 各国受访者强烈要求提升证据对国家情境的适切性并保障本土参与权（p. 27）。 | 授权区域性实体建立横向与纵向协调机制，对国家级循证机构给予直接资金扶持（p. 27）。 |
-> | 全球北方受访者强调改善检索界面与便捷性，全球南方受访者呼吁强化转化与应用能力（p. 27）。 | 克服一刀切的技术方案，依循南北方差异化诉求开展精准能力建设与制度赋权（p. 27）。 |
+> | 全球北方受访者强调改善检索界面与便捷性，全球南方受访者呼吁强化转化与应用能力（p. 27）。 | 克服一刀切的技术方案，依循南北方差[[Alienation\|异化]]诉求开展精准能力建设与制度赋权（p. 27）。 |
 
 ---
 

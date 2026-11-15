@@ -59,8 +59,8 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Teacher Immediacy]]"
   - "[[Self-report Bias]]"
-  - "[[Doctoral Dissertation]]"
   - "[[Reliability]]"
+  - "[[Alienation]]"
   - "[[Problem Solving]]"
   - "[[Dialogue in Education]]"
   - "[[Student-Teacher Relationship]]"
@@ -104,7 +104,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: 2026-11-11
+updated: 2026-11-15
 year: 2021
 doi: "10.1080/19012276.2021.1962731"
 citation_aliases:
@@ -299,7 +299,7 @@ citation_aliases:
 
 > [!chain-link] 反馈超级效应量的虚妄生成与方法论崩溃链条
 > - **前提：构念边界失控与异质拼贴** 将课堂奖励（Lysakowski, 1980）、教学指令（Lysakowski, 1982）、教师微笑与幽默（Witt et al., 2004）、认知测验诊断提示（Swanson & Lussier, 2001）不加鉴别地通通归入反馈范畴。
-> - **机制：低质研究累加与数据污染** 采纳大量缺乏控制组、充斥[[Self-report Bias|自陈偏差]]及包含 22 项未刊印[[Doctoral Dissertation|学位成果]]的边缘研究（如 Witt 等的亲和力文献），导致艾森克（Hans Eysenck）所指出的垃圾进、垃圾出（garbage in, garbage out）效应（Borenstein et al., 2009, p. 380; p. 12）。
+> - **机制：低质研究累加与数据污染** 采纳大量缺乏控制组、充斥[[Self-report Bias|自陈偏差]]及包含 22 项未刊印学位成果的边缘研究（如 Witt 等的亲和力文献），导致艾森克（Hans Eysenck）所指出的垃圾进、垃圾出（garbage in, garbage out）效应（Borenstein et al., 2009, p. 380; p. 12）。
 > - **机制：选择性忽视反向证据** 将唯一真正研究反馈且发现其具有 38% 负效应与仅 0.38 效应量的严密综述（Kluger & DeNisi, 1996），湮没在异质高分数字的统计均值中。
 > - **结论：合成脱离现实的虚假指标** 最终合成出一个脱离教学实体、高达 $d = 0.73$ 的抽象数字，将多元异质的教育现象伪造为统一的技术法则。
 
@@ -319,7 +319,7 @@ citation_aliases:
 ---
 
 > [!claim|step] 论证步骤四　技术理性消解人的意向性并沦为新泰勒主义规训工具
-> 哈蒂的技术理性模式通过将教育降格为去情境的输入—输出系统，彻底消解了学习者与教师的[[Intentionality|意向性]]、自主性与生活世界意义生成，将人异化为单纯的技术[[Problem Solving|问题解决]]器，实质上演变成为一种为自上而下的[[Neo-Taylorism|新泰勒主义]]管理控制提供合法化外衣的意识形态。
+> 哈蒂的技术理性模式通过将教育降格为去情境的输入—输出系统，彻底消解了学习者与教师的[[Intentionality|意向性]]、自主性与生活世界意义生成，将人[[Alienation|异化]]为单纯的技术[[Problem Solving|问题解决]]器，实质上演变成为一种为自上而下的[[Neo-Taylorism|新泰勒主义]]管理控制提供合法化外衣的意识形态。
 
 > [!sub-claim] 1. 工具主义控制将能动学习者降格为被动的技术问题解决器
 

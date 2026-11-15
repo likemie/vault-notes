@@ -14,7 +14,7 @@ aliases:
 summary: "由 Ray Pawson 与 Nick Tilley 创立并经 Bonell 等人发展的科学实在论评估理论与实验范式，主张干预通过在特定背景中向受试者提供资源并激活其推理而产生非线性结果，倡导以多臂析因设计与过程评估打破因果黑箱，并将评估核心拓展至观察者制度位置与时间尺度对变迁定性的深层制约。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 51
+theory_related_count: 52
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Self-Efficacy]]"
   - "[[Co-Teaching]]"
+  - "[[Alienation]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -82,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-06-19'
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -183,7 +184,7 @@ updated: 2026-11-11
 
 > [!exegesis]- 教学助理（Teaching Assistant）的 CMO 配置解构
 > [[Education Endowment Foundation|EEF]] Toolkit 早期的[[Meta-meta-analysis|元-元分析]]将教学助理（TA）项目概括为“低影响、高成本”（平均效应量仅 $+0.08$），引发许多学校削减 TA 岗位的政策波动。实在论评估对这一扁平结论进行深入解构，揭示出两类截然不同的 CMO 配置：
-> - **配置 A（无效/异化）** 学校缺乏协同备课时间（背景 C1） + 学校习惯将学习困难学生直接推给 TA 托管，变相剥夺其接受骨干教师主讲的权利（背景 C2） + TA 缺乏系统教学指引导致认知挫败（机制 M1 抑制） \(\rightarrow\) 学生成绩停滞不前（结果 O1）。
+> - **配置 A（无效/[[Alienation|异化]]）** 学校缺乏协同备课时间（背景 C1） + 学校习惯将学习困难学生直接推给 TA 托管，变相剥夺其接受骨干教师主讲的权利（背景 C2） + TA 缺乏系统教学指引导致认知挫败（机制 M1 抑制） \(\rightarrow\) 学生成绩停滞不前（结果 O1）。
 > - **配置 B（高效/赋能）** 学校确立制度化的师生辅协同备课机制（背景 C3） + 教师与 TA 在班级教学中具有精细化分工梯队（背景 C4） + TA 针对特定概念提供结构化支架并激发学生学业[[Self-Efficacy|自我效能]]（机制 M2 激活） \(\rightarrow\) 学生取得显著学业进步（结果 O2）。
 > 扁平的平均效应量抹杀了上述关键制度配置，造成了重大的政策误读（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]]）。
 

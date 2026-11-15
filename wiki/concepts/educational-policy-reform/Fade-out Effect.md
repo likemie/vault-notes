@@ -11,7 +11,7 @@ aliases:
 summary: "教育与社会干预在停止实施后即时正向效应随时间推移逐渐萎缩直至消失的普遍经验现象，以及方案从理想效力试验走向大规模实效推广时的效应断崖式归零（电压降），构成了现代循证清算与行政大数据长期追踪的核心审查关卡。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Hawthorne Effect]]"
   - "[[Technological Catch-up]]"
   - "[[Business as Usual]]"
+  - "[[Alienation]]"
   - "[[Implementation Fidelity]]"
   - "[[Counterfactual]]"
   - "[[Metacognition]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -108,7 +109,7 @@ updated: 2026-11-11
 
 > [!concept-lens] 效应衰退的五大生成机制
 > - **对照组自发追赶与自然成熟（Control Group [[Technological Catch-up|catch-up]]）** 干预组学生通过高强度专项集训提前掌握了某些低阶可教技能（如特定字母发音或基础算术规则）；但在后续学期中，对照组学生在[[Business as Usual\|常态教学]]中也逐步自然习得，使得两组之间的相对学业差距被自然抹平（Bailey et al., 2017）。
-> - **后续环境脱节与支持断层（Subsequent Environment Mismatch）** 学生在项目支持下获得了良好习惯，但项目结束后升入资源匮乏、缺乏差异化指导的常态薄弱班级（“贫瘠土壤”），前期积累的学业红利缺乏承接支架而被迅速消解。
+> - **后续环境脱节与支持断层（Subsequent Environment Mismatch）** 学生在项目支持下获得了良好习惯，但项目结束后升入资源匮乏、缺乏差[[Alienation|异化]]指导的常态薄弱班级（“贫瘠土壤”），前期积累的学业红利缺乏承接支架而被迅速消解。
 > - **新奇效应退潮与非认知动机回落（Decay of Novelty & Motivation）** 即时显著收益常混合了新硬件、额外金钱奖励或研究者特殊关注带来的[[Hawthorne Effect\|霍桑效应]]；一旦恢复日常教学常态，学生的专注度与额外投入迅速回落至常规基线。
 > - **规模化级联培训稀释（Cascade Dilution in Scale-up）** 当方案从 20 所学校的[[Efficacy Trial\|效力试验]]迅速扩张至 200 所学校的[[Effectiveness Trial\|实效试验]]时，原撰写者无法亲自授课，转由多层中介培训师转导。信息逐级衰减导致课堂[[Implementation Fidelity\|实施保真度]]崩溃，引发大规模效果断崖（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）。
 > - **[[Counterfactual\|反事实]]基线常态演进（Counterfactual Creep）** 随着全行业教研水准提升，对照组学校在日常教学（BAU）中自发采纳了类似的有益教学实践，导致干预措施相对于常规实践的比较优势荡然无存。

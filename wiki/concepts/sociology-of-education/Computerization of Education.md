@@ -7,10 +7,10 @@ aliases:
 summary: "由 William Davies (2022) 批判提出并由 Smith (2026) 引入教育哲学的批判社会学概念，指在标准化改革与高利害测验压力下，读写教育系统性向计算机优势能力（信息处理与模式识别）靠拢，从而边缘化并驱逐人类独有的主观阐释与深层理解；在生成式 AI 时代，算法代劳与套路八股形成恶性共谋，前置并加剧了成长性认识不正义。"
 type: concept
 domain: "sociology-of-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - sociology-of-education
   - educational-policy-reform
@@ -20,6 +20,7 @@ tags:
   - formative-epistemic-injustice
 related_concepts:
   - "[[High-Stakes Testing]]"
+  - "[[Alienation]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Informationalization]]"
   - "[[Epistemology]]"
@@ -47,13 +48,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-23
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Computerization of Education
-> 教育计算机化（Computerization of Education），特别是读写教育的计算机化（Computerization of Literacy Education），是指在教育问责制、课程标准化与[[High-Stakes Testing|高利害测验]]的系统性压力下，学校教育实践逐步将培养目标异化为与计算机算力优势相重合的“信息处理（Information-Processing）”与“模式识别（Pattern Recognition）”技能，从而全面边缘化和驱逐人类心智中不可替代的“主观阐释（Interpretation）”、“批判理解（Understanding）”与道德价值探索的历史演进过程。在智能求知时代，该概念揭示了[[Generative Artificial Intelligence|生成式人工智能]]之所以能迅速接管学生思维，其制度根源在于现行教育体系早已被计算机化模式所驯化。[[Argument_Smith_2026_SPE|Smith (2026, pp. 5–6)]]
+> 教育计算机化（Computerization of Education），特别是读写教育的计算机化（Computerization of Literacy Education），是指在教育问责制、课程标准化与[[High-Stakes Testing|高利害测验]]的系统性压力下，学校教育实践逐步将培养目标[[Alienation|异化]]为与计算机算力优势相重合的“信息处理（Information-Processing）”与“模式识别（Pattern Recognition）”技能，从而全面边缘化和驱逐人类心智中不可替代的“主观阐释（Interpretation）”、“批判理解（Understanding）”与道德价值探索的历史演进过程。在智能求知时代，该概念揭示了[[Generative Artificial Intelligence|生成式人工智能]]之所以能迅速接管学生思维，其制度根源在于现行教育体系早已被计算机化模式所驯化。[[Argument_Smith_2026_SPE|Smith (2026, pp. 5–6)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向课程与教学目标的降格——将鲜活的人文求知实践窄化为机器亦能胜任的套路化算法操作。

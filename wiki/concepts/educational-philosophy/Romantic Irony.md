@@ -8,7 +8,7 @@ aliases:
 summary: "早期浪漫派用以沟通哲学思辨与诗意实践的核心艺术策略，通过不断建立又自我消解一切有限命题，在混沌与体系的永恒摆荡中暗示不可概念化的无限绝对者。"
 type: concept
 domain: "educational-philosophy"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_persons:
   - "[[Karl Wilhelm Ferdinand Solger]]"
   - "[[Socrates]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
+  - "[[Manfred Frank]]"
   - "[[Johann Gottlieb Fichte]]"
   - "[[Søren Kierkegaard]]"
 related_arguments:
@@ -75,9 +76,9 @@ updated: 2026-11-15
 > > [!axis] 浪漫反讽究竟是求真延续还是伦理虚无的自我膨胀？
 > > 围绕浪漫反讽是否继承了苏格拉底反讽的正面精神，以及它是否导致主体脱离现实与共同体价值的毁灭，哲学史与文学批评史存在尖锐对立。
 > >
-> > - **Behler (1988) 与 Manfred Frank** 恩斯特·贝勒（Ernst Behler）主张浪漫反讽只是将苏格拉底反讽应用于文学（Behler, 1988）；曼弗雷德·弗兰克（Manfred Frank）则认为浪漫反讽是对自我自大幻想的贬抑。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 84–85)]]
+> > - **Behler (1988) 与 [[Manfred Frank]]** 恩斯特·贝勒（Ernst Behler）主张浪漫反讽只是将苏格拉底反讽应用于文学（Behler, 1988）；曼弗雷德·弗兰克（Manfred Frank）则认为浪漫反讽是对自我自大幻想的贬抑。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 84–85)]]
 > > - **Bubner (1995)** 吕迪格·布布纳（Rüdiger Bubner）认为施莱格尔的反讽在[[Johann Gottlieb Fichte|费希特]]“绝对自我”与黑格尔“客观绝对者”之间扮演辩证中介，不断唤起超越既有成就、趋向绝对者的渴望（Bubner, 1995）。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 227 n.37)]]
-> > - **[[Georg Wilhelm Friedrich Hegel|黑格尔]]与克尔凯郭尔（[[Søren Kierkegaard]]）** 黑格尔批评浪漫反讽是切断一切现实纽带、自我吹捧的任性自我之症候；克尔凯郭尔在《论反讽概念》中指出，当浪漫诗人自诩同时主宰理念与现象、随心立废万物时，所有严肃性、感恩与谦卑都随之消失，暴露出“膨胀自我”（hypertrophic self）与价值共识瓦解的危机。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 85)]]
+> > - **[[Georg Wilhelm Friedrich Hegel|黑格尔]]与克尔凯郭尔（[[Søren Kierkegaard]]）** 黑格尔批评浪漫反讽违背要求个体认同的社会风习（*Sittlichkeit*），切断一切现实纽带，“只活在自我享乐的极乐之中”（13. 95），是自我吹捧的任性自我之症候（不过《哲学全书纲要》§560 对谢林与浪漫天才的评价相对温和）；克尔凯郭尔在《论反讽概念》中指出，当浪漫诗人自诩同时主宰理念与现象、随心立废万物时，所有严肃性、感恩与谦卑都随之消失，暴露出“膨胀自我”（hypertrophic self）与价值共识瓦解的危机。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 85)]]; [[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 93–94)]]
 
 ---
 
@@ -89,10 +90,10 @@ updated: 2026-11-15
 > | [[Schelling's Aesthetics]] | 理论 | 浪漫反讽与谢林体系美学共同呈现了浪漫派“以艺术取代概念哲学”的认识论转向及其后果。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, pp. 82, 85–86)]] |
 > | [[Friedrich Schlegel]] | 人物 | 浪漫反讽的核心提出者，将其界定为“自我创造与自我毁灭”的永恒往复。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, pp. 83–84)]] |
 > | [[Karl Wilhelm Ferdinand Solger]] | 人物 | 发展出具有悲剧色彩与客观否定力量的反讽理论。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, pp. 80, 84)]] |
-> | [[Georg Wilhelm Friedrich Hegel]] | 人物 | 肯定索尔格的“客观反讽”，同时严厉批评施莱格尔式浪漫反讽的主观任性。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, p. 84)]] |
+> | [[Georg Wilhelm Friedrich Hegel]] | 人物 | 肯定索尔格的“客观反讽”，同时以违背社会风习严厉批评施莱格尔式浪漫反讽的主观任性。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, p. 84)]]; [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 93–94)]] |
 > | [[Søren Kierkegaard]] | 人物 | 捍卫苏格拉底反讽的求真伦理，批判浪漫反讽摧毁严肃性与共同体道德根基。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, pp. 84–85)]] |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — 第 4 章对比修辞、苏格拉底与浪漫三种反讽形态，结合卢卡奇、黑格尔与克尔凯郭尔评估浪漫派将[[Epistemology|认识论]]审美化的哲学代价。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]对比三种反讽形态并结合卢卡奇与克尔凯郭尔评估其哲学代价；[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]补充黑格尔以社会风习批判浪漫反讽之依据（pp. 93–94）。

@@ -12,7 +12,7 @@ aliases:
 summary: "由全球教育治理中的多边组织、国家政府和跨国智库共同推动的政策修辞与规范框架，旨在界定未来劳动力市场所需关键能力并塑造教育政策与自我企业家主体性；实证研究揭示其存在技能空心化、实践转译断裂以及高教宏观倡导与微观评价滞后的制度脱节，二阶元分析证实合作学习对21世纪综合高阶技能具有显著促进效应（ES = 0.76/0.84）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 78
+related_count: 79
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -70,6 +70,7 @@ related_concepts:
   - "[[Science Capital]]"
   - "[[Socioeconomic Status]]"
   - "[[Context in Comparative Education]]"
+  - "[[Alienation]]"
   - "[[Operationalization]]"
   - "[[Public Value]]"
 related_theories:
@@ -113,7 +114,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-20
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -313,7 +314,7 @@ updated: 2026-11-14
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 比较北欧三国学校改革，实证揭示经合组织 21 世纪技能与核心素养话语在差异化国家体制中如何被用作政治合法化背书。
+> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 比较北欧三国学校改革，实证揭示经合组织 21 世纪技能与核心素养话语在差[[Alienation|异化]]国家体制中如何被用作政治合法化背书。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — [[OECD]] 国际报告，系统论证 21 世纪高阶素养在高等教育落地中面临的评价瓶颈，提出重构学业评价的五大政策机制与全课程改革方案。
 > - [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] — 批判[[Discourse Analysis|话语分析]]，系统剖析 21 世纪技能[[Discourse|话语]]的全球演变、新自由主义主体性规训与被边缘化的全人素养。
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 考察能力话语在[[Global Policy Space|全球政策空间]]中的[[Floating Signifier|漂浮能指]]运作，揭示拉美教师教育中的转译断裂与概念混乱。

@@ -9,7 +9,7 @@ aliases:
 summary: "围绕教育数据的去情境化抽取、算法通约折算与选择性再呈现而动态装配的社会-技术网络；是充斥算法选择性与即兴调配的实验性系统，深陷简化、通约、时效、公开与博弈五维张力，通过次级代表表象生产分布式治理权力。"
 type: concept
 domain: "sociology-of-education"
-related_count: 61
+related_count: 62
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Bureaucracy]]"
   - "[[Socioeconomic Status]]"
+  - "[[Alienation]]"
   - "[[School Inspection]]"
   - "[[Data Literacy]]"
   - "[[Evidence-Based Education]]"
@@ -89,7 +90,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -128,7 +129,7 @@ updated: 2026-11-11
 > - **全域数据吸纳与标准化采集（Input & Ingestion）** 依托互操作标准与统一接口，定期自基层学校与学区学生信息系统抽取学生学籍与教职员微观记录，学区在此扮演核心数据中介。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, p. 4)]]
 > - **双轨质量核验与法定时间冻结（Validation & Warehousing）** 人机结合实施多重质检，运用自动化逻辑规则过滤异常值，并在法定截止节点强行闭锁数据库，确立作为公文权威依据的单一事实来源（Single Point of Truth）。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 4, 7)]]
 > - **算法模型加工与二次[[Commensuration|通约]]加权（Analysis & Modelling）** 业务处室协同外部统计专家，运用特定检索程序运行指标加权、早警预测建模、[[Socioeconomic Status|社会经济背景]]测算及统计同类校匹配。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 4–5)]]
-> - **分权定向呈报与界面化规训（Reporting & Interface）** 形成差异化知识输出格局：向上呈报至联邦或跨州治理中枢，向社会公布综合报表，向学校和公众推送扁平化数据仪表盘以引导改进。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 4–6)]]
+> - **分权定向呈报与界面化规训（Reporting & Interface）** 形成差[[Alienation|异化]]知识输出格局：向上呈报至联邦或跨州治理中枢，向社会公布综合报表，向学校和公众推送扁平化数据仪表盘以引导改进。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 4–6)]]
 > - **超国家数据共生与跨境接口嵌入（Supranational Data Symbiosis & Inter-agency Interfaces）** 缺乏直接立法管辖权的超国家实体通过资金分担、指标采购（如[[EU|欧盟]]采购[[OECD|经合组织]] 50%–60% 数据）与常态席位嵌入，依托外部成熟数据基础设施实现跨尺度软性协调。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–33)]]
 
 > [!logic-map]- 要素关系与数据流转网络

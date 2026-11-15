@@ -11,7 +11,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Grand Theory]]"
   - "[[Counterculture Computing]]"
   - "[[Paradigm]]"
+  - "[[Alienation]]"
   - "[[Consumer Internet]]"
   - "[[Technological Agnosticism]]"
   - "[[Post-Fordism]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -92,7 +93,7 @@ updated: 2026-10-22
 > [!finding-cards] 关键历史后果
 > - **政治版图重构** 开启了持续半个世纪的美国当代文化政治大分裂，为尼克松南方战略与后来的保守主义回潮奠定了社会心理基础。
 > - **硅谷技术基因奠基** 迫使早期计算先驱与反战文化深度结合，确立了将个人微机视为抗衡国家集权之解放工具的[[Counterculture Computing|反文化计算]][[Paradigm|范式]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–99)]]
-> - **国家战略脱嵌与消费主义异化** 伴随国家大叙事（“我们”）的解构，科技精英丧失了服务于公共使命的道义纽带，最终全面滑向唯利是图的[[Consumer Internet|消费互联网]]与[[Technological Agnosticism|技术不可知论]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 100–102)]]
+> - **国家战略脱嵌与消费主义[[Alienation|异化]]** 伴随国家大叙事（“我们”）的解构，科技精英丧失了服务于公共使命的道义纽带，最终全面滑向唯利是图的[[Consumer Internet|消费互联网]]与[[Technological Agnosticism|技术不可知论]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 100–102)]]
 
 ---
 

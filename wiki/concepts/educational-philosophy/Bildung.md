@@ -7,7 +7,7 @@ aliases:
 summary: "源自古希腊教化与德国精神科学传统的品格陶成与自我形成概念，主张教育指向人（Anthropos）在开放未知未来的自主人格塑造，构成抵御狭隘工具化学校教育（Schooling）与数字化算法预测的本体防线。"
 type: concept
 domain: "educational-philosophy"
-related_count: 74
+related_count: 75
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Geisteswissenschaften]]"
   - "[[Operationalization]]"
   - "[[Humanistic Episteme]]"
+  - "[[Alienation]]"
   - "[[Critical Thinking]]"
   - "[[Performance Indicators]]"
   - "[[Learnification]]"
@@ -109,7 +110,7 @@ updated: 2026-11-15
 > [!def] Bildung
 > 教化（Bildung，通常译为教养，古希腊语对应为 *[[Paideia]]*，英文亦作 character formation 或 edification of character）其德语词根为 *Bild*（画像、形象、原型），深层思想史根基可追溯至《圣经·创世记》中人依照“上帝形象”（*imago Dei*）受造的神学渊源，并在德国[[Geisteswissenschaften|精神科学传统]]（*geisteswissenschaftliche Tradition*）与古希腊古典人文主义中演进为超越外在技术性知识传授和工具化技能训练的自主人格形成与精神提升过程。在教育哲学与比较教育思想史视阈下，该概念主张教育的终极本体在于对人（*Anthropos*）的整全教化与自我发现，要求个人在无法预设终点的开放未来中，持续实现人性的自我完善。
 > 
-> 教化是人类决定其知识与技能如何以远超外在被要求和被期望的方式被使用的能力与勇气，具有不可度量性、不可形式化与不可[[Operationalization|操作化]]的内在尊严。它不仅指向个体在与生活世界独立交互中的主体性觉醒，更在文明演进与比较教育视阈中被确立为以人为本的人文科学（[[Humanistic Episteme]]）底线，用以抵御将教育降格为技术官僚流水线[[Human Capital Theory|人力资本]]加工（*Schooling*）的异化危险。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]；[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 56–57)]]
+> 教化是人类决定其知识与技能如何以远超外在被要求和被期望的方式被使用的能力与勇气，具有不可度量性、不可形式化与不可[[Operationalization|操作化]]的内在尊严。它不仅指向个体在与生活世界独立交互中的主体性觉醒，更在文明演进与比较教育视阈中被确立为以人为本的人文科学（[[Humanistic Episteme]]）底线，用以抵御将教育降格为技术官僚流水线[[Human Capital Theory|人力资本]]加工（*Schooling*）的[[Alienation|异化]]危险。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]；[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 56–57)]]
 
 > [!concept-lens] 概念透镜
 > - **自主人格透镜** 关注人与自身、他者及世界的三维关系，强调在不确定未知中锤炼非目的论的开放生长与[[Critical Thinking|批判性思维]]勇气。
@@ -226,7 +227,7 @@ updated: 2026-11-15
 
 ---
 
-> [!concept-proposition] 命题三｜全人教化传统构成抵御工业化[[Technical Rationality|技术理性]]异化与捍卫以人为本比较研究的本体防线
+> [!concept-proposition] 命题三｜全人教化传统构成抵御工业化[[Technical Rationality|技术理性]][[Alienation|异化]]与捍卫以人为本比较研究的本体防线
 > **文明演进与比较教育本体维度** 该命题探讨比较教育历史学派如何将教化（*[[Paideia]]* / *Bildung*）提升为超越主权国家狭隘利益与纯技术学校教育的文明防线。
 
 > [!claim] [[Robert Ulich\|Ulich, R.]]

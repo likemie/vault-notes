@@ -9,7 +9,7 @@ aliases:
 summary: "主张心理学与学习科学应聚焦于可观察、可测量的外显行为及其与环境刺激的函数关系，通过强化排程、程序化教学与矫正性反馈控制行为习得，构成了当代实证主义技术理性教学工程与输入—输出评价体系的深层心理学源流"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 50
+theory_related_count: 52
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Constructivist Paradigm]]"
   - "[[Epistemology]]"
+  - "[[Alienation]]"
   - "[[Student Motivation]]"
   - "[[Paradigm]]"
   - "[[Feedback]]"
@@ -48,6 +49,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Creativity]]"
   - "[[Determinism]]"
+  - "[[Climatic Determinism]]"
   - "[[Metacognition]]"
   - "[[Bildung]]"
 related_theories:
@@ -80,7 +82,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 （行为主义）
@@ -100,7 +102,7 @@ updated: 2026-11-11
 
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 约翰·华生（John B. Watson, 1913）发表《行为主义者眼中的心理学》（*Psychology as the Behaviorist Views It*）确立外显行为纲领；[[B. F. Skinner|伯尔赫斯·弗雷德里克·斯金纳]]（[[B. F. Skinner]], 1938, 1953, 1954, 1958）出版《有机体的行为》（*The Behavior of Organisms*）、《科学与人类行为》（*Science and Human Behavior*）并发表《学习的科学与教学的艺术》（*The Science of Learning and the Art of Teaching*），创立操作性条件反射体系与教学机器技术。
-> - **原初问题** 传统学校教学依赖厌恶性强制与惩罚控制，教师反馈严重滞后且缺乏差异化进度支持，导致多数[[Student Motivation|学生学习动机]]低落与习得效率低下；内省心理学无法提供可重复验证的操作工具。
+> - **原初问题** 传统学校教学依赖厌恶性强制与惩罚控制，教师反馈严重滞后且缺乏差[[Alienation|异化]]进度支持，导致多数[[Student Motivation|学生学习动机]]低落与习得效率低下；内省心理学无法提供可重复验证的操作工具。
 > - **理论资源与材料** 伊万·巴甫洛夫（Ivan Pavlov）的唾液分泌条件反射实验、爱德华·桑代克（Edward Thorndike）的联结主义效果律，以及斯金纳箱（Skinner Box）中针对鸽子与白鼠在不同强化排程下的高频压杆与啄键实验数据。
 > - **形成路径** 斯金纳区分了环境诱发的应答性行为（Respondent Behavior）与有机体主动发出的操作性行为（Operant Behavior），证明行为频率主要受其后继结果（Consequences）所决定；进而将动物实验室中确立的强化原理迁移至人类语言与符号学习，构想出以“小步子呈现—主动反应—即时确认”为特征的机械教学设备与分步教材。
 
@@ -247,7 +249,7 @@ updated: 2026-11-11
 > > [!axis] 机械[[Determinism|决定论]] vs 主体能动性与反思意识
 > > 争论行为主义将人类降格为被动响应外部环境刺激的生物有机体，是否彻底消解了人类的自由意志、尊严与主体反思能力。
 > >
-> > - **[[B. F. Skinner|斯金纳]]（[[B. F. Skinner]], 1971）** 在《超越自由与尊严》中主张自由与自主意识仅是前科学时代的蒙昧神话，承认环境决定论并依凭科学[[Technical Rationality|技术理性]]重塑人类行为，才是解决社会危机的唯一出路。
+> > - **[[B. F. Skinner|斯金纳]]（[[B. F. Skinner]], 1971）** 在《超越自由与尊严》中主张自由与自主意识仅是前科学时代的蒙昧神话，承认[[Climatic Determinism|环境决定论]]并依凭科学[[Technical Rationality|技术理性]]重塑人类行为，才是解决社会危机的唯一出路。
 > > - **[[Carl Rogers|卡尔·罗杰斯]]与人本主义心理学（Rogers & Skinner, 1956）** 坚决批判行为主义将全人异化为机械控制机器，断言人类具有先天的自我实现潜能与主观经验价值，教育应培育自决自主的能动行动者。
 >
 > > [!axis] 技术理性输入—输出工程 vs 教育交往中的主体间承认

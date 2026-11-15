@@ -7,9 +7,9 @@ title: "Argument_Kazamias_2009_HistoricalReflections"
 argument_key: "Argument_Kazamias_2009_HistoricalReflections"
 argument_display_title: "Comparative education: Historical reflections"
 argument_kind: "book-chapter"
-argument_related_count: 87
-argument_related_level: 8
-argument_related_stars: "💎💎⭐⭐"
+argument_related_count: 90
+argument_related_level: 9
+argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
 authors:
   - "[[Andreas Kazamias|Kazamias, A. M.]]"
@@ -61,8 +61,8 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[Social Regime]]"
   - "[[Nationalism]]"
-  - "[[Causality]]"
   - "[[Liberal Education]]"
+  - "[[Causality]]"
   - "[[Philosophical Aesthetics]]"
   - "[[Big Science]]"
   - "[[Return on Investment]]"
@@ -71,8 +71,11 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Falsification]]"
   - "[[Working Hypothesis]]"
+  - "[[New Mythology]]"
+  - "[[Mimesis]]"
   - "[[Comparative Pedagogy]]"
   - "[[Learnology]]"
+  - "[[Alienation]]"
   - "[[Intangible Spiritual Forces]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -347,7 +350,7 @@ updated: 2026-11-15
 批判学者在跨国全球体系和国家政体两个层面深化了对教育不平等的认识：
 
 > [!policy-context] 世界体系视角的跨国依附结构
-> - **全球现代化的理性神话** [[John W. Meyer|约翰·迈耶]]（John W. Meyer）等人指出，在现代世界体系中，现代学校制度不再只是单个国家的自主选择，而成为一种被全球广泛认同与模仿的进步神话。（p.152）
+> - **全球现代化的[[New Mythology|理性神话]]** [[John W. Meyer|约翰·迈耶]]（John W. Meyer）等人指出，在现代世界体系中，现代学校制度不再只是单个国家的自主选择，而成为一种被全球广泛认同与[[Mimesis|模仿]]的进步神话。（p.152）
 > - **跨国不平等的层层传递** [[Robert Arnove|罗伯特·阿诺夫]]（Robert Arnove）基于[[Immanuel Wallerstein|沃勒斯坦]]的现代[[World-Systems Theory|世界体系理论]]指出，全球教育体系存在着明显的依附关系：发达中心国家对发展中国家形成文化主导，而发展中国家的政治经济精英又在本土社会中维持对边缘群体的支配，形成了跨国教育资源的层层倾斜与支配链条。（pp.152–153）
 
 与此同时，斯坦福大学学者[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy）在 1980 年代进一步打破了早期激进理论把学校简单等同于统治工具的机械认识：
@@ -390,7 +393,7 @@ updated: 2026-11-15
 
 > [!finding-cards] 核心发现
 > 1. **[[Protean Episteme|普罗透斯式认识体系]]本质确立** 比较教育学是一门因应不同历史时代的智识潮流、方法风尚与意识形态诉求而持续变换装束的多学科人文科学，超越了均质单一的实证测量技术，先后经历了启蒙准科学与行政改良、历史-哲学自由人文主义、战后经验[[Positivism|实证主义]]以及批判冲突四大论述代际演替。（pp.139–140, 155）
-> 2. **[[Empiricism|唯方法论主义]]弊端的深刻解构** 战后实证学派对超越时空的普遍因果法则与确定性预测的狂热追求，在[[Epistemology|认识论]]上异化为抽离文化情境与道德价值的方法论主义，其实质在于充当现代国家官僚规划推卸政治问责的[[Social Science as Legitimation Alibi|合法化借口]]。（pp.147–149）
+> 2. **[[Empiricism|唯方法论主义]]弊端的深刻解构** 战后实证学派对超越时空的普遍因果法则与确定性预测的狂热追求，在[[Epistemology|认识论]]上[[Alienation|异化]]为抽离文化情境与道德价值的方法论主义，其实质在于充当现代国家官僚规划推卸政治问责的[[Social Science as Legitimation Alibi|合法化借口]]。（pp.147–149）
 > 3. **历史假说检验的科学合法性辩护** 借鉴[[Crane Brinton|布林顿]]比较史学经验，历史研究完全能够从具体特殊事实中归纳提炼出有限范围的探索性[[Working Hypothesis|工作假说]]，并在跨情境检验中照亮未知现象，从而打破实证主义将历史学排斥于科学之外的教条壁垒。（pp.151–152）
 > 4. **[[Historical Amnesia|学科历史健忘症]]的确证与危机警告** 世纪之交实证工具与多元理论繁荣的背后付出了抛弃历史维度的沉重代价；权威期刊计量数据证实历史研究份额已跌破 5%，学科深陷严重的历史健忘症，亟需通过重构历史探索性假说实现历史学与社会科学的理性综合。（pp.155–156）
 

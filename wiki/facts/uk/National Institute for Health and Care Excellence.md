@@ -33,12 +33,12 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Evidence Standards]]"
   - "[[Heterogeneity]]"
+  - "[[Alienation]]"
   - "[[Professional Judgment]]"
   - "[[Evidence Ecosystem]]"
   - "[[Knowledge Mediation]]"
   - "[[Recommendations for Practice]]"
-related_theories:
-  - "[[Luhmann's Systems Theory]]"
+related_theories: []
 related_methods:
   - "[[Research Synthesis]]"
   - "[[Randomised Controlled Trials]]"
@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -138,7 +138,7 @@ updated: 2026-11-02
 
 > [!critique] 外部学术批评与制度反思
 > - **临床路径机械移植至社科教育的去情境化风险** [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022, p. 154)]]警示，NICE 所依托的医学[[Evidence Standards\|证据标准]]高度依赖封闭环境下的强因果随机试验（[[Randomised Controlled Trials\|RCT]]）；若不加反思地将这种标准直接套用到高度依赖教师专业裁量与复杂课堂生态的教育领域，容易诱发“按脚本教学”的教条主义，抹杀本土情境[[Heterogeneity\|异质性]]（[[Heterogeneity]]）。
-> - **过度标准化诱发防御性医疗** 严苛的临床指南在实践中有时异化为医生的法律免责护身符，导致部分临床医师在面对复杂多病共存的非典型患者时机械照搬指南，压抑了因地制宜的[[Professional Judgment\|专业判断]]。
+> - **过度标准化诱发防御性医疗** 严苛的临床指南在实践中有时[[Alienation|异化]]为医生的法律免责护身符，导致部分临床医师在面对复杂多病共存的非典型患者时机械照搬指南，压抑了因地制宜的[[Professional Judgment\|专业判断]]。
 
 ---
 

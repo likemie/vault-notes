@@ -27,6 +27,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Basic Learning Needs]]"
   - "[[Document]]"
+  - "[[Alienation]]"
   - "[[Further Education]]"
   - "[[Performance Indicators]]"
   - "[[Cultural Capital]]"
@@ -58,14 +59,14 @@ sources:
 part_of: null
 status: draft
 created: 2026-11-05
-updated: 2026-11-11
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_King_2007_CE"
 argument_key: "Argument_King_2007_CE"
 argument_display_title: "Multilateral agencies in the construction of the global agenda on education"
 argument_kind: "journal-article"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -157,7 +158,7 @@ issuing_organization: ""
 
 > [!sub-claim] 2. 宗滴恩行动框架赋予主权国家依国情自主设定发展目标的弹性空间
 
-> [!chain-link] 宗滴恩目标从弹性建议向单一硬指标的异化机制
+> [!chain-link] 宗滴恩目标从弹性建议向单一硬指标的[[Alienation|异化]]机制
 > - **原初建议性质** 宗滴恩行动框架第 8 段使用了审慎的建议性措辞，指出各国可以根据所提建议维度设定自身在 1990 年代的发展目标（Countries may wish to set their own targets for the 1990s in terms of the following proposed dimensions...），保持了本土弹性的建议维度（proposed dimensions）。
 > - **转译过程过滤** 在随后的国际传播与多边倡导中，这一以国家为主体的限定性前提被迅速遗忘，自主选择机制被技术官僚剥离。
 > - **硬性指标固化** 宗滴恩最终被简化为到 2000 年实现普及初等教育的单一世界目标；大会执行秘书沃迪·哈达德后来坦言，将主权国家自主抉择转化为单一全球指标是历史性错误。

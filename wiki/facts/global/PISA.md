@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 177
+fact_related_count: 178
 fact_related_level: 17
 fact_related_stars: "💎💎💎💎💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -93,6 +93,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Competitiveness]]"
   - "[[Positional Good]]"
+  - "[[Alienation]]"
   - "[[School Choice]]"
   - "[[Socioeconomic Status]]"
   - "[[Social Imaginary]]"
@@ -210,7 +211,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-05-17
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -363,7 +364,7 @@ updated: 2026-11-11
 > > [!axis] 全视凝视与自动化测量体制的生存性剥夺
 > > 斯廷·内珀·拉森（[[Steen Nepper Larsen]]）批判指出，PISA 与 [[OECD]] 倡导的全面胜任力测评体系，实质上构成了神学式“全视凝视”（omnes videns）在世俗化治理与技术时代的变体；自动化、泛在化的大规模测试如同[[Panopticism|全景敞视]]机制，将学生的内在思维、认知倾向与[[Academic Achievement|学业表现]]置于无所遁形的量化透视之下。这种测量体制消解了教育过程中的生存性开放度与偶然性空间，将复杂的精神生长降解为服务于经济[[Competitiveness|竞争力]]的可计算[[Human Capital Theory|人力资本]]。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 7)]]
 >
-> > [!axis] [[Positional Good|位置性商品]]异化与跨国排位军备竞赛
+> > [!axis] [[Positional Good|位置性商品]][[Alienation|异化]]与跨国排位军备竞赛
 > > 跨国联赛排名的持续炒作强化了劳动力市场的文凭筛选预期，将教育从培育民主公民的公共福祉降解为争夺相对优势的[[Positional Good|位置性商品]]，不仅驱动了中产阶级家长对私立[[School Choice|择校]]与课外补习的军备竞赛，也诱发各国陷入追求相对位次提升的宏观内耗博弈。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446, 451–452)]]
 >
 > > [!axis] 形式入学机会对实质教育正义的窄化

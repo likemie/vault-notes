@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Research Translation]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
 related_methods:
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 > [!policy-context] 政策背景
@@ -129,5 +130,5 @@ updated: 2026-10-30
 > | [[Transfer Translation Transformation]] | 概念 | 卡特审查将学术临床[[Research Translation\|研究转译]]为政策核心标准的转化机制。 |
 > | [[Ofsted]] | 机构事实 | 负责将卡特审查提议的 ITT 核心内容标准落实为法定督导指标的执行机构。 |
 > | [[Michael Gove]] | 人物 | 发起卡特审查时任英国教育大臣，主导英格兰教师教育去大学化与校本化转向。 |
-> | [[Ian Menter]] | 人物 | 在论文中深度解剖卡特审查政策网络运作机制与证据异化逻辑的学者。 |
+> | [[Ian Menter]] | 人物 | 在论文中深度解剖卡特审查政策网络运作机制与证据[[Alienation\|异化]]逻辑的学者。 |
 

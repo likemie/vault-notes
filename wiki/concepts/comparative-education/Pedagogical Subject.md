@@ -8,7 +8,7 @@ aliases:
 summary: "批判教育学、国家理论与教育哲学中的核心构念，指公立教育所培育的具备民主权利、公共理性、具身教化与反思批判能力的完整主体，抵御新自由主义市场化与实证主义可见监控对人性的工具化剥离。"
 type: concept
 domain: "comparative-education"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -22,6 +22,7 @@ tags:
   - bildung
 related_concepts:
   - "[[Construct]]"
+  - "[[Alienation]]"
   - "[[Bildung]]"
   - "[[Positivism]]"
   - "[[Paradigm]]"
@@ -66,13 +67,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Pedagogical Subject
-> **教育主体（Pedagogical Subject，西语：*Sujeto Pedagógico*）** 是批判教育政治社会学、拉美激进教育史学与欧洲大陆教育哲学中的核心[[Construct|构念]]，指公立教育体系在国家契约与哲学本体层面所培育的具备反思批判意识、政治参与权利、具身教化与公共理性的完整人（whole person）。在拉美[[Critical Theory|批判理论]]视域下，教育主体是公立学校依据宪法契约培育的民主公民，承担对抗新自由主义国家撤资与市场化异化的政治使命（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, p. 79]]）；在欧洲教化哲学视域下，教育主体是立足德意志教化（[[Bildung]]）传统与具身化-延展辩证法的生命存在，以精神自主性抵御[[Cognitive Capitalism|认知资本主义]]与[[Positivism|实证主义]]可见监控对学习的去主体化剥离（[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 7–10]]）。
+> **教育主体（Pedagogical Subject，西语：*Sujeto Pedagógico*）** 是批判教育政治社会学、拉美激进教育史学与欧洲大陆教育哲学中的核心[[Construct|构念]]，指公立教育体系在国家契约与哲学本体层面所培育的具备反思批判意识、政治参与权利、具身教化与公共理性的完整人（whole person）。在拉美[[Critical Theory|批判理论]]视域下，教育主体是公立学校依据宪法契约培育的民主公民，承担对抗新自由主义国家撤资与市场化[[Alienation|异化]]的政治使命（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, p. 79]]）；在欧洲教化哲学视域下，教育主体是立足德意志教化（[[Bildung]]）传统与具身化-延展辩证法的生命存在，以精神自主性抵御[[Cognitive Capitalism|认知资本主义]]与[[Positivism|实证主义]]可见监控对学习的去主体化剥离（[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 7–10]]）。
 
 > [!concept-lens] 概念透镜
 > - **核心本质** 具备历史能动性、道德反思与具身精神自由的教育实践主体，确立教育作为公共善与生命自足目的的本体地位。

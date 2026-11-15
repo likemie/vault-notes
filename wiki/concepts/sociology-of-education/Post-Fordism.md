@@ -7,7 +7,7 @@ aliases:
 summary: "描述全球资本积累由流水线集中生产转向弹性灵活积累的生产组织范式，在教育系统体现为由标准化大众供给转向技能模块化、绩效问责、数字化全景监视与市场竞争性治理。"
 type: concept
 domain: "sociology-of-education"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -20,6 +20,7 @@ tags:
   - surveillance
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Alienation]]"
   - "[[Cognitive Deskilling]]"
   - "[[Educational Privatisation]]"
   - "[[Performance Indicators]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -74,7 +75,7 @@ updated: 2026-11-11
 > [!concept-lens] 概念透镜
 > - **含义** 指向全球资本积累弹性化转型与国家公共教育供给模式重组之间的结构性对应关系。
 > - **用途** 帮助研究者透视课程去中心化、技能模块化、使用者付费、数字化职场监控与绩效主义改革背后的资本积累动力学与劳动控制逻辑。
-> - **边界** 后福特制并不意味着劳动异化与剥削的消弭，是剥削形式从外在机械流水线规训转向隐蔽的数字化自我绩效管控与劳动力脆弱化（Precarity）。
+> - **边界** 后福特制并不意味着劳动[[Alienation|异化]]与剥削的消弭，是剥削形式从外在机械流水线规训转向隐蔽的数字化自我绩效管控与劳动力脆弱化（Precarity）。
 
 > [!citation-card] 生产方式转变与劳动技能重构
 > 劳动过程的变化与生产方式由福特制向后福特制模式的演进密切相关（伴随劳动力[[Cognitive Deskilling|去技能化]]与再技能化过程，以及课程中的技术控制逻辑）。老式经济建立在大规模、高度标准化的生产基础之上，少数管理者居高临下控制生产过程，大量工人服从指令；而在新技术推动下，新全球经济变得更加流动和富有弹性，具有多重权力与决策线索……公立教育系统曾致力于生产纪律严明、可靠的劳动力，而新全球经济则彻底重新界定了公立教育在发展中的目标。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79, 82)]]

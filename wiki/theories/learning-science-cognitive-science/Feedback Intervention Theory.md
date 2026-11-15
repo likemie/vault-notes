@@ -8,7 +8,7 @@ aliases:
 summary: "由克鲁格与德尼西提出的反馈干预理论，主张反馈通过调节任务学习、任务动机与自我三个层级的注意力分配发挥作用，揭示了反馈具有高度情境脆弱性与超过三分之一的负向抑制效应，构成了现代教学反馈与绩效控制研究的关键理论基石"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 32
+theory_related_count: 33
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Task Structure]]"
   - "[[Intentionality]]"
+  - "[[Alienation]]"
   - "[[Neo-Taylorism]]"
   - "[[Falsification]]"
 related_theories:
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 （反馈干预理论）
@@ -201,7 +202,7 @@ updated: 2026-11-11
 > > 争论将反馈界定为消除偏差的控制系统，是否消解了真正的教育人文意义。
 > >
 > > - **认知控制学派（FIT）** 致力于优化注意力在层级系统间的分配，将师生互动工程化。
-> > - **批判哲学学派（[[Critical Theory]], Honneth, 1996）** 指出将师生对话矮化为消除偏差的代码反馈，本质上剥夺了师生探求生命意义的[[Intentionality|主体意向性]]，容易异化为[[Neo-Taylorism|新泰勒主义]]的管理工具。
+> > - **批判哲学学派（[[Critical Theory]], Honneth, 1996）** 指出将师生对话矮化为消除偏差的代码反馈，本质上剥夺了师生探求生命意义的[[Intentionality|主体意向性]]，容易[[Alienation|异化]]为[[Neo-Taylorism|新泰勒主义]]的管理工具。
 
 ---
 

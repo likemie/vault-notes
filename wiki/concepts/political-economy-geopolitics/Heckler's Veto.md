@@ -8,7 +8,7 @@ aliases:
 summary: "宪法学与言论自由法理概念，指行政当局或机构以防范听众、抗议者的敌意、冒犯感或潜在暴力反应为由，取消、压制或惩罚演讲者合法表达权利的行为机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ tags:
   - theme/higher-education
   - political-philosophy
 related_concepts:
+  - "[[Alienation]]"
   - "[[Academic Freedom]]"
   - "[[Grandes Ecoles]]"
 related_theories: []
@@ -33,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -84,7 +85,7 @@ updated: 2026-11-03
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **宪法权利反转命题** | 揭示顺从抗议反应将导致言论保护顺位颠倒与权利剥夺 | 政治集会、学术讲座、敏感议题争辩 | [[Pauli Murray\|Murray]] |
-> | **避险管理异化命题** | 批判官僚管理阶层借心理安全名义逃避道德担当 | 高等教育行政、[[Academic Freedom\|学术自由]]治理、公共舆论场 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] |
+> | **避险管理[[Alienation\|异化]]命题** | 批判官僚管理阶层借心理安全名义逃避道德担当 | 高等教育行政、[[Academic Freedom\|学术自由]]治理、公共舆论场 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] |
 
 ---
 

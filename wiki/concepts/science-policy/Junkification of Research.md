@@ -11,10 +11,10 @@ aliases:
 summary: "科学学与学术评价批判中的系统性异化概念；指在发表或出局刚性考核、指标量化竞赛与商业巨型期刊扩张驱动下，学术界呈现研究总量爆炸性增长、实质原创性与颠覆性突破却持续走低的繁荣假象；研究普遍呈现微调增量化、香肠式切片分割、AI模板化刷量与低风险同质化等生产特征。"
 type: concept
 domain: "science-policy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/science-policy
   - theme/research-integrity
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Document]]"
   - "[[Scientific Paradigm]]"
+  - "[[Alienation]]"
   - "[[Competitiveness]]"
   - "[[Creativity]]"
   - "[[Research Topic]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-03
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -102,7 +103,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题一｜量化计量竞赛倒逼科研人员采取低方差微创新的自适应策略
-> **评价异化与安全边际生产** 考察考核指标替代实质价值时微观学者的理性行为异化。
+> **评价[[Alienation|异化]]与安全边际生产** 考察考核指标替代实质价值时微观学者的理性行为异化。
 
 > [!claim] Rhodes and Linnenluecke (2025)
 > **学术研究的垃圾化演化机制** 卡尔·罗兹（Carl Rhodes）与玛蒂娜·林嫩卢克（Martina K. Linnenluecke）指出，大学日益沦为依靠发文计量指标维持[[Competitiveness|竞争力]]的生产公司；这种商业化运作机制刺激了海量低价值成果的机械式制造，导致严肃学术探究退化为追求形式合规的次级快餐。[[Argument_Haubrock_2026_NHB|(Rhodes & Linnenluecke, 2025; Haubrock et al., 2026, p. 2)]]

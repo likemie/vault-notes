@@ -6,7 +6,7 @@ aliases:
 summary: "将积分、徽章、排行榜与即时反馈等游戏机制应用于非游戏情境以激发参与和行为塑造的设计策略；在教育与治理中，一方面作为行为主义调节与商业黏性技术被广泛嵌入数字平台，另一方面在批判教育学视域下面临解构知识逻辑、异化师生评价与压缩深层教化反思空间的结构性危机。"
 type: concept
 domain: "educational-technology"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Presence]]"
   - "[[Further Education]]"
+  - "[[Alienation]]"
   - "[[Epistemology]]"
   - "[[Epoché]]"
   - "[[Game-Based Learning]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-20
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -136,7 +137,7 @@ updated: 2026-11-11
 
 ---
 
-> [!concept-proposition] 命题一｜游戏化设计根植于[[Behaviorism|行为主义]]刺激强化机制并将学习异化为外在行为调节
+> [!concept-proposition] 命题一｜游戏化设计根植于[[Behaviorism|行为主义]]刺激强化机制并将学习[[Alienation|异化]]为外在行为调节
 > **[[Behaviorism|行为主义]]心理学与学习本质的窄化** 探讨游戏化如何将数字界面的行为捕获技术理论化为条件反射过程，改变了学习本身的[[Epistemology|认识论]]定位。
 
 > [!claim] [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]]

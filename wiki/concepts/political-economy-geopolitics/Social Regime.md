@@ -8,7 +8,7 @@ aliases:
 summary: "经济社会学与历史制度主义核心概念，指由具备合法暴力垄断权的第三方强制机构所背书的集体行为预期与规则体系；区分规则制定者与规则遵从者，将制度视为蕴含权力不对称的支配组织，构成理解制度设计与基层践行内生脱节的元理论基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Teacher Professional Agency]]"
   - "[[New Public Management]]"
   - "[[Variable]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Historical Institutionalism]]"
   - "[[Theory of Gradual Institutional Change]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -184,7 +185,7 @@ updated: 2026-11-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 提出将制度定义为第三方强制背书的社会规范，为全书五大渐进变迁形态学奠立[[Ontology|本体论]]基石（pp. 9–16）。
-> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 援引小松与拉普利（Komatsu & Rappleye, 2017）的全球政策规范命题，剖析跨国量化规范在国家行政背书下如何异化为基层教师的[[Performativity|表演性]]打卡。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 援引小松与拉普利（Komatsu & Rappleye, 2017）的全球政策规范命题，剖析跨国量化规范在国家行政背书下如何[[Alienation|异化]]为基层教师的[[Performativity|表演性]]打卡。
 
 ---
 

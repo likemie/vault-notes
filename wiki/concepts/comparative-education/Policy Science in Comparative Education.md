@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育学中主张学科本质应作为政策科学服务国家治理决策的理解形式与知识取向；由 Cowen 系统梳理并由 Holmes 和 King 等人倡导，政治上寻求与自由民主国家权力的显性联盟，但面临消解学术反思批判力并异化为官僚规划合法化借口的双重张力。"
 type: concept
 domain: "comparative-education"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Variable]]"
   - "[[Social Science as Legitimation Alibi]]"
+  - "[[Alienation]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Transnational Education]]"
   - "[[Knowledge Power]]"
@@ -64,7 +65,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -104,7 +105,7 @@ updated: 2026-11-11
 > - **[[Epistemology|认识论]]定位：学科即政策科学（Discipline as Policy Science）** 主张比较教育的合理存在形态在于面向实际政策问题，通过跨国比较分析提炼切实可行的改革方案。[[Argument_Cowen_2023_CE|(Cowen, 2023, p. 333)]]
 > - **政治结盟：与国家权力的显性联盟（Alliance with Power）** 默认自由民主国家体制的善意与理性，将比较学者的智识生产与国家机器的治理议程深度绑定。[[Argument_Cowen_2023_CE|(Cowen, 2023, p. 333)]]
 > - **决策时刻介入：关键节点的智囊咨询（Consultancy at Critical Points）** 强调在国家面临重大教育转折或体系危机的时刻，由比较专家提供危机化解策略与政策工具选择。[[Argument_Cowen_2023_CE|(Cowen, 2023, p. 333)]]
-> - **功能异化：官僚规划的[[Social Science as Legitimation Alibi|合法化借口]]（Legitimation Alibi）** 在战后国家规划体制与国际援助中，实证量化取向的政策科学容易沦为官僚机构推行预设教育扩张、转嫁决策政治责任的“科学硬事实”借口。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 67–68)]]
+> - **功能[[Alienation|异化]]：官僚规划的[[Social Science as Legitimation Alibi|合法化借口]]（Legitimation Alibi）** 在战后国家规划体制与国际援助中，实证量化取向的政策科学容易沦为官僚机构推行预设教育扩张、转嫁决策政治责任的“科学硬事实”借口。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 67–68)]]
 > - **制度投射：组织架构与政策工具的选择关联（Institutional Design & Policy Instruments）** 在跨国治理与[[Knowledge Diplomacy|知识外交]]分析中，公共行政与政策科学学者指出，组织结构与治理工具的制度设计直接映射了政策制定者的深层战略意图与权力配置逻辑。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1697–1698)]]
 
 > [!logic-map]- 比较教育政策科学的运行机制与双重面向

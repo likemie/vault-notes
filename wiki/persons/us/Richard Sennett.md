@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - theme/labor-studies
   - region/us
 related_concepts:
+  - "[[Alienation]]"
   - "[[Nationalism]]"
   - "[[Geopolitics]]"
   - "[[Technological Republic]]"
@@ -43,14 +44,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名社会学家、历史学家，伦敦政治经济学院（London School of Economics, LSE）社会学荣休教授，纽约大学人文学教授，英国国家学术院院士（Fellow of the British Academy, FBA）。
-> - **核心角色** 现代城市生活、公共空间、阶级身份与劳动异化批判的领军社会学家。
+> - **核心角色** 现代城市生活、公共空间、阶级身份与劳动[[Alienation|异化]]批判的领军社会学家。
 > - **代表贡献** 撰写《公共人的衰落》（*The Fall of Public Man*）、《匠人》（*The Craftsman*）等经典；在 1994 年《纽约时报》撰文《身份神话》（*The Identity Myth*），提出摆脱“共享国家认同之恶”（the evil of a shared national identity）以探索新型共同行动方式。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
 
 > [!citation-card] 人物定位的关键来源

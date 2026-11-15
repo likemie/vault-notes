@@ -9,7 +9,7 @@ aliases:
 summary: "将民主参与原则拓展至教育研究证据生产与利用全过程的学术思潮与治理议程，主张终结学者与资助者对科研议程的排他性垄断，将实践者与边缘社群确立为议程设定与知识转化的平等主体，同时反思功利主义实用性修辞对离群弱势群体的潜在排斥"
 type: concept
 domain: "educational-policy-reform"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -20,6 +20,7 @@ tags:
   - theme/research-practice-partnership
 related_concepts:
   - "[[Evidence Ecosystem]]"
+  - "[[Alienation]]"
   - "[[Research Utilization]]"
   - "[[Democratisation of Expertise]]"
   - "[[Paradigm]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -74,7 +75,7 @@ updated: 2026-11-11
 > [!concept-lens] 概念透镜
 > - **指向对象** 科研立项主导权、资源分配规则、利益相关者协作网络以及学术成果的价值评价标准。
 > - **核心用途** 揭示传统学术研究供给侧脱离学校实际需求与社区利益的“榨取式研究”（Extractive Research）痼疾，为构建包容性[[Evidence Ecosystem\|证据生态系统]]提供规范性伦理与制度重塑蓝图。
-> - **边界限定** 不等于单纯的技术性研究成果公开共享（Open Science），也不等同于降低科研方法严谨性的民粹化泛化；更需警惕以“迎合大众实用性”为幌子压制边缘群体异议的修辞异化。
+> - **边界限定** 不等于单纯的技术性研究成果公开共享（Open Science），也不等同于降低科研方法严谨性的民粹化泛化；更需警惕以“迎合大众实用性”为幌子压制边缘群体异议的修辞[[Alienation|异化]]。
 
 > [!citation-card] [[Vivian Tseng\|曾薇薇安]]论证据民主化的核心宗旨
 > 证据民主化理念十分朴素：将民主原则应用于研究证据的生产与使用之中。教育研究生产的民主化意味着科研议程不再主要由研究者与资助者单方设定，是由多元利益相关者共同裁定提出何种问题、解答何种问题，进而构建更加贴近利益相关者及教育机构所服务社群关切的证据基础。（p. 220）

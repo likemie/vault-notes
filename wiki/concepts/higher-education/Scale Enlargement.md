@@ -9,7 +9,7 @@ aliases:
 summary: "在高等教育治理与公共部门分权改革中，通过跨机构自组织兼并与横向整合，将分散的小型、单科性院校重组为具备多学科综合架构与临界规模的办学实体，旨在建立能够承接整笔总额预算与战略自主治理能力的制度载体。"
 type: concept
 domain: "higher-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Knowledge Production]]"
   - "[[Multi-University]]"
+  - "[[Alienation]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Critical Pedagogy]]"
 related_theories: []
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -122,7 +123,7 @@ updated: 2026-11-03
 > [!debates] 学术争议焦点
 >
 > > [!axis] 规模效益与学术人本关怀的冲突
-> > 批判学者指出，盲目推行规模扩充可能导致“巨型大学（[[Multi-University|multiversity]]）”异化，促成官僚管理层膨胀，削弱了昔日小微学校紧密的师生互动与独特的专科教育传统。
+> > 批判学者指出，盲目推行规模扩充可能导致“巨型大学（[[Multi-University|multiversity]]）”[[Alienation|异化]]，促成官僚管理层膨胀，削弱了昔日小微学校紧密的师生互动与独特的专科教育传统。
 > >
 > > - **管理理性学者（[[Argument_Kickert_1995_Governance|Kickert, 1995]]）** 认为现代高等教育必须具备抗御风险的综合管理纵深，单科微型学校在[[Knowledge-Based Economy|知识经济]]与技术变革面前过于脆弱。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 145)]]
 > > - **[[Critical Pedagogy|批判教育学]]者** 担忧合并削弱了宗教社团与地方社区对学校的个性化认同，催生学术科层化倾向。

@@ -7,7 +7,7 @@ title: "Argument_Pavitt_1984_RP"
 argument_key: "Argument_Pavitt_1984_RP"
 argument_display_title: "Sectoral patterns of technical change: Towards a taxonomy and a theory"
 argument_kind: "journal-article"
-argument_related_count: 10
+argument_related_count: 11
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Competitiveness]]"
   - "[[Interaction Effect]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Pavitt Taxonomy]]"
   - "[[Technological Trajectories]]"
@@ -47,7 +48,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-11
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 ---
 > [!question]
@@ -145,7 +146,7 @@ Pavitt 进一步将分类差异归因于三个因素的[[Interaction Effect|交�
 > 不同产业的用户对创新提出不同类型的要求。专业化供应商的用户（通常是规模密集型企业）需要定制化的、能够解决特定生产问题的设备，这意味着供应商必须深度理解用户的工艺流程。规模密集型企业需要能显著降低单位成本或提高产能的流程创新。科学基础型企业的用户（包括政府和消费者）对产品性能有持续提升的要求，而对成本的敏感度相对较低。
 
 > [!line-a] 专有可能性（Possibilities for Appropriation）
-> 不同产业保护创新收益的能力根本不同。科学基础型企业可以通过专利、先发优势和持续的产品差异化保护创新收益。专业化供应商通过保密、设计复杂性和客户关系保护其专业知识——"创新常常是隐性的，嵌入在工程师的头脑和手指中"。供应商主导型企业难以从创新中获得独占收益，因为它们既无专利保护能力，也无独特的设计知识——它们的竞争优势来自价格和交付效率，而非技术独占。
+> 不同产业保护创新收益的能力根本不同。科学基础型企业可以通过专利、先发优势和持续的产品差[[Alienation|异化]]保护创新收益。专业化供应商通过保密、设计复杂性和客户关系保护其专业知识——"创新常常是隐性的，嵌入在工程师的头脑和手指中"。供应商主导型企业难以从创新中获得独占收益，因为它们既无专利保护能力，也无独特的设计知识——它们的竞争优势来自价格和交付效率，而非技术独占。
 
 ---
 

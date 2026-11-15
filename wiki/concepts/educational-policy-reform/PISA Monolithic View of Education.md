@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育学者赵勇与斯约伯格等针对经合组织 PISA 提出的批判性学术构念，指 PISA 预设存在一套独立于各民族国家历史传统、社会结构与发展情境的普适教育质量评价标准，将少数 OECD 发达市场经济体的现实偏好强加于全球近 200 个多样性社会。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Whole Person Education]]"
   - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Policy Borrowing]]"
+  - "[[Alienation]]"
   - "[[Foundational Literacy and Numeracy]]"
   - "[[Problem Solving]]"
 related_theories:
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -81,7 +82,7 @@ updated: 2026-11-11
 > [!feature] 核心要素与运作特征
 > - **脱嵌于文明土壤的普适性假设** PISA 坚持假设一套通用的认知试题能够无损衡量不同历史传统与现实挑战下的教育效能，将教育过程完全从特定的社会结构与制度生态中抽离出来。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 > - **发达市场经济体的偏狭代表性** PISA 框架最初完全基于少数 OECD 发达成员国的工业与科技现实研制。35 个富裕国家根本无法代表全球两百个国家在生计模式、社群认同与社会发展上的复杂现实。
-> - **非成员国受测群体的严重制度错配** 当 PISA 作为基准向亚非拉三十多个非 OECD 发展中国家扩散时，评估试题与当地青年真实面临的生存困境和就业环境发生了深刻脱节，加剧了[[Policy Borrowing|政策借用]]中的文化异化。
+> - **非成员国受测群体的严重制度错配** 当 PISA 作为基准向亚非拉三十多个非 OECD 发展中国家扩散时，评估试题与当地青年真实面临的生存困境和就业环境发生了深刻脱节，加剧了[[Policy Borrowing|政策借用]]中的文化[[Alienation|异化]]。
 
 ---
 

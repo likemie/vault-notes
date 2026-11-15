@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Determinism]]"
+  - "[[Alienation]]"
   - "[[Grand Challenges]]"
   - "[[Problem Finding]]"
   - "[[Wicked Problem]]"
@@ -58,14 +59,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Wanzenbock_2020_SPP"
 argument_key: "Argument_Wanzenbock_2020_SPP"
 argument_display_title: "A framework for mission-oriented innovation policy: Alternative pathways through the problem–solution space"
 argument_kind: "journal-article"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -78,7 +79,7 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 在应对气候变化、粮食安全与公共健康等重大社会挑战时，[[Mission-Oriented Innovation Policy|使命导向创新政策]]（Mission-Oriented Innovation Policy, MIP）如何克服既有研究将社会问题预设为已知、且将解决方案等同于科技突破的技术[[Determinism|决定论]]偏见？政策制定者应如何在一个由问题端与方案端双重棘手性构成的空间中，通过差异化的治理路径促成问题共识与方案合法性的有效收敛？
+> 在应对气候变化、粮食安全与公共健康等重大社会挑战时，[[Mission-Oriented Innovation Policy|使命导向创新政策]]（Mission-Oriented Innovation Policy, MIP）如何克服既有研究将社会问题预设为已知、且将解决方案等同于科技突破的技术[[Determinism|决定论]]偏见？政策制定者应如何在一个由问题端与方案端双重棘手性构成的空间中，通过差[[Alienation|异化]]的治理路径促成问题共识与方案合法性的有效收敛？
 
 > [!claim] 核心主张
 > 使命导向创新政策不能被简化为自上而下确定技术攻关目标的线性工程，而是一个在由争议性、复杂性与不确定性构成的二维问题–解决方案空间中，通过问题导向路径、解决方案导向路径或混合演化路径，逐步化解分歧并推动系统由发散走向合法化收敛的过程导向治理机制。

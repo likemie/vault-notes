@@ -9,7 +9,7 @@ aliases:
 summary: "西方地缘政治与国际发展话语中的批判性构念。指控债权国故意向发展中国家发放不可持续的主权贷款，在借款国陷入偿债危机时施压掠夺关键战略资产并确立排他性地缘依附；实证与比较高教研究表明该指控多属缺乏跨国微观证据的政治迷因，跨国工程产教协同依托能力进路开展本土工程人才定向培育且高校不参与主权债务设定，从微观层面解构了单向债务依附假说。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Discourse]]"
   - "[[Construct]]"
+  - "[[Alienation]]"
   - "[[South-South Cooperation]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge Diplomacy]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-20
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -57,7 +58,7 @@ updated: 2026-11-11
 > 债务陷阱外交（Debt-Trap Diplomacy）是指一种批判性[[Geopolitics|地缘政治]][[Discourse|话语]]与分析[[Construct|构念]]，指控新兴大国通过跨国大型基础设施融资，故意向财政与治理脆弱的全球南方国家提供超出其承受极限的高额主权贷款；当借款国无力偿还而陷入主权违约危机时，贷款国便施加政治压力，强行要求其让渡深水港口、干线交通或矿产能源等关键战略资产的长期经营控制权，以此建立排他性地缘政治依附与不对称控制关系。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 189, 194)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向债权国将跨国基建融资异化为地缘政治工具、诱发受援国主权债务违约并扣押战略资产的话语指控机制。
+> - **含义** 指向债权国将跨国基建融资[[Alienation|异化]]为地缘政治工具、诱发受援国主权债务违约并扣押战略资产的话语指控机制。
 > - **用途** 帮助研究者观察西方地缘政治话语如何建构新兴大国对外基建援助与[[South-South Cooperation|南南合作]]的负面叙事，审视跨国工程投资中的债务可持续性风险。
 > - **边界** 不等于客观存在的“主权债务流动性压力”或常规的“商业违约风险”；它预设了贷款国存在恶意制造违约的地缘战略图谋。
 

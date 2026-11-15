@@ -12,7 +12,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 33
+person_related_count: 34
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -34,14 +34,15 @@ related_concepts:
   - "[[Development Education]]"
   - "[[Paradigm]]"
   - "[[Educational Multilateralism]]"
+  - "[[Alienation]]"
   - "[[Washington Consensus]]"
   - "[[Document]]"
   - "[[Socioeconomic Status]]"
   - "[[Heterogeneity]]"
+  - "[[Variable]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Theoretical Perspective]]"
   - "[[Multilateral Development Bank]]"
-  - "[[Variable]]"
 related_theories:
   - "[[Conditioned State Theory]]"
   - "[[Organizational Culture]]"
@@ -102,7 +103,7 @@ updated: 2026-11-15
 >   - **阶段转向** 论证在贫困语境下，校舍、课本与教师培训等基本教育供给具有决定性产出收益，为[[World Bank|世界银行]]大规模投资基础教育硬件提供实证依据。
 > - **1990s–2000s — 多边援助[[Paradigm|范式]]批判与世界银行内部机制反思** 从学术官员转向独立学者，深刻剖析国际金融机构的教条主义弊端与组织政治生态。
 >   - **代表著作** "The history and problems in the making of educational policy at the World Bank 1960–2000" (2003)。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110, 117)]]; [[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 460)]]
->   - **关键概念／理论** [[Educational Multilateralism|教育多边主义]]异化、教育生产函数局限、借贷附带条件批判、多边银行组织内部分歧。
+>   - **关键概念／理论** [[Educational Multilateralism|教育多边主义]][[Alienation|异化]]、教育生产函数局限、借贷附带条件批判、多边银行组织内部分歧。
 >   - **阶段转向** 尖锐批评世界银行过度依赖“收益率计量”和结构调整附带条件，指出以刚性经济公式衡量后发国家教育的局限；同时从组织政治学揭示世行内部存在专业官员与最高管理层之间的激烈教条冲突，展现出多元复杂的官僚生态，该史实获得同僚[[Claudio de Moura Castro|卡斯特罗]]（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）的现场亲历互证。
 
 ---

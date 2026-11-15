@@ -8,7 +8,7 @@ aliases:
 summary: "教育决策权从中央官僚机构向个别学校下放的制度安排。在微观实践中体现为资源配置与人事管理的权责重构，但深受新自由主义市场化逻辑扭曲而诱发学校残余化与不平等加剧；在全球治理中被世界银行与经合组织构造成全球教育话语五大支柱之一，通过与中央质量评估系统的捆绑实施远处治理并挤压受援国的政策探索空间；而在分权管辖中亦可与学校自我评估相结合，被地方教育当局作为抵御外来集权审计与市场化移植的专业防御机制。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Whole Person Education]]"
   - "[[Document]]"
   - "[[Competitiveness]]"
+  - "[[Alienation]]"
   - "[[School Choice]]"
   - "[[Socioeconomic Status]]"
   - "[[Institutional Displacement]]"
@@ -81,7 +82,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-05-02
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -126,7 +127,7 @@ updated: 2026-11-11
 > [!feature] 核心要素与运作机制
 > - **决策权能的多维下放（Multi-dimensional Devolution）** 涵盖财政预算自主（统筹公用经费与校内资金）、人事聘用自主（直接招聘与绩效薪酬协商）、课程教学自主（校本课程开发与教学进度调控）三大支柱。
 > - **市场化逻辑驱动的四大悖论（Four Paradoxes of School Autonomy）** 凯迪等（Keddie et al., 2020）借鉴多兰（Dolan, 2020）悖论[[Analytic Framework|分析框架]]揭示：
->   1. *经济效率与差异化拨款悖论*：以经济效率为名削减区域支持体系，制造公私立学校间严重的资源分配不公；
+>   1. *经济效率与差[[Alienation|异化]]拨款悖论*：以经济效率为名削减区域支持体系，制造公私立学校间严重的资源分配不公；
 >   2. *竞争与个人主义悖论*：倡导学校竞争与个人主义问责，瓦解了公立系统内部的横向协同与系统公平；
 >   3. *权力下放与经济理性主义悖论*：官僚机构去中心化使深陷社会经济劣势的学校失去制度庇护；
 >   4. *需求本位拨款的执行赤字悖论*：缺乏透明度与精细支持的拨款模式，迫使校长沦为疲于填补经费窟窿的企业家。

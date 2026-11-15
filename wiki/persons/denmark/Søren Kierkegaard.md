@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: denmark
 person_region: "denmark"
-person_related_count: 25
+person_related_count: 29
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -33,11 +33,13 @@ related_concepts:
   - "[[Epoché]]"
   - "[[Objectivism]]"
   - "[[Dehumanization]]"
+  - "[[Alienation]]"
   - "[[Interpretive Paradigm]]"
   - "[[Variable]]"
   - "[[Anthropomorphic Model]]"
   - "[[Critical Pedagogy]]"
   - "[[Paradigm]]"
+  - "[[Romantic Irony]]"
   - "[[Scientific Method]]"
 related_theories: []
 related_methods:
@@ -48,12 +50,14 @@ related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Socrates]]"
   - "[[Martin Luther]]"
+  - "[[Friedrich Schlegel]]"
   - "[[Louis Cohen]]"
   - "[[Keith Morrison]]"
 related_facts:
   - "[[Protestant Pietism]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch04]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: high
 status: draft
@@ -98,7 +102,7 @@ updated: 2026-11-15
 > - **1846–1855 — 社会诊断与宗教存在阶段（Social Diagnostics & Religious Inwardness Stage）** 面对现代工业化初期的社会变迁，批判大众文化、[[Technical Rationality\|技术理性]]与建制官僚对个体精神深度的抹杀。
 >   - **代表著作** 《时代批判》（*Two Ages / A Literary Review*, 1846）、《致死的疾病》（*The Sickness unto Death*, 1849）、《爱在流行》（*Works of Love*, 1847）。
 >   - **关键概念／方法** 群众心态（Crowd mentality）、平庸化（Levelling）、个体去人化（[[Dehumanization]]）、绝望的本质。
->   - **阶段转向** 将哲学反思推向深刻的社会与存在病理学诊断，指出科学进步、理性神化与民主异化使人退化为缺乏热情的冷漠旁观者，呼唤个体作为“孤立者”（den Enkelte）重获主体尊严。
+>   - **阶段转向** 将哲学反思推向深刻的社会与存在病理学诊断，指出科学进步、理性神化与民主[[Alienation|异化]]使人退化为缺乏热情的冷漠旁观者，呼唤个体作为“孤立者”（den Enkelte）重获主体尊严。
 
 ---
 
@@ -125,7 +129,7 @@ updated: 2026-11-15
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]] — 将克尔凯郭尔确立为破除实证主义客观性迷思、捍卫个体独特性与主观性能力的核心思想源头；系统呈现其对时代去人化倾向的诊断，作为全书由实证主义向自然主义与诠释[[Paradigm\|范式]]过渡的存在论支点。
-> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — 第 4 章阐释克尔凯郭尔在《论反讽概念》中批判[[Friedrich Schlegel|施莱格尔]]式[[Romantic Irony|浪漫反讽]]使自我凌驾于一切伦理与生存严肃性之上（pp. 84–85）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — 第 4 章阐释克尔凯郭尔在《论反讽概念》中批判施莱格尔式[[Romantic Irony|浪漫反讽]]使自我凌驾于一切伦理与生存严肃性之上（pp. 84–85）。
 
 ---
 
@@ -138,7 +142,7 @@ updated: 2026-11-15
 
 > [!person-network] 关系网络
 > - **哲学论敌** [[Georg Wilhelm Friedrich Hegel\|黑格尔]]（G. W. F. Hegel） — 批判黑格尔构建吞噬个体激情的客观历史理性大厦，主张思辨体系无法安顿个体的真实生存困境。
-> - **浪漫反讽批判对象** [[Friedrich Schlegel\|施莱格尔]]（Friedrich Schlegel） — 在《论反讽概念》中斥责浪漫诗人自封为凌驾理念与现象之上的主宰，抹除[[Socrates|苏格拉底]]反讽原有的严肃、感恩与谦卑。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 84–85)]]
+> - **浪漫反讽批判对象** 施莱格尔（[[Friedrich Schlegel]]） — 在《论反讽概念》中斥责浪漫诗人自封为凌驾理念与现象之上的主宰，抹除[[Socrates|苏格拉底]]反讽原有的严肃、感恩与谦卑。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 84–85)]]
 > - **存在论回响** 存在主义哲学群落 — 承袭其焦虑、绝望、自由决断与生存优先于本质的核心母题。
 > - **社会学与教育学转译者** [[Louis Cohen]]、[[Keith Morrison]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]]） — 将其作为打破教育研究中[[Positivism\|实证主义]]垄断、确立自然主义与拟人化探究合法性的理论基石。
 > - **社会机制批判对象** 大众传媒（《海盗船》杂志）、体制化国教会 — 批判制造平庸大众与抹杀个体真实信念的社会建制。

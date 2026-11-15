@@ -10,7 +10,7 @@ aliases:
 summary: "国际组织软治理的双重基础运行模式之一，指超国家机构在探究模式完成问题界定后，直接介入主权国家公共政策讨论，将实质性因果知识打包为“有效做法”（what works）与最佳实践蓝图，向各成员国推介成套政策工具箱并展开权威咨询与游说的治理机制"
 type: concept
 domain: "comparative-education"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Multilateral Surveillance]]"
   - "[[Policy Brokerage]]"
   - "[[Creativity Training]]"
+  - "[[Alienation]]"
   - "[[Absorptive Capacity]]"
   - "[[Variable]]"
   - "[[Discourse]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -149,7 +150,7 @@ updated: 2026-11-03
 > > 批判学者指责调解模式将特定文化情境下的教育经验普适化，忽视制度移植的文化土壤。
 > >
 > > - **赵勇（2020）** 指出经合组织打包推介的“有效做法”大多基于单一维度的标准化测验表现，剥离了教育在生态多样性、文化传承与[[Creativity Training|创造力培养]]上的复杂内涵，导致移植国出现应试强化与生态退化。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
-> > - **施泰纳-哈姆西（2024）** 强调调解模式输出的通用工具箱实际上消解了比较教育学关注的本土脉络特质，将政策制定异化为机械的去情境化处方采购。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 542–544)]]
+> > - **施泰纳-哈姆西（2024）** 强调调解模式输出的通用工具箱实际上消解了比较教育学关注的本土脉络特质，将政策制定[[Alienation|异化]]为机械的去情境化处方采购。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 542–544)]]
 
 > [!warning] 适用局限
 > 调解模式的推行效果高度取决于主权国家内部的制度[[Absorptive Capacity|吸收能力]]与政治共识；当一国内部存在强大的联邦制分权阻力或高度极化的意识形态对抗时，外部推介的最佳实践容易遭遇抵制或被策略性选择性挪用。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 275–276)]]

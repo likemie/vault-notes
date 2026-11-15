@@ -21,11 +21,11 @@ tags:
   - theme/professional-agency
   - neo-taylorism
 related_concepts:
+  - "[[Alienation]]"
   - "[[Phronesis]]"
   - "[[Reflexivity]]"
   - "[[School Leadership]]"
   - "[[Visible Learning]]"
-  - "[[Pride in Learning]]"
   - "[[Collective Intelligence]]"
   - "[[Technical Rationality]]"
   - "[[Professional Judgment]]"
@@ -80,13 +80,13 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Teacher Professional Agency
-> 教师专业能动性（Teacher Professional Agency，又称教师专业自主权）是指一线教师在国家宏观课程框架指引下，在教学策略选择、实验探究设计、本土化课程开发与差异化评价上所拥有的专业决策权、[[Phronesis|实践智慧]]与自主行动空间。该概念确立教师作为[[Reflexivity|反思性]]实践者与课堂育人共同体建构者的主体地位，超越了机械执行死板清单的技术工定位；在遭遇不合理行政规制、新泰勒制监控与资本渗透时，教师具备开展批判性政策审议、制度缓冲与多阵线民主维权的能动实践能力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 36)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 6, 11–14)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]; [[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 350–351)]]
+> 教师专业能动性（Teacher Professional Agency，又称教师专业自主权）是指一线教师在国家宏观课程框架指引下，在教学策略选择、实验探究设计、本土化课程开发与差[[Alienation|异化]]评价上所拥有的专业决策权、[[Phronesis|实践智慧]]与自主行动空间。该概念确立教师作为[[Reflexivity|反思性]]实践者与课堂育人共同体建构者的主体地位，超越了机械执行死板清单的技术工定位；在遭遇不合理行政规制、新泰勒制监控与资本渗透时，教师具备开展批判性政策审议、制度缓冲与多阵线民主维权的能动实践能力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 36)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 6, 11–14)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]; [[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 350–351)]]
 
 > [!concept-lens] 概念透镜
 > - **核心本质** 确立教师作为[[Reflexivity|反思性]]实践者与课堂育人共同体建构者的主体地位，拒绝将教学降格为流水线上的机械操作清单。
@@ -102,7 +102,7 @@ updated: 2026-11-03
 > *"Teaching’s main concern is not to be found in checklists or standard operations. Teaching is about conscientiously building a learning community in a distinct classroom, in a unique school, in a particular neighborhood. This is a complex relational challenge, requiring a wide humanistic and technical skillset; with little in common with medical checklists, sutures, or knot tying."*
 
 > [!citation-card] [[The Royal Society|英国皇家学会]]论教师自主权与师资留任
-> "国际证据表明，在宽广的国家课程框架指引下，赋予[[Teacher Choices|教师选择]]适切教学法并为学生设计引人入胜的探究实验的自主权，是营造激发性课堂文化的最关键驱动力。正是这种受信任与被尊重的专业自主权，直接支撑了教师的工作[[Pride in Learning|自豪]]感，构成了遏制紧缺学科师资流失的核心机制。"[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 36)]]
+> "国际证据表明，在宽广的国家课程框架指引下，赋予[[Teacher Choices|教师选择]]适切教学法并为学生设计引人入胜的探究实验的自主权，是营造激发性课堂文化的最关键驱动力。正是这种受信任与被尊重的专业自主权，直接支撑了教师的工作自豪感，构成了遏制紧缺学科师资流失的核心机制。"[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 36)]]
 >
 > *"Evidence indicates that within broad curriculum frameworks, giving teachers the agency to select pedagogies and design engaging investigative work is central to creating an inspiring classroom culture. It is this professional trust and autonomy that fosters pride in teaching and forms the cornerstone of retaining specialist staff in shortage subjects."*
 
@@ -151,7 +151,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题一｜赋予教师专业自主权能够显著提升课堂活力与教师职业留任率
-> **职业认同与留任机制** 探讨微观行政规制对教师专业[[Pride in Learning|自豪]]感的侵蚀，以及宽框架赋权对降低师资离职率的关键作用。
+> **职业认同与留任机制** 探讨微观行政规制对教师专业自豪感的侵蚀，以及宽框架赋权对降低师资离职率的关键作用。
 
 > [!claim] Arthur and Bradley (2022) / Menzies et al. (2015)
 > **赋权与留任正相关** 实证研究（Arthur & Bradley, 2022; Menzies et al., 2015）表明，在宽广课程框架下赋予[[Teacher Choices|教师选择]]教学法与设计探究的自主权，能够营造对师生双方均具高度激发性的课堂文化，是改善教师工作满意度并遏制紧缺师资流失的最有效非物质激励。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 36)]]

@@ -7,9 +7,9 @@ aliases:
 summary: "指贯穿个体全生命周期的持续性、适应性与累积性学习过程。在人本主义视阈下涵盖支撑健康、理性协商与社会文化基础设施的全人发展生态；在经合组织等主导的知识经济与学习型经济中，则被重塑为应对知识快速折旧、以掌握实践诀窍（knowing how）为核心的生产力生存命令与可测倾向。"
 type: concept
 domain: "educational-philosophy"
-related_count: 99
-related_level: 9
-related_stars: "💎💎💎"
+related_count: 100
+related_level: 10
+related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/curriculum
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Externalization]]"
   - "[[Policy Borrowing]]"
+  - "[[Alienation]]"
   - "[[Informal Science Learning]]"
   - "[[Scientific Literacy]]"
   - "[[Science Capital]]"
@@ -126,7 +127,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -184,7 +185,7 @@ updated: 2026-11-11
 > **终身学习话语的[[Externalization|外部化]]功能** 在分析香港世纪之交的课程改革时指出，官方在 1998 年《施政报告》及 2001 年《学会学习》纲领中密集引入终身学习与[[Knowledge-Based Economy|知识经济]]话语，其核心动机在于政策外部化（[[Externalization]]）；即借用全球通行话语来将本土政治争议与制度弊端包装为顺应世界大势的必然选择，以此压制一线教师与公众对改革激进性的质疑。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, p. 487)]]
 
 > [!claim] Elfert (2015)
-> **人本主义终身教育的工具主义异化** 揭示终身学习在过去几十年中经历了从 1970 年代 [[UNESCO]] 全人发展哲学向新自由主义经济竞争工具的退化；政策文本频繁将学习责任单向推向个体，掩盖了教育机会不均等与劳动力市场不公等深层制度问题。
+> **人本主义终身教育的工具主义[[Alienation|异化]]** 揭示终身学习在过去几十年中经历了从 1970 年代 [[UNESCO]] 全人发展哲学向新自由主义经济竞争工具的退化；政策文本频繁将学习责任单向推向个体，掩盖了教育机会不均等与劳动力市场不公等深层制度问题。
 
 > [!claim] [[Robert Arnove|Arnove, R.]]
 > **国际多边格局重构与终身学习的人本主义式微** 阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）引用蒙迪（Mundy, 1999）指出，在战后以联合国教育、科学及文化组织（[[UNESCO]]）为主导的“有限再分配性多边主义”时期，终身学习被置于人道主义与社会福利的核心地位，作为实现普遍受教育权的长远愿景；然而随着 1980 年代[[World Bank|世界银行]]（[[World Bank]]）等以经济增长为导向的国际金融机构崛起，终身学习理念被深度重塑与窄化。尽管 1996 年联合国教科文组织[[Delors Report|德洛尔报告]]（Delors Report）试图通过“学会认知、做事、共处与生存”四大支柱挽回全人发展的社会向度，并对经济全球化侵蚀社会连带发出预警，但全球教育政策议程的实际主导权已不可逆转地被世界银行的[[Human Capital Theory|人力资本]]与成本效益模型所接管，使终身学习在实践中日益异化为劳动者单向度应对市场淘汰的[[Employability|就业能力]]（[[Employability]]）规训。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]

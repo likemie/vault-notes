@@ -21,6 +21,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Task Structure]]"
   - "[[Reflexivity]]"
+  - "[[Alienation]]"
   - "[[Simplicity of Knowledge]]"
   - "[[Epistemology]]"
   - "[[Wicked Problem]]"
@@ -68,14 +69,14 @@ sources:
 part_of:
 status: draft
 created: 2026-08-19
-updated: 2026-10-29
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Lodewyk_2007_EducPsych"
 argument_key: "Argument_Lodewyk_2007_EducPsych"
 argument_display_title: "Relations among epistemological beliefs, academic achievement, and task performance in secondary school students"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -88,7 +89,7 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 尽管既有研究指出学生的[[Epistemological Beliefs\|认识论信念]]与其思维推理、认知策略及[[Academic Achievement\|学业成绩]]存在关联，但在常规课堂教学情境中，认识论信念如何随办学导向（公立学校与独立教会学校）、[[Academic Achievement\|学业成就]]等级、性别以及微观教学[[Task Structure\|任务结构]]（良构任务 vs 劣构任务）发生分化？特别是，认识论信念是否对不同结构化特征的任务表现和[[Reflexivity\|反思性]]判断具有差异化的预测效力？
+> 尽管既有研究指出学生的[[Epistemological Beliefs\|认识论信念]]与其思维推理、认知策略及[[Academic Achievement\|学业成绩]]存在关联，但在常规课堂教学情境中，认识论信念如何随办学导向（公立学校与独立教会学校）、[[Academic Achievement\|学业成就]]等级、性别以及微观教学[[Task Structure\|任务结构]]（良构任务 vs 劣构任务）发生分化？特别是，认识论信念是否对不同结构化特征的任务表现和[[Reflexivity\|反思性]]判断具有差[[Alienation|异化]]的预测效力？
 
 > [!claim] 核心主张
 > 中学生的认识论信念（尤其是固定与快速学习能力、[[Simplicity of Knowledge\|简单知识]]信念）显著预测其总体学业成就；更关键的是，认识论信念对学术任务表现的预测力严格受任务结构的调节：简单知识信念显著负向预测劣构任务总分与反思性判断得分，但在良构任务中完全失去预测效力。

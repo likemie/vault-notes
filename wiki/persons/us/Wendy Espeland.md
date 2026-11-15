@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: "us"
 person_region: "us"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Façade of Rationality]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
+  - "[[Alienation]]"
   - "[[Policy Brokerage]]"
   - "[[Scaffolding]]"
   - "[[Homophily]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -92,7 +93,7 @@ updated: 2026-11-11
 > - **2000–2010年代 — 排名、问责制与反应性动力学** 转向高等教育与专业领域的定量问责制，追踪法学院 rankings 对院系招生、预算分配、教学实践与学生心理的深度规训。
 >   - **代表著作** *Rankings and Reactivity: How Public Measures Recreate Social Worlds* (2007, with M. Sauder); *Engines of Anxiety: Academic Rankings, Reputation, and Accountability* (2016)。转引自 [[Argument_Schulze-Cleven_2017_HE\|(Schulze-Cleven et al., 2017, p. 797)]]
 >   - **关键概念／方法** 反应性（Reactivity）、自证预言（Self-Fulfilling Prophecy）、硬指标焦虑。
->   - **阶段转向** 从静态的指标设计批判，深化为对指标发布后行动者动态反思、逆向博弈与组织行为异化的闭环反馈机制解剖。
+>   - **阶段转向** 从静态的指标设计批判，深化为对指标发布后行动者动态反思、逆向博弈与组织行为[[Alienation|异化]]的闭环反馈机制解剖。
 > - **2015年至今 — 全球指标治理、[[Façade of Rationality\|理性表象]]与数字叙事** 参与国际指标社会学前沿论辩，探索超国家治理与跨国组织[[Policy Brokerage\|政策中介]]中数字与叙事的共生辩证法。
 >   - **代表著作** *Narrating Numbers* (2015); *What's New with Numbers? Sociological Approaches to the Study of Quantification* (2019, with A. Mennicken)。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 539)]]
 >   - **关键概念／方法** 理性表象（Façade of Rationality）、数字叙事空间（Narrating Numbers）、公共政策中介。

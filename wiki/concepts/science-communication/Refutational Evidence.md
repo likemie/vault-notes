@@ -9,7 +9,7 @@ aliases:
 summary: "教育科学与认知心理学构念，指旨在否定、推翻或证伪教师既有经验直觉与伪科学迷思的实证研究成果，若缺乏建设性替代方案易触发教师心理防御与专业疏离"
 type: concept
 domain: "science-communication"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Educational Science Communication]]"
   - "[[Document]]"
   - "[[Operationalization]]"
+  - "[[Alienation]]"
   - "[[Professional Judgment]]"
   - "[[Paradigm]]"
   - "[[Deficit Model of Science Communication]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -129,7 +130,7 @@ updated: 2026-11-03
 > **认知重构与建设性行动替代** 阐明克服教师心理防御的关键在于将[[Falsification\|证伪]]结论转化为建设性支架，通过提供清晰的“明日课堂”实操策略引导信念的平稳过渡。
 
 > [!claim] [[Argument_Besa_2024_UW\|Besa, 2024]]
-> **建设性行动替代与概念转变沟通** 破除[[Learning Styles|学习风格]]等顽固教育神话无法仅靠公布[[Statistical Significance\|统计显著性]]或负向[[Effect Size\|效应量]]达成。科学传播必须遵循认知心理学的概念转变规律（Vosniadou, 2013），在呈现反驳性证据的同时，必须同步提供契合常态课堂情境的建设性行动方案（如多模态表征教学、基于知识维度的差异化支架）；只有当教师确信新方案能够切实解决日常教学挑战时，反驳性证据才能转化为促进专业发展的积极催化剂。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 252, 258)]]
+> **建设性行动替代与概念转变沟通** 破除[[Learning Styles|学习风格]]等顽固教育神话无法仅靠公布[[Statistical Significance\|统计显著性]]或负向[[Effect Size\|效应量]]达成。科学传播必须遵循认知心理学的概念转变规律（Vosniadou, 2013），在呈现反驳性证据的同时，必须同步提供契合常态课堂情境的建设性行动方案（如多模态表征教学、基于知识维度的差[[Alienation|异化]]支架）；只有当教师确信新方案能够切实解决日常教学挑战时，反驳性证据才能转化为促进专业发展的积极催化剂。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 252, 258)]]
 
 ---
 

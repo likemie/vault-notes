@@ -13,7 +13,7 @@ subtype: program
 region: "chile"
 fact_region: "chile"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[School Inspection]]"
   - "[[Test-Based Accountability]]"
+  - "[[Alienation]]"
   - "[[New Managerialism]]"
   - "[[Instrument Constituencies]]"
   - "[[Paradigm]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-25
+updated: 2026-11-15
 ---
 
 ---
@@ -119,7 +120,7 @@ updated: 2026-10-25
 
 > [!debates] 核心争议
 >
-> > [!axis] 专业赋权提升 vs 商业套利应试异化
+> > [!axis] 专业赋权提升 vs 商业套利应试[[Alienation|异化]]
 > > 围绕 [[Advanced Technological Education|ATE]] 是否有效提升了薄弱学校的办学能力存在广泛论辩。
 > >
 > > - **[[New Managerialism|新管理主义]]支持方** 坚称引入市场竞争打破了公立教育官僚垄断，让学校能够灵活调动外部最先进的科研与技术资源。

@@ -9,7 +9,7 @@ aliases:
 summary: "指公共机构在面对高度不确定性与重大社会挑战时，识别前沿方向、协调跨部门资源、进行实验试错并实现制度化反思学习的组织能力；强调建立内部专业研判能力以抵御外部咨询机构带来的去能力化风险。"
 type: concept
 domain: "science-policy"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[The Sublime]]"
   - "[[Lead-and-Learn Paradigm]]"
   - "[[Institutional Complementarity]]"
+  - "[[Alienation]]"
   - "[[Operationalization]]"
   - "[[Paradigm]]"
   - "[[Mission-Oriented Innovation Policy]]"
@@ -64,7 +65,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -140,7 +141,7 @@ updated: 2026-11-14
 > | 条目 | 类型 | 理论与实践关联说明 |
 > |:---|:---|:---|
 > | [[ROAR Framework]] | Theory | 公共部门动态能力是 ROAR 框架中“组织（Organizations）”维度的核心理论支柱。 |
-> | [[Three Generations of Mission-Oriented Policy]] | Theory | 阐明不同代际使命政策对公共部门动态能力的差异化历史需求。 |
+> | [[Three Generations of Mission-Oriented Policy]] | Theory | 阐明不同代际使命政策对公共部门动态能力的差[[Alienation\|异化]]历史需求。 |
 > | [[Lead-and-Learn Paradigm]] | Concept | 公共部门动态能力在治理实践中的[[Operationalization\|操作化]]转型[[Paradigm\|范式]]。 |
 > | [[Mission-Oriented Innovation Policy]] | Concept | 公共部门动态能力是实施新一代使命导向政策不可或缺的制度前提与行政引擎。 |
 > | [[Absorptive Capacity]] | Concept | 机构吸收能力是公共部门动态能力中识别、消化与应用外部复杂知识的底层机制。 |

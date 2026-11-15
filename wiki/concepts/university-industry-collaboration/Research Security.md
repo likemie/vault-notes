@@ -8,10 +8,10 @@ aliases:
 summary: "大学与科研体系为保护学术研究、关键技术与知识产权免受外国不当干预、经济间谍活动与未经授权转移而建立的制度性风险防范机制；近年在大国地缘技术博弈中进一步上升为国家科技治理重塑国际科研合作边界、将学术自治置于国家安全合规之下的核心治理工具。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/research-security
   - theme/higher-education
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Geopolitics]]"
   - "[[Operationalization]]"
+  - "[[Alienation]]"
   - "[[Scientific Mobility]]"
   - "[[Research Topic]]"
   - "[[Knowledge Production]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -68,7 +69,7 @@ updated: 2026-11-11
 > [!concept-lens] 概念透镜
 > - **含义** 指向科研合作生态中保护国家与机构核心无形资产、关键技术与科研人员免受外部[[Geopolitics|地缘政治]]风险侵害的制度防线。
 > - **用途** 帮助政策制定者与大学管理者在开放科学交流与国家利益防护之间建立[[Operationalization|操作化]]桥梁，将个人分散的合规焦虑转化为专业化的机构风险管理服务。
-> - **边界** 不等于单纯的技术网络安全，不等于传统涉密国防科研管理，也不应异化为全面切断正常国际学术交流的封闭主义壁垒。
+> - **边界** 不等于单纯的技术网络安全，不等于传统涉密国防科研管理，也不应[[Alienation|异化]]为全面切断正常国际学术交流的封闭主义壁垒。
 
 > [!citation-card] 开放科学公理遭遇安全化治理冲击
 > 国际科学合作首次被系统性置于国家安全与技术竞争框架之下。大国科技竞争加速推动美国[[Social Contract of Science|科学的社会契约]]从公共知识取向朝战略工具取向深刻漂移，科研安全成为重构科研正当性的核心约束。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1061)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–26)]]

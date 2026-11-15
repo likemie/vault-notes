@@ -6,7 +6,7 @@ aliases:
 summary: "教师在复杂、非线性的教学情境中整合研究证据、伦理标准、教育学原则与实践经验做出决策的核心专业能力，是 EIP 多源整合的枢纽与抵御技术官僚主义去专业化的关键防线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 96
+related_count: 97
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Professional Capital]]"
   - "[[Bildung]]"
+  - "[[Alienation]]"
   - "[[Evaluation Research]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Teaching Assistant]]"
@@ -122,7 +123,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-05-03
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -165,7 +166,7 @@ updated: 2026-11-11
 > - **宏观政策与课程研制维度（Policy & Curriculum Dimension）** 在教育政策与课程标准研制中，专业判断表现为学科专家的公理化演绎推导（Disciplinary Deduction）、一线实践者的可行性物理检验（Feasibility Testing）以及同行学者的审慎共识背书（Peer Consensus）。当经验实证不足以直接生成具体政策细则时，系统应用的专业判断为政策方案提供科学性、可实施性与专业合法性。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 14–16, 19)]]
 
 > [!dual-header] 专业判断在三维证据基础（Tripartite Evidence Base）中的整合功能
-> | 整合数据源 | 专业判断在整合中的具体功能 | 缺乏专业判断时的异化风险 |
+> | 整合数据源 | 专业判断在整合中的具体功能 | 缺乏专业判断时的[[Alienation\|异化]]风险 |
 > |---|---|---|
 > | **基于实践的证据**<br>（Practice-based Evidence） | 唤醒与反思教师的默会实践知识、个案经验与情境敏感度，确立育人审议的主体立场。 | 退化为因循守旧的封闭[[Empiricism\|经验主义]]或个人主观盲从。 |
 > | **基于研究的证据**<br>（Research-based Evidence） | [[Evaluation Research\|评估研究]]在特定班级与情境中的适切性，完成从概率规律到具体策略的本土转译。 | 陷入教条化照搬，导致教学水土不服与技术官僚依赖。 |

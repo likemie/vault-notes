@@ -7,7 +7,7 @@ aliases:
 summary: "将空间理解为社会网络、制度安排与耐用材料构成的动态拓扑构型而非静态领土容器；在教育政策研究中用于解构全球与国家二元对立，透视政策网络中的策略性外在化以及耐用客体构建的异层支配秩序。"
 type: concept
 domain: "comparative-education"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Champ]]"
   - "[[Policy Borrowing]]"
+  - "[[Alienation]]"
   - "[[Deductible Gift Recipient]]"
   - "[[Methodological Transnationalism]]"
   - "[[Philanthrocapitalism]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -152,7 +153,7 @@ updated: 2026-11-11
 > **[[Transfer Space\|转移空间]]中的转译与过滤** 分析[[Policy Borrowing\|政策借用]]在转移空间中所经历的多阶段非对称筛选与本土化变异。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]]
-> **转移空间中的两阶段过滤断裂** 跨国[[Policy Mobility\|政策流动]]是发生在充满权力博弈的转移空间之中，有别于单向均质的全球趋同。在转移空间内部，不仅国际组织依据自身利基打包差异化证据，主权国家内部的不同职能部门亦依据政治周期展开非对称过滤：在早期的议程设置阶段，专家咨询网络广泛吸纳跨国中介知识以制造危机动员；在进入行政法令出台的决策阶段，官僚机构则会施加戏剧性的去国际化过滤，仅留下极少数高度契合本土行政控制诉求的外部工具。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 546–548)]]
+> **转移空间中的两阶段过滤断裂** 跨国[[Policy Mobility\|政策流动]]是发生在充满权力博弈的转移空间之中，有别于单向均质的全球趋同。在转移空间内部，不仅国际组织依据自身利基打包差[[Alienation|异化]]证据，主权国家内部的不同职能部门亦依据政治周期展开非对称过滤：在早期的议程设置阶段，专家咨询网络广泛吸纳跨国中介知识以制造危机动员；在进入行政法令出台的决策阶段，官僚机构则会施加戏剧性的去国际化过滤，仅留下极少数高度契合本土行政控制诉求的外部工具。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 546–548)]]
 
 ---
 

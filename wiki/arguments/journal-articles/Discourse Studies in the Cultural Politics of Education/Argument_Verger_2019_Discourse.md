@@ -48,6 +48,7 @@ related_concepts:
   - "[[Transparency Bypass]]"
   - "[[Foundational Literacy and Numeracy]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Alienation]]"
   - "[[Data Infrastructure]]"
   - "[[Firewall Effect]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -108,14 +109,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-21
-updated: 2026-11-11
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Verger_2019_Discourse"
 argument_key: "Argument_Verger_2019_Discourse"
 argument_display_title: "Reforming governance through policy instruments: how and to what extent standards, tests and accountability in education spread worldwide"
 argument_kind: "journal-article"
-argument_related_count: 75
+argument_related_count: 76
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -341,7 +342,7 @@ issuing_organization: ""
 > [!chain-link] 测试产业链与治理制度锁定的因果推导链
 > - **前提：测评职能外包** 规制型政府将标准化命题、电子化阅卷、云端数据库运维及教材教辅开发大规模外包给私营商业跨国集团。
 > - **机制：[[Instrument Constituencies|工具支持群体]]固化** 在智利，政府允许学校动用 SEP 资金向外部技术教育支持机构（[[Asistencias Técnicas Educativas]]）采购提分咨询，直接孵化出庞大的私营改进服务市场；培生（Pearson）、[[Educational Testing Service|教育考试服务中心]]（Educational Testing Service, ETS）、剑桥大学考评院（Cambridge Assessment）等跨国机构与本土供应商通过政治游说与技术绑定获得高额合同，智库与技术官僚将专业权威锚定于数据生产，结成紧密的政策工具支持群体（Instrument Constituencies）。
-> - **结果：不可逆制度锁定** 即便学术证据持续揭示测试异化、即便面临社会反弹，庞大的食利集团与行政惯性依然确保了评估问责体制的持久维系。
+> - **结果：不可逆制度锁定** 即便学术证据持续揭示测试[[Alienation|异化]]、即便面临社会反弹，庞大的食利集团与行政惯性依然确保了评估问责体制的持久维系。
 
 > [!sub-claim] 4. 家长罢考与工会反弹虽能逼停公开排名，却无法撼动全员统考的制度根基
 

@@ -7,7 +7,7 @@ title: "Argument_Fan_Song_Zhai_2024_RSEE"
 argument_key: "Argument_Fan_Song_Zhai_2024_RSEE"
 argument_display_title: "Education, science and technology, and talent integrated development: Evidence from China"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ tags:
 related_concepts:
   - "[[EST Integrated Development]]"
   - "[[Total Factor Productivity]]"
+  - "[[Alienation]]"
   - "[[Technological Catch-up]]"
   - "[[Spatial Sortings]]"
   - "[[Causality]]"
@@ -56,7 +57,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-12
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 ---
 > [!question]
@@ -211,7 +212,7 @@ updated: 2026-11-11
 > [!chain-link] 全国总体趋势
 > 2001-2022年期间，教育、科技、人才三个子系统的发展水平均呈上升趋势，但三者并非同步增长。全国层面呈现出教育 > 科技 > 人才的发展水平递减格局——教育子系统始终处于领先地位，科技次之，人才最低。这一排序揭示了一个值得注意的事实：虽然人才被论文的理论框架定位为EST系统的核心，但在实际发展水平上却落后于教育和科技。
 >
-> **从数据到结论的逻辑** 教育领先于科技和人才→中国在过去二十余年中对教育的投入力度最大、见效最快。人才发展滞后→人才培育周期长、流动性强，省级层面的"人才存量"提升难以在短期内实现。三者增速差异意味着耦合协调的推进不能"一刀切"——需要根据各子系统的实际水平制定差异化策略。
+> **从数据到结论的逻辑** 教育领先于科技和人才→中国在过去二十余年中对教育的投入力度最大、见效最快。人才发展滞后→人才培育周期长、流动性强，省级层面的"人才存量"提升难以在短期内实现。三者增速差异意味着耦合协调的推进不能"一刀切"——需要根据各子系统的实际水平制定差[[Alienation|异化]]策略。
 
 > [!chain-link] 三区域子系统增长数据
 > 东部地区三系统均呈稳定单调上升；中西部整体上升但存在波动：

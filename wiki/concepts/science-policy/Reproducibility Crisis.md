@@ -8,7 +8,7 @@ aliases:
 summary: "2010年代以来在心理学、生物医学、实验经济学及社会科学中集中爆发的已发表经典研究无法被独立复现的方法论危机；在科学学与国家科技政策视阈下，危机根源于学术出版激励偏倚、统计自由度滥用与生成-核验成本脱节，不仅动摇了科学的内在认知权威，更推动了开放科学与‘金标准科学’评价制度的重塑。"
 type: concept
 domain: "science-policy"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Researcher Degrees of Freedom]]"
   - "[[Variable]]"
   - "[[Big Science]]"
+  - "[[Alienation]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Research-Practice Partnership]]"
   - "[[Replication in Education Research]]"
@@ -63,7 +64,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -129,7 +130,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题二｜方法论危机被政治权力借用为重塑科学合法性与收紧学术自治的契约性工具
-> **政治借用与治理异化** 揭示行政当局如何借学术诚信之名，将实证复现要求异化为规范科研立项与审计的制度工具。
+> **政治借用与治理[[Alienation|异化]]** 揭示行政当局如何借学术诚信之名，将实证复现要求异化为规范科研立项与审计的制度工具。
 
 > [!claim] [[Argument_Fan_2026_BCAS|樊春良 (2026)]]
 > **行政可验证性置换内在认知权威** 美国政府 2025 年颁布的《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令，将学界内部关于可重复性的争论转化为一套契约性工具；以程序客观性与数据复现为支点，建立行政审核与核验机制，使科学的正当性依据由专业共同体的“认知权威”转向行政官僚系统的“程序与结果可控性”。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]

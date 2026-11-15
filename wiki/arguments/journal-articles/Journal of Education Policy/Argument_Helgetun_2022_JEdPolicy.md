@@ -32,8 +32,10 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Initial Teacher Training]]"
   - "[[Paradigm]]"
+  - "[[Mimesis]]"
   - "[[Heterogeneity]]"
   - "[[The Sublime]]"
+  - "[[Alienation]]"
   - "[[Technical Rationality]]"
   - "[[Gatekeepers]]"
   - "[[Reliability]]"
@@ -77,14 +79,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-09-16
-updated: 2026-11-14
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Helgetun_2022_JEdPolicy"
 argument_key: "Argument_Helgetun_2022_JEdPolicy"
 argument_display_title: "From an age of measurement to an evidence era? Policy-making in teacher education in England"
 argument_kind: "journal-article"
-argument_related_count: 46
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -195,7 +197,7 @@ issuing_organization: ""
 > - **1983–2009 内部科层封闭期**
 >   政策论据高度封闭，正当性依赖政府内部科层权威与视导体系。1983 年白皮书《教学质量》（DES 1983）全篇仅包含 7 条参考文献（全为内部督学报告与委员会文件）；1989 年第 24/89 号通令仅列 5 条引文，其余 40 余份核心政策文件均未附带明确参考文献。
 > - **2010 年后 实证合法化爆发期**
->   2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]发生根本性转向，仅教师教育专属章节即密集引证 34 条文献，广泛吸纳学术期刊、商业咨询调研及国际组织报告，全面模仿实证科学论文规范。
+>   2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]发生根本性转向，仅教师教育专属章节即密集引证 34 条文献，广泛吸纳学术期刊、商业咨询调研及国际组织报告，全面[[Mimesis|模仿]]实证科学论文规范。
 
 > [!row-contrast] 政策文本引文演化对比（1983 vs 2010）
 > | 比较维度 | 1983 年白皮书《教学质量》（*Teaching Quality*） | 2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]（*The Importance of Teaching*） |
@@ -220,7 +222,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim|step] 论证步骤二　教育部政治把关与适宜性逻辑将证据生产异化为预设政策的逆向背书
+> [!claim|step] 论证步骤二　教育部政治把关与适宜性逻辑将证据生产[[Alienation|异化]]为预设政策的逆向背书
 > 证据进入政策[[Champ\|场域]]的过程深度受制于英国教育部的政治把关与政治适宜性逻辑（logic of appropriateness）；决策考量优先服从于方案能否在政治上顺利“落地”，从而诱发以迎合官方意图为导向的[[Policy-Based Evidence-Making\|基于政策的证据制造]]（Policy-Based Evidence-Making, PBEM），消解了纯粹的[[Technical Rationality\|技术理性]]因果推导。
 
 > [!sub-claim] 1. 英国教育部通过排他性授权与机构创设垄断政策咨询的准入壁垒

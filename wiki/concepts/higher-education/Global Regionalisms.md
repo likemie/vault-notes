@@ -9,7 +9,7 @@ aliases:
 summary: "指高等教育被整合进跨国区域政治经济项目并成为划定地理合作边界、塑造地缘竞争优势与建构区域身份核心支柱的政治建构现象；在分析视阈上经历了从单纯考察超国家组织对教育的单向影响，向审视教育在想象与建构世界区域本身中的主动性转向，并分化出欧洲全域趋同的旗舰模式与东南亚主权防卫的多轨竞逐模式。"
 type: concept
 domain: "higher-education"
-related_count: 45
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -21,6 +21,7 @@ tags:
   - theme/geopolitics-of-knowledge
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[Alienation]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Student Mobility]]"
   - "[[Unit of Analysis]]"
@@ -38,6 +39,7 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Falsification]]"
   - "[[Document]]"
+  - "[[Mimesis]]"
   - "[[Regulatory Regionalism]]"
   - "[[Competitiveness]]"
   - "[[Politics of Knowledge]]"
@@ -56,6 +58,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Susan L. Robertson]]"
+  - "[[Simón Bolívar]]"
 related_facts:
   - "[[EU]]"
   - "[[ASEAN]]"
@@ -74,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -84,7 +87,7 @@ updated: 2026-11-11
 
 > [!concept-lens] 概念透镜
 > - **含义** 指涉由国家权威与跨国多边机构主导推进的区域高等教育治理建构，强调通过学分互认、资格框架与质量保障等工具界定区域内部协调边界。
-> - **用途** 帮助研究者超越微观大学层面的跨境人员流动与宏观抽象的地缘经济分析，确立以政策部门为核心的中观分析视阈，解释不同区域如何通过差异化制度安排建构多边高等教育空间。
+> - **用途** 帮助研究者超越微观大学层面的跨境人员流动与宏观抽象的地缘经济分析，确立以政策部门为核心的中观分析视阈，解释不同区域如何通过差[[Alienation|异化]]制度安排建构多边高等教育空间。
 > - **边界** 区别于个体院校自发开展的去中心化国际合作，高等教育区域主义始终包含具有管辖权的国家或多边权威的政治意志与制度协调框架；同时区别于单纯的欧洲博洛尼亚模式输出，非欧洲区域具备内生的制度生成动力与防御性治理诉求。
 
 > [!citation-card] 周孟萱与拉维内论高等教育区域主义的权威建构属性
@@ -158,7 +161,7 @@ updated: 2026-11-11
 > **欧洲中心主义扩散论的经验[[Falsification|证伪]]** 探讨扎根实地田野的政策部门比较如何挑战国际关系与比较政治学中预设的欧洲模式全球单向扩散假说。
 
 > [!claim] Chou & Ravinet
-> **博洛尼亚单向扩散假说的实证破产与多元内生动力确立** 周孟萱与拉维内系统检视了主流[[Comparative Regionalism|比较区域主义]][[Document|文献]]中预设的三大扩散机制（政策借鉴、规制竞争与规范模仿），指出这一理论假定非欧洲区域必然通过直接照搬或竞争性反应吸收博洛尼亚模板。然而，基于两地 53 场深度政策访谈与文本分析的实证调查表明，三大扩散机制在东南亚田野中均未能成立。东南亚决策者明确意识到欧洲模式与本土发展阶段的脱节，主动抵制任何全盘照搬博洛尼亚的企图；区域合作的深化完全由 2015 年[[ASEAN Economic Community|东盟经济共同体]]建成的内生期限所驱动。这一实证发现[[Falsification|证伪]]了欧洲中心主义的单向扩散假说，表明比较区域主义必须跳出抽象组织形态比较，以政策部门为基本[[Unit of Analysis|分析单位]]，深入发掘发展中国家区域治理的自主逻辑。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 153–156)]]
+> **博洛尼亚单向扩散假说的实证破产与多元内生动力确立** 周孟萱与拉维内系统检视了主流[[Comparative Regionalism|比较区域主义]][[Document|文献]]中预设的三大扩散机制（政策借鉴、规制竞争与规范[[Mimesis|模仿]]），指出这一理论假定非欧洲区域必然通过直接照搬或竞争性反应吸收博洛尼亚模板。然而，基于两地 53 场深度政策访谈与文本分析的实证调查表明，三大扩散机制在东南亚田野中均未能成立。东南亚决策者明确意识到欧洲模式与本土发展阶段的脱节，主动抵制任何全盘照搬博洛尼亚的企图；区域合作的深化完全由 2015 年[[ASEAN Economic Community|东盟经济共同体]]建成的内生期限所驱动。这一实证发现[[Falsification|证伪]]了欧洲中心主义的单向扩散假说，表明比较区域主义必须跳出抽象组织形态比较，以政策部门为基本[[Unit of Analysis|分析单位]]，深入发掘发展中国家区域治理的自主逻辑。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 153–156)]]
 
 ---
 
@@ -183,7 +186,7 @@ updated: 2026-11-11
 > [!dev-timeline] 高等教育区域主义概念演进脉络
 > - **1990 年代 — 冷战后区域主义兴起与博洛尼亚进程奠基** 伴随马斯特里赫特条约与冷战后多极化格局，欧洲各国于 1999 年签署《博洛尼亚宣言》，开启了政府间自愿协调构建统一欧洲高等教育区的先河。
 > - **2000 年代 — [[Lisbon Strategy|里斯本战略]]与[[Knowledge-Based Economy|知识经济]]想象绑定** 欧盟委员会发布里斯本战略，明确将建设“[[Europe of Knowledge|知识欧洲]]”确立为超国家地缘经济竞争目标；高等教育被正式确立为提升全欧创新生产力与高技能劳动力供给的核心基建。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 147–148)]]
-> - **2010 年代初 — 全球南方区域扩展与认识论转向萌芽** 区域比较研究从欧美扩展至东南亚（东盟与教育部长组织）、南美洲（南方共同市场与玻利瓦尔联盟）与非洲联盟；学者开始反思传统欧洲中心主义，关注不同区域独特的历史传统。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 41–42)]]
+> - **2010 年代初 — 全球南方区域扩展与认识论转向萌芽** 区域比较研究从欧美扩展至东南亚（东盟与教育部长组织）、南美洲（南方共同市场与[[Simón Bolívar|玻利瓦尔]]联盟）与非洲联盟；学者开始反思传统欧洲中心主义，关注不同区域独特的历史传统。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 41–42)]]
 > - **2016 年 — 罗伯逊团队确立教育建构世界区域的认识论框架** 苏珊·罗伯逊团队（Robertson et al., 2016）系统论证高等教育政策是国家主动想象、划定地理边界与中介社会关系的关键力量，完成了从“区域对教育的影响”向“教育生产世界区域”的学术转向。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, p. 41)]]
 > - **2017 年 — 部门跨区域比较确立与博洛尼亚扩散论证伪** 周孟萱与拉维内（[[Argument_Chou_2017_PolSoc|Chou & Ravinet, 2017]]）提出以高等教育政策部门为分析单位的比较区域主义路径，实证证伪了欧洲单向扩散假说，提炼出欧洲“旗舰模式”与东南亚“多轨竞逐模式”的制度类型学。
 > - **2020 年代至今 — 知识地缘政治回潮与使命导向科研规训** 伴随全球地缘大国博弈加剧，区域治理转向以“地平线欧洲”为代表的使命导向资助体系；高等教育与学术研究被深度卷入抗衡性地缘知识网络，规制区域主义对学术自主性构成了持续挑战。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 42–43)]]

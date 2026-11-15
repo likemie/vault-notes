@@ -8,7 +8,7 @@ aliases:
 summary: "欧陆尤其是德语区教育科学的奠基性母体学科。起源于哲学与神学传统，以人的教化（Bildung）与教育引导（Erziehung）为核心本体，为比较教育、学校教育学等各应用分支学科提供根本的价值规范、概念范畴与认识论反思，构成抵御技术官僚功利化与纯粹工具性实证主义的理论基础。"
 type: concept
 domain: "educational-philosophy"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Disciplinary Institutionalization]]"
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
+  - "[[Alienation]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Geisteswissenschaften]]"
   - "[[Pragmatic Paradigm]]"
@@ -51,17 +52,17 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
 
-> [!def] Allgemeine Pädagogik
+> [!def] [[Allgemeine Pädagogik]]
 > **[[Allgemeine Pädagogik|普通教育学]]（Allgemeine Pädagogik / General Pedagogy）** 是指欧陆（特别是德语区和中东欧）教育科学体系中居于统领地位的基础理论学科与“母体学科”（德文：Mutterdisziplin）。它以人的教化（[[Bildung]]）、受教育者的可塑性（Bildsamkeit）以及教育行动（Erziehung）的伦理正当性为核心研究对象，系统确立教育科学的基本概念范畴、[[Ontology|本体论]]承诺与方法论准则。在比较教育[[Disciplinary Institutionalization|学科建制]]史上，普通教育学为比较教育提供了不可动摇的人文关怀根基，使其在吸纳历史学与社会学工具时始终保有对人的整全发展的规范性反思。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向教育科学知识大厦的元理论中枢与母体支柱，负责反思教育的终极目的、普遍规律、伦理边界与各分支学科的[[Epistemology|认识论]]统一性。
-> - **用途** 帮助研究者透视欧陆教育[[Knowledge Production|知识生产]]为何高度重视哲学思辨、人性尊严与历史发生学，并理解应用性分支学科如何从母体中汲取抵御功利技术化异化的理论资源。
+> - **用途** 帮助研究者透视欧陆教育[[Knowledge Production|知识生产]]为何高度重视哲学思辨、人性尊严与历史发生学，并理解应用性分支学科如何从母体中汲取抵御功利技术化[[Alienation|异化]]的理论资源。
 > - **边界** 不等于具体的微观教学技巧汇编（Pedagogy），亦不等于英美传统中互不相属、经验拼合的各分支教育基础学科（Educational Studies）。
 
 > [!citation-card] 普通教育学母体地位的经典论述

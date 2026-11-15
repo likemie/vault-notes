@@ -7,7 +7,7 @@ title: "Argument_Wang_Liang_Chen_2025_CES"
 argument_key: "Argument_Wang_Liang_Chen_2025_CES"
 argument_display_title: "High-level open cooperation in vocational education: Purpose, criteria and pathways—Observations on Chinese-ASEAN cooperation in vocational education"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[Document]]"
   - "[[Community of Shared Future for Mankind]]"
+  - "[[Alienation]]"
   - "[[Empiricism]]"
   - "[[Education Going Global]]"
   - "[[Computer Simulation]]"
@@ -76,7 +77,7 @@ sources:
 status: draft
 confidence: medium
 created: 2026-10-22
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 ---
 
@@ -195,7 +196,7 @@ updated: 2026-11-11
 
 > [!critique] 既有政策工具运行的现实短板
 > - **宏观倡导多而实施细则少** 现有政策文本多侧重宏观号召，但在中央与地方的衔接机制、支持细则以及跨国办学监管规程上存在制度空白，导致举国体制优势难以充分释放（Qiufeng & Manfu, 2021; pp. 292–293）。
-> - **缺乏国别分类与差异化供给** 政策多套用一般性对外合作框架，对东盟十国各具差异的政治体制、产业基础与教育法规挖掘不够，导致地方政策供给与合作国实际需求缺乏精准适配。
+> - **缺乏国别分类与差[[Alienation|异化]]供给** 政策多套用一般性对外合作框架，对东盟十国各具差异的政治体制、产业基础与教育法规挖掘不够，导致地方政策供给与合作国实际需求缺乏精准适配。
 > - **政策成本考量与评价机制缺位** 跨国职教合作缺乏全生命周期的前瞻性[[Regulatory Impact Analysis|规制影响分析]]（Regulatory Impact Analysis, RIA）与追踪评估，制约了政策效能的长效发挥（Haibo, 2004; pp. 292–293）。
 
 规制体系的不完备，使得微观院校在推进跨国项目时往往面临规则真空与权责失衡。

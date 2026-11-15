@@ -9,7 +9,7 @@ title: "Argument_Eacott_2017_SLM"
 argument_key: "Argument_Eacott_2017_SLM"
 argument_display_title: "School leadership and the cult of the guru: The neo-Taylorism of Hattie"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -50,8 +50,10 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Initial Teacher Training]]"
   - "[[Cognitive Deskilling]]"
+  - "[[Mimesis]]"
   - "[[Teacher Professional Agency]]"
   - "[[Academic Achievement]]"
+  - "[[Alienation]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Cultural Disembedding]]"
   - "[[Causality]]"
@@ -81,7 +83,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-03
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 ---
 
@@ -181,7 +183,7 @@ updated: 2026-10-30
 早在 1950 和 60 年代，以库伯森（Jack Culbertson, 1981）为代表的“理论运动”曾试图引入[[Herbert A. Simon|赫伯特·西蒙]]（[[Herbert A. Simon|Herbert Simon]]）的行政行为学说和逻辑[[Positivism|实证主义]]，建立一门预测性的教育行政科学，但以失败告终。哈蒂则通过创建一门看似可操作的教学科学，实现了这一夙愿。哈蒂本人长期担任 [[Australian Institute for Teaching and School Leadership|AITSL]] 主席，使VL和绩效数据逻辑直接转译为国家教师与校长专业标准、以及学校年度绩效考核的铁律。墨尔本大学甚至开发了 TeacherSelector 软件，在入口端对[[Initial Teacher Training|初始教师教育]]（ITE）申请者进行“科学筛选”。至此，从入职筛选、国家标准到日常考核，哈蒂品牌完成了与国家科层行政权力的合谋。
 
 > [!tension] [[Cognitive Deskilling|去技能化]]与科学筛选的幻觉
-> 这种将教学分割为最小可测量单元并按图索骥的改进方式，不仅是对泰勒制装配线的模仿，更是对[[Teacher Professional Agency\|教师专业自主权]]的彻底瓦解。教师不再是具有情境感知和反思能力的专业人士，而沦为哈蒂效应量清单下照本宣科的流水线工人。这正是澳大利亚[[School Leadership\|学校领导力]]的真正悲剧。
+> 这种将教学分割为最小可测量单元并按图索骥的改进方式，不仅是对泰勒制装配线的[[Mimesis|模仿]]，更是对[[Teacher Professional Agency\|教师专业自主权]]的彻底瓦解。教师不再是具有情境感知和反思能力的专业人士，而沦为哈蒂效应量清单下照本宣科的流水线工人。这正是澳大利亚[[School Leadership\|学校领导力]]的真正悲剧。
 
 ---
 
@@ -205,7 +207,7 @@ updated: 2026-10-30
 > | **控制与判定基准** | 唯一正确方法（One Right Method）与工时定额。 | “铰链点”效应量 **d = 0.40**（相当于一学年正常成长量）。 |
 > | **权力与问责机制** | 现场监工直接监控，实施计件工资制问责。 | 可见化数据流考核，国家标准（AITSL）与举证责任下移。 |
 > | **劳动者的角色** | 丧失设计能力的体力装配工（纯机械执行者）。 | 丧失教学自主权的“数据技术工”（按效应量清单授课）。 |
-> | **实质性教育后果** | 劳动异化、工人去技能化与劳资冲突。 | 教学去专业化、[[Student-Teacher Relationship\|师生关系]]异化与学校[[Cultural Disembedding\|文化脱嵌]]。 |
+> | **实质性教育后果** | 劳动[[Alienation\|异化]]、工人去技能化与劳资冲突。 | 教学去专业化、[[Student-Teacher Relationship\|师生关系]]异化与学校[[Cultural Disembedding\|文化脱嵌]]。 |
 
 ---
 

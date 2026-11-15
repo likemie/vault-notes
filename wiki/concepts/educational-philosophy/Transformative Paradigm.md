@@ -9,7 +9,7 @@ aliases:
 summary: "一种将研究探究与政治变革议程紧密交织的研究哲学立场，以对抗社会压迫和赋权边缘群体为核心，要求研究者与参与者合作推动社会改革"
 type: concept
 domain: "educational-philosophy"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Postpositivism]]"
+  - "[[Alienation]]"
   - "[[Theoretical Perspective]]"
   - "[[Discourse]]"
   - "[[Constructivist Paradigm]]"
@@ -38,7 +39,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 > [!info] 定义
@@ -47,7 +48,7 @@ updated: 2026-10-22
 > [!abstract] 核心要素
 > Mertens (2010) 总结了变革主义世界观的关键特征。
 > - **边缘群体中心** 将对传统上被边缘化的多元群体的生活和经历的研究置于核心位置。研究关注基于性别、种族、族裔、残疾、性取向和社会经济阶层的不平等及其导致的权力关系不对称。
-> - **政治与行动导向** 研究包含一个旨在改变参与者生活、制度以及研究者自身生活的改革行动议程。具体关注赋权、不平等、压迫、支配、压制和异化等社会问题。
+> - **政治与行动导向** 研究包含一个旨在改变参与者生活、制度以及研究者自身生活的改革行动议程。具体关注赋权、不平等、压迫、支配、压制和[[Alienation|异化]]等社会问题。
 > - **合作性** 研究者与参与者合作进行探究，不使参与者因研究而进一步被边缘化。参与者可能参与设计问题、收集数据、分析信息或获得研究收益。
 > - **为参与者发声** 变革研究为参与者提供声音，提升他们的意识，或推进改善他们生活的变革议程。
 

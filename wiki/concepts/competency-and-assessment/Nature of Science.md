@@ -8,7 +8,7 @@ aliases:
 summary: "对科学作为独特知识生产体系的认识论属性、社会文化嵌入性及其生成机理的元认知理解，区别于陈述性事实记忆与孤立操作技能，构成公民科学素养的重要基石。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Axiology]]"
   - "[[Citizen Science]]"
+  - "[[Alienation]]"
   - "[[Epistemic Ideals]]"
   - "[[Heterogeneity]]"
   - "[[Rote Learning]]"
@@ -72,7 +73,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -183,7 +184,7 @@ updated: 2026-11-03
 > > 争论聚焦于是否应将科学本质提炼为跨学科通用的陈述性原则清单，还是应将其视为镶嵌于具体探究任务中的动态认识论实践。
 > >
 > > - **Lederman et al. (2002)** 坚持七大共识原则为基础教育提供了清晰可操作的教学基准，显性讲授这套原则能够有效普及[[Citizen Science\|公民科学]]素养。
-> > - **Chinn and Duncan (2021)** 批评共识原则易异化为脱离具体学科实践的陈述性“教条清单”，主张应通过[[Epistemic Ideals\|认识论理想]]与[[Reliable Epistemic Processes\|可靠认知过程]]的践行来内化科学本质。
+> > - **Chinn and Duncan (2021)** 批评共识原则易[[Alienation|异化]]为脱离具体学科实践的陈述性“教条清单”，主张应通过[[Epistemic Ideals\|认识论理想]]与[[Reliable Epistemic Processes\|可靠认知过程]]的践行来内化科学本质。
 > > - **[[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]** 指出传统科学本质干预侧重于陈述性观念[[Questionnaire\|问卷]]的改善，而动态[[Epistemic Cognition\|认识论认知]]干预则直接介入学习过程中的[[Source Evaluation\|信源评估]]与[[Justificatory Standards\|辩护标准]]，两者存在显著的[[Construct\|构念]]与机制[[Heterogeneity\|异质性]]。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, p. 480)]]
 >
 > > [!axis] [[Cognitive Load Theory\|认知负荷理论]]与探究教学在教学成效定义上的价值张力

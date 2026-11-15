@@ -9,7 +9,7 @@ aliases:
 summary: "Lyotard 提出的输入输出效率原则与 Ball 发展的教育治理规训技术，要求社会系统与教育主体不断优化表现并以高度可见的方式生产合规证明，在微观上导致专业道德空心化与表演性危机，在宏观治理中促成证据的象征性公关与仪式化虚饰。"
 type: concept
 domain: "comparative-education"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[New Managerialism]]"
   - "[[Neo-Taylorism]]"
   - "[[Learning Intentions]]"
+  - "[[Alienation]]"
   - "[[Attrition]]"
   - "[[Strategic Compliance]]"
   - "[[Evidence-Based Policy-Making]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-11-03
 
 > [!concept-lens] 概念透镜
 > - **宏观系统与全球网络层面** 操演性表现为后工业系统与[[Policy Network|全球政策网络]]的准入法则，凡是不能以量化产出证明自身效能的机构都面临被网络边缘化排除的系统风险，促使国际组织生产高度抽象、去情境化的政策报告（[[Argument_Beech_2009_CE|Beech, 2009a]]）；在决策实践中则退化为将研究作为后置辩护工具的象征性公关仪式（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026, pp. 348–349]]）。
-> - **微观劳动过程层面** 表现为[[New Managerialism|新管理主义]]与[[Neo-Taylorism|新泰勒主义]]控制工具，将复杂的师生育人过程降格为操作清单的机械打卡（如强制白板张贴[[Learning Intentions|学习意图]]），使教师从具有情境判断力的专业主体异化为应付督导检查的流水线演员（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 28–30]]）。
+> - **微观劳动过程层面** 表现为[[New Managerialism|新管理主义]]与[[Neo-Taylorism|新泰勒主义]]控制工具，将复杂的师生育人过程降格为操作清单的机械打卡（如强制白板张贴[[Learning Intentions|学习意图]]），使教师从具有情境判断力的专业主体[[Alienation|异化]]为应付督导检查的流水线演员（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 28–30]]）。
 > - **解释边界** 严格区别于纯粹计量技术层面的测量反应性（如坎贝尔定律），操演性强调的是通过绝对可见性要求与审计规训重塑主体灵魂的深层社会权力机制。
 
 > [!citation-card] 利奥塔论绩效性原则与系统生存准则

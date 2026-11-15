@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 37
+fact_related_count: 38
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Socioeconomic Status]]"
   - "[[Charter Schools]]"
   - "[[College and Career Readiness]]"
+  - "[[Alienation]]"
   - "[[Student Mobility]]"
   - "[[Transiency]]"
   - "[[Evaluation Research]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-26
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -125,7 +126,7 @@ updated: 2026-11-02
 > - **地方公立学区（LEAs）** 组织全员年度测验，落实针对未达标学校的转学安排、补充辅导与人事重组。
 > - **公立学校与基层教师** 承担直接达标高压，依据统考考纲调整课堂教学与复习操练。
 
-> [!pathways] 实施异化与反向激励路径
+> [!pathways] 实施[[Alienation|异化]]与反向激励路径
 > - **各州及格线的自利性调降** 由于 [[No Child Left Behind Act 2001|NCLB]] 允许各州自行决定何为“熟练”，各州面临巨大的政治恐慌：标准定得越高，未达标被制裁的学校越多；州政府因此普遍采取下调难度与切分点的防御策略，造成全美 50 州标准严重割裂。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
 > - **“临界生”（Bubble Kids）应试战术** 学校管理层发现资源平均分配无法改善达标率，因而将最优质教学资源集中倾斜给成绩处于及格线边缘的学生（即努力一把即可过关的临界生），同时放弃离及格线过于遥远的深度后进生与高分拔尖生。
 > - **挤压弱势群体的排异策略** [[Yong Zhao|赵勇]]（[[Argument_Zhao_2017_JEC|Zhao, 2017]]）指出，部分学区为确保亚群达标率，系统性地将成绩低下的特殊需求学生推向免考通道、促使其退学转校或施加严苛惩戒，引发坎贝尔定律（Campbell's Law）视角下的严重道德危机。[[Argument_Zhao_2017_JEC|(Zhao, 2017, pp. 13–15)]]

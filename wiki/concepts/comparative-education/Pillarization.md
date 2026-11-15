@@ -9,7 +9,7 @@ aliases:
 summary: "荷兰等欧洲低地国家在宗教与意识形态阵营上形成的纵向社会分割体制，天主教、新教、世俗中立等柱体各自拥有独立的学校、政党与社会机构，依靠柱体高层精英妥协维持系统稳定，并在宪法教育自由与财政均等原则下塑造出高度规制且对外部封闭的教育治理生态。"
 type: concept
 domain: "comparative-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Red Tape]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Theoretical Perspective]]"
+  - "[[Alienation]]"
   - "[[School Choice]]"
   - "[[Steering at a Distance]]"
   - "[[Research Universities]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -148,7 +149,7 @@ updated: 2026-11-14
 
 ---
 
-> [!concept-proposition] 命题三｜柱状互保结构将教育系统异化为抵御外部劳动力市场的封闭“教育省”
+> [!concept-proposition] 命题三｜柱状互保结构将教育系统[[Alienation|异化]]为抵御外部劳动力市场的封闭“教育省”
 > **组织社会学视角下的子系统封闭性与制度防御** 阐释由宗派精英、教师协会与咨询委员会构成的[[Neocorporatism|法团主义]]网络，如何将教育治理演变为自我指涉、排斥外部经济诉求的防御堡垒。
 
 > [!claim] Van Doorn, J. A. A. (1978); [[Walter J. M. Kickert|Kickert, W. J. M.]]

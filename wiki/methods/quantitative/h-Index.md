@@ -8,7 +8,7 @@ summary: "由 Jorge E. Hirsch (2005) 提出的文献计量指标，以学者至�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 31
+method_related_count: 32
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Document]]"
   - "[[Predictive Validity]]"
+  - "[[Alienation]]"
   - "[[Data Infrastructure]]"
   - "[[Research Universities]]"
   - "[[Early-Career Researchers]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-29"
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -103,7 +104,7 @@ updated: 2026-11-11
 > - **2005 — 正式提出** 手稿上传 arXiv 并投稿《[[National Academy of Sciences|美国国家科学院]]院刊》（Proceedings of the National Academy of Sciences, PNAS），同时给出线性增长模型与物理学职称参照值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 17–20, 24–25)]]
 > - **2006–2008 — 修正指标出现** $g$ 指数针对高被引钝感，$h_g$ 指数针对学科基准差异。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 25–26)]]
 > - **2007 — 预测效度检验** 希尔施以 24 年纵向数据检验 $h$ 对未来表现的预测力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 21–23)]]
-> - **2018 — 累积性偏差与职业年龄异化警示** [[Santo Fortunato|桑托·福图纳托]]（Santo Fortunato）等在《科学》（*Science*）综述中，指出 $h$ 指数单调不减的机械累积属性严重偏向资深学者，在预测青年学术潜力时存在虚假信号与指标异化风险，强调评价中必须校正学术年资并结合多元维度。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 5)]]
+> - **2018 — 累积性偏差与职业年龄[[Alienation|异化]]警示** [[Santo Fortunato|桑托·福图纳托]]（Santo Fortunato）等在《科学》（*Science*）综述中，指出 $h$ 指数单调不减的机械累积属性严重偏向资深学者，在预测青年学术潜力时存在虚假信号与指标异化风险，强调评价中必须校正学术年资并结合多元维度。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, p. 5)]]
 > - **2019 — 合著修正** 希尔施提出 $h_\alpha$ 指数。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
 > - **2023 — 亿级学者与机构全量解算** Lin et al. 在 [[SciSciNet]] [[Data Infrastructure|数据基础设施]]中为全库 1.34 亿名学者与 2.7 万家科研机构完成 $h$ 指数全量预计算，与 10 年平均被引及性别推断概率深度对齐，使大样本多维学术生涯评估成为可能。[[Argument_Lin_2023_SciData|(Lin et al., 2023, pp. 2–5)]]
 

@@ -7,7 +7,7 @@ aliases:
 summary: "分析教育哲学核心概念，由理查德·斯坦利·彼得斯提出，主张教育本质上是将学习者引接入人类共享的公共文化传统、客观知识体系与价值探究生活。"
 type: concept
 domain: "educational-philosophy"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Banking Model of Education]]"
   - "[[Research Cage]]"
+  - "[[Alienation]]"
   - "[[General Education]]"
   - "[[Pure Evaluation]]"
   - "[[Liberal Education]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-10-18'
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -109,7 +110,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题二｜抽空客观文化客体引介的教学模型将退化为技术监控与自我空转
-> **文化引介缺位下的技术主义异化** 探讨当教学过程抽离了对客观文化遗产（世界三）的引介后，反馈机制与教师角色如何发生异化与贬损。
+> **文化引介缺位下的技术主义[[Alienation|异化]]** 探讨当教学过程抽离了对客观文化遗产（世界三）的引介后，反馈机制与教师角色如何发生异化与贬损。
 
 > [!claim] [[Thomas Aastrup Rømer|Rømer, T. A.]]
 > **文化客体抽空与教学效果异化** [[John Hattie|哈蒂]]将可见学习中的反馈降格为从学生逆向索取数据的技术回路，彻底背离了理查德·彼得斯关于教育即引介的思想传统；一旦教育放弃引领学生参与社会的科学、艺术与文化客体，教师就沦为追逐[[Effect Size|效应量]]数值的指标奴仆，学生也沦为自我监控的技术终端，导致整个教育体系陷入无实质文化内容的自循环空转。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 9)]]

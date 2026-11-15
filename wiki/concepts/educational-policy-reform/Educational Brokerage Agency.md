@@ -14,7 +14,7 @@ aliases:
 summary: "产生、评估并在政策制定者、教育实践者与公众之间传播研究成果的制度化实体与中介网络，呈现出部委依附、政府资助自治与独立慈善三种治理模式，以及因果实证（RCT）与多元综合两种方法学立场；在两至三年的政治预算周期下面临突出的存续危机与跨机构元中介需求。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 143
+related_count: 144
 related_level: 14
 related_stars: "💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -62,6 +62,7 @@ related_concepts:
   - "[[Teacher Beliefs]]"
   - "[[Professional Judgment]]"
   - "[[Absorptive Capacity]]"
+  - "[[Alienation]]"
   - "[[Habitus]]"
   - "[[Discourse]]"
   - "[[Cumulative Knowledge Base]]"
@@ -177,7 +178,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-12
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 > [!def] Educational Brokerage Agency
@@ -282,7 +283,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题一｜中介机构深嵌于政治周期与公私治理网络，呈现行政脱节、短期夭折与资本渗透的制度脆弱性
-> **政治周期、行政脱节与公私治理渗透** 探讨中介机构在政党更迭、短期财政问责以及公私[[Policy Network\|政策网络]]交织下的制度脆弱性，揭示其与教育部委之间的联结异化及被商业资本重构的政治经济学实质。
+> **政治周期、行政脱节与公私治理渗透** 探讨中介机构在政党更迭、短期财政问责以及公私[[Policy Network\|政策网络]]交织下的制度脆弱性，揭示其与教育部委之间的联结[[Alienation|异化]]及被商业资本重构的政治经济学实质。
 
 > [!claim] Burns & Schuller
 > **政治更迭主导存续命运** 纵向追踪 2007 年[[OECD\|经合组织]]（OECD）报告重点剖析的 6 家代表性教育中介机构，历经 15 年后仅有 2 家（美国 [[What Works Clearinghouse\|WWC]] 与英国 [[EPPI-Centre]]）仍保持完全活跃；新西兰 BES 终止了新[[Research Synthesis|证据综合]]资助，而加拿大 [[Canadian Council on Learning\|CCL]]、丹麦清算中心相继关停，荷兰 [[Kenniskamer]] 陷入休眠。深入考证表明，这些机构关停或休眠的根本诱因在于政府换届、政党政策转向及 2–3 年的短期财政拨款周期，而非未能通过项目成效评估。在紧迫的政治节奏下，耗时漫长的系统性中介成效评估几乎无一例外地被财政部门直接跳过或削减。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, pp. 64–65)]]

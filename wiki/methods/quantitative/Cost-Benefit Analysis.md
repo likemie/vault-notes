@@ -3,7 +3,7 @@ summary: "一种系统评估公共政策、工程项目与投资方案经济合�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 8
+method_related_count: 9
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Paradigm]]"
   - "[[Grand Challenges]]"
+  - "[[Alienation]]"
   - "[[Market Failure]]"
   - "[[Lead-and-Learn Paradigm]]"
 related_theories: []
@@ -33,7 +34,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-15
 title: Cost-Benefit Analysis
 aliases:
   - 成本收益分析
@@ -85,7 +86,7 @@ aliases:
 > | **贴现惩罚机制** | 高贴现率使得 20–30 年后的气候与健康长期收益几乎归零。 | 强调代际正义与不可逆生态红线，摆脱机械金融贴现。 |
 > | **容错与试错** | 零容忍失败；项目受挫被判定为 CBA 预测失误与行政失职。 | 将探索性失败视为组织积累动态能力的必要学习成本。 |
 
-> [!citation-card] 成本收益分析在应对[[Grand Challenges|重大挑战]]中的青蛙视角异化
+> [!citation-card] 成本收益分析在应对[[Grand Challenges|重大挑战]]中的青蛙视角[[Alienation|异化]]
 > 传统新公共管理改革强行将所有公共决策塞入狭隘的成本收益[[Analytic Framework|分析框架]]，形成了只盯住微观可见指标的“青蛙视角”（Frog View）。面对颠覆性创新与 21 世纪重大社会挑战，CBA 假设事前的成本与产出能够被精确量化预测，这在本质上抹杀了前沿探索的根本不确定性，导致公共机构不敢承担高风险探索，系统性扼杀具有巨大长期社会外溢的突破性使命。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 797–798)]]
 >
 > *Innovation policy needs to shift from the existing support-and-measure approach (find [[Market Failure]]; fix it with a support instrument; and measure the impact with CBA) to a [[Lead-and-Learn Paradigm|lead-and-learn approach]]... CBA assumes static efficiency and predictable outcomes, inherently penalizing bold, open-ended, high-uncertainty missions.*

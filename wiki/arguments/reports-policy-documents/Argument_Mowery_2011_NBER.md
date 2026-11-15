@@ -35,6 +35,7 @@ related_concepts:
   - "[[Von Neumann Architecture]]"
   - "[[Homophily]]"
   - "[[Greenfield vs Brownfield Innovation]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Path Dependence]]"
   - "[[Systems of Innovation]]"
@@ -67,14 +68,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-03
-updated: 2026-11-11
+updated: 2026-11-15
 subtype: report
 publication_type: report
 title: "Argument_Mowery_2011_NBER"
 argument_key: "Argument_Mowery_2011_NBER"
 argument_display_title: "Federal policy and the development of semiconductors, computer hardware, and computer software: A policy model for climate change R&D? In R"
 argument_kind: "report"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dcfce7"
@@ -319,7 +320,7 @@ issuing_organization: "[[National Bureau of Economic Research]]"
 > [!tension-table] 信息技术与清洁能源[[Systems of Innovation|创新系统]]的结构性特征对比
 > | 比较维度 | 战后信息技术产业演进 | 当代气候变化与清洁能源研发 |
 > |---|---|---|
-> | **产品属性** | **差异化高性能产品** 军方为追求极端计算速度与小型化，愿意支付极高溢价（如初期单片 IC 达 32 美元）。（pp.163–165） | **同质化大宗商品** 绿色低碳电力在物理性能上与传统化石能源火电毫无差异，无法在自由市场索取产品性能溢价。（pp.184–185） |
+> | **产品属性** | **差[[Alienation\|异化]]高性能产品** 军方为追求极端计算速度与小型化，愿意支付极高溢价（如初期单片 IC 达 32 美元）。（pp.163–165） | **同质化大宗商品** 绿色低碳电力在物理性能上与传统化石能源火电毫无差异，无法在自由市场索取产品性能溢价。（pp.184–185） |
 > | **市场需求来源** | **内生性国防刚需** 国防部直接充当确定性先导首发用户，采购直接拉动规模经济与良率爬坡。（pp.163–168） | **外生性政策驱动** 私人市场缺乏自发减碳动力，完全依赖碳税、碳交易配额或强制能效法规创造人为需求。（pp.185–186） |
 > | **存量网络制约** | **[[Greenfield vs Brownfield Innovation\|绿地新兴产业（Greenfield）]]** 没有庞大遗留基础设施包袱，新创企业可自由构筑全新商业模式。（pp.160–161） | **[[Greenfield vs Brownfield Innovation\|棕地存量公用事业（Brownfield）]]** 深嵌于强监管、极度规避风险且运行周期长达数十年的电网与公用事业存量网络。 |
 > | **技术溢出方向** | **军用向民用高频溢出** 早期军品技术经降价后可直接平移至民用计算与消费市场。（pp.161–168） | **特种军用与通用民用严重脱节** 军用极端能源装备（如核潜艇反应堆、航天单晶硅电池）与民用电网廉价消纳需求成本相差数个数量级。 |

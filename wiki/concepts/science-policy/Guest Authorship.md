@@ -13,7 +13,7 @@ aliases:
 summary: "指未达到学术合署最低贡献标准，仅因行政职权、实验室空间提供、资金获取或人际礼遇而被列入正式署名名单的学术失范现象；其发生率随团队规模膨胀呈显著非线性上升，在依赖位次贡献序的学科中尤为普遍，主要受学术职称晋升激励与科层权力交换驱动。"
 type: concept
 domain: "science-policy"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Early-Career Researchers]]"
   - "[[Ghost Authorship]]"
   - "[[Paradigm]]"
+  - "[[Alienation]]"
   - "[[Heterogeneity]]"
   - "[[Alphabetical Authorship]]"
   - "[[Science Programs]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -108,7 +109,7 @@ updated: 2026-11-11
 > **考评激励与学术合谋** 分析高校评价机制如何将署名演变为利益交换货币，瓦解学术署名的真实性基石。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]]
-> **考评压力驱动的符号交换机制** 在现代大学人事评聘中，发表成果数量被直接绑定至薪资、终身教职与科研基金申请。当合署成果在考评中按篇次通算且缺乏微观贡献核验时，合署便异化为一种极低边际成本的声誉寻租策略。资深学者以科研资源、设备空间或行政保护作为交换，要求在下属的成果中列名；同行学者之间亦形成彼此搭便车的互赠署名同盟，使挂名现象随考评竞争白热化而常态化。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 143)]]
+> **考评压力驱动的符号交换机制** 在现代大学人事评聘中，发表成果数量被直接绑定至薪资、终身教职与科研基金申请。当合署成果在考评中按篇次通算且缺乏微观贡献核验时，合署便[[Alienation|异化]]为一种极低边际成本的声誉寻租策略。资深学者以科研资源、设备空间或行政保护作为交换，要求在下属的成果中列名；同行学者之间亦形成彼此搭便车的互赠署名同盟，使挂名现象随考评竞争白热化而常态化。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, p. 143)]]
 
 ---
 

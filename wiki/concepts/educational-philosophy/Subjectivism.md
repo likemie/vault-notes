@@ -9,7 +9,7 @@ aliases:
 summary: "社会科学与教育研究的基本认识论与方法论取向，将社会世界视为主观意识、语言符号与人造意义的建构产物；在组织与方法论上持唯名论、反实证主义、意志论与个例式假定，在比较教育学史中历经战后实证范式的系统清洗、批判二元论的情境整合以及后现代思潮对多元真理体制的重新合法化。"
 type: concept
 domain: "educational-philosophy"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Scientific Paradigm]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Alienation]]"
   - "[[Grand Theory]]"
   - "[[Comparative Educations]]"
   - "[[Operationalization]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -177,7 +178,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题三｜[[Critical Dualism|批判二元论]]与后现代多元思潮超越了机械[[Objectivism|客观主义]]并重新确立了主观阐释的[[Epistemology|认识论]]合法性
-> **批判理性情境综合与后现代[[Regimes of Truth|真理体制]]复数化** 经历实证量化[[Paradigm\|范式]]在实践中的合法化异化与现实规划承诺破产后，学界通过[[Critical Dualism\|批判二元论]]将主观信念整合为情境分析的规范要素，并在后现代思潮中恢复了主观主义与质性进路的同等学术尊严。
+> **批判理性情境综合与后现代[[Regimes of Truth|真理体制]]复数化** 经历实证量化[[Paradigm\|范式]]在实践中的合法化[[Alienation|异化]]与现实规划承诺破产后，学界通过[[Critical Dualism\|批判二元论]]将主观信念整合为情境分析的规范要素，并在后现代思潮中恢复了主观主义与质性进路的同等学术尊严。
 
 > [!claim] [[Brian Holmes\|Holmes, B.]]
 > **规范法则对行动者主观精神与文化理想的情境化包容** [[Brian Holmes\|布赖恩·霍姆斯]]（Brian Holmes）对美国经验派将民族文化特质与行动者主观偏好彻底放逐的机械[[Objectivism\|客观主义]]发起了深刻清算。基于[[Karl Popper\|卡尔·波普尔]]（Karl Popper）的[[Critical Dualism\|批判二元论]]，霍姆斯将人类主观信念、道德理想与价值诉求定义为“规范法则”（由人类设立且可被人自主废除的准则），断言若要理解学校运行，就必须系统考掘这些构成制度深层背景的主观文化规范，从而在假说-演绎[[Problem Approach\|问题法]]中实现了客观机构规律与主观文化意向的辩证统一。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 62–63, 66–67)]]

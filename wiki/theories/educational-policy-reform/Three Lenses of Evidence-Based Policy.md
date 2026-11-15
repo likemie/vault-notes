@@ -9,7 +9,7 @@ aliases:
 summary: "布赖恩·W·黑德提出的公共政策与治理分析理论；打破了政策决策仅依赖客观科学研究的实证主义假定，指出真实政策世界的循证基础由三重互不重合但相互交织博弈的知识透镜共同建构：系统性学术证据、项目与实践经验证据以及政治证据；在教育治理中，该框架揭示了行政系统为何往往以政治透镜为主导来选择、裁剪与包装学术研究。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Recontextualization]]"
   - "[[Social Science as Legitimation Alibi]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Embodied, Inscribed and Enacted Knowledge]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -131,7 +132,7 @@ updated: 2026-11-02
 > | [[Technical Rationality]] | Concept | 三维透镜模型所针锋相对批判的纯粹线性证据工程思想根源。 |
 > | [[Swedish Schools Inspectorate]] | Fact (Organization) | 塞格霍尔姆等运用三透镜理论深度复盘其多维证据操作的现实案例。 |
 > | [[Embodied, Inscribed and Enacted Knowledge]] | Theory | 与三透镜模型形成纵横互补的微观政策知识形态转化理论。 |
-> | [[Social Science as Legitimation Alibi]] | Concept | 政治透镜压倒学术透镜并将其降格为治理工具时必然衍生的学术异化现象。 |
+> | [[Social Science as Legitimation Alibi]] | Concept | 政治透镜压倒学术透镜并将其降格为治理工具时必然衍生的学术[[Alienation\|异化]]现象。 |
 
 ---
 

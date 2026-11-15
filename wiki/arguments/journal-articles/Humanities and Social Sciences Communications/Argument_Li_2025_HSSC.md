@@ -56,6 +56,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Source of Knowledge]]"
   - "[[Policy Window]]"
+  - "[[Alienation]]"
   - "[[Emergence]]"
   - "[[Global Education Reform Movement]]"
   - "[[Comprehensive Education]]"
@@ -101,14 +102,14 @@ sources:
 part_of:
 status: draft
 created: 2026-07-05
-updated: 2026-11-11
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Li_2025_HSSC"
 argument_key: "Argument_Li_2025_HSSC"
 argument_display_title: "The effects of PISA on global basic education reform: A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 66
+argument_related_count: 67
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -363,7 +364,7 @@ issuing_organization: ""
 > Dobbins and Martens（2012）分析了法国与 OECD 的复杂关系。早期法国公众和政策制定者对 PISA 持**怀疑态度** 认为比较评估存在文化偏见、统计方法不充分、指标过度简化。然而 PISA 最终为法国教育政策带来了新动力。国际比较统计和评估不仅激发了关于法国体系缺陷的广泛公共辩论，还通过提供外国最佳实践的范例为具体教育改革提供了正当性。这一转变适用于旨在使法国教育体系与竞争性知识经济需求接轨的新近改革。在此背景下，对**芬兰模式**的暗示也为左右翼政治力量之间政策雄心的趋同提供了**机会之窗（[[Policy Window|window of opportunity]]）（Dobbins & Martens, 2012）**。法国和英国在 2001 年 PISA 中获得了相似结果，但此后采取了不同策略——法国的改革最终与 OECD 建议趋同，而英国进入了不同的改革路径（Baird et al., 2016）。
 
 > [!case] 案例 4：韩国
-> Kim and Choi（2023）指出韩国政策回应的独特之处：PISA 之前韩国长期默然借用日本教育政策；PISA 2009 推动韩国将注意力转向芬兰，反映了参考社会从东亚邻国向西方高表现国家的**动态转换**。韩国的政治结构特征塑造了其回应方式：政府有非常强势的存在，新兴行动者（教育监）正在分权化教育政策，教师和家长通过强大工会和频繁选举制衡政府权力，私营企业参与教育是禁忌。在这一反思高压应试与补习异化的治理背景下，韩国于 2013 年启动并在初中全面推行旨在减轻统考负担、强调体验探究的[[Free Semester System|自由学期制]]（Kim & Choi, 2023）。这些制度特征使韩国的政策回应融合了与许多西方国家不同的特点。
+> Kim and Choi（2023）指出韩国政策回应的独特之处：PISA 之前韩国长期默然借用日本教育政策；PISA 2009 推动韩国将注意力转向芬兰，反映了参考社会从东亚邻国向西方高表现国家的**动态转换**。韩国的政治结构特征塑造了其回应方式：政府有非常强势的存在，新兴行动者（教育监）正在分权化教育政策，教师和家长通过强大工会和频繁选举制衡政府权力，私营企业参与教育是禁忌。在这一反思高压应试与补习[[Alienation|异化]]的治理背景下，韩国于 2013 年启动并在初中全面推行旨在减轻统考负担、强调体验探究的[[Free Semester System|自由学期制]]（Kim & Choi, 2023）。这些制度特征使韩国的政策回应融合了与许多西方国家不同的特点。
 
 > [!case] 案例 5：美国
 > Bieber and Martens（2011）比较了美国和瑞士的反应，揭示了一个看似矛盾的发现：PISA 对排名不佳的美国影响甚微，却对排名良好的瑞士产生了立即的政策趋同。美国的早期 PISA 发现只是确认了该国早已达成的共识，即美国教育体系低于国际标准，因此国内压力并未因实证发现而加剧。但在 2009 年，PISA 结果成为美国教育讨论的中心。问题的感知变化源自上海（中国）在同一次 PISA 测试中表现优异。作为美国在全球经济市场中最直接的竞争对手，这一表现被解读为中国未来经济产出将超过美国的信号，**直接触发了新一轮美国教育改革（Martens & Niemann, 2013）**。

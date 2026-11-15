@@ -9,9 +9,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 59
-fact_related_level: 5
-fact_related_stars: "💎⭐⭐"
+fact_related_count: 60
+fact_related_level: 6
+fact_related_stars: "💎💎"
 fact_related_color: "#fecdd3"
 org_type: government-department
 headquarters: 伦敦，英国
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[School Inspection]]"
   - "[[Paradigm]]"
+  - "[[Alienation]]"
   - "[[New Public Management]]"
   - "[[Evidence-Based Education]]"
   - "[[Further Education]]"
@@ -91,7 +92,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -109,7 +110,7 @@ updated: 2026-11-11
 
 > [!dev-timeline] 组织发展与职能演进
 > - **1992–2004 — 集中督导体制确立与外包检查模式** 创设初期全面推行四年一周期的全员[[School Inspection\|学校督导]]，广泛雇佣由注册督学（Registered Inspectors）领导的私营商业评估团队。此阶段初步确立了以量化指标和现场推门听课为特征的标准主义[[Paradigm\|范式]]，但也因高压督导引发一线教师群体普遍的抗拒与焦虑。
-> - **2005–2009 — 四级评级法典化与多部门职能整合** 2005 年《教育法》重塑督导框架，确立沿用至今的“四级评价等级”；2007 年正式合并成人技能与儿童看护督导职能，更名为现行全称。督导周期转向基于风险评估的差异化检查（针对优质学校减少频次，对薄弱学校密集督导）。
+> - **2005–2009 — 四级评级法典化与多部门职能整合** 2005 年《教育法》重塑督导框架，确立沿用至今的“四级评价等级”；2007 年正式合并成人技能与儿童看护督导职能，更名为现行全称。督导周期转向基于风险评估的差[[Alienation|异化]]检查（针对优质学校减少频次，对薄弱学校密集督导）。
 > - **2010–2015 — 联合政府时期的“磨利督导之剑”与市场化调适** [[Michael Gove\|迈克尔·戈夫]]（Michael Gove）出任教育大臣期间，借[[PISA]]国际危机修辞重塑 Ofsted 角色。官方一方面宣称“磨利 Ofsted 督导之剑”，招募骨干教师参与督导并开展突击检查，将严苛督导结果与激进结构重组直接绑定，被判定为不及格（Inadequate）的学校被依法强制转制为赞助型学院学校（Sponsored Academies）（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, pp. 119–120]]）；另一方面实施市场化回溯与规制减负，缩减督导团对运转良好学校的介入权力，规定被评为“杰出”（Outstanding）的优质学校可免除常规督导，展现出英美[[New Public Management|新公共管理]]体制下问责利害加码与行政规制收缩并存的张力。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 257)]]
 > - **2016–至今 — 道德化借用、证据生态冲突与督导公信力危机** 政策辩论中，Ofsted 的技术评级被深度卷入[[Grammar School\|文法学校]]存废与扩张争议，成为执政者实施“道德侧步”的挡箭牌（[[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022]]）。随着[[Evidence-Based Education\|循证教育]]运动兴起，Ofsted 严苛督导与[[Education Endowment Foundation\|EEF]] 等中介倡导的实证文化产生深层摩擦，其历史推崇的非实证理念遭到学术界揭露（[[Argument_Cowen_2015_CHESS\|Cowen et al., 2015]]）。近年来，高压督导引发的校长自杀悲剧、“离校过滤”（Off-rolling）应试扭曲以及对一线教师阅读实证研究的严重挤压（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026]]），引发学界与全英教师工会对彻底废除一刀切整体评级（Single-word Judgements）的强烈呼吁。
 

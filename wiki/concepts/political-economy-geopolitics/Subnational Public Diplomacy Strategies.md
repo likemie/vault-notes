@@ -7,7 +7,7 @@ aliases:
 summary: "基于次国家空间配置与地缘风险差异划分的大国公共外交三类战略范式：在能源过境国重点配置基建贷款的汲取型、在战略对抗敏感区倚重文化教育软性润滑的微调型，以及在战乱动荡区规避次国家纵深布局的规避型。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_arguments:
 related_concepts:
   - "[[Public Diplomacy]]"
   - "[[Paradigm]]"
+  - "[[Alienation]]"
   - "[[Heterogeneity]]"
   - "[[Geopolitics]]"
   - "[[Financial Diplomacy]]"
@@ -44,13 +45,13 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Subnational Public Diplomacy Strategies
-> 次国家[[Public Diplomacy|公共外交]]策略（Subnational Public Diplomacy Strategies）是由 [[AidData]] 基于 2000–2017 年南亚与中亚 13 国次国家外交投入数据，运用[[Cluster Analysis|层次聚类分析]]（Hierarchical Cluster Analysis）提炼出的三大对外公共外交战略[[Paradigm|范式]]，即汲取型（Extract）、微调型（Nudge）与规避型（Avoid）策略。该分类框架揭示了大国如何依据对象国地缘安全风险、双边政治互信程度以及关键资源诉求，在资金贷款、教育援助、语言推广和高层互访之间进行差异化工具组合。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 11–13)]]
+> 次国家[[Public Diplomacy|公共外交]]策略（Subnational Public Diplomacy Strategies）是由 [[AidData]] 基于 2000–2017 年南亚与中亚 13 国次国家外交投入数据，运用[[Cluster Analysis|层次聚类分析]]（Hierarchical Cluster Analysis）提炼出的三大对外公共外交战略[[Paradigm|范式]]，即汲取型（Extract）、微调型（Nudge）与规避型（Avoid）策略。该分类框架揭示了大国如何依据对象国地缘安全风险、双边政治互信程度以及关键资源诉求，在资金贷款、教育援助、语言推广和高层互访之间进行差[[Alienation|异化]]工具组合。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 11–13)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向大国在面对[[Heterogeneity|异质性]]周边[[Geopolitics|地缘政治]]环境时采取的非对称公共外交工具组合，打破了将外部公共外交假定为均一模式的静态认知。

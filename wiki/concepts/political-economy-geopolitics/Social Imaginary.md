@@ -11,10 +11,10 @@ aliases:
 summary: "指人们想象自身社会存在、与他人关系及规范性期待的共享话语与实践图景。在教育治理中，跨国组织通过融合内生增长理论与经验现实建构知识经济社会想象，依托统计指标与等值空间制造政策常识，并将实质社会正义工具化为经济效率的附属品。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 69
-related_level: 6
-related_stars: "💎💎"
-related_color: "#ddd6fe"
+related_count: 57
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - political-economy-geopolitics
   - sociology-of-education
@@ -36,13 +36,13 @@ related_concepts:
   - "[[Variable]]"
   - "[[Economic Fundamentalism]]"
   - "[[Return on Investment]]"
-  - "[[Knowledge Production]]"
   - "[[Epistemology]]"
-  - "[[Epistemic Ideals]]"
   - "[[Knowledge-that and Know-how-to]]"
+  - "[[Lifelong Learning]]"
+  - "[[Knowledge Production]]"
+  - "[[Epistemic Ideals]]"
   - "[[Procedural Knowledge]]"
   - "[[Learning Economy]]"
-  - "[[Lifelong Learning]]"
   - "[[Employability]]"
   - "[[Reliability]]"
   - "[[Construct Validity]]"
@@ -52,31 +52,20 @@ related_concepts:
   - "[[Developmentalism]]"
   - "[[National Rejuvenation Narrative]]"
   - "[[Democratic Education]]"
-  - "[[Construct]]"
-  - "[[New Public Management]]"
-  - "[[Study Abroad]]"
-  - "[[Student Mobility]]"
-  - "[[Geopolitics of Knowledge]]"
-  - "[[Document]]"
-  - "[[Banal Imperialism]]"
-  - "[[Navigation Metaphor in Comparative Education]]"
-  - "[[Grand Theory]]"
   - "[[Normative Paradigm]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Spatial Sortings]]"
+  - "[[Grand Theory]]"
 related_theories:
   - "[[New Growth Theory]]"
   - "[[Human Capital Theory]]"
   - "[[Cultural Political Economy]]"
   - "[[Critical Geopolitics]]"
-  - "[[Wight's Three Traditions of International Theory]]"
   - "[[Social Capital Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Discourse Analysis]]"
   - "[[Ethnography]]"
-  - "[[Effect Size]]"
-  - "[[Critical Discourse Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Fazal Rizvi]]"
@@ -89,7 +78,6 @@ related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
   - "[[PISA]]"
-  - "[[Mediterranean Regional Project]]"
   - "[[Belt and Road Initiative]]"
 related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
@@ -99,7 +87,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-04-13
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -164,7 +152,7 @@ updated: 2026-11-11
 
 ---
 
-> [!concept-proposition] 命题二｜全球社会想象通过经济基要主义将社会民主主义价值工具化重构为经济效率的附属工具
+> [!concept-proposition] 命题二｜全球社会想象通过[[Economic Fundamentalism|经济基要主义]]将社会民主主义价值工具化重构为经济效率的附属工具
 > **社会正义价值的工具化与残余化收编** 揭示新自由主义社会想象在吸纳社会民主主义核心词汇时的转化逻辑，阐明公平、性别平等与社会资本如何在经济效率框架下被赋予全新的工具性含义。
 
 > [!claim] Rizvi, F. & Lingard, B.
@@ -172,8 +160,8 @@ updated: 2026-11-11
 
 ---
 
-> [!concept-proposition] 命题三｜知识经济社会想象在认识论层面推动学习形态从学院编码化的“知其然”转向网络商业化的“知其操作”与终身学习
-> **知识生产与学习形态的认识论位移** 剖析社会想象如何深刻重构了什么是合法知识的[[Epistemic Ideals|认识论标准]]，促使课程教学从系统学科知识转向面向劳动力市场的实用操作技能。
+> [!concept-proposition] 命题三｜知识经济社会想象在[[Epistemology|认识论]]层面推动学习形态从学院编码化的“[[Knowledge-that and Know-how-to|知其然]]”转向网络商业化的“知其操作”与[[Lifelong Learning|终身学习]]
+> **[[Knowledge Production|知识生产]]与学习形态的认识论位移** 剖析社会想象如何深刻重构了什么是合法知识的[[Epistemic Ideals|认识论标准]]，促使课程教学从系统学科知识转向面向劳动力市场的实用操作技能。
 
 > [!claim] Rizvi, F. & Lingard, B.
 > **认识论转向与学习型经济的建构** 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）揭示，知识经济的社会想象不仅重构了宏观政策，更在认识论深层重构了“合法知识”的定义。伴随新增长理论对技术内生化的强调，学习重心发生了根本性断裂：从正规、编码化、以学科传统为基础的“[[Knowledge-that and Know-how-to|知其然]]”（knowing that），全面倒向了模块化、网络化、直接面向劳动力市场应用与商业创新的“知其所以操作”（[[Procedural Knowledge|knowing how]]）。在这一认知图式下，传统固定学制的教育形态被判定为僵化过时，民族国家被敦促转型为以持续再培训与自担风险为特征的“学习型经济”（[[Learning Economy]]），使得[[Lifelong Learning|终身学习]]演化为劳动者为了维持自身[[Employability|就业能力]]而不得不背负的终身强制投资。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–446)]]

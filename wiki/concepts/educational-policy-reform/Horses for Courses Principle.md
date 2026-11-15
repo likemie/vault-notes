@@ -8,7 +8,7 @@ aliases:
 summary: "由马克·佩蒂克鲁与海伦·罗伯茨于2003年提出的认识论原则，主张证据的质量与采纳标准取决于研究问题的具体性质，反对将随机对照试验（RCT）机械定为所有政策议题的普遍金标准，强调评估因果效应、探究实施阻力与测算资源需求分别需要匹配异质性的研究方法与证据类型。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Fitness for Purpose]]"
   - "[[Epistemology]]"
+  - "[[Alienation]]"
   - "[[Paradigm]]"
   - "[[Appropriate Research]]"
   - "[[Positivism]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -58,7 +59,7 @@ updated: 2026-11-11
 > 证据适切性原则（Horses for Courses Principle）是由流行病学与政策评估学者马克·佩蒂克鲁（Mark Petticrew）与海伦·罗伯茨（Helen Roberts）于 2003 年正式确立的方法论准则。该原则主张**不存在适用于所有政策情境的通用证据层级金字塔**；判断某项证据是否严谨有效，必须取决于该证据与具体政策决策问题的内在契合度（[[Fitness for Purpose]]）。在[[UNESCO|联合国教科文组织]]全球证据利用审查中，该原则被用于反思教育政策领域机械套用因果试验等级而贬抑质性与一线实践经验的制度偏向。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 31–33)]]
 
 > [!concept-context] 提出背景与[[Epistemology|认识论]]反思
-> - **循证医学传统层级的异化** 早期循证[[Paradigm|范式]]将[[Randomised Controlled Trials|随机对照试验]]（RCT）与系统性定量[[Meta-analysis|元分析]]置于因果有效性顶峰，将观察性研究、质性个案与专家经验视作低质量证据。
+> - **循证医学传统层级的[[Alienation|异化]]** 早期循证[[Paradigm|范式]]将[[Randomised Controlled Trials|随机对照试验]]（RCT）与系统性定量[[Meta-analysis|元分析]]置于因果有效性顶峰，将观察性研究、质性个案与专家经验视作低质量证据。
 > - **复杂社会政策场景的冲突** 在公共卫生危机与教育改革中，决策者面临的核心困境往往超脱于单一药效式的因果检验，广泛涉及公众接纳意愿、多民族文化敏感性与行政协同机制，狭隘的[[Experimental Research|实验设计]]在回应复杂治理机制时显现出解释力不足。
 > - **适切性转向的提出** 佩蒂克鲁与罗伯茨指出，方法学工具本身无绝对优劣，唯有针对特定问题选择最恰当的研究路径，才能提供具备政策行动力的真凭实据。
 

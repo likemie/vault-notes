@@ -5,7 +5,7 @@ aliases:
 summary: "一种被剥离具体历史语境含义的符号，其传播力来自在不同接收语境中被差异化解读和重组的潜能，在教育研究中用于解释全球政策话语为何能跨越迥异的政治文化语境被广泛接受"
 type: concept
 domain: "comparative-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -15,6 +15,7 @@ tags:
   - theme/discourse-analysis
 related_concepts:
   - "[[Discourse]]"
+  - "[[Alienation]]"
   - "[[Space of Flows]]"
   - "[[Heterogeneity]]"
   - "[[Post-Fordism]]"
@@ -33,13 +34,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Floating Signifier
-> 漂浮能指（Floating Signifier）是指被剥离了具体历史时间和空间起源的符号或概念[[Discourse|话语]]。它失去了固定的具体所指对象，其沟通与传播效力恰恰来自其“空洞性”——即能在不同接收语境中被不同行动者进行差异化解读与重新编码的巨大弹性。([[Argument_Beech_2009_CE\|Beech, 2009a, pp. 353–355]])
+> 漂浮能指（Floating Signifier）是指被剥离了具体历史时间和空间起源的符号或概念[[Discourse|话语]]。它失去了固定的具体所指对象，其沟通与传播效力恰恰来自其“空洞性”——即能在不同接收语境中被不同行动者进行差[[Alienation|异化]]解读与重新编码的巨大弹性。([[Argument_Beech_2009_CE\|Beech, 2009a, pp. 353–355]])
 
 > [!concept-lens] 概念透镜
 > - **指向机制** 指向在[[Space of Flows\|流动空间]]中流转的去历史化、高度高度形式化的话语符号，其所指随接收方的意图而变。

@@ -8,7 +8,7 @@ aliases:
 summary: "由 A. C. Nikolaidis (2021) 提出的教育哲学核心概念，指教育教学安排、评价偏见或技术代劳对个体作为求知者的认知机能、探究习惯与理智美德所造成的系统性扭曲与发育阻滞，构成了成长性认识不正义的微观病理学机制。"
 type: concept
 domain: "educational-philosophy"
-related_count: 17
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
   - theme/critical-pedagogy
 related_concepts:
   - "[[Reliability]]"
+  - "[[Alienation]]"
   - "[[Epistemology]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Academic Achievement]]"
@@ -33,6 +34,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Computerization of Education]]"
   - "[[Alien Intelligence]]"
+  - "[[Mimesis]]"
 related_theories:
   - "[[Formative Epistemic Injustice]]"
   - "[[Epistemic Injustice]]"
@@ -45,13 +47,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Epistemic Malformation
-> 认知畸变（Epistemic Malformation / 认识畸变）是指在教育教学实践或认知交往过程中，由于不当的教学指令、不公允的评价反馈或过度依赖技术外包代劳，导致发展中学习者在成为成熟求知者的形成期，其认知图式、探究品格与[[Reliability|信度]]自我认知遭受系统性扭曲、停滞或病理化异化，进而阻断其求知能力（Capacity as a Knower）健康发育的[[Epistemology|认识论]]损害。该概念由 A. C. 尼古拉迪斯（A. C. Nikolaidis, 2021）正式确立，并经斯宾塞·J·史密斯在 [[Argument_Smith_2026_SPE|Smith (2026)]] 中拓展为解释[[Generative Artificial Intelligence|生成式人工智能]]全流程代写引发认知致残的核心病理学机制。（pp. 4–6）
+> 认知畸变（Epistemic Malformation / 认识畸变）是指在教育教学实践或认知交往过程中，由于不当的教学指令、不公允的评价反馈或过度依赖技术外包代劳，导致发展中学习者在成为成熟求知者的形成期，其认知图式、探究品格与[[Reliability|信度]]自我认知遭受系统性扭曲、停滞或病理化[[Alienation|异化]]，进而阻断其求知能力（Capacity as a Knower）健康发育的[[Epistemology|认识论]]损害。该概念由 A. C. 尼古拉迪斯（A. C. Nikolaidis, 2021）正式确立，并经斯宾塞·J·史密斯在 [[Argument_Smith_2026_SPE|Smith (2026)]] 中拓展为解释[[Generative Artificial Intelligence|生成式人工智能]]全流程代写引发认知致残的核心病理学机制。（pp. 4–6）
 
 > [!concept-lens] 概念透镜
 > - **含义** 区别于知识储备的单纯匮乏，它特指求知者心智发育过程遭遇结构性偏离，形成了不健康的认知习惯（如理智傲慢、盲信算法、自贬退缩）。
@@ -132,7 +134,7 @@ updated: 2026-11-03
 > > [!axis] 学科规范要求与认知畸变的界限在哪里？
 > > 严格的学科训练与思维规训是否容易被误判为认知畸变。
 > >
-> > - **严格规训支持论** 认为学科初学者必须经历严格的模仿、标准化程式与知识灌输，这种外在塑造是通向自主思考的前提，不能随意冠以“畸变”之名。
+> > - **严格规训支持论** 认为学科初学者必须经历严格的[[Mimesis|模仿]]、标准化程式与知识灌输，这种外在塑造是通向自主思考的前提，不能随意冠以“畸变”之名。
 > > - **发展正义辨正论（[[Argument_Smith_2026_SPE|Smith, 2026]]）** 强调健康的学科规范保留了学生的真实理解与反思空间；只有当教学制度或技术中介剥夺了学生的逻辑推导权利、制造了与现实脱节的[[Reliability|信度]]假象时，才确证为认知畸变。
 
 ---

@@ -8,7 +8,7 @@ aliases:
 summary: "一种由政治迫切性与媒介逻辑共同驱动的治理形态，指出政策行动者与大众媒体通过选择性建构危机叙事并规避具体方案审视，使全球评估数据转化为推动本土激进改革的合法化工具"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Determinism]]"
   - "[[Media Logic]]"
+  - "[[Alienation]]"
   - "[[Construct]]"
   - "[[Mediatisation of Education Policy]]"
   - "[[Governance by Spin]]"
@@ -51,7 +52,7 @@ related_methods: []
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -62,7 +63,7 @@ updated: 2026-11-11
 > [!concept-lens] 概念透镜
 > - **含义** 指向全球治理数据在主权国家落地过程中，政策制定与新闻生产高度融合、彼此规训的互动机制。
 > - **用途** 纠正将全球教育治理简单设想为国际组织自上而下施加政策趋同的[[Determinism\|决定论]]偏颇，揭示[[Media Logic\|媒体逻辑]]如何作为一种能动性的政治制度深度介入教育政策过程。
-> - **性质** 这是一个批判性与实然描述性的分析概念（critical/empirical concept），旨在揭示政客与媒体协同制造危机、架空民主问责的制度异化现实，有别于规范性（normative）或倡导性的政策理想。
+> - **性质** 这是一个批判性与实然描述性的分析概念（critical/empirical concept），旨在揭示政客与媒体协同制造危机、架空民主问责的制度[[Alienation|异化]]现实，有别于规范性（normative）或倡导性的政策理想。
 > - **边界** 媒介化治理不等于中性的信息大众传播（mediation），亦不意味着全球机构的权威被完全消解，是强调政策讨论的公共框架受到媒体规则与政治修辞的双重框定。
 
 > [!citation-card] 媒介化治理的生成机制

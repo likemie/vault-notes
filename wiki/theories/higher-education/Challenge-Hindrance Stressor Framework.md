@@ -9,10 +9,10 @@ aliases:
 summary: "由 Cavanaugh et al. (2000) 开创，并经 LePine et al. (2005) 与 Podsakoff et al. (2007, 2023) 系统完善的职业压力与行为分析理论框架；该框架突破了传统压力研究的单一负面视角，将工作场所压力源划分为个体认为克服后可促进学习成长与成就的挑战性压力源，以及个体认为直接阻碍目标达成并无端消耗资源的阻碍性压力源，两类压力源通过相异的认知评价与心理机制对动机、创造力与绩效产生截然相反的作用。"
 type: theory
 theory_field: "higher-education"
-theory_related_count: 9
-theory_related_level: 0
-theory_related_stars: "☆"
-theory_related_color: "#e5e7eb"
+theory_related_count: 10
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theory
   - theme/work-stress
@@ -20,6 +20,7 @@ tags:
   - theme/creativity
   - field/higher-education
 related_concepts:
+  - "[[Alienation]]"
   - "[[Creativity]]"
   - "[[Early-Career Researchers]]"
   - "[[Construct Validity]]"
@@ -38,13 +39,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
 
 > [!theory-position] 理论定位
-> - **解释对象** 解释工作场所（包含高校与科研机构等学术组织）中不同性质的压力源如何通过相异的认知评估通道，对个体的心理体验、工作动机、创新行为与绩效产出产生差异化乃至对立性的影响效应。
+> - **解释对象** 解释工作场所（包含高校与科研机构等学术组织）中不同性质的压力源如何通过相异的认知评估通道，对个体的心理体验、工作动机、创新行为与绩效产出产生差[[Alienation|异化]]乃至对立性的影响效应。
 > - **理论问题** 回应传统职业压力理论将所有压力无差别视为有害身心健康的单维局限，阐明为何特定类型的竞争或工作负荷能够激发个体的[[Creativity|创造力]]与攻关韧性。
 > - **理论类型** 职业心理学与组织行为学领域的经典因果解释模型与认知评价[[Analytic Framework|分析框架]]。
 > - **知识位置** 承继理查德·拉扎勒斯（Richard Lazarus）的认知交互评价理论（Transactional Theory of Stress），并在高校科研人员与[[Early-Career Researchers|青年学者]]职业发展研究中广泛扩展应用。

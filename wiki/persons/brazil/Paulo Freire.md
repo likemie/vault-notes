@@ -10,10 +10,10 @@ cssclasses:
   - person-page
 nationality: brazil
 person_region: "brazil"
-person_related_count: 49
-person_related_level: 4
-person_related_stars: "💎⭐"
-person_related_color: "#fce7f3"
+person_related_count: 50
+person_related_level: 5
+person_related_stars: "💎⭐⭐"
+person_related_color: "#ffedd5"
 born: "1921"
 died: "1997"
 lifespan: "1921–1997"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Forced Knowledge Transfer]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Alienation]]"
   - "[[Cognitive Deskilling]]"
   - "[[Knowledge Transfer]]"
   - "[[Central Phenomenon]]"
@@ -144,7 +145,7 @@ updated: 2026-11-15
 > - **比较教育政治社会学与国家理论路径** 弗莱雷关于公共教育作为竞争性争夺场域和[[Politicity of Education|教育的政治性]]论断，为托雷斯（Torres）、卡诺伊（Carnoy）与[[Liliana Esther Olmos|奥尔莫斯]]（Olmos）等比较学者提供了批判[[Ontology|本体论]]，直接启发了将[[Dependency Theory|依附理论]]、[[State Corporatism|国家法团主义]]与教育[[Compensatory Legitimation|补偿性合法化]]相融合的比较教育国家理论。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 77–78)]]
 > - **国际发展合作与南向知识反向流动** 斯通、波尔图·德奥利维拉与帕尔（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）将弗莱雷确立为全球南方[[Representational Knowledge|代表性知识]]的典范；其思想扎根于巴西底层经验，不仅打破了全球北方[[Technical Rationality|技术理性]]官僚的知识垄断，更反向回流至西方发达民主国家，为欧美社区教育与激进批判提供了南向制度灵感。
 > - **[[Geopolitics of Knowledge|知识地缘政治]]与去殖民路径** 其[[Banking Model of Education|储蓄式教育]]批判模型被广泛应用于知识[[Geopolitics|地缘政治]]与比较教育研究中，作为揭示殖民教育、[[Forced Knowledge Transfer|强制知识转移]]及全球北方政策霸权的批判利器。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 75–76)]]
-> - **数智技术反思与认识正义路径** 进入[[Generative Artificial Intelligence|生成式人工智能]]时期，其解放对话与去权威化思想被重新激活，用于诊断大模型代写引发的数字储蓄式教育异化与[[Formative Epistemic Injustice|成长性认识不正义]]，为构建抗衡[[Cognitive Deskilling|认知去技能化]]的防御性教学法提供哲学基石。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 10–11)]]
+> - **数智技术反思与认识正义路径** 进入[[Generative Artificial Intelligence|生成式人工智能]]时期，其解放对话与去权威化思想被重新激活，用于诊断大模型代写引发的数字储蓄式教育[[Alienation|异化]]与[[Formative Epistemic Injustice|成长性认识不正义]]，为构建抗衡[[Cognitive Deskilling|认知去技能化]]的防御性教学法提供哲学基石。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 10–11)]]
 > - **比较教育全球化反思与解放实践路径** [[Val D. Rust|瓦尔·拉斯特]]等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）将弗莱雷教育即政治与反思实践（[[Praxis]]）引入比较教育学科史反思，批判将教育等同于资本主义西方工业现代性的狭隘倾向，推动学科支持主权自决与人类福祉的人道主义解放实践。
 
 > [!evidence-grid-a] 相关研究索引

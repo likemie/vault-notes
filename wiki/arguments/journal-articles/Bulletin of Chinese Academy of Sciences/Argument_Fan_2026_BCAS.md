@@ -38,8 +38,10 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Diversity, Equity, and Inclusion]]"
   - "[[General Purpose Technology]]"
+  - "[[Alienation]]"
   - "[[Mission-Oriented Research]]"
   - "[[Curiosity-Driven Research]]"
+  - "[[Mimesis]]"
   - "[[Original Innovation Capability]]"
   - "[[Cognitive Authority]]"
   - "[[Scientific Mobility]]"
@@ -86,14 +88,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-05
-updated: 2026-11-14
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Fan_2026_BCAS"
 argument_key: "Argument_Fan_2026_BCAS"
 argument_display_title: "科学还是无止境的边疆吗——从“科学的社会契约”看美国科学政策的过去与未来"
 argument_kind: "journal-article"
-argument_related_count: 56
+argument_related_count: 58
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -309,7 +311,7 @@ journal: "中国科学院院刊"
 > [!chain-link] 技术型社会契约的确立逻辑及其内在脆弱性
 > - **前提：大国地缘博弈焦虑与大模型技术军备竞赛** 国际地缘竞争加剧与新兴[[General Purpose Technology|通用技术]]爆发，使国家对即时战略技术能力的渴求达到冷战以来最高点。
 > - **机制：行政审计与直接采购置换大学基础探索中枢** 政府通过《恢复黄金标准的科学》行政令与企业采购合同，绕过传统同行评议和大学探索，直接动员国家实验室与私营科技资本攻坚。
-> - **结论：互惠信任契约向单向规训契约异化** 科学从受到默认尊重的自治知识体系，退化为服务于国家竞争目标的工具性生产部门；由于丧失了学术探索的自我纠错机制，该体制具有显著的长期内在脆弱性。
+> - **结论：互惠信任契约向单向规训契约[[Alienation|异化]]** 科学从受到默认尊重的自治知识体系，退化为服务于国家竞争目标的工具性生产部门；由于丧失了学术探索的自我纠错机制，该体制具有显著的长期内在脆弱性。
 
 ---
 
@@ -327,7 +329,7 @@ journal: "中国科学院院刊"
 
 > [!sub-claim] 2. 全球科技治理重塑与中国基础研究的战略协同定力
 
-面对全球科技治理碎片化与阵营化风险，单纯模仿西方短期功利性做法将严重动摇[[Original Innovation Capability|原始创新]]根基。
+面对全球科技治理碎片化与阵营化风险，单纯[[Mimesis|模仿]]西方短期功利性做法将严重动摇[[Original Innovation Capability|原始创新]]根基。
 
 > [!pathways] 全球科技治理变局下中国基础研究战略应对路径
 > - **国际合作边界重塑与开放科学捍卫** 警惕科研安全壁垒与阵营化撕裂全球合作网络，积极构筑具有韧性的国际学术交流机制。

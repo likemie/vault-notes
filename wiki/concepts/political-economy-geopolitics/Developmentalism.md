@@ -12,7 +12,7 @@ aliases:
 summary: "以国家引导、资本积累与现代化转型为导向的宏观政治经济学范式与意识形态话语，在战后比较教育中具体化为将教育视作开启现代化大门的工具性范式，在当代跨国高等教育治理中则体现为强调多边对等互惠、公共产品供给与共同应对危机的知识外交叙事。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Critical Pedagogy]]"
   - "[[Epistemology]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Critical Theory]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -199,7 +200,7 @@ updated: 2026-11-11
 
 > [!critique] 批评索引
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 援引 Escobar 批判发展主义话语对全球南方的赤字化建构与西方中心主义知识垄断。
-> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 解构[[Cognitive Capitalism|认知资本主义]]下发展主义意识形态异化为对[[Lifelong Learning|终身学习]]个体的生存强制。
+> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 解构[[Cognitive Capitalism|认知资本主义]]下发展主义意识形态[[Alienation|异化]]为对[[Lifelong Learning|终身学习]]个体的生存强制。
 
 ---
 

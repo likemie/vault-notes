@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 73
+person_related_count: 74
 person_related_level: 7
 person_related_stars: "💎💎⭐"
 person_related_color: "#fef3c7"
@@ -64,6 +64,7 @@ related_concepts:
   - "[[Habituation]]"
   - "[[Visible Learning]]"
   - "[[Performance Pay]]"
+  - "[[Alienation]]"
   - "[[Praxis]]"
   - "[[Dialogue in Education]]"
   - "[[Normal School]]"
@@ -264,7 +265,7 @@ updated: 2026-11-15
 > > 1930年代苏联学界批评杜威的教育适应论忽略了阶级斗争与集体主义政治教育，最终导致苏联全面清退杜威思想。（[[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.103–104]]）
 >
 > > [!axis] [[Evidence-Based Education|循证教育]]的技术主义挪用与杜威探究假设论的抵抗
-> > 21 世纪初循证教育兴起后，[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中引用杜威名言，承认实证研究只为明智解决问题提供假设（Hattie, 2008, p. 147）；但[[Ivan Snook|斯努克]]等学者指出，官僚将宏观[[Effect Size|效应量]]直接转化为指导一线教学的强制性操作指令与考核工具（如强推[[Performance Pay|绩效工资]]与否定小班价值），在实践中彻底违背了杜威反教条的探究哲学，把情境化假设异化为了规训教师的技术主义专制（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 93, 104]]；[[Argument_Hattie_2010_NZJES|Hattie, 2010, pp. 88–91]]）。[[Thomas Aastrup Rømer|托马斯·罗默]]进一步从杜威经验与判断力哲学出发指出，哈蒂对被动性（passivity）的排斥背离了杜威关于经验由主动行动与被动承受（undergoing）辩证构成的论断，斩断了想象力向外部环境开放的通道，实质上将杜威强调的批判性判断矮化为缺乏想象力的机械评价（[[Argument_Rømer_2018_EPT|Rømer, 2018, p. 8]]）。
+> > 21 世纪初循证教育兴起后，[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中引用杜威名言，承认实证研究只为明智解决问题提供假设（Hattie, 2008, p. 147）；但[[Ivan Snook|斯努克]]等学者指出，官僚将宏观[[Effect Size|效应量]]直接转化为指导一线教学的强制性操作指令与考核工具（如强推[[Performance Pay|绩效工资]]与否定小班价值），在实践中彻底违背了杜威反教条的探究哲学，把情境化假设[[Alienation|异化]]为了规训教师的技术主义专制（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 93, 104]]；[[Argument_Hattie_2010_NZJES|Hattie, 2010, pp. 88–91]]）。[[Thomas Aastrup Rømer|托马斯·罗默]]进一步从杜威经验与判断力哲学出发指出，哈蒂对被动性（passivity）的排斥背离了杜威关于经验由主动行动与被动承受（undergoing）辩证构成的论断，斩断了想象力向外部环境开放的通道，实质上将杜威强调的批判性判断矮化为缺乏想象力的机械评价（[[Argument_Rømer_2018_EPT|Rømer, 2018, p. 8]]）。
 >
 > [!critique] 批评索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 指出纯粹的杜威[[Pragmatic Paradigm|实用主义]]若缺乏对社会政治结构不公的批判与解决压迫的实践（[[Praxis]]）承诺，仍可能被去政治化为形式上的课程活动。

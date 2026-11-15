@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Academic Achievement]]"
   - "[[School Leadership]]"
+  - "[[Alienation]]"
   - "[[Transformative Leadership]]"
   - "[[Neo-Taylorism]]"
   - "[[Feedback]]"
@@ -29,7 +30,6 @@ related_concepts:
   - "[[School Effectiveness]]"
   - "[[Paradigm]]"
   - "[[Direct Instruction]]"
-  - "[[Refined Mastery]]"
   - "[[Phronesis]]"
   - "[[Return on Investment]]"
   - "[[Critical Pedagogy]]"
@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-11-10
+updated: 2026-11-15
 ---
 
 ---
@@ -73,7 +73,7 @@ updated: 2026-11-10
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向将学校领导者的核心注意力从行政事务与人事后勤转移到课堂教学改善与教师专业发展的治理机制。
-> - **用途** 帮助研究者透视学校内部可控因果枢纽，克服行政与教学脱节的结构性弊端，解释校长实践对学生学业增益的差异化影响。
+> - **用途** 帮助研究者透视学校内部可控因果枢纽，克服行政与教学脱节的结构性弊端，解释校长实践对学生学业增益的差[[Alienation|异化]]影响。
 > - **边界** 区别于关注组织愿景凝聚与情感激励的[[Transformative Leadership|变革型领导力]]；在实践中高度依赖领导者的学科专长与时间资源，面临科层事务挤压与管理主义量化控制的异化风险。
 
 > [!citation-card] 伊科特论教学领导力的学术兴起与实践异化
@@ -171,7 +171,7 @@ updated: 2026-11-10
 > > 争论校长是否应作为单一教学专家直接指导一线教师。
 > >
 > > - **教学领导力倡导者** 强调校长作为教学带头人直接介入教师备课与课堂指导，能保障全校教学规范与质量基准。
-> > - **分布式领导力学者** 认为现代学校学科分工高度专业化，单一校长难以[[Refined Mastery|精通]]所有学科教学，应将领导权下沉为学科组与骨干教师共同体自治。
+> > - **分布式领导力学者** 认为现代学校学科分工高度专业化，单一校长难以精通所有学科教学，应将领导权下沉为学科组与骨干教师共同体自治。
 >
 > > [!axis] 循证数据决策 vs 教师[[Phronesis|实践智慧]]与新泰勒主义防范
 > > 争论如何运用教学评估数据指导教学管理。

@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_display_title: "Chapter four: Industry and business sector"
 argument_kind: "book-chapter"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Citizen Science]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Algorithmic Bias]]"
+  - "[[Alienation]]"
   - "[[Paradigm]]"
   - "[[Competitiveness]]"
   - "[[Informed Consent]]"
@@ -87,7 +88,7 @@ related_facts:
   - "[[Gatsby Benchmarks]]"
 status: draft
 created: 2026-09-04
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 ---
 
@@ -244,7 +245,7 @@ updated: 2026-11-14
 
 ### 论证步骤三：重点工业领域的参与范式创新与前沿新兴技术（AI）的审议危机（pp. 71–73）
 
-不同行业在应对公众关切中摸索出了差异化的参与路径，其中新兴数据赋能技术的民主审议尤为紧迫。（pp. 71–73）
+不同行业在应对公众关切中摸索出了差[[Alienation|异化]]的参与路径，其中新兴数据赋能技术的民主审议尤为紧迫。（pp. 71–73）
 
 > [!claim|lead] 步骤三核心主张
 > 传统核能、交通基建与生命科学已逐步探索出透明协商、社区大使及以患者为中心（Patient Centricity）的全生命周期参与[[Paradigm\|范式]]；然而，在关系国家未来[[Competitiveness|竞争力]]的数据与人工智能（AI）前沿领域，公众利益认可度极低（仅 33% 认同利大于弊），商业 AI 实验室的公众参与多停留在碎片化、临时性的公关试验层面，亟需构建全流程的常态化民主审议机制。（pp. 71–73）

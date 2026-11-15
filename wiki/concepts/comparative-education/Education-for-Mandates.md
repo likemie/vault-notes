@@ -7,7 +7,7 @@ aliases:
 summary: "Martens, Niemann, & Krogmann (2024) 与 Steiner-Khamsi et al. 提出的比较教育与全球治理分析概念，指原本缺乏专门教育法定职能的国际组织（如经合组织、世界银行、区域开发银行及贸易联盟），通过将教育重新编码为服务于经济增长、和平、可持续发展或知识经济等核心法定使命的工具性手段，从而合法化自身对教育政策领域的跨界介入与资源动员。"
 type: concept
 domain: "comparative-education"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Global Education Governing Complex]]"
   - "[[Governing by Numbers]]"
+  - "[[Alienation]]"
   - "[[Competitiveness]]"
   - "[[Examination-Oriented Education]]"
   - "[[Variable]]"
@@ -43,9 +44,9 @@ related_persons:
   - "[[Kerstin Martens]]"
   - "[[Gita Steiner-Khamsi]]"
 related_facts:
-  - "[[UNESCO]]"
   - "[[OECD]]"
   - "[[World Bank]]"
+  - "[[UNESCO]]"
   - "[[UNICEF]]"
   - "[[PISA]]"
   - "[[Global Education Monitoring Report]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -144,7 +145,7 @@ updated: 2026-11-03
 
 > [!debates] 学术争议
 >
-> > [!axis] 教育多边治理的资源繁荣 vs 育人价值的工具化异化
+> > [!axis] 教育多边治理的资源繁荣 vs 育人价值的工具化[[Alienation|异化]]
 > > 比较教育学者与国际治理专家围绕非专门机构介入教育的利弊展开长久论战。
 > >
 > > - **全球治理实用派** 认为经济与区域组织的跨界介入极大地拓宽了全球教育的财政动员渠道，使教育从边缘的福利事业上升为主权国家的最高经济战略与[[Competitiveness|国家竞争力]]中枢。

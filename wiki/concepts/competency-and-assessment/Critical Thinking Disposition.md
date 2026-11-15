@@ -10,7 +10,7 @@ aliases:
 summary: "指个体在面对复杂问题时自发、持续运用批判性思维的内在动力、态度倾向与心智习性，与认知技能构成双元支柱；不仅包括求真、开放与审慎，还要求抵御平庸合群与脆弱性文化，具备直面认知不适的心理韧性与推翻既有理论的实验求实精神。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Screening Off]]"
   - "[[Operationalization]]"
+  - "[[Alienation]]"
   - "[[Authentic Instruction]]"
   - "[[Humility]]"
   - "[[Epistemology]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -131,7 +132,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题二｜导师指导在培育批判性思维倾向中发挥最核心的催化塑造功能
-> **教学策略与情意[[Habitus|习性]]养成机制维度** 探讨不同微观教学策略在塑造思维态度与心智习性时的差异化效能。
+> **教学策略与情意[[Habitus|习性]]养成机制维度** 探讨不同微观教学策略在塑造思维态度与心智习性时的差[[Alienation|异化]]效能。
 
 > [!claim] Abrami et al.
 > **[[Mentorship|导师制]]对思维倾向的峰值促进作用** 对比不同教学策略对思维倾向的培养效果发现：单纯的对话策略获得 $g+ = 0.27$（$k = 12$），[[Authentic Instruction|真实性教学]]获得 $g+ = 0.29$（$k = 8$），而**融入[[Mentorship|导师制]]（Mentoring）的教学干预获得了最高的效果量（$g+ = 0.38, k = 5$）**。机制在于批判性思维倾向本质上是一种态度认同与实践习性，导师通过身体力行地展示面对错误时的智识[[Humility|谦逊]]、对复杂问题的求知执着以及对异见的开放包容，发挥了强有力的“榜样示范（Role Modeling）”功能。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 296–298)]]

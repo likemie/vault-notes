@@ -26,12 +26,14 @@ tags:
   - region/asia
 related_concepts:
   - "[[Institutional Mimesis]]"
+  - "[[Mimesis]]"
   - "[[Zone of Discretion]]"
   - "[[Champ]]"
   - "[[Paradigm Wars]]"
   - "[[ASEAN Way]]"
   - "[[Heterogeneity]]"
   - "[[Engrenage]]"
+  - "[[Alienation]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Comparative Regionalism]]"
@@ -59,14 +61,14 @@ sources:
   - "[[sources/Murray_Moxon-Browne_2013_JCMS|Murray_Moxon-Browne_2013_JCMS]]"
 status: draft
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Murray_Moxon-Browne_2013_JCMS"
 argument_key: "Argument_Murray_Moxon-Browne_2013_JCMS"
 argument_display_title: "The European Union as a template for regional integration? The case of ASEAN and its Committee of Permanent Representatives"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 26
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -79,7 +81,7 @@ journal: "JCMS: Journal of Common Market Studies"
 > 区域一体化中的[[Institutional Mimesis|制度拟态]]能否跨越主权边界？[[EU|欧洲联盟]]（European Union, EU）以[[Coreper|常驻代表委员会]]（Comité des Représentants Permanents, Coreper）为标志的深度协商与超国家决策模式，能否通过机构形式的直接借用，成为[[ASEAN|东南亚国家联盟]]（Association of Southeast Asian Nations, ASEAN）推进一体化的有效模板？
 
 > [!claim] 核心主张
-> [[Institutional Mimesis|制度拟态]]能够帮助东盟借助欧盟的名分与外在架构展现一体化雄心，却无法通过机械模仿移植欧盟以主权让渡、超国家法律约束与长期官僚社会化为支撑的共识决策模式。东盟的一体化探索受制于不干预原则与政府间主义传统，必须在追求远大抱负与契合本土现实的[[Zone of Discretion|裁量空间]]中，探索以渐进社会化和对外协调为特征的自主制度路径。
+> [[Institutional Mimesis|制度拟态]]能够帮助东盟借助欧盟的名分与外在架构展现一体化雄心，却无法通过机械[[Mimesis|模仿]]移植欧盟以主权让渡、超国家法律约束与长期官僚社会化为支撑的共识决策模式。东盟的一体化探索受制于不干预原则与政府间主义传统，必须在追求远大抱负与契合本土现实的[[Zone of Discretion|裁量空间]]中，探索以渐进社会化和对外协调为特征的自主制度路径。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 欧盟常驻代表委员会与[[Committee of Permanent Representatives to ASEAN|东盟常驻代表委员会]]（Committee of Permanent Representatives, CPR）的组织架构、决策规程、常驻使团规模与法案审议产出。
@@ -205,7 +207,7 @@ journal: "JCMS: Journal of Common Market Studies"
 
 > [!sub-claim] 3. 雅加达集中办公为东盟常驻代表积累了务实合作与多边协调的新动力
 
-> [!pathways] 东盟常驻代表委员会的差异化突破路径
+> [!pathways] 东盟常驻代表委员会的差[[Alienation|异化]]突破路径
 > 1. **雅加达集中驻扎的孵化器效应** 成员国大使长驻雅加达且彼此紧密接触，客观上创造了脱离本国科层掣肘的交流空间，日常非正式互动促成了务实解决问题的协作习惯。
 > 2. **弥补东盟秘书处的能力赤字** 在东盟秘书处仅有 75 名专业人员的严苛编制约束下，CPR 承担了跨部门统筹与部长会议预备工作，拓展了自身的官僚协调空间。
 > 3. **作为多边外交对话枢纽的突破** CPR 承担起东盟加一、东盟加三（中日韩）以及协助东盟地区论坛（ARF）的定期磋商职责，组织代表团赴中国、印度与美国开展战略沟通，使外部维度成为拉动其内部凝聚力的关键动力。

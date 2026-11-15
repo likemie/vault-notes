@@ -7,7 +7,7 @@ aliases:
 summary: "描述东亚与部分社会高强度应试选拔的术语。在儒家文化圈中，它是应对亲情道德与公共公平冲突的功能性防腐方案，亦是吸收和转化外来学制的强力重力场"
 type: concept
 domain: "sociology-of-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Academic Engagement]]"
   - "[[Academic Achievement]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Cultural Models]]"
 related_methods: []
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -90,5 +91,5 @@ updated: 2026-10-30
 
 > [!evidence-grid] 考试地狱与应试选拔研究
 > - **[[Argument_Li_2012_Cambridge\|Li (2012)]]** 探究东亚“考试地狱”作为应对儒家道德两难之技术手段的社会学本源，并基于文化学习模型阐释其[[Self-Cultivation\|修身]]动力与心理调适争议。
-> - **[[Argument_Cowen_2009_CE\|Cowen (2009b)]]** 从比较教育 [[Transfer Translation Transformation\|3T 框架]]切入，以战后日本 6-3-3 制[[Shape-Shifting\|形变]]为案例，展示了本土“考试地狱”重力场如何异化和转化外来移植政策的民主内涵。
+> - **[[Argument_Cowen_2009_CE\|Cowen (2009b)]]** 从比较教育 [[Transfer Translation Transformation\|3T 框架]]切入，以战后日本 6-3-3 制[[Shape-Shifting\|形变]]为案例，展示了本土“考试地狱”重力场如何[[Alienation|异化]]和转化外来移植政策的民主内涵。
 > - **[[Cram Schools]]** 记录与考试地狱相生相伴的“影子教育”系统，探讨考分竞争向家庭资本和校外培训市场的空间位移。

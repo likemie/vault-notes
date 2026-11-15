@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育政策分析概念，指一国在面对国际教育比较差距时，将本国教育不发达简单归因于政治动荡与历史困境，借助承认落后作为推卸实质专业与制度问责的虔诚借口和合法化话语定式。"
 type: concept
 domain: "comparative-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
   - region/spain
 related_concepts:
   - "[[Discourse]]"
+  - "[[Alienation]]"
   - "[[Policy Borrowing]]"
   - "[[Externalization]]"
   - "[[Evidence-Based Education]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -48,7 +49,7 @@ updated: 2026-11-03
 > **诉苦式比较（Plaintive Comparison）** 是指在国际比较与政策制定语境中，决策者与社会舆论面对本国教育质量落后于发达国家的事实时，将教育体系的深层制度缺陷与绩效平庸简单归咎于本国政治不发达或历史动乱包袱，进而借助公开承认落后作为免于承担具体专业治理问责的合法化修辞与防御性[[Discourse|话语]]机制。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 324–325)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向后发或转型国家在对标先进国际参照系时产生的话语异化：以宏大政治悲情与历史包袱遮蔽具体的微观学制失误、课程错位与行政低效。
+> - **含义** 指向后发或转型国家在对标先进国际参照系时产生的话语[[Alienation|异化]]：以宏大政治悲情与历史包袱遮蔽具体的微观学制失误、课程错位与行政低效。
 > - **用途** 帮助研究者透视[[Policy Borrowing|政策借用]]与跨国比较中的“虔诚借口”（pious excuse），剖析决策层为何频繁立案改革却无法触及教育质量平庸的根本病灶。
 > - **边界** 不等于客观的[[Historical Institutionalism|历史制度主义]][[Path Dependence|路径依赖]]分析；诉苦式比较特指将宏观历史困境用作逃避当代专业改革与问责的政治修辞。
 

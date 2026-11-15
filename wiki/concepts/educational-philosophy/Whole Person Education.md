@@ -8,10 +8,10 @@ aliases:
 summary: "一种协调理解、行动与享受能力的完整发展理念，把智识学习与社会、道德、审美、身体和精神经验纳入共同教育目标。"
 type: concept
 domain: "educational-philosophy"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 31
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags: [theme/whole-person-education, theme/educational-aims, level/upper-secondary]
 related_concepts:
   - "[[International Baccalaureate]]"
@@ -19,11 +19,13 @@ related_concepts:
   - "[[Extracurricular Activities]]"
   - "[[General Education]]"
   - "[[Creativity, Action, Service]]"
+  - "[[Judgment of Taste]]"
   - "[[Theory of Knowledge]]"
   - "[[Praxis]]"
   - "[[Epistemology]]"
   - "[[Metacognition]]"
   - "[[Student Motivation]]"
+  - "[[Alienation]]"
   - "[[Rote Learning]]"
   - "[[Terminal Courses]]"
   - "[[International Schools]]"
@@ -52,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -75,7 +77,7 @@ updated: 2026-11-11
 > | 维度 | 全人教育 | [[General Education\|通识教育]] | 大学入学准备 | [[Creativity, Action, Service\|创造、行动与服务]] |
 > |---|---|---|---|---|
 > | **目标范围** | 理解、改变和享受内外环境 | 形成多种思维方式和迁移能力 | 满足特定专业或院系的先修要求 | 保护创造、身体活动和社会服务经验 |
-> | **经验领域** | 物质、社会、道德、审美与精神生活 | 语言、数学、历史、科学、道德与审美判断 | 与目标专业直接相关的学科知识和技能 | 课堂外的行动、制作、参与和服务 |
+> | **经验领域** | 物质、社会、道德、审美与精神生活 | 语言、数学、历史、科学、道德与[[Judgment of Taste\|审美判断]] | 与目标专业直接相关的学科知识和技能 | 课堂外的行动、制作、参与和服务 |
 > | **制度载体** | 学科、核心经验、学校生活、教师影响与闲暇安排 | 学科分布、深度选项、[[Theory of Knowledge\|知识论]]（TOK）和综合评价 | 高级程度科目与外部考试成绩 | 文凭要求、学校方案和过程性参与 |
 > | **评价可能性** | 部分可观察，长期效果难以直接证实 | 可通过多样化探究任务间接观察 | 易于通过标准化学科考试测度 | 适合确认参与与反思，不宜等同于全人发展测量 |
 > | **关系定位** | 处于统领地位的总体教育目标 | 全人目标中的认知与判断结构 | 必须兼顾的现实资格条件 | 实现改变环境与行动维度的一个组成部分 |
@@ -148,7 +150,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题五｜大学专业化选拔与学科技术化倾向对中学全人发展构成系统性挤压
-> **高等教育学术分工与中学基础教育目的的冲突维度** 揭示大学录取标准的技术化下移，如何异化中学教学并导致非考试发展维度的边缘化。
+> **高等教育学术分工与中学基础教育目的的冲突维度** 揭示大学录取标准的技术化下移，如何[[Alienation|异化]]中学教学并导致非考试发展维度的边缘化。
 
 > [!claim] Peterson, A. D. C.
 > **专业考核标准下移导致基础教育目标的技术化窄化** 皮特森深刻批判了西欧传统大学将高度分工的专业技术标准带入录取考核的倾向，指出这迫使中学教师以培养未来的专业学者为单一成就指标。正如米歇尔·德·蒙田（Michel de Montaigne）指出历史教学本应启发对历史人物行为与伦理责任的审视，而技术化考核将其简化为考据与年代记忆；又如阿瑟大主教曾批评神职考试将深入的神学思考退化为[[Rote Learning|死记硬背]]。在大学专业先修标准的强压下，应用性与[[Terminal Courses|终结性课程]]（Terminal Courses）常遭受二等地位的歧视，导致行动与享受维度的经验被贬抑为可有可无的附庸。[[Argument_Peterson_1987_OpenCourt_Ch03|(Peterson, 1987, pp. 34–35)]]; [[Argument_Peterson_1987_OpenCourt_Ch08|(Peterson, 1987, pp. 193–204)]]

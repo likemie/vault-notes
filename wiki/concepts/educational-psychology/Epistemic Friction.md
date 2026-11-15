@@ -8,7 +8,7 @@ aliases:
 summary: "源自社会认识论、学习科学与人机交互核心构念，指个体在遭遇相左证据、异质观点或复杂决策任务时所经历的生产性阻力与反思张力，是激活元认知监控、深度推理与校准批判性信任的必要机制。"
 type: concept
 domain: "educational-psychology"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Epistemology of Resistance]]"
   - "[[Evaluative Judgement]]"
   - "[[Variable]]"
+  - "[[Alienation]]"
   - "[[Literature Review]]"
   - "[[Peer Assessment]]"
   - "[[Epistemic Dependence]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 （[[Epistemology|认识论]]摩擦 / 生产性认知摩擦）
@@ -247,7 +248,7 @@ updated: 2026-11-03
 
 > [!example] 典型教学与交互设计应用案例
 > - **人机决策安全中的反思机器与[[Defeater|反驳型击败者]]（[[Argument_Jovchevski_2026_PT|Jovchevski et al., 2026]]）**
->   在医疗诊断与高风险指挥控制界面中嵌入反思机器（提供开放式[[Socrates|苏格拉底]]追问）与反驳型击败者（自动提取并呈现支持对立诊断的反常生化指标与影像特征），在算法推荐旁主动制造[[Epistemology|认识论]]摩擦，迫使专业人员开展差异化证据权衡，有效防止[[Automation Bias|强自动化偏差]]。
+>   在医疗诊断与高风险指挥控制界面中嵌入反思机器（提供开放式[[Socrates|苏格拉底]]追问）与反驳型击败者（自动提取并呈现支持对立诊断的反常生化指标与影像特征），在算法推荐旁主动制造[[Epistemology|认识论]]摩擦，迫使专业人员开展差[[Alienation|异化]]证据权衡，有效防止[[Automation Bias|强自动化偏差]]。
 > - **大学科学写作中的对抗性红队查错规程（[[Argument_Li_2026_CEAI|Li et al., 2026]]）**
 >   教师要求学生利用 ChatGPT 生成[[Literature Review|文献综述]]初稿后，强制执行“红队查错（Red-teaming）”任务：逐条核查生成文本中的引文真实性、数据准确性与论点逻辑漏洞，强制制造认识论摩擦，有效破除学生对流畅文本的盲信。
 > - **高年级科研方法课的对抗性质询与反思决策规程（[[Argument_Du_Yuan_2026_AIS|Du & Yuan, 2026]]）**

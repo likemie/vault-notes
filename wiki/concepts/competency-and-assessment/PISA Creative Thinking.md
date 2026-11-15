@@ -8,7 +8,7 @@ aliases:
 summary: "经合组织（OECD）在 PISA 2022 测评周期中正式引入的创新前沿构念与测试模块，评估 15 岁学生在真实或模拟情境中产生多样化构想、产生原创性构想以及评估与改进构想的高阶认知能力；测评涵盖书面表达、视觉表达、社会问题解决和科学问题解决四大表达与问题情境，标志着国际大规模评估从传统再现性认知技能向探索性与适应性高阶素养维度的延伸。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 23
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Creativity]]"
   - "[[Construct]]"
+  - "[[Genius]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Problem Solving]]"
   - "[[Divergent Thinking]]"
@@ -37,6 +38,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Rote Learning]]"
   - "[[Inquiry-Based Learning]]"
+  - "[[Alienation]]"
   - "[[Creativity Assessment]]"
   - "[[Critical Thinking]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -55,13 +57,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] PISA Creative Thinking
-> **[[PISA]] [[Creativity|创造性思维]]（PISA Creative Thinking）** 是[[OECD|经济合作与发展组织]]（OECD）在 2022 年国际学生评估项目（[[PISA]]）中正式确立并实施的跨学科前沿评估[[Construct|构念]]。该框架将创造性思维界定为个体在面对复杂问题与表达需求时，能够产生多样化构想（Generating Diverse Ideas）、产生新颖且原创构想（Generating Creative/Original Ideas），以及对既有构想进行批判性评估与迭代改进（Evaluating and Improving Ideas）的胜任力组合。这一测评脱离了传统心理学对个体内在特质或“天才创造力”（Big-C）的精英化假设，转向考察在义务教育阶段人人皆可发展的“日常创造力”（Little-c），关注学生将创造性构想运用于书面交流、视觉艺术、社会日常挑战及科学探索情境中的实际表现。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
+> **[[PISA]] [[Creativity|创造性思维]]（PISA Creative Thinking）** 是[[OECD|经济合作与发展组织]]（OECD）在 2022 年国际学生评估项目（[[PISA]]）中正式确立并实施的跨学科前沿评估[[Construct|构念]]。该框架将创造性思维界定为个体在面对复杂问题与表达需求时，能够产生多样化构想（Generating Diverse Ideas）、产生新颖且原创构想（Generating Creative/Original Ideas），以及对既有构想进行批判性评估与迭代改进（Evaluating and Improving Ideas）的胜任力组合。这一测评脱离了传统心理学对个体内在特质或“[[Genius|天才]]创造力”（Big-C）的精英化假设，转向考察在义务教育阶段人人皆可发展的“日常创造力”（Little-c），关注学生将创造性构想运用于书面交流、视觉艺术、社会日常挑战及科学探索情境中的实际表现。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 
 > [!concept-scope] 概念范围
 > - **所属领域** 高阶认知能力、跨学科综合素养测评、[[International Large-Scale Assessments|国际大规模学生评估]]。
@@ -98,7 +100,7 @@ updated: 2026-11-11
 
 > [!lessons] 经验启示与治理反响
 > - **反向牵引基础教育育人目标重组** [[PISA]] 将[[Creativity|创造性思维]]提升为主测衍生模块，促使多国教育部反思以往课堂教学中过度的[[Rote Learning|死记硬背]]与单一标准答案倾向，推动中小学在国家课程中强化[[Inquiry-Based Learning|探究式学习]]、设计思维（Design Thinking）与 STEAM 跨学科整合。
-> - **警惕创造力度量技术异化** 比较教育学界警示，政策制定者不应将[[Creativity Assessment|创造力评估]]结果简单转化为新的学校排位筹码，避免将本应培育学生好奇心与试错勇气的教学空间再次转化为高压问责的应试赛道。
+> - **警惕创造力度量技术[[Alienation|异化]]** 比较教育学界警示，政策制定者不应将[[Creativity Assessment|创造力评估]]结果简单转化为新的学校排位筹码，避免将本应培育学生好奇心与试错勇气的教学空间再次转化为高压问责的应试赛道。
 
 ---
 

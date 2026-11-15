@@ -30,11 +30,13 @@ related_concepts:
   - "[[Pact of Domination]]"
   - "[[Politicity of Education]]"
   - "[[Categorical Funding]]"
+  - "[[Alienation]]"
   - "[[Technical Rationality]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Discourse]]"
   - "[[Document]]"
   - "[[Cosmopolitanism]]"
+  - "[[Mimesis]]"
   - "[[Competitiveness]]"
   - "[[Dual School System]]"
   - "[[Paradigm]]"
@@ -110,16 +112,16 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-28
-updated: 2026-11-11
+updated: 2026-11-15
 subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Olmos_Torres_2009_StateTheories"
 argument_key: "Argument_Olmos_Torres_2009_StateTheories"
 argument_display_title: "Theories of the state, educational expansion, development, and globalizations: Marxian and critical approaches"
 argument_kind: "book-chapter"
-argument_related_count: 78
-argument_related_level: 7
-argument_related_stars: "💎💎⭐"
+argument_related_count: 80
+argument_related_level: 8
+argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
 journal: ""
 book_title: "International Handbook of Comparative Education"
@@ -152,7 +154,7 @@ issuing_organization: ""
 > | **[[Financial-Intellectual Complex\|金融-智识复合体]]** | 剖析[[World Bank\|世界银行]]将巨额贷款与定向[[Categorical Funding\|委托研究]]深度绑定，推行新古典教育经济学霸权与结构调整政策的机制。（pp. 80–81） |
 
 > [!warrant]- 理论如何支撑论证
-> 两位作者以历史唯物主义辩证总体性视角为基座，将资本积累机制与政治合法化矛盾确立为贯穿国家教育政策的核心分析支柱。通过引入受限国家与国家[[Neocorporatism|法团主义]]框架，作者打通了“世界体系边缘从属地位 ➔ 本土代用国家异化 ➔ 教育制度阶级双轨化 ➔ 新自由主义跨国金融规训 ➔ 大众批判反抗与[[Praxis|实践哲学]]复兴”的完整逻辑链条，有力证成了教育扩张绝非[[Technical Rationality|技术理性]]的自然演化，而是国家在深刻历史阶级矛盾中维系统治秩序与资本积累的制度妥协。（pp. 75–76, 83–85）
+> 两位作者以历史唯物主义辩证总体性视角为基座，将资本积累机制与政治合法化矛盾确立为贯穿国家教育政策的核心分析支柱。通过引入受限国家与国家[[Neocorporatism|法团主义]]框架，作者打通了“世界体系边缘从属地位 ➔ 本土代用国家[[Alienation|异化]] ➔ 教育制度阶级双轨化 ➔ 新自由主义跨国金融规训 ➔ 大众批判反抗与[[Praxis|实践哲学]]复兴”的完整逻辑链条，有力证成了教育扩张绝非[[Technical Rationality|技术理性]]的自然演化，而是国家在深刻历史阶级矛盾中维系统治秩序与资本积累的制度妥协。（pp. 75–76, 83–85）
 
 ---
 
@@ -188,7 +190,7 @@ issuing_organization: ""
 [[Cosmopolitanism|普世主义]][[World Society Theory|世界文化理论]]将战后教育扩张简化为单一价值模型的扩散，但这种非历史假设无法解释第三世界国家的阶级分化现实。
 
 > [!critique-logic] 战后世界文化理论的逻辑缺陷
-> 战后主流的[[World Society Theory|世界文化理论]]认为，全球教育扩张是现代国家模仿单一世界[[Cultural Models|文化模型]]、追求公民权利与经济[[Competitiveness|竞争力]]的自然趋同过程。然而，这种解释预设了一个仿佛在 1945 年突然降临的大爆炸假说（Big Bang），割断了历史联系，无法解释为什么第三世界国家在经历了相同名义的教育扩张后，普遍演化出富人与穷人泾渭分明的阶级[[Dual School System|双轨学制]]。（pp. 74–75）
+> 战后主流的[[World Society Theory|世界文化理论]]认为，全球教育扩张是现代国家[[Mimesis|模仿]]单一世界[[Cultural Models|文化模型]]、追求公民权利与经济[[Competitiveness|竞争力]]的自然趋同过程。然而，这种解释预设了一个仿佛在 1945 年突然降临的大爆炸假说（Big Bang），割断了历史联系，无法解释为什么第三世界国家在经历了相同名义的教育扩张后，普遍演化出富人与穷人泾渭分明的阶级[[Dual School System|双轨学制]]。（pp. 74–75）
 
 > [!claim] 核心判断：非历史的普世叙事抹杀了殖民压迫与外围资本积累的残酷现实
 > 世界文化理论假定全球存在一个均质的价值体系，各国政府建立学校只是为了培育现代化公民。但是，正如[[Colonial State Theory|殖民国家理论]]所指出的，殖民与后殖民历史表明，第三世界国家并不是主动选择学校制度的，而是在不同历史时期被动接入全球资本主义体系的结果。正如[[Martin Carnoy|马丁·卡诺伊]]与[[Joel Samoff|乔尔·萨莫夫]]（Carnoy & Samoff, 1990）、托雷斯（Torres, 1991）以及[[Mark Ginsburg|马克·金斯伯格]]（Mark Ginsburg, 1991）对剧烈社会转型中国家教育改革研究所阐明的，教育制度的变迁始终深刻嵌入在国家权力、意识形态与经济积累的矛盾之中。殖民时期的宗主国完全不需要通过教育换取被统治者的政治认同，其设立的有限学校主要用于满足资源掠夺和培养初级行政仆从；后殖民时期的教育扩张，则不可避免地承受着资本积累需求与本土历史遗产的双重制约。（pp. 74–76）

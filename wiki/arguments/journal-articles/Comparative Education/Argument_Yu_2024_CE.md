@@ -10,7 +10,7 @@ title: "Argument_Yu_2024_CE"
 argument_key: "Argument_Yu_2024_CE"
 argument_display_title: "Confucianism in multicultural China: 'official knowledge' vs marginalised views"
 argument_kind: "journal-article"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Self-Cultivation]]"
   - "[[Epistemic Resources]]"
+  - "[[Alienation]]"
   - "[[Academic Freedom]]"
   - "[[Paradigm]]"
   - "[[Research Practicability]]"
@@ -65,7 +66,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-05-21
-updated: 2026-10-23
+updated: 2026-11-15
 year: 2024
 doi: "10.1080/03050068.2023.2273641"
 citation_aliases:
@@ -246,7 +247,7 @@ citation_aliases:
 > 1. **[[Discourse|话语]]垄断与符号等价化** 教科书将儒家传统塑造为“中华性”的唯一代名词，通过跨学科符号堆叠完成了“中华文化 = 儒家文化”的排他性[[Official Knowledge\|官方知识]]建构。
 > 2. **隐秘等级与文明化教化** 教科书表面承认多民族存在，实则通过“非汉政权学习汉儒”的统一模板，将汉族置于“文明施教者”的高位，建构了中心—边缘的[[Cultural Hierarchy\|文化等级]]。
 > 3. **边缘抵制与主体性再定位** 边缘学生并未盲从官方叙事，86%的学生将其降格为多元文化之一，并立足于自身信仰批判了儒学的男权性、人类中心主义及灵性匮乏。
-> 4. **单向同化的反讽后果** 强行推广汉儒正统抹平差异的政策，导致边缘族群产生严重的[[Cultural Disembedding\|文化脱嵌]]与异化感，加剧了民族与文化分裂。
+> 4. **单向同化的反讽后果** 强行推广汉儒正统抹平差异的政策，导致边缘族群产生严重的[[Cultural Disembedding\|文化脱嵌]]与[[Alienation|异化]]感，加剧了民族与文化分裂。
 
 > [!stat-cards]- 核心数据与样本快照
 > - **217** （册） 分析的中中小学六门必修科目教科书总量（PEP 123册，地方 94册）。

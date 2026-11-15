@@ -10,7 +10,7 @@ subtype: organization
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "organization"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[School Inspection]]"
   - "[[Effective Teaching]]"
+  - "[[Alienation]]"
   - "[[School Choice]]"
   - "[[Socioeconomic Status]]"
   - "[[Construct]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -93,7 +94,7 @@ updated: 2026-11-11
 > - **外部利益相关者** 新西兰教育部、学校校董会协会（NZSTA）、家长社群以及毛利与太平洋岛民社区代表。
 
 > [!pathways] 业务运行机制
-> - **差异化周期审查机制** 依据学校过往办学绩效与风险等级确定审查周期（对成熟薄弱校实施短期针对性支持，对高质量学校实施常规周期视导）。
+> - **差[[Alienation|异化]]周期审查机制** 依据学校过往办学绩效与风险等级确定审查周期（对成熟薄弱校实施短期针对性支持，对高质量学校实施常规周期视导）。
 > - **循证主题综合报告研制** 结合日常进校审查获取的微观一线数据，围绕重点学科与教学法提炼国家级改进报告（如阅读素养、创新学习空间、跨校教研合作）（[[Argument_Sarbiewska_2019_KiW|Sarbiewska, 2019, p. 124]]）。
 > - **公开透明报告制度** 所有学校审查报告（ERO School Reports）向社会全网公开，为家长[[School Choice|择校]]与校董会整改提供权威凭据。
 

@@ -9,7 +9,7 @@ aliases:
 summary: "科技人才与高等教育资助中直接赋权早期青年学者的流动性支持机制；将高额科研经费与生活津贴直接授予研究生或博士后学者本人（而非挂靠在资深课题负责人 PI 的特定基金项目下），并允许其自由携带经费跨校、跨院系及跨课题组流动，以打破资历垄断、对冲学术避险并重构平等的导师指导关系。"
 type: concept
 domain: "science-policy"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Research Topic]]"
   - "[[Seniority Barrier in Academia]]"
+  - "[[Alienation]]"
   - "[[Research Scope]]"
   - "[[Document]]"
   - "[[Research Universities]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -84,7 +85,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题一｜资助依附于资深 PI 的传统模式加剧了[[Seniority Barrier in Academia|资历垄断]]与学术封建化，迫使青年学者在[[Creativity|创造力]]黄金期退守低风险增量课题
-> **劳动力市场异化与创新压抑** 剖析课题组附属雇佣制如何通过人身依附阻碍青年学者独立探索。
+> **劳动力市场[[Alienation|异化]]与创新压抑** 剖析课题组附属雇佣制如何通过人身依附阻碍青年学者独立探索。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
 > **依附避险假说** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios）领衔的白宫科技战略报告论证指出，近半个世纪以来，[[National Institutes of Health|NIH]] 课题负责人（PI）首次获资助的平均年龄从 36 岁推迟至 42 岁，整个资助体系呈现出严重的资历壁垒（Seniority Barrier）。青年科学家将 25–35 岁的黄金[[Creativity|创造力]]岁月耗费在协助资深教授完成既定课题的流水线任务中。由于缺乏独立经费支撑，青年学者根本无法冒险开辟全新方向，只能被迫依附主流学派、复制导师的既有模式，导致学术共同体整体陷入老龄化避险与创新放缓。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 16, 28)]]

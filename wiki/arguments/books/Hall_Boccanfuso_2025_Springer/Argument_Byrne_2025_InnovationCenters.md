@@ -39,6 +39,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Red Tape]]"
   - "[[Creativity]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Theory of Mind]]"
 related_methods:
@@ -68,14 +69,14 @@ part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 related_instruments: []
 status: draft
 created: 2026-05-28
-updated: 2026-10-30
+updated: 2026-11-15
 subtype: book-chapter
 publication_type: book
 title: "Argument_Byrne_2025_InnovationCenters"
 argument_key: "Argument_Byrne_2025_InnovationCenters"
 argument_display_title: "Innovation centers and economic development"
 argument_kind: "book"
-argument_related_count: 44
+argument_related_count: 45
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#ede9fe"
@@ -398,7 +399,7 @@ citation_aliases:
 > 1. **Tech Square 作为韧性透镜** Tech Square 经历了两次全国最严重衰退和全球疫情，仍然充满活力。创新中心通过成功的文化建设、长期投资和真正响应性的[[Placemaking\|场所营造]]来获得韧性。
 > 2. **商业地产不等于产学开发** 疫情带来的商业地产困境恰恰强调了[[University-Industry Collaboration\|产学合作]]基本原则的重要性。以强大学术-产业合作为基础的创新园区，其物理和无形资产相互强化，因此能够抵御不断变化的市场条件。
 > 3. **[[Creativity\|创造性]]场所营造与关系建设比以往更重要** 产学合作没有保证的成功公式，但当合作方寻求与社区的现有基础设施和资产对齐时，合作会更加成功。在较不发达地区设计一个新的职业培训中心时，应仔细关注本州的历史和专长，并尽可能围绕这些进行设计。
-> 4. **建立对区域差异化的具体认知** 合作方应明确知道自己的区域差异因素（regional differentiators），然后利用这些资产从强大的核心向外构建。当合作方忠于一个地方独特的人才和特征时，从筹款、市场营销到复杂的跨公私利益相关者协调，各个方面的合作都会变得更容易。
+> 4. **建立对区域差[[Alienation|异化]]的具体认知** 合作方应明确知道自己的区域差异因素（regional differentiators），然后利用这些资产从强大的核心向外构建。当合作方忠于一个地方独特的人才和特征时，从筹款、市场营销到复杂的跨公私利益相关者协调，各个方面的合作都会变得更容易。
 
 ---
 

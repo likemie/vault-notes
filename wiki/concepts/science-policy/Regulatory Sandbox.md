@@ -8,7 +8,7 @@ aliases:
 summary: "国家科技与产业政策中为新兴颠覆性技术创设的受控豁免试验机制；在划定安全边界与限制时空范围内，免除特定前置行政审批与繁文缛节，允许创新主体在真实运行中快速测试原型并积累一手实证数据，实现从防范假设性风险向循证动态治理的转变。"
 type: concept
 domain: "science-policy"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Creativity]]"
   - "[[Epistemology]]"
+  - "[[Alienation]]"
   - "[[Document]]"
   - "[[University Spin-Out]]"
   - "[[Research Translation]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -101,7 +102,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题三｜分布式联邦主义沙盒竞争构成了国家级颠覆性技术治理政策的演化发生器
-> **制度试验与政策实验室** 探讨各州与地方政府差异化沙盒试验如何推动国家治理规则的快速演化与扩散。
+> **制度试验与政策实验室** 探讨各州与地方政府差[[Alienation|异化]]沙盒试验如何推动国家治理规则的快速演化与扩散。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
 > **政策实验室与制度竞争假说** 科技政策不应由联邦单一机构实行全国一刀切的垄断性规制，而应依托联邦制优势赋能各州设立特色监管沙盒。例如犹他州 2021 年率先通过综合性监管沙盒法案，亚利桑那州率先向自动驾驶开放测试并吸引千亿级产业集聚，怀俄明州为数字资产确立先行规则。各州自下而上的沙盒试验形成制度竞争与政策互鉴，为联邦层面制定成熟颠覆性技术监管法规提供了不可替代的试错样本与演化发生器。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 45)]]

@@ -8,7 +8,7 @@ aliases:
 summary: "北欧福利国家公共教育范式，以民主、团结、社会公平与全纳基础教育为核心原则；在全球化与循证治理冲击下，既展现出文化语言上的防御韧性，又在证据采信与改革机制上呈现显著的国别分化与隐秘跨国趋同。"
 type: concept
 domain: "comparative-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Output-Oriented Governance]]"
   - "[[Global Education Industry]]"
   - "[[Activity Traps]]"
+  - "[[Alienation]]"
   - "[[Global Education Reform Movement]]"
   - "[[Research Utilization]]"
   - "[[Heterogeneity]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-22
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -98,7 +99,7 @@ updated: 2026-11-11
 > - **民主全纳与平等主义构架** 推行不按能力过早分流的统一公立基础学校（Comprehensive School），确保所有社会阶层子女享有同等品质的教育经历。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, p. 8)]]
 > - **教师高度专业信任与自主权** 体制传统上赋予一线教师充分的教学法裁量权与课程转化空间，依靠专业伦理而非高压[[External Auditor|外部审计]]维持教学水准。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, pp. 2, 8)]]
 > - **语言与制度传统的文化韧性** 本土文化中对[[Education for All|全民教育]]（Education for All）与地方自治的信奉，使得强力问责制（如挪威语境中缺失对应的狭义问责词汇）在本土难以直接建立合法性。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
-> - **异质分化的证据采信机制** 北欧各国在改革中依据各自国家传统采取差异化的循证知识通道，呈现挪威学者委员会综合、芬兰行政默会调控与丹麦政治导向型证据采信的多元图景。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 537–540)]]
+> - **异质分化的证据采信机制** 北欧各国在改革中依据各自国家传统采取差[[Alienation|异化]]的循证知识通道，呈现挪威学者委员会综合、芬兰行政默会调控与丹麦政治导向型证据采信的多元图景。[[Argument_Volmari_2025_CE|(Volmari et al., 2025, pp. 537–540)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid

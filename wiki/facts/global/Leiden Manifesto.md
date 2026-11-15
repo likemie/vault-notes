@@ -12,9 +12,9 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "国际科学计量与信息计量学会（ISSI）/ 莱顿大学科学技术研究中心（CWTS）学者联盟"
 start_year: "2015"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Document]]"
   - "[[New Managerialism]]"
+  - "[[Alienation]]"
   - "[[Early-Career Researchers]]"
   - "[[Goodhart's Law]]"
   - "[[Theoretical Validity]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -70,7 +71,7 @@ updated: 2026-11-11
 > 莱顿宣言（Leiden Manifesto）确立了规范科学计量的十项核心原则，主张量化指标只能作为辅助手段服务于定性同行专家的深度评审，坚决排斥脱离学科语境、追求虚假精度的数字考核，倡导建立开放透明、保护本土情境价值与尊重学者非线性发展的科学评价生态。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 5)]]
 
 > [!policy-design] 政策设计
-> - **政策目标** 规范量化评价指标的使用边界，阻断指标异化诱发的功利迎合，引导科研评估回归对科学思想实质质量与社会价值的关照。
+> - **政策目标** 规范量化评价指标的使用边界，阻断指标[[Alienation|异化]]诱发的功利迎合，引导科研评估回归对科学思想实质质量与社会价值的关照。
 > - **适用对象** 制定考核晋升标准的大学学术委员会、设计项目遴选规则的资助机构、开发算法与排名的商业分析公司。
 > - **政策工具** 负责任指标使用十原则指南、定性同行审议与多元代表作制度、透明开源的数据库规范与定期指标审查机制。
 > - **约束机制** 依托全球科学计量学会（ISSI）学术共同体的专业权威，通过大学与资助机构将其纳入绩效评价合规准则产生软法约束。

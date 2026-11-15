@@ -8,7 +8,7 @@ aliases:
 summary: "教师布置并在校外非教学时段由学生独立或在支持下完成的学习任务，其学业效果受学段认知发展高度调节，并在元分析构念聚合与比较基线不对等上面临方法学争议"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 61
+related_count: 62
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Homophily]]"
   - "[[Independent Variable]]"
+  - "[[Alienation]]"
   - "[[Paradigm]]"
   - "[[Tracking]]"
   - "[[Competitiveness]]"
@@ -89,7 +90,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 > [!def] Homework
@@ -207,7 +208,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题五｜[[Generative Artificial Intelligence|生成式人工智能]]导致传统静态成品作业效度崩塌，倒逼作业考评转向全流程思维追踪与独立可恢复性
-> **评价导向异化与中间认识动作可恢复性危机** 分析大语言模型如何通过一键交付使传统的课后成品作业失去考核效度，阐明向过程性探究与概念独立复现能力转型的必要性。
+> **评价导向[[Alienation|异化]]与中间认识动作可恢复性危机** 分析大语言模型如何通过一键交付使传统的课后成品作业失去考核效度，阐明向过程性探究与概念独立复现能力转型的必要性。
 
 > [!claim] [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]]
 > **静态成品作业的效度瓦解与可恢复性考评重构** 在[[Generative Artificial Intelligence|生成式人工智能]]介入后，作业考核面临的核心危机是“无摩擦委派”对中间认识动作的剥离。当教育考评只奖励光鲜精美的最终成品（如论述严密的研究报告、无语病的解题），却让推导过程与论证辩护隐形不可见时，全盘委托技术便成为学生的“理性选择”。此时学生虽能交出高水平作业，却无法阐明结论的证据依据，丧失了在脱离工具后自主复现推理的“可恢复性（Recoverability）”。因此，作业[[Paradigm|范式]]必须前移至全流程思维追踪：引入分阶段草稿追踪、对抗性质询反思日志与思维决策记录，并结合无技术辅助的概念迁移测试与口头答辩，使作业考核重新聚焦于学生的实际心智劳动与认识责任。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 5–6, 8)]]

@@ -9,7 +9,7 @@ aliases:
 summary: "在证据生产者与使用者之间建立联结、促进理解并维系协作的有意识中介活动，是知识动员生态系统中与知识生产、知识使用并列的三大核心功能之一。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[School Inspection]]"
   - "[[Paradigm]]"
   - "[[Knowledge Co-production]]"
+  - "[[Alienation]]"
   - "[[Epistemology]]"
   - "[[Policy Ambassador]]"
   - "[[Representational Knowledge]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -164,7 +165,7 @@ updated: 2026-11-14
 > **从流水线传递到双层嵌套生态枢纽** 知识中介的角色定位历经代际演变：在第一代线性模型中，中介被窄化为单向推介研究的包装者与分发管道；在第二代关系模型中，中介进化为撮合研究者与使用者[[Knowledge Co-production|协同生产]]（Co-production）的伙伴桥梁；在第三代系统模型中，中介进一步演进为维系长期数字化共享基础设施、区域同行互换枢纽以及推动全政策周期吸收容量建设的系统治理核心。中介的重心已彻底从“优化供给推力”转向“激发需求拉力与赋能生态自组织”。[[Argument_Torres_2022_KMModels|(Torres, 2022b, pp. 41–46)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 547)]]
 
 > [!claim] [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]]
-> **超国家知识中介守门网络与生态平等倡导角色** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）基于对[[OECD|经合组织]]（OECD, 2025 全球 288 家中介调研）与跨国组织政策文本的批判分析指出，跨国知识中介机制在实践中呈现深刻断裂：一方面，跨国守门网络借助“爵士乐队”等修辞隐喻确立了量化因果证据的等级特权，将中介异化为自上而下的政策指令分发与合规审计工具；另一方面，中介机构由于缺乏长效财政支持而深陷碎片化生存危机。坎贝尔等呼吁重塑知识中介功能，要求中介者超越被动传声筒角色，转而充当[[Epistemology|认识论]]平等的倡导者，为一线实践者开辟赋权对话平台，促进全球证据与本土情境知识的双向有机整合。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 344, 347–348, 350–351)]]
+> **超国家知识中介守门网络与生态平等倡导角色** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）基于对[[OECD|经合组织]]（OECD, 2025 全球 288 家中介调研）与跨国组织政策文本的批判分析指出，跨国知识中介机制在实践中呈现深刻断裂：一方面，跨国守门网络借助“爵士乐队”等修辞隐喻确立了量化因果证据的等级特权，将中介[[Alienation|异化]]为自上而下的政策指令分发与合规审计工具；另一方面，中介机构由于缺乏长效财政支持而深陷碎片化生存危机。坎贝尔等呼吁重塑知识中介功能，要求中介者超越被动传声筒角色，转而充当[[Epistemology|认识论]]平等的倡导者，为一线实践者开辟赋权对话平台，促进全球证据与本土情境知识的双向有机整合。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 344, 347–348, 350–351)]]
 
 > [!claim] [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]]
 > **[[Policy Ambassador|政策大使]]作为跨国知识中介与[[Representational Knowledge|代表性知识]]转化枢纽** 戴安娜·斯通等（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）指出，跨国政策循环中的知识中介高度依赖兼具双重身份与跨文化斡旋能力的“政策大使”（Policy Ambassadors）。这类知识中介穿梭于母国本土行政体系与国际多边组织之间，凭借实务声望与外交资本，将深植于全球南方治理边缘的扎根经验提炼为“代表性知识”，推入联合国与[[World Bank|世界银行]]等国际议程，开创了跨国知识中介由个体行动者驱动南向北与南南双向流动的新机制。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 2–6)]]

@@ -8,7 +8,7 @@ aliases:
 summary: "衡量跨国教育援助结构与功能变迁的分析范式，将教育发展合作划分为校舍教学基建、奖学金与职教技术培训、联合科研知识生产及文化交流四大标准化形态，揭示教育援助从单一硬件捐赠转向人力资本管道的演进历程。"
 type: concept
 domain: "comparative-education"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_arguments:
   - "[[Argument_Custer_2021_AidData]]"
 related_concepts:
   - "[[Educational Diplomacy]]"
+  - "[[Alienation]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Transnational Education]]"
@@ -46,13 +47,13 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-10
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Educational Assistance Modalities
-> 教育援助形态演进（Educational Assistance Modalities），指在国际发展合作与[[Educational Diplomacy|教育外交]]实践中，援助主体根据受援国发展需求、双边战略协同目标及自身资源优势所采取的差异化教育支持路径，在 [[AidData]] 分析[[Paradigm|范式]]中被归纳为校舍教学基建、奖学金与职教培训、联合科研[[Knowledge Production|知识生产]]以及综合文化交流四大互补形态，揭示了[[Transnational Education|跨国教育]]合作从早期的实物硬件赠予向深层[[Human Capital Theory|人力资本]]与技术标准输出的历时性演变。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 20–22)]]
+> 教育援助形态演进（Educational Assistance Modalities），指在国际发展合作与[[Educational Diplomacy|教育外交]]实践中，援助主体根据受援国发展需求、双边战略协同目标及自身资源优势所采取的差[[Alienation|异化]]教育支持路径，在 [[AidData]] 分析[[Paradigm|范式]]中被归纳为校舍教学基建、奖学金与职教培训、联合科研[[Knowledge Production|知识生产]]以及综合文化交流四大互补形态，揭示了[[Transnational Education|跨国教育]]合作从早期的实物硬件赠予向深层[[Human Capital Theory|人力资本]]与技术标准输出的历时性演变。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 20–22)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向跨国教育资源投放的功能形态分布及其伴随国家宏观地缘战略推进而发生的结构转型。

@@ -9,7 +9,7 @@ aliases:
 summary: "研究型大学向新招聘理工科教职人员提供的专属科研启动资金包，用于实验室装修、昂贵科研仪器购置、研究生与博士后津贴及前三年日常运转，是学者在缺乏外部资助时获取预实验数据参与项目竞争的生存期资助工具。"
 type: concept
 domain: "higher-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Early-Career Researchers]]"
   - "[[Document]]"
   - "[[Academic Risk Aversion]]"
+  - "[[Alienation]]"
   - "[[Creativity]]"
   - "[[Variable]]"
 related_theories: []
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -153,7 +154,7 @@ updated: 2026-11-11
 > > 高校持续推高启动配套金的合理性争议。
 > >
 > > - **科研硬件支撑论** 支持者认为现代实验科学对精密仪器依赖极高，缺乏充足启动金将使新学者在面对成熟团队时处于绝对劣势，充足启动金是青年学者启动学术生涯的必要前提。
-> > - **院校泡沫与不平等批判** 批评者指出，百万元级别的启动金竞赛已经异化为富裕名校与医学院之间的金钱游戏，加剧了资源向富裕高校的马太集聚，并将大量教学与学费资源抽调至高风险的实验室投机之中。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 23–24, 30)]]
+> > - **院校泡沫与不平等批判** 批评者指出，百万元级别的启动金竞赛已经[[Alienation|异化]]为富裕名校与医学院之间的金钱游戏，加剧了资源向富裕高校的马太集聚，并将大量教学与学费资源抽调至高风险的实验室投机之中。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 23–24, 30)]]
 >
 > > [!axis] 拔尖人才激励 vs 青年学者长聘避险异化
 > > 3 年启动期考核究竟是高效率筛选了科研精英，还是过早扼杀了颠覆性创新萌芽？

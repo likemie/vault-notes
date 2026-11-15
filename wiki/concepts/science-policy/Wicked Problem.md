@@ -9,7 +9,7 @@ aliases:
 summary: "指缺乏明确边界和既定算法，伴随高度价值争议、系统复杂性与认知不确定性的复杂社会系统难题；易引发跨部门条块分割的复杂性悖论，需依托敏捷实验与公共动态能力进行系统治理"
 type: concept
 domain: "science-policy"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Revoicing]]"
+  - "[[Alienation]]"
   - "[[New Public Management]]"
   - "[[Network Governance]]"
   - "[[Mission-Oriented Innovation Policy]]"
@@ -56,7 +57,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -152,7 +153,7 @@ updated: 2026-11-11
 > | **阶段性驯服命题** | 阐明通过[[Revoicing\|话语重构]]、边界跨越与小步试验实现治理共识 | 争议性公共政策议程设置与制度变迁 | 同上（2020）; Termeer and Dewulf (2018) |
 > | **使命拆解机制** | 论证通过可量化的使命组合将宏大棘手挑战转化为跨部门协同行动 | 全球性可持续发展目标（SDGs）与国家重大转型政策 | [[Mariana Mazzucato\|马祖卡托（使命架构设计）]] |
 > | **社会–技术系统协同命题** | 阐明棘手挑战的解决需要技术突破与制度、监管及行为重塑协同发力 | 能源系统脱碳、可持续城市、数字公共治理转型 | Nelson (1977); [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
-> | **复杂性悖论与敏捷试错** | 揭示议题复杂性诱发部门条块分割的制度异化，主张依托三层动态能力与引领学习突破僵局 | 跨部门政策协同失灵、数字化公共服务改革与后 [[New Public Management\|NPM]] 治理 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]]; Sweeney (1985) |
+> | **复杂性悖论与敏捷试错** | 揭示议题复杂性诱发部门条块分割的制度[[Alienation\|异化]]，主张依托三层动态能力与引领学习突破僵局 | 跨部门政策协同失灵、数字化公共服务改革与后 [[New Public Management\|NPM]] 治理 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel and Mazzucato (2018)]]; Sweeney (1985) |
 
 ---
 

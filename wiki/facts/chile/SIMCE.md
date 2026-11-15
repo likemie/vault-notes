@@ -11,7 +11,7 @@ subtype: program
 region: chile
 fact_region: "chile"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Criterion-Referenced Test]]"
   - "[[Quasi-market]]"
   - "[[School Autonomy]]"
+  - "[[Alienation]]"
   - "[[Space of Equivalence]]"
   - "[[Socioeconomic Status]]"
   - "[[Institutional Layering]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-11-10
+updated: 2026-11-15
 ---
 
 ---
@@ -89,7 +90,7 @@ updated: 2026-11-10
 > - **1988–1994 — 初始监测与课程控制期** 军政府时期设立，初期主要作为低利害监测工具，用于评估新课程大纲实施情况并向家长提供基础信息。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257)]]
 > - **1995–2007 — 排位公开与绩效奖金绑定** 1995 年首次在全国主流媒体公开发布学校成绩排行榜；同年引入[[SNED|国家学校绩效评估系统]]（[[SNED]]），将 SIMCE 表现与公立及补贴私校教师绩效奖金紧密挂钩；随后在国家课程改革中全面引入 [[PISA]] 核心能力基准以深化对标。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257–258)]]; [[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 64)]]
 > - **2008–2013 — 弱势补贴挂钩与惩罚性强化** 颁布《[[Ley SEP|优惠学校补贴法]]》（[[Ley SEP]]），向处境不利学生提供额外财政补助，但强制绑定 SIMCE 达标改善协议；连续四年未见改善的薄弱学校面临吊销办学资质与关停接管。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257–258)]]
-> - **2014–至今 — 社会反弹与制度反思** 学生、教师与学者联合发起“[[Alto al SIMCE|停止 SIMCE 运动]]”（[[Alto al SIMCE]]），批判统考加剧教育隔离与学校文化异化，促使政府特别委员会评估统考利害并调减测试频次。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
+> - **2014–至今 — 社会反弹与制度反思** 学生、教师与学者联合发起“[[Alto al SIMCE|停止 SIMCE 运动]]”（[[Alto al SIMCE]]），批判统考加剧教育隔离与学校文化[[Alienation|异化]]，促使政府特别委员会评估统考利害并调减测试频次。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 
 ---
 

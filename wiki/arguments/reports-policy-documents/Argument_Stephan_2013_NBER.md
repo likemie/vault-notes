@@ -27,6 +27,7 @@ related_concepts:
   - "[[Shopping Mall Model of Research Universities]]"
   - "[[Document]]"
   - "[[Philosophical Aesthetics]]"
+  - "[[Alienation]]"
   - "[[Indirect Costs of Research]]"
   - "[[Early-Career Researchers]]"
   - "[[Grandes Ecoles]]"
@@ -65,14 +66,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-02
-updated: 2026-11-14
+updated: 2026-11-15
 subtype: report
 publication_type: report
 title: "Argument_Stephan_2013_NBER"
 argument_key: "Argument_Stephan_2013_NBER"
 argument_display_title: "The endless frontier: Reaping what Bush sowed? (NBER Working Paper No. 19687)"
 argument_kind: "report"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dcfce7"
@@ -235,7 +236,7 @@ issuing_organization: "[[National Bureau of Economic Research]]"
 
 1960 年底由格伦·西博格（Glenn T. Seaborg）领衔的[[President's Science Advisory Committee|总统科学顾问委员会]]发布报告《科学进步、大学与联邦政府》（即《[[Seaborg Report 1960|西博格报告]]》），系统反映了大学希望联邦增加支持的诉求（pp.15, 17）。
 
-> [!policy-context] 西博格报告的政策主张与学术劳动异化预警
+> [!policy-context] 西博格报告的政策主张与学术劳动[[Alienation|异化]]预警
 > - **联邦资助专任薪酬** 主张联邦科研经费应当堂正进入大学经常性预算，直接资助新聘专任教师的薪资开支。（p.15）
 > - **全面核销间接成本** 敦促联邦各机构足额补偿大学在科研运营中的水电气、设备与行政折旧间接成本。
 > - **梯度培育卓越中心** 建议打破少数名校垄断，在全国各州重点培育 30 到 40 个新的国家级学术卓越中心。（p.17）

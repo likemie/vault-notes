@@ -6,10 +6,10 @@ aliases:
 summary: "研究设计中将研究目的收窄为可回答的具体问题或预测的核心工具，涵盖量化、质性与混合方法三种路径及问题类型谱系。"
 type: concept
 domain: "research-methodology"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - subject/research-methodology
   - source/textbook
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Alienation]]"
   - "[[Directional and Non-directional Hypotheses]]"
   - "[[Integration in Mixed Methods]]"
   - "[[Literature Review]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-31
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -102,7 +103,7 @@ updated: 2026-11-11
 
 ---
 
-> [!concept-proposition] 命题一｜研究问题在不同方法论[[Paradigm|范式]]中承担差异化的探究与规训功能
+> [!concept-proposition] 命题一｜研究问题在不同方法论[[Paradigm|范式]]中承担差[[Alienation|异化]]的探究与规训功能
 > **方法论[[Paradigm|范式]]与问题形态** 考察研究问题在量化、质性与[[Mixed Methods Research|混合方法研究]]中的认知预设、撰写规程以及是否应当居于统治地位的方法论争议。
 
 > [!claim] [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]]

@@ -12,7 +12,7 @@ subtype: program
 region: "denmark"
 fact_region: "denmark"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Individualised Instruction]]"
   - "[[School Choice]]"
   - "[[Transparency Bypass]]"
+  - "[[Alienation]]"
   - "[[Theoretical Perspective]]"
   - "[[Soft Accountability]]"
 related_theories:
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -120,7 +121,7 @@ updated: 2026-10-22
 > > 各界对自适应全国测试的实际治理效应争辩激烈。
 > >
 > > - **官方技术官僚立场** 强调测试为教师因材施教提供了前所未有的精细化客观数据，破除了凭感觉教学的主观弊端。
-> > - **教师工会与批判阵营** 批评机考测试破坏了丹麦基础学校珍视的民主对话、整体人格塑造与师生信任，异化为将儿童分类定级的冷冰算法。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
+> > - **教师工会与批判阵营** 批评机考测试破坏了丹麦基础学校珍视的民主对话、整体人格塑造与师生信任，[[Alienation|异化]]为将儿童分类定级的冷冰算法。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 
 > [!lessons] 经验教训与启示
 > - **量化工具具有超越政府初衷的溢出效应** 只要微观量化数据产生，外部市场力量即可借由公开渠道将其重塑为竞争排位工具。

@@ -11,7 +11,7 @@ aliases:
 summary: "学习者在课堂教学过程中实际专注投入于教师所提供学习活动的时间总量或比例。作为有效教学与学业成就的基础性前置条件，它反映了潜在教学机会向实质学习经历的转化效率；在世界银行Teach等工具中，通过瞬时定格快照操作化为教师提供学习活动与学生在轨人数的客观状态判定，但实证研究一致表明单纯增加在轨时间若缺乏高推论教学质量支撑，无法自发带来深层认知与社会情感技能发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Strategic Compliance]]"
   - "[[Class Size]]"
+  - "[[Alienation]]"
   - "[[Predictive Validity]]"
   - "[[Dependent Variable]]"
 related_theories:
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 > [!def] Time on Task
@@ -192,7 +193,7 @@ updated: 2026-11-02
 > - **超大[[Class Size|班额]]情境下的测量偏倚** 在部分发展中国家每班 60–100 人的极度拥挤课堂中，观察员在数秒横向扫视中难以辨别后排边缘学生的微观状态，前排学生的遮挡极易导致系统性高估真实在轨率。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, p. 5)]]
 
 > [!warning] 适用局限
-> 任务在轨时间指标严禁脱离高推论师生互动质量单独用作教师绩效评定与单向奖惩依据；脱离情境的唯时间论极易异化为机械监控手段。
+> 任务在轨时间指标严禁脱离高推论师生互动质量单独用作教师绩效评定与单向奖惩依据；脱离情境的唯时间论极易[[Alienation|异化]]为机械监控手段。
 
 ---
 

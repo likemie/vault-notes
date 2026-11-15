@@ -8,7 +8,7 @@ aliases:
 summary: "在信息过载与教育决策多重不确定性背景下，跨国组织、智库或国家官方扶植机构通过筛选、转译和打包研究证据以施展软治理或服务政策落地的政治化机制。"
 type: concept
 domain: "comparative-education"
-related_count: 61
+related_count: 62
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Knowledge Mediation]]"
+  - "[[Alienation]]"
   - "[[Façade of Rationality]]"
   - "[[Policy Network]]"
   - "[[Research Translation]]"
@@ -87,13 +88,13 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Policy Brokerage
-> 政策中介（Policy Brokerage）是指在公共政策与教育治理[[Champ\|场域]]中，行动者连接科学研究社群与政治决策系统，通过对繁杂科研成果的选择性提取、包装转化与定向转译，为政策制定提供确定性证据支撑与合法性辩护的制度化治理机制。与侧重技术性信息扩散的中立[[Knowledge Mediation\|知识中介]]不同，政策中介深度嵌入全球与国家治理网络；当特定跨国组织、智库或政府扶植机构在内部自行生产知识、以科学理性包装知识，甚至同时为推介的改革方案提供项目资助或行政授权时，中立中介便异化为兼具议程设置特权与自身制度利益诉求的政治化政策中介，依靠量化指标与[[Façade of Rationality\|理性表象]]施展软性政策规制或推动自上而下的政策落地。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 538–539)]]; [[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 611–613)]]
+> 政策中介（Policy Brokerage）是指在公共政策与教育治理[[Champ\|场域]]中，行动者连接科学研究社群与政治决策系统，通过对繁杂科研成果的选择性提取、包装转化与定向转译，为政策制定提供确定性证据支撑与合法性辩护的制度化治理机制。与侧重技术性信息扩散的中立[[Knowledge Mediation\|知识中介]]不同，政策中介深度嵌入全球与国家治理网络；当特定跨国组织、智库或政府扶植机构在内部自行生产知识、以科学理性包装知识，甚至同时为推介的改革方案提供项目资助或行政授权时，中立中介便[[Alienation|异化]]为兼具议程设置特权与自身制度利益诉求的政治化政策中介，依靠量化指标与[[Façade of Rationality\|理性表象]]施展软性政策规制或推动自上而下的政策落地。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 538–539)]]; [[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 611–613)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示知识向政策转化过程中的非中立性，阐明跨国中介机构与国内[[Policy Network\|政策网络]]中的中介主体（官方扶植机构、专家审查组、领袖网络）如何将自身偏好的[[Research Translation\|研究转化]]为不可置疑的决策依据。

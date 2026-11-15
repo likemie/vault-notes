@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: australia
 person_region: "australia"
-person_related_count: 35
+person_related_count: 36
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Parallel Monologues]]"
+  - "[[Alienation]]"
   - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[Neo-Taylorism]]"
@@ -74,7 +75,7 @@ updated: 2026-11-15
 
 > [!person-profile] 人物档案
 > - **身份位置** 澳大利亚新南威尔士大学（UNSW Sydney）教育学院教授，当代批判教育行政与领导力研究的领军学者。
-> - **核心角色** 率先将[[Pierre Bourdieu|皮埃尔·布迪厄]]（[[Pierre Bourdieu]]）的[[Champ|场域]]理论与反思社会学引入教育行政学，创立关系取向（Relational Approach）教育组织理论；提出“[[Parallel Monologues\|平行独白]]”概念揭示学术交流异化；系统将[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）的[[Visible Learning\|可见的学习]]与[[Evidence-Based Education|循证教育]]狂热定性为当代教育行政中的“[[Neo-Taylorism\|新泰勒主义]]”与“[[Cult of the Guru\|大师崇拜]]”，为全球反思量化绩效问责提供了关键批判视角。[[Argument_Eacott_2017_SLM|(Eacott, 2017, p. 413)]]; [[Argument_Eacott_2019_IJLE|(Eacott, 2019, p. 774)]]
+> - **核心角色** 率先将[[Pierre Bourdieu|皮埃尔·布迪厄]]（[[Pierre Bourdieu]]）的[[Champ|场域]]理论与反思社会学引入教育行政学，创立关系取向（Relational Approach）教育组织理论；提出“[[Parallel Monologues\|平行独白]]”概念揭示学术交流[[Alienation|异化]]；系统将[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）的[[Visible Learning\|可见的学习]]与[[Evidence-Based Education|循证教育]]狂热定性为当代教育行政中的“[[Neo-Taylorism\|新泰勒主义]]”与“[[Cult of the Guru\|大师崇拜]]”，为全球反思量化绩效问责提供了关键批判视角。[[Argument_Eacott_2017_SLM|(Eacott, 2017, p. 413)]]; [[Argument_Eacott_2019_IJLE|(Eacott, 2019, p. 774)]]
 > - **代表贡献** 新泰勒主义教育治理批判、平行独白理论、关系取向教育组织理论（*Beyond Leadership*）。
 
 > [!citation-card] 人物定位的关键来源

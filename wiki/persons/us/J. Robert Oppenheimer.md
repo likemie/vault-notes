@@ -12,7 +12,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 45
+person_related_count: 46
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Dual-Use Technology]]"
   - "[[Other Transaction Authority]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Path Dependence]]"
   - "[[Strategic Bargaining Theory]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -225,4 +226,4 @@ updated: 2026-11-11
 > | [[Vannevar Bush]] | Person | 二战科学研究与开发署（[[Office of Scientific Research and Development\|OSRD]]）署长，奥本海默在国家最高战略决策层面的关键盟友与协调者。 |
 > | [[Steve Jobs]] | Person | 硅谷反文化计算代表人物，开创了与奥本海默国家使命范式相对立的个人赋权与消费技术传统。 |
 > | [[Alexander Karp]] | Person | 在《技术共和国》中将奥本海默历史遗产作为理解 21 世纪软件硬实力与 AI 威慑的基准人物。 |
-> | [[Nicholas Zamiska]] | Person | 在《技术共和国》中系统对比奥本海默国家工程传统与硅谷消费互联网异化。 |
+> | [[Nicholas Zamiska]] | Person | 在《技术共和国》中系统对比奥本海默国家工程传统与硅谷消费互联网[[Alienation\|异化]]。 |

@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Congressional Earmarks]]"
   - "[[Technology Transfer]]"
   - "[[Critical Thinking]]"
+  - "[[Alienation]]"
   - "[[Intellectual Capital]]"
   - "[[Study Abroad]]"
   - "[[Academic Start-up Packages]]"
@@ -118,7 +119,7 @@ updated: 2026-11-15
 > > - **阿特金森与布兰皮德（2008）** 警示同行评议在严酷竞争与低资助率环境下天然诱发避险心理；青年学者 3 年启动金窗口与过低的课题中标率，正迫使一代最具活力的科学家放弃颠覆性探索，转而产出琐碎平庸的安全成果。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
 > > - **传统同行评议维护者** 坚持分散竞争性评审依然是阻断政治分肥、确保公共科研经费分配效率最高且最公正的制度安排。
 >
-> > [!axis] 产学协同催化 vs 工业“代工车间”异化
+> > [!axis] 产学协同催化 vs 工业“代工车间”[[Alienation|异化]]
 > > 大学深度参与[[Technology Transfer|技术转移]]与企业联合研发，是否会动摇基础科学自由探索的根基？
 > >
 > > - **阿特金森与布兰皮德警示（2008）** 主张大学在开展[[University-Industry Collaboration|产学合作]]时必须严守公开发表权与学术自主权红线，坚决抵制任何排他性长期保密协议，防止大学异化为企业的技术“代工车间”（job shops）。(pp. 40–41)

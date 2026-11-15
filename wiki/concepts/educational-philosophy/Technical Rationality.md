@@ -10,7 +10,7 @@ aliases:
 summary: "将专业实践与教育治理窄化为手段-目的因果计算与去情境化技术控制的实证主义模型；在微观教学中剥夺教师专业判断，在宏观政策与比较教育中将教育退化为劳动力技能规训并侵蚀全人教化"
 type: concept
 domain: "educational-philosophy"
-related_count: 153
+related_count: 154
 related_level: 15
 related_stars: "💎💎💎💎💎"
 related_color: "#ddd6fe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Variable]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Alienation]]"
   - "[[Epistemology]]"
   - "[[Emergence]]"
   - "[[Positivism]]"
@@ -193,7 +194,7 @@ updated: 2026-11-15
 
 > [!concept-lens] 概念透镜
 > - **核心维度** 聚焦手段-目的工具计算、[[Value Neutrality\|价值中立]]性设想、科学程序对不确定性的消除，以及外部专家知识与量化指标对本土实践经验与人文教化的权威置换。
-> - **批判功能** 揭示教育改革中将教学简化为工程操作、将学习者原子化为[[Variable\|变量]]、剥夺[[Teacher Professional Agency\|教师专业能动性]]，以及在跨国治理中将教育异化为技术官僚规训工具的深层[[Epistemology\|认识论]]根源。
+> - **批判功能** 揭示教育改革中将教学简化为工程操作、将学习者原子化为[[Variable\|变量]]、剥夺[[Teacher Professional Agency\|教师专业能动性]]，以及在跨国治理中将教育[[Alienation|异化]]为技术官僚规训工具的深层[[Epistemology\|认识论]]根源。
 > - **适用边界** 适用于具有高度确定性、良构（Well-Formed）且目标明确限定的工程技术系统；在充满价值冲突、动态[[Emergence\|涌现]]与情境独特的教育“沼泽地”与文明历史长河中存在根本性认识论局限。
 
 > [!citation-card] 技术理性的[[Positivism\|实证主义]]遗产与技术官僚崇拜

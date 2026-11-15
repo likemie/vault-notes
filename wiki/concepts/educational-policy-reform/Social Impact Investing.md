@@ -10,10 +10,10 @@ aliases:
 summary: "指将金融市场的风险投资与私募股权纪律同明确可测量的社会或教育改善目标相结合的投资范式。主要表现为以社会影响力债券为代表的金融衍生合同，以及以高参与度管理介入为特征的风险慈善。在追求财务保值增值的同时，要求以经审计的因果量规考核社会回报；但在教育实践中，不仅驱动了公共财政向私营资本的逆向输送，而且容易与本土弱势社区的文化自治产生剧烈治理冲突。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/impact-investing
   - theme/social-finance
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Venture Philanthropy]]"
   - "[[Soft Privatisation]]"
   - "[[Return on Investment]]"
+  - "[[Alienation]]"
   - "[[Public Value]]"
   - "[[Quasi-market]]"
   - "[[Professional Judgment]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-20
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -70,7 +71,7 @@ updated: 2026-11-11
 > [!citation-card] 奥尼尔等人论高介入风险慈善与本土社区的治理冲突
 > 北部基金会设立的[[Foundation North Māori and Pasifika Education Initiative|毛利与太平洋岛民教育倡议]]（[[Foundation North Māori and Pasifika Education Initiative|MPEI]]）代表了一种高介入度的风险慈善与社会投资模式。基金会投入 2,000 万新西兰元，引入私营咨询机构对学校强加因果量规与‘[[Theory of Change|变革理论]]’考核。然而，这种自上而下的量化规训与本土毛利社区的集体审议文化产生了深刻冲突，大量资金被外部咨询费侵吞，而基层社区的文化自治与民主信任却遭受严重侵蚀。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 61–64, 76–80)]]
 >
-> *The [[Foundation North]] MPEI represents a high-engagement venture philanthropy model investing \$20 million into high-risk, metric-driven systemic change. By imposing corporate consultancy, causal theories of change, and external milestones, the initiative conflicted directly with indigenous Maori cultural values (Tikanga), resulting in external resource extraction and community alienation.*
+> *The [[Foundation North]] MPEI represents a high-engagement venture philanthropy model investing \$20 million into high-risk, metric-driven systemic change. By imposing corporate consultancy, causal theories of change, and external milestones, the initiative conflicted directly with indigenous Maori cultural values (Tikanga), resulting in external resource extraction and community [[Alienation|alienation]].*
 
 > [!boundary]- 概念边界
 > - 不等于 传统商业风险投资（Commercial Venture Capital） — 商业风投以利润最大化为唯一导向；影响力投资必须明文约定经由第三方审计的社会效益指标作为投资存续与结算的前提（Nicholls et al., 2015）。

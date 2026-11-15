@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: france
 person_region: "france"
-person_related_count: 11
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,14 +24,16 @@ tags:
   - region/france
   - early-modern
 related_concepts:
+  - "[[Pragmatic Paradigm]]"
+  - "[[Discourse]]"
+  - "[[Nationalism]]"
   - "[[Print-Language]]"
   - "[[Print-Capitalism]]"
   - "[[Bilingual Intelligentsia]]"
-  - "[[Nationalism]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Imagined Community]]"
-related_methods:
-  - "[[Historical-Comparative Method]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Benedict Anderson]]"
@@ -44,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-15
 ---
 
 ---
@@ -54,7 +56,7 @@ updated: 2026-11-13
 > - **核心角色** 现代越南语拼音文字“国语字”（Quốc ngữ）的系统化奠基人，推动了欧洲拉丁字母正字法与东亚声调语言的早期跨文化融合。
 > - **代表贡献** 编纂出版《越葡拉词典》（1651），确立用附加符号标示六个声调与元音的拼音规范，奠定了越南现代通用文字的印刷基础。
 
-> [!citation-card] 本尼迪克特·安德森论罗德对国语字正字法的确立
+> [!citation-card] [[Benedict Anderson|本尼迪克特·安德森]]论罗德对国语字正字法的确立
 > 这一拼音文字的最终成型形态，通常归功于富有才华的词典编纂家亚历山大·德·罗德神父，他于1651年出版了卓越的《越葡拉词典》。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 127, n. 22)]]
 >
 > *In its final form, this script is usually attributed to the gifted lexicographer Alexandre de Rhodes, who in 1651 published his remarkable Dictionarium annamiticum, lusitanum et latinum.*
@@ -77,10 +79,10 @@ updated: 2026-11-13
 ---
 
 > [!claim] 核心思想
-> 亚历山大·德·罗德立足于宣教实用主义，主张用简明标准化的拼音符号打破复杂表意汉字与喃字对读写技能的长期垄断。他吸纳葡萄牙耶稣会士早期的拼写尝试，系统引入拉丁字母组合与变音变调记号，使不通晓汉文的平民阶层与海外传教士在数周之内即可准确拼读越南口语文本，开辟了一条脱离汉字书法传统的世俗读写路径。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 127)]]
+> 亚历山大·德·罗德立足于宣教[[Pragmatic Paradigm|实用主义]]，主张用简明标准化的拼音符号打破复杂表意汉字与喃字对读写技能的长期垄断。他吸纳葡萄牙耶稣会士早期的拼写尝试，系统引入拉丁字母组合与变音变调记号，使不通晓汉文的平民阶层与海外传教士在数周之内即可准确拼读越南口语文本，开辟了一条脱离汉字书法传统的世俗读写路径。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 127)]]
 
 > [!citation-card] 亚历山大·德·罗德论口语声调拼写的可行性
-> 这种语言虽然音调极其精微，犹如音乐歌唱般包含六种起伏不同的声调，但借助拉丁字母加上精准的音调符号，完全能够精确无误地将其记录在纸页之上，使初学者在极短时间内读出流利的话语。
+> 这种语言虽然音调极其精微，犹如音乐歌唱般包含六种起伏不同的声调，但借助拉丁字母加上精准的音调符号，完全能够精确无误地将其记录在纸页之上，使初学者在极短时间内读出流利的[[Discourse|话语]]。
 >
 > *This language, although highly subtle and melodic with its six varying tones, can be rendered with complete accuracy on paper using Latin characters and diacritical marks, allowing beginners to speak and read fluently within a very short period.*
 
@@ -89,7 +91,7 @@ updated: 2026-11-13
 > [!influence-path] 影响路径
 > - **语言学路径** 罗德确立的正字法规则奠定了越南现代语言学与词典学的基础，至今仍是越南官方国语字的标准形制。
 > - **殖民政策挪用** 19世纪下半叶法国殖民当局看中其去汉字化特征，将其作为切断越南与中华政治联系、排挤儒家士绅的文化工具。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 127)]]
-> - **民族主义反噬** 20世纪越南知识分子（如新越革命党、越盟）反向利用罗德创设的低学习门槛优势，掀起全国普及识字扫盲运动，最终使国语字演变为抗法独立斗争的国民共同体符号。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 128)]]
+> - **[[Nationalism|民族主义]]反噬** 20世纪越南知识分子（如新越革命党、越盟）反向利用罗德创设的低学习门槛优势，掀起全国普及识字扫盲运动，最终使国语字演变为抗法独立斗争的国民共同体符号。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 128)]]
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Anderson_2016_Verso_Ch07|Anderson (2016)]] — 系统阐明罗德所创国语字在经历了三个世纪的静止后，如何被殖民者与民族主义者相继工具化。
@@ -121,6 +123,6 @@ updated: 2026-11-13
 > | [[Franco-Vietnamese Schools]] | 政策 | 萨罗在此政策中将罗德所创国语字作为全境初等教育标准用字。 |
 > | [[Civil Service Examination]] | 事实 | 罗德拼音文字的普及直接伴随着传统汉字科举制度的被废黜。 |
 > | [[Bilingual Intelligentsia]] | 概念 | 罗德发明的文字成为培养掌握现代科学思想的新式双语精英的温床。 |
-> | [[Nationalism]] | 概念 | 拼音国语字在20世纪异化为越南抗法平民民族主义的象征旗帜。 |
+> | [[Nationalism]] | 概念 | 拼音国语字在20世纪[[Alienation\|异化]]为越南抗法平民民族主义的象征旗帜。 |
 > | [[Imagined Community]] | 理论 | 实证了原本由欧洲教会发明的外来文字如何被再造为本土民族主权的容器。 |
 > | [[Benedict Anderson]] | 人物 | 深刻剖析罗德字母从宣教工具向反殖民民族动员工具变迁的历史学者。 |

@@ -9,7 +9,7 @@ aliases:
 summary: "测验结果对受试者、教师或学校产生重大后果的评估情境，风险程度与不伦理行为发生率正相关，表现为从回冲效应到直接泄题的准备方式连续体；在读写教育中诱发套路化公式写作并驱逐主观阐释，与生成式人工智能合谋加剧成长性认识不正义。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemic Malformation]]"
+  - "[[Alienation]]"
   - "[[Evaluation Research]]"
   - "[[Formative Assessment]]"
   - "[[Paradigm]]"
@@ -53,7 +54,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-07-25
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -62,7 +63,7 @@ updated: 2026-11-11
 > **高利害测验（High-Stakes Testing，又称高风险测验）** 是指测验分数或评估结果被直接赋予对受试者、教师、学校或区域教育系统产生重大制度性后果（选拔分流、毕业认证、教师绩效评价、办学经费分配乃至学校关闭问责）的评估情境（Harlen, 1994）。高利害测验的核心特征在于“诸多重大利益取决于测验结果”（much hinges on the test results）；当高利害压力系统性向下传导时，它不仅产生将未测内容淘汰出课堂的回冲效应（Backwash Effect），更迫使教学活动从开放探究矮化为标准化的套路训练，与[[Generative Artificial Intelligence|生成式人工智能]]的全流程代写合谋加剧学习者的[[Formative Epistemic Injustice|成长性认识不正义]]与[[Epistemic Malformation|认知畸变]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|(Ch24, 24.8 节)]]; [[Argument_Smith_2026_SPE|(Smith, 2026, pp. 5–6)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 高利害是测验结果在社会治理与制度问责网络中的**使用方式与后果严重性**决定的——同一套试卷用于课堂诊断是低利害的，用于升学选拔或学校排名就异化为高利害测验，有别于测验工具本身的内在统计属性。
+> - **含义** 高利害是测验结果在社会治理与制度问责网络中的**使用方式与后果严重性**决定的——同一套试卷用于课堂诊断是低利害的，用于升学选拔或学校排名就[[Alienation|异化]]为高利害测验，有别于测验工具本身的内在统计属性。
 > - **用途** 帮助教育政策与[[Evaluation Research|评价研究]]者解析为何标准化评估会诱发应试教学、课程窄化、公式化套路写作以及将低表现学生排除在测验之外等系统性行为扭曲，并评估这些扭曲对测量效度的毁灭性破坏。
 > - **边界** 高利害不等于高难度，其核心是外部后果的不可承受性而非认知任务本身的复杂性；与注重过程改进且不施加惩罚性后果的课堂[[Formative Assessment|形成性评估]]（Formative Assessment）存在本质分界。
 

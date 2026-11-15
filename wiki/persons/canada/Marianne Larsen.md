@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: canada
 person_region: "canada"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Policy Borrowing]]"
   - "[[Protean Episteme]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Post-structuralism]]"
   - "[[Critical Theory]]"
@@ -107,7 +108,7 @@ updated: 2026-11-15
 > |:-----|:-----|:-----|
 > | [[Historical Amnesia\|历史健忘症]] | 概念 | 首创提出者；以扎实实证期刊计量确证学科放逐历史的病理危机。 |
 > | [[Research Strategies in Comparative Education\|比较教育研究策略]] | 事实 | 其主持的 1955–1994 年英美三大国际期刊两千篇论文的里程碑普查。 |
-> | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 拉森的实证证据为卡扎米亚斯反思第四代际普罗透斯异化提供了终极支撑。 |
+> | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 拉森的实证证据为卡扎米亚斯反思第四代际普罗透斯[[Alienation\|异化]]提供了终极支撑。 |
 > | [[Historical-Comparative Method\|历史比较法]] | 方法 | 终身致力于通过[[Post-structuralism\|后结构主义]][[Discourse Analysis\|话语分析]]与谱系学重新激活该方法。 |
 > | [[Content Analysis\|内容分析法]] | 方法 | 运用于期刊方法论分布与史学研究份额量化识别的核心实证技术。 |
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 学术知音与引路人，高度推崇拉森的研究并将其诊断确立为学科史反思基石。 |

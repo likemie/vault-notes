@@ -8,7 +8,7 @@ aliases:
 summary: "教育政策与治理批判范畴，指在维持国家全额财政拨款、法定免费入学与公立机构外壳的前提下，通过引入公私网络治理、产品测试平台、商业技能培训与准市场机制，使商业逻辑深度穿透公立教育系统的微观治理形态"
 type: concept
 domain: "educational-policy-reform"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[School Vouchers]]"
   - "[[Public-Private Partnership]]"
   - "[[Education Export]]"
+  - "[[Alienation]]"
   - "[[Network Governance]]"
   - "[[Champ]]"
   - "[[Exogenous Privatisation]]"
@@ -39,13 +40,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Soft Privatisation
-> 软性私有化（Soft Privatisation）指在不直接改变公立学校所有权与法律归属的前提下，通过渗透私营部门运作模式与价值规范来重构公共教育的新型治理形态。卢卡斯·科恩（Lucas Cone）与卡佳·布勒格（Katja Brøgger, 2020）提出该概念，用以反思欧洲教育治理的新自由主义变迁。区别于直接变卖学校资产、发放[[School Vouchers|教育券]]或全盘外包的“硬性私有化”（Hard Privatisation），软性私有化在维持国家公共财政兜底、法定免收学费与福利国家宪制外观的前提下，依托[[Public-Private Partnership|公私伙伴关系]]（PPP）、教育科技测试平台（Living Labs）、商业微专业规训及法人外壳重组，使得市场竞争逻辑与私人商业利益深层穿透公立教育系统的肌体。金莫·库尔蒂（Kimmo Kuortti, 2025）指出，芬兰[[Education Export|教育出口]]正是借助软性私有化路径，在不打破国内免费原则的同时，将公立学校异化为私营资本的商业试验场。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 380, 391–393)]]
+> 软性私有化（Soft Privatisation）指在不直接改变公立学校所有权与法律归属的前提下，通过渗透私营部门运作模式与价值规范来重构公共教育的新型治理形态。卢卡斯·科恩（Lucas Cone）与卡佳·布勒格（Katja Brøgger, 2020）提出该概念，用以反思欧洲教育治理的新自由主义变迁。区别于直接变卖学校资产、发放[[School Vouchers|教育券]]或全盘外包的“硬性私有化”（Hard Privatisation），软性私有化在维持国家公共财政兜底、法定免收学费与福利国家宪制外观的前提下，依托[[Public-Private Partnership|公私伙伴关系]]（PPP）、教育科技测试平台（Living Labs）、商业微专业规训及法人外壳重组，使得市场竞争逻辑与私人商业利益深层穿透公立教育系统的肌体。金莫·库尔蒂（Kimmo Kuortti, 2025）指出，芬兰[[Education Export|教育出口]]正是借助软性私有化路径，在不打破国内免费原则的同时，将公立学校[[Alienation|异化]]为私营资本的商业试验场。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 380, 391–393)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向在维持公办制度框架表象下，商业逻辑与私营利益通过[[Network Governance|网络治理]]、合同协作与测试平台对公立系统进行的隐蔽穿透。

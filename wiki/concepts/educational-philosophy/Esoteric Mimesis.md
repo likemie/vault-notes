@@ -8,10 +8,10 @@ aliases:
 summary: "承袭柏拉图与普罗提诺新柏拉图主义的艺术模仿理论，指艺术家超越经验自然表象而直接模仿永恒理念（Urbild），将对象提炼并凝结于其目的论顶点的“完善瞬间”，从而使作品脱离时间流逝而获致永恒显现。"
 type: concept
 domain: "educational-philosophy"
-related_count: 7
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - field/philosophy
   - field/educational-philosophy
@@ -19,17 +19,22 @@ tags:
   - theme/idealism
   - theme/neoplatonism
 related_concepts:
+  - "[[Mimesis]]"
   - "[[Philosophical Aesthetics]]"
+  - "[[Creativity]]"
+  - "[[Empiricism]]"
+  - "[[Genius]]"
 related_theories:
   - "[[Schelling's Aesthetics]]"
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Plato]]"
   - "[[Friedrich Wilhelm Joseph Schelling]]"
   - "[[Immanuel Kant]]"
-  - "[[Plato]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
-related_facts: []
+related_facts:
+  - "[[Achieve]]"
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch04]]"
 confidence: high
@@ -41,21 +46,21 @@ updated: 2026-11-15
 ---
 
 > [!def] Esoteric Mimesis
-> 秘传模仿论（Esoteric Mimesis）是新柏拉图主义美学与[[Friedrich Wilhelm Joseph Schelling|谢林]]（Friedrich Wilhelm Joseph Schelling）中期[[Philosophical Aesthetics|哲学美学]]的核心模仿观。该理论拒绝将艺术简化为对经验自然客体的肖似复制（自然主义模仿论），主张艺术家必须离开可见的经验自然，升华至纯概念与永恒理念（*Urbild*）的领域直接模仿对象内在的创造性精神，从而把对象的存在提炼并凝结于其目的论顶点的“完善瞬间”（perfect moment），使其脱离时间流逝而在感性作品中获致永恒存在。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 78–79)]]
+> 秘传[[Mimesis|模仿论]]（Esoteric Mimesis）是新[[Plato|柏拉图]]主义[[Philosophical Aesthetics|美学]]与谢林（[[Friedrich Wilhelm Joseph Schelling]]）中期[[Philosophical Aesthetics|哲学美学]]的核心模仿观。该理论拒绝将艺术简化为对经验自然客体的肖似复制（自然主义模仿论），主张艺术家必须离开可见的经验自然，升华至纯概念与永恒理念（*Urbild*）的领域直接模仿对象内在的[[Creativity|创造性]]精神，从而把对象的存在提炼并凝结于其目的论顶点的“完善瞬间”（perfect moment），使其脱离时间流逝而在感性作品中获致永恒存在。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 78–79)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 艺术直接模仿对象内在的永恒理念（*Urbild*）与创造性精神，超越对经验自然表象的复制。
 > - **用途** 解释艺术如何在感性形式中显现超越时间的普遍真理（“完善瞬间”），并重排艺术美与自然美的哲学层级。
-> - **边界** 强依赖于理念先验实在论与形而上学预设；若脱离新柏拉图主义框架，易被现代形式主义或经验主义美学视为过度玄学化，亦受到莱辛（Gotthold Ephraim Lessing）关于“呈现最高顶点会束缚想象力”的诗学质疑。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 78–79, 227 n.28)]]
+> - **边界** 强依赖于理念先验实在论与形而上学预设；若脱离新柏拉图主义框架，易被现代形式主义或[[Empiricism|经验主义]]美学视为过度玄学化，亦受到莱辛（Gotthold Ephraim Lessing）关于“呈现最高顶点会束缚想象力”的诗学质疑。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 78–79, 227 n.28)]]
 
 > [!citation-card|notitle] 谢林论艺术家离开造物以模仿自然精神
 > 他（艺术家）必须与产物或造物保持距离，但这样做的唯一目的是升华到创造性力量之中，并在精神上把握它。藉此他翱翔进入纯粹概念的领域；他离开造物，乃是为了带着千倍的收益重获它，并由此返回到它之中。那在对象内部通过形式与完形（仿佛通过图像）辛勤劳作的自然精神，正是艺术家必须模仿的对象；而且只有当他在模仿中把握住它时，他才抵达了某种真实之物。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 79)]]
 >
-> *He [the artist] must distance himself from the product or the creation, but only in order to be elevated to the creative force and to grasp it mentally [geistig]. Through this he soars upward into the realm of pure concepts; he leaves the creation in order to regain it with thousandfold interest and thereby to return to it. That spirit of nature that labors inside the object through form and gestalt as if through images [Sinnbilder] the artist must imitate, and only insofar as he grasps it in his imitation does he achieve truth [etwas Wahrhaftes].*
+> *He [the artist] must distance himself from the product or the creation, but only in order to be elevated to the creative force and to grasp it mentally [geistig]. Through this he soars upward into the realm of pure concepts; he leaves the creation in order to regain it with thousandfold interest and thereby to return to it. That spirit of nature that labors inside the object through form and gestalt as if through images [Sinnbilder] the artist must imitate, and only insofar as he grasps it in his imitation does he [[Achieve|achieve]] truth [etwas Wahrhaftes].*
 
 > [!boundary]- 概念边界
 > - 不等于自然主义模仿论（Naturalistic Mimesis） — 秘传模仿论明确反对以经验自然的偶然外貌为艺术准则，主张以艺术的完善美作为评判自然美的规范尺度。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 73, 78–79)]]
-> - 不同于[[Immanuel Kant|康德]]的天才自然立法观 — 康德在《判断力批判》（§46）中主张“自然通过天才为艺术立法”，从而将自然置于人造物之上；谢林则通过艺术美高于偶然自然美的论断颠覆了这一层级。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 73)]]
+> - 不同于[[Immanuel Kant|康德]]的[[Genius|天才]]自然立法观 — 康德在《判断力批判》（§46）中主张“自然通过天才为艺术立法”，从而将自然置于人造物之上；谢林则通过艺术美高于偶然自然美的论断颠覆了这一层级。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 73)]]
 
 ---
 

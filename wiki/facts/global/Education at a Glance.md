@@ -9,7 +9,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 30
+fact_related_count: 31
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Policy Brokerage]]"
   - "[[Study Abroad]]"
+  - "[[Alienation]]"
   - "[[Science and Technology Studies]]"
   - "[[Global Education Governing Complex]]"
   - "[[Educational Multilateralism]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -139,7 +140,7 @@ updated: 2026-11-11
 > [!debates] 核心争议
 >
 > > [!axis] 从“警示工具”（Alert）向“终局评判”（Assessment）的越界滑移
-> > 批评者聚焦于该出版物在功能定位上的悄然异化。
+> > 批评者聚焦于该出版物在功能定位上的悄然[[Alienation|异化]]。
 > >
 > > - **[[Norberto Bottani]]（前 INES 主任）** 严厉批判经合组织模糊了“指标（提供预警信号的警示装置）”与“全面评判（考虑生态情境的综合评估）”的根本界限；EAG 将复杂的社会历史系统折算为单薄的数字排名，在缺乏民主审议的前提下擅自扮演了全球教育系统的最高法官。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 14)]]
 > > - **OECD 官方辩解** 坚持认为报告仅提供客观镜鉴（“我们不提供强制处方”），但承认跨国指标承载着为各国决策者指引改革方向的导向功能。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 15)]]

@@ -7,7 +7,7 @@ aliases:
 summary: "起源于美国《个体残疾人教育法》（IDEA 2004）的三层教学支持与特殊教育筛查模型，通过核心通用教学（Tier 1）、小组针对性辅导（Tier 2）和高强度个别辅导（Tier 3）提供梯度干预，后经斯莱文发展为以强证据项目系统填充各层的循证干预反应（RTPI）改革方案"
 type: concept
 domain: "educational-policy-reform"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -19,6 +19,7 @@ tags:
   - rti
   - metax
 related_concepts:
+  - "[[Alienation]]"
   - "[[Grade Retention]]"
   - "[[Response to Proven Instruction]]"
   - "[[Evidence Standards]]"
@@ -80,13 +81,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Response to Intervention
-> **干预反应模型（Response to Intervention, RTI）** 是起源于美国《个体残疾人教育法》（Individuals with Disabilities Education Act, IDEA 2004）的多层级学业与行为支持框架。该框架主张在将学业困难学生转介至特殊教育之前，先在普通班级生态内提供多层递进的预防性与补救性干预：全班核心通用教学（TIER 1）、针对轻度落后学生的小组补充辅导（Tier 2），以及针对重度落后学生的高强度个别辅导（Tier 3），以此根据学生对科学干预的动态反应进行差异化支持与特教准入判定。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]
+> **干预反应模型（Response to Intervention, RTI）** 是起源于美国《个体残疾人教育法》（Individuals with Disabilities Education Act, IDEA 2004）的多层级学业与行为支持框架。该框架主张在将学业困难学生转介至特殊教育之前，先在普通班级生态内提供多层递进的预防性与补救性干预：全班核心通用教学（TIER 1）、针对轻度落后学生的小组补充辅导（Tier 2），以及针对重度落后学生的高强度个别辅导（Tier 3），以此根据学生对科学干预的动态反应进行差[[Alienation|异化]]支持与特教准入判定。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 结合了普遍预防、早期筛查、梯度干预与动态反应监测的系统性教学与特教分流框架。

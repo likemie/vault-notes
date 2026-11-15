@@ -25,6 +25,7 @@ related_concepts:
   - "[[Research Literacy]]"
   - "[[Research Utilization]]"
   - "[[Variable]]"
+  - "[[Alienation]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Operationalization]]"
   - "[[Dialogue in Education]]"
@@ -80,14 +81,14 @@ related_theories:
 related_persons: []
 status: draft
 created: 2026-08-26
-updated: 2026-11-11
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_key: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_display_title: "Development of the Research Literacy Scale for Teachers"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -104,7 +105,7 @@ journal: "SAGE Open"
 > [!concept-lens] 阅读透镜
 > - **对象** 土耳其黑海地区中小学在职教师群体（探索性样本 $N=310$；验证性样本 $N=258$）。
 > - **张力** 教师群体普遍呈现出极高科研价值认同（态度维度均值达 4.37）但日常实践应用匮乏（行为维度均值仅 3.78、定期读刊率仅 28.3%）的知行脱节；既有测量工具多局限于单一技术技能测验或笼统态度调查，缺乏行为科学机制支撑。
-> - **贡献** 构建了基于行为科学的 20 题四维度 RLS 工具及其二阶因子结构，证实了跨性别的严格[[Measurement Invariance\|测量等值性]]，并实证厘清了文献阅读（驱动使用）与亲自做研究（驱动技能）对教师研究素养的差异化赋能路径。
+> - **贡献** 构建了基于行为科学的 20 题四维度 RLS 工具及其二阶因子结构，证实了跨性别的严格[[Measurement Invariance\|测量等值性]]，并实证厘清了文献阅读（驱动使用）与亲自做研究（驱动技能）对教师研究素养的差[[Alienation|异化]]赋能路径。
 
 ---
 

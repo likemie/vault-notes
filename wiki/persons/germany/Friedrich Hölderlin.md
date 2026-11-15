@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -37,6 +37,8 @@ related_persons:
   - "[[Johann Gottlieb Fichte]]"
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch04]]"
+related_facts:
+  - "[[Oldest Systematic Program of German Idealism]]"
 confidence: high
 status: draft
 created: "2026-11-15"
@@ -69,7 +71,7 @@ updated: 2026-11-15
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 构成从席勒的修正康德主义通向谢林浪漫美学与黑格尔辩证法的直接先导，其“概念无法穷尽绝对者、美是通向存在之御道（*via regia*）”的论断直接塑造了谢林《先验唯心论体系》的核心问题意识，并可能参与了《德国唯心论最古老的系统纲领》（约 1796）的起草讨论。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 64, 68–70, 76)]]
+> - **理论路径** 构成从席勒的修正康德主义通向谢林浪漫美学与黑格尔辩证法的直接先导，其“概念无法穷尽绝对者、美是通向存在之御道（*via regia*）”的论断直接塑造了谢林《先验唯心论体系》的核心问题意识，并可能参与了《[[Oldest Systematic Program of German Idealism|德国唯心论最古老的系统纲领]]》（约 1796）的起草讨论。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 64, 68–70, 76)]]
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — 依据迪特·亨利希（Dieter Henrich）与帕纳约蒂斯·孔迪利斯（Panajotis Kondylis）的研究，揭示荷尔德林在 1790 年代末如何先行提出“存在”与“美的中介作用”，为谢林和黑格尔开辟道路。

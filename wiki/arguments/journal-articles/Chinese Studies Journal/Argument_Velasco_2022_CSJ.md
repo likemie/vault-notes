@@ -38,6 +38,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Competitiveness]]"
   - "[[Scientific Productivity]]"
+  - "[[Mimesis]]"
   - "[[Sino-Foreign Cooperation in Running Schools]]"
   - "[[Research Universities]]"
   - "[[Early-Career Researchers]]"
@@ -63,17 +64,19 @@ related_facts:
   - "[[ASEAN]]"
   - "[[Thousand Talents Program]]"
   - "[[Belt and Road Initiative]]"
+  - "[[Soochow University in Laos]]"
+  - "[[Bangkok Business School]]"
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-11-10
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Velasco_2022_CSJ"
 argument_key: "Argument_Velasco_2022_CSJ"
 argument_display_title: "China’s soft power strategy: Education as an apparatus of influence in Southeast Asia"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -217,7 +220,7 @@ sources:
 ---
 
 > [!claim|step] 论证步骤二　大学科研[[Competitiveness|竞争力]]的提升直接服务于国家外交战略
-> 自 1990 年代以来的持续高教改革与[[Double First-Class Initiative|双一流建设]]极大释放了高校[[Scientific Productivity|科研生产力]]，完成了从技术模仿向自主创新的转变，为国家将一流大学打造为服务对外战略的智识引擎提供了坚实基础。
+> 自 1990 年代以来的持续高教改革与[[Double First-Class Initiative|双一流建设]]极大释放了高校[[Scientific Productivity|科研生产力]]，完成了从技术[[Mimesis|模仿]]向自主创新的转变，为国家将一流大学打造为服务对外战略的智识引擎提供了坚实基础。
 
 > [!sub-claim] 1. 长期高强度投入推动高校科研产出超越美国
 
@@ -279,7 +282,7 @@ sources:
 
 > [!feature] 东南亚[[Educational Diplomacy|教育外交]]三大支柱构成与运作特征
 > - **支柱一：国际学生定向招募与奖学金配置** 东南亚在华留学生由 2016 年约 7 万人增长至 2018 年约 8 万人；中国大学世界排名的提升与充裕的国家奖学金供给，成为拉动[[ASEAN|东盟]]学生赴华深造的核心动力。（Ahmad & Shah, 2018; ICEF, 2016; Lau, 2021, p. 83）
-> - **支柱二：高水平大学[[International Branch Campus|境外办学]]实体与联合机构** 积极在东盟成员国布局独立校区与联合机构，包括 2013 年在马来西亚设立的[[Xiamen University Malaysia|厦门大学马来西亚分校]]（被两国誉为中马友谊之桥）、老挝苏州大学，以及云南财经大学同泰方合作设立的泰国曼谷商学院，实现办学实体的在地化延伸。（Cheng & Koh, 2022; Jie, 2018; Ngeow, 2022, pp. 84–85）
+> - **支柱二：高水平大学[[International Branch Campus|境外办学]]实体与联合机构** 积极在东盟成员国布局独立校区与联合机构，包括 2013 年在马来西亚设立的[[Xiamen University Malaysia|厦门大学马来西亚分校]]（被两国誉为中马友谊之桥）、[[Soochow University in Laos|老挝苏州大学]]，以及云南财经大学同泰方合作设立的泰国[[Bangkok Business School|曼谷商学院]]，实现办学实体的在地化延伸。（Cheng & Koh, 2022; Jie, 2018; Ngeow, 2022, pp. 84–85）
 > - **支柱三：深入大学建制的孔子学院合作网络** 截至 2021 年在东南亚设立运营 31 所孔子学院（[[Confucius]] Institute, CI）；与歌德学院或英国文化协会独立设立文化中心不同，孔院高度嵌入当地承办大学建制，融合语言授课、文化活动、学术研讨与高层互访等多元软实力手段。（Burnay & Pils, 2022; Mohamedbhai, 2013; Pan, 2013; Tan, 2022, p. 85）
 
 为深入把握实体境外办学与合作办学的实践深度，有必要对东南亚各主要合作案例的具体形态进行横向比对。

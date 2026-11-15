@@ -11,9 +11,9 @@ aliases:
 summary: "个体或群体在特定情境中综合调动认知、情绪与环境资源生成新颖且适切成果的心理能力与综合表现，在教育与心理学中兼具预测变量与发展结果的双重属性；在科学学与创新政策视阈下，个体科学创造力呈现显著的早年黄金生命周期，易受学术评价增量偏好与共识评审的体制性抑制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 129
-related_level: 12
-related_stars: "💎💎💎💎"
+related_count: 132
+related_level: 13
+related_stars: "💎💎💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/creativity
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Innovation Ecosystem]]"
   - "[[Scientific Creativity]]"
+  - "[[Alienation]]"
   - "[[Technological Pastiche]]"
   - "[[Creativity Assessment]]"
   - "[[Ontology]]"
@@ -43,6 +44,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Epistemic Virtues and Vices]]"
   - "[[Social Deafness]]"
+  - "[[Mimesis]]"
   - "[[Predictive Validity]]"
   - "[[Dependent Variable]]"
   - "[[Academic Achievement]]"
@@ -72,6 +74,7 @@ related_concepts:
   - "[[Clustering Coefficient]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Heterogeneity]]"
+  - "[[Genius]]"
   - "[[Champ]]"
   - "[[Emergence]]"
   - "[[Early-Career Researchers]]"
@@ -159,13 +162,13 @@ related_facts:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Creativity
-> 创造力（Creativity）是指个体、群体或组织在特定社会文化与任务情境中，综合调动认知加工、情绪动机与环境资源，生成兼具**新颖性（Novelty / Originality）** 与**适切性（Appropriateness / Usefulness）** 的想法、[[Problem Solving|问题解决]]方案、行为或产品的心理潜能与综合表现。在教育心理学中，创造力兼具预测个体发展与作为教育干预效标的双重属性；在科学学与国家[[Innovation Ecosystem|创新生态]]中，颠覆性[[Scientific Creativity|科学创造力]]高度依赖个体早年认知的探索灵活性，并受制于学术资助与评价制度的激励结构；在技术哲学与创新社会学中，真正的开创性创造力（如巴斯奎特重新划定高雅艺术边界）必须与商业资本异化下的浅层[[Technological Pastiche|技术拼贴]]及无生命衍生品严格区分。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–3)]]; [[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 1–3)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–16)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 106–107)]]
+> 创造力（Creativity）是指个体、群体或组织在特定社会文化与任务情境中，综合调动认知加工、情绪动机与环境资源，生成兼具**新颖性（Novelty / Originality）** 与**适切性（Appropriateness / Usefulness）** 的想法、[[Problem Solving|问题解决]]方案、行为或产品的心理潜能与综合表现。在教育心理学中，创造力兼具预测个体发展与作为教育干预效标的双重属性；在科学学与国家[[Innovation Ecosystem|创新生态]]中，颠覆性[[Scientific Creativity|科学创造力]]高度依赖个体早年认知的探索灵活性，并受制于学术资助与评价制度的激励结构；在技术哲学与创新社会学中，真正的开创性创造力（如巴斯奎特重新划定高雅艺术边界）必须与商业资本[[Alienation|异化]]下的浅层[[Technological Pastiche|技术拼贴]]及无生命衍生品严格区分。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–3)]]; [[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 1–3)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–16)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 106–107)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向生成原创且具有现实应用价值成果的复杂心理机制、行为表现及制度化探索能力。
@@ -221,7 +224,7 @@ updated: 2026-11-11
 > - **创造力作为[[Epistemic Virtues and Vices|理智美德]]（Creativity as an Intellectual Virtue）** 结合[[Virtue Epistemology|德性认识论]]框架，创造力不仅表现为外显的发散思维技能，更是深层的理智美德，由**动机成分**与**技能成分**双重构成，并依赖于将新构想与个体独特的具身体验、个人叙事及多领域经验图式深度交织。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 270, 277–278)]]
 > - **原真性与超越衍生性（Authentic Originality vs Derivative Pastiche）** 真正的颠覆性创造力如同巴斯奎特（Basquiat）开创涂鸦艺术，要求打破旧有[[Paradigm|范式]]并重新划定人类认知边界；而在无差别商业投机与消费主义规训下，创造力极易退化为对既有通信协议的浅层排列组合与无生命衍生作品。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 106–107)]]
 > - **反从众与[[Social Deafness|社交失聪]]（Counter-Conformity & Social Deafness）** 颠覆性创造力在微观心理上要求个体具备抵抗群体一致性从众压力的认知绝缘性，如莫奈因白内障促成抽象表现主义、贝多芬因耳聋开创新声响世界一般，保持对世俗舆论与同侪非难的钝感。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 137–138)]]
-> - **从无到有的创造傲慢与抵抗性张力（Hubris of Creation & Creative Friction）** 突破性创造要求从认知幼年的模仿中决裂，具备坚信既有方案不足的创造傲慢，并依赖抵抗性师生碰撞与组织创造性摩擦冲破平庸合群的牢笼。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 156–159)]]
+> - **从无到有的创造傲慢与抵抗性张力（Hubris of Creation & Creative Friction）** 突破性创造要求从认知幼年的[[Mimesis|模仿]]中决裂，具备坚信既有方案不足的创造傲慢，并依赖抵抗性师生碰撞与组织创造性摩擦冲破平庸合群的牢笼。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 156–159)]]
 > - **自愿自我约束与长周期托管（The Odysseus Constraint & Long-term Stewardship）** 长周期创造力体现为主动拒绝随波逐流的随意调头灵活性，正如奥德修斯自缚船桅以抗拒塞壬诱惑一般，通过对单一愿景的执着承诺与自愿限制选择空间，抵御外界与资本市场的短期噪音；同时结合面向数十年乃至数百年的长程资产托管哲学，为前沿突破提供持久支撑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 208–209, 212)]]
 
 > [!logic-map]- 要素关系与制度激励拓扑
@@ -355,7 +358,7 @@ updated: 2026-11-11
 ---
 
 > [!dev-timeline] 概念演变
-> - **1950 年代 天才与智力脱钩** Guilford 在 APA 主席演讲中呼吁重视创造力研究，打破创造力等同于高智商的传统观点。
+> - **1950 年代 [[Genius|天才]]与智力脱钩** Guilford 在 APA 主席演讲中呼吁重视创造力研究，打破创造力等同于高智商的传统观点。
 > - **1960–1970 年代 4P 框架确立** Rhodes 提出创造者、创造过程、创造产品与创造环境四要素模型，奠定跨学科研究骨架。
 > - **1980–1990 年代 系统论与日常创造力转向** Csikszentmihalyi 提出领域-[[Champ|场域]]系统模型，Runco & Richards 倡导日常创造力与潜能观。
 > - **2005–2021 年 协作网络拓扑与团队创造力倒 U 形法则** Uzzi and Spiro (2005) 与 [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang and Barabási (2021)]] 建立小世界协作网络模型，量化确立了网络小世界商数 $W$ 与团队创造力之间的倒 U 形规律，揭示过度紧密抱团对突破性创新的扼杀机制。

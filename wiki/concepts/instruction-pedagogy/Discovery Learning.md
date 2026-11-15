@@ -10,7 +10,7 @@ aliases:
 summary: "认知心理学与教学设计中的自主建构范式，由杰罗姆·布鲁纳奠基，主张让学生在最小干预下通过自主探究概念例证领悟学科基本结构；经 Alfieri 等 164 项元分析解构确立无指导纯发现成效低下而辅以支架的增强型引导式发现显著优于传统直接讲授"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Procedural Skill]]"
   - "[[Effective Teaching]]"
   - "[[Control of Variables Strategy]]"
+  - "[[Alienation]]"
   - "[[Heterogeneity]]"
   - "[[Learned Helplessness]]"
   - "[[Class Size]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ## 定义
@@ -183,7 +184,7 @@ updated: 2026-11-02
 
 > [!dev-timeline] 概念演变
 > - **1960 年代 — 布鲁纳倡导发现学习奠基** 杰罗姆·布鲁纳发表《教育过程》（The Process of Education），倡导通过自主发现领悟学科结构，成为早期结构主义与探究教育的标志。
-> - **1980–1990 年代 — 纯建构主义热潮引发实践偏差** 部分[[Radical Constructivism\|激进建构主义]]教学法将发现学习极端化为“拒绝任何形式的教师讲授”，导致课堂出现学生盲目试错、效率低下的严重异化。
+> - **1980–1990 年代 — 纯建构主义热潮引发实践偏差** 部分[[Radical Constructivism\|激进建构主义]]教学法将发现学习极端化为“拒绝任何形式的教师讲授”，导致课堂出现学生盲目试错、效率低下的严重[[Alienation|异化]]。
 > - **2004–2006 年代 — 认知负荷学派的全面清算与论争** 梅耶（Mayer, 2004）提出“纯发现三击出局论”；克什纳、斯韦勒与克拉克（Kirschner, Sweller, & Clark, 2006）发表轰动檄文《为何最小指导教学行不通》，宣告纯发现学习在认知科学上的彻底破产。
 > - **2011 — Alfieri 等 164 项[[Meta-analysis\|元分析]]解构发现[[Paradigm\|范式]]** 阿尔菲里团队通过对 164 项实证研究的元分析，用严谨数据终结了二元对立：将纯发现（$d = -0.38$）与引导式发现（$d = +0.30$）严格区隔开来，为现代[[Inquiry-Based Learning\|指导式探究]]正名。（Alfieri et al., 2011）
 > - **2023 — De Jong et al. 里程碑综述确立时序协同** [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 在《教育研究评论》（ERR）系统整合发现学习与[[Direct Instruction\|直接教学]]的协同模型，确立引导式发现作为连接学生[[Epistemic Agency\|认识能动性]]与教师专业指导的核心载体。

@@ -9,7 +9,7 @@ summary: "不操纵自变量而以量化资料分析变量共变、预测模式�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 74
+method_related_count: 75
 method_related_level: 7
 method_related_stars: "💎💎⭐"
 method_related_color: "#dcfce7"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Self-Regulated Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[Chain of Evidence]]"
+  - "[[Alienation]]"
   - "[[Gender Differences in Academic Achievement]]"
 related_theories:
   - "[[Organizational Culture]]"
@@ -104,7 +105,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -276,7 +277,7 @@ updated: 2026-11-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 系统解构将相关研究强行换算为均值差（$r \to d$）的数理漏洞，揭示 $r=0.196$ 虚增为 $d=0.40$ 的机制，并以[[Creativity|创造力]]横向相关与自报成绩自相关为例批判因果伪装（pp. 242, 245）。
-> - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 对 2000–2020 年五本顶级教育心理学期刊进行系统[[Content Analysis\|内容分析]]，量化揭示了相关性研究中[[Recommendations for Practice\|实践建议]]（RFP）从 41% 激增至 66% 的方法学异化现象。
+> - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 对 2000–2020 年五本顶级教育心理学期刊进行系统[[Content Analysis\|内容分析]]，量化揭示了相关性研究中[[Recommendations for Practice\|实践建议]]（RFP）从 41% 激增至 66% 的方法学[[Alienation|异化]]现象。
 > - [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] — 跨源检索四大公共证据库，揭示了依赖单项相关性研究达到 [[Every Student Succeeds Act\|ESSA]] Tier III 门槛给学区带来的公共教育资金配置合规漏洞。
 > - [[Argument_Lekhal_2015_Paideia\|Lekhal et al. (2015)]] — 运用大规模双信息源调查数据与分层[[Multiple Regression\|多元回归]]分析，检验学校人际关系与行为[[Variable\|变量]]对[[Gender Differences in Academic Achievement\|学业成就性别差异]]的解释路径。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对教育宏观二阶证据库开展系统性质量审计，揭示相关性研究被普遍与[[Experimental Research|实验研究]]直接算术平均（27% 混杂实验与相关，10% 混杂三类设计），剖析了非操纵相关性对课堂因果干预建议造成的虚假确定性污染。

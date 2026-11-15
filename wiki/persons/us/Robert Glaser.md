@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Positivism]]"
   - "[[Intentionality]]"
+  - "[[Alienation]]"
   - "[[Neo-Taylorism]]"
   - "[[Document]]"
   - "[[Constructivist Paradigm]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 （罗伯特·格拉泽）
@@ -120,7 +121,7 @@ updated: 2026-11-02
 > > 争论格拉泽的系统控制模型究竟是保障了教学公平与效率，还是剥离了学习者的主体能动性。
 > >
 > > - **工程[[Positivism|实证主义]]倡导者** 认为系统化教学设计与[[Criterion-Referenced Test|标准参照]]测评能够消除教师主观偏见，确保各类背景的学生都能明确知晓学习标准并获得针对性矫正支持。
-> > - **[[Critical Theory|批判理论]]与解释学立场（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）** 指出格拉泽模型将人异化为接受外部代码、修正行为偏差的被动响应器；这种[[Technical Rationality|技术理性]]回路消解了学习者寻求生存意义与社会认同的意向性（intentionality），最终沦为服务于[[Neo-Taylorism|新泰勒主义]]行政问责的管理工具。
+> > - **[[Critical Theory|批判理论]]与解释学立场（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）** 指出格拉泽模型将人[[Alienation|异化]]为接受外部代码、修正行为偏差的被动响应器；这种[[Technical Rationality|技术理性]]回路消解了学习者寻求生存意义与社会认同的意向性（intentionality），最终沦为服务于[[Neo-Taylorism|新泰勒主义]]行政问责的管理工具。
 >
 > > [!axis] 思想史考证：[[Behaviorism|行为主义]]技术理性 vs [[Radical Constructivism|激进建构主义]]误读
 > > 辨析[[John Hattie|哈蒂]]援引格拉泽的学术归宿。

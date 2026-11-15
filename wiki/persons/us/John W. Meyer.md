@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 43
+person_related_count: 45
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Otherhood]]"
   - "[[Organizational Actorhood]]"
   - "[[Rationalized Myth]]"
+  - "[[Mimesis]]"
   - "[[Transnational Education]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
@@ -38,6 +39,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Discourse]]"
   - "[[Policy Borrowing]]"
+  - "[[Alienation]]"
   - "[[Research Universities]]"
   - "[[Knowledge Production]]"
   - "[[Cosmopolitanism]]"
@@ -91,7 +93,7 @@ updated: 2026-11-15
 > *Our island society would obviously become a candidate for full membership in the world community of national and individuals. Human rights, state-protected citizen rights, and democratic forms would become natural entitlements. An economy would emerge, defined, and measured in rationalized terms and oriented to growth under state regulations. A formal national polity would be essential, including a constitution, citizenship, laws, educational structures, and open forms of participation and communication. (Meyer et al., 1997, pp. 173–174)*
 
 > [!citation-card] 迈耶论为他者行动与世界社会的文化建构
-> 由于缺乏传统的控制和权威机制，世界社会本质上是通过这种“为他者行动”（otherhood）来建构的，即通过文化模型的扩散与模仿，这些模型通常围绕进步与正义等宏大目标，并常由（社会）科学家以理智化的形式提供。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 149)]]
+> 由于缺乏传统的控制和权威机制，世界社会本质上是通过这种“为他者行动”（otherhood）来建构的，即通过文化模型的扩散与[[Mimesis|模仿]]，这些模型通常围绕进步与正义等宏大目标，并常由（社会）科学家以理智化的形式提供。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 149)]]
 >
 > *Lacking traditional mechanisms of control and authority, world society is essentially constructed through such 'otherhood', that is, through the diffusion and mimesis of cultural models, usually revolving around broad goals of progress and justice often provided in a rationalized form by (social) scientists. (Meyer et al., 1997, p. 173)*
 
@@ -147,7 +149,7 @@ updated: 2026-11-15
 > [!influence-path] 影响路径
 > - **理论路径** 开创[[Stanford School|斯坦福学派]]新制度主义社会学与[[World Society Theory|世界社会理论]]，彻底改写了组织社会学关于正式结构的理性效率假定，并为比较教育学奠定了世界文化[[Paradigm|范式]]（World Culture Perspective）；与国际关系领域的[[Constructivist Paradigm|社会建构主义]]形成理论互补，推动全球治理研究从侧重物质强权的硬治理转向侧重观念、规范与知识的[[Epistemic Governance|知识治理]]。
 > - **方法路径** 倡导大规模、长时段的跨国量化比较研究方法，通过建立战后全球多国入学率数据库、国家课程纲要分类与课时比例数据库、人权与环境条约签署数据库等，奠定了运用宏观跨国面板数据检验微观[[Institutional Isomorphism|制度同构]]效应的研究设计规范。
-> - **政策路径** 深刻影响了联合国教育、科学及文化组织（[[UNESCO]]）、[[OECD|经济合作与发展组织]]（OECD）等跨国机构的监测逻辑与政策[[Discourse|话语]]；迈耶揭示的“理性神话与仪式性脱节”成为评估全球教育改革[[Policy Borrowing|政策借用]]、标准化问责制异化、政策执行落差以及国家参与 [[PISA]] 测评仪式性合法性追求的标准分析工具。
+> - **政策路径** 深刻影响了联合国教育、科学及文化组织（[[UNESCO]]）、[[OECD|经济合作与发展组织]]（OECD）等跨国机构的监测逻辑与政策[[Discourse|话语]]；迈耶揭示的“理性神话与仪式性脱节”成为评估全球教育改革[[Policy Borrowing|政策借用]]、标准化问责制[[Alienation|异化]]、政策执行落差以及国家参与 [[PISA]] 测评仪式性合法性追求的标准分析工具。
 > - **跨国／跨领域传播** 斯坦福学派形成了庞大的跨国学术传承，研究脉络从中小学学科知识构成（Benavot）、妇女公民参政权扩展（Ramirez）延伸至当代[[Research Universities|研究型大学]]向完全组织的转型（Zapp, Bromley），成为现代高等教育学、国际比较教育学与公共政策分析的核心理论渊源。
 
 > [!evidence-grid-a] 相关研究索引

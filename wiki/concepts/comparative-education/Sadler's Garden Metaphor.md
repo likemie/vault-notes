@@ -10,7 +10,7 @@ aliases:
 summary: "比较教育学经典认识论隐喻，源于英国学者迈克尔·萨德勒 1900 年关于‘不可如漫步花园般随心采撷别国制度花草’的情境依赖警训。当代学者杰森·比奇对此进行微观生态学重构，指出跨国方案采撷虽往往无法在异国长成活株，但残枝所携带的外来微生物（政策技术与评价逻辑）仍会永久改变本土教育微观生态。"
 type: concept
 domain: "comparative-education"
-related_count: 26
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,8 @@ related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Positivism]]"
   - "[[Performance Indicators]]"
+  - "[[Mimesis]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Governmentality]]"
   - "[[Pluri-Scalar Governance]]"
@@ -56,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -138,10 +140,10 @@ updated: 2026-11-11
 > [!debates] 学术争议
 >
 > > [!axis] 文化抵制必然性与全球制度趋同力的博弈
-> > 传统文化主义者依据[[Michael Sadler|萨德勒]]隐喻断言，任何脱离本土土壤的外来制度移植都注定遭到文化排异而流产；而世界社会学派（[[World Society Theory]]）学者则指出，全球理性化与现代学校制度模型展现出极强的跨国同质化力量，花园隐喻低估了现代国家对普世制度形式的自发模仿趋向。
+> > 传统文化主义者依据[[Michael Sadler|萨德勒]]隐喻断言，任何脱离本土土壤的外来制度移植都注定遭到文化排异而流产；而世界社会学派（[[World Society Theory]]）学者则指出，全球理性化与现代学校制度模型展现出极强的跨国同质化力量，花园隐喻低估了现代国家对普世制度形式的自发[[Mimesis|模仿]]趋向。
 > >
 > > - **文化情境学派** 坚守土壤与精神的不可移植性，强调地方语境对外部干预的绝对抵制。
-> > - **[[Argument_Beech_2009_GlobalGarden|Beech (2009b)]]** 调和二者，指出制度同质化往往停留在宏观修辞（外来植物形式），而微观层面的异化与突变（微生物作用）才是真实的社会后果。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 356)]]
+> > - **[[Argument_Beech_2009_GlobalGarden|Beech (2009b)]]** 调和二者，指出制度同质化往往停留在宏观修辞（外来植物形式），而微观层面的[[Alienation|异化]]与突变（微生物作用）才是真实的社会后果。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 356)]]
 
 ---
 

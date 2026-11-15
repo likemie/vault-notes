@@ -13,7 +13,7 @@ aliases:
 summary: "学术出版与科学传播中由学术机构、学会或公共基金直接出资维护的非商业性学术交流范式；其核心特征是发文无须缴纳高昂文章处理费（APC），阅读亦无须支付订阅费或打破付费墙；通过将学术出版基础设施重归公共学术共同体托管，旨在根除商业出版寡头通过 APC 转移公共科研经费的暴利寻租，消除低资源地区与青年学者面临的经济发表壁垒。"
 type: concept
 domain: "science-policy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
+  - "[[Alienation]]"
   - "[[Early-Career Researchers]]"
   - "[[Discourse]]"
   - "[[Public Value]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -99,7 +100,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题一｜商业化 APC 机制加剧了全球学术阶层固化与公共经费失血
-> **出版资本主义异化与经济排斥** 考察营利性开放获取模式对学术公平性的制度扭曲。
+> **出版资本主义[[Alienation|异化]]与经济排斥** 考察营利性开放获取模式对学术公平性的制度扭曲。
 
 > [!claim] [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]]
 > **商业版面费对[[Early-Career Researchers|青年学者]]发展的掠夺** 菲利普·豪布罗克（Phillip J. Haubrock）与托恩·埃弗茨（Teun Everts）等学者指出，商业顶刊单篇过万美元的版面处理费往往逼近青年学者一整年的薪资水平；强制性开放获取要求将巨额公帑转移给私人出版资本，严重剥夺了高校聘用青年学者与开展长周期探索的财力支持。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 6)]]

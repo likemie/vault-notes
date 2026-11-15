@@ -12,10 +12,10 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 38
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 40
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1967"
 died: ""
 lifespan: "1967–至今"
@@ -36,9 +36,11 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[Soft Belief]]"
   - "[[Epistemology]]"
+  - "[[Alienation]]"
   - "[[Edge Autonomy]]"
   - "[[Consumer Internet]]"
   - "[[Paradigm]]"
+  - "[[Mimesis]]"
   - "[[Innovation Desert]]"
   - "[[Flocking Behavior]]"
   - "[[Meeting-Industrial Complex]]"
@@ -105,7 +107,7 @@ updated: 2026-11-15
 ---
 
 > [!thought-timeline] 思想发展
-> - **1990s–2002 — 批判社会理论与法兰克福学派训练阶段** 深入研读社会学、政治哲学与[[Epistemology|认识论]]，在[[Jürgen Habermas|哈贝马斯]]指导下反思现代性、合理化与官僚异化问题。
+> - **1990s–2002 — 批判社会理论与法兰克福学派训练阶段** 深入研读社会学、政治哲学与[[Epistemology|认识论]]，在[[Jürgen Habermas|哈贝马斯]]指导下反思现代性、合理化与官僚[[Alienation|异化]]问题。
 >   - **代表成果** 法兰克福大学博士研究（关于侵略性与社会理论中的生活世界）。
 >   - **关键概念／方法** [[Critical Theory|批判理论]]、现代性反思、交往理性。
 >   - **阶段转向** 从纯粹欧陆哲学与社会批判转向具体的法律制度与高科技产业实践。
@@ -125,7 +127,7 @@ updated: 2026-11-15
 ---
 
 > [!claim] 核心思想
-> 现代西方民主政体的存续与地缘战略优势根本上依赖于前沿科技与国家防务的深度融合。科技企业必须走出狭隘的纯商业中立幻象与衍生性模仿，主动承担捍卫母国与民主制度的公共使命；同时，公共治理体系必须全面吸纳硅谷在软件实践中形成的[[Engineering Mindset|工程思维]]——以物理运行结果为唯一裁判、视现实为流动云团的“极致狐狸”概率认知、自底向上的边缘赋权与免责式多层根因复盘，彻底破除各领域的[[Innovation Desert|创新荒漠]]，以切实的技术供给效能重塑政权合法性（pp. 3–15, 109–167）。
+> 现代西方民主政体的存续与地缘战略优势根本上依赖于前沿科技与国家防务的深度融合。科技企业必须走出狭隘的纯商业中立幻象与衍生性[[Mimesis|模仿]]，主动承担捍卫母国与民主制度的公共使命；同时，公共治理体系必须全面吸纳硅谷在软件实践中形成的[[Engineering Mindset|工程思维]]——以物理运行结果为唯一裁判、视现实为流动云团的“极致狐狸”概率认知、自底向上的边缘赋权与免责式多层根因复盘，彻底破除各领域的[[Innovation Desert|创新荒漠]]，以切实的技术供给效能重塑政权合法性（pp. 3–15, 109–167）。
 
 > [!feature] 工程组织与治理机制四大支柱
 > - **生物自组织同构** 将研发团队塑造为去中心化的蜜蜂蜂群与[[Flocking Behavior|椋鸟群飞]]形态，废除副总裁层级卡扣，将感知与决断权全面下放给直接面对真实世界的一线工程师。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 119–121)]]

@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: poland
 person_region: "poland"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Enlightenment]]"
   - "[[Lifelong Learning]]"
+  - "[[Alienation]]"
   - "[[Creativity]]"
   - "[[Critical Thinking Disposition]]"
   - "[[National Character]]"
@@ -45,7 +46,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -56,7 +57,7 @@ updated: 2026-10-30
 > - **代表贡献**
 >   - **捍卫欧洲比较教育的哲学理想主义维度** 抵御冷战极化思维与早期[[Empiricism|经验主义]]浅层化倾向，将比较教育牢固奠基于欧洲自文艺复兴与[[Enlightenment|启蒙运动]]以来的文化哲学与精神史基础之上。
 >   - **开创马克思主义人文主义教育哲学** 突破传统教条斯大林主义教育学的狭隘框架，将历史唯物主义与人本主义文化哲学相融合，提出以人的全面发展、文化创造与自由个性为核心的教育哲学纲领。
->   - **奠基国际[[Lifelong Learning|终身教育]]理论体系** 深度参与 UNESCO 终身教育理论奠基，强调[[Lifelong Learning|终身学习]]本质上是抵抗现代工业文明异化、维系全生命周期文化教化的解放力量。
+>   - **奠基国际[[Lifelong Learning|终身教育]]理论体系** 深度参与 UNESCO 终身教育理论奠基，强调[[Lifelong Learning|终身学习]]本质上是抵抗现代工业文明[[Alienation|异化]]、维系全生命周期文化教化的解放力量。
 
 > [!citation-card] 坚守欧洲维度历史哲学的三大师之一
 > 战后时期，尼古拉斯·汉斯、弗里德里希·施奈德与博格丹·苏霍多尔斯基构成了欧洲比较教育的三位大师，他们共同维系了比较教育中充满历史与哲学理想主义的‘欧洲维度’，坚决抵御了纯粹技术官僚主义的简化倾向。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]

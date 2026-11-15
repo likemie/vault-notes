@@ -8,7 +8,7 @@ aliases:
 summary: "围绕学生差异动态调整教学进度、内容难度与支架强度的微观教学组织形式。元分析显示其孤立效应微弱，其实质成效高度依赖教师认知结构的持续在场与小班额等组织条件的交互支撑；在跨国教育治理中亦被提炼为兼顾卓越与公平的可移植政策处方（Grek, 2009）。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -23,6 +23,7 @@ tags:
   - eef
 related_concepts:
   - "[[Scaffolding]]"
+  - "[[Alienation]]"
   - "[[Critical Pedagogy]]"
   - "[[Class Size]]"
   - "[[Heterogeneity]]"
@@ -86,7 +87,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -94,7 +95,7 @@ updated: 2026-11-11
 > [!def] Individualised Instruction
 > **个别化教学（Individualised Instruction）** 指教师根据学生在先验知识、学习节奏、认知风格及支持需求等方面的个体差异，在教学内容、推进速度、任务难度、支持方式或学习路径上作出针对性调整的微观教学组织过程。其核心实践命题体现为“教师如何在复杂差异面前精准搭设与动态调整[[Scaffolding|认知支架]]”（[[Argument_Laursen_2015_Paideia|Laursen, 2015, p. 38]]）。
 >
-> 在比较教育与教学论语境中，英语世界的 individualised instruction 经常与北欧教育学体系中的“教学差异化”（undervisningsdifferentiering）相互参照。[[Critical Pedagogy|批判教学论]]指出，个别化教学不能被简单降格为孤立的微观技巧或软件人机交互，其实质成效深度镶嵌在学校[[Class Size|班级规模]]、教师专业发展以及即时形成性诊断等生态系统之中。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 102–103)]]
+> 在比较教育与教学论语境中，英语世界的 individualised instruction 经常与北欧教育学体系中的“教学差[[Alienation|异化]]”（undervisningsdifferentiering）相互参照。[[Critical Pedagogy|批判教学论]]指出，个别化教学不能被简单降格为孤立的微观技巧或软件人机交互，其实质成效深度镶嵌在学校[[Class Size|班级规模]]、教师专业发展以及即时形成性诊断等生态系统之中。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 102–103)]]
 >
 > 在当代全球教育治理中，个别化教学进一步被超国家机构包装为可跨国借用的“优质均衡政策配方”；例如[[EU|欧盟]]委员会借助“同伴学习活动”向成员国推广芬兰综合学校针对学业落后儿童的早期个别化支持机制，将其视作化解学业分化与实现无分流教育卓越的关键治理工具。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 33)]]
 

@@ -8,7 +8,7 @@ aliases:
 summary: "在生成式人工智能大幅降低假说提出与文章撰写成本背景下提出的科研认识论与治理标准；主张从过度奖励首发与篇数的旧范式，转向生成与核验等规模协同扩建，通过原始数据全量开源、计算算法机器沙盒隔离复现、形式化数学定理证明及设立专职证伪复现奖金，筑牢真实可复现的科学基底。"
 type: concept
 domain: "science-policy"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Dynamic Research Notebook]]"
   - "[[Publication Bias]]"
   - "[[Scientific Paradigm]]"
+  - "[[Alienation]]"
   - "[[Early-Career Researchers]]"
   - "[[Document]]"
   - "[[Replication in Education Research]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -96,7 +97,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题三｜践行黄金标准科学要求重构学术资助组合，建立对[[Falsification|证伪]]与独立复现的制度化物质奖励
-> **机制设计与反向激励** 论证如何通过设立专职复现基金打破只奖首发的古德哈特异化。
+> **机制设计与反向激励** 论证如何通过设立专职复现基金打破只奖首发的古德哈特[[Alienation|异化]]。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
 > **[[Falsification|证伪]]激励制度化假说** 在既有体制下，[[Early-Career Researchers|青年学者]]花费数年复核他人文章不仅无法获得终身教职，还会因得罪学界权威而遭遇报复。黄金标准科学主张将国家科研经费的 5%–10% 刚性切块用于“复现与证伪基金”，对成功证伪伪科学结论的团队给予与原始发现者等同的学术声誉和资金重奖，在制度上消灭学术作恶的侥幸空间。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 66, 86)]]

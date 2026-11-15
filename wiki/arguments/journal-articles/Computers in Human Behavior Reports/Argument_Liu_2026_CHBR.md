@@ -7,7 +7,7 @@ title: "Argument_Liu_2026_CHBR"
 argument_key: "Argument_Liu_2026_CHBR"
 argument_display_title: "Meta-analysis on the influence of AI agents on K-12 student cognitive performance"
 argument_kind: "journal-article"
-argument_related_count: 72
+argument_related_count: 73
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Scaffolding]]"
   - "[[Heterogeneity]]"
+  - "[[Alienation]]"
   - "[[Construct]]"
   - "[[Computational Thinking]]"
   - "[[Creativity]]"
@@ -115,7 +116,7 @@ tags:
   - method/meta-analysis
   - method/quantitative
 created: 2026-08-25
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 ---
 
@@ -142,7 +143,7 @@ updated: 2026-11-11
 > | **建构主义学习框架**<br>[[Cognitive Constructivism\|Constructivist Learning Framework]] | 强调学习是学习者在交互中主动建构意义的过程。AI 智能体提供多模态交互环境与探究空间，支持反思与策略演练。 |
 
 > [!warrant]- 理论如何支撑论证
-> 支架理论与[[Constructivist Paradigm\|建构主义]]解释了为什么 AI 智能体区别于传统静态教学软件：其主动感知输入并实时自适应调整反馈的特性，直接构成了学习者的外部[[Scaffolding\|认知脚手架]]；[[Jean Piaget\|皮亚杰]]发展阶段论合理解释了高小学段（具体向形式运算过渡期）对自适应支架的最强敏感度；布鲁姆分类学则为分解[[Heterogeneity\|异质性]]提供了理论坐标，使得[[Meta-analysis\|元分析]]能够超越技术整体是否有效的粗糙提问，精确揭示出技术在不同认知加工层级上的差异化机制；认知负荷理论则进一步说明了[[Procedural Skill\|程序技能]]练习在人机自适应环境中最易获得稳定增益的心理学机理。
+> 支架理论与[[Constructivist Paradigm\|建构主义]]解释了为什么 AI 智能体区别于传统静态教学软件：其主动感知输入并实时自适应调整反馈的特性，直接构成了学习者的外部[[Scaffolding\|认知脚手架]]；[[Jean Piaget\|皮亚杰]]发展阶段论合理解释了高小学段（具体向形式运算过渡期）对自适应支架的最强敏感度；布鲁姆分类学则为分解[[Heterogeneity\|异质性]]提供了理论坐标，使得[[Meta-analysis\|元分析]]能够超越技术整体是否有效的粗糙提问，精确揭示出技术在不同认知加工层级上的差[[Alienation|异化]]机制；认知负荷理论则进一步说明了[[Procedural Skill\|程序技能]]练习在人机自适应环境中最易获得稳定增益的心理学机理。
 
 ---
 

@@ -11,7 +11,7 @@ aliases:
 summary: "20世纪80年代荷兰高教改革确立的公共治理范式，指政府放弃传统事前命令控制，转向扩大学校自治、以事后质量评估为反馈调节的间接调控模式；在当代教育治理中，经合组织与各主权国家将远程调控转化为以跨国比较绩效、国际基准与基于测验的问责工具，作为统驭碎片化多层教育系统的制度机制。"
 type: concept
 domain: "higher-education"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[National Large-Scale Assessments]]"
   - "[[Test-Based Accountability]]"
   - "[[Academic Achievement]]"
+  - "[[Alienation]]"
   - "[[Pillarization]]"
   - "[[Open-Mindedness]]"
   - "[[Variable]]"
@@ -78,7 +79,7 @@ related_methods:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -185,7 +186,7 @@ updated: 2026-11-03
 > **政策工具化与国家治理现代化维度** 探讨国家在面临分权化与网络化碎片治理困境时，如何通过标准化测验与绩效问责工具重建远程统驭权。
 
 > [!claim] [[Argument_Verger_2019_Discourse|Verger et al. (2019)]]; Neave (1998); Maroy (2009)
-> **规制与评估工具作为多层系统的远程调控载体** 安东尼·维格等指出，近几十年来各国公共教育治理普遍经历权力下放、自主权扩张与多层网络分化；面对日益碎片化和多层级的教育系统，主权国家在分权背景下转向开发学习标准、[[National Large-Scale Assessments|国家大规模评估]]与[[Test-Based Accountability|基于测验的问责制]]等规制性与评估性政策工具。依据评价国家（Evaluative State）与政策工具理论，评估工具超越了纯粹中立的技术外观，构成国家实施远程调控（steering at a distance）的核心制度载体；通过由国家集中设定绩效标准、全员监测[[Academic Achievement|学业表现]]并挂钩差异化制裁，中央政府得以在保持形式放权的同时，重新确立起对基础教育体系的战略调控与规制统驭权。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 248–250)]]
+> **规制与评估工具作为多层系统的远程调控载体** 安东尼·维格等指出，近几十年来各国公共教育治理普遍经历权力下放、自主权扩张与多层网络分化；面对日益碎片化和多层级的教育系统，主权国家在分权背景下转向开发学习标准、[[National Large-Scale Assessments|国家大规模评估]]与[[Test-Based Accountability|基于测验的问责制]]等规制性与评估性政策工具。依据评价国家（Evaluative State）与政策工具理论，评估工具超越了纯粹中立的技术外观，构成国家实施远程调控（steering at a distance）的核心制度载体；通过由国家集中设定绩效标准、全员监测[[Academic Achievement|学业表现]]并挂钩差[[Alienation|异化]]制裁，中央政府得以在保持形式放权的同时，重新确立起对基础教育体系的战略调控与规制统驭权。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 248–250)]]
 
 ---
 

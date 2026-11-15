@@ -10,7 +10,7 @@ aliases:
 summary: "Fred Block（2008）与 Christopher Ansell（2000）提出的科技创新政治经济学理论，指区别于东亚集权科层发展型国家与英美放任规制国家的全新国家形态，强调国家通过分布式、去中心化的联邦机构网络与产学研多方协同促进颠覆性创新。Fuchs（2010）在此基础上提出批判性修正，证明国家公共代理人超越消极中介撮合，通过嵌入型网络治理主动引导国家战略技术轨道。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 51
+theory_related_count: 53
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Boundary Spanner]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Vertical Disintegration]]"
+  - "[[Mimesis]]"
   - "[[Seed Funding]]"
   - "[[Multi-Project Wafer]]"
   - "[[Structural Holes]]"
@@ -49,6 +50,7 @@ related_concepts:
   - "[[Apprenticeship]]"
   - "[[Research Universities]]"
   - "[[Heterogeneity]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Pasteur's Quadrant]]"
@@ -81,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -127,7 +129,7 @@ updated: 2026-11-11
 ---
 
 > [!theory-proposition] 命题一｜后工业技术创新依赖分布式网络而非集中指令
-> 在后工业[[Knowledge-Based Economy|知识经济]]与高度[[Vertical Disintegration|纵向离散]]的产业生态中，技术创新大多属于未有先例的“从 0 到 1”突破（如新型生物制剂、复杂算法与微系统器件），二战后东亚依靠集中计划部委（如日本[[Ministry of International Trade and Industry|通产省]] MITI）由上至下模仿追赶与指定龙头企业的科层发展型国家（DBS）模式不再适用。发展型网络国家摒弃了中央集中决策的弊端，将战略研判权分散授予贴近科研前沿的各专业机构（[[DARPA]]、[[National Institutes of Health|NIH]]、[[National Science Foundation|NSF]]、[[Department of Energy|DOE]]、NIST 等）。各机构拥有独立的资助逻辑与使命，既避免了“把所有鸡蛋放在一个篮子里”的单点决策失误，又通过密集的产学研互动自下而上捕捉前沿技术异动。[[Argument_Block_2008_PS|(Block, 2008, pp. 171–176)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1134)]]
+> 在后工业[[Knowledge-Based Economy|知识经济]]与高度[[Vertical Disintegration|纵向离散]]的产业生态中，技术创新大多属于未有先例的“从 0 到 1”突破（如新型生物制剂、复杂算法与微系统器件），二战后东亚依靠集中计划部委（如日本[[Ministry of International Trade and Industry|通产省]] MITI）由上至下[[Mimesis|模仿]]追赶与指定龙头企业的科层发展型国家（DBS）模式不再适用。发展型网络国家摒弃了中央集中决策的弊端，将战略研判权分散授予贴近科研前沿的各专业机构（[[DARPA]]、[[National Institutes of Health|NIH]]、[[National Science Foundation|NSF]]、[[Department of Energy|DOE]]、NIST 等）。各机构拥有独立的资助逻辑与使命，既避免了“把所有鸡蛋放在一个篮子里”的单点决策失误，又通过密集的产学研互动自下而上捕捉前沿技术异动。[[Argument_Block_2008_PS|(Block, 2008, pp. 171–176)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1134)]]
 
 > [!example|notitle]
 > 美国在应对 1980 年代日本半导体与制造挑战时，并未成立中央经济企划部委，而是依托 DARPA 战略计算计划、[[Sematech]] 研发联盟、[[National Science Foundation|NSF]] [[Engineering Research Centers|工程研究中心]]（ERC）与 [[SBIR and STTR Programs|SBIR]] [[Seed Funding|种子资助]]网络，成功夺回微处理器与信息技术主导权。
@@ -237,7 +239,7 @@ updated: 2026-11-11
 > > 弗雷德·布洛克指出，由于在[[Market Fundamentalism|市场原教旨主义]]阴影下以“隐形”形态野蛮生长，美国 DNS 存在五大内在体制缺陷：
 > > - **民主合法性赤字与大尺度战略统筹瘫痪** 缺乏公开民主审议与公众发声渠道，导致大范围系统级基础设施（如全国高速宽带网络）无法获得战略性公共注资。[[Argument_Block_2008_PS|(Block, 2008, pp. 193–195)]]
 > > - **公帑资助与私人暴利脱节** 纳税人承担高风险早期研发成本，但商业化暴利完全被私营股东垄断（如紫杉醇抗癌药研发 NIH 仅获 3500 万美元版税，而联邦医疗保险 Medicare 单独支付了逾 5 亿美元），严重缺乏公共收益回流机制。[[Argument_Block_2008_PS|(Block, 2008, pp. 195–196)]]
-> > - **知识过度商品化阻断跨界合作** 激进的排他性专利垄断将知识异化为普通商品，导致产学研各方因防范知识被掠夺而不敢开展深度跨机构合作。[[Argument_Block_2008_PS|(Block, 2008, pp. 196–198)]]
+> > - **知识过度商品化阻断跨界合作** 激进的排他性专利垄断将知识[[Alienation|异化]]为普通商品，导致产学研各方因防范知识被掠夺而不敢开展深度跨机构合作。[[Argument_Block_2008_PS|(Block, 2008, pp. 196–198)]]
 > > - **系统性评估与自我纠偏机制匮乏** 政治敌意迫使各机构隐瞒失败、夸大成功案例，导致国家创新网络缺乏严谨客观的事后复盘与学习能力。[[Argument_Block_2008_PS|(Block, 2008, pp. 198–199)]]
 > > - **劳工技能与制造业基础遭漠视** 新自由主义“低技能劳动力路径”导致高科技生产线工人技能脱节、薪资停滞与工会弱化，削弱了尖端技术在本土规模化制造的根基。[[Argument_Block_2008_PS|(Block, 2008, pp. 199–200)]]
 >

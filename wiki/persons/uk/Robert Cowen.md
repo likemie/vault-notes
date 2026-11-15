@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 56
+person_related_count: 57
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Educated Identity]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Disciplinary Institutionalization]]"
+  - "[[Alienation]]"
   - "[[Technical Rationality]]"
   - "[[Discourse]]"
   - "[[Scientific Method]]"
@@ -87,7 +88,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-08
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -109,7 +110,7 @@ updated: 2026-11-11
 
 > [!thought-timeline] 思想发展阶段
 > - **1994 — 方法论拜物教与文化去政治化批判阶段**
->   反思战后比较教育学[[Disciplinary Institutionalization|学科建制]]的异化，批判[[Technical Rationality|技术理性]]对深层文化历史反思的遮蔽。
+>   反思战后比较教育学[[Disciplinary Institutionalization|学科建制]]的[[Alienation|异化]]，批判[[Technical Rationality|技术理性]]对深层文化历史反思的遮蔽。
 >   - **代表著作** *Comparative education and the world system: reflections on the 1960s and 1980s* (1994)。（引自 [[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 344–345]]）
 >   - **关键概念** 方法论拜物教（Methodological Fetishism）、文化去政治化、借贷善行迷思。
 >   - **阶段转向** 尖锐指出 20 世纪五六十年代是比较教育极度匮乏理论思考的贫困时期，“所谓的理论化实际上只是强硬方法论[[Discourse|话语]]与流派的建构”；文化议题被矮化从属于实证[[Scientific Method|科学方法]]；盲信“作为贷方是善行、只要有资金和优质咨询借用便无甚危险”，与国际组织的技术官僚扩张形成合谋。

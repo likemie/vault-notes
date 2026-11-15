@@ -12,7 +12,7 @@ aliases:
 summary: "比较教育学核心认识论概念，批判将背景视为静态地理疆域或既定制度容器的传统小写背景观，主张将背景理解为由跨国话语、知识证据、专家网络与本土合法化需求相互装配而动态生成的大写背景"
 type: concept
 domain: "comparative-education"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Methodological Nationalism]]"
   - "[[Policy Borrowing]]"
+  - "[[Alienation]]"
   - "[[Document]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Politics of Knowledge]]"
@@ -62,7 +63,7 @@ tags:
   - theme/assemblage
   - method/comparative-policy-analysis
 created: 2026-11-09
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -122,7 +123,7 @@ updated: 2026-11-11
 
 ---
 
-> [!concept-proposition] 命题二｜全球技能话语在差异化国家背景中达成隐秘趋同
+> [!concept-proposition] 命题二｜全球技能话语在差[[Alienation|异化]]国家背景中达成隐秘趋同
 > **差异化合法化诉求下的全球趋同** 揭示即使声称完全立足本土独特国情的国家改革，亦在深层机制上受到跨国技能话语的塑形与整合。
 
 > [!claim] [[Argument_Volmari_2025_CE|Volmari et al. (2025)]]

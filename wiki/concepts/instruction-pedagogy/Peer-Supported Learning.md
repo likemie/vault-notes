@@ -12,7 +12,7 @@ aliases:
 summary: "涵盖学生间协同探究与教师间教研协作的双层互助学习范式；在学生层面通过认知外显与包容试错促进深度理解，在教师层面依托教研室信任文化与经验共享维系专业共同体，构成抵御新自由主义绩效工资零和竞争侵蚀的核心屏障。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 41
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Learning Virtues]]"
   - "[[Humility]]"
   - "[[Effective Teaching]]"
+  - "[[Alienation]]"
   - "[[New Public Management]]"
   - "[[Performance Pay]]"
   - "[[Side Effects]]"
@@ -49,6 +50,7 @@ related_concepts:
   - "[[Teacher Trust]]"
   - "[[Professional Learning Community]]"
   - "[[Scaffolding]]"
+  - "[[Mimesis]]"
   - "[[Cooperative Integrated Reading and Composition]]"
   - "[[Benevolence]]"
   - "[[Chain of Evidence]]"
@@ -75,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -87,7 +89,7 @@ updated: 2026-11-14
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示学习过程具有本质的社会性与关系性，无论是儿童认知发展还是教师专业成长，均深度依赖于去阶层化、充满心理安全感的人际对话网络。
-> - **用途** 用于指导差异化课堂小组合作、课代表与小先生制度设计，并作为反思学校组织气候、评估[[New Public Management|新公共管理]]（NPM）[[Performance Pay|绩效工资]]政策[[Side Effects|副作用]]的批判透镜。
+> - **用途** 用于指导差[[Alienation|异化]]课堂小组合作、课代表与小先生制度设计，并作为反思学校组织气候、评估[[New Public Management|新公共管理]]（NPM）[[Performance Pay|绩效工资]]政策[[Side Effects|副作用]]的批判透镜。
 > - **边界** 严格区别于无结构的放任小组闲聊，亦区别于外部行政强推的表面教研听课走过场；真正的同伴互助以**平权互信**与**包容错误（tolerance of errors as learning opportunities）** 为[[Ontology|本体论]]前提。
 
 > [!boundary]- 概念边界
@@ -153,7 +155,7 @@ updated: 2026-11-14
 > > [!axis] 自发美德互助 vs 结构化规程约束
 > > 探讨学生同伴互助应当依靠崇高的道德风尚自发生成，还是必须通过严密的[[Scaffolding|脚手架]]规程保障实效。
 > >
-> > - **文化美德论（[[Argument_Li_2012_Cambridge|Li, 2012]]）** 强调深层的社会文化认同（同学同道、[[Humility|谦逊]]受教）是支撑长期无偿帮扶的核心精神动力，脱离文化土壤的机械模仿极易变形。
+> > - **文化美德论（[[Argument_Li_2012_Cambridge|Li, 2012]]）** 强调深层的社会文化认同（同学同道、[[Humility|谦逊]]受教）是支撑长期无偿帮扶的核心精神动力，脱离文化土壤的机械[[Mimesis|模仿]]极易变形。
 > > - **技术规程论（Slavin）** 指出仅有道德热情无法保证认知效果，必须通过结构化合作阅读写作（[[Cooperative Integrated Reading and Composition|CIRC]]）等成套程序，明确个体责任与小组奖励，防止南辕北辙。
 >
 > > [!axis] 专业信任同伴文化 vs 外部量化绩效竞争

@@ -9,7 +9,7 @@ subtype: program
 region: multi
 fact_region: "multi"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ tags:
   - theme/infrastructure
   - theme/south-south-cooperation
 related_concepts:
+  - "[[Alienation]]"
   - "[[Early-Career Researchers]]"
   - "[[Regional Innovation System]]"
   - "[[Document]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -58,7 +59,7 @@ updated: 2026-11-11
 > - **立项时间 / 周期** 2017年5月在印度甘地讷格尔召开的第52届非洲开发银行（African Development Bank, AfDB）年会上正式发布联合愿景文件，目前处于构想停滞状态。[[Argument_King_2020_ECNUROE|(King, 2020, p. 232)]]
 > - **发起方与资助机制** 由印度外交部与日本外务省共同发起，依托日本国际协力机构（JICA）及印度海外援助资金构想开展配比资助，同时引导私营资本参与。
 > - **覆盖范围与对象** 辐射非洲东部与大湖区、印度次大陆以及[[ASEAN|东盟]]相关沿海经济体，重点聚焦港口物流、绿色能源与数字化合作。
-> - **核心问题导向** 旨在回应非洲基础设施滞后与产业技术瓶颈，通过强调环境社会标准、透明度与财政可持续性，提供差异化的多边合作构想。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 232–233)]]
+> - **核心问题导向** 旨在回应非洲基础设施滞后与产业技术瓶颈，通过强调环境社会标准、透明度与财政可持续性，提供差[[Alienation|异化]]的多边合作构想。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 232–233)]]
 
 ---
 

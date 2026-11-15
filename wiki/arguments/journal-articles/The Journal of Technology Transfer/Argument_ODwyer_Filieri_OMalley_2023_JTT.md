@@ -7,7 +7,7 @@ title: "Argument_ODwyer_Filieri_OMalley_2023_JTT"
 argument_key: "Argument_ODwyer_Filieri_OMalley_2023_JTT"
 argument_display_title: "Establishing successful university–industry collaborations: barriers and enablers deconstructed"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ tags:
   - source/journal-article
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Alienation]]"
   - "[[Academic Engagement]]"
   - "[[Document]]"
   - "[[Theoretical Perspective]]"
@@ -54,7 +55,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-10
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 ---
 > [!question]
@@ -71,7 +72,7 @@ updated: 2026-10-30
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **演化视角**<br>Evolutionary Perspective | 将[[University-Industry Collaboration\|产学合作]]视为随时间演化的动态过程，而非静态状态 |
-> | **[[UIC Evolutionary Phases]]**<br>产学合作演化四阶段 | 胚胎期、启动期、参与期、确立期，每阶段有三组界面（产业-产业、产业-大学、大学-大学）的差异化障碍和促进因素 |
+> | **[[UIC Evolutionary Phases]]**<br>产学合作演化四阶段 | 胚胎期、启动期、参与期、确立期，每阶段有三组界面（产业-产业、产业-大学、大学-大学）的差[[Alienation\|异化]]障碍和促进因素 |
 > | **[[Social Capital Theory\|社会资本理论]]**<br>Social Capital Theory | 解释信任（声誉基础 vs 诚信基础）、凝聚性和互惠性在合作演化中的角色变化 |
 
 ---

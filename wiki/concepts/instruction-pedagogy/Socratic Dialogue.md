@@ -10,10 +10,10 @@ aliases:
 summary: "以连续提问、澄清假设、呈现反例与暴露认知矛盾为核心的启发式教学对话策略，在哲学思辨与理科探究中作为关键言语支架促进概念重构与批判性思维发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - theme/instructional-strategy
   - theme/critical-thinking
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Epistemic Agency]]"
   - "[[Alternative Hypothesis]]"
   - "[[Meaningful Human Control]]"
+  - "[[Alienation]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Operationalization]]"
   - "[[Epistemic Deference]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -164,7 +165,7 @@ updated: 2026-11-03
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **批判思维促进** | 连续追问澄清假设与激活元认知监控 | 批判性思维训练、论辩与哲学研讨 | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] |
-> | **心理契约保障** | 心理安全与平等支持防止对话异化为审问 | 班级研讨、质性探究与师生日常互动 | [[Argument_Darwish_2009_Queens\|Darwish (2009)]] |
+> | **心理契约保障** | 心理安全与平等支持防止对话[[Alienation\|异化]]为审问 | 班级研讨、质性探究与师生日常互动 | [[Argument_Darwish_2009_Queens\|Darwish (2009)]] |
 > | **探究概念重构** | 作为言语支架引导证据协调并破除物理迷思 | 理科探究教学、[[Inquiry-Based Learning\|探究式学习]]与概念转变 | McDermott et al. (1996); [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] |
 > | **对抗质询安全** | 利用大模型苏格拉底追问注入认识论摩擦以破除形式化顺从与自动化偏差 | 安全关键人机协同决策、高风险医疗/司法研判、高阶人机探究学习 | Xi et al. (2026); [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]] |
 

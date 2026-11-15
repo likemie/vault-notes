@@ -12,7 +12,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Communities of Practice]]"
   - "[[Social-Emotional Learning]]"
   - "[[Document]]"
+  - "[[Alienation]]"
   - "[[Heterogeneity]]"
   - "[[Recontextualization]]"
   - "[[OECD-fication]]"
@@ -128,7 +129,7 @@ updated: 2026-11-15
 
 > [!debates] 核心争议
 >
-> > [!axis] 学校化倾向与童年生态工具主义异化
+> > [!axis] 学校化倾向与童年生态工具主义[[Alienation|异化]]
 > > 批判学者指责项目将学前教育视为初等教育的备战工坊，过早植入学业竞争与绩效评估。
 > >
 > > - **批判学者** 指出 Starting Strong 系列在人力资本理论主导下，倾向于将早期幼儿阶段工具化为未来劳动力竞争力的预备期，加剧了幼儿园“小学化”（Schoolification）倾向，压缩了自由游戏与自然成长的空间。

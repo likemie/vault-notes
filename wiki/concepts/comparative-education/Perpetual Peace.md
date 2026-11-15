@@ -9,7 +9,7 @@ aliases:
 summary: "源自康德哲学与启蒙国际主义的规范性政治与教育构想，主张通过普遍理性觉醒、共和立宪法权与跨国制度协作消除野蛮战争状态；在比较教育学中构成了人道主义与世界公民教化的奠基性伦理动因，在当代地缘战略中则遭遇现实主义批判——警示单方面去武力化无法换取永久和平，缺乏可信威慑与硬实力的和平主义幻觉反将加剧国际安全秩序的脆弱性。"
 type: concept
 domain: "comparative-education"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[AI Deterrence]]"
   - "[[Technological Republic]]"
   - "[[International Education]]"
+  - "[[Alienation]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Path Dependence]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-06
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -197,7 +198,7 @@ updated: 2026-11-14
 >
 > > [!axis] 普世道德激情 vs 传教干涉主义与[[Hegemony|文化霸权]]风险
 > > 怀特（Wight, 1992）敏锐指出[[Immanuel Kant|康德]][[Revolutionism|革命主义]]传统带有强烈的“传教性质（missionary character）”。
-> > - 批评学者指出，若将某种特定文明的“和平与启蒙标准”自封为普世真理，并将世界二分为“文明与野蛮”，极易在历史上异化为殖民扩张、武力干涉与西方文化霸权的道义掩护。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 418–419)]]
+> > - 批评学者指出，若将某种特定文明的“和平与启蒙标准”自封为普世真理，并将世界二分为“文明与野蛮”，极易在历史上[[Alienation|异化]]为殖民扩张、武力干涉与西方文化霸权的道义掩护。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 418–419)]]
 >
 > > [!axis] 绝对和平主义去武力化 vs 现实主义算法[[Hard Power|硬实力]]威慑
 > > 当代地缘战略学者针对冷战后西方的和平自满展开批判。

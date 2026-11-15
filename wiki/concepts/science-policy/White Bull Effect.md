@@ -14,7 +14,7 @@ aliases:
 summary: "科学社会学与科研伦理学中指称资深学术权威利用雇佣依附与科层权力不对称，强迫或诱导青年科研人员让渡第一排位或通讯署名权的学术剥削机制；与基于人际情面或声望互换的赠予署名不同，白牛效应具有明显的等级胁迫性与成果寄生特征，直接剥夺青年学者的首创学术归属。"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Early-Career Researchers]]"
   - "[[Guest Authorship]]"
   - "[[Ghost Authorship]]"
+  - "[[Alienation]]"
   - "[[Avatar]]"
   - "[[Creativity]]"
   - "[[Big Science]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-03
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -100,7 +101,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题一｜学术科层门阀依附是滋生署名剥削与寄生占有的制度温床
-> **层级权力不对称与学术成果掠夺** 考察高等教育机构导师负责制与PI中心制缺乏有效外部制衡时的异化机制。
+> **层级权力不对称与学术成果掠夺** 考察高等教育机构导师负责制与PI中心制缺乏有效外部制衡时的[[Alienation|异化]]机制。
 
 > [!claim] Kwok (2005)
 > **学术霸凌与出版寄生** 郭丽珊（Lai-Sang Kwok）以希腊神话中宙斯[[Avatar|化身]]白牛诱拐欧罗巴的典故，系统界定学术界权威学者利用资历优势蚕食下属科研成果的现象；这种寄生式合署直接构成了学术不端与伦理侵蚀，损害了科研信用体系。[[Argument_Haubrock_2026_NHB|(Kwok, 2005; Haubrock et al., 2026, p. 2)]]

@@ -10,7 +10,7 @@ aliases:
 summary: "打破按能力或社会阶层过早分流、在统一学校内向所有适龄学生提供相同或共通基础课程的教育组织原则；欧洲战后普遍通过综合化改革促进教育民主化与社会融合，但其实施过程中在追求形式平等与应对学生资质异质性之间持续面临张力。"
 type: concept
 domain: "comparative-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Tracking]]"
   - "[[Dual School System]]"
+  - "[[Alienation]]"
   - "[[Grade Retention]]"
   - "[[Professional Interest]]"
   - "[[Champ]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -72,7 +73,7 @@ updated: 2026-11-11
 > | 维度 | 综合教育（Comprehensive Education） | [[Tracking\|学力分轨（Tracking）]] | [[Dual School System\|双轨学制（Dual School System）]] |
 > |---|---|---|---|
 > | 分析对象 | 20 世纪民主化中等教育组织形态与一体化学校。 | 中等学校内部按学科成绩分配班级或课程的微观与中观分流机制。 | 19 世纪以阶层身份为基础的终点式平民学校与精英学术学校平行体系。 |
-> | 核心机制 | 统一课程大纲、混龄或混能力编班、延迟最终选拔时间点。 | 基于标准化测验或选拔考，按能力分层教学并配置差异化师资。 | 依据家庭出身与阶级壁垒，在初等教育起点即切断向大学升学的路径。 |
+> | 核心机制 | 统一课程大纲、混龄或混能力编班、延迟最终选拔时间点。 | 基于标准化测验或选拔考，按能力分层教学并配置差[[Alienation\|异化]]师资。 | 依据家庭出身与阶级壁垒，在初等教育起点即切断向大学升学的路径。 |
 > | 政策追求 | 社会融合、代际平等与抵制早期社会标签化。 | 教学效率匹配、英才选拔与因材施教。 | 统治精英再生产与劳动力阶层固化。 |
 
 > [!contrast-table] 欧洲主要国家中等综合学制模式横向对比

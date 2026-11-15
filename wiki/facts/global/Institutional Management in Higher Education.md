@@ -11,9 +11,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 29
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 period: "1969–2016"
 initiator_organization: "经合组织（OECD）"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
+  - "[[Alienation]]"
   - "[[Multiplist]]"
   - "[[Competitiveness]]"
   - "[[Steering at a Distance]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -137,7 +138,7 @@ updated: 2026-11-11
 > > [!axis] 大学学术自治 vs [[New Public Management|新公共管理]]绩效问责之争
 > > 传统洪堡式大学自治理念与现代企业型管理模式之间的深刻价值冲突。
 > >
-> > - **学术共同体自治立场** 许多传统人文学者与教师工会批评，IMHE 长期推广的管理主义工具过度强调经济效率、量化产出与行政集权，侵蚀了教授治学传统，导致学术职业出现严重的异化与工作焦虑。
+> > - **学术共同体自治立场** 许多传统人文学者与教师工会批评，IMHE 长期推广的管理主义工具过度强调经济效率、量化产出与行政集权，侵蚀了教授治学传统，导致学术职业出现严重的[[Alienation|异化]]与工作焦虑。
 > > - **现代管理主义立场** [[OECD|经合组织]]与大学管理者反驳，在巨额公共税收资助下，大学必须对公众与政府展现资金使用效益与社会贡献，专业化管理是维系高等教育可持续性的必然前提。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441, 447)]]
 >
 > > [!axis] 全球标准化治理 vs 本土高教生态多样性之争

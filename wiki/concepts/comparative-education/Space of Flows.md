@@ -5,7 +5,7 @@ aliases:
 summary: "Castells 提出的网络社会核心空间范畴，指允许社会实践在无需领土毗连的条件下同时发生的物质与电子网络安排；在全球教育治理中体现为由国际组织、跨国倡导网络与全球学术精英构成的去领土化政策空间，其通过操演性竞争生产高度抽象可塑的漂浮能指话语。"
 type: concept
 domain: "comparative-education"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Gatekeepers]]"
   - "[[Topological Spatialisation]]"
+  - "[[Alienation]]"
   - "[[Determinism]]"
   - "[[Nominalism]]"
 related_theories:
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-15
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -189,7 +190,7 @@ updated: 2026-11-11
 > > - **空间政治经济学者（Sassen, Castells）** 强调流动空间必须依托物理世界中高度集聚的“全球城市”与实体组织枢纽（如巴黎、华盛顿），空间是呈现出极端的地理不平等，有别于无摩擦。
 > 
 > > [!axis] 民主问责赤字与精英脱节
-> > 探讨流动空间中的决策是否导致严重的治理异化。
+> > 探讨流动空间中的决策是否导致严重的治理[[Alienation|异化]]。
 > > 
 > > - **批判学者** 指出流动空间内的国际组织官僚与咨询精英完全免受地方选民与一线教师的民主问责，其生产的“[[Floating Signifier|漂浮能指]]”政策对地方真实苦难高度冷漠。
 

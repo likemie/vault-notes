@@ -9,7 +9,7 @@ aliases:
 summary: "元科学与科技资助机制设计中的非共识突破型评审工具；赋予每位评审委员会专家一张具有绝对自由裁量权的“金券”，允许其在缺乏群体共识甚至遭遇广泛质疑的情况下，强行全额资助一项极具争议的高风险前沿提案，以制度化打破同行评议追求均值妥协的避险平庸化陷阱。"
 type: concept
 domain: "science-policy"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Metascience]]"
   - "[[Academic Risk Aversion]]"
   - "[[Paradigm]]"
+  - "[[Alienation]]"
   - "[[Portfolio-Based Research Funding]]"
   - "[[Reliability]]"
   - "[[Document]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -80,7 +81,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题一｜传统同行评议的均值打分机制必然导致风险厌恶与平庸妥协，系统性扼杀改变[[Paradigm|范式]]的颠覆性异端探索
-> **评价异化与非共识扼杀** 剖析多数共识原则为何在科学前沿探索中成为逆向淘汰的推手。
+> **评价[[Alienation|异化]]与非共识扼杀** 剖析多数共识原则为何在科学前沿探索中成为逆向淘汰的推手。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
 > **共识平庸化假说** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios）领衔的白宫科技战略报告论证指出，科学史上的重大革命（如量子力学、mRNA 疫苗与板快构造论）在诞生初期无一例外均遭到学术主流的强烈质疑。当国家科学基金（[[National Science Foundation|NSF]]）与国立卫生研究院（[[National Institutes of Health|NIH]]）将资助门槛设定为前 10% 的极高综合打分时，任何一个评委的防御性低分即可宣判项目死刑。这种打分机制促使科研人员自我审查并剔除一切激进设想，导致数十亿美元的公共预算全盘流向毫无争议但无足轻重的增量研究。报告指出，评审阶段评委打分分化最严重的争议项目，在十年后产出颠覆性成果（以引文及专利的 Top 1% 衡量）的概率显著高于全票高分共识项目。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26–28)]]

@@ -8,7 +8,7 @@ aliases:
 summary: "指单项科研成果署名学者数量极其庞大（通常达到数百乃至数千人）的合作署名模式，主要涌现于粒子物理学、天文学与基因组学等大科学实验工程。超署名反映了科学团队从泊松分布向幂律重尾分布的微观结构质变，亦对科研信用界定、个人问责与学术荣誉评价机制带来体制性冲击。"
 type: concept
 domain: "science-policy"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
   - theme/authorship-ethics
 related_concepts:
   - "[[Big Science]]"
+  - "[[Alienation]]"
   - "[[Assemblage]]"
   - "[[Emergence]]"
   - "[[Construct]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-30
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -53,7 +54,7 @@ updated: 2026-11-03
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向团队规模跨越常规合作极限、署名人数达到百人至数千人规模的组织生产与署名形态。
 > - **用途** 用于分析现代大科学工程的组织分工、核心与扩展团队演化机制以及学术贡献评价制度的适应性危机。
-> - **边界** 区别于常规的多人联合署名（数人至十数人），超署名伴随合署名单长度超越研究正文本身的结构异化。
+> - **边界** 区别于常规的多人联合署名（数人至十数人），超署名伴随合署名单长度超越研究正文本身的结构[[Alienation|异化]]。
 
 > [!citation-card|notitle] 超署名历史极值与形态质变
 > 2015 年发表的一项高能物理学代表作破纪录长达 33 页。然而只有 9 页呈现研究本身；其余 24 页全部用于列出合署学者及其隶属机构。[[CERN|欧洲核子研究中心]]在大型强子对撞机上运行 ATLAS 与 CMS 项目的团队通力合作，共有多达 5,154 位学者为该项发现作出贡献，创下历史上单篇研究论著署名人数最多的世界纪录。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, p. 124)]]

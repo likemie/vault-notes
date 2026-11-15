@@ -8,7 +8,7 @@ aliases:
 summary: "西方教育思想史上关于知识组织和传授的一对经典二元范式：disciplina 侧重既有知识的灌训与规训，doctrina 侧重知识的动态生产与开放更新。在当代超国家治理与循证教育中，跨国测评排位赛与新泰勒主义清单监控作为强有力的远处规训机制（disciplina），将教学活动窄化为数据合规，严重压制了教育的人文关系建构与批判性审议（doctrina）。"
 type: concept
 domain: "educational-philosophy"
-related_count: 58
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Neo-Taylorism]]"
+  - "[[Alienation]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Epochal Key Problems]]"
@@ -84,7 +85,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-06-22
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -94,7 +95,7 @@ updated: 2026-11-11
 
 > [!concept-lens] 概念透镜
 > - **含义** `disciplina` 指向知识被发现后在学科库中的积累、外部规训灌输与标准化控制；`doctrina` 指向知识系统的自我更新、探索研究与师生主体间的人文交往。
-> - **用途** 帮助研究者透视课程改革中的技能原子化退化现象，并诊断当代[[Evidence-Based Education|循证教育]]如何借助[[Neo-Taylorism|新泰勒主义]]管理工具与核查清单将教师异化为流水线操作工。
+> - **用途** 帮助研究者透视课程改革中的技能原子化退化现象，并诊断当代[[Evidence-Based Education|循证教育]]如何借助[[Neo-Taylorism|新泰勒主义]]管理工具与核查清单将教师[[Alienation|异化]]为流水线操作工。
 > - **边界** 它超越“传统教学 vs. 现代教学”的简单二分，指涉自中世纪大学诞生起便并存的两种互补又对立的知识建制取向。
 
 > [!citation-card] 沙法尔与沃尔夫论知识的静态沉积与动态更新

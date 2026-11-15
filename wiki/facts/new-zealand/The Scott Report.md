@@ -10,7 +10,7 @@ subtype: policy
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "policy"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Socioeconomic Status]]"
   - "[[Visible Learning]]"
   - "[[Academic Achievement]]"
+  - "[[Alienation]]"
   - "[[Peer-Supported Learning]]"
   - "[[Professional Judgment]]"
   - "[[Discourse]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-03
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -146,7 +147,7 @@ updated: 2026-11-02
 > > - **批判学者反驳与哈蒂澄清** [[Ivan Snook|斯努克]]等人指出部长的言论无视了 25 年来国际功绩工资的失败史（Murnane & Cohen, 1981）与《斯科特报告》关于测量工具缺失的定论；哈蒂本人亦在随后的论辩中退守，澄清其仅支持审慎探索基于同行评议的高阶专业水平认定，坚决否认支持简单计件式的绩效挂钩。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 103)]]; [[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 91–92)]]
 
 > [!lessons] 经验教训与启示
-> 1. **严禁在测量工具缺位时强行挂钩薪酬** 缺乏信效度检验的评价工具若直接与教师经济报酬绑定，必然诱发系统性投机、篡改数据与应试异化，严重破坏公立教育的育人初心。
+> 1. **严禁在测量工具缺位时强行挂钩薪酬** 缺乏信效度检验的评价工具若直接与教师经济报酬绑定，必然诱发系统性投机、篡改数据与应试[[Alienation|异化]]，严重破坏公立教育的育人初心。
 > 2. **警惕政策制定者的选择性历史失忆** 评估争议性政策方案时，必须回溯立法机关与专业学术界的历史调查文献，揭穿政客借“科学循证”之名行意识形态规训之实的修辞陷阱。
 > 3. **保护教研室的信任与合作生态** 教师专业成长依赖于开放分享、容许犯错与[[Peer-Supported Learning|同伴互助]]；将同事重构为争夺有限奖金池的竞争对手，是摧毁优质学校文化的制度毒药。
 

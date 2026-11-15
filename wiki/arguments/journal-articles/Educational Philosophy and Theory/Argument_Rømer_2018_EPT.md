@@ -33,6 +33,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Constructivist Paradigm]]"
   - "[[Paradigm]]"
+  - "[[Alienation]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Document]]"
   - "[[Academic Achievement]]"
@@ -50,6 +51,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Learner Autonomy]]"
   - "[[Reflexivity]]"
+  - "[[Judgment of Taste]]"
   - "[[Education as Initiation]]"
   - "[[Falsification]]"
   - "[[Central Phenomenon]]"
@@ -84,14 +86,14 @@ related_arguments:
   - "[[Argument_Qvortrup_2015_Paideia]]"
 status: completed
 created: '2026-05-03'
-updated: 2026-10-29
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Rømer_2018_EPT"
 argument_key: "Argument_Rømer_2018_EPT"
 argument_display_title: "A critique of John Hattie's theory of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 57
+argument_related_count: 59
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -162,7 +164,7 @@ journal: Educational Philosophy and Theory
 [[John Hattie|哈蒂]]将评价界定为对给定干预政策或项目目标达成程度的回溯性调查，这一设定要求目标、干预和评估必须割裂为互不交互的孤立实体。
 
 > [!def] 评价的概念界定与前提预设
-> 评价在传统上被界定为对给定干预政策或项目目标达成程度的回溯性调查。这一设定预设了目标、干预与评估三者必须区隔为互不交互的独立实体，从而使评价从教育后的反思机制，异化为定义教育本身的先验框架。
+> 评价在传统上被界定为对给定干预政策或项目目标达成程度的回溯性调查。这一设定预设了目标、干预与评估三者必须区隔为互不交互的独立实体，从而使评价从教育后的反思机制，[[Alienation|异化]]为定义教育本身的先验框架。
 
 这种评价[[Paradigm|范式]]强行将复杂的师生互动与文化承载还原为指标关系，导致教育传统在理论文本中全面退隐。
 
@@ -281,7 +283,7 @@ journal: Educational Philosophy and Theory
 > - **想象力维度（Imagination）**
 >   [[John Dewey|约翰·杜威]]指出经验由主动行动与被动承受（undergoing）共同构成；被动承纳即想象力运作的契机，使经验向外部环境的真实交往开放；哈蒂抽空外部环境，直接抹杀了想象力的根基。
 > - **判断力维度（Judgment）**
->   [[Immanuel Kant|康德]]与[[Hannah Arendt|阿伦特]]区分了决定性判断与[[Reflexivity|反思性]]判断，杜威区分了规范性法定判断与批判性审美判断；哈蒂因排斥被动性与想象力，将丰富的反思判断力降格为缺乏想象力的机械评价。
+>   [[Immanuel Kant|康德]]与[[Hannah Arendt|阿伦特]]区分了决定性判断与[[Reflexivity|反思性]]判断，杜威区分了规范性法定判断与批判性[[Judgment of Taste|审美判断]]；哈蒂因排斥被动性与想象力，将丰富的反思判断力降格为缺乏想象力的机械评价。
 
 > [!implication]- 哲学后果：西方教化传统的自我遗忘
 > 抽空外部环境、被动性与想象力，不仅使评价取代了审美与反思判断，更构成了西方教育传统自我遗忘的历史表征。

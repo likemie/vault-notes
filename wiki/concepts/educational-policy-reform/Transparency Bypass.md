@@ -8,7 +8,7 @@ aliases:
 summary: "教育治理与政策工具分析概念，指在中央或国家政府明确暂停、废除或拒绝编制公立学校表现排行榜之后，地方市政当局、大众传媒或市场倡导型智库利用公共行政透明度法案与信息公开规章合法调取原始评估数据，并在体制外自主编制和发布非官方学校排位表，使市场竞争与声誉问责得以变相存续的制度溢出机制。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Test-Based Accountability]]"
   - "[[Differentiated Instruction]]"
   - "[[National Large-Scale Assessments]]"
+  - "[[Alienation]]"
   - "[[Quasi-market]]"
   - "[[Analytical Stance]]"
 related_theories:
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -104,7 +105,7 @@ updated: 2026-11-11
 > **法律制度层面的交叉折射** 探讨公共行政领域的善治原则与教育领域的反标签化诉求在法理与实践中所产生的结构性张力。
 
 > [!claim] Simmonds, M. & Webb, P. T.
-> **透明度法律异化为市场规训通道** 旨在保障公民知情权与民主监督的普遍性信息自由法律，在遭遇追求[[School Choice|择校]]竞争的市场力量时，被策略性转换为获取学校考试分数的取数工具，架空了教育行政部门维护教育生态均衡的政策努力。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
+> **透明度法律[[Alienation|异化]]为市场规训通道** 旨在保障公民知情权与民主监督的普遍性信息自由法律，在遭遇追求[[School Choice|择校]]竞争的市场力量时，被策略性转换为获取学校考试分数的取数工具，架空了教育行政部门维护教育生态均衡的政策努力。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 
 ---
 

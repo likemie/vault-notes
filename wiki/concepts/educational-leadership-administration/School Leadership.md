@@ -6,7 +6,7 @@ aliases:
 summary: "围绕学校方向设定、人员发展、组织改进与信任建立展开的教育实践，在证据知情视域下依托榜样示范与制度化排程促成高质量研究使用与学校变革。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 58
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -18,6 +18,7 @@ tags:
   - metax
 related_concepts:
   - "[[Evidence-Informed Practice]]"
+  - "[[Alienation]]"
   - "[[New Public Management]]"
   - "[[Teacher Trust]]"
   - "[[Poor Research Use]]"
@@ -83,7 +84,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 > [!def] School Leadership
@@ -91,7 +92,7 @@ updated: 2026-11-11
 
 > [!concept-lens] 概念透镜
 > - **核心指向** 学校微观组织改进、人员发展、专业信任与证据转化的协同引领机制。
-> - **理论用途** 揭示学校领导者如何通过愿景引领、榜样示范与制度化排程打破教师职业孤岛与行政异化，理解教育改革在微观现场落地或受阻的组织动力学。
+> - **理论用途** 揭示学校领导者如何通过愿景引领、榜样示范与制度化排程打破教师职业孤岛与行政[[Alienation|异化]]，理解教育改革在微观现场落地或受阻的组织动力学。
 > - **适用边界** 坚决反对将学校领导力降格为去情境化的个人英雄主义叙事或[[New Public Management\|新公共管理]]的技术官僚控制工具；强调其深受宏观制度问责与社会正义权力的结构性塑造。
 
 > [!citation-card] Møller 论情境特异性
@@ -189,7 +190,7 @@ updated: 2026-11-11
 > **专家评审确立学校领导力为核心组织使能支柱** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）开展德尔菲相关度评定时，学校领导力在全库所有组织与管理类变量中位列前茅。专家评定指出：与直接发生在教室内的微观教学行为不同，学校领导力虽不直接作用于学生个人认知加工，却是保障优质微观教学实践得以常态化发生、隔绝外部行政杂务干扰并建立互信教研生态的高位组织使能手段。将其与微观教学因素置于同一扁平[[Effect Size|效应量]]排行榜进行机械名次比较，抹杀了组织手段的系统性孵化功能。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 19–20, 22)]]
 
 > [!claim] [[Argument_Golovchin_2019_ESC|Golovchin (2019)]]; [[Argument_Eacott_2017_SLM|Eacott (2017)]]
-> **追逐领导力绩效诱发行政官僚异化与治理风险** 戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）在反思《[[Visible Learning|可见的学习]]》排名在地方层级的政策应用时，援引埃科特（[[Argument_Eacott_2017_SLM|Eacott, 2017]]）针对澳大利亚政策的尖锐批判指出：自上而下的循证绩效规训正将学校领导力异化为持续生产数据的技术官僚流水线。学校管理者在对所谓“卓越领导力”的锦标赛式追逐中，将大量填报与审计压力向下转嫁给普通任课教师。当学校领导力被窄化为监控指标与官僚行政控制时，不仅摧毁了专业自主与育人互信，更演变为加速师资流失的治理陷阱。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 236, 240–241)]]
+> **追逐领导力绩效诱发行政官僚[[Alienation|异化]]与治理风险** 戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）在反思《[[Visible Learning|可见的学习]]》排名在地方层级的政策应用时，援引埃科特（[[Argument_Eacott_2017_SLM|Eacott, 2017]]）针对澳大利亚政策的尖锐批判指出：自上而下的循证绩效规训正将学校领导力异化为持续生产数据的技术官僚流水线。学校管理者在对所谓“卓越领导力”的锦标赛式追逐中，将大量填报与审计压力向下转嫁给普通任课教师。当学校领导力被窄化为监控指标与官僚行政控制时，不仅摧毁了专业自主与育人互信，更演变为加速师资流失的治理陷阱。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 236, 240–241)]]
 
 ---
 

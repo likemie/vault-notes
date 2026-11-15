@@ -10,7 +10,7 @@ aliases:
 summary: "指对科研成果做出实质性实验、构思、分析或文稿撰写贡献，但在最终发表成果的正式署名列表中被系统性排除的学术失范与结构性遮蔽现象；发端于早期近代科学实验室中对辅助人员劳动成果的剥夺，在现代多学者合作与科层制科研团队中主要侵害研究生与初阶研究者的学术承认与职业晋升。"
 type: concept
 domain: "science-policy"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
   - theme/research-integrity
   - theme/scientific-credit
 related_concepts:
+  - "[[Alienation]]"
   - "[[Bureaucracy]]"
   - "[[Document]]"
   - "[[Guest Authorship]]"
@@ -40,13 +41,13 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Ghost Authorship
-> **幽灵署名（Ghost Authorship）** 指对某项科研成果的实验操作、数据采集、分析建模或文稿撰写做出了实质性、不可或缺的学术贡献，却在最终公开发表的正式署名名单中被完全隐去姓名的学术异化现象。幽灵署名打破了科学界“贡献与责任对等”的伦理契约，使处于从属地位的初阶研究者丧失学术劳动成果的法定所有权。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 143–144)]]
+> **幽灵署名（Ghost Authorship）** 指对某项科研成果的实验操作、数据采集、分析建模或文稿撰写做出了实质性、不可或缺的学术贡献，却在最终公开发表的正式署名名单中被完全隐去姓名的学术[[Alienation|异化]]现象。幽灵署名打破了科学界“贡献与责任对等”的伦理契约，使处于从属地位的初阶研究者丧失学术劳动成果的法定所有权。[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|(Wang & Barabási, 2021, pp. 143–144)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指涉科研建制中实质性知识贡献者在符号承认体系中的非自愿隐身。

@@ -93,6 +93,11 @@ updated: 2026-11-15
 
 ---
 
+> [!critique|notitle] 外部批评
+> - **客观唯心论的真理批评** [[Georg Wilhelm Friedrich Hegel|黑格尔]]（Georg Wilhelm Friedrich Hegel）高度赞赏康德将审美判断从占有欲与科学公式中解放出来，但批评康德将鉴赏判断奠基于感性与想象力，使之停留在主观浅表层面，无法对艺术作品本身的客观真理作出断言。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 93–94)]]
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
@@ -102,8 +107,9 @@ updated: 2026-11-15
 > | [[Aesthetic Idea]] | 概念 | 从想象力无法被概念穷尽的视角与鉴赏判断的自由游戏形成互补。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 30–31)]] |
 > | [[Aesthetic Autonomy]] | 概念 | 鉴赏判断脱离认知与道德概念，为审美领域的自主性提供先验哲学奠基。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 23, 39)]] |
 > | [[Immanuel Kant]] | 人物 | 在《判断力批判》（1790）中系统建构鉴赏判断四重契机的哲学家。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 21, 27–32)]] |
+> | [[Georg Wilhelm Friedrich Hegel]] | 人物 | 肯定康德审美非功利与非概念化立场，同时批评鉴赏判断止步于主观感受而缺乏客观真理。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 93–94)]] |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch02|Hammermeister (2002)]] — 解析康德《判断力批判》中鉴赏判断的四重契机、自由美与依附美张力及其对后世美学[[Paradigm|范式]]的奠基作用。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch02|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]解析康德鉴赏判断四重契机与自由美、依附美张力；[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]补充黑格尔对鉴赏判断主观性的真理批评（pp. 93–94）。

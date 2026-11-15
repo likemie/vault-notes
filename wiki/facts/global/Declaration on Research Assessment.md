@@ -11,7 +11,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - theme/higher-education-policy
   - theme/science-policy
 related_concepts:
+  - "[[Alienation]]"
   - "[[Goodhart's Law]]"
   - "[[Research Topic]]"
   - "[[Evaluation Research]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -57,7 +58,7 @@ updated: 2026-11-11
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2012 年 12 月在美国细胞生物学会（ASCB）旧金山年会期间由一批学者、学术期刊编辑和出版机构联合发起，后续设立独立的 DORA 指导委员会推进常态化治理。
 > - **适用地区 / 对象** 全球高校、研究机构、公共科研资助机构、学术期刊出版商及科研人员。
-> - **问题背景** 应对学术界对[[Journal Impact Factor|期刊影响因子]]（JIF）等粗放计量指标的过度迷信与机制异化（[[Goodhart's Law|古德哈特定律]]），防范管理主义指标考核对基础[[Research Topic|研究选题]]、跨学科探索及产学转化造成的系统性扭曲。
+> - **问题背景** 应对学术界对[[Journal Impact Factor|期刊影响因子]]（JIF）等粗放计量指标的过度迷信与机制[[Alienation|异化]]（[[Goodhart's Law|古德哈特定律]]），防范管理主义指标考核对基础[[Research Topic|研究选题]]、跨学科探索及产学转化造成的系统性扭曲。
 > - **制度位置** 作为全球科研评估改革运动的纲领性民间倡议，与[[Leiden Manifesto|莱顿宣言]]（Leiden Manifesto）、欧洲推进科研评估联盟（CoARA）共同构成重塑学术评价生态的国际制度框架。
 
 ---

@@ -9,7 +9,7 @@ subtype: program
 region: europe
 fact_region: "europe"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ tags:
   - theme/corporate-innovation
   - theme/semiconductor
 related_concepts:
+  - "[[Alienation]]"
   - "[[Competitiveness]]"
   - "[[Technological Catch-up]]"
   - "[[Precompetitive Research]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -91,7 +92,7 @@ updated: 2026-10-22
 > [!indicators] 评估指标体系
 > - **经费规模** 累计投入研发经费约 **25 亿至 30 亿 ECU**（约 30 亿至 36 亿美元）。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 727)]]
 > - **技术突破** 成功实现 0.5 微米与 0.35 微米制造工艺量产导入，培育了荷兰阿斯麦（ASML）早期的光刻设备欧洲供应链生态。
-> - **产业链韧性** 维系了欧洲核心半导体制造企业与装备商在 1990 年代激烈全球竞争中的生存与差异化优势。
+> - **产业链韧性** 维系了欧洲核心半导体制造企业与装备商在 1990 年代激烈全球竞争中的生存与差[[Alienation|异化]]优势。
 
 > [!finding-cards] 核心实证结论
 > - **奠定欧洲汽车与工业半导体差异化生态** 促成欧洲芯片企业从通用存储器泥潭成功转向汽车电子与嵌入式系统，为英飞凌、意法半导体与恩智浦的全球[[Competitiveness|竞争力]]奠定技术基石。

@@ -9,7 +9,7 @@ aliases:
 summary: "主张个体首要伦理忠诚应归于全人类共同体而非特定民族国家的规范哲学与教育思潮。在比较教育中主张超越狭隘爱国主义培育世界公民；在政治哲学与战略治理中则引发深层张力——批评者指出抽象世界主义常制造公共道德真空，弱化民主政体的防卫意志与制度凝聚力；安德森在民族主义研究中揭示其对爱国政治之爱的病理化误判，并展示启蒙普遍主义如何使早期美洲独立实践被体验为自明的全人类真理。"
 type: concept
 domain: "comparative-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[The Sublime]]"
   - "[[Dunbar's Number]]"
+  - "[[Alienation]]"
   - "[[Perpetual Peace]]"
   - "[[Technological Republic]]"
   - "[[Construct]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -109,7 +110,7 @@ updated: 2026-11-14
 ---
 
 > [!concept-proposition] 命题一｜过早废除民族国家认同将导致公共意义真空并被消费主义与部落对抗占领
-> **批判性政治哲学透镜** 探讨将忠诚从具体民族国家抽离至抽象全人类共同体后，公共领域面临的精神解构与商业资本异化风险。
+> **批判性政治哲学透镜** 探讨将忠诚从具体民族国家抽离至抽象全人类共同体后，公共领域面临的精神解构与商业资本[[Alienation|异化]]风险。
 >
 > [!claim] [[Alexander Karp|Karp, A. C.]] & [[Nicholas Zamiska|Zamiska, N. W.]]
 > **后国家世界主义的战略失误** 指出当代西方知识精英与左翼在包容名义下将爱国自豪斥为道德危险，试图建立后国家的世界主义秩序；这种抽空国家叙事的做法并未带来理性博爱，反而制造了巨大的公共意义真空，导致民众退回体育对抗等微观部落狂热，或被以财富和消费水平界定身份的资本主义市场彻底分层与固化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 192–194, 198)]]

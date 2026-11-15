@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 170
+method_related_count: 171
 method_related_level: 17
 method_related_stars: "💎💎💎💎💎⭐⭐"
 method_related_color: "#dcfce7"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Policy-Based Evidence-Making]]"
   - "[[Business as Usual]]"
   - "[[Internal Validity]]"
+  - "[[Alienation]]"
   - "[[Policy Brokerage]]"
   - "[[Credibility Revolution]]"
   - "[[External Validity]]"
@@ -200,7 +201,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 > [!def] Randomised Controlled Trials
@@ -248,7 +249,7 @@ updated: 2026-11-11
 >   - 2023 — Kraft 元分析 3,426 项教育 RCT 效应量，确立真实[[Business as Usual|常态教学]]对照下的效应量现实基准：36% 小于 0.05 SD，整体中位数仅为 0.10 SD（[[Argument_Kraft_2023_ER|Kraft, 2023, pp. 183, 185]]）。
 >   - 2024 — Wadhwa et al. 检视 12 个[[Educational Evidence Clearinghouses|教育证据清算中心]] 1,359 个项目，揭示基于 RCT 的跨机构评级冲突率达 35.4%，证实单项[[Internal Validity|内部效度]]并不保证宏观政策结论一致（[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 18–20]]）。
 >
-> - **2010s 至今 — 跨国治理规范与法定单项合格门槛的治理异化** RCT 成为国际组织推行循证贷款的技术规制工具，而在学区实地审计中，法定单项合格门槛诱发了合规假象与科研供给赤字。
+> - **2010s 至今 — 跨国治理规范与法定单项合格门槛的治理[[Alienation|异化]]** RCT 成为国际组织推行循证贷款的技术规制工具，而在学区实地审计中，法定单项合格门槛诱发了合规假象与科研供给赤字。
 >
 >   *因果识别技术在全球治理与地方采购中面临建制化异化与供给赤字。*
 >

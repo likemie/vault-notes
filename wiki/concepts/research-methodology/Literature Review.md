@@ -7,7 +7,7 @@ aliases:
 summary: "教育研究与社会科学中对已有研究文献开展系统检索、批判性评估与综合归纳的论证性学术实践；不仅为明确研究问题与构建理论框架提供跳板，而且在不同研究范式中承担从量化变量假设推导到质性归纳比较的差异化认识论功能。"
 type: concept
 domain: "research-methodology"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Concept Mapping]]"
   - "[[Reading Strategies]]"
   - "[[Paradigm]]"
+  - "[[Alienation]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Open-Mindedness]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-30
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -169,7 +170,7 @@ updated: 2026-11-11
 
 ---
 
-> [!concept-proposition] 命题二｜文献综述在不同[[Paradigm|研究范式]]中承担差异化的认识论与研究设计功能
+> [!concept-proposition] 命题二｜文献综述在不同[[Paradigm|研究范式]]中承担差[[Alienation|异化]]的认识论与研究设计功能
 > **范式适应性与认识论角色分化维度** 探讨量化、质性与[[Mixed Methods Research|混合方法研究]]中，文献综述在研究时序、结构布局与假设推导上的功能分化。
 
 > [!claim] [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]]

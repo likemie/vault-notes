@@ -10,7 +10,7 @@ aliases:
 summary: "由 Derek de Solla Price (1965) 与 Albert-László Barabási (1999) 发展的网络演化动力学理论；指出学术网络中节点的增长具有富者愈富的累积附着规律。在引文网络中，成果获取新增引用的速率与既有被引基数成正比（dc/dt ∝ c），且在越过声望跨越阈值后由内在学术价值接管；在合著网络中，新晋研究者在起步阶段倾向于与高连通度的资深导师联合署名，驱动网络呈现重尾度分布并催生超级学术中枢。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 27
+theory_related_count: 28
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Citation Distribution]]"
   - "[[Early-Career Researchers]]"
+  - "[[Alienation]]"
   - "[[Erdős Number]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Emergence]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-29"
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -85,7 +86,7 @@ updated: 2026-11-11
 > - **1999 — 优先连接方程与无标度网络** 巴拉巴西与阿尔伯特确立无标度网络演化方程，证明优先连接与连续增长共同生成严格的幂律度分布。
 > - **2009 — 新兴学科队列与先发优势实证** [[Mark Newman|马克·纽曼]]（Mark Newman）通过追踪网络生物学首批发表成果与紧随其后成果的长期被引，证实先发成果平均获引 101 次，为紧随者（26 次）的 3.88 倍，经验确证了优先连接对早期文献的长期固化红利。[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|(Newman, 2009; Wang & Barabási, 2021, p. 186)]]
 > - **2014 — 声望跨越与机制接管验证** 彼得森等人确立声望半衰期与跨越阈值 $c_x$ 动力学，证明资深学者在 $c < c_x$ 享有 4 倍初始获引红利，超越阈值后由成果内在学术价值接管。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 33–34)]]
-> - **2021 — 合著网络与科研枢纽拓展** [[Dashun Wang|王大顺]]与巴拉巴西在《科学学的科学》中系统阐明优先连接在合著网络中的运作机制：[[Early-Career Researchers|青年学者]]挂靠高中心度学者驱动合作网络重尾化，不同学科（生物学重尾深长、数学衰减快速）显现差异化拓扑。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 105–106)]]
+> - **2021 — 合著网络与科研枢纽拓展** [[Dashun Wang|王大顺]]与巴拉巴西在《科学学的科学》中系统阐明优先连接在合著网络中的运作机制：[[Early-Career Researchers|青年学者]]挂靠高中心度学者驱动合作网络重尾化，不同学科（生物学重尾深长、数学衰减快速）显现差[[Alienation|异化]]拓扑。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 105–106)]]
 > - **2023 — 科学学生成机制模型基底确立（[[Argument_Liu_2023_NHB|Liu et al., 2023]]）** 刘等人在《自然-人类行为》综述中将学术优先连接理论确立为科学学生成机制模型的理论基石，系统阐述其作为引文网络累积优势与马太效应微观生成机制的核心定位。[[Argument_Liu_2023_NHB|(Liu et al., 2023, p. 128)]]
 > - **2025 — 颠覆性与引文峰值错位机制（[[Argument_Chen_2025_HSSC|Chen et al., 2025]]）** 陈等人在针对 21,271 名经济学家的全生涯分析中证实，颠覆性峰值出现于生涯第 14–16 年，而引文峰值滞后至 16 年后出现；优先连接与声望网络积累使中后期成果吸附更多常规引文，使引文网络对原创突破构想产生遮蔽效应。[[Argument_Chen_2025_HSSC|(Chen et al., 2025, pp. 6–7)]]
 

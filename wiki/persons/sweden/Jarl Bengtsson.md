@@ -8,7 +8,7 @@ cssclasses:
   - person-page
 nationality: "sweden"
 person_region: "sweden"
-person_related_count: 36
+person_related_count: 37
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Façade of Rationality]]"
   - "[[Policy Brokerage]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Policy Instrumentation Theory]]"
   - "[[Sociology of Measurement]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -141,7 +142,7 @@ updated: 2026-11-11
 > [!person-network] 关系网络
 > - **学生／继承者** [[Andreas Schleicher]] — 本特森在 [[Centre for Educational Research and Innovation\|CERI]] 关键时期引入并重用的数据专家与后继领导者，最终将本特森的 [[PISA]] 构想变为现实。
 > - **师承／合作关系** [[Norberto Bottani]] — [[International Indicators of Education Systems\|INES]] 项目首任技术负责人，与本特森并肩作战确立前四版《[[Education at a Glance\|教育概览]]》的指标架构。
-> - **批评者／论敌** 欧陆传统教育哲学家 — 批评本特森后期对指标与经济[[Competitiveness|竞争力]]的偏执放弃了早期“循环教育”的人文关怀，将教育彻底异化为功利主义[[Human Capital Theory\|人力资本]]附庸。
+> - **批评者／论敌** 欧陆传统教育哲学家 — 批评本特森后期对指标与经济[[Competitiveness|竞争力]]的偏执放弃了早期“循环教育”的人文关怀，将教育彻底[[Alienation|异化]]为功利主义[[Human Capital Theory\|人力资本]]附庸。
 > - **史学研究者** [[Christian Ydesen]] — 系统发掘本特森领导 CERI 历史档案的当代领衔学者。
 
 ---

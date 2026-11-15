@@ -7,7 +7,7 @@ title: "Argument_Pasias_Roussakis_2009_EuropeanPanopticon"
 argument_key: "Argument_Pasias_Roussakis_2009_EuropeanPanopticon"
 argument_display_title: "Towards the European panopticon: EU discourses and policies in education and training 1992–2007"
 argument_kind: "book-chapter"
-argument_related_count: 51
+argument_related_count: 52
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -58,6 +58,7 @@ related_concepts:
   - "[[Academic Attrition]]"
   - "[[Peer Pressure]]"
   - "[[Heterogeneity]]"
+  - "[[Alienation]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Technical Rationality]]"
 related_theories:
@@ -97,7 +98,7 @@ sources:
   - "[[books/Cowen(Ed.)_2009_Springer/Ch30_Pasias_Roussakis_2009|Ch30_Pasias_Roussakis_2009]]"
 status: draft
 created: 2026-10-27
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -259,7 +260,7 @@ updated: 2026-11-11
 > 3. **治理技术（Technologies of Governance）** 组建非民选的欧洲技术官僚（Eurocrats）专家精英网络，主导常设审查与政治对话，将新自由主义技术标准包装为中立专业知识，引导成员国决策者主动内化。（pp. 490, 492）
 
 > [!case] 里斯本战略中期评估暴露的执行赤字与全景敞视深化
-> 在里斯本战略推行六年后的进展报告中，欧委会与理事会坦承教育合作成效“修辞多于实质（more rhetoric than real）”（Ertl, 2006, p. 22）。老牌核心国（英、法、德）、南欧边缘地区（希腊、西班牙、葡萄牙）与 2004 年新入盟的中东欧成员国之间存在显著的达标鸿沟；各国历史文化传统的[[Heterogeneity|异质性]]导致共同指令被差异化诠释。然而，这种执行赤字不仅未削弱监控，反而成为欧委会加密基准指标、收紧审查周期的[[Social Science as Legitimation Alibi|合法化借口]]，促成了规训监视网络的自我强化。（pp. 491–492）
+> 在里斯本战略推行六年后的进展报告中，欧委会与理事会坦承教育合作成效“修辞多于实质（more rhetoric than real）”（Ertl, 2006, p. 22）。老牌核心国（英、法、德）、南欧边缘地区（希腊、西班牙、葡萄牙）与 2004 年新入盟的中东欧成员国之间存在显著的达标鸿沟；各国历史文化传统的[[Heterogeneity|异质性]]导致共同指令被差[[Alienation|异化]]诠释。然而，这种执行赤字不仅未削弱监控，反而成为欧委会加密基准指标、收紧审查周期的[[Social Science as Legitimation Alibi|合法化借口]]，促成了规训监视网络的自我强化。（pp. 491–492）
 
 > [!chain-link] 超国家教育全景敞视的微观规训生成机制
 > - **起点：共同目标确立** 各成员国首脑在欧洲理事会共同批准抽象战略目标与指标框架，确立了自愿服从的政治合法性契约。（pp. 490–492）

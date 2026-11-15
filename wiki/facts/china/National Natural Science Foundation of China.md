@@ -13,7 +13,7 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[National Innovation System]]"
   - "[[Innovation Ecosystem]]"
   - "[[Professional Interest]]"
+  - "[[Alienation]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Chinese Academy of Sciences]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -137,7 +138,7 @@ updated: 2026-11-11
 > > - **机构改革应对（正方）** 基金委推行原创探索计划项目，试点评审机制创新；同时在双清论坛设立原创思想专项打磨环节，建立非共识假说快速探索资助通道，降低对前期成果单薄的苛求。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026, p. 737)]]
 >
 > > [!axis] 资源分配集中度与称号标签化反思
-> > 学术界对基金项目标签化（将人才项目异化为学术身份并与高校资源配置、物质待遇过度挂钩）以及经费向少数领军团队高度集中的争议。
+> > 学术界对基金项目标签化（将人才项目[[Alienation|异化]]为学术身份并与高校资源配置、物质待遇过度挂钩）以及经费向少数领军团队高度集中的争议。
 > >
 > > - **批评视角（反方）** 青年学者面临激烈的考评竞争，学术称号带来的锦上添花效应加剧了学术不安全感，导致青年人才为迎合考评而跟风热点，磨损科研初心。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026, pp. 734–735)]]
 > > - **治理优化导向（正方）** 推进人才资助回归学术本质与研究项目属性，打破一次性结项壁垒，依托[[Continuous Research Funding|延续性资助]]与分类支持，引导科研人员回归解决国家重大需求与科学前沿难题。[[Argument_Mo_2026_BNSFC|(莫申江等, 2026, pp. 737–738)]]

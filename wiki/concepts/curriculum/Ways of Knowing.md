@@ -6,7 +6,7 @@ aliases:
 summary: "认识论与课程论中指称人类获取、建构、表达和审查知识的多维途径与经验资源；既是国际文凭知识论课程中连接个人与共享知识的元认知分析框架，也是科学教育视阈下体现学科特异性与文化多样性的认识论实践形态。"
 type: concept
 domain: "curriculum"
-related_count: 41
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -45,11 +45,13 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Operationalization]]"
   - "[[Scoring Rubrics]]"
+  - "[[Alienation]]"
   - "[[Critical Thinking]]"
   - "[[Reliability]]"
   - "[[Problem Solving]]"
   - "[[Critical Thinking Assessment]]"
   - "[[Knowledge Questions]]"
+  - "[[Mimesis]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
 related_methods:
@@ -67,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-26
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -174,7 +176,7 @@ updated: 2026-11-14
 > **课程[[Operationalization\|操作化]]与评估效度张力** 探讨当认知方式被制度化为评估打分标准时，如何平衡其认识论反思价值与空洞套用概念标签的形式主义倾向。
 
 > [!claim] [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]]
-> **框架词汇对实质性批判反思的潜在替代** 当认知方式与[[Areas of Knowledge\|知识领域]]被深度嵌入跨学科大纲与[[Scoring Rubrics|评分量规]]后，极易被学生异化为展示课程熟练度的表面标签。学生可能倾向于在[[Homework\|作业]]中密集罗列“语言”、“情感”或“理性”等术语以迎合评分描述符，这种套路化的“术语表演”实际上削弱了对具体[[Chain of Evidence\|证据链]]、逻辑漏洞与实质性假设的严密审查。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 171–173)]]
+> **框架词汇对实质性批判反思的潜在替代** 当认知方式与[[Areas of Knowledge\|知识领域]]被深度嵌入跨学科大纲与[[Scoring Rubrics|评分量规]]后，极易被学生[[Alienation|异化]]为展示课程熟练度的表面标签。学生可能倾向于在[[Homework\|作业]]中密集罗列“语言”、“情感”或“理性”等术语以迎合评分描述符，这种套路化的“术语表演”实际上削弱了对具体[[Chain of Evidence\|证据链]]、逻辑漏洞与实质性假设的严密审查。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 171–173)]]
 
 > [!claim] [[Argument_Hughes_2014_JRIE\|Hughes (2014)]]
 > **大纲对齐与[[Critical Thinking\|批判性思维]][[Construct\|构念]]覆盖的不完全性** 考察评估指标发现，课程指南主要奖励学生建立认知方式与知识领域之间的结构连接与比较探索，但较少对证据来源可[[Reliability\|信度]]核查、假设检验严密性与真实[[Problem Solving\|问题解决]]设定独立评分指标。因此，熟练调用认知方式分类框架不能等同于完全具备了高阶批判性思维构念。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 37–43)]]
@@ -222,7 +224,7 @@ updated: 2026-11-14
 > | 领域与情境 | 核心调用的认知方式 | 探究任务或案例 | [[Epistemology\|认识论]]功能与反思点 | 证据来源 |
 > |---|---|---|---|---|
 > | **IB [[Theory of Knowledge\|TOK]] 感知[[Reliability\|可靠性]]探究** | 感官知觉、语言、理性 | 结合[[René Descartes\|笛卡尔]]沉思、[[Plato\|柏拉图]]洞穴喻与阿什从众实验考察观察偏差 | 审视前概念、感觉通道局限与群体规范对客观观察的渗透 | [[Argument_Darwish_2009_Queens\|Darwish (2009, p. 17)]] |
-> | **物理探究教学** | 具身动作、语言、模型推演 | 高中简谐振动实验中结合传感器波形与手势模仿提出猜想 | 调动多通道感知与具身认知建立微观因果假设 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, pp. 144–145)]] |
+> | **物理探究教学** | 具身动作、语言、模型推演 | 高中简谐振动实验中结合传感器波形与手势[[Mimesis\|模仿]]提出猜想 | 调动多通道感知与具身认知建立微观因果假设 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, pp. 144–145)]] |
 > | **工程设计教育** | 想象、理性、修辞辩护 | 小学三年级太阳能装置设计与面向小记者的汇报辩护 | 在多重物理与成本约束下寻求最优折中并依据受众调整论据 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, pp. 145–146)]] |
 
 ---

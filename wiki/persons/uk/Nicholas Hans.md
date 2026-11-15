@@ -12,7 +12,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 46
+person_related_count: 47
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Incommensurability]]"
   - "[[Commensuration]]"
   - "[[Analytical Stance]]"
+  - "[[Alienation]]"
   - "[[School Autonomy]]"
   - "[[Discourse]]"
   - "[[Geisteswissenschaften]]"
@@ -163,7 +164,7 @@ updated: 2026-11-15
 > - **质性品质与文化[[Incommensurability|不可通约性]]防线（Qualitative Integrity against Psychometrics）**
 >   统计测验与心理测量在跨国应用时受制于文化不可[[Commensuration|通约]]性障碍；量化数据绝无法定义教育目标，比较研究的核心仍须锁定在学校体系所依托的深层文化氛围与制度质性品质。(Hans, 1959: 447)
 
-这一质性[[Analytical Stance|批判立场]]在汉斯对具体制度案例的实证剖析中展现出深刻穿透力，集中体现于对极权民族主义的异化批判与对美苏冷战民主神话的双向解构。
+这一质性[[Analytical Stance|批判立场]]在汉斯对具体制度案例的实证剖析中展现出深刻穿透力，集中体现于对极权民族主义的[[Alienation|异化]]批判与对美苏冷战民主神话的双向解构。
 
 > [!case] 汉斯因素分析法的两大标志性案例
 > - **案例一：世俗民族主义动因异化与法西斯极权教育** 梳理德国[[Johann Gottlieb Fichte|费希特]]与意大利马志尼的思想发端，深入剖析墨索里尼与哲学家真蒂莱治下的意大利法西斯教育改革（将天主教初等教育与国家极权崇拜杂糅），以及希特勒统治下以极权种族主义对德国课程体系进行的全面同质化清洗。汉斯由此得出核心理论推论：民族主义作为世俗动因，在特定极权意识形态异化下会彻底吞噬[[School Autonomy|学校自主]]性，将其异化为国家崇拜与侵略动员的政治机器。(Hans, 1949: 215–234)

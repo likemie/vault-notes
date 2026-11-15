@@ -7,7 +7,7 @@ title: "Argument_Rickinson_2022_UsingResearchWell"
 argument_key: "Argument_Rickinson_2022_UsingResearchWell"
 argument_display_title: "Using research well in educational practice"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -66,6 +66,7 @@ related_concepts:
   - "[[Research Literacy]]"
   - "[[Evaluation Research]]"
   - "[[Collaborative Learning]]"
+  - "[[Alienation]]"
   - "[[Absorptive Capacity]]"
   - "[[Translational Research]]"
 related_theories:
@@ -84,7 +85,7 @@ related_facts:
   - "[[Early Steps]]"
 status: draft
 created: 2026-09-14
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 ---
 
@@ -328,7 +329,7 @@ updated: 2026-11-11
 > [!chain-link] 从时间赤字到高质量证据使用的制度支撑逻辑链（pp.192–193）
 > - **前提：时间极度匮乏**
 >   76% 的受访教育者明确表示在校期间严重缺乏接触研究的充足时间，同样有 76% 报告由于日常工作节奏过快而难以跟进最新学术成果。
-> - **机制：异化为业余沉重劳作**
+> - **机制：[[Alienation|异化]]为业余沉重劳作**
 >   尽管 81% 的教师在学期内的校内工作时间接触研究，但由于正常作息被上课与杂务占满，高达 59% 不得不在放学后留校加班，69% 不得不在周末牺牲个人休息时间阅读学术研究。
 > - **推论：主观效益感被严重挫伤**
 >   近三分之二的受访者（61%）直言使用研究在现实中显得并不划算（not worthwhile），因为检索、研读并将其转化为教学方案所需付出的时间精力过于庞大。

@@ -7,9 +7,9 @@ title: "Argument_Edovald_Nevill_2021_ECNUROE"
 argument_key: "Argument_Edovald_Nevill_2021_ECNUROE"
 argument_display_title: "Working out what works: The case of the Education Endowment Foundation in England"
 argument_kind: "journal-article"
-argument_related_count: 139
-argument_related_level: 13
-argument_related_stars: "💎💎💎💎⭐"
+argument_related_count: 140
+argument_related_level: 14
+argument_related_stars: "💎💎💎💎⭐⭐"
 argument_related_color: "#fecdd3"
 journal: ECNU Review of Education
 authors:
@@ -68,6 +68,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Predictive Validity]]"
   - "[[Floor and Ceiling Effects]]"
+  - "[[Alienation]]"
   - "[[Reliability]]"
   - "[[Self-control]]"
   - "[[Achievement and Aptitude Tests]]"
@@ -180,7 +181,7 @@ sources:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 ---
 
@@ -366,7 +367,7 @@ updated: 2026-11-14
 > [!contrast-table] 评价测量工具的三种类型对比：全国高利害统考（NPD 成绩） vs 商业标准化测验 vs 开发者自编非标准化测验
 > | 属性维度 | 全国高利害标准化统考（NPD 成绩） | 商业标准化测验 | 开发者自编非标准化测验（Inherent Measures） |
 > |---|---|---|---|
-> | **外部效度** | 极高（全国家长、高校与雇主公认的高利害学业基准） | 中等（具备一定跨校通用性，但与官方统考常模存在脱节） | 极低（高度特异化，无法推广至常态教学大纲） |
+> | **外部效度** | 极高（全国家长、高校与雇主公认的高利害学业基准） | 中等（具备一定跨校通用性，但与官方统考常模存在脱节） | 极低（高度特[[Alienation\|异化]]，无法推广至常态教学大纲） |
 > | **效应量虚高风险** | 极低（客观独立评判，彻底杜绝教学贴合溢价） | 较低（非项目方自主掌控题目设定） | 极高（题目与干预要点同构，效应量平均虚高 50%–100%） |
 > | **心理计量属性透明度** | 经过国家考试院超大样本校准，[[Reliability\|信度]]与效度极强 | 报告不全（多仅报告内部一致性 $\alpha$，预测效度偏低） | 通常未做严格效度检验，常模参照系缺失 |
 > | **测验量程风险** | 分布良好，区分度充分 | 频发天花板效应与地板效应 | 针对干预难度定制，缺乏全量程区分力 |

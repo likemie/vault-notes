@@ -10,7 +10,7 @@ aliases:
 summary: "指涉科研人员在量化考核导向下，将一项原本连贯完整的研究发现人为拆解割裂为多个仅满足基本发表门槛的最小数据单元分别投递的发表策略；该现象虚假推高了学者表观生产力，却稀释了单篇文献的知识增量与平均长程被引影响力。"
 type: concept
 domain: "higher-education"
-related_count: 17
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
   - theme/academic-ethics
   - theme/productivity
 related_concepts:
+  - "[[Alienation]]"
   - "[[Construct]]"
   - "[[Document]]"
   - "[[Scientific Productivity]]"
@@ -37,6 +38,7 @@ related_methods:
   - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
+  - "[[Alexandre de Rhodes]]"
   - "[[Dashun Wang]]"
   - "[[Albert-László Barabási]]"
 related_facts: []
@@ -47,13 +49,13 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-29"
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Salami Publishing
-> 高等教育与科学学关于科研行为异化的[[Construct|构念]]。特指在量化科研考核与终身教职晋升竞争驱动下，研究者将一项完整、连贯的科学突破刻意肢解为若干满足最低发表标准的碎片化成果并分批发表的行为。该策略旨在最大化[[Document|文献]]篇数统计，但会导致知识增量分散、平均长程引用衰减，并加剧学术共同体的信息筛选负荷。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 15–16)]]
+> 高等教育与科学学关于科研行为[[Alienation|异化]]的[[Construct|构念]]。特指在量化科研考核与终身教职晋升竞争驱动下，研究者将一项完整、连贯的科学突破刻意肢解为若干满足最低发表标准的碎片化成果并分批发表的行为。该策略旨在最大化[[Document|文献]]篇数统计，但会导致知识增量分散、平均长程引用衰减，并加剧学术共同体的信息筛选负荷。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 15–16)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向科研成果发表过程中的过度碎片化拆分与计量投机行为。
@@ -101,7 +103,7 @@ updated: 2026-11-11
 > **评价制度与行为异化** 考察单纯发文计数考核如何反向塑造学者的投稿策略与科研生产节奏。
 
 > [!claim] Broad, W. J.
-> **考核导向诱发计量投机** 威廉·J·布罗德指出，当科研资助与职称评定过度锚定于发表篇数时，研究者倾向于将完整突破打碎为多个最小可发表单元，通过追求发表篇数实现个人收益最大化。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 15)]]
+> **考核导向诱发计量投机** 威廉·J·布[[Alexandre de Rhodes|罗德]]指出，当科研资助与职称评定过度锚定于发表篇数时，研究者倾向于将完整突破打碎为多个最小可发表单元，通过追求发表篇数实现个人收益最大化。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 15)]]
 
 > [!claim] [[Dashun Wang|Wang, D.]] & [[Albert-László Barabási|Barabási, A.-L.]]
 > **发文量与长远学术卓越的预测脱节** 王大顺与巴拉巴西论证指出，高产学者中仅极少数能够产出具有恒久影响的奠基性成果，切香肠策略在制造发文量虚假繁荣的同时，严重破坏了发文计数对长远学术卓越的预测[[Reliability|信度]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 15–16)]]

@@ -7,7 +7,7 @@ aliases:
 summary: "学习者在知识建构、标准评估与探究决策中作为认知主体深度参与的能动权能，强调超越机械遵循预设程序，共同协商并塑造共同体的认识论准则，是指导式探究区别于直接讲授的核心标志"
 type: concept
 domain: "educational-psychology"
-related_count: 71
+related_count: 72
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -58,6 +58,7 @@ related_concepts:
   - "[[Epistemic Ideals]]"
   - "[[Reliable Epistemic Processes]]"
   - "[[Operationalization]]"
+  - "[[Alienation]]"
   - "[[Scientific Literacy]]"
   - "[[Ecological Validity]]"
   - "[[Control of Variables Strategy]]"
@@ -97,7 +98,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -269,7 +270,7 @@ updated: 2026-11-11
 
 > [!tension] 规范权威主导 vs 主体能动赋权的实践张力
 > - **学科规范权威立场（蓝方）** 科学探究必须遵循高度严谨成熟的方法论标准；初学者缺乏先验知识与自律能力，若过早、过度赋予其自主协商标准的能动权，极易导致课堂滑向反科学的相对主义泥潭或造成严重的认知负荷超载。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 1–2)]]
-> - **主体能动赋权立场（红方）** 科学规范本身即是历史协商与实证检验的产物；剥夺学生的认识能动权，只会将科学异化为僵化教条。通过提供结构化[[Scaffolding\|脚手架]]引导学生亲历标准的因果推导，不仅不会超载，反倒是建构[[Scientific Literacy\|科学素养]]与终身批判力的关键途径。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 222–224)]]
+> - **主体能动赋权立场（红方）** 科学规范本身即是历史协商与实证检验的产物；剥夺学生的认识能动权，只会将科学[[Alienation|异化]]为僵化教条。通过提供结构化[[Scaffolding\|脚手架]]引导学生亲历标准的因果推导，不仅不会超载，反倒是建构[[Scientific Literacy\|科学素养]]与终身批判力的关键途径。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 222–224)]]
 
 > [!warning] 适用局限
 > 认识能动性的顺利展开高度依赖教师的支架搭建能力与学生的先验知识基础。若教师缺乏动态诊断学生推理困境的能力，单纯形式化地放权，容易使课堂探究沦为浮于表面的无效言语争吵，难以形成具有因果严密性的科学共识。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 221–222)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 7–8)]]

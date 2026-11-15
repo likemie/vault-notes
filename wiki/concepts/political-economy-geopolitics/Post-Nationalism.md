@@ -9,7 +9,7 @@ aliases:
 summary: "主张解构传统民族国家主权边界、国家正典与共享爱国认同，转向跨国制度治理、宪政爱国主义或普遍世界主义的政治思潮。当代战略现实主义批评指出，后国家主义过早消解国家文化不仅未能带来理性博爱，反而制造了公共道德真空，让位给消费主义分层与部落化撕裂，并严重瓦解了民主政体的防卫硬实力意志。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Nationalism]]"
   - "[[Cosmopolitanism]]"
   - "[[Discourse]]"
+  - "[[Alienation]]"
   - "[[The Sublime]]"
   - "[[Everyday Plebiscite]]"
   - "[[Civic Religion]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -60,7 +61,7 @@ updated: 2026-11-14
 > - **用途** 帮助研究者透视全球化背景下欧洲一体化、世界主义公民教育以及当代左翼去国家化[[Discourse|话语]]的理论建构。
 > - **边界** 不等于彻底否定社会组织，是主张以纯粹程序法治、普遍人权规范或非政府组织网络替代实质性的国家文化共同体。
 
-> [!citation-card] 卡普与扎米斯卡论后国家主义造成的消费主义异化
+> [!citation-card] 卡普与扎米斯卡论后国家主义造成的消费主义[[Alienation|异化]]
 > 当代左翼声称致力于遏制资本市场的贪婪与不平等，另一方面却对捍卫国家文化或民族认同持排斥态度；他们未能意识到，当国家从提供[[The Sublime|崇高]]公民意义的阵地上撤退时，所留下的巨大精神真空绝不会被理性的博爱所填补，是立刻被商业消费主义所占领。人们的身份、地位与归属感退化为购买力水平，从而使社会按照财富多寡被彻底分层与固化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 194)]]
 >
 > *The modern left claims to be committed to curbing the excesses of the market, but its unwillingness to reckon with and take seriously the good that can come from a national culture or shared identity has only enabled the very excesses it purports to oppose... leaving a void filled by an ascendant consumer culture.*

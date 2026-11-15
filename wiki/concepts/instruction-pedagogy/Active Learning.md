@@ -6,7 +6,7 @@ aliases:
 summary: "由批判教育学与实用主义提出的三环节课程模型，主张主动学习必须由批判性思维、对话与指向变革不公的实践成长（Praxis）共同构成"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Problematisation]]"
   - "[[Wicked Problem]]"
   - "[[Conscientization]]"
+  - "[[Alienation]]"
   - "[[Critical Pedagogy]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Epistemology]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -131,7 +132,7 @@ updated: 2026-11-11
 
 ---
 
-> [!concept-proposition] 命题一｜主动学习通过问题化对话与具身实践打破[[Banking Model of Education|储蓄式教育]]的异化
+> [!concept-proposition] 命题一｜主动学习通过问题化对话与具身实践打破[[Banking Model of Education|储蓄式教育]]的[[Alienation|异化]]
 > **[[Critical Pedagogy\|批判教育学]]与[[Pragmatic Paradigm\|实用主义]]的[[Epistemology\|认识论]]融合** 学习本质上是行动者在民主共同体中改造经验的社会性过程，被动接收会剥夺学生的批判意识与主体能动性。
 
 > [!claim] Dewey; Freire; Darwish

@@ -8,7 +8,7 @@ aliases:
 summary: "20世纪下半叶兴起的激进教育批判思潮，主张废除制度化学校的垄断地位，倡导以学习网络与生活化非正式社群替代强制性学校规训"
 type: concept
 domain: "educational-philosophy"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
 - critical-pedagogy
 - curriculum
 related_concepts:
+  - "[[Alienation]]"
   - "[[Bureaucracy]]"
   - "[[Conscientization]]"
   - "[[Paradigm]]"
@@ -52,13 +53,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-10-16'
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Deschooling
-> **去学校化思潮（Deschooling / Unschooling）** 是20世纪60至70年代在西方激进教育哲学与[[Critical Theory|批判理论]]中兴起的反制度化教育思潮。该思潮主张打破国家与制度化现代学校对教育的特权垄断，认为强制性学校体制异化了学习天性、制造了等级依附并沦为资本主义工厂式生产的规训工具；倡导以自由互助的学习网络（learning webs）、家庭教育（homeschooling）与扎根生活实践的自主社群替代由传统学科大纲和专职教师主导的官僚化班级授课体制。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 230–232)]]
+> **去学校化思潮（Deschooling / Unschooling）** 是20世纪60至70年代在西方激进教育哲学与[[Critical Theory|批判理论]]中兴起的反制度化教育思潮。该思潮主张打破国家与制度化现代学校对教育的特权垄断，认为强制性学校体制[[Alienation|异化]]了学习天性、制造了等级依附并沦为资本主义工厂式生产的规训工具；倡导以自由互助的学习网络（learning webs）、家庭教育（homeschooling）与扎根生活实践的自主社群替代由传统学科大纲和专职教师主导的官僚化班级授课体制。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 230–232)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向对“学校（Schooling）”与“教育/学习（Education / Learning）”的本质解绑，反对将人的心智成长窄化为[[Bureaucracy|科层制]]机构内的文凭追逐。

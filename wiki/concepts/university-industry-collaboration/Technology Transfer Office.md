@@ -11,11 +11,11 @@ aliases:
 summary: "研究型大学内部负责知识产权法律保护、专利许可谈判、商业化路径评估与衍生企业孵化支持的专业职能部门；作为《拜杜法案》赋权与大学第三使命制度化的核心组织载体，既充当学术研究与产业市场的交易中介，又面临职能局限于正式交易端、院系微观碎片化，以及知识虚构商品化对跨组织科研协作构成梗阻的制度张力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
-updated: 2026-11-11
+updated: 2026-11-15
 tags:
   - theme/technology-transfer
   - level/higher-education
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Foreground IP]]"
   - "[[Translational Research]]"
   - "[[Market Fundamentalism]]"
+  - "[[Alienation]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Absorptive Capacity]]"
   - "[[Variable]]"
@@ -166,7 +167,7 @@ created: 2026-06-03
 ---
 
 > [!concept-proposition] 命题四｜TTO 的排他性专利商业化导向陷入虚构商品化困境，对开放科研协同构成制度性阻断
-> **产权排他性与波兰尼虚构商品批判** 探讨大学技术转移办公室（TTO）受[[Market Fundamentalism|市场原教旨主义]]驱动过度追求排他性专有权与高额版税分成，导致学术知识被异化为虚构商品，并在校企与跨机构合作中筑起法务壁垒。
+> **产权排他性与波兰尼虚构商品批判** 探讨大学技术转移办公室（TTO）受[[Market Fundamentalism|市场原教旨主义]]驱动过度追求排他性专有权与高额版税分成，导致学术知识被[[Alienation|异化]]为虚构商品，并在校企与跨机构合作中筑起法务壁垒。
 
 > [!claim] [[Argument_Block_2008_PS|Block (2008)]]
 > **知识虚构商品化对跨组织科研协作的制度梗阻** 依据卡尔·波兰尼（Karl Polanyi）的虚构商品理论，学术知识本质上是科学共同体开放共享、相互启发的产物，区别于普通可排他割裂的商业商品。自《[[Bayh-Dole Act of 1980|拜杜法案]]》颁布以来，各大学 TTO 在[[Market Fundamentalism|市场原教旨主义]]主导下，普遍将知识产权当作最大化创收的筹码，狂热追求独家排他性许可协议。这种做法在高校与产业界之间构筑了森严的法务高墙：各方因极度担忧早期研究成果被对方抢注专利，倾向于对关键实验数据与基础材料实施封锁，破坏了跨界攻关所必需的信任基石；更为严重的是，在生物医药领域（如国家癌症研究所耗资 3200 万美元研发的紫杉醇被独家许可给施贵宝），TTO 的独家许可模式诱发了严重的公共利益倒挂，导致公共财政承担早期研发风险，而私人制药巨头独吞商业暴利，公众与医保体系承受双重剥夺。[[Argument_Block_2008_PS|(Block, 2008, pp. 196–198)]]

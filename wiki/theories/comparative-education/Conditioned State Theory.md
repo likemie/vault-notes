@@ -11,7 +11,7 @@ aliases:
 summary: "比较教育政治社会学与依附论视阈下的国家理论，主张外围资本主义国家受制于其在全球资本积累中的从属边缘地位与内部后封建政治结构的双重制约，统治精英结成支配同盟使国家沦为代用国家，从而导致公共教育扩张与民主化进程深陷外生与内生矛盾"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 40
+theory_related_count: 42
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -22,6 +22,7 @@ tags:
   - political-economy
   - region/latin-america
 related_concepts:
+  - "[[Alienation]]"
   - "[[Pact of Domination]]"
   - "[[Compensatory Legitimation]]"
   - "[[Country Ownership]]"
@@ -35,6 +36,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Operationalization]]"
   - "[[Cultural Capital]]"
+  - "[[Mimesis]]"
   - "[[Multilateral Development Bank]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Washington Consensus]]"
@@ -71,13 +73,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
 
 > [!theory-position] 理论定位
-> - **解释对象** 第三世界（尤其是拉丁美洲）外围资本主义国家在面对依附性经济发展、跨国资本支配与国内阶级矛盾时，其公共国家机器与教育政策制定权力的异化状态及结构性危机。
+> - **解释对象** 第三世界（尤其是拉丁美洲）外围资本主义国家在面对依附性经济发展、跨国资本支配与国内阶级矛盾时，其公共国家机器与教育政策制定权力的[[Alienation|异化]]状态及结构性危机。
 > - **理论问题** 批判自由[[Pluralism|多元主义]]将国家假定为中立仲裁者的虚构，反驳世界体系与[[World Society Theory|世界文化理论]]将战后教育扩张简化为同质化大爆炸的非历史叙事，解释为何外围国家即便经历了激进的教育扩张却依旧无法达成实质民主与社会平等；并与圈内实证研究对话，检验“绝对受限论”是否高估了跨国金融机构的全能支配力、低估了借款国基于本土政治生存的实质否决权（Hunter & Browne, 2000; [[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）。
 > - **理论类型** 批判政治社会学解释理论与宏观政治经济学[[Analytic Framework|分析框架]]。
 > - **知识位置** 植根于新马克思主义[[Critical Theory|批判理论]]与[[Dependency Theory|依附理论]]传统，是比较教育政治社会学分析外围国家教育扩张与改革的核心框架。
@@ -188,7 +190,7 @@ updated: 2026-11-11
 > [!debates] 理论争议
 >
 > > [!axis] 全球化趋同 vs. 依附依从
-> > [[World Society Theory|世界文化理论]]主张战后教育扩张是世界社会理性化模板的自愿模仿与均质扩散；受限国家理论则反驳指出，这种扩张绝非技术中立，而是外围国家被动卷入资本积累与帝国主义跨国规训的剥削过程。
+> > [[World Society Theory|世界文化理论]]主张战后教育扩张是世界社会理性化模板的自愿[[Mimesis|模仿]]与均质扩散；受限国家理论则反驳指出，这种扩张绝非技术中立，而是外围国家被动卷入资本积累与帝国主义跨国规训的剥削过程。
 > >
 > > - **[[John W. Meyer]]（1997）** 全球教育体系的扩张源于主权国家对普世世界文化的合法性追求与制度趋同。
 > > - **[[Carlos Alberto Torres]]（2009）** 外围国家的教育现实是依附受制下的双轨固化，世界文化理论掩盖了资本积累的历史不平等。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–76)]]

@@ -6,10 +6,10 @@ aliases:
 summary: "Biggs 提出的课程系统设计原则，以学生实际开展的学习活动为核心，并用同一组目标动词协调预期学习结果、教学／学习活动与标准参照评估；OECD报告进一步将其扩展为涵盖宏观资格框架、中观全课程整合与微观真实性评价的多层级治理工程。"
 type: concept
 domain: "curriculum"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - theme/constructive-alignment
   - theme/curriculum-design
@@ -30,8 +30,10 @@ related_concepts:
   - "[[Criterion-Referenced Test]]"
   - "[[Homework]]"
   - "[[Learning Strategies]]"
+  - "[[Alienation]]"
   - "[[Learning Gap]]"
   - "[[Problem Solving]]"
+  - "[[Curriculum Alignment]]"
   - "[[Document]]"
   - "[[Operationalization]]"
   - "[[Academic Achievement]]"
@@ -66,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-04
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -180,7 +182,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题四｜标准参照评估是维护建构性对齐的前提，常模排序从根本上瓦解对齐逻辑
-> **质量标准与相对排名** 教学的根本目的是促成改变并缩小差距，依据群体常模强制拉开分数差距会异化课程标准。
+> **质量标准与相对排名** 教学的根本目的是促成改变并缩小差距，依据群体常模强制拉开分数差距会[[Alienation|异化]]课程标准。
 
 > [!claim] Biggs
 > **教学成功体现为更多学生达到卓越标准** 常模参照假定学生能力相对固定并力求拉开差距，而良好教学应使更多学生达到高质量目标并缩小[[Learning Gap\|学习差距]]；预先规定成绩正态分布曲线会彻底用群体名次取代课程质量标准，破坏系统一致性。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 65–70, 73–74)]]
@@ -199,7 +201,7 @@ updated: 2026-11-03
 > **多层级治理与全课程整合** 现代[[Higher-Order Thinking Skills\|高阶思维]]培养无法依靠孤立的单门课程完成，必须破除模块化碎片化考核，在全专业乃至国家资格框架层面建立系统对齐。
 
 > [!claim] Bouckaert
-> **从微观课程对齐向全系统多层级对齐提升** 传统对齐局限于单门课程模块内部，易在大学模块化（Modularisation）浪潮中遭遇“过度考核（Hyper-Assessment）”异化；唯有将对齐原则上升至宏观国家资格框架（NQFs）、中观全课程评价架构（[[TESTA Project\|TESTA]]）以及微观跨校教师量规校准研讨（VALUE Calibration），才能从根本上解决大学生批判与创新思维增益微弱的系统性危机。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 6–8, 26–28)]]
+> **从微观[[Curriculum Alignment|课程对齐]]向全系统多层级对齐提升** 传统对齐局限于单门课程模块内部，易在大学模块化（Modularisation）浪潮中遭遇“过度考核（Hyper-Assessment）”异化；唯有将对齐原则上升至宏观国家资格框架（NQFs）、中观全课程评价架构（[[TESTA Project\|TESTA]]）以及微观跨校教师量规校准研讨（VALUE Calibration），才能从根本上解决大学生批判与创新思维增益微弱的系统性危机。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 6–8, 26–28)]]
 
 ---
 

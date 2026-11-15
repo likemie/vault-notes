@@ -8,7 +8,7 @@ aliases:
 summary: "世界银行开发的标准化外部课堂观察工具，面向中低收入国家基础教育情境，整合时间抽样快照（测量教学时间与学生在轨状态）与多维行为评价量规（涵盖课堂文化、教学指导与社会情感技能3大领域、9大要素和28项具体行为），通过双段15分钟观察与5点等级评定系统捕捉课堂教学质量。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 34
+instrument_related_count: 35
 instrument_related_level: 3
 instrument_related_stars: "💎"
 instrument_related_color: "#cffafe"
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Alienation]]"
   - "[[Construct]]"
   - "[[Effective Teaching]]"
 related_theories: []
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -262,7 +263,7 @@ Teach 建立了标准化的实地观察规程与严格的观察员考核门槛�
 > [!critique] 跨文化推行与制度落地边界
 > - **高推论评分的文化依赖性** 尽管 Teach 视频库引入了 11 个发展中国家的本土录像进行校准，但关于“尊重”、“积极语言”与“幽默”的文化界定在全球南方不同国家存在差异。在具有深厚威权或师道尊严传统的文化中，教师对学生错误的直接打断或严格约束易被外界观察员机械判定为低分，需要在国别培训中持续开展跨文化对齐。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 4–5)]]
 > - **超大[[Class Size|班额]]情境下的快照代表性局限** 在部分撒哈拉以南非洲地区每班 60–100 人的极度拥挤课堂中，观察员在 1–10 秒的瞬时扫视中难以准确辨识全班（尤其是后排与角落）学生的真实在轨参与度，可能产生系统性记录偏差。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, p. 5)]]
-> - **基层教研承载力与辅导异化风险** 尽管[[World Bank|世行]]设计了配套的 Coach 规程，但如果发展中国家基层缺乏具备专业指导能力的教研员与校长队伍，Teach 的系统诊断数据极易被官僚系统矮化为单向奖惩性考核指标，丧失形成性专业发展的核心价值。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, p. 3)]]
+> - **基层教研承载力与辅导[[Alienation|异化]]风险** 尽管[[World Bank|世行]]设计了配套的 Coach 规程，但如果发展中国家基层缺乏具备专业指导能力的教研员与校长队伍，Teach 的系统诊断数据极易被官僚系统矮化为单向奖惩性考核指标，丧失形成性专业发展的核心价值。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, p. 3)]]
 
 ---
 

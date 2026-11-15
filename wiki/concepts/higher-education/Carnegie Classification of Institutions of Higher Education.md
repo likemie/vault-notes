@@ -8,10 +8,10 @@ aliases:
 summary: "由卡内基教学促进基金会于1970年创设的美国高等教育机构权威分类体系；依据科研经费支出、博士学位授予规模及学科完备度，将全美4000余所高校系统分层为极高研究活动研究型大学（RU/VH）、高研究活动研究型大学（RU/H）等类别，构成了实证剖析美国去中心化大学分层竞争生态的核心基准。"
 type: concept
 domain: "higher-education"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/science-policy
   - level/higher-education
@@ -20,8 +20,10 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Research Universities]]"
+  - "[[Mimesis]]"
   - "[[Academic Start-up Packages]]"
   - "[[Congressional Earmarks]]"
+  - "[[Alienation]]"
   - "[[Knowledge Production]]"
 related_facts:
   - "[[Academic Ranking of World Universities]]"
@@ -31,7 +33,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -76,7 +78,7 @@ updated: 2026-11-02
 ### 2. 客观功能分层保障了去中心化竞争生态下的生态位分化
 
 > [!claim] 避免“千校一面”与维护多元使命
-> 在缺乏中央教育部统一管辖的去中心化体制中，卡内基分类为各高校寻找自身独特的竞争生态位（Competitive Niches）提供了参照坐标。绝大多数四年制通识文理学院（Liberal Arts Colleges）与地方公立院校并不盲目同质化模仿顶尖[[Research Universities|研究型大学]]的重资产科研模式，是专注于本科卓越教学，并为顶尖研究型大学研究生院输送极高质量的生源，形成了互补共生的多样化高教生态。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 43, 46)]]
+> 在缺乏中央教育部统一管辖的去中心化体制中，卡内基分类为各高校寻找自身独特的竞争生态位（Competitive Niches）提供了参照坐标。绝大多数四年制通识文理学院（Liberal Arts Colleges）与地方公立院校并不盲目同质化[[Mimesis|模仿]]顶尖[[Research Universities|研究型大学]]的重资产科研模式，是专注于本科卓越教学，并为顶尖研究型大学研究生院输送极高质量的生源，形成了互补共生的多样化高教生态。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 43, 46)]]
 
 ---
 
@@ -86,5 +88,5 @@ updated: 2026-11-02
 > |:-----|:-----|:-----|
 > | [[Academic Ranking of World Universities]] | Fact (Policy) | 在全球层面测量顶尖[[Research Universities\|研究型大学]]学术竞争力的权威量化排名。 |
 > | [[Academic Start-up Packages]] | Concept | 卡内基分类顶端研究型大学吸引一流青年教师的核心资源配置工具。 |
-> | [[Congressional Earmarks]] | Concept | 二三线高校试图绕过卡内基科研积累规律通过政治游说扩建大楼的异化现象。 |
+> | [[Congressional Earmarks]] | Concept | 二三线高校试图绕过卡内基科研积累规律通过政治游说扩建大楼的[[Alienation\|异化]]现象。 |
 > | [[Knowledge Production]] | Concept | 卡内基高水平研究型大学所履行的核心国家学术职能。 |

@@ -9,7 +9,7 @@ aliases:
 summary: "基于大语言模型与多模态生成架构的认知中介与通用目的技术；在教育中重构人机知识确证分工，其促学成效取决于教学脚手架、评价性判断的自主维系与生产性认识论摩擦；在国家战略与地缘竞争中涌现出通用人工智能火花并引发软硬件层级逆转，成为决定21世纪大国均势与算法威慑的核心软件中枢。"
 type: concept
 domain: "educational-technology"
-related_count: 154
+related_count: 155
 related_level: 15
 related_stars: "💎💎💎💎💎"
 related_color: "#ddd6fe"
@@ -100,6 +100,7 @@ related_concepts:
   - "[[Defeater]]"
   - "[[Technology Infusion]]"
   - "[[Winner's Fallacy]]"
+  - "[[Alienation]]"
   - "[[Big Idea Famine]]"
   - "[[Total Factor Productivity]]"
   - "[[Competitiveness]]"
@@ -187,7 +188,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-01
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 > [!def] Generative Artificial Intelligence
@@ -456,7 +457,7 @@ updated: 2026-11-11
 > > - **战略现实主义威慑派（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska, 2025]]）** 卡普与扎米斯卡批判科技界呼吁暂停研发是自私且短视的[[Winner's Fallacy|胜者谬误]]；在缺乏可信多边核查的前提下，西方单方面停滞只会让缺乏底线的威权对手抢占算法制高点，必须加快研制保卫自由社会的武器级生成式软件中枢。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 26–28)]]
 >
 > > [!axis] 消费级浅层应用内卷 vs 深层实体重大工程：生成式 AI 资本与智力资源错配争议
-> > 批判生成式 AI 资本与人才过度向浅层商业消费软件倾斜的创新异化现象。
+> > 批判生成式 AI 资本与人才过度向浅层商业消费软件倾斜的创新[[Alienation|异化]]现象。
 > >
 > > - **[[Big Idea Famine|大构想饥荒]]与历史基因批判派** 卡普与扎米斯卡深度剖析指出，1970 年代硅谷发轫的反文化个人计算革命在解构国家集权的同时，也瓦解了共同体国家战略叙事，导致技术演化路径最终退缩至追逐个人即时满足的[[Consumer Internet|消费互联网]]；当前数万亿资本与顶级工程师将生成式 AI 浪费在外卖送餐、洗涤、社交游戏与广告推荐算法的微小优化上，不仅造成宏观[[Total Factor Productivity|全要素生产率]]长期停滞，更使国家[[Hard Power|硬实力]]面临空心化风险；呼吁打破[[Technological Agnosticism|技术不可知论]]，通过国家重大战略牵引将生成式智能导向核聚变、先进制造、深层物理突破与战略防务中枢。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 48–51)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–102)]]
 > > - **消费互联网平台演进派** 认为消费级市场的高流动性与海量用户反馈是推动模型快速工程化降本与算法自发迭代的最佳孵化场。

@@ -12,7 +12,7 @@ aliases:
 summary: "高等教育社会学与科学政策学中的核心学术分层概念；指从博士训练阶段直至确立常任终身教职之前，处于职业生涯形成期的科研人员群体；其制度特征表现为高流动性短期聘用、对课题组长与评价体系的严密依附，以及缺乏持久学术自主权；作为科学系统中最富颠覆潜能但承受沉重考核内耗的群体，其生存境况直接决定了科学系统的代际更新与创新活力。"
 type: concept
 domain: "higher-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Modified Lottery in Research Funding]]"
   - "[[Original Innovation Capability]]"
   - "[[Continuous Research Funding]]"
+  - "[[Alienation]]"
   - "[[Emergence]]"
 related_theories:
   - "[[Academic Capitalism]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -217,7 +218,7 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 将青年科研人员作为当代科学体制异化的核心分析主体，系统揭示雇佣不稳定、量化审计与保守评审如何阻碍其科学创造力的[[Emergence|涌现]]。
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 将青年科研人员作为当代科学体制[[Alienation|异化]]的核心分析主体，系统揭示雇佣不稳定、量化审计与保守评审如何阻碍其科学创造力的[[Emergence|涌现]]。
 > - [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]] — 基于全国 4,569 份基础研究青年学者大样本调查与[[In-depth Interview|深度访谈]]，揭示青年学者在选题、过程与环境上面临的六重两难抉择，确证 35 岁以下群体的心理重负与早期立项门槛，提出资助关口前移与长周期接续支持方案。
 > - [[Argument_Heinze_2009_RP|Heinze et al. (2009)]] — 比较欧美 20 起纳米科技与人类遗传学重大科学突破，实证揭示半数突破由早期职业学者主导完成，论证青年学者突破既有范式定势的创造力优势，以及放权型学术带头人与专属弹性资助对青年学者成长的护航机制（pp. 614, 618–619）。
 > - [[Argument_Hao_2026_Nature|Hao et al. (2026)]] — 追踪 228 万名学者，证实 AI 使青年学者提前 1.37 年晋升课题组长，但科研团队初级人员配置缩减 31.14%。

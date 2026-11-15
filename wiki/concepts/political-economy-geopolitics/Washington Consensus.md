@@ -7,7 +7,7 @@ aliases:
 summary: "约翰·威廉姆森于1989年提出的宏观经济改革准则，最初由华盛顿多边金融机构与美国政策圈达成，聚焦财政赤字控制、公共开支重构、税制改革与贸易自由化；后渗透至多边开发银行教育借贷，衍生出涵盖循证政策、成本核算、量化指标、效率优先、精英择优、市场竞争、取消补贴与私有化的审查信条，但在官僚放贷实践中常陷入形式主义合规。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[School Vouchers]]"
   - "[[Performance Pay]]"
+  - "[[Alienation]]"
   - "[[Paradigm]]"
   - "[[Development Education]]"
   - "[[Epistemology]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -111,7 +112,7 @@ updated: 2026-11-11
 > - **剔除扭曲定价的取消补贴原则（No Subsidies）** 主张教育收费与服务价格必须如实反映市场真实成本，反对向拥有自费能力的中高收入群体提供普遍性公费补贴。
 > - **提升配置效能的私有化导向（Privatization）** 坚信私有产权与民营参与是提升学校运营效能的重要途径，支持发展私立民办教育体系。
 
-> [!logic-map]- 华盛顿共识原则在多边银行借贷中的传导与仪式化异化
+> [!logic-map]- 华盛顿共识原则在多边银行借贷中的传导与仪式化[[Alienation|异化]]
 > ```mermaid
 > flowchart LR
 >     A["宏观华盛顿共识信条<br>(财政平衡/市场化/去管制)"] --> B["衍生为多边银行放贷准则<br>(成本核算/效率/竞争/私有化)"]

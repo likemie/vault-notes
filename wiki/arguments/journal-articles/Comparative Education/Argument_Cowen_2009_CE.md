@@ -9,7 +9,7 @@ title: "Argument_Cowen_2009_CE"
 argument_key: "Argument_Cowen_2009_CE"
 argument_display_title: "The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315–327"
 argument_kind: "journal-article"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Geometries of Insertion]]"
   - "[[Social Cloning]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Alienation]]"
   - "[[Variable]]"
   - "[[Document]]"
   - "[[Policy Borrowing]]"
@@ -76,7 +77,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-06
-updated: 2026-11-11
+updated: 2026-11-15
 year: 2009
 doi: ""
 citation_aliases:
@@ -101,7 +102,7 @@ citation_aliases:
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Transfer Translation Transformation\|转移、转译、转化框架]]（3T Framework）** | 描述教育移动的三个连续且差异化的时空阶段：跨境空间位移、本土再编码与制度化、以及社会权力压缩下的长期演变。 |
+> | **[[Transfer Translation Transformation\|转移、转译、转化框架]]（3T Framework）** | 描述教育移动的三个连续且差[[Alienation\|异化]]的时空阶段：跨境空间位移、本土再编码与制度化、以及社会权力压缩下的长期演变。 |
 > | **[[Shape-Shifting\|形变]]（Shape-Shifting）** | 关注教育制度与思想在时空推移中核心配置的变化，例如治理结构、教学契约与科研取向的实质改变。 |
 > | **[[Transitology\|转型学]]（Transitology）** | 描述教育移动最密集的历史语境，即政治边界与愿景在十年左右的短时间内彻底崩溃并重建的时期。 |
 > | **[[Geometries of Insertion\|嵌入几何学]]（Geometries of Insertion）** | 探讨在一处创造的教育实践如何能系统、精确地植入另一处的理论，将情境重新概念化为可分析的[[Variable\|变量]]。 |

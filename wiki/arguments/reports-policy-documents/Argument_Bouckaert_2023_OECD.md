@@ -7,7 +7,7 @@ title: "Argument_Bouckaert_2023_OECD"
 argument_key: "Argument_Bouckaert_2023_OECD"
 argument_display_title: "The assessment of students' creative and critical thinking skills in higher education across OECD countries: A review of policies and related practices (OECD Education Working Papers No"
 argument_kind: "report"
-argument_related_count: 117
+argument_related_count: 119
 argument_related_level: 11
 argument_related_stars: "💎💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -51,9 +51,11 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Document]]"
   - "[[Operationalization]]"
+  - "[[Alienation]]"
   - "[[Academic Achievement]]"
   - "[[Problem Solving]]"
   - "[[Active Learning]]"
+  - "[[Aesthetic Education]]"
   - "[[Computerized Adaptive Testing]]"
   - "[[Domain Specificity]]"
   - "[[Ecological Validity]]"
@@ -158,7 +160,7 @@ sources:
 issuing_organization: "[[OECD]]"
 status: draft
 created: 2026-08-26
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 ---
 
@@ -230,7 +232,7 @@ updated: 2026-10-30
 > [!contrast-table] 高等教育学业评价的三重目的与运作机制对比
 > | 评价功能类型 | 核心宗旨与终极目标 | 主导主体与实施层级 | 结果形态与应用流向 | 对高阶思维的作用机制与制度局限 |
 > |---|---|---|---|---|
-> | **诊断性评价**<br>(Diagnostic) | 摸清学生前置基础与能力基线，识别认知短板并实施差异化分流与辅导。 | 课程教师、院系教务或全国基准调研项目。 | [[Pre-test and Post-test\|前测]]分数、认知诊断报告或基线技能画像；主要用于教学分层。 | **机制** 揭示前置逻辑推理盲区；<br>**局限** 常规大学课程极少常态化实施高阶思维前测。 |
+> | **诊断性评价**<br>(Diagnostic) | 摸清学生前置基础与能力基线，识别认知短板并实施差[[Alienation\|异化]]分流与辅导。 | 课程教师、院系教务或全国基准调研项目。 | [[Pre-test and Post-test\|前测]]分数、认知诊断报告或基线技能画像；主要用于教学分层。 | **机制** 揭示前置逻辑推理盲区；<br>**局限** 常规大学课程极少常态化实施高阶思维前测。 |
 > | **形成性评价**<br>(Formative / Assessment for Learning) | 赋能学习过程，通过即时多轮反馈引导学生监控、反思与迭代认知策略。 | 授课教师、学习同伴以及学生自主[[Metacognition\|元认知]]。 | 质性评语、量规反馈、反思日志或同伴评审；不计入或低权重计入终评。 | **机制** 允许低利害试错与多轮修改，是孕育创造力与批判反思的核心土壤；<br>**局限** 教师工作负荷沉重，缺乏通用操作脚手架。 |
 > | **总结性评价**<br>(Summative / Assessment of Learning) | 判定学习成效是否达标，进行学分认定、成绩排序、毕业把关与社会选拔。 | 任课教师、校学位委员会、国家统考或行业协会。 | 终结性等级（[[Academic Achievement\|GPA]]）、学分绩点、学位证书或执业准入资质。 | **机制** 具备高利害驱动力；<br>**局限** 传统纸笔闭卷考试极度偏向事实识记，严重诱发应试套路，阻碍深层批判探究。 |
 >
@@ -296,7 +298,7 @@ updated: 2026-10-30
 > | **挪威** | 《高等教育质量文化白皮书》（Report No. 16, 2017） | 将批判思维与创新能力纳为高质量教育文化的核心内涵。 | 强化机构质保审计（[[Norwegian Agency for Quality Assurance in Education\|NOKUT]]），要求大学公开评价准则并系统推行促学评价。 |
 > | **法国** | [[StraNES\|法国国家高教战略白皮书]]（2017）与《学士学位法令》（2018） | 强调跨学科批判素养、智识自主性与创新实践能力。 | 法律明令废除单一期末统考主导，强制推行平时过程性考核（Contrôle continu）。 |
 > | **美国（弗州）** | 弗吉尼亚州高等教育总体规划（SCHEV 政策） | 将批判性思维、书面沟通列为大学本科六大通识核心能力。 | 州高教委员会强制要求公立院校定期评估并呈报大学生的批判思维与通用能力增益。 |
-> | **奥地利** | 《新教师教育方案》（PädagogInnenbildung Neu, 2013） | 将创造力、批判反思与审美教育确立为师范生核心胜任力。 | 在初任教师国家标准中建立跨学段阶梯式观察指标与表现评价要求。 |
+> | **奥地利** | 《新教师教育方案》（PädagogInnenbildung Neu, 2013） | 将创造力、批判反思与[[Aesthetic Education\|审美教育]]确立为师范生核心胜任力。 | 在初任教师国家标准中建立跨学段阶梯式观察指标与表现评价要求。 |
 > | **巴西** | [[Exame Nacional de Desempenho dos Estudantes\|全国学生学业成就测试]]（Exame Nacional de Desempenho dos Estudantes, ENADE, 2004 起） | 毕业统考考核通用核心素养（占 25%）与专业学科知识（占 75%）。 | 由[[Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira\|巴西国家教育研究院]]（INEP）对应届本科毕业生实施，成绩与大学质量评级挂钩。（p. 16） |
 >
 > （pp. 11–16）

@@ -8,7 +8,7 @@ aliases:
 summary: "Donald Campbell et al. 创立的因果推断与效度评估系统理论，确立了内部效度、外部效度、构念效度与统计结论效度四分体系，主张以系统排除替代解释为因果建立前提，并为多质多法（MTMM）收敛效度检验奠定基础。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 51
+theory_related_count: 53
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -41,10 +41,12 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Open-Mindedness]]"
   - "[[Threats to External Validity]]"
+  - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Interaction Effect]]"
   - "[[Socioeconomic Status]]"
   - "[[Academic Achievement]]"
   - "[[Implementation Fidelity]]"
+  - "[[Alienation]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -83,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -150,7 +152,7 @@ updated: 2026-10-30
 >   > [!evidence-grid]- 证据
 >   > - **证据一（基线描述的双重功能）** 对基线环境与受试者特征的详尽描述，既服务于内部效度（界定处理对比的纯洁性），又同时为外部效度（判定现实情境相似度）提供关键信息。[[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015, p. 463)]]
 > - **前提二（实践中门控而非评分）** 主流清算中心（如 [[What Works Clearinghouse\|WWC]]）仅将内部效度作为刚性打分门槛，而对外部效度仅做定性“描述”并转交终端用户裁量。
-> - **推导** ① 内部效度提供标准化评级信号 → ② 外部效度依赖对干预情境、师生特征及实施条件的微观记录 → ③ 推广性判断本质上是终端用户基于本地知识（Local Knowledge）的比对决策。[[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015, pp. 466–467)]]
+> - **推导** ① 内部效度提供标准化评级信号 → ② 外部效度依赖对干预情境、师生特征及实施条件的微观记录 → ③ 推广性判断本质上是终端用户基于[[Local Knowledge in Evidence-Based Policy|本地知识]]（Local Knowledge）的比对决策。[[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015, pp. 466–467)]]
 
 > [!index-table] 外部效度的核心威胁与推广维度（Kazdin, 2011; Shadish et al., 2002; [[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015]]）
 > | 外部效度威胁 | 机制含义与潜在风险 | 审查与推广评估应对策略 |
@@ -167,7 +169,7 @@ updated: 2026-10-30
 > - **前提一（[[Construct Validity\|构念效度]]的收敛性假设）** Campbell and Fiske (1959) 确立的多质多法（[[Multitrait-Multimethod Matrix\|MTMM]]）原则指出：若某一概念（如“干预有效性”）具有客观构念效度，则运用不同独立方法或不同评价者对其进行测量时，评级结果必须高度收敛。[[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024, p. 4)]]
 >   > [!evidence-grid]- 证据
 >   > - **证据一（1,359 项目多中心评级实证检验）** 实证分析 10 个清算中心评估的教育项目发现，多重评级完全一致率仅约 30.5%，完全对立冲突（1&3，一家推荐 vs 一家否决）高达 35.4%，共同推荐率仅 1.2%。[[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024, pp. 18–20)]]
-> - **前提二（综合门槛导致的特质异化）** 评级不一致并非源于单项 RCT 内部效度判定，而是源于各中心在[[Research Synthesis|证据综合]]门槛（独立复制、12个月随访、医源性排除）上的本质割裂。
+> - **前提二（综合门槛导致的特质[[Alienation|异化]]）** 评级不一致并非源于单项 RCT 内部效度判定，而是源于各中心在[[Research Synthesis|证据综合]]门槛（独立复制、12个月随访、医源性排除）上的本质割裂。
 > - **推导** ① 机构间评级极度发散 → ② “基于证据（Evidence-Based）”在清算中心生态中并未形成稳定的客观特质 → ③ “循证项目”在跨平台语境下呈现出有限的实践构念效度。[[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024, p. 26)]]
 
 ---

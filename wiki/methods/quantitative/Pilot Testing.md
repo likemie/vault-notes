@@ -13,7 +13,7 @@ summary: "在正式数据收集或评估工具发布前，通过小规模试运�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 38
+method_related_count: 39
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Construct]]"
   - "[[Hawthorne Effect]]"
+  - "[[Alienation]]"
   - "[[Big Science]]"
 related_theories: []
 related_methods:
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-31
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -152,7 +153,7 @@ updated: 2026-11-11
 > - **样本量限制导致参数波动** 预试样本规模通常较小，相关系数、Cronbach's α 与区分度指数容易受到偶发极端值干扰，不可直接作为最终信效度终审指标。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 179)]]
 > - **统计驱动剥离重要理论维度** 机械依据相关系数或因子载荷剔除题项，容易意外裁撤[[Construct|理论构念]]中的关键低频要素；必须确立理论与专业判断高于纯粹统计指标的原则。
 > - **受试者[[Hawthorne Effect|霍桑效应]]与观察员疲劳** 预试环境中的受试者因意识到处于测试状态容易改变日常表现，观察员高强度试测亦容易产生评分标准漂移。
-> - **科研资助生态的保守化异化** 竞争性基金评审（如 [[NIH R01 Grant|NIH R01]]）若过度要求完备成熟的预实验数据，会形成排斥高风险颠覆性探索的准入门槛，迫使学者退缩至确定性高的渐进课题；跨学科或跨越原有研究领域的假说在早期萌芽阶段由于缺乏预实验支撑，极易在同行评议中被判定为过于投机而遭淘汰。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 28)]]; [[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011, p. 532)]]; [[Argument_Heinze_2009_RP|(Heinze et al., 2009, pp. 620–621)]]
+> - **科研资助生态的保守化[[Alienation|异化]]** 竞争性基金评审（如 [[NIH R01 Grant|NIH R01]]）若过度要求完备成熟的预实验数据，会形成排斥高风险颠覆性探索的准入门槛，迫使学者退缩至确定性高的渐进课题；跨学科或跨越原有研究领域的假说在早期萌芽阶段由于缺乏预实验支撑，极易在同行评议中被判定为过于投机而遭淘汰。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 28)]]; [[Argument_Azoulay_2011_RJE|(Azoulay et al., 2011, p. 532)]]; [[Argument_Heinze_2009_RP|(Heinze et al., 2009, pp. 620–621)]]
 
 ---
 

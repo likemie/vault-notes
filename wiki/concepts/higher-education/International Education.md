@@ -5,7 +5,7 @@ aliases:
 summary: "跨越单一国家教育边界组织人员、共同生活、课程、评价与资格承认的教育实践和制度。既包含以跨文化理解为目的的教育计划，也包含全球化推动的流动市场扩张，以及当代发展型国家依托地缘战略资助推进南南合作的新型治理形态。"
 type: concept
 domain: "higher-education"
-related_count: 60
+related_count: 61
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Education Export]]"
   - "[[Quasi-market]]"
   - "[[Philosophical Aesthetics]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Dependency Theory]]"
@@ -84,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-16
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -282,7 +283,7 @@ updated: 2026-11-14
 > - [[Argument_Peterson_1987_OpenCourt|Peterson (1987)]] — 从大西洋学院共同生活追踪到教师倡议、独立组织、课程与考试设计，阐明国际教育目标如何转化为常设制度（Chs. 1–4, 8）。
 > - [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] — 描述国际教育从国家绑定走向大众流动、全球比较、市场化和去国家化，并深入探讨文化预设与师资缺口。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 考察国际教育多边主义从战后有限再分配向新自由主义规训与 WTO/GATS 跨国服务贸易的制度转变（pp. 109–111）。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 结合 [[Comparative and International Education Society|CIES]] 学会建制史，批判国际教育合作在资本主义全球化中沦为依附性强制再生产工具的异化风险，重申主权自决与人道主义解放初心（pp. 126–135）。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 结合 [[Comparative and International Education Society|CIES]] 学会建制史，批判国际教育合作在资本主义全球化中沦为依附性强制再生产工具的[[Alienation|异化]]风险，重申主权自决与人道主义解放初心（pp. 126–135）。
 > - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 实证检验中国高校参与一带一路的产学研合作项目，揭示政府、企业、高校与学生四方协同如何实现长期经济理性与技术自主能力共生（pp. 190–195）。
 > - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 考证芬兰促进教育出口工作组报告与高中教育出口政策，揭示国际教育市场拓展如何驱动福利国家公立学校推行内外生混合私有化。
 > - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 梳理中国跨境教育从第一代单向流动、第二代中外合作办学到第三代教育枢纽的演进历程，分析国际教育在地化与区域创新发展的协同机制（pp. 1–11）。

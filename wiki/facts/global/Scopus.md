@@ -10,7 +10,7 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Citation Distribution]]"
   - "[[Discourse]]"
+  - "[[Alienation]]"
   - "[[Citation Disparity]]"
   - "[[Gender Inequality in Science]]"
   - "[[Coauthorship Network]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-11-03"
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -142,7 +143,7 @@ updated: 2026-11-11
 > > - **回应辩护** 数据库持续升级深度学习消歧模型并接入 ORCID 国际唯一学者身份标识，同时开辟学者快速反馈通道允许学者自主核对更正，明确定位为科研情报辅助工具而非唯量化的终局裁决标准。
 
 > [!lessons] 经验教训与启示
-> - **商业垄断与评价异化风险** 作为大型营利性出版商旗下的数据平台，过度将 Scopus 指标与大学排行榜及教师考核刚性绑定，易导致高校在资源配置中陷入被出版巨头“数据俘获”与订阅费用转嫁的被动局面。
+> - **商业垄断与评价[[Alienation|异化]]风险** 作为大型营利性出版商旗下的数据平台，过度将 Scopus 指标与大学排行榜及教师考核刚性绑定，易导致高校在资源配置中陷入被出版巨头“数据俘获”与订阅费用转嫁的被动局面。
 > - **开放互操作对学术治理的启示** 依赖单一商业专有数据库无法全面反映全球南北半球多元科研生态；推动 Scopus 与开放科学数据湖（如 [[OpenAlex]]、[[Crossref]]）及 ORCID 学者身份系统实现[[Record Linkage|实体对齐]]与互操作，是防范算法黑箱与保障科研评价透明公信的必要路径。
 
 ---

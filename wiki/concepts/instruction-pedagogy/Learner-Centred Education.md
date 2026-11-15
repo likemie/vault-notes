@@ -10,7 +10,7 @@ aliases:
 summary: "以学生为学习主体、强调学生自主性与对话探究的教学理念，在不同文化和高利害考试语境下被重构为具备不同功能与权力边界的教学实践"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Quality Education]]"
   - "[[Examination-Oriented Education]]"
   - "[[Discourse]]"
+  - "[[Alienation]]"
   - "[[Cultural Validity]]"
   - "[[Variable]]"
 related_theories:
@@ -53,7 +54,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-11-11
+updated: 2026-11-15
 tags:
   - metax
 ---
@@ -166,7 +167,7 @@ tags:
 > [!debates] 学术争议
 >
 > > [!axis] 定义的模糊性与语境灵活性
-> > LCE 在全球实践中被赋予了多种甚至相互冲突的内涵。部分学者坚持严格的西方进步主义标准，而部分学者则主张摒弃二元对立，采用情境化、灵活的定义，认可不同文化对“以学生为中心”的差异化理解。
+> > LCE 在全球实践中被赋予了多种甚至相互冲突的内涵。部分学者坚持严格的西方进步主义标准，而部分学者则主张摒弃二元对立，采用情境化、灵活的定义，认可不同文化对“以学生为中心”的差[[Alienation|异化]]理解。
 > >
 > > - **Bremner（2021）** 呼吁采取情境化定义，尊重本地教育者对教育目的与教学法的理解。
 > > - **Schweisfurth（2013）** 强调应确立最低实施标准，防止 LCE 被任意泛化或标签化。

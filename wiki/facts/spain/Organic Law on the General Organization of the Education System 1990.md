@@ -12,7 +12,7 @@ subtype: policy
 region: spain
 fact_region: "spain"
 fact_kind: "policy"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Nationalism]]"
   - "[[Going Native]]"
   - "[[Academic Achievement]]"
+  - "[[Alienation]]"
   - "[[Competitiveness]]"
   - "[[Student Motivation]]"
 related_facts:
@@ -48,7 +49,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -134,7 +135,7 @@ updated: 2026-11-11
 > - **行政效能指标** 17 个自治区教育官僚膨胀，国家教育统一空间出现割裂。
 
 > [!finding-cards] 效果与评价
-> - **平等追求异化为平庸陷阱** 强推均质单一综合课程并未缩小阶层实质差距，反而在学校内部制造了大规模缺乏志趣的学业抗拒者，使初中后段演变为课堂秩序失控的重灾区。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–331)]]
+> - **平等追求[[Alienation|异化]]为平庸陷阱** 强推均质单一综合课程并未缩小阶层实质差距，反而在学校内部制造了大规模缺乏志趣的学业抗拒者，使初中后段演变为课堂秩序失控的重灾区。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–331)]]
 > - **高中学术准备严重不足** 仅有两年的高中学制被迫填塞十余门学科，导致学生既缺乏扎实的专业学术基础，又丧失了英式深度研习的机会，引发大学阶段教学质量滑坡。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 331)]]
 > - **分权狂热诱发体系割裂** 短时间内全面让渡管理权，导致中央协调缺失与区域独立系统林立，行政队伍过度膨胀吞噬教育公共资源。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 325–329)]]
 

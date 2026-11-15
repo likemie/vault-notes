@@ -6,7 +6,7 @@ aliases:
 summary: "一种预设从基础科学到技术开发再到经济增长单向因果链的概念模型；战后主导科技政策资源配置，后因忽视反馈机制、轻视工程发明的前提使能地位以及导致本土制造脱节而遭受系统性批判。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Process Knowledge]]"
   - "[[National Innovation System]]"
+  - "[[Alienation]]"
   - "[[Total Factor Productivity]]"
   - "[[Market Failure]]"
   - "[[Innovation Ecosystem]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -121,7 +122,7 @@ updated: 2026-11-14
 ---
 
 > [!concept-proposition] 命题二｜线性模型的政策转化在[[National Innovation System|国家创新体系]]中诱导了严重的系统性扭曲
-> **政策治理与资源配置异化** 探讨依据线性模型制定的科技政策如何对大学、国家实验室与公共资助产生反噬效应。
+> **政策治理与资源配置[[Alienation|异化]]** 探讨依据线性模型制定的科技政策如何对大学、国家实验室与公共资助产生反噬效应。
 
 > [!claim] Caraça, J. et al.
 > **大学使命异化与欧洲悖论** 线性模型诱导政策制定者将大学狭隘地改造为专利生产流水线与商业孵化器，削弱了大学培养高素质批判性人才这一更为根本的知识扩散功能；在[[Total Factor Productivity|全要素生产率]]未达预期时又盲目指责大学转化不力，陷入政策逻辑反馈回路陷阱。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862, 866–867)]]

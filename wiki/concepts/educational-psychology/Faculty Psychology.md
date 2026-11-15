@@ -9,7 +9,7 @@ aliases:
 summary: "18至19世纪主导欧美教育哲学的心理学学说，主张心灵由注意力、比较力、推理力等先天官能构成，通过有秩序的心智训练实现全人智德协调发展与通识教养"
 type: concept
 domain: "educational-psychology"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Value Neutrality]]"
   - "[[Geisteswissenschaften]]"
+  - "[[Alienation]]"
   - "[[Bildung]]"
 related_theories:
   - "[[Cognitive Constructivism]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -186,7 +187,7 @@ updated: 2026-11-03
 > > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]]** 批驳实证派的时代倒错：朱利安处于启蒙现代性发轫期，其科学观植根于欧陆整全性的“人文[[Geisteswissenschaften|精神科学]]（sciences humaines）”；运用当时最前沿的官能心理学设计题项，是为了探查学校是否有效克服经院死背并促进儿童全人发展，构成了极具历史开创性的跨国经验操作化。（pp. 17–18）
 
 > [!warning] 未解问题与理论局限
-> 官能心理学最大的理论盲区在于其朴素的形式训练（Formal Discipline）与心智肌肉隐喻：它错误地假设大脑存在一套脱离具体知识内容的通用逻辑肌肉，导致其后续衍生出的极端口径盲目迷信死记古典语法规则对心智的锻炼价值，从而在 19 世纪后期逐渐异化为阻碍现代自然科学与实用知识进入中学课程的保守借口。
+> 官能心理学最大的理论盲区在于其朴素的形式训练（Formal Discipline）与心智肌肉隐喻：它错误地假设大脑存在一套脱离具体知识内容的通用逻辑肌肉，导致其后续衍生出的极端口径盲目迷信死记古典语法规则对心智的锻炼价值，从而在 19 世纪后期逐渐[[Alienation|异化]]为阻碍现代自然科学与实用知识进入中学课程的保守借口。
 
 ---
 

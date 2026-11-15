@@ -9,7 +9,7 @@ aliases:
 summary: "将教师薪酬与教学表现或测试产出挂钩的激励制度，新自由主义常视其为提升质量的手段，但面临跨国实证脱节、破坏合作文化及现场试验中遭教师强烈伦理抵制而流产等多重批判"
 type: concept
 domain: "educational-policy-reform"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Intrinsic vs Extrinsic Motivation]]"
   - "[[Policy Borrowing]]"
   - "[[Discourse]]"
+  - "[[Alienation]]"
   - "[[Effective Teaching]]"
   - "[[Visible Learning]]"
   - "[[Transnational Education]]"
@@ -79,7 +80,7 @@ related_instruments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 > [!def] Performance Pay
@@ -135,7 +136,7 @@ updated: 2026-11-11
 > - **管理层裁量权扩张（Managerial Discretion）** 打破国家或地方统一集资协商的薪酬阶梯，赋予校长与行政管理者依据考评结果自主奖惩的权力。
 > - **内在专业动机与利他认同排斥（[[Intrinsic vs Extrinsic Motivation\|intrinsic motivation]] & Professional Altruism Crowding-Out）** 教师劳动深受内在教学自尊与利他动机驱动，外部生硬的[[Random Assignment\|随机化]]经济刺激产生强烈的动机挤出与道德排异。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 55)]]
 > - **象征性政策挪用（Symbolic [[Policy Borrowing]]）** 决策者常借用外部高声望国际评估（如 [[PISA]]）声称其具有实证支撑，利用“遗漏[[Discourse|话语]]”掩盖不利证据以推行改革。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 116–118)]]
-> - **行政测评工具的功能异化（Administrative Tool Co-optation）** 形成性诊断工具（如 [[Assessment Tools for Teaching and Learning|asTTle]]）在行政主导下被转化为评定教师绩效与推行薪酬差异化的监管工具，诱发学术研究与商业培训利益的深层纠缠。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 434)]]
+> - **行政测评工具的功能[[Alienation|异化]]（Administrative Tool Co-optation）** 形成性诊断工具（如 [[Assessment Tools for Teaching and Learning|asTTle]]）在行政主导下被转化为评定教师绩效与推行薪酬差异化的监管工具，诱发学术研究与商业培训利益的深层纠缠。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 434)]]
 
 > [!logic-map]- 要素传导与制度矛盾
 > ```mermaid

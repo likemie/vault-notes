@@ -7,7 +7,7 @@ aliases:
 summary: "当代人类动机与人格的核心宏观理论，主张个体具有追求自主性、胜任感与归属感三大基本心理需求的内在成长倾向，构筑了从无动机、外在动机到内在动机的自决连续体，广泛应用于教育环境设计与人机协同学习赋能。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 33
+theory_related_count: 34
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Intelligent Tutoring Systems]]"
   - "[[Independent Variable]]"
   - "[[Variable]]"
+  - "[[Alienation]]"
   - "[[Working Memory]]"
   - "[[Intrinsic vs Extrinsic Motivation]]"
   - "[[Man-Computer Symbiosis]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-05'
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 （自我决定理论）
@@ -157,7 +158,7 @@ updated: 2026-10-30
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 评估课堂环境、教学干预、[[Intelligent Tutoring Systems\|智能辅导系统]]（ITS）或生成式 AI 工具的“动机激励质量”，将自主、胜任、归属作为[[Independent Variable\|自变量]]或中介[[Variable\|变量]]。
 > - **作为分析工具** 在教育实证研究中充当机制解释链条，解释为何某种教学法能显著拉升[[Affective Outcomes\|非认知产出]]（AMS）。
-> - **作为批判视角** 揭示过度依赖外部代币奖励、严酷排行考核、高压惩罚所导致的深层动机腐蚀（Overjustification Effect）与学习异化。
+> - **作为批判视角** 揭示过度依赖外部代币奖励、严酷排行考核、高压惩罚所导致的深层动机腐蚀（Overjustification Effect）与学习[[Alienation|异化]]。
 > - **报告方式** 必须区分“外在动机的内化类型”，避免将动机简单二元对立为“有 vs 无”。
 
 ---

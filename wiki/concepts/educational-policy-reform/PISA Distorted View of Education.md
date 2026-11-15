@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育学者赵勇等针对经合组织 PISA 提出的批判性学术构念，指 PISA 将经济增长与劳动力市场竞争力作为教育的唯一目的，只评估与经济直接相关的科目，系统性排挤人文、艺术、公民身份、同理心与身心健康等更广泛的教育全人目的。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Positional Good]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Paradigm]]"
+  - "[[Alienation]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Scientific Literacy]]"
 related_theories:
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -94,7 +95,7 @@ updated: 2026-11-14
 > [!dev-timeline] [[Construct|构念]]反思历程
 > - **1990 年代中叶 — [[OECD|经合组织]]确立[[Knowledge-Based Economy|知识经济]]教育[[Paradigm|范式]]** 经合组织将教育系统重新定义为支撑知识经济的核心基础设施。
 > - **2000–2010 — 课程窄化批评全面爆发** 各国课程学者抗议 PISA 导致学校课程陷入“应试对标”，艺术与人文学科边缘化加剧。
-> - **2020 — 确立“扭曲的教育观”概念体系** 赵勇在二十年综述中将此系统化命名为“扭曲的教育观”（Distorted View），深刻解构了经济主义对教育本质的异化。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
+> - **2020 — 确立“扭曲的教育观”概念体系** 赵勇在二十年综述中将此系统化命名为“扭曲的教育观”（Distorted View），深刻解构了经济主义对教育本质的[[Alienation|异化]]。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 
 ---
 

@@ -12,7 +12,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Product-Specific Research]]"
   - "[[Research Translation]]"
   - "[[Competitiveness]]"
+  - "[[Alienation]]"
   - "[[Grandes Ecoles]]"
   - "[[Research Universities]]"
   - "[[Reliability]]"
@@ -47,7 +48,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 > [!info] 背景
@@ -96,7 +97,7 @@ AMRC 的知识产权安排被广泛认为是联合体成功最关键的制度设
 
 **[[Product-Specific Research|产品专项研究]]层**。成员可以在联合体协议之外另外赞助产品专项项目。这些项目建立在所有成员都有权使用的前竞争知识产权之上，但涉及赞助企业自己的专有信息（如产品规格、生产工艺、客户数据）。因此，这些项目的协议独立于联合体协议单独建立和资助，产生的前景知识产权归赞助企业所有，不与其他成员共享。这一层构成了联合体的"[[Research Translation|技术转化]]工具"——成员从前竞争知识池中选择对自己最有价值的部分，注入自己的专有信息，开发出具有市场[[Competitiveness|竞争力]]的产品或工艺。
 
-两层之间的衔接逻辑是。前竞争研究降低所有成员面临的共同技术障碍（例如硬金属加工的基础工艺参数），产品专项研究让每个成员在共同基础上建立自己的差异化优势（例如针对特定涡轮发动机型号的优化加工方案）。资助更多产品专项项目的成员通常从联合体中获益最大（pp.117–118）。
+两层之间的衔接逻辑是。前竞争研究降低所有成员面临的共同技术障碍（例如硬金属加工的基础工艺参数），产品专项研究让每个成员在共同基础上建立自己的差[[Alienation|异化]]优势（例如针对特定涡轮发动机型号的优化加工方案）。资助更多产品专项项目的成员通常从联合体中获益最大（pp.117–118）。
 
 一个具体例子说明了这种两层机制的效果。一个产品专项项目大幅提高了某新型涡轮发动机叶片安装座的加工效率。这个效率提升只属于赞助企业——其他成员仍然可以免费使用前竞争研究产生的基础知识，但无法获得赞助企业通过注入专有信息开发出的特定优化方案（p.115）。
 

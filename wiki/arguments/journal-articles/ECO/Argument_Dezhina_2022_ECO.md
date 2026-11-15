@@ -27,6 +27,7 @@ related_concepts:
   - "[[Early-Career Researchers]]"
   - "[[Big Science]]"
   - "[[South-South Cooperation]]"
+  - "[[Alienation]]"
 related_theories: []
 related_methods:
   - "[[Intervention Research]]"
@@ -48,14 +49,14 @@ sources:
 part_of:
 status: draft
 created: '2026-06-26'
-updated: 2026-11-11
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Dezhina_2022_ECO"
 argument_key: "Argument_Dezhina_2022_ECO"
 argument_display_title: "Movement towards autarky in Russian science through the prism of international cooperation"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -252,7 +253,7 @@ issuing_organization: ""
 
 > [!warning] 自述局限
 > - 缺乏俄罗斯人才外流的官方直接统计数据，主要依赖[[National Science Foundation\|美国国家科学基金会]]等外部间接数据，可能存在样本统计覆盖面的局限。
-> - 仅对自足政策 and 国际合作管制的宏观案例进行了系统展现，尚未针对具体学科（如高能物理学与军事双重用途学科）划分出差异化的实证数据对比。
+> - 仅对自足政策 and 国际合作管制的宏观案例进行了系统展现，尚未针对具体学科（如高能物理学与军事双重用途学科）划分出差[[Alienation|异化]]的实证数据对比。
 
 ---
 

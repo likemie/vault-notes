@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_display_title: "Chapter one: Education"
 argument_kind: "book-chapter"
-argument_related_count: 64
+argument_related_count: 65
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -68,6 +68,7 @@ related_concepts:
   - "[[Free School Meals]]"
   - "[[Seed Funding]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Alienation]]"
   - "[[Teacher Professional Agency]]"
   - "[[Academic Achievement]]"
   - "[[Computational Thinking]]"
@@ -104,7 +105,7 @@ sources:
 part_of: "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 status: draft
 created: 2026-08-22
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 ---
 
@@ -258,7 +259,7 @@ updated: 2026-11-11
 
 > [!policy-design] 皇家学会面向 18 岁全员宽口径跨学科教育改革蓝图
 > - **十年政策演进脉络（Policy Trajectory）** 皇家学会依托《Vision》(2014)《Envision》(2022) 及《Mathematical Futures》(2023) 系列战略报告，持续倡导构建面向 18 岁所有学习者的宽口径跨学科文凭框架（Baccalaureate-style Framework），彻底打破 3 门 A-level 的狭隘传统。（pp. 34–35）
-> - **18 岁全员数理与科学核心贯通（Maths & Science for All to 18）** 确立所有学生在 18 岁前保持修读数学、数据与基础科学素养的必修机制，根据学术与技术不同发展方向提供差异化、情境化的数理模块，支撑全民数字化决策能力。
+> - **18 岁全员数理与科学核心贯通（Maths & Science for All to 18）** 确立所有学生在 18 岁前保持修读数学、数据与基础科学素养的必修机制，根据学术与技术不同发展方向提供差[[Alienation|异化]]、情境化的数理模块，支撑全民数字化决策能力。
 > - **跨学科模块广度（Interdisciplinary Breadth）** 推行涵盖自然科学、数学与计算、人文学科、现代语言与创意艺术的综合大纲，要求所有高中生修读至少 5 门学科模块，实现文理融通与复合素养储备。
 > - **职业技术教育地位重塑与立交桥融通（Parity of Esteem for Technical Pathways）** 依托 T-levels、新型 V-levels 改革及《Science 2040》倡议，在学术路径与职业技术培训（TVET）之间搭建畅通衔接的立交桥，吸引产业界深度共建课程，提升技能人才的社会声望。
 > - **对 2025 年国家《课程与评估审查》的政策建言** 直接呼吁英格兰课程审查委员会（Prof Becky Francis 主持）以国家意志推进高中学段结构性重塑，以宽口径通用资格证书替代碎片化分科考试。

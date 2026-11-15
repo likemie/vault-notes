@@ -7,7 +7,7 @@ title: "Argument_Garcia_Garrido_2009_SpainEU"
 argument_key: "Argument_Garcia_Garrido_2009_SpainEU"
 argument_display_title: "The European Union and education in Spain"
 argument_kind: "book-chapter"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Nationalism]]"
   - "[[Comprehensive Education]]"
   - "[[Heterogeneity]]"
+  - "[[Alienation]]"
   - "[[State Educational Sovereignty]]"
   - "[[Critique of PISA]]"
   - "[[Study Abroad]]"
@@ -71,7 +72,7 @@ related_facts:
   - "[[Times Higher Education World University Rankings]]"
 status: completed
 created: 2026-10-11
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 ---
 
@@ -84,7 +85,7 @@ updated: 2026-11-11
 > [!concept-lens] 阅读透镜
 > - **对象** 西班牙现代教育体制（从 19 世纪自由主义改革、1970 年弗朗哥晚期改革到当代民主转型立法）及其在欧盟主要成员国（英国、美国、德国、法国、意大利、比利时与北欧国家）比较坐标中的定位。
 > - **张力** 亲欧话语（Europeanist rhetoric）与孤立心态的张力；超国家趋同诉求与 17 个自治区地方[[Nationalism|民族主义]]割据的张力；追求形式平等的一体化[[Comprehensive Education|综合教育]]与学生资质[[Heterogeneity|异质性]]导致的学业失败之间的张力。
-> - **贡献** 打破了将欧洲一体化简单等同于单向进步与自愿趋同的理想化叙事，从学术自省视角深入解剖了后发国家在教育现代化借用过程中产生的制度排异、行政膨胀与质量异化。
+> - **贡献** 打破了将欧洲一体化简单等同于单向进步与自愿趋同的理想化叙事，从学术自省视角深入解剖了后发国家在教育现代化借用过程中产生的制度排异、行政膨胀与质量[[Alienation|异化]]。
 
 ---
 

@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: brazil
 person_region: "brazil"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ tags:
   - theme/educational-finance
 related_concepts:
   - "[[Multilateral Development Bank]]"
+  - "[[Alienation]]"
   - "[[International Education]]"
   - "[[Counterpart Funds]]"
   - "[[Paradigm]]"
@@ -62,7 +63,7 @@ updated: 2026-11-15
 
 > [!person-profile] 人物档案
 > - **身份位置** 巴西著名教育经济学家、比较教育学者与国际发展金融实务专家；曾长期担任巴西联邦政府高阶科技教育官员，并在全球两大代表性[[Multilateral Development Bank|多边开发银行]]（[[World Bank|世界银行]]与[[Inter-American Development Bank|泛美开发银行]]）历任高级教育顾问与部门司长。
-> - **核心角色** 在比较教育学与国际发展研究中扮演关键的“圈内反思者”与制度解构者角色；打破了外界将多边金融机构抽象妖魔化或盲目崇拜的二元对立，从金融发债结构、组织行政亚文化、主权借贷博弈与执行评估异化等实务微观机制，深刻揭示了[[International Education|国际教育]]治理的真实运作图景与制度边界。
+> - **核心角色** 在比较教育学与国际发展研究中扮演关键的“圈内反思者”与制度解构者角色；打破了外界将多边金融机构抽象妖魔化或盲目崇拜的二元对立，从金融发债结构、组织行政亚文化、主权借贷博弈与执行评估[[Alienation|异化]]等实务微观机制，深刻揭示了[[International Education|国际教育]]治理的真实运作图景与制度边界。
 > - **代表贡献** 阐明[[Multilateral Development Bank|多边开发银行]]作为“主权信用合作社”的金融本质；提出国际教育治理中的“思想与资金双轮驱动论”并揭示缺乏信贷杠杆的“免费建议廉价性悖论”；系统确立[[Counterpart Funds|对等配套资金]]在抵御政客走马灯轮替与导致项目拖延的双重制度效应；与维尔迪斯科（A. Verdisco）合作揭示多边银行“方案设计端为学习型组织、执行评估端为非学习型组织”的深层体制矛盾；力推拉美职业技术教育现代化与普职分流改革。
 
 > [!citation-card] 圈内高阶官员的参与反思定位

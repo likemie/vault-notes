@@ -10,10 +10,10 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: 1957
 lifespan: "1957–至今"
 tags:
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Lifestyle Technology]]"
   - "[[Paradigm]]"
   - "[[Credential Inflation]]"
+  - "[[Alienation]]"
   - "[[Consumer Internet]]"
   - "[[Construct]]"
 related_theories: []
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -85,7 +86,7 @@ updated: 2026-10-22
 > [!influence-path] 影响路径
 > - **定量历史学路径** 开创了运用宏观历史数据库（如 Seshat 历史数据库）检验历史社会学假说的实证[[Paradigm|范式]]。
 > - **政治经济学路径** 深刻启发了对西方[[Credential Inflation|文凭通胀]]、中产阶层地位焦虑与民粹主义思潮的结构性解释。
-> - **科技大战略批判路径** 卡普与扎米斯卡（2025）将图尔钦的精英过剩机制引入对硅谷技术研发异化的分析，为理解[[Consumer Internet|消费互联网]]兴起提供了阶层社会学视角。
+> - **科技大战略批判路径** 卡普与扎米斯卡（2025）将图尔钦的精英过剩机制引入对硅谷技术研发[[Alienation|异化]]的分析，为理解[[Consumer Internet|消费互联网]]兴起提供了阶层社会学视角。
 
 ---
 

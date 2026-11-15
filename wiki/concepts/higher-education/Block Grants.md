@@ -11,7 +11,7 @@ aliases:
 summary: "中央或上级资助主体向学校、地方学区或下级自治实体划拨的未指定微观细项用途的整笔总额预算，由受资助机构在宏观法定框架内自主统筹分配于教学、人事与基建等支出，构成现代高等教育去规制化与远距离操纵治理的核心财政工具。"
 type: concept
 domain: "higher-education"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Strategic Autonomy]]"
   - "[[Red Tape]]"
+  - "[[Alienation]]"
   - "[[Bureaucracy]]"
   - "[[New Public Management]]"
   - "[[Document]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -82,7 +83,7 @@ updated: 2026-11-11
 > | **调控逻辑** | 事前控制、凭据报销、防范违规 | 宏观授权、内部统筹、[[Strategic Autonomy\|战略自主]] | 结果导向、指标竞争、效率激励 |
 > | **微观裁量权** | 极低，科目变更需逐级行政报批 | 极高，机构领导层自主统筹调配 | 中等，依据预设指标公式自动结算 |
 > | **行政成本与[[Red Tape\|繁文缛节]]** | 极高，伴生繁琐核算公式与财务合规审查 | 极低，行政流程大幅简化，消除审查冗余 | 中等，需维持庞大的指标采集与数据核查系统 |
-> | **适应外部变迁能力** | 僵化迟滞，难以响应新兴学科与市场需求 | 敏捷灵活，支持跨周期投资与战略调整 | 易引发短视行为与迎合指标的博弈异化 |
+> | **适应外部变迁能力** | 僵化迟滞，难以响应新兴学科与市场需求 | 敏捷灵活，支持跨周期投资与战略调整 | 易引发短视行为与迎合指标的博弈[[Alienation\|异化]] |
 > | **治理[[Paradigm\|范式]]匹配** | 传统韦伯式[[Bureaucracy\|科层制]] | 政策网络协同与[[Steering at a Distance\|远距离操纵]] | 激进市场化[[New Public Management\|新公共管理]]（NPM） |
 
 ---

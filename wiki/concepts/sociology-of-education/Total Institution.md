@@ -8,10 +8,10 @@ aliases:
 summary: "欧文·戈夫曼提出的社会学经典概念，指将同类群体的全部生活集中在单一场所和单一权威之下、与外部社会高度隔绝且管理者与被管理者截然对立的封闭组织形态；可用于审视寄宿学校及当代精英大学的制度规训与心智塑造。"
 type: concept
 domain: "sociology-of-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - sociology-of-education
   - theme/power
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Bureaucracy]]"
   - "[[Disciplina and Doctrina]]"
   - "[[The Sublime]]"
+  - "[[Alienation]]"
   - "[[Open-Mindedness]]"
   - "[[Paradigm]]"
 related_theories: []
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -95,7 +96,7 @@ updated: 2026-11-14
 ---
 
 > [!concept-proposition] 命题二｜当代精英高校的机构封闭与无摩擦文化系统性磨灭行动者的道德决断力
-> **现代高等教育的机构异化与心智规训** 探讨当代顶尖大学如何演变为新型符号性全控机构，并在过度保护中扼杀面对现实复杂世界的智识勇气。
+> **现代高等教育的机构[[Alienation|异化]]与心智规训** 探讨当代顶尖大学如何演变为新型符号性全控机构，并在过度保护中扼杀面对现实复杂世界的智识勇气。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
 > **精英大学的内部封闭与信念驯化** 当代西方顶尖大学名义上扩大了生源的多样性与[[Open-Mindedness|开放性]]，但其实际内部管理与文化却高度封闭、戒备森严且与外部现实世界严密隔绝。这种新型全控机构系统性消除了人际互动中不可避免的观念摩擦与观点交锋，将可能引发不适的真实冲突替换为繁复的语言监管与合规防线。这种封闭的环境剥夺了学生与行政领导层直面真实世界、承受争议代价的本能，导致公共精英普遍沦为精于避险、缺乏道德定力的技术官僚。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 64–65)]]

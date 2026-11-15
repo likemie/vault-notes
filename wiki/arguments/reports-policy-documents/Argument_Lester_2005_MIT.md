@@ -7,7 +7,7 @@ title: "Argument_Lester_2005_MIT"
 argument_key: "Argument_Lester_2005_MIT"
 argument_display_title: "Universities, innovation, and the competitiveness of local economies: A summary report from the Local Innovation Systems Project – Phase I (MIT Industrial Performance Center Working Paper 05–010)"
 argument_kind: "report"
-argument_related_count: 11
+argument_related_count: 13
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
@@ -32,7 +32,9 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Competitiveness]]"
   - "[[Structural Holes]]"
+  - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Tacit Knowledge]]"
+  - "[[Alienation]]"
   - "[[External Validity]]"
 related_theories:
   - "[[Systems of Innovation]]"
@@ -48,7 +50,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-10
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 ---
 > [!question]
@@ -171,7 +173,7 @@ Lester 的核心发现：类型一，新产业形成，实际上是"非常罕见
 > - **吸引外部资源** 大学可以吸引新的人才、知识和金融资源从外部进入本地。这在类型二（产业移植）中尤为关键——大学的声誉和研究能力是吸引跨国企业投资的重要因素
 > - **适配外部知识** 帮助将源自其他地方的知识适配到本地条件。不是所有地区都能创造前沿知识，但所有地区都需要吸收和适配外部知识的能力
 > - **整合分离领域** 帮助整合此前分离的技术活动领域。在类型三（产业多样化）中，大学是桥接不同技术领域的天然平台
-> - **解锁本地知识** 帮助解锁和重新导向已经存在于本地区但未被有效利用的知识。许多地区拥有[[Tacit Knowledge|隐性知识]]和未充分利用的技术能力，大学可以帮助识别和激活这些资源
+> - **解锁[[Local Knowledge in Evidence-Based Policy|本地知识]]** 帮助解锁和重新导向已经存在于本地区但未被有效利用的知识。许多地区拥有[[Tacit Knowledge|隐性知识]]和未充分利用的技术能力，大学可以帮助识别和激活这些资源
 
 Lester 指出，这些间接贡献往往比直接的专利许可和创业孵化更为重要，特别是对于那些不在技术前沿的地区。但恰恰因为它们难以量化（没有专利数或许可收入这样的简单指标），它们几乎从未进入大学经济开发政策的优先议程。Lester 的建议是：大学需要更清楚地意识到本地产业正在沿着什么路径发展，以及沿着这些路径发生的创新过程，然后将自身的贡献与本地经济实际发生的情况相对齐——这种策略性方法与追求大学在教育和研究方面的传统核心使命完全兼容。
 
@@ -179,7 +181,7 @@ Lester 指出，这些间接贡献往往比直接的专利许可和创业孵化�
 
 > [!finding-cards] 核心发现
 > 1. **大学贡献取决于本地产业转型类型** 新产业形成、产业移植、产业多样化、产业升级分别需要不同的大学贡献组合
-> 2. **一刀切的[[Technology Transfer\|技术转移]]策略应被替代** 大学需要更全面、更差异化的视角看待自身的经济角色，将贡献与本地经济实际发生的转型相对齐
+> 2. **一刀切的[[Technology Transfer\|技术转移]]策略应被替代** 大学需要更全面、更差[[Alienation|异化]]的视角看待自身的经济角色，将贡献与本地经济实际发生的转型相对齐
 > 3. **教育的贡献常被低估** 在许多转型类型中，人才培养是大学最重要也最基础的经济贡献
 > 4. **大学的公共空间角色被忽视** 作为中性对话场所的功能对于本地[[Systems of Innovation\|创新系统]]的健康运作至关重要
 

@@ -9,7 +9,7 @@ aliases:
 summary: "指借鉴气象学飓风移动路径追踪与同化机制所构建的学术成果未来被引时序前瞻投射区间。该方法截取成果发表后早期的时序数据训练微观动力学模型，生成未来数十年最可能的引文主轨迹与不确定性置信锥体；随着训练窗口从5年拓宽至10年，预测包络显著收窄并高精度覆盖实际轨迹；同时引发评价反身性，可能导致慢热型构想被过早淘汰（Wang et al., 2013; Wang & Barabási, 2021）。"
 type: concept
 domain: "science-policy"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Ultimate Impact]]"
   - "[[Reflexivity]]"
+  - "[[Alienation]]"
   - "[[Reliability]]"
   - "[[Discourse]]"
   - "[[Document]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-11-02"
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -107,7 +108,7 @@ updated: 2026-11-11
 
 ---
 
-> [!concept-proposition] 命题一｜引文预测包络具有长程高精度，但大规模制度化应用面临反身性异化
+> [!concept-proposition] 命题一｜引文预测包络具有长程高精度，但大规模制度化应用面临反身性[[Alienation|异化]]
 > **科学前瞻预测能力与社会学反身性风险** 探讨定量预测算法对学术成果长远价值的预见能力及其对科学建制生态的反向塑造。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang et al. (2013)]]

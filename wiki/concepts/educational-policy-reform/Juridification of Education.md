@@ -9,10 +9,10 @@ aliases:
 summary: "源自哈贝马斯批判理论并在当代教育社会学与治理研究中深入发展的核心概念；指法律规范、条文对标、司法仲裁程序与法定行政制裁向学校教育日常运作的全面扩张；以瑞典新《教育法》实施为典型代表，外部督导从传统的专业教学支持形态，转变为以法定义务履行核查、行政罚款威慑与投诉处理为主导的司法化规制，引发学校实践的防御性合规。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 subtype: educational-policy-reform
 tags:
   - concept/educational-policy-reform
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Rich and Thick Description]]"
   - "[[Analytical Stance]]"
+  - "[[Alienation]]"
   - "[[Surface and Deep Learning]]"
   - "[[Forensic Style of Inspection]]"
   - "[[State Simplification]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -118,7 +119,7 @@ updated: 2026-11-11
 > > 围绕法律强制介入究竟保护了学生受教育权利，还是牺牲了教育生态的活力与弹性展开交锋。
 > >
 > > - **法律正义维护立场** 在市场化与分散办学环境下，若无刚性法律条文与巨额罚款威慑，弱势残障学生与遭遇校园霸凌儿童的权益将任由学校随意处置；司法化为公民提供了对抗体制怠惰的法治盾牌。
-> > - **教育学生态[[Analytical Stance|批判立场]]** 过度司法化把原本充满情感关怀与教育机智的师生家校关系异化为潜在的原被告对立，教师动辄得咎、战战兢兢，最终受损的仍是全体学生的[[Surface and Deep Learning|深层学习]]体验。
+> > - **教育学生态[[Analytical Stance|批判立场]]** 过度司法化把原本充满情感关怀与教育机智的师生家校关系[[Alienation|异化]]为潜在的原被告对立，教师动辄得咎、战战兢兢，最终受损的仍是全体学生的[[Surface and Deep Learning|深层学习]]体验。
 
 ---
 

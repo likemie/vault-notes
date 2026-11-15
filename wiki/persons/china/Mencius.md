@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: china
 person_region: "china"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Humility]]"
   - "[[Ritual Propriety]]"
   - "[[Discourse]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Neo-Confucianism]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -144,7 +145,7 @@ updated: 2026-10-22
 > - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 边缘学生批判指出，教材中宣传的孟子式“修身齐家治国平天下”构成了男权精英政治[[Discourse|话语]]，漠视女性角色，且将汉族精英的政治抱负包装为普遍的国族规范。
 
 > [!warning] 未解问题与边界
-> 孟子“性善论”赋予了个人极高的道德能动性，但在面对现代多元文化冲突时，如何避免将“自得之”的内在道德感异化为排他性的文化优越感，是传统儒学现代化转型的关键边界。
+> 孟子“性善论”赋予了个人极高的道德能动性，但在面对现代多元文化冲突时，如何避免将“自得之”的内在道德感[[Alienation|异化]]为排他性的文化优越感，是传统儒学现代化转型的关键边界。
 
 ---
 

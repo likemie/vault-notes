@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Big Science]]"
   - "[[Early-Career Researchers]]"
+  - "[[Alienation]]"
   - "[[Indirect Costs of Research]]"
   - "[[Discipline-Based Theory]]"
   - "[[Pragmatic Paradigm]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -84,7 +85,7 @@ updated: 2026-11-11
 >
 > *The quality and quantity of basic research and graduate education depend primarily on whether Federal funding is adequate... In this sense, the Federal Government has an inescapable responsibility. The process of basic research and graduate education must be viewed as an integrated task.*
 
-> [!citation-card] 西博格报告论软钱职位对学术共同体的异化警告
+> [!citation-card] 西博格报告论软钱职位对学术共同体的[[Alienation|异化]]警告
 > 如果一所大学仅仅依赖具体的联邦项目资助来设立永久性教授职位，而在联邦资金断绝时拒绝承担任何兜底保障责任，就会制造出一种极其令人不满的“二等公民”教职阶层，我们对此坚决表示反对。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 17)]]
 >
 > *"If a university makes permanent professorial appointments in reliance upon particular federal project support, and rejects any residual responsibility for financing the appointment if federal funds should fail, a most unsatisfactory sort of 'second-class citizenry' is created, and we are firmly against this sort of thing."*

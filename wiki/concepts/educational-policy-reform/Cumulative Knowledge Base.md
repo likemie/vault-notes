@@ -7,10 +7,10 @@ aliases:
 summary: "教育知识治理的核心终极命题，指通过跨机构协作、多元方法证据综合与元中介机制，建构一套被全球教育系统准普遍公认为基础坚实、可跨情境调适并经得起时间检验的共享性知识体系。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - concept/educational-policy-reform
   - theme/knowledge-governance
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Professional Judgment]]"
   - "[[Positivism]]"
+  - "[[Alienation]]"
   - "[[Cognitive Deskilling]]"
   - "[[Reflexivity]]"
   - "[[Professional Learning Community]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -154,7 +155,7 @@ updated: 2026-11-11
 > **[[Epistemology\|认识论]]整合与反技术化拆解** 探讨[[Positivism\|实证主义]]量化因果标准与一线复杂微观[[Phronesis\|实践智慧]]之间的动态平衡。
 
 > [!claim] [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]; Greenhalgh et al. (2014)
-> **反教条化规则并捍卫教师作为知识型专业人员的专业主体地位** 汲取循证医学（EBM）深陷“指南泛滥、微小效应缺乏临床意义、刚性技术规则排挤个体关怀”五大意外后果的教训，教育累积性知识库绝不能异化为自上而下的算法指令或机械教学处方。课堂分析学与 AI 评分工具若试图将教学活动拆解（Unbundling）为离散的自动化单元，将不可避免地导致教师职业的“[[Cognitive Deskilling|去技能化]]”（Deskilling）（Facer & Selwyn, 2021）。真正的累积性知识库必须将严谨因果证据定位为[[Reflexivity\|反思性]]专业对话的催化剂，高度尊重教师在微观情境中权衡调适证据的临床[[Professional Judgment\|专业判断]]（[[Professional Judgment\|专业判断]]）与实践智慧（[[Phronesis\|实践智慧]]），形成科学实证与扎根实践相融共生的知识大厦。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 65–67]])
+> **反教条化规则并捍卫教师作为知识型专业人员的专业主体地位** 汲取循证医学（EBM）深陷“指南泛滥、微小效应缺乏临床意义、刚性技术规则排挤个体关怀”五大意外后果的教训，教育累积性知识库绝不能[[Alienation|异化]]为自上而下的算法指令或机械教学处方。课堂分析学与 AI 评分工具若试图将教学活动拆解（Unbundling）为离散的自动化单元，将不可避免地导致教师职业的“[[Cognitive Deskilling|去技能化]]”（Deskilling）（Facer & Selwyn, 2021）。真正的累积性知识库必须将严谨因果证据定位为[[Reflexivity\|反思性]]专业对话的催化剂，高度尊重教师在微观情境中权衡调适证据的临床[[Professional Judgment\|专业判断]]（[[Professional Judgment\|专业判断]]）与实践智慧（[[Phronesis\|实践智慧]]），形成科学实证与扎根实践相融共生的知识大厦。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 65–67]])
 
 ---
 

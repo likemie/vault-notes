@@ -7,7 +7,7 @@ aliases:
 summary: "世界银行特有的政策知识打包与中介模式，指将分散于全球各地的政策项目经验集中汇编入库、贴标分类后向各国政府按需推送的政策借鉴服务机制。与 OECD 外向型横向国别比较模式相对，世界银行以自身历史项目组合作为知识仓库，形成高度自指的经验汲取循环。"
 type: concept
 domain: "comparative-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Knowledge Mediation]]"
   - "[[Source of Knowledge]]"
   - "[[Policy Brokerage]]"
+  - "[[Alienation]]"
   - "[[Knowledge Production]]"
   - "[[Discourse]]"
   - "[[Façade of Rationality]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -53,7 +54,7 @@ updated: 2026-10-30
 ---
 
 > [!claim] Steiner-Khamsi et al. 的核心分析
-> 在全球教育政策知识市场日益拥挤的背景下，各大国际组织为维持不可替代的组织利基，将核心评测工具与差异化知识产品打包，形成截然不同的[[Policy Brokerage\|政策中介]]风格。[[World Bank\|世界银行]]以"最佳实践仓储"作为其核心知识服务机制，通过集中化的政策经验库向全球南方政府推销以教育回报率经济学为核心的统一处方；这一模式的自指性循环，使世界银行在事实上成为自我证实型知识权威。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 545)]]
+> 在全球教育政策知识市场日益拥挤的背景下，各大国际组织为维持不可替代的组织利基，将核心评测工具与差[[Alienation|异化]]知识产品打包，形成截然不同的[[Policy Brokerage\|政策中介]]风格。[[World Bank\|世界银行]]以"最佳实践仓储"作为其核心知识服务机制，通过集中化的政策经验库向全球南方政府推销以教育回报率经济学为核心的统一处方；这一模式的自指性循环，使世界银行在事实上成为自我证实型知识权威。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 545)]]
 
 > [!citation-card] 世界银行的自指性经验汲取与最佳实践仓储
 > 世界银行的报告在经验汲取上呈现高度自指特征——反复引用自身既往的 [[Systems Approach for Better Education Results\|SABER]] 评估指标库与历史项目组合，并依靠教育回报率经济学的统一测算框架向各国推销定制化处方。这种以"最佳实践仓储"为核心的知识服务，本质上将世界银行的历史项目组合从单纯的政策经验升格为具有全球规范效力的政策蓝图，由此将其[[Knowledge Production\|知识生产]]与项目融资紧密绑定，形成自我强化的规制闭环。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 545)]]

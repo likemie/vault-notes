@@ -5,7 +5,7 @@ aliases:
 summary: "Castells 空间理论中附着于特定地理领土的生活与实践场所；在教育研究中特指由具体学校、教室、师生身体在场及本土历史制度构成的物理实践空间，在此处自上而下输入的抽象全球教育话语必然遭遇物质资源匮乏与教学行动一致性要求的刚性中介而发生本土化形变与实践脱节。"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Floating Signifier]]"
   - "[[Heterogeneity]]"
+  - "[[Alienation]]"
   - "[[Going Native]]"
   - "[[Presence]]"
   - "[[Knowledge Framework]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-15
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -79,7 +80,7 @@ updated: 2026-11-03
 > | **空间核心载体** | 教室、校园、社区、面对面微观生活场景 | 电子电信通信网、跨国智库与全球枢纽节点 | 议会大厦、教育部中央大楼、法定行政区划 |
 > | **行动约束逻辑** | 具体的教学行动一致性、排课表与物质资源刚性约束 | 追求跨语境普遍性、[[Performativity\|操演性]]声誉与合法性论辩 | 政治妥协、政客印象管理与[[Governance by Spin\|舆论操控]]（Spin） |
 > | **[[Discourse\|话语]]容忍度** | **零容忍多义性** 矛盾政策直接导致教师教学瘫痪 | **偏好高可塑性** 依赖[[Floating Signifier\|漂浮能指]]以容纳[[Heterogeneity\|异质性]]利益 | **高度包容矛盾** 在白皮书中并置革新与保守条款 |
-> | **主要变革机制** | 依据本土经验框架的主动重构、剪裁、异化或抵制 | 技术化提取最佳实践、包装普世政策模板 | 借用外部权威论述平息国内政治争议、换取国际贷款 |
+> | **主要变革机制** | 依据本土经验框架的主动重构、剪裁、[[Alienation\|异化]]或抵制 | 技术化提取最佳实践、包装普世政策模板 | 借用外部权威论述平息国内政治争议、换取国际贷款 |
 > | **实践结果形态** | 政策处方与微观现实脱节、产生[[Going Native\|本土化]]意外[[Shape-Shifting\|形变]] | 生产高度同质化、去历史化的“世界教育常识” | 形成“革新包装、保守实质”的双轨制度结构 |
 
 ---
@@ -93,7 +94,7 @@ updated: 2026-11-03
 > - **历史积淀的制度[[Habitus|惯习]]与本土认知框架（Sedimented [[Habitus]] and Local Frameworks）** 学校是沉积着数十年乃至上百年的本土历史制度（如分科教学传统、师道尊严观念与应试文化），有别于空白的技术受体；教师必然通过这些既有的[[Knowledge Framework|知识框架]]来过滤和阐释所有外来理念。
 > - **极端物质匮乏与资源刚性约束（Material Deprivation and Real Constraints）** 在地方空间中，教学行动直接受制于校舍破损、粉笔匮乏、大[[Class Size|班额]]、教师多校兼职奔波等物质残酷现实；任何脱离物质基础的抽象理念在此处都会迅速碰壁。
 > - **教学行动的一致性诉求（Demand for Pedagogical Consistency）** 与政客可以在政策文本中从容并置不相容声明不同，基层教师站在讲台上面对具体学生时，必须有一套逻辑自洽的教学操作流程；政策的不一致性在地方空间中直接转化为致命的行动阻碍。
-> - **实践转译的本土突变与异化（Local Mutation and [[Shape-Shifting]]）** 当来自[[Space of Flows|流动空间]]的抽象通用政策强行下沉到地方空间时，在物质约束与本土认知中介的双重作用下，必然发生根本性的意义逆转与实践形变。
+> - **实践转译的本土突变与[[Alienation|异化]]（Local Mutation and [[Shape-Shifting]]）** 当来自[[Space of Flows|流动空间]]的抽象通用政策强行下沉到地方空间时，在物质约束与本土认知中介的双重作用下，必然发生根本性的意义逆转与实践形变。
 
 ---
 

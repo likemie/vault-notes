@@ -8,7 +8,7 @@ aliases:
 summary: "个体对特定学科专业领域长期稳定的内在价值认同、深层探究热情与求知定向，兼具超越情境刺激的认知坚守与学术抱负，构成拔尖创新人才从事深层次知识创造的核心内在动力。"
 type: concept
 domain: "higher-education"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Heterogeneity]]"
   - "[[Early-Career Researchers]]"
+  - "[[Genius]]"
   - "[[Variable]]"
   - "[[Doctoral Dissertation]]"
   - "[[Mentorship]]"
@@ -33,6 +34,7 @@ related_concepts:
   - "[[EST Integrated Development]]"
   - "[[Original Innovation Capability]]"
   - "[[Continuous Research Funding]]"
+  - "[[Alienation]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
@@ -49,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -137,7 +139,7 @@ updated: 2026-11-11
 > > [!axis] 先天早熟神童论 vs 制度化系统浸润论
 > > 争论顶尖科学家的学术志向是幼年早慧的天赋自然展现，还是在规范化高等教育制度中逐步淬炼定型。
 > >
-> > - **早熟天赋论** 强调部分科学天才童年时期展现的过人好奇心与自学能力。
+> > - **早熟天赋论** 强调部分科学[[Genius|天才]]童年时期展现的过人好奇心与自学能力。
 > > - **制度浸润论** 实证表明六成以上学者在大学及之后完成志趣定型，系统的专业训练、前沿课程与学术共同体浸润是不可逾越的制度载体。[[Argument_Zhang_Zhao_2026_EDR|(张娟和赵祥辉, 2026, p. 36)]]
 >
 > > [!axis] 过早专业定向 vs 宽口径通识探索
@@ -172,7 +174,7 @@ updated: 2026-11-11
 > | [[EST Integrated Development]] | 概念 | 拔尖创新人才专业志趣培育是教育科技人才一体化发展的微观心理根基。 |
 > | [[Curriculum Vitae Analysis]] | 方法 | 提取学者专业志趣形成关键时序节点的核心计量分析工具。 |
 > | [[Original Innovation Capability]] | 概念 | 学术志趣是驱动青年人才耐住寂寞实现从 0 到 1 原始创新的核心心理资本。 |
-> | [[Continuous Research Funding]] | 概念 | 延续性资助有效保护学者对核心科学难题的持久探究志趣，抵御短期量化异化。 |
+> | [[Continuous Research Funding]] | 概念 | 延续性资助有效保护学者对核心科学难题的持久探究志趣，抵御短期量化[[Alienation\|异化]]。 |
 
 ---
 

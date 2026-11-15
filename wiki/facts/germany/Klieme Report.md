@@ -12,9 +12,9 @@ subtype: policy
 region: germany
 fact_region: "germany"
 fact_kind: "policy"
-fact_related_count: 29
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
 issuing_organization: "[[Federal Ministry of Education and Research]]"
 tags:
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Center of Calculation]]"
   - "[[Total War]]"
+  - "[[Alienation]]"
   - "[[Individualised Instruction]]"
   - "[[Output-Oriented Governance]]"
   - "[[Topological Spatialisation]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-27
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -104,7 +105,7 @@ updated: 2026-10-30
 > [!actor-grid] 权力—立场矩阵
 > - **科学论证主导方 / 实证教育学专家网络** 埃克哈德·克利姆及 DIPF、IPN 等专业研究所专家。将心理测量学与胜任力模型确立为克服政治僵局的技术权威基础。
 > - **政策决策与采纳方 / BMBF 联邦政府与 KMK 各州文教部** 联邦教研部依托专项资金注入与跨州协调机制，推动各州文教部长借助外部危机打破文化主权否决壁垒，全票达成国家标准共识。
-> - **人文哲学反思方 / 传统大学教育学者与哲学家** 担忧基于技能指标的胜任力构念会窄化德国深厚的教养（[[Bildung]]）哲学，批评量化测评将学校异化为应试工厂。
+> - **人文哲学反思方 / 传统大学教育学者与哲学家** 担忧基于技能指标的胜任力构念会窄化德国深厚的教养（[[Bildung]]）哲学，批评量化测评将学校[[Alienation|异化]]为应试工厂。
 > - **基层执行与专业群体 / 中小学教师与教师联合会** 欢迎清晰的学业期待与诊断工具，但强烈警惕统一测试演变为公开排名与针对教师个人的惩罚性问责工具。
 
 > [!tension] 理念分歧与斗争结构

@@ -7,7 +7,7 @@ title: "Argument_Burns_Schuller_2022_BrokerageAgencies"
 argument_key: "Argument_Burns_Schuller_2022_BrokerageAgencies"
 argument_display_title: "History and evolution of brokerage agencies in education"
 argument_kind: "book-chapter"
-argument_related_count: 95
+argument_related_count: 96
 argument_related_level: 9
 argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Phronesis]]"
   - "[[Epistemic Governance]]"
+  - "[[Alienation]]"
   - "[[Cumulative Knowledge Base]]"
   - "[[Knowledge Production]]"
   - "[[Recommendations for Practice]]"
@@ -140,7 +141,7 @@ sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch03_Burns_Schuller_2022|Ch03_Burns_Schuller_2022]]"
 status: draft
 created: 2026-09-12
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 ---
 
@@ -167,7 +168,7 @@ updated: 2026-11-11
 > | **[[Professional Judgment\|教学作为知识型专业与去技能化批判]]（Facer & Selwyn, 2021; Guerriero & Révai, 2017; Ulferts, 2021）** | 批判将教师工作拆解为自动化离散任务的技术官僚倾向，强调教学建立在复杂情境反思、扎根实践经验与伦理审议的基础之上，确立教师在知识生态中的专业主体地位。（p. 66） |
 
 > [!warrant]- 理论如何支撑论证
-> 借助教育[[Epistemic Governance\|知识治理]]的复杂系统理论，表明将研究成果视作标准化现成商品的古典单向供给假设已不合时宜；引入 Langer 等人的三维支柱模型，阐明仅有获取通道与解读技能不足以促成知识转化，唯有深植于社群信任的社会关系互动才能激活实践行为转变。进而，通过中介机构的三维治理谱系透视不同组织在应对复杂性时的体制约束，并借助循证医学的五重反思逻辑，有力论证在缺乏跨机构元协调机制（Brokering the Brokers）的情况下，孤立机构不仅极易沦为短期政治预算更迭的牺牲品，更可能将循证运动推向去专业化与商业异化的深渊，从而为构建跨国[[Cumulative Knowledge Base\|累积性知识库]]奠定严密的学理正当性。（pp. 58–60, 64–68）
+> 借助教育[[Epistemic Governance\|知识治理]]的复杂系统理论，表明将研究成果视作标准化现成商品的古典单向供给假设已不合时宜；引入 Langer 等人的三维支柱模型，阐明仅有获取通道与解读技能不足以促成知识转化，唯有深植于社群信任的社会关系互动才能激活实践行为转变。进而，通过中介机构的三维治理谱系透视不同组织在应对复杂性时的体制约束，并借助循证医学的五重反思逻辑，有力论证在缺乏跨机构元协调机制（Brokering the Brokers）的情况下，孤立机构不仅极易沦为短期政治预算更迭的牺牲品，更可能将循证运动推向去专业化与商业[[Alienation|异化]]的深渊，从而为构建跨国[[Cumulative Knowledge Base\|累积性知识库]]奠定严密的学理正当性。（pp. 58–60, 64–68）
 
 ---
 

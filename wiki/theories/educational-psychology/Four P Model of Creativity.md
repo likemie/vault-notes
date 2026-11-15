@@ -9,7 +9,7 @@ aliases:
 summary: "由罗兹提出的经典创造力全域整合分析框架，将创造力系统解构为人（Person）、过程（Process）、产品（Product）与压力/环境（Press）四个交互维度，构成创造力心理学与教育实证研究的奠基性元理论。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 38
+theory_related_count: 39
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Creativity Assessment]]"
   - "[[Gatekeepers]]"
+  - "[[Alienation]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Meta-meta-analysis]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -219,4 +220,4 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Runco_2026_CRJ\|Runco et al., 2026]] — 将 4P 框架作为全领域[[Meta-meta-analysis\|二阶元分析]]的宏观调节分类学基础，系统验证了环境干预、认知过程与外认知特质对[[Creativity\|创造力]]表现的差异化赋能效应。
+> - [[Argument_Runco_2026_CRJ\|Runco et al., 2026]] — 将 4P 框架作为全领域[[Meta-meta-analysis\|二阶元分析]]的宏观调节分类学基础，系统验证了环境干预、认知过程与外认知特质对[[Creativity\|创造力]]表现的差[[Alienation|异化]]赋能效应。

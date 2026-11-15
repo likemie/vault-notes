@@ -13,7 +13,7 @@ aliases:
 summary: "科研资助与同行评审改革中的混合遴选机制；在同行评审完成门槛资格初筛、剔除不达标提案后，对处于资助决断线边际（funding line）的全部合格申请案采用随机抽签或贝叶斯随机化分配资助，以破除专家打分在顶端区间的伪精度假象、地位偏见与新颖性惩罚，降低申请者的标书辞藻包装内耗。"
 type: concept
 domain: "science-policy"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Creativity]]"
+  - "[[Alienation]]"
   - "[[Predictive Validity]]"
   - "[[Golden Ticket Mechanism]]"
   - "[[Evaluation Research]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-03
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -67,7 +68,7 @@ updated: 2026-11-11
 > - **边界** 抽签并不替代前期同行评审的学术底线把关，不适用于未经专业初筛的无门槛直接随机派发。
 
 > [!citation-card|notitle] 关键表述
-> 改善公平性与[[Creativity|创造力]]的机制包括：严格过滤不及格申请、为不同职业阶段设定差异化要求、在最终评估阶段引入部分抽签以减少偏见，以及采用显式新颖性加权优先资助创新构想。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 5)]]
+> 改善公平性与[[Creativity|创造力]]的机制包括：严格过滤不及格申请、为不同职业阶段设定差[[Alienation|异化]]要求、在最终评估阶段引入部分抽签以减少偏见，以及采用显式新颖性加权优先资助创新构想。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 5)]]
 >
 > *(Changes that could further improve fairness and creativity include... mechanisms such as strict filtering of 'insufficient' applications, the determination of different requirements at different career stages, partial lotteries at the final evaluation stages to reduce bias and explicit novelty weighting to prioritize innovative ideas over conservative ones.)*
 

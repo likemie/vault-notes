@@ -9,7 +9,7 @@ aliases:
 summary: "学生在教育性活动中投入时间、精力与心智的综合构念，涵盖行为、情感、认知与认识论维度，受阶层文化习性制约，并作为连接教育环境与深层学业发展的核心中介机制。"
 type: concept
 domain: "higher-education"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Academic and Social Integration]]"
   - "[[Construct]]"
+  - "[[Alienation]]"
   - "[[Academic Achievement]]"
   - "[[Reflexivity]]"
   - "[[Extracurricular Activities]]"
@@ -65,7 +66,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 （学生投入）
@@ -98,7 +99,7 @@ updated: 2026-11-03
 > | 比较维度 | 学生投入（Student Engagement, Kuh） | [[Student Involvement\|学生涉入]]（Student Involvement, Astin） | 学业与社会融入（Tinto） | 认识性投入（Epistemic Engagement, Du & Yuan） |
 > |---|---|---|---|---|
 > | **核心视角** | 行为[[Operationalization\|操作化]]与院校支持交互 | 心理与生理能量的连续倾注 | 群体规范内化与心理社会归属 | 证据检验、反思监控与主体性承担 |
-> | **分析重点** | 课内外教育性实践的时间与精力利用 | 涉入过程的质量与个人全身心投入 | 克服异化感、建立人际与制度连接 | 直面认识不确定性、承受探究思维摩擦 |
+> | **分析重点** | 课内外教育性实践的时间与精力利用 | 涉入过程的质量与个人全身心投入 | 克服[[Alienation\|异化]]感、建立人际与制度连接 | 直面认识不确定性、承受探究思维摩擦 |
 > | **测量表征** | 师生互动频率、[[Academic Achievement\|GPA]]、项目参与、方向明确度 | 主观精力投入感、自我耗竭程度 | 院校同化感、脱落风险、社交融入度 | 对算法输出的质疑核验、修改反驳决策 |
 > | **教育责任** | 强调学生能动性与学校制度支持的双向责任 | 主要落脚于学生个体的心理能量分配 | 侧重大学社群文化的包容与吸纳机制 | 技术界面透明度设计与[[Reflexivity\|反思性]]教学规程 |
 

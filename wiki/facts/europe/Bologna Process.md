@@ -12,7 +12,7 @@ subtype: policy
 region: europe
 fact_region: "europe"
 fact_kind: "policy"
-fact_related_count: 56
+fact_related_count: 58
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -43,11 +43,13 @@ related_concepts:
   - "[[Open Method of Coordination]]"
   - "[[Bologna Process Export Thesis]]"
   - "[[Global Regionalisms]]"
+  - "[[Mimesis]]"
   - "[[Commensuration]]"
   - "[[European Education Space]]"
   - "[[Student Mobility]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Global Universities Rankings]]"
+  - "[[Alienation]]"
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[Panopticism]]"
@@ -90,7 +92,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-29
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -196,7 +198,7 @@ updated: 2026-11-14
 >
 > > [!axis] 争议五：[[Bologna Process Export Thesis|博洛尼亚进程输出假说]]与[[Global Regionalisms|全球区域主义]]的多元自主性
 > > 博洛尼亚进程是全球高等教育区域合作的普适模板，还是特定历史制度脉络的区域产物？
-> > - **输出假说（Export Thesis）** 传统欧洲高等教育研究与新[[Comparative Regionalism|比较区域主义]]常预设博洛尼亚进程作为全球高等教育一体化的标准范本，主张其他地理区域主要通过政策借鉴、竞争或模仿吸收其经验。
+> > - **输出假说（Export Thesis）** 传统欧洲高等教育研究与新[[Comparative Regionalism|比较区域主义]]常预设博洛尼亚进程作为全球高等教育一体化的标准范本，主张其他地理区域主要通过政策借鉴、竞争或[[Mimesis|模仿]]吸收其经验。
 > > - **实证批判** [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] 通过实地调研指出，东南亚等地区早在博洛尼亚进程之前已开展内生的高教政策合作；[[SEAMEO RIHED]]的区域测绘报告明确警惕博洛尼亚的大一统路径并建议规避；东南亚国家基于国家主权维护与[[ASEAN|东盟]]方式，自主选择了以大学结网与政府柔性协调并存的多元化路径，反驳了单向扩散预设。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 153–156)]]
 >
 > > [!axis] 争议六：政府间博洛尼亚进程的动能衰竭与认识论基础设施转型
@@ -237,7 +239,7 @@ updated: 2026-11-14
 > | [[Sotiria Grek]] | Person | 提出认识论基础设施分析框架，解构欧洲高教质保与博洛尼亚进程演化的政策社会学家。 |
 > | [[António Nóvoa]] | Person | 提出欧盟软法治理三重机制与博洛尼亚趋同逻辑的比较教育学者。 |
 > | [[Jason Beech]] | Person | 揭示欧盟借助博洛尼亚进程进行超国家政策转移与治理重构的比较教育学者。 |
-> | [[José Luis García Garrido]] | Person | 深入剖析博洛尼亚进程在南欧成员国落地中的制度异化与质量困境的比较学者。 |
+> | [[José Luis García Garrido]] | Person | 深入剖析博洛尼亚进程在南欧成员国落地中的制度[[Alienation\|异化]]与质量困境的比较学者。 |
 
 ---
 

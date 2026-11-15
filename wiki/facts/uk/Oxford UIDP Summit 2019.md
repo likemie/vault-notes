@@ -10,7 +10,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Alienation]]"
   - "[[Research and Technology Organisation]]"
 related_theories:
   - "[[King-Persily Model]]"
@@ -37,7 +38,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 > [!info] 背景
@@ -76,5 +77,5 @@ updated: 2026-10-22
 > [!example] 相关概念／理论
 > - [[Innovation Ecosystem]] — 峰会将战略性发展本地创新生态系统识别为强化[[University-Industry Collaboration\|产学合作]]的首要趋势
 > - [[King-Persily Model]] — 峰会上作为敏感数据共享的解决方案被介绍和讨论
-> - [[Lester's Typology of University Contributions to Local Industry]] — 峰会引用的理论框架，用于理解大学在不同产业情境下的差异化贡献
+> - [[Lester's Typology of University Contributions to Local Industry]] — 峰会引用的理论框架，用于理解大学在不同产业情境下的差[[Alienation|异化]]贡献
 > - [[Triple Helix]] — 峰会讨论的多个议题（如 [[Research and Technology Organisation\|RTO]]、国家研发目标）都在三重螺旋的[[Analytic Framework\|分析框架]]之中

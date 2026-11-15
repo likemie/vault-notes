@@ -7,7 +7,7 @@ aliases:
 summary: "指专业学习共同体运作中，实践者未真正投入探究便径直跳到解决方案的活动形态；其后果是实践与情境的根本问题未被确立、未考虑全部成因与方案，并因做法“已知”而重复无效实践。"
 type: concept
 domain: "teacher-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Teacher Collaboration]]"
   - "[[Poor Research Use]]"
   - "[[Research Utilization]]"
+  - "[[Alienation]]"
   - "[[School Enquiry Cycle]]"
   - "[[Reflexivity]]"
   - "[[Reflective Thinking]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-15
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -71,7 +72,7 @@ updated: 2026-11-03
 
 > [!boundary]- 概念边界
 > - 不等于 [[Professional Learning Community]] — 后者是协作学习的组织形态，前者是该形态在探究环节缺位时的退化状态。
-> - 不等于 [[Poor Research Use]] — 后者指向[[Research Utilization\|证据使用]]脱离学情、缺乏批判审思的多种异化形态，活动陷阱是其中一种可被具体诊断的过程性表现。
+> - 不等于 [[Poor Research Use]] — 后者指向[[Research Utilization\|证据使用]]脱离学情、缺乏批判审思的多种[[Alienation|异化]]形态，活动陷阱是其中一种可被具体诊断的过程性表现。
 > - 不适用于 — 不能用来批评所有即时性的教学决策;概念针对的是正式协作探究活动中跳过成因分析的做法。
 
 ---

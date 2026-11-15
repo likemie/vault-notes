@@ -7,7 +7,7 @@ aliases:
 summary: "更有经验者通过示范、辅导、支架与支持促进新手专业、认知与职业发展的过程，在科学精英传承、高阶思维教学干预以及产学协同工程人才培育与技术情境化中发挥核心催化作用。"
 type: concept
 domain: "higher-education"
-related_count: 36
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Individualised Instruction]]"
   - "[[Apprenticeship]]"
   - "[[Paradigm]]"
+  - "[[Alienation]]"
   - "[[Peer Mentoring]]"
   - "[[Research Topic]]"
   - "[[Academic Freedom]]"
@@ -37,6 +38,7 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Wicked Problem]]"
   - "[[Mentorship Recognition]]"
+  - "[[Genius]]"
   - "[[Variable]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -65,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -85,7 +87,7 @@ updated: 2026-11-11
 
 > [!boundary]- 概念边界
 > - 不等于 **行政督导或辅导员工作（Supervision / Counselor）** 侧重思想纪律、生活管理与日常行政事务，缺乏深层认知[[Apprenticeship|学徒制]]示范与学术[[Paradigm|范式]]传承。
-> - 不等于 **单纯课题雇佣或劳务资助** 导师若仅将学生视作廉价劳动力承担日常杂务，缺乏对受训者知识独立性与长远职业发展的系统投入，则异化为雇佣劳务关系。
+> - 不等于 **单纯课题雇佣或劳务资助** 导师若仅将学生视作廉价劳动力承担日常杂务，缺乏对受训者知识独立性与长远职业发展的系统投入，则[[Alienation|异化]]为雇佣劳务关系。
 > - 不适用于 **纯粹流水线式的标准化知识灌输与非互动式大规模讲授场景**。
 
 ---
@@ -201,7 +203,7 @@ updated: 2026-11-11
 > > - **知识独立论（Ma et al., 2020）** 强调成熟受训者必须开辟分立研究主题，过度依附导师将压制重大原创性突破并导致[[Academic Inbreeding|学术近亲繁殖]]。
 
 > [!critique|notitle] 外部批评
-> - **诺贝尔演讲中的[[Mentorship Recognition|导师致谢]]缺失** 科学界普遍存在对导师隐形劳动的忽视。[[Argument_Sandrone_2025_MEO|Sandrone (2025)]] 发现[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]演讲中仅 9.6% 提及导师，反映了科学奖励体系过度聚焦于“个人天才神话”而弱化培育性劳动的结构性偏见。
+> - **诺贝尔演讲中的[[Mentorship Recognition|导师致谢]]缺失** 科学界普遍存在对导师隐形劳动的忽视。[[Argument_Sandrone_2025_MEO|Sandrone (2025)]] 发现[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]演讲中仅 9.6% 提及导师，反映了科学奖励体系过度聚焦于“个人[[Genius|天才]]神话”而弱化培育性劳动的结构性偏见。
 > - **依附陷阱与[[Academic Inbreeding|学术近亲繁殖]]** 不良的导师制可能沦为导师获取廉价劳动力的工具，压制受训者的学术创新自主权，导致学术[[Paradigm|范式]]僵化。
 
 > [!warning|limits] 适用局限

@@ -6,10 +6,10 @@ aliases:
 summary: "Richard Feynman 提出的科学哲学概念，指具备数据、图表等严密外在形式却缺失认识论诚信与自我证伪诚意的伪科学实践；在教育领域表现为以不透明的量化指标和商业包装实施认知威慑与教条化控制。"
 type: concept
 domain: "educational-philosophy"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 51
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - cargo-cult-science
   - pseudoscience
@@ -19,6 +19,7 @@ tags:
   - visible-learning
   - stance/critique
 related_concepts:
+  - "[[Mimesis]]"
   - "[[Epistemology]]"
   - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
@@ -30,6 +31,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Homework]]"
   - "[[Discourse]]"
+  - "[[Alienation]]"
   - "[[Neo-Taylorism]]"
   - "[[Chain of Evidence]]"
   - "[[Educational Privatisation]]"
@@ -76,13 +78,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-04
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Cargo Cult Science
-> **货物崇拜科学（Cargo Cult Science）** 是物理学家理查德·费曼（Richard Feynman）于 1974 年提出的科学哲学批判概念，指那些在形式上完整模仿科学探究的外在仪式（如采集大规模数据、绘制复杂图表、运算统计参数与撰写专业报告），但在科学精神实质上系统性缺失“[[Epistemology|认识论]]诚信”（Epistemic Conscientiousness）与竭尽全力证明自身可能出错之可错论精神的实践形态。在教育研究与[[Evidence-Based Education|循证教育]]政策中，该概念被学者用于深度解构那些将教育测量复杂化、以隐藏公式的简单算术平均实施数字霸凌，并依托商业专营渠道规避严格同行评审与反驳检验的流行理论体系。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 24–25, 34–36)]]
+> **货物崇拜科学（Cargo Cult Science）** 是物理学家理查德·费曼（Richard Feynman）于 1974 年提出的科学哲学批判概念，指那些在形式上完整[[Mimesis|模仿]]科学探究的外在仪式（如采集大规模数据、绘制复杂图表、运算统计参数与撰写专业报告），但在科学精神实质上系统性缺失“[[Epistemology|认识论]]诚信”（Epistemic Conscientiousness）与竭尽全力证明自身可能出错之可错论精神的实践形态。在教育研究与[[Evidence-Based Education|循证教育]]政策中，该概念被学者用于深度解构那些将教育测量复杂化、以隐藏公式的简单算术平均实施数字霸凌，并依托商业专营渠道规避严格同行评审与反驳检验的流行理论体系。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 24–25, 34–36)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指称具有精密科学外壳却丧失可错论求真精神的伪科学实践；其核心在于对科学外在仪式与技术形式的机械模仿，同时回避对内在有效性前提的自我审视。
@@ -115,7 +117,7 @@ updated: 2026-11-11
 货物崇拜科学由外在仪式的精密复刻、可错论诚意的系统缺位、对专业常识的认知威慑与商业专营的免责防御四大核心要素构成。
 
 > [!feature] 货物崇拜科学的四大核心特征
-> - **外在仪式的精密复刻（Ritualistic Mimicry of Scientific Form）** 狂热模仿硬科学的外在符号体系，包括海量数据点、复杂的[[Effect Size|效应量]]计算、精密排版的仪表盘与看似客观的数字排行榜，营造出极度严谨与客观的科学光环。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 24–25)]]
+> - **外在仪式的精密复刻（Ritualistic Mimicry of Scientific Form）** 狂热[[Mimesis|模仿]]硬科学的外在符号体系，包括海量数据点、复杂的[[Effect Size|效应量]]计算、精密排版的仪表盘与看似客观的数字排行榜，营造出极度严谨与客观的科学光环。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 24–25)]]
 > - **可错论诚意的系统缺位（Systematic Absence of Epistemic Integrity）** 违背[[Karl Popper|卡尔·波普尔]]（Karl Popper）的可[[Falsification|证伪]]原则，在核心论断的关键计算环节隐匿具体数学公式，不主动披露纳入[[Document|文献]]的质量缺陷与相反证据，丧失了自我纠错的学术诚意。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25–26, 34–35)]]
 > - **对专业常识的认知威慑（Cognitive Intimidation of Professional Common Sense）** 借助外行难以独立复核的数学复杂性建立专业壁垒，使一线教育从业者因敬畏所谓的大数据而丧失对自身教学经验的自信，甚至被迫放弃原本行之有效的育人常识。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 34)]]
 > - **商业专营与反驳防御壁垒（Commercial Insulation against Falsification）** 绕开严格的学术刊物同行评审，直接通过大众出版与商业咨询机构面向学校和政府推销专营产品，将严肃的学理批评阻隔在商业培训市场之外，形成自我合法化的利益循环。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 30–31, 35)]]
@@ -145,7 +147,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题二｜货物崇拜科学通过数学复杂性与统计[[Discourse|话语]]对实践者实施认知威慑，剥夺教育从业者的常识经验与专业直觉
-> **数学复杂性与专业异化** 考察量化工具如何从辅助诊断手段异化为剥夺教师主体性的权力装置。
+> **数学复杂性与专业[[Alienation|异化]]** 考察量化工具如何从辅助诊断手段异化为剥夺教师主体性的权力装置。
 
 > [!claim] [[Pierre-Jérôme Bergeron|Bergeron, P.-J.]] & Rivard, L.
 > **真实数据编织的伪科学与纸牌屋崩溃** 皮埃尔-热罗姆·伯杰龙（Pierre-Jérôme Bergeron）与利桑·里瓦尔（Lysanne Rivard）从数理统计学专业视角对[[John Hattie|哈蒂]]的《[[Visible Learning|可见的学习]]》展开系统解构，确立了“如何用真实数据搞伪科学”（How to engage in pseudoscience with real data）的方法学诊断。伯杰龙等指出，真正的科学需要专业审视；哈蒂汇总 800 余项元分析、50,000 项研究和数百万个体的数据规模制造了极具迷惑性的科学严谨假象，但在深入审查下，呈现的实质上是一座由初等概率计算崩溃（如算出负概率与超额概率）、[[Inappropriate Baseline Comparisons|不当基线比较]]、跨公式排名相反及相关换算极值发散所构成的脆弱纸牌屋（fragile house of cards）。真实数据无法自动保证科学有效性，若数据收集、计算和解释逻辑脱离了数理统计公理约束，无论堆砌多少实证[[Document|文献]]，其结论在本质上均滑向了虚构的伪科学。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, pp. 237–239)]]

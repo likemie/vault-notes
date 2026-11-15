@@ -13,7 +13,7 @@ aliases:
 summary: "在教育政策制定与跨国治理中，实证社会科学被政治决策者和技术官僚工具化为推卸行政责任、免受道德反思与公众问责、为既定政治决策提供客观性背书的政治借口机制"
 type: concept
 domain: "educational-policy-reform"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Champ]]"
   - "[[Epistemology]]"
+  - "[[Alienation]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Paradigm]]"
   - "[[Educational Meliorism]]"
@@ -81,14 +82,14 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 > [!def] Social Science as Legitimation Alibi
 > **实证社会科学作为合法化借口（Social Science as Legitimation Alibi）** 指在教育政策制定、国家发展规划与跨国治理实践中，实证量化社会科学（尤其是[[Variable\|变量]]共变与统计预测模型）被政府官员与技术官僚工具化，用以规避决策政治责任、免受道德反思与公众问责，并为预先设定的意识形态方针披上“[[Value Neutrality\|价值中立]]”与“客观规律”外衣的政治功能机制。该概念揭示了[[Positivism\|实证主义]]在现实政策[[Champ\|场域]]中独占鳌头的动力，根源于其满足了统治权力对合法性屏障（Alibi）的制度性渴求，而非源于其在[[Epistemology\|认识论]]上的真理优越性。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 64, 67–69)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向实证社会科学研究与现代行政治理权力之间的非对称共谋关系，特别是量化硬事实如何异化为官僚免责的工具。
+> - **含义** 指向实证社会科学研究与现代行政治理权力之间的非对称共谋关系，特别是量化硬事实如何[[Alienation|异化]]为官僚免责的工具。
 > - **用途** 帮助研究者穿透“[[Evidence-Based Policy-Making|循证决策]]”与“科学中立”的表象，透视政策制定者为何系统性偏爱特定简化量化模型而排斥揭示深层矛盾的批判性[[Qualitative Research\|质性研究]]。
 > - **边界** 该概念聚焦于科研成果在官方资助市场和决策转化中被选择性利用（Symbolic/Legitimising Use）的政治社会学过程，并不构成对社会科学经验研究本身的虚无主义否定。
 

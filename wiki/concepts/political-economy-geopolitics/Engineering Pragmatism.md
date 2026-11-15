@@ -7,7 +7,7 @@ aliases:
 summary: "指在重大国家科技工程与高风险研发中，以行动优先、立即可见实效与技术可行性（技术精妙即去建造）为导向的工程实践哲学；强调成果交付与实战效能，同时要求反思性伦理与国家使命的校准以防止异化为科学非道德论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Fitness for Purpose]]"
   - "[[Progressive Education]]"
   - "[[Big Science]]"
+  - "[[Alienation]]"
   - "[[Geopolitics]]"
   - "[[Technological Republic]]"
   - "[[Generative Artificial Intelligence]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -120,7 +121,7 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题二｜脱离[[Reflexivity|反思性]]伦理与社会目标的工程实用主义易异化为科学非道德论
+> [!concept-proposition] 命题二｜脱离[[Reflexivity|反思性]]伦理与社会目标的工程实用主义易[[Alienation|异化]]为科学非道德论
 > **效用追求与伦理责任的撕裂** 剖析工程师若缺乏对技术终极用途与地缘后果的反思，将滑向道德虚无与资本附庸。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska (2025)]]

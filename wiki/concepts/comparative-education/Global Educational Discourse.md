@@ -6,7 +6,7 @@ aliases:
 summary: "国际组织基于紧迫实用主义与技术理性对全球学术话语过度简化所生成的通用教育改革范式，宣称以信息时代为前景并窄化本土政策空间"
 type: concept
 domain: "comparative-education"
-related_count: 50
+related_count: 52
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -23,11 +23,13 @@ related_concepts:
   - "[[Space of Flows]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
+  - "[[Alienation]]"
   - "[[Discursive Field]]"
   - "[[Champ]]"
   - "[[Gatekeepers]]"
   - "[[Recontextualization]]"
   - "[[Policy Borrowing]]"
+  - "[[Mimesis]]"
   - "[[Cognitive Decoupling]]"
   - "[[Habitus]]"
   - "[[Knowledge Production]]"
@@ -75,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -85,7 +87,7 @@ updated: 2026-11-11
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向国际组织在[[Space of Flows|流动空间]]中对学术知识进行技术官僚化加工后形成的去情境化通用政策[[Paradigm|范式]]。
-> - **用途** 帮助研究者透视国际援助与跨国政策建议背后的[[Epistemology|认识论]]霸权，解释不同国际组织表面冲突之下的深层共识，以及外来通用改革在后发国家引发的政策空间收缩与实践异化。
+> - **用途** 帮助研究者透视国际援助与跨国政策建议背后的[[Epistemology|认识论]]霸权，解释不同国际组织表面冲突之下的深层共识，以及外来通用改革在后发国家引发的政策空间收缩与实践[[Alienation|异化]]。
 > - **边界** 不等于具体的某项国际公约或单一组织倡议；它是一种跨组织的底层思想体系（general system of thought），有别于指所有国家都无条件接受其实质内容。
 
 > [!citation-card] 普遍模型与[[Discursive Field|话语空间]]窄化
@@ -103,7 +105,7 @@ updated: 2026-11-11
 > | 维度 | 全球教育[[Discourse\|话语]] (Global Educational Discourse) | [[Globally Structured Agenda for Education\|全球结构化议程]] (Globally Structured Agenda) | 世界文化[[Paradigm\|范式]] (World Culture / Society) | 经典[[Policy Borrowing\|政策借用]] (Policy Borrowing) |
 > |---|---|---|---|---|
 > | **生产主体** | 国际多边组织（[[UNESCO]]/WB/[[OECD]]）与跨国专家网络 | 全球资本主义政治经济力量与跨国统治阶级 | 世界社会中去中心化的制度化规范与合法性脚本 | 主权国家政府指派的行政考察者与改革官员 |
-> | **核心机制** | 紧迫[[Pragmatic Paradigm\|实用主义]]驱动的过度简化、议程界定与空间封闭 | 资本积累危机向教育系统的外部结构性转嫁 | 民族国家对现代性合法形式的同形模仿（Isomorphism） | 国家基于自身内部危机在“世界教育花园”中有选择地采撷移植 |
+> | **核心机制** | 紧迫[[Pragmatic Paradigm\|实用主义]]驱动的过度简化、议程界定与空间封闭 | 资本积累危机向教育系统的外部结构性转嫁 | 民族国家对现代性合法形式的同形[[Mimesis\|模仿]]（Isomorphism） | 国家基于自身内部危机在“世界教育花园”中有选择地采撷移植 |
 > | **话语特征** | 统一预设“信息时代”，推销五大通用改革支柱 | 新自由主义竞争性国家建构与劳动力再生产 | 普遍理性的个体权利、进步与人类发展神话 | 针对特定国别制度的经验性描述与规范性改良 |
 > | **实践遭遇** | 在学校机构遭遇严重脱节、抵制与反常本土异化 | 产生深层的社会不平等与教育公共性剥夺 | 结构上高度仪式化脱钩（[[Cognitive Decoupling\|decoupling]]），日常教学自行其是 | 移植植物在新土壤中的成活危机与排异反应 |
 

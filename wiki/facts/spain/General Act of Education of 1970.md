@@ -12,7 +12,7 @@ subtype: policy
 region: spain
 fact_region: "spain"
 fact_kind: "policy"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Discourse]]"
   - "[[Liberalization]]"
+  - "[[Alienation]]"
   - "[[Dual School System]]"
   - "[[Tracking]]"
   - "[[State Educational Sovereignty]]"
@@ -49,7 +50,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -152,7 +153,7 @@ updated: 2026-10-22
 >
 > > [!axis] 适度综合化（6–14 岁）vs 均质综合延展至 16 岁（[[Organic Law on the General Organization of the Education System 1990|LOGSE]]）的跨期争论
 > > - **1970 年法案设计逻辑（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009]]）** 在 14 岁前实行无差别[[Comprehensive Education|综合教育]]促进了阶层平等；而在 14 岁之后引入清晰分流则切合了学生禀赋与劳动力市场现实，构成了适切平衡。
-> > - **1990 年 LOGSE 批判者视角** 1990 年法案在二十年后不合时宜地重复并夸大了综合原则，硬性强加相同的课程至 16 岁，反倒将 1970 年无可辩驳的进步异化为系统性的平庸与失败。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 323, 330–331)]]
+> > - **1990 年 LOGSE 批判者视角** 1990 年法案在二十年后不合时宜地重复并夸大了综合原则，硬性强加相同的课程至 16 岁，反倒将 1970 年无可辩驳的进步[[Alienation|异化]]为系统性的平庸与失败。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 323, 330–331)]]
 
 > [!citation-card|notitle]
 > **[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] 论两代法案的历史唯物主义对比**

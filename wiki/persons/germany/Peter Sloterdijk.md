@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Philosophical Aesthetics]]"
   - "[[Paradigm]]"
+  - "[[Alienation]]"
   - "[[Bildung]]"
   - "[[Determinism]]"
   - "[[Visible Learning]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-18
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -69,7 +70,7 @@ updated: 2026-11-14
 > - **1992–2017** 担任卡尔斯鲁厄设计学院哲学与媒体理论讲席教授，并于 2001 至 2015 年间长期担任该校校长。
 > - **1999** 发表《人类动物园的规则》（*Regeln für den Menschenpark*），引发关于后人文主义、基因生物技术与古典人文教化局限的大辩论。
 > - **2009** 出版《你必须改变你的生活》（*Du mußt dein Leben ändern*），开创人类技术学，将宗教、艺术与伦理重构为人类自我提升的“练习系统”。
-> - **2017** 出版《后上帝时代》（*Nach Gott*），深入解构神学凝视在世俗现代性管理理性中的异化嬗变。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 7)]]
+> - **2017** 出版《后上帝时代》（*Nach Gott*），深入解构神学凝视在世俗现代性管理理性中的[[Alienation|异化]]嬗变。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 7)]]
 
 ---
 

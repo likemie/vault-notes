@@ -8,7 +8,7 @@ aliases:
 summary: "对经合组织国际学生评估项目（PISA）的系统性学术反思与理论批判，涵盖未来技能构念拟制与增长神话证伪、统计等值空间对本体效度的消解、“数字即政策”的去政治化规训、单一西方中心主义与狭隘经济主义扭曲、高分低趣低幸福感悖论、美化威权教育机制、比较教育学科航海隐喻侵蚀及本土政治罗生门推诿。"
 type: concept
 domain: "comparative-education"
-related_count: 83
+related_count: 85
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Competitiveness]]"
   - "[[Policy Borrowing]]"
+  - "[[Alienation]]"
   - "[[Analytical Stance]]"
   - "[[PISA Made-up Claim]]"
   - "[[PISA Monolithic View of Education]]"
@@ -95,6 +96,7 @@ related_persons:
   - "[[Andreas Schleicher]]"
   - "[[Wolfgang Mitter]]"
   - "[[José Luis García Garrido]]"
+  - "[[Alexandre de Rhodes]]"
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
@@ -113,7 +115,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -139,7 +141,7 @@ updated: 2026-11-11
 > [!boundary]- 概念边界
 > - 不等于单纯技术层面的测量误差校准 — [[Differential Item Functioning|题目功能差异]]（DIF）修正或抽样加权属于统计修补；对 PISA 的批判指向其教育哲学前设、认识论霸权与新自由主义政策动员机制。
 > - 不等于笼统反对[[Quantitative Research|量化研究]] — 批判阵营大量运用高级心理测量与多层统计建模（如解构探究教学负相关表象、检验双向翻译时间压力偏差与 Rasch 模型失配），通过更严谨的计量对质揭露 PISA 报告的技术偏颇。
-> - 不等于单一国别的应激性政治抱怨 — 区别于政客因本国排位下滑引发的自利性攻讦，该学理批判体系聚焦于全球教育同质化、[[Policy Borrowing|政策借用]]异化与民主审议赤字。
+> - 不等于单一国别的应激性政治抱怨 — 区别于政客因本国排位下滑引发的自利性攻讦，该学理批判体系聚焦于全球教育同质化、[[Policy Borrowing|政策借用]][[Alienation|异化]]与民主审议赤字。
 
 ---
 
@@ -234,7 +236,7 @@ updated: 2026-11-11
 > **[[Mediatised Governance|媒介化治理]]与[[Rashomon Effect|罗生门效应]]** PISA 数据的微观运用深刻嵌入国内政治博弈之中，常被剪裁为推卸责任或强推既定议程的象征性资本。
 
 > [!claim] Grey & Morris; [[José Luis García Garrido|García Garrido]]
-> **数据可塑性、[[Falling Standards Template|标准下滑模板]]与分权推诿** Grey & Morris 基于英格兰案例揭示，PISA 庞大的数据网络赋予其极高的话语可塑性（[[Rashomon Effect|罗生门效应]]）。政治精英利用媒体的“标准下滑模板”和“遗漏话语”，刻意将稳定的评估成绩虚构为国家教育停滞危机，以此强行推销此前遭到强烈抵制的自由学校、文法甄别与[[Performance Pay|绩效工资]]等争议性私有化法案；媒体因通稿依赖陷入“[[Policy Avoidance|政策规避]]”，丧失了实证核查功能。在实行地方分权的体制中，[[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]指出，面对低迷的 PISA 成绩，德国施罗德政府与西班牙中央及自治区政客普遍陷入互相甩锅的战术推诿；PISA 数据非但未能形成质量统筹共识，反而在缺乏国家协调机制的情况下激化了区域割裂与政治内耗。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 115–125)]]; [[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 327)]]
+> **数据可塑性、[[Falling Standards Template|标准下滑模板]]与分权推诿** Grey & Morris 基于英格兰案例揭示，PISA 庞大的数据网络赋予其极高的话语可塑性（[[Rashomon Effect|罗生门效应]]）。政治精英利用媒体的“标准下滑模板”和“遗漏话语”，刻意将稳定的评估成绩虚构为国家教育停滞危机，以此强行推销此前遭到强烈抵制的自由学校、文法甄别与[[Performance Pay|绩效工资]]等争议性私有化法案；媒体因通稿依赖陷入“[[Policy Avoidance|政策规避]]”，丧失了实证核查功能。在实行地方分权的体制中，[[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]指出，面对低迷的 PISA 成绩，德国施[[Alexandre de Rhodes|罗德]]政府与西班牙中央及自治区政客普遍陷入互相甩锅的战术推诿；PISA 数据非但未能形成质量统筹共识，反而在缺乏国家协调机制的情况下激化了区域割裂与政治内耗。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 115–125)]]; [[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 327)]]
 
 ---
 

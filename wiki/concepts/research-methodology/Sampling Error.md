@@ -7,7 +7,7 @@ aliases:
 summary: "从同一总体中多次随机抽样时样本统计量围绕总体真实参数的理论波动；度量从样本推断总体的随机不确定性，在元分析中作为研究内抽样方差与研究间真实异质性相对立，其准确估计依赖于样本独立性假设与逆方差加权机制"
 type: concept
 domain: "research-methodology"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Document]]"
   - "[[Problem-Based Learning]]"
+  - "[[Alienation]]"
   - "[[Direct Instruction]]"
 related_theories:
   - "[[Central Limit Theorem]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-21
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -190,7 +191,7 @@ updated: 2026-11-11
 > > - **数理加权规范（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）** 指出只有严格以一级元分析抽样误差倒数（$W_j = 1/v_{d_j}$）赋权，二级汇总才具有代数合法性；无权简单平均彻底剥夺了大样本抵消抽样误差的基本统计功能。
 
 > [!warning] 抽样误差掩蔽下的系统性[[Publication Bias|发表偏倚]]
-> 统计学家长期警示，抽样误差是无方向的随机正负波动，而现实发表生态充斥着对微弱或负向效应量的系统性过滤。小样本由于抽样误差极大，极易因偶然波动产生极大的伪阳性效应量；若这些异常值因跨过显著性门槛而获得优先发表，便会形成经典的“[[Small Study Effects|小研究效应]]”（Small-Study Effects），将原本对称的抽样误差异化为极度右偏的学术偏倚。
+> 统计学家长期警示，抽样误差是无方向的随机正负波动，而现实发表生态充斥着对微弱或负向效应量的系统性过滤。小样本由于抽样误差极大，极易因偶然波动产生极大的伪阳性效应量；若这些异常值因跨过显著性门槛而获得优先发表，便会形成经典的“[[Small Study Effects|小研究效应]]”（Small-Study Effects），将原本对称的抽样误差[[Alienation|异化]]为极度右偏的学术偏倚。
 
 ---
 

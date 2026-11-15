@@ -30,9 +30,9 @@ related_concepts:
   - "[[Finnish Paradoxes]]"
   - "[[Paradigm]]"
   - "[[High-Stakes Testing]]"
-  - "[[Pride in Learning]]"
   - "[[Test-Based Accountability]]"
   - "[[Visible Learning]]"
+  - "[[Alienation]]"
   - "[[School Choice]]"
   - "[[New Public Management]]"
   - "[[Teacher Trust]]"
@@ -74,7 +74,7 @@ updated: 2026-11-15
 > - **代表贡献** 提出全球教育改革运动（GERM）诊断框架；著有国际畅销专著《芬兰传奇》（*Finnish Lessons*）；提出反主流常识的[[Finnish Paradoxes|芬兰教育悖论]]；系统阐发以专业信任、合作文化与全人发展抵制商业问责的芬兰[[Paradigm|范式]]；提出循证政策中兼顾干预效果与防范副作用的治理原则。
 
 > [!citation-card] 萨尔伯格对全球教育改革运动的诊断
-> 萨尔伯格指出，一种如同病毒般在全球蔓延的教育政策正统（GERM）正在深刻侵蚀世界各国的学校：它以标准化、课程窄化、基于[[High-Stakes Testing|高利害测验]]的绩效问责以及将市场竞争和企业管理模式强加给学校为特征。这种改革不仅未能实现所承诺的高质量与公平，反而严重摧毁了教师的职业[[Pride in Learning|自豪]]感与教学自主权。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 25, citing Sahlberg, 2012)]]
+> 萨尔伯格指出，一种如同病毒般在全球蔓延的教育政策正统（GERM）正在深刻侵蚀世界各国的学校：它以标准化、课程窄化、基于[[High-Stakes Testing|高利害测验]]的绩效问责以及将市场竞争和企业管理模式强加给学校为特征。这种改革不仅未能实现所承诺的高质量与公平，反而严重摧毁了教师的职业自豪感与教学自主权。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 25, citing Sahlberg, 2012)]]
 >
 > *Sahlberg described the Global Education Reform Movement (GERM) as an epidemic marked by standardization, [[Test-Based Accountability]], and corporate market logic, which systematically degrades teacher professionalism rather than improving education.*
 
@@ -91,7 +91,7 @@ updated: 2026-11-15
 
 > [!work-line] 主要著作
 > - **2011 / 2015 / 2021 — *Finnish Lessons: What Can the World Learn from Educational Change in Finland?*** 系统阐明芬兰基础教育成功的核心制度支柱：高信任度的专业主义、平等与补偿教育投入、避免标准化统考，与英美 [[Global Education Reform Movement|GERM]] 路线形成鲜明对立。
-> - **2012 — *Global Education Reform Movement is Here!*** 正式刊文确立 GERM 诊断框架，详细列出标准化、识字算术窄化、低风险测试向高风险问责异化、企业管理主义借用及家长[[School Choice|择校]]竞争等五大病理特征。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 25)]]
+> - **2012 — *Global Education Reform Movement is Here!*** 正式刊文确立 GERM 诊断框架，详细列出标准化、识字算术窄化、低风险测试向高风险问责[[Alienation|异化]]、企业管理主义借用及家长[[School Choice|择校]]竞争等五大病理特征。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 25)]]
 > - **2019 — *Let the Children Play: How More Play Will Save Our Schools and Help Children Thrive*** 倡导保护儿童玩耍与身心健康的自主时间，反对被量化测验与流水线练习过度侵占的机械教学。
 > - **2023 — *Trends in global education reform since the 1990s: Looking for the right way*** 回顾自 1990 年代以来全球教育改革浪潮，提炼抗击疫情期间公共卫生治理经验，提出以最大化成效并最小化有害副作用为原则，反思[[New Public Management|新公共管理]]对[[Teacher Trust|教师信任]]与创新的侵蚀。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 2, citing Sahlberg, 2023)]]
 

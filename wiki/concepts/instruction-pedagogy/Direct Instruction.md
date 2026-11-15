@@ -7,7 +7,7 @@ aliases:
 summary: "由教师主动主导、以明确目标说明、分步示范、有指导练习、理解检查与即时反馈为核心的高结构化教学模式，在程序性知识与基础技能教学中成效显著，但在高阶思维培养中需与情境探究结合以避免教育副作用"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 78
+related_count: 76
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -55,11 +55,11 @@ related_concepts:
   - "[[Worked Examples]]"
   - "[[Effective Teaching]]"
   - "[[Scientific Explanation]]"
+  - "[[Alienation]]"
   - "[[Open-Mindedness]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
   - "[[Evidence Standards]]"
-  - "[[Foundational Literacy and Numeracy]]"
   - "[[Interaction Effect]]"
   - "[[Document]]"
   - "[[Infusion Approach]]"
@@ -76,8 +76,6 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Intervention Research]]"
-  - "[[Critical Review]]"
   - "[[Inverse-Variance Weighting]]"
 related_instruments: []
 related_persons:
@@ -106,7 +104,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 > [!def] Direct Instruction
@@ -250,7 +248,7 @@ updated: 2026-11-11
 > > 争论课堂究竟应当以教师清晰示范与高结构推进为主，还是以学生自主探索[[Wicked Problem|劣构问题]]为主。
 > >
 > > - **教师激活派（Hattie, Rosenshine）** 强调学习有别于盲目试错；教师主动主导课堂、清晰示范与即时纠错能最大化单位时间的教学效能。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 433)]]
-> > - **建构探究派（Zhao, Terhart）** 强调完全由教师编排脚本会剥夺学生从混乱中建立秩序的[[Metacognition\|元认知]]契机，容易异化为缺乏内在动机的测验机器。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, pp. 7–9)]]
+> > - **建构探究派（Zhao, Terhart）** 强调完全由教师编排脚本会剥夺学生从混乱中建立秩序的[[Metacognition\|元认知]]契机，容易[[Alienation|异化]]为缺乏内在动机的测验机器。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, pp. 7–9)]]
 >
 > > [!axis] 短期学业提分 vs 长期[[Creativity\|创造力]]与好奇心损失
 > > 探讨高结构化直接教学是否存在不可忽视的非认知隐性代价。

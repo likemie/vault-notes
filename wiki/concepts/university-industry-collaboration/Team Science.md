@@ -6,7 +6,7 @@ aliases:
 summary: "以跨学科、跨机构或大规模协同为特征的科研组织范式；依托前沿知识负担加重与大型复杂仪器驱动，团队模式在当代科学中确立了主导地位，享有显著的相对团队影响力与超额引文溢价，同时也面临沟通协调成本与声望层级固化的制度张力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Polymath]]"
   - "[[Nature of Innovation]]"
   - "[[Assemblage]]"
+  - "[[Alienation]]"
   - "[[Too-Much-Talent Effect]]"
   - "[[Document]]"
   - "[[Variable]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-02
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -143,7 +144,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题三｜团队规模与人员组配机制调控创新形态（小团队颠覆、大团队发展）
-> **团队规模法则与[[Nature of Innovation|创新本质]]的分野** 探讨不同规模与[[Assemblage|组装]]模式的团队在科学探索中承担的差异化功能。
+> **团队规模法则与[[Nature of Innovation|创新本质]]的分野** 探讨不同规模与[[Assemblage|组装]]模式的团队在科学探索中承担的差[[Alienation|异化]]功能。
 
 > [!claim] [[Lingfei Wu|Wu, L.]] & [[James A. Evans|Evans, J. A.]]
 > **规模决定颠覆度与发展度分工** 大团队倾向于推进近期热门与已被公认的科技成果，享受更高的即时被引；而小团队与个体探索者更深入地汲取陈旧与非共识知识，其[[Disruption Index|颠覆性指数]]显著占优，承担着开辟全新学科范式的关键使命。[[Argument_Wang_Barabasi_2021_Cambridge_Unit05|(Wang & Barabási, 2021, pp. 128–132)]]

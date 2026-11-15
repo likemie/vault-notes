@@ -92,6 +92,12 @@ updated: 2026-11-15
 > [!claim] Hammermeister, K.
 > **从体系顶石到哲学再阐释** 谢林在《先验唯心论体系》（1800）中借[[Aesthetic Intuition|审美直观]]把艺术推为哲学唯一真实的工具与文献，以克服概念判断制造的主客分裂；随后在《艺术哲学》（1802–1805）转向新柏拉图主义，将美界定为理念的感性映象并重归哲学家阐释。整个浪漫派范式将艺术的认识论功能置于首位、次化本体论并排斥功利与道德实践，既启发了海德格尔与阿多诺的现代批判，也因[[Romantic Irony|浪漫反讽]]与哲学受冷落而招致黑格尔的反转。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62–66, 73–86)]]
 
+> [!concept-proposition] 命题四｜黑格尔在绝对精神体系中反转浪漫派秩序，将历史发展引入系统美学并宣告艺术最高功能的终结
+> **客观唯心论与艺术的历史化** 黑格尔在《哲学全书纲要》与《美学讲演录》中终结了浪漫派“艺术高于哲学”的认识论范式，将美界定为理念的感性显现，并把艺术史与媒介物质性递减绑定。
+
+> [!claim] Hegel, G. W. F. & Hammermeister, K.
+> **从理念感性显现到艺术终结** 在[[Absolute Spirit|绝对精神]]体系中，艺术与天启宗教、哲学共享同一真理内容，却因受限于感性显现而位于最低环节，最终在反思时代让位于哲学概念知识，形成[[End of Art|艺术终结论]]。尽管这一双轴体系忽略了文艺复兴以来的诸多艺术实践并赋予诗歌例外特权，但它首次将起源历史性与功能历史性注入系统美学，直接催生了现代艺术史学科。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 87–95, 97–103)]]
+
 ---
 
 > [!contrast-table] 所有命题归纳
@@ -100,6 +106,7 @@ updated: 2026-11-15
 > | **感性辩护与学科独立** | 感性认识从理性主义辅助工具演变为独立于逻辑的批判力量 | 早期德国理性主义美学与[[Epistemology\|认识论]]奠基 | Baumgarten, A. G.; Hammermeister, K. |
 > | **认知与情感取向接力** | 美学重心从客观创作规则转向主体心理感受与审美教育，为康德范式铺路 | 18 世纪德国启蒙美学史与美育传统 | Baumgarten, A. G.; Mendelssohn, M.; Hammermeister, K. |
 > | **审美认识论至上与浪漫派转向** | 艺术由哲学顶石回落至理念映象，建立起认识论主导、实践性退场的浪漫派美学范式 | 后康德唯心论、早期浪漫派与现代存在论美学源流 | Schelling, F. W. J.; Schlegel, F.; Hammermeister, K. |
+> | **客观唯心论与艺术历史化** | 艺术受限于感性显现而低于哲学概念，同时在起源与功能上全面历史化 | 德国古典唯心论终结、艺术史奠基与艺术终结论 | Hegel, G. W. F.; Hammermeister, K. |
 
 ---
 
@@ -110,6 +117,7 @@ updated: 2026-11-15
 > - **1781–1790 — 语义定型与范式确立** [[Immanuel Kant|康德]]在《纯粹理性批判》（1781）“先验感性论”中仍沿用感性经验先验条件之旧义，而在 1790 年《判断力批判》中正式将其转为关于鉴赏、美与艺术的哲学（同时区分哲学的“批判”即可能性条件探究与赫尔德、莱辛的艺术批评），开启以形式主义、主观化及脱离认知与道德为特征的首个强美学范式。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 23–24, 40–41)]]
 > - **1795 — 历史化与人类学转向** [[Friedrich Schiller|席勒]]在《[[Aesthetic Education|审美教育]]书简》中批判康德美学的主观与非历史局限，引入历史维度、[[Schiller's Theory of Drives|冲动学说]]与[[Play Drive|游戏冲动]]，将美学重塑为应对现代性分裂与通向道德共同体的中介桥梁，开启从先验唯心论向[[Georg Wilhelm Friedrich Hegel|黑格尔]]客观唯心论的过渡。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, pp. 42–44, 51–54)]]
 > - **1800–1807 — 浪漫派美学与认识论中心主义** [[Friedrich Wilhelm Joseph Schelling|谢林]]在《先验唯心论体系》（1800）中以[[Aesthetic Intuition|审美直观]]确立艺术高于概念哲学的地位，随后在《艺术哲学》（1802–1805）转向新柏拉图主义理念模仿并交由哲学阐释；浪漫派将艺术认识论功能绝对化的范式为海德格尔与阿多诺奠基，并引发黑格尔对哲学地位的反转。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62–66, 74–86)]]
+> - **1817–1835 — 绝对精神体系与历史化转向** [[Georg Wilhelm Friedrich Hegel|黑格尔]]在《哲学全书纲要》与《美学讲演录》中将美界定为理念的感性显现，把艺术安置在[[Absolute Spirit|绝对精神]]的初级环节，反转浪漫派“艺术高于哲学”的秩序，并以历史三阶段与媒介谱系开启现代艺术史学科。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 87–95, 97–103)]]
 
 ---
 
@@ -124,13 +132,16 @@ updated: 2026-11-15
 > | [[Judgment of Taste]] | 概念 | 康德在《判断力批判》中确立美学学科独立性的核心判断机制。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 27–32)]] |
 > | [[Aesthetic Intuition]] | 概念 | 谢林 1800 年《体系》中将主观理智直观客观化的最高认识论形态。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, pp. 74–75)]] |
 > | [[Romantic Irony]] | 概念 | 早期浪漫派在语言有限性下通过无限自我否定暗示总体性的诗意策略。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, pp. 82–84)]] |
+> | [[Absolute Spirit]] | 概念 | 黑格尔用以界定艺术、宗教与哲学真理层级关系的体系框架。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 90–92)]] |
+> | [[End of Art]] | 概念 | 黑格尔美学中艺术在反思时代失去最高真理载体功能的历史命题。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 101–103)]] |
 > | [[Alexander Gottlieb Baumgarten]] | 人物 | 哲学美学的首位命名者与系统奠基人。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 4, 6)]] |
 > | [[Moses Mendelssohn]] | 人物 | 推动哲学美学向情感心理学与审美教育转向的关键人物。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 13–14, 18)]] |
 > | [[Immanuel Kant]] | 人物 | 赋予“美学”现代学科语义并确立首个强范式的哲学家。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 23, 40–41)]] |
 > | [[Friedrich Schiller]] | 人物 | 引入历史维度与冲动学说突破康德主观主义，连接先验唯心论与黑格尔客观唯心论。[[Argument_Hammermeister_2002_Cambridge_Ch03\|(Hammermeister, 2002, pp. 42–44)]] |
 > | [[Friedrich Wilhelm Joseph Schelling]] | 人物 | 在《体系》中将艺术推为哲学最高工具，后于《艺术哲学》转向新柏拉图主义理念模仿。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, pp. 62, 74–82)]] |
+> | [[Georg Wilhelm Friedrich Hegel]] | 人物 | 在绝对精神体系中历史化哲学美学并反转浪漫派艺术观的哲学家。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 87–92)]] |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]梳理德国哲学美学从鲍姆嘉通到门德尔松的起源；[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]剖析康德赋予“美学”现代语义并建立首个强范式；[[Argument_Hammermeister_2002_Cambridge_Ch03|第 3 章]]分析席勒如何通过历史化与美育方案超越康德[[Subjectivism|主观主义]]；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]探讨谢林体系美学演变与早期浪漫派将认识论审美化的范式及其哲学代价。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]溯源鲍姆嘉通至门德尔松；[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]析康德美学范式；[[Argument_Hammermeister_2002_Cambridge_Ch03|第 3 章]]论席勒历史化美育；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]探谢林与浪漫派认识论美学；[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析黑格尔绝对精神美学与艺术终结论。

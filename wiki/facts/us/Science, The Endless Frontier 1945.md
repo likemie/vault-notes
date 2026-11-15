@@ -14,7 +14,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 53
+fact_related_count: 55
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Technological Republic]]"
   - "[[Basic-Applied Research Dichotomy]]"
   - "[[Linear Model of Innovation]]"
+  - "[[Genius]]"
   - "[[Paradigm]]"
   - "[[Research Security]]"
   - "[[Reproducibility Crisis]]"
@@ -37,6 +38,7 @@ related_concepts:
   - "[[Process Knowledge]]"
   - "[[Metascience]]"
   - "[[Discourse]]"
+  - "[[Alienation]]"
   - "[[Science and Technology Studies]]"
   - "[[Falsification]]"
   - "[[Competitiveness]]"
@@ -88,7 +90,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-26
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -100,7 +102,7 @@ updated: 2026-11-14
 > - **时间跨度 / 空间地理** 1944 年 11 月（[[Franklin D. Roosevelt|罗斯福总统]]致信垂询）至 1945 年 7 月（正式提交报告），美国华盛顿特区。
 > - **核心当事主体** 富兰克林·D·罗斯福（Franklin D. Roosevelt）总统、哈里·S·杜鲁门总统、万尼瓦尔·布什及由学术界、工业界和医学界领袖组成的四个专家咨询委员会。
 > - **深层制度背景** 二战期间，以[[Manhattan Project|曼哈顿工程]]与[[MIT Radiation Laboratory|麻省理工学院辐射实验室]]（微波雷达技术）为代表的战时科研取得了决定性突破；1942年《科利尔》（*Collier's*）杂志向近三百万读者称布什为“可能赢得战争的人”，标志着科学家被置于国家防卫的核心。战争临近终结，美国亟需将临时军事动员体制转化为常态化、平民化的国家科研支持框架。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
-> - **直接触发事件** 1944 年 11 月 17 日，罗斯福总统在华盛顿特区致信布什，提出四项关键国家课题：战时医学知识如何造福和平时期、政府如何继续支持公共与私营科研、如何发掘并培育青年科学天才，以及如何将那些受战事冲击而剧烈打乱科研轨迹的物理学家和工程师重新导向民用科学进步与和平时期的国家建设。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
+> - **直接触发事件** 1944 年 11 月 17 日，罗斯福总统在华盛顿特区致信布什，提出四项关键国家课题：战时医学知识如何造福和平时期、政府如何继续支持公共与私营科研、如何发掘并培育青年科学[[Genius|天才]]，以及如何将那些受战事冲击而剧烈打乱科研轨迹的物理学家和工程师重新导向民用科学进步与和平时期的国家建设。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
 
 ---
 
@@ -163,7 +165,7 @@ updated: 2026-11-14
 > 2. **制度承载：多元分布式资助网络的确立** 布什设想的中央科学基金虽经历立法妥协，但其倡导的契约逻辑最终被嵌入由 AEC、[[Office of Naval Research|ONR]]、[[National Institutes of Health|NIH]] 与 NSF 共同构成的分布式资助网络，避免了单一行政中枢对学术探索的垄断。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 > 3. **[[Technological Republic|技术共和国]]的制度基石** 报告确立的联邦科研合同外包模式，开创了冷战时期国防安全需求与前沿计算突破紧密结盟的传统，为 [[DARPA|ARPA]]、[[ARPANET|阿帕网]]以及硅谷微电子革命提供了最关键的制度母体与公共资金孵化机制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5, 7)]]
 > 4. **[[Discourse|话语]]规制：二分法成为全球政策标准** [[OECD|经合组织]]（OECD）等国际组织在其《[[Frascati Manual|弗拉斯卡蒂手册]]》中全面吸收布什报告的基础/应用划分，成为全球统计研发投入的通用准绳。
-> 5. **意外后果：大学微观激励异化与体制压力** 布什关于高风险容错、独立学生奖学金与学科均衡发展的三大设想在大学后续的主动改造中被逐步侵蚀，演变为软钱教职、博士用工依赖与生物医学过度集中。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 37)]]
+> 5. **意外后果：大学微观激励[[Alienation|异化]]与体制压力** 布什关于高风险容错、独立学生奖学金与学科均衡发展的三大设想在大学后续的主动改造中被逐步侵蚀，演变为软钱教职、博士用工依赖与生物医学过度集中。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 37)]]
 > 6. **当代[[Paradigm|范式]]更替：2026 年《[[Science A New Golden Age 2026|科学：新的黄金时代]]》** 2026 年 7 月白宫战略报告正式宣告布什单向分工模型终结，确立组合式资助、新型科研组织（[[Focused Research Organization|FRO]]）、本土制造承接与生成核验协同体系，开启后布什时代国家科技体制的全面重组。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–7, 20–72)]]
 
 ---

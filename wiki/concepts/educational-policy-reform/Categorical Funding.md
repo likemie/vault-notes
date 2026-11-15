@@ -11,7 +11,7 @@ aliases:
 summary: "由政府机构、研究理事会或多边金融机构预先限定研究主题、目标与方法学规程的资助模式，研究者通过竞标以合同工形式承接项目。在当代教育治理中，它推动了教育研究从学术自发探索（蓝天研究）向服务于赞助方政策目标与意识形态规训的系统性转变。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Research Question]]"
   - "[[Evaluation Research]]"
+  - "[[Alienation]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Paradigm]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -76,7 +77,7 @@ updated: 2026-11-03
 > - **用途** 帮助研究者透视教育研究政治化与行政化机制，理解为何应用型[[Evaluation Research|评估研究]]急剧增长而基础批判性探索持续边缘化。
 > - **边界** 区别于同行评议下的自由探索课题（一般资助允准学者自主凝练问题）；本概念特指资助方严格预设范畴、研究者在指定跑道内按需履约的定向购买机制。
 
-> [!citation-card] 伯吉斯论分类资助与研究者合同工异化
+> [!citation-card] 伯吉斯论分类资助与研究者合同工[[Alienation|异化]]
 > 研究者不过是合同工……教育研究必须与政策相关……研究必须更加贴近实践者的需求。在分类资助制度下，谁出资，谁就拥有界定什么才算合法问题的绝对权力。(Burgess, 1993, p. 1)
 >
 > *Researchers are merely contract workers... educational research has to be policy relevant... research has to be close to the needs of practitioners.*

@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: global
 person_region: "global"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Nationalism]]"
   - "[[Constructivist Paradigm]]"
   - "[[Grandes Ecoles]]"
+  - "[[Alienation]]"
   - "[[Construct]]"
   - "[[Creativity]]"
 related_theories:
@@ -90,7 +91,7 @@ updated: 2026-11-15
 ---
 
 > [!claim] 核心思想
-> 阿兹米·比沙拉的核心思想在于：**现代民主制度的合法基石必须是平等的公民身份（Citizenship），任何基于血缘族裔或宗教排他性特权的“民族国家”，本质上都是对民主原则的根本异化**。他敏锐地把握到安德森建构主义理论的批判潜能，强调“共同体”既然是在历史中被想象出来的现代产物，就绝不具备神圣不可侵犯的先验本质。借由这一理论工具，他深刻揭示了犹太复国主义如何将宗教流散神话包装为排他性的定居殖民建国叙事，同时警示巴勒斯坦与阿拉伯本土运动不能退缩为狭隘的原教旨主义仇恨，唯有确立世俗、包容与法治的公民宪政共同体，中东各民族才能走出无休止的流血与压迫怪圈。
+> 阿兹米·比沙拉的核心思想在于：**现代民主制度的合法基石必须是平等的公民身份（Citizenship），任何基于血缘族裔或宗教排他性特权的“民族国家”，本质上都是对民主原则的根本[[Alienation|异化]]**。他敏锐地把握到安德森建构主义理论的批判潜能，强调“共同体”既然是在历史中被想象出来的现代产物，就绝不具备神圣不可侵犯的先验本质。借由这一理论工具，他深刻揭示了犹太复国主义如何将宗教流散神话包装为排他性的定居殖民建国叙事，同时警示巴勒斯坦与阿拉伯本土运动不能退缩为狭隘的原教旨主义仇恨，唯有确立世俗、包容与法治的公民宪政共同体，中东各民族才能走出无休止的流血与压迫怪圈。
 
 ---
 

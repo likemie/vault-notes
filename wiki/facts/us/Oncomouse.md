@@ -11,7 +11,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 20
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Cumulative Innovation]]"
   - "[[Research Universities]]"
+  - "[[Alienation]]"
   - "[[Engineering Pragmatism]]"
   - "[[Data Withholding]]"
 related_theories:
@@ -40,6 +41,7 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Alexandre de Rhodes]]"
   - "[[Ágnes Heller]]"
 related_facts:
   - "[[National Institutes of Health]]"
@@ -51,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-05
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -75,7 +77,7 @@ updated: 2026-11-11
 >   杜邦公司推行激进的商业独占策略：要求每只小鼠支付数十倍于常规实验动物的高昂费用；严禁科学家在实验室自行繁育子代，强制要求逐次购买；要求学者在公开发表论著前接受杜邦预先审查；强制推行到达提成条款（[[Reach]]-Through Royalties），索取利用该小鼠获得的任何后续商业药物研发的利润分成。大批生命科学家被迫放弃肿瘤实验，发明人亦将杜邦合同作为拒绝向同行寄送实验样本的法律合规借口。[[Argument_Thompson_et_al_2018_RP|(Strandburg, 2008; via Thompson et al., 2018, p. 1068)]]
 >
 > - **1998–1999 — NIH 介入调停与公共共享备忘录达成**
->   面对癌症研究进展遭遇大面积延误的严峻危机，NIH 院长哈罗德·瓦姆斯（Harold Varmus）于 1998 年组建科研工具工作组（NIH Working Group on Research Tools），正式界定基础实验工具的公共属性；1999 年 NIH 与杜邦公司签署具有约束力的谅解备忘录（MOU），杜邦同意放弃对联邦资助机构科学家的到达提成与发表审查要求，允许在非营利科研机构内部以简化的[[Material Transfer Agreement|材料转移协议]]（MTA）免费共享小鼠，确立了学术研究非排他使用的制度先例。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, p. 1062)]]
+>   面对癌症研究进展遭遇大面积延误的严峻危机，NIH 院长哈[[Alexandre de Rhodes|罗德]]·瓦姆斯（Harold Varmus）于 1998 年组建科研工具工作组（NIH Working Group on Research Tools），正式界定基础实验工具的公共属性；1999 年 NIH 与杜邦公司签署具有约束力的谅解备忘录（MOU），杜邦同意放弃对联邦资助机构科学家的到达提成与发表审查要求，允许在非营利科研机构内部以简化的[[Material Transfer Agreement|材料转移协议]]（MTA）免费共享小鼠，确立了学术研究非排他使用的制度先例。[[Argument_Thompson_et_al_2018_RP|(Thompson et al., 2018, p. 1062)]]
 
 ---
 
@@ -112,7 +114,7 @@ updated: 2026-11-11
 > [!finding-cards] 关键历史后果
 > - **首开高等动物专利先河** 确立了多细胞转基因生命体在美国专利法体系下的客体适格性，为后续基因工程制药与疾病模型商业化铺平了法制路径。
 > - **确立科研工具非排他底线** 迫使美国各大[[Research Universities|研究型大学]]重新审视技术转移办公室的许可策略，不再轻易向上游基础实验工具授予带有到达提成性质的独家排他许可。
-> - **揭示合规盾牌防卫机制** 揭示了学者在面对同行材料索要时，借助商业独占协议作为防卫盾牌（Strategic Alibi）拒绝交付实体物料的微观行为异化。[[Argument_Thompson_et_al_2018_RP|(Strandburg, 2008; via Thompson et al., 2018, p. 1068)]]
+> - **揭示合规盾牌防卫机制** 揭示了学者在面对同行材料索要时，借助商业独占协议作为防卫盾牌（Strategic Alibi）拒绝交付实体物料的微观行为[[Alienation|异化]]。[[Argument_Thompson_et_al_2018_RP|(Strandburg, 2008; via Thompson et al., 2018, p. 1068)]]
 
 > [!stat-cards]- 核心历史数据
 > - **US Patent 4,736,866** 美国专利商标局授予哈佛大学致癌小鼠的正式专利编号。

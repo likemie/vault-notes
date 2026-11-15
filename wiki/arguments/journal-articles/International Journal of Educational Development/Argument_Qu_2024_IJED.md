@@ -24,6 +24,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Innovation Hub]]"
   - "[[One Country, Two Systems]]"
+  - "[[Alienation]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Technology Transfer]]"
@@ -37,6 +38,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Transnational Education]]"
+  - "[[Cooperative Education]]"
   - "[[Performance Indicators]]"
   - "[[Innovation Park]]"
   - "[[Tokyo Bay Area]]"
@@ -75,14 +77,14 @@ sources:
 part_of:
 status: draft
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Qu_2024_IJED"
 argument_key: "Argument_Qu_2024_IJED"
 argument_display_title: "Education hubs in a globalized world: The emergence of China"
 argument_kind: "journal-article"
-argument_related_count: 45
+argument_related_count: 47
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -99,7 +101,7 @@ issuing_organization: ""
 > 既往跨境高等教育研究普遍将中国视作[[Study Abroad|留学]]生输出国，相对忽视其作为留学目的国及新兴[[International Education Hubs|国际教育枢纽]]（Education Hub）的战略地位；同时，既有教育枢纽[[Document|文献]]多集中于新加坡、马来西亚、卡塔尔、阿联酋等东南亚与中东中小型经济体，缺乏对大型经济体多层级区域高教枢纽形态的系统考察。需要解答：中国如何在国家区域协调发展战略下构建具有不同制度设计的国际教育枢纽？不同区域枢纽在空间形态、产学政合作治理与功能定位上呈现何种差异？这些枢纽如何协同区域产业结构向知识与服务型经济转型？
 
 > [!claim] 核心主张
-> 中国正在从单纯的留学生输出国转向兼具重要集聚辐射功能的新兴国际教育枢纽；依托大学-产业-政府的三螺旋协同机制，中国在国家区域协调发展战略下形成了长三角单核驱动型（以本土高水平大学链接多元世界顶尖名校的知识[[Innovation Hub|创新枢纽]]）、[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]多核集群型（在[[One Country, Two Systems|一国两制]]下依托港澳高水平大学内地合作办学的人才与创新枢纽）以及海南自贸港园区平台共享型（以大共享加小学院集约化运作并率先试点境外高校独立办学的转型枢纽）三种差异化教育枢纽模式，系统支持区域经济向知识与服务型转型。
+> 中国正在从单纯的留学生输出国转向兼具重要集聚辐射功能的新兴国际教育枢纽；依托大学-产业-政府的三螺旋协同机制，中国在国家区域协调发展战略下形成了长三角单核驱动型（以本土高水平大学链接多元世界顶尖名校的知识[[Innovation Hub|创新枢纽]]）、[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]多核集群型（在[[One Country, Two Systems|一国两制]]下依托港澳高水平大学内地合作办学的人才与创新枢纽）以及海南自贸港园区平台共享型（以大共享加小学院集约化运作并率先试点境外高校独立办学的转型枢纽）三种差[[Alienation|异化]]教育枢纽模式，系统支持区域经济向知识与服务型转型。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 中国三大国家战略区域的教育枢纽实践，即长三角[[International Collaborative Education Exemplary Zone|浙江大学国际合作教育样板区]]（依托浙江大学国际联合学院 International Campus of Zhejiang University, iZJU）、粤港澳大湾区（Guangdong-Hong Kong-Macao Greater Bay Area, GBA）国际高等教育示范区以及海南自由贸易港（Hainan Free Trade Port, FTP）[[Hainan International Education Innovation Pilot Zone|陵水黎安国际教育创新试验区]]。

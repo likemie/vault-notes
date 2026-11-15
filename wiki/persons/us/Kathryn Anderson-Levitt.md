@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Class Size]]"
   - "[[High-Stakes Testing]]"
+  - "[[Alienation]]"
   - "[[Rich and Thick Description]]"
 related_theories:
   - "[[World Society Theory]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -60,7 +61,7 @@ updated: 2026-10-22
 > - **代表贡献** 主编里程碑式专著《本土意义，全球学校教育：人类学与[[World Society Theory|世界文化理论]]》（*Local Meanings, Global Schooling*, 2003）；主持美国、法国与几内亚小学语文阅读教学的跨国多地点[[Ethnography|民族志]]比较研究；在比较教育学界确立了兼顾宏观世界文化与微观教室实践的“双重视野”（Double Vision）分析范式。
 
 > [!citation-card] [[Robert Arnove|阿诺夫]]论安德森-莱维特的双重视野贡献
-> 安德森-莱维特（2003）主编的文集《本土意义，全球学校教育》阐明了教育人类学研究如何加深我们对全球教育力量在国家和本土层面如何展开的理解。通过对几内亚、法国和美国小学阅读教学的跨国民族志考察，她展示出各国教师面对不同的物质与制度现实——几内亚的大[[Class Size|班额]]与教材匮乏、法国的国家共和传统、美国的[[High-Stakes Testing|高利害测验]]问责——对全球通行的儿童中心教学规范做出了极具差异化的本土再创造，从而确立了宏观与微观兼顾的“双重视野”。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–109)]]
+> 安德森-莱维特（2003）主编的文集《本土意义，全球学校教育》阐明了教育人类学研究如何加深我们对全球教育力量在国家和本土层面如何展开的理解。通过对几内亚、法国和美国小学阅读教学的跨国民族志考察，她展示出各国教师面对不同的物质与制度现实——几内亚的大[[Class Size|班额]]与教材匮乏、法国的国家共和传统、美国的[[High-Stakes Testing|高利害测验]]问责——对全球通行的儿童中心教学规范做出了极具差[[Alienation|异化]]的本土再创造，从而确立了宏观与微观兼顾的“双重视野”。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–109)]]
 >
 > *Anderson-Levitt's edited collection illustrates how anthropological studies of education may deepen our understanding of how global forces are played out at the national and local levels... She proposes a "double vision," one that recognizes the play of global forces within the daily realities of school and classroom life.*
 

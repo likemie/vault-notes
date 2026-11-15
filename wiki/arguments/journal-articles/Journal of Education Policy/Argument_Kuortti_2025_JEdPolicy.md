@@ -46,6 +46,7 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[Professional Capital]]"
   - "[[Soft Privatisation]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Bacchi's WPR Approach]]"
   - "[[Governmentality]]"
@@ -79,14 +80,14 @@ sources:
 part_of: ""
 status: completed
 created: 2026-11-08
-updated: 2026-11-11
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kuortti_2025_JEdPolicy"
 argument_key: "Argument_Kuortti_2025_JEdPolicy"
 argument_display_title: "Repurposing public education: Governmental rationality of education export in Finland through public education problematisations"
 argument_kind: "journal-article"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -317,7 +318,7 @@ issuing_organization: ""
 > 1. **PISA 测评声誉的跨学段挪用机制** 芬兰教育出口政策通过后结构话语将公立基础教育的 PISA 盛誉强行转译为商业需求，掩盖了对外部商业需求的虚构，为推崇免费的高等与职业教育引入市场机制确立正当性。
 > 2. **法治保障向商业阻碍的性质逆转** 政策文本将原本旨在保障教育公平与公民权利的公法条款判定为过时壁垒，促使国家自我限权并推动公立机构以体制外私营法人外壳开展跨境营利。
 > 3. **教职人员的企业家化主体改造** 通过教育部设立的 30 学分微专业，国家将微观治理技术渗透入教师与管理者的职业发展通道，使从业人员自发将个人职业成功与国家出口竞争责任绑定。
-> 4. **公立教育系统的平台化与产业供给端异化** 在生态系统话语下，公立学校演变为私营教育科技公司的免费测试平台与公信力背书跳板，形成公共财政承担试错风险、私人资本获取海外收益的非对称合作结构。
+> 4. **公立教育系统的平台化与产业供给端[[Alienation|异化]]** 在生态系统话语下，公立学校演变为私营教育科技公司的免费测试平台与公信力背书跳板，形成公共财政承担试错风险、私人资本获取海外收益的非对称合作结构。
 
 > [!stat-cards]- 关键政策文献与制度数据快照
 > - **16** （份） 深度追踪编码的 2010 至 2020 年间芬兰国家级教育出口核心政策文献总量。

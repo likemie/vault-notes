@@ -8,7 +8,7 @@ aliases:
 summary: "高等教育学与科学社会学概念，指大学倾向于聘用本校毕业的博士或内部教师担任教职的聘任现象。该现象常伴随外部竞争机制缺失与地方行政保护主义，导致学术网络封闭、学术创新动力衰减与裙带关系固化。"
 type: concept
 domain: "higher-education"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,6 +19,7 @@ tags:
   - theme/educational-governance
   - theme/science-policy
 related_concepts:
+  - "[[Alienation]]"
   - "[[Scientific Mobility]]"
   - "[[Paradigm]]"
   - "[[Competitiveness]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-12
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -64,7 +65,7 @@ updated: 2026-11-11
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向高等教育学术劳动力市场中的人事封闭与地方保护，核心机制为以内部依附关系取代开放竞争。
-> - **用途** 帮助研究者透视高校人事选拔中的微观政治与制度异化，揭示形式上的大学自治为何可能演变为事实上的学术垄断与平庸化。
+> - **用途** 帮助研究者透视高校人事选拔中的微观政治与制度[[Alienation|异化]]，揭示形式上的大学自治为何可能演变为事实上的学术垄断与平庸化。
 > - **边界** 不等于正常的学术传承或优势学科梯队建设；学术近亲繁殖特指通过制度漏洞排斥外部竞争、压制异质学术观点的排他性任用模式。
 
 > [!citation-card|notitle] 大学近亲繁殖与博洛尼亚对标假象

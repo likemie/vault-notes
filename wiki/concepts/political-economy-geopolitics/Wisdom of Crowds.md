@@ -6,7 +6,7 @@ aliases:
 summary: "英国人类学家高尔顿通过 1906 年普利茅斯家畜市集估重实验开创的集体智能概念；指出在个体判断独立且信息分散的情境下，离散估计的统计中位数能精准逼近客观真理；当代反思则揭示将该逻辑盲目泛化至资本市场配置会诱发投机泡沫与公共治理创新荒漠。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ tags:
   - theme/epistemology
 related_concepts:
   - "[[Epistemology]]"
+  - "[[Mimesis]]"
   - "[[Reliability]]"
   - "[[Trustworthiness]]"
   - "[[Swarm Intelligence]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -51,7 +52,7 @@ updated: 2026-11-03
 > [!concept-lens] 概念透镜
 > - **含义** 指向分散信息在缺乏中心权威协调时，通过统计汇聚机制自发显现的高水平[[Epistemology|认识论]]准确性。
 > - **用途** 解释预测市场、民意聚合、众包科研以及民主投票在特定客观事实测量中的有效性。
-> - **边界** 仅在个体保持独立判断、信息多样性充足且具有客观可检验反馈的情境下成立；不适用于涉及实质价值选择、长远公共品构建或存在严重羊群模仿效应的资本市场投资决策。
+> - **边界** 仅在个体保持独立判断、信息多样性充足且具有客观可检验反馈的情境下成立；不适用于涉及实质价值选择、长远公共品构建或存在严重羊群[[Mimesis|模仿]]效应的资本市场投资决策。
 
 > [!citation-card] [[Francis Galton|高尔顿]]论普利茅斯公牛估重实验与民主判断的可[[Reliability|信度]]
 > 787 位参观者猜测公牛重量的中位数为 1207 磅，与 1198 磅的真实重量相差不到 0.8%；这一惊人结果引发了关于群体智慧及其精确预测能力的百年学术探讨，并指向了民主判断的可信度。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 171)]]

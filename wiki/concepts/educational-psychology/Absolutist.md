@@ -7,7 +7,7 @@ aliases:
 summary: "论辩推理模型中的基础认识论立场，视知识为绝对客观、存在唯一正确答案的事实；在人机共生学习中表现为将大模型视为确定性答案机而产生表面顺从与消极认知卸载。"
 type: concept
 domain: "educational-psychology"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Problem Solving]]"
   - "[[Theoretical Perspective]]"
+  - "[[Alienation]]"
   - "[[Variable]]"
   - "[[Dialogue in Education]]"
   - "[[Cognitive Source]]"
@@ -43,7 +44,7 @@ related_methods:
   - "[[Chi-Squared Test]]"
 status: active
 created: 2026-08-15
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -115,7 +116,7 @@ updated: 2026-11-03
 
 > [!tension] 权威真理崇拜 vs 算法输出顺从
 > - **经典[[Theoretical Perspective\|理论视角]]** 绝对论者主要崇拜教师、教科书与学科专家等传统权威。
-> - **智能时代异化** [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 360–363)]] 指出，[[Generative Artificial Intelligence\|生成式人工智能]]的语言流畅性与即时响应极易形成一种新型的“算法拟真权威”，使即便具有一定批判意识的学生在复杂任务中也极易滑入绝对主义顺从。
+> - **智能时代[[Alienation|异化]]** [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 360–363)]] 指出，[[Generative Artificial Intelligence\|生成式人工智能]]的语言流畅性与即时响应极易形成一种新型的“算法拟真权威”，使即便具有一定批判意识的学生在复杂任务中也极易滑入绝对主义顺从。
 
 ---
 

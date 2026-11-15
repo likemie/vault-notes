@@ -9,7 +9,7 @@ aliases:
 summary: "学术写作中包含文献摘要与研究摘要两类体裁，前者用于文献综述中的研究加工与要素提炼，后者置于方案或论著开篇系统整合问题、数据源、方法、发现与启示；在科学学中亦作为高密度语义挖掘语料。"
 type: concept
 domain: "academic-writing"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Cumulative Innovation]]"
   - "[[Operationalization]]"
   - "[[Discourse]]"
+  - "[[Alienation]]"
   - "[[Publication Bias]]"
   - "[[Paradigm]]"
 related_theories: []
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-05-31"
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -156,7 +157,7 @@ updated: 2026-11-11
 > > [!axis] 质性丰富性 vs 极简压缩要求
 > > 争论质性研究的复杂脉络与参与者声音能否在极短字数内被有效表达。
 > >
-> > - **质性研究反思派** 指出严格的 150–250 词限制迫使质性研究剔除关键文化背景与[[Discourse|话语]]细微差别，可能导致深层解释异化为表面标签。
+> > - **质性研究反思派** 指出严格的 150–250 词限制迫使质性研究剔除关键文化背景与[[Discourse|话语]]细微差别，可能导致深层解释[[Alienation|异化]]为表面标签。
 > > - **规范交流派** 论证质性摘要依然可以通过聚焦核心主题与情境关键特征实现规范传达，篇幅限制是保障学术共同体高效运转的必要妥协。
 
 > [!warning|limits] 适用局限

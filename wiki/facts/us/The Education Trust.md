@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Legislative Policy Brief]]"
   - "[[Boundary Spanner]]"
   - "[[Discourse]]"
+  - "[[Alienation]]"
   - "[[Examination-Oriented Education]]"
   - "[[Policy Window]]"
   - "[[Problem Finding]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -133,7 +134,7 @@ updated: 2026-11-02
 > [!debates] 核心争议交锋
 >
 > > [!axis] 强问责导向与高利害测试后遗症争议
-> > 争论 EdTrust 在 [[No Child Left Behind Act 2001|NCLB]] 期间对量化考试成绩与达标考核的极端推崇，是否带来了严重的应试异化负效应。
+> > 争论 EdTrust 在 [[No Child Left Behind Act 2001|NCLB]] 期间对量化考试成绩与达标考核的极端推崇，是否带来了严重的应试[[Alienation|异化]]负效应。
 > >
 > > - **批评视角（教育学者与一线教师）** 指责其过度强调达标切分点和严苛问责，客观上诱发了全美范围内的[[Examination-Oriented Education|应试教育]]（Teaching to the Test）、挤压艺术与体育课程，并促使部分州蓄意下调及格线制造虚假达标率。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 9)]]
 > > - **机构立场（EdTrust 辩护）** 坚称没有坚固的量化数据与公开问责，有色人种和贫困学生的学业困境就会重新被忽视，数据分解是捍卫民权平等的不可退让底线。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, p. 45)]]

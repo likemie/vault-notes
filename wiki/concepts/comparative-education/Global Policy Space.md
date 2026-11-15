@@ -6,7 +6,7 @@ aliases:
 summary: "Beech 基于 Castells 网络社会理论提出的概念，指全球教育场场域中多元行动者通过跨国网络协作与竞争、生产并倡导教育政策方案的空间，其话语兼具稳定性与可塑性且抽离于地方历史经验"
 type: concept
 domain: "comparative-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Space of Places]]"
   - "[[Floating Signifier]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Network Society]]"
 related_methods: []
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -96,7 +97,7 @@ updated: 2026-10-22
 
 > [!feature] 全球教育政策话语的运行特征
 > - **稳定性与可塑性（Stability & Malleability）** 整合不同利益和文化背景的需要决定了话语的二元结构：既有核心品牌的稳定性以维持其全球权威，又有极强的可塑性允许各方自行填空。([[Argument_Beech_2009_CE\|Beech, 2009a, p. 353]])
-> - **[[Floating Signifier\|漂浮能指]]（Floating Signifier）** 话语脱离了它在特定地方的时间、空间及斗争经验，成为无固定具体所指的抽象符号，其传播效力恰恰来自其能在各种本土语境中被差异化编码。(pp. 353–355)
+> - **[[Floating Signifier\|漂浮能指]]（Floating Signifier）** 话语脱离了它在特定地方的时间、空间及斗争经验，成为无固定具体所指的抽象符号，其传播效力恰恰来自其能在各种本土语境中被差[[Alienation|异化]]编码。(pp. 353–355)
 > - **不兼容声明的组合（Incongruent Statements）** 在同一政策文件中并存逻辑矛盾的陈述，以获取最广泛的政治同盟。(p. 353)
 
 > [!exegesis]- 机制解读一：稳定性与可塑性的政治隐喻

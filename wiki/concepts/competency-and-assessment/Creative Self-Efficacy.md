@@ -10,10 +10,10 @@ aliases:
 summary: "个体对其产生创造性想法、解决复杂不良结构问题以及实现创新成果的能力所持有的主观信心与自我效能信念；是连接创造潜能向显性创造表现转化的核心外认知动力中介。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - field/educational-psychology
   - theme/creativity
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Wicked Problem]]"
   - "[[Feedback]]"
   - "[[Variable]]"
+  - "[[Alienation]]"
   - "[[Executive Function]]"
   - "[[Learning Gain]]"
   - "[[Working Memory]]"
@@ -77,7 +78,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -161,7 +162,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题二｜掌握经验与结构化认知训练是塑造创造效能感的最优路径，单纯情绪唤起效用不足
-> **教学干预路径与效能感生成的实证机制** 探讨不同类型的[[Creativity Training\|创造力训练]]教学方式如何差异化影响创造性自我效能感的建立。
+> **教学干预路径与效能感生成的实证机制** 探讨不同类型的[[Creativity Training\|创造力训练]]教学方式如何差[[Alienation|异化]]影响创造性自我效能感的建立。
 
 > [!claim] Bandura; Meinel et al.; Guo et al.
 > **掌握经验的主导地位与认知策略支撑** 亲历成功掌握经验是构建自我效能感最强大、最持久的心理信息源。[[Three-Level Meta-Analysis\|多层元分析]]实证表明，依托认知加工、言语策略与结构化思维工具的系统干预（言语训练 $g = 0.998$，思维训练 $g = 0.762$）能显著提升创造表现，并通过掌握经验稳固强化创造性自我效能感；相比之下，脱离结构化认知工具的纯情绪激励与放松训练（$g = -0.066$）无法有效提升创造力或建立稳固效能感。这证明创造信心必须扎根于具体解题策略与成功解决问题的实战掌控感，而非盲目的自我心理按摩。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 6–7, 10)]]

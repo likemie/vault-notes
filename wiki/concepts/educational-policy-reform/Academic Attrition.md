@@ -11,7 +11,7 @@ aliases:
 summary: "在校学生在完成既定学业或获得法定文凭证书之前非自愿或自愿脱离学校教育系统的现象，由制度性惩戒排斥、高利害问责推挤、学业挫败及社会经济压力等多维机制引发，是教育公平、学校治理与辍学预防的核心议题"
 type: concept
 domain: "educational-policy-reform"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Initial Teacher Training]]"
   - "[[Differentiated Instruction]]"
+  - "[[Alienation]]"
   - "[[Academic Achievement]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Mentorship]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -108,7 +109,7 @@ updated: 2026-11-03
 > - **制度性惩戒推挤（Exclusionary Pushout）** 学校将校规处置机械泛化为停课、转学与开除等排斥性管教措施，直接剥夺在读机会并将学生推入“学校到监狱管道”。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]
 > - **问责压力下的生源筛选（Accountability-Induced Cream-Skimming）** 在外部高风险达标重压下，部分学校通过提高缺勤门槛或劝退后进生以保全整体测试达标率。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, p. 15)]]
 > - **多维早期预警表征（ABC Early Warning Indicators）** 缺勤率（Attendance）、行为处分（Behavior）与基础学科不及格门数（Course Performance）构成判定学生学业脱落的核心前瞻表征。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 223)]]
-> - **[[Grade Retention\|留级]]污名化催化（Retention-Induced Alienation）** 遭受学业留级的学生因生理年龄与同伴脱节及社会学标签效应，其后续完全脱离学校的概率成倍上升。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 12)]]
+> - **[[Grade Retention\|留级]]污名化催化（Retention-Induced [[Alienation]]）** 遭受学业留级的学生因生理年龄与同伴脱节及社会学标签效应，其后续完全脱离学校的概率成倍上升。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 12)]]
 
 > [!logic-map]- 学业流失形成机制与制度传导路径
 > ```mermaid
@@ -220,7 +221,7 @@ updated: 2026-11-03
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] — 援引斯基巴实证数据，揭示校园零容忍排斥性管教导致弱势族裔学生学业流失并加剧学校到监狱管道的结构性机制（p. 45）。
-> - [[Argument_Zhao_2017_JEC|Zhao (2017)]] — 论证高利害标准化测试问责（[[No Child Left Behind Act 2001|NCLB]]）倒逼学校防御性推挤边缘学生以保全达标率的坎贝尔定律异化机制（pp. 13–15）。
+> - [[Argument_Zhao_2017_JEC|Zhao (2017)]] — 论证高利害标准化测试问责（[[No Child Left Behind Act 2001|NCLB]]）倒逼学校防御性推挤边缘学生以保全达标率的坎贝尔定律[[Alienation|异化]]机制（pp. 13–15）。
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — [[Meta-analysis|元分析]]论证学业[[Grade Retention|留级]]对学生[[Academic Achievement|学业成就]]的负向效应（$d = -0.16$）及其作为中途辍学最强预测因子的长期破坏性后果（p. 12）。
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 系统评估全美证据清算平台中预防辍学中心（[[National Dropout Prevention Center|NDPC]]）的早期预警与多维[[Mentorship|导师制]]干预模型（pp. 223, 263）。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 剖析[[EU|欧盟]][[Lisbon Strategy|里斯本战略]]与《[[Education and Training 2010|教育与培训 2010]]》工作规划将早期离校率低于 10% 转化为超国家量化基准指标并实施[[Panopticism|全景敞视]]审查的规训机制（pp. 491–492）。

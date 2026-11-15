@@ -12,7 +12,7 @@ cssclasses:
   - person-page
 nationality: "us"
 person_region: "us"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Creativity]]"
   - "[[Engineering Mindset]]"
+  - "[[Alienation]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -99,4 +100,4 @@ updated: 2026-11-15
 > |:-----|:-----|:-----|
 > | [[Symphony Orchestra Model]] | 概念 | 提出知识密集型组织直连无中介的交响乐团组织隐喻与管理模型。 |
 > | [[Engineering Mindset]] | 概念 | 为将软件工程师定义为艺术家以及构建去中心化敏捷工程文化提供理论基础。 |
-> | [[Bureaucracy]] | 概念 | 深刻批判传统工业企业多层管理中介对专业创新者的异化与扼杀。 |
+> | [[Bureaucracy]] | 概念 | 深刻批判传统工业企业多层管理中介对专业创新者的[[Alienation\|异化]]与扼杀。 |

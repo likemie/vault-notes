@@ -8,7 +8,7 @@ aliases:
 summary: "吉塔·施泰纳-哈姆西等学者于 2024 年提出的知识治理分析模型，在传统两社区理论基础上将循证政策生态解构为快车道（决策社群）、慢车道（科研社群）与中间车道（中介与经纪机构）三大支柱，揭示了中介机构虽能压缩转译学术产出但易诱发去情境化推销与信息过载的治理机理。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
   - theme/knowledge-governance
 related_concepts:
   - "[[Epistemic Governance]]"
+  - "[[Alienation]]"
   - "[[Knowledge Mediation]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Output-Oriented Governance]]"
@@ -52,13 +53,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Fast and Slow Lanes Model
-> [[Epistemic Governance|知识治理]]快慢车道模型（Fast and Slow Lanes Model）是由吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等人在[[UNESCO|联合国教科文组织]]《[[Global Education Monitoring Report|全球教育监测报告]]》背景研究中提出的[[Analytic Framework|分析框架]]。该模型突破了传统[[Two-Communities Theory|两社区理论]]的静态二元对立，将基于知识的公共治理划分为三大相互作用的车道支柱：代表决策社群的快车道（Fast Lane）、代表基础科研的慢车道（Slow Lane）以及充当转译中介的中间车道（Middle Lane）。模型阐明了中介机构在连接不同时间节奏与价值取向子系统时的转化机制与功能异化。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 14–16)]]
+> [[Epistemic Governance|知识治理]]快慢车道模型（Fast and Slow Lanes Model）是由吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等人在[[UNESCO|联合国教科文组织]]《[[Global Education Monitoring Report|全球教育监测报告]]》背景研究中提出的[[Analytic Framework|分析框架]]。该模型突破了传统[[Two-Communities Theory|两社区理论]]的静态二元对立，将基于知识的公共治理划分为三大相互作用的车道支柱：代表决策社群的快车道（Fast Lane）、代表基础科研的慢车道（Slow Lane）以及充当转译中介的中间车道（Middle Lane）。模型阐明了中介机构在连接不同时间节奏与价值取向子系统时的转化机制与功能[[Alienation|异化]]。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 14–16)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指涉决策系统、科学系统与中介系统在行动节律、成果形态与合法性规范上的结构性分工与动态张力。

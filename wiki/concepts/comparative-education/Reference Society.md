@@ -8,7 +8,7 @@ aliases:
 summary: "在比较教育与政策借用研究中，指被特定国家用作自身教育体制改革、政策辩护或合法化重构的外部参照范例或制度模板。概念源自施瑞尔（Jürgen Schriewer）的“外化假说”与卢曼系统论，强调系统对外部参照点的内部建构以应对政策情境的偶然性与不确定性。在当代全球量化治理中，经合组织通过外向型同行比较建构参考社会，而世界银行则展现出以自身工具与项目为依归的自指性中介特征。"
 type: concept
 domain: "comparative-education"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Knowledge Mediation]]"
   - "[[Governing by Numbers]]"
+  - "[[Alienation]]"
   - "[[Positivism]]"
   - "[[Technical Rationality]]"
   - "[[Transfer Science]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-05
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -158,7 +159,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题三｜超国家治理复合体分化为外向型同行参照与机构自指性中介体系
-> **多边机构[[Knowledge Mediation|知识中介]]的分野机制** 本类命题聚焦全球[[Governing by Numbers|数字治理]]时代多边组织如何通过差异化策略重构模范社会逻辑。
+> **多边机构[[Knowledge Mediation|知识中介]]的分野机制** 本类命题聚焦全球[[Governing by Numbers|数字治理]]时代多边组织如何通过差[[Alienation|异化]]策略重构模范社会逻辑。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]]
 > **外向型同行参照与自指性中介的分野** 在数字治理时代，[[Policy Brokerage|政策中介]]工具箱的多样化瓦解了单一模范逻辑：[[OECD|经合组织]]依托横向国别比较维持外向型参考社会网络；[[World Bank|世界银行]]则通过排他性技术工具（[[Systems Approach for Better Education Results|SABER]]）构筑起闭门自证的自指性话语体系，将自身工具直接等同于最佳实践。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 545)]]

@@ -14,7 +14,7 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 46
+fact_related_count: 47
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Streetlight Effect]]"
   - "[[Open-Mindedness]]"
   - "[[Data Infrastructure]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Random Impact Rule]]"
   - "[[Q-Model]]"
@@ -84,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-11-01"
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -178,7 +179,7 @@ updated: 2026-11-11
 > > - **多源[[Record Linkage|实体对齐]]与开放基准构建** 学界主张突破单一商业库依赖，将 WoS 与 [[Scopus]]、OpenAlex 以及公共资助库（如 [[National Science Foundation|NSF]]/[[National Institutes of Health|NIH]]）通过学者[[Author Name Disambiguation|姓名消歧]]与实体链接进行交叉整合，以构建兼顾权威性与[[Open-Mindedness|开放性]]的全景科学学[[Data Infrastructure|数据基础设施]]。[[Argument_Liu_2023_NHB|(Liu et al., 2023, pp. 341–350)]]; [[Argument_Lin_2023_SciData|(Lin et al., 2023)]]
 
 > [!lessons] 经验教训与启示
-> - **计量标尺异化风险** 单纯用于文献检索与馆藏决策的引文索引被管理主义泛化为科研绩效评价工具后，导致学界出现针对指标的投机性引文堆砌与期刊影响因子操纵。
+> - **计量标尺[[Alienation|异化]]风险** 单纯用于文献检索与馆藏决策的引文索引被管理主义泛化为科研绩效评价工具后，导致学界出现针对指标的投机性引文堆砌与期刊影响因子操纵。
 > - **开放与封闭的平衡演变** 长期依赖专有商业数据库的高昂订阅壁垒促使科学学界呼吁建设透明、可复现、开源的公共学术数据基础设施。
 
 ---

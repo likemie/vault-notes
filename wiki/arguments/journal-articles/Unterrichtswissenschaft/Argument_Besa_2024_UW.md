@@ -7,7 +7,7 @@ title: "Argument_Besa_2024_UW"
 argument_key: "Argument_Besa_2024_UW"
 argument_display_title: "Evidenzfernes Lehrkräftehandeln – braucht die Bildungsforschung eine neue Wissenschaftskommunikation? Unterrichtswissenschaft, 52(2), 251–262"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Refutational Evidence]]"
   - "[[Falsification]]"
   - "[[Co-Teaching]]"
+  - "[[Alienation]]"
   - "[[Self-Efficacy]]"
   - "[[Evidence-Based Education]]"
   - "[[Paradigm]]"
@@ -73,7 +74,7 @@ related_facts:
   - "[[Forschungsmonitor Schule]]"
 confidence: high
 created: 2026-09-18
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 ---
 
@@ -162,7 +163,7 @@ updated: 2026-11-11
 
 > [!quad-grid] 学习风格神话对教育实践的多维危害
 > - **实证支持的彻底匮乏** 严格的对照试验一再否定感官匹配假说，证实按所谓视觉型或听觉型教学并不能带来额外的学业增益。
-> - **教学资源与精力的严重错配** 教师在教案设计中耗费大量心力为不同类型学生准备差异化感官材料，导致备课精力从核心教学法设计中严重耗散。
+> - **教学资源与精力的严重错配** 教师在教案设计中耗费大量心力为不同类型学生准备差[[Alienation|异化]]感官材料，导致备课精力从核心教学法设计中严重耗散。
 > - **学生[[Self-Efficacy\|自我效能感]]的习得性削弱** 学生和家长将自身定型为特定感官类型后，容易产生认知设限，回避调动其他思维模式的深度学习任务（Nancekivell et al., 2020）。
 > - **教师对学业潜力的系统性误判** 导致教师根据虚假风格标签对学生的学科潜能形成定型偏见，损害教育评价的客观性与公平性（Sun et al., 2023）。
 

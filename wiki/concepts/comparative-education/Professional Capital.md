@@ -6,10 +6,10 @@ aliases:
 summary: "由安迪·哈格里夫斯和迈克尔·富兰提出的教师专业发展构念，整合人类资本、社会资本与决策资本三重视角，并在跨国政策扩散与新自由主义治理中被用于重塑教师自主、管理与网络化运作能力。"
 type: concept
 domain: "comparative-education"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - theme/teacher-professionalism
   - theme/educational-governance
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Competition State]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Teacher Mobility]]"
+  - "[[Alienation]]"
   - "[[Epistemology]]"
   - "[[Document]]"
 related_theories:
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -169,7 +170,7 @@ updated: 2026-11-11
 ---
 
 > [!warning|limits] 适用局限
-> 专业资本构念的落地高度依赖学校组织的协同文化与制度土壤。在科层等级森严、行政问责严苛或[[Teacher Mobility|教师流动]]性过高的环境中，社会资本网络难以自发形成，决策资本的长期积累往往被微观合规要求所阻断。此外，政策话语对专业资本的操作化容易滑向工具主义裁切，若剥离其背后的民主审议与教育伦理基石，专业资本指标可能异化为推行绩效管理与微观主体规训的修辞载体。
+> 专业资本构念的落地高度依赖学校组织的协同文化与制度土壤。在科层等级森严、行政问责严苛或[[Teacher Mobility|教师流动]]性过高的环境中，社会资本网络难以自发形成，决策资本的长期积累往往被微观合规要求所阻断。此外，政策话语对专业资本的操作化容易滑向工具主义裁切，若剥离其背后的民主审议与教育伦理基石，专业资本指标可能[[Alienation|异化]]为推行绩效管理与微观主体规训的修辞载体。
 
 ---
 

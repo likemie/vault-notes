@@ -41,6 +41,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Negative Citation]]"
   - "[[Author Contribution Disclosures]]"
+  - "[[Alienation]]"
   - "[[Salami Publishing]]"
   - "[[Scientific Productivity]]"
   - "[[Paradigm]]"
@@ -99,14 +100,14 @@ sources:
 part_of:
 status: active
 created: 2026-11-02
-updated: 2026-11-11
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Liu_2023_NHB"
 argument_key: "Argument_Liu_2023_NHB"
 argument_display_title: "Data, measurement and empirical methods in the science of science"
 argument_kind: "journal-article"
-argument_related_count: 67
+argument_related_count: 68
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -222,7 +223,7 @@ issuing_organization: ""
 
 > [!sub-claim] 3. 单一指标考核会诱发策略性迎合，破坏正常学术生态
 
-> [!warning] 古德哈特定律下的学术评价异化机制
+> [!warning] 古德哈特定律下的学术评价[[Alienation|异化]]机制
 > 当某个量化指标被直接用作科研绩效考核与学术资源分配的目标时，评价对象将主动采取策略性迎合行为，导致该指标丧失原有的衡量效力：
 > - **策略性互引与引文合谋** 结成封闭学术联盟进行战略性互引，人为虚增被引频次。
 > - **切分发表与碎片化产出（[[Salami Publishing|Salami Slicing]]）** 将系统性研究拆解为数篇边缘细分成果以最大化产出总量。

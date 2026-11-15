@@ -16,7 +16,7 @@ title: "Argument_Keddie_2020_IJLE"
 argument_key: "Argument_Keddie_2020_IJLE"
 argument_display_title: "The constitution of school autonomy in Australian public education: areas of paradox for social justice"
 argument_kind: "journal-article"
-argument_related_count: 7
+argument_related_count: 8
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[School Autonomy]]"
   - "[[Problematisation]]"
+  - "[[Alienation]]"
   - "[[Socioeconomic Status]]"
 related_theories: []
 related_methods:
@@ -46,7 +47,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-11-11
+updated: 2026-11-15
 year: 2020
 doi: ""
 citation_aliases:
@@ -75,7 +76,7 @@ citation_aliases:
 > [!example] 核心论证
 > 论文以 Dolan 的悖论框架，围绕四大悖论展开论证(IJLE, p.5)：
 >
-> 1. **经济效率与差异化拨款** 经济效率[[Discourse|话语]]和实践 + 公私部门间差异化拨款 → 构成学校"自主权" → 制造经济不公
+> 1. **经济效率与差[[Alienation|异化]]拨款** 经济效率[[Discourse|话语]]和实践 + 公私部门间差异化拨款 → 构成学校"自主权" → 制造经济不公
 > 2. **竞争与个人主义** 竞争和个人主义话语和实践 → 构成[[School Autonomy\|学校自主权]] → 削弱系统层面的公平（个别学校的成功以其他学校为代价）
 > 3. **权力下放与经济理性主义** 权力下放和经济理性主义 → 构成学校自主权 → 使本已弱势的学校（农村/偏远、低[[Socioeconomic Status|SES]]、小规模）更加不利
 > 4. **需求本位拨款** 需求本位拨款在缺乏透明度、精细度和行政支持时 → 构成学校自主权 → 制造经济不公（包括资金挪用和误用）

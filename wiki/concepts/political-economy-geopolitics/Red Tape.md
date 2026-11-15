@@ -8,7 +8,7 @@ aliases:
 summary: "指公共机构与大型组织中那些脱离实质目标、将繁琐程序合规、形式审查与道德虔敬绝对化，进而诱发规避问责博弈、扼杀敏捷创新、阻断顶尖人才流入并导致严重行政效率损失的官僚规章制度体系。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -19,6 +19,7 @@ tags:
   - theme/public-governance
   - theme/technological-republic
 related_concepts:
+  - "[[Alienation]]"
   - "[[Document]]"
   - "[[Commercial Off-The-Shelf]]"
   - "[[Procedural Piety]]"
@@ -65,13 +66,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Red Tape
-> **繁文缛节（Red Tape / 红绳现象）** 指公共部门与大型组织中那些脱离实质治理目标、将程序合规、形式审查与微观道德虔敬绝对化，进而诱发避险推诿、抑制实战创新、异化为替罪羊清算工具并导致系统性效能崩溃的规章制度与行政负担。
+> **繁文缛节（Red Tape / 红绳现象）** 指公共部门与大型组织中那些脱离实质治理目标、将程序合规、形式审查与微观道德虔敬绝对化，进而诱发避险推诿、抑制实战创新、[[Alienation|异化]]为替罪羊清算工具并导致系统性效能崩溃的规章制度与行政负担。
 > 
 > 在现代治理与政治经济学[[Document|文献]]中，该概念主要由两大流派深化：
 > 1. **国防创新与防务采办批判流派** 亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）指出，繁文缛节体现为国防采办中数以千计的军用技术规格（MIL-SPEC）和排斥[[Commercial Off-The-Shelf|商用现货]]的合规屏障，表现为一种“[[Procedural Piety|程序虔敬]]（Procedural Piety）”的体制防御机制——当公共机构无法交付实质战略成果时，官僚体系便转向细枝末节的合规审查与微观道德清算，以繁琐规章构筑避责护甲，将公共部门固化为[[Innovation Desert|创新荒漠]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 147–152)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 185–188)]]

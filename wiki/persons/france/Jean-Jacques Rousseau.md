@@ -10,10 +10,10 @@ cssclasses:
   - person-page
 nationality: france
 person_region: "france"
-person_related_count: 16
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: 1712
 died: 1778
 lifespan: "1712–1778"
@@ -31,14 +31,17 @@ tags:
 related_concepts:
   - "[[National Character]]"
   - "[[Discourse]]"
+  - "[[Alienation]]"
   - "[[Western Learner]]"
   - "[[Ideal Learner]]"
   - "[[Learner Autonomy]]"
   - "[[Progressive Education]]"
   - "[[Climatic Determinism]]"
+  - "[[Enlightenment]]"
   - "[[Experiential Learning]]"
   - "[[Critical Thinking Disposition]]"
-related_theories: []
+related_theories:
+  - "[[Imagined Community]]"
 related_methods: []
 related_instruments: []
 related_persons:
@@ -51,10 +54,11 @@ related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Anderson_2016_Verso_Ch04]]"
   - "[[Argument_Anderson_2016_Verso_Ch07]]"
+  - "[[Argument_Anderson_2016_Verso]]"
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-11-13
+updated: 2026-11-15
 ---
 
 ---
@@ -64,7 +68,7 @@ updated: 2026-11-13
 > - **核心角色** 现代儿童中心教育哲学与人民主权学说的奠基人；在西方学习传统中确立了批判怀疑与内在好奇享受的双重特质，其关于气候与[[National Character|国民性格]]的学说亦在近代跨大西洋殖民[[Discourse|话语]]中受到广泛讨论。
 > - **代表贡献** 著有《论人类不平等的起源》《社会契约论》《爱弥儿》与《忏悔录》，提出自然状态、消极教育、公意学说与儿童内在成长节律。
 
-> [!citation-card] 李锦论卢梭对文明异化的批判与西方学习传统的双重奠基
+> [!citation-card] 李锦论卢梭对文明[[Alienation|异化]]的批判与西方学习传统的双重奠基
 > 卢梭继承了[[Socrates|苏格拉底]]与[[Francis Bacon|培根]]的批判怀疑精神，以激进方式批判当时的教育、政治和宗教体制。他对儿童天然倾向的强调，使他成为[[Western Learner|西方学习者]]天然好奇心、兴趣和内在享受特质的关键理论奠基人。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 33–36)]]
 >
 > *Rousseau inherited the critical spirit of Socrates and Bacon, but attacked the educational, political, and religious establishments of his day in a far more radical manner... His emphasis on children's natural inclinations laid the foundation for the Western learner's natural curiosity and enjoyment of learning.*
@@ -110,7 +114,7 @@ updated: 2026-11-13
 > - **政治与民主理论路径** 《社会契约论》中的人民主权与公意学说直接滋养了法国大革命与现代共和宪政体制设计。
 > - **西方学习传统定位** 与苏格拉底—培根的怀疑精神并列，为[[Western Learner|西方学习者]]天然好奇心、兴趣与内在享受特质提供根本学理依据。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 33–36)]]
 > - **跨大西洋殖民话语传播** 卢梭关于自然生态与地理气候形塑国民性格的讨论，在近代跨大西洋传播中被欧洲宗主国官僚庸俗化为[[Climatic Determinism|气候决定论]]，用以论证美洲殖民地土生白人智力退化并为其行政排斥提供意识形态掩护。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, pp. 60–63)]]
-> - **殖民地启蒙课程与反殖民反噬** 20 世纪法国殖民当局将卢梭等启蒙哲学家的共和主义与人民主权学说纳入法属印度支那的必修课程；这一原本用于维系官方帝国认同的欧洲课程，最终成为越南等殖民地青年知识分子反抗帝国统治、构想主权独立的理论火种。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 120–121)]]
+> - **殖民地启蒙课程与反殖民反噬** 20 世纪法国殖民当局将卢梭等[[Enlightenment|启蒙哲学]]家的共和主义与人民主权学说纳入法属印度支那的必修课程；这一原本用于维系官方帝国认同的欧洲课程，最终成为越南等殖民地青年知识分子反抗帝国统治、构想主权独立的理论火种。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 120–121)]]
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2012_Cambridge|Li (2012, pp. 33–36)]] — 在梳理西方学习传统脉络中，将卢梭确立为西方学习者内在好奇心、兴趣驱动以及对建制权威开展激进批判倾向的关键理论奠基人。

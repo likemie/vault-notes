@@ -9,7 +9,7 @@ aliases:
 summary: "由一群围绕共同关注的问题、事业或追求，通过持续而规律的社会交往与共享实践，共同深化专业知识并逐步建构专业身份认同的社会化协作群体。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Apprenticeship]]"
   - "[[Research Universities]]"
   - "[[Emergence]]"
+  - "[[Alienation]]"
   - "[[Scaffolding]]"
   - "[[Discourse]]"
   - "[[Paradigm]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -129,7 +130,7 @@ updated: 2026-11-11
 > > [!axis] 自发有机生成 vs 人为行政干预孵化
 > > 争论实践共同体是否只能在自愿平等的自组织土壤中天然孕育，还是可以通过有组织的行政工作坊与顶层设计有效孵化。
 > >
-> > - **原初人类学视角（Lave & Wenger）** 倾向于将共同体视为非正式、自然[[Emergence|涌现]]的生活世界实践，警惕自上而下的科层干预将其异化为行政考核工具。
+> > - **原初人类学视角（Lave & Wenger）** 倾向于将共同体视为非正式、自然[[Emergence|涌现]]的生活世界实践，警惕自上而下的科层干预将其[[Alienation|异化]]为行政考核工具。
 > > - **现代教育干预设计（Murphy Jr. et al.）** 证实面对国家紧迫战略危机，依托 [[Design-Based Research|DBR]] 迭代多期工作坊并设立专班[[Scaffolding|脚手架]]，能够人为成功“播种”并培育出良性运转的新型科研实践共同体。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3–6)]]
 >
 > > [!axis] 社群温情包容 vs 内部权力微观压迫

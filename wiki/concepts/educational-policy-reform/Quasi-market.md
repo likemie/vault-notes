@@ -8,7 +8,7 @@ aliases:
 summary: "由公共财政出资但引入市场化竞争与自由选择机制的公共服务配置制度。在教育领域，准市场通过券款随生、多元供给者竞争与契约化管理打破国家直接垄断；晚近批判政策分析揭示，主权国家亦通过公共采购与试验床建设，在公立系统内人为培植支撑私营资本向海外扩张的非对称国内准市场。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Soft Privatisation]]"
   - "[[Commensuration]]"
+  - "[[Alienation]]"
   - "[[Discourse]]"
   - "[[Competitiveness]]"
   - "[[Paradigm]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-09
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -127,7 +128,7 @@ updated: 2026-11-11
 
 > [!dev-timeline] 概念演变
 > - **1990 年代 — 理论奠基与福利制度重构** 英国社会学家勒格兰德与巴特利特（1993）系统提出“准市场”[[Analytic Framework|分析框架]]，为撒切尔与大西洋两岸新公共管理改革提供理论阐释，界定公有资金与市场化多元供给结合的治理机制。
-> - **2000 年代 — 批判政策社会学审视** 鲍尔（2007）等学者深入剖析英美基础教育准市场改革，揭示教育准市场如何促使学校管理层异化为追逐排位与高阶生源的企业家主体，导致社会不平等制度化。
+> - **2000 年代 — 批判政策社会学审视** 鲍尔（2007）等学者深入剖析英美基础教育准市场改革，揭示教育准市场如何促使学校管理层[[Alienation|异化]]为追逐排位与高阶生源的企业家主体，导致社会不平等制度化。
 > - **2020 年代 — 产业生态化与国家测试床转向** 库尔蒂（[[Argument_Kuortti_2025_JEdPolicy|Kuortti, 2025]]）等学者将准市场分析推向国家教育出口与产业创新领域，揭示后福利国家如何通过“生态系统”[[Discourse|话语]]在国内人为制造准市场，将公立教育降格为私人资本出海的孵化测试场。
 
 ---

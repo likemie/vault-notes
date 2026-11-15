@@ -7,7 +7,7 @@ title: "Argument_WorldBank_2019_Teach"
 argument_key: "Argument_WorldBank_2019_Teach"
 argument_display_title: "Teach: Observer manual (1st ed.)"
 argument_kind: "report"
-argument_related_count: 46
+argument_related_count: 47
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dcfce7"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Teacher Subject Matter Knowledge]]"
   - "[[Zone of Proximal Development]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
@@ -89,7 +90,7 @@ sources:
   - "[[sources/WorldBank_2019_Teach/WorldBank_2019_Teach|WorldBank_2019_Teach]]"
 status: active
 created: 2026-10-15
-updated: 2026-10-29
+updated: 2026-11-15
 ---
 ---
 
@@ -328,7 +329,7 @@ Teach 的设计初衷绝非止步于问责性评价，而是服务于教育系�
 > [!critique] 理论与方法论反思
 > - **高推论评分的文化依赖性** 尽管 Teach 团队在视频库中引入了 11 个发展中国家的本土语料进行校准，但关于尊重、积极语言与幽默的文化界定在全球南方内部存在显著差异。在高度威权或等级制传统浓厚的教育文化中，教师对学生错误的直接打断甚至温和训诫是否应机械判定为低分，仍需要在国别本地化培训中持续调适。
 > - **大[[Class Size|班额]]情境下的快照代表性挑战** 在非洲部分地区普遍存在的 60–100 人超大班额课堂中，观察员在 1–10 秒的瞬时定格快照中难以精准判定全班学生的在轨比例（尤其后排学生），容易产生系统性测量偏误。
-> - **从观察诊断到教学改进的体制瓶颈** 尽管配套的 Coach 规程致力于提供针对性辅导，但如果发展中国家基层缺乏具备专业指导能力的教研员与校长队伍，Teach 的系统诊断数据仍面临沦为官僚机构档案材料的异化风险。
+> - **从观察诊断到教学改进的体制瓶颈** 尽管配套的 Coach 规程致力于提供针对性辅导，但如果发展中国家基层缺乏具备专业指导能力的教研员与校长队伍，Teach 的系统诊断数据仍面临沦为官僚机构档案材料的[[Alienation|异化]]风险。
 
 ---
 

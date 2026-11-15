@@ -8,7 +8,7 @@ aliases:
 summary: "国家或区域性政治联盟在国际地缘对抗与全球价值链断链风险下，通过强化本土关键制造产能、多元化供应链供应来源、管控核心技术流失以及减少对外部单一主导力量的非对称依赖，确保自主制定政策与防范外部经济胁迫的战略能力。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Modern Industrial Policy]]"
   - "[[Import Substitution Industrialisation]]"
+  - "[[Alienation]]"
   - "[[Policy Conditionalities]]"
 related_facts:
   - "[[Research in Schools Evaluation]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-06
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -102,7 +103,7 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题二｜超国家财政能力的匮乏将导致战略自主实践异化为成员国间的内耗性恶性竞争
+> [!concept-proposition] 命题二｜超国家财政能力的匮乏将导致战略自主实践[[Alienation|异化]]为成员国间的内耗性恶性竞争
 > **多层级政体与产业政策财政基石** 探讨多层级政治联盟在推行战略自主时所面临的治理困境，分析缺乏中央集权财政预算如何扭曲政策工具并引发内部失衡。
 
 > [!claim] [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]]

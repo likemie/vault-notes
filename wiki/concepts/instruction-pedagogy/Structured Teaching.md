@@ -7,7 +7,7 @@ aliases:
 summary: "在教学组织与认知支架中强调清晰目标、系统规划、过程监控与师生/人机动态互动平衡的教学范式。既包含基础教育中教师领导与自主学习的有机协调，亦指智能技术整合中防范认知卸载并激活高阶心智的递归探究支架体系。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 52
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -37,7 +37,9 @@ related_concepts:
   - "[[Performance Pay]]"
   - "[[Instructional Coaching]]"
   - "[[Dialogue in Education]]"
+  - "[[Mimesis]]"
   - "[[Lost Mode]]"
+  - "[[Teacher Leadership]]"
   - "[[Feedback]]"
   - "[[Self-Regulated Learning]]"
   - "[[Metacognition]]"
@@ -77,7 +79,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 > [!def] Structured Teaching
@@ -116,7 +118,7 @@ updated: 2026-11-11
 > |---|---|---|---|---|
 > | **分析定位** | 结构支撑与能动交互的动态平衡系统 | 高度程序化、目标分解的显性传授模型 | 强调学生完全自主选择与自我排期的模式 | 以教师权威与单向信息传递为中心的模式 |
 > | **教师角色** | 学习活动的设计者、反思脚手架与[[Dialogue in Education\|对话]]引领者 | 知识示范者、步骤指令发布者与即时纠错者 | 旁观协助者或资源提供者（极少干预） | 知识垄断者与讲台中心的主导讲述者 |
-> | **学生能动性** | 在清晰支架下展开主动探究、反思监控与协作 | 依循示范步骤进行模仿、训练与达标反馈 | 表面高度自主，但认知准备不足者易[[Lost Mode\|迷失]] | 处于被动接受、机械记录与应答位置 |
+> | **学生能动性** | 在清晰支架下展开主动探究、反思监控与协作 | 依循示范步骤进行[[Mimesis\|模仿]]、训练与达标反馈 | 表面高度自主，但认知准备不足者易[[Lost Mode\|迷失]] | 处于被动接受、机械记录与应答位置 |
 > | **核心认知机制** | 释放外在负荷以维持高阶[[Epistemology\|认识论]]摩擦与图式构建 | 通过精细分解步骤降低认知负荷，强化基础技能 | 认知负荷不可控，易引发认知过载或[[Cognitive Offloading\|认知卸载]] | 浅层事实记忆与程序复制，缺乏深层认知冲突 |
 > | **AI 时代的表现** | 递归探究、提示词追踪与批判审订（协同增益） | 算法辅助的分步操练与自动化正误判断 | 依赖 AI 产出终稿，诱发深度认知卸载与侵蚀 | 视 AI 为作弊隐患进行机械性惩罚性封堵 |
 
@@ -124,7 +126,7 @@ updated: 2026-11-11
 
 > [!feature] 结构化教学的核心构件
 > - **清晰目标导向与对齐[[Scaffolding\|认知支架]]（Aligned Cognitive Scaffolds）** 明确短期与长期的认知进阶目标，为分析或生成任务提供分步支架与评价量规，使学生清晰把握学习方向与评价标准。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, p. 592)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 11)]]
-> - **教师清晰领导与反思引导（Teacher Leadership & Reflexive Guidance）** 教师承担课堂流程组织、关键概念解构与高阶推理示范的领导职责，确保学习活动始终聚焦核心学科思想与[[Epistemology\|认识论]]标准。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 590–592)]]
+> - **教师清晰领导与反思引导（[[Teacher Leadership]] & Reflexive Guidance）** 教师承担课堂流程组织、关键概念解构与高阶推理示范的领导职责，确保学习活动始终聚焦核心学科思想与[[Epistemology\|认识论]]标准。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 590–592)]]
 > - **递归探究任务循环（Recursive Inquiry Cycles）** 设计“人脑构想 $	o$ 工具/AI 发散扩展 $	o$ 批判性事实核查 $	o$ 迭代重构 $	o$ 综合辩护”的结构化任务流程，避免单向交差。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 12)]]
 > - **多源反馈与理解监控（Multi-Source [[Feedback]] & Comprehension Monitoring）** 整合智能系统的形成性评语、教师专业点拨、同伴深度质询与自我认知校准，构建四维一体的反馈生态网络。
 > - **动态支架渐退与自我调节赋权（Dynamic Fading & [[Self-Regulated Learning\|SRL]] Empowerment）** 结构的强弱与介入深度随学生的先验知识储备、[[Metacognition\|元认知]]成熟度及技术素养动态调整，由强支架逐步过渡到学生独立自我调节学习。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, p. 595)]]

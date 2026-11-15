@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 38
+fact_related_count: 39
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Classroom Management]]"
   - "[[Practice-Based Evidence]]"
   - "[[Professional Judgment]]"
+  - "[[Alienation]]"
   - "[[Causality]]"
   - "[[Positivism]]"
   - "[[External Validity]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-10-26
+updated: 2026-11-15
 ---
 
 ---
@@ -129,7 +130,7 @@ updated: 2026-10-26
 
 > [!finding-cards] [[Paradigm\|范式]]贡献与专业赋权
 > - **引领国际[[Knowledge Mobilisation\|知识动员]]由“推送”走向“对话”** 早在全系统生态模型流行前，便率先倡导研究者与一线教师在平等学习对话（Dialogue）中共建知识。
-> - **捍卫教师[[Professional Judgment\|专业判断]]（Professional Judgment）** 强调研究证据必须与教师的临床专业判断相结合，避免证据被异化为新自由主义数字问责的考核标尺。
+> - **捍卫教师[[Professional Judgment\|专业判断]]（Professional Judgment）** 强调研究证据必须与教师的临床专业判断相结合，避免证据被[[Alienation|异化]]为新自由主义数字问责的考核标尺。
 
 > [!stat-cards]- 标志性数据与存续特征
 > - **1997** 创立年份，至今持续活跃运营超过 25 年，体现了独立咨询型中介的强大市场生存韧性

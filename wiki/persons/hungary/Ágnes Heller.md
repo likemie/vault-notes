@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: hungary
 person_region: "hungary"
-person_related_count: 7
+person_related_count: 8
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -25,6 +25,7 @@ tags:
   - theme/critical-theory
 related_concepts:
   - "[[Buen Vivir]]"
+  - "[[Alienation]]"
   - "[[The Sublime]]"
   - "[[The Right and the Good]]"
   - "[[Hard Belief]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -69,7 +70,7 @@ updated: 2026-11-14
 ---
 
 > [!work-line] 主要著作
-> - **1970 — *Everyday Life*** 探讨日常生活作为人类生存、异化与伦理实践的基本维度。
+> - **1970 — *Everyday Life*** 探讨日常生活作为人类生存、[[Alienation|异化]]与伦理实践的基本维度。
 > - **1987 — *Beyond Justice*** 深入批判纯粹程序性正义的局限，论述道德卓越与[[Buen Vivir|美好生活]]在人类文明中的本体地位。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 80)]]
 > - **1990 — *A Philosophy of Morals*** 系统构建其以“正直之人”（Decent Person）为核心的道德哲学体系。
 

@@ -7,7 +7,7 @@ aliases:
 summary: "指知识在主体、组织或地缘权力关系中流动、传递与挪用的多义概念，横跨知识地缘政治、产学合作与循证知识动员三大理论脉络。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Technology Transfer Office]]"
   - "[[Decodification]]"
   - "[[Professional Judgment]]"
+  - "[[Alienation]]"
   - "[[Evidence-Based Education]]"
   - "[[Praxis]]"
   - "[[Epistemology]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-10'
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -174,7 +175,7 @@ updated: 2026-11-11
 > **[[Knowledge Mobilisation|知识动员]]代际演进中的定位** 阐明第一代线性传递模型在克服行动者矮化局限的同时，其信息加工与通信基建为高级系统生态提供不可替代的底线支撑。
 
 > [!claim] Lavis et al. (2003) / [[Argument_Torres_2022_KMModels|Torres (2022b)]]
-> **流水线局限与底层可及性基石** 传统知识转移假定知识是去情境化的货品，误以为只要经由中介包装顺畅交付，实践端便会自然采纳，这一假设遮蔽了实践者的决策情境与[[Professional Judgment|专业判断]]。然而，Lavis 等人通过“五问战略框架”确立的受众差异化画像、综合信息提炼、可信传递者遴选与通信基础设施，在第三代复杂生态学模型兴起后依然发挥作用，持续构成全系统知识动员赖以运转的物理底层与底线可及性保障。[[Argument_Torres_2022_KMModels|(Torres, 2022b, pp. 35–38)]]
+> **流水线局限与底层可及性基石** 传统知识转移假定知识是去情境化的货品，误以为只要经由中介包装顺畅交付，实践端便会自然采纳，这一假设遮蔽了实践者的决策情境与[[Professional Judgment|专业判断]]。然而，Lavis 等人通过“五问战略框架”确立的受众差[[Alienation|异化]]画像、综合信息提炼、可信传递者遴选与通信基础设施，在第三代复杂生态学模型兴起后依然发挥作用，持续构成全系统知识动员赖以运转的物理底层与底线可及性保障。[[Argument_Torres_2022_KMModels|(Torres, 2022b, pp. 35–38)]]
 
 ---
 

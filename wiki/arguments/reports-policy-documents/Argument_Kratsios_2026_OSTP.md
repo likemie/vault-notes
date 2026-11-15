@@ -58,6 +58,7 @@ related_concepts:
   - "[[Cumulative Innovation]]"
   - "[[Grandes Ecoles]]"
   - "[[Scientific Autarky]]"
+  - "[[Alienation]]"
   - "[[Center of Calculation]]"
   - "[[Decodification]]"
   - "[[Golden Ticket Mechanism]]"
@@ -149,16 +150,16 @@ sources:
 part_of:
 status: active
 created: 2026-10-07
-updated: 2026-11-11
+updated: 2026-11-15
 subtype: report
 publication_type: report
 title: "Argument_Kratsios_2026_OSTP"
 argument_key: "Argument_Kratsios_2026_OSTP"
 argument_display_title: "Science: A new golden age (Report to the President)"
 argument_kind: "report"
-argument_related_count: 119
-argument_related_level: 11
-argument_related_stars: "💎💎💎⭐⭐"
+argument_related_count: 120
+argument_related_level: 12
+argument_related_stars: "💎💎💎💎"
 argument_related_color: "#fecdd3"
 journal: ""
 book_title: ""
@@ -421,7 +422,7 @@ issuing_organization: "[[Office of Science and Technology Policy]]"
 > [!case] 阿尔茨海默病争议论文撤稿与疫情期学校关闭共识反思
 > 2009 年发表于顶级期刊的一篇阿尔茨海默病里程碑论文，在 2012 年即被制药企业证实无法复现并终止相关管线，但该论文仍在学界积累了逾 800 次引用，将联邦科研预算误导长达十余年之久，直至第一作者辞任[[Grandes Ecoles|大学校]]长后方于发表 15 年后撤稿。类似地，新冠疫情期间关于学校全面关闭的官方科学共识压制了知情学者的理性异议，忽视了儿童低传播风险与隔离带来的巨大社会代价。科学能够告知决策，但不能以未经检验的封闭共识代替透明的民主权衡（pp. 18–19）。
 
-> [!sub-claim] 7. [[Scientific Autarky|科学自主]]原则被异化为回避公共问责的制度屏障
+> [!sub-claim] 7. [[Scientific Autarky|科学自主]]原则被[[Alienation|异化]]为回避公共问责的制度屏障
 
 布什所倡导的科研自主，本质上是确保科学家在微观[[Experimental Research|实验设计]]与探索路径上免受政治干预，但宏观层面的战略优先序与资源配置必须对国家民主问责体系负责。
 

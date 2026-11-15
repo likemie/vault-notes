@@ -7,7 +7,7 @@ aliases:
 summary: "Tyler（1949）提出的课程开发四问框架，是现代主义、实证主义课程观的经典表达，将课程视为受控、有序、预定和可预测的过程。"
 type: concept
 domain: "curriculum"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Theory of Knowledge]]"
   - "[[Emergence]]"
+  - "[[Alienation]]"
   - "[[Cultural Capital]]"
   - "[[Constructivist Paradigm]]"
   - "[[Champ]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 > [!def] Tyler Rationale
@@ -67,7 +68,7 @@ updated: 2026-10-22
 ---
 
 > [!claim] 命题一：Tyler 原理是技术兴趣的课程表达
-> Tyler 原理与[[Jürgen Habermas\|哈贝马斯]]的技术兴趣（预测与控制）共振：将课程呈现为需要"交付"给被动接受者的商品，课程只是消费者社会中另一种商品，其中差异化的[[Cultural Capital\|文化资本]]不可避免。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|(Cohen et al., 2011, pp. 141–142)]]
+> Tyler 原理与[[Jürgen Habermas\|哈贝马斯]]的技术兴趣（预测与控制）共振：将课程呈现为需要"交付"给被动接受者的商品，课程只是消费者社会中另一种商品，其中差[[Alienation|异化]]的[[Cultural Capital\|文化资本]]不可避免。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|(Cohen et al., 2011, pp. 141–142)]]
 
 > [!claim] 命题二：Tyler 原理代表了封闭的课程系统
 > Doll（1993）批评 Tyler 原理代表了一个封闭的规划和实践系统，与教育的开放过程本质、后现代社会的开放与多样、以及[[Constructivist Paradigm\|建构主义]]心理学的进展这三者根本冲突。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|(Cohen et al., 2011, p. 133)]]

@@ -6,10 +6,10 @@ aliases:
 summary: "将社会政治不满重新框定为个体心理调适问题的治理策略，通过课程去政治化、课外感恩教育和个体化归因三条路径运作"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - psychologisation
   - youth-governance
@@ -19,6 +19,7 @@ tags:
   - region/china
 related_concepts:
   - "[[Discourse]]"
+  - "[[Alienation]]"
   - "[[Social-Emotional Learning]]"
   - "[[Progressive Education]]"
   - "[[Patriotic Education]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -49,7 +50,7 @@ updated: 2026-11-03
 > - **概念边界** 心理化不仅是心理学知识的普及，更是将心理学词汇作为行政控制和去政治化稳压器的制度性实践。
 
 > [!citation-card] 关键表述
-> 官方论述将青年的异化矮化为个人心理偏差问题。由于对现有秩序的批判已被定性为国安红线，对公众不满的解释只能诉诸个人或私人的适应不良（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.154]]）。
+> 官方论述将青年的[[Alienation|异化]]矮化为个人心理偏差问题。由于对现有秩序的批判已被定性为国安红线，对公众不满的解释只能诉诸个人或私人的适应不良（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.154]]）。
 >
 > *“Official discourse meanwhile reduces youth alienation to a matter of individual psychological deviance. With critique of the established order now outlawed as treasonous, explanations for public discontent must be sought at the level of private or individual maladaptation.”*
 

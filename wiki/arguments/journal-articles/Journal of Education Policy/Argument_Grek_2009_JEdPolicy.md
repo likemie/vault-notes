@@ -9,7 +9,7 @@ title: "Argument_Grek_2009_JEdPolicy"
 argument_key: "Argument_Grek_2009_JEdPolicy"
 argument_display_title: "Governing by numbers: the PISA 'effect' in Europe"
 argument_kind: "journal-article"
-argument_related_count: 77
+argument_related_count: 78
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -29,6 +29,7 @@ tags:
   - theme/educational-governance
   - region/europe
 related_concepts:
+  - "[[Alienation]]"
   - "[[European Education Space]]"
   - "[[Commensuration]]"
   - "[[Space of Equivalence]]"
@@ -115,13 +116,13 @@ related_arguments: []
 sources:
   - "[[sources/Grek_2009_JEdPolicy|Grek_2009_JEdPolicy]]"
 created: 2026-10-21
-updated: 2026-11-14
+updated: 2026-11-15
 status: draft
 ---
 ---
 
 > [!question]
-> 缺乏法定教育管辖权与直接财政制约手段的[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD），如何依托[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）的大规模量化指标生产确立全球教育政策议程的主导权？这种以数字为媒介的技术治理如何差异化地重塑欧洲主权国家的国内教育政策，并与[[EU|欧洲联盟]]（European Union, EU）协同形塑超国家的[[European Education Space|欧洲教育空间]]？
+> 缺乏法定教育管辖权与直接财政制约手段的[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD），如何依托[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）的大规模量化指标生产确立全球教育政策议程的主导权？这种以数字为媒介的技术治理如何差[[Alienation|异化]]地重塑欧洲主权国家的国内教育政策，并与[[EU|欧洲联盟]]（European Union, EU）协同形塑超国家的[[European Education Space|欧洲教育空间]]？
 
 > [!claim] 核心主张
 > PISA 作为一种新型政治技术，通过生产去情境化、跨国可[[Commensuration|通约]]的指标与排名，构建起独立于主权行政边界的[[Space of Equivalence|等值空间]]，形成深远的 PISA 效应；它一方面充当各成员国对内推行争议性改革和对外宣示现代化的策略性 外在化 借用资源，另一方面成为[[European Commission|欧盟委员会]]在不扩大法律职权前提下依循[[Governing by Numbers|数字治理]]协调欧洲教育空间的核心机制。

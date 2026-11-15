@@ -6,7 +6,7 @@ aliases:
 summary: "教育实践、供给、研究和政策被市场逻辑、投资关系和商业组织深度渗透所形成的跨国产业场域"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[Value Neutrality]]"
   - "[[Knowledge Production]]"
+  - "[[Alienation]]"
   - "[[Blended Learning]]"
   - "[[New Public Management]]"
   - "[[Corporate University]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -167,7 +168,7 @@ updated: 2026-11-11
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **全球教育治理与国家课程吸纳** | GEI 借助话语生产和国际组织软治理，将地方整体性教育改革矮化并重构为工具化技能清单 | 国家课程标准改革、国际比较评估（如 [[PISA]]）对国家政策的塑造 | [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]]; [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024)]] |
-> | **教育科技与数字教学算法异化** | 专有 EdTech 产品凭借利润、正义和专业发展的多重驱动，确立平台技术垄断并植入商业假设 | [[Blended Learning\|混合式教学]]、个性化学习软件应用、教育科技跨国推广 | [[Argument_Amos_2022_Springer\|Amos (2022)]]; [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz and Klinge (2022)]] |
+> | **教育科技与数字教学算法[[Alienation\|异化]]** | 专有 EdTech 产品凭借利润、正义和专业发展的多重驱动，确立平台技术垄断并植入商业假设 | [[Blended Learning\|混合式教学]]、个性化学习软件应用、教育科技跨国推广 | [[Argument_Amos_2022_Springer\|Amos (2022)]]; [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz and Klinge (2022)]] |
 
 ---
 

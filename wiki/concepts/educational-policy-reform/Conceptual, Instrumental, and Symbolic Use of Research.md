@@ -11,7 +11,7 @@ aliases:
 summary: "对研究利用方式的经典三分类：概念性使用指研究以间接方式影响理解与思考，工具性使用指研究直接用于具体决策，象征性使用指研究被事后用来为已定决策背书"
 type: concept
 domain: "educational-policy-reform"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Development Education]]"
   - "[[Research Tool]]"
+  - "[[Alienation]]"
   - "[[Performativity]]"
   - "[[Variable]]"
 related_theories:
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -200,7 +201,7 @@ updated: 2026-11-11
 > | **学校中的分布** | 象征与工具性使用为主，深思熟虑参与罕见 | 学校研究使用的实证描述 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
 > | **成果分类应用** | 类型学扩展为长期成果分类 | 研究影响测量 | [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] |
 > | **组织流程流转** | 三种使用随政策流程动态演化，定稿重写驱动向象征性合法化滑移 | 政策机构决策、督导标准研制与审计报告生产 | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] |
-> | **仪式化异化命题** | 象征性利用沦为合规仪式，拉大政策执行鸿沟并侵蚀研究信任 | 跨国援助借贷、机构声誉审计与官僚文书生产 | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] |
+> | **仪式化[[Alienation\|异化]]命题** | 象征性利用沦为合规仪式，拉大政策执行鸿沟并侵蚀研究信任 | 跨国援助借贷、机构声誉审计与官僚文书生产 | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] |
 
 ---
 

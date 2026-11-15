@@ -32,6 +32,7 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Paradigm]]"
   - "[[Justificatory Standards]]"
+  - "[[Alienation]]"
   - "[[Evaluation Research]]"
   - "[[Trust Calibration]]"
   - "[[Critical Thinking]]"
@@ -60,14 +61,14 @@ sources:
   - "[[sources/Chinn_2011_EducPsychol|Chinn_2011_EducPsychol]]"
 status: draft
 created: 2026-08-17
-updated: 2026-10-29
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Chinn_2011_EducPsychol"
 argument_key: "Argument_Chinn_2011_EducPsychol"
 argument_display_title: "Expanding the dimensions of epistemic cognition: Arguments from philosophy and psychology"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -171,7 +172,7 @@ issuing_organization: ""
 ---
 
 > [!claim|step] 论证步骤三 为证词正名与[[Justificatory Standards|确证标准]]的细化
-> 将诉诸权威视为低级信念是错误的。权威应当被去污名化并概念化为证词（testimony），同时[[Justificatory Standards\|确证标准]]必须实现情境特异化。
+> 将诉诸权威视为低级信念是错误的。权威应当被去污名化并概念化为证词（testimony），同时[[Justificatory Standards\|确证标准]]必须实现情境特[[Alienation|异化]]。
 
 > [!warrant]- 哲学辩护（概念合法性）
 > 将依赖权威视为低级信念的预设，在当代社会认识论（social epistemology）中遭到强烈反驳。

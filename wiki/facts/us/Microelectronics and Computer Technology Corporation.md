@@ -25,6 +25,7 @@ tags:
   - theme/semiconductor
 related_concepts:
   - "[[Meta-Representational Competence]]"
+  - "[[Alienation]]"
   - "[[Technology Transfer]]"
   - "[[Heterogeneity]]"
   - "[[Competitiveness]]"
@@ -35,7 +36,6 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Jack Douglas]]"
   - "[[David C. Mowery]]"
 related_facts:
   - "[[Ministry of International Trade and Industry]]"
@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -89,10 +89,10 @@ updated: 2026-10-22
 > [!finding-cards] 核心产品与业务矩阵
 > - **先进封装与互连技术（Packaging/Interconnect）** 成功开发多芯片组件（MCM）与倒装芯片（Flip-chip）封装测试规范，被广泛采用于高端服务器与国防硬件。
 > - **超大规模集成电路 CAD 工具套件** 研发跨厂商的芯片自动化设计与电路仿真算法，为后来商用 EDA 软件奠定了算法基础。
-> - **人工智能与常识知识库工程（Cyc Project）** 由[[Jack Douglas|道格拉斯]]·莱纳特（Douglas Lenat）在 MCC 内部主导创立的宏大常识推理知识库（Cyc），成为早期人工智能符号主义工程的代表性旗舰。
+> - **人工智能与常识知识库工程（Cyc Project）** 由道格拉斯·莱纳特（Douglas Lenat）在 MCC 内部主导创立的宏大常识推理知识库（Cyc），成为早期人工智能符号主义工程的代表性旗舰。
 > - **软件工程与分布式计算技术** 开发先进面向对象软件开发环境与数据库集成接口，支撑成员企业的大型系统集成。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 726)]]
 
-> [!citation-card] MCC 私营联盟模式的组织异化
+> [!citation-card] MCC 私营联盟模式的组织[[Alienation|异化]]
 > MCC 的历史生动展示了纯私营联盟在治理上的演化张力。由于缺乏政府长期匹配资金与强制约束，随着会员规模扩大，MCC 的研究议程被迫从长周期的共性基础突破迅速转向规模更小、周期更短的合同服务项目，最终削弱了其最初设立的战略雄心。
 >
 > *Since its foundation, MCC has shifted its research agenda from long-term, high-risk generic technologies toward smaller-scale, shorter-term contract research to satisfy expanding and heterogeneous member demands... illustrating the severe organizational challenges facing purely privately funded high-technology consortia.* [[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–728, 752)]]

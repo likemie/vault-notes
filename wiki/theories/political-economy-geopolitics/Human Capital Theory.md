@@ -49,7 +49,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Educational Decentralization]]"
   - "[[Learning by Doing]]"
-  - "[[Refined Mastery]]"
   - "[[Cold War University]]"
   - "[[Early-Career Researchers]]"
   - "[[Technology Transfer]]"
@@ -76,6 +75,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Soft Power]]"
   - "[[Deliberative Space]]"
+  - "[[Alienation]]"
   - "[[Scientific Paradigm]]"
 related_theories:
   - "[[New Growth Theory]]"
@@ -134,7 +134,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -224,7 +224,7 @@ updated: 2026-11-11
 > 高技术产业（半导体与计算机）的核心能力不仅取决于一般性正规学校教育，更依赖于在大规模复杂系统工程（如载人航天、实时计算综合体）中通过[[Learning by Doing|干中学]]积累的高级系统架构与项目管理专门工程人力资本（[[Argument_Schnee_1978_RP|Schnee, 1978, pp. 17–20]]）。这种专门工程人力资本的社会生产力释放取决于其组织流动网络的制度设计——包括反垄断规制促成的专利交叉许可与离职创业宽容文化，以及大型制造企业内部从重大特种工程向商业通用产品线的跨部门经验平移机制。
 
 > [!example|notitle]
-> 美国阿波罗登月工程与国防雷达系统为全美培育了数千名[[Refined Mastery|精通]]复杂微电子与实时软件架构的系统工程师，这批人才后续通过[[Fairchild Semiconductor|仙童半导体]]等衍生企业网络与 IBM 跨部门调配，直接支撑了硅谷民用半导体与商用计算机产业的全球主导地位。
+> 美国阿波罗登月工程与国防雷达系统为全美培育了数千名精通复杂微电子与实时软件架构的系统工程师，这批人才后续通过[[Fairchild Semiconductor|仙童半导体]]等衍生企业网络与 IBM 跨部门调配，直接支撑了硅谷民用半导体与商用计算机产业的全球主导地位。
 
 > [!theory-proposition] 命题六｜[[Cold War University|冷战大学]]科研资助通过研究生流动构筑新兴产业的实体人力资本转移载体
 > 战后美国联邦机构对[[Cold War University|冷战大学]]（如麻省理工学院、斯坦福大学、伯克利分校）的计算机与工程研究进行了长达数十年的基础研究注资（[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]]）。新兴信息技术领域知识具有高度默会性与未定型性，大学与产业间最高效的知识扩散载体直接参与前沿攻关的研究生与博士后。联邦科研预算实质上发挥了跨期人力资本孵化功能，在学术前沿培育了第一代掌握核心软件与芯片工艺的高阶工程师；受训[[Early-Career Researchers|青年学者]]的实体跨界流动构成了美国信息技术向民用市场扩散的最关键机制。
@@ -335,7 +335,7 @@ updated: 2026-11-11
 > > [!axis] 国家重大科技工程对科技人力资源的孵化溢出 vs. 结构性挤出与供给失衡
 > > 围绕国家级空间与国防公共大项目究竟是培育了全社会的工程人才库，还是造成了全国科技人力资源的结构性失衡展开争论。
 > >
-> > - **人力资本溢出学派（[[Argument_Schnee_1978_RP|Schnee, 1978]]）** 强调国家重大战略工程为全美培育了数以千计[[Refined Mastery|精通]]复杂实时系统的系统架构师与工程项目经理，通过企业间创业衍生与内部跨界调配极大提升了全社会的工程能力。
+> > - **人力资本溢出学派（[[Argument_Schnee_1978_RP|Schnee, 1978]]）** 强调国家重大战略工程为全美培育了数以千计精通复杂实时系统的系统架构师与工程项目经理，通过企业间创业衍生与内部跨界调配极大提升了全社会的工程能力。
 > > - **结构扭曲与资源挤出批评** 批评者指出，空间与国防项目的急剧扩张在特定工程与自然科学领域形成了对优质人力资本的过度虹吸，推高了科研人员薪资成本，对民用基础工业的技术人才供给产生了结构性挤出效应。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 20)]]
 >
 > > [!axis] 新自由主义公私双重[[Return on Investment|投资回报]] vs 民主公民权与教育[[Public Value|公共价值]]
@@ -374,7 +374,7 @@ updated: 2026-11-11
 > *It is simply a matter of regarding human beings not as instruments, means to the attainment of economic objectives, but as ends in themselves, the economic objectives being subordinated to their self-fulfilment and well-being.*
 
 > [!critique] 外部批评
-> - **过度学校化与异化** [[Torsten Husén|托斯滕·胡森]]（Husén, 1982）等学者指出，将教育简化为人力资本积累导致全社会陷入非理性的学校竞赛，加剧青年人的心理异化，并未消解阶级特权。
+> - **过度学校化与[[Alienation|异化]]** [[Torsten Husén|托斯滕·胡森]]（Husén, 1982）等学者指出，将教育简化为人力资本积累导致全社会陷入非理性的学校竞赛，加剧青年人的心理异化，并未消解阶级特权。
 > - **全球教育的经合组织化** [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] 揭示经合组织依托 PISA 将人力资本范式转译为量化硬事实，在缺乏法定强制力下确立认知权威并行使跨国软治理，导致全球教育政策陷入单向度的“经合组织化”（OECD-fication）。
 
 ---

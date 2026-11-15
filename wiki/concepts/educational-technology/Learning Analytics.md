@@ -8,7 +8,7 @@ aliases:
 summary: "通过收集、测量、分析和报告学习者及其环境的数字痕迹以理解和优化学习的技术与治理实践；既赋能个性化自适应与纵向学习增益测查，也在先发制人治理、算法主体性规训与构念简化上面临深刻伦理挑战。"
 type: concept
 domain: "educational-technology"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Bildung]]"
   - "[[Document]]"
+  - "[[Alienation]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Variable]]"
   - "[[Open-Mindedness]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-08
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -151,7 +152,7 @@ updated: 2026-11-03
 > | **数据化生产性** | 行为数据表征重构教学角色，创造具有等级划分效力的价值秩序 | 在线学习平台、教师专业发展、EdTech 产业 | [[Argument_Amos_2022_Springer\|Amos (2022)]]; [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022, p. 225)]] |
 > | **学习增益测查** | 结合机考与量规实现跨阶段追踪，成为高教增值评价核心工具 | 高教质量保障、纵向评估项目（HEFCE/TECO） | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, p. 17)]] |
 > | **先发制人规训** | 通过数字自我与最优对标实施早期干预，重塑标准化主体性 | 入学在线自测（OSA）、学业预警系统 | [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022, p. 226)]] |
-> | **视觉符号异化** | 仪表盘警示色与游戏代币诱发条件反射，以行为顺从替代深度教化 | 自适应平台界面（Antolin/bettermarks）、教育游戏化 | [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz and Klinge (2022)]] |
+> | **视觉符号[[Alienation\|异化]]** | 仪表盘警示色与游戏代币诱发条件反射，以行为顺从替代深度教化 | 自适应平台界面（Antolin/bettermarks）、教育游戏化 | [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz and Klinge (2022)]] |
 
 ---
 

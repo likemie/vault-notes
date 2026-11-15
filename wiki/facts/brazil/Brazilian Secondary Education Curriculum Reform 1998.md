@@ -14,7 +14,7 @@ subtype: policy
 region: brazil
 fact_region: "brazil"
 fact_kind: "policy"
-fact_related_count: 31
+fact_related_count: 32
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Recontextualization]]"
   - "[[Shape-Shifting]]"
+  - "[[Alienation]]"
   - "[[Educational Decentralization]]"
   - "[[School Autonomy]]"
   - "[[Document]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -197,7 +198,7 @@ updated: 2026-11-02
 > | [[Encyclopaedic Definition of Knowledge]] | 概念 | 巴西高中课程长期承袭的历史知识传统，改革在修辞上批判但在细则中全盘保留其 14 门学科结构。 |
 > | [[Floating Signifier]] | 概念 | 能力发展与跨学科被巴西国家作为语义开放的漂浮能指，用于在多方利益间调和平衡。 |
 > | [[Governance by Spin]] | 概念 | 巴西教育部在三大领域与 14 门学科并存中运用的舆论操控机制，面向不同群体展示不同侧面。 |
-> | [[Beech's Model of Discourse Circulation]] | 理论 | 巴西课程与师训案例构成了比奇五位置流通模型中“国家位置”与“微观机构位置”转译异化的核心实证基石。 |
+> | [[Beech's Model of Discourse Circulation]] | 理论 | 巴西课程与师训案例构成了比奇五位置流通模型中“国家位置”与“微观机构位置”转译[[Alienation\|异化]]的核心实证基石。 |
 > | [[Recontextualization]] | 概念 | 刻画全球普遍处方在进入巴西国家政策与微观高中时经历的双重再情境化改造与实践脱节。 |
 > | [[Shape-Shifting]] | 概念 | 理论化外来教育方案在跨越国界后必然遭遇形态变异、功能重组与意外瘫痪的客观规律。 |
 > | [[Educational Decentralization]] | 概念 | 国际机构五大支柱模型的核心组成，在巴西与课程自主权共同推行但诱发基层行政脱节。 |

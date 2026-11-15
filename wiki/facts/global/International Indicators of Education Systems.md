@@ -16,7 +16,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 43
+fact_related_count: 44
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Performativity]]"
   - "[[Reflexivity]]"
   - "[[Comparative Turn in Education Policy]]"
+  - "[[Alienation]]"
   - "[[Knowledge Production]]"
   - "[[Ecological Fallacy]]"
   - "[[Performance Pay]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -166,7 +167,7 @@ updated: 2026-11-11
 
 > [!debates] 核心争议
 >
-> > [!axis] 科学家失权与行政化异化
+> > [!axis] 科学家失权与行政化[[Alienation|异化]]
 > > 项目奠基人 Bottani 在卸任后发表多篇深度反思，痛陈指标研发控制权的沦丧。
 > >
 > > - **[[Norberto Bottani]] 批判反思** 尖锐指出：INES 在 1990 年代后期迅速由“科学家与决策者的智慧对话平台”演变为闭门造车的官僚行政机器；2000 年东京大会标志着民间独立学者被彻底放逐，跨国机构垄断了[[Knowledge Production|知识生产]]解释权。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 17–18)]]

@@ -12,7 +12,7 @@ aliases:
 summary: "基于特定地理区位的跨部门创新联合体，将区域内大学、领军企业、初创公司、投资者与政府组织起来围绕共同战略愿景进行大规模协同投资；从早期大学研究园区与“密度就是命运”的关系网络，演进为整合开放大科学设施、中试平台、技能学徒制与区域先进制造集群的国家产业韧性引擎。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[University-Industry Co-location]]"
   - "[[Technology Readiness Level]]"
   - "[[Valley of Death]]"
+  - "[[Alienation]]"
   - "[[University-Industry Collaboration]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Research Translation]]"
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-28'
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -149,7 +150,7 @@ updated: 2026-11-11
 > **开放国家级中试试验场维系产业公地** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios）论证，脱离实体制造与工程工艺无法维持真正的技术领导力；创新中心必须依托开放国家实验室用户设施、共享微纳加工洁净室与区域供应商网络，在物理现场积累工艺知识，消除早期硬科技企业在硬件打样上面临的“死亡之谷”。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 40–41, 54–55)]]
 
 > [!claim] Hoffman, R. et al.
-> **基于地点的创新中心利益相关者契约整合** 罗伯特·霍夫曼等（Robert Hoffman et al.）指出，创新中心通过建立跨部门治理理事会，将领军企业、前沿高校与区域政府的差异化诉求统一到共同的战略技术路标之下，有效破解了传统单边[[University-Industry Collaboration|产学合作]]短期化与目标发散的弊端。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 112–113)]]
+> **基于地点的创新中心利益相关者契约整合** 罗伯特·霍夫曼等（Robert Hoffman et al.）指出，创新中心通过建立跨部门治理理事会，将领军企业、前沿高校与区域政府的差[[Alienation|异化]]诉求统一到共同的战略技术路标之下，有效破解了传统单边[[University-Industry Collaboration|产学合作]]短期化与目标发散的弊端。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 112–113)]]
 
 ---
 

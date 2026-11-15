@@ -4,7 +4,7 @@ aliases:
 summary: "新公共管理与理性选择理论在教育系统改革中的工具化呈现；依托中央或部门级交付单元、少数聚焦的刚性量化指标、严密的推进时间表与层层问责例会，旨在通过外部目标压力与标准化处方集推动教育系统学业表现的快速突破。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Professional Learning Community]]"
   - "[[Professional Capital]]"
+  - "[[Alienation]]"
   - "[[Variable]]"
   - "[[Transnational Education]]"
   - "[[Literature Review]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-15
 ---
 
 ---
@@ -89,7 +90,7 @@ updated: 2026-11-10
 
 ---
 
-> [!concept-proposition] 命题二｜处方化交付模式对本土历史文化语境的剥离极易引发指标异化与表层达标
+> [!concept-proposition] 命题二｜处方化交付模式对本土历史文化语境的剥离极易引发指标[[Alienation|异化]]与表层达标
 > **去情境化技术移植风险** 揭示将教育简化为流水线式指标交付时面临的教学法异化与可持续性困境。
 
 > [!claim] Barrenechea et al.

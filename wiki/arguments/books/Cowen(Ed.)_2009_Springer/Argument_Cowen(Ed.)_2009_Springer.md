@@ -7,9 +7,9 @@ title: "Argument_Cowen(Ed.)_2009_Springer"
 argument_key: "Argument_Cowen(Ed.)_2009_Springer"
 argument_display_title: "International handbook of comparative education"
 argument_kind: "edited-volume"
-argument_related_count: 129
-argument_related_level: 12
-argument_related_stars: "💎💎💎💎"
+argument_related_count: 130
+argument_related_level: 13
+argument_related_stars: "💎💎💎💎⭐"
 argument_related_color: "#fecdd3"
 authors: []
 editors:
@@ -77,6 +77,7 @@ related_concepts:
   - "[[Intercultural Education]]"
   - "[[State Educational Sovereignty]]"
   - "[[Shadow State]]"
+  - "[[Alienation]]"
   - "[[Time-Space Compression]]"
   - "[[Document]]"
   - "[[Protean Episteme]]"
@@ -172,7 +173,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-09-05
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -248,7 +249,7 @@ updated: 2026-11-14
 >   - Ch. 05 [[Argument_Mattheou_2009_ScientificParadigm]]。Mattheou 系统剖析 20 世纪下半叶[[Scientific Paradigm\|比较教育学科学范式]]的兴衰，辨析芝加哥学派（安德森、福斯特）的恒常制度规律、哥大学派（诺亚、埃克斯坦）的[[Variable\|变量]]函数共变与伦敦学派（霍姆斯）基于[[Critical Dualism\|批判二元论]]的权变社会学法则及预测划界标准，揭示实证量化模式作为战后国家规划合法化工具（alibi）的政治共谋，并阐明其在现实危机、量子不确定性与后现代思潮冲击下向“[[Comparative Educations\|复数比较教育学]]”的多元解体。
 >   - Ch. 06 [[Argument_Olmos_Torres_2009_StateTheories]]。Olmos 与 Torres 运用马克思主义政治经济学与批判政治社会学，解构[[World Society Theory|世界文化理论]]的均质化教育扩张叙事，提出以资本积累与政治合法化为轴心的国家理论，阐发外围资本主义[[Conditioned State Theory\|受限国家]]及[[State Corporatism\|国家法团主义]]下的阶级[[Dual School System|双轨学制]]与[[Compensatory Legitimation\|补偿性合法化]]，并批判新自由主义结构调整下[[World Bank|世界银行]][[Financial-Intellectual Complex\|金融-智识复合体]]对教育公共性与民主公民身份的侵蚀。
 >   - Ch. 07 [[Argument_Mitter_2009_Europe]]。Mitter 以中世纪以来的“多样性与统一性”二分法为核心结构原则，系统绘制欧洲比较教育两百年来的大学教席学术地图与专业学会网络（[[Comparative Education Society in Europe|CESE]] 跨国个人会员制及多元学会竞合），梳理三大理论[[Paradigm|范式]]演化期（文化历史全景、德国社会学[[Positivism|实证主义]]争论、多元竞争），剖析地缘空间拓展（殖民转型、东西欧冷战对峙与跨国经验比较），辨析政策咨询立场的[[Navigation Metaphor in Comparative Education|航海隐喻]]与直接干预光谱，并反思当代国际大规模测评的技术官僚规训、[[Intercultural Education|跨文化教育]]合流与“重返欧洲维度”。
->   - Ch. 08 [[Argument_Arnove_2009_WorldSystems]]。Arnove 系统回顾[[World-Systems Theory|世界体系分析]]（WSA）在比较教育学中的引入与演进，辨析共识取向（迈耶等人的新制度主义[[World Society Theory|世界文化理论]]）与冲突取向（[[Immanuel Wallerstein|沃勒斯坦]]等人的政治现实主义[[World-Systems Theory|世界体系理论]]）在解释教育同形与依附不平等上的[[Epistemology|认识论]]分野；阐明世界体系分析与全球化研究的汇融，揭示跨国金融与贸易机构（世行、[[World Trade Organization|WTO]] / [[GATS and Trade in Education Services|GATS]]）在[[Pluri-Scalar Governance|多标度治理]]中对[[State Educational Sovereignty|国家教育主权]]的重构、非政府组织向[[Shadow State|影子国家]]蜕变的异化风险，并通过多层次[[Comparative Case Study|比较案例研究]]示范了全球与本土互动的“双重视野”，最终提出以[[Time-Space Compression|时空压缩]]和流散空间为载体、联合草根力量抵御新自由主义的自下而上全球化抗争范式。
+>   - Ch. 08 [[Argument_Arnove_2009_WorldSystems]]。Arnove 系统回顾[[World-Systems Theory|世界体系分析]]（WSA）在比较教育学中的引入与演进，辨析共识取向（迈耶等人的新制度主义[[World Society Theory|世界文化理论]]）与冲突取向（[[Immanuel Wallerstein|沃勒斯坦]]等人的政治现实主义[[World-Systems Theory|世界体系理论]]）在解释教育同形与依附不平等上的[[Epistemology|认识论]]分野；阐明世界体系分析与全球化研究的汇融，揭示跨国金融与贸易机构（世行、[[World Trade Organization|WTO]] / [[GATS and Trade in Education Services|GATS]]）在[[Pluri-Scalar Governance|多标度治理]]中对[[State Educational Sovereignty|国家教育主权]]的重构、非政府组织向[[Shadow State|影子国家]]蜕变的[[Alienation|异化]]风险，并通过多层次[[Comparative Case Study|比较案例研究]]示范了全球与本土互动的“双重视野”，最终提出以[[Time-Space Compression|时空压缩]]和流散空间为载体、联合草根力量抵御新自由主义的自下而上全球化抗争范式。
 >   - Ch. 09 [[Argument_Rust_2009_Reflections]]。Rust、Johnstone 与 Allaf 系统梳理学科发端的多重历史锚点，借鉴比较文学平反十九世纪[[Influences Across Cultures|跨文化影响]]实证考察遗产，揭示美德跨大西洋互动中“恶政与良教自然可分”的借用公理；运用 UCLA 大规模期刊[[Document|文献]]计量与作者调查证实 26 种理论并存的“健康[[Pluralism|多元主义]]”；并在批判主流将教育等同于资本主义现代性的基础上，建构涵盖接受、抵制、恢复与强制再生产的[[Typology of Educational Responses to Globalization|全球化教育响应类型学]]，呼吁学科回归人道主义与解放实践。
 >   - Ch. 10 [[Argument_Kazamias_2009_HistoricalReflections]]。Kazamias 系统确立比较教育学作为“[[Protean Episteme|普罗透斯式认识体系]]”的学科本质，梳理从启蒙准科学与行政改良、历史-哲学自由人文主义、战后经验实证主义到批判冲突理论的四重论述代际；借助巴伯（Barber）科学社会学深刻解构将科学狭隘化为单一量化操作的“方法论主义”，并援引拉森（Larsen）等人的旗舰期刊计量数据（历史论文降至不足 5%）实证确证学科面临的“[[Historical Amnesia|历史健忘症]]”危机，最终重申历史学与社会科学理性综合的现代合法性。
 >   - Ch. 20 [[Argument_Garcia_Garrido_2009_SpainEU]]。[[José Luis García Garrido|García Garrido]] 将西班牙教育置于[[EU|欧盟]]多国比较框架，系统梳理从[[Enlightenment|启蒙运动]]、1970 年《[[General Act of Education of 1970|普通教育法]]》到 1990 年《教育体制总组织法》（[[Organic Law on the General Organization of the Education System 1990|LOGSE]]）的亲欧主义与孤立主义历史张力；对比英、美、德、法、意与北欧的权力配置路径，深刻剖析西班牙在短时间内由极度集权滑向狂热分权所导致的“行政肥胖症”与国家教育空间“解体/脱节”（disjoining）危机；并直面初中统一步调[[Comprehensive Education|综合中学制]]滞后延展催生的“学业抗拒者”现象、高中学制过短、[[Academic Inbreeding|学术近亲繁殖]]以及在博洛尼亚对标下的质量平庸，反思[[Plaintive Comparison|诉苦式比较]]与政党频繁废立政策对[[Competitiveness|国家竞争力]]的损耗。

@@ -11,9 +11,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 39
-fact_related_level: 3
-fact_related_stars: "💎"
+fact_related_count: 40
+fact_related_level: 4
+fact_related_stars: "💎⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "[[Office of Science and Technology Policy]]"
 period: 2026年7月21日呈交发布
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Success Criteria]]"
+  - "[[Alienation]]"
   - "[[People, Not Projects]]"
   - "[[Golden Ticket Mechanism]]"
   - "[[Advance Market Commitments]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -97,7 +98,7 @@ updated: 2026-11-11
 
 > [!pathways] 《科学：新的黄金时代》四大政策支柱
 > - **支柱一：重塑以研究者个人为核心的科研资助体制（第二章）**
->   - 破除将首席科学家（PI）异化为文书管理员的行政摩擦，扩大可随人跨校迁移的早期学者奖学金（如 [[National Science Foundation|NSF]] GRFP）；
+>   - 破除将首席科学家（PI）[[Alienation|异化]]为文书管理员的行政摩擦，扩大可随人跨校迁移的早期学者奖学金（如 [[National Science Foundation|NSF]] GRFP）；
 >   - 大规模推广为期 7 年、免于短期汇报的长周期“对人资助”（[[People, Not Projects|People, not projects]]）；
 >   - 引入[[Golden Ticket Mechanism|金券机制]]（Golden Tickets）、48 小时快速资助（[[Fast Grants]]）以及事后买单的技术悬赏与[[Advance Market Commitments|高级市场承诺]]（[[Pull Mechanisms for Innovation|拉动机制]]）；
 >   - 在每个联邦资助机构内设立直属于局长的[[Metascience|元科学]]单元（Metascience Units），依托[[Randomised Controlled Trials|随机对照试验]]检验并迭代资助规则。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 20–32)]]

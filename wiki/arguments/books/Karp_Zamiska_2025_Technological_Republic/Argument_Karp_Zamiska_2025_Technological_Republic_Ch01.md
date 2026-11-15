@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch01"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch01"
 argument_display_title: "Lost valley"
 argument_kind: "book-chapter"
-argument_related_count: 44
+argument_related_count: 46
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Technological Republic]]"
   - "[[Man-Computer Symbiosis]]"
+  - "[[Alienation]]"
   - "[[Hard Power]]"
   - "[[Paradigm]]"
   - "[[Polymath]]"
@@ -42,6 +43,7 @@ related_concepts:
   - "[[The Sublime]]"
   - "[[Intellectual Capital]]"
   - "[[Techno-Utopianism]]"
+  - "[[Genius]]"
   - "[[Other Transaction Authority]]"
   - "[[Artificial General Intelligence]]"
   - "[[Performativity]]"
@@ -85,7 +87,7 @@ sources:
 part_of: "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 status: draft
 created: 2026-10-07
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 ---
 
@@ -102,7 +104,7 @@ updated: 2026-11-14
 >
 >   以二战期间美国科学研究与开发署（[[Office of Scientific Research and Development]], OSRD）的科研动员为分水岭，揭示早期硅谷作为微电子军工重镇的历史事实（[[Fairchild Semiconductor|仙童半导体]]研制侦察卫星设备、海军导弹中枢、利克莱德受空军资助提出[[Man-Computer Symbiosis|人机共生]]）（pp. 3–8）。
 >
-> - **消费主义异化与创新荒漠**
+> - **消费主义[[Alienation|异化]]与创新荒漠**
 >
 >   剖析 1970 年代以来科技界向消费主义与反体制心态的蜕变，以及公共部门研发收缩形成的创新荒漠（pp. 8–11, 13–14）。
 >
@@ -225,7 +227,7 @@ updated: 2026-11-14
 > - **公共部门防卫型官僚程序与准入壁垒** 政府采购合规冗长僵化、极端厌恶政治争议，构筑了极高的准入壁垒，彻底将充满活力的外部初创企业拒之门外，蔓延为大片创新荒漠。（pp. 9–10, 14–15）
 
 > [!tension] 硅谷自治神话与国家安全庇护的二元张力
-> - **自由至上主义与纯市场神话** 硅谷科技界将自身崛起完全归因于不受监管的自由市场与个人天才创新，视国家公权力为迟缓、过时且阻碍进步的外部干预者，推崇超越国界的[[Techno-Utopianism|技术乌托邦]]。（pp. 3–4, 10）
+> - **自由至上主义与纯市场神话** 硅谷科技界将自身崛起完全归因于不受监管的自由市场与个人[[Genius|天才]]创新，视国家公权力为迟缓、过时且阻碍进步的外部干预者，推崇超越国界的[[Techno-Utopianism|技术乌托邦]]。（pp. 3–4, 10）
 > - **安全搭便车与[[Hard Power|硬实力]]依赖现实** 硅谷赖以繁荣的微电子底座、互联网基础设施、知识产权保护与全球商业扩张，本质上始终依附于国家机器所提供的硬实力防御大伞与法治秩序；回避国家安全防卫义务构成了根本性的伦理与战略悖论。（pp. 10–13）
 
 ---

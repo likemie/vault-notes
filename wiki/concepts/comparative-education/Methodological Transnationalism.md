@@ -5,7 +5,7 @@ aliases:
 summary: "Diane Stone (2020) 与 Steiner-Khamsi et al. 倡导的方法论立场，主张超越方法论民族主义与线性层级霸权观，将国家与全球视作相互依存的关系性空间，聚焦全球/国家联结。"
 type: concept
 domain: "comparative-education"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Methodological Globalism]]"
   - "[[Policy Borrowing]]"
   - "[[Policy Mobility]]"
+  - "[[Alienation]]"
   - "[[Policy Brokerage]]"
   - "[[Going Native]]"
   - "[[Space of Flows]]"
@@ -55,7 +56,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -129,7 +130,7 @@ updated: 2026-11-11
 > **[[Transfer Space\|转移空间]]与非线性转译** 探讨[[Policy Borrowing\|政策借用]]在转移空间中如何摆脱机械扩散假定，表现为中介工具打包与行政过滤的双重重构。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]]
-> **转移空间中的非对称转译与组织利基竞争** 政策借用有别于跨越国界的机械平移，也是在“转移空间”（Transfer Space）中发生的复杂转译，有别于全球霸权下均质同质化的被动吸纳。在转移空间内部，国际组织依据自身的组织利基提供差异化打包的政策证据（如[[OECD\|经合组织]]横向国别经验借鉴 vs [[World Bank\|世界银行]]自指性实践仓库）；而输入国的主权行政体系则根据本土政治考量与合法性需求实施激进的阶段性过滤。这一发现颠覆了将全球/国家关系预设为等级制、线性与单向霸权的传统偏见。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 540, 546–548)]]
+> **转移空间中的非对称转译与组织利基竞争** 政策借用有别于跨越国界的机械平移，也是在“转移空间”（Transfer Space）中发生的复杂转译，有别于全球霸权下均质同质化的被动吸纳。在转移空间内部，国际组织依据自身的组织利基提供差[[Alienation|异化]]打包的政策证据（如[[OECD\|经合组织]]横向国别经验借鉴 vs [[World Bank\|世界银行]]自指性实践仓库）；而输入国的主权行政体系则根据本土政治考量与合法性需求实施激进的阶段性过滤。这一发现颠覆了将全球/国家关系预设为等级制、线性与单向霸权的传统偏见。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 540, 546–548)]]
 
 ---
 

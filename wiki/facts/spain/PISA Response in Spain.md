@@ -11,7 +11,7 @@ subtype: event
 region: spain
 fact_region: "spain"
 fact_kind: "event"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -23,6 +23,7 @@ tags:
   - theme/comparative-education
   - theme/pisa
 related_concepts:
+  - "[[Alienation]]"
   - "[[Scientific Literacy]]"
   - "[[Plaintive Comparison]]"
   - "[[Comprehensive Education]]"
@@ -50,13 +51,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
 
 > [!claim] 核心定性
-> 西班牙对[[PISA|国际学生评估项目]]（PISA）的政策应对，构成了跨国测评在分权与极化政治体制中异化为责任推诿与改革僵局的典型案例。不同于德国借实证危机破除改革积压的建构性路径，西班牙在低迷的国际表现面前，陷入了中央与自治区互相甩锅、左右翼政党教条倾轧与推脱专业问责的恶性循环。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 325–331)]]
+> 西班牙对[[PISA|国际学生评估项目]]（PISA）的政策应对，构成了跨国测评在分权与极化政治体制中[[Alienation|异化]]为责任推诿与改革僵局的典型案例。不同于德国借实证危机破除改革积压的建构性路径，西班牙在低迷的国际表现面前，陷入了中央与自治区互相甩锅、左右翼政党教条倾轧与推脱专业问责的恶性循环。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 325–331)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2001 年底首届 PISA 2000 结果公布至 2006 年新教育法颁布，核心辐射西班牙全国 17 个自治区。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 324–325)]]

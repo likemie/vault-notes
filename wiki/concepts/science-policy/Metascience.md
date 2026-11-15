@@ -8,7 +8,7 @@ aliases:
 summary: "将严谨科学方法、实证评估与机制设计工具反身应用于科学事业自身的研究与治理领域；通过对同行评议、资助规则、项目经理自由裁量权及机构组织形态开展对照实验与量化追踪，旨在降低科研行政摩擦、破除平庸共识避险偏好，优化国家科学企业的整体配置效率。"
 type: concept
 domain: "science-policy"
-related_count: 87
+related_count: 88
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Feedback]]"
   - "[[Reproducibility Crisis]]"
+  - "[[Alienation]]"
   - "[[Golden Ticket Mechanism]]"
   - "[[People, Not Projects]]"
   - "[[Pull Mechanisms for Innovation]]"
@@ -114,7 +115,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -139,7 +140,7 @@ updated: 2026-11-11
 ---
 
 > [!feature] 核心要素
-> - **以科学企业运行机制为研究对象** 核心问题聚焦于行政摩擦、激励错位、评价指标异化与组织僵化，而非单一课题的技术细节。
+> - **以科学企业运行机制为研究对象** 核心问题聚焦于行政摩擦、激励错位、评价指标[[Alienation|异化]]与组织僵化，而非单一课题的技术细节。
 > - **实证对照与[[Mechanism Experiments|机制实验]]权（Experimental Authority）** 突破传统仅依赖历史案例回顾的局限，允许资助机构在同行评议中引入部分[[Random Assignment|随机化]]、双盲评审、金券特权与快速资助等机制开展对照实验。
 > - **直属最高决策层的独立建制** 联邦资助机构内的元科学单元必须直接向局长（Agency Head）报告，以排除下属传统业务司局与特定利益选区的游说干扰。
 > - **再资助换实验参与机制（Regranting for Participation）** 赋予元科学单元专项引导资金，通过对等补贴吸引愿意参与新机制试验的项目经理（PM），并将实验实证结果向全球公开发表。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 31–32)]]

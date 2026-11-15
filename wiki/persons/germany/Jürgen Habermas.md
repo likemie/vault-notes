@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 46
+person_related_count: 48
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -30,6 +30,7 @@ tags:
   - theme/political-economy
 related_concepts:
   - "[[Positivism]]"
+  - "[[Alienation]]"
   - "[[Epistemology]]"
   - "[[Ideal Speech Situation]]"
   - "[[Enlightenment]]"
@@ -66,6 +67,7 @@ related_instruments: []
 related_persons:
   - "[[Immanuel Kant]]"
   - "[[Friedrich Wilhelm Joseph Schelling]]"
+  - "[[Max Planck]]"
   - "[[Stephen Kemmis]]"
   - "[[Klaus Nielsen]]"
   - "[[John Hattie]]"
@@ -91,7 +93,7 @@ updated: 2026-11-15
 
 > [!person-profile] 人物档案
 > - **身份位置** [[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas, 1929– ），德国哲学家与社会理论家，法兰克福大学哲学与社会学荣休教授，法兰克福学派（Frankfurt School）第二代的核心领袖，当代[[Critical Theory|批判理论]]的集大成者与战后欧洲公共知识分子的典范。
-> - **核心角色** 连接[[Immanuel Kant|康德]]启蒙理性遗产、法兰克福批判社会理论与现代国家治理反思的关键枢纽；为诊断[[Positivism|实证主义]]霸权、工具理性异化以及现代民主制度的[[Legitimation Crisis|合法化危机]]提供基础性的批判框架。
+> - **核心角色** 连接[[Immanuel Kant|康德]]启蒙理性遗产、法兰克福批判社会理论与现代国家治理反思的关键枢纽；为诊断[[Positivism|实证主义]]霸权、工具理性[[Alienation|异化]]以及现代民主制度的[[Legitimation Crisis|合法化危机]]提供基础性的批判框架。
 > - **代表贡献** 知识构成性兴趣三分法（技术、实践、解放），奠定批判社会科学与[[Emancipatory Action Research|解放性行动研究]]的[[Epistemology|认识论]]根基；交往行动理论与[[Ideal Speech Situation|理想言说情境]]，以无强制的交往理性抵御系统对生活世界的殖民；现代性作为未完成的工程，以及晚期资本主义[[Legitimation Crisis|合法化危机]]的[[Analytic Framework|分析框架]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 8–9, 11)]]
 
 > [!citation-card] 现代性工程与理性公共领域
@@ -107,7 +109,7 @@ updated: 2026-11-15
 > - **1956–1959** 进入法兰克福社会研究所，担任霍克海默（Max Horkheimer）与阿多诺（Theodor W. Adorno）的高级研究助手，吸收早期法兰克福学派的批判理论传统。
 > - **1962** 以《公共领域的结构转型》（*Strukturwandel der Öffentlichkeit*）取得教授资格，考掘资产阶级公共领域的形成机理，并警示资本与大众传媒垄断导致的再封建化（re-feudalization）危机。
 > - **1964–1971** 接替霍克海默出任法兰克福大学哲学与社会学教授；1968 年出版《认识与兴趣》（*Erkenntnis und Interesse*），系统提出三种知识构成性兴趣。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, Ch. 2)]]
-> - **1971–1981** 出任施塔恩贝格马克斯·普朗克科学技术世界生活条件研究所所长；1973 年发表《晚期资本主义的合法化问题》（*Legitimationsprobleme im Spätkapitalismus*）。
+> - **1971–1981** 出任施塔恩贝格[[Max Planck|马克斯·普朗克]]科学技术世界生活条件研究所所长；1973 年发表《晚期资本主义的合法化问题》（*Legitimationsprobleme im Spätkapitalismus*）。
 > - **1980** 获阿多诺奖，发表演讲《现代性——一项未完成的工程》（*Die Moderne: Ein unvollendetes Projekt*），开启与[[Postmodernism|后现代主义]]思潮长达数十年的跨国辩论。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 25)]]
 > - **1983–1994** 重返法兰克福大学任教直至荣休。
 

@@ -2,7 +2,7 @@
 summary: "指现代公共治理中政策议题越是复杂交织与跨领域，政府行政机构越发退守部门壁垒并导致政策制定碎片化、条块分割的制度异化现象；新公共管理的微观合规考核与外包进一步加剧了这一困境，需依托统领性国家使命与多层级公共动态能力予以破解。"
 type: concept
 domain: "science-policy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -13,6 +13,7 @@ tags:
   - complexity
   - policy-coordination
 related_concepts:
+  - "[[Alienation]]"
   - "[[New Public Management]]"
   - "[[Externalization]]"
   - "[[Cognitive Deskilling]]"
@@ -31,7 +32,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-03
+updated: 2026-11-15
 title: Complexity Paradox
 aliases:
   - 复杂性悖论
@@ -43,7 +44,7 @@ aliases:
 ---
 
 > [!def] Complexity Paradox
-> **复杂性悖论（Complexity Paradox / Complexity Paradox of Modern Public Policy）** 是指现代公共治理中所出现的一种结构性制度异化现象：面对日益复杂的全球性重大社会危机（如气候变化、公共健康危机、人口老龄化与绿色数字双转型），政策议题的系统关联度越高、跨领域属性越强，政府内部的行政机构和政策制定机制反而越发倾向于自我封闭、退守部门壁垒并陷入碎片化与条块分割。这一悖论最早由格里·斯威尼（Gerry Sweeney, 1985）明确指出，并由[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）系统引入使命导向政策分析，用以解释为何旨在发挥跨部门宏观协调功能的创新政策往往沦为各部门争夺资源的孤岛式碎片工具。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791)]]
+> **复杂性悖论（Complexity Paradox / Complexity Paradox of Modern Public Policy）** 是指现代公共治理中所出现的一种结构性制度[[Alienation|异化]]现象：面对日益复杂的全球性重大社会危机（如气候变化、公共健康危机、人口老龄化与绿色数字双转型），政策议题的系统关联度越高、跨领域属性越强，政府内部的行政机构和政策制定机制反而越发倾向于自我封闭、退守部门壁垒并陷入碎片化与条块分割。这一悖论最早由格里·斯威尼（Gerry Sweeney, 1985）明确指出，并由[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）系统引入使命导向政策分析，用以解释为何旨在发挥跨部门宏观协调功能的创新政策往往沦为各部门争夺资源的孤岛式碎片工具。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示了客观政策问题的系统复杂性与科层组织主观分割性之间的深层制度张力。

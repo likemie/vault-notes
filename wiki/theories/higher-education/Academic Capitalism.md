@@ -5,10 +5,10 @@ aliases:
 summary: "Slaughter & Leslie (1997) 提出的概念，描述大学日益卷入专利商业化、产学合作和竞争性拨款等市场导向活动，学术生产与资本积累逻辑深度绑定的制度转型过程"
 type: theory
 theory_field: "higher-education"
-theory_related_count: 38
-theory_related_level: 3
-theory_related_stars: "💎"
-theory_related_color: "#ede9fe"
+theory_related_count: 40
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - academic-capitalism
   - political-economy
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Technology Transfer]]"
   - "[[Soft-Money Faculty Model]]"
+  - "[[Alienation]]"
   - "[[Academic Precarity]]"
   - "[[Research Proposal]]"
   - "[[Block Grants]]"
@@ -53,6 +54,7 @@ related_methods:
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Sheila Slaughter]]"
+  - "[[Alexandre de Rhodes]]"
   - "[[Paula Stephan]]"
 related_facts:
   - "[[National Institutes of Health]]"
@@ -63,7 +65,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -80,7 +82,7 @@ updated: 2026-11-11
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** [[Sheila Slaughter|希拉·斯劳特]]与拉里·莱斯利（Sheila Slaughter & Larry Leslie, 1997）在《学术资本主义：政治、政策与[[Entrepreneurial University|创业型大学]]》（*Academic Capitalism: Politics, Policies, and the Entrepreneurial University*）中首次提出，后由斯劳特与罗德斯（Slaughter & Gary Rhoades, 2004）在《学术资本主义与新经济》中系统扩展为涵盖学术资本主义知识体制（academic capitalism knowledge regime）的分析体系。
+> - **提出者与原始文本** [[Sheila Slaughter|希拉·斯劳特]]与拉里·莱斯利（Sheila Slaughter & Larry Leslie, 1997）在《学术资本主义：政治、政策与[[Entrepreneurial University|创业型大学]]》（*Academic Capitalism: Politics, Policies, and the Entrepreneurial University*）中首次提出，后由斯劳特与[[Alexandre de Rhodes|罗德]]斯（Slaughter & Gary Rhoades, 2004）在《学术资本主义与新经济》中系统扩展为涵盖学术资本主义知识体制（academic capitalism knowledge regime）的分析体系。
 > - **原初问题** 面对 1980 年代以来英美等国政府紧缩经常性高教财政拨款，大学与学者为何不仅被动应对，反而主动发起一系列商业化与市场竞争行为。
 > - **理论资源与材料** 吸收了资源[[Dependency Theory|依附理论]]（Resource Dependence Theory）、马克思主义政治经济学积累危机理论以及皮埃尔·布尔迪厄的[[Champ|场域]]与资本理论。
 > - **形成路径** 从追踪美、英、澳、加四国高校教师获取竞争性研究基金、申请专利与提供商业咨询的微观行动出发，提炼出高等教育机构如何从“公共品知识体制”向“学术资本主义知识体制”整体迁移的制度化解释。
@@ -89,7 +91,7 @@ updated: 2026-11-11
 > - **1997 — 原始奠基版本（Slaughter & Leslie）** 聚焦高校面临国家财政削减时的应对策略，界定院校和教师为获取外部竞争性资金而采取的市场和类市场行为。
 > - **2004 — 知识体制扩展（Slaughter & Rhoades）** 从个体行为策略拓展为制度分析，提出“学术资本主义知识体制”，关注大学管理层、中介机构（如[[Technology Transfer|技术转让]]办公室）与外部资本形成的联结网络。
 > - **2013 — 微观经济学与商场模型深化（[[Argument_Stephan_2013_NBER|Stephan, 2013]]）** 科学经济学家[[Paula Stephan|保拉·斯蒂芬]]引入商场模型与[[Soft-Money Faculty Model|软钱教职模式]]，揭示战后美国大学如何反客为主倒逼政府承担薪资与间接成本，以及实验室将研究生作为边际廉价用工的微观组织理性。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–33)]]
-> - **2017 — 福利[[Varieties of Capitalism|资本主义多样性]]整合（Schulze-Cleven et al.）** 结合[[Varieties of Capitalism|资本主义多样性]]（VoC）框架，系统比较自由主义（美）、保守主义（德）与社会民主主义（挪）国家在学术资本主义推进中的差异化[[Path Dependence|路径依赖]]。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 803–804)]]
+> - **2017 — 福利[[Varieties of Capitalism|资本主义多样性]]整合（Schulze-Cleven et al.）** 结合[[Varieties of Capitalism|资本主义多样性]]（VoC）框架，系统比较自由主义（美）、保守主义（德）与社会民主主义（挪）国家在学术资本主义推进中的差[[Alienation|异化]][[Path Dependence|路径依赖]]。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 803–804)]]
 > - **2026 — 学术资本主义危机的系统生态审议与基线资助倡导** [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] 针对全球高教过度竞争与量化锦标赛危机，系统审议了学术资本主义驱动下的四大系统性异化（青年[[Academic Precarity|学术零工化]]、[[Research Proposal|课题申报]]策略性从众、指标化合规博弈与学术造假蔓延），从生态韧性视角倡导扩充基线[[Block Grants|整笔拨款]]以遏止大学市场化异化。
 
 ---

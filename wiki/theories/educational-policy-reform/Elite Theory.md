@@ -8,7 +8,7 @@ aliases:
 summary: "政治学与政策科学核心理论，主张公共政策是由拥有高度同质化利益与价值偏好的少数权力精英自上而下制定；在教育政策中常用于解构国家专家委员会以专业中立为掩护制造排他性科学共识的权力机制。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 27
+theory_related_count: 28
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Whole Language]]"
   - "[[Research Question]]"
   - "[[Problem Finding]]"
+  - "[[Alienation]]"
   - "[[Technical Rationality]]"
   - "[[Epistemology]]"
 related_theories:
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -139,7 +140,7 @@ updated: 2026-11-14
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[Subgovernment Theory]] | 理论 | 并列政策理论，聚焦专委会、官僚与企业构成的具体铁三角寻租同盟。 |
-> | [[Neocorporatism]] | 理论 | 并列政策理论，解释垄断性全国行业组织介入密室协商导致的代表性异化。 |
+> | [[Neocorporatism]] | 理论 | 并列政策理论，解释垄断性全国行业组织介入密室协商导致的代表性[[Alienation\|异化]]。 |
 > | [[Critical Pluralism]] | 理论 | 替代与超越理论，在打破精英垄断的基础上建构平权性的公众多元参与模型。 |
 > | [[National Reading Panel]] | 事实 | 精英理论在教育政策中的标志性案型，展现了国家专家委员会的[[Paradigm\|范式]]排他性。 |
 > | [[Reading Excellence Act]] | 事实 | 由国会权力精英与科研主管推动设立且排斥基层民意的典型联邦教育立法。 |

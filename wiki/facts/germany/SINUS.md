@@ -11,7 +11,7 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 34
+fact_related_count: 35
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Metacognition]]"
+  - "[[Alienation]]"
   - "[[Transfer Science]]"
   - "[[School Autonomy]]"
   - "[[Problem Solving]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -91,7 +92,7 @@ updated: 2026-11-14
 > [!policy-design] 方案设计
 > - **项目目标** 提升中小学数理教学效率与学生[[Higher-Order Thinking Skills|高阶思维]]，培育以问题为导向、接纳错误与注重探究的新型课堂教学文化。
 > - **覆盖对象** 全德文理中学、实科中学与综合中学的数学、物理、化学、生物任课教师与受试学生。
-> - **十一大教学发展模块（Elf Module）** 项目提炼出 11 个具有明确认知心理学与教学论支撑的主题模块，包括：题目文化的重塑（Aufgabenkultur）、以错误为契机的反馈文化（Fehlerkultur）、自主探究与[[Metacognition|元认知]]学习（Selbstbestimmtes Lernen）、跨学科实践与实验探究（Forschendes Lernen）、认知激活与差异化分层教学（Differenzierung）等。各校可根据自身校情灵活选取 2–3 个模块作为阶段攻坚焦点。
+> - **十一大教学发展模块（Elf Module）** 项目提炼出 11 个具有明确认知心理学与教学论支撑的主题模块，包括：题目文化的重塑（Aufgabenkultur）、以错误为契机的反馈文化（Fehlerkultur）、自主探究与[[Metacognition|元认知]]学习（Selbstbestimmtes Lernen）、跨学科实践与实验探究（Forschendes Lernen）、认知激活与差[[Alienation|异化]]分层教学（Differenzierung）等。各校可根据自身校情灵活选取 2–3 个模块作为阶段攻坚焦点。
 > - **跨校教研网络（Schulnetzwerke）** 打破单体学校孤立状态，由地理位置相邻的 2–4 所学校结成基层教研联合体（Set）。每个联合体由学科教研组长和骨干教师组成，定期展开协同备课、互访听课与案例剖析。
 > - **区域协调员与专业支架** 设立区域教研协调员，由各州立研训与质量机构（[[German State Educational Institutes and Quality Agencies|Landesinstitute]]）会同大学学科专家，为协调员提供常态化的理论研修与咨询支架。
 

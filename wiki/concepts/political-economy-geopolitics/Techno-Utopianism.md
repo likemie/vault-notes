@@ -7,7 +7,7 @@ aliases:
 summary: "一种认为前沿科学与数字技术能够自发超越政治冲突、社会层级并解决人类一切生存与治理难题的意识形态信念。在硅谷演进中，它从早期反主流文化的去中心化赋权理想，逐渐异化为回避国家安全责任、退缩至狭隘功利主义与快消消费算法的市场神话。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,8 +22,10 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[Public Value]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Genius]]"
   - "[[Value Neutrality]]"
   - "[[Determinism]]"
+  - "[[Alienation]]"
   - "[[Innovation Desert]]"
   - "[[Intellectual Capital]]"
   - "[[Discourse]]"
@@ -41,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -69,7 +71,7 @@ updated: 2026-11-03
 > | 比较维度 | [[Techno-Utopianism\|技术乌托邦主义]] | 技术[[Pragmatic Paradigm\|实用主义]]（Technological Pragmatism） | [[Technological Republic\|技术共和国范式]] |
 > |:---|:---|:---|:---|
 > | **对国家角色的认知** | 视国家为迟缓阻碍，追求无国界与去中心化自由 | 视国家为偶发的资助者或监管协调者 | 视国家为创新的原初孵化器、战略客户与安全庇护者 |
-> | **技术发展的首要动力** | 纯市场机制与天才工程师的自发构建 | 行业痛点解决与商业应用扩散 | 国家生存、地缘竞争与重大公共危机应对 |
+> | **技术发展的首要动力** | 纯市场机制与[[Genius\|天才]]工程师的自发构建 | 行业痛点解决与商业应用扩散 | 国家生存、地缘竞争与重大公共危机应对 |
 > | **伦理与政治责任** | 回避政治站位，标榜[[Value Neutrality\|价值中立]]与道德超脱 | 遵循法律合规与企业社会责任 | 主动承担捍卫民主政体与公共福祉的正面义务 |
 > | **典型产业流向** | 在线广告、社交媒体、快消应用与加密资产 | 企业级软件、工业自动化与消费电子 | 人工智能算法武器、尖端半导体、国家关键基础设施 |
 
@@ -81,7 +83,7 @@ updated: 2026-11-03
 > - **原子化功利主义** 放弃关于良善生活与共同体理想的根本反思，将用户还原为点击率、日活用户（DAU）与广告转化率等数据原子。
 > - **安全搭便车心态** 在充分享受母国军事大伞与法治保护的同时，对国防研发抱持道德洁癖与优越感。
 
-> [!logic-map]- 技术乌托邦异化路径
+> [!logic-map]- 技术乌托邦[[Alienation|异化]]路径
 > ```mermaid
 > flowchart TD
 >   A["1960s-1970s 反主流文化：<br>技术作为个人赋权与反权威工具"] --> B["1990s 互联网狂热：<br>无国界网络空间与去中心化神话"]

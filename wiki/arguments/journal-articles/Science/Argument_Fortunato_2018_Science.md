@@ -58,6 +58,7 @@ related_concepts:
   - "[[Megascience Installations]]"
   - "[[Scientific Credit]]"
   - "[[Sleeping Beauty in Science]]"
+  - "[[Alienation]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Causality]]"
   - "[[Heterogeneity]]"
@@ -106,14 +107,14 @@ sources:
 part_of:
 status: active
 created: 2026-11-02
-updated: 2026-11-11
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Fortunato_2018_Science"
 argument_key: "Argument_Fortunato_2018_Science"
 argument_display_title: "Science of science"
 argument_kind: "journal-article"
-argument_related_count: 63
+argument_related_count: 64
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -355,7 +356,7 @@ issuing_organization: ""
 
 > [!boundary] 引文时序外推的异常形态与量化评价边界（Ke et al., 2015; Hirsch, 2005）
 > - **[[Sleeping Beauty in Science|睡美人现象]]的滞后觉醒** 少数长期沉寂但在数十年后被发掘的成果（[[Sleeping Beauty in Science]]；van Raan, 2004; Ke et al., 2015）突破了常规三参数模型的预测范围，体现出冷门成果后续被重新激活的非线性动力学。
-> - **$h$ 指数的累积性偏差** $h$ 指数（[[h-Index]]）具有随时间只增不减的机械累积属性，强烈偏向资深学者；在预测中青年学者学术潜力时易产生虚假信号，定量评价必须校正职业年龄并警惕指标异化（Penner et al., 2013）。
+> - **$h$ 指数的累积性偏差** $h$ 指数（[[h-Index]]）具有随时间只增不减的机械累积属性，强烈偏向资深学者；在预测中青年学者学术潜力时易产生虚假信号，定量评价必须校正职业年龄并警惕指标[[Alienation|异化]]（Penner et al., 2013）。
 
 ---
 

@@ -12,7 +12,7 @@ aliases:
 summary: "公共部门（政府机构）与私营部门（营利性企业、非营利组织或高校）之间建立的长期、制度化协作与契约化治理机制。在公共教育治理中，表现为政府将校舍基建（PFI）、地方教育局运营、学校督导、师资培训与教学服务向私营部门与跨国教育集团外包，引发教育外生私有化与商业顾问对公共政策主权的渗透；在战略科技创新中，表现为政府、产业界与研究型大学联合资助前竞争共性技术与战略攻关的多边研发联合体。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Academic Freedom]]"
   - "[[Precompetitive Research]]"
+  - "[[Alienation]]"
   - "[[Innovation Hub]]"
   - "[[Theories of Policy Change]]"
   - "[[International Schools]]"
@@ -89,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-04
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -142,7 +143,7 @@ updated: 2026-11-11
 > **竞合博弈与知识扩散维度** 探讨直接市场竞争企业如何在同一个研发平台上建立长期互信与协同投入，揭示前竞争阶段边界与知识产权安排对消除合作公地悲剧的决定性作用。
 
 > [!claim] [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]]
-> **前竞争约束化解商业泄密与垄断合谋风险** 当研究型 PPP 包含市场上直接竞争的同业企业时，合作之所以不会退化为零和博弈或合谋操纵，核心在于将研发范畴严格限定在前竞争阶段（[[Precompetitive Research|pre-competitive research]]）。前竞争研究专注于解决全行业面临的共性物理极限、底层材料失效模型、开放互操作性标准等外部性问题，不触碰商业产品层面的差异化微架构与私有设计。配套以知识产权的非独占、全球免版税使用许可，既保证了出资企业都能公平汲取底层研究红利，又从法理上消除了反垄断合规隐患。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233–234)]]
+> **前竞争约束化解商业泄密与垄断合谋风险** 当研究型 PPP 包含市场上直接竞争的同业企业时，合作之所以不会退化为零和博弈或合谋操纵，核心在于将研发范畴严格限定在前竞争阶段（[[Precompetitive Research|pre-competitive research]]）。前竞争研究专注于解决全行业面临的共性物理极限、底层材料失效模型、开放互操作性标准等外部性问题，不触碰商业产品层面的差[[Alienation|异化]]微架构与私有设计。配套以知识产权的非独占、全球免版税使用许可，既保证了出资企业都能公平汲取底层研究红利，又从法理上消除了反垄断合规隐患。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233–234)]]
 
 ---
 

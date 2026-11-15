@@ -9,9 +9,9 @@ aliases:
 summary: "由国家或地方政府授权的外部独立机构对学校教育教学质量、管理运行与合规状态开展现场审查、评级发布与行政问责的制度化规制机制"
 type: concept
 domain: "educational-policy-reform"
-related_count: 69
-related_level: 6
-related_stars: "💎💎"
+related_count: 70
+related_level: 7
+related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/educational-governance
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Quasi-market]]"
   - "[[Moral Sidestep]]"
   - "[[Institutional Drift]]"
+  - "[[Alienation]]"
   - "[[Teacher Professional Agency]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Evidence-Based Education]]"
@@ -98,7 +99,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-11-13
+updated: 2026-11-15
 ---
 
 ---
@@ -158,7 +159,7 @@ updated: 2026-11-13
 ---
 
 > [!concept-proposition] 命题一｜外部惩罚性督导体系通过行政威慑与标签化惩戒压制专业自主并侵蚀组织信任
-> **外部强力规训对教师专业生态的异化机制** 探讨执政精英如何将督导转化为自上而下的惩罚性利器，导致学校组织陷入防御性应检并瓦解同行专业协作。
+> **外部强力规训对教师专业生态的[[Alienation|异化]]机制** 探讨执政精英如何将督导转化为自上而下的惩罚性利器，导致学校组织陷入防御性应检并瓦解同行专业协作。
 
 > [!claim] Grey & Morris
 > **惩罚性督导与旧官僚控制的复活** [[Michael Gove\|迈克尔·戈夫]]等执政精英将学校督导包装为“磨利督导之剑”的严酷问责，通过突击督查与强制转制威慑学校，这种由当局主导的自上而下问责本质上是倒退至落后的旧官僚控制系统；它不仅未能带来实质性的学校改进，反而以行政恐怖压抑了[[Teacher Professional Agency\|教师专业能动性]]，与[[OECD\|经合组织]]所倡导的扁平化管理、专业共同体自律及同行问责等现代治理原则产生根本性背离。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, p. 119)]]

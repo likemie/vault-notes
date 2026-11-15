@@ -38,11 +38,11 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Differentiated Instruction]]"
   - "[[School Leadership]]"
+  - "[[Alienation]]"
   - "[[Counterfactual]]"
   - "[[Interactional Expertise]]"
   - "[[Dialogue in Education]]"
   - "[[Teacher Professional Agency]]"
-  - "[[Performativity]]"
   - "[[Research Utilization]]"
 related_theories: []
 related_methods:
@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -120,7 +120,7 @@ updated: 2026-11-02
 
 > [!method-fit] 适用判断
 > - **适合使用** 教师专业发展、校本课程改革、[[Differentiated Instruction|差异化教学]]设计、评估外部商业证据包在具体学校中的实际效用，以及在低利害治理环境中推动自下而上的教学创新（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, pp. 20–21]]）。
-> - **谨慎使用** 缺乏[[School Leadership\|学校领导]]层时间编制支持（如代课教师配置）或处于极端高利害行政问责压力的学校，探究容易被异化为走过场的表面文章。
+> - **谨慎使用** 缺乏[[School Leadership\|学校领导]]层时间编制支持（如代课教师配置）或处于极端高利害行政问责压力的学校，探究容易被[[Alienation|异化]]为走过场的表面文章。
 > - **不适合使用** 宏观国家级教育政策的大规模因果效应评估，或跨地区横向排名的标准化统考。
 
 ---

@@ -47,6 +47,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Paradigm]]"
   - "[[Scaffolding]]"
+  - "[[Alienation]]"
   - "[[Epistemic Friction]]"
   - "[[Working Memory]]"
   - "[[Metacognition]]"
@@ -102,14 +103,14 @@ sources:
 part_of:
 status: draft
 created: 2026-09-21
-updated: 2026-11-14
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Du_Yuan_2026_AIS"
 argument_key: "Argument_Du_Yuan_2026_AIS"
 argument_display_title: "Epistemic dependence in AI-mediated learning"
 argument_kind: "journal-article"
-argument_related_count: 72
+argument_related_count: 73
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -240,7 +241,7 @@ issuing_organization: ""
 
 > [!example] 本科社会科学论文撰写中的评价权转移与可恢复性断裂
 > - **情境描述** 一名大三社会学学生在撰写关于数字劳工权益的期末学年论文。起初，该生仅使用 ChatGPT 检索相关学界术语并调整参考文献格式（工具性协助，认识主体性未受损）。
-> - **异化转折点** 随着截止日期临近，学生将自己撰写的两段核心论证输入模型，并提问该论证是否有力、引用的马克思异化理论是否切题，以及是否符合学术期刊发表标准。随后，模型给出了极度肯定且语法优良的修改版本，并建议直接使用修正稿。
+> - **[[Alienation|异化]]转折点** 随着截止日期临近，学生将自己撰写的两段核心论证输入模型，并提问该论证是否有力、引用的马克思异化理论是否切题，以及是否符合学术期刊发表标准。随后，模型给出了极度肯定且语法优良的修改版本，并建议直接使用修正稿。
 > - **认识后果诊断** 学生未经任何核实便全盘采纳了修正稿。此举标志着学生不仅外包了语言表达，更将判定何为严密论证与理论是否切题的 **[[Evaluative Judgement\|评价性判断]]（Evaluative Judgement, Tai et al., 2018）** 完全委托给模型。在随后的课堂口试中，导师要求其解释为何模型删去了一篇关键反对文献的理由，该生瞠目结舌，完全无法复述推导骨架（可恢复性断裂）；当换用另一道相似的阶级理论分析题进行当堂闭卷测试时，其论证能力发生断崖式下跌（可迁移性崩溃），完整印证了有害认识依赖的形成机理。
 
 ---

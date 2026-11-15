@@ -8,7 +8,7 @@ aliases:
 summary: "比较教育学与公共政策分析中的方法学与认识论概念，指未经严格反事实因果识别，机械地将当前国际测验高分国家所呈现的静态体制与文化特征标榜为具有普遍因果效力的制度经验向外部移植的经验主义归纳范式。"
 type: concept
 domain: "comparative-education"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Homework]]"
   - "[[Grit]]"
+  - "[[Alienation]]"
   - "[[Cultural Capital]]"
   - "[[Structured Teaching]]"
   - "[[Constructivist Paradigm]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -95,7 +96,7 @@ updated: 2026-11-11
 > [!feature] 核心要素
 > - **截面数据时代错位** 习惯以单一时间节点的截面横向对比为依据，完全无视教育产出长达数十年的制度时滞，极易把学业飞跃完成后才出台的晚近改革当作飞跃的原因。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 9–10, 16)]]
 > - **隐性优势遮蔽机制** 当某国拥有极强的不可观测潜能（如高度坚忍的文化[[Grit|毅力]]或顶尖生源从教）时，即使实施了低效的教学模式（如短课时或自主放任），其绝对得分依然领先，使得劣效措施反被包装为成功秘诀。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 9–10)]]
-> - **意识形态投射载体** 国际政策学者常将自身推崇但未在本国验证的激进理念（如反问责、反市场、彻底儿童中心）投射到海外明星国家身上，将“最佳实践”异化为推行特定政策偏好的修辞工具。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 8–9, 63–64)]]
+> - **意识形态投射载体** 国际政策学者常将自身推崇但未在本国验证的激进理念（如反问责、反市场、彻底儿童中心）投射到海外明星国家身上，将“最佳实践”[[Alienation|异化]]为推行特定政策偏好的修辞工具。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 8–9, 63–64)]]
 > - **去语境化移植危机** 忽视支撑该实践的特定历史积淀与社会土壤（如芬兰长达一个半世纪的芬诺曼民族运动），盲目照搬表层去问责与高自主做法往往诱发严重的治理失序。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 63–66)]]
 
 > [!logic-map]- 要素关系

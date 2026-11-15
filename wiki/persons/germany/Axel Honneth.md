@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Visible Learning]]"
   - "[[Intentionality]]"
+  - "[[Alienation]]"
   - "[[Doctoral Dissertation]]"
   - "[[Infusion Approach]]"
   - "[[Document]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 （阿克塞尔·霍耐特）
@@ -67,7 +68,7 @@ updated: 2026-11-11
 > - **代表贡献** 创立包含“爱—权利—社会尊严”的三位一体相互承认理论体系（[[Recognition Theory]]）；重新阐释马克思主义经典“物化”（Verdinglichung）概念，界定物化本质上是对原初主体间承认的系统性遗忘；为尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）解构《[[Visible Learning|可见的学习]]》抽离师生[[Intentionality|主体意向性]]提供了奠基性批判框架。
 
 > [!citation-card] 霍耐特承认理论在教育学批判中的定位
-> 德国哲学家霍耐特强调，对个体的能动能动性与意向性的承认，是其成长为自主社会参与者的决定性基石。反之，如果教育体制拒绝承认这种自主性与意向性，便会诱发深刻的社会异化。[[John Hattie|哈蒂]]在追求经验、统计与实用确定性的过程中，将学习者降格为被动的技术纠错器，构成了对主体承认的制度性漠视。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, p. 15)]]
+> 德国哲学家霍耐特强调，对个体的能动能动性与意向性的承认，是其成长为自主社会参与者的决定性基石。反之，如果教育体制拒绝承认这种自主性与意向性，便会诱发深刻的社会[[Alienation|异化]]。[[John Hattie|哈蒂]]在追求经验、统计与实用确定性的过程中，将学习者降格为被动的技术纠错器，构成了对主体承认的制度性漠视。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, p. 15)]]
 >
 > *German philosopher Honneth stressed the importance of recognizing persons' agency and intentionality as crucial for their development as autonomous participants. Conversely, failing to acknowledge or recognize autonomy and intentionality could cause social alienation.*
 

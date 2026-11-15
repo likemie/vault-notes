@@ -8,7 +8,7 @@ aliases:
 summary: "刻画因博士培养规模高速扩张与大学终身教职新增岗位长期停滞而导致的青年学者过度滞留于短期低薪博士后岗位的结构性劳动力市场失衡。全美博士后规模三十年间膨胀三倍以上（65% 积压于生命科学领域），博士毕业五年后的中位年薪显著落后于进入产业界的同行，构成了学术劳动力再生产的瓶颈与生涯沉没成本（Powell, 2015; Wang & Barabási, 2021）。"
 type: concept
 domain: "higher-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Academic Pipeline]]"
   - "[[Heterogeneity]]"
   - "[[Academic Precarity]]"
+  - "[[Alienation]]"
   - "[[Variable]]"
   - "[[Academic Risk Aversion]]"
   - "[[PhD Overproduction in Science]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-31"
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -140,7 +141,7 @@ updated: 2026-11-11
 > > 科技管理学界对博士后队伍急速膨胀的制度合理性存在显著对立立场。
 > >
 > > - **科研学徒深化派** 认为现代跨学科复杂大科学需要更长时期的博士后强化训练，博士后经历是青年学者提升独立领导大团队与申请课题能力的必经阶梯。
-> > - **廉价劳动力批判派（Powell, 2015; Schillebeeckx et al., 2013）** 指出大学与资深 PI 利用终身教职的虚假希望，将博士后制度异化为规避雇主义务、维持实验室低成本运转的消耗性工具。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 169)]]
+> > - **廉价劳动力批判派（Powell, 2015; Schillebeeckx et al., 2013）** 指出大学与资深 PI 利用终身教职的虚假希望，将博士后制度[[Alienation|异化]]为规避雇主义务、维持实验室低成本运转的消耗性工具。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 169)]]
 
 > [!warning|limits] 适用局限
 > 博士后积压在不同国家和学科具有不同表现：在工业经济发达且研发转化顺畅的经济体（如中国、德国），工业私营部门对高学历博士后研发人员的旺盛需求能有效分流消化积压；该现象在缺乏实体制造业承接或纯依赖学术内部循环的学科体系中尤为严峻。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, p. 170)]]

@@ -48,6 +48,7 @@ related_concepts:
   - "[[School Inspection]]"
   - "[[Professional Learning Community]]"
   - "[[International Schools]]"
+  - "[[Mimesis]]"
   - "[[Grandes Ecoles]]"
   - "[[Technical Rationality]]"
   - "[[Knowledge Bank]]"
@@ -62,6 +63,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Philosophical Aesthetics]]"
   - "[[Educational Meliorism]]"
+  - "[[Alienation]]"
   - "[[Falsification]]"
   - "[[Categorical Funding]]"
   - "[[Sadler's Garden Metaphor]]"
@@ -104,14 +106,14 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-10-15
-updated: 2026-11-14
+updated: 2026-11-15
 subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Beech_2009_GlobalGarden"
 argument_key: "Argument_Beech_2009_GlobalGarden"
 argument_display_title: "Who is strolling through the global garden? International agencies and educational transfer"
 argument_kind: "book-chapter"
-argument_related_count: 73
+argument_related_count: 75
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -223,7 +225,7 @@ issuing_organization: ""
 > - **跨国营利性教育服务集团** 借由[[Public-Private Partnership|公私伙伴关系]]（Public-Private Partnerships, PPP, Cardini, 2006）在英国外包校舍兴建、地方教育局（Local Educational Authorities, LEAs）运营、[[School Inspection|学校督导]]、教师在职培训乃至配餐服务；大型跨国企业顺势扩展：
 >   - [[Nord Anglia Education|诺德安达]]（Nord Anglia Education [[Professional Learning Community|PLC]]）：其首席执行官公开宣称正将英国本土人力与服务优势转化为海外扩张机遇，持续提升跨国管理运营能力；
 >   - [[GEMS Education|环球教育管理系统]]（Global Education Management Systems, GEMS）：横跨阿联酋、英国、印度、卡塔尔、德国、利比亚与约旦 7 个国家运营 65 所[[International Schools|国际学校]]，自诩为教育变革的催化剂，直接向多国政府机构提供政策咨询；
->   - 跨国精英学校网络加速了休·劳德（Hugh Lauder, 2007）所言的全球精英再生产，彻底异于以往巴西模仿[[Grandes Ecoles|法国大学校]]（Grandes Écoles, Cowen & Figueiredo, 1992）或中国大学引入美国学分制（Steiner-Khamsi, 2000）等主权国家主导模式。（p. 344）
+>   - 跨国精英学校网络加速了休·劳德（Hugh Lauder, 2007）所言的全球精英再生产，彻底异于以往巴西[[Mimesis|模仿]][[Grandes Ecoles|法国大学校]]（Grandes Écoles, Cowen & Figueiredo, 1992）或中国大学引入美国学分制（Steiner-Khamsi, 2000）等主权国家主导模式。（p. 344）
 
 这些跨界实体的崛起表明，现代教育转移已由双边国家关系转变为复杂的[[Pluri-Scalar Governance|多标度治理]]网络，亟须建立新的分析透镜来剖析其深层机制（p. 344）。
 
@@ -313,7 +315,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim|step] 论证步骤四　拉美实证经验确证抽象话语降落微观机构必然遭遇脱节，反常异化与意外后果颠覆改革初衷
+> [!claim|step] 论证步骤四　拉美实证经验确证抽象话语降落微观机构必然遭遇脱节，反常[[Alienation|异化]]与意外后果颠覆改革初衷
 > 全球教育话语在阿根廷与巴西官方文本中的顺畅流转，在微观学校机构遭遇了灾难性的断裂；去情境化的普遍处方不仅未能实现预期效益，反而因不契合本土专业积累与文化土壤，激发出依赖商业教辅、实习制度瘫痪等始料未及的异化恶果。（pp. 353–355）
 
 > [!sub-claim] 1. 去情境化的普遍处方在微观学校遭遇严重水土不服，诱发课程失控与制度抵制等意外后果

@@ -10,7 +10,7 @@ aliases:
 summary: "起源于日本丰田汽车公司、由沃马克（Womack）等人在《改变世界的机器》中系统总结的现代化制造与管理组织范式；核心主张通过准时制库存控制（Just-in-Time, JIT）、看板管理、全面质量管理（TQM）、全员参与持续改进（Kaizen）与多技能轮岗，彻底消除生产流程中的一切过量库存与资源浪费；克里斯·弗里曼（Chris Freeman）将其列为微电子时代技术-经济范式转型中最重要的组织管理创新，论证后发国家吸收现代通用技术必须伴随精益生产等车间微观组织重组。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Homework]]"
   - "[[General Purpose Technology]]"
+  - "[[Alienation]]"
   - "[[Intellectual Capital]]"
   - "[[Peer Pressure]]"
   - "[[Geopolitics]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -125,7 +126,7 @@ updated: 2026-11-03
 > > [!axis] 工人赋权 vs 隐蔽劳动高强度
 > > 围绕精益生产究竟提升了工人自主性还是加剧了劳动强度的争论。
 > >
-> > - **赋权学派（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）** 认为精益生产打破了福特制将工人视为单纯工具的异化，鼓励工人自主参与技术改进、提供合理化建议并掌握复合工种技能，极大地提升了基层[[Intellectual Capital|智力资本]]。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 18)]]
+> > - **赋权学派（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）** 认为精益生产打破了福特制将工人视为单纯工具的[[Alienation|异化]]，鼓励工人自主参与技术改进、提供合理化建议并掌握复合工种技能，极大地提升了基层[[Intellectual Capital|智力资本]]。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 18)]]
 > > - **批判社会学派** 指出准时制消除了车间一切库存缓冲，导致生产节拍极度紧张，工人在“持续改进”的[[Peer Pressure|同侪压力]]下承受更高的心理压力与劳动消耗。
 
 > [!warning] 适用局限

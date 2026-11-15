@@ -9,7 +9,7 @@ summary: "质性研究、内容分析与元分析编码中，两名或多名独�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 44
+method_related_count: 45
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
+  - "[[Alienation]]"
   - "[[Fitness for Purpose]]"
   - "[[Research Purpose]]"
   - "[[Operationalization]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -192,7 +193,7 @@ updated: 2026-11-11
 
 > [!tension] 实证一致性 vs 建构多重现实的认识论张力
 > - **[[Positivism\|实证主义]]等值追求** 坚持研究必须具备跨主体的客观可检验性与可重复性；编码者间一致性是确保分析结果独立于研究者个人偏见的必要防线（Weber, 1990；Krippendorff, 2004）。
-> - **建构主义反思批评（Lincoln & Guba, 1985）** [[Yvonna S. Lincoln\|伊冯娜·林肯]]（Yvonna Lincoln）与[[Egon G. Guba\|埃贡·古巴]]（Egon Guba）指出，在立足[[Reflexivity\|反身性]]与社会建构的质性探究中，假设两位独立研究者面对复杂的生活文本会得出完全相同的解释，这一前提在认识论上是无法成立且站不住脚的。现实具有多层性，不同研究者从不同视角对同一文本形成差异化诠释，正是[[Qualitative Research\|质性研究]]深度的体现，不应被强制压制为单一的一致性比率（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, p. 574]]）。
+> - **建构主义反思批评（Lincoln & Guba, 1985）** [[Yvonna S. Lincoln\|伊冯娜·林肯]]（Yvonna Lincoln）与[[Egon G. Guba\|埃贡·古巴]]（Egon Guba）指出，在立足[[Reflexivity\|反身性]]与社会建构的质性探究中，假设两位独立研究者面对复杂的生活文本会得出完全相同的解释，这一前提在认识论上是无法成立且站不住脚的。现实具有多层性，不同研究者从不同视角对同一文本形成差[[Alienation|异化]]诠释，正是[[Qualitative Research\|质性研究]]深度的体现，不应被强制压制为单一的一致性比率（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, p. 574]]）。
 
 > [!theory-stance] 工具适切性原则（[[Fitness for Purpose]]）
 > 在[[Mixed Methods Research\|混合方法]]与现代质性分析中，研究者应根据[[Research Purpose\|研究目的]]采取适切立场：在需要团队协同处理海量政策文本、[[Questionnaire\|问卷]]简答或元分析编码时，严格建立高水平编码者间一致性；而在深度个案、[[Phenomenology\|现象学]]体验与隐喻[[Rich and Thick Description\|深描]]中，则应将重心转向[[Audit Trail\|审核追踪]]（Audit Trail）与反思性阐释对话。

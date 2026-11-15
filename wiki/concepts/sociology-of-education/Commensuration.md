@@ -9,7 +9,7 @@ aliases:
 summary: "将不同性质的异质事物转化为基于同一通用尺度或公分母的标准化可比量化指标的社会过程，为跨情境绩效评价与资源配置确立形式公平，但伴随着质性情境剥离、统计公平与地域公平冲突及策略性博弈操纵等治理代价"
 type: concept
 domain: "sociology-of-education"
-related_count: 58
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Discourse]]"
+  - "[[Alienation]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Learning Crisis]]"
   - "[[Foundational Literacy and Numeracy]]"
@@ -86,7 +87,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -167,7 +168,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题三｜通约指标与高利害问责刚性绑定诱发策略性博弈与目标置换
-> **规训装配与[[Reflexivity|反身性]]博弈异化** 探讨量化通约一旦与资源奖惩挂钩，如何促使被规训学校采取虚假合规与数据操纵策略。
+> **规训装配与[[Reflexivity|反身性]]博弈[[Alienation|异化]]** 探讨量化通约一旦与资源奖惩挂钩，如何促使被规训学校采取虚假合规与数据操纵策略。
 
 > [!claim] Hartong & Förschler; Espeland & Sauder
 > **高利害挂钩下的反身性博弈机制** 通约机制是兼具治理能力延伸与[[Reflexivity|反身性]]控制的社会-技术装配；一旦通约指标与高利害问责或资源分配刚性绑定，必将导致现实与度量的系统性脱节，诱发被规训学校的策略性数据操纵。当通约建立的“统计公平比较”被用于配置补偿性师资经费或触发惩罚性托管时，学校行动者展现出强烈的反身性适应。学校为了在通约公式中获得有利排位，往往策略性申报处境不利生源数据、针对统考关键切分点突击刷题，甚至在转译阶段修改学生出勤记录，导致通约工具从原本旨在支持学校自我改进的诊断镜鉴，异化为驱使学校追求虚假合规的考核锁链。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 7, 9–10)]]

@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[School Climate Effects]]"
   - "[[Learning Gain]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Alienation]]"
   - "[[Counterfactual]]"
   - "[[Discourse]]"
   - "[[Charter Schools]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-04'
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 > [!info] 背景
@@ -167,7 +168,7 @@ updated: 2026-11-11
 >
 > > "While family inputs to education are indeed extremely important, the differential impacts of schools and teachers receive more attention when viewed from a policy viewpoint. This reflects simply that the characteristics of schools are generally more easily manipulated than what goes on in the family."
 > > 
-> > 尽管家庭对教育的投入确实极为重要，但从政策角度看，学校和教师的差异化影响受到更多关注——这仅仅反映了学校特征通常比家庭内部发生的事情更容易被操纵。
+> > 尽管家庭对教育的投入确实极为重要，但从政策角度看，学校和教师的差[[Alienation|异化]]影响受到更多关注——这仅仅反映了学校特征通常比家庭内部发生的事情更容易被操纵。
 >
 > [[Argument_Downey_2016_SoE\|Downey and Condron (2016, p.11)]] 对此提出尖锐质疑：**当前关于什么是最容易的政策改革的政治条件，是否应该塑造学者识别成就差距真正原因的意愿？**
 >

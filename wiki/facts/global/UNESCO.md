@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 101
+fact_related_count: 102
 fact_related_level: 10
 fact_related_stars: "💎💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Transnational Education]]"
   - "[[Peer Pressure]]"
+  - "[[Alienation]]"
   - "[[Discursive Field]]"
   - "[[Competitiveness]]"
   - "[[Social Imaginary]]"
@@ -135,7 +136,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -285,7 +286,7 @@ updated: 2026-11-11
 > > 争论教科文组织以纯粹无偿咨询与人道主义宣言为基础的治理模式，在面临政治阻力时是否具备实质效能。
 > >
 > > - **圈内制度批判（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）** [[Claudio de Moura Castro|卡斯特罗]]直言，教科文组织引领全球教育新理念的时代早已远去；宗迪恩大会完全由世行主导。更重要的是，教科文组织极其慷慨地向成员国免费提供源源不断的政策建议，但因为教育改革充满政治痛苦，各国教育部根本不怎么理会这些免费理念；脱离信贷资金物质支持的构想极易沦为“听起来悦耳动听、签署批准时庄严华丽，但全然无足轻重”的纸面仪式。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 466, 472–473)]]
-> > - **教科文组织人文主义捍卫者** 辩称道德权威与普遍人权基准具有超越短期财政借贷的跨时代规范效力，正是这种不依附于商业还本付息的独立性，捍卫了教育不被异化为单纯经济生产投入要素的公共属性底线。
+> > - **教科文组织人文主义捍卫者** 辩称道德权威与普遍人权基准具有超越短期财政借贷的跨时代规范效力，正是这种不依附于商业还本付息的独立性，捍卫了教育不被[[Alienation|异化]]为单纯经济生产投入要素的公共属性底线。
 >
 > > [!axis] 人文主义道德高地 vs 地缘合法性反击与全球话语垄断共谋
 > > 批判比较教育学者剖析《德洛尔报告》的人文主义宣言是否掩盖了机构地缘合法性危机，以及其与经济主义机构在深层话语上的隐秘共谋。

@@ -7,7 +7,7 @@ aliases:
 summary: "杜威实用主义与批判教育学的核心哲学构念。杜威经典定义“教育即生长”，指儿童以自身经验为中心在环境与社区沟通中持续重组与改组经验的自主过程；批判教育学在此基础上指出单纯理智反思的局限，强调将经验生长升华为打破沉默文化、唤醒批判意识并在解放性实践（praxis）中变革压迫现实。"
 type: concept
 domain: "educational-philosophy"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Liberation Theology]]"
   - "[[Conscientization]]"
   - "[[Interaction Effect]]"
+  - "[[Alienation]]"
   - "[[Educative Experience]]"
   - "[[Mis-educative Experience]]"
   - "[[Reflective Thinking]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-25
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -121,7 +122,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题二｜生长的理智方向取决于当下经验的教育性质地与反教育性阻滞
-> **经验品质二分与成长方向性** 考察经验质地对个体发展的差异化影响，辨析[[Educative Experience|教育性经验]]与[[Mis-educative Experience|反教育经验]]对后续学习潜力的深层分化。
+> **经验品质二分与成长方向性** 考察经验质地对个体发展的差[[Alienation|异化]]影响，辨析[[Educative Experience|教育性经验]]与[[Mis-educative Experience|反教育经验]]对后续学习潜力的深层分化。
 
 > [!claim] [[John Dewey|Dewey, J.]]
 > **教育性经验与反教育经验的品质对立** 杜威强调经验具有鲜明的品质差异。[[Educative Experience|教育性经验]]（Educative Experience）能够丰富主体的当下体验，为通往未来更深刻、更广阔的探究敞开大门，推动理智与道德的持续扩展；相反，[[Mis-educative Experience|反教育经验]]（Mis-educative Experience）如机械[[Rote Learning|死记硬背]]（[[Rote Learning|死记硬背]]）、高压训导与缺乏挑战的重复操练，会使学习者产生情感麻木与厌恶心理，人为收缩其未来获得丰富经验的可能性，造成智力生长的停滞与扭曲。[[Argument_Darwish_2009_Queens|(Dewey, 1938; cited in Darwish, 2009, pp. 25, 31, 47)]]

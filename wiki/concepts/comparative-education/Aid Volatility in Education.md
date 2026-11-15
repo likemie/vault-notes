@@ -9,7 +9,7 @@ aliases:
 summary: "国际发展援助在流向、规模与周期上的高度不可预测与突发式涨落状态。外来资金的突发性涌入常诱发对受援国公共财政的挤出效应，促使本国政府推脱常规拨款；援助周期届满后的断崖式撤资使受援社区跌入制度真空；加之资金偏好短平快的速成培训工作坊，严重冲击了受援国本土师范教育生态与长期预算规划（Santos & Silova, 2026）。"
 type: concept
 domain: "comparative-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[Absorptive Capacity]]"
   - "[[Institutional Displacement]]"
+  - "[[Alienation]]"
   - "[[Learning Crisis]]"
   - "[[State Educational Sovereignty]]"
   - "[[Counterpart Funds]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-10
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -110,7 +111,7 @@ updated: 2026-11-11
 
 > [!dev-timeline] 概念演变
 > - **2000 年代初 — 宏观经济学援助实效性研究** 发展经济学者关注官方发展援助（ODA）在受援国宏观财政中的不可预测性，发现外援波动性往往高于国内税收波动，削弱了财政规划稳定性。
-> - **2010 年代 — 教育部门预算与放贷异化分析** 比较教育学者关注[[World Bank|世界银行]]与多边机构项目贷款的周期性，指出项目制资金难以支撑教师薪酬等经常性支出。
+> - **2010 年代 — 教育部门预算与放贷[[Alienation|异化]]分析** 比较教育学者关注[[World Bank|世界银行]]与多边机构项目贷款的周期性，指出项目制资金难以支撑教师薪酬等经常性支出。
 > - **2026 — [[Learning Crisis|学习危机]]语境下的微观机制实证解构** 桑托斯与西洛娃（[[Argument_Santos_Silova_2026_Discourse|Santos & Silova, 2026]]）深入教育微观生态，系统论证外援大额现金流对地方公共财政的挤出效应，以及短期速成培训对外援撤退后教师队伍专业信心的摧毁性打击。
 
 ---

@@ -9,7 +9,7 @@ aliases:
 summary: "依托网络交互痕迹与数字媒体传播数据，测度学术成果在学术界与公众领域即时注意力与多元社会影响力的补充性评价指标体系"
 type: concept
 domain: "science-policy"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Discourse]]"
   - "[[Goodhart's Law]]"
+  - "[[Alienation]]"
   - "[[Champ]]"
   - "[[Variable]]"
 related_theories: []
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-31
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -80,7 +81,7 @@ updated: 2026-11-11
 > - **即时性与早期反馈** 在成果刊发之初即可实时汇集访问量与跨平台讨论，克服传统引文长达数年的时间滞后瓶颈（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási, 2021, p. 247]]）。
 > - **多源广谱社会反响** 聚合社交媒体、数字新闻与大众百科全书的非学术受众交互，映射基础科学对公众[[Discourse|话语]]的渗透广度（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási, 2021, pp. 246–247]]）。
 > - **引文脱钩与弱相关性** 经验研究表明点击量或推文量与后续学术引用仅呈微弱相关，表明二者测度的是不同维度的成果效用（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási, 2021, p. 246]]）。
-> - **易受操纵与博弈风险** 网络点赞与提及容易通过商业营销手段被购买或虚假生成，导致指标面临[[Goodhart's Law|古德哈特定律]]（Goodhart's Law）异化（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási, 2021, p. 247]]）。
+> - **易受操纵与博弈风险** 网络点赞与提及容易通过商业营销手段被购买或虚假生成，导致指标面临[[Goodhart's Law|古德哈特定律]]（Goodhart's Law）[[Alienation|异化]]（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási, 2021, p. 247]]）。
 
 > [!logic-map]- 替代计量学评价维度与应用边界
 > ```mermaid

@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch06"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch06"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 46
+argument_related_count: 47
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[International Schools]]"
   - "[[Teacher Support for Students]]"
+  - "[[Alienation]]"
   - "[[Advanced Placement Program]]"
   - "[[Philosophical Aesthetics]]"
   - "[[Theory of Knowledge]]"
@@ -83,7 +84,7 @@ related_theories:
   - "[[Theory of Mind]]"
 status: draft
 created: 2026-09-01
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 ---
 
@@ -91,7 +92,7 @@ updated: 2026-11-14
 > 为什么 IB 在六年试验结束后没有主要沿精英预科学校或社区学院扩张，反而在 1980 年后迅速进入美国和加拿大的公立高中？地方课程权、教育改革需求、区域组织和教师实施能力如何共同解释这一转向？
 
 > [!claim] 核心主旨
-> [[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）在北美的扩张不是[[International Schools\|国际学校]]模式的自然延伸。常春藤预科学校和社区学院两条预想路径相继失败后，公立高中成为主要载体。地方课程自主权允许学校自行采用外部课程，教育质量危机强化对学术挑战的需求，[[International Baccalaureate North America\|国际文凭北美公司]]（International Baccalaureate North America，IBNA）则把本地筹资、项目推广和[[Teacher Support for Students|教师支持]]连接起来。IB 因而从服务跨国流动学生的资格，转化为学术拔尖、学校差异化、族群融合和地区升学机会的本地改革工具（pp. 131–160）。
+> [[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）在北美的扩张不是[[International Schools\|国际学校]]模式的自然延伸。常春藤预科学校和社区学院两条预想路径相继失败后，公立高中成为主要载体。地方课程自主权允许学校自行采用外部课程，教育质量危机强化对学术挑战的需求，[[International Baccalaureate North America\|国际文凭北美公司]]（International Baccalaureate North America，IBNA）则把本地筹资、项目推广和[[Teacher Support for Students|教师支持]]连接起来。IB 因而从服务跨国流动学生的资格，转化为学术拔尖、学校差[[Alienation|异化]]、族群融合和地区升学机会的本地改革工具（pp. 131–160）。
 
 > [!phase] 北美扩张的四个阶段
 >

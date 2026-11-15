@@ -7,7 +7,7 @@ aliases:
 summary: "由格特·比斯塔提出的批判性哲学构念，用以诊断教育话语被以效果为中心的“学习”逻辑全面殖民的现象。该构念揭示：当教育被降维为无休止的学习过程、学习结果与效应量排名时，教师被降格为学习促进者，学生被重塑为需持续自我优化的学习客户，从而彻底遮蔽了关涉主体成人、民主公民与全人教化（Bildung）的崇高教育目的。"
 type: concept
 domain: "educational-philosophy"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Discourse]]"
   - "[[Construct]]"
+  - "[[Alienation]]"
   - "[[The Sublime]]"
   - "[[Evidence-Based Education]]"
   - "[[Lifelong Learning]]"
@@ -78,13 +79,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
 
 > [!def] Learnification
-> **学习化（Learnification）** 是由当代荷兰教育哲学家[[Gert Biesta|格特·比斯塔]]（Gert Biesta）首创的批判性概念，指教育理论与实践[[Discourse|话语]]被以效果为中心、去价值负荷的“学习”（Learning）与“学习结果”（Learning Outcomes）逻辑全面侵蚀与重塑的现象。该[[Construct|构念]]揭示：传统教育中教师引领主体涉入客观文化传统的教育学关系，被异化为以产出测量为中介的技术化交付过程；学生被编码为需对自身效能持续负责的学习消费者，消解了教育关涉主体成熟（Mündigkeit）、民主审议与道德解放的根本宗旨。[[Argument_Biesta_2010_SPE|(Biesta, 2010, pp. 15–20)]]; [[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 1–3)]]
+> **学习化（Learnification）** 是由当代荷兰教育哲学家[[Gert Biesta|格特·比斯塔]]（Gert Biesta）首创的批判性概念，指教育理论与实践[[Discourse|话语]]被以效果为中心、去价值负荷的“学习”（Learning）与“学习结果”（Learning Outcomes）逻辑全面侵蚀与重塑的现象。该[[Construct|构念]]揭示：传统教育中教师引领主体涉入客观文化传统的教育学关系，被[[Alienation|异化]]为以产出测量为中介的技术化交付过程；学生被编码为需对自身效能持续负责的学习消费者，消解了教育关涉主体成熟（Mündigkeit）、民主审议与道德解放的根本宗旨。[[Argument_Biesta_2010_SPE|(Biesta, 2010, pp. 15–20)]]; [[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 1–3)]]
 
 > [!concept-lens] 概念透镜
 > - **核心功能** 揭示当代教育改革表面上的“以学生为中心”修辞，实质上掩盖了新自由主义问责制与量化监控对教育[[The Sublime|崇高]]目的的抽离。

@@ -10,7 +10,7 @@ aliases:
 summary: "源于边沁建筑构想并由福柯系统阐述的微观权力理论，指出权力依托可见性的结构性非对称与潜在注视假定，将外部强制转化为被监视者的内在心理自律，广泛用于解构教育测验软件、绩效问责与数字全景监控。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 42
+theory_related_count: 44
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -23,11 +23,14 @@ tags:
   - theory/post-structuralism
 related_concepts:
   - "[[Critical Pedagogy]]"
+  - "[[Serialization]]"
   - "[[Open Method of Coordination]]"
   - "[[Visible Learning]]"
   - "[[Performance Indicators]]"
+  - "[[Alienation]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Self-control]]"
+  - "[[Paradigm]]"
   - "[[Bildung]]"
   - "[[Peer Assessment]]"
   - "[[Performativity]]"
@@ -39,7 +42,6 @@ related_concepts:
   - "[[Pedagogical Subject]]"
   - "[[Bureaucracy]]"
   - "[[Feedback]]"
-  - "[[Paradigm]]"
   - "[[Determinism]]"
   - "[[Teacher Professional Agency]]"
   - "[[Barometer of Achievement]]"
@@ -47,14 +49,14 @@ related_concepts:
 related_theories:
   - "[[Post-structuralism]]"
   - "[[Societies of Control]]"
+  - "[[Imagined Community]]"
 related_methods:
   - "[[Questionnaire]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
-  - "[[Ewald Terhart]]"
-  - "[[Benedict Anderson]]"
   - "[[Pramoedya Ananta Toer]]"
+  - "[[Ewald Terhart]]"
 related_facts:
   - "[[EU]]"
   - "[[PISA]]"
@@ -63,17 +65,17 @@ related_facts:
   - "[[European Commission]]"
 related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Argument_Anderson_2016_Verso_Ch10]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_McKnight_2020_Discourse]]"
-  - "[[Argument_Anderson_2016_Verso_Ch10]]"
 confidence: high
 status: active
 created: 2026-10-16
-updated: 2026-11-13
+updated: 2026-11-15
 ---
 
 ---
@@ -97,11 +99,11 @@ updated: 2026-11-13
 
 > [!dev-timeline] 理论版本与贡献
 > - **1975年 — 规训全景奠基** Foucault 系统论证全景敞视建筑作为规训权力典范模型的空间拓扑、去个体化运作与心理内化机制。
-> - **1991年 — 殖民国家心智与玻璃屋全景监视** [[Benedict Anderson|安德森]]在《[[Imagined Community|想象的共同体]]》第10章引入印尼作家[[Pramoedya Ananta Toer|普拉姆迪亚]]的《玻璃屋》隐喻，指出边沁全景敞视建筑在殖民与后殖民国家演进为以分类网格（经线）与序列化（纬线）为核心的彻底能见度治理架构。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 188–189)]]
+> - **1991年 — 殖民国家心智与玻璃屋全景监视** 安德森在《[[Imagined Community|想象的共同体]]》第10章引入印尼作家[[Pramoedya Ananta Toer|普拉姆迪亚]]的《玻璃屋》隐喻，指出边沁全景敞视建筑在殖民与后殖民国家演进为以分类网格（经线）与[[Serialization|序列化]]（纬线）为核心的彻底能见度治理架构。[[Argument_Anderson_2016_Verso_Ch10|(Anderson, 2016, pp. 188–189)]]
 > - **1992年 — [[Societies of Control|控制社会]]扩展** Gilles Deleuze 发表《控制社会后记》，指出随着数字信息网络的发展，封闭机构的全景模具逐渐让位于无边界网络中的流动数据调制（Modulation）。
 > - **2009年 — 超国家教育全景敞视分析** [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] 运用全景敞视理论解构[[EU|欧盟]]教育与培训政策，揭示[[Open Method of Coordination|开放协调法]]、基准指标与凝视技术如何在超国家尺度构筑“欧洲教育全景敞视建筑”。（pp. 480–481, 492–493）
 > - **2011年 — 课堂双向可见性解构** [[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）将全景敞视理论用于解构《[[Visible Learning|可见的学习]]》中的“眼睛”隐喻，揭示双向可见性如何构筑现代微观全景规训。
-> - **2019–2020年 — 数字行政全景与组织病理** Golovchin、McKnight & Whitburn 与 Johnson & Janzen 将全景敞视拓展至教育测验软件（[[Assessment Tools for Teaching and Learning|asTTle]]）与[[Performance Indicators|绩效指标]]治理，批判“人人相互注视”的新行政全景敞视及其诱发的报表异化。
+> - **2019–2020年 — 数字行政全景与组织病理** Golovchin、McKnight & Whitburn 与 Johnson & Janzen 将全景敞视拓展至教育测验软件（[[Assessment Tools for Teaching and Learning|asTTle]]）与[[Performance Indicators|绩效指标]]治理，批判“人人相互注视”的新行政全景敞视及其诱发的报表[[Alienation|异化]]。
 > - **2021年 — 跨国测评的宏观全景凝视** [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] 揭示 [[PISA]] 建立起现代全球治理的全景敞视机制，通过远距离的数据可见性与国际排名凝视主权国家与学校，将受测个体塑造为顺应全球竞争需要的可教的身体。（p. 423）
 
 ---
@@ -117,7 +119,7 @@ updated: 2026-11-13
 > | 新行政全景敞视（New Administrative Panopticism） | 衍生框架 | 依托数字指标与表单问责建立的人人相互监视的现代教育官僚控制生态。 |
 > | 欧洲教育全景敞视（European Panopticon） | 衍生架构 | 欧盟依托开放协调法、基准指标与同行评审建立的超国家软法规训网络。 |
 > | 全景式数字凝视（Panoptic Digital Gaze） | 衍生机制 | 超国家组织依托跨国测评与排名构建的宏观全景监管，促成参测国与个体的自愿合规。 |
-> | 玻璃屋全景监视（*Rumah Kaca*） | 衍生架构 | 晚期殖民与后殖民国家将分类网格与无限序列化结合实现的彻底能见度治理范式。 |
+> | 玻璃屋全景监视（*Rumah Kaca*） | 衍生架构 | 晚期殖民与后殖民国家将分类网格与无限序列化结合实现的彻底能见度治理[[Paradigm\|范式]]。 |
 
 ---
 

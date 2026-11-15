@@ -20,12 +20,14 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Bildung]]"
+  - "[[Absolute Spirit]]"
   - "[[Empty Knower]]"
   - "[[Conatus]]"
   - "[[International Spinozian Curriculum]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
   - "[[Ontology]]"
+  - "[[Alienation]]"
   - "[[Resonant Oscillation]]"
   - "[[Externalization]]"
   - "[[Feeder Mechanism]]"
@@ -51,14 +53,14 @@ sources:
 part_of:
 status: draft
 created: 2026-07-13
-updated: 2026-10-29
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Cole_2005_JRIE"
 argument_key: "Argument_Cole_2005_JRIE"
 argument_display_title: "An examination of Hegelian and Spinozian philosophy and their relationships with the International Baccalaureate subject, Theory of Knowledge"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 25
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -74,7 +76,7 @@ issuing_organization: ""
 > 在[[International Baccalaureate\|国际文凭]]（IB）体系下，如何平衡高强度的学术学习与发展学生想象力的需求？具体而言，目前的[[Theory of Knowledge\|知识论]]（TOK）课程中潜藏着哪些压抑性的哲学预设？应当如何利用[[Baruch Spinoza\|斯宾诺莎]]（Spinoza）的情感政治重构一种解放想象力的国际课程模式？
 
 > [!claim] 核心主张
-> 当前的 IB TOK 课程过度依赖[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式的教化（[[Bildung]]）逻辑，将学生视为在理性规训下走向绝对精神与公民社会的“空无认知者”（[[Empty Knower]]），导致真正的反思退化为应对考试的碎片化知识。为了适应完美信息时代的后现代需求，教育应转向斯宾诺莎式的内在性平面（plane of immanence），将无意识的情感与[[Conatus\|欲力]]（Conatus）视为认知的生产性源泉，确立想象力在智识发展中的核心地位，从而构建一种强调群体力量（potentia multitudine）的“[[International Spinozian Curriculum\|国际斯宾诺莎主义课程]]”。
+> 当前的 IB TOK 课程过度依赖[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式的教化（[[Bildung]]）逻辑，将学生视为在理性规训下走向[[Absolute Spirit|绝对精神]]与公民社会的“空无认知者”（[[Empty Knower]]），导致真正的反思退化为应对考试的碎片化知识。为了适应完美信息时代的后现代需求，教育应转向斯宾诺莎式的内在性平面（plane of immanence），将无意识的情感与[[Conatus\|欲力]]（Conatus）视为认知的生产性源泉，确立想象力在智识发展中的核心地位，从而构建一种强调群体力量（potentia multitudine）的“[[International Spinozian Curriculum\|国际斯宾诺莎主义课程]]”。
 
 > [!concept-lens] 阅读透镜
 > - **对象** IB 课程的核心必修科目 TOK，以及课堂中的师生权力互动与[[Knowledge Production\|知识生成]]机制。
@@ -115,7 +117,7 @@ issuing_organization: ""
 ---
 
 > [!claim|step] 论证步骤一：传统 IB 知识论面临的黑格尔式困境
-> IB 课程的核心机制遵循了[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式的教化（[[Bildung]]）路径，将学生预设为等待知识填充并被要求进行强行反思的“空无认知者”（[[Empty Knower]]）。这导致了教育目标的异化，使反思课程沦为市场体制下的工具技能训练。
+> IB 课程的核心机制遵循了[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式的教化（[[Bildung]]）路径，将学生预设为等待知识填充并被要求进行强行反思的“空无认知者”（[[Empty Knower]]）。这导致了教育目标的[[Alienation|异化]]，使反思课程沦为市场体制下的工具技能训练。
 
 > [!chain-link] 证据到判断
 > - **链节一：课堂中的“[[Resonant Oscillation\|共振震荡]]（Resonant Oscillation）”**

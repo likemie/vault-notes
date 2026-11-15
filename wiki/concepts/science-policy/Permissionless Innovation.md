@@ -8,7 +8,7 @@ aliases:
 summary: "一种强调在保留事后结果问责前提下，允许建造者先试先建、敏捷试错，而非在研发每一阶段申请前置行政许可的科技规制立场；核心主张在安全决策中同步权衡停滞与延宕的隐性代价，并通过监管沙盒、法定许可时限与开放公共试验场，打破防范假设性风险导致的原子世界规制瘫痪。"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Regulatory Sandbox]]"
   - "[[Pull Mechanisms for Innovation]]"
+  - "[[Alienation]]"
   - "[[Paradigm]]"
   - "[[Reliability]]"
   - "[[Clinical Trial]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -69,7 +70,7 @@ updated: 2026-11-03
 > - **显性计量“停滞的代价”（Pricing the Cost of Inaction）** 强制监管机构在出台限制前，必须评估推迟新技术部署给全社会带来的隐性健康、经济与战略安全损失。
 > - **真实世界实证数据优先（Real-World Evidence Priority）** 确立“好规则来源于现场试验”的理念，以真实运行数据替代案头推演与假设性风险恐惧。
 > - **开放易及的公共试验场基础设施（Accessible Testbeds）** 依托能源部国家实验室、莫哈韦航天港与联邦测试区，为车库创业团队与小微企业提供低成本共享试验台与免责试验执照。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 38–39)]]
-> - **联邦主义分布式制度试验（Federalist Policy Laboratories）** 赋能各州与地方政府开展差异化的[[Regulatory Sandbox|规制沙盒]]试验，使成功的监管[[Paradigm|范式]]快速扩散。
+> - **联邦主义分布式制度试验（Federalist Policy Laboratories）** 赋能各州与地方政府开展差[[Alienation|异化]]的[[Regulatory Sandbox|规制沙盒]]试验，使成功的监管[[Paradigm|范式]]快速扩散。
 
 > [!contrast-table] 比特世界与原子世界的规制失衡反思（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026, p. 39]]）
 > | 比较维度 | 比特世界（软件与互联网生态） | 原子世界（先进核能、生物硬件、航天与重工程） |

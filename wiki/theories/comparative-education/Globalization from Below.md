@@ -9,7 +9,7 @@ aliases:
 summary: "布雷彻等创立、阿诺夫引入比较教育学的批判社会运动与教育改革理论，指跨国界基层社会运动、原住民团体与教师工会依托数字通信构筑的以太流散空间，利用普世人权话语反哺抗争新自由主义自上而下的政策规训，通过跨国社会连带争取教育公平并推动世界体系向全球社会民主转型"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 36
+theory_related_count: 37
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Return on Investment]]"
   - "[[Educational Decentralization]]"
+  - "[[Alienation]]"
   - "[[School Vouchers]]"
   - "[[Costs Benefits Ratio in Research Ethics]]"
   - "[[Geopolitics]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -167,7 +168,7 @@ updated: 2026-11-11
 >     - **D1.1.2｜[[Shadow State|影子国家]]化收编指标**
 >       - **含义** 民间非政府组织通过承接政府或跨国基金会购买服务，演变为去政治化的行政附庸。
 >       - **观察线索** 组织资金重度依赖外部捐助、工作重点从政治维权转向迎合量化审计指标。
->       - **判读规则** 若民间团体丧失自主批判性而沦为外包福利承办商，判定为影子国家异化。
+>       - **判读规则** 若民间团体丧失自主批判性而沦为外包福利承办商，判定为影子国家[[Alienation|异化]]。
 >       - **归属与出处** 依据 Sutton and Arnove (2004) 及 Kamat (2004)。
 >   - **D1.2｜自下而上的基层与民间运动模式（Bottom-Up Counter-Hegemonic Model）**
 >     由一线教师工会、受压迫社区、原住民社群与学生自治会自发发起的权利抗争。

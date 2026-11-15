@@ -6,7 +6,7 @@ aliases:
 summary: "指专业从业者（教师与公职决策者）以维护专业实践完整性与批判思维的方式理解、审视与整合多元方法论研究的能力与德性；不仅是在有效性与适切性之间进行专业判断的中介素养，更是抵御后真相算法操纵、捍卫作为基本民主权利的科学素养的制度基石"
 type: concept
 domain: "teacher-education"
-related_count: 61
+related_count: 63
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Literature Search]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Mimesis]]"
   - "[[Rich and Thick Description]]"
   - "[[Operationalization]]"
   - "[[Variable]]"
@@ -44,6 +45,7 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Deficit Framing]]"
   - "[[Scientific Explanation]]"
+  - "[[Alienation]]"
   - "[[Reflexivity]]"
   - "[[Evidence-Based Education]]"
   - "[[School Enquiry Cycle]]"
@@ -86,7 +88,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -126,7 +128,7 @@ updated: 2026-11-11
 > |------|--------------------------|----------------|----------------|
 > | **分析重点** | 与科研证据打交道时的[[Professional Judgment\|专业判断力]]、批判审议与公民民主权利 | 教师在教学决策中行使自主裁决的能动空间 | 检索文献、阅读统计图表与撰写报告的操作技能 |
 > | **主体范围** | 涵盖一线教学人员、校领导及公共教育决策公职人员 | 主要聚焦于一线任课教师与教研群体 | 孤立的科研学习者或受训师范生 |
-> | **核心机制** | 技艺模型下的情境敏感度、多源方法批判与反商业操纵免疫 | 制度支撑与组织信任支持下的自主决断 | 流程性操作规范的训练与机械模仿 |
+> | **核心机制** | 技艺模型下的情境敏感度、多源方法批判与反商业操纵免疫 | 制度支撑与组织信任支持下的自主决断 | 流程性操作规范的训练与机械[[Mimesis\|模仿]] |
 > | **适用情境** | 教师审议教改方案、政策层审核大型拨款与公众参与理性审议 | 课程设计、教学法选择与评价改革全过程 | 具体的科研项目操作与数据统计计算任务 |
 
 ---
@@ -218,7 +220,7 @@ updated: 2026-11-11
 > **宏观治理反思与民主权利护卫** 将研究素养从微观课堂技能拓展为公共治理核心能力，探讨公职人员培训与批判性研究素养对守护科学公信力的决定性意义。
 
 > [!claim] Chalmers et al. (2018); [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]
-> **公职培训、多元方法批判与民主权利护卫** 在社交媒体算法茧房、反专家情绪滋长与商业自利操纵者（Spinners）将“证据知情”标签异化为营销噱头的后真相时代，研究素养不仅属于一线教师，更构成了公务员与政策决策者的法定核心能力（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 60, 69]]）。单纯提供更多数据或培训机械检索技能无法克服认知反弹；唯有在教师教育与公职人员培训中同步强化批判性审视与使用多元方法论各类研究（涵盖质性[[Rich and Thick Description\|深描]]、定量实验、[[Case Study\|案例研究]]与[[Action Research\|行动研究]]）的能力，打破对单一算法提示和平均[[Effect Size\|效应量]]的盲信，才能筑牢抵御自利操纵的认知免疫防线，将[[Scientific Literacy\|科学素养]]捍卫为公民有效参与公共治理的基本民主权利（Chalmers et al., 2018；[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 69]]）。
+> **公职培训、多元方法批判与民主权利护卫** 在社交媒体算法茧房、反专家情绪滋长与商业自利操纵者（Spinners）将“证据知情”标签[[Alienation|异化]]为营销噱头的后真相时代，研究素养不仅属于一线教师，更构成了公务员与政策决策者的法定核心能力（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 60, 69]]）。单纯提供更多数据或培训机械检索技能无法克服认知反弹；唯有在教师教育与公职人员培训中同步强化批判性审视与使用多元方法论各类研究（涵盖质性[[Rich and Thick Description\|深描]]、定量实验、[[Case Study\|案例研究]]与[[Action Research\|行动研究]]）的能力，打破对单一算法提示和平均[[Effect Size\|效应量]]的盲信，才能筑牢抵御自利操纵的认知免疫防线，将[[Scientific Literacy\|科学素养]]捍卫为公民有效参与公共治理的基本民主权利（Chalmers et al., 2018；[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 69]]）。
 
 ---
 

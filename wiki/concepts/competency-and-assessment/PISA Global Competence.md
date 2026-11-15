@@ -9,7 +9,7 @@ aliases:
 summary: "经合组织（OECD）在 PISA 2018 测评周期中确立的多维跨学科综合素养框架，评估青少年审视地方、全球和跨文化议题，理解与欣赏不同视角与世界观，与不同文化背景者进行开放、得体和有效互动，以及为了集体福祉与可持续发展采取行动的综合能力；由包含情境化认知任务的直接认知测验与学生背景问卷两部分组成，展现出从工具性劳动力技能向跨文化公民素养与全球社会责任的范式拓展，但也引发了学界关于西方价值观预设与量化治理的激烈争论。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Humility]]"
   - "[[Sustainability Education]]"
+  - "[[Alienation]]"
   - "[[The Sublime]]"
   - "[[Public Value]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -107,7 +108,7 @@ updated: 2026-11-14
 
 > [!lessons] 治理定位与全球影响
 > - **拓宽国家课程改革的育人视界** [[PISA]] 全球胜任力促使许多参测国突破传统孤立的学科知识边界，加速将[[Sustainability Education|可持续发展教育]]（ESD）、跨文化交流与联合国[[Global Citizenship|全球公民教育]]（GCED）理念纳入基础教育国家标准与校本特色课程。
-> - **防范量化指标对道德伦理的工具化收编** 教育哲学界警示，全球公民意识与同理心等深层人本素养具有丰富的历史文化内涵与实践伦理意义，若将其彻底异化为跨国排行榜上的竞争点数，将侵蚀全球教育合作的[[The Sublime|崇高]][[Public Value|公共价值]]。
+> - **防范量化指标对道德伦理的工具化收编** 教育哲学界警示，全球公民意识与同理心等深层人本素养具有丰富的历史文化内涵与实践伦理意义，若将其彻底[[Alienation|异化]]为跨国排行榜上的竞争点数，将侵蚀全球教育合作的[[The Sublime|崇高]][[Public Value|公共价值]]。
 
 ---
 

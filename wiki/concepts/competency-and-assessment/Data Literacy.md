@@ -7,7 +7,7 @@ aliases:
 summary: "涵盖个体在数字化社会中理解、解读与批判评估数据的通识能力，以及教育者在学校探究中系统采集质检多源数据、超越单一终结性评价、进行定性定量三角验证的专业实践胜任力；虽能精准诊断学情病因，但自身不包含现成教学策略，亟需与研究素养协同驱动完整的学校探究循环。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Analytical Stance]]"
   - "[[Data-Based Decision Making]]"
   - "[[Research Literacy]]"
+  - "[[Alienation]]"
   - "[[Formative Assessment]]"
   - "[[Data Infrastructure]]"
   - "[[Commensuration]]"
@@ -77,7 +78,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -91,7 +92,7 @@ updated: 2026-11-03
 > - **边界** 数据素养擅长基于校本数据诊断学业问题的深层病因，但其自身并不等同于教学干预方案的研制能力；必须与[[Research Literacy\|研究素养]]深度协同，才能完成由数据诊断向教学革新的完整循环。
 
 > [!citation-card] 曼迪纳赫与古默论教育者数据素养
-> 教师数据素养是指“教育者在特定教学情境中，系统性地收集、整合、分析与解释多源教育数据（涵盖学生学业测评、课堂行为及背景信息），将其转化为可操作的教学信息，进而作出知情的备课、差异化指导与课程评估决策的专业能力体系。”（Mandinach & Gummer, 2016，引于 [[Argument_Brown_2017_EducRes\|Brown et al., 2017, p. 167]]）
+> 教师数据素养是指“教育者在特定教学情境中，系统性地收集、整合、分析与解释多源教育数据（涵盖学生学业测评、课堂行为及背景信息），将其转化为可操作的教学信息，进而作出知情的备课、差[[Alienation|异化]]指导与课程评估决策的专业能力体系。”（Mandinach & Gummer, 2016，引于 [[Argument_Brown_2017_EducRes\|Brown et al., 2017, p. 167]]）
 >
 > *"Data literacy for teachers is the ability to transform information into actionable instructional knowledge and practices by collecting, analysing, and interpreting various types of data... to guide instructional decisions."*
 

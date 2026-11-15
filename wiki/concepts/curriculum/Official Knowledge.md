@@ -7,10 +7,10 @@ aliases:
 summary: "Apple 提出的批判课程论核心概念，指学校课程中被国家与支配群体选择性界定为合法、正当且值得传授的知识，反映并再生产社会中的文化权力关系与政治霸权"
 type: concept
 domain: "curriculum"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 person_related_color: "#bfdbfe"
 tags:
   - theme/power-knowledge
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Discipline-Based Theory]]"
   - "[[Selectivity]]"
   - "[[Pact of Domination]]"
+  - "[[Alienation]]"
   - "[[Knowledge Production]]"
   - "[[One Country, Two Systems]]"
   - "[[Policy Borrowing]]"
@@ -46,7 +47,7 @@ related_instruments: []
 confidence: high
 status: active
 created: '2026-05-21'
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -83,7 +84,7 @@ updated: 2026-11-03
 > - **政治选择性（Political [[Selectivity]]）** — 官方知识是从社会庞杂知识库中精心筛选出来的特定片段，筛选标准取决于[[Pact of Domination|统治契约]]与主导群体的利益。[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 59)]]
 > - **制度合法化（Institutional Legitimation）** — 通过赋予官方审核盖印，将特定文化传统升格为唯一的国家正统，使其他非主流经验边缘化。[[Argument_Xu_2024_CE\|(Xu, 2024, p. 576)]]
 > - **[[Cultural Hierarchy\|文化等级]]再生产（Cultural Hierarchy）** — 在传递知识内容的同时，隐性确立了谁的文化代表国家、谁的知识更为高级的文化秩序。[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]
-> - **差异化排除性（Exclusionary Boundaries）** — 未被纳入官方知识的少数民族历史或边缘群体经验，在体制层面被降格为次要或无关紧要的杂项。
+> - **差[[Alienation|异化]]排除性（Exclusionary Boundaries）** — 未被纳入官方知识的少数民族历史或边缘群体经验，在体制层面被降格为次要或无关紧要的杂项。
 
 > [!logic-map]- 官方[[Knowledge Production\|知识生产]]与再生产机制
 > ```mermaid

@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: "uk"
 person_region: "uk"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Policy Mobility]]"
   - "[[Governing by Numbers]]"
+  - "[[Alienation]]"
   - "[[Champ]]"
   - "[[Space of Places]]"
   - "[[Rescaling]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -82,7 +83,7 @@ updated: 2026-10-30
 ---
 
 > [!work-line] 主要著作
-> - **2003 — *Lost Geographies of Power*** 颠覆了传统的权力空间分布论，提出权力的空间形态并非均匀铺展，而是以集中、弥散、诱导或规训等不同模式在网络中差异化运作。
+> - **2003 — *Lost Geographies of Power*** 颠覆了传统的权力空间分布论，提出权力的空间形态并非均匀铺展，而是以集中、弥散、诱导或规训等不同模式在网络中差[[Alienation|异化]]运作。
 > - **2010 — *Assemblages of State Power: Topological Shifts in the Organization of Government and Politics*（与 Allan Cochrane 合著）** 提出当代国家治理已从严格的行政层级转向由多元主体装配而成的拓扑网络，权力以关系触达重塑区域与地方治理。
 > - **2011 — *Topological Twists: Power's Shifting Geographies*** 系统奠定了“拓扑权力”概念，论证远距离主体如何通过技术中介与关系折叠实现“物理缺席却实质临近”的治理效应。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, p. 137)]]
 > - **2016 — *Topologies of Power: Beyond territory and networks*** 进一步深化[[Topological Spatialisation\|拓扑空间]]理论，系统整合领土、网络与拓扑[[Champ\|场域]]，提出多重空间性并存的复杂[[Analytic Framework\|分析框架]]。

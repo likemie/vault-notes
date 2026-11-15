@@ -8,7 +8,7 @@ aliases:
 summary: "研究工具、数据和发现在跨时间、跨工具和跨受访者群体上的一致性、可依赖性与可复制性，是效度的必要非充分条件。量化研究中体现为稳定性、等值性与内部一致性三种形式；质性研究中转化为对自然情境的忠实记录与多观察者解释的可依赖性。在跨国测评中，过度追求统计信度常对构念效度与本土教育本体论构成压制。"
 type: concept
 domain: "research-methodology"
-related_count: 68
+related_count: 69
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Research Cage]]"
   - "[[Epistemology]]"
+  - "[[Alienation]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Evidence-Based Education]]"
@@ -92,7 +93,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-06-23
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -208,7 +209,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题四｜封闭评价系统中的高统计信度脱离教育实在易沦为无实质效度的[[Research Cage|研究牢笼]]
-> **循环评价与自指牢笼批判维度** 探讨实证评价系统在指标高度自洽与信度饱和的情况下，脱离外部真实教育实践的[[Epistemology|认识论]]异化风险。
+> **循环评价与自指牢笼批判维度** 探讨实证评价系统在指标高度自洽与信度饱和的情况下，脱离外部真实教育实践的[[Epistemology|认识论]][[Alienation|异化]]风险。
 
 > [!claim] [[Argument_Rømer_2018_EPT|Rømer (2018)]]
 > **自指互证模型中的高信度与零效度困境** 托马斯·奥斯特加德·勒默尔（[[Thomas Aastrup Rømer]]）针对[[John Hattie|约翰·哈蒂]]可见学习理论的批判指出，实证评价系统若将[[Independent Variable|自变量]]（教学干预）与[[Dependent Variable|因变量]]（学习产出）完全置于评价语言内部相互循环界定，整个指标模型能够展现出极高的统计信度（high reliability）与数据自洽性；但由于该系统切断了与外部真实教育实践、具体学科内容以及鲜活师生生命经验的实质联结，其真实教育效度几近于零。这种高度一致的统计信度并未反映客观真理，反而构成了将一线教育者与决策者囚禁于其中的“研究牢笼”（research cage）。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 6)]]

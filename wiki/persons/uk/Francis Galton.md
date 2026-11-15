@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 12
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,10 +25,12 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Wisdom of Crowds]]"
+  - "[[Genius]]"
   - "[[Reliability]]"
   - "[[Trustworthiness]]"
   - "[[Collective Intelligence]]"
   - "[[Technological Republic]]"
+  - "[[Alienation]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -44,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -60,7 +62,7 @@ updated: 2026-10-30
 > - **1822** 出生于英国伯明翰著名的达尔文-高尔顿家族。
 > - **1844** 毕业于剑桥大学三一学院数学与自然科学专业。
 > - **1850–1852** 前往西南非洲探险考察，获英国皇家地理学会金奖。
-> - **1869** 出版《遗传性天才》（*Hereditary Genius*），系统探讨人类智力差异与遗传机制。
+> - **1869** 出版《遗传性[[Genius|天才]]》（*Hereditary Genius*），系统探讨人类智力差异与遗传机制。
 > - **1880–1890年代** 提出回归均值（Regression toward the mean）与相关（Correlation）概念，极大启发了[[Karl Pearson|卡尔·皮尔逊]]（Karl Pearson）等人对现代数理统计学的构建。
 > - **1906** 在英格兰西南部普利茅斯参加西英格兰肥育家畜展览会，开展经典的公牛体重竞猜估算实验。
 > - **1907** 在《自然》（*Nature*）杂志发表《大众之声》（*Vox Populi*），公布 787 位参展者的中位数估算结果与真实重量误差仅为 0.8% 的惊人发现。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 171)]]
@@ -103,7 +105,7 @@ updated: 2026-10-30
 
 > [!person-network] 关系网络
 > - **表兄／学术对话者** 查尔斯·达尔文（Charles Darwin） — 高尔顿深受达尔文进化论启发，并致力于将进化概念拓展至心智与社会测量。
-> - **引用与评述者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》第15章引述其 1906 年实验以剖析“[[Wisdom of Crowds|群体智慧]]”在市场资本配置中的边界与异化。
+> - **引用与评述者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》第15章引述其 1906 年实验以剖析“[[Wisdom of Crowds|群体智慧]]”在市场资本配置中的边界与[[Alienation|异化]]。
 
 ---
 

@@ -7,7 +7,7 @@ aliases:
 summary: "学习者在学科中从具体经验与运算规则向高阶抽象概念体系逐步演进的认知与课程发展路径；在实证因果数据匮乏情境下，学科公理演进与认识论上升成为课程标准与学习进阶研制的根本推理基石"
 type: concept
 domain: "curriculum"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Problem Solving]]"
   - "[[Document]]"
+  - "[[Alienation]]"
   - "[[Discourse]]"
   - "[[Powerful Knowledge]]"
   - "[[Constructivist Paradigm]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-06'
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -116,7 +117,7 @@ updated: 2026-11-11
 
 ---
 
-> [!concept-proposition] 命题二｜认识论上升若脱离一线教学实践的具象检验，易异化为脱离课堂现实的抽象学术推演
+> [!concept-proposition] 命题二｜认识论上升若脱离一线教学实践的具象检验，易[[Alienation|异化]]为脱离课堂现实的抽象学术推演
 > **抽象学科逻辑与具体课堂情境的现实张力** 探讨高度抽象的学术公理推演如何转化为一线普通教师可教、普通学生可学的现实课程进程。
 
 > [!claim] [[Argument_McPhail_2023_JCS|McPhail et al. (2023)]]

@@ -9,7 +9,7 @@ subtype: organization
 region: "new-zealand"
 fact_region: "new-zealand"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Venture Philanthropy]]"
   - "[[Deficit Framing]]"
+  - "[[Alienation]]"
   - "[[Document]]"
   - "[[School Leadership]]"
   - "[[New Managerialism]]"
@@ -44,7 +45,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -125,7 +126,7 @@ updated: 2026-11-11
 > > [!axis] 管理技能支持 vs [[Deficit Framing|缺陷框架]]与去专业化
 > > 引入商界人士辅导公立学校校长是否真正解决了教育危机。
 > >
-> > - **批评视角（批判教育社会学）** 跳板信托模式将薄弱学校困境单向归咎于校长缺乏商业规划技能的“缺陷框架”，掩盖了公费财政拨款不足与贫困隔离等结构性矛盾；不懂教育规律的银行家对校长进行辅导，异化了教育领导力的育人本职。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 38)]]
+> > - **批评视角（批判教育社会学）** 跳板信托模式将薄弱学校困境单向归咎于校长缺乏商业规划技能的“缺陷框架”，掩盖了公费财政拨款不足与贫困隔离等结构性矛盾；不懂教育规律的银行家对校长进行辅导，[[Alienation|异化]]了教育领导力的育人本职。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 38)]]
 > > - **机构立场（正方）** 战略规划是现代组织运行的普适通用法则，商界志愿者的系统训练切实提升了校长的资源调配效率与治校信心。
 
 > [!citation-card] 代表性批评与反思[[Document|文献]]

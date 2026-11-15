@@ -32,6 +32,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Open-Mindedness]]"
   - "[[Network Governance]]"
+  - "[[Alienation]]"
   - "[[Reflexivity]]"
   - "[[Patient Capital]]"
   - "[[Valley of Death]]"
@@ -74,14 +75,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-03
-updated: 2026-10-29
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Mazzucato_2018_ICC"
 argument_key: "Argument_Mazzucato_2018_ICC"
 argument_display_title: "Mission-oriented innovation policies: challenges and opportunities"
 argument_kind: "journal-article"
-argument_related_count: 44
+argument_related_count: 45
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -175,7 +176,7 @@ argument_related_color: "#dbeafe"
 
 > [!feature] 现代使命导向政策的四大治理准则
 > - **精准界定的战略挑战** 任务目标必须足够具体清晰，以便设立明确的中期里程碑、可交付成果与动态问责机制，防止因治理目标过于宽泛而沦为行政空话或被既得利益集团俘获。
-> - **组合式项目管理** 创新具有内生的高度不确定性，使命不可押注于单一孤立项目，而必须构建差异化的研发（Research and Development, R&D）与创新项目组合，坦然接纳探索失败并建立在实践中学习的反思机制。
+> - **组合式项目管理** 创新具有内生的高度不确定性，使命不可押注于单一孤立项目，而必须构建差[[Alienation|异化]]的研发（Research and Development, R&D）与创新项目组合，坦然接纳探索失败并建立在实践中学习的反思机制。
 > - **全经济跨部门投资** 使命必须拉动全经济范围内的跨行业、跨主体投资，吸纳公共部门、私营企业、学术界与第三部门共同攻关，而非局限于单一产业。
 > - **协同联动的政策工具** 将宏观战略优先级转化为各级公共机构切实可行的具体政策工具，并在不同公共部门之间建立明确的战略分工、协调与监测机制。
 

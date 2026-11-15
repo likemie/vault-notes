@@ -52,6 +52,7 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Separate Orbits Metaphor]]"
+  - "[[Alienation]]"
   - "[[Data Literacy]]"
   - "[[Phronesis]]"
   - "[[Research Problem]]"
@@ -94,14 +95,14 @@ sources:
 part_of:
 status: completed
 created: 2026-10-23
-updated: 2026-11-11
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Campbell_2026_JPCC"
 argument_key: "Argument_Campbell_2026_JPCC"
 argument_display_title: "Research and evidence use in education policy: supranational discourses, systemic conditions and implications for decision-making communities"
 argument_kind: "journal-article"
-argument_related_count: 57
+argument_related_count: 58
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -239,7 +240,7 @@ issuing_organization: ""
 > | **Strategic Review**<br>UNESCO IIEP (2025) | 将证据界定为高度依赖人际关系与系统共建的产物 | “区域桥梁”、“知识公平”、“联结两个世界” | 全球知识主导地位与本土情境适配性之间的张力 | 凸显一线实践者深度参与及区域自主权的确立 |
 > | **Policy Brief #6**<br>UNESCO IIEP Dakar (2025) | 将证据视作驱动教育变革与本土创新的关键工具 | “弥合研究与政策”、“本土自主倡议” | 生态系统碎片化；各主体间缺乏有效协调规程 | 呼吁巩固本土专业协作网络并推进包容性政策审议 |
 > | **GEEAP Terms of Reference**<br>[[World Bank]] (2024) | 将证据塑造成经过因果严谨性综合的高性价比产品 | “[[Smart Buys\|智能购买]]”、“资源约束下的决策优化” | 顾问小组独立性宣称与召集机构隐性政策导向博弈 | 提示必须高度关注实证结论在具体情境中的落地指引 |
-> | **Everybody Cares... Sometimes**<br>[[OECD]] (2025) | 将证据界定为指导中介主体行动的战略行动指南 | “知识中介”、“动员活动谱系” | 实践采纳极度不均衡；象征性利用压倒工具性利用 | 强调提供差异化传播方案与全方位中介支持网络 |
+> | **Everybody Cares... Sometimes**<br>[[OECD]] (2025) | 将证据界定为指导中介主体行动的战略行动指南 | “知识中介”、“动员活动谱系” | 实践采纳极度不均衡；象征性利用压倒工具性利用 | 强调提供差[[Alienation\|异化]]传播方案与全方位中介支持网络 |
 
 > [!sub-claim] 3. 核心案例深度解构：经合组织与世界银行的话语建构实践
 

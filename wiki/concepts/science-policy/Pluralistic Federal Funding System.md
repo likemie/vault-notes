@@ -10,10 +10,10 @@ aliases:
 summary: "二战后美国形成的由国家科学基金会（NSF）与国防部（ONR/DARPA）、能源部（AEC/DOE）、卫生与公众服务部（NIH）、宇航局（NASA）等多家任务导向型联邦机构共同构成的去中心化科研资助体制；突破了布什报告设想的单一集权基金会模式，各机构采用多元评审标准与差异化使命，为大学研究人员提供了多重资助申请渠道与高风险学术容错空间。"
 type: concept
 domain: "science-policy"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/science-policy
   - region/us
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Megascience Installations]]"
   - "[[Technology Transfer]]"
+  - "[[Alienation]]"
   - "[[Research Universities]]"
   - "[[Creativity]]"
   - "[[Academic Risk Aversion]]"
@@ -56,7 +57,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -139,7 +140,7 @@ updated: 2026-11-11
 >   1. **降低学术评审的单点失效风险** 若某一机构的评审委员会因学派偏见否决了某项颠覆性申请，学者可根据课题的应用侧面转向其他任务型机构（如转投 [[Office of Naval Research|ONR]]、[[DARPA]] 或 [[National Institutes of Health|NIH]]）申请资助；
 >   2. **评审哲学的多维互补** [[National Science Foundation|NSF]]/NIH 严格依赖委员会匿名结构化同行评议，保障程序公正与学术扎实；而 ONR/DARPA 则采用项目官员（Program Officer）广泛协商拍板制，专门容忍高失败率但高回报的高风险颠覆性探索；[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 36–38)]]
 >   3. **紧密衔接国家现实安全与公共卫生需求** 任务型机构的巨额注资使基础前沿科学能够快速转化为国防雷达、激光、计算机网络及现代生物医药产业。
-> - **当代体制异化与潜在张力**
+> - **当代体制[[Alienation|异化]]与潜在张力**
 >   1. **学科资助极度失衡** 政治游说更容易争取健康与防务预算，导致 NIH 经费独大（生物医学急剧膨胀），而数理化、地学与社科基础学科长期处于相对饥渴状态；[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
 >   2. **跨部门预算协同成本高昂** 缺乏绝对中央指挥部，各部委存在一定程度的重复资助与部门壁垒，高度依赖白宫 [[Office of Science and Technology Policy|OSTP]] 与 OMB 的顶层磋商协调。
 

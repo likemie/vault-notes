@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Research Universities]]"
   - "[[Early-Career Researchers]]"
+  - "[[Alienation]]"
   - "[[Academic Freedom]]"
   - "[[Going Native]]"
   - "[[University-Industry Collaboration]]"
@@ -31,6 +32,7 @@ related_concepts:
   - "[[Pluralistic Federal Funding System]]"
   - "[[Carnegie Classification of Institutions of Higher Education]]"
   - "[[Competitiveness]]"
+  - "[[Mimesis]]"
   - "[[Technology Transfer Office]]"
   - "[[Philosophical Aesthetics]]"
   - "[[Megascience Installations]]"
@@ -97,14 +99,14 @@ sources:
 part_of:
 status: completed
 created: 2026-10-02
-updated: 2026-11-14
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Atkinson_2008_TIS"
 argument_key: "Argument_Atkinson_2008_TIS"
 argument_display_title: "Research universities: Core of the US science and technology system"
 argument_kind: "journal-article"
-argument_related_count: 67
+argument_related_count: 69
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -125,7 +127,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **对象** 欧洲大学历史传统、美国研究型大学从 19 世纪末至 21 世纪初的制度演进、联邦研发预算与高校科研经费配置格局、西欧与东亚高校科研治理结构。
 > - **张力** 中央教育部行政集权 vs 地方多元自主竞争；纯科学学术自治 vs 工业应用与国防需求；同行评议择优资助 vs 国会政治游说分肥；原创性高风险探索 vs 经费短缺压力下的学术避险。
-> - **贡献** 摆脱了将战后美国科研崛起单纯归结为经费规模扩大的单一视角，从制度演进史与比较组织分析角度，阐明了去中心化竞争生态与研究生科研共生机制的决定性作用，并深入剖析了微观科研评审机制异化对青年学者研究取向的负面影响。
+> - **贡献** 摆脱了将战后美国科研崛起单纯归结为经费规模扩大的单一视角，从制度演进史与比较组织分析角度，阐明了去中心化竞争生态与研究生科研共生机制的决定性作用，并深入剖析了微观科研评审机制[[Alienation|异化]]对青年学者研究取向的负面影响。
 
 ---
 
@@ -286,7 +288,7 @@ issuing_organization: ""
 
 > [!sub-claim] 2. 跨国制度移植受阻：西欧、东亚四国案例比较
 
-欧洲大陆与东亚各国在战后均试图模仿美国模式，但由于深层治理传统的[[Path Dependence|路径依赖]]，改革面临着不同的结构性阻碍。
+欧洲大陆与东亚各国在战后均试图[[Mimesis|模仿]]美国模式，但由于深层治理传统的[[Path Dependence|路径依赖]]，改革面临着不同的结构性阻碍。
 
 > [!quad-grid] 欧亚四国高校科研体制与制度移植瓶颈案例分析
 > - **德国：独立科研学会与大学讲席制壁垒**

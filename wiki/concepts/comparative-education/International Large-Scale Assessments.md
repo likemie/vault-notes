@@ -9,7 +9,7 @@ aliases:
 summary: "由政府间组织或跨国学术联盟（如 OECD、IEA）主持，采用标准化跨文化心理测量学技术（如 IRT、矩阵抽样）与代表性概率抽样，对不同国家和地区的学生或成年人群体的认知素养与背景变量进行系统测度与比较分析的大型评价范式。作为“硬事实施展软权力”与数字治理的物质技术中枢，推动全球教育从“投入要素规制”迈向“基于产出与排名的绩效规制”，但亦因诱发 PISA 冲击、课程狭窄化及全球趋同而饱受批判。"
 type: concept
 domain: "comparative-education"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Externalization]]"
   - "[[Soft Power]]"
+  - "[[Alienation]]"
   - "[[Competitiveness]]"
   - "[[Commensuration]]"
   - "[[Knowledge-Based Economy]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -144,7 +145,7 @@ updated: 2026-11-11
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **制度繁衍命题** | 指标测评从工具异化为自给自足的全球数字规制帝国 | 经合组织评价工具矩阵的跨学段扩张 | [[Christian Ydesen\|Ydesen]]; [[Gita Steiner-Khamsi\|Steiner-Khamsi]] |
+> | **制度繁衍命题** | 指标测评从工具[[Alienation\|异化]]为自给自足的全球数字规制帝国 | 经合组织评价工具矩阵的跨学段扩张 | [[Christian Ydesen\|Ydesen]]; [[Gita Steiner-Khamsi\|Steiner-Khamsi]] |
 > | **政治借力命题** | 跨国分数危机被国家行政当局策略性挪用为改革合法化盾牌 | 经历 PISA 冲击或面临国内改革阻力的主权国家 | [[Kerstin Martens\|Martens]]; [[Gita Steiner-Khamsi\|Steiner-Khamsi]] |
 
 ---

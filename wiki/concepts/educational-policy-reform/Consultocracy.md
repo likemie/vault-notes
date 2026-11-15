@@ -8,7 +8,7 @@ aliases:
 summary: "指跨国私营战略咨询公司（如麦肯锡、波士顿咨询、贝恩及四大核数所）深度嵌入并系统主导国家公共政策制定、机构重组与教育改革方案的政治治理现象，伴随公共行政能力外包与商业量规对民主审议的置换。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Co-affiliation]]"
   - "[[Confidentiality]]"
   - "[[Champ]]"
+  - "[[Alienation]]"
   - "[[New Managerialism]]"
   - "[[Cognitive Deskilling]]"
   - "[[Public Dynamic Capabilities]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -112,7 +113,7 @@ updated: 2026-11-03
 > **行政能力与制度空心化** 探讨私营咨询公司的结构性渗透如何掏空常任官僚系统的政策研发专长，迫使国家陷入依赖私营寡头供给政策处方的制度锁定。
 
 > [!claim] [[Helen Gunter\|Gunter, H.]] M., Hall, D., & Mills, C. (2015)
-> **咨询政治对国家政策生产能力的重塑** 顾问统治是对教育政策生产[[Champ\|场域]]的深度重组，有别于中立的技术支持服务。跨国管理咨询公司在政策制定初期即设定议题边界，将企业重组逻辑转化为国家教育政策标准，导致教育部门丧失独立思考能力，由公共政策制定者异化为私营咨询成果的采购与验收机构（Gunter et al., 2015, pp. 518–522）。
+> **咨询政治对国家政策生产能力的重塑** 顾问统治是对教育政策生产[[Champ\|场域]]的深度重组，有别于中立的技术支持服务。跨国管理咨询公司在政策制定初期即设定议题边界，将企业重组逻辑转化为国家教育政策标准，导致教育部门丧失独立思考能力，由公共政策制定者[[Alienation|异化]]为私营咨询成果的采购与验收机构（Gunter et al., 2015, pp. 518–522）。
 
 > [!claim] [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]
 > **全澳咨询采购扩张与公共行政空心化实证** 澳大利亚管理咨询人均支出跃居全球第一的实证事实证明，国家并未消失，是演化为咨询寡头的巨额买单者与催化平台。在 [[Social Ventures Australia\|SVA]] 推动 [[Australian Education Research Organisation\|AERO]] 与 [[Australian Schools Plus\|Schools Plus]] 等中介机构的二十年历程中，麦肯锡等前高管主导了政策建议书起草与中介机构架构设计，使公共教育改革彻底受制于商业咨询逻辑的摆布。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520–524)]]

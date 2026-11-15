@@ -9,7 +9,7 @@ aliases:
 summary: "国际公认的干预方案详细描述与可复现性12项标准化核查清单，由Hoffmann et al.（2014）研制，用于详尽解构并规范记录复杂干预的变革理论、材料、程序、递送模式、实施剂量与保真度，被EEF强制采纳为破解教育试验黑箱的标准工具。"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 14
+instrument_related_count: 15
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#e5e7eb"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Strategic Compliance]]"
   - "[[Causality]]"
+  - "[[Alienation]]"
   - "[[Preregistration]]"
 related_theories:
   - "[[Theory of Change]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-26
+updated: 2026-11-15
 ---
 
 ---
@@ -112,7 +113,7 @@ updated: 2026-10-26
 > | **Item 6** | 递送形态（How） | 说明干预是面对面开展还是远程数字实施，是个别化 1 对 1 辅导、小组协作还是全班授课。 | 厘清微观社会互动情境与技术载体 | Hoffmann et al. (2014, pp. 4–5) |
 > | **Item 7** | 物理环境（Where） | 说明干预实施的具体场所（如常规教室、课后专用教室、校外机构）及其关键的物理与组织环境特征。 | 记录空间情境对干预实施的潜在约束 | Hoffmann et al. (2014, p. 5) |
 > | **Item 8** | 日程与剂量（When & How Much） | 详细说明干预的总次数、各阶段实施频率、单次教学持续分钟数以及总体预计接触暴露时长。 | 确立[[Causality\|因果推断]]所需的精确量化剂量门槛 | Hoffmann et al. (2014, pp. 5–6) |
-> | **Item 9** | 适应微调（Tailoring） | 说明干预方案是否允许针对学生先前学力、阅读水平或特殊需求进行计划内的差异化微调及其调整规则。 | 区分规范性因材施教与随意违规变通 | Hoffmann et al. (2014, p. 6) |
+> | **Item 9** | 适应微调（Tailoring） | 说明干预方案是否允许针对学生先前学力、阅读水平或特殊需求进行计划内的差[[Alienation\|异化]]微调及其调整规则。 | 区分规范性因材施教与随意违规变通 | Hoffmann et al. (2014, p. 6) |
 > | **Item 10** | 过程修正（Modifications） | 说明在试验执行期间，干预方案因实地突发情况或阻力而发生的任何未预先计划的变更、删减或增补。 | 捕捉田野妥协，防止评价脱靶 | Hoffmann et al. (2014, Table 1) |
 > | **Item 11** | 计划保真度（How Well: Planned） | 说明研究团队在方案设计中预先规划了哪些策略以确保干预按原设计高保真度实施（如培训考核、辅导日志、课堂抽检）。 | 评估干预设计的质控防护网严密性 | Hoffmann et al. (2014, Box 1) |
 > | **Item 12** | 实测依从度（How Well: Actual） | 说明评估者在实地通过独立观察、录音录像编码、[[Questionnaire\|问卷]]核查等手段实际测得的教师与学生遵从度、到达率与实施质量。 | 确证是“干预本身无效”还是“实施走样导致失败” | Hoffmann et al. (2014, Box 2) |

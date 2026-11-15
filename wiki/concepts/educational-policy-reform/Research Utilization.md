@@ -11,7 +11,7 @@ aliases:
 summary: "研究知识进入政策与实践过程的多种路径与机制，涵盖研发、问题解决、互动与战术模型；经历从单向推送、协同生产到系统生态的三代演进，并在当代走向权力共享的证据民主化与长效伙伴关系；在宏观政策生命周期中面临政治过滤，在中观上受治理机制制约，在微观上表现为知觉控制驱动的专业教学整合行为。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 141
+related_count: 142
 related_level: 14
 related_stars: "💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -22,6 +22,7 @@ tags:
   - theme/knowledge-mobilization
 related_concepts:
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
+  - "[[Alienation]]"
   - "[[Technical Rationality]]"
   - "[[Discourse]]"
   - "[[Professional Judgment]]"
@@ -171,7 +172,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -181,7 +182,7 @@ updated: 2026-11-11
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向科研成果从学术生产端向决策与教学实践端流动的多元非线性转化机制，涵盖微观教师教学整合、中观学校治理生态与宏观政策各阶段的动态功能演进。
-> - **用途** 帮助研究者透视“为什么高质量实证证据常被一线忽视或被政策异化”，破除线性[[Technical Rationality|技术理性]]迷思，揭示驱动知行转化、去政治化护盾构建与证据落地的深层心理、组织与制度机制。
+> - **用途** 帮助研究者透视“为什么高质量实证证据常被一线忽视或被政策[[Alienation|异化]]”，破除线性[[Technical Rationality|技术理性]]迷思，揭示驱动知行转化、去政治化护盾构建与证据落地的深层心理、组织与制度机制。
 > - **边界** 反对将研究利用简化为“外部证据单向输入 $\rightarrow$ 机械执行套用”的工程式流水线；研究利用本质上受个体知觉行为控制、组织信任环境、政策阶段需求与专业价值规范的多维调控。
 
 > [!citation-card] 政策研制中的去政治化护盾与多源知识协同
@@ -249,7 +250,7 @@ updated: 2026-11-11
 
 > [!factors] 宏观政策周期的证据过滤与系统制度制约
 > - **两阶段政策周期的证据过滤机制（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024]]）** 证据利用在宏观政策周期中呈现高度的阶段断层与政治漏斗效应：专家咨询委员会在议程设置阶段广泛汇聚海量研究证据，但行政决策首脑机关在起草法定政令时实施严苛的政治与可行性过滤，仅选择性吸纳极少数符合自身施政意志并能提供外部合法化背书的特定证据（转化率仅 4.7%）。
-> - **政策端证据利用的交易型异化与两极化分化（Transactional Procurement & Functional Polarization）** 政策制定中研究利用呈现显著的两极割裂：在方案设计（70%）、系统问题诊断（65%）和成效评估（61%）等[[Technical Rationality\|技术理性]]环节高频采用，但在激发利益相关方对话与协作（47%）、赢得信任（42%）和撬动政治议程（仅 33%）等交往理性与政治审议维度急剧萎缩；决策层将学术界视作证据原料供应商，短视采买现成方案用于内部闭门论证，极少在公共政治[[Champ\|场域]]中发挥促进平等对话与化解价值冲突的交往功能。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 93–95)]]
+> - **政策端证据利用的交易型[[Alienation|异化]]与两极化分化（Transactional Procurement & Functional Polarization）** 政策制定中研究利用呈现显著的两极割裂：在方案设计（70%）、系统问题诊断（65%）和成效评估（61%）等[[Technical Rationality\|技术理性]]环节高频采用，但在激发利益相关方对话与协作（47%）、赢得信任（42%）和撬动政治议程（仅 33%）等交往理性与政治审议维度急剧萎缩；决策层将学术界视作证据原料供应商，短视采买现成方案用于内部闭门论证，极少在公共政治[[Champ\|场域]]中发挥促进平等对话与化解价值冲突的交往功能。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 93–95)]]
 > - **获取渠道对熟人人际网络的极端依附（Interpersonal Access Bias）** 决策官员获取研究成果高度偏向人际口头转译（92% 咨询外部专家、84% 咨询内部研究员、84% 参加学术会议、78% 定向委托课题）；而自主检索学术数据库（57%）与查阅同行评议质量研究库（59%）明显偏低，表现出对二次口头加工建议的重度依赖与研读原始学术文献的制度短板。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 94–95)]]
 > - **决策公职人员循证能力培训的系统性匮乏（Administrative Capacity Deficit）** 全样本中仅 39% 的系统认可政策制定者具备充分的专业学习机会以提升研究知识与技能，超六成（61%）持中立或反对立场，形成行政决策主体循证素养的能力瓶颈。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, p. 94)]]
 > - **外层高利害问责体制的支配性制约（Accountability Primacy）** 在基础教育体系中，以英国教育标准局（[[Ofsted]]）为代表的高利害[[School Inspection\|学校督导]]问责对校长与教师的办学实践拥有绝对支配权；研究利用若无法使循证改进成为学校应对督导评估的有效支撑，极易被一线专业人员视作额外负担而遭到边缘化排斥。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 150–151)]]

@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: netherlands
 person_region: "netherlands"
-person_related_count: 42
+person_related_count: 43
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Champ]]"
   - "[[Epoché]]"
+  - "[[Alienation]]"
   - "[[Scientism]]"
   - "[[Visible Learning]]"
 related_theories:
@@ -178,7 +179,7 @@ updated: 2026-11-15
 > |:-----|:-----|:-----|
 > | [[Evidence-Based Education]] | 概念 | 提出著名的[[Epistemology\|认识论]]、存在论与实践论三重缺陷批判模型，反思技术专制。 |
 > | [[Value-Based Education]] | 概念 | 提出价值审议与教育目的论应构成教育实践与政策的基石。 |
-> | [[Learnification]] | 概念 | 提出核心概念，批判当代教育将教化目的化简为个体自利技能获取的“学习化”异化。 |
+> | [[Learnification]] | 概念 | 提出核心概念，批判当代教育将教化目的化简为个体自利技能获取的“学习化”[[Alienation\|异化]]。 |
 > | [[Phronesis]] | 概念 | 将实践智慧确立为超越机械实证规则的教师[[Professional Judgment\|专业判断]]本质。 |
 > | [[Transactional Epistemology]] | 理论 | 与 Burbules 合作系统阐述[[John Dewey\|杜威]]交易认识论，构筑反思[[Scientism\|科学主义]]的哲学基石。 |
 > | [[Visible Learning]] | 概念 | 追问评价效能究竟服务于何种教育期望，其被动性哲学成为解构[[John Hattie\|哈蒂]]体系的关键思想资源。 |

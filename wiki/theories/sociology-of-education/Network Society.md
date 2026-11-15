@@ -6,7 +6,7 @@ aliases:
 summary: "曼纽尔·卡斯特开创的宏观社会学理论，将现代社会组织形态界定为由流动网络而非垂直科层等级主导的结构，阐明流动空间与场所空间、网络化知识生产及全球教育治理的跨国重构机制"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 53
+theory_related_count: 54
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Floating Signifier]]"
   - "[[Space of Places]]"
+  - "[[Alienation]]"
   - "[[Bureaucracy]]"
   - "[[Champ]]"
   - "[[Geopolitics of Higher Education]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-11
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -91,7 +92,7 @@ updated: 2026-11-11
 > - **知识位置** 由西班牙社会学家[[Manuel Castells|曼纽尔·卡斯特]]（[[Manuel Castells]]）奠基，经尤查·本克勒（Yochai Benkler）拓展至[[Knowledge-Based Economy|知识经济]]与协作生产，并由[[Jason Beech|杰森·比奇]]（[[Jason Beech]]）和[[Fazal Rizvi|法扎尔·里兹维]]（[[Fazal Rizvi]]）引入比较教育学与高等教育研究，用于解释[[Global Policy Space|全球政策空间]]的[[Discourse|话语]]流通与跨国科研合作的重组机制。
 
 > [!claim] 核心判断
-> 现代社会的主导组织形态正在从垂直的领土科层等级制转向弹性的水平网络；战略性权力和价值创造高度集中于跨越地理疆界的[[Space of Flows|流动空间]]，催生出掌握技术与资本的[[Cosmopolitanism|世界主义]]精英与受困于场所空间的本土大众之间的深刻撕裂；在全球教育治理与学术生产中，传统的国家间借贷关系被多边行动者交织的[[Network Governance|网络化治理]]所取代，高度抽象的通用政策方案作为[[Floating Signifier|漂浮能指]]跨界扩散，并在落入[[Space of Places|地方空间]]时遭遇严重的制度脱节与实践异化。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–355)]]; [[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 98–99)]]
+> 现代社会的主导组织形态正在从垂直的领土科层等级制转向弹性的水平网络；战略性权力和价值创造高度集中于跨越地理疆界的[[Space of Flows|流动空间]]，催生出掌握技术与资本的[[Cosmopolitanism|世界主义]]精英与受困于场所空间的本土大众之间的深刻撕裂；在全球教育治理与学术生产中，传统的国家间借贷关系被多边行动者交织的[[Network Governance|网络化治理]]所取代，高度抽象的通用政策方案作为[[Floating Signifier|漂浮能指]]跨界扩散，并在落入[[Space of Places|地方空间]]时遭遇严重的制度脱节与实践[[Alienation|异化]]。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–355)]]; [[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 98–99)]]
 
 ---
 

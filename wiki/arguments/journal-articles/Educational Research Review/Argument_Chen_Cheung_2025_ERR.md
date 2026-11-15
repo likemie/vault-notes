@@ -66,6 +66,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Scaffolding]]"
   - "[[Null Hypothesis]]"
+  - "[[Mimesis]]"
   - "[[Falsification]]"
   - "[[Fade-out Effect]]"
   - "[[Philosophical Aesthetics]]"
@@ -125,14 +126,14 @@ sources:
 part_of:
 status: draft
 created: 2026-09-04
-updated: 2026-11-14
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Chen_Cheung_2025_ERR"
 argument_key: "Argument_Chen_Cheung_2025_ERR"
 argument_display_title: "Effect of generative artificial intelligence on university students learning outcomes: A systematic review and meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 95
+argument_related_count: 96
 argument_related_level: 9
 argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
@@ -289,7 +290,7 @@ issuing_organization: ""
 > [!spectrum] 学习产出促学效应阶梯谱系
 > **← 表层语言符号组织（高获益）**　·　**深层元认知调控（无显著获益） →**
 >
-> - **[[Language Skills\|语言技能]]（LS）** 极强直接促进，聚焦语法重构、词汇丰富度、体裁模仿与低焦虑口语演练
+> - **[[Language Skills\|语言技能]]（LS）** 极强直接促进，聚焦语法重构、词汇丰富度、体裁[[Mimesis|模仿]]与低焦虑口语演练
 > - **[[Academic Achievement\|学业成绩]]（AA）** 稳步中强增益，聚焦概念理解深化、疑难知识点即时释疑与阶段测验提升
 > - **[[Affective Outcomes\|情感动机]]（AMS）** 显著积极调适，满足自主性与胜任感、极大释放求助焦虑并激发探索好奇
 > - **[[Higher-Order Thinking Skills\|高阶思维]]（HOT）** 中度思维支架，赋能发散[[Brainstorming\|头脑风暴]]、结构化辩难支持与复杂方案设计

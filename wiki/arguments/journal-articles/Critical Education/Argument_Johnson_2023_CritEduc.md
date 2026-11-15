@@ -7,7 +7,7 @@ title: "Argument_Johnson_2023_CritEduc"
 argument_key: "Argument_Johnson_2023_CritEduc"
 argument_display_title: "Leading the blind: A critical look at Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 55
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Performativity]]"
   - "[[Global Education Reform Movement]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Alienation]]"
   - "[[Document]]"
   - "[[Class Size]]"
   - "[[Educational Decentralization]]"
@@ -97,7 +98,7 @@ sources:
 part_of: ""
 status: draft
 created: "2026-05-04"
-updated: 2026-10-29
+updated: 2026-11-15
 ---
 ---
 
@@ -124,7 +125,7 @@ updated: 2026-10-29
 > | **[[Global Education Reform Movement\|全球教育改革运动（Global Education Reform Movement, GERM）]]** | 借用[[Pasi Sahlberg\|帕西·萨尔伯格（Pasi Sahlberg）]]的[[Analytic Framework\|分析框架]]，揭示 VL 如何迎合新自由主义削减公共开支、强化标准化问责与推进服务外包的治理取向。 |
 
 > [!warrant]- 理论如何支撑论证
-> 五组理论工具逐层递进，将表面上的统计学缺陷与深层社会制度联系起来：首先运用科学哲学辨析其伪科学属性；接着运用劳动过程理论说明其在课堂上对[[Teacher Professional Agency|教师专业自主权]]的压缩；再通过教育社会学展现一线教师遭遇的职业异化；最终上升至政治经济学，揭露其服务于政府财政紧缩与教育商业化的真实功能。
+> 五组理论工具逐层递进，将表面上的统计学缺陷与深层社会制度联系起来：首先运用科学哲学辨析其伪科学属性；接着运用劳动过程理论说明其在课堂上对[[Teacher Professional Agency|教师专业自主权]]的压缩；再通过教育社会学展现一线教师遭遇的职业[[Alienation|异化]]；最终上升至政治经济学，揭露其服务于政府财政紧缩与教育商业化的真实功能。
 
 ---
 

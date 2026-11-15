@@ -4,7 +4,7 @@ aliases: ["波动性-不确定性-复杂性-模糊性", "VUCA 框架", "VUCA环�
 summary: "描述 21 世纪组织与社会环境的四维概念，分别指波动性、不确定性、复杂性和模糊性，也可作为将结构性问题个体化的治理话语工具"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ related_concepts:
   - "[[Problematisation]]"
   - "[[Fourth Industrial Revolution]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Governmentality]]"
 related_methods:
@@ -28,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 > [!info] 定义
@@ -56,6 +57,6 @@ VUCA 将全球教育转型所面临的挑战表述为一组看似中立的客观
 
 > [!warning] 争议与批评
 > - **结构问题个体化** VUCA 的[[Governmentality\|治理术]]功能在于将教育面临的系统性挑战（全球不平等、劳动力市场结构性变革、后殖民权力差异）框定为个体层面的适应问题，从而使个体——而非政府、国际组织或雇主——承担应对不确定性的全部责任([[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, pp.264-265]])
-> - **[[Single-Case Design\|SCD]] 作为"唯一解"的预设** VUCA [[Discourse|话语]]假定面对复杂不确定环境，唯一的理性回应是装备以可市场化技能——这排除了其他可能的回应方式（如结构性改革、区域差异化策略、教育目的的重新审视）
+> - **[[Single-Case Design\|SCD]] 作为"唯一解"的预设** VUCA [[Discourse|话语]]假定面对复杂不确定环境，唯一的理性回应是装备以可市场化技能——这排除了其他可能的回应方式（如结构性改革、区域差[[Alienation|异化]]策略、教育目的的重新审视）
 > - **遮蔽区域差异** 不同区域面临的"VUCA 条件"有本质性差异——"提供生产数字技术原材料的劳动力的国家，与使用这些技术并从中获利的国家"之间存在根本区别([[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, p.260, note 2]])。VUCA 作为普遍化话语模糊了这一区分
 

@@ -4,7 +4,7 @@ title: "Argument_Darwish_2009_Queens"
 argument_key: "Argument_Darwish_2009_Queens"
 argument_display_title: "Education as a political act: Dewey, Freire and the (International Baccalaureate) Theory of Knowledge curriculum (Master's thesis)"
 argument_kind: "books"
-argument_related_count: 64
+argument_related_count: 65
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -42,7 +42,7 @@ tags:
   - school-reform
   - constructivism
 created: 2026-07-28
-updated: 2026-10-26
+updated: 2026-11-15
 sources:
   - "[[books/Darwish_2009_Queens/Darwish_2009_Queens|Darwish_2009_Queens]]"
 related_concepts:
@@ -58,6 +58,7 @@ related_concepts:
   - "[[Freedom of the Learner]]"
   - "[[Reflective Thinking]]"
   - "[[Banking Model of Education]]"
+  - "[[Alienation]]"
   - "[[Socratic Elenchus]]"
   - "[[Meno]]"
   - "[[Determinism]]"
@@ -129,7 +130,7 @@ related_persons:
 > - **[[Active Learning\|主动学习]]三环节模型的构建**
 >  提出由切身经验/难题感知、“[[Reflective Thinking\|反思性探究]]与对话”以及“变革性实践行动”构成的三环节动态模型，以此作为评估教学有效性的[[Epistemology\|认识论]]标准 (pp. 8–12)。
 > - **IB [[Theory of Knowledge\|知识论]]（TOK）课程的案例应用与困境**
->  将三环节模型应用于 [[Theory of Knowledge\|TOK]] 课程分析，指出其在促进反思性思维的同时，因评估标准化而陷入[[Banking Model of Education\|储蓄式教育]]异化的理论疑局 (pp. 12–16)。
+>  将三环节模型应用于 [[Theory of Knowledge\|TOK]] 课程分析，指出其在促进反思性思维的同时，因评估标准化而陷入[[Banking Model of Education\|储蓄式教育]][[Alienation|异化]]的理论疑局 (pp. 12–16)。
 
 ---
 

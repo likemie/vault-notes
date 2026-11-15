@@ -11,7 +11,7 @@ aliases:
 summary: "基于逻辑规则与领域证据，对多重线索与信息进行批判性审视、筛选、演绎推导并辐合至唯一最优解的确定性认知加工过程。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Graphic Organizer]]"
   - "[[Epistemic Friction]]"
   - "[[Problem Solving]]"
+  - "[[Alienation]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Man-Computer Symbiosis]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 （聚合思维 / 辐合性认知加工）
@@ -164,7 +165,7 @@ updated: 2026-11-03
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **双元协同反馈回路命题** | 聚合思维与发散思维循环互补，共同支撑[[Problem Solving\|复杂问题解决]]与创造力 | 创新人才培养与思维教学设计 | Ezzeldin (2017); [[Mark A. Runco\|Runco et al. (2026)]] |
-> | **干预敏感度级差命题** | 图形组织器对聚合思维促进稳健（$g = 0.680$），但低于发散思维（$g = 1.167$） | 差异化认知工具教学选配 | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] |
+> | **干预敏感度级差命题** | 图形组织器对聚合思维促进稳健（$g = 0.680$），但低于发散思维（$g = 1.167$） | 差[[Alienation\|异化]]认知工具教学选配 | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] |
 > | **技术中介反思命题** | AI 对聚合思维赋能依赖[[Epistemology\|认识论]]摩擦支架，否则诱发心智外包与退化 | 智能教育环境中的批判思维培养 | Strobl et al. (2024); [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
 
 ---

@@ -10,7 +10,7 @@ aliases:
 summary: "评价抽象构念的界定、操作化与所得证据是否共同支持预期解释；涵盖测量工具、实验操纵、质性范畴、课程评估以及宏观政策认证体系（MTMM聚合与判别效度），防范构念不足呈现与无关方差污染。"
 type: concept
 domain: "research-methodology"
-related_count: 76
+related_count: 77
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Evidence-Based Education]]"
   - "[[Fade-out Effect]]"
+  - "[[Alienation]]"
   - "[[Theory of Knowledge]]"
   - "[[Knowledge Questions]]"
   - "[[Critical Thinking]]"
@@ -108,7 +109,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -198,7 +199,7 @@ updated: 2026-11-11
 > **政策与制度评价体系的元评估** 将构念效度理论拓展至宏观[[Evidence-Based Education\|循证教育]]清算中心体系，检验“基于证据（Evidence-Based）”这一制度标签是否具备跨平台的一致相符性。
 
 > [!claim] [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]]
-> **清算中心“循证”构念效度的经验危机** 运用 Campbellian MTMM 理论检验 10 个清算中心审查的 1,359 个项目发现，多重评级完全一致率仅约 30.5%（且大多体现为共同判定无效），而完全对立冲突（1&3，强推 vs 否决）高达 35.4%。这证明“基于证据”在清算中心实践中并未形成稳定的客观构念，各机构因独立复制、12 个月[[Fade-out Effect\|持续效果]]等综合门槛割裂导致构念内涵严重异化，具有有限的实践构念效度。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 4, 18–20, 26)]]
+> **清算中心“循证”构念效度的经验危机** 运用 Campbellian MTMM 理论检验 10 个清算中心审查的 1,359 个项目发现，多重评级完全一致率仅约 30.5%（且大多体现为共同判定无效），而完全对立冲突（1&3，强推 vs 否决）高达 35.4%。这证明“基于证据”在清算中心实践中并未形成稳定的客观构念，各机构因独立复制、12 个月[[Fade-out Effect\|持续效果]]等综合门槛割裂导致构念内涵严重[[Alienation|异化]]，具有有限的实践构念效度。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 4, 18–20, 26)]]
 
 ---
 

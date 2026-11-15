@@ -8,7 +8,7 @@ aliases:
 summary: "英国殖民当局在英属印度确立的自上而下文化同化与精英教育政策，旨在通过英语教育培养血统为印度人但思想道德智识全盘英国化的中介买办阶层以巩固殖民统治。本尼迪克特·安德森将其界定为大英帝国官方民族主义的核心范式，并揭示其导致同化精英成为本土异乡人且晋升仕途遭永久封锁的内在矛盾。"
 type: concept
 domain: "comparative-education"
-related_count: 21
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
   - comparative-education
 related_concepts:
   - "[[Official Nationalism]]"
+  - "[[Naturalization]]"
   - "[[Intercultural Education]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Epistemic Value]]"
@@ -28,6 +29,7 @@ related_concepts:
   - "[[Nationalism]]"
   - "[[Paradigm]]"
   - "[[Barmecide Feast]]"
+  - "[[Alienation]]"
   - "[[Construct]]"
   - "[[Administrative Pilgrimage]]"
 related_theories:
@@ -40,6 +42,7 @@ related_instruments: []
 related_persons:
   - "[[Thomas Babington Macaulay]]"
   - "[[Benedict Anderson]]"
+  - "[[Bipin Chandra Pal]]"
   - "[[Hugh Seton-Watson]]"
 related_facts:
   - "[[CORE Education]]"
@@ -49,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-12
-updated: 2026-11-13
+updated: 2026-11-15
 ---
 
 ---
@@ -60,7 +63,7 @@ updated: 2026-11-13
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 殖民帝国运用国家财政与学校建制，通过推行宗主国单一语言教育以重塑被殖民精英阶层认同的文化同化机制。
 > - **用途** 剖析近现代宗主国如何通过语言教育政策塑造依附性本土精英，解释殖民行政机器的维系机制与[[Hegemony|文化霸权]]建构。
-> - **边界** 区别于早期殖民帝国基于宗教信仰传播的受洗归化，亦区别于多语种平等共存的[[Intercultural Education|跨文化教育]]交流政策。
+> - **边界** 区别于早期殖民帝国基于宗教信仰传播的受洗[[Naturalization|归化]]，亦区别于多语种平等共存的[[Intercultural Education|跨文化教育]]交流政策。
 
 > [!citation-card] 麦考利论殖民地文化改造与英语教育长远目标
 > 任何接受过英国教育的印度教徒，都不会再真诚依附于其固有宗教。我坚信，如果我们的教育计划得以贯彻执行，三十年之后孟加拉的体面阶层中将不再存在一个偶像崇拜者。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, p. 93)]]
@@ -116,7 +119,7 @@ updated: 2026-11-13
 > **同化承诺与结构性歧视的冲突** 这一命题聚焦被同化精英的身份认同断裂与职业天花板。历史证据表明，文化同化并未带来政治平等，最终反向激化了反殖民民族主义意识。
 >
 > > [!claim] Anderson, B.
-> > **帕尔现象与[[Barmecide Feast|虚幻盛宴]]的结构破产** 安德森援引印度文官比平·钱德拉·帕尔（Bipin Chandra Pal）的回忆指出，麦考利体制培养出的大批完全英化的本土官员面临深刻的生存危机。在本土社会中，他们因放弃传统生活方式与母语而沦为被本族人孤立排斥的社会贱民；在帝国科层体制内，无论其英语修养与工作能力如何卓越，均被宗主国统治者永久阻隔在核心决策权之外。他们既无法向伦敦大都会行政中枢攀升，亦被严禁横向调往黄金海岸或香港等其他殖民领地。帝国一方面许诺通过教育实现文明同化，另一方面在制度上严防被征服者掌握实质权力。这一虚幻盛宴（Barmecide feast）彻底暴露出民族与帝国的内在不相容性，促使这些深感背叛的同化精英转而成为20世纪反殖民民族主义运动的领导先驱。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 94–96)]]
+> > **帕尔现象与[[Barmecide Feast|虚幻盛宴]]的结构破产** 安德森援引印度文官[[Bipin Chandra Pal|比平·钱德拉·帕尔]]（Bipin Chandra Pal）的回忆指出，麦考利体制培养出的大批完全英化的本土官员面临深刻的生存危机。在本土社会中，他们因放弃传统生活方式与母语而沦为被本族人孤立排斥的社会贱民；在帝国科层体制内，无论其英语修养与工作能力如何卓越，均被宗主国统治者永久阻隔在核心决策权之外。他们既无法向伦敦大都会行政中枢攀升，亦被严禁横向调往黄金海岸或香港等其他殖民领地。帝国一方面许诺通过教育实现文明同化，另一方面在制度上严防被征服者掌握实质权力。这一虚幻盛宴（Barmecide feast）彻底暴露出民族与帝国的内在不相容性，促使这些深感背叛的同化精英转而成为20世纪反殖民民族主义运动的领导先驱。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 94–96)]]
 
 ---
 
@@ -133,7 +136,7 @@ updated: 2026-11-13
 > - **1835年 — 麦考利起草《教育备忘录》** 麦考利主张停止资助东方古典，确立全英语精英教育，旨在制造品味智识英国化的本土中介，麦考利主义正式确立。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 93–94)]]
 > - **1836年 — 孟加拉世俗化预言** 麦考利预言三十年内接受英式教育的孟加拉体面阶层将不再有偶像崇拜者，展现心智混血工程的激进目标。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, p. 93)]]
 > - **1857年以降 — 维多利亚帝国同化模式外溢** 印度大起义后伦敦直接接管政权，麦考利模式制度化为文官体制，并扩散至马来亚与非洲殖民地。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 90, 93–94)]]
-> - **1932年 — 帕尔回忆录揭示同化困境** 印度文官帕尔出版回忆录，系统痛陈英格兰化官员沦为本土社会贱民且仕途遭永久封锁的双重异化。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 94–95)]]
+> - **1932年 — 帕尔回忆录揭示同化困境** 印度文官帕尔出版回忆录，系统痛陈英格兰化官员沦为本土社会贱民且仕途遭永久封锁的双重[[Alienation|异化]]。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 94–95)]]
 > - **1983年 — 安德森确立[[Critical Theory|批判理论]]范型** 安德森在《[[Imagined Community|想象的共同体]]》第6章将麦考利主义定性为官方民族主义的文化心智工程，阐明其导致帝国解体的内在机制。[[Argument_Anderson_2016_Verso_Ch06|(Anderson, 2016, pp. 93–96)]]
 
 ---

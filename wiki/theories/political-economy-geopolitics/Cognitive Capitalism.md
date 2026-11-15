@@ -8,7 +8,7 @@ aliases:
 summary: "探讨后福特制时期资本积累逻辑向非物质劳动、知识与心智能力转移的批判政治经济学理论，揭示教育与学习如何被吸纳为劳动力交换价值增殖的润滑剂与发展主义强制工具。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Post-Fordism]]"
   - "[[Lifelong Learning]]"
+  - "[[Alienation]]"
   - "[[Developmentalism]]"
   - "[[Knowledge Production]]"
   - "[[Creativity]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-18
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -64,7 +65,7 @@ updated: 2026-11-11
 > - **知识位置** 发端于法国调节学派与意大利后自主主义马克思主义脉络，代表学者包括扬·穆利耶·布唐（Yann Moulier Boutang）与卡洛·维切洛内（Carlo Vercellone）；[[Steen Nepper Larsen|斯滕·内珀·拉森]]（Steen Nepper Larsen）将其引入教育哲学批判。
 
 > [!claim] 核心判断
-> 在认知资本主义积累体系下，剩余价值与经济财富的决定性源泉已从物理机器与体力劳动转移至活生生的心智、知识储备与社会协同能力；教育因而从相对自足的精神陶成领域被全面吸纳为生产高弹性劳动力的战略基础设施，学习被异化为劳动力交换价值增殖的润滑剂与全员生存竞争的[[Developmentalism|发展主义]]强制。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 7–9)]]
+> 在认知资本主义积累体系下，剩余价值与经济财富的决定性源泉已从物理机器与体力劳动转移至活生生的心智、知识储备与社会协同能力；教育因而从相对自足的精神陶成领域被全面吸纳为生产高弹性劳动力的战略基础设施，学习被[[Alienation|异化]]为劳动力交换价值增殖的润滑剂与全员生存竞争的[[Developmentalism|发展主义]]强制。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 7–9)]]
 
 ---
 

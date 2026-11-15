@@ -9,7 +9,7 @@ aliases:
 summary: "指跟随进城务工父母从户籍所在地流向输入地城镇共同生活的学龄人口；在城乡二元户籍壁垒与城市公共品空间排斥中，其教育获得经历了从体制外自办学校到两为主纳编、积分制准入的制度演变与身份认同重塑。"
 type: concept
 domain: "sociology-of-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
   - level/k12
   - region/china
 related_concepts:
+  - "[[Alienation]]"
   - "[[Cultural Capital]]"
   - "[[Document]]"
   - "[[Migrant Education]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -57,7 +58,7 @@ updated: 2026-11-03
 
 > [!concept-lens] 概念透镜
 > - **制度公民权与二元身份透镜** 随迁儿童处于“物理空间已在城市，制度身份仍在乡村”的结构性夹缝中。由于城乡分割的公共财政以户籍人口为预算基准，随迁儿童被城市公共教育管理体系界定为“非正规城市居民”，面临天然的制度排斥。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 365)]]
-> - **空间治理与人口调控透镜** 随迁子女的入学门槛（从早期的借读赞助费，到近期的社保、居住证与积分制门槛）往往与特大城市疏解中心城区人口、筛选劳动力的宏观政策紧密绑定，使义务教育准入异化为城市空间配置与人口调控的行政工具。
+> - **空间治理与人口调控透镜** 随迁子女的入学门槛（从早期的借读赞助费，到近期的社保、居住证与积分制门槛）往往与特大城市疏解中心城区人口、筛选劳动力的宏观政策紧密绑定，使义务教育准入[[Alienation|异化]]为城市空间配置与人口调控的行政工具。
 > - **阶层再生产与双重边缘化透镜** 随迁儿童在城市公立学校中易面临本地户籍群体的隐性文化隔阂与社会区隔；同时，由于中[[Gaokao|高考]]报名资格的户籍限制，许多青少年被迫在初高中阶段返乡成为“留守学生”，承受“融不进城市、回不去故乡”的双重认同撕裂。
 
 > [!boundary]- 概念边界

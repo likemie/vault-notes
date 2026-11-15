@@ -9,7 +9,7 @@ summary: "由 Eugene Garfield (1955, 1972) 提出并由科学信息研究所建�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 21
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Altmetrics]]"
   - "[[Patent Citation]]"
   - "[[Ultimate Impact]]"
+  - "[[Alienation]]"
   - "[[Early-Career Researchers]]"
 related_theories:
   - "[[WSB Model]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-31"
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -174,4 +175,4 @@ updated: 2026-11-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 证实同一期刊内部成果被引存在极端方差，确立影响因子不能预测单篇成果影响（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]，p. 207）；论证破除影响因子崇拜并引入替代计量与专利实现多维评价（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Unit 11]]，pp. 244–248）。
-> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 剖析学术界将期刊影响因子作为人才晋升与资助分配决定性依据的评价异化，论证该指标加剧了[[Early-Career Researchers|青年学者]]避险心理与成果增量化。
+> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 剖析学术界将期刊影响因子作为人才晋升与资助分配决定性依据的评价[[Alienation|异化]]，论证该指标加剧了[[Early-Career Researchers|青年学者]]避险心理与成果增量化。

@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch16"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch16"
 argument_display_title: "“Piety and Its Price”"
 argument_kind: "book-chapter"
-argument_related_count: 25
+argument_related_count: 27
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -42,8 +42,10 @@ related_concepts:
   - "[[Engineering Mindset]]"
   - "[[Paradigm]]"
   - "[[Red Tape]]"
+  - "[[Genius]]"
   - "[[The Sublime]]"
   - "[[Performativity]]"
+  - "[[Alienation]]"
   - "[[Sage]]"
   - "[[Competitiveness]]"
   - "[[Innovation Desert]]"
@@ -66,7 +68,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 ---
 
@@ -88,7 +90,7 @@ updated: 2026-11-14
 >
 > - **里科弗上将打破规章与鹦鹉螺号奠定深海战略均势**
 >
->   详述 1953 年爱达荷沙漠小型舰载核反应堆陆上动力试验与 1955 年鹦鹉螺号成功实现 1,300 英里全程潜航的历史壮举；展现里科弗上将无视[[Red Tape|官僚繁文缛节]]、打破既有规章的强悍工程管理，阐明正是这种不讨好体制的异类天才确立了美国在冷战深海博弈中的决定性优势（pp. 183–185）。
+>   详述 1953 年爱达荷沙漠小型舰载核反应堆陆上动力试验与 1955 年鹦鹉螺号成功实现 1,300 英里全程潜航的历史壮举；展现里科弗上将无视[[Red Tape|官僚繁文缛节]]、打破既有规章的强悍工程管理，阐明正是这种不讨好体制的异类[[Genius|天才]]确立了美国在冷战深海博弈中的决定性优势（pp. 183–185）。
 >
 > - **通用动力小礼品调查公案与程序合规对实战功勋的审判**
 >
@@ -134,7 +136,7 @@ updated: 2026-11-14
 >   D & E --> F["公共部门沦为创新荒漠与特权阶层自留地"]
 > ```
 
-> [!warrant]- 逆向淘汰机制：低薪如何将公职异化为富豪慈善或离职变现跳板
+> [!warrant]- 逆向淘汰机制：低薪如何将公职[[Alienation|异化]]为富豪慈善或离职变现跳板
 > 根据美国西北大学研究团队 2023 年针对《福布斯》全球两千名亿万富豪的实证调查（Krcmaric et al., 2023），约有 11% 的亿万富豪曾竞选或出任过公职（p. 180）。政治学者安德鲁·霍尔（Andrew B. Hall, 2019）在其著作《谁想参选？》（*Who Wants to Run?*）中同样实证指出，立法者薪酬的贬值必然导致唯有富豪阶层才负担得起参选成本。与此相对，根据美国国会研究处（Congressional Research Service, CRS）的报告（Brudnick, 2024），美国参众两院议员平均年薪仅为 17.4 万美元，但其决策却影响着数百万国民的生计，这种体制在制度上驱使无资产背景的议员走向国会演剧化并谋求离职后寻租（pp. 180–181）。
 
 ---
@@ -164,7 +166,7 @@ updated: 2026-11-14
 
 ### 三、 颠覆性国家战略突破依赖于注重实效、敢于打破官僚规章的异类工程领袖
 
-当国家面临关乎生死存亡的颠覆性技术竞争时，唯有能够打破官僚科层[[Red Tape|繁文缛节]]、直面客观物理规律的异类工程天才，才能创造战略奇迹。
+当国家面临关乎生死存亡的颠覆性技术竞争时，唯有能够打破官僚科层[[Red Tape|繁文缛节]]、直面客观物理规律的异类工程[[Genius|天才]]，才能创造战略奇迹。
 
 > [!timeline] [[USS Nautilus Submarine Development|鹦鹉螺号核潜艇研制]]与深海战略均势里程碑
 > - **1900–1906** [[Hyman Rickover|海曼·里科弗]]出生于波兰马科夫裁缝家庭，6 岁时随家人移民美国纽约。

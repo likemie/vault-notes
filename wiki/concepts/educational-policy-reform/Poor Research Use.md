@@ -7,7 +7,7 @@ aliases:
 summary: "指脱离学生真实学情、缺乏批判审思且未经全员协同认同的异化证据使用形态；表现为盲从网络时髦、领导独断推行与教师僵化防卫。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,6 +18,7 @@ tags:
   - theme/school-improvement
 related_concepts:
   - "[[Research Utilization]]"
+  - "[[Alienation]]"
   - "[[Document]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Implementation Fidelity]]"
@@ -45,7 +46,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -54,7 +55,7 @@ updated: 2026-11-03
 > **劣质[[Research Utilization\|研究使用]]（Poor Research Use）** 指在教育教学与学校管理决策中，脱离学生真实学习需求、缺乏对研究质量与情境适切性的批判性审思，且未在学校组织内部建立全员协同认同与所有权的病态证据利用样态。作为[[Quality Use of Research Evidence Framework\|高质量研究使用]]（Quality Use of Research Evidence）的反面形态，劣质研究使用并不等同于单纯未接触研究的非使用状态，是表现为对外部学术证据的机械套用、功利追风、行政强加或证实偏见，最终不仅难以促进学生学业与福祉，反而诱发教职工的职业倦怠、抵触怨怼与学校的教学停滞。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, pp. 189–191)]]
 
 > [!concept-lens] 概念透镜
-> - **核心指向** 学校微观组织与教学现场中对学术研究的病理性采纳、异化实施与防御性抵触机制。
+> - **核心指向** 学校微观组织与教学现场中对学术研究的病理性采纳、[[Alienation|异化]]实施与防御性抵触机制。
 > - **理论用途** 破除单纯以[[Document|文献]]阅读量、下载频次或形式化引用来衡量循证成效的供给偏误，揭示未经审慎消化的外来证据如何异化为实践负担与专业犬儒主义。
 > - **适用边界** 聚焦教育组织与教学实践层面的证据转化异化；不指代学术研究本身的方法学缺陷，也不宜泛化为正常探索中的教学试错。
 
@@ -104,7 +105,7 @@ updated: 2026-11-03
 
 ---
 
-> [!concept-proposition] 命题一｜劣质[[Research Utilization|研究使用]]是受断裂组织生态驱动的病理异化形态，有别于单纯的研究缺位或非使用
+> [!concept-proposition] 命题一｜劣质[[Research Utilization|研究使用]]是受断裂组织生态驱动的病理[[Alienation|异化]]形态，有别于单纯的研究缺位或非使用
 > **知识病理异化机制** 探讨为何证据采纳不仅无法自发改善教学，反而在缺乏组织使能的情境下异化为破坏专业生态的负担，阐明[[Research Utilization\|知识利用]]质态与数量规模之间的本质差异。
 
 > [!claim] Rickinson et al.

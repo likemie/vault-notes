@@ -8,7 +8,7 @@ cssclasses:
   - person-page
 nationality: "germany"
 person_region: "germany"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Demonstration Effect]]"
   - "[[Boundary Spanner]]"
+  - "[[Alienation]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Dialogue in Education]]"
 related_theories: []
@@ -142,7 +143,7 @@ updated: 2026-11-15
 > > - **结构现实主义学者** 坚称大国只有在国际指标符合本国核心地缘利益时才会采纳，否则随时可以弃之不顾。
 > > - **Martens and Niemann（2013）** 运用德国 [[PISA]] 冲击的深度案例证实，即使在工业大国，指标所激发的国内公众舆论焦虑与[[Façade of Rationality\|理性表象]]压力亦足以逼迫政权开启结构性内政重组。
 >
-> > [!axis] 使命性嵌入是功能扩张还是组织异化
+> > [!axis] 使命性嵌入是功能扩张还是组织[[Alienation|异化]]
 > > 争论非专门组织涉足教育究竟是跨学科综合治理的进步，还是损害教育专业特质的帝国式僭越。
 > >
 > > - **自由制度主义者** 认为经济与安全组织关注教育有助于打破部门壁垒，推动跨部门协同投资。

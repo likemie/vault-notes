@@ -8,7 +8,7 @@ aliases:
 summary: "由跨国教育出版巨头培生集团在首席教育顾问 Michael Barber 主导下推出的全球商业产品审计体系，要求所有产品附带量化学习成效证据，被批判教育社会学揭示为跨国资本垄断公共采购标准、构建循证话语门槛的核心治理工具。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Implementation Fidelity]]"
   - "[[Learning Progression]]"
   - "[[Technical Rationality]]"
+  - "[[Alienation]]"
   - "[[Teacher Professional Agency]]"
   - "[[Professional Judgment]]"
   - "[[Charter Schools]]"
@@ -53,7 +54,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -124,7 +125,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题二｜实效性[[Discourse|话语]]将复杂的教育人文本质窄化为可量化的[[Technical Rationality|技术理性]]因果产出
-> **[[Epistemology|认识论]]还原与[[Technical Rationality|技术理性]]异化** 聚焦实效性框架如何将丰富多元的育人价值还原为标准化的测试数据，挤压[[Teacher Professional Agency|教师专业自主权]]。
+> **[[Epistemology|认识论]]还原与[[Technical Rationality|技术理性]][[Alienation|异化]]** 聚焦实效性框架如何将丰富多元的育人价值还原为标准化的测试数据，挤压[[Teacher Professional Agency|教师专业自主权]]。
 
 > [!claim] O'Neill et al.
 > **技术理性压制[[Professional Judgment|专业判断]]** 实效性框架以因果量化为唯一合法尺度，迫使公立学校采购能够短期推高测验分数的流水线式工具，削弱了教师基于具体学生情境的专业反思。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 11, 134–135)]]

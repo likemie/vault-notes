@@ -31,7 +31,7 @@ updated: 2026-11-15
 > - **边界** 黑格尔对摹仿的批判主要针对自然主义复制论，未能涵盖亚里士多德《诗学》中蕴含的表演性与潜能维度。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 95–96)]]
 
 > [!citation-card|notitle] 艺术作为理念的意识方式而非理念的摹仿
-> 艺术是把握理念的一种意识方式，但它不是对理念的再现或摹写。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 96)]]
+> 艺术是把握理念的一种意识方式，却有别于对理念的再现或摹写。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 96)]]
 >
 > *Art is a mode of consciousness of the Idea, but it is not a representation of it. (Taylor, 1975, p. 470)*
 

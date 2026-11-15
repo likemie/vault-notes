@@ -6,7 +6,7 @@ aliases:
 summary: "保罗·弗莱雷提问式教育中受教者在文化圈中对编码符号展开对话拆解与结构性分析的过程，旨在揭示隐蔽的压迫机制并促成批判意识觉醒。"
 type: concept
 domain: "educational-philosophy"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Critical Pedagogy]]"
   - "[[Active Learning]]"
+  - "[[Alienation]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -113,7 +114,7 @@ updated: 2026-11-11
 > > - **引导干预论** 批评者指出若教育者完全放弃理论引导，解码极易沦为表层生活抱怨的低水平循环；而过强的引导则可能重新滑向家长制说教。
 
 > [!warning|limits] 适用局限
-> 解码过程高度依赖教育促进者的批判反思能力与文化圈对话氛围；脱离具体社区历史矛盾与学习者的实际生计经验，解码容易异化为空洞的概念操演。
+> 解码过程高度依赖教育促进者的批判反思能力与文化圈对话氛围；脱离具体社区历史矛盾与学习者的实际生计经验，解码容易[[Alienation|异化]]为空洞的概念操演。
 
 ---
 

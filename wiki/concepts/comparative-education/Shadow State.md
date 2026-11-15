@@ -7,7 +7,7 @@ aliases:
 summary: "萨顿、阿诺夫与卡马特提出的比较教育批判概念，指新自由主义外包机制下非政府组织沦为跨国机构与政府的教育服务承包商，在缓解财政负担的同时侵蚀了国家公共合法性并消解了民间社会的政治批判潜能"
 type: concept
 domain: "comparative-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Bureaucracy]]"
   - "[[Performance Indicators]]"
+  - "[[Alienation]]"
   - "[[Disciplina and Doctrina]]"
   - "[[State Educational Sovereignty]]"
   - "[[Red Tape]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -81,7 +82,7 @@ updated: 2026-11-03
 > - **资助流向的外部性与附带条件** 运行资金高度依赖[[World Bank|世界银行]]（World Bank, WB）、美国国际开发署（United States Agency for International Development, USAID）等跨国机构，受制于外来项目的时限与政策偏好。[[Argument_Arnove_2009_WorldSystems|(Sutton & Arnove, 2004, cited in Arnove, 2009, p. 111)]]
 > - **公共治理职能的替代外包** 承担普及基础教育、失学儿童补习、女性扫盲等本应由国家兜底保障的法定义务，形成准行政服务网络。[[Argument_Arnove_2009_WorldSystems|(Sutton & Arnove, 2004, cited in Arnove, 2009, pp. 111–112)]]
 > - **组织运作的去政治化与审计规训** 放弃对宏观阶级压迫与不平等的政治批判，全面转向技术化、指标化的项目管理与绩效评估。[[Argument_Arnove_2009_WorldSystems|(Kamat, 2004, cited in Arnove, 2009, p. 112)]]
-> - **基层代表性与问责机制的脱嵌** 向上对国际出资方负责，而非向下对本土社区负责，导致民间组织从底层代言人异化为外部资本管治末梢。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 112)]]
+> - **基层代表性与问责机制的脱嵌** 向上对国际出资方负责，而非向下对本土社区负责，导致民间组织从底层代言人[[Alienation|异化]]为外部资本管治末梢。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 112)]]
 
 > [!logic-map]- 影子国家权力流转与异化逻辑
 > ```mermaid

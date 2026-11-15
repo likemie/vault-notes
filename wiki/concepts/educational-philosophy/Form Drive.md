@@ -6,16 +6,18 @@ aliases:
 summary: "席勒冲动学说中的第二基本冲动，源于人不变的理性与精神自我，追求超时间规律、普遍形式与道德必然性，但过度扩张则会冻结鲜活的感性生命。"
 type: concept
 domain: "educational-philosophy"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - field/educational-philosophy
   - theme/aesthetics
 related_concepts:
+  - "[[Aesthetic Education]]"
   - "[[Play Drive]]"
   - "[[Sense Drive]]"
+  - "[[Epoché]]"
 related_theories:
   - "[[Schiller's Theory of Drives]]"
 related_persons:
@@ -34,7 +36,7 @@ updated: 2026-11-15
 ---
 
 > [!def] Form Drive
-> 形式冲动（Form Drive，德语 *Formtrieb*）是[[Friedrich Schiller|弗里德里希·席勒]]（Friedrich Schiller）在《审美教育书简》（1795）中确立的人类两大基本冲动之一，源于人自身中不变的理性与精神部分，立足于道德必然性与理性法则，力图将超时间的普遍形式赋予不断流变的感性材料。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, p. 52)]]
+> 形式冲动（Form Drive，德语 *Formtrieb*）是[[Friedrich Schiller|弗里德里希·席勒]]（Friedrich Schiller）在《[[Aesthetic Education|审美教育]]书简》（1795）中确立的人类两大基本冲动之一，源于人自身中不变的理性与精神部分，立足于道德必然性与理性法则，力图将超时间的普遍形式赋予不断流变的感性材料。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, p. 52)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 代表人格同一性、理性立法与主动精神建构的内在驱动力。
@@ -48,11 +50,11 @@ updated: 2026-11-15
 ---
 
 > [!contrast-table|notitle] 概念辨析
-> | 维度 | Form Drive（形式冲动 / *Formtrieb*） | [[Sense Drive|感性冲动（*Stofftrieb*）]] | [[Play Drive|游戏冲动（*Spieltrieb*）]] |
+> | 维度 | Form Drive（形式冲动 / *Formtrieb*） | [[Sense Drive\|感性冲动（*Stofftrieb*）]] | [[Play Drive\|游戏冲动（*Spieltrieb*）]] |
 > |------|--------|----------------|----------------|
-> | 哲学渊源 | 呼应[[Johann Gottlieb Fichte|费希特]]（Johann Gottlieb Fichte）“纯粹自我”与“自由/纯粹冲动” | 呼应费希特“自然冲动” | 结合[[Immanuel Kant|康德]]（Immanuel Kant）“自由游戏”与费希特冲动模型 |
+> | 哲学渊源 | 呼应[[Johann Gottlieb Fichte\|费希特]]（Johann Gottlieb Fichte）“纯粹自我”与“自由/纯粹冲动” | 呼应费希特“自然冲动” | 结合[[Immanuel Kant\|康德]]（Immanuel Kant）“自由游戏”与费希特冲动模型 |
 > | 核心取向 | 精神、主动性、超时间同一与道德必然性 | 质料、受动性、时间流变与物理必然性 | 统一必然与偶然、形式与实在、自由与感受 |
-> | 极端失衡后果 | 冻结生命变化，使人格沦为严苛教条 | 随时间漂流，丧失独立自由与规则 | 若悬置现实行动则会陷入纯粹审美沉醉 |
+> | 极端失衡后果 | 冻结生命变化，使人格沦为严苛教条 | 随时间漂流，丧失独立自由与规则 | 若[[Epoché\|悬置]]现实行动则会陷入纯粹审美沉醉 |
 
 ---
 
@@ -74,7 +76,7 @@ updated: 2026-11-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **形式冲动的理性主导与局限** | 确立不变人格与道德法则，但过强则冻结感性生命 | 席勒冲动学说与现代人性失衡诊断 | Schiller (1795) / [[Argument_Hammermeister_2002_Cambridge\|Hammermeister (2002)]] |
+> | **形式冲动的理性主导与局限** | 确立不变人格与道德法则，但过强则冻结感性生命 | [[Schiller's Theory of Drives\|席勒冲动学说]]与现代人性失衡诊断 | Schiller (1795) / [[Argument_Hammermeister_2002_Cambridge\|Hammermeister (2002)]] |
 
 ---
 

@@ -7,7 +7,7 @@ aliases:
 summary: "20世纪初发端于德语区及北欧、并在1960–1970年代被批判教育学者重新激活的教育革新思潮，主张打破传统自上而下的漏斗注入式教学与国家官僚规训，立足儿童内在生命经验倡导问题导向、跨学科小组合作与民主自决。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Wicked Problem]]"
   - "[[Paradigm]]"
   - "[[Developmentalism]]"
+  - "[[Alienation]]"
   - "[[Reflexivity]]"
   - "[[Competitiveness]]"
   - "[[Lifelong Learning]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-18
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -125,7 +126,7 @@ updated: 2026-11-03
 > **概念史语义演变与体制招安** 剖析原本旨在解放人性的改革教育学[[Discourse|话语]]，如何在 20 世纪末期被资本主义市场逻辑与国家量化治理所吸纳。
 
 > [!claim] [[Argument_Larsen_2019_EducSci|Larsen (2019)]]; Biesta (2017)
-> **从解放旗帜蜕化为资本润滑剂** 概念史考证揭示，从 20 世纪 90 年代起，改革教育学所倡导的自主性、灵活性与自我导向等核心主张，被新自由主义国家治理体系全面吸纳并翻转为统治工具。国际经济组织与政客将自主探究扭曲为培养高弹性、自负盈亏劳动力的手段，导致旨在促进人的全面发展的“学习”演变为全员强制的终身[[Developmentalism|发展主义]]律令；学校从昔日反抗专制的民主实验场，异化为将数千项学习目标精细嵌入课程并进行全周期测验监控的数据工厂。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 2, 8–9)]]
+> **从解放旗帜蜕化为资本润滑剂** 概念史考证揭示，从 20 世纪 90 年代起，改革教育学所倡导的自主性、灵活性与自我导向等核心主张，被新自由主义国家治理体系全面吸纳并翻转为统治工具。国际经济组织与政客将自主探究扭曲为培养高弹性、自负盈亏劳动力的手段，导致旨在促进人的全面发展的“学习”演变为全员强制的终身[[Developmentalism|发展主义]]律令；学校从昔日反抗专制的民主实验场，[[Alienation|异化]]为将数千项学习目标精细嵌入课程并进行全周期测验监控的数据工厂。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 2, 8–9)]]
 
 ---
 

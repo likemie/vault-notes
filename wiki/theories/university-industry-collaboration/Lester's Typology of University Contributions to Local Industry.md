@@ -8,10 +8,10 @@ aliases:
 summary: "Richard Lester（MIT, 2005）提出的分类框架，根据本地产业类型和所处产业生命周期阶段，将大学对本地经济的贡献划分为四种类型——新兴产业培育、产业引进/移植、现有产业多样化、现有产业升级"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 9
-theory_related_level: 0
-theory_related_stars: "☆"
-theory_related_color: "#e5e7eb"
+theory_related_count: 10
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theory/innovation
   - theme/university-industry-collaboration
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Innovation Ecosystem]]"
   - "[[Competitiveness]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Triple Helix]]"
@@ -33,7 +34,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 > [!tip] 核心主张
@@ -79,5 +80,5 @@ updated: 2026-10-22
 > - 该框架在 2019 年 [[Oxford UIDP Summit 2019\|Oxford UIDP Summit]] 上被引用，作为理解大学如何战略性参与本地[[Innovation Ecosystem\|创新生态系统]]建设的理论基础（pp.8–9）
 
 > [!tip] 理论语境
-> - 与 [[Innovation Ecosystem\|创新生态系统]] 的关系 — Lester 的分类框架为"大学如何战略性地发展本地创新生态系统"这一峰会关键趋势提供了分析工具；它解释了为什么大学参与本地生态系统需要根据产业类型和生命周期阶段进行差异化设计
+> - 与 [[Innovation Ecosystem\|创新生态系统]] 的关系 — Lester 的分类框架为"大学如何战略性地发展本地创新生态系统"这一峰会关键趋势提供了分析工具；它解释了为什么大学参与本地生态系统需要根据产业类型和生命周期阶段进行差[[Alienation|异化]]设计
 > - 与 [[Triple Helix\|三重螺旋]] 的关系 — 两者共享大学-产业-政府互动的基本前提，但 Lester 的框架更关注大学参与的具体形式如何随产业情境变化，而非三个领域之间的总体关系形态

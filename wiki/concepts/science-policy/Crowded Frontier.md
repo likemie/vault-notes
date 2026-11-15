@@ -7,7 +7,7 @@ aliases:
 summary: "科学学与科技政策中描述研究人员在知识空间探索中过度聚集于高连通度中心节点而在周边空白区域探索不足的集体行为模式；实证知识网络模拟表明，蜂拥追随中心实体的从众探索模式效率极低，全局优化的分散探索策略在揭示半数知识网络时的效率接近随机探索的10倍。"
 type: concept
 domain: "science-policy"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Construct]]"
   - "[[Research Tool]]"
+  - "[[Alienation]]"
   - "[[Abstract]]"
   - "[[Publication Bias]]"
   - "[[Falsification]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-31
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -99,7 +100,7 @@ updated: 2026-11-11
 ---
 
 > [!concept-proposition] 命题一｜科研群体微观风险规避诱发宏观知识拓扑聚集与系统性探索效率折损
-> **从众选择与网络拓扑低效** 探讨科研个体在追求稳妥发表与职业声誉时做出的理性选择，如何在宏观尺度异化为严重的资源聚集与系统发现效率损失。
+> **从众选择与网络拓扑低效** 探讨科研个体在追求稳妥发表与职业声誉时做出的理性选择，如何在宏观尺度[[Alienation|异化]]为严重的资源聚集与系统发现效率损失。
 
 > [!claim] [[Dashun Wang|Wang, D.]] & [[Albert-László Barabási|Barabási, A.-L.]]
 > **微观理性与宏观低效的分裂** 王大顺（Dashun Wang）与阿尔伯特-拉斯洛·巴拉巴西（Albert-László Barabási）指出，人类科学家在探索化学分子关联时表现出极强的从众倾向，紧密围绕少数知名、连通密集的中心化学实体展开重叠研究，使外围广袤的潜在发现空间长期荒废。在揭示知识网络 50% 拓扑结构的任务中，算法规划的全局最优分散策略效率接近随机策略的 10 倍，而人类科学家实际展现的聚集策略效率甚至显著低于纯随机探索基准，实证确证了拥挤前沿带来的巨大效率损耗。[[Argument_Wang_Barabasi_2021_Cambridge_Unit10|(Wang & Barabási, 2021, pp. 227–228)]]

@@ -9,7 +9,7 @@ aliases:
 summary: "公共政策学与证据良好治理理论的核心概念，指在决策体制内部或外围建立的、具有制度化程序保障的对话与反思公共空间；在该空间内，科学实证证据超越了垄断真理的技术理性指令属性，直接作为促发多元行动者（决策官员、专业学者、一线校长、教师及受影响社区）就政策问题性质、情境适配度与价值权衡开展公开质询、辩论与协同反思的协商催化剂；该空间被视作抵御证据沦为象征性政治表演与后置辩护的关键制度保障。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
   - theme/epistemic-justice
 related_concepts:
   - "[[Champ]]"
+  - "[[Alienation]]"
   - "[[Evidence-Informed Decision-Making]]"
   - "[[Reflexivity]]"
   - "[[Tacit Knowledge]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-25
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -56,7 +57,7 @@ updated: 2026-11-03
 
 > [!concept-lens] 概念透镜
 > - **含义** 为多元利益相关方就科学证据与价值偏好开展平等对话、辩论与反思所开辟的实体或制度性通道。
-> - **用途** 阻断决策者选择性挑选实证数据为既定政治立场作后置辩护的功利主义异化，推进真正的[[Evidence-Informed Decision-Making|证据知情决策]]。
+> - **用途** 阻断决策者选择性挑选实证数据为既定政治立场作后置辩护的功利主义[[Alienation|异化]]，推进真正的[[Evidence-Informed Decision-Making|证据知情决策]]。
 > - **边界** 必须包含制度化的程序正义与实质争辩机制，区别于形式主义的走过场民意公关与单向政策通报会。
 
 > [!citation-card] Parkhurst (2016) 与 [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] 论审议空间对防范证据公关异化的关键价值

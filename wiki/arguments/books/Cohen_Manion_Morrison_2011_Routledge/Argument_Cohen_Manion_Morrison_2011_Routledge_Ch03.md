@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03"
 argument_display_title: "Research Methods in Education · Ch03"
 argument_kind: "book-chapter"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Research Topic]]"
   - "[[Curiosity-Driven Research]]"
+  - "[[Alienation]]"
   - "[[Conformative Evaluation]]"
   - "[[Problem Solving]]"
   - "[[Evaluation Research]]"
@@ -69,7 +70,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-17
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 > [!logic-map]- 第3章总体论证结构
 > ```mermaid
@@ -302,7 +303,7 @@ James（1993, p. 135）对评估证据政治命运的冷峻判断：
 
 ##### 顺应性评估（Conformative Evaluation）
 
-当评估高度政治化时，即评估的经费、发表权和数据所有权都受控于委托方，Stronach and Morris（1994）认为评估会呈现出一种系统性的异化形态：**[[Conformative Evaluation|顺应性评估]]（conformative evaluation）**（pp.38–39）。
+当评估高度政治化时，即评估的经费、发表权和数据所有权都受控于委托方，Stronach and Morris（1994）认为评估会呈现出一种系统性的[[Alienation|异化]]形态：**[[Conformative Evaluation|顺应性评估]]（conformative evaluation）**（pp.38–39）。
 
 > [!evidence-grid] 顺应性评估的8个特征（Stronach & Morris, 1994）
 > | # | 特征 | 说明 |

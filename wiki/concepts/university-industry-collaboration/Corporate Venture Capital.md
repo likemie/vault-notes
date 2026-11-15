@@ -8,7 +8,7 @@ aliases:
 summary: "企业通过设立独立风险投资基金对初创企业进行股权投资的协同创新机制。决策时同时应用战略对齐与财务回报双重标准，既充当企业防范外部颠覆性创新与获取前沿技术洞察的战略雷达，又因其偏好后期阶段、成熟团队与高技术就绪度（TRL），与大学早期衍生企业存在系统性错配。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Research Universities]]"
   - "[[Technology Transfer]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Path Dependence]]"
 related_methods:
@@ -47,7 +48,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -181,5 +182,5 @@ updated: 2026-11-03
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison and Wilson (2025)]] — 深入剖析企业风险投资（CVC）在投资阶段、团队成功记录与[[Technology Readiness Level|技术就绪度]]（TRL）试点要求三个维度上与大学早期衍生企业的系统性错配，并揭示生物医药领域企业孵化器（JLabs 与 Lilly Ventures）的差异化运作。
+> - [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison and Wilson (2025)]] — 深入剖析企业风险投资（CVC）在投资阶段、团队成功记录与[[Technology Readiness Level|技术就绪度]]（TRL）试点要求三个维度上与大学早期衍生企业的系统性错配，并揭示生物医药领域企业孵化器（JLabs 与 Lilly Ventures）的差[[Alienation|异化]]运作。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 从企业科技转化三路径（内部研发、外部初创并购、开源生态）视角，论证 CVC 作为外部创新雷达防范颠覆性技术冲击的核心功能，并以斯坦福 PageRank 案例作为工业界错失外部转化的关键历史警示。

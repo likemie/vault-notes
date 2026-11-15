@@ -9,7 +9,7 @@ aliases:
 summary: "指在科学技术研究职业生涯中，由于非终身轨短期聘用合同主导的制度设计，科研人员在面临偶发性成果产出间歇时所遭遇的学术生涯突然且难以逆转的意外终结；科学学生涯复杂系统动力学模型揭示，竞争性时间尺度的冲突是引发学者生产力剧烈波动与学术淘汰的核心机制（Petersen et al., 2012; Fortunato et al., 2018）。"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Externalization]]"
   - "[[New Public Management]]"
   - "[[Dependent Variable]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods: []
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-03
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -154,4 +155,4 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 将学术生涯猝死归因于复杂系统中相互竞争时间尺度的深刻冲突，实证阐明非终身轨短期聘约如何将正常生产力波动异化为不可逆的学术淘汰（p. 4）。
+> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 将学术生涯猝死归因于复杂系统中相互竞争时间尺度的深刻冲突，实证阐明非终身轨短期聘约如何将正常生产力波动[[Alienation|异化]]为不可逆的学术淘汰（p. 4）。

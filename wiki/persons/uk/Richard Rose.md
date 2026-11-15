@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 15
+person_related_count: 16
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Document]]"
   - "[[Construct]]"
+  - "[[Alienation]]"
   - "[[Criterion-Referenced Test]]"
   - "[[Unit of Analysis]]"
   - "[[Externalization]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -104,7 +105,7 @@ updated: 2026-10-30
 > [!claim] 经验汲取在微观科层与发展情境下的延伸与边界
 > 戴安·斯通等人拓展并审视了罗斯的经验汲取[[Construct|构念]]在跨国流动中的多维表现：
 > - **微观行政科层中的日常经验汲取** 在重大立法与政治倡议之外，政府内部的统计分析师、法务顾问与议会研究员通过日常比对跨国规章条例与实操案例，在操作细节上稳步推进规程微调，构成了政策经验汲取最普遍的日常机制。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, p. 6)]]
-> - **非对称权力情境下的理论适用边界** 罗斯经典经验汲取模型预设了主权国家具备充分行政能力开展自主理性的方案搜寻与自由采择；但在全球南方与低收入国家情境下，国家能力的局限与多边援助机构的资金绑定，常使经验汲取异化为对外部标准化模板的被动依附。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 4, 11–12)]]
+> - **非对称权力情境下的理论适用边界** 罗斯经典经验汲取模型预设了主权国家具备充分行政能力开展自主理性的方案搜寻与自由采择；但在全球南方与低收入国家情境下，国家能力的局限与多边援助机构的资金绑定，常使经验汲取[[Alienation|异化]]为对外部标准化模板的被动依附。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 4, 11–12)]]
 
 ---
 

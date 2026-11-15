@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit05"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit05"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 47
+argument_related_count: 49
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -45,9 +45,11 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Scientific Mobility]]"
   - "[[Emergence]]"
+  - "[[Serialization]]"
   - "[[Early-Career Researchers]]"
   - "[[Intellectual Capital]]"
   - "[[Survivorship Bias]]"
+  - "[[Alienation]]"
   - "[[Grand Theory]]"
   - "[[Sleeping Beauty in Science]]"
   - "[[Computer Simulation]]"
@@ -87,7 +89,7 @@ sources:
 part_of: "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 status: active
 created: "2026-10-30"
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -189,7 +191,7 @@ updated: 2026-11-11
 > |:---|:---|:---|:---|
 > | **学术科研攻关** | 极高（需紧密假说论证、实验分工与成果署名权协商） | 倒 U 形非线性曲线；顶尖学者占比超过临界值后项目产出急剧恶化 | 成员争夺第一署名权、经费支配权与主导地位，拒绝承担辅助性分工（p. 113）。 |
 > | **足球 / 篮球赛事** | 极高（进攻防守需要高度实时传导与无球跑位配合） | 倒 U 形非线性曲线；全明星球员过多的队伍实际胜率显著低于适度比例队伍 | 球权分配极度内耗，人人争当终结者而弱化战术防守协同（Swaab et al., 2014; p. 113）。 |
-> | **职业棒球联赛** | 较低（以投球手与击球手单兵对决为主，序列化汇总得分） | 线性正相关；顶尖选手占比越高，球队总胜率越优异 | 任务呈模块化独立状态，单兵高水平发挥可直接线性汇总为球队胜利（p. 113）。 |
+> | **职业棒球联赛** | 较低（以投球手与击球手单兵对决为主，[[Serialization\|序列化]]汇总得分） | 线性正相关；顶尖选手占比越高，球队总胜率越优异 | 任务呈模块化独立状态，单兵高水平发挥可直接线性汇总为球队胜利（p. 113）。 |
 
 ---
 
@@ -247,7 +249,7 @@ updated: 2026-11-11
 > - **脆弱弱纽带的高流失支配地位** 追踪细胞生物学与物理学 473 位核心学者的 16.6 万条合作关系表明，60% 至 80% 的合作仅维系 1 年，在维系超过 2 年的合作中，约三分之二在 5 年内终止；科学界的日常合作以短命、低粘性的弱联结为主导（Petersen, 2015; p. 121）。
 > - **终身超级联结的高效产出奇迹** 在全网学者中，平均每 25 位合署学者中便存在 1 位[[Super Ties in Science|超级合作联结]]（Super Tie）。9% 的生物学者与 20% 的物理学者与某一位超级搭档合署了半数以上的全部学术论著；1% 的合作纽带能够跨越 20 年以上的完整职业生命（pp. 121–122）。
 > - **超级联结的超额学术溢价** 与超级搭档协作时，学者的篇均成果发表速率较常规合署学者高出 8 倍，由此带来的净引文总影响高出 14 倍，平均单篇引文提升 17%；学者的代表作与职业巅峰通常由其与超级搭档的联合工作所奠定（p. 122）。
-> - **初次相识与终身搭档的机制异化** 斯坦福大学 3,052 名教员的长期跟踪证实，初次合作大多由机会巧合或技能相似性所驱动；而能够发展为跨越数十年超级联结的伙伴，双方必然具备高度异质且不可替代的专业互补性，并在长期磨合中升华为深厚的学术责任与信任（Dahlander & McFarland, 2013; p. 122）。
+> - **初次相识与终身搭档的机制[[Alienation|异化]]** 斯坦福大学 3,052 名教员的长期跟踪证实，初次合作大多由机会巧合或技能相似性所驱动；而能够发展为跨越数十年超级联结的伙伴，双方必然具备高度异质且不可替代的专业互补性，并在长期磨合中升华为深厚的学术责任与信任（Dahlander & McFarland, 2013; p. 122）。
 
 > [!case] 布朗与戈尔茨坦（Brown & Goldstein）的诺贝尔奖级超级搭档典范
 > 德克萨斯大学西南医学中心的[[Michael S. Brown|迈克尔·布朗]]（Michael S. Brown）与[[Joseph L. Goldstein|约瑟夫·戈尔茨坦]]（Joseph L. Goldstein）创造了现代生物医学界最辉煌的超级合作范式：

@@ -74,6 +74,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Policy Network]]"
   - "[[The Curse of Success]]"
+  - "[[Alienation]]"
   - "[[Global Testing Culture]]"
   - "[[Positivism]]"
   - "[[Dual Hierarchization Principles]]"
@@ -141,14 +142,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-26
-updated: 2026-11-14
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Xie_Li_Huang_2021_GEO"
 argument_key: "Argument_Xie_Li_Huang_2021_GEO"
 argument_display_title: "全球药方还是特洛伊木马? PISA的教育政策效应批判——一份基于教育政策社会学视角的文献报告"
 argument_kind: "journal-article"
-argument_related_count: 108
+argument_related_count: 109
 argument_related_level: 10
 argument_related_stars: "💎💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -422,7 +423,7 @@ issuing_organization: ""
 > - **专业知识抵制** 学术共同体与教师专业团体坚守教育复杂性与本土文化传统（如法国教育学者与工会），对去背景化的量化指标展开方法论批判，抵制跨国新自由主义渗透（Pons, 2011, 2016）。
 
 > [!warrant]- 步骤三推理桥梁：多层因果系统如何促成表层趋同与深层趋异并存
-> 跨国教育治理呈现为由超国家组织、主权国家与国内行动者网络共同驱动的多层动力学系统。超国家认知共同体确立了全球通用的政策词汇表，主权国家通过外部化借用消解本土改革阻力，而国内政策网络在学术理性与政治功利的撕裂中展开竞争性知识转译。正是三层机制的差异化交互，解释了全球教育政策在话语表层高度趋同与在微观实践深层持续趋异的结构性悖论。
+> 跨国教育治理呈现为由超国家组织、主权国家与国内行动者网络共同驱动的多层动力学系统。超国家认知共同体确立了全球通用的政策词汇表，主权国家通过外部化借用消解本土改革阻力，而国内政策网络在学术理性与政治功利的撕裂中展开竞争性知识转译。正是三层机制的差[[Alienation|异化]]交互，解释了全球教育政策在话语表层高度趋同与在微观实践深层持续趋异的结构性悖论。
 
 ---
 

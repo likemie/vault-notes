@@ -6,7 +6,7 @@ aliases:
 summary: "劳动力市场中获取与维持就业的可雇用性构念；涵盖求职者的绝对专业能力与大众化文凭通胀下的相对排序竞争，并在超国家空间治理与技能话语中被重构为融合跨国流动弹性与自我企业家精神的个体化规训机制。"
 type: concept
 domain: "higher-education"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Graduate Attributes]]"
   - "[[Economy of Experience]]"
   - "[[Metacognition]]"
+  - "[[Alienation]]"
   - "[[Lifelong Learning]]"
   - "[[Soft Power]]"
   - "[[Cultural Capital]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-08'
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -100,7 +101,7 @@ updated: 2026-11-03
 
 > [!feature] 核心要素
 > - **绝对能力维度（Absolute Employability）** 求职者满足既定工作岗位基准准入条件的客观专业知识与技术水平。由正规学科教育、专业认证与认知深度所决定，构成求职竞争的资格底线。
-> - **相对排位维度（Relative Employability）** 求职者在劳动力市场供求动态中的相对优越度。在文凭普遍通胀的背景下，取决于求职者在软技能、实习经历层次、面试印象管理及行业圈层人脉上的差异化区隔。
+> - **相对排位维度（Relative Employability）** 求职者在劳动力市场供求动态中的相对优越度。在文凭普遍通胀的背景下，取决于求职者在软技能、实习经历层次、面试印象管理及行业圈层人脉上的差[[Alienation|异化]]区隔。
 > - **空间流动与网络适应维度（Spatial & Networked Mobility）** 跨越地理边界、文化壁垒与制度阻隔的弹性能动性。超国家政策（如[[EU|欧盟]]框架）将跨国学习经历、跨文化语言沟通及灵活迁徙能力确立为应对去规制化劳动力市场的关键就业资本。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
 > - **主体性治理与自我企业化维度（Subjective Self-Enterprise）** 个体将自我作为独立企业进行终身经营、技能迭代与风险自负的治理理性。将外部市场评价标准内化为自我认同，使劳动者自发保持在持续待命与自我优化的竞技状态中。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, pp. 259–261)]]
 

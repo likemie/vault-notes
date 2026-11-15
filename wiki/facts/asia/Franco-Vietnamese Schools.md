@@ -13,7 +13,7 @@ subtype: policy
 region: asia
 fact_region: "asia"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -27,17 +27,23 @@ tags:
   - nationalism
   - region/asia
 related_concepts:
+  - "[[Lecturing]]"
+  - "[[Emergence]]"
+  - "[[Document]]"
+  - "[[Nationalism]]"
+  - "[[Bilingual Intelligentsia]]"
+  - "[[Alienation]]"
   - "[[Educational Pilgrimage]]"
   - "[[Administrative Pilgrimage]]"
-  - "[[Bilingual Intelligentsia]]"
   - "[[Print-Language]]"
-  - "[[Nationalism]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
 related_instruments: []
 related_persons:
+  - "[[Albert Sarraut]]"
+  - "[[Alexandre de Rhodes]]"
   - "[[Benedict Anderson]]"
 related_facts:
   - "[[Civil Service Examination]]"
@@ -47,13 +53,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-15
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间与制定主体** 1917年由法属印度支那总督阿尔贝·萨罗（Albert Sarraut）签署颁布《公共教育法典》（Code of Public Instruction of 1917）。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 128, n. 24)]]
+> - **发布时间与制定主体** 1917年由法属印度支那总督[[Albert Sarraut|阿尔贝·萨罗]]（Albert Sarraut）签署颁布《公共教育法典》（Code of Public Instruction of 1917）。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 128, n. 24)]]
 > - **适用地区与对象** 重点覆盖法属印度支那东部的东京（Tonkin，北部）、安南（Annam，中部）与交趾支那（Cochin-China，南部），适用于全体适龄原住民学童及公立学校教师。
 > - **地缘与政治问题导向** 针对19世纪末以来中国维新派（康有为、梁启超）与革命党人（孙中山）政论著作跨越中越边境持续渗透的政治风险，法国当局急于铲除传统儒家士大夫的社会动员威望。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 127)]]
 > - **既有制度终结与衔接** 配合东京于1915年、安南于1918年对延续千年的儒家[[Civil Service Examination|科举制度]]的彻底废除，全面以西式分级学校替代传统书院私塾。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 127)]]
@@ -92,7 +98,7 @@ updated: 2026-11-13
 
 > [!pathways] 实施路径
 > - **初等阶段国语字全覆盖** 入学前三年完全采用罗马化国语字教授基础读写与算术，迅速建立拼音识字能力。
-> - **中等阶段双语过渡** 四年级起导入基础法语语法教学，由具备双语教学能力的本土教员运用国语字讲授法语课文。
+> - **中等阶段双语过渡** 四年级起导入基础法语语法教学，由具备双语教学能力的本土教员运用国语字[[Lecturing|讲授法]]语课文。
 > - **行政准入挂钩** 地方行政机构的抄写员、海关职员及护士等职业强制要求法越初级文凭，促使家庭主动送子入学。
 
 ---
@@ -100,17 +106,17 @@ updated: 2026-11-13
 > [!indicators] 政策效果评价指标
 > - **教材分发规模** 殖民地官方出版机构在1920至1930年代累计印发数以十万计的国语字初等课本。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 128)]]
 > - **平民识字率** 至1930年代末，越南语族群识字率攀升至10%，创下该地域历史最高纪录。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 128)]]
-> - **报刊与出版繁荣** 1920年代以后涌现出数百种以国语字印刷的现代大众报刊、翻译小说与政论文集。
+> - **报刊与出版繁荣** 1920年代以后[[Emergence|涌现]]出数百种以国语字印刷的现代大众报刊、翻译小说与政论文集。
 
 > [!finding-cards] 历史成效与反冲效应
-> - **斩断传统汉学文献代际传递** 随着汉字教育的边缘化，古代王朝历史档案与儒家士绅文集在年轻一代面前迅速变为无法阅读的死文字，达成了殖民当局切断中华文化圈传统的预期设想。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 127)]]
-> - **现代大众民族主义的意外引爆** 拼音文字极低的掌握门槛打破了汉字原本对平民大众筑起的漫长学习壁垒。青年一代[[Bilingual Intelligentsia|双语知识分子]]将这一原本由欧洲人发明的文字工具，挪用为宣扬民族团结、组织平民抗争与建构越南主权共同体的大众媒介。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 128)]]
+> - **斩断传统汉学[[Document|文献]]代际传递** 随着汉字教育的边缘化，古代王朝历史档案与儒家士绅文集在年轻一代面前迅速变为无法阅读的死文字，达成了殖民当局切断中华文化圈传统的预期设想。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 127)]]
+> - **现代大众[[Nationalism|民族主义]]的意外引爆** 拼音文字极低的掌握门槛打破了汉字原本对平民大众筑起的漫长学习壁垒。青年一代[[Bilingual Intelligentsia|双语知识分子]]将这一原本由欧洲人发明的文字工具，挪用为宣扬民族团结、组织平民抗争与建构越南主权共同体的大众媒介。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 128)]]
 > - **印度支那内部族群撕裂加深** 该体系优先服务于越南语人口，西部的高棉人与老挝人被长期排除在优质教育资源之外，加剧了西部族群对越南文官特权的敌意，瓦解了统一殖民地认同。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, pp. 128–131)]]
 
 > [!stat-cards]- 核心历史数据
 > - **1917** 阿尔贝·萨罗颁布《公共教育法典》确立法越学校制的年份。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 128, n. 24)]]
 > - **10%** 1930年代末得益于国语字普及达到的越南本土人口识字率。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 128)]]
-> - **1651** 耶稣会传教士亚历山大·德·罗德出版《越葡拉词典》确立国语字拉丁化方案的奠基年代。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 127, n. 22)]]
+> - **1651** 耶稣会传教士[[Alexandre de Rhodes|亚历山大·德·罗德]]出版《越葡拉词典》确立国语字拉丁化方案的奠基年代。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 127, n. 22)]]
 
 ---
 
@@ -120,7 +126,7 @@ updated: 2026-11-13
 > > 学界围绕法越学校制的历史性质展开了深入辨析。
 > >
 > > - **盖尔·凯利（Gail Paradise Kelly, 1978）** 论证指出该制度本质上是一种高度分流、内容劣质化的殖民控制工具，其课程设计刻意限制本土学生的抽象思辨与深造机会，目的是将学生钉死在从属职业阶层。
-> > - **戴维·马尔（Marr, 1981）与安德森（[[Argument_Anderson_2016_Verso_Ch07|Anderson, 2016]]）** 强调这一制度产生的异化与讽刺后果：殖民者试图制造政治温顺工具的举措，反倒为反殖民运动无偿提供了扫除文盲的大众媒介与全国性知识网络，客观上成就了现代越南民族意识的觉醒。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 128)]]
+> > - **戴维·马尔（Marr, 1981）与安德森（[[Argument_Anderson_2016_Verso_Ch07|Anderson, 2016]]）** 强调这一制度产生的[[Alienation|异化]]与讽刺后果：殖民者试图制造政治温顺工具的举措，反倒为反殖民运动无偿提供了扫除文盲的大众媒介与全国性知识网络，客观上成就了现代越南民族意识的觉醒。[[Argument_Anderson_2016_Verso_Ch07|(Anderson, 2016, p. 128)]]
 
 ---
 

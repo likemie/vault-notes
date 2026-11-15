@@ -12,9 +12,9 @@ subtype: policy
 region: "finland"
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "Parliament of Finland"
 tags:
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Study Abroad]]"
   - "[[Soft Privatisation]]"
+  - "[[Alienation]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -102,4 +103,4 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 深度追踪《职业教育法修改政府提案》（Government Bill 191/2021），揭示去规制化修辞如何将法治保障表征为商业阻碍，并解剖公立职校设立营利子公司所带来的公共教育属性异化风险。
+> - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 深度追踪《职业教育法修改政府提案》（Government Bill 191/2021），揭示去规制化修辞如何将法治保障表征为商业阻碍，并解剖公立职校设立营利子公司所带来的公共教育属性[[Alienation|异化]]风险。

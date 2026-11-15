@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 34
+person_related_count: 35
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Embedded Network Governance]]"
   - "[[Document]]"
   - "[[Epistemology]]"
+  - "[[Alienation]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Bureaucracy]]"
 related_theories:
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-12
-updated: 2026-11-13
+updated: 2026-11-15
 ---
 
 ---
@@ -146,7 +147,7 @@ updated: 2026-11-13
 > - **师承／合作伙伴** 彼得·埃文斯（Peter Evans） — 著名发展社会学家，在 2007 年伯克利研讨会上向布洛克首创提议使用“[[Developmental Network State|隐藏的发展型国家]]”术语。
 > - **制度对照／理论对话** [[Chalmers Johnson|查默斯·约翰逊]]（Chalmers Johnson） — 奠定东亚科层发展型国家（DBS）理论，布洛克将其作为后工业去中心化创新环境下发展型网络国家（DNS）的历史对照。
 > - **[[Epistemology|认识论]]先驱** [[Donald Stokes|唐纳德·斯托克斯]]（Donald Stokes） — 提出[[Stokes' Quadrant Model of Scientific Research|巴斯德象限模型]]，布洛克以此作为解释后工业高科技创新既探索基础规律又攻关现实应用的认识论基石。
-> - **思想渊源** 卡尔·波兰尼（Karl Polanyi） — 提出虚构商品与双重运动理论，布洛克将其扩展至知识产权异化批判与当代[[Market Fundamentalism|市场原教旨主义]]分析。
+> - **思想渊源** 卡尔·波兰尼（Karl Polanyi） — 提出虚构商品与双重运动理论，布洛克将其扩展至知识产权[[Alienation|异化]]批判与当代[[Market Fundamentalism|市场原教旨主义]]分析。
 > - **批评者／对话者** 米尔顿·弗里德曼（Milton Friedman） — 自由市场芝加哥学派代表人物，布洛克将其《自由选择》中否认国家资助科学正当性的论述作为[[Market Fundamentalism|市场原教旨主义]]教条的典型靶子予以剖析。
 > - **理论修正者** [[Erica Fuchs]] — 继承其 DNS [[Analytic Framework|分析框架]]，但修正了其将公共代理人视为消极中介撮合者的视角，论证了国家主动引导[[Technological Trajectories|技术轨道]]的研判效能。
 

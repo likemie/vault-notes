@@ -8,7 +8,7 @@ aliases:
 summary: "政治社会学与媒介政治学概念，指现代公共生活与大众媒介对公职人员私生活、财务与个性的显微镜式严苛曝光审查，导致政治选拔机制异化为表演性人格竞赛并驱逐务实干练人才。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Feeding Frenzy]]"
   - "[[Champ]]"
+  - "[[Alienation]]"
   - "[[Grandes Ecoles]]"
 related_theories: []
 related_methods: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-11-03
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **候选人质量衰退命题** | 论证过激审查机制导致政治精英素质系统性退化 | 现代选举政治、媒介批评、公职准入 | Sabato (1993); Sutter (2006) |
-> | **空洞管理阶层异化命题** | 批判避险文化催生无实质信念与行动力的技术官僚 | 高等教育行政、科技企业治理、国家战略决断 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] |
+> | **空洞管理阶层[[Alienation\|异化]]命题** | 批判避险文化催生无实质信念与行动力的技术官僚 | 高等教育行政、科技企业治理、国家战略决断 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] |
 
 ---
 

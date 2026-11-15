@@ -9,7 +9,7 @@ aliases:
 summary: "批判性政策研究概念，指决策者预先确立政治意图与改革方案，再对学术研究与经验数据进行选择性筛选、重构或定制以逆向论证政策正当性的政治过程"
 type: concept
 domain: "educational-policy-reform"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Evidence-Based Policy-Making]]"
+  - "[[Alienation]]"
   - "[[Gatekeepers]]"
   - "[[Knowledge Production]]"
   - "[[Screening Off]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -67,7 +68,7 @@ updated: 2026-11-11
 > 基于政策的证据制造（Policy-Based Evidence-Making, PBEM）是[[Critical Policy Analysis|批判性政策研究]]中的核心概念（Chung, 2016），指在公共政策制定与合法化过程中，决策者预先确立了政治意图、意识形态偏好与既定改革议程，随后通过有针对性地筛选、转译、裁剪甚至定制学术研究、经验数据与国际案例，反向构建支持该政策的[[Chain of Evidence\|证据链]]条。它构成了对传统[[Evidence-Based Policy-Making|循证政策制定]]规范性假设的根本逆转。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 91–94)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 揭示政治权威如何将证据从探索真理与评估方案的认知工具，异化为服务于既定政策辩护的修辞防护盾。
+> - **含义** 揭示政治权威如何将证据从探索真理与评估方案的认知工具，[[Alienation|异化]]为服务于既定政策辩护的修辞防护盾。
 > - **用途** 解释为何政策白皮书中充斥大量看似严谨的学术引用与国际案例，但实际政策走向却高度受制于执政党意识形态与政治[[Gatekeepers\|守门人]]。
 > - **边界** 不等同于学术造假或数据伪造，是合法化语境中对真实学术研究结论的脱语境化剪裁、过滤与工具化挪用。
 

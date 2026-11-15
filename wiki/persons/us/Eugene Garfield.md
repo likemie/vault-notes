@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Scientific Credit]]"
   - "[[Variable]]"
   - "[[Citation Disparity]]"
+  - "[[Alienation]]"
   - "[[Citation Distribution]]"
   - "[[Sleeping Beauty in Science]]"
 related_theories:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -119,7 +120,7 @@ updated: 2026-11-11
 
 > [!debates] 学术争议
 >
-> > [!axis] 期刊影响因子滥用与引文指标异化
+> > [!axis] 期刊影响因子滥用与引文指标[[Alienation|异化]]
 > > 学界围绕加菲尔德开创的引文指标在科技评价中的应用边界存在持续争论。一派批评期刊影响因子（JIF）与单纯被引计数被管理主义粗暴异化为衡量单篇成果内在学术价值的硬性尺码，滋生互引联盟与唯指标论；另一派指出引文在宏观统计层面去除了个体自评偏见，构成了去中心化同行集体智慧的不可替代表达。
 > >
 > > - **DORA 旧金山科研评估宣言（2012）** 呼吁停止使用基于期刊的指标（如 JIF）评估单篇论著或学者个人的学术水平，警惕引文商业化对学术生态的扭曲。

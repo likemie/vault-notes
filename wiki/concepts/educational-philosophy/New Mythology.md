@@ -8,7 +8,7 @@ aliases:
 summary: "1800 年前后德国早期唯心论与浪漫派提出的乌托邦媒介构想，旨在弥合私人审美直观与现代异化社会政治之间的裂隙，引导哲学与一切科学重新汇入普遍诗学的海洋。"
 type: concept
 domain: "educational-philosophy"
-related_count: 15
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
   - theme/idealism
   - theme/romanticism
 related_concepts:
+  - "[[Alienation]]"
   - "[[Aesthetic Intuition]]"
   - "[[Philosophical Aesthetics]]"
   - "[[Genius]]"
@@ -35,8 +36,11 @@ related_persons:
   - "[[Friedrich Wilhelm Joseph Schelling]]"
   - "[[Friedrich Schlegel]]"
   - "[[Johann Gottfried von Herder]]"
+  - "[[Novalis]]"
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch04]]"
+related_facts:
+  - "[[Oldest Systematic Program of German Idealism]]"
 confidence: high
 status: draft
 created: "2026-11-15"
@@ -46,7 +50,7 @@ updated: 2026-11-15
 ---
 
 > [!def] New Mythology
-> 新神话（New Mythology，德语 *Neue Mythologie*）是 1800 年前后由《德国唯心论最古老的系统纲领》、谢林（[[Friedrich Wilhelm Joseph Schelling]]）与[[Friedrich Schlegel|弗里德里希·施莱格尔]]（Friedrich Schlegel）等早期浪漫派及唯心论思想家共同倡导的文化与哲学媒介构想。针对近代科学分化、机械化国家体制与个体审美体验私人化所造成的社会异化，新神话旨在把理性理念转化为感性—神话形态，充当一切科学在臻于完善后重返“普遍诗学”海洋的公共中介，从而在理论与实践、[[Aesthetic Intuition|审美直观]]与政治共同体之间重新建立和解。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 75–77)]]
+> 新神话（New Mythology，德语 *Neue Mythologie*）是 1800 年前后由《[[Oldest Systematic Program of German Idealism|德国唯心论最古老的系统纲领]]》、谢林（[[Friedrich Wilhelm Joseph Schelling]]）与[[Friedrich Schlegel|弗里德里希·施莱格尔]]（Friedrich Schlegel）等早期浪漫派及唯心论思想家共同倡导的文化与哲学媒介构想。针对近代科学分化、机械化国家体制与个体审美体验私人化所造成的社会[[Alienation|异化]]，新神话旨在把理性理念转化为感性—神话形态，充当一切科学在臻于完善后重返“普遍诗学”海洋的公共中介，从而在理论与实践、[[Aesthetic Intuition|审美直观]]与政治共同体之间重新建立和解。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 75–77)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 一种兼具理性根基与感性象征力的公共诗性媒介，使无法被单个诗人凭空发明的审美确定性成为整个共同体的共享经验。
@@ -65,7 +69,7 @@ updated: 2026-11-15
 > |---|---|---|
 > | **《德国唯心论最古老的系统纲领》（约 1796）** | 主张“理性之神话”，哲学家须具备诗人的审美力量，将理念审美化 | 批判机械化现代政体无法象征自由，借此联结哲学家与民众，以诗学取代其他科学 [[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, p. 76)]] |
 > | **[[Johann Gottfried von Herder\|赫尔德]]《伊杜娜》（1796）** | 呼吁复兴古希腊与北欧神话 | 作为社会文化更新的媒介 [[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, p. 76)]] |
-> | **诺瓦利斯《基督教世界或欧洲》（1799）** | 预言天主教信仰复兴（虽非严格神话，但承担同类统一功能） | 超越民族主义分裂，重塑普遍个性与新人类共同体 [[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, p. 76)]] |
+> | **[[Novalis\|诺瓦利斯]]《基督教世界或欧洲》（1799）** | 预言天主教信仰复兴（虽非严格神话，但承担同类统一功能） | 超越民族主义分裂，重塑普遍个性与新人类共同体 [[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, p. 76)]] |
 > | **[[Friedrich Wilhelm Joseph Schelling\|谢林]]《先验唯心论体系》（1800）** | 寄望“犹如一位诗人般生活的新一代”共同孕育新神话 | 引导哲学与各门科学回归普遍诗学，消除科学知识与诗意知识的鸿沟 [[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, p. 75)]] |
 > | **[[Friedrich Schlegel\|施莱格尔]]《神话演讲》（1800）** | 认为诗与神话并无二致，须[[Epoché\|悬置]]理性思维规律、重返幻想的优美混沌与古代诸神象征 | 借由绝对者的审美确定性联合全人类 [[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, pp. 76–77)]] |
 

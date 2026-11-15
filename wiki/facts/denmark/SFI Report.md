@@ -9,7 +9,7 @@ subtype: event
 region: denmark
 fact_region: "denmark"
 fact_kind: "event"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Creativity]]"
   - "[[Classroom Management]]"
+  - "[[Alienation]]"
   - "[[Individualised Instruction]]"
   - "[[Effective Teaching]]"
   - "[[Document]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-11-10
+updated: 2026-11-15
 ---
 
 > [!info] 背景
@@ -53,7 +54,7 @@ updated: 2026-11-10
 > [!success] 主要发现
 > - 清晰且一致的[[Classroom Management\|课堂管理]]、清晰学科目标、高要求、良好班级社会环境和班级教师团队合作，都与丹麦学生更好的考试成绩相关([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.37]])。
 > - 对社会背景较弱的学生而言，明确一致的教师领导和清晰目标尤其重要；开放教学把大量责任交给学生，对这类学生效果较差，而社会背景较强的学生更能从开放教学中获益([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.38]])。
-> - 报告没有显示"教学差异化"能显著提升学生学习。这与 Hattie 对[[Individualised Instruction\|个别化教学]]效应较小的判断相一致，也与 Helmke 关于教学差异化经验证据不足的说法相呼应。
+> - 报告没有显示"教学差[[Alienation|异化]]"能显著提升学生学习。这与 Hattie 对[[Individualised Instruction\|个别化教学]]效应较小的判断相一致，也与 Helmke 关于教学差异化经验证据不足的说法相呼应。
 > - 报告没有发现学生学习效果依赖特定教学形式或方法；但共同解题对社会背景较弱的学生较好，个体解题对社会背景较强的学生较好。
 > - 更频繁测试与丹麦学生更高学习结果相关，这与 Hattie 关于频繁测试没有显著积极效果的结论形成偏差([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.38–39]])。
 > - 报告没有发现其问项所测的反馈行为能提升学习；但这些问项只捕捉"告诉学生发展/表现如何"，没有捕捉"告诉学生如何做得更好"这一反馈核心，因此不能据此断言反馈在丹麦学校无效([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.39]])。

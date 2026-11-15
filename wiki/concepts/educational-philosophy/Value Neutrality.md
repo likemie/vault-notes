@@ -10,7 +10,7 @@ aliases:
 summary: "主张科学研究应排除研究者主观价值偏见并保持程序中立的认识论规范；在启蒙发轫期曾服从于道德改良，在韦伯与20世纪实证学派中被法典化为科学基石，在批判理论中被解构为维护统治的意识形态，并在当代公共与科技竞争中凸显为区分描述性经验事实与规范性道德评价的认知脱钩求真能力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 92
+related_count: 93
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Transnational Education]]"
   - "[[Operationalization]]"
+  - "[[Alienation]]"
   - "[[Knowledge Production]]"
   - "[[Educational Privatisation]]"
   - "[[Discursive Field]]"
@@ -198,7 +199,7 @@ updated: 2026-11-15
 > **[[Operationalization|操作化]]指标的假中立与概念价值渗透** 针对实证主义阵营声称的价值中立，霍姆斯（Holmes, 1981）展开了深刻的方法论反思。他指出实证派在[[Variable|变量]]操作化之前严重缺乏概念分析，误以为能够提炼出毫无歧义的客观中立指标，却忽视了概念本身不可避免地浸润着特定的意识形态与价值体系；这种唯量化取向抽空了[[Michael Sadler|萨德勒]]所谓的“活的精神”，且其实际推行的科学规划深度迎合了战后中央集权理性规划与国际援助机构（如[[World Bank|世界银行]]、AID）的技术官僚政治诉求。[[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 64, 66–67)]]
 
 > [!claim] Barber, B. & Kazamias, A. M.
-> **现代主义科学观对价值中立的机械迷信** [[Bernard Barber|伯纳德·巴伯]]（Bernard Barber, 1972）与安德烈亚斯·卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）深刻剖析了现代主义科学观对“价值中立”的机械幻觉：这种思潮错误地预设了一种“客观、价值中立的探究形式”，宣称只要尽职地应用特定的方法与技术，便能获得[[Reliability|可靠性]]、精确性与确定性——而全然无视所研究对象的独特性质；其实质是将科学探究同人文形式、伦理价值、社会目的与美善彻底切断，把对价值中立的标榜异化为免除社会伦理责任的技术主义借口。[[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, p. 148)]]
+> **现代主义科学观对价值中立的机械迷信** [[Bernard Barber|伯纳德·巴伯]]（Bernard Barber, 1972）与安德烈亚斯·卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）深刻剖析了现代主义科学观对“价值中立”的机械幻觉：这种思潮错误地预设了一种“客观、价值中立的探究形式”，宣称只要尽职地应用特定的方法与技术，便能获得[[Reliability|可靠性]]、精确性与确定性——而全然无视所研究对象的独特性质；其实质是将科学探究同人文形式、伦理价值、社会目的与美善彻底切断，把对价值中立的标榜[[Alienation|异化]]为免除社会伦理责任的技术主义借口。[[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, p. 148)]]
 
 > [!claim] Smith, M. L. & [[Gene Glass|Glass, G.]] V.
 > **价值立场作为区分研究与评估的核心边界** 价值处理方式是区分纯科学研究（Research）与实践项目评估（Evaluation）的根本标尺：研究的认识论旨趣在于探寻去情境的普适因果律，因而追求价值中立；而评估是为了具体的民主决策与制度改进，必须系统收集并如实呈现多方利益相关者冲突的价值立场。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, p. 34)]]

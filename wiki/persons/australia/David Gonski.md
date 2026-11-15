@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: australia
 person_region: "australia"
-person_related_count: 31
+person_related_count: 32
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Venture Philanthropy]]"
   - "[[Deductible Gift Recipient]]"
+  - "[[Alienation]]"
   - "[[Curriculum Delivery Model]]"
   - "[[Quasi-market]]"
   - "[[Network Governance]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -93,7 +94,7 @@ updated: 2026-11-11
 ---
 
 > [!work-line] 主要著作
-> - **2011 — *Review of Funding for Schooling: Final Report*（Gonski 1.0）** 确立资源分配公平基准，提出“学校资源标准”（Schooling Resource Standard，SRS）加弱势附加拨款模型，主张根据原住民、残疾、社会经济不利及偏远地理等指标实行差异化补偿拨款，并建议设立公立学校民间慈善募捐机制。[[Argument_Keddie_2020_IJLE|(Keddie, MacDonald, Blackmore, Wilkinson, et al., 2020, p. 11)]]; [[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, p. 530)]]
+> - **2011 — *Review of Funding for Schooling: Final Report*（Gonski 1.0）** 确立资源分配公平基准，提出“学校资源标准”（Schooling Resource Standard，SRS）加弱势附加拨款模型，主张根据原住民、残疾、社会经济不利及偏远地理等指标实行差[[Alienation|异化]]补偿拨款，并建议设立公立学校民间慈善募捐机制。[[Argument_Keddie_2020_IJLE|(Keddie, MacDonald, Blackmore, Wilkinson, et al., 2020, p. 11)]]; [[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, p. 530)]]
 > - **2018 — *Through Growth to Achievement: Report of the Review to [[Achieve]] Educational Excellence in Australian Schools*（Gonski 2.0）** 战略重心由“经费投入平等”转向“教育成果增益与个性化成长”，倡导打破按年龄一刀切的[[Curriculum Delivery Model|年级课程交付模型]]；核心建议设立独立国家教育证据机构（Recommendation 23），统筹全国教育科研与因果证据转化。[[Argument_Rowe_2022_IJER|(Rowe, 2022, p. 3)]]; [[Argument_Sarbiewska_2019_KiW|(Sarbiewska, 2019, p. 129)]]
 
 ---

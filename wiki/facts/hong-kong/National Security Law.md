@@ -10,7 +10,7 @@ subtype: event
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "event"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Knowledge Framework]]"
   - "[[Discourse]]"
   - "[[Cultural Relativism]]"
+  - "[[Alienation]]"
   - "[[One Country, Two Systems]]"
   - "[[Zhonghua Minzu]]"
   - "[[Soft Power]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -112,7 +113,7 @@ updated: 2026-10-30
 > - **国家安全无边界延伸（蓝方）** 将维护主权和政治稳定置于绝对优先地位，任何教育内容和教学自主必须让位于国家利益与安全控制（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 490]]）。
 > - **专业与学术自治（红方）** 强调教育应当保护学生的批判思考能力、教师的教学自主权，以及对多元身份与争议性议题进行理性探讨的学术与专业空间（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.141, 149]]）。
 
-> [!citation-card] 青年异化的[[Psychologisation\|心理化]]归因
+> [!citation-card] 青年[[Alienation|异化]]的[[Psychologisation\|心理化]]归因
 > 官方论述将青年的异化矮化为个人心理偏差问题。由于对现有秩序的批判已被定性为国安红线，对公众不满的解释只能诉诸个人或私人的适应不良（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.154]]）。
 >
 > *“Official [[Discourse]] meanwhile reduces youth alienation to a matter of individual psychological deviance. With critique of the established order now outlawed as treasonous, explanations for public discontent must be sought at the level of private or individual maladaptation.”*

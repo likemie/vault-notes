@@ -26,13 +26,13 @@ tags:
   - theme/semiconductor
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Alienation]]"
   - "[[Tacit Knowledge]]"
   - "[[Technology Transfer]]"
   - "[[Counterpart Funds]]"
   - "[[University-Based Research Center]]"
   - "[[Membership-based Research Consortium]]"
   - "[[Industry Affiliate Program]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Archival Research]]"
@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -66,7 +66,7 @@ updated: 2026-11-02
 
 > [!dev-timeline] 组织发展历程
 > - **1977–1980 — 创立与方法学突破** 卡弗·米德与施乐帕洛阿尔托研究中心（Xerox PARC）的林恩·康威（Lynn Conway）协同攻关，在计划支持下系统奠定了 Mead-Conway [[VLSI Project|VLSI]] 设计革命；吸引了全美 7 家计算与半导体巨头派员入驻，成为早期微电子产学协同的明星机构。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 290–291)]]
-> - **1981–1984 — 规模限制与停滞消解** 由于计划完全依赖单一教授与极少数教师，企业派遣的工业研究员数量迅速超过大学教员规模，导致师资无法有效匹配工业界的差异化期望与管理开销；加之缺乏政府长效公共资金托底，该计划在 1980 年代中期逐步停滞并解体。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 291, 296–297)]]
+> - **1981–1984 — 规模限制与停滞消解** 由于计划完全依赖单一教授与极少数教师，企业派遣的工业研究员数量迅速超过大学教员规模，导致师资无法有效匹配工业界的差[[Alienation|异化]]期望与管理开销；加之缺乏政府长效公共资金托底，该计划在 1980 年代中期逐步停滞并解体。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 291, 296–297)]]
 
 ---
 

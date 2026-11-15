@@ -11,7 +11,7 @@ title: "Argument_ONeill_2016_Report"
 argument_key: "Argument_ONeill_2016_Report"
 argument_display_title: "Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand"
 argument_kind: "report"
-argument_related_count: 54
+argument_related_count: 55
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Efficacy Framework]]"
   - "[[Return on Investment]]"
   - "[[Emergence]]"
+  - "[[Alienation]]"
   - "[[Recommendations for Practice]]"
   - "[[Presence]]"
 related_theories: []
@@ -89,7 +90,7 @@ related_instruments:
   - "[[Visible Classroom]]"
 status: active
 created: '2026-05-04'
-updated: 2026-11-11
+updated: 2026-11-15
 year: 2016
 doi: ""
 citation_aliases:
@@ -461,7 +462,7 @@ citation_aliases:
 > - **前提：国家财政退缩** 政府限制公费教育的直接拨款，将公立教育定义为基础补贴，引导学校推行使用者付费与市场外包。（pp.21–25）
 > - **机制：私营中介主导** 教师培训、课程开发与评测工具外包给私营机构，公办教研基础被削弱，专有商业工具主导了学校日常教学。（pp.35–38, 65–70）
 > - **传导：校际差距扩大** 贫困学区依赖民间慈善捐助才能维持基本物资，富裕社区通过额外筹款购买高端私营服务，学校办学条件彻底分化。（pp.127–133）
-> - **结论：公共契约瓦解** 免费义务教育不再是均等享有的公民基本权利，退化为受筹资能力影响、具有明显分层特征的差异化产品。（pp.134–136）
+> - **结论：公共契约瓦解** 免费义务教育不再是均等享有的公民基本权利，退化为受筹资能力影响、具有明显分层特征的差[[Alienation|异化]]产品。（pp.134–136）
 
 > [!warrant]- 为什么外包与风险慈善无法替代国家普遍主义福利供给
 > 依靠私人慈善和商业外包无法替代公共财政的制度保障。首先，慈善捐助具有极大的随意性与不稳定性，完全取决于捐赠人的偏好、企业的公关需求或媒体热度，无法保证每一所学校获得持续稳定的办学资源；其次，当私营外包项目效果不佳或特许学校运营失败时，私营机构可以通过解约或破产脱身，而受损学生的权益却无人承担。唯有坚持政府作为法定第一责任人、由公共财政全额保障的公立教育体系，才能维系民主社会的平等底线。（pp.134–136）

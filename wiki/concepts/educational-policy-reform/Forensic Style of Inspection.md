@@ -9,7 +9,7 @@ aliases:
 summary: "格雷厄姆·史密斯在对英国教育标准局（Ofsted）研究中提出的批判性概念；指国家学校督导机构开展的以支持既定行政结论为导向的封闭式调查模式；调查围绕既定政策设判定向搜集并拼合支撑材料，在终审环节通过内部重写清洗异议，以科学循证外观确立政策议程并促使一线学校服从合规。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ tags:
   - method/inspection
 related_concepts:
   - "[[Assemblage]]"
+  - "[[Alienation]]"
   - "[[Strategic Compliance]]"
   - "[[Open-Mindedness]]"
   - "[[School Leadership]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -57,7 +58,7 @@ updated: 2026-11-03
 > 取证式督导（Forensic Style of Inspection / Forensic Investigation）是教育政策研究者格雷厄姆·史密斯（Graham Smith, 2000）在剖析英国教育督察体制演变时提出的分析性概念，指国家督导或质量审计机构开展的一种具有高度预设性与辩护性的调查模式。该模式为了支撑既定的政策假定或行政裁决，定向搜罗、拼凑并[[Assemblage|组装]]经验材料；调查发现来自对行政主张的事后论证，依循类似法庭公诉取证的逻辑建立问责卷宗。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 653; Smith, 2000, p. 337)]]
 
 > [!concept-lens] 概念透镜
-> - **指向对象** 指向国家督导与审计过程中将实证调研异化为“先定结论、后拼论据”的定向取证操作。
+> - **指向对象** 指向国家督导与审计过程中将实证调研[[Alienation|异化]]为“先定结论、后拼论据”的定向取证操作。
 > - **分析用途** 揭示国家督导报告看似客观详实的实证案例与现场证据，如何通过特定的调查机制服务于既定的宏观改革偏好。
 > - **概念边界** 与探索性个案调查或形成性教学评估相对立；取证式督导具有鲜明的规范封闭性，对与政策结论不相符的复杂情境与矛盾证据采取系统性过滤与重写策略。
 

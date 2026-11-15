@@ -6,10 +6,10 @@ aliases:
 summary: "政治哲学与思想史概念，指具备超越自利、承受公众非议并愿意为之承担现实代价与声誉风险的实质信念；与缺乏代价意识、流于合规避险与道德姿态的软信念形成鲜明对立。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - political-philosophy
   - theme/ethics-of-technology
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Open-Mindedness]]"
   - "[[Hard Power]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Situative Perspective]]"
 related_methods: []
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -128,4 +129,4 @@ updated: 2026-11-14
 ---
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|Karp & Zamiska (2025, Ch. 5)]] — 开启全书第二部，以硬信念的历史典范对比当代西方高校、政界与科技界的[[Soft Belief|软信念]]异化，系统阐发硬信念对[[Technological Republic|技术共和国]]的存续价值。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|Karp & Zamiska (2025, Ch. 5)]] — 开启全书第二部，以硬信念的历史典范对比当代西方高校、政界与科技界的[[Soft Belief|软信念]][[Alienation|异化]]，系统阐发硬信念对[[Technological Republic|技术共和国]]的存续价值。

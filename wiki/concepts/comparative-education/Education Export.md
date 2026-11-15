@@ -8,10 +8,10 @@ aliases:
 summary: "主权国家或教育机构将课程、学位、师资培训与教育科技等要素打包为商业产品面向国际市场有偿输出的跨国实践。在竞争国家与整合营销语境下，政策制定者借助 PISA 等测评声誉构建国家品牌与商业需求赤字，推动公立教育从福利公物向市场化出口资产重组，但伴生着优劣他者建构与不可证伪话术神话等伦理张力。"
 type: concept
 domain: "comparative-education"
-related_count: 36
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - concept/comparative-education
   - education-export
@@ -33,10 +33,13 @@ related_concepts:
   - "[[Document]]"
   - "[[Falsification]]"
   - "[[International Branch Campus]]"
+  - "[[Soft Power]]"
+  - "[[Hard Power]]"
   - "[[Nation Branding]]"
   - "[[New Public Management]]"
   - "[[Competitiveness]]"
   - "[[Critical Pedagogy]]"
+  - "[[Alienation]]"
   - "[[Problematisation]]"
   - "[[Operationalization]]"
   - "[[Innovation Hub]]"
@@ -61,10 +64,11 @@ related_arguments:
   - "[[Argument_Kuortti_2025_JEdPolicy]]"
   - "[[Argument_Yang_2023_ICE]]"
   - "[[Argument_Qu_2024_IJED]]"
+  - "[[Argument_He_2018_HEP]]"
 confidence: high
 status: active
 created: 2026-11-08
-updated: 2026-11-13
+updated: 2026-11-15
 ---
 
 ---
@@ -135,7 +139,7 @@ updated: 2026-11-13
 
 ---
 
-> [!concept-proposition] 命题三｜新兴经济体教育出口以既有文化软实力为支点并依托经贸硬实力外溢驱动
+> [!concept-proposition] 命题三｜新兴经济体教育出口以既有文化[[Soft Power|软实力]]为支点并依托经贸[[Hard Power|硬实力]]外溢驱动
 > **文化存量借用与硬实力依附机制** 探究非西方新兴国家开展高教服务出口（如境外实体分校）时的动力与吸附逻辑，揭示教育出口依托东道国深厚的历史文化与语言认同存量，并深层依附于母国经贸硬实力与跨国投资创造的高薪就业溢价。
 
 > [!claim] [[Argument_He_2018_HEP|He and Wilkins (2018)]]
@@ -167,7 +171,7 @@ updated: 2026-11-13
 > > 争论公共教育是否应当被打包为有偿出口商品。
 > >
 > > - **[[New Public Management|新公共管理]]立场** 主张在全球知识经济中，将公立教育优势转化为高附加值服务贸易出口有助于拓展国家财政来源并提升国家综合[[Competitiveness|竞争力]]。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 378–380)]]
-> > - **[[Critical Pedagogy|批判教育学]]立场** 警告教育出口将民主平等的公物异化为资本变现的特许商品，反向侵蚀了公共教育的道德制高点，并加剧了国内教育资源的阶层分化。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 391–393)]]
+> > - **[[Critical Pedagogy|批判教育学]]立场** 警告教育出口将民主平等的公物[[Alienation|异化]]为资本变现的特许商品，反向侵蚀了公共教育的道德制高点，并加剧了国内教育资源的阶层分化。[[Argument_Kuortti_2025_JEdPolicy|(Kuortti, 2025, pp. 391–393)]]
 >
 > > [!axis] 绝对优势营销 vs 等级化他者建构
 > > 争论出口营销中宣传绝对竞争优势对跨国教育关系的伦理冲击。

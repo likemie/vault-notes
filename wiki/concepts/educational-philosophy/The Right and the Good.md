@@ -9,10 +9,10 @@ aliases:
 summary: "政治与道德哲学中的核心范畴区分，探讨基于权利与规则的程序正义（正当/Right）与关于美好生活、终极价值和共同体目标的实质构想（善/Good）之间的张力与平衡。"
 type: concept
 domain: "educational-philosophy"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/educational-philosophy
   - concept/political-philosophy
@@ -22,6 +22,8 @@ related_concepts:
   - "[[Buen Vivir]]"
   - "[[The Sublime]]"
   - "[[Discourse]]"
+  - "[[Judgment of Taste]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Postmodernism]]"
 related_methods: []
@@ -36,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -70,7 +72,7 @@ updated: 2026-11-14
 > **道德真空与公共[[Discourse|话语]]萎缩** 探讨自由主义程序中立如何由于放弃对崇高之善的追求，反向催生政治极化与民粹主义。
 
 > [!claim] Heller (1987)
-> **超越正义与[[Buen Vivir|美好生活]]的不可替代性** 匈牙利哲学家[[Ágnes Heller|阿格妮丝·赫勒]]（Ágnes Heller, 1987）在《超越正义》（*Beyond Justice*）中指出，仅有正义的制度骨架无法支撑完满的人类生活；放弃对美好生活、伦理卓越与审美判断的追求，将使整个文明失去灵魂。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 80)]]
+> **超越正义与[[Buen Vivir|美好生活]]的不可替代性** 匈牙利哲学家[[Ágnes Heller|阿格妮丝·赫勒]]（Ágnes Heller, 1987）在《超越正义》（*Beyond Justice*）中指出，仅有正义的制度骨架无法支撑完满的人类生活；放弃对美好生活、伦理卓越与[[Judgment of Taste|审美判断]]的追求，将使整个文明失去灵魂。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 80)]]
 
 > [!claim] Rawls (1988)
 > **正当对善的优先性界限** [[John Rawls|约翰·罗尔斯]]（John Rawls, 1988）虽然确立了正当对善的优先性，但也承认一个稳定的良序社会必须包含对合理善观念的容纳；当代体制的问题在于将这种哲学界分误读为彻底禁止在公共生活中探讨任何实质之善。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 80)]]
@@ -81,7 +83,7 @@ updated: 2026-11-14
 > **相对主义与价值判断困境** 揭示包容性口号在走向极端时如何摧毁社会的批判与评价能力。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
-> **包容一切异化为一无所信** [[Postmodernism|后现代主义]]对所有规范性主张的解构，虽然消除了排他性偏见，但也剥夺了社会做出道德与审美判断的基准；对所有事物的无条件包容，最终不可避免地滑向对任何崇高原则的一无所信。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 73–74, 80–81)]]
+> **包容一切[[Alienation|异化]]为一无所信** [[Postmodernism|后现代主义]]对所有规范性主张的解构，虽然消除了排他性偏见，但也剥夺了社会做出道德与审美判断的基准；对所有事物的无条件包容，最终不可避免地滑向对任何崇高原则的一无所信。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 73–74, 80–81)]]
 
 ---
 

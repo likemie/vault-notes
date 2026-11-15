@@ -8,7 +8,7 @@ aliases:
 summary: "规制治理与公共行政学中用以解释规则与审查细则单向累加、只增不减的制度病理；指在危机、丑闻或市场失灵驱动下，监管系统持续叠加新标准与合规程序而罕有清理旧规则，导致制度体系如同机械棘轮般单向加码，最终引发合规负担过重与规制不合理性困境。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Market Failure]]"
   - "[[Institutional Layering]]"
+  - "[[Alienation]]"
   - "[[Institutional Drift]]"
   - "[[Red Tape]]"
   - "[[Attrition]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -60,7 +61,7 @@ updated: 2026-11-03
 > *Regulators and policymakers respond to specific problems by adding new, more detailed rules on top of pre-existing ones. Because old rules are rarely repealed, the regulatory regime becomes increasingly dense, rigid, and complex, functioning like a regulatory ratchet.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Institutional Layering|制度层叠]] 制度层叠强调通过增设新规则或机构逐步侵蚀旧核心并改变行为结构，具有潜在的渐进转型方向；规制棘轮则强调工具堆叠造成的单向加码与僵化，往往并未改变既有规制逻辑，甚至加剧了合规异化。
+> - 不等于 [[Institutional Layering|制度层叠]] 制度层叠强调通过增设新规则或机构逐步侵蚀旧核心并改变行为结构，具有潜在的渐进转型方向；规制棘轮则强调工具堆叠造成的单向加码与僵化，往往并未改变既有规制逻辑，甚至加剧了合规[[Alienation|异化]]。
 > - 不等于 一般行政冗余 行政冗余可能源于机构膨胀或人浮于事；规制棘轮特指由危机驱动、条文文本只增不减且伴随法定惩戒约束的规则自我繁衍机制。
 
 ---

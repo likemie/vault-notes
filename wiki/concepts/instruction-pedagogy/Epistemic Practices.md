@@ -6,10 +6,10 @@ aliases:
 summary: "某一共同体成员在社会互动中提出、沟通、评估与合法化知识主张的组织化行动方式，强调认识论主体由笛卡尔孤立个体向微观社会协商群体的转向，具有交互生成、情境嵌入、历史互文与制度后果四大特征。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 48
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/epistemology
   - theme/science-education
@@ -48,6 +48,8 @@ related_concepts:
   - "[[Learning Progression]]"
   - "[[Funds of Knowledge]]"
   - "[[Retrodiction]]"
+  - "[[Alienation]]"
+  - "[[Mimesis]]"
   - "[[Dialogue in Education]]"
   - "[[Epistemic Scaffolding]]"
 related_theories:
@@ -73,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -246,7 +248,7 @@ updated: 2026-11-14
 > > - **领域特异论** 强调物理受控实验、地学[[Retrodiction\|回溯推测]]与工程优化设计的规程截然不同，不存在跨领域的普适实践模板。
 > > - **通用技能论** 强调提出主张、寻找证据与检验推理在所有科学领域具有结构共通性，主张通过通用探究框架促进能力迁移。
 
-> [!critique] 刻板化清单对实践活态性的技术异化
+> [!critique] 刻板化清单对实践活态性的技术[[Alienation|异化]]
 > 部分课程政策（如对 NGSS 八项科学与工程实践的教条化套用）容易将认识论实践重新退化为孤立打勾的过程技能训练，违背了认识论实践强调微观[[Discourse|话语]]协商与文化情境嵌入的原初宗旨。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 144–145)]]
 
 > [!warning] 适用局限
@@ -263,7 +265,7 @@ updated: 2026-11-14
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, pp. 144–145)]] | 高中物理课堂弹簧振子振动实验小组（Kelly et al., 2001 案例） | 微观交互[[Ethnography\|人种志]]与录像[[Transcription in Qualitative Research\|转录]]分析 | 具身动作、传感器波形图与猜想提出序列 | 学生通过手部模仿波形，将身体感觉与屏幕波峰对照以提出初始假说 | 质性[[Dialogue in Education\|对话]]序列分析 | 适用于仪器中介的高中物理探究情境 |
+> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, pp. 144–145)]] | 高中物理课堂弹簧振子振动实验小组（Kelly et al., 2001 案例） | 微观交互[[Ethnography\|人种志]]与录像[[Transcription in Qualitative Research\|转录]]分析 | 具身动作、传感器波形图与猜想提出序列 | 学生通过手部[[Mimesis\|模仿]]波形，将身体感觉与屏幕波峰对照以提出初始假说 | 质性[[Dialogue in Education\|对话]]序列分析 | 适用于仪器中介的高中物理探究情境 |
 
 ---
 

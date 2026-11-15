@@ -9,7 +9,7 @@ aliases:
 summary: "政治传播学与媒介政治学概念，由拉里·萨巴托提出；指大众媒体对公职人员或候选人私生活、微观瑕疵与丑闻进行成群结队、无节制且侵入式的毁灭性围剿报道机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Goldfish Bowl Politics]]"
   - "[[Grandes Ecoles]]"
+  - "[[Alienation]]"
   - "[[Hard Belief]]"
 related_theories: []
 related_methods: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -95,7 +96,7 @@ updated: 2026-11-03
 
 > [!debates] 学术争议
 >
-> > [!axis] 民主透明监督 vs 媒介侵入性异化
+> > [!axis] 民主透明监督 vs 媒介侵入性[[Alienation|异化]]
 > > 争论焦点在于全景式曝光究竟是公众知情权与防范腐败的必要保障，还是破坏严肃政治治理的八卦娱乐化。
 > >
 > > - **透明监督论** 坚称掌权者不应拥有不受审视的隐秘角落，严苛审视是检验其心理承受力与品格的必经考验。

@@ -10,10 +10,10 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 29
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 30
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "c. 1960"
 died: ""
 lifespan: "c. 1960–至今"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Research Literacy]]"
   - "[[Epistemology]]"
+  - "[[Alienation]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Profession-Sensitive Conceptualisations of Research Use]]"
   - "[[Teacher Professional Agency]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -104,7 +105,7 @@ updated: 2026-11-11
 > [!influence-path] 影响路径
 > - **理论路径** 开创“三种声音”理论模型，打破了传统证据转化中的线性传递神话，为当代证据整合范式与教师[[Research Literacy|研究素养]]理论提供了坚实的[[Epistemology|认识论]]基础。
 > - **方法路径** 倡导采用质性个案追踪与扎根反思法捕捉教师研读学术文本时的微观认知表述，示范了如何在课堂真实场景中测量研究使用的深层形态。
-> - **政策路径** 深度参与英国教师教育大纲与[[Teacher Training Agency|教师培训署]]倡导的循证教研改革，警示高压问责可能引发的行政合规异化。
+> - **政策路径** 深度参与英国教师教育大纲与[[Teacher Training Agency|教师培训署]]倡导的循证教研改革，警示高压问责可能引发的行政合规[[Alienation|异化]]。
 > - **跨国／跨领域传播** 思想被[[OECD|经合组织]]（OECD）[[Knowledge Mobilisation|知识动员]]项目（[[Argument_Torres_2022_KMModels|Torres, 2022b]]）与欧洲多国[[Framework Synthesis|框架综合]]（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026]]）广泛吸纳，成为国际循证教育领域的重要理论资源。
 
 > [!evidence-grid-a] 相关研究索引

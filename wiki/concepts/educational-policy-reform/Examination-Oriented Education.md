@@ -8,7 +8,7 @@ aliases:
 summary: "以标准化高利害考试成绩为教育质量与个体价值核心衡量指标的制度化教学与评价体系。在中国根植于科举文化传统并由高考多层问责机制维持；在当代全球语境下表现为与教育计算机化对齐的模式识别与公式套路化规训，前置性造成未成年学习者的成长性认识不正义。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Quality Education]]"
   - "[[Epistemology]]"
   - "[[Social Support]]"
+  - "[[Alienation]]"
   - "[[Test-Based Accountability]]"
   - "[[Rote Learning]]"
   - "[[Academic Achievement]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 （应试教育 / 考试驱动型教育）
@@ -82,7 +83,7 @@ updated: 2026-11-03
 >
 > *...the tradition of examination-driven education, combined with the predominant importance of Gaokao (College Entrance Examination) in college admission ... has reinforced [[Social Support|social support]] for current schooling practices.* ([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, p. 589]])
 
-> [!citation-card] 读写教育的技能主义与应试异化
+> [!citation-card] 读写教育的技能主义与应试[[Alienation|异化]]
 > 人们阅读不再是为了探索善，是为了寻找中心句和圈出过渡词。
 >
 > *People no longer read to explore the good, but to find topic sentences and circle transitional words.* (Collin, 2024, p. 16/149; 引自 Smith, 2026, p. 5)

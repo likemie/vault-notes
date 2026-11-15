@@ -10,7 +10,7 @@ aliases:
 summary: "包含显式概念节点、指示连线、命题连接词与跨分支横向交叉连接，用于结构化表征复杂领域知识与语义命题关系的高阶认知建模与评价工具。在有意义学习与科学教育中，它为深层知识整合提供严密语法，既是促学支架亦是诊断认知结构的评价工具。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Causality]]"
   - "[[Graphic Organizer]]"
+  - "[[Alienation]]"
   - "[[Working Memory]]"
   - "[[Heterogeneity]]"
   - "[[Visible Learning]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 > [!def] Concept Mapping
@@ -179,7 +180,7 @@ updated: 2026-11-03
 > > - **直觉压制论** 高度的形式约束会阻碍跨领域的非常规灵感联想。
 >
 > > [!axis] 专家标准图的封闭性 vs 学生自主建构的独特性
-> > 在教学评价中，过度使用“专家标准概念图”作为唯一评分基准容易抹杀学生的创造性理解，将有意义建构异化为“猜教师心思的复原测试”。
+> > 在教学评价中，过度使用“专家标准概念图”作为唯一评分基准容易抹杀学生的创造性理解，将有意义建构[[Alienation|异化]]为“猜教师心思的复原测试”。
 
 > [!warning] 教学实践警示
 > 1. **警惕退化为“机械连线接词游戏”** 严禁脱离真实学科情境让学生死背概念节点，构图必须服务于解释现象、解决问题或反思论证；

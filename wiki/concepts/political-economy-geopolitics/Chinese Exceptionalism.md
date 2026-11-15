@@ -25,12 +25,12 @@ related_concepts:
   - "[[Developmentalism]]"
   - "[[Study Abroad]]"
   - "[[Academic Freedom]]"
-  - "[[Pride in Learning]]"
   - "[[Hard Power]]"
   - "[[STEM Education]]"
   - "[[Champ]]"
   - "[[Innovation Hub]]"
   - "[[Discourse]]"
+  - "[[Alienation]]"
   - "[[Geopolitics]]"
   - "[[Variable]]"
 related_arguments:
@@ -49,7 +49,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -83,7 +83,7 @@ updated: 2026-11-11
 ---
 
 > [!feature] 核心要素
-> - **文明[[Pride in Learning|自豪]]与[[Tianxia Heuristic|天下观]]传承** 依托儒家天下大同、和而不同与中华文明悠久底蕴，构建区别于西方现代性断裂的历史连续性认同。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1044)]]
+> - **文明自豪与[[Tianxia Heuristic|天下观]]传承** 依托儒家天下大同、和而不同与中华文明悠久底蕴，构建区别于西方现代性断裂的历史连续性认同。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1044)]]
 > - **当代治理与发展经验示范** 将快速工业化、脱贫攻坚、数字经济与基础设施建设经验转化为面向全球南方国家的治理知识输出。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1049, 1051)]]
 > - **科技创新与[[Hard Power|硬实力]]展演** 在顶尖高校优先扩招科学、技术、工程与数学（Science, Technology, Engineering, and Mathematics, [[STEM Education|STEM]]）专业国际留学生，以高新技术企业基地参访与前沿成果彰显大国卓越实力。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1051–1052)]]
 > - **善意礼遇与道德形象塑造** 对外提供全额奖学金、独立单双人公寓与高规格接待，在国际交往中践行厚往薄来的道德宽仁理念。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1052)]]
@@ -119,7 +119,7 @@ updated: 2026-11-11
 > **世界一流大学作为例外论支点** 阐明中国大陆高校被国家赋予建设全球知识[[Innovation Hub|创新中心]]的战略任务，这一制度建设正是中国例外论寻求国际学术[[Discourse|话语]]权与大国地位认可的核心支柱。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1045–1046)]]
 
 > [!claim] [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]]
-> **善意展演诱发的特权张力** 指出高校在践行善意形象塑造时，过度依赖免学费、生活补贴、优越住宿与降低学业考核标准等超国民待遇，导致善意展演异化为缺乏制度规范的特权供给，削弱了高等教育体系的实质学术信誉。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1052–1053)]]
+> **善意展演诱发的特权张力** 指出高校在践行善意形象塑造时，过度依赖免学费、生活补贴、优越住宿与降低学业考核标准等超国民待遇，导致善意展演[[Alienation|异化]]为缺乏制度规范的特权供给，削弱了高等教育体系的实质学术信誉。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1052–1053)]]
 
 ---
 

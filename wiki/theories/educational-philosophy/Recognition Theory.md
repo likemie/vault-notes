@@ -9,7 +9,7 @@ aliases:
 summary: "由法兰克福学派第三代核心学者阿克塞尔·霍耐特提出，主张人类健全人格与能动主体性深植于爱、权利与社会尊严三位一体的主体间相互承认之中，否定或剥夺承认将导致社会异化与物化，为批判当代量化教育规训对师生主体意向性的消解提供了规范哲学基础"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 36
+theory_related_count: 37
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -21,6 +21,7 @@ tags:
   - intentionality
   - educational-philosophy
 related_concepts:
+  - "[[Alienation]]"
   - "[[Bureaucracy]]"
   - "[[Intentionality]]"
   - "[[Paradigm]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 （承认理论）
@@ -74,7 +75,7 @@ updated: 2026-11-11
 ---
 
 > [!theory-position] 理论定位
-> - **解释对象** 人类个体如何在社会互动中获得完整的自主能动性、道德责任感与健全自我关系，以及当制度性安排否定或扭曲这种相互承认时所引发的社会苦难、心理异化与集体抗争。
+> - **解释对象** 人类个体如何在社会互动中获得完整的自主能动性、道德责任感与健全自我关系，以及当制度性安排否定或扭曲这种相互承认时所引发的社会苦难、心理[[Alienation|异化]]与集体抗争。
 > - **理论问题** 批判早期西方社会哲学与功利主义将人视为原子化利己行动者的机械假设，突破[[Jürgen Habermas|哈贝马斯]]偏重纯粹理性言说论辩的局限，回应现代资本主义与技术[[Bureaucracy|官僚制]]度如何系统性物化人类[[Intentionality|主体意向性]]（Intentionality）并压抑弱势群体尊严的时代困境。
 > - **理论类型** 规范社会[[Critical Theory|批判理论]]、主体间哲学解释框架与教育正义反思[[Paradigm|范式]]。
 > - **知识位置** 当代法兰克福批判理论第三代核心学说；远源植根于[[Georg Wilhelm Friedrich Hegel|黑格尔]]（Hegel）早年耶拿时期的“承认斗争”辩证法与米德（Mead）的[[Symbolic Interactionism|符号互动论]]社会心理学，近源直面当代新自由主义绩效问责与[[Evidence-Based Education|循证教育]][[Technical Rationality|技术理性]]对生活世界的殖民，与[[Neo-Taylorism|新泰勒主义教育治理]]构成根本的规范性对峙。

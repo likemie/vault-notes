@@ -10,7 +10,7 @@ aliases:
 summary: "指由私营市场基于商业竞争自主研发并公开发售的标准化成熟产品或软件服务；在现代防务创新与科技政策中，COTS 采购模式作为打破传统军工科层制定制采购垄断、解决软硬件开发迟滞并加速前沿民用技术向国家硬实力转化的关键制度工具。"
 type: concept
 domain: "science-policy"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Red Tape]]"
   - "[[Hard Power]]"
   - "[[Dual-Use Technology]]"
+  - "[[Alienation]]"
   - "[[Winner's Fallacy]]"
   - "[[Consumer Internet]]"
   - "[[Engineering Mindset]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -104,7 +105,7 @@ updated: 2026-11-03
 > **制度经济学与[[Bureaucracy|科层制]]弊端批判** 传统政府定制采购模式倾向于为每一项日常物资制定极端繁琐的军工规格说明书，并强加苛刻的成本核算审计，导致政府无法在市场上购买甚至包括对讲机、螺栓或锤子在内的普通民用品；推行商用现货优先采购原则能够从根源上斩断科层自保机制，促使公共部门共享民用市场的创新红利。
 
 > [!claim] Karp & Zamiska
-> **传统定制采购的科层制异化与 COTS 的制度突围** [[Alexander Karp|亚历山大·卡普]]（[[Alexander Karp|Alexander C. Karp]]）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（[[Nicholas Zamiska|Nicholas W. Zamiska]]）指出，海湾战争期间美国空军由于摩托罗拉无法满足国防部严苛特殊的成本核算凭据，一度无法合法采购市场上不足 20 美元的现成商用手持对讲机，最终被迫绕道日本政府转购；副总统戈尔（Al Gore）更曾曝光美国陆军曾为烤饼干起草 700 多页的技术规范。这种定制采购体制实际上将政府异化为一个自说自话的封闭机器。《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]》（[[Federal Acquisition Streamlining Act of 1994|FASA 1994]]）确立的 COTS 优先采购法定原则，正是重构政府采购常识与打破[[Red Tape|繁文缛节]]的关键转折。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 145–151)]]
+> **传统定制采购的科层制[[Alienation|异化]]与 COTS 的制度突围** [[Alexander Karp|亚历山大·卡普]]（[[Alexander Karp|Alexander C. Karp]]）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（[[Nicholas Zamiska|Nicholas W. Zamiska]]）指出，海湾战争期间美国空军由于摩托罗拉无法满足国防部严苛特殊的成本核算凭据，一度无法合法采购市场上不足 20 美元的现成商用手持对讲机，最终被迫绕道日本政府转购；副总统戈尔（Al Gore）更曾曝光美国陆军曾为烤饼干起草 700 多页的技术规范。这种定制采购体制实际上将政府异化为一个自说自话的封闭机器。《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]》（[[Federal Acquisition Streamlining Act of 1994|FASA 1994]]）确立的 COTS 优先采购法定原则，正是重构政府采购常识与打破[[Red Tape|繁文缛节]]的关键转折。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 145–151)]]
 
 ---
 

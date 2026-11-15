@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Early-Career Researchers]]"
   - "[[PhD Overproduction in Science]]"
   - "[[Soft-Money Faculty Model]]"
+  - "[[Alienation]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -99,6 +100,6 @@ updated: 2026-11-11
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[PhD Overproduction in Science]] | Concept | NRSA 试图依需求精准调控人才，但受制于助研用工膨胀，未能遏制长期的博士过剩。 |
-> | [[Soft-Money Faculty Model]] | Concept | 与 NRSA 的机构教育培养属性形成对照，软钱模式加速了将研究生作为项目消耗品用工的异化。 |
+> | [[Soft-Money Faculty Model]] | Concept | 与 NRSA 的机构教育培养属性形成对照，软钱模式加速了将研究生作为项目消耗品用工的[[Alienation\|异化]]。 |
 > | [[Seaborg Report 1960]] | Fact (Policy) | 西博格报告首次倡导优先通过独立奖学金资助研究生，NRSA 在立法上对其原则进行了制度继承。 |
 > | [[Paula Stephan]] | Person | 实证考察了 NRSA 设立背景及其在 1970 年代联邦与大学博弈中的结构性地位。 |

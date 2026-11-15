@@ -10,7 +10,7 @@ subtype: event
 region: russia
 fact_region: "russia"
 fact_kind: "event"
-fact_related_count: 32
+fact_related_count: 33
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#fef3c7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Champ]]"
   - "[[School Leadership]]"
+  - "[[Alienation]]"
   - "[[Performance Indicators]]"
   - "[[Discourse]]"
   - "[[Ecological Validity]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -104,7 +105,7 @@ updated: 2026-11-14
 
 > [!actor-grid] 权力—立场矩阵
 > - **改革倡导者 / 译著引进方** 启蒙出版集团及国民教育出版社、N.A. Borisenko、I.V. Vachkov、E.A. Sokolova — 致力于将西方[[Evidence-Based Education|循证教育]]标尺作为现代化工具，论证俄罗斯 FSES 标准的科学性与先进性。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 232, 237)]]
-> - **本土批判者 / 政策审慎派** M.A. Golovchin 等学者 — 警惕去情境化的统计合成，强调俄罗斯教师职业声望脆弱、官僚报表负担过重的本土国情，主张防御外来制度异化。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 229, 239–241)]]
+> - **本土批判者 / 政策审慎派** M.A. Golovchin 等学者 — 警惕去情境化的统计合成，强调俄罗斯教师职业声望脆弱、官僚报表负担过重的本土国情，主张防御外来制度[[Alienation|异化]]。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 229, 239–241)]]
 > - **官方建制 / 政策主管方** 俄罗斯联邦教育部、地方教育局 — 推动《教师》职业标准改革，一方面推崇[[Performance Indicators|绩效指标]]监控，另一方面通过 2016 修正案允许非师范背景人员从教。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 240)]]
 > - **广大受影响群体** 俄罗斯中小学基层教师 — 面临严峻的文书重压与低社会地位，对自上而下的量化考核与表格化监控产生强烈排斥。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 240–241)]]
 

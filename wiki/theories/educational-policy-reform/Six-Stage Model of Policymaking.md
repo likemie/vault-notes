@@ -11,7 +11,7 @@ aliases:
 summary: "将公共政策全生命周期解构为问题识别、议程设置、政策制定、政策合法化、政策实施与政策评估六个连贯阶段的分析框架，揭示政策制定的内在秩序、驱动力量以及实证研究证据与专业经验、政治价值的动态阶段权变整合机制"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 42
+theory_related_count: 44
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -23,6 +23,7 @@ tags:
   - theme/evidence-informed-policy
   - paradigm/institutionalist
 related_concepts:
+  - "[[Alienation]]"
   - "[[Professional Judgment]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Pragmatic Paradigm]]"
@@ -56,6 +57,7 @@ related_methods:
   - "[[Process Tracing]]"
 related_instruments: []
 related_persons:
+  - "[[Alexandre de Rhodes]]"
   - "[[John Dewey]]"
   - "[[Peter Thiel]]"
 related_facts:
@@ -74,16 +76,16 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
 
 > [!theory-position] 理论定位
 > - **解释对象** 公共政策制定全生命周期中的阶段演进规律、多方利益相关者互动机制，以及科学研究证据如何嵌入政策流转各节点。
-> - **理论问题** 破解外界视立法决策为不可预测的政治混乱的刻板印象，提供具有结构化秩序的操作性透镜；阐明实证研究证据在不同决策阶段如何呈现概念性、象征性与工具性的差异化利用形态，以及研究如何与[[Professional Judgment|专业判断]]和政治价值发生阶段权变性整合。
+> - **理论问题** 破解外界视立法决策为不可预测的政治混乱的刻板印象，提供具有结构化秩序的操作性透镜；阐明实证研究证据在不同决策阶段如何呈现概念性、象征性与工具性的差[[Alienation|异化]]利用形态，以及研究如何与[[Professional Judgment|专业判断]]和政治价值发生阶段权变性整合。
 > - **理论类型** 宏观[[Analytic Framework|分析框架]]（Macro-Analytic Framework）、政策阶段启发式模型（Stages Heuristic）。
-> - **知识位置** 根植于[[Policy Science in Comparative Education|政策科学]]（Policy Sciences）经典传统，最早源自哈罗德·拉斯韦尔（Harold Lasswell）的七阶段决策构想，经詹姆斯·安德森（James Anderson）、查尔斯·琼斯（Charles Jones）及奥克利等人（Oakley et al., 2013）提炼为标准六阶段模型，由泽韦兰吉·N·塞佩尔（Zewelanji N. Serpell, 2020）基于[[United States Congress|美国国会]]立法实务引入教育政策领域，并由洛兰·M·麦克唐纳与M·斯蒂芬·韦瑟福德（Lorraine M. McDonnell & M. Stephen Weatherford, 2013）实证深化为证据多源阶段权变整合模型。
+> - **知识位置** 根植于[[Policy Science in Comparative Education|政策科学]]（Policy Sciences）经典传统，最早源自哈[[Alexandre de Rhodes|罗德]]·拉斯韦尔（Harold Lasswell）的七阶段决策构想，经詹姆斯·安德森（James Anderson）、查尔斯·琼斯（Charles Jones）及奥克利等人（Oakley et al., 2013）提炼为标准六阶段模型，由泽韦兰吉·N·塞佩尔（Zewelanji N. Serpell, 2020）基于[[United States Congress|美国国会]]立法实务引入教育政策领域，并由洛兰·M·麦克唐纳与M·斯蒂芬·韦瑟福德（Lorraine M. McDonnell & M. Stephen Weatherford, 2013）实证深化为证据多源阶段权变整合模型。
 
 > [!claim] 核心判断
 > 公共政策过程具有高度的阶段规律性与内在秩序，涵盖从问题识别与界定、议程设置、政策制定、政策合法化、政策实施到政策评估的六个连贯阶段；各阶段由截然不同的利益相关者网络与驱动要素所主导，实证证据的介入不仅限于末端的政策评估，而且贯穿于前端立法与方案设计全过程；更重要的是，证据的利用形态随阶段任务发生质的演变，必须与行动者的专业经验和政治价值深度融合才能实现政策落地。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, pp. 43–46)]]; [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 1–3, 18–19)]]

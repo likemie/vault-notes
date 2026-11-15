@@ -9,7 +9,7 @@ aliases:
 summary: "经合组织在缺乏法定强制力与财政制裁的情形下，依托跨国大规模量化测评、人力资本话语与软法规制，将原本属于民族国家主权专属管辖的公共教育转变为服务于知识经济与经济竞争力的国际基准议程，驱动全球教育政策向其评价标尺与治理范式实质趋同的宏观历史演进过程"
 type: concept
 domain: "comparative-education"
-related_count: 54
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -46,7 +46,9 @@ related_concepts:
   - "[[European Education Space]]"
   - "[[Multilateral Surveillance]]"
   - "[[Heterogeneity]]"
+  - "[[Mimesis]]"
   - "[[Ontology]]"
+  - "[[Alienation]]"
   - "[[Reliability]]"
   - "[[Construct Validity]]"
   - "[[Positional Good]]"
@@ -83,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -168,13 +170,13 @@ updated: 2026-11-03
 > [!dev-timeline] 概念演变
 > - **1990 年代初 — [[Comparative Turn in Education Policy|比较转向]]与基础设施奠基** 经合组织启动教育系统指标项目（INES）并定期发布《[[Education at a Glance|教育概览]]》，拉开从定性审议向定量指标规制转型的序幕。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 272)]]
 > - **2000–2009 — PISA 确立与全球软治理扩散** PISA 2000 首轮测评引爆德国等国系统性危机，经合组织正式确立全球教育评估核心基准地位；学者开始关注其对国家主权政策空间的侵蚀。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009)]]
-> - **2010 年代至今 — “经合组织化”理论化与多边示范** 丹尼斯·尼曼与克斯汀·马滕斯系统提出“经合组织化”概念，指出该组织已成为全球教育政策的唯一总设计中枢，其硬事实软治理模式成为其他涉教国际组织竞相模仿的典范。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 269, 278)]]
+> - **2010 年代至今 — “经合组织化”理论化与多边示范** 丹尼斯·尼曼与克斯汀·马滕斯系统提出“经合组织化”概念，指出该组织已成为全球教育政策的唯一总设计中枢，其硬事实软治理模式成为其他涉教国际组织竞相[[Mimesis|模仿]]的典范。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 269, 278)]]
 
 ---
 
 > [!debates] 学术争议
 >
-> > [!axis] 教育[[Ontology|本体论]]降解与经济工具主义异化
+> > [!axis] 教育[[Ontology|本体论]]降解与经济工具主义[[Alienation|异化]]
 > > 批评学者指出经合组织化将全人成长与民主公民培育降格为劳动力市场技能附庸。
 > >
 > > - **里兹维与林加德（2009）** 指出经合组织通过[[Commensuration|通约化]]制造[[Space of Equivalence|等值空间]]，以统计[[Reliability|信度]]抹杀本土[[Construct Validity|构念效度]]，将教育异化为争夺劳动力相对优势的[[Positional Good|位置性商品]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]

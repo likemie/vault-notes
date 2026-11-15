@@ -7,10 +7,10 @@ title: "Argument_Kelly_Licona_2018_EpistemicPractices"
 argument_key: "Argument_Kelly_Licona_2018_EpistemicPractices"
 argument_display_title: "Epistemic practices and science education"
 argument_kind: "book-chapter"
-argument_related_count: 49
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#fef3c7"
+argument_related_count: 51
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 book_title: "History, Philosophy and Science Teaching: New Perspectives"
 publication_place: "Cham"
 publisher: "Springer"
@@ -51,7 +51,9 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Epistemic Value]]"
   - "[[Operationalization]]"
+  - "[[Mimesis]]"
   - "[[Self-Efficacy]]"
+  - "[[Alienation]]"
   - "[[Epistemic Aims]]"
   - "[[Informal Reasoning]]"
   - "[[Heterogeneity]]"
@@ -93,7 +95,7 @@ sources:
   - "[[books/Matthews(Ed.)_2018_Springer/Ch05_Kelly_Licona_2018|Ch05_Kelly_Licona_2018]]"
 status: draft
 created: 2026-09-21
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 ---
 
@@ -205,7 +207,7 @@ updated: 2026-11-14
 
 > [!quad-grid] 认识论实践四维行动的课堂实证案例深度剖析（pp. 144–147）
 > - **提出主张：高中物理简谐振动实验**（Kelly et al., 2001）
->   - **实验情境与动作** 高中生利用弹簧振子与超声波传感器探究振动，计算机波形图具有显著的解释灵活性（interpretative flexibility, Knorr-Cetina, 1995）。学生在空中用手势模仿振动，将身体感觉与屏幕波形对照。
+>   - **实验情境与动作** 高中生利用弹簧振子与超声波传感器探究振动，计算机波形图具有显著的解释灵活性（interpretative flexibility, Knorr-Cetina, 1995）。学生在空中用手势[[Mimesis|模仿]]振动，将身体感觉与屏幕波形对照。
 >   - **认识论机制** 科学主张的原初提出高度依赖具身动作与仪器读数的微观对质，这些粗粒度试错尝试构成了启动小组后续公共审议的关键认知支点（Garfinkel et al., 1981）。
 > - **沟通主张：小学三年级太阳能装置设计**（Kelly & Brown, 2003）
 >   - **设计语境与受众** 小学三年级学生分组设计太阳能集热烹饪装置，在小组内协商材料折中方案，在全班汇报集热原理，并以实测升温数据回应指定科学小记者的严苛质询。
@@ -271,7 +273,7 @@ updated: 2026-11-14
 
 > [!sub-claim] 1. 探究科学、工程设计与社会科学议题在三大学习目标上呈现显著分化
 
-理查德·杜施尔（Richard Duschl, 2008）提出的三维学习目标（概念、认识论、社会）在不同教学取向中呈现出差异化的侧重点：
+理查德·杜施尔（Richard Duschl, 2008）提出的三维学习目标（概念、认识论、社会）在不同教学取向中呈现出差[[Alienation|异化]]的侧重点：
 
 > [!row-contrast] 表 5.1 三种科学教学取向在三大学习目标上的侧重差异（p. 143）
 > | 学科取向（Disciplinary Approach） | 概念目标（Conceptual） | [[Epistemic Aims\|认识论目标]]（Epistemic） | 社会实践目标（Social） |

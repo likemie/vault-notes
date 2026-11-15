@@ -5,10 +5,10 @@ aliases:
 summary: "对科学方法和科学权威的过度美化与神化，将其排他性外推至原本不适用的人类精神与社会探究领域的认识论倾向。科学主义将实证科学视为唯一合法的求真法则，以工具理性和概念数学化扼杀价值伦理辩论，在当代教育治理中表现为量化霸权与对多元认知方式的系统规训。"
 type: concept
 domain: "educational-philosophy"
-related_count: 58
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - scientism
   - scientific-method
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Cargo Cult Science]]"
   - "[[Evidence-Based Education]]"
   - "[[Technical Rationality]]"
+  - "[[Mimesis]]"
   - "[[Falsification]]"
   - "[[Professional Judgment]]"
   - "[[Variable]]"
@@ -39,6 +40,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[International Baccalaureate]]"
   - "[[Areas of Knowledge]]"
+  - "[[Alienation]]"
   - "[[Heterogeneity]]"
   - "[[Postpositivism]]"
   - "[[Barometer of Achievement]]"
@@ -82,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-14
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -105,7 +107,7 @@ updated: 2026-11-14
 > [!contrast-table] 与相关概念的区别
 > | 维度 | Scientism (科学主义) | [[Cargo Cult Science]] (草包族科学) | [[Evidence-Based Education]] (循证强版本) | [[Technical Rationality]] (技术理性) |
 > |---|---|---|---|---|
-> | **本质** | [[Epistemology\|认识论]]霸权：只有实证科学知识具有合法性 | 伪科学实践：模仿科学外表仪式却无科学求真良知 | 方法层级与证据等级直接篡夺价值判断 | 工具性手段-目的严密控制逻辑 |
+> | **本质** | [[Epistemology\|认识论]]霸权：只有实证科学知识具有合法性 | 伪科学实践：[[Mimesis\|模仿]]科学外表仪式却无科学求真良知 | 方法层级与证据等级直接篡夺价值判断 | 工具性手段-目的严密控制逻辑 |
 > | **核心机制** | 将自然科学受控实验方法机械外推至人类精神世界 | 照搬统计公式与图表仪式，逃避严格[[Falsification\|证伪]]检验 | 以等级金字塔排斥质性、历史与哲学反思证据 | 通过标准化操作规程替代教师情境[[Professional Judgment\|专业判断]] |
 > | **识别信号** | 可测量=最重要；将不可量化之物贬斥为轶事主观 | 图表精美但底层数据不透明、无法独立复现 | [[Randomised Controlled Trials\|RCT]] 与[[Meta-meta-analysis\|二阶元分析]]被奉为教育决策终极圣杯 | 教师被还原为执行标准清单的装配技工 |
 
@@ -168,7 +170,7 @@ updated: 2026-11-14
 > **工具理性极权化与无良知社会的造就** 霍克海默与[[Jürgen Habermas|哈贝马斯]]深刻揭露，[[Positivism|实证主义]]与科学主义对因果预测和有效控制的执念，与[[Behaviorism|行为主义]]的机械刺激-反应操纵一脉相承，构成了狭隘工具理性的极权统治。科学主义彻底扼杀了关于社会伦理、价值取向与人道信念的公共理性辩论；当实证科学被奉为解释人类行为的唯一途径时，人身上最具尊严的自我反思、自由意志与伦理责任被彻底抽空，最终将人类社会推向丧失道德良知的冷酷机器。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 115)]]
 
 > [!claim] Ions (1977)
-> **量化盲从与学术探究的去个性化异化** 特里·扬斯指出，当代社会科学对定量计算与高级统计模型的狂热迷信，实质上构成了抹杀个体[[Heterogeneity|异质性]]的集体主义控制。量化技术本身固然能为经验观察提供辅助工具，但当其反客为主升格为研究终极目的时，社会科学便沦为冷漠数学的一个应用分支，彻底背弃了其深入探索与阐明人类艰难生存困境的人道天职，带来了普遍的去个性化（depersonalization）危机。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 115)]]
+> **量化盲从与学术探究的去个性化[[Alienation|异化]]** 特里·扬斯指出，当代社会科学对定量计算与高级统计模型的狂热迷信，实质上构成了抹杀个体[[Heterogeneity|异质性]]的集体主义控制。量化技术本身固然能为经验观察提供辅助工具，但当其反客为主升格为研究终极目的时，社会科学便沦为冷漠数学的一个应用分支，彻底背弃了其深入探索与阐明人类艰难生存困境的人道天职，带来了普遍的去个性化（depersonalization）危机。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 115)]]
 
 > [!claim] Wittgenstein (1974)
 > **科学疆界与生命根本问题的永恒未及** [[Martin Luther|路德]]维希·维特根斯坦的哲学箴言揭示了科学主义狂妄全能幻觉的[[Epistemology|认识论]]局限：即便自然科学解答了所有能够被经验陈述的科学问题，人类存在的核心困惑、生命意义与伦理抉择却依然丝毫未被触及。科学主义企图用测量数据终结关于教育价值与生命追求的探索，属于根本性的范畴错置。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 115)]]

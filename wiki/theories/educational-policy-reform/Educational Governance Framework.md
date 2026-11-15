@@ -9,7 +9,7 @@ aliases:
 summary: "将教育系统理解为多层级行动者在制度结构中通过协商、博弈与制度工具共同达成决策与行动协调的宏观分析框架"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 32
+theory_related_count: 33
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Epistemic Governance]]"
   - "[[Knowledge Production]]"
+  - "[[Alienation]]"
   - "[[Output-Oriented Governance]]"
   - "[[Dialogue in Education]]"
   - "[[Champ]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-11-11
 > - **2006年 — [[Recontextualization|再情境化]]与多层链条整合** [[Helmut Fend\|赫尔穆特·芬德]]（Helmut Fend）出版《学校新理论》（*Neue Theorie der Schule*），引入再情境化理论，将治理分析具体化为治理工具、[[School Leadership\|学校领导]]、教师教学、学习过程与学业成果五级多层因果链条。
 > - **2016年 — 权威手册集大成** 阿尔特里希特与马格·梅尔基主编《学校系统新治理手册》，将督导评估、自评规划、数据反馈与校长领导力纳入统一治理构件。
 > - **2017年 — 国际组织[[Epistemic Governance|认知治理]]扩展** [[Argument_Zapp_2017_IJED|Zapp (2017, pp. 2–3, 9–10)]] 将教育治理分析框架由国家与单校多层级系统拓展至全球多边组织，结合[[Three Pillars of Institutions|制度三支柱]]与治理工具分类，确立规制性硬治理、规范性软治理与认知治理三维谱系，揭示[[Knowledge Production|知识生产]]、管理与传播作为全球教育治理的核心机制。
-> - **2019年 — 经验形态学深化** [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] 将教育治理框架下沉至基层校长态度与微观工时分配，证实宏观治理工具如何经由行动者认知分化转化为差异化的微观领导行为。
+> - **2019年 — 经验形态学深化** [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] 将教育治理框架下沉至基层校长态度与微观工时分配，证实宏观治理工具如何经由行动者认知分化转化为差[[Alienation|异化]]的微观领导行为。
 
 ---
 

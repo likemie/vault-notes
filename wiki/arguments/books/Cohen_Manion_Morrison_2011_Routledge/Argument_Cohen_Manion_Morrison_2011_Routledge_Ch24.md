@@ -12,9 +12,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24"
 argument_display_title: "Research Methods in Education · Ch24"
 argument_kind: "book-chapter"
-argument_related_count: 59
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
+argument_related_count: 60
+argument_related_level: 6
+argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 book_title: "Research Methods in Education"
 publication_place: "London"
@@ -73,6 +73,7 @@ related_concepts:
   - "[[Trust Calibration]]"
   - "[[Document]]"
   - "[[High-Stakes Testing]]"
+  - "[[Alienation]]"
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Informed Consent]]"
   - "[[Computerized Adaptive Testing]]"
@@ -98,7 +99,7 @@ related_methods:
 related_instruments: []
 status: draft
 created: 2026-07-24
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 ---
 
@@ -997,7 +998,7 @@ Ebel（1979）认为，用于区分不同成就等级的分数越多，等级的
 在高风险评估中（如公开问责和比较学校与教师），甚至存在不允许低表现学生参加测验的问题（Haladyna et al., 1991）。**风险与不伦理行为的程度之间存在相关，风险越大，不伦理行为的发生率越高。**
 
 > [!tip] Gipps（1994）的伦理立场
-> 不伦理实践发生在：分数被**夸大**但关于表现或成就的可靠推断**未被夸大**时；以及不同学生群体被**差异化地准备**测验——给予部分学生不公平的优势。
+> 不伦理实践发生在：分数被**夸大**但关于表现或成就的可靠推断**未被夸大**时；以及不同学生群体被**差[[Alienation|异化]]地准备**测验——给予部分学生不公平的优势。
 >
 > **Gipps 的建议**
 > - 教师教到比测验更广泛的领域是**伦理和合法的**

@@ -7,7 +7,7 @@ aliases:
 summary: "由 Justin Parkhurst（2017）提出的公共政策与教育治理理论，主张超越技术理性对证据‘何者有效’的工具主义迷思，确立证据利用在程序正当性、透明度、多元代表性与可争辩性维度的治理规范，使科学证据与民主价值审议达成有效平衡。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 30
+theory_related_count: 31
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -18,6 +18,7 @@ tags:
   - theme/governance
 related_concepts:
   - "[[Evidence-Based Policy-Making]]"
+  - "[[Alienation]]"
   - "[[What Works Movement]]"
   - "[[Positivism]]"
   - "[[Research Utilization]]"
@@ -56,13 +57,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-26
+updated: 2026-11-15
 ---
 
 ---
 
 > [!theory-position] 理论定位
-> - **解释对象** 公共政策与教育治理中证据利用的政治属性与制度机制，解释为何宣称追求“科学理性”的[[Evidence-Based Policy-Making|循证决策]]常常异化为技术官僚垄断或象征性装点。
+> - **解释对象** 公共政策与教育治理中证据利用的政治属性与制度机制，解释为何宣称追求“科学理性”的[[Evidence-Based Policy-Making|循证决策]]常常[[Alienation|异化]]为技术官僚垄断或象征性装点。
 > - **理论问题** 回应[[What Works Movement\|循证政策运动]]将政策议题窄化为“何者有效”（What Works）的[[Positivism\|实证主义]]弊端，探究如何在承认政治竞争与多元价值合法性的前提下，建立规范化的证据治理体制。
 > - **理论类型** 规范性制度治理理论与中层政策[[Analytic Framework\|分析框架]]。
 > - **知识位置** 根植于公共行政学、政策政治学与科学知识社会学；由英国政策学者[[Justin Parkhurst\|贾斯汀·帕克赫斯特]]（Justin Parkhurst）于 2017 年在其专著《The Politics of Evidence》中系统阐发，并被跨领域证据生态与教育[[Research Utilization Models\|研究使用模型]]深度吸纳。

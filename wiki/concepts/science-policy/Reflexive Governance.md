@@ -8,7 +8,7 @@ aliases:
 summary: "在高度复杂与不确定情境下，通过持续监测、多方学习与动态调整来防范路径锁定的现代治理模式"
 type: concept
 domain: "science-policy"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Regulatory Sandbox]]"
   - "[[Grand Challenges]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Path Dependence]]"
 related_arguments:
@@ -41,7 +42,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -153,7 +154,7 @@ updated: 2026-11-03
 > > - **反思治理派（Voß & Bornemann, 2011; [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al., 2020]]）** 指出缺乏反思的盲目蛮干所带来的社会反弹与返工代价远超审议成本，[[Reflexivity|反思性]]治理应借助小胜策略实现动态推进与审议纠偏的平衡。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 485–487)]]
 
 > [!warning] 适用局限
-> 反思性治理必须依托具备基本制度信任、法治保障与民主协商传统的治理环境；在高度威权或腐败寻租严重的体制中，反思协商机制容易被异化为形式主义走过场。
+> 反思性治理必须依托具备基本制度信任、法治保障与民主协商传统的治理环境；在高度威权或腐败寻租严重的体制中，反思协商机制容易被[[Alienation|异化]]为形式主义走过场。
 
 ---
 

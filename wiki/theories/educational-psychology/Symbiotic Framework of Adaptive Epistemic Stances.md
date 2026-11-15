@@ -8,7 +8,7 @@ aliases:
 summary: "由巫俊宇、李元萱、柴清生与蔡今中（Wu et al., 2025）提出的人机协同学习理论框架，通过修订蔡今中网络学习认识论假说，揭示生成式人工智能环境下学习者的认识立场、先验知识与知识辩护方式如何决定人机共享认识能动性的实现样态，并提出促进立场向评价论演进的教学支架与技术干预机制。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 38
+theory_related_count: 39
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Variable]]"
   - "[[Justification for Knowing]]"
+  - "[[Alienation]]"
   - "[[Epistemic Dependence]]"
   - "[[Metacognition]]"
   - "[[Chain of Evidence]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -105,7 +106,7 @@ updated: 2026-11-11
 
 ---
 
-> [!theory-proposition] 命题一｜不同[[Epistemic Stances\|认识立场]]的学习者在与[[Generative Artificial Intelligence\|生成式人工智能]]交互中获得差异化的认知增益（修订假说一）
+> [!theory-proposition] 命题一｜不同[[Epistemic Stances\|认识立场]]的学习者在与[[Generative Artificial Intelligence\|生成式人工智能]]交互中获得差[[Alienation|异化]]的认知增益（修订假说一）
 > 该命题由 [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 对 Tsai (2004) 第一假说修订而成。生成式系统输出的是高度凝练的整体性答案。具有丰富先验知识且持评价论立场的学习者，能够主动对大模型提出的算法、模型与公式进行多源验证、上下文约束检验并开展多重视角辩护，获得深层理解增益；而先验知识匮乏且持绝对论立场的学习者，倾向于将大模型视为绝对权威或将教材讲义作为唯一标准，容易不加批判地直接接受模型输出或陷入盲信，导致认知处理停留在表层。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–364)]]
 
 > [!example|notitle]

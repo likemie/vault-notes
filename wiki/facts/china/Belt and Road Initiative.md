@@ -13,7 +13,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 47
+fact_related_count: 48
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Outward-Oriented Internationalization]]"
   - "[[Research Universities]]"
   - "[[Transnational Education]]"
+  - "[[Alienation]]"
   - "[[Competitiveness]]"
   - "[[International Education]]"
   - "[[Knowledge Diplomacy]]"
@@ -82,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -132,7 +133,7 @@ updated: 2026-11-11
 > - **政产学研四方协同伙伴架构** 双边政府（政策协同与主权增信）、跨国骨干国企（资金投入与岗位定向吸纳）、行业特色大学（定制工科课程与实验实训）与国际留学生（全额回流母国基建一线）形成互惠共生契约。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 193–194)]]
 
 > [!pathways] 实施路径与管理
-> - **双轨多边网络布局** 中国高校在外向型拓展中采取差异化分工：一轨依托丝路大学联盟实施“低门槛、广吸纳”的开放大众化连接；另一轨依托亚洲大学联盟实行“高门槛、强集聚”的精英封闭化协作，兼顾外交辐射与学术[[Competitiveness|竞争力]]提升。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1699–1703)]]
+> - **双轨多边网络布局** 中国高校在外向型拓展中采取差[[Alienation|异化]]分工：一轨依托丝路大学联盟实施“低门槛、广吸纳”的开放大众化连接；另一轨依托亚洲大学联盟实行“高门槛、强集聚”的精英封闭化协作，兼顾外交辐射与学术[[Competitiveness|竞争力]]提升。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1699–1703)]]
 > - **专项资助与平台赋能** 设立“丝绸之路”中国政府奖学金，实施联合研究资助计划，组建学科子联盟以保障多边合作的实质化落地。
 
 ---

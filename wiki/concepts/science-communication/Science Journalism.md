@@ -7,7 +7,7 @@ aliases:
 summary: "指专业新闻从业者面向公众开展的针对科学探索、科研产出及其社会伦理影响的独立调查、诠释与报道实践；在媒介生态重构冲击下，正经历从传统专职记者主导向数字社交平台多元分发的深刻转型，面临高校通稿过度营销、商业点击率驱动与科研诚信标准对接等核心挑战。"
 type: concept
 domain: "science-communication"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Scientific Uncertainty]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Epistemic Infrastructure]]"
+  - "[[Alienation]]"
   - "[[Responsible Conduct of Research]]"
   - "[[Epistemology]]"
   - "[[Humility]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-03
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -129,7 +130,7 @@ updated: 2026-11-03
 ---
 
 > [!concept-proposition] 命题二｜媒体行业经济萎缩与高校通稿过度营销联手催生了科学新闻流水线化的体制危机
-> **媒介政治经济学与知识异化机制** 传统大众传媒商业模式瓦解导致专业科学记者岗位大幅削减，留存记者面临高频发稿压力，从而被迫依赖机构新闻通稿，导致源头过度夸大在传播链条中层层放大。
+> **媒介政治经济学与知识[[Alienation|异化]]机制** 传统大众传媒商业模式瓦解导致专业科学记者岗位大幅削减，留存记者面临高频发稿压力，从而被迫依赖机构新闻通稿，导致源头过度夸大在传播链条中层层放大。
 
 > [!claim] Sumner et al. (2014)
 > **源头通稿过度营销对大众媒体的污染效应** 对 20 所顶尖大学新闻通稿的大规模实证追踪证明，主流媒体科学新闻中的夸大其词并不仅仅由于记者“理解偏差”，高达三分之一以上的误导性断言（如将相关性篡改为因果建议、将动物实验夸大为人体疗效）直接发端于大学自身的官方通稿；当通稿夸大时，媒体报道失真的发生比（OR）激增 6.5 至 56 倍。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 62)]]

@@ -10,10 +10,10 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1730"
 died: "1788"
 lifespan: "1730–1788"
@@ -33,6 +33,7 @@ related_instruments: []
 related_persons:
   - "[[Johann Gottfried von Herder]]"
   - "[[Friedrich Wilhelm Joseph Schelling]]"
+  - "[[Novalis]]"
   - "[[Friedrich Schlegel]]"
 related_facts:
   - "[[Sturm und Drang]]"
@@ -81,8 +82,8 @@ updated: 2026-11-15
 ---
 
 > [!influence-path] 影响路径
-> - **对[[Sturm und Drang|狂飙突进运动]]的影响** 哈曼出于宗教动机反对过度推崇抽象理性，其对感官、激情与诗意表达的辩护直接滋养了狂飙突进运动一代青年作家与[[Johann Gottfried von Herder|赫尔德]]（Johann Gottfried von Herder）的早期诗学。
-> - **对德国早期浪漫派的开启** 他将艺术作为获取理性无法企及的认知洞见的通道，直接影响了施莱尔马赫（Friedrich Schleiermacher）、[[Friedrich Wilhelm Joseph Schelling|谢林]]（Friedrich Wilhelm Joseph Schelling）、诺瓦利斯（Novalis）与[[Friedrich Schlegel|弗里德里希·施莱格尔]]（Friedrich Schlegel），成为德国浪漫派艺术认识论的重要前史坐标。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 63–64)]]
+> - **对[[Sturm und Drang|狂飙突进运动]]的影响** 哈曼出于宗教动机反对过度推崇抽象理性，其对感官、激情与诗意表达的辩护直接滋养了狂飙突进运动一代青年作家与赫尔德（[[Johann Gottfried von Herder]]）的早期诗学。
+> - **对德国早期浪漫派的开启** 他将艺术作为获取理性无法企及的认知洞见的通道，直接影响了施莱尔马赫（Friedrich Schleiermacher）、谢林（[[Friedrich Wilhelm Joseph Schelling]]）、[[Novalis|诺瓦利斯]]（Novalis）与[[Friedrich Schlegel|弗里德里希·施莱格尔]]（Friedrich Schlegel），成为德国浪漫派艺术认识论的重要前史坐标。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 63–64)]]
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — 将哈曼《核桃壳里的美学》（1762）定位为浪漫派“艺术作为认知媒介”立场早于 35 年的思想先驱，梳理其对狂飙突进运动与早期浪漫派的延续性影响（pp. 63–64）。
@@ -91,7 +92,7 @@ updated: 2026-11-15
 
 > [!person-network] 关系网络
 > - **思想对话者** [[Johann Gottfried von Herder|约翰·戈特弗里德·赫尔德]] — 哈曼在柯尼斯堡时期的紧密思想盟友，共同推动了反启蒙理性主义的语言与诗学转向。
-> - **后世继承者** [[Friedrich Wilhelm Joseph Schelling|谢林]]、[[Friedrich Schlegel|弗里德里希·施莱格尔]]、诺瓦利斯、施莱尔马赫 — 承袭其对抽象理性的宗教性批判以及将艺术视为超越概念的认知通道之立场。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 63–64)]]
+> - **后世继承者** 谢林、[[Friedrich Schlegel|弗里德里希·施莱格尔]]、诺瓦利斯、施莱尔马赫 — 承袭其对抽象理性的宗教性批判以及将艺术视为超越概念的认知通道之立场。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 63–64)]]
 
 ---
 

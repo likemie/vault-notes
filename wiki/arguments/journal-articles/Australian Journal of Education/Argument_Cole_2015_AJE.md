@@ -25,6 +25,7 @@ related_concepts:
   - "[[Critical Thinking Disposition]]"
   - "[[Academic Self-Concept]]"
   - "[[IB Diploma Programme]]"
+  - "[[Alienation]]"
   - "[[Operationalization]]"
   - "[[Metacognition]]"
   - "[[Didaktik]]"
@@ -77,14 +78,14 @@ related_instruments:
   - "[[Academic Self-Concept General Scale]]"
 status: draft
 created: 2026-06-30
-updated: 2026-11-11
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Cole_2015_AJE"
 argument_key: "Argument_Cole_2015_AJE"
 argument_display_title: "Critical thinking skills in the International Baccalaureate's 'Theory of Knowledge' subject: Findings from an Australian study"
 argument_kind: "journal-article"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -101,7 +102,7 @@ journal: "Australian Journal of Education"
 > [!concept-lens] 阅读透镜
 > - **对象** 澳大利亚 [[IB Diploma Programme\|IB DP]] 学校的 11–12 年级 ToK 学生（$n = 1,338$），四所新南威尔士州（NSW）案例学校，以及 DP 与非 DP 大学一年级新生（$n = 389$）。
 > - **张力** 批判性思维教学的两条路径之争：显性独立课程（以 ToK 为代表）与隐性学科融入（澳大利亚主流做法），二者在实证证据与教育政策现实之间的紧张关系。
-> - **贡献** 提供了澳大利亚情境下 ToK 与批判性思维关系的首个全国性实证证据。同时通过四校[[Case Study\|案例研究]]揭示了同一课程框架在不同学校文化中的差异化实施，为"课程设计不能脱离实施语境"这一更广泛的课程理论命题提供了经验支撑。
+> - **贡献** 提供了澳大利亚情境下 ToK 与批判性思维关系的首个全国性实证证据。同时通过四校[[Case Study\|案例研究]]揭示了同一课程框架在不同学校文化中的差[[Alienation|异化]]实施，为"课程设计不能脱离实施语境"这一更广泛的课程理论命题提供了经验支撑。
 
 ---
 

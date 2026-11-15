@@ -9,7 +9,7 @@ subtype: event
 region: eu
 fact_region: "eu"
 fact_kind: "event"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Triangular Cooperation]]"
   - "[[Apprenticeship]]"
   - "[[Selectivity]]"
+  - "[[Alienation]]"
 related_theories:
   - "[[Theory of Change]]"
   - "[[Neocorporatism]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-14'
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 > [!info] 背景
@@ -101,5 +102,5 @@ updated: 2026-10-30
 > - [[Theories of Policy Change]] — 项目考察了地方专业人员如何内化、转化或自主建构[[Theory of Change\|变革理论]]
 > - [[Selectivity]] — 项目数据为[[Performance Indicators\|绩效指标]]体系的选择性效应提供了直接的经验证据
 > - [[Neocorporatism]] — 德国及邻国的新社团主义传统构成了网络治理的重要制度基础
-> - [[Performance Indicators]] — 项目揭示了地方专业人员对 [[EU]] 绩效指标体系的差异化回应
+> - [[Performance Indicators]] — 项目揭示了地方专业人员对 [[EU]] 绩效指标体系的差[[Alienation|异化]]回应
 

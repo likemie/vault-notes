@@ -9,10 +9,10 @@ aliases:
 summary: "适应智能与数据密集型科学范式的新型学术交流与成果发布基础设施；批判并替代源自17世纪印刷时代的静态PDF期刊文章，以集成实时数据流、可执行代码容器（Docker/Conda）、环境依赖与自动化测试管道的动态交互式笔记本为知识发布基准，支持自动化AI复现代理进行秒级验证与跨平台审计。"
 type: concept
 domain: "science-policy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/science-policy
   - field/metascience
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Man-Computer Symbiosis]]"
   - "[[Paradigm]]"
   - "[[Process Knowledge]]"
+  - "[[Alienation]]"
   - "[[Knowledge Production]]"
   - "[[Goodhart's Law]]"
   - "[[Seniority Barrier in Academia]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -80,7 +81,7 @@ updated: 2026-11-11
 
 ---
 
-> [!concept-proposition] 命题一｜静态 PDF 文章出版体制人为制造信息稀缺与过程黑箱，是诱发古德哈特异化与[[Reproducibility Crisis|可重复性危机]]的根源载体
+> [!concept-proposition] 命题一｜静态 PDF 文章出版体制人为制造信息稀缺与过程黑箱，是诱发古德哈特[[Alienation|异化]]与[[Reproducibility Crisis|可重复性危机]]的根源载体
 > **出版[[Paradigm|范式]]异化与知识沉没** 批判源自印刷时代的静态出版如何系统性排斥科学探索中的真实过程数据。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]

@@ -10,7 +10,7 @@ subtype: program
 region: norway
 fact_region: "norway"
 fact_kind: "program"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Academic Freedom]]"
+  - "[[Alienation]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Reliability]]"
   - "[[Early-Career Researchers]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -77,7 +78,7 @@ updated: 2026-11-11
 ---
 
 > [!claim] 核心干预／机制假说
-> FINNUT 改变了传统的纯[[Academic Freedom\|学术自由]]申报或纯政府指令采购模式，创新性设立三类具有差异化[[Knowledge Mobilisation\|知识动员]]导向的资助类别（研究者主导、用户主导、用户协同参与），以此同时达成产出高精尖国际前沿成果、强化实践者本土研究能力，以及在制度化平台上实现跨部门协同治理的三重目标。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 115)]]
+> FINNUT 改变了传统的纯[[Academic Freedom\|学术自由]]申报或纯政府指令采购模式，创新性设立三类具有差[[Alienation|异化]][[Knowledge Mobilisation\|知识动员]]导向的资助类别（研究者主导、用户主导、用户协同参与），以此同时达成产出高精尖国际前沿成果、强化实践者本土研究能力，以及在制度化平台上实现跨部门协同治理的三重目标。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 115)]]
 
 > [!policy-design] 方案设计
 > - **项目目标** 支持高水准原创教育科学研究、推动教育体系创新，并为全层级教育政策制定与学校教学实践提供高[[Reliability\|信度]]证据基准。

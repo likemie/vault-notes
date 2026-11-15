@@ -14,7 +14,7 @@ aliases:
 summary: "科学社会学与学术出版政治经济学中的劳动异化概念；指全球科研人员作为同行审稿人，长期向学术期刊与商业出版商免费提供手稿审查、专业鉴定与修改指导等高强度智力劳动的制度化现象；商业学术出版集团无偿占有这一由公共财政供养的专业劳动，转而通过高昂的订阅费与文章处理费（APC）获取暴利；无偿审稿加剧了一线学者的工作过载与时间碎片化，诱发审稿疲倦并加剧保守的质量把关倾向。"
 type: concept
 domain: "science-policy"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Externalization]]"
   - "[[Early-Career Researchers]]"
+  - "[[Alienation]]"
   - "[[Feedback]]"
   - "[[Professional Judgment]]"
   - "[[Creativity]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -68,7 +69,7 @@ updated: 2026-11-11
 > - **边界** 批判核心针对商业营利性出版商对学者劳动的无偿掠夺与由此引发的审稿质量严重退化，并不否定学术同行相互批评鉴定的自律自治价值。
 
 > [!citation-card] 商业学术出版对同行审稿无偿劳动的汲取
-> 同行评议在当前形式下往往在极繁重的工作量下运行，基本建立在无偿自愿的基础上且激励极其有限，因为许多学者缺乏充足的时间或所需的专业储备；期刊越来越难以招募到资深的合格专家，导致审稿责任不断转移给缺乏经验的[[Early-Career Researchers|青年学者]]，其产生的差异化与有限建设性意见几乎无法提供有效指导。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 4)]]
+> 同行评议在当前形式下往往在极繁重的工作量下运行，基本建立在无偿自愿的基础上且激励极其有限，因为许多学者缺乏充足的时间或所需的专业储备；期刊越来越难以招募到资深的合格专家，导致审稿责任不断转移给缺乏经验的[[Early-Career Researchers|青年学者]]，其产生的差[[Alienation|异化]]与有限建设性意见几乎无法提供有效指导。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 4)]]
 >
 > *(In its current form, peer review often operates under conditions of severe workload, largely on a voluntary basis and with limited incentives, as many academics lack sufficient time or the expertise required. This occurs as journals increasingly struggle to recruit qualified experts, shifting review responsibilities to less experienced researchers. The resulting variability and limited constructiveness of [[Feedback|feedback]] offer little guidance for improvement.)*
 

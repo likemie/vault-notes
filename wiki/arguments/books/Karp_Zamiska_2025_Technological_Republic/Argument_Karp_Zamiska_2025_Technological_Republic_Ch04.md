@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch04"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch04"
 argument_display_title: "End of the atomic age"
 argument_kind: "book-chapter"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[Technological Republic]]"
   - "[[AI Deterrence]]"
+  - "[[Alienation]]"
   - "[[Consumer Internet]]"
   - "[[Perpetual Peace]]"
   - "[[Paradigm]]"
@@ -82,7 +83,7 @@ related_theories:
   - "[[Path Dependence]]"
 status: draft
 created: 2026-10-08
-updated: 2026-10-26
+updated: 2026-11-15
 ---
 ---
 
@@ -101,7 +102,7 @@ updated: 2026-10-26
 >
 > - **资本人才向消费算法避险与国家大构想饥荒**
 >
->   揭示硅谷初创资本与算法工程师向外卖、洗涤、社交娱乐等浅层消费软件过度聚集，批判顶级工程师为商业广告编写算法却回避国家防卫使命的野心异化；援引 1970 年代以来全要素生产率停滞的历史数据，论证[[Consumer Internet|消费互联网]]狭隘化诱发了宏观上的[[Big Idea Famine|大构想饥荒]]，倡导组建国家技术和平队（Technological Peace Corps）以引导顶尖智力重返重大国家使命（pp. 47–51）。
+>   揭示硅谷初创资本与算法工程师向外卖、洗涤、社交娱乐等浅层消费软件过度聚集，批判顶级工程师为商业广告编写算法却回避国家防卫使命的野心[[Alienation|异化]]；援引 1970 年代以来全要素生产率停滞的历史数据，论证[[Consumer Internet|消费互联网]]狭隘化诱发了宏观上的[[Big Idea Famine|大构想饥荒]]，倡导组建国家技术和平队（Technological Peace Corps）以引导顶尖智力重返重大国家使命（pp. 47–51）。
 >
 > - **破除达沃斯迷思与道德二元论，以软件硬实力重铸技术共和国**
 >

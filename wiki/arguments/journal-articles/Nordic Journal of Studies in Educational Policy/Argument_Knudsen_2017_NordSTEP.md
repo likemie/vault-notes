@@ -33,6 +33,7 @@ related_concepts:
   - "[[Engineering Mindset]]"
   - "[[Success Criteria]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Alienation]]"
   - "[[Learning Intentions]]"
   - "[[Homework]]"
   - "[[Discourse]]"
@@ -78,14 +79,14 @@ related_instruments:
   - "[[Visible Classroom]]"
 status: stable
 created: '2026-05-07'
-updated: 2026-11-11
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Knudsen_2017_NordSTEP"
 argument_key: "Argument_Knudsen_2017_NordSTEP"
 argument_display_title: "John Hattie: I'm a statistician, I'm not a theoretician"
 argument_kind: "journal-article"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -190,7 +191,7 @@ journal: "Nordic Journal of Studies in Educational Policy"
 
 > [!debates] 循证修辞反思与本土传统辩白
 >
-> > [!axis] 证据主义标签的异化与剥离
+> > [!axis] 证据主义标签的[[Alienation|异化]]与剥离
 > > 哈蒂明确表达了对循证这一口号的反感，透露《[[Visible Learning|可见的学习]]》封面上印有圣杯与最大循证研究完全出自出版社的商业宣传，违背其个人初衷；循证一词极易使人放弃独立思考，因而必须转向知晓你的影响（know thy impact）。
 >
 > > [!axis] 对接格隆维教育哲学

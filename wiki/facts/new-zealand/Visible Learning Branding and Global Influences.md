@@ -10,7 +10,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 67
+fact_related_count: 68
 fact_related_level: 6
 fact_related_stars: "💎💎"
 fact_related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism]]"
   - "[[Critical Pedagogy]]"
+  - "[[Alienation]]"
   - "[[Teacher Professional Agency]]"
   - "[[Direct Instruction]]"
   - "[[Project-Based Learning]]"
@@ -102,7 +103,7 @@ related_instruments:
 confidence: high
 status: stable
 created: '2026-05-04'
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 > [!claim] 核心定性
@@ -195,7 +196,7 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > > - **“饥饿-危机-私有化”治理循环** 论证 VL 刻意贬低[[Class Size|班级规模]]（词频出现 95 次）与硬件投资的重要性，实质契合了紧缩时期的公共财政削减议程，通过制造学校低效危机推动培训业务私有化。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 31–35)]]
 >
 > > [!axis] [[Cult of the Guru|大师崇拜]]与[[Neo-Taylorism|新泰勒主义]]规训
-> > [[Critical Pedagogy|批判教育学]]者警示 VL 异化为规训教师日常劳动的行政监控工具。
+> > [[Critical Pedagogy|批判教育学]]者警示 VL [[Alienation|异化]]为规训教师日常劳动的行政监控工具。
 > >
 > > - **大师崇拜与行政合谋（[[Argument_Eacott_2017_SLM|Eacott, 2017]], 2019）** 指出 VL 被行政机构包装为不可置疑的科学真理，将复杂教学矮化为可测量的最小单元，剥夺[[Teacher Professional Agency|教师专业能动性]]，沦为新时代的泰勒主义；学术期刊在两天内快速发表 Hattie 回应却多轮拖延批评者文章，反映出出版建制对大师地位的制度偏袒。[[Argument_Eacott_2019_IJLE|(Eacott, 2019, pp. 777–778)]]
 > > - **持续数据生产的跨国组织病理（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）** 澳大利亚学者 Eacott 揭示的“持续数据生产”机制在国际传播中产生多米诺效应；[[Argument_Golovchin_2019_ESC|Golovchin (2019)]]结合俄罗斯转型期教育现状实证指出，将 VL 的排名逻辑引入公立系统极易演变为“人人监视人人”的新行政[[Panopticism|全景敞视]]，使教师淹没于合规自证的报表流水线中，加速了教师群体的职业倦怠与人才流失。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 240–241)]]

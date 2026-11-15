@@ -7,7 +7,7 @@ aliases:
 summary: "批判实在论的核心认识论命题与规范批判工具。由 Roy Bhaskar 提出并经 Andrew Collier 系统化，主张打破事实与价值、实然与应然的二元对立；当科学因果解释成功揭示出某种虚假信念或意识形态表象是由特定社会结构的客观机制所系统性生产与维系时，这项因果解释本身就在逻辑上构成了对该虚假信念及其背后压迫性结构的规范性批判与去合法化实践。"
 type: concept
 domain: "educational-philosophy"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Ontology]]"
   - "[[Paradigm]]"
+  - "[[Alienation]]"
   - "[[Retroduction]]"
   - "[[Scientific Explanation]]"
   - "[[Objectivism]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-19
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -90,7 +91,7 @@ updated: 2026-11-11
 > | **事实与价值关系** | 事实因果解释内在蕴含规范价值评判 | 事实与价值绝对二分，严禁价值介入 | 否认客观事实存在，事实为权力建构 | 强调价值先行，以理性解放预设引导批判 |
 > | **[[Ontology\|本体论]]基础** | [[Critical Realism\|批判实在论]]分层本体论（深层机制） | 经验实在论（局限于可观测事件） | 文本主义与相对主义（无外部实在） | 历史唯物主义与[[Georg Wilhelm Friedrich Hegel\|黑格尔]]辩证法 |
 > | **批判成立依据** | 科学阐明虚假信念得以生成的客观结构 | 不主张批判，仅做统计预测与事实陈述 | 揭示文本内在逻辑矛盾与隐喻滑动 | 揭露阶级统治利益与虚假意识欺骗 |
-> | **在教育政策中的功能** | 穿透表层修辞，解构高教扩张的地缘因果机制 | 测量政策投入产出指标与有效性 | 解构政策词汇的修辞策略与意义不确定性 | 批判资本逻辑对公共教育机构的异化与侵蚀 |
+> | **在教育政策中的功能** | 穿透表层修辞，解构高教扩张的地缘因果机制 | 测量政策投入产出指标与有效性 | 解构政策词汇的修辞策略与意义不确定性 | 批判资本逻辑对公共教育机构的[[Alienation\|异化]]与侵蚀 |
 
 ---
 

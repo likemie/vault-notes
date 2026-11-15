@@ -10,7 +10,7 @@ aliases:
 summary: "中国学习模型中的核心情感与目的性构念，指学习者在青少年阶段反思人生意义并确立明确学业志向的承诺过程；作为连接好學心与学习美德的动力枢纽，其独特特征在于依托家庭与师友的见证人机制将个体抱负转化为社会契约。"
 type: concept
 domain: "chinese-philosophy"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Junzi]]"
   - "[[Social Support]]"
+  - "[[Alienation]]"
   - "[[Student Motivation]]"
   - "[[Western Learner]]"
   - "[[Ideal Learner]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -136,7 +137,7 @@ updated: 2026-11-14
 > > 争论见证人机制究竟主要作为支撑个体克服困难的温暖资源，还是构成压抑个人独立意愿的情感负担。
 > >
 > > - **文化认同支持派（[[Argument_Li_2012_Cambridge|Li, 2012]]）** 强调见证人机制给予青少年深沉的归属感与社会安全感，有效对冲学业挫折带来的孤独与无助。
-> > - **批判心理学派** 指出当青少年的真实兴趣与家庭阶层再生产期待发生背离时，公开见证机制容易异化为强制服从家族意志的伦理枷锁。
+> > - **批判心理学派** 指出当青少年的真实兴趣与家庭阶层再生产期待发生背离时，公开见证机制容易[[Alienation|异化]]为强制服从家族意志的伦理枷锁。
 
 > [!warning|limits] 适用局限
 > 该概念专用于分析东亚文化圈中深受儒家传统影响的[[Student Motivation|学习动机]]与家庭教育互动，不宜生硬套用于高度强调个体主义与个人边界的西方教育情境。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 93–94)]]

@@ -8,7 +8,7 @@ aliases:
 summary: "参与公立学校教育政策制定、管理运营支持与核心教育服务交付的私营部门实体，兼具营利与非营利形式。在英美多以特许学校或学院连锁运营，在新西兰则演化为母体慈善信托与全资营利公司构成的双层混合法人架构，借助官方信息法豁免构筑民主问责屏障并实现免税套利。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[Research Tool]]"
   - "[[Visible Learning]]"
+  - "[[Alienation]]"
   - "[[Public-Private Partnership]]"
   - "[[Professional Learning Community]]"
   - "[[Competitiveness]]"
@@ -59,7 +60,7 @@ related_instruments:
 confidence: high
 status: completed
 created: '2026-05-04'
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -167,7 +168,7 @@ updated: 2026-11-11
 > **权威学者背书、知识产权垄断与[[Transnational Education|跨国教育]]商业扩张** 揭示 EMO 如何通过与顶尖学术权威形成商业共生同盟，将公共科研转化为跨国商业特许帝国。
 
 > [!claim] O'Neill, J. et al.
-> **学术中立声誉向跨国商业特许资本的转化** 奥尼尔等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）指出，EMO 摆脱区域局限、走向全球资本积累的核心手段，在于将公立大学学者的学术声誉与[[Research Tool|研究工具]]进行排他性的知识产权封装。以认知教育集团为例，该组织深度锁定奥克兰大学教授[[John Hattie|约翰·哈蒂]]（John Hattie），将其在全球政策界风靡的“[[Visible Learning|可见的学习]]”研究成果商业化注册为“[[Visible Learning Branding and Global Influences|Visible Learningplus]]”商标，并获得全球独家特许经营权。认知教育集团不仅借此垄断了新西兰本国多达 80 万名学生的评估工具分销，更跨国授权 [[Corwin Press|Corwin]] 出版社（针对北美与澳大利亚市场）及麦克米兰公司（针对英国及欧洲市场），在全球 35 个国家建立起覆盖咨询、讲座、评估量规与教师认证的庞大特许加盟网络。学术知识的公共性在此被彻底异化为排他性的商业资本，形成了学者获取巨额个人提成、EMO 赚取全球特许收益的双重利益共谋（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 65–70]]）。
+> **学术中立声誉向跨国商业特许资本的转化** 奥尼尔等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）指出，EMO 摆脱区域局限、走向全球资本积累的核心手段，在于将公立大学学者的学术声誉与[[Research Tool|研究工具]]进行排他性的知识产权封装。以认知教育集团为例，该组织深度锁定奥克兰大学教授[[John Hattie|约翰·哈蒂]]（John Hattie），将其在全球政策界风靡的“[[Visible Learning|可见的学习]]”研究成果商业化注册为“[[Visible Learning Branding and Global Influences|Visible Learningplus]]”商标，并获得全球独家特许经营权。认知教育集团不仅借此垄断了新西兰本国多达 80 万名学生的评估工具分销，更跨国授权 [[Corwin Press|Corwin]] 出版社（针对北美与澳大利亚市场）及麦克米兰公司（针对英国及欧洲市场），在全球 35 个国家建立起覆盖咨询、讲座、评估量规与教师认证的庞大特许加盟网络。学术知识的公共性在此被彻底[[Alienation|异化]]为排他性的商业资本，形成了学者获取巨额个人提成、EMO 赚取全球特许收益的双重利益共谋（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 65–70]]）。
 
 ---
 

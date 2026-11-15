@@ -9,7 +9,7 @@ aliases:
 summary: "法国哲学家与社会学家亨利·列斐伏尔（Henri Lefebvre）在《空间的生产》（1991）中创立的批判空间理论分析框架，确立空间并非自然中立的被动容器，而是由社会关系生产的动态产物；通过空间实践（感知空间）、空间表征（构想空间）与表征性空间（活生生空间）三元辩证互动，为比较教育学解构学校空间治理规训以及分析高等教育区域产学政网络提供了核心理论透镜。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 36
+theory_related_count: 37
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Enlightenment]]"
   - "[[Space Production]]"
+  - "[[Alienation]]"
   - "[[Third Space Discourse]]"
   - "[[Paradigm]]"
   - "[[European Education Space]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-11
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -84,7 +85,7 @@ updated: 2026-11-11
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 法国哲学家与社会学家亨利·列斐伏尔（Henri Lefebvre）于 1974 年出版法文原著《空间的生产》（*La production de l'espace*，1991 年由 Donald Nicholson-Smith 英译出版为 *The Production of Space*）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
 > - **原初问题** 传统西方哲学（如[[René Descartes|笛卡尔]]主义几何空间与[[Immanuel Kant|康德]]先验感性形式）将空间客体化为抽象中立的背景，而传统马克思主义历史唯物主义过度聚焦于时间演进与历史发展阶段，忽略了晚期资本主义城市化扩张与空间殖民化对社会关系再生产的决定性作用。
-> - **理论资源与材料** 列斐伏尔批判性吸收[[Georg Wilhelm Friedrich Hegel|黑格尔]]辩证法与马克思资本再生产理论，结合战后法国都市现代化扩张、郊区新城规划与日常生活异化批判，将马克思的物质生产概念扩展至空间维度的生产。
+> - **理论资源与材料** 列斐伏尔批判性吸收[[Georg Wilhelm Friedrich Hegel|黑格尔]]辩证法与马克思资本再生产理论，结合战后法国都市现代化扩张、郊区新城规划与日常生活[[Alienation|异化]]批判，将马克思的物质生产概念扩展至空间维度的生产。
 > - **形成路径** 打破“物质空间”与“精神空间”的二元对立，引入“社会空间”概念，提出三位一体的空间三元辩证法（Spatial Triad），揭示空间如何在物理感知、概念构想与生活体验的张力中被持续生产与重构。
 
 > [!dev-timeline] 理论版本与跨领域扩展

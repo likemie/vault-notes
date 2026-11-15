@@ -8,7 +8,7 @@ aliases:
 summary: "由美国大学理事会建立的高中大学水平单科课程与考试体系，以外部评价支持大学分班或学分，并构成国际文凭进入北美高中的重要制度先例与比较对象。"
 type: concept
 domain: "curriculum"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Extended Essay]]"
   - "[[Teacher Collaboration]]"
+  - "[[Alienation]]"
 related_facts:
   - "[[Sputnik Shock 1957]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
@@ -32,7 +33,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-09-01
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -83,7 +84,7 @@ updated: 2026-10-30
 > | **1982 年** | 参加一门或多门 AP 考试者 | 接近 142,000 人 | AP 已形成显著规模和公众熟悉度。 | 人数不是课程门数，也不能直接与完整文凭人数作同单位比较。 |
 > | **1982 年** | 北美两年制 IB 项目学生 | 1,449 人 | IB 当时仍是小规模、整体课程型方案。 | 项目学生与最终获文凭人数不同。 |
 >
-> 数量差距说明 IB 在北美的差异化优势不可能来自规模，而来自课程整体性、国际标准和校际网络。它不证明 IB 的学习效果高于 AP。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 136, 139–140)]]
+> 数量差距说明 IB 在北美的差[[Alienation|异化]]优势不可能来自规模，而来自课程整体性、国际标准和校际网络。它不证明 IB 的学习效果高于 AP。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 136, 139–140)]]
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6)]] — 以 AP 解释北美公立高中接受外部课程与考试的制度先例，并比较其单科选择与 IB 完整课程的不同。

@@ -12,7 +12,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Competitiveness]]"
   - "[[Paradigm]]"
+  - "[[Alienation]]"
   - "[[Heterogeneity]]"
   - "[[Governing by Numbers]]"
 related_theories: []
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-10-26
+updated: 2026-11-15
 ---
 
 ---
@@ -116,7 +117,7 @@ updated: 2026-10-26
 > [!indicators] 历史影响维度
 > - **学制全域学院化** 依据 [[PISA]] 危机动员通过的法案，使英格兰半数以上中等学校彻底脱离地方教育局管辖，转变为由私营信托运营的学院学校（Academies）。
 > - **[[Mediatised Governance|媒介化治理]][[Paradigm|范式]]奠立** 确立了政客依托大众传媒逻辑制造“虚假实证共识”的治理范式，消解了教育公共辩论中严肃的民主审查职能。
-> - **政策避重就轻与课程异化** 政府选择性忽视 [[OECD]] 强调的教育包容与动手探究建议，强推事实识记与应试练习，导致动手实验课时严重压缩。
+> - **政策避重就轻与课程[[Alienation|异化]]** 政府选择性忽视 [[OECD]] 强调的教育包容与动手探究建议，强推事实识记与应试练习，导致动手实验课时严重压缩。
 
 > [!finding-cards] 关键历史后果
 > - **公立基础教育治理版图破碎化** 随着自由学校与学院信托的无序扩张，英格兰基础教育失去了统一的地方统筹中枢，加剧了校际招生竞争与隐性生源筛选。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 125–126)]]

@@ -8,7 +8,7 @@ aliases:
 summary: "家长为子女选择就读学校的实践与政策逻辑，受家庭经济、社会与文化资本的系统筛选；在不同体制下分化为以新自由主义竞争为导向的市场化择校与以行政分流为导向的城镇化择校；多层实证数据显示学校间方差仅占 5–10%，择校难以替代微观教师教学质量。"
 type: concept
 domain: "sociology-of-education"
-related_count: 58
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[High-Stakes Testing]]"
+  - "[[Alienation]]"
   - "[[Charter Schools]]"
   - "[[School Vouchers]]"
   - "[[New Public Management]]"
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-10
+updated: 2026-11-15
 ---
 
 ---
@@ -140,7 +141,7 @@ updated: 2026-11-10
 ---
 
 > [!concept-proposition] 命题一｜择校竞争受到阶层化家庭资本存量的系统筛选并再生产社会分层
-> **阶层化资本筛选与再生产机制** 探讨各阶层拥有的差异化资本如何决定择校竞争的成败，指出选择自由最终演化为阶级再生产的制度化管道。
+> **阶层化资本筛选与再生产机制** 探讨各阶层拥有的差[[Alienation|异化]]资本如何决定择校竞争的成败，指出选择自由最终演化为阶级再生产的制度化管道。
 
 > [!claim] [[Argument_Teng_2025_CE\|Teng and Wang (2025)]]
 > **县域择校中的资本折算** 在行政与关系合谋的小城镇教育市场中，经济资本构成准入门槛，社会资本（强关系网络）作为裙带拦截的主导机制，其作用远超[[Cultural Capital\|文化资本]]，成为决定择校成功的关键力量。[[Argument_Teng_2025_CE\|Teng and Wang (2025, pp. 308–310)]]

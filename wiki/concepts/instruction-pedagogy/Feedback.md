@@ -5,7 +5,7 @@ aliases:
 summary: "围绕学习表现、理解状态与改进行动的信息交互机制，包含目标、当前表现与未来路径三维度；在宏观循证综合中常被泛化并混杂行为强化、教师亲和力与测验提示，其实践效能深度依赖情境、元认知引导与主体间承认。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 61
+related_count: 63
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Learning Strategies]]"
   - "[[Intentionality]]"
+  - "[[Alienation]]"
   - "[[Technical Rationality]]"
   - "[[Paradigm]]"
   - "[[Problem Solving]]"
@@ -83,10 +84,11 @@ related_arguments:
   - "[[Argument_Rømer_2018_EPT]]"
   - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
   - "[[Argument_Hattie_2005_ACER]]"
+  - "[[Argument_Barrenechea_2023_JEC]]"
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-10
+updated: 2026-11-15
 ---
 
 > [!def] Feedback
@@ -150,7 +152,7 @@ updated: 2026-11-10
 ---
 
 > [!concept-proposition] 命题二｜将反馈还原为[[Behaviorism|行为主义]]刺激—纠错回路消解了学习者[[Intentionality|意向性]]与主体间承认
-> **[[Epistemology|认识论]]前设与交往异化批判** 从批判哲学与解释学视界反思[[Technical Rationality|技术理性]][[Paradigm|范式]]对教育关系的工具化降格。
+> **[[Epistemology|认识论]]前设与交往[[Alienation|异化]]批判** 从批判哲学与解释学视界反思[[Technical Rationality|技术理性]][[Paradigm|范式]]对教育关系的工具化降格。
 
 > [!claim] [[Klaus Nielsen|Nielsen, K.]] & Klitmøller, J.; Honneth, A.
 > **技术理性控制回路对[[Intentionality|主体意向性]]的消解** 尼尔森等（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）指出，[[John Hattie|哈蒂]]对反馈的界定承袭了[[B. F. Skinner|斯金纳]]—[[Robert Glaser|格拉泽]]（Skinner-Glaser）的[[Behaviorism|行为主义]]谱系，将反馈窄化为修正偏差的外部刺激回路，服务于工程学式的输入—输出控制。这种模式将能动学习者降格为被动响应的技术[[Problem Solving|问题解决]]器，忽略了个体寻求生命意义与社会认同的意向性（intentionality）。[[Axel Honneth|霍耐特]]（Honneth, 1996）的[[Recognition Theory|承认理论]]表明，对个体自主性与意向性的社会承认是人类健全发展的心理基石；若教学评估系统将师生对话矮化为单向纠错代码，便构成了对主体承认的系统性剥夺，导致教学实践的社会异化（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a, pp. 13–15]]）。

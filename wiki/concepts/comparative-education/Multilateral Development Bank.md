@@ -8,7 +8,7 @@ aliases:
 summary: "由多个主权国家共同创立持股的超国家开发性金融机构；其金融本质是依托发达出资国的最高信用评级在国际债券市场极低息筹集资金、以保本微利原则向发展中借款国发放长期优惠贷款的主权信用合作社；在教育治理中，其通过信贷资金注入、对等资金绑定、政策附加条件与技术建议施加深层影响，但深陷繁琐官僚报销与评估重投入轻产出的执行困境。"
 type: concept
 domain: "comparative-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Policy Conditionalities]]"
   - "[[Foundational Literacy and Numeracy]]"
   - "[[Zone of Discretion]]"
+  - "[[Alienation]]"
   - "[[Disbursement-Driven Evaluation]]"
   - "[[Academic Achievement]]"
   - "[[Development Education]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -95,7 +96,7 @@ updated: 2026-11-11
 > - **主权违约威慑与零信用风险（[[International Monetary Fund|IMF]] Blacklist Deterrence）** 国际多边治理体系确立了刚性惩罚：任何拒不向[[World Bank|世界银行]]或区域开发银行还款的国家，将自动被列入国际货币基金组织的黑名单，瞬间切断从全球所有公私金融机构融资的通道；这使得多边银行官员完全无需承担商业信用坏账风险，能够全神贯注于项目设计与政策推介。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 457)]]
 > - **契约化连续性与[[Counterpart Funds|对等配套资金]]（Counterpart Funds & Contractual Inertia）** 贷款项目需经历至少 1 至 2 年的繁复设计与严密法律谈判，且借款国通常被要求按比例自筹对等配套资金（如借一美元需自配一美元）；这种高度法律化的契约使得项目具备强大的抗政治干扰惯性，有效遏制了借款国政客走马灯式换届引发的朝令夕改。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 458)]]
 > - **顶尖学术精英官制与理论论战（Elite Technocracy & Academic Hubris）** 多边开发银行汇聚了来自全球顶尖大学经济学与社会科学背景的精英官僚；内部是充斥着激烈的学术论战、政策辩论与智识傲慢，有别于铁板一块的教条军队；项目官员在与借款国部长的具体谈判中享有极大的[[Zone of Discretion|自由裁量空间]]。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 460–461, 465)]]
-> - **重投入轻产出的执行评估异化（[[Disbursement-Driven Evaluation|Input-Biased Evaluation]]）** 银行内部激励体系以“资金顺利拨付（Disbursement）”和“采购合规（校舍建成、教材印发、计算机到位）”为终极考核标准；对于教师是否真正掌握新教法、学生[[Academic Achievement|学业表现]]是否实质提升等深层成效，缺乏制度化追踪动力与反思激励。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 470–471)]]
+> - **重投入轻产出的执行评估[[Alienation|异化]]（[[Disbursement-Driven Evaluation|Input-Biased Evaluation]]）** 银行内部激励体系以“资金顺利拨付（Disbursement）”和“采购合规（校舍建成、教材印发、计算机到位）”为终极考核标准；对于教师是否真正掌握新教法、学生[[Academic Achievement|学业表现]]是否实质提升等深层成效，缺乏制度化追踪动力与反思激励。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 470–471)]]
 
 > [!logic-map]- 多边开发银行教育贷款的生命周期与体制矛盾
 > ```mermaid

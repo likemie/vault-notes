@@ -53,6 +53,7 @@ related_concepts:
   - "[[Academic Engagement]]"
   - "[[Student Engagement]]"
   - "[[Interaction Effect]]"
+  - "[[Alienation]]"
   - "[[Formative Assessment]]"
   - "[[Learner Autonomy]]"
   - "[[Champ]]"
@@ -104,14 +105,14 @@ sources:
 part_of:
 status: draft
 created: 2026-08-20
-updated: 2026-10-30
+updated: 2026-11-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Song_Choi_2026_FPSYG"
 argument_key: "Argument_Song_Choi_2026_FPSYG"
 argument_display_title: "A three-level meta-analysis of the association between students’ epistemic cognition and learning outcomes in South Korea"
 argument_kind: "journal-article"
-argument_related_count: 73
+argument_related_count: 74
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -338,7 +339,7 @@ issuing_organization: ""
 > [!chain-link] 证据到判断
 > - **小学阶段的强预测力** 小学样本（$k = 49$）的加权效应量高达 $r = 0.375$（$95\%\text{ CI } [0.262, 0.477], z = 6.144, p < 0.001$），显著高出初高中两倍以上。
 > - **初高中阶段的断崖衰减** 初中（$k = 251, r = 0.142$）与高中（$k = 188, r = 0.157$）效应量急剧萎缩，小学与初高中 95% CI 完全不重叠。
-> - **应试生态的阶梯式挤出** 随着学段上升，高利害[[Gaokao\|高考]]（CSAT / Suneung）与高额补习支出（高中月均 240 美元）将教学异化为解题套路与标准答案训练，压制了认识论认知的转化空间。
+> - **应试生态的阶梯式挤出** 随着学段上升，高利害[[Gaokao\|高考]]（CSAT / Suneung）与高额补习支出（高中月均 240 美元）将教学[[Alienation|异化]]为解题套路与标准答案训练，压制了认识论认知的转化空间。
 
 > [!ma-table]- 表 5：学段[[Moderator Analysis\|调节变量分析]]
 > | 学段类别 (School Level) | 效应量数 (k) | 加权效应量 (r) | 95% [[Confidence Interval\|置信区间]] (CI) | 组间检验 F(df) | 调节显著性 p |

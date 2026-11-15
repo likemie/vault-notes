@@ -10,7 +10,7 @@ title: "Argument_Hammermeister_2002_Cambridge_Ch02"
 argument_key: "Argument_Hammermeister_2002_Cambridge_Ch02"
 argument_display_title: "The German aesthetic tradition"
 argument_kind: "book-chapter"
-argument_related_count: 34
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[The Sublime]]"
   - "[[Aesthetic Autonomy]]"
   - "[[Epistemology]]"
+  - "[[Mimesis]]"
   - "[[Sensual Cognition]]"
   - "[[Free Beauty]]"
   - "[[Adherent Beauty]]"
@@ -61,6 +62,7 @@ related_persons:
   - "[[Aristotle]]"
   - "[[Friedrich Schiller]]"
   - "[[Moses Mendelssohn]]"
+  - "[[Manfred Frank]]"
   - "[[Jürgen Habermas]]"
   - "[[Johann Gottlieb Fichte]]"
 confidence: high
@@ -128,7 +130,7 @@ updated: "2026-11-15"
 > [!sub-claim] 2. 艺术只有脱离认知竞赛，才能摆脱哲学贬低
 
 > [!example] 柏拉图床的画作、莱辛《拉奥孔》与[[Alexander Gottlieb Baumgarten|鲍姆嘉通]]的困境
-> - **柏拉图《理想国》第十卷的贬低** 在柏拉图看来，永恒的“理念”才是万物的源头；工匠对照床的理念造出实体的床，已经不如理念完美；画家再照着实体的床去画，画出来的床既不能睡又不实用，离理念隔了两层，所以绘画教不了人多少真知识（尽管柏拉图也提过直接依理念作画的“秘传模仿”，后来启发了[[Friedrich Wilhelm Joseph Schelling|弗里德里希·威廉·约瑟夫·谢林]]（Friedrich Wilhelm Joseph Schelling）与叔本华，但整体上仍轻视艺术的认知价值）（pp. 22, 219 n.1）。
+> - **柏拉图《理想国》第十卷的贬低** 在柏拉图看来，永恒的“理念”才是万物的源头；工匠对照床的理念造出实体的床，已经不如理念完美；画家再照着实体的床去画，画出来的床既不能睡又不实用，离理念隔了两层，所以绘画教不了人多少真知识（尽管柏拉图也提过直接依理念作画的“秘传[[Mimesis|模仿]]”，后来启发了[[Friedrich Wilhelm Joseph Schelling|弗里德里希·威廉·约瑟夫·谢林]]（Friedrich Wilhelm Joseph Schelling）与叔本华，但整体上仍轻视艺术的认知价值）（pp. 22, 219 n.1）。
 > - **莱辛《拉奥孔》（1766）的斯多葛式断语** 戈特霍尔德·埃夫莱姆·莱辛（Gotthold Ephraim Lessing）说得很干脆：“灵魂真正需要的是真理；若有人强行干涉这项需要，就是暴政。而艺术的最终目的是让人愉悦；愉悦则是可有可无的”（p. 22）。
 > - **[[Alexander Gottlieb Baumgarten|鲍姆嘉通]]的等级困局** 康德虽然敬重鲍姆嘉通作为形而上学家的功力，却认为他的美学方案走不通：一旦把[[Sensual Cognition|感性认识]]定为低于理性的“下级认识”，拿艺术去和理性比拼认知能力，艺术就永远低人一等（pp. 22–23）。
 
@@ -205,7 +207,7 @@ updated: "2026-11-15"
 > - **德国浪漫派、海德格尔与阿多诺把主观体验变成作品属性** 康德之后，德国浪漫派（尤其是谢林）以及海德格尔、阿多诺虽然抛弃了康德“美只在主观心里”的立场，却接过了“艺术品永远说不尽”这一洞见，并把它从观众的主观感受改写为艺术作品自身的内在特质（p. 31）。
 > - **无功利愉悦的思想史脉络（Cassirer, 1981）** 恩斯特·卡西尔（Ernst Cassirer）梳理了从普罗提诺经[[Moses Mendelssohn|门德尔松]]、莫里茨一路传到康德的“无功利愉悦”思想线（p. 220 n.10）。
 > - **非工具性与乌托邦解读（Paetzold, 1983）** 海因茨·帕茨奥尔德（Heinz Paetzold）把无功利愉悦和自由游戏解读为“不把他人和事物当工具”的关系原型，视作未来理想社会的缩影（p. 220 n.11）。
-> - **主观普遍性与商谈伦理学（Frank, 1989）** 曼弗雷德·弗兰克（Manfred Frank）则注意到，康德“个人审美判断却要求人人认同”的思路，与[[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas）、卡尔-奥托·阿佩尔（Karl-Otto Apel）在对话中寻求共识的商谈伦理学有着密切联系（p. 220 n.11）。
+> - **主观普遍性与商谈伦理学（Frank, 1989）** [[Manfred Frank|曼弗雷德·弗兰克]]（Manfred Frank）则注意到，康德“个人审美判断却要求人人认同”的思路，与[[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas）、卡尔-奥托·阿佩尔（Karl-Otto Apel）在对话中寻求共识的商谈伦理学有着密切联系（p. 220 n.11）。
 
 > [!debates] 围绕康德审美理念与非概念判断的后世学术争议
 >

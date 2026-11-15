@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 35
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[School Leadership]]"
   - "[[New Public Management]]"
+  - "[[Alienation]]"
   - "[[Knowledge Mediation]]"
   - "[[Policy Brokerage]]"
   - "[[Teacher Leadership]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -91,7 +92,7 @@ updated: 2026-11-14
 > - **项目目标** 帮助各国审视并开发能够提升教学效能、促进教师职业吸引力并优化学校管理生态的系统性政策工具。
 > - **覆盖对象** 各参与国按严格概率比例抽样（PPS）选取的代表性公立与私立学校初中教师全职与兼职队伍及任职校长。
 > - **干预措施** 实施由主问卷、教师问卷（约 45–60 分钟）与校长问卷组成的标准化测量工具箱，并在部分国家增设“TALIS-[[PISA]] 联动调查（TALIS-PISA Link）”，实现教师教学特征与学生 PISA 分数的微观匹配分析。
-> - **工会参与与指标共同治理** [[Education International\|国际教育协会]]（EI）通过[[OECD\|经合组织]]工会咨询委员会（TUAC）在 TALIS 理事会获得常设观察员席位，确立“跨国调查的数据与政策结论，既属于决策当局，也完全属于广大教师及其专业组织”的核心原则，防止调查异化为单向管理主义监控工具。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–211)]]
+> - **工会参与与指标共同治理** [[Education International\|国际教育协会]]（EI）通过[[OECD\|经合组织]]工会咨询委员会（TUAC）在 TALIS 理事会获得常设观察员席位，确立“跨国调查的数据与政策结论，既属于决策当局，也完全属于广大教师及其专业组织”的核心原则，防止调查[[Alienation|异化]]为单向管理主义监控工具。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–211)]]
 > - **实施控制** 统一采用国际质量监督员现场巡视、匿名在线填报系统、标准翻译与跨文化[[Back Translation\|回译]]审定规程，确保跨国测量等价性。
 
 > [!citation-card] [[OECD\|经合组织]][[Knowledge Mediation\|知识中介]]工具的生态矩阵

@@ -8,7 +8,7 @@ aliases:
 summary: "由国家或公共权力自上而下设定明确战略目标、聚焦国家安全与重大关键技术突破的研发组织范式，强调战略需求牵引、资源垂直集中动员与确定性交付，与自由探索型研究及应用启发型研究构成现代科研生态的三大分化轨道。"
 type: concept
 domain: "science-policy"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Market Shaping and Creating]]"
   - "[[Research Universities]]"
+  - "[[Alienation]]"
   - "[[General Purpose Technology]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Valley of Death]]"
@@ -71,7 +72,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -140,7 +141,7 @@ updated: 2026-11-11
 > **切断源头认知积累的内在脆弱性** 任务导向型研究若过度排挤自由探索，将切断底层科学[[Knowledge Production|知识生产]]的源头活水；该模式高度依赖行政指令与短期指标，缺乏学术共同体内部的自主纠错机制，在应对不可预测的未来科技[[Paradigm|范式]]颠覆时面临显著的体系脆弱性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1063–1064)]]
 
 > [!claim] [[Argument_Yang_2017_MUE|杨九斌 (2017)]]
-> **涉密军工任务垄断异化大学学术生态** 冷战初期[[Harry S. Truman|杜鲁门]]政府以国防部（[[Department of Defense|DOD]]）与原子能委员会（[[ASEAN Economic Community|AEC]]）涉密军工合同垄断了大学 76% 的科研经费，国防部研究预算中基础研究仅占 4%；高校研究人员被降格为军工外包雇工，军事保密与行政控制严重压抑了自由基础探索；学术咨询精英依托卫星危机外部冲击推动科研资助转向民用同行评议，揭示了过度任务导向对大学学术自治的异化机制。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–37)]]
+> **涉密军工任务垄断[[Alienation|异化]]大学学术生态** 冷战初期[[Harry S. Truman|杜鲁门]]政府以国防部（[[Department of Defense|DOD]]）与原子能委员会（[[ASEAN Economic Community|AEC]]）涉密军工合同垄断了大学 76% 的科研经费，国防部研究预算中基础研究仅占 4%；高校研究人员被降格为军工外包雇工，军事保密与行政控制严重压抑了自由基础探索；学术咨询精英依托卫星危机外部冲击推动科研资助转向民用同行评议，揭示了过度任务导向对大学学术自治的异化机制。[[Argument_Yang_2017_MUE|(杨九斌, 2017, pp. 35–37)]]
 
 ---
 

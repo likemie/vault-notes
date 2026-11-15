@@ -9,7 +9,7 @@ aliases:
 summary: "指由研究生产者、政策制定者、教育实践者、中介机构与资助方等多方行动者共同构成，通过评价、综合、翻译、中介动员与实践应用等多向交互与动态反馈回路，驱动研究证据协同演化的复杂自适应系统。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 96
+related_count: 97
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Champ]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Alienation]]"
   - "[[Scientism]]"
   - "[[Technical Rationality]]"
   - "[[Embedded Researcher]]"
@@ -126,7 +127,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -311,7 +312,7 @@ updated: 2026-11-14
 
 ---
 
-> [!concept-proposition] 命题六｜决策交互的交易型异化将证据窄化为技术修补工具而阻断公共审议
+> [!concept-proposition] 命题六｜决策交互的交易型[[Alienation|异化]]将证据窄化为技术修补工具而阻断公共审议
 > **证据应用场景技术化与政学信任赤字** 围绕公职人员心智模式与证据应用功能的分化展开。实证表明，高调的[[Scientism\|科学主义]]理念掩盖了深层的政学信任赤字。
 
 > [!claim] Hill, D.

@@ -14,7 +14,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ tags:
 related_concepts:
   - "[[Competitiveness]]"
   - "[[Early-Career Researchers]]"
+  - "[[Alienation]]"
   - "[[Creativity]]"
   - "[[Modified Lottery in Research Funding]]"
   - "[[Academic Precarity]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-03
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-11-11
 > [!dev-timeline] 项目推进历程
 > - **1996 — 计划初创** 欧盟正式整合玛丽·居里研究培训资助计划，确立以学者个体为资助核心的跨国流动政策基础。
 > - **2014–2020 — 地平线2020阶段标准化** 正式更名为玛丽·斯克沃多夫斯卡-居里行动计划（MSCA），确立博士网络（Doctoral Networks）、博士后奖学金（Postdoctoral Fellowships）与人员交换计划三大核心支柱。
-> - **2021–2027 — 地平线欧洲与超竞争异化** 计划总预算达到约 66 亿欧元，全球申请规模呈爆炸性增长，边际评审分数通胀严重，引发学界对申请内耗与科研平庸化的广泛反思。
+> - **2021–2027 — 地平线欧洲与超竞争[[Alienation|异化]]** 计划总预算达到约 66 亿欧元，全球申请规模呈爆炸性增长，边际评审分数通胀严重，引发学界对申请内耗与科研平庸化的广泛反思。
 > - **2026 — 成为科学政策与抽签改革实证焦点** 豪布罗克等在《自然-人类行为》引用 MSCA 2025 年超竞争数据，实证论证微小分值淘汰机制对全球青年学者[[Creativity|创造力]]的系统性折损，倡导在类似高水准项目中推行适度抽签机制。[[Argument_Haubrock_2026_NHB|(Haubrock et al., 2026, p. 5)]]
 
 ---

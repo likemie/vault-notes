@@ -9,7 +9,7 @@ aliases:
 summary: "指出个体的认知能力、思维技能与认识论信念是深度内嵌于特定学科知识结构与社会情境中，有别于跨情境通用的；现代研究主张通过通用规则与学科融入相结合的混合双层模型实现认知迁移"
 type: concept
 domain: "educational-psychology"
-related_count: 57
+related_count: 58
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Evidence Standards]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Alienation]]"
   - "[[Epistemic Resources]]"
   - "[[Discourse]]"
   - "[[Epistemology]]"
@@ -86,7 +87,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -97,7 +98,7 @@ updated: 2026-11-11
 > 现代认知心理学与教育研究表明，领域特异性与领域通用性是构成一种**双层互动结构** 通用性的逻辑论证与[[Metacognition\|元认知]]原则（上层）必须与特定学科的核心概念、探究规范及[[Evidence Standards\|证据标准]]（下层）深度融合，才能有效催生[[Higher-Order Thinking Skills\|高阶思维]]能力，有别于绝对对立的二元极端。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997)]]; [[Argument_Abrami_2015_RER\|(Abrami et al., 2015, p. 281)]]
 
 > [!concept-lens|notitle] 概念透镜
-> - **含义** 认知能力升级是不同学科应用模块在特定情境规则下的差异化建构，有别于计算机单一“操作系统”的全局重装。
+> - **含义** 认知能力升级是不同学科应用模块在特定情境规则下的差[[Alienation|异化]]建构，有别于计算机单一“操作系统”的全局重装。
 > - **用途** 用于解释为何自然科学领域的顶尖学者在面对社会伦理争端时可能表现出初级幼稚的认知，并指导课程设计中如何将通用思维技巧嵌入具体学科知识中。
 > - **边界** 区别于假定心智能力跨学科完全通用的**领域一般性（Domain Generality）**；同时面临更微观的“细粒度情境资源（[[Epistemic Resources]]）”对宏大学科边界的理论解构。
 
