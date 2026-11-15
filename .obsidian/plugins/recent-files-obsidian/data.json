@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "template-theory",
+      "path": "wiki/templates/template-theory.md"
+    },
+    {
+      "basename": "Argument_Hammermeister_2002_Cambridge_Ch01",
+      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md"
+    },
+    {
+      "basename": "Jürgen Habermas",
+      "path": "wiki/persons/germany/Jürgen Habermas.md"
+    },
+    {
       "basename": "Argument_Hammermeister_2002_Cambridge_Ch04",
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch04.md"
+    },
+    {
+      "basename": "Document",
+      "path": "wiki/concepts/research-methodology/Document.md"
     },
     {
       "basename": "Argument_Hammermeister_2002_Cambridge_Ch03",
@@ -11,10 +27,6 @@
     {
       "basename": "Friedrich Schiller",
       "path": "wiki/persons/germany/Friedrich Schiller.md"
-    },
-    {
-      "basename": "Jürgen Habermas",
-      "path": "wiki/persons/germany/Jürgen Habermas.md"
     },
     {
       "basename": "Begg and Mazumdar Rank Correlation",
@@ -59,10 +71,6 @@
     {
       "basename": "Argument_He_2018_HEP",
       "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_He_2018_HEP.md"
-    },
-    {
-      "basename": "Argument_Hammermeister_2002_Cambridge_Ch01",
-      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch01.md"
     },
     {
       "basename": "Immanuel Kant",
@@ -137,10 +145,6 @@
       "path": "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Santos_Silova_2026_Discourse.md"
     },
     {
-      "basename": "template-theory",
-      "path": "wiki/templates/template-theory.md"
-    },
-    {
       "basename": "template-fact-event",
       "path": "wiki/templates/template-fact-event.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Baseline Standardized Mean Difference",
       "path": "wiki/methods/quantitative/Baseline Standardized Mean Difference.md"
-    },
-    {
-      "basename": "Serialization",
-      "path": "wiki/concepts/political-economy-geopolitics/Serialization.md"
     }
   ],
   "omittedPaths": [],

@@ -4837,6 +4837,16 @@
     ]
   },
   {
+    "title": "Catharsis",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Catharsis.md",
+    "aliases": [
+      "卡塔西斯",
+      "净化说",
+      "情感净化"
+    ]
+  },
+  {
     "title": "Causal Over-determination",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Causal Over-determination.md",
@@ -5599,6 +5609,27 @@
     ]
   },
   {
+    "title": "Kunstformen",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Kunstformen.md",
+    "aliases": [
+      "艺术形式",
+      "黑格尔艺术三形态",
+      "象征型—古典型—浪漫型",
+      "Forms of Art"
+    ]
+  },
+  {
+    "title": "Kunstreligion",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Kunstreligion.md",
+    "aliases": [
+      "艺术宗教",
+      "Art Religion",
+      "希腊艺术宗教"
+    ]
+  },
+  {
     "title": "Learnification",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Learnification.md",
@@ -5721,6 +5752,15 @@
     "path": "wiki/concepts/educational-philosophy/Narrative Knowledge.md",
     "aliases": [
       "叙事知识"
+    ]
+  },
+  {
+    "title": "Natural Beauty",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Natural Beauty.md",
+    "aliases": [
+      "自然美",
+      "Naturschöne"
     ]
   },
   {
@@ -5919,6 +5959,16 @@
       "事后归因谬误",
       "post hoc fallacy",
       "post hoc, ergo propter hoc"
+    ]
+  },
+  {
+    "title": "Post-histoire",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Post-histoire.md",
+    "aliases": [
+      "后历史",
+      "Post-history",
+      "后历史艺术状态"
     ]
   },
   {
@@ -6138,6 +6188,17 @@
       "感性冲动",
       "Stofftrieb",
       "质料冲动"
+    ]
+  },
+  {
+    "title": "Sittlichkeit",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Sittlichkeit.md",
+    "aliases": [
+      "社会风习",
+      "伦理生活",
+      "伦理实体",
+      "Ethical Life"
     ]
   },
   {
@@ -31763,6 +31824,16 @@
     ]
   },
   {
+    "title": "Christian Hermann Weisse",
+    "type": "person",
+    "path": "wiki/persons/germany/Christian Hermann Weisse.md",
+    "aliases": [
+      "克里斯蒂安·赫尔曼·魏塞",
+      "魏塞",
+      "Weisse, C. H."
+    ]
+  },
+  {
     "title": "Christiane Thompson",
     "type": "person",
     "path": "wiki/persons/germany/Christiane Thompson.md",
@@ -31942,6 +32013,16 @@
       "戈特弗里德·威廉·莱布尼茨",
       "莱布尼茨",
       "Leibniz, G. W."
+    ]
+  },
+  {
+    "title": "Heinrich Gustav Hotho",
+    "type": "person",
+    "path": "wiki/persons/germany/Heinrich Gustav Hotho.md",
+    "aliases": [
+      "海因里希·古斯塔夫·霍托",
+      "霍托",
+      "Hotho, H. G."
     ]
   },
   {
@@ -32236,6 +32317,16 @@
     "aliases": [
       "乌尔里希·特劳特温",
       "U. Trautwein"
+    ]
+  },
+  {
+    "title": "Vittorio Hösle",
+    "type": "person",
+    "path": "wiki/persons/germany/Vittorio Hösle.md",
+    "aliases": [
+      "维托里奥·赫斯勒",
+      "赫斯勒",
+      "Hösle, V."
     ]
   },
   {

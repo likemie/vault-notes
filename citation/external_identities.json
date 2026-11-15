@@ -4856,7 +4856,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md",
-        "wiki/concepts/educational-philosophy/End of Art.md"
+        "wiki/concepts/educational-philosophy/End of Art.md",
+        "wiki/concepts/educational-philosophy/Post-histoire.md"
       ],
       "title": ""
     },
@@ -38839,6 +38840,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Preregistration.md"
+      ],
+      "title": ""
+    },
+    "Gehlen, 1960": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Post-histoire.md"
       ],
       "title": ""
     },
@@ -111217,6 +111226,7 @@
       "seen_in": [
         "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md",
         "wiki/concepts/educational-philosophy/Absolute Spirit.md",
+        "wiki/concepts/educational-philosophy/Kunstformen.md",
         "wiki/theories/educational-philosophy/Hegel's Aesthetics.md"
       ],
       "title": ""
@@ -122131,6 +122141,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-philosophy/Lifelong Learning.md"
+      ],
+      "title": ""
+    },
+    "盖伦, 1960": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Post-histoire.md"
       ],
       "title": ""
     },
