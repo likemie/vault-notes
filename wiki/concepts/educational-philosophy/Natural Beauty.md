@@ -31,7 +31,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -72,9 +72,17 @@ updated: 2026-11-15
 
 > [!concept-proposition] 命题三｜尼采将美感拟人化并绑定生命权力感，彻底排除了让人遭遇他者的自然美
 > **拟人化审美与科学主义共谋** 当美被界定为主体生命力与权力感的投射时，不以人为主宰的自然界便失去了独立审美地位。
->
-> > [!claim] Hammermeister, K.
-> > **“只有人是美的”与自然他者的消失** 尼采在《偶像的黄昏》中宣称“只有人是美的”，并在 1883 年遗稿中把美感归结为对象是否符合主体自身驱动力的理想；这种拟人化、以利益与权力感为导向的美感定义彻底排除了能让人遭遇他者的自然美，反而暴露出他与 19 世纪支配自然的实证科学精神暗中合谋。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, p. 149)]]
+
+> [!claim] Hammermeister, K.
+> **“只有人是美的”与自然他者的消失** 尼采在《偶像的黄昏》中宣称“只有人是美的”，并在 1883 年遗稿中把美感归结为对象是否符合主体自身驱动力的理想；这种拟人化、以利益与权力感为导向的美感定义彻底排除了能让人遭遇他者的自然美，反而暴露出他与 19 世纪支配自然的实证科学精神暗中合谋。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, p. 149)]]
+
+---
+
+> [!concept-proposition] 命题四｜卢卡奇以自然美缺乏典型性与社会总体性为由，将其彻底排除在审美现象之外
+> **个案孤立与审美排除** 格奥尔格·卢卡奇（Georg Lukács）虽然承认自然界存在美，但以艺术必须通过[[Typicality|典型性]]呈现社会总体为由，将自然美逐出美学领域。
+
+> [!claim] Hammermeister, K.
+> **自然美与孤立个别的局限** 卢卡奇在《审美的特性》中主张，自然美与色情愉悦相似（只是不伴随欲望），永远停留在孤立个别层面，无法上升到呈现社会总体与历史新陈代谢的典型高度，因而必须被彻底排除在审美现象之外；这一立场使其在拒绝自然美上比黑格尔更为彻底。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 166–167)]]
 
 ---
 
@@ -84,6 +92,7 @@ updated: 2026-11-15
 > | **精神优位原则** | 说明自然美为何次于艺术美且以艺术美为认知前提 | 黑格尔美学范围界定与讲演录文本考辨 | Hegel; Hammermeister |
 > | **同源纯化与摇摆张力** | 艺术美仅在于滤除自然美中的偶然杂质，却动摇“万物皆美”与艺术特权 | 叔本华自然美与艺术美关系辨析 | [[Arthur Schopenhauer\|Schopenhauer]]; Hammermeister |
 > | **拟人化排除自然美** | 以人类权力感与驱动力垄断美感定义，抹除自然他者并滑向“恐怖美学” | 尼采晚期哲学审美化批判 | [[Friedrich Nietzsche\|Nietzsche]]; Hammermeister |
+> | **个案孤立与审美排除** | 以自然美停留在孤立个别、无法达到社会总体典型为由将其逐出审美现象 | 卢卡奇现实主义美学边界界定 | [[Georg Lukács\|Lukács]]; Hammermeister |
 
 ---
 
@@ -98,13 +107,15 @@ updated: 2026-11-15
 > |:-----|:-----|:-----|
 > | [[Philosophical Aesthetics]] | 概念 | 黑格尔将哲学美学限定为艺术哲学，重塑了自然美在学科中的边缘位置 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 92–93)]]。 |
 > | [[Absolute Spirit]] | 概念 | 自然缺乏绝对精神所需的自我意识，决定了自然美次于艺术美 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 93)]]。 |
+> | [[Typicality]] | 概念 | 卢卡奇以自然美无法达到典型性高度而将其排除出审美现象 [[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 166–167)]]。 |
 > | [[Hegel's Aesthetics]] | 理论 | 呈现黑格尔既原则排斥自然美又微弱保留它的内在文本张力 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 92–93)]]。 |
 > | [[Nietzsche's Aesthetics]] | 理论 | 以拟人化权力感垄断美感定义并彻底排斥自然美的晚期美学纲领 [[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, p. 149)]]。 |
 > | [[Georg Wilhelm Friedrich Hegel]] | 人物 | 主张自然美是艺术美折射的哲学家 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 93)]]。 |
 > | [[Arthur Schopenhauer]] | 人物 | 主张艺术美只是替人剔除自然美中偶然杂质的哲学家 [[Argument_Hammermeister_2002_Cambridge_Ch06\|(Hammermeister, 2002, p. 122)]]。 |
 > | [[Friedrich Nietzsche]] | 人物 | 在《偶像的黄昏》宣称“只有人是美的”并排除自然美的哲学家 [[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, p. 149)]]。 |
+> | [[Georg Lukács]] | 人物 | 在《审美的特性》中将自然美比作无欲望的色情愉悦并将其彻底排除出审美领域 [[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 166–167)]]。 |
 
 ---
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — 第 5 章析黑格尔对自然美的降格（pp. 92–93）；第 6 章析叔本华自然美纯化矛盾（p. 122）；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析尼采拟人化美感对自然美的排除（p. 149）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — 第 5 章析黑格尔对自然美的降格（pp. 92–93）；第 6 章析叔本华自然美纯化矛盾（p. 122）；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析尼采拟人化美感对自然美的排除（p. 149）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析卢卡奇以缺乏典型性为由彻底排除自然美（pp. 166–167）。

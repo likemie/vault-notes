@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -103,5 +103,5 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002, Ch. 5)]] — 详细解析黑格尔如何将艺术形式三阶段与媒介物质性递减序列平行绑定，并评述黑格尔弟子与赫斯勒的结构性修正方案（pp. 97–101）。

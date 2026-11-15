@@ -135,4 +135,4 @@ updated: 2026-11-16
 ---
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]]：[[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]述门德尔松人性完善美育；[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]析康德道德象征桥梁；[[Argument_Hammermeister_2002_Cambridge_Ch03|第 3 章]]论席勒《审美教育书简》的冲动调解与精英化悖论；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]述荷尔德林 1796 年筹划《人类审美教育新书简》对谢林与黑格尔的先导；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析新马克思主义对席勒美育双重关切的平行继承（pp. 158–160）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]]：[[Argument_Hammermeister_2002_Cambridge_Ch01|第 1]]–[[Argument_Hammermeister_2002_Cambridge_Ch03|3 章]]述门德尔松、康德至席勒美育（pp. 14–60）；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]述荷尔德林先导（p. 64）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析新马克思主义平行继承（pp. 158–160）。

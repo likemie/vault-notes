@@ -62,7 +62,7 @@ related_facts: []
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-30
+updated: 2026-11-16
 ---
 
 ---
@@ -91,7 +91,7 @@ updated: 2026-10-30
 
 > [!method-stack] 方法层级
 > - **研究设计** 规范性哲学探究、概念分析与批判话语审视。
-> - **数据收集** 经典哲学[[Document|文献]]、政策法规文本、实证研究论文与实践论述材料。
+> - **数据收集** 经典哲学[[Document|文献]]、政策法规文本、实证研究报告与实践论述材料。
 > - **分析方法** 范畴区分、内在批判、还原论辨析、假说反思与结构性归谬推导。
 > - **辅助技术** 概念史梳理、隐喻分析与思想实验。
 
@@ -121,7 +121,7 @@ updated: 2026-10-30
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 剖析教育政策与评价[[Discourse|话语]]的前提假设、厘清教学实践中的概念张力（如“以学生为中心”或“[[Effective Teaching|有效教学]]”）、以及为教育工作者提供反思技术主义压力的智识武器（[[Argument_Biesta_2010_SPE|Biesta, 2010]]）。
+> - **适合使用** 剖析教育政策与评价[[Discourse|话语]]的前提假设、厘清教学实践中的概念张力（如“以学生为中心”或“[[Effective Teaching|有效教学]]”）、以及为教育实践者提供反思技术主义压力的智识武器（[[Argument_Biesta_2010_SPE|Biesta, 2010]]）。
 > - **谨慎使用** 涉及具体资源配置数量、教学时间分配等技术性操作细节时，需与具体实证数据协同考量。
 > - **不适合使用** 验证干预措施的数值[[Effect Size|效应量]]大小、计算相关性参数或进行经验推断统计。
 
@@ -147,7 +147,7 @@ updated: 2026-10-30
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 提出[[Epistemology|认识论]]、存在论与实践论三重[[Deficit Framing|缺陷框架]]，示范对[[Evidence-Based Education|证据本位教育]]的经典哲学分析。
 > - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 通过概念与法理分析界定学者作为社会批评者与良知的法定角色，批判排除非学校因素的[[Educational Reductionism|教育还原主义]]。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 对可见学习开展概念与哲学审视，建立五线批评揭示评价理论、[[Constructivist Instruction|建构主义教学]]论与认识论化简的前提缺陷。

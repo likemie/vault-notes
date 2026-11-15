@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-14
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -258,12 +258,13 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1)]] — 在经典研究方法教科书中系统梳理了法兰克福学派[[Jürgen Habermas|哈贝马斯]]与霍克海默、扬斯及维特根斯坦对科学主义与量化迷思的批判脉络。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 结合二战后企业研发管理体制与费曼[[Cargo Cult Science|草包族科学]]理论，深入解构以《[[Visible Learning|可见的学习]]》为代表的测量中心主义与[[Ecological Validity|生态效度]]丧失危机。
 > - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 IB [[Theory of Knowledge|TOK]] 课程为解剖对象，揭示科学主义如何通过课程评价框架与评分细则实施隐性[[Paradigm|范式]]规训。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 梳理比较教育学自 1960 年代追求科学化的历程，分析自然情境与[[Dissimilar Units|非同质单位]]带来的[[Epistemology|认识论]]约束，实证展示单一科学主义向[[Pluralism|健康多元主义]]转型的知识轨迹。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 阐明科学主义批判的高度情境依赖性，揭示科学在不同地缘文明与历史时期的权力[[Heterogeneity|异质性]]。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch08|Hammermeister (2002, Ch. 8)]] — 析卡西尔以艺术集中强化制衡科学主义穷尽、支配实在的僭妄（pp. 154–155）。
 
 ---
 

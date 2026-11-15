@@ -26,7 +26,7 @@ related_arguments: []
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -100,5 +100,5 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Hammermeister_2002_Cambridge_Ch08|Hammermeister (2002)]] — 第 8 章分析马尔库塞美学中感性与艺术作品的张力、反艺术向伟大艺术的回归及与卢卡奇的分歧（pp. 169–172）。

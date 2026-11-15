@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -127,7 +127,7 @@ updated: 2026-11-15
 > - **政策与实践批判** 为反思当代教育治理中“数据主义”、“量化绩效问责”与[[Scientism\|科学主义]]霸权提供了存在论批判资源，警示教育不能将鲜活的学生还原为冰冷的测验分数与行为指标。
 > - **跨领域传播** 经历20世纪初德语区学者的转译与推广，迅速渗透进教育哲学、存在主义心理学与[[Critical Pedagogy\|批判教育学]]脉络。
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]] — 将克尔凯郭尔确立为破除实证主义客观性迷思、捍卫个体独特性与主观性能力的核心思想源头；系统呈现其对时代去人化倾向的诊断，作为全书由实证主义向自然主义与诠释[[Paradigm\|范式]]过渡的存在论支点。
 > - [[Argument_Hammermeister_2002_Cambridge|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]剖析其对[[Romantic Irony|浪漫反讽]]的批判（pp. 84–85）；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]系统重构[[Kierkegaard's Aesthetics|克尔凯郭尔美学]]与[[Indirect Communication|间接沟通]]（pp. 128–135）。
 

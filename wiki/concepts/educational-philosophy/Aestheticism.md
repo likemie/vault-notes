@@ -16,7 +16,7 @@ tags:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -56,11 +56,19 @@ updated: 2026-11-15
 
 > [!concept-proposition] 命题二｜克尔凯郭尔揭示唯美主义沉溺瞬间心境、将世界素材化并摧毁悲剧共同体根基
 > **瞬间依赖与他者敬意丧失** 审美主体拒绝作出伦理抉择而停留于中性心境，将他人与世界贬低为诗意建构的素材库，最终导致人格碎片化、孤独与悲剧艺术的消亡。
->
-> > [!claim] Hammermeister, K.
-> > **自我创造对悲剧艺术的反噬** [[Søren Kierkegaard|索伦·克尔凯郭尔]]（Søren Kierkegaard）在《非此即彼》中批判审美生活方式让人完全陷入当下心境，阻断统觉统一性与德性习惯，使审美自由排斥尊重与义务；当现代个体丧失家庭、国家与族群纽带而“成为自身创造者”时，苦痛只剩个人悔恨，作为生活模式的唯美主义反而摧毁了作为艺术形式的悲剧，同时与晚期尼采的“自我审美化”遥相呼应。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 132–135, 147)]]
+
+> [!claim] Hammermeister, K.
+> **自我创造对悲剧艺术的反噬** [[Søren Kierkegaard|索伦·克尔凯郭尔]]（Søren Kierkegaard）在《非此即彼》中批判审美生活方式让人完全陷入当下心境，阻断统觉统一性与德性习惯，使审美自由排斥尊重与义务；当现代个体丧失家庭、国家与族群纽带而“成为自身创造者”时，苦痛只剩个人悔恨，作为生活模式的唯美主义反而摧毁了作为艺术形式的悲剧，同时与晚期尼采的“自我审美化”遥相呼应。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 132–135, 147)]]
+
+---
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **实践维度的倒转** | 以静观避世替代唯心论参与世界与改善生活的实践承诺 | 叔本华唯美主义及其社会批评 | Schopenhauer; Bahr; Hammermeister |
+> | **瞬间依赖与他者敬意丧失** | 沉溺瞬间心境、将世界素材化并消解悲剧共同体根基 | 克尔凯郭尔审美生活方式批判与尼采自我审美化 | [[Søren Kierkegaard\|Kierkegaard]]; [[Friedrich Nietzsche\|Nietzsche]]; Hammermeister |
 
 ---
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch06|Hammermeister (2002)]] — 第 6 章析叔本华唯美主义个人主义转向；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析克尔凯郭尔审美心境批判与尼采自我审美化（pp. 132–135, 147）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch06|Hammermeister (2002)]] — 第 6 章析叔本华唯美主义个人主义转向；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析克尔凯郭尔审美心境批判与尼采自我审美化（pp. 132–135, 147）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]述早期卢卡奇（1912）追随[[Max Weber|马克斯·韦伯]]批判现代祛魅社会仅造就行政专家与退缩入内心世界的唯美主义者（p. 161）。

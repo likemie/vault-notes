@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-11
+updated: 2026-11-16
 ---
 
 ---
@@ -227,7 +227,7 @@ updated: 2026-11-11
 
 ---
 
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] — 详细阐述了本体论在五层研究框架中的基石地位，剖析了 Burrell & Morgan 的实在论–[[Nominalism\|唯名论]]连续统与 Greenfield 组织替代架构。
 > - [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] — 将本体论从哲学[[Paradigm\|范式]]引入个体认知发展测量，实证检验了学习者在不同学科领域中的本体论认知特征。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 依托具身认知与[[Phenomenology|现象学]]划分经验[[Epistemology|认识论]]与存在本体论界限，批判将活生生的具身学习降解为标准化量化指标的本体论扁平化（pp. 3–6）。

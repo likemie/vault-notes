@@ -26,7 +26,7 @@ related_arguments: []
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -111,5 +111,5 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Hammermeister_2002_Cambridge_Ch08|Hammermeister (2002)]] — 第 8 章系统重构卡西尔的新康德主义美学，剖析其艺术自律论、形式转化说及非历史与真理连接困境（pp. 153–158）。

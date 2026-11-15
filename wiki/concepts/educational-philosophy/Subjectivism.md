@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -230,6 +230,6 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 详述伯勒尔与摩根的主观—客观四组假设构架，以及格林菲尔德组织主观主义十维度分析矩阵。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 系统考掘战后比较教育学中[[Positivism\|实证主义]]对主观主义的清洗运动、霍姆斯[[Critical Dualism\|批判二元论]]对主观规范的情境整合，以及后现代思潮对多元真理体制与主观阐释进路的重新合法化。

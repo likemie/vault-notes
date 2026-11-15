@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -119,9 +119,9 @@ updated: 2026-11-15
 > - **现代社会学与诸神纷争** 启迪了[[Max Weber|马克斯·韦伯]]关于价值[[Pluralism|多元主义]]、终极价值冲突与工具理性铁笼的现代性诊断。
 > - **德意志教化传统的批判向度** 欧陆批判教育学者（如 Larsen, 2019）将尼采列为德意志[[Paideia|古典教化]]（[[Bildung]]）传统中极富批判穿透力的坐标，援引其对庸俗现代性与教育技术化的深刻批判，抵抗将学习降维为即时可见测量的当代[[Positivism|实证主义]]风潮。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 动用尼采精神三变隐喻阐释三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]的组织能力演进。
-> - [[Argument_Hammermeister_2002_Cambridge|Hammermeister (2002)]]（[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]）— 梳理[[Nietzsche's Aesthetics|尼采美学]]三阶段演进、[[Apollonian and Dionysian|日神与酒神]]二元论及哲学审美化向[[Perspectivism|视角主义]]与生理学的转向（pp. 136–150）。
+> - [[Argument_Hammermeister_2002_Cambridge|Hammermeister (2002)]]（[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]）— 梳理[[Nietzsche's Aesthetics|尼采美学]]三阶段演进、[[Apollonian and Dionysian|日神与酒神]]二元论及哲学审美化向[[Perspectivism|视角主义]]与生理学的转向（pp. 136–150）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]述[[Ernst Cassirer|卡西尔]]抵制尼采将科学与道德全面审美化的倾向（pp. 153–154）。
 
 ---
 

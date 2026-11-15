@@ -876,5 +876,27 @@
       "sentence": "*In order to achieve the necessary, clear and profound understanding of the true and sad condition of man it is more than helpful to study their actions and manners in literature as a commentary on their actions and manners in real life and vice versa.",
       "target": "wiki/facts/us/Achieve.md"
     }
+  ],
+  "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch08.md": [
+    {
+      "sentence": "**双重实在与纯形式真理的悬置** 为摆脱为艺术而艺术（*l'art pour l'art*）的嫌疑，卡西尔主张艺术让人在审美形式中直观自然与人类生活的双重实在，并带来纯形式真理（呼应新康德主义艺术理论家康拉德·菲德勒（Konrad Fiedler）关于审美视觉丰富日常观看模式的学说，后者亦影响了早年卢卡奇、康定斯基与保罗·克利）；但除非退回柏拉图式的纯形式论并自我否定，卡西尔必须说明纯形式真理如何关联经验事物的真理，而他在此处陷入了沉默（pp.",
+      "target": "wiki/concepts/educational-philosophy/Epoché.md"
+    },
+    {
+      "sentence": "各种意义上的现实主义被视为最恰当对应社会关系的艺术形式，从而成为唯一正确的艺术形式。",
+      "target": "wiki/concepts/educational-philosophy/Kunstformen.md"
+    },
+    {
+      "sentence": "资本主义劳动产物因工人既无法掌控生产过程也无法占有剩余价值而异化；艺术则是更高级、更自觉的劳动形式，使主体经历自我意识进步所需的对象化并完成黑格尔《精神现象学》意义上的异化扬弃（*Aufhebung*），借由完整的人（*der ganze Mensch*）向人的完整（*der Mensch ganz*）的转化克服人与历史及自身的疏离（pp.",
+      "target": "wiki/theories/educational-philosophy/Phenomenology.md"
+    },
+    {
+      "sentence": "比卢卡奇更贴近席勒的马尔库塞（1898–1979）更像蒙田或帕斯卡式的哲学随笔作家，虽未追求体系化的美学著作，却终其一生试图将弗洛伊德（Sigmund Freud）的冲动学说（而非费希特的冲动论）与古典艺术作品总体性结合起来（pp.",
+      "target": "wiki/theories/educational-philosophy/Schiller's Theory of Drives.md"
+    },
+    {
+      "sentence": "**宗教隐喻掩盖转化机制** 在说明艺术如何改造自然与情感时，卡西尔一再回避具体的哲学分析，转而借助天主教圣餐变质转化（*transubstantiation*）的宗教语言（p.",
+      "target": "wiki/methods/qualitative/Philosophical Analysis in Education.md"
+    }
   ]
 }
