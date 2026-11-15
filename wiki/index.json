@@ -5541,6 +5541,15 @@
     ]
   },
   {
+    "title": "Infinite Interpretability of Art",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Infinite Interpretability of Art.md",
+    "aliases": [
+      "艺术的无限可阐释性",
+      "无限可阐释性"
+    ]
+  },
+  {
     "title": "Innocent Eye",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Innocent Eye.md",
@@ -6121,6 +6130,15 @@
     ]
   },
   {
+    "title": "Rhetorical Irony",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Rhetorical Irony.md",
+    "aliases": [
+      "修辞学反讽",
+      "修辞反讽"
+    ]
+  },
+  {
     "title": "Romantic Fragment",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Romantic Fragment.md",
@@ -6212,6 +6230,15 @@
       "exetasis",
       "Socratic questioning",
       "Socratic method"
+    ]
+  },
+  {
+    "title": "Socratic Irony",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Socratic Irony.md",
+    "aliases": [
+      "苏格拉底式反讽",
+      "苏格拉底反讽"
     ]
   },
   {
@@ -22606,6 +22633,16 @@
     ]
   },
   {
+    "title": "Identity Philosophy",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Identity Philosophy.md",
+    "aliases": [
+      "Identitätsphilosophie",
+      "同一哲学",
+      "Philosophy of Identity"
+    ]
+  },
+  {
     "title": "Law of Requisite Variety",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Law of Requisite Variety.md",
@@ -31860,6 +31897,15 @@
       "克里斯托夫·韦克尔",
       "韦克尔",
       "Wecker, C."
+    ]
+  },
+  {
+    "title": "Dieter Henrich",
+    "type": "person",
+    "path": "wiki/persons/germany/Dieter Henrich.md",
+    "aliases": [
+      "迪特·亨利希",
+      "Henrich, D."
     ]
   },
   {
@@ -41420,6 +41466,18 @@
     "subtype": "event"
   },
   {
+    "title": "Judgment and Being",
+    "type": "fact",
+    "path": "wiki/facts/germany/Judgment and Being.md",
+    "aliases": [
+      "Urtheil und Seyn",
+      "判断与存在",
+      "原初分割",
+      "Ur-Theilung"
+    ],
+    "subtype": "event"
+  },
+  {
     "title": "Nazi Purge of University Scholars",
     "type": "fact",
     "path": "wiki/facts/germany/Nazi Purge of University Scholars.md",
@@ -41440,6 +41498,17 @@
       "德国唯心论最古老的系统纲领",
       "Oldest Systematic Program",
       "最古老的系统纲领"
+    ],
+    "subtype": "event"
+  },
+  {
+    "title": "Philosophy of Art",
+    "type": "fact",
+    "path": "wiki/facts/germany/Philosophy of Art.md",
+    "aliases": [
+      "Philosophie der Kunst",
+      "艺术哲学",
+      "谢林《艺术哲学》"
     ],
     "subtype": "event"
   },
@@ -41488,6 +41557,17 @@
       "狂飙突进运动",
       "Storm-and-Stress Movement",
       "狂飙突进"
+    ],
+    "subtype": "event"
+  },
+  {
+    "title": "System of Transcendental Idealism",
+    "type": "fact",
+    "path": "wiki/facts/germany/System of Transcendental Idealism.md",
+    "aliases": [
+      "System des transzendentalen Idealismus",
+      "先验唯心论体系",
+      "The System of Transcendental Idealism"
     ],
     "subtype": "event"
   },

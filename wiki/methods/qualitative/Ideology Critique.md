@@ -140,6 +140,7 @@ updated: 2026-11-15
 >   - 国家重大教育改革、新自由主义绩效问责与标准化课程政策的批判性解构。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 117–149)]]
 >   - 揭露学校教育中的[[Hidden Curriculum|隐性课程]]、种族与性别刻板印象、阶级再生产机制。
 >   - 比较教育学中解构国际组织（如[[World Bank|世界银行]]、[[OECD]]）将西方中心主义与新殖民资本逻辑包装为“客观中立发展模式”的研究。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 132–133)]]
+>   - 解构表面去政治化、标榜“无利害”的哲学美学与唯美主义话语，揭示审美避世如何转化为特定阶层（如 1848 年革命后的资产阶级）回避现实实践的意识形态补偿。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 126–127)]]
 > - **谨慎使用**
 >   - 必须与受访者建立深度信任与互惠伦理，严防研究者以“先知批判者”姿态居高临下指导一线实践，避免将批判异化为纯粹的理论宣泄。
 > - **不适合使用**
@@ -173,3 +174,4 @@ updated: 2026-11-15
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 117–149)]] — 以[[Jürgen Habermas|哈贝马斯]]三种认识兴趣为框架，对 Tyler 的课程原理和英国国家课程进行意识形态批判，揭示技术兴趣在课程中的支配地位和解放兴趣的缺失。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128, 132–133)]] — 在比较教育学科发展史综述中，将意识形态批判定位为挑战战[[Postpositivism|后实证主义]][[Value Neutrality|价值中立]]神话、打破单一[[Structural Functionalism|结构功能主义]]霸权并确立[[Critical Pluralism|批判多元主义]][[Paradigm|范式]]的关键学术进路。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch06|Hammermeister (2002, pp. 126–127)]] — 援引 Bahr (1970) 对叔本华美学的意识形态批判，揭示其“无意志静观”如何使艺术沦为 1848 年后资产阶级的避世代偿宗教。
