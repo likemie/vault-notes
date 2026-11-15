@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-14"
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -87,6 +87,9 @@ updated: 2026-11-14
 > | **认知连续统** | 清晰而混乱的认识连接无意识微知觉与明晰理性，是发现真理的必经桥梁 | 莱布尼茨-沃尔夫认知谱系重构与美学合法性辩护 | Baumgarten, A. G. |
 > | **官能完善潜能** | 感性认识作为独立灵魂成就，经理论与修辞练习可转化为优美思维艺术 | 审美教育与理性-感性平衡人格的培养 | Baumgarten, A. G. |
 
+> [!critique] 康德对“下级认识论”方案的批判
+> - **等级比较中的结构性劣势** 康德虽高度推崇鲍姆嘉通作为形而上学家的成就，却认为其将美学奠基于“感性认识”的方案毫无出路：一旦把感性认识界定为低于理性的下级认知官能，并与理性比较认知潜力，艺术与美便注定在认识论竞赛中居于劣势。这一批判促使康德在《判断力批判》中彻底切断审美与认知真理的联系。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 22–23)]]
+
 ---
 
 > [!entry-map] 条目关联
@@ -95,10 +98,12 @@ updated: 2026-11-14
 > |:-----|:-----|:-----|
 > | [[Philosophical Aesthetics]] | 概念 | 鲍姆嘉通将哲学美学直接定义为关于感性认识的科学。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, p. 7)]] |
 > | [[Aesthetic Truth]] | 概念 | 清晰而混乱的感性认识所产出的独特真理形态。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, p. 9)]] |
+> | [[Judgment of Taste]] | 概念 | 康德反驳感性认识论后，改以非概念性鉴赏判断确立美学独立性的方案。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 22–23)]] |
 > | [[Alexander Gottlieb Baumgarten]] | 人物 | 重估混乱认识并创立下级认识论的哲学家。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 6–9)]] |
 > | [[Gottfried Wilhelm Leibniz]] | 人物 | 提出清晰与混乱认知区分的理性主义先驱。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 5–6)]] |
+> | [[Immanuel Kant]] | 人物 | 批判鲍姆嘉通感性认识美学方案并转向非认知审美判断的哲学家。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 22–23)]] |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 解析鲍姆嘉通如何通过重估莱布尼茨“清晰而混乱的认识”，为感性知觉赢得独立哲学地位。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]解析鲍姆嘉通如何通过重估莱布尼茨“清晰而混乱的认识”为感性知觉赢得独立哲学地位；[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]阐明康德为何批判“下级认识论”方案毫无出路并转向非认知的审美判断（pp. 22–23）。

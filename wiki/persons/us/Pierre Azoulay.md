@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-29"
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -127,7 +127,6 @@ updated: 2026-11-11
 > - **政策路径** 其实证研究为科技基金管理提供了决策依据，推动科研资助体系从短期项目制向长期支持杰出个人的资助模式转型。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Azoulay_2011_RJE|Azoulay et al. (2011)]] — 运用倾向得分加权与双重差分模型比较 HHMI 研究员与 NIH 课题学者，实证确证长周期对人资助与宽容失败契约对科学探索与顶尖成果的因果驱动。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 援引其 HHMI 准实验（Unit 01）、普朗克原理检验（Unit 02）、明星学者猝逝准实验（Unit 04）及基础研究专利转化与科技体制审视（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Unit 11]]）。
 
 ---

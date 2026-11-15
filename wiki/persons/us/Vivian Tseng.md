@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -116,9 +116,6 @@ updated: 2026-11-14
 > - **资助[[Paradigm\|范式]]重构** 推动[[William T. Grant Foundation\|威廉·T·格兰特基金会]]、多丽丝·杜克基金会、斯宾塞基金会等设立跨部门“机构挑战资助”（Institutional Challenge Grants），直接资助高校重组内部考评架构，促使纽约卡内基基金会推行政策学术停钟（Tenure clock pause）机制。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 222–223, 231–232)]]
 > - **[[Research-Practice Partnership\|RPP]] 评估体系确立** 协同 Henrick 等学者确立[[Evaluation Research\|评估研究]]-实践伙伴关系有效性的五大维度，为全美数十个学区-高校协作联盟提供操作与检验基准。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 223, 232)]]
 > - **跨界中介专业化** 将跨界中介专员（[[Boundary Spanner]]）与一线社区误工补偿机制列入常设预算，重塑了科研合作的经济与人力资源分配模式。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 221–222)]]
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al., 2022]] — 曾薇薇安系统阐发[[Democratising Evidence\|证据民主化]]纲领、批判高校榨取式科研并提出资助机构四大行动支柱。（pp. 220–224）
 
 ---
 

@@ -97,17 +97,17 @@ updated: 2026-11-15
 ---
 
 > [!entry-map] 条目关联
-
-| 条目 | 类型 | 关系 |
-|:-----|:-----|:-----|
-| [[Philosophical Aesthetics]] | 概念 | 审美自主性是哲学美学脱离形而上学与逻辑学附庸、确立独立学科地位的核心条件。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 12–13, 20)]] |
-| [[Aesthetic Truth]] | 概念 | 审美真理独立于逻辑真理的地位是鲍姆嘉通推动美学自主的认识论依据。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 12–13)]] |
-| [[Disinterested Pleasure]] | 概念 | 门德尔松与康德先后通过无功利愉悦将审美体验从欲望与实用目的中解放出来。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 18–19)]]；[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 28–29)]] |
-| [[Judgment of Taste]] | 概念 | 康德确立审美判断独立于概念认知与道德利害的核心机制。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 23, 28–32)]] |
-| [[Genius]] | 概念 | 康德赋予艺术创作摆脱陈规模仿、自主确立新规范的生产机制。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 35–36)]] |
-| [[Alexander Gottlieb Baumgarten]] | 人物 | 客观上以审美真理动摇理性主义独尊，开启美学独立化进程。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 12–13)]] |
-| [[Moses Mendelssohn]] | 人物 | 以表象完美、赞同官能与舞台道德进一步拓展艺术自主空间。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 17–19)]] |
-| [[Immanuel Kant]] | 人物 | 通过第三批判确立美学独立范式，并引发后世关于艺术认知价值的持续争论。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 22–23, 39–41)]] |
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Philosophical Aesthetics]] | 概念 | 审美自主性是哲学美学脱离形而上学与逻辑学附庸、确立独立学科地位的核心条件。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 12–13, 20)]] |
+> | [[Aesthetic Truth]] | 概念 | 审美真理独立于逻辑真理的地位是鲍姆嘉通推动美学自主的认识论依据。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 12–13)]] |
+> | [[Disinterested Pleasure]] | 概念 | 门德尔松与康德先后通过无功利愉悦将审美体验从欲望与实用目的中解放出来。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 18–19)]]；[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 28–29)]] |
+> | [[Judgment of Taste]] | 概念 | 康德确立审美判断独立于概念认知与道德利害的核心机制。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 23, 28–32)]] |
+> | [[Genius]] | 概念 | 康德赋予艺术创作摆脱陈规模仿、自主确立新规范的生产机制。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 35–36)]] |
+> | [[Alexander Gottlieb Baumgarten]] | 人物 | 客观上以审美真理动摇理性主义独尊，开启美学独立化进程。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 12–13)]] |
+> | [[Moses Mendelssohn]] | 人物 | 以表象完美、赞同官能与舞台道德进一步拓展艺术自主空间。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 17–19)]] |
+> | [[Immanuel Kant]] | 人物 | 通过第三批判确立美学独立范式，并引发后世关于艺术认知价值的持续争论。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 22–23, 39–41)]] |
 
 ---
 

@@ -104,6 +104,12 @@ updated: 2026-11-02
 > [!boundary]- 区分个人主张与运动后续政策
 > 全员全额奖学金的后续承诺、各国按家庭经济能力资助的惯例，以及 [[United World Colleges|UWC]] 后来的成员决策，涉及多位领导者、政府与各校，不宜全部归于霍尔。第八章支持确认他的低成本办学和混合资助构想，但未提供这些构想的独立效果评价。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 209–212)]]
 
+> [!evidence-grid] [[Document|文献]]与论证索引
+> - [[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, pp. 3–9)]] — 记录创校校长的选择、专业经验、救援课程、男女同校及学术合作。
+> - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 209–212)]] — 回顾霍尔对低成本多样化及奖学金结构的支持，并呈现后来政策和资源限制。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
@@ -111,7 +117,3 @@ updated: 2026-11-02
 > | [[Founding of Atlantic College\|大西洋学院创办]] | 事件 | 创校事件。 |
 > | 1962 年大西洋学院课程方案 | 项目 | 课程制度。 |
 > | [[United World Colleges]] | 组织 | 霍尔支持低成本及地方适应的成员扩展方向。[[Argument_Peterson_1987_OpenCourt_Ch08\|(Peterson, 1987, pp. 209–210)]] |
-
-> [!evidence-grid] [[Document|文献]]与论证索引
-> - [[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, pp. 3–9)]] — 记录创校校长的选择、专业经验、救援课程、男女同校及学术合作。
-> - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 209–212)]] — 回顾霍尔对低成本多样化及奖学金结构的支持，并呈现后来政策和资源限制。

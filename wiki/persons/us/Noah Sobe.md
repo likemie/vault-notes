@@ -40,7 +40,6 @@ related_concepts:
 related_theories:
   - "[[Post-structuralism]]"
   - "[[Human Capital Theory]]"
-  - "[[Governmentality]]"
 related_methods:
   - "[[Criss-Crossing Comparison]]"
 related_instruments: []
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-10
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -106,7 +105,6 @@ updated: 2026-11-11
 > - **政策与国际组织路径** 作为主笔将关系性、生态正义与公地理念注入联合国教科文组织 2021 年旗舰报告，直接影响了 2020 年代全球教育转型的政策叙事。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 结合空间转向与[[Governmentality|治理术]]，阐述教育中的空间流动与移民政策规训机制。
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 运用其关系性大写背景（c/Context）理论，解构北欧三国课程改革准备阶段对政策证据与本国背景的共同建构逻辑。
 
 ---

@@ -55,7 +55,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -123,6 +123,3 @@ updated: 2026-11-02
 > | [[Clark A. Chinn]] | 人物 | 赫梅洛-西尔弗数十年紧密合作的学术盟友，共同发表多篇标志性文献。 |
 
 ---
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 赫梅洛-西尔弗作为核心作者参与发表的长篇里程碑式抗辩综述。

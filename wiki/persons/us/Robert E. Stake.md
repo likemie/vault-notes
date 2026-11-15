@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -106,7 +106,6 @@ updated: 2026-11-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 将 Stake 与 Yin 并列为[[Case Study|案例研究]]两大权威，频繁引用其方法论框架阐述质性研究取向与自然主义概括。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 在比较教育学方法论综述中引用 Stake (1995) 对量化/质性研究取向根本差异的经典表述，作为该学科方法论多元议题的权威参照。
 
 ---
 

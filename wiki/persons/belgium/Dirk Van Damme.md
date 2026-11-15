@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -134,9 +134,6 @@ updated: 2026-11-11
 > - **[[Disciplinary Institutionalization|学科建制]]路径** 呼吁摆脱教育学从属于社会学或经济学的附庸地位，倡导建立教育科学自身严密的因果演绎体系与学术自律规范。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 204–205)]]
 > - **政策反思路径** 告诫政策界戒除对循证有效性干预（What Works）的盲目万能崇拜，推动国际组织从单一工具推广转向深层科研生产生态治理。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 206)]]
 > - **跨国智库议程确立** 领导[[OECD\|经合组织]] [[Centre for Educational Research and Innovation\|CERI]] 确立强化教育[[Research Impact\|研究影响力]]专项跨国政策调查，成为 OECD 成员国诊断国家教育科研体系健康度的指标框架。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 202–203)]]
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al., 2022]] — 范达默系统诊断教育科研供给侧的三大深层病理（理论依附、复现赤字与政治过度承诺），提出长期基础研究资助与学术自律建制。（pp. 202–206）
 
 ---
 

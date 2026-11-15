@@ -29,8 +29,8 @@ related_concepts:
   - "[[Long-Term Public Utility]]"
   - "[[Big Science]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Engineering Education]]"
   - "[[Market Failure]]"
+  - "[[Engineering Education]]"
 related_theories:
   - "[[Discovery-Invention Cycle]]"
   - "[[Organizational Culture]]"
@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -121,7 +121,6 @@ updated: 2026-10-30
 > - **高等教育组织变革** 在哈佛大学主导推动工学院自文理学院独立设院，构建打破物理学、计算机科学与工程学传统院系藩篱的矩阵式跨学科科研与教学体系。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 系统梳理纳拉亚纳穆尔提等人在 2013 年提出的批判基础/应用二分法、阐述六项诺贝尔物理学奖双向演化谱系并确立[[Long-Term Public Utility|长期公共效用]]资助准绳的核心论据。
 > - [[Argument_Logar_2014_Minerva|Logar et al., 2014]] — 纳拉亚纳穆尔提与合作者通过对[[Semiconductor Research Corporation|半导体研究公司]]（SRC）的深度[[Case Study|案例研究]]，提炼[[University-Industry Collaboration|产学合作]]与公私研发联合体在连接基础探索与应用需求中的三项组织有效性机制，并探讨向国家能源创新机构迁移的适用边界。
 
 ---

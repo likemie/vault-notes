@@ -124,6 +124,11 @@ updated: 2026-11-02
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 揭示其出任 AERO 董事背后的跨国共同从属拓扑与矿业慈善资本纽带。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
@@ -136,8 +141,3 @@ updated: 2026-11-02
 > | [[Co-affiliation]] | 概念 | 同时或先后在英澳两国顶级证据机构任职，构成了跨国[[Policy Network\|异质治理]]层级的典型代表。 |
 > | [[BHP Foundation\|必和必拓基金会]] | 组织 | 签署五年全球证据生态协议。 |
 > | [[Sutton Trust\|萨顿信托]] | 组织 | 紧密共事的主管母体。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 揭示其出任 AERO 董事背后的跨国共同从属拓扑与矿业慈善资本纽带。

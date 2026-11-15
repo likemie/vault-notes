@@ -38,7 +38,6 @@ related_theories:
   - "[[Q-Model]]"
   - "[[Bianconi-Barabási Model]]"
   - "[[Burstiness in Human Activities]]"
-  - "[[Universality of Citation Distributions]]"
   - "[[Preferential Attachment in Academia]]"
   - "[[WSB Model]]"
 related_methods:
@@ -62,15 +61,10 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit06]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit08]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit09]]"
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -132,9 +126,6 @@ updated: 2026-11-11
 > - **理论路径** 开创性地将复杂网络动力学引入[[Bibliometric Analysis|文献计量学]]，改变了将引文视为孤立计数孤岛的传统范式，建立了以节点度、拓扑连接与信息传播为基础的现代科学学理论体系。
 > - **方法路径** 倡导基于数理可解析模型（如 BA 优先连接模型、[[Shockley's Multiplicative Hurdle Model|肖克利乘法跨栏模型]]、Q 模型、[[Collective Credit Allocation Algorithm|集体贡献分配算法]]、WSB 模型）结合全量实际数据拟合的研究路线，确立了理论推导与经验检验紧密啮合的方法标准。
 > - **学术建制化路径** 通过创设复杂网络研究中心（CCNR）、联合创办网络科学学会（Network Science Society）并编写标杆专著，为全球网络科学与科学学培养了大量核心学术骨干。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 系统阐述科学学全景框架，涵盖科学生产力（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit 01]]）、Q 因子（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Unit 03]]）、团队合作（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Unit 04]]）、声誉分配（[[Argument_Wang_Barabasi_2021_Cambridge_Unit06|Unit 06]]）、[[Universality of Citation Distributions|引文分布普适性]]（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]）、适应度模型（[[Argument_Wang_Barabasi_2021_Cambridge_Unit08|Unit 08]]）与引文动力学预测模型（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]）。
 
 ---
 

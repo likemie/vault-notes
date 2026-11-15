@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -95,9 +95,6 @@ updated: 2026-10-22
 > - **理论路径** 首创的“智能爆炸”与“超智能”概念，直接启迪了后世牛津哲学家尼克·波斯特洛姆（Nick Bostrom）的《超级智能》（*Superintelligence*）以及雷·库兹韦尔（Ray Kurzweil）的“技术奇点”（Technological Singularity）理论。
 > - **AI 安全与对齐路径** 率先指出超智能机器在带来文明突破的同时，蕴含着人类彻底丧失系统控制权的巨大存在性风险，成为现代人工智能对齐（AI Alignment）与风险治理研究的思想源泉。
 > - **历史反思与周期律** 其在 1964 年作出的“20 世纪内建成超智能”的预测，与赫伯特·A. 西蒙等先驱的断言共同构成 20 世纪计算界乐观预言周期的典型注脚。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska (2025)]] — 回顾古德在 1964 年关于 20 世纪超智能机器极大概率建成的自信预测，将其作为 20 世纪中叶计算先驱早期技术乐观主义与预测周期的历史参照。
 
 ---
 

@@ -66,12 +66,11 @@ related_arguments:
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Volmari_2025_CE]]"
-  - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -149,7 +148,6 @@ updated: 2026-11-11
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 引入波森的医学对比、开放系统与能动性命题，批判循证教学中[[Randomised Controlled Trials|随机对照试验]]的不适用性。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 运用波森的[[Realist Evaluation|实在论综合]]思想作为替代路线，揭示[[Meta-analysis|元分析]]“净化过程”的危害，并以[[Teaching Assistant|教学助理]]项目为例论证脱离 CMO 背景的排行榜对政策的误导。
-> - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 引用波森关于开放系统无法人为封闭和控制的论证，从教育哲学的角度审视[[Evidence-Based Education|证据本位教育]]对复杂教育实践的歪曲。
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 借用波森与蒂利的实在论评估原则，在荷兰住房法执行史中论证主体位置与时间视域对制度变迁定性的决定性影响。
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 依托波森（Pawson, 2006）对基于政策的证据制造（[[Policy-Based Evidence-Making|PBEM]]）与去情境化有效性的批判，实证解构北欧基础教育改革中证据利用的政治合法化本质（pp. 531, 542–544）。
 

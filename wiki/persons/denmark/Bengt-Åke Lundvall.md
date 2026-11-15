@@ -9,7 +9,7 @@ summary: "丹麦著名演化经济学家、创新系统理论奠基人之一，�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 24
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Lifelong Learning]]"
   - "[[International Education]]"
-  - "[[Regional Innovation System]]"
 related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Systems of Innovation]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-25
+updated: 2026-11-15
 ---
 
 ---
@@ -118,10 +117,6 @@ updated: 2026-10-25
 > - **理论路径** 与 [[Chris Freeman]]、[[Richard Nelson]] 共同构成了现代[[National Innovation System|国家创新系统]]研究的三大支柱；将分析焦点深度下沉至微观“学习与互动”维度。
 > - **政策路径** 将[[Systems of Innovation|创新系统理论]]直接注入 [[OECD]] 技术与经济计划（TEP, 1992）及[[EU|欧盟]]区域创新战略政策，推动政策从单纯补贴 R&D 经费转向优化产学研合作网络与终身职业培训。
 > - **教育研究启示** 强调教育体系不仅是[[Knowledge Production|知识生产]]机构，更是全社会“学习能力”（[[Learning Economy]]）的制度孵化器；1996 年 OECD 报告深刻推动了经合组织将[[Lifelong Learning|终身学习]]、反思能力与跨主体互动沟通确立为国家[[Human Capital Theory|人力资本]]战略与[[International Education|国际教育]]对标的核心维度。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 征引[[Bengt-Åke Lundvall|伦德瓦尔]]的[[User-Producer Interaction|用户—生产者互动]]理论与[[Bounded Rationality|有限理性]]假说，反驳跨国公司无国界神话，论证国家与[[Regional Innovation System|区域创新系统]]在维持组织多样性中的持久价值。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]] — 述及福瑞与伦德瓦尔（1996）对经合组织[[Knowledge-Based Economy|知识经济]]政策转向的奠基贡献，阐释 OECD 如何将终身学习与沟通适应力塑造为全球教育政策议程（pp. 445–446）。
 
 ---
 

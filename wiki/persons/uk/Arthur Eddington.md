@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -82,9 +82,6 @@ updated: 2026-10-30
 > - **理论路径** 深刻改变了人类对引力、时空几何与宇宙结构的物理理解；确立了恒星吸积与辐射压相抗衡的流体静力学极限。
 > - **科学学同构路径** 其自创的[[Eddington Number|埃丁顿数]]在 60 年后被现代[[Bibliometric Analysis|科学计量学]]发掘为与h 指数完全同构的数理模型，成为科学学教材中解析门槛阻力与长程规划的经典物理隐喻。
 > - **文化路径** 凭借其通俗流畅的科普写作，将现代物理学前沿思想推向全球公众视野。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 将爱丁顿提出的长途骑行埃丁顿数作为阐释科学家 $h$ 指数门槛上升力学的同构参照。
 
 ---
 

@@ -87,6 +87,11 @@ updated: 2026-10-22
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025)]] — 专著第 9 章直接援引图尔钦《末日时代》关于[[Elite Overproduction|精英生产过剩]]的理论论述，剖析当代硅谷年轻工程师沉溺于开发[[Lifestyle Technology|生活方式科技]]的阶层动因。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
@@ -94,8 +99,3 @@ updated: 2026-10-22
 > | [[Elite Overproduction]] | 概念 | 图尔钦提出的核心[[Construct\|理论构念]]，用于解释文凭阶层膨胀与体制吸纳失衡。 |
 > | [[Lifestyle Technology]] | 概念 | 图尔钦理论在科技产业分析中的应用延伸，解释工程师阶层的阶层特权模拟冲动。 |
 > | [[Talcott Parsons]] | 人物 | 共同构成解释知识分子地位焦虑与心理防御机制的思想资源。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025)]] — 专著第 9 章直接援引图尔钦《末日时代》关于[[Elite Overproduction|精英生产过剩]]的理论论述，剖析当代硅谷年轻工程师沉溺于开发[[Lifestyle Technology|生活方式科技]]的阶层动因。

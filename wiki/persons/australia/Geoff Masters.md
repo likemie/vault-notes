@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -85,9 +85,6 @@ updated: 2026-11-11
 > - **理论路径** 建立了连接先备知识理论与发展性教育测量的[[Analytic Framework|分析框架]]，推动将[[Zone of Proximal Development|最近发展区]]转化为可操作的学习进阶量表。
 > - **方法路径** 推广[[Item Response Theory|项目反应理论]]与计算机自适应测评技术在全澳基础教育监测中的深度应用。
 > - **政策路径** 深刻影响了 Gonski 2.0 报告的顶层设计，直接推动全澳从年级一刀切标准向学生个体年度增量成长模型的政策转型。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Sarbiewska_2019_KiW|Sarbiewska (2019)]] — 引用马斯特斯关于传统课程交付模型的批判，以及基于学生个体起点的 Gonski 2.0 成长评价模型。
 
 ---
 

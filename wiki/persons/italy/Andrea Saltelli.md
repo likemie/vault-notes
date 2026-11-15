@@ -24,7 +24,6 @@ related_concepts:
   - "[[Evidence-Based Policy-Making]]"
   - "[[Heterogeneity]]"
   - "[[International Large-Scale Assessments]]"
-  - "[[Within-School Variance]]"
   - "[[Evidence-Based Education]]"
   - "[[Paradigm]]"
 related_theories: []
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -85,9 +84,6 @@ updated: 2026-11-11
 > [!influence-path] 影响路径
 > - **统计方法学路径** 开创并推广了全局敏感性分析在复杂模型与综合评价中的量化计算规程。
 > - **政策评估审视路径** 为教育政策界提供了检视大规模跨国评价（[[International Large-Scale Assessments|ILSA]]）指标脆弱性与排名政治学的统计学分析工具。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Sarbiewska_2019_KiW|Sarbiewska (2019)]] — 引用萨尔泰利对 PISA 测量误差与排名解释局限的批评，论证量化测评高均分对[[Within-School Variance|校内方差]]的遮蔽效应。
 
 ---
 

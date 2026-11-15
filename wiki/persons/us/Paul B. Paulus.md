@@ -116,14 +116,14 @@ updated: 2026-11-02
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 纳入 Baruah and Paulus (2008) 样本，作为解析干预组织形式效应的核心理论支架。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Brainstorming]] | 概念 | 理论重构者，系统阐明生产阻塞等三大损失并奠定书面改型规程。 |
 > | [[Creativity Training]] | 概念 | 实证奠基人，确立个体训练优于群体协作（$g = 0.682$ vs $0.567$）的底层机制。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 纳入 Baruah and Paulus (2008) 样本，作为解析干预组织形式效应的核心理论支架。

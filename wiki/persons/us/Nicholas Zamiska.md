@@ -51,13 +51,10 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
-  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09]]"
-  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10]]"
-  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14]]"
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-26
+updated: 2026-11-15
 ---
 
 ---
@@ -120,9 +117,6 @@ updated: 2026-10-26
 > - **方法路径** 结合行政诉讼[[Chain of Evidence|证据链]]构建与工程组织实战案例，提供可操作的政府采购合规审查与反垄断司法救济路径。
 > - **政策路径** 推动美国联邦法院确立 [[Federal Acquisition Streamlining Act of 1994|FASA 1994]] 商用现成优先先例，实质性推动国防部《国防联邦采办条例补充规定》（DFARS）的执行机制改革。
 > - **跨国／跨领域传播** 为盟国（如英国、北约成员国）防务采购去官僚化及吸纳商业软件技术提供法理范例与制度蓝本。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 论证采购法治、商用优先、[[Engineering Mindset|工程思维]]与行政去官僚化改革（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Ch. 9]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Ch. 10]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|Ch. 13]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
 
 ---
 

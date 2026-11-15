@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -174,6 +174,3 @@ updated: 2026-10-30
 > | [[Typological Analysis]] | 方法 | 建构宏观否决度与微观裁量权的因果类型学矩阵，推动类型学分析在制度变迁中的规范应用。 |
 
 ---
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，系统界定置换、层叠、漂移与转换四类演进模式及四类微观变革行动者类型学。

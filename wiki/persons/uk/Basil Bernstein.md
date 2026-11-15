@@ -43,10 +43,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Commensuration]]"
   - "[[Critical Pedagogy]]"
-  - "[[Interpretive Paradigm]]"
-  - "[[Technical Rationality]]"
-  - "[[School Inspection]]"
-  - "[[Research Translation]]"
   - "[[Cultural Capital]]"
   - "[[Habitus]]"
   - "[[Determinism]]"
@@ -55,12 +51,10 @@ related_theories:
   - "[[Thomas Theorem]]"
   - "[[Social Realism]]"
   - "[[Curriculum Design Coherence Model]]"
-  - "[[Symbolic Interactionism]]"
   - "[[Radical Constructivism]]"
   - "[[Critical Theory]]"
 related_methods:
   - "[[Discourse Analysis]]"
-  - "[[Action Research]]"
   - "[[Analytic Framework]]"
   - "[[Critical Discourse Analysis]]"
 related_persons:
@@ -83,7 +77,7 @@ related_facts:
 confidence: high
 status: stable
 created: 2026-05-23
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -175,10 +169,7 @@ updated: 2026-10-30
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Ball_2008_SR|Ball, 2008]] — 以 Bernstein 横向知识结构和教育话语为分析透镜，重构英国教育社会学演变史，剖析学科内部碎片化与范式争鸣。
 > - [[Argument_McPhail_2023_JCS\|McPhail et al., 2023]] — 运用 Bernstein [[Regulative and Instructional Discourse\|规约性话语与教学性话语]]理论，评估新西兰国家课程改革中概念知识遭排挤的[[Epistemology\|认识论]]危机。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1, p. 27]] — 引用 Bernstein（1974）批判微观[[Interpretive Paradigm|诠释范式]]与[[Symbolic Interactionism|符号互动论]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Ch. 2]] 借其批判[[Technical Rationality|技术理性]]课程与[[Action Research|行动研究]]的赋权限度。
-> - [[Argument_Grace_2010_NZJES|Grace, 2010]] — 视 Bernstein 为体现学者“社会批评家与良知”公共知识分子责任的最高典范。
 > - [[Argument_Cowen_2023_CE|Cowen, 2023]] — 借助 Bernstein 全盘教育化社会概念，剖析 21 世纪数字监控与资本主义教学关系向全社会的无界蔓延。
-> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 援引伯恩斯坦关于教育学“横向知识结构与弱语法”（weak grammar）的论断，揭示国家[[School Inspection|学校督导]]机构为何无法直接将教育[[Research Translation|研究转化]]为毫无争议的法定标准，进而剖析科层系统通过单一范式组织排斥学术多元性的简化机制（p. 653）。
 
 ---
 

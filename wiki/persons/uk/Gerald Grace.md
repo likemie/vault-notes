@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: completed
 created: '2026-05-07'
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -98,10 +98,6 @@ updated: 2026-10-22
 > - **理论路径** 倡导批判性政策奖学金（Policy Scholarship），打破传统教育管理学过分偏向[[Technical Rationality|技术理性]]与效率指标的局限，为理解教育领导、道德伦理与公共使命提供理论框架。
 > - **法制与政策路径** 首创并将“[[Critic and Conscience of Society|社会的批评者与良知]]”写入新西兰成文法，成为全球[[Higher Education Act of 1965|高等教育法]]制中以成文法条确立大学防范国家干预、履行公共真理核查职能的典范案例。
 > - **学术批判路径** 在 2010 年新西兰大论战中树立规范标尺，指明去语境化的循证教学论在政治经济学层面的保守后果，推动学界反思实证[[Quantitative Research|量化研究]]与社会结构正义的深层关联。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 考证立法思想史，论证社会的批评者与良知的法理意涵，批判[[John Hattie|哈蒂]]将学科技术争鸣混同于社会良知的概念错位。
-> - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — 援引该法定条款为《[[Visible Learning|可见的学习]]》介入国家标准辩护，主张学者以专业谨慎与学校可控因素为自我约束边界。
 
 ---
 

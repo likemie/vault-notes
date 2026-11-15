@@ -24,7 +24,6 @@ tags:
 related_concepts:
   - "[[Administrative Pilgrimage]]"
   - "[[Creole Nationalism]]"
-  - "[[Nationalism]]"
 related_theories:
   - "[[Imagined Community]]"
 related_methods: []
@@ -37,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -81,9 +80,6 @@ updated: 2026-11-11
 > - **人类学路径** 推动仪式研究从静态的功能主义结构分析，转向动态的过程、表演与象征解释范式。
 > - **政治学与历史学路径** 旅程与朝圣理论被历史学家与政治学者用于剖析近代官僚科层流动、学生政治巡游以及国家地理版图的情感建构。
 > - **安德森的理论承接** 本尼迪克特·安德森将特纳的朝圣模型扩展至世俗行政领域，确立了[[Administrative Pilgrimage|行政朝圣]]在民族国家起源中的关键解释功能。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch04|Anderson (2016)]] — 援引特纳关于朝圣作为意义生成经验的论述，将宗教朝圣模式推演至绝对主义与殖民地官僚巡游，奠定空间行政向民族认同转化的理论基石。
 
 ---
 

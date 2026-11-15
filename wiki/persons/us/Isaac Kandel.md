@@ -90,7 +90,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-05
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -195,7 +195,6 @@ updated: 2026-11-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 卡扎米亚斯全面评析坎德尔的历史哲学唯心主义、国家解释变量与[[Educational Meliorism|改良主义]]，同时深入剖析其实证派论敌批评与内在史学缺陷。
-> - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 考恩引用佩雷拉对坎德尔档案发掘的现实困境，诊断比较教育史编纂学在制度支持与文献密度上的结构性贫乏。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — [[Val D. Rust|瓦尔·D·拉斯特]]（Val D. Rust）等学者将坎德尔论教育折射国家深层政治文化抱负的经典命题，确立为两百年比较教育学术史演进中理解国家教育目的的核心基石。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统阐发坎德尔国家政体镜像公理，并结合[[Crane Brinton|布林顿]]比较史学为其历史假说检验的科学合法性展开有力抗辩。
 

@@ -81,11 +81,10 @@ related_facts:
 related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Grek_2024_EERJ]]"
-  - "[[Argument_Volmari_2025_CE]]"
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -140,11 +139,6 @@ updated: 2026-11-11
 > - **方法路径** 倡导多源质性[[Cohort Study|追踪研究]]，结合高层[[Elite Interview|精英访谈]]、政策文本修辞分析与数据载体物质性透视，为跨国[[Policy Network|政策网络]]与规制工具研究确立经验操作范例。
 > - **政策路径** 其对 PISA 政治效应与欧洲质量保障体系的批判性解构，深刻影响了[[European Commission|欧盟委员会]]、欧洲教育研究协会及欧洲多国教育部门对量化指标与外部质保非预期后果的反思。
 > - **跨国／跨领域传播** 从欧洲教育空间延伸至全球[[UN Sustainable Development Goals|可持续发展目标]]（SDG 4）度量场域，促进了教育社会学、国际关系学与全球公共政策研究之间的跨学科对话。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 奠定以数治教理论范式，实证揭示 PISA 如何作为政治技术被国家策略性借用并推动欧洲教育空间一体化。
-> - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 提出认识论基础设施分析框架，系统解构欧洲高教质保由博洛尼亚公报向标准、数据库与专家网络协同演进的治理机制。
-> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 引证其“知识已构成政策核心本身”论据，分析北欧国家学校改革中量化评估与专家知识如何转化为政策合法化工具。
 
 ---
 

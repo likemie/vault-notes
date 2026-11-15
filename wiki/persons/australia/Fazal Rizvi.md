@@ -7,7 +7,7 @@ summary: "澳大利亚与美国著名教育政策与跨国治理学者，墨尔�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 55
+person_related_count: 53
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -68,7 +68,6 @@ related_theories:
   - "[[Governing at a Distance]]"
 related_methods:
   - "[[Discourse Analysis]]"
-  - "[[Analytic Framework]]"
   - "[[Ethnography]]"
 related_persons:
   - "[[Bob Lingard]]"
@@ -82,11 +81,10 @@ related_facts:
 related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Rizvi_2022_Springer]]"
-  - "[[Argument_Klerides_2023_CE]]"
 confidence: high
 status: completed
 created: '2026-05-11'
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -147,11 +145,6 @@ updated: 2026-11-11
 > - **方法路径** 结合后殖民文化理论、批判政策[[Discourse Analysis|话语分析]]与多标度空间分析，打破[[Methodological Nationalism|方法论民族主义]]的局限，提供追踪国际学生跨国流动、教育政策本土转译与制度[[Discourse|话语]]杂糅的质性批判分析示范。
 > - **政策路径** 深刻剖析高等教育商业化出口与[[New Public Management|新公共管理]]合谋的技术机制，为揭露留学生高额学费依赖、抵制大学学术市场化以及保护一线公共教育价值提供了强有力的理论武器。
 > - **跨国／跨领域传播** 思想广泛辐射至比较教育学、高教社会学、文化研究与国际关系学界，成为全球多国教育政策研究生培养与学术辩论的基准参考[[Document|文献]]。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 系统解构[[OECD|经合组织]]从 1960–1990 年社会民主多元协商到[[Knowledge-Based Economy|知识经济]]社会想象与 [[PISA]] 数字治理的历史演进与理论机制。
-> - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 论证亚洲崛起作为重塑全球高等教育格局的独立因果力量，建立批判[[Geopolitics|地缘政治学]]与双重国际化理性[[Analytic Framework|分析框架]]。
-> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 援引里兹维等关于跨国政策行动者与话语网络的论述，探讨国际组织对比较教育学科[[Knowledge Production|知识生产]]的深层塑造。
 
 ---
 

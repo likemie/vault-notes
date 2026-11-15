@@ -25,7 +25,6 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Document]]"
-  - "[[Quasi-market]]"
   - "[[Nationalism]]"
 related_theories:
   - "[[Imagined Community]]"
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-14
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -108,9 +107,6 @@ updated: 2026-11-14
 > - **空间与经济史范式** 创立的“施坚雅模型”（农村市场体系与九大巨区理论）成为现代中国研究最重要的理论工具之一，深刻影响了柯文、杜赞奇、彭慕兰等数代历史学与社会学学者。
 > - **华侨华人与流散研究** 其对泰国华人的经典田野调查与历史剖析，奠定了战后东南亚华人研究与族群同化理论的学术基石。
 > - **[[Nationalism|民族主义]]理论对照** 其关于海外华人认同延续的实证研究，被[[Benedict Anderson|本尼迪克特·安德森]]（[[Benedict Anderson]]）引入《[[Imagined Community|想象的共同体]]》，成为反思美洲大西洋土生白人“断裂认同”为何属于罕见历史例外的核心比较证据。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch11|Anderson (2016)]] — 在第11章中征引施坚雅对泰国华人的经典研究，对比美洲土生白人与海外华人由于母国依附关系差异所形成的不同历史认同。
 
 ---
 

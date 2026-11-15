@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-11
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -85,9 +85,6 @@ updated: 2026-11-14
 > - **理论路径** 与费弗尔共同奠定法国年鉴学派基础，深刻影响了[[Fernand Braudel|布罗代尔]]（Fernand Braudel）、勒高夫（Jacques Le Goff）等后继史学大家的心态史与长时段理论。
 > - **方法路径** 倡导总体史（total history）观念，将民俗学、语言学、人类学与经济统计引入史料考证，革新了中世纪社会文化史的实证[[Paradigm|范式]]。
 > - **对[[Nationalism|民族主义]]研究的启发** 为安德森等学者提供了理解前现代王权合法性构建、视觉象征读图机制及时间断裂的深层历史人类学基底。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch02|Anderson (2016)]] — 引述布洛赫关于神圣王权治愈力、中世纪贵族读图机制以及末世时间紧迫感的心态史材料，支撑对王朝领域合法性与均质时间断裂的理论论证。
 
 ---
 

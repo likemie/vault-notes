@@ -188,6 +188,13 @@ updated: 2026-11-14
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 详细考证第三论述代际芝加哥学派（Anderson & Foster）的[[Structural Functionalism|结构功能主义]]分析模式，评述其寻找超越时空恒常规律的[[Professional Interest|志趣]]，并揭示其作为战后国家计划与技术援助[[Social Science as Legitimation Alibi|合法化借口]]的政治功能（pp. 146–147, 150–151）。
+> - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 梳理福斯特 1960 年论文对历史学派个殊性的猛烈批评，以及卡扎米亚斯对[[Crane Brinton|布林顿]]式[[Working Hypothesis|历史探索性假说]]的辩护。
+> - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 评析福斯特与安德森在[[Scientific Paradigm|科学范式]]中建立的社会系统恒常关系理论。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
@@ -199,10 +206,3 @@ updated: 2026-11-14
 > | [[Historical-Comparative Method\|历史比较法]] | 方法 | 福斯特批判的传统方法，促使比较史学派反思并重建历史解释的科学性。 |
 > | [[Comparative Education Center at Chicago 1958\|芝加哥大学比较教育中心]] | 事实 | 福斯特担任副主任并开展长期跨国实证调查的学术大本营。 |
 > | [[Comparative and International Education Society\|比较与国际教育学会]] | 事实 | 1979–1980 年出任学会会长，巩固实证社会学在北[[Philosophical Aesthetics\|美学]]会的权威地位。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 详细考证第三论述代际芝加哥学派（Anderson & Foster）的[[Structural Functionalism|结构功能主义]]分析模式，评述其寻找超越时空恒常规律的[[Professional Interest|志趣]]，并揭示其作为战后国家计划与技术援助[[Social Science as Legitimation Alibi|合法化借口]]的政治功能（pp. 146–147, 150–151）。
-> - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 梳理福斯特 1960 年论文对历史学派个殊性的猛烈批评，以及卡扎米亚斯对[[Crane Brinton|布林顿]]式[[Working Hypothesis|历史探索性假说]]的辩护。
-> - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 评析福斯特与安德森在[[Scientific Paradigm|科学范式]]中建立的社会系统恒常关系理论。

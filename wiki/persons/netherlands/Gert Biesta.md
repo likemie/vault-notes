@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -139,7 +139,6 @@ updated: 2026-11-14
 > - **跨国传播与论辩** 理论被广泛引入政策社会学与实证教育研究批判：里格利（Wrigley）援引其系统论反驳循证医学模型；罗默（Rømer）借用其被动性概念解构可见学习对被动维度的偏狭排斥；考恩（Cowen）在比较教育制度分析中印证其哲学诊断。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 系统阐述[[Evidence-Based Education|循证教育]]在[[Epistemology|认识论]]、存在论和实践论维度的三重缺陷，倡导向[[Value-Based Education|价值本位教育]]转型。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 援引比斯塔的“被动性”与“被教导”论述，批判[[John Hattie|哈蒂]]可见学习排斥被动性、割裂西方教育哲学传统的认识论缺陷。
 > - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 援引比斯塔关于教育属于“开放、递归、符号系统”的本体论论断，批判循证教育将社会情境生物学化的方法论错误。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 借用比斯塔的“学习化”概念，批判北欧教育改革将教师降格为学习促进者的去专业化趋势。

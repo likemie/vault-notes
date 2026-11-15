@@ -37,11 +37,10 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch01]]"
-  - "[[Argument_Xu_2024_CE]]"
 confidence: high
 status: active
 created: 2026-11-10
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -92,7 +91,6 @@ updated: 2026-11-14
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Anderson_2016_Verso_Ch01|Anderson (2016)]] — 评析格尔纳的发明命题，指出其过度将发明划归为捏造和伪饰，从而错失了想象共同体的表象风格分析。
-> - [[Argument_Xu_2024_CE|Xu (2024)]] — 在教科书民族认同研究中将格尔纳与安德森并列为现代主义建构论的重要思想源头。
 
 ---
 

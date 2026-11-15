@@ -30,8 +30,6 @@ related_concepts:
   - "[[Philosophical Aesthetics]]"
   - "[[Professional Learning Community]]"
   - "[[Teacher Leadership]]"
-  - "[[Paradigm]]"
-  - "[[Document]]"
   - "[[Teacher Professional Agency]]"
   - "[[Instructional Leadership]]"
   - "[[Bureaucracy]]"
@@ -50,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-13
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -99,11 +97,6 @@ updated: 2026-11-14
 > - **方法路径** 倡导结合微观日常影子跟随观察（Shadowing）、日志记录与社会网络分析，精确测绘学校内部真实存在的专业建议与求助流向。
 > - **政策路径** 直接为全[[Philosophical Aesthetics|美学]]区推行以教师[[Professional Learning Community|专业学习共同体]]（PLCs）为核心的角色转型提供了理论指导（如加州桑格学区）。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 491)]]
 > - **跨国／跨领域传播** 分布式领导概念被英国、加拿大、澳大利亚与中国广泛引入，成为解释卓越学校培育[[Teacher Leadership|教师领导力]]（Teacher Leadership）的基础构念。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 491)]]
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 将 Cohen and Spillane (1992) 作为课程治理[[Paradigm|范式]]代表[[Document|文献]]，并依托分布式视角阐发桑格学区管理者的转型。
 
 ---
 

@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -183,7 +183,6 @@ updated: 2026-10-30
 克雷斯维尔的学说在当代权威教材与方法论[[Document|文献]]中保持着极高的引证频次。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 《研究设计》第六版，全面呈现世界观三维模型、量化与质性技术以及混合方法设计的最新标准化表述。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 28)]] — 引述 Creswell 的三类混合设计与[[Pragmatic Paradigm\|实用主义]]整合逻辑；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Ch. 10]] 评析 Creswell 与 Plano Clark 的设计类型、时间规划与数据整合。
 
 ---

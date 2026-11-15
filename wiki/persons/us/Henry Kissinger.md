@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -108,9 +108,6 @@ updated: 2026-11-14
 > - **方法路径** 确立了将长时段外交档案考证与决策心理、领袖战略决断相结合的历史比较分析传统。
 > - **政策路径** 直接塑造了 20 世纪下半叶美国的全球地缘战略布局，其主张的均势与威慑原则至今仍是[[Department of Defense|五角大楼]]与国家安全委员会的核心战略资产。
 > - **跨国／跨领域传播** 思想广泛跨越外交学界延伸至商业战略、企业管理与防务科技产业，成为卡普等现代科技领袖重构[[Technological Republic|技术共和国]]的重要思想源泉。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 197)]]
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 第3章（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Ch03]]）援引其均势理论，第17章（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch17]]）引述其论领袖性格塑造历史。
 
 ---
 

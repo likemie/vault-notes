@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-18
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -111,6 +111,12 @@ updated: 2026-10-22
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] — 借用 Goldman 的[[Goldman's Discrimination Theory of Knowledge\|知识辨识理论]]与纸糊谷仓思想实验，系统论证教育知识与政策推断的局部性与暂定性。
+> - Goldman, A. I. (2001) — *Experts: Which ones should you trust?*（Philosophy and Phenomenological Research），奠定现代社会认识论中外行评估专家证词的理性标准框架。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献与关系 |
@@ -121,10 +127,3 @@ updated: 2026-10-22
 > | [[Epistemic Dependence\|认识依赖]] | 概念 | Goldman 的专家信任框架为分析人类依赖[[AI Agent in Education\|智能体]]与算法权威提供了社会认识论分析起点。 |
 > | [[Clark A. Chinn]] | 人物 | Chinn 汲取 Goldman 可靠主义，在学习科学中开创 [[AIR Model of Epistemic Cognition\|AIR]] [[Epistemic Cognition\|认识论认知]]模型。 |
 > | [[Dylan Wiliam]] | 人物 | Wiliam 引入 Goldman 辨识理论，系统反思[[Evidence-Based Education\|证据本位教育]]的局部性与暂定性。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] — 借用 Goldman 的[[Goldman's Discrimination Theory of Knowledge\|知识辨识理论]]与纸糊谷仓思想实验，系统论证教育知识与政策推断的局部性与暂定性。
-> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 引证 Goldman（2001）的社会[[Epistemology\|认识论]]与非专家信任难题，深入推演人工智能中介学习环境下[[Epistemic Dependence\|认识依赖]]的四重社会技术路径与规范治理。
-> - Goldman, A. I. (2001) — *Experts: Which ones should you trust?*（Philosophy and Phenomenological Research），奠定现代社会认识论中外行评估专家证词的理性标准框架。

@@ -107,6 +107,11 @@ updated: 2026-11-11
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang & Barabási (2021, Unit 09)]] — 详尽引述佩尔杜 1992 年成果排印错误在后续独立论著中复现 78 次的数据，实证证实连环复制是优先连接的微观物理起源（pp. 260–261）。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联与实证载体 |
@@ -115,8 +120,3 @@ updated: 2026-11-11
 > | [[Price Cumulative Advantage Model]] | 理论 | 复制模型从行为层面解释了普赖斯模型中优先连接假定的微观现实物理来源。 |
 > | [[Preferential Attachment in Academia]] | 理论 | 经验确证去中心化个体顺藤摸瓜的局部行为如何在全网宏观自发涌现优先连接。 |
 > | [[Bibliometric Analysis]] | 方法 | 运用文献微观印刷指纹追踪引文传播网络的典型科学计量学实证方法。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Wang & Barabási (2021, Unit 09)]] — 详尽引述佩尔杜 1992 年成果排印错误在后续独立论著中复现 78 次的数据，实证证实连环复制是优先连接的微观物理起源（pp. 260–261）。

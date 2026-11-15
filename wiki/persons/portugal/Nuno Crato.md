@@ -25,7 +25,6 @@ related_concepts:
   - "[[System-Wide Improvement]]"
   - "[[Determinism]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Document]]"
   - "[[Curriculum Alignment]]"
   - "[[Output-Oriented Governance]]"
 related_theories: []
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-15
 ---
 
 ---
@@ -91,11 +90,6 @@ updated: 2026-11-13
 > - **方法路径** 倡导将时间序列计量经济学分析深度引入教育政策后评估，建立国家级学业增值追踪平台。
 > - **政策路径** 其推行的 4/6/9 年级外部统测与数学母语课时扩充政策，直接推动葡萄牙在 PISA 2015 与 2018 年测试中阅读、数学与科学全科超越经合组织平均线。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 487)]]
 > - **跨国／跨领域传播** 葡萄牙经验被拉美（如巴西、厄瓜多尔）及东欧国家广泛作为在严苛财政预算约束下推行系统性提质的标杆范例。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 482, 487)]]
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 将 Crato (2021) 作为跨国全系统改进实证[[Document|文献]]的重要来源，分析葡萄牙中小系统逆势突围经验。
 
 ---
 

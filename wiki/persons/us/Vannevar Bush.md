@@ -233,6 +233,18 @@ created: 2026-10-02
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Block_2008_PS|Block (2008)]] — 在《游泳逆流：[[Developmental Network State|发展型网络国家]]在美国的崛起》中深度解构布什 1945 年报告的战后体制假定，揭示其依赖大企业封闭实验室吸收基础发现的历史局限；论证随着大企业实验室收缩与[[Valley of Death|死亡之谷]]凸显，美国被迫通过 1980 年代科技立法转向由发展型网络国家暗中主导的早期研发撮合机制。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》系统探讨二战 [[Office of Scientific Research and Development|OSRD]] 与国家安全深度结盟的动员体制（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]]）、对比布什深层物理突破与当代[[Big Idea Famine|大构想饥荒]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Ch. 4]]），以及剖析 1970 年代反文化运动与[[Consumer Internet|消费互联网]]对布什国家大战略使命的偏离（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 2026 年白宫战略报告，全面对照 1945 年[[Science, The Endless Frontier 1945|布什报告]]，肯定其公共资助核心，同时宣告单向管道终结，提出四大支柱与 2028 财年研发预算优先序。
+> - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 系统剖析布什《科学——无止境的边疆》所确立的三大制度性承诺，揭示 2025 年起美国科技政策实践启动对布什契约的退出、以及向技术能力导向型契约的深刻转型。
+> - [[Argument_Yang_2017_MUE|杨九斌 (2017)]] — 考察二战后布什因科学管理权分歧离开华府、OSRD 撤销及自由基础研究设想在冷战初期军工合同垄断下受挫的历史波折。
+> - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 系统反思并批判布什报告在战后制度化的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]，提出[[Discovery-Invention Cycle|发现-发明循环]]理论。
+> - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 从[[Evolutionary Economics|演化经济学]]与[[National Innovation System|国家创新系统]]视角系统解构布什的线性模型。
+> - [[Argument_Stephan_2013_NBER|Stephan, 2013]] — 考察战后大学对布什契约的能动改造与微观异化。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
@@ -252,15 +264,3 @@ created: 2026-10-02
 > | [[Alexander Karp]] | Person | 在《技术共和国》中高度评价布什开创的科学家与国家战略使命结盟模式。 |
 > | [[Nicholas Zamiska]] | Person | 《技术共和国》合著者，主张重振布什动员传统以消解公共部门[[Innovation Desert\|创新荒漠]]。 |
 > | [[Fred Block]] | Person | 政治社会学家，系统剖析布什二分法的后工业失效与美国[[Developmental Network State\|发展型网络国家]]的崛起。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Block_2008_PS|Block (2008)]] — 在《游泳逆流：[[Developmental Network State|发展型网络国家]]在美国的崛起》中深度解构布什 1945 年报告的战后体制假定，揭示其依赖大企业封闭实验室吸收基础发现的历史局限；论证随着大企业实验室收缩与[[Valley of Death|死亡之谷]]凸显，美国被迫通过 1980 年代科技立法转向由发展型网络国家暗中主导的早期研发撮合机制。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》系统探讨二战 [[Office of Scientific Research and Development|OSRD]] 与国家安全深度结盟的动员体制（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]]）、对比布什深层物理突破与当代[[Big Idea Famine|大构想饥荒]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Ch. 4]]），以及剖析 1970 年代反文化运动与[[Consumer Internet|消费互联网]]对布什国家大战略使命的偏离（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 2026 年白宫战略报告，全面对照 1945 年[[Science, The Endless Frontier 1945|布什报告]]，肯定其公共资助核心，同时宣告单向管道终结，提出四大支柱与 2028 财年研发预算优先序。
-> - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 系统剖析布什《科学——无止境的边疆》所确立的三大制度性承诺，揭示 2025 年起美国科技政策实践启动对布什契约的退出、以及向技术能力导向型契约的深刻转型。
-> - [[Argument_Yang_2017_MUE|杨九斌 (2017)]] — 考察二战后布什因科学管理权分歧离开华府、OSRD 撤销及自由基础研究设想在冷战初期军工合同垄断下受挫的历史波折。
-> - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 系统反思并批判布什报告在战后制度化的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]，提出[[Discovery-Invention Cycle|发现-发明循环]]理论。
-> - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 从[[Evolutionary Economics|演化经济学]]与[[National Innovation System|国家创新系统]]视角系统解构布什的线性模型。
-> - [[Argument_Stephan_2013_NBER|Stephan, 2013]] — 考察战后大学对布什契约的能动改造与微观异化。

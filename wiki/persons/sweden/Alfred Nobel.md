@@ -126,16 +126,13 @@ updated: 2026-10-30
 
 ---
 
-> [!entry-map] 概念与人物网络
-> - 核心关联：[[Total War]]、[[Long Peace]]、[[Hard Power]]、[[AI Deterrence]]
-> - 代表人物：[[J. Robert Oppenheimer]]、[[Vannevar Bush]]、[[Erich Ludendorff]]、[[Alexander Karp]]、[[Nicholas Zamiska]]
-> - 关键事实：[[Manhattan Project]]
-
----
-
 > [!evidence-grid] 相关研究
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]：
 >   - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|第 4 章]]（pp. 37–38）：详述诺贝尔硝化甘油炸药发明历程、普法战争军用改装，以及其 1891 年关于恐怖作为和平守护者的现实主义论断对[[J. Robert Oppenheimer|奥本海默]]三位一体试验的心智影响。
 
 ---
 
+> [!entry-map] 概念与人物网络
+> - 核心关联：[[Total War]]、[[Long Peace]]、[[Hard Power]]、[[AI Deterrence]]
+> - 代表人物：[[J. Robert Oppenheimer]]、[[Vannevar Bush]]、[[Erich Ludendorff]]、[[Alexander Karp]]、[[Nicholas Zamiska]]
+> - 关键事实：[[Manhattan Project]]

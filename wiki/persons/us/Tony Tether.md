@@ -140,6 +140,12 @@ updated: 2026-10-26
 
 ---
 
+> [!evidence-grid] 相关研究索引
+> - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 以瑟瑟任期前后为纵向对比样本，实证破除“瑟瑟改革终结经典 [[DARPA]] 模式”的学术流行观点，确立项目经理在微观层面的[[Embedded Network Governance|嵌入型网络治理]][[Paradigm|范式]]。
+> - [[Argument_Block_2008_PS|Block (2008)]] — 从隐蔽[[Developmental Network State|发展型网络国家]]的理论视阈，深入剖析泰瑟出任 DARPA 局长期间强行将计算资助由大学转向涉密军事部署的激进倒退，揭示国防隐蔽外衣下缺乏民主问责导致的科技生态脆弱性。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
@@ -152,9 +158,3 @@ updated: 2026-10-26
 > | [[Fred Block]] | 人物 | 深刻剖析泰瑟治下涉密化对大学计算机科研生态破坏的经济社会学家。 |
 > | [[DARPA]] | 机构 | 2001–2009 年担任局长，创办无人驾驶大挑战赛并资助 CALO、UNIC 等战略项目。 |
 > | [[National Academy of Sciences]] | 机构 | 汇总大学学者抗议并就基础科研经费缩减展开国会质询。 |
-
----
-
-> [!evidence-grid] 相关研究索引
-> - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 以瑟瑟任期前后为纵向对比样本，实证破除“瑟瑟改革终结经典 [[DARPA]] 模式”的学术流行观点，确立项目经理在微观层面的[[Embedded Network Governance|嵌入型网络治理]][[Paradigm|范式]]。
-> - [[Argument_Block_2008_PS|Block (2008)]] — 从隐蔽[[Developmental Network State|发展型网络国家]]的理论视阈，深入剖析泰瑟出任 DARPA 局长期间强行将计算资助由大学转向涉密军事部署的激进倒退，揭示国防隐蔽外衣下缺乏民主问责导致的科技生态脆弱性。

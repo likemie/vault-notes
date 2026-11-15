@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -121,7 +121,6 @@ updated: 2026-11-02
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] — 将西蒙的有限理性理论作为理解教学-学习关系与教师专业判断局限的[[Epistemology|认识论]]基石。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska (2025)]] — 回顾西蒙在达特茅斯研讨会后对机器智力替代人类工作的著名预测，作为 20 世纪下半叶计算先驱早期技术自信与预言提前的历史透镜。
 
 ---
 

@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -137,6 +137,3 @@ updated: 2026-10-22
 > | [[Conditioned State Theory]] | 理论 | 卡斯特罗通过实证借贷案例证伪绝对受限论、确立借款国内部政治决定性的宏观对话理论。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 462–464)]] |
 
 ---
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高级官员制度分析视角，系统解构[[Multilateral Development Bank|多边开发银行]]的金融魔术、意识形态信条、借贷博弈、附加条件、[[Counterpart Funds|对等资金]]及执行端组织非学习困境（pp. 455–477）。

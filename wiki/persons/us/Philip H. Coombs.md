@@ -125,6 +125,12 @@ updated: 2026-11-11
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] — 将库姆斯定位为冷战时期将教育危机赋予“[[Cosmopolitanism|普世主义]]宣称”的最关键历史人物，揭示其如何通过威廉斯堡大会奠定跨国[[Policy Brokerage\|政策中介]]的政治合法性。
+> - [[Argument_Santos_Silova_2026_Discourse\|Santos and Silova (2026)]] — 将库姆斯 1968 年世界教育危机系统分析追溯为跨国危机叙事的制度化源头，揭示其如何为当代国际组织技术官僚干预奠定历史基调。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
@@ -134,9 +140,3 @@ updated: 2026-11-11
 > | [[A Nation at Risk 1983]] | 政策 | 其倡导的危机动员[[Discourse\|话语]]直接启发了 1980 年代美国国内及跨国指标危机报告。 |
 > | [[International Institute for Educational Planning]] | 组织 | 参与创建并担任首任所长（1963–1968），开创多边教育规划技术培训。 |
 > | [[1967 Williamsburg Conference on the World Crisis in Education\|1967 年威廉斯堡世界教育危机大会]] | 事件 | 会议核心组织者与议题设定者，正式确立全球教育危机叙事。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] — 将库姆斯定位为冷战时期将教育危机赋予“[[Cosmopolitanism|普世主义]]宣称”的最关键历史人物，揭示其如何通过威廉斯堡大会奠定跨国[[Policy Brokerage\|政策中介]]的政治合法性。
-> - [[Argument_Santos_Silova_2026_Discourse\|Santos and Silova (2026)]] — 将库姆斯 1968 年世界教育危机系统分析追溯为跨国危机叙事的制度化源头，揭示其如何为当代国际组织技术官僚干预奠定历史基调。

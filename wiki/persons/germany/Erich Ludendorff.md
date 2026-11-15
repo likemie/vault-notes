@@ -33,7 +33,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -96,7 +96,3 @@ updated: 2026-10-22
 > | [[Manhattan Project\|曼哈顿工程]] | 事实 | 总体战逻辑最终在二战地毯式轰炸与原子弹实战使用中达到顶点。 |
 
 ---
-
-> [!evidence-grid] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引鲁登道夫关于[[Total War|总体战]]中平民沦为合法打击目标的冷酷逻辑，论证工业化战争如何演化至核武器毁灭极限，进而催生战后[[Long Peace|长和平]]。
-

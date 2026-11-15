@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -123,9 +123,6 @@ updated: 2026-10-30
 > - **方法路径** 推动了认识[[Network Analysis\|网络分析]]（Epistemic Network Analysis, ENA）与多模态[[Learning Analytics\|学习分析]]在科学教育与在线协作中的实证落地，为测量复杂认识论互动提供了计算[[Paradigm\|范式]]。
 > - **实践路径** 指导了数字化探究工具开发、基于大模型的[[Dialogue in Education\|教育对话]][[AI Agent in Education\|智能体]]设计以及[[Man-Computer Symbiosis|人机协同]]课堂中双轨促学支架的研制。
 > - **跨领域传播** 成果横跨学习科学、教育技术学、科学教育与人机交互领域，成为东亚及[[International Education\|国际教育]]计算研究领域被引频次最高的领军学者之一。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances\|认识立场]]理论，系统建构双轨支架干预矩阵并界定人机共享认识主体性。
 
 ---
 

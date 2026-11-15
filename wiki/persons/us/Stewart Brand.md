@@ -118,6 +118,11 @@ updated: 2026-10-22
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著第八章系统评述布兰德《[[Whole Earth Catalog|全球概览]]》及其 1995 年论文，剖析反文化反集权哲学如何成为硅谷个人计算革命的思想基石并导致科技界与国家战略使命的脱节（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。
+
+---
+
 > [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 贡献与关系 |
@@ -127,8 +132,3 @@ updated: 2026-10-22
 > | [[Steve Jobs]] | Person | 极度推崇布兰德《全球概览》哲学并将其转化为苹果产品的科技领袖。 |
 > | [[Homebrew Computer Club]] | Fact (Org) | 践行布兰德去中心化工具获取理念的早期硬件黑客社团。 |
 > | [[Steven Levy]] | Person | 在《黑客》等著作中记录布兰德思想影响的资深科技作家。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著第八章系统评述布兰德《[[Whole Earth Catalog|全球概览]]》及其 1995 年论文，剖析反文化反集权哲学如何成为硅谷个人计算革命的思想基石并导致科技界与国家战略使命的脱节（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。

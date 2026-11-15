@@ -45,14 +45,13 @@ related_methods:
   - "[[Ethnography]]"
   - "[[In-depth Interview]]"
   - "[[Analytic Framework]]"
-  - "[[Meta-meta-analysis]]"
 related_instruments: []
 related_persons:
   - "[[Pierre Bourdieu]]"
-  - "[[John Hattie]]"
   - "[[Ivan Snook]]"
   - "[[Gerald Grace]]"
   - "[[Basil Bernstein]]"
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-17
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -108,7 +107,6 @@ updated: 2026-11-14
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 将纳什 2003 年对教育成就差异非学校因素的透彻分析，作为当代大学学者践行“社会的批评者与良知”角色的卓越典范。
-> - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引纳什关于量化数据极易被政策官僚挪用为政治宣传工具的方法论警告，全面解构[[John Hattie|哈蒂]]的宏观[[Meta-meta-analysis|二阶元分析]]综合模型。
 
 ---
 

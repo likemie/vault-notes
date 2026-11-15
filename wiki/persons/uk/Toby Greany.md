@@ -33,7 +33,6 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Construct]]"
   - "[[Research-Engaged School]]"
-  - "[[Document]]"
 related_theories:
   - "[[Organizational Culture]]"
   - "[[Inquiry Cycle]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -129,6 +128,3 @@ updated: 2026-11-11
 > | [[Research Learning Communities]] | 事实 | 与[[Chris Brown\|克里斯·布朗]]共同主持该项目的实证检验与跨校合作网络追踪。 |
 
 ---
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018]] — 合作构建四因素模型、分析 79 所小学基线准备度并提出领导力优先投入方向的核心[[Document|文献]]。

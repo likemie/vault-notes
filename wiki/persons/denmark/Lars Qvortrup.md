@@ -44,7 +44,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Heterogeneity]]"
   - "[[Structural Coupling]]"
-  - "[[Learnology]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Luhmann's Systems Theory]]"
@@ -67,7 +66,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-03'
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -127,8 +126,6 @@ updated: 2026-11-02
 > - **跨国传播与论辩** 其 2019 年在 NordSTEP 发表的辩护论文成为国际学术界关于《可见的学习》论争中罕见且具系统理论深度的支持方代表[[Document|文献]]，与北欧及国际批判学界展开长久对话。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] — 面对可见学习的方法论争议，提出四阶动态知识与学习模型以修正学习结果界定。
-> - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] — 综合解释社群、观察透镜与系统结构联结，为可见学习构建系统性理论辩护。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 丹麦哲学家罗默系统批判克沃特鲁普的医学化类比与原始数据库存设想，指出其导致的“衰变序列”。
 
 ---

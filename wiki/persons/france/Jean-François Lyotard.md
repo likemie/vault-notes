@@ -73,7 +73,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-10
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -179,7 +179,6 @@ updated: 2026-11-14
 > - [[Argument_Cole_2005_JRIE\|Cole (2005)]] — 借用 Lyotard 对后现代“完美信息博弈”的诊断与绩效性批判，论证了在当代教育中，核心[[Competitiveness|竞争力]]不再是信息的获取，而是能够改变规则的“想象力”，这为[[International Spinozian Curriculum\|国际斯宾诺莎主义课程]]提供了时代合理性。
 > - [[Argument_Beech_2009_CE\|Beech (2009a)]] — 引入 Lyotard 的绩效性原则与“要么可操作、要么消失”的预警，揭示超国家机构在[[Policy Network\|全球政策网络]]中生产去历史、去语境之“[[Floating Signifier\|漂浮能指]]”的生存博弈机制。
 > - [[Argument_Partaken_2022_Springer\|Partaken, 2022]] — 运用 Lyotard 的叙事知识与科学知识二分法，分析全球知识[[Geopolitics|地缘政治]]中地方性叙事知识的急剧衰落与西方商业化效用知识的霸权。
-> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 援引[[Jean-François Lyotard|利奥塔]]知识商品化论断，揭示全球教育转移中大学将[[School Effectiveness|学校效能]]技术包装为咨询商品开辟海外市场的学术重商主义机制（pp. 342–343）。
 
 ---
 

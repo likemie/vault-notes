@@ -161,6 +161,11 @@ updated: 2026-11-02
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 系统梳理自 Skinner $\to$ Glaser $\to$ Hattie 的思想谱系，揭示其技术理性与行为主义底色。
+
+---
+
 > [!entry-map] 人物与理论思想网络关联
 > | 关联对象 | 关系性质 | 核心说明 |
 > |---|---|---|
@@ -172,8 +177,3 @@ updated: 2026-11-02
 > | [[Carl Rogers\|卡尔·罗杰斯]] | 论辩对立面 | 1956 年世纪大辩论中坚决捍卫人性尊严与内在潜能，反对斯金纳的机械行为控制观。 |
 > | [[Donald A. Schön\|唐纳德·舍恩]] | 批判对立面 | 舍恩对技术理性的批判深刻揭露了斯金纳试图将复杂专业实践还原为工程控制的认识论盲区。 |
 > | [[Neo-Taylorism\|新泰勒主义]] | 制度转化 | 斯金纳的行为控制技术在当代量化教育治理中被改造成对教师与学生的流水线式绩效[[Disciplina and Doctrina\|规训]]。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 系统梳理自 Skinner $\to$ Glaser $\to$ Hattie 的思想谱系，揭示其技术理性与行为主义底色。

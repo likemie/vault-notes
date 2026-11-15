@@ -140,6 +140,11 @@ updated: 2026-11-02
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 借鉴波普科维茨的教育治理[[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]（知识与参与），剖析学校空间实践对流动人口的规训与排斥。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
@@ -151,8 +156,3 @@ updated: 2026-11-02
 > | [[Michael W. Apple]] | 人物 | [[James Madison\|麦迪逊]]学派核心同事，共同推进美国批判教育社会学与意识形态制度分析。 |
 > | [[OECD]] | 组织 | 系统剖析其推行的国际大型评价与教师教育国际标准背后的隐性[[Governmentality\|治理术]]。 |
 > | 跨国政策治理网络 | 组织 | 系统剖析其推行的国际大型评价与教师教育国际标准背后的隐性[[Governmentality\|治理术]]。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 借鉴波普科维茨的教育治理[[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]（知识与参与），剖析学校空间实践对流动人口的规训与排斥。

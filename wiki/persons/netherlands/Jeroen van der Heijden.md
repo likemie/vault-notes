@@ -43,7 +43,6 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Instrumental Variables]]"
   - "[[Analytic Framework]]"
-  - "[[Critical Review]]"
 related_persons:
   - "[[Ray Pawson]]"
   - "[[James Mahoney]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -111,7 +110,6 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011]] — 范德海登在 *Politics* 发表的[[Institutional Layering|制度层叠]][[Critical Review|批判性综述]]，系统奠定制度层叠三大传统与实在论多维观察框架。
 > - [[Institutional Layering]] — 范德海登为该核心概念提供了迄今最完整的学术史谱系梳理与[[Operationalization|操作化]]定义。
 > - [[Realist Evaluation]] — 范德海登将科学实在论评估成功迁移至制度演化分析，为实在论提供了制度主义维度的经验注脚。
 > - [[Regulatory Ratchet]] — 范德海登提炼出的制度层叠“增加工具”传统的核心病理机制。

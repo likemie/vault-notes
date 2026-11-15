@@ -124,6 +124,11 @@ updated: 2026-11-14
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著第八章深入剖析乔布斯的反文化背景、亲密个人产品哲学及《1984》广告的抗争隐喻，论述其如何推动硅谷科技[[Paradigm|范式]]脱离国家战略使命并最终蜕变为唯利是图的[[Consumer Internet|消费互联网]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。
+
+---
+
 > [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 贡献与关系 |
@@ -133,8 +138,3 @@ updated: 2026-11-14
 > | [[Technological Agnosticism]] | Concept | 开创了技术研发脱离国家战略防务合作、专注于个人消费市场的商业[[Paradigm\|范式]]。 |
 > | [[Homebrew Computer Club]] | Fact (Org) | 早期展示 Apple I 原型与汲取极客技术社区营养的核心发源地。 |
 > | [[Whole Earth Catalog]] | Fact (Prog) | 乔布斯推崇的“获取工具”与去中心化理念的纸质精神源泉。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著第八章深入剖析乔布斯的反文化背景、亲密个人产品哲学及《1984》广告的抗争隐喻，论述其如何推动硅谷科技[[Paradigm|范式]]脱离国家战略使命并最终蜕变为唯利是图的[[Consumer Internet|消费互联网]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。

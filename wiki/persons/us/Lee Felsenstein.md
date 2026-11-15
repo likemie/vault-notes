@@ -116,6 +116,11 @@ updated: 2026-10-30
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著第八章系统分析费尔森斯坦创建[[Homebrew Computer Club|家酿计算机俱乐部]]的反体制初衷，论证其如何将个人计算定义为摆脱政府束缚的解放工具并颠覆了战后[[Technological Republic|技术共和国]]传统（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。
+
+---
+
 > [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 贡献与关系 |
@@ -125,8 +130,3 @@ updated: 2026-10-30
 > | [[Hacker Ethic]] | Concept | 践行去中心化、开放共享与反官僚垄断的早期硬件黑客代表。 |
 > | [[Steve Jobs]] | Person | 早期在家酿俱乐部汲取技术灵感并走向商业化大众消费计算的同行。 |
 > | [[Stewart Brand]] | Person | 《[[Whole Earth Catalog\|全球概览]]》创办人，为费尔森斯坦等极客提供反集权工具获取的哲学母体。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著第八章系统分析费尔森斯坦创建[[Homebrew Computer Club|家酿计算机俱乐部]]的反体制初衷，论证其如何将个人计算定义为摆脱政府束缚的解放工具并颠覆了战后[[Technological Republic|技术共和国]]传统（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。

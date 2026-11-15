@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -90,9 +90,6 @@ updated: 2026-11-11
 > - **理论路径** 建立了关注多元文化学生（包括毛利与太平洋岛民背景）认知与情感融入的包容性优质[[Didaktik|教学理论]]体系。
 > - **方法路径** 创立了“迭代式最佳证据综合”（Iterative BES）方法，融合量化因果[[Effect Size|效应量]]与深度质性个案生态，为全球循证政策提供了区别于英美单一 [[Randomised Controlled Trials|RCT]] 导向的多元方法样板。
 > - **政策路径** 直接促成新西兰工党政府将“优质教学”确立为国家战略优先目标，深远塑造了《新西兰国家课程》与教育审查办公室（[[Education Review Office|ERO]]）的督导指南。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Sarbiewska_2019_KiW|Sarbiewska (2019)]] — 引用奥尔顿-李关于新西兰学业方差主要源自校内班级方差而非校际方差的实证结论，为将改革责任锁定至微观课堂提供核心支柱。
 
 ---
 

@@ -25,21 +25,19 @@ related_concepts:
   - "[[Philological Revolution]]"
   - "[[Print-Language]]"
   - "[[Nationalism]]"
-related_theories:
-  - "[[Imagined Community]]"
-related_methods:
-  - "[[Historical-Comparative Method]]"
+related_theories: []
+related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Benedict Anderson]]"
   - "[[Hugh Seton-Watson]]"
+  - "[[Benedict Anderson]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch05]]"
 confidence: high
 status: active
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-15
 ---
 
 ---
@@ -91,9 +89,6 @@ updated: 2026-11-13
 > - **挪威双语官方体制形成** 其确立的新挪威语（Nynorsk）成为现代挪威两大官方书面标准语之一，广泛应用于国家广播、公立学校教材、政府公文与议会立法。
 > - **音乐民族化催化** 启发了挪威作曲家爱德华·格里格（Edvard Grieg）等人深入峡湾搜集民间音调，将挪威语抑扬顿挫的民间语调化入经典器乐曲目。
 > - **安德森现代民族主义模型** 安德森在《想象的共同体》第五章中将奥森奉为论证现代民族主义“人造性”与“语文学中心主义”的最经典论据，展示职业学者如何凭借词典与语法技术在现代社会成功构建出一个主权共同体的精神纽带。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch05|Anderson (2016)]] — 将奥森1848年语法与1850年词典作为语文学家从田野方言无中生有打造独立书面国语、击破宗主国语言垄断的代表性实证（p. 77, n. 21）。
 
 ---
 

@@ -45,7 +45,6 @@ related_concepts:
 related_theories:
   - "[[Historical Institutionalism]]"
   - "[[Hegemony]]"
-  - "[[Sociology of Measurement]]"
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Ethnography]]"
@@ -69,12 +68,10 @@ related_facts:
   - "[[Centre for Educational Research and Innovation]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
-  - "[[Argument_Gorur_2014_Discourse]]"
-  - "[[Argument_Volmari_2025_CE]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-10
+updated: 2026-11-15
 ---
 
 ---
@@ -132,11 +129,6 @@ updated: 2026-11-10
 > - **方法路径** 倡导结合跨国多边机构内部未公开机密档案、口述历史访谈以及统计分类目录演化的跨国历史社会学方法。
 > - **政策路径** 成果被[[UNESCO\|联合国教科文组织]][[Global Education Monitoring Report\|全球教育监测报告]]（GEM Report）以及发展中[[State Educational Sovereignty\|国家教育主权]]维护联盟多次引述，为反思全球南方国家过度依赖西方外援指标提供了批判性镜鉴。
 > - **跨国／跨领域传播** 成果在北欧比较教育学派、英国关键社会政策圈以及北美全球治理研究网络中获得广泛反响。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] — 作为第三作者，主导历史制度演进与[[Geopolitics|地缘政治]]脉络分析，揭示 [[OECD]] 与[[World Bank\|世界银行]]如何借战后危机动员确立硬事实[[Policy Brokerage\|政策中介]]特权。
-> - [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] — 在[[Sociology of Measurement\|测量社会学]]层面与 Ydesen 的 [[International Indicators of Education Systems\|INES]] 指标历史档案形成紧密互证。
-> - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 结合丹麦 2014 年公立学校改革实证案例，引证其关于政策准备阶段缺乏独立委员会及证据选择性挑拣（cherry-picking）的历史制度分析。
 
 ---
 

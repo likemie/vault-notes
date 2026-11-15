@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-11-03"
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -108,7 +108,6 @@ updated: 2026-11-11
 > - **跨领域传播** 其关于演化博弈论、病原体跨宿主传播网络与学术信息流动的数理模型，在演化生态学、网络科学与科学社会学中均产生深远交叉影响。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 参与联合构建科学学宏观体系，主导引文拓扑信息流、科研选题与科学学方法论设计。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 专著广泛采用伯格斯特龙关于引文网络随机游走、期刊声誉传递机制以及学术评价规避古德哈特陷阱的理论洞见。
 
 ---

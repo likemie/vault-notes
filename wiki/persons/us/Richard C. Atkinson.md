@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-02
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -139,6 +139,3 @@ updated: 2026-11-11
 > | [[Historical-Comparative Method]] | Method | 运用[[Historical Institutionalism\|历史制度主义]]与跨国比较方法剖析大学体制演进规律。 |
 
 ---
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008]] — 2008 年发表于《社会中的技术》的核心学术论证专论。

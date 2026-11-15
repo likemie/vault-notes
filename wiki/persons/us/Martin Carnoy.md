@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-28
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -139,7 +139,6 @@ updated: 2026-11-11
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯系统评析卡诺伊由芝加哥学派经济学家转向修正主义新马克思主义教育政治经济学家的心智历程，确立其国家中心观与学校矛盾博弈论在第四代比较教育范式中的奠基地位。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯评述卡诺伊关于任何教育政策分析必然暗含特定国家理论的前提性支配命题。
-> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 援引卡诺伊《全球化与教育改革》，揭示世界银行新自由主义[[Discourse|话语]]如何将教师建构为阻碍效率的恶棍以证成预算削减。
 
 ---
 

@@ -88,6 +88,11 @@ updated: 2026-10-22
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 基于奥地利 362 名校长[[Questionnaire\|问卷调查]]，运用[[Cluster Analysis\|聚类分析]]识别三种治理态度类型，证实循证态度驱动微观工时重塑与教学领导。
+
+---
+
 > [!entry-map] 关键理论与学术贡献
 >
 > | 贡献领域 | 核心机制与分析工具 | 关联条目 |
@@ -96,8 +101,3 @@ updated: 2026-10-22
 > | **校长领导力转型** | 实证证实循证治理态度驱动校长缩减授课工时（近 14%）并转型为教育企业管理者。 | [[Evidence-Based School Development]], [[School Leadership]], [[Argument_Altrichter_2019_ZfB\|Altrichter et al., 2019]] |
 > | **新[[School Inspection\|学校督导]]评价** | 提出协商[[Dialogue in Education\|对话]]与目标协定型督导[[Paradigm\|范式]]，揭示外部督导对校本改进的间接中介效应。 | [[School Inspection]], [[Schulqualität Allgemeinbildung]] |
 > | **[[Action Research\|行动研究]]方法学** | 提供教师日常课堂反思、观察记录与微观行动改进的系统规程。 | [[Action Research]] |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 基于奥地利 362 名校长[[Questionnaire\|问卷调查]]，运用[[Cluster Analysis\|聚类分析]]识别三种治理态度类型，证实循证态度驱动微观工时重塑与教学领导。

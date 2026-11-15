@@ -43,7 +43,6 @@ related_concepts:
 related_theories:
   - "[[Conditioned State Theory]]"
   - "[[Organizational Culture]]"
-  - "[[World-Systems Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Cost-Benefit Analysis]]"
@@ -67,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -151,6 +150,14 @@ updated: 2026-11-11
 
 ---
 
+> [!evidence-grid-a] 相关研究
+>
+> | 来源 | 核心发现 / 论点 | 关联主题 / [[Variable\|变量]] |
+> |:---|:---|:---|
+> | [[Argument_Castro_2009_MultilateralBanks\|Castro (2009, p. 460)]] | 现场亲历互证海尼曼（Heyneman, 2003）关于 1990 年代初[[World Bank\|世行]]教育专业处室与管理层之间空前激烈教条主义冲突的记载。 | 世行[[Organizational Culture\|组织文化]]；内部教条内战；教育政策决策机制 |
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
@@ -161,12 +168,3 @@ updated: 2026-11-11
 > | [[Claudio de Moura Castro]] | 人物 | 共同任职于多边银行，现场互证海尼曼关于世行高层教条主义冲突论断的圈内学者。 |
 > | [[Organizational Culture]] | 理论 | 解释世行专业教育家与主流经济学家在行内展开文化与权力博弈的[[Theoretical Perspective\|理论视角]]。 |
 > | [[Multilateral Development Bank]] | 概念 | 海尼曼深入解剖与反思的多边开发融资机构大类。 |
-
----
-
-> [!evidence-grid-a] 相关研究
->
-> | 来源 | 核心发现 / 论点 | 关联主题 / [[Variable\|变量]] |
-> |:---|:---|:---|
-> | [[Argument_Castro_2009_MultilateralBanks\|Castro (2009, p. 460)]] | 现场亲历互证海尼曼（Heyneman, 2003）关于 1990 年代初[[World Bank\|世行]]教育专业处室与管理层之间空前激烈教条主义冲突的记载。 | 世行[[Organizational Culture\|组织文化]]；内部教条内战；教育政策决策机制 |
-> | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009, p. 110)]] | 征引海尼曼（Heyneman, 2003）对世界银行狭隘成本效益与生产函数[[Analytic Framework\|分析框架]]局限性及教育公平负面后果的反思。 | [[World-Systems Theory\|世界体系理论]]；多边教育援助；分析框架局限 |

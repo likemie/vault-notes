@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -115,7 +115,6 @@ updated: 2026-11-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 援引其知识负担与年龄成就曲线（Unit 02）、团队科学主导地位与跨校合作（Unit 04）及科学文献与专利双向跨界拓扑网络（[[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Unit 11]]）。
-> - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 在 SciSciNet 亿级全学科开放数据湖中，全面支持以琼斯等开创的团队科学、知识重组新颖性及专利跨界渗透为核心的科学学宏观实证研究。
 
 ---
 

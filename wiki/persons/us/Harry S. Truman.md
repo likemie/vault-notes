@@ -122,6 +122,11 @@ updated: 2026-11-11
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Yang_2017_MUE|杨九斌 (2017, pp. 35–37)]] — 考证杜鲁门主义下大学科研军事化动员机制、氢弹决策及与范内瓦·布什在科学管理权上的政治博弈。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
@@ -131,8 +136,3 @@ updated: 2026-11-11
 > | [[National Science Foundation]] | 机构 | 1950年签署法案批准建立，但在其任内拨款极为有限。 |
 > | [[Mission-Oriented Research]] | 概念 | 杜鲁门政府主导推进的以具体国防军事目标为牵引的科研模式。 |
 > | [[Office of Scientific Research and Development]] | 机构 | 战后因管理权分歧与布什决裂而由杜鲁门决定正式废除。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Yang_2017_MUE|杨九斌 (2017, pp. 35–37)]] — 考证杜鲁门主义下大学科研军事化动员机制、氢弹决策及与范内瓦·布什在科学管理权上的政治博弈。

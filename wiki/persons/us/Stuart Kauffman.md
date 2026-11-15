@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -87,9 +87,6 @@ updated: 2026-10-22
 > - **理论路径** 颠覆了牛顿力学式的还原主义与[[Determinism\|决定论]]宇宙观，为教育学接纳[[Complexity Theory\|复杂性理论]]作为超越量化与质性二元对立的“新兴前沿[[Paradigm\|范式]]”奠定了科学哲学基石。
 > - **方法路径** 深刻挑战了以[[Randomised Controlled Trials\|随机对照试验]]（RCT）为代表的“保持[[Variable\|变量]]恒常操纵”[[Positivism\|实证主义]]黄金标准，推动研究转向网络拓扑、自组织临界性与生态系统分析。
 > - **管理路径** 启发学校管理从“自上而下科层控制”转向“营造自组织微观生态”，赋能教师与学生的内生[[Creativity\|创造力]]。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]] — 引用考夫曼自组织自发秩序命题（“秩序是免费的，它取代了控制”），作为解构传统量化受控实验与自上而下教育控制的哲学根据。
 
 ---
 

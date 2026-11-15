@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -138,7 +138,6 @@ updated: 2026-10-30
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 记录蔡元培等学者在[[John Dewey|杜威]]访华与 1950 年代批评中对孔子权威符号的跨文化[[Recontextualization|再脉络化]]与反转调用。
 > - [[Argument_Yu_2024_CE|Yu and Zhao (2024)]] — 实证揭示当代 217 册必修教材如何将孔子塑造为中华文化等价物，以及少数民族与信教学生对其男权等级性与人类中心主义的解构。
 > - [[Argument_Ryan_2010_ChineseLearner|Ryan (2010)]] — 剖析政治[[Discourse|话语]]（如新加坡“儒家社会”）对孔子标签的过度泛化与剥离。
-> - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 统计孔子学院与中小学孔子课堂在南亚与中亚的网点竞逐（65 所），揭示以“孔子”命名的文化机构在伊斯兰传统国家（马尔代夫）引发的宗教敏感性与去符号化变通策略（pp. 30–32）。
 
 ---
 

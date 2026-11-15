@@ -8,7 +8,7 @@ summary: "香港中文大学教育学院教授、证据本位教育改革与大�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 44
+person_related_count: 42
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Operationalization]]"
-  - "[[Output-Oriented Governance]]"
   - "[[Scientism]]"
   - "[[Document]]"
   - "[[Publication Bias]]"
@@ -58,7 +57,6 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Baseline Standardized Mean Difference]]"
   - "[[Trim and Fill Method]]"
-  - "[[Experimental Research]]"
   - "[[Cohort Study]]"
 related_instruments: []
 related_persons:
@@ -77,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-02'
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 （张志强）
@@ -137,11 +135,6 @@ updated: 2026-11-02
 > - **方法路径** 将美国[[What Works Clearinghouse\|有效干预清算中心]]（[[What Works Clearinghouse\|WWC]]）与 Slavin 学派的基线等效控制准则（$d < 0.25$）引入 AI 教育元分析，推动数据与分析代码完全开源，树立了高标准透明度与可复现性范式。
 > - **政策路径** 推动[[Evidence-Based Education\|循证教育]]决策理念在香港及大中华区政策制定中的渗透，主张将有限教育经费优先投向经高质量实证检验且具有高边际收益的数字化基建与干预项目。
 > - **跨国／跨领域传播** 创办并维护 [[Best Evidence in Brief\|BEiB]] 中文版，长期将欧美最新教育 [[Randomised Controlled Trials\|RCT]] 研究翻译引介给海外华人学者与一线教育者，架设东西方循证教育学术桥梁。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Slavin_2021_ECNUROE|Slavin et al. (2021)]] — 梳理并正面回应中国学者对证据本位教育在[[Epistemology\|认识论]]、方法论和实践伦理维度的质疑，阐述科学实证研究对教育进步的不可替代性。
-> - [[Argument_Cheung_2021_ECNUROE|Cheung and Xie (2021)]] — 以 COVID-19 疫苗试验类比教育 RCT，阐述全球视野下循证改革的四项核心活动框架。
-> - [[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] — 运用活动理论 AT-MCSCL 框架与严谨基线控制，主持实施 57 项[[Experimental Research\|实验研究]]的高等教育生成式 AI [[Meta-analysis\|元分析]]，证实促学效应并提出防范[[Metacognitive Laziness\|元认知惰性]]的[[Output-Oriented Governance\|循证治理]]路径。
 
 ---
 

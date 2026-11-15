@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -119,6 +119,3 @@ updated: 2026-11-11
 > | [[British Association for International and Comparative Education\|英国国际与比较教育学会]] | 事实 | 曾任会长并长期引领学会开展跨文化质性比较研究。 |
 
 ---
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 权威引述布罗德富特的“学习学”命题，阐发英国比较教育对情境、文化与人文关怀的坚守。

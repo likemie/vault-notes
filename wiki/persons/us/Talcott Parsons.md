@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -98,6 +98,3 @@ updated: 2026-11-11
 > | [[Consumer Internet]] | 概念 | 解释了技术阶层在产生制度怨恨后选择政治冷漠与避险消费的心理诱因。 |
 
 ---
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025)]] — 专著第 9 章援引帕森斯 1947 年关于不公正对待感与失败借口的经典论文，解释硅谷工程师在地位期望落空后所产生的技术逃避与政治冷漠。

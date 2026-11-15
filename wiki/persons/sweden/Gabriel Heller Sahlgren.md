@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-06
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -126,9 +126,6 @@ updated: 2026-11-11
 > - **方法路径** 倡导利用历史测验全样本（如国防军征兵认知测试 Peruskoe、跨期对齐的 [[IEA]]/[[PISA]] 数据库）开展长时段趋势分析，为打破国际评估的横截面偏误提供了[[Paradigm|范式]]参考。
 > - **政策路径** 直接干预了英国、瑞典及欧美智库关于“向芬兰学习”的政策争鸣，促使决策界反思盲目取消外部评价与全面推行[[Inquiry-Based Learning|探究式学习]]的潜在风险。
 > - **跨国／跨领域传播** 成果被广泛引用于英美主流严肃媒体（如《泰晤士报》、《经济学人》）以及[[World Bank|世界银行]]、[[OECD|经济合作与发展组织]]的政策讨论，成为批判浪漫化[[Nordic Model of Education|北欧模式]]的关键[[Document|文献]]支点。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 专著《真实的芬兰启示》，完整构建针对芬兰教育奇迹的实证反驳与历史制度解释框架。
 
 ---
 

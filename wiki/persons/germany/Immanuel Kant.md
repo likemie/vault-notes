@@ -28,36 +28,40 @@ tags:
   - theme/international-relations
 related_concepts:
   - "[[Enlightenment]]"
-  - "[[Epistemology]]"
-  - "[[Philosophical Aesthetics]]"
   - "[[Empiricism]]"
+  - "[[Philosophical Aesthetics]]"
+  - "[[Paradigm]]"
   - "[[Perpetual Peace]]"
   - "[[Revolutionism]]"
   - "[[Phronesis]]"
-  - "[[Paradigm]]"
   - "[[Emergence]]"
+  - "[[Epistemology]]"
   - "[[Causality]]"
   - "[[Cosmopolitanism]]"
+  - "[[Judgment of Taste]]"
+  - "[[Disinterested Pleasure]]"
+  - "[[Aesthetic Idea]]"
+  - "[[Genius]]"
+  - "[[The Sublime]]"
   - "[[Critical Thinking]]"
-  - "[[Bildung]]"
-  - "[[Ontology]]"
-  - "[[Positivism]]"
   - "[[Self-Cultivation]]"
   - "[[Moral Dualism]]"
   - "[[Certainty of Knowledge]]"
   - "[[Mind and Its Wonders]]"
   - "[[Realism in International Relations]]"
   - "[[Rationalism in International Relations]]"
+  - "[[Bildung]]"
   - "[[Transnational Education]]"
 related_theories:
-  - "[[Wight's Three Traditions of International Theory]]"
   - "[[Cognitive Constructivism]]"
   - "[[Dependency Theory]]"
+  - "[[Wight's Three Traditions of International Theory]]"
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Marc-Antoine Jullien]]"
   - "[[Gottfried Wilhelm Leibniz]]"
+  - "[[Alexander Gottlieb Baumgarten]]"
   - "[[Jin Li]]"
   - "[[Jean-Jacques Rousseau]]"
   - "[[Plato]]"
@@ -67,9 +71,10 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Klerides_2023_CE]]"
-  - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
 confidence: high
 status: draft
 created: 2026-05-22
@@ -147,7 +152,6 @@ updated: 2026-11-15
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 在西方知识确定性传统与心智奇迹探索中，系统剖析康德范畴论对调和唯理论与经验论、确立人类心智主动加工结构的奠基性贡献。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 阐释怀特国际理论框架中的康德革命主义传统，揭示其[[Cosmopolitanism|世界主义]]道德激情如何深刻塑造了 20 世纪批判、[[Dependency Theory\|依附论]]与后殖民比较教育研究。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 考证康德[[Enlightenment\|启蒙哲学]]如何与[[Jean-Jacques Rousseau\|卢梭]]自由思想汇聚，直接催生了朱利安比较教育准科学实证设想背后的世界主义人道主义母题与永久和平蓝图。
-> - [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] — 将康德置于德意志教化（[[Bildung]]）与存在[[Ontology|本体论]]哲学传统，以此对抗当代[[Positivism|实证主义]]将教育降维为即时可见学习的狭隘化倾向。
 > - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]与[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]定位康德《判断力批判》为美学范式起点，系统剖析其鉴赏判断、崇高、天才及美与道德关系。
 
 ---

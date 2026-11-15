@@ -36,7 +36,6 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Convergent Thinking]]"
   - "[[Paradigm]]"
-  - "[[Literature Review]]"
 related_theories:
   - "[[Creative Problem Solving]]"
 related_methods: []
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -130,6 +129,3 @@ updated: 2026-11-11
 > | [[Creativity\|创造性]]教育基金会（Creative Education Foundation, CEF） | 组织 | 奥斯本创立的学术传播与实践组织。 |
 
 ---
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 实证[[Literature Review|文献回顾]]将其确立为创造力干预史上最具影响力的经典基石之一。

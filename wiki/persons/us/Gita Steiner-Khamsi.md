@@ -42,9 +42,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Relational Space]]"
   - "[[Methodological Nationalism]]"
-  - "[[Champ]]"
-  - "[[Soft Power]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Document]]"
 related_theories:
   - "[[Pluri-Scalar Governance]]"
@@ -79,7 +76,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-06
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -173,6 +170,17 @@ updated: 2026-11-11
 
 ---
 
+> [!evidence-grid-a] 相关研究
+>
+> | 研究 | 视角 / 核心发现 |
+> |:---|:---|
+> | [[Argument_Rappleye_2006_RCIE\|Rappleye (2006)]] | 在比较教育[[Concept Mapping\|概念地图]]中将其本土情境焦点与能动者转向作为[[Pre-Transfer Agency\|前转移能动性]]的核心基石，强调关注借用发生前国内政治行动者的冲突移位动机。 |
+> | [[Argument_Cowen_2009_HistoryCreation\|Cowen (2009a)]] | 在学科史演进中高度赞誉其在口述史方法上的先锋探索，主张将口述史与概念化研究相结合以抢救学会和学者的隐性历史记忆。 |
+| [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] | 主持[[UNESCO\|教科文组织]]战略审查，提出超越线性证据汇总的三维变革路径（产品、关系与系统）以及连通全球与本土的区域知识枢纽路线图。 |
+| [[Argument_Volmari_2025_CE\|Volmari et al. (2025)]] | 运用施泰纳-哈姆西（Steiner-Khamsi, 2022）关于政策[[Document\|文献]]引用作为“证据有效性背书”（validation of evidence）的理论，通过 [[POLNET]] 项目测定北欧三国 16 份核心政策文本引证网络，揭示学术期刊引文的边际化特征（pp. 535–536）。 |
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
@@ -189,17 +197,3 @@ updated: 2026-11-11
 > | 哥伦比亚大学教师学院 | 组织 | 学术机构。 |
 > | 日内瓦高等国际关系与发展研究院 | 组织 | 学术机构。 |
 > | [[Comparative Education Society in Europe]]（CESE） | 组织 | 学术机构。 |
-
----
-
-> [!evidence-grid-a] 相关研究
->
-> | 研究 | 视角 / 核心发现 |
-> |:---|:---|
-> | [[Argument_Rappleye_2006_RCIE\|Rappleye (2006)]] | 在比较教育[[Concept Mapping\|概念地图]]中将其本土情境焦点与能动者转向作为[[Pre-Transfer Agency\|前转移能动性]]的核心基石，强调关注借用发生前国内政治行动者的冲突移位动机。 |
-> | [[Argument_Cowen_2009_HistoryCreation\|Cowen (2009a)]] | 在学科史演进中高度赞誉其在口述史方法上的先锋探索，主张将口述史与概念化研究相结合以抢救学会和学者的隐性历史记忆。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 在[[Pluri-Scalar Governance\|多标度教育治理]]研究中引用其中国大学引入美国学分制案例，将其作为主权国家主导的双边借用典范，反衬当代跨国营利网络对治理[[Champ\|场域]]的重塑。 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | 提出[[Governing by Numbers\|数字治理]] 2.0 框架，论证在信息过剩时代国际组织如何凭借[[Policy Brokerage\|政策中介]]与硬事实数据施展[[Soft Power\|软权力]]，推动全球量化[[Disciplina and Doctrina\|规训]]。 |
-| [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] | 主持[[UNESCO\|教科文组织]]战略审查，提出超越线性证据汇总的三维变革路径（产品、关系与系统）以及连通全球与本土的区域知识枢纽路线图。 |
-| [[Argument_Volmari_2025_CE\|Volmari et al. (2025)]] | 运用施泰纳-哈姆西（Steiner-Khamsi, 2022）关于政策[[Document\|文献]]引用作为“证据有效性背书”（validation of evidence）的理论，通过 [[POLNET]] 项目测定北欧三国 16 份核心政策文本引证网络，揭示学术期刊引文的边际化特征（pp. 535–536）。 |
-

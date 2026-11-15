@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -102,7 +102,6 @@ updated: 2026-11-11
 > - **跨国／跨领域传播** 思想广泛辐射至欧洲比较教育学界、教师教育联盟与国际[[OECD|经合组织]]研究网络，成为反思数据驱动问责的重要旗帜。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] — 开展 30 年文献的系统批判综述，揭露赤字框架的循环论证偏误，提出第四代专业敏感型研究使用概念化。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 多次引证 Sølvi Mausethagen 的赤字框架批判与研究素养理论，作为建构跨层治理模型与反思文献个体偏误的核心学术支撑（pp. 3–4, 10, 18）。
 
 ---

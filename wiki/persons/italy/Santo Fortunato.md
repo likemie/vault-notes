@@ -45,7 +45,6 @@ related_persons:
   - "[[Derek de Solla Price]]"
 related_facts:
   - "[[National Academy of Sciences]]"
-  - "[[Web of Science]]"
 related_arguments:
   - "[[Argument_Fortunato_2018_Science]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-02
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -110,7 +109,6 @@ updated: 2026-11-11
 > - **政策路径** 为破除唯[[Journal Impact Factor|影响因子]]考评、理解跨领域科研绩效差异及探索科研资助公平性提供了坚实的实证工具支撑。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 领衔发表《科学》封面综述，系统确立科学学涵盖[[Web of Science|科学网]]络、选题权衡、生涯动力学、团队演化与引文机制的跨学科实证范式。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 在专著中系统评述其科学学纲领（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Unit 01]]）、引文分布普适性（[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Unit 07]]）以及 7 次被引优先连接临界门槛实证检验（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]，pp. 258–259）。
 
 ---

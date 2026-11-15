@@ -122,6 +122,11 @@ updated: 2026-11-02
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12]] — 深入探讨阿施实验对重构科技共和国工程文化的论证[[Document|文献]]。
+
+---
+
 > [!entry-map] 相关条目
 >
 > | 条目 | 类型 | 关联说明 |
@@ -131,8 +136,3 @@ updated: 2026-11-02
 > | [[Milgram Obedience Experiment]] | 事实 | 承继阿施[[Paradigm\|范式]]并推向权威服从的经典研究。 |
 > | [[Social Deafness]] | 概念 | 抵御阿施实验所揭示的从众压力的核心心理机制。 |
 > | [[Engineering Mindset]] | 概念 | 卡普用以克服从众弱点的微观[[Organizational Culture\|组织文化]]范式。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12]] — 深入探讨阿施实验对重构科技共和国工程文化的论证[[Document|文献]]。

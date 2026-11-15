@@ -201,6 +201,12 @@ updated: 2026-11-11
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著系统剖析奥本海默的[[Engineering Pragmatism|工程实用主义]]与[[Big Science|大科学]]攻坚[[Paradigm|范式]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]]、[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Ch. 2]]），并对比国家大战略与硅谷[[Consumer Internet|消费互联网]]的历史对立（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。
+> - [[Argument_Yang_2017_MUE|杨九斌 (2017)]] — 考察冷战初期杜鲁门政府确立技术威慑遏制战略背景下，奥本海默关于不要耗费精力研制氢弹的专业异议遭到压制的历史过程。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
@@ -218,9 +224,3 @@ updated: 2026-11-11
 > | [[Steve Jobs]] | Person | 硅谷反文化计算代表人物，开创了与奥本海默国家使命范式相对立的个人赋权与消费技术传统。 |
 > | [[Alexander Karp]] | Person | 在《技术共和国》中将奥本海默历史遗产作为理解 21 世纪软件硬实力与 AI 威慑的基准人物。 |
 > | [[Nicholas Zamiska]] | Person | 在《技术共和国》中系统对比奥本海默国家工程传统与硅谷消费互联网异化。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著系统剖析奥本海默的[[Engineering Pragmatism|工程实用主义]]与[[Big Science|大科学]]攻坚[[Paradigm|范式]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]]、[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Ch. 2]]），并对比国家大战略与硅谷[[Consumer Internet|消费互联网]]的历史对立（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。
-> - [[Argument_Yang_2017_MUE|杨九斌 (2017)]] — 考察冷战初期杜鲁门政府确立技术威慑遏制战略背景下，奥本海默关于不要耗费精力研制氢弹的专业异议遭到压制的历史过程。

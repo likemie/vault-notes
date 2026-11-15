@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -116,6 +116,3 @@ updated: 2026-11-02
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 在学科史反思中将巴伯作为解构第三代际实证科学主义运动的核心理论武器。 |
 
 ---
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 权威征引巴伯 1972 年关于唯方法论主义的定性，批判战后实证学派对文化与历史维度的放逐。

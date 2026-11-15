@@ -25,6 +25,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Teacher Professional Agency]]"
   - "[[Side Effects]]"
+  - "[[Finnish Paradoxes]]"
   - "[[Paradigm]]"
   - "[[High-Stakes Testing]]"
   - "[[Pride in Learning]]"
@@ -36,7 +37,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Performativity]]"
   - "[[Performance Pay]]"
-  - "[[Research Utilization]]"
   - "[[New Managerialism]]"
   - "[[School Autonomy]]"
   - "[[Educational Decentralization]]"
@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: "2026-10-16"
-updated: 2026-11-10
+updated: 2026-11-15
 ---
 
 ---
@@ -119,7 +119,6 @@ updated: 2026-11-10
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 运用萨尔伯格的全球教育改革运动（GERM）框架，解构可见学习（Visible Learning）商业咨询体系迎合新自由主义紧缩政策的意识形态功能（p. 25）。
 > - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 实证反驳萨尔伯格的反问责叙事，指出反 GERM 改革与芬兰早期成功存在时序倒置，去问责与放任探究是晚近学业滑坡的主因（pp. 7–17, 63–66）。
-> - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 援引其 2023 年全球教育改革回顾与公共卫生类比，论证循证教育必须兼顾最大化教学成效与最小化有害副作用，捍卫教师在[[Research Utilization|证据使用]]中的专业能动性（pp. 2–3）。
 > - [[Argument_Yang_2023_ICE|杨明全和邓丽 (2023)]] — 分析其提炼的“芬兰悖论”（教得少学得多、考试少成绩好、越多样越公平）如何作为微观个性特征嵌入芬兰教育品牌建构与全球传播（pp. 4, 6）。
 
 ---

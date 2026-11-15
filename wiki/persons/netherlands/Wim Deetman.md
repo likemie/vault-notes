@@ -117,6 +117,11 @@ updated: 2026-10-30
 
 ---
 
+> [!evidence-grid] 相关[[Document|文献]]索引
+> - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 详尽记录德特曼大臣在 1980 年代主政期间推行 [[Higher Education Autonomy and Quality|HOAK]] 改革与 HBO 大兼并的政治策略，剖析其去政治化协商艺术与治理贡献。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
@@ -128,8 +133,3 @@ updated: 2026-10-30
 > | [[Higher Education and Research Act 1992]] | 事实 | 奠定并推动 1992 年 WHW 统一框架立法的政治出台。 |
 > | [[VSNU\|荷兰大学联合会]] | 组织 | 在预算削减与院校兼并中开展紧密闭门协商的中介领袖。[[Argument_Kickert_1995_Governance\|(Kickert, 1995, pp. 145–146)]] |
 > | 高等职业教育委员会（[[HBO-Raad]]） | 组织 | 在预算削减与院校兼并中开展紧密闭门协商的中介领袖。[[Argument_Kickert_1995_Governance\|(Kickert, 1995, pp. 145–146)]] |
-
----
-
-> [!evidence-grid] 相关[[Document|文献]]索引
-> - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 详尽记录德特曼大臣在 1980 年代主政期间推行 [[Higher Education Autonomy and Quality|HOAK]] 改革与 HBO 大兼并的政治策略，剖析其去政治化协商艺术与治理贡献。

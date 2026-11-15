@@ -37,7 +37,6 @@ related_concepts:
   - "[[Early-Career Researchers]]"
   - "[[Critical Pedagogy]]"
   - "[[Academic Freedom]]"
-  - "[[Historical Amnesia]]"
   - "[[Commensuration]]"
 related_theories:
   - "[[Pluralism]]"
@@ -66,11 +65,10 @@ related_facts:
   - "[[World Council of Comparative Education Societies]]"
 related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
-  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -119,10 +117,6 @@ updated: 2026-11-11
 > - **理论[[Paradigm|范式]]多元化路径** 依托对《比较教育评论》（CER）半个世纪发表成果的大规模文献计量与 UCLA 调查，实证确立了涵盖 26 种范式的“[[Pluralism|健康多元主义]]”，抵制虚无主义的碎片化焦虑，捍卫学者的[[Academic Freedom|学术自由]]。
 > - **[[Policy Borrowing|政策借用]]模型路径** 基于挪威长程制度演进实证提炼出政策借用的四阶段模型，丰富了跨国制度移植与本土调适的动力学机制。
 > - **全球化[[Critical Theory|批判理论]]路径** 提出[[Typology of Educational Responses to Globalization|全球化教育响应类型学]]（接受、抵制、恢复与强制再生产），为解构新自由主义跨国霸权与彰显第三世界主权自决提供了强有力的概念分析工具。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 拉斯特及其团队为《比较教育学国际手册》撰写的奠基性学科史反思专章，系统总结两百年学科发端、方法演进与全球化批判前沿。
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯将拉斯特团队（1999）关于主流期刊研究策略的大规模计量普查引为历史研究边缘化的核心证据来源之一，纳入对[[Historical Amnesia|学科历史健忘症]]的诊断论证。
 
 ---
 

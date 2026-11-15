@@ -121,6 +121,11 @@ updated: 2026-11-14
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 元分析将以其理论为核心的技术型训练确立为中等稳健促学支柱（$g = 0.552$）。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
@@ -129,8 +134,3 @@ updated: 2026-11-14
 > | [[Creative Problem Solving]] | 理论 | 理论[[Dialogue in Education\|对话]]与互补，提供工程物理系统矛盾消解的高阶算法。 |
 > | [[Creativity Training]] | 概念 | 技术型干预（$g = 0.552$）的奠基人物，开创工业发明工程师系统培训范式。 |
 > | [[SCAMPER]] | 概念 | 启发式工具互补，二者共同构成外显标准化创新算子。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 元分析将以其理论为核心的技术型训练确立为中等稳健促学支柱（$g = 0.552$）。

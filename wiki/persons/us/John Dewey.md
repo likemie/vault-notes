@@ -74,7 +74,6 @@ related_persons:
   - "[[Stanislav Shatskii]]"
   - "[[Tao Xingzhi]]"
   - "[[Paulo Freire]]"
-  - "[[John Hattie]]"
   - "[[Bob Darwish]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
@@ -83,6 +82,7 @@ related_persons:
   - "[[Hu Shi]]"
   - "[[Jiang Menglin]]"
   - "[[Robert Cowen]]"
+  - "[[John Hattie]]"
   - "[[Ivan Snook]]"
   - "[[Thomas Aastrup Rømer]]"
 related_facts:
@@ -104,7 +104,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -237,7 +237,6 @@ updated: 2026-11-11
 > - [[Argument_Ryabyy_2024_Maneto|Ryabyy (2024)]] — 探究1928年杜威访苏及[[Progressive Education|进步教育]]在美苏[[Cultural Diplomacy|文化外交]]中的交锋与断裂。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 探究杜威实用主义哲学对现代[[Engineering Mindset|工程思维]]与反教条经验探究[[Epistemology|认识论]]的历史奠基（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 记录 1970 年代丹麦教育学界重读杜威以批判威权注入式教学、推动跨学科与问题导向实验校改革的制度化轨迹。
-> - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — [[John Hattie|哈蒂]]引述杜威为自身[[Meta-analysis|元分析]]辩护，强调实证研究旨在为明智探究提供假设。
 
 ---
 

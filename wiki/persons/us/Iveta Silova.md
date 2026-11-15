@@ -62,7 +62,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-11-10
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -121,9 +121,6 @@ updated: 2026-11-11
 > - **方法路径** 倡导[[In-depth Interview|深度访谈]]与话语解构相结合的研究进路，借由国际组织内部专家的[[Reflexivity|反思性]]叙述透视政策生产的权力暗箱。
 > - **政策路径** 针对[[World Bank|世界银行]]与联合国机构推行的短期量化指标干预提出批评，推动国际援助机构反思项目设计中的单向知识倾销偏向。
 > - **跨国／跨领域传播** 思想广泛辐射至后社会主义转型国家、全球南方比较教育社群以及跨学科环境人文学界。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — 访谈在三大国际组织任职的芬兰教育专家，运用危机认识论解构全球学习危机叙事，剖析援助波动性与救世主心态的深层弊端。
 
 ---
 

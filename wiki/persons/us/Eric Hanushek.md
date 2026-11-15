@@ -29,7 +29,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Intellectual Capital]]"
   - "[[Construct]]"
-  - "[[Learning Crisis]]"
   - "[[School Autonomy]]"
   - "[[Educational Level]]"
   - "[[Effective Teaching]]"
@@ -50,12 +49,11 @@ related_arguments:
   - "[[Argument_Sarbiewska_2019_KiW]]"
   - "[[Argument_Hattie_2005_ACER]]"
   - "[[Argument_WorldBank_2019_Teach]]"
-  - "[[Argument_Sahlgren_2015_CPS]]"
   - "[[Argument_Zhao_2020_JEC]]"
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -99,10 +97,6 @@ updated: 2026-11-11
 > - **政策路径** 深刻影响了全球范围内的绩效问责制、择校竞争与教师激励改革，直接促使[[World Bank|世界银行]]及多国政府将教育投资重心转向教师专业质量。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Sarbiewska_2019_KiW|Sarbiewska (2019)]] — 引用哈努谢克关于前 10% 顶尖教师（1.5 年增量）与后 10% 低效教师（0.5 年增量）的巨大效能差距测算。
-> - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 引用哈努谢克关于美国 40 年公立教育财政支出倍增而 NAEP 学业成绩持平的纵向宏观数据。
-> - [[Argument_WorldBank_2019_Teach|World Bank (2019)]] — 引用哈努谢克关于教师质量是学校内部消除[[Learning Crisis|学习危机]]、弥合弱势家庭认知差距最有效手段的微观计量证据。
-> - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 引用哈努谢克跨国微观计量研究，论证[[School Autonomy|学校自主权]]必须与集中统考问责协同方能提升学业质量。
 > - [[Argument_Zhao_2020_JEC|Zhao (2020)]] — 检视并批评哈努谢克关于 PISA 分数提分带来国家万亿美元经济增长模型的逻辑与因果稳健性。
 
 ---

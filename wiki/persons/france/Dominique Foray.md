@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -124,7 +124,6 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 剖析福雷与伦德瓦尔的“学习型经济”框架如何被经合组织吸收并转化为重塑全球教育目标的政策[[Social Imaginary|社会想象]]。
-> - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 援引福雷对知识驱动型经济转型的论述，分析大学与产业合作模式的历史演进。
 
 ---
 

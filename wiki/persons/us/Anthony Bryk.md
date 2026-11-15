@@ -39,7 +39,6 @@ related_methods:
   - "[[Improvement Science]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Mechanism Experiments]]"
-  - "[[Effect Size]]"
 related_persons:
   - "[[Amelia Peterson]]"
 related_facts:
@@ -51,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -65,15 +64,6 @@ updated: 2026-11-02
 > 改进科学和网络化探究方法旨在适应教与学的日常情境，允许根据反馈和调整做出持续的小型决策。([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 300]])
 >
 > In contrast, [[Improvement Science]] and other networked inquiry approaches are designed to fit with the daily context of teaching and learning, allowing for continuous small decisions based on [[Feedback]] and adaptation.
-
----
-
-> [!entry-map] 条目关联
-> 
-> | 类型 | 条目 | 贡献 |
-> |:-----|:-----|:-----|
-> | 方法 | [[Improvement Science\|改进科学]] | 系统化移植并构建教育改进[[Scientific Method\|科学方法]]论体系，关注系统视角与跨情境变异性。 |
-> | 组织 | Carnegie Foundation for the Advancement of Teaching | Bryk 长期出任主席并践行改进科学的基地。 |
 
 ---
 
@@ -115,7 +105,6 @@ updated: 2026-11-02
 > [!evidence-grid-a] 相关研究
 > - [[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017]] — 将 Bryk 于 2015 年提出的 “基于实践的证据” 定位为 EIP 生态系统中的关键中介与专业支持。
 > - [[Argument_Peterson_2016_IJRME\|Peterson, 2016]] — 探讨将实验科学的[[Mechanism Experiments\|机制实验]]与 Bryk et al. 的改进科学进行双向整合，作为 “什么有效 2.0” 的底层基础。
-> - [[Argument_Wrigley_2018_BERJ\|Wrigley, 2018]] — 引用 NICs 作为超越传统 [[Evidence-Based Education\|EBE]] “单一平均[[Effect Size\|效应量]]” 压制、开展情境化民主探究的重要替代方案。
 
 ---
 
@@ -135,3 +124,12 @@ updated: 2026-11-02
 
 > [!critique] 批评索引
 > - [[Argument_Peterson_2016_IJRME\|Peterson, 2016]] — 指出改进科学在组织层面上能极大促进证据的采纳与实施，但单靠其反馈循环在严密的因果机制确证上仍显不足，因此必须与实验机制设计整合。
+
+---
+
+> [!entry-map] 条目关联
+> 
+> | 类型 | 条目 | 贡献 |
+> |:-----|:-----|:-----|
+> | 方法 | [[Improvement Science\|改进科学]] | 系统化移植并构建教育改进[[Scientific Method\|科学方法]]论体系，关注系统视角与跨情境变异性。 |
+> | 组织 | Carnegie Foundation for the Advancement of Teaching | Bryk 长期出任主席并践行改进科学的基地。 |

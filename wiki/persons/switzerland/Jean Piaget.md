@@ -56,8 +56,7 @@ related_persons:
   - "[[Juan Pascual-Leone]]"
   - "[[Robbie Case]]"
   - "[[Kurt Fischer]]"
-related_facts:
-  - "[[Swedish Schools Inspectorate]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Bolton_2017_ArchPsych]]"
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
@@ -65,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-04
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -137,7 +136,6 @@ updated: 2026-10-30
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bolton_2017_ArchPsych|Bolton and Hattie (2017)]] — 探究皮亚杰认知发展阶段与儿童大脑前额叶皮层发育及执行功能之间的神经生理对应机制。
 > - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] — 运用皮亚杰图式同化与顺应理论，论证知识形式相互影响的复杂动态性。
-> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 援引皮亚杰关于科学思维属于动态建构过程的发生认识论观点，批评[[Swedish Schools Inspectorate|瑞典学校督察局]]将教育研究固化为静态客观常模并压制学术演进的科层简化倾向（p. 650）。
 
 ---
 

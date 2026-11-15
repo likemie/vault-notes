@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-11-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -100,7 +100,6 @@ updated: 2026-11-11
 > - **比较教育路径** 被[[Gabriel Heller Sahlgren|加布里埃尔·赫勒·萨尔格伦]]等学者深度引用，作为对照北欧国家（芬兰、瑞典）教学[[Paradigm|范式]]转向的跨国实证镜鉴，证明去教师中心化对基础学科标准的普遍冲击。[[Argument_Sahlgren_2015_CPS|(Sahlgren, 2015, pp. 47–48)]]
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 专著第四章引用海克等人的实证发现，作为反驳探究式教学优越论、论证芬兰传统教师主导教学不可替代性的关键对照实证（pp. 47–48）。
 > - Quebec Education Reform (2000) — 记录海克领衔开展评估的制度对象与核心测试结论。
 
 ---

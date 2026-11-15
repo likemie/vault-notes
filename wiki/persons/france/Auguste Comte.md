@@ -63,11 +63,10 @@ related_facts:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
-  - "[[Argument_Cowen_2009_CE]]"
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ## 简介
@@ -178,7 +177,6 @@ updated: 2026-10-30
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1)]] 详尽剖析孔德实证主义的认识论原则、方法论统一假说以及西方教育研究范式从实证到反实证的演化脉络。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] 阐明孔德将[[Scientific Method\|科学方法]]应用于人类社会事务的实证信念与朱利安比较教育科学化构想之间的同质渊源与现代性底色。
-> - [[Argument_Cowen_2009_CE\|Cowen (2009b)]] 追溯比较教育学在实证主义传统下的方法论演化与现代性反思。
 
 ---
 

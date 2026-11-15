@@ -37,11 +37,10 @@ related_facts:
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit05]]"
   - "[[Argument_Lin_2023_SciData]]"
-  - "[[Argument_Haubrock_2026_NHB]]"
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 ---
@@ -88,7 +87,6 @@ updated: 2026-11-03
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang & Barabási (2021)]] — 深度引用吴令飞关于小团队颠覆、大团队发展的全景实证证据，确立团队规模与科学突破本质规律（pp. 128–132）。
-> - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 援引吴令飞等（Wu et al., 2019）团队规模颠覆性定律，论证当前学术界过度向超级大团队倾斜的资助体制如何压制小团队颠覆性突破，导致全系统滑向平庸增量。
 > - [[Argument_Lin_2023_SciData|Lin et al. (2023)]] — 在 SciSciNet 4,858 万篇[[Document|文献]]全量样本中系统复现吴令飞（Wu et al., 2019）团队规模规律，确证前 5% 高颠覆成果高度富集于单人与微型团队，而大团队主导引文积累与既有范式深化。
 
 ---

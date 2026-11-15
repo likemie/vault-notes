@@ -53,16 +53,6 @@ updated: 2026-10-30
 
 ---
 
-> [!entry-map] 条目关联
-> 
-> | 条目 | 类型 | 贡献 |
-> |:-----|:-----|:-----|
-> | [[Depoliticalization of Ethnic Policy]] | 概念 | 该概念由马戎首次完整提出，成为其学术生涯的核心理论标志。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 102]]) |
-> | [[Second-generation Ethnic Policy]] | 概念 | 马戎的去政治化学说为第二代民族政策的制定提供了底座性支撑。 |
-> | [[Zhonghua Minzu]] | 概念 | 利用其去政治化逻辑，论证推进单一“中华民族”国族实体建设的历史正当性。 |
-
----
-
 > [!timeline] 生平与职涯
 > - **1950** 出生。
 > - **1987** 毕业于美国布朗大学 (Brown University)，获社会学博士学位，随后回国任教于北京大学。
@@ -108,3 +98,13 @@ updated: 2026-10-30
 > 
 > > [!critique] 批评索引
 > > - [[Argument_Bulag_2024_CE\|Bulag, 2024]] — 指出其重构概念的取向，在威权政府背景下为废除区域自治与同化提供了科学包装。
+
+---
+
+> [!entry-map] 条目关联
+> 
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Depoliticalization of Ethnic Policy]] | 概念 | 该概念由马戎首次完整提出，成为其学术生涯的核心理论标志。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 102]]) |
+> | [[Second-generation Ethnic Policy]] | 概念 | 马戎的去政治化学说为第二代民族政策的制定提供了底座性支撑。 |
+> | [[Zhonghua Minzu]] | 概念 | 利用其去政治化逻辑，论证推进单一“中华民族”国族实体建设的历史正当性。 |

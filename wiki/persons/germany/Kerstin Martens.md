@@ -41,8 +41,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Demonstration Effect]]"
   - "[[Boundary Spanner]]"
-  - "[[Comparative Turn in Education Policy]]"
-  - "[[Objectivism]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Dialogue in Education]]"
 related_theories: []
@@ -59,12 +57,10 @@ related_facts:
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Niemann_Martens_2018_GSP]]"
-  - "[[Argument_Rambla_2022_Springer]]"
-  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -126,9 +122,6 @@ updated: 2026-11-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 主导提出核心理论构想，系统论证经合组织如何依托数据硬事实构筑认知权威、充当[[Boundary Spanner|知识经纪人]]并引导成员国教育改革。
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] — 作为第二作者，主导多边组织拓扑矩阵分析与“[[Soft Power by Hard Facts\|以硬事实施展软权力]]”、“[[Education-for-Mandates\|使命性教育嵌入]]”核心概念的学理建构。
-> - [[Argument_Rambla_2022_Springer\|Rambla (2022)]] — 在政策工具维度深化了 Martens 关于国际指标对本土政策重组机制的讨论。
-> - [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 24–25)]] — 援引马滕斯关于经合组织“[[Comparative Turn in Education Policy|比较转向]]”的论断，揭示跨国指标与比较方法如何从纯学术工具演化为赋予政治决策科学[[Objectivism|客观主义]]品牌的软治理技术。
 
 ---
 

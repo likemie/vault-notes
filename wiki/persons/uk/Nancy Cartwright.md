@@ -35,7 +35,6 @@ related_concepts:
   - "[[School Enquiry Cycle]]"
   - "[[Research Utilization]]"
   - "[[Democratic Education]]"
-  - "[[School Inspection]]"
   - "[[Activity Traps]]"
   - "[[Evidence-Based School Development]]"
   - "[[Operationalization]]"
@@ -60,7 +59,6 @@ related_persons:
   - "[[Chris Brown]]"
   - "[[Toby Greany]]"
 related_facts:
-  - "[[Ofsted]]"
   - "[[What Works Network]]"
 related_arguments:
   - "[[Argument_Cowen_2015_CHESS]]"
@@ -68,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-01"
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -123,7 +121,6 @@ updated: 2026-10-30
 > - **跨国政策辩论** 成为跨国批判单一“什么有效”（What Works）治理教条的权威哲学旗帜，与比斯塔（[[Gert Biesta]]）的[[Democratic Education\|民主教育]]学批判形成跨学科共振。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cowen_2015_CHESS\|Cowen et al. (2015)]] — 系统评述卡特赖特哲学在教育中的应用，提出因果角色理论并批判英格兰[[School Inspection\|教育督导]]（[[Ofsted]]）推崇伪科学的历史。
 > - [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] — 在英格兰[[Self-Improving School System\|自我改进学校系统]]研究中，明确征引卡特赖特（Cartwright, 2013）的证据迁移理论，确立教师识别行动理论与支持性因素是防止陷入[[Activity Traps\|活动陷阱]]的必备专业能力。
 
 ---

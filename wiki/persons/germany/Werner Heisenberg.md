@@ -27,7 +27,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Abstract]]"
   - "[[Epistemology]]"
-  - "[[Experimental Innovators]]"
   - "[[Early-Career Researchers]]"
 related_theories: []
 related_methods: []
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -84,9 +83,6 @@ updated: 2026-11-11
 > - **理论路径** 矩阵力学与不确定性原理颠覆了经典牛顿确定性宇宙图景，确立量子力学哥本哈根诠释，并为现代量子场论与粒子物理提供公理化基石。
 > - **方法路径** 倡导仅基于可观测量构建微观物理理论的操作主义哲学，影响了后世理论物理的形式化建构范式。
 > - **科学学与创新认知路径** 被创新经济学与科学学作为概念型创新者的代表案例，用以解释理论学者相较经验学者显著早熟的[[Epistemology|认识论]]机制。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Wang & Barabási (2021)]] — 结合海森堡早期突破案例，实证比较概念型与[[Experimental Innovators|实验型学者]]在创新巅峰年龄上相差数年的结构性规律。
 
 ---
 

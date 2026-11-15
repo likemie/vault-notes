@@ -40,8 +40,6 @@ related_concepts:
   - "[[Co-Teaching]]"
   - "[[Epistemic Aims]]"
   - "[[Reliability]]"
-  - "[[Epistemic Dependence]]"
-  - "[[Evaluative Judgement]]"
   - "[[Programmed Instruction]]"
   - "[[Epistemic Value]]"
   - "[[Working Memory]]"
@@ -56,7 +54,6 @@ related_arguments:
   - "[[Argument_Duncan_2025_CI]]"
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Chinn_2011_EducPsychol]]"
-  - "[[Argument_Du_Yuan_2026_AIS]]"
 related_facts:
   - "[[PRACCIS]]"
   - "[[National Science Foundation]]"
@@ -73,7 +70,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -137,12 +134,6 @@ updated: 2026-11-11
 > - **方法路径** 提出了超越图尔敏论证结构分析的[[Epistemology\|认识论]]实质评价[[Paradigm\|范式]]，建立了以观察条件、因果机制与证据可[[Reliability\|信度]]为核心的[[Coding in Qualitative Research\|质性编码]]与微观分析方法。
 > - **教学实践路径** 研发了覆盖初高中的 [[PRACCIS]] 课程体系，将模型建构、证据协调与元认识论审议深度整合进常规科学课堂。
 > - **国际学术领导力** 作为《教育心理学家》前主编与 ISLS 核心领导者，两度率领学习科学学者回击认知负荷派对[[Inquiry-Based Learning\|探究学习]]的否定，深刻捍卫了科学教育改革中探究实践的合法地位。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 作为核心合撰者之一，提出探究学习六要素[[Analytic Framework\|分析框架]]，运用详实实证反驳[[Direct Instruction\|直接教学]]绝对优越论，确立指导式探究的循证优越性与时序协同模型。
-> - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 联合提出基于 AIR 模型的科学论证质量评价新范式，论证初中生如何在真实生态探究中行使[[Epistemic Agency\|认识能动性]]并协同建构可靠性规范。
-> - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 奠基性文章，系统引入当代哲学认识论，确立扩展认识论认知分析维度，为后续 AIR 模型的诞生奠定理论基础。
-> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 引证 [[Argument_Chinn_2011_EducPsychol|Chinn et al. (2011)]]的认识论认知理论，论证学习者关于知识、证据与确证的认知信念如何塑造其与生成式 AI 交互时的[[Epistemic Dependence\|认识依赖]]与[[Evaluative Judgement\|评价性判断]]。
 
 ---
 

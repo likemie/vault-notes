@@ -48,7 +48,6 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Social Impact Investing]]"
   - "[[Policy Borrowing]]"
-  - "[[Qualitative Validity]]"
   - "[[Interpretive Paradigm]]"
   - "[[Emic and Etic]]"
   - "[[Rich and Thick Description]]"
@@ -77,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-14
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -148,7 +147,6 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022, pp. 893–894)]] — 将吉登斯结构化理论与结构二重性创造性迁移至小学科学探究课堂，系统建构[[Reflective Structuration|反思性结构化]]理论与四维共享探究架构。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 7, 18)]] — 援引吉登斯批判[[Positivism|实证主义]]的方法论统一假定；[[Jürgen Habermas|哈贝马斯]]与双重诠释见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Ch. 2]]，[[Qualitative Validity|质性效度]]悖论见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Ch. 10]]，质性写作见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|Ch. 28]]。
 
 ---
 

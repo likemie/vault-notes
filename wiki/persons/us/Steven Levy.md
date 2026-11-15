@@ -116,6 +116,11 @@ updated: 2026-11-14
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著第八章深入引述利维 1984 年《黑客》对官僚机构为“缺陷系统”的界定及其对 IBM 顺从主义的审美批判，剖析黑客非军事化誓言对后世硅谷[[Technological Agnosticism|技术不可知论]]的塑造（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。
+
+---
+
 > [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 贡献与关系 |
@@ -125,8 +130,3 @@ updated: 2026-11-14
 > | [[Homebrew Computer Club]] | Fact (Org) | 利维在其《黑客》专著中深度记录的微机革命核心策源地。 |
 > | [[Steve Jobs]] | Person | 利维长期跟踪报道并将反文化[[Philosophical Aesthetics\|美学]]与黑客精神推向全球大众消费市场的关键人物。 |
 > | [[Lee Felsenstein]] | Person | 利维在《黑客》中重点剖析的家酿俱乐部主持人与反体制硬件极客代表。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著第八章深入引述利维 1984 年《黑客》对官僚机构为“缺陷系统”的界定及其对 IBM 顺从主义的审美批判，剖析黑客非军事化誓言对后世硅谷[[Technological Agnosticism|技术不可知论]]的塑造（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。

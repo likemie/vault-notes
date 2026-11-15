@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-05
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -145,6 +145,12 @@ updated: 2026-11-11
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Allerup_2015_Paideia|Allerup (2015)]] — 详尽追溯科恩关于小/中/大[[Effect Size|效应量]]分类的语境条件，揭示 $d$ 与显著性检验依赖[[Sample Size Determination|样本量]]（$t = d\sqrt{n}$）的数理机制，批判面向政策实践的教条化误读（pp. 43–45）。
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 记录科恩关于身高差异（160cm 对比 183cm）的直观隐喻，阐明 Cohen's $d$ 作为标准化差异语言而非价值排序的本质（p. 427）。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联方向 | 贡献说明 |
@@ -157,10 +163,3 @@ updated: 2026-11-11
 > | [[John Hattie]] | 人物 | 政策演变 | 广泛借用科恩指标构建排行榜，但教条化为 0.40 [[Zone of Desired Effects\|铰接点]]并忽视了情境依赖前提。 |
 > | [[Visible Learning]] | 概念 | 批判对象 | 作为科恩效应量框架在当代教育政策中最具争议的大规模转译实践载体。 |
 > | [[Incommensurability]] | 概念 | 理论警示 | 跨指标混用（$d$ 对比 $\Delta$）与跨范畴比较破坏了度量衡的通约性。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Allerup_2015_Paideia|Allerup (2015)]] — 详尽追溯科恩关于小/中/大[[Effect Size|效应量]]分类的语境条件，揭示 $d$ 与显著性检验依赖[[Sample Size Determination|样本量]]（$t = d\sqrt{n}$）的数理机制，批判面向政策实践的教条化误读（pp. 43–45）。
-> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 记录科恩关于身高差异（160cm 对比 183cm）的直观隐喻，阐明 Cohen's $d$ 作为标准化差异语言而非价值排序的本质（p. 427）。
-> - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统剖析[[Meta-analysis|元分析]]中混用 Cohen's $d$、Glass's $\Delta$ 与 Hedges' $g$ 造成的除数混乱与测度偏差，批判忽略[[Confidence Interval|置信区间]]的点估计座次排序（pp. 26–27, 29–30）。

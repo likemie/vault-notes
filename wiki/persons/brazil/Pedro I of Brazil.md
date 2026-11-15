@@ -10,10 +10,10 @@ summary: "巴西帝国缔造者与首任皇帝，兼任葡萄牙国王佩德罗�
 type: person
 nationality: "brazil"
 person_region: "brazil"
-person_related_count: 14
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 6
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1798"
 died: "1834"
 lifespan: "1798–1834"
@@ -27,29 +27,21 @@ tags:
   - region/latin-america
 related_concepts:
   - "[[Brazilian Exceptionalism]]"
-  - "[[Creole Nationalism]]"
   - "[[Dynastic Realm]]"
-  - "[[Administrative Pilgrimage]]"
-  - "[[Uti Possidetis]]"
-related_theories:
-  - "[[Imagined Community]]"
+related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Marquis of Pombal]]"
-  - "[[Benedict Anderson]]"
   - "[[Simón Bolívar]]"
-  - "[[Carlos III]]"
-related_facts:
-  - "[[Pombaline Reforms]]"
-  - "[[Bourbon Reforms]]"
+  - "[[Benedict Anderson]]"
+  - "[[Marquis of Pombal]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch04]]"
-  - "[[Argument_Anderson_2016_Verso]]"
 confidence: high
 status: draft
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-15
 ---
 
 ---
@@ -88,9 +80,6 @@ updated: 2026-11-13
 > - **地缘政治统一路径** 构成了维系拉美最大领土国家未发生巴尔干化割据的关键制度纽带，使巴西政治版图延续了殖民时期的宏阔整体。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, p. 53)]]
 > - **比较帝国与民族主义研究** 为安德森提供了剖析美洲大陆内部西葡两种殖民路径差异的经典个案，成为[[Brazilian Exceptionalism|巴西例外论]]的核心例证。[[Argument_Anderson_2016_Verso_Ch04|(Anderson, 2016, p. 53, n. 19)]]
 > - **立宪君主制制度遗产** 其创设的调停权制度（Poder Moderador）维系了巴西帝国长达半个多世纪的相对政局稳定，直至1889年共和国成立。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch04|Anderson (2016)]] — 探讨其跨洋加冕如何在美洲普遍废止君主制的背景下保全了王朝统治原则，促成了巴西维持大一统帝国的制度奇迹（p. 53, n. 19）。
 
 ---
 

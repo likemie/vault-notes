@@ -53,7 +53,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -119,6 +119,3 @@ updated: 2026-11-02
 > | [[Scaffolding]] | 概念 | 知识整合教学法在软件交互界面中落实的关键支撑机制。 |
 
 ---
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 琳作为核心作者参与发表的长篇权威综述，引用其 8,000+ 人实证成果。

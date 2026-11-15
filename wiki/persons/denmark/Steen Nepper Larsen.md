@@ -38,15 +38,10 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[New Public Management]]"
   - "[[International Education]]"
-  - "[[Dependent Variable]]"
-  - "[[Cult of the Guru]]"
-  - "[[Neo-Taylorism]]"
-  - "[[Heterogeneity]]"
   - "[[Document]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Cognitive Capitalism]]"
-  - "[[Radical Constructivism]]"
   - "[[Critical Theory]]"
 related_methods:
   - "[[Effect Size]]"
@@ -61,13 +56,10 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Rømer_2018_EPT]]"
-  - "[[Argument_Eacott_2017_SLM]]"
-  - "[[Argument_McKnight_2020_Discourse]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-11-13
+updated: 2026-11-15
 ---
 
 ---
@@ -132,12 +124,6 @@ updated: 2026-11-13
 > - **方法路径** 将[[Niklas Luhmann|卢曼]]的二阶[[Blind Spot in Observation|观察盲点]]理论与托马斯·富克斯（[[Thomas Fuchs]]）的生态大脑现象学引入教育研究，确立了对量化[[Meta-analysis|元分析]]与[[Positivism|实证主义]]评价框架进行方法论前提审查的哲学进路。
 > - **政策与公共论辩路径** 深度介入丹麦基础教育改革争论，在公共知识界力抗以[[Evidence-Based Education|循证教育]]与量化指标为导向的[[New Public Management|新公共管理]]改革，倡导捍卫北欧学校的民主与人文根基。
 > - **学术论战扩散** 2018 年与[[John Hattie|约翰·哈蒂]]在哥本哈根开展的高峰学术对话，成为[[International Education|国际教育]]学界反思《[[Visible Learning|可见的学习]]》证据效力与教育真正目的的标志性事件。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 从教化复兴、[[Neuroplasticity|神经可塑性]]批判、身体现象学与概念史四重视角，系统解构可见学习[[Paradigm|范式]]，提出具身化与扩展学习框架。
-> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 与 Larsen 共同立足丹麦教育哲学语境，从教学论与规范哲学角度批判哈蒂可见学习中的[[Radical Constructivism|激进建构主义]]与[[Dependent Variable|因变量]]虚无。
-> - [[Argument_Eacott_2017_SLM|Eacott (2017)]] — 从教育领导力社会学视角批判可见学习的[[Cult of the Guru|大师崇拜]]与[[Neo-Taylorism|新泰勒主义]]，与 Larsen 的哲学解构形成宏观与微观呼应。
-> - [[Argument_McKnight_2020_Discourse|McKnight and Whitburn (2020)]] — 从文化政治与能力主义视角揭示可见学习的控制技术实质，印证了 Larsen 关于盲视遮蔽[[Heterogeneity|异质性]]主体的论断。
 
 ---
 

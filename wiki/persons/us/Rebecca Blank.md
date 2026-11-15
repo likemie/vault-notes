@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -84,9 +84,6 @@ updated: 2026-10-30
 > - **理论路径** 为科学社会学与高等教育评价提供了经济学因果实证支柱，使同行[[Status Bias in Peer Review|评审声望偏倚]]从思辨性讨论转变为可量化测量的结构性偏差。
 > - **方法路径** 开创了在真实学术期刊运作生态中实施大规模[[Randomised Controlled Trials|随机对照试验]]（RCT）的方法范式，直接启发了后续计算机科学、医学期刊的类似随机审稿实验。
 > - **政策路径** 推动了众多国际顶级人文社科与自然科学期刊正式采纳或提供双盲同行评审制度选项。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 将 Blank (1991) 作为剖析单盲审稿产生名望溢价与审稿不公的开创性实证基准。
 
 ---
 

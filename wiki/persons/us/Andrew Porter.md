@@ -31,7 +31,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Academic Achievement]]"
   - "[[Construct]]"
-  - "[[Document]]"
   - "[[Curricular Governance]]"
   - "[[Research Tool]]"
 related_theories: []
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-13
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -103,11 +102,6 @@ updated: 2026-11-14
 > - **方法路径** 发明的实施课程调查（SEC）被全美数十个州教育厅与国际评估机构广泛采购，成为诊断课堂实施偏差的标准测量工具。
 > - **政策路径** 促使全美教育政策制定从单纯要求各校“提交教学计划”的程序合规，转向依托量化矩阵定期审查“标准—教材—测评”一致性的实质问责。
 > - **跨国／跨领域传播** 其对齐算法与学习机会（OTL）测量模型被[[IEA|国际教育成就评价协会]]（IEA）与[[OECD|经合组织]]广泛采纳，用于解释 [[TIMSS]] 和 [[PISA]] 中跨国教学机会差距。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 495)]]
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 将 Porter (2002) 作为解释全系统改进中宏观课程治理与微观对齐机制的核心经典[[Document|文献]]。
 
 ---
 

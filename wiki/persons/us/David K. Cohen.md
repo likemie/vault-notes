@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-15
 ---
 
 ---
@@ -98,11 +98,6 @@ updated: 2026-11-13
 > - **方法路径** 开创了结合大规模课堂录像观察、[[In-depth Interview|深度访谈]]与纵向学业追踪的混合研究范式，为评估政策真实穿透力提供了范例。
 > - **政策路径** 直接启发了纽约市第二学区、加州长滩学区等系统围绕课堂现场教练与教材对齐开展结构化投资。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 489)]]
 > - **跨国／跨领域传播** 教学核心与微观治理框架被广泛引申至加拿大安大略省、澳大利亚维多利亚州以及南非豪登省的基础[[System-Wide Improvement|教育系统改进]]设计中。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 489, 492)]]
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 将 Cohen and Spillane (1992) 作为课程治理范式奠基之作，论述微观教学核心对全系统改进的锚固作用。
 
 ---
 

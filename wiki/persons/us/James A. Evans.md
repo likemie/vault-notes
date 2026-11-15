@@ -27,7 +27,6 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Scientific Productivity]]"
   - "[[Knowledge Production]]"
-  - "[[Big Science]]"
   - "[[Early-Career Researchers]]"
   - "[[Team Science]]"
   - "[[Creativity]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -96,7 +95,6 @@ updated: 2026-11-11
 > - **政策路径** 其关于小团队颠覆性优势与引文过度同质化风险的实证发现，引发全球科技基金与学术出版机构对评审机制与搜索算法的系统性反思。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hao_2026_Nature|Hao et al. (2026)]] — 基于 4,130 万篇自然科学论著揭示人工智能工具扩[[Big Science|大科学]]家个体学术影响却收缩科学集体关注焦点，导致知识广度收缩 4.63% 并减少 22% 的后续学术交流（pp. 1237–1243）。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang & Barabási (2021)]] — 深度征引埃文斯关于小团队颠覆规律的封面实证研究，探讨科技资助对大团队过度倾斜的潜在风险（pp. 128–133）。
 
 ---

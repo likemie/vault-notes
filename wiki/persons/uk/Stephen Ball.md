@@ -50,11 +50,11 @@ related_concepts:
   - "[[Global Educational Discourse]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Visible Learning]]"
-  - "[[Educational Privatisation]]"
   - "[[Geopolitics]]"
   - "[[Policy Borrowing]]"
   - "[[Tacit Knowledge]]"
   - "[[Technical Rationality]]"
+  - "[[Educational Privatisation]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Philosophical Aesthetics]]"
 related_theories:
@@ -74,7 +74,6 @@ related_persons:
   - "[[Liliana Esther Olmos]]"
   - "[[John Hattie]]"
 related_facts:
-  - "[[World Bank]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
@@ -84,13 +83,12 @@ related_arguments:
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Ball_2008_SR]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
-  - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Volmari_2025_CE]]"
 confidence: high
 status: active
 created: '2026-05-05'
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -150,10 +148,6 @@ updated: 2026-11-14
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 运用鲍尔关于表演性（Performativity）的规训理论，深入解构 [[Visible Learning]] 及其商业认证体系如何将教师异化为流水线操作工与数据生产工具（pp. 28–30）。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 运用鲍尔关于内生/外生私有化及跨国政策创业理论，实证剖析新西兰公立学校政策网络的商业化与治理重构。
-> - [[Argument_Ball_2008_SR|Ball (2008)]] — 阐述教育社会学史与治理目光的变迁，解构绩效技术对现代学校的主导机制。
-> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 引用鲍尔对新自由主义审计社会的剖析，批判循证教育运动如何用数字治理代替教育的民主目的与教师的专业判断。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 援引鲍尔关于教育市场化作为阶级策略的经典论断，批判外围资本主义受限国家如何在新自由主义与[[World Bank|世界银行]]规训下推行[[Educational Privatisation|教育私有化]]与分权甩包袱。
-> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 援引鲍尔政策执行与研究合同化批判，揭示全球教育话语的过度简化诱惑，以及定向委托研究对高校学术生产逻辑的侵蚀。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 借鉴鲍尔政策社会学的驱动力—推进工具—价值分析视角，解构跨国高等教育政策文本背后的[[Geopolitics|地缘政治]]诉求、治理手段与意识形态取向（pp. 684–687）。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 27–28)]] — 结合鲍尔（1998）与罗斯的研究，揭示 [[PISA]] 等跨国测评如何将适应不确定经济竞争的风险前置并转嫁给个体，驱动学习者成为自我调节与自我增值的新自由主义行动主体。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 借助鲍尔的数字治理与[[Policy Borrowing|政策借用]]理论，分析数目化管理如何赋能[[Governing at a Distance|远距治理]]，并指出商业化媒体如何将统计量化降解为排位竞技以加剧教育决策的部长化与政治化（pp. 404, 423）。

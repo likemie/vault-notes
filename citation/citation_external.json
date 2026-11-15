@@ -27786,8 +27786,6 @@
     "理学硕士, 1935": "理学硕士, 1935",
     "用斯塔克 (1995)": "用斯塔克, 1995",
     "用斯塔克, 1995": "用斯塔克, 1995",
-    "用格拉斯与史密斯 (1979)": "用格拉斯与史密斯, 1979",
-    "用格拉斯与史密斯, 1979": "用格拉斯与史密斯, 1979",
     "申汪平等 (2018)": "申汪平等, 2018",
     "申汪平等, 2018": "申汪平等, 2018",
     "界定最小与最大分析单位 (2009)": "界定最小与最大分析单位, 2009",
@@ -27807,8 +27805,6 @@
     "社会民主与中左阵营, 1968": "社会民主与中左阵营, 1968",
     "社论 (1916)": "社论, 1916",
     "社论, 1916": "社论, 1916",
-    "福瑞与伦德瓦尔 (1996)": "福瑞与伦德瓦尔, 1996",
-    "福瑞与伦德瓦尔, 1996": "福瑞与伦德瓦尔, 1996",
     "科塞勒克 (2006)": "科塞勒克, 2006",
     "科塞勒克, 2006": "科塞勒克, 2006",
     "科恩等人 (2011)": "科恩等人, 2011",
@@ -45176,7 +45172,6 @@
         "wiki/concepts/educational-philosophy/Interpretivism.md",
         "wiki/concepts/educational-philosophy/Voluntarism.md",
         "wiki/concepts/sociology-of-education/Typification.md",
-        "wiki/persons/uk/Basil Bernstein.md",
         "wiki/persons/us/Alfred Schutz.md",
         "wiki/persons/us/George Herbert Mead.md",
         "wiki/theories/sociology-of-education/Symbolic Interactionism.md",
@@ -47049,8 +47044,7 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/concepts/science-policy/Benefit of the Doubt in Peer Review.md",
-        "wiki/concepts/science-policy/Status Bias in Peer Review.md",
-        "wiki/persons/us/Rebecca Blank.md"
+        "wiki/concepts/science-policy/Status Bias in Peer Review.md"
       ],
       "title": ""
     },
@@ -50097,8 +50091,7 @@
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rizvi_Lingard_2009_OECDEducationPolicy.md",
         "wiki/concepts/political-economy-geopolitics/Liberalization.md",
-        "wiki/concepts/political-economy-geopolitics/Social Imaginary.md",
-        "wiki/persons/france/Pierre Bourdieu.md"
+        "wiki/concepts/political-economy-geopolitics/Social Imaginary.md"
       ],
       "title": ""
     },
@@ -79278,8 +79271,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/methods/quantitative/h-Index.md",
-        "wiki/persons/belgium/Leo Egghe.md"
+        "wiki/methods/quantitative/h-Index.md"
       ],
       "title": ""
     },
@@ -229975,21 +229967,6 @@
       ],
       "title": ""
     },
-    "用格拉斯与史密斯, 1979": {
-      "aliases": [
-        "用格拉斯与史密斯, 1979",
-        "用格拉斯与史密斯 (1979)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "用格拉斯与史密斯, 1979"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/us/Gene Glass.md"
-      ],
-      "title": ""
-    },
     "申汪平等, 2018": {
       "aliases": [
         "申汪平等, 2018",
@@ -230122,21 +230099,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/china/1904 Educational System.md"
-      ],
-      "title": ""
-    },
-    "福瑞与伦德瓦尔, 1996": {
-      "aliases": [
-        "福瑞与伦德瓦尔, 1996",
-        "福瑞与伦德瓦尔 (1996)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "福瑞与伦德瓦尔, 1996"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/denmark/Bengt-Åke Lundvall.md"
       ],
       "title": ""
     },

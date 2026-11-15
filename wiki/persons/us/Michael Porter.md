@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-07
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -133,7 +133,6 @@ updated: 2026-10-30
 > - **批判性[[Geopolitics|地缘政治学]][[Recontextualization|再脉络化]]** 在当代[[Critical Geopolitics|批判地缘政治学]]分析中，波特的[[Discourse|话语]]被揭示为驱动高等教育“[[Knowledge-Based Economization|知识经济化]]”的关键意识形态源泉，推动大学被全面重塑为服务于国家地缘经济竞争的[[Innovation Hub|创新枢纽]]。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–27)]]
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 援引波特的全球化悖论与钻石模型，论证跨国公司的核心技术根植于母国，肯定波特关于国家制度环境不可替代性的核心论断（pp. 20–21）。
 > - [[Argument_Moisio_2022_Springer|Moisio (2022)]] — 从[[Critical Geopolitics|批判地缘政治学]]视角解构波特《[[National Competitive Advantage|国家竞争优势]]》，揭示其如何将国家重塑为“枢纽与流动”竞争实体，为当代大学公司化与国家冠军城市政策提供合法性（pp. 26–27）。
 
 ---

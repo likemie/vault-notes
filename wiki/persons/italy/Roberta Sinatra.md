@@ -24,9 +24,9 @@ tags:
 related_concepts:
   - "[[Metascience]]"
   - "[[Counterfactual]]"
+  - "[[Hot Streak]]"
   - "[[Paradigm]]"
   - "[[Creativity]]"
-  - "[[Hot Streak]]"
   - "[[Emergence]]"
   - "[[Document]]"
 related_theories:
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -82,6 +82,7 @@ updated: 2026-11-11
 > [!work-line] 主要论著
 > - **2016 — *Quantifying the Evolution of Individual Scientific Impact*（《科学》）** 形式化确立随机影响法则与 [[Q-Factor|Q 因子]]模型，揭示科学突破发生时序的随机本质。[[Argument_Sinatra_2016_Science|(Sinatra et al., 2016)]]; [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 51–56)]]
 > - **2017 — *A Century of Physics*（《自然·物理》）** 运用引文全网大数据绘制 20 世纪物理学知识流动与概念交融图谱。
+> - **2018 — [[Argument_Liu_2018_Nature|Liu et al. (2018)]]** 合作发表[[Hot Streak|学术爆发期]]奠基成果，将生涯置换与独立零模型拓展至连胜成簇与累积引文动力学研究。
 
 ---
 
@@ -96,8 +97,6 @@ updated: 2026-11-11
 > - **学术评价与政策路径** 论证持续资助高产年长学者的合理性，为科技资助机构破除唯年轻化年龄门槛提供了计量学证据支持。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 领衔发表奠基论著，实证提出随机影响规律并形式化构建 Q 模型与 Q 因子，确立微观学术生涯动力学范式。
-> - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 合作发表[[Hot Streak|学术爆发期]]奠基成果，将生涯置换与独立零模型拓展至连胜成簇与累积引文动力学研究。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 详尽介绍西纳特拉团队在物理学家全样本中的[[Drop-pin Projection|图钉投影]]与生涯打乱实验，以及 Q 模型构建、能力稳定性检验与诺奖预测 ROC 竞赛。
 
 ---

@@ -27,8 +27,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Comprehensive Education]]"
   - "[[State Educational Sovereignty]]"
-  - "[[Knowledge-Based Economy]]"
-  - "[[Governing by Numbers]]"
   - "[[New Public Management]]"
   - "[[Public Value]]"
 related_theories:
@@ -52,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -110,9 +108,6 @@ updated: 2026-10-30
 > - **理论路径** 其著作《1960–1990年的教育：[[OECD|经合组织]]视角》为全球教育治理与比较教育学提供了不可或缺的历史基准档案，深刻揭示了战后国际组织如何在经济功利与社会伦理之间维持动态平衡。
 > - **方法路径** 开创并奠定了以国别政策审查（National Reviews）和跨国专题研究（Thematic Reviews）为基础的自愿[[Peer Debriefing|同行审议]]（Peer Review）定性方法，开创了重在政策阐释与反思的组织学习模式。
 > - **政策路径** 主导创立[[Centre for Educational Research and Innovation|CERI]]，推动经合组织在残障儿童教育、多元文化教育、女性受教育权、师资培养及弱势群体补偿等广泛社会公平议题上开展长达二十余年的开拓性项目。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 437–442, 450–452)]] — 深度引用帕帕多普洛斯的历史档案，作为对比新自由主义[[Knowledge-Based Economy|知识经济]]转向与[[Governing by Numbers|数字治理]]崛起的历史基准。
 
 ---
 

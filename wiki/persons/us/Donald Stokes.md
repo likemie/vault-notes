@@ -167,16 +167,16 @@ created: 2026-10-02
 
 ---
 
-> [!entry-map] 条目关联
->
-> | 条目 | 类型 | 贡献 |
-> |:-----|:-----|:-----|
-> | [[Bell Labs\|贝尔实验室]] | 组织 | 常被视作[[Pasteur's Quadrant\|用启发性基础研究]]的典型组织典范。 |
-
----
-
 > [!evidence-grid-a] 相关[[Document|文献]]索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 在《游泳逆流：[[Developmental Network State|发展型网络国家]]在美国的崛起》中吸收斯托克斯[[Stokes' Quadrant Model of Scientific Research|巴斯德象限模型]]，从后工业政治经济学视角论证现代重大突破均发生在[[Use-Inspired Basic Research|应用启发的基础研究]]象限，为联邦跨部门公共研发网络主动介入[[Valley of Death|死亡之谷]]、开展概念验证与网络撮合确立了技术[[Epistemology|认识论]]基石。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 将斯托克斯[[Pasteur's Quadrant|巴斯德象限]]确立为白宫 2026 年科技体制重构报告的核心理论支柱，论证晶体管、信息论、AlphaFold 及量子器件的双重驱动特征，并以此为依据提出重组联邦资助机构、设立中等规模工程科学组织与反馈回路自主实验室（Closed-Loop Autonomous Labs）的系统方案。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演化视角，论述斯托克斯[[Pasteur's Quadrant|巴斯德象限]]如何成为 1990 年代美国应对冷战终结与赤字攀升、推动科学与社会“重新签约”并构建复合型契约的核心[[Epistemology|认识论]]支柱。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 评述斯托克斯[[Pasteur's Quadrant|帕斯德象限]]在打破一维线性模型上的里程碑贡献，同时指明其由于继续沿用二分法旧词汇且局限于静态主观动机，未能充分揭示科学发现与工程发明跨越数十年的动态网络互动机制。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Bell Labs\|贝尔实验室]] | 组织 | 常被视作[[Pasteur's Quadrant\|用启发性基础研究]]的典型组织典范。 |

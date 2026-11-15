@@ -131,6 +131,12 @@ updated: 2026-11-02
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 逐项核查沃尔伯格两篇经典强化元分析，揭露其被哈蒂移花接木为反馈效应的真相。
+> - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 梳理沃尔伯格九因素模型如何启蒙哈蒂《可见的学习》与英国 [[Education Endowment Foundation|EEF]] 工具箱的设计。
+
+---
+
 > [!entry-map] 人物与理论思想网络关联
 > | 关联对象 | 关系性质 | 核心说明 |
 > |---|---|---|
@@ -138,9 +144,3 @@ updated: 2026-11-02
 > | [[Behaviorism\|行为主义]] | 理论归属 | 其早期的课堂强化与线索修正[[Meta-analysis\|元分析]]构成了行为主义教学工程学的大样本实证基石。 |
 > | [[John Hattie\|约翰·哈蒂]] | 合作者与思想继承人 | 哈蒂早年师从沃尔伯格参与 1987 年[[Meta-meta-analysis\|元综合]]专著编写，《[[Visible Learning\|可见的学习]]》全面继承其[[Paradigm\|范式]]。 |
 > | [[Gene Glass\|吉恩·格拉斯]] | 方法学同行 | 吸收格拉斯创立的元分析方法，将其系统拓展至教育生产力多维度实证检验。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 逐项核查沃尔伯格两篇经典强化元分析，揭露其被哈蒂移花接木为反馈效应的真相。
-> - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 梳理沃尔伯格九因素模型如何启蒙哈蒂《可见的学习》与英国 [[Education Endowment Foundation|EEF]] 工具箱的设计。

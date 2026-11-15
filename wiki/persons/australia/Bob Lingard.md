@@ -7,10 +7,10 @@ summary: "澳大利亚与英国著名教育政策社会学家，澳大利亚社�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 50
-person_related_level: 5
-person_related_stars: "💎⭐⭐"
-person_related_color: "#ffedd5"
+person_related_count: 49
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1949"
 died: ""
 lifespan: "1949–至今"
@@ -74,12 +74,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
-  - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
 status: completed
 created: 2026-06-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -137,8 +136,6 @@ updated: 2026-11-11
 > - **跨国／跨领域传播** 理论著述被翻译为多国语言并成为全球各大高校教育政策、国际发展与比较教育专业研究生的核心必读经典。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 系统拆解[[OECD|经合组织]]从 1960–1990 年社会民主主义多元妥协到[[Knowledge-Based Economy|知识经济]]社会想象与 PISA 数字治理的历史演进与理论机制。
-> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 援引林加德等关于经合组织作为独立跨国行动者的论述，分析冷战及后冷战时代比较教育学科在国际组织支配下的范式位移。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 结合林加德关于[[Governing at a Distance|远处治理]]与数字政策的洞见，探讨经合组织如何通过[[Policy Brokerage|政策中介]]工具打包垄断国家行政立法过程。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 借鉴林加德与罗沃尔的全球教育政策场域模型，剖析经合组织如何凭借统计测量与象征资本确立跨国教育仲裁权威（p. 421）。
 

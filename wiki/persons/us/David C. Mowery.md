@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-03
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -118,6 +118,7 @@ updated: 2026-11-11
 > - **2004 — *Ivory Tower and Industrial Innovation: University-Industry [[Technology Transfer]] Before and After the [[Bayh-Dole Act of 1980|Bayh-Dole Act]]*** 与[[Richard Nelson|理查德·纳尔逊]]、巴瓦尼·桑帕特（Bhaven Sampat）、阿维德·扎多尼斯（Arvids Ziedonis）合著，全面解构《拜杜法案》神话，实证指出大学技术转移繁荣源自战后长周期基础研究积累与生物医药学科突破，而非单纯依靠专利垄断激励。
 > - **2005 — *Defense-Related R&D and the Growth of the Postwar Information Technology Industrial Complex in the United States*** 与基拉·R·法布里齐奥（Kira R. Fabrizio）合著发表于 *Revue d'économie industrielle*，系统梳理战后五十年国防部通过科研资助、先导采购与第二货源规制培育微电子、计算机硬件、软件及互联网四大支柱产业的制度演进，提出国防支持效能随产业成熟与商业市场扩张而递减的生命周期规律，并前瞻分析 9/11 后反恐与国土安全研发预算重组的深远影响。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 27–44)]]
 > - **2011 — *Federal Policy and the Development of Semiconductors, Computer Hardware, and Computer Software*** 收录于《加速能源创新》（*Accelerating Energy Innovation*），深入总结国防采购、反垄断同意令与[[Disciplinary Institutionalization|学科建制化]]对信息技术（IT）产业的塑造机制，并审慎评估其作为气候能源创新政策模板的移植边界。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 159–188)]]
+> - **2018 — [[Argument_Thompson_et_al_2018_RP|Thompson et al. (2018)]]** 分析加利福尼亚大学专利许可数据，证实涉及材料转移协议的科研工具在许可后学术引用下降超过 50%。
 
 ---
 
@@ -147,12 +148,6 @@ updated: 2026-11-11
 > - **方法与实证评估路径** 开创性地将企业工程项目档案、一手[[In-depth Interview|深度访谈]]与计量分析相结合，为微观产业组织与科技政策制定提供了高[[Reliability|信度]]的政策评估[[Paradigm|范式]]。
 > - **政策咨询与制度设计路径** 深度影响了[[United States Congress|美国国会]]、[[DARPA]]、[[Department of Commerce|美国商务部]]及 [[OECD]] 关于高技术研发联盟治理（如 [[Sematech]] 设计准则）、[[Dual-Use Technology|军民两用技术]]溢出及[[Technology Transfer|大学技术转移]]立法政策的审议与反思。
 > - **跨领域创新治理启示** 其对 IT 产业公共政策成功前提的严格界定，为当下清洁能源技术攻关、半导体供应链韧性建设及人工智能公共研发基础设施布局提供了重要的边界警示。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Macher_1998_CMR|Macher et al., 1998]] — 结合微观晶圆厂标杆数据与宏观产业重构，实证剖析美国半导体产业在 1990 年代重获竞争优势的多元驱动机制。
-> - [[Argument_Grindley_1994_JPAM|Grindley et al., 1994]] — 系统评估 Sematech 研发联盟的治理架构、战略转型及其向日欧同类项目的比较启示。
-> - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]] — 系统考察二战后国防研发与先导采购对微电子、软件及互联网产业复合体的催化机制与生命周期衰减规律。
-> - [[Argument_Mowery_2011_NBER|Mowery, 2011]] — 深入阐明联邦采购、反垄断同意令与[[Disciplinary Institutionalization|学科建制化]]如何共同孕育美国半导体、硬件与软件产业生态。
 
 ---
 
@@ -214,9 +209,3 @@ updated: 2026-11-11
 > | [[OECD]] | 组织 | 长期承担国家科技政策咨询与评估工作。 |
 
 ---
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 历史回顾战后美国创新政策组合，论证国防研发与反垄断政策对信息技术产业竞争生态的塑造。
-> - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 评估 Sematech 半导体联盟从横向工艺开发向纵向供应商协同的治理机制转型。
-> - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 剖析国防研发支出对民用高技术创新的生命周期性及其递减效应。
-> - [[Argument_Thompson_et_al_2018_RP|Thompson et al. (2018)]] — 分析加利福尼亚大学专利许可数据，证实涉及材料转移协议的科研工具在许可后学术引用下降超过 50%。

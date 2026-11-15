@@ -42,7 +42,6 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Disciplinary Institutionalization]]"
-  - "[[Empiricism]]"
   - "[[Technical Rationality]]"
   - "[[Construct]]"
   - "[[Comparative History of Comparative Education]]"
@@ -85,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -169,8 +168,6 @@ updated: 2026-11-11
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cowen(Ed.)_2009_Springer|Cowen & Kazamias (Eds.) (2009)]] — 共同主编比较教育手册，收录考恩与拉斯特的评价以及卡扎米亚斯关于[[Historical-Philosophical-Cultural Motif|历史哲学母题]]与[[Protean Episteme|普罗透斯式认识体系]]的奠基性论述。
 > - [[Argument_Cowen_2023_CE|Cowen (2023)]] — 考恩反思卡扎米亚斯的人文主义传统与[[Disciplinary Institutionalization|学科制度化]]成就。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 征引卡扎米亚斯关于结构功能主义、[[Educational Meliorism|改良主义]]改造社会抱负与方法论价值抉择的论断。
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统反思学科四重论述代际演进，批判[[Empiricism|唯方法论主义]]，诊断历史健忘症并确立历史与社科综合纲领。
 
 
 ---

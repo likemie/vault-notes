@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 > [!person-profile] 人物档案
@@ -62,6 +62,3 @@ updated: 2026-11-02
 > | [[Keith Morrison]] | 人物 | 教材合著者。 |
 
 ---
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]] — 与 Cohen、Morrison 合著的教育研究方法综合教材。

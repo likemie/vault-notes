@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -130,8 +130,3 @@ updated: 2026-11-11
 > | [[Nicholas Negroponte\|尼古拉斯·尼葛洛庞帝]] | 人物 | 戈登与尼葛洛庞帝分别从经济学与工程学视角揭示了当代科技创新的浅层化困境。 |
 
 ---
-
-> [!evidence-grid] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引戈登关于 1970 年后[[Total Factor Productivity|全要素生产率]]断崖式下滑与创新狭窄化的经典实证研究，论证克服[[Big Idea Famine|大构想饥荒]]与重振实体工程雄心的极端紧迫性。
-
-

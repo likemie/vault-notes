@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-10'
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -150,7 +150,6 @@ updated: 2026-11-11
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 系统提炼弗莱雷提问式教育、批判意识觉醒与反思实践[[Central Phenomenon|核心范畴]]。
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] — 吸收弗莱雷去权威对话精神，提出审问异己智能与思维全外显以抵御成长性[[Epistemic Injustice|认识不正义]]。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 继承弗莱雷教育政治性与争夺场域洞见，系统剖析外围[[Conditioned State Theory|受限国家]]教育扩张的阶级矛盾。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 援引弗莱雷教育即政治命题，解构西方现代性对教育研究的侵蚀并转向解放实践范式。
 > - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 将弗莱雷批判思想界定为代表性知识典范，阐释激进南方理念对西方科层体制的反向重构。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 批评《被压迫者教育学》中将暴力绝对归咎于统治者的二元论，指出否定弱者施恶潜能构成道德屈尊。
 

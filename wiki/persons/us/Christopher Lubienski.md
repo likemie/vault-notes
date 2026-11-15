@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -117,7 +117,6 @@ updated: 2026-11-11
 > - **跨国／跨领域传播** 其思想市场与中介分析被比较教育学者深度采纳，成为[[UNESCO|联合国教科文组织]]全球教育监测与政策循证审查的关键理论框架。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 援引思想市场与信息孤岛理论，剖析全球教育治理中政策中介利用证据过剩实施合法化包装。
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 借鉴其中介机构填补政学鸿沟分析，指出咨询机构与智库在快速车道推销定制证据带来的认知负担与客观性扭曲。
 
 ---

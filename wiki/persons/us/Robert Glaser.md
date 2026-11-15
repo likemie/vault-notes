@@ -135,6 +135,11 @@ updated: 2026-11-02
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 深入解构哈蒂思想谱系，确凿证实罗伯特·格拉泽为其隐匿的理论核心支柱。
+
+---
+
 > [!entry-map] 人物与理论思想网络关联
 > | 关联对象 | 关系性质 | 核心说明 |
 > |---|---|---|
@@ -146,8 +151,3 @@ updated: 2026-11-02
 > | [[John Hattie]] | 思想继承者 | 承袭格拉泽的控制系统思路，建构起当代全球最具影响力的[[Evidence-Based Education\|循证教育]]指标榜单。 |
 > | [[Donald A. Schön]] | 批判对立面 | 舍恩的技术理性批判精准击中了格拉泽将专业情境还原为工程[[Problem Solving\|问题解决]]的认识论盲区。 |
 > | [[Ernst von Glasersfeld]] | 思想史辨析 | 勒默尔曾将其与格拉泽混淆；尼尔森等证实哈蒂依凭的是格拉泽而非[[Constructivist Paradigm\|建构主义]]。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 深入解构哈蒂思想谱系，确凿证实罗伯特·格拉泽为其隐匿的理论核心支柱。

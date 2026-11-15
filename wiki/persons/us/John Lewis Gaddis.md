@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -129,8 +129,3 @@ updated: 2026-10-22
 > | 大战略项目 | 项目 | 研究机构 |
 
 ---
-
-> [!evidence-grid] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引加迪斯关于二战后大国[[Long Peace|长和平]]的经典史学定性，深刻揭示长和平所诱发的防务自满与软件世纪威慑重构的紧迫性。
-
-

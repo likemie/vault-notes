@@ -92,6 +92,11 @@ updated: 2026-11-10
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — [[Systematic Review|系统综述]]开篇采用莱文关于全系统改进的经典定义，并全程引述其在安大略省改革中关于少数聚焦目标、现场微观情境学习及实施反馈环的实证论述（pp. 480, 488–493）。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
@@ -100,8 +105,3 @@ updated: 2026-11-10
 > | [[Knowledge Mobilisation]] | 概念 | 莱文作为核心倡导者与实践者，创立多伦多大学应用知识网络推进证据向教学现场的动员转化。 |
 > | [[Professional Accountability]] | 概念 | 莱文在安大略省政策推行中践行的核心问责理念，倡导非惩罚性的专业支持与能力建设。 |
 > | [[Instructional Core]] | 概念 | 莱文强调宏观治理政策唯有穿透至微观课堂师生互动核心才能产生实质改进效能。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — [[Systematic Review|系统综述]]开篇采用莱文关于全系统改进的经典定义，并全程引述其在安大略省改革中关于少数聚焦目标、现场微观情境学习及实施反馈环的实证论述（pp. 480, 488–493）。

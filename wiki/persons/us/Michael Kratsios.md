@@ -68,7 +68,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -150,6 +150,11 @@ updated: 2026-11-11
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演化视角，系统剖析克拉齐奥斯在 2025 年起推动美国科技政策走向[[Technology-Oriented Social Contract|技术型社会契约]]与再集中动员中的关键角色。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联说明 |
@@ -162,9 +167,3 @@ updated: 2026-11-11
 > | [[Focused Research Organization]] | 概念 | 克拉齐奥斯倡导建立的中等规模工程科学新型非营利载体。 |
 > | [[Metascience]] | 概念 | 克拉齐奥斯要求在各联邦科学机构设立的法定自我革新单元。 |
 > | [[Genesis Mission]] | 事实 | 克拉齐奥斯主管落地的国家级 AI 赋能科学跨部门旗舰计划。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 克拉齐奥斯向总统呈交的战略报告全文。确立了四大支柱、组合式资助、本土制造转化与生成核验协同体系，附 2028 财年预算指导备忘录。
-> - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演化视角，系统剖析克拉齐奥斯在 2025 年起推动美国科技政策走向[[Technology-Oriented Social Contract|技术型社会契约]]与再集中动员中的关键角色。

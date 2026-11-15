@@ -45,13 +45,6 @@ updated: 2026-10-22
 > - **核心角色** 把国际和解、行动教育与共同服务结合，为大西洋学院及[[United World Colleges\|联合世界书院]]提供教育愿景。
 > - **代表贡献** 强调教育必须改变青年人的态度与行动，并以跨文化共同生活、挑战性服务、团队领导和个人热情实现这一目标。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 2–3)]]
 
-> [!entry-map] 条目关联
->
-> | 条目 | 类型 | 贡献 |
-> |:---|:---|:---|
-> | [[Founding of Atlantic College]] | 事件 | 提供创校愿景，参与组建筹备网络，并坚持让教育理想通过学校制度转化为行动。 |
-> | [[International Baccalaureate]] | 概念 | 其行动、服务和完整人格教育原则后来进入国际文凭课程与考试框架。 |
-
 > [!timeline] 生平与职涯
 > - **1920** 出任萨勒姆学校校长，学校让德国和英国这两个昔日敌国的儿童共同学习。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, p. 2)]]
 > - **1932** 要求萨勒姆校友在希特勒与学校价值之间作出选择，随后被捕，并在英国首相拉姆齐·麦克唐纳干预后流亡英国。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, p. 2)]]
@@ -74,3 +67,12 @@ updated: 2026-10-22
 
 > [!person-network] 关系网络
 > - **合作者** [[Alec Peterson]] — 1957 年相识，随后共同把[[International Education\|国际教育]]愿景转化为大西洋学院的课程与制度。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:---|:---|:---|
+> | [[Founding of Atlantic College]] | 事件 | 提供创校愿景，参与组建筹备网络，并坚持让教育理想通过学校制度转化为行动。 |
+> | [[International Baccalaureate]] | 概念 | 其行动、服务和完整人格教育原则后来进入国际文凭课程与考试框架。 |

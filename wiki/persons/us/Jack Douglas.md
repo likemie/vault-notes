@@ -27,7 +27,6 @@ related_concepts:
   - "[[Interpretive Paradigm]]"
   - "[[Positivism]]"
   - "[[Reflexivity]]"
-  - "[[Doctoral Dissertation]]"
   - "[[Commensuration]]"
   - "[[Indexicality]]"
   - "[[Determinism]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -102,9 +101,6 @@ updated: 2026-11-11
 > - **[[Paradigm\|范式]]划界路径** 为当代教育研究方法论教科书（如 Cohen et al., 2011）提供了最清晰明澈的哲学划界标准，使学习者能够一眼洞穿[[Positivism\|实证主义]]与质性探究的[[Ontology\|本体论]]分歧。
 > - **批判性数据观** 启发教育研究者对标准化考试、出勤率、升学率等官方教育统计数据保持[[Reflexivity\|反思性]]警惕，促使研究深入考察这些数据背后的行政分类机制与利益博弈。
 > - **存在主义转向** 将个体的情感、焦虑、生存冲突与微观道德抉择引入社会学经验探究视野。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]] — 引用道格拉斯[[Normative Paradigm\|规范范式]]与[[Interpretive Paradigm\|诠释范式]]两分法（pp. 17–18），作为梳理全章范式演变、自然主义探究与反实证主义批判的核心概念支柱。
 
 ---
 

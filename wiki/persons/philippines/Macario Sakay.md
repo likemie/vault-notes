@@ -90,18 +90,6 @@ updated: 2026-11-14
 
 ---
 
-> [!entry-map] 条目关联
->
-> | 条目 | 类型 | 关系 |
-> |:-----|:-----|:-----|
-> | [[Republic of Katagalugan]] | 史实 | 萨凯创立并领导的平民抗美政权，其宪政纲领承载了萨凯的平权思想。 |
-> | [[Horizontal Comradeship]] | 概念 | 理论体现；萨凯宪法是横向同志情谊跨越肤色与阶级差别的直接制度体现。 |
-> | [[Colonial Racism]] | 概念 | 对抗[[Paradigm\|范式]]；萨凯以平民激进平等原则瓦解了帝国殖民种族主义的支配神话。 |
-> | [[Jose Rizal]] | 人物 | 民族先驱；黎刹的平权牺牲精神为萨凯的游击抗暴提供了深厚的道德滋养。 |
-> | [[Benedict Anderson]] | 人物 | 征引萨凯宪法[[Document\|文献]]，系统论证反殖民民族运动具备博爱本色。 |
-
----
-
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Anderson_2016_Verso_Ch08|Anderson (2016)]] — 征引萨凯领导的加达洛共和国1902年宪法，实证论证反殖民民族主义立足于平权兄弟情谊而无反向种族主义（pp. 157–158）。
 
@@ -111,3 +99,15 @@ updated: 2026-11-14
 > 萨凯加达洛共和国在1902年宪法中庄严宣告：凡出生于本群岛之人民，绝不可因种族或肤色自命优越；无论肤色浅白或深黑、家境贫穷或富裕、受过教育或目不识丁，全员一律完全平等，共同拥有合一之内在心神（loób）。在受教育程度、财富或外表上虽有差别，但在人的本质（pagkatao）与投身崇高事业的奉献资格上决无高下之分。这一宪政文献证明，反殖民民族主义以横向平权手足为追求，超越了狭隘的种族复仇与反向歧视。[[Argument_Anderson_2016_Verso_Ch08|(Anderson, 2016, pp. 157–158)]]
 >
 > *No Tagalog, born in this Tagalog archipelago, shall exalt any person above the rest because of his race or the colour of his skin; fair, dark, rich, poor, educated and ignorant – all are completely equal, and should be in one loób [inward spirit]. There may be differences in education, wealth, or appearance, but never in essential nature (pagkatao) and ability to serve a cause.*
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Republic of Katagalugan]] | 史实 | 萨凯创立并领导的平民抗美政权，其宪政纲领承载了萨凯的平权思想。 |
+> | [[Horizontal Comradeship]] | 概念 | 理论体现；萨凯宪法是横向同志情谊跨越肤色与阶级差别的直接制度体现。 |
+> | [[Colonial Racism]] | 概念 | 对抗[[Paradigm\|范式]]；萨凯以平民激进平等原则瓦解了帝国殖民种族主义的支配神话。 |
+> | [[Jose Rizal]] | 人物 | 民族先驱；黎刹的平权牺牲精神为萨凯的游击抗暴提供了深厚的道德滋养。 |
+> | [[Benedict Anderson]] | 人物 | 征引萨凯宪法[[Document\|文献]]，系统论证反殖民民族运动具备博爱本色。 |

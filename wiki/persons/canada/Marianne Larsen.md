@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -112,6 +112,3 @@ updated: 2026-11-02
 > | [[Comparative and International Education Society\|比较与国际教育学会]] | 事实 | 曾任会长并长期推动学会正视历史研究与全球批判议程。 |
 
 ---
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 权威引述拉森的数据与论断，作为全章结论最核心的证据支撑。

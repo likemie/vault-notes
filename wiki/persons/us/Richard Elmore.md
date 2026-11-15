@@ -97,6 +97,11 @@ updated: 2026-11-11
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — [[Systematic Review|系统综述]]多次重点引述埃尔莫尔关于纽约第二学区（Elmore & Burney, 1998）与维多利亚州（Elmore, 2007）的实证研究，确立其作为全系统复杂性改革与专业资本投资的核心思想源头（pp. 482, 484, 488, 491）。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
@@ -105,8 +110,3 @@ updated: 2026-11-11
 > | [[Instructional Leadership]] | 概念 | 埃尔莫尔领导力理论的核心主张，倡导管理者从科层事务转向微观教学指导与专业引领。 |
 > | [[System-Wide Improvement]] | 概念 | 埃尔莫尔系统改进研究的核心领域，提出应对复杂问题的多维整合战略行动理论。 |
 > | [[Professional Accountability]] | 概念 | 埃尔莫尔倡导将问责评价与[[Professional Capital\|教师专业资本]]投资紧密对齐，反对单纯惩罚性管制问责。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — [[Systematic Review|系统综述]]多次重点引述埃尔莫尔关于纽约第二学区（Elmore & Burney, 1998）与维多利亚州（Elmore, 2007）的实证研究，确立其作为全系统复杂性改革与专业资本投资的核心思想源头（pp. 482, 484, 488, 491）。

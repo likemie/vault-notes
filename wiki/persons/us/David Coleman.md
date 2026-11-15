@@ -121,6 +121,11 @@ updated: 2026-11-02
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 详细记录科尔曼主导起草团队如何调用 ACT 数据与填补科研实证空白的研究。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
@@ -131,8 +136,3 @@ updated: 2026-11-02
 > | [[National Governors Association]] | 组织机构 | 接受其正式委托开展全国统一标准方案的文本研制与多轮修订。 |
 > | [[Bill & Melinda Gates Foundation\|比尔与梅琳达·盖茨基金会]] | 组织机构 | 为科尔曼创立的学生成就伙伴组织提供数千万美元核心推进资金。 |
 > | [[Council of Chief State School Officers\|州首席教育官理事会]] | 组织机构 | 聘任科尔曼主持起草的州级权力机构。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 详细记录科尔曼主导起草团队如何调用 ACT 数据与填补科研实证空白的研究。

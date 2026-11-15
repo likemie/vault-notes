@@ -107,10 +107,12 @@ updated: 2026-10-30
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 系统剖析特雷尔及其领衔的 SVA 政策网络如何在澳大利亚公共教育中装配中介实体，批判其对公共财政再分配与民主问责的侵蚀。
+
+---
+
 > [!entry-map] 关联条目
 > - 核心组织：[[Social Ventures Australia]]、[[Australian Schools Plus]]、[[Evidence for Learning]]、[[Australian Education Research Organisation]]
 > - 核心理论与概念：[[Venture Philanthropy]]、[[Philanthrocapitalism]]、[[Policy Network]]、[[Policy Mobility]]
 > - 关键盟友与同行：[[David Gonski]]、[[Michael Barber]]
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 系统剖析特雷尔及其领衔的 SVA 政策网络如何在澳大利亚公共教育中装配中介实体，批判其对公共财政再分配与民主问责的侵蚀。

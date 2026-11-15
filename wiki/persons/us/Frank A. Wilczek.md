@@ -25,7 +25,6 @@ tags:
 related_concepts:
   - "[[Presence]]"
   - "[[Epistemology]]"
-  - "[[Artefact]]"
   - "[[Creativity]]"
   - "[[Early-Career Researchers]]"
 related_theories:
@@ -40,7 +39,6 @@ related_persons:
 related_facts:
   - "[[National Academy of Sciences]]"
   - "[[Institute for Advanced Study]]"
-  - "[[AlphaFold]]"
   - "[[American Physical Society]]"
 related_arguments:
   - "[[Argument_Sinatra_2016_Science]]"
@@ -48,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-01
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -97,7 +95,6 @@ updated: 2026-11-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sinatra_2016_Science|Sinatra et al. (2016)]] — 将维尔切克（$N^*=1$）与芬恩（$N^*=N$）作为导言与图 1 核心案例，实证印证突破位次在学者发表序列中服从均匀随机分布。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit10|Wang & Barabási (2021)]] — 引用其关于机[[Artefact|器物]]理学家的预言，以此剖析 [[AlphaFold]] 等现代深度学习系统的专用解题属性与人类科学家的战略领导力边界。
 
 ---
 

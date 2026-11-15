@@ -8,7 +8,7 @@ summary: "澳大利亚教育行政学者，关系取向组织理论与领导力�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 36
+person_related_count: 35
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Relational Space]]"
   - "[[Ontology]]"
   - "[[Paradigm]]"
-  - "[[Cult of Efficiency]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
@@ -66,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-03
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -133,13 +132,9 @@ updated: 2026-10-30
 > - **跨国与跨学科拓展路径** 其[[Neo-Taylorism|新泰勒主义]]批判框架被跨国学者深度接续与经验检验：俄罗斯学者（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）援引其批判转型体制中 79% 教师受困于数据造表增生的组织病理；北欧学者（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）援引其结合舍恩[[Technical Rationality|技术理性]]说，深挖[[John Hattie|哈蒂]]反馈[[Meta-analysis|元分析]]数据底层，实证确证其[[Construct|构念]]混淆与新泰勒主义规训本质。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Eacott_2017_SLM|Eacott (2017)]] — 结合卡拉汉[[Cult of Efficiency|效率崇拜]]历史框架，系统提出哈蒂可见学习为当代教育行政中的“新泰勒主义”与“大师崇拜”。
-> - [[Argument_Eacott_2019_IJLE|Eacott (2019)]] — 反思新泰勒主义论文引发的跨国争议与学术投诉，剖析教育行政领域回避实质论辩的“[[Parallel Monologues|平行独白]]”机制。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 结合舍恩技术理性批判，细读哈蒂反馈元分析底层数据，实证支撑埃考特关于新泰勒主义规训与构念混淆的论断（pp. 14–15）。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 援引埃考特新泰勒主义概念，实证测查 1,120 名俄罗斯教师在持续数据生产政策下的行政负荷与专业流失危机（pp. 240–241）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 剖析澳大利亚维州 [[Victorian HITS and Literacy Toolkit|HITS]] 教学策略背后的新泰勒主义全景监控逻辑与去专业化风险。
-> - [[Argument_Eacott_2015_EPT|Eacott (2015)]] — 运用[[Pierre Bourdieu|布迪厄]]认识论论证教育行政学者的具身嵌入性塑造其智识凝视。
-> - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 运用布迪厄[[Champ|场域]]/习性框架分析新南威尔士州校长领导力培养项目中的管理主义意识形态。
 > - [[Argument_Hattie_2017_SLM|Hattie (2017)]] — 对埃考特论文的正式回应，否认新泰勒主义定性并为可见学习科学性辩护。
 
 ---

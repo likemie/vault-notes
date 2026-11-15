@@ -36,9 +36,9 @@ related_concepts:
   - "[[Paideia]]"
   - "[[Positivism]]"
   - "[[Mission-Oriented Innovation Policy]]"
-  - "[[Paradigm]]"
   - "[[Voluntarism]]"
   - "[[Philosophical Aesthetics]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Three Generations of Mission-Oriented Policy]]"
   - "[[Postmodernism]]"
@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -118,7 +118,6 @@ updated: 2026-11-14
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 动用尼采精神三变隐喻阐释三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]的组织能力演进。
-> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 将尼采列入德意志教化（[[Bildung]]）哲学谱系，以此反思当代可见学习[[Paradigm|范式]]对教育深层精神维度的遮蔽。
 
 ---
 

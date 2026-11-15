@@ -16,7 +16,7 @@ person_related_color: "#e0e7ff"
 confidence: high
 status: draft
 created: 2026-06-06
-updated: 2026-10-26
+updated: 2026-11-15
 born: "1896"
 died: "1934"
 lifespan: "1896–1934"
@@ -43,7 +43,6 @@ related_theories:
   - "[[Third Generation Activity Theory]]"
   - "[[Social Realism]]"
   - "[[Curriculum Design Coherence Model]]"
-  - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Mother-Child Conversation]]"
@@ -118,7 +117,6 @@ related_arguments:
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]] — 借用 Vygotsky 的科学概念与自发概念区分，论证社会实在论课程设计模型（CDCM）中知识连贯性的必要性。
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 阐述 Vygotsky 社会文化互动理论在华北案例学校中与[[Confucius\|孔子]]对话传统产生的[[Selective Affinity\|选择性亲和]]，以及第一代活动理论在研究框架中的定位。
-> - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] — 引用 Vygotsky 社会文化理论（结合 Rose & Rose 1976），批判脑科学与[[Cognitive Load Theory\|认知负荷理论]]对教育社会性与关系维度的遮蔽。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 运用 Vygotsky 认知支架理论分析中美母亲-儿童对话（MCC）中的[[Parental Cognitive and Affective Socialization\|认知社会化]]话语机制。
 
 ---

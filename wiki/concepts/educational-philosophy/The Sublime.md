@@ -68,13 +68,13 @@ updated: 2026-11-15
 ---
 
 > [!entry-map] 条目关联
-
-| 条目 | 类型 | 关系 |
-|:-----|:-----|:-----|
-| [[Philosophical Aesthetics]] | 概念 | 崇高作为超越传统和谐美范畴的审美维度拓展了哲学美学的边界。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, p. 17)]] |
-| [[Judgment of Taste]] | 概念 | 康德体系中与崇高形成“感官宁静 vs 道德超拔”对立的另一核心审美判断类型。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 32–34)]] |
-| [[Moses Mendelssohn]] | 人物 | 首位在德国哲学中对崇高予以系统阐发的思想家。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 17–18)]] |
-| [[Immanuel Kant]] | 人物 | 在《判断力批判》中区分数学的崇高与力学的崇高，确立主体转向的经典范式。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 32–34)]] |
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Philosophical Aesthetics]] | 概念 | 崇高作为超越传统和谐美范畴的审美维度拓展了哲学美学的边界。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, p. 17)]] |
+> | [[Judgment of Taste]] | 概念 | 康德体系中与崇高形成“感官宁静 vs 道德超拔”对立的另一核心审美判断类型。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 32–34)]] |
+> | [[Moses Mendelssohn]] | 人物 | 首位在德国哲学中对崇高予以系统阐发的思想家。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 17–18)]] |
+> | [[Immanuel Kant]] | 人物 | 在《判断力批判》中区分数学的崇高与力学的崇高，确立主体转向的经典范式。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 32–34)]] |
 
 ---
 

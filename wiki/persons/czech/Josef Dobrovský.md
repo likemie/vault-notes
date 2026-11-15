@@ -9,7 +9,7 @@ summary: "捷克语文学家、历史学家与斯拉夫学奠基人，被誉为�
 type: person
 nationality: czech
 person_region: "czech"
-person_related_count: 9
+person_related_count: 7
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -25,22 +25,20 @@ related_concepts:
   - "[[Philological Revolution]]"
   - "[[Print-Language]]"
   - "[[National Rejuvenation Narrative]]"
-related_theories:
-  - "[[Imagined Community]]"
-related_methods:
-  - "[[Historical-Comparative Method]]"
+related_theories: []
+related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Benedict Anderson]]"
-  - "[[Hugh Seton-Watson]]"
   - "[[Josef Jungmann]]"
+  - "[[Hugh Seton-Watson]]"
+  - "[[Benedict Anderson]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch05]]"
 confidence: high
 status: active
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-15
 ---
 
 ---
@@ -89,9 +87,6 @@ updated: 2026-11-13
 > - **斯拉夫学学科创立** 其古教会斯拉夫语研究直接启发了帕拉茨基（František Palacký）、沙法里克（Pavel Jozef Šafárik）等中东欧斯拉夫复兴运动旗手。
 > - **捷克书面语标准化** 他所确立的正字法体系成为现代捷克标准语的基础，直接推动了永曼《捷德词典》的大规模词汇扩充。
 > - **安德森理论定位** 安德森在第五章借多布罗夫斯基个案论证欧洲第二波民族主义的特殊性：正是专业学者在大学与图书馆中的文献打磨，才使边缘口语方言转化为足以对抗多语帝国统治行政语言的政治武器。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch05|Anderson (2016)]] — 将多布罗夫斯基1792年波希米亚语言文学史视为19世纪欧洲语文学家将边缘口语方言打造成现代印刷国语的典型开端（p. 75, n. 16）。
 
 ---
 

@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -146,6 +146,3 @@ updated: 2026-11-11
 > | [[Robert Arnove\|罗伯特·阿诺夫]] | 人物 | CIES 资深同仁，共同探讨全球化与[[Going Native\|本土化]]的辩证冲突及中心-边缘依附。 |
 
 ---
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 权威引述阿特巴赫 1991 年论文，定性比较教育在打破功能主义后的多元化智识全貌。

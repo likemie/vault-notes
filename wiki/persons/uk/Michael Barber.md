@@ -167,6 +167,15 @@ updated: 2026-11-11
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 评析 Auld and Morris (2023) 采用神学与哲学透镜解构巴伯“交付学”全球教育改革，批判其将国家机器降格为指标管理附属品及挤压教育本真伦理的机制。
+> - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 揭示英国 [[Education Endowment Foundation\|EEF]] 的创设深植于前麦肯锡掌门人巴伯的全球咨询网络，并剖析跨国商业咨询网络如何协同[[Venture Philanthropy\|风险慈善]]渗透公立教育治理。
+> - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 剖析前麦肯锡全球总裁巴伯的理念如何影响英国教育大臣[[Michael Gove\|戈夫]]在 2010 年白皮书中规划设立 EEF，追踪跨国因果证据中介的[[Policy Network\|政策网络]]源头。
+> - [[Argument_Ball_2008_SR\|Ball (2008)]] — 追踪新工党教育政策演进，记录巴伯领导学校标准与效能组标志着[[School Effectiveness\|学校效能]]语言正式进入英国国家政策机器的历史过程。
+> - [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] — 诊断新西兰与全球教育改革中的[[Policy Entrepreneur\|政策企业家]]现象，剖析巴伯如何无缝穿梭于公共福利、非营利组织与跨国营利咨询公司之间。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
@@ -185,12 +194,3 @@ updated: 2026-11-11
 > | [[Social Impact Investing]] | 概念 | 巴伯在培生时期推动 PALF 基金在发展中国家投资低收费私校的核心道德修辞与运作机制。 |
 > | [[Paul Morris]] | 人物 | 批判比较教育学者，深入剖析巴伯交付学[[Discourse\|话语]]背后的政治神学修辞与绩效霸权。 |
 > | [[Michael Gove]] | 人物 | 英国前教育大臣，依据巴伯的咨询理念在白皮书中规划创设 EEF。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 评析 Auld and Morris (2023) 采用神学与哲学透镜解构巴伯“交付学”全球教育改革，批判其将国家机器降格为指标管理附属品及挤压教育本真伦理的机制。
-> - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 揭示英国 [[Education Endowment Foundation\|EEF]] 的创设深植于前麦肯锡掌门人巴伯的全球咨询网络，并剖析跨国商业咨询网络如何协同[[Venture Philanthropy\|风险慈善]]渗透公立教育治理。
-> - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 剖析前麦肯锡全球总裁巴伯的理念如何影响英国教育大臣[[Michael Gove\|戈夫]]在 2010 年白皮书中规划设立 EEF，追踪跨国因果证据中介的[[Policy Network\|政策网络]]源头。
-> - [[Argument_Ball_2008_SR\|Ball (2008)]] — 追踪新工党教育政策演进，记录巴伯领导学校标准与效能组标志着[[School Effectiveness\|学校效能]]语言正式进入英国国家政策机器的历史过程。
-> - [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] — 诊断新西兰与全球教育改革中的[[Policy Entrepreneur\|政策企业家]]现象，剖析巴伯如何无缝穿梭于公共福利、非营利组织与跨国营利咨询公司之间。

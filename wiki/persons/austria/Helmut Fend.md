@@ -86,6 +86,11 @@ updated: 2026-10-22
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 依据芬德的多层级治理因果链与[[Recontextualization|再情境化]]理论，推导校长作为制度[[Gatekeepers\|把关人]]对循证改革的微观转译机制。
+
+---
+
 > [!entry-map] 关键理论与学术贡献
 >
 > | 贡献构件 | 理论内涵与机制 | 关联条目 |
@@ -94,8 +99,3 @@ updated: 2026-10-22
 > | **教育[[Recontextualization\|再情境化]]理论** | 宏观政策仅提供制度结构，必须经由学校组织行动者的认知过滤与日常实践转译方能落地。 | [[Recontextualization]], [[Transfer Translation Transformation]] |
 > | **五级多层因果链条** | 治理工具 $\rightarrow$ 校长领导 $\rightarrow$ 课堂教学 $\rightarrow$ 学习过程 $\rightarrow$ 学业成就；各层级高度松散耦合，解释了宏观改革难以直接撬动终端学业增益的远端衰减机制。 | [[Academic Achievement]], [[Educational Governance Framework]] |
 > | **单校自主发展[[Paradigm\|范式]]** | 提出单校是具有自身[[Organizational Culture\|组织文化]]和变革能力的相对自治单元，催生 1990 年代欧洲[[School Autonomy\|学校自主权]]改革。 | [[School Autonomy]], [[Evidence-Based School Development]] |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 依据芬德的多层级治理因果链与[[Recontextualization|再情境化]]理论，推导校长作为制度[[Gatekeepers\|把关人]]对循证改革的微观转译机制。

@@ -24,8 +24,8 @@ tags:
   - theme/power-knowledge
 related_concepts:
   - "[[Knowledge Production]]"
-  - "[[Paradigm]]"
   - "[[Discourse]]"
+  - "[[Paradigm]]"
   - "[[Print-Capitalism]]"
 related_theories:
   - "[[Orientalism]]"
@@ -33,8 +33,8 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Pankaj Mishra]]"
   - "[[Benedict Anderson]]"
+  - "[[Pankaj Mishra]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
 related_facts: []
@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-12
+updated: 2026-11-15
 ---
 
 ---
@@ -98,7 +98,6 @@ updated: 2026-11-12
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp & Zamiska (2025)]] — 梳理萨义德《东方主义》对西方身份认同与知识生产权力共谋机制的奠基性揭示，并反思后殖民话语过度泛化引发的身份政治困境（pp. 90–93）。
-> - [[Argument_Anderson_2016_Verso_Ch05|Anderson (2016)]] — 引述萨义德关于现代语文学将语言确立为人类自主符号领域的论断，阐明圣语权威消解如何为欧洲本土白话方言平权奠定基础（p. 73）。
 
 ---
 

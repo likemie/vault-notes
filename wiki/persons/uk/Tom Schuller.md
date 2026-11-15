@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -87,9 +87,6 @@ updated: 2026-10-30
 > - **理论路径** 将[[Lifelong Learning\|终身学习]]的广谱视野与中介机构的机构生态学分析相结合，使教育[[Epistemic Governance\|知识治理]]的讨论超越单一学段与单一国别局限，推动跨生命周期、跨制度语境的比较研究框架。
 > - **政策路径** 通过 [[Centre for Educational Research and Innovation\|OECD CERI]] 报告与学术出版，为英国及欧洲教育政策界在"后真相时代"重新审视中介机构的制度定位与资助机制提供了重要理论依据。
 > - **跨国传播** 2007 年首次系统性梳理全球[[Educational Brokerage Agency\|教育中介机构]]的研究，直接影响了 2010 年代[[EU|欧盟]] EIPEE/[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 跨国网络的建立以及多国政府对中介机构治理模式的反思。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 与 Burns 共同论证了全球教育中介机构在后真相时代的三重变迁与存续危机，以及建构跨国[[Cumulative Knowledge Base\|累积性知识库]]的系统行动路径。
 
 ---
 

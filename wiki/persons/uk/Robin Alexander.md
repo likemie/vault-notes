@@ -118,6 +118,11 @@ updated: 2026-11-11
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 权威评述亚历山大倡导的比较教学论在英国比较教育抵御经济主义短视中的里程碑意义。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
@@ -133,8 +138,3 @@ updated: 2026-11-11
 > | [[Michael Sadler\|迈克尔·萨德勒]] | 人物 | 英国比较教育思想先驱，其文化情境与活体有机体观构成了亚历山大理论的精神底座。 |
 > | [[Patricia Broadfoot\|帕特丽夏·布罗德富特]] | 人物 | 英国学派长期核心合作学者，联合开辟初等教育课堂比较跨国网络。 |
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 在学科史反思中将亚历山大的比较教学论定性为英国比较教育抵御美国机械[[Positivism\|实证主义]]的杰出代表。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 权威评述亚历山大倡导的比较教学论在英国比较教育抵御经济主义短视中的里程碑意义。

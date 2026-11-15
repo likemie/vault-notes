@@ -117,12 +117,14 @@ updated: 2026-10-30
 > [!warning] 史料位置
 > 人物形象主要来自同事和运动参与者亚历克·彼特森（[[Alec Peterson]]）的回忆，并包含作者对菲利普·齐格勒传记的转述。材料详细呈现组织者眼中的工作方式和贡献，却不能单独代表各国委员会、政府、学校员工或学生对蒙巴顿的评价。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 104–130)]]
 
+> [!evidence-grid] [[Document|文献]]与论证索引
+> - [[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, pp. 104–130)]] — 记录蒙巴顿的国际组织、政治动员、筹款及成员扩展工作。
+> - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 209–214, 216–217)]] — 将扩展放在和平目标、财政承诺与政府责任中讨论，并区分制度贡献与宏观效果宣称。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[United World Colleges]] | 组织 | 蒙巴顿最主要的教育组织工作载体。 |
-
-> [!evidence-grid] [[Document|文献]]与论证索引
-> - [[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, pp. 104–130)]] — 记录蒙巴顿的国际组织、政治动员、筹款及成员扩展工作。
-> - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 209–214, 216–217)]] — 将扩展放在和平目标、财政承诺与政府责任中讨论，并区分制度贡献与宏观效果宣称。

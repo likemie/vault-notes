@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -121,7 +121,6 @@ updated: 2026-10-22
 > - **跨学科辐射** 其资本主义危机与去组织化理论在社会学、批判法学与国际政治经济学（[[Implementation and Process Evaluation|IPE]]）中引发跨学科论战。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 施特雷克与希伦开创渐进变迁形态学，系统界定置换、层叠、漂移、转换与耗竭五大机制，提出以“规则设计与践行脱节”为核心的内生变迁动力学（pp. 1–39）。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 明确继承施特雷克与希伦（2005）的渐进变迁形态学，作为全书[[Causal Modeling|因果建模]]的分类学基石（pp. xii, 15, 17, 30）。
 
 ---

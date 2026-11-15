@@ -26,7 +26,6 @@ related_concepts:
   - "[[Big Idea Famine]]"
   - "[[Innovation Desert]]"
   - "[[Big Science]]"
-  - "[[Consumer Internet]]"
 related_methods:
   - "[[Fieldwork]]"
 related_persons:
@@ -38,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -130,8 +129,3 @@ updated: 2026-10-22
 > | [[Nicholas Negroponte\|尼古拉斯·尼葛洛庞帝]] | 人物 | 与格雷伯共同批判消费互联网对重[[Big Science\|大科学工程]]抱负的取代。 |
 
 ---
-
-> [!evidence-grid] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引格雷伯关于互联网沦为图书馆与邮购目录的反思，批评科技界回避物理工程（Ch. 4）；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Ch. 9]] 借“飞行汽车去哪了”批判[[Consumer Internet|消费互联网]]挤出硬核创新。
-
-

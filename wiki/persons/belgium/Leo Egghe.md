@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -84,9 +84,6 @@ updated: 2026-11-11
 > - **理论路径** 推进了[[Lotka's Law|洛特卡定律]]与[[Price's Law|普赖斯定律]]在微观个体产出评价中的数理统一，奠定了信息生产过程（IPP）的公理化基础。
 > - **方法路径** 提出的 $g$ 指数被主流学术数据库（如 [[Web of Science]]、[[Scopus]]、Publish or Perish）集成采纳，成为与 $h$ 指数并驾齐驱的标准评估工具。
 > - **学术建制** 创办 *Journal of Informetrics*，为全球科学学、图情学与计量政策研究确立了高水平交流平台。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 将 Egghe (2006) 的 $g$ 指数作为修正 $h$ 指数漠视超高被引成果的代表性方法成果。
 
 ---
 

@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-11-03"
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -110,7 +110,6 @@ updated: 2026-11-11
 > - **制度运动路径** 领导学术出版界编委集体独立运动与开放引文运动，促成包括各大国际学术出版社在内的海量引文数据向公众免费开放。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 参与联合构建科学学宏观体系，整合科学计量学微观网络测度与科技政策设计。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 在专著中广泛吸纳沃尔特曼团队关于跨学科引文标度化、期刊影响因子结构性偏差及引文网络聚类算法的研究成果。
 
 ---

@@ -60,8 +60,6 @@ related_facts:
   - "[[Education in Europe]]"
   - "[[Bologna Process]]"
   - "[[PISA]]"
-  - "[[OECD]]"
-  - "[[European Commission]]"
   - "[[German Dual Education System]]"
 related_arguments:
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
@@ -71,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -139,8 +137,6 @@ updated: 2026-11-11
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 在[[Student Mobility|学生流动]]研究中引用其[[European Education Space|欧洲教育空间]]理论，指出[[EU|欧盟]]政策[[Discourse|话语]]借用古典人文游学修辞，将跨国流动神圣化为欧洲公民美德，掩盖了全球资本对灵活劳动力的诉求。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 在[[Pluri-Scalar Governance|多标度教育治理]]研究中引用其理论，剖析欧盟在《马斯特里赫特条约》[[Subsidiarity Principle|辅助性原则]]制约下，如何借助最佳实践修辞、量化指标基准线与[[Bologna Process|博洛尼亚进程]]三大软治理机制渗透成员国教育政策。
-> - [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 24–25, 34–35)]] — 援引诺沃亚关于“比较已转变为一种治理政策”的理论洞见，揭示[[OECD|经合组织]]与[[European Commission|欧盟委员会]]如何依托跨国指标与数据网络，在维持法律辅助性原则的同时制作欧洲教育空间并推动各国内部政策趋同。
-> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 援引诺瓦与雅里夫-马沙尔（Nóvoa & Yariv-Mashal, 2003）论断，揭示持续收集数据以反映公众舆论催生了制造永久自我辩护的应急治理体系，加剧了教育决策的短视与政治化（p. 248）。
 
 ---
 

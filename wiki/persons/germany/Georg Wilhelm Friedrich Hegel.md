@@ -54,11 +54,10 @@ related_facts: []
 related_arguments:
   - "[[Argument_Cole_2005_JRIE]]"
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
-  - "[[Argument_Larsen_2019_EducSci]]"
 confidence: high
 status: active
 created: 2026-08-12
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -115,8 +114,6 @@ updated: 2026-11-14
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cole_2005_JRIE|Cole (2005)]] — 批判主导当代国际课程的“黑格尔式教化”，指责其以理性规训压抑主观情感，将学习还原为服务于市场与国家契约的工具性阶梯。
-> - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 将黑格尔列入德意志教化（[[Bildung]]）与存在[[Ontology|本体论]]哲学谱系，以此阐明教育实践对实证主义量化可见[[Paradigm|范式]]的超越性意义。
-> - [[Argument_Anderson_2016_Verso_Ch02|Anderson (2016)]] — 引述其关于“读报作为现代世俗晨祷”的著名类比，阐明大众传媒仪式如何在均质空的、时间内支撑起世俗的民族想象。
 
 ---
 

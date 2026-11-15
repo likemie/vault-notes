@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-02
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -84,6 +84,7 @@ updated: 2026-11-11
 > - **2010 — *Limits of predictability in human mobility*（《科学》）** 结合信息论熵与随机游走模型，确立人类空间轨迹具备高达 93% 的潜在预测精度上限。
 > - **2012 — *Publishing: Handful of papers dominates citation*（《自然》）** 分析全量文献计量时序，量化揭示宏观学术系统的寡头被引集中结构。
 > - **2013 — *Quantifying long-term scientific impact*（《科学》）** 与王大顺、巴拉巴西联合提出 WSB 模型，求得微观引文主方程封闭解析解与终极影响力解。[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|(Wang & Barabási, 2021, pp. 210–213)]]
+> - **2018 — [[Argument_Liu_2018_Nature|Liu et al. (2018)]]** 合作推导[[Hot-Streak Model|学术爆发期模型]]与引文动力学的联合解析解，求解科学家全生涯累积引文总量的闭式表达式。
 
 ---
 
@@ -98,7 +99,6 @@ updated: 2026-11-11
 > - **跨领域传播** 其在分形网络与人类移动动力学方面的奠基成果，被广泛迁移至城市规划、流行病传播建模及位置服务大数据挖掘领域。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 合作推导[[Hot-Streak Model|学术爆发期模型]]与引文动力学的联合解析解，求解科学家全生涯累积引文总量的闭式表达式。
 > - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 在专著第 20 章（[[Argument_Wang_Barabasi_2021_Cambridge_Unit09|Unit 09]]，pp. 209–219）以王大顺、宋超明与巴拉巴西（Wang et al., 2013）的 WSB 模型为核心支柱，系统推导累积被引解析解与期刊脱钩法则。
 
 ---

@@ -50,17 +50,17 @@ related_persons:
 related_facts:
   - "[[PISA]]"
   - "[[Institute for Educational Quality Improvement]]"
+  - "[[Early Warning Indicator System]]"
   - "[[Massachusetts Department of Elementary and Secondary Education]]"
   - "[[Institute for Educational Monitoring and Quality Improvement]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
-  - "[[Early Warning Indicator System]]"
 related_arguments:
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
   - "[[Argument_Hartong_2018_GSE]]"
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -119,10 +119,6 @@ updated: 2026-11-02
 > - **理论路径** 将[[Science and Technology Studies\|科学技术研究]]（STS）与批判性数据研究有效嫁接至教育治理研究，打破了长期以来将量化监测技术仅仅视为中立工具的[[Positivism\|实证主义]]局限，丰富了[[Data Infrastructure\|数据基础设施]]与[[Technical Rationality\|技术理性]]的社会学批判维度。
 > - **方法路径** 倡导深度结合组织架构分析、技术白皮书挖掘与多业务线半结构化[[Expert Interview\|专家访谈]]的质性经验进路，为研究复杂数字[[Bureaucracy|官僚制]]提供了极具启发性的做数据张力分析工具与可视化模型。
 > - **政策路径** 其实证研究成果向德国及欧洲教育行政决策者清晰揭示了高利害数据问责引发的防御性造假与信任侵蚀，为德国各州坚守低利害诊断问责、抵制粗暴学校排名榜提供了重要学术论证支撑。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 结合[[Topological Spatialisation\|拓扑空间化]]与[[Assemblage|装配理论]]，深入考察德国 [[PISA]] 震荡后 [[Institute for Educational Quality Improvement\|IQB]] 作为国家[[Center of Calculation\|计算中心]]与跨州绩效数据基础设施的演进历程。
-> - [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]] — 跨国比较美德两地州级教育行政机关，系统解构学校数据监测技术黑箱并提出做数据张力框架。
 
 ---
 

@@ -40,7 +40,6 @@ related_concepts:
   - "[[Developmentalism]]"
   - "[[Theoretical Standpoint]]"
   - "[[Epistemology]]"
-  - "[[Document]]"
 related_theories:
   - "[[Governmentality]]"
   - "[[Critical Theory]]"
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -134,6 +133,3 @@ updated: 2026-11-02
 > | [[Pluralism]] | 理论 | 斯科特竭力捍卫的反对国家一统化控制的多元性与情境多样性。 |
 
 ---
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 显式援引斯科特著作论证瑞典学校督导简化科学研究的实证[[Document|文献]]。

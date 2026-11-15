@@ -8,7 +8,7 @@ summary: "计算社会科学家与科学学青年学者，宾夕法尼亚州立�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 18
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Creativity]]"
   - "[[Emergence]]"
-  - "[[Construct]]"
 related_theories:
   - "[[Random Impact Rule]]"
   - "[[Hot-Streak Model]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-10-30"
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -94,9 +93,7 @@ updated: 2026-11-11
 > - **政策路径** 为科技人才长周期资助政策提供实证支撑，批判了刚性年龄门槛对晚发型人才造成的制度性挤出。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Liu_2018_Nature|Liu et al. (2018)]] — 领衔在《自然》发表学术爆发期奠基成果，证实代表作时序成簇规律并构建二状态动力学模型。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang & Barabási (2021)]] — 在第 7 章以刘路的奠基研究为核心证据，系统展开关于学术爆发期特征、微观机制与基金资助反思的完整论述。
-> - [[Argument_Liu_2023_NHB|Liu et al. (2023)]] — 领衔构建科学学多源数据、测量[[Construct|构念]]与实证方法全景体系，系统整合机制建模、机器学习预测与准实验因果评估。
 
 ---
 

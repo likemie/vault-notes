@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -108,6 +108,3 @@ updated: 2026-11-02
 > | [[System Development Corporation]] | Fact | 施尼记录其为全美培养数千名最早程序员的软件工程历史机构。 |
 
 ---
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Schnee_1978_RP|Schnee, 1978]] — 施尼发表于《Research Policy》关于高技术产业成长的里程碑代表作。

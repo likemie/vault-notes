@@ -54,16 +54,6 @@ updated: 2026-10-22
 
 ---
 
-> [!entry-map] 条目关联
->
-> | 条目 | 类型 | 贡献 |
-> |:-----|:-----|:-----|
-> | [[Action Research]] | 方法 | 与 McTaggart 提出全纳定义（1988）和 17 条核心原则（1992），将行动研究定义为"集体性自我反思探究"；细化勒温的螺旋模型为可操作性步骤（1981） |
-> | [[Participatory Action Research]] | 方法 | 将行动研究追溯至勒温对群体决策的承诺，论证合作性与批判动力不可分割（1992） |
-> | [[Critical Theory]] | 理论 | 与 Carr（1986）将哈贝马斯的知识构成性兴趣和[[Ideal Speech Situation\|理想言说情境]]系统应用于行动研究 |
-
----
-
 > [!claim] [[Action Research\|行动研究]]本质上是集体性批判实践
 > Kemmis 的核心主张贯穿三阶段：首先，行动研究不能退化为个体主义——合作性是批判动力的[[Necessary and Sufficient Conditions\|必要条件]]（Kemmis & McTaggart, 1992, p. 15）；其次，行动研究不仅是实践改进，更是对制度性约束的批判分析，旨在改变学校和社会结构（Kemmis, 1997, p. 177）；第三，行动研究存在多个学派，从"[[Reflexivity\|反思性]]实践"（Elliott, Schön）到"[[Emancipatory Action Research\|批判性行动研究]]"（Carr & Kemmis, 1986），两者在"赋权"的含义上有根本分歧——前者指向专业自主，后者指向社会民主。
 
@@ -80,3 +70,13 @@ updated: 2026-10-22
 > - **思想渊源** [[Jürgen Habermas]] — 知识构成性兴趣（1972）和[[Ideal Speech Situation\|理想言说情境]]为其[[Emancipatory Action Research\|批判性行动研究]]提供[[Epistemology\|认识论]]框架
 > - **思想渊源** [[Kurt Lewin]] — 其计划—行动—观察—反思螺旋模型是 Kemmis 程序化操作模型的直接源头
 > - **对话/对立** John Elliott — Elliott 属于[[Reflexivity\|反思性]]实践传统，Kemmis 属于批判性行动研究传统，两者构成行动研究内部的核心张力（Kemmis, 1997, p. 177）
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Action Research]] | 方法 | 与 McTaggart 提出全纳定义（1988）和 17 条核心原则（1992），将行动研究定义为"集体性自我反思探究"；细化勒温的螺旋模型为可操作性步骤（1981） |
+> | [[Participatory Action Research]] | 方法 | 将行动研究追溯至勒温对群体决策的承诺，论证合作性与批判动力不可分割（1992） |
+> | [[Critical Theory]] | 理论 | 与 Carr（1986）将哈贝马斯的知识构成性兴趣和[[Ideal Speech Situation\|理想言说情境]]系统应用于行动研究 |

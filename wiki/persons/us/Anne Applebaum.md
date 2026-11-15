@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -124,8 +124,3 @@ updated: 2026-10-22
 > | [[Moral Dualism\|道德二元论]] | 概念 | 阿普尔鲍姆对威权本质的剖析与对防卫责任的强调有助于破除逃避现实的道德二元论。 |
 
 ---
-
-> [!evidence-grid] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引[[Michael W. Apple|阿普尔]]鲍姆关于“不存在自然的自由主义世界秩序”与“无执行力即无规则”的深刻警示，论证[[Technological Republic|技术共和国]]重筑[[Hard Power|硬实力]]防卫底座的不可替代性。
-
-

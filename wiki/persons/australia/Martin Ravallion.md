@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-23
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 # Martin Ravallion
@@ -141,6 +141,3 @@ updated: 2026-11-11
 > | [[World Bank]] | 机构事实 | 拉瓦利安开展学术研究并奠定其国际学术权威的母体平台。 |
 
 ---
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 深度引用 Ravallion and Wagstaff (2012) 统计，论证世行累积 1.9 万份出版物与超越名校 3 倍的发表规模（pp. 5–6）。

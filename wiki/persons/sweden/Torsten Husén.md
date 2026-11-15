@@ -153,6 +153,12 @@ updated: 2026-11-10
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 将胡森的教育改革复杂性原则定位为全系统变革文化制度取向的核心代表，对抗理性选择与新公共管理的简单激励控制假设（pp. 484–485）。
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 评述胡森实证调查对南北欧的开拓推动，以及 IEA 脱离传统教席的自主路径。
+
+---
+
 > [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
@@ -162,9 +168,3 @@ updated: 2026-11-10
 > | [[Social Science as Legitimation Alibi]] | 概念 | 揭示实证科学作为政策借口在面对社会现实矛盾时的公信力崩溃。 |
 > | [[Scientific Paradigm]] | 概念 | 亲历战后实证科学范式的高峰，晚年提供制度反思与哲学清算。 |
 > | [[Wolfgang Mitter]] | 人物 | 在学科史中系统定位胡森跨国实证测量对欧洲多国的辐射与边缘性独立建制。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 将胡森的教育改革复杂性原则定位为全系统变革文化制度取向的核心代表，对抗理性选择与新公共管理的简单激励控制假设（pp. 484–485）。
-> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 评述胡森实证调查对南北欧的开拓推动，以及 IEA 脱离传统教席的自主路径。

@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -100,7 +100,3 @@ updated: 2026-10-22
 > - **政策与方法路径** 警示教育决策部门防范将可见学习或清算所排行榜物化为行政考核工具的危害，有力捍卫了教师在复杂课堂中的专业自主裁决权。
 
 ---
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 针对《[[Visible Learning|可见的学习]]》展开长篇学术书评，提出双重困境并解构[[Meta-meta-analysis|二阶元分析]]圣杯神话。
-> - [[Argument_Terhart_2014_Kallmeyer|Terhart (2014)]] — 系统阐明普通教学论框架下的课堂授课逻辑与实践专业智慧。

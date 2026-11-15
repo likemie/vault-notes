@@ -55,7 +55,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -121,9 +121,6 @@ updated: 2026-11-11
 > - **联邦资助准则重构** 通过 [[Institute of Education Sciences\|IES]] 课题评审与资助合同的法定约束力，直接迫使全美教育因果研究界将构件拆解、成本效益核算与通用工具测量内化为研究规范。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 207–208)]]
 > - **技术生态与敏捷复现** 引入数字实验平台与竞争性奖项机制，改变了传统实地田野试验耗资千万、耗时数年且极难复现的沉重周期，开创了[[Evidence-Based Education\|循证教育]]科学的敏捷迭代机制。
 > - **政策转化与产业化机制** 联合斯坦福国际研究院（Stanford Research Institute, SRI International）将市场化规模化推广条款明确植入资助指南，打破教育科研唯论文发表即结项的象牙塔闭环。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 208)]]
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al., 2022]] — 施奈德系统总结执掌 IES 期间推行 SEER 卓越标准、成本分析服务台、EdInstruments 工具库与数字平台快速复现的实践战略。（pp. 206–209）
 
 ---
 

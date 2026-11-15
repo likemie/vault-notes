@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -102,9 +102,6 @@ updated: 2026-10-22
 > - **理论路径** 推动英国教育社会学从宏观[[Structural Functionalism|结构功能主义]]向微观[[Interpretivism|诠释主义]][[Paradigm\|范式]]转型，使[[Symbolic Interactionism\|符号互动论]]成为教育[[Qualitative Research\|质性研究]]的核心理论支柱。
 > - **方法路径** 确立[[Participant Observation\|参与观察]]、[[Rich and Thick Description\|深描]]与生活史叙事在教育研究中的合法性，打破[[Flanders Interaction Analysis Categories\|弗兰德斯互动分析系统]]（FIAC）等量化行为编码系统的垄断。
 > - **实践路径** 启迪教师理解学生“无聊”、“打趣”与“胡闹”背后的心理动机与生存诉求，为民主化[[Classroom Management\|课堂管理]]与师生沟通提供反思视角。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]] — 引用伍兹阐发的符号互动论三大公设、课堂微观生存策略与以互动为单位的方法论纲领。
 
 ---
 

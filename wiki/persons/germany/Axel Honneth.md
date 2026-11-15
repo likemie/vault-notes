@@ -132,6 +132,11 @@ updated: 2026-11-11
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 直接引述霍耐特著作（1996, 2008），以承认理论为武器反思当代实证教育的数据失真与异化本质。
+
+---
+
 > [!entry-map] 人物与理论思想网络关联
 > | 关联对象 | 关系性质 | 核心说明 |
 > |---|---|---|
@@ -140,8 +145,3 @@ updated: 2026-11-11
 > | [[Jürgen Habermas\|尤尔根·哈贝马斯]] | 导师与思想源流 | 继承其交往行为理论，同时克服其形式主义言说商谈局限，推进至实质承认。 |
 > | [[Technical Rationality\|技术理性]] | 批判对立面 | 霍耐特的物化学说为批判舍恩界定的技术理性工程控制提供了深层存在论依据。 |
 > | [[Visible Learning\|可见的学习]] | 理论批判靶向 | 尼尔森等运用霍耐特理论解构可见学习对师生[[Intentionality\|主体意向性]]的剥夺与[[Neo-Taylorism\|新泰勒主义]][[Disciplina and Doctrina\|规训]]。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 直接引述霍耐特著作（1996, 2008），以承认理论为武器反思当代实证教育的数据失真与异化本质。

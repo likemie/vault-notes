@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -129,7 +129,6 @@ updated: 2026-11-11
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 借助简·奈特对[[Soft Power|软实力]]单向零和局限的批判，系统阐述知识外交立足互信互惠与多边合作以应对全球危机的理论主张。
 > - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] — 运用简·奈特的国际教育枢纽三级分类模型，系统解构全球[[Geopolitics of Knowledge|知识地缘政治]]格局下国家战略性知识空间的建构逻辑。
 > - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] — 运用简·奈特的国际教育枢纽模型开展跨国案例对比，同时批判其政策倡导导向在揭示深层[[Geopolitics|地缘政治]]后果方面的局限性。
-> - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 援引简·奈特关于知识村与教育枢纽的空间分析，论证全球化时代大学知识流动与国家地缘政治再领土化之间的结构性张力。
 > - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 运用简·奈特的国际教育枢纽三级演进模型（学生枢纽、人才枢纽与知识／创新枢纽），实证考察中国长三角、[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]与海南自贸港跨国教育枢纽的多轨空间模式与区域产业协同。
 
 ---

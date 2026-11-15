@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-15
 ---
 
 ---
@@ -90,11 +90,6 @@ updated: 2026-11-13
 > - **方法路径** 通过领导 CPRE 开创了大型跨州跨系统政策追踪与比较评估方法，建立了长期定点实证数据库。
 > - **政策路径** 其学术主张深度塑造了美国 1994 年《让美国学生成为优胜者法》（Goals 2000）与《不让一个孩子掉队法》（NCLB Act 2001）的政策设计逻辑。
 > - **跨国／跨领域传播** 政策连贯性与全系统课程治理框架被加拿大安大略省与澳大利亚维多利亚州等多国改革广泛借鉴。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 492, 495)]]
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 将 Fuhrman (1993) 作为奠定课程治理与政策对齐分析维度的经典源头引用。
 
 ---
 

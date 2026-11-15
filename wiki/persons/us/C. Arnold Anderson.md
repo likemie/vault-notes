@@ -37,7 +37,6 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Technical Rationality]]"
   - "[[Scientific Paradigm]]"
-  - "[[Professional Interest]]"
 related_theories:
   - "[[Structural Functionalism]]"
   - "[[Human Capital Theory]]"
@@ -64,7 +63,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -227,8 +226,3 @@ updated: 2026-11-11
 > | [[Comparative Education Center at Chicago 1958\|芝加哥大学比较教育中心]] | 事实 | 1958 年受聘出任该中心首任主任，将其建设为跨国量化与发展教育研究的世界枢纽。 |
 
 ---
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 详细考据比较教育第三代际芝加哥学派（Anderson & Foster）的结构功能分析，深入剖析其追求超越时空恒常规律的理论[[Professional Interest|志趣]]，并揭示其作为战后国家计划与技术援助[[Social Science as Legitimation Alibi|合法化借口]]的政治功能（pp. 146–147, 150–151）。
-> - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 详细评析安德森所代表的芝加哥[[Structural Functionalism|结构功能主义]]学派对恒常超越时空规律的追求及其方法论特征。
-> - [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 论述安德森作为战后早期社会学界代表，在将常规社会科学规范与严谨分析模式引入比较教育学中的奠基性历史地位。

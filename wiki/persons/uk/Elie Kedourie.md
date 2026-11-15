@@ -23,7 +23,6 @@ tags:
 related_concepts:
   - "[[Nationalism]]"
   - "[[Enlightenment]]"
-  - "[[Doctoral Dissertation]]"
 related_theories: []
 related_methods:
   - "[[Archival Research]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-14
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -102,9 +101,6 @@ updated: 2026-11-14
 > - **理论路径** 奠定了现代民族主义思想史研究的发端。其关于“民族主义是后天观念发明”的论断，深刻启发了盖尔纳与霍布斯鲍姆等现代主义学者的建构性研究，尽管后者转向了社会功能与唯物主义解释。
 > - **思想史与中东研究** 确立了中东史学界的保守主义与修正主义视角，打破了阿拉伯民族解放官方叙事对泛阿拉伯主义的神话崇拜。
 > - **跨国接受与理论对照** 其观点构成了[[Benedict Anderson|本尼迪克特·安德森]]（[[Benedict Anderson]]）分析现代建构过程的关键论辩参照。安德森指出凯杜里等保守学派对联合王国的深厚依恋，掩盖了大英帝国本身作为前资产阶级君主实体的历史局限。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch11|Anderson (2016)]] — 在后记中将凯杜里与盖尔纳、霍布斯鲍姆、史密斯列为英国民族主义研究奠基学者，剖析其保守立场与理论贡献。
 
 ---
 

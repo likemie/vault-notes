@@ -33,7 +33,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Critical Thinking]]"
   - "[[Mind and Its Wonders]]"
-  - "[[Falsification]]"
   - "[[Creativity]]"
   - "[[Empiricism]]"
   - "[[Reliability]]"
@@ -46,6 +45,7 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[René Descartes]]"
   - "[[Jin Li]]"
   - "[[Socrates]]"
   - "[[Plato]]"
@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -114,8 +114,6 @@ updated: 2026-11-14
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 梳理苏格拉底—柏拉图回忆说到笛卡尔我思的先天论演进，将笛卡尔怀疑定位为西方心智及其惊奇学习传统的哲学顶峰（p. 28）。
-> - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 在科学教育论辩教学中引入纽拉特对笛卡尔基础主义的海上修船批判，作为替代简单[[Falsification|证伪主义]]的方法论反思资源（pp. 183–184）。
-> - [[Argument_Anderson_2016_Verso_Ch02|Anderson (2016)]] — 引述笛卡尔书信中拉丁文使用习惯作为历史表征，佐证17世纪欧洲跨国学者通用语衰落与方言化兴起的历史断裂（pp. 18–19）。
 
 ---
 

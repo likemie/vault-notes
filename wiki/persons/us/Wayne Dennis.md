@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-30"
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -85,9 +85,6 @@ updated: 2026-11-14
 > - **理论路径** 成为[[Lotka's Law|洛特卡定律]]在精英学者群体中的实证呼应，直接启发了后世关于学术终身教职、科研资助分配与学者年龄生产力倒 U 型曲线的长期讨论。
 > - **方法路径** 开创了利用传记辞书、百科全书历史记录与完整文献计量清单综合评价学者职业生涯的[[Longitudinal Study|纵向研究]]方法。
 > - **政策路径** 为[[Research Universities|研究型大学]]遴选终身教授与资深讲席提供了以长期持续产出为重要维度的考评依据。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 将 Dennis (1954) 作为引证学术高生产力与科学家显赫地位长期正相关的权威历史证据。
 
 ---
 

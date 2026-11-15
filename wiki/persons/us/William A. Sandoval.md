@@ -39,7 +39,6 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Student Engagement]]"
   - "[[Paradigm]]"
-  - "[[Epistemological Theories]]"
 related_theories:
   - "[[CER Framework]]"
 related_methods:
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-11-02
+updated: 2026-11-15
 ---
 
 ---
@@ -123,6 +122,11 @@ updated: 2026-11-02
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Han_Gutierez_2026_IJSE|Han and Gutierez (2026)]] — 韩与古铁雷斯直接继承了桑多瓦尔的四项科学解释标准作为人机审验的双轨支架之一。
+
+---
+
 > [!entry-map] 相关概念与理论关系
 > | 关联条目 | 关系类型 | 关联说明 |
 > |---|---|---|
@@ -130,9 +134,3 @@ updated: 2026-11-02
 > | [[Practical Epistemology\|实践认识论]] | 理论建构 | 系统阐明实践[[Epistemology\|认识论]]与[[Formal Epistemology\|形式认识论]]的区别，确立探究行动中的认识论[[Paradigm\|研究范式]]。 |
 > | [[Epistemic Practices\|认识论实践]] | 实践扩展 | 桑多瓦尔的研究为课堂[[Discourse\|话语]]中认识论实践的观察与编码提供了核心分析工具。 |
 > | [[Epistemic Scaffolding\|认识论支架]] | 教学干预 | 开创了基于软件与评价标准的认识论[[Scaffolding\|脚手架]]设计。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Sandoval_2005_SE|Sandoval (2005)]] — 桑多瓦尔实践[[Epistemological Theories|认识论理论]]的代表性论证卡。
-> - [[Argument_Han_Gutierez_2026_IJSE|Han and Gutierez (2026)]] — 韩与古铁雷斯直接继承了桑多瓦尔的四项科学解释标准作为人机审验的双轨支架之一。

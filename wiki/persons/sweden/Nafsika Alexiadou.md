@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-28
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -108,6 +108,3 @@ updated: 2026-11-11
 > - **理论路径** 拓展了[[Discursive Institutionalism|话语制度主义]]在比较教育学中的实证应用，将抽象的“理念权力”概念[[Operationalization|操作化]]为可落地的政策博弈[[Analytic Framework|分析框架]]。
 > - **方法路径** 规范了针对超国家高级技术官僚与外交代表的[[Elite Interview|精英访谈]]规程，示范了如何将受访者话语表述与多源官方机密或非正式文本进行[[Triangulation|三角互证]]。
 > - **政策治理路径** 研究结论深刻揭示了欧洲教育区建设中的结构性困境，为理解主权国家在软法治理中如何运用程序规则维护政策自主权提供了清晰坐标。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 运用话语制度主义与理念权力框架解构面向 2030 年欧洲教育区的政策协商过程与科层张力。

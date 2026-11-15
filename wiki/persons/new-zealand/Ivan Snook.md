@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-17
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -92,6 +92,7 @@ updated: 2026-11-11
 > - **1989 — *More Than Talk: Moral Education in New Zealand*** 探讨世俗多元公立学校中品德与公民教育的实践路径。
 > - **1999 — *The Marketisation of Education: A Cultural Critique*** 深刻剖析新西兰新右派市场化改革对社会阶层公平与公立教育生态的侵蚀。
 > - **2009 — *Invisible Learnings? A Commentary on [[John Hattie]]'s book [[Visible Learning]]*** 作为第一作者，系统审视哈蒂[[Meta-meta-analysis|二阶元分析]]的底层质控缺失、0.40 截断值武断性及排斥社会背景的政策危害。[[Argument_Snook_2009_NZJES|(Snook et al., 2009)]]
+> - **2010 — [[Argument_Snook_2010_NZJES|Snook et al. (2010)]]** 针对哈蒂的回应进一步深化批判，重申统计平均数不可替代对社会不平等根源的政策正视。
 
 ---
 
@@ -107,10 +108,6 @@ updated: 2026-11-11
 > - **理论路径** 奠定了当代分析教育哲学关于“灌输”、“自主性”与“教导伦理”的标准分析工具，影响[[Transnational Education|跨国教育]]伦理学界数十年。
 > - **方法路径** 与新西兰批判学者团队共同构筑了针对“超级[[Meta-analysis|元分析]]”与宏观循证狂热的方法学质询[[Paradigm|范式]]，推动学界对[[Research Synthesis|研究综合]]准入标准（[[PRISMA]]/RoB）与底层效度检验的重视。
 > - **政策路径** 成为新西兰战后公立教育体系的最坚定[[Gatekeepers|守门人]]，其学术成果为教师工会、进步校长协会及公共教育倡导者抵制[[School Vouchers|教育券]]、恶性[[Performance Pay|绩效工资]]及盲目合班提供了扎实的学理弹药。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 领衔新西兰学者团队对[[John Hattie|哈蒂]][[Meta-meta-analysis|二阶元分析]]开展首个系统性学术审查，奠定国际批评基调。
-> - [[Argument_Snook_2010_NZJES|Snook et al. (2010)]] — 针对哈蒂的回应进一步深化批判，重申统计平均数不可替代对社会不平等根源的政策正视。
 
 ---
 

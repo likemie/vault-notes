@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-22
+updated: 2026-11-15
 ---
 
 ---
@@ -114,9 +114,6 @@ updated: 2026-10-22
 > - **理论路径** 推进了教师教育政治学与新制度主义政策分析的交叉融合，深化了学界对教育[[Output-Oriented Governance\|循证治理]]异化机制的认知。
 > - **政策路径** 主导的 [[British Educational Research Association\|BERA]]-RSA 调查结论被英国议会委员会及工党、保守党政策顾问广泛引用；提出的临床实践理念直接影响了英国 2015 年《[[Carter Review of Initial Teacher Training\|卡特审查]]》等国家文件的起草。
 > - **跨国传播** 其教师教育模型在苏格兰、北爱尔兰、澳大利亚及欧洲大陆多国教师专业标准制定中产生广泛回响。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 结合英格兰 35 年历史与 20 位[[Elite Interview\|精英访谈]]，提出[[Evidence Era\|证据时代]]与[[Policy-Based Evidence-Making\|基于政策的证据制造]]概念框架。
 
 ---
 

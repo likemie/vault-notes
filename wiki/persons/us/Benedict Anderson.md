@@ -81,13 +81,12 @@ related_arguments:
   - "[[Argument_Anderson_2016_Verso_Ch01]]"
   - "[[Argument_Anderson_2016_Verso_Ch07]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
-  - "[[Argument_Anderson_2016_Verso]]"
   - "[[Argument_Xu_2024_CE]]"
   - "[[Argument_Anderson_2016_Verso_Ch02]]"
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -140,7 +139,6 @@ updated: 2026-11-14
 > - **历史记忆哲学与去欧洲中心化传播** 在第11章提出[[National Biography|民族传记]]与[[Reassurance of Fratricide|兄弟残杀的抚慰]]范畴，解构国家公立教育如何收编内战创伤；并在后记中以全球翻译与[[Positive Piracy|正向盗版]]机制，批判英[[Philosophical Aesthetics|美学]]术界的欧洲中心主义偏见。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, pp. 199–228)]]
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 《想象的共同体》界定民族为有限主权的想象共同体（Ch01），剖析教育与行政朝圣（Ch07）、爱国与种族主义（Ch08）、殖民三制度（Ch10）及记忆遗忘与兄弟残杀抚慰（Ch11）。
 > - [[Argument_Xu_2024_CE|Xu (2024)]] — 运用安德森想象共同体框架，实证解构中国大陆与香港初中历史教材中的领土与族群叙事。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 将安德森想象共同体与邓巴数结合，论述现代高科技攻坚的大规模协同基础及情感民族边界防卫。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 借用安德森想象共同体理论，剖析[[European Commission|欧盟委员会]]在马斯特里赫特条约危机下如何将教育作为建构“欧洲认同”的象征动员工具。（p. 482）

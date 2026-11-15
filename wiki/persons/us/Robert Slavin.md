@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 （罗伯特·斯拉文）
@@ -150,9 +150,6 @@ updated: 2026-11-14
 > - **实践路径** 创办的 [[Success for All]] 惠及全美百万计的贫困与弱势学生；创建的 [[Best Evidence Encyclopedia\|BEE]] 与 [[Evidence for ESSA]] 成为全[[Philosophical Aesthetics|美学]]区学监与校长采购教学方案的首选指南。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Slavin_2002_ER\|Slavin (2002)]] — 提出证据本位教育政策的核心纲领，论证开发-评估-推广[[Paradigm\|范式]]对克服教育研究声誉危机的根本意义。
-> - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 荣获桑代克奖后的总结性论著，系统梳理 [[Every Student Succeeds Act\|ESSA]] 时代[[Evidence-Based Reform\|证据本位改革]]的三条件机制。
-> - [[Argument_Slavin_2021_ECNUROE\|Slavin et al. (2021)]] — 针对中国学者对证据本位教育的质疑进行理论辨正，提出因果实证与质性理解相结合的开放态度。
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — 合作者[[Alan C. K. Cheung\|张志强]]等严格沿用 Slavin 的样本量（$n \ge 15$）与基线等效（$d < 0.25$）准入规程开展生成式 AI [[Meta-analysis\|元分析]]，证实了教育技术在剔除虚假高估后的真实基准效应。
 
 ---

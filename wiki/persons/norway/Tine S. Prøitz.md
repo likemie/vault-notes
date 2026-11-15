@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-30
+updated: 2026-11-15
 ---
 
 ---
@@ -130,9 +130,6 @@ updated: 2026-10-30
 > - **方法路径** 开发了针对国家级大规模实践伙伴关系的质性[[Discourse|话语]]追踪与组织机制测绘方法，为衡量跨界协作生态成熟度提供了[[Operationalization\|操作化]]准则。
 > - **政策路径** 评估直接影响了瑞典政府关于将 ULF 试点从过渡期正式转为国家永久性教育法制基础设施的重大决议。
 > - **跨国传播** 深刻影响了北欧及 [[OECD]] 国家在构建大学-中小学教师教育协同网络中的制度设计，成为反思实践科研异化的权威[[Document|文献]]。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — 详细记录了普勒茨基于瑞典 ULF 5 年实证追踪所提炼的六项结构性主张与第三空间理论模型。
 
 ---
 

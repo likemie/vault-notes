@@ -39,7 +39,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -83,9 +83,6 @@ updated: 2026-11-11
 > - **理论路径** 以心智理论框架解释自闭症认知特征，推动神经多样性在教育与临床领域的研究议程。
 > - **方法路径** RMET作为社会认知标准化测量工具，跨越临床心理学、组织行为学与团队科学；Woolley et al. (2010)将其引入集体智慧研究，揭示共情能力对群体协同效能的关键作用。
 > - **政策路径** 为自闭症诊断评估、[[Inclusive Education|融合教育]]政策与工作场所多元包容设计提供测量基础。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit05|Wang & Barabási (2021)]] — 引述巴伦-科恩开发的[[Reading the Mind in the Eyes Test|RMET]]在集体智慧控制实验中的应用，说明团队平均社会敏感度对 $c$ 因子的预测效力
 
 ---
 

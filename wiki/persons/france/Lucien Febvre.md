@@ -20,6 +20,7 @@ tags:
   - theme/annales-school
   - theme/book-history
 related_concepts:
+  - "[[Print-Capitalism]]"
   - "[[Truth-Language]]"
 related_theories:
   - "[[Imagined Community]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -75,9 +76,6 @@ updated: 2026-11-11
 > - **理论路径** 奠定出版文化史与物质文化史的研究范式，直接启迪了罗伯特·达恩顿（Robert Darnton）与罗歇·夏蒂埃（Roger Chartier）的阅读史与文化史研究。
 > - **方法路径** 结合生产统计、图书贸易档案与读者阶层结构的多维分析，确立了实证考察思想传播与文化制度的经典规范。
 > - **对民族主义研究的启发** 为安德森等学者提供了理解印刷资本主义、拉丁文衰退以及方言出版市场催生民族意识的坚实经验证据。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Anderson_2016_Verso_Ch02|Anderson (2016)]] — 引述费弗尔与马丁关于欧洲早期印刷出版量、巴黎图书市场方言化逆转及工业耐用品特性的经验统计，构建印刷资本主义与民族想象的发生模型（pp. 18–19, 33–35, 39–42）。
 
 ---
 

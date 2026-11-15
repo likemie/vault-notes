@@ -8,7 +8,7 @@ summary: "香港比较教育与高等教育学者，香港大学教育学院讲�
 type: person
 nationality: "china"
 person_region: "china"
-person_related_count: 34
+person_related_count: 33
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -45,7 +45,6 @@ related_theories:
   - "[[Educational Soft Power Framework]]"
   - "[[Wight's Three Traditions of International Theory]]"
   - "[[Tianxia Heuristic]]"
-  - "[[Neo-Tributary Perspective]]"
 related_persons:
   - "[[Roy Nash]]"
   - "[[Joseph S. Nye Jr.]]"
@@ -65,7 +64,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-26
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -79,18 +78,6 @@ updated: 2026-11-11
 > 在各级教育中，高等教育是国家投射软实力尤为关键且具影响力的战略途径。大学通过承担文化传播与政治价值承载功能，不仅能够有效塑造积极的国家形象，更能通过争取外国受众特别是未来青年与政商精英的心智认同，实现持久的文化亲和与国际公信力建设（Yang, 2007; [[Argument_Zhu_Yang_2023_HEP|引自 Zhu & Yang, 2023, pp. 637–638]]）。
 >
 > *Among different levels of education, higher education is a crucial and influential soft power instrument for its role as a carrier of cultural and political values and to project a state's soft power through 'winning hearts and minds' of foreign audiences, especially elites.*
-
----
-
-> [!entry-map] 条目关联
->
-> | 条目 | 类型 | 贡献 |
-> |:-----|:-----|:-----|
-> | [[Educational Soft Power Framework]] | Theory | 将沃伊丘克教育机制与霍利克模型整合，提出跨境高教[[Analytic Framework\|分析框架]]。 |
-> | [[Educational Soft Power]] | Concept | 开创性将软实力理论引入中国高等教育国际化研究（Yang, 2007）。 |
-> | [[Outward-Oriented Internationalization]] | Concept | 系统论证中国高教外向型拓展的四大实践形态与地缘功能。 |
-> | [[Soft Power]] | Concept | 批判西方零和对抗假设，主张引入和而不同等中华传统文明心智。
-> | 香港大学教育学院 | 组织 | 长期主持教研与领导学术团队的核心重镇。 |
 
 ---
 
@@ -134,10 +121,6 @@ updated: 2026-11-11
 > - **实证路径** 与朱克金等学者深耕东南亚跨境高教田野，通过多源[[Triangulation|三角互证]]构建了将微观留学生日常体验与宏观地缘战略对接的[[Qualitative Research|质性研究]]范例。
 > - **政策对话** 其关于大学模式、高校涉外质量保障以及防范“华夏中心主义戒心”的学术建言，对中国高水平大学[[International Branch Campus|境外办学]]与国际化发展战略产生了广泛影响。
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] — 结合沃伊丘克教育机制与霍利克模型，以中柬跨境高教拓展为质性案例，系统识别当代生活方式、科技突破、工科教育与发展模式四项新兴软实力资源。
-> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 引入[[Neo-Tributary Perspective|新朝贡视角]]解析东南亚跨境高教输出，剖析科技卓越展演与国家治理经验探索在微观学术机制中的制度张力。
-
 ---
 
 > [!person-network] 关系网络
@@ -158,3 +141,15 @@ updated: 2026-11-11
 
 > [!warning] 理论自述边界
 > 跨境高等教育拓展若过度依附于经贸基建[[Hard Power|硬实力]]与功利性经济刺激，容易在周边国家激起重构“华夏中心主义秩序”的戒心；唯有立足于对当地社会文化语境的深度尊重，提升微观课堂双向启发质量，才能培育持久的人文互信（[[Argument_Zhu_Yang_2023_HEP|Zhu & Yang, 2023, pp. 650–652]]）。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Educational Soft Power Framework]] | Theory | 将沃伊丘克教育机制与霍利克模型整合，提出跨境高教[[Analytic Framework\|分析框架]]。 |
+> | [[Educational Soft Power]] | Concept | 开创性将软实力理论引入中国高等教育国际化研究（Yang, 2007）。 |
+> | [[Outward-Oriented Internationalization]] | Concept | 系统论证中国高教外向型拓展的四大实践形态与地缘功能。 |
+> | [[Soft Power]] | Concept | 批判西方零和对抗假设，主张引入和而不同等中华传统文明心智。
+> | 香港大学教育学院 | 组织 | 长期主持教研与领导学术团队的核心重镇。 |

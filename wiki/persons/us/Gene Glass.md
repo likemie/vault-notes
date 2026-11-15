@@ -42,7 +42,6 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Epistemic Value]]"
   - "[[Document]]"
-  - "[[Primary and Secondary Documents]]"
   - "[[Incommensurability]]"
 related_theories: []
 related_methods:
@@ -69,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-06-08"
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 > [!person-profile] 人物档案
@@ -188,10 +187,7 @@ updated: 2026-11-14
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 详尽追溯元分析的起源，阐明格拉斯如何开创心理治疗效果的元分析并确立通用[[Effect Size|效应量]]尺度，同时引述其关于苹果与橙子辩护及图表警示的名言。
-> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 引用格拉斯与史密斯（1979）关于[[Class Size|班级规模]]从 40 人缩至 1 人提升 30 个百分位的原始实验曲线，揭露《[[Visible Learning|可见的学习]]》将[[Primary and Secondary Documents|原始文献]]篡改为 $d=0.09$ 的断章取义行径（pp. 32–33）。
-> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 引用格拉斯关于“元分析结果应是图表而非均值”的警告，批判[[Evidence-Based Education|证据本位教育]]对[[Heterogeneity|异质性]]研究的强制平均与情境剥离（p. 9）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch. 17)]] — 教育研究方法经典教材，详尽解析格拉斯与史密斯 1979 年班级规模元分析的开创性设计及其方法学里程碑地位。
-> - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统审计《可见的学习》的计算与综合缺陷，揭示混用 Glass's $\Delta$ 与 Cohen's $d$ 所引发的除数混乱、方差不齐偏差及[[Incommensurability|不可通约性]]问题（pp. 26–27）。
 
 ---
 

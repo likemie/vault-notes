@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-28
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -129,7 +129,6 @@ updated: 2026-11-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯深入分析萨莫夫的金融-智识复合体理论，揭示[[World Bank|世界银行]]跨国知识垄断与放贷铁板一块机制。
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯梳理第四代批判冲突与宏观[[Paradigm|范式]]，征引卡诺伊与萨莫夫（1990）关于第三世界转型国家政治权力主导教育根本转型的经验比较研究。
 
 ---
 

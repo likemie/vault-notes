@@ -8,7 +8,7 @@ summary: "阿根廷与澳大利亚批判比较教育学者，蒙纳士大学副�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 55
+person_related_count: 52
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -50,7 +50,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Categorical Funding]]"
   - "[[Epistemic Stances]]"
-  - "[[Policy Borrowing]]"
 related_theories:
   - "[[Network Society]]"
   - "[[Beech's Model of Discourse Circulation]]"
@@ -58,7 +57,6 @@ related_theories:
   - "[[Educational Governance Framework]]"
   - "[[Governing at a Distance]]"
   - "[[Human Capital Theory]]"
-  - "[[Conditioned State Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Discourse Analysis]]"
@@ -81,11 +79,10 @@ related_arguments:
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Beech_2009_CE]]"
   - "[[Argument_Beech_2015_GSE]]"
-  - "[[Argument_Olmos_Torres_2009_StateTheories]]"
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -214,9 +211,3 @@ updated: 2026-11-11
 > | [[Michael Sadler]] | 人物 | 经典隐喻提出者，比奇通过微观生态学重构了其 1900 年关于花园漫步采集枝叶的论断。 |
 
 ---
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 首创全球教育[[Champ|场域]]五位置模型，揭示跨国组织双重垄断与拉美[[Gatekeepers|守门人]]机制，并以阿根廷与巴西实证确证微观[[Recontextualization|再情境化]]脱节。
-> - [[Argument_Beech_2015_GSE|Beech and Artopoulos (2015)]] — 引入[[Relational Space|关系性空间]]与[[Actor-Network Theory|行动者网络理论]]，解构比较教育中[[Policy Borrowing|政策借用]]与转移的容器隐喻，提倡多中心[[Discourse|话语]]流通视角。
-> - [[Argument_Beech_2009_CE|Beech (2009a)]] — 运用卡斯特[[Space of Flows|流动空间]][[Paradigm|范式]]解构[[Global Policy Space|全球政策空间]]中“能力发展”与“尊重多样性”话语向[[Floating Signifier|漂浮能指]]的演进轨迹。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 同样剖析拉美[[Conditioned State Theory|受限国家]]中的外来政策转移，与比奇的守门人网络与[[Categorical Funding|委托研究]]批判形成紧密的政治经济学互补。

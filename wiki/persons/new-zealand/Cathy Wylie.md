@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-10
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -84,9 +84,6 @@ updated: 2026-11-11
 > - **理论路径** 建立了审视教育新公共管理改革在学校日常运行中“实践后果与意外后果”的实证[[Analytic Framework|分析框架]]。
 > - **方法路径** 开创并维系了跨越数十年的全国公立学校多主体长周期纵向跟踪[[Questionnaire|问卷调查]]方法。
 > - **政策路径** 其实证报告直接促成新西兰工党政府在 2000 年代初放弃纯行政分权路线，全面转向优质教学战略与协作[[Network Governance|网络治理]]。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Sarbiewska_2019_KiW|Sarbiewska (2019)]] — 引用怀利《十年回顾》调查实证数据，阐述明日学校行政管理调整的治理困境。
 
 ---
 

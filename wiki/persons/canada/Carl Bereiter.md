@@ -148,6 +148,13 @@ updated: 2026-11-02
 
 ---
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 系统考证贝莱特对波普尔哲学的联想式借用及其造成的实质教化真空与思维策略悖论。
+> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从科学实在论视角剖析贝莱特化简波普尔理论所引发的[[Constructivist Paradigm|建构主义]]消解危机。
+> - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] — 探讨哈蒂借用贝莱特模型与布卢姆、[[SOLO Taxonomy|SOLO]] 分类对应不清的困境，提出动态模型予以修正。
+
+---
+
 > [!entry-map] 人物关联网络
 >
 > | 条目 | 类型 | 关联说明 |
@@ -157,10 +164,3 @@ updated: 2026-11-02
 > | [[Visible Learning]] | 概念 | 其三世界借用方案与容器意识批判成为[[John Hattie\|哈蒂]]构建认知教学层级的核心思想中介。 |
 > | [[Surface and Deep Learning]] | 概念 | 其关于学习与知识建构的区分被哈蒂直接映射为表层、深层与建构性学习阶梯。 |
 > | [[Didaktik]] | 概念 | 欧陆教学论学者[[Ewald Terhart\|特哈特]]以教化传统为参照，深刻反思贝莱特模型对学科实质内容的抽空。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 系统考证贝莱特对波普尔哲学的联想式借用及其造成的实质教化真空与思维策略悖论。
-> - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 从科学实在论视角剖析贝莱特化简波普尔理论所引发的[[Constructivist Paradigm|建构主义]]消解危机。
-> - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] — 探讨哈蒂借用贝莱特模型与布卢姆、[[SOLO Taxonomy|SOLO]] 分类对应不清的困境，提出动态模型予以修正。

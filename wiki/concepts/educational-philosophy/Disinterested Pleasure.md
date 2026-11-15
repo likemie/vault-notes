@@ -70,13 +70,13 @@ updated: 2026-11-15
 ---
 
 > [!entry-map] 条目关联
-
-| 条目 | 类型 | 关系 |
-|:-----|:-----|:-----|
-| [[Philosophical Aesthetics]] | 概念 | 标志着哲学美学从客体规则转向主体心理接受的关键步骤。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 18–19)]] |
-| [[Judgment of Taste]] | 概念 | 无功利愉悦构成康德鉴赏判断四重契机中“质”的维度核心规定。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 28–29)]] |
-| [[Moses Mendelssohn]] | 人物 | 通过赞同官能和舞台道德分离论确立该概念的直接先驱。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 18–19)]] |
-| [[Immanuel Kant]] | 人物 | 在《判断力批判》中将门德尔松的赞同官能发展为经典的无功利愉悦理论。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 18, 20)]] |
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Philosophical Aesthetics]] | 概念 | 标志着哲学美学从客体规则转向主体心理接受的关键步骤。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 18–19)]] |
+> | [[Judgment of Taste]] | 概念 | 无功利愉悦构成康德鉴赏判断四重契机中“质”的维度核心规定。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 28–29)]] |
+> | [[Moses Mendelssohn]] | 人物 | 通过赞同官能和舞台道德分离论确立该概念的直接先驱。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 18–19)]] |
+> | [[Immanuel Kant]] | 人物 | 在《判断力批判》中将门德尔松的赞同官能发展为经典的无功利愉悦理论。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 18, 20)]] |
 
 ---
 

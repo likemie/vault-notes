@@ -40,7 +40,6 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Natural Experiment]]"
-  - "[[Meta-regression]]"
 related_instruments: []
 related_persons:
   - "[[Dashun Wang]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-02
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -118,11 +117,6 @@ updated: 2026-11-11
 > | [[Multiple Regression]] | 方法 | 观察性回归无法控制达克沃思界定的坚毅等心理特征，产生遗漏变量偏误。 |
 > | [[Natural Experiment]] | 方法 | 借助基金评审切分线等外生自然实验，消除坚毅特质带来的选择性偏误。 |
 > | [[Causality]] | 概念 | 坚毅因子作为典型不可观测变量，构成了界定科研资助纯因果效应的关键检验对象。 |
-
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit11|Wang & Barabási (2021)]] — 将达克沃思界定的坚毅品质作为不可观测混杂因子的经典案例，阐明传统多[[Meta-regression|元回归]]在无法控制此类心理学变量时所面临的因果识别失效（pp. 248–249）。
 
 ---
 
