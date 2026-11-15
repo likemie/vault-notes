@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 38
+person_related_count: 39
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
+  - "[[Free Beauty]]"
   - "[[Document]]"
   - "[[Variable]]"
   - "[[Protean Episteme]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ## 简介
@@ -125,7 +126,7 @@ updated: 2026-11-11
 > - **1843–1848 — 欧洲考察、《[[Seventh Annual Report of the Massachusetts Board of Education\|第七次年度报告]]》与政治合法化论证突破** 远赴欧洲寻求教育真经，借域外实绩反击国内保守阻抗，确立比较借用的合法化转译[[Paradigm\|范式]]。
 >   - **代表著作** 《第七次年度报告》（*Seventh Annual Report*, 1844）、《对波士顿三十一位[[Grammar School\|文法学校]]校长抗辩的答复》（1844–1845）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 31–32)]]
 >   - **关键概念／方法** 示警烽火与引路明灯（Beacons and Lights）、政治合法化依据、[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]直观教学法、温和人道纪律。
->   - **阶段转向** 突破狭隘的地方孤立偏见，战略性剥离专制政治外壳，抽取欧洲公学实绩作为击溃国内保守学监与宗派势力的论据，实现比较探究向国内政策合法化工具的跃升。
+>   - **阶段转向** 突破狭隘的地方孤立偏见，战略性剥离专制政治外壳，抽取欧洲公学实绩作为击溃国内保守学监与宗派势力的论据，将比较探究转化为国内政策合法化工具。
 > - **1848–1859 — 废奴斗争、人权辩护与高等教育无宗派民主实验** 将公学平等原则延伸至全国政治舞台与大学教育实践。
 >   - **代表著作** 《论蓄奴问题演说集》（*Slavery: Letters and Speeches*, 1851）、《安提阿学院毕业训词》（1859）。
 >   - **关键概念／方法** 废奴主义（Abolitionism）、公民权利平等、男女同校（Co-education）、人格独立培养。
@@ -273,7 +274,7 @@ updated: 2026-11-11
 > > - **第一代行政改良派（Horace Mann, 1844; Victor Cousin, 1831）** 将目光聚焦于外国具体的学校管理、课程与教学方法（如[[Johann Heinrich Pestalozzi|裴斯泰洛齐]]直观法），把学校视作孤立的教学场所进行描述，追求立竿见影的行政借用与立法说服效果。
 > > - **第二代历史文化学派（Michael Sadler, 1900; Andreas Kazamias, 2009a）** 批评孤立考察学校的局限，指出决定教育成败的关键力量深藏于校外的无形文化精神之中，必须以民族国家整体体系为分析单元，反对脱离深层社会结构进行孤立制度移植。
 >
-> > [!axis] 欧陆“专制”公学实绩 vs 自由美利坚共和自治德性
+> > [!axis] 欧陆“专制”公学实绩 vs [[Free Beauty|自由美]]利坚共和自治德性
 > > 1844 年《[[Seventh Annual Report of the Massachusetts Board of Education\|第七次年度报告]]》发表后，波士顿[[Grammar School\|文法学校]]校长联合会与地方自治派猛烈围攻曼崇尚普鲁士学校经验：[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 31–33)]]
 > >
 > > - **Association of Masters of the Boston Grammar Schools (1844)** 怒斥普鲁士教育体制是专制君主驯服顺从臣民的工具，质问自由共和国为何要效仿专制独裁国家的学校；指责废除体罚与温和管教是削弱学校权威、纵容道德松弛的危险空想。

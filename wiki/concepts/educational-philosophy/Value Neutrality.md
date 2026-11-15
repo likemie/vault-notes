@@ -10,7 +10,7 @@ aliases:
 summary: "主张科学研究应排除研究者主观价值偏见并保持程序中立的认识论规范；在启蒙发轫期曾服从于道德改良，在韦伯与20世纪实证学派中被法典化为科学基石，在批判理论中被解构为维护统治的意识形态，并在当代公共与科技竞争中凸显为区分描述性经验事实与规范性道德评价的认知脱钩求真能力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 91
+related_count: 92
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Geopolitics]]"
   - "[[Policy Science in Comparative Education]]"
+  - "[[New Mythology]]"
   - "[[Ontology]]"
   - "[[Research Question]]"
   - "[[Buen Vivir]]"
@@ -121,7 +122,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-17
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -280,7 +281,7 @@ updated: 2026-11-14
 > - **1961 — 卡扎米亚斯界定比较教育学的三重价值取向轴线** 卡扎米亚斯（Kazamias, 1961）在方法论反思中提出核心抉择：比较教育研究应当是[[Educational Meliorism|改良主义]]的（melioristic）、[[Ideology Critique|意识形态批判]]的（ideological）还是严格价值中立的（strictly neutral）；拉斯特等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009, p. 128]]）将其总结为学科科学化进程中持续交织的根本方法论张力。
 > - **1960s–1970s — 现代主义科学观的价值中立迷信与唯方法论反思** 卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）与巴伯（Barber, 1972）指出芝加哥学派与哥大学派追求“客观、价值中立的探究形式”，将[[Reliability|可靠性]]建立在机械应用测量技术之上，割裂了科学与伦理美善的联系。[[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, p. 148)]]
 > - **1970–1980 年代 — 批判理论与多范式大解构** [[Critical Theory|批判理论]]、女性主义与[[Post-colonial Theory|后殖民理论]]彻底打破价值中立神话，揭示中立修辞掩盖西方男性霸权与阶级压迫的实质。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]
-> - **1977–1991 — [[Policy Science in Comparative Education|政策科学]]解构中立技术理性神话** [[Carol Weiss|卡罗尔·韦斯]]（Weiss, 1977, 1991）揭示政策制定天然关乎价值权衡，确立研究主要充当政治合法化“燃料而非引擎”的经典命题。
+> - **1977–1991 — [[Policy Science in Comparative Education|政策科学]]解构中立技术[[New Mythology|理性神话]]** [[Carol Weiss|卡罗尔·韦斯]]（Weiss, 1977, 1991）揭示政策制定天然关乎价值权衡，确立研究主要充当政治合法化“燃料而非引擎”的经典命题。
 > - **1981 — 霍姆斯批判实证操作化的假中立与价值渗透** 霍姆斯（Holmes, 1981）指出操作化指标无法脱离文化价值系统而存在，实证派的中立口号实质上服务于战后中央理性规划与国际援助机构的技术官僚治理。[[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 64, 66)]]
 > - **1983 — 新马克思主义解构价值中立作为资本主义再生产借口** [[Martin Carnoy|马丁·卡诺伊]]（Carnoy, 1983）批判实证学派以价值中立与个体选择掩盖资本主义阶级剥削与再生产，论证学术探究无法脱离国家权力结构。[[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 153–154)]]
 > - **1987 — 评估方法论中价值立场的系统制度化** Smith & Glass 确立价值处理是区分科学研究与项目评估的核心分界线，承认多重价值呈现的正当性。

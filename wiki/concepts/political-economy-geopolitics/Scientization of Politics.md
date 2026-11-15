@@ -9,7 +9,7 @@ aliases:
 summary: "指科学证据被政策制定者吸纳为决策合法性基础的过程，使科学知识从外部咨询信息转变为治理权威的构成性要素，并与科学的政治化形成共生张力。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Consultocracy]]"
   - "[[Constructivist Paradigm]]"
+  - "[[New Mythology]]"
   - "[[Context in Comparative Education]]"
 related_theories:
   - "[[Governing at a Distance]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-12
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -178,7 +179,7 @@ updated: 2026-11-11
 >
 > | 研究 | 政策改革情境 | 证据分析样本与方法 | 核心实证指标或证据规模 | 统计结果与文献分布 | 解释边界 |
 > |---|---|---|---|---|---|
-> | [[Argument_Volmari_2025_CE\|Volmari et al. (2025)]] | 丹麦、芬兰与挪威国家学校改革 | 16 份核心政策官方[[Bibliometric Analysis\|文献计量分析]]与 15 场决策[[Expert Interview\|专家访谈]] | 追踪分析 1,385 条参考文献记录 | 同行评议学术期刊成果仅占 14.5%（挪威 33.3%、丹麦 11.2%、芬兰 8.9%），政府公报与工作报告占 70.1% | 证实同行评议学术成果在政策引据中实际处于边际地位，打破了纯粹科学主导决策的技术理性神话 |
+> | [[Argument_Volmari_2025_CE\|Volmari et al. (2025)]] | 丹麦、芬兰与挪威国家学校改革 | 16 份核心政策官方[[Bibliometric Analysis\|文献计量分析]]与 15 场决策[[Expert Interview\|专家访谈]] | 追踪分析 1,385 条参考文献记录 | 同行评议学术期刊成果仅占 14.5%（挪威 33.3%、丹麦 11.2%、芬兰 8.9%），政府公报与工作报告占 70.1% | 证实同行评议学术成果在政策引据中实际处于边际地位，打破了纯粹科学主导决策的技术[[New Mythology\|理性神话]] |
 
 ---
 

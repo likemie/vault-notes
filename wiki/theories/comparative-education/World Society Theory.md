@@ -10,7 +10,7 @@ aliases:
 summary: "斯坦福学派新制度主义社会学理论，将全球大众教育和国家体制的跨国趋同阐释为世界文化模型扩散与模仿的产物。主张去中心化的世界社会依赖无私代理人的他者性机制输出进步与正义规范，同时该理论面临政治现实主义与批判政治经济学关于掩盖中心边缘依附剥削、实质不平等及微观抵制能动性的深刻批评。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 46
+theory_related_count: 47
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Institutional Mimesis]]"
   - "[[Paradigm]]"
   - "[[Enlightenment]]"
+  - "[[New Mythology]]"
   - "[[Geopolitics]]"
   - "[[Organizational Actorhood]]"
   - "[[Development Turn in Comparative Education]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-11
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -96,7 +97,7 @@ updated: 2026-11-11
 > - **形成路径与经典假想** 迈耶等人提出了著名的“孤岛思想实验”：假设在大洋深处新发现一个从未与现代世界接触的孤立海岛社会，只要它被纳入当代国际社会视野，它便会迅速按照世界文化的通行规范，制定宪法、设立议会、颁布人权保护法令，并建立标准化的正规学校体系。该假想生动阐明了[[Cultural Models|世界文化模型]]作为先验合法性脚本的强大规范力量。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 103)]]
 
 > [!dev-timeline] 理论版本与贡献
-> - **1977年 — 制度化神话奠基** Meyer and Rowan (1977) 提出组织的正式结构反映的是制度环境中的“理性神话”和仪式，而非单纯的技术效率要求。
+> - **1977年 — 制度化神话奠基** Meyer and Rowan (1977) 提出组织的正式结构反映的是制度环境中的“[[New Mythology|理性神话]]”和仪式，而非单纯的技术效率要求。
 > - **1987年 — 大众教育的政治建构** Ramirez and Boli (1987) 阐述欧洲大众教育的兴起是国家出于成员身份（membership）界定及应对[[Geopolitics|地缘政治]]竞争的防御性动员产物。[[Argument_Amos_2022_Springer|(Amos, 2022, pp. 54–55)]]
 > - **1997年 — 理论系统化** Meyer, Boli, Thomas and Ramirez (1997) 发表《世界社会与民族国家》，标志世界社会理论成熟，论证了国家主权形式在全球理性文化模型下的广泛趋同。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
 > - **2000年 — 他者性机制** Meyer and Jepperson (2000) 提出 [[Otherhood]] 理论，阐明科学代言人与代理机构如何作为核心动力机制输出理性神话。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 149)]]

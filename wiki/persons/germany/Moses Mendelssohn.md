@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 13
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,14 +27,16 @@ related_concepts:
   - "[[Enlightenment]]"
   - "[[Philosophical Aesthetics]]"
   - "[[Epistemology]]"
+  - "[[Aesthetic Education]]"
   - "[[Disinterested Pleasure]]"
   - "[[The Sublime]]"
-  - "[[Epoché]]"
+  - "[[Aesthetic Autonomy]]"
   - "[[Ontology]]"
   - "[[Sensual Cognition]]"
 related_persons:
   - "[[Gottfried Wilhelm Leibniz]]"
   - "[[Alexander Gottlieb Baumgarten]]"
+  - "[[Friedrich Schiller]]"
   - "[[Immanuel Kant]]"
   - "[[Johann Gottfried von Herder]]"
 related_arguments:
@@ -42,14 +44,14 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-14"
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 18 世纪德国[[Enlightenment|启蒙运动]]核心哲学家，[[Gottfried Wilhelm Leibniz|莱布尼茨]]-沃尔夫理性主义传统在情感与心理[[Philosophical Aesthetics|美学]]方向上的代表人物。
-> - **核心角色** 在[[Alexander Gottlieb Baumgarten|亚历山大·戈特利布·鲍姆嘉通]]（Alexander Gottlieb Baumgarten）的[[Epistemology|认识论]]美学之外开辟情感与接受美学维度，搭建起从理性主义向德国古典主义美育思想过渡的桥梁。
+> - **核心角色** 在[[Alexander Gottlieb Baumgarten|亚历山大·戈特利布·鲍姆嘉通]]（Alexander Gottlieb Baumgarten）的[[Epistemology|认识论]]美学之外开辟情感与接受美学维度，搭建起从理性主义向德国古典主义[[Aesthetic Education|美育]]思想过渡的桥梁。
 > - **代表贡献** 提出作为第三灵魂官能的[[Disinterested Pleasure|赞同官能]]（Billigungsvermögen）、在德国哲学中系统阐发[[The Sublime|崇高]]与素朴概念、首创艺术符号分类体系。
 
 > [!citation-card] 门德尔松论人性完善
@@ -78,13 +80,13 @@ updated: 2026-11-14
 ---
 
 > [!claim] 核心思想
-> 门德尔松将18世纪德国美学的重心从客体认识转向主体心理感受与审美接受，将传统形而上学关于宇宙完美的“完美美学”转化为指向人类潜能实现与审美教育的“人性完善美学”。通过区分认知、欲望与[[Disinterested Pleasure|赞同官能]]，并主张舞台拥有独立于日常伦理的审美法则，他为艺术自主性开辟了道路；但其对认知维度的悬置与主观化转向，也使艺术的[[Ontology|本体论]]界定弱化为主体愉悦反应。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 14, 18–20)]]
+> 门德尔松将18世纪德国美学的重心从客体认识转向主体心理感受与审美接受，将传统形而上学关于宇宙完美的“完美美学”转化为指向人类潜能实现与审美教育的“人性完善美学”。通过区分认知、欲望与[[Disinterested Pleasure|赞同官能]]，并主张舞台拥有独立于日常伦理的审美法则，他为[[Aesthetic Autonomy|艺术自主性]]开辟了道路；但其对认知维度的悬置与主观化转向，也使艺术的[[Ontology|本体论]]界定弱化为主体愉悦反应。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 14, 18–20)]]
 
 ---
 
 > [!influence-path] 影响路径
 > - **接受美学与心理学路径** 从鲍姆嘉通侧重艺术生产的规则诗学转向强调愉悦与接受的心理美学，经莫里茨（Karl Philipp Moritz）发展至高峰。
-> - **古典主义美育路径** 将艺术视为实现人性全面发展与官能和谐的工具，直接开启了席勒（Friedrich Schiller）《审美教育书简》与歌德（J. W. Goethe）《威廉·迈斯特的学习时代》的美育传统。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 14, 19)]]
+> - **古典主义美育路径** 将艺术视为实现人性全面发展与官能和谐的工具，直接开启了[[Friedrich Schiller|席勒]]（Friedrich Schiller）《审美教育书简》与歌德（J. W. Goethe）《威廉·迈斯特的学习时代》的美育传统。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 14, 19)]]
 > - **批判哲学与浪漫派先声** 其“赞同官能”直接成为[[Immanuel Kant|康德]]“无功利愉悦”的先驱；素朴概念深刻影响了席勒对素朴诗的界定；自然符号与任意符号的艺术分类被莱辛（Gotthold Ephraim Lessing）和赫尔德（[[Johann Gottfried von Herder|Johann Gottfried Herder]]）继承改造。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 18)]]
 
 > [!evidence-grid-a] 相关研究索引

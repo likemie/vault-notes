@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -154,4 +154,4 @@ updated: 2026-11-11
 > | [[Human Capital Theory]] | Theory | 人力资本理论：项目方案设计的核心经济学理论假说。 |
 > | [[Baby PISA]] | Fact (Program) | 互补项目：OECD 针对 5 岁儿童开展的量化技能测评（IELS）。 |
 > | [[OECD]] | Fact (Organization) | 发起并统筹管理项目的超国家国际组织。 |
-> | [[PISA]] | Fact (Program) | 经合组织旗舰中等教育评估，其测评数据倒逼各国强化早期教育干预。 |
+> | [[PISA]] | Fact (Program) | 经合组织旗舰中等教育评估，其测评数据促使各国强化早期教育干预。 |

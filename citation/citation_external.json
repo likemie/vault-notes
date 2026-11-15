@@ -1167,6 +1167,8 @@
     "Arthur (2009)": "Arthur, 2009",
     "Arthur Applebee (1974)": "Arthur Applebee, 1974",
     "Arthur Applebee, 1974": "Arthur Applebee, 1974",
+    "Arthur Danto (1992)": "Arthur Danto, 1992",
+    "Arthur Danto, 1992": "Arthur Danto, 1992",
     "Arthur Herman (2006)": "Arthur Herman, 2006",
     "Arthur Herman, 2006": "Arthur Herman, 2006",
     "Arthur, 1989": "Arthur, 1989",
@@ -2096,6 +2098,8 @@
     "Beghetto, 2013": "Beghetto, 2013",
     "Behar-Horenstein & Niu (2011)": "Behar-Horenstein & Niu, 2011",
     "Behar-Horenstein & Niu, 2011": "Behar-Horenstein & Niu, 2011",
+    "Behler (1988)": "Behler, 1988",
+    "Behler, 1988": "Behler, 1988",
     "Behrman (2015)": "Behrman, 2015",
     "Behrman, 2015": "Behrman, 2015",
     "Beissinger (2002)": "Beissinger, 2002",
@@ -3047,6 +3051,8 @@
     "Bowers, 2015": "Bowers, 2015a",
     "Bowers, 2015a": "Bowers, 2015b",
     "Bowers, 2015b": "Bowers, 2015b",
+    "Bowie (1993)": "Bowie, 1993",
+    "Bowie, 1993": "Bowie, 1993",
     "Bowker & STAR (2000)": "Bowker & STAR, 2000",
     "Bowker & STAR, 2000": "Bowker & STAR, 2000",
     "Bowker & Star (1999)": "Bowker & Star, 1999",
@@ -3483,6 +3489,8 @@
     "Bubeck et al., 2023": "Bubeck et al., 2023",
     "Bubis (1998)": "Bubis, 1998",
     "Bubis, 1998": "Bubis, 1998",
+    "Bubner (1995)": "Bubner, 1995",
+    "Bubner, 1995": "Bubner, 1995",
     "Buch & Wetzel (2001)": "Buch & Wetzel, 2001",
     "Buch & Wetzel, 2001": "Buch & Wetzel, 2001",
     "Buchanan (2003)": "Buchanan, 2003",
@@ -8223,12 +8231,14 @@
     "Frank & Cook, 1995": "Frank & Cook, 1995",
     "Frank & Meyer (2020)": "Frank & Meyer, 2020",
     "Frank & Meyer, 2020": "Frank & Meyer, 2020",
+    "Frank (1985)": "Frank, 1985",
     "Frank (1989)": "Frank, 1989",
     "Frank (2020)": "Frank, 2020",
     "Frank Levy (1996)": "Frank Levy, 1996",
     "Frank Levy, 1996": "Frank Levy, 1996",
     "Frank Lyman (1981)": "Frank Lyman, 1981",
     "Frank Lyman, 1981": "Frank Lyman, 1981",
+    "Frank, 1985": "Frank, 1985",
     "Frank, 1989": "Frank, 1989",
     "Frank, 2020": "Frank, 2020",
     "Frankfort-Nachmias & Nachmias (1992)": "Frankfort-Nachmias & Nachmias, 1992",
@@ -10758,6 +10768,8 @@
     "Henk & Stahl, 1985": "Henk & Stahl, 1985",
     "Henri-Jean Martin (1976)": "Henri-Jean Martin, 1976",
     "Henri-Jean Martin, 1976": "Henri-Jean Martin, 1976",
+    "Henrich (1957)": "Henrich, 1957",
+    "Henrich, 1957": "Henrich, 1957",
     "Henrick et al. (2017)": "Henrick et al., 2017",
     "Henrick et al., 2017": "Henrick et al., 2017",
     "Henrickson et al. (2003)": "Henrickson et al., 2003",
@@ -12456,6 +12468,8 @@
     "Jászi, 1929": "Jászi, 1929",
     "Jäger (2004)": "Jäger, 2004",
     "Jäger, 2004": "Jäger, 2004",
+    "Jähnig (1966)": "Jähnig, 1966",
+    "Jähnig, 1966": "Jähnig, 1966",
     "Jégo (2017)": "Jégo, 2017",
     "Jégo, 2017": "Jégo, 2017",
     "Jürgen Habermas (1972)": "Jürgen Habermas, 1972",
@@ -15230,6 +15244,8 @@
     "Lui, 2015": "Lui, 2015",
     "Luiten et al. (1980)": "Luiten et al., 1980",
     "Luiten et al., 1980": "Luiten et al., 1980",
+    "Lukács (1920)": "Lukács, 1920",
+    "Lukács, 1920": "Lukács, 1920",
     "Lumby & English (2009)": "Lumby & English, 2009",
     "Lumby & English, 2009": "Lumby & English, 2009",
     "Lumpe (1995)": "Lumpe, 1995",
@@ -17648,6 +17664,8 @@
     "Nelson (2014a)": "Nelson, 2014a",
     "Nelson (2014b)": "Nelson, 2014b",
     "Nelson (2022)": "Nelson, 2022",
+    "Nelson Goodman (1968)": "Nelson Goodman, 1968",
+    "Nelson Goodman, 1968": "Nelson Goodman, 1968",
     "Nelson et al. (2003)": "Nelson et al., 2003",
     "Nelson et al. (2017)": "Nelson et al., 2017",
     "Nelson et al. (2018)": "Nelson et al., 2018",
@@ -36441,6 +36459,21 @@
       ],
       "title": ""
     },
+    "Arthur Danto, 1992": {
+      "aliases": [
+        "Arthur Danto, 1992",
+        "Arthur Danto (1992)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Arthur Danto, 1992"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Innocent Eye.md"
+      ],
+      "title": "Beyond the Brillo Box: The Visual Arts in Post-Historical Perspective"
+    },
     "Arthur Herman, 2006": {
       "aliases": [
         "Arthur Herman, 2006",
@@ -43260,6 +43293,23 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md"
+      ],
+      "title": ""
+    },
+    "Behler, 1988": {
+      "aliases": [
+        "Behler, 1988",
+        "Behler (1988)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Behler, 1988"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch04.md",
+        "wiki/concepts/educational-philosophy/Romantic Irony.md",
+        "wiki/persons/germany/Friedrich Schlegel.md"
       ],
       "title": ""
     },
@@ -50343,6 +50393,21 @@
       "seen_in": [],
       "title": "The influence of repeated exposure to the student success skills program on middle school students’ feelings of connectedness, behavioral and metacognitive skills, and reading achievement"
     },
+    "Bowie, 1993": {
+      "aliases": [
+        "Bowie, 1993",
+        "Bowie (1993)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bowie, 1993"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch04.md"
+      ],
+      "title": ""
+    },
     "Bowker & STAR, 2000": {
       "aliases": [
         "Bowker & STAR, 2000",
@@ -53543,6 +53608,23 @@
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Post-Nationalism.md",
         "wiki/persons/germany/Ignatz Bubis.md"
+      ],
+      "title": ""
+    },
+    "Bubner, 1995": {
+      "aliases": [
+        "Bubner, 1995",
+        "Bubner (1995)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bubner, 1995"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch04.md",
+        "wiki/concepts/educational-philosophy/Romantic Irony.md",
+        "wiki/persons/germany/Friedrich Schlegel.md"
       ],
       "title": ""
     },
@@ -69969,9 +70051,10 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch02.md"
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch02.md",
+        "wiki/concepts/educational-philosophy/Innocent Eye.md"
       ],
-      "title": ""
+      "title": "Beyond the Brillo Box: The Visual Arts in Post-Historical Perspective"
     },
     "Dao, 1993": {
       "aliases": [
@@ -88203,6 +88286,22 @@
       ],
       "title": ""
     },
+    "Frank, 1985": {
+      "aliases": [
+        "Frank, 1985",
+        "Frank (1985)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Frank, 1985"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch04.md",
+        "wiki/persons/germany/Friedrich Wilhelm Joseph Schelling.md"
+      ],
+      "title": ""
+    },
     "Frank, 1989": {
       "aliases": [
         "Frank, 1989",
@@ -88214,9 +88313,11 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch02.md"
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch02.md",
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch03.md",
+        "wiki/theories/educational-philosophy/Schiller's Theory of Drives.md"
       ],
-      "title": ""
+      "title": "Einführung in die frühromantische Ästhetik"
     },
     "Frank, 2020": {
       "aliases": [
@@ -106776,6 +106877,22 @@
       ],
       "title": ""
     },
+    "Henrich, 1957": {
+      "aliases": [
+        "Henrich, 1957",
+        "Henrich (1957)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Henrich, 1957"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch03.md",
+        "wiki/theories/educational-philosophy/Schiller's Theory of Drives.md"
+      ],
+      "title": "Der Begriff des Schönen in Schillers Ästhetik"
+    },
     "Henrick et al., 2017": {
       "aliases": [
         "Henrick et al., 2017",
@@ -119028,6 +119145,21 @@
         "wiki/arguments/journal-articles/Beiträge zur Schulentwicklung/Argument_Manitius_vanHolt_2019_BzS.md",
         "wiki/concepts/comparative-education/Recontextualization.md",
         "wiki/theories/educational-philosophy/Complexity Theory.md"
+      ],
+      "title": ""
+    },
+    "Jähnig, 1966": {
+      "aliases": [
+        "Jähnig, 1966",
+        "Jähnig (1966)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Jähnig, 1966"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch04.md"
       ],
       "title": ""
     },
@@ -138930,6 +139062,21 @@
       "seen_in": [],
       "title": "A meta-analysis of the effects of advance organizers on learning and retention"
     },
+    "Lukács, 1920": {
+      "aliases": [
+        "Lukács, 1920",
+        "Lukács (1920)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Lukács, 1920"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch04.md"
+      ],
+      "title": ""
+    },
     "Lumby & English, 2009": {
       "aliases": [
         "Lumby & English, 2009",
@@ -147659,9 +147806,10 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch02.md",
-        "wiki/concepts/educational-philosophy/Aesthetic Idea.md"
+        "wiki/concepts/educational-philosophy/Aesthetic Idea.md",
+        "wiki/concepts/educational-philosophy/Free Beauty.md"
       ],
-      "title": ""
+      "title": "In Praise of Nonsense: Kant and Bluebeard"
     },
     "Menon et al., 2009": {
       "aliases": [
@@ -156402,6 +156550,21 @@
         "wiki/theories/university-industry-collaboration/Systems of Innovation.md"
       ],
       "title": ""
+    },
+    "Nelson Goodman, 1968": {
+      "aliases": [
+        "Nelson Goodman, 1968",
+        "Nelson Goodman (1968)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Nelson Goodman, 1968"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Free Play.md"
+      ],
+      "title": "Languages of Art: An Approach to the Theory of Symbols"
     },
     "Nelson et al., 2003": {
       "aliases": [
@@ -227629,7 +227792,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02.md",
-        "wiki/persons/germany/Jürgen Habermas.md",
         "wiki/theories/educational-philosophy/Critical Theory.md"
       ],
       "title": ""

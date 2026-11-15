@@ -4623,6 +4623,16 @@
     ]
   },
   {
+    "title": "Adherent Beauty",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Adherent Beauty.md",
+    "aliases": [
+      "依附美",
+      "pulchritudo adhaerens",
+      "Dependent Beauty"
+    ]
+  },
+  {
     "title": "Aesthetic Autonomy",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Aesthetic Autonomy.md",
@@ -4649,6 +4659,26 @@
       "审美理念",
       "ästhetische Idee",
       "aesthetic ideas"
+    ]
+  },
+  {
+    "title": "Aesthetic Intuition",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Aesthetic Intuition.md",
+    "aliases": [
+      "审美直观",
+      "ästhetische Anschauung"
+    ]
+  },
+  {
+    "title": "Aesthetic Semblance",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Aesthetic Semblance.md",
+    "aliases": [
+      "审美外观",
+      "审美假象",
+      "ästhetischer Schein",
+      "aesthetic appearance"
     ]
   },
   {
@@ -5292,6 +5322,27 @@
     ]
   },
   {
+    "title": "Free Beauty",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Free Beauty.md",
+    "aliases": [
+      "自由美",
+      "pulchritudo vaga",
+      "Pure Beauty"
+    ]
+  },
+  {
+    "title": "Free Play",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Free Play.md",
+    "aliases": [
+      "自由游戏",
+      "诸官能自由游戏",
+      "Free Play of Imagination and Understanding",
+      "Free Play of the Faculties"
+    ]
+  },
+  {
     "title": "Freedom of the Learner",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Freedom of the Learner.md",
@@ -5395,6 +5446,27 @@
       "incommensurable",
       "范式不可通约性",
       "paradigm incommensurability"
+    ]
+  },
+  {
+    "title": "Innocent Eye",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Innocent Eye.md",
+    "aliases": [
+      "天真之眼",
+      "纯真之眼",
+      "perceptive innocence"
+    ]
+  },
+  {
+    "title": "Intellectual Intuition",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Intellectual Intuition.md",
+    "aliases": [
+      "理智直观",
+      "intellektuelle Anschauung",
+      "直观理性",
+      "intuitive reason"
     ]
   },
   {
@@ -5572,6 +5644,17 @@
     ]
   },
   {
+    "title": "New Mythology",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/New Mythology.md",
+    "aliases": [
+      "新神话",
+      "Neue Mythologie",
+      "理性神话",
+      "Mythology of Reason"
+    ]
+  },
+  {
     "title": "Nominalism",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Nominalism.md",
@@ -5691,6 +5774,15 @@
       "实践理性",
       "Practical Wisdom",
       "Clinical Judgement"
+    ]
+  },
+  {
+    "title": "Play Drive",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Play Drive.md",
+    "aliases": [
+      "游戏冲动",
+      "Spieltrieb"
     ]
   },
   {
@@ -5814,6 +5906,15 @@
     ]
   },
   {
+    "title": "Purposiveness without Purpose",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Purposiveness without Purpose.md",
+    "aliases": [
+      "无目的的合目的性",
+      "Purposiveness without a Purpose"
+    ]
+  },
+  {
     "title": "Regimes of Truth",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Regimes of Truth.md",
@@ -5846,6 +5947,17 @@
     "path": "wiki/concepts/educational-philosophy/Response-ability.md",
     "aliases": [
       "回应能力"
+    ]
+  },
+  {
+    "title": "Romantic Irony",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Romantic Irony.md",
+    "aliases": [
+      "浪漫反讽",
+      "romantische Ironie",
+      "客观反讽",
+      "objective irony"
     ]
   },
   {
@@ -5898,6 +6010,16 @@
       "exetasis",
       "Socratic questioning",
       "Socratic method"
+    ]
+  },
+  {
+    "title": "Sprezzatura",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Sprezzatura.md",
+    "aliases": [
+      "举重若轻",
+      "藏巧于拙",
+      "不着痕迹的优雅"
     ]
   },
   {
@@ -22402,6 +22524,26 @@
     ]
   },
   {
+    "title": "Schelling's Aesthetics",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Schelling's Aesthetics.md",
+    "aliases": [
+      "谢林美学",
+      "谢林艺术哲学",
+      "Schelling's Philosophy of Art"
+    ]
+  },
+  {
+    "title": "Schiller's Theory of Drives",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Schiller's Theory of Drives.md",
+    "aliases": [
+      "席勒冲动学说",
+      "Theory of Drives",
+      "冲动学说"
+    ]
+  },
+  {
     "title": "Social Justice Theory",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Social Justice Theory.md",
@@ -31530,6 +31672,16 @@
     ]
   },
   {
+    "title": "Friedrich Hölderlin",
+    "type": "person",
+    "path": "wiki/persons/germany/Friedrich Hölderlin.md",
+    "aliases": [
+      "弗里德里希·荷尔德林",
+      "荷尔德林",
+      "Hölderlin, F."
+    ]
+  },
+  {
     "title": "Friedrich List",
     "type": "person",
     "path": "wiki/persons/germany/Friedrich List.md",
@@ -31552,12 +31704,43 @@
     ]
   },
   {
+    "title": "Friedrich Schiller",
+    "type": "person",
+    "path": "wiki/persons/germany/Friedrich Schiller.md",
+    "aliases": [
+      "Schiller, F.",
+      "席勒",
+      "弗里德里希·席勒"
+    ]
+  },
+  {
+    "title": "Friedrich Schlegel",
+    "type": "person",
+    "path": "wiki/persons/germany/Friedrich Schlegel.md",
+    "aliases": [
+      "弗里德里希·施莱格尔",
+      "F. Schlegel",
+      "Schlegel, F."
+    ]
+  },
+  {
     "title": "Friedrich Schneider",
     "type": "person",
     "path": "wiki/persons/germany/Friedrich Schneider.md",
     "aliases": [
       "Schneider, F.",
       "弗里德里希·施奈德"
+    ]
+  },
+  {
+    "title": "Friedrich Wilhelm Joseph Schelling",
+    "type": "person",
+    "path": "wiki/persons/germany/Friedrich Wilhelm Joseph Schelling.md",
+    "aliases": [
+      "弗里德里希·威廉·约瑟夫·谢林",
+      "弗里德里希·谢林",
+      "F. W. J. Schelling",
+      "Schelling, F. W. J."
     ]
   },
   {
@@ -31619,6 +31802,16 @@
     ]
   },
   {
+    "title": "Johann Gottlieb Fichte",
+    "type": "person",
+    "path": "wiki/persons/germany/Johann Gottlieb Fichte.md",
+    "aliases": [
+      "约翰·戈特利布·费希特",
+      "费希特",
+      "Fichte, J. G."
+    ]
+  },
+  {
     "title": "Johann Wilhelm Süvern",
     "type": "person",
     "path": "wiki/persons/germany/Johann Wilhelm Süvern.md",
@@ -31649,6 +31842,16 @@
       "哈贝马斯",
       "J. Habermas",
       "Habermas, J."
+    ]
+  },
+  {
+    "title": "Karl Wilhelm Ferdinand Solger",
+    "type": "person",
+    "path": "wiki/persons/germany/Karl Wilhelm Ferdinand Solger.md",
+    "aliases": [
+      "卡尔·威廉·费迪南德·索尔格",
+      "索尔格",
+      "Solger, K. W. F."
     ]
   },
   {
@@ -37081,7 +37284,6 @@
     "aliases": [
       "托马斯·谢林",
       "托马斯·克罗姆比·谢林",
-      "谢林",
       "Schelling, T.",
       "Schelling, T. C.",
       "Thomas C. Schelling"
@@ -51455,6 +51657,16 @@
     "title": "Argument_Hammermeister_2002_Cambridge_Ch02",
     "type": "argument",
     "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch02.md"
+  },
+  {
+    "title": "Argument_Hammermeister_2002_Cambridge_Ch03",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch03.md"
+  },
+  {
+    "title": "Argument_Hammermeister_2002_Cambridge_Ch04",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch04.md"
   },
   {
     "title": "Argument_Karp_Zamiska_2025_Technological_Republic",

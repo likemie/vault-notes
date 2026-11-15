@@ -12,7 +12,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 23
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Bildung]]"
   - "[[Creativity]]"
+  - "[[Free Play]]"
   - "[[Agile Governance]]"
   - "[[Geisteswissenschaften]]"
   - "[[Critical Pedagogy]]"
@@ -71,7 +72,7 @@ updated: 2026-11-15
 > - **代表贡献** 提出精神三变、视角主义（Perspectivism）、重估一切价值（Revaluation of all values）、权力意志（Will to Power）与超人（Übermensch）哲学；其学说不仅重塑了欧陆哲学与后现代[[Epistemology|认识论]]，更深刻启发了现代社会学（如 [[Max Weber]] 的诸神纷争理论）、教养哲学批判（[[Bildung]]）以及当代科技政策中的使命导向政策演进模型。
 
 > [!citation-card] 人物定位的关键来源：精神三变与[[Creativity|创造性]]突破
-> 思想解放要求主体经历精神的三重演进：从背负既定规则与历史重荷的“骆驼”，成长为敢于向旧法则宣战的“狮子”，最终进化为象征自我开创、自由游戏、[[Agile Governance|敏捷试错]]与全新价值创造的“儿童”。这一哲学寓言构成了突破体制僵化、实现创造性演化的经典元模型。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 792)]]
+> 思想解放要求主体经历精神的三重演进：从背负既定规则与历史重荷的“骆驼”，成长为敢于向旧法则宣战的“狮子”，最终进化为象征自我开创、[[Free Play|自由游戏]]、[[Agile Governance|敏捷试错]]与全新价值创造的“儿童”。这一哲学寓言构成了突破体制僵化、实现创造性演化的经典元模型。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 792)]]
 >
 > *Nietzsche's allegory of the three metamorphoses of the spirit—camel, lion, and child—captures the evolutionary breakthrough toward autonomous creativity and new value creation.*
 

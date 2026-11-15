@@ -145,7 +145,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -299,6 +299,7 @@ updated: 2026-11-11
 > [!dev-timeline] 概念演变
 > - **古希腊奠基时期 — 确证真信念与理性求索** [[Plato|柏拉图]]在《泰阿泰德篇》（Theaetetus）中提出知识的经典[[Construct|构念]]——“确证的真信念”（Justified True Belief, JTB），开启西方认识论探究[[Source of Knowledge|知识来源]]与真理标准的哲学传统。
 > - **近代哲学革命 — 理性主义与[[Empiricism|经验主义]]论战** 勒内·[[René Descartes|笛卡尔]]（René Descartes）以理性演绎为基石，[[John Locke|约翰·洛克]]（John Locke）与[[Francis Bacon|弗朗西斯·培根]]（Francis Bacon）以经验归纳与白板说立论，系统确立认识论在哲学探究中的枢纽地位。
+> - **1800–1807 — 德国唯心论与早期浪漫派的审美认识论转向** 谢林与耶拿浪漫派论证命题判断必然制造主客分裂，将艺术与审美直观确立为先于并奠基科学真理的最高认识器官，开启了现代存在论美学与工具理性批判的先声，也引发黑格尔对哲学地位的体系反转。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 67–75, 85–86)]]
 > - **19世纪末至20世纪中叶 — [[Positivism|实证主义]]确立与批判** 实证主义将自然科学的实证经验确立为唯一真理形态；法兰克福学派与[[Karl Popper|卡尔·波普尔]]（Karl Popper）相继批判[[Scientism|科学主义]]的独断论，奠定理论负载与可错论思想。
 > - **1970年代 — 社会[[Scientific Paradigm|科学范式]]二元划分** Burrell and Morgan（1979）将认识论作为核心假设轴线，正式确立[[Objectivism|客观主义]]（实证主义）与[[Subjectivism|主观主义]]（[[Interpretive Paradigm|反实证主义]]）的[[Paradigm|范式]]光谱。
 > - **2000年代 — 认知发展与教育心理学[[Operationalization|操作化]]** [[Deanna Kuhn|迪安娜·库恩]]（Deanna Kuhn）等学者将认识论操作化为个体可发展的“[[Epistemological Understanding|认识论理解]]”模型，开创个人认识论与[[Domain Specificity|领域特殊性]]测量传统。
@@ -383,4 +384,5 @@ updated: 2026-11-11
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 阐明经济合作与发展组织（OECD）如何通过 PISA 确立脱离国家具体课程的全新评价认识论，将教育产出重新界定为面向未来生活与知识经济的通用胜任力及非认知自我效能感，驱动欧洲教育治理的量化技术理性（pp. 26–27, 35）。
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 结合[[Interpretive Policy Analysis|解释性政策分析]]解构超国家政策文本中的修辞隐喻与排他性认识论层级，倡导重构兼顾制度使能环境与地方认知正义的包容性决策生态。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对系统改进实证[[Document|文献]]开展质性综合，对比了理性选择、文化制度、课程规制与协作网络四大路径在因果解释与变革机制上的认识论假设分歧。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — 第 4 章剖析谢林与早期浪漫派如何借审美直观与艺术天才克服概念哲学的分裂困境，建立起艺术真理先于并奠基科学的认识论中心主义美学范式（pp. 67–75, 85–86）。
 

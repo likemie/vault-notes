@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "template-person",
-      "path": "wiki/templates/template-person.md"
+      "basename": "Argument_Hammermeister_2002_Cambridge_Ch03",
+      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch03.md"
+    },
+    {
+      "basename": "Aesthetic Semblance",
+      "path": "wiki/concepts/educational-philosophy/Aesthetic Semblance.md"
+    },
+    {
+      "basename": "Friedrich Schiller",
+      "path": "wiki/persons/germany/Friedrich Schiller.md"
+    },
+    {
+      "basename": "Argument_Hammermeister_2002_Cambridge_Ch02",
+      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch02.md"
     },
     {
       "basename": "Jürgen Habermas",
@@ -13,8 +25,12 @@
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic.md"
     },
     {
-      "basename": "Argument_Hammermeister_2002_Cambridge_Ch02",
-      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch02.md"
+      "basename": "template-person",
+      "path": "wiki/templates/template-person.md"
+    },
+    {
+      "basename": "The Sublime",
+      "path": "wiki/concepts/educational-philosophy/The Sublime.md"
     },
     {
       "basename": "Begg and Mazumdar Rank Correlation",
@@ -183,22 +199,6 @@
     {
       "basename": "template-fact-eef-programme",
       "path": "wiki/templates/template-fact-eef-programme.md"
-    },
-    {
-      "basename": "Barmecide Feast",
-      "path": "wiki/concepts/political-economy-geopolitics/Barmecide Feast.md"
-    },
-    {
-      "basename": "Voice, Tense, and Concision in Academic Writing",
-      "path": "wiki/concepts/academic-writing/Voice, Tense, and Concision in Academic Writing.md"
-    },
-    {
-      "basename": "Research Writing Script",
-      "path": "wiki/concepts/academic-writing/Research Writing Script.md"
-    },
-    {
-      "basename": "Benevolence",
-      "path": "wiki/concepts/chinese-philosophy/Benevolence.md"
     }
   ],
   "omittedPaths": [],

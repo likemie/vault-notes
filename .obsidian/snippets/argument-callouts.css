@@ -28593,3 +28593,43 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout.callo
 @keyframes tl-deal { from { opacity: 0; transform: translate(-10px, 10px) rotate(-1.2deg); } to { opacity: 1; transform: none; } }
 @keyframes tl-cursor { 0% { left: 0; opacity: 0; } 15% { opacity: 1; } 80% { opacity: 1; } 100% { left: 52%; opacity: 0; } }
 /* <<< TOOLS INDEX CARDS DESIGN */
+
+/* >>> PERSON PAGE TYPE SCALE */
+/* =====================================================================
+   Person Page · 人物页字号与间距（2026-11-15 v2）
+   作用范围：frontmatter 含 cssclasses: person-page 的页面（Person 条目）。
+   只统一字号、行高与间距；颜色、边框、角标图标、深色引用卡片、列表圆点、
+   时间轨道等组件外观全部沿用 argument-callouts.css，不在此处改动。
+   删除本段即回到原样式。由 tmp/person-page/gen.py 生成，随 argument-callouts.css 同步到线上。
+
+   组件标题 18px / 600      嵌套子块标题 14.5px
+   正文 15px、行高 1.75      嵌套子块正文 14.5px
+   表格 14px                 眉标 10.5px
+   ===================================================================== */
+
+/* 01 外壳间距：原先有 16/17.6 与 19.2/22.4 两种内边距 */
+html body .person-page .callout.callout.callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout] { padding: 19px 22px 18px !important; margin: 16px 0 !important; }
+
+/* 02 组件标题：原先有 16px/600 与 18.4px/500 两种 */
+html body .person-page .callout.callout.callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout] > .callout-title { padding-bottom: 12px !important; margin-bottom: 14px !important; }
+html body .person-page .callout.callout.callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout] > .callout-title .callout-title-inner { font-size: 18px !important; font-weight: 600 !important; line-height: 1.4 !important; }
+html body .person-page .callout.callout.callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout] > .callout-title .callout-title-inner::before { font-size: 10.5px !important; font-weight: 650 !important; margin-bottom: 6px !important; }
+
+/* 03 正文：原先有 14.72 / 15.04 / 15.2 / 15.36px 四种 */
+html body .person-page .callout.callout.callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout] > .callout-content { font-size: 15px !important; line-height: 1.75 !important; margin-top: 0 !important; }
+html body .person-page .callout.callout.callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout] > .callout-content :is(p, ul, ol, li) { font-size: inherit !important; line-height: inherit !important; }
+
+/* 04 嵌套子块（学术争议的 axis 等）：标题原为 12.7px，偏小 */
+html body .person-page .callout .callout.callout.callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout] { padding: 14px 16px !important; margin: 12px 0 !important; }
+html body .person-page .callout .callout.callout.callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout] > .callout-title { padding-bottom: 0 !important; margin-bottom: 8px !important; }
+html body .person-page .callout .callout.callout.callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout] > .callout-title .callout-title-inner { font-size: 14.5px !important; font-weight: 600 !important; line-height: 1.5 !important; }
+html body .person-page .callout .callout.callout.callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout] > .callout-content { font-size: 14.5px !important; }
+
+/* 05 表格：字号统一 14px；条目关联的类型列不换行 */
+html body .person-page .callout.callout.callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout] > .callout-content :is(td, th) { line-height: 1.6 !important; }
+html body .person-page .callout.callout.callout.callout.callout.callout.callout.callout.callout.callout.callout[data-callout] > .callout-content td { font-size: 14px !important; }
+html body .person-page .callout.callout.callout.callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="entry-map"]) > .callout-content :is(td, th):nth-child(2) { white-space: nowrap !important; }
+
+/* 06 分隔线上下间距收紧，使组件之间的间隔更均匀 */
+html body .person-page hr { margin-top: 26px !important; margin-bottom: 26px !important; }
+/* <<< PERSON PAGE TYPE SCALE */

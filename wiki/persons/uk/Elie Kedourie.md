@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_persons:
   - "[[Eric Hobsbawm]]"
   - "[[Anthony D. Smith]]"
   - "[[Immanuel Kant]]"
+  - "[[Johann Gottlieb Fichte]]"
   - "[[Benedict Anderson]]"
 related_facts:
   - "[[Education Resources Information Center]]"
@@ -73,7 +74,7 @@ updated: 2026-11-15
 ---
 
 > [!thought-timeline] 思想发展
-> - **1950–1960年代 — 观念史批判与民族主义发明论** 梳理自康德、费希特以来的德国唯心主义哲学演变，指出民族主义是一种危害宪政法治与传统多民族秩序的观念发明。
+> - **1950–1960年代 — 观念史批判与民族主义发明论** 梳理自康德、[[Johann Gottlieb Fichte|费希特]]以来的德国唯心主义哲学演变，指出民族主义是一种危害宪政法治与传统多民族秩序的观念发明。
 >   - **代表著作** *Nationalism* (1960)。[[Argument_Anderson_2016_Verso_Ch11|(Anderson, 2016, p. 213, n. 2)]]
 >   - **关键概念** 民族主义起源、哲学观念发明、保守宪政秩序。
 >   - **阶段转向** 从中东近代外交与军事[[Archival Research|档案研究]]，深化为对欧洲启蒙以降激进意识形态的系统批判。

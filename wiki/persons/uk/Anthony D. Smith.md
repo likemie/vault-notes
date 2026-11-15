@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: uk
 person_region: "uk"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Print-Capitalism]]"
   - "[[Bureaucracy]]"
+  - "[[New Mythology]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Document]]"
   - "[[National Biography]]"
@@ -97,7 +98,7 @@ updated: 2026-11-15
 ---
 
 > [!citation-card] 史密斯论族裔核心与现代民族的连续性
-> 现代民族的核心是一个由集体记忆、神话、价值观与象征符号构成的文化遗产复合体，它在几个世纪的漫长时间中缓慢积淀而成。现代民族主义精英要想获得成功，就必须唤醒并重新阐释既有的族裔核心（ethnic core）。既有的文化遗产限制了精英创造新神话和符号的空间。
+> 现代民族的核心是一个由集体记忆、神话、价值观与象征符号构成的文化遗产复合体，它在几个世纪的漫长时间中缓慢积淀而成。现代民族主义精英要想获得成功，就必须唤醒并重新阐释既有的族裔核心（ethnic core）。既有的文化遗产限制了精英创造[[New Mythology|新神话]]和符号的空间。
 >
 > *Nations are not modern inventions ex nihilo. They are built upon pre-existing ethnic ties, or ‘ethnies,’ with their own myths, symbols, memories, and values. Modern nationalism reconstructs and transforms these cultural heritages, but it does not fabricate them out of whole cloth.*
 

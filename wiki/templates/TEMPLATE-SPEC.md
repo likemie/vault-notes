@@ -520,7 +520,7 @@ Person 页写学者、思想家、政策人物、方法论人物或关键行动�
 
 规则：
 
-- Person 条目 frontmatter 固定写 `cssclasses: [person-page]`，启用人物页统一版式（见 `CALLOUTS.md` 第 17 节）。
+- Person 条目 frontmatter 固定写 `cssclasses: [person-page]`，启用人物页的统一字号与间距（见 `CALLOUTS.md` 第 17 节）。
 - 人物档案、核心思想、条目关联必填；其余模块无充分材料即整块省略，不留空壳或占位行。
 
 - `nationality` 按国籍或主要学术归属填写；不明或跨国身份放 `global` 文件夹。

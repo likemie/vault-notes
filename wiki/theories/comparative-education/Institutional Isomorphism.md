@@ -9,7 +9,7 @@ aliases:
 summary: "组织社会学新制度主义理论，阐明处于同一场域中的组织因追求制度合法性与采纳合理化神话，通过强制型、模仿型与规范型三种机制走向结构与行为模式的系统性趋同。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 42
+theory_related_count: 44
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -24,8 +24,10 @@ related_concepts:
   - "[[Rationalized Myth]]"
   - "[[Bureaucracy]]"
   - "[[Causality]]"
+  - "[[New Mythology]]"
   - "[[Unit of Analysis]]"
   - "[[Paradigm]]"
+  - "[[Climatic Determinism]]"
   - "[[Corporate Education]]"
   - "[[Geopolitics]]"
   - "[[Institutional Mimesis]]"
@@ -70,7 +72,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-18
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -94,13 +96,13 @@ updated: 2026-11-11
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 保罗·迪马吉奥与沃尔特·鲍威尔（Paul J. DiMaggio & Walter W. Powell, 1983）在《美国社会学期刊》发表《铁笼再访：组织场域中的制度同构与集体理性》（*The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields*），奠定制度同构理论基石。
 > - **原初问题** 韦伯曾认为[[Bureaucracy|科层官僚制]]因具有技术效率而像“铁笼”般席卷现代社会。但在 20 世纪后期的后工业与公共部门中，许多组织在技术效率低下或[[Causality|因果关系]]模糊的情况下，依然表现出惊人相似的正式官僚架构，传统理性效率模型无法解释这一同质化现象。
-> - **理论资源与材料** 吸收[[Max Weber|马克斯·韦伯]]的合理化[[Tullock's Bureaucracy Theory|官僚制理论]]、迈耶与罗恩（Meyer & Rowan, 1977）关于组织正式结构反映“理性神话与仪式”的新制度主义洞察，以及对艺术博物馆、出版业和高校行政结构的历史与实证考察。
+> - **理论资源与材料** 吸收[[Max Weber|马克斯·韦伯]]的合理化[[Tullock's Bureaucracy Theory|官僚制理论]]、迈耶与罗恩（Meyer & Rowan, 1977）关于组织正式结构反映“[[New Mythology|理性神话]]与仪式”的新制度主义洞察，以及对艺术博物馆、出版业和高校行政结构的历史与实证考察。
 > - **形成路径** 提出者将[[Unit of Analysis|分析单位]]从单个组织转向“组织场域（organizational field）”，提炼出驱动组织趋同的三重动力机制——政治规制与资源依赖产生的强制压力、目标模糊与不确定性引发的模仿行为，以及专业化网络与职业共识促成的规范要求，完整构建起制度同构解释机制。
 
 > [!dev-timeline] 理论版本与贡献
 > - **1977年 — 制度化神话奠基** [[John W. Meyer|约翰·迈耶]]与布赖恩·罗恩（Meyer & Rowan, 1977）发表《作为神话与仪式的正式组织》，指出正式结构往往是获取合法性的[[Rationalized Myth|合理化神话]]。
 > - **1983年 — 三大同构机制系统确立** 迪马吉奥与鲍威尔（DiMaggio & Powell, 1983）发表《铁笼再访》，系统界定强制型、模仿型与规范型同构，确立组织[[Champ|场域]]分析[[Paradigm|范式]]。
-> - **1988年 — 制度创业与能动性反思** DiMaggio (1988) 引入“制度创业者（institutional entrepreneurs）”概念，反思同构理论过分强调环境决定论的倾向，探讨行动者如何调动资源创建或操纵制度规则。
+> - **1988年 — 制度创业与能动性反思** DiMaggio (1988) 引入“制度创业者（institutional entrepreneurs）”概念，反思同构理论过分强调[[Climatic Determinism|环境决定论]]的倾向，探讨行动者如何调动资源创建或操纵制度规则。
 > - **2017年 — 高等教育科研网络同构验证** 赛勒斯·莫迪（[[Argument_Mody_2017_MOH|Mody, 2017]]）以全美大学微电子研究中心为实证，揭示高技术重资产背景下，各大学通过先行者标杆跟踪、模式主动示范以及教员与博士生跨校流动（Personnel Mobility），完成组织形态与治理规范的制度同构进程。（p. 297）
 > - **2021–2022年 — 跨国[[Corporate Education|企业教育]]与跨国测评同构深化** [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] 揭示跨国公司企业教育中的权威动员机制与[[Geopolitics|地缘政治]]不对称；[[Argument_Helgetun_2022_JEdPolicy|Helgetun and Menter (2022)]] 揭示教师教育政策中证据作为合理化神话驱动的规范与强制同构机制；[[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] 阐明跨国测评文化如何驱动主权国家主动接纳标准化现代教育模型并诱发制度脱耦。
 

@@ -8,7 +8,7 @@ aliases:
 summary: "康德在《判断力批判》中确立的非概念性反思判断，以无功利愉悦、主观普遍性、无目的的合目的性与必然共同愉悦界定美，弥合自然必然性与道德自由之间的裂隙。"
 type: concept
 domain: "educational-philosophy"
-related_count: 10
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,16 +17,21 @@ tags:
   - theme/aesthetics
   - theme/enlightenment
 related_concepts:
-  - "[[Phronesis]]"
-  - "[[Epoché]]"
+  - "[[Purposiveness without Purpose]]"
+  - "[[Free Beauty]]"
+  - "[[Adherent Beauty]]"
   - "[[Disinterested Pleasure]]"
+  - "[[Free Play]]"
   - "[[Aesthetic Education]]"
+  - "[[Epoché]]"
   - "[[Philosophical Aesthetics]]"
   - "[[Aesthetic Idea]]"
   - "[[Aesthetic Autonomy]]"
   - "[[Paradigm]]"
 related_persons:
   - "[[Immanuel Kant]]"
+  - "[[Friedrich Schiller]]"
+  - "[[Johann Gottlieb Fichte]]"
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
 confidence: high
@@ -41,9 +46,9 @@ updated: 2026-11-15
 > 鉴赏判断（Judgment of Taste）是[[Immanuel Kant|伊曼努尔·康德]]（Immanuel Kant）在 1790 年《判断力批判》（*Critique of Judgment*, *CJ*）中界定的评判美的能力（*CJ*, §1 脚注），指主体脱离知性概念归摄、直接借助想象力将对象表象关联于自身愉快或不愉快情感的审美判断。该判断既脱离认知判断的逻辑普遍性，也区别于感官快适与道德善的利害关切，构成康德沟通纯理论理性（自然）与实践理性（自由）的中介桥梁。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 21–22, 27–32)]]
 
 > [!concept-lens|notitle] 概念透镜
-> - **含义** 依据《纯粹理性批判》的质、量、关系、模态四项范畴，从无功利性、主观普遍性、无目的的合目的性与必然性四个契机规定审美判断与美的本质。
+> - **含义** 依据《纯粹理性批判》的质、量、关系、模态四项范畴，从无功利性、主观普遍性、[[Purposiveness without Purpose|无目的的合目的性]]与必然性四个契机规定审美判断与美的本质。
 > - **用途** 解释审美评价为何既缺乏逻辑证明的强制力，又能在人类共同认识官能的基础上合理要求他人赞同，并促进社会交往。
-> - **边界** 在康德体系中，纯粹鉴赏判断不提供任何关于对象的认知真理，也不指向对象的实体属性；此外，自由美与依附美的二分在《判断力批判》后文（如人体理想与音乐降等）中存在内部张力。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 26–28, 39–40)]]
+> - **边界** 在康德体系中，纯粹鉴赏判断不提供任何关于对象的认知真理，也不指向对象的实体属性；此外，[[Free Beauty|自由美]]与[[Adherent Beauty|依附美]]的二分在《判断力批判》后文（如人体理想与音乐降等）中存在内部张力。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 26–28, 39–40)]]
 
 > [!citation-card|notitle] 鉴赏判断的非认知性与主观决定根据
 > 为了分辨某物美或不美，我们不借助知性将表象关联于客体以求知识，转而通过想象力（也许与知性相结合）将其关联于主体及其愉快或不愉快的情感。因此，鉴赏判断具有审美性而非认知性或逻辑性，其决定根据只能是主观的。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 28)]]
@@ -68,14 +73,14 @@ updated: 2026-11-15
 ---
 
 > [!feature] 核心要素与判断类型
-> - **诸官能的自由游戏（Free Play of Faculties）** 经验认知通常历经感性接收、想象力综合与知性提供概念三步；鉴赏判断停留在想象力向知性不断尝试概念化却永不终结的往复运动中，由此生发持续更新的愉悦感。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 29–30)]]
+> - **诸官能的[[Free Play|自由游戏]]（Free Play of Faculties）** 经验认知通常历经感性接收、想象力综合与知性提供概念三步；鉴赏判断停留在想象力向知性不断尝试概念化却永不终结的往复运动中，由此生发持续更新的愉悦感。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 29–30)]]
 > - **自由美与依附美（Free vs. Adherent Beauty）** 自由美（*pulchritudo vaga*，如花朵、蔓藤纹样、无词纯音乐）不预设对象目的概念，对应纯粹鉴赏判断；依附美（*pulchritudo adhaerens*，如马匹、建筑、人体）预设目的与完善概念，属于应用性、非纯粹判断。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 25–26)]]
-> - **社会可传达性（Sociability）** 美在经验上只存在于社会之中；鉴赏判断驱使人走出孤立，在文化交流中分享共同情感，直接启发席勒的[[Aesthetic Education|审美教育]]与费希特（Johann Gottlieb Fichte）的共同体构想。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 36–37)]]
+> - **社会可传达性（Sociability）** 美在经验上只存在于社会之中；鉴赏判断驱使人走出孤立，在文化交流中分享共同情感，直接启发[[Friedrich Schiller|席勒]]的[[Aesthetic Education|审美教育]]与[[Johann Gottlieb Fichte|费希特]]（Johann Gottlieb Fichte）的共同体构想。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 36–37)]]
 
 ---
 
 > [!concept-proposition] 命题一｜无概念的“自由游戏”既保证了审美愉悦的恒久更新，也解释了品味争论的不可终结性
-> **认知悬置与主观普遍性** 鉴赏判断通过悬置概念归摄，使同一作品得以反复激发理解力探索而免于耗竭，同时划定了审美争论的合法边界。
+> **认知[[Epoché|悬置]]与主观普遍性** 鉴赏判断通过悬置概念归摄，使同一作品得以反复激发理解力探索而免于耗竭，同时划定了审美争论的合法边界。
 
 > [!claim] Hammermeister, K.
 > **超越私欲的共通感基础** 由于知性无法提供足以穷尽想象力表象的最终概念，主体在熟悉画作或交响乐面前能够不断获得新鲜愉悦；同时，因为鉴赏判断剔除了个人占有欲望，主体可以期待拥有相同感性与知性结构的所有人产生同感，从而在“趣味无可争辩”的传统格言中确立“可争论但无法以逻辑论证终结”的新立场。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 29–32)]]

@@ -3,7 +3,6 @@ title: Thomas Schelling
 aliases:
   - 托马斯·谢林
   - 托马斯·克罗姆比·谢林
-  - 谢林
   - "Schelling, T."
   - "Schelling, T. C."
   - Thomas C. Schelling
@@ -42,7 +41,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-26
+updated: 2026-11-15
 ---
 
 ---
@@ -79,7 +78,7 @@ updated: 2026-10-26
 ---
 
 > [!claim] 核心思想
-> 战略冲突与国际对抗的本质并非纯粹的物理毁灭，而是一种基于暴力预期与伤害潜能的动态讨价还价过程（Bargaining Process）。有效的强制外交（Coercive Diplomacy）和威慑机制，不取决于单方面的道德优越感，而取决于一方是否拥有能够对敌对目标造成实质性伤害（Power to Hurt）的可信技术手段与明确意志。
+> 战略冲突与国际对抗的本质是一种基于暴力预期与伤害潜能的动态讨价还价过程（Bargaining Process），有别于纯粹的物理毁灭。有效的强制外交（Coercive Diplomacy）和威慑机制取决于一方是否拥有能够对敌对目标造成实质性伤害（Power to Hurt）的可信技术手段与明确意志，重于单方面的道德优越感。
 
 > [!citation-card] 强制暴力的预期性与外交本质
 > 暴力若要具备强制效力，就必须是被对手所预期的。施加伤害的能力就是谈判的筹码。利用这种筹码就是外交——残酷的外交，但它依然是外交。战争始终是一个讨价还价的过程。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Schelling, 1966/2020, pp. 2, 142; Karp & Zamiska, 2025, p. 32)]]
@@ -91,7 +90,7 @@ updated: 2026-10-26
 > [!influence-path] 影响路径
 > - **理论路径** 彻底重构了国际关系现实主义与[[Strategic Bargaining Theory|战略博弈论]]，为现代威慑理论、核军控谈判与危机沟通建立了严密的分析工具。
 > - **政策路径** 深度影响了冷战期间[[Department of Defense|美国国防部]]与白宫的国家安全战略，其关于美苏危机热线与可信威慑梯队的构想成为现实制度。
-> - **跨领域传播** 其思想被广泛应用于现代科技政策与国家战略研究，卡普与扎米斯卡（2025）将其冷峻的现实主义杠杆观引入对人工智能时代[[Technological Republic|技术共和国]]软件[[Hard Power|硬实力]]的理论构建中。
+> - **跨领域传播** 其思想被广泛应用于现代科技政策与国家战略研究，卡普与扎米斯卡（2025）将其冷峻的现实主义博弈筹码观引入对人工智能时代[[Technological Republic|技术共和国]]软件[[Hard Power|硬实力]]的理论构建中。
 
 ---
 
@@ -100,5 +99,5 @@ updated: 2026-10-26
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Hard Power]] | 概念 | 理论基石，提供关于伤害能力转化为战略议价筹码的微观机制解释。 |
-> | [[Winner's Fallacy]] | 概念 | 批判参照，揭示脱离实际强制杠杆的空洞道德主义在地缘博弈中的危险。 |
+> | [[Winner's Fallacy]] | 概念 | 批判参照，揭示脱离实际强制筹码的空洞道德主义在地缘博弈中的危险。 |
 > | [[Technological Republic]] | 概念 | 应用领域，为现代国家在算法时代确立软件威慑力量提供现实主义战略支撑。 |

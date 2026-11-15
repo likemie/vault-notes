@@ -10,7 +10,7 @@ aliases:
 summary: "将专业实践与教育治理窄化为手段-目的因果计算与去情境化技术控制的实证主义模型；在微观教学中剥夺教师专业判断，在宏观政策与比较教育中将教育退化为劳动力技能规训并侵蚀全人教化"
 type: concept
 domain: "educational-philosophy"
-related_count: 152
+related_count: 153
 related_level: 15
 related_stars: "💎💎💎💎💎"
 related_color: "#ddd6fe"
@@ -73,6 +73,7 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Competitiveness]]"
+  - "[[New Mythology]]"
   - "[[Smart Buys]]"
   - "[[Research Problem]]"
   - "[[Geopolitics]]"
@@ -182,7 +183,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-11-13
+updated: 2026-11-15
 ---
 
 ---
@@ -311,7 +312,7 @@ updated: 2026-11-13
 > **[[Socioeconomic Status|阶级盲教学思维]]、[[Construct|构念]]拼贴混淆与[[Neo-Taylorism|新泰勒主义]]规训** 尼尔森与克利特默勒通过审查哈蒂实证体系揭示了技术理性在当代教育中的三重异化：其一，在[[Variable|变量]]处理上，故意将最具决定性的社会阶层（SES）排除出[[Moderator Analysis|调节变量分析]]，将学生预设为均质白板，炮制出免除社会不平等冲击的“阶级盲教学思维”（class-blind pedagogical thinking）；其二，在数据汇总上，将行为强化、教师身体亲和力与测验提示等异质构念拼凑为单一反馈均值，掩盖了高达 38% 的负效应；其三，在治理实质上，正如埃考特（[[Argument_Eacott_2017_SLM|Eacott, 2017]]）所指出的，以中立客观科学修辞建构的新泰勒主义（Neo-Taylorism），为教育行政官僚自上而下标准化监控教师劳动、剥夺教师专业裁量权提供了技术理性借口。[[Argument_Nielsen_2021_NordPsych\|(Nielsen & Klitmøller, 2021a, pp. 5–15)]]
 
 > [!claim] [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]]
-> **超国家循证咨询的技术理性神话与去政治化治理** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）深入解构了[[Global Education Evidence Advisory Panel|全球教育证据咨询小组]]（GEEAP）与[[World Bank|世界银行]]等超国家机构推行技术理性的机制。咨询小组宣称自身决策纯粹依托客观证据、超脱于各方利益，将科研严谨性等同于量化实验与[[Meta-analysis|元分析]]因果评估，借助“[[Smart Buys|智能购买]]”等成本效益排位将教育改革转化为去情境化的方案采购。这种技术理性将一线教师的[[Phronesis|实践智慧]]与本土传统贬低为非正规经验，同时以中立科学修辞掩盖了[[Research Problem|研究议题]]遴选与资金流向背后深层的[[Geopolitics|地缘政治]]诉求与权力不对称，构筑了去政治化的虚假客观表象。[[Argument_Campbell_2026_JPCC\|(Campbell et al., 2026, pp. 347–348)]]
+> **超国家循证咨询的技术[[New Mythology|理性神话]]与去政治化治理** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）深入解构了[[Global Education Evidence Advisory Panel|全球教育证据咨询小组]]（GEEAP）与[[World Bank|世界银行]]等超国家机构推行技术理性的机制。咨询小组宣称自身决策纯粹依托客观证据、超脱于各方利益，将科研严谨性等同于量化实验与[[Meta-analysis|元分析]]因果评估，借助“[[Smart Buys|智能购买]]”等成本效益排位将教育改革转化为去情境化的方案采购。这种技术理性将一线教师的[[Phronesis|实践智慧]]与本土传统贬低为非正规经验，同时以中立科学修辞掩盖了[[Research Problem|研究议题]]遴选与资金流向背后深层的[[Geopolitics|地缘政治]]诉求与权力不对称，构筑了去政治化的虚假客观表象。[[Argument_Campbell_2026_JPCC\|(Campbell et al., 2026, pp. 347–348)]]
 
 > [!claim] [[Argument_Stone_2020_PolSoc\|Stone et al. (2020)]]
 > **跨国政策转移中的中立理性借鉴偏误与权力遮蔽** 戴安·斯通等学者（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）指出，经典[[Policy Transfer Framework|政策转移框架]]深嵌于技术理性预设之中，将跨国[[Policy Mobility|政策流动]]窄化为技术性的中立经验汲取（Lesson-Drawing）与最佳实践复制，预设政策知识属于去政治化的工具性要素。这种技术理性假定不仅将流动方向单向锁定于由西方发达国家向落后边缘地区的扩散，更赋予自然科学与计量学科专家以独占性权威，完全漠视扎根于地方发展现场的经验智慧；国际发展合作实践表明，跨国政策借鉴必然嵌入于地缘政治的非对称权力网络之中，必须依托[[Policy Ambassador|政策大使]]与扎根本土的[[Representational Knowledge|代表性知识]]打破技术官僚理性垄断。[[Argument_Stone_2020_PolSoc\|(Stone et al., 2020, pp. 2–5, 8–10)]]

@@ -12,7 +12,7 @@ aliases:
 summary: "由桑托·福图纳托等人（Fortunato et al., 2014）阐释的科学计量学构念；指科学家做出开创性科学突破到其正式荣获诺贝尔科学奖之间经历的时间间隔；该间隔在 20 世纪下半叶呈现指数级延展，与诺奖禁止死后追授的章程形成生存竞赛，构成筛选晚期创新者的制度性屏障。"
 type: concept
 domain: "science-policy"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Discipline-Based Theory]]"
   - "[[Construct]]"
   - "[[Variable]]"
+  - "[[New Mythology]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-30
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 ---
@@ -163,4 +164,4 @@ updated: 2026-11-14
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Wang & Barabási (2021)]] — 将授奖时滞作为揭示学术荣誉制度危机与生存偏差的核心构念，支撑对青年创新神话的理论解构。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Wang & Barabási (2021)]] — 将授奖时滞作为揭示学术荣誉制度危机与生存偏差的核心构念，支撑对青年创[[New Mythology|新神话]]的理论解构。

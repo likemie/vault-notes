@@ -9,10 +9,10 @@ aliases:
 summary: "审美主体悬置占有欲念与概念求知目的所获得的无欲之乐，由门德尔松以赞同官能和舞台道德独立性系统提出，直接先导康德美学范式。"
 type: concept
 domain: "educational-philosophy"
-related_count: 5
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - field/philosophy
   - theme/aesthetics
@@ -20,11 +20,16 @@ tags:
 related_concepts:
   - "[[Epoché]]"
   - "[[Philosophical Aesthetics]]"
+  - "[[Aesthetic Autonomy]]"
+  - "[[Aesthetic Education]]"
+  - "[[Judgment of Taste]]"
 related_persons:
   - "[[Moses Mendelssohn]]"
   - "[[Immanuel Kant]]"
+  - "[[Friedrich Schiller]]"
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
 confidence: high
 status: draft
 created: "2026-11-14"
@@ -55,17 +60,17 @@ updated: 2026-11-15
 
 ---
 
-> [!concept-proposition] 命题一｜将审美愉悦剥离认知与占有欲望，是确立艺术自主性的关键机制
+> [!concept-proposition] 命题一｜将审美愉悦剥离认知与占有欲望，是确立[[Aesthetic Autonomy|艺术自主性]]的关键机制
 > **自主性的心理学奠基** 只有当审美接受被视为一种不以占有或道德说教为目的的独立灵魂官能时，艺术题材才能获得免于外部规训的自由。
 
 > [!claim] Hammermeister, K.
-> **通向审美教育的自由空间** 门德尔松继承了沙夫茨伯里（Shaftesbury）的无功利之爱与让-巴蒂斯特·杜博斯（Jean-Baptiste Dubos）的纯粹愉悦（*plaisir pur*）思想，通过赞同官能将艺术从道德审查与规则束缚中解放出来；正是这种题材与感受的自由，使艺术能够更有效地促成人的诸官能和谐发展，成为审美教育不可或缺的工具。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 18–20)]]
+> **通向[[Aesthetic Education|审美教育]]的自由空间** 门德尔松继承了沙夫茨伯里（Shaftesbury）的无功利之爱与让-巴蒂斯特·杜博斯（Jean-Baptiste Dubos）的纯粹愉悦（*plaisir pur*）思想，通过赞同官能将艺术从道德审查与规则束缚中解放出来；正是这种题材与感受的自由，使艺术能够更有效地促成人的诸官能和谐发展，成为审美教育不可或缺的工具。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 18–20)]]
 
-> [!concept-proposition] 命题二｜康德通过区分三种愉悦将无功利性确立为鉴赏判断的首要先验标准
+> [!concept-proposition] 命题二｜康德通过区分三种愉悦将无功利性确立为[[Judgment of Taste|鉴赏判断]]的首要先验标准
 > **脱离存在兴趣的审美愉悦** 康德在《判断力批判》（§5）中系统区分感官快适、道德善与美所引发的愉悦，指出唯有审美愉悦完全不关心对象是否实际存在。
 
 > [!claim] Hammermeister, K.
-> **快适、善与美的三重区隔** 对快适（如偏好葡萄酒胜过啤酒）的愉悦基于纯粹主观欲望并意图消耗对象，对道德善的愉悦虽要求普遍有效性却仍伴随促使善存在之实践兴趣；唯有审美愉悦悬置了一切占有与渴望，同时激发并安顿人的认识官能，这一立场在 1785 年卡尔·菲利普·莫里茨（Karl Philipp Moritz）“美因自身完美而令人愉悦”的论述中已见先声，并深刻影响了叔本华（Arthur Schopenhauer）与席勒（Friedrich Schiller）。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 28–29)]]
+> **快适、善与美的三重区隔** 对快适（如偏好葡萄酒胜过啤酒）的愉悦基于纯粹主观欲望并意图消耗对象，对道德善的愉悦虽要求普遍有效性却仍伴随促使善存在之实践兴趣；唯有审美愉悦悬置了一切占有与渴望，同时激发并安顿人的认识官能，这一立场在 1785 年卡尔·菲利普·莫里茨（Karl Philipp Moritz）“美因自身完美而令人愉悦”的论述中已见先声，并深刻影响了叔本华（Arthur Schopenhauer）与[[Friedrich Schiller|席勒]]（Friedrich Schiller）。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 28–29)]]
 
 ---
 

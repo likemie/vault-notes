@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 44
+person_related_count: 43
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -44,8 +44,6 @@ related_concepts:
   - "[[Sage]]"
   - "[[Concept Mapping]]"
   - "[[Creativity]]"
-  - "[[Pride in Learning]]"
-  - "[[Refined Mastery]]"
   - "[[Establishing One's Will]]"
   - "[[Ideal Learner]]"
   - "[[Socioeconomic Status]]"
@@ -62,6 +60,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Autoethnography]]"
 related_persons:
+  - "[[Friedrich Schiller]]"
   - "[[Kurt Fischer]]"
   - "[[Socrates]]"
   - "[[Mencius]]"
@@ -75,7 +74,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 > [!person-profile] 人物档案
@@ -87,7 +86,7 @@ updated: 2026-11-11
 > - 中国成长，大学阶段学习德语文学([[Argument_Li_2012_Cambridge\|Li, 2012, p.xiii]])
 > - 1977 年通过文革后首届[[Gaokao\|高考]]，录取率约 4.7%（5,700,000 人报考, 27,000 人录取），被第二志愿——一所以外语著称的高校——录取([[Argument_Li_2012_Cambridge\|Li, 2012, pp.2–3]])
 > - 大学四年主要由西德外教授课，课程设置贴近德国[[Didaktik\|教学理论]]，实质接受了具有德国色彩的[[Liberal Education\|博雅教育]]([[Argument_Li_2012_Cambridge\|Li, 2012, p.3]])
-> - 大学期间学习德语语言、文学与西方艺术史，阅读歌德、席勒、海涅、卡夫卡、布莱希特等大量德语作家，同时接触莫扎特、贝多芬等西方音乐([[Argument_Li_2012_Cambridge\|Li, 2012, p.4]])
+> - 大学期间学习德语语言、文学与西方艺术史，阅读歌德、[[Friedrich Schiller|席勒]]、海涅、卡夫卡、布莱希特等大量德语作家，同时接触莫扎特、贝多芬等西方音乐([[Argument_Li_2012_Cambridge\|Li, 2012, p.4]])
 > - 大学毕业后留校教授德语数年，随后因婚姻移民美国([[Argument_Li_2012_Cambridge\|Li, 2012, pp.5–6]])
 > - 初到美国时英语很差，在佛蒙特州高中担任代课教师（本应教德语却被安排了英语课），对美国学生对学习的冷漠态度感到震惊——这段经历后来成为研究议程的重要触发点([[Argument_Li_2012_Cambridge\|Li, 2012, pp.6–7]])
 > - 在匹兹堡大学学习儿童[[Creativity Training\|创造力培养]]([[Argument_Li_2012_Cambridge\|Li, 2012, p.xiii, p.8]])
@@ -144,13 +143,13 @@ Li 在第 3 章通过"[[Prototype Methods|原型方法]]"（prototype methods）
 - 学习目的：培养心智／理解世界、发展能力／技能、达成个人目标
 - 能动过程：主动参与、思考／批判推理、探究、沟通
 - 成就类型：理解本质／专长、个人洞见／[[Creativity|创造性]]解决问题、做最好的自己
-- 正面情感：好奇心／兴趣、内在享受、挑战态度、对成就的[[Pride in Learning|自豪]]
+- 正面情感：好奇心／兴趣、内在享受、挑战态度、对成就的自豪
 - 负面情感：冷漠／无聊、外在动机、对失败的失望／低自尊
 
 **中国学习模型([[Argument_Li_2012_Cambridge|Li, 2012, pp.103-113]])**
 - 学习目的：道德／社会自我完善、获取知识／技能、贡献社会
 - 能动过程即五种学习美德：诚意／认真（renzhen）、勤奋／发奋（qinfen）、刻苦（keku）、恒心（hengxin）、专心（zhuanxin）
-- 成就类型：广度与深度／[[Refined Mastery|精通]]知识、知识运用、知识与道德品质的统一
+- 成就类型：广度与深度／精通知识、知识运用、知识与道德品质的统一
 - 正面情感：[[Establishing One's Will|立志]]、热爱／激情／渴求、尊重／接纳、对成就的谦虚
 - 负面情感：缺乏渴望、傲慢、对学业不佳的羞耻／内疚
 
@@ -169,7 +168,7 @@ Li 强调这些是**文化层面**的模型（culture-level models），而非�
 
 ### 文化冲击：美国学生对学习的冷漠
 
-移民美国后，Li 在佛蒙特州和宾夕法尼亚州的中学对美国学生对学习的普遍冷漠态度感到震惊——这与她在中国经历的对学习的全身心投入形成了强烈反差。虽然她最初将学生的冷漠归咎于自己英语差，但随着观察范围扩大，她意识到这并非孤立现象——即使在美国最富有的国家，大量学生对学习缺乏兴趣([[Argument_Li_2012_Cambridge|Li, 2012, pp.6–7]])。
+移民美国后，Li 在佛蒙特州和宾夕法尼亚州的中学对美国学生对学习的普遍冷漠态度感到震惊——这与她在中国经历的对学习的全身心投入形成了强烈反差。虽然她最初将学生的冷漠归咎于自己英语差，但随着观察范围扩大，她意识到这属于普遍现象——即使在美国最富有的国家，大量学生对学习缺乏兴趣([[Argument_Li_2012_Cambridge|Li, 2012, pp.6–7]])。
 
 ### 发现"水"：文化意识的觉醒
 

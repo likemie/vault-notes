@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 42
+person_related_count: 43
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Transnational Education]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
+  - "[[New Mythology]]"
   - "[[Falsification]]"
   - "[[Epistemic Governance]]"
   - "[[Knowledge-Based Economy]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-11
-updated: 2026-11-11
+updated: 2026-11-15
 ---
 
 ---
@@ -111,7 +112,7 @@ updated: 2026-11-11
 > [!thought-timeline] 思想发展
 > - **1970–1979 — 经验异常与[[Rationalized Myth|制度神话]]的发现：从国家内部[[Variable|变量]]到组织新制度主义** 这一时期主要回应战后跨国教育普及浪潮中出现的经验异常，即为何无论国家贫富、政体民主或专制，全球各地的学校入学率均出现步调一致的暴增，且组织内部的正式结构与实际技术活动往往严重脱节。
 >   - **代表著作** Meyer (1971) *Economic and Political Effects on National Educational Enrollment Patterns*; Meyer and Rowan (1977) *Institutionalized Organizations: Formal Structure as Myth and Ceremony*; Meyer and Hannan (1979) *National Development and the World-System: Educational, Economic, and Political Change, 1950–1970*. [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–103)]]
->   - **关键概念／方法** 制度环境（Institutional Environments）、理性神话（Rationalized Myths）、仪式性脱节（decoupling）。
+>   - **关键概念／方法** 制度环境（Institutional Environments）、[[New Mythology|理性神话]]（Rationalized Myths）、仪式性脱节（decoupling）。
 >   - **阶段转向** [[Falsification|证伪]]了古典现代化理论将教育扩张视作国家内部经济与政治自发需求的假定，论证组织的正式架构主要用于获取外部制度环境的合法性支持，开创了组织社会学的新制度主义[[Paradigm|范式]]。
 > - **1980–1999 — [[World Society Theory|世界社会理论]]的成熟：全球[[Cultural Models|文化模型]]与民族国家[[Institutional Isomorphism|制度同构]]** 这一阶段将研究视野从中观组织扩展至全球宏观体系，系统解释战后全球主权国家在宪法、公民身份、中小学课程设置与义务教育立法上的高度趋同现象。
 >   - **代表著作** Meyer, Kamens, & Benavot (1992) *School Knowledge for the Masses: World Models and National Primary Curricular Categories in the Twentieth Century*; Meyer, Boli, Thomas, & Ramirez (1997) *World Society and the Nation-State*. [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]、[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 145)]]

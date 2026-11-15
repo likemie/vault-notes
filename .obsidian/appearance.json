@@ -5,7 +5,7 @@
     "method-manual",
     "type-scale",
     "figure",
-    "concept-study",
-    "person-page"
-  ]
+    "concept-study"
+  ],
+  "showRibbon": true
 }

@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 30
+person_related_count: 32
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -48,7 +48,9 @@ related_methods:
   - "[[Memos]]"
 related_instruments: []
 related_persons:
-  - "[[Thomas Schelling]]"
+  - "[[Friedrich Hölderlin]]"
+  - "[[Friedrich Wilhelm Joseph Schelling]]"
+  - "[[Johann Gottlieb Fichte]]"
   - "[[Benedict Anderson]]"
   - "[[Immanuel Kant]]"
   - "[[Baruch Spinoza]]"
@@ -78,11 +80,11 @@ updated: 2026-11-15
 
 > [!timeline] 生平与职涯
 > - **1770** 出生于德国符腾堡公国斯图加特。
-> - **1788–1793** 就读于图宾根神学院，与荷尔德林（Friedrich Hölderlin）、[[Thomas Schelling|谢林]]（Friedrich Wilhelm Joseph Schelling）同窗研读哲学与神学，深受法国大革命思潮震荡。
+> - **1788–1793** 就读于图宾根神学院，与[[Friedrich Hölderlin|荷尔德林]]（Friedrich Hölderlin）、谢林（[[Friedrich Wilhelm Joseph Schelling]]）同窗研读哲学与神学，深受法国大革命思潮震荡。
 > - **1801–1806** 任教于耶拿大学，1807 年出版划时代哲学名著《精神[[Phenomenology|现象学]]》（*Phänomenologie des Geistes*）。
 > - **1808–1816** 出任纽伦堡圣埃吉迪恩文科中学校长兼哲学教师，直接参与中等教育实践并发表一系列著名中学开学演讲，系统阐发教化（[[Bildung]]）与古典人文素养的育人价值。
 > - **1816–1818** 获聘为海德堡大学哲学教授，出版《哲学全书纲要》（*Enzyklopädie der philosophischen Wissenschaften*）。
-> - **1818–1831** 接替费希特担任柏林大学哲学讲席教授，1830 年出任柏林大学校长；期间出版《法哲学原理》（*Grundlinien der Philosophie des Rechts*），其哲学体系成为欧洲思想界的核心[[Paradigm|范式]]。
+> - **1818–1831** 接替[[Johann Gottlieb Fichte|费希特]]担任柏林大学哲学讲席教授，1830 年出任柏林大学校长；期间出版《法哲学原理》（*Grundlinien der Philosophie des Rechts*），其哲学体系成为欧洲思想界的核心[[Paradigm|范式]]。
 > - **1831** 逝世于柏林。
 
 ---

@@ -5064,6 +5064,14 @@
       ],
       "title": ""
     },
+    "Arthur Danto, 1992": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Innocent Eye.md"
+      ],
+      "title": "Beyond the Brillo Box: The Visual Arts in Post-Historical Perspective"
+    },
     "Arthur Herman, 2006": {
       "doi": "",
       "isbn": "",
@@ -9165,6 +9173,16 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md"
+      ],
+      "title": ""
+    },
+    "Behler, 1988": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch04.md",
+        "wiki/concepts/educational-philosophy/Romantic Irony.md",
+        "wiki/persons/germany/Friedrich Schlegel.md"
       ],
       "title": ""
     },
@@ -13407,6 +13425,14 @@
       "seen_in": [],
       "title": "The influence of repeated exposure to the student success skills program on middle school students’ feelings of connectedness, behavioral and metacognitive skills, and reading achievement"
     },
+    "Bowie, 1993": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch04.md"
+      ],
+      "title": ""
+    },
     "Bowker & STAR, 2000": {
       "doi": "",
       "isbn": "",
@@ -15321,6 +15347,16 @@
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Post-Nationalism.md",
         "wiki/persons/germany/Ignatz Bubis.md"
+      ],
+      "title": ""
+    },
+    "Bubner, 1995": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch04.md",
+        "wiki/concepts/educational-philosophy/Romantic Irony.md",
+        "wiki/persons/germany/Friedrich Schlegel.md"
       ],
       "title": ""
     },
@@ -25247,9 +25283,10 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch02.md"
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch02.md",
+        "wiki/concepts/educational-philosophy/Innocent Eye.md"
       ],
-      "title": ""
+      "title": "Beyond the Brillo Box: The Visual Arts in Post-Historical Perspective"
     },
     "Dao, 1993": {
       "datasets": [
@@ -36147,13 +36184,24 @@
       ],
       "title": ""
     },
+    "Frank, 1985": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch04.md",
+        "wiki/persons/germany/Friedrich Wilhelm Joseph Schelling.md"
+      ],
+      "title": ""
+    },
     "Frank, 1989": {
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch02.md"
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch02.md",
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch03.md",
+        "wiki/theories/educational-philosophy/Schiller's Theory of Drives.md"
       ],
-      "title": ""
+      "title": "Einführung in die frühromantische Ästhetik"
     },
     "Frank, 2020": {
       "doi": "",
@@ -47371,6 +47419,15 @@
       ],
       "title": ""
     },
+    "Henrich, 1957": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch03.md",
+        "wiki/theories/educational-philosophy/Schiller's Theory of Drives.md"
+      ],
+      "title": "Der Begriff des Schönen in Schillers Ästhetik"
+    },
     "Henrick et al., 2017": {
       "doi": "",
       "isbn": "",
@@ -54706,6 +54763,14 @@
         "wiki/arguments/journal-articles/Beiträge zur Schulentwicklung/Argument_Manitius_vanHolt_2019_BzS.md",
         "wiki/concepts/comparative-education/Recontextualization.md",
         "wiki/theories/educational-philosophy/Complexity Theory.md"
+      ],
+      "title": ""
+    },
+    "Jähnig, 1966": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch04.md"
       ],
       "title": ""
     },
@@ -66924,6 +66989,14 @@
       "seen_in": [],
       "title": "A meta-analysis of the effects of advance organizers on learning and retention"
     },
+    "Lukács, 1920": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch04.md"
+      ],
+      "title": ""
+    },
     "Lumby & English, 2009": {
       "doi": "",
       "isbn": "",
@@ -72182,9 +72255,10 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch02.md",
-        "wiki/concepts/educational-philosophy/Aesthetic Idea.md"
+        "wiki/concepts/educational-philosophy/Aesthetic Idea.md",
+        "wiki/concepts/educational-philosophy/Free Beauty.md"
       ],
-      "title": ""
+      "title": "In Praise of Nonsense: Kant and Bluebeard"
     },
     "Menon et al., 2009": {
       "doi": "",
@@ -77438,6 +77512,14 @@
         "wiki/theories/university-industry-collaboration/Systems of Innovation.md"
       ],
       "title": ""
+    },
+    "Nelson Goodman, 1968": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Free Play.md"
+      ],
+      "title": "Languages of Art: An Approach to the Theory of Symbols"
     },
     "Nelson et al., 2003": {
       "datasets": [
@@ -120523,7 +120605,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02.md",
-        "wiki/persons/germany/Jürgen Habermas.md",
         "wiki/theories/educational-philosophy/Critical Theory.md"
       ],
       "title": ""
