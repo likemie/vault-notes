@@ -42,7 +42,7 @@ updated: 2026-11-16
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** [[Hans-Georg Gadamer|汉斯-格奥尔格·伽达默尔]]（Hans-Georg Gadamer）在代表作《真理与方法》（*Wahrheit und Methode*, 1960）第一部分系统展开对“审美意识”的批判，并在后期《艺术与模仿》（*Kunst und Nachahmung*）、《哲学与文学》及《在诠释学的踪迹上》等论文中深化了秩序、模仿与艺术优于哲学的命题。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 190–193)]]
+> - **提出者与原始文本** [[Hans-Georg Gadamer|汉斯-格奥尔格·伽达默尔]]（Hans-Georg Gadamer）在代表作《真理与方法》（*Wahrheit und Methode*, 1960）第一部分系统展开对“审美意识”的批判，并在后期《艺术与模仿》（*Kunst und Nachahmung*）、《哲学与文学》及《在诠释学的踪迹上》等文章中深化了秩序、模仿与艺术优于哲学的命题。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 190–193)]]
 > - **原初问题** 现代美学在康德之后陷入“体验取代作品”的困境，既切断了艺术与认知真理的联系，又使经典诠释学在施莱尔马赫（Friedrich Schleiermacher）处局限于防止误解的文本方法论。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 189–190)]]
 > - **理论资源与材料** 将海德格尔“事实性诠释学”与黑格尔“艺术品即对话”推进为普遍哲学诠释学，吸纳[[Edmund Husserl|胡塞尔]]（Edmund Husserl）的“视域”概念，回溯毕达哥拉斯派的秩序三重奏，并逆转柏拉图《理想国》对艺术的本体论贬低。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 189–192)]]
 > - **形成路径** 先以“审美意识批判”拆除主体主义美学的隔离墙，再以“游戏”和“视域融合”建立去本质化但具跨历史同一性的接受本体论，最终以古希腊模仿与秩序观补足其道德与社会转化机制。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 190–192)]]
@@ -101,8 +101,8 @@ updated: 2026-11-16
 > > [!axis] 艺术是否必然支撑秩序及其定位所在
 > > 围绕伽达默尔晚期的“艺术即秩序见证”论断，学界对其保守性或批判性产生分歧。
 > >
-> > - **玛丽·德弗罗（Mary Deveraux）与肯尼斯·巴克曼（Kenneth Buckman）** 德弗罗质疑艺术总是支持既定秩序的观点，巴克曼则尝试为伽达默尔的艺术、道德与权威关系辩护。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, p. 241 n.34)]]
-> > - **凯·哈默迈斯特（Kai Hammermeister）** 指出上述双方均忽略了一个关键前提：伽达默尔既未把秩序归于作品固定结构，也未归于艺术家活动，而是将秩序精确地定位在“接受的情境”之中。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, p. 241 n.34)]]
+> > - **玛丽·德弗罗（Mary Deveraux）与肯尼斯·巴克曼（Kenneth Buckman）** 德弗罗质疑艺术总是支持既定秩序的观点，巴克曼则尝试为伽达默尔的艺术、道德与权威关系辩护。
+> > - **凯·哈默迈斯特（Kai Hammermeister）** 指出上述双方均忽略了一个关键前提：伽达默尔既未把秩序归于作品固定结构，也未归于艺术家活动，他将秩序精确地定位在“接受的情境”之中。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, p. 241 n.34)]]
 
 ---
 

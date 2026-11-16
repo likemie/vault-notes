@@ -31,7 +31,7 @@ updated: 2026-11-16
 ---
 
 > [!def] Aesthetic Nondifferentiation
-> **审美无区分（Aesthetic Nondifferentiation）（德语：*ästhetische Nichtunterscheidung*）**是[[Hans-Georg Gadamer|汉斯-格奥尔格·伽达默尔]]（Hans-Georg Gadamer）提出的美学概念，用以批判现代“审美意识”将作品剥离其原生世界、把呈现形式与所呈现内容截然二分的做法。在审美无区分的状态下，艺术作品并不作为指向外部对象的间接符号，而是使神明、意义或存在真理直接在作品之中临在。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 179, 190)]]
+> **审美无区分（Aesthetic Nondifferentiation）（德语：*ästhetische Nichtunterscheidung*）**是[[Hans-Georg Gadamer|汉斯-格奥尔格·伽达默尔]]（Hans-Georg Gadamer）提出的美学概念，用以批判现代“审美意识”将作品剥离其原生世界、把呈现形式与所呈现内容截然二分的做法。在审美无区分的状态下，艺术作品不再作为指向外部对象的间接符号，它直接让神明、意义或存在真理在作品之中临在。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 179, 190)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 作品与它所呈现的实在之间不存在表象与原型、能指与所指的割裂；作品让所呈现者自身在场。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, p. 179)]]

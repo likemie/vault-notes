@@ -50,10 +50,10 @@ updated: 2026-11-16
 ---
 
 > [!timeline] 生平与职涯
-> - **1889** 出生于德国，后成为 20 世纪存在哲学与现象学的关键奠基者（1889–1976）。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, p. 173)]]
+> - **1889** 出生于德国，后成为 20 世纪存在哲学与现象学的关键奠基者（1889–1976）。
 > - **1927** 出版《存在与时间》（*Sein und Zeit*），提出“器具”（*Zeug*）与“事实性诠释学”，为后续艺术哲学奠定存在论基础。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 177, 189)]]
 > - **1935–1936** 在弗赖堡发表《艺术作品的本源》（*Der Ursprung des Kunstwerks*）演讲，并于次年在苏黎世与美因河畔法兰克福重讲；同期开设关于[[Friedrich Hölderlin|荷尔德林]]与[[Friedrich Nietzsche|尼采]]的讲座。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, p. 173)]]
-> - **1950–1969** 《艺术作品的本源》作为首篇论文收入《林中路》（1950）出版；随后发表《筑·居·思》（1951）、《物》（1954）、《艺术与空间》（1969）及多篇探讨诗歌与视觉艺术的随笔，逐步褪去 1930 年代的政治民族指涉。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 173–174, 183, 185)]]
+> - **1950–1969** 《艺术作品的本源》作为首篇文本收入《林中路》（1950）出版；随后发表《筑·居·思》（1951）、《物》（1954）、《艺术与空间》（1969）及多篇探讨诗歌与视觉艺术的随笔，逐步褪去 1930 年代的政治民族指涉。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 173–174, 183, 185)]]
 
 ---
 
@@ -77,7 +77,7 @@ updated: 2026-11-16
 > 艺术通过“世界”敞开语言储存的生活视域，同时通过“大地”的本质自我遮蔽抵御科学计算与单一概念化，从而在普遍失物的现代社会担当一切事物的存在论守护者。与科学仅能在一个已敞开的领域内追求单向度“正确性”（*Richtigkeit*）不同，艺术与建国、牺牲和哲学思辨同属原初真理事件，并为历史共同体奠基。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 179–187)]]
 >
 > > [!thesis-quote] 《艺术作品的本源》（1935/1950）
-> > 科学并非原初的真理事件，而是在一个已经敞开的真理领域内，通过对其周边呈现为可能与必然的正确性加以占有和论证而进行的拓展。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, p. 187)]]
+> > 科学算不上原初的真理事件，它是在一个已经敞开的真理领域内，通过对其周边呈现为可能与必然的正确性加以占有和论证而进行的拓展。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, p. 187)]]
 > >
 > > *Science is no originary truth-event, but rather the expansion of an already open sphere of truth by means of appropriation and justification of that which presents itself as possible and necessary correctness in its surrounding.*
 
@@ -96,7 +96,7 @@ updated: 2026-11-16
 
 > [!person-network] 关系网络
 > - **学生与继承者** [[Hans-Georg Gadamer|汉斯-格奥尔格·伽达默尔]] — 承接海德格尔的事实性诠释学与艺术真理论，将其发展为普遍哲学诠释学。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 179, 189)]]
-> - **隐性思想渊源** [[Friedrich Wilhelm Joseph Schelling|谢林]]、[[Immanuel Kant|康德]]、[[Edmund Husserl|胡塞尔]] — 海德格尔表面拒斥传统美学，实则延续了谢林“艺术作为真理器官”、康德[[Aesthetic Idea|审美理念]]不可穷尽性及胡塞尔[[Life-World|生活世界]]概念。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 173, 179, 182, 185–189)]]
+> - **隐性思想渊源** [[Friedrich Wilhelm Joseph Schelling|谢林]]、[[Immanuel Kant|康德]]、[[Edmund Husserl|胡塞尔]] — 海德格尔表面拒斥传统美学，实则延续了谢林“艺术作为真理器官”、康德[[Aesthetic Idea|审美理念]]不可穷尽性及胡塞尔生活世界概念。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 173, 179, 182, 185–189)]]
 > - **诗学与批判对照** [[Friedrich Hölderlin|荷尔德林]]、[[Friedrich Nietzsche|尼采]] — 荷尔德林提供“语言通过诗人说话”的诗学资源；尼采则被海德格尔定位为将美学消解为生理学并终结西方美学史的第六阶段。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 174–175, 185)]]
 
 ---

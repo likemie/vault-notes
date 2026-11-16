@@ -44,7 +44,7 @@ updated: 2026-11-16
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 马丁·海德格尔（Martin Heidegger）自 1930 年代起探讨艺术，核心文本为 1935 年在弗赖堡演讲、1936 年复讲并于 1950 年收入《林中路》（*Holzwege*）的《艺术作品的本源》（*Der Ursprung des Kunstwerks*），辅以 1930–1940 年代关于荷尔德林与尼采的讲稿，以及《筑·居·思》（1951）、《艺术与空间》（1969）和后期关于视觉艺术与诗歌的随笔。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 173–174)]]
 > - **原初问题** 哲学美学自希腊伟大艺术衰落之后，将工具生产的质料—形式（*hyle-morphe*）区分误植于艺术，现代又滑向主体趣味（*aisthesis*）、情感陶醉（瓦格纳）与生理神经反应（[[Friedrich Nietzsche|尼采]]），导致思想与存在脱节（*Seinsvergessenheit*）。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 174–175)]]
-> - **理论资源与材料** 吸收自身《存在与时间》（1927）对器具（*Zeug*）的分析与[[Edmund Husserl|胡塞尔]]（Edmund Husserl）的[[Life-World|生活世界]]概念，参照梵高农鞋画作、希腊神庙、荷尔德林（[[Friedrich Hölderlin]]）与里尔克（Rainer Maria Rilke）诗歌，并隐性承接谢林（[[Friedrich Wilhelm Joseph Schelling]]）与[[Immanuel Kant|康德]]（Immanuel Kant）的相关洞见。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 173, 177–181, 185–189)]]
+> - **理论资源与材料** 吸收自身《存在与时间》（1927）对器具（*Zeug*）的分析与[[Edmund Husserl|胡塞尔]]（Edmund Husserl）的生活世界概念，参照梵高农鞋画作、希腊神庙、荷尔德林（[[Friedrich Hölderlin]]）与里尔克（Rainer Maria Rilke）诗歌，并隐性承接谢林（[[Friedrich Wilhelm Joseph Schelling]]）与[[Immanuel Kant|康德]]（Immanuel Kant）的相关洞见。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 173, 177–181, 185–189)]]
 > - **形成路径** 通过逐一驳斥三种传统物性概念对“属加种差”定义法的失效，把问题从“艺术品是什么物”转向“艺术作品如何使存在真理发生”，进而建立“世界与大地之争”的动态模型。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 175–183)]]
 
 > [!dev-timeline] 理论版本与贡献
@@ -74,7 +74,7 @@ updated: 2026-11-16
 > 艺术既非艺术家个人天才的自我表达（艺术家在伟大艺术面前近乎自我消解的通道），亦非对既有现实的[[Mimesis|摹仿]]复写；作品让真理作为非蔽性与拒绝的交织而发生。语言先行赋予人存在的敞开性，因而诗歌在诸艺术中居于核心；同时，作品的真理发生超越孤立的私人消费体验（*Erlebnis*），为人类提供了共同体生存的历史根基。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 178–185)]]
 
 > [!example|notitle]
-> 矗立在崎岖山谷中的希腊神庙并不摹写任何既有事物，而是通过自身的存在组织起周围的岩石、天空与人的历史命运；海德格尔在《筑·居·思》中亦以桥梁为例，说明作品如何聚拢并赋予空间以秩序，使本来隐于生活背后的“世界”得以向共同体敞开。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 178–180)]]
+> 矗立在崎岖山谷中的希腊神庙拒绝摹写既有事物，它通过自身的存在组织起周围的岩石、天空与人的历史命运；海德格尔在《筑·居·思》中亦以桥梁为例，说明作品如何聚拢并赋予空间以秩序，使本来隐于生活背后的“世界”得以向共同体敞开。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 178–180)]]
 
 > [!theory-proposition] 命题三｜科学命题的“正确性”寄生于艺术预先敞开的原初真理，而大地保证了艺术的不可概念化
 > 科学作为工具理性的历史体现，只能在一个已经敞开的真理领域内追求单向度的命题“正确性”（*Richtigkeit*），因而被排除在原初真理事件之外。相对地，艺术在语义与存在视域的敞开上先于一切科学提问；同时，作品中“大地”的自我遮蔽确保其“艺术之谜”永远无法像[[Hegel's Aesthetics|黑格尔美学]]所设想的那样被完全转化为哲学概念。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 181–182, 186–189)]]
