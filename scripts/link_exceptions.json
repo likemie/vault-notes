@@ -974,5 +974,15 @@
       "sentence": "**回归鲍姆嘉通的普遍感知学派** 主张打破美学等于艺术哲学的框框，回到鲍姆嘉通最初对一切感官知觉（*aisthesis*）的研究；当今生态美学与环境美学正以此为旗帜。",
       "target": "wiki/facts/germany/Philosophy of Art.md"
     }
+  ],
+  "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md": [
+    {
+      "sentence": "高校扩招引发文凭贬值，使名校学历不再能自动保证体面工作，求职竞争转向拼实习、软实力与综合履历。",
+      "target": "wiki/concepts/political-economy-geopolitics/Soft Power.md"
+    },
+    {
+      "sentence": "**制度张力** 高校内部立德树人、全面发展的教育宗旨同外部劳动力市场优胜劣汰的竞争逻辑相互脱节，使大学校园呈现出缺乏标准路线指引的迷宫特征（pp.",
+      "target": "wiki/concepts/higher-education/Grandes Ecoles.md"
+    }
   ]
 }
