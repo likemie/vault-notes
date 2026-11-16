@@ -45,9 +45,9 @@ related_arguments:
   - "[[Argument_Eacott_2015_EPT]]"
   - "[[Argument_Li_2012_Cambridge]]"
 confidence: medium
-status: draft
+status: active
 created: 2026-05-09
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -100,6 +100,15 @@ updated: 2026-11-15
 > [!claim] Li, J.
 > **[[Intellectual-Social Divide|智识-社交分离]]作为学校 doxa** 西方学校文化将学术追求与社交生活设为互斥（擅长学习者被视为不会社交，受欢迎者被视为不学习），并通过将之归因为“人性使然”以及依赖[[Tracking|分轨制]]和教师固定标记加以制度性再生产；而转入不同学校结构后该现象随之消解，证明其属于特定场域的 doxa。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 91–94, 98–99)]]
 
+---
+
+> [!contrast-table] 所有命题归纳
+> | 命题 | 核心论点 | 关键机制与依据 | 理论旨趣 |
+> |---|---|---|---|
+> | **命题一｜场域自明标准的自然化** | 场域 doxa 通过制度结构将特定评判标准自然化，排除对前提的质疑 | 制度安排将评估指标转化为常识，再生产既有权力关系（[[Argument_Eacott_2011_JEAH|Eacott, 2011]]; [[Argument_Li_2012_Cambridge|Li, 2012]]） | 揭示教育治理与学校文化中的符号支配 |
+
+---
+
 > [!example] 学校场域与教育治理中的 doxa 运作案例
 > - **智识-社交分离与[[Talent Assumption|天赋假设]]的相互锚定** 在美国高中场域中，“智力先天固定”与“社交魅力先天固定”的信念相互锚定，使“擅长一方必不擅长另一方”成为常识，进而催生对 [[Nerd]] 同伴群体的骚扰与排斥；这种排斥源于学校场域的特定结构性 doxa。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 96–98)]]
 > - **[[New Public Management|新公共管理]]（NPM）的 doxa 置换** NPM 渗透教育场域表现为经济-政治场域的 doxa（效率、可测量、竞争）逐步置换教育本位与专业自治，标准化测试、排名与能力框架构成其制度化载体。
@@ -114,7 +123,7 @@ updated: 2026-11-15
 
 ---
 
-> [!critique|notitle] 外部批评
+> [!warning|limits] 适用局限
 > - **概念边界与[[Operationalization|操作化]]困难** 批评者指出 doxa 与意识形态、常识及正统之间的界分在经验研究中缺乏清晰的操作判准；同时研究者自身嵌入特定场域，难以区分分析范畴与自然化共识。[[Argument_Eacott_2015_EPT|(Eacott, 2015)]]
 > - **变革路径与[[Determinism|决定论]]张力** 若 doxa 高度不言自明并被结构性再生产，行动者如何打破并挑战该共识尚未得到充分说明，使其与布尔迪厄实践理论对能动性的承认存在张力。
 
