@@ -196,57 +196,57 @@ updated: 2026-11-15
 
 > [!concept-proposition] 命题一｜常规科学的异常积累驱动科学革命与非常规范式转换
 > **科学演进的非累积性与革命性断裂** 探讨科学知识遵循常规科学框架危机与革命性范式更迭实现制度化重构的非累积演化规律。
->
-> > [!claim] Kuhn, T.
-> > **常规科学由共享范式提供解谜规范** 库恩指出，在常规科学时期，科学家的核心工作聚焦于公认范式指引下的精细化“解谜活动”（puzzle-solving）；范式为共同体提供了免于形而上学底层争辩的知识共识。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
->
-> > [!claim] Kuhn, T. and [[Louis Cohen|Cohen, L.]] et al.
-> > **无法化约的异常积累引发不可逆的范式转换** 当既有范式无法解释的“异常”（anomalies）持续积累并引发普遍信任危机时，学术共同体陷入动荡，最终通过科学革命建立新范式；历史上的重大转折（托勒密地心说转向哥白尼日心说、牛顿机械力学转向相对论与演化宇宙观、[[Value Neutrality|价值中立]][[Positivism|实证主义]]转向[[Postpositivism|后实证主义]]与[[Critical Realism|批判实在论]]）均体现了这一不可逆的范式革命逻辑。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
->
-> > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang, D. & Barabási, A.-L.]]
-> > **顶尖成果对范式开辟与引文份额的长期锁定** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]通过对《物理评论》跨越百余年全量出版物的追踪表明，能够引发库恩式科学革命并开辟全新研究范式的顶尖成果具有极高的引文集聚效应；在过去一个世纪中，排名前 1% 的顶尖范式成果在发表次年所吸纳的全部引文份额从 1900 年代的约 20% 稳步攀升至 2000 年代的 35%，证实了开辟新范式的突破性成果在宏观学术演化中具有对共同体注意力的深层锁定力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 180–181)]]
->
-> > [!claim] [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]]
-> > **团队规模生态位与范式颠覆深化分工** 桑托·福图纳托等论证，科学范式的革命性断裂与渐进深耕受制于科研生产的团队组织形态。小团队倾向于颠覆既有学术共识，开辟具有破坏性的全新方向；大团队则倾向于在成熟技术路径上推进工程化精细改进。在科技资助布局中保持多样化团队生态，是防止科学建制官僚化、维系范式突破活力的制度基础。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, pp. 3–4)]]
+
+> [!claim] Kuhn, T.
+> **常规科学由共享范式提供解谜规范** 库恩指出，在常规科学时期，科学家的核心工作聚焦于公认范式指引下的精细化“解谜活动”（puzzle-solving）；范式为共同体提供了免于形而上学底层争辩的知识共识。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
+
+> [!claim] Kuhn, T. and [[Louis Cohen|Cohen, L.]] et al.
+> **无法化约的异常积累引发不可逆的范式转换** 当既有范式无法解释的“异常”（anomalies）持续积累并引发普遍信任危机时，学术共同体陷入动荡，最终通过科学革命建立新范式；历史上的重大转折（托勒密地心说转向哥白尼日心说、牛顿机械力学转向相对论与演化宇宙观、[[Value Neutrality|价值中立]][[Positivism|实证主义]]转向[[Postpositivism|后实证主义]]与[[Critical Realism|批判实在论]]）均体现了这一不可逆的范式革命逻辑。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
+
+> [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang, D. & Barabási, A.-L.]]
+> **顶尖成果对范式开辟与引文份额的长期锁定** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]通过对《物理评论》跨越百余年全量出版物的追踪表明，能够引发库恩式科学革命并开辟全新研究范式的顶尖成果具有极高的引文集聚效应；在过去一个世纪中，排名前 1% 的顶尖范式成果在发表次年所吸纳的全部引文份额从 1900 年代的约 20% 稳步攀升至 2000 年代的 35%，证实了开辟新范式的突破性成果在宏观学术演化中具有对共同体注意力的深层锁定力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit07|(Wang & Barabási, 2021, pp. 180–181)]]
+
+> [!claim] [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]]
+> **团队规模生态位与范式颠覆深化分工** 桑托·福图纳托等论证，科学范式的革命性断裂与渐进深耕受制于科研生产的团队组织形态。小团队倾向于颠覆既有学术共识，开辟具有破坏性的全新方向；大团队则倾向于在成熟技术路径上推进工程化精细改进。在科技资助布局中保持多样化团队生态，是防止科学建制官僚化、维系范式突破活力的制度基础。[[Argument_Fortunato_2018_Science|(Fortunato et al., 2018, pp. 3–4)]]
 
 ---
 
 > [!concept-proposition] 命题二｜不同范式间存在深层[[Incommensurability|不可通约性]]与科学社会学的权力建制
 > **[[Incommensurability|不可通约性]]与[[Knowledge Production|知识生产]]的社会维度** 聚焦范式之间缺乏公认的中立评价尺度，以及范式胜出往往依托学术权威与制度建制的权力属性。
->
-> > [!claim] Kuhn, T.
-> > **范式间的不可[[Commensuration|通约]]性阻断了纯中立的优劣裁决** 库恩确立了经典的不可通约性论点（[[Incommensurability]]）：不同范式植根于截然不同的实在观与方法公理，二者之间不存在超然的、共同的衡量尺度。选择一种范式意味着接纳一整套不可分割的世界观体系，因而学者无法在保留旧范式[[Ontology|本体论]]的同时无缝采纳新范式。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
->
-> > [!claim] Cohen, L. et al.
-> > **范式的正统地位依赖学术建制的权威认可** 一个范式的确立不仅取决于经验证据的充沛性，更深刻受制于其在学术共同体权威与政治权力网络中的被认可程度；知识生产不仅是一项认知探索，更是一项镶嵌于大学教席、学术期刊与资助体制中的社会与政治行动。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
->
-> > [!claim] [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]]
-> > **行政审计通过锁定单一范式消除知识争议与制造确定性** 在国家[[School Inspection|教育督导]]与质量审计实践中，官僚机构面对学术界的多范式分歧，倾向于在外部学者介入前预先编制仅锚定于单一研究范式的学术综述；通过排斥竞争性范式与异质视角，机构人为建构起“无可争议的当前知识状态”与确定性幻觉，以迎合行政规程的统一性与标准化问责需求。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 649–650)]]
+
+> [!claim] Kuhn, T.
+> **范式间的不可[[Commensuration|通约]]性阻断了纯中立的优劣裁决** 库恩确立了经典的不可通约性论点（[[Incommensurability]]）：不同范式植根于截然不同的实在观与方法公理，二者之间不存在超然的、共同的衡量尺度。选择一种范式意味着接纳一整套不可分割的世界观体系，因而学者无法在保留旧范式[[Ontology|本体论]]的同时无缝采纳新范式。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
+
+> [!claim] Cohen, L. et al.
+> **范式的正统地位依赖学术建制的权威认可** 一个范式的确立不仅取决于经验证据的充沛性，更深刻受制于其在学术共同体权威与政治权力网络中的被认可程度；知识生产不仅是一项认知探索，更是一项镶嵌于大学教席、学术期刊与资助体制中的社会与政治行动。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
+
+> [!claim] [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]]
+> **行政审计通过锁定单一范式消除知识争议与制造确定性** 在国家[[School Inspection|教育督导]]与质量审计实践中，官僚机构面对学术界的多范式分歧，倾向于在外部学者介入前预先编制仅锚定于单一研究范式的学术综述；通过排斥竞争性范式与异质视角，机构人为建构起“无可争议的当前知识状态”与确定性幻觉，以迎合行政规程的统一性与标准化问责需求。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 649–650)]]
 
 ---
 
 > [!concept-proposition] 命题三｜比较教育百年演进呈现从宏大历史文化全景、实证主义论战到当代多元[[Autopoiesis|自创生]]的多范式重构
 > **比较教育学科演进的范式更迭轨迹** 揭示比较教育作为跨学科领域，其范式更迭如何映射哲学社会学思潮的演进，并在各大学重镇中呈现差[[Alienation|异化]]的建制轨迹。
->
-> > [!claim] [[Wolfgang Mitter|Mitter, W.]]
-> > **比较教育百年历经三大标志性理论范式阶段** 沃尔夫冈·米特系统梳理了欧洲比较教育的百年范式更迭：第一阶段（1920s–1950s）由汉斯与[[Friedrich Schneider|弗里德里希·施奈德]]所主导的**宏大历史文化全景与精神[[Scientific Paradigm|科学范式]]** 占据主导，深究[[National Character|国民性格]]与驱动力（[[Theories of the Driving Forces|Triebkräfte]]）；第二阶段（1960s–1980s）卷入[[Karl Popper|卡尔·波普尔]]批判理性主义与[[Jürgen Habermas|尤尔根·哈贝马斯]][[Critical Theory|批判理论]]之间的 **[[Positivist Dispute in German Sociology|实证主义争论]]（Positivismusstreit）**，催生了以[[Brian Holmes|布莱恩·霍姆斯]][[Problem Approach|问题法]]为代表的[[Critical Dualism|批判二元论]]范式；第三阶段（1990s 至今）则在现代主义与[[Postmodernism|后现代主义]]、斯坦福世界体系普遍主义与文化[[Pluralism|多元主义]]对峙中走向**多元分化范式**，并由施里维尔开创了结合[[Niklas Luhmann|卢曼]]系统[[Autopoiesis|自创生]]与意义[[Externalization|外化]]的比较新范式。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–94)]]
->
-> > [!claim] Mitter, W.
-> > **欧洲学术传统坚守文化历史主干并抵抗纯实证量化异化** 尽管北美战后迅速确立以量化测量与[[Behaviorism|行为主义]]为核心的实证范式，欧洲比较教育主流始终牢固锚定在以历史考证与文化主义为核心的质性阐释范式中；大规模跨国量化测评长期游离于欧洲比较教育学科核心建制之外，印证了多范式在不同地缘知识地貌中的独立韧性。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 94)]]
+
+> [!claim] [[Wolfgang Mitter|Mitter, W.]]
+> **比较教育百年历经三大标志性理论范式阶段** 沃尔夫冈·米特系统梳理了欧洲比较教育的百年范式更迭：第一阶段（1920s–1950s）由汉斯与[[Friedrich Schneider|弗里德里希·施奈德]]所主导的**宏大历史文化全景与精神[[Scientific Paradigm|科学范式]]** 占据主导，深究[[National Character|国民性格]]与驱动力（[[Theories of the Driving Forces|Triebkräfte]]）；第二阶段（1960s–1980s）卷入[[Karl Popper|卡尔·波普尔]]批判理性主义与[[Jürgen Habermas|尤尔根·哈贝马斯]][[Critical Theory|批判理论]]之间的 **[[Positivist Dispute in German Sociology|实证主义争论]]（Positivismusstreit）**，催生了以[[Brian Holmes|布莱恩·霍姆斯]][[Problem Approach|问题法]]为代表的[[Critical Dualism|批判二元论]]范式；第三阶段（1990s 至今）则在现代主义与[[Postmodernism|后现代主义]]、斯坦福世界体系普遍主义与文化[[Pluralism|多元主义]]对峙中走向**多元分化范式**，并由施里维尔开创了结合[[Niklas Luhmann|卢曼]]系统[[Autopoiesis|自创生]]与意义[[Externalization|外化]]的比较新范式。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–94)]]
+
+> [!claim] Mitter, W.
+> **欧洲学术传统坚守文化历史主干并抵抗纯实证量化异化** 尽管北美战后迅速确立以量化测量与[[Behaviorism|行为主义]]为核心的实证范式，欧洲比较教育主流始终牢固锚定在以历史考证与文化主义为核心的质性阐释范式中；大规模跨国量化测评长期游离于欧洲比较教育学科核心建制之外，印证了多范式在不同地缘知识地貌中的独立韧性。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 94)]]
 
 ---
 
 > [!concept-proposition] 命题四｜全球教育治理演进展现出从大纲课程考查向成人生活技能、从硬性法律规制向软性[[Governing by Numbers|数字治理]]的双重范式转换
 > **评价与治理维度的双重范式转换** 探讨在大规模跨国测评与区域一体化进程中，教育评价[[Epistemology|认识论]]如何从学校大纲知识考查转向功能性生活技能，以及超国家治理如何从硬法强制转向软性量化数据治理。
->
-> > [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
-> > **评价认识论范式从课程内聚转向成人功能性生活技能** 索蒂里亚·格雷克（[[Sotiria Grek]]）指出，[[OECD|经合组织]]通过 [[PISA]] 确立了教育评价领域的重大范式转换：传统评价范式以国家具体教学大纲为基准，检验学科知识体系的内部达成度；PISA 则脱离各国课程大纲，转而建立面向成人生活现实情境的功能性素养范式。该范式将评估锚定于未来劳动力市场所需的应用能力与[[Lifelong Learning|终身学习]]自我调节，把应对经济竞争风险的责任深植于个体，确立了全球通用的评价新范式。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27)]]
->
-> > [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
-> > **超国家治理范式从硬性条约法律转向软性量化数据治理** 格雷克论证，欧洲教育治理见证了从硬法指令向软治理范式的深刻转型：受[[EU|欧盟]]条约[[Subsidiarity Principle|辅助性原则]]限制，布鲁塞尔无权制定强制性教育大纲或立法指令；欧盟因而转向[[Open Method of Coordination|开放协调法]]（OMC），通过资助 PISA 调查并大规模采信经合组织数据指标，建立以数据基准、排名对照与同伴压力为驱动的软性数字治理（[[Governing by Numbers|governing by numbers]]）范式。这一范式无需修改法律条约，仅凭量化比较的客观性权威，便在维系主权分权表象的同时达成了[[European Education Space|欧洲教育空间]]的深度政策趋同。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–35)]]
->
-> > [!claim] [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]]
-> > **从辅助性原则到[[Panopticism|全景敞视]]治理范式的历史性断裂** 帕西亚斯与鲁萨基斯（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009]]）进一步揭示了欧盟教育治理范式的历史性断裂：2000 年里斯本峰会前，欧盟教育合作范式严格受制于《马斯特里赫特条约》第 126/127 条确立的辅助性原则（Subsidiarity Principle），以尊重各成员国主权、文化多样性与自愿交流为边界；[[Lisbon Strategy|里斯本战略]]确立“最具活力的[[Knowledge-Based Economy|知识经济]]体”目标后，超国家治理范式重构为全景敞视治理范式。[[European Commission|欧委会]]绕过条约立法限制，依托开放协调法（OMC）、五大基准线与同行评审技术，将教育从主权文化领域收编为从属于经济增长与[[Human Capital Theory|人力资本]]积累的“无形投资”，构建起全景式监控与政策趋同网络。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 488–491)]]
+
+> [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
+> **评价认识论范式从课程内聚转向成人功能性生活技能** 索蒂里亚·格雷克（[[Sotiria Grek]]）指出，[[OECD|经合组织]]通过 [[PISA]] 确立了教育评价领域的重大范式转换：传统评价范式以国家具体教学大纲为基准，检验学科知识体系的内部达成度；PISA 则脱离各国课程大纲，转而建立面向成人生活现实情境的功能性素养范式。该范式将评估锚定于未来劳动力市场所需的应用能力与[[Lifelong Learning|终身学习]]自我调节，把应对经济竞争风险的责任深植于个体，确立了全球通用的评价新范式。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27)]]
+
+> [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
+> **超国家治理范式从硬性条约法律转向软性量化数据治理** 格雷克论证，欧洲教育治理见证了从硬法指令向软治理范式的深刻转型：受[[EU|欧盟]]条约[[Subsidiarity Principle|辅助性原则]]限制，布鲁塞尔无权制定强制性教育大纲或立法指令；欧盟因而转向[[Open Method of Coordination|开放协调法]]（OMC），通过资助 PISA 调查并大规模采信经合组织数据指标，建立以数据基准、排名对照与同伴压力为驱动的软性数字治理（[[Governing by Numbers|governing by numbers]]）范式。这一范式无需修改法律条约，仅凭量化比较的客观性权威，便在维系主权分权表象的同时达成了[[European Education Space|欧洲教育空间]]的深度政策趋同。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–35)]]
+
+> [!claim] [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]]
+> **从辅助性原则到[[Panopticism|全景敞视]]治理范式的历史性断裂** 帕西亚斯与鲁萨基斯（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009]]）进一步揭示了欧盟教育治理范式的历史性断裂：2000 年里斯本峰会前，欧盟教育合作范式严格受制于《马斯特里赫特条约》第 126/127 条确立的辅助性原则（Subsidiarity Principle），以尊重各成员国主权、文化多样性与自愿交流为边界；[[Lisbon Strategy|里斯本战略]]确立“最具活力的[[Knowledge-Based Economy|知识经济]]体”目标后，超国家治理范式重构为全景敞视治理范式。[[European Commission|欧委会]]绕过条约立法限制，依托开放协调法（OMC）、五大基准线与同行评审技术，将教育从主权文化领域收编为从属于经济增长与[[Human Capital Theory|人力资本]]积累的“无形投资”，构建起全景式监控与政策趋同网络。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 488–491)]]
 
 ---
 
@@ -331,7 +331,7 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hao_2026_Nature|Hao et al. (2026)]] — 实证检验库恩（Kuhn, 1962）新兴范式形成假定，揭示 AI 采纳导致后继学术卷入度系统性暴跌 22%，引文网络蜕化为孤立星状拓扑，证实当前算法更倾向于自动化既有成熟领域而非孕育新兴交叉范式网络（p. 1241）。
 > - [[Argument_Chen_2025_HSSC|Chen et al. (2025)]] — 结合折损累积增益算法与微观边际贡献测算，确证学术爆发期兼具高范式颠覆度，并揭示常规解谜高引成果对范式突破的资源挤出效应。
 > - [[Argument_Fortunato_2018_Science|Fortunato et al. (2018)]] — 系统确立科学学定量范式，实证阐明小团队颠覆既有范式、大团队深化成熟路径的生态位分工（pp. 1–5）。

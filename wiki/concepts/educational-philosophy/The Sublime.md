@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-14"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -97,6 +97,14 @@ updated: 2026-11-15
 
 ---
 
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **感官极限与混合赞叹** | 确立人类感官尺度极限，以局部美与总体受挫的混合情感界定崇高 | 启蒙美学、宇宙论美学转型与哥特式建筑评价 | Mendelssohn, M.; Hammermeister, K. |
+> | **主体超感性理性觉醒** | 区分数学与力学崇高，论证想象力受挫或面对危险时主体超感性道德尊严的确立 | 康德批判美学、自然审美体验与道德自由辩护 | Kant, I.; Hammermeister, K. |
+
+---
+
 > [!dev-timeline] 概念演变
 > - **1757 — 伯克的经验主义阐释** 埃德蒙·伯克（Edmund Burke）出版《论崇高与美观念的根源》，将崇高与面对巨大、危险对象时的恐惧心理联系起来。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 17)]]；[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 24)]]
 > - **1758 — 门德尔松引入德国美学** 门德尔松发表《论自由艺术中的崇高与素朴》，把崇高纳入人类感官尺度与混合情感框架，以正面的赞叹区别于伯克的恐惧说。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 15, 17–18)]]
@@ -104,7 +112,7 @@ updated: 2026-11-15
 > - **1790 — 康德批判哲学的主体转向** 康德在《判断力批判》（§§23–28）中提出数学的崇高与力学的崇高，使崇高脱离对象感性形式而指向主体道德自由，并与立足感官的美形成二元张力。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 32–34)]]
 > - **1790 年代以降 — 德国唯心论的弥合努力** 席勒、谢林与黑格尔力图重新结合美与崇高，避免主体长期分裂在感性与道德之间；黑格尔并在《哲学全书》§104 中质疑康德的数学崇高只是“坏无限”引起的枯燥感。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 33–34)]]
 > - **1802–1805 — 谢林《艺术哲学》中的混沌与互含** 谢林（Friedrich Wilhelm Joseph Schelling）把美界定为有序宇宙的映照，把崇高界定为在混沌中依然保留秩序与美之痕迹的显现，同时主张美本身必须包含某种令人生畏的崇高因子（呼应[[Aristotle|亚里士多德]]净化说与里尔克《杜伊诺哀歌》）。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 78)]]
-> - **1830–1835 — 黑格尔象征型艺术定位与魏塞的过渡重构** [[Georg Wilhelm Friedrich Hegel|黑格尔]]在《美学讲演录》中将波斯、印度与埃及古代东方“象征型艺术”界定为追寻意义的崇高表达（以不充分的物质形式摸索模糊理念）；其门徒克里斯蒂安·赫尔曼·魏塞（Christian Hermann Weisse, 1830）则在《美学体系》中将美确立为崇高（美向真善过渡）与丑的共同根基。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 98, 106)]]
+> - **1830–1835 — 黑格尔象征型艺术定位与魏塞的过渡重构** [[Georg Wilhelm Friedrich Hegel|黑格尔]]在《美学讲演录》中将古代东方“象征型艺术”界定为追寻意义的崇高表达（以不充分的物质形式摸索模糊理念）；其门徒魏塞（Christian Hermann Weisse, 1830）则在《美学体系》中将美确立为崇高与丑的共同根基。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 98, 106)]]
 > - **1818 — 叔本华的意志挣脱论与内在悖论** [[Arthur Schopenhauer|叔本华]]将崇高与无挣扎即获纯认知的美相对照，指出面对威胁个体意志的对象时，主体必须通过有意识的猛烈挣扎撕脱危险感才能赢得纯认知；这一机制使崇高建立在意志主动克服意志的前提之上，反过来暴露出无意志静观预设的内在矛盾。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, p. 123)]]
 
 ---
