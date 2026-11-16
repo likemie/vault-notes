@@ -82,6 +82,7 @@ updated: 2026-11-15
 > [!warning|limits] 适用局限
 > - **古典范例引导悖论** 康德虽主张经典艺术范例对培养和纠正鉴赏力不可或缺，但鉴于鉴赏判断不可概念化的前提，这些传统范例究竟如何发挥近似规则的引导功能而又不沦为硬性条规，在《判断力批判》中仍未得到充分说明。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, p. 36)]]
 > - **实证主义对天才奇迹的祛魅** [[Friedrich Nietzsche|尼采]]在《人性的，太人性的》（§146–147）的实证主义阶段，将艺术家对“天才奇迹”的沉溺与宗教迷信相提并论，斥之为滞留儿童或少年阶段的认知倒退。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, p. 145)]]
+> - **海德格尔对天才表现论的拒斥** [[Martin Heidegger|马丁·海德格尔]]（Martin Heidegger）在《艺术作品的本源》中彻底清理以艺术家为中心的天才表现论，主张在伟大艺术中艺术家近乎自我消解的通道，传记式批评完全错失艺术本质。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 178, 184–185)]]
 
 ---
 
@@ -96,7 +97,9 @@ updated: 2026-11-15
 > | [[Arthur Schopenhauer]] | 人物 | 将天才界定为克服个人主观性的绝对客观直观，并引出审美精英主义与动静悖论。[[Argument_Hammermeister_2002_Cambridge_Ch06\|(Hammermeister, 2002, pp. 120–121)]] |
 > | [[Friedrich Nietzsche]] | 人物 | 在实证主义阶段将“天才奇迹”批判为与宗教迷信同源的幼稚崇拜。[[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, p. 145)]] |
 
+> | [[Martin Heidegger]] | 人物 | 拒斥天才表现论与传记批评，强调作品自身并淡化艺术家个体。[[Argument_Hammermeister_2002_Cambridge_Ch09\|(Hammermeister, 2002, pp. 178, 184–185)]] |
+
 ---
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch02|Hammermeister (2002)]] — 第 2 章析康德天才；第 4 章析谢林天才；第 6 章析叔本华天才；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析尼采对天才奇迹的祛魅（p. 145）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch02|Hammermeister (2002)]] — 第 2、4、6 章分别析康德、谢林与叔本华天才观；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析尼采祛魅；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]析海德格尔拒斥天才表现论（pp. 178, 184–185）。

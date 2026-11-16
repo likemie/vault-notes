@@ -70,7 +70,7 @@ updated: 2026-11-16
 > **不可穷尽性的诠释学奠基** 审美理念解释了艺术为何超越一次性概念总结，促使观者不断重返作品本身。
 
 > [!claim] Hammermeister, K.
-> > **从主体游戏到客体深度** 在康德处，审美理念体现为想象力与知性[[Free Play|自由游戏]]的主观进程（p. 30）；随后的德国浪漫主义、谢林（[[Friedrich Wilhelm Joseph Schelling]]）、马丁·海德格尔（Martin Heidegger）与西奥多·阿多诺（Theodor W. Adorno）虽抛弃了康德的主体主义立场，却共同继承了作品“最终不可彻底阐释”这一核心洞见，将其转化为艺术客体自身的内在特征（p. 31）。这一概念同样适用于放弃传统悦目标准的现代艺术，因为丑陋或令人不安的作品依然能够激发无限思考而无须受限于感官快感（p. 40）。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 30–31, 40)]]
+> > **从主体游戏到客体深度** 在康德处，审美理念体现为想象力与知性[[Free Play|自由游戏]]的主观进程（p. 30）；随后的德国浪漫主义、谢林（[[Friedrich Wilhelm Joseph Schelling]]）、[[Martin Heidegger|马丁·海德格尔]]（Martin Heidegger，借[[World and Earth|世界与大地]]中的“大地”延续其抗概念性，pp. 182, 188）与西奥多·阿多诺（Theodor W. Adorno）虽抛弃了康德的主体主义立场，却共同继承了作品“最终不可彻底阐释”这一核心洞见，将其转化为艺术客体自身的内在特征（p. 31）。这一概念同样适用于放弃传统悦目标准的现代艺术，因为丑陋或令人不安的作品依然能够激发无限思考而无须受限于感官快感（p. 40）。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 30–31, 40)]][[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 182, 188)]]
 >
 > > [!claim] Hammermeister, K.
 > > **20 世纪的两极挪用与拒斥** 在 20 世纪美学中，[[Ernst Cassirer|恩斯特·卡西尔]]（Ernst Cassirer）挪用康德审美理念揭示事物面向的无穷尽性，以此限制科学主义抽象穷尽实在的僭妄（pp. 154–155）；相反，[[Georg Lukács|格奥尔格·卢卡奇]]（Georg Lukács）则将艺术形式定义为强制引导接受的客观构图，明确要求放弃康德审美理念的无限阐释空间以求唯一恰当理解（pp. 168–169）。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 154–155, 168–169)]]
@@ -97,11 +97,13 @@ updated: 2026-11-16
 > |:-----|:-----|:-----|
 > | [[Judgment of Taste]] | 概念 | 审美理念是鉴赏判断中想象力与知性自由游戏在表象层面的对应机制。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, p. 30)]] |
 > | [[Aesthetic Truth]] | 概念 | 鲍姆嘉通“想象力的丰富性”概念预示了康德的审美理念。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, p. 11)]] |
+> | [[World and Earth]] | 概念 | 海德格尔以“大地”延续康德审美理念不可被概念穷尽的特质。[[Argument_Hammermeister_2002_Cambridge_Ch09\|(Hammermeister, 2002, pp. 182, 188)]] |
 > | [[Immanuel Kant]] | 人物 | 在《判断力批判》第 49 节系统界定审美理念的提出者。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, p. 30)]] |
 > | [[Ernst Cassirer]] | 人物 | 挪用审美理念制衡科学主义抽象边界的新康德主义美学家。[[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 154–155)]] |
 > | [[Georg Lukács]] | 人物 | 以客观引导构图拒绝审美理念无限阐释空间的现实主义美学家。[[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 168–169)]] |
+> | [[Martin Heidegger]] | 人物 | 将审美理念的抗概念性转化为作品客体“大地”的存在哲学家。[[Argument_Hammermeister_2002_Cambridge_Ch09\|(Hammermeister, 2002, pp. 182, 188)]] |
 >
 > ---
 >
 > > [!evidence-grid] 相关研究索引
-> > - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1 章]]溯源[[Alexander Gottlieb Baumgarten|鲍姆嘉通]]对审美理念的先导；[[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]剖析康德审美理念与理性理念的互补结构及现代阐释学范式；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]述卡西尔对审美理念的挪用与卢卡奇的拒斥（pp. 154–155, 168–169）。
+> > - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1]]–[[Argument_Hammermeister_2002_Cambridge_Ch02|2 章]]析鲍姆嘉通与康德；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]述卡西尔与卢卡奇；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]析海德格尔以“大地”延续审美理念（pp. 182, 188）。
