@@ -7,7 +7,7 @@ aliases:
 summary: "康德提出的想象力表象概念，指能够引发丰富思想却没有任何知性概念或语言能够充分把握的表象，奠定了现代艺术阐释无限性的诠释学范式；阿多诺将其转译为作品的谜题特征以守护非概念真理内容。"
 type: concept
 domain: "educational-philosophy"
-related_count: 15
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -102,8 +102,8 @@ updated: 2026-11-16
 > [!contrast-table] 所有命题归纳
 > | 命题 | 核心论点 | 关键机制与依据 | 理论旨趣 |
 > |---|---|---|---|
-> | **命题一｜无限阐释与客观化转向** | 审美理念奠定艺术不可彻底阐释的深度，并在后康德美学中转化为客体属性 | 想象力表象超越单一知性概念归摄，并在谢林、海德格尔处客体化（[[Argument_Hammermeister_2002_Cambridge_Ch02|Hammermeister, 2002, Ch. 2, 9]]） | 确立现代艺术诠释学的无限性基底 |
-> | **命题二｜阿多诺谜题特征转译** | 艺术作品蕴含持续召唤阐释却抗拒概念还原的谜题特征 | 审美直观与概念阐释动态共生，守护非同一性真理内容（[[Argument_Hammermeister_2002_Cambridge_Ch10|Hammermeister, 2002, Ch. 10]]） | 抵御工具理性概念暴力的收编与同一化 |
+> | **命题一｜无限阐释与客观化转向** | 审美理念奠定艺术不可彻底阐释的深度，并在后康德美学中转化为客体属性 | 想象力表象超越单一知性概念归摄，并在谢林、海德格尔处客体化（[[Argument_Hammermeister_2002_Cambridge_Ch02\|Hammermeister, 2002, Ch. 2, 9]]） | 确立现代艺术诠释学的无限性基底 |
+> | **命题二｜阿多诺谜题特征转译** | 艺术作品蕴含持续召唤阐释却抗拒概念还原的谜题特征 | 审美直观与概念阐释动态共生，守护非同一性真理内容（[[Argument_Hammermeister_2002_Cambridge_Ch10\|Hammermeister, 2002, Ch. 10]]） | 抵御工具理性概念暴力的收编与同一化 |
 
 ---
 

@@ -7,7 +7,7 @@ aliases:
 summary: "德国社会学家阿诺德·盖伦针对现代艺术提出的诊断概念，指艺术内在逻辑演变终结后，各种历史风格与可能性同步混杂并存的拼贴状态。哈默迈斯特进一步据此诊断当代美学在感官泛化与孤立沉默之间的无根两难。"
 type: concept
 domain: "educational-philosophy"
-related_count: 11
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -95,8 +95,8 @@ updated: 2026-11-16
 > [!contrast-table] 所有命题归纳
 > | 命题 | 核心论点 | 关键机制与依据 | 理论旨趣 |
 > |---|---|---|---|
-> | **命题一｜风格自由与规范真空** | 后历史诊断揭示艺术风格拼贴背后缺乏规范性评价标准 | 艺术脱离内在历史必然序列，进入共时性混杂（[[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister, 2002, Ch. 5]]） | 揭示现代艺术相对主义与庸俗化风险 |
-> | **命题二｜自律无根与当代两难** | 当代后历史美学在感官泛化与沉默孤立间摇摆，折射自律无根危机 | 缺乏更高真理依附的自律导致精神无家可归（[[Argument_Hammermeister_2002_Cambridge_Ch10|Hammermeister, 2002, Ch. 10]]） | 诊断当代美学五重复古路径的内在困局 |
+> | **命题一｜风格自由与规范真空** | 后历史诊断揭示艺术风格拼贴背后缺乏规范性评价标准 | 艺术脱离内在历史必然序列，进入共时性混杂（[[Argument_Hammermeister_2002_Cambridge_Ch05\|Hammermeister, 2002, Ch. 5]]） | 揭示现代艺术相对主义与庸俗化风险 |
+> | **命题二｜自律无根与当代两难** | 当代后历史美学在感官泛化与沉默孤立间摇摆，折射自律无根危机 | 缺乏更高真理依附的自律导致精神无家可归（[[Argument_Hammermeister_2002_Cambridge_Ch10\|Hammermeister, 2002, Ch. 10]]） | 诊断当代美学五重复古路径的内在困局 |
 
 ---
 

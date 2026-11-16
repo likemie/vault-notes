@@ -7,7 +7,7 @@ aliases:
 summary: "黑格尔提出的美学命题，指艺术自基督教与反思时代以来不再承担绝对精神最高真理载体的功能。后世衍生出艺术解放、后历史拼贴以及超越孤立自律以重建形而上学真理契约等理论探索。"
 type: concept
 domain: "educational-philosophy"
-related_count: 16
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -100,8 +100,8 @@ updated: 2026-11-16
 > [!contrast-table] 所有命题归纳
 > | 命题 | 核心论点 | 关键机制与依据 | 理论旨趣 |
 > |---|---|---|---|
-> | **命题一｜艺术自主性解放** | 艺术终结标志着现代艺术摆脱宗教内容束缚、确立自身主权 | 黑格尔指出艺术家不再受特定神圣题材约束，成为自由创造的工具（[[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister, 2002, Ch. 5]]） | 解释现代艺术形式自主与多元主义 |
-> | **命题二｜超越自律的真理契约** | 孤立自律的艺术必走向虚无，唯有自愿依附形而上学真理才能超越危机 | 浮士德式绝对自由缺乏安身归宿，需重构新浪漫真理契约（[[Argument_Hammermeister_2002_Cambridge_Ch10|Hammermeister, 2002, Ch. 10]]） | 克服现代主义虚无绝境，重建哲学美学功能 |
+> | **命题一｜艺术自主性解放** | 艺术终结标志着现代艺术摆脱宗教内容束缚、确立自身主权 | 黑格尔指出艺术家不再受特定神圣题材约束，成为自由创造的工具（[[Argument_Hammermeister_2002_Cambridge_Ch05\|Hammermeister, 2002, Ch. 5]]） | 解释现代艺术形式自主与多元主义 |
+> | **命题二｜超越自律的真理契约** | 孤立自律的艺术必走向虚无，唯有自愿依附形而上学真理才能超越危机 | 浮士德式绝对自由缺乏安身归宿，需重构新浪漫真理契约（[[Argument_Hammermeister_2002_Cambridge_Ch10\|Hammermeister, 2002, Ch. 10]]） | 克服现代主义虚无绝境，重建哲学美学功能 |
 
 ---
 

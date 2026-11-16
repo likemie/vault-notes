@@ -4891,8 +4891,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md",
-        "wiki/concepts/educational-philosophy/End of Art.md",
-        "wiki/concepts/educational-philosophy/Post-histoire.md"
+        "wiki/concepts/educational-philosophy/End of Art.md"
       ],
       "title": ""
     },
@@ -114008,7 +114007,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch10.md"
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch10.md",
+        "wiki/concepts/educational-philosophy/Aesthetic Idea.md"
       ],
       "title": ""
     },
@@ -115089,8 +115089,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md",
-        "wiki/concepts/educational-philosophy/End of Art.md"
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md"
       ],
       "title": ""
     },
@@ -122510,14 +122509,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-philosophy/Lifelong Learning.md"
-      ],
-      "title": ""
-    },
-    "盖伦, 1960": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/educational-philosophy/Post-histoire.md"
       ],
       "title": ""
     },

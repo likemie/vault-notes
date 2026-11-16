@@ -27957,8 +27957,6 @@
     "皇家学会, 2026": "皇家学会, 2026a",
     "皇家学会, 2026a": "皇家学会, 2026a",
     "皇家学会, 2026b": "皇家学会, 2026b",
-    "盖伦 (1960)": "盖伦, 1960",
-    "盖伦, 1960": "盖伦, 1960",
     "相对主义与后现代认识论批判 (2015)": "相对主义与后现代认识论批判, 2015",
     "相对主义与后现代认识论批判, 2015": "相对主义与后现代认识论批判, 2015",
     "石中英 (2017)": "石中英, 2017",
@@ -36329,8 +36327,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md",
-        "wiki/concepts/educational-philosophy/End of Art.md",
-        "wiki/concepts/educational-philosophy/Post-histoire.md"
+        "wiki/concepts/educational-philosophy/End of Art.md"
       ],
       "title": ""
     },
@@ -217210,7 +217207,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch10.md"
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch10.md",
+        "wiki/concepts/educational-philosophy/Aesthetic Idea.md"
       ],
       "title": ""
     },
@@ -218966,8 +218964,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md",
-        "wiki/concepts/educational-philosophy/End of Art.md"
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch05.md"
       ],
       "title": ""
     },
@@ -231451,21 +231448,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-philosophy/Lifelong Learning.md"
-      ],
-      "title": ""
-    },
-    "盖伦, 1960": {
-      "aliases": [
-        "盖伦, 1960",
-        "盖伦 (1960)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "盖伦, 1960"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/educational-philosophy/Post-histoire.md"
       ],
       "title": ""
     },

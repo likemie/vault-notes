@@ -6,7 +6,7 @@ aliases:
 summary: "德国美学中连接感性显现与哲学真理的核心认识论范畴。谢林论证审美直观是成为客观存在的理智直观，在艺术品中展现意识与无意识的原初同一；阿多诺进一步确立审美直观与哲学阐释的辩证互补，借由作品的谜题特征守护非概念真理内容。"
 type: concept
 domain: "educational-philosophy"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
