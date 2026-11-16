@@ -11281,7 +11281,9 @@
     "Horak (1985)": "Horak, 1985",
     "Horak, 1981": "Horak, 1981",
     "Horak, 1985": "Horak, 1985",
+    "Horkheimer (1937)": "Horkheimer, 1937",
     "Horkheimer (1972)": "Horkheimer, 1972",
+    "Horkheimer, 1937": "Horkheimer, 1937",
     "Horkheimer, 1972": "Horkheimer, 1972",
     "Horn & Packard (1985)": "Horn & Packard, 1985",
     "Horn & Packard, 1985": "Horn & Packard, 1985",
@@ -27848,6 +27850,10 @@
     "本文, 2025": "本文, 2025",
     "本赛德 (1999)": "本赛德, 1999",
     "本赛德, 1999": "本赛德, 1999",
+    "本雅明 (1936)": "本雅明, 1936",
+    "本雅明 (1940)": "本雅明, 1940",
+    "本雅明, 1936": "本雅明, 1936",
+    "本雅明, 1940": "本雅明, 1940",
     "朱丽 (2018)": "朱丽, 2018",
     "朱丽, 2018": "朱丽, 2018",
     "李军 (2018)": "李军, 2018",
@@ -44272,8 +44278,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/political-economy-geopolitics/Messianic Time.md",
-        "wiki/persons/germany/Walter Benjamin.md"
+        "wiki/concepts/political-economy-geopolitics/Messianic Time.md"
       ],
       "title": ""
     },
@@ -110837,6 +110842,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A Meta-Analysis of Learning Science Concepts from Textual Materials"
+    },
+    "Horkheimer, 1937": {
+      "aliases": [
+        "Horkheimer, 1937",
+        "Horkheimer (1937)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Horkheimer, 1937"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/germany/Max Horkheimer.md"
+      ],
+      "title": ""
     },
     "Horkheimer, 1972": {
       "aliases": [
@@ -230631,6 +230651,36 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-philosophy/Praxis.md"
+      ],
+      "title": ""
+    },
+    "本雅明, 1936": {
+      "aliases": [
+        "本雅明, 1936",
+        "本雅明 (1936)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "本雅明, 1936"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/germany/Walter Benjamin.md"
+      ],
+      "title": ""
+    },
+    "本雅明, 1940": {
+      "aliases": [
+        "本雅明, 1940",
+        "本雅明 (1940)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "本雅明, 1940"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/germany/Walter Benjamin.md"
       ],
       "title": ""
     },
