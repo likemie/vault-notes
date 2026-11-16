@@ -32,78 +32,125 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-16
+updated: "2026-11-16"
 ---
 
 ---
 
 > [!def] Mimesis
-> 摹仿（Mimesis）是自古希腊以来贯穿西方艺术理论的核心概念，原义包含表演（performance）与潜能（potentiality）等多重维度，但在巴洛克与 18 世纪[[Philosophical Aesthetics|美学]]中常被窄化为对物质对象的自然主义模仿；[[Georg Wilhelm Friedrich Hegel|黑格尔]]（Georg Wilhelm Friedrich Hegel）在《美学讲演录》中明确拒绝将此类摹仿作为美学基础，主张艺术呈现的是高于日常经验的“精神所生之实在”。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 94–96)]]
+> **摹仿（Mimesis，亦译模仿）** 是自古希腊以来贯穿西方艺术理论的核心哲学范畴，原义兼具表演（performance）与潜能（potentiality）等多重面向。在 18 世纪及古典唯心论中，[[Georg Wilhelm Friedrich Hegel|黑格尔]]（Georg Wilhelm Friedrich Hegel）严格区分再现的“正确性（*Richtigkeit*）”与艺术作品的“真理（*Wahrheit*）”，系统反驳了将艺术贬为对外部现实被动照相式复写的自然主义观点。20 世纪美学则对摹仿展开深刻重构：卡西尔将其界定为审美形式转化，卢卡奇以[[Typicality|典型性]]建构现实主义，伽达默尔回归毕达哥拉斯式秩序见证，而[[Theodor Adorno|阿多诺]]则把摹仿颠覆为主体向客体温柔依偎（*Anschmiegung*）的前概念亲和性，以此打破概念统治暴力并庇护[[The Nonidentical|非同一性]]。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 94–96)]]；[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 203–205)]]
 
 > [!concept-lens|notitle] 概念透镜
-> - **含义** 艺术作品与外部实在之间的再现、复写或转化关系。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 95–96)]]
-> - **用途** 检验艺术究竟是在复写既成经验现实（追求外在“正确性”），还是在感性媒介中揭示更高的理念与本质“真理”。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 96)]]
-> - **边界** 黑格尔对摹仿的批判主要针对自然主义复制论，未能涵盖[[Aristotle|亚里士多德]]《诗学》中蕴含的[[Performativity|表演性]]与潜能维度。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 95–96)]]
+> - **含义** 艺术作品与外部世界实在之间的再现、复写、象征结构或客体顺应关系。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 95–96)]]
+> - **用途** 辨析艺术究属对既成现象的机械复制，抑或在感性媒介中重构真理本质与历史经验。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 96)]]；[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 163–164)]]
+> - **边界** 摹仿不等于机械写实；在阿多诺与现代主义美学中，如实照搬现实反而是对压迫现状的背书，真正的摹仿是顺应客体纹理的前概念理性认知。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 203–205)]]
 
 > [!citation-card|notitle] 艺术作为理念的意识方式而非理念的摹仿
 > 艺术是把握理念的一种意识方式，却有别于对理念的再现或摹写。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 96)]]
 >
 > *Art is a mode of consciousness of the Idea, but it is not a representation of it. (Taylor, 1975, p. 470)*
 
----
-
-> [!concept-proposition] 命题一｜再现的“正确性”不足以构成艺术的“真理”，摹仿不能充当美学基础
-> **黑格尔对自然主义摹仿论的三重反驳** [[Georg Wilhelm Friedrich Hegel|黑格尔]]严格区分再现的正确性（*Richtigkeit*）与艺术作品的真理（*Wahrheit*），提出三项论据否定摹仿作为艺术本质的充分性。
->
-> > [!claim] Hegel, G. W. F.
-> > **多余、形式化与媒介局限** 第一，若艺术只是既有现实的忠实复本而未增添任何新质，艺术劳动便显得多余，人们转向艺术而非直接面对现实只能出于懒惰、恐惧或逃避，这会消解艺术的真理宣称并使其沦为消遣；第二，摹仿仅能作出形式性的准确度裁决而无法评判美丑，若以摹仿为标准，忠实复写丑陋对象也必须被判定为成功甚至美；第三，摹仿仅在绘画、雕塑等少数门类中较易辨识（且视觉艺术在多数历史时期也并未追求逼真写实），而在舞蹈、建筑或音乐中几乎无从谈起。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 96)]]
+> [!boundary]- 概念边界
+> - 区别于自然主义机械复制 — 机械描摹只是外部形态的复印，黑格尔指出这会使艺术劳动沦为多余；艺术唯有超越外在正确性才能表达真理。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 96)]]
+> - 区别于主观狂想与脱离客体 — 摹仿始终保持着与非自主设定之客体的紧密关联；即便阿多诺推崇现代主义不和谐音，艺术依然凭借客体顺应（*Anschmiegung*）抗拒唯心论主体的专横同一化。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 203–204)]]
 
 ---
 
-> [!concept-proposition] 命题二｜20 世纪美学将摹仿重构为审美形式转化或揭示社会历史本质的现实主义认知
-> **超越照相式复制的现代辩护** 面对自然主义复制论的局限，20 世纪美学重新发掘摹仿的建构性与认知潜能，将其界定为形式转化或对社会历史总体的选择性重构。
->
-> > [!claim] Cassirer, E.
-> > **重释柏拉图与形式转化论** 在《理念与偶像》（*Eidos und Eidolon*）中，[[Ernst Cassirer|恩斯特·卡西尔]]（Ernst Cassirer）修正了对[[Plato|柏拉图]]（Plato）贬低经验世界的传统读法，指出晚期柏拉图在《蒂迈欧篇》中承认世界作为造物主之作是真理的经验显现，并以“比例与尺度”之美中介艺术与真理。由此，卡西尔主张艺术摹仿是依靠审美形式力量完成的“改造与变质转化”，超越了对自然和生活的简单重复。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, p. 157)]]
->
-> > [!claim] Lukács, G.
-> > **艺术摹仿、典型性与党性原则** 在《审美的特性》（1963）中，卢卡奇构建了系统化的艺术摹仿论，区分“去人类中心化”且分离现象与本质的科学摹仿，以及保持现象与本质感性不可分、以个体命运展现[[Typicality|典型性]]的艺术摹仿。艺术摹仿基于对现实特征的选择与正负评价（即社会主义现实主义的“党性” *Parteilichkeit*），旨在清除现实的疏离与粗糙面向，呈现出批判性的自主真实。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 163–164)]]
->
-> > [!claim] Heidegger, M. & Gadamer, H.-G.
-> > **非摹仿的真理敞开与毕达哥拉斯式秩序重释** 20 世纪现象学与诠释学美学对摹仿采取了两条差异鲜明的路径：[[Martin Heidegger|马丁·海德格尔]]（Martin Heidegger）以希腊神庙为例彻底拒斥摹仿论，主张艺术让事物“变得可见”（如保罗·克利与康拉德·菲德勒所述），从而使新事物进入存在；[[Hans-Georg Gadamer|伽达默尔]]则在后期《艺术与模仿》中转向毕达哥拉斯传统，将摹仿重释为世界秩序、音乐和谐与平衡心灵的三重秩序见证，借此赋予艺术对抗现代生活碎片化的伦理与共同体功能。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 178–180, 191–192)]]
->
-> > [!claim] Adorno, T. W.
-> > **批判再现复制与作为前概念亲和力的“依偎”（*Anschmiegung*）** 在《美学理论》（1970）中，[[Theodor Adorno|阿多诺]]同样反对将摹仿理解为主体对既成现实的忠实复写（*Abbild*），认为那只会替不义现状背书；但他转而把摹仿界定为“主体作品对它所未曾设定之他者的非概念亲和力”，即一种接近巫术仪式、拒绝暴力支配而向客体温柔依偎（*Anschmiegung*）的原始行为。正因保留这一摹仿要素，艺术成为补充概念思维的理性认知形式，在全面社会中为[[The Nonidentical|非同一性]]开辟通道。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 203–205)]]
+> [!contrast-table|notitle] 概念辨析
+> | 维度 | 自然主义机械摹仿 | 卢卡奇现实主义摹仿 | 阿多诺顺应客体摹仿（Anschmiegung） |
+> |---|---|---|---|
+> | **再现对象** | 经验世界现成物质表象与感性杂多 | 社会历史本质、阶级矛盾与自然新陈代谢 | 逃逸出概念统治的客体非同一性与历史创伤 |
+> | **核心机制** | 追求外在细节逼真与形态“正确性（*Richtigkeit*）” | 通过[[Typicality\|典型性]]与党性原则统一普遍与特殊 | 主体放弃支配暴力，向客体温柔依偎的前概念亲和性 |
+> | **认知功能** | 缺乏实质真理内容，易沦为消遣复制品 | 克服资本主义异化，提供社会总体批判性图景 | 弥补抽象思维缺陷的理性认识，守护幸福承诺 |
+
+---
+
+> [!feature] 摹仿范式在思想史中的四重重构
+> - **亚里士多德与潜能再现** 摹仿不限于现成物，更关乎可能发生的事件与内在潜能，并包含对丑陋对象艺术处理所带来的认知愉悦。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 95–96)]]
+> - **卡西尔的形式转化论** 修正柏拉图贬低经验形象的传统读法，论证艺术摹仿是依靠形式赋予经验现实以崭新比例尺度的变质升华。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, p. 157)]]
+> - **卢卡奇的典型性现实主义** 严格区分排除主观因素的科学摹仿与感性统一本质的艺术摹仿，借助典型人物与情节透视历史矛盾。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 163–164)]]
+> - **阿多诺的非暴力客体依偎** 唾弃写实复制对不义现状的屈从，把摹仿界定为主体保护客体、容纳丑陋的历史理性认知方式。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 203–205)]]
+
+---
+
+> [!concept-proposition] 命题一｜再现的正确性不等于艺术真理，自然主义机械摹仿不能充当美学基石
+> **黑格尔对自然主义摹仿论的三重反驳** 黑格尔严格区分再现的正确性（*Richtigkeit*）与艺术作品的真理（*Wahrheit*），从三方面论证机械摹仿不能充当艺术核心。
+
+> [!claim] Hegel, G. W. F.
+> **多余性、形式化与媒介适用局限** 第一，若艺术只是既成现实的忠实复本而未增添任何新质，艺术劳动便显得多余，人们转向艺术只能出于逃避与消遣；第二，摹仿仅能评判形式准确度而无法辨析美丑，忠实复写丑陋对象也会被判定为成功；第三，摹仿仅在视觉艺术等少数门类中较易辨识，而在建筑、舞蹈与音乐中几乎无从谈起。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 96)]]
+
+---
+
+> [!concept-proposition] 命题二｜20世纪美学将摹仿重构为形式转化、典型性认知与顺应客体的理性弥补
+> **超越照相式复制的现代辩护** 面对机械复制论的局限，20 世纪思想家分别从形式哲学、马克思主义与批判理论视角，发掘摹仿的认知与批判潜能。
+
+> [!claim] Cassirer, E.
+> **柏拉图新解与形式转化论** 在《理念与偶像》中，卡西尔重读柏拉图《蒂迈欧篇》，主张造物主以比例尺度造就世界是真理的经验显现；艺术摹仿依靠审美形式力量对自然生活完成变质转化，赋予其独立自足的象征意义。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, p. 157)]]
+
+> [!claim] Lukács, G.
+> **现实主义摹仿、典型性与党性原则** 在《审美的特性》中，卢卡奇区分去人类中心化的科学摹仿与保持感性一体的艺术摹仿；艺术摹仿基于对现实特征的选择与评价，通过塑造[[Typicality|典型性]]清除现实的粗糙疏离，展现批判性的历史真实。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 163–164)]]
+
+> [!claim] Heidegger, M. & Gadamer, H.-G.
+> **非摹仿的真理敞开与毕达哥拉斯式秩序重释** 海德格尔以希腊神庙为例拒斥摹仿论，主张艺术是真理自行置入作品并使事物可见；伽达默尔则转向毕达哥拉斯传统，将摹仿重释为世界、音乐与心灵的三重秩序见证，赋予艺术对抗现代碎片化的伦理功能。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 178–180, 191–192)]]
+
+> [!claim] Adorno, T. W.
+> **前概念亲和力与顺应客体的客体依偎（*Anschmiegung*）** 在《美学理论》中，阿多诺反对忠实写实对统治现状的背书，将摹仿重构为主体对未曾设定之客体的前概念亲和性（*begriffslose Affinität*）；主体放弃以征服者姿态强行改造客体，顺应其纹理以预演和解，使摹仿成为弥补抽象概念缺陷的真正理性认识，为[[The Nonidentical|非同一性]]开辟通道。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 203–205)]]
+
+---
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **正确性与真理二分** | 证明机械摹仿的多余性与局限，确立艺术真理超越经验现象的实在性 | 德国古典唯心论、反自然主义美学与艺术本体论讨论 | [[Georg Wilhelm Friedrich Hegel\|Hegel, G. W. F.]] |
+> | **形式转化与象征建构** | 依托形式比例重塑感性经验，将摹仿解释为赋予世界以意义的形式转化 | 新康德主义文化哲学、柏拉图主义再阐释与符号学美学 | [[Ernst Cassirer\|Cassirer, E.]] |
+> | **历史本质与典型性塑造** | 通过典型化统一特殊与普遍，构建揭示社会历史发展动向的批判工具 | 马克思主义文学批评、现实主义理论与社会主义美育 | [[Georg Lukács\|Lukács, G.]] |
+> | **客体依偎与非同一性救赎** | 将摹仿解构为顺应客体的前概念行为，借非暴力姿态弥补概念同一化缺陷 | 批判理论否定辩证法、现代主义艺术批判与生态理性探讨 | [[Theodor Adorno\|Adorno, T. W.]] |
+
+---
+
+> [!dev-timeline] 概念演变
+> - **古希腊 — 摹仿概念的哲学发端** 柏拉图在《理想国》将艺术视作影子的影子，亚里士多德在《诗学》则将摹仿提升为探索潜能与本质的理性活动。
+> - **1817–1835 — 黑格尔清算自然主义复制论** 黑格尔严格区分形式正确性与内在真理，宣告机械摹仿不能充当艺术哲学的基础。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 95–96)]]
+> - **1920s — 卡西尔的形式转化论** 卡西尔重释柏拉图，将摹仿奠基于艺术自主形式的集中强化与象征转化之上。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, p. 157)]]
+> - **1963 — 卢卡奇现实主义摹仿体系化** 卢卡奇以典型性与党性原则重构摹仿，将其确立为透视历史矛盾的认知手段。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 163–164)]]
+> - **1970 — 阿多诺顺应客体的现代主义颠覆** 阿多诺彻底剥离摹仿的描摹外观属性，将其重塑为主体体贴客体（*Anschmiegung*）的非暴力认识论机制。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 203–205)]]
 
 ---
 
 > [!debates|notitle] 学术争议
 >
-> > [!axis] 黑格尔式反摹仿论与亚里士多德—现代主义摹仿传统之争
-> > 黑格尔以提升至“更高实在”为由拒斥摹仿，但后续现实主义与[[Critical Theory|批判理论]]学者指出，这一批判忽略了摹仿概念更丰富的哲学内涵。
+> > [!axis] 黑格尔反摹仿论与亚里士多德—现代主义摹仿传统之争
+> > 黑格尔以升入更高精神实在为由拒斥摹仿，但后继现实主义与批判理论学者指出，这一批判混淆了自然主义照相复制与具有建构潜能的深层摹仿。
 > >
-> > - **[[Georg Wilhelm Friedrich Hegel|黑格尔]]** 认为摹仿把艺术降格为既有实物的冗余镜像，艺术的功能在于剥离坏的暂时世界的欺骗性表象，赋予真理内容以更高的精神实在。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 94, 96)]]
-> > - **亚里士多德、[[Georg Lukács|格奥尔格·卢卡奇]]（Georg Lukács）与[[Theodor Adorno|西奥多·阿多诺]]（Theodor W. Adorno）** 亚里士多德的摹仿本就包含表演、潜能以及从成功再现丑物中获得快感（《诗学》1448b）；卢卡奇为维护现实主义艺术的必要性而反对黑格尔的反摹仿立场，阿多诺对摹仿范畴的现代重修同样深深受惠于亚里士多德；不过正如查尔斯·泰勒（Charles Taylor）与哈默迈斯特所指出，亚里士多德与卢卡奇同样会赞同“艺术呈现高于既有现实的实在”这一核心判断。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 95–96, 105)]]
+> > - **Hegel, G. W. F.** 认为摹仿把艺术贬低为既有实物的多余赝品，艺术本质在于破除坏的现实的欺骗表象，显现理念的感性真理。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 94, 96)]]
+> > - **Lukács, G. & Adorno, T. W.** 继承亚里士多德在《诗学》中对潜能与形式转化的强调，卢卡奇借典型性挽救摹仿的社会批判力，阿多诺则借前概念顺应姿态反转概念暴力；二者均在超越机械复制的前提下赋予摹仿以高阶认知功能。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 95–96)]]；[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 203–205)]]
+
+---
+
+> [!critique|notitle] 外部批评
+> - **操作化界定模糊与经验转化困难** 哈默迈斯特批评指出，阿多诺虽然诗意地将摹仿重构为客体依偎（*Anschmiegung*），却始终未能清晰解释这种前概念官能如何在具体创作与形式编排中实现操作化转化。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 204–205)]]
+
+> [!warning|limits] 适用局限
+> 摹仿概念在现代艺术非具象与概念艺术浪潮中面临严峻挑战；若脱离具体媒介物质性与形式约束，单纯将摹仿诉诸主观顺应态度，容易导致艺术真理与泛化泛灵论的界线模糊。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 204–205, 210)]]
 
 ---
 
 > [!entry-map] 条目关联
 >
-> | 条目 | 类型 | 贡献 |
+> | 条目 | 类型 | 关系 |
 > |---|---|---|
-> | [[Aesthetics of Ugliness]] | 概念 | 黑格尔批判摹仿论无法区分美丑，而[[Karl Rosenkranz\|罗森克兰茨]]则重新以“错误再现”定义丑。 |
-> | [[Typicality]] | 概念 | 卢卡奇借助典型性界定艺术摹仿如何超越孤立个别并展现社会与自然的新陈代谢 [[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 163–164)]]。 |
-> | [[The Nonidentical]] | 概念 | 阿多诺借前概念的亲近性摹仿（*Anschmiegung*）为非同一性开辟进入艺术作品的通道 [[Argument_Hammermeister_2002_Cambridge_Ch10\|(Hammermeister, 2002, pp. 203–204)]]。 |
-> | [[Hegel's Aesthetics]] | 理论 | 拒斥摹仿论是黑格尔将艺术定义为“理念的感性显现”的逻辑推论。 |
-> | [[Cassirer's Aesthetics]] | 理论 | 卡西尔重读柏拉图《蒂迈欧篇》，将艺术摹仿界定为审美形式的变质转化 [[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, p. 157)]]。 |
-> | [[Lukács's Aesthetics]] | 理论 | 以艺术摹仿与科学摹仿之分、党性及典型性奠定现实主义美学基础 [[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 163–164, 169)]]。 |
-> | [[Adorno's Aesthetics]] | 理论 | 将摹仿反转为前概念的客体依偎，使艺术成为补充概念思维的理性认知形式 [[Argument_Hammermeister_2002_Cambridge_Ch10\|(Hammermeister, 2002, pp. 203–205)]]。 |
-> | [[Georg Wilhelm Friedrich Hegel]] | 人物 | 提出正确性与真理之分并系统反驳自然主义摹仿论的哲学家。 |
-> | [[Ernst Cassirer]] | 人物 | 修正柏拉图反摹仿定见的新康德主义美学家 [[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, p. 157)]]。 |
-> | [[Georg Lukács]] | 人物 | 发展出作为社会历史认知与批判工具的现实主义摹仿论 [[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 163–164)]]。 |
-> | [[Theodor Adorno]] | 人物 | 批判再现复制为现状背书，将摹仿重构为保护非同一性的依偎行为 [[Argument_Hammermeister_2002_Cambridge_Ch10\|(Hammermeister, 2002, pp. 203–205)]]。 |
+> | [[Aesthetics of Ugliness]] | 概念 | 黑格尔批评摹仿论无法区分美丑，罗森克兰茨则借再现扭曲重新定义丑。 |
+> | [[Typicality]] | 概念 | 卢卡奇借典型性阐明艺术摹仿如何超越孤立个别并透视社会历史进程。[[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 163–164)]] |
+> | [[The Nonidentical]] | 概念 | 阿多诺借前概念的客体顺应摹仿为非同一性进入艺术开辟避难通道。[[Argument_Hammermeister_2002_Cambridge_Ch10\|(Hammermeister, 2002, pp. 203–204)]] |
+> | [[Hegel's Aesthetics]] | 理论 | 拒斥机械摹仿论是黑格尔将美定义为理念感性显现的必然逻辑推论。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 94–96)]] |
+> | [[Cassirer's Aesthetics]] | 理论 | 卡西尔重读柏拉图，将艺术摹仿解释为形式维度的变质升华。[[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, p. 157)]] |
+> | [[Lukács's Aesthetics]] | 理论 | 构建以典型性与党性原则为支柱的马克思主义现实主义摹仿论。[[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 163–164)]] |
+> | [[Adorno's Aesthetics]] | 理论 | 将摹仿解构为主体顺应客体的非暴力依偎，使艺术承担弥补概念暴力的认知功能。[[Argument_Hammermeister_2002_Cambridge_Ch10\|(Hammermeister, 2002, pp. 203–205)]] |
+> | [[Georg Wilhelm Friedrich Hegel]] | 人物 | 提出正确性与真理之分并系统清算自然主义摹仿论的唯心论哲学家。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 95–96)]] |
+> | [[Georg Lukács]] | 人物 | 创立现实主义典型摹仿论的马克思主义哲学家。[[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 163–164)]] |
+> | [[Theodor Adorno]] | 人物 | 颠覆机械再现说、提出客体顺应摹仿（*Anschmiegung*）的批判理论家。[[Argument_Hammermeister_2002_Cambridge_Ch10\|(Hammermeister, 2002, pp. 203–205)]] |
 
 ---
 
-> [!evidence-grid] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]梳黑格尔反摹仿（pp. 95–96）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析卡西尔与卢卡奇（pp. 157, 163–164）；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]析海德格尔与伽达默尔（pp. 178–180, 191–192）；[[Argument_Hammermeister_2002_Cambridge_Ch10|第 10 章]]析阿多诺亲近性摹仿（pp. 203–205）。
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — 第 5 章析黑格尔摹仿论局限（pp. 95–96）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析卡西尔形式转化与卢卡奇典型摹仿（pp. 157, 163–164）；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]析伽达默尔秩序重释（pp. 178–192）；[[Argument_Hammermeister_2002_Cambridge_Ch10|第 10 章]]析阿多诺客体顺应摹仿（pp. 203–205）。
