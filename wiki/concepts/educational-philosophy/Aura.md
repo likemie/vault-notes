@@ -33,7 +33,7 @@ updated: "2026-11-16"
 > **灵光（Aura，亦译作光晕）** 是[[Walter Benjamin|瓦尔特·本雅明]]（Walter Benjamin）在《机械复制时代的艺术作品》（*Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit*, 1936）中提出的核心美学范畴，指古典原作独具的“此时此地”（*hic et nunc*），即“无论咫尺如何贴近，那一抹不可触碰的遥远之感的唯一一次显现”（*einmalige Erscheinung einer Ferne, so nah sie sein mag*）。灵光根植于巫术与宗教仪式的神圣不可侵犯性，在世俗展示与现代工业机械复制技术中走向消解；阿多诺则反驳灵光消解带来的纯粹进步神话，论证灵光封存着抵御社会全面整合的非同一历史力量。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 198–200, 242 n.10–11)]]
 
 > [!concept-lens|notitle] 概念透镜
-> - **含义** 艺术作品在具体历史时空中的唯一在场性、岁月沉淀与神圣距离感。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, p. 198)]]
+> - **含义** 艺术作品在具体历史时空中的唯一在场性、历史流传痕迹与神圣距离感。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, p. 198)]]
 > - **用途** 解释艺术社会功能从巫术膜拜向世俗政治的演变，并审视技术复制对大众感知方式与审美专注力的塑造。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 198–200)]]
 > - **边界** 灵光消逝不能简单等同于审美民主化的无条件胜利；失去灵光维系的严肃专注，艺术面临沦为文化工业商品与政治意识形态工具的风险。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 199–201)]]
 

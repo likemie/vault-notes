@@ -43,7 +43,7 @@ updated: "2026-11-16"
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 艺术作品与外部世界实在之间的再现、复写、象征结构或客体顺应关系。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 95–96)]]
 > - **用途** 辨析艺术究属对既成现象的机械复制，抑或在感性媒介中重构真理本质与历史经验。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 96)]]；[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 163–164)]]
-> - **边界** 摹仿不等于机械写实；在阿多诺与现代主义美学中，如实照搬现实反而是对压迫现状的背书，真正的摹仿是顺应客体纹理的前概念理性认知。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 203–205)]]
+> - **边界** 摹仿区别于机械写实；在阿多诺现代主义美学中，如实照搬经验现实构成对压迫现状的默许背书，严格意义上的摹仿指主体顺应客体纹理的前概念理性认知。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 203–205)]]
 
 > [!citation-card|notitle] 艺术作为理念的意识方式而非理念的摹仿
 > 艺术是把握理念的一种意识方式，却有别于对理念的再现或摹写。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 96)]]
