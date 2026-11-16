@@ -7,8 +7,8 @@ aliases:
 summary: "社会学家 Randall Collins 提出的核心概念，指高等教育规模扩张导致文凭总量过剩后，文凭作为兑换职业地位的通货价值发生萎缩，推动雇主筛选标准向更高学历层级与软实力包装转移的宏观机制。"
 type: concept
 domain: "sociology-of-education"
-related_count: 22
-related_level: 2
+related_count: 14
+related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 tags:

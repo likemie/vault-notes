@@ -6,8 +6,8 @@ aliases:
 summary: "社会学家 Phillip Brown 提出的核心概念，指在文凭通胀与就业力相对化背景下，大学生将课外活动、实习与自我展示进行精细投资和战略管理以积累相对竞争优势的微观行动机制。"
 type: concept
 domain: "higher-education"
-related_count: 24
-related_level: 2
+related_count: 15
+related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 tags:

@@ -3359,7 +3359,6 @@
     "Brown (1992)": "Brown, 1992",
     "Brown (2000)": "Brown, 2000",
     "Brown (2001)": "Brown, 2001",
-    "Brown (2003)": "Brown, 2003",
     "Brown (2004)": "Brown, 2004",
     "Brown (2005a)": "Brown, 2005a",
     "Brown (2005b)": "Brown, 2005b",
@@ -3387,7 +3386,6 @@
     "Brown, 1992": "Brown, 1992",
     "Brown, 2000": "Brown, 2000",
     "Brown, 2001": "Brown, 2001",
-    "Brown, 2003": "Brown, 2003",
     "Brown, 2004": "Brown, 2004",
     "Brown, 2005": "Brown, 2005a",
     "Brown, 2005a": "Brown, 2005a",
@@ -21377,6 +21375,8 @@
     "Samuel Messick, 1989": "Samuel Messick, 1989",
     "Samuel Peng (1998)": "Samuel Peng, 1998",
     "Samuel Peng, 1998": "Samuel Peng, 1998",
+    "Samuel R. Lucas (2001)": "Samuel R. Lucas, 2001",
+    "Samuel R. Lucas, 2001": "Samuel R. Lucas, 2001",
     "Samuel, 2026": "Samuel, 2026",
     "San & Kis (2018)": "San & Kis, 2018",
     "San & Kis, 2018": "San & Kis, 2018",
@@ -52559,7 +52559,9 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/higher-education/Employability.md"
+        "wiki/concepts/higher-education/Economy of Experience.md",
+        "wiki/concepts/higher-education/Employability.md",
+        "wiki/concepts/sociology-of-education/Credential Inflation.md"
       ],
       "title": ""
     },
@@ -52864,22 +52866,6 @@
       "seen_in": [],
       "title": "A meta-analysis of research on the influence of leadership on student outcomes"
     },
-    "Brown, 2003": {
-      "aliases": [
-        "Brown, 2003",
-        "Brown (2003)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Brown, 2003"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/Economy of Experience.md",
-        "wiki/concepts/sociology-of-education/Credential Inflation.md"
-      ],
-      "title": ""
-    },
     "Brown, 2004": {
       "aliases": [
         "Brown, 2004",
@@ -52935,6 +52921,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/higher-education/Economy of Experience.md",
         "wiki/concepts/higher-education/Employability.md"
       ],
       "title": ""
@@ -65345,7 +65332,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/higher-education/Economy of Experience.md",
         "wiki/concepts/sociology-of-education/Credential Inflation.md"
       ],
       "title": ""
@@ -105230,6 +105216,7 @@
         "wiki/concepts/educational-philosophy/Scientism.md",
         "wiki/concepts/educational-policy-reform/Class Size.md",
         "wiki/concepts/educational-policy-reform/Evidence-Based Education.md",
+        "wiki/concepts/educational-technology/Extracurricular Activities.md",
         "wiki/concepts/instruction-pedagogy/Barometer of Achievement.md",
         "wiki/concepts/instruction-pedagogy/Concept Mapping.md",
         "wiki/concepts/instruction-pedagogy/Constructivist Instruction.md",
@@ -105244,8 +105231,7 @@
         "wiki/concepts/instruction-pedagogy/Student-Teacher Relationship.md",
         "wiki/concepts/instruction-pedagogy/Teacher Clarity.md",
         "wiki/concepts/instruction-pedagogy/Whole Language.md",
-        "wiki/concepts/instruction-pedagogy/Zone of Desired Effects.md",
-        "wiki/concepts/learning-science-cognitive-science/Differentiated Instruction.md"
+        "wiki/concepts/instruction-pedagogy/Zone of Desired Effects.md"
       ],
       "title": "Visible learning: A synthesis of over 800 meta-analyses relating to achievement"
     },
@@ -117636,6 +117622,7 @@
         "wiki/arguments/journal-articles/Education Sciences/Argument_Larsen_2019_EducSci.md",
         "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_Terhart_2011_JCS.md",
         "wiki/concepts/educational-philosophy/Research Cage.md",
+        "wiki/concepts/educational-technology/Extracurricular Activities.md",
         "wiki/facts/finland/Framework Curriculum 1994.md",
         "wiki/methods/quantitative/Random Assignment.md"
       ],
@@ -139221,7 +139208,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md",
+        "wiki/concepts/sociology-of-education/Credential Inflation.md"
       ],
       "title": ""
     },
@@ -168645,7 +168633,9 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md",
+        "wiki/concepts/higher-education/Economy of Experience.md",
+        "wiki/concepts/sociology-of-education/Credential Inflation.md"
       ],
       "title": ""
     },
@@ -174066,7 +174056,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md",
+        "wiki/concepts/sociology-of-education/Credential Inflation.md"
       ],
       "title": ""
     },
@@ -184008,6 +183999,21 @@
       ],
       "title": ""
     },
+    "Samuel R. Lucas, 2001": {
+      "aliases": [
+        "Samuel R. Lucas, 2001",
+        "Samuel R. Lucas (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Samuel R. Lucas, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/sociology-of-education/Credential Inflation.md"
+      ],
+      "title": ""
+    },
     "Samuel, 2026": {
       "aliases": [
         "Samuel, 2026",
@@ -191290,6 +191296,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Educational Research and Evaluation/Argument_Wrigley_2019_ERE.md",
+        "wiki/concepts/educational-technology/Extracurricular Activities.md",
         "wiki/concepts/research-methodology/Critique of Effect Size.md"
       ],
       "title": ""
@@ -227511,8 +227518,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/higher-education/Social Engagement.md",
-        "wiki/concepts/sociology-of-education/Credential Inflation.md"
+        "wiki/concepts/higher-education/Social Engagement.md"
       ],
       "title": ""
     },
@@ -231337,7 +231343,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md",
+        "wiki/concepts/sociology-of-education/Credential Inflation.md"
       ],
       "title": ""
     },
