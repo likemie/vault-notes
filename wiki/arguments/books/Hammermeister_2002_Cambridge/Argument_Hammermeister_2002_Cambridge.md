@@ -74,7 +74,7 @@ updated: 2026-11-16
 > - **书名** 《德国[[Philosophical Aesthetics|美学]]传统》（The German Aesthetic Tradition）。
 > - **撰写者** 凯·哈默迈斯特（Kai Hammermeister）。
 > - **出版信息** Cambridge University Press，2002 年，电子版 ISBN 9780511068980。
-> - **处理粒度** 分章建立论证页；目前已解读第 1–9 章，第 10 章待解读。
+> - **处理粒度** 分章建立论证页；目前已解读第 1–10 章及全书结语。
 
 > [!textbook-overview] 章节导航
 > | 章节 | 内容概要 | 主要关联条目 |
@@ -89,7 +89,7 @@ updated: 2026-11-16
 > | [[Argument_Hammermeister_2002_Cambridge_Ch07\|第 7 章 Kierkegaard, Nietzsche]] | II · Challenging the Paradigms；pp. 128–150。[[Søren Kierkegaard\|克尔凯郭尔]]的[[Kierkegaard's Aesthetics\|存在美学]]与[[Indirect Communication\|间接沟通]]、[[Friedrich Nietzsche\|尼采]]的三阶段[[Nietzsche's Aesthetics\|美学]]、[[Apollonian and Dionysian\|日神与酒神]]、[[Perspectivism\|视角主义]]及“恐怖美学”引发的双向反弹。 | 已解读 |
 > | [[Argument_Hammermeister_2002_Cambridge_Ch08\|第 8 章 Cassirer, Lukács]] | III · Renewing the Paradigms；pp. 153–172。[[Ernst Cassirer\|卡西尔]]的[[Animal Symbolicum\|符号动物]]与[[Cassirer's Aesthetics\|新康德主义美学]]、[[Georg Lukács\|卢卡奇]]的[[Lukács's Aesthetics\|现实主义摹仿论]]与[[Typicality\|典型性]]，以及[[Herbert Marcuse\|马尔库塞]]在[[Repressive Tolerance\|压抑性容忍]]下回归自律伟大艺术的[[Marcuse's Aesthetics\|批判美学]]。 | 已解读 |
 > | [[Argument_Hammermeister_2002_Cambridge_Ch09\|第 9 章 Heidegger, Gadamer]] | III · Renewing the Paradigms；pp. 173–193。[[Martin Heidegger\|海德格尔]]的[[Heidegger's Aesthetics\|艺术哲学]]、[[World and Earth\|世界与大地]]之争与存在论守护，以及[[Hans-Georg Gadamer\|伽达默尔]]的[[Gadamer's Aesthetics\|诠释学美学]]、[[Aesthetic Nondifferentiation\|审美无区分]]与[[Fusion of Horizons\|视域融合]]。 | 已解读 |
-> | 第 10 章 Adorno | III · Renewing the Paradigms；pp. 194–211。[TXT](../../../../raw/Hammermeister_2002_Cambridge_txt/Ch10_Adorno.txt) | 待解读 |
+> | [[Argument_Hammermeister_2002_Cambridge_Ch10\|第 10 章 Adorno]] | III · Renewing the Paradigms；pp. 194–211（含结语 pp. 213–216）。[[Theodor Adorno\|阿多诺]]的[[Adorno's Aesthetics\|否定美学]]、[[The Nonidentical\|非同一性]]、[[Culture Industry\|文化工业]]批判、[[Walter Benjamin\|本雅明]][[Aura\|灵光]]之争、[[Mimesis\|摹仿]]反转及当代美学复兴困境。 | 已解读 |
 
 > [!book-limits] 配套材料与引用
 > - **前言与结语** 前言并入第 1 章开头（pp. ix–xv），结语并入第 10 章末尾（pp. 213–216）。
