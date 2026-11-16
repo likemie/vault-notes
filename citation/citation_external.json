@@ -3541,8 +3541,6 @@
     "Buhler & Allen, 1972": "Buhler & Allen, 1972",
     "Buljan et al. (2017)": "Buljan et al., 2017",
     "Buljan et al., 2017": "Buljan et al., 2017",
-    "Bull (1992)": "Bull, 1992",
-    "Bull, 1992": "Bull, 1992",
     "Bulmer (1982)": "Bulmer, 1982",
     "Bulmer, 1982": "Bulmer, 1982",
     "Bulris (2009)": "Bulris, 2009",
@@ -15934,8 +15932,6 @@
     "Martin Lawn, 2013": "Martin Lawn, 2013",
     "Martin Levinson & Andrew Sparkes (2005)": "Martin Levinson & Andrew Sparkes, 2005",
     "Martin Levinson & Andrew Sparkes, 2005": "Martin Levinson & Andrew Sparkes, 2005",
-    "Martin Wight (1992)": "Martin Wight, 1992",
-    "Martin Wight, 1992": "Martin Wight, 1992",
     "Martin et al. (2006)": "Martin et al., 2006",
     "Martin et al. (2010)": "Martin et al., 2010",
     "Martin et al. (2021)": "Martin et al., 2021",
@@ -54155,21 +54151,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Review of Education/Argument_Gorard_2020_ROE.md"
-      ],
-      "title": ""
-    },
-    "Bull, 1992": {
-      "aliases": [
-        "Bull, 1992",
-        "Bull (1992)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Bull, 1992"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/germany/Immanuel Kant.md"
       ],
       "title": ""
     },
@@ -144219,21 +144200,6 @@
       ],
       "title": ""
     },
-    "Martin Wight, 1992": {
-      "aliases": [
-        "Martin Wight, 1992",
-        "Martin Wight (1992)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Martin Wight, 1992"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/germany/Immanuel Kant.md"
-      ],
-      "title": ""
-    },
     "Martin et al., 2006": {
       "aliases": [
         "Martin et al., 2006",
@@ -218485,8 +218451,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/comparative-education/Perpetual Peace.md",
-        "wiki/persons/germany/Immanuel Kant.md"
+        "wiki/concepts/comparative-education/Perpetual Peace.md"
       ],
       "title": ""
     },

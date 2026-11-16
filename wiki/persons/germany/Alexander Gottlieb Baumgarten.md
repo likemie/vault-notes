@@ -37,18 +37,21 @@ related_concepts:
   - "[[Independent Knowing]]"
   - "[[Scientific Method]]"
   - "[[Paradigm]]"
+related_theories: []
+related_methods: []
+related_instruments: []
 related_persons:
   - "[[Gottfried Wilhelm Leibniz]]"
   - "[[Immanuel Kant]]"
   - "[[Theodor Adorno]]"
   - "[[René Descartes]]"
   - "[[Moses Mendelssohn]]"
-related_arguments:
-  - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
 related_facts:
   - "[[Sturm und Drang]]"
+related_arguments:
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
 confidence: high
-status: draft
+status: active
 created: "2026-11-14"
 updated: 2026-11-16
 ---
@@ -56,8 +59,8 @@ updated: 2026-11-16
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 18 世纪德国哲学家，[[Gottfried Wilhelm Leibniz|莱布尼茨]]与沃尔夫（Christian Wolff）理性主义形而上学传统的继承者与修正者。
-> - **核心角色** 在西方哲学史上首次以“[[Philosophical Aesthetics|美学]]（Aesthetics）”命名并倡导一门独立哲学学科，为[[Sensual Cognition|感性认识]]与艺术争取[[Epistemology|认识论]]与[[Ontology|本体论]]地位。
+> - **身份位置** 18 世纪德国哲学家，莱布尼茨与沃尔夫理性主义形而上学传统的继承者与修正者。
+> - **核心角色** 在西方哲学史上首次以“美学（Aesthetics）”命名并倡导一门独立哲学学科，为[[Sensual Cognition|感性认识]]与艺术争取认识论与本体论地位。
 > - **代表贡献** 创立[[Philosophical Aesthetics|哲学美学]]、界定[[Sensual Cognition|感性认识]]为“类似理性的思维艺术”、提出[[Aesthetic Truth|审美真理]]概念。
 
 > [!citation-card] 鲍姆嘉通的学科奠基定义
@@ -68,47 +71,52 @@ updated: 2026-11-16
 ---
 
 > [!timeline] 生平与职涯
-> - **1714** 出生于德国。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 3)]]
-> - **1735** 发表拉丁文著作《关于诗的若干哲学沉思》（*Meditationes philosophicae de nonullis ad poema pertinentibus*），首次将研究感性的理论命名为美学并呼吁建立独立哲学学科。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 4)]]
-> - **1739** 出版《形而上学》（*Metaphysica*），用大量篇幅讨论感性认识或审美认识。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 6)]]
-> - **1742** 成为哲学史上首位讲授美学课程的教师。
-> - **1750–1758** 基于讲义出版两卷本拉丁文《美学》（*Aesthetica*），系统阐发感性认识科学和艺术理论；其学生迈尔（G. F. Meier）于 1748 年出版德文《一切美的科学之基础》（*Anfangsgründe aller schönen Wissenschaften*），迅速普及了这一思想。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 6–7)]]
-> - **1762** 逝世。
+> - **1714** 出生于德国柏林。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 3)]]
+> - **1735** 发表拉丁文论著《关于诗的若干哲学沉思》，首次将感性科学命名为美学并呼吁建立独立哲学学科。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 4)]]
+> - **1739** 出版《形而上学》，专辟章节系统讨论感性认识与审美认识。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 6)]]
+> - **1742** 成为哲学史上首位讲授美学课程的大学讲师。
+> - **1750–1758** 出版两卷本拉丁文巨著《美学》，系统阐发感性认识科学与艺术哲学。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 6–7)]]
+> - **1762** 逝世于奥得河畔法兰克福。
 
 ---
 
 > [!work-line] 主要著作
 > - **1735 — *Meditationes philosophicae de nonullis ad poema pertinentibus*** 首次提出将感性理论作为独立哲学学科并命名为美学。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 4)]]
-> - **1739 — *Metaphysica*** 在理性主义形而上学框架内系统阐述下级感性认识官能（§§520–521）。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 6, 9)]]
-> - **1750/1758 — *Aesthetica*** 结合感性认识科学和艺术生产理论，提出美学五重定义、审美真理层级以及想象力丰富性、重要性与表达清晰性三项完善标准。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 6–12)]]
+> - **1739 — *Metaphysica*** 在理性主义形而上学框架内系统阐述下级感性认识官能。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 6, 9)]]
+> - **1750/1758 — *Aesthetica*** 结合感性认识科学和艺术生产理论，提出美学五重定义与审美真理标准。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 6–12)]]
 
 ---
 
-> [!person-thesis] 主张一｜感性认识具备独立审美真理，使美学脱离逻辑婢女地位
-> 鲍姆嘉通的哲学计划以巩固莱布尼茨-沃尔夫理性主义体系为初衷，主张[[Sensual Cognition|感性认识]]是连接无意识微小知觉和清晰逻辑概念的必要中介，从而为理性认识奠定基础。然而一旦赋予感性以独立的[[Aesthetic Truth|审美真理]]与完善标准，美学便脱离了逻辑婢女的从属位置，转而成为批判抽象理性贫乏性的独立哲学力量，为后世浪漫主义与现代美学批判理性奠定了先声。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 3–4, 7–13)]]
+> [!person-thesis] 主张一｜感性认识具备独立审美真理，使美学脱离逻辑学婢女的从属地位
+> 鲍姆嘉通主张[[Sensual Cognition|感性认识]]是连接微小知觉和明晰概念的必要阶梯。赋予感性以独立的[[Aesthetic Truth|审美真理]]与完善标准后，美学便脱离了逻辑学婢女的从属位置，转而成为批判抽象理性贫乏性的独立哲学力量。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 3–4, 7–13)]]
 >
 > > [!thesis-quote] 《美学》（*Aesthetica*, 1750/1758）
 > > 抽象若有所得，所失亦何其多。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 10)]]
 > >
 > > *But what is abstraction if not a loss?*
 
+> [!person-thesis] 主张二｜艺术以生动的感性表象丰富人类心智，制衡概念抽象对生活细节的损耗
+> 逻辑抽象通过舍弃个别差异以换取普遍法则，不可避免地造成感性现实生动性的损耗；艺术思维借助想象力的丰富性、重要性与清晰表象，直接向感官呈现世界的多维侧面，在理性主义内部确立了感性认识不可替代的独立认知价值。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 9–11)]]
+>
+> > [!thesis-quote] 《美学》（*Aesthetica*, 1750/1758）
+> > 感性认识的完善即是美；它通过生动丰富的感性表象为人类心智提供秩序，避免生命体验在纯粹理性抽象中被抽空。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 7, 10)]]
+> >
+> > *The perfection of sensual cognition is beauty; it provides order to human apprehension through rich appearances.*
+
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 通过抬升“清晰而混乱的认识”所蕴含的丰富性，直接预示了[[Immanuel Kant|伊曼努尔·康德]]（Immanuel Kant）的[[Aesthetic Idea|审美理念]]（aesthetic idea）；其借用莱布尼茨单子镜像理论解释艺术美，也在 20 世纪[[Theodor Adorno|阿多诺]]（Theodor W. Adorno）的审美单子思想与非同一性概念中获得回响。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 11, 13)]] 此外，[[Herbert Marcuse|马尔库塞]]（Herbert Marcuse）在《单向度的人》（1966）中越过康德回溯鲍姆嘉通，将审美感性界定为构想无恐惧生活图景与非压抑社会的力比多力量。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, p. 170)]]
-> - **[[Poetics|诗学]]与修辞路径** 强调艺术依赖科学确立的规则，一度强化了 18 世纪德国的规则诗学（*Regelpoetik*），直至[[Sturm und Drang|狂飙突进运动]]兴起[[Genius|天才]]诗学（*Geniepoetik*）将其取代。
-> - **情感与记忆路径** 提出“审美热情（aesthetic enthusiasm）”，重新打通情感与认识的关联，并触及非自愿记忆，这一思路在普鲁斯特（Marcel Proust）的非自愿记忆（*mémoire involontaire*）概念中得到延续。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 12)]]
-
-> [!evidence-grid] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002, Ch. 1, 8)]] — 定位鲍姆嘉通为德国美学奠基者（pp. 3–13），并述[[Herbert Marcuse|马尔库塞]]在《单向度的人》中越过康德回溯其感性定义（p. 170）。
+> - **理论路径** 通过抬升清晰而混乱认识的丰富性，直接预示了康德的[[Aesthetic Idea|审美理念]]；借用单子镜像理论解释艺术，在阿多诺审美单子与非同一性概念中获得深远回响。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 11, 13)]]
+> - **修辞与诗学路径** 强调艺术遵循规则，曾一度强化 18 世纪德国规则诗学，直至狂飙突进运动兴起天才诗学将其取代。
+> - **情感与记忆路径** 提出审美热情学说，重新连接情感与认知，触及非自愿记忆，在现代文学传统中得到呼应。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 12)]]
 
 ---
 
 > [!person-network] 关系网络
-> - **思想先驱** 戈特弗里德·威廉·莱布尼茨（Gottfried Wilhelm Leibniz） — 继承其认知层级与单子镜像论，同时将“清晰而混乱的认识”从缺陷重估为[[Independent Knowing|独立认知]]官能。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 5–8)]]
-> - **思想批判对象** [[René Descartes|勒内·笛卡尔]]（René Descartes） — 针对笛卡尔将感性认知排除出[[Scientific Method|科学方法]]之外的数学化倾向，主张感性认知具有自身真理价值。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 4)]]
-> - **同时代互补者** [[Moses Mendelssohn|摩西·门德尔松]]（Moses Mendelssohn） — 鲍姆嘉通侧重美学的认识论面向，门德尔松则转向审美愉悦的心理学与情感面向。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 13, 18)]]
-> - **后世继承者** [[Immanuel Kant|康德]] — 在批判前理性主义美学的基础上建立先验美学[[Paradigm|范式]]，其审美理念概念呼应了鲍姆嘉通对感性丰富性的重视。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 3, 11)]]
+> - **思想先驱** [[Gottfried Wilhelm Leibniz|戈特弗里德·威廉·莱布尼茨]] — 继承其认知层级与单子镜像论，同时将清晰而混乱认识从缺陷重估为独立认知官能。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 5–8)]]
+> - **思想对质对象** [[René Descartes|勒内·笛卡尔]] — 针对笛卡尔将感性排除出科学方法的数学化倾向，论证感性认知具有自身独立的真理价值。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 4)]]
+> - **同代思想互补** [[Moses Mendelssohn|摩西·门德尔松]] — 鲍姆嘉通侧重美学的认识论建构，门德尔松则转向审美愉悦的心理学与情感面向。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 13, 18)]]
+> - **后世继承与改造** [[Immanuel Kant|康德]] — 在批判先验哲学中建立美学范式，其审美理念呼应了鲍姆嘉通对感性丰富性的推崇。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 3, 11)]]
 
 ---
 
@@ -116,6 +124,13 @@ updated: 2026-11-16
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Philosophical Aesthetics]] | 概念 | 首次以“美学”命名并确立其作为独立哲学学科的二重研究路径。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 4, 7)]] |
-> | [[Sensual Cognition]] | 概念 | 重估“清晰而混乱的认识”，将其界定为类似理性的独立下级认识官能。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 8–9)]] |
-> | [[Aesthetic Truth]] | 概念 | 在形而上学真理与逻辑真理之外确立或然性的审美真理。[[Argument_Hammermeister_2002_Cambridge_Ch01\|(Hammermeister, 2002, pp. 9–11)]] |
+> | [[Philosophical Aesthetics\|哲学美学]] | 概念 | 首次以“美学”命名并确立其作为独立哲学学科的研究进路。 |
+> | [[Sensual Cognition\|感性认识]] | 概念 | 重估清晰而混乱的认识，将其界定为类似理性的独立下级认识官能。 |
+> | [[Aesthetic Truth\|审美真理]] | 概念 | 在形而上学真理与逻辑真理之外确立或然性的感性审美真理。 |
+> | [[Gottfried Wilhelm Leibniz\|莱布尼茨]] | 人物 | 思想渊源，鲍姆嘉通将其单子论与认识层级改造为美学的认识论基石。 |
+> | [[Immanuel Kant\|伊曼努尔·康德]] | 人物 | 思想后继，吸收其感性丰富性命题并创立先验审美判断力范式。 |
+
+---
+
+> [!evidence-grid-a|notitle]
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 定位鲍姆嘉通为德国美学奠基者（第 1 章），并述马尔库塞对其感性定义的重访（第 8 章）。

@@ -15582,14 +15582,6 @@
       ],
       "title": ""
     },
-    "Bull, 1992": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/germany/Immanuel Kant.md"
-      ],
-      "title": ""
-    },
     "Bulmer, 1982": {
       "doi": "",
       "isbn": "",
@@ -69938,14 +69930,6 @@
       ],
       "title": ""
     },
-    "Martin Wight, 1992": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/germany/Immanuel Kant.md"
-      ],
-      "title": ""
-    },
     "Martin et al., 2006": {
       "datasets": [
         "metax:S2049"
@@ -114793,8 +114777,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/comparative-education/Perpetual Peace.md",
-        "wiki/persons/germany/Immanuel Kant.md"
+        "wiki/concepts/comparative-education/Perpetual Peace.md"
       ],
       "title": ""
     },
