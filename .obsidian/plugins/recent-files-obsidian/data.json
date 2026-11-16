@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Zheng_2023_ShanghaiSanlian",
+      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian.md"
+    },
+    {
       "basename": "template-argument",
       "path": "wiki/templates/template-argument.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "National Biography",
       "path": "wiki/concepts/political-economy-geopolitics/National Biography.md"
-    },
-    {
-      "basename": "Reversed Ventriloquism",
-      "path": "wiki/concepts/political-economy-geopolitics/Reversed Ventriloquism.md"
     }
   ],
   "omittedPaths": [],
