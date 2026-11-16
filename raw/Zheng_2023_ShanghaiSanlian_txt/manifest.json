@@ -1,0 +1,1796 @@
+{
+  "source": "books/Zheng_2023_ShanghaiSanlian/金榜题名之后_大学生出路分化之谜.epub",
+  "source_sha256": "d1e5b4c3a834e25164b7249757fea36e332477242a62f1302edf8c1c8ff996d9",
+  "title": "金榜题名之后：大学生出路分化之谜",
+  "author": "郑雅君",
+  "publisher": "上海三联书店",
+  "year": 2023,
+  "isbn": "9787542677815",
+  "encoding": "UTF-8",
+  "print_pages": null,
+  "notes": "按首次出现顺序分节编号。同一 EPUB 锚点含不同注释正文时，按各处实际引用区分。图片以 EPUB 原始资源随附。",
+  "entries": [
+    {
+      "title": "导论",
+      "txt": "Ch00_Introduction.txt",
+      "sha256": "9a7ca4c0f5e870a82640e9f3f80ea79f139105098aa14754663fe1993dcaf7b8",
+      "sections": [
+        {
+          "title": "献词",
+          "epub_path": "EPUB/xhtml/Section0001_0001.xhtml",
+          "note_references": 0,
+          "notes": [],
+          "assets": []
+        },
+        {
+          "title": "序言",
+          "epub_path": "EPUB/xhtml/Section0001_0002.xhtml",
+          "note_references": 0,
+          "notes": [],
+          "assets": [
+            {
+              "title": "序言随附图",
+              "file": "assets/Preface_Illustration.svg",
+              "epub_path": "EPUB/images/image_000.svg",
+              "sha256": "8622bc0de3403b1431dbac08846cf6a0a41c004d88fd78757bfaaa60c0f05da1"
+            }
+          ]
+        },
+        {
+          "title": "致谢",
+          "epub_path": "EPUB/xhtml/Section0001_0003.xhtml",
+          "note_references": 0,
+          "notes": [],
+          "assets": []
+        },
+        {
+          "title": "导论",
+          "epub_path": "EPUB/xhtml/Section0001_0004.xhtml",
+          "note_references": 76,
+          "notes": [
+            {
+              "number": 1,
+              "epub_id": "footnote-5-39"
+            },
+            {
+              "number": 2,
+              "epub_id": "footnote-5-0"
+            },
+            {
+              "number": 3,
+              "epub_id": "footnote-5-270"
+            },
+            {
+              "number": 4,
+              "epub_id": "footnote-5-0"
+            },
+            {
+              "number": 5,
+              "epub_id": "footnote-5-1"
+            },
+            {
+              "number": 6,
+              "epub_id": "footnote-5-68"
+            },
+            {
+              "number": 7,
+              "epub_id": "footnote-5-109"
+            },
+            {
+              "number": 8,
+              "epub_id": "footnote-5-147"
+            },
+            {
+              "number": 9,
+              "epub_id": "footnote-5-171"
+            },
+            {
+              "number": 10,
+              "epub_id": "footnote-5-233"
+            },
+            {
+              "number": 11,
+              "epub_id": "footnote-5-276"
+            },
+            {
+              "number": 12,
+              "epub_id": "footnote-5-303"
+            },
+            {
+              "number": 13,
+              "epub_id": "footnote-5-0"
+            },
+            {
+              "number": 14,
+              "epub_id": "footnote-5-1"
+            },
+            {
+              "number": 15,
+              "epub_id": "footnote-5-107"
+            },
+            {
+              "number": 16,
+              "epub_id": "footnote-5-299"
+            },
+            {
+              "number": 17,
+              "epub_id": "footnote-5-215"
+            },
+            {
+              "number": 18,
+              "epub_id": "footnote-5-155"
+            },
+            {
+              "number": 19,
+              "epub_id": "footnote-5-0"
+            },
+            {
+              "number": 20,
+              "epub_id": "footnote-5-1"
+            },
+            {
+              "number": 21,
+              "epub_id": "footnote-5-2"
+            },
+            {
+              "number": 22,
+              "epub_id": "footnote-5-90"
+            },
+            {
+              "number": 23,
+              "epub_id": "footnote-5-119"
+            },
+            {
+              "number": 24,
+              "epub_id": "footnote-5-0"
+            },
+            {
+              "number": 25,
+              "epub_id": "footnote-5-1"
+            },
+            {
+              "number": 26,
+              "epub_id": "footnote-5-2"
+            },
+            {
+              "number": 27,
+              "epub_id": "footnote-5-3"
+            },
+            {
+              "number": 28,
+              "epub_id": "footnote-5-4"
+            },
+            {
+              "number": 29,
+              "epub_id": "footnote-5-5"
+            },
+            {
+              "number": 30,
+              "epub_id": "footnote-5-6"
+            },
+            {
+              "number": 31,
+              "epub_id": "footnote-5-7"
+            },
+            {
+              "number": 32,
+              "epub_id": "footnote-5-8"
+            },
+            {
+              "number": 33,
+              "epub_id": "footnote-5-1"
+            },
+            {
+              "number": 34,
+              "epub_id": "footnote-5-3"
+            },
+            {
+              "number": 35,
+              "epub_id": "footnote-5-100"
+            },
+            {
+              "number": 36,
+              "epub_id": "footnote-5-163"
+            },
+            {
+              "number": 37,
+              "epub_id": "footnote-5-217"
+            },
+            {
+              "number": 38,
+              "epub_id": "footnote-5-0"
+            },
+            {
+              "number": 39,
+              "epub_id": "footnote-5-1"
+            },
+            {
+              "number": 40,
+              "epub_id": "footnote-5-108"
+            },
+            {
+              "number": 41,
+              "epub_id": "footnote-5-157"
+            },
+            {
+              "number": 42,
+              "epub_id": "footnote-5-208"
+            },
+            {
+              "number": 43,
+              "epub_id": "footnote-5-425"
+            },
+            {
+              "number": 44,
+              "epub_id": "footnote-5-577"
+            },
+            {
+              "number": 45,
+              "epub_id": "footnote-5-0"
+            },
+            {
+              "number": 46,
+              "epub_id": "footnote-5-1"
+            },
+            {
+              "number": 47,
+              "epub_id": "footnote-5-2"
+            },
+            {
+              "number": 48,
+              "epub_id": "footnote-5-3"
+            },
+            {
+              "number": 49,
+              "epub_id": "footnote-5-4"
+            },
+            {
+              "number": 50,
+              "epub_id": "footnote-5-5"
+            },
+            {
+              "number": 51,
+              "epub_id": "footnote-5-6"
+            },
+            {
+              "number": 52,
+              "epub_id": "footnote-5-7"
+            },
+            {
+              "number": 53,
+              "epub_id": "footnote-5-8"
+            },
+            {
+              "number": 54,
+              "epub_id": "footnote-5-1"
+            },
+            {
+              "number": 55,
+              "epub_id": "footnote-5-9"
+            },
+            {
+              "number": 56,
+              "epub_id": "footnote-5-150"
+            },
+            {
+              "number": 57,
+              "epub_id": "footnote-5-205"
+            },
+            {
+              "number": 58,
+              "epub_id": "footnote-5-459"
+            },
+            {
+              "number": 59,
+              "epub_id": "footnote-5-496"
+            },
+            {
+              "number": 60,
+              "epub_id": "footnote-5-763"
+            },
+            {
+              "number": 61,
+              "epub_id": "footnote-5-983"
+            },
+            {
+              "number": 62,
+              "epub_id": "footnote-5-1043"
+            },
+            {
+              "number": 63,
+              "epub_id": "footnote-5-1122"
+            },
+            {
+              "number": 64,
+              "epub_id": "footnote-5-1216"
+            },
+            {
+              "number": 65,
+              "epub_id": "footnote-5-1310"
+            },
+            {
+              "number": 66,
+              "epub_id": "footnote-5-312"
+            },
+            {
+              "number": 67,
+              "epub_id": "footnote-5-112"
+            },
+            {
+              "number": 68,
+              "epub_id": "footnote-5-381"
+            },
+            {
+              "number": 69,
+              "epub_id": "footnote-5-109"
+            },
+            {
+              "number": 70,
+              "epub_id": "footnote-5-0"
+            },
+            {
+              "number": 71,
+              "epub_id": "footnote-5-126"
+            },
+            {
+              "number": 72,
+              "epub_id": "footnote-5-196"
+            },
+            {
+              "number": 73,
+              "epub_id": "footnote-5-342"
+            },
+            {
+              "number": 74,
+              "epub_id": "footnote-5-485"
+            },
+            {
+              "number": 75,
+              "epub_id": "footnote-5-100"
+            },
+            {
+              "number": 76,
+              "epub_id": "footnote-5-214"
+            }
+          ],
+          "assets": []
+        }
+      ]
+    },
+    {
+      "title": "第一章 迷宫",
+      "txt": "Ch01_Maze.txt",
+      "sha256": "f20cde1b8b4c31f278e952140573f1e34538d1c3ffd5cd3dae6f420460bc710d",
+      "sections": [
+        {
+          "title": "第一章 迷宫",
+          "epub_path": "EPUB/xhtml/Section0001_0005.xhtml",
+          "note_references": 56,
+          "notes": [
+            {
+              "number": 1,
+              "epub_id": "footnote-6-38"
+            },
+            {
+              "number": 2,
+              "epub_id": "footnote-6-209"
+            },
+            {
+              "number": 3,
+              "epub_id": "footnote-6-8"
+            },
+            {
+              "number": 4,
+              "epub_id": "footnote-6-145"
+            },
+            {
+              "number": 5,
+              "epub_id": "footnote-6-636"
+            },
+            {
+              "number": 6,
+              "epub_id": "footnote-6-714"
+            },
+            {
+              "number": 7,
+              "epub_id": "footnote-6-0"
+            },
+            {
+              "number": 8,
+              "epub_id": "footnote-6-1"
+            },
+            {
+              "number": 9,
+              "epub_id": "footnote-6-2"
+            },
+            {
+              "number": 10,
+              "epub_id": "footnote-6-3"
+            },
+            {
+              "number": 11,
+              "epub_id": "footnote-6-4"
+            },
+            {
+              "number": 12,
+              "epub_id": "footnote-6-277"
+            },
+            {
+              "number": 13,
+              "epub_id": "footnote-6-359"
+            },
+            {
+              "number": 14,
+              "epub_id": "footnote-6-430"
+            },
+            {
+              "number": 15,
+              "epub_id": "footnote-6-519"
+            },
+            {
+              "number": 16,
+              "epub_id": "footnote-6-579"
+            },
+            {
+              "number": 17,
+              "epub_id": "footnote-6-663"
+            },
+            {
+              "number": 18,
+              "epub_id": "footnote-6-753"
+            },
+            {
+              "number": 19,
+              "epub_id": "footnote-6-772"
+            },
+            {
+              "number": 20,
+              "epub_id": "footnote-6-90"
+            },
+            {
+              "number": 21,
+              "epub_id": "footnote-6-489"
+            },
+            {
+              "number": 22,
+              "epub_id": "footnote-6-574"
+            },
+            {
+              "number": 23,
+              "epub_id": "footnote-6-0"
+            },
+            {
+              "number": 24,
+              "epub_id": "footnote-6-1"
+            },
+            {
+              "number": 25,
+              "epub_id": "footnote-6-140"
+            },
+            {
+              "number": 26,
+              "epub_id": "footnote-6-177"
+            },
+            {
+              "number": 27,
+              "epub_id": "footnote-6-261"
+            },
+            {
+              "number": 28,
+              "epub_id": "footnote-6-375"
+            },
+            {
+              "number": 29,
+              "epub_id": "footnote-6-46"
+            },
+            {
+              "number": 30,
+              "epub_id": "footnote-6-67"
+            },
+            {
+              "number": 31,
+              "epub_id": "footnote-6-416"
+            },
+            {
+              "number": 32,
+              "epub_id": "footnote-6-503"
+            },
+            {
+              "number": 33,
+              "epub_id": "footnote-6-381"
+            },
+            {
+              "number": 34,
+              "epub_id": "footnote-6-48"
+            },
+            {
+              "number": 35,
+              "epub_id": "footnote-6-330"
+            },
+            {
+              "number": 36,
+              "epub_id": "footnote-6-525"
+            },
+            {
+              "number": 37,
+              "epub_id": "footnote-6-551"
+            },
+            {
+              "number": 38,
+              "epub_id": "footnote-6-572"
+            },
+            {
+              "number": 39,
+              "epub_id": "footnote-6-92"
+            },
+            {
+              "number": 40,
+              "epub_id": "footnote-6-371"
+            },
+            {
+              "number": 41,
+              "epub_id": "footnote-6-128"
+            },
+            {
+              "number": 42,
+              "epub_id": "footnote-6-161"
+            },
+            {
+              "number": 43,
+              "epub_id": "footnote-6-164"
+            },
+            {
+              "number": 44,
+              "epub_id": "footnote-6-262"
+            },
+            {
+              "number": 45,
+              "epub_id": "footnote-6-221"
+            },
+            {
+              "number": 46,
+              "epub_id": "footnote-6-450"
+            },
+            {
+              "number": 47,
+              "epub_id": "footnote-6-663"
+            },
+            {
+              "number": 48,
+              "epub_id": "footnote-6-126"
+            },
+            {
+              "number": 49,
+              "epub_id": "footnote-6-272"
+            },
+            {
+              "number": 50,
+              "epub_id": "footnote-6-0"
+            },
+            {
+              "number": 51,
+              "epub_id": "footnote-6-1"
+            },
+            {
+              "number": 52,
+              "epub_id": "footnote-6-2"
+            },
+            {
+              "number": 53,
+              "epub_id": "footnote-6-263"
+            },
+            {
+              "number": 54,
+              "epub_id": "footnote-6-343"
+            },
+            {
+              "number": 55,
+              "epub_id": "footnote-6-369"
+            },
+            {
+              "number": 56,
+              "epub_id": "footnote-6-473"
+            }
+          ],
+          "assets": []
+        }
+      ]
+    },
+    {
+      "title": "第二章 视角",
+      "txt": "Ch02_Perspective.txt",
+      "sha256": "3d61609a3afdd9f46219e09315c87499933d789334efe1916d3cb88247077f92",
+      "sections": [
+        {
+          "title": "第二章 视角",
+          "epub_path": "EPUB/xhtml/Section0001_0006.xhtml",
+          "note_references": 97,
+          "notes": [
+            {
+              "number": 1,
+              "epub_id": "footnote-7-34"
+            },
+            {
+              "number": 2,
+              "epub_id": "footnote-7-23"
+            },
+            {
+              "number": 3,
+              "epub_id": "footnote-7-0"
+            },
+            {
+              "number": 4,
+              "epub_id": "footnote-7-1"
+            },
+            {
+              "number": 5,
+              "epub_id": "footnote-7-1"
+            },
+            {
+              "number": 6,
+              "epub_id": "footnote-7-3"
+            },
+            {
+              "number": 7,
+              "epub_id": "footnote-7-5"
+            },
+            {
+              "number": 8,
+              "epub_id": "footnote-7-7"
+            },
+            {
+              "number": 9,
+              "epub_id": "footnote-7-80"
+            },
+            {
+              "number": 10,
+              "epub_id": "footnote-7-379"
+            },
+            {
+              "number": 11,
+              "epub_id": "footnote-7-629"
+            },
+            {
+              "number": 12,
+              "epub_id": "footnote-7-698"
+            },
+            {
+              "number": 13,
+              "epub_id": "footnote-7-904"
+            },
+            {
+              "number": 14,
+              "epub_id": "footnote-7-103"
+            },
+            {
+              "number": 15,
+              "epub_id": "footnote-7-271"
+            },
+            {
+              "number": 16,
+              "epub_id": "footnote-7-526"
+            },
+            {
+              "number": 17,
+              "epub_id": "footnote-7-231"
+            },
+            {
+              "number": 18,
+              "epub_id": "footnote-7-1"
+            },
+            {
+              "number": 19,
+              "epub_id": "footnote-7-95"
+            },
+            {
+              "number": 20,
+              "epub_id": "footnote-7-202"
+            },
+            {
+              "number": 21,
+              "epub_id": "footnote-7-0"
+            },
+            {
+              "number": 22,
+              "epub_id": "footnote-7-1"
+            },
+            {
+              "number": 23,
+              "epub_id": "footnote-7-2"
+            },
+            {
+              "number": 24,
+              "epub_id": "footnote-7-3"
+            },
+            {
+              "number": 25,
+              "epub_id": "footnote-7-4"
+            },
+            {
+              "number": 26,
+              "epub_id": "footnote-7-5"
+            },
+            {
+              "number": 27,
+              "epub_id": "footnote-7-6"
+            },
+            {
+              "number": 28,
+              "epub_id": "footnote-7-36"
+            },
+            {
+              "number": 29,
+              "epub_id": "footnote-7-93"
+            },
+            {
+              "number": 30,
+              "epub_id": "footnote-7-136"
+            },
+            {
+              "number": 31,
+              "epub_id": "footnote-7-253"
+            },
+            {
+              "number": 32,
+              "epub_id": "footnote-7-319"
+            },
+            {
+              "number": 33,
+              "epub_id": "footnote-7-389"
+            },
+            {
+              "number": 34,
+              "epub_id": "footnote-7-405"
+            },
+            {
+              "number": 35,
+              "epub_id": "footnote-7-0"
+            },
+            {
+              "number": 36,
+              "epub_id": "footnote-7-79"
+            },
+            {
+              "number": 37,
+              "epub_id": "footnote-7-182"
+            },
+            {
+              "number": 38,
+              "epub_id": "footnote-7-0"
+            },
+            {
+              "number": 39,
+              "epub_id": "footnote-7-152"
+            },
+            {
+              "number": 40,
+              "epub_id": "footnote-7-0"
+            },
+            {
+              "number": 41,
+              "epub_id": "footnote-7-1"
+            },
+            {
+              "number": 42,
+              "epub_id": "footnote-7-2"
+            },
+            {
+              "number": 43,
+              "epub_id": "footnote-7-3"
+            },
+            {
+              "number": 44,
+              "epub_id": "footnote-7-4"
+            },
+            {
+              "number": 45,
+              "epub_id": "footnote-7-222"
+            },
+            {
+              "number": 46,
+              "epub_id": "footnote-7-285"
+            },
+            {
+              "number": 47,
+              "epub_id": "footnote-7-0"
+            },
+            {
+              "number": 48,
+              "epub_id": "footnote-7-1"
+            },
+            {
+              "number": 49,
+              "epub_id": "footnote-7-58"
+            },
+            {
+              "number": 50,
+              "epub_id": "footnote-7-212"
+            },
+            {
+              "number": 51,
+              "epub_id": "footnote-7-312"
+            },
+            {
+              "number": 52,
+              "epub_id": "footnote-7-417"
+            },
+            {
+              "number": 53,
+              "epub_id": "footnote-7-472"
+            },
+            {
+              "number": 54,
+              "epub_id": "footnote-7-491"
+            },
+            {
+              "number": 55,
+              "epub_id": "footnote-7-533"
+            },
+            {
+              "number": 56,
+              "epub_id": "footnote-7-45"
+            },
+            {
+              "number": 57,
+              "epub_id": "footnote-7-49"
+            },
+            {
+              "number": 58,
+              "epub_id": "footnote-7-109"
+            },
+            {
+              "number": 59,
+              "epub_id": "footnote-7-239"
+            },
+            {
+              "number": 60,
+              "epub_id": "footnote-7-162"
+            },
+            {
+              "number": 61,
+              "epub_id": "footnote-7-229"
+            },
+            {
+              "number": 62,
+              "epub_id": "footnote-7-331"
+            },
+            {
+              "number": 63,
+              "epub_id": "footnote-7-498"
+            },
+            {
+              "number": 64,
+              "epub_id": "footnote-7-789"
+            },
+            {
+              "number": 65,
+              "epub_id": "footnote-7-877"
+            },
+            {
+              "number": 66,
+              "epub_id": "footnote-7-945"
+            },
+            {
+              "number": 67,
+              "epub_id": "footnote-7-121"
+            },
+            {
+              "number": 68,
+              "epub_id": "footnote-7-215"
+            },
+            {
+              "number": 69,
+              "epub_id": "footnote-7-372"
+            },
+            {
+              "number": 70,
+              "epub_id": "footnote-7-83"
+            },
+            {
+              "number": 71,
+              "epub_id": "footnote-7-392"
+            },
+            {
+              "number": 72,
+              "epub_id": "footnote-7-489"
+            },
+            {
+              "number": 73,
+              "epub_id": "footnote-7-108"
+            },
+            {
+              "number": 74,
+              "epub_id": "footnote-7-263"
+            },
+            {
+              "number": 75,
+              "epub_id": "footnote-7-0"
+            },
+            {
+              "number": 76,
+              "epub_id": "footnote-7-48"
+            },
+            {
+              "number": 77,
+              "epub_id": "footnote-7-0"
+            },
+            {
+              "number": 78,
+              "epub_id": "footnote-7-10"
+            },
+            {
+              "number": 79,
+              "epub_id": "footnote-7-14"
+            },
+            {
+              "number": 80,
+              "epub_id": "footnote-7-0"
+            },
+            {
+              "number": 81,
+              "epub_id": "footnote-7-26"
+            },
+            {
+              "number": 82,
+              "epub_id": "footnote-7-41"
+            },
+            {
+              "number": 83,
+              "epub_id": "footnote-7-146"
+            },
+            {
+              "number": 84,
+              "epub_id": "footnote-7-197"
+            },
+            {
+              "number": 85,
+              "epub_id": "footnote-7-228"
+            },
+            {
+              "number": 86,
+              "epub_id": "footnote-7-181"
+            },
+            {
+              "number": 87,
+              "epub_id": "footnote-7-112"
+            },
+            {
+              "number": 88,
+              "epub_id": "footnote-7-158"
+            },
+            {
+              "number": 89,
+              "epub_id": "footnote-7-44"
+            },
+            {
+              "number": 90,
+              "epub_id": "footnote-7-75"
+            },
+            {
+              "number": 91,
+              "epub_id": "footnote-7-158"
+            },
+            {
+              "number": 92,
+              "epub_id": "footnote-7-264"
+            },
+            {
+              "number": 93,
+              "epub_id": "footnote-7-122"
+            },
+            {
+              "number": 94,
+              "epub_id": "footnote-7-168"
+            },
+            {
+              "number": 95,
+              "epub_id": "footnote-7-186"
+            },
+            {
+              "number": 96,
+              "epub_id": "footnote-7-69"
+            },
+            {
+              "number": 97,
+              "epub_id": "footnote-7-52"
+            }
+          ],
+          "assets": [
+            {
+              "title": "图1 本研究的分析框架和研究问题",
+              "file": "assets/Figure_01_Framework.jpg",
+              "epub_path": "EPUB/images/image_004.jpg",
+              "sha256": "70af3c6b278704bd49b4135b2a42388f0bc5d032fa6476b37362c06e11d836e5"
+            },
+            {
+              "title": "表1 院校特征速览",
+              "file": "assets/Table_01_Universities.jpg",
+              "epub_path": "EPUB/images/image_005.jpg",
+              "sha256": "3395d2d8aeb7085f848ae1a80b5c6a3e1aad1e84fe7fecfa5aea56300e29ccb0"
+            },
+            {
+              "title": "表2 个案基本情况描述",
+              "file": "assets/Table_02_Case_Characteristics.jpg",
+              "epub_path": "EPUB/images/image_006.jpg",
+              "sha256": "e4461010ad3b9c274cd417e214f756aee3fa8df53ea6b17492cee132ee3353e9"
+            },
+            {
+              "title": "表2 个案基本情况描述（续表）",
+              "file": "assets/Table_02_Case_Characteristics_Continued.jpg",
+              "epub_path": "EPUB/images/image_007.jpg",
+              "sha256": "c2a6347659d0210bba7873032749e50b52f9db1fcfbfb89e9a3558ff9a25abb6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "第三章 家境",
+      "txt": "Ch03_Family_Background.txt",
+      "sha256": "e06e644d47ed9042f8dfdee1f59784e1c429a12f8dc13dd57a0c5dd44da452e4",
+      "sections": [
+        {
+          "title": "第三章 家境",
+          "epub_path": "EPUB/xhtml/Section0001_0007.xhtml",
+          "note_references": 24,
+          "notes": [
+            {
+              "number": 1,
+              "epub_id": "footnote-8-2"
+            },
+            {
+              "number": 2,
+              "epub_id": "footnote-8-217"
+            },
+            {
+              "number": 3,
+              "epub_id": "footnote-8-427"
+            },
+            {
+              "number": 4,
+              "epub_id": "footnote-8-55"
+            },
+            {
+              "number": 5,
+              "epub_id": "footnote-8-306"
+            },
+            {
+              "number": 6,
+              "epub_id": "footnote-8-706"
+            },
+            {
+              "number": 7,
+              "epub_id": "footnote-8-226"
+            },
+            {
+              "number": 8,
+              "epub_id": "footnote-8-344"
+            },
+            {
+              "number": 9,
+              "epub_id": "footnote-8-107"
+            },
+            {
+              "number": 10,
+              "epub_id": "footnote-8-199"
+            },
+            {
+              "number": 11,
+              "epub_id": "footnote-8-352"
+            },
+            {
+              "number": 12,
+              "epub_id": "footnote-8-533"
+            },
+            {
+              "number": 13,
+              "epub_id": "footnote-8-0"
+            },
+            {
+              "number": 14,
+              "epub_id": "footnote-8-242"
+            },
+            {
+              "number": 15,
+              "epub_id": "footnote-8-436"
+            },
+            {
+              "number": 16,
+              "epub_id": "footnote-8-0"
+            },
+            {
+              "number": 17,
+              "epub_id": "footnote-8-1"
+            },
+            {
+              "number": 18,
+              "epub_id": "footnote-8-238"
+            },
+            {
+              "number": 19,
+              "epub_id": "footnote-8-493"
+            },
+            {
+              "number": 20,
+              "epub_id": "footnote-8-634"
+            },
+            {
+              "number": 21,
+              "epub_id": "footnote-8-164"
+            },
+            {
+              "number": 22,
+              "epub_id": "footnote-8-263"
+            },
+            {
+              "number": 23,
+              "epub_id": "footnote-8-8"
+            },
+            {
+              "number": 24,
+              "epub_id": "footnote-8-38"
+            }
+          ],
+          "assets": [
+            {
+              "title": "表3 精英高校大学生“上大学”的两种实践模式",
+              "file": "assets/Table_03_Modes_of_Practice.jpg",
+              "epub_path": "EPUB/images/image_009.jpg",
+              "sha256": "83914327b123a69127f2563bcf824a38ea264f3c3284fc408141587034dd94bb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "第四章 努力",
+      "txt": "Ch04_Effort.txt",
+      "sha256": "60e3af919d1115b67bb1d4a0d8f62626f262b6cf9be8d3bee3cddd13a5712c7e",
+      "sections": [
+        {
+          "title": "第四章 努力",
+          "epub_path": "EPUB/xhtml/Section0001_0008.xhtml",
+          "note_references": 23,
+          "notes": [
+            {
+              "number": 1,
+              "epub_id": "footnote-9-2"
+            },
+            {
+              "number": 2,
+              "epub_id": "footnote-9-0"
+            },
+            {
+              "number": 3,
+              "epub_id": "footnote-9-1"
+            },
+            {
+              "number": 4,
+              "epub_id": "footnote-9-2"
+            },
+            {
+              "number": 5,
+              "epub_id": "footnote-9-188"
+            },
+            {
+              "number": 6,
+              "epub_id": "footnote-9-299"
+            },
+            {
+              "number": 7,
+              "epub_id": "footnote-9-17"
+            },
+            {
+              "number": 8,
+              "epub_id": "footnote-9-236"
+            },
+            {
+              "number": 9,
+              "epub_id": "footnote-9-0"
+            },
+            {
+              "number": 10,
+              "epub_id": "footnote-9-203"
+            },
+            {
+              "number": 11,
+              "epub_id": "footnote-9-119"
+            },
+            {
+              "number": 12,
+              "epub_id": "footnote-9-148"
+            },
+            {
+              "number": 13,
+              "epub_id": "footnote-9-0"
+            },
+            {
+              "number": 14,
+              "epub_id": "footnote-9-1"
+            },
+            {
+              "number": 15,
+              "epub_id": "footnote-9-185"
+            },
+            {
+              "number": 16,
+              "epub_id": "footnote-9-293"
+            },
+            {
+              "number": 17,
+              "epub_id": "footnote-9-41"
+            },
+            {
+              "number": 18,
+              "epub_id": "footnote-9-284"
+            },
+            {
+              "number": 19,
+              "epub_id": "footnote-9-124"
+            },
+            {
+              "number": 20,
+              "epub_id": "footnote-9-276"
+            },
+            {
+              "number": 21,
+              "epub_id": "footnote-9-22"
+            },
+            {
+              "number": 22,
+              "epub_id": "footnote-9-271"
+            },
+            {
+              "number": 23,
+              "epub_id": "footnote-9-352"
+            }
+          ],
+          "assets": [
+            {
+              "title": "表4 两类模式的学业投入与社会性投入特征",
+              "file": "assets/Table_04_Engagement.jpg",
+              "epub_path": "EPUB/images/image_011.jpg",
+              "sha256": "b3e539a023a1e616a67b79a96bbe8dacb60b60d488c8b1736ef7f387811797fc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "第五章 方向",
+      "txt": "Ch05_Direction.txt",
+      "sha256": "69424fb706c3c948f1d45788b4c1ec266f3554c15ce2e19868d17470c740350d",
+      "sections": [
+        {
+          "title": "第五章 方向",
+          "epub_path": "EPUB/xhtml/Section0001_0009.xhtml",
+          "note_references": 22,
+          "notes": [
+            {
+              "number": 1,
+              "epub_id": "footnote-10-2"
+            },
+            {
+              "number": 2,
+              "epub_id": "footnote-10-233"
+            },
+            {
+              "number": 3,
+              "epub_id": "footnote-10-425"
+            },
+            {
+              "number": 4,
+              "epub_id": "footnote-10-144"
+            },
+            {
+              "number": 5,
+              "epub_id": "footnote-10-192"
+            },
+            {
+              "number": 6,
+              "epub_id": "footnote-10-210"
+            },
+            {
+              "number": 7,
+              "epub_id": "footnote-10-81"
+            },
+            {
+              "number": 8,
+              "epub_id": "footnote-10-251"
+            },
+            {
+              "number": 9,
+              "epub_id": "footnote-10-271"
+            },
+            {
+              "number": 10,
+              "epub_id": "footnote-10-23"
+            },
+            {
+              "number": 11,
+              "epub_id": "footnote-10-0"
+            },
+            {
+              "number": 12,
+              "epub_id": "footnote-10-1"
+            },
+            {
+              "number": 13,
+              "epub_id": "footnote-10-182"
+            },
+            {
+              "number": 14,
+              "epub_id": "footnote-10-162"
+            },
+            {
+              "number": 15,
+              "epub_id": "footnote-10-64"
+            },
+            {
+              "number": 16,
+              "epub_id": "footnote-10-272"
+            },
+            {
+              "number": 17,
+              "epub_id": "footnote-10-324"
+            },
+            {
+              "number": 18,
+              "epub_id": "footnote-10-0"
+            },
+            {
+              "number": 19,
+              "epub_id": "footnote-10-1"
+            },
+            {
+              "number": 20,
+              "epub_id": "footnote-10-2"
+            },
+            {
+              "number": 21,
+              "epub_id": "footnote-10-220"
+            },
+            {
+              "number": 22,
+              "epub_id": "footnote-10-229"
+            }
+          ],
+          "assets": [
+            {
+              "title": "图2 名校大学生工作意义来源的三角图式结构",
+              "file": "assets/Figure_02_Meaning_of_Work.jpg",
+              "epub_path": "EPUB/images/image_013.jpg",
+              "sha256": "2c2d06b4ac40d50998678d6139993c1caeef5295035073baedda0f171342378b"
+            },
+            {
+              "title": "图3 每位被访者在三种观念图式之间所处位置图示",
+              "file": "assets/Figure_03_Respondent_Distribution.jpg",
+              "epub_path": "EPUB/images/image_014.jpg",
+              "sha256": "070e93611d4bea50c4ac1bcfef4c15d3e202ead2a8423cb7dbac26bf02363eb1"
+            },
+            {
+              "title": "表5 受访者亚群体在不同主轴位置上的分布情况",
+              "file": "assets/Table_05_Subgroups.jpg",
+              "epub_path": "EPUB/images/image_015.jpg",
+              "sha256": "c52a79513236aa8b4178ab21feda3b4446a90bb84a50ef8cc4f0520c86bbe4e6"
+            },
+            {
+              "title": "图4 大学生出路产生机制的四分类",
+              "file": "assets/Figure_04_Four_Types.jpg",
+              "epub_path": "EPUB/images/image_016.jpg",
+              "sha256": "12f3fc15192cddd959bf2ea508c94c5bba967d0a5bdf8e87872d9ca1f8a24f2e"
+            },
+            {
+              "title": "表6 四种类型的毕业出路获得机制",
+              "file": "assets/Table_06_Pathways.jpg",
+              "epub_path": "EPUB/images/image_017.jpg",
+              "sha256": "5d3e2e6a372a85274e53feea28c5e47e9fef1137f9d228d57cbe1125fbda5abb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "第六章 余论",
+      "txt": "Ch06_Conclusion.txt",
+      "sha256": "99169ac7b61803c9d5a265e27fc004fa0b207ef84553593e4412c53f60fedb2e",
+      "sections": [
+        {
+          "title": "第六章 余论",
+          "epub_path": "EPUB/xhtml/Section0001_0010.xhtml",
+          "note_references": 75,
+          "notes": [
+            {
+              "number": 1,
+              "epub_id": "footnote-11-22"
+            },
+            {
+              "number": 2,
+              "epub_id": "footnote-11-114"
+            },
+            {
+              "number": 3,
+              "epub_id": "footnote-11-166"
+            },
+            {
+              "number": 4,
+              "epub_id": "footnote-11-1"
+            },
+            {
+              "number": 5,
+              "epub_id": "footnote-11-260"
+            },
+            {
+              "number": 6,
+              "epub_id": "footnote-11-324"
+            },
+            {
+              "number": 7,
+              "epub_id": "footnote-11-477"
+            },
+            {
+              "number": 8,
+              "epub_id": "footnote-11-576"
+            },
+            {
+              "number": 9,
+              "epub_id": "footnote-11-0"
+            },
+            {
+              "number": 10,
+              "epub_id": "footnote-11-38"
+            },
+            {
+              "number": 11,
+              "epub_id": "footnote-11-47"
+            },
+            {
+              "number": 12,
+              "epub_id": "footnote-11-121"
+            },
+            {
+              "number": 13,
+              "epub_id": "footnote-11-206"
+            },
+            {
+              "number": 14,
+              "epub_id": "footnote-11-240"
+            },
+            {
+              "number": 15,
+              "epub_id": "footnote-11-325"
+            },
+            {
+              "number": 16,
+              "epub_id": "footnote-11-438"
+            },
+            {
+              "number": 17,
+              "epub_id": "footnote-11-26"
+            },
+            {
+              "number": 18,
+              "epub_id": "footnote-11-77"
+            },
+            {
+              "number": 19,
+              "epub_id": "footnote-11-102"
+            },
+            {
+              "number": 20,
+              "epub_id": "footnote-11-144"
+            },
+            {
+              "number": 21,
+              "epub_id": "footnote-11-340"
+            },
+            {
+              "number": 22,
+              "epub_id": "footnote-11-433"
+            },
+            {
+              "number": 23,
+              "epub_id": "footnote-11-503"
+            },
+            {
+              "number": 24,
+              "epub_id": "footnote-11-267"
+            },
+            {
+              "number": 25,
+              "epub_id": "footnote-11-341"
+            },
+            {
+              "number": 26,
+              "epub_id": "footnote-11-480"
+            },
+            {
+              "number": 27,
+              "epub_id": "footnote-11-266"
+            },
+            {
+              "number": 28,
+              "epub_id": "footnote-11-197"
+            },
+            {
+              "number": 29,
+              "epub_id": "footnote-11-726"
+            },
+            {
+              "number": 30,
+              "epub_id": "footnote-11-542"
+            },
+            {
+              "number": 31,
+              "epub_id": "footnote-11-0"
+            },
+            {
+              "number": 32,
+              "epub_id": "footnote-11-1"
+            },
+            {
+              "number": 33,
+              "epub_id": "footnote-11-150"
+            },
+            {
+              "number": 34,
+              "epub_id": "footnote-11-160"
+            },
+            {
+              "number": 35,
+              "epub_id": "footnote-11-182"
+            },
+            {
+              "number": 36,
+              "epub_id": "footnote-11-193"
+            },
+            {
+              "number": 37,
+              "epub_id": "footnote-11-227"
+            },
+            {
+              "number": 38,
+              "epub_id": "footnote-11-457"
+            },
+            {
+              "number": 39,
+              "epub_id": "footnote-11-535"
+            },
+            {
+              "number": 40,
+              "epub_id": "footnote-11-0"
+            },
+            {
+              "number": 41,
+              "epub_id": "footnote-11-1"
+            },
+            {
+              "number": 42,
+              "epub_id": "footnote-11-83"
+            },
+            {
+              "number": 43,
+              "epub_id": "footnote-11-254"
+            },
+            {
+              "number": 44,
+              "epub_id": "footnote-11-310"
+            },
+            {
+              "number": 45,
+              "epub_id": "footnote-11-0"
+            },
+            {
+              "number": 46,
+              "epub_id": "footnote-11-1"
+            },
+            {
+              "number": 47,
+              "epub_id": "footnote-11-2"
+            },
+            {
+              "number": 48,
+              "epub_id": "footnote-11-3"
+            },
+            {
+              "number": 49,
+              "epub_id": "footnote-11-189"
+            },
+            {
+              "number": 50,
+              "epub_id": "footnote-11-256"
+            },
+            {
+              "number": 51,
+              "epub_id": "footnote-11-278"
+            },
+            {
+              "number": 52,
+              "epub_id": "footnote-11-294"
+            },
+            {
+              "number": 53,
+              "epub_id": "footnote-11-0"
+            },
+            {
+              "number": 54,
+              "epub_id": "footnote-11-1"
+            },
+            {
+              "number": 55,
+              "epub_id": "footnote-11-2"
+            },
+            {
+              "number": 56,
+              "epub_id": "footnote-11-3"
+            },
+            {
+              "number": 57,
+              "epub_id": "footnote-11-4"
+            },
+            {
+              "number": 58,
+              "epub_id": "footnote-11-256"
+            },
+            {
+              "number": 59,
+              "epub_id": "footnote-11-400"
+            },
+            {
+              "number": 60,
+              "epub_id": "footnote-11-435"
+            },
+            {
+              "number": 61,
+              "epub_id": "footnote-11-564"
+            },
+            {
+              "number": 62,
+              "epub_id": "footnote-11-718"
+            },
+            {
+              "number": 63,
+              "epub_id": "footnote-11-0"
+            },
+            {
+              "number": 64,
+              "epub_id": "footnote-11-1"
+            },
+            {
+              "number": 65,
+              "epub_id": "footnote-11-1"
+            },
+            {
+              "number": 66,
+              "epub_id": "footnote-11-465"
+            },
+            {
+              "number": 67,
+              "epub_id": "footnote-11-166"
+            },
+            {
+              "number": 68,
+              "epub_id": "footnote-11-287"
+            },
+            {
+              "number": 69,
+              "epub_id": "footnote-11-653"
+            },
+            {
+              "number": 70,
+              "epub_id": "footnote-11-731"
+            },
+            {
+              "number": 71,
+              "epub_id": "footnote-11-0"
+            },
+            {
+              "number": 72,
+              "epub_id": "footnote-11-192"
+            },
+            {
+              "number": 73,
+              "epub_id": "footnote-11-351"
+            },
+            {
+              "number": 74,
+              "epub_id": "footnote-11-515"
+            },
+            {
+              "number": 75,
+              "epub_id": "footnote-11-155"
+            }
+          ],
+          "assets": []
+        },
+        {
+          "title": "后记",
+          "epub_path": "EPUB/xhtml/Section0001_0014.xhtml",
+          "note_references": 0,
+          "notes": [],
+          "assets": []
+        }
+      ]
+    },
+    {
+      "title": "附录一 个案描述",
+      "txt": "Appendix_A_Case_Descriptions.txt",
+      "sha256": "40b4ef0bcafa6729f53067b5dbf6edcb5c96a92b54d96cf0591410dbabb02fd6",
+      "sections": [
+        {
+          "title": "附录一 个案描述",
+          "epub_path": "EPUB/xhtml/Section0001_0011.xhtml",
+          "note_references": 0,
+          "notes": [],
+          "assets": [
+            {
+              "title": "附录一个案描述表（第1张）",
+              "file": "assets/Appendix_A_Cases_01.jpg",
+              "epub_path": "EPUB/images/image_019.jpg",
+              "sha256": "cf64660048d18fd5e0c447ba6fb4d89c8bccecc5ee7893e3ef216bda4f8d55a9"
+            },
+            {
+              "title": "附录一个案描述表（第2张）",
+              "file": "assets/Appendix_A_Cases_02.jpg",
+              "epub_path": "EPUB/images/image_020.jpg",
+              "sha256": "01465510e6fd90b611aa009c2fff08faf97e539aa328abd084e2be72b87eb7c9"
+            },
+            {
+              "title": "附录一个案描述表（第3张）",
+              "file": "assets/Appendix_A_Cases_03.jpg",
+              "epub_path": "EPUB/images/image_021.jpg",
+              "sha256": "cc19f8aaa90e099ae3ff35a6abc7775da49396f51b72ac441587271174b5f17c"
+            },
+            {
+              "title": "附录一个案描述表（第4张）",
+              "file": "assets/Appendix_A_Cases_04.jpg",
+              "epub_path": "EPUB/images/image_022.jpg",
+              "sha256": "f9fad48235be528136d9ab0cadca599dc195e0b2871d0ec7b1a0f16f60fe9170"
+            },
+            {
+              "title": "附录一个案描述表（第5张）",
+              "file": "assets/Appendix_A_Cases_05.jpg",
+              "epub_path": "EPUB/images/image_023.jpg",
+              "sha256": "0bf297528ed9ba9a57381425b4d5ecca5b8cd7659808a425c6c91a4b9ddd98f5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "附录二 被访者基本信息",
+      "txt": "Appendix_B_Respondent_Information.txt",
+      "sha256": "42a15a6f7b5c227ced2cf8754c5dd8f0561cd2d783b52427c3579f3c789eecb4",
+      "sections": [
+        {
+          "title": "附录二 被访者基本信息",
+          "epub_path": "EPUB/xhtml/Section0001_0012.xhtml",
+          "note_references": 0,
+          "notes": [],
+          "assets": [
+            {
+              "title": "附录二 本科期间目标重要性量表",
+              "file": "assets/Appendix_B_Goal_Scale.jpg",
+              "epub_path": "EPUB/images/image_024.jpg",
+              "sha256": "bfcd8c1e760c59d9bee9c26920be790a8fc91983b7137bba526e7c4df9ecb9e8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "附录三 访谈提纲",
+      "txt": "Appendix_C_Interview_Guide.txt",
+      "sha256": "eb14c00cb27623b754e6bbacbc77c10ef77f03f0a2c6ea50082471ebb472e14a",
+      "sections": [
+        {
+          "title": "附录三 访谈提纲",
+          "epub_path": "EPUB/xhtml/Section0001_0013.xhtml",
+          "note_references": 0,
+          "notes": [],
+          "assets": []
+        }
+      ]
+    }
+  ]
+}
