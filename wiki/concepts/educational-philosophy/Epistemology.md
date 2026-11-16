@@ -202,6 +202,7 @@ updated: 2026-11-16
 > - **非西方关系性认识论与天下框架（Relational Epistemology & [[Tianxia Heuristic]]）** [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024, pp. 1703–1705)]] 引入非西方传统中的“天下”认识论启发框架，打破西方实证与后实证主义对个体与实体的绝对二分，强调以关系性与共生共存为认知基底。该认识论将全球等级制与平等主义视作相互渗透的连续体，为解析跨国知识网络、地缘高等教育治理与[[Knowledge Diplomacy|知识外交]]中的不对称权力互动提供了超越二元对立的认识论透镜。
 > - **发生认识论与教育知识的动态可错性（[[Piaget's Theory of Cognitive Development|Genetic Epistemology]] & Dynamic Fallibility）** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022, pp. 654–655)]] 结合让·[[Jean Piaget|皮亚杰]]（Jean Piaget）的发生认识论与[[Basil Bernstein|伯恩斯坦]]（Basil Bernstein）关于教育学[[Horizontal Knowledge Structure|弱语法]]知识结构的论述，揭示教育知识是一个随着主体情境互动而持续生成的动态演进形态；任何将特定学术流派固化为技术官僚督导标准与审计常模的企图，在认识论上都属于将流变知识虚构为静态客观真理的范畴错置。
 > - **认识论正义与超国家认知层级解构（Epistemic Justice & Supranational Hierarchies）** [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] 揭示超国家政策[[Discourse|话语]]建构起以跨国量化实验与综合证据为特权的排他性认识论层级，压制本土[[Tacit Knowledge|默会知识]]；倡导在决策社群中为地方实践者确立包容性[[Deliberative Space|审议空间]]，推进全球—本土间的认识论正义。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 340, 347–351)]]
+> - **审美真理事件与命题正确性之分（Truth-Event vs. Propositional Correctness）** [[Martin Heidegger|马丁·海德格尔]]（Martin Heidegger）将艺术界定为先行敞开语义与存在视域的原初真理事件，科学仅能在此已敞开领域内追求派生的命题正确性（*Richtigkeit*）；[[Hans-Georg Gadamer|汉斯-格奥尔格·伽达默尔]]（Hans-Georg Gadamer）则批判[[Immanuel Kant|康德]]将认知狭隘化为自然科学方法论，以[[Philosophical Hermeneutics|哲学诠释学]]重建“艺术即认知”的地位。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 178, 186–190)]]
 
 > [!logic-map]- 认识论的双重视角与谱系映射
 > ```mermaid
@@ -392,5 +393,5 @@ updated: 2026-11-16
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 阐明经济合作与发展组织（OECD）如何通过 PISA 确立脱离国家具体课程的全新评价认识论，将教育产出重新界定为面向未来生活与知识经济的通用胜任力及非认知自我效能感，驱动欧洲教育治理的量化技术理性（pp. 26–27, 35）。
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 结合[[Interpretive Policy Analysis|解释性政策分析]]解构超国家政策文本中的修辞隐喻与排他性认识论层级，倡导重构兼顾制度使能环境与地方认知正义的包容性决策生态。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对系统改进实证[[Document|文献]]开展质性综合，对比了理性选择、文化制度、课程规制与协作网络四大路径在因果解释与变革机制上的认识论假设分歧。
-> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]析浪漫派审美认识论；[[Argument_Hammermeister_2002_Cambridge_Ch06|第 6 章]]析叔本华意志工具论与官能空白。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch04|第 4]]、[[Argument_Hammermeister_2002_Cambridge_Ch06|6 章]]析浪漫派审美认识论与叔本华意志工具论；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]析海德格尔真理事件与科学正确性之分及伽达默尔艺术认知论。
 

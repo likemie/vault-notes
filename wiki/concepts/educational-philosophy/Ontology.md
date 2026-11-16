@@ -106,6 +106,7 @@ updated: 2026-11-16
 > - **具身存在的[[Phenomenology|现象学]]本体论（Embodied Process Ontology）** 现象学与身体哲学强调，人作为“身处世界之身体中的大脑”（brain-in-the-body-in-the-world）处于向生活世界敞开的动态生成过程之中，拒绝被还原为孤立的客体实体或可测量的认知公分母[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 4–6)]]。
 > - **空间治理与关系共生的开放本体论（Open Ontology of Spatial Governance / [[Tianxia Heuristic|Tianxia]]）** [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024, p. 1704)]] 引入非西方天下观的开放空间本体论。天下本体论将世界视作无外部边界的有机共生整体，将跨国空间治理建构为动态包容、层级与网络并存的演进秩序，超越威斯特伐利亚主权国家实体绝对二分的封闭设定，为理解[[Transnational Education|跨国高等教育]]区域化与全球知识流动提供了全新的本体基础。
 > - **大写背景的关系性本体论（Relational Ontology of Context）** 比较教育与政策知识社会学确立背景不仅是包含政策实施的外部容器或给定的物理地理疆域（小写 context），更是由政策行动者、知识[[Evidence Network|证据网络]]与跨国流动[[Discourse|话语]]相互装配并纠缠生成的动态社会实在（大写 Context；Volmari et al., 2025）。
+> - **艺术体验先于物性本体论与存在增量（Art-First Ontology & Increase of Being）** 针对实体—偶性、感性杂多与质料—形式三类传统物性学说无法区分事物与艺术品的困境，[[Martin Heidegger|马丁·海德格尔]]（Martin Heidegger）逆转提问次序，主张人须经由艺术作品才能认识器具性与物性；[[Hans-Georg Gadamer|汉斯-格奥尔格·伽达默尔]]（Hans-Georg Gadamer）则以“游戏”和存在增量（increase of true existence）反转[[Plato|柏拉图]]对艺术的本体论贬低。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 175–178, 190–192)]]
 
 > [!logic-map]- 本体论假设的光谱展开与方法论映射
 > ```mermaid
@@ -233,4 +234,5 @@ updated: 2026-11-16
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 依托具身认知与[[Phenomenology|现象学]]划分经验[[Epistemology|认识论]]与存在本体论界限，批判将活生生的具身学习降解为标准化量化指标的本体论扁平化（pp. 3–6）。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 引入源自古代中国哲学的“天下”概念构建开放空间本体论，超越主权国家领土二元对立，为解释跨国高等教育枢纽与知识[[Network Governance|网络治理]]提供全新的本体论支撑（pp. 1703–1705）。
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 确立比较教育中关系性大写背景（Context）的生成本体论，揭示背景是由政策行动者、知识证据网络与跨国流动话语相互装配与纠缠而生成的动态实在（pp. 531, 542–544）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch09|Hammermeister (2002, Ch. 9)]] — 析海德格尔逆转本体论与美学次序以揭示物性、以及伽达默尔以游戏与存在增量重构艺术本体论（pp. 175–184, 190–192）。
 

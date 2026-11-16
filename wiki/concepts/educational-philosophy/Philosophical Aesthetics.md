@@ -131,6 +131,14 @@ updated: 2026-11-16
 
 ---
 
+> [!concept-proposition] 命题八｜海德格尔与伽达默尔在拒斥传统美学的同时，以真理事件与哲学诠释学重续浪漫主义范式
+> **存在论逆转与诠释学消融** 20 世纪现象学与诠释学美学表面上与鲍姆嘉通、康德以来的学科传统决裂，实质上将谢林确立的艺术真理发生范式推进至存在论守护与理解事件层面。
+>
+> > [!claim] Hammermeister, K.
+> > **海德格尔的物性逆转与伽达默尔的视域融合** [[Martin Heidegger|马丁·海德格尔]]（Martin Heidegger）论证传统物性本体论无法区分艺术与普通物品，转而通过艺术体验揭示器具性与真理，在[[World and Earth|世界与大地]]的竞技争执中将艺术确立为对抗计算理性的存在论守护者；[[Hans-Georg Gadamer|汉斯-格奥尔格·伽达默尔]]（Hans-Georg Gadamer）则批判康德式审美意识将作品孤立于生活世界，借助[[Aesthetic Nondifferentiation|审美无区分]]、游戏（*Spiel*）、[[Fusion of Horizons|视域融合]]与毕达哥拉斯式秩序[[Mimesis|摹仿]]，把美学彻底并入[[Philosophical Hermeneutics|哲学诠释学]]并确立艺术高于哲学追问的完满性。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 173–193)]]
+
+---
+
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -141,6 +149,7 @@ updated: 2026-11-16
 > | **唯意志论逆转与唯美主义转向** | 艺术脱离共同体、理性与现实实践，转为个体摆脱欲望痛苦的暂时安慰 | 德国唯心论拆解、[[Schopenhauer's Aesthetics\|叔本华美学]]与现代唯美主义 | [[Arthur Schopenhauer\|Schopenhauer, A.]]; Hammermeister, K. |
 > | **反唯心论回溯与哲学审美化** | 克尔凯郭尔以存在论贬抑审美并丧失感性认知，尼采以应用生理学与视角主义扩张美学至全哲学并滑向“恐怖美学” | 存在主义美学批判、尼采哲学审美化与 20 世纪双向反弹 | Kierkegaard, S.; Nietzsche, F.; Hammermeister, K. |
 > | **20 世纪古典范式重演** | 卡西尔重铸康德符号自律美学，卢卡奇与马尔库塞以社会历史与冲动理论重启席勒式美育解放议题 | 新康德主义美学、新马克思主义美学与批判理论过渡 | [[Ernst Cassirer\|Cassirer, E.]]; [[Georg Lukács\|Lukács, G.]]; [[Herbert Marcuse\|Marcuse, H.]]; Hammermeister, K. |
+> | **存在论守护与诠释学消融** | 海德格尔以真理事件逆转物性本体论，伽达默尔以游戏、视域融合与秩序模仿将美学并入哲学诠释学 | 20 世纪现象学艺术哲学与哲学诠释学美学 | [[Martin Heidegger\|Heidegger, M.]]; [[Hans-Georg Gadamer\|Gadamer, H.-G.]]; Hammermeister, K. |
 
 ---
 
@@ -157,6 +166,8 @@ updated: 2026-11-16
 > - **1920s–1944 — 新康德主义符号美学复兴** [[Ernst Cassirer|卡西尔]]以[[Animal Symbolicum|符号动物]]重铸康德艺术自律原则，在《人论》（1944）及文化科学研究院演讲中提出艺术对现实的集中强化与形式净化，但面临非历史性与纯形式真理连接困境。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 153–158)]]
 > - **1930s–1963 — 马克思主义现实主义美学体系化** [[Georg Lukács|卢卡奇]]在《审美的特性》（1963）等著述中以[[Typicality|典型性]]、党性与理性[[Catharsis|卡塔西斯]]重构[[Mimesis|摹仿]]论，试图通过艺术克服现代[[Alienation|异化]]，却因外部理论认知特权引发艺术自主性悖论。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 160–169)]]
 > - **1966–1978 — 批判理论与伟大艺术否定性回调** [[Herbert Marcuse|马尔库塞]]从《论解放》（1969）的反艺术去升华转向《反革命与造反》（1972）与《审美之维》（1978），在[[Repressive Tolerance|压抑性容忍]]体制下重申自律伟大艺术改造意识与冲动、抗衡死亡本能的永恒否定力量。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 169–172)]]
+> - **1935–1969 — 存在论转向与艺术真理事件** [[Martin Heidegger|海德格尔]]在《艺术作品的本源》（1935/1950）及战后空间、物性随笔中驳斥传统物性学说，以[[World and Earth|世界与大地]]之争确立艺术作为真理事件与对抗技术计算的存在论守护者。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 173–189)]]
+> - **1960–1990s — 哲学诠释学对美学的消融** [[Hans-Georg Gadamer|伽达默尔]]在《真理与方法》（1960）及后期论著中批判康德式审美意识，以[[Aesthetic Nondifferentiation|审美无区分]]、游戏、[[Fusion of Horizons|视域融合]]与毕达哥拉斯式秩序[[Mimesis|摹仿]]将美学纳入[[Philosophical Hermeneutics|哲学诠释学]]。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 189–193)]]
 
 ---
 
@@ -201,4 +212,4 @@ updated: 2026-11-16
 ---
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1]]–[[Argument_Hammermeister_2002_Cambridge_Ch03|3 章]]溯鲍姆嘉通至康德与席勒；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4]]–[[Argument_Hammermeister_2002_Cambridge_Ch06|6 章]]析谢林、黑格尔与叔本华；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析克尔凯郭尔与尼采的反唯心论转向；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析卡西尔、卢卡奇与马尔库塞对古典范式的 20 世纪重演。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch01|第 1]]–[[Argument_Hammermeister_2002_Cambridge_Ch03|3 章]]溯鲍姆嘉通至康德与席勒；[[Argument_Hammermeister_2002_Cambridge_Ch04|第 4]]–[[Argument_Hammermeister_2002_Cambridge_Ch06|6 章]]析谢林、黑格尔与叔本华；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析克尔凯郭尔与尼采；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8]]–[[Argument_Hammermeister_2002_Cambridge_Ch09|9 章]]析 20 世纪新康德主义、新马克思主义、海德格尔与伽达默尔。
