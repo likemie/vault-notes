@@ -63,8 +63,7 @@ updated: 2026-11-17
 > [!textbook-overview] 章节导航与论证功能
 > | 章节 | 内容概要 | 主要关联条目 |
 > |---|---|---|
-> | [导论](../../../../raw/Zheng_2023_ShanghaiSanlian_txt/Ch00_Introduction.txt) | 提出进入名校后毕业出路仍有阶层差异的问题。此 TXT 同时收录献词、序言和致谢。 | |
-> | [第一章 迷宫](../../../../raw/Zheng_2023_ShanghaiSanlian_txt/Ch01_Maze.txt) | 交代就业、出国与读研的不同机会，以及学生取得这些机会所需的条件。 | |
+> | [第一章 迷宫](../../../../raw/Zheng_2023_ShanghaiSanlian_txt/Ch01_Maze.txt) | 收录献词、序言、致谢和导论。导论提出毕业出路的阶层差异，第一章交代就业、出国与读研的机会及其条件。 | |
 > | [第二章 视角](../../../../raw/Zheng_2023_ShanghaiSanlian_txt/Ch02_Perspective.txt) | 说明资本化、投入和价值选择三个过程如何组成分析框架，并交代访谈设计及个案选择。 | |
 > | [第三章 家境](../../../../raw/Zheng_2023_ShanghaiSanlian_txt/Ch03_Family_Background.txt) | 从中学经历和家庭决策追溯两种上大学的实践模式。 | [[Goal-Controlled Mode]]、[[Intuition-Dependent Mode]] |
 > | [第四章 努力](../../../../raw/Zheng_2023_ShanghaiSanlian_txt/Ch04_Effort.txt) | 比较两类学生如何分配学业和课外活动时间，考察部分学生改变做法的经历。 | [[Academic Engagement]]、[[Social Engagement]] |

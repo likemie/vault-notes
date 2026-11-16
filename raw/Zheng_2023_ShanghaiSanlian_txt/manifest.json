@@ -11,9 +11,9 @@
   "notes": "按首次出现顺序分节编号。同一 EPUB 锚点含不同注释正文时，按各处实际引用区分。图片以 EPUB 原始资源随附。",
   "entries": [
     {
-      "title": "导论",
-      "txt": "Ch00_Introduction.txt",
-      "sha256": "9a7ca4c0f5e870a82640e9f3f80ea79f139105098aa14754663fe1993dcaf7b8",
+      "title": "第一章 迷宫",
+      "txt": "Ch01_Maze.txt",
+      "sha256": "3549ae4a795d12ca798bf548b32d33d6115e276d208107fa3731cf30d07f8b9a",
       "sections": [
         {
           "title": "献词",
@@ -354,14 +354,7 @@
             }
           ],
           "assets": []
-        }
-      ]
-    },
-    {
-      "title": "第一章 迷宫",
-      "txt": "Ch01_Maze.txt",
-      "sha256": "f20cde1b8b4c31f278e952140573f1e34538d1c3ffd5cd3dae6f420460bc710d",
-      "sections": [
+        },
         {
           "title": "第一章 迷宫",
           "epub_path": "EPUB/xhtml/Section0001_0005.xhtml",
