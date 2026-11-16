@@ -461,8 +461,6 @@
     "Alberts et al., 2014": "Alberts et al., 2014",
     "Alberts, 2011": "Alberts, 2011",
     "Alberts, 2015": "Alberts, 2015",
-    "Albrecht Wellmer (1983)": "Albrecht Wellmer, 1983",
-    "Albrecht Wellmer, 1983": "Albrecht Wellmer, 1983",
     "Alchin (2003a)": "Alchin, 2003a",
     "Alchin (2003b)": "Alchin, 2003b",
     "Alchin, 2003a": "Alchin, 2003a",
@@ -2202,12 +2200,14 @@
     "Bengtsson, 2008": "Bengtsson, 2008",
     "Benick (2021)": "Benick, 2021",
     "Benick, 2021": "Benick, 2021",
+    "Benjamin (1936)": "Benjamin, 1936",
     "Benjamin (1940)": "Benjamin, 1940",
     "Benjamin (1968)": "Benjamin, 1968",
     "Benjamin F. Jones (2009)": "Benjamin F. Jones, 2009",
     "Benjamin F. Jones, 2009": "Benjamin F. Jones, 2009",
     "Benjamin et al. (2000)": "Benjamin et al., 2000",
     "Benjamin et al., 2000": "Benjamin et al., 2000",
+    "Benjamin, 1936": "Benjamin, 1936",
     "Benjamin, 1940": "Benjamin, 1940",
     "Benjamin, 1968": "Benjamin, 1968",
     "Benkler (2006)": "Benkler, 2006",
@@ -3508,8 +3508,10 @@
     "Bubis (1998)": "Bubis, 1998",
     "Bubis, 1998": "Bubis, 1998",
     "Bubner (1973)": "Bubner, 1973",
+    "Bubner (1980)": "Bubner, 1980",
     "Bubner (1995)": "Bubner, 1995",
     "Bubner, 1973": "Bubner, 1973",
+    "Bubner, 1980": "Bubner, 1980",
     "Bubner, 1995": "Bubner, 1995",
     "Buch & Wetzel (2001)": "Buch & Wetzel, 2001",
     "Buch & Wetzel, 2001": "Buch & Wetzel, 2001",
@@ -7881,6 +7883,8 @@
     "Fien et al., 2021": "Fien et al., 2021",
     "Fien, 2011": "Fien, 2011",
     "Fien, 2015": "Fien, 2015",
+    "Figal (1977)": "Figal, 1977",
+    "Figal, 1977": "Figal, 1977",
     "Figlio (2018)": "Figlio, 2018",
     "Figlio (2019)": "Figlio, 2019",
     "Figlio, 2018": "Figlio, 2018",
@@ -8477,6 +8481,8 @@
     "Fryer, 2020": "Fryer, 2020",
     "Frymier & Houser (2000)": "Frymier & Houser, 2000",
     "Frymier & Houser, 2000": "Frymier & Houser, 2000",
+    "Früchtl (1986)": "Früchtl, 1986",
+    "Früchtl, 1986": "Früchtl, 1986",
     "Fuad et al. (2023)": "Fuad et al., 2023",
     "Fuad et al., 2023": "Fuad et al., 2023",
     "Fuchs & De Jaegher (2009)": "Fuchs & De Jaegher, 2009",
@@ -9979,8 +9985,6 @@
     "Güler et al., 2021": "Güler et al., 2021",
     "Gülmezoglu et al. (2007)": "Gülmezoglu et al., 2007",
     "Gülmezoglu et al., 2007": "Gülmezoglu et al., 2007",
-    "Günter Figal (1977)": "Günter Figal, 1977",
-    "Günter Figal, 1977": "Günter Figal, 1977",
     "Gürdogan-Bayir & Bozkurt (2018)": "Gürdogan-Bayir & Bozkurt, 2018",
     "Gürdogan-Bayir & Bozkurt, 2018": "Gürdogan-Bayir & Bozkurt, 2018",
     "Gürsoy et al. (2023)": "Gürsoy et al., 2023",
@@ -12450,8 +12454,6 @@
     "Jordan-Black, 2005": "Jordan-Black, 2005",
     "Jose et al. (2025)": "Jose et al., 2025",
     "Jose et al., 2025": "Jose et al., 2025",
-    "Josef Früchtl (1986)": "Josef Früchtl, 1986",
-    "Josef Früchtl, 1986": "Josef Früchtl, 1986",
     "Joseph (1999)": "Joseph, 1999",
     "Joseph Lauwerys (1957)": "Joseph Lauwerys, 1957",
     "Joseph Lauwerys, 1957": "Joseph Lauwerys, 1957",
@@ -21438,6 +21440,8 @@
     "Sanderson, 1992": "Sanderson, 1992",
     "Sandiford (1918)": "Sandiford, 1918",
     "Sandiford, 1918": "Sandiford, 1918",
+    "Sandner (1979)": "Sandner, 1979",
+    "Sandner, 1979": "Sandner, 1979",
     "Sandoval & Morrison (2003)": "Sandoval & Morrison, 2003",
     "Sandoval & Morrison, 2003": "Sandoval & Morrison, 2003",
     "Sandoval & Reiser (2004)": "Sandoval & Reiser, 2004",
@@ -25960,6 +25964,8 @@
     "Wellington, 2016": "Wellington, 2016",
     "Wellman (1990)": "Wellman, 1990",
     "Wellman, 1990": "Wellman, 1990",
+    "Wellmer (1983)": "Wellmer, 1983",
+    "Wellmer, 1983": "Wellmer, 1983",
     "Wells (1962)": "Wells, 1962",
     "Wells, 1962": "Wells, 1962",
     "Wen & Dubé (2022)": "Wen & Dubé, 2022",
@@ -26407,8 +26413,6 @@
     "Wolff-Grosser, 2018": "Wolff-Grosser, 2018",
     "Wolfgang Mitter (2009)": "Wolfgang Mitter, 2009",
     "Wolfgang Mitter, 2009": "Wolfgang Mitter, 2009",
-    "Wolfgang Sandner (1979)": "Wolfgang Sandner, 1979",
-    "Wolfgang Sandner, 1979": "Wolfgang Sandner, 1979",
     "Wolfgang Streeck & Kathleen Thelen (2005)": "Wolfgang Streeck & Kathleen Thelen, 2005",
     "Wolfgang Streeck & Kathleen Thelen, 2005": "Wolfgang Streeck & Kathleen Thelen, 2005",
     "Wolfgang Streeck (2009)": "Wolfgang Streeck, 2009",
@@ -31447,21 +31451,6 @@
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Sinicisation.md",
         "wiki/theories/political-economy-geopolitics/Necropolitics.md"
-      ],
-      "title": ""
-    },
-    "Albrecht Wellmer, 1983": {
-      "aliases": [
-        "Albrecht Wellmer, 1983",
-        "Albrecht Wellmer (1983)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Albrecht Wellmer, 1983"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch10.md"
       ],
       "title": ""
     },
@@ -44258,6 +44247,21 @@
       ],
       "title": ""
     },
+    "Benjamin, 1936": {
+      "aliases": [
+        "Benjamin, 1936",
+        "Benjamin (1936)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Benjamin, 1936"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch10.md"
+      ],
+      "title": ""
+    },
     "Benjamin, 1940": {
       "aliases": [
         "Benjamin, 1940",
@@ -53903,6 +53907,21 @@
       "seen_in": [
         "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch08.md",
         "wiki/persons/germany/Rüdiger Bubner.md"
+      ],
+      "title": ""
+    },
+    "Bubner, 1980": {
+      "aliases": [
+        "Bubner, 1980",
+        "Bubner (1980)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bubner, 1980"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch10.md"
       ],
       "title": ""
     },
@@ -85857,6 +85876,21 @@
       "seen_in": [],
       "title": "An examination of the efficacy of a multitiered intervention on early reading outcomes for first grade students at risk for reading difficulties"
     },
+    "Figal, 1977": {
+      "aliases": [
+        "Figal, 1977",
+        "Figal (1977)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Figal, 1977"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch10.md"
+      ],
+      "title": ""
+    },
     "Figlio, 2018": {
       "aliases": [
         "Figlio, 2018",
@@ -90254,6 +90288,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md"
+      ],
+      "title": ""
+    },
+    "Früchtl, 1986": {
+      "aliases": [
+        "Früchtl, 1986",
+        "Früchtl (1986)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Früchtl, 1986"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch10.md"
       ],
       "title": ""
     },
@@ -101117,21 +101166,6 @@
       ],
       "title": ""
     },
-    "Günter Figal, 1977": {
-      "aliases": [
-        "Günter Figal, 1977",
-        "Günter Figal (1977)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Günter Figal, 1977"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch10.md"
-      ],
-      "title": ""
-    },
     "Gürdogan-Bayir & Bozkurt, 2018": {
       "aliases": [
         "Gürdogan-Bayir & Bozkurt, 2018",
@@ -101457,6 +101491,7 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md",
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02.md",
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch10.md",
         "wiki/concepts/educational-philosophy/Axiology.md",
         "wiki/concepts/educational-philosophy/Empiricism.md",
         "wiki/concepts/educational-philosophy/Epistemology.md",
@@ -119173,21 +119208,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/AI & SOCIETY/Argument_Du_Yuan_2026_AIS.md"
-      ],
-      "title": ""
-    },
-    "Josef Früchtl, 1986": {
-      "aliases": [
-        "Josef Früchtl, 1986",
-        "Josef Früchtl (1986)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Josef Früchtl, 1986"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch10.md"
       ],
       "title": ""
     },
@@ -184554,6 +184574,21 @@
       ],
       "title": ""
     },
+    "Sandner, 1979": {
+      "aliases": [
+        "Sandner, 1979",
+        "Sandner (1979)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Sandner, 1979"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch10.md"
+      ],
+      "title": ""
+    },
     "Sandoval & Morrison, 2003": {
       "aliases": [
         "Sandoval & Morrison, 2003",
@@ -217144,6 +217179,21 @@
       ],
       "title": ""
     },
+    "Wellmer, 1983": {
+      "aliases": [
+        "Wellmer, 1983",
+        "Wellmer (1983)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Wellmer, 1983"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch10.md"
+      ],
+      "title": ""
+    },
     "Wells, 1962": {
       "aliases": [
         "Wells, 1962",
@@ -220362,21 +220412,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/comparative-education/Policy Borrowing.md"
-      ],
-      "title": ""
-    },
-    "Wolfgang Sandner, 1979": {
-      "aliases": [
-        "Wolfgang Sandner, 1979",
-        "Wolfgang Sandner (1979)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Wolfgang Sandner, 1979"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch10.md"
       ],
       "title": ""
     },
