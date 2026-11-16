@@ -71,6 +71,9 @@ updated: 2026-11-16
 >
 > > [!claim] Heidegger, M. & Gadamer, H.-G.
 > > **非摹仿的真理敞开与毕达哥拉斯式秩序重释** 20 世纪现象学与诠释学美学对摹仿采取了两条差异鲜明的路径：[[Martin Heidegger|马丁·海德格尔]]（Martin Heidegger）以希腊神庙为例彻底拒斥摹仿论，主张艺术让事物“变得可见”（如保罗·克利与康拉德·菲德勒所述），从而使新事物进入存在；[[Hans-Georg Gadamer|伽达默尔]]则在后期《艺术与模仿》中转向毕达哥拉斯传统，将摹仿重释为世界秩序、音乐和谐与平衡心灵的三重秩序见证，借此赋予艺术对抗现代生活碎片化的伦理与共同体功能。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 178–180, 191–192)]]
+>
+> > [!claim] Adorno, T. W.
+> > **批判再现复制与作为前概念亲和力的“依偎”（*Anschmiegung*）** 在《美学理论》（1970）中，[[Theodor Adorno|阿多诺]]同样反对将摹仿理解为主体对既成现实的忠实复写（*Abbild*），认为那只会替不义现状背书；但他转而把摹仿界定为“主体作品对它所未曾设定之他者的非概念亲和力”，即一种接近巫术仪式、拒绝暴力支配而向客体温柔依偎（*Anschmiegung*）的原始行为。正因保留这一摹仿要素，艺术成为补充概念思维的理性认知形式，在全面社会中为[[The Nonidentical|非同一性]]开辟通道。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 203–205)]]
 
 ---
 

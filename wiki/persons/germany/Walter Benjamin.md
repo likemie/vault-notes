@@ -95,6 +95,7 @@ updated: 2026-11-16
 
 > [!evidence-grid] 相关研究索引
 > - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 汲取其齐一空洞时间论断阐释民族共时想象（[[Argument_Anderson_2016_Verso_Ch02|第2章]]），并在全书收尾以历史天使寓言反思现代民族主义悲剧（[[Argument_Anderson_2016_Verso_Ch09|第9章]]）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch10|Hammermeister (2002)]] — 第 10 章剖析《机械复制时代的艺术作品》关于[[Aura|灵光]]消逝、电影震撼感知与政治化艺术的论证，及其与[[Theodor Adorno|阿多诺]]的分歧（pp. 197–200）。
 
 ---
 
