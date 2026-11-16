@@ -6470,6 +6470,8 @@
     "Donald Cruickshank, 1985": "Donald Cruickshank, 1985",
     "Donald E. Stokes (1997)": "Donald E. Stokes, 1997",
     "Donald E. Stokes, 1997": "Donald E. Stokes, 1997",
+    "Donald J. Treiman (2000)": "Donald J. Treiman, 2000",
+    "Donald J. Treiman, 2000": "Donald J. Treiman, 2000",
     "Donald Norman (1988)": "Donald Norman, 1988",
     "Donald Norman, 1988": "Donald Norman, 1988",
     "Donald Rubin (1974)": "Donald Rubin, 1974",
@@ -18831,11 +18833,9 @@
     "Parsons & Burkey, 2011": "Parsons & Burkey, 2011",
     "Parsons (1947)": "Parsons, 1947",
     "Parsons (1951)": "Parsons, 1951",
-    "Parsons (1991)": "Parsons, 1991",
     "Parsons (1992)": "Parsons, 1992",
     "Parsons, 1947": "Parsons, 1947",
     "Parsons, 1951": "Parsons, 1951",
-    "Parsons, 1991": "Parsons, 1991",
     "Parsons, 1992": "Parsons, 1992",
     "Partanen (2015)": "Partanen, 2015",
     "Partanen (2019)": "Partanen, 2019",
@@ -19371,7 +19371,9 @@
     "Pierre Azoulay, 2012": "Pierre Azoulay, 2012",
     "Pierre Bourdieu & Jean-Claude Passeron (1979)": "Pierre Bourdieu & Jean-Claude Passeron, 1979",
     "Pierre Bourdieu & Jean-Claude Passeron, 1979": "Pierre Bourdieu & Jean-Claude Passeron, 1979",
+    "Pierre Bourdieu (1979)": "Pierre Bourdieu, 1979",
     "Pierre Bourdieu (2003)": "Pierre Bourdieu, 2003",
+    "Pierre Bourdieu, 1979": "Pierre Bourdieu, 1979",
     "Pierre Bourdieu, 2003": "Pierre Bourdieu, 2003",
     "Pierson & Castles (2002)": "Pierson & Castles, 2002",
     "Pierson & Castles, 2002": "Pierson & Castles, 2002",
@@ -25334,6 +25336,8 @@
     "Vickers & Morris, 2022": "Vickers & Morris, 2022",
     "Vickers et al. (1998)": "Vickers et al., 1998",
     "Vickers et al., 1998": "Vickers et al., 1998",
+    "Victor Nee (1989)": "Victor Nee, 1989",
+    "Victor Nee, 1989": "Victor Nee, 1989",
     "Viechtbauer (2005)": "Viechtbauer, 2005",
     "Viechtbauer (2010)": "Viechtbauer, 2010",
     "Viechtbauer, 2005": "Viechtbauer, 2005",
@@ -25520,6 +25524,8 @@
     "Waldegrave & Simons (2014)": "Waldegrave & Simons, 2014",
     "Waldegrave & Simons, 2014": "Waldegrave & Simons, 2014",
     "Walder (1995)": "Walder, 1995",
+    "Walder et al. (2000)": "Walder et al., 2000",
+    "Walder et al., 2000": "Walder et al., 2000",
     "Walder, 1995": "Walder, 1995",
     "Waldinger (2010)": "Waldinger, 2010",
     "Waldinger, 2010": "Waldinger, 2010",
@@ -25830,7 +25836,6 @@
     "Weber (1920)": "Weber, 1920",
     "Weber (1922)": "Weber, 1922",
     "Weber (1990)": "Weber, 1990",
-    "Weber (2006)": "Weber, 2006",
     "Weber et al. (2019)": "Weber et al., 2019",
     "Weber et al., 2019": "Weber et al., 2019",
     "Weber, 1917": "Weber, 1917",
@@ -25838,7 +25843,6 @@
     "Weber, 1920": "Weber, 1920",
     "Weber, 1922": "Weber, 1922",
     "Weber, 1990": "Weber, 1990",
-    "Weber, 2006": "Weber, 2006",
     "Webster et al. (2010)": "Webster et al., 2010",
     "Webster et al., 2010": "Webster et al., 2010",
     "Wechsler et al. (2018)": "Wechsler et al., 2018",
@@ -27560,6 +27564,8 @@
     "名古屋, 1939": "名古屋, 1939",
     "后期幻灭 (2008)": "后期幻灭, 2008",
     "后期幻灭, 2008": "后期幻灭, 2008",
+    "吕鹏与范晓光 (2016)": "吕鹏与范晓光, 2016",
+    "吕鹏与范晓光, 2016": "吕鹏与范晓光, 2016",
     "周刊 (1986)": "周刊, 1986",
     "周刊, 1986": "周刊, 1986",
     "周茜 (2022)": "周茜, 2022",
@@ -28051,8 +28057,8 @@
     "运用卢曼与肖尔, 1979": "运用卢曼与肖尔, 1979",
     "迪克勒等 (2021)": "迪克勒等, 2021",
     "迪克勒等, 2021": "迪克勒等, 2021",
-    "郑辉和李路路 (2009)": "郑辉和李路路, 2009",
-    "郑辉和李路路, 2009": "郑辉和李路路, 2009",
+    "郑辉与李路路 (2009)": "郑辉与李路路, 2009",
+    "郑辉与李路路, 2009": "郑辉与李路路, 2009",
     "里兹维与林加德 (2009)": "里兹维与林加德, 2009",
     "里兹维与林加德, 2009": "里兹维与林加德, 2009",
     "闵尊涛等 (2018)": "闵尊涛等, 2018",
@@ -34871,7 +34877,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/sociology-of-education/Opportunist Mode.md"
+        "wiki/concepts/sociology-of-education/Opportunist Mode.md",
+        "wiki/theories/sociology-of-education/Culture as Toolkit.md"
       ],
       "title": ""
     },
@@ -75400,6 +75407,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/university-industry-collaboration/Use-Inspired Basic Research.md"
+      ],
+      "title": ""
+    },
+    "Donald J. Treiman, 2000": {
+      "aliases": [
+        "Donald J. Treiman, 2000",
+        "Donald J. Treiman (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Donald J. Treiman, 2000"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Dual Elite Career Paths.md"
       ],
       "title": ""
     },
@@ -165334,21 +165356,6 @@
       ],
       "title": ""
     },
-    "Parsons, 1991": {
-      "aliases": [
-        "Parsons, 1991",
-        "Parsons (1991)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Parsons, 1991"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/sociology-of-education/Culture as Toolkit.md"
-      ],
-      "title": ""
-    },
     "Parsons, 1992": {
       "aliases": [
         "Parsons, 1992",
@@ -169301,6 +169308,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
+      ],
+      "title": ""
+    },
+    "Pierre Bourdieu, 1979": {
+      "aliases": [
+        "Pierre Bourdieu, 1979",
+        "Pierre Bourdieu (1979)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Pierre Bourdieu, 1979"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Culture as Toolkit.md"
       ],
       "title": ""
     },
@@ -198775,6 +198797,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/theories/sociology-of-education/Culture as Toolkit.md",
         "wiki/theories/sociology-of-education/Dual-Process Model of Culture in Action.md"
       ],
       "title": ""
@@ -212523,6 +212546,21 @@
       ],
       "title": ""
     },
+    "Victor Nee, 1989": {
+      "aliases": [
+        "Victor Nee, 1989",
+        "Victor Nee (1989)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Victor Nee, 1989"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Dual Elite Career Paths.md"
+      ],
+      "title": ""
+    },
     "Viechtbauer, 2005": {
       "aliases": [
         "Viechtbauer, 2005",
@@ -213861,6 +213899,21 @@
       ],
       "title": ""
     },
+    "Walder et al., 2000": {
+      "aliases": [
+        "Walder et al., 2000",
+        "Walder et al. (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Walder et al., 2000"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Dual Elite Career Paths.md"
+      ],
+      "title": ""
+    },
     "Walder, 1995": {
       "aliases": [
         "Walder, 1995",
@@ -213872,8 +213925,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/sociology-of-education/Value Conformist Mode.md",
-        "wiki/theories/sociology-of-education/Dual Elite Career Paths.md"
+        "wiki/concepts/sociology-of-education/Value Conformist Mode.md"
       ],
       "title": ""
     },
@@ -216133,21 +216185,6 @@
         "wiki/methods/qualitative/Data Reduction.md",
         "wiki/methods/qualitative/Intercoder Agreement.md",
         "wiki/methods/qualitative/Qualitative Codebook.md"
-      ],
-      "title": ""
-    },
-    "Weber, 2006": {
-      "aliases": [
-        "Weber, 2006",
-        "Weber (2006)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Weber, 2006"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/sociology-of-education/Culture as Toolkit.md"
       ],
       "title": ""
     },
@@ -228407,6 +228444,21 @@
       ],
       "title": ""
     },
+    "吕鹏与范晓光, 2016": {
+      "aliases": [
+        "吕鹏与范晓光, 2016",
+        "吕鹏与范晓光 (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "吕鹏与范晓光, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Dual Elite Career Paths.md"
+      ],
+      "title": ""
+    },
     "周刊, 1986": {
       "aliases": [
         "周刊, 1986",
@@ -232063,14 +232115,14 @@
       ],
       "title": ""
     },
-    "郑辉和李路路, 2009": {
+    "郑辉与李路路, 2009": {
       "aliases": [
-        "郑辉和李路路, 2009",
-        "郑辉和李路路 (2009)"
+        "郑辉与李路路, 2009",
+        "郑辉与李路路 (2009)"
       ],
       "doi": "",
       "identity_keys": [
-        "郑辉和李路路, 2009"
+        "郑辉与李路路, 2009"
       ],
       "isbn": "",
       "seen_in": [

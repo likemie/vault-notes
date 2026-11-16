@@ -4044,7 +4044,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/sociology-of-education/Opportunist Mode.md"
+        "wiki/concepts/sociology-of-education/Opportunist Mode.md",
+        "wiki/theories/sociology-of-education/Culture as Toolkit.md"
       ],
       "title": ""
     },
@@ -28430,6 +28431,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/university-industry-collaboration/Use-Inspired Basic Research.md"
+      ],
+      "title": ""
+    },
+    "Donald J. Treiman, 2000": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Dual Elite Career Paths.md"
       ],
       "title": ""
     },
@@ -82730,14 +82739,6 @@
       ],
       "title": ""
     },
-    "Parsons, 1991": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/sociology-of-education/Culture as Toolkit.md"
-      ],
-      "title": ""
-    },
     "Parsons, 1992": {
       "datasets": [
         "metax:S1479"
@@ -85095,6 +85096,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
+      ],
+      "title": ""
+    },
+    "Pierre Bourdieu, 1979": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Culture as Toolkit.md"
       ],
       "title": ""
     },
@@ -102814,6 +102823,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/theories/sociology-of-education/Culture as Toolkit.md",
         "wiki/theories/sociology-of-education/Dual-Process Model of Culture in Action.md"
       ],
       "title": ""
@@ -111210,6 +111220,14 @@
       ],
       "title": ""
     },
+    "Victor Nee, 1989": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Dual Elite Career Paths.md"
+      ],
+      "title": ""
+    },
     "Viechtbauer, 2005": {
       "doi": "",
       "isbn": "",
@@ -112012,12 +112030,19 @@
       ],
       "title": ""
     },
+    "Walder et al., 2000": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Dual Elite Career Paths.md"
+      ],
+      "title": ""
+    },
     "Walder, 1995": {
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/sociology-of-education/Value Conformist Mode.md",
-        "wiki/theories/sociology-of-education/Dual Elite Career Paths.md"
+        "wiki/concepts/sociology-of-education/Value Conformist Mode.md"
       ],
       "title": ""
     },
@@ -113415,14 +113440,6 @@
         "wiki/methods/qualitative/Data Reduction.md",
         "wiki/methods/qualitative/Intercoder Agreement.md",
         "wiki/methods/qualitative/Qualitative Codebook.md"
-      ],
-      "title": ""
-    },
-    "Weber, 2006": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/sociology-of-education/Culture as Toolkit.md"
       ],
       "title": ""
     },
@@ -120899,6 +120916,14 @@
       ],
       "title": ""
     },
+    "吕鹏与范晓光, 2016": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Dual Elite Career Paths.md"
+      ],
+      "title": ""
+    },
     "周刊, 1986": {
       "doi": "",
       "isbn": "",
@@ -122868,7 +122893,7 @@
       ],
       "title": ""
     },
-    "郑辉和李路路, 2009": {
+    "郑辉与李路路, 2009": {
       "doi": "",
       "isbn": "",
       "seen_in": [
