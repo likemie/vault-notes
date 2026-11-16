@@ -35,7 +35,7 @@ related_theories:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -88,6 +88,7 @@ updated: 2026-11-15
 > - **1758 — 早期“素朴”界定** [[Moses Mendelssohn|摩西·门德尔松]]（Moses Mendelssohn）在《论自由艺术中的[[The Sublime|崇高]]与素朴》中率先界定素朴概念，深刻影响了席勒后来对素朴诗的论述。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 17–18)]]
 > - **1788 — 童年与艺术的早期关联** 席勒在受[[Alexander Gottlieb Baumgarten|鲍姆嘉通]]（Alexander Gottlieb Baumgarten）影响的《艺术家》中，把美与艺术比作引导人类走向真理的童年阶段。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, pp. 42–43)]]
 > - **1796 — 系统形成历史诗学** 席勒发表《论素朴的诗与感伤的诗》，在结束哲学写作重返戏剧创作前夕，完成审美范畴与历史发展的系统对接。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, pp. 45, 49)]]
+> - **1872 — 尼采的生存防御重构** [[Friedrich Nietzsche|弗里德里希·尼采]]（Friedrich Nietzsche）在《悲剧的诞生》（§3）中反驳席勒的“素朴”观与温克尔曼的希腊静穆理想，认为希腊素朴艺术源自直面生存恐怖时为求自保而树立的奥林匹斯防御梦境，属于高度自觉的生存努力，有别于文化童年的纯真状态。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, p. 139)]]
 
 ---
 
@@ -98,8 +99,10 @@ updated: 2026-11-15
 > | [[Aesthetic Education]] | 概念 | 素朴与感伤的诗学将美育三阶段历史模型具体落实到文学与诗歌发展史中。[[Argument_Hammermeister_2002_Cambridge_Ch03\|(Hammermeister, 2002, pp. 45, 49)]] |
 > | [[Aesthetic State]] | 概念 | 与自然国家、理想国家的演进图式共享不可逆的历史成长逻辑。[[Argument_Hammermeister_2002_Cambridge_Ch03\|(Hammermeister, 2002, pp. 49–50)]] |
 > | [[Alienation]] | 概念 | 古希腊素朴统一体构成反衬现代社会分工与异化状态的历史参照。[[Argument_Hammermeister_2002_Cambridge_Ch03\|(Hammermeister, 2002, pp. 47, 49)]] |
+> | [[Apollonian and Dionysian]] | 概念 | 尼采将席勒的素朴诗重新诠释为对抗生存绝望的阿波罗梦境防御机制。[[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, p. 139)]] |
+> | [[Friedrich Nietzsche]] | 人物 | 在《悲剧的诞生》中质疑席勒对希腊素朴纯真性的设定。[[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, p. 139)]] |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch03|Hammermeister (2002, pp. 42–45, 49–50)]] — 梳理席勒从早期《艺术家》到 1796 年《论素朴的诗与感伤的诗》的历史辩证思路，并点明其对[[Hegel's Aesthetics|黑格尔美学]]的影响。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch03|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch03|第 3 章]]梳理席勒历史辩证诗学及对[[Hegel's Aesthetics|黑格尔美学]]的影响；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析尼采对素朴概念的生存防御重构（p. 139）。

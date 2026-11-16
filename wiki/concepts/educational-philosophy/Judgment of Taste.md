@@ -96,6 +96,7 @@ updated: 2026-11-16
 > [!critique|notitle] 外部批评
 > - **客观唯心论的真理批评** [[Georg Wilhelm Friedrich Hegel|黑格尔]]（Georg Wilhelm Friedrich Hegel）高度赞赏康德将审美判断从占有欲与科学公式中解放出来，但批评康德将鉴赏判断奠基于感性与想象力，使之停留在主观浅表层面，无法对艺术作品本身的客观真理作出断言。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 93–94)]]
 > - **存在论与诠释学对主观化的拆解** [[Martin Heidegger|马丁·海德格尔]]（Martin Heidegger）拒斥把审美动感局限于主体心理官能游戏与消费体验，将其移入作品客观的[[World and Earth|世界与大地]]争执；[[Hans-Georg Gadamer|汉斯-格奥尔格·伽达默尔]]（Hans-Georg Gadamer）则批评康德将审美判断主观化后剥夺了艺术的认知地位，导致作品与其历史生活世界割裂并迫使人文学科效仿自然科学方法论。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 187–190)]]
+> - **尼采的趣味复兴及其个人主义悖论** [[Friedrich Nietzsche|弗里德里希·尼采]]（Friedrich Nietzsche）逆转康德之后唯心论对趣味的边缘化，主张哲学依靠改变读者趣味而推进（《善恶的彼岸》§2、《快乐的科学》§39）；但 18 世纪道德与审美合一的趣味前提依赖于共享的社会理想，在尼采力图瓦解共同信念的个人主义哲学中重建趣味缺乏合法根基。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 148–149)]]
 
 ---
 
@@ -109,11 +110,11 @@ updated: 2026-11-16
 > | [[Aesthetic Autonomy]] | 概念 | 鉴赏判断脱离认知与道德概念，为审美领域的自主性提供先验哲学奠基。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 23, 39)]] |
 > | [[Immanuel Kant]] | 人物 | 在《判断力批判》（1790）中系统建构鉴赏判断四重契机的哲学家。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 21, 27–32)]] |
 > | [[Georg Wilhelm Friedrich Hegel]] | 人物 | 肯定康德审美非功利与非概念化立场，同时批评鉴赏判断止步于主观感受而缺乏客观真理。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 93–94)]] |
-
+> | [[Friedrich Nietzsche]] | 人物 | 试图以改变趣味取代哲学论证，却因个人主义瓦解共享社会理想而陷入徒劳。[[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, pp. 148–149)]] |
 > | [[Martin Heidegger]] | 人物 | 将审美动感从主体官能游戏移入作品客观的世界与大地争执。[[Argument_Hammermeister_2002_Cambridge_Ch09\|(Hammermeister, 2002, pp. 187–188)]] |
 > | [[Hans-Georg Gadamer]] | 人物 | 批判康德将审美判断主观化导致艺术丧失认知地位并被迫依附科学方法论。[[Argument_Hammermeister_2002_Cambridge_Ch09\|(Hammermeister, 2002, pp. 189–190)]] |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch02|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]析康德鉴赏判断；[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析黑格尔真理批评；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]析海德格尔与伽达默尔对主观化的拆解（pp. 187–190）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch02|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]析康德鉴赏判断；[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析黑格尔批评；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析尼采趣味复兴悖论；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]析海德格尔与伽达默尔拆解。
