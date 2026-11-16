@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "VALIDATION",
+      "path": "file:/Users/shaoyangwu/Documents/zhangyue/VALIDATION.md"
+    },
+    {
       "basename": "Argument_Hammermeister_2002_Cambridge_Ch06",
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Reversed Ventriloquism",
       "path": "wiki/concepts/political-economy-geopolitics/Reversed Ventriloquism.md"
-    },
-    {
-      "basename": "Argument_Anderson_2016_Verso_Ch06",
-      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch06.md"
     }
   ],
   "omittedPaths": [],
