@@ -15701,6 +15701,8 @@
     "Manlove (2013)": "Manlove, 2013",
     "Manlove, 2007": "Manlove, 2007",
     "Manlove, 2013": "Manlove, 2013",
+    "Mann (1947)": "Mann, 1947",
+    "Mann, 1947": "Mann, 1947",
     "Manners (2009)": "Manners, 2009",
     "Manners, 2009": "Manners, 2009",
     "Manning & Wong (2019)": "Manning & Wong, 2019",
@@ -142567,6 +142569,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The impact of extracurricular athletic activities on academic achievement, disciplinary referrals, and school attendance among Hispanic female 11th grade students"
+    },
+    "Mann, 1947": {
+      "aliases": [
+        "Mann, 1947",
+        "Mann (1947)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Mann, 1947"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Faust.md"
+      ],
+      "title": ""
     },
     "Manners, 2009": {
       "aliases": [

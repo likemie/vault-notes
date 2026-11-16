@@ -6,7 +6,7 @@ aliases:
 summary: "阿多诺与霍克海默批判理论的核心概念，指全面社会通过工业化批量生产伪艺术商品、制造虚假需求并以消遣消解批判思维的文化控制机制。"
 type: concept
 domain: "educational-philosophy"
-related_count: 0
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
