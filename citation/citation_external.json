@@ -27615,7 +27615,9 @@
     "哈蒂与齐勒 (2017)": "哈蒂与齐勒, 2017",
     "哈蒂与齐勒, 2017": "哈蒂与齐勒, 2017",
     "哈贝马斯 (1972)": "哈贝马斯, 1972",
+    "哈贝马斯 (1985)": "哈贝马斯, 1985",
     "哈贝马斯, 1972": "哈贝马斯, 1972",
+    "哈贝马斯, 1985": "哈贝马斯, 1985",
     "哲学学士 (1951)": "哲学学士, 1951",
     "哲学学士, 1951": "哲学学士, 1951",
     "哲学硕士与博士 (1955)": "哲学硕士与博士, 1955",
@@ -31742,6 +31744,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md",
+        "wiki/concepts/educational-philosophy/Aestheticization of Philosophy.md",
         "wiki/concepts/epistemology/Perspectivism.md",
         "wiki/theories/educational-philosophy/Nietzsche's Aesthetics.md"
       ],
@@ -101532,6 +101535,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md",
+        "wiki/concepts/educational-philosophy/Aestheticization of Philosophy.md",
         "wiki/theories/educational-philosophy/Luhmann's Systems Theory.md"
       ],
       "title": ""
@@ -106660,6 +106664,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md",
+        "wiki/concepts/educational-philosophy/Aestheticization of Philosophy.md",
         "wiki/concepts/epistemology/Perspectivism.md"
       ],
       "title": ""
@@ -119768,6 +119773,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md",
+        "wiki/concepts/educational-philosophy/Aestheticization of Philosophy.md",
         "wiki/concepts/epistemology/Perspectivism.md",
         "wiki/theories/educational-philosophy/Nietzsche's Aesthetics.md"
       ],
@@ -144054,7 +144060,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md"
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md",
+        "wiki/concepts/educational-philosophy/Aestheticization of Philosophy.md"
       ],
       "title": ""
     },
@@ -157124,7 +157131,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md"
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch07.md",
+        "wiki/concepts/educational-philosophy/Aestheticization of Philosophy.md"
       ],
       "title": ""
     },
@@ -228897,6 +228905,21 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02.md",
         "wiki/theories/educational-philosophy/Critical Theory.md"
+      ],
+      "title": ""
+    },
+    "哈贝马斯, 1985": {
+      "aliases": [
+        "哈贝马斯, 1985",
+        "哈贝马斯 (1985)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "哈贝马斯, 1985"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Aestheticization of Philosophy.md"
       ],
       "title": ""
     },
