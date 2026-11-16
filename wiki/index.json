@@ -4780,6 +4780,17 @@
     ]
   },
   {
+    "title": "Artistic Desublimation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Artistic Desublimation.md",
+    "aliases": [
+      "艺术去升华",
+      "反艺术",
+      "Anti-Art",
+      "Antiart"
+    ]
+  },
+  {
     "title": "Asceticism",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Asceticism.md",
@@ -6002,6 +6013,16 @@
       "paradigm war",
       "范式之争",
       "quantitative-qualitative debate"
+    ]
+  },
+  {
+    "title": "Parteilichkeit",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Parteilichkeit.md",
+    "aliases": [
+      "党派性",
+      "党性",
+      "Partisanship"
     ]
   },
   {
@@ -23095,6 +23116,16 @@
     "path": "wiki/theories/educational-philosophy/Social Realism.md",
     "aliases": [
       "社会实在论"
+    ]
+  },
+  {
+    "title": "Socialist Realism",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Socialist Realism.md",
+    "aliases": [
+      "社会主义现实主义",
+      "Orthodox Marxist Aesthetics",
+      "正统马克思主义美学"
     ]
   },
   {
@@ -41861,6 +41892,16 @@
       "埃克蜂群观测",
       "埃克蜂群",
       "Eck Swarm"
+    ],
+    "subtype": "event"
+  },
+  {
+    "title": "Expressionism Debate",
+    "type": "fact",
+    "path": "wiki/facts/germany/Expressionism Debate.md",
+    "aliases": [
+      "表现主义论战",
+      "Expressionismusdebatte"
     ],
     "subtype": "event"
   },

@@ -21181,6 +21181,8 @@
     "Rømer, 2019": "Rømer, 2019",
     "Rücker & Becker-Genschow (2025)": "Rücker & Becker-Genschow, 2025",
     "Rücker & Becker-Genschow, 2025": "Rücker & Becker-Genschow, 2025",
+    "Rüdiger Bubner (1973)": "Rüdiger Bubner, 1973",
+    "Rüdiger Bubner, 1973": "Rüdiger Bubner, 1973",
     "Rüdiger Fahlenbrach (2009)": "Rüdiger Fahlenbrach, 2009",
     "Rüdiger Fahlenbrach, 2009": "Rüdiger Fahlenbrach, 2009",
     "SAMSUNG (2023)": "SAMSUNG, 2023",
@@ -182660,6 +182662,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Computers in Human Behavior Reports/Argument_Liu_2026_CHBR.md"
+      ],
+      "title": ""
+    },
+    "Rüdiger Bubner, 1973": {
+      "aliases": [
+        "Rüdiger Bubner, 1973",
+        "Rüdiger Bubner (1973)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rüdiger Bubner, 1973"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/educational-philosophy/Socialist Realism.md"
       ],
       "title": ""
     },

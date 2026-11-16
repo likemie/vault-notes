@@ -46,13 +46,16 @@ related_concepts:
   - "[[Subjectivism]]"
   - "[[Aestheticism]]"
   - "[[Kunstformen]]"
+  - "[[Parteilichkeit]]"
   - "[[Natural Beauty]]"
   - "[[Ontology]]"
+  - "[[Artistic Desublimation]]"
   - "[[Constructivist Paradigm]]"
 related_theories:
   - "[[Cassirer's Aesthetics]]"
   - "[[Lukács's Aesthetics]]"
   - "[[Marcuse's Aesthetics]]"
+  - "[[Socialist Realism]]"
   - "[[Phenomenology]]"
   - "[[Schiller's Theory of Drives]]"
 related_methods:
@@ -85,12 +88,13 @@ related_persons:
   - "[[Alexander Gottlieb Baumgarten]]"
 related_facts:
   - "[[Philosophy of Art]]"
+  - "[[Expressionism Debate]]"
   - "[[Research in Schools Evaluation]]"
 related_arguments: []
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: "2026-11-15"
+updated: 2026-11-16
 ---
 
 ---
@@ -204,8 +208,8 @@ updated: "2026-11-15"
 > > [!theory-components] [[Lukács's Aesthetics|卢卡奇美学]]（《审美的特性》，1963）的四大核心支柱
 > > - **艺术摹仿与科学摹仿之分**
 > >   科学摹仿是去人类中心化的，必须将现象与本质整齐分离并由普遍律则支配个别；艺术摹仿则维持现象与本质显而易见的感性不可分性，遵循亚里士多德传统始终通过个体与个体命运来展现人类生活，其涵盖范围不限于叙事文学，亦包括音乐与绘画等门类（pp. 163, 236–237 n.23）。
-> > - **[[Typicality|典型性]]（*Besonderheit*）与党性（*Parteilichkeit*）**
-> >   典型性统一孤立个别与抽象普遍，使艺术得以摹仿社会与自然的新陈代谢（*Stoffwechsel*）；艺术摹仿依据历史功能分析对现实特征进行选择、评判并剔除异己粗糙面（即社会主义现实主义的党性原则），从而与拜物教式停留在表面事实的自然主义截然有别（pp. 163–164）。
+> > - **[[Typicality|典型性]]（*Besonderheit*）与[[Parteilichkeit|党派性]]（*Parteilichkeit*）**
+> >   典型性统一孤立个别与抽象普遍，使艺术得以摹仿社会与自然的新陈代谢（*Stoffwechsel*）；艺术摹仿依据历史功能分析对现实特征进行选择、评判并剔除异己粗糙面（即[[Socialist Realism|社会主义现实主义]]的党派性原则），从而与拜物教式停留在表面事实的自然主义截然有别（pp. 163–164）。
 > > - **作为克服异化之自觉劳动的艺术**
 > >   资本主义劳动产物因工人既无法掌控生产过程也无法占有剩余价值而异化；艺术则是更高级、更自觉的劳动形式，使主体经历自我意识进步所需的对象化并完成黑格尔《精神[[Phenomenology|现象学]]》意义上的异化扬弃（*Aufhebung*），借由完整的人（*der ganze Mensch*）向人的完整（*der Mensch ganz*）的转化克服人与历史及自身的疏离（pp. 164–165）。
 > > - **[[Gotthold Ephraim Lessing|莱辛]]式理性[[Catharsis|卡塔西斯]]与人类利益关切**
@@ -216,7 +220,7 @@ updated: "2026-11-15"
 > [!sub-claim] 2. 他把[[Natural Beauty|自然美]]和现代派全盘踢出大门，又让马克思主义理论抢走了艺术的独立地位
 >
 > > [!case] 表现主义论战、现代主义混同与[[Theodor Adorno|阿多诺]]的强制和解批评
-> > - **表现主义论战与现代主义混同** 1930 年代的表现主义论战中，卢卡奇与日后担任东德文化部长的约翰内斯·R·贝歇尔（Johannes R. Becher）一道批评布莱希特（Bertolt Brecht）、[[Walter Benjamin|瓦尔特·本雅明]]（Walter Benjamin）与恩斯特·布洛赫（Ernst Bloch），指责表现主义具有辩护性与颓废根基。卢卡奇将现代主义、颓废派与先锋派混为一谈，用以统称自然主义、象征主义与表现主义，忽视了现代主义作为上位文学史范畴的谱系事实——他本人推崇为真正先锋派的托马斯·曼（Thomas Mann）与高尔基（Maxim Gorki）同样属于现代主义（p. 167）。
+> > - **[[Expressionism Debate|表现主义论战]]与现代主义混同** 1930 年代的表现主义论战中，卢卡奇与日后担任东德文化部长的约翰内斯·R·贝歇尔（Johannes R. Becher）一道批评布莱希特（Bertolt Brecht）、[[Walter Benjamin|瓦尔特·本雅明]]（Walter Benjamin）与恩斯特·布洛赫（Ernst Bloch），指责表现主义具有辩护性与颓废根基。卢卡奇将现代主义、颓废派与先锋派混为一谈，用以统称自然主义、象征主义与表现主义，忽视了现代主义作为上位文学史范畴的谱系事实——他本人推崇为真正先锋派的托马斯·曼（Thomas Mann）与高尔基（Maxim Gorki）同样属于现代主义（p. 167）。
 > > - **现实主义重定与现代派贬斥** 卢卡奇把现实主义重新界定为展现客观社会总体的艺术实践，借此贬斥普鲁斯特、卡夫卡、贝克特与乔伊斯等现代主义作家滞留于直接表象与私人视角，只能提供形式趣味而无力触及历史客观力量（p. 167）。
 > > - **阿多诺的强制和解批评及其限度** 阿多诺在《强制的和解》（*Erpresste Versöhnung*, Adorno, 1977）中指出，卢卡奇对现代主义的理解狭隘、误导且经常自相矛盾，其对社会主义现实主义的鼓吹（如在《审美的特性》中反复赞扬[[Anton Makarenko|马卡连柯]]）实质上沦为对平庸写作与苏联现实的粉饰；不过阿多诺指责卢卡奇忽视文学技巧的核心地位失之偏颇，因为卢卡奇在节奏、几何、比例与装饰等维度上建立了一套强调客观引导构图的形式[[Ontology|本体论]]（p. 168）。
 >
@@ -233,7 +237,7 @@ updated: "2026-11-15"
 > [!sub-claim] 1. 社会越是什么都宽容就越难反抗，街头反艺术一贴近生活就失去了批判力量
 >
 > > [!tension] 反艺术去升华（1969）与重返自律伟大艺术（1972/1978）
-> > - **力比多感性与反艺术阶段** 在早期《单向度的人》（1966）中，马尔库塞越过康德回溯[[Alexander Gottlieb Baumgarten|鲍姆嘉通]]，将审美感性界定为构想无恐惧生活图景与非压抑社会的力比多力量（p. 170）。在深度参与 1960 年代末学生反叛时期（《论解放》，1969），他批判传统艺术仅在幻觉维度达成虚假和解，令现实中的恐惧与挫败在短暂卡塔西斯后原封不动，并被[[Repressive Tolerance|虚假宽容]]的社会收编，因而主张以无序、非礼、滑稽的艺术去升华和反艺术行动释放抗争本能（pp. 170–171）。
+> > - **力比多感性与反艺术阶段** 在早期《单向度的人》（1966）中，马尔库塞越过康德回溯[[Alexander Gottlieb Baumgarten|鲍姆嘉通]]，将审美感性界定为构想无恐惧生活图景与非压抑社会的力比多力量（p. 170）。在深度参与 1960 年代末学生反叛时期（《论解放》，1969），他批判传统艺术仅在幻觉维度达成虚假和解，令现实中的恐惧与挫败在短暂卡塔西斯后原封不动，并被[[Repressive Tolerance|虚假宽容]]的社会收编，因而主张以无序、非礼、滑稽的[[Artistic Desublimation|艺术去升华]]和反艺术行动释放抗争本能（pp. 170–171）。
 > > - **重返伟大艺术的否定力量** 短短数年后（《反革命与造反》，1972；《审美之维》，1978），马尔库塞认识到激进反艺术试图弥合艺术与现实的差距，反而抽空了艺术否定现实的支点。在取消权威父权形象却施行[[Repressive Tolerance|压抑性容忍]]（一切都被允许但一切都无关紧要）的发达资本主义社会，唯有保持形式自律的伟大艺术才是颠覆既有知觉、控诉既成现实并显现解放图景的最后否定性依托（p. 171）。
 
 > [!sub-claim] 2. 艺术揭不开经济结构但能改造人的欲望，只要人类还会死去美就不会消失
