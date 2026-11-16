@@ -461,6 +461,8 @@
     "Alberts et al., 2014": "Alberts et al., 2014",
     "Alberts, 2011": "Alberts, 2011",
     "Alberts, 2015": "Alberts, 2015",
+    "Albrecht Wellmer (1983)": "Albrecht Wellmer, 1983",
+    "Albrecht Wellmer, 1983": "Albrecht Wellmer, 1983",
     "Alchin (2003a)": "Alchin, 2003a",
     "Alchin (2003b)": "Alchin, 2003b",
     "Alchin, 2003a": "Alchin, 2003a",
@@ -9977,6 +9979,8 @@
     "Güler et al., 2021": "Güler et al., 2021",
     "Gülmezoglu et al. (2007)": "Gülmezoglu et al., 2007",
     "Gülmezoglu et al., 2007": "Gülmezoglu et al., 2007",
+    "Günter Figal (1977)": "Günter Figal, 1977",
+    "Günter Figal, 1977": "Günter Figal, 1977",
     "Gürdogan-Bayir & Bozkurt (2018)": "Gürdogan-Bayir & Bozkurt, 2018",
     "Gürdogan-Bayir & Bozkurt, 2018": "Gürdogan-Bayir & Bozkurt, 2018",
     "Gürsoy et al. (2023)": "Gürsoy et al., 2023",
@@ -12446,6 +12450,8 @@
     "Jordan-Black, 2005": "Jordan-Black, 2005",
     "Jose et al. (2025)": "Jose et al., 2025",
     "Jose et al., 2025": "Jose et al., 2025",
+    "Josef Früchtl (1986)": "Josef Früchtl, 1986",
+    "Josef Früchtl, 1986": "Josef Früchtl, 1986",
     "Joseph (1999)": "Joseph, 1999",
     "Joseph Lauwerys (1957)": "Joseph Lauwerys, 1957",
     "Joseph Lauwerys, 1957": "Joseph Lauwerys, 1957",
@@ -26401,6 +26407,8 @@
     "Wolff-Grosser, 2018": "Wolff-Grosser, 2018",
     "Wolfgang Mitter (2009)": "Wolfgang Mitter, 2009",
     "Wolfgang Mitter, 2009": "Wolfgang Mitter, 2009",
+    "Wolfgang Sandner (1979)": "Wolfgang Sandner, 1979",
+    "Wolfgang Sandner, 1979": "Wolfgang Sandner, 1979",
     "Wolfgang Streeck & Kathleen Thelen (2005)": "Wolfgang Streeck & Kathleen Thelen, 2005",
     "Wolfgang Streeck & Kathleen Thelen, 2005": "Wolfgang Streeck & Kathleen Thelen, 2005",
     "Wolfgang Streeck (2009)": "Wolfgang Streeck, 2009",
@@ -31439,6 +31447,21 @@
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Sinicisation.md",
         "wiki/theories/political-economy-geopolitics/Necropolitics.md"
+      ],
+      "title": ""
+    },
+    "Albrecht Wellmer, 1983": {
+      "aliases": [
+        "Albrecht Wellmer, 1983",
+        "Albrecht Wellmer (1983)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Albrecht Wellmer, 1983"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch10.md"
       ],
       "title": ""
     },
@@ -101094,6 +101117,21 @@
       ],
       "title": ""
     },
+    "Günter Figal, 1977": {
+      "aliases": [
+        "Günter Figal, 1977",
+        "Günter Figal (1977)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Günter Figal, 1977"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch10.md"
+      ],
+      "title": ""
+    },
     "Gürdogan-Bayir & Bozkurt, 2018": {
       "aliases": [
         "Gürdogan-Bayir & Bozkurt, 2018",
@@ -119135,6 +119173,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/AI & SOCIETY/Argument_Du_Yuan_2026_AIS.md"
+      ],
+      "title": ""
+    },
+    "Josef Früchtl, 1986": {
+      "aliases": [
+        "Josef Früchtl, 1986",
+        "Josef Früchtl (1986)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Josef Früchtl, 1986"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch10.md"
       ],
       "title": ""
     },
@@ -220309,6 +220362,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/comparative-education/Policy Borrowing.md"
+      ],
+      "title": ""
+    },
+    "Wolfgang Sandner, 1979": {
+      "aliases": [
+        "Wolfgang Sandner, 1979",
+        "Wolfgang Sandner (1979)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Wolfgang Sandner, 1979"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch10.md"
       ],
       "title": ""
     },

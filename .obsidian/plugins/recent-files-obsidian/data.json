@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "template-argument",
+      "path": "wiki/templates/template-argument.md"
+    },
+    {
       "basename": "VALIDATION",
       "path": "file:/Users/shaoyangwu/Documents/zhangyue/VALIDATION.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Principium Individuationis",
       "path": "wiki/concepts/educational-philosophy/Principium Individuationis.md"
-    },
-    {
-      "basename": "template-argument",
-      "path": "wiki/templates/template-argument.md"
     },
     {
       "basename": "Principle of Sufficient Reason",
