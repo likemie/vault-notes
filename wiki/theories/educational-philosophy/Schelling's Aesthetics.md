@@ -52,7 +52,7 @@ related_facts:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -78,6 +78,7 @@ updated: 2026-11-15
 > - **1800 — 《先验唯心论体系》版本（认识论顶石阶段）** 艺术以[[Aesthetic Intuition|审美直观]]完成概念哲学无法独自完成的绝对者呈现，地位高于哲学概念本身，并以[[New Mythology|新神话]]完结体系。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 66, 74–75)]]
 > - **1802–1807 — 《艺术哲学》与同一哲学版本（新柏拉图主义转向）** 艺术不再是哲学体系顶石而需依赖哲学家阐释；创作主体由个体[[Genius|天才]]转向整个民族；美与[[The Sublime|崇高]]被纳入理念（*Urbild*）与混沌的形而上学框架，艺术并被赋予与宗教不可分割的纽带。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 66, 77–82)]]
 > - **后期 — 基督教《启示哲学》批判阶段** 谢林从基督教哲学立场出发，对世俗艺术创作采取审慎甚至排斥的态度，视之为“世俗与异教的”。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 66)]]
+> - **20 世纪 — 现象学与诠释学的隐性复兴** [[Martin Heidegger|海德格尔]]与[[Hans-Georg Gadamer|伽达默尔]]在表面拒斥唯心论的同时，重续谢林 1800 年《体系》将艺术确立为高于命题科学的真理器官之范式。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 173, 185–189, 193)]]
 
 ---
 
@@ -147,4 +148,4 @@ updated: 2026-11-15
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — 第 4 章全面重构谢林从《先验唯心论体系》到《艺术哲学》及《论造型艺术与自然的关系》的美学演进，评估其在认识论、本体论与实践维度上的得失。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]重构谢林美学从《体系》到《艺术哲学》的演进；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]析海德格尔与伽达默尔对谢林范式的隐性重续（pp. 173, 185–189, 193）。
