@@ -4680,6 +4680,16 @@
     ]
   },
   {
+    "title": "Aesthetic Nondifferentiation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Aesthetic Nondifferentiation.md",
+    "aliases": [
+      "审美无区分",
+      "ästhetische Nichtunterscheidung",
+      "Aesthetic Non-differentiation"
+    ]
+  },
+  {
     "title": "Aesthetic Semblance",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Aesthetic Semblance.md",
@@ -5489,6 +5499,16 @@
     "path": "wiki/concepts/educational-philosophy/Freedom of the Learner.md",
     "aliases": [
       "学习者的自由"
+    ]
+  },
+  {
+    "title": "Fusion of Horizons",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Fusion of Horizons.md",
+    "aliases": [
+      "视域融合",
+      "Horizontverschmelzung",
+      "Melting Together of Horizons"
     ]
   },
   {
@@ -6588,6 +6608,16 @@
     "path": "wiki/concepts/educational-philosophy/Whole Sustainability.md",
     "aliases": [
       "整体可持续性"
+    ]
+  },
+  {
+    "title": "World and Earth",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/World and Earth.md",
+    "aliases": [
+      "世界与大地",
+      "Welt und Erde",
+      "World and Earth Strife"
     ]
   },
   {
@@ -22789,6 +22819,16 @@
     ]
   },
   {
+    "title": "Gadamer's Aesthetics",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Gadamer's Aesthetics.md",
+    "aliases": [
+      "伽达默尔美学",
+      "伽达默尔艺术哲学",
+      "Gadamer's Philosophy of Art"
+    ]
+  },
+  {
     "title": "Goldman's Discrimination Theory of Knowledge",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Goldman's Discrimination Theory of Knowledge.md",
@@ -22808,6 +22848,16 @@
       "黑格尔美学",
       "黑格尔艺术哲学",
       "Hegel's Philosophy of Art"
+    ]
+  },
+  {
+    "title": "Heidegger's Aesthetics",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Heidegger's Aesthetics.md",
+    "aliases": [
+      "海德格尔美学",
+      "海德格尔艺术哲学",
+      "Heidegger's Philosophy of Art"
     ]
   },
   {
@@ -32540,6 +32590,16 @@
     "aliases": [
       "Amaral, M. P. D.",
       "马塞洛·帕雷拉·多·阿马拉尔"
+    ]
+  },
+  {
+    "title": "Martin Heidegger",
+    "type": "person",
+    "path": "wiki/persons/germany/Martin Heidegger.md",
+    "aliases": [
+      "马丁·海德格尔",
+      "海德格尔",
+      "Heidegger, M."
     ]
   },
   {
@@ -52501,6 +52561,11 @@
     "title": "Argument_Hammermeister_2002_Cambridge_Ch08",
     "type": "argument",
     "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch08.md"
+  },
+  {
+    "title": "Argument_Hammermeister_2002_Cambridge_Ch09",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch09.md"
   },
   {
     "title": "Argument_Karp_Zamiska_2025_Technological_Republic",

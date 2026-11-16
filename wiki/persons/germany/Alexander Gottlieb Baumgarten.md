@@ -50,7 +50,7 @@ related_facts:
 confidence: high
 status: draft
 created: "2026-11-14"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -95,12 +95,12 @@ updated: 2026-11-15
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 通过抬升“清晰而混乱的认识”所蕴含的丰富性，直接预示了[[Immanuel Kant|伊曼努尔·康德]]（Immanuel Kant）的[[Aesthetic Idea|审美理念]]（aesthetic idea）；其借用莱布尼茨单子镜像理论解释艺术美，也在 20 世纪[[Theodor Adorno|阿多诺]]（Theodor W. Adorno）的审美单子思想与非同一性概念中获得回响。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 11, 13)]]
+> - **理论路径** 通过抬升“清晰而混乱的认识”所蕴含的丰富性，直接预示了[[Immanuel Kant|伊曼努尔·康德]]（Immanuel Kant）的[[Aesthetic Idea|审美理念]]（aesthetic idea）；其借用莱布尼茨单子镜像理论解释艺术美，也在 20 世纪[[Theodor Adorno|阿多诺]]（Theodor W. Adorno）的审美单子思想与非同一性概念中获得回响。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 11, 13)]] 此外，[[Herbert Marcuse|马尔库塞]]（Herbert Marcuse）在《单向度的人》（1966）中越过康德回溯鲍姆嘉通，将审美感性界定为构想无恐惧生活图景与非压抑社会的力比多力量。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, p. 170)]]
 > - **[[Poetics|诗学]]与修辞路径** 强调艺术依赖科学确立的规则，一度强化了 18 世纪德国的规则诗学（*Regelpoetik*），直至[[Sturm und Drang|狂飙突进运动]]兴起[[Genius|天才]]诗学（*Geniepoetik*）将其取代。
 > - **情感与记忆路径** 提出“审美热情（aesthetic enthusiasm）”，重新打通情感与认识的关联，并触及非自愿记忆，这一思路在普鲁斯特（Marcel Proust）的非自愿记忆（*mémoire involontaire*）概念中得到延续。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 12)]]
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002)]] — 将鲍姆嘉通定位为德国美学传统的奠基者，剖析其试图加固理性主义却无意中瓦解理性主义霸权的内在张力。
+> [!evidence-grid] 相关研究索引
+> - [[Argument_Hammermeister_2002_Cambridge_Ch01|Hammermeister (2002, Ch. 1, 8)]] — 定位鲍姆嘉通为德国美学奠基者（pp. 3–13），并述[[Herbert Marcuse|马尔库塞]]在《单向度的人》中越过康德回溯其感性定义（p. 170）。
 
 ---
 

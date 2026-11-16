@@ -107,10 +107,10 @@ updated: 2026-11-16
 
 > [!influence-path] 影响路径
 > - **艺术创作与现代主义传播** 深刻塑造了 19 至 20 世纪跨语种作家、画家与作曲家的自我理解，包括弗里德里希·黑贝尔（Friedrich Hebbel）、奥古斯特·斯特林堡（August Strindberg）、托马斯·哈代（Thomas Hardy）、埃米尔·左拉（Émile Zola）、马塞尔·普鲁斯特（Marcel Proust）、托马斯·曼（Thomas Mann）、埃德加·爱伦·坡（Edgar Allan Poe）、夏尔·波德莱尔（Charles Baudelaire）、斯特凡·马拉美（Stéphane Mallarmé）、约瑟夫·康拉德（Joseph Conrad）、安德烈·纪德（André Gide）、罗伯特·穆齐尔（Robert Musil）、塞缪尔·贝克特（Samuel Beckett）、W. B. 叶芝（W. B. Yeats）、豪尔赫·路易斯·博尔赫斯（Jorge L. Borges）、托马斯·伯恩哈德（Thomas Bernhard）、阿尔诺·施密特（Arno Schmidt）、欧仁·德拉克罗瓦（Eugène Delacroix）、理查德·瓦格纳（Richard Wagner）、阿诺德·勋伯格（Arnold Schönberg）、谢尔盖·普罗科菲耶夫（Sergey Prokofiev）与尼古拉·里姆斯基-科萨科夫（Nikolay Rimsky-Korsakoff）。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, p. 111)]]
-> - **哲学美学传统** 在学术哲学界影响相对孤立，主要通过[[Friedrich Nietzsche|弗里德里希·尼采]]（Friedrich Nietzsche）的批判性改写延续生命力，同时其重主观体验轻作品客体的倾向提前预示了 19 世纪下半叶印象派绘画的主观化浪潮。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 111, 126)]]
+> - **哲学美学传统** 在学术哲学界影响相对孤立，主要通过[[Friedrich Nietzsche|弗里德里希·尼采]]（Friedrich Nietzsche）的批判性改写延续生命力：尼采在《悲剧的诞生》中借用叔本华的本体不可知论限制科学乐观主义，晚期则表面抨击康德无利害、实则瞄准叔本华将艺术视为逃离意志之避世万灵药的立场；同时其重主观体验轻作品客体的倾向提前预示了 19 世纪下半叶印象派绘画的主观化浪潮。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 111, 126)]]; [[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 138, 141–142, 146)]]
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch06|Hammermeister (2002)]] — 将叔本华定位为德国唯心论美学的怀疑论终结者，系统重构其意志形而上学、审美静观、天才论、美与[[The Sublime|崇高]]及艺术门类等级中的内在张力与历史转向。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch06|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch06|第 6 章]]定位其为唯心论美学怀疑论终结者并剖析内在张力；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析尼采早晚期对其认识论与避世艺术观的借用与反击。
 
 ---
 

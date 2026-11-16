@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -68,6 +68,9 @@ updated: 2026-11-15
 >
 > > [!claim] Lukács, G.
 > > **艺术摹仿、典型性与党性原则** 在《审美的特性》（1963）中，卢卡奇构建了系统化的艺术摹仿论，区分“去人类中心化”且分离现象与本质的科学摹仿，以及保持现象与本质感性不可分、以个体命运展现[[Typicality|典型性]]的艺术摹仿。艺术摹仿基于对现实特征的选择与正负评价（即社会主义现实主义的“党性” *Parteilichkeit*），旨在清除现实的疏离与粗糙面向，呈现出批判性的自主真实。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 163–164)]]
+>
+> > [!claim] Heidegger, M. & Gadamer, H.-G.
+> > **非摹仿的真理敞开与毕达哥拉斯式秩序重释** 20 世纪现象学与诠释学美学对摹仿采取了两条差异鲜明的路径：[[Martin Heidegger|马丁·海德格尔]]（Martin Heidegger）以希腊神庙为例彻底拒斥摹仿论，主张艺术让事物“变得可见”（如保罗·克利与康拉德·菲德勒所述），从而使新事物进入存在；[[Hans-Georg Gadamer|伽达默尔]]则在后期《艺术与模仿》中转向毕达哥拉斯传统，将摹仿重释为世界秩序、音乐和谐与平衡心灵的三重秩序见证，借此赋予艺术对抗现代生活碎片化的伦理与共同体功能。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 178–180, 191–192)]]
 
 ---
 
@@ -97,4 +100,4 @@ updated: 2026-11-15
 ---
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]梳黑格尔反摹仿三重论证（pp. 95–96）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析卡西尔重读柏拉图与卢卡奇艺术摹仿论（pp. 157, 163–164, 169）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]梳黑格尔反摹仿（pp. 95–96）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析卡西尔与卢卡奇（pp. 157, 163–164）；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]析海德格尔与伽达默尔（pp. 178–180, 191–192）。

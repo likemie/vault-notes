@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-14"
-updated: 2026-11-14
+updated: 2026-11-16
 ---
 
 ---
@@ -70,7 +70,7 @@ updated: 2026-11-14
 
 ---
 
-> [!claim] 核心思想
+> [!person-thesis] 主张一｜以逻辑-本体论等价性为基石，将美与艺术置于清晰而混乱的认知层级
 > 莱布尼茨以世界作为“上帝的创造（*creatio Dei*）”为神学基石，主张现实结构与逻辑、物理和数学所表达的理性法则完全一致，即逻辑-本体论等价性（logico-ontological equivalence）。在这一层级化的认知谱系中，艺术与美被归入“[[Sensual Cognition|清晰而混乱的认识]]”，仅是人类不完美认识能力的副产品；拥有瞬间直观全知的上帝心智中并不存在美的范畴。这一方面为美提供了认知谱系中的定位，另一方面也促使鲍姆嘉通通过重估“混乱”的积极价值来为感性辩护。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 5–6)]]
 
 ---

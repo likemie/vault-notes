@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-14
+updated: 2026-11-16
 ---
 
 ---
@@ -113,13 +113,14 @@ updated: 2026-11-14
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 开创精神分析学派，确立潜意识动力学、本能冲动与人格三元结构学说，深刻重塑了 20 世纪西方哲学、心理学、文学批评与批判理论。
+> - **理论路径** 开创精神分析学派，确立潜意识动力学、本能冲动与人格三元结构学说，深刻重塑了 20 世纪西方哲学、心理学、文学批评与批判理论；法兰克福学派学者[[Herbert Marcuse|马尔库塞]]（Herbert Marcuse）即尝试将其冲动学说与古典艺术总体性结合，并质疑其预设冲动具有超历史固定本性的观点（[[Argument_Hammermeister_2002_Cambridge_Ch08|Hammermeister, 2002, pp. 169–172]]）。
 > - **文化批判路径** 将超验宗教经验与神圣戒律解释为神经症式的本能压抑与父权依恋幻觉，深刻塑造了现代世俗精英阶层的不信文化与怀疑主义倾向。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 72)]]
 > - **社会化与教育哲学路径** 弗洛伊德在《文明及其缺憾》（1930）中阐发的个体本能冲动与文明秩序张力，被教育政策学者（[[Argument_Sahlgren_2015_CPS|Sahlgren, 2015, pp. 64–66]]）用于论证课堂维持教师权威与显性规则的必要性——未成年人秩序感与认知规范的养成必须依赖对外部权威的内化。
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 探讨弗洛伊德对宗教经验的心理还原论对现代怀疑主义的影响（第 6 章，p. 72），并阐发其对人类心灵审问的认知探索价值（第 14 章，p. 167）。
 > - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 结合弗洛伊德《文明及其缺憾》论述规则权威内化对自律的心理建构作用，剖析去权威化教学对秩序意识的瓦解（pp. 64–66）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch08|Hammermeister (2002, Ch. 8)]] — 述[[Herbert Marcuse|马尔库塞]]结合弗洛伊德冲动学说与古典艺术总体性，并挑战其超历史固定本性预设（pp. 169–172）。
 
 ---
 

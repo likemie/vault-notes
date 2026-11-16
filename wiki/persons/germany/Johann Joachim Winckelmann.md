@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -48,15 +48,16 @@ updated: 2026-11-15
 
 ---
 
-> [!claim] 核心思想与[[Hegel's Aesthetics|黑格尔美学]]关联
+> [!person-thesis] 主张一｜以《古代艺术史》开创历史化艺术研究，为黑格尔艺术哲学提供先导
 > 尽管[[Georg Wilhelm Friedrich Hegel|黑格尔]]常被赋予“艺术史之父”的荣誉称号，但从史学准确性来看，温克尔曼于 1764 年出版的《古代艺术史》是不可或缺的先驱著作，黑格尔本人在建构自己的历史化[[Philosophy of Art|艺术哲学]]时也对其有所借鉴。随后黑格尔在 19 世纪初完成从形式美学向内容美学的转向，直接启发了文学史、建筑史与音乐史等现代人文历史学科的建立。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 88)]]
 
 ---
 
 > [!person-network] 关系网络
-> - **后世承接** [[Georg Wilhelm Friedrich Hegel|黑格尔]]：黑格尔在借鉴温克尔曼《古代艺术史》的基础上，将内容美学与历史发展原则结合起来，推动 19 世纪初艺术史诸学科成形。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 88)]]
+> - **后世承接** [[Georg Wilhelm Friedrich Hegel|黑格尔]] — 黑格尔在借鉴温克尔曼《古代艺术史》的基础上，将内容美学与历史发展原则结合起来，推动 19 世纪初艺术史诸学科成形。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 88)]]
+> - **后世颠覆** [[Friedrich Nietzsche|弗里德里希·尼采]]（Friedrich Nietzsche） — 尼采在《悲剧的诞生》（1872）中质疑温克尔曼对希腊静穆的崇拜，主张希腊的平静伟大实为人类直面生存恐怖时构建的奥林匹斯防御梦境。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, p. 139)]]
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002, Ch. 5)]]：指出温克尔曼 1764 年《古代艺术史》作为黑格尔“艺术史之父”称号的重要先驱地位与思想借鉴来源（p. 88）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]定位其 1764 年《古代艺术史》对黑格尔历史化艺术哲学的先驱意义；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析尼采对希腊静穆理想的颠覆（p. 139）。

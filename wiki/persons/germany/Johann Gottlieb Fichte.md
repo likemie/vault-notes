@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -59,8 +59,13 @@ updated: 2026-11-15
 
 ---
 
-> [!claim] 核心思想
+> [!person-thesis] 核心思想
 > 面对[[Immanuel Kant|康德]]（Immanuel Kant）留下的物自体与现象界、自然与自由二元分裂，哲学必须把康德仅视作“统觉的先验综合”之最高点进一步提升为奠基性的“纯粹自我”（pure ego）；哲学家通过[[Intellectual Intuition|理智直观]]直接观照自我设定自身的事行，由此在主客分裂之前奠立知识的最高统一原则。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 64, 68–69)]]
+
+---
+
+> [!evidence-grid] 相关研究索引
+> - [[Argument_Hammermeister_2002_Cambridge_Ch03|Hammermeister (2002, Ch. 3, 4, 8)]] — 述席勒对费希特三元冲动模型的改造（p. 51）、《知识学》与理智直观奠基（pp. 64, 68–69），以及马尔库塞对其冲动超历史固定本性预设的对照批评（pp. 170, 172）。
 
 ---
 

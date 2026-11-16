@@ -47,9 +47,9 @@ updated: 2026-11-16
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 20 世纪德国哲学家，当代哲学诠释学（philosophical hermeneutics）的核心奠基者。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 97)]]
-> - **核心角色** 在现代[[Philosophical Aesthetics|美学]]中直接承接并改造[[Georg Wilhelm Friedrich Hegel|黑格尔]]（Georg Wilhelm Friedrich Hegel）的艺术对话原则与[[End of Art|艺术终结论]]，把艺术作品从单一历史阶段和体系附庸中解放出来。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 89, 97, 103, 105)]]
-> - **代表贡献** 提出“一切艺术的本质同时性”，将艺术品的对话叩问发展为哲学诠释学与接受美学，并将黑格尔所说的现代创作自由界定为“艺术作为艺术的解放”。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 89, 97, 103)]]
+> - **身份位置** 20 世纪德国哲学家（1900–2002），[[Martin Heidegger|马丁·海德格尔]]（Martin Heidegger）的学生，当代[[Philosophical Hermeneutics|哲学诠释学]]的核心奠基者。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 97)]][[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, p. 189)]]
+> - **核心角色** 在现代[[Philosophical Aesthetics|美学]]中承接并改造[[Georg Wilhelm Friedrich Hegel|黑格尔]]（Georg Wilhelm Friedrich Hegel）的艺术对话原则与海德格尔的事实性诠释学，通过批判[[Immanuel Kant|康德]]（Immanuel Kant）的主观化审美意识，将美学消融于以理解为核心的哲学诠释学。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 89, 97, 103, 105)]][[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 189–193)]]
+> - **代表贡献** 提出“一切艺术的本质同时性”、[[Aesthetic Nondifferentiation|审美无区分]]与[[Fusion of Horizons|视域融合]]，以“游戏”和毕达哥拉斯式[[Mimesis|摹仿]]建立[[Gadamer's Aesthetics|伽达默尔美学]]。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 89, 97, 103)]][[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 179, 190–192)]]
 
 > [!citation-card] 伽达默尔承接黑格尔艺术对话原则
 > 早在哲学诠释学及其分支接受美学诞生之前，黑格尔就强调了我们与艺术相遇时的对话原则，他写道：“每一件艺术作品都是与站在它面前之人的对话”（13. 341）。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 97)]]
@@ -64,13 +64,14 @@ updated: 2026-11-16
 ---
 
 > [!person-network] 关系网络
-> - **思想渊源** [[Georg Wilhelm Friedrich Hegel|黑格尔]] — 伽达默尔的哲学诠释学与“艺术作为艺术的解放”均直接承接自黑格尔美学的对话原则与艺术终结论线索。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 97, 103)]]
+> - **思想渊源** [[Georg Wilhelm Friedrich Hegel|黑格尔]]、[[Martin Heidegger|马丁·海德格尔]] — 伽达默尔的哲学诠释学同时承接自黑格尔美学的对话原则与海德格尔的事实性诠释学及艺术真理观。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 97, 103)]][[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 179, 189)]]
 > - **当代呼应与对照** [[Arthur Danto|阿瑟·丹托]]、[[Arnold Gehlen|阿诺德·盖伦]] — 三人均从黑格尔艺术终结论出发讨论现代[[Kunstformen|艺术形式]]自由，其中伽达默尔与丹托持解放取向，盖伦则诊断为“[[Post-histoire|后历史]]”混杂。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, p. 103)]]
+> - **哲学批判与对话对象** [[Immanuel Kant|康德]]、[[Plato|柏拉图]] — 伽达默尔批判康德将审美判断主观化并剥夺艺术认知地位，同时反转柏拉图对艺术本体论地位的贬低。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 189–190, 192)]]
 
 ---
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002, Ch. 5)]] — 梳理伽达默尔“一切艺术的本质同时性”、哲学诠释学对话原则及“艺术作为艺术的解放”对黑格尔美学的承接与当代转化（pp. 89, 97, 103, 105）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析黑格尔对话原则转化（pp. 89, 97, 103）；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]论审美意识批判、游戏、视域融合与秩序模仿（pp. 189–193）。
 
 ---
 
