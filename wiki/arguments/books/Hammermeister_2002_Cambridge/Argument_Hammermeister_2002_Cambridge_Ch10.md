@@ -10,6 +10,10 @@ title: "Argument_Hammermeister_2002_Cambridge_Ch10"
 argument_key: "Argument_Hammermeister_2002_Cambridge_Ch10"
 argument_display_title: "The German aesthetic tradition"
 argument_kind: "book-chapter"
+argument_related_count: 0
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#fef3c7"
 book_title: "The German Aesthetic Tradition"
 publisher: "Cambridge University Press"
 year: 2002
