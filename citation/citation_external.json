@@ -952,6 +952,8 @@
     "Anter (2016)": "Anter, 2016",
     "Anter, 2016": "Anter, 2016",
     "Anthony (2016)": "Anthony, 2016",
+    "Anthony A. Jack (2019)": "Anthony A. Jack, 2019",
+    "Anthony A. Jack, 2019": "Anthony A. Jack, 2019",
     "Anthony Biglan (1973)": "Anthony Biglan, 1973",
     "Anthony Biglan, 1973": "Anthony Biglan, 1973",
     "Anthony D. Smith (1995)": "Anthony D. Smith, 1995",
@@ -15249,7 +15251,9 @@
     "Lucangeli, 2019": "Lucangeli, 2019",
     "Lucariello (2012)": "Lucariello, 2012",
     "Lucariello, 2012": "Lucariello, 2012",
+    "Lucas (2001)": "Lucas, 2001",
     "Lucas (2006)": "Lucas, 2006",
+    "Lucas, 2001": "Lucas, 2001",
     "Lucas, 2006": "Lucas, 2006",
     "Lucas-Thompson et al. (2010)": "Lucas-Thompson et al., 2010",
     "Lucas-Thompson et al., 2010": "Lucas-Thompson et al., 2010",
@@ -27632,6 +27636,8 @@
     "岳昌君和周丽萍, 2016": "岳昌君和周丽萍, 2016",
     "岳英 (2018)": "岳英, 2018",
     "岳英, 2018": "岳英, 2018",
+    "崔盛和吴秋翔 (2018)": "崔盛和吴秋翔, 2018",
+    "崔盛和吴秋翔, 2018": "崔盛和吴秋翔, 2018",
     "布卢默 (1969)": "布卢默, 1969",
     "布卢默, 1969": "布卢默, 1969",
     "布朗等人 (1997)": "布朗等人, 1997",
@@ -27822,6 +27828,8 @@
     "桑德尔, 1998": "桑德尔, 1998",
     "桑迪福德 (1918)": "桑迪福德, 1918",
     "桑迪福德, 1918": "桑迪福德, 1918",
+    "樊小书 (2016)": "樊小书, 2016",
+    "樊小书, 2016": "樊小书, 2016",
     "欧盟 (2009)": "欧盟, 2009",
     "欧盟, 2009": "欧盟, 2009",
     "母版引入与子公司设立 (2014)": "母版引入与子公司设立, 2014",
@@ -27860,10 +27868,14 @@
     "澳大利亚, 2019": "澳大利亚, 2019",
     "熊彼特 (1942)": "熊彼特, 1942",
     "熊彼特, 1942": "熊彼特, 1942",
+    "牛新春和郑雅君 (2018)": "牛新春和郑雅君, 2018",
+    "牛新春和郑雅君, 2018": "牛新春和郑雅君, 2018",
     "牛津大学 (2005)": "牛津大学, 2005",
     "牛津大学, 2005": "牛津大学, 2005",
     "王卫东 (2019)": "王卫东, 2019",
     "王卫东, 2019": "王卫东, 2019",
+    "王小虎等 (2017)": "王小虎等, 2017",
+    "王小虎等, 2017": "王小虎等, 2017",
     "班斯立场 (2020)": "班斯立场, 2020",
     "班斯立场, 2020": "班斯立场, 2020",
     "理学硕士 (1935)": "理学硕士, 1935",
@@ -27942,6 +27954,8 @@
     "聚焦哈蒂, 2009": "聚焦哈蒂, 2009",
     "胡塞尔 (1913)": "胡塞尔, 1913",
     "胡塞尔, 1913": "胡塞尔, 1913",
+    "胡瑞文等 (2014)": "胡瑞文等, 2014",
+    "胡瑞文等, 2014": "胡瑞文等, 2014",
     "胡适 (1921)": "胡适, 1921",
     "胡适, 1921": "胡适, 1921",
     "胡鞍钢与胡联合 (2011)": "胡鞍钢与胡联合, 2011",
@@ -34948,6 +34962,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/germany/Max Weber.md"
+      ],
+      "title": ""
+    },
+    "Anthony A. Jack, 2019": {
+      "aliases": [
+        "Anthony A. Jack, 2019",
+        "Anthony A. Jack (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Anthony A. Jack, 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
       ],
       "title": ""
     },
@@ -139181,6 +139210,21 @@
       "seen_in": [],
       "title": "Meet the \"Reading Rangers\"  Curriculum for teaching comprehension strategies to urban third graders"
     },
+    "Lucas, 2001": {
+      "aliases": [
+        "Lucas, 2001",
+        "Lucas (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Lucas, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
+      ],
+      "title": ""
+    },
     "Lucas, 2006": {
       "aliases": [
         "Lucas, 2006",
@@ -228904,6 +228948,21 @@
       ],
       "title": ""
     },
+    "崔盛和吴秋翔, 2018": {
+      "aliases": [
+        "崔盛和吴秋翔, 2018",
+        "崔盛和吴秋翔 (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "崔盛和吴秋翔, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
+      ],
+      "title": ""
+    },
     "布卢默, 1969": {
       "aliases": [
         "布卢默, 1969",
@@ -230328,6 +230387,21 @@
       ],
       "title": ""
     },
+    "樊小书, 2016": {
+      "aliases": [
+        "樊小书, 2016",
+        "樊小书 (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "樊小书, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
+      ],
+      "title": ""
+    },
     "欧盟, 2009": {
       "aliases": [
         "欧盟, 2009",
@@ -230617,6 +230691,21 @@
       ],
       "title": ""
     },
+    "牛新春和郑雅君, 2018": {
+      "aliases": [
+        "牛新春和郑雅君, 2018",
+        "牛新春和郑雅君 (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "牛新春和郑雅君, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
+      ],
+      "title": ""
+    },
     "牛津大学, 2005": {
       "aliases": [
         "牛津大学, 2005",
@@ -230644,6 +230733,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/china/ECNU Declaration on Evidence-Based Research.md"
+      ],
+      "title": ""
+    },
+    "王小虎等, 2017": {
+      "aliases": [
+        "王小虎等, 2017",
+        "王小虎等 (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "王小虎等, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
       ],
       "title": ""
     },
@@ -231219,6 +231323,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/educational-philosophy/Phenomenology.md"
+      ],
+      "title": ""
+    },
+    "胡瑞文等, 2014": {
+      "aliases": [
+        "胡瑞文等, 2014",
+        "胡瑞文等 (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "胡瑞文等, 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
       ],
       "title": ""
     },

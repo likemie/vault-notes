@@ -5740,7 +5740,7 @@ Total entries: **5250**
 
 > [!index-list]- Zheng_2023_ShanghaiSanlian (2)
 > - [[Argument_Zheng_2023_ShanghaiSanlian]] — 通过跟踪访谈两所大学的 62 名毕业班学生，考察家庭背景、在校投入和工作价值信念如何影响毕业去向。
-> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch01]] — 梳理高等教育大众化与文凭通胀下求职市场化、出国潮与大学治理的双重逻辑，阐明名校迷宫的三大出口及其隐性兑换规则。
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch01]] — 基于高等教育大众化与体制转轨背景，剖析一流大学内部立德树人与外部市场化就业的脱节机制，指出文凭通胀迫使选拔转向履历经济学，使海外深造、国内升学与协议求职演变为受家庭文化资本制约的迷宫筹码竞争。
 
 ### Journal Articles
 
