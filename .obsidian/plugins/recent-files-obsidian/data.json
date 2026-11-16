@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Between-Study Variance",
+      "path": "wiki/methods/quantitative/Between-Study Variance.md"
+    },
+    {
+      "basename": "Begg and Mazumdar Rank Correlation",
+      "path": "wiki/methods/quantitative/Begg and Mazumdar Rank Correlation.md"
+    },
+    {
       "basename": "Argument_Hammermeister_2002_Cambridge_Ch06",
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
     },
     {
-      "basename": "Hammermeister_2002_Cambridge",
-      "path": "books/Hammermeister_2002_Cambridge/Hammermeister_2002_Cambridge.md"
-    },
-    {
       "basename": "Argument_Zheng_2023_ShanghaiSanlian",
       "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian.md"
+    },
+    {
+      "basename": "Hammermeister_2002_Cambridge",
+      "path": "books/Hammermeister_2002_Cambridge/Hammermeister_2002_Cambridge.md"
     },
     {
       "basename": "template-argument",
@@ -71,10 +79,6 @@
     {
       "basename": "Friedrich Schiller",
       "path": "wiki/persons/germany/Friedrich Schiller.md"
-    },
-    {
-      "basename": "Begg and Mazumdar Rank Correlation",
-      "path": "wiki/methods/quantitative/Begg and Mazumdar Rank Correlation.md"
     },
     {
       "basename": "AI Deterrence",
@@ -195,10 +199,6 @@
     {
       "basename": "Print-Capitalism",
       "path": "wiki/concepts/political-economy-geopolitics/Print-Capitalism.md"
-    },
-    {
-      "basename": "Argument_Anderson_2016_Verso_Ch11",
-      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso_Ch11.md"
     }
   ],
   "omittedPaths": [],

@@ -82,7 +82,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-11-13
+updated: 2026-11-17
 ---
 
 ---
@@ -162,6 +162,7 @@ updated: 2026-11-13
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch01|郑雅君 (2023, Ch. 1)]] — 对南北两所重点大学 62 名毕业班学生开展平均 3 小时的半结构化跟踪访谈，考察家庭背景与文化资本在高等教育过程中的转化机制。
 > - [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]] — 在[[Exploratory Sequential Design|探索性序列设计]]第一阶段对 14 位取得[[Original Innovation Capability|原始创新突破]]的青年拔尖人才开展一对一半结构化访谈（单次 60～120 分钟），系统提炼学术职业早期的六重两难抉择。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21)]] — 系统介绍了半结构化[[Interview Protocol|访谈提纲]]的构建，包括问题格式、回答模式、提示与追问的设计原则。
 > - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a, p. 107)]] — 在[[OECD|经合组织]]（OECD）跨国政策调查中，针对 6 个入选典型国家开展跟进半结构化访谈，对自陈[[Questionnaire|问卷]]反映出的机制与阻碍障壁（如新西兰资金倾斜、斯洛文尼亚部委思维重塑、南非机制嵌入等）进行定性深挖与三角核实。

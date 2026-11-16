@@ -11909,6 +11909,8 @@
     "James McKeen Cattell, 1910": "James McKeen Cattell, 1910",
     "James R. Bartholomew (1989)": "James R. Bartholomew, 1989",
     "James R. Bartholomew, 1989": "James R. Bartholomew, 1989",
+    "James S. Coleman (1966)": "James S. Coleman, 1966",
+    "James S. Coleman, 1966": "James S. Coleman, 1966",
     "James Scott (1998)": "James Scott, 1998",
     "James Scott, 1998": "James Scott, 1998",
     "James, 1993": "James, 1993",
@@ -19274,6 +19276,8 @@
     "Philippe Lacoue-Labarthe, 1990": "Philippe Lacoue-Labarthe, 1990",
     "Philippe Schmitter (1979)": "Philippe Schmitter, 1979",
     "Philippe Schmitter, 1979": "Philippe Schmitter, 1979",
+    "Phillip Brown (2013)": "Phillip Brown, 2013",
+    "Phillip Brown, 2013": "Phillip Brown, 2013",
     "Phillippo (2019)": "Phillippo, 2019",
     "Phillippo, 2019": "Phillippo, 2019",
     "Phillips & Burbules (2000)": "Phillips & Burbules, 2000",
@@ -19363,6 +19367,8 @@
     "Pierre Azoulay et al. (2019)": "Pierre Azoulay et al., 2019",
     "Pierre Azoulay et al., 2019": "Pierre Azoulay et al., 2019",
     "Pierre Azoulay, 2012": "Pierre Azoulay, 2012",
+    "Pierre Bourdieu & Jean-Claude Passeron (1979)": "Pierre Bourdieu & Jean-Claude Passeron, 1979",
+    "Pierre Bourdieu & Jean-Claude Passeron, 1979": "Pierre Bourdieu & Jean-Claude Passeron, 1979",
     "Pierre Bourdieu (2003)": "Pierre Bourdieu, 2003",
     "Pierre Bourdieu, 2003": "Pierre Bourdieu, 2003",
     "Pierson & Castles (2002)": "Pierson & Castles, 2002",
@@ -20006,6 +20012,8 @@
     "Ran et al., 2021": "Ran et al., 2021b",
     "Ran et al., 2021a": "Ran et al., 2021a",
     "Ran et al., 2021b": "Ran et al., 2021b",
+    "Randall Collins (1979)": "Randall Collins, 1979",
+    "Randall Collins, 1979": "Randall Collins, 1979",
     "Randall et al. (2014)": "Randall et al., 2014",
     "Randall et al., 2014": "Randall et al., 2014",
     "Randolph (2007)": "Randolph, 2007",
@@ -27954,6 +27962,8 @@
     "苏罗威基, 2005": "苏罗威基, 2005",
     "范德海登 (2011)": "范德海登, 2011",
     "范德海登, 2011": "范德海登, 2011",
+    "范皑皑和杨钋 (2015)": "范皑皑和杨钋, 2015",
+    "范皑皑和杨钋, 2015": "范皑皑和杨钋, 2015",
     "范达默 (2022)": "范达默, 2022",
     "范达默, 2022": "范达默, 2022",
     "萨德勒 (1964)": "萨德勒, 1964",
@@ -28029,6 +28039,8 @@
     "郑辉和李路路, 2009": "郑辉和李路路, 2009",
     "里兹维与林加德 (2009)": "里兹维与林加德, 2009",
     "里兹维与林加德, 2009": "里兹维与林加德, 2009",
+    "闵尊涛等 (2018)": "闵尊涛等, 2018",
+    "闵尊涛等, 2018": "闵尊涛等, 2018",
     "阿德科亚 (2023)": "阿德科亚, 2023",
     "阿德科亚, 2023": "阿德科亚, 2023",
     "阿施 (1951)": "阿施, 1951",
@@ -115218,6 +115230,21 @@
       ],
       "title": ""
     },
+    "James S. Coleman, 1966": {
+      "aliases": [
+        "James S. Coleman, 1966",
+        "James S. Coleman (1966)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "James S. Coleman, 1966"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
+      ],
+      "title": ""
+    },
     "James Scott, 1998": {
       "aliases": [
         "James Scott, 1998",
@@ -168563,6 +168590,21 @@
       ],
       "title": ""
     },
+    "Phillip Brown, 2013": {
+      "aliases": [
+        "Phillip Brown, 2013",
+        "Phillip Brown (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Phillip Brown, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
+      ],
+      "title": ""
+    },
     "Phillippo, 2019": {
       "aliases": [
         "Phillippo, 2019",
@@ -169208,6 +169250,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-philosophy/Scientific Method.md"
+      ],
+      "title": ""
+    },
+    "Pierre Bourdieu & Jean-Claude Passeron, 1979": {
+      "aliases": [
+        "Pierre Bourdieu & Jean-Claude Passeron, 1979",
+        "Pierre Bourdieu & Jean-Claude Passeron (1979)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Pierre Bourdieu & Jean-Claude Passeron, 1979"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
       ],
       "title": ""
     },
@@ -173953,6 +174010,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis on the effects of technology's functions and roles on students' mathematics achievement in K-12 classrooms."
+    },
+    "Randall Collins, 1979": {
+      "aliases": [
+        "Randall Collins, 1979",
+        "Randall Collins (1979)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Randall Collins, 1979"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
+      ],
+      "title": ""
     },
     "Randall et al., 2014": {
       "aliases": [
@@ -231300,6 +231372,21 @@
       ],
       "title": ""
     },
+    "范皑皑和杨钋, 2015": {
+      "aliases": [
+        "范皑皑和杨钋, 2015",
+        "范皑皑和杨钋 (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "范皑皑和杨钋, 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
+      ],
+      "title": ""
+    },
     "范达默, 2022": {
       "aliases": [
         "范达默, 2022",
@@ -231860,6 +231947,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/comparative-education/OECD-fication.md"
+      ],
+      "title": ""
+    },
+    "闵尊涛等, 2018": {
+      "aliases": [
+        "闵尊涛等, 2018",
+        "闵尊涛等 (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "闵尊涛等, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
       ],
       "title": ""
     },
