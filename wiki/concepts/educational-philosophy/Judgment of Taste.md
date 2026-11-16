@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -95,6 +95,7 @@ updated: 2026-11-15
 
 > [!critique|notitle] 外部批评
 > - **客观唯心论的真理批评** [[Georg Wilhelm Friedrich Hegel|黑格尔]]（Georg Wilhelm Friedrich Hegel）高度赞赏康德将审美判断从占有欲与科学公式中解放出来，但批评康德将鉴赏判断奠基于感性与想象力，使之停留在主观浅表层面，无法对艺术作品本身的客观真理作出断言。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 93–94)]]
+> - **存在论与诠释学对主观化的拆解** [[Martin Heidegger|马丁·海德格尔]]（Martin Heidegger）拒斥把审美动感局限于主体心理官能游戏与消费体验，将其移入作品客观的[[World and Earth|世界与大地]]争执；[[Hans-Georg Gadamer|汉斯-格奥尔格·伽达默尔]]（Hans-Georg Gadamer）则批评康德将审美判断主观化后剥夺了艺术的认知地位，导致作品与其历史生活世界割裂并迫使人文学科效仿自然科学方法论。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 187–190)]]
 
 ---
 
@@ -109,7 +110,10 @@ updated: 2026-11-15
 > | [[Immanuel Kant]] | 人物 | 在《判断力批判》（1790）中系统建构鉴赏判断四重契机的哲学家。[[Argument_Hammermeister_2002_Cambridge_Ch02\|(Hammermeister, 2002, pp. 21, 27–32)]] |
 > | [[Georg Wilhelm Friedrich Hegel]] | 人物 | 肯定康德审美非功利与非概念化立场，同时批评鉴赏判断止步于主观感受而缺乏客观真理。[[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 93–94)]] |
 
+> | [[Martin Heidegger]] | 人物 | 将审美动感从主体官能游戏移入作品客观的世界与大地争执。[[Argument_Hammermeister_2002_Cambridge_Ch09\|(Hammermeister, 2002, pp. 187–188)]] |
+> | [[Hans-Georg Gadamer]] | 人物 | 批判康德将审美判断主观化导致艺术丧失认知地位并被迫依附科学方法论。[[Argument_Hammermeister_2002_Cambridge_Ch09\|(Hammermeister, 2002, pp. 189–190)]] |
+
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch02|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]解析康德鉴赏判断四重契机与自由美、依附美张力；[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]补充黑格尔对鉴赏判断主观性的真理批评（pp. 93–94）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch02|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch02|第 2 章]]析康德鉴赏判断；[[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]析黑格尔真理批评；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]析海德格尔与伽达默尔对主观化的拆解（pp. 187–190）。
