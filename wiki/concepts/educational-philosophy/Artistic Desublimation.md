@@ -8,7 +8,7 @@ aliases:
 summary: "赫伯特·马尔库塞在 1960 年代末学生运动期间提出的美学与激进政治策略，主张在压抑性容忍体制下以无序、滑稽的反艺术去升华行动取代已被收编的传统艺术；数年后他自我修正，指出反艺术弥合艺术与现实距离反而丧失了否定现存秩序的批判支点。"
 type: concept
 domain: "educational-philosophy"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

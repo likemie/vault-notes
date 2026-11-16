@@ -10,7 +10,7 @@ title: "Argument_Hammermeister_2002_Cambridge_Ch08"
 argument_key: "Argument_Hammermeister_2002_Cambridge_Ch08"
 argument_display_title: "The German aesthetic tradition"
 argument_kind: "book-chapter"
-argument_related_count: 52
+argument_related_count: 56
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"

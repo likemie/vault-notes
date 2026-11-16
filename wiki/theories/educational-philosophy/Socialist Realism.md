@@ -7,7 +7,7 @@ aliases:
 summary: "以经济基础—上层建筑对应律与阶级意识为核心的马克思主义美学理论，主张唯有立足上升无产阶级视角、以典型性与党派性揭示客观社会总体的现实主义才是唯一正确的艺术形式，但在认识论上因预设外部理论裁判而面临艺术多余化悖论。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 14
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
