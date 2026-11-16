@@ -1848,6 +1848,8 @@
     "Barthes, 1972": "Barthes, 1972",
     "Bartholomew (1989)": "Bartholomew, 1989",
     "Bartholomew, 1989": "Bartholomew, 1989",
+    "Bartky (1981)": "Bartky, 1981",
+    "Bartky, 1981": "Bartky, 1981",
     "Bartlett & Vavrus (2017a)": "Bartlett & Vavrus, 2017a",
     "Bartlett & Vavrus (2017b)": "Bartlett & Vavrus, 2017b",
     "Bartlett & Vavrus, 2017": "Bartlett & Vavrus, 2017a",
@@ -8919,8 +8921,6 @@
     "George Zipf, 1949": "George Zipf, 1949",
     "George-Reyes et al. (2024)": "George-Reyes et al., 2024",
     "George-Reyes et al., 2024": "George-Reyes et al., 2024",
-    "Georgia Warnke (1987)": "Georgia Warnke, 1987",
-    "Georgia Warnke, 1987": "Georgia Warnke, 1987",
     "Georgiou (2021)": "Georgiou, 2021",
     "Georgiou et al. (2020)": "Georgiou et al., 2020",
     "Georgiou et al., 2020": "Georgiou et al., 2020",
@@ -10194,6 +10194,8 @@
     "Hammer & Elby, 2002": "Hammer & Elby, 2002",
     "Hammer (1994)": "Hammer, 1994",
     "Hammer, 1994": "Hammer, 1994",
+    "Hammermeister (1999)": "Hammermeister, 1999",
+    "Hammermeister, 1999": "Hammermeister, 1999",
     "Hammersley & Atkinson (1983)": "Hammersley & Atkinson, 1983",
     "Hammersley & Atkinson, 1983": "Hammersley & Atkinson, 1983",
     "Hammersley (1992a)": "Hammersley, 1992a",
@@ -10273,8 +10275,6 @@
     "Hans (1964)": "Hans, 1964",
     "Hans Reichenbach (1956)": "Hans Reichenbach, 1956",
     "Hans Reichenbach, 1956": "Hans Reichenbach, 1956",
-    "Hans Robert Jauss (1970)": "Hans Robert Jauss, 1970",
-    "Hans Robert Jauss, 1970": "Hans Robert Jauss, 1970",
     "Hans, 1949": "Hans, 1949",
     "Hans, 1952": "Hans, 1952",
     "Hans, 1955": "Hans, 1955",
@@ -12000,6 +12000,8 @@
     "Jason, 1994": "Jason, 1994",
     "Jaspers (1988)": "Jaspers, 1988",
     "Jaspers, 1988": "Jaspers, 1988",
+    "Jauss (1970)": "Jauss, 1970",
+    "Jauss, 1970": "Jauss, 1970",
     "Jay (2017)": "Jay, 2017",
     "Jay, 2017": "Jay, 2017",
     "Jayanthi (2021)": "Jayanthi, 2021",
@@ -14113,6 +14115,8 @@
     "Lane, 2011": "Lane, 2011",
     "Laney (1996)": "Laney, 1996",
     "Laney, 1996": "Laney, 1996",
+    "Lang (1981)": "Lang, 1981",
+    "Lang, 1981": "Lang, 1981",
     "Langberg (2007)": "Langberg, 2007",
     "Langberg (2008)": "Langberg, 2008",
     "Langberg, 2007": "Langberg, 2007",
@@ -19169,8 +19173,6 @@
     "Peter A. Hall, 2009": "Peter A. Hall, 2009",
     "Peter Blatchford (2003)": "Peter Blatchford, 2003",
     "Peter Blatchford, 2003": "Peter Blatchford, 2003",
-    "Peter Christian Lang (1981)": "Peter Christian Lang, 1981",
-    "Peter Christian Lang, 1981": "Peter Christian Lang, 1981",
     "Peter Demerath (1999)": "Peter Demerath, 1999",
     "Peter Demerath, 1999": "Peter Demerath, 1999",
     "Peter Evans (1995)": "Peter Evans, 1995",
@@ -19857,7 +19859,9 @@
     "Pépin, 2006": "Pépin, 2006",
     "Pérez-Bracchiglione et al. (2022)": "Pérez-Bracchiglione et al., 2022",
     "Pérez-Bracchiglione et al., 2022": "Pérez-Bracchiglione et al., 2022",
+    "Pöggeler (1974)": "Pöggeler, 1974",
     "Pöggeler (1984)": "Pöggeler, 1984",
+    "Pöggeler, 1974": "Pöggeler, 1974",
     "Pöggeler, 1984": "Pöggeler, 1984",
     "QILT (2023)": "QILT, 2023",
     "QILT, 2023": "QILT, 2023",
@@ -20798,9 +20802,11 @@
     "Roppelt et al. (2013)": "Roppelt et al., 2013",
     "Roppelt et al., 2013": "Roppelt et al., 2013",
     "Rorty (1979)": "Rorty, 1979",
+    "Rorty (1989)": "Rorty, 1989",
     "Rorty (1991)": "Rorty, 1991",
     "Rorty (1992)": "Rorty, 1992",
     "Rorty, 1979": "Rorty, 1979",
+    "Rorty, 1989": "Rorty, 1989",
     "Rorty, 1991": "Rorty, 1991",
     "Rorty, 1992": "Rorty, 1992",
     "Rosa (2019)": "Rosa, 2019",
@@ -25743,6 +25749,8 @@
     "Warleigh-Lack & Rosamond, 2010": "Warleigh-Lack & Rosamond, 2010",
     "Warmington & Murphy (2004)": "Warmington & Murphy, 2004",
     "Warmington & Murphy, 2004": "Warmington & Murphy, 2004",
+    "Warnke (1987)": "Warnke, 1987",
+    "Warnke, 1987": "Warnke, 1987",
     "Warnock (1970)": "Warnock, 1970",
     "Warnock, 1970": "Warnock, 1970",
     "Warren (2012)": "Warren, 2012",
@@ -27664,8 +27672,6 @@
     "岳昌君和周丽萍, 2016": "岳昌君和周丽萍, 2016",
     "岳英 (2018)": "岳英, 2018",
     "岳英, 2018": "岳英, 2018",
-    "巴特基 (1981)": "巴特基, 1981",
-    "巴特基, 1981": "巴特基, 1981",
     "布卢默 (1969)": "布卢默, 1969",
     "布卢默, 1969": "布卢默, 1969",
     "布朗等人 (1997)": "布朗等人, 1997",
@@ -27916,8 +27922,6 @@
     "王宁, 2002": "王宁, 2002",
     "王维懿和杜育红 (2014)": "王维懿和杜育红, 2014",
     "王维懿和杜育红, 2014": "王维懿和杜育红, 2014",
-    "珀格勒 (1974)": "珀格勒, 1974",
-    "珀格勒, 1974": "珀格勒, 1974",
     "班斯立场 (2020)": "班斯立场, 2020",
     "班斯立场, 2020": "班斯立场, 2020",
     "理学硕士 (1935)": "理学硕士, 1935",
@@ -27987,8 +27991,6 @@
     "罗宾逊等, 2008": "罗宾逊等, 2008",
     "罗清旭等 (2001)": "罗清旭等, 2001",
     "罗清旭等, 2001": "罗清旭等, 2001",
-    "罗蒂 (1989)": "罗蒂, 1989",
-    "罗蒂, 1989": "罗蒂, 1989",
     "罗默 (2018)": "罗默, 2018",
     "罗默, 2018": "罗默, 2018",
     "美国起源 (1990)": "美国起源, 1990",
@@ -41629,6 +41631,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Cowen_2009_HistoryCreation.md"
+      ],
+      "title": ""
+    },
+    "Bartky, 1981": {
+      "aliases": [
+        "Bartky, 1981",
+        "Bartky (1981)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bartky, 1981"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch09.md"
       ],
       "title": ""
     },
@@ -93342,21 +93359,6 @@
       ],
       "title": ""
     },
-    "Georgia Warnke, 1987": {
-      "aliases": [
-        "Georgia Warnke, 1987",
-        "Georgia Warnke (1987)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Georgia Warnke, 1987"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch09.md"
-      ],
-      "title": ""
-    },
     "Georgiou et al., 2020": {
       "aliases": [
         "Georgiou et al., 2020",
@@ -102713,6 +102715,21 @@
       ],
       "title": ""
     },
+    "Hammermeister, 1999": {
+      "aliases": [
+        "Hammermeister, 1999",
+        "Hammermeister (1999)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hammermeister, 1999"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch09.md"
+      ],
+      "title": ""
+    },
     "Hammersley & Atkinson, 1983": {
       "aliases": [
         "Hammersley & Atkinson, 1983",
@@ -103262,21 +103279,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-philosophy/Screening Off.md"
-      ],
-      "title": ""
-    },
-    "Hans Robert Jauss, 1970": {
-      "aliases": [
-        "Hans Robert Jauss, 1970",
-        "Hans Robert Jauss (1970)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Hans Robert Jauss, 1970"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch09.md"
       ],
       "title": ""
     },
@@ -115994,6 +115996,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/germany/Max Weber.md"
+      ],
+      "title": ""
+    },
+    "Jauss, 1970": {
+      "aliases": [
+        "Jauss, 1970",
+        "Jauss (1970)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Jauss, 1970"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch09.md"
       ],
       "title": ""
     },
@@ -131094,6 +131111,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The Effect of Cooperative and Mastery Learning Methods on Primary Grade Students' Learning and Retention of Economic Concepts"
+    },
+    "Lang, 1981": {
+      "aliases": [
+        "Lang, 1981",
+        "Lang (1981)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Lang, 1981"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch09.md"
+      ],
+      "title": ""
     },
     "Langberg, 2007": {
       "aliases": [
@@ -167900,21 +167932,6 @@
       ],
       "title": ""
     },
-    "Peter Christian Lang, 1981": {
-      "aliases": [
-        "Peter Christian Lang, 1981",
-        "Peter Christian Lang (1981)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Peter Christian Lang, 1981"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch09.md"
-      ],
-      "title": ""
-    },
     "Peter Demerath, 1999": {
       "aliases": [
         "Peter Demerath, 1999",
@@ -172964,6 +172981,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/methods/quantitative/Meta-meta-analysis.md"
+      ],
+      "title": ""
+    },
+    "Pöggeler, 1974": {
+      "aliases": [
+        "Pöggeler, 1974",
+        "Pöggeler (1974)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Pöggeler, 1974"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch09.md"
       ],
       "title": ""
     },
@@ -179803,6 +179835,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_McKnight_2020_Discourse.md"
+      ],
+      "title": ""
+    },
+    "Rorty, 1989": {
+      "aliases": [
+        "Rorty, 1989",
+        "Rorty (1989)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rorty, 1989"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch09.md"
       ],
       "title": ""
     },
@@ -215504,6 +215551,21 @@
       ],
       "title": ""
     },
+    "Warnke, 1987": {
+      "aliases": [
+        "Warnke, 1987",
+        "Warnke (1987)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Warnke, 1987"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch09.md"
+      ],
+      "title": ""
+    },
     "Warnock, 1970": {
       "aliases": [
         "Warnock, 1970",
@@ -229230,21 +229292,6 @@
       ],
       "title": ""
     },
-    "巴特基, 1981": {
-      "aliases": [
-        "巴特基, 1981",
-        "巴特基 (1981)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "巴特基, 1981"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch09.md"
-      ],
-      "title": ""
-    },
     "布卢默, 1969": {
       "aliases": [
         "布卢默, 1969",
@@ -231123,21 +231170,6 @@
       ],
       "title": ""
     },
-    "珀格勒, 1974": {
-      "aliases": [
-        "珀格勒, 1974",
-        "珀格勒 (1974)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "珀格勒, 1974"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch09.md"
-      ],
-      "title": ""
-    },
     "班斯立场, 2020": {
       "aliases": [
         "班斯立场, 2020",
@@ -231649,21 +231681,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/instruments/tests/California Critical Thinking Skills Test.md"
-      ],
-      "title": ""
-    },
-    "罗蒂, 1989": {
-      "aliases": [
-        "罗蒂, 1989",
-        "罗蒂 (1989)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "罗蒂, 1989"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch09.md"
       ],
       "title": ""
     },
