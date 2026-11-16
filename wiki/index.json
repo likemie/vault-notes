@@ -4813,6 +4813,15 @@
     ]
   },
   {
+    "title": "Aura",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Aura.md",
+    "aliases": [
+      "灵光",
+      "光晕"
+    ]
+  },
+  {
     "title": "Axiology",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Axiology.md",
@@ -5070,6 +5079,15 @@
       "普通文化",
       "通识教养",
       "法兰西普通文化"
+    ]
+  },
+  {
+    "title": "Culture Industry",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Culture Industry.md",
+    "aliases": [
+      "文化工业",
+      "Kulturindustrie"
     ]
   },
   {
@@ -6512,6 +6530,17 @@
       "趣味性",
       "das Interessante",
       "有趣"
+    ]
+  },
+  {
+    "title": "The Nonidentical",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/The Nonidentical.md",
+    "aliases": [
+      "非同一性",
+      "非同一物",
+      "Nonidentical",
+      "das Nichtidentische"
     ]
   },
   {
@@ -22737,6 +22766,15 @@
     ]
   },
   {
+    "title": "Adorno's Aesthetics",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Adorno's Aesthetics.md",
+    "aliases": [
+      "阿多诺美学",
+      "阿多诺的美学理论"
+    ]
+  },
+  {
     "title": "Autopoiesis",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Autopoiesis.md",
@@ -32672,6 +32710,16 @@
       "马丁·瓦尔泽",
       "Walser, M.",
       "Martin Johannes Walser"
+    ]
+  },
+  {
+    "title": "Max Horkheimer",
+    "type": "person",
+    "path": "wiki/persons/germany/Max Horkheimer.md",
+    "aliases": [
+      "马克斯·霍克海默",
+      "霍克海默",
+      "Horkheimer, M."
     ]
   },
   {

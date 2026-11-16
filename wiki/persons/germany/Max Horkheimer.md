@@ -10,6 +10,10 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
+person_related_count: 0
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: ""
 died: ""
 lifespan: ""
@@ -27,7 +31,7 @@ related_arguments: []
 confidence: high
 status: draft
 created: "2026-11-16"
-updated: "2026-11-16"
+updated: 2026-11-16
 ---
 
 ---

@@ -6,6 +6,10 @@ aliases:
 summary: "本雅明美学核心概念，指传统艺术品在特定时空中的“此时此地”及不可接近的遥远感；机械复制技术促成灵光消逝，引发本雅明与阿多诺关于大众感知民主化抑或真理丧失的根本分歧。"
 type: concept
 domain: "educational-philosophy"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - field/educational-philosophy
   - theme/aesthetics
@@ -20,7 +24,7 @@ related_arguments: []
 confidence: high
 status: draft
 created: "2026-11-16"
-updated: "2026-11-16"
+updated: 2026-11-16
 ---
 
 ---

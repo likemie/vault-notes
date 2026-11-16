@@ -86,6 +86,14 @@ updated: 2026-11-16
 
 ---
 
+> [!concept-proposition] 命题五｜阿多诺在黑格尔之后重新确立自然美的独立地位，将其界定为非同一性的痕迹
+> **抗衡技术理性与生态美学启示** 针对黑格尔以后美学长期遗忘自然美的状况，[[Theodor Adorno|阿多诺]]在《美学理论》中重返康德传统，将自然美确立为逃脱资本主义生产与技术理性支配的避难所。
+
+> [!claim] Adorno, T. W.
+> **自然美作为普遍同一性魔咒下的非同一性痕迹** 阿多诺指出自然美显现为摆脱技术理性以及自然沦为生产资源的那一维度，并将其界定为“普遍同一性魔咒下客体内部[[The Nonidentical|非同一性]]的痕迹”。虽然阿多诺本人对在错误社会中建立新伦理抱持怀疑，这一重新引入仍为当代生态美学结合审美态度与尊重伦理提供了关键理论起点。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, p. 206)]]
+
+---
+
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -93,6 +101,7 @@ updated: 2026-11-16
 > | **同源纯化与摇摆张力** | 艺术美仅在于滤除自然美中的偶然杂质，却动摇“万物皆美”与艺术特权 | 叔本华自然美与艺术美关系辨析 | [[Arthur Schopenhauer\|Schopenhauer]]; Hammermeister |
 > | **拟人化排除自然美** | 以人类权力感与驱动力垄断美感定义，抹除自然他者并滑向“恐怖美学” | 尼采晚期哲学审美化批判 | [[Friedrich Nietzsche\|Nietzsche]]; Hammermeister |
 > | **个案孤立与审美排除** | 以自然美停留在孤立个别、无法达到社会总体典型为由将其逐出审美现象 | 卢卡奇现实主义美学边界界定 | [[Georg Lukács\|Lukács]]; Hammermeister |
+> | **非同一性痕迹重估** | 在黑格尔之后重引入自然美，将其作为抗衡技术理性与生产资源化的非同一性痕迹 | 阿多诺美学与当代生态美学讨论 | [[Theodor Adorno\|Adorno]]; Hammermeister |
 
 ---
 
@@ -108,14 +117,17 @@ updated: 2026-11-16
 > | [[Philosophical Aesthetics]] | 概念 | 黑格尔将哲学美学限定为艺术哲学，重塑了自然美在学科中的边缘位置 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 92–93)]]。 |
 > | [[Absolute Spirit]] | 概念 | 自然缺乏绝对精神所需的自我意识，决定了自然美次于艺术美 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 93)]]。 |
 > | [[Typicality]] | 概念 | 卢卡奇以自然美无法达到典型性高度而将其排除出审美现象 [[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 166–167)]]。 |
+> | [[The Nonidentical]] | 概念 | 阿多诺将自然美界定为普遍同一性魔咒下客体内部的非同一性痕迹 [[Argument_Hammermeister_2002_Cambridge_Ch10\|(Hammermeister, 2002, p. 206)]]。 |
 > | [[Hegel's Aesthetics]] | 理论 | 呈现黑格尔既原则排斥自然美又微弱保留它的内在文本张力 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, pp. 92–93)]]。 |
 > | [[Nietzsche's Aesthetics]] | 理论 | 以拟人化权力感垄断美感定义并彻底排斥自然美的晚期美学纲领 [[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, p. 149)]]。 |
+> | [[Adorno's Aesthetics]] | 理论 | 在黑格尔之后重新把自然美纳入美学以抗衡技术理性与生产资源化 [[Argument_Hammermeister_2002_Cambridge_Ch10\|(Hammermeister, 2002, p. 206)]]。 |
 > | [[Georg Wilhelm Friedrich Hegel]] | 人物 | 主张自然美是艺术美折射的哲学家 [[Argument_Hammermeister_2002_Cambridge_Ch05\|(Hammermeister, 2002, p. 93)]]。 |
 > | [[Arthur Schopenhauer]] | 人物 | 主张艺术美只是替人剔除自然美中偶然杂质的哲学家 [[Argument_Hammermeister_2002_Cambridge_Ch06\|(Hammermeister, 2002, p. 122)]]。 |
 > | [[Friedrich Nietzsche]] | 人物 | 在《偶像的黄昏》宣称“只有人是美的”并排除自然美的哲学家 [[Argument_Hammermeister_2002_Cambridge_Ch07\|(Hammermeister, 2002, p. 149)]]。 |
 > | [[Georg Lukács]] | 人物 | 在《审美的特性》中将自然美比作无欲望的色情愉悦并将其彻底排除出审美领域 [[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 166–167)]]。 |
+> | [[Theodor Adorno]] | 人物 | 重新确立自然美独立地位并启发当代生态美学的哲学家 [[Argument_Hammermeister_2002_Cambridge_Ch10\|(Hammermeister, 2002, p. 206)]]。 |
 
 ---
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — 第 5 章析黑格尔对自然美的降格（pp. 92–93）；第 6 章析叔本华自然美纯化矛盾（p. 122）；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析尼采拟人化美感对自然美的排除（p. 149）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析卢卡奇以缺乏典型性为由彻底排除自然美（pp. 166–167）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — 第 5 章析黑格尔对自然美的降格（pp. 92–93）；第 6 章析叔本华自然美纯化矛盾（p. 122）；[[Argument_Hammermeister_2002_Cambridge_Ch07|第 7 章]]析尼采拟人化美感对自然美的排除（p. 149）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析卢卡奇以缺乏典型性为由彻底排除自然美（pp. 166–167）；[[Argument_Hammermeister_2002_Cambridge_Ch10|第 10 章]]析阿多诺将自然美重估为非同一性的痕迹（p. 206）。

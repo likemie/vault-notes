@@ -6,6 +6,10 @@ aliases:
 summary: "阿多诺以否定辩证法与批判理论重续谢林艺术真理范式的美学体系，主张自律现代艺术通过非强制形式、前概念摹仿与不和谐音庇护非同一性，并以对现状的否定承载幸福承诺。"
 type: theory
 theory_field: "educational-philosophy"
+theory_related_count: 0
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
   - field/educational-philosophy
   - theme/aesthetics
@@ -20,7 +24,7 @@ related_arguments: []
 confidence: high
 status: draft
 created: "2026-11-16"
-updated: "2026-11-16"
+updated: 2026-11-16
 ---
 
 ---

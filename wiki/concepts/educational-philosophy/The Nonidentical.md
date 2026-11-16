@@ -8,6 +8,10 @@ aliases:
 summary: "阿多诺否定辩证法与美学理论的核心范畴，指无法被概念思维收编和同一化、在黑格尔式总体性综合之外保持独异性的特殊存在。"
 type: concept
 domain: "educational-philosophy"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - field/educational-philosophy
   - theme/aesthetics
@@ -22,7 +26,7 @@ related_arguments: []
 confidence: high
 status: draft
 created: "2026-11-16"
-updated: "2026-11-16"
+updated: 2026-11-16
 ---
 
 ---

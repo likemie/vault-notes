@@ -93,14 +93,17 @@ updated: 2026-11-16
 > |---|---|---|
 > | [[Aesthetics of Ugliness]] | 概念 | 黑格尔批判摹仿论无法区分美丑，而[[Karl Rosenkranz\|罗森克兰茨]]则重新以“错误再现”定义丑。 |
 > | [[Typicality]] | 概念 | 卢卡奇借助典型性界定艺术摹仿如何超越孤立个别并展现社会与自然的新陈代谢 [[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 163–164)]]。 |
+> | [[The Nonidentical]] | 概念 | 阿多诺借前概念的亲近性摹仿（*Anschmiegung*）为非同一性开辟进入艺术作品的通道 [[Argument_Hammermeister_2002_Cambridge_Ch10\|(Hammermeister, 2002, pp. 203–204)]]。 |
 > | [[Hegel's Aesthetics]] | 理论 | 拒斥摹仿论是黑格尔将艺术定义为“理念的感性显现”的逻辑推论。 |
 > | [[Cassirer's Aesthetics]] | 理论 | 卡西尔重读柏拉图《蒂迈欧篇》，将艺术摹仿界定为审美形式的变质转化 [[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, p. 157)]]。 |
 > | [[Lukács's Aesthetics]] | 理论 | 以艺术摹仿与科学摹仿之分、党性及典型性奠定现实主义美学基础 [[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 163–164, 169)]]。 |
+> | [[Adorno's Aesthetics]] | 理论 | 将摹仿反转为前概念的客体依偎，使艺术成为补充概念思维的理性认知形式 [[Argument_Hammermeister_2002_Cambridge_Ch10\|(Hammermeister, 2002, pp. 203–205)]]。 |
 > | [[Georg Wilhelm Friedrich Hegel]] | 人物 | 提出正确性与真理之分并系统反驳自然主义摹仿论的哲学家。 |
 > | [[Ernst Cassirer]] | 人物 | 修正柏拉图反摹仿定见的新康德主义美学家 [[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, p. 157)]]。 |
 > | [[Georg Lukács]] | 人物 | 发展出作为社会历史认知与批判工具的现实主义摹仿论 [[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 163–164)]]。 |
+> | [[Theodor Adorno]] | 人物 | 批判再现复制为现状背书，将摹仿重构为保护非同一性的依偎行为 [[Argument_Hammermeister_2002_Cambridge_Ch10\|(Hammermeister, 2002, pp. 203–205)]]。 |
 
 ---
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]梳黑格尔反摹仿（pp. 95–96）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析卡西尔与卢卡奇（pp. 157, 163–164）；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]析海德格尔与伽达默尔（pp. 178–180, 191–192）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch05|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch05|第 5 章]]梳黑格尔反摹仿（pp. 95–96）；[[Argument_Hammermeister_2002_Cambridge_Ch08|第 8 章]]析卡西尔与卢卡奇（pp. 157, 163–164）；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]析海德格尔与伽达默尔（pp. 178–180, 191–192）；[[Argument_Hammermeister_2002_Cambridge_Ch10|第 10 章]]析阿多诺亲近性摹仿（pp. 203–205）。
