@@ -62,7 +62,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -200,9 +200,10 @@ updated: 2026-11-15
 > - **组织与政策路径** [[Tullock's Bureaucracy Theory\|官僚制理论]]成为公共行政与组织社会学的奠基基石；权力与合法权威的区分为新制度主义的[[Institutional Isomorphism\|制度同构]]机制提供核心分析透镜。
 > - **教育研究与文化社会学路径** 为教育社会学中的生涯决策、阶层[[Cultural Capital\|文化资本]]与工作价值图式分析提供核心概念框架（如[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]）。
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 以韦伯诠释社会学为全书[[Epistemology\|认识论]]锚点，借助工具理性与价值理性区分拓展大学生毕业出路[[Analytic Framework\|分析框架]]，援引“扳道工”假说解析阶层文化与工作意义图式。
 > - [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] — 借助韦伯对权力与权威的经典区分，结合制度同构理论，剖析[[Corporate Education\|企业教育]]如何通过外部学术权威获取合法性。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch08|Hammermeister (2002, Ch. 8)]] — 述[[Georg Lukács|卢卡奇]]在 1912 年追随韦伯批判现代祛魅社会仅造就专家与唯美主义者（p. 161）。
 
 ---
 
@@ -226,7 +227,7 @@ updated: 2026-11-15
 > [!person-network] 关系网络
 > - **先驱与哲学对话** [[Immanuel Kant\|伊曼努尔·康德]]（[[Epistemology\|认识论]]批判）、[[Friedrich Nietzsche|弗里德里希·尼采]]（价值重估与虚无主义批判）、卡尔·马克思（资本主义机理与历史唯物论对话）。
 > - **同时代学人与合作者** 费迪南·滕尼斯（Ferdinand Tönnies）、格奥尔格·齐美尔（Georg Simmel）、维尔纳·桑巴特（Werner Sombart）、恩斯特·特勒尔奇（Ernst Troeltsch）。
-> - **理论继承与重构者** [[Pierre Bourdieu\|皮埃尔·布迪厄]]（[[Pierre Bourdieu]]）、[[Ann Swidler\|安·斯威德勒]]（[[Ann Swidler]]）、卡尔·雅斯贝尔斯（Karl Jaspers）、[[Yajun Zheng\|郑雅君]]（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]）。
+> - **理论继承与重构者** [[Pierre Bourdieu\|皮埃尔·布迪厄]]（[[Pierre Bourdieu]]）、[[Ann Swidler\|安·斯威德勒]]（[[Ann Swidler]]）、卡尔·雅斯贝尔斯（Karl Jaspers）、[[Georg Lukács|格奥尔格·卢卡奇]]（早期《审美文化》承袭其现代祛魅批判）、[[Yajun Zheng\|郑雅君]]（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]）。
 
 ---
 

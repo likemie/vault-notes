@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -66,8 +66,8 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — 将莱辛《古人如何描绘死亡》的宗教与美同源论列为谢林、索尔格宗教艺术观的先驱，并在注释中以《拉奥孔》的想象力留白原则对照谢林“完美瞬间”美学（p. 81, p. 227 n.28, 31）。
+> [!evidence-grid] 相关研究索引
+> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002, Ch. 4, 8)]] — 述《古人如何描绘死亡》与《拉奥孔》先声（p. 81, n.28, 31），并析[[Georg Lukács|卢卡奇]]借《汉堡剧评》重构理性[[Catharsis|卡塔西斯]]（pp. 165–166）。
 
 ---
 
@@ -77,3 +77,5 @@ updated: 2026-11-15
 > |:-----|:-----|:-----|
 > | [[Identity Philosophy]] | 理论 | 其“完美瞬间”说与莱辛《拉奥孔》反对展示高潮顶点的原则形成对照，而其艺术与宗教纽带则呼应《古人如何描绘死亡》（1768–1769）的结论。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, pp. 79, 81, p. 227 n.28)]] |
 > | [[Karl Wilhelm Ferdinand Solger]] | 人物 | 在莱辛与谢林之后继续重申宗教与艺术相互依存的观点。[[Argument_Hammermeister_2002_Cambridge_Ch04\|(Hammermeister, 2002, p. 81)]] |
+> | [[Catharsis]] | 概念 | 莱辛《汉堡剧评》将其界定为激情向德性技能的转化，后被[[Georg Lukács|卢卡奇]]用于批判纯情绪宣泄并重构伦理皈依（*Umkehr*）。[[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 165–166)]] |
+> | [[Georg Lukács]] | 人物 | 在审美接受论中借用莱辛《汉堡剧评》的卡塔西斯解释以拒绝康德无利害预设。[[Argument_Hammermeister_2002_Cambridge_Ch08\|(Hammermeister, 2002, pp. 165–166)]] |

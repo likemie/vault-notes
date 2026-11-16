@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-11-11
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -93,7 +93,7 @@ updated: 2026-11-15
 > - **理论路径** 成为法兰克福学派批判理论、文化研究与后现代历史哲学的核心源泉，深刻启发了[[Theodor Adorno|阿多诺]]、[[Jürgen Habermas|哈贝马斯]]、德里达与阿甘本。
 > - **对民族主义研究的启发** 安德森在《[[Imagined Community|想象的共同体]]》中将本雅明剖析的“齐一而空洞的时间”[[Creativity|创造性]]转化为解释民族想象成立的关键认知机制，奠定了[[Cultural Nationalism vs. Political Nationalism|文化民族主义]]研究的时间论转向。
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Anderson_2016_Verso|Anderson (2016)]] — 汲取其齐一空洞时间论断阐释民族共时想象（[[Argument_Anderson_2016_Verso_Ch02|第2章]]），并在全书收尾以历史天使寓言反思现代民族主义悲剧（[[Argument_Anderson_2016_Verso_Ch09|第9章]]）。
 
 ---

@@ -3056,8 +3056,6 @@
     "Bower (2008)": "Bower, 2008",
     "Bower, 1985": "Bower, 1985",
     "Bower, 2008": "Bower, 2008",
-    "Bowers & Wright (2005)": "Bowers & Wright, 2005",
-    "Bowers & Wright, 2005": "Bowers & Wright, 2005",
     "Bowers (2015a)": "Bowers, 2015a",
     "Bowers (2015b)": "Bowers, 2015b",
     "Bowers et al. (2010)": "Bowers et al., 2010",
@@ -50550,21 +50548,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/learning-science-cognitive-science/Educational Affordances.md"
-      ],
-      "title": ""
-    },
-    "Bowers & Wright, 2005": {
-      "aliases": [
-        "Bowers & Wright, 2005",
-        "Bowers & Wright (2005)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Bowers & Wright, 2005"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/russia/Anton Makarenko.md"
       ],
       "title": ""
     },
