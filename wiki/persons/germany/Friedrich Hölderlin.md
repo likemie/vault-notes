@@ -42,7 +42,7 @@ related_facts:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 ---
@@ -71,16 +71,16 @@ updated: 2026-11-15
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 构成从席勒的修正康德主义通向谢林浪漫美学与黑格尔辩证法的直接先导，其“概念无法穷尽绝对者、美是通向存在之御道（*via regia*）”的论断直接塑造了谢林《先验唯心论体系》的核心问题意识，并可能参与了《[[Oldest Systematic Program of German Idealism|德国唯心论最古老的系统纲领]]》（约 1796）的起草讨论。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 64, 68–70, 76)]]
+> - **理论路径** 构成从席勒的修正康德主义通向谢林浪漫美学与黑格尔辩证法的直接先导，其“概念无法穷尽绝对者、美是通向存在之御道（*via regia*）”的论断直接塑造了谢林《先验唯心论体系》的核心问题意识，并可能参与了《[[Oldest Systematic Program of German Idealism|德国唯心论最古老的系统纲领]]》（约 1796）的起草讨论（pp. 64, 68–70, 76）。在 20 世纪，[[Martin Heidegger|马丁·海德格尔]]（Martin Heidegger）在 1930–1940 年代专门开设荷尔德林讲座，直接吸纳其“诗人作为神圣诗意信息的传递者、语言借诗人说话”的诗学构想（pp. 173, 185–186）。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 64, 68–70, 76)]][[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 173, 185–186)]]
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — 依据迪特·亨利希（Dieter Henrich）与帕纳约蒂斯·孔迪利斯（Panajotis Kondylis）的研究，揭示荷尔德林在 1790 年代末如何先行提出“存在”与“美的中介作用”，为谢林和黑格尔开辟道路。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch04|Hammermeister (2002)]] — [[Argument_Hammermeister_2002_Cambridge_Ch04|第 4 章]]析荷尔德林“存在”与美的中介作用；[[Argument_Hammermeister_2002_Cambridge_Ch09|第 9 章]]述海德格尔对其前瞻诗学的吸纳（pp. 173, 185–186）。
 
 ---
 
 > [!person-network] 关系网络
 > - **批评对象** [[Johann Gottlieb Fichte]] — 荷尔德林在《判断与存在》中针对费希特《知识学》提出反驳，指出自我无法作为哲学终极原则。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, p. 68)]]
-> - **思想传承者** [[Friedrich Wilhelm Joseph Schelling]] — 图宾根同窗与法兰克福交流对象，直接受荷尔德林“审美通向绝对者”构想的启发。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 64, 69–70)]]
+> - **思想传承者** [[Friedrich Wilhelm Joseph Schelling]]、[[Martin Heidegger]] — 谢林直接受荷尔德林“审美通向绝对者”启发；海德格尔在 1930–1940 年代吸纳其“语言借诗人说话”的诗学构想。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 64, 69–70)]][[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 173, 185)]]
 > - **思想同侪** [[Georg Wilhelm Friedrich Hegel]] — 图宾根同窗，曾在法兰克福短住并与荷尔德林探讨主客统一与辩证法起源。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 69–70, 226 n.16)]]
 
 ---
