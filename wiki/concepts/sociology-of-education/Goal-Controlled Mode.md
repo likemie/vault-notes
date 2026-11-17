@@ -7,7 +7,7 @@ aliases:
 summary: "大学生活组织实践的理想类型模式，指学生在入校后尽早确立清晰生涯目标、洞悉场域显隐规则并策略性调配精力和资本以服务于长远出路的行动图式。"
 type: concept
 domain: "sociology-of-education"
-related_count: 30
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -20,40 +20,46 @@ tags:
   - region/china
   - level/higher-ed
 related_concepts:
-  - "[[Intuition-Dependent Mode]]"
-  - "[[Habitus]]"
-  - "[[Champ]]"
-  - "[[Cultural Capital]]"
-  - "[[Symbolic Boundary]]"
-  - "[[Self-Authorship]]"
   - "[[Academic Engagement]]"
   - "[[Extracurricular Activities]]"
   - "[[Research Universities]]"
+  - "[[Champ]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Habitus]]"
+  - "[[Symbolic Boundary]]"
   - "[[Self-Driven Mode]]"
   - "[[Opportunists]]"
-  - "[[Graduation Pathway Typology]]"
-  - "[[Academic and Social Integration]]"
-  - "[[Student Engagement]]"
+  - "[[Habitus Hysteresis]]"
+  - "[[Cultural Knowledge]]"
+  - "[[Cultural Capital]]"
+  - "[[Tacit Knowledge]]"
+  - "[[Unwritten Rules of Engagement]]"
+  - "[[Study Abroad]]"
   - "[[Social Engagement]]"
+  - "[[Employability]]"
+  - "[[Talent Assumption]]"
+  - "[[Quality Education]]"
+  - "[[Professional Interest]]"
+  - "[[Critical Thinking Disposition]]"
+  - "[[Self-Authorship]]"
+  - "[[Operationalization]]"
+  - "[[Pragmatic Paradigm]]"
+  - "[[General Education]]"
   - "[[Socioeconomic Status]]"
-  - "[[Academic Achievement]]"
 related_theories:
   - "[[Culture as Toolkit]]"
-  - "[[Dual-Process Model of Culture in Action]]"
-  - "[[Rational Action Theory]]"
 related_methods:
-  - "[[In-depth Interview]]"
-  - "[[Constructivist Grounded Theory]]"
+  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
   - "[[Yajun Zheng]]"
   - "[[Pierre Bourdieu]]"
-  - "[[Marcia Baxter Magolda]]"
-  - "[[Ann Swidler]]"
 related_facts:
+  - "[[Gaokao]]"
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch04]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 confidence: high
@@ -65,40 +71,40 @@ updated: 2026-11-17
 ---
 
 > [!def] Goal-Controlled Mode
-> **目标掌控模式（Goal-Controlled Mode）** 是大学生组织大学生活的一种实践图式，其核心特征表现为：入校后尽早确立清晰刻意的生涯目标与未来出路方向，主动洞悉大学及劳动力市场的制度性与非制度性运转规则，通过前置目标倒推日常时间与精力分配，策略性地调控学业投入与课外实践，使在校期间付出的努力能够高效转化为毕业出路竞争优势。该概念由[[Yajun Zheng|郑雅君]]（2023）在对中国两所顶尖研究型大学 62 名毕业班学生的追踪生活史考察中提炼确立。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 65–74)]]
+> **目标掌控模式（Goal-Controlled Mode）** 是大学生组织大学生活的一种实践图式，其核心特征表现为：入校后尽早确立清晰刻意的生涯目标与未来出路方向，主动洞悉大学及劳动力市场的制度性与非制度性运转规则，通过前置目标倒推日常时间与精力分配，策略性地调控[[Academic Engagement|学业投入]]与[[Extracurricular Activities|课外实践]]，使在校期间付出的努力能够高效转化为毕业出路竞争优势。该概念由[[Yajun Zheng|郑雅君]]（2023）在对中国两所顶尖[[Research Universities|研究型大学]] 62 名毕业班学生的追踪生活史考察中提炼确立。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 65–74)]]
 
 > [!concept-lens|notitle] 概念透镜
-> - **含义** 指向行动者在高等教育场域中展现出的目标前置、规则通晓、策略行动与资本高效转化的实践图式。
-> - **用途** 帮助研究者透视精英大学优等生表面同质的高考高分背后，由家庭阶层背景与基础教育生态分化出的微观行动倾向与出路再生产机制。
-> - **边界** 属于韦伯方法论意义上的理想类型，在现实中与直觉依赖模式构成连续分布；其内涵超越心理测量学的个人认知技能，不可还原为单纯的功利算计或个体智力禀赋。
+> - **含义** 指向行动者在高等教育[[Champ|场域]]中展现出的目标前置、规则通晓、策略行动与资本高效转化的实践图式。
+> - **用途** 帮助研究者透视精英大学优等生表面同质的[[Gaokao|高考]]高分背后，由家庭阶层背景与基础教育生态分化出的微观行动倾向与出路再生产机制。
+> - **边界** 属于韦伯方法论意义上的理想类型，在现实中与[[Intuition-Dependent Mode|直觉依赖模式]]构成连续分布；其内涵超越心理测量学的个人认知技能，不可还原为单纯的功利算计或个体智力禀赋。
 
 > [!citation-card] 目标掌控模式的迷宫参赛者隐喻
 > 运用“目标掌控模式”的大学生就好比是手持迷宫地图，事先已经做好路线规划的一类参赛者。他们往往了解整个迷宫通关游戏的大致玩法，也清楚最终要在哪个出口交差。于是他们可以依据自己设定的终极目标，把在校期间的每一步都走得有针对性、有效率，甚至懂得通过规则破绽减省不必要的精力消耗。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, p. 98)]]
 
 > [!boundary]- 概念边界
 > - 不等于 [[Intuition-Dependent Mode|直觉依赖模式]] — 目标掌控模式以清晰长程目标与策略性投入为特征，直觉依赖模式则以目标模糊、沿袭应试旧习与随波逐流为特征，二者构成大学生活组织图式连续统的两极。
-> - 不等于 心理测量学中的职业成熟度（Career Maturity）或目标定向（Goal Orientation） — 心理测量学仅将目标视作去情境化的个体认知技能；目标掌控模式具有深层的社会阶层习性根源，且包含鲜明的道德象征边界与伦理立场评价。
-> - 不等于 功利投机钻营 — 掌控者将制定目标与讲求效率视为对自我负责的高尚伦理，区分于缺乏内在价值承诺的纯粹投机，其内部进一步分化为具备内在价值承诺的自主驱动者与偏重工具效率的机会主义者。
+> - 不等于 心理测量学中的职业成熟度（Career Maturity）或目标定向（Goal Orientation） — 心理测量学仅将目标视作去情境化的个体认知技能；目标掌控模式具有深层的社会阶层[[Habitus|习性]]根源，且包含鲜明的道德[[Symbolic Boundary|象征边界]]与伦理立场评价。
+> - 不等于 功利投机钻营 — 掌控者将制定目标与讲求效率视为对自我负责的高尚伦理，区分于缺乏内在价值承诺的纯粹投机，其内部进一步分化为具备内在价值承诺的[[Self-Driven Mode|自主驱动者]]与偏重工具效率的[[Opportunists|机会主义者]]。
 
 ---
 
 > [!contrast-table|notitle] 概念辨析
 > | 比较维度 | 目标掌控模式（Goal-Controlled） | 直觉依赖模式（Intuition-Dependent） | 传统职业成熟度（Career Maturity） |
 > |---|---|---|---|
-> | **分析视角** | 社会学实践图式与阶层具身化倾向 | 社会学实践图式与习性滞后表达 | 心理学个体认知发展与职业技能水平 |
+> | **分析视角** | 社会学实践图式与阶层具身化倾向 | 社会学实践图式与[[Habitus Hysteresis\|习性滞后]]表达 | 心理学个体认知发展与职业技能水平 |
 > | **目标确立时点** | 入校早期即确立明确生涯方向并前置倒推 | 目标模糊迟缓，面临毕业节点仓促被动应付 | 测量特定年龄段的认知准备状态 |
-> | **场域规则认知** | 熟稔非制度性潜规则，掌握文化性知识 | 局限于字面成文要求，缺乏制度常识与眼界 | 孤立测查职业信息获取量 |
+> | **场域规则认知** | 熟稔非制度性潜规则，掌握[[Cultural Knowledge\|文化性知识]] | 局限于字面成文要求，缺乏制度常识与眼界 | 孤立测查职业信息获取量 |
 > | **行动投入逻辑** | 策略性精力调控，精准对接出路资本 | 机械沿袭高中题海苦学，投入产出脱节 | 通用的职业探索与决策技能 |
 > | **道德评价立场** | 推崇“机巧负责”与自我主导，视漫无目的为怠惰 | 推崇“老实勤奋”与纯粹苦学，贬斥策略为套路功利 | 不涉及行动者群体的道德象征边界 |
-> | **阶层动力根源** | 优势家庭文化资本传递与父母决策安全网护航 | 弱势家庭教育经验匮乏与信息局限下的无奈放手 | 假设为普遍同质的个体心理成熟过程 |
+> | **阶层动力根源** | 优势家庭[[Cultural Capital\|文化资本]]传递与父母决策安全网护航 | 弱势家庭教育经验匮乏与信息局限下的无奈放手 | 假设为普遍同质的个体心理成熟过程 |
 
 ---
 
 > [!feature] 核心要素
 > - **目标前置与逆向规划** 在具体行动之前即确立清晰出路预期，以此倒推在校各阶段的时间分配与精力投入节奏，避免盲目消耗。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 68–70)]]
-> - **场域规则与隐性知识洞悉** 精准理解高等教育场域的非成文规则（unwritten rules of engagement），洞察保研、留学及名企求职的真实门槛与资本兑换率。
+> - **场域规则与[[Tacit Knowledge|隐性知识]]洞悉** 精准理解高等教育场域的非成文规则（[[Unwritten Rules of Engagement|unwritten rules of engagement]]），洞察[[Recommendation-Based Graduate Admission System|保研]]、[[Study Abroad|留学]]及名企求职的真实门槛与资本兑换率。
 > - **学业投入的边际效用管理** 将学分绩点视作资源初筛门槛而非终极目的，运用选课技巧避开严苛课程、选修给分宽松且任务轻便课程以控制精力成本，依据预期出路与专业的距离决定全情深造或点到为止。[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|(郑雅君, 2023, 第四章)]]
-> - **社会性投入与相对就业力锻造** 高度重视课外实习、社团工作与高层级人际网络，通过顺藤摸瓜与碰壁试错锁定职业目标，在名企终面中展现高情商、从容仪态与即时转化率等演绎能力。
+> - **[[Social Engagement|社会性投入]]与相对[[Employability|就业力]]锻造** 高度重视课外实习、社团工作与高层级人际网络，通过顺藤摸瓜与碰壁试错锁定职业目标，在名企终面中展现高情商、从容仪态与即时转化率等演绎能力。
 > - **道德正当性认同（机巧负责）** 将批判审视制度权威、高效实现设定目标界定为优秀品质，用“有趣”与自主选择标榜自我身份。
 > - **代际资源与决策安全网支撑** 依托受过良好教育的父母提供信息推演、行业人脉与容错托底，形成敢于自主决断的心理底气。
 
@@ -115,10 +121,10 @@ updated: 2026-11-17
 ---
 
 > [!concept-proposition] 命题一｜目标掌控模式是优势阶层文化资本与中学生态具身化的实践表达
-> **阶层习性与家庭护航网的具身化** 目标掌控倾向是优势家庭在长周期社会化中深层培育的具身化产物，超越了个体天赋假设。
+> **阶层习性与家庭护航网的具身化** 目标掌控倾向是优势家庭在长周期社会化中深层培育的具身化产物，超越了个体[[Talent Assumption|天赋假设]]。
 
 > [!claim] Zheng, Y.
-> **中学素质教育与家庭安全网的双重滋养** 郑雅君证实，目标掌控者多成长于东部大都市优势阶层家庭，就读于资源充沛的知名高中。高中阶段充裕的选修课程、数字化创新实验室与宽松课业作风，赋予其探索个人志趣与审视制度规则的批判精神；父母具备高等教育经验与专业视野，通过构建幕后决策安全网提供利弊推演与托底支持，使学生在踏入大学前就已具身化了独立自主的生活掌控感（pp. 73–86）。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 73–86)]]
+> **中学[[Quality Education|素质教育]]与家庭安全网的双重滋养** 郑雅君证实，目标掌控者多成长于东部大都市优势阶层家庭，就读于资源充沛的知名高中。高中阶段充裕的选修课程、数字化创新实验室与宽松课业作风，赋予其探索个人[[Professional Interest|志趣]]与审视制度规则的[[Critical Thinking Disposition|批判精神]]；父母具备高等教育经验与专业视野，通过构建幕后决策安全网提供利弊推演与托底支持，使学生在踏入大学前就已具身化了独立自主的生活掌控感（pp. 73–86）。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 73–86)]]
 
 ---
 
@@ -148,20 +154,20 @@ updated: 2026-11-17
 ---
 
 > [!dev-timeline] 概念演变
-> - **1964 — 布迪厄《继承人》中的超脱涉猎者** 皮埃尔·布迪厄在《继承人》中指出，优势阶层学生因家庭特权而对学业工作保持超脱的距离，能够以清醒目的从容达成合理目的，奠定了阶层文化适应的原型。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(Bourdieu & Passeron, 1979)]]
-> - **2012 — Baxter Magolda 自我主导理论启发** 马西亚·巴克斯特·马戈尔达提出自我主导性（self-authorship），强调依循内在声音主导认知发展、认同与人际关系；郑雅君吸纳此理论精髓并注入阶层习性解释。
+> - **1964 — [[Pierre Bourdieu|布迪厄]]《继承人》中的超脱涉猎者** 皮埃尔·布迪厄在《继承人》中指出，优势阶层学生因家庭特权而对学业工作保持超脱的距离，能够以清醒目的从容达成合理目的，奠定了阶层文化适应的原型。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(Bourdieu & Passeron, 1979)]]
+> - **2012 — Baxter Magolda 自我主导理论启发** 马西亚·巴克斯特·马戈尔达提出[[Self-Authorship|自我主导性]]（self-authorship），强调依循内在声音主导认知发展、认同与人际关系；郑雅君吸纳此理论精髓并注入阶层习性解释。
 > - **2014–2017 — 顶尖高校田野追踪与概念提炼** 郑雅君在南北两所顶尖大学对多届本科生开展多轮纵向追踪生活史访谈，发现优等生在大学组织实践中展现出系统的目标前置与策略性投入模式。
-> - **2023 — 《金榜题名之后》正式操作化与类型拓展** 出版专著正式确立目标掌控模式概念；并在第四章将分析推向学业投入与社会性投入维度的双轨精力调控机制（表 4），后续章节结合价值信念维度进一步细化为[[Self-Driven Mode|自主驱动者]]与[[Opportunist Mode|机会主义者]]两种亚类型。
+> - **2023 — 《金榜题名之后》正式[[Operationalization|操作化]]与类型拓展** 出版专著正式确立目标掌控模式概念；并在第四章将分析推向学业投入与社会性投入维度的双轨精力调控机制（表 4），后续章节结合价值信念维度进一步细化为[[Self-Driven Mode|自主驱动者]]与机会主义者两种亚类型。
 
 ---
 
 > [!critique|notitle] 外部批评与理论反思
-> - **过度策略化对纯粹学问的挤压** 批评者指出，目标掌控模式高度依赖实用主义与工具理性，在实践中极易诱发针对绩点的精致计算与挑课套利，可能损害通识教育所追求的纯粹求知精神与学术理想。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 71–73)]]
+> - **过度策略化对纯粹学问的挤压** 批评者指出，目标掌控模式高度依赖[[Pragmatic Paradigm|实用主义]]与工具理性，在实践中极易诱发针对绩点的精致计算与挑课套利，可能损害[[General Education|通识教育]]所追求的纯粹求知精神与学术理想。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 71–73)]]
 > - **工具理性套利与自我探索的受限** 目标掌控模式在机会主义形态下容易演化为纯粹迎合评价机制的功利套利，限制了深度自我审视与自主生活意义建构的探索空间。[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|(郑雅君, 2023, pp. 358–360)]]
 > - **精英大学情境局限** 该概念基于顶尖研究型大学具有丰富出路分化选择的背景提炼，在普通本科或以单一考研、考公为主导的高校中，策略博弈的空间可能受到不同制度制约。
 
 > [!warning|limits] 适用局限
-> 目标掌控模式属于理想类型，现实中的学生分布构成与家庭社会经济背景密切相关的连续统；不能将该概念用于道德优劣评判，其高效性在很大程度上依托于优势阶层先赋资本的支撑。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 71–73)]]
+> 目标掌控模式属于理想类型，现实中的学生分布构成与[[Socioeconomic Status|家庭社会经济背景]]密切相关的连续统；不能将该概念用于道德优劣评判，其高效性在很大程度上依托于优势阶层先赋资本的支撑。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 71–73)]]
 
 ---
 
@@ -179,7 +185,7 @@ updated: 2026-11-17
 > | [[Self-Authorship]] | 概念 | 提供核心心理认知构件，阐明依据内在价值主导生活规划的自我主导机制。 |
 > | [[Culture as Toolkit]] | 理论 | 为目标掌控者灵活调用规划、调研与人际工具提供文化社会学阐释。 |
 > | [[Yajun Zheng]] | 人物 | 提出并系统实证操作化目标掌控模式的教育社会学者。 |
-> | [[Pierre Bourdieu]] | 人物 | 实践理论奠基者，提供场域、资本与习性的底层理论分析框架。 |
+> | [[Pierre Bourdieu]] | 人物 | 实践理论奠基者，提供场域、资本与习性的底层[[Analytic Framework\|理论分析框架]]。 |
 
 ---
 

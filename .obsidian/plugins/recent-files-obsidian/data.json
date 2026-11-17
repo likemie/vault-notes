@@ -5,16 +5,24 @@
       "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
     },
     {
+      "basename": "Continuous Doctoral Training",
+      "path": "wiki/concepts/higher-education/Continuous Doctoral Training.md"
+    },
+    {
+      "basename": "The Interesting",
+      "path": "wiki/concepts/educational-philosophy/The Interesting.md"
+    },
+    {
+      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch02",
+      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
+    },
+    {
       "basename": "Goal-Controlled Mode",
       "path": "wiki/concepts/sociology-of-education/Goal-Controlled Mode.md"
     },
     {
       "basename": "Yajun Zheng",
       "path": "wiki/persons/china/Yajun Zheng.md"
-    },
-    {
-      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch02",
-      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
     },
     {
       "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch01",
@@ -191,14 +199,6 @@
     {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic",
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic.md"
-    },
-    {
-      "basename": "Begg and Mazumdar Rank Correlation",
-      "path": "wiki/methods/quantitative/Begg and Mazumdar Rank Correlation.md"
-    },
-    {
-      "basename": "Hammermeister_2002_Cambridge",
-      "path": "books/Hammermeister_2002_Cambridge/Hammermeister_2002_Cambridge.md"
     }
   ],
   "omittedPaths": [],

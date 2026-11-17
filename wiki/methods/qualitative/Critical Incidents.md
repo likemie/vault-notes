@@ -9,7 +9,7 @@ summary: "一种观察技术，聚焦于非例行但极具揭示性的特定事�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -36,9 +36,10 @@ related_concepts:
   - "[[Causality]]"
   - "[[Homework]]"
   - "[[Classroom Management]]"
+  - "[[Typicality]]"
 status: draft
 created: 2026-07-23
-updated: 2026-10-29
+updated: 2026-11-17
 ---
 
 ---
@@ -97,7 +98,7 @@ updated: 2026-10-29
 > [!method-limits] 方法局限
 > - **偏误来源** 研究者的主观判断直接影响哪些事件被记录为"关键"；可能过度关注戏剧性事件而忽略微妙但同样有揭示力的事件；事后回忆可能扭曲事件细节。
 > - **适用边界** 依赖关键事件**实际发生**——如果观察期内没有不寻常事件发生，方法无法提供数据；发现的概括性有限。
-> - **误用风险** 将单个关键事件的解释过度推广为个体的整体特征；忽视事件发生的情境特殊性。
+> - **误用风险** 将单个关键事件的解释过度推广为个体的整体特征；忽视事件发生的情境[[Typicality|特殊性]]。
 > - **补救方式** 结合多种数据来源进行[[Triangulation\|三角互证]]；延长观察时间以增加遭遇关键事件的机会；在记录事件时同时记录完整的情境脉络和观察者反应。
 
 ---

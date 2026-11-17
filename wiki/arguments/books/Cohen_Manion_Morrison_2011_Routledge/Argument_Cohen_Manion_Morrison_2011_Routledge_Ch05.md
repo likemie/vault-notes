@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_display_title: "Research Methods in Education · Ch05"
 argument_kind: "book-chapter"
-argument_related_count: 54
+argument_related_count: 56
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -59,6 +59,7 @@ related_concepts:
   - "[[Sponsored Research Agreement]]"
   - "[[Research Question]]"
   - "[[Socioeconomic Status]]"
+  - "[[Typicality]]"
   - "[[Champ]]"
 related_theories:
   - "[[Situated Ethics]]"
@@ -81,6 +82,7 @@ related_methods:
   - "[[Role-playing]]"
 related_persons: []
 related_facts:
+  - "[[Recommendation-Based Graduate Admission System]]"
   - "[[Stanford Prison Experiment]]"
   - "[[American Educational Research Association]]"
   - "[[ASEAN Credit Transfer System]]"
@@ -91,7 +93,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-18
-updated: 2026-10-30
+updated: 2026-11-17
 ---
 > [!logic-map]- 论证结构
 > ```mermaid
@@ -566,7 +568,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 > 需要将参与者视为平等者，而非"对象"或从属于研究者（pp.91–93）：
 > - 避免称他们为"受试者"而非平等者（Oliver, 2003）
 > - 避免污名化群体（失业者、无家可归者、宗教群体、族裔群体、因性取向/着装/信仰被视为偏离者）
-> - 确保研究不在不存在问题的地方制造问题（如在一个族裔关系和谐的社区中提出族裔冲突问题）
+> - 确[[Recommendation-Based Graduate Admission System|保研]]究不在不存在问题的地方制造问题（如在一个族裔关系和谐的社区中提出族裔冲突问题）
 
 ---
 
@@ -1215,7 +1217,7 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 > 'while ethics has traditionally been seen as a set of general principles invariantly and validly applied to all situations, . . . on the contrary, ethical principles are mediated within different research practices and thus take on different significances in relation to those practices' (Simons & Usher, 2000, p. 1).
 
 > [!citation-card] 情境伦理的不可普遍化（Simons & Usher）
-> "研究者无法避免权衡位于研究情境特殊性中的冲突考量和困境，在这些困境中需要做出伦理决定，但这些决定不能通过诉诸单义、单值的（unambiguous and univalent）原则或守则来达到。"（p.128）
+> "研究者无法避免权衡位于研究情境[[Typicality|特殊性]]中的冲突考量和困境，在这些困境中需要做出伦理决定，但这些决定不能通过诉诸单义、单值的（unambiguous and univalent）原则或守则来达到。"（p.128）
 >
 > 'researchers cannot avoid weighing up conflicting considerations and dilemmas which are located in the specificities of the research situation and where there is a need to make ethical decisions but where those decisions cannot be reached by appeal to unambiguous and univalent principles or codes' (Simons & Usher, 2000, p. 2).
 

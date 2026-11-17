@@ -3,27 +3,34 @@ title: The Interesting
 aliases:
   - 趣味性
   - das Interessante
-  - 有趣
 summary: "美学批判范畴，指在叔本华美学中通过刺激欲望或悬念迫使主体意志作出反应的经验属性，因扰动无意志的纯粹静观而被判定为对美感的破坏。"
 type: concept
 domain: "educational-philosophy"
-related_count: 0
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags:
   - field/educational-philosophy
   - theme/aesthetics
+related_concepts:
+  - "[[Philosophical Aesthetics]]"
+  - "[[Epoché]]"
+  - "[[Disinterested Pleasure]]"
+related_persons:
+  - "[[Arthur Schopenhauer]]"
+related_arguments:
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch06]]"
 confidence: high
 status: draft
-created: "2026-11-15"
-updated: 2026-11-15
+created: 2026-11-15
+updated: 2026-11-17
 ---
 
 ---
 
 > [!def] The Interesting
-> 在[[Arthur Schopenhauer|阿图尔·叔本华]]（Arthur Schopenhauer）1821 年短论《论趣味性》（*Über das Interessante*）中提出的美学对立范畴，指一切通过外在压迫或诱惑迫使观众意志作出回应的对象特征；由于真正的审美体验要求悬置意志，“有趣”之物因唤醒利害关切而与纯粹美感相冲突。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 112, 118, 231)]]
+> 在[[Arthur Schopenhauer|阿图尔·叔本华]]（Arthur Schopenhauer）1821 年短论《论趣味性》（*Über das Interessante*）中提出的[[Philosophical Aesthetics|美学]]对立范畴，指一切通过外在压迫或诱惑迫使观众意志作出回应的对象特征；由于真正的审美体验要求[[Epoché|悬置]]意志，“有趣”之物因唤醒利害关切而与纯粹美感相冲突。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 112, 118, 231)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 强迫主体关注或产生欲求冲动、从而打断无利害静观的刺激性属性。

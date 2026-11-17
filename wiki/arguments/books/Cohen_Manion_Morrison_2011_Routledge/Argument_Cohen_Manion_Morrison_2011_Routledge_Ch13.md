@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
 argument_display_title: "Research Methods in Education · Ch13"
 argument_kind: "book-chapter"
-argument_related_count: 58
+argument_related_count: 59
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Study Population and Sample]]"
   - "[[Dependent Variable]]"
   - "[[External Validity]]"
+  - "[[Typicality]]"
   - "[[Positivism]]"
   - "[[Operationalization]]"
   - "[[Research Topic]]"
@@ -94,7 +95,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-07-09
-updated: 2026-11-11
+updated: 2026-11-17
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
@@ -183,7 +184,7 @@ sources:
 > 调查的吸引力在于在给定参数内的[[External Validity\|可推广性]]或普遍性；由大型数据库支持做出陈述的能力；建立对一组发现可信程度的信心（p.259）。
 
 > [!boundary]- 不适用场景
-> 调查不适合以下情形：关注捕捉地方性、制度性或小规模因素和变量；描绘情境的特殊性、独特性和复杂性、人际动态；解释为何某种情境发生或为何某人表现出特定行为；追踪项目如何随时间变化和发展。调查的解释潜力和细节精细度有限，会被脱离时间、空间和具体情境的宽泛概括所淹没。个体实例被牺牲在聚合回应中，这对受访者具有匿名性、不可追踪性和保密性的吸引力。其吸引力主要建立在[[Positivism\|实证主义]]基础之上（pp.259–260）。
+> 调查不适合以下情形：关注捕捉地方性、制度性或小规模因素和变量；描绘情境的[[Typicality|特殊性]]、独特性和复杂性、人际动态；解释为何某种情境发生或为何某人表现出特定行为；追踪项目如何随时间变化和发展。调查的解释潜力和细节精细度有限，会被脱离时间、空间和具体情境的宽泛概括所淹没。个体实例被牺牲在聚合回应中，这对受访者具有匿名性、不可追踪性和保密性的吸引力。其吸引力主要建立在[[Positivism\|实证主义]]基础之上（pp.259–260）。
 
 调查通常依赖大规模数据（问卷、测试分数、出勤率、公共考试结果等），使跨时间或跨群体比较成为可能。小规模调查也可行，但可推广性很弱。调查中研究者通常是明确的外部者（outsider）；在自己受试者上进行调查研究（如参与者是自己正在开设的课程学员，Bimrose & Bayne, 1995; Morrison, 1997）必须附加信度问题。严格关注抽样至关重要，否则调查对更广泛情境的适用性基础将受到严重破坏。追求可推广性时应避免非概率样本；[[Random Sampling|概率抽样]]更容易产生可推广的结论（p.260）。
 

@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-26
+updated: 2026-11-17
 ---
 
 > [!info] 定义
@@ -64,7 +64,7 @@ updated: 2026-10-26
 
 **欧美母亲的情感社会化([[Argument_Li_2012_Cambridge|Li, 2012, p.266–271]])**
 - 学习过程：强调兴趣（interest）、好奇心（curiosity）、乐趣（fun）、享受（enjoyment）
-- 学习成就：强调[[Pride in Learning|自豪]]（pride）——孩子应为自己的成就感到骄傲，父母也为孩子骄傲
+- 学习成就：强调自豪（pride）——孩子应为自己的成就感到[[Pride in Learning|骄傲]]，父母也为孩子骄傲
 - 引导方式：将学习活动与积极情感体验直接关联——"你在学习，但这很有趣，不是吗？""你想让我们为你骄傲，还是你想为自己骄傲？"
 
 **台湾母亲的情感社会化([[Argument_Li_2012_Cambridge|Li, 2012, p.271–280]])**

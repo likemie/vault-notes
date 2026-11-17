@@ -7,10 +7,10 @@ aliases:
 summary: "以相对风险规避为核心机制解释不同阶层教育选择差异的中层社会学理论，主张教育决策是个体在阶级约束条件下对成本、风险和收益的理性权衡。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 39
-theory_related_level: 3
-theory_related_stars: "💎"
-theory_related_color: "#ede9fe"
+theory_related_count: 40
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - rational-action-theory
   - social-stratification
@@ -60,6 +60,7 @@ related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
 related_instruments:
   - "[[Remote Associates Test]]"
@@ -72,9 +73,9 @@ updated: 2026-11-17
 ---
 
 > [!theory-position] 理论定位
-> - **解释对象** 不同社会阶级在教育获得与升学轨迹上的持续分化——特别是家庭背景在控制学业能力后，为何依然系统性地左右教育选择。
+> - **解释对象** 不同社会阶级在教育获得与升学轨迹上的持续分化，特别是家庭背景在控制学业能力后，为何依然系统性地左右教育选择。
 > - **理论问题** 教育决策究竟是阶级文化的被动复制，还是阶级约束条件下的主动理性权衡？在战后初中等教育普及与高等教育大扩张背景下，为何所有阶层的绝对受教育机会均有上升，而阶层间相对差距却惊人稳固？
-> - **理论类型** 中层解释理论（Middle-Range Theory）——以“相对风险规避”（Relative Risk Aversion, RRA）为核心微观机制，连接宏观阶层分层结构与微观教育分流决策。
+> - **理论类型** 中层解释理论（Middle-Range Theory），以“相对风险规避”（Relative Risk Aversion, RRA）为核心微观机制，连接宏观阶层分层结构与微观教育分流决策。
 > - **知识位置** 属于现代社会分层研究中的理性选择学派传统。与[[Karl Marx|马克思]]主义的结构[[Determinism|决定论]]、功能主义的现代化[[Human Capital Theory|人力资本]]假说、以及[[Pierre Bourdieu|布迪厄]]的[[Cultural Capital|文化资本]]再生产理论构成当代教育不平等领域的四重主要对话[[Paradigm|范式]]（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 82–87]]）。
 
 > [!claim] 核心判断
@@ -94,11 +95,11 @@ updated: 2026-11-17
 > - **1997 — [[Pragmatic Paradigm|实用主义]]与[[Habitus|习性]]修正** 霍德金森与斯帕克斯（Phil Hodkinson & Andrew C. Sparkes, 1997）结合布迪厄的习性与[[Champ|场域]]理论，指出青年教育决策受限于个体行动视野（Horizons for Action），是深嵌于家庭生活背景中的[[Pragmatic Paradigm|实用主义]]决策，决策信息本身深受家庭背景扭曲。
 > - **1999 — 跨文化检验与反向[[Falsification|证伪]]** 彼得·德梅拉斯（Peter Demerath, 1999; 引自 [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 109–110]]）在巴布亚新几内亚佩雷村的[[Fieldwork|田野研究]]指出，当外部劳动力市场破产与现代[[Credential Inflation|文凭通胀]]并存时，边缘乡村青年主动放弃升学、集体嘲讽考学者并颂扬传统渔猎生活，实证[[Falsification|证伪]]了脱离本土文化情境的西方抽象[[Cost-Benefit Analysis|成本效益分析]]与理性选择假设。
 > - **2007 — 严谨推理与经验排除** 戈德索普（Goldthorpe, 2007）运用七步推理法，以多波次队列数据检验该理论模型，系统排除了马克思主义阶级决定论、自由主义技术功能论与文化内化论三种竞争假说。
-> - **2023 — 文化社会学批判与中国在地拓展** [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]将理性行动理论置于中国拔尖大学寒门学子的生涯追踪中，揭示纯粹效用计算视角无法涵盖大学生的情感动能、意义追寻与[[Cultural Barrier|文化障碍]]。
+> - **2023 — 文化社会学批判与中国在地拓展** [[Argument_Zheng_2023_ShanghaiSanlian_Ch06|郑雅君 (2023)]]将理性行动理论置于中国拔尖大学寒门学子的生涯追踪中，揭示纯粹效用计算视角无法涵盖大学生的情感动能、意义追寻与[[Cultural Barrier|文化障碍]]；结合雷蒙·布东（Boudon, 2001）的广义理性理论与韦伯价值合理性，论证行动者的出路抉择建立在主观充分理由之上，拓展了理性行动理论的价值维度。[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|(郑雅君, 2023, 第六章, pp. 358–360)]]
 
 ---
 
-> [!entry-map] 关键概念与理论构件
+> [!theory-constructs] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -159,7 +160,7 @@ updated: 2026-11-17
 > - **成立条件** 行动者对劳动力市场凭证回报具有一定程度的信息掌握；教育系统具备制度化选拔规则与多重分流通道；家庭具备基本的长期生涯规划空间。
 > - **解释不足** 无法充分解释“首属效应”（早期认知与学业优势如何产生）；难以解释为何存在大量出于理想、信仰、学术热爱或道德感召而做出的“超理性”或“反效用”教育抉择；在急剧变迁或制度动荡期，客观风险参数失真导致模型预测力下降。
 > - **转化困难** 相对风险规避倾向与主观成功胜算在经验测量中往往缺乏标准化直接指标，极易沦为事后合理化的同义反复解释。
-> - **不能直接推出** 理论绝不能推导出“底层群体不够理性、缺乏远见或目光短浅”——[[Remote Associates Test|RAT]] 的核心洞见恰恰在于证明弱势群体的保守选择在其严酷的生存约束下是**高度理性的**。同时，RAT 也不能单独证明教育扩张完全无效，其揭示的是相对差距的黏性而非绝对机会的停滞。
+> - **不能直接推出** 理论不能推导出底层群体缺乏远见或非理性；该理论的核心洞见恰恰在于证明弱势群体的保守选择在其生存约束下具有充分的工具理性。同时，该理论也不能单独证明教育扩张完全无效，其揭示的是相对差距的黏性而非绝对机会的停滞。
 
 ---
 

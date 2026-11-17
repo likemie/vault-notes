@@ -10,7 +10,7 @@ title: "Argument_Hammermeister_2002_Cambridge_Ch05"
 argument_key: "Argument_Hammermeister_2002_Cambridge_Ch05"
 argument_display_title: "The German aesthetic tradition"
 argument_kind: "book-chapter"
-argument_related_count: 61
+argument_related_count: 60
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -57,7 +57,6 @@ related_concepts:
   - "[[Post-histoire]]"
   - "[[Faust]]"
   - "[[Ontology]]"
-  - "[[The Interesting]]"
   - "[[Deception in Research]]"
   - "[[Reliability]]"
 related_theories:
@@ -95,7 +94,7 @@ related_facts:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: "2026-11-15"
+updated: 2026-11-17
 ---
 
 ---
@@ -294,7 +293,7 @@ updated: "2026-11-15"
 > [!sub-claim] 1. 黑格尔回避丑的问题，他的弟子率先系统研究丑与滑稽
 
 > [!timeline] 丑学（Aischrology）从边缘到体系化的演进脉络
-> - **古代至 18 世纪 — 丑的局部接纳与[[The Interesting|有趣]]之物** 早在基督受难像之前，戈耳工、美杜莎（美丑奇异混合）和复仇女神就已经进入艺术。亚里士多德（《诗学》1448b）肯定把丑陋对象画得传神同样能带来快感；普罗提诺（《九章集》I, 6, 5）把丑归因于灵魂沉溺在肉体里；18 世纪诗学把丑看作美的反面与“有趣之物”；1795 年[[Friedrich Schlegel|弗里德里希·施莱格尔]]在《论希腊诗的研究》里，率先在德国唯心论语境下奠定了丑学（*aischrology*）（p. 105）。
+> - **古代至 18 世纪 — 丑的局部接纳与有趣之物** 早在基督受难像之前，戈耳工、美杜莎（美丑奇异混合）和复仇女神就已经进入艺术。亚里士多德（《诗学》1448b）肯定把丑陋对象画得传神同样能带来快感；普罗提诺（《九章集》I, 6, 5）把丑归因于灵魂沉溺在肉体里；18 世纪诗学把丑看作美的反面与“有趣之物”；1795 年[[Friedrich Schlegel|弗里德里希·施莱格尔]]在《论希腊诗的研究》里，率先在德国唯心论语境下奠定了丑学（*aischrology*）（p. 105）。
 > - **黑格尔的回避与浪漫派对照** 黑格尔本人没有系统讲过丑，只是零星带过。传记学者霍斯特·阿尔特豪斯（Althaus, 1992）指出，黑格尔讨厌卡尔·马利亚·冯·韦伯（Carl Maria von Weber）的音乐，正印证了阿多诺对浪漫派音乐“变奏压倒主题”的判断：在只有零散变化、没有完整统一结构的地方，黑格尔没法忍受纯然丑陋的艺术（pp. 105–106）。
 > - **1830–1837 — 魏塞与菲舍尔的黑格尔派先声** 克里斯蒂安·赫尔曼·魏塞（Weisse, 1830）在《美学体系》里论证，美是崇高（美向真与善过渡）和丑（美因恶而扭曲）的共同根基，而丑标志着崇高向滑稽的过渡；弗里德里希·特奥多尔·菲舍尔（Friedrich Theodor Vischer, 1837）在《论崇高与滑稽》中也延续了把审美和伦理捆在一起的黑格尔派思路，不过他把崇高看作美的显现，地位低于美本身（p. 106, 230 n.30）。
 

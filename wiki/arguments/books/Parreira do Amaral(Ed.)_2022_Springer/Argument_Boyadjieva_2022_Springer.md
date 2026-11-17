@@ -9,7 +9,7 @@ title: "Argument_Boyadjieva_2022_Springer"
 argument_key: "Argument_Boyadjieva_2022_Springer"
 argument_display_title: "(Un)avoidable clash: Higher education at the altar of its missions and rankings"
 argument_kind: "book"
-argument_related_count: 27
+argument_related_count: 29
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Hidden Curriculum]]"
   - "[[Research Universities]]"
+  - "[[Methexis]]"
   - "[[Employability]]"
   - "[[Critical Thinking]]"
   - "[[Corporate University]]"
@@ -41,6 +42,7 @@ related_concepts:
   - "[[Halo Effect]]"
   - "[[Reliability]]"
   - "[[Performance Indicators]]"
+  - "[[Language-of-State]]"
   - "[[Value Neutrality]]"
   - "[[Literature Review]]"
 related_theories:
@@ -63,7 +65,7 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-11
-updated: 2026-11-11
+updated: 2026-11-17
 year: 2022
 doi: ""
 citation_aliases:
@@ -124,7 +126,7 @@ citation_aliases:
 **2.1 理论基础：Sen 的五种教育价值**
 
 > [!abstract|notitle]
-> Drèze & Sen（2002, pp.38–40）在讨论印度的发展与参与问题时，提出教育对个人自由的贡献有五种不同类型(p.128)：
+> Drèze & Sen（2002, pp.38–40）在讨论印度的发展与[[Methexis|参与问题]]时，提出教育对个人自由的贡献有五种不同类型(p.128)：
 >
 > 1. **内在重要性** 读书、思考、获得知识这件事本身就是有意义的，就像听一首好音乐不需要"有什么用"
 > 2. **工具性个人角色** 教育帮我找到更好的工作、拿到更高的薪水——这是最常被讨论的"用处"
@@ -326,7 +328,7 @@ Boyadjieva 公平地承认，一些排名系统已经意识到了上述问题并
 > [!success] 主要发现
 > - 2014 年 Hazelkorn 国际调查：**84%** 的受调查高校已建立审视排名的内部机制，"绝大多数"用排名指导战略决策(p.125)
 > - 全球排名系统性偏爱：研究密集型、自然科学强势、英文发表、历史悠久国家的等级森严院校(pp.131–132)
-> - 大学排名的跨国差异中，"很大一部分可以由仅四个社会经济因素解释：收入、人口规模、研发支出和国家语言"(Li et al., 2011, p.923, p.132)
+> - 大学排名的跨国差异中，"很大一部分可以由仅四个社会经济因素解释：收入、人口规模、研发支出和[[Language-of-State|国家语言]]"(Li et al., 2011, p.923, p.132)
 > - 排名指标之间的差异大至"没有任何两个系统是相似的，在系统之间甚至找不到一个重合的指标"(Usher & Savino, 2007, p.28, p.135)
 > - 所有排名都声称按"质量"排序，但没有一个给出质量定义——"没有国际公认的定义或方法论，没有客观或[[Value Neutrality\|价值中立]]的指标组合，没有共同的国际数据集"(Hazelkorn, 2015, p.xvi, pp.135–136)
 > - 全球排名没有一个使用直接反映教育结果质量的指标——不测试学生知识技能、不评估毕业生专业能力(p.136)

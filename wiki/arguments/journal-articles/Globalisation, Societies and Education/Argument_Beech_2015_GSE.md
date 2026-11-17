@@ -10,7 +10,7 @@ title: "Argument_Beech_2015_GSE"
 argument_key: "Argument_Beech_2015_GSE"
 argument_display_title: "Interpreting the circulation of educational discourse across space: searching for new vocabularies"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Circular Transfer]]"
   - "[[Normal School]]"
+  - "[[Mimesis]]"
   - "[[Epistemology]]"
   - "[[Government to Governance Shift]]"
   - "[[Network Governance]]"
@@ -64,7 +65,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-07
-updated: 2026-11-11
+updated: 2026-11-17
 year: 2015
 doi: ""
 citation_aliases:
@@ -97,7 +98,7 @@ citation_aliases:
 大多数比较教育研究基于领土和[[Geopolitics|地缘政治]]的空间定义，以民族国家为[[Unit of Analysis|分析单位]]。在这种空间概念下，教育转移被解释为某些教育思想或制度存在于某个语境（通常是民族国家），然后通过不同机制被转移到另一个语境。这种「静态的转移解释」认为思想在某个地点被生产，然后在另一个地点被接收。一些文化主义视角强调外国教育思想的本地适应和[[Recontextualization|再脉络化]]过程（[[Gita Steiner-Khamsi]], 2000; Schriewer, 2000），还有学者提出[[Circular Transfer|循环转移]]概念，指教育思想在出借者和借用者之间来回移动。但这些解释同样基于地缘政治和领土性的空间定义。
 
 > [!example] [[Normal School\|师范学校]]的流通轨迹
-> 师范学校作为培训小学教师的机构，18 世纪起源于欧洲。「师范」（normal）一词最早在普鲁士使用，后传入瑞士和法国(Larsen, 2011)。师范学校对旅行者和改革者极具吸引力，他们前往这些国家寻找可模仿的模型。由此，师范学校被「转移」到加拿大、美国、墨西哥、阿根廷、哥伦比亚、智利、巴西、芬兰、日本、中国、台湾、菲律宾、新西兰等地。
+> 师范学校作为培训小学教师的机构，18 世纪起源于欧洲。「师范」（normal）一词最早在普鲁士使用，后传入瑞士和法国(Larsen, 2011)。师范学校对旅行者和改革者极具吸引力，他们前往这些国家寻找可[[Mimesis|模仿]]的模型。由此，师范学校被「转移」到加拿大、美国、墨西哥、阿根廷、哥伦比亚、智利、巴西、芬兰、日本、中国、台湾、菲律宾、新西兰等地。
 >
 > 以阿根廷为例，通常认为阿根廷复制（或转移）了法国师范学校作为教师培训模型(Alliaud, 1993)。然而实际过程远为复杂。萨米恩托（Sarmiento）是阿根廷政治家和知识分子，被视为阿根廷教育体系的奠基人。1842 年流亡期间，他在智利创立并主持了该国第一所师范学校。三年后受智利政府派遣考察欧美教育体系，深受马萨诸塞州[[Horace Mann\|霍勒斯·曼]]（Horace Mann）的工作吸引，与之建立了密切关系(Velleman, 2001)。1869 年萨米恩托担任阿根廷总统后，在巴拉那市（Paraná）以波士顿模型为基础创立了阿根廷第一所师范学校。
 >

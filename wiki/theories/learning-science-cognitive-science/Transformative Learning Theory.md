@@ -9,7 +9,7 @@ aliases:
 summary: "成人教育与学习科学中关于个体如何通过关键反思审视并重构既有心理假设、信念图式与参照框架，从而实现根本性视角转换的理论体系。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 31
+theory_related_count: 33
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -26,10 +26,12 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Discourse]]"
   - "[[Research Question]]"
+  - "[[Mimesis]]"
   - "[[Learning Analytics]]"
   - "[[Paradigm]]"
   - "[[Further Education]]"
   - "[[Procedural Skill]]"
+  - "[[Aesthetic Shock]]"
   - "[[Epistemic Practices]]"
   - "[[Evidence Standards]]"
   - "[[Epistemology]]"
@@ -57,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-11-11
+updated: 2026-11-17
 ---
 
 ---
@@ -116,7 +118,7 @@ updated: 2026-11-11
 > - **[[Research Question|研究问题]]** 教学干预、职业发展或重大组织变革如何促使个体突破习惯性认知盲区，实现视角框架的根本跃迁？
 > - **分析对象与单位** 参与教育干预的个体学习者或专业人员；分析其言语表述、反思日记、自我评价及实践决策行为。
 > - **需要的材料** 开放式[[Questionnaire|问卷]]文本、[[In-depth Interview|深度访谈]]实录、反思备忘录、课堂或工作坊讨论对话实录。
-> - **解释目标** 识别学习者是否发生真实转化学习（而非表面概念模仿），阐明触发困境、批判反思、理性对话与行动整合的具体机制路径。
+> - **解释目标** 识别学习者是否发生真实转化学习（而非表面概念[[Mimesis|模仿]]），阐明触发困境、批判反思、理性对话与行动整合的具体机制路径。
 
 > [!theory-framework] 转化[[Learning Analytics|学习分析]]框架
 >
@@ -143,7 +145,7 @@ updated: 2026-11-11
 > > 争论转化学习的本质是高度认知化的批判性理性辩护，还是浸润在直觉、情感与潜意识隐喻中的全人体悟。
 > >
 > > - **理性认知派（Mezirow）** 坚持理性反思与有效交往论辩是保障转化免于迷信、盲从与意识形态灌输的核心基石。
-> > - **全人心理派（Dirkx 等）** 指出重大的灵魂震颤与视角改变往往由强烈的情感危机、直觉洞察驱动，纯理性解构容易忽视情感支撑。
+> > - **全人心理派（Dirkx 等）** 指出重大的灵魂[[Aesthetic Shock|震颤]]与视角改变往往由强烈的情感危机、直觉洞察驱动，纯理性解构容易忽视情感支撑。
 >
 > > [!axis] 个体心智自省 vs 社会结构解放
 > > 争论转化学习应当聚焦微观个体的参照框架更新，还是应当直面宏观权力结构的不平等与社会批判解放。

@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 141
+argument_related_count: 143
 argument_related_level: 14
 argument_related_stars: "💎💎💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -74,6 +74,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Interaction Effect]]"
   - "[[Ecological Validity]]"
+  - "[[Typicality]]"
   - "[[Research Utilization]]"
   - "[[Formative Assessment]]"
   - "[[Creativity]]"
@@ -171,13 +172,14 @@ related_methods:
   - "[[Accounts]]"
 related_facts:
   - "[[CORE Education]]"
+  - "[[Recommendation-Based Graduate Admission System]]"
   - "[[Parliamentary Office of Science and Technology]]"
   - "[[ResearchED]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-22
-updated: 2026-11-11
+updated: 2026-11-17
 ---
 > [!logic-map]- 章节论证结构
 > ```mermaid
@@ -555,7 +557,7 @@ Onwuegbuzie & Leech (2006b: 235–7) 将质性内部效度的威胁系统化为�
 
 ##### 质性研究中的外部效度
 
-在自然主义研究中，可推广性被重新解释为**可比较性（comparability）** 和**可迁移性（transferability）（Lincoln & Guba, 1985; Eisenhart & Howe, 1992, p. 647）**（pp.171–172）。这些作者建议评估情境、参与者和环境的**典型性（typicality）**，识别可能的比较群体，并说明数据如何转化为不同环境和文化的意义（LeCompte & Preissle, 1993, p. 348）。
+在自然主义研究中，可推广性被重新解释为**可比较性（comparability）** 和**可迁移性（transferability）（Lincoln & Guba, 1985; Eisenhart & Howe, 1992, p. 647）**（pp.171–172）。这些作者建议评估情境、参与者和环境的**[[Typicality|典型性]]（typicality）**，识别可能的比较群体，并说明数据如何转化为不同环境和文化的意义（LeCompte & Preissle, 1993, p. 348）。
 
 Schofield (1996, p. 200) 认为质性研究提供**清晰、详细和深入的描述**至关重要——以便他人判断一项研究的发现在多大程度上可推广到另一种情境，即解决**可比较性（comparability）** 和**可翻译性（translatability）** 这一对问题。他进一步提出质性研究可以通过两种方式实现可推广性（p. 209）：研究**典型**案例（其对其他情境的适用性——即可迁移性, LeCompte & Preissle, 1993, p. 324）；以及进行**多场所研究（multi-site studies, 如 Miles & Huberman, 1984）**。
 
@@ -1006,7 +1008,7 @@ Onwuegbuzie and Johnson (2006) 主张在混合方法研究中用 **"合法化"�
 > [!ref-table] 报告阶段：完整性
 > | 措施 | 说明 |
 > |---|---|
-> | **确保研究问题得到回答** | 报告应回应研究开始时提出的问题 |
+> | **确[[Recommendation-Based Graduate Admission System\|保研]]究问题得到回答** | 报告应回应研究开始时提出的问题 |
 > | **既不过早也不过晚发布研究结果** | 时机选择影响结果的可利用性 |
 
 ---

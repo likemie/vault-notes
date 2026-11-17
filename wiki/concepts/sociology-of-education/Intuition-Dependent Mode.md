@@ -7,7 +7,7 @@ aliases:
 summary: "大学生活组织实践的理想类型模式，指学生因习性滞后与文化性知识匮乏，缺乏长远目标定位，依循直觉旧习与机械苦学应对大学挑战的行动图式。"
 type: concept
 domain: "sociology-of-education"
-related_count: 33
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -20,43 +20,46 @@ tags:
   - region/china
   - level/higher-ed
 related_concepts:
-  - "[[Goal-Controlled Mode]]"
-  - "[[Habitus]]"
   - "[[Champ]]"
-  - "[[Cultural Capital]]"
-  - "[[Symbolic Boundary]]"
-  - "[[The Shock of the Elite]]"
-  - "[[Self-Authorship]]"
-  - "[[Academic Engagement]]"
-  - "[[Extracurricular Activities]]"
   - "[[Research Universities]]"
+  - "[[Habitus Hysteresis]]"
+  - "[[Cultural Knowledge]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Cultural Capital]]"
+  - "[[Habitus]]"
+  - "[[Tacit Knowledge]]"
+  - "[[Academic Engagement]]"
+  - "[[Social Engagement]]"
+  - "[[The Sublime]]"
+  - "[[The Shock of the Elite]]"
+  - "[[Habitus Divided Against Itself]]"
+  - "[[Professional Interest]]"
+  - "[[Continuous Doctoral Training]]"
+  - "[[First-Generation College Student]]"
+  - "[[Symbolic Boundary]]"
+  - "[[Enculturation]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
+  - "[[Habitus Transformation]]"
+  - "[[Operationalization]]"
   - "[[Lost Mode]]"
   - "[[Value Conformist Mode]]"
-  - "[[Graduation Pathway Typology]]"
-  - "[[Academic and Social Integration]]"
-  - "[[Student Engagement]]"
-  - "[[Social Engagement]]"
-  - "[[Socioeconomic Status]]"
-  - "[[Academic Achievement]]"
-  - "[[Continuous Doctoral Training]]"
+  - "[[Cultural Code]]"
+  - "[[Self-Authorship]]"
 related_theories:
   - "[[Culture as Toolkit]]"
-  - "[[Dual-Process Model of Culture in Action]]"
-  - "[[Rational Action Theory]]"
 related_methods:
+  - "[[Critical Policy Analysis]]"
   - "[[In-depth Interview]]"
-  - "[[Constructivist Grounded Theory]]"
 related_instruments: []
 related_persons:
   - "[[Yajun Zheng]]"
   - "[[Pierre Bourdieu]]"
-  - "[[Marcia Baxter Magolda]]"
-  - "[[Ann Swidler]]"
 related_facts:
   - "[[Gaokao]]"
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch04]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 confidence: high
@@ -68,12 +71,12 @@ updated: 2026-11-17
 ---
 
 > [!def] Intuition-Dependent Mode
-> **直觉依赖模式（Intuition-Dependent Mode）** 是大学生组织大学生活的一种实践图式，其核心特征表现为：缺乏清晰刻意的生涯目标规划，对高等教育场域及劳动力市场的显隐运转规则不甚了解，难以找准自我定位而陷入无目标状态；在日常行动中主要倚靠直觉与情境反应，机械沿袭中学阶段的应试苦学旧习，将大量精力单一投注于课程卷面考试，在缺乏长程策略的情形下后知后觉，往往错失将大学资源转化为出路竞争优势的宝贵时机。该概念由[[Yajun Zheng|郑雅君]]（2023）在对中国两所顶尖研究型大学 62 名毕业班学生的追踪生活史考察中提炼确立。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 65–74)]]
+> **直觉依赖模式（Intuition-Dependent Mode）** 是大学生组织大学生活的一种实践图式，其核心特征表现为：缺乏清晰刻意的生涯目标规划，对高等教育[[Champ|场域]]及劳动力市场的显隐运转规则不甚了解，难以找准自我定位而陷入无目标状态；在日常行动中主要倚靠直觉与情境反应，机械沿袭中学阶段的应试苦学旧习，将大量精力单一投注于课程卷面考试，在缺乏长程策略的情形下后知后觉，往往错失将大学资源转化为出路竞争优势的宝贵时机。该概念由[[Yajun Zheng|郑雅君]]（2023）在对中国两所顶尖[[Research Universities|研究型大学]] 62 名毕业班学生的追踪生活史考察中提炼确立。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 65–74)]]
 
 > [!concept-lens|notitle] 概念透镜
-> - **含义** 指向行动者在精英高校中因习性滞后与文化性知识匮乏，缺乏自主定位并依循旧有习惯行事的实践图式。
-> - **用途** 解释寒门学子凭借优异天赋与高考高分跨入顶尖名校后，为何在毕业出路竞争中遭遇持续性边缘化与被动脱节的微观机制。
-> - **边界** 属于韦伯方法论意义上的理想类型，与目标掌控模式构成连续统的两极；该模式根源在于家庭文化资本与制度常识的结构性匮乏，区分于个人缺乏规划意愿的道德或心理缺陷。
+> - **含义** 指向行动者在精英高校中因[[Habitus Hysteresis|习性滞后]]与[[Cultural Knowledge|文化性知识]]匮乏，缺乏自主定位并依循旧有习惯行事的实践图式。
+> - **用途** 解释寒门学子凭借优异天赋与[[Gaokao|高考]]高分跨入顶尖名校后，为何在毕业出路竞争中遭遇持续性边缘化与被动脱节的微观机制。
+> - **边界** 属于韦伯方法论意义上的理想类型，与[[Goal-Controlled Mode|目标掌控模式]]构成连续统的两极；该模式根源在于家庭[[Cultural Capital|文化资本]]与制度常识的结构性匮乏，区分于个人缺乏规划意愿的道德或心理缺陷。
 
 > [!citation-card] 直觉依赖模式的迷宫摸索者隐喻
 > 直觉依赖模式下的大学生则从未见过迷宫的地图，对其中隐含的规则也不甚了了，更谈不上提前规划路线，因而更可能在里面绕弯子。他们忘我地专注于每一关眼前的单打独斗，按部就班前行，面对关卡心怀忐忑，更容易在关底对决仓促降临时陷入被动。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 98–100)]]
@@ -81,7 +84,7 @@ updated: 2026-11-17
 > [!boundary]- 概念边界
 > - 不等于 [[Goal-Controlled Mode|目标掌控模式]] — 直觉依赖模式以目标模糊、随波摸索与资本转化低效为特征，目标掌控模式则以目标前置与策略性调配为特征。
 > - 不等于 学习怠惰或缺乏抱负 — 依赖者在日常中往往表现得极其刻苦老实，但其努力高度局限于按部就班应付考试，忽视了求职实习、科研发表与学术圈层等决定性出路筹码。
-> - 不等于 个人认知或智识缺陷 — 根植于弱势阶层家庭缺乏高等教育先在经验的客观限制，是布迪厄所界定的习性滞后（habitus hysteresis）在制度环境中的自然显现。
+> - 不等于 个人认知或智识缺陷 — 根植于弱势阶层家庭缺乏高等教育先在经验的客观限制，是[[Pierre Bourdieu|布迪厄]]所界定的习性滞后（[[Habitus|habitus]] hysteresis）在制度环境中的自然显现。
 
 ---
 
@@ -99,12 +102,12 @@ updated: 2026-11-17
 
 > [!feature] 核心要素
 > - **无目标状态与定位迟缓** 入学初期缺乏长远生涯规划，盲从随大流，往往直到大三下学期甚至大四面临毕业时才仓促应对出路。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 70–71)]]
-> - **场域潜规则与文化常识盲区** 缺乏对绩点权重、保研推免机制、名企实习门槛及导师圈层等隐性知识的认知，处于长期的去陌生化未完成状态。
-> - **学业投入的认知偏差与苦学困境** 陷入成绩无用论盲目选课导致大一掉队关上推免门槛（初晓、牛铭），或将成绩视作唯一证明而在及格线苦战消磨信心（禹海、高翔），或道德清高拒斥选课技巧但实际学习游离缺乏长程目标。[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|(郑雅君, 2023, 第四章)]]
-> - **社会性投入的三重结构性壁垒** 面临思想资源与名校都市流行语码脱节的互动壁垒（大成“下载语言包”隐喻）、软件技能生疏诱发的本领恐慌与弃疗抑郁（冰倩），以及习惯独立硬扛不愿求助导致的社会网络匮乏与出路随大流（禹海）。
-> - **道德崇高感与策略拒斥（老实淳朴）** 倾向于将追求纯粹学问赋予崇高光环，将策略性选课、联络导师等有效行动贬斥为动机不纯与投机钻营。
+> - **场域潜规则与文化常识盲区** 缺乏对绩点权重、[[Recommendation-Based Graduate Admission System|保研]]推免机制、名企实习门槛及导师圈层等[[Tacit Knowledge|隐性知识]]的认知，处于长期的去陌生化未完成状态。
+> - **[[Academic Engagement|学业投入]]的认知偏差与苦学困境** 陷入成绩无用论盲目选课导致大一掉队关上推免门槛（初晓、牛铭），或将成绩视作唯一证明而在及格线苦战消磨信心（禹海、高翔），或道德清高拒斥选课技巧但实际学习游离缺乏长程目标。[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|(郑雅君, 2023, 第四章)]]
+> - **[[Social Engagement|社会性投入]]的三重结构性壁垒** 面临思想资源与名校都市流行语码脱节的互动壁垒（大成“下载语言包”隐喻）、软件技能生疏诱发的本领恐慌与弃疗抑郁（冰倩），以及习惯独立硬扛不愿求助导致的社会网络匮乏与出路随大流（禹海）。
+> - **道德[[The Sublime|崇高]]感与策略拒斥（老实淳朴）** 倾向于将追求纯粹学问赋予崇高光环，将策略性选课、联络导师等有效行动贬斥为动机不纯与投机钻营。
 > - **弱势家庭的无奈放手** 父母未受过高等教育，完全缺乏指导子女专业填报与出路决策的能力，其放手实为信息极度匮乏下的被动退缩。
-> - **精英休克与习性错置体验** 初入名校遭遇巨大的城乡阅历与阶层落差，产生如鱼离水与习性分裂的深层心理撕裂，严重者陷入社交恐惧与自我封闭。
+> - **[[The Shock of the Elite|精英休克]]与习性错置体验** 初入名校遭遇巨大的城乡阅历与阶层落差，产生如鱼离水与[[Habitus Divided Against Itself|习性分裂]]的深层心理撕裂，严重者陷入社交恐惧与自我封闭。
 
 > [!logic-map]- 直觉依赖模式的生成与出路受制机制
 > ```mermaid
@@ -122,7 +125,7 @@ updated: 2026-11-17
 > **县中题海高压与家庭无奈放手的共同塑造** 弱势家庭学生因缺乏文化资本支撑，在跨入高等教育前已内化了单一维度的被动服从图式。
 
 > [!claim] Zheng, Y.
-> **苦学惯性与父母经验缺失的规训** 郑雅君考察发现，直觉依赖者大多来自中西部县中或农村家庭。高中阶段在封闭化、高强度的题海中度过，成绩被赋予了回报全家牺牲与改变家族命运的沉重托付，导致学生鲜有闲暇探索个人志趣；父母从未接受高等教育，子女考入顶尖名校已超出家庭认知上限，在分科、选专业与生涯规划等关节点完全缺乏指导能力，迫使弱势学子在缺乏常识的情形下孤军摸索（pp. 76–86）。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 76–86)]]
+> **苦学惯性与父母经验缺失的规训** 郑雅君考察发现，直觉依赖者大多来自中西部县中或农村家庭。高中阶段在封闭化、高强度的题海中度过，成绩被赋予了回报全家牺牲与改变家族命运的沉重托付，导致学生鲜有闲暇探索个人[[Professional Interest|志趣]]；父母从未接受高等教育，子女考入顶尖名校已超出家庭认知上限，在分科、选专业与生涯规划等关节点完全缺乏指导能力，迫使弱势学子在缺乏常识的情形下孤军摸索（pp. 76–86）。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 76–86)]]
 
 ---
 
@@ -130,11 +133,11 @@ updated: 2026-11-17
 > **习性滞后与出路机遇错失机制** 原初习性与精英大学场域规则的严重脱节，使弱势学子的辛勤汗水难以转化为出路优势。
 
 > [!claim] Zheng, Y.; Bourdieu, P.
-> **习性滞后引发的后知后觉代价** 依据布迪厄的习性滞后理论，直觉依赖者对竞争规则的理解往往比优势同辈晚一至两年。禹海（山西矿工家庭）大一时仅以考分排名前 30%–40% 为目标，大三在毫无求职准备下仓促选择推免直博，随后陷入长周期科研迷茫；冰倩（湖南农村第一代大学生）误信及格万岁传闻，直到大三才惊觉绩点重要性已无力回天，最终在考研以微弱分差落榜后被迫延期毕业，暴露出制度常识匮乏带来的沉重代价（pp. 67–69, 70–71）。第四章进一步证实，生涯目标清晰者早在大二暑期即开展定向投入，目标模糊者迟至大三暑期才仓促谋划，整整相差一年的关键时间差导致依赖者在推免、实习与求职中全面陷入被动（第四章）。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 67–69, 70–71)]]; [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|(郑雅君, 2023, 第四章)]]
+> **习性滞后引发的后知后觉代价** 依据布迪厄的习性滞后理论，直觉依赖者对竞争规则的理解往往比优势同辈晚一至两年。禹海（山西矿工家庭）大一时仅以考分排名前 30%–40% 为目标，大三在毫无求职准备下仓促选择推免[[Continuous Doctoral Training|直博]]，随后陷入长周期科研迷茫；冰倩（湖南农村[[First-Generation College Student|第一代大学生]]）误信及格万岁传闻，直到大三才惊觉绩点重要性已无力回天，最终在考研以微弱分差落榜后被迫延期毕业，暴露出制度常识匮乏带来的沉重代价（pp. 67–69, 70–71）。第四章进一步证实，生涯目标清晰者早在大二暑期即开展定向投入，目标模糊者迟至大三暑期才仓促谋划，整整相差一年的关键时间差导致依赖者在推免、实习与求职中全面陷入被动（第四章）。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 67–69, 70–71)]]; [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|(郑雅君, 2023, 第四章)]]
 
 ---
 
-> [!concept-proposition] 命题三｜直觉依赖者通过推崇老实纯真构筑抵御策略套路的道德象征边界
+> [!concept-proposition] 命题三｜直觉依赖者通过推崇老实纯真构筑抵御策略套路的道德[[Symbolic Boundary|象征边界]]
 > **老实勤奋与功利套路的道德对立** 直觉依赖者通过构筑道德壁垒抵御文化不适，在无形中强化了自身的行动禁锢。
 
 > [!claim] Zheng, Y.; Lamont, M.
@@ -143,10 +146,10 @@ updated: 2026-11-17
 ---
 
 > [!concept-proposition] 命题四｜直觉依赖模式在大学制度环境与关键他人指引下保留调适重塑可能
-> **制度再社会化与文化工具箱扩充** 习性具有情境调适弹性，在大学浸润与顿悟经历中具备向目标掌控模式转换的可能。
+> **制度再社会化与[[Culture as Toolkit|文化工具箱]]扩充** 习性具有情境调适弹性，在大学浸润与顿悟经历中具备向目标掌控模式转换的可能。
 
 > [!claim] Zheng, Y.; Stevens, M. L.
-> **文化移入与行动策略的扩充重组** 郑雅君指出，约半数直觉依赖者在高年级或研究生阶段能够实现向目标掌控模式的调适转化。第四章深度解剖了梓桐（导师学术风骨感召投身科研直博）、高程（基层奉献型榜样感召入选定向选调生）、初晓（保研失利后间隔年转轨交叉学科留英深造）与鹏程（辅导员出路指点密集名企实习与 CPA 考证突围）四类转变路径，证实密集的课外社会性投入是驱动意义感重组、充实文化工具箱并完成习性转换的核心引擎（pp. 101–102；第四章）。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 101–102)]]; [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|(郑雅君, 2023, 第四章)]]
+> **[[Enculturation|文化移入]]与行动策略的扩充重组** 郑雅君指出，约半数直觉依赖者在高年级或研究生阶段能够实现向目标掌控模式的调适转化。第四章深度解剖了梓桐（导师学术风骨感召投身科研直博）、高程（基层奉献型榜样感召入选定向选调生）、初晓（保研失利后间隔年转轨[[Comparative Education as a Cross-Sectional Area|交叉学科]]留英深造）与鹏程（辅导员出路指点密集名企实习与 [[Critical Policy Analysis|CPA]] 考证突围）四类转变路径，证实密集的课外社会性投入是驱动意义感重组、充实文化工具箱并完成[[Habitus Transformation|习性转换]]的核心引擎（pp. 101–102；第四章）。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 101–102)]]; [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|(郑雅君, 2023, 第四章)]]
 
 ---
 
@@ -164,8 +167,8 @@ updated: 2026-11-17
 > - **1964 — 布迪厄《继承人》中的应试专精者** 布迪厄指出处于不利地位的学生在高等教育中深陷考试专精状态，除应付眼前考试外忽视了其他出路准备，构成直觉依赖模式的原型。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(Bourdieu & Passeron, 1979)]]
 > - **1980 — 布迪厄《实践感》确立习性滞后理论** 皮埃尔·布迪厄正式阐明习性滞后（habitus hysteresis），揭示行动倾向与客观机遇之间的时间差，为解释依赖者的后知后觉奠定理论基石。
 > - **2009 — Diane Reay 提出精英休克** 戴安娜·雷等刻画工人阶层学子进入精英名校时面临的文化震荡与如鱼离水体验。
-> - **2014–2017 — 顶尖高校田野反思与概念发现** 郑雅君在首轮 38 名优等生深度访谈中，惊觉部分学生的毕业出路更多表现为对处境的被动顺应，打破了优等生必然主动理性的预设。
-> - **2023 — 《金榜题名之后》系统操作化与亚类型拓展** 正式确立直觉依赖模式；第四章深入剖析直觉依赖者在学业投入与课外社会性投入上的具体行动困境与习性转变路径（表 4），后续章节结合价值信念维度进一步细化为[[Lost Mode|迷失无从者]]与[[Value Conformist Mode|价值归顺者]]两种亚类型。
+> - **2014–2017 — 顶尖高校田野反思与概念发现** 郑雅君在首轮 38 名优等生[[In-depth Interview|深度访谈]]中，惊觉部分学生的毕业出路更多表现为对处境的被动顺应，打破了优等生必然主动理性的预设。
+> - **2023 — 《金榜题名之后》系统[[Operationalization|操作化]]与亚类型拓展** 正式确立直觉依赖模式；第四章深入剖析直觉依赖者在学业投入与课外社会性投入上的具体行动困境与习性转变路径（表 4），后续章节结合价值信念维度进一步细化为[[Lost Mode|迷失无从者]]与[[Value Conformist Mode|价值归顺者]]两种亚类型。
 
 ---
 
@@ -185,7 +188,7 @@ updated: 2026-11-17
 > |:-----|:-----|:-----|
 > | [[Goal-Controlled Mode]] | 概念 | 实践模式连续统的对应极，表现为目标前置、洞悉规则与出路资本高效转化。 |
 > | [[Academic Engagement]] | 概念 | 依赖者在此维度深陷绩点无用论认知偏差或苦学困境，缺乏边际调控意识。 |
-> | [[Social Engagement]] | 概念 | 依赖者在此维度面临文化语码、本领恐慌与去求助倾向三重融入壁垒。 |
+> | [[Social Engagement]] | 概念 | 依赖者在此维度面临[[Cultural Code\|文化语码]]、本领恐慌与去求助倾向三重融入壁垒。 |
 > | [[Habitus]] | 概念 | 直觉依赖模式是弱势阶层文化习性在高等教育场域遭遇脱嵌的典型表现。 |
 > | [[The Shock of the Elite]] | 概念 | 直觉依赖者进入精英名校初期普遍经历的剧烈文化冲击与心理撕裂体验。 |
 > | [[Champ]] | 概念 | 精英大学构成地形复杂的迷宫场域，直觉依赖者宛如无地图摸索的参赛者。 |

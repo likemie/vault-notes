@@ -12,9 +12,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23"
 argument_display_title: "Research Methods in Education · Ch23"
 argument_kind: "book-chapter"
-argument_related_count: 69
-argument_related_level: 6
-argument_related_stars: "💎💎"
+argument_related_count: 70
+argument_related_level: 7
+argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
 book_title: "Research Methods in Education"
 publication_place: "London"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Saturation]]"
   - "[[Assemblage]]"
   - "[[Artefact]]"
+  - "[[Typicality]]"
   - "[[Visual Data]]"
   - "[[Causal Processes]]"
   - "[[Causality]]"
@@ -107,7 +108,7 @@ related_facts:
   - "[[British Educational Research Association]]"
 status: draft
 created: 2026-07-23
-updated: 2026-11-11
+updated: 2026-11-17
 ---
 ---
 
@@ -724,7 +725,7 @@ Silverman（1993）提醒注意主位分析（emic）与客位分析（etic）�
 
 > [!critique] 参与式观察的四项批评
 > - **主观性与偏见** 典型陈述被批评为主观的、有偏见的、印象主义的、特异性的，缺乏精确的量化测量
-> - **本土化风险** 观察者可能失去视角，对他们本应研究的特殊性变得视而不见，如何知道观察者没有把群体的价值观当作自己的？
+> - **本土化风险** 观察者可能失去视角，对他们本应研究的[[Typicality|特殊性]]变得视而不见，如何知道观察者没有把群体的价值观当作自己的？
 > - **选择性偏差** Johnson and Sackett（1998）指出参与式观察存在高度选择性、不具代表性，更关心研究者议程而非真实情境。他们报告研究者更关心**政治和宗教行为**而非吃饭睡觉，但吃饭睡觉占参与者**60%** 的时间，而政治宗教只占**3%**，描述存在严重偏斜
 > - **概括性有限** 参与式观察的发现通常不可统计概括到更大的总体
 

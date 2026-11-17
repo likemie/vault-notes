@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20"
 argument_display_title: "Research Methods in Education · Ch20"
 argument_kind: "book-chapter"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Reliability]]"
+  - "[[Typicality]]"
   - "[[Construct]]"
   - "[[Research Question]]"
   - "[[Research Purpose]]"
@@ -82,7 +83,7 @@ related_facts:
   - "[[GEMS Education]]"
 status: draft
 created: 2026-07-20
-updated: 2026-10-30
+updated: 2026-11-17
 ---
 > [!knowledge-map] 第20章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_20_Concept_Map.jpg)
@@ -147,7 +148,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 > 2. 这个问题的主题是否需要多个问题？
 > 3. 受访者是否拥有回答这个问题所需的信息？
 > 4. 问题是否需要更具体、更特定、更紧密地与受访者的个人经验相关联？
-> 5. 问题内容是否足够一般性，没有虚假的具体性和特殊性？
+> 5. 问题内容是否足够一般性，没有虚假的具体性和[[Typicality|特殊性]]？
 > 6. 回答是否表达了普遍态度而仅听起来像它们听起来那样具体？
 > 7. 问题内容是否在单一方向上有偏见或负载，没有伴随问题来平衡强调？
 > 8. 受访者会给出被要求的信息吗？

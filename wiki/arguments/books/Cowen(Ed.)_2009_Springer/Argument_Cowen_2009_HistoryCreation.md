@@ -7,7 +7,7 @@ title: "Argument_Cowen_2009_HistoryCreation"
 argument_key: "Argument_Cowen_2009_HistoryCreation"
 argument_display_title: "On history and on the creation of comparative education"
 argument_kind: "book-chapter"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Rationalism in International Relations]]"
   - "[[Transnational Education]]"
   - "[[Reflexivity]]"
+  - "[[Philosophical Hermeneutics]]"
   - "[[The Sublime]]"
   - "[[International Education]]"
 related_theories:
@@ -78,7 +79,7 @@ sources:
 part_of: "[[Argument_Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-05
-updated: 2026-11-14
+updated: 2026-11-17
 ---
 ---
 
@@ -241,7 +242,7 @@ updated: 2026-11-14
 > [!claim] 学科必须警惕对萨德勒等历史图腾的非反思崇拜，并确立由未来决定历史提问的诠释学自觉
 > 比较教育学至今未能理解自身的肖像学建构，将特定人物神圣化为起源图腾；而历史编纂的深层悖论在于：事实虽可被动归档，但赋予其生命的问题永远由未来与当下所界定。（pp.9–10）
 
-> [!evidence-grid] 肖像化建构与历史哲学诠释学命题的文本依据
+> [!evidence-grid] 肖像化建构与历史[[Philosophical Hermeneutics|哲学诠释学]]命题的文本依据
 > - **对萨德勒符号化崇拜的解构** [[Michael Sadler]] 虽为杰出公职人员与教育领袖，但学科赋予其近乎神圣的[[The Sublime|崇高]]地位。他在 1900 年关于外国教育制度研究的著名演讲在学理上造成的困惑远多于澄清，其被永久固定在正统史学叙事之中，本身就是传统的发明与学科肖像学的典型产物。（p.9）
 > - **关键跨国行动者深层史学研究的匮乏** [[George Bereday]] 与[[Joseph Lauwerys]] 跨越洲际联结了众多思想与人物（如 Lauwerys 与[[UNESCO\|联合国教科文组织]] [United Nations Educational, Scientific and Cultural Organization, UNESCO]、[[Jean Piaget\|让·皮亚杰]]（Jean Piaget）、[[International Education\|国际教育]]局 [International Bureau of Education, IBE]、Teixeira 与平冢益德（Masunori Hiratsuka）的联结），但学界对其熟知主要停留于演讲魅力与机构声望，缺乏严肃史家视角的深层评传。
 > - **世代重写的历史哲学悖论** [[Andreas Kazamias]] 援引 T. S. Eliot 的名言指出，每一代人必须重写其历史。档案材料与证据可以通过学术劳动被稳固并预先准备，但提出问题的意识却无法预设，在认识论上呈现出未来决定过去的反向机制。（pp.9–10）

@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_display_title: "Research Methods in Education · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 74
+argument_related_count: 75
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Class Size]]"
   - "[[Policy Borrowing]]"
+  - "[[Typicality]]"
   - "[[Mixed Methods Question]]"
   - "[[Paradigm]]"
   - "[[Open-Mindedness]]"
@@ -111,7 +112,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-19
-updated: 2026-11-11
+updated: 2026-11-17
 ---
 > [!logic-map]- 论证结构
 > ```mermaid
@@ -507,7 +508,7 @@ updated: 2026-11-11
 
 ---
 
-> [!info] [[Mixed Methods Research\|混合方法]]的特殊性
+> [!info] [[Mixed Methods Research\|混合方法]]的[[Typicality|特殊性]]
 > 第1章区分了数值型、非数值型和[[Mixed Methods Question\|混合方法研究问题]]。在混合方法研究中，研究问题在设计指导中更加突出，但框定混合方法研究问题往往比单一[[Paradigm\|范式]]研究更困难（Onwuegbuzie & Leech, 2006a, p. 477），因为它需要在**同一研究问题**中同时处理量化与质性策略。
 
 > [!case] 混合方法研究问题示例一

@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30"
 argument_display_title: "Research Methods in Education · Ch30"
 argument_kind: "book-chapter"
-argument_related_count: 68
+argument_related_count: 69
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -102,12 +102,13 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Miranda Fricker]]"
-related_facts: []
+related_facts:
+  - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-09-08
-updated: 2026-11-11
+updated: 2026-11-17
 ---
 ---
 
@@ -702,7 +703,7 @@ updated: 2026-11-11
 > - **反身性主导与最终解释权** 质性分析不是流水线上的机械数据清洗，而是研究者调动主观[[Reflexivity\|反身性]]与理论敏感度同经验世界展开的持续对话。大模型不能代替研究者感受受访者的生命体验；模型的输出仅能视为待检验的分析假设，编码的有效性确认与理论建构必须由人类研究者牢牢掌控。
 > - **防范算法幻觉与虚假模式** 语言模型存在生成似是而非虚假论断的固有缺陷。研究者必须要求模型在输出代码时强制附带原始引文出处与行号定位，并采用低采样温度参数以保障输出的确定性；所有模型生成的编码都必须经过人工回溯核验。
 > - **抵抗去情境化与文化同质化** 通用大模型的预训练数据多来源于主流文化语料，在处理本土化方言、特定亚文化隐喻、讽刺反语以及被刻意压制的沉默时极易发生误读。研究者须警惕去情境化危险，坚持对经验文本展开[[Rich and Thick Description\|深描]]与语境化还原。
-> - **透明性与[[Audit Trail\|审计追踪]]（Audit Trail）** 为确保研究符合内容分析与质性推论的可重复性与透明度标准，研究者须系统记录所有交互记录，建立完整的分析审计追踪链条：详细载明所用模型版本、核心提示词设计、温度参数、迭代修改记录以及人工校正的比例与分歧裁决标准。
+> - **透明性与[[Audit Trail\|审计追踪]]（Audit Trail）** 为确[[Recommendation-Based Graduate Admission System|保研]]究符合内容分析与质性推论的可重复性与透明度标准，研究者须系统记录所有交互记录，建立完整的分析审计追踪链条：详细载明所用模型版本、核心提示词设计、温度参数、迭代修改记录以及人工校正的比例与分歧裁决标准。
 
 ---
 

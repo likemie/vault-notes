@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_display_title: "Research Methods in Education · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 54
+argument_related_count: 55
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -82,7 +82,8 @@ related_methods:
   - "[[Non-participant Observation]]"
   - "[[Ex Post Facto Research]]"
   - "[[Mixed Methods Research]]"
-related_persons: []
+related_persons:
+  - "[[Karl Marx]]"
 related_facts:
   - "[[Stanford Prison Experiment]]"
 related_arguments: []
@@ -91,7 +92,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-17
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 > [!logic-map]- 全章论证结构
 > ```mermaid
@@ -690,7 +691,7 @@ Goldthorpe 首先提出了四种候选理论（pp.83–84）：
 > [!contrast-table] 四种竞争理论的比较与筛选
 > | 理论 | 核心解释 | 被拒绝的理由 |
 > |------|---------|------------|
-> | **马克思主义理论** | 教育是阶级再生产的工具 | 未能解释教育扩张本身何以发生；过度功能主义 |
+> | **[[Karl Marx\|马克思]]主义理论** | 教育是阶级再生产的工具 | 未能解释教育扩张本身何以发生；过度功能主义 |
 > | **自由主义理论** | 教育扩张逐渐削弱阶级影响 | 未能解释为什么阶级差异顽固持续 |
 > | **文化理论** | 阶级文化差异导致教育结果差异 | 可以解释Boudon（1973）的"初级效果"（早期学校成就），但难以解释"次级效果" |
 > | **[[Rational Action Theory\|理性选择理论]]** | 教育决策是阶级条件下的理性成本-收益计算 | **被选定**——能同时容纳教育扩张与阶级差异持续存在 |

@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 > [!info] 定义
@@ -90,7 +90,7 @@ updated: 2026-10-22
 > - 序列分析表明：当欧裔美国母亲以心智话题开头时，儿童更可能以积极情感回应；反之亦然——心智与积极情感在对话中形成**交替循环**
 
 > [!example|notitle]
-> 一个典型的[[Discourse|话语]]案例：母亲引导儿子 Ed 讨论他在自由时间与朋友谈论书籍的行为。母亲将这种行为定性为"非常聪明"（[[Start Making a Reader Today]]），儿子的回应从最初的犹豫（"Sort of. Sometimes"）迅速升级为[[Pride in Learning\|自豪]]地宣称"我们实际上想成为世界上最伟大的科学家！"([[Argument_Li_2012_Cambridge\|Li, 2012]])。
+> 一个典型的[[Discourse|话语]]案例：母亲引导儿子 Ed 讨论他在自由时间与朋友谈论书籍的行为。母亲将这种行为定性为"非常聪明"（[[Start Making a Reader Today]]），儿子的回应从最初的犹豫（"Sort of. Sometimes"）迅速升级为自豪地宣称"我们实际上想成为世界上最伟大的科学家！"([[Argument_Li_2012_Cambridge\|Li, 2012]])。
 >
 > 更多[[Socrates\|苏格拉底]]式辅导的对话示例与 Li 的[[Discourse Analysis\|话语分析]]操作，见 MCC 话语分析示例。
 
