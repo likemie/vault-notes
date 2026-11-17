@@ -244,7 +244,7 @@ updated: 2026-11-18
 
 ---
 
-> [!concept-proposition] 命题二｜国家经贸竞争力焦虑倒逼大学科研[[Paradigm|范式]]向产学协同中心模式转型
+> [!concept-proposition] 命题二｜国家经贸竞争力焦虑促使大学科研[[Paradigm|范式]]向产学协同中心模式转型
 > **产学协同与国家战略对接** 探讨面对外部经贸竞争压力，国家科研资助体系如何打破象牙塔孤立探索。
 
 > [!claim] [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]]
@@ -323,7 +323,7 @@ updated: 2026-11-18
 
 ---
 
-> [!contrast-table] 所有命题归纳
+> [!contrast-table|notitle] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **国家千年期长程决断** | 设立数百年乃至千年尺度的战略规划，以共同价值观与强大人力资本投资驱动现代化经济繁荣与地缘突破 | 资源匮乏国家的制度突围、长期战略规划与国家安全威慑 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025, Ch. 17); [[Lee Kuan Yew]] (1965); World Bank (2023) |
@@ -421,4 +421,5 @@ updated: 2026-11-18
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 批判全球[[Knowledge-Based Economy|知识经济]]与新自由主义竞争逻辑对教育哲学的侵蚀，揭示可见学习与量化[[Performance Indicators|绩效指标]]如何将教育降维为国家经贸竞争与劳动力人力资本最大化的工具，从而消解教育作为生命转化与全面启蒙的本质。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 结合福柯全景敞视理论批判解构欧盟教育话语，揭示里斯本战略如何以全球竞争力为驱动，依托开放协调法与量化指标构筑超国家规训建筑（pp. 480, 486–487, 492–493）。
 > - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 揭示芬兰教育出口政策如何将公共教育质量窄化为国际竞争力与财政创收指标，将全球声誉转化为商业变现资本。
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 批判以 OECD 与 PISA 国际测验为代表的经济主义治理取向，揭示将教育目标狭隘化为 21 世纪经济竞争力对国家认同与社会多元价值的排斥。
 
