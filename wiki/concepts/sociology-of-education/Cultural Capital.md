@@ -153,6 +153,9 @@ updated: 2026-11-17
 
 > [!claim] [[Yajun Zheng\|郑雅君]]
 > **大学[[Champ\|场域]]中的[[Cultural Barrier\|文化障碍]]** 弱势阶层大学生在精英高校中面临的核心困境，集中表现为大学场域中被默认掌握的隐性文化技能缺失，如对推荐信文化、[[Recommendation-Based Graduate Admission System\|推免]]规则的生疏，以及在社交面试场合中的身体化局促感。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023, Ch. 6)]]
+>
+> [!claim] [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|Zheng, Y.]]
+> **课外社会性实践作为具身文化资本积累与排位的隐性赛场** 郑雅君（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|2023, 第四章]]；引 Stuber, 2009）指出，课外活动构成了大学生积累文化资本与社会资本的核心载体。在劳动力市场向相对就业力转型的背景下，优势背景学生凭借先赋文化资本自如穿梭于名企实习、学生骨干任职与行业社交之中，锻造出契合雇主偏好的表现性资本与交往谈吐；弱势学生则受限于文化资本存量，不仅面临课外参与的心理壁垒与文化语码不适配，更难以将课外经历有效转译为求职筛选中的排位优势。
 
 ---
 
@@ -264,7 +267,7 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 建构大学过程框架，阐明文化性知识与潜规则对实践模式及出路筹码的分水岭效应（参见第二章 [[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]、第三章 [[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]）。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 系统阐明具身文化资本的分水岭效应（第二、三章），并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]实证剖析课外社会性投入中表现性资本与相对就业力累积机制。
 > - [[Argument_Teng_2025_CE\|Teng and Wang (2025)]] — 发现中国县域城镇化[[School Choice\|择校]]中由于入学程序简化，文化资本在执行中被边缘化，无法独立完成学位准入，必须向社会资本退让。
 > - [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] — 大规模纵向[[Cohort Study\|面板研究]]，证实家庭文化资本（藏书量）不仅直接促进高中毕业成就（$\beta = 0.16$），更通过降低确定性信念（$\beta = -0.13$）间接赋能高阶[[Academic Achievement\|学业表现]]。
 > - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 结合[[Roy Nash|纳什]]（Nash, 2003）的新西兰阶级方差分解研究，指出学业成就差异深植于家庭文化资本与阶级生活机会之中，强调教育社会学必须将文化资本作为核心分析[[Variable|变量]]以破除校内技术主义还原本质（p. 91）。

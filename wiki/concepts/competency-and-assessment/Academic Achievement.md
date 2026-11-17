@@ -206,7 +206,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-15
-updated: 2026-11-15
+updated: 2026-11-17
 ---
 
 （学业成就）
@@ -313,7 +313,7 @@ updated: 2026-11-15
 
 ---
 
-> [!concept-proposition] 命题四｜[[Generative Artificial Intelligence|生成式人工智能]]诱发终稿学业成就的表面流畅性脱钩危机并倒逼过程性评价转向
+> [!concept-proposition] 命题四｜[[Generative Artificial Intelligence|生成式人工智能]]诱发终稿学业成就的表面流畅性脱钩危机并促发过程性评价转向
 > **技术中介下的表观产出与内在心智脱节** 探讨[[Generative Artificial Intelligence|生成式人工智能]]普及背景下，以最终文本为单一评价尺度的学业成就构念如何面临效度瓦解，以及转向过程性自适应专业特长的评价重构。
 
 > [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
@@ -388,6 +388,14 @@ updated: 2026-11-15
 
 ---
 
+> [!concept-proposition] 命题十｜高等教育大众化与文凭贬值情境下学业成就退化为基准初赛门槛
+> **高等教育筛选与位置博弈维度** 探讨学业表现（GPA）在精英大学劳动力市场选拔中的功能变迁，揭示绝对学业成绩向基准资格的退化，以及课外社会性投入在相对就业力排位中的决定性作用。
+>
+> > [!claim] [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|Zheng, Y.]]
+> > **学分绩点的初赛门槛效应与精力边际管理** 郑雅君（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|2023, 第四章]]；引 Brown & Hesketh, 2004）在考察精英高校毕业生出路分化时指出，在高等教育大众化与文凭通胀背景下，大学毕业证书与学业成绩（GPA）从决定出路的排他性指标退化为劳动力市场与推免选拔的基准“初赛”门槛。雇主筛选更加注重求职者在课外实习、社团管理与社交互动中所展现的人际合作、抗压韧性与表现性资本。目标掌控者采取边际精力管理策略，将 GPA 维持在安全准入线之上，把 80% 的能量转向课外社会性投入以打造差异化简历；直觉依赖者则因缺乏规则认知，要么在学业苦读中边际收益递减，要么因大一忽视绩点而痛失推免资格。
+
+---
+
 > [!contrast-table] 所有命题归纳与理论边界
 > | 命题类型 | 核心主张 | 适用情境与作用机制 | 代表学者 |
 > |---|---|---|---|
@@ -400,6 +408,7 @@ updated: 2026-11-15
 > | **多层方差分解与教师核心枢纽** | 学业成就变异呈现结构性层级：教师教学互动是系统内最大可控因果源泉；批判学者揭示生源阶层主导大部分方差，警惕将结构性不平等简化为微观个人归因。 | 教育政策设计、学校效能研究、资源分配优先级排序、社会阶层与教育公平 | Hattie; [[World Bank\|World Bank Group]]; Snook et al.; Terhart; Grace; Kalmendal et al. |
 > | **分层循证教学与学业差距消除** | 全班教学升级与助教分层辅导结合，以及学科针对性资源配置与密集辅导，能以可承受成本系统性消除薄弱学校学业差距。 | CSI 薄弱学校改进、[[Title I of the Elementary and Secondary Education Act\|Title I]] 补偿资助、[[Response to Intervention\|干预反应模型]]（RTI）分层预防 | Slavin; Ginsberg et al. |
 > | **均质综合学制与成就双重赤字** | 延期分流的均质综合制若漠视禀赋差异，会同时推高义务教育结业学业失败率并压制卓越潜能，导致学业成就分布整体滑向系统性平庸。 | 宏观学制设计、比较教育政策、初中分流体制评估、教育公平与卓越张力 | [[José Luis García Garrido\|García Garrido]] |
+> | **初赛门槛与边际精力管理** | 文凭通胀下学业成绩（GPA）退化为初赛准入底线，相对排位取决于课外社会性投入，目标掌控者实行边际投入控制。 | 精英大学过程、高校出路分化、劳动力市场相对就业力筛选 | [[Argument_Zheng_2023_ShanghaiSanlian_Ch04\|郑雅君 (2023)]]; Brown and Hesketh (2004) |
 
 ---
 
@@ -422,6 +431,7 @@ updated: 2026-11-15
 > - **2021 年：因果评估准则确立与学业测验[[Reliability\|信度]]反思** [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] 总结英格兰近十年因果循证经验，系统规范了学业成就作为首要结果（primary outcomes）的测验准入标准。研究确立了独立标准化测验与[[National Pupil Database\|国家学生数据库]]（NPD）行政微观档案的首选地位，警惕[[Developer-Made Measures\|开发者自编测验]]的效应虚高，并揭示了商业化测验在因果评估中暴露的地板与[[Floor and Ceiling Effects\|天花板效应]]信度危机。同时，指明了学业成就与[[Self-control\|自我控制]]、社会情感素养协同评估的必要性。
 > - **2021 年：[[Epistemology\|认识论]]因果干预与高阶成就敏感性确立** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 开展首个认识论干预因果[[Meta-analysis\|元分析]]，证实认识论认知干预对高阶论证表现与概念理解具有极强提分效能，但对程序套用与一般考试完全脱节，并在因果层面揭示了短周期高强度干预优于学期泛化干预的时长规律。
 > - **2022 年：督导规程编码与学业成就的行政目标绑定** [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] 追踪瑞典学校督察局的建立与运作，揭示提高学生学业成绩的政治指令如何迫使官僚机构借用有效学校研究打破法定起草僵局，将研究维度编码为十项全国统一的刚性督导常模，揭示了学业成就作为国家规制与行政简化驱动力的机制。
+> - **2023 年：高等教育文凭通胀与 GPA 初赛门槛化** 郑雅君（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|2023, 第四章]]）将劳动力市场相对就业力理论引入大学过程研究，揭示学分绩点（GPA）在精英高校选拔中从绝对成就指标退化为初赛准入门槛，阐明学生在学业与社会性投入之间的精力预算博弈。
 > - **2024 年：微观财政流水审计与学业成就[[Chain of Evidence\|证据链]]断裂** [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] 首创将大型城市学区微观财务支出细项与四大权威证据库进行逐笔穿透式匹配，实证检验资源投入与学业产出脱节假说；量化揭示法定单项门槛掩盖了大量资金投向未获全量证据支持的实践，从制度合规与资源分配维度揭示了为何数十年巨额补偿性财政难以稳定撬动弱势学生的学业成就。
 > - **2025 年：基线控制[[Meta-analysis\|元分析]]解构学业成绩虚高机制** [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 引入严格[[Pre-test and Post-test|前测]]基线等效门槛检验生成式 AI 对大学生学业成绩的促进效应，通过自编测验分化与[[Trim and Fill Method|剪补法]]校正，实证揭示了工具代答与[[Publication Bias|发表偏倚]]导致的学业提分泡沫。
 > - **生成式 AI 时代：终稿成果与真实心智脱钩及过程性转向** 随着生成式 AI 普及，单纯基于文本终稿的学业成绩面临空前的效度危机。学者系统批判将高阶心智与粗放学业成就混为一谈的传统做法，推动学业成就概念从静态文本产出向包含提示词设计、事实核查、反思日志与批判辩护的自适应专业特长过程性转向。[[Argument_Li_2026_CEAI\|(Li et al., 2026)]]; [[Argument_Unal_2026_JECR\|(Ünal et al., 2026)]]
@@ -584,3 +594,4 @@ updated: 2026-11-15
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 比较北欧三国改革中基于学业成就提升的话语合法化机制，展现丹麦将学时与学业挂钩的问责逻辑与芬兰依托 [[Finnish Education Evaluation Centre|KARVI]] 抽样监测维护教育公平的治理分野。
 > - [[Argument_Sarbiewska_2019_KiW|Sarbiewska (2019)]] — 梳理新西兰 2003 年《面向多元背景学生的优质教学》国家战略演进，借助 Alton-Lee 方差分解（校内班级方差达 59%）与 [[Eric Hanushek|Hanushek]] 教师年成长增量数据，论证教育治理从宏观治理结构向微观有效教学转型的制度轨迹。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对 43 篇系统改进实证文献开展[[Thematic Synthesis|质性主题综合]]，揭示全系统研究普遍将大规模标准化统考分数作为评判改进的核心标尺，反思其忽视非认知与全人发展目标的绩效主义倾向。
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|郑雅君 (2023)]] — 第四章实证剖析精英大学中学分绩点向初赛准入底线的退化，揭示目标掌控者对学业成就的边际精力管理与社会性投入协同机制。

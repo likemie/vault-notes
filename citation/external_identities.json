@@ -14763,11 +14763,13 @@
       "isbn": "9780199269549",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md",
+        "wiki/concepts/competency-and-assessment/Academic Achievement.md",
         "wiki/concepts/higher-education/Economy of Experience.md",
         "wiki/concepts/higher-education/Employability.md",
         "wiki/concepts/higher-education/Social Engagement.md",
         "wiki/concepts/political-economy-geopolitics/Knowledge-Based Economy.md",
-        "wiki/concepts/sociology-of-education/Credential Inflation.md"
+        "wiki/concepts/sociology-of-education/Credential Inflation.md",
+        "wiki/concepts/sociology-of-education/Zero-Sum Competition.md"
       ],
       "title": "The Mismanagement of Talent: Employability and Jobs in the Knowledge Economy"
     },
@@ -14869,7 +14871,8 @@
       "doi": "10.1080/1363908032000070648",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md",
+        "wiki/concepts/sociology-of-education/Zero-Sum Competition.md"
       ],
       "title": "Employability in a Knowledge-Driven Economy"
     },
@@ -104029,7 +104032,8 @@
       "doi": "10.1111/j.1573-7861.2009.01140.x",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md",
+        "wiki/concepts/sociology-of-education/Cultural Capital.md"
       ],
       "title": "Class, Culture, and Participation in the Collegiate Extra-Curriculum"
     },
@@ -120645,6 +120649,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md",
         "wiki/concepts/sociology-of-education/Value Conformist Mode.md"
       ],
       "title": ""
@@ -120912,6 +120917,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md",
         "wiki/concepts/sociology-of-education/Value Conformist Mode.md",
         "wiki/theories/sociology-of-education/Dual Elite Career Paths.md"
       ],
@@ -122176,6 +122182,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/finland/Finnish PISA Miracle.md"
+      ],
+      "title": ""
+    },
+    "李路路, 2002": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md"
       ],
       "title": ""
     },
