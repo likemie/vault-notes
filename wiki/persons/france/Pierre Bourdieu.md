@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: france
 person_region: "france"
-person_related_count: 56
+person_related_count: 57
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -88,7 +88,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-11-15
+updated: 2026-11-17
 ---
 
 ---

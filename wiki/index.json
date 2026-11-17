@@ -35760,7 +35760,8 @@
     "path": "wiki/persons/us/Ann Swidler.md",
     "aliases": [
       "Swidler, A.",
-      "安·斯威德勒"
+      "安·斯威德勒",
+      "斯威德勒"
     ]
   },
   {
@@ -53404,6 +53405,11 @@
     "title": "Argument_Zheng_2023_ShanghaiSanlian_Ch02",
     "type": "argument",
     "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
+  },
+  {
+    "title": "Argument_Zheng_2023_ShanghaiSanlian_Ch03",
+    "type": "argument",
+    "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
   },
   {
     "title": "Argument_Du_Yuan_2026_AIS",

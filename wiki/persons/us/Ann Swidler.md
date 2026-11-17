@@ -10,10 +10,10 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 17
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1944"
 died: ""
 lifespan: "1944–至今"
@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: "2026-05-08"
-updated: "2026-11-17"
+updated: 2026-11-17
 ---
 
 ---
@@ -69,7 +69,7 @@ updated: "2026-11-17"
 > - **1966** 获布兰代斯大学学士学位。
 > - **1975** 获加州大学伯克利分校社会学博士学位。
 > - **1975–1986** 先后任教于斯坦福大学等校，开展关于现代美国人爱情观念与婚恋生活的大规模深度访谈。
-> - **1986** 在《美国社会学评论》（*American Sociological Review*）发表奠基性论文 *Culture in Action: Symbols and Strategies*，系统提出文化工具箱理论。
+> - **1986** 在《美国社会学评论》（*American Sociological Review*）发表奠基性研究 *Culture in Action: Symbols and Strategies*，系统提出文化工具箱理论。
 > - **1987–至今** 任教于加州大学伯克利分校社会学系，曾任美国社会学会文化社会学分会主席；2001 年出版专著《爱的论谈》（*Talk of Love: How Culture Matters*）。
 
 ---
@@ -84,7 +84,7 @@ updated: "2026-11-17"
 > 斯威德勒批判传统价值决定论将行动者简化为被动内化单一终极信仰的木偶，论证文化本质上是一套松散、甚至内在包含张力的习惯、技能与风格库。行动者依据自身处境从文化工具箱中灵活调用资源，建构出贯穿时空的长程行动策略；文化的作用更在于赋予行动者应对环境的操作性能力，而非单一预设行动的终点。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|(引 Swidler, 1986；引自 郑雅君, 2023, pp. 43–44)]]
 >
 > > [!thesis-quote] 《行动中的文化》（1986）
-> > 文化更像是一个工具箱或技能库，行动者从中选取不同的片段来构建行动策略……人们对事物抱有的观念往往难以连贯地解释其行动，因为文化并非由单一价值观支配的同质整体。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|(引 Swidler, 1986, p. 277；引自 郑雅君, 2023, p. 44)]]
+> > 文化更像是一个工具箱或技能库，行动者从中选取不同的片段来构建行动策略……人们对事物抱有的观念往往难以连贯地解释其行动，因为文化是由多样技能构成的异质工具箱，超越了单一价值观支配的同质假设。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|(引 Swidler, 1986, p. 277；引自 郑雅君, 2023, p. 44)]]
 > >
 > > *Culture is more like a tool kit or repertoire from which actors select differing pieces for constructing lines of action... People do not need continuous, coherent cultural support for their actions.*
 

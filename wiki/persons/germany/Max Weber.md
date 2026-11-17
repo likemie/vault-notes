@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 31
+person_related_count: 32
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -63,7 +63,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 
 ---
@@ -148,8 +148,8 @@ updated: 2026-11-16
 > [!person-thesis] 主张二｜文化理念所塑造的世界图像充当历史与行动的扳道工
 > 韦伯反驳纯粹唯物论与抽象观念论，论证行动直接受到物质利益与精神利益的共同驱动；然而，由宗教伦理与文化观念所构造出的“世界图像”，犹如铁路上的扳道工，决定了被利益推动的行动循着何种方向与价值轨道展开。在现代社会中，深层价值信念构成了个体生涯目标与终极追求的核心动机来源。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|(Weber, 1920; 郑雅君, 2023, pp. 44–46)]]
 >
-> > [!thesis-quote] 《宗教社会学论文集》（1920）
-> > 直接支配人的行为的，不是理念，而是物质的和精神的利益。可是，由“理念”所创造出来的“世界图像”，往往像铁路上的扳道工一样，决定了行动的轨道被利益推动的动力循着什么方向在行动。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|(Weber, 1920, GARS；引自 郑雅君, 2023, p. 44)]]
+> > [!thesis-quote] 《宗教社会学论集》（1920）
+> > 支配人的行为的直接动力源于物质利益与精神利益；由“理念”所创造出的“世界图像”，犹如铁路上的扳道工，决定了行动在利益驱动下循着何种轨道向前推进。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|(Weber, 1920, GARS；引自 郑雅君, 2023, p. 44)]]
 > >
 > > *Not ideas, but material and ideal interests, directly govern men's conduct. Yet very frequently the 'world images' that have been created by 'ideas' have, like switchmen, determined the tracks along which action has been pushed by the dynamic of interest.*
 

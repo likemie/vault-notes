@@ -3015,17 +3015,17 @@
     "Bourdieu (1984)": "Bourdieu, 1984",
     "Bourdieu (1986)": "Bourdieu, 1986",
     "Bourdieu (1990)": "Bourdieu, 1990",
-    "Bourdieu (1992)": "Bourdieu, 1992",
     "Bourdieu (1997)": "Bourdieu, 1997",
     "Bourdieu (1998)": "Bourdieu, 1998",
     "Bourdieu (1999)": "Bourdieu, 1999",
     "Bourdieu (2003)": "Bourdieu, 2003",
+    "Bourdieu et al. (1999)": "Bourdieu et al., 1999",
+    "Bourdieu et al., 1999": "Bourdieu et al., 1999",
     "Bourdieu, 1977": "Bourdieu, 1977",
     "Bourdieu, 1980": "Bourdieu, 1980",
     "Bourdieu, 1984": "Bourdieu, 1984",
     "Bourdieu, 1986": "Bourdieu, 1986",
     "Bourdieu, 1990": "Bourdieu, 1990",
-    "Bourdieu, 1992": "Bourdieu, 1992",
     "Bourdieu, 1997": "Bourdieu, 1997",
     "Bourdieu, 1998": "Bourdieu, 1998",
     "Bourdieu, 1999": "Bourdieu, 1999",
@@ -11143,8 +11143,10 @@
     "Holland & Quinn, 1987": "Holland & Quinn, 1987",
     "Holland (1986)": "Holland, 1986",
     "Holland (1992)": "Holland, 1992",
+    "Holland (2020)": "Holland, 2020",
     "Holland, 1986": "Holland, 1986",
     "Holland, 1992": "Holland, 1992",
+    "Holland, 2020": "Holland, 2020",
     "Hollanders & Es-Sadki (2017)": "Hollanders & Es-Sadki, 2017",
     "Hollanders & Es-Sadki, 2017": "Hollanders & Es-Sadki, 2017",
     "Holli & Turkka (2021)": "Holli & Turkka, 2021",
@@ -50208,12 +50210,28 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/concepts/educational-leadership-administration/Cult of the Guru.md",
         "wiki/concepts/sociology-of-education/Cultural Disembedding.md",
         "wiki/concepts/sociology-of-education/Doxa.md",
         "wiki/concepts/sociology-of-education/Habitus.md",
         "wiki/concepts/sociology-of-education/Ontological Complicity.md",
         "wiki/concepts/sociology-of-education/The Shock of the Elite.md"
+      ],
+      "title": ""
+    },
+    "Bourdieu et al., 1999": {
+      "aliases": [
+        "Bourdieu et al., 1999",
+        "Bourdieu et al. (1999)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bourdieu et al., 1999"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
       ],
       "title": ""
     },
@@ -50299,21 +50317,6 @@
       "seen_in": [
         "wiki/concepts/sociology-of-education/Champ.md",
         "wiki/concepts/sociology-of-education/The Shock of the Elite.md"
-      ],
-      "title": ""
-    },
-    "Bourdieu, 1992": {
-      "aliases": [
-        "Bourdieu, 1992",
-        "Bourdieu (1992)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Bourdieu, 1992"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/france/Pierre Bourdieu.md"
       ],
       "title": ""
     },
@@ -109807,6 +109810,21 @@
       ],
       "title": ""
     },
+    "Holland, 2020": {
+      "aliases": [
+        "Holland, 2020",
+        "Holland (2020)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Holland, 2020"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
+      ],
+      "title": ""
+    },
     "Hollanders & Es-Sadki, 2017": {
       "aliases": [
         "Hollanders & Es-Sadki, 2017",
@@ -130818,6 +130836,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/concepts/sociology-of-education/Cultural Disembedding.md",
         "wiki/concepts/sociology-of-education/Symbolic Boundary.md"
       ],
@@ -174995,6 +175014,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/concepts/sociology-of-education/Habitus.md"
       ],
       "title": ""
@@ -202357,9 +202377,9 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/concepts/sociology-of-education/Goal-Controlled Mode.md",
         "wiki/concepts/sociology-of-education/Graduation Pathway Typology.md",
-        "wiki/persons/us/Ann Swidler.md",
         "wiki/theories/sociology-of-education/Culture as Toolkit.md"
       ],
       "title": ""
