@@ -1235,6 +1235,8 @@
     "Ashraf et al., 2021": "Ashraf et al., 2021",
     "Ashrafzade et al. (2023)": "Ashrafzade et al., 2023",
     "Ashrafzade et al., 2023": "Ashrafzade et al., 2023",
+    "Ashton & Sung (1997)": "Ashton & Sung, 1997",
+    "Ashton & Sung, 1997": "Ashton & Sung, 1997",
     "Ashur & Bagadood (2022)": "Ashur & Bagadood, 2022",
     "Ashur & Bagadood, 2022": "Ashur & Bagadood, 2022",
     "Askew & Wiliam (1995)": "Askew & Wiliam, 1995",
@@ -2051,12 +2053,14 @@
     "Bechtel (1991)": "Bechtel, 1991",
     "Bechtel, 1991": "Bechtel, 1991",
     "Beck (1979)": "Beck, 1979",
+    "Beck (1992)": "Beck, 1992",
     "Beck (2007a)": "Beck, 2007a",
     "Beck (2007b)": "Beck, 2007b",
     "Beck (2016)": "Beck, 2016",
     "Beck et al. (2000)": "Beck et al., 2000",
     "Beck et al., 2000": "Beck et al., 2000",
     "Beck, 1979": "Beck, 1979",
+    "Beck, 1992": "Beck, 1992",
     "Beck, 2007": "Beck, 2007a",
     "Beck, 2007a": "Beck, 2007b",
     "Beck, 2007b": "Beck, 2007b",
@@ -3381,9 +3385,11 @@
     "Brown & Kim, 2021": "Brown & Kim, 2021",
     "Brown & Lauder (1992)": "Brown & Lauder, 1992",
     "Brown & Lauder (1996)": "Brown & Lauder, 1996",
+    "Brown & Lauder (2001)": "Brown & Lauder, 2001",
     "Brown & Lauder (2016)": "Brown & Lauder, 2016",
     "Brown & Lauder, 1992": "Brown & Lauder, 1992",
     "Brown & Lauder, 1996": "Brown & Lauder, 1996",
+    "Brown & Lauder, 2001": "Brown & Lauder, 2001",
     "Brown & Lauder, 2016": "Brown & Lauder, 2016",
     "Brown & Rogers (2015)": "Brown & Rogers, 2015",
     "Brown & Rogers, 2015": "Brown & Rogers, 2015",
@@ -4242,6 +4248,7 @@
     "Cassirer, 1981": "Cassirer, 1981",
     "Castellacci (2008)": "Castellacci, 2008",
     "Castellacci, 2008": "Castellacci, 2008",
+    "Castells (1992)": "Castells, 1992",
     "Castells (1996)": "Castells, 1996",
     "Castells (2000a)": "Castells, 2000a",
     "Castells (2000b)": "Castells, 2000b",
@@ -4249,6 +4256,7 @@
     "Castells (2000d)": "Castells, 2000d",
     "Castells (2009)": "Castells, 2009",
     "Castells (2011)": "Castells, 2011",
+    "Castells, 1992": "Castells, 1992",
     "Castells, 1996": "Castells, 1996",
     "Castells, 2000": "Castells, 2000a",
     "Castells, 2000a": "Castells, 2000b",
@@ -4794,6 +4802,8 @@
     "Chu et al., 2010": "Chu et al., 2010",
     "Chu, 2014": "Chu, 2014",
     "Chu, 2017": "Chu, 2017",
+    "Chua & Ng (2004)": "Chua & Ng, 2004",
+    "Chua & Ng, 2004": "Chua & Ng, 2004",
     "Chubb & Moe (1990)": "Chubb & Moe, 1990",
     "Chubb & Moe, 1990": "Chubb & Moe, 1990",
     "Chubb & Watermeyer (2017)": "Chubb & Watermeyer, 2017",
@@ -9085,11 +9095,13 @@
     "Giddens (1984)": "Giddens, 1984",
     "Giddens (1990)": "Giddens, 1990",
     "Giddens (1998)": "Giddens, 1998",
+    "Giddens (1999)": "Giddens, 1999",
     "Giddens, 1975": "Giddens, 1975",
     "Giddens, 1976": "Giddens, 1976",
     "Giddens, 1984": "Giddens, 1984",
     "Giddens, 1990": "Giddens, 1990",
     "Giddens, 1998": "Giddens, 1998",
+    "Giddens, 1999": "Giddens, 1999",
     "Giddings (2006)": "Giddings, 2006",
     "Giddings, 2006": "Giddings, 2006",
     "Giedd et al. (1999)": "Giedd et al., 1999",
@@ -9311,9 +9323,11 @@
     "Goh & Gopinathan (2008)": "Goh & Gopinathan, 2008",
     "Goh & Gopinathan, 2008": "Goh & Gopinathan, 2008",
     "Goh (1979)": "Goh, 1979",
+    "Goh (1997)": "Goh, 1997",
     "Goh et al. (1979)": "Goh et al., 1979",
     "Goh et al., 1979": "Goh et al., 1979",
     "Goh, 1979": "Goh, 1979",
+    "Goh, 1997": "Goh, 1997",
     "Goksu & Bolat (2021)": "Goksu & Bolat, 2021",
     "Goksu & Bolat, 2021": "Goksu & Bolat, 2021",
     "Golafshani (2003)": "Golafshani, 2003",
@@ -9707,11 +9721,13 @@
     "Green & Castanheira (2012)": "Green & Castanheira, 2012",
     "Green & Castanheira, 2012": "Green & Castanheira, 2012",
     "Green (1963)": "Green, 1963",
+    "Green (1990)": "Green, 1990",
     "Green (1997)": "Green, 1997",
     "Green (2003)": "Green, 2003",
     "Green (2008)": "Green, 2008",
     "Green (2021)": "Green, 2021",
     "Green, 1963": "Green, 1963",
+    "Green, 1990": "Green, 1990",
     "Green, 1997": "Green, 1997",
     "Green, 2003": "Green, 2003",
     "Green, 2008": "Green, 2008",
@@ -11431,6 +11447,8 @@
     "Hoyle, 1986": "Hoyle, 1986",
     "Hraste (2018)": "Hraste, 2018",
     "Hraste, 2018": "Hraste, 2018",
+    "Hsieh & Tseng (2002)": "Hsieh & Tseng, 2002",
+    "Hsieh & Tseng, 2002": "Hsieh & Tseng, 2002",
     "Hsieh (2021)": "Hsieh, 2021",
     "Hsieh et al. (2005)": "Hsieh et al., 2005",
     "Hsieh et al., 2005": "Hsieh et al., 2005",
@@ -11550,9 +11568,7 @@
     "Huggins, 1999": "Huggins, 1999",
     "Hugh Heclo (1978)": "Hugh Heclo, 1978",
     "Hugh Heclo, 1978": "Hugh Heclo, 1978",
-    "Hugh Lauder (2001)": "Hugh Lauder, 2001",
     "Hugh Lauder (2007)": "Hugh Lauder, 2007",
-    "Hugh Lauder, 2001": "Hugh Lauder, 2001",
     "Hugh Lauder, 2007": "Hugh Lauder, 2007",
     "Hugh Seton-Watson (1977)": "Hugh Seton-Watson, 1977",
     "Hugh Seton-Watson, 1977": "Hugh Seton-Watson, 1977",
@@ -11634,6 +11650,8 @@
     "Hunter et al., 1982": "Hunter et al., 1982",
     "Hunter, 2009": "Hunter, 2009",
     "Hunter, 2012": "Hunter, 2012",
+    "Huntington (1996)": "Huntington, 1996",
+    "Huntington, 1996": "Huntington, 1996",
     "Huppert (1990)": "Huppert, 1990",
     "Huppert, 1990": "Huppert, 1990",
     "Hurford (1994)": "Hurford, 1994",
@@ -13622,10 +13640,8 @@
     "Kogan (1986)": "Kogan, 1986",
     "Kogan, 1986": "Kogan, 1986",
     "Koh (2002)": "Koh, 2002",
-    "Koh (2003)": "Koh, 2003",
     "Koh (2006)": "Koh, 2006",
     "Koh, 2002": "Koh, 2002",
-    "Koh, 2003": "Koh, 2003",
     "Koh, 2006": "Koh, 2006",
     "Kohn (2000)": "Kohn, 2000",
     "Kohn (2014)": "Kohn, 2014",
@@ -14142,6 +14158,7 @@
     "Lai & Schildkamp (2013)": "Lai & Schildkamp, 2013",
     "Lai & Schildkamp, 2013": "Lai & Schildkamp, 2013",
     "Lai (1993)": "Lai, 1993",
+    "Lai (2004)": "Lai, 2004",
     "Lai (2012)": "Lai, 2012",
     "Lai (2016)": "Lai, 2016",
     "Lai (2018)": "Lai, 2018",
@@ -14149,6 +14166,7 @@
     "Lai et al. (2014)": "Lai et al., 2014",
     "Lai et al., 2014": "Lai et al., 2014",
     "Lai, 1993": "Lai, 1993",
+    "Lai, 2004": "Lai, 2004",
     "Lai, 2012": "Lai, 2012",
     "Lai, 2016": "Lai, 2016",
     "Lai, 2018": "Lai, 2018",
@@ -16998,11 +17016,15 @@
     "Minerva (2020b)": "Minerva, 2020b",
     "Minerva, 2020a": "Minerva, 2020a",
     "Minerva, 2020b": "Minerva, 2020b",
+    "Ministry of Education (1998)": "Ministry of Education, 1998",
+    "Ministry of Education (2002)": "Ministry of Education, 2002",
     "Ministry of Education (2007)": "Ministry of Education, 2007",
     "Ministry of Education (2009)": "Ministry of Education, 2009",
     "Ministry of Education (2011)": "Ministry of Education, 2011",
     "Ministry of Education (2019)": "Ministry of Education, 2019",
     "Ministry of Education (2021)": "Ministry of Education, 2021",
+    "Ministry of Education, 1998": "Ministry of Education, 1998",
+    "Ministry of Education, 2002": "Ministry of Education, 2002",
     "Ministry of Education, 2007": "Ministry of Education, 2007",
     "Ministry of Education, 2009": "Ministry of Education, 2009",
     "Ministry of Education, 2011": "Ministry of Education, 2011",
@@ -17122,6 +17144,8 @@
     "Moje et al., 2004": "Moje et al., 2004",
     "Mok & Bodycott (2014)": "Mok & Bodycott, 2014",
     "Mok & Bodycott, 2014": "Mok & Bodycott, 2014",
+    "Mok & Tan (2004)": "Mok & Tan, 2004",
+    "Mok & Tan, 2004": "Mok & Tan, 2004",
     "Mok & Yu (2011)": "Mok & Yu, 2011",
     "Mok & Yu, 2011": "Mok & Yu, 2011",
     "Mok (2022)": "Mok, 2022",
@@ -18501,7 +18525,9 @@
     "Ohadugha (2020)": "Ohadugha, 2020",
     "Ohadugha, 2020": "Ohadugha, 2020",
     "Ohmae (1990)": "Ohmae, 1990",
+    "Ohmae (1996)": "Ohmae, 1996",
     "Ohmae, 1990": "Ohmae, 1990",
+    "Ohmae, 1996": "Ohmae, 1996",
     "Ohno (1978)": "Ohno, 1978",
     "Ohno, 1978": "Ohno, 1978",
     "Ohtani & Hisasaka (2018)": "Ohtani & Hisasaka, 2018",
@@ -18875,6 +18901,8 @@
     "Pane, 2014": "Pane, 2014",
     "Pang & Miao (2017)": "Pang & Miao, 2017",
     "Pang & Miao, 2017": "Pang & Miao, 2017",
+    "Pang (2000)": "Pang, 2000",
+    "Pang, 2000": "Pang, 2000",
     "Pant (2014)": "Pant, 2014",
     "Pant, 2014": "Pant, 2014",
     "Pant, 2014a": "Pant, 2014",
@@ -20817,6 +20845,8 @@
     "Rochnia & Trempler, 2019": "Rochnia & Trempler, 2019",
     "Rock (1985)": "Rock, 1985",
     "Rock, 1985": "Rock, 1985",
+    "Rodan (1997)": "Rodan, 1997",
+    "Rodan, 1997": "Rodan, 1997",
     "Roden (2012)": "Roden, 2012",
     "Roden (2014)": "Roden, 2014",
     "Roden, 2012": "Roden, 2012",
@@ -22376,6 +22406,8 @@
     "Sharp et al., 2003": "Sharp et al., 2003",
     "Sharp et al., 2006": "Sharp et al., 2006",
     "Sharp, 2009": "Sharp, 2009",
+    "Sharpe & Gopinathan (2002)": "Sharpe & Gopinathan, 2002",
+    "Sharpe & Gopinathan, 2002": "Sharpe & Gopinathan, 2002",
     "Sharpe & Rossiter (2002)": "Sharpe & Rossiter, 2002",
     "Sharpe & Rossiter, 2002": "Sharpe & Rossiter, 2002",
     "Sharpe (2018)": "Sharpe, 2018",
@@ -23687,6 +23719,8 @@
     "Stiggins, 2001": "Stiggins, 2001",
     "Stigler & Hiebert (1999)": "Stigler & Hiebert, 1999",
     "Stigler & Hiebert, 1999": "Stigler & Hiebert, 1999",
+    "Stiglitz (2002)": "Stiglitz, 2002",
+    "Stiglitz, 2002": "Stiglitz, 2002",
     "Stillar (1998)": "Stillar, 1998",
     "Stillar, 1998": "Stillar, 1998",
     "Stockard et al. (2018a)": "Stockard et al., 2018a",
@@ -24156,6 +24190,7 @@
     "Tan & Cho (2021)": "Tan & Cho, 2021",
     "Tan & Cho, 2021": "Tan & Cho, 2021",
     "Tan (1996)": "Tan, 1996",
+    "Tan (1997)": "Tan, 1997",
     "Tan (2007)": "Tan, 2007",
     "Tan (2010)": "Tan, 2010",
     "Tan (2011)": "Tan, 2011",
@@ -24180,6 +24215,7 @@
     "Tan et al., 2021": "Tan et al., 2021",
     "Tan et al., 2023": "Tan et al., 2023",
     "Tan, 1996": "Tan, 1996",
+    "Tan, 1997": "Tan, 1997",
     "Tan, 2007": "Tan, 2007",
     "Tan, 2010": "Tan, 2010",
     "Tan, 2011": "Tan, 2011",
@@ -24192,6 +24228,8 @@
     "Tandon, 2005": "Tandon, 2005",
     "Tang & He (2023)": "Tang & He, 2023",
     "Tang & He, 2023": "Tang & He, 2023",
+    "Tang (2000)": "Tang, 2000",
+    "Tang, 2000": "Tang, 2000",
     "Tangel (1992)": "Tangel, 1992",
     "Tangel, 1992": "Tangel, 1992",
     "Tanjung et al. (2022)": "Tanjung et al., 2022",
@@ -26094,6 +26132,7 @@
     "Weiss (1991a)": "Weiss, 1991a",
     "Weiss (1991b)": "Weiss, 1991b",
     "Weiss (1995)": "Weiss, 1995",
+    "Weiss (1998)": "Weiss, 1998",
     "Weiss (2006)": "Weiss, 2006",
     "Weiss et al. (2008)": "Weiss et al., 2008",
     "Weiss et al., 2008": "Weiss et al., 2008",
@@ -26105,6 +26144,7 @@
     "Weiss, 1991a": "Weiss, 1991a",
     "Weiss, 1991b": "Weiss, 1991b",
     "Weiss, 1995": "Weiss, 1995",
+    "Weiss, 1998": "Weiss, 1998",
     "Weiss, 2006": "Weiss, 2006",
     "Weitzman (1998)": "Weitzman, 1998",
     "Weitzman, 1998": "Weitzman, 1998",
@@ -26194,6 +26234,8 @@
     "Whiston et al., 2011": "Whiston et al., 2011",
     "White & Casto (1985)": "White & Casto, 1985",
     "White & Casto, 1985": "White & Casto, 1985",
+    "White & Wade (1988)": "White & Wade, 1988",
+    "White & Wade, 1988": "White & Wade, 1988",
     "White (1973)": "White, 1973",
     "White (1986)": "White, 1986",
     "White (1988a)": "White, 1988a",
@@ -34881,7 +34923,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md",
         "wiki/theories/political-economy-geopolitics/Developmental State.md"
       ],
       "title": ""
@@ -37319,6 +37360,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Meta-analysis of the Impact of Cooperative Learning on Academic Performance."
+    },
+    "Ashton & Sung, 1997": {
+      "aliases": [
+        "Ashton & Sung, 1997",
+        "Ashton & Sung (1997)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ashton & Sung, 1997"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": ""
     },
     "Ashur & Bagadood, 2022": {
       "aliases": [
@@ -43334,6 +43390,21 @@
         "wiki/concepts/educational-philosophy/Interpretive Paradigm.md",
         "wiki/persons/denmark/Søren Kierkegaard.md",
         "wiki/persons/france/Auguste Comte.md"
+      ],
+      "title": ""
+    },
+    "Beck, 1992": {
+      "aliases": [
+        "Beck, 1992",
+        "Beck (1992)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Beck, 1992"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
       "title": ""
     },
@@ -53212,6 +53283,21 @@
       ],
       "title": ""
     },
+    "Brown & Lauder, 2001": {
+      "aliases": [
+        "Brown & Lauder, 2001",
+        "Brown & Lauder (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Brown & Lauder, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": ""
+    },
     "Brown & Lauder, 2016": {
       "aliases": [
         "Brown & Lauder, 2016",
@@ -59595,6 +59681,21 @@
       ],
       "title": ""
     },
+    "Castells, 1992": {
+      "aliases": [
+        "Castells, 1992",
+        "Castells (1992)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Castells, 1992"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": ""
+    },
     "Castells, 1996": {
       "aliases": [
         "Castells, 1996",
@@ -60437,7 +60538,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md",
         "wiki/concepts/political-economy-geopolitics/Embedded Network Governance.md",
         "wiki/facts/japan/Ministry of International Trade and Industry.md",
         "wiki/theories/political-economy-geopolitics/Developmental State.md"
@@ -63448,6 +63548,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effects of an online formative peer-tutoring approach on students' learning behaviors, performance and cognitive load in mathematics"
+    },
+    "Chua & Ng, 2004": {
+      "aliases": [
+        "Chua & Ng, 2004",
+        "Chua & Ng (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Chua & Ng, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": ""
     },
     "Chubb & Moe, 1990": {
       "aliases": [
@@ -91569,6 +91684,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Marginson_2025_ECNUROE.md",
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md",
         "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md",
         "wiki/concepts/political-economy-geopolitics/Hard Power.md",
         "wiki/concepts/political-economy-geopolitics/Radical Liberal Internationalism.md"
@@ -94857,6 +94973,21 @@
       ],
       "title": ""
     },
+    "Giddens, 1999": {
+      "aliases": [
+        "Giddens, 1999",
+        "Giddens (1999)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Giddens, 1999"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": ""
+    },
     "Giddings, 2006": {
       "aliases": [
         "Giddings, 2006",
@@ -96529,6 +96660,21 @@
       "seen_in": [
         "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch17.md",
         "wiki/concepts/political-economy-geopolitics/Hard Power.md"
+      ],
+      "title": ""
+    },
+    "Goh, 1997": {
+      "aliases": [
+        "Goh, 1997",
+        "Goh (1997)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Goh, 1997"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
       "title": ""
     },
@@ -99377,6 +99523,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Interclass Grouping for Reading Instruction in the Middle Grades"
+    },
+    "Green, 1990": {
+      "aliases": [
+        "Green, 1990",
+        "Green (1990)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Green, 1990"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": ""
     },
     "Green, 1997": {
       "aliases": [
@@ -112171,6 +112332,21 @@
       "seen_in": [],
       "title": "When mathematics meets physical activity in the school-aged child  The effect of an integrated motor and cognitive approach to learning geometry"
     },
+    "Hsieh & Tseng, 2002": {
+      "aliases": [
+        "Hsieh & Tseng, 2002",
+        "Hsieh & Tseng (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hsieh & Tseng, 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": ""
+    },
     "Hsieh et al., 2005": {
       "aliases": [
         "Hsieh et al., 2005",
@@ -112994,21 +113170,6 @@
       ],
       "title": ""
     },
-    "Hugh Lauder, 2001": {
-      "aliases": [
-        "Hugh Lauder, 2001",
-        "Hugh Lauder (2001)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Hugh Lauder, 2001"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
-      ],
-      "title": ""
-    },
     "Hugh Lauder, 2007": {
       "aliases": [
         "Hugh Lauder, 2007",
@@ -113601,6 +113762,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effects of computer assisted instruction and structured curriculum on struggling mathematics students."
+    },
+    "Huntington, 1996": {
+      "aliases": [
+        "Huntington, 1996",
+        "Huntington (1996)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Huntington, 1996"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": ""
     },
     "Huppert, 1990": {
       "aliases": [
@@ -119233,6 +119409,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md",
         "wiki/arguments/journal-articles/Industrial and Corporate Change/Argument_Kattel_Mazzucato_2018_ICC.md",
         "wiki/concepts/science-policy/Public Dynamic Capabilities.md",
         "wiki/facts/east-asia/VLSI Project.md",
@@ -127952,21 +128129,6 @@
       ],
       "title": ""
     },
-    "Koh, 2003": {
-      "aliases": [
-        "Koh, 2003",
-        "Koh (2003)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Koh, 2003"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
-      ],
-      "title": ""
-    },
     "Koh, 2006": {
       "aliases": [
         "Koh, 2006",
@@ -131589,6 +131751,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The influence of written teacher comments and differing amounts of homework upon student achievement in basic mathematics"
+    },
+    "Lai, 2004": {
+      "aliases": [
+        "Lai, 2004",
+        "Lai (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Lai, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": ""
     },
     "Lai, 2012": {
       "aliases": [
@@ -143811,7 +143988,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md",
         "wiki/theories/political-economy-geopolitics/Developmental State.md"
       ],
       "title": ""
@@ -152195,6 +152371,36 @@
       ],
       "title": ""
     },
+    "Ministry of Education, 1998": {
+      "aliases": [
+        "Ministry of Education, 1998",
+        "Ministry of Education (1998)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ministry of Education, 1998"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": ""
+    },
+    "Ministry of Education, 2002": {
+      "aliases": [
+        "Ministry of Education, 2002",
+        "Ministry of Education (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ministry of Education, 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": ""
+    },
     "Ministry of Education, 2007": {
       "aliases": [
         "Ministry of Education, 2007",
@@ -153100,6 +153306,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Qu_2024_IJED.md"
+      ],
+      "title": ""
+    },
+    "Mok & Tan, 2004": {
+      "aliases": [
+        "Mok & Tan, 2004",
+        "Mok & Tan (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Mok & Tan, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
       "title": ""
     },
@@ -163289,6 +163510,21 @@
       ],
       "title": ""
     },
+    "Ohmae, 1996": {
+      "aliases": [
+        "Ohmae, 1996",
+        "Ohmae (1996)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ohmae, 1996"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": ""
+    },
     "Ohno, 1978": {
       "aliases": [
         "Ohno, 1978",
@@ -165967,6 +166203,21 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/educational-leadership-administration/Teacher Leadership.md"
+      ],
+      "title": ""
+    },
+    "Pang, 2000": {
+      "aliases": [
+        "Pang, 2000",
+        "Pang (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Pang, 2000"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
       "title": ""
     },
@@ -180244,6 +180495,21 @@
       "seen_in": [],
       "title": "Factors Associated with Decline of Test Scores of High School Seniors, 1972 to 1980. A Study of Excellence in High School Education"
     },
+    "Rodan, 1997": {
+      "aliases": [
+        "Rodan, 1997",
+        "Rodan (1997)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rodan, 1997"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": ""
+    },
     "Roden, 2012": {
       "aliases": [
         "Roden, 2012",
@@ -191681,6 +191947,21 @@
       ],
       "title": ""
     },
+    "Sharpe & Gopinathan, 2002": {
+      "aliases": [
+        "Sharpe & Gopinathan, 2002",
+        "Sharpe & Gopinathan (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Sharpe & Gopinathan, 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": ""
+    },
     "Sharpe & Rossiter, 2002": {
       "aliases": [
         "Sharpe & Rossiter, 2002",
@@ -201127,6 +201408,21 @@
       ],
       "title": ""
     },
+    "Stiglitz, 2002": {
+      "aliases": [
+        "Stiglitz, 2002",
+        "Stiglitz (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Stiglitz, 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": ""
+    },
     "Stillar, 1998": {
       "aliases": [
         "Stillar, 1998",
@@ -204584,6 +204880,21 @@
       ],
       "title": ""
     },
+    "Tan, 1997": {
+      "aliases": [
+        "Tan, 1997",
+        "Tan (1997)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Tan, 1997"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": ""
+    },
     "Tan, 2007": {
       "aliases": [
         "Tan, 2007",
@@ -204713,6 +205024,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Meta-analysis of the relationship between university students' anxiety and academic achievement during the coronavirus disease 2019 pandemic."
+    },
+    "Tang, 2000": {
+      "aliases": [
+        "Tang, 2000",
+        "Tang (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Tang, 2000"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": ""
     },
     "Tangel, 1992": {
       "aliases": [
@@ -218486,6 +218812,21 @@
       ],
       "title": ""
     },
+    "Weiss, 1998": {
+      "aliases": [
+        "Weiss, 1998",
+        "Weiss (1998)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Weiss, 1998"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": ""
+    },
     "Weiss, 2006": {
       "aliases": [
         "Weiss, 2006",
@@ -219130,6 +219471,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "An integrative review of early intervention efficacy studies with at-risk children: Implications for the handicapped"
+    },
+    "White & Wade, 1988": {
+      "aliases": [
+        "White & Wade, 1988",
+        "White & Wade (1988)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "White & Wade, 1988"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": ""
     },
     "White et al., 1992": {
       "aliases": [
