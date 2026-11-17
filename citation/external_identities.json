@@ -13207,15 +13207,6 @@
       "seen_in": [],
       "title": "Instruction of Metacognitive Strategies Enhances Reading Comprehension and Vocabulary Achievement of Third-Grade Students"
     },
-    "Bourdieu & Passeron, 1964": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/sociology-of-education/Goal-Controlled Mode.md",
-        "wiki/concepts/sociology-of-education/Intuition-Dependent Mode.md"
-      ],
-      "title": ""
-    },
     "Bourdieu & Passeron, 1970": {
       "doi": "",
       "isbn": "",
@@ -13282,7 +13273,8 @@
       "isbn": "9780804720113",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
-        "wiki/concepts/comparative-education/Methodological Individualism.md"
+        "wiki/concepts/comparative-education/Methodological Individualism.md",
+        "wiki/concepts/sociology-of-education/Intuition-Dependent Mode.md"
       ],
       "title": "The Logic of Practice"
     },
@@ -61865,6 +61857,8 @@
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/concepts/sociology-of-education/Cultural Disembedding.md",
+        "wiki/concepts/sociology-of-education/Goal-Controlled Mode.md",
+        "wiki/concepts/sociology-of-education/Intuition-Dependent Mode.md",
         "wiki/concepts/sociology-of-education/Symbolic Boundary.md"
       ],
       "title": "Symbolic Boundaries"
@@ -103242,6 +103236,7 @@
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/concepts/sociology-of-education/Habitus.md",
+        "wiki/concepts/sociology-of-education/Intuition-Dependent Mode.md",
         "wiki/theories/sociology-of-education/Four Functions of Higher Education Framework.md"
       ],
       "title": "Sieve, Incubator, Temple, Hub: Empirical and Theoretical Advances in the Sociology of Higher Education"
@@ -105086,7 +105081,6 @@
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
-        "wiki/concepts/sociology-of-education/Goal-Controlled Mode.md",
         "wiki/concepts/sociology-of-education/Graduation Pathway Typology.md",
         "wiki/theories/sociology-of-education/Culture as Toolkit.md"
       ],
@@ -110414,7 +110408,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
-        "wiki/concepts/sociology-of-education/Goal-Controlled Mode.md",
         "wiki/persons/us/Ann Swidler.md",
         "wiki/theories/sociology-of-education/Culture as Toolkit.md",
         "wiki/theories/sociology-of-education/Dual-Process Model of Culture in Action.md"
@@ -121444,14 +121437,6 @@
       "seen_in": [
         "wiki/concepts/higher-education/International Education Hubs.md",
         "wiki/concepts/university-industry-collaboration/Innovation Hub.md"
-      ],
-      "title": ""
-    },
-    "岳昌君和周丽萍, 2016": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/sociology-of-education/Intuition-Dependent Mode.md"
       ],
       "title": ""
     },

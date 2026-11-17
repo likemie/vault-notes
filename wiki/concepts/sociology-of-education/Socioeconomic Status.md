@@ -10,7 +10,7 @@ aliases:
 summary: "个体或家庭在社会结构中所处层级位置与资源占有状况的综合度量指标，在教育实证中是学业表现最强的解释变量，其在元分析中被剔除为调节变量引发了阶级盲教学思维批判"
 type: concept
 domain: "sociology-of-education"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -68,10 +68,11 @@ related_arguments:
   - "[[Argument_Nielsen_2021_NordPsych]]"
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Bergeron_2017_MJE]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-11-03
+updated: 2026-11-17
 ---
 
 > [!def] Socioeconomic Status
@@ -261,6 +262,7 @@ updated: 2026-11-03
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch03|郑雅君 (2023)]] — 考察中国顶尖大学优等生的生活史，揭示家庭社会经济背景如何通过中学素质闲暇与题海苦学、父母决策安全网与无奈放手，塑造出目标掌控与直觉依赖两种高等教育实践图式（pp. 65–104）。
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 审计[[John Hattie|哈蒂]] SES 正向[[Effect Size|效应量]]，揭示参照系反转后贫困成为全书最具破坏力的逆向因素（$-0.57$），并以挑战者号事故比喻批判去阶级情境的均值汇总（pp. 241–242）。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 批判[[John Hattie|哈蒂]]拒绝将 SES 纳入调节[[Variable|变量]]的孤立归因偏误，提出“阶级盲教学思维”概念（pp. 6–7）。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引[[OECD|经合组织]]数据确证家庭背景占据学业方差的绝对主导地位，反思新自由主义“学校抹平一切”的神话。

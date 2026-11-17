@@ -6,7 +6,7 @@ aliases:
 summary: "Pierre Bourdieu 实践理论的核心枢纽概念，指行动者在特定社会生存条件中具身化的持久行为倾向系统，用于解释客观结构、身体实践与阶层再生产。"
 type: concept
 domain: "sociology-of-education"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -55,12 +55,13 @@ related_persons:
   - "[[Aristotle]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
   - "[[Argument_Eacott_2011_JEAH]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-11-15
+updated: 2026-11-17
 ---
 
 ---
@@ -127,7 +128,7 @@ updated: 2026-11-15
 
 ---
 
-> [!concept-proposition] 命题二｜阶层特异性惯习形塑了高等教育场域中差[[Alienation|异化]]的生活组织模式与分流路径
+> [!concept-proposition] 命题二｜阶层特异性惯习形塑了高等教育场域中差异化的生活组织模式与分流路径
 > **文化常识与大学实践图式** 家庭社会化赋予个体的阶层惯习，直接规定了其在高等教育制度环境中识别机遇、动员资源与制定生涯规划的认知框架。
 
 > [!claim] Zheng, Y.
@@ -179,7 +180,7 @@ updated: 2026-11-15
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 结合深度访谈与[[Grounded Theory|扎根理论]]将阶层惯习操作化为目标掌控与直觉依赖两种模式，系统揭示中国顶尖大学弱势学生的惯习滞后、错置与重塑历程。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 结合深度访谈与[[Grounded Theory|扎根理论]]将阶层惯习操作化为目标掌控与直觉依赖两种模式，系统揭示中国顶尖大学弱势学生的惯习滞后、错置与重塑历程（涉及基础教育塑造与家庭决策差异详见第三章 [[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]）。
 > - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 追踪澳大利亚公立学校校长在教育价值守正与绩效考核问责之间的领导惯习分裂。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 探讨地方教育行动者如何在既有制度常识与实践惯性中[[Recontextualization|再情境化]]跨国政策[[Paradigm|范式]]。
 
