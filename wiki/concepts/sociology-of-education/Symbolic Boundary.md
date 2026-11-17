@@ -13,7 +13,7 @@ related_color: "#99f6e4"
 confidence: high
 status: active
 created: '2026-05-08'
-updated: 2026-11-03
+updated: 2026-11-17
 tags:
   - symbolic-boundary
   - cultural-sociology
@@ -167,9 +167,8 @@ related_arguments:
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 实证揭示中国精英大学中优势与弱势阶层学生如何通过“有趣”与“淳朴”的道德[[Discourse|话语]]构建象征边界。
-> - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 实证分析 217 册必修教材中“中国文化=儒家文化”符号边界的构建及其在少数民族学生中的[[Cultural Disembedding\|文化脱嵌]]效应。
-> - [[China Basic Education Curriculum Reform]] — 2001 年基础教育课程改革出台的必修教材充当了国家符号边界自然化的制度载体。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 实证揭示中国精英大学中优势与弱势阶层学生如何通过“有趣”与“淳朴”的道德话语构建象征边界，阻断跨阶层策略性知识交流（参见第三章 [[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]）。
+> - [[Argument_Yu_2024_CE|Yu and Zhao (2024)]] — 实证分析 217 册必修教材中“中国文化=儒家文化”符号边界的构建及其在少数民族学生中的[[Cultural Disembedding|文化脱嵌]]效应。
 
 ---
 
@@ -178,9 +177,10 @@ related_arguments:
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[Habitus]] | 概念 | 阶层习性是形成微观道德象征边界的文化心理根源。 |
-> | [[Goal-Controlled Mode]] | 概念 | 以“自我负责、有趣”为[[Discourse\|话语]]符号构建对直觉依赖者的区隔。 |
+> | [[Goal-Controlled Mode]] | 概念 | 以“自我负责、有趣”为话语符号构建对直觉依赖者的区隔。 |
 > | [[Intuition-Dependent Mode]] | 概念 | 以“淳朴、无套路”为道德武器抵制策略性学业行为。 |
 > | [[Official Knowledge]] | 概念 | 国家通过学校课程与教科书系统划定并自然化的宏观符号边界。 |
 > | [[Cultural Disembedding]] | 概念 | 单向度汉儒符号边界的自然化在少数民族学生中引起的脱嵌反应。 |
 > | [[Yajun Zheng]] | 人物 | 将象征边界成功运用于中国高等教育第一代大学生研究的学者。 |
 > | [[Confucius]] | 人物 | 教科书叙事中被高度符号化为正统中华性边界的核心符号。 |
+> | [[China Basic Education Curriculum Reform]] | 事实 | 2001 年基础教育课程改革出台的必修教材充当了国家符号边界自然化的制度载体。 |

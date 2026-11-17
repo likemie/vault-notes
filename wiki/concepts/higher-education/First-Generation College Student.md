@@ -9,7 +9,7 @@ aliases:
 summary: "指父母双方均未接受过高等教育的大学生群体，在高等教育社会分层中常作为家庭文化资本匮乏与制度熟悉度断裂的核心操作化指标，在精英大学中面临多维弱势累积。"
 type: concept
 domain: "higher-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -37,6 +37,7 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
@@ -189,4 +190,4 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 在[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|第二章]]中将第一代大学生纳入社会出身弱势的四维操作化指标，结合累积不平等理论考察多维弱势的制约（pp. 49–51, 56–57）；并在全书中深度追踪 44 名名校第一代大学生，阐明其在直觉依赖模式下的迷茫与出路困境。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 结合累积不平等理论考察名校第一代大学生的多维弱势，追踪其在直觉依赖模式下的习性滞后与精英休克（参见第二章 [[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]、第三章 [[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]）。

@@ -8,7 +8,7 @@ aliases:
 summary: "Pierre Bourdieu 的核心概念，指个体通过家庭社会化与教育获得并在特定场域中具有交换价值的文化资源（具身化、客体化和制度化）。在大规模教育实证研究中常操作化为家庭藏书量等资源，实证表明其既直接提升学业表现，又通过培育批判性认识论信念间接促进高阶成就。"
 type: concept
 domain: "sociology-of-education"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -64,6 +64,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
   - "[[Argument_Trautwein_2007_CEP]]"
   - "[[Argument_Teng_2025_CE]]"
   - "[[Argument_Grace_2010_NZJES]]"
@@ -263,7 +264,7 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 在[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|第二章]]中建构大学过程分析框架，揭示家庭资源转化为在校文化资本的“资本化过程”，阐明精英大学场域中文化专断对弱势学生的隐性排斥（pp. 41–43, 46–47）；并将具身化文化资本[[Operationalization\|操作化]]为对大学[[Champ\|场域]]隐性出路规则的掌握，解释了寒门学子和中产家庭学生在升学与求职中的直觉分化。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 建构大学过程框架，阐明文化性知识与潜规则对实践模式及出路筹码的分水岭效应（参见第二章 [[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]、第三章 [[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]）。
 > - [[Argument_Teng_2025_CE\|Teng and Wang (2025)]] — 发现中国县域城镇化[[School Choice\|择校]]中由于入学程序简化，文化资本在执行中被边缘化，无法独立完成学位准入，必须向社会资本退让。
 > - [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] — 大规模纵向[[Cohort Study\|面板研究]]，证实家庭文化资本（藏书量）不仅直接促进高中毕业成就（$\beta = 0.16$），更通过降低确定性信念（$\beta = -0.13$）间接赋能高阶[[Academic Achievement\|学业表现]]。
 > - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 结合[[Roy Nash|纳什]]（Nash, 2003）的新西兰阶级方差分解研究，指出学业成就差异深植于家庭文化资本与阶级生活机会之中，强调教育社会学必须将文化资本作为核心分析[[Variable|变量]]以破除校内技术主义还原本质（p. 91）。
