@@ -9309,6 +9309,16 @@
     ]
   },
   {
+    "title": "Personal Myth",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Personal Myth.md",
+    "aliases": [
+      "个人神话",
+      "生命故事",
+      "自传叙事神话"
+    ]
+  },
+  {
     "title": "Physical Fitness and Achievement",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Physical Fitness and Achievement.md",
@@ -19968,7 +19978,8 @@
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Cultural Disorientation.md",
     "aliases": [
-      "文化迷失"
+      "文化迷失",
+      "文化迷航"
     ]
   },
   {
@@ -32399,6 +32410,16 @@
     ]
   },
   {
+    "title": "Raymond Boudon",
+    "type": "person",
+    "path": "wiki/persons/france/Raymond Boudon.md",
+    "aliases": [
+      "Boudon, R.",
+      "雷蒙·布东",
+      "布东"
+    ]
+  },
+  {
     "title": "Regis Debray",
     "type": "person",
     "path": "wiki/persons/france/Regis Debray.md",
@@ -36204,6 +36225,17 @@
       "Clarence Crane Brinton",
       "C. Crane Brinton",
       "Brinton, C."
+    ]
+  },
+  {
+    "title": "Dan P. McAdams",
+    "type": "person",
+    "path": "wiki/persons/us/Dan P. McAdams.md",
+    "aliases": [
+      "McAdams, D. P.",
+      "丹·麦克亚当斯",
+      "丹·P·麦克亚当斯",
+      "麦克亚当斯"
     ]
   },
   {
@@ -53572,6 +53604,11 @@
     "title": "Argument_Zheng_2023_ShanghaiSanlian_Ch05",
     "type": "argument",
     "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md"
+  },
+  {
+    "title": "Argument_Zheng_2023_ShanghaiSanlian_Ch06",
+    "type": "argument",
+    "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md"
   },
   {
     "title": "Argument_Du_Yuan_2026_AIS",

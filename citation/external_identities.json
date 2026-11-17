@@ -13162,6 +13162,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/persons/france/Raymond Boudon.md",
         "wiki/theories/sociology-of-education/Rational Action Theory.md"
       ],
       "title": ""
@@ -13178,6 +13179,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
+        "wiki/persons/france/Raymond Boudon.md",
         "wiki/theories/sociology-of-education/Rational Action Theory.md"
       ],
       "title": ""
@@ -13277,7 +13280,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Amos_2022_Springer.md",
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md"
       ],
       "title": ""
     },
@@ -13286,6 +13290,7 @@
       "isbn": "9780226067735",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
         "wiki/concepts/sociology-of-education/Cultural Capital.md",
         "wiki/persons/france/Pierre Bourdieu.md"
       ],
@@ -13296,6 +13301,7 @@
       "isbn": "9780226067414",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
         "wiki/concepts/educational-leadership-administration/Cult of the Guru.md",
         "wiki/concepts/sociology-of-education/Cultural Disembedding.md",
         "wiki/concepts/sociology-of-education/Doxa.md",
@@ -13397,6 +13403,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
+        "wiki/concepts/sociology-of-education/Cultural Disorientation.md",
         "wiki/concepts/sociology-of-education/Habitus.md"
       ],
       "title": ""
@@ -17007,7 +17015,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/sociology-of-education/Cultural Disorientation.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md"
       ],
       "title": ""
     },
@@ -25296,6 +25304,14 @@
       "seen_in": [],
       "title": "Motor-enriched encoding can improve children’s early letter recognition"
     },
+    "Dan P. McAdams, 1993": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-psychology/Personal Myth.md"
+      ],
+      "title": ""
+    },
     "Dana L. Zeidler, 2014": {
       "doi": "",
       "isbn": "",
@@ -32238,6 +32254,14 @@
       "seen_in": [],
       "title": "The Effect of Self-Regulated Learning Strategies on Academic Achievement: A Meta-Analysis Study"
     },
+    "Eribon, 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md"
+      ],
+      "title": ""
+    },
     "Eric Hanushek et al., 2014": {
       "doi": "",
       "isbn": "",
@@ -38326,6 +38350,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_Erdem_2026_SHE.md"
+      ],
+      "title": ""
+    },
+    "Gambetta, 1987": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md"
       ],
       "title": ""
     },
@@ -53658,7 +53690,7 @@
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md",
-        "wiki/concepts/sociology-of-education/Cultural Disorientation.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md"
       ],
       "title": "Precarious Success and the Conspiracy of Reflexivity: Questioning the 'Habitus Transformation' of Working-class Students at Elite Universities"
     },
@@ -62248,6 +62280,7 @@
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md",
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
         "wiki/concepts/sociology-of-education/Cultural Knowledge.md"
       ],
       "title": "Cultural Knowledge and Social Inequality"
@@ -63374,6 +63407,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis of the effects of using AI chatbot in Korean EFL education."
+    },
+    "Lee & Kramer, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
+        "wiki/concepts/sociology-of-education/Cultural Disorientation.md"
+      ],
+      "title": ""
     },
     "Lee & Lee, 2022": {
       "datasets": [
@@ -71266,6 +71308,16 @@
       "seen_in": [],
       "title": "The criterion-related validity of personality measures for predicting GPA: a meta-analytic validity competition."
     },
+    "McAdams, 1993": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
+        "wiki/concepts/educational-psychology/Personal Myth.md",
+        "wiki/persons/us/Dan P. McAdams.md"
+      ],
+      "title": ""
+    },
     "McAdie, 2017": {
       "doi": "",
       "isbn": "",
@@ -74541,6 +74593,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "An examination of stereotype threat on women's math performance: A meta-analysis"
+    },
+    "Mitford, 2003": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md"
+      ],
+      "title": ""
     },
     "Mitić, 2023": {
       "datasets": [
@@ -88643,6 +88703,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
         "wiki/concepts/sociology-of-education/Habitus.md",
         "wiki/concepts/sociology-of-education/The Shock of the Elite.md"
       ],
@@ -103145,6 +103206,14 @@
       ],
       "title": ""
     },
+    "Stephens et al., 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md"
+      ],
+      "title": ""
+    },
     "Stephens, 2002": {
       "datasets": [
         "eef:peer-tutoring"
@@ -108882,6 +108951,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effects of a reading intervention for kindergarten students at risk for emotional disturbance and reading deficits"
+    },
+    "Trow, 1976": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md"
+      ],
+      "title": ""
     },
     "Trowbridge, 1984": {
       "datasets": [
@@ -117846,6 +117923,7 @@
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md",
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
         "wiki/concepts/sociology-of-education/Unwritten Rules of Engagement.md"
       ],
       "title": "The Unwritten Rules of Engagement: Social Class Differences in Undergraduates' Academic Strategies"
@@ -120912,6 +120990,22 @@
       ],
       "title": ""
     },
+    "余秀兰, 2010": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md"
+      ],
+      "title": ""
+    },
+    "余秀兰和韩燕, 2018": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md"
+      ],
+      "title": ""
+    },
     "佩卡里宁等, 2009": {
       "doi": "",
       "isbn": "",
@@ -121727,6 +121821,14 @@
       "seen_in": [
         "wiki/facts/global/Education for All.md",
         "wiki/persons/us/Michael Porter.md"
+      ],
+      "title": ""
+    },
+    "张华峰等, 2017": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md"
       ],
       "title": ""
     },
@@ -122746,6 +122848,15 @@
       ],
       "title": ""
     },
+    "程猛和康永久, 2016": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
+        "wiki/concepts/sociology-of-education/Cultural Capital.md"
+      ],
+      "title": ""
+    },
     "程飞亚, 2025": {
       "doi": "",
       "isbn": "",
@@ -123201,6 +123312,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
         "wiki/concepts/higher-education/Academic and Social Integration.md"
       ],
       "title": "精英高校中的农村籍学生——社会流动与生存心态的转变"
