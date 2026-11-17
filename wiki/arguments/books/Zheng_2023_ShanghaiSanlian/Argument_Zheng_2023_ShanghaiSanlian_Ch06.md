@@ -10,9 +10,9 @@ title: "Argument_Zheng_2023_ShanghaiSanlian_Ch06"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian_Ch06"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book-chapter"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 0
+argument_related_level: 0
+argument_related_stars: "☆"
 argument_related_color: "#fef3c7"
 book_title: "金榜题名之后：大学生出路分化之谜"
 publisher: "上海三联书店"
@@ -69,7 +69,7 @@ updated: 2026-11-17
 > | **精英高等教育的责任伦理** | Trow (1976)；Mitford (2003)；阎光才 (2001) | 阐发顶尖大学传递的普遍主义关怀与精英责任（noblesse oblige），说明高校对学生价值图式的改写功能 (p. 359)。 |
 > | **习性与场域错配的“离水之鱼”效应** | [[Pierre Bourdieu\|Bourdieu & Wacquant (1992)]] | 刻画底层习性突兀进入中产主导的精英大学场域时产生的不适、尴尬与疏离感 (p. 362)。 |
 > | **文化错配理论** | Stephens et al. (2012) | 证明大学推崇的独立型规范与[[First-Generation College Student\|第一代大学生]]的互依型背景冲突，诱发心理压力与情绪负荷 (p. 361)。 |
-> | **[[Habitus Divided Against Itself\|习性裂化]]与自我多重化** | [[Pierre Bourdieu\|Bourdieu (1999)]]；Jin & Ball (2019) | 揭示场域转换导致新旧生活史断裂，个体深陷自我认同不稳定、自卑与身份撕裂的困境 (pp. 363–364)。 |
+> | **[[Habitus Divided Against Itself\|习性裂化]]与自我多重化** | [[Pierre Bourdieu\|Bourdieu (1999)]]；Jin and Ball (2019) | 揭示场域转换导致新旧生活史断裂，个体深陷自我认同不稳定、自卑与身份撕裂的困境 (pp. 363–364)。 |
 > | **学校组织中的隐性文化知识** | Lareau (2015)；Calarco (2011) | 说明优势学生理所当然地掌握向教师求助的文化知识，弱势学生因缺乏语码[[Decodification\|解码]]能力而退守孤立 (p. 364)。 |
 > | **[[Personal Myth\|个人神话]]与叙事认同** | [[Dan P. McAdams\|McAdams (1993)]] | 阐明行动者通过重构自传体生命故事缝合过去与现在，在向上流动中确立自我认同的连续性 (p. 368)。 |
 > | **阶级自传与回归故里的精神和解** | [[Didier Eribon\|Eribon (2009)]] | 揭示厌弃原生阶层带来的精神折磨，论证通过与原生文化和解并发挥“文化使者”优势的重要性 (p. 369)。 |
