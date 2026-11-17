@@ -11,7 +11,7 @@ aliases:
 summary: "驱动国家科技战略、大学治理变革与劳动力技能重塑的核心逻辑与地缘政治装置。在新自由主义社会想象下，国家经济竞争力被假定为直接取决于由国际标准衡量的教育质量；在宏观上体现为长程战略计算、先进制造、跨国多边监测与地缘威慑；在中观上体现为产学中心破除学科壁垒与排名审计重塑大学；在微观上体现为产线组织学习与学习分析；创始人长期主义与全员股权模式构成了抵御短期金融化的深层制度基石。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 96
+related_count: 97
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -127,10 +127,11 @@ related_arguments:
   - "[[Argument_Kuortti_2025_JEdPolicy]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Deng_2016_CE]]"
 confidence: high
 status: active
 created: 2026-05-19
-updated: 2026-11-15
+updated: 2026-11-18
 ---
 
 ---
@@ -146,7 +147,7 @@ updated: 2026-11-15
 > 5. **中观大学机构治理与地缘声誉竞争力（Meso Institutional & Higher Education Competitiveness）** 指一种重新组织大学及学者行为的治理装置：在科研端通过多用途跨学科研究中心（MMURC）对接国家战略需求；在评价端通过[[Global Universities Rankings|全球大学排名]]、卓越计划与指标审计将大学转化为竞争性市场主体。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 219–220)]]
 > 6. **微观劳动力技能与个体学业竞争力（Micro Student & Workforce Competitiveness）** 指在数字化治理与[[Human Capital Theory|人力资本]]框架下，通过[[Learning Analytics|学习分析]]、在线自评与产线组织学习，将学业与生产不确定性转化为可干预的数据，培养具备自我优化能力的工程技术劳动力。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 220–221)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 117–118)]]
 > 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **核心功能** 竞争力不仅是对现实经济与学术实力差异的事[[Pre-test and Post-test|后测]]量，更是一种前置重构国家科技投资结构、大学学术制度与个体行动意愿的规训与动员装置。
 > - **理论用途** 解释国家科研资助体系从“布什线性契约”向“产学中心协同与制造锚定”转型的动因，诊断大学排名与卓越审计下的学术内耗，以及解析超国家流动网络如何将劳动力市场竞争压力个体化。
 > - **制度边界** 严格区别于纯粹自由放任的市场自由竞争；高教与国家战略中的竞争力深度依赖公共财政导向、[[Regulatory Sandbox|规制沙盒]]政策、指标基础设施界定与全球地缘政治博弈。
@@ -177,7 +178,7 @@ updated: 2026-11-15
 
 ---
 
-> [!contrast-table] 竞争力的治理构型辨析
+> [!contrast-table|notitle] 竞争力的治理构型辨析
 > | 比较维度 | 宏观国家战略与实体制造竞争力 | 组织治理与创始人溢价竞争力 | 中观大学机构声誉与科研竞争力 | 微观劳动力技能与学生学业竞争力 |
 > |:---|:---|:---|:---|:---|
 > | **主导驱动力** | [[Geopolitics\|地缘政治]]博弈、先进制造业技术主权与长程威慑 | 审美品味、突破性创新与抵御季度短期主义 | [[Global Universities Rankings\|全球大学排名]]、国家卓越计划与高教拨款争夺 | 毕业[[Employability\|就业力]]、产业技能缺口填补与不确定性规避 |
@@ -187,7 +188,7 @@ updated: 2026-11-15
 
 ---
 
-> [!feature] 竞争力逻辑的核心运作支柱
+> [!feature|notitle] 核心要素
 > - **国家千年期战略决断与长程威慑意志（Thousand-Year Horizon & Deterrence Resolve）** 将国家存续置于数代人乃至千年尺度上审视，依托强有力的国家能力与共同文化认同铸造战略威慑力，克服短期功利与地缘松懈。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–197, 204)]]
 > - **国家战略产业对齐与实体制造支撑锚定（Strategic Alignment & Manufacturing Anchors）** 将国家宏观安全诉求作为科研立项前提，建设共享试验场与[[Pilot Scale Platform|中试平台]]，确保科学发现转化为本土制造能力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 33–35)]]
 > - **破除规制阻滞与恢复[[Permissionless Innovation|无许可创新]]（Regulatory Reform & Sandboxes）** 将行政审批延误导致的“不行动代价”纳入核算，通过[[Regulatory Sandbox|监管沙盒]]为硬科技试验松绑。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 37–38)]]
