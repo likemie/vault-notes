@@ -42,9 +42,8 @@ related_concepts:
   - "[[Habitus Hysteresis]]"
   - "[[Cultural Knowledge]]"
   - "[[Symbolic Boundary]]"
-  - "[[Habitus Divided Against Itself]]"
   - "[[Sense of the Game]]"
-  - "[[Unwritten Rules of Engagement]]"
+  - "[[Reflexivity]]"
   - "[[First-Generation College Student]]"
   - "[[Time Management]]"
   - "[[Cultural Capital]]"
@@ -59,7 +58,8 @@ related_concepts:
   - "[[Extracurricular Activities]]"
   - "[[Cultural Barrier]]"
   - "[[Study Abroad]]"
-  - "[[Reflexivity]]"
+  - "[[Unwritten Rules of Engagement]]"
+  - "[[Habitus Divided Against Itself]]"
   - "[[Operationalization]]"
 related_theories:
   - "[[Culture as Toolkit]]"
@@ -99,13 +99,9 @@ updated: 2026-11-17
 > |---|---|
 > | **[[Goal-Controlled Mode\|目标掌控模式]]**<br>[[Yajun Zheng\|郑雅君（Zheng, Y.）]] | 概括优势阶层学生洞悉场域规则、尽早树立生涯目标、策略性管理时间并高效将努力转化为出路优势的实践模式（pp. 68–71）。 |
 > | **[[Intuition-Dependent Mode\|直觉依赖模式]]**<br>[[Yajun Zheng\|郑雅君（Zheng, Y.）]] | 概括弱势背景学生因[[Habitus Hysteresis\|习性滞后]]与[[Cultural Knowledge\|文化性知识]]匮乏，在大学场域陷入目标失焦并依循直觉旧习行动的实践模式（pp. 70–73）。 |
-> | **[[Symbolic Boundary\|象征边界]]**<br>米歇尔·拉蒙特（Michèle Lamont） | 解释两类模式在技术策略之外所秉持的伦理立场与好恶评价，透视机巧负责与功利套路之间的道德区隔（pp. 71–73）。 |
-> | **[[Habitus Hysteresis\|习性滞后]]与[[Habitus Divided Against Itself\|习性分裂]]**<br>[[Pierre Bourdieu\|皮埃尔·布迪厄（Pierre Bourdieu）]] | 揭示个体因快速流动进入异质场域所带来的倾向脱节（habitus hysteresis），以及面对阶层跨越时产生的内在自我认同撕裂（pp. 70, 93）。 |
+> | **[[Sense of the Game\|博弈感]]与[[Habitus Hysteresis\|习性滞后]]**<br>[[Pierre Bourdieu\|皮埃尔·布迪厄（Pierre Bourdieu）]] | 阐释行动者对场域客观规则的前[[Reflexivity\|反思性]]实践掌握力，以及从应试县中跨入精英大学场域时性向脱节、迷失于迷宫探险的滞后机制（pp. 70, 98–101）。 |
 > | **[[Cultural Knowledge\|文化性知识]]**<br>安妮特·拉鲁（Annette Lareau） | 指出理解大学场域非言明规则、组织制度与评价偏好所必需的文化技能，具有隐蔽的阶级壁垒属性（p. 69）。 |
-> | **[[Sense of the Game\|博弈感]]**<br>[[Pierre Bourdieu\|皮埃尔·布迪厄（Pierre Bourdieu）]] | 阐释行动者对场域潜在规则与预期走势的实践掌握力，在名校迷宫中具化为持图通关的策略直觉（pp. 98–101）。 |
-> | **[[Unwritten Rules of Engagement\|未明说的参与规则]]**<br>埃普丽尔·伊（April Yee） | 揭示大学场域中对学业评价与资源获取具有关键影响的隐性交往规范与求助策略分层（p. 87）。 |
-> | **[[Culture as Toolkit\|文化工具箱理论]]**<br>[[Ann Swidler\|安·斯威德勒（Ann Swidler）]] | 区分稳定生活状态与不稳定生活状态下的行动风格，为理解策略工具调用与习惯性依赖提供文化社会学支柱（pp. 73–74）。 |
-> | **精英休克与鱼离水**<br>黛安·雷等（Diane Reay et al.） | 刻画底层背景学子进入精英名校时面临的剧烈文化震撼、边缘疏离感与效能感瓦解（pp. 89–93）。 |
+> | **[[Symbolic Boundary\|象征边界]]**<br>米歇尔·拉蒙特（Michèle Lamont） | 解释两类模式在技术策略之外所秉持的伦理立场与好恶评价，透视机巧负责与功利套路之间的道德区隔（pp. 71–73）。 |
 
 ---
 
@@ -181,7 +177,7 @@ updated: 2026-11-17
 >   高等教育体系将学业成功与职业前景人为隔离，导致学生分化为两类：处于不利地位的学生深陷应试专精状态，除应对考试外忽视了其他出路准备；处于优势地位的学生则与工作保持超脱的距离，能够达成明确而单一的合理目的（Bourdieu & Passeron, 1979, p. 70）。
 > - **Baxter Magolda 的自我主导理论**
 >   [[Self-Authorship|自我主导性]]（self-authorship, Baxter Magolda & King, 2012, p. 71）概念强调个体依循内在声音与核心价值观主导认知发展、自我认同与人际关系，目标掌控吸纳了这种自我主导内涵，并进一步补充其社会阶层根源。
-> - **斯威德勒的文化工具箱理论**
+> - **[[Ann Swidler|斯威德勒]]的[[Culture as Toolkit|文化工具箱]]理论**
 >   在稳定生活状态（settled lives）下，行动者自然调用熟悉的文化工具达成目标；在不稳定生活状态（unsettled lives, Swidler, 1986, p. 71）下，既有习惯难以应对新环境，行动者更易受外在意识形态与象征仪式的牵引。两种实践模式恰好对应了这两种文化行动状态。
 
 > [!boundary] 实践模式的理想类型特征与连续统属性
