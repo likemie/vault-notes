@@ -7,10 +7,10 @@ aliases:
 summary: "以感性认识、美与艺术的本体论、认识论及实践功能为研究对象的独立哲学分支，18世纪中期由鲍姆嘉通在德国首次命名并奠基。"
 type: concept
 domain: "educational-philosophy"
-related_count: 43
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 87
+related_level: 8
+related_stars: "💎💎⭐⭐"
+related_color: "#ddd6fe"
 tags:
   - field/philosophy
   - theme/aesthetics
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Aesthetic Truth]]"
   - "[[Aesthetic Education]]"
+  - "[[Poetics]]"
   - "[[Paradigm]]"
   - "[[Disinterested Pleasure]]"
   - "[[Aesthetic Intuition]]"
@@ -31,28 +32,57 @@ related_concepts:
   - "[[Romantic Irony]]"
   - "[[Absolute Spirit]]"
   - "[[End of Art]]"
+  - "[[Ersatz Religion]]"
+  - "[[Principle of Sufficient Reason]]"
+  - "[[Aestheticism]]"
+  - "[[Aestheticization of Philosophy]]"
+  - "[[Apollonian and Dionysian]]"
+  - "[[Positivism]]"
+  - "[[Natural Beauty]]"
+  - "[[Animal Symbolicum]]"
+  - "[[Alienation]]"
+  - "[[Typicality]]"
+  - "[[Parteilichkeit]]"
+  - "[[Catharsis]]"
+  - "[[Repressive Tolerance]]"
+  - "[[Artistic Desublimation]]"
+  - "[[Philosophical Hermeneutics]]"
+  - "[[Fusion of Horizons]]"
+  - "[[World and Earth]]"
+  - "[[Aesthetic Nondifferentiation]]"
+  - "[[Mimesis]]"
+  - "[[The Nonidentical]]"
+  - "[[Voluntarism]]"
+  - "[[Perspectivism]]"
   - "[[The Sublime]]"
   - "[[Play Drive]]"
-  - "[[Mimesis]]"
+  - "[[Principium Individuationis]]"
   - "[[Judgment of Taste]]"
-  - "[[The Nonidentical]]"
+  - "[[Indirect Communication]]"
   - "[[Aura]]"
-  - "[[Natural Beauty]]"
 related_persons:
   - "[[Alexander Gottlieb Baumgarten]]"
   - "[[Moses Mendelssohn]]"
   - "[[Gottfried Wilhelm Leibniz]]"
   - "[[Immanuel Kant]]"
   - "[[Plato]]"
+  - "[[Martin Heidegger]]"
   - "[[Theodor Adorno]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
+  - "[[Arthur Schopenhauer]]"
+  - "[[Friedrich Nietzsche]]"
+  - "[[Søren Kierkegaard]]"
+  - "[[Friedrich Schiller]]"
+  - "[[Georg Lukács]]"
+  - "[[Karl Marx]]"
+  - "[[Ernst Cassirer]]"
+  - "[[Herbert Marcuse]]"
+  - "[[Hans-Georg Gadamer]]"
   - "[[Friedrich Wilhelm Joseph Schelling]]"
   - "[[Friedrich Schlegel]]"
-  - "[[Friedrich Schiller]]"
+  - "[[Gotthold Ephraim Lessing]]"
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch01]]"
-  - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
-  - "[[Argument_Hammermeister_2002_Cambridge_Ch03]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch04]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch05]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch06]]"
@@ -60,13 +90,28 @@ related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch08]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch09]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch10]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch02]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch03]]"
 related_theories:
+  - "[[Hegel's Aesthetics]]"
+  - "[[Phenomenology]]"
+  - "[[Schopenhauer's Aesthetics]]"
+  - "[[Critical Theory]]"
   - "[[Schiller's Theory of Drives]]"
+  - "[[Kierkegaard's Aesthetics]]"
+  - "[[Nietzsche's Aesthetics]]"
+  - "[[Cassirer's Aesthetics]]"
+  - "[[Lukács's Aesthetics]]"
+  - "[[Marcuse's Aesthetics]]"
   - "[[Adorno's Aesthetics]]"
+related_facts:
+  - "[[System of Transcendental Idealism]]"
+  - "[[Philosophy of Art]]"
+  - "[[Aesthetic Theory]]"
 confidence: high
 status: draft
 created: "2026-11-14"
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 
 ---
@@ -102,7 +147,7 @@ updated: 2026-11-16
 
 ---
 
-> [!concept-proposition] 命题二｜18世纪德国美学经历了从规则诗学向情感心理美学的重心转移
+> [!concept-proposition] 命题二｜18世纪德国美学经历了从规则[[Poetics|诗学]]向情感心理美学的重心转移
 > **从客观规则转向主体感受** 早期德国美学先后由认识论与情感心理学两种取向推进，推动审美评价标准从遵循客观创作规则转向考察主体感受与心理官能，但仍处于[[Immanuel Kant|康德]]之前的前[[Paradigm|范式]]阶段。
 
 > [!claim] Hammermeister, K.
@@ -114,7 +159,7 @@ updated: 2026-11-16
 > **认识论中心主义美学范式** 1800 年前后，谢林与早期浪漫派颠覆康德将艺术附庸于自然的等级，把艺术确立为克服概念分裂、揭示绝对者的最高认识器官。
 
 > [!claim] Hammermeister, K.
-> **从体系顶石到哲学再阐释** 谢林在《先验唯心论体系》（1800）中借[[Aesthetic Intuition|审美直观]]把艺术推为哲学唯一真实的工具与[[Document|文献]]，以克服概念判断制造的主客分裂；随后在《艺术哲学》（1802–1805）转向新[[Plato|柏拉图]]主义，将美界定为理念的感性映象并重归哲学家阐释。整个浪漫派范式将艺术的认识论功能置于首位、次化本体论并排斥功利与道德实践，既启发了海德格尔与[[Theodor Adorno|阿多诺]]的现代批判，也因[[Romantic Irony|浪漫反讽]]与哲学受冷落而招致[[Georg Wilhelm Friedrich Hegel|黑格尔]]的反转。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62–66, 73–86)]]
+> **从体系顶石到哲学再阐释** 谢林在《[[System of Transcendental Idealism|先验唯心论体系]]》（1800）中借[[Aesthetic Intuition|审美直观]]把艺术推为哲学唯一真实的工具与[[Document|文献]]，以克服概念判断制造的主客分裂；随后在《[[Philosophy of Art|艺术哲学]]》（1802–1805）转向新[[Plato|柏拉图]]主义，将美界定为理念的感性映象并重归哲学家阐释。整个浪漫派范式将艺术的认识论功能置于首位、次化本体论并排斥功利与道德实践，既启发了[[Martin Heidegger|海德格尔]]与[[Theodor Adorno|阿多诺]]的现代批判，也因[[Romantic Irony|浪漫反讽]]与哲学受冷落而招致[[Georg Wilhelm Friedrich Hegel|黑格尔]]的反转。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62–66, 73–86)]]
 
 ---
 
@@ -126,43 +171,43 @@ updated: 2026-11-16
 
 ---
 
-> [!concept-proposition] 命题五｜叔本华以盲目意志形而上学与个人主义转向开启了对德国唯心论哲学美学传统的怀疑论拆解
-> **唯心论传统的三重逆转** 尽管《作为意志和表象的世界》首版问世早于黑格尔美学讲演，叔本华已在哲学美学中从共同体、认识论与实践维度全面逆转德国唯心论传统。
+> [!concept-proposition] 命题五｜[[Arthur Schopenhauer|叔本华]]以盲目意志形而上学与个人主义转向开启了对德国唯心论哲学美学传统的怀疑论拆解
+> **唯心论传统的三重逆转** 尽管《作为意志和表象的世界》首版问世早于[[Hegel's Aesthetics|黑格尔美学]]讲演，叔本华已在哲学美学中从共同体、认识论与实践维度全面逆转德国唯心论传统。
 
 > [!claim] Hammermeister, K.
-> **从共同体参与转向避世代偿宗教** 叔本华将审美体验从康德与黑格尔的共同体视野剥离为孤立个体的救赎安慰，一方面宣称脱离[[Principle of Sufficient Reason|充足理由律]]的艺术静观能直觉柏拉图理念并赋予音乐直接表达意志的最高位阶，另一方面又以意志工具论贬低理性与知性，使审美沦为逃离现实的[[Aestheticism|唯美主义]]避难所与代偿宗教，影响远胜学术哲学界而深植现代艺术创作。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 111–113, 118–127)]]
+> **从共同体参与转向避世[[Ersatz Religion|替代性宗教]]** 叔本华将审美体验从康德与黑格尔的共同体视野剥离为孤立个体的救赎安慰，一方面宣称脱离[[Principle of Sufficient Reason|充足理由律]]的艺术静观能直觉柏拉图理念并赋予音乐直接表达意志的最高位阶，另一方面又以意志工具论贬低理性与知性，使审美沦为逃离现实的[[Aestheticism|唯美主义]]避难所与替代性宗教，影响远胜学术哲学界而深植现代艺术创作。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 111–113, 118–127)]]
 
 ---
 
-> [!concept-proposition] 命题六｜克尔凯郭尔与尼采在反抗德国唯心论美学中回溯感性知觉或生理学，分别导致审美降格或全面哲学审美化
+> [!concept-proposition] 命题六｜克尔凯郭尔与[[Friedrich Nietzsche|尼采]]在反抗德国唯心论美学中回溯感性知觉或生理学，分别导致审美降格或全面[[Aestheticization of Philosophy|哲学审美化]]
 > **存在主义与生命哲学的双向拆解** 克尔凯郭尔与尼采均试图越过德国唯心论体系，把美学重新奠基于感性知觉（*aisthesis*）或身体生理学之上，却分别走向把审美降格为初级生存阶段与把美学扩张为取代形而上学的第一哲学。
 
 > [!claim] Hammermeister, K.
-> **回溯前唯心论的理论代价与“恐怖美学”** [[Søren Kierkegaard|索伦·克尔凯郭尔]]（Søren Kierkegaard）将审美拆分为超历史古典艺术与受瞬间心境支配的感官生活态度，虽揭示了自我创造摧毁悲剧共同体根基的困境，却因将感性窄化为情欲而丧失感性认知功能，在论证深度上不及席勒。[[Friedrich Nietzsche|弗里德里希·尼采]]（Friedrich Nietzsche）历经《悲剧的诞生》日神与酒神美学及实证主义插曲后，在 1880 年代借古希腊广义制作（*techne*）概念把美学还原为应用生理学并推向全部哲学根基，却因排斥[[Natural Beauty|自然美]]与理性尺度而滑向拒绝承认他者视角的“恐怖美学”，直接激起新康德主义与[[Georg Lukács|格奥尔格·卢卡奇]]（Georg Lukács）的双重反弹。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 128–150)]]
+> **回溯前唯心论的理论代价与“恐怖美学”** [[Søren Kierkegaard|索伦·克尔凯郭尔]]（Søren Kierkegaard）将审美拆分为超历史古典艺术与受瞬间心境支配的感官生活态度，虽揭示了自我创造摧毁悲剧共同体根基的困境，却因将感性窄化为情欲而丧失感性认知功能，在论证深度上不及[[Friedrich Schiller|席勒]]。[[Friedrich Nietzsche|弗里德里希·尼采]]（Friedrich Nietzsche）历经《悲剧的诞生》[[Apollonian and Dionysian|日神与酒神]]美学及[[Positivism|实证主义]]插曲后，在 1880 年代借古希腊广义制作（*techne*）概念把美学还原为应用生理学并推向全部哲学根基，却因排斥[[Natural Beauty|自然美]]与理性尺度而滑向拒绝承认他者视角的“恐怖美学”，直接激起新康德主义与[[Georg Lukács|格奥尔格·卢卡奇]]（Georg Lukács）的双重反弹。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 128–150)]]
 
 ---
 
 > [!concept-proposition] 命题七｜20 世纪德国美学在思想发生学上重演了从康德、席勒到谢林与黑格尔的古典范式秩序
-> **新康德主义与新马克思主义的双重复兴** 尽管各派代表作的出版年代前后交错，但按思想萌发期排序，20 世纪德国美学依次重演了康德式自律辩护、席勒式社会解放关切以及谢林—黑格尔式真理器官转向。
+> **新康德主义与新[[Karl Marx|马克思]]主义的双重复兴** 尽管各派代表作的出版年代前后交错，但按思想萌发期排序，20 世纪德国美学依次重演了康德式自律辩护、席勒式社会解放关切以及谢林—黑格尔式真理器官转向。
 
 > [!claim] Hammermeister, K.
-> **卡西尔、卢卡奇与马尔库塞的范式推进及限度** [[Ernst Cassirer|恩斯特·卡西尔]]（Ernst Cassirer）在 1920 年代以[[Animal Symbolicum|符号动物]]重铸康德自律美学，将艺术界定为集中强化现实的自主符号形式，却因主观形式转向而缺失历史维度并回避纯形式与事物真理的连接；[[Georg Lukács|卢卡奇]]与[[Herbert Marcuse|赫伯特·马尔库塞]]（Herbert Marcuse）则重启[[Friedrich Schiller|席勒]]克服[[Alienation|异化]]与维护艺术自律的双重关切，前者借[[Typicality|典型性]]、党性（*Parteilichkeit*）与理性[[Catharsis|卡塔西斯]]构建现实主义，却因赋予马克思列宁主义理论以认知特权而威胁艺术独立性，后者在[[Repressive Tolerance|压抑性容忍]]下从反艺术退回伟大自律艺术的否定力量，并以爱欲（*Eros*）与死亡本能（*Thanatos*）奠定美与艺术的永恒性。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 153–172)]]
+> **[[Ernst Cassirer|卡西尔]]、卢卡奇与[[Herbert Marcuse|马尔库塞]]的范式推进及限度** [[Ernst Cassirer|恩斯特·卡西尔]]（Ernst Cassirer）在 1920 年代以[[Animal Symbolicum|符号动物]]重铸康德自律美学，将艺术界定为集中强化现实的自主符号形式，却因主观形式转向而缺失历史维度并回避纯形式与事物真理的连接；[[Georg Lukács|卢卡奇]]与[[Herbert Marcuse|赫伯特·马尔库塞]]（Herbert Marcuse）则重启[[Friedrich Schiller|席勒]]克服[[Alienation|异化]]与维护艺术自律的双重关切，前者借[[Typicality|典型性]]、[[Parteilichkeit|党性]]（*Parteilichkeit*）与理性[[Catharsis|卡塔西斯]]构建现实主义，却因赋予马克思列宁主义理论以认知特权而威胁艺术独立性，后者在[[Repressive Tolerance|压抑性容忍]]下从[[Artistic Desublimation|反艺术]]退回伟大自律艺术的否定力量，并以爱欲（*Eros*）与死亡本能（*Thanatos*）奠定美与艺术的永恒性。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 153–172)]]
 
 ---
 
-> [!concept-proposition] 命题八｜海德格尔与伽达默尔在拒斥传统美学的同时，以真理事件与哲学诠释学重续浪漫主义范式
-> **存在论逆转与诠释学消融** 20 世纪现象学与诠释学美学表面上与鲍姆嘉通、康德以来的学科传统决裂，实质上将谢林确立的艺术真理发生范式推进至存在论守护与理解事件层面。
+> [!concept-proposition] 命题八｜海德格尔与[[Hans-Georg Gadamer|伽达默尔]]在拒斥传统美学的同时，以真理事件与[[Philosophical Hermeneutics|哲学诠释学]]重续浪漫主义范式
+> **存在论逆转与诠释学消融** 20 世纪[[Phenomenology|现象学]]与诠释学美学表面上与鲍姆嘉通、康德以来的学科传统决裂，实质上将谢林确立的艺术真理发生范式推进至存在论守护与理解事件层面。
 
 > [!claim] Hammermeister, K.
-> **海德格尔的物性逆转与伽达默尔的视域融合** [[Martin Heidegger|马丁·海德格尔]]（Martin Heidegger）论证传统物性本体论无法区分艺术与普通物品，转而通过艺术体验揭示器具性与真理，在[[World and Earth|世界与大地]]的竞技争执中将艺术确立为对抗计算理性的存在论守护者；[[Hans-Georg Gadamer|汉斯-格奥尔格·伽达默尔]]（Hans-Georg Gadamer）则批判康德式审美意识将作品孤立于生活世界，借助[[Aesthetic Nondifferentiation|审美无区分]]、游戏（*Spiel*）、[[Fusion of Horizons|视域融合]]与毕达哥拉斯式秩序[[Mimesis|摹仿]]，把美学彻底并入[[Philosophical Hermeneutics|哲学诠释学]]并确立艺术高于哲学追问的完满性。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 173–193)]]
+> **海德格尔的物性逆转与伽达默尔的[[Fusion of Horizons|视域融合]]** [[Martin Heidegger|马丁·海德格尔]]（Martin Heidegger）论证传统物性本体论无法区分艺术与普通物品，转而通过艺术体验揭示器具性与真理，在[[World and Earth|世界与大地]]的竞技争执中将艺术确立为对抗计算理性的存在论守护者；[[Hans-Georg Gadamer|汉斯-格奥尔格·伽达默尔]]（Hans-Georg Gadamer）则批判康德式审美意识将作品孤立于生活世界，借助[[Aesthetic Nondifferentiation|审美无区分]]、游戏（*Spiel*）、[[Fusion of Horizons|视域融合]]与毕达哥拉斯式秩序[[Mimesis|摹仿]]，把美学彻底并入[[Philosophical Hermeneutics|哲学诠释学]]并确立艺术高于哲学追问的完满性。[[Argument_Hammermeister_2002_Cambridge_Ch09|(Hammermeister, 2002, pp. 173–193)]]
 
 ---
 
-> [!concept-proposition] 命题九｜阿多诺以非同一性与客体顺应重构真理器官，当代美学在感官化与自律虚无两难中亟待重联超验真理
+> [!concept-proposition] 命题九｜阿多诺以[[The Nonidentical|非同一性]]与客体顺应重构真理器官，当代美学在感官化与自律虚无两难中亟待重联超验真理
 > **否定辩证法与现代主义认识论** 阿多诺将哲学美学定位为哲学的救赎器官，借由对异己客体的摹仿性顺应抗衡工具理性的总体宰制；当代美学若要走出“一切皆可为艺术”的感官化泛滥或反思自律的虚无主义死胡同，必须重新承担形而上学维度。
 
 > [!claim] Adorno, T. W. & Hammermeister, K.
-> **从双重视角辨证到当代美学反思** 阿多诺在《美学理论》（1970）中从内外双重视角推进谢林与黑格尔的认识论美学传统：艺术作品对内作为高度组织化的自律形式，对外作为社会现实的不妥协对抗者与非同一性真理的庇护所。当代德国美学（以韦尔施与布普纳为代表）面临两重困境：要么泛化为纯粹日常生活审美化的感官论，要么受困于纯形式的反思自律而沦为虚无主义；美学唯有重新联结超验真理，方能克服这一时代两难。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 194–197, 201–216)]]
+> **从双重视角辨证到当代美学反思** 阿多诺在《[[Aesthetic Theory|美学理论]]》（1970）中从内外双重视角推进谢林与黑格尔的认识论美学传统：艺术作品对内作为高度组织化的自律形式，对外作为社会现实的不妥协对抗者与非同一性真理的庇护所。当代德国美学（以韦尔施与布普纳为代表）面临两重困境：要么泛化为纯粹日常生活审美化的感官论，要么受困于纯形式的反思自律而沦为虚无主义；美学唯有重新联结超验真理，方能克服这一时代两难。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 194–197, 201–216)]]
 
 ---
 
@@ -173,9 +218,9 @@ updated: 2026-11-16
 > | **认知与情感取向接力** | 美学重心从客观创作规则转向主体心理感受与审美教育，为康德范式铺路 | 18 世纪德国启蒙美学史与美育传统 | Baumgarten, A. G.; Mendelssohn, M.; Hammermeister, K. |
 > | **审美认识论至上与浪漫派转向** | 艺术由哲学顶石回落至理念映象，建立起认识论主导、实践性退场的浪漫派美学范式 | 后康德唯心论、早期浪漫派与现代存在论美学源流 | [[Friedrich Wilhelm Joseph Schelling\|Schelling, F. W. J.]]; [[Friedrich Schlegel\|Schlegel, F.]]; Hammermeister, K. |
 > | **客观唯心论与艺术历史化** | 艺术受限于感性显现而低于哲学概念，同时在起源与功能上全面历史化 | 德国古典唯心论终结、艺术史奠基与艺术终结论 | Hegel, G. W. F.; Hammermeister, K. |
-> | **唯意志论逆转与唯美主义转向** | 艺术脱离共同体、理性与现实实践，转为个体摆脱欲望痛苦的暂时安慰 | 德国唯心论拆解、[[Schopenhauer's Aesthetics\|叔本华美学]]与现代唯美主义 | [[Arthur Schopenhauer\|Schopenhauer, A.]]; Hammermeister, K. |
-> | **反唯心论回溯与哲学审美化** | 克尔凯郭尔以存在论贬抑审美并丧失感性认知，尼采以应用生理学与视角主义扩张美学至全哲学并滑向“恐怖美学” | 存在主义美学批判、尼采哲学审美化与 20 世纪双向反弹 | Kierkegaard, S.; Nietzsche, F.; Hammermeister, K. |
-> | **20 世纪古典范式重演** | 卡西尔重铸康德符号自律美学，卢卡奇与马尔库塞以社会历史与冲动理论重启席勒式美育解放议题 | 新康德主义美学、新马克思主义美学与批判理论过渡 | [[Ernst Cassirer\|Cassirer, E.]]; [[Georg Lukács\|Lukács, G.]]; [[Herbert Marcuse\|Marcuse, H.]]; Hammermeister, K. |
+> | **[[Voluntarism\|唯意志论]]逆转与唯美主义转向** | 艺术脱离共同体、理性与现实实践，转为个体摆脱欲望痛苦的暂时安慰 | 德国唯心论拆解、[[Schopenhauer's Aesthetics\|叔本华美学]]与现代唯美主义 | [[Arthur Schopenhauer\|Schopenhauer, A.]]; Hammermeister, K. |
+> | **反唯心论回溯与哲学审美化** | 克尔凯郭尔以存在论贬抑审美并丧失感性认知，尼采以应用生理学与[[Perspectivism\|视角主义]]扩张美学至全哲学并滑向“恐怖美学” | 存在主义美学批判、尼采哲学审美化与 20 世纪双向反弹 | Kierkegaard, S.; Nietzsche, F.; Hammermeister, K. |
+> | **20 世纪古典范式重演** | 卡西尔重铸康德符号自律美学，卢卡奇与马尔库塞以社会历史与冲动理论重启席勒式美育解放议题 | 新康德主义美学、新马克思主义美学与[[Critical Theory\|批判理论]]过渡 | [[Ernst Cassirer\|Cassirer, E.]]; [[Georg Lukács\|Lukács, G.]]; [[Herbert Marcuse\|Marcuse, H.]]; Hammermeister, K. |
 > | **存在论守护与诠释学消融** | 海德格尔以真理事件逆转物性本体论，伽达默尔以游戏、视域融合与秩序模仿将美学并入哲学诠释学 | 20 世纪现象学艺术哲学与哲学诠释学美学 | [[Martin Heidegger\|Heidegger, M.]]; [[Hans-Georg Gadamer\|Gadamer, H.-G.]]; Hammermeister, K. |
 > | **非同一性真理与超验转向** | 阿多诺以内外双重视角捍卫艺术作为非同一性真理器官，当代美学在日常生活审美化与自律虚无中亟需重联形而上学维度 | 批判理论美学、现代主义艺术辩护与当代美学困境反思 | [[Theodor Adorno\|Adorno, T. W.]]; Hammermeister, K. |
 
@@ -185,12 +230,12 @@ updated: 2026-11-16
 > - **1735 — 学科命名** 鲍姆嘉通在《关于诗的若干哲学沉思》中首次提出“美学（aesthetics）”作为独立哲学学科的名称，意指感性知觉理论。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, p. 4)]]
 > - **1750–1758 — 体系奠基** 鲍姆嘉通出版《美学》，将其界定为感性认识科学和自由艺术理论；其学生迈尔于 1748 年率先以德文出版讲义使之广为传播。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 6–7)]]
 > - **1755–1761 — 情感与心理转向** 门德尔松发表《论情感的书信》与《狂想曲》，将美学从认识论转向主体愉悦、[[The Sublime|崇高]]与审美教育。[[Argument_Hammermeister_2002_Cambridge_Ch01|(Hammermeister, 2002, pp. 14–19)]]
-> - **1781–1790 — 语义定型与范式确立** [[Immanuel Kant|康德]]在《纯粹理性批判》（1781）“先验感性论”中沿用感性经验先验条件之旧义，而在 1790 年《判断力批判》中正式将其转为关于鉴赏、美与艺术的哲学（同时区分哲学的“批判”即可能性条件探究与赫尔德、莱辛的艺术批评），开启以形式主义、主观化及脱离认知与道德为特征的首个强美学范式。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 23–24, 40–41)]]
+> - **1781–1790 — 语义定型与范式确立** [[Immanuel Kant|康德]]在《纯粹理性批判》（1781）“先验感性论”中沿用感性经验先验条件之旧义，而在 1790 年《判断力批判》中正式将其转为关于鉴赏、美与艺术的哲学（同时区分哲学的“批判”即可能性条件探究与赫尔德、[[Gotthold Ephraim Lessing|莱辛]]的艺术批评），开启以形式主义、主观化及脱离认知与道德为特征的首个强美学范式。[[Argument_Hammermeister_2002_Cambridge_Ch02|(Hammermeister, 2002, pp. 23–24, 40–41)]]
 > - **1795 — 历史化与人类学转向** [[Friedrich Schiller|席勒]]在《[[Aesthetic Education|审美教育]]书简》中批判康德美学的主观与非历史局限，引入历史维度、[[Schiller's Theory of Drives|冲动学说]]与[[Play Drive|游戏冲动]]，将美学重塑为应对现代性分裂与通向道德共同体的中介桥梁，开启从先验唯心论向[[Georg Wilhelm Friedrich Hegel|黑格尔]]客观唯心论的过渡。[[Argument_Hammermeister_2002_Cambridge_Ch03|(Hammermeister, 2002, pp. 42–44, 51–54)]]
 > - **1800–1807 — 浪漫派美学与认识论中心主义** 谢林在《先验唯心论体系》（1800）中以[[Aesthetic Intuition|审美直观]]确立艺术高于概念哲学的地位，随后在《艺术哲学》（1802–1805）转向新柏拉图主义理念[[Mimesis|模仿]]并交由哲学阐释；浪漫派将艺术认识论功能绝对化的范式为海德格尔与阿多诺奠基，并引发黑格尔对哲学地位的反转。[[Argument_Hammermeister_2002_Cambridge_Ch04|(Hammermeister, 2002, pp. 62–66, 74–86)]]
 > - **1817–1835 — 绝对精神体系与历史化转向** [[Georg Wilhelm Friedrich Hegel|黑格尔]]在《哲学全书纲要》与《美学讲演录》中将美界定为理念的感性显现，把艺术安置在[[Absolute Spirit|绝对精神]]的初级环节，反转浪漫派“艺术高于哲学”的秩序，并以历史三阶段与媒介谱系开启现代艺术史学科。[[Argument_Hammermeister_2002_Cambridge_Ch05|(Hammermeister, 2002, pp. 87–95, 97–103)]]
 > - **1818 — 唯意志论逆转与唯美主义先声** [[Arthur Schopenhauer|阿图尔·叔本华]]（Arthur Schopenhauer）在《作为意志和表象的世界》中以非理性盲目意志取代理性本原，将艺术静观界定为短暂摆脱[[Principium Individuationis|个体化原理]]痛苦与直觉理念的安慰通道，并把音乐置于艺术顶端，由此开启对唯心论美学的怀疑论拆解与避世转向。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 111–127)]]
-> - **1843–1889 — 反唯心论的存在论降格与哲学审美化** [[Søren Kierkegaard|克尔凯郭尔]]在《非此即彼》等著述中越过唯心论回到 *aisthesis*，将审美生活定位于须由伦理扬弃的初级阶段；[[Friedrich Nietzsche|尼采]]则从《悲剧的诞生》与实证主义批判走向 1880 年代的应用生理学与全面哲学审美化，将美学推上取代形而上学的第一哲学位置。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 128–150)]]
+> - **1843–1889 — 反唯心论的存在论降格与哲学审美化** 克尔凯郭尔在《非此即彼》等著述中越过唯心论回到 *aisthesis*，将审美生活定位于须由伦理扬弃的初级阶段；[[Friedrich Nietzsche|尼采]]则从《悲剧的诞生》与实证主义批判走向 1880 年代的应用生理学与全面哲学审美化，将美学推上取代形而上学的第一哲学位置。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 128–150)]]
 > - **1920s–1944 — 新康德主义符号美学复兴** [[Ernst Cassirer|卡西尔]]以[[Animal Symbolicum|符号动物]]重铸康德艺术自律原则，在《人论》（1944）及文化科学研究院演讲中提出艺术对现实的集中强化与形式净化，但面临非历史性与纯形式真理连接困境。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 153–158)]]
 > - **1930s–1963 — 马克思主义现实主义美学体系化** [[Georg Lukács|卢卡奇]]在《审美的特性》（1963）等著述中以[[Typicality|典型性]]、党性与理性[[Catharsis|卡塔西斯]]重构[[Mimesis|摹仿]]论，试图通过艺术克服现代[[Alienation|异化]]，却因外部理论认知特权引发艺术自主性悖论。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 160–169)]]
 > - **1966–1978 — 批判理论与伟大艺术否定性回调** [[Herbert Marcuse|马尔库塞]]从《论解放》（1969）的反艺术去升华转向《反革命与造反》（1972）与《审美之维》（1978），在[[Repressive Tolerance|压抑性容忍]]体制下重申自律伟大艺术改造意识与冲动、抗衡死亡本能的永恒否定力量。[[Argument_Hammermeister_2002_Cambridge_Ch08|(Hammermeister, 2002, pp. 169–172)]]

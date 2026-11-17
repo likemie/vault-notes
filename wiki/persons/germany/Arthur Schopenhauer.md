@@ -110,7 +110,7 @@ updated: 2026-11-17
 > 唯有在审美静观、同情伦理与[[Asceticism|禁欲否定]]三条道路中，主体才能暂时或彻底摆脱[[Principium Individuationis|个体化原理]]的幻象。在审美经验中，[[Genius|天才]]与静观主体脱离充足理由律的因果关联，直接直观意志客体化的[[Plato|柏拉图]]理念，而音乐更跳过理念直接客体化意志本身；然而，主体终究必须重返受欲望支配的日常世界，艺术因此从道德与共同体教化抽离，转化为孤立个体逃离现实的短暂慰藉。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 116–127)]]
 >
 > > [!thesis-quote] 凯·哈默迈斯特论叔本华美学的历史转向
-> > 在叔本华那里，美学发生了个人主义转向，艺术脱离共同体与实践参与，沦为孤立个体逃离不可忍受之现实的解脱技术，开启了[[Aestheticism|唯美主义]]与艺术[[Ersatz Religion|代偿宗教]]化的现代路径。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 112–113, 126–127)]]
+> > 在叔本华那里，美学发生了个人主义转向，艺术脱离共同体与实践参与，沦为孤立个体逃离不可忍受之现实的解脱技术，开启了[[Aestheticism|唯美主义]]与艺术[[Ersatz Religion|替代性宗教]]化的现代路径。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 112–113, 126–127)]]
 > >
 > > *The practical moment of aesthetics in Schopenhauer no longer leads to an engagement with the world but to a withdrawal from it. Thus, aesthetic experience is putatively a technique of liberation from the world in which the only practical element left is the one that aims to end all [[Praxis|praxis]] – if not for good, then at least temporarily.*
 
@@ -162,7 +162,7 @@ updated: 2026-11-17
 > | [[Genius]] | 概念 | 界定为认知压倒意志的罕见禀赋，承担剥除现象杂质与传达理念的功能。 |
 > | [[The Sublime]] | 概念 | 区分美与崇高：前者无冲突进入静观，后者需主体猛烈挣脱恐惧进入静观。 |
 > | [[The Interesting]] | 概念 | 界定迫使意志作出反应的刺激物，划清纯粹美感与欲望扰动的边界。 |
-> | [[Aestheticism]] | 概念 | 剥离艺术的道德与共同体义务，开启个体避世与艺术代偿宗教的现代转向。 |
+> | [[Aestheticism]] | 概念 | 剥离艺术的道德与共同体义务，开启个体避世与艺术替代性宗教的现代转向。 |
 > | [[Immanuel Kant]] | 人物 | 继承其先验表象论与无利害静观，但以意志打破物自体不可知论并反转音乐位阶。 |
 > | [[Georg Wilhelm Friedrich Hegel]] | 人物 | 激烈抨击黑格尔的历史主义与体系哲学，标志德国唯心论美学的怀疑论瓦解。 |
 > | [[Friedrich Nietzsche]] | 人物 | 其悲剧美学与生命哲学的重要思想起点与批判改造对象。 |

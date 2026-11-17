@@ -151,7 +151,7 @@ updated: 2026-11-17
 > > 叔本华将艺术界定为逃离意志苦难的暂时避难所，引发关于艺术社会功能与意识形态后果的争议。
 > >
 > > - **汉斯-迪特·巴尔（Hans-Dieter Bahr, 1970）** 从[[Karl Marx|马克思]]主义视角批评叔本华的静观美学将实践转化为对现实世界的退缩。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 127, 232)]]
-> > - **凯·哈默迈斯特（2002）** 指出该理论彻底逆转康德与[[Georg Wilhelm Friedrich Hegel|黑格尔]]的共同体传统，开启脱离道德与实践参与的唯美主义，使艺术在 1848 年后沦为资产阶级的[[Ersatz Religion|代偿宗教]]。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 112–113, 126–127)]]
+> > - **凯·哈默迈斯特（2002）** 指出该理论彻底逆转康德与[[Georg Wilhelm Friedrich Hegel|黑格尔]]的共同体传统，开启脱离道德与实践参与的唯美主义，使艺术在 1848 年后沦为资产阶级的[[Ersatz Religion|替代性宗教]]。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 112–113, 126–127)]]
 
 ---
 

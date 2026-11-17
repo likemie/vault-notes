@@ -2,12 +2,11 @@
 title: Ersatz Religion
 aliases:
   - 替代性宗教
-  - 代偿宗教
   - 审美救赎论
 summary: "指宗教的救赎功能在世俗化语境下转移至艺术领域，使艺术为失去宗教慰藉或政治行动力的个体提供姑息性解脱。哈默迈斯特指出，叔本华的个人主义救赎美学使艺术成为1848年后资产阶级的替代性宗教。"
 type: concept
 domain: "educational-philosophy"
-related_count: 6
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,14 +15,17 @@ tags:
   - theme/aesthetics
   - theme/ethics
 related_concepts:
+  - "[[Philosophical Aesthetics]]"
   - "[[Aestheticism]]"
   - "[[Civic Religion]]"
 related_theories:
   - "[[Schopenhauer's Aesthetics]]"
-related_methods: []
+related_methods:
+  - "[[Ideology Critique]]"
 related_instruments: []
 related_persons:
   - "[[Arthur Schopenhauer]]"
+  - "[[Karl Marx]]"
   - "[[Arnold Gehlen]]"
 related_facts: []
 related_arguments:
@@ -31,18 +33,18 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-17
 ---
 
 ---
 
 > [!def] Ersatz Religion
-> **替代性宗教（Ersatz Religion）** 指原本属于宗教的救赎（soteriology）与终极慰藉功能被转移到艺术与审美体验之中，使艺术承担起安抚苦难、替代信仰的社会心理角色。在[[Arthur Schopenhauer|阿图尔·叔本华]]（Arthur Schopenhauer）的美学转向中，艺术脱离了德国唯心论的道德与共同体纽带，成为面向孤立个体的救赎替代品。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 126, 232 n.16)]]
+> **替代性宗教（Ersatz Religion）** 指原本属于宗教的救赎（soteriology）与终极慰藉功能被转移到艺术与审美体验之中，使艺术承担起安抚苦难、替代信仰的社会心理角色。在[[Arthur Schopenhauer|阿图尔·叔本华]]（Arthur Schopenhauer）的[[Philosophical Aesthetics|美学]]转向中，艺术脱离了德国唯心论的道德与共同体纽带，成为面向孤立个体的救赎替代品。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 126, 232 n.16)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 艺术接管宗教救赎职能后形成的世俗化审美慰藉机制。
 > - **用途** 解释19世纪中叶以来脱离社会实践的[[Aestheticism|唯美主义]]与“重体验轻作品”倾向为何获得广泛的社会心理共鸣。
-> - **边界** 将艺术视为替代性宗教往往以放弃现实改造与政治参与为代价，容易引发逃避主义与意识形态批判。
+> - **边界** 将艺术视为替代性宗教往往以放弃现实改造与政治参与为代价，容易引发逃避主义与[[Ideology Critique|意识形态批判]]。
 
 > [!citation-card|notitle] 艺术承接宗教救赎功能
 > 首先，救赎功能从宗教转移到了艺术，艺术由此变成某种替代性宗教。正是这一立场使叔本华成为1848年后感到厌倦、开明、在政治上无力且某种程度上缺乏宗教信仰的资产阶级的心头好。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, p. 126)]]
@@ -62,7 +64,7 @@ updated: 2026-11-15
 > **避世转向与意识形态批判** 把艺术确立为个人慰藉的替代性宗教，在推动现代审美自律的同时，也招致了逃避现实的批评。
 >
 > > [!claim] Hammermeister, K.
-> > **从救赎美学到唯美主义的社会后果** 凯·哈默迈斯特（Kai Hammermeister）援引布丽吉特·舍尔（Brigitte Scheer, 1997, p. 152）指出，叔本华的个人主义转向使艺术成为脱离道德、共同体与实践考量的替代性宗教，并将艺术体验置于作品自身之上；该立场既在理论层面预示了印象派等现代艺术的主观化潮流，也因取消政治与社会参与而受到汉斯-迪特·巴尔（Hans-Dieter Bahr, 1970）等马克思主义者的意识形态批判。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 126–127, 232 n.16, 19)]]
+> > **从救赎美学到唯美主义的社会后果** 凯·哈默迈斯特（Kai Hammermeister）援引布丽吉特·舍尔（Brigitte Scheer, 1997, p. 152）指出，叔本华的个人主义转向使艺术成为脱离道德、共同体与实践考量的替代性宗教，并将艺术体验置于作品自身之上；该立场既在理论层面预示了印象派等现代艺术的主观化潮流，也因取消政治与社会参与而受到汉斯-迪特·巴尔（Hans-Dieter Bahr, 1970）等[[Karl Marx|马克思]]主义者的意识形态批判。[[Argument_Hammermeister_2002_Cambridge_Ch06|(Hammermeister, 2002, pp. 126–127, 232 n.16, 19)]]
 
 ---
 

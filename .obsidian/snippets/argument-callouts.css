@@ -29196,7 +29196,7 @@ body .callout.callout.callout:is([data-callout="rating-scale"], [data-callout="s
 }
 
 body .callout.callout.callout:is([data-callout="rating-scale"], [data-callout="scale-track"], [data-callout="likert-scale"]) > .callout-title .callout-title-inner::before {
-  content: "SCALE · 评定量表" !important;
+  content: "RATING SCALE" !important;
   display: block !important;
   width: max-content;
   margin: 0 0 0.35rem !important;
@@ -29331,7 +29331,7 @@ body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="
 }
 
 body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) > .callout-title .callout-title-inner::before {
-  content: "MATRIX · 矩阵量表" !important;
+  content: "LIKERT MATRIX" !important;
   display: block !important;
   width: max-content;
   margin: 0 0 0.35rem !important;

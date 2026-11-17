@@ -50,6 +50,7 @@ related_concepts:
   - "[[Performance Capital]]"
   - "[[Student Involvement]]"
   - "[[Champ]]"
+  - "[[Unwritten Rules of Engagement]]"
   - "[[Study Abroad]]"
   - "[[Narrative Capital]]"
   - "[[Zero-Sum Competition]]"
@@ -62,7 +63,6 @@ related_concepts:
   - "[[Professional Interest]]"
   - "[[Symbolic Boundary]]"
   - "[[Hard Power]]"
-  - "[[Unwritten Rules of Engagement]]"
   - "[[Social Support]]"
   - "[[First-Generation College Student]]"
   - "[[Establishing One's Will]]"
@@ -112,15 +112,15 @@ updated: 2026-11-17
 ---
 
 > [!framework-table] 理论工具箱
-> | 理论工具 | 代表学者 | 解释功能 |
-> |---|---|---|
-> | **[[Academic Engagement\|学业投入]]与[[Social Engagement\|社会性投入]]** | [[George Kuh\|乔治·库（George Kuh）]]、[[Vincent Tinto\|文森特·汀托（Vincent Tinto）]] | 界定大学生促进自身发展的两大核心行动维度，为剖析阶层化时间精力分配提供基础分析支柱（第四章）。 |
-> | **[[Student Involvement\|学生涉入理论]]** | [[Alexander Astin\|亚历山大·阿斯汀（Alexander Astin）]] | 强调学生向教育实践活动投入的物理时间与心理能量直接决定其成长发展成果（第四章）。 |
-> | **[[Employability\|相对就业力]]与[[Credential Inflation\|文凭通胀]]** | [[Phillip Brown\|菲利普·布朗（Phillip Brown）]] | 揭示知识经济时代劳动力市场筛选从文凭硬指标向经历管理、性格特质与演绎呈现软实力的结构性转移（第四章）。 |
-> | **高等教育作为育婴室（Incubator）** | [[Mitchell Stevens\|米切尔·史蒂文斯]]等（Mitchell Stevens et al.） | 阐明大学超越文凭生产场所，构成具有密集再社会化功能的文化熔炉，为[[Habitus Transformation\|习性转换]]提供制度性培育温床（第四章）。 |
-> | **持久可转换的[[Habitus\|习性]]** | [[Pierre Bourdieu\|皮埃尔·布迪厄（Pierre Bourdieu）]] | 揭示习性作为可转换倾向系统，在面对异质[[Champ\|场域]]规则时既维持历史连贯性，亦具备生成新实践图式的潜能（第四章）。 |
-> | **[[Culture as Toolkit\|文化工具箱]]重组** | [[Ann Swidler\|安·斯威德勒（Ann Swidler）]] | 阐明学生在面临出路危机与不稳定状态时，如何有意识地引入新意识形态与行动策略以武装自我（第四章）。 |
-> | **弱势学生的独立应对倾向** | 埃普丽尔·伊（April Yee） | 指出弱势背景学子在面临学业与生活挑战时更倾向于独立承受而非主动求助，限制了社会资本积累（第四章）。 |
+> | 理论工具 | 解释功能 |
+> |---|---|
+> | **[[Academic Engagement\|学业投入]]与[[Social Engagement\|社会性投入]]**<br>[[George Kuh\|乔治·库（George Kuh）]]、[[Vincent Tinto\|文森特·汀托（Vincent Tinto）]] | 界定大学生促进自身发展的两大核心行动维度，为剖析阶层化时间精力分配提供基础分析支柱（第四章）。 |
+> | **[[Student Involvement\|学生涉入理论]]**<br>[[Alexander Astin\|亚历山大·阿斯汀（Alexander Astin）]] | 强调学生向教育实践活动投入的物理时间与心理能量直接决定其成长发展成果（第四章）。 |
+> | **[[Employability\|相对就业力]]与[[Credential Inflation\|文凭通胀]]**<br>[[Phillip Brown\|菲利普·布朗（Phillip Brown）]] | 揭示知识经济时代劳动力市场筛选从文凭硬指标向经历管理、性格特质与演绎呈现软实力的结构性转移（第四章）。 |
+> | **高等教育作为育婴室（Incubator）**<br>[[Mitchell Stevens\|米切尔·史蒂文斯]]等（Mitchell Stevens et al.） | 阐明大学超越文凭生产场所，构成具有密集再社会化功能的文化熔炉，为[[Habitus Transformation\|习性转换]]提供制度性培育温床（第四章）。 |
+> | **持久可转换的[[Habitus\|习性]]**<br>[[Pierre Bourdieu\|皮埃尔·布迪厄（Pierre Bourdieu）]] | 揭示习性作为可转换倾向系统，在面对异质[[Champ\|场域]]规则时既维持历史连贯性，亦具备生成新实践图式的潜能（第四章）。 |
+> | **[[Culture as Toolkit\|文化工具箱]]重组**<br>[[Ann Swidler\|安·斯威德勒（Ann Swidler）]] | 阐明学生在面临出路危机与不稳定状态时，如何有意识地引入新意识形态与行动策略以武装自我（第四章）。 |
+> | **[[Unwritten Rules of Engagement\|未明说的参与规则]]与弱势应对倾向**<br>埃普丽尔·伊（April Yee） | 指出弱势背景学子在面临学业与生活挑战时更倾向于独立承受而非主动求助，限制了社会资本积累（第四章）。 |
 
 ---
 
