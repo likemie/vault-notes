@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian_Ch01"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian_Ch01"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book-chapter"
-argument_related_count: 30
+argument_related_count: 34
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -60,6 +60,10 @@ related_methods:
   - "[[Semi-structured Interview]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
+  - "[[Ann Swidler]]"
+  - "[[Randall Collins]]"
+  - "[[Phillip Brown]]"
+  - "[[Andrew G. Walder]]"
 related_facts:
   - "[[China College Graduate Employment Reform]]"
   - "[[Gaokao]]"
@@ -86,13 +90,13 @@ updated: 2026-11-17
 ---
 
 > [!framework-table] 理论工具箱
-> | 理论工具 | 解释功能 |
-> |---|---|
-> | **场域与游戏规则**<br>[[Pierre Bourdieu\|布迪厄]] | 将精英大学界定为存在明晰准入界限、评价机制与资本竞争的场域，特权群体在形式平等的学术与课余规则中享有隐蔽的文化优势（pp. 67–68）。 |
-> | **文化作为工具箱**<br>[[Culture as Toolkit\|Ann Swidler]] | 将文化理解为提供行动策略、日常习惯与技能库的符号资源，用于阐释不同家庭阶层在组织大学生活与应对出路竞争时所调用的图式差异（pp. 62–64）。 |
-> | **文凭通货膨胀**<br>[[Credential Inflation\|Randall Collins]] | 解释高校扩招导致文凭总量过剩后，大学文凭在劳动力市场中的交换价值发生萎缩，进而驱动更高学历追求与激烈再竞争的宏观机制（p. 75）。 |
-> | **履历经济学**<br>[[Economy of Experience\|Phillip Brown]] | 阐明当文凭无法甄别[[Employability\|就业能力]]时，雇主依赖个性、软技能、实习与[[Extracurricular Activities\|课外活动]]等相对优势，迫使学生将大学生活组织为持续的履历资本投资（p. 77）。 |
-> | **二元精英职业路径**<br>[[Dual Elite Career Paths\|Andrew G. Walder]] | 刻画后社会主义社会中政治管理精英与专业技术精英两条分立的流动路径，为一流大学毕业生的体制内选调与市场化职业选择提供结构参照（pp. 88–90）。 |
+> | 理论工具 | 代表学者 | 解释功能 |
+> |---|---|---|
+> | **[[Champ\|场域理论]]** | [[Pierre Bourdieu\|皮埃尔·布迪厄（Pierre Bourdieu）]] | 将精英大学界定为存在明晰准入界限、评价机制与资本竞争的场域，特权群体在形式平等的学术与课余规则中享有隐蔽的文化优势（pp. 67–68）。 |
+> | **[[Culture as Toolkit\|文化作为工具箱]]** | [[Ann Swidler\|安·斯威德勒（Ann Swidler）]] | 将文化理解为提供行动策略、日常习惯与技能库的符号资源，用于阐释不同家庭阶层在组织大学生活与应对出路竞争时所调用的图式差异（pp. 62–64）。 |
+> | **[[Credential Inflation\|文凭通货膨胀]]** | [[Randall Collins\|兰德尔·柯林斯（Randall Collins）]] | 解释高校扩招导致文凭总量过剩后，大学文凭在劳动力市场中的交换价值发生萎缩，进而驱动更高学历追求与激烈再竞争的宏观机制（p. 75）。 |
+> | **[[Economy of Experience\|履历经济学]]** | [[Phillip Brown\|菲利普·布朗（Phillip Brown）]] | 阐明当文凭无法甄别[[Employability\|就业能力]]时，雇主依赖个性、软技能、实习与[[Extracurricular Activities\|课外活动]]等相对优势，迫使学生将大学生活组织为持续的履历资本投资（p. 77）。 |
+> | **[[Dual Elite Career Paths\|二元精英职业路径]]** | [[Andrew G. Walder\|魏昂德（Andrew G. Walder）]] | 刻画后社会主义社会中政治管理精英与专业技术精英两条分立的流动路径，为一流大学毕业生的体制内选调与市场化职业选择提供结构参照（pp. 88–90）。 |
 
 ---
 
@@ -225,7 +229,7 @@ updated: 2026-11-17
 > [!sub-claim] 2. 体制内选拔看重党员干部身份，企业招聘看重专业实习经历
 
 > [!theory-proposition] 二元精英职业路径的身份门槛与资本分立
-> 中国城市劳动力市场长期存在体制内国有部门与市场化非国有部门的分立格局。依据 Andrew G. Walder 的理论，后社会主义社会形成了政治管理精英与专业技术精英的二元精英职业路径：前者以政治忠诚与党员身份为关键门槛，对应国家机关选调生与国企行政管理岗位，看重学生骨干经历；后者以专业文凭与技术人力资本为支撑，对应外资企业、高科技民企与学术研发机构，看重核心实习与专业业务能力。重点大学学生站在两条路径的交汇点，必须提前做出明确取舍并针对性累积筹码（pp. 88–91）。
+> 中国城市劳动力市场长期存在体制内国有部门与市场化非国有部门的分立格局。依据 [[Andrew G. Walder|魏昂德（Andrew G. Walder）]] 的理论，后社会主义社会形成了政治管理精英与专业技术精英的[[Dual Elite Career Paths|二元精英职业路径]]：前者以政治忠诚与党员身份为关键门槛，对应国家机关选调生与国企行政管理岗位，看重学生骨干经历；后者以专业文凭与技术人力资本为支撑，对应外资企业、高科技民企与学术研发机构，看重核心实习与专业业务能力。重点大学学生站在两条路径的交汇点，必须提前做出明确取舍并针对性累积筹码（pp. 88–91）。
 
 > [!contrast-table] 城市二元劳动力市场与精英职业路径特征对比表
 > | 制度维度 | 国有部门（政治管理路径） | 非国有经济部门（专业技术路径） |

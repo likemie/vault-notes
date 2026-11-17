@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
     },
     {
+      "basename": "In-depth Interview",
+      "path": "wiki/methods/qualitative/In-depth Interview.md"
+    },
+    {
       "basename": "China College Graduate Employment Reform",
       "path": "wiki/facts/china/China College Graduate Employment Reform.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Hagevold_Forsstrom_Keles_2026_ERR",
       "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
-    },
-    {
-      "basename": "Argument_Hammermeister_2002_Cambridge",
-      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge.md"
     }
   ],
   "omittedPaths": [],

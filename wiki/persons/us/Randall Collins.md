@@ -11,7 +11,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 5
+person_related_count: 6
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -27,8 +27,7 @@ related_concepts:
   - "[[Credential Inflation]]"
   - "[[Cultural Capital]]"
   - "[[Economy of Experience]]"
-related_theories:
-  - "[[Culture as Toolkit]]"
+related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
@@ -53,7 +52,7 @@ updated: 2026-11-17
 ---
 
 > [!claim] 核心思想
-> 柯林斯指出，现代学校教育的核心社会功能并非传授实际工作技能，而是生产具有合法性声望的文化通货；雇主依赖学位文凭作为劳动力市场准入的筛选机制与职业封闭门槛，促使全社会卷入对高阶学历的过度追逐，导致文凭贬值与过度教育并存的文凭通胀危机。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(Collins, 1979；郑雅君, 2023, p. 75)]]
+> 柯林斯指出，现代学校教育的核心社会功能在于生产具有合法性声望的文化通货，其与实际工作技能的传授存在脱节；雇主依赖学位文凭作为劳动力市场准入的筛选机制与职业封闭门槛，促使全社会卷入对高阶学历的过度追逐，导致文凭贬值与过度教育并存的文凭通胀危机。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(Collins, 1979；郑雅君, 2023, p. 75)]]
 
 > [!citation-card] 文凭通胀与职业封闭机制
 > 我们生活在一个文凭社会中，工作岗位对学历的要求越来越高，但这种要求往往超出了实际工作技能所需，文凭成为特定利益群体维系职业封闭与垄断声望的货币工具。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(Collins, 1979；郑雅君, 2023, p. 75)]]
@@ -64,7 +63,7 @@ updated: 2026-11-17
 
 > [!influence-path] 影响路径
 > - **理论路径** 柯林斯的文凭通胀理论打破了技术功能主义的垄断地位，开创了从冲突论与新韦伯主义视角审视教育分层的新传统，对后续布朗（Phillip Brown）的履历经济学以及当代教育社会学产生深远影响。
-> - **经验应用** 郑雅君（2023）在《金榜题名之后》第一章中将柯林斯文凭通胀理论引入中国高等教育大扩招分析，解释中国名校本科生在文凭交换价值缩水背景下向更高文凭与履历资本转移的行动逻辑。
+> - **经验应用** [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]在《金榜题名之后》第一章中将柯林斯文凭通胀理论引入中国高等教育大扩招分析，解释中国名校本科生在文凭交换价值缩水背景下向更高文凭与履历资本转移的行动逻辑。
 
 ---
 
