@@ -23471,7 +23471,8 @@
     "Stevens (1995a)": "Stevens, 1995a",
     "Stevens (1995b)": "Stevens, 1995b",
     "Stevens (2003)": "Stevens, 2003",
-    "Stevens (2008)": "Stevens, 2008",
+    "Stevens (2008a)": "Stevens, 2008a",
+    "Stevens (2008b)": "Stevens, 2008b",
     "Stevens (2019)": "Stevens, 2019",
     "Stevens (2020)": "Stevens, 2020",
     "Stevens et al. (1987)": "Stevens et al., 1987",
@@ -23495,8 +23496,9 @@
     "Stevens, 1995a": "Stevens, 1995a",
     "Stevens, 1995b": "Stevens, 1995b",
     "Stevens, 2003": "Stevens, 2003",
-    "Stevens, 2008": "Stevens, 2008",
-    "Stevens, 2008a": "Stevens, 2008",
+    "Stevens, 2008": "Stevens, 2008a",
+    "Stevens, 2008a": "Stevens, 2008b",
+    "Stevens, 2008b": "Stevens, 2008b",
     "Stevens, 2019": "Stevens, 2019",
     "Stevens, 2020": "Stevens, 2020",
     "Stevenson & Stigler (1992)": "Stevenson & Stigler, 1992",
@@ -151282,7 +151284,7 @@
         "Mitchell L. Stevens, 2008",
         "Mitchell L. Stevens (2008)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1177/0002716208320141",
       "identity_keys": [
         "Mitchell L. Stevens, 2008"
       ],
@@ -151290,7 +151292,7 @@
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
       ],
-      "title": ""
+      "title": "Culture and Education"
     },
     "Mitchell, 1987a": {
       "aliases": [
@@ -199216,7 +199218,7 @@
         "Stevens et al., 2008",
         "Stevens et al. (2008)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1146/annurev.soc.34.040507.134727",
       "identity_keys": [
         "Stevens et al., 2008"
       ],
@@ -199225,7 +199227,7 @@
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/concepts/sociology-of-education/Habitus.md"
       ],
-      "title": ""
+      "title": "Sieve, Incubator, Temple, Hub: Empirical and Theoretical Advances in the Sociology of Higher Education"
     },
     "Stevens et al., 2018": {
       "aliases": [
@@ -199373,10 +199375,25 @@
       "seen_in": [],
       "title": "Student Team Reading and Writing: A Cooperative Learning Approach to Middle School Literacy Instruction"
     },
-    "Stevens, 2008": {
+    "Stevens, 2008a": {
       "aliases": [
-        "Stevens, 2008",
-        "Stevens (2008)"
+        "Stevens, 2008a",
+        "Stevens (2008a)"
+      ],
+      "doi": "https://doi.org/10.1177/0002716208320141",
+      "identity_keys": [
+        "Stevens, 2008"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
+      ],
+      "title": "Culture and Education"
+    },
+    "Stevens, 2008b": {
+      "aliases": [
+        "Stevens, 2008b",
+        "Stevens (2008b)"
       ],
       "doi": "https://doi.org/10.1080/10824660802427611",
       "identity_keys": [

@@ -225,7 +225,7 @@ Total entries: **444**
 > [!index-list]- Zheng_2023_ShanghaiSanlian (3)
 > - [[Argument_Zheng_2023_ShanghaiSanlian]] — 通过跟踪访谈两所大学的 62 名毕业班学生，考察家庭背景、在校投入和工作价值信念如何影响毕业去向。
 > - [[Argument_Zheng_2023_ShanghaiSanlian_Ch01]] — 基于高等教育大众化与体制转轨背景，剖析一流大学内部立德树人与外部市场化就业的脱节机制，指出文凭通胀迫使选拔转向履历经济学，使海外深造、国内升学与协议求职演变为受家庭文化资本制约的迷宫筹码竞争。
-> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch02]] — 系统建构由资本化过程、投入过程和价值选择过程三层嵌套的大学过程分析框架，并阐明以两所精英大学 62 名毕业班学生纵向跟踪为核心的质性个案研究设计。
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch02]] — 系统建构由资本化、在校投入与价值选择三层嵌套的大学过程分析框架，并阐明以南北两所顶尖大学 62 名毕业班学生纵向跟踪为核心的建构主义扎根理论研究设计。
 
 ## Journal Articles
 

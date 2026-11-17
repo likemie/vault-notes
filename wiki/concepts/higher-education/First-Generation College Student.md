@@ -9,7 +9,7 @@ aliases:
 summary: "指父母双方均未接受过高等教育的大学生群体，在高等教育社会分层中常面临家庭文化资本匮乏与多维劣势交叠。"
 type: concept
 domain: "higher-education"
-related_count: 1
+related_count: 2
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,7 +18,8 @@ tags:
   - social-stratification
   - cultural-capital
   - equity-inclusion
-related_concepts: []
+related_concepts:
+  - "[[Xiaozhen Zuotijia]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -48,6 +49,7 @@ updated: 2026-11-17
 > [!boundary]- 概念边界
 > - 不等于 低收入家庭学生（Low-Income Students） — 某些第一代大学生的家庭可能通过商业或创业积累了较好经济基础，但在大学学术规范、隐性晋升规则及深造规划上仍缺乏经验指导。
 > - 不等于 农村籍大学生（Rural Students） — 第一代大学生涵盖城市普通工薪家庭及流动人口子女，农村背景只是其多维弱势的重要组成部分之一。
+> - 不等于 [[Xiaozhen Zuotijia|小镇做题家]] — 第一代大学生涵盖城市普通工薪家庭，小镇做题家特指受制于县域熟人社会与高压应试模式、缺乏一线都市资源视野的特定群体。
 
 ---
 

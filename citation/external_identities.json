@@ -74268,12 +74268,12 @@
       "title": ""
     },
     "Mitchell L. Stevens, 2008": {
-      "doi": "",
+      "doi": "https://doi.org/10.1177/0002716208320141",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
       ],
-      "title": ""
+      "title": "Culture and Education"
     },
     "Mitchell, 1987": {
       "datasets": [
@@ -103059,13 +103059,13 @@
       "title": "The effects of cooperative learning and direct instruction in reading comprehension strategies on main idea identification"
     },
     "Stevens et al., 2008": {
-      "doi": "",
+      "doi": "https://doi.org/10.1146/annurev.soc.34.040507.134727",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/concepts/sociology-of-education/Habitus.md"
       ],
-      "title": ""
+      "title": "Sieve, Incubator, Temple, Hub: Empirical and Theoretical Advances in the Sociology of Higher Education"
     },
     "Stevens et al., 2018": {
       "datasets": [
@@ -103166,6 +103166,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Student Team Reading and Writing: A Cooperative Learning Approach to Middle School Literacy Instruction"
+    },
+    "Stevens, 2008": {
+      "doi": "https://doi.org/10.1177/0002716208320141",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
+      ],
+      "title": "Culture and Education"
     },
     "Stevens, 2008a": {
       "datasets": [

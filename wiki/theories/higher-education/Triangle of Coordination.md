@@ -10,7 +10,7 @@ aliases:
 summary: "伯顿·R·克拉克提出阐释现代高等教育系统宏观组织与治理权力的经典分析框架，指出高等教育运作受制于学术权威、国家权力与市场力量三方维度的动态拉扯与协同均衡。"
 type: theory
 theory_field: "higher-education"
-theory_related_count: 2
+theory_related_count: 3
 theory_related_level: 0
 theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
@@ -24,6 +24,7 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Burton R. Clark]]"
   - "[[Yajun Zheng]]"
 related_facts: []
 related_arguments:
@@ -48,7 +49,7 @@ updated: 2026-11-17
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 美国当代著名高等教育学者伯顿·R·克拉克（Burton R. Clark）于 1983/1986 年出版代表作《高等教育系统：学术组织的跨国研究》（*The Higher Education System: Academic Organization in Cross-National Perspective*）。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(Clark, 1986)]]
+> - **提出者与原始文本** 美国当代著名高等教育学者[[Burton R. Clark|伯顿·R·克拉克]]（Burton R. Clark）于 1983/1986 年出版代表作《高等教育系统：学术组织的跨国研究》（*The Higher Education System: Academic Organization in Cross-National Perspective*）。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(Clark, 1986)]]
 > - **原初问题** 各国高等教育在走向大众化过程中，为何在管理体制、学术自主权与毕业生去向机制上展现出截然不同的制度面貌与组织危机。
 > - **理论资源与材料** 克拉克系统比较了法国（强国家行政集权）、英国（学者自治与学术寡头主导）、美国（多元分散与市场竞争驱动）等主要国家的高等教育演变史。
 > - **形成路径** 将宏观社会学中的权力概念分解为学术权威、国家权力与市场力量三个坐标极，建构等边三角坐标系，用以定位不同国家乃至单一高校内部微观组织治理的重心偏向。

@@ -20790,6 +20790,18 @@
     ]
   },
   {
+    "title": "Xiaozhen Zuotijia",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Xiaozhen Zuotijia.md",
+    "aliases": [
+      "小镇做题家",
+      "小镇做题家群体",
+      "Exam Achievers from Small Towns",
+      "Small-Town Test Takers",
+      "Small-Town Exam Achievers"
+    ]
+  },
+  {
     "title": "Zero-Sum Competition",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Zero-Sum Competition.md",
@@ -32149,6 +32161,15 @@
     ]
   },
   {
+    "title": "Jean-Paul Sartre",
+    "type": "person",
+    "path": "wiki/persons/france/Jean-Paul Sartre.md",
+    "aliases": [
+      "让-保罗·萨特",
+      "萨特"
+    ]
+  },
+  {
     "title": "Jules Michelet",
     "type": "person",
     "path": "wiki/persons/france/Jules Michelet.md",
@@ -32272,6 +32293,15 @@
       "沙维尔·庞斯",
       "庞斯",
       "Pons, X."
+    ]
+  },
+  {
+    "title": "Albrecht Wellmer",
+    "type": "person",
+    "path": "wiki/persons/germany/Albrecht Wellmer.md",
+    "aliases": [
+      "阿尔布雷希特·韦尔默",
+      "韦尔默"
     ]
   },
   {
@@ -35698,6 +35728,18 @@
     ]
   },
   {
+    "title": "Anthony Abraham Jack",
+    "type": "person",
+    "path": "wiki/persons/us/Anthony Abraham Jack.md",
+    "aliases": [
+      "安东尼·亚伯拉罕·杰克",
+      "安东尼·杰克",
+      "Anthony Jack",
+      "Jack, A. A.",
+      "A. A. Jack"
+    ]
+  },
+  {
     "title": "Anthony Bryk",
     "type": "person",
     "path": "wiki/persons/us/Anthony Bryk.md",
@@ -35802,6 +35844,18 @@
       "乌齐",
       "B. Uzzi",
       "Uzzi, B."
+    ]
+  },
+  {
+    "title": "Burton R. Clark",
+    "type": "person",
+    "path": "wiki/persons/us/Burton R. Clark.md",
+    "aliases": [
+      "伯顿·克拉克",
+      "伯顿·R·克拉克",
+      "Burton Clark",
+      "Clark, B. R.",
+      "B. R. Clark"
     ]
   },
   {
@@ -42112,6 +42166,17 @@
     "subtype": "program"
   },
   {
+    "title": "Aesthetic Theory",
+    "type": "fact",
+    "path": "wiki/facts/germany/Aesthetic Theory.md",
+    "aliases": [
+      "美学理论",
+      "Ästhetische Theorie",
+      "审美理论"
+    ],
+    "subtype": "event"
+  },
+  {
     "title": "Dialectic of Enlightenment",
     "type": "fact",
     "path": "wiki/facts/germany/Dialectic of Enlightenment.md",
@@ -42259,6 +42324,18 @@
       "System des transzendentalen Idealismus",
       "先验唯心论体系",
       "The System of Transcendental Idealism"
+    ],
+    "subtype": "event"
+  },
+  {
+    "title": "The Work of Art in the Age of Its Technological Reproducibility",
+    "type": "fact",
+    "path": "wiki/facts/germany/The Work of Art in the Age of Its Technological Reproducibility.md",
+    "aliases": [
+      "机械复制时代的艺术作品",
+      "Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit",
+      "The Work of Art in the Age of Mechanical Reproduction",
+      "机械复制时代的艺术品"
     ],
     "subtype": "event"
   },

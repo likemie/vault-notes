@@ -10,9 +10,9 @@ title: "Argument_Zheng_2023_ShanghaiSanlian_Ch01"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian_Ch01"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book-chapter"
-argument_related_count: 38
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 41
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
 book_title: "金榜题名之后：大学生出路分化之谜"
 publisher: "上海三联书店"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Study Abroad]]"
   - "[[Early-Career Researchers]]"
+  - "[[Xiaozhen Zuotijia]]"
   - "[[The Sublime]]"
   - "[[Academic Achievement]]"
   - "[[Academic Engagement]]"
@@ -67,6 +68,8 @@ related_persons:
   - "[[Phillip Brown]]"
   - "[[Andrew G. Walder]]"
   - "[[Yajun Zheng]]"
+  - "[[Burton R. Clark]]"
+  - "[[Anthony Abraham Jack]]"
 related_facts:
   - "[[China College Graduate Employment Reform]]"
   - "[[Gaokao]]"
@@ -187,7 +190,7 @@ updated: 2026-11-17
 >   课余时间的战略规划、探索试错的经济兜底、高端实习的信息渠道以及人际交往能力的养成，高度依赖优势家庭所能调动的经济资本与[[Cultural Capital|文化资本]]（pp. 76–78）。
 
 > [!case] 寒门学子从县城高中到一线都市名校的心理落差
-> 樊小书 (2016) 在网络文章《我上了985,211，才发现自己一无所有》中记录的经历反映了这一困境：一个出身于偏远县城的学子，通过极其刻苦的[[Gaokao|高考]]刷题考取上海重点大学；但在面对一线城市昂贵的生活成本与严苛的职场筛选时，发现耗尽家庭全部积蓄仍难以立足。这种仅凭考上名校难以保证体面生活的切身感慨迅速引发广泛共鸣，反映出小镇做题家群体在将学历文凭转换为职业优势时所面临的现实阻碍（pp. 25–26）。
+> 樊小书 (2016) 在网络文章《我上了985,211，才发现自己一无所有》中记录的经历反映了这一困境：一个出身于偏远县城的学子，通过极其刻苦的[[Gaokao|高考]]刷题考取上海重点大学；但在面对一线城市昂贵的生活成本与严苛的职场筛选时，发现耗尽家庭全部积蓄仍难以立足。这种仅凭考上名校难以保证体面生活的切身感慨迅速引发广泛共鸣，反映出[[Xiaozhen Zuotijia|小镇做题家]]群体在将学历文凭转换为职业优势时所面临的现实阻碍（pp. 25–26）。
 
 ---
 
@@ -200,7 +203,7 @@ updated: 2026-11-17
 > - **大学育人使命（学术与政治维度）** 中国重点大学在管理体制上坚持党的领导与校长负责制，传承追求[[The Sublime|崇高]]理想与探索高深学问的大学理念，践行蔡元培关于读书非徒志在做官发财的办学主张，注重培养学生的思想政治素养、公共奉献精神与学术德性。
 > - **职场雇主筛选（市场力量维度）** 在毕业求职端，高校将学生直接推向市场化竞争洪流，用人单位完全依据[[Human Capital Theory|人力资本]]效率、即战力与功利逻辑予以筛选，忽视甚至排斥与岗位绩效无关的纯粹德性追求（pp. 81–82）。
 >
-> **制度脱节后果** 依据 Burton R. Clark 的[[Triangle of Coordination|高等教育三角协调模型]]，大学受制于学术权威、政府权力与市场力量的拉扯；校内评选的优秀好学生在外部职场筛选中并不必然吃香，导致学生在缺乏统一标准的校园中无所适从（pp. 80–82）。
+> **制度脱节后果** 依据[[Burton R. Clark|伯顿·R·克拉克]]（Burton R. Clark）的[[Triangle of Coordination|高等教育三角协调模型]]，大学受制于学术权威、政府权力与市场力量的拉扯；校内评选的优秀好学生在外部职场筛选中并不必然吃香，导致学生在缺乏统一标准的校园中无所适从（pp. 80–82）。
 
 > [!sub-claim] 2. 丰富的课外活动掩盖了求职门槛，学生容易误以为考上大学即可解放
 
@@ -210,7 +213,7 @@ updated: 2026-11-17
 > - **毕业出口筹码锁定的前期隐蔽性** 宽泛的探索空间掩盖了毕业出口严苛的前期积累门槛，学生难以及早觉察各项出路对特定筹码的时间[[Path Dependence|锁定效应]]，错失战略准备期（pp. 83–85）。
 
 > [!case] 专项计划农家子弟的在校适应与发展鸿沟
-> 2008 年以来国家实施的[[Targeted Admissions Scheme|重点高校招收农村和贫困地区学生专项计划]]，显著提高了弱势背景学生进入名校的绝对数量（崔盛和吴秋翔, 2018）。然而，长期的追踪调查显示，专项计划录取的农家子弟在入学后的[[Academic Achievement|学业表现]]、国际化经历参与以及毕业生涯定向方面，仍与普通批次录取的城市同辈保持着持续差距（牛新春和郑雅君, 2018；王小虎等, 2017）。正如 Anthony A. Jack (2019) 在《寒门子弟上大学》中的论述，进入名校并不代表真正融入大学生活；在缺乏文化技能与制度引导的校园环境中，身处同一座象牙塔并不意味着能自动享有平等的向上流动机会（pp. 26–27）。
+> 2008 年以来国家实施的[[Targeted Admissions Scheme|重点高校招收农村和贫困地区学生专项计划]]，显著提高了弱势背景学生进入名校的绝对数量（崔盛和吴秋翔, 2018）。然而，长期的追踪调查显示，专项计划录取的农家子弟在入学后的[[Academic Achievement|学业表现]]、国际化经历参与以及毕业生涯定向方面，仍与普通批次录取的城市同辈保持着持续差距（牛新春和郑雅君, 2018；王小虎等, 2017）。正如[[Anthony Abraham Jack|安东尼·亚伯拉罕·杰克]]（Anthony A. Jack, 2019）在《寒门子弟上大学》中的论述，进入名校并不代表真正融入大学生活；在缺乏文化技能与制度引导的校园环境中，身处同一座象牙塔并不意味着能自动享有平等的向上流动机会（pp. 26–27）。
 
 ---
 
