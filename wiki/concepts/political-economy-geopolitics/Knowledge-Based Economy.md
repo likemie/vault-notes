@@ -341,7 +341,7 @@ updated: 2026-11-18
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 考察新加坡教育现代化在响应全球知识经济冲击下的制度演化，追溯 1997 年“思考型学校，学习型国家”（TSLN）与 ICT Masterplan 如何推动教育从效率驱动转向能力驱动，揭示发展型国家在知识经济诉求与传统高利害分流问责之间构建的混合调和机制。
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 追溯新加坡“思考型学校，学习型国家”如何推动教育向能力驱动转型，揭示发展型国家在知识经济诉求与高利害分流问责之间构建的混合调和机制。
 > - [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|郑雅君 (2023, 第四章)]] — 揭示知识经济与文凭通胀下劳动力市场筛选从文凭硬指标向经历管理与软实力呈现的结构性转移。
 > - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 考察中国[[Internationalization of Higher Education|高等教育国际化]]政策与长三角、粤港澳、海南三大教育枢纽，阐述跨境高等教育如何嵌入区域创新体系并推动知识经济转型。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — [[OECD]] 国际报告，系统论证知识经济与技术自动化背景下，高等教育如何通过五大政策支柱重构[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]的评价生态。
