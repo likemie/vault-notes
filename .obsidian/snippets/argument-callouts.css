@@ -29465,3 +29465,169 @@ body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="
 body .callout.callout.callout .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) table:has(th:nth-child(7):last-child) :is(th, td):not(:first-child) {
   width: 10% !important;
 }
+
+/* ═══════════════════════════════════════════════════════════
+   QUESTIONNAIRE / SURVEY-PROTOCOL — 调查问卷与测量工具全卷协议
+   专用于复刻量化/质性实证研究中的调查问卷、量表原卷及测量工具
+   内置问卷元数据表头、伦理与填答须知、分模块标题、下划线填空槽及量表平滑嵌套
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="questionnaire"],
+.callout[data-callout="survey-protocol"],
+.callout[data-callout="questionnaire-form"],
+.callout[data-callout="survey-form"] {
+  --callout-color: 62, 115, 140;
+  --callout-icon: lucide-clipboard-list;
+  position: relative;
+  border: 1px solid rgba(var(--callout-color), 0.22);
+  border-left: 5px solid rgb(var(--callout-color));
+  border-radius: 10px;
+  background:
+    linear-gradient(135deg, rgba(var(--callout-color), 0.08), transparent 48%),
+    var(--background-primary);
+  box-shadow: 0 8px 24px rgba(var(--callout-color), 0.08);
+  margin: 1.25rem 0;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]):hover {
+  border-color: rgba(var(--callout-color), 0.38);
+  box-shadow: 0 12px 30px rgba(var(--callout-color), 0.12);
+}
+
+.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) > .callout-title {
+  color: rgb(var(--callout-color));
+  font-weight: 750;
+  letter-spacing: 0.02em;
+}
+
+.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) > .callout-title .callout-title-inner::before {
+  content: "QUESTIONNAIRE";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 7px;
+  border: 1px solid rgba(var(--callout-color), 0.24);
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.12);
+  color: rgb(var(--callout-color));
+  font-size: var(--fs-label);
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+/* 问卷表头元数据登记表（如：问卷名称、调查对象、个案编号、填写日期等） */
+.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) > .callout-content > table:first-child {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0.4rem 0 0.85rem 0 !important;
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  border: 1px solid rgba(var(--callout-color), 0.22) !important;
+  border-radius: 7px !important;
+  overflow: hidden !important;
+  background: rgba(var(--callout-color), 0.03) !important;
+}
+
+.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) > .callout-content > table:first-child th {
+  background: rgba(var(--callout-color), 0.12) !important;
+  color: rgb(var(--callout-color)) !important;
+  font-size: 0.86rem !important;
+  font-weight: 720 !important;
+  padding: 0.4rem 0.75rem !important;
+  border-bottom: 1.5px solid rgba(var(--callout-color), 0.2) !important;
+}
+
+.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) > .callout-content > table:first-child td {
+  padding: 0.4rem 0.75rem !important;
+  font-size: 0.88rem !important;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.08) !important;
+  line-height: 1.45 !important;
+}
+
+.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) > .callout-content > table:first-child tr:last-child td {
+  border-bottom: none !important;
+}
+
+/* 填答须知与学术伦理保密声明块引用 */
+.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) blockquote {
+  margin: 0.65rem 0 1rem 0 !important;
+  padding: 0.65rem 0.95rem !important;
+  background: rgba(var(--callout-color), 0.05) !important;
+  border-left: 3.5px solid rgb(var(--callout-color)) !important;
+  border-radius: 4px !important;
+  font-size: 0.88rem !important;
+  line-height: 1.58 !important;
+  color: var(--text-muted) !important;
+}
+
+.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) blockquote strong:first-child {
+  color: rgb(var(--callout-color)) !important;
+  display: block;
+  margin-bottom: 0.2rem;
+}
+
+/* 模块分段标题（#### 模块一 · 个人基本信息 等） */
+.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) :is(h4, h5) {
+  font-size: 0.96rem !important;
+  font-weight: 750 !important;
+  color: rgb(var(--callout-color)) !important;
+  margin: 1.35rem 0 0.65rem 0 !important;
+  padding: 0.32rem 0.75rem !important;
+  background: rgba(var(--callout-color), 0.08) !important;
+  border-left: 3.5px solid rgb(var(--callout-color)) !important;
+  border-radius: 4px !important;
+  letter-spacing: 0.02em !important;
+}
+
+/* 模块间分割线 */
+.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) hr {
+  border: none !important;
+  border-top: 1px dashed rgba(var(--callout-color), 0.24) !important;
+  margin: 1.25rem 0 !important;
+}
+
+/* 问卷题目与题干结构 */
+.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) ul {
+  padding-left: 1.2rem !important;
+  margin: 0.4rem 0 0.8rem 0 !important;
+}
+
+.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) li {
+  margin-bottom: 0.45rem !important;
+  line-height: 1.62 !important;
+  color: var(--text-normal) !important;
+}
+
+.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) li > strong:first-child {
+  color: var(--text-normal) !important;
+  font-weight: 720 !important;
+}
+
+/* 问卷下划线填空槽美化：将带下划线的行内代码转换为高仿真填空下划线 */
+.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) code {
+  background: transparent !important;
+  color: var(--text-normal) !important;
+  font-family: inherit !important;
+  font-weight: 550 !important;
+  letter-spacing: -0.04em !important;
+  padding: 0 0.2rem !important;
+  border: none !important;
+  border-bottom: 1.5px solid rgba(var(--callout-color), 0.48) !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+
+/* 嵌套 callout（如 rating-scale, likert-matrix）边距平滑消解 */
+.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) .callout {
+  margin: 0.85rem 0 !important;
+}
+
+.theme-dark .callout[data-callout="questionnaire"],
+.theme-dark .callout[data-callout="survey-protocol"],
+.theme-dark .callout[data-callout="questionnaire-form"],
+.theme-dark .callout[data-callout="survey-form"] {
+  background:
+    linear-gradient(135deg, rgba(var(--callout-color), 0.12), transparent 48%),
+    var(--background-primary);
+}

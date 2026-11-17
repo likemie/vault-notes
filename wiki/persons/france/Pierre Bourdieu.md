@@ -79,6 +79,7 @@ related_persons:
   - "[[Bruno Latour]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Eacott_2015_EPT]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"

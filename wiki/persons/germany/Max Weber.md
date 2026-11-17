@@ -59,6 +59,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch05]]"
   - "[[Argument_Hammermeister_2002_Cambridge_Ch08]]"
@@ -192,7 +193,7 @@ updated: 2026-11-17
 > - **教育研究与文化社会学路径** 为教育社会学中的生涯决策、阶层[[Cultural Capital\|文化资本]]与工作价值图式分析提供核心概念框架（如[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]）。
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 承袭韦伯理解社会学立场，在[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|第二章]]中将韦伯价值观驱动范式与斯威德勒工具箱范式结合（pp. 33, 44–46），并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch05\|第五章]]运用韦伯世界图景的“扳道夫”机制，阐释价值信念驱动力与做事策略能力如何共同引导毕业生出路分化（pp. 273–280）。
+> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 承袭韦伯理解社会学立场（[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|第二章]]、[[Argument_Zheng_2023_ShanghaiSanlian_Ch05\|第五章]]），并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch06\|第六章]]运用目的理性与价值理性二分，阐明弱势学生非功利选择的内在合理性（pp. 358–361）。
 > - [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] — 借助韦伯对权力与权威的经典区分，结合制度同构理论，剖析[[Corporate Education\|企业教育]]如何通过外部学术权威获取合法性。
 > - [[Argument_Hammermeister_2002_Cambridge_Ch08\|Hammermeister (2002, Ch. 8)]] — 述[[Georg Lukács\|卢卡奇]]在 1912 年追随韦伯批判现代祛魅社会仅造就专家与[[Aestheticism|唯美主义]]者（p. 161）。
 
