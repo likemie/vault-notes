@@ -11385,11 +11385,9 @@
     "Howard, 2014": "Howard, 2014",
     "Howe & Moses (1999)": "Howe & Moses, 1999",
     "Howe & Moses, 1999": "Howe & Moses, 1999",
-    "Howell (1992)": "Howell, 1992",
     "Howell (2013)": "Howell, 2013",
     "Howell Major & Savin-Baden (2010)": "Howell Major & Savin-Baden, 2010",
     "Howell Major & Savin-Baden, 2010": "Howell Major & Savin-Baden, 2010",
-    "Howell, 1992": "Howell, 1992",
     "Howell, 2013": "Howell, 2013",
     "Howitt & Cramer (2005)": "Howitt & Cramer, 2005",
     "Howitt & Cramer, 2005": "Howitt & Cramer, 2005",
@@ -13977,8 +13975,6 @@
     "Kunz & Kunz, 1995": "Kunz & Kunz, 1995",
     "Kupiainen et al. (2014)": "Kupiainen et al., 2014",
     "Kupiainen et al., 2014": "Kupiainen et al., 2014",
-    "Kuran (1991)": "Kuran, 1991",
-    "Kuran, 1991": "Kuran, 1991",
     "Kurecka (2000)": "Kurecka, 2000",
     "Kurecka, 2000": "Kurecka, 2000",
     "Kurlantzick (2007)": "Kurlantzick, 2007",
@@ -22182,9 +22178,9 @@
     "Sellar & Lingard (2013b)": "Sellar & Lingard, 2013b",
     "Sellar & Lingard (2014)": "Sellar & Lingard, 2014",
     "Sellar & Lingard (2018)": "Sellar & Lingard, 2018",
-    "Sellar & Lingard, 2013": "Sellar & Lingard, 2013a",
+    "Sellar & Lingard, 2013": "Sellar & Lingard, 2013b",
     "Sellar & Lingard, 2013a": "Sellar & Lingard, 2013a",
-    "Sellar & Lingard, 2013b": "Sellar & Lingard, 2013b",
+    "Sellar & Lingard, 2013b": "Sellar & Lingard, 2013a",
     "Sellar & Lingard, 2014": "Sellar & Lingard, 2014",
     "Sellar & Lingard, 2018": "Sellar & Lingard, 2018",
     "Sellar et al. (2020)": "Sellar et al., 2020",
@@ -31964,13 +31960,13 @@
       "identity_keys": [
         "Alexander, 2000"
       ],
-      "isbn": "",
+      "isbn": "9780631220510",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md",
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/concepts/comparative-education/Comparative Pedagogy.md"
       ],
-      "title": ""
+      "title": "Culture and Pedagogy: International Comparisons in Primary Education"
     },
     "Alexander, 2010": {
       "aliases": [
@@ -40964,7 +40960,7 @@
         "wiki/concepts/comparative-education/Performative Turn.md",
         "wiki/persons/uk/Michael Barber.md"
       ],
-      "title": ""
+      "title": "How the World's Best-Performing School Systems Come Out on Top"
     },
     "Barber et al., 2011": {
       "aliases": [
@@ -43876,8 +43872,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Intersect/Argument_Chan_2015_Intersect.md",
-        "wiki/concepts/political-economy-geopolitics/Opportunists.md"
+        "wiki/arguments/journal-articles/Intersect/Argument_Chan_2015_Intersect.md"
       ],
       "title": ""
     },
@@ -46792,7 +46787,7 @@
         "Biesta, 2009",
         "Biesta (2009)"
       ],
-      "doi": "",
+      "doi": "10.1007/s11092-008-9064-9",
       "identity_keys": [
         "Biesta, 2009"
       ],
@@ -46801,7 +46796,7 @@
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/concepts/comparative-education/High-Performing Education Systems.md"
       ],
-      "title": ""
+      "title": "Good Education in an Age of Measurement: On the Need to Reconnect with the Question of Purpose in Education"
     },
     "Biesta, 2011": {
       "aliases": [
@@ -51964,7 +51959,6 @@
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
         "wiki/concepts/political-economy-geopolitics/Baptist-Bootlegger Coalition.md",
         "wiki/concepts/political-economy-geopolitics/Insurrectionaries.md",
-        "wiki/concepts/political-economy-geopolitics/Opportunists.md",
         "wiki/concepts/political-economy-geopolitics/Subversives.md",
         "wiki/concepts/political-economy-geopolitics/Symbionts.md",
         "wiki/concepts/sociology-of-education/Opportunist Mode.md",
@@ -54497,7 +54491,7 @@
         "Bulle, 2011",
         "Bulle (2011)"
       ],
-      "doi": "",
+      "doi": "10.1080/03050068.2011.555938",
       "identity_keys": [
         "Bulle, 2011"
       ],
@@ -54507,7 +54501,7 @@
         "wiki/concepts/comparative-education/Critique of PISA.md",
         "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md"
       ],
-      "title": ""
+      "title": "Comparing OECD Educational Models through the Prism of PISA"
     },
     "Bulmer, 1982": {
       "aliases": [
@@ -69211,11 +69205,11 @@
       "identity_keys": [
         "Cuban, 1984"
       ],
-      "isbn": "",
+      "isbn": "9780582284982",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
       ],
-      "title": ""
+      "title": "How Teachers Taught: Constancy and Change in American Classrooms 1890–1980"
     },
     "Cuban, 1986": {
       "aliases": [
@@ -70847,11 +70841,11 @@
       "identity_keys": [
         "Darling-Hammond, 2010"
       ],
-      "isbn": "",
+      "isbn": "9780807749623",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
       ],
-      "title": ""
+      "title": "The Flat World and Education: How America's Commitment to Equity Will Determine Our Future"
     },
     "Darling-Hammond, 2012": {
       "aliases": [
@@ -75738,16 +75732,17 @@
         "Dohn, 2007",
         "Dohn (2007)"
       ],
-      "doi": "",
+      "doi": "10.1111/j.1467-9752.2007.00542.x",
       "identity_keys": [
         "Dohn, 2007"
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/concepts/comparative-education/Critique of PISA.md",
         "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md"
       ],
-      "title": ""
+      "title": "Knowledge and Skills for PISA – Assessing the Assessment"
     },
     "Dolan, 1993": {
       "aliases": [
@@ -110179,17 +110174,17 @@
         "Hogan et al., 2013",
         "Hogan et al. (2013)"
       ],
-      "doi": "",
+      "doi": "10.1007/978-981-4451-58-1",
       "identity_keys": [
         "Hogan et al., 2013"
       ],
-      "isbn": "",
+      "isbn": "9789814451574",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/concepts/comparative-education/High-Performing Education Systems.md",
         "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md"
       ],
-      "title": ""
+      "title": "Visible Learning and the Enacted Curriculum in Singapore"
     },
     "Hogan, 1999": {
       "aliases": [
@@ -111778,21 +111773,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17.md"
-      ],
-      "title": ""
-    },
-    "Howell, 1992": {
-      "aliases": [
-        "Howell, 1992",
-        "Howell (1992)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Howell, 1992"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/political-economy-geopolitics/Opportunists.md"
       ],
       "title": ""
     },
@@ -124006,7 +123986,7 @@
         "Kennedy, 2010",
         "Kennedy (2010)"
       ],
-      "doi": "",
+      "doi": "10.3102/0013189X10390804",
       "identity_keys": [
         "Kennedy, 2010"
       ],
@@ -124014,7 +123994,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
       ],
-      "title": ""
+      "title": "Attribution Error and the Quest for Teacher Quality"
     },
     "Kennet & Thyregod, 2006": {
       "aliases": [
@@ -130295,21 +130275,6 @@
         "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md",
         "wiki/concepts/instruction-pedagogy/Inquiry-Based Learning.md",
         "wiki/concepts/instruction-pedagogy/Structured Teaching.md"
-      ],
-      "title": ""
-    },
-    "Kuran, 1991": {
-      "aliases": [
-        "Kuran, 1991",
-        "Kuran (1991)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Kuran, 1991"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/political-economy-geopolitics/Opportunists.md"
       ],
       "title": ""
     },
@@ -137605,7 +137570,7 @@
         "Lingard, 2010",
         "Lingard (2010)"
       ],
-      "doi": "",
+      "doi": "10.1080/17508481003731026",
       "identity_keys": [
         "Lingard, 2010"
       ],
@@ -137614,7 +137579,7 @@
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/concepts/educational-policy-reform/Policy Mobility.md"
       ],
-      "title": ""
+      "title": "Policy Borrowing, Policy Learning: Testing Times in Australian Schooling"
     },
     "Lingard, 2015": {
       "aliases": [
@@ -150403,11 +150368,11 @@
       "identity_keys": [
         "Meyer, 1980"
       ],
-      "isbn": "",
+      "isbn": "9780884101925",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
       ],
-      "title": ""
+      "title": "Levels of the Educational System and Schooling Effects"
     },
     "Meyer, 1989": {
       "aliases": [
@@ -190166,6 +190131,21 @@
       ],
       "doi": "",
       "identity_keys": [
+        "Sellar & Lingard, 2013b"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Mediatised Governance.md"
+      ],
+      "title": ""
+    },
+    "Sellar & Lingard, 2013b": {
+      "aliases": [
+        "Sellar & Lingard, 2013b",
+        "Sellar & Lingard (2013b)"
+      ],
+      "doi": "10.1080/02680939.2013.779778",
+      "identity_keys": [
         "Sellar & Lingard, 2013"
       ],
       "isbn": "",
@@ -190176,22 +190156,7 @@
         "wiki/concepts/political-economy-geopolitics/Media Logic.md",
         "wiki/facts/global/Teaching and Learning International Survey.md"
       ],
-      "title": ""
-    },
-    "Sellar & Lingard, 2013b": {
-      "aliases": [
-        "Sellar & Lingard, 2013b",
-        "Sellar & Lingard (2013b)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Sellar & Lingard, 2013b"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/political-economy-geopolitics/Mediatised Governance.md"
-      ],
-      "title": ""
+      "title": "The OECD and Global Governance in Education"
     },
     "Sellar & Lingard, 2014": {
       "aliases": [
@@ -194454,7 +194419,7 @@
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/concepts/comparative-education/Critique of PISA.md"
       ],
-      "title": ""
+      "title": "PISA and 'Real Life Challenges': Mission Impossible?"
     },
     "Sjøberg, 2015": {
       "aliases": [
@@ -204190,7 +204155,7 @@
         "Tan, 2011",
         "Tan (2011)"
       ],
-      "doi": "",
+      "doi": "10.1080/17508487.2011.536514",
       "identity_keys": [
         "Tan, 2011"
       ],
@@ -204198,7 +204163,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
       ],
-      "title": ""
+      "title": "Education Policy-Borrowing and Cultural Matching: An Analysis of the 'Teach Less, Learn More' Agenda in Singapore"
     },
     "Tan, 2016": {
       "aliases": [

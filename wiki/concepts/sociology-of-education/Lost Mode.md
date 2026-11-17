@@ -171,8 +171,9 @@ updated: 2026-11-17
 > | [[Opportunist Mode]] | 概念 | 机会主义模式，同样缺乏内在自洽信念但具备极高策略能力的对照类型。 |
 > | [[Work Meaning Schemas]] | 概念 | 工作意义文化图式，迷失无从者因图式相互抵消而陷入意义瘫痪。 |
 > | [[Cultural Barrier]] | 概念 | 文化障碍，第一代学子在解码大学场域隐性游戏规则时遭遇的壁垒。 |
+> | [[Cultural Disorientation]] | 概念 | 文化迷失，迷失无从模式在文化心理层面的深层机制，表现为自我认同撕裂与目标失焦。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch05|Zheng (2023)]] — 系统阐释弱势第一代学子因文化工具匮乏与多重图式抵消所致的迷失无从状态及被动出路（Ch. 5）。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 第五章系统阐释第一代学子因文化工具匮乏与多重图式抵消所致的迷失无从状态；[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|第六章]]透视深层文化迷失与自保性勤奋机制。

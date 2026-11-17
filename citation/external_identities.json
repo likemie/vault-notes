@@ -9346,8 +9346,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Intersect/Argument_Chan_2015_Intersect.md",
-        "wiki/concepts/political-economy-geopolitics/Opportunists.md"
+        "wiki/arguments/journal-articles/Intersect/Argument_Chan_2015_Intersect.md"
       ],
       "title": ""
     },
@@ -14200,7 +14199,6 @@
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
         "wiki/concepts/political-economy-geopolitics/Baptist-Bootlegger Coalition.md",
         "wiki/concepts/political-economy-geopolitics/Insurrectionaries.md",
-        "wiki/concepts/political-economy-geopolitics/Opportunists.md",
         "wiki/concepts/political-economy-geopolitics/Subversives.md",
         "wiki/concepts/political-economy-geopolitics/Symbionts.md",
         "wiki/concepts/sociology-of-education/Opportunist Mode.md",
@@ -28501,13 +28499,14 @@
       "title": "Effect of the Use of Six Thinking Hats Technique in Education on Academic Achievement: A Mixed-Meta Method Research."
     },
     "Dohn, 2007": {
-      "doi": "",
+      "doi": "10.1111/j.1467-9752.2007.00542.x",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/concepts/comparative-education/Critique of PISA.md",
         "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md"
       ],
-      "title": ""
+      "title": "Knowledge and Skills for PISA – Assessing the Assessment"
     },
     "Dolan, 1993": {
       "datasets": [
@@ -50152,14 +50151,6 @@
       ],
       "title": ""
     },
-    "Howell, 1992": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/political-economy-geopolitics/Opportunists.md"
-      ],
-      "title": ""
-    },
     "Howell, 2013": {
       "datasets": [
         "eef:homework"
@@ -61387,14 +61378,6 @@
         "wiki/arguments/reports-policy-documents/Argument_Sahlgren_2015_CPS.md",
         "wiki/concepts/instruction-pedagogy/Inquiry-Based Learning.md",
         "wiki/concepts/instruction-pedagogy/Structured Teaching.md"
-      ],
-      "title": ""
-    },
-    "Kuran, 1991": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/political-economy-geopolitics/Opportunists.md"
       ],
       "title": ""
     },
