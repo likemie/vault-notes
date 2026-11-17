@@ -958,6 +958,8 @@
     "Anthony Biglan, 1973": "Anthony Biglan, 1973",
     "Anthony D. Smith (1995)": "Anthony D. Smith, 1995",
     "Anthony D. Smith, 1995": "Anthony D. Smith, 1995",
+    "Anthony Jack (2019)": "Anthony Jack, 2019",
+    "Anthony Jack, 2019": "Anthony Jack, 2019",
     "Anthony, 2016": "Anthony, 2016",
     "Antoni Verger et al. (2019)": "Antoni Verger et al., 2019",
     "Antoni Verger et al., 2019": "Antoni Verger et al., 2019",
@@ -9047,8 +9049,6 @@
     "Gilbert, 1961": "Gilbert, 1961",
     "Gilbert, 2013": "Gilbert, 2013",
     "Gilbert, 2017": "Gilbert, 2017",
-    "Gill Crozier & John Clayton (2009)": "Gill Crozier & John Clayton, 2009",
-    "Gill Crozier & John Clayton, 2009": "Gill Crozier & John Clayton, 2009",
     "Gill and others (2016)": "Gill and others, 2016",
     "Gill and others, 2016": "Gill and others, 2016",
     "Gill et al. (2016)": "Gill et al., 2016",
@@ -16208,8 +16208,6 @@
     "Mbiti, 2019": "Mbiti, 2019",
     "McAbee & Oswald (2013)": "McAbee & Oswald, 2013",
     "McAbee & Oswald, 2013": "McAbee & Oswald, 2013",
-    "McAdams (1993)": "McAdams, 1993",
-    "McAdams, 1993": "McAdams, 1993",
     "McAdie (2017)": "McAdie, 2017",
     "McAdie, 2017": "McAdie, 2017",
     "McAleavy & Elwick (2016)": "McAleavy & Elwick, 2016",
@@ -27858,6 +27856,8 @@
     "朱丽, 2018": "朱丽, 2018",
     "李军 (2018)": "李军, 2018",
     "李军, 2018": "李军, 2018",
+    "李瑾 (2012)": "李瑾, 2012",
+    "李瑾, 2012": "李瑾, 2012",
     "李等 (2025)": "李等, 2025",
     "李等, 2025": "李等, 2025",
     "杜威 (1907)": "杜威, 1907",
@@ -35087,6 +35087,21 @@
       ],
       "title": ""
     },
+    "Anthony Jack, 2019": {
+      "aliases": [
+        "Anthony Jack, 2019",
+        "Anthony Jack (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Anthony Jack, 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/sociology-of-education/The Shock of the Elite.md"
+      ],
+      "title": ""
+    },
     "Anthony, 2016": {
       "aliases": [
         "Anthony, 2016",
@@ -36089,7 +36104,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
+        "wiki/concepts/sociology-of-education/The Shock of the Elite.md"
       ],
       "title": "The Interactive Relationship Between Class Identity and the College Experience: The Case of Lower Income Students"
     },
@@ -50266,8 +50282,7 @@
         "wiki/concepts/sociology-of-education/Cultural Disembedding.md",
         "wiki/concepts/sociology-of-education/Doxa.md",
         "wiki/concepts/sociology-of-education/Habitus.md",
-        "wiki/concepts/sociology-of-education/Ontological Complicity.md",
-        "wiki/concepts/sociology-of-education/The Shock of the Elite.md"
+        "wiki/concepts/sociology-of-education/Ontological Complicity.md"
       ],
       "title": "An Invitation to Reflexive Sociology"
     },
@@ -50368,8 +50383,7 @@
       ],
       "isbn": "9780745605999",
       "seen_in": [
-        "wiki/concepts/sociology-of-education/Champ.md",
-        "wiki/concepts/sociology-of-education/The Shock of the Elite.md"
+        "wiki/concepts/sociology-of-education/Champ.md"
       ],
       "title": "The Logic of Practice"
     },
@@ -50414,8 +50428,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/sociology-of-education/Habitus.md",
-        "wiki/concepts/sociology-of-education/The Shock of the Elite.md"
+        "wiki/concepts/sociology-of-education/Habitus.md"
       ],
       "title": ""
     },
@@ -56415,7 +56428,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/sociology-of-education/Cultural Barrier.md",
         "wiki/concepts/sociology-of-education/Cultural Disorientation.md"
       ],
       "title": ""
@@ -94319,21 +94331,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Chinese Studies Journal/Argument_Velasco_2022_CSJ.md"
-      ],
-      "title": ""
-    },
-    "Gill Crozier & John Clayton, 2009": {
-      "aliases": [
-        "Gill Crozier & John Clayton, 2009",
-        "Gill Crozier & John Clayton (2009)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Gill Crozier & John Clayton, 2009"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/sociology-of-education/The Shock of the Elite.md"
       ],
       "title": ""
     },
@@ -146225,21 +146222,6 @@
       "seen_in": [],
       "title": "The criterion-related validity of personality measures for predicting GPA: a meta-analytic validity competition."
     },
-    "McAdams, 1993": {
-      "aliases": [
-        "McAdams, 1993",
-        "McAdams (1993)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "McAdams, 1993"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/sociology-of-education/Cultural Barrier.md"
-      ],
-      "title": ""
-    },
     "McAdie, 2017": {
       "aliases": [
         "McAdie, 2017",
@@ -175164,7 +175146,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
-        "wiki/concepts/sociology-of-education/Habitus.md"
+        "wiki/concepts/sociology-of-education/Habitus.md",
+        "wiki/concepts/sociology-of-education/The Shock of the Elite.md"
       ],
       "title": "'Strangers in Paradise'? Working-class Students in Elite Universities"
     },
@@ -175194,7 +175177,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
+        "wiki/concepts/sociology-of-education/The Shock of the Elite.md"
       ],
       "title": "Finding or Losing Yourself?: Working-class Relationships to Education"
     },
@@ -230719,6 +230703,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/china/ECNU Declaration on Evidence-Based Research.md"
+      ],
+      "title": ""
+    },
+    "李瑾, 2012": {
+      "aliases": [
+        "李瑾, 2012",
+        "李瑾 (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "李瑾, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/chinese-philosophy/Sense of Shame.md"
       ],
       "title": ""
     },

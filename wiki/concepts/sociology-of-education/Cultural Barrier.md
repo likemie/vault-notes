@@ -6,10 +6,10 @@ aliases:
 summary: "弱势背景学生进入精英大学后，因缺乏场域默认掌握的隐性文化知识与文化技能而遭遇的无形屏障，表现为物理环境与社交语码的文化脱嵌，以及发展目标与自我认同的深层迷航。"
 type: concept
 domain: "sociology-of-education"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 16
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/sociology-of-education
   - theme/cultural-barrier
@@ -19,27 +19,23 @@ tags:
   - region/china
 related_concepts:
   - "[[Champ]]"
-  - "[[Cultural Capital]]"
-  - "[[Habitus]]"
-  - "[[Intuition-Dependent Mode]]"
-  - "[[Goal-Controlled Mode]]"
-  - "[[The Shock of the Elite]]"
-  - "[[First-Generation College Student]]"
-  - "[[Discourse]]"
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"
-  - "[[Professional Interest]]"
-  - "[[Reflexivity]]"
-related_theories:
-  - "[[Culture as Toolkit]]"
+  - "[[The Shock of the Elite]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Cultural Capital]]"
+  - "[[Habitus]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[First-Generation College Student]]"
+related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Pierre Bourdieu]]"
-related_facts:
-  - "[[Double First-Class Initiative]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 confidence: high
 status: draft
 created: 2026-05-08
