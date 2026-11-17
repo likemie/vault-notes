@@ -10821,6 +10821,16 @@
     ]
   },
   {
+    "title": "Horizontal Stratification in Higher Education",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Horizontal Stratification in Higher Education.md",
+    "aliases": [
+      "高等教育横向分层",
+      "横向分层",
+      "horizontal stratification"
+    ]
+  },
+  {
     "title": "Humboldtian Model of Higher Education",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Humboldtian Model of Higher Education.md",
@@ -25444,6 +25454,16 @@
     ]
   },
   {
+    "title": "Careership Theory",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Careership Theory.md",
+    "aliases": [
+      "职业生涯决策理论",
+      "职业决策理论",
+      "careership"
+    ]
+  },
+  {
     "title": "College Process Model",
     "type": "theory",
     "path": "wiki/theories/sociology-of-education/College Process Model.md",
@@ -25475,6 +25495,15 @@
       "文化工具箱",
       "Swidler 工具箱理论",
       "工具箱范式"
+    ]
+  },
+  {
+    "title": "Cumulative Inequality Theory",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Cumulative Inequality Theory.md",
+    "aliases": [
+      "累积不平等理论",
+      "CIT"
     ]
   },
   {
@@ -25669,6 +25698,18 @@
       "双重问题式",
       "Two Problematics",
       "two problematics of educational governance"
+    ]
+  },
+  {
+    "title": "Wisconsin Model of Status Attainment",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Wisconsin Model of Status Attainment.md",
+    "aliases": [
+      "威斯康辛地位获得模型",
+      "威斯康辛模型",
+      "威斯康辛教育获得模型",
+      "Wisconsin Model",
+      "Wisconsin Model of Educational Attainment"
     ]
   },
   {
@@ -35572,6 +35613,17 @@
     ]
   },
   {
+    "title": "Alexander Astin",
+    "type": "person",
+    "path": "wiki/persons/us/Alexander Astin.md",
+    "aliases": [
+      "亚历山大·阿斯汀",
+      "阿斯汀",
+      "Astin, A.",
+      "A. Astin"
+    ]
+  },
+  {
     "title": "Alexander Dallas Bache",
     "type": "person",
     "path": "wiki/persons/us/Alexander Dallas Bache.md",
@@ -36647,6 +36699,16 @@
       "基斯佳科夫斯基",
       "George B. Kistiakowsky",
       "George Bogdan Kistiakowsky"
+    ]
+  },
+  {
+    "title": "George Kuh",
+    "type": "person",
+    "path": "wiki/persons/us/George Kuh.md",
+    "aliases": [
+      "乔治·库",
+      "Kuh, G.",
+      "G. Kuh"
     ]
   },
   {
@@ -38520,6 +38582,17 @@
       "文卡泰什·纳拉亚纳穆尔提",
       "V. Narayanamurti",
       "Venky Narayanamurti"
+    ]
+  },
+  {
+    "title": "Vincent Tinto",
+    "type": "person",
+    "path": "wiki/persons/us/Vincent Tinto.md",
+    "aliases": [
+      "文森特·汀托",
+      "汀托",
+      "Tinto, V.",
+      "V. Tinto"
     ]
   },
   {

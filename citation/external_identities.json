@@ -8655,6 +8655,14 @@
       ],
       "title": ""
     },
+    "Baxter Magolda & King, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
+      ],
+      "title": ""
+    },
     "Baxter Magolda, 1992": {
       "doi": "",
       "isbn": "",
@@ -13220,6 +13228,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/concepts/sociology-of-education/Cultural Capital.md",
         "wiki/persons/france/Pierre Bourdieu.md"
       ],
@@ -13227,7 +13236,7 @@
     },
     "Bourdieu & Wacquant, 1992": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9780226067414",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/concepts/educational-leadership-administration/Cult of the Guru.md",
@@ -13237,15 +13246,15 @@
         "wiki/concepts/sociology-of-education/Ontological Complicity.md",
         "wiki/concepts/sociology-of-education/The Shock of the Elite.md"
       ],
-      "title": ""
+      "title": "An Invitation to Reflexive Sociology"
     },
     "Bourdieu et al., 1999": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9780745620312",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
       ],
-      "title": ""
+      "title": "The Weight of the World: Social Suffering in Contemporary Society"
     },
     "Bourdieu, 1977": {
       "doi": "",
@@ -14070,6 +14079,7 @@
         "wiki/concepts/political-economy-geopolitics/Subversives.md",
         "wiki/concepts/political-economy-geopolitics/Symbionts.md",
         "wiki/concepts/sociology-of-education/Opportunist Mode.md",
+        "wiki/theories/sociology-of-education/Careership Theory.md",
         "wiki/theories/sociology-of-education/Rational Action Theory.md"
       ],
       "title": ""
@@ -34319,6 +34329,14 @@
       ],
       "title": ""
     },
+    "Ferraro & Shippee, 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Cumulative Inequality Theory.md"
+      ],
+      "title": ""
+    },
     "Ferreira & Quesado Delgado, 2024": {
       "doi": "",
       "isbn": "",
@@ -39064,7 +39082,6 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/concepts/higher-education/Student Engagement.md"
       ],
       "title": ""
@@ -39201,7 +39218,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
+        "wiki/concepts/higher-education/Horizontal Stratification in Higher Education.md"
       ],
       "title": ""
     },
@@ -48724,7 +48742,17 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
+        "wiki/theories/sociology-of-education/Careership Theory.md",
         "wiki/theories/sociology-of-education/Rational Action Theory.md"
+      ],
+      "title": ""
+    },
+    "Hodkinson, 2004": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Careership Theory.md"
       ],
       "title": ""
     },
@@ -49057,12 +49085,12 @@
       "title": ""
     },
     "Holland, 2020": {
-      "doi": "",
+      "doi": "10.1080/00221546.2019.1647582",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
       ],
-      "title": ""
+      "title": "Framing the Search: How First-Generation Students Evaluate Colleges"
     },
     "Hollanders & Es-Sadki, 2017": {
       "doi": "",
@@ -60516,6 +60544,14 @@
       ],
       "title": ""
     },
+    "Kuh et al., 2008": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/George Kuh.md"
+      ],
+      "title": ""
+    },
     "Kuh, 1991": {
       "doi": "",
       "isbn": "",
@@ -61813,14 +61849,14 @@
       "title": ""
     },
     "Lamont et al., 2015": {
-      "doi": "",
+      "doi": "10.1016/B978-0-08-097086-8.10441-3",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/concepts/sociology-of-education/Cultural Disembedding.md",
         "wiki/concepts/sociology-of-education/Symbolic Boundary.md"
       ],
-      "title": ""
+      "title": "Symbolic Boundaries"
     },
     "Lamont, 2009": {
       "doi": "",
@@ -86164,11 +86200,27 @@
       ],
       "title": ""
     },
+    "Porter, 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/George Kuh.md"
+      ],
+      "title": ""
+    },
     "Porter, 2016": {
       "doi": "",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Episteme/Argument_Naeem_2026_Episteme.md"
+      ],
+      "title": ""
+    },
+    "Portes, 1969": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Wisconsin Model of Status Attainment.md"
       ],
       "title": ""
     },
@@ -88471,13 +88523,13 @@
       "title": ""
     },
     "Reay et al., 2009": {
-      "doi": "",
+      "doi": "10.1177/0038038509345700",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/concepts/sociology-of-education/Habitus.md"
       ],
-      "title": ""
+      "title": "'Strangers in Paradise'? Working-class Students in Elite Universities"
     },
     "Reay, 1998": {
       "doi": "",
@@ -94900,7 +94952,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
+        "wiki/theories/sociology-of-education/Cumulative Inequality Theory.md"
       ],
       "title": ""
     },
@@ -97318,11 +97371,28 @@
       "seen_in": [],
       "title": "Evaluating the effectiveness of a short-duration reading intervention on grade one phonological awareness and word reading"
     },
+    "Sewell & Hauser, 1980": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Wisconsin Model of Status Attainment.md"
+      ],
+      "title": ""
+    },
     "Sewell & Shah, 1968": {
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
+        "wiki/theories/sociology-of-education/Wisconsin Model of Status Attainment.md"
+      ],
+      "title": ""
+    },
+    "Sewell et al., 1969": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Wisconsin Model of Status Attainment.md"
       ],
       "title": ""
     },
@@ -104983,7 +105053,7 @@
       "title": ""
     },
     "Swidler, 1986": {
-      "doi": "",
+      "doi": "10.2307/2095521",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
@@ -104992,7 +105062,7 @@
         "wiki/concepts/sociology-of-education/Graduation Pathway Typology.md",
         "wiki/theories/sociology-of-education/Culture as Toolkit.md"
       ],
-      "title": ""
+      "title": "Culture in Action: Symbols and Strategies"
     },
     "Sykes, 2024": {
       "doi": "",
@@ -107146,7 +107216,8 @@
       "seen_in": [
         "wiki/concepts/higher-education/Academic and Social Integration.md",
         "wiki/concepts/higher-education/Student Engagement.md",
-        "wiki/concepts/higher-education/Student Involvement.md"
+        "wiki/concepts/higher-education/Student Involvement.md",
+        "wiki/persons/us/Vincent Tinto.md"
       ],
       "title": ""
     },
@@ -111444,7 +111515,6 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/concepts/higher-education/Academic and Social Integration.md"
       ],
       "title": ""

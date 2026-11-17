@@ -103,16 +103,13 @@ updated: 2026-11-17
 ---
 
 > [!framework-table] 理论工具箱
-> | 理论工具 | 代表学者 | 解释功能 |
-> |---|---|---|
-> | **[[Champ\|场域理论]]** | [[Pierre Bourdieu\|皮埃尔·布迪厄（Pierre Bourdieu）]] | 将精英大学界定为存在明晰准入界限、评价机制与资本竞争的场域，特权群体在形式平等的学术与课余规则中享有隐蔽的文化优势（pp. 67–68）。 |
-> | **[[Culture as Toolkit\|文化作为工具箱]]** | [[Ann Swidler\|安·斯威德勒（Ann Swidler）]] | 将文化理解为提供行动策略、日常习惯与技能库的符号资源，用于阐释不同家庭阶层在组织大学生活与应对出路竞争时所调用的图式差异（pp. 62–64）。 |
-> | **[[Credential Inflation\|文凭通货膨胀]]** | [[Randall Collins\|兰德尔·柯林斯（Randall Collins）]] | 解释高校扩招导致文凭总量过剩后，大学文凭在劳动力市场中的交换价值发生萎缩，进而驱动更高学历追求与激烈再竞争的宏观机制（p. 75）。 |
-> | **[[Economy of Experience\|履历经济学]]** | [[Phillip Brown\|菲利普·布朗（Phillip Brown）]] | 阐明当文凭无法甄别[[Employability\|就业能力]]时，雇主依赖个性、软技能、实习与[[Extracurricular Activities\|课外活动]]等相对优势，迫使学生将大学生活组织为持续的履历资本投资（p. 77）。 |
-> | **[[Dual Elite Career Paths\|二元精英职业路径]]** | [[Andrew G. Walder\|魏昂德（Andrew G. Walder）]] | 刻画后社会主义社会中政治管理精英与专业技术精英两条分立的流动路径，为一流大学毕业生的体制内选调与市场化职业选择提供结构参照（pp. 88–90）。 |
-> | **[[Triangle of Coordination\|高等教育三角协调模型]]** | [[Burton R. Clark\|伯顿·R·克拉克（Burton R. Clark）]] | 揭示大学育人使命、政府权力与市场力量的结构性脱节，阐释校园迷宫形成的组织根源（pp. 80–82）。 |
-> | **[[Maximally Maintained Inequality\|最大化维持的不平等]]** | Raftery & Hout | 揭示教育扩张在优势阶层饱和前无法自发缩小相对阶层差距的分配规律（p. 75）。 |
-> | **[[Dual Labor Market Theory\|二元劳动力市场理论]]** | Doeringer & Piore | 解释体制内与体制外双轨分割下，工资定价机制与求职筛选门槛的结构性差异（pp. 88–90）。 |
+> | 理论工具 | 解释功能 |
+> |---|---|
+> | **[[Champ\|场域理论]]**<br>[[Pierre Bourdieu\|皮埃尔·布迪厄（Pierre Bourdieu）]] | 将精英大学界定为存在明晰准入界限、评价机制与资本竞争的场域，特权群体在形式平等的学术与课余规则中享有隐蔽的文化优势（pp. 67–68）。 |
+> | **[[Culture as Toolkit\|文化作为工具箱]]**<br>[[Ann Swidler\|安·斯威德勒（Ann Swidler）]] | 将文化理解为提供行动策略、日常习惯与技能库的符号资源，用于阐释不同家庭阶层在组织大学生活与应对出路竞争时所调用的图式差异（pp. 62–64）。 |
+> | **[[Credential Inflation\|文凭通货膨胀]]**<br>[[Randall Collins\|兰德尔·柯林斯（Randall Collins）]] | 解释高校扩招导致文凭总量过剩后，大学文凭在劳动力市场中的交换价值发生萎缩，进而驱动更高学历追求与激烈再竞争的宏观机制（p. 75）。 |
+> | **[[Economy of Experience\|履历经济学]]**<br>[[Phillip Brown\|菲利普·布朗（Phillip Brown）]] | 阐明当文凭无法甄别[[Employability\|就业能力]]时，雇主依赖个性、软技能、实习与[[Extracurricular Activities\|课外活动]]等相对优势，迫使学生将大学生活组织为持续的履历资本投资（p. 77）。 |
+> | **[[Dual Elite Career Paths\|二元精英职业路径]]**<br>[[Andrew G. Walder\|魏昂德（Andrew G. Walder）]] | 刻画后社会主义社会中政治管理精英与专业技术精英两条分立的流动路径，为一流大学毕业生的体制内选调与市场化职业选择提供结构参照（pp. 88–90）。 |
 
 ---
 

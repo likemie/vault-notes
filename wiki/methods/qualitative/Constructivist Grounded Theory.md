@@ -46,9 +46,8 @@ updated: 2026-11-17
 > [[Constructivist Paradigm|建构主义]][[Grounded Theory|扎根理论]]（Constructivist Grounded Theory）是美国社会学家 Kathy Charmaz（2006）在 Glaser and Strauss 经典扎根理论基础上发展的[[Qualitative Research|质性研究]]方法论变体。建构主义主张意义与分析在具体情境中由研究者与被研究者共同建构生成，区别于经典扎根理论将意义视为数据中客观预存对象的假定。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|郑雅君 (2023, pp. 58–60)]]在关于中国顶尖大学毕业生出路分化的研究中采用该方法，循环迭代提炼出[[Goal-Controlled Mode|目标掌控模式]]与[[Intuition-Dependent Mode|直觉依赖模式]]的实践图式类型学。
 
 > [!abstract] [[Epistemology|认识论]]立场
-> - 属于[[Constructivist Paradigm|建构主义]]（Constructivism）研究[[Paradigm|范式]]，强调研究者的前见和理论关注是分析过程的有机组成部分——"我是带着自己的前见和理论关注点进入分析过程的"（[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|郑雅君, 2023, p. 58]]）
-> - 与诠释学（Hermeneutics）兼容：研究目标是对行动者的意义世界进行理解性阐释
->
+> - 属于[[Constructivist Paradigm|建构主义]]（Constructivism）研究[[Paradigm|范式]]，强调研究者的前见和理论关注是分析过程的有机组成部分，正如郑雅君指出“我是带着自己的前见和理论关注点进入分析过程的”（[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|郑雅君, 2023, p. 58]]）。
+> - 与诠释学（Hermeneutics）兼容：研究目标是对行动者的意义世界进行理解性阐释。
 
 > [!example] 研究程序
 > [[Argument_Zheng_2023_ShanghaiSanlian_Ch02|郑雅君 (2023, pp. 58–60)]]描述的实际分析过程是一种理论演绎法和现象归纳法循环往复的分析方法：
@@ -57,14 +56,14 @@ updated: 2026-11-17
 > 2. 在个案经验的基础上寻求**理论性命题或假设** → 以此确立编码类目
 > 3. 当新现象**推翻**原有猜想 → 放弃原有编码类别，重新建立新猜想和类属
 > 4. **循环迭代**，持续不断地整合所有发现 → 直到理论命题能够兼容**所有个案**的经验
-> 5. **最终产出** 一个有良好解释力的理论模型（在本研究中即 [[Goal-Controlled Mode]] 与 [[Intuition-Dependent Mode]] 两种"上大学"实践模式的区分）
+> 5. **最终产出** 一个有良好解释力的理论模型（如 [[Goal-Controlled Mode]] 与 [[Intuition-Dependent Mode]] 两种上大学实践模式的区分）
 >
 > （Charmaz, 2006；引自 [[Argument_Zheng_2023_ShanghaiSanlian_Ch02|郑雅君, 2023, p. 58]]）
 >
 
 > [!success] 适用场景
 > - 适合探索性[[Research Question|研究问题]]：旨在阐释和理解行动者的意义建构逻辑，并据此探索和生成解释性理论假设
-> - 研究者的**前见被承认为分析的一部分**，而非被要求完全摒弃——这与[[Objectivism|客观主义]][[Grounded Theory|扎根理论]]形成对比
+> - 研究者的**前见被承认为分析的一部分**，而非被要求完全摒弃，区别于[[Objectivism|客观主义]][[Grounded Theory|扎根理论]]预设
 >
 
 > [!note-] [[Internal Validity|内部效度]]保障
@@ -75,6 +74,6 @@ updated: 2026-11-17
 >
 
 > [!example] 使用此方法的研究
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 以建构主义扎根理论分析 62 名精英大学毕业生追踪访谈，循环比对经验与猜想，提炼目标掌控与直觉依赖实践图式（[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|第二章，pp. 58–60]]）。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 在[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|第二章]]中阐释建构主义扎根理论分析设计，通过两阶段 62 名名校毕业生追踪个案，循环比对经验与理论猜想，提炼出目标掌控模式与直觉依赖模式实践图式（pp. 58–60）。
 >
 

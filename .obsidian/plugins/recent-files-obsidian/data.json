@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "template-argument",
+      "path": "wiki/templates/template-argument.md"
+    },
+    {
+      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch02",
+      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
+    },
+    {
       "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch01",
       "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
     },
@@ -91,10 +99,6 @@
     {
       "basename": "Hammermeister_2002_Cambridge",
       "path": "books/Hammermeister_2002_Cambridge/Hammermeister_2002_Cambridge.md"
-    },
-    {
-      "basename": "template-argument",
-      "path": "wiki/templates/template-argument.md"
     },
     {
       "basename": "VALIDATION",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Darwish_2009_Queens",
       "path": "wiki/arguments/books/Darwish_2009_Queens/Argument_Darwish_2009_Queens.md"
-    },
-    {
-      "basename": "Argument_Arnove_2009_WorldSystems",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md"
     }
   ],
   "omittedPaths": [],

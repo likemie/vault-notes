@@ -1979,6 +1979,8 @@
     "Baxter & Pine (1991)": "Baxter & Pine, 1991",
     "Baxter & Pine, 1991": "Baxter & Pine, 1991",
     "Baxter (2022)": "Baxter, 2022",
+    "Baxter Magolda & King (2012)": "Baxter Magolda & King, 2012",
+    "Baxter Magolda & King, 2012": "Baxter Magolda & King, 2012",
     "Baxter Magolda (1992)": "Baxter Magolda, 1992",
     "Baxter Magolda, 1992": "Baxter Magolda, 1992",
     "Baxter, 2022": "Baxter, 2022",
@@ -7813,6 +7815,8 @@
     "Feron, 2020": "Feron, 2020",
     "Ferrance (2000)": "Ferrance, 2000",
     "Ferrance, 2000": "Ferrance, 2000",
+    "Ferraro & Shippee (2009)": "Ferraro & Shippee, 2009",
+    "Ferraro & Shippee, 2009": "Ferraro & Shippee, 2009",
     "Ferreira & Quesado Delgado (2024)": "Ferreira & Quesado Delgado, 2024",
     "Ferreira & Quesado Delgado, 2024": "Ferreira & Quesado Delgado, 2024",
     "Ferreira & Trudel (2012)": "Ferreira & Trudel, 2012",
@@ -11071,6 +11075,8 @@
     "Hodgkinson, 1978": "Hodgkinson, 1978",
     "Hodkinson & Sparkes (1997)": "Hodkinson & Sparkes, 1997",
     "Hodkinson & Sparkes, 1997": "Hodkinson & Sparkes, 1997",
+    "Hodkinson (2004)": "Hodkinson, 2004",
+    "Hodkinson, 2004": "Hodkinson, 2004",
     "Hoek (1997)": "Hoek, 1997",
     "Hoek (1999)": "Hoek, 1999",
     "Hoek, 1997": "Hoek, 1997",
@@ -13777,7 +13783,9 @@
     "Kuh (1991)": "Kuh, 1991",
     "Kuh (2000)": "Kuh, 2000",
     "Kuh et al. (1991)": "Kuh et al., 1991",
+    "Kuh et al. (2008)": "Kuh et al., 2008",
     "Kuh et al., 1991": "Kuh et al., 1991",
+    "Kuh et al., 2008": "Kuh et al., 2008",
     "Kuh, 1991": "Kuh, 1991",
     "Kuh, 2000": "Kuh, 2000",
     "Kuhl et al. (2019)": "Kuhl et al., 2019",
@@ -19603,12 +19611,16 @@
     "Porter (1990)": "Porter, 1990",
     "Porter (1995)": "Porter, 1995",
     "Porter (2002)": "Porter, 2002",
+    "Porter (2011)": "Porter, 2011",
     "Porter (2016)": "Porter, 2016",
     "Porter, 1965": "Porter, 1965",
     "Porter, 1990": "Porter, 1990",
     "Porter, 1995": "Porter, 1995",
     "Porter, 2002": "Porter, 2002",
+    "Porter, 2011": "Porter, 2011",
     "Porter, 2016": "Porter, 2016",
+    "Portes (1969)": "Portes, 1969",
+    "Portes, 1969": "Portes, 1969",
     "Portnoi (2016)": "Portnoi, 2016",
     "Portnoi, 2016": "Portnoi, 2016",
     "Porto de Oliveira & Osorio Gonnet (2023)": "Porto de Oliveira & Osorio Gonnet, 2023",
@@ -22156,9 +22168,13 @@
     "Sevilla et al., 2022": "Sevilla et al., 2022",
     "Seward (2009)": "Seward, 2009",
     "Seward, 2009": "Seward, 2009",
+    "Sewell & Hauser (1980)": "Sewell & Hauser, 1980",
+    "Sewell & Hauser, 1980": "Sewell & Hauser, 1980",
     "Sewell & Shah (1968)": "Sewell & Shah, 1968",
     "Sewell & Shah, 1968": "Sewell & Shah, 1968",
     "Sewell (1992)": "Sewell, 1992",
+    "Sewell et al. (1969)": "Sewell et al., 1969",
+    "Sewell et al., 1969": "Sewell et al., 1969",
     "Sewell, 1992": "Sewell, 1992",
     "Seyyedrezaei et al. (2022)": "Seyyedrezaei et al., 2022",
     "Seyyedrezaei et al., 2022": "Seyyedrezaei et al., 2022",
@@ -42577,6 +42593,21 @@
       ],
       "title": ""
     },
+    "Baxter Magolda & King, 2012": {
+      "aliases": [
+        "Baxter Magolda & King, 2012",
+        "Baxter Magolda & King (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Baxter Magolda & King, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
+      ],
+      "title": ""
+    },
     "Baxter Magolda, 1992": {
       "aliases": [
         "Baxter Magolda, 1992",
@@ -50194,6 +50225,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/concepts/sociology-of-education/Cultural Capital.md",
         "wiki/persons/france/Pierre Bourdieu.md"
       ],
@@ -50208,7 +50240,7 @@
       "identity_keys": [
         "Bourdieu & Wacquant, 1992"
       ],
-      "isbn": "",
+      "isbn": "9780226067414",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/concepts/educational-leadership-administration/Cult of the Guru.md",
@@ -50218,7 +50250,7 @@
         "wiki/concepts/sociology-of-education/Ontological Complicity.md",
         "wiki/concepts/sociology-of-education/The Shock of the Elite.md"
       ],
-      "title": ""
+      "title": "An Invitation to Reflexive Sociology"
     },
     "Bourdieu et al., 1999": {
       "aliases": [
@@ -50229,11 +50261,11 @@
       "identity_keys": [
         "Bourdieu et al., 1999"
       ],
-      "isbn": "",
+      "isbn": "9780745620312",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
       ],
-      "title": ""
+      "title": "The Weight of the World: Social Suffering in Contemporary Society"
     },
     "Bourdieu, 1977": {
       "aliases": [
@@ -51595,6 +51627,7 @@
         "wiki/concepts/political-economy-geopolitics/Subversives.md",
         "wiki/concepts/political-economy-geopolitics/Symbionts.md",
         "wiki/concepts/sociology-of-education/Opportunist Mode.md",
+        "wiki/theories/sociology-of-education/Careership Theory.md",
         "wiki/theories/sociology-of-education/Rational Action Theory.md"
       ],
       "title": ""
@@ -85350,6 +85383,21 @@
       ],
       "title": ""
     },
+    "Ferraro & Shippee, 2009": {
+      "aliases": [
+        "Ferraro & Shippee, 2009",
+        "Ferraro & Shippee (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ferraro & Shippee, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Cumulative Inequality Theory.md"
+      ],
+      "title": ""
+    },
     "Ferreira & Quesado Delgado, 2024": {
       "aliases": [
         "Ferreira & Quesado Delgado, 2024",
@@ -93201,7 +93249,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/concepts/higher-education/Student Engagement.md"
       ],
       "title": ""
@@ -93434,7 +93481,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
+        "wiki/concepts/higher-education/Horizontal Stratification in Higher Education.md"
       ],
       "title": ""
     },
@@ -109255,7 +109303,24 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
+        "wiki/theories/sociology-of-education/Careership Theory.md",
         "wiki/theories/sociology-of-education/Rational Action Theory.md"
+      ],
+      "title": ""
+    },
+    "Hodkinson, 2004": {
+      "aliases": [
+        "Hodkinson, 2004",
+        "Hodkinson (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hodkinson, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Careership Theory.md"
       ],
       "title": ""
     },
@@ -109815,7 +109880,7 @@
         "Holland, 2020",
         "Holland (2020)"
       ],
-      "doi": "",
+      "doi": "10.1080/00221546.2019.1647582",
       "identity_keys": [
         "Holland, 2020"
       ],
@@ -109823,7 +109888,7 @@
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
       ],
-      "title": ""
+      "title": "Framing the Search: How First-Generation Students Evaluate Colleges"
     },
     "Hollanders & Es-Sadki, 2017": {
       "aliases": [
@@ -128734,6 +128799,21 @@
       ],
       "title": ""
     },
+    "Kuh et al., 2008": {
+      "aliases": [
+        "Kuh et al., 2008",
+        "Kuh et al. (2008)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kuh et al., 2008"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/George Kuh.md"
+      ],
+      "title": ""
+    },
     "Kuh, 1991": {
       "aliases": [
         "Kuh, 1991",
@@ -130830,7 +130910,7 @@
         "Lamont et al., 2015",
         "Lamont et al. (2015)"
       ],
-      "doi": "",
+      "doi": "10.1016/B978-0-08-097086-8.10441-3",
       "identity_keys": [
         "Lamont et al., 2015"
       ],
@@ -130840,7 +130920,7 @@
         "wiki/concepts/sociology-of-education/Cultural Disembedding.md",
         "wiki/concepts/sociology-of-education/Symbolic Boundary.md"
       ],
-      "title": ""
+      "title": "Symbolic Boundaries"
     },
     "Lamont, 2009": {
       "aliases": [
@@ -171161,6 +171241,21 @@
       ],
       "title": ""
     },
+    "Porter, 2011": {
+      "aliases": [
+        "Porter, 2011",
+        "Porter (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Porter, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/George Kuh.md"
+      ],
+      "title": ""
+    },
     "Porter, 2016": {
       "aliases": [
         "Porter, 2016",
@@ -171173,6 +171268,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Episteme/Argument_Naeem_2026_Episteme.md"
+      ],
+      "title": ""
+    },
+    "Portes, 1969": {
+      "aliases": [
+        "Portes, 1969",
+        "Portes (1969)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Portes, 1969"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Wisconsin Model of Status Attainment.md"
       ],
       "title": ""
     },
@@ -175008,7 +175118,7 @@
         "Reay et al., 2009",
         "Reay et al. (2009)"
       ],
-      "doi": "",
+      "doi": "10.1177/0038038509345700",
       "identity_keys": [
         "Reay et al., 2009"
       ],
@@ -175017,7 +175127,7 @@
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/concepts/sociology-of-education/Habitus.md"
       ],
-      "title": ""
+      "title": "'Strangers in Paradise'? Working-class Students in Elite Universities"
     },
     "Reay, 1998": {
       "aliases": [
@@ -185768,7 +185878,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
+        "wiki/theories/sociology-of-education/Cumulative Inequality Theory.md"
       ],
       "title": ""
     },
@@ -189787,6 +189898,21 @@
       "seen_in": [],
       "title": "Evaluating the effectiveness of a short-duration reading intervention on grade one phonological awareness and word reading"
     },
+    "Sewell & Hauser, 1980": {
+      "aliases": [
+        "Sewell & Hauser, 1980",
+        "Sewell & Hauser (1980)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Sewell & Hauser, 1980"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Wisconsin Model of Status Attainment.md"
+      ],
+      "title": ""
+    },
     "Sewell & Shah, 1968": {
       "aliases": [
         "Sewell & Shah, 1968",
@@ -189798,7 +189924,23 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
+        "wiki/theories/sociology-of-education/Wisconsin Model of Status Attainment.md"
+      ],
+      "title": ""
+    },
+    "Sewell et al., 1969": {
+      "aliases": [
+        "Sewell et al., 1969",
+        "Sewell et al. (1969)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Sewell et al., 1969"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Wisconsin Model of Status Attainment.md"
       ],
       "title": ""
     },
@@ -202370,7 +202512,7 @@
         "Swidler, 1986",
         "Swidler (1986)"
       ],
-      "doi": "",
+      "doi": "10.2307/2095521",
       "identity_keys": [
         "Swidler, 1986"
       ],
@@ -202382,7 +202524,7 @@
         "wiki/concepts/sociology-of-education/Graduation Pathway Typology.md",
         "wiki/theories/sociology-of-education/Culture as Toolkit.md"
       ],
-      "title": ""
+      "title": "Culture in Action: Symbols and Strategies"
     },
     "Sykes, 2024": {
       "aliases": [
@@ -205956,7 +206098,8 @@
       "seen_in": [
         "wiki/concepts/higher-education/Academic and Social Integration.md",
         "wiki/concepts/higher-education/Student Engagement.md",
-        "wiki/concepts/higher-education/Student Involvement.md"
+        "wiki/concepts/higher-education/Student Involvement.md",
+        "wiki/persons/us/Vincent Tinto.md"
       ],
       "title": ""
     },
@@ -212984,7 +213127,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/concepts/higher-education/Academic and Social Integration.md"
       ],
       "title": ""
