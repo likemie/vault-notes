@@ -1,0 +1,2729 @@
+=== PAGE 1 ===
+Assessment and the logic of instructional
+practice in Secondary 3 English and
+mathematics classrooms in Singapore
+David Hogan*, Melvin Chan, Ridzuan Rahim, Dennis Kwek,
+Khin Maung Aye, Siok Chen Loo, Yee Zher Sheng and
+Wenshu Luo
+National Institute of Education, Singapore
+By any measure, Singapore’s educational system has generated an extraordinary record of achieve-
+ment over the past two or three decades. In this article, we report on one key component of a
+broader three year investigation into why Singapore has done so well, and explore the logic,
+strength, resilience and limits of the underlying pedagogical model and policy framework that have
+helped secure this record of achievement. Specifically, we draw on data we collected in 2010 to ana-
+lyze the pedagogical organization of four theoretically specified ‘models’ of instructional strategy–
+traditional instruction, direct instruction, teaching for understanding, and co-regulated learning
+strategies–in Secondary 3 mathematics and English. In the course of our analysis, we develop three
+arguments. The first is the single-minded performative orientation of instructional practices gener-
+ally–and instructional strategies specifically–in Singaporean classrooms that rarely deviated from a
+logic of curriculum coverage, knowledge transmission and assessment. Second, while we found sub-
+stantial evidence of a pervasive performative orientation to instruction, we also found that teachers
+in Singapore draw from a variety of instructional perspectives in ways that reflect a pragmatic,
+instrumental fit-for-purpose approach and broader performative orientation. Third, we found that
+the national high stakes assessment system, by virtue of its considerable institutional authority, both
+shaped the pattern of instructional practice at the classroom level and constrained opportunities for
+instructional improvement. In the conclusion, we review related findings from the research program
+on the impact of instructional practice on student achievement in Singapore.
+Introduction
+By any measure, Singapore’s educational system has generated an extraordinary
+record of achievement over the past two or three decades. Not the least of these
+achievements has been its record in international assessments, including TIMMS
+and PISA (Table 1). It is now recognized as one of the leading educational systems in
+the world and the object of envy and emulation. In this article we report on one key
+component of a broader three year investigation into why Singapore has done so well
+and explore the logic, strength, resilience and limits of the underlying pedagogical
+*Corresponding author: National Institute of Education, 1 Nanyang Walk, Singapore 637616,
+Singapore. Email: david.hogan@nie.edu.sg
+Review of Education
+Vol. 1, No. 1, February 2013, pp. 57–106
+DOI: 10.1002/rev3.3002
+© 2013British Educational Research Association
+
+=== PAGE 2 ===
+model and policy framework that have helped secure this widely admired and envi-
+able record of achievement.
+Specifically, we draw on data we collected in 2010 to analyze the pedagogical orga-
+nization of four theoretically specified ‘models’ of instructional strategy —traditional
+instruction, direct instruction, teaching for understanding, and co-regulated learning
+strategies—in Secondary 3 mathematics and English. We do not report, however, on
+other key features of instructional practice in Singapore —the design and enactment
+of instructional tasks, classroom organization, interaction and talk, the use of high
+leverage instructional strategies (including checking for prior knowledge, the commu-
+nication of learning goals and performance standards, monitoring, feedback, learning
+support and knowledge representation) and the overall relationship between the pre-
+scribed and the enacted curriculum —that our larger research program has addressed.
+In the course of our analysis we will develop three arguments and intimate two
+others that we have developed in our broader research program. The first is the sin-
+gle-minded performative orientation of instructional practices generally —and
+instructional strategies specifically —in Singaporean classrooms that rarely deviated
+from a logic of curriculum coverage, knowledge transmission and reproduction
+(assessment). We think this partly reflects the influence of underlying cultural
+assumptions and institutional rules about education, teaching and learning —what
+Jerome Bruner (1996) and David Cohen (1988) have separately termed a ‘folk peda-
+gogy’—and the very considerable institutional authority of the national high stakes
+assessment system in a society where the nexus between credentialing and social
+mobility is unusually tight and the accountability system renders teachers unusually
+susceptible to parent credentialing anxieties. Indeed, we think this deeply instrumen-
+tal performative orientation largely explains the essential hybridity of instructional
+practice in Singapore.
+Second, while we found substantial evidence of a pervasive performative orienta-
+tion to instruction, we also found that instructional practices did not conform to a par-
+ticular theoretical or normative model of pedagogical practice. Teachers in Singapore
+are not, by and large, sectarian or tribal in their instructional commitments —that is,
+they do not tend to see themselves as members of a particular pedagogical sect or tribe
+(traditional, constructivist) or, for that matter, East Asian or Western. Instead, they
+Table 1. 2009 PISA results
+Rank Country Overall reading Overall math Overall science
+1 Shanghai, China 556 600 575
+2 Korea 539 546 538
+3 Finland 536 541 554
+4 Hong Kong 533 555 549
+5 Singapore 526 (5) 562 (2) 542 (4)
+6 Canada 524 527 529
+7 New Zealand 521 519 532
+8 Japan 520 529 539
+9 Australia 515 514 527
+10 Netherlands 508 526 522
+Source: OECD (2010).
+58 D. Hogan et al.
+© 2013British Educational Research Association
+
+=== PAGE 3 ===
+pragmatically mix and match, drawing from a variety of instructional perspectives in
+ways that reflect their pragmatic, instrumental fit-for-purpose approach and broader
+performative orientation. However, this non-sectarian pragmatism and hybridity is
+neither culturally or institutionally innocent but reflects the play of powerful vernacu-
+lar discourses (ability, readiness, meritocracy, nation-building, social harmony) and
+the complex articulation of instructional practices in response to the national high
+stakes assessment system and cross-cutting institutional and organizational processes
+that variously support or constrain the alignment of instruction with assessment. On
+balance though, the forces of alignment and institutional isomorphism have prevailed
+decisively until now, although this is likely to slowly change in the years ahead as the
+professionalization of teaching, might, if appropriately organized, offer at least some
+protection of teaching and learning practices from these pressures.
+Third, we found, like others before us, that the national high stakes assessment sys-
+tem exercised considerable institutional authority over Singapore’s pedagogical sys-
+tem through its unparalleled ability to shape the pattern of instructional practice at
+the classroom level. In Singapore, the Ministry of Education administers three high
+stakes national assessments: at the end of primary school (the Primary School Leaving
+Examination [PSLE]) regulating access to secondary school and to the curriculum
+streams within them, at the end of secondary school (the Cambridge O levels) regu-
+lating access to post-secondary education, and at the end of Year 12 for those enrolled
+in junior colleges hoping for admission to a university (the Cambridge A levels). The
+national high stakes assessment system is intended to serve a number of objectives —
+to enhance the quality of teaching and learning, to provide a public, transparent, reli-
+able and politically acceptable quality assurance and accountability mechanism, and
+to provide a clearly meritocratic process for the allocation of students into school
+streams and the social division of labour more broadly. This is a considerable politi-
+cal, educational and ideological burden for any assessment system to bear. Not sur-
+prisingly, it has long been the subject of close scrutiny by local commentators. Cheng
+(1996, p. 9), for example, argued that the ‘examination is the soul of the ethos about
+education in East Asian societies’ and ‘the goalkeeper to the quality of education out-
+put’. Two years later, Cheah (1998, p. 4), similarly concluded that the teaching of
+English language in Singapore was ‘driven by an “examination-type literacy”’ and
+that teachers ‘teach in the way they believe will help more students pass their examin-
+ations’. The trouble with this pedagogical arrangement, as Cheah goes on to con-
+clude, is that the tight coupling or calibration of instruction and assessment has had
+unfortunate and unintended consequences. He notes in particular that the introduc-
+tion of a key pedagogical reform in English in the 1990s —process writing—was ‘ham-
+pered by the emphasis on examinations in the school system’. More recently,
+Anneliese Kramer-Dahl (2008), in her research on the implementation of the 2001
+English syllabus in Singapore in 2006 and 2007, similarly reports that the English
+teachers she and her colleagues studied closely repeatedly retreated from the innova-
+tive pedagogy of the 2001 EL syllabus and fell back instead to the default position of
+an examination-driven instructional regime in order that their students be properly
+prepared for school-based and national high stakes assessments. ‘Indeed’, she writes,
+‘“exams”, “practice” and “back to basics” were keywords reiterated over and over in
+our interviews and in the classroom, often juxtaposed against what they see as an all-
+Assessment and the logic of instructional practice 59
+© 2013British Educational Research Association
+
+=== PAGE 4 ===
+too-unrealistic “advanced thinking and literacy” discourse of the syllabus’. One of her
+two subjects, Elise, explained her teaching choices this way:
+There’s the syllabus and there’s the exam. I feel a lot of the curriculum is controlled by the
+exam. I’m building the kids up to a last final outcome, with lots of practice and drill … Ulti-
+mately on paper, you have to have your exams and your tests. Making the link between
+school and real life? I think for our students that’s not a salient incentive. You need to link
+it to the exams, right? That’s the carrot that dangles. ‘You learn this because exams are
+gonna have that’. For lots of our teenagers exams have become life. You can’t draw the
+line, not in the Asian context, because it’s very very obvious, you know. (Kramer-Dahl,
+2008, p. 94)
+Still, it is fair to say that Singapore’s national high stakes regime has had both posi-
+tive and negative consequences for the quality of teaching and learning. On the one
+hand, it goes a long way towards explaining the clear-eyed focus, coherence and effec-
+tiveness of instructional practice and the underlying performative pedagogical orien-
+tation that underwrites it in Singapore. On the other hand, we also think that the
+national high stakes assessment system has resulted in a pedagogy that is intractably
+didactic rather than dialogical, compromised the epistemic quality and the transpar-
+ency or ‘visibility’ (Hattie, 2009, 2012) of learning processes during lessons,
+restricted the opportunities of students to engage in knowledge building work in class,
+and constrained the ability of the system to successfully introduce substantial and sus-
+tainable pedagogical improvements despite a strong policy commitment to doing so
+as reflected in the two key policy documents of the past 15 years —Thinking schools,
+learning nation (TSLN, 1997) and Teach less, learn more (TLLM, 2004). We consider
+these very high opportunity costs to pay and to reflect a considerable lack of align-
+ment between policy and practice in the system, even though at the same time they
+reflect a very high degree of pedagogical alignment between assessment and instruc-
+tion. Indeed, our findings suggest a very considerable tension, if not outright contra-
+diction, between the teaching for understanding and twenty-first century learning
+objectives of recent policy statements (especially Teach less, learn more ) and the
+continuing commitment of the government to its national high stakes assessment
+regime. When all is said and done, these findings raise important questions about
+whether the current pedagogical model, originally developed in the late 1970s, has
+now more or less run its course and needs substantial modification of its basic design
+principles if the system is to have any real hope of achieving the policy priorities set
+out in TSLN and TLLM. Tinkering around the edges —a little bit more feedback and
+formative assessment here, a little bit more teaching for understading there, a little
+more PD everywhere—is unlikely to achieve the outcomes the system desires.
+In short, over the course of our article we develop three key arguments—one regard-
+ing the overall performative orientation of instructional practice in Singapore, the sec-
+ond regarding the pragmatic hybridity of instructional practice, and the third the tight
+coupling or alignment of national high stakes assessment system and classroom
+instruction. We think these arguments go some way towards explaining why Singa-
+pore’s educational system has achieved extraordinary success in a very short period of
+time, accelerating from a standing start in 1965 as a third world education system to
+one of the most successful 40 years later. We think this remarkable achievement can be
+explained, in part, by the single-minded instrumentalist focus of the system on devel-
+60 D. Hogan et al.
+© 2013British Educational Research Association
+
+=== PAGE 5 ===
+oping a highly effective performative pedagogy using a high stakes national assessment
+system to lift standards and ensure quality. Of course, there are other factors as well
+that have contributed to Singapore’s success, including a high quality curriculum
+framework, exceptional leadership of a tightly integrated and centralized system, the
+quality and commitment of its teaching corps, and highly supportive cultural orienta-
+tions to education that in part reflects Singapore’s Confucian heritage and in part the
+tight nexus between educational credentialing and status attainment in Singapore. But
+our evidence also suggests that the basic design principles of the pedagogical system
+that have served Singapore so well over the course of the developmental phase of its his-
+tory now appear, ironically enough, to constrain the ability of the system to successfully
+support substantial and sustainable pedagogical improvement in line with its own pol-
+icy preferences. This has important implications for other systems that have recently
+made it their business to emulate or imitate some key features of Singapore’s system.
+Data and methods
+The data we report in this study draws from a nationally representative sample of over
+4000 Secondary 3 students and their teachers in approximately 120 mathematics and
+English classes across 32 secondary schools in Singapore conducted in 2010. Our first
+interim report (Hogan et al., 2011) includes detailed discussions of the statistical proce-
+dures specification and theoretical issues involved in the construction of all of the
+instructional methods scales. However, it is appropriate now to briefly discuss some
+details of our sampling strategy and the reliability of students as raters. In order to
+maximize the analytical scope of key pedagogical practices and individual student
+characteristics, we employed a split-half multi-level strategy in which 50% of the total
+student samples within each class in the sample were randomly assigned to a 230-item
+survey focused on students’ perceptions of instructional practices. The other half of
+the samples were assigned to a survey in which students answered a similar number of
+questions about their family background, learning orientation, motivation, self-beliefs
+and so on. In addition, all the students in each class sampled completed an hour-long
+assessment in mathematics or English. This design permits us to model the logic of
+instructional practice at the classroom level and to model the impact of domain spe-
+cific classroom practices on student outcomes. In this article, however, we draw
+exclusively on the classroom level survey data only, apart from limited interview data
+with teachers concerning their views on assessment.
+While relatively few studies have been conducted of primary and secondary school
+students as raters of instructional practices, the studies that have been completed
+indicate that elementary and secondary school students can effectively differentiate
+among various types of instructional practices (Urdan & Midgley, 2001; Wolters,
+2004; Assor et al ., 2005). In any case, there are compelling statistical reasons to use
+the multiple data points from student reports at the class level to model instructional
+practices rather than the single data point provided by the class teacher.
+While we report a range of descriptive statistics in the analysis that follows, analyti-
+cally the greater part of the heavy lifting is undertaken by structural equation model-
+ling (SEM). SEM is a powerful multivariate statistical technique used to examine
+whether the hypothetical relationships specified by the researcher can be empirically
+Assessment and the logic of instructional practice 61
+© 2013British Educational Research Association
+
+=== PAGE 6 ===
+supported by the sampled data. One of its key strengths is its ability to specify latent
+variables as robust measures of theoretical constructs. Unlike traditional factor ana-
+lytic approaches where theoretical variables of interests are often assumed to be mea-
+sured without error, measures assessed using confirmatory factor analysis (the
+measurement approach of SEM) are corrected for biases attributable to random and
+unexplained measurement error that often result in more precise estimates of struc-
+tural relationships (Bollen, 1989). Another strength of SEM is the availability of good-
+ness-of-fit statistics that allow researchers to evaluate the relative strength of the
+hypothesized model against the baseline structure. In this study, evaluation of good-
+ness-of-fit statistics is based on the classical chi-square test ( v2) where a non-signifi-
+cant v2 at a specified alpha level of p < .05 indicates that there is no statistically
+significant discrepancy in the covariance structure between the observed data and the
+hypothesized model. However, since the v2 can be sensitive to sample size and model
+complexity, we also report a range of alternative fit statistics together with the v2 test
+that take these issues into account. Based on the conventional guidelines by Hu and
+Bentler (1999), the recommended thresholds of a good fitting model are as follows:
+comparative fit index (CFI) and Tucker –Lewis index (TLI) should have values above
+0.95, root mean square error of approximation (RMSEA) should have values less than
+0.05, and standardized root mean square residual (SRMR) should have values less
+than 0.08.
+Although researchers would typically like to develop empirical models that are suf-
+ficiently complex so that they are closer to explaining the truth as observed in the real
+world, this is often challenging as complex models can result in unstable parameter
+estimates (Bandalos & Finney, 2001). One strategy often employed (and the one
+employed in this article) is the use of composite variables or ‘item parcels’ as proxies
+for the estimated latent variable. As composite variables reduce the number of param-
+eters that must be estimated by the model, complex analyses requiring a larger pool of
+variables become less demanding. This, happily, reduces sampling and measurement
+error, thus resulting in more accurate estimates. In this study, a single-item latent
+composite variable is constructed by assigning a pre-calculated regression and error
+constraint estimated from a proportionally weighted composite score. Given that uni-
+dimensionality is an important condition for latent composite models (Sass & Smith,
+2006), all instructional variables presented in this article are psychometrically reli-
+able. Construct reliability ranged from .79 to .90, and all over-identified latent mea-
+surement models achieved a non-significant chi-square ( p < .05), except for one
+(p = .001). The general approach to this procedure is explained in more detail by
+Chan (2012). Similar approaches to this procedure has been established previously as
+total aggregation method with reliability correction (Coffman & MacCullum, 2005),
+equivalent composite measures (Landis et al., 2000), latent composite variables (Ste-
+phenson & Holbert, 2003), one-factor congeneric measurement model (J €oreskog,
+1971) and one-factor congeneric measurement model (Rowe, 2002).
+The analysis of instructional methods and student achievement reported in this
+article is part of a larger three year study (the Core 2 Research Program) focused on
+mapping, measuring and modelling instructional practices in Singaporean classrooms
+and their impact on wide variety of student outcomes (Hogan et al., 2011). We have
+already published a number of papers that focus on instructional tasks, classroom talk
+62 D. Hogan et al.
+© 2013British Educational Research Association
+
+=== PAGE 7 ===
+and student motivation (Hogan et al., 2011, 2012a, b; Luo et al., 2011a, b; Rahim et
+al., 2012) and will not address these issues here. This particular article focuses, as the
+title suggests, on the logic of instructional strategies where we understand these to be
+composed of sets or arrays of instructional methods loosely organized as very general
+instructional strategies —‘traditional instruction’, ‘direct instruction’, ‘teaching for
+understanding’ and ‘co-regulated learning strategies’. We recognize that only the
+more theoretically self-conscious of teachers will frame their teaching in these broad
+strategic terms (let alone even broader theoretical frameworks), and that they are far
+more likely to understand their practice in somewhat more disaggregated and discrete
+terms. Our theoretical models then function as methodological heuristics that allow
+us to explore the relationships within and between nominally independent sets of
+instructional strategies. Intriguingly, however, statistically speaking, the clusters of
+discrete instructional practices associated with particular strategies exhibit relatively
+high levels of covariance and therefore constitute relatively coherent clusters of
+instructional practice that we might well consider empirically established latent theo-
+retical models of instructional practice. However, we hasten to add that the covari-
+ances between the sets of instructional practice are not so low that teachers, at least in
+Singapore, feel compelled to choose between them rather than combine them in ways
+that they believe are pragmatically ‘fit for purpose’. We also recognize the theoretical
+risks in treating instructional strategies separate from instructional tasks, lesson
+organization, curriculum materials, classroom management, learning environment
+and talk but treating all of them simultaneously in one publication places impossible
+demands on editors of academic journals.
+A taxonomy of instructional methods
+Traditional instruction. One common stereotype of East Asian pedagogy is that it is
+characterized by ‘traditional’ forms of instruction and that this is a major part of the
+explanation of why East Asian students have done so well in international assess-
+ments like TIMMS and PISA. In its cruder forms the East Asian thesis is that drill
+and practice supports memorization and memorization develops understanding;
+more sophisticated versions suggest that drill and practice develops both procedural
+skills and conceptual understanding as well, although this version of the thesis is
+unclear about the nature of the causal relationships involved. Although by no means
+the first to do so, Frederick Leung describes the stereotypical image (particularly in
+the West) of the teaching style in mathematics in East Asia in the following terms.
+Mathematical classes, he writes, are seen as ‘rather traditional’. Teaching is ‘predom-
+inantly content orientated and exam driven. Instruction is very much teacher domi-
+nated and student involvement minimal’. Teaching is ‘usually conducted in whole
+group settings, with relatively large class sizes’. There is ‘virtually no group work or
+activities, and memorization of mathematics is stressed’ and ‘students are required to
+learn by rote’. Students are ‘required to engage in ample practice of mathematical
+skills, mostly without thorough understanding’ (2001, pp. 35 –36; see also Biggs &
+Watkins, 2001; Cai et al ., 2004; Wong, 2004; Leung, 2006). Leaving aside whether
+this is an accurate picture in East Asia, is it an accurate guide to teaching in
+Singapore?
+Assessment and the logic of instructional practice 63
+© 2013British Educational Research Association
+
+=== PAGE 8 ===
+Our particular specification of what we call ‘Traditional Instruction’ (TI) focuses
+on five first order constructs or single indicators: a focus on worksheets and work-
+books (‘How often does your mathematics/English teacher ask you to do worksheets
+or workbooks?’); a focus on textbooks (e.g., ‘How often does your mathematics tea-
+cher asks you to answer questions from the textbook?’); drill and practice of basic
+facts, rules and procedures (e.g., ‘How often does your mathematics/English teacher
+ask you to drill and practice on basic facts, rules or procedures?’); a focus on memori-
+zation (e.g., ‘How often does your mathematics teacher ask you to remember formu-
+lae or rules?’); and exam preparation (‘my teacher emphasizes studying problems that
+may occur in the exams’; ‘my teacher spends a lot of class time preparing for exams’;
+‘my teacher teaches us test-taking strategies’; and ‘my teacher emphasizes practicing
+past year exam papers’). Initially, we also included an item ‘teacher talks/lectures a
+lot’ on the grounds that theoretically at least it ought to fit the TI model, but when we
+subjected the model to further statistical analysis using confirmatory factor analysis
+(CFA) to test the reliability of the TI scale, teacher talk/lecture did not load well on
+the TI second order construct in either English or mathematics. Accordingly, we did
+not include it in our final model. Some of the measures in the TI scale are made up of
+single indicators measures: we recognize that this is far from optimal statistically (we
+would have preferred three or four), but the post hoc nature of our analysis of the TI
+scale (and some other measures) gave us little choice.
+Table 2 reports the results of the CFA models of mathematics and English. Factor
+loadings range from the moderately high (.790, .841) to, in the case of English, the
+relatively low (.426). The CFA models indicate quite different factor structures for
+the two subjects. In mathematics, textbook focus has the strongest loading, followed
+by memorization and drill and practice. By contrast, in English, textbook focus has
+the lowest factor loading of all; conversely, memorization has the strongest factor
+loading, followed by drill and practice and exam preparation. The re-specified model
+includes a theoretically sensible correction for an error covariance in both models:
+Table 2. CFA higher order factor loadings and goodness-of-fit statistics: traditional instruction,
+Secondary 3 mathematics and English
+Mathematics English
+Respecified higher order model Respecified higher order model
+Higher order factor loadings
+Textbooks focus (2) .790 (.035) .426 (.034)
+Memorization (1) .784 (.023) .841 (.022)
+Drill and practice (1) .771 (.023) .800 (.022)
+Worksheets focus (1) .648 (.027) .573 (.030)
+Exam preparation (4) .611 (.027) .784 (.022)
+Goodness-of-fit statistics:
+Chi-square/df/p-value 48.115/24/.0024 30.143/18/.0361
+CFI/TLI .993/.989 .996/.993
+RMSEA (90% C.I.) .029 (.017 –.041) .026 (.007 –.041)
+SRMR .021 .016
+64 D. Hogan et al.
+© 2013British Educational Research Association
+
+=== PAGE 9 ===
+between exam preparation and drill and practice in mathematics, and between text-
+book focus and drill and practice in English.
+The mean scores, standard deviations and Cronbach’s alphas for the scales are
+reported in Table 3. The overall mean scores for traditional instruction in both Eng-
+lish and mathematics are relatively high, although there are important differences
+across subjects—mathematics teachers especially are far more likely to employ tradi-
+tional instructional techniques in general than English teachers. However, the rank
+ordering across the two subjects differs slightly: in mathematics, memorization, fol-
+lowed by focus on worksheets and workbooks and focus on textbooks, are dominant;
+in English, focus on worksheet sand workbooks, memorization and focus on exam
+preparation led the field.
+The mean scores tell us about the relative frequency of instructional events; what
+they cannot tell us about are the strength of the relationships between the five mea-
+sures. CFA modelling of course provides a measure of patterns of covariance; the
+CFAs reported in Table 1 indicate reasonably strong levels of covariance. A closely
+related statistic —correlation coefficients —provides a second. These are reported in
+Table 4 and again indicate moderately strong relationships, although the strength of
+the relationships varies between subjects, but with particularly strong correlations in
+both subjects between exam preparation and focus on drill and practice.
+Table 4. Latent correlation matrix: traditional instruction for mathematics and English
+(mathematics to the left of the diagonal; English to the right)
+EXPR MEM DRILL WKSF TXBF
+Focus on exam preparation .65 .62 .45 .37
+Focus on memorization .45 .68 .50 .32
+Focus on drill and practice of basic
+facts, rules and procedures
+.53 .59 .44 .35
+Focus on worksheets and workbooks .39 .51 .50 .40
+Focus on textbooks .44 .67 .58 .51
+Note: All correlations significant at p < .01.
+Table 3. Traditional instruction, Secondary 3 mathematics and English
+Mathematics English
+Mean (1–5) SD Mean (1 –5) SD Cohen’s d
+N 1166 1027
+Traditional Instruction (TI)
+Scale (alpha: .758, .726)
+3.78 .65 3.46 .65 .49
+Focus on memorization 4.06 .91 3.47 .93 .64
+Focus on worksheets and
+workbooks
+3.93 .95 3.63 .95 .32
+Focus on textbooks 3.83 .82 3.35 .97 .54
+Focus on drill and practice on
+basic facts, rules and procedures
+3.59 .97 3.39 .92 .21
+Focus on exam preparation 3.51 .86 3.45 .82 .07
+Assessment and the logic of instructional practice 65
+© 2013British Educational Research Association
+
+=== PAGE 10 ===
+Neither CFA nor bivariate correlations, however, tell us much about the pattern of
+causal relationships between variables. Is it the case, for example, as pedagogical folk-
+lore in Singapore suggests, that instructional practices in Singapore are more or less
+dominated by the institutional authority of the assessment system? To even begin to
+answer this question we need a kind of statistical analysis that can estimate the
+strength of ‘causal’ pathways between variables controlling for the influence of con-
+founding factors. The statistical procedure of choice these days to answer this kind of
+question is structural equation modeling (SEM). SEM models allow researchers to
+precisely measure the pattern and strength of relationships between the different
+instructional practices (technically, ‘constructs’) by estimating regression coefficients
+for the pathways between the constructs. These regression coefficients predict how
+much of the variance in the outcome variable (the construct into which the arrow
+goes) is accounted for by variations in the predictor variable (the construct from
+which the construct leaves) controlling for the influence of other variables on the
+outcome variable.
+SEM models proceed by first specifying a theoretical model of the relationships
+that researchers hypothesize exists in the real world, and then tests to see how well the
+real world empirical data ‘fits’ the model. The better the fit, the better the model. In
+addition, SEM models estimate the strength of relationships (pathways) between
+variables and report the results in terms of regression coefficients. A pathway regres-
+sion coefficient of .47, for example, between exam preparation and textbook focus
+means that for every unit increase in exam preparation, teachers will increase their
+focus on textbooks by .47 of whatever unit metric is being used, as in the SEM model
+for Secondary 3 mathematics below (Figure 1). This means that a focus on exam
+preparation is directly predictive of textbook focus (with a strong regression coeffi-
+cient of .47). In addition, exam preparation is predictive of a focus on worksheets and
+workbooks (.18), and the drill and practice of basic facts, rules and procedures (.34).
+We believe that the strength of these coefficients underscores the institutional ability
+of the assessment system, through its classroom proxy (exam preparation), to shape
+Note: Values represent unstandardized estimates significant at p < .01
+Goodness-of-fit statistics:
+Chi-square/df/p-value 1.902/1/.1679
+CFI / TLI .999/.993
+RMSEA (90% CI) .028 (.000–.089)
+SRMR .006
+Textbook
+Focus
+DrillExam
+Preparation
+Worksheet 
+Focus
+.34(.04) .25(.05)
+.31(.05)
+.21(.04)
+Memorization
+.18(.04)
+.47(.04)
+.15(.04).43(.05)
+.46(.06)
+Figure 1. SEM model for traditional instruction (mathematics)
+66 D. Hogan et al.
+© 2013British Educational Research Association
+
+=== PAGE 11 ===
+classroom practice. But, in addition, all three of these strategies in turn have direct
+pathways to a focus on memorization, with a particularly strong pathway from text-
+book focus to memorization (.46). Further, there are a series of indirect pathways
+from exam preparation to memorization. All together these indirect pathways add up
+to a substantial effect size of .42 if we multiply out and add up all the individual coeffi-
+cients ((.47 *.46) + (.34*.25) + (.18*.15) + (.18*.21*.25) + (.47*.31*.25) + (.47.
+*43*.15) + (.47*.43*.21*.25)). Effect sizes of this kind should be interpreted in much
+the same way as Cohen’s d; in this case, an effect size of .42 is, by convention, consid-
+ered a small to moderate effect size. As a standard SEM convention, unstandardized
+estimates are reported throughout this article (see Brown, 2006; Kline, 2011).
+Although standardized coefficients are often used to infer the magnitude of parameter
+estimates, there is no reason why unstandardized estimates cannot be interpreted as
+effect sizes since all measures adopted a similar response metric (i.e., 1 to 5) (see
+Preacher & Kelley, 2011). Moreover, as single-item latent variable models were used,
+comparisons between standardized estimates found no appreciable differences, and
+even if differences were observed, they were often found at the second or third deci-
+mal point.
+In Secondary 3 English (Figure 2), model fit is also very good (although not quite
+as good as in mathematics). Exam preparation, similarly, has a pervasive and
+substantial impact on all other traditional instruction practices: textbook focus (.38),
+a focus on worksheets and workbooks (.35), drill and practice of basic facts, rules and
+procedures (.54), and memorization (.32). Exam preparation, drill and worksheet
+focus in turn have direct pathways to a focus on memorization (.32, .41 and .17,
+respectively). In addition, there are a series of indirect pathways from exam prepara-
+tion to memorization via textbook focus, worksheet focus and drill. All together these
+direct and indirect pathways from exam preparation to memorization add up to a very
+large effect size of .66 if we multiply out and add up all the coefficients (.32 +
+(.38*.28*.17) + (.38*.28*.20*.41) + (.54*.41) + (.35*.17) + (.35*.20*.41)). This
+result underscores the very substantial leverage exam preparation has over TI prac-
+tices more generally.
+Note: Values represent unstandardized estimates significant at p < .01
+Goodness-of-fit statistics:
+(N = 1027)
+Chi-square/df/p-value 5.569/2/.0617
+CFI/TLI .997/.985
+RMSEA (90% CI)/SRMR .042 (.000–.085)/.012
+Textbook
+Focus
+DrillExam
+PreparaƟon
+Worksheet 
+Focus
+.54(.04) .41(.04)
+.20(.04)
+MemorizaƟon
+.35(.04)
+.38(.04)
+.17(.04).28(.04)
+.32(.04)
+Figure 2. SEM model for traditional instruction (English)
+Assessment and the logic of instructional practice 67
+© 2013British Educational Research Association
+
+=== PAGE 12 ===
+Direct instruction. Direct Instruction (DI) has a well-established and well-deserved
+track record for its ability to promote student learning for a broad variety of learning
+tasks, including the acquisition of content knowledge and procedural skills, and the
+execution of relatively straight forward cognitive tasks (Desforges, 1995; Good &
+Brophy, 2003, Chapter 9; Hattie, 2003, 2009; Rowe, 2003, 2006; Purdie & Ellis,
+2005; NMAP, 2008, Chapter 4). Hattie (2009), however, claims the efficacy of direct
+instruction across a broader range of tasks (with a Cohen’s d effect size of .59),
+although he also employs a relatively broad conception of direct instruction that is
+conceptually close to related notions of mastery learning and active teaching. Our
+specification of DI is narrower and includes five first order constructs: a four-indica-
+tor measure of maximum learning time (e.g., ‘The teacher makes sure that pupils
+focus on the lesson’); a four-indicator measure of review (e.g., ‘The teacher checks
+that pupils understand the lesson’); a six-indicator measure of structure and clarity
+(e.g., ‘The teacher clearly states the objectives of the lesson’, ‘The teacher organizes
+information in an orderly way’, ‘The teacher explains things very clearly’); a single
+indicator measure of time on practice (‘We spend a lot of time practicing what we
+learned’); and a one-indicator measure of frequency of questioning (‘The teacher asks
+the class lots of questions’). The last two scales, having only one indicator each, are
+rather thin and far from what we would like to have, but our modelling of the con-
+structs indicates that they behave sensibly and usefully, statistically speaking.
+The results of the confirmatory factor analysis, reported in summary form in
+Table 5, indicate good fit statistics in both subjects. Factor loadings in both subjects
+range from the high (.918, .958 respectively in mathematics and English) to the mod-
+erately low (.587, .586). There was only one significant error covariance in either sub-
+ject between the sole frequency of questioning indicator (‘the teacher asks the class
+lots of questions’) and the sole indicator of the frequency of practice.
+The mean scores, standard deviations, alphas and effect sizes for the DI scales are
+reported in Table 6. In both mathematics and English, maximum learning time
+Table 5. CFA higher order factor loadings and goodness-of-fit statistics: direct instruction,
+Secondary 3 mathematics and English
+Mathematics English
+Respecified higher order model Respecified higher order model
+Higher-order factor loadings:
+Revision (4) .918 (.015) .958 (.015)
+Structure and clarity (6) .849 (.015) .838 (.016)
+Maximum learning time (4) .828 (.016) .859 (.015)
+Time on practice (1) .677 (.023) .689 (.024)
+Frequency of questioning (1) .587 (.026) .586 (.027)
+Goodness-of-fit statistics:
+Chi-square/df/p-value 127.377/61/.0000 166.298/61/.0000
+CFI/TLI .991/.989 .985/.981
+RMSEA (90% C.I.) .031 (.023 –.038) .041 (.034 –.049)
+SRMR .020 .024
+68 D. Hogan et al.
+© 2013British Educational Research Association
+
+=== PAGE 13 ===
+scores the highest mean values, followed by structure and clarity and review. These
+are important findings that highlight key strengths of Singaporean pedagogy and play
+important roles in shaping the overall structure of instructional methods.
+As we did before with Traditional Instruction, we can also examine the strength of
+the relationships between the DI measures by looking at correlation coefficients
+(Table 7). Again, the coefficients are sensible and slightly higher in general in English
+than they are for mathematics. However, the absolute values of the coefficients are
+generally higher than they are in TI.
+But, as with TI, correlation coefficients do not help us understand the strength of
+the relationships between the practices controlling for the confounding influence of
+other practices. Again, we can represent the strength of these relationships with struc-
+tural equation models (Figures 3 and 4). The DI SEM model for both English and
+mathematics fit the data exceptionally well, although the model fit is not quite as
+strong in English as it is for mathematics. Still, the internal pathway structure of the
+two broad instructional strategies are very similar, although not identical, in that DI
+for English includes a non-recursive relationship between teacher revision and fre-
+quency of practice missing in mathematics. All the structural relationships repre-
+sented by the model are strong and statistically significant. On balance, coefficients
+are slightly higher in English. In our construction and interpretation of both the math-
+ematics and English models we drew upon conventional conceptions of direct
+instruction and John Hattie’s (2009) account of visible teaching and learning to
+Table 6. Direct instruction, Secondary 3 mathematics and English
+Mathematics English
+dMean (1–5) SD Mean (1 –5) SD
+N 1166 1027
+Direct instruction
+(alpha: .844, .850)
+3.61 .668 3.53 .65 .12
+Maximum learning time (4) 3.89 .767 3.84 .78 .06
+Structure and clarity (6) 3.61 .812 3.56 .78 .06
+Teacher revision (4) 3.59 .835 3.52 .77 .09
+Frequency of practice (1) 3.49 .952 3.30 .94 .20
+Frequency of questioning (1) 3.47 .946 3.44 .91 .03
+Table 7. Latent correlation matrix: direct instruction for mathematics and English (mathematics
+to the left of the diagonal; English to the right)
+MLT REV SNC FOQ FOP
+Maximum learning time .85 .72 .48 .53
+Teacher revision .78 .78 .55 .67
+Structure and clarity .70 .77 .53 .64
+Frequency of questioning .47 .55 .51 .58
+Frequency of practice .53 .60 .62 .61
+Note: All correlations significant at p < .01.
+Assessment and the logic of instructional practice 69
+© 2013British Educational Research Association
+
+=== PAGE 14 ===
+hypothesize that structure and clarity would perform a similar structuring or organizing
+role in direct instruction as exam preparation does in traditional instruction. Accord-
+ingly, we have treated it as an exogenous variable in both models.
+In mathematics, for example, there are strong pathways from structure and clarity
+to maximum learning time (.70), indicating that teachers who have structure and
+clarity in their lessons are very likely to maximize learning time in their classes. In
+English the pathway is slightly stronger (.72). Structure and clarity also has a strong
+Note: Values represent unstandardized estimates significant at p < .01
+Goodness-of-fit statistics:
+(N = 1166)
+Chi-square/df/p-value 2.296/3/.5134
+CFI/TLI 1.00/1.00
+RMSEA (90% CI) .000 (.000 –.04)
+SRMR .006
+Teacher 
+Revision
+Structure & 
+Clarity
+Maximum
+Learning
+Time  
+Frequency of 
+QuesƟoning
+.70(.03) .43(.04) .30(.04)
+.48(.04)
+Frequency 
+of PracƟce
+.31(.06)
+.43(.04)
+.39(.06)
+Figure 3. SEM model for direct instruction (mathematics)
+Note: Values represent unstandardized estimates significant at p <. 0 1
+Goodness-of-fit statistics:
+(N = 1027)
+Chi-square/df/p-value 4.421/2/.1097
+CFI/TLI .999/.994
+RMSEA (90% CI) .034 (.000–.079)
+SRMR .008
+Teacher
+Revision 
+Structure &
+Clarity 
+Maximum
+Learning T 
+Frequency of
+PracƟce 
+.72(.03)
+.27(.05)
+.33(.05)
+.58(.04)
+Frequency
+of
+QuesƟoning  
+.14(.05)
+.37(.05)
+.47(.07)
+.23(.08)
+Figure 4. SEM model for direct instruction (English)
+70 D. Hogan et al.
+© 2013British Educational Research Association
+
+=== PAGE 15 ===
+direct pathway to teacher revision in mathematics (.43) (a measure of the extent to
+which teachers revise the work they have done with students previously), and a some-
+what weaker pathway to teacher revision in English (.27), a finding consistent with
+the conventional folk wisdom about the relative importance of revision in mathemat-
+ics. The pathway from structure and clarity in mathematics to frequency of practice is
+also strong (.39), and even stronger in English (.47), which probably reflects the
+greater attention in English to practicing genre-based work rather than drilling. All
+three of these pathways are theoretically and practically sensible in both subjects. In
+mathematics both teacher revision (.30) and frequency of practice (.43), in turn, have
+direct pathways to frequency of questioning, our key outcome measure in the model.
+In English, the two pathways to frequency of questioning have coefficients of .33 (tea-
+cher revision) and .37 (frequency of practice) respectively.
+Intriguingly, there are no statistically significant direct pathways from structure and
+clarity to frequency of questioning in either mathematics or English. Instead, the
+effect of structure and clarity on frequency of questioning is indirect in both subjects,
+with a total, and very substantial, effect size of .495 in mathematics and .490 in
+English. This is an important finding, underscoring the complementary role that tea-
+cher questioning can play in enhancing the structure and clarity, and hence the visibil-
+ity of teaching and learning, to both teachers and students. In English there is also a
+non-recursive relationship between teacher revision and frequency of practice, with a
+coefficient of .23 for the pathway from teacher revision to frequency of practice, and a
+weaker but still significant pathway from frequency of practice to teacher revision
+(.14). This too makes pedagogical sense, in that it suggests that not only do teachers
+use revision as a springboard to practice, as we would expect teachers to do, but they
+also respond to practice with additional revision if they feel that the students do not
+quite understanding what they need to learn. In mathematics the relationship is one
+way, from teacher revision to frequency of practice (.30), suggesting in this matter at
+least, that mathematics teachers could learn a thing or two from their English
+colleagues.
+Note: Values represent unstandardized esƟmates signiﬁcant at p < .01
+Goodness-of-fit staƟsƟcs:
+(N = 1166)
+Chi-Square / df / p-value 38.300 / 19 / .0054
+CFI / TLI .996 / .990
+RMSEA (90% CI)/ SRMR .030 (.016 -.043) /. 0 1 2
+Exam
+PreparaƟon
+Teacher
+Revision
+Structure &
+Clarity
+Maximum
+Learning Time
+Frequency of
+QuesƟoning
+.34(.05)
+.46(.04)
+.10(.04)
+.17(.05)
+.23(.04)
+.13(.05)
+.19(.05)
+.28(.05)
+.14(.05)
+.16(.05)
+Frequency of
+PracƟce
+Textbook
+Focus
+Drill
+Worksheet
+Focus
+MemorizaƟon
+.25(.06)
+.48(.04)
+.18(.04)
+.43(.05)
+.34(.04)
+.33(.05)
+.25(.05)
+.16(.04)
+.45(.06)
+.20(.04)
+.44(.04)
+.31(.05)
+.17(.06)
+.56(.03)
+.29(.04)
+.13(.04)
+Figure 5. SEM model for traditional and direct instruction (mathematics)
+Assessment and the logic of instructional practice 71
+© 2013British Educational Research Association
+
+=== PAGE 16 ===
+The next step in our analysis was to examine the relationships between the TI and
+the DI models. We first conducted an integrated CFA of the two sets of measures
+followed by an integrated SEM model that incorporated both TI and DI practices
+(Figures 5 and 6). We only report the SEM results here. A number of features of the
+integrated SEM models should be highlighted.
+First, the internal structure of the two sets of instructional strategies remained
+remarkably stable in the models, with almost identical networks of pathways in the
+integrated models that we achieved separately and discussed above. Second, there is
+significant asymmetrical interaction between the TI and DI instructional strategies.
+Indeed, in mathematics, all the TI constructs have pathways leading to DI constructs,
+but none in the reverse direction. This is true as well of English with but one excep-
+tion. We tested models that reversed the relationship between DI and TI, as well as
+looked for non-recursive relationships (that is, feedback loops) from DI to TI con-
+structs. In mathematics this was to no avail. Instead we found that our best fitting
+models were ones that ran the pathways from TI to DI. In English, however, we did
+identify one pathway from a DI practice to a TI practice: from revision to textbook
+focus (.25), indicating that teachers often, at least in English, follow up a revision ses-
+sion with a textbook session.
+Third, we concluded that the asymmetrical relationship between TI and DI is prin-
+cipally a function of the institutional leverage exam preparation has over instructional
+practices in Singapore in both subjects. Indeed, there are multiple direct and indirect
+paths from exam preparation to other traditional instructional methods and to direct
+instructional methods. Because we have positioned it (after testing a number of alter-
+native models) as an exogenous variable in the model, it has no pathways into it. But
+in mathematics it has a total of seven pathways leading from it towards other TI vari-
+ables and all but one of the DI measures as well (maximum learning time). Three of
+the coefficients are quite strong —textbook focus (.48), structure and clarity (.46) and
+drill (.34) —but most are small to modest. In English, there are six direct pathways
+Note: Values represent unstandardized estimates significant at p <. 0 1
+Goodness-of-fit statistics:
+(N = 1027)
+Chi-square/df/p-value 47.613/20/.0005
+CFI/TLI .994/.986
+RMSEA (90% CI) .037 (.023–.050)
+SRMR .015
+Exam
+Preparation 
+Teacher
+Revision 
+Structure &
+Clarity 
+Maximum
+Learning
+Time  
+Frequency of
+Questioning 
+.26(.05)
+.52(.04)
+.16(.04)
+.14(.04)
+.34(.04)
+.19(.06)
+.13(.03)
+.17(.05)
+.24(.05)
+Frequency of
+Practice 
+Textbook
+Focus
+Drill
+Worksheet
+Focus 
+Memorization
+.22(.07)
+.21(.06)
+.37(.04)
+.25(.04)
+.54(.04)
+.42(.04).14(.04)
+.18(.04)
+.49(.04)
+.25(.05)
+.23(.08)
+.67(.04)
+.30(.04)
+.27(.06)
+.20(.03)
+.15(.06)
+Figure 6. SEM model for traditional and direct instruction (English)
+72 D. Hogan et al.
+© 2013British Educational Research Association
+
+=== PAGE 17 ===
+from exam preparation to TI and DI practices. However, in English, there are no
+pathways from exam preparation to teacher revision or frequency of questioning,
+indicating that the direct institutional leverage of the examination system over DI
+instructional practices in English is slightly lower than it is in mathematics. But for
+both subjects, all of the pathways are theoretically sensible, and attest to the institu-
+tional authority of the assessment regime over instructional practices in a way that
+strengthens the alignment —or, to change the metaphor, tightens the coupling —of
+classroom instruction and the national assessment regime.
+Fourth, in integrating the two instructional strategies, we positioned the DI out-
+come variable, frequency of questioning, as the outcome variable for the integrated
+model for both subjects. We did so for three reasons: it worked well statistically in our
+SEM model of DI, the importance of teacher questioning and classroom talk more
+generally as a gateway to the co-construction of meaning and conceptual understand-
+ing, and the fact that we were unable to get as good a fitting model with memorization
+as the outcome measure. This is not to say that teachers did not value or employ
+memorization as an instructional strategy —but they employed it rather differently in
+the two subjects. In mathematics, as we know from Table 3, memorization had the
+highest mean score of all the TI instructional practices (4.06), indicating that teachers
+relied on it a lot to promote a particular kind of learning that we can assume reflects
+their preoccupation with exam preparation. Indeed, it is notable that memorization is
+causally dependent on three other instructional methods within TI ensemble: from
+worksheet focus (.16), from textbook focus (. 45) and from drill and practice of basic
+facts, rules and procedures (.25). But while mathematical teachers clearly find memo-
+rization useful as a follow up to other traditional instructional methods, they do not
+find it particularly useful as a platform to scaffold further instructional strategies.
+Rather, they are more likely to use it as a means of completing a teaching –learning
+sequence than begin a new one. In English, on the other hand, the mean score (3.47)
+indicates that English teachers rely relatively less on memorization than mathematics
+teachers do, but they also view it as more potent, instructionally generative and
+instrumentally useful than their mathematics colleagues.
+Fifth, overall, the total effect size, including both direct and indirect pathways from
+exam preparation to frequency of questioning, our key outcome practice, for mathe-
+matics is .53 (.17 + .36). For English, it is .48 (indirect effect only as the direct path
+was not statistically significant).
+Sixth, in Table 3 we reported that focus on textbooks has a relatively high mean
+score (3.83) in Secondary 3 mathematics and a relatively low score in English (3.35).
+In the SEM model for mathematics, textbook focus has only one pathway leading into
+it—from exam preparation —but it is highly generative in its impact on other instruc-
+tional practices, with seven pathways leading from it to other instructional practices.
+Three of these are to other TI practices (drill (.33), memorization (.45) and work-
+sheet focus (.43). All of these coefficients are substantial and theoretically meaning-
+ful, indicating that the use of textbooks is a prelude to (and therefore predicts) the
+other three TI practices. Four other pathways from textbook focus in mathematics
+lead to four DI practices: structure and clarity (.13), maximum learning time (.19),
+frequency of practice (.28) and frequency of questioning (.13). Overall, the total
+effect size of the pathways from textbook focus to frequency of questioning is .17. In
+Assessment and the logic of instructional practice 73
+© 2013British Educational Research Association
+
+=== PAGE 18 ===
+English, the textbook focus is much less strong and pervasive in its impact. Like
+mathematics, it only has one pathway into it, from exam preparation (.21), but unlike
+mathematics, it only has three (rather than seven) pathways leading from it: to work-
+sheet focus (.25), frequency of practice (.13) and frequency of questioning (.14). This
+suggests that English teachers rely less on textbooks to shape their instruction than
+teachers do in mathematics. However, the SEM model indicates that there is moder-
+ately strong feedback loop from teacher revision (.27) back into textbook focus, indi-
+cating that teachers often follow up a revision session with a return to the textbook in
+use, and so the cycle begins again.
+Seventh, two DI practices play structurally important roles generatively: structure
+and clarity, and teacher revision. In mathematics, structure and clarity is predicted by
+three TI practices, two of them with substantial coefficients: textbook focus (.13),
+drill (.29) and exam preparation (.46). This is an important finding, attesting to
+the causal importance of TI, particularly exam preparation, given the size of its
+coefficient, to the enactment of DI practices. In English, structure and clarity is pre-
+dicted by three TI practices: drill (.30) and exam preparation (.52). No DI practices
+predicted structure and clarity in either mathematics or English. In turn, as a predic-
+tor variable, in both mathematics and English, structure and clarity has three path-
+ways from it to other DI practices: maximum learning time (.56 and .67 respectively),
+teacher revision (.31 and .25 respectively) and frequency of practice (.25 and .22
+respectively). There is no statistically significant pathway from structure and clarity to
+frequency of questioning in either mathematics or English, replicating our finding of
+the SEM model of DI above. But structure and clarity does have an indirect effect on
+frequency of questioning through four pathways in mathematics and English —from
+structure and clarity to maximum learning time (MLT) to teacher revision to fre-
+quency of questioning; from structure and clarity to teacher revision to frequency of
+questioning; from structure and clarity to teacher revision to frequency of practice to
+frequency of questioning; and from structure and clarity to MLT to teacher revision
+to frequency of practice to frequency of questioning. The combined indirect effects
+sum up to a moderate effect size of .21 in mathematics and .23 in English. This again
+is an important finding, in that it underscores not only the multiplier effects that
+structure and clarity has on other instructional practices, but its ability to help gener-
+ate ‘visible’ teaching and learning.
+Eighth, a second DI practice, teacher revision, also plays a pivotal role in the inte-
+grated model. In mathematics, revision is predicted by three practices: two fraternal
+DI practices —MLT (.44) and structure and clarity (.31) —and one first cousin TI
+practice, the ubiquitous exam preparation (.23). Teacher revision in turn predicts fre-
+quency of questioning through two pathways: directly (.16) and indirectly through
+frequency of practice (.17 *.34) for a total effect size of .22 for mathematics and .25
+for English. In English, we observed some similar but also some unique pathways into
+and out of revision. Similar to mathematics, revision is predicted by maximum learn-
+ing time (.49) and structure and clarity (.25). However, a unique predictor of revision
+found in English, but not mathematics, is memorization (.20). Revision goes on to
+predict frequency of questioning directly (.19), but also indirectly through frequency
+of practice (.23 *.26) for a total effect size of .25. However, we found a significant
+effect for a feedback loop connecting revision and textbook focus (.27), and again the
+74 D. Hogan et al.
+© 2013British Educational Research Association
+
+=== PAGE 19 ===
+cycle repeats itself —through worksheet focus, drill and memorization, including
+some other indirect pathways through structure and clarity and maximum learning
+time—resulting in an increased effect size of .30 from revision to frequency of ques-
+tioning. This feedback is unique to English and together with the effect of memoriza-
+tion on teacher revision which we found earlier, they suggest that perhaps traditional
+instruction is more visible as a pedagogical practice among English teachers.
+Finally, in mathematics, frequency of practice is predicted by two DI practices and
+two TI practices: structure and clarity (.25), teacher revision (.17), textbook focus
+(.28) and exam preparation (.14). In turn it has a solitary but relatively substantial
+pathway from it to frequency of questioning (.34). In English, it is predicted by three
+instructional practices: memorization (.17), textbook focus (.13) and exam prepara-
+tion (.15), but it in turn predicts frequency of questioning (.26), indicating that teach-
+ers often follow up a practice session with more questioning, surely sensible.
+Overall then, the SEM for TI and DI mathematics generates a good fitting model
+with a dense, asymmetrical network of pathways leading from the TI ensemble of
+instructional practices, exam preparation above all, to the DI instructional practices
+with a high value instructional practice, frequency of questioning, as the key outcome
+variable. However, the density and strength of these pathways casts considerable
+doubt on the idea that we can view TI and DI as discrete instructional categories and
+underscores the wisdom of viewing them, at the construct level, as constituting an
+integrated, theoretically meaningful hybridic model of instructional practice and that
+underscores the exceptionally strong institutional leverage of the assessment system
+over instructional practice in Singapore. In English, likewise, the SEM model for TI
+and DI is very strong but it also generated a slightly less asymmetrical model between
+TI and DI because of the non-recursive feedback from teacher revision to textbook
+focus. In addition, English teachers appear to make much greater instrumental use of
+memorization focus to leverage additional instructional practices than do mathemat-
+ics teachers.
+Teaching for understanding (TfU) and co-regulated learning strategies. In this section we
+want to consider two quite closely related scales: a teaching for understanding scale
+that draws substantially on existing teaching for understanding frameworks, and a co-
+regulated learning strategies scale that draws heavily on research on metacognitive
+self-regulation. Initially, we considered the latter an aspect of the former, but confir-
+matory factor analysis and a number of theoretical considerations convinced us to
+consider them separately, although the two are, if not identical twins, closely related
+siblings, theoretically speaking.
+What we have called the teaching for understanding (TfU) framework shares a
+common intellectual sensibility (if not identical constructs) with Harvard Univer-
+sity’s Project Zero’s Teaching for Understanding framework (Perkins, 1993) and
+Good and Brophy’s expansive account of ‘teaching for understanding’ that draws in
+turn on a variety of intellectual resources particularly constructivist (and particularly
+social constructivist) models of knowledge, learning and teaching (Brophy, 2002,
+2004; Good & Brophy, 2003, Chapter 10). But we have also drawn on other theo-
+retical resources as well: the Understanding by Design framework developed by Wig-
+gins and McTighe (2005); the ‘authentic pedagogy’ of Newmann and his
+Assessment and the logic of instructional practice 75
+© 2013British Educational Research Association
+
+=== PAGE 20 ===
+colleagues at the University of Wisconsin (Newmann et al ., 1995); conceptions of
+‘thoughtful discourse’, ‘dialogical teaching’ and ‘understanding talk’ variously
+developed by Douglas Barnes (1992, 2008), Robin Alexander (2001, 2008), Neil
+Mercer and his colleagues (Mercer, 1992; Mercer & Littleton, 2007; Hodgkinson &
+Mercer, 2008), Courtney Cazden (Cazden, 1988), Lauren Resnick (Resnick et al .,
+2010), Sarah Michaels and colleagues (Michaels et al ., 2002, 2004, 2008),
+Nystrand and colleagues (Nystrand et al ., 1999, 2001) and John Hattie’s recent and
+important account of ‘active teaching’ and ‘visible learning’ (2009, 2012). Our
+attention to co-regulated learning strategies (CRLS) reflects a research judgment
+reached over the past couple of decades that metacognitive self-regulation is a
+strong determinant of academic achievement and a key capacity for successful nego-
+tiation of twenty-first century institutions (OECD, 1999; Good & Brophy, 2003;
+Galton, 2007; James et al ., 2007; Hacker et al ., 2009; Hattie, 2009, 2012; Zimmer-
+man & Schunk, 2011).
+Our initial specification of the teaching for understanding (TfU) framework
+focused on the following 12 scales, subsequently reduced to 11 when we combined
+the 3rd and 4th indicators because of very high collinearity:
+(1) An effective focus on developing on understanding (six indicators; e.g., ‘The tea-
+cher’s explanations really help me understand the topic’; ‘Class discussions
+really help me understand the topic’).
+(2) Asking high quality questions designed to prompt students to think about their
+learning (four indicators; e.g., ‘The teacher asks good questions to see if we
+really understand’; ‘The teacher’s questions help us to think deeply’; ‘The tea-
+cher asks lots of questions that open up discussion’).
+(3) Communicating learning goals (four indicators; e.g., ‘The teacher tells us the learn-
+ing objectives of the lesson’).
+(4) Communicating performance standards (four indicators; e.g., ‘The teacher explains
+the standard of good performance in our tests and exams’).
+(5) Actively attempting to engage students in the work of the class by exciting student
+interest and curiosity (five indicators; e.g., ‘The teacher makes mathematics/
+English really interesting’).
+(6) Flexible teaching: adjusting instructional methods when appropriate as the task or
+levels of student engagement require (three indicators; e.g., ‘The teacher tries
+different kinds of teaching to help us understand better’; ‘The teacher changes
+the speed of the lesson’).
+(7) Engaging students in meaningful class discussions (one indicator; e.g., ‘The tea-
+cher supports long class discussions about topics’).
+(8) Support for collaborative group work (two indicators; e.g., ‘The teacher encour-
+ages students to work as a team in group work’).
+(9) Teacher scaffolding of group work to ensure that students work together collabora-
+tively rather than simply alongside each other (three indicators; e.g., ‘The
+teacher shows us how to work together in groups’).
+(10) Continuous teacher monitoring of student learning —i.e., feedback from the stu-
+dent to the teacher (four indicators; e.g., ‘The teacher asks the class questions to
+see how well we understand the topic at the beginning of the class’).
+76 D. Hogan et al.
+© 2013British Educational Research Association
+
+=== PAGE 21 ===
+(11) Regular personal feedback from teachers to students about the quality of their
+work (five indicators; e.g ., ‘The teacher gives me personal comments on my
+homework’).
+(12) Regular collective feedback from teachers to students about the quality of their
+work (five indicators; e.g., ‘The teacher gives the class detailed comments on
+exams or tests’).
+We report the results of the TfU CFAs for mathematics and English in Table 8. Fit
+statistics are very good for both subjects. In addition, in both subjects, quality of ques-
+tioning and focus on learning have the highest factor loadings. This is an especially
+important finding, indicating that both of these constructs are close to the centre of
+the covariance structure of the larger TfU construct. The strength of flexible teaching
+is also notable, emphasizing the pivotal importance of flexible teaching to the TfU
+framework and supporting the decision to include it in the TfU scale rather than the
+DI scale. The strength of the monitoring of student learning aligns very well with the
+arguments of Hattie (2009, 2012) and others regarding the critical contribution of
+monitoring to visible teaching and learning. Factor correlations fall within an accept-
+able range (Table 10), except for two (focus on learning and quality of questioning,
+and monitoring student learning and quality of questioning) which are both high and
+Table 8. CFA higher order factor loadings and goodness-of-fit statistics: teaching for
+understanding, Secondary 3 mathematics and English
+Mathematics English
+Respecified higher order model Respecified higher order model
+Higher-order factor loadings:
+Quality of questioning (4) .906 (.011) .919 (.010)
+Focus on learning (6) .882 (.013) .933 (.010)
+Communicating learning
+goals and performance
+standards (8)
+.873 (.011) .885 (.011)
+Monitoring student
+learning (4)
+.851 (.013) .880 (.014)
+Flexible teaching (2) .820 (.019) .854 (.019)
+Collective feedback (4) .572 (.024) .487 (.028)
+Collaborative group
+work (2)
+.570 (.027) .699 (.022)
+Curiosity and interest (4) .565 (.024) .518 (.026)
+Teacher scaffolding of
+group work (3)
+.549 (.024) .737 (.019)
+Whole class discussion (1) .545 (.026) .686 (.022)
+Personal feedback (4) .528 (.026) .427 (.029)
+Goodness-of-fit statistics:
+Chi-square/df/p-value 1653.505/722/.0000 1359.798/722/.0000
+CFI/TLI .966/.964 .974/.972
+RMSEA (90% C.I.) .033 (.031 –.035) .029 (.027 –.032)
+SRMR .034 .028
+Assessment and the logic of instructional practice 77
+© 2013British Educational Research Association
+
+=== PAGE 22 ===
+statistically significant, indicting substantial error covariance. However, we thought
+all the error covariances theoretically justified and adjusted for them in the final
+respecified model.
+In English, the strong factor loadings were led by focus on learning (.933), quality
+of questioning (.919), communicating goals and standards (.885), monitoring stu-
+dent learning (.880) by and flexible learning (.854).The stronger factor loadings for
+focus on learning and quality of questioning in English than in mathematics are espe-
+cially notable —and not a little surprising. Inter-factor correlations are all reasonable
+(see Table 10), as are error covariances. Finally, apropos our decision to include flexi-
+ble teaching in the TfU rather than the DI scale, it is worth noting that flexible teach-
+ing has the strongest factor loadings in both mathematics and English.
+In Table 9 we report the mean scores and standard deviations for the two TfU
+scales in both subjects. Overall, the mean scores for TfU were substantially lower
+than the mean scores for TI and DI for both subjects: 3.38 in mathematics, and 3.43
+in English. However, within subjects mean scores differences between scales are quite
+large. In mathematics, for example, the mean scores range from a low 2.79 for teacher
+scaffolding of group work to 3.59 for collective feedback. In English, mean scores var-
+ied from a low of 3.21 for whole class discussion to a high of 3.58 for collective feed-
+back and 3.55 in communicating goals and standards.
+From a theoretical perspective, the relative strength of communicating learning
+goals and standards, collective feedback, flexible teaching, and monitoring student
+learning all indicate the implicit but relatively substantial commitment of Singapore’s
+teachers to a ‘visible’ model of teaching and learning (Hattie, 2009). Indeed, we think
+this is a good news story, pedagogically speaking, although the weak score for per-
+sonal feedback indicates a major gap in the instructional repertoire of Singapore’s
+Table 9. Teaching for understanding, Secondary 3 mathematics and English
+Mathematics English
+dMean (1–5) SD Mean (1 –5) SD
+N 1166 1027
+Teaching for Understanding scale 3.38 .602 3.43 .564 .09
+Collective feedback 3.59 .805 3.58 .766 .01
+Communicating learning goals
+and performance standards
+3.57 .771 3.55 .681 .03
+Flexible teaching 3.57 .873 3.47 .829 .12
+Monitoring student learning 3.46 .801 3.48 .724 .03
+Personal feedback 3.43 .829 3.47 .838 .05
+Focus on learning
+(understanding)
+3.36 .710 3.43 .704 .10
+Quality of questioning 3.34 .790 3.41 .733 .09
+Curiosity and interest 3.25 .898 3.33 .894 .09
+Whole class discussion 2.97 1.040 3.21 .929 .24
+Collaborative group work 2.87 .962 3.28 .831 .46
+Teacher scaffolding of group
+work
+2.79 1.023 3.28 .849 .52
+78 D. Hogan et al.
+© 2013British Educational Research Association
+
+=== PAGE 23 ===
+Table 10. Latent correlation matrix: teaching for understanding for mathematics and English
+FT FOL QTQ SCF MSL PFB CFB CNI CLGPS CGW WCD
+Flexible teaching (FT) .73 .73 .46 .70 .42 .47 .44 .73 .46 .44
+Focus on learning (FOL) .78 .79 .47 .74 .46 .52 .50 .80 .48 .43
+Quality of questioning (QTQ) .78 .87 .53 .79 .47 .51 .52 .77 .57 .55
+Teacher scaffolding of group work (SCF) .64 .72 .66 .46 .32 .30 .34 .45 .80 .58
+Monitoring student learning (MSL) .78 .79 .81 .65 .44 .47 .46 .74 .48 .46
+Personal feedback (PFB) .41 .37 .38 .33 .39 .81 .72 .47 .32 .31
+Collective feedback (CFB) .47 .41 .45 .38 .44 .78 .77 .53 .26 .23
+Curiosity and interest (CNI) .49 .47 .47 .36 .46 .73 .78 .50 .34 .33
+Communicating learning goals and
+performance standards (CLGPS)
+.74 .84 .81 .63 .81 .38 .45 .45 .47 .47
+Collaborative group work (CGW) .63 .66 .64 .82 .62 .35 .35 .38 .60 .77
+Whole class discussion (WCD) .59 .66 .65 .62 .58 .33 .34 .38 .57 .69
+Note: All correlations significant at p < .01. Correlations for mathematics are to the left of the diagonal and English to the right.
+Assessment and the logic of instructional practice 79
+© 2013British Educational Research Association
+
+=== PAGE 24 ===
+teachers in both English and mathematics. More broadly, the relatively low scores for
+focus on learning and quality of questioning are especially troubling while the particu-
+larly low scores for collaborative group work, whole class discussion, scaffolding of
+group work, curiosity and interest and personal feedback points to critical weak spots
+from a TfU perspective, particularly with regard to the value of classroom talk as a
+means of co-constructing meaning and developing conceptual understanding.
+Correlations between the latent TfU measures are reported in Table 10. In gen-
+eral, in both subjects, these are moderate to large. The strength of the correlations
+between focus on learning and the remaining TfU variables, is particularly notable
+and affirmative of the empirical, as well as theoretical, warrant for the TfU scale. We
+consider the SEM models for TfU and CRLS jointly in light of their intimate concep-
+tual (and, as it turns out, empirical) relationship (Figures 7 and 8).
+As we have seen, our TfU scale is based on 11 separate (but relatively highly inter-
+correlated) subscales. The co-regulated learning strategies scale (CRLS) scale is a
+second order construct that builds on three multi-item first order scales for self-direc-
+ted learning, self-assessment, and peer assessment and draws on recent theoretical lit-
+erature (National Research Council, 2000, pp. 14 –18; Paris & Paris, 2001; Nota et
+al., 2004; Mok et al ., 2006; James et al ., 2007, pp. 3, 5; Darling-Hammond, 2008;
+Hacker et al., 2009; Hattie, 2009; Zimmerman & Schunk, 2011). Meanwhile, a num-
+ber of researchers have given considerable thought to how students might learn meta-
+cognitive self-regulation. Dylan Wiliam, for example, argues that peer and self-
+assessment is a particularly effective mechanism for developing the classroom as a co-
+regulated learning environment (CRLE) and cultivating metacognitive self-regulation
+and student management of their learning (Black et al ., 2003, pp. 49 –56; Wiliam,
+2007, pp. 1076–1084).
+As an example, our specification of the CRLS and the CFA for the three compo-
+nent sub-scales for English are reported below in Table 11. The models generated
+Note: All values represent unstandardized estimates significant at p < .01. In brackets are standard errors. Double-headed curved arrows denote correlated 
+latent disturbances.
+Goodness-of-fit statistics: mathematics
+(N = 1166)
+Chi-square/df/p-value 75.248/49/.0094
+CFI/TLI .997/.996
+RMSEA (90% CI) .021 (.011–.03)
+SRMR .015
+.14(.03)
+.70(.04)
+.43(.04)
+.20(.04)
+.23(.05)
+.35(.05)
+.36(.05)
+.28(.06)
+.28(.04) .43(.04)
+.49(.06)
+.37(.04)
+.40(.04)
+Monitor 
+Student Learn
+CollecƟve 
+Feedback 
+Focus  on 
+Learning 
+Comm 
+Goals/stan 
+Teacher 
+Scaﬀolding
+Quality of 
+QuesƟon 
+Flexible 
+Teaching 
+Curiosity & 
+Interest 
+Personal 
+Feedback 
+.31(.04) 
+.24(.05)
+.63(.04)
+.57(.04) 
+.11(.03)
+Whole Class 
+Disc 
+CollaboraƟve 
+GpWk
+.55(.03)
+.61(.04)
+.12(.03) 
+.12(.03)
+.25(.04)
+CRLS 
+.63(.04)
+.19(.03)
+.15(.04)
+.13(.03)
+Figure 7. SEM model for Teaching for Understanding and co-regulated learning strategies:
+mathematics
+80 D. Hogan et al.
+© 2013British Educational Research Association
+
+=== PAGE 25 ===
+strong goodness-of-fit statistics and factor loadings. All three scales are also highly —
+but not too highly —correlated. Factor loadings are all quite high, with one especially
+high (personal assessment in English), a result that is not statistically troublesome but
+that suggests that at least in English, personal assessment is an exceptionally proxy
+for, and is indistinguishable from, the higher order latent construct (CRLS).
+Table 12 reports the mean values, standard deviations and effect sizes of our mea-
+sures for CRLS. What they indicate is that in 2010, teachers provided moderate
+opportunities for self-directed learning, but far fewer opportunities for self-assess-
+ment or peer assessment in both mathematics and English. The findings also indicate
+that opportunities for CRLS are stronger in Secondary 3 English classes than in Sec-
+ondary 3 mathematics classes.
+Figures 7 and 8 report the TfU/CRLS SEM models for mathematics and English
+respectively. (We also ran the TfU models separately with focus on learning rather
+than CRLS as the key outcome variable, but since the results are almost identical to
+the combined TfU/CRLS models, we have decided to report on the latter only here.)
+Both models have exceptional good fit, rich, sensible and suggestive networks of path-
+ways, strong coefficients, and theoretical gravitas. The selection of focus on learning
+as the key outcome variable in the TfU models reflects our argument earlier that it
+indexes the degree to which teachers focus on their instruction on meaning making
+and developing student understanding at the heart of the TfU model generally. CRLS
+as an outcome measure, on the other hand, identifies the extent to which teachers
+seek to give students the opportunity to manage their own learning in line with the
+substantial research on metacognition that underscores its importance in student
+learning. In both subjects CRLS is positioned as an endogenous outcome measure
+rather than a mediating variable that predicts variation in focus on learning. We also
+attempted to see whether we could position CRLS as a predictor of focus on learning,
+Note: All values represent unstandardized estimates significant at p < .01, *p < .05. Double-headed curved arrows denote correlated latent 
+disturbances.
+Goodness-of-fit statistics: English
+(N = 1027)
+Chi-square/df/p-value 74.146/52/.0235
+CFI/TLI .997/.996
+RMSEA (90% CI) .020 (.008–.030)
+SRMR 0.17
+.26(.04)
+.65(.04)
+.52(.06)
+.28(.06)
+.16(.05)
+.38(.05)
+.32(.05)
+.30(.05)
+.40(.05) .26(.05)
+.53(.05)
+.29(.06)
+.28(.06)
+Monitor 
+Student L
+CollecƟve 
+Feedback 
+Focuson 
+Learning 
+Comm 
+Goals/stan 
+Teacher 
+Scaﬀolding 
+Quality of 
+QuesƟon 
+Flexible 
+Teaching 
+Curiosity & 
+Interest 
+Personal 
+Feedback 
+.20(.05) 
+.40(.04)
+.80(.04)
+.65(.04) 
+Whole Class 
+Disc 
+CollaboraƟve 
+GpWk
+.47(.07)
+.43(.04)
+.16(.03)
+.43(.04)
+.25(.07)
+CRLS 
+.87(.05)
+*.10(.05)
+Figure 8. SEM model for Teaching for Understanding and co-regulated learning: English
+Assessment and the logic of instructional practice 81
+© 2013British Educational Research Association
+
+=== PAGE 26 ===
+Table 11. CFA co-regulated learning in Secondary 3 English
+Variable
+Standardized parameter estimates
+Initial model Respecified model
+11 items 10 items
+Self-directed learning
+The teacher encourages us to set
+our own learning goals
+.755 (.013) .758 (.013)
+The teacher encourages us to
+identify strategies to achieve our
+learning goals
+.823 (.011) .821 (.011)
+The teacher encourages us to
+check frequently that our work is
+acceptable
+.764 (.013) .764 (.013)
+Personal assessment
+The teacher asks us to grade our
+own work
+.729 (.013) .733 (.013)
+The teacher explains how we can
+grade our own work
+.788 (.011) —
+The teacher expects us to discuss
+our own grading of our own work
+.796 (.011) .813 (.011)
+The teacher encourages us to
+comment on our own work
+.798 (.011) .810 (.011)
+Peer assessment
+The teacher asks students to grade
+each other’s work
+.815 (.010) .816 (.010)
+The teacher explains how we can
+grade each other’s work
+.805 (.010) .800 (.010)
+The teacher expects us to discuss
+our grading of each other’s work
+.825 (.010) .827 (.010)
+The teacher encourages us to
+comment on each other’s work
+.810 (.010) .812 (.010)
+Latent correlations:
+Self-directed learning ↔ personal
+assessment
+.851 (.012) .818 (.014)
+Self-directed learning ↔ peer
+assessment
+.666 (.018) .666 (.018)
+Personal assessment ↔ peer
+assessment
+.799 (.013) .783 (.014)
+Higher order factor loading:
+Self-directed learning .842 (.013) .834 (.014)
+Personal assessment 1.01 (.010) .981 (.012)
+Peer assessment .791 (.014) .798 (.014)
+Goodness-of-fit statistics:
+Chi-square/df/p-value 230.847/41/.000 138.695/32/.000
+CFI/TLI .983/.977 .989/.985
+RMSEA (90% C.I.) .052 (.045 –.058) .044 (.037 –.052)
+SRMR .021 .018
+Note: The factor loadings were fixed to equality as the standardized estimates for personal assessment in initial
+model was > 1.0.
+82 D. Hogan et al.
+© 2013British Educational Research Association
+
+=== PAGE 27 ===
+on the grounds that teachers might use CRLS to enhance their focus on learning. But
+the goodness-of-fit statistics with CRLS as a predictor variable is not as strong as the
+excellent goodness-of-fit statistics with CRLS as the outcome variable in the two
+models (in mathematics, a chi-square of 180.349/49/.000 versus 75.248/49/.094; in
+English, 178.412/52/.000 versus 74.146/.52/.0235).
+Before deciding on the final models, we tried a range of alternative models with dif-
+ferent exogenous constructs, including flexible teaching and monitoring student
+learning, but could not make the models work as well (as measured by the goodness-
+of-fit statistics). Beyond this, a number of features of the two models stand out.
+We begin with the two key outcome measures: co-regulated learning strategies
+(CRLS) and focus on learning (FOL). But before we do, it’s important to recall that
+in mathematics, the mean score for CRLS is a very low 3.01, in English, 3.28, indicat-
+ing that teachers do not employ CRLS particularly often, especially in mathematics.
+Nor does the use of CRLS, such as it is, alter the pattern and strength of the overall
+structure of TfU practices in any obvious way in either of the two subjects if we com-
+pare the two TfU SEMS with the CRLS SEMS. Instead, the internal structure of the
+two models remains remarkably stable. In mathematics, CRLS is predicted multivari-
+ately by teacher scaffolding of group work (.19), by whole class discussion (.13), by
+focus on learning (.63) and by communication of learning goals and performance
+standards (.15). All these are theoretically sensible. Of these, by far the strongest and
+most interesting is focus on learning, for what this pathway suggests is that teachers
+do not so much employ CRLS to increase their focus on learning but use a focus on
+learning to scaffold a transition to CRLS. The one construct missing that we also
+expected to predict CRLS is collaborative group work, although there is an indirect
+pathway from it through teacher scaffolding of group work (.70 *.13 = .09). In Eng-
+lish, there are only two statistically significant pathways into CRLS: focus on learning
+(.87) and flexible teaching (.10). Both of these are theoretically sensible. Indeed, all
+told, the source of the strongest indirect effect on CRLS in both subjects is flexible
+teaching.
+We positioned focus on learning as the key endogenous outcome measure in the
+two TfU models and as the penultimate outcome measure in the two CRLS models.
+In both the TfU and CRLS models focus on learning (FOL) shares three predictors
+in both subjects: communication of learning goals and standards (.36 and .32 respec-
+Table 12. Co-regulated learning strategies, Secondary 3 English and mathematics
+Mathematics English
+dMean (1–5) SD Mean (1 –5) SD
+Co-regulated learning
+strategies (Alpha =
+.918, .920)
+3.01 .770 3.28 .688 .37
+Self-directed learning 3.41 .794 3.45 .747 .05
+Self-assessment 2.92 .907 3.20 .782 .33
+Peer assessment 2.80 .945 3.23 .802 .49
+Assessment and the logic of instructional practice 83
+© 2013British Educational Research Association
+
+=== PAGE 28 ===
+tively), quality of questioning (.35 and .38), and flexible teaching (.23 and .16). In
+addition, in mathematics, for example, there are indirect pathways from flexible
+teaching to focus on learning via quality of questioning (.20 *.35 = .07) and commu-
+nicating learning goals (.37 *.36 = .133), while in English there are, for example, the
+following indirect pathways: one via quality of questioning, whole class discussion,
+collaborative group work and teacher scaffolding (.28 *.47*.43*.65*.16 = .005), one
+through whole class discussion, collaborative group work and teacher scaffolding
+(.25*.43*.65*.16 = .011), and the third through collaborative group work, teacher
+scaffolding of group work and focus on learning (.43 *.65*.16 = .04). While the indi-
+rect effects are small, they are theoretically sensible.
+Flexible teaching (FT) functions as a critical lynchpin in all four TfU/CRLS mod-
+els. We know from Table 9 that the mean scores for FT for both mathematics and
+English are moderately high (3.57, 3.47 respectively), relatively speaking, although
+against informal statistical protocols, these means are not especially high. Still,
+although it has only one pathway leading into it (curiosity and interest with a respect-
+able coefficient of .24), in mathematics, it has four pathways leading out of it: moni-
+toring student learning (.63), communication of learning goals and standards (.37),
+focus on learning (.23), quality of questioning (.20). In English, there are seven path-
+ways emanating from FT: monitoring student learning (.80), communication of
+learning goals and standards (.29), focus on learning (.16), quality of questioning
+(.28), whole class discussion (.25), collaborative group work (.43) and self-directed
+learning (.10). Not all of these are substantial coefficients, but one is very substantial
+and the others moderate to strong. We interpret the striking generativity of FT, espe-
+cially in English, to signify the pragmatic, non-sectarian instrumentalism of Singapo-
+rean instruction.
+For some researchers, feedback promises to be the Holy Grail of instructional prac-
+tice. This might well prove to be the case but it’s clear from the mean scores reported
+in Table 9 that teachers in both mathematics and English provide relatively substan-
+tial levels of collective feedback to their students (3.59 and 3.58 for collective feed-
+back respectively), but lower levels of personal feedback to their students (3.43 and
+3.47 respectively). This suggests room for improvement, particularly in the provision
+of personal feedback, given its demonstrable ability to enhance student understanding
+and learning (Black & Wiliam, 1998; Hattie, 2009). This judgement is reinforced by
+the fact that both forms of feedback generate only one pathway each —and both to
+curiosity and interest (.49 and .28 respectively in mathematics, and .53 and .30
+respectively in English). These are significant coefficients, nearly identical across sub-
+jects, and theoretically sensible, since we can easily understand why teachers would
+deliberately use feedback to students to build interest and curiosity among them. The
+oddity is that the coefficients are stronger for collective feedback rather than personal
+feedback, suggesting, given international research findings, that Singaporean teachers
+do not fully exploit the ability of personal feedback to build student engagement as
+much as they might. There are of course multiple indirect effects from the two forms
+of feedback to focus on learning, both going through curiosity and interest, but once
+these are multiplied out, the overall effect size is relatively small (.13 and .17 for
+mathematics and English for collective feedback, and .08 and .10, respectively, for
+personal feedback; Tables 13 and 14). This too reinforces the conclusion that the
+84 D. Hogan et al.
+© 2013British Educational Research Association
+
+=== PAGE 29 ===
+overall generativity of the two modes of feedback is very low. This in itself does not
+challenge the argument of Black and Wiliam and others who have argued for the
+unique strength of the impact feedback on student learning given that we are measur-
+ing instructional practices rather than student learning, but it reinforces the impres-
+sion that Singaporean teachers do not employ feedback as often or as generatively as
+they might.
+A further feature of feedback practices in both mathematics and English is that
+both forms of feedback are predicted by the communication of learning goals and
+standards (and with reasonably robust coefficients, especially in mathematics), and in
+so-doing enhance the visibility of learning processes in the classroom. However, there
+are no pathways from the monitoring of student learning to either of the feedback
+constructs in both models. This is, to put it mildly, paradoxical, for we would nor-
+mally expect teachers to provide feedback only after they have assessed the state of
+student learning in their classroom, not without it. What the absence of these path-
+ways suggests is that teachers do not follow up monitoring with feedback practices.
+However, given the nature of the data we cannot draw firm conclusions on this mat-
+ter—it merely indicates a suboptimal pattern of instructional behavior that we will test
+further with qualitative data in a later publication. We will also use qualitative data to
+follow up on the intriguing pathway from collaborative group work to personal feed-
+back in mathematics. Although small (.12), it is statistically significant and intriguing,
+suggesting teachers occasionally follow up group work with personal feedback to indi-
+vidual students within the group.
+We expected that curiosity and interest would exhibit a dense network of pathways
+backwards and forwards, but we did not find this to be the case. In both mathematics
+and English, personal and collective feedback predicted curiosity and interest,
+although the coefficients for collective feedback are far higher (.49 and .53 respec-
+tively) than they are for personal feedback (.28, .30 respectively). It is also the case
+that in both subjects, teachers provide collective feedback more often than they do
+personal feedback. In effect, teachers are far more likely to follow up collective feed-
+back with activities that engage student interest and curiosity than they do following
+personal feedback. Normatively, this is not optimal, given that research findings gen-
+erally suggests that personal feedback, appropriately given, is far more likely to
+enhance student learning than collective feedback (Hattie, 2009). At the same time,
+however, the generativity of curiosity and interest is quite limited in both subjects. In
+mathematics, there are two pathways from curiosity and interest, one to flexible
+teaching (.24), one to quality of questioning (.11). Apparently, teachers respond to
+student curiosity and interest by becoming more flexible and asking more demanding
+questions. We expected to find that the pathways would go in the opposite direction,
+but when tested, they were not statistically significant. In English there is only one
+generative pathway—to flexible teaching (.40).
+Whereas we included a measure of the frequency of questioning (FOQ) in the
+Direct Instruction scale, we included a measure for quality of questioning (QTQ) in
+the TfU scale designed to capture whether or not the questions teachers ask their stu-
+dents develop their understanding of the topic or task (as in, for example, ‘the teacher
+asks good questions to see if we really understand’). The news on the QTQ front is
+mixed. The bad news is that the mean scores for the QTQ scale in both subjects are
+Assessment and the logic of instructional practice 85
+© 2013British Educational Research Association
+
+=== PAGE 30 ===
+relatively low (3.34 and 3.41 respectively; Table 9). The good news is that QTQ is
+heavily enmeshed in a network of instructional practices. On the one hand, it is pre-
+dicted by communication of learning goals and standards in both mathematics and
+English (.28 and .40 respectively), flexible teaching (.20 and .28) and student moni-
+toring (.28 and .40). Curiosity and interest also predicts QTQ but in mathematics
+only (.11). On the other hand, QTQ predicts other instructional practices in turn:
+focus on learning (.35 and .38), whole class discussion (.55 and .47), collaborative
+group work (mathematics only, .25) and teacher scaffolding of group work (.14, .26).
+In effect, the quality of teacher questioning matters, and matters a lot, especially
+where it counts in generating whole class discussion and a focus on learning.
+We suggested earlier, following John Hattie’s work, that communication of learning
+goals and performance standards (CLGPS) is a key indicator of ‘visible learning’ that
+he found to be highly predictive of successful teaching and learning. We also indi-
+cated that relative to other instructional practices, Singaporean teachers do reasonably
+well in this regard, with a mean score of 3.57 in mathematics and 3.55 in English. 1.
+CLGPS is predicted by monitoring of student learning (.43 and .52 respectively in
+both mathematics and English), and by flexible teaching (.37 and .29 respectively).
+These coefficients are both substantial and theoretically sensible: the first indicates
+that teachers often respond to their monitoring of student learning with statements or
+reiterations of their learning goals and performance standards, while the latter sug-
+gests that teachers, as a part of their repertoire of effective teaching, state or reiterate
+their learning goals and performance standards for the lesson. However, the SEM
+model indicates that teacher communication of learning goals and performance stan-
+dards is not especially generative in its own right, given that it generates only two
+direct pathways in each subject: to focus on learning (.36 and .32 respectively) and to
+quality of questioning (.28 and .40 respectively). However, there is an indirect path-
+way from communication of learning goals and performance standards to focus on
+learning via quality of questioning in both mathematics (.28 *.35 = .10) and English
+(.40*.38 = .152), along with, for example, indirect pathways in English via quality of
+questioning, whole class discussion, collaborative group work and and teacher scaf-
+folding of group work.
+There is by now a substantial body of academic research that has focused on the
+educational value of appropriately structured classroom dialogue —see, for example,
+Barnes (1992, 2008), Alexander (2001, 2008, 2012), Mercer and his colleagues
+(Mercer, 1992; Mercer & Littleton, 2007; Hodgkinson & Mercer, 2008), Cazden
+(1988), Resnick (Resnick et al ., 2010), Nystrand and colleagues (Nystrand et al .,
+1999, 2001), Michaels and colleagues (Michaels et al., 2002, 2004, 2008) and Hogan
+et al. (2012b). While our measure of whole class discussion does not specify key indi-
+cators of ‘dialogue’ per se it does indicate in a very general way the frequency with
+which teachers allow or support extended class discussions of various topics. The
+mean scores reported in Table 9 indicate, however, that teachers do not permit
+extended whole class discussions very often in either subject. In mathematics, the
+mean score is a very low 2.97, and in English, a slightly better 3.21, but relative to
+other TfU instructional practices in English, it is the instructional practice with the
+lowest mean score in the larger TfU inventory. The SEM models also indicate that
+whole class discussion is only weakly embedded in the network of TfU/CRLS
+86 D. Hogan et al.
+© 2013British Educational Research Association
+
+=== PAGE 31 ===
+instructional practices in the two subjects. In mathematics, whole class discussion is
+predicted by the quality of teacher questioning (.55) and nothing else. In English, it is
+predicted by the quality of teacher questioning (.47) and by flexible teaching (.25),
+suggesting that whole class discussion is a standard element of the flexible teaching
+repertoire, at least in English, as well as a sensible follow-up activity that teachers
+employed after asking high quality questions. Yet, surprisingly, whole class discussion
+is not particularly generative in its own right in either subject, leading only to collabo-
+rative group work (.61, .43 respectively, in mathematics and English).
+The last two—and closely related—constructs we want to discuss focus on collabo-
+rative group work and teacher scaffolding of group work . The former construct mea-
+sures the frequency with which teachers ‘breaks the students up into small groups to
+work together’. The latter focuses on the efforts teachers make to structure group
+work in a way that builds an effective division of labor with a high level of interdepen-
+dency by showing ‘us how to work together in groups’. While asking students to work
+in groups collaboratively is all well and good, as Galton (2007) and others have
+reminded us over many years, without careful teacher scaffolding of group work the
+students are likely to end up working individually in pseudo groups rather than collec-
+tively and collaboratively. But the theoretical promise is high; the mean scores for
+both sets of constructs in both subjects are very low, especially in mathematics (2.87
+and 2.79). In English, the mean scores are a little higher for both constructs (3.28
+and 3.28). In short, mathematics and English teachers in Singapore, especially math-
+ematics teachers, make little use of collaborative group work in their classes. In addi-
+tion, there are only very limited pathways into and out of the two constructs. In
+mathematics, collaborative group work is predicted by whole class discussion (.61)
+and by the quality of questioning (.25). In English, whole class discussion also pre-
+dicts collaborative group work (.43), but not quality of questioning. Instead, collabo-
+rative group work is also predicted by that highly energetic TfU pivotal construct,
+flexible teaching (.43). In effect, in both mathematics and English, teachers often
+segue from whole class discussion into small group work, but in mathematics, teach-
+ers often follow up demanding questions with collaborative group work, whereas in
+English, collaborative group work appears to be a more basic staple of teachers’
+instructional repertoire. In both mathematics and English, teacher scaffolding of
+group work is predicted, reasonably enough, by collaborative group work itself (.70
+and .65 respectively) and, perhaps less predictably, occasionally by the quality of
+questioning (.14 and .26), suggesting that teachers occasionally —very occasionally—
+use high quality questions to set up the structure of the group work. There is also a
+weak pathway from collaborative group work to personal feedback (.12) in mathe-
+matics, indicating that teachers sometimes provide personal feedback on the basis of
+their work in small groups, at least in mathematics. The generativity of teacher scaf-
+folding though is very limited, with no pathways leading from it to other instructional
+practices in mathematics and only one weak pathway, from teacher scaffolding to
+focus on learning (.16), in English.
+Tables 13 and 14 report the direct, indirect and total effects of the pathways
+mapped in Figures 7 and 8 assuming focus on learning (FOL) as the endogenous out-
+come variable. For both mathematics and English, flexible teaching has by far and
+away the strongest total effects (.74 and .84). Communication of learning goals and
+Assessment and the logic of instructional practice 87
+© 2013British Educational Research Association
+
+=== PAGE 32 ===
+performance standards (.54) provides the second strongest effect size in mathematics
+and English, while the monitoring student learning (MSL) (.37) and the quality of
+questioning (QTQ) (.46) is the third strongest effect in mathematics and English
+respectively. In broad terms then, the generativity of flexible teaching, followed by the
+communication of learning goals and performance standards, in the Singapore con-
+text is consistent with the theoretical arguments we endorsed earlier regarding the
+importance of instructional alignment and visible learning. These findings do not of
+course demonstrate that these instructional practices optimize student learning; they
+are merely consistent with the broad theoretical claims made on their behalf by
+researchers. We will report their impact on student learning in a latter report. For
+now though, our modelling of TFU instructional practices indicates that instructional
+practices in both mathematics and English are broadly in line with the normative
+injunctions that researchers have identified, but that there are a number of practices
+that are clearly suboptimal, normatively speaking, including, in particular, the
+absence of pathways from monitoring student learning and feedback, and from whole
+class discussion and collaborative group work to focus on learning.
+Table 15, similarly, reports the direct, indirect and total effect sizes for the two
+SEM models with co-regulated learning strategies (CRLS) as the key outcome vari-
+able. Again, flexible teacher leads the way, followed by monitoring student learning.
+Hybridity, assessment and the logic of instruction
+In Table 16 we summarize the mean scores for the four instructional strategies
+reported above. Clearly, the rank order differs in the two subjects and the spread is
+unequal. In mathematics, TI leads over DI, followed by TfU a fair way back, and
+CRLS in that order. The spread is quite substantial between TI/DI and TfU, and
+even bigger between TfU and CRLS. In English, DI leads over TI, followed by TfU
+and CRL in that order. The spread between the scales is not as wide in English as it is
+in mathematics. Effect sizes are generally quite large. Moreover, at the scale level,
+there are clear differences in mean scores between the two subjects, particularly with
+respect to TI and CRLS, and these are reflected in the effect sizes. Although
+the strength of TI in mathematics might lead one to conclude that mathematics
+Table 13. Total indirect and direct effect sizes, SEM TfU model, mathematics
+Pathway
+Direct, indirect and total effects
+Indirect Direct Total
+FT to FOL .50(.04)* .24(.05) .74(.04)*
+CLGPS to FOL .17(.02)* .37(.05) .54(.05)*
+MSL to FOL .37(.04)* — .37(.04)*
+QTQ to FOL — .34(.05) .34(.05)*
+CNI to FOL .26(.04)* — .26(.04)*
+CFB to FOL .13(.02)* — .13(.02)*
+PFB to FOL .08(.02)* — .08(.02)*
+Notes: *Significant at p < .01; — refers to paths not modelled.
+88 D. Hogan et al.
+© 2013British Educational Research Association
+
+=== PAGE 33 ===
+instruction at least conforms to the East Asian stereotype, the relative strength of the
+other instructional strategies should give pay to that suggestion.
+A second look at Table 16 reveals a relatively narrow spread between the mean
+scores in each subject, apart from CRLS. This hints at the possibility that the leading
+three instructional strategies covary together. And indeed, this conclusion is sup-
+ported by the correlations reported in Table 17: the correlations between DI, TI and
+TfU are all high, whereas the correlations of each of these with CRLS are substan-
+tially lower. This is an important finding, for it indicates some differentiation between
+strategies that give the teacher an active instructional role in the classroom —TI, DI
+and TfU—and the one strategy in our taxonomy (CRLS) that clearly shifts the centre
+of instructional gravity away from teachers towards students and student agency. Just
+as importantly, the strength of the correlations suggests that Singaporean teachers in
+both English and mathematics appear to draw upon all three teacher-focused instruc-
+tional strategies jointly rather than choose between them. We doubt very much that
+they do so indiscriminately. Rather, our qualitative evidence, based on interviews
+with 115 teachers, suggests that they do so because of their strikingly instrumentalist
+Table 14. Total indirect and direct effect sizes, SEM TfU model, English
+Pathway
+Direct, indirect and total effects
+Indirect Direct Total
+FT to FOL .67(.05)* .17(.05)* .84(.04)*
+CLGPS to FOL .25(.03)* .29(.05)* .54(.05)*
+QTQ to FOL .06(.02)* .40(.06) .46(.06)*
+MSL to FOL .42(.05)* — .42(.05)*
+CNI to FOL .33(.04)* — .33(.04)*
+CFB to FOL .17(.03)* — .17(.03)*
+SCF to FOL — .16(.03)* .16(.03)*
+PFB to FOL .10(.02)* — .10(.02)*
+WCD to FOL .04(.01)* — .04(.01)*
+CGW to FOL .11(.02)* — .11(.02)*
+Notes: *Significant at p < .01; — refers to paths not modelled.
+Table 15. Total indirect effect sizes, SEM TfU-CRLS model, mathematics and English
+Pathway
+Direct, indirect and total effects
+Mathematics English
+Indirect Direct Total Indirect Direct Total
+FT to CRLS .70(.03)* — .70(.03)* .74(.05)* .10 (.05)^ .84(.04)
+MSL to CRLS .41(.03)* — .41(.03)* .37(.05)* — .37(.05)*
+CNI to CRLS .26(.04)* — .26(.04)* .33(.04)* — .33(.04)*
+CFB to CRLS .13(.02)* — .13(.02)* .18(.03)* — .18(.03)*
+PFB to CRLS .07(.02)* — .07(.02)* .10(.02)* — .10(.02)*
+Notes: *Significant at p < .01; ^Significant at p < .05; — refers to paths not modelled.
+Assessment and the logic of instructional practice 89
+© 2013British Educational Research Association
+
+=== PAGE 34 ===
+and performative orientation to teaching and learning, prompting them to adopt a
+pragmatic, fit-for-purpose hybridic instructional practice focused on exam perfor-
+mance. At a system level, this suggests a well-integrated, coherent pedagogy that is
+not at war with itself or riven by deep divisions on matters of pedagogical faith and
+doctrine. Given the extraordinary success of Singaporean schools in international
+assessments, such pedagogical hybridity appears to work.
+Nonetheless, while the commitment of Singaporean teachers to traditional and
+direct instruction, together with a milder commitment to elements of a teaching for
+understanding instructional strategy, might suggest that teachers in Singapore lean
+towards, to use John Hattie’s nomenclature, a model of ‘active teaching’, this would
+be mildly misleading. This is not because teachers favour ‘constructivist’ or ‘facilita-
+tive teaching’. They most definitely do not. While teachers are clearly active in Sin-
+gaporean classrooms, they are not particularly active in the ways that matter, or at
+least in the ways that John Hattie thinks matter. For Hattie, active teaching supports
+‘visible learning’ and ‘is much more effective than unguided, facilitative instruction’
+in promoting student achievement. ‘It is essential’, he writes:
+… to have visible teaching and visible learning. This notion encapsulates directive, activat-
+ing, and involved sets of actions and content, working with students so that their learning
+is visible such that it can be monitored, feedback provided, and information given when
+learning is successful. (Hattie, 2009, p. 37)
+Elsewhere, we have argued that Hattie’s insistence on a combination of active
+teaching and visible learning represents a sensible, evidence-based instructional
+framework, but that his distinction between active teaching and constructivist teach-
+ing is overdrawn and that his account of visible learning and teaching could be
+enhanced by taking into account the importance of epistemic clarity —clarity about
+the nature of the knowledge work that students engage in —in the design and imple-
+mentation of instructional tasks during lessons (Putnam et al ., 1990; Schoenfeld,
+1992; Stein et al., 1996, 2009; Perkins, 1998; Rittle-Johnson & Alibali, 1999; Schraw,
+2006; Hogan et al., 2011, 2012c, e; Rahim et al., 2012).
+Despite our reservations about Hattie’s account of active teaching and visible learn-
+ing, both conceptions contribute significantly to the scholarship on teaching and
+learning. Unfortunately, we do not think the evidence from our broader research pro-
+gram indicates that Singaporean teachers are committed to active teaching in ways
+that matter. In particular, they rarely employ the kind of instructional strategies that
+Hattie positions as central to the active teaching/visible learning nexus. Table 18, for
+instance, reports our overall summative judgments from the three projects that make
+up our broader Core 2 research program. (Panel 3, for example, is a classroom obser-
+vation study of 624 lessons that we also conducted in 2010 using a subsample of clas-
+ses and schools from the Panel 2 survey sample reported in this article, while Panel 5
+uses the same sample to examine the intellectual quality of tasks and student work.)
+It suggests a pretty bleak picture (Hogan et al ., 2012d). In addition, evidence from
+Panels 2, 3 and 5 reported in Table 19 and represented in Figure 9 indicate that
+teachers in Secondary 3 mathematics and English rarely encourage strong forms of
+student agency in the classroom, either in their support for self-directed learning, or,
+even more fundamentally, in their design of instructional tasks that create substantial
+90 D. Hogan et al.
+© 2013British Educational Research Association
+
+=== PAGE 35 ===
+opportunities for students to exercise epistemic, cognitive, metacognitive and discur-
+sive agency that are pivotal to knowledge building pedagogies (Hogan et al., 2012d).
+In sum, our evidence suggests an instructional framework that is both hybridic in
+nature and performative in orientation and with very little commitment to active
+teaching and visible learning. These findings again reinforce our conclusion that what
+explains the comparative success of Singapore in international assessments is not the
+commitment of its teachers to high leverage knowledge practices, active teaching or a
+knowledge building pedagogy more broadly, but their single minded commitment
+(for many complex reasons) to a highly instrumentalist and performative pedagogy.
+Indeed, we can demonstrate this statistically with a SEM model that incorporates all
+four instructional strategies—traditional, direct, TfU and CRLS —in a single model.
+The SEM models represented in Figures 10 and 11 (and the relevant goodness-of
+fit-statistics reported in Table 20) model the overall structure of all four instructional
+strategies—traditional, direct, TfU and CRLS —jointly at the construct level in an
+integrated model. Overall, keeping in mind that the models are very large and
+Table 16. Summary of mean scores, by scale, Secondary 3 mathematics and English
+Secondary 3
+mathematics Secondary 3 English Effect size
+Mean (1–5) SD Mean (1 –5) SD d
+TI 3.69 .642 3.45 .669 .37
+DI 3.67 .670 3.61 .655 .09
+TfU 3.38 .602 3.43 .564 .09
+CRLS 3.01 .770 3.28 .688 .37
+dd
+TI vs DI .03 .24
+TI vs TFU .50 .03
+TI vs CRLS .96 .25
+DI vs TfU .46 .30
+DI vs CRLS .91 .49
+TfU vs CRLS .54 .24
+Table 17. Correlation matrix: instructional methods Secondary 3 mathematics and English
+TI DI TfU CRLS
+Mathematics
+Traditional instruction 1
+Direct instruction .72** 1
+Teaching for understanding .58** .70** 1
+Co-regulated learning strategies .28** .35** .73** 1
+English
+Traditional instruction 1
+Direct instruction .75** 1
+Teaching for understanding .63** .68** 1
+Co-regulated learning strategies .41** .39** .77** 1
+Assessment and the logic of instructional practice 91
+© 2013British Educational Research Association
+
+=== PAGE 36 ===
+complex, the goodness-of-fit statistics are exceptionally good. Notably, the chi-square
+statistic for English is substantially lower than it is for mathematics (353.981/194/
+.0000 versus 404.786/191/.000). Both models are fully recursive: above all, there are
+no feedback loops from TfU back to TI or DI practices. In addition, the internal
+structure of each of the broader instructional categories (as indicated by the pattern
+of pathways between practices within each category) remained remarkably stable.
+Task SetUp and Enactment, Student Agency and Knowledge Building
+Epistemic Agency
+Discursive
+ Agency
+Cognitive Agency
+Metacognitive
+ Agency
+Task Set Up and
+Enactment: Distributing
+Opportunities to Learn
+(Opportunities to
+Generate,
+Communicate,
+Deliberate and Justify
+Knowledge Claims)
+(Opportunities to
+develop Conceptual
+Understanding)
+(Opportunities to
+acquire Metacognitive
+Knowledge and
+Exercise MC Self-
+Regulation)
+(Opportunities
+for Extended
+Understanding
+Talk)
+Figure 9. Task set-up and enactment, student agency and knowledge building
+Note: All values represent unstandardized esƟmates signiﬁcant at p<.01. In brackets are standard errors. Double-headed curved arrows denote correlated
+latent disturbances.
+Note. EXPR=Exam preparaƟon; TXBF=Textbook Focus; WKSF=Worksheet Focus; DRILL=Drill; MEM=MemorizaƟon; SNC=Structure & Clarity; MLT=Maximum
+learning Ɵme; REV=Revision; FOP=Frequency of pracƟce; FOQ=Frequency of quesƟoning; CFB=CollecƟve feedback; PFB=Personal feedback; CNI=Curiosity &
+interests; FLT=Flexible teaching; MSL=Monitoring student learning; CLGPS=CommunicaƟng learning goals and performance standards; QTQ=Quality of
+quesƟoning; WCD=Whole class discussion; CGW=CollaboraƟve group work; SCF=Teacher scaﬀolding; FOL = Focus on learning; CRLS=Co-regulated Learning
+MSL
+CFB
+FOLCLGPS
+SCFQTQFLT
+CNI
+PFB
+WCD CGW
+CRLS
+EXPR REV
+SNC
+MLT
+FOQ
+FOPTXBF
+DRILL
+WKSF
+MEM
+.33(.06)
+.19(.04)
+.34(.04)
+.24(.05)
+.14(.04)
+.46(.06)
+.48(.04)
+.17(.04) .46(.05)
+.17(.05)
+.33(.05)
+.13(.05)
+.17(.05)
+.19(.06)
+.25(.06)
+.27(.05)
+.14(.05)
+.57(.04)
+.43(.04)
+.33(.05)
+.22(.04)
+.27(.04)
+.29(.04)
+.47(.04)
+.12(.04)
+.31(.06)
+.15(.05)
+.43(.05)
+.17(.05)
+.37(.06)
+.59(.04) .14(.04)
+.15(.04) .39(.04)
+.34(.04)
+.22(.03)
+.20(.04)
+.28(.04).40(.04)
+.12(.03)
+.24(.05)
+.36(.05)
+.35(.05)
+.14(.03)
+.70(.04)
+.61(.04)
+.25(.04).56(.03)
+.64(.04)
+.19(.03)
+.15(.04)
+.13(.03)
+.27(.05)
+.13(.03)
+.33(.05)
+.25(.04)
+.34(.05)
+.29(.05)
+.25(.04)
+.14(.02)
+Figure 10. Integrated SEM model for instructional strategies: mathematics
+92 D. Hogan et al.
+© 2013British Educational Research Association
+
+=== PAGE 37 ===
+Both of these findings, especially the former, were a surprise to us in that we expected
+to find a re-assembling of the networks of pathways and number of feedback loops
+from ‘higher order’ (TfU) instructional practices to ‘lower order’ (TI/DI) ones. How-
+ever, in both subjects there is a linear, fully recursive sequence to instructional prac-
+tice that underscores the coherent and hybridic nature of the instructional regime in
+Singaporean classrooms, at least in mathematics and English, and that confirms our
+arguments earlier on the basis of our CFA modelling of the four general instructional
+strategies.
+Table 18. Extended inventory of ‘active teaching’/‘visible learning’ indicators
+Criteria
+Measured standard
+Core 2 data source
+Secondary 3
+mathematics
+Secondary 3
+English
+Checking for prior knowledge Moderate Moderate Panel 3
+Communicating learning goals Low Low Panels 2, 3.
+Communicating performance standards Low Low Panels 2, 3, 5
+Exemplars of successful performance Low Low Panel 3
+Monitoring student learning Low Low Panels 2, 3
+Feedback Low Low Panels 2, 3
+Learning support/scaffolding Low Low Panel 3
+Knowledge representation Low Low Panels 2, 3
+Focus on metacognitive knowledge Low Low Panels 2, 3, 5
+Epistemic clarity of knowledge work Low Low Panels 2, 3, 5
+Open questions/extended responses Low Low Panels 2, 3
+Understanding talk Low Low Panels 2, 3
+Explicit instruction in norms regulating
+whole class discussion and group work
+Low Low Panel 3
+Note: All values represent unstandardized esƟmates signiﬁcant at p<.01, *p<.05. In brackets are standard errors.Double-headed curved arrows denote
+correlated latent disturbances.
+Note. EXPR=Exam preparaƟon; TXBF=Textbook Focus; WKSF=Worksheet Focus; DRILL=Drill; MEM=MemorizaƟon; SNC=Structure &C l a r i t y ;M L T = M a x i m u m
+learning Ɵme; REV=Revision; FOP=Frequency of pracƟce; FOQ=Frequency of quesƟoning; CFB=CollecƟve feedback; PFB=Personal feedback; CNI=Curiosity &
+interests; FLT=Flexible teaching; MSL=Monitoring student learning; CLGPS=CommunicaƟng learning goals and performance standards; QTQ=Quality of
+quesƟoning; WCD=Whole class discussion; CGW=CollaboraƟve group work; SCF=Teacher scaﬀolding; FOL=Focus on Learning; CRLS=Co-regulated Learning
+MSL
+CFB
+FOLCLGPS
+SCFQTQFLT
+CNI
+PFB
+WCD CGW
+CRLS
+EXPR REV
+SNC
+MLT
+FOQ
+FOPTXBF
+DRILL
+WKSF
+MEM
+.18(.04)
+.54(.04)
+.42(.04).14(.04)
+.20(.05)
+.37(.04)
+.24(.04)
+.19(.06).26(.05)
+.14(.04)
+.26(.08)
+.24(.08)
+.12(.03)
+*.14(.06
+.69(.05)
+.48(.04)
+.25(.04)
+.21(.03)
+.31(.04)
+.52(.04)
+.26(.06)
+.17(.04) .38(.06)
+.31(.06)
+.30(.06)
+.77(.04)
+*.10(.04) .51(.06)
+.27(.06)
+.11(.03)
+.28(.06)
+.40(.05).29(.06)
+.32(.05)
+.36(.05)
+.26(.04)
+.65(.04)
+.43(.04)
+.43(.04)
+.47(.07)
+.96(.02)
+.49(.06)
+.36(.06)
+.13(.04)
+.38(.07)
+.30(.07)
+.22(.05)
+.12(.02)
+.30(.06)
+.34(.04)
+.25(.05)
+.15(.05)
+.15(.04)
+.20(.03)
+.16(.03)
+.19(.05)
+.25(.07)
+Figure 11. Integrated SEM model for instructional strategies: English
+Assessment and the logic of instructional practice 93
+© 2013British Educational Research Association
+
+=== PAGE 38 ===
+In broad terms, the structure goes something like this: traditional instruction
+provides the foundation of the instructional order, direct instruction builds on TI
+practices and extends and refines the instructional repertoire, while TfU/CRLS prac-
+tices build on TI and DI practices and extend the instructional repertoire even further
+in ways that focus on developing student understanding and student directed learn-
+ing. Instructional practices in Singaporean classrooms then, on this data, cannot be
+considered either Eastern or Western, but a coherent combination of both. However,
+they combine in a particular way, as ensembles of practices grouped by broad instruc-
+tional categories, rather than as new or reassembled configurations of instructional
+practices that more or less ignore the instructional categories that we had imposed on
+them for theoretical reasons.
+What then ties or links the four instructional groupings together in an orderly chain
+of instructional practice? A close review of Figures 10 and 11 indicates that four
+instructional practices play pivotal roles in chaining the instructional groupings
+together: two TI practice (exam preparation and textbook focus) and two DI prac-
+tices (structure and clarity, and revision).
+Of the four, exam preparation is the most important. In both subjects, exam prepa-
+ration is highly generative both directly and indirectly, reaching well beyond its own
+close family of TI practices into direct instruction and TfU practices. In mathematics,
+there are nine separate direct pathways leading from exam preparation to DI and TfU
+practices, and numerous indirect paths that link exam preparation, on the one hand,
+to all of the remaining instructional practices, on the other. In English, exam prepara-
+tion generates eight pathways to other instructional practices spread across both DI
+and TfU. The aggregate indirect effect of exam preparation on focus on learning in
+mathematics is .38(.02) ( p < .01), and in English, .35(.02) ( p < .01). The aggregate
+indirect effect of exam preparation on CRLS in mathematics is .38(.02) ( p < .01)
+and in English, .34(.02) ( p < .01).These are substantial effects, attesting to the strik-
+ing institutional authority of the assessment system over instructional methods gener-
+ally, not just traditional and direct instruction, and helping to account for the
+remarkably isomorphic structure of instructional practice in mathematics and English
+when we might well have expected quite distinctive subject-specific instructional
+regimes to be generated by fundamental differences in the disciplinarity of the two
+subjects.
+Of course, as we have indicated elsewhere, there are other factors in play as well
+that account for this instructional isomorphism, particularly the pervasive cultural
+influence of a vernacular ‘folk pedagogy’ on teacher conceptions of teaching and
+learning (Hogan et al., 2011, 2012d; Hogan, 2012). But there is little doubt that the
+institutional and cultural authority of the assessment system, operating via exam
+preparation, is exceptionally important, and that the very considerable alignment of
+instruction, the curriculum and the assessment system in Singapore is in large part a
+direct function of the pivotal role of exam preparation in shaping the overall structure
+of the instructional system as a whole. As we indicated at the beginning of the article,
+this is hardly new news to Singaporean teachers, parents, students —or researchers.
+Indeed, as we saw earlier, Kramer-Dahl (2008) and others have long emphasized the
+limits the assessment regime imposes on instructional practice, even when there
+is a strongly reformist English syllabus in place nationally to support instructional
+94 D. Hogan et al.
+© 2013British Educational Research Association
+
+=== PAGE 39 ===
+innovation. Similarly, teachers we interviewed in 2010 as part of our larger research
+program express remarkably similar constructions of the challenges they face in trying
+to reconcile the demands of the TLLM initiative and the imperatives of high stakes
+assessment. The following quotations come from two different Secondary 3 teachers:
+T2: I find that for mathematics, using TLLM is a bit … How do I say, a bit tough? Because
+I guess at the end of the day, what students want to see, what parents want to see, what the
+school wants to see is the O level grades. So how does doing like, things like the portfolio
+even, how does it value-add to what the student will gain upon their graduation. Yes, so
+I’m a bit apprehensive about this TLLM, actually. (Secondary 3 mathematics teacher)
+T3: I think it’s actually very difficult. Something has to give. And if the focus is so much
+on the … [Sigh]. So if indeed we really want to go full steam ahead with TLLM, exams
+unfortunately, have to take a backseat. But unfortunately the problem is that, the way Sin-
+gaporean boys are, you know, when it’s through discovery learning, when it’s through
+character development, what happens is, they may enjoy the process but enjoying the pro-
+cess may not actually translate to learning the skills or motivating yourselves to do the very
+best that you can. It’s like what happened years ago we had the whole concept of language
+learning with the communicative approach? And it fell flat on the face. (Secondary 3
+English teacher)
+These teacher accounts, along with Kramer-Dahl’s account (mentioned earlier) of
+the constraints imposed by the assessment system on the willingness of teachers to
+implement national reform initiatives in English, is supported by evidence from a sur-
+vey of over 2000 teachers we conducted in 2010. We asked teachers to identify the
+impact that 21 influences had had on their teaching in Singapore —what we termed
+the subjective logic of instruction . On a five-point Likert scale, ‘the ability of students’
+came in first with a mean score of 4.02, followed by ‘your skills as a teacher’ (4.00),
+‘coverage of the curriculum/department’s scheme of work’ (3.90) and ‘the national
+high stakes assessment system’ (.3.86). We also asked teachers what influence they
+thought the national high stakes assessment system had on the instructional practices
+of teachers in general. We report the results in Table 21. Clearly teachers think it has
+a very substantial influence, and that, in addition, it strongly influences the willing-
+ness and opportunity of teachers to engage in instructional innovation.
+In short, for teachers, institutional context matters —and matters a great deal. Our
+strong suspicion then is that in order to explain the stability —indeed, intractability—
+of instructional practice in Singapore we need to recognize the persistent institutional
+Table 19. Task design, student agency and knowledge building pedagogy
+Criteria
+Measured standard
+Core 2 data sourceSecondary 3 mathematics Secondary 3 English
+Epistemic agency Low Low Panels 2, 3, 5
+Cognitive agency Low Very low Panels 2, 3, 5
+Metacognitive agency Low Low Panels 2, 3, 5
+Discursive agency Very low Very low Panels 2, 3
+Assessment and the logic of instructional practice 95
+© 2013British Educational Research Association
+
+=== PAGE 40 ===
+grip that the national assessment system in Singapore has over classroom practice.
+While TLLM invited teachers to change their instructional practices and classroom
+culture, it did not alter the national high stakes assessment system in a way that might
+have increased the willingness of teachers to be more adventurous and innovative in
+their classroom practices in the way TLLM hoped for. To be sure TLLM gave schools
+and teachers permission to devote up to 20% of curriculum time to their own curricu-
+lum preferences or interests (the so called ‘White Space’ initiative). But the anecdotal
+evidence we have is that the ‘White Space’ curriculum time was quickly colonized by
+more of the same and exam preparation. It’s clearly a good thing for classroom
+instruction to be aligned to the assessment system, and its clearly appropriate and
+sensible of teachers to align their classroom practices to it, but there are opportunity
+costs as well when the degree of alignment constrains the opportunity or willingness
+of teachers to alter their classroom practices in ways sought by policy-makers in
+response to urgent national priorities.
+Beyond exam preparation, a second traditional instructional practice is notably
+generative, and generative well beyond the somewhat artificial ‘boundaries’ of
+Table 20. Goodness-of-fit statistics: integrated instructional strategies SEM models (Secondary 3
+mathematics and English)
+Goodness-of-fit Mathematics English
+N 1166 1027
+Chi-square/df/p-value 404.786/191/.0000 353.981/194/.0000
+CFI/TLI .986/.982 .989/.986
+RMSEA (90% CI) .031 (.027 –.035) .028 (.024 –.033)
+SRMR .028 .031
+Table 21. Teacher beliefs about the influence of national high stakes assessment on teaching
+practices
+Mean (1–5) SD Factor loading
+Pedagogical effect of national high
+stakes assessment system (alpha =.836)
+3.64 0.86
+The national high stakes assessment system …
+…has a very large influence on how teachers teach. 4.11 0.72 .670
+…limits the willingness of teachers to try new instructional
+or assessment practices.
+3.64 0.92 .846
+…limits the opportunity for teachers to try new instructional
+or assessment practices.
+3.63 0.90 .880
+…pushes teachers to teach in ways contrary to their
+professional beliefs.
+3.46 0.90 .760
+…compromises the quality of teaching. 3.36 0.88 .717
+Not included in scale:
+… maintains high standards of teaching and
+learning
+2.58 0.85
+Source: Panel 2 Teacher Survey.
+96 D. Hogan et al.
+© 2013British Educational Research Association
+
+=== PAGE 41 ===
+traditional instruction, especially in mathematics —a focus on textbooks. In mathe-
+matics, for example, there are three strong pathways from textbook focus to other TI
+practices and one relatively weak one: worksheets and workbooks (.46), memoriza-
+tion (.46), drill (.33) and structure and clarity (.12). But, in addition, there are three
+pathways, generally weaker but still statistically significant, from textbook focus to DI
+practices: frequency of practice (.27), frequency of questions (.13) and maximum
+learning time (.27). These pathways all make theoretical sense, especially in mathe-
+matics, where teachers tend to rely on textbooks more than they do in other subjects.
+In English, textbook focus is less generative, with no pathways to drill, structure and
+clarity or maximum learning time, but modest pathways to worksheets and work-
+books (.24), frequency of questions (.14) and frequency of practice (.12). The aggre-
+gate indirect effect of textbook focus on focus on learning in mathematics is .14(.02)
+(p < .01) and in English, .03(.01) ( p < .01). The aggregate indirect effect of textbook
+focus on CRLS in mathematics is .14(.02) ( p < .01), and in English, .02(.01)
+(p < .01). Yet a third of TI practice, focus on worksheets and workbooks, had much
+smaller indirect effects on the two outcome measures. The aggregate indirect effect of
+worksheet focus on learning in mathematics is .02(.01) ( p < .01) and in English, .04
+(.01) (p < .01). The aggregate indirect effect of worksheet focus on CRLS in mathe-
+matics is .02(.01) (p < .01) and in English, .04(.01) ( p < .01).
+The two remaining gateway instructional practices —structure and clarity and revi-
+sion—belong to the DI family of instructional practices. The practice that John Hattie
+closely identifies with visible learning, structure and clarity, has multiple pathways
+into other DI practices and, in mathematics, into four TfU practices: collective feed-
+back (.27), personal feedback (.34), curiosity and interest (.43) and communication
+of learning goals and performance standards (.22). In English, it generates pathways
+into four TfU practices: collective feedback (.49), personal feedback (.38), curiosity
+and interest (.38) and communication of learning goals and performance standards
+(.11). The aggregate indirect effect of structure and clarity on focus on learning in
+mathematics is .37(.02) ( p < .01), and in English, .37(.03) ( p < .01). The aggregate
+indirect effect of structure and clarity on CRLS in mathematics is .37(.02) ( p < .01)
+and in English, .35(.03) ( p < .01). Revision is somewhat less generative than struc-
+ture and clarity, but it has pathways into two other DI practices —frequency of prac-
+tice (.16 and .26) and frequency of questions (.17 and .19) —and into three TfU
+practices in both mathematics and English: flexible teaching (.37 and .30), collective
+feedback (.33, .36) and personal feedback (.29, .30). The aggregate indirect effect of
+revision on focus on learning in mathematics is .28(.03) ( p < .01), and in English, .30
+(.05) (p < .01). The aggregate indirect effect of revision on CRLS in mathematics is
+.26(.03) (p < .01) and in English, .28(.04) ( p < .01).
+One further comment. The two proto-cognitive practices, focus on memorization
+and focus on learning, occupy very different positions in Singapore’s overall instruc-
+tional scheme. Focus on memorization, although it continues to be strongly net-
+worked backwards to all other TI practices in the integrated model, either directly or
+indirectly, remains determinedly non-generative in its own right (in mathematics)
+with no pathways leading from it towards either DI or TfU practices. In effect, focus
+on memorization in mathematics is as much an instructional cul de sac in the inte-
+grated model as it is in the DI or the TI/DI models we discussed earlier, although in
+Assessment and the logic of instructional practice 97
+© 2013British Educational Research Association
+
+=== PAGE 42 ===
+English, focus on memorization generates two small to modest pathways, one to revi-
+sion (.21) and one to focus on practice (.15). From these practices there are slight
+indirect pathways to focus on learning, but nothing strong enough to suggest that Sin-
+gaporean teachers are committed to a putative East Asian nexus between memoriza-
+tion and learning, at least in mathematics and English. TfU’s focus on learning, on
+the other hand, remains strongly networked to other TfU practices (with three path-
+ways leading into it from other TfU practices), remains an important instructional
+practice in its own right as well as generating a pathway to CRLS in both subjects.
+Conclusion
+In the course of this article we reported the relative importance and interrelationships
+between four theoretically specified arrays of instructional strategies: traditional
+instruction, direct instruction, teaching for understanding, and co-regulated learning
+strategies. Specifically, we reported that traditional and direct instruction are the two
+most common modalities of instructional strategy in Secondary 3 English and mathe-
+matics, followed by teaching for understanding and co-regulated learning strategies.
+Second, we argued that the relative weighting and overall structure of instructional
+practice suggests a pervasive performative orientation to pedagogy generally in Singa-
+pore. Third, we argued that instructional practice in Singapore is characterized by
+hybridity rather than loyalty to an ‘East Asian’ or ‘Western’ model of pedagogy.
+Finally, we used SEM modelling to establish that the hybridic nature of instructional
+practice in Singapore is not institutionally innocent, but instead reflects the over-
+whelming institutional authority of the assessment system over the pattern of instruc-
+tional practice in Singaporean classrooms and that the alignment of instructional
+practice and assessment underscores the overall performative orientation of Singa-
+pore’s pedagogical framework. This arrangement, as comparative education research
+suggests, is typical of systems characterized by high stakes assessment systems, and in
+turn suggests that what matters most in shaping the pattern of instructional practice,
+is not so much regional identities (East Asian, Western), but the broader institutional
+and cultural ordering of the instructional regime.
+At this point we want to note three further sets of findings that our larger research
+program has generated that bear on our overall judgment of Singapore’s pedagogical
+regime. The first is that using multilevel structural equation models we found that
+instructional practices in Singapore that focus on procedural skills and functional
+forms of cognitive activity are far better able to predict student achievement outcomes
+than instructional practices that research suggest are likely to generate conceptual
+understanding and related outcomes (Hogan et al ., 2012d, e). Critically, we found
+this pattern of relationships across a broad range of instructional practices, including
+instructional tasks, classroom talk, classroom organization and instructional strate-
+gies. Importantly, these findings are contrary to the Ministry of Education (MOE)
+policy priorities. Our research does not indicate that teachers do not employ or value
+instructional practices that focus on conceptual development or metacognitive self-
+regulation or knowledge building, although their mean scores are substantially lower.
+Rather, our results indicate that these more conceptually orientated instructional
+practices do not have a strong impact on student achievement, given the nature of the
+98 D. Hogan et al.
+© 2013British Educational Research Association
+
+=== PAGE 43 ===
+current assessment system. A different assessment regime—one including different kinds
+of assessment tasks, for example —would in all likelihood generate a different pattern
+of relationships and do so in line with current policy priorities. So while the current
+assessment system has improved teaching and learning standards over the years, it
+now appears that the current assessment regime inhibits or constrains the willingness
+and opportunity of teachers to change their instructional practices in line with current
+policy priorities that favours what Singaporeans loosely (and misleadingly) view as
+‘learner-centered’ pedagogy. In effect, the current assessment regime incentivizes and
+rewards teachers to teach (and students to learn) in ways that maximize assessment perfor-
+mance rather than the kinds of teaching and learning called for in national policy documents
+and generally associated with teaching for understanding frameworks. This suggests that
+current policy settings are not internally consistent, as we indicated above.
+The second additional finding we want to report now is that we found that prior
+achievement was consistently the single strongest predictor of student achievement.
+However, we also identified the existence of very large direct and indirect social class
+effects on prior achievement (PSLE) and student allocation to curriculum streams
+and on Secondary 3 student achievement at the classroom level. Social class effects at
+the individual (L1) level were much smaller, although larger in the case of English
+than mathematics, a result that we think underscores the importance of linguistic,
+social and cultural capital at the family level. But although social class effects at the
+individual level within classes were relatively small, there can be no mistaking the sig-
+nificance of the impact of social class on Secondary 3 student achievement at the
+aggregate classroom level. In Singapore, as in other systems committed to homoge-
+neous grouping, it appears to matter less what particular family students come from
+then who they go to class (and school) with. To put it in technical terms: institutional
+and composition effects matter, and matter a great deal. This is consistent with inter-
+national research, but the relationship between social class and educational inequality
+in Singapore is exaggerated by institutional rules and organizational arrangements
+(above all, the streaming system) by virtue of the very tight relationship with social
+class and streaming in Singapore that we (and others) have quantified. In effect, in
+Singapore, streaming compounds and inflates the influence of social class on student
+achievement at the classroom and school level. (By contrast, systems with lower levels
+of aggregation are typically characterized by higher social class effects at the individ-
+ual student level).
+These particular findings have very substantial policy implications for the improve-
+ment of teaching and learning across the system and the design of interventions
+intended to ameliorate the effects of social inequality in education. In particular, they
+suggest that the improvement of teaching and learning will depend substantially on a
+different assessment regime, including, in particular, alteration in the nature of the
+assessment tasks in the high stakes assessment system, and a different kind of curricu-
+lum framework to give appropriate guidance to the enacted as well as the prescribed
+curriculum. In addition, our evidence suggests that if the system wishes to reduce
+social class differences in student performance, it will need to address sources
+(including impacts on student motivation and identity formation and access to
+human, social and cultural capital at the classroom level) of inequality that are a func-
+Assessment and the logic of instructional practice 99
+© 2013British Educational Research Association
+
+=== PAGE 44 ===
+tion of organizational arrangements and policy settings as well as those that arise at
+the family and individual level.
+Finally, again using structural equation procedures, we found that teacher effects,
+independent of instructional or teaching effects, are minimal. Our measures of
+teacher effects included pre-service education, participation in professional develop-
+ment activities, participation in in situ professional learning communities (profes-
+sional collaboration and reflective dialogue), teaching experience, learning priorities
+(‘problem-solving efficiency’ versus ‘learning to learn’), conceptions of teaching and
+learning (‘conventional’, ‘constructivist’), self-efficacy beliefs (with respect to class-
+room management, student motivation and instruction), and ability and effort attri-
+butions regarding student achievement. Indeed, in both mathematics and English,
+the only statistically significant pathway we could identify was from one of the learn-
+ing priorities measures (‘problem-solving efficiency’) to our student achievement
+measures. We interpret this finding to reflect (and reinforce) the performative orien-
+tation of Singapore’s pedagogy. In addition, we found that the pattern of relationships
+between participation in professional development and professional learning commu-
+nity activities, on the one hand, and instructional beliefs and student outcomes, on
+the other, suggest that professional development and professional learning commu-
+nities reinforce rather than challenges the dominant performative orientation of peda-
+gogical practice in Singapore. This in turn suggests some tension between MOE
+policy priorities (in this case, a commitment to learning to learn) and the overall struc-
+turing of teacher beliefs and participation in professional development and profes-
+sional learning communities.
+Of course, these limitations of Singapore’s instructional regime need to be placed
+in the broader context of a highly successful system that by any measure has gener-
+ated an extraordinary record of achievement over the past two or three decades so
+that it is now widely recognized as one of the leading educational systems in the
+world. But notwithstanding this record of achievement, our judgment now is that
+while the performative and hybridic character of the system has served Singapore
+well, it is far from clear that the current framework can support successful, substantial
+and sustainable innovation in classroom practice. From a normative perspective, the
+current system is suboptimal in a number of respects —the small mean scores for TfU
+practices as a whole, particularly whole class discussion, collaborative group work
+and focus on learning and the absence of key pathways, including pathways from
+monitoring student learning to student feedback (collective and personal). Finally —
+and perhaps the most concerning of all —is the apparent constraint that the assess-
+ment system places on the willingness and opportunity of teachers to alter instruc-
+tional practice, even when urged to do so by relevant national syllabi or by national
+reform initiatives. This might suggest that the sensible thing to do would be to elimi-
+nate the national high stakes assessment system. We don’t agree. Rather, the chal-
+lenge for the Ministry of Education, teachers and researchers is to figure out how to
+transform and use the institutional authority of the assessment system as a lever for
+change rather than a constraint on improvement. Our sense is that this might be
+accomplished in four ways: (1) by improving the quality of the assessment tasks in the
+national high stakes assessment system, and doing so in a way that prioritizes
+extended, elaborated, authentic, multidimensional twenty-first century knowledge
+100 D. Hogan et al.
+© 2013British Educational Research Association
+
+=== PAGE 45 ===
+building tasks (including tasks that are both collaborative and ICT-mediated) that
+will drive instructional improvement, given the strong proclivity of teachers to teach
+to the test; (2) by introducing a school-based, professionally moderated, standards-
+driven component (say initially, accounting for up to 30% of the final grade) into the
+national high stakes assessment system; (3) by enhancing the professional capability,
+authority and pedagogical autonomy of teachers in ways that allows them to moderate
+or buffer the demands that emanate from exogenous pressures outside the classroom;
+and (4) by a modest additional deregulation of the assessment market in Singapore
+(some, but not all, Singaporean schools are permitted to offer the International
+Baccalaureate (IB) rather than participate in the Cambridge assessment system)
+granting all schools permission to choose which national assessment regime to join in
+a semi-deregulated assessment market —Cambridge, IB, or a hybrid that combines
+national plus school-based components —depending on what pedagogical priorities
+schools establish for themselves in the spirit of devolved pedagogical authority that
+TLLM supported in 2004/2005.
+For purists, the proposal to use the assessment system to support instructional
+improvement might well appear misconceived, or at least paradoxical, given the well
+documented negative effects national high stakes assessment systems can have. And
+there is some evidence that the one experiment in school based assessment in Singa-
+pore we are familiar with, an experiment using ‘science practical assessments’ as a form
+of school based assessment lacked the capacity to drive significant pedagogical change
+(in this case, inquiry science) without a considerable investment in teacher preparation
+and professional development and other collateral changes. Rather, it cornered teach-
+ers into assessing that which could be most easily observed in laboratories and exposed
+fears from a range of actors about a lack of content knowledge and assessment literacy
+(Towndrow & Tan, 2006; Towndrow, 2008; Towndrow et al., 2010). Consequently,
+we conclude that school-based assessment by itself will not achieve instructional
+improvement. Rather, instructional improvement is primarily likely to depend on
+transforming the nature of high stakes assessment tasks, backed up by school-based
+high stakes assessments and significant investments in building teacher capacity. With-
+out these changes in the assessment system, we can see no other solution in sight that
+has the capacity to be as effective, sustainable, scaleable and, critically, politically man-
+ageable in the Singaporean context. In Singapore (as elsewhere), instructional legiti-
+macy depends on formal inclusion in the assessed curriculum. More broadly,
+instructional systems, like organizational systems generally, are prone to isomorphism
+with their institutional environments (Powell & DiMaggio, 1991; Scott, 1995; Hogan
+et al ., 2008b). Unless assessment tasks that focus on complex knowledge work are
+properly integrated into the assessed curriculum, students, parents or teachers will not
+take complex knowledge instruction and related assessment tasks seriously. If this were
+accomplished, the tight coupling (or alignment) of instruction and summative assess-
+ment (‘teaching to the test’) in Singapore becomes a pedagogical strength rather than a
+constraint on sustainable pedagogical innovation. In effect, appropriately constructed
+high stakes assessments might, other things being equal, leverage desirable instruc-
+tional innovation and pedagogical realignments in classrooms across the system in a
+sustainable way at scale and at very modest financial (and, importantly, political) cost.
+Assessment and the logic of instructional practice 101
+© 2013British Educational Research Association
+
+=== PAGE 46 ===
+NOTE
+1 However, a very large classroom observation data set from a related project we are conducting suggests a far
+bleaker picture on this front. See Hogan et al. (2012d).
+References
+Alexander, R. (2001) Culture and pedagogy: International comparisons in primary education (Oxford,
+Blackwell).
+Alexander, R. (2008) Essays on pedagogy (London, Routledge).
+Alexander, R. (2012) Improving oracy and classroom talk in English schools: Achievements and
+challenges, paper presented to the DfE Seminar on Oracy, the National Curriculum and Educa-
+tional Standards, 20 Febuary, Department of Education, UK.
+Assor, A., Kaplan, H., Kanat-Maymon, Y. & Guy, R. (2005) Directly controlling teacher behaviors
+as predictors of poor motivation and engagement in girls and boys: The role of anger and anxi-
+ety, Learning and Instruction, 15(5), 397–413.
+Bandalos, D. & Finney, S. (2001) Item parceling issues in structural equation modeling, in:
+G. Marcoulides (Ed.) New developments and techniques in structural equation modeling (Mahwah,
+NJ, Lawrence Erlbaum), 269–296.
+Barnes, D. (1992) From communication to curriculum (Portsmouth, NH, Boynton/Cook-Heinemann).
+Barnes, D. (2008) Exploratory talk for learning, in: N. Mercer & S. Hodgkinson (Eds) Exploring talk
+in school (London, Sage), 1–16.
+Biggs, J. & Walkins, D. (2001) Teaching the Chinese learner: Psychological and pedagogical perspectives
+(Hong Kong, Comparative Education Research Centre).
+Black, P., Harrison, C., Lee, C., Marshall, B. & Wiliam, D. (2003) Assessment for learning: Putting it
+into practice (Milton Keynes, Open University Press).
+Black, P. & Wiliam, D. (1998) Inside the black box: Raising standards through classroom assessment
+(London, School of Education).
+Bollen, K. (1989) Structural equations with latent variables (New York, John Wiley & Sons).
+Brophy, J. E. (2002) Social constructivist teaching: Affordances and constraints (J. E. Brophy, Ed.)
+(Amsterdam, JAI Press).
+Brophy, J. E. (2004) Motivating students to learn (Mahwah, NJ, Lawrence Erblaum).
+Brown, T. (2006) Confirmatory factor analysis for applied research (New York, Guilford Press).
+Bruner, J. (1996) Folk pedagogy, in: J. Bruner (Ed) The culture of education (Cambridge, MA,
+Harvard University Press), 44–65.
+Cai, J., Lin, F.-L. & Fan, L. (2004) How do Chinese learn mathematics? Some evidence-based
+insights and needed directions, in: L. Fan & L. Fan (Eds) How Chinese learn mathematics:
+Perspectives from insiders (Singapore, World Scientific), 535 –554.
+Cazden, C. (1988) Classroom discourse: The language of teaching and learning (Portsmouth, NH,
+Heinemann).
+Chan, M. (2012) A latent variable method to constructing reliable composite variables . Unpublished
+manuscript, National Institute of Education, Singapore.
+Cheah, Y. M. (1998) The examination culture and its impact on literacy innovations: The case of
+Singapore, Language and Education, 12(3), 192–209.
+Cheng, K. M. (1996) Excellence in education: Is it culture-free? Keynote paper presented at the
+annual Conference of the Educational Research Association , Singapore, 22–4 November.
+Coffman, D. L. & MacCullum, R. C. (2005) Using parcels to convert path analyses models into
+latent variable models, Multivariate Bahvioral Research, 40(2), 235–259.
+Cohen, D. (1988) Teaching practice: Plus que ca change …, in: P. W. Jackson (Ed.) Contributing to
+educational change: Perspectives on research and practice (Berkeley, CA, McCutchan), 27 –84).
+(Also published in the National Center for Research on Teacher Education, Michigan: Michi-
+gan State University, 88-3, September 1988.)
+Darling-Hammond, L. (2008) A future worthy of teaching for America, Phi Delta Kappan , 89(10),
+730–733.
+102 D. Hogan et al.
+© 2013British Educational Research Association
+
+=== PAGE 47 ===
+Desforges, C. (Ed.) (1995) An introduction to teaching: Psychological perspectives (Oxford, Blackwell).
+Galton, M. (2007) Learning and teaching in the Primary classroom (London, Sage).
+Goh, C. T. (1997) Shaping our future: Thinking schools, learning nation. Speech by Prime Minis-
+ter Goh Chok Tong at the opening of the 7th International Conference on Thinking. Available
+online at: http://www.moe.gov.sg/media/speeches/1997/020697.htm (accessed 6 March 2009).
+Good, T. L. & Brophy, J. E. (2003) Looking in classrooms (New York, Allyn & Bacon).
+Hacker, D., Dunlosky, J. & Graesser, A. (2009) Handbook of metacognition in education (London,
+Routledge).
+Hattie, J. (2003) Distinguishing expert teachers from novice and experienced teachers (Auckland, Austra-
+lian Council for Educational Research).
+Hattie, J. (2009) Visible learning. A synthesis of over 800 meta-analyses relating to achievement (London,
+Routledge).
+Hattie, J. (2012) Visible teaching for teachers: Maximizing impact on learning (London, Routledge).
+Hodgkinson, S. & Mercer, N. (2008) Exploring talk in school (London, Sage).
+Hogan, D. (2012) Culture and pedagogy in Singapore: The fate of the Teach Less Learn More policy
+initiative, 2004–2010, in: S. Paris & K. Lee (Eds) Redesigning pedagog (New York, Springer).
+Hogan, D., Towndrow, P. & Koh, K. (2008a) Instruction and assessment practice in Singapore, in:
+E. Grigorenko, (Ed.) Assessment of abilities and competencies in the era of globalization (New York,
+Springer).
+Hogan, D., Towndrow, P. & Koh, K. (2008b) The logic of confidence and the social economy of
+assessment reform in Singapore: A new institutionalist perspective, in: E. Grigorenko (Ed.)
+Assessment of abilities and competencies in the era of globalization (New York, Springer).
+Hogan, D., Towndrow, P., Abdul Rahim, R., Chan, M., Luo, S. & Sheng, Y., et al. (2011) Interim
+report on pedagogical practices in Singapore in Secondary 3 mathematics and English, 2004 and 2010
+(Singapore, National Institute of Education).
+Hogan, D., Rahim, R., Chan, M., Kaur, B. & Towndrow, P. (2012a) Disciplinarity and the logic of
+mathematical tasks in Secondary 3 mathematics lessons in Singapore, in: R. Gillies (Ed.) New
+developments in cognition and instruction research (New York, Nova Science), 337 –370.
+Hogan, D., Chan, M., Rahim, R., Towndrow, P. & Kwek, D. (2012b) Understanding classroom
+talk in Secondary 3 mathematics classes in Singapore, in: B. Kaur (Ed.) Reasoning, communica-
+tion and connections in mathematics: Yearbook 2012, Association of mathematics educators
+(Singapore, World Scientific), 168 –198.
+Hogan, D., Kwek, D., Towndrow, P., Rahim, R., Tan, T. K., Kaur, B., Yang, H. J. & Chan, M.
+(2012c) Opaque or transparent? First reflections on visible learning in Singapore, in: S. Deng
+Zongi, S. Gopinathan & C. Lee (Eds) Globalization and the Singapore curriculum: From policy to
+classroom (London, Springer).
+Hogan, D., Towndrow, P., Kwek, D., Rahim, R., Chan, M., Aye, K. & Teh, L.W. (2012d) Core 2
+Interim Report 2 (Singapore, National Institute of Education).
+Hogan, D., Chan, M. & Ridzuan, R. (2012e) The epistemic and cognitive framing of instructional
+tasks in Secondary 3 mathematics and English classes in Singapore and their relationship to
+student academic performance, paper presented at the Australian Association for Research in
+Education Conference, Sydney, December 4.
+Hu, L. & Bentler, P. (1999) Cutoff criteria for fit indexes in covariance structure analysis: Conven-
+tional criteria versus new alternatives, Structural Equation Modeling, 6(1), 1–55.
+James, M., McCormick, R., Black, P., Carmichael, P., Drummond, M.-J., Fox, A., et al . (2007)
+Improving learning how to learn: Classrooms, schools and networks (Abingdon, Routledge).
+J€oreskog, K. G. (1971) Statistical analysis of sets of congeneric tests, Psychometrika, 36(2), 109 –
+133.
+Kline, R. B. (2011) Principles and practice of structural equation modeling (New York, The Guilford
+Press).
+Kramer-Dahl, A. (2008) Negotiating what counts as English language teaching: Official curriculum
+and its enactment in two Singaporean secondary classrooms, Research Papers in Education ,2 3
+(1), 85–107.
+Assessment and the logic of instructional practice 103
+© 2013British Educational Research Association
+
+=== PAGE 48 ===
+Landis, R. S., Beale, D. J. & Tesluk, P. E. (2000) A comparison of approaches to forming compos-
+ite measures in structural equation modelling, Organizational Research Methods, 3(2), 186–207.
+Leung, F. (2001) In search of an East Asian identity in mathematics education: The legacy of an
+old culture and the impact of modern technology, Educational Studies in Mathematics , 47(1),
+35–41.
+Leung, F. (2006) Mathematics education in East Asia and the west: Does culture matter?, in:
+F. Leung, K.-D. Graf & F. Lopez-Real (Eds) Mathematics education in different cultural
+traditions: A comparative study of East Asia and the west (New York, Springer), 21–46.
+Luo, W., Hogan, D. & Paris, S. G. (2011a) Predicting Singapore students, achievement goals in
+their English study: Self-construal and classroom goas structure, Learning anf Individual
+Differences, 21(5), 526–535.
+Luo, W., Hogan, D., Paris, S. G. & Luo, Z. (2011b) Do performance goals promote learning?
+A pattern analysis of Singapore students’ achievement goals, Contemporary Educational
+Psychology, 36(2), 165–176.
+Mercer, N. (1992) Talk for teaching and learning, in: K. Norman (Ed) Thinking voices: The work of
+the National Oracy Project (London, Hodder & Stoughton), 215 –223.
+Mercer, N. & Littleton, K. (2007) Dialogue and the development of children’s thinking: A sociocultural
+approach (Abingdon, Routledge).
+Michaels, S., O’Connor, C., Hall, M. & Resnick, L. (2002) Accountable talk: Classroom conversation
+that works (CD-ROM set) (Pittsburgh, University of Pittsburgh).
+Michaels, S., O’Conner, C. & Resnick, L. (2008) Deliberative discourse idealized and realized:
+Accountable talk in the classroom and civic life, Studies in the Philosophy of Education , 27(4),
+283–297.
+Michaels, S., Sohmer, R.E. & O’Connor, M.C. (2004) Classroom discourse, in: H. Ammon,
+N. Dittmar, K. Mattheier & P. Trudgill (Eds) Sociolinguistics: An international handbook of the
+science of language and society (New York, Walter de Gruyter), 2351 –2366.
+Ministry of Education (MOE) (2008) More support for school’s ‘Teach less, learn more’ initiatives,
+para. 6 –10. Available online at: http://www.moe.gov.sg/media/press/2008/01/more-support-
+for-schools-teach.php (accessed 6 February 2010).
+Mok, M., Cheng, Y.C., Moore, P. & Kennedy, P. (2006) The development and validation of the
+self-directed learning scale, Journal of Applied Measurement , 7(4), 419–449.
+National Mathematics Advisory Panel (NMAP) (2008) Report of the task force on instructional
+practices (Washington, DC, Department of Education).
+National Research Council (NRC) (2000) How people learn (Washington, DC, National Academy
+Press).
+Newmann, F. M., Marks, H. M. & Gamoran, A. (1995) Authentic pedagogy: Standards that boost
+student performance. Centre on Organization and Restructuring of Schools, Issues in Restruc-
+turing Schools, Report Number 8 (Madison, WI, University of Wisconsin-Madison).
+Nota, l., Soresi, S. & Zimmerman, B. (2004) Self-regulation and academic achievement and
+resilience: A longitudinal study, International Journal of Educational Research , 41(3), 198–215.
+Nystrand, M., Gamoran, A., Kachur, R. & Prendergast, C.D. (1999) Opening dialogue: Under-
+standing the language and learning in the English classroom (New York, Teachers College
+Press).
+Nystrand, M., Wu, L., Gamoran, A., Zeiser, S. & Long, D. (2001) Questions in time: Investigating
+the structure and dynamics of unfolding classroom discourse (Albany, The National Research Center
+on English Learning & Achievement, Report Series 14005, University of New York).
+OECD (1999) Measuring student knowledge and skills: A new framework for assessment (Paris,
+OECD).
+OECD (2010) PISA 2009 key findings. What students know and can do: Student performance in reading,
+mathematics and science (vol. I). Available online at: http://www.oecd.org/pisa/pisaproducts/
+48852548.pdf (accessed 7 February 2012).
+Paris, S. & Paris, A. (2001) Classroom applications of research on self-regulated learning,
+Educational Psychologist, 36(2), 89–101.
+Perkins, D. (1993) Teaching for understanding, American Educator, 17(3), pp. 8, 28 –35.
+104 D. Hogan et al.
+© 2013British Educational Research Association
+
+=== PAGE 49 ===
+Perkins, D. (1998) What is understanding?, in: M.S. Wiske (Ed) Teaching for understanding (San
+Francisco, Jossey Bass), 39 –57.
+Powell, W.W. & DiMaggio, P.J. (1991) The iron cage revisited: Institutional isomorphism and col-
+lective ratinality, in: W.W. Powell & P.J. DiMaggio (Eds) The new institutionalism in organiza-
+tional analysis (Chicago, University of Chicago Press), 63 –82.
+Preacher, K. & Kelley, K. (2011) Effect size measures for mediation models: Quantitative strategies
+for communicating indirect effects, Psychological Methods, 16(2), 93–115.
+Purdie, N. & Ellis, L. (2005) A review of the emphirical evidence identifying effective interventions and
+teaching practices for students with learning difficulties in Years 4,5 and 6 . Learning Processes and
+Contexts Research Program (Camberwell, Victoria, Australian Council for Educational
+Research). http://www.acer.edu.au/documents/Purdie-Ellis_LiteratureReview.pdf (accessed
+7 December 2012).
+Putnam, R., Lampert, M. & Peterson, P. (1990) Alternative perspectives on knowing mathematics
+in elementary schools, Review of Research in Education , 16(1), 57–150.
+Rahim, R., Hogan, D. & Chan, M. (2012) The epistemic framing of mathematical tasks in Second-
+ary 3 mathematics lessons in Singapore, in: B. Kaur (Ed.) Reasoning, communication and connec-
+tions in mathematics: Yearbook 2012, Association of mathematics educators (Singapore, World
+Scientific), 11–56.
+Resnick, L.B., Michaels, S. & O’Connor, C. (2010) How (well structured) talk builds the mind,
+in: R. Sternberg & D. Preiss (Eds) From genes to context: New discoveries about learning from
+educational research and their applications (New York, Springer), 163 –194.
+Rittle-Johnson, B. & Alibali, M.W. (1999) Conceptual and procedural knowledge of mathematics:
+Does one lead to the other?, Journal of Educational Psychology , 91(1), 175–189.
+Rowe, K. J. (2002) The measurement of latent and composite variables from multiple items or indica-
+tors: Applications in performance indicator systems, background paper to keynote address pre-
+sented at the Royal Melbourne Institute of Technology Statistics Seminar Series, October 11.
+Rowe, K. J. (2003) The importance of teacher quality as a key determinant of students’ experiences
+and outcomes of schooling, background paper to invited address presented at the 2003 ACER
+Research Conference, Carlton Crest Hotel, Melbourne, 19 –21 October.
+Rowe, K.J. (2006) School performance: Australian state/territory comparisons of student achievements in
+national and international studies (Camberwell, Victoria, Australian Council for Educational
+Research).
+Sass, D.A. & Smith, P.L. (2006) The effects of parceling unidimensional scales on structural
+parameter estimates in structural equation modelling, Structural Equation Modeling , 13(4),
+566–586.
+Schoenfeld, A.H. (1992) Learning to think mathematically: Problem-solving, metacognition, and
+sense-making in mathematics, in: D. Grouws (Ed.) Handbook for research on mathematics
+teaching and learning (New York, MacMillan), 334–370.
+Schraw, G. (2006) Knowledge: Structures and processes, in: P. Alexander & P. Winne (Eds)
+Handbook of educational psychology (Mahwah, Lawrence Erblaum), 245–264.
+Scott, W.R. (1995) Institutions and organizations (Thousand Oaks, CA, Sage).
+Stein, M.K., Grover, B.W. & Henningsen, M. (1996) Building student capacity for mathematical
+thinking and reasoning: An analysis of mathematical tasks used in reform classrooms, American
+Educational Research Journal, 33(2), 455–488.
+Stein, M., Smith, M., Henningsen, M. & Silver, E. (2009) Implementing standards-based mathematics
+instruction: A casebook for professional development (New York, Teachers College Press).
+Stephenson, M.T. & Holbert, R.L. (2003) A Monte Carlo simulation of observable- versus latent-
+variable structural equation modeling techniques, Communication Research, 30(3), 332–354.
+Towndrow, P.A. (2008) Critical reflective practice as a pivot in transforming science education:
+A report of teacher –researcher collaborative interactions in response to assessment reforms,
+International Journal of Science Education , 30(7), 903–922.
+Towndrow, P. A. & Tan, A. L. (2006) Transforming science practical assessment practices in Sin-
+gapore through innovative departmental planning, paper presented at the International Science
+Education Conference 2006, ‘Science education: What works?’, November, Singapore.
+Assessment and the logic of instructional practice 105
+© 2013British Educational Research Association
+
+=== PAGE 50 ===
+Towndrow, P.A., Tan, A.L., Yung, B.H.W. & Cohen, L. (2010) Science teachers’ professional
+development and changes in science practical assessment practices: What are the issues?,
+Research in Science Education, 40(2), 117–132.
+Urdan, T. & Midgley, C. (2001) Academic self-handicapping: What we know, what more there is
+to learn, Educational Psychology Review, 13(2), 115–138.
+Wiggins, G. P. & McTighe, J. (2005) Understanding by design (2nd ed.). (Alexandria, VA: ASCD).
+Wiliam, D. (2007) Keeping learning on track: Classroom learning and the regulation of assessment,
+in: K. Lester (Ed.) Second handbook of research on mathematics teaching and learning (Charlotte,
+NC: Information Age Publishing), 1053 –1098.
+Wolters, C. (2004) Advancing achievement goal theory: Using goal structure and goal orientation
+to predict students’ motivation, cognition, and achievement, Journal of Educational Psychology ,
+96(2), 236–250.
+Wong, N.-Y. (2004) The CHC learner’s phenomenon: Its implications on mathematics education,
+in: L. Fan & L. Fan (Ed.) How Chinese learn mathematics: Perspectives from insiders (Singapore,
+World Scientific Publishing), 503 –534.
+Zimmerman, B.J. & Schunk, D.H. (2011) Handbook of self-regulation of learning and performance
+(London, Routledge).
+106 D. Hogan et al.
+© 2013British Educational Research Association
+

@@ -253,7 +253,7 @@ updated: 2026-11-18
 
 ---
 
-> [!contrast-table] 所有命题归纳
+> [!contrast-table|notitle] 所有命题归纳
 > | 命题类型 | 所属层次 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
 > |:---|:---|:---|:---|:---|
 > | **行动后果与真理工具论** | 层次一：哲学层面 | 将真理定义为情境行动中经受检验的有效后果，实证证据仅是探究假设而非行动规则 | 认识论与探究哲学 | Dewey (1916, 1929); Cherryholmes (1992); [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] |
@@ -294,7 +294,7 @@ updated: 2026-11-18
 > > - **技术官僚治理取向** 强调依托量化指标与实用技能干预，以“行之有效（What works）”解决劳动力市场匹配与公共治理问责问题。
 > > - **批判政策社会学取向（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）** 指责这种实用主义范式遮蔽了关于教育公共善与社会平等的深层政治决断，将教育降格为服务资本竞争的技术工具。
 
-> [!warning] 适用局限
+> [!warning|limits] 适用局限
 > 实用主义有别于无原则的“怎么都行”（Anything Goes）；它不能替代研究者对价值立场、[[Research Ethics|研究伦理]]与权力关系的审视，亦无法消除方法实施本身的质量缺陷。（Denscombe, 2008；[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p. 622]]）
 
 ---
@@ -329,4 +329,5 @@ updated: 2026-11-18
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 剖析国际多边机构在生成[[Global Educational Discourse|全球教育话语]]时的“紧迫实用主义（urgent pragmatism）”与行动改良逻辑，揭示其过度简化机制与[[Epistemology|认识论]]盲区（pp. 350–352）。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 探讨实用主义哲学（杜威《实用主义美国》）对现代[[Engineering Mindset|工程思维]]与反教条经验[[Epistemology|认识论]]的奠基（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引杜威论证实证证据仅是明智探究的假设而非行动铁律，批判将量化[[Effect Size|效应量]]排名[[Alienation|异化]]为技术统治处方的做法（pp. 93, 104）。
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 分析新加坡发展型国家教育治理中的“实用主义范式”，揭示政策在吸纳全球 21 世纪素养与保持应试分流双轨之间达成的精明平衡。
 
