@@ -1060,5 +1060,19 @@
       "sentence": "*策略选课保底* 高考被调剂至光电工程系，低年级未定方向时研读校园论坛（Bulletin Board System, BBS）盛传的《选课学概论》，避开硬核严苛课程、选修给分宽松且任务轻便课程以维持 3.5 绩点。",
       "target": "wiki/facts/china/Bangkok Business School.md"
     }
+  ],
+  "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md": [
+    {
+      "sentence": "*制度化渗透* 感受北方大学全方位育人网络系统的导向功能，将奉献国家确立为崇高追求。",
+      "target": "wiki/concepts/educational-philosophy/The Sublime.md"
+    },
+    {
+      "sentence": "自我表达图式把工作当成探索世界、展现个性的支持手段，学生由此化身为人生体验者。",
+      "target": "wiki/concepts/educational-technology/Avatar.md"
+    },
+    {
+      "sentence": "在对市场上各种各样有趣事物的追求中，工作、财富、甚至闲暇的首要意义，就是能让消费者在时间和空间上得到双重解放，从而获得更多的消费自由。",
+      "target": "wiki/concepts/educational-philosophy/The Interesting.md"
+    }
   ]
 }

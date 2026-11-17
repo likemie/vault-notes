@@ -71,6 +71,7 @@ related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch05]]"
 confidence: high
 status: completed
 created: 2026-05-22
@@ -105,7 +106,9 @@ updated: 2026-11-11
 > - **1992 — 基础教育课程范畴的世界模型** 迈耶、卡门斯与[[Aaron Benavot|贝纳沃特]]（Meyer, Kamens, & Benavot, 1992）出版《大众学校知识》，系统证明全球各国在小学课程门类与数理课时分配上高度趋同，确立了世界文化模型在具体知识体制中的扩散证据。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 108)]]
 > - **1997 — 宏观世界文化模型扩展与孤岛实验** 迈耶等（Meyer et al., 1997）提出著名的孤岛思想实验（Island Society Experiment），论证即使是孤立社会被发现后也会自发建立宪法、人权、民主与正规学校，确立了现代世界文化模型的弥漫性特征。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 103–104)]]
 > - **2009 — 批判政治经济学解构与本土折射** [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯批判性检视了世界文化模型中的四项核心信念；阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）系统揭示普世文化模型掩盖核心-边缘不平等的阶级属性，并引入微观民族志说明地方行动者对全球模型的变通与抵制。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–76)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–109)]]
+> - **2011 — 劣势环境决策中的文化异质性** 大卫·哈丁（David Harding, 2011）拓展文化模型理论，指出弱势群体置身于多元且相互冲突的文化模型之中，个体的阶层背景与微观处境直接规约了对不同文化模型的识别与激活倾向。
 > - **2012 — 学习文化模型实证体系成型** 李瑾系统构建了西方“心智倾向”（Mind Orientation）与东亚“美德倾向”（Virtue Orientation）学习文化模型的实证对偶框架。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 87–105)]]
+> - **2023 — 大学生工作意义建构的三角图式模型** 郑雅君（[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|2023, 第五章]]）进一步实证揭示名校生面临地位保障、家国理想与个人趣味三大文化图式模型的拉扯，优势生源倾向激活自我趣味模型，而弱势生源更深嵌入家庭责任与反哺模型（pp. 274–279）。
 
 ---
 
@@ -212,5 +215,6 @@ updated: 2026-11-11
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 运用[[Prototype Methods|原型方法]]系统提炼西方与东亚学习文化模型的认知人类学与文化心理学经典研究。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 深入解构[[World Society Theory|世界文化理论]]的四项核心文化信念，提出基于[[Conditioned State Theory|受限国家]]与[[Dependency Theory|依附理论]]的批判性比较[[Analytic Framework|分析框架]]。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合[[World-Systems Theory|世界体系分析]]与多国微观[[Ethnography|民族志]]案例，系统对质世界文化模型与现实主义依附论，确立全球与本土辩证互动的分析[[Paradigm|范式]]。
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch05|Zheng (2023)]] — 将文化模型理论应用于中国名校毕业生工作意义建构分析，揭示多重文化图式拉扯与阶层激活分化机制（第五章）。
 
 ---

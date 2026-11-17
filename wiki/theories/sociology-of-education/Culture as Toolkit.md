@@ -53,6 +53,7 @@ related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch04]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch05]]"
 confidence: high
 status: active
 created: 2026-05-08
@@ -82,7 +83,7 @@ updated: 2026-11-17
 > - **1986 年 — 理论奠基** 斯威德勒系统确立工具箱范式，提出稳定生活（settled lives）与不稳定生活（unsettled lives）的文化运作机制二分（Swidler, 1986）。
 > - **1992 年 — 理论扩展** 威廉·休厄尔（William H. Sewell, Jr., 1992）提出文化图式的“可迁移性”（transposability）与资源的“多义性”，阐明行动者跨越组织[[Champ|场域]][[Creativity|创造性]]调用文化工具的能动机制。
 > - **2009 年 — 理论综合** 斯蒂芬·维齐（Stephen Vaisey, 2009）提出文化在行动中的双过程模型，以认知科学双加工理论调和工具箱范式（有意识反思推理）与价值观驱动范式（无意识直觉判断）。
-> - **2023 年 — 高等教育分层应用** [[Yajun Zheng|郑雅君]]在《金榜题名之后》（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]]，详见[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|第一章]]、[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|第二章]]与[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]）将工具箱理论引入中国重点大学学生出路分化研究，在第三章中将稳定生活与不稳定生活直接映射为[[Goal-Controlled Mode|目标掌控模式]]与[[Intuition-Dependent Mode|直觉依赖模式]]的行动逻辑（pp. 71, 73–74），并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]实证检验不稳定生活状态下直觉依赖者通过密集[[Social Engagement|社会性投入]]重组工具箱实现突围的微观机制。
+> - **2023 年 — 高等教育分层应用** [[Yajun Zheng|郑雅君]]在《金榜题名之后》（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]]，详见[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|第一章]]、[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|第二章]]与[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]）将工具箱理论引入中国重点大学学生出路分化研究，在第三章中将稳定生活与不稳定生活直接映射为[[Goal-Controlled Mode|目标掌控模式]]与[[Intuition-Dependent Mode|直觉依赖模式]]的行动逻辑（pp. 71, 73–74）；在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]实证检验不稳定生活状态下直觉依赖者通过密集[[Social Engagement|社会性投入]]重组工具箱实现突围的微观机制；并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|第五章]]整合韦伯价值观驱动论与斯威德勒工具箱范式，将目的（价值信念）与手段（策略能力）双维交叉，建构出解释毕业出路生成机制的 2×2 四分类模型（pp. 274, 279–280, 292）。
 
 ---
 
@@ -165,5 +166,5 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 引入工具箱理论解释生活组织模式分化（[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]）；并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]实证检验不稳定生活状态下重组文化工具箱的突围路径。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 引入工具箱理论解释生活组织模式分化（[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]）；在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]实证检验不稳定生活状态下重组文化工具箱的突围路径；并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|第五章]]整合目的与手段双维提出毕业出路生成的 2×2 分类机制（pp. 279–288, 292）。
 > - [[Dual-Process Model of Culture in Action]] — 斯蒂芬·维齐（Vaisey, 2009）提出双过程模型，调和工具箱范式与价值驱动范式在不同意识层面的功能分工。
