@@ -7,9 +7,9 @@ aliases:
 summary: "由教师主动主导、以明确目标说明、分步示范、有指导练习、理解检查与即时反馈为核心的高结构化教学模式，在程序性知识与基础技能教学中成效显著，但在高阶思维培养中需与情境探究结合以避免教育副作用"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 76
-related_level: 7
-related_stars: "💎💎⭐"
+related_count: 80
+related_level: 8
+related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - direct-instruction
@@ -39,6 +39,8 @@ related_concepts:
   - "[[Success Criteria]]"
   - "[[Academic Achievement]]"
   - "[[Zone of Desired Effects]]"
+  - "[[Lesson Study]]"
+  - "[[High-Performing Education Systems]]"
   - "[[Critical Thinking]]"
   - "[[Creativity Training]]"
   - "[[Divergent Thinking]]"
@@ -55,6 +57,7 @@ related_concepts:
   - "[[Worked Examples]]"
   - "[[Effective Teaching]]"
   - "[[Scientific Explanation]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Alienation]]"
   - "[[Open-Mindedness]]"
   - "[[Heterogeneity]]"
@@ -86,10 +89,10 @@ related_persons:
   - "[[John Sweller]]"
   - "[[Deanna Kuhn]]"
 related_facts:
-  - "[[Every Student Succeeds Act]]"
-  - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[PISA]]"
   - "[[TIMSS]]"
+  - "[[Every Student Succeeds Act]]"
+  - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[Australian Curriculum]]"
 related_arguments:
   - "[[Argument_Zhao_2017_JEC]]"
@@ -97,6 +100,7 @@ related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Slavin_2019_EducPsychol]]"
   - "[[Argument_DeJong_2023_ERR]]"
+  - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Sahlgren_2015_CPS]]"
@@ -104,7 +108,9 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-15
+updated: 2026-11-17
+---
+
 ---
 
 > [!def] Direct Instruction
@@ -114,7 +120,7 @@ updated: 2026-11-15
 > 1. **狭义的大写 DI（Direct Instruction）** 专指 Siegfried Engelmann 与 Wes Becker 开发的高度脚本化（Scripted）、基于精细行为分析与快速口头响应的标准化课程补救项目（如美国 Project Follow Through 研究）；
 > 2. **广义的小写 di（direct instruction / explicit instruction）** 泛指以 Barak Rosenshine 的教学原则为代表的、以教师清晰讲解和显性结构为特征的一般性教学取向。在当代教育综合研究与循证改革实践中，多在此广义框架下探讨。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, pp. 7–8)]]; [[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 433)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 强调教师作为[[Scaffolding\|认知脚手架]]的“主动激活者（Activator）”，通过将复杂认知过程外显化与结构化，降低学习者的外在认知负荷。
 > - **用途** 用于解释基础知识、程序性解题技能的高效掌握机制，并作为评价[[Inquiry-Based Learning\|探究式学习]]、[[Discovery Learning\|发现学习]]与微观课堂结构的基准参照。
 > - **边界** 区别于无互动的单一满堂灌单向讲授；同时在培养发散性[[Creativity\|创造力]]、深层批判性探究与学习自主性上面临明显的边际效用递减与教育[[Side Effects|副作用]]。
@@ -171,6 +177,9 @@ updated: 2026-11-15
 > [!claim] Sweller, J., & Kirschner, P. A.
 > **[[Cognitive Load Theory\|认知负荷理论]]对显性直接指导的辩护** 初学者在面对新领域时缺乏长时记忆中的知识图式（Schemata）。若采用未加指导的自由探索，有限的工作记忆会瞬间被盲目搜寻的外在负荷挤爆；直接教学通过“专家示范 + 样例解析 + 指导练习”，将外部认知负荷降至最低，使认知资源完全聚焦于图式建构与技能自动化。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 1–2)]]
 
+> [!claim] [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]]; Hogan (2014)
+> **高绩效系统中的基础性主干规程与学术高分预测力** 新加坡实证[[Lesson Study|课堂研究]]表明（CRPP 数据；Hogan et al., 2013; Hogan, 2014），在东亚[[High-Performing Education Systems|高绩效教育系统]]中，以全班直接讲授（Direct Instruction）、大纲知识点全覆盖与标准化应试操练为主干的教学规程，持续构成预测学生学术成就的最强且最稳健力量。直接讲授为严密审题算法与逻辑推演奠定了扎实认知基础，使学生在 [[PISA]] 与 [[TIMSS]] 等纸笔测评中稳定输出优异战绩。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 458–460)]]
+
 ---
 
 > [!concept-proposition] 命题二｜孤立的直接教学能提升特定思维技能，但唯有结合学科情境才能实现高阶迁移
@@ -225,7 +234,7 @@ updated: 2026-11-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **认知负荷与技能精熟** | 小步子示范与指导练习优化认知负荷，基础知识与程序技能效应量显著（$d \approx 0.59$） | 基础教育入门、数学计算、语法规则、技能补救 | Rosenshine (1986); [[John Sweller\|Sweller (2006)]]; [[John Hattie\|Hattie (2009)]] |
+> | **认知负荷与技能精熟** | 小步子示范与指导练习优化认知负荷，基础知识与程序技能效应量显著（$d \approx 0.59$） | 基础教育入门、数学计算、语法规则、技能补救 | Rosenshine (1986); [[John Sweller\|Sweller (2006)]]; [[John Hattie\|Hattie (2009)]]; [[Argument_Deng_2016_CE\|Deng and Gopinathan (2016)]] |
 > | **高阶思维工具箱定位** | 显性直接传授思维准则是高阶思维形成的重要基石，但须与情境探究融合成混合模式 | 批判性思维课程、创造力培训、跨学科综合探究 | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]]; [[Argument_Park_2026_TSC\|Park et al. (2026)]] |
 > | **教育副作用与生态代价** | 长期依赖高控制直接教学可能压制学生的创造性探索、好奇心与自我调节能力 | 教学政策评估、全人发展与长周期教育追踪 | [[Argument_Zhao_2017_JEC\|Zhao (2017)]]; [[Argument_Terhart_2011_JCS\|Terhart (2011)]] |
 > | **时序协同与长效保持** | 单一直接教学长效迁移受限，与探究实践前后衔接（如生产性失败与即时支架）方能实现深层概念内化 | 科学概念转变、延迟学业保持与跨情境迁移 | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]; [[Deanna Kuhn\|Dean & Kuhn (2007)]] |
@@ -239,6 +248,7 @@ updated: 2026-11-15
 > - **1990–2000 年代 — [[Cognitive Load Theory\|认知负荷理论]]支撑与 CSR 全校改革采纳** 认知负荷理论从[[Working Memory\|工作记忆]]局限性为显性指导提供认知[[Scientific Explanation\|科学解释]]；美国全面学校改革计划（Comprehensive School Reform, CSR）将 Direct Instruction 列为受联邦资助的标杆全校方案之一。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
 > - **2010 年代至今 — 可见学习综合、副作用反思与时序协同模型** Hattie（$d=0.59$）确立其教师激活地位；[[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 确立其在高阶[[Critical Thinking\|批判性思维]]中的显性混合模式；[[Argument_Zhao_2017_JEC\|Zhao (2017)]] 提出教育副作用理论；[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 系统反思直接教学绝对优越论，提出直接教学与[[Inquiry-Based Learning\|探究式学习]]的时序协同模型。
 > - **2016 年 — 宏观[[Research Synthesis|证据综合]]审计与[[Incommensurability|不可通约性]]批判** [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 揭露 Hattie 二级综合中伪造标准误导致 Haas (2005) 直接教学权重被削减 53.5%，并提出“[[Category Mistake|德甲联赛隐喻]]”，指出直接教学作为全学年宏观方案与瞬时微观实验不可[[Commensuration|通约]]，教师决策应聚焦于其与练习策略的最优组合而非机械非此即彼。
+> - **2016 年 — 高绩效系统制度主干与实证有效性确证** [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] 结合新加坡大规模课堂编码（CRPP 数据；Hogan et al., 2013; Hogan, 2014），确证直接讲授作为高绩效系统制度主干的稳固地位，实证证实其对标准化测验学术表现具有最强预测效力，破除了西方咨询机构将高分归因于去情境化[[Constructivist Paradigm|建构主义]]改革的假设。
 
 ---
 
@@ -321,7 +331,20 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Academic Achievement]] | 概念 | 直接讲授与应试操练对标准化纸笔测验学业成就具有最稳健的预测效力。 |
+> | [[Inquiry-Based Learning]] | 概念 | 与直接教学构成互补的时序关系，二者结合保障长效保持与概念内化。 |
+> | [[Critical Thinking]] | 概念 | 显性直接指导与学科探究相结合的混合模式最能促进批判性思维。 |
+> | [[Cognitive Load Theory]] | 理论 | 为直接教学提供认知科学机理解释，强调降低初学者工作记忆负荷。 |
+> | [[John Hattie]] | 人物 | 在可见学习综合中确立直接教学的高效应量（$d = 0.59$）与激活者地位。 |
+> | [[Barak Rosenshine]] | 人物 | 提炼出直接教学十大显性教学原则的教育心理学家。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 评估独立直接教学与[[Infusion Approach\|学科融入模式]]在[[Critical Thinking\|批判性思维]]培养中的相对效应，揭示显性混合模式的最优性。
 > - [[Argument_Zhao_2017_JEC\|Zhao (2017)]] — 从教育副作用视角深度反思直接教学与 Hattie [[Effect Size\|效应量]]崇拜背后的生态代价。
 > - [[Argument_Terhart_2011_JCS\|Terhart (2011)]] — 对比英美[[Positivism\|实证主义]]直接教学论与欧陆经典教学论（[[Didaktik]]）的[[Paradigm\|范式]]差异。
@@ -331,4 +354,5 @@ updated: 2026-11-15
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统检视直接教学在科学教育中的适用边界，指出脱离探究练习的单一直接讲授无法保障长效保持与迁移，主张将直接教学适时嵌入探究全周期。
 > - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 历史实证考证芬兰保留教师主导直接教学对国际测验高分的因果贡献，揭示转向学生中心探究法诱发学业滑坡（pp. 38–48, 58–62）。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统审计 Hattie 直接教学元分析汇总，揭露 Haas (2005) [[Standard Error|标准误]]伪造导致权重缩水 53.5% 的计算缺陷，并提出[[Category Mistake|德甲联赛隐喻]]论证全学年直接教学与瞬时实验的[[Incommensurability|不可通约性]]。
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 结合新加坡实证课堂研究（CRPP 数据；Hogan et al., 2013; Hogan, 2014），确证直接讲授在大纲知识覆盖与应试解题中的支柱功能，揭示以直接教学为主干的混合规程造就高绩效系统国际测验高分的机理。
 

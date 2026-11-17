@@ -103,13 +103,12 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Social-Emotional Learning]]"
   - "[[Preregistration]]"
-  - "[[Achievement and Aptitude Tests]]"
-  - "[[Deficit Framing]]"
-  - "[[Evidence-Based Policy-Making]]"
   - "[[Professional Learning Community]]"
+  - "[[Deficit Framing]]"
   - "[[Critical Thinking]]"
   - "[[Problem-Based Learning]]"
   - "[[Document]]"
+  - "[[Achievement and Aptitude Tests]]"
   - "[[Rote Learning]]"
   - "[[Tutoring Interventions]]"
   - "[[Socioeconomic Status]]"
@@ -150,6 +149,7 @@ related_methods:
   - "[[Matching]]"
   - "[[Secondary Analysis]]"
   - "[[Thematic Synthesis]]"
+  - "[[Multiple Regression]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
@@ -569,7 +569,22 @@ updated: 2026-11-17
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Higher-Order Thinking Skills]] | 概念 | 学业成就不仅包含基础知识掌握，更涵盖高阶思维与复杂推理等多元维度。 |
+> | [[Epistemic Cognition]] | 概念 | 认识论认知能稳健预测高阶概念性知识掌握与反思性论证成就。 |
+> | [[Direct Instruction]] | 概念 | 直接讲授与应试操练对标准化纸笔测验学业成就具有高预测力。 |
+> | [[Task Structure]] | 概念 | 良构与劣构任务结构调节认识论信念对微观学业表现的制约机制。 |
+> | [[Visible Learning]] | 概念 | 围绕学业成就效应量构建的宏观证据库，引发测量窄化与因果链争议。 |
+> | [[PISA]] | 事实 | 衡量国家宏观学业成就的国际大规模评估项目，常被政治化转译为危机修辞。 |
+> | [[National Pupil Database]] | 事实 | 英格兰官方学业档案数据库，为因果干预评估提供低损耗客观基准。 |
+> | [[John Hattie]] | 人物 | 提出学业成就方差分解模型与可见学习二阶综合体系的学者。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 确立了学业成就的六大方差源分解（教师占系统内最大可控核心），揭示宏观资源投入与 [[National Assessment of Educational Progress|NAEP]] 成绩脱节悖论，并依托 [[Assessment Tools for Teaching and Learning|asTTle]] 系统推动基于[[Learning Progression|学业进阶]]与形成性反馈的评价模式。
 > - [[Argument_Lodewyk_2007_EducPsych|Lodewyk (2007)]] — 通过大样本调查与组内平衡任务实验，揭示了中学生长期总体学业成就（EOAA）的[[Epistemology|认识论]]预测源，实证确立了[[Task Structure|任务结构]]（良构 vs 劣构）对学业表现认识论制约效应的调节作用，并提供了[[Gender Differences in Academic Achievement|学业成就性别差异]]与效标锚定的关键证据。
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 通过大规模[[Meta-analysis|元分析]]系统考察了[[Epistemic Cognition|认识论认知]]对不同类型学业成就的预测力，确立了认知加工深度[[Matching|匹配法]]则（概念性/论证 vs 程序性）以及测试客观性[[Measurement Alignment|对齐法则]]。
@@ -601,3 +616,4 @@ updated: 2026-11-17
 > - [[Argument_Sarbiewska_2019_KiW|Sarbiewska (2019)]] — 梳理新西兰 2003 年《面向多元背景学生的优质教学》国家战略演进，借助 Alton-Lee 方差分解（校内班级方差达 59%）与 [[Eric Hanushek|Hanushek]] 教师年成长增量数据，论证教育治理从宏观治理结构向微观有效教学转型的制度轨迹。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对 43 篇系统改进实证文献开展[[Thematic Synthesis|质性主题综合]]，揭示全系统研究普遍将大规模标准化统考分数作为评判改进的核心标尺，反思其忽视非认知与全人发展目标的绩效主义倾向。
 > - [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|郑雅君 (2023)]] — 第四章实证剖析精英大学中学分绩点向初赛准入底线的退化，揭示目标掌控者对学业成就的边际精力管理与社会性投入协同机制。
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 结合新加坡课堂编码与[[Multiple Regression|多元回归]]分析，揭示以直接讲授与应试操练为主干的混合教学规程对 PISA 与 TIMSS 等国际测评学业成绩具有最强预测效力，打破将高分归因于纯建构主义探究的政策借用迷思。

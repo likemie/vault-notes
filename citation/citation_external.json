@@ -16302,7 +16302,9 @@
     "McAbee & Oswald (2013)": "McAbee & Oswald, 2013",
     "McAbee & Oswald, 2013": "McAbee & Oswald, 2013",
     "McAdams (1993)": "McAdams, 1993",
+    "McAdams (1996)": "McAdams, 1996",
     "McAdams, 1993": "McAdams, 1993",
+    "McAdams, 1996": "McAdams, 1996",
     "McAdie (2017)": "McAdie, 2017",
     "McAdie, 2017": "McAdie, 2017",
     "McAleavy & Elwick (2016)": "McAleavy & Elwick, 2016",
@@ -110394,6 +110396,7 @@
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/concepts/comparative-education/High-Performing Education Systems.md",
         "wiki/concepts/competency-and-assessment/Academic Achievement.md",
+        "wiki/concepts/instruction-pedagogy/Direct Instruction.md",
         "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md"
       ],
       "title": "A Decade of Pedagogical Research in Singapore"
@@ -110453,7 +110456,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
-        "wiki/concepts/competency-and-assessment/Academic Achievement.md"
+        "wiki/concepts/competency-and-assessment/Academic Achievement.md",
+        "wiki/concepts/instruction-pedagogy/Direct Instruction.md"
       ],
       "title": "Why Is Singapore’s School System So Successful, and What Can Other Countries Learn from It?"
     },
@@ -147122,6 +147126,21 @@
         "wiki/persons/us/Dan P. McAdams.md"
       ],
       "title": "The Stories We Live By: Personal Myths and the Making of the Self"
+    },
+    "McAdams, 1996": {
+      "aliases": [
+        "McAdams, 1996",
+        "McAdams (1996)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "McAdams, 1996"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Dan P. McAdams.md"
+      ],
+      "title": ""
     },
     "McAdie, 2017": {
       "aliases": [
