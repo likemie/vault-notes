@@ -57,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-03
-updated: 2026-10-29
+updated: 2026-11-18
 ---
 
 > [!def] Causal Modeling
@@ -192,3 +192,4 @@ updated: 2026-10-29
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] — 在 Mplus 中使用复合抽样校正（Type=Complex）构建潜[[Variable\|变量]]结构方程模型，检验了科学知识确定性信念在中介认知能力、家庭[[Cultural Capital\|文化资本]]与高中毕业成绩之间的因果路径，并估计了跨期潜变量回归。
+> - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 运用结构方程模型（SEM）整合潜变量测量与结构路径，实证检验新加坡中学课堂中传统教学、直接教学、理解教学与共同调节学习的因果层级依赖网络。

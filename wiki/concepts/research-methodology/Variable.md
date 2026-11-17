@@ -6,7 +6,7 @@ aliases:
 summary: "实证研究与社会科学中可被测量或观察且在不同个体、组织或系统之间发生变异的特征或属性，是构建假说与检验因果关系的基本分析单位；比较教育实证主义代际通过以概念变量替代国别专名，奠定了跨系统经验假说检验的科学基石。"
 type: concept
 domain: "research-methodology"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-31
-updated: 2026-11-11
+updated: 2026-11-18
 ---
 
 ---
@@ -294,3 +294,4 @@ updated: 2026-11-11
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 深入剖析比较教育第三代际实证学者通过以“变量”替代“体系”追求通则因果定律的[[Epistemology|认识论]]转向，并反思方法论主义对历史脉络的抽空（pp. 147–149）。
 > - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 强调在学业差距分析中必须纳入家庭[[Cultural Capital|文化资本]]与经济阶级等校外社会变量，批判抽离非学校变量的校内还原模型及其政治误导（p. 91）。
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit07|Wang & Barabási (2021)]] — 引入相对无量纲化变量 $c_f = c/c_0$ 消除跨学科与跨年代基线差异，实证揭示引文分布的尺度不变性（Ch. 7, pp. 169–174）。
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 基于大规模课堂实证数据的多变量回归分析，证实直接讲授、大纲知识覆盖与系统备考变量对学生测验表现具有稳健正向预测力。

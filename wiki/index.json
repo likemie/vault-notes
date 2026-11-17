@@ -12231,6 +12231,18 @@
     ]
   },
   {
+    "title": "Pedagogical Hybridity",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Pedagogical Hybridity.md",
+    "aliases": [
+      "教学杂糅",
+      "教学混合主义",
+      "杂糅教学实践",
+      "杂糅教学法",
+      "Non-Sectarian Pragmatism"
+    ]
+  },
+  {
     "title": "Peer Assessment",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Peer Assessment.md",
@@ -12719,6 +12731,17 @@
     ]
   },
   {
+    "title": "Teaching for Understanding",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Teaching for Understanding.md",
+    "aliases": [
+      "为理解而教",
+      "理解性教学",
+      "TfU",
+      "Teaching for Understanding Framework"
+    ]
+  },
+  {
     "title": "Teams-Games-Tournament",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Teams-Games-Tournament.md",
@@ -12837,6 +12860,18 @@
     "path": "wiki/concepts/learning-science-cognitive-science/Attentional Inertia.md",
     "aliases": [
       "注意力惯性"
+    ]
+  },
+  {
+    "title": "Co-regulated Learning",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Co-regulated Learning.md",
+    "aliases": [
+      "共同调节学习",
+      "协同调节学习",
+      "协作调节学习",
+      "Co-regulation of Learning",
+      "CRLS"
     ]
   },
   {

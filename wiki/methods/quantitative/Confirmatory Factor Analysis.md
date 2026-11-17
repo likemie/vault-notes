@@ -45,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-10-29
+updated: 2026-11-18
 ---
 
 ---
@@ -145,3 +145,4 @@ updated: 2026-10-29
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] —  使用验证性因子分析（CFA）评估了《[[Epistemic and Ontological Cognition Questionnaire\|认识论与本体论认知问卷]]》（EOCQ）在数学和历史领域的维度结构及其数据拟合度。
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 以 258 名教师数据比较单因子、一阶与二阶模型，确立四因子二阶结构，并以 [[Average Variance Extracted\|AVE]] 检验[[Convergent and Discriminant Validity\|区分效度]]、以多组 CFA 检验跨性别测量等值。
+> - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 使用高阶验证性因子分析确立传统教学、直接教学、理解性教学和共同调节学习四个潜在教学策略模型在中学数学与英语课堂中的多维测量效度。
