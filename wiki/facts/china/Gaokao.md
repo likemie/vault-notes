@@ -31,15 +31,21 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Document]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Cultural Capital]]"
+  - "[[Habitus]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Yajun Zheng]]"
 related_facts:
   - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Civil Service Examination]]"
 related_arguments:
   - "[[Argument_Wang_2025_CE]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
 confidence: high
 status: active
 created: 2026-07-22
@@ -102,6 +108,8 @@ updated: 2026-11-02
 > - **社会流动与公平公信力基石** 尽管备考压力较大，教育界与公众普遍认同高考为平民子弟提供了不可替代的平等的社会流动通道。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 594)]]
 > - **命题改革对教学法创新的催化** 随着高考命题从[[Rote Learning|死记硬背]]转向强调综合分析与[[Critical Thinking|批判性思维]]，高压问责反而促使进取型学校引入以学生为中心教育（[[Learner-Centred Education|LCE]]）以寻求成绩突破。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 598–599)]]
 > - **权力共享的结构硬边界** 刚性高考大纲决定了学习内容与考查方式必须由国家和教师掌控，排除了学生共决课程大纲与评估形式的可能性。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 599)]]
+> - **应试惯性形塑阶层化大学适应图式** 郑雅君指出，县中与超级中学高度集约的高考备考机制（刷题、高压纪律管理与单一分数导向）在弱势学生身上形塑了依赖外部指令与题海战术的苦学惯性，进入大学场域后易转化为适应不良的[[Intuition-Dependent Mode|直觉依赖模式]]；优势阶层集中的开放式高中在高考备考之余保留了自主探索与综合活动，培养了兼顾长程规划的[[Goal-Controlled Mode|目标掌控模式]]。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 74–82)]]
+> - **高考专业志愿填报的阶层逻辑分流** 高考出分后的志愿填报构成了关键的文化资本折现关卡：优势家庭立足长程发展开展前瞻性专业布局与通道转换，弱势家庭受制于信息匮乏，往往采取不浪费高考分数的分数最大化逻辑、情绪补偿或被动避短，造成专业错配与后续学业转换障碍。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 82–90)]]
 
 > [!stat-cards]- 核心数据
 > - **1952 / 1977** 高考初建与文革后正式恢复的历史年份。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 589)]]
@@ -139,8 +147,14 @@ updated: 2026-11-02
 > | [[Test-Based Accountability]] | Concept | 高考构成中国教育高利害考试问责系统的核心硬约束。 |
 > | [[Learner-Centred Education]] | Concept | 统一高考大纲设定了 LCE 权力共享维度的结构硬边界。 |
 > | [[Examination-Oriented Education]] | Concept | 高考的高利害选拔机制直接催生的高强度应试教育形态。 |
+> | [[Goal-Controlled Mode]] | Concept | 开放高中生兼顾高考与综合发展，形成主动规划的大学生活模式。 |
+> | [[Intuition-Dependent Mode]] | Concept | 县中高强度高考备战诱发的苦学惯性，使学生入校后陷入顺其自然的被动适应。 |
+> | [[Cultural Capital]] | Concept | 家庭文化资本决定了高考出分后专业志愿填报的前瞻性与信息充分度。 |
+> | [[Habitus]] | Concept | 高考备考制度环境深度塑造了不同阶层学生的深层认知与行动图式。 |
+> | [[Yajun Zheng]] | Person | 实证考察高考备战环境与志愿填报逻辑对重点大学生出路分化的深远影响。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_2025_CE|Wang and McLaughlin (2025)]] — 实证检验重点高中在高考硬约束下转译践行以学生为中心教学法的核心[[Document|文献]]。
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch03|郑雅君 (2023, 第三章)]] — 实证剖析普通高中与县中高考备战生态对学生行动图式的深层烙印，揭示高考志愿填报中的阶层化决策逻辑如何埋下大学出路分化的最初伏笔（pp. 65–104）。

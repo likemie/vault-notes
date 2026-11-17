@@ -39,6 +39,7 @@ related_facts:
   - "[[Project 985]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
 confidence: high
 status: active
 created: '2026-05-08'
@@ -101,6 +102,7 @@ updated: 2026-11-17
 > - **长程学业投入的制度锁定** 推免选拔将考核周期拉长至大学前六个学期，要求学生保持持续优异且稳定的课程绩点，构成长程锁定学生[[Academic Engagement|学业投入]]的核心装置。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(郑雅君, 2023, pp. 85–88)]]
 > - **高确定性与低备考成本的升学通道** 获得推免资格的学生免受全国统考激烈的单次考试淘汰压力与数月全脱产备战内耗，享有极高的录取保障。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(郑雅君, 2023, pp. 86–87)]]
 > - **生活组织模式与阶层文化资本的筛选** 推免机制天然青睐从入学伊始便洞察评价体系并实施绩点管理的“目标掌控者”；习惯于高中苦学惯性而忽视绩点规划的“直觉依赖者”往往面临信息滞后与机会丧失。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(郑雅君, 2023, pp. 87–88)]]
+> - **出路决策中的分化机制** 在第三章质性个案中，直觉依赖者容易因早期规则认知滞后错失推免机会（如冰倩大三才知晓绩点与保研绑定），或在缺乏求职规划时将推免直博视作回避就业市场的仓促避难所（如禹海）；目标掌控者则将保研作为可计算的理性选项，甚至主动放弃保研资格投身商业求职（如泽斌凭借实习直接斩获高薪岗位）。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 66–69)]]
 
 > [!stat-cards]- 核心数据
 > - **≥ 40%** 原 [[Project 985|985 工程]]重点大学本科生推免直研比例普遍达到 40% 以上，部分优势基础学科拔尖班推免率超过 70%。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(范皑皑和杨钋, 2015；郑雅君, 2023, p. 86)]]
@@ -142,4 +144,4 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 系统揭示推免研究生制度作为长程评价装置如何锁定名校本科生学业投入，并阐明其在目标掌控与直觉依赖两类阶层化生活模式间的隐性筛选机制（详见[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|第一章]]，pp. 85–88）。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 系统揭示推免研究生制度作为长程评价装置如何锁定名校本科生学业投入，并阐明其在目标掌控与直觉依赖两类阶层化生活模式间的隐性筛选机制（详见[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|第一章]]，pp. 85–88；[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]个案实证，pp. 66–69）。

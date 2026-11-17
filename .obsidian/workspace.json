@@ -331,6 +331,8 @@
   },
   "active": "96c685dea1ff308e",
   "lastOpenFiles": [
+    "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-010/result.json",
+    "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-009/result.json",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-008/result.json",
     "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md",
     "books/Zheng_2023_ShanghaiSanlian/figures/Table_04_Engagement.jpg",
@@ -344,9 +346,7 @@
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-010/prompt.md",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-010/batch-result.schema.json",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-009/prompt.md",
-    "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-009/batch-result.schema.json",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-008/prompt.md",
-    "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-008/batch-result.schema.json",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-007/prompt.md",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-006/prompt.md",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-005/prompt.md",

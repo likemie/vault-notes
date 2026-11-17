@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -44,6 +44,7 @@ related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch01]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
 confidence: medium
 status: draft
 created: "2026-05-08"
@@ -104,7 +105,7 @@ updated: 2026-11-17
 > - **教育研究应用** 郑雅君将工具箱理论引入中国顶尖高校学生出路分化研究，在《金榜题名之后》中将文化工具可及性与熟练程度作为区分目标掌控模式与直觉依赖模式的支柱。
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 系统引入斯威德勒文化工具箱理论，在[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|第二章]]中与韦伯价值观驱动范式构成张力对比，奠定“价值选择过程”的分析基础（pp. 43–46）；并在全书（详见[[Argument_Zheng_2023_ShanghaiSanlian_Ch01\|第一章]]，pp. 62–64）中作为剖析中国名校学生大学生活组织模式与出路分化的核心分析支柱。
+> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 系统引入斯威德勒文化工具箱理论，在[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|第二章]]与[[Argument_Zheng_2023_ShanghaiSanlian_Ch03\|第三章]]中对比稳定与不稳定生活状态，剖析目标掌控与直觉依赖的工具调用差异与生活组织模式（pp. 43–46, 70–74）；全书（详见[[Argument_Zheng_2023_ShanghaiSanlian_Ch01\|第一章]]，pp. 62–64）以此作为透视中国一流大学学生出路分化的核心分析支柱。
 
 ---
 

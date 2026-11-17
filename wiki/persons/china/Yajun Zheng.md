@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: china
 person_region: "china"
-person_related_count: 34
+person_related_count: 35
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -62,6 +62,7 @@ related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch01]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
 confidence: high
 status: active
 created: 2026-05-08
@@ -91,7 +92,7 @@ updated: 2026-11-17
 ---
 
 > [!work-line] 主要著作
-> - **2023 — 《金榜题名之后：大学生出路分化之谜》**（上海三联书店）运用布迪厄实践理论与斯威德勒文化工具箱理论，构建由资本化、在校投入与价值选择三层嵌套的[[College Process Model|大学过程分析框架]]，提炼目标掌控与直觉依赖双模式类型学，揭示中国顶尖大学文凭兑换中的阶层鸿沟。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023)]]；第一章阐明高校扩招引致文凭通胀后，求职筛选转向以实习与软技能为核心的履历经济学，使大学生活沦为缺乏统一路线指引的迷宫博弈。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(郑雅君, 2023, pp. 67–99)]]；第二章系统阐释大学过程分析框架，并交代 62 名一流大学毕业生的纵向跟踪个案研究设计。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|(郑雅君, 2023, pp. 33–64)]]
+> - **2023 — 《金榜题名之后：大学生出路分化之谜》**（上海三联书店）运用布迪厄实践理论与斯威德勒文化工具箱理论，构建由资本化、在校投入与价值选择三层嵌套的[[College Process Model|大学过程分析框架]]，提炼目标掌控与直觉依赖双模式类型学，揭示中国顶尖大学文凭兑换中的阶层鸿沟。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023)]]；第一章阐明高校扩招引致文凭通胀后，求职筛选转向以实习与软技能为核心的履历经济学，使大学生活沦为缺乏统一路线指引的迷宫博弈。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(郑雅君, 2023, pp. 67–99)]]；第二章系统阐释大学过程分析框架，并交代 62 名一流大学毕业生的纵向跟踪个案研究设计。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|(郑雅君, 2023, pp. 33–64)]]；第三章深入剖析目标掌控与直觉依赖两类实践模式在中学经历、父母决策参与、专业志愿填报与初入名校适应中的阶层养成机制与道德象征边界。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 65–104)]]
 > - **2018 — 《重点高校农村生源学生的在校适应与发展》**（与牛新春合作）基于两所重点大学的实证调查，揭示专项计划录取的农村学子在名校就读期间的学业表现、社团参与与生涯定向特征。
 
 ---
@@ -146,7 +147,7 @@ updated: 2026-11-17
 > | [[Champ]] | 概念 | 将中国一流大学界定为存在隐性评价标准与筹码锁定的迷宫竞争场域。 |
 > | [[Habitus]] | 概念 | 阐释家庭出身形塑的深层认知图式对大学日常实践与出路抉择的制约。 |
 > | [[College Process Model]] | 理论 | 原创提出由资本化、在校投入与价值选择三层嵌套构成的大学过程分析框架。 |
-| [[Culture as Toolkit]] | 理论 | 引入斯威德勒理论，将文化作为提供行动策略与技能工具箱的分析支柱。 |
+> | [[Culture as Toolkit]] | 理论 | 引入斯威德勒理论，将文化作为提供行动策略与技能工具箱的分析支柱。 |
 > | [[Dual-Process Model of Culture in Action]] | 理论 | 借鉴 Vaisey 模型构建结合工具箱能力与深层价值信念的 2×2 四分类分析模型。 |
 > | [[Dual Elite Career Paths]] | 理论 | 引入魏昂德理论，分析重点高校毕业生在体制内选调与市场化职业间的流动参照。 |
 > | [[Human Capital Theory]] | 理论 | 批判纯粹人力资本解释的局限，揭示形式平等的技能积累背后的阶层不平等。 |
