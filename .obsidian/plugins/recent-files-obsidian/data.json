@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Between-Study Variance",
-      "path": "wiki/methods/quantitative/Between-Study Variance.md"
-    },
-    {
       "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch01",
       "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
+    },
+    {
+      "basename": "China College Graduate Employment Reform",
+      "path": "wiki/facts/china/China College Graduate Employment Reform.md"
+    },
+    {
+      "basename": "Extracurricular Activities",
+      "path": "wiki/concepts/educational-technology/Extracurricular Activities.md"
+    },
+    {
+      "basename": "Employability",
+      "path": "wiki/concepts/higher-education/Employability.md"
+    },
+    {
+      "basename": "Binary Logistic Regression",
+      "path": "wiki/methods/quantitative/Binary Logistic Regression.md"
+    },
+    {
+      "basename": "Bibliometric Analysis",
+      "path": "wiki/methods/quantitative/Bibliometric Analysis.md"
+    },
+    {
+      "basename": "Between-Subjects and Within-Subjects Designs",
+      "path": "wiki/methods/quantitative/Between-Subjects and Within-Subjects Designs.md"
+    },
+    {
+      "basename": "Between-Study Variance",
+      "path": "wiki/methods/quantitative/Between-Study Variance.md"
     },
     {
       "basename": "Economy of Experience",
@@ -175,30 +199,6 @@
     {
       "basename": "Argument_Hammermeister_2002_Cambridge",
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge.md"
-    },
-    {
-      "basename": "template-method",
-      "path": "wiki/templates/template-method.md"
-    },
-    {
-      "basename": "Finnish PISA Miracle",
-      "path": "wiki/facts/finland/Finnish PISA Miracle.md"
-    },
-    {
-      "basename": "Argument_Santos_Silova_2026_Discourse",
-      "path": "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Santos_Silova_2026_Discourse.md"
-    },
-    {
-      "basename": "template-fact-event",
-      "path": "wiki/templates/template-fact-event.md"
-    },
-    {
-      "basename": "Subversives",
-      "path": "wiki/concepts/political-economy-geopolitics/Subversives.md"
-    },
-    {
-      "basename": "Argument_Zhu_Yang_2023_HEP",
-      "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_Zhu_Yang_2023_HEP.md"
     }
   ],
   "omittedPaths": [],

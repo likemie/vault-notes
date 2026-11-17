@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-12
-updated: 2026-10-29
+updated: 2026-11-17
 ---
 
 ---
@@ -120,6 +120,19 @@ updated: 2026-10-29
 > - 若 $\text{Exp}(\beta_i) > 1$，说明该自变量是目标事件发生的促进因素，发生比变为原来的 $\text{Exp}(\beta_i)$ 倍。
 > - 若 $\text{Exp}(\beta_i) < 1$，说明该自变量是阻碍因素，发生比降低。
 > - 若 $\text{Exp}(\beta_i) = 1$，说明该自变量对发生比无影响。
+>
+> > [!geogebra] Sigmoid 概率曲线与 Log-Odds 线性模型的动态模拟
+> > - **上半区** Sigmoid 概率曲线 $P(Y=1) = 1/(1+e^{-(\beta_0+\beta_1 x)})$，纵轴为预测概率 $P \in [0,1]$。
+> > - **下半区** 对应的 Log-Odds 线性模型 $\text{logit}(P) = \beta_0 + \beta_1 x$，纵轴为对数发生比。
+> > - **滑块 β₀** 截距，取值范围 −4 至 4，控制 Sigmoid 曲线的水平位移与基准概率 $P_0$。
+> > - **滑块 β₁** 斜率，取值范围 −3 至 3，控制 Sigmoid 曲线的陡缓程度。
+> > - **红色虚线** P = 0.5 决策阈值（上半区）及 logit = 0 参照线（下半区）。
+> > - **橙色虚线** 决策边界 $x^* = -\beta_0/\beta_1$，标示预测概率恰好等于 0.5 的预测变量临界点。
+> > - **右侧面板** 实时读数（β₀、β₁、优势比 OR = Exp(β₁)、决策边界 x*、基准概率 P₀）。
+> >
+> > 将 β₁ 从 0.5 拉向 3.0，观察 Sigmoid 曲线由平缓变为近乎阶跃、Log-Odds 直线斜率增大、OR 急剧上升。将 β₀ 从 0 拉向 −3，观察两条曲线整体右移、决策边界 x* 增大、基准概率 P₀ 趋近于 0。将 β₁ 拖入负值区间，Sigmoid 曲线翻转、OR < 1，x 增大反而降低事件发生概率。
+> >
+> > ![[wiki/assets/geogebra/binary_logistic_regression.ggb]]
 >
 > > [!math-principle] 核心统计量与估计原理的实证理解
 > > - **回归系数 $\beta$ 的估计（极大似然估计 MLE）** 
