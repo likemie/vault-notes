@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Deng_2016_CE",
+      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+    },
+    {
+      "basename": "template-argument",
+      "path": "wiki/templates/template-argument.md"
+    },
+    {
       "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch04",
       "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
+    },
+    {
+      "basename": "Development Economics Vice Presidency",
+      "path": "wiki/facts/global/Development Economics Vice Presidency.md"
+    },
+    {
+      "basename": "Argument_Anderson_2016_Verso",
+      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso.md"
+    },
+    {
+      "basename": "Policy Borrowing",
+      "path": "wiki/concepts/comparative-education/Policy Borrowing.md"
+    },
+    {
+      "basename": "h-Index",
+      "path": "wiki/methods/quantitative/h-Index.md"
+    },
+    {
+      "basename": "Phenomenology",
+      "path": "wiki/theories/educational-philosophy/Phenomenology.md"
     },
     {
       "basename": "Yajun Zheng",
@@ -81,16 +109,8 @@
       "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_He_2018_HEP.md"
     },
     {
-      "basename": "template-argument",
-      "path": "wiki/templates/template-argument.md"
-    },
-    {
       "basename": "Argument_Lakhani_2012_AKUIED",
       "path": "wiki/arguments/reports-policy-documents/Argument_Lakhani_2012_AKUIED.md"
-    },
-    {
-      "basename": "Phenomenology",
-      "path": "wiki/theories/educational-philosophy/Phenomenology.md"
     },
     {
       "basename": "Open Coding",
@@ -103,14 +123,6 @@
     {
       "basename": "Patient Capital",
       "path": "wiki/concepts/economics/Patient Capital.md"
-    },
-    {
-      "basename": "Development Economics Vice Presidency",
-      "path": "wiki/facts/global/Development Economics Vice Presidency.md"
-    },
-    {
-      "basename": "Argument_Anderson_2016_Verso",
-      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso.md"
     },
     {
       "basename": "Argument_Kratsios_2026_OSTP",
@@ -135,10 +147,6 @@
     {
       "basename": "Argument_Barrenechea_2023_JEC",
       "path": "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
-    },
-    {
-      "basename": "Policy Borrowing",
-      "path": "wiki/concepts/comparative-education/Policy Borrowing.md"
     },
     {
       "basename": "Globalization from Below",
@@ -191,14 +199,6 @@
     {
       "basename": "Bibliometric Analysis",
       "path": "wiki/methods/quantitative/Bibliometric Analysis.md"
-    },
-    {
-      "basename": "Between-Subjects and Within-Subjects Designs",
-      "path": "wiki/methods/quantitative/Between-Subjects and Within-Subjects Designs.md"
-    },
-    {
-      "basename": "Between-Study Variance",
-      "path": "wiki/methods/quantitative/Between-Study Variance.md"
     }
   ],
   "omittedPaths": [],

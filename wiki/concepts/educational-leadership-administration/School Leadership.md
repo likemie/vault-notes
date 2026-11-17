@@ -6,10 +6,10 @@ aliases:
 summary: "围绕学校方向设定、人员发展、组织改进与信任建立展开的教育实践，在证据知情视域下依托榜样示范与制度化排程促成高质量研究使用与学校变革。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - field/educational-leadership-administration
   - theme/school-leadership
@@ -85,7 +85,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-11-15
+updated: 2026-11-17
 ---
 
 > [!def] School Leadership
@@ -329,7 +329,7 @@ updated: 2026-11-15
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Deng_2016_CE]] — 考察新加坡高表现教育系统中教学型学校领导力的制度嵌入性，指出其并非孤立的校本自主权产物，而是深嵌于中央集权课程、师资一体化体系与高利害考试问责框架之中。
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 考察新加坡高表现教育系统中教学型学校领导力的制度嵌入性，阐明领导实践深嵌于中央集权课程、师资一体化体系与高利害考试问责框架之中。
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 针对奥地利 362 名中小学校长开展聚类与[[Analysis of Variance\|方差分析]]，证实认同产出导向与[[Output-Oriented Governance\|循证治理]]的校长显著缩减课堂兼课时间，将更多工时投向教学观摩、质量评估与教研对话，重构为教育企业管理者的专业身份。
 > - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al. (2022)]] — 结合[[Monash Q Project\|莫纳什 Q 项目]]全澳实证调查，系统论证榜样型领导示范与制度化排程是打破教师防卫、促进高质量研究[[Research Utilization\|证据使用]]的首要组织手段。
 > - [[Argument_Møller_2017_EERJ\|Møller (2017)]] — 评述跨国成功学校校长项目（ISSPP），阐释领导力的情境特异性，并从[[Transformative Leadership\|变革型领导力]]与批判政策视角反思个人英雄主义偏差。

@@ -1,0 +1,856 @@
+=== PAGE 1 ===
+Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journalInformation?journalCode=cgse20
+Download by: [132.147.111.60] Date: 21 August 2016, At: 07:45
+Globalisation, Societies and Education
+ISSN: 1476-7724 (Print) 1476-7732 (Online) Journal homepage: http://www.tandfonline.com/loi/cgse20
+Globalisation, the Singapore developmental state
+and education policy: a thesis revisited
+S. Gopinathan
+To cite this article: S. Gopinathan (2007) Globalisation, the Singapore developmental state
+and education policy: a thesis revisited, Globalisation, Societies and Education, 5:1, 53-70, DOI:
+10.1080/14767720601133405
+To link to this article:  http://dx.doi.org/10.1080/14767720601133405
+Published online: 20 Feb 2007.
+Submit your article to this journal 
+Article views: 5736
+View related articles 
+Citing articles: 45 View citing articles 
+
+=== PAGE 2 ===
+Globalisation, Societies and Education
+Vol. 5, No. 1, March 2007, pp. 53–70
+ISSN 1476-7724 (print)/ISSN 1476-7732 (online)/07/010053–18
+© 2007 Taylor & Francis 
+DOI: 10.1080/14767720601133405
+Globalisation, the Singapore 
+developmental state and education 
+policy: a thesis revisited
+S. Gopinathan*
+Nanyang Technological University, Singapore
+Taylor and Francis LtdCGSE_A_213271.sgm10.1080/14767720601133405Globalisation, Societies and Education1476-7724 (print)/1476-7732 (online)Original Article2007Taylor & Francis51000000March 2007Professor SaravananGopinathangopinathan.s@nie.edu.sg
+In this article I revisit and extend arguments made in 1996 and 1997 about the relationship between
+globalisation, the state and education policy. I was particularly concerned then to see how a small
+but strong state, Singapore, was responding in the education arena to globalisation. I also wished to
+draw attention to the literature on the high rates of economic growth achieved by the East Asian
+‘tigers’ in which education, training and capital–labour accommodation played a large part; in all
+these countries the state was strong, being in the market as well as managing it. But with globalisa-
+tion and neo-liberal economic policies growing in strength, the havoc caused by the 1997 Asian
+economic crisis and the new geopolitical and security environment following the September 11,
+2001 attacks on the US, there is a need to reconsider some of the arguments and to review the policy
+responses, especially in education. Is there evidence of the state weakening? Are more pro-market
+policies changing governance and funding of education thereby altering the nature and purposes of
+schooling? I begin with a consideration of the broader phenomena of globalisation and then review
+the claims that call into question the continued relevance of the East Asian developmental state
+model and its education and training infrastructures.
+Globalisation, economic change and education
+It will be readily agreed that no contemporary macro analysis of education policy is
+possible without considering both the processes and impacts of globalisation. Yet,
+while there is a vast literature on globalisation, there are also many ways of defining
+globalisation, identifying when it began, differences with an earlier phase of interna-
+tionalism, what elements within globalisation are significant and for which sectors of
+social activity and where globalisation is likely to lead (Fukuyama, 1992; Ohmae,
+1996; Giddens, 1999; Mok & Tan, 2004). For a trenchant critique of economic
+globalisation see Stiglitz (2002). It is also the case that globalisation processes are
+complex and often contradictory, and we need to avoid an overly deterministic view
+*Vice-Dean, Centre for Research in Pedagogy and Practice, National Institute of Education, Nanyang
+Technological University, Singapore. Email: gopinathan.s@nie.edu.sg
+
+=== PAGE 3 ===
+54 S. Gopinathan
+of globalisation’s impact on education policy. Globalisation is real, not a virtual
+phenomenon and its effects are enhanced, even transformed, by the revolution in
+communications and the continuing press of technology-driven innovation. While
+some see globalisation as a process for removing restrictions, thus leading to increased
+trade and economic growth and economic benefits, a liberal and liberating process,
+others point to the social costs of globalisation citing growing inequalities in some
+countries, environmental degradation, commodification of culture and education,
+rise in unemployment, greater uncertainty and risk and reduction of sovereign power
+in states as unacceptable consequences (Hsieh & Tseng, 2002; Stiglitz, 2002). In
+essence, economic globalisation may be defined as the process of accelerating
+economic integration which privileges market capitalism and which places consider-
+able economic power in the hands of transnational corporations; there are, however,
+political, cultural and technological dimensions that need to be taken into account.
+Coupled with changes wrought by the communication and technological revolution,
+some of which are driven by economic considerations, many fundamental changes are
+taking place in institutions, relationships and practices.
+Even as the older international order and its constituent elements, states, persist—
+the UN system may be weak presently but many states and elites wish for a strong
+role for the UN in international affairs—we need to consider how state integrity and
+activity are impacted upon by globalisation. Early predictions for the demise of the
+nation state (Ohmae, 1996) may now be seen to be farfetched but without a doubt
+states have to act differently in the face of economic globalisation, and in some cases,
+their power to act is influenced by, and some might say, circumscribed by globalisa-
+tion. Pierre, 2000 argues that globalisation processes do create a need for modern
+states to alter their governance modes and to institute reforms in the public sector to
+better manage uncertainty and risk. This is in line with the arguments of Weiss (1998)
+and Dale (1997), who argue that our attention should be on how state roles are being
+reconstituted and reconfigured, not on their ‘inevitable’ decline. The pressure to
+remain economically competitive in the face of massive structural change in the global
+economy—e.g., a decline in manufacturing in developed economies, the rising
+economic power of China and India, the loss of first, blue collar, now professional
+jobs in developed economies, the increasing importance of knowledge and innovation
+in the economy, and in parallel the declining value of raw material, etc—is forcing
+states to act in certain ways in economic and social policy, principally with a view to
+remaining attractive to transnational capital. The key is not if the state will remain
+viable and relevant but what strategies and policy responses developmental states
+need to adopt to remain competitive and socially cohesive; what roles education and
+training will have, and how their contribution can be enhanced. There is clear and
+present danger that education’s capacity for enhancing talent and promoting under-
+standing and tolerance could weaken in the face of globalisation pressures.
+At this point it may be useful to bear in mind important distinctions and caveats.
+Castells (1996) has argued that under globalisation the relationship between labour
+and capital has changed, leading to fundamental changes in the labour market and in
+workplaces. It is often asserted that we now have post-industrial economies and that
+
+=== PAGE 4 ===
+Globalisation, Singapore and education 55
+future wealth generation will come from the use of knowledge to drive invention and
+innovation; the sub-text is that this is a desirable state of affairs and should drive
+economic and education policy. However, it is not clear, as is often asserted, that
+economies are mostly in a post-fordist, rather than a neo-fordist, stage. For example,
+while there has been strong growth in non-industrial sectors, Singapore, for instance,
+still expects to generate about 25% of GDP from its industrial sector and many
+aspects of economic governance—e.g., the role of trade unions—are neo-fordist in
+nature (Tang, 2000). It is also not clear, for example, how the knowledge gained
+through extended years of content-dominated schooling, the most common version
+of human capital enhancement, will be of benefit in the service sector of the economy
+where the social skills of communication, empathy for others, toleration of difference,
+may be more significant. While it is asserted that economic restructuring will bring
+about new growth and an expansion of opportunities, it has very painful conse-
+quences for individuals who are retrenched and for societies which face high and
+persistent levels of structural unemployment; what is one to make of the phenomenon
+of ‘jobless growth?’ We must therefore be careful not to be taken in by all the hype
+regarding the new economy, new workplace, new workers. If societies are now more
+risk prone (Beck, 1992), then the effects on marginalised sectors in society will be
+severe and challenge existing social policies.
+How are global economic changes and changing roles for state power relevant for
+a consideration of education? While it is hard at one level to link decisions taken at a
+board meeting at Microsoft in Seattle with decisions to say, reorganise educational
+governance in Thailand or use more English in instruction in Malaysia, it can be
+asserted that the latter decision came about as Malaysia was becoming even more
+tightly enmeshed in the global economy in which English was becoming even more
+dominant in a globalising world. Green (1990), among others, has shown that
+national education systems developed as part of the formation of the nation state in
+Europe and elsewhere. Schools are sites for the preparation of the country’s labour
+force, preparation for social participation, for political and social identity formation
+and for the production of national elites, and one should therefore expect that if state
+power is being transformed then this will impact on policy. Green (1997) argues that
+in Singapore education was not only instrumental in its ‘miraculous economic
+development but equally as a vehicle for promoting a cohesive civic identity, based on
+the ideological tripod of multiculturalism, multilingualism and meritocracy’ (p. 147).
+Kerr et al.  (1973) argued that higher education, for instance, was crucial to the
+process of industrialisation in Europe. Globalisation’s effects can be seen in greater
+internationalisation, of a trend towards the commodification of education, greater
+convergence in views about how education should contribute to the economy, greater
+use of choice, competition, deregulation and increasing both the involvement and
+burdens for parents. Some state dominated systems are moving towards an accep-
+tance of private schooling, greater outsourcing of services, importation of business
+practices and terminology into education—principals as CEO’s, students as clients,
+use of branding to obtain a larger market share, performance targets, positions on
+league tables as marks of excellence, etc.
+
+=== PAGE 5 ===
+56 S. Gopinathan
+The nature and processes of educational reform in turn do not offer any clear guide-
+lines for how states should proceed. With reference to the comment made earlier
+about the contradictory nature of globalisation processes, we need only note that in
+the US and UK, the state has assumed a dominant role in setting education policy
+and even prescribing practice. Similar to economic integration, is there, in spite of
+Green’s assertion of the essential national nature of education systems, an emergent
+‘common world education culture’? The convergence of curriculum on a global scale
+is well documented. Under conditions of empire, colonies used metropolitan syllabi,
+textbooks and assessments regimes. Agencies like UNESCO, the World Bank,
+OECD, research agencies like IEA, by virtue of their recommendations, funding
+power and cross-national comparisons, contribute to education ministries having to
+adopt an internationalist mindset. The present arguments are of a different order and
+seem to require changes of both developed and developing economies. The argument
+is that as global and national economies have changed and as new types of workers
+are needed, educational reform is an imperative in the race to stay economically
+competitive. The reform rhetoric is remarkably similar across very different education
+jurisdictions; all reform proposals stress the need for greater attention to process,
+higher order thinking skills, better utilisation of technology in education, changes to
+assessment, greater devolution of power to principals, etc, in tandem, it must be said,
+in some developed economies, with moves towards greater central control over
+curriculum and pedagogy, more frequent assessment and on meeting specified
+academic outcome targets. Some have noted that with neo-liberal economic policy on
+the ascendant education systems are forced to do more with less, thus moving from
+equity to efficiency as the goal of education. The key issue for us is if this is evidence
+of declining state power or of the state having to use the master metaphor of our times,
+marketisation, to remain in charge and steer from a distance. If globalisation is indeed
+transforming state–market (capital) relations, then the question for educators is how
+the ideology and provision of schooling is being altered via reform.
+Overcoming dependency
+Before looking at the Singapore experience as a case study of the pressures on educa-
+tion and its remaking we need to understand the broader context in which strong East
+Asian economies emerged in the last three decades. Dependency theorists (Frank,
+1984) argued that no real development was possible in peripheral states, colonies or
+decolonised states, as this was not to the benefit of global capital. The international
+division of labour was such that low wages and primitive working conditions rather
+than labour productivity would create surplus. Education systems would be managed
+to create complaint elites who would do the bidding of metropolitan elites. Such was
+the dominant explanation for underdevelopment in peripheral states.
+Yet this was clearly not the case with the East Asian economies of Taiwan, South
+Korea, Singapore and Hong Kong whose rates of economic growth were sufficiently
+impressive to warrant talk of a new development model (Berger & Hsiao, 1990).
+Theorists like Johnson (1982), White and Wade (1988) and Castells (1992) have
+
+=== PAGE 6 ===
+Globalisation, Singapore and education 57
+characterised these states as ‘developmental states’. A developmental state is one which
+gains legitimacy through ‘its ability to promote and sustain development’ (Castells,
+1996, p. 182). Taiwan, South Korea, Singapore and Hong Kong were at this stage
+fragile states whose sovereignty was under threat; high rates of economic growth
+provided resources for socio-economic development, thus ensuring legitimacy. In the
+case of the four economies the developmental strategy was fostered and managed by
+the state, which used foreign direct investment to create export-oriented economies.
+Though dependent at an earlier stage on both capital and technology imports, both
+Taiwan and South Korea (as did Japan earlier) were able to accumulate capital
+surplus at home and develop R & D capacity to such an extent that they were able to
+create their own multinationals, whose investment in the region further boosted
+growth. At the centre of the modernisation effort was the state, which both facilitated
+the economic activity by managing external capital but was in many cases, a major
+economic player itself. Thus the East Asian state was a strong and autonomous state
+and was able to ‘govern the market’ and not be subservient to it.
+A key strategy in these developmental states was the implementation of policies in
+education and training designed to boost stocks of human capital. The enhancement
+of labour productivity was seen, in the earlier context of low innovation capacity, to
+lie in expansion of education. In addition to expansion of secondary and post-second-
+ary institutions, a greater emphasis on science and technology in the curriculum and
+expansion of vocational and polytechnic education, these states were able to achieve
+a tight coupling of education and training systems with state-determined economic
+policies. These developmental states created centrally planned, universally available,
+standardised, and state driven education systems, which created the national subjec-
+tivities necessary for affiliation to the states’ modernisation project. The return of
+investment on education was such that the states could justify the expansion and diver-
+sification of education as high priority; wealth generated by economic growth justified
+further investment in education. Thus a virtuous circle of investment in high skills
+creation, which justified high wages and thus higher standards of living all around, was
+created in these developmental states (Ashton et al., 1999; Brown & Lauder, 2001b).
+What is significant for our present discussion is the fact that following the 1997
+East Asian crisis and the accelerating pace of globalisation, the East Asian develop-
+mental state model has come under scrutiny (Pang, 2000; Low, 2001; Hsieh &
+Tseng, 2002). Neo-liberal opinion in the west, which has now become dominant, has
+pointed to the crisis as an example of the consequences of state intervention in the
+economy leading to the growth of crony capitalism and clientalism, among others (see
+also Robison, 2000; Leong & Sidhu, 2003). The crisis has resulted in major political
+changes, e.g., the fall of the Suharto regime in Indonesia, steep rises in unemploy-
+ment and poverty and the increased power of multinational organisations like the
+IMF over national economic policy. The crisis has thus had broad economic, political
+and social effects. Significant as the crisis was another major development in globali-
+sation has been the consequences for East Asian economies of economic liberalisation
+in China and India. In two decades, with astonishing rapidity, first China and now
+India have signalled an intent to be full players in the global economy and become
+
+=== PAGE 7 ===
+58 S. Gopinathan
+major attractors for FDI. Their vast reservoirs of skilled but low cost labour is leading
+to a new international division of labour which is impacting negatively on both
+western and the East Asian economies. There are new fears of a hollowing out of the
+industrial sector and rising levels of unemployment; though high skills remain impor-
+tant high wages, it seems, are now a drag on the economy. In response, economic
+strategy in Singapore since 1997 has been both to reduce business costs and to
+accelerate investment and growth in a number of new industries such as biotechnol-
+ogy, information technology, financial services, education and creative industries.
+As the economic environment has been transformed, so too has the political and
+strategic environment. Following the terrorist-inspired attacks on US institutions in
+September 2001 and the subsequent US-led wars on Afghanistan and Iraq and the
+rise of radical Islam in Southeast Asia plural societies in South and Southeast Asia
+have seen the emergence of new strains in social cohesion. Multiethnic states like
+Singapore with Malay–Muslim populations have had to act swiftly to strengthen
+cohesion. Given that one of education’s aims has always been the enhancement of
+social solidarity these new developments raise questions about state-dominated
+education systems capacity to manage. The Ministry of Education in Singapore has,
+for instance, identified the strengthening of interethnic relations in schools as a major
+priority for the next three years.
+The Singapore context
+Two features of the Singapore context are worth noting in this discussion of globali-
+sation and education. The first is that as a small island with no natural resources
+except a strategic location, Singapore’s survival has always depended on its usefulness
+to major powers. It attracted colonial interest because it provided a well-placed base
+for economic penetration of the region; and the colonial experience, 1819–1963,
+served to deepen Singapore’s integration into Britain’s economic empire. Although
+there was political contestation in the 1950s over culture, languages and political
+issues, there was also early recognition of the value of English, the colonial language
+as an economic resource (Gopinathan, 1974). Early planning for transforming
+Singapore’s economy from an entreport to an industrial economy in the late 1950s
+recognised the need for foreign capital, technology and markets. Singapore thus
+eschewed the ideology of economic nationalism that characterises many postcolonial
+states. This clear grasp of the need for economic openness to global economic forces
+still characterises planning in Singapore even though the country is now considered a
+developed economy with a per capita annual income of more than US$20,000.
+External trade is a major component of Singapore’s economy, and Singapore’s lead-
+ers are fond of making international comparisons as a way of benchmarking achieve-
+ments. Singapore is perhaps unique in the world economy in that it relies very heavily
+on trade and therefore has always had to have an open economy. Indeed, in 2001
+Foreign Policy ranked Singapore as the world’s most ‘globalised’ nation.
+Yet, while Singapore has been an avid participant in the global economy, its policy
+makers have sought to ensure that Singapore is neither swamped by external forces
+
+=== PAGE 8 ===
+Globalisation, Singapore and education 59
+nor in danger of becoming a client-state. Official recognition of the value of English
+was counterbalanced by the insistence that all students learn a second language,
+Mandarin, Tamil or Malay (Gopinathan, 1974). The Government’s insistence on
+strengthening Singapore’s cultural identity as an Asian state was, of course, due to the
+need to manage skilfully and sensitively Singapore’s ethnic and linguistic plurality,
+and the fact that Singapore had a Chinese-majority population in an area dominated
+by Malay–Muslim communities. Singapore’s leaders recognised early the value of the
+civilisational wisdom represented by Singapore’s ethnic groups. Recognition and
+affirmation of ethnic-cultural values then formed the basis for articulating the bound-
+aries of Singapore’s socio-cultural identity (Gopinathan, 1995). Singapore’s leaders
+continue to emphasise that the Westminister model of democracy is not appropriate
+for all, and that nations must be allowed to develop their own forms of human rights,
+i.e., which take the cultural context for its expression into account. Singapore has also
+aligned itself to the view that the neo-Confucian ideology is a sensible alternative
+framework for socio-economic and political organisation.
+Education policy initiatives: 1997–2004
+The 1990s saw globalisation processes accelerating, aided by the widespread use of
+the Internet for a variety of purposes including personal email, official communica-
+tions, delivery of entertainment and emergent e-commerce and e-Government
+sectors. In the later part of the decade East Asian economies also experienced, as
+noted earlier, a sharp recession—beginning in 1997, with differentiated rates of recov-
+ery as the decade ended. These two developments, among others, accelerated the
+questioning of the resilience of the existing education systems in the context of new
+demands for economic competitiveness.
+Given the changed economic, strategic and social environment it is inevitable that
+the adequacy of education and training regimes would be questioned. What is the
+future for high skills formation strategies in period of relative economic decline and
+greater societal stress? (Brown & Lauder, 2001b). Education reform in Singapore is
+primarily a way of retooling the productive capacity of the system, one that the state
+has taken at periodic intervals. There was already an appreciation that only the first
+half of the ‘Thinking Schools, Learning Nation’ initiative had seen extensive policy
+development—the present economic crisis has led to renewed attention to retraining
+of workers, led by the creation of a new agency, the Singapore Workforce Develop-
+ment Agency. Other issues that needed to be dealt with are the relative inflexibility of
+the system, the lack of entrepreunial flair or risk aversion among school leavers, the
+lack of creative capital due to the overly academic orientation of the curriculum and
+new questions about the appropriate mix of skills and knowledge required for doing
+well in the new economy.
+The Singaporean Government’s reading of the emergent new economy was that it
+required of school leavers entirely new sets of skills. The growth of the service sector
+and a speeding up of market liberalisation for banking and telecommunication and
+the possibilities emergent in a technology-driven economic environment put a high
+
+=== PAGE 9 ===
+60 S. Gopinathan
+premium on innovation, flexibility, entrepreneurship, creativity and a commitment to
+lifelong learning. The decade of the 1990s was also the time that the Government
+began to realise the potential of computers to enhance learning by providing access
+to new information sources, self-paced and often interactive learning, and any-time-
+any-where learning. Traditional education systems dominated by teachers and
+syllabuses began to look decidedly inadequate. As Brown and Lauder (2001) argue
+‘the learning model of the mass production of goods and services has become a source
+of “trained incapacity” in a knowledge-driven economy’ (p. 114).
+We have to be aware of continuities in Singapore education’s reform narrative. The
+1997 ‘Thinking Schools, Learning Nation’ initiative was preceded by the independent
+schools initiative in 1987, a decade earlier and at a time of economic slowdown. The
+latter an effort to break with conformity in the system and in governance terms to
+decentralise and introduce greater choice and school autonomy. In 1997, the Govern-
+ment began a review of the entire system from pre-school education to university
+admission criteria and curriculum. For the first time university academics and other
+education personnel, particularly principals, were extensively involved. Though the
+information technology (IT) initiative came earlier than Prime Minister Goh’s
+landmark Thinking Schools Learning Nation (TSLN) speech in June 1997, and work
+on the ‘Desired Outcomes of Education’ had also begun earlier, the reforms can be
+collectively considered under the Thinking Schools, Learning Nation framework.
+Goh Chok Tong said in 1997 that ‘TSLN is not a slogan for the Ministry of Educa-
+tion. It is a formula to enable Singapore to compete and stay ahead’ . The Ministry
+of Education defined its mission as ‘Moulding the Future of the Nation’, its vision as
+‘Thinking Schools Learning Nation’ and its goal the ‘Desired Outcomes of Educa-
+tion’. The DOE was an attempt to define the aims of holistic education and in
+categorising the values, skills and attitudes that Singaporean students should attain at
+different stages of the education cycle. It was a strong restatement of the need to
+develop the whole child, and recognition of the wide range of talents, abilities,
+aptitudes and skills that students posses. An ability driven curriculum was to be
+developed which would be more flexible and accommodating of variability in ability,
+aptitude and talent in pupils to help achieve DOE goals. ‘Thinking Schools’ were
+intended to ensure a more process centred environment while ‘Learning Nation’
+aimed to promote a culture of continual learning beyond the school environment.
+This is evidence of the recognition that Singapore schools needed a much higher
+threshold for experimentation, innovation and uncertainty where output is not always
+guaranteed or even expected. The ideal student for the knowledge-based economy
+would be one who is literate, numerate, IT-enabled, able to collate, synthesise, anal-
+yse, and apply knowledge to solve problems, capable of being creative and innovative,
+not risk-averse, be able to work both independently and in groups, and be lifelong
+learners.
+TSLN has four major thrusts: emphasis on critical and creative thinking, the use of
+information technology in education, national education (citizenship education) and
+administrative excellence. Examples of specific changes in the curriculum
+implemented since 1997 are the teaching of thinking skills through infusion and
+
+=== PAGE 10 ===
+Globalisation, Singapore and education 61
+direct teaching, the introduction of interdisciplinary project work, the introduction of
+a school cluster system to decentralise administration and promote even greater
+autonomy. Leadership training was recast to emphasise the need to manage schools
+as learning organisations and the need for commitment and values; also introduced
+was the provision of an entitlement of 100 hours a year in-service training to keep
+teachers up to date and skilled. Some changes to assessment were also introduced and
+project work is now included in universities’ admission criteria, and university curric-
+ula have been changed to make undergraduate education broader. New programmes
+have also been introduced in the polytechnics and universities to produce manpower
+for the new industries.
+IT’s potential contribution to enhancing learning has been recognised with a
+commitment of two billion Singapore dollars to provide, in the first phase (1997–
+2002), one computer for every five students, and later, one for every two students.
+There is clear recognition that the computer is but a tool, and the emphasis is on
+integrating it into learning and teaching for up to 30% of instruction time. All teacher
+trainees have compulsory and elective modules to equip them with ICT skills.
+National education is in some ways a continuation of efforts since the mid 1960s
+to socialise the younger generation of Singaporeans and its main goal is to strength
+identification with the nation. What is striking in the present effort is the recognition
+that globalisation and the opportunities provided in a changing economy will strain
+the loyalties and attachments of young Singaporeans. The younger generation is
+increasingly aware of growing global learning and employment opportunities; indeed
+Singapore’s economic strategy is to require Singapore companies to diversify in the
+region. A reasonable grounding in English, a reputation for effort and reliability make
+Singaporeans good students and employees. The situation is exacerbated by the
+Government’s commitment to attracting global talent to Singapore to fill skills short-
+ages. The response via national education is the introduction of activities, both curric-
+ular and non-curricular, to sensitise young Singaporean to Singapore’s national
+needs, concern and possibilities, to make Singapore their ‘best home’.
+Significant as the 1997 reforms were, they essentially dealt with changes required
+of pedagogy and left untouched issues of greater structural flexibility and choice.
+Though the universities had begun to consider if the A level examination results of
+students would continue to serve as adequate indicators of quality as they moved
+towards a broad-based curriculum, the Ministry had not reviewed its position on
+examinations or on greater diversification in the system. The establishment of a
+committee to review junior college/upper secondary education provided this
+opportunity. The subtitle to the report published in October 2002 was Greater breadth
+and flexibility and Nurturing diverse talents. The terms of reference of the committee
+was to propose changes to the JC curriculum, to make it more broad-based (in line
+with changes being made to the undergraduate curriculum to set out a vision for JC/
+US education, including the appropriate structures, types of programmes to be
+offered, and the mix of schools to deliver the programmes. The rationale was ‘we face
+the challenge of preparing students for an era of innovation-driven growth, and
+frequent and unpredictable change in the economic and social environment. We have
+
+=== PAGE 11 ===
+62 S. Gopinathan
+to regear … To prepare students for this future …’. There can be ‘no single formula.
+… We will need many talents, nurtured and trained along different paths’ (pp. 3, 4).
+Apart from proposed changes to the JC curriculum, essentially an exercise in redis-
+tributing content, the major innovation is the opportunity provided to the top 10% of
+the primary school cohort to enter integrated programmes to be offered by the inde-
+pendent schools and a number of the top junior colleges. These integrated
+programmes will enable students to skip their O level examinations and move directly
+to the junior college curriculum. The Ministry’s assessment is that up to 10% of the
+primary cohort could benefit form the integrated programmes. The Ministry requires
+the participating schools and JCs to ensure that access is open to non-affiliated
+students, that access is available at different stages, that admission is merit-based and
+transparent and that the time ‘ saved’ from not preparing for O levels be spent on
+broader learning experiences, in innovative project work, leadership programmes and
+a range of co-curricular activities.
+Yet another radical departure recommended by the committee was the approval for
+the establishment of specialist schools like the ‘Sports School’, which admitted
+students in 2004, and the ‘Science and Mathematics School’ to be hosted by the
+National University of Singapore to start in 2005; a school for the arts is being consid-
+ered. The committee also saw a need to allow for the establishment of a few privately-
+run, privately-funded secondary schools and JSs to add diversity and choice, provide
+an additional source of ideas and innovative practices in education, attract fee paying
+students from abroad and cater to children of returning Singapore expatriates. These
+schools will be required to implement MOE’s policies on bilingual education and
+national education and to have at least 50% of Singaporeans in their enrolment.
+Three broad areas enabling teachers, nurturing students, holistic assessment
+characterise reform initiatives in 2004. The broad policy rationales were announced
+by Singapore’s new prime minister Lee Hsien Loong who coined the phrase ‘Teach
+less, learn more’ as a way, he said, of achieving ‘a qualitative change, a quantum leap
+to get a different sort of education …’
+Recognising that schools needed more resources if the reforms were to succeed the
+Ministry promised schools more teachers—1000 more primary teachers, 1400 more
+secondary teachers and the junior colleges/centralised institutes 550 more teachers.
+Primary schools could also obtain up to S$100,000 each to develop high quality
+programmes and be able to reduce class size from 40 to 30. Schools would also be
+given full time school counsellors and funds to employ former teachers as adjunct
+teachers.
+Though the Singapore education system today is a much more flexible and variable
+system there are still considerable rigidities caused by tracking at the secondary level.
+Changes announced in 2004 allow schools with Normal (Academic) and Normal
+(Technical) streams to broaden curriculum offerings and indeed to develop elective
+modules. Though the high stakes examinations—the Primary School Leaving
+Examination (PSLE), the O and A levels remain and success in them is much sought
+after by students and schools, the Ministry has made changes that it is hoped will
+lessen the impact of examinations. Schools will be given greater discretion to offer
+
+=== PAGE 12 ===
+Globalisation, Singapore and education 63
+students places—up to 20% for independent schools and 5% for mainstream schools,
+selecting these students first prior to accepting students posted to them by the
+Ministry. The Ministry also moved to broaden criteria for school ranking.
+The education and training reforms that have been proposed by the review
+committee and the earlier reforms signal an effort by the state to ensure that high and
+relevant skills are available for the restructuring economy; an educational paradigm
+of flexibility, and of choice seems to be emerging, one that might replace the
+uniformity that still characterises Singapore schooling. While there have been few
+systematic evaluations of Singapore’s education reforms (the exceptions were Tan,
+1996; Koh, 2003) it would appear that the independent schools initiative, serving as
+it does the brightest 10% of primary cohort did not result in major changes to
+curriculum and assessment. A more diverse pedagogy was facilitated and money was
+available for outsourcing and enrichment projects. Tan has argued that more high
+SES band students gained access to these prestigious schools. As regards IT Master-
+plan 1 it essentially provided the hard infrastructure and some IT skills. Project work
+initiatives have been institutionalised and in some schools are well used but in many
+other schools it has been selectively routinised and absorbed into the teachers’ reper-
+toire. National Education is beset with problems of meaningful integration into
+curricular and co-curricular activities and scepticism from older students.
+The 2002–2004 reforms move the restructuring process forward; the key elements
+of flexibility, choice, and greater site autonomy remain. For the first time structural
+flexibility has been allowed and the secondary education landscape will become a
+more diversified one. Schools involved in the integrated programme, e.g., National
+Junior College, Chinese High, etc, will be substantively changed in character while
+other initiatives like the St Andrew’s community concept, will introduce new path-
+ways for primary-secondary, post-secondary transitions. There appear to be some real
+prospects for new curricular configurations for those within the IP programmes and
+there is a commitment to experimenting with new pedagogies, aided by the removal
+of the necessity for some students to take the O levels, a major reform of assessment.
+Potential difficulties are that these opportunities are only available to the academically
+talented and will place great challenges on teachers; it will be some time yet before we
+can assess if they have coped with the challenge.
+At the time the Government was launching its TSLN initiative it was also address-
+ing the training needs of those in workforce as part of its commitment to create a
+learning nation. In 1998, the Ministry of Labour was restructured as the Ministry of
+Manpower in order to more effectively contribute to overall manpower planning,
+manpower planning and manpower development are key foci of MOM. The strategic
+aim was to move from a regulatory role, ensuring industrial harmony to one that
+would help create a globally competitive workforce to support Singapore’s vision of
+its place in the globalised knowledge-based economy. The MOM developed a
+Manpower 21 plan to facilitate an integrated training infrastructure in order to
+upgrade the quality of employee talent.
+A further development is the Singapore Workforce Development Agency (WDA),
+created in 2003. The key role of the WDA is to help make employees and job seekers
+
+=== PAGE 13 ===
+64 S. Gopinathan
+more employable and competitive in order to build a workforce that is skilled, nimble
+and able to meet the changing needs of Singapore’s economy. Apart from helping
+workers keep jobs the agency will help employees constantly learn and upgrade their
+skills to remain competitive, and to be prepared to learn new skills for new jobs (see
+http://app.wda.gov.sg/vision.asp). The Agency will also help retrain and re-skills
+professionals and executives to transfer to high growth sectors such as infocomm, e-
+learning, logistics, social and community services, healthcare and intellectual property.
+Whither the Singapore state and it’s education policies?
+The key issue for us is to assess if the strong developmental state has retreated under
+the onslaught of globalisation and forced to make accommodation in its systems of
+education and training. Are we witnessing a retreat from the major principles that
+characterised the building up of national education systems as argued by Green
+(1997), Aston and Sung (1997) Brown and Lauder (2001b)? Are we entering a new
+dependency regime, a new international division of labour that renders old assump-
+tions and processes about the nation state and its role in education obsolete? It is well
+to remember Dale’s (1997) caution that the contemporary comparative issue in the
+analysis of education systems is one not so much of witnessing the banishment of the
+state as of ‘locating it and disaggregating its activities’ (p. 274).
+Globalisation’s impacts are felt differently on nation states with each nation’s room
+for manoeuvres and choice of response strategies dependent upon its history, location
+in the international system, political and economic strength and any number of
+associated variables (Leong & Sidhu, 2003). Nations do want to be economically
+competitive—but not all are prepared in equal measure to accept IMF—imposed
+restrictions or willingly accept limits to economic policy making. For example,
+Malaysia imposed capital controls during the Asian economic crisis in 1997 and
+Singapore broke ranks in negotiating a free trade agreement with the US. Many
+developing countries will be emboldened by the failure of the 2003 round of WTO
+negotiations and the failure of Sweden to join the Euro zone (on the grounds that
+joining would mean having to weaken welfare provisions).
+Still, as with many other countries, Singapore has had to review its economic and
+social policies in response to globalisation. Singapore today faces its most severe
+challenge in the economic sphere in almost three decades, with unemployment in
+2003–2004 close to 5% and a declining share of FDI. Most notable of the review
+efforts are the Economic Review (2002) and the Remaking Singapore (2003)
+committees set up by the Government to review policies, and many recommenda-
+tions from these reports touch on education policy. The essential thrust of these
+reports is that globalisation’s challenges cannot be avoided, must be met even at the
+cost of short-term economic pain via retrenchment, job loss and reduced incomes,
+and investment in new sectors like biotechnology, which have growth potential.
+There is an acceptance that the state ought to reduce its roles in the economy, move
+away from its present regulatory to a more facilitative stance, and generally allow
+businesses more space, choice and flexibility—in general, to take steps to allow more
+
+=== PAGE 14 ===
+Globalisation, Singapore and education 65
+entrepreneurial activity to flourish and to encourage more home grown small and
+medium sized enterprises. It will be recognised that many of the core assumptions
+and recommended steps are similar to those advocated in the reforms proposed for
+education.
+These steps are not those of a state pushed to the wall by globalisation; they are the
+responses of a strong state acting with a view to strengthening the local and the
+national in order to deal better with the regional and international. Singapore is not
+a case of a weakened postcolonial state and its current reforms in a number of areas
+promise a toughened model for tougher times. Singapore’s model of governance, its
+commitment to transparency and rule of law enable it to avoid the state and business
+excesses found in Korea and Taiwan. Singapore’s prudent financial management has
+left it resource rich and capable of capital-induced productivity, just as its education
+system is sufficiently robust to produce much of the human capital needed in the new
+industries and services. Finally, Singapore’s success as a developmental state in
+comparison with say, Taiwan or South Korea is all the more remarkable in that it is
+a small state and in economic terms possessing only strategic location but not natural
+resources or a large domestic market. In some ways, the state is the only game in town
+and it would be hard to imagine a stable and prosperous Singapore without the strong
+state, especially in the present climate of risk and uncertainty. Thus it can be argued
+that the Singapore state continues to enjoy policy and resource capacity, has high
+legitimacy and its power to persuade and mobilise, while weaker than previously, is
+by no means fatally damaged. These are more than residuals; they are the elements
+that will be necessary to remake the state.
+It is clear that schooling and training as a sociocultural and economic enterprise
+will be affected by globalisation. State-funded systems like Singapore depend on
+economic prosperity for their maintenance and growth and a reduction in Govern-
+ment revenue will affect funding levels and create conditions for a user-pays philoso-
+phy. Education will be seen to be less of a common good and more of a commodity
+that can be priced and purchased, because it can be seen as primarily of benefit to the
+individual and his family. A neo-liberal economic philosophy will favour an education
+market place, the entry of private capital in education services, greater devolution and
+less central control so that schools can be more responsive, firm-like to their
+customer’s changing preferences and needs. Market information will be valuable so
+that customers can make enlightened choices—hence the popularity of school league
+tables. Finally, while central authorities are prepared to devolve, in many jurisdictions
+devolution has been accompanied by more central control as in the UK and Australia
+with the emphasis on meeting performance targets and the specification, often in
+minute detail, of competencies. In the post-secondary sector, funding is declining and
+institutions are urged to be more entrepreneurial.
+As noted earlier in the description of educational reforms in Singapore many of the
+elements of the neo-liberal education agenda is evident. There is recognition of the
+need for greater choice, hence the recent moves for greater curricular and structural
+flexibility. Policy-makers as providing the information needed to make choices and as
+a spur have justified school ranking to excellence; schools that want to increase
+
+=== PAGE 15 ===
+66 S. Gopinathan
+market share must be seen to be performing well. The provision of space for private
+schools and a private university could be seen as the true beginning of a marketisation
+process. And the language of mission statements, branding, the notion of students as
+clients is much more evident now in educational discourse than previously. In January
+2005 the Government announced that Singapore’s two public universities will be
+corporatised to give them more flexibility to enable them to have more leeway to
+recruit world class talent, manage their budgets and build a stronger sense of loyalty
+and ownership amongst students, staff and alumni.
+Too much can be made of these reforms to suggest that the state has succumbed
+to globalisation-influenced policy changes in education. At the present time these
+changes are best read as tactical changes made by a strong state. The Ministry is only
+prepared to accept two–three private schools and they will retain key elements of the
+Singapore curriculum, bilingualism and national education, key instruments for citi-
+zenship formation. While there has been devolution in educational governance,
+beginning with the establishment of independent schools in 1987 and strengthened
+by moves to introduce ‘integrated programmes’, and the introduction of the school
+clusters, crucial funding and directive power lies with the state. The proposed private
+university is a move to allow citizens greater access to university education and to
+staunch the flow of students to overseas, especially Australian, universities. And the
+announcement of corporatisation was also the occasion for the Government to say it
+would continue to fund the universities generously and to appoint university council
+members.
+Policies for unquiet times
+The key issues for the future of the developmental state model do not lie in the mezzo-
+level changes to curriculum and structure but in broader social processes. The key
+task for ethnically diverse, small but strong states like Singapore is to address not only
+the economic challenge but also the need to generate even greater social cohesion,
+more social capital, in a context of greater social risk and uncertainty. Lai (2004) has
+pointed out that when economic growth weakens, religion, ethnicity and class can
+become sources of social conflict. The ideal of the liberal-democratic state is even
+more vital in unquiet times. Many scholars celebrate the emergence of attention to
+diversity and difference, of hybridity, of technology-enhanced interconnectivity, of
+the ability, need and value of crossing borders but seldom acknowledge risks and
+costs.
+Singapore’s successful nation building experience has hinged on the capacity of the
+state to mobilise to win allegiance of disparate subjects and in this task the policy of
+meritocracy has been central. Expansion of educational opportunities, curricular
+diversification, maintenance of educational quality and relevance and crucially
+matching these with labour market needs, enabled the schooling system to be a real
+source of upward mobility. However, this prosperity-loyalty compact is under strain,
+due to both security and economic imperatives, and the state needs to avoid being
+forced to move towards a neo-liberal political settlement. This is because the task of
+
+=== PAGE 16 ===
+Globalisation, Singapore and education 67
+nation building is far from over in Singapore and current environment presents
+threats beyond the economic. The US-led war on terrorism is likely to dominate the
+political and security agenda for the rest of the decade and the existence of Muslim
+extremist terror networks in Southeast Asia, and indeed in Singapore, is a fact. Some
+in the western media and scholarly community paint Muslims and Islam as intolerant
+and a danger, and a threat to western civilisation (Huttington, 1997). Singapore’s
+Malay–Muslim community, already lagging behind in the socio-economic race (Tan,
+1997) in spite of advances in the past two decades, feels vulnerable. In this context,
+relatively minor educational moves such as those to modernise the madrasah curric-
+ulum or regulate the use of the ‘tudong’ become politically charged.
+A second feature that has implications for social solidarity is growing income
+inequality that will raise questions about the fairness of the meritocratic model that
+Singapore employs. As Rodan (1997) points out ‘many Singaporeans are finding
+themselves in the wrong half of a dual labour market that separates, with increasing
+sharpness, the skilled and well paid from the unskilled and low paid’ (p. 165). This
+situation is worsened by the influx of unskilled guest workers and managers, IT
+professionals, investment analysts, etc, a policy the Government defends as being
+vital to Singapore’s economic competitiveness. Rodan cites data from the 1990
+census to show that 20% of households had incomes of less than S$700 a month while
+the top 10 percent were receiving a monthly income of S$9700 and above. The posi-
+tion post 1997 is decidedly worse for the un- and low-skilled. In 2000 incomes for the
+top 10% of resident households grew 8.8% while incomes for the bottom 10% of
+wage-earning households shrank 13.6% (cited in Lai, 2004, p. 36). Lai (2004) notes
+that ‘a widening economic gap with a class-race overlap is probably emerging to an
+extent in the highly competitive and globalised economic setting that places a
+premium on educational performance and credentials …’ (p. 13).
+It is in this context that recent moves in education to add further differentiation and
+variety are likely to pose some dangers. The cognitive elite, already the ones best
+placed to benefit from Singapore’s streamed system of education, will gain further
+advantage from the integrated programme and the well-to-do will benefit from the
+establishment of private schools and universities, and opportunities to seek education
+abroad. So long as the economy was growing and there were jobs for all there was less
+resistance to structural inequality in the system. But in a much more volatile
+economic environment, and indeed one that is said to value innovation, creativity and
+risk taking, it can be argued that limiting options for large numbers of school goers
+and favouring the top 10% will lead to the sort of ‘trained incapacity’ that still blights
+a sizeable proportion of Singapore’s labour force.
+The primary problem with the reforms formulated from 1997 onwards is the
+reluctance to engage in radical measures, understandable since the system has proved
+to be effective in the past. Though there is acceptance that the future will be different
+old habits die-hard. Policy is still dictated by the core assumptions that ability can be
+detected early and must be differentially developed, that SES should count for little
+if the school is fair and effective, that reform and change will be accepted and imple-
+mented if the rationales are sound and bureaucratic measures like career development
+
+=== PAGE 17 ===
+68 S. Gopinathan
+plans, industry attachments, sabbaticals, etc, are sufficient to keep teachers motivated
+and committed. Thus at the school level, change, while it is occurring, is not yet
+fundamentally changing pedagogy and practice. Teachers having to cope with large
+classes, a content dominated curriculum and high stakes examinations have taken on
+initiatives like thinking skills but rather than allow for a reconceptualisation of
+practice have, in many cases, bolted on acceptable elements and routinised
+procedures—a technique-oriented view of creativity prevails.
+Conclusion
+Singapore’s future as a viable state in a rapidly changing world will of course depend
+on more than the education reforms it is undertaking. However, the past four decades
+have demonstrated that education is central to the ways in which the state makes itself
+relevant to its citizens, and to the ways in which it engages with the wider international
+community. How Singaporeans produce, engage and utilise knowledge will be key to
+success in the knowledge economy.
+This, however, must mean that learning opportunities, second chances, adult
+learning etc., must be available to all; if the Government can no longer pick winners
+in the economy (but it continues to try as in the life sciences initiatives), neither can
+it on the basis of school assessments provide some with opportunities and not others.
+The ability driven curriculum initiative is a step in the right direction as is diversifica-
+tion of structure—more choices are available but fundamental assumptions about
+ability and its identification remain. This cannot but limit the creation of an innova-
+tion-oriented, risk-taking workforce.
+The acceptance of increased inequalities, what Brown and Lauder call ‘fragmen-
+tary consequences of market capitalism’ (2001b, p. 128), and the seeming inability of
+the state to manage the socio-economic consequences of globalisation has serious
+implications for social solidarity. When there is more intense positional competition,
+the upholding of meritocracy becomes more problematic. Greater structural differen-
+tiation in the school system, and the creation of alternate pathways with their
+attendant differences in opportunity will contribute to a hardening of social class
+divisions. If, not carefully handled, Singapore would be in danger of weakening social
+cohesion to favour the economy and put the great contribution education has made
+to Singapore in the last four decades at risk.
+The Singaporean nation-building project is at a crossroads. The adoption of a
+developmental state model in which the state was a key economic player succeeded
+brilliantly. Education policy was a key instrument in this project providing the subjec-
+tivities needed to bond the disparate ethnic groups and to provide the skills needed
+as industrial modernisation commenced. From a point when education policy was
+deeply contested as in the sixties over access, opportunity and identity, the state has
+skilfully used education policy to both transform society and in that process to make
+education a valued social institution.
+Singapore’s remarkable socio-political development and the changes it seeks to
+implement in education are illustrative of the wider debates about the power of
+
+=== PAGE 18 ===
+Globalisation, Singapore and education 69
+globalisation and the capacity of states to remain viable and relevant. Singapore’s
+developmental history places it clearly in the category of strong states. Yet it is small
+and vulnerable, highly dependent upon trade and multi-ethnic in social composition.
+Does the state have the capacity to pro-actively act to retain control or is the adoption
+of market type reforms a sign of weakening state influence? Our analysis of educa-
+tional reform in Singapore suggests that the former is the case. It is also clear,
+however, that while the state will steers it cannot be sure that it will well manage all
+the consequences that will flow from the educational changes it is enacting.
+References
+Applebaum, R. P. & Henderson, D. (Eds) (1992)  States and development in the Asian Pacific Rim
+(London, Sage).
+Ashton, D. & Sung, J. (1997) Education, skill formation and economic development: the
+Singaporean approach, in: A. H. Halsey, H. Lauder, P. Brown and A. S. Wells (Eds)  Educa-
+tion, Economy and Society (Oxford, Oxford University Press).
+Ashton, D., Green, F., James, D. & Sung, J. (1999) Education and training for development: the polit-
+ical economy of skills formation in East Asian newly industrialised economies (London, Routledge).
+Beck, U. (1992) Risk society: towards a new modernity (London, Sage).
+Berger, U. (1992) Risk Society (London, Sage).
+Berger, P. L. & Hsiao, H-H, (Eds) (1990) In search of an East Asian development model (New Brun-
+swick, Transaction Books).
+Brown, P. & Lauder, H. (2001a)  High skills: globalisation, competitiveness and skills formation
+(Oxford, Oxford University Press).
+Brown, P. & Lauder, H. (2001b) The future of skill formation in Singapore,  Asia Pacific Business
+Review, 7(3), 113–138.
+Castells, M. (1992) Four Asian tigers with a dragon head, in: R. P. Applebaum & J. Henderson
+(Eds) States and development in the Asian Pacific Rim (London, Sage).
+Castells, M. (1996) The Rise of the Network Society (Oxford, Blackwell).
+Chua, M. H. & Ng, J. (2004, October 28) Teach less, learn more: the challenge for MOE,  The
+Straits Times, p. H16.
+Dale, R. (1997) The state and the governance of education: an analysis of the restructuring of the
+state–education relationship, in: A. H. Halsey, H. Lauder, P. Brown & A. S. Wells, (Eds)
+Education, culture, economy, society (Oxford, Oxford University Press).
+Fukuyama, F. (1992) The end of history and the last man (New York, Free Press).
+Giddens, A. (1999) Runaway world: how globalisation is reshaping our lives (London, Profile Books).
+Goh, C. T. (1997)  Shaping our Future: Thinking Schools, Learning Nation  (Ministry of Education,
+Singapore). Available online at: http://www1.moe.edu.sg/Speeches/020697.htm (accessed 15
+April 2000).
+Gopinathan, S. (1974)  Towards a national system of education in Singapore 1945–1973  (Singapore,
+Oxford University Press).
+Gopinathan, S. (1995) Religious education in a secular state: the Singapore experience,  Asian
+Journal of Political Science, 3(a), 15–27.
+Gopinathan, S. (1996) Globalisation, the State and Education Policy in Singapore,  Asia Pacific
+Journal of Education, 16(11), 74–87.
+Gopinathan, S. (1997) Education development in a strong-developmentalist state: the Singapore
+experience, in: W. K. Cummings & N. McGinn (Eds)  Handbook of education and development
+(New York, Garland Press).
+Gopinathan, S. (1999) Preparing for the next rung: economic restructuring and educational
+reform in Singapore, Journal of Education and Work, 12(3), 295–308.
+
+=== PAGE 19 ===
+70 S. Gopinathan
+Green, A. (1990) Education and state formation (London, Macmillan).
+Green, A. (1997) Education, globalisation and the nation state (Basingstoke, Macmillan).
+Huntington, S. P. (1996) The clash of civilizations and the remaking of world order (New York, Simon
+& Schuster).
+Hsieh, Y. L. & Tseng, S. F. (2002) The welfare state in the ‘information age’, hollowing out or
+restructuring in the changing labour market in Singapore?,  International Journal of Human
+Resources Management, 13(3), 501–521.
+Johnson, C. (1982) MITI and the Japanese miracle: the growth of industrial policy, 1925–1975  (Palo
+Alto, Stanford University Press).
+Kerr, C., Dunlop, J. T., Harbison, F. & Meyers, C. A. (1973)  Industrialism and industrial man
+(Harmonsworth, Penguin).
+Koh, A. (2002)  Tactical globalisation: the Singapore State, Education Policy(y)ing and identity
+(re)making. Unpublished thesis, University of Queensland.
+Lai, A. E. (2004) Introduction: beyond rituals and riots, in: A. E. Lai (Ed.) Beyond rituals and riots:
+ethnic pluralism and social cohesion in Singapore  (Singapore, Eastern Universities Press for
+Institute of Policy Studies).
+Leong, C. W. & Sidhu, R. (2003) A tale of two cities: education responds to globalisation in Hong
+Kong and Singapore in the aftermath of the Asian economic crisis,  Asia Pacific Journal of
+Education, 23(1), 43–68.
+Low, L. (2001) The Singapore development state in the new economy and polity,  The Pacific
+Review, 14(3), 411–441.
+Ministry of Education (1998)  Learning to think, thinking to learn: towards thinking schools, learning
+nation (Singapore, Ministry of Education).
+Ministry of Education (2002) Report of the Junior College/Upper Secondar Education Review Committee
+(Singapore, Ministry of Education).
+Mok, K. H. & Tan, J. (2004)  Globalisation and marketisation in education: a comparative analysis of
+Hong Kong and Singapore (Cheltenham, Edward Elgar).
+Ohmae, K. (1996) The end of the nation state (London, Harper Collins).
+Pang, E. S. (2000) The financial crisis of 1997–98 and the end of the Asian development state,
+Contemporary Southeast Asia, 22(3), 570–593.
+Pierre, J. (Ed.) (2000) Debating governance (Oxford, Oxford University Press).
+Robison, R. (2000) Introduction, in: G. Rodan, K. Hewison & R. Robison (Eds)  The political
+economy of Southeast Asia: an introduction (Melbourne, Oxford University Press).
+Rodan, G. (1997) Singapore: economic diversification and social divisions, in: G. Rodan, K.
+Hewison & R. Robison (Eds)  The political economy of Southeast Asia: an introduction
+(Melbourne, Oxford University Press).
+Sharpe, L. & Gopinathan, S. (2002) After effectiveness: new directions in the Singapore school
+system, Journal of Education Policy, 17(2), 151–166.
+Stiglitz, J. (2002) Globalisation and its discontents (London, Allen Lane).
+Tan, J. (1996) Independent schools and autonomous schools in Singapore: a study of two school privatization
+initiatives. Unpublished Ph.D. dissertation, State University of New York at Buffalo.
+Tan, J. (1997) Improving Malay educational achievement in Singapore: problems and policies,
+Asia Pacific Journal of Education, 17(1), 41–57.
+Tan, J. (1998) The marketization of education in Singapore: policies and implications,  Interna-
+tional Review of Education, 44(1), 47–63.
+Tang, K. L. (2000) Social welfare development in East Asia (New York, Palgrave).
+The Straits Times (2005, January 3) Public universities to be given more freedom, The Straits Times .
+Weiss, L. (1998) The Myth of the Powerless State (Cambridge, Cambridge University Press).
+White, G. & Wade, R. (1998) Developmental states and markets in East Asia: an introduction, in:
+G. White (Ed.) Developmental States in East Asia (London, Macmillan Press).
+Wylie, C. (1995) Contrary concepts: the application of the public sector framework in education,
+New Zealand Journal of Educational Studies, 20(2), 149–164.

@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/templates/template-argument.md",
+                "file": "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "template-argument"
+              "title": "Argument_Deng_2016_CE"
             }
           },
           {
@@ -113,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -329,11 +329,19 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "96c685dea1ff308e",
+  "active": "e2374d26ccaac553",
   "lastOpenFiles": [
-    "raw/3.-Globalisation-the-Singapore-developmental-state-and-education-policy-a-thesis-revisited-pdbsbq.pdf",
-    "wiki/persons/china/Yajun Zheng.md",
+    "raw_extracted_text.txt",
+    "wiki/templates/template-argument.md",
     "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md",
+    "wiki/facts/global/Development Economics Vice Presidency.md",
+    "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso.md",
+    "wiki/concepts/comparative-education/Policy Borrowing.md",
+    "wiki/methods/quantitative/h-Index.md",
+    "wiki/theories/educational-philosophy/Phenomenology.md",
+    "wiki/persons/china/Yajun Zheng.md",
+    "output/related-updates/Argument_Deng_2016_CE-aa9fbcd3/batch-003/result.json",
+    "raw/3.-Globalisation-the-Singapore-developmental-state-and-education-policy-a-thesis-revisited-pdbsbq.pdf",
     "raw/978-981-10-3386-5.epub",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch06-acd57156/batch-012/result.json",
     "output/related-updates/Argument_Deng_2016_CE-aa9fbcd3/batch-002/result.json",
@@ -349,9 +357,7 @@
     "output/related-updates/Argument_Deng_2016_CE-aa9fbcd3/batch-007/prompt.md",
     "output/related-updates/Argument_Deng_2016_CE-aa9fbcd3/batch-007/batch-result.schema.json",
     "output/related-updates/Argument_Deng_2016_CE-aa9fbcd3/batch-013/prompt.md",
-    "output/related-updates/Argument_Deng_2016_CE-aa9fbcd3/batch-013/batch-result.schema.json",
     "output/related-updates/Argument_Deng_2016_CE-aa9fbcd3/batch-010/prompt.md",
-    "output/related-updates/Argument_Deng_2016_CE-aa9fbcd3/batch-010/batch-result.schema.json",
     "output/related-updates/Argument_Deng_2016_CE-aa9fbcd3/batch-012/prompt.md",
     "output/related-updates/Argument_Deng_2016_CE-aa9fbcd3/batch-011/prompt.md",
     "output/related-updates/Argument_Deng_2016_CE-aa9fbcd3/batch-006/prompt.md",
@@ -361,12 +367,6 @@
     "output/related-updates/Argument_Deng_2016_CE-aa9fbcd3/batch-004/prompt.md",
     "output/related-updates/Argument_Deng_2016_CE-aa9fbcd3/batch-002/prompt.md",
     "output/related-updates/Argument_Deng_2016_CE-aa9fbcd3/batch-003/prompt.md",
-    "output/related-updates/Argument_Deng_2016_CE-aa9fbcd3/batch-001/prompt.md",
-    "wiki/concepts/higher-education/Continuous Doctoral Training.md",
-    "wiki/concepts/educational-philosophy/The Interesting.md",
-    "wiki/concepts/sociology-of-education/Goal-Controlled Mode.md",
-    "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md",
-    "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
     "books/Zheng_2023_ShanghaiSanlian/figures/Table_06_Pathways.jpg",
     "books/Zheng_2023_ShanghaiSanlian/figures/Table_05_Subgroups.jpg",
     "books/Zheng_2023_ShanghaiSanlian/figures/Figure_05_04_Four_Types.jpg",

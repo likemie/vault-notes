@@ -12072,10 +12072,9 @@
     "Jason (1994)": "Jason, 1994",
     "Jason Baehr (2011)": "Jason Baehr, 2011",
     "Jason Baehr, 2011": "Jason Baehr, 2011",
-    "Jason Beech (2009a)": "Jason Beech, 2009a",
-    "Jason Beech (2009b)": "Jason Beech, 2009b",
-    "Jason Beech, 2009a": "Jason Beech, 2009a",
-    "Jason Beech, 2009b": "Jason Beech, 2009b",
+    "Jason Beech (2009)": "Jason Beech, 2009",
+    "Jason Beech, 2009": "Jason Beech, 2009",
+    "Jason Beech, 2009b": "Jason Beech, 2009",
     "Jason, 1994": "Jason, 1994",
     "Jaspers (1988)": "Jaspers, 1988",
     "Jaspers, 1988": "Jaspers, 1988",
@@ -116743,25 +116742,10 @@
       ],
       "title": ""
     },
-    "Jason Beech, 2009a": {
+    "Jason Beech, 2009": {
       "aliases": [
-        "Jason Beech, 2009a",
-        "Jason Beech (2009a)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Jason Beech, 2009a"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/research-methodology/Discourse.md"
-      ],
-      "title": ""
-    },
-    "Jason Beech, 2009b": {
-      "aliases": [
-        "Jason Beech, 2009b",
-        "Jason Beech (2009b)"
+        "Jason Beech, 2009",
+        "Jason Beech (2009)"
       ],
       "doi": "",
       "identity_keys": [
