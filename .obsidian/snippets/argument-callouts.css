@@ -29151,3 +29151,138 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout.callo
  }
 }
 /* <<< EXEGESIS SUBHEADS */
+
+
+/* ═══════════════════════════════════════════════════════════
+   [!rating-scale] / [!scale-track] · 数值评定量表标尺组件
+   针对 0–10 / 1–5 / 1–7 数值评定量表与打分标尺专门设计；
+   采用 table-layout: fixed 与零水平 padding 机制，
+   由浏览器自动均分 100% 容器宽度，彻底规避像素计算与右端分值截断。
+   ═══════════════════════════════════════════════════════════ */
+body .callout.callout.callout:is([data-callout="rating-scale"], [data-callout="scale-track"], [data-callout="likert-scale"]) {
+  padding: 0.85rem 1rem 0.9rem !important;
+  background: var(--ac-paper) !important;
+  background-image: none !important;
+  border: 1px solid var(--ac-hair) !important;
+  border-left: 4px solid var(--ac-accent, rgb(68, 110, 155)) !important;
+  border-radius: 10px !important;
+  box-shadow: none !important;
+  margin: 0.8rem 0 !important;
+}
+
+body .callout.callout.callout:is([data-callout="rating-scale"], [data-callout="scale-track"], [data-callout="likert-scale"]):hover {
+  border-color: var(--ac-edge) !important;
+}
+
+body .callout.callout.callout:is([data-callout="rating-scale"], [data-callout="scale-track"], [data-callout="likert-scale"]) > .callout-title {
+  padding: 0 !important;
+  margin: 0 0 0.5rem !important;
+  background: none !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  align-items: flex-start !important;
+}
+
+body .callout.callout.callout:is([data-callout="rating-scale"], [data-callout="scale-track"], [data-callout="likert-scale"]) > .callout-title .callout-icon {
+  display: none !important;
+}
+
+body .callout.callout.callout:is([data-callout="rating-scale"], [data-callout="scale-track"], [data-callout="likert-scale"]) > .callout-title .callout-title-inner {
+  font-family: var(--ac-serif) !important;
+  font-size: 1.05em !important;
+  font-weight: 600 !important;
+  color: var(--text-normal) !important;
+  letter-spacing: 0 !important;
+}
+
+body .callout.callout.callout:is([data-callout="rating-scale"], [data-callout="scale-track"], [data-callout="likert-scale"]) > .callout-title .callout-title-inner::before {
+  content: "SCALE · 评定量表" !important;
+  display: block !important;
+  width: max-content;
+  margin: 0 0 0.35rem !important;
+  padding: 0 0 0 20px !important;
+  border: 0 !important;
+  background: linear-gradient(var(--ac-accent), var(--ac-accent)) left center / 12px 2px no-repeat !important;
+  color: var(--ac-ink) !important;
+  font-family: var(--ac-sans);
+  font-size: 0.62em !important;
+  font-weight: 650 !important;
+  letter-spacing: 0.14em !important;
+  text-transform: uppercase;
+}
+
+body .callout.callout.callout:is([data-callout="rating-scale"], [data-callout="scale-track"], [data-callout="likert-scale"]) > .callout-content {
+  padding: 0 !important;
+  background: none !important;
+}
+
+/* 评定标尺表格：自适应 100% 容器宽度，table-layout: fixed 均分各列，绝不溢出 */
+body .callout.callout.callout:is([data-callout="rating-scale"], [data-callout="scale-track"], [data-callout="likert-scale"]) table,
+body .callout.callout.callout .callout.callout.callout:is([data-callout="rating-scale"], [data-callout="scale-track"], [data-callout="likert-scale"]) table {
+  display: table !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+  table-layout: fixed !important;
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  margin: 0.45rem 0 !important;
+  border: 1px solid var(--ac-hair) !important;
+  border-radius: 8px !important;
+  background: var(--ac-raised) !important;
+  overflow: hidden !important;
+  box-shadow: none !important;
+}
+
+body .callout.callout.callout:is([data-callout="rating-scale"], [data-callout="scale-track"], [data-callout="likert-scale"]) :is(th, td),
+body .callout.callout.callout .callout.callout.callout:is([data-callout="rating-scale"], [data-callout="scale-track"], [data-callout="likert-scale"]) :is(th, td) {
+  padding: 0.38rem 0 !important;
+  text-align: center !important;
+  vertical-align: middle !important;
+  line-height: 1.2 !important;
+  white-space: nowrap !important;
+  overflow: visible !important;
+  box-sizing: border-box !important;
+}
+
+body .callout.callout.callout:is([data-callout="rating-scale"], [data-callout="scale-track"], [data-callout="likert-scale"]) th,
+body .callout.callout.callout .callout.callout.callout:is([data-callout="rating-scale"], [data-callout="scale-track"], [data-callout="likert-scale"]) th {
+  font-family: var(--font-monospace) !important;
+  font-size: 0.88em !important;
+  font-weight: 700 !important;
+  color: var(--text-normal) !important;
+  background: rgba(128, 128, 128, 0.08) !important;
+  border-bottom: 1px solid var(--ac-hair) !important;
+  border-right: 1px solid rgba(128, 128, 128, 0.08) !important;
+}
+
+body .callout.callout.callout:is([data-callout="rating-scale"], [data-callout="scale-track"], [data-callout="likert-scale"]) td,
+body .callout.callout.callout .callout.callout.callout:is([data-callout="rating-scale"], [data-callout="scale-track"], [data-callout="likert-scale"]) td {
+  font-size: 1.05em !important;
+  color: var(--text-muted) !important;
+  border-right: 1px solid rgba(128, 128, 128, 0.08) !important;
+  transition: background-color 140ms ease, color 140ms ease !important;
+}
+
+body .callout.callout.callout:is([data-callout="rating-scale"], [data-callout="scale-track"], [data-callout="likert-scale"]) :is(th, td):last-child,
+body .callout.callout.callout .callout.callout.callout:is([data-callout="rating-scale"], [data-callout="scale-track"], [data-callout="likert-scale"]) :is(th, td):last-child {
+  border-right: none !important;
+}
+
+body .callout.callout.callout:is([data-callout="rating-scale"], [data-callout="scale-track"], [data-callout="likert-scale"]) td:hover,
+body .callout.callout.callout .callout.callout.callout:is([data-callout="rating-scale"], [data-callout="scale-track"], [data-callout="likert-scale"]) td:hover {
+  background: var(--ac-tint) !important;
+  color: var(--ac-accent) !important;
+  cursor: pointer;
+}
+
+/* 标尺两极语义锚点（自动首尾对齐两端展开，无需人工点状符号占位） */
+body .callout.callout.callout:is([data-callout="rating-scale"], [data-callout="scale-track"], [data-callout="likert-scale"]) .callout-content > p:last-child {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  font-size: 0.82em !important;
+  color: var(--text-muted) !important;
+  margin: 0.35rem 0 0 !important;
+  padding: 0 0.2rem !important;
+}

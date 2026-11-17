@@ -7,7 +7,7 @@ aliases:
 summary: "大学生活组织实践的理想类型模式，指学生因习性滞后与文化性知识匮乏，缺乏长远目标定位，依循直觉旧习与机械苦学应对大学挑战的行动图式。"
 type: concept
 domain: "sociology-of-education"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -57,6 +57,7 @@ related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 confidence: high
 status: active
@@ -170,6 +171,7 @@ updated: 2026-11-17
 
 > [!critique|notitle] 外部批评与理论反思
 > - **概念命名可能引发的污名化偏误** 批评者提出，使用直觉依赖这一表述容易在直观上被误解为个人缺乏主观规划能力，掩盖其背后的阶层与制度性不平等；郑雅君明确回应，该概念必须始终置于阶层习性与制度常识分配不公的结构性视阈中理解。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 70–71)]]
+> - **价值合理性与内在成长的评价视阈** 依循价值合理性与内在兴趣行动的直觉依赖者，在自我探索与人生意义建构上保有独特韧性。反思指出，考察该模式需兼顾策略性出路分流与非功利性精神成长的双重视角。[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|(郑雅君, 2023, pp. 358–360)]]
 > - **模式二分的连续统还原风险** 强调两极划分可能低估中间混合形态的丰富性，现实中约半数依赖者在高年级展现出的动态转变表明该模式具有较强的情境流动性。
 
 > [!warning|limits] 适用局限
@@ -197,4 +199,4 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 系统提出并操作化直觉依赖模式，基于顶尖高校生活史解剖苦读惯性、冲动选拔与精英休克（参见[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]）；在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]解剖其学业选课偏差、课外融入三重壁垒及通过密集社会性投入完成习性转换的突破路径。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 提出直觉依赖模式，解剖苦读惯性与休克（[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]），探讨学业选拔偏差与融入壁垒（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]），并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|第六章]]反思其价值合理性与内在成长意义。

@@ -54,6 +54,7 @@ related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 confidence: high
 status: active
