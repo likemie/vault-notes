@@ -292,7 +292,7 @@ updated: 2026-11-15
 > - **政府财政紧缩的选择性修辞** 新西兰财政部简报（[[Treasury Briefing on Student-Teacher Ratios]]）曾援引哈蒂“教师质量是最大校内影响变量”的论断，提议提高生师比以腾挪财政资金。奥尼尔尖锐指出该建议犯下多重[[Material Fallacies|实质谬误]]：故意忽略哈蒂关于“增加班级规模是灾难性糟糕政策”的警告，并且掩盖了新西兰生师比本已显著高于 [[OECD]] 均值的事实。[[Argument_ONeill_2012_NZJES|(O'Neill, 2012, pp. 153–159)]]
 > - **[[Socioeconomic Status|阶级盲教学思维]]的技术遮蔽** 尼尔森与克利特默勒强调，哈蒂将社会阶层变量排除在[[Moderator Analysis|调节效应分析]]之外，构建了一套假定所有学生均质化的纯技术方案，在客观上掩盖了贫困儿童在结构性劣势下的真实学习困难。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 6–7)]]
 
-> [!warning] 适用局限
+> [!warning|limits] 适用局限
 > - **极端大班额（60–100 人）对[[Classroom Observation|课堂观察]]测量的冲击** [[UNESCO|联合国教科文组织]]与[[World Bank|世界银行]]在撒哈拉以南非洲及南亚的调研显示，小学班额普遍达到 60–100 人。在世界银行 Teach 工具的现场实测中，研究人员发现超大班额直接危及低推论快照测量的有效性：观察员在 1–10 秒的瞬时扫视中，极难精准捕捉拥挤在后排或窗外张望学生的真实在轨状态，容易导致时间利用率的系统性测量偏误。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 4, 16)]]
 
 ---
@@ -437,18 +437,16 @@ updated: 2026-11-15
 
 ---
 
-## 应用案例
-
-> [!evidence-grid-a] 欧美代表性政策案例
+> [!case] 欧美代表性政策案例
 > - **田纳西州 STAR 项目（[[Tennessee STAR Project 1985-1989]]）** 严格[[Random Assignment|随机分配]]学生与教师至小班与大班，小班学生到二年级末累计领先约 3 个月学力，证实低年级小班对弱势群体的扶持效应，但威廉指出其实验条件的特殊性制约了向常规师资不足学校的直接外推。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, pp. 5–7)]]
 > - **加州 1996 年全州缩班工程（[[California Class Size Reduction 1996]]）** 试图将 STAR 模式快速复制至全州。[[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023, p. 33)]] 考证指出，该改革实质是加州州长为了与教师工会政治斗争而仓促立法的产物，导致全州紧急招募数万名未获充分认证的代课教师，大量学生被安置在临时板房上课，师资与设施配套断裂导致预期效果彻底归零，成为政策外推忽视系统支持条件的反面教材。[[Argument_Cowen_2015_CHESS|(Cowen et al., 2015, pp. 17–18)]]; [[Argument_Wiliam_2019_ERE|(Wiliam, 2019, p. 7)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 33)]]
 > - **法国优先教育区缩班改革（[[French Class Size Reduction]]）** 针对重点扶困小学低段推行 12 人超小班，因伴随巨额财政支出且数学增益微弱，成为欧洲[[Evidence-Based Policy-Making|循证决策]]中权衡高昂缩班成本与定向课后辅导替代方案的典型案例。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, pp. 27–28)]]
 
-> [!evidence-grid-a] 新西兰与西班牙制度反思案例
+> [!case] 新西兰与西班牙制度反思案例
 > - **新西兰 [[Picking Up the Pace|PACE 项目]]与政策简报风波（[[Treasury Briefing on Student-Teacher Ratios]]）** 奥克兰南区与芒盖雷的 [[Picking Up the Pace|PACE 项目]]（Phillips et al., 2001）实证表明，将班额从 28 人缩减至 15 人并配合针对性专业发展，使教师能针对每组仅 3 名学生展开 10–15 分钟密集阅读指导，取得了两倍于常规班级的读写增益。然而，新西兰教育部长安妮·托利（Anne Tolley）与财政部简报却借[[John Hattie|哈蒂]]平均值之名，宣称班级规模无足轻重，提议扩大班额以削减教育赤字并转推[[Performance Pay|绩效工资]]，引发学界对证据断章取义与政策修辞谬误的激烈声讨。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 100–104)]]; [[Argument_ONeill_2012_NZJES|(O'Neill, 2012, pp. 153–159)]]
 > - **西班牙公立教育高投入与高失败率的反差** [[José Luis García Garrido|加西亚·加里多]]基于翔实跨国统计揭示，西班牙公立学校的班级规模与生师比全面占优于[[EU|欧盟]]平均线，但在均一不分流课程体系压迫下，学生厌学成风与纪律解体导致学业失败率高达 33%，证明班额投入指标无法挽救深层课程治理危机。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 331–332)]]
 
-> [!evidence-grid-a] 全球南方与[[World Bank|世界银行]] Teach 案例
+> [!case] 全球南方与[[World Bank|世界银行]] Teach 案例
 > - **几内亚小学阅读教学的物质约束基础设施** 安德森-莱维特（Anderson-Levitt, 2003, 2004）跨国[[Ethnography|民族志]]证实，几内亚小学面临 60 人以上的巨型班额与严重教材短缺，西方主流的儿童中心与[[Individualised Instruction|个别化教学]]失去物质可行性，教师被迫退守全班齐读与严苛纪律，确立了班级规模作为依附性物质约束的理论视野。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–109)]]
 > - **世界银行 Teach 工具的大班额实证与测量挑战** 在巴基斯坦旁遮普省大样本计量模型中，研究团队将班级规模作为关键控制[[Variable|变量]]，证实无论班额大小，教师在 Teach 上的[[Effective Teaching|有效教学]]行为均能稳定解释学生学业增值（0.08–0.12 SD）；同时在莫桑比克等非洲多国试点中，世界银行团队记录了 60–100 人超大班额对 1–10 秒时间快照（Snapshot）扫描精度的严峻考验，推动了对超大班额微观观察规程的本土化改进。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 4, 12, 16–17)]]
 
@@ -471,7 +469,29 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Classroom Management]] | 概念 | 机制链条：班级规模直接放大或缓解课堂管理压力，是大班教师耗费认知负荷的主要来源。 |
+> | [[Effective Teaching]] | 概念 | 效能交互：班级规模是物理容器，唯有配合有效教学行为（如高质量提问与反馈）方能转化出学业增益。 |
+> | [[Neo-Taylorism]] | 概念 | 批判透镜：新泰勒主义将教学还原为离散输入-输出控制，将班额孤立为技术参数以推行量化考核。 |
+> | [[Critical Theory]] | 理论 | 认识论批判：揭露班额无效论背后的意识形态功能，穿透技术中立外衣批判政商紧缩联盟。 |
+> | [[Observation Protocol]] | 方法 | 测量载体：课堂观察规程将班级规模细化为分时段、分性别的现场在席计数，并受大班额扫描精度制约。 |
+> | [[Teach Classroom Observation Tool]] | 测量工具 | 落地工具：在跨国大样本中将班级规模作为核心控制变量，并确立每 15 分钟片段实测班额的标准化记录单。 |
+> | [[Tennessee STAR Project 1985-1989]] | 事实 | 经典实验：为小班在低年级与弱势学生中的长期学业优势提供了最具代表性的随机对照试验（RCT）证据。 |
+> | [[California Class Size Reduction 1996]] | 事实 | 反面警示：仓促全州推广导致未认证师资充斥弱势学区，展示了脱离师资供给生态盲目缩班的政策后果。 |
+> | [[French Class Size Reduction]] | 事实 | 成本案例：法国重点扶困区 12 人超小班改革，成为权衡高昂缩班成本与定向个别辅导性价比的代表案例。 |
+> | [[Treasury Briefing on Student-Teacher Ratios]] | 事实 | 政策误用：新西兰财政部简报片面曲解实证研究，以生师比证据掩饰削减教育预算的官僚修辞。 |
+> | [[Kathryn Anderson-Levitt]] | 人物 | 理论阐发：跨国民族志学者，揭示几内亚巨型班额与教材匮乏对西方儿童中心教学范式的刚性阻隔。 |
+> | [[José Luis García Garrido]] | 人物 | 制度批判：揭露西班牙优越的班级规模与生师比指标与 33% 义务教育失败率脱节的制度性平庸。 |
+> | [[Pierre-Jérôme Bergeron]] | 人物 | 方法学批判：针对哈蒂班额元分析实施数理对偶审计，揭示比较基准颠倒导致的性质判定矛盾。 |
+> | [[Picking Up the Pace]] | 事实 | 本土实证：奥克兰南区小学缩班至 15 人配合 3 人微组阅读辅导，提供小班与针对性教学协同的典型范例。 |
+> | [[Performance Pay]] | 概念 | 替代政策：政策制定者常以班额无效论为借口，将原本拟用于缩班的公共资金转向屡遭失败的绩效工资。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 对[[John Hattie|哈蒂]]班级规模结论进行数理对偶审计，揭示小班 $d=+0.20$ 与大班 $d=-0.20$ 的参照基准颠倒效应，论证人为阈值（$d=0.40$）如何导致政策判定发生逻辑断裂（pp. 240–242）。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 批判性重审可见学习底层逻辑，援引 Berger (1982) 确立班级规模非独立[[Unit of Analysis|分析单元]]属性，揭露排除 [[Socioeconomic Status|SES]] 调节[[Variable|变量]]所建构的阶级盲教学思维（pp. 5–7）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 通过词频统计（95 次提及）与格拉斯[[Primary and Secondary Documents|原始文献]]核查，系统揭露《[[Visible Learning|可见的学习]]》如何将班级规模效应矮化为新自由主义财政紧缩的实证挡箭牌（pp. 31–33）。
@@ -483,26 +503,5 @@ updated: 2026-11-15
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 比较教育经典专著，以西班牙为例实证揭示优渥的班级规模和生师比指标难掩统一不分流学制的深层平庸与纪律溃退。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 汇聚安德森-莱维特等跨国[[Ethnography|民族志]]，阐明全球南方极端大班额作为阻滞西方通用教学法落地的物质基础设施约束。
 > - [[Argument_ONeill_2012_NZJES|O'Neill (2012)]] — 剖析新西兰财政部借生师比证据推行紧缩政策的多重[[Material Fallacies|实质谬误]]与对哈蒂原意的断章取义。
-
----
-
-> [!entry-map] 条目关联
->
-> | 条目 | 类型 | 关联方向 | 说明 |
-> |:-----|:-----|:---------|:-----|
-> | [[Classroom Management]] | 概念 | 机制链条 | 班级规模直接放大或缓解课堂管理压力，是大班教师耗费认知负荷的主要来源。 |
-> | [[Effective Teaching]] | 概念 | 效能交互 | 班级规模是物理容器，唯有配合有效教学行为（如高质量提问与反馈）方能转化出学业增益。 |
-> | [[Neo-Taylorism]] | 概念 | 批判透镜 | 新泰勒主义将教学还原为离散输入-输出控制，将班额孤立为技术参数以推行量化考核。 |
-> | [[Critical Theory]] | 理论 | [[Epistemology\|认识论]]批判 | 揭露班额无效论背后的意识形态功能，穿透技术中立外衣批判政商紧缩联盟。 |
-> | [[Observation Protocol]] | 方法 | 测量载体 | 课堂观察规程将班级规模细化为分时段、分性别的现场在席计数，并受大班额扫描精度制约。 |
-> | [[Teach Classroom Observation Tool]] | 测量工具 | 落地工具 | 在跨国大样本中将班级规模作为核心控制[[Variable\|变量]]，并确立每 15 分钟片段实测班额的标准化记录单。 |
-> | [[Tennessee STAR Project 1985-1989]] | 事实 | 经典实验 | 为小班在低年级与弱势学生中的长期学业优势提供了最具代表性的[[Randomised Controlled Trials\|随机对照试验]]（RCT）证据。 |
-> | [[California Class Size Reduction 1996]] | 事实 | 反面警示 | 仓促全州推广导致未认证师资充斥弱势学区，展示了脱离师资供给生态盲目缩班的政策后果。 |
-> | [[French Class Size Reduction]] | 事实 | 成本案例 | 法国重点扶困区 12 人超小班改革，成为权衡高昂缩班成本与定向个别辅导性价比的代表案例。 |
-> | [[Treasury Briefing on Student-Teacher Ratios]] | 事实 | 政策误用 | 新西兰财政部简报片面曲解实证研究，以生师比证据掩饰削减教育预算的官僚修辞。 |
-> | [[Kathryn Anderson-Levitt]] | 人物 | 理论阐发 | 跨国[[Ethnography\|民族志]]学者，揭示几内亚巨型班额与教材匮乏对西方儿童中心教学[[Paradigm\|范式]]的刚性阻隔。 |
-> | [[José Luis García Garrido]] | 人物 | 制度批判 | 揭露西班牙优越的班级规模与生师比指标与 33% 义务教育失败率脱节的制度性平庸。 |
-> | [[Pierre-Jérôme Bergeron]] | 人物 | 方法学批判 | 针对[[John Hattie\|哈蒂]]班额[[Meta-analysis\|元分析]]实施数理对偶审计，揭示比较基准颠倒导致的性质判定矛盾。 |
-> | [[Picking Up the Pace]] | 事实 | 本土实证 | 奥克兰南区小学缩班至 15 人配合 3 人微组阅读辅导，提供小班与针对性教学协同的典型范例。 |
-> | [[Performance Pay]] | 概念 | 替代政策 | 政策制定者常以班额无效论为借口，将原本拟用于缩班的公共资金转向屡遭失败的绩效工资。 |
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 分析新加坡在 35–40 人大班额下通过师资优质化与高效全班讲授达成国际顶尖学业表现的机制，打破小班化作为高绩效唯一路径的迷思。
 
