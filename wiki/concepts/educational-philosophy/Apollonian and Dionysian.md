@@ -8,7 +8,7 @@ aliases:
 summary: "尼采在《悲剧的诞生》中提出的双重艺术与自然原则，分别代表个体化秩序与狂醉合一，在古希腊悲剧中达成张力平衡并随后在晚期哲学中转向酒神主导。"
 type: concept
 domain: "educational-philosophy"
-related_count: 12
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Philosophical Aesthetics]]"
   - "[[Emergence]]"
   - "[[Principium Individuationis]]"
+  - "[[Veil of Maya]]"
   - "[[Mimesis]]"
   - "[[Ontology]]"
   - "[[Creativity]]"
@@ -31,6 +32,7 @@ related_persons:
   - "[[Socrates]]"
   - "[[Johann Joachim Winckelmann]]"
   - "[[Friedrich Schiller]]"
+  - "[[Richard Wagner]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Hammermeister_2002_Cambridge_Ch07]]"
@@ -38,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-17
 ---
 
 ---
@@ -66,7 +68,7 @@ updated: 2026-11-15
 > | 维度 | 阿波罗原则 | 狄奥尼索斯原则 |
 > |---|---|---|
 > | **神祇与象征** | 太阳与白昼之神阿波罗；光辉梦境与奥林匹斯诸神。 | 来自东方的后来之神狄奥尼索斯；被泰坦撕裂又重生的神祇。 |
-> | **存在论机制** | 依循[[Principium Individuationis\|个体化原理]]，令个体从群体中脱颖而出。 | 撕破摩耶之幕，摧毁个体化原理，消解主客与性别界线。 |
+> | **存在论机制** | 依循[[Principium Individuationis\|个体化原理]]，令个体从群体中脱颖而出。 | 撕破[[Veil of Maya\|摩耶之幕]]，摧毁个体化原理，消解主客与性别界线。 |
 > | **伦理与心理态** | 节制（*sophrosyne*）、沉思与冷静审视。 | 狂醉、迷狂与自失，人自身化为艺术品。 |
 > | **艺术门类谱系** | 雕塑（最纯粹）、史诗、绘画中的轮廓与构图（*disegno*）。 | 音乐（旋律与和声）、酒神歌队，赋予生存痛苦以直接表达。 |
 > | **核心功能** | 以秩序与幻象之盾抵御混沌与存在恐怖。 | 迫使文化接纳并仪式化混沌生命力，使个体回归存在统一体。 |
@@ -97,7 +99,7 @@ updated: 2026-11-15
 ---
 
 > [!dev-timeline] 概念演变
-> - **1870–1872 — 悲剧二元原型期** 在未刊短论《酒神世界观》（1870）与《悲剧的诞生》（1872）中提出阿波罗与狄奥尼索斯的对抗与悲剧和解，并寄望理查德·瓦格纳（Richard Wagner）的总体艺术作品带来文化再生。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 139–142)]]
+> - **1870–1872 — 悲剧二元原型期** 在未刊短论《酒神世界观》（1870）与《悲剧的诞生》（1872）中提出阿波罗与狄奥尼索斯的对抗与悲剧和解，并寄望[[Richard Wagner|理查德·瓦格纳]]（Richard Wagner）的总体艺术作品带来文化再生。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 139–142)]]
 > - **1880年代 — 晚期酒神一元转向** 二元对立让位于酒神原则的主导，两者均被归为刺激生命力的迷醉形态；同时酒神的含义从早期忘我自失逆转为代表自我纪律、克服基督教温顺道德的力量伦理（“狄奥尼索斯对抗被钉十字架者”）。[[Argument_Hammermeister_2002_Cambridge_Ch07|(Hammermeister, 2002, pp. 136–137, 146)]]
 
 ---

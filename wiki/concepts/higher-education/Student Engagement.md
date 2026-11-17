@@ -60,42 +60,41 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
 related_instruments:
   - "[[National Survey of Student Engagement]]"
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-11-15
+updated: 2026-11-17
 ---
-
-（学生投入）
 
 ---
 
 > [!def] Student Engagement
-> 学生投入（Student Engagement）是指学生在高等教育及各类教学环境中，向具备明确教育目的的课内外实践活动（Educationally Purposeful Activities）所投入的时间、精力和深层心智关注。该概念由美国学者乔治·库（George Kuh, 1991）系统奠定，指出投入是连接学校制度环境与学生发展成果的核心中介[[Variable\|变量]]。随着研究深化，学生投入从最初可观察的“行为性投入”拓展至“情感性投入”与“认知性投入”，并在当代研究中进一步延伸出区分资源配置的“方向性投入”以及[[Man-Computer Symbiosis|人机共生]]下的“认识性投入（Epistemic Engagement）”。[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, pp. 112–115)]]; [[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 5–6)]]
+> 学生投入（Student Engagement）是指学生在高等教育及各类教学环境中，向具备明确教育目的的课内外实践活动（Educationally Purposeful Activities）所投入的时间、精力和深层心智关注。该概念由美国学者乔治·库（George Kuh, 1991）系统奠定，指出投入是连接学校制度环境与学生发展成果的核心中介[[Variable|变量]]。随着研究深化，学生投入从最初可观察的“行为性投入”拓展至“情感性投入”与“认知性投入”，并在当代研究中进一步延伸出区分资源配置的“方向性投入”以及[[Man-Computer Symbiosis|人机共生]]下的“认识性投入（Epistemic Engagement）”。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|(郑雅君, 2023, pp. 40–41, 47–48)]]; [[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 5–6)]]
 
-> [!concept-lens] 概念透镜
-> - **含义** 超越了静态的学业出勤率或单一的时间多寡，涵盖行为参与、情感归属、认知策略、生涯方向性组织及面对证据冲突时的[[Epistemology\|认识论]]判断。
+> [!concept-lens|notitle] 概念透镜
+> - **含义** 超越了静态的学业出勤率或单一的时间多寡，涵盖行为参与、情感归属、认知策略、生涯方向性组织及面对证据冲突时的[[Epistemology|认识论]]判断。
 > - **用途** 用于解释不同背景学生的就读经历如何转化为学术成就、社会资本与毕业出路差异，并作为诊断现代数字化与人工智能学习环境中“表层交互活跃”与“深层心智投入”脱节的核心分析工具。
-> - **边界** 严格区别于单纯的课时打卡、页面停留时长或算法交互频率；没有伴随思维加工与[[Evaluative Judgement\|评价性判断]]的机械操作属于“伪投入”。
+> - **边界** 严格区别于单纯的课时打卡、页面停留时长或算法交互频率；没有伴随思维加工与[[Evaluative Judgement|评价性判断]]的机械操作属于“伪投入”。
 
-> [!citation-card] 学生投入的本质：量、质与认识论深度
-> 学生的专注或投入（engagement）——往学校里的“教育性实践”活动中投入的时间和精力——越多，越可能产出积极的教育结果。学校提供发展机会，学生决定在多大程度上利用这些机会。[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, 引 Kuh, 1991)]]
+> [!citation-card|notitle] 学生投入的本质：量、质与认识论深度
+> 学生的专注或投入（engagement）——往学校里的“教育性实践”活动中投入的时间和精力——越多，越可能产出积极的教育结果。学校提供发展机会，学生决定在多大程度上利用这些机会。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|(引 Kuh, 1991；引自 郑雅君, 2023, p. 40)]]
 >
-> 投入不仅有多寡之分（量），更有策略性方向的区别（质）。目标掌控者的投入围绕生涯目标进行方向明确的系统组织，直觉依赖者的投入则持续偏低且缺乏方向性。[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, pp. 120–125)]]
+> 投入不仅有多寡之分（量），更有策略性方向的区别（质）。目标掌控者的投入围绕生涯目标进行方向明确的系统组织，直觉依赖者的投入则持续偏低且缺乏方向性。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, pp. 120–125)]]
 >
-> 人工智能支持性语调与拟人化自适应反馈能够提升学生的参与兴趣并减少焦虑，这些具有积极教育价值；然而商业系统往往围绕使用时长与交互速度等参与度指标（engagement metrics）进行优化，其表层情感与行为投入极易掩盖深层认识性投入的缺失——当学生将辨析证据与评价论断的认知工作拱手交由算法代劳时，便形成了虚假的[[Illusion of Competence\|能力错觉]]。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 5–6)]]
+> 人工智能支持性语调与拟人化自适应反馈能够提升学生的参与兴趣并减少焦虑，这些具有积极教育价值；然而商业系统往往围绕使用时长与交互速度等参与度指标（engagement metrics）进行优化，其表层情感与行为投入极易掩盖深层认识性投入的缺失——当学生将辨析证据与评价论断的认知工作拱手交由算法代劳时，便形成了虚假的[[Illusion of Competence|能力错觉]]。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 5–6)]]
 
 > [!boundary]- 概念边界
-> - **[[Student Involvement]]（学生涉入，Astin）** 涉入理论更侧重学生生理与心理能量的连续性注入与投入主观体验；学生投入理论（Kuh）则侧重将投入[[Operationalization\|操作化]]为具体的行为指标，并强调学校制度环境的支撑责任。
-> - **[[Academic and Social Integration]]（学业与社会融入，Tinto）** 融入理论聚焦于学生脱离原生群体、适应大学新规范的社会学心理转折过程；学生投入则聚焦于学生在具体教育性实践中的能动行动与时间利用。
-> - **虚假交互活跃度（Surface Clickstream Activity）** 在人机交互中频繁提问、快速翻页或依赖聊天界面互动，属于表层技术操作，并不等于实质性的认知与认识性投入。
+> - **不等于 [[Student Involvement]]（学生涉入，Astin）** 涉入理论更侧重学生生理与心理能量的连续性注入与投入主观体验；学生投入理论（Kuh）则侧重将投入[[Operationalization|操作化]]为具体的行为指标，并强调学校制度环境的支撑责任。
+> - **不等于 [[Academic and Social Integration]]（学业与社会融入，Tinto）** 融入理论聚焦于学生脱离原生群体、适应大学新规范的社会学心理转折过程；学生投入则聚焦于学生在具体教育性实践中的能动行动与时间利用。
+> - **不等于 虚假交互活跃度（Surface Clickstream Activity）** 在人机交互中频繁提问、快速翻页或依赖聊天界面互动，属于表层技术操作，并不等于实质性的认知与认识性投入。
 
 ---
 
-> [!contrast-table] 学生投入与相近[[Construct\|理论构念]]特征对比
+> [!contrast-table|notitle] 学生投入与相近[[Construct|理论构念]]特征对比
 > | 比较维度 | 学生投入（Student Engagement, Kuh） | [[Student Involvement\|学生涉入]]（Student Involvement, Astin） | 学业与社会融入（Tinto） | 认识性投入（Epistemic Engagement, Du & Yuan） |
 > |---|---|---|---|---|
 > | **核心视角** | 行为[[Operationalization\|操作化]]与院校支持交互 | 心理与生理能量的连续倾注 | 群体规范内化与心理社会归属 | 证据检验、反思监控与主体性承担 |
@@ -165,7 +164,7 @@ updated: 2026-11-15
 
 ---
 
-> [!contrast-table] 学生投入核心命题归纳
+> [!contrast-table] 所有命题归纳
 > | 命题类别 | 核心理论断言 | 实践与政策抓手 | 代表[[Document\|文献]] |
 > |---|---|---|---|
 > | **中介转化论** | 学生投入是连接院校资源供给与实际能力产出的决定性中介桥梁 | 改进第一学年体验、增加高影响力教学实践（HIPs） | Kuh; Pascarella & Terenzini |
@@ -178,12 +177,12 @@ updated: 2026-11-15
 > - **1984 — [[Student Involvement\|学生涉入]]理论奠基** 亚历山大·阿斯汀（Alexander Astin）提出涉入理论，聚焦个体生理与心理能量的全面投入，为“投入—成效”研究奠定假说基石。
 > - **1991 — 学生投入理论系统化** 乔治·库（George Kuh）出版 *Involving Colleges*，将投入[[Operationalization\|操作化]]为具体教育性实践的时间与精力测量，并首次将院校制度支持纳入分析。
 > - **2000 年代 — 全国常模与实证巩固** [[National Survey of Student Engagement\|全美学生投入调查]]（NSSE）广泛应用，Pascarella & Terenzini 等学者通过海量实证确立投入对认知增益的稳健促进作用。
-> - **2023 — 质性质态与方向性深化** [[Yajun Zheng\|郑雅君]]引入“投入方向性”与“文化习性”视角，超越“投入越多越好”的线性假设，揭示[[Goal-Controlled Mode\|目标掌控模式]]与[[Intuition-Dependent Mode\|直觉依赖模式]]的机制差异。[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023)]]
+> - **2023 — 质性质态与方向性深化** [[Yajun Zheng\|郑雅君]]引入“投入方向性”与“文化习性”视角，超越“投入越多越好”的线性假设，揭示[[Goal-Controlled Mode\|目标掌控模式]]与[[Intuition-Dependent Mode\|直觉依赖模式]]的机制差异。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|(郑雅君, 2023, pp. 40–41, 47–48)]]; [[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023)]]
 > - **2026 — 认识性投入与算法伪投入反思** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 揭示人工智能时代商业参与度指标的局限，区分表层情感/行为交互与深层认识性投入，推动概念向[[Epistemology\|认识论]]反思与[[Evaluative Judgement\|评价性判断]]拓展。
 
 ---
 
-> [!debates] 学生投入的核心理论争议
+> [!debates|notitle] 学生投入的核心理论争议
 >
 > > [!axis] “中立过程假设” vs 阶层习性与结构性不平等
 > > 传统学生投入研究常预设大学是一个公平中立的竞技场，将未积极投入归因于学生个人努力不足。
@@ -244,26 +243,22 @@ updated: 2026-11-15
 
 ---
 
-> [!example] 典型实践案例
-> - **高校目标掌控者与直觉依赖者的分流案例（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]）**
->   学生泽斌（[[Goal-Controlled Mode\|目标掌控模式]]）清醒意识到课堂学习仅占其大学精力的一部分，策略性地将大量时间定向投入到实习和职业网络拓展中，最终获得高满意度出路；而学生牛铭（[[Intuition-Dependent Mode\|直觉依赖模式]]）同样付出了大量时间参与学生会，但因缺乏明确的方向性组织，导致宝贵精力被事务性活动严重分散，毕业时陷入迷茫。
-> - **[[Man-Computer Symbiosis|人机协同]]课堂中“伪投入”辨析与反思干预（[[Argument_Du_Yuan_2026_AIS\|Du & Yuan, 2026]]）**
->   某高校工程写作课发现，引入 AI 助教后学生的平均[[Homework\|作业]]提交速度与界面聊天互动大幅增加，但在后续闭卷面对面答辩中，大量高频使用 AI 的学生无法解释方案的折中理由与核心推导链条。教师据此调整考核方案，强制要求学生在提交方案的同时汇报“与算法对话中的驳斥与分歧判定记录”，成功促发学生从表层行为互动转向深层的认识性投入。
+> [!entry-map] 条目关联
+
+| 条目 | 类型 | 关系 |
+|:-----|:-----|:-----|
+| [[Student Involvement\|学生涉入]] | 概念 | Astin 的涉入理论奠定了“学生精力投入直接决定产出成效”的基础因果假设。 |
+| [[Academic and Social Integration\|学业与社会融入]] | 概念 | Tinto 的融入理论聚焦心理层面的归属感，与 Kuh 的可观察行为投入构成微观与中观互补。 |
+| [[Cultural Capital\|文化资本]] | 概念 | 家庭文化资本与阶层习性深刻塑造学生能否确立具有前瞻性的策略性投入方向。 |
+| [[Epistemic Agency\|认识主体性]] | 概念 | 现代认识性投入的核心诉求是让学生在[[Man-Computer Symbiosis\|人机协同]]中牢牢掌握评价证据与主张的自主权。 |
+| [[Epistemic Friction\|思维摩擦]] | 概念 | 面对[[Scientific Uncertainty\|认知不确定性]]与探究阻力带来的思维摩擦，是促发深层认知与认识性投入的前提。 |
+| [[College Process Model\|大学过程分析框架]] | 理论 | 学生投入理论构成该框架第二层“投入过程”的行为操作化基础。 |
+| [[Yajun Zheng\|郑雅君]] | 人物 | 拓展投入的方向性维度，并实证揭示精英高校中目标掌控与直觉依赖两类投入模式的学者。 |
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|郑雅君 (2023)]] — 将学生投入理论作为大学过程分析框架中“投入过程”层的核心操作化支柱，从量、质与方向性多维透视学业与社会性投入（pp. 40–41, 47–48）。
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 结合量化调查与质性长周期追踪，构建“投入过程”[[Analytic Framework\|分析框架]]，实证揭示[[Cultural Capital\|文化资本]]与阶层习性对学生投入量与方向性的深层分化机制。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 辨析[[Generative Artificial Intelligence\|生成式人工智能]]环境下表层行为与情感参与对深层“认识性投入”的遮蔽效应，提出重塑评价判断权与培育关系性主体性的实践方案。
-
----
-
-> [!entry-map] 相关概念与理论关系总览
-> | 概念/理论 | 维度/关系类型 | 核心关联说明 |
-> |---|---|---|
-> | [[Student Involvement\|学生涉入]] | 理论前身 | Astin 的涉入理论奠定了“学生精力投入直接决定产出成效”的基础因果假设。 |
-> | [[Academic and Social Integration\|学业与社会融入]] | 机制互补 | Tinto 的融入理论聚焦心理层面的归属感，与 Kuh 的可观察行为投入构成微观与中观互补。 |
-> | [[Cultural Capital\|文化资本]] | 社会学基础 | 家庭文化资本与阶层习性深刻塑造学生能否确立具有前瞻性的策略性投入方向。 |
-> | [[Epistemic Agency\|认识主体性]] | [[Epistemology\|认识论]]旨归 | 现代认识性投入的核心诉求是让学生在[[Man-Computer Symbiosis\|人机协同]]中牢牢掌握评价证据与主张的自主权。 |
-> | [[Epistemic Friction\|思维摩擦]] | 认知促发机制 | 面对[[Scientific Uncertainty\|认知不确定性]]与探究阻力带来的思维摩擦，是促发深层认知与认识性投入的前提。 |
 

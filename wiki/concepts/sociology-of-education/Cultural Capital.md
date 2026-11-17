@@ -63,6 +63,7 @@ related_facts:
   - "[[TIMSS]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
   - "[[Argument_Trautwein_2007_CEP]]"
   - "[[Argument_Teng_2025_CE]]"
   - "[[Argument_Grace_2010_NZJES]]"
@@ -145,6 +146,9 @@ updated: 2026-11-11
 
 > [!claim] [[Pierre Bourdieu\|Bourdieu, P.]]
 > **学术选拔的隐性前提** 教育系统倾向于把有教养阶级传递的语言风格、[[Knowledge Extent|知识广度]]与审美模式作为默认前提，使得缺乏这些资本的弱势家庭子女在学业选拔中面临系统性不利，从而合法化了社会出身的特权差距。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023, Ch. 2)]]（引自 Bourdieu & Passeron, 1979）
+
+> [!claim] [[Pierre Bourdieu\|Bourdieu, P.]]
+> **高等教育场域的文化专断与排斥** 学校教育系统秘而不宣地要求每个学生拥有学校并不曾给予的语言能力、文化感知力与对主导文化的熟稔，而这些素养唯有优势阶层在家庭教育中才能获得；当弱势背景学生进入精英大学时，往往因缺乏此类主导文化积累而遭遇文化失调与边缘化。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|(郑雅君, 2023, pp. 41–43)]]（引自 Bourdieu, 1977, p. 494）
 
 > [!claim] [[Yajun Zheng\|郑雅君]]
 > **大学[[Champ\|场域]]中的[[Cultural Barrier\|文化障碍]]** 弱势阶层大学生在精英高校中面临的核心困境，集中表现为大学场域中被默认掌握的隐性文化技能缺失，如对推荐信文化、[[Recommendation-Based Graduate Admission System\|推免]]规则的生疏，以及在社交面试场合中的身体化局促感。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023, Ch. 6)]]
@@ -259,6 +263,7 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|郑雅君 (2023)]] — 建构大学过程分析框架，揭示家庭资源转化为在校文化资本的“资本化过程”，阐明精英大学场域中文化专断对第一代与弱势大学生的隐性排斥机制（pp. 41–43, 46–47）。
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 将具身化文化资本[[Operationalization\|操作化]]为对大学[[Champ\|场域]]隐性出路规则的掌握，解释了寒门学子和中产家庭学生在升学与求职中的直觉分化。
 > - [[Argument_Teng_2025_CE\|Teng and Wang (2025)]] — 发现中国县域城镇化[[School Choice\|择校]]中由于入学程序简化，文化资本在执行中被边缘化，无法独立完成学位准入，必须向社会资本退让。
 > - [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] — 大规模纵向[[Cohort Study\|面板研究]]，证实家庭文化资本（藏书量）不仅直接促进高中毕业成就（$\beta = 0.16$），更通过降低确定性信念（$\beta = -0.13$）间接赋能高阶[[Academic Achievement\|学业表现]]。
