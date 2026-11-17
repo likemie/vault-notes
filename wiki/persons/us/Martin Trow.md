@@ -12,7 +12,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 0
+person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -26,12 +26,12 @@ tags:
   - educational-expansion
   - comparative-education
   - region/us
-related_concepts:
-  - "[[Credential Inflation]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Robert K. Merton]]"
   - "[[Burton R. Clark]]"
   - "[[Yajun Zheng]]"
 related_facts: []
@@ -63,7 +63,7 @@ updated: 2026-11-17
 > - **1957–1993** 长期任教于加州大学伯克利分校社会学系与公共政策研究生院。
 > - **1973** 受经合组织（OECD）委托撰写专题报告《从精英向大众高等教育转变中的问题》（*Problems in the Transition from Elite to Mass Higher Education*），正式确立三阶段扩张理论。
 > - **1977–1988** 担任加州大学伯克利分校高等教育研究中心主任。
-> - **2000** 发表于学术期刊 *Minerva* 总结性论文，系统考察高等教育从大众化迈向普及时期的大学治理挑战。
+> - **2000** 发表于学术期刊 *Minerva* 总结性研究，系统考察高等教育从大众化迈向普及时期的大学治理挑战。
 > - **2007** 逝世于美国加利福尼亚州伯克利。
 
 ---

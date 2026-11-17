@@ -320,6 +320,17 @@
     ]
   },
   {
+    "title": "Learning for Oneself",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Learning for Oneself.md",
+    "aliases": [
+      "为己之学",
+      "学以为己",
+      "Learning for One's Self",
+      "Self-Cultivation for Oneself"
+    ]
+  },
+  {
     "title": "Learning Virtues",
     "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Learning Virtues.md",
@@ -37570,6 +37581,18 @@
     ]
   },
   {
+    "title": "Martin Trow",
+    "type": "person",
+    "path": "wiki/persons/us/Martin Trow.md",
+    "aliases": [
+      "马丁·特罗",
+      "马丁·A·特罗",
+      "Martin A. Trow",
+      "Trow, M.",
+      "M. Trow"
+    ]
+  },
+  {
     "title": "Max Eckstein",
     "type": "person",
     "path": "wiki/persons/us/Max Eckstein.md",
@@ -40142,6 +40165,21 @@
       "海南国际教育创新岛",
       "国际教育创新岛",
       "Lingshui Li'an International Education Innovation Pilot Zone"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Higher Education Expansion in China 1999",
+    "type": "fact",
+    "path": "wiki/facts/china/Higher Education Expansion in China 1999.md",
+    "aliases": [
+      "中国高等教育大扩招",
+      "1999年高校大扩招",
+      "1999年中国高等教育扩招",
+      "高校扩招政策",
+      "高校大扩招",
+      "Higher Education Expansion in China",
+      "Chinese Higher Education Expansion"
     ],
     "subtype": "policy"
   },
