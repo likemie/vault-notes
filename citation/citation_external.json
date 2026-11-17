@@ -9707,10 +9707,12 @@
     "Green & Castanheira (2012)": "Green & Castanheira, 2012",
     "Green & Castanheira, 2012": "Green & Castanheira, 2012",
     "Green (1963)": "Green, 1963",
+    "Green (1997)": "Green, 1997",
     "Green (2003)": "Green, 2003",
     "Green (2008)": "Green, 2008",
     "Green (2021)": "Green, 2021",
     "Green, 1963": "Green, 1963",
+    "Green, 1997": "Green, 1997",
     "Green, 2003": "Green, 2003",
     "Green, 2008": "Green, 2008",
     "Green, 2021": "Green, 2021",
@@ -13620,8 +13622,10 @@
     "Kogan (1986)": "Kogan, 1986",
     "Kogan, 1986": "Kogan, 1986",
     "Koh (2002)": "Koh, 2002",
+    "Koh (2003)": "Koh, 2003",
     "Koh (2006)": "Koh, 2006",
     "Koh, 2002": "Koh, 2002",
+    "Koh, 2003": "Koh, 2003",
     "Koh, 2006": "Koh, 2006",
     "Kohn (2000)": "Kohn, 2000",
     "Kohn (2014)": "Kohn, 2014",
@@ -97490,7 +97494,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
       "title": "Towards a National System of Education in Singapore, 1945–1973"
     },
@@ -99371,6 +99376,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Interclass Grouping for Reading Instruction in the Middle Grades"
+    },
+    "Green, 1997": {
+      "aliases": [
+        "Green, 1997",
+        "Green (1997)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Green, 1997"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": ""
     },
     "Green, 2003": {
       "aliases": [
@@ -127923,6 +127943,21 @@
       "doi": "",
       "identity_keys": [
         "Koh, 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": ""
+    },
+    "Koh, 2003": {
+      "aliases": [
+        "Koh, 2003",
+        "Koh (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Koh, 2003"
       ],
       "isbn": "",
       "seen_in": [

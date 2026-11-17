@@ -1,5 +1,4 @@
 ---
-title: Argument_Gopinathan_2007_GSE
 summary: "高平纳坦（2007）立足亚洲金融危机与新地缘政治格局，重审全球化、发展型国家与教育政策的关系。研究指出，面对新自由主义与全球知识经济冲击，新加坡强发展型国家通过战术性市场化与远距离操纵主动驾驭全球化进程；政府推行“思考型学校，学习型国家”与“少教多学”等弹性化改革，在制度深层坚守双语制、国民教育与集权问责，在精英分流的文凭主义与社会阶层固化之间维系着脆弱的政治平衡。"
 type: argument
 authors:
@@ -8,10 +7,10 @@ source_language: en
 citation: "Gopinathan, S. (2007). Globalisation, the Singapore developmental state and education policy: a thesis revisited. Globalisation, Societies and Education, 5(1), 53–70. https://doi.org/10.1080/14767720601133405"
 year: 2007
 doi: "10.1080/14767720601133405"
-isbn: ""
 citation_aliases:
   - "Gopinathan, 2007"
   - "Gopinathan (2007)"
+isbn: ""
 tags:
   - comparative-education
   - educational-policy
@@ -48,6 +47,14 @@ created: 2026-11-17
 updated: 2026-11-18
 subtype: journal-article
 publication_type: journal-article
+title: "Argument_Gopinathan_2007_GSE"
+argument_key: "Argument_Gopinathan_2007_GSE"
+argument_display_title: "Globalisation, the Singapore developmental state and education policy: a thesis revisited"
+argument_kind: "journal-article"
+argument_related_count: 13
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: "Globalisation, Societies and Education"
 book_title: ""
 publication_place: ""
@@ -164,7 +171,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim|step] 论证步骤二　面对全球化冲击，强国家并未消亡而是采取战术性市场化与远距离治理
+> [!claim|step] 论证步骤二　面对全球化冲击，强国家通过战术性市场化与远距离治理维系主导权
 
 冷战结束后的全球化进程夹杂着通信技术革命、中国与印度低成本技术劳动力的崛起，以及跨国资本自由流动的压力，引发了学者关于民族国家主权终结与教育体制同质化的猜想。英国与美国等发达经济体推行准市场化改革、绩效排名与削减福利，教育被指从追求平等转向单一的经济效率驱动。
 
@@ -173,7 +180,7 @@ issuing_organization: ""
 新加坡作为极度依赖对外贸易且社会构成多元的小型岛国，其经济基本面与政治地缘环境面临严峻考验。1997年亚洲金融危机、高科技制造业向低成本地区转移的空心化风险，以及九一一事件后东南亚宗教极端主义滋生对多元族群凝聚力的冲击，促使政府实施全面的经济战略自救：在降低商业运营成本的同时，国家集中资源培育生物科技、信息通讯、现代金融与创意产业。
 
 > [!factors] 驱动新加坡教育体制深度重构的外部复合冲击
-> - **亚洲金融危机的结构性重创** 1997年金融风暴粉碎了东亚经济奇迹神话，暴露了严重依赖外部信贷与传统代工制造的体制脆弱性，倒逼国家加速向知识密集型经济迁徙。
+> - **亚洲金融危机的结构性重创** 1997年金融风暴击破了东亚经济持续繁荣的神话，暴露了严重依赖外部信贷与传统代工制造的体制脆弱性，促使国家加速向知识密集型经济转型。
 > - **中印低成本技术工人的全球分工挤压** 中国与印度数十万高技能、低薪资工程技术人员进入全球市场，形成新型国际劳动分工，新加坡传统制造业面临产业空心化与无就业增长（jobless growth）双重威胁。
 > - **地缘政治震荡与族群凝聚力裂痕** 九一一事件及随后的反恐战争波及东南亚，极端主义网络的暗流涌动使新加坡多元族群共处格局高度敏感，对伊斯兰宗教学校（madrasah）改革及校规引发敏感政治争端。
 > - **后福特制知识经济的人才规格重构** 现代服务业与创意产业对机械死记硬背的传统劳动力需求骤降，转而渴求具备批判探究、团队协作、同理心与不确定性耐受力的新型公民。
@@ -215,7 +222,7 @@ issuing_organization: ""
 
 > [!sub-claim] 3. “少教多学”倡议将改革纵深切实压向基层课堂教学微观重构
 
-2004年，新任总理李显龙（Lee Hsien Loong）宣布推行[[Teach Less, Learn More|少教多学（Teach Less, Learn More, TLLM）]]倡议，强调以此实现教育质的跃升。政府承诺为中小学及初级学院扩充近三千名教师编制（小学1,000名、中学1,400名、初级学院550名），向每所公立小学拨发高达十万新元的优质创新项目资金，在小学逐步将班级规模由四十人缩减至三十人，配备全职专业心理辅导员并设立兼职返聘机制，力图为师生腾出深入探索概念与差异化教学的实际时空。
+2004年，新任总理李显龙（Lee Hsien Loong）宣布推行[[Teach Less, Learn More|少教多学（Teach Less, Learn More, TLLM）]]倡议，强调以此实现教育质的转变与重大突破。政府承诺为中小学及初级学院扩充近三千名教师编制（小学1,000名、中学1,400名、初级学院550名），向每所公立小学拨发高达十万新元的优质创新项目资金，在小学逐步将班级规模由四十人缩减至三十人，配备全职专业心理辅导员并设立兼职返聘机制，力图为师生腾出深入探索概念与差异化教学的实际时空。
 
 ---
 

@@ -7,7 +7,7 @@ aliases:
 summary: "以知识、创新、高等教育、研发与高阶思维技能作为价值创造与全球竞争核心要素的经济形态；在技术自动化与AI浪潮下，其战略重心从静态专业知识转向高阶认知能力，但面临宏观政策宣示与微观学业评价滞后的深层制度悖论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 103
+related_count: 104
 related_level: 10
 related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -132,7 +132,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-11-17
+updated: 2026-11-18
 ---
 
 ---
@@ -303,7 +303,7 @@ updated: 2026-11-17
 > - **以市场扩张替代民主制度建设** 教育枢纽研究揭示，威权政权常将“投资知识经济基础设施与分校园区”作为合法性修辞，以此规避实质性的政治民主与公民社会制度建设。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, pp. 200, 211)]]
 > - **教育[[Public Value|公共价值]]与人文关怀的工具化矮化** 将高等教育窄化为单纯的[[Human Capital Theory|人力资本]]投资与劳动力再生产机器，剥离了教育在社会公平、审美情趣与民主公民素养培育上的根本价值。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–452)]]
 
-> [!warning] 适用局限与制度边界
+> [!warning|limits] 适用局限与制度边界
 > - **额外经济系统制度依赖** 知识经济并不能仅凭资本投入自发运转，其高度依赖法治环境、知识产权平衡、基础科学公共投资与教育质量保障等额外经济制度的持续支撑；脱离这些制度基座，单纯的知识产业政策易沦为地缘投机。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 23)]]
 > - **软法指标治理的主权边界** 依托数据指标推行的知识经济软法治理虽然能够达成形式上的政策趋同，但在触及成员国核心宪制主权（如联邦制教育文化主权）时，仍受制于本土政治势力的策略性重组与防御性抵制。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 28–32)]]
 
@@ -341,6 +341,7 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 考察新加坡教育现代化在响应全球知识经济冲击下的制度演化，追溯 1997 年“思考型学校，学习型国家”（TSLN）与 ICT Masterplan 如何推动教育从效率驱动转向能力驱动，揭示发展型国家在知识经济诉求与传统高利害分流问责之间构建的混合调和机制。
 > - [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|郑雅君 (2023, 第四章)]] — 揭示知识经济与文凭通胀下劳动力市场筛选从文凭硬指标向经历管理与软实力呈现的结构性转移。
 > - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 考察中国[[Internationalization of Higher Education|高等教育国际化]]政策与长三角、粤港澳、海南三大教育枢纽，阐述跨境高等教育如何嵌入区域创新体系并推动知识经济转型。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — [[OECD]] 国际报告，系统论证知识经济与技术自动化背景下，高等教育如何通过五大政策支柱重构[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]的评价生态。
