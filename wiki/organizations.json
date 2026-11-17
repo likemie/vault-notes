@@ -3397,6 +3397,12 @@
         "wiki/facts/us/Higher Education Act of 1965.md"
       ]
     },
+    "教育部": {
+      "seen_in": [
+        "wiki/facts/china/China Basic Education Curriculum Reform.md",
+        "wiki/facts/china/Recommendation-Based Graduate Admission System.md"
+      ]
+    },
     "美国司法部（U.S. Department of Justice）": {
       "seen_in": [
         "wiki/facts/us/1956 AT&T Consent Decree.md",
@@ -3934,6 +3940,11 @@
         "wiki/facts/us/MOSIS.md"
       ]
     },
+    "原国家教育委员会": {
+      "seen_in": [
+        "wiki/facts/china/China College Graduate Employment Reform.md"
+      ]
+    },
     "国务院": {
       "seen_in": [
         "wiki/facts/china/2014 Hukou Reform.md"
@@ -3987,11 +3998,6 @@
     "意大利共和国议会（Parlamento Italiano） / 意大利教育部（MIUR）": {
       "seen_in": [
         "wiki/facts/italy/La Buona Scuola.md"
-      ]
-    },
-    "教育部": {
-      "seen_in": [
-        "wiki/facts/china/China Basic Education Curriculum Reform.md"
       ]
     },
     "新加坡国会与新加坡内阁": {
