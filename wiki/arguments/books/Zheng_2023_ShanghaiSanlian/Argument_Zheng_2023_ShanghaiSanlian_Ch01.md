@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian_Ch01"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian_Ch01"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book-chapter"
-argument_related_count: 41
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -53,12 +53,12 @@ related_concepts:
 related_theories:
   - "[[Culture as Toolkit]]"
   - "[[Dual Elite Career Paths]]"
-  - "[[Effectively Maintained Inequality]]"
-  - "[[Human Capital Theory]]"
   - "[[Triangle of Coordination]]"
-  - "[[Path Dependence]]"
   - "[[Maximally Maintained Inequality]]"
   - "[[Dual Labor Market Theory]]"
+  - "[[Effectively Maintained Inequality]]"
+  - "[[Human Capital Theory]]"
+  - "[[Path Dependence]]"
 related_methods:
   - "[[Case Study]]"
   - "[[In-depth Interview]]"
@@ -69,8 +69,8 @@ related_persons:
   - "[[Randall Collins]]"
   - "[[Phillip Brown]]"
   - "[[Andrew G. Walder]]"
-  - "[[Yajun Zheng]]"
   - "[[Burton R. Clark]]"
+  - "[[Yajun Zheng]]"
   - "[[Anthony Abraham Jack]]"
   - "[[James S. Coleman]]"
 related_facts:
@@ -271,7 +271,7 @@ updated: 2026-11-17
 ---
 
 > [!citation-card] 学校使命与社会出身制约
-> 对学生来说真正重要的，不是学校在多大程度上平等，而是他们离开学校时是否能不受自己社会出身的影响，在平等的原则下去迎接同辈的竞争。学校只有使学生的前景尽可能免受其社会出身的制约，才算完成了它的使命。（James S. Coleman, 1966，第 24 页引）
+> 对学生来说真正重要的，不是学校在多大程度上平等，而是他们离开学校时是否能不受自己社会出身的影响，在平等的原则下去迎接同辈的竞争。学校只有使学生的前景尽可能免受其社会出身的制约，才算完成了它的使命。（[[James S. Coleman|James S. Coleman]], 1966，第 24 页引）
 
 > [!citation-card] 普遍主义外表下的阶层特权游戏
 > 各种教育，尤其是文化教育（甚至科学教育），暗含地以一整套有教养阶级传递的知识、本领、表达模式为前提。它导致了这种特权者游戏面前根本性的不平等。然而，每个人都得参加这一游戏，因为它以具有普遍性价值的面目出现在人们面前。当人们反复批评传统教育的内容失落了其真实性，他们忘了加上一句，不同阶层的大学生所体验到的不真实感十分不同。（Pierre Bourdieu & Jean-Claude Passeron, 1979，第 67 页引）

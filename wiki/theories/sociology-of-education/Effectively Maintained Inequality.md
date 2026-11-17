@@ -9,7 +9,7 @@ aliases:
 summary: "美国社会学家卢卡斯（Lucas）提出的教育分层理论，指出当某一教育阶段的数量普及使优势阶层接近饱和时，不平等将由数量获得差距转向学校声望与学科专业的定性质量分化，从而有效维持阶层优势。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 3
+theory_related_count: 4
 theory_related_level: 0
 theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
@@ -19,7 +19,8 @@ tags:
   - social-mobility
   - higher-education
 related_concepts: []
-related_theories: []
+related_theories:
+  - "[[Maximally Maintained Inequality]]"
 related_methods: []
 related_instruments: []
 related_persons:
@@ -40,7 +41,7 @@ updated: 2026-11-17
 > - **解释对象** 高等教育大众化与普及化进程中教育不平等的动态维系与结构转移机制。
 > - **理论问题** 回应教育规模扩张必然促进社会流动与机会均等化的技术功能主义预期，解释为何在高校扩招背景下阶层差距未发生实质消解。
 > - **理论类型** 中观社会分层与教育机会流动解释理论。
-> - **知识位置** 承接拉夫特里与豪特（Raftery and Hout）的最大化维持不平等假说（Maximally Maintained Inequality, MMI），构成当代教育社会学解释教育转型期阶层再生产的核心分析支柱。
+> - **知识位置** 承接拉夫特里与豪特（Raftery and Hout）的[[Maximally Maintained Inequality|最大化维持不平等假说（Maximally Maintained Inequality, MMI）]]，构成当代教育社会学解释教育转型期阶层再生产的核心分析支柱。
 
 > [!claim] 核心判断
 > 当特定教育层级的准入机会尚未普及至全社会时，社会背景主要影响个体能否进入该层级（数量维度的排他性）；一旦该层级的数量扩张使优势背景群体接近饱和，社会背景的影响便转向决定个体进入何种质量、声望、层级与专业的教育轨迹（质量维度的定性分化），使阶层优势在更高维度的区隔中被有效维持。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(Lucas, 2001；郑雅君, 2023, p. 75)]]

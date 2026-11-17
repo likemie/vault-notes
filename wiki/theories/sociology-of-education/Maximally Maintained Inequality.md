@@ -8,20 +8,21 @@ aliases:
   - MMI假说
 summary: "爱尔兰社会学家拉夫特里与美国社会学家豪特提出的教育分层经典假说，主张在某一级别的教育普及至优势阶层完全饱和之前，教育扩张带来的入学机会优先被优势阶层占有，阶层间的相对教育差距保持稳定；唯有在优势阶层达到饱和之后，进一步扩张方能带来阶层不平等的实质缩小。"
 type: theory
+theory_field: "sociology-of-education"
+theory_related_count: 3
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
   - maximally-maintained-inequality
   - sociology-of-education
   - educational-stratification
   - social-mobility
   - quantitative-sociology
-related_concepts:
-  - "[[Cultural Capital]]"
-  - "[[Credential Inflation]]"
+related_concepts: []
 related_theories:
   - "[[Effectively Maintained Inequality]]"
-  - "[[Human Capital Theory]]"
-related_methods:
-  - "[[Quantitative Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Yajun Zheng]]"
@@ -49,14 +50,14 @@ updated: 2026-11-17
 
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 爱尔兰统计学家兼社会学家阿德里安·E·拉夫特里（Adrian E. Raftery）与美国社会学家迈克尔·豪特（Michael Hout）于 1993 年在《美国社会学学刊》（*AJS*）发表题为 *Maximally Maintained Inequality: Expansion, Reform, and Opportunity in Irish Education, 1921–1975* 的实证研究。
-> - **原初问题** 20 世纪中叶爱尔兰推行免费中等教育与大规模扩招政策，传统观点认为改革平抑了阶层差异，但跨期统计数据显示各阶层升学率同步上升，相对差距未见收敛。
+> - **原初问题** 20 世纪中叶爱尔兰推行免费中等教育与大规模扩招政策，传统观点认为改革平抑了阶层差异，但跨期统计数据显示各阶层升学率同步上升，相对差距未见明显缩小。
 > - **理论资源与材料** 基于爱尔兰 1921 年至 1975 年出生群体的长期流动调查数据，借助对数线性模型与对数可乘模型，分离教育边际分布扩张效应与阶层间的关联结构。
 > - **形成路径** 提出者证明，总体升学率上升主要源于系统总容量的结构性膨胀，优势阶层凭借家庭资源优先利用新增名额锁定升学；只有当优势阶层在该层级实现完全升学时，阶层间的关联参数才会发生结构性减弱。
 
 > [!dev-timeline] 理论版本与贡献
 > - **1993 年 — 奠基性假说确立** Raftery & Hout 基于爱尔兰实证数据正式确立 MMI 假说与对数比值比检验范式。
 > - **2001 年 — 质性区隔视角拓展（EMI）** Samuel R. Lucas 提出[[Effectively Maintained Inequality|有效维持的不平等（EMI）假说]]，指出 MMI 仅刻画了数量获得的饱和逻辑，而一旦数量饱和达成，优势阶层将转向教育内部的“质量区隔”（学校层级、学科专业与分轨）。
-> - **2006 年 — 理论边界深化与比较** Michael Hout 发表专题论文，系统辨析 MMI 与 EMI 的解释分工，强调 MMI 适用于解释大众化初期的门槛跨越与数量垄断机制。
+> - **2006 年 — 理论边界深化与比较** Michael Hout 发表专题研究，系统辨析 MMI 与 EMI 的解释分工，强调 MMI 适用于解释大众化初期的门槛跨越与数量垄断机制。
 > - **2023 年 — 中国高校扩招背景下的本土应用** [[Yajun Zheng|郑雅君]]在《金榜题名之后》中将 MMI 与 EMI 引入当代中国高等教育大众化语境，分析大学扩招导致文凭通胀后，重点高校与优势出路竞争机制的演变历程。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(郑雅君, 2023, p. 75)]]
 
 ---
@@ -77,7 +78,7 @@ updated: 2026-11-17
 > [!example|notitle]
 > 中等教育普及初期，城市中产阶层与农村工薪家庭的高中入学率同步上涨，但中产阶层的升学几率比农村工薪家庭高出数倍的相对优势比率未发生实质改变。
 
-> [!theory-proposition] 命题二｜当特定教育层级对优势阶层实现完全覆盖后，持续的扩张供给才会带来阶层相对差距的结构性收敛
+> [!theory-proposition] 命题二｜当特定教育层级对优势阶层实现完全覆盖后，持续的扩张供给才会带来阶层相对差距的结构性缩小
 > 由于优势阶层的升学率无法突破 100% 的数学上限，当优势家庭子女全员获得该教育阶段的入学机会后，进一步的扩招供给便无法再被优势阶层吸纳，从而产生机会外溢效应，促使中下阶层升学率加速上升并缩小相对差距。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(Hout, 2006)]]
 
 > [!example|notitle]

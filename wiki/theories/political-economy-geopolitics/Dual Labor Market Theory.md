@@ -5,28 +5,28 @@ aliases:
   - 劳动力市场分割理论
   - Segmented Labor Market Theory
   - 双重劳动力市场理论
-summary: "由戴林格与皮奥里等学者提出、并在转型经济社会学中得到深化的经典理论，主张劳动力市场并非单一同质的完全竞争市场，而是制度性分割为高工资、高稳定性、有内部晋升阶梯的主要部门与低工资、高流动、缺乏保障的次要部门；在当代中国具体体现为体制内与体制外的二元分割。"
+summary: "由戴林格与皮奥里等学者提出、并在转型经济社会学中得到深化的经典理论，主张劳动力市场呈现制度性分割，由高工资、高稳定性、有内部晋升阶梯的主要部门与低工资、高流动、缺乏保障的次要部门共同构成；在当代中国具体体现为体制内与体制外的二元分割。"
 type: theory
+theory_field: "political-economy-geopolitics"
+theory_related_count: 4
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
   - dual-labor-market
   - labor-economics
   - economic-sociology
   - political-economy
   - transition-economy
-related_concepts:
-  - "[[Credential Inflation]]"
-  - "[[Economy of Experience]]"
-  - "[[Employability]]"
+related_concepts: []
 related_theories:
   - "[[Dual Elite Career Paths]]"
-  - "[[Human Capital Theory]]"
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Andrew G. Walder]]"
   - "[[Yajun Zheng]]"
-related_facts:
-  - "[[China College Graduate Employment Reform]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch01]]"
 confidence: high

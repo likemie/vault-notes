@@ -11921,8 +11921,6 @@
     "James McKeen Cattell, 1910": "James McKeen Cattell, 1910",
     "James R. Bartholomew (1989)": "James R. Bartholomew, 1989",
     "James R. Bartholomew, 1989": "James R. Bartholomew, 1989",
-    "James S. Coleman (1966)": "James S. Coleman, 1966",
-    "James S. Coleman, 1966": "James S. Coleman, 1966",
     "James Scott (1998)": "James Scott, 1998",
     "James Scott, 1998": "James Scott, 1998",
     "James, 1993": "James, 1993",
@@ -115401,21 +115399,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Cowen_2009_HistoryCreation.md"
-      ],
-      "title": ""
-    },
-    "James S. Coleman, 1966": {
-      "aliases": [
-        "James S. Coleman, 1966",
-        "James S. Coleman (1966)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "James S. Coleman, 1966"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
       ],
       "title": ""
     },

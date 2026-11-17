@@ -3,7 +3,6 @@ title: James S. Coleman
 aliases:
   - 詹姆斯·科尔曼
   - 詹姆斯·S·科尔曼
-  - 科尔曼
   - James Coleman
   - Coleman, J. S.
   - J. S. Coleman
@@ -13,7 +12,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 0
+person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -27,14 +26,12 @@ tags:
   - rational-choice-theory
   - educational-equality
   - region/us
-related_concepts:
-  - "[[Cultural Capital]]"
-related_theories:
-  - "[[Human Capital Theory]]"
-related_methods:
-  - "[[Quantitative Research]]"
+related_concepts: []
+related_theories: []
+related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Pierre Bourdieu]]"
   - "[[Yajun Zheng]]"
 related_facts:
   - "[[Coleman Report 1966]]"
@@ -51,10 +48,10 @@ updated: 2026-11-17
 > [!person-profile] 人物档案
 > - **身份位置** 美国 20 世纪下半叶最重要的社会学泰斗之一，芝加哥大学社会学系教授、国家民意研究中心（NORC）主任，曾任美国社会学学会（ASA）会长。
 > - **核心角色** 教育社会学量化实证研究与教育公平理论奠基人、理性选择社会学创始人与社会资本理论开拓者，架设了连接个体行动与宏观社会结构的经典分析范式。
-> - **代表贡献** 主持美国历史上规模空前的《教育机会平等调查》（即划时代的[[Coleman Report 1966|《科尔曼报告》]]）；提出“社会资本”（Social Capital）的闭合结构理论；出版鸿篇巨著《社会理论的基础》（*Foundations of Social Theory*, 1990）。
+> - **代表贡献** 主持美国历史上规模空前的《教育机会平等调查》（即划时代的[[Coleman Report 1966|《科尔曼报告》]]）；提出“社会资本”（Social Capital）的关系网络结构理论；出版鸿篇巨著《社会理论的基础》（*Foundations of Social Theory*, 1990）。
 
 > [!citation-card] 科尔曼论学校教育的真正使命
-> 对学生来说真正重要的，不是学校在多大程度上平等，而是他们离开学校时是否能不受自己社会出身的影响，在平等的原则下去迎接同辈的竞争；换句话说，学校只有使学生的前景尽可能免受其社会出身的制约，才算完成了它的使命。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(Coleman, 1966, pp. 71–72；郑雅君, 2023, p. 24)]]
+> 学校教育的真正使命，在于使学生离开学校时尽可能免受原生社会出身的制约，在平等的原则下去迎接同辈的竞争；教育的平等实质上体现为学生终局成就与社会流动前景摆脱家庭阶层背景的束缚。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(Coleman, 1966, pp. 71–72；郑雅君, 2023, p. 24)]]
 >
 > *What is important for children is not the inequality of schools, but inequality of students when they leave schools. The school's task is to make achievement depend less on social origins than on individual effort and ability.*
 
@@ -67,7 +64,7 @@ updated: 2026-11-17
 > - **1959–1973** 创设约翰霍普金斯大学社会关系系并任教授。
 > - **1966** 受美国国会委托完成《教育机会均等报告》（即[[Coleman Report 1966|《科尔曼报告》]]），彻底重塑了全球对学校资源与家庭背景影响学业成就的认知。
 > - **1973–1995** 重返芝加哥大学任社会学系大学讲席教授。
-> - **1988** 发表于《美国社会学学刊》经典论文《作为人力资本创造条件的社会资本》（*Social Capital in the Creation of Human Capital*）。
+> - **1988** 发表于《美国社会学学刊》的经典研究《作为人力资本创造条件的社会资本》（*Social Capital in the Creation of Human Capital*）。
 > - **1990** 出版代表作《社会理论的基础》（*Foundations of Social Theory*）。
 > - **1992** 当选美国社会学学会（ASA）第 83 任会长。
 > - **1995** 逝世于美国芝加哥。
@@ -78,7 +75,7 @@ updated: 2026-11-17
 > - **1961 — *The Adolescent Society*** 探讨高中青年亚文化与同辈群体的地位竞争。
 > - **1966 — *Equality of Educational Opportunity*（[[Coleman Report 1966|《科尔曼报告》]]）** 量化揭示家庭背景比学校物质资源更能预测学生学业表现，提出教育机会均等的产出导向界定。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(Coleman, 1966)]]
 > - **1982 — *High School Achievement: Public, Catholic, and Private Schools Compared*** 证明私立学校凭借紧密的社区社会资本，能够为弱势群体提供更平等的学业支持。
-> - **1988 — *Social Capital in the Creation of Human Capital*** 系统建构社会资本理论，阐释信任关系、信息网络与规范闭合对学业成就的赋能机制。
+> - **1988 — *Social Capital in the Creation of Human Capital*** 系统建构社会资本理论，阐释信任关系、信息网络与规范约束对学业成就的促进机制。
 > - **1990 — *Foundations of Social Theory*** 芝加哥大学哈佛大学出版社出版，系统奠定基于理性行动者的现代社会学理论大纲。
 
 ---
@@ -92,7 +89,7 @@ updated: 2026-11-17
 > > *The role of education is to reduce the cognitive and social deficit stemming from disadvantaged home environments, making schools true engines of mobility.*
 
 > [!person-thesis] 主张二｜嵌入于紧密人际关系中的社会资本是促成人力资本积累的核心机制
-> 社会资本并非存在于行动者自身内部，而是存在于行动者之间的关系结构之中。具备高度闭合性与信任互惠规范的社会关系网络，能够有效降低信息获取成本、监督越轨行为并提供情感支持。在家庭内部，父母在陪伴时间与情感互动上的社会资本投入，是有效将家庭经济与文化资源转化为子女认知技能与学业成就的关键中介。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(Coleman, 1988)]]
+> 社会资本深嵌于行动者之间的关系网络之中。具备高度网络密度与信任互惠规范的社会关系结构，能够有效降低信息获取成本、监督越轨行为并提供情感支持。在家庭内部，父母在陪伴时间与情感互动上的社会资本投入，是有效将家庭经济与文化资源转化为子女认知技能与学业成就的关键中介。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(Coleman, 1988)]]
 >
 > > [!thesis-quote] 《作为人力资本创造条件的社会资本》（1988）
 > > 即使家庭拥有丰富的经济资本与人力资本，若缺乏亲子之间持续的社会交往与情感联结，这些资源也无法有效转移给下一代。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(Coleman, 1988)]]
