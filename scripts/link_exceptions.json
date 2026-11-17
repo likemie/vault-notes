@@ -1116,5 +1116,11 @@
       "sentence": "实证探索明确界定了四项主要的经验边界条件，为后续研究设定了推断前提：",
       "target": "wiki/concepts/science-policy/Cumulative Innovation.md"
     }
+  ],
+  "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md": [
+    {
+      "sentence": "**关键分歧** 宏观政策修辞追求创新思维与减负留白，但底层利益分配与阶层流动机制依然牢牢绑定在分流考试上，促使家庭和学校选择以更密集的校外备考回应制度压力。",
+      "target": "wiki/concepts/sociology-of-education/School Choice.md"
+    }
   ]
 }

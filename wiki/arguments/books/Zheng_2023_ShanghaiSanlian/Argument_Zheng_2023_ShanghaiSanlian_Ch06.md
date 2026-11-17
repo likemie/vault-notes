@@ -64,6 +64,9 @@ related_concepts:
   - "[[Scale of Measurement]]"
   - "[[Predictive Validity]]"
   - "[[Opportunists]]"
+  - "[[Cultural Mismatch]]"
+  - "[[Subaltern Cultural Capital]]"
+  - "[[Class-Differentiated Help-Seeking]]"
 related_theories:
   - "[[Rational Action Theory]]"
   - "[[Organizational Culture]]"

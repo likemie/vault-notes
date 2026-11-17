@@ -94,6 +94,7 @@ related_arguments:
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Sahlgren_2015_CPS]]"
   - "[[Argument_Zhang_2022_SE]]"
+  - "[[Argument_Deng_2016_CE]]"
 confidence: high
 status: active
 created: 2026-09-20
@@ -103,7 +104,7 @@ updated: 2026-11-15
 > [!def] Inquiry-Based Learning
 > 探究式学习（Inquiry-Based Learning，亦称探究式教学 Inquiry-Based Instruction、指导式探究 Guided Inquiry）是指一种以学习者为主体，通过开展科学调查与实验、主动收集并解释经验证据、反思并解决认知冲突，进而自主建构科学概念理解与学科实践能力的教学取向。其本质是引导学生在由浅入深的[[Inquiry Cycle\|探究循环]]（Inquiry Cycle）中，通过假设提出、[[Variable\|变量]]操纵、因果推论与批判性论证[[Constructed Knowledge\|建构知识]]，有别于将预制结论直接交付学生。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2–3)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 强调学习者在情境化调查中作为[[Knowledge Building Theory|知识建构]]者的[[Epistemic Agency\|认识能动性]]（Epistemic Agency），通过经验证据检验概念模型，推动深度概念重构与概念转变。
 > - **用途** 解释抽象概念理解的生成机制、高阶科学探究技能（如[[Control of Variables Strategy\|变量控制策略]]）的发展路径，并为反对机械[[Rote Learning\|死记硬背]]的科学教育改革提供循证依据。
 > - **边界** 必须严格区分纯无指导发现（Pure Unassisted Discovery）与辅以支架的指导式探究（Guided Inquiry）；同时对于良构的事实性知识或初阶程序训练，单一探究的教学效率低于结构化的[[Direct Instruction\|直接教学]]。
@@ -119,7 +120,7 @@ updated: 2026-11-15
 
 ---
 
-> [!contrast-table] 指导式探究学习、[[Direct Instruction\|直接教学]]与[[Discovery Learning\|纯发现学习]]的对比
+> [!contrast-table|notitle] 指导式探究学习、[[Direct Instruction\|直接教学]]与[[Discovery Learning\|纯发现学习]]的对比
 > | 维度 | 指导式探究学习（Guided Inquiry） | 直接教学（Direct Instruction） | 纯发现学习（Pure Discovery） |
 > |---|---|---|---|
 > | [[Knowledge Production\|知识生成]]路径 | 学生在支架引导下通过证据检验自主建构 | 教师先行清晰讲授、示范并主导程序练习 | 学习者在无指导环境中完全自主摸索尝试 |
@@ -129,7 +130,7 @@ updated: 2026-11-15
 
 ---
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **自主生成新知（Generating New Knowledge）** 学习者通过调查生成对其自身而言全新的概念理解，而非单纯验证教师事先讲授的定论。
 > - **高阶主动参与（Active Intellectual Work）** 学习者进行实质性的深层认知加工（包括精细化、[[Self Explanation|自我解释]]与[[Metacognition\|元认知监控]]），而非机械应答。
 > - **依托经验证据（Using Evidence）** 结论的推导必须严格扎根于物理实验、[[Computer Simulation\|虚拟仿真]]数据或信息文本等实证线索。
