@@ -128,6 +128,7 @@ related_arguments:
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Amos_2022_Springer]]"
   - "[[Argument_Erfurth_2022_education-hubs]]"
+  - "[[Argument_Deng_2016_CE]]"
 confidence: high
 status: completed
 created: 2026-05-07
@@ -139,7 +140,7 @@ updated: 2026-11-17
 > [!def] Knowledge-Based Economy
 > 知识经济（Knowledge-Based Economy, KBE）指一种实际存在的资本积累与社会生产形态，其中知识、创新、学习、高等教育、研发、技术以及[[Higher-Order Thinking Skills|高阶思维技能]]（特别是[[Critical Thinking|批判性思维]]与[[Creativity|创造力]]）是价值创造、财富提取以及国家、城市和区域间[[Geopolitics|地缘政治]]与经济竞争的绝对核心要素。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 23)]]; [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 经济财富的创造重心从自然资源与有形物质资产，系统性转移至无形知识资产、前沿研发与非程序化高阶认知能力的生产、管理、分配与[[Reflexivity|反身性]]应用。
 > - **用途** 揭示国家与超国家组织（如 [[OECD]]、[[World Bank|世界银行]]、[[EU|欧盟]]）为何将高等教育重塑为核心经济基础设施，解释[[Lifelong Learning|终身学习]]扩张与 21 世纪技能[[Discourse|话语]]的宏观政治经济学根源，并诊断高教宏观政策与微观考核实践之间的制度断裂。
 > - **边界** 区别于单纯的“高科技产业部门”，KBE 是一种跨越私营、公共与第三部门的全社会经济形态；若脱离额外经济系统（法律、教育、科研质保）的制度支撑，单纯的资本投入无法自发形成良性知识生态。
@@ -165,7 +166,7 @@ updated: 2026-11-17
 
 ---
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **无形资产与一般智识的价值化** 财富创造的主要来源从自然资源与有形物质资本，系统性转变为无形专利、数据算法、知识网络与[[Human Capital Theory|人力资本]]。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 23)]]
 > - **非程序化[[Higher-Order Thinking Skills|高阶思维]]的决定性地位** 随着人工智能、大数据与技术自动化加速替代常规程序化劳动，分析推理、证据辨析、批判审视与突破性创造等[[Higher-Order Thinking Skills|高阶思维技能]]成为不可替代的核心劳动力生产力。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5)]]
 > - **知识的[[Reflexivity|反身性]]生产与永久创新** 知识被反身性地应用于知识自身的再生产；产品与技术生命周期急剧缩短，迫使全社会处于“永久创新（Perpetual Innovation）”与持续再技能化的结构性压力中。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, p. 179)]]
@@ -255,7 +256,7 @@ updated: 2026-11-17
 
 ---
 
-> [!contrast-table] 所有命题归纳
+> [!contrast-table|notitle] 所有命题归纳
 > | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
 > | **地缘战略定位** | 大学与教育枢纽被重构为国家[[Intellectual Capital\|知识资本]]与区域经济转型的核心基础设施 | 高教财政扩张、教育出口、国际化枢纽政策 | [[Argument_Moisio_2022_Springer\|Moisio (2022)]]; [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]]; [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]]; [[Argument_Qu_2024_IJED\|Qu and Dai (2024)]] |
@@ -272,6 +273,7 @@ updated: 2026-11-17
 > - **十九世纪先驱 — [[Friedrich List]] 国家[[Systems of Innovation|创新系统]]萌芽** List《政治经济学的国家系统》（1841）主张国家必须通过有组织的技术教育、科研与长期产业政策拓展知识优势，奠定[[National Innovation System|国家创新系统]]的知性根源。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 22)]]
 > - **二战后奠基（1950s–1970s） — 知识劳动者与后工业理论** Drucker（1959/1969）提出“知识型雇员”（Knowledge Worker）；Bell（1973）阐述[[Theoretical Knowledge|理论知识]]在后工业主义中的核心地位；人造卫星危机（1957）促使 [[OECD]] 将 [[STEM Education|STEM]] 教育与国家地缘经济[[Competitiveness|竞争力]]深度绑定。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
 > - **经济学理论化（1980s–1990s） — 内生增长与新自由主义全球化** Romer（1986）[[New Growth Theory|内生增长理论]]将知识与[[Human Capital Theory|人力资本]]确立为不受边际收益递减限制的内生动力；世界银行（1991）与 OECD（1996）正式将 KBE [[Discourse|话语]]确立为全球教育与经济政策主导典范。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 23)]]
+> - **1997 — 亚洲东亚发展型体系响应知识经济转型** 面对全球知识经济与技术变革冲击，新加坡官方宣布“思考型学校，学习型国家”（TSLN）愿景，削减课程大纲以赋能信息技术整合与高阶思维培养，开启能力驱动型教育阶段，展现了东亚发展型国家在维持严格应试问责的同时主动适应知识经济的混合政策折射。[[Argument_Deng_2016_CE|(Goh, 1997; Deng & Gopinathan, 2016)]]
 > - **发展型[[Network Governance|网络治理]]与虚构商品批判（2000s–2008） — 跨组织协同与产权反思** [[Fred Block|弗雷德·布洛克]]基于美国《R&D 100》大奖纵向追踪证实，后工业知识经济的突破性创新已从单一企业封闭研发转向由大学、联邦实验室与企业构成的跨组织网络，确立了去中心化[[Developmental Network State|发展型网络国家]]在[[Pasteur's Quadrant|巴斯德象限]]中的中介功能；同时从卡尔·波兰尼（Karl Polanyi）虚构商品视角批判了激进知识产权占有对开放科学与跨界研发协作的制度性反噬。[[Argument_Block_2008_PS|(Block, 2008, pp. 171–176, 195–198)]]
 > - **2009 — 超国家软法数据治理与成人生活技能转向** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 26–27, 32–35]]）基于[[European Education Space|欧洲教育空间]]经验揭示知识经济下的两重治理机制：欧盟在[[Lisbon Strategy|里斯本战略]]下通过开放协调法与采购经合组织数据实施软法治理，突破辅助性原则限制；同时大规模跨国测评跳过具体课程大纲，直接考核面向成人市场的生活技能与终身学习自我调节，推动个体在知识经济中承担自我优化的终身责任。
 > - **2009 — 超国家全景敞视式知识经济规训批判** 帕西亚斯与鲁萨基斯解构里斯本战略，揭示知识被定义为易耗商品后，超国家实体如何依托开放协调法构筑全景敞视式软法监视体系，将成员国教育体系规训为知识经济竞争工具。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–482, 486–487)]]
