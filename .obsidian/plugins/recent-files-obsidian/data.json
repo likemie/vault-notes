@@ -5,6 +5,46 @@
       "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
     },
     {
+      "basename": "Phenomenology",
+      "path": "wiki/theories/educational-philosophy/Phenomenology.md"
+    },
+    {
+      "basename": "EU",
+      "path": "wiki/facts/eu/EU.md"
+    },
+    {
+      "basename": "Argument_Barrenechea_2023_JEC",
+      "path": "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
+    },
+    {
+      "basename": "Argument_Anderson_2016_Verso",
+      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso.md"
+    },
+    {
+      "basename": "Policy Borrowing",
+      "path": "wiki/concepts/comparative-education/Policy Borrowing.md"
+    },
+    {
+      "basename": "Globalization from Below",
+      "path": "wiki/theories/comparative-education/Globalization from Below.md"
+    },
+    {
+      "basename": "Argument_Campbell_2026_JPCC",
+      "path": "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md"
+    },
+    {
+      "basename": "Yajun Zheng",
+      "path": "wiki/persons/china/Yajun Zheng.md"
+    },
+    {
+      "basename": "John Hattie",
+      "path": "wiki/persons/new-zealand/John Hattie.md"
+    },
+    {
+      "basename": "Paulo Freire",
+      "path": "wiki/persons/brazil/Paulo Freire.md"
+    },
+    {
       "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch01",
       "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
     },
@@ -59,10 +99,6 @@
     {
       "basename": "Andrew G. Walder",
       "path": "wiki/persons/us/Andrew G. Walder.md"
-    },
-    {
-      "basename": "Yajun Zheng",
-      "path": "wiki/persons/china/Yajun Zheng.md"
     },
     {
       "basename": "In-depth Interview",
@@ -163,42 +199,6 @@
     {
       "basename": "Thomas Schelling",
       "path": "wiki/persons/us/Thomas Schelling.md"
-    },
-    {
-      "basename": "Aesthetic Semblance",
-      "path": "wiki/concepts/educational-philosophy/Aesthetic Semblance.md"
-    },
-    {
-      "basename": "Argument_Hammermeister_2002_Cambridge_Ch02",
-      "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch02.md"
-    },
-    {
-      "basename": "The Sublime",
-      "path": "wiki/concepts/educational-philosophy/The Sublime.md"
-    },
-    {
-      "basename": "Visible Learning Branding and Global Influences",
-      "path": "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md"
-    },
-    {
-      "basename": "Argument_Anderson_2016_Verso",
-      "path": "wiki/arguments/books/Anderson_2016_Verso/Argument_Anderson_2016_Verso.md"
-    },
-    {
-      "basename": "Argument_He_2018_HEP",
-      "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_He_2018_HEP.md"
-    },
-    {
-      "basename": "Immanuel Kant",
-      "path": "wiki/persons/germany/Immanuel Kant.md"
-    },
-    {
-      "basename": "Argument_Barrenechea_2023_JEC",
-      "path": "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md"
-    },
-    {
-      "basename": "Argument_Bang_2025_ClinicalTrials",
-      "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Bang_2025_ClinicalTrials.md"
     }
   ],
   "omittedPaths": [],

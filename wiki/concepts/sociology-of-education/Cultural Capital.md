@@ -276,7 +276,7 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 系统阐明具身文化资本的分水岭效应（第二、三章），在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]实证剖析课外社会性投入中表现性资本与相对就业力累积机制，在[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|第五章]]指出名校直通体制选拔通道为缺乏市场文化资本的弱势学子提供了制度化补偿路径 (pp. 287–292)，并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|第六章]]论述原生文化资产向乡村文化使者角色的转化机制 (pp. 369–370)。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 阐明具身文化资本在求职与推免中的分水岭效应，并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|第六章]]论述原生文化资产向乡村文化使者角色的转化机制。
 > - [[Argument_Teng_2025_CE\|Teng and Wang (2025)]] — 发现中国县域城镇化[[School Choice\|择校]]中由于入学程序简化，文化资本在执行中被边缘化，无法独立完成学位准入，必须向社会资本退让。
 > - [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] — 大规模纵向[[Cohort Study\|面板研究]]，证实家庭文化资本（藏书量）不仅直接促进高中毕业成就（$\beta = 0.16$），更通过降低确定性信念（$\beta = -0.13$）间接促进高阶[[Academic Achievement\|学业表现]]。
 > - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 结合[[Roy Nash|纳什]]（Nash, 2003）的新西兰阶级方差分解研究，指出学业成就差异深植于家庭文化资本与阶级生活机会之中，强调教育社会学必须将文化资本作为核心分析[[Variable|变量]]以破除校内技术主义还原本质（p. 91）。

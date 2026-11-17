@@ -61,6 +61,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Eacott_2011_JEAH]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
@@ -138,6 +139,9 @@ updated: 2026-11-17
 >
 > [!claim] [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|Zheng, Y.]]
 > **大学场域内双重子竞技场的规则分化与精力配置博弈** 郑雅君（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|2023, 第四章]]）进一步解构大学场域内部的双重子竞技场规则：学业子场域作为初赛门槛，设定了保研与求职的绝对准入底线；课外社会性涉入子场域则作为终局博弈赛场，决定了相对就业力与表现性资本的排位。目标掌控者洞悉双重场域的规则异质性，主动管控学业子场域的边际精力，向课外高回报竞技场倾斜80%的能量；直觉依赖者受限于单一规则认知，偏重学业场域的防守性投入，在社会性场域中遭遇资本兑换阻滞与规则排斥。
+
+> [!claim] [[Argument_Zheng_2023_ShanghaiSanlian_Ch06|Zheng, Y.]]
+> **场域剧烈转换引发的二重文化障碍与习性裂化** 郑雅君（[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|2023, 第六章, pp. 361–366]]）结合名校生活史进一步指出，从底层原生环境进入顶尖大学构成了激烈的跨场域转换。弱势学子面临二重文化障碍：表层表现为对大都市生活与大学非正式规则的[[Cultural Disembedding|文化脱嵌]]；深层体现为原初习性与名校精英规范碰撞引发的[[Habitus Divided Against Itself|习性裂化]]与[[Cultural Disorientation|文化迷失]]。这种场域转换带来的认同撕裂直接削弱了行动者调配文化工具组织长程发展策略的能动性。
 
 ---
 
@@ -227,7 +231,7 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 将精英大学概念化为布迪厄式的竞技场域，并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]实证剖析学业门槛与课外社会性博弈双重子场域中的规则认知差异与精力配置博弈（N=63）。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 将精英大学概念化为布迪厄式的竞技场域，并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]实证剖析学业门槛与课外社会性博弈双重子场域中的规则认知差异与精力配置博弈（N=63）；在[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|第六章]]系统论述跨场域转换诱发的二重文化障碍与习性裂化机制（pp. 361–366）。
 > - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 运用布迪厄场域与习性框架，系统分析澳大利亚教育管理场域中外部政治-经济逻辑对[[School Leadership|学校领导]]专业自主性的侵蚀机制。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 批判可见学习[[Paradigm|范式]]，揭示制度化问责场域如何将教师规训为追逐达标测验数据的参赛者，造成对具身教育过程的盲视。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 依托 Nóvoa & Lawn (2002) 的场域理论，揭示超国家机构如何利用数据基础设施与可比指标将欧洲教育空间建构为兼具象征与功能属性的跨国政策场域。

@@ -142,8 +142,7 @@ related_arguments:
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 实证揭示精英大学第一代大学生的文化脱嵌及其与[[Cultural Disorientation\|文化迷失]]的关系。
-> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch06\|郑雅君 (2023, 第六章)]] — 实证对比南方大学与北方大学组织文化对文化脱嵌的调节与缓冲效应 (p. 363)。
+> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 揭示第一代大学生的文化脱嵌及其与文化迷失的关系，并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|第六章]]对比南北高校组织文化的缓冲机制。
 > - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 实证揭示 217 册必修教材汉儒中心叙事引发少数民族学生的国族文化脱嵌。
 
 ---
