@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: france
 person_region: "france"
-person_related_count: 63
+person_related_count: 64
 person_related_level: 6
 person_related_stars: "💎💎"
 person_related_color: "#fef3c7"
@@ -198,7 +198,7 @@ updated: 2026-11-17
 > - **跨国／跨领域传播** 在进入中国高等教育与基础教育研究中，其资本转换模型被相继改造，用以解析转型期大学生的求职分化（目标掌控与[[Intuition-Dependent Mode|直觉依赖模式]]）以及农村随迁家庭的[[School Choice|择校]]博弈；在澳大利亚与英美，其场域分析被广泛应用于解构校长培训体制的管理主义 Doxa 与高等教育学术界的新封建主义依附关系。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 运用习性与文化资本解释名校生资本化过程（[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|第二章]]）；在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]实证检验习性作为可转换倾向系统的大学再社会化机制；并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|第五章]]运用其学校化习性论断（Bourdieu, 1967）解释[[Value Conformist Mode|价值归顺者]]依托体制赞助实现阶层向上流动的微观动力（pp. 287–292）。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 运用习性与资本解释名校资本化（[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|第二章]]），检验大学再社会化（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]），并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|第六章]]结合撕裂习性阐明自反性叙事跨越（pp. 361–366）。
 > - [[Argument_Teng_2025_CE|Teng and Wang (2025)]] — 证明了在中国县域择校迁移中，由于选拔机制简化，家庭资本展现出垂直阶梯分层筛选，户籍行政限制被置换为隐性阶级筛选，文化资本不得不退让并折算为社会资本关系。
 > - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 将场域和 [[Doxa]] 运用于澳大利亚[[School Leadership|学校领导力]]培养体系研究，剖析了管理主义绩效体制如何掏空学校管理者的自主实践空间。
 > - [[Argument_Eacott_2015_EPT|Eacott (2015)]] — 聚焦[[Epistemological Break|认识论断裂]]和警觉，反思了教育行政研究中对 Bourdieu 理论工具的生硬套用，强调研究者必须对自身的行业凝视保持警惕。

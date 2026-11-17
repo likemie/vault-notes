@@ -3,7 +3,7 @@ title: Didier Eribon
 aliases:
   - Eribon, D.
   - 迪迪埃·埃里蓬
-summary: "法国社会学家和哲学家，回归故里作者与阶级自传写作代表人物，为教育研究理解阶级流动后的文化撕裂提供思想资源。"
+summary: "法国社会学家和哲学家，著有《回归故里》，为阶级自传写作代表学者，为教育研究理解阶级流动后的文化撕裂提供思想资源。"
 type: person
 cssclasses:
   - person-page
