@@ -25710,16 +25710,15 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-
 
 /* IMPACT: independent directional tickets, not a sequential chain. */
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-title { margin-bottom:.85rem !important; padding-bottom:.6rem !important; }
-html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-content > :is(ul,ol) { grid-template-columns:repeat(3,minmax(0,1fr)) !important; gap:.75rem !important; align-items:stretch; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-content > :is(ul,ol) { grid-template-columns:repeat(2,minmax(0,1fr)) !important; gap:.75rem !important; align-items:stretch; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-content > :is(ul,ol) > li { --path-accent:var(--niw-accent); grid-column:auto !important; padding:1rem 1.05rem 1.1rem !important; border:1px solid color-mix(in srgb,var(--path-accent) 38%,var(--background-modifier-border)) !important; border-radius:6px 18px 6px 6px !important; background:color-mix(in srgb,var(--path-accent) 6%,var(--ac-paper)) !important; line-height:1.85 !important; overflow:hidden; }
-html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-content > :is(ul,ol) > li:last-child:nth-child(odd) { grid-column:auto !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-content > :is(ul,ol) > li:last-child:nth-child(odd) { grid-column:1 / -1 !important; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-content > :is(ul,ol) > li:nth-child(3n+2) { --path-accent:#8cabc0; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-content > :is(ul,ol) > li:nth-child(3n) { --path-accent:#baa482; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-content > :is(ul,ol) > li > strong:first-of-type,html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-content > :is(ul,ol) > li > p:first-of-type > strong:first-of-type { margin:0 2rem .8rem 0 !important; padding:0 0 .65rem !important; border:0 !important; border-bottom:1px solid color-mix(in srgb,var(--path-accent) 28%,transparent) !important; font:600 1.08em/1.55 var(--ac-serif) !important; color:var(--niw-ink) !important; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-content > :is(ul,ol) > li::after { content:"↗" !important; display:block !important; position:absolute !important; top:.75rem !important; right:.9rem !important; width:1.65rem !important; height:1.65rem !important; border:1px solid color-mix(in srgb,var(--path-accent) 35%,transparent) !important; border-radius:50% !important; background:color-mix(in srgb,var(--path-accent) 9%,transparent) !important; color:var(--niw-ink) !important; font:400 1.05em/1.65rem var(--ac-sans) !important; text-align:center !important; transform:none !important; transition:transform 260ms ease,background-color 260ms ease !important; }
 html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-content a.internal-link { padding:0 !important; border:0 !important; border-radius:0 !important; background:none !important; box-shadow:none !important; text-underline-offset:.22em; }
 @media (hover:hover) { html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-content > :is(ul,ol) > li:hover { border-color:var(--path-accent) !important; background:color-mix(in srgb,var(--path-accent) 9%,var(--ac-paper)) !important; } html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-content > :is(ul,ol) > li:hover::after { transform:translate(2px,-2px) !important; } }
-@container (max-width:760px) { html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-content > :is(ul,ol) { grid-template-columns:repeat(2,minmax(0,1fr)) !important; } html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-content > :is(ul,ol) > li:last-child:nth-child(odd) { grid-column:1 / -1 !important; } }
 @container (max-width:520px) { html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-content > :is(ul,ol) { grid-template-columns:minmax(0,1fr) !important; } }
 @media (prefers-reduced-motion:reduce) { html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-content > :is(ul,ol) > li:hover::after { transform:none !important; } }
 @media print { html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="influence-path"] > .callout-content > :is(ul,ol) > li { background:none !important; break-inside:avoid; } }
@@ -28756,7 +28755,7 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout.callo
  & > .callout-content > :is(ul, ol) > li:last-child::after { display: none !important; }
  /* Era heading */
  & > .callout-content > :is(ul, ol) > li > strong:first-of-type,
- & > .callout-content > :is(ul, ol) > li > p:first-child > strong:first-of-type {
+ & > .callout-content > :is(ul, ol) > li > p:first-of-type > strong:first-of-type {
   display: block !important; width: fit-content; max-width: 100%;
   margin: 0 0 .35rem !important; padding: 0 0 .15rem !important;
   border: 0 !important; background: none !important; box-shadow: none !important;
@@ -28769,9 +28768,9 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout.callo
   transition: background-size 460ms var(--tt2-ease) !important;
  }
  & > .callout-content > :is(ul, ol) > li > strong:first-of-type a.internal-link,
- & > .callout-content > :is(ul, ol) > li > p:first-child > strong:first-of-type a.internal-link { color: var(--tt2-ink) !important; }
+ & > .callout-content > :is(ul, ol) > li > p:first-of-type > strong:first-of-type a.internal-link { color: var(--tt2-ink) !important; }
  & > .callout-content > :is(ul, ol) > li > strong:first-of-type + br,
- & > .callout-content > :is(ul, ol) > li > p:first-child > strong:first-of-type + br { display: none !important; }
+ & > .callout-content > :is(ul, ol) > li > p:first-of-type > strong:first-of-type + br { display: none !important; }
  & > .callout-content > :is(ul, ol) > li > p { margin: 0 !important; }
 
  /* Layer 2 · facet panel (works / concepts / turn) */
@@ -28793,14 +28792,14 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout.callo
  & > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li::before, & > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li::after { display: none !important; content: none !important; }
  /* Facet label column */
  & > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li > strong:first-of-type,
- & > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li > p:first-child > strong:first-of-type {
+ & > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li > p:first-of-type > strong:first-of-type {
   position: absolute !important; left: 0; top: .74rem; width: 9.6em; white-space: nowrap;
   display: flex !important; align-items: center; gap: .45em;
   margin: 0 !important; padding: 0 !important; border: 0 !important; background: none !important; box-shadow: none !important;
   font: 650 .84em/1.5 var(--ac-sans) !important; letter-spacing: .04em !important; color: var(--tt2-ink) !important;
  }
  & > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li > strong:first-of-type::before,
- & > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li > p:first-child > strong:first-of-type::before {
+ & > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li > p:first-of-type > strong:first-of-type::before {
   content: "" !important; flex: 0 0 auto; width: 6px; height: 6px; border-radius: 50%;
   background: var(--tt2-accent); transition: transform 260ms var(--tt2-ease);
  }
@@ -28812,7 +28811,7 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout.callo
   width: 7px; height: 7px; border-radius: 1px; background: var(--tt2-turn); transform: rotate(45deg);
  }
  & > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li > strong:first-of-type + br,
- & > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li > p:first-child > strong:first-of-type + br { display: none !important; }
+ & > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li > p:first-of-type > strong:first-of-type + br { display: none !important; }
  & > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li > p { margin: 0 !important; }
  & > .callout-content a.internal-link { text-underline-offset: .22em; }
  & a:focus-visible { outline: 2px solid var(--tt2-accent); outline-offset: 3px; }
@@ -28841,7 +28840,7 @@ html body .callout.callout.callout.callout.callout.callout.callout.callout.callo
    animation: tt2-pulse 1.6s ease-out infinite;
   }
   & > .callout-content > :is(ul, ol) > li:hover > strong:first-of-type,
-  & > .callout-content > :is(ul, ol) > li:hover > p:first-child > strong:first-of-type { background-size: 100% 2px, 100% 1px !important; }
+  & > .callout-content > :is(ul, ol) > li:hover > p:first-of-type > strong:first-of-type { background-size: 100% 2px, 100% 1px !important; }
   & > .callout-content > :is(ul, ol) > li:hover > :is(ul, ol) { border-color: color-mix(in srgb, var(--tt2-accent) 50%, transparent) !important; }
   & > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li:hover { background: color-mix(in srgb, var(--tt2-accent) 5%, transparent) !important; }
   & > .callout-content > :is(ul, ol) > li > :is(ul, ol) > li:hover > :is(strong, p > strong):first-of-type::before { transform: scale(1.4); }
