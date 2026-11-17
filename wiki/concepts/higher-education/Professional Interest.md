@@ -8,7 +8,7 @@ aliases:
 summary: "个体对特定学科专业领域长期稳定的内在价值认同、深层探究热情与求知定向，兼具超越情境刺激的认知坚守与学术抱负，构成拔尖创新人才从事深层次知识创造的核心内在动力。"
 type: concept
 domain: "higher-education"
-related_count: 24
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,8 @@ related_concepts:
   - "[[Original Innovation Capability]]"
   - "[[Continuous Research Funding]]"
   - "[[Alienation]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
@@ -48,10 +50,11 @@ related_facts: []
 related_arguments:
   - "[[Argument_Zhang_Zhao_2026_EDR]]"
   - "[[Argument_Mo_2026_BNSFC]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
 confidence: high
 status: active
 created: 2026-11-04
-updated: 2026-11-15
+updated: 2026-11-17
 ---
 
 ---
@@ -73,6 +76,7 @@ updated: 2026-11-15
 > - 不等于 情境兴趣（Situational Interest） — 情境兴趣受特定刺激即时引发且易快速消退，专业志趣具有跨时间、跨任务的持久执着与自我维持机制。
 > - 不等于 职业抱负（Career Ambition） — 职业抱负侧重职务升迁、组织头衔与经济报酬等外在成就，专业志趣侧重对科学知识本身真实性的探索追求。
 > - 不等于 单一学科的分数偏好 — 专业志趣深植于对科学问题本质的好奇与解谜驱动，而非应试排名或考核指标驱动的功利性投入。
+> - 不适用于 剥夺自主探索闲暇的高压封闭应试情境 — 当学生全部精力被应试刷题与提分指标完全锁定时，专业志趣难以自发生长，常被分数最大化动机所取代。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 73–82)]]
 
 ---
 
@@ -175,9 +179,12 @@ updated: 2026-11-15
 > | [[Curriculum Vitae Analysis]] | 方法 | 提取学者专业志趣形成关键时序节点的核心计量分析工具。 |
 > | [[Original Innovation Capability]] | 概念 | 学术志趣是驱动青年人才耐住寂寞实现从 0 到 1 原始创新的核心心理资本。 |
 > | [[Continuous Research Funding]] | 概念 | 延续性资助有效保护学者对核心科学难题的持久探究志趣，抵御短期量化[[Alienation\|异化]]。 |
+> | [[Goal-Controlled Mode]] | 概念 | 目标掌控者在高中阶段即建立起清晰的专业志趣，并将其转化为大学长程规划的核心动力。 |
+> | [[Intuition-Dependent Mode]] | 概念 | 直觉依赖者常因缺乏前期志趣探索机会，在专业选择与学业投入中陷入志趣脱节。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zhang_Zhao_2026_EDR|张娟和赵祥辉 (2026)]] — 系统考察 1901—2025 年 757 位诺贝尔奖得主专业志趣形成的动态演进与学科异质性，揭示高等教育对学术志趣的濡染与定型功能（pp. 36–37）。
 > - [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]] — 结合[[In-depth Interview|深度访谈]]与 4,569 份全国青年学者[[Questionnaire|问卷调查]]，探讨青年学者学术志趣在功利考核下的磨损机制，提出通过战略科学家协同领航引导个人志趣对准国家重大战略需求。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 通过高校拔尖学生生活史揭示，高中教育生态的阶层分化决定了学生探索专业志趣的闲暇与资源，弱势学生易因缺乏志趣探索而陷入专业错配（参见第三章 [[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]）。

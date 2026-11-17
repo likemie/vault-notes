@@ -8668,7 +8668,9 @@
     "Baxter Magolda & King, 2012": {
       "doi": "10.1002/aehe.20007",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/higher-education/Self-Authorship.md"
+      ],
       "title": "Assessing Meaning Making and Self-Authorship: Theory, Research, and Practice"
     },
     "Baxter Magolda, 1992": {
@@ -8683,6 +8685,14 @@
         "wiki/concepts/educational-psychology/Source of Knowledge.md",
         "wiki/concepts/educational-psychology/Transitional Knowing.md",
         "wiki/theories/educational-psychology/Epistemological Reflection Model.md"
+      ],
+      "title": ""
+    },
+    "Baxter Magolda, 2001": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Self-Authorship.md"
       ],
       "title": ""
     },
@@ -102473,14 +102483,6 @@
       "seen_in": [],
       "title": "An Experiment in Small-Group Learning."
     },
-    "State Education Committee, 1997": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/educational-policy-reform/Quality Education.md"
-      ],
-      "title": ""
-    },
     "Statista, 2024": {
       "doi": "",
       "isbn": "",
@@ -117146,14 +117148,6 @@
       "seen_in": [],
       "title": "A Meta-analysis on the Effects of Vocabulary Instruction for English Learners"
     },
-    "Xu Bangguan, 1990": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/educational-policy-reform/Quality Education.md"
-      ],
-      "title": ""
-    },
     "Xu et al., 2019": {
       "datasets": [
         "metax:S1928"
@@ -118179,7 +118173,6 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Wang_2025_CE.md",
         "wiki/concepts/educational-policy-reform/Examination-Oriented Education.md",
-        "wiki/concepts/educational-policy-reform/Quality Education.md",
         "wiki/concepts/instruction-pedagogy/Learner-Centred Education.md"
       ],
       "title": ""

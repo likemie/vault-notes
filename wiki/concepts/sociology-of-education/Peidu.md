@@ -7,10 +7,10 @@ aliases:
 summary: "中国农村与小城镇家庭为获取优质教育资源而由成年亲属进城租房陪伴子女求学的迁移行为；既反映撤并背景下以教促城的资源重构，也承载着倾注全家资源的伦理期许，易使学生陷入唯分数导向的直觉依赖。"
 type: concept
 domain: "sociology-of-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 13
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - region/china
   - theme/rural-education
@@ -116,8 +116,8 @@ updated: 2026-11-17
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **空间与资本筛选机制** | 陪读是资源集中与空间排斥交织的变相择校，强化城乡阶层分化 | 农村学校撤并、新型城镇化推进与县域择校竞争 | [[Argument_Teng_2025_CE|Teng and Wang (2025)]] |
-> | **习性塑造与适应代价** | 陪读的高压伦理契约将学习窄化为分数回报，诱发后续发展自主性缺失 | 县中高强度升学竞争、第一代大学生高等教育适应 | [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] |
+> | **空间与资本筛选机制** | 陪读是资源集中与空间排斥交织的变相择校，强化城乡阶层分化 | 农村学校撤并、新型城镇化推进与县域择校竞争 | [[Argument_Teng_2025_CE\|Teng and Wang (2025)]] |
+> | **习性塑造与适应代价** | 陪读的高压伦理契约将学习窄化为分数回报，诱发后续发展自主性缺失 | 县中高强度升学竞争、第一代大学生高等教育适应 | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] |
 
 ---
 

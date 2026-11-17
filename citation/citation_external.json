@@ -1984,7 +1984,9 @@
     "Baxter Magolda & King (2012)": "Baxter Magolda & King, 2012",
     "Baxter Magolda & King, 2012": "Baxter Magolda & King, 2012",
     "Baxter Magolda (1992)": "Baxter Magolda, 1992",
+    "Baxter Magolda (2001)": "Baxter Magolda, 2001",
     "Baxter Magolda, 1992": "Baxter Magolda, 1992",
+    "Baxter Magolda, 2001": "Baxter Magolda, 2001",
     "Baxter, 2022": "Baxter, 2022",
     "Bayer (2013)": "Bayer, 2013",
     "Bayer, 2013": "Bayer, 2013",
@@ -23330,8 +23332,6 @@
     "Starnes, 2017": "Starnes, 2017",
     "Starr (1974)": "Starr, 1974",
     "Starr, 1974": "Starr, 1974",
-    "State Education Committee (1997)": "State Education Committee, 1997",
-    "State Education Committee, 1997": "State Education Committee, 1997",
     "Statista (2024)": "Statista, 2024",
     "Statista, 2024": "Statista, 2024",
     "Statistik Austria (2016)": "Statistik Austria, 2016",
@@ -26687,8 +26687,6 @@
     "Xu (2017)": "Xu, 2017",
     "Xu (2021)": "Xu, 2021",
     "Xu (2025)": "Xu, 2025",
-    "Xu Bangguan (1990)": "Xu Bangguan, 1990",
-    "Xu Bangguan, 1990": "Xu Bangguan, 1990",
     "Xu et al. (2019a)": "Xu et al., 2019a",
     "Xu et al. (2019b)": "Xu et al., 2019b",
     "Xu et al. (2019c)": "Xu et al., 2019c",
@@ -42624,7 +42622,9 @@
         "Baxter Magolda & King, 2012"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/higher-education/Self-Authorship.md"
+      ],
       "title": "Assessing Meaning Making and Self-Authorship: Theory, Research, and Practice"
     },
     "Baxter Magolda, 1992": {
@@ -42646,6 +42646,21 @@
         "wiki/concepts/educational-psychology/Source of Knowledge.md",
         "wiki/concepts/educational-psychology/Transitional Knowing.md",
         "wiki/theories/educational-psychology/Epistemological Reflection Model.md"
+      ],
+      "title": ""
+    },
+    "Baxter Magolda, 2001": {
+      "aliases": [
+        "Baxter Magolda, 2001",
+        "Baxter Magolda (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Baxter Magolda, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Self-Authorship.md"
       ],
       "title": ""
     },
@@ -198266,21 +198281,6 @@
       "seen_in": [],
       "title": "An Experiment in Small-Group Learning."
     },
-    "State Education Committee, 1997": {
-      "aliases": [
-        "State Education Committee, 1997",
-        "State Education Committee (1997)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "State Education Committee, 1997"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/educational-policy-reform/Quality Education.md"
-      ],
-      "title": ""
-    },
     "Statista, 2024": {
       "aliases": [
         "Statista, 2024",
@@ -222390,21 +222390,6 @@
       "seen_in": [],
       "title": "A Meta-analysis on the Effects of Vocabulary Instruction for English Learners"
     },
-    "Xu Bangguan, 1990": {
-      "aliases": [
-        "Xu Bangguan, 1990",
-        "Xu Bangguan (1990)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Xu Bangguan, 1990"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/educational-policy-reform/Quality Education.md"
-      ],
-      "title": ""
-    },
     "Xu et al., 2019a": {
       "aliases": [
         "Xu et al., 2019a",
@@ -224078,7 +224063,6 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Wang_2025_CE.md",
         "wiki/concepts/educational-policy-reform/Examination-Oriented Education.md",
-        "wiki/concepts/educational-policy-reform/Quality Education.md",
         "wiki/concepts/instruction-pedagogy/Learner-Centred Education.md"
       ],
       "title": ""
