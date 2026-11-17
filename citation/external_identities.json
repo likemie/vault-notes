@@ -2119,14 +2119,6 @@
       ],
       "title": ""
     },
-    "Alexander Astin, 1993": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
-      ],
-      "title": ""
-    },
     "Alexander M. Petersen et al., 2014": {
       "doi": "",
       "isbn": "",
@@ -5406,7 +5398,9 @@
     "Astin, 1993": {
       "doi": "",
       "isbn": "9781555425159",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
+      ],
       "title": "What Matters in College: Four Critical Years Revisited"
     },
     "Atash & Dawson, 1986": {
@@ -13382,7 +13376,9 @@
     "Bourdieu, 2012": {
       "doi": "",
       "isbn": "9787544728553",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
+      ],
       "title": "实践感"
     },
     "Bourhis & Allen, 1992": {
@@ -14770,6 +14766,7 @@
       "doi": "10.1093/acprof:oso/9780199269549.001.0001",
       "isbn": "9780199269549",
       "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md",
         "wiki/concepts/higher-education/Economy of Experience.md",
         "wiki/concepts/higher-education/Employability.md",
         "wiki/concepts/sociology-of-education/Credential Inflation.md"
@@ -14873,7 +14870,9 @@
     "Brown et al., 2003": {
       "doi": "10.1080/1363908032000070648",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
+      ],
       "title": "Employability in a Knowledge-Driven Economy"
     },
     "Brown et al., 2013": {
@@ -39127,14 +39126,6 @@
       ],
       "title": ""
     },
-    "George Kuh et al., 1991": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
-      ],
-      "title": ""
-    },
     "George Kuh, 1991": {
       "doi": "",
       "isbn": "",
@@ -53081,14 +53072,6 @@
       ],
       "title": ""
     },
-    "Jenny Stuber, 2009": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
-      ],
-      "title": ""
-    },
     "Jensen & Rasmussen, 2019": {
       "datasets": [
         "metax:S0825"
@@ -60598,6 +60581,7 @@
       "doi": "",
       "isbn": "9781555423704",
       "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md",
         "wiki/concepts/higher-education/Student Engagement.md"
       ],
       "title": "Involving Colleges: Successful Approaches to Fostering Student Learning and Development outside the Classroom"
@@ -84875,14 +84859,6 @@
       ],
       "title": ""
     },
-    "Phillip Brown et al., 2003": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
-      ],
-      "title": ""
-    },
     "Phillip Brown, 2013": {
       "doi": "",
       "isbn": "",
@@ -104052,7 +104028,9 @@
     "Stuber, 2009": {
       "doi": "10.1111/j.1573-7861.2009.01140.x",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
+      ],
       "title": "Class, Culture, and Participation in the Collegiate Extra-Curriculum"
     },
     "Stuber, 2011": {
@@ -107527,6 +107505,7 @@
       "isbn": "9780226804491",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md",
         "wiki/concepts/higher-education/Academic and Social Integration.md",
         "wiki/concepts/higher-education/Social Engagement.md",
         "wiki/concepts/university-industry-collaboration/Academic Engagement.md"
@@ -111593,7 +111572,6 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md",
         "wiki/concepts/higher-education/Academic and Social Integration.md"
       ],
       "title": ""
@@ -121533,14 +121511,6 @@
       ],
       "title": ""
     },
-    "布迪厄, 2012": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
-      ],
-      "title": ""
-    },
     "布雷彻等, 2000": {
       "doi": "",
       "isbn": "",
@@ -122510,19 +122480,12 @@
       ],
       "title": "迎头赶上：来自不同地域学生的大学学业表现的实证案例研究"
     },
-    "牛新春与郑雅君, 2018": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
-      ],
-      "title": ""
-    },
     "牛新春和郑雅君, 2018": {
       "doi": "10.16298/j.cnki.1004-3667.2018.05.10",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md",
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
       ],
       "title": "重点大学城乡学生的生涯定向：基于跟踪调研的过程研究"
     },
