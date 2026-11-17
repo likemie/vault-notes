@@ -8,7 +8,7 @@ aliases:
 summary: "郑雅君提出由资本化过程、在校投入过程与价值选择过程三层嵌套构成的高等教育分析框架，用以揭示家庭背景如何转化为一流大学毕业生的出路分化机制。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 42
+theory_related_count: 44
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Student Involvement]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
+  - "[[Habitus Transformation]]"
   - "[[Symbolic Boundary]]"
   - "[[Research Question]]"
   - "[[Extracurricular Activities]]"
@@ -59,6 +60,7 @@ related_persons:
   - "[[Vincent Tinto]]"
   - "[[George Kuh]]"
   - "[[Alexander Astin]]"
+  - "[[Mitchell Stevens]]"
 related_facts:
   - "[[Gaokao]]"
   - "[[Recommendation-Based Graduate Admission System]]"
@@ -92,9 +94,9 @@ updated: 2026-11-17
 > - **形成路径** 从地位获得学派将教育视为黑箱的局限出发，结合高等教育学对能动性的强调与教育社会学对结构强力的揭示，引入文化社会学对价值信念的认知分层解释，提炼出三层嵌套模型，并在[[Grounded Theory|扎根理论]]分析中进一步衍生出[[Goal-Controlled Mode|目标掌控模式]]与[[Intuition-Dependent Mode|直觉依赖模式]]。
 
 > [!dev-timeline] 理论版本与贡献
-> - **2008 — 议题呼吁** Mitchell Stevens、Elizabeth Armstrong 和 Richard Arum 在《美国社会学年鉴》发表综述，呼吁将高等教育分层研究从正式学术环节转向大学生活经历的核心过程。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|(引 Stevens et al., 2008；引自 郑雅君, 2023, p. 39)]]
+> - **2008 — 议题呼吁** [[Mitchell Stevens]]、Elizabeth Armstrong 和 Richard Arum 在《美国社会学年鉴》发表综述，呼吁将高等教育分层研究从正式学术环节转向大学生活经历的核心过程。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|(引 Stevens et al., 2008；引自 郑雅君, 2023, p. 39)]]
 > - **2023 — 模型建构** [[Yajun Zheng|郑雅君]]在《金榜题名之后》第二章正式提出大学过程分析框架，将结构制约、个体能动与价值选择整合为同心嵌套结构，拓展了中国本土精英大学教育过程与不平等再生产研究。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|(郑雅君, 2023, pp. 46–52)]]
-> - **2023 — 投入机制与习性重塑验证** 郑雅君在《金榜题名之后》第四章深入探讨学业与社会性投入微观机制，实证揭示大学环境作为“育婴室”促进直觉依赖向目标掌控转化的习性重塑路径。[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|(郑雅君, 2023, 第四章)]]
+> - **2023 — 投入机制与[[Habitus Transformation|习性重塑]]验证** 郑雅君在《金榜题名之后》第四章深入探讨学业与社会性投入微观机制，实证揭示大学环境作为“育婴室”促进直觉依赖向目标掌控转化的习性重塑路径。[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|(郑雅君, 2023, 第四章)]]
 
 ---
 

@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: "us"
 person_region: "us"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -49,6 +49,7 @@ related_methods:
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
+  - "[[Mitchell Stevens]]"
   - "[[Gita Steiner-Khamsi]]"
 related_facts:
   - "[[PISA]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-11-15
+updated: 2026-11-17
 ---
 
 ---
@@ -78,7 +79,7 @@ updated: 2026-11-15
 
 > [!timeline] 生平与职涯
 > - **1988** 获得芝加哥大学社会学博士学位，受芝加哥学派质性社会学与制度分析熏陶，开启组织理性与公共决策定[[Quantitative Research\|量化研究]]。
-> - **1998** 与米切尔·L·史蒂文斯（Mitchell L. Stevens）在《社会学年评》发表奠基论文《作为社会过程的[[Commensuration\|通约化]]》（*Commensuration as a Social Process*），正式确立通约化在比较测量与价值折算中的核心分析地位。
+> - **1998** 与[[Mitchell Stevens|米切尔·L·史蒂文斯]]（Mitchell L. Stevens）在《社会学年评》发表《作为社会过程的[[Commensuration\|通约化]]》（*Commensuration as a Social Process*），正式确立通约化在比较测量与价值折算中的核心分析地位。
 > - **2007** 与迈克尔·索德（Michael Sauder）在《美国社会学杂志》发表《排名与反应性》（*Rankings and Reactivity*），将社会学目光引向法学院与大学排名对组织制度生态的逆向侵蚀。
 > - **2015–2016** 出版《焦虑的引擎》（*Engines of Anxiety*）并发表《叙事化数字》（*Narrating Numbers*），系统阐发定量指标作为治理技术的政治修辞实质，荣获美国社会学协会（ASA）多项年度学术大奖。
 > - **2019** 与安德里亚·门尼肯（Andrea Mennicken）在《社会学年评》发表《数字有什么新意？量化研究的社会学路径》，全面整合量化社会学前沿分析[[Paradigm\|范式]]。
@@ -93,16 +94,16 @@ updated: 2026-11-15
 > - **2000–2010年代 — 排名、问责制与反应性动力学** 转向高等教育与专业领域的定量问责制，追踪法学院 rankings 对院系招生、预算分配、教学实践与学生心理的深度规训。
 >   - **代表著作** *Rankings and Reactivity: How Public Measures Recreate Social Worlds* (2007, with M. Sauder); *Engines of Anxiety: Academic Rankings, Reputation, and Accountability* (2016)。转引自 [[Argument_Schulze-Cleven_2017_HE\|(Schulze-Cleven et al., 2017, p. 797)]]
 >   - **关键概念／方法** 反应性（Reactivity）、自证预言（Self-Fulfilling Prophecy）、硬指标焦虑。
->   - **阶段转向** 从静态的指标设计批判，深化为对指标发布后行动者动态反思、逆向博弈与组织行为[[Alienation|异化]]的闭环反馈机制解剖。
+>   - **阶段转向** 从静态的指标设计批判，深化为对指标发布后行动者动态反思、逆向博弈与组织行为[[Alienation|异化]]的循环反馈机制解剖。
 > - **2015年至今 — 全球指标治理、[[Façade of Rationality\|理性表象]]与数字叙事** 参与国际指标社会学前沿论辩，探索超国家治理与跨国组织[[Policy Brokerage\|政策中介]]中数字与叙事的共生辩证法。
 >   - **代表著作** *Narrating Numbers* (2015); *What's New with Numbers? Sociological Approaches to the Study of Quantification* (2019, with A. Mennicken)。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 539)]]
 >   - **关键概念／方法** 理性表象（Façade of Rationality）、数字叙事空间（Narrating Numbers）、公共政策中介。
->   - **阶段转向** 揭示数字在公共政治中并非终结意识形态争论的科学裁判，而是为统治者提供抵御外部问责的“理性[[Scaffolding\|脚手架]]”，并为选择性讲述政治故事开辟广阔阐释空间。
+>   - **阶段转向** 揭示数字在公共政治中不仅未能终结意识形态争论，反而充当了统治者抵御外部问责的“理性[[Scaffolding\|脚手架]]”，并为选择性讲述政治故事开辟广阔阐释空间。
 
 ---
 
 > [!claim] 核心思想
-> 量化并非对前存在现实的中立镜像反映，而是一种深刻重塑社会关系的干预技术。数字指标通过[[Commensuration\|通约化]]机制强行剔除情境细节与质性争议，使数字作为客观普适的“[[Façade of Rationality\|理性表象]]”[[Scaffolding\|脚手架]]；与此同时，数字的抽象性并未消除政治，反而激发了具有高度弹性的意识形态叙事，并诱发全系统的反应性焦虑与行为异化。
+> 量化是一项深刻重塑社会关系的干预技术。数字指标通过[[Commensuration\|通约化]]机制强行剔除情境细节与质性争议，使数字作为客观普适的“[[Façade of Rationality\|理性表象]]”[[Scaffolding\|脚手架]]；与此同时，数字的抽象性并未消除政治，反而激发了具有高度弹性的意识形态叙事，并诱发全系统的反应性焦虑与行为异化。
 
 > [!citation-card] 通约化作为抹除质性差异的社会过程
 > 通约化是将不[[Homophily|同质性]]的差异转化为跨越通用度量的数量差异的过程。通约化通过建立统一的价值关系，消解了原有的质性独特性与道德复杂性，为组织决策提供了去政治化与去语境化的计算外表。转引自 [[Argument_Thompson_2022_Promising_Student\|(Thompson et al., 2022, p. 225)]]
@@ -125,13 +126,13 @@ updated: 2026-11-15
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024]] — 引用 Espeland (2015) 论证数字指标在教育公共政策中如何构筑理性客观表象，并为中介机构和决策者阐释“指标故事”保留政治叙事自由。
 > - [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017]] — 运用 Espeland and Sauder (2007) 的排名履行性与反应性机制，批判全球高等教育政治经济学中的市场化与象征资本锦标赛。
-> - [[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022]] — 援引 Espeland and Stevens (2008) 论证教育量化技术对学习者“[[Digital Self\|数字自我]]”的统计构建，揭示数据测量绝非通向真实客观的特权通道。
+> - [[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022]] — 援引 Espeland and Stevens (2008) 论证教育量化技术对学习者“[[Digital Self\|数字自我]]”的统计构建，揭示数据测量并不能作为通向真实客观的特权通道。
 
 ---
 
 > [!person-network] 关系网络
-> - **师承／合作者** Michael Sauder — 长期学术合作伙伴，共同完成关于大学排名的反应性奠基研究与《焦虑的引擎》。
-> - **师承／合作者** Theodore M. Porter — 同为[[Quantitative Research\|量化研究]]领域的思想先驱与对话同道，共享对数字客观性作为政治信任防御机制的洞见。
+> - **师承／合作学者** Michael Sauder — 长期学术合作伙伴，共同完成关于大学排名的反应性奠基研究与《焦虑的引擎》。
+> - **师承／合作学者** Theodore M. Porter — 同为[[Quantitative Research\|量化研究]]领域的思想先驱与对话同道，共享对数字客观性作为政治信任防御机制的洞见。
 > - **理论对话者** [[Gita Steiner-Khamsi]] — 在比较教育治理与[[Policy Brokerage\|政策中介]]研究中吸收其“指标叙事”[[Construct\|构念]]，发展出“[[Façade of Rationality\|理性表象]]”批判[[Analytic Framework\|分析框架]]。
 
 ---
@@ -147,7 +148,7 @@ updated: 2026-11-15
 > > [!axis] 反应性行为是否等同于投机取巧的作弊
 > > 政策制定者常将院校应对指标的策略（如刷分、操纵录取率）视为道德瑕疵；反应性理论则将其视为系统结构性矛盾的理性适应。
 > >
-> > - **Espeland and Sauder（2007）** 强调反应性是不可避免的系统性力量，制度惩戒机制倒逼行动者重塑价值观与精力分配，不能简化为个体操守问题。
+> > - **Espeland and Sauder（2007）** 强调反应性是不可避免的系统性力量，制度惩戒机制促使行动者重塑价值观与精力分配，不能简化为个体操守问题。
 
 > [!warning] 未解问题与边界
 > 埃斯佩兰德主要聚焦于西方高度理性化、法律主义与市场化组织情境；在政治高度集权、数据基础薄弱或传统人情治理占主导的全球南方社会，指标的[[Commensuration\|通约化]]与反应性逻辑可能发生不同形式的制度变异与非正式规避。

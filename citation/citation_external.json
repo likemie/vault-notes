@@ -16976,8 +16976,6 @@
     "Mitchell (2014)": "Mitchell, 2014",
     "Mitchell L. Stevens (2008)": "Mitchell L. Stevens, 2008",
     "Mitchell L. Stevens, 2008": "Mitchell L. Stevens, 2008",
-    "Mitchell Stevens et al. (2008)": "Mitchell Stevens et al., 2008",
-    "Mitchell Stevens et al., 2008": "Mitchell Stevens et al., 2008",
     "Mitchell, 1987": "Mitchell, 1987a",
     "Mitchell, 1987a": "Mitchell, 1987b",
     "Mitchell, 1987b": "Mitchell, 1987b",
@@ -151842,21 +151840,6 @@
       "seen_in": [],
       "title": "Culture and Education"
     },
-    "Mitchell Stevens et al., 2008": {
-      "aliases": [
-        "Mitchell Stevens et al., 2008",
-        "Mitchell Stevens et al. (2008)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Mitchell Stevens et al., 2008"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/us/Mitchell Stevens.md"
-      ],
-      "title": ""
-    },
     "Mitchell, 1987a": {
       "aliases": [
         "Mitchell, 1987a",
@@ -199952,6 +199935,7 @@
         "wiki/concepts/sociology-of-education/Habitus Transformation.md",
         "wiki/concepts/sociology-of-education/Habitus.md",
         "wiki/concepts/sociology-of-education/Intuition-Dependent Mode.md",
+        "wiki/persons/us/Mitchell Stevens.md",
         "wiki/theories/sociology-of-education/Four Functions of Higher Education Framework.md"
       ],
       "title": "Sieve, Incubator, Temple, Hub: Empirical and Theoretical Advances in the Sociology of Higher Education"
