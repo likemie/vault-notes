@@ -505,7 +505,9 @@
     "Alexander (2013)": "Alexander, 2013",
     "Alexander (2020)": "Alexander, 2020",
     "Alexander Astin (1984)": "Alexander Astin, 1984",
+    "Alexander Astin (1993)": "Alexander Astin, 1993",
     "Alexander Astin, 1984": "Alexander Astin, 1984",
+    "Alexander Astin, 1993": "Alexander Astin, 1993",
     "Alexander M. Petersen et al. (2014)": "Alexander M. Petersen et al., 2014",
     "Alexander M. Petersen et al., 2014": "Alexander M. Petersen et al., 2014",
     "Alexander Nehamas (1985)": "Alexander Nehamas, 1985",
@@ -8908,6 +8910,8 @@
     "George Kelly (1955)": "George Kelly, 1955",
     "George Kelly, 1955": "George Kelly, 1955",
     "George Kuh (1991)": "George Kuh, 1991",
+    "George Kuh et al. (1991)": "George Kuh et al., 1991",
+    "George Kuh et al., 1991": "George Kuh et al., 1991",
     "George Kuh, 1991": "George Kuh, 1991",
     "George M. Prince (1970)": "George M. Prince, 1970",
     "George M. Prince, 1970": "George M. Prince, 1970",
@@ -12064,6 +12068,8 @@
     "Jenner, 2022": "Jenner, 2022",
     "Jenny Ozga (2008)": "Jenny Ozga, 2008",
     "Jenny Ozga, 2008": "Jenny Ozga, 2008",
+    "Jenny Stuber (2009)": "Jenny Stuber, 2009",
+    "Jenny Stuber, 2009": "Jenny Stuber, 2009",
     "Jensen & Rasmussen (2019)": "Jensen & Rasmussen, 2019",
     "Jensen & Rasmussen, 2019": "Jensen & Rasmussen, 2019",
     "Jensen (1997)": "Jensen, 1997",
@@ -19309,6 +19315,8 @@
     "Philippe Schmitter (1979)": "Philippe Schmitter, 1979",
     "Philippe Schmitter, 1979": "Philippe Schmitter, 1979",
     "Phillip Brown (2013)": "Phillip Brown, 2013",
+    "Phillip Brown et al. (2003)": "Phillip Brown et al., 2003",
+    "Phillip Brown et al., 2003": "Phillip Brown et al., 2003",
     "Phillip Brown, 2013": "Phillip Brown, 2013",
     "Phillippo (2019)": "Phillippo, 2019",
     "Phillippo, 2019": "Phillippo, 2019",
@@ -27696,6 +27704,8 @@
     "布朗等人, 1997": "布朗等人, 1997",
     "布洛克 (2008)": "布洛克, 2008",
     "布洛克, 2008": "布洛克, 2008",
+    "布迪厄 (2012)": "布迪厄, 2012",
+    "布迪厄, 2012": "布迪厄, 2012",
     "布雷彻等 (2000)": "布雷彻等, 2000",
     "布雷彻等, 2000": "布雷彻等, 2000",
     "布鲁姆 (1987)": "布鲁姆, 1987",
@@ -27730,6 +27740,8 @@
     "张娟与赵祥辉, 2026": "张娟与赵祥辉, 2026",
     "张景焕等 (2012)": "张景焕等, 2012",
     "张景焕等, 2012": "张景焕等, 2012",
+    "张玉婷 (2016)": "张玉婷, 2016",
+    "张玉婷, 2016": "张玉婷, 2016",
     "强世功 (2010)": "强世功, 2010",
     "强世功, 2010": "强世功, 2010",
     "彻底关停 (2012)": "彻底关停, 2012",
@@ -27934,6 +27946,8 @@
     "熊静和余秀兰, 2015": "熊静和余秀兰, 2015",
     "牛新春 (2018)": "牛新春, 2018",
     "牛新春, 2018": "牛新春, 2018",
+    "牛新春与郑雅君 (2018)": "牛新春与郑雅君, 2018",
+    "牛新春与郑雅君, 2018": "牛新春与郑雅君, 2018",
     "牛新春和郑雅君 (2018)": "牛新春和郑雅君, 2018",
     "牛新春和郑雅君, 2018": "牛新春和郑雅君, 2018",
     "牛津大学 (2005)": "牛津大学, 2005",
@@ -31734,6 +31748,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/higher-education/Student Involvement.md"
+      ],
+      "title": ""
+    },
+    "Alexander Astin, 1993": {
+      "aliases": [
+        "Alexander Astin, 1993",
+        "Alexander Astin (1993)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Alexander Astin, 1993"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
       ],
       "title": ""
     },
@@ -36161,7 +36190,7 @@
       "identity_keys": [
         "Arksey & Knight, 1999"
       ],
-      "isbn": "",
+      "isbn": "9780761966531",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
@@ -36170,7 +36199,7 @@
         "wiki/methods/qualitative/In-depth Interview.md",
         "wiki/methods/qualitative/Interview Protocol.md"
       ],
-      "title": ""
+      "title": "Interviewing for Social Scientists: An Introductory Resource with Examples"
     },
     "Arlin, 1983": {
       "aliases": [
@@ -91533,7 +91562,7 @@
         "Gadd, 2004",
         "Gadd (2004)"
       ],
-      "doi": "",
+      "doi": "https://doi.org/10.1177/1466802504048656",
       "identity_keys": [
         "Gadd, 2004"
       ],
@@ -91543,7 +91572,7 @@
         "wiki/methods/qualitative/Group Interview.md",
         "wiki/methods/qualitative/In-depth Interview.md"
       ],
-      "title": ""
+      "title": "Evidence-led policy or policy-led evidence? Cognitive behavioural programmes and the reconstruction of \"evidence\" in the Probation Service"
     },
     "Gaddis, 1987": {
       "aliases": [
@@ -93268,6 +93297,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/educational-psychology/Personal Construct Theory.md"
+      ],
+      "title": ""
+    },
+    "George Kuh et al., 1991": {
+      "aliases": [
+        "George Kuh et al., 1991",
+        "George Kuh et al. (1991)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "George Kuh et al., 1991"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
       ],
       "title": ""
     },
@@ -116484,6 +116528,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Scandinavian Journal of Educational Research/Argument_Segerholm_Lindgren_Novak_2022_SJER.md"
+      ],
+      "title": ""
+    },
+    "Jenny Stuber, 2009": {
+      "aliases": [
+        "Jenny Stuber, 2009",
+        "Jenny Stuber (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Jenny Stuber, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
       ],
       "title": ""
     },
@@ -168939,6 +168998,21 @@
       ],
       "title": ""
     },
+    "Phillip Brown et al., 2003": {
+      "aliases": [
+        "Phillip Brown et al., 2003",
+        "Phillip Brown et al. (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Phillip Brown et al., 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
+      ],
+      "title": ""
+    },
     "Phillip Brown, 2013": {
       "aliases": [
         "Phillip Brown, 2013",
@@ -199568,6 +199642,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md",
         "wiki/concepts/sociology-of-education/Habitus.md",
         "wiki/concepts/sociology-of-education/Intuition-Dependent Mode.md",
         "wiki/theories/sociology-of-education/Four Functions of Higher Education Framework.md"
@@ -200827,6 +200902,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md",
         "wiki/concepts/higher-education/Student Engagement.md",
         "wiki/concepts/higher-education/Student Involvement.md"
       ],
@@ -213150,6 +213226,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md",
         "wiki/concepts/higher-education/Academic and Social Integration.md"
       ],
       "title": ""
@@ -223307,7 +223384,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
       ],
       "title": "The Unwritten Rules of Engagement: Social Class Differences in Undergraduates' Academic Strategies"
     },
@@ -229511,6 +229589,21 @@
       ],
       "title": ""
     },
+    "布迪厄, 2012": {
+      "aliases": [
+        "布迪厄, 2012",
+        "布迪厄 (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "布迪厄, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
+      ],
+      "title": ""
+    },
     "布雷彻等, 2000": {
       "aliases": [
         "布雷彻等, 2000",
@@ -229768,6 +229861,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/instruments/questionnaires/Creative Achievement Questionnaire.md"
+      ],
+      "title": ""
+    },
+    "张玉婷, 2016": {
+      "aliases": [
+        "张玉婷, 2016",
+        "张玉婷 (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "张玉婷, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
       ],
       "title": ""
     },
@@ -231293,7 +231401,23 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
+      ],
+      "title": ""
+    },
+    "牛新春与郑雅君, 2018": {
+      "aliases": [
+        "牛新春与郑雅君, 2018",
+        "牛新春与郑雅君 (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "牛新春与郑雅君, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
       ],
       "title": ""
     },
