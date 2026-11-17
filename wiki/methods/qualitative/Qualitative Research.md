@@ -11,7 +11,7 @@ summary: "以解释学与建构主义为认识论基础，在自然情境中通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 111
+method_related_count: 116
 method_related_level: 11
 method_related_stars: "💎💎💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -60,6 +60,10 @@ related_concepts:
   - "[[Tacit Knowledge]]"
   - "[[Causality]]"
   - "[[Big Science]]"
+  - "[[Typification]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Epistemic Value]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Complexity Theory]]"
@@ -140,10 +144,11 @@ related_arguments:
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Eisenhart_Towne_2003_ER]]"
   - "[[Argument_Barrenechea_2023_JEC]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
 confidence: high
 status: draft
 created: 2026-05-05
-updated: 2026-11-11
+updated: 2026-11-17
 ---
 
 ---
@@ -332,3 +337,4 @@ Miller 关于新任[[Grandes Ecoles|大学校]]长第一年经历的研究方案
 > - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] — 详实回顾美国联邦立法中质性研究遭遇卡斯尔草案（H.R. 4875）贬为“初步形式”的历史公案，论证如何依据[[National Research Council|国家研究委员会]]（NRC）六[[Big Science|大科学]]原则打破量化/质性二元对立，推动确立“方法契合所提问题”的原则。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 在比较教育学方法论史综述中，引用斯塔克 (1995) 对量化/质性研究取向根本差异的经典界定，将其纳入学科从方法论单一性走向 26 种理论并存的[[Pluralism|多元主义]]演进叙事之中。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 综合 43 项宏微观质性案例与[[Cohort Study|追踪研究]]，运用扎根编码提炼全系统持续提质的四大核心驱动要素（p. 5）。
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch06|郑雅君 (2023)]] — 结合十余年名校寒门学子求学生活史与田野追踪，展示质性研究直面经验意外与概念[[Typification|类型化]]（[[Goal-Controlled Mode|目标掌控]]与[[Intuition-Dependent Mode|直觉依赖]]）的[[Epistemic Value|认识论价值]]，并反思回顾性叙事偏差等方法推论边界 (pp. 371–373)。
