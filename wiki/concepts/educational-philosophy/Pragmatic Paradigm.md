@@ -94,6 +94,7 @@ related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
+  - "[[Argument_Deng_2016_CE]]"
 confidence: high
 status: active
 created: 2026-06-14

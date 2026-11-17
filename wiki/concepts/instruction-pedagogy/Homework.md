@@ -198,7 +198,7 @@ updated: 2026-11-18
 
 ---
 
-> [!concept-proposition] 命题五｜[[Generative Artificial Intelligence|生成式人工智能]]导致传统静态成品作业效度崩塌，倒逼作业考评转向全流程思维追踪与独立可恢复性
+> [!concept-proposition] 命题五｜[[Generative Artificial Intelligence|生成式人工智能]]导致传统静态成品作业效度崩塌，促使作业考评转向全流程思维追踪与独立可恢复性
 > **评价导向[[Alienation|异化]]与中间认识动作可恢复性危机** 分析大语言模型如何通过一键交付使传统的课后成品作业失去考核效度，阐明向过程性探究与概念独立复现能力转型的必要性。
 
 > [!claim] [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]]
