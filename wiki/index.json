@@ -19905,6 +19905,16 @@
     ]
   },
   {
+    "title": "Class-Differentiated Help-Seeking",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Class-Differentiated Help-Seeking.md",
+    "aliases": [
+      "阶层化求助策略",
+      "阶层化求助行为",
+      "阶层化求助"
+    ]
+  },
+  {
     "title": "Codeswitcher",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Codeswitcher.md",
@@ -20054,6 +20064,16 @@
     "aliases": [
       "文化性知识",
       "制度性文化知识"
+    ]
+  },
+  {
+    "title": "Cultural Mismatch",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Cultural Mismatch.md",
+    "aliases": [
+      "文化错配",
+      "文化规范错配",
+      "规范错配"
     ]
   },
   {
@@ -20817,6 +20837,15 @@
     "path": "wiki/concepts/sociology-of-education/Student Grant Aid.md",
     "aliases": [
       "学生助学金"
+    ]
+  },
+  {
+    "title": "Subaltern Cultural Capital",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Subaltern Cultural Capital.md",
+    "aliases": [
+      "底层文化资本",
+      "弱势文化资本"
     ]
   },
   {
@@ -24615,6 +24644,17 @@
       "发展型网络国家理论",
       "隐藏的发展型国家",
       "Hidden Developmental State"
+    ]
+  },
+  {
+    "title": "Developmental State",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Developmental State.md",
+    "aliases": [
+      "发展型国家",
+      "发展型国家理论",
+      "发展导向型国家",
+      "Developmental State Theory"
     ]
   },
   {
@@ -46879,6 +46919,16 @@
       "Global Schoolhouse",
       "东方波士顿",
       "Boston of the East"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Teach Less, Learn More",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Teach Less, Learn More.md",
+    "aliases": [
+      "少教多学",
+      "TLLM"
     ],
     "subtype": "policy"
   },

@@ -7,6 +7,11 @@ aliases:
   - Developmental State Theory
 summary: "政治经济学与比较教育学核心理论，由查尔默斯·约翰逊（Chalmers Johnson, 1982）开创并经曼纽尔·卡斯特（Manuel Castells, 1992）等学者拓展。该理论指出后发国家通过兼具高度自主性与专业能力的精英官僚机构主动介入并驾驭市场，以持续的经济与社会发展成就作为国家政权合法性的核心基石，并将公共教育体系系统构建为支撑产业升级与国家认同的战略支柱。面对全球化冲击，成熟发展型国家展现出战术性适应能力而非权力退场。"
 type: theory
+theory_field: "political-economy-geopolitics"
+theory_related_count: 15
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theory/state-theory
   - theme/political-economy
@@ -37,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-11-17
-updated: 2026-11-17
+updated: 2026-11-18
 ---
 
 ---

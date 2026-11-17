@@ -10,7 +10,7 @@ aliases:
 summary: "以学习者自主生成新知、依托经验证据推论、行使认识能动性并参与共同体批判协商为核心的教学取向，在适切支架与指导协同下对促进概念理解与远迁移显著优于单一直接讲授"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 66
+related_count: 67
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -98,7 +98,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-20
-updated: 2026-11-15
+updated: 2026-11-18
 ---
 
 > [!def] Inquiry-Based Learning
@@ -194,7 +194,7 @@ updated: 2026-11-15
 
 ---
 
-> [!contrast-table] 所有命题归纳
+> [!contrast-table|notitle] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **指导协同增益** | 指导式探究在概念理解与迁移上优于单一直接讲授，显性支架防范认知超载，纯发现无效 | 中小学及大学理科概念与实验技能教学、认识论认知干预 | Alfieri et al. (2011); Lazonder and Harmsen (2016); [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 4–5)]]; [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021, pp. 485–486)]] |
@@ -222,7 +222,7 @@ updated: 2026-11-15
 >   $$SE_{\text{merged}} = \frac{0.154 + 0.030}{2} = 0.092$$
 > - **统计公理的颠覆** 在统计学元分析中，根据[[Inverse-Variance Weighting|逆方差加权]]公理，两个或多个独立样本聚合后的标准误必须严格小于任何单个子研究的标准误（即 $SE_{\text{pooled}} = \sqrt{\frac{1}{\sum w_i}} < \min(SE_i)$）。哈蒂取简单均值的做法，不仅毫无数理依据，更使合并后的不确定性比高精度单项元分析（$0.030$）暴增了 3 倍以上。这暴露出宏观排行榜在量化计算上的粗制滥造与不可靠性。
 
-> [!warning] 适用局限
+> [!warning|limits] 适用局限
 > 探究式教学的顺利实施对师资专业素养与教学环境设计提出了极高要求。若教师缺乏实时诊断学生推理困境的能力，或数字化平台缺乏自适应[[Scaffolding\|脚手架]]，探究活动极易退化为低效的形式主义或造成严重认知超载。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 8–9)]]
 
 ---
@@ -302,9 +302,24 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
-> - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** — 反驳 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 的[[Direct Instruction\|直接教学]]优越论，整合受控实验、[[PISA]] 与课程级证据，确立指导式探究在深层理解上的优势及两者的协同模型。
-> - **[[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]** — 针对 26 项实验与准实验[[Intervention Research\|干预研究]]开展[[Meta-analysis\|元分析]]，证实指导式探究（$d = 0.808$）是促进[[Epistemic Cognition\|认识论认知]]发展与提升[[Academic Achievement\|学业成就]]最有效的[[Framework for Teaching|教学框架]]，显著优于缺乏显性支架的问题驱动学习（$d = 0.340$）与开放辩论（$d = 0.134$）。
-> - **[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]** — 德国学者对《[[Visible Learning|可见的学习]]》中探究式教学量化综合的计算审计，揭露通过对子研究[[Standard Error|标准误]]取简单算术平均得出伪标准误（$SE = 0.092$）的严重方法学缺陷（p. 30）。
-> - **[[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]]** — 结合芬兰国家评估与 PISA 微观数据，实证检验 1990 年代建构主义大纲落地与学生中心探究教学普及对基础认知表现的负向因果效应，警示过早放弃教师主导讲授的教学风险（pp. 58–63）。
+> [!entry-map] 探究式学习关联网络
+>
+> | 条目 | 类型 | 关系 |
+> |---|---|---|
+> | [[Inquiry Cycle]] | 理论模型 | 规范探究学习中问题提出、证据收集与模型修正的循坏架构。 |
+> | [[Direct Instruction]] | 对比概念 | 与指导式探究在教学时序中形成互补整合的显性教学方法。 |
+> | [[Discovery Learning]] | 辨析概念 | 缺乏支架的纯发现学习容易造成工作记忆过载，有别于高结构的指导式探究。 |
+> | [[Cognitive Load Theory]] | 理论基础 | 揭示探究过程中认知负荷的管理规律与支架的使能边界。 |
+> | [[Epistemic Agency]] | 核心机制 | 学习者在证据检验与模型建构中行使的自主反思与裁决权。 |
+> | [[Scaffolding]] | 教学技术 | 动态提供认知线索与过程约束以化解探究认知超载的关键手段。 |
+> | [[Control of Variables Strategy]] | 典型载体 | 探究学习中用于检验因果关系的经典科学实验策略。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 考察新加坡高表现教育系统中探究式教学改革的制度现实，揭示跨国借用者将 PISA 高分误归因于探究式课改的修辞陷阱，实证表明常态课堂仍以高度结构化的直接教学为主导，探究活动多停留在表层或边缘。
+> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 反驳 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 的[[Direct Instruction\|直接教学]]优越论，整合受控实验、[[PISA]] 与课程级证据，确立指导式探究在深层理解上的优势及两者的协同模型。
+> - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 针对 26 项实验与准实验[[Intervention Research\|干预研究]]开展[[Meta-analysis\|元分析]]，证实指导式探究（$d = 0.808$）是促进[[Epistemic Cognition\|认识论认知]]发展与提升[[Academic Achievement\|学业成就]]最有效的[[Framework for Teaching|教学框架]]，显著优于缺乏显性支架的问题驱动学习（$d = 0.340$）与开放辩论（$d = 0.134$）。
+> - [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] — 德国学者对《[[Visible Learning|可见的学习]]》中探究式教学量化综合的计算审计，揭露通过对子研究[[Standard Error|标准误]]取简单算术平均得出伪标准误（$SE = 0.092$）的严重方法学缺陷（p. 30）。
+> - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 结合芬兰国家评估与 PISA 微观数据，实证检验 1990 年代建构主义大纲落地与学生中心探究教学普及对基础认知表现的负向因果效应，警示过早放弃教师主导讲授的教学风险（pp. 58–63）。
 

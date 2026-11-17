@@ -7,10 +7,14 @@ aliases:
 summary: "弱势阶层学生内化的互依型文化规范与高等教育机构预设的独立型文化规范之间产生的结构性脱节，诱发生理应激、认同疏离与学业劣势"
 type: concept
 domain: "sociology-of-education"
+related_count: 13
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 confidence: high
 status: active
 created: 2026-11-17
-updated: 2026-11-17
+updated: 2026-11-18
 tags:
   - cultural-mismatch
   - higher-education

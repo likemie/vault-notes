@@ -39,9 +39,11 @@ related_persons:
 related_facts:
   - "[[Goh Report]]"
   - "[[Speak Mandarin Campaign]]"
+  - "[[All-Party Report on Chinese Education]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
+  - "[[Argument_Deng_2016_CE]]"
 confidence: high
 status: draft
 created: 2026-10-09

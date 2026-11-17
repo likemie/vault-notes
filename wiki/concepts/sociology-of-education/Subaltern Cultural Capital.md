@@ -6,10 +6,14 @@ aliases:
 summary: "弱势群体在艰苦生活与逆境经历中积淀的坚韧奋斗意志、道德义务感、自反性觉醒与跨界沟通潜能等非主导文化资产"
 type: concept
 domain: "sociology-of-education"
+related_count: 16
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 confidence: high
 status: active
 created: 2026-11-17
-updated: 2026-11-17
+updated: 2026-11-18
 tags:
   - cultural-capital
   - subaltern-cultural-capital

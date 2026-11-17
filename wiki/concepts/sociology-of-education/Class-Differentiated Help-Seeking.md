@@ -7,10 +7,14 @@ aliases:
 summary: "不同阶层背景的学生在面对学业困境与制度门槛时，向教师与权威机构求助所展现出的以权利感为导向的主动争取与以受制感为导向的被动回避"
 type: concept
 domain: "sociology-of-education"
+related_count: 15
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 confidence: high
 status: active
 created: 2026-11-17
-updated: 2026-11-17
+updated: 2026-11-18
 tags:
   - help-seeking
   - social-stratification

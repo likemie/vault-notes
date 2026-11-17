@@ -905,6 +905,8 @@
     "Andriana, 2018": "Andriana, 2018",
     "Andrzejewski (2016)": "Andrzejewski, 2016",
     "Andrzejewski, 2016": "Andrzejewski, 2016",
+    "Andy Green (1997)": "Andy Green, 1997",
+    "Andy Green, 1997": "Andy Green, 1997",
     "Ane Qvortrup (2015)": "Ane Qvortrup, 2015",
     "Ane Qvortrup, 2015": "Ane Qvortrup, 2015",
     "Anfara et al. (2002)": "Anfara et al., 2002",
@@ -15824,6 +15826,8 @@
     "Mantzicopoulos, 1992a": "Mantzicopoulos, 1992a",
     "Mantzicopoulos, 1992b": "Mantzicopoulos, 1992b",
     "Mantzicopoulos, 2013": "Mantzicopoulos, 2013",
+    "Manuel Castells (1992)": "Manuel Castells, 1992",
+    "Manuel Castells, 1992": "Manuel Castells, 1992",
     "Manuel DeLanda (2006)": "Manuel DeLanda, 2006",
     "Manuel DeLanda, 2006": "Manuel DeLanda, 2006",
     "Manz & Suárez (2018)": "Manz & Suárez, 2018",
@@ -20686,6 +20690,8 @@
     "Robert Sweet, 2003": "Robert Sweet, 2003",
     "Robert W. Friedrichs (1970)": "Robert W. Friedrichs, 1970",
     "Robert W. Friedrichs, 1970": "Robert W. Friedrichs, 1970",
+    "Robert Wade (1990)": "Robert Wade, 1990",
+    "Robert Wade, 1990": "Robert Wade, 1990",
     "Robert Weber (1990)": "Robert Weber, 1990",
     "Robert Weber, 1990": "Robert Weber, 1990",
     "Robert Wuthnow (1989)": "Robert Wuthnow, 1989",
@@ -21607,7 +21613,9 @@
     "Sarantakos (2005)": "Sarantakos, 2005",
     "Sarantakos, 2005": "Sarantakos, 2005",
     "Saravanan Gopinathan (1979)": "Saravanan Gopinathan, 1979",
+    "Saravanan Gopinathan (2007)": "Saravanan Gopinathan, 2007",
     "Saravanan Gopinathan, 1979": "Saravanan Gopinathan, 1979",
+    "Saravanan Gopinathan, 2007": "Saravanan Gopinathan, 2007",
     "Saraç (2018)": "Saraç, 2018",
     "Saraç, 2018": "Saraç, 2018",
     "Sari & Oren (2020)": "Sari & Oren, 2020",
@@ -34847,6 +34855,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Can a self-regulated strategy intervention close the achievement gap? Exploring a classroom-based intervention in 9th grade earth science"
+    },
+    "Andy Green, 1997": {
+      "aliases": [
+        "Andy Green, 1997",
+        "Andy Green (1997)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Andy Green, 1997"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/political-economy-geopolitics/Developmental State.md"
+      ],
+      "title": ""
     },
     "Ane Qvortrup, 2015": {
       "aliases": [
@@ -56834,7 +56857,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
+        "wiki/concepts/sociology-of-education/Class-Differentiated Help-Seeking.md"
       ],
       "title": "“I Need Help!” Social Class and Children’s Help-Seeking in Elementary School"
     },
@@ -60383,7 +60407,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Embedded Network Governance.md",
-        "wiki/facts/japan/Ministry of International Trade and Industry.md"
+        "wiki/facts/japan/Ministry of International Trade and Industry.md",
+        "wiki/theories/political-economy-geopolitics/Developmental State.md"
       ],
       "title": ""
     },
@@ -132222,6 +132247,7 @@
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
+        "wiki/concepts/sociology-of-education/Class-Differentiated Help-Seeking.md",
         "wiki/concepts/sociology-of-education/Cultural Knowledge.md"
       ],
       "title": "Cultural Knowledge and Social Inequality"
@@ -143663,6 +143689,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Science literacy in school and home contexts  Kindergarteners’ science achievement and motivation"
+    },
+    "Manuel Castells, 1992": {
+      "aliases": [
+        "Manuel Castells, 1992",
+        "Manuel Castells (1992)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Manuel Castells, 1992"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/political-economy-geopolitics/Developmental State.md"
+      ],
+      "title": ""
     },
     "Manuel DeLanda, 2006": {
       "aliases": [
@@ -179249,6 +179290,21 @@
       ],
       "title": ""
     },
+    "Robert Wade, 1990": {
+      "aliases": [
+        "Robert Wade, 1990",
+        "Robert Wade (1990)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Robert Wade, 1990"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/political-economy-geopolitics/Developmental State.md"
+      ],
+      "title": ""
+    },
     "Robert Weber, 1990": {
       "aliases": [
         "Robert Weber, 1990",
@@ -186014,6 +186070,21 @@
       "seen_in": [
         "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch17.md",
         "wiki/theories/educational-policy-reform/Pluralism.md"
+      ],
+      "title": ""
+    },
+    "Saravanan Gopinathan, 2007": {
+      "aliases": [
+        "Saravanan Gopinathan, 2007",
+        "Saravanan Gopinathan (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Saravanan Gopinathan, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/political-economy-geopolitics/Developmental State.md"
       ],
       "title": ""
     },
@@ -200215,7 +200286,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
-        "wiki/concepts/higher-education/First-Generation College Student.md"
+        "wiki/concepts/higher-education/First-Generation College Student.md",
+        "wiki/concepts/sociology-of-education/Cultural Mismatch.md"
       ],
       "title": "A Cultural Mismatch: Independent Cultural Norms Produce Greater Increases in Cortisol and More Negative Emotions Among First-Generation College Students"
     },
@@ -232942,7 +233014,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
-        "wiki/concepts/sociology-of-education/Cultural Capital.md"
+        "wiki/concepts/sociology-of-education/Cultural Capital.md",
+        "wiki/concepts/sociology-of-education/Subaltern Cultural Capital.md"
       ],
       "title": "“物或损之而益”——关于底层文化资本的另一种言说"
     },
