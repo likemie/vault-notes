@@ -57,7 +57,7 @@ updated: 2026-11-18
 
 > [!timeline] 政策时间线
 > - 1997 吴作栋总理正式宣告实施 TSLN，标志着能力驱动型教育正式启动。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 456)]]
-> - 1997 同期发布第一阶段 ICT Masterplan 与国民教育计划。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 457)]]
+> - 1997 同期发布第一阶段教育信息与通信技术总蓝图（Information and Communications Technology Masterplan, ICT Masterplan）与国民教育计划。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 457)]]
 > - 2004–2005 在 TSLN 框架下进一步深化提出少教多学（Teach Less, Learn More, TLLM）实践倡议，将改革重心切实压向课堂微观教学重构。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 457)]]
 
 ---

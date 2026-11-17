@@ -7,6 +7,11 @@ aliases:
   - Kaplan-Baldauf Framework
 summary: "罗伯特·卡普兰与理查德·鲍尔道夫于1997年提出的语言教育规划系统分析框架，将教育领域的语言规划分解为准入、师资、课程、教学法、教材、资源、社区与评估八个政策维度，用以解释国家语言目标向学校微观实践的制度转化。"
 type: theory
+theory_field: "educational-policy-reform"
+theory_related_count: 8
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
   - theory/language-planning
   - theme/language-policy

@@ -1,6 +1,5 @@
 ---
-title: Argument_Chua_2011_CILP
-summary: 解构新加坡自上而下的语言教育规划如何将国家重塑为懂英语社会，并揭示全英语浸润政策引发的母语素养下滑与新加坡式英语认同崛起。
+summary: "解构新加坡自上而下的语言教育规划如何将国家重塑为懂英语社会，并揭示全英语浸润政策引发的母语素养下滑与新加坡式英语认同崛起。"
 type: argument
 authors:
   - Chua, S. K. C.
@@ -8,8 +7,10 @@ source_language: en
 citation: "Chua, S. K. C. (2011). Singapore’s E(Si)nglish-knowing bilingualism. Current Issues in Language Planning, 12(2), 125–145. https://doi.org/10.1080/14664208.2011.602816"
 year: 2011
 doi: 10.1080/14664208.2011.602816
+citation_aliases:
+  - "Chua, 2011"
+  - "Chua (2011)"
 isbn: ""
-citation_aliases: []
 tags:
   - theme/language-policy
   - theme/educational-policy-reform
@@ -40,6 +41,14 @@ created: 2026-11-18
 updated: 2026-11-18
 subtype: journal-article
 publication_type: journal-article
+title: "Argument_Chua_2011_CILP"
+argument_key: "Argument_Chua_2011_CILP"
+argument_display_title: "Singapore’s E(Si)nglish-knowing bilingualism"
+argument_kind: "journal-article"
+argument_related_count: 9
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dbeafe"
 journal: Current Issues in Language Planning
 book_title: ""
 publication_place: ""
@@ -108,9 +117,9 @@ issuing_organization: ""
 > 新加坡政府基于外向型经济发展与跨族群国家建构的双重需求，通过自上而下的政策决断将原本属于外来殖民者的英语确立为各族中立的通用第一语言，依托制度规制构建起覆盖全岛的语言教育规划网络。
 
 > [!sub-claim] 1. 实用主义驱动下的“英语+1”制度架构
-> 在建国总理[[Lee Kuan Yew|李光耀]]（[[Lee Kuan Yew]]）倡导的实用主义路线下，英语被定性为获取西方高新科技、对接国际贸易资本与维护国家生存竞争力的中枢杠杆，同时作为不偏向任何单一族群的中立公共媒介语；官方将双语政策界定为掌握标准英语外加一门对应的官方指定母语（华语、马来语、泰米尔语），以此构筑兼顾经济前沿与文化道德防线的双轨格局。
+> 在建国总理[[Lee Kuan Yew|李光耀]]（[[Lee Kuan Yew]]）倡导的实用主义路线下，英语被定性为获取西方高新科技、对接国际贸易资本与维护国家生存竞争力的核心支柱，同时作为不偏向任何单一族群的中立公共媒介语；官方将双语政策界定为掌握标准英语外加一门对应的官方指定母语（华语、马来语、泰米尔语），以此构筑兼顾经济前沿与文化道德防线的双轨格局。
 
-> [!sub-claim] 2. 八维语言教育规划的严密制度闭环
+> [!sub-claim] 2. 八维语言教育规划的严密协同体系
 > 新加坡教育部在卡普兰与鲍尔道夫界定的八大维度上展开了系统性制度布局，彻底消除了政策目标与教育实践脱节的隐患。
 
 > [!framework-table] 表1：新加坡语言教育规划的系统推进路径
@@ -196,7 +205,7 @@ issuing_organization: ""
 > 英语在公共与教育领域的绝对胜利对私人生活场域产生了深度逆向渗透，导致“英语+1”政策中的母语基石面临被替代危机，并在高度多语接触中催生了本土接触变体新加坡式英语。
 
 > [!sub-claim] 1. 家庭语言转移与母语（MTL）素养危机
-> 随着接受全英语教育的新生代父母成为家庭抚养主体，家庭内部日常交流语言迅速由各族母语（华语、马来语、泰米尔语及各类汉语方言）转向英语；这一现象导致许多儿童在入学前已将英语作为事实上的第一语言，传统母语反而蜕变为需要艰难补习的外语，引发了“+1”文化支柱的系统性空心化。
+> 随着接受全英语教育的新生代父母成为家庭抚养主体，家庭内部日常交流语言迅速由各族母语（华语、马来语、泰米尔语及各类汉语方言）转向英语；这一现象导致许多儿童在入学前已将英语作为事实上的第一语言，传统母语反而转变为需要艰难补习的外语，引发了“+1”文化支柱的系统性空心化。
 
 > [!figure]- 图4：语言政策转译与语码转换互动模型
 > ![](https://img.mylikemie.icu/sources/Chua_2011_CILP/figures/Chua_2011_CILP_Fig4_Language_Policy_Translating_Process.jpg)

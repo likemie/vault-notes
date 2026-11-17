@@ -8,6 +8,12 @@ summary: "新加坡教育部于2006年启动试点并于2009年推广至全国�
 type: fact
 subtype: program
 region: "singapore"
+fact_region: "singapore"
+fact_kind: "program"
+fact_related_count: 8
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#ede9fe"
 period: "2006–至今"
 initiator_organization: "Ministry of Education, Singapore"
 tags:

@@ -6,6 +6,11 @@ aliases:
   - E(Si)nglish-knowing bilingualism
 summary: "由语言学家安妮·帕基尔于1991年提出、后经蔡秀琼等学者深化发展的语言政策构念。指以英语作为跨族群共同行政工作语言与主导教学媒介语、同时将官方指定母语作为族群文化防线的双轨双语制度架构及其在多元社会中塑造的语言生存形态。"
 type: concept
+domain: "educational-policy-reform"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/language-policy
   - theme/educational-policy-reform

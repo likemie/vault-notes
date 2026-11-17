@@ -7213,6 +7213,16 @@
     ]
   },
   {
+    "title": "English-Knowing Bilingualism",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/English-Knowing Bilingualism.md",
+    "aliases": [
+      "英文主导的双语主义",
+      "懂英语的双语政策",
+      "E(Si)nglish-knowing bilingualism"
+    ]
+  },
+  {
     "title": "Evaluation Research",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Evaluation Research.md",
@@ -20805,6 +20815,16 @@
     ]
   },
   {
+    "title": "Singlish",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Singlish.md",
+    "aliases": [
+      "新加坡式英语",
+      "新加坡英语",
+      "Colloquial Singapore English"
+    ]
+  },
+  {
     "title": "Social Episodes",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Social Episodes.md",
@@ -23724,6 +23744,17 @@
       "研究使用治理机制",
       "研究使用的跨层治理机制",
       "Four Governing Mechanisms"
+    ]
+  },
+  {
+    "title": "Kaplan and Baldauf's Language-in-Education Planning Framework",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Kaplan and Baldauf's Language-in-Education Planning Framework.md",
+    "aliases": [
+      "卡普兰—鲍尔道夫语言教育规划框架",
+      "语言教育规划框架",
+      "Language-in-Education Planning Framework",
+      "Kaplan-Baldauf Framework"
     ]
   },
   {
@@ -46977,12 +47008,34 @@
     "subtype": "policy"
   },
   {
+    "title": "Speak Good English Movement",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Speak Good English Movement.md",
+    "aliases": [
+      "讲正确英语运动",
+      "讲好英语运动",
+      "SGEM"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "Speak Mandarin Campaign",
     "type": "fact",
     "path": "wiki/facts/singapore/Speak Mandarin Campaign.md",
     "aliases": [
       "讲华语运动",
       "Singapore Speak Mandarin Campaign"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "STELLAR Program",
+    "type": "fact",
+    "path": "wiki/facts/singapore/STELLAR Program.md",
+    "aliases": [
+      "STELLAR",
+      "Strategies for English Language Learning and Reading",
+      "英文学习与阅读策略项目"
     ],
     "subtype": "program"
   },
@@ -54023,6 +54076,11 @@
     "title": "Argument_Johnson_2023_CritEduc",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Critical Education/Argument_Johnson_2023_CritEduc.md"
+  },
+  {
+    "title": "Argument_Chua_2011_CILP",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
   },
   {
     "title": "Argument_Gungor_2026_CP",

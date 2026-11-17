@@ -8,6 +8,12 @@ summary: "由新加坡总理吴作栋于2000年4月发起的全国性长期语�
 type: fact
 subtype: program
 region: "singapore"
+fact_region: "singapore"
+fact_kind: "program"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#ede9fe"
 period: "2000–至今"
 initiator_organization: "Singapore Government / Speak Good English Movement Committee"
 tags:

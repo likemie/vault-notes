@@ -6,6 +6,11 @@ aliases:
   - Colloquial Singapore English
 summary: "新加坡在多语高强度接触生态中自发形成的本土英语变体（新加坡口语英语）。其以英语词汇为基底，融合了闽南语、粤语、马来语和泰米尔语的句法与语调特征，从早期非受教育阶层的交际工具演化为年轻一代彰显本土文化认同与内部凝聚力的核心载体。"
 type: concept
+domain: "sociology-of-education"
+related_count: 8
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/sociolinguistics
   - theme/language-policy

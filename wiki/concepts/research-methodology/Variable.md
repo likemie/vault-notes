@@ -76,6 +76,7 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit07]]"
   - "[[Argument_Sinatra_2016_Science]]"
   - "[[Argument_Grace_2010_NZJES]]"
+  - "[[Argument_Deng_2016_CE]]"
 confidence: high
 status: completed
 created: 2026-05-31

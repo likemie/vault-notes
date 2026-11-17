@@ -12785,6 +12785,8 @@
     "Kapa (2007)": "Kapa, 2007",
     "Kapa, 2001": "Kapa, 2001",
     "Kapa, 2007": "Kapa, 2007",
+    "Kaplan & Baldauf (1997)": "Kaplan & Baldauf, 1997",
+    "Kaplan & Baldauf, 1997": "Kaplan & Baldauf, 1997",
     "Kaplan & Kaplan (1989)": "Kaplan & Kaplan, 1989",
     "Kaplan & Kaplan, 1989": "Kaplan & Kaplan, 1989",
     "Kaplan (2013)": "Kaplan, 2013",
@@ -47650,18 +47652,19 @@
         "Black & Wiliam, 1998",
         "Black & Wiliam (1998)"
       ],
-      "doi": "",
+      "doi": "10.1080/0969595980050102",
       "identity_keys": [
         "Black & Wiliam, 1998"
       ],
       "isbn": "",
       "seen_in": [
         "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md",
+        "wiki/concepts/competency-and-assessment/Formative Assessment.md",
         "wiki/concepts/curriculum/Learning Intentions.md",
         "wiki/concepts/educational-policy-reform/High-Stakes Testing.md",
         "wiki/theories/educational-policy-reform/Research Utilization Models.md"
       ],
-      "title": ""
+      "title": "Assessment and classroom learning"
     },
     "Black & Wiliam, 2007": {
       "aliases": [
@@ -121891,6 +121894,21 @@
       "seen_in": [],
       "title": "Transfer from structured to open-ended problem solving in a computerized metacognitive environment"
     },
+    "Kaplan & Baldauf, 1997": {
+      "aliases": [
+        "Kaplan & Baldauf, 1997",
+        "Kaplan & Baldauf (1997)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kaplan & Baldauf, 1997"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
+      ],
+      "title": ""
+    },
     "Kaplan & Kaplan, 1989": {
       "aliases": [
         "Kaplan & Kaplan, 1989",
@@ -159989,8 +160007,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md",
-        "wiki/concepts/competency-and-assessment/Formative Assessment.md"
+        "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md"
       ],
       "title": ""
     },

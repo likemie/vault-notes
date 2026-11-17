@@ -134,9 +134,9 @@ updated: 2026-11-18
 > [!contrast-table|notitle] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **描述性反馈与探索保护** | 纯评语反馈比分数更能保护任务卷入，促进批判性与创造性思维发展 | 高等教育探究性课程与文章指导 | [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]]；Butler (1988) |
+> | **描述性反馈与探索保护** | 纯评语反馈比分数更能保护任务卷入，促进批判性与创造性思维发展 | 高等教育探究性课程与文章指导 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]]；Butler (1988) |
 > | **模块化过载的挤出效应** | 频繁的短期模块考试导致评价过载，挤压深度形成性对话时间 | 学分制改革与模块化课程设计 | Wu and Jessop (2018) |
-> | **教学归因与策略转化** | 将评价结果视为对教师自身教学效能的检验，是驱动教学改进的根本动力 | 校本评价体系构建与数据驱动教学 | [[Argument_Hattie_2005_ACER|Hattie (2005)]]；Black & Wiliam (1998, 2009) |
+> | **教学归因与策略转化** | 将评价结果视为对教师自身教学效能的检验，是驱动教学改进的根本动力 | 校本评价体系构建与数据驱动教学 | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]；Black & Wiliam (1998, 2009) |
 
 ---
 
@@ -170,6 +170,21 @@ updated: 2026-11-18
 
 ---
 
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Feedback]] | 概念 | 核心机制：形成性评价通过即时针对性反馈弥合当前表现与学业进阶目标之间的鸿沟。 |
+> | [[Learning Intentions]] | 概念 | 前提要素：形成性评价的展开必须以清晰明确的学习意图为导向基准。 |
+> | [[Success Criteria]] | 概念 | 评价参照：向学生明晰达标标准与量规，支持自我评估与同伴反思。 |
+> | [[Higher-Order Thinking Skills]] | 概念 | 培育目标：低利害形成性评价为批判性思维与创造力的多轮试错提供安全探索空间。 |
+> | [[Peer Assessment]] | 概念 | 实施方式：激活学生作为学习资源，通过同伴互评促进元认知反思。 |
+> | [[Constructive Alignment]] | 概念 | 课程对齐：将形成性评价任务与教学目标及深层学习成果实现系统建构性对齐。 |
+> | [[Assessment Tools for Teaching and Learning]] | 工具 | 实践系统：以教师为核心的形成性评价系统，辅助教学诊断与数据反思。 |
+> | [[Formative Program Evaluation]] | 方法 | 概念对照：区分微观课堂教学中的认知评价与宏观教育改革方案的过程性评估。 |
+
 > [!metax-divider]
 
 > [!metax] [形成性评价 · Formative evaluation](https://www.visiblelearningmetax.com/influences/view/formative_evaluation)
@@ -190,21 +205,6 @@ updated: 2026-11-18
 > > | Kingston & Nash (2011) | Efficacy of formative assessment | 13 | 114,480 | 42 | 0.25 |  |
 > > | Chen & Li (2021) | Formative assessment on EFL | 27 | 5,187 | 33 | 0.46 |  |
 > > | Xuan et al. (2022) | Formative assessment | 48 | 116,051 | 48 | 0.19 |  |
-
----
-
-> [!entry-map] 条目关联
->
-> | 条目 | 类型 | 关系 |
-> |:-----|:-----|:-----|
-> | [[Feedback]] | 概念 | 核心机制：形成性评价通过即时针对性反馈弥合当前表现与学业进阶目标之间的鸿沟。 |
-> | [[Learning Intentions]] | 概念 | 前提要素：形成性评价的展开必须以清晰明确的学习意图为导向基准。 |
-> | [[Success Criteria]] | 概念 | 评价参照：向学生明晰达标标准与量规，支持自我评估与同伴反思。 |
-> | [[Higher-Order Thinking Skills]] | 概念 | 培育目标：低利害形成性评价为批判性思维与创造力的多轮试错提供安全探索空间。 |
-> | [[Peer Assessment]] | 概念 | 实施方式：激活学生作为学习资源，通过同伴互评促进元认知反思。 |
-> | [[Constructive Alignment]] | 概念 | 课程对齐：将形成性评价任务与教学目标及深层学习成果实现系统建构性对齐。 |
-> | [[Assessment Tools for Teaching and Learning]] | 工具 | 实践系统：以教师为核心的形成性评价系统，辅助教学诊断与数据反思。 |
-> | [[Formative Program Evaluation]] | 方法 | 概念对照：区分微观课堂教学中的认知评价与宏观教育改革方案的过程性评估。 |
 
 ---
 
