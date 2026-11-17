@@ -2605,8 +2605,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ECNUROE.md",
         "wiki/concepts/competency-and-assessment/Academic Achievement.md",
-        "wiki/concepts/research-methodology/Floor and Ceiling Effects.md",
-        "wiki/concepts/research-methodology/Scale of Measurement.md"
+        "wiki/concepts/research-methodology/Floor and Ceiling Effects.md"
       ],
       "title": ""
     },
@@ -20418,7 +20417,6 @@
         "wiki/arguments/journal-articles/Educational Research and Evaluation/Argument_Simpson_2019_ERE.md",
         "wiki/concepts/educational-policy-reform/Evaluator Independence.md",
         "wiki/concepts/research-methodology/Floor and Ceiling Effects.md",
-        "wiki/concepts/research-methodology/Scale of Measurement.md",
         "wiki/facts/uk/National Pupil Database.md",
         "wiki/persons/china/Alan C. K. Cheung.md"
       ],
@@ -24285,7 +24283,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
-        "wiki/concepts/research-methodology/Scale of Measurement.md",
         "wiki/concepts/research-methodology/Threats to External Validity.md",
         "wiki/concepts/research-methodology/Threats to Internal Validity.md"
       ],
@@ -48998,9 +48995,10 @@
         "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ECNUROE.md",
         "wiki/concepts/competency-and-assessment/Academic Achievement.md",
         "wiki/concepts/research-methodology/Floor and Ceiling Effects.md",
+        "wiki/concepts/research-methodology/Scale of Measurement.md",
         "wiki/facts/uk/Catch Up Numeracy.md"
       ],
-      "title": ""
+      "title": "Improving Mathematics in Key Stages 2 and 3: Guidance Report"
     },
     "Hodgen, 2019": {
       "datasets": [
@@ -57707,7 +57705,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
-        "wiki/concepts/research-methodology/Scale of Measurement.md",
         "wiki/methods/quantitative/Experimental Research.md"
       ],
       "title": ""
@@ -57756,7 +57753,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
-        "wiki/concepts/research-methodology/Scale of Measurement.md",
         "wiki/persons/us/Fred N. Kerlinger.md"
       ],
       "title": ""
@@ -103727,8 +103723,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/research-methodology/Operationalization.md",
-        "wiki/concepts/research-methodology/Scale of Measurement.md"
+        "wiki/concepts/research-methodology/Operationalization.md"
       ],
       "title": ""
     },
@@ -107460,14 +107455,6 @@
       ],
       "title": ""
     },
-    "Thompson, 2006": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/research-methodology/Scale of Measurement.md"
-      ],
-      "title": ""
-    },
     "Thompson, 2007": {
       "datasets": [
         "eef:feedback"
@@ -107571,14 +107558,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "Head start evaluation and research center, teachers college, Columbia University. Annual report (1st), september 1966-august 1967"
-    },
-    "Thorndike, 1997": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/research-methodology/Scale of Measurement.md"
-      ],
-      "title": ""
     },
     "Thorne, 1994": {
       "doi": "",
@@ -112573,8 +112552,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ECNUROE.md",
-        "wiki/concepts/research-methodology/Scale of Measurement.md"
+        "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Edovald_Nevill_2021_ECNUROE.md"
       ],
       "title": ""
     },
@@ -115316,7 +115294,6 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/research-methodology/Scale of Measurement.md",
         "wiki/facts/uk/SPECTRUM.md"
       ],
       "title": ""

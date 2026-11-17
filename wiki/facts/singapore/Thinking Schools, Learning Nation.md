@@ -34,17 +34,17 @@ updated: 2026-11-17
 > - **发布时间 / 发布主体** 1997年6月由新加坡总理吴作栋（Goh Chok Tong）在第七届国际思维大会上正式向全国宣告。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 456)]]
 > - **适用地区 / 对象** 覆盖新加坡全岛所有中小学、初级学院、理工学院及高等学府。
 > - **问题背景** 亚洲金融危机前夕，全球化与知识经济崛起对传统劳动力密集型与死记硬背式技能提出严峻挑战，单一应试教育无法支撑以技术创新和知识生产为驱动的新型经济格局。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 456)]]
-> - **制度位置** 构成了新加坡自独立以来第三个重大教育历史阶段——“能力驱动型教育（Ability-Driven Education, 1997–）”的顶层政策纲领。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 456)]]
+> - **制度位置** 构成了新加坡自独立以来第三个重大教育历史阶段——能力驱动型教育（1997 至今）的顶层政策纲领。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 456)]]
 
 ---
 
 > [!claim] 政策核心
-> 确立“重思考的学校，好学习的国民”（Thinking Schools, Learning Nation, TSLN）愿景，旨在使学校成为发展批判性思维、创新探究与公民价值观的智力摇篮，同时推动全体国民养成超越文凭与应试的持续自主终身学习文化。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 456)]]
+> 确立重思考的学校，好学习的国民（Thinking Schools, Learning Nation, TSLN）愿景，旨在使学校成为发展批判性思维、创新探究与公民价值观的智力摇篮，同时推动全体国民养成超越文凭与应试的持续自主终身学习文化。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 456)]]
 
 > [!policy-design] 政策设计
 > - **政策目标** 转变学生机械被动接受知识的传统学习定势，激发创新创业精神，增强国家认同与社会凝聚力。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 456)]]
 > - **适用对象** 规范全体中小学教师的教学方式，引导校级领导开展课程校本创新，覆盖全体适龄学生与在职公民。
-> - **政策工具** 启动系列信息技术教育总蓝图（Masterplans for ICT in Education）、推行课程精简削减10%–20%内容、设立创新卓越基金、重塑全国国民教育（National Education）框架。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 457)]]
+> - **政策工具** 启动系列信息与通信技术教育总蓝图（Information and Communication Technology, ICT Masterplan）、推行课程精简削减10%–20%内容、设立创新卓越基金、重塑全国国民教育框架。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 457)]]
 > - **约束机制** 实施学校卓越成就模型（School Excellence Model, SEM），将思维技能培养与学校自评、外部督导绩效指标挂钩。
 
 > [!citation-card] 思考型学校与学习型国家战略定位
@@ -56,17 +56,17 @@ updated: 2026-11-17
 
 > [!timeline] 政策时间线
 > - 1997 吴作栋总理正式宣告实施 TSLN，标志着能力驱动型教育正式启动。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 456)]]
-> - 1997 同期发布第一阶段信息技术教育总蓝图（ICT Masterplan 1）与国民教育计划。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 457)]]
-> - 2004–2005 在 TSLN 框架下进一步深化提出“少教多学”（Teach Less, Learn More, TLLM）实践倡议，将改革重心切实压向课堂微观教学重构。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 457)]]
+> - 1997 同期发布第一阶段 ICT Masterplan 与国民教育计划。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 457)]]
+> - 2004–2005 在 TSLN 框架下进一步深化提出少教多学（Teach Less, Learn More, TLLM）实践倡议，将改革重心切实压向课堂微观教学重构。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 457)]]
 
 ---
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 新加坡内阁与教育部（Ministry of Education, MOE），负责全局战略协调与资源调配。
-> - **执行主体** 各级公立中小学、国立教育学院（NIE，负责师资培训与教育研究支持）。
+> - **执行主体** 各级公立中小学、新加坡国立教育学院（National Institute of Education, NIE，负责师资培训与教育研究支持）。
 > - **协同主体** 社区发展理事会、工商业雇主联合会与公共图书馆系统，共同构建终身学习社会生态。
 
 ---
 
 > [!debates] 政策成效与局限
-> 政策在宏观层面确立了先进的现代教育理念与世界级的信息技术基础设施，使新加坡在国际评估界赢得了高度的创新美誉。但在实际课堂落地层面，受制于依然存在的高利害[[Goh Report|小六离校考试]]与严格的学术分流问责，广大一线教师普遍发展出[[Hybrid Pedagogy|混合教学法]]，在形式上整合建构主义策略的同时，依然保持了对应试技巧与学科知识体系的高度控制（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）。
+> 政策在宏观层面确立了先进的现代教育理念与世界级的信息技术基础设施，使新加坡在国际评估界赢得了高度的创新美誉。但在实际课堂落地层面，受制于依然存在的高利害[[Goh Report|小六离校考试]]（Primary School Leaving Examination, PSLE）与严格的学术分流问责，广大一线教师普遍发展出[[Hybrid Pedagogy|混合教学法]]，在形式上整合建构主义策略的同时，依然保持了对应试技巧与学科知识体系的高度控制（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）。

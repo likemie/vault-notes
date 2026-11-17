@@ -29,7 +29,7 @@ updated: 2026-11-17
 ---
 
 > [!def] High-Performing Education Systems
-> 卓越表现教育系统（High-Performing Education Systems, HPES）指在[[International Large-Scale Assessments|国际大规模学业评估]]（特别是经合组织主办的[[PISA|国际学生评估项目]]）排名榜单中持续名列前茅的国家或地区学校系统（如新加坡、芬兰、中国上海、中国香港、韩国与加拿大安大略省）。在比较教育与全球治理文献中，该类系统被跨国智库与咨询机构树立为全球效仿样板，试图提炼出具有普适迁移性的政策处方（Barber & Mourshed, 2007; [[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）。
+> 卓越表现教育系统（High-Performing Education Systems, HPES）指在[[International Large-Scale Assessments|国际大规模学业评估]]（特别是经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）主办的国际学生评估项目（Programme for International Student Assessment, [[PISA]]））排名榜单中持续名列前茅的国家或地区学校系统（如新加坡、芬兰、中国上海、中国香港、韩国与加拿大安大略省）。在比较教育与全球治理文献中，该类系统被跨国智库与咨询机构树立为全球效仿样板，试图提炼出具有普适迁移性的政策处方（Barber & Mourshed, 2007; [[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）。
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指代在国际测评联赛表中表现优异的学校教育系统，以及围绕其成功秘诀建构的政策话语体系。
@@ -42,7 +42,7 @@ updated: 2026-11-17
 > *This paper deals with the influence exerted by the emergence of so-called high-performing education systems (HPES) – a term used to describe education systems that excelled in PISA's league tables in the most recent years.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Educational System]] — 教育系统是客观存在的制度组织总体，HPES则是基于特定量化测试排位筛选出的标杆性话语范畴。
+> - 不等于 [[Educational System]]：教育系统是客观存在的制度组织总体，HPES则是基于特定量化测试排位筛选出的标杆性话语范畴。
 > - 不适用于 评估非量化、非认知领域的教育成效，如社会公平感、多元文化宽容度与公民责任感。
 
 ---

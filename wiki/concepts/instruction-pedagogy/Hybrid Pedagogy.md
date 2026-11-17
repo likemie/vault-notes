@@ -33,17 +33,17 @@ updated: 2026-11-17
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指代在实际课堂中自然演化形成的兼收传统讲授主干与现代互动技术的复合教学规程。
-> - **用途** 帮助研究者突破“满堂灌与探究式”二元对立的理论假设，准确刻画东亚高绩效课堂的真实运作机制。
+> - **用途** 帮助研究者突破满堂灌与探究式二元对立的理论假设，准确刻画东亚高绩效课堂的真实运作机制。
 > - **边界** 限于特定的课堂微观互动与教学组织形态，无法代表宏观课程政策文件中的价值宣示。
 
 > [!citation-card] 混合教学法的双重结构特征
-> 针对新加坡课堂实践特征的研究揭示出一种混合教学法。该教学法重点突出直接教学与传统教学实践，同时较弱程度地兼顾建构主义学习原则。这一适应特定目标的教学规程具有极高成效，直接支撑了新加坡学生在PISA和TIMSS等国际测评中的卓越表现。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 459)]]
+> 针对新加坡课堂实践特征的研究揭示出一种混合教学法。该教学法重点突出直接教学与传统教学实践，同时较弱程度地兼顾建构主义学习原则。这一适应特定目标的教学规程具有极高成效，直接支撑了新加坡学生在国际学生评估项目（Programme for International Student Assessment, PISA）与国际数学与科学趋势研究（Trends in International Mathematics and Science Study, TIMSS）等国际测评中的卓越表现。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 459)]]
 >
 > *What emerges from research on the nature of Singapore's classroom practice is a 'hybrid pedagogy' ... with a strong focus on direct instruction and traditional pedagogical practices and a much weaker focus on constructivist learning principles.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Direct Instruction]] — 直接教学法强调教师主导的严密指导与练习，混合教学法在此基础上吸收了形成性反馈和课堂对话等建构主义局部策略。
-> - 不等于 [[Inquiry-Based Learning]] — 探究式学习以学生自主发现和知识建构为本体，混合教学法中的学生活动始终受制于考试大纲的既定结论。
+> - 不等于 [[Direct Instruction]]：直接教学法强调教师主导的严密指导与练习，混合教学法在此基础上吸收了形成性反馈和课堂对话等建构主义局部策略。
+> - 不等于 [[Inquiry-Based Learning]]：探究式学习以学生自主发现和知识建构为本体，混合教学法中的学生活动始终受制于考试大纲的既定结论。
 
 ---
 
@@ -80,10 +80,10 @@ updated: 2026-11-17
 ---
 
 > [!concept-proposition] 命题一｜混合教学规程在高利害考试与绩效问责制度约束下展现出强大的演化韧性
-> **教学实践对宏观政策修辞的结构性过滤** 新加坡自1997年推行[[Thinking Schools, Learning Nation|思考型学校，学习型国家]]与“少教多学”改革以来，官方大力倡导探究式教学与批判性思维。在大规模课堂录像与调查实证中，一线教师将新型探究理念融入传统讲授框架，转化为巩固应试质量的辅助手段，体现出制度深层逻辑对政策修辞的强大选择性过滤机制。
+> **教学实践对宏观政策修辞的结构性过滤** 新加坡自1997年推行[[Thinking Schools, Learning Nation|思考型学校，学习型国家]]与少教多学改革以来，官方大力倡导探究式教学与批判性思维。在大规模课堂录像与调查实证中，一线教师将新型探究理念融入传统讲授框架，转化为巩固应试质量的辅助手段，体现出制度深层逻辑对政策修辞的强大选择性过滤机制。
 
 > [!claim] Hogan et al. (2013)
-> **多变量分析揭示直接讲授对成就的决定性预测力** 基于新加坡教育研究中心（Centre for Research in Pedagogy and Practice, CRPP）对数千节中小学课堂的多变量分析，直接教学与传统规范训练对学生的学业成绩具有最稳健的正向预测力，而过度发散的开放式教学并未带来可测量的认知收益，从而在微观机制上巩固了混合教学形态的主导地位。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 459)]]
+> **多变量分析揭示直接讲授对成就的决定性预测力** 基于新加坡国立教育学院教育研究中心（Centre for Research in Pedagogy and Practice, CRPP）对数千节中小学课堂的多变量分析，直接教学与传统规范训练对学生的学业成绩具有最稳健的正向预测力，而过度发散的开放式教学并未带来可测量的认知收益，从而在微观机制上巩固了混合教学形态的主导地位。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 459)]]
 
 ---
 

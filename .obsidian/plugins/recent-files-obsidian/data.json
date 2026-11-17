@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch03",
+      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
+    },
+    {
+      "basename": "Goal-Controlled Mode",
+      "path": "wiki/concepts/sociology-of-education/Goal-Controlled Mode.md"
+    },
+    {
+      "basename": "Yajun Zheng",
+      "path": "wiki/persons/china/Yajun Zheng.md"
+    },
+    {
       "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch02",
       "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "template-argument-monograph",
       "path": "wiki/templates/template-argument-monograph.md"
-    },
-    {
-      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch03",
-      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
     },
     {
       "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch04",
@@ -91,10 +99,6 @@
     {
       "basename": "Argument_Kratsios_2026_OSTP",
       "path": "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md"
-    },
-    {
-      "basename": "Yajun Zheng",
-      "path": "wiki/persons/china/Yajun Zheng.md"
     },
     {
       "basename": "John Hattie",
@@ -195,10 +199,6 @@
     {
       "basename": "Hammermeister_2002_Cambridge",
       "path": "books/Hammermeister_2002_Cambridge/Hammermeister_2002_Cambridge.md"
-    },
-    {
-      "basename": "VALIDATION",
-      "path": "file:/Users/shaoyangwu/Documents/zhangyue/VALIDATION.md"
     }
   ],
   "omittedPaths": [],
