@@ -7,10 +7,10 @@ aliases:
 summary: "大学生活组织实践的理想类型模式，指学生在入校后尽早确立清晰生涯目标、洞悉场域显隐规则并策略性调配精力和资本以服务于长远出路的行动图式。"
 type: concept
 domain: "sociology-of-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - goal-controlled-mode
   - higher-education
@@ -157,6 +157,7 @@ updated: 2026-11-17
 
 > [!critique|notitle] 外部批评与理论反思
 > - **过度策略化对纯粹学问的挤压** 批评者指出，目标掌控模式高度依赖实用主义与工具理性，在实践中极易诱发针对绩点的精致计算与挑课套利，可能损害通识教育所追求的纯粹求知精神与学术理想。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 71–73)]]
+> - **工具理性套利与自我探索的受限** 目标掌控模式在机会主义形态下容易演化为纯粹迎合评价机制的功利套利，限制了深度自我审视与自主生活意义建构的探索空间。[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|(郑雅君, 2023, pp. 358–360)]]
 > - **精英大学情境局限** 该概念基于顶尖研究型大学具有丰富出路分化选择的背景提炼，在普通本科或以单一考研、考公为主导的高校中，策略博弈的空间可能受到不同制度制约。
 
 > [!warning|limits] 适用局限
@@ -183,4 +184,4 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 系统提出并操作化目标掌控模式，基于顶尖高校纵向追踪生活史，揭示中学探索、父母安全网、专业选报及文化适应对初始优势的转化机制（参见[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]）；在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]中解剖其在学业精力控制与课外社会性投入上的具体行动策略，阐释选课技巧、顺藤摸瓜与演绎能力对出路排位的决定性影响。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 提出目标掌控模式，解剖初始优势与中学探索（[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]），分析选课与履历积累策略（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]），并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|第六章]]反思其工具理性套利风险与自我探索局限。

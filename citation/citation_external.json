@@ -958,6 +958,8 @@
     "Anthony Biglan, 1973": "Anthony Biglan, 1973",
     "Anthony D. Smith (1995)": "Anthony D. Smith, 1995",
     "Anthony D. Smith, 1995": "Anthony D. Smith, 1995",
+    "Anthony Hesketh (2004)": "Anthony Hesketh, 2004",
+    "Anthony Hesketh, 2004": "Anthony Hesketh, 2004",
     "Anthony Jack (2019)": "Anthony Jack, 2019",
     "Anthony Jack, 2019": "Anthony Jack, 2019",
     "Anthony, 2016": "Anthony, 2016",
@@ -35141,6 +35143,22 @@
       ],
       "title": ""
     },
+    "Anthony Hesketh, 2004": {
+      "aliases": [
+        "Anthony Hesketh, 2004",
+        "Anthony Hesketh (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Anthony Hesketh, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Narrative Capital.md",
+        "wiki/concepts/higher-education/Performance Capital.md"
+      ],
+      "title": ""
+    },
     "Anthony Jack, 2019": {
       "aliases": [
         "Anthony Jack, 2019",
@@ -45650,7 +45668,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02.md",
-        "wiki/concepts/educational-philosophy/Anthropomorphic Model.md"
+        "wiki/concepts/educational-philosophy/Anthropomorphic Model.md",
+        "wiki/concepts/sociology-of-education/Cultural Code.md"
       ],
       "title": ""
     },
@@ -50537,6 +50556,7 @@
       "isbn": "9780745605999",
       "seen_in": [
         "wiki/concepts/sociology-of-education/Champ.md",
+        "wiki/concepts/sociology-of-education/Habitus Transformation.md",
         "wiki/concepts/sociology-of-education/Sense of the Game.md"
       ],
       "title": "The Logic of Practice"
@@ -52895,6 +52915,8 @@
         "wiki/concepts/competency-and-assessment/Academic Achievement.md",
         "wiki/concepts/higher-education/Economy of Experience.md",
         "wiki/concepts/higher-education/Employability.md",
+        "wiki/concepts/higher-education/Narrative Capital.md",
+        "wiki/concepts/higher-education/Performance Capital.md",
         "wiki/concepts/higher-education/Social Engagement.md",
         "wiki/concepts/political-economy-geopolitics/Knowledge-Based Economy.md",
         "wiki/concepts/sociology-of-education/Credential Inflation.md",
@@ -199910,6 +199932,7 @@
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md",
         "wiki/concepts/higher-education/Social Engagement.md",
+        "wiki/concepts/sociology-of-education/Habitus Transformation.md",
         "wiki/concepts/sociology-of-education/Habitus.md",
         "wiki/concepts/sociology-of-education/Intuition-Dependent Mode.md",
         "wiki/theories/sociology-of-education/Four Functions of Higher Education Framework.md"

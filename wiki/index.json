@@ -11002,6 +11002,16 @@
     ]
   },
   {
+    "title": "Narrative Capital",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Narrative Capital.md",
+    "aliases": [
+      "叙事资本",
+      "经历叙事资本",
+      "履历叙事能力"
+    ]
+  },
+  {
     "title": "Near-field Interdisciplinarity",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Near-field Interdisciplinarity.md",
@@ -11068,6 +11078,16 @@
       "同伴指导",
       "近同伴导师制",
       "near-peer mentoring"
+    ]
+  },
+  {
+    "title": "Performance Capital",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Performance Capital.md",
+    "aliases": [
+      "表现性资本",
+      "演绎资本",
+      "自我表现资本"
     ]
   },
   {
@@ -19956,6 +19976,16 @@
     ]
   },
   {
+    "title": "Cultural Code",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Cultural Code.md",
+    "aliases": [
+      "文化语码",
+      "文化代码",
+      "阶层语码"
+    ]
+  },
+  {
     "title": "Cultural Defense Strategies",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Cultural Defense Strategies.md",
@@ -20290,6 +20320,18 @@
       "习性滞后",
       "滞后效应",
       "hysteresis effect"
+    ]
+  },
+  {
+    "title": "Habitus Transformation",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Habitus Transformation.md",
+    "aliases": [
+      "习性转换",
+      "习性重塑",
+      "惯习转变",
+      "习性调适",
+      "Habitus Conversion"
     ]
   },
   {
