@@ -108,7 +108,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-11-17
+updated: 2026-11-18
 ---
 
 ---
@@ -354,4 +354,5 @@ updated: 2026-11-17
 > - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 历史实证考证芬兰保留教师主导直接教学对国际测验高分的因果贡献，揭示转向学生中心探究法诱发学业滑坡（pp. 38–48, 58–62）。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统审计 Hattie 直接教学元分析汇总，揭露 Haas (2005) [[Standard Error|标准误]]伪造导致权重缩水 53.5% 的计算缺陷，并提出[[Category Mistake|德甲联赛隐喻]]论证全学年直接教学与瞬时实验的[[Incommensurability|不可通约性]]。
 > - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 结合新加坡实证课堂研究（CRPP 数据；Hogan et al., 2013; Hogan, 2014），确证直接讲授在大纲知识覆盖与应试解题中的支柱功能，揭示以直接教学为主干的混合规程造就高绩效系统国际测验高分的机理。
+> - Hogan et al. (2013) — 运用高阶因子分析确立直接教学由示范、复习、内容结构化、提问与反馈构成的测量结构，并证明其作为传统与理解策略间因果中介的作用。
 

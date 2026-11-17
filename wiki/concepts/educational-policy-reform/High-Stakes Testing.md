@@ -54,7 +54,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-07-25
-updated: 2026-11-15
+updated: 2026-11-18
 ---
 
 ---
@@ -116,6 +116,9 @@ updated: 2026-11-15
 > [!claim] Haladyna et al. (1991); Harlen (1994)
 > **回冲扭曲与弱势排斥效应** 托马斯·哈拉迪纳等（Thomas Haladyna et al., 1991）与韦恩·哈伦（Wynne Harlen, 1994）揭示，在高利害总结性评价体制下，测验不仅支配课程，更催生极端的防御性策略。
 > 为防止学校整体[[Performance Indicators|绩效指标]]下滑，管理者在公开问责压力下往往产生故意劝阻、隐瞒或禁止学业低表现学生、残障学生及边缘群体参与正式测验的制度性冲动。这证明高利害环境的根本问题在于其激励结构系统性惩罚真实教学，诱发以分数粉饰为导向的制度性排斥。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|(Ch24, 24.8 节)]]
+
+> [!claim] [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]]
+> **制度性权威与微观教学规程锁定效应** 新加坡中学实证表明，全国高利害统一考试（小六会考与剑桥 O 水准考试）对课堂教学施加绝对的制度性权威；教师即使认同少教多学与理解性教学改革愿景，在应试升学与家长期待约束下，依然被迫将教学牢固锚定在大纲内容全覆盖、教材刷题和重复演练上，导致探究性研讨与个性化反馈被系统性边缘化，阻碍了教学范式向以学习者为中心的实质性转型。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 58–60, 98–101)]]
 
 ---
 
@@ -183,3 +186,4 @@ updated: 2026-11-15
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] — 结合 Learned et al. (2020) 与 Davies (2022)，深入剖析高利害测验驱动公式化套路写作、促成[[Computerization of Education|教育计算机化]]，并与生成式 AI 协同诱发[[Formative Epistemic Injustice|成长性认识不正义]]的哲学机理。
 > - [[Argument_Yang_2023_ICE|杨明全和邓丽 (2023)]] — 结合芬兰考试少成绩好的微观悖论，探讨以形成性反馈和师生信任为主导的支持性评价文化对高利害测验外部问责与纪律管制的超越（pp. 6, 8）。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对系统改进实证文献开展质性综合，指出新公共管理将高利害测验作为核心问责工具，易催生应试导向与校际分化，背离全人发展目标。
+> - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 实证揭示新加坡全国统一高利害考试对中学课堂施加的制度性权威，证明其将教学实践规锁于大纲覆盖与机械操练。

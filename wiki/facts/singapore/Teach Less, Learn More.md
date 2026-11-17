@@ -91,4 +91,4 @@ updated: 2026-11-18
 ---
 
 > [!debates] 政策成效与局限
-> 政策向基层学校注入了前所未有的物质与人力资源，推动了合作学习、专题研究等探究性教学实验，营造了更为宽松的校园创新文化。然而，该改革在学校微观落地时面临根深蒂固的体制性约束：面对[[Goh Report|小六离校考试]]（Primary School Leaving Examination, PSLE）与剑桥普通水准（General Certificate of Education Ordinary Level, O-Level）及高级水准（General Certificate of Education Advanced Level, A-Level）等高利害升学淘汰关口，家长与教师的安全感依然绑定在考试分数上。许多教师并未能在根本上重构教学认识论，而是将思维技能转化为形式化的应对技巧（technique-oriented view of creativity），在维持原有高密度直接教学的主体框架下附加零散的改革环节。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 67–68)]]
+> 政策向基层学校注入了前所未有的物质与人力资源，推动了合作学习、专题研究等探究性教学实验，营造了更为宽松的校园创新文化。然而，该改革在学校微观落地时面临根深蒂固的体制性约束：面对[[Goh Report|小六离校考试]]（Primary School Leaving Examination, PSLE）与剑桥普通水准（General Certificate of Education Ordinary Level, O-Level）及高级水准（General Certificate of Education Advanced Level, A-Level）等高利害升学淘汰关口，家长与教师的安全感依然绑定在考试分数上。多数一线教师倾向于将思维技能转化为形式化的应对技巧（technique-oriented view of creativity），在维持原有高密度直接教学的主体框架下附加零散的改革环节，使教学法深层认识论依然受制于应试逻辑。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 67–68)]]
