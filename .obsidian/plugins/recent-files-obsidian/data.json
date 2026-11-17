@@ -5,8 +5,16 @@
       "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
     },
     {
+      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch03",
+      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
+    },
+    {
       "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch01",
       "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
+    },
+    {
+      "basename": "Argument_Zheng_2023_ShanghaiSanlian",
+      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian.md"
     },
     {
       "basename": "template-argument",
@@ -23,10 +31,6 @@
     {
       "basename": "Path Dependence",
       "path": "wiki/theories/political-economy-geopolitics/Path Dependence.md"
-    },
-    {
-      "basename": "Argument_Zheng_2023_ShanghaiSanlian",
-      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian.md"
     },
     {
       "basename": "Binary Logistic Regression",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Bang_2025_ClinicalTrials",
       "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Bang_2025_ClinicalTrials.md"
-    },
-    {
-      "basename": "Argument_Darwish_2009_Queens",
-      "path": "wiki/arguments/books/Darwish_2009_Queens/Argument_Darwish_2009_Queens.md"
     }
   ],
   "omittedPaths": [],

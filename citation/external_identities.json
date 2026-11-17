@@ -4730,6 +4730,14 @@
       "seen_in": [],
       "title": "The integration of creative drama into science teaching"
     },
+    "Aries & Seider, 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
+      ],
+      "title": ""
+    },
     "Arili et al., 2024": {
       "datasets": [
         "metax:S0093"
@@ -4821,7 +4829,9 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
+        "wiki/theories/sociology-of-education/Four Functions of Higher Education Framework.md"
       ],
       "title": ""
     },
@@ -11613,7 +11623,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
+        "wiki/theories/sociology-of-education/Four Functions of Higher Education Framework.md"
       ],
       "title": ""
     },
@@ -13272,6 +13283,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/concepts/comparative-education/Methodological Individualism.md"
       ],
       "title": ""
@@ -13301,6 +13313,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/concepts/sociology-of-education/Champ.md",
         "wiki/concepts/sociology-of-education/The Shock of the Elite.md"
       ],
@@ -53564,6 +53577,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/concepts/sociology-of-education/Cultural Disorientation.md"
       ],
       "title": ""
@@ -88539,6 +88553,14 @@
       ],
       "title": ""
     },
+    "Reay, 2001": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
+      ],
+      "title": ""
+    },
     "Reay, 2004": {
       "doi": "",
       "isbn": "",
@@ -103214,7 +103236,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
-        "wiki/concepts/sociology-of-education/Habitus.md"
+        "wiki/concepts/sociology-of-education/Habitus.md",
+        "wiki/theories/sociology-of-education/Four Functions of Higher Education Framework.md"
       ],
       "title": "Sieve, Incubator, Temple, Hub: Empirical and Theoretical Advances in the Sociology of Higher Education"
     },
@@ -121541,6 +121564,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md"
+      ],
+      "title": ""
+    },
+    "廖青, 2019": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
       ],
       "title": ""
     },
