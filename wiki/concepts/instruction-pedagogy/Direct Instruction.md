@@ -177,8 +177,8 @@ updated: 2026-11-17
 > [!claim] Sweller, J., & Kirschner, P. A.
 > **[[Cognitive Load Theory\|认知负荷理论]]对显性直接指导的辩护** 初学者在面对新领域时缺乏长时记忆中的知识图式（Schemata）。若采用未加指导的自由探索，有限的工作记忆会瞬间被盲目搜寻的外在负荷挤爆；直接教学通过“专家示范 + 样例解析 + 指导练习”，将外部认知负荷降至最低，使认知资源完全聚焦于图式建构与技能自动化。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 1–2)]]
 
-> [!claim] [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]]; Hogan (2014)
-> **高绩效系统中的基础性主干规程与学术高分预测力** 新加坡实证[[Lesson Study|课堂研究]]表明（CRPP 数据；Hogan et al., 2013; Hogan, 2014），在东亚[[High-Performing Education Systems|高绩效教育系统]]中，以全班直接讲授（Direct Instruction）、大纲知识点全覆盖与标准化应试操练为主干的教学规程，持续构成预测学生学术成就的最强且最稳健力量。直接讲授为严密审题算法与逻辑推演奠定了扎实认知基础，使学生在 [[PISA]] 与 [[TIMSS]] 等纸笔测评中稳定输出优异战绩。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 458–460)]]
+> [!claim] [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]]; [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]]
+> **高绩效系统中的主干规程与因果中介中枢** 新加坡中学课堂大规模实证表明，直接教学由示范、复习、新内容结构化、提问和反馈五项行为构成，在数学与英语课中均保持高频实施（均分 3.67 与 3.61）；结构方程模型证实直接教学是连接传统讲授与高阶理解性教学的必要中介中枢（相关度 .68 至 .75），构成了维系高水平学术成就的基石规程。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 69–73, 90–93)]]; [[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 458–460)]]
 
 ---
 
