@@ -108,7 +108,7 @@ updated: 2026-11-15
 > 1. **哲学层面（古典哲学传统）** 首先起源于 Peirce、James、Mead 与 [[John Dewey|杜威]]，是一门关于经验连续性、[[Reflexivity|反思性]]探究、行动后果与民主重组的古典哲学体系，拒绝绝对形而上学与脱离情境的确定性真理。
 > 2. **方法论层次（研究方法论范式）** 随后由 Cherryholmes (1992)、Morgan (2007)、Denscombe (2008)、[[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] 与 [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] 等学者拓展，专指[[Mixed Methods Research|混合方法研究]]的哲学基础，主张以[[Research Question|研究问题]]为中心、以[[Fitness for Purpose|适合目的]]与实践效用为取向，超越纯量化与纯质性的范式对立。
 
-> [!concept-lens] 概念透镜（双层演进脉络）
+> [!concept-lens|notitle] 概念透镜
 > - **第一部分：哲学层面（杜威等）** 先完整回答[[Epistemology|认识论]]与探究论问题，将真理定义为情境行动中经受检验的有效后果与“担保性断言”，强调渐进实验与试错。
 > - **第二部分：方法论层次（Creswell/Morgan et al.）** 再延伸解答研究设计与技术选择自由，打破库恩[[Incommensurability|范式不可通约性]]（Incommensurability）迷信，为整合量化与质性数据提供合法性。
 > - **边界** 实用主义有别于无原则的“怎么都行”（Anything Goes）；它在哲学层面受限于历史社会情境，在方法论层面要求严格服务于回答研究问题。
@@ -130,7 +130,7 @@ updated: 2026-11-15
 
 ---
 
-> [!contrast-table] 从哲学层面到方法论层次的比较
+> [!contrast-table|notitle] 从哲学层面到方法论层次的比较
 > | 比较维度 | 哲学层面：古典哲学传统（Philosophical Pragmatism） | 方法论层次：研究方法论[[Paradigm\|范式]]（Methodological Pragmatism） |
 > |:---|:---|:---|
 > | **代表人物** | C. S. Peirce, William James, [[John Dewey\|杜威]] | Cherryholmes, Morgan, Denscombe, [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] |
@@ -139,7 +139,7 @@ updated: 2026-11-15
 > | **范式态度** | 批判绝对形而上学与二元对立 | 超越[[Positivism\|实证]]与[[Constructivist Paradigm\|建构主义]]的教条对立，主张[[Fitness for Purpose\|适合目的]] |
 > | **应用领域** | 哲学、政治哲学、教育哲学、社会学 | [[Mixed Methods Research\|混合方法研究]]、评估研究、教育研究设计 |
 
-> [!contrast-table] 实用主义范式与其他研究范式的对比
+> [!contrast-table|notitle] 实用主义范式与其他研究范式的对比
 > | 维度 | [[Pragmatic Paradigm\|实用主义范式]] | [[Positivism\|实证主义]] | [[Postpositivism\|后实证主义]] | [[Constructivist Paradigm\|建构主义范式]] |
 > |:---|:---|:---|:---|:---|
 > | **分析对象** | 问题解答与行动后果 | 客观法则与因果规律 | 独立于主体的假设理论 | 参与者的主观经验与社会建构 |
@@ -149,18 +149,10 @@ updated: 2026-11-15
 
 ---
 
-## 核心要素
-
-### 第一部分：哲学层面核心要素（古典哲学传统）
-
-> [!feature] 哲学层面要素
+> [!feature|notitle] 核心要素
 > - **行动后果与担保性断言（Action Consequences）** 知识的价值在于行动产生的实际后果与可修正的假设（Peirce, James, Dewey），有别于对抽象实在的静止再现。
 > - **经验连续性与[[Reflexivity|反思性]]探究** 将经验理解为人与环境的互动交易，探究是消除怀疑、重构情境的连续动作（Dewey, 1916）。
 > - **渐进[[Pragmatism in China|实验主义]]（Piecemeal Experimentalism）** 反对一步到位的激进重构，主张社会与教育重组只能“零碎地完成，一步一个脚印”（Dewey [1916] 2018, pp. 146–147）。
-
-### 第二部分：方法论层次核心要素（研究方法论范式）
-
-> [!feature] 方法论层次要素
 > - **[[Research Question|研究问题]]驱动** 放弃量化与质性优劣的纯哲学争论，直接判断研究是否成功回答了想了解的问题（Feilzer, 2010, p. 14）。
 > - **[[Fitness for Purpose|适合目的]]与技术自由** 基于问题需求自由组合最合适的数据收集与分析程序（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
 > - **[[Communities of Practice|实践共同体]]（Community of Practice）** 从库恩[[Paradigm|范式]]论出发，将[[Mixed Methods Research|混合方法研究]]者理解为由共同实用主义标准凝聚的学术共同体（Denscombe, 2008）。
