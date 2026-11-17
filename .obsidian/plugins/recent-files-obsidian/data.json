@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
     },
     {
+      "basename": "Goh Report",
+      "path": "wiki/facts/singapore/Goh Report.md"
+    },
+    {
       "basename": "template-argument",
       "path": "wiki/templates/template-argument.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Employability",
       "path": "wiki/concepts/higher-education/Employability.md"
-    },
-    {
-      "basename": "Bibliometric Analysis",
-      "path": "wiki/methods/quantitative/Bibliometric Analysis.md"
     }
   ],
   "omittedPaths": [],
