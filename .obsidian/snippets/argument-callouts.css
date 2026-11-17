@@ -29631,3 +29631,166 @@ body .callout.callout.callout .callout.callout.callout:is([data-callout="likert-
     linear-gradient(135deg, rgba(var(--callout-color), 0.12), transparent 48%),
     var(--background-primary);
 }
+
+/* ═══════════════════════════════════════════════════════════
+   OPTION-POOL / WORD-BANK — 问卷备选词库与选项卡片池
+   专用于问卷、量表与心理测试中供多题复用的备选词组、语义丛、选项池
+   自动支持两列/三列卡片网格（List）与紧凑型选项表格（Table）双模式
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="option-pool"],
+.callout[data-callout="word-bank"],
+.callout[data-callout="choice-pool"] {
+  --callout-color: 98, 92, 136;
+  --callout-icon: lucide-layout-grid;
+  position: relative;
+  border: 1px solid rgba(var(--callout-color), 0.22);
+  border-left: 4.5px solid rgb(var(--callout-color));
+  border-radius: 9px;
+  background:
+    linear-gradient(135deg, rgba(var(--callout-color), 0.07), transparent 45%),
+    var(--background-primary);
+  box-shadow: 0 4px 16px rgba(var(--callout-color), 0.06);
+  margin: 0.9rem 0;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.callout:is([data-callout="option-pool"], [data-callout="word-bank"], [data-callout="choice-pool"]):hover {
+  border-color: rgba(var(--callout-color), 0.36);
+  box-shadow: 0 8px 24px rgba(var(--callout-color), 0.10);
+}
+
+.callout:is([data-callout="option-pool"], [data-callout="word-bank"], [data-callout="choice-pool"]) > .callout-title {
+  color: rgb(var(--callout-color));
+  font-weight: 720;
+  letter-spacing: 0.015em;
+}
+
+.callout:is([data-callout="option-pool"], [data-callout="word-bank"], [data-callout="choice-pool"]) > .callout-title .callout-title-inner::before {
+  content: "WORD BANK";
+  display: inline-block;
+  margin-right: 0.52rem;
+  padding: 1px 7px;
+  border: 1px solid rgba(var(--callout-color), 0.22);
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.12);
+  color: rgb(var(--callout-color));
+  font-size: var(--fs-label);
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+/* 模式一：网格卡片流（当内容为无序列表 ul 时自动渲染为自适应多列备选卡片） */
+.callout:is([data-callout="option-pool"], [data-callout="word-bank"], [data-callout="choice-pool"]) > .callout-content > ul {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)) !important;
+  gap: 0.6rem !important;
+  padding: 0 !important;
+  margin: 0.4rem 0 !important;
+  list-style: none !important;
+}
+
+.callout:is([data-callout="option-pool"], [data-callout="word-bank"], [data-callout="choice-pool"]) > .callout-content > ul > li {
+  position: relative !important;
+  margin: 0 !important;
+  padding: 0.55rem 0.8rem !important;
+  border: 1px solid rgba(var(--callout-color), 0.18) !important;
+  border-left: 3.5px solid rgb(var(--callout-color)) !important;
+  border-radius: 6px !important;
+  background: var(--ac-raised, rgba(var(--callout-color), 0.03)) !important;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.02) !important;
+  font-size: 0.88rem !important;
+  line-height: 1.45 !important;
+  transition: transform 0.15s ease, border-color 0.15s ease, background 0.15s ease !important;
+}
+
+.callout:is([data-callout="option-pool"], [data-callout="word-bank"], [data-callout="choice-pool"]) > .callout-content > ul > li:hover {
+  transform: translateY(-1.5px) !important;
+  border-color: rgb(var(--callout-color)) !important;
+  background: rgba(var(--callout-color), 0.08) !important;
+}
+
+.callout:is([data-callout="option-pool"], [data-callout="word-bank"], [data-callout="choice-pool"]) > .callout-content > ul > li > strong {
+  display: block !important;
+  color: var(--text-normal) !important;
+  font-size: 0.92rem !important;
+  margin-bottom: 0.15rem !important;
+}
+
+.callout:is([data-callout="option-pool"], [data-callout="word-bank"], [data-callout="choice-pool"]) > .callout-content > ul > li > em {
+  display: block !important;
+  color: var(--text-muted) !important;
+  font-size: 0.80rem !important;
+  font-style: normal !important;
+}
+
+/* 模式二：备选表格流（当内容为表格时自动进行量表选项池紧凑化排版） */
+.callout:is([data-callout="option-pool"], [data-callout="word-bank"], [data-callout="choice-pool"]) table {
+  width: 100% !important;
+  table-layout: fixed !important;
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  border: 1px solid rgba(var(--callout-color), 0.18) !important;
+  border-radius: 7px !important;
+  overflow: hidden !important;
+  margin: 0.35rem 0 !important;
+  background: var(--ac-raised) !important;
+}
+
+.callout:is([data-callout="option-pool"], [data-callout="word-bank"], [data-callout="choice-pool"]) th {
+  background: rgba(var(--callout-color), 0.10) !important;
+  color: rgb(var(--callout-color)) !important;
+  font-size: 0.84rem !important;
+  font-weight: 700 !important;
+  padding: 0.4rem 0.65rem !important;
+  border-bottom: 1.5px solid rgba(var(--callout-color), 0.20) !important;
+}
+
+.callout:is([data-callout="option-pool"], [data-callout="word-bank"], [data-callout="choice-pool"]) td {
+  padding: 0.42rem 0.65rem !important;
+  font-size: 0.87rem !important;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.08) !important;
+  line-height: 1.45 !important;
+}
+
+.callout:is([data-callout="option-pool"], [data-callout="word-bank"], [data-callout="choice-pool"]) tr:last-child td {
+  border-bottom: none !important;
+}
+
+/* 表格列宽与对齐锁死：第1列序号居中紧凑，第2列词组加粗，第3列内涵指涉柔和 */
+.callout:is([data-callout="option-pool"], [data-callout="word-bank"], [data-callout="choice-pool"]) th:first-child,
+.callout:is([data-callout="option-pool"], [data-callout="word-bank"], [data-callout="choice-pool"]) td:first-child {
+  width: 10% !important;
+  text-align: center !important;
+  font-weight: 720 !important;
+  color: rgb(var(--callout-color)) !important;
+  border-right: 1px solid rgba(128, 128, 128, 0.10) !important;
+}
+
+.callout:is([data-callout="option-pool"], [data-callout="word-bank"], [data-callout="choice-pool"]) th:nth-child(2),
+.callout:is([data-callout="option-pool"], [data-callout="word-bank"], [data-callout="choice-pool"]) td:nth-child(2) {
+  width: 45% !important;
+  font-weight: 650 !important;
+  color: var(--text-normal) !important;
+  border-right: 1px solid rgba(128, 128, 128, 0.10) !important;
+}
+
+.callout:is([data-callout="option-pool"], [data-callout="word-bank"], [data-callout="choice-pool"]) th:nth-child(3),
+.callout:is([data-callout="option-pool"], [data-callout="word-bank"], [data-callout="choice-pool"]) td:nth-child(3) {
+  width: 45% !important;
+  color: var(--text-muted) !important;
+  font-size: 0.84rem !important;
+}
+
+.callout:is([data-callout="option-pool"], [data-callout="word-bank"], [data-callout="choice-pool"]) tbody tr:hover td {
+  background: rgba(var(--callout-color), 0.05) !important;
+}
+
+.theme-dark .callout[data-callout="option-pool"],
+.theme-dark .callout[data-callout="word-bank"],
+.theme-dark .callout[data-callout="choice-pool"] {
+  background:
+    linear-gradient(135deg, rgba(var(--callout-color), 0.11), transparent 46%),
+    var(--background-primary);
+}

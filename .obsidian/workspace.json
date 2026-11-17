@@ -113,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -329,14 +329,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "d8039914fdb2fe9c",
+  "active": "96c685dea1ff308e",
   "lastOpenFiles": [
+    "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch06-acd57156/batch-010/result.json",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch06-acd57156/batch-009/result.json",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch06-acd57156/batch-008/result.json",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch06-acd57156/batch-007/result.json",
     "wiki/concepts/educational-philosophy/Veil of Maya.md",
-    "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md",
     "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md",
     "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
     "wiki/templates/template-person.md",
@@ -366,7 +366,6 @@
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch06-acd57156/batch-003/result.json",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch06-acd57156/batch-002/result.json",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch06-acd57156/batch-001/result.json",
-    "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch06-acd57156/batch-010/batch-result.schema.json",
     "books/Zheng_2023_ShanghaiSanlian/figures/Table_06_Pathways.jpg",
     "books/Zheng_2023_ShanghaiSanlian/figures/Table_05_Subgroups.jpg",
     "books/Zheng_2023_ShanghaiSanlian/figures/Figure_05_04_Four_Types.jpg",
