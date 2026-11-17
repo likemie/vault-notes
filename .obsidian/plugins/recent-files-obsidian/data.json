@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
     },
     {
+      "basename": "Confucian Heritage Cultures",
+      "path": "wiki/concepts/comparative-education/Confucian Heritage Cultures.md"
+    },
+    {
       "basename": "Goh Report",
       "path": "wiki/facts/singapore/Goh Report.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "China College Graduate Employment Reform",
       "path": "wiki/facts/china/China College Graduate Employment Reform.md"
-    },
-    {
-      "basename": "Employability",
-      "path": "wiki/concepts/higher-education/Employability.md"
     }
   ],
   "omittedPaths": [],
