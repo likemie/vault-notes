@@ -1240,7 +1240,9 @@
     "Astill et al. (2012)": "Astill et al., 2012",
     "Astill et al., 2012": "Astill et al., 2012",
     "Astin (1984)": "Astin, 1984",
+    "Astin (1993)": "Astin, 1993",
     "Astin, 1984": "Astin, 1984",
+    "Astin, 1993": "Astin, 1993",
     "Atash & Dawson (1986)": "Atash & Dawson, 1986",
     "Atash & Dawson, 1986": "Atash & Dawson, 1986",
     "Ates & Ünal (2021)": "Ates & Ünal, 2021",
@@ -2310,6 +2312,8 @@
     "Bergeron (2017)": "Bergeron, 2017",
     "Bergeron, 2016": "Bergeron, 2016",
     "Bergeron, 2017": "Bergeron, 2017",
+    "Bergerson (2007)": "Bergerson, 2007",
+    "Bergerson, 2007": "Bergerson, 2007",
     "Bergman (2018)": "Bergman, 2018",
     "Bergman, 2018": "Bergman, 2018",
     "Bergmark (2022)": "Bergmark, 2022",
@@ -3027,6 +3031,7 @@
     "Bourdieu (1998)": "Bourdieu, 1998",
     "Bourdieu (1999)": "Bourdieu, 1999",
     "Bourdieu (2003)": "Bourdieu, 2003",
+    "Bourdieu (2012)": "Bourdieu, 2012",
     "Bourdieu et al. (1999)": "Bourdieu et al., 1999",
     "Bourdieu et al., 1999": "Bourdieu et al., 1999",
     "Bourdieu, 1977": "Bourdieu, 1977",
@@ -3038,6 +3043,7 @@
     "Bourdieu, 1998": "Bourdieu, 1998",
     "Bourdieu, 1999": "Bourdieu, 1999",
     "Bourdieu, 2003": "Bourdieu, 2003",
+    "Bourdieu, 2012": "Bourdieu, 2012",
     "Bourhis & Allen (1992)": "Bourhis & Allen, 1992",
     "Bourhis & Allen, 1992": "Bourhis & Allen, 1992",
     "Bourke (2018)": "Bourke, 2018",
@@ -3384,12 +3390,14 @@
     "Brown (2017)": "Brown, 2017",
     "Brown (2018)": "Brown, 2018",
     "Brown et al. (1997)": "Brown et al., 1997",
+    "Brown et al. (2003)": "Brown et al., 2003",
     "Brown et al. (2013)": "Brown et al., 2013",
     "Brown et al. (2018)": "Brown et al., 2018",
     "Brown et al. (2021)": "Brown et al., 2021",
     "Brown et al. (2022a)": "Brown et al., 2022a",
     "Brown et al. (2022b)": "Brown et al., 2022b",
     "Brown et al., 1997": "Brown et al., 1997",
+    "Brown et al., 2003": "Brown et al., 2003",
     "Brown et al., 2013": "Brown et al., 2013",
     "Brown et al., 2018": "Brown et al., 2018",
     "Brown et al., 2021": "Brown et al., 2021",
@@ -23682,7 +23690,9 @@
     "Stuart Kauffman, 1995": "Stuart Kauffman, 1995",
     "Stubbs & Delamont (1976)": "Stubbs & Delamont, 1976",
     "Stubbs & Delamont, 1976": "Stubbs & Delamont, 1976",
+    "Stuber (2009)": "Stuber, 2009",
     "Stuber (2011)": "Stuber, 2011",
+    "Stuber, 2009": "Stuber, 2009",
     "Stuber, 2011": "Stuber, 2011",
     "Stubits (2005)": "Stubits, 2005",
     "Stubits, 2005": "Stubits, 2005",
@@ -37200,6 +37210,19 @@
       ],
       "title": ""
     },
+    "Astin, 1993": {
+      "aliases": [
+        "Astin, 1993",
+        "Astin (1993)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Astin, 1993"
+      ],
+      "isbn": "9781555425159",
+      "seen_in": [],
+      "title": "What Matters in College: Four Critical Years Revisited"
+    },
     "Atash & Dawson, 1986": {
       "aliases": [
         "Atash & Dawson, 1986",
@@ -45071,6 +45094,19 @@
       ],
       "title": ""
     },
+    "Bergerson, 2007": {
+      "aliases": [
+        "Bergerson, 2007",
+        "Bergerson (2007)"
+      ],
+      "doi": "10.1080/09518390600923875",
+      "identity_keys": [
+        "Bergerson, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Exploring the Impact of Social Class on Adjustment to College: Anna's Story"
+    },
     "Bergman, 2018": {
       "aliases": [
         "Bergman, 2018",
@@ -50478,6 +50514,19 @@
       ],
       "title": ""
     },
+    "Bourdieu, 2012": {
+      "aliases": [
+        "Bourdieu, 2012",
+        "Bourdieu (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bourdieu, 2012"
+      ],
+      "isbn": "9787544728553",
+      "seen_in": [],
+      "title": "实践感"
+    },
     "Bourhis & Allen, 1992": {
       "aliases": [
         "Bourhis & Allen, 1992",
@@ -52758,17 +52807,17 @@
         "Brown & Hesketh, 2004",
         "Brown & Hesketh (2004)"
       ],
-      "doi": "",
+      "doi": "10.1093/acprof:oso/9780199269549.001.0001",
       "identity_keys": [
         "Brown & Hesketh, 2004"
       ],
-      "isbn": "",
+      "isbn": "9780199269549",
       "seen_in": [
         "wiki/concepts/higher-education/Economy of Experience.md",
         "wiki/concepts/higher-education/Employability.md",
         "wiki/concepts/sociology-of-education/Credential Inflation.md"
       ],
-      "title": ""
+      "title": "The Mismanagement of Talent: Employability and Jobs in the Knowledge Economy"
     },
     "Brown & Kim, 2021": {
       "aliases": [
@@ -52940,6 +52989,19 @@
         "wiki/concepts/university-industry-collaboration/Competitiveness.md"
       ],
       "title": ""
+    },
+    "Brown et al., 2003": {
+      "aliases": [
+        "Brown et al., 2003",
+        "Brown et al. (2003)"
+      ],
+      "doi": "10.1080/1363908032000070648",
+      "identity_keys": [
+        "Brown et al., 2003"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Employability in a Knowledge-Driven Economy"
     },
     "Brown et al., 2013": {
       "aliases": [
@@ -128871,11 +128933,11 @@
       "identity_keys": [
         "Kuh et al., 1991"
       ],
-      "isbn": "",
+      "isbn": "9781555423704",
       "seen_in": [
         "wiki/concepts/higher-education/Student Engagement.md"
       ],
-      "title": ""
+      "title": "Involving Colleges: Successful Approaches to Fostering Student Learning and Development outside the Classroom"
     },
     "Kuh et al., 2008": {
       "aliases": [
@@ -169882,7 +169944,7 @@
         "Pike & Kuh, 2005",
         "Pike & Kuh (2005)"
       ],
-      "doi": "",
+      "doi": "10.1353/jhe.2005.0021",
       "identity_keys": [
         "Pike & Kuh, 2005"
       ],
@@ -169891,7 +169953,7 @@
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/concepts/higher-education/Academic and Social Integration.md"
       ],
-      "title": ""
+      "title": "First-and Second-Generation College Students: A Comparison of Their Engagement and Intellectual Development"
     },
     "Pike, 1954": {
       "aliases": [
@@ -188412,14 +188474,14 @@
       "identity_keys": [
         "Schweisfurth, 2013"
       ],
-      "isbn": "",
+      "isbn": "9780415581974",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Wang_2025_CE.md",
         "wiki/concepts/educational-policy-reform/Test-Based Accountability.md",
         "wiki/concepts/instruction-pedagogy/Learner-Centred Education.md",
         "wiki/facts/china/Gaokao.md"
       ],
-      "title": ""
+      "title": "Learner-Centred Education in International Perspective: Whose Pedagogy for Whose Development?"
     },
     "Schweisfurth, 2015": {
       "aliases": [
@@ -199635,7 +199697,7 @@
         "Stevens et al., 2008",
         "Stevens et al. (2008)"
       ],
-      "doi": "https://doi.org/10.1146/annurev.soc.34.040507.134727",
+      "doi": "10.1146/annurev.soc.34.040507.134727",
       "identity_keys": [
         "Stevens et al., 2008"
       ],
@@ -200890,6 +200952,19 @@
       ],
       "title": ""
     },
+    "Stuber, 2009": {
+      "aliases": [
+        "Stuber, 2009",
+        "Stuber (2009)"
+      ],
+      "doi": "10.1111/j.1573-7861.2009.01140.x",
+      "identity_keys": [
+        "Stuber, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [],
+      "title": "Class, Culture, and Participation in the Collegiate Extra-Curriculum"
+    },
     "Stuber, 2011": {
       "aliases": [
         "Stuber, 2011",
@@ -200899,14 +200974,14 @@
       "identity_keys": [
         "Stuber, 2011"
       ],
-      "isbn": "",
+      "isbn": "9780739170243",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md",
         "wiki/concepts/higher-education/Student Engagement.md",
         "wiki/concepts/higher-education/Student Involvement.md"
       ],
-      "title": ""
+      "title": "Inside the College Gates: How Class and Culture Matter in Higher Education"
     },
     "Stubits, 2005": {
       "aliases": [
@@ -206582,14 +206657,14 @@
       "identity_keys": [
         "Tinto, 1993"
       ],
-      "isbn": "",
+      "isbn": "9780226804491",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/concepts/higher-education/Academic and Social Integration.md",
         "wiki/concepts/higher-education/Social Engagement.md",
         "wiki/concepts/university-industry-collaboration/Academic Engagement.md"
       ],
-      "title": ""
+      "title": "Leaving College: Rethinking the Causes and Cures of Student Attrition (Second Edition)"
     },
     "Tipton & Pustejovsky, 2015": {
       "aliases": [
@@ -229869,7 +229944,7 @@
         "张玉婷, 2016",
         "张玉婷 (2016)"
       ],
-      "doi": "",
+      "doi": "10.14082/j.cnki.1673-1298.2016.06.010",
       "identity_keys": [
         "张玉婷, 2016"
       ],
@@ -229877,7 +229952,7 @@
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
       ],
-      "title": ""
+      "title": "不同家庭背景学生的高等教育经验——基于学生投入理论的质性研究"
     },
     "强世功, 2010": {
       "aliases": [
@@ -231395,7 +231470,7 @@
         "牛新春, 2018",
         "牛新春 (2018)"
       ],
-      "doi": "",
+      "doi": "10.14186/j.cnki.1001-4519.2018.01.011",
       "identity_keys": [
         "牛新春, 2018"
       ],
@@ -231404,7 +231479,7 @@
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
       ],
-      "title": ""
+      "title": "迎头赶上：来自不同地域学生的大学学业表现的实证案例研究"
     },
     "牛新春与郑雅君, 2018": {
       "aliases": [
@@ -231426,7 +231501,7 @@
         "牛新春和郑雅君, 2018",
         "牛新春和郑雅君 (2018)"
       ],
-      "doi": "",
+      "doi": "10.16298/j.cnki.1004-3667.2018.05.10",
       "identity_keys": [
         "牛新春和郑雅君, 2018"
       ],
@@ -231434,7 +231509,7 @@
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
       ],
-      "title": ""
+      "title": "重点大学城乡学生的生涯定向：基于跟踪调研的过程研究"
     },
     "牛津大学, 2005": {
       "aliases": [
@@ -232562,7 +232637,7 @@
         "谢爱磊, 2016",
         "谢爱磊 (2016)"
       ],
-      "doi": "",
+      "doi": "10.14138/j.1001-4519.2016.11.007408",
       "identity_keys": [
         "谢爱磊, 2016"
       ],
@@ -232571,7 +232646,7 @@
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/concepts/higher-education/Academic and Social Integration.md"
       ],
-      "title": ""
+      "title": "精英高校中的农村籍学生——社会流动与生存心态的转变"
     },
     "谢爱磊和莫家豪, 2025": {
       "aliases": [

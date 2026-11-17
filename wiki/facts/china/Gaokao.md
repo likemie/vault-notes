@@ -10,7 +10,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -45,18 +45,19 @@ related_facts:
   - "[[Civil Service Examination]]"
 related_arguments:
   - "[[Argument_Wang_2025_CE]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
 confidence: high
 status: active
 created: 2026-07-22
-updated: 2026-11-02
+updated: 2026-11-17
 ---
 
 ---
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1952 年初建，1977 年正式恢复，由[[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]统一主管推进。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 589)]]
-> - **适用地区 / 对象** 覆盖全中国所有高中毕业生与高等教育申请者，作为大学录取的主要乃至决定性标准。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 589)]]
+> - **适用地区 / 对象** 覆盖全中国所有高中毕业生与高等教育申请者，作为大学录取的主要乃至决定性标准。
 > - **问题背景** 在竞争激烈的社会环境中，高考被广大教师、学生与家长普遍视为保障阶层向上流动与教育公平最经济、最可靠的选拔机制。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 594)]]
 > - **制度位置** 取代古代[[Civil Service Examination|科举制度]]，成为现代中国教育体系中高利害[[Test-Based Accountability|考试问责]]与[[Examination-Oriented Education|应试教育]]系统的终极评价硬约束。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 594–595)]]
 
@@ -67,7 +68,7 @@ updated: 2026-11-02
 
 > [!policy-design] 政策设计
 > - **政策目标** 选拔拔尖人才，维护社会阶层流动通道与国家统考权威。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 589)]]
-> - **适用对象** 全国普通高中应届与往届毕业生及具备同等学力的高等教育申请者。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 589)]]
+> - **适用对象** 全国普通高中应届与往届毕业生及具备同等学力的高等教育申请者。
 > - **政策工具** 统一考试大纲、省或国家统一命题、密卷阅卷与基于分数的线性录取。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 599)]]
 > - **约束机制** 地方教育行政部门将统考指标分解至学校，学校将升学指标分解至教师年度绩效评估与奖惩。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 595)]]
 
@@ -89,7 +90,7 @@ updated: 2026-11-02
 > [!actor-grid] 实施角色分工
 > - **发布与管理主体** 中华人民共和国教育部及各省、自治区、直辖市教育考试院。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 589)]]
 > - **执行主体** 各级普通高中、学校管理团队与学科教师，负责依据考纲开展高密度教学与复习备考。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 594–595)]]
-> - **适用对象** 每年逾千万的高考考生及其家庭。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 589)]]
+> - **适用对象** 每年逾千万的高考考生及其家庭。
 > - **评价指标体系** 高考卷面分数、各校本科录取率与高分段优生比率。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 592, 595)]]
 
 > [!pathways] 实施路径
@@ -108,7 +109,7 @@ updated: 2026-11-02
 > - **社会流动与公平公信力基石** 尽管备考压力较大，教育界与公众普遍认同高考为平民子弟提供了不可替代的平等的社会流动通道。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 594)]]
 > - **命题改革对教学法创新的催化** 随着高考命题从[[Rote Learning|死记硬背]]转向强调综合分析与[[Critical Thinking|批判性思维]]，高压问责反而促使进取型学校引入以学生为中心教育（[[Learner-Centred Education|LCE]]）以寻求成绩突破。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 598–599)]]
 > - **权力共享的结构硬边界** 刚性高考大纲决定了学习内容与考查方式必须由国家和教师掌控，排除了学生共决课程大纲与评估形式的可能性。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 599)]]
-> - **应试惯性形塑阶层化大学适应图式** 郑雅君指出，县中与超级中学高度集约的高考备考机制（刷题、高压纪律管理与单一分数导向）在弱势学生身上形塑了依赖外部指令与题海战术的苦学惯性，进入大学场域后易转化为适应不良的[[Intuition-Dependent Mode|直觉依赖模式]]；优势阶层集中的开放式高中在高考备考之余保留了自主探索与综合活动，培养了兼顾长程规划的[[Goal-Controlled Mode|目标掌控模式]]。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 74–82)]]
+> - **应试惯性形塑阶层化大学适应图式** [[Argument_Zheng_2023_ShanghaiSanlian_Ch03|郑雅君 (2023, pp. 74–82)]]指出，县中与薄弱中学高度集约的高考备考机制（刷题、高压纪律管理与单一分数导向）在弱势学生身上形塑了依赖外部指令与题海战术的苦学惯性，进入大学场域后易转化为适应不良的[[Intuition-Dependent Mode|直觉依赖模式]]；优势阶层集中的开放式高中在高考备考之余保留了自主探索与综合活动，培养了兼顾长程规划的[[Goal-Controlled Mode|目标掌控模式]]。
 > - **高考专业志愿填报的阶层逻辑分流** 高考出分后的志愿填报构成了关键的文化资本折现关卡：优势家庭立足长程发展开展前瞻性专业布局与通道转换，弱势家庭受制于信息匮乏，往往采取不浪费高考分数的分数最大化逻辑、情绪补偿或被动避短，造成专业错配与后续学业转换障碍。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 82–90)]]
 
 > [!stat-cards]- 核心数据
@@ -120,7 +121,7 @@ updated: 2026-11-02
 
 > [!debates] 政策争议
 >
-> > [!axis] 应试扼杀创新 vs 高阶命题倒逼课改
+> > [!axis] 应试扼杀创新 vs 高阶命题驱动课改
 > > 学界与实务界围绕高考高利害问责是否必然阻碍进步主义教学改革展开辩论。
 > >
 > > - **Schweisfurth (2013)** — 高利害标准化考试普遍挤压探究性教学空间。
@@ -143,18 +144,18 @@ updated: 2026-11-02
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Civil Service Examination]] | Fact (Event) | 现代高考在文化心理与选拔功能上的历史渊源。 |
-> | [[Test-Based Accountability]] | Concept | 高考构成中国教育高利害考试问责系统的核心硬约束。 |
-> | [[Learner-Centred Education]] | Concept | 统一高考大纲设定了 LCE 权力共享维度的结构硬边界。 |
-> | [[Examination-Oriented Education]] | Concept | 高考的高利害选拔机制直接催生的高强度应试教育形态。 |
-> | [[Goal-Controlled Mode]] | Concept | 开放高中生兼顾高考与综合发展，形成主动规划的大学生活模式。 |
-> | [[Intuition-Dependent Mode]] | Concept | 县中高强度高考备战诱发的苦学惯性，使学生入校后陷入顺其自然的被动适应。 |
-> | [[Cultural Capital]] | Concept | 家庭文化资本决定了高考出分后专业志愿填报的前瞻性与信息充分度。 |
-> | [[Habitus]] | Concept | 高考备考制度环境深度塑造了不同阶层学生的深层认知与行动图式。 |
-> | [[Yajun Zheng]] | Person | 实证考察高考备战环境与志愿填报逻辑对重点大学生出路分化的深远影响。 |
+> | [[Test-Based Accountability]] | 概念 | 高考构成中国教育高利害考试问责系统的核心硬约束。 |
+> | [[Examination-Oriented Education]] | 概念 | 高考的高利害选拔机制直接催生的高强度应试教育形态。 |
+> | [[Learner-Centred Education]] | 概念 | 统一高考大纲设定了 LCE 权力共享维度的结构硬边界。 |
+> | [[Goal-Controlled Mode]] | 概念 | 开放高中生兼顾高考与综合发展，形成主动规划的大学生活模式。 |
+> | [[Intuition-Dependent Mode]] | 概念 | 县中高强度高考备战诱发的苦学惯性，使学生入校后陷入顺其自然的被动适应。 |
+> | [[Cultural Capital]] | 概念 | 家庭文化资本决定了高考出分后专业志愿填报的前瞻性与信息充分度。 |
+> | [[Habitus]] | 概念 | 高考备考制度环境深度塑造了不同阶层学生的深层认知与行动图式。 |
+> | [[Civil Service Examination]] | 事实 | 现代高考在文化心理与选拔功能上的历史渊源。 |
+> | [[Yajun Zheng]] | 人物 | 实证考察高考备战环境与志愿填报逻辑对重点大学生出路分化的深远影响。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_2025_CE|Wang and McLaughlin (2025)]] — 实证检验重点高中在高考硬约束下转译践行以学生为中心教学法的核心[[Document|文献]]。
-> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch03|郑雅君 (2023, 第三章)]] — 实证剖析普通高中与县中高考备战生态对学生行动图式的深层烙印，揭示高考志愿填报中的阶层化决策逻辑如何埋下大学出路分化的最初伏笔（pp. 65–104）。
+> - [[Argument_Wang_2025_CE|Wang and McLaughlin (2025)]] — 实证检验重点高中在高考高利害问责硬约束下转译践行以学生为中心教学法的本土化调适策略。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 在[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]中剖析县中极端高考备考对学子习性的塑造，以及专业志愿选报中文化资本变现与阶层分化机制（pp. 75–90）。

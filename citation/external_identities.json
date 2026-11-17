@@ -5403,6 +5403,12 @@
       ],
       "title": ""
     },
+    "Astin, 1993": {
+      "doi": "",
+      "isbn": "9781555425159",
+      "seen_in": [],
+      "title": "What Matters in College: Four Critical Years Revisited"
+    },
     "Atash & Dawson, 1986": {
       "datasets": [
         "metax:S1534"
@@ -10118,6 +10124,12 @@
       ],
       "title": ""
     },
+    "Bergerson, 2007": {
+      "doi": "10.1080/09518390600923875",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Exploring the Impact of Social Class on Adjustment to College: Anna's Story"
+    },
     "Bergman, 2018": {
       "doi": "",
       "isbn": "",
@@ -13367,6 +13379,12 @@
       ],
       "title": ""
     },
+    "Bourdieu, 2012": {
+      "doi": "",
+      "isbn": "9787544728553",
+      "seen_in": [],
+      "title": "实践感"
+    },
     "Bourhis & Allen, 1992": {
       "datasets": [
         "metax:S0033"
@@ -14749,14 +14767,14 @@
       "title": ""
     },
     "Brown & Hesketh, 2004": {
-      "doi": "",
-      "isbn": "",
+      "doi": "10.1093/acprof:oso/9780199269549.001.0001",
+      "isbn": "9780199269549",
       "seen_in": [
         "wiki/concepts/higher-education/Economy of Experience.md",
         "wiki/concepts/higher-education/Employability.md",
         "wiki/concepts/sociology-of-education/Credential Inflation.md"
       ],
-      "title": ""
+      "title": "The Mismanagement of Talent: Employability and Jobs in the Knowledge Economy"
     },
     "Brown & Kim, 2021": {
       "doi": "",
@@ -14851,6 +14869,12 @@
         "wiki/concepts/university-industry-collaboration/Competitiveness.md"
       ],
       "title": ""
+    },
+    "Brown et al., 2003": {
+      "doi": "10.1080/1363908032000070648",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Employability in a Knowledge-Driven Economy"
     },
     "Brown et al., 2013": {
       "datasets": [
@@ -60572,11 +60596,11 @@
     },
     "Kuh et al., 1991": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9781555423704",
       "seen_in": [
         "wiki/concepts/higher-education/Student Engagement.md"
       ],
-      "title": ""
+      "title": "Involving Colleges: Successful Approaches to Fostering Student Learning and Development outside the Classroom"
     },
     "Kuh et al., 2008": {
       "doi": "",
@@ -85373,13 +85397,13 @@
       "title": ""
     },
     "Pike & Kuh, 2005": {
-      "doi": "",
+      "doi": "10.1353/jhe.2005.0021",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/concepts/higher-education/Academic and Social Integration.md"
       ],
-      "title": ""
+      "title": "First-and Second-Generation College Students: A Comparison of Their Engagement and Intellectual Development"
     },
     "Pike, 1954": {
       "doi": "",
@@ -96464,14 +96488,14 @@
     },
     "Schweisfurth, 2013": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9780415581974",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Wang_2025_CE.md",
         "wiki/concepts/educational-policy-reform/Test-Based Accountability.md",
         "wiki/concepts/instruction-pedagogy/Learner-Centred Education.md",
         "wiki/facts/china/Gaokao.md"
       ],
-      "title": ""
+      "title": "Learner-Centred Education in International Perspective: Whose Pedagogy for Whose Development?"
     },
     "Schweisfurth, 2015": {
       "doi": "",
@@ -103256,7 +103280,7 @@
       "title": "The effects of cooperative learning and direct instruction in reading comprehension strategies on main idea identification"
     },
     "Stevens et al., 2008": {
-      "doi": "https://doi.org/10.1146/annurev.soc.34.040507.134727",
+      "doi": "10.1146/annurev.soc.34.040507.134727",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
@@ -104025,16 +104049,22 @@
       ],
       "title": ""
     },
+    "Stuber, 2009": {
+      "doi": "10.1111/j.1573-7861.2009.01140.x",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Class, Culture, and Participation in the Collegiate Extra-Curriculum"
+    },
     "Stuber, 2011": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9780739170243",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md",
         "wiki/concepts/higher-education/Student Engagement.md",
         "wiki/concepts/higher-education/Student Involvement.md"
       ],
-      "title": ""
+      "title": "Inside the College Gates: How Class and Culture Matter in Higher Education"
     },
     "Stubits, 2005": {
       "datasets": [
@@ -107494,14 +107524,14 @@
     },
     "Tinto, 1993": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9780226804491",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/concepts/higher-education/Academic and Social Integration.md",
         "wiki/concepts/higher-education/Social Engagement.md",
         "wiki/concepts/university-industry-collaboration/Academic Engagement.md"
       ],
-      "title": ""
+      "title": "Leaving College: Rethinking the Causes and Cures of Student Attrition (Second Edition)"
     },
     "Tipton & Pustejovsky, 2015": {
       "doi": "",
@@ -121653,12 +121683,12 @@
       "title": ""
     },
     "张玉婷, 2016": {
-      "doi": "",
+      "doi": "10.14082/j.cnki.1673-1298.2016.06.010",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
       ],
-      "title": ""
+      "title": "不同家庭背景学生的高等教育经验——基于学生投入理论的质性研究"
     },
     "强世功, 2010": {
       "doi": "",
@@ -122472,13 +122502,13 @@
       "title": ""
     },
     "牛新春, 2018": {
-      "doi": "",
+      "doi": "10.14186/j.cnki.1001-4519.2018.01.011",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
       ],
-      "title": ""
+      "title": "迎头赶上：来自不同地域学生的大学学业表现的实证案例研究"
     },
     "牛新春与郑雅君, 2018": {
       "doi": "",
@@ -122489,12 +122519,12 @@
       "title": ""
     },
     "牛新春和郑雅君, 2018": {
-      "doi": "",
+      "doi": "10.16298/j.cnki.1004-3667.2018.05.10",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
       ],
-      "title": ""
+      "title": "重点大学城乡学生的生涯定向：基于跟踪调研的过程研究"
     },
     "牛津大学, 2005": {
       "doi": "",
@@ -123100,13 +123130,13 @@
       "title": ""
     },
     "谢爱磊, 2016": {
-      "doi": "",
+      "doi": "10.14138/j.1001-4519.2016.11.007408",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/concepts/higher-education/Academic and Social Integration.md"
       ],
-      "title": ""
+      "title": "精英高校中的农村籍学生——社会流动与生存心态的转变"
     },
     "谢爱磊和莫家豪, 2025": {
       "doi": "",
