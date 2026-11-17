@@ -106,7 +106,7 @@ updated: 2026-11-17
 
 > [!feature] 核心要素
 > - **双亲学历基准** 界定标准严格锚定于父母双方均无大专或大学本科以上学历。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|(郑雅君, 2023, p. 50)]]
-> - **多维劣势交叠** 常与农村户籍、中西部欠发达地区以及家庭低收入特征呈现马太效应式的复合交织。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|(郑雅君, 2023, pp. 49–51)]]
+> - **多维劣势交叠** 常与农村户籍、中西部欠发达地区以及家庭低收入特征呈现马太效应式的复合交织。
 > - **师生互动疏离** 在校期间课外主动寻求教师指导的频率偏低，对大学学术共同体缺乏自然的归属感。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|(郑雅君, 2023, p. 41)]]
 > - **信息传递脱节** 在考研[[Recommendation-Based Graduate Admission System|保研]]流程、名企招聘渠道和海外深造申报方面高度依赖校园公开信息，缺乏非正式经验传递。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|(郑雅君, 2023, pp. 49–51)]]
 
@@ -224,8 +224,10 @@ updated: 2026-11-17
 > | [[Xiaozhen Zuotijia]] | 概念 | 第一代大学生中来自县域熟人社会、受制于高压应试模式的典型亚群体。 |
 > | [[College Process Model]] | 理论 | 第一代大学生身份是大学过程[[Analytic Framework\|分析框架]]中界定背景劣势与检验模式分化的核心指标。 |
 > | [[Yajun Zheng]] | 人物 | 在中国顶尖高校中深入追踪第一代大学生求学经历与出路分化机制的学者。 |
+| [[Lost Mode]] | 概念 | 迷失无从模式，第一代大学生因文化工具匮乏与多重图式抵消所致的被动出路类型。 |
+| [[Value Conformist Mode]] | 概念 | 价值归顺模式，第一代大学生通过内化学校德育话语、借助体制赞助实现向上流动的出路类型。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 系统追踪名校第一代大学生的多维弱势累积（第二、三章），并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]实证解构高年级文化移入与出路模式突围机制。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 系统追踪名校第一代大学生的多维弱势累积（第二、三章），并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]与[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|第五章]]解构文化移入、迷失无从与价值归顺出路机制。

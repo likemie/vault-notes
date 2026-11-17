@@ -12,9 +12,9 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 12
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 21
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: '教育部'
 tags:
@@ -23,23 +23,32 @@ tags:
   - region/china
   - level/higher-ed
 related_concepts:
+  - "[[Research Universities]]"
   - "[[Academic Achievement]]"
-  - "[[Academic Engagement]]"
   - "[[Credential Inflation]]"
-  - "[[Intuition-Dependent Mode]]"
+  - "[[Academic Engagement]]"
   - "[[Cultural Capital]]"
   - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Continuous Doctoral Training]]"
+  - "[[Social Engagement]]"
+  - "[[Professional Interest]]"
+  - "[[Alienation]]"
+  - "[[Grit]]"
+  - "[[Student Mobility]]"
 related_theories:
   - "[[Dual Elite Career Paths]]"
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
 related_facts:
-  - "[[China College Graduate Employment Reform]]"
   - "[[Project 985]]"
+  - "[[China College Graduate Employment Reform]]"
 related_arguments:
-  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch01]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch04]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 confidence: high
 status: active
 created: '2026-05-08'
@@ -52,12 +61,12 @@ updated: 2026-11-17
 > - **发布时间 / 发布主体** 1980 年代中期由原国家教育委员会启动实施，后续经教育部多次深化改革，于 2014 年建立全国统一推免服务管理系统。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(郑雅君, 2023, pp. 85–86)]]
 > - **适用地区 / 对象** 全国具备推荐免试资格高等学校的应届本科毕业生。
 > - **问题背景** 为弥补全国硕士研究生统一招生考试（全国统考）单凭一次性应试笔试筛选拔尖创新人才的局限性，加大高校拔尖科研后备力量的贯通培养。
-> - **制度位置** 中国研究生招生体系中与全国统考并立的“双轨制”核心通道之一，是重点研究型大学本科毕业生国内升学的首选途径。
+> - **制度位置** 中国研究生招生体系中与全国统考并立的“双轨制”核心通道之一，是重点[[Research Universities|研究型大学]]本科毕业生国内升学的首选途径。
 
 ---
 
 > [!claim] 政策核心
-> 依托高校院系对在校本科生长期学业表现与综合素质的考核评价，直接推荐优秀应届本科生免于参加全国统一招生初试，经招生单位复试考核后直接录取为攻读硕士学位或直接攻读博士学位研究生。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(郑雅君, 2023, pp. 85–86)]]
+> 依托高校院系对在校本科生长期[[Academic Achievement|学业表现]]与综合素质的考核评价，直接推荐优秀应届本科生免于参加全国统一招生初试，经招生单位复试考核后直接录取为攻读硕士学位或直接攻读博士学位研究生。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(郑雅君, 2023, pp. 85–86)]]
 
 > [!policy-design] 政策设计
 > - **政策目标** 选拔具备良好学术潜质与稳定科研志向的优秀生源，促进优质生源在重点大学之间有序流动，降低拔尖人才备考的内耗成本。
@@ -76,7 +85,7 @@ updated: 2026-11-17
 > - **1985–1986** 原国家教委启动推荐免试研究生试点，确立免初试直接复试录取的机制雏形。
 > - **1999 年后** 高校扩招加速[[Credential Inflation|文凭通胀]]，本科文凭就业溢价缩水，推免保研成为重点大学毕业生的关键升学避风港。
 > - **2014** 教育部推行推免招生规范化改革，启用“全国推荐优秀应届本科毕业生免试攻读研究生信息公开暨管理服务系统”，取消校内保研名额限制，允许推免生跨校自由申请。
-> - **2018–2023** 顶尖研究型大学推免生比例持续高企，直研成为名校学子出路首选，长程锁定本科前三年学业投入。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(郑雅君, 2023, pp. 85–88)]]
+> - **2018–2023** 顶尖研究型大学推免生比例持续高企，直研成为名校学子出路首选，长程锁定本科前三年[[Academic Engagement|学业投入]]。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(郑雅君, 2023, pp. 85–88)]]
 
 ---
 
@@ -101,8 +110,9 @@ updated: 2026-11-17
 > [!finding-cards] 效果与评价
 > - **长程学业投入的制度锁定** 推免选拔将考核周期拉长至大学前六个学期，要求学生保持持续优异且稳定的课程绩点，构成长程锁定学生[[Academic Engagement|学业投入]]的核心装置。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(郑雅君, 2023, pp. 85–88)]]
 > - **高确定性与低备考成本的升学通道** 获得推免资格的学生免受全国统考激烈的单次考试淘汰压力与数月全脱产备战内耗，享有极高的录取保障。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(郑雅君, 2023, pp. 86–87)]]
-> - **生活组织模式与阶层文化资本的筛选** 推免机制天然青睐从入学伊始便洞察评价体系并实施绩点管理的“目标掌控者”；习惯于高中苦学惯性而忽视绩点规划的“直觉依赖者”往往面临信息滞后与机会丧失。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(郑雅君, 2023, pp. 87–88)]]
-> - **出路决策中的分化机制** 在第三章质性个案中，直觉依赖者容易因早期规则认知滞后错失推免机会（如冰倩大三才知晓绩点与保研绑定），或在缺乏求职规划时将推免直博视作回避就业市场的仓促避难所（如禹海）；目标掌控者则将保研作为可计算的理性选项，甚至主动放弃保研资格投身商业求职（如泽斌凭借实习直接斩获高薪岗位）。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 66–69)]]
+> - **生活组织模式与阶层[[Cultural Capital|文化资本]]的筛选** 推免机制天然青睐从入学伊始便洞察评价体系并实施绩点管理的“[[Goal-Controlled Mode|目标掌控]]者”；习惯于高中苦学惯性而忽视绩点规划的“[[Intuition-Dependent Mode|直觉依赖]]者”往往面临信息滞后与机会丧失。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(郑雅君, 2023, pp. 87–88)]]
+> - **出路决策中的分化机制** 在第三章质性个案中，直觉依赖者容易因早期规则认知滞后错失推免机会（如冰倩大三才知晓绩点与保研绑定），或在缺乏求职规划时将推免[[Continuous Doctoral Training|直博]]视作回避就业市场的仓促避难所（如禹海）；目标掌控者则将保研作为可计算的理性选项，甚至主动放弃保研资格投身商业求职（如泽斌凭借实习直接斩获高薪岗位）。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 66–69)]]
+> - **门槛达标与被动避险的二元分化** 目标掌控者将推免 GPA 视作可计算的底线门槛（如研支团 2.8 绩点标准），达标后迅速抽调精力布局[[Social Engagement|社会性投入]]；直觉依赖者则容易因大一盲目松懈直接痛失保研资格，或在缺乏自主职业目标时将推免直博作为延缓就业压力的被动避风港（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|郑雅君, 2023, 第四章]]）。
 
 > [!stat-cards]- 核心数据
 > - **≥ 40%** 原 [[Project 985|985 工程]]重点大学本科生推免直研比例普遍达到 40% 以上，部分优势基础学科拔尖班推免率超过 70%。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(范皑皑和杨钋, 2015；郑雅君, 2023, p. 86)]]
@@ -112,13 +122,13 @@ updated: 2026-11-17
 
 > [!debates] 政策争议
 >
-> > [!axis] 过程评价公平性 vs 策略性刷分对学术志趣的异化
+> > [!axis] 过程评价公平性 vs 策略性刷分对[[Professional Interest|学术志趣]]的[[Alienation|异化]]
 > > 争论焦点在于累积绩点考核是否真能选出学术拔尖人才，还是诱发功利化选课。
 > >
-> > - **过程评价支持论** 认为三年累积绩点相比一考定胜负的考研初试更能真实反映学生的学习毅力与扎实功底。
+> > - **过程评价支持论** 认为三年累积绩点相比一考定胜负的考研初试更能真实反映学生的学习[[Grit|毅力]]与扎实功底。
 > > - **功利规训批判论（郑雅君 2023）** 指出推免竞争白热化诱使学生采取精明的策略性选课（避开高难度硬核课程，选择易得高分的通识课），导致大学生活沦为高度紧张的绩点管理锦标赛，抑制了自主探索与跨学科尝试。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(郑雅君, 2023, pp. 86–88)]]
 >
-> > [!axis] 名校间生源内部循环 vs 地方高校学生流动通道收窄
+> > [!axis] 名校间生源内部循环 vs 地方高校[[Student Mobility|学生流动]]通道收窄
 > > 探讨高推免比例对研究生招生整体生态的影响。
 > >
 > > - **拔尖培养协同派** 主张名校之间互认优质推免生能够最大化优质学术资源的匹配效率，保障高水平研究生培养质量。
@@ -144,4 +154,4 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 系统揭示推免研究生制度作为长程评价装置如何锁定名校本科生学业投入，并阐明其在目标掌控与直觉依赖两类阶层化生活模式间的隐性筛选机制（详见[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|第一章]]，pp. 85–88；[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]个案实证，pp. 66–69）。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 系统揭示推免制度锁定本科生学业投入的机制（[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|第一章]]、[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]）；并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]实证检验目标掌控者的门槛达标策略与直觉依赖者的被动避险分化。

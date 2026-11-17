@@ -97,9 +97,9 @@ updated: 2026-11-17
 ---
 
 > [!feature] 核心要素
-> - **具身性（Embodiment）** 惯习铭刻在身体形态、言谈仪态与审美感知之中，表现为不经反思即可直接调用的实践倾向。特定阶层的生活条件内化为行动者日用而不知的日常实践习惯（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。
-> - **生成性（Generativity）** 惯习如同一套灵活的“生成语法”，在社会化边界内持续派生新的应对策略，使行动者能够创造性地调适多元情境（Sewell, 1992；[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。
-> - **阶层特异性（Class-specificity）** 不同的社会阶层生存条件塑造出异质的倾向系统，致使行动者对文化资源与制度规则的熟悉程度产生系统性的阶层分野（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。
+> - **具身性（Embodiment）** 惯习铭刻在身体形态、言谈仪态与审美感知之中，表现为不经反思即可直接调用的实践倾向。特定阶层的生活条件内化为行动者日用而不知的日常实践习惯。
+> - **生成性（Generativity）** 惯习如同一套灵活的“生成语法”，在社会化边界内持续派生新的应对策略，使行动者能够创造性地调适多元情境 (Sewell, 1992)。
+> - **阶层特异性（Class-specificity）** 不同的社会阶层生存条件塑造出异质的倾向系统，致使行动者对文化资源与制度规则的熟悉程度产生系统性的阶层分野。
 > - **前反思性（Pre-reflexivity）** 惯习主要在意识反思阈限之下自发运作，行动者往往顺应身体直觉行事，赋予既有社会不平等以自然合理的表象（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。
 
 > [!logic-map]- 惯习在实践理论中的运作机制
@@ -148,6 +148,9 @@ updated: 2026-11-17
 > [!claim] Zheng, Y.
 > **[[Culture as Toolkit|文化工具箱]]充实与时间成本补偿** 惯习转换伴随着行动者[[Culture as Toolkit|文化工具箱]]中策略性知识的扩充，使行动者习得主动规划的方法论；但转换过程往往伴随一至两年的认知时差代价，构成代际流动中的隐性门槛（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]；[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|2023, 第四章]]）。
 
+> [!claim] [[Pierre Bourdieu|Bourdieu (1967)]]; [[Argument_Zheng_2023_ShanghaiSanlian_Ch05|郑雅君 (2023, 第五章)]]
+> **学校化惯习与制度规范认同** Bourdieu (1967) 阐明正规教育系统具有形塑受教育者思维体系的功能，使经历严格学术与德育选拔的胜出者共享深层思想规范。郑雅君（[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|2023, 第五章]]）进一步揭示，弱势背景学生在顶尖高校深造中深度内化学校倡导的德育话语，具身化为遵从体制规范的学校化惯习；这套倾向虽然未赋予其市场求职策略优势，却在选调生遴选与重点科研院所考察中展现出高度的可靠性与认同感，成为对接体制赞助通道的核心依托。[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|(Zheng, 2023, pp. 287–292)]]
+
 ---
 
 > [!contrast-table] 所有命题归纳
@@ -194,7 +197,7 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 将阶层惯习操作化为目标掌控与直觉依赖模式，揭示弱势生惯习滞后与错置（[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]），并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]论述再社会化中的惯习重塑与时间代价。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 将阶层惯习操作化为目标掌控与直觉依赖模式，揭示弱势生惯习滞后与错置（[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]），在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]论述再社会化重塑，并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|第五章]]分析学校化惯习促成的体制赞助流动。
 > - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 追踪澳大利亚公立学校校长在教育价值守正与绩效考核问责之间的领导惯习分裂。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 探讨地方教育行动者如何在既有制度常识与实践惯性中[[Recontextualization|再情境化]]跨国政策[[Paradigm|范式]]。
 

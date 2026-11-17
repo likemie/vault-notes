@@ -3,13 +3,14 @@ title: Lost Mode
 aliases:
   - 迷失无从者
   - lost actor
-summary: "毕业出路分化中的一种类型，以直觉依赖和弱价值信念结合为特征，缺乏稳定目标与行动方向，常被动接受权宜性选择"
+  - 迷失无从模式
+summary: "毕业出路产生机制中的弱势困境类型，以低策略能力与弱价值信念结合为特征，缺乏稳定目标与行动方向，出路多为被动权宜性选择。"
 type: concept
 domain: "sociology-of-education"
-related_count: 17
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 25
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - lost-mode
   - higher-education
@@ -19,98 +20,159 @@ tags:
 related_concepts:
   - "[[Graduation Pathway Typology]]"
   - "[[Intuition-Dependent Mode]]"
-  - "[[Cultural Barrier]]"
+  - "[[First-Generation College Student]]"
+  - "[[Cultural Capital]]"
   - "[[Champ]]"
-  - "[[Study Abroad]]"
-  - "[[Discourse]]"
-  - "[[Self-Efficacy]]"
-  - "[[Doxa]]"
-  - "[[Grandes Ecoles]]"
-  - "[[Continuous Doctoral Training]]"
-  - "[[Self-Driven Mode]]"
-  - "[[Conatus]]"
-  - "[[Reflexivity]]"
-  - "[[Transfer Translation Transformation]]"
+  - "[[Decodification]]"
+  - "[[Student Attitude]]"
   - "[[Value Conformist Mode]]"
-related_theories: []
-related_methods: []
+  - "[[Discourse]]"
+  - "[[Self-Driven Mode]]"
+  - "[[Opportunist Mode]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Continuous Doctoral Training]]"
+  - "[[Habitus Divided Against Itself]]"
+  - "[[Self-Efficacy]]"
+  - "[[Habitus]]"
+  - "[[Work Meaning Schemas]]"
+  - "[[Cultural Barrier]]"
+related_theories:
+  - "[[Culture as Toolkit]]"
+related_methods:
+  - "[[In-depth Interview]]"
 related_persons:
   - "[[Yajun Zheng]]"
-related_facts: []
+  - "[[Stephen Ball]]"
+related_facts:
+  - "[[Gaokao]]"
+  - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments:
-  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch05]]"
 confidence: medium
 status: draft
 created: 2026-05-09
 updated: 2026-11-17
 ---
 
-> [!info] 定义
-> 迷失无从者（Lost Mode）是[[Yajun Zheng\|郑雅君]]（2023）[[Graduation Pathway Typology\|毕业出路产生机制四分类]]模型中的一种类型，指使用[[Intuition-Dependent Mode\|直觉依赖模式]]且未形成内在自洽的价值观念系统的大学生。他们出身于工农家庭、中西部地区，多为第一代大学生，既没有内在一致的价值目标，所拥有且能熟练使用的策略工具更是少而又少。在毕业出路的获得上，他们处于最不利地位([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])。
+---
+
+> [!def] Lost Mode
+> 迷失无从模式（Lost Mode）是[[Yajun Zheng|郑雅君]]（2023）在[[Graduation Pathway Typology|毕业出路产生机制四分类]]模型中界定的弱势困境类型，特指兼具低策略行动能力（[[Intuition-Dependent Mode|直觉依赖模式]]）与弱价值信念驱动力的大学生。该群体多出身于中西部农村及工农劳工家庭，多为[[First-Generation College Student|第一代大学生]]；他们在大学期间既未能形成逻辑自洽的内在价值目标，所掌握并能自如调用的文化策略工具亦十分匮乏，在毕业出路博弈中极易陷入长久迷茫与被动抉择，处于最为不利的结构地位。[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|(Zheng, 2023, pp. 284–287)]]
+
+> [!concept-lens|notitle] 概念透镜
+> - **含义** 指涉弱势背景学子在高等教育分流中，因[[Culture as Toolkit|文化工具箱]]碎片化与多重观念相互抵消而陷入目标失焦与被动权宜的求职行动困境。
+> - **用途** 揭示[[Cultural Capital|文化资本]]匮乏如何不仅体现为经济资源的短缺，更体现为主观意义感的撕裂与策略能力的瘫痪，打破了名校文凭自动保证优质就业的精英神话。
+> - **边界** 聚焦于高选择性精英大学中第一代弱势学子的适应与分流困境；对于未经历高等教育精英文化冲击或处于支持性社群环境的青年，其心理机制可能有所不同。
+
+> [!citation-card] 郑雅君论迷失无从者的价值游离与被动局限
+> 迷失无从者因为游离于各种价值取向之间而往往对未来的发展方向举棋不定，最终陷入被动局面。在毕业出路的获得上，迷失无从者处于最不利地位……他们掌握的观念通常不成体系，如同箱子里横七竖八的零碎工具，互不配套、甚至互有抵牾，而且很可能并不适用于大学这个具体而又相对陌生的[[Champ|场域]]。[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|(Zheng, 2023, pp. 284–285)]]
 >
-> > "迷失无从者"因为游离于各种价值取向之间而往往对未来的发展方向举棋不定，最终陷入被动局面。在毕业出路的获得上，"迷失无从者"处于最不利地位
->
+> *Lost actors are caught in hesitation and indecision regarding their future direction due to drifting among conflicting values, ultimately sinking into a passive impasse... The cultural ideas in their toolkit are fragmented and mutually discordant, often failing to serve the unfamiliar field of elite universities.*
 
-> [!abstract] 核心特征
-> - **目标失焦** 未能为自己树立一套内在自洽的价值观念，在毕业面前茫然不知如何选择——"走到哪算哪"（敏浩，辅导员观察，[[Yajun Zheng\|郑雅君]]，2023）
-> - **策略能力匮乏** 来自弱势家庭背景，面临[[Cultural Barrier\|文化障碍]]，在安排大学生活上策略性不足，更多倚赖直觉和习惯。简历"一盘散沙"([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])
-> - **意义感的游离者** 在多种价值取向之间举棋不定——他们掌握的观念"通常不成体系，如同箱子里横七竖八的零碎工具，互不配套、甚至互有抵牾，而且很可能并不适用于大学这个具体而又相对陌生的[[Champ\|场域]]"
-> - **价值迷茫期漫长** 多数家境好的学生会尽早度过价值迷茫期以规避沉没成本，但迷失无从者更容易陷入长久的迷失而不自知。大城市里的消费文化、名校学生[[Study Abroad|出国留学]]的风潮、加上大学所盛行的"家国理想-社会价值"[[Discourse|话语]]，很容易使他们原本内化的"地位保障-家庭责任"图式也松动了
-> - **信息与常识严重匮乏** 作为第一代大学生，"根本不知道有哪些选择，比如说出国这些方面，我发现他们是很早就意识到或者已经知道这件事情，我是很晚才知道这个事情，但真正开始明白过来的时候就已经有些晚了"（浩凡，河南农村学生，郑雅君，2023）
-> - **典型的决策困境** 敏浩描述道——"他可能在直研前一周想好了我要直研，这种和没想好其实没什么区别。然后绩点不够废了吧，搞不定了，家里来帮我吧！家里帮不上呢，那就临时开始找工作，要不延毕"
-> - **出路的被动性** 毕业出路对他们而言谈不上主观意志的"选择"，而更多是一种情急之下的权宜之策。在左顾右盼之间，四年光阴匆匆逝去，极易错失为毕业出路做准备的窗口期，其名校文凭对职业地位的兑换能力也随之缩水
->
-
-## 迷失的多重根源
-
-
-### 文化工具箱的贫乏
-
-出于家庭资源和信息来源的局限，他们的观念来源本身就比较狭窄，加上父辈们的偏见、道听途说的看法、自己的猜测，"掌握的观念通常不成体系"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。
-
-### 三种价值图式的相互抵消
-
-大城市里扑面而来的消费文化、名校学生[[Study Abroad|出国留学]]的风潮、加上大学所盛行的"家国理想-社会价值"[[Discourse|话语]]，很容易使他们原本内化的"地位保障-家庭责任"图式也松动——"当考虑每一个选项的时候，她心里都会响起一个反对的声音，以至于在意义图式的海洋中漂泊无定，'不知道自己究竟要什么'"（关于寒梅的叙述，郑雅君，2023）。
-
-### 习性分裂的持续消耗
-
-进入名校和大城市后，迷失无从者多数经历过一个艰难适应的过程——从物质与文化冲击到自我认同危机——这一过程无疑会消耗许多心力和[[Self-Efficacy|自我效能]]（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Jin & Ball, 2019）。
-
-### 缺乏文化与信息的"安全网"
-
-中产阶层及以上学生认为[[Doxa|不言自明]]的常识（如实习对求职的重要性、出国申请的时机、教授的期望等），对迷失无从者而言却是陌生信息。"这些'暗藏阶级壁垒的文化性知识'在优势阶层的工具箱中随手可及，对弱势阶层而言却无从获取"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Lareau, 2015）。
+> [!boundary]- 概念边界
+> - **不等于单纯的学业失败（Academic Failure）** 迷失无从者通常[[Gaokao|高考]]成绩优异且在大学能完成课业，其迷失发生在生涯规划、文化[[Decodification|解码]]与实践转化的场域规则层面，而非智力或[[Student Attitude|学习态度]]问题。
+> - **不等于[[Value Conformist Mode|价值归顺]]模式（Value Conformist Mode）** 价值归顺者同样属于直觉依赖（低策略），但因深度认同并依从学校德育宣传，获得了稳固的体制性价值锚点与出路赞助；迷失无从者则未能接受或认同这一意义指引，在多重[[Discourse|话语]]拉扯下走不出来。
+> - **不等于[[Self-Driven Mode|自主驱动模式]]（Self-Driven Mode）** 自主驱动者凭借充裕家庭资本尽早完成探索并确立自洽目标；迷失无从者缺乏容错资本，陷入长周期内耗与信息壁垒。
 
 ---
 
-> [!example] 典型案例
-> - **牛铭**（北方大学经济学，中部农村，第一代大学生）：大一到大三"一直在学校里学习上课"，从未有过实习经历——"[[Grandes Ecoles|大学校]]门基本上一年都出去不到一两次"。大三下学期仍没决定出路方向，简历"到现在都空白"。最终"稀里糊涂就[[Continuous Doctoral Training|直博]]了"——"没做好准备就直博了"。读博士非其所愿，但找工作也缺乏准备——"万一入错了行怎么办"。他的困境体现了多重价值图式相互抵消的状态：现实功利的道路被正式教育所弃置，而理想信念的道路似乎也走不通——"干公务员必须得有资源的……我是学经济学的怎么可能会崇尚体制呢"（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）
-> - **寒梅**（南方大学社科，江西农村，第一代大学生）：直研未果→匆忙借钱准备留学→收到拒绝信→延毕一年后再申仍未拿到录取→被迫加入求职大军。在意义图式之间漂泊无定——"其实我大二的时候就想出国了，但是家里周围那些人没人听说过出国，好像我就是有种什么癞蛤蟆想吃天鹅肉的感觉……感觉自己要读下去的话，就是一个很自私的选择……那就想要么工作好了，但是当时就听说什么经济形势不好"
-> - **冰倩**（南方大学社科，湖南农村，第一代大学生）：直到临近毕业仍在纠结自己究竟想走哪条路，似乎每个选择都有一个相对的图式与其对抗。考研失败后硬着头皮选择二战——以培养学术兴趣为理由宽慰自己
->
-
-## 与自主驱动者的天壤之别
-
-
-[[Yajun Zheng|郑雅君]]指出，"[[Self-Driven Mode|自主驱动者]]"和"迷失无从者"是天差地别的两类人——不要说成为好朋友，他们可能甚至很难冷静地理解对方([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])：
-
-| 维度 | 自主驱动者 | 迷失无从者 |
-|------|----------|----------|
-| **[[Conatus\|努力]]性质** | 出于明确且带有[[Reflexivity\|反思性]]的目标 | 基于缺乏方向感的直觉与惯性 |
-| **简历呈现** | 高效[[Transfer Translation Transformation\|转化]]为求职优势 | 一盘散沙 |
-| **对大学的感知** | 熟悉、亲近、可利用的平台 | 陌生、冲击、需要艰难适应的环境 |
-| **目标来源** | 自主反思性的探索 | 外部权宜或被动接受 |
-
-([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+> [!contrast-table|notitle] 迷失无从者与对比模式的多维辨析
+> | 维度 | 迷失无从模式 | 自主驱动模式 | 价值归顺模式 | [[Opportunist Mode\|机会主义模式]] |
+> |---|---|---|---|---|
+> | **行动策略手段** | 直觉依赖（匮乏被动） | [[Goal-Controlled Mode\|目标掌控]]（主动规划） | 直觉依赖（按部就班） | 目标掌控（精明套利） |
+> | **价值信念驱动** | 弱（多重观念抵牾） | 强（内在自洽清晰） | 强（笃信体制主流） | 弱（紧跟市场信号） |
+> | **对大学环境的感知** | 陌生、冲击、暗含壁垒 | 亲近、熟悉、赋能平台 | 神圣、崇敬、庇护所 | 竞技场、资源跳板 |
+> | **简历准备状态** | 一盘散沙、空白或迟滞 | 目标鲜明、逻辑连贯 | 思想红正、学生工作充实 | 实习丰富、紧扣高薪行业 |
+> | **面临出路结果** | 被动[[Continuous Doctoral Training\|直博]]/延毕/考研二战 | 自主创业/顶级学术/领军职位 | 选调生遴选/重点国企/骨干 | 头部金融/高薪咨询/互联网 |
 
 ---
 
-## 与价值归顺者的分叉
+> [!feature] 核心要素
+> - **文化工具箱碎片化与观念抵牾** 观念来源狭窄杂乱，家庭保障图式、学校德育话语与都市消费文化相互碰撞抵消，面临每个选项均心生犹疑。[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|(Zheng, 2023, pp. 284–285)]]
+> - **常识暗码壁垒与信息迟滞** 缺乏优势家庭代际传递的默会求职知识，对于实习节点、出国准备、导师沟通等常识严重滞后，错失关键窗口期。[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|(Zheng, 2023, pp. 285–286)]]
+> - **[[Habitus Divided Against Itself|习性分裂]]与持续心理消耗** 经历从内陆乡村向大都市精英校园的剧烈文化冲击，身份认同危机与自我怀疑不断消耗心理能量与[[Self-Efficacy|自我效能]]。[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|(Zheng, 2023, p. 286)]]
+> - **直觉依赖的被动行动惯性** 缺乏前瞻性规划能力，往往走到哪算哪，面临分流节点多诉诸盲目考研、匆忙直博或延毕等待。[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|(Zheng, 2023, pp. 286–287)]]
+> - **权宜性结果与事后合理化修辞** 弱势学子的初次出路多表现为应对外部偶发情境的权宜妥协；随后通过调用外部话语为被动结果寻求心理自洽。[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|(Zheng, 2023, p. 287)]]
 
+> [!logic-map]- 迷失无从模式的困境生成机制
+> ```mermaid
+> flowchart TD
+>     subgraph 先赋结构约束
+>         BG["弱势家庭背景（中西部农村/工农家庭）"]
+>         FG["第一代大学生身份：缺乏代际文化资本"]
+>     end
+>     
+>     BG & FG --> F1["信息暗码壁垒：常识感知严重滞后"]
+>     BG & FG --> F2["文化工具匮乏：多重图式互斥抵消"]
+>     BG & FG --> F3["习性撕裂内耗：自我效能与归属感低"]
+>     
+>     F1 & F2 & F3 --> LM["迷失无从状态（直觉依赖 + 弱价值信念）"]
+>     
+>     LM --> D1["错失履历准备窗口期（简历一盘散沙）"]
+>     LM --> D2["被动权宜出路：仓促直博/考研二战/延毕"]
+>     D2 --> D3["事后合理化修辞：寻求心理安慰与自洽"]
+> ```
 
-同样是[[Intuition-Dependent Mode|直觉依赖模式]]，为什么有些人变成了迷失无从者，有些人却成了[[Value Conformist Mode|价值归顺者]]？关键是大学教育的重塑作用能否发生——"价值归顺者"因为接受了学校里的主流文化宣导而树立起了被学校和校友所支持的生涯目标，由此免于生涯困境。而"迷失无从者"则因为种种原因未能接受这种来自学校教育的意义馈赠——"在学校的引导、世俗的追求、自己微弱的理想等若干选项的纠结之间"走不出来（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。
+---
+
+> [!concept-proposition] 命题一｜多重文化图式的相互抵消与文化工具箱的匮乏导致弱势学子陷入认知失焦与决策瘫痪
+> **文化冲突与意义系统内耗** 探讨当多元外部话语涌入弱势青年意识时引发的意义真空与行动瘫痪机制。
+
+> [!claim] Zheng, Y.
+> **相互拮抗的文化图式与价值失焦** 郑雅君研究指出，迷失无从者的核心困境在于掌握的观念不成体系且相互抵牾。一方面，从小内化的家庭生计图式要求其尽快反哺家庭；另一方面，大学官方倡导的家国理想又使其不甘流于俗套，而周围同侪的消费主义与出国风尚更进一步动摇了其认知根基。当行动者面临具体选择时，多套价值图式同时被激活并相互抵消，导致其在每一个可能方向前都看到巨大的缺陷与反对声音，陷入旷日持久的意义游离，最终在毕业关头丧失了主动抉择的能力。[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|(Zheng, 2023, pp. 284–287)]]
+
+---
+
+> [!concept-proposition] 命题二｜默会常识暗码的缺失与[[Habitus|习性]]撕裂持续削弱第一代大学生的策略行动力与文凭兑换率
+> **隐性文化资本与分流不利地位** 阐明阶级暗码阻隔如何将先赋劣势转化为劳动力市场上的文凭贬值与被动妥协。
+
+> [!claim] Zheng, Y.
+> **阶层暗码壁垒与被动权宜选择** 郑雅君结合[[In-depth Interview|深度访谈]]个案（如牛铭、寒梅、冰倩等）论证指出，中产家庭子女视若空气的求职常识（如实习经历对简历的决定性作用、[[Recommendation-Based Graduate Admission System|保研]]与出国的提前布局），对第一代弱势大学生而言却是需要艰难领悟的暗码。缺乏家庭信息网支撑的弱势学子，前三年多将精力局限在单纯课堂考分上，临近毕业才猛然发现简历空白。加之习性分裂带来的持续心理内耗，他们往往无法参与激烈的市场招聘竞争，只能情急之下被动直博、考研二战或延毕，导致名校文凭向职业地位的兑换能力大打折扣。[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|(Zheng, 2023, pp. 285–287)]]
+
+---
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **文化图式抵消命题** | 多重异质观念相互拮抗引发价值失焦与意义内耗 | 转型期中国高校第一代大学生的生涯抉择困境 | [[Argument_Zheng_2023_ShanghaiSanlian_Ch05\|Zheng (2023)]] |
+> | **常识暗码壁垒命题** | 隐性求职规则与文化资本缺位导致策略能力瘫痪及文凭兑换受挫 | 高等教育求职分流中的隐性阶层再生产过程 | [[Argument_Zheng_2023_ShanghaiSanlian_Ch05\|Zheng (2023)]] |
+
+---
+
+> [!dev-timeline] 概念演变
+> - **2010s — 隐性文化资本与第一代大学生研究兴起** 安妮特·拉鲁（Annette Lareau）等学者提出阶级暗码壁垒概念，揭示优势阶层家长的代际信息传递如何制约青年出路。
+> - **2019 — 中国精英高校习性分裂考察** 金金与[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen Ball）通过实证研究揭示中国农村学子进入精英大学后经历的习性撕裂与文化适应消耗。
+> - **2023 — 毕业出路迷失无从模式确立** 郑雅君系统界定迷失无从模式，将弱势第一代学子在策略手段与意义信念上的双重困境概念化。[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|(Zheng, 2023, pp. 284–287)]]
+
+---
+
+> [!debates|notitle] 学术争议与理论张力
+>
+> > [!axis] 迷失困境的责任归因：个体能力不足 vs 制度性支持缺位
+> > 迷失无从状态究竟是个体缺乏进取心与生涯成熟度，还是高校体制对弱势第一代大学生隐性支持系统匮乏的制度产物？
+> >
+> > - **个体发展短板论** 归咎于个体自我探寻起步过晚、直觉依赖倾向严重以及抗压能力不足。
+> > - **隐性阶级筛选论（[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|Zheng, 2023]]）** 指出大学选拔机制将中产家庭惯习预设为普遍常识，制度缺乏面向弱势学生的履历辅导与生涯补偿机制，放任隐性文化资本对出路进行二次筛选。
+
+> [!warning] 适用局限
+> 该概念用于诊断高选择性大学分流场域中弱势学子的结构性困境，不应将该标签本质化为弱势群体的永久特质。随着高校针对第一代大学生的发展支持体系、职业导师机制与资助项目的完善，该模式的困境具有被干预和逆转的可能。[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|(Zheng, 2023, pp. 284–287)]]
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Graduation Pathway Typology]] | 概念 | 毕业出路四分类模型，迷失无从模式所属的母体分类框架。 |
+> | [[Intuition-Dependent Mode]] | 概念 | 直觉依赖模式，迷失无从模式所体现的低策略性行动方式。 |
+> | [[First-Generation College Student]] | 概念 | 第一代大学生，迷失无从模式最具代表性的主体群体。 |
+> | [[Value Conformist Mode]] | 概念 | 价值归顺模式，同样具备直觉依赖特征但接受了体制价值赞助的对照群体。 |
+> | [[Self-Driven Mode]] | 概念 | 自主驱动模式，在策略能力与价值确信上与迷失无从模式构成两极对照。 |
+> | [[Opportunist Mode]] | 概念 | 机会主义模式，同样缺乏内在自洽信念但具备极高策略能力的对照类型。 |
+> | [[Work Meaning Schemas]] | 概念 | 工作意义文化图式，迷失无从者因图式相互抵消而陷入意义瘫痪。 |
+> | [[Cultural Barrier]] | 概念 | 文化障碍，第一代学子在解码大学场域隐性游戏规则时遭遇的壁垒。 |
 
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch05|Zheng (2023)]] — 阐释弱势背景名校生因文化工具箱匮乏与价值图式冲突导致的迷失无从状态与被动出路（Ch. 5）。
-
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch05|Zheng (2023)]] — 系统阐释弱势第一代学子因文化工具匮乏与多重图式抵消所致的迷失无从状态及被动出路（Ch. 5）。

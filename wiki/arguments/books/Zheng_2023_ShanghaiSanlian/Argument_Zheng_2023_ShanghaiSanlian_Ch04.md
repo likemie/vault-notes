@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian_Ch04"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian_Ch04"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book-chapter"
-argument_related_count: 44
+argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -80,7 +80,6 @@ related_persons:
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
   - "[[Gaokao]]"
-  - "[[Bangkok Business School]]"
 status: draft
 created: 2026-11-17
 updated: 2026-11-17
@@ -178,7 +177,7 @@ updated: 2026-11-17
 
 > [!case] 泽斌与敏浩的策略性学业精力管理
 > - **泽斌（南方大学工科 · 父亲私营企业合伙人）**
->   - *策略选课保底* [[Gaokao|高考]]被调剂至光电工程系，低年级未定方向时研读校园论坛（Bulletin Board System, [[Bangkok Business School|BBS]]）盛传的《选课学概论》，避开硬核严苛课程、选修给分宽松且任务轻便课程以维持 3.5 绩点。
+>   - *策略选课保底* [[Gaokao|高考]]被调剂至光电工程系，低年级未定方向时研读校园论坛（Bulletin Board System, BBS）盛传的《选课学概论》，避开硬核严苛课程、选修给分宽松且任务轻便课程以维持 3.5 绩点。
 >   - *边际效用核算* 直言从 3.5 提至 3.8 缺乏边际效益，将学业精力压缩在 20% 以内靠考前刷题突击，腾出 80% 精力全额投入体验生活、广泛结交人脉与探索职业目标。
 > - **敏浩（南方大学社科 · 父母为机关干部）**
 >   - *底线思维达标* 大一立志从政，大二瞄准研究生支教团推免名额，敏锐捕捉到研支团仅要求学分绩点达到 2.8 的底线门槛。
