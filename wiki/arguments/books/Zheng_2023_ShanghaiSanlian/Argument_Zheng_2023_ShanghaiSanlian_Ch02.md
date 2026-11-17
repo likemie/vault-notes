@@ -10,9 +10,9 @@ title: "Argument_Zheng_2023_ShanghaiSanlian_Ch02"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian_Ch02"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book-chapter"
-argument_related_count: 12
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 26
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "金榜题名之后：大学生出路分化之谜"
 publisher: "上海三联书店"
@@ -38,15 +38,30 @@ related_concepts:
   - "[[Student Engagement]]"
   - "[[Student Involvement]]"
   - "[[First-Generation College Student]]"
+  - "[[Horizontal Stratification in Higher Education]]"
+  - "[[Reflexivity]]"
 related_theories:
   - "[[College Process Model]]"
   - "[[Dual-Process Model of Culture in Action]]"
   - "[[Culture as Toolkit]]"
+  - "[[Wisconsin Model of Status Attainment]]"
+  - "[[Careership Theory]]"
+  - "[[Cumulative Inequality Theory]]"
 related_persons:
   - "[[Yajun Zheng]]"
   - "[[Pierre Bourdieu]]"
+  - "[[Vincent Tinto]]"
+  - "[[George Kuh]]"
+  - "[[Alexander Astin]]"
   - "[[Max Weber]]"
   - "[[Ann Swidler]]"
+related_methods:
+  - "[[In-depth Interview]]"
+  - "[[Constructivist Grounded Theory]]"
+  - "[[Progressive Focussing]]"
+  - "[[Purposeful Sampling]]"
+  - "[[Triangulation]]"
+  - "[[Member Checking]]"
 status: draft
 created: 2026-11-17
 updated: 2026-11-17
@@ -58,7 +73,7 @@ updated: 2026-11-17
 > 如何打破将高等教育简化为学历与年限的地位获得黑箱，从文化与过程视角阐明大学生活经历如何塑造学生的毕业出路？家庭资源如何转化为大学文化资本？学生在校投入如何转化为出路优势？价值信念如何影响生涯目标与最终去向的树立？通过何种质性研究设计与方法才能捕捉这些微观机制？
 
 > [!claim] 核心主张
-> 上大学是学生在校经历社会化、建立自我认同与选择生涯道路的文化性过程。通过由资本化过程、投入过程和价值选择过程三层由内而外同心嵌套构成的[[College Process Model|大学过程分析框架]]，能够系统透视出路分化的深层机制。在认识论上遵循建构主义与韦伯诠释学路径，选取南北两所顶尖大学开展田野调查，对 62 名毕业班学生进行两阶段半结构式深度追踪访谈，结合建构主义扎根理论与渐进式聚焦法，通过循环比对个案经验与理论猜想，提炼出解释出路分化的实践图式。（pp. 33–64）
+> 上大学是学生在校经历社会化、建立自我认同与选择生涯道路的文化性过程。通过由资本化过程、投入过程和价值选择过程三层由内而外同心嵌套构成的[[College Process Model|大学过程分析框架]]，能够系统透视出路分化的深层机制。在认识论上遵循建构主义与韦伯诠释学路径，选取南北两所顶尖大学开展田野调查，对 62 名毕业班学生进行两阶段半结构式[[In-depth Interview|深度追踪访谈]]，结合[[Constructivist Grounded Theory|建构主义扎根理论]]与[[Progressive Focussing|渐进式聚焦法]]，通过循环比对个案经验与理论猜想，提炼出解释出路分化的实践图式。（pp. 33–64）
 
 > [!concept-lens] 阅读透镜
 > - **核心对象** 精英大学内部学生组织课内外生活、树立生涯目标与选择毕业出路的微观过程，以及两所顶尖高校的田野个案（pp. 33–35, 52–56）。
@@ -233,7 +248,7 @@ updated: 2026-11-17
 ---
 
 > [!claim|step] 论证步骤三　深耕南北名校开展长期追踪，在反复比对与自我审视中提炼行动规律
-> 坚持建构主义诠释学范式，在南北两所典型名校中开展两阶段目的抽样，结合渐进式聚焦深度访谈与扎根理论迭代比对，并在持续反思立场前设中提炼学生出路分化的实践图式（Arksey & Knight, 1999；Charmaz, 2006；pp. 52–64）。
+> 坚持建构主义诠释学范式，在南北两所典型名校中开展两阶段[[Purposeful Sampling|目的抽样]]，结合[[Progressive Focussing|渐进式聚焦]][[In-depth Interview|深度访谈]]与[[Constructivist Grounded Theory|扎根理论]]迭代比对，并在持续反思立场前设中提炼学生出路分化的实践图式（Arksey & Knight, 1999；Charmaz, 2006；pp. 52–64）。
 
 > [!sub-claim] 1. 南北两所顶尖大学在学科底色与校园文化上形成鲜明对照
 
@@ -243,26 +258,26 @@ updated: 2026-11-17
 
 > [!sub-claim] 2. 两阶段抽样兼顾优势者与劣势群体，确保追踪样本涵盖多维经验
 
-> [!sample-panel] 两阶段目的抽样与质性追踪设计
+> [!sample-panel] 两阶段[[Purposeful Sampling|目的抽样]]与质性追踪设计
 > | 抽样阶段 / 维度 | 样本构成 | 核心目的与方法 |
 > |---|---|---|
 > | **第一阶段（2015–2016）** | 38 人（北方大学 18 人，南方大学 20 人）；男生，同班平均学分绩点（Grade Point Average, GPA）前 50% | 在同质高学业成就群体中控制干扰变量，提炼出路分化的核心动力机制，以家境优势者居多（pp. 55–56）。 |
 > | **第二阶段（2017–2018）** | 24 人（全部来自南方大学）；含 17 位家庭经济困难生与 10 位女生 | 有针对性地补充弱势背景与女性个案，打破早期样本的同质性偏误，增强多维异质性与经验代表性（p. 56）。 |
 > | **访谈与追踪体量** | 62 名跟踪受访者（另含 8 名预访谈补充个案）；单次访谈 2.5–3.5 小时 | 全程录音转录文字超 150 万字，并通过持续线上联系长期跟踪直至毕业去向最终敲定（Arksey & Knight, 1999；王宁, 2002；杨善华和孙飞宇, 2005；pp. 56–58）。 |
 
-> [!dev-timeline] 渐进式聚焦（Progressive Focussing）三阶段访谈设计
+> [!dev-timeline] [[Progressive Focussing|渐进式聚焦]]三阶段访谈设计
 > - **第一阶段 — 个人生活史溯源** 探询受访者的家庭背景、早期求学经历、父母教养方式与期望，理解其入学前的成长参照系与初始文化资本储备（p. 56）。
 > - **第二阶段 — 大学过程深入** 聚焦入学心境、适应困难、大学四年学业表现、主要课外活动投入，以及求学期间意义感与价值观的变化（pp. 56–57）。
 > - **第三阶段 — 毕业出路与未来愿景聚焦** 深入探讨眼下毕业抉择（保研、考研、留学、求职）、家人意见、中长期人生愿景，并追问至能设身处地理解受访者的行动策略为止（p. 57）。
 
 > [!sub-claim] 3. 运用扎根理论循环检验理论猜想，自觉反思局内人与局外人的认知偏见
 
-> [!proc] 建构主义扎根理论分析与效度检验流程
+> [!proc] [[Constructivist Grounded Theory|建构主义扎根理论]]分析与效度检验流程
 > 1. **理论前见与经验归纳的往复循环** 承认调查难以彻底剥离理论前见，以个案经验材料持续检验和修正预设假设，直至提炼出目标掌控模式与直觉依赖模式（Charmaz, 2006；pp. 58–60）。
 > 2. **持续比较与编码类目饱和** 逐份分析访谈逐字稿，在类目生成、属性细化与核心范畴整合中反复比对不同受访者的行动图式，确保理论命题兼容所有个案经验。
-> 3. **三角互证与受访者人员校验** 结合校友论坛讨论、高校官方统计年鉴与第三人视角展开三角互证，并向受访者回馈初步分析结论以检验事实准确度（陈向明, 2000；p. 60）。
+> 3. **三角互证与受访者人员校验** 结合校友论坛讨论、高校官方统计年鉴与第三人视角展开[[Triangulation|三角互证]]，并向受访者回馈初步分析结论以进行[[Member Checking|人员校验]]检验事实准确度（陈向明, 2000；p. 60）。
 
-> [!case] 田野反身性审视：局内人偏见与局外人认知冲击
+> [!case] 田野[[Reflexivity|反身性]]审视：局内人偏见与局外人认知冲击
 > - **南方大学的局内人偏见** 长期处于南方大学环境中，田野初期习惯性将偏好高薪雇主与外资企业视作不言自明的常识；直到接触北方大学后，才意识到这种追求源于特定校园文化塑造的地方性前见，促使反省自身作为局内人的前设盲点（pp. 60–62）。
 > - **北方大学的局外人冲击** 初到北方大学时，面对其强烈的集体主义导向与政治化话语体系，深感陌生与隔阂；为克服局外人阻隔，通过与对议题感兴趣的同学展开非正式对话并浏览海量校友论坛，逐步理解其又红又专的精神脉络（p. 62）。
 > - **性别互动中的访谈张力** 女性受访者在深度交流中往往更容易推心置腹、动情而泣；面对自身出路受挫或不满意的男性受访者时，常显得拘谨生涩，田野中通过坦率交流与会意大笑化解尴尬，并克制追问以避免对受访者造成心理负担（p. 61）。

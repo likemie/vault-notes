@@ -7,7 +7,7 @@ summary: "Parlett和Hamilton (1976) 提出的质性研究数据分析策略：�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
 confidence: medium
 status: draft
@@ -42,12 +43,12 @@ updated: 2026-11-17
 ---
 
 > [!def] Progressive Focussing
-> 逐步聚焦是 Parlett and Hamilton（1976）提出的[[Qualitative Research\|质性研究]]数据分析策略。研究者首先以广角镜头（wide angle lens）收集数据，随后通过筛选（sifting）、归类（sorting）、审视（reviewing）和反思（reflecting），逐步识别出情境中最显著的突出特征（salient features），并将这些特征作为后续聚焦的议程。整个过程如同漏斗过滤——从宽泛走向精炼。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 435)]]
+> 逐步聚焦是 Parlett and Hamilton（1976）提出的[[Qualitative Research\|质性研究]]数据分析策略。研究者首先以广角镜头（wide angle lens）收集数据，随后通过筛选（sifting）、归类（sorting）、审视（reviewing）和反思（reflecting），逐步识别出情境中最显著的突出特征（salient features），并将这些特征作为后续聚焦的议程。整个过程如同漏斗过滤，从宽泛逐步走向精炼。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 435)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 一种质性研究的数据收集与分析策略，强调在初始阶段尽量开放地收集数据，再通过反复的筛选、比较和反思逐步收窄焦点。
 > - **用途** 帮助研究者管理质性数据过载问题（data overload），避免过早聚焦于非核心议题，确保分析的焦点是由数据本身驱动而非先验预设。
-> - **边界** 不等于随机或无序的数据收集——逐步聚焦是有意识的策略性收窄。也不等于[[Grounded Theory\|扎根理论]]的[[Theoretical Sampling\|理论抽样]]——虽然两者都强调从数据出发，但逐步聚焦更侧重于从广到窄的聚焦过程，而非理论生成导向的抽样决策。
+> - **边界** 逐步聚焦是有意识的策略性收窄，区别于[[Grounded Theory\|扎根理论]]的[[Theoretical Sampling\|理论抽样]]；两者虽均立足数据，但逐步聚焦侧重于信息过载时的议程递进收拢，理论抽样则直接指导后续样本选择。
 
 > [!citation-card] 关键表述
 > 逐步聚焦从研究者以广角镜头收集数据开始，然后通过筛选、归类、审视和反思，情境中最显著的突出特征浮现出来。这些特征随后被用作后续聚焦的议程。整个过程如同从宽泛走向狭窄的漏斗过滤。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 435)]]
@@ -71,4 +72,4 @@ updated: 2026-11-17
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 将逐步聚焦纳入质性数据分析的七步骤框架的总体策略，并指出其在[[Longitudinal Study|纵向研究]]中的应用（p. 435–436）。
-> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch02|Zheng (2023, pp. 56–58)]] — 在关于一流大学毕业生出路分化的半结构化访谈中采用渐进式聚焦，从个人成长史、大学过程逐步收窄至毕业决策。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 在[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|第二章]]中运用渐进式聚焦设计三阶段深度访谈（个人生活史、大学过程、毕业去向），逐层收拢把握名校生出路分化机制（pp. 56–58）。
