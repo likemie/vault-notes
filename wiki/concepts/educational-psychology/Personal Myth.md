@@ -7,7 +7,7 @@ aliases:
 summary: "叙事心理学中个体为整合生活经验而建构的自传性生命故事，通过赋予过去、现在与未来以统一连贯的意义，支撑自我的心理完整性与发展方向。"
 type: concept
 domain: "educational-psychology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -29,6 +29,7 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
 confidence: high
 status: draft
 created: 2026-11-17
@@ -65,3 +66,19 @@ updated: 2026-11-17
 ### 在教育研究中的分析价值
 
 在社会流动与教育分层研究中，个人神话[[Construct|构念]]为超越机械的“结构再生产论”提供了重要的微观心理机制。它确立了行动者具备自反性再诠释能力的叙事主体地位，超越了单向承受阶层场域挤压的被动客体假定。通过重述与书写自身故事，流动者能够将昔日的边缘感与适应创伤重新定性为独特的文化阅历，进而成长为沟通弱势社群与精英决策层之间的双文化使者。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:---|:---|:---|
+> | [[Habitus Divided Against Itself]] | 概念 | 个人神话是修复与超越习性裂化的核心自传叙事机制。 |
+> | [[Cultural Disorientation]] | 概念 | 个人神话为克服高等教育深层文化迷失提供了自我认同重构工具。 |
+> | [[Cultural Barrier]] | 概念 | 借助个人神话实现自我延伸性是弱势学子突破文化障碍的关键路径。 |
+> | [[Dan P. McAdams]] | 人物 | 个人神话模型的提出者与当代叙事心理学领军人物。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 结合生活史追踪，在[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|第六章]]实证阐述个人神话在弥合习性裂化中的功能。

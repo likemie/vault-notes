@@ -9,7 +9,7 @@ aliases:
 summary: "指父母双方均未接受过高等教育的大学生群体，在高等教育社会分层中常作为家庭文化资本匮乏与制度熟悉度断裂的核心操作化指标，在精英大学中面临多维弱势累积。"
 type: concept
 domain: "higher-education"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -64,9 +64,10 @@ related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
   - "[[Higher Education Act of 1965]]"
 related_arguments:
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch04]]"
-  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
 confidence: medium
 status: draft
 created: "2026-11-17"
@@ -230,4 +231,4 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 系统追踪名校第一代大学生的多维弱势累积（第二、三章），并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]与[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|第五章]]解构文化移入、迷失无从与价值归顺出路机制。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 系统追踪名校第一代大学生的多维弱势累积（第二、三章），在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]与[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|第五章]]解构出路机制，并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|第六章]]论述文化障碍的突破路径。

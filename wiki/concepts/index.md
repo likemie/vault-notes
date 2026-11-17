@@ -1322,7 +1322,7 @@ Total entries: **2117**
 > - [[Seductive Details Effect]] — 教学材料中添加有趣但与核心目标无关的视听装饰元素，导致学习者注意力分散并损害深层理解的认知负荷效应
 > - [[Self Consequences]] — Visible Learning MetaX 因素自我奖惩的条目，归属学生学习策略 › 元认知／自我调节学习；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Self Explanation]] — Visible Learning MetaX 因素自我解释的条目，归属学生学习策略 › 元认知／自我调节学习；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
-> - [[Self-Continuity, Self-Distinctness, and Self-Agency]] — Damon and Hart 提出的 I-Self 三个构成维度，Li 以此解释文化学习模型在全球化中为何通过身份认同得以持久
+> - [[Self-Continuity, Self-Distinctness, and Self-Agency]] — Damon and Hart 提出的主我（I-Self）三个构成维度，李瑾以此解释文化学习模型在全球化与移民代际传承中为何通过身份认同保持持久性。
 > - [[Self-control]] — 个体在目标导向活动中主动调节注意、情绪与冲动反应以实现长远目标的非认知心理能力。在学习科学中，它构成了元认知调节与社会情感能力的底层基础，表现为反应抑制、情绪稳定与任务切换，对学业持久性与课堂适应具有关键支撑作用。
 > - [[Self-judgement and Reflection]] — Visible Learning MetaX 因素自我评判与反思的条目，归属学生学习策略 › 元认知／自我调节学习；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Self-Monitoring in Learning]] — Visible Learning MetaX 因素自我监控的条目，归属学生学习策略 › 元认知／自我调节学习；目前只收录 MetaX 元分析汇总数据，概念界定待补充。

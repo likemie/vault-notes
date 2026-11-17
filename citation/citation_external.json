@@ -5746,8 +5746,8 @@
     "Damhuis, 2015": "Damhuis, 2015",
     "Damiani (2016)": "Damiani, 2016",
     "Damiani, 2016": "Damiani, 2016",
-    "Damon & Hart (1997)": "Damon & Hart, 1997",
-    "Damon & Hart, 1997": "Damon & Hart, 1997",
+    "Damon & Hart (1988)": "Damon & Hart, 1988",
+    "Damon & Hart, 1988": "Damon & Hart, 1988",
     "Damsgaard (2020)": "Damsgaard, 2020",
     "Damsgaard, 2020": "Damsgaard, 2020",
     "Dan P. McAdams (1993)": "Dan P. McAdams, 1993",
@@ -17635,8 +17635,6 @@
     "Nakanishi, 2014": "Nakanishi, 2014",
     "Nakaya & Okada (2020)": "Nakaya & Okada, 2020",
     "Nakaya & Okada, 2020": "Nakaya & Okada, 2020",
-    "Nakkula & Toshalis (2006)": "Nakkula & Toshalis, 2006",
-    "Nakkula & Toshalis, 2006": "Nakkula & Toshalis, 2006",
     "Nalley et al. (2015)": "Nalley et al., 2015",
     "Nalley et al., 2015": "Nalley et al., 2015",
     "Namung et al. (2019)": "Namung et al., 2019",
@@ -70265,14 +70263,14 @@
       ],
       "title": "Large-Scale Assessments and Educational Policies in Italy"
     },
-    "Damon & Hart, 1997": {
+    "Damon & Hart, 1988": {
       "aliases": [
-        "Damon & Hart, 1997",
-        "Damon & Hart (1997)"
+        "Damon & Hart, 1988",
+        "Damon & Hart (1988)"
       ],
       "doi": "",
       "identity_keys": [
-        "Damon & Hart, 1997"
+        "Damon & Hart, 1988"
       ],
       "isbn": "",
       "seen_in": [
@@ -143939,6 +143937,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md",
+        "wiki/concepts/learning-science-cognitive-science/Self-Continuity, Self-Distinctness, and Self-Agency.md",
         "wiki/concepts/research-methodology/Cross-cultural Validity.md",
         "wiki/theories/educational-psychology/Self-Determination Theory.md"
       ],
@@ -156720,21 +156719,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "An integrative review of the relationship of academic and social goals with academic help-seeking: Is seeking help always the best strategy for a student's learning"
-    },
-    "Nakkula & Toshalis, 2006": {
-      "aliases": [
-        "Nakkula & Toshalis, 2006",
-        "Nakkula & Toshalis (2006)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Nakkula & Toshalis, 2006"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/learning-science-cognitive-science/Self-Continuity, Self-Distinctness, and Self-Agency.md"
-      ],
-      "title": ""
     },
     "Nalley et al., 2015": {
       "aliases": [

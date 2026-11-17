@@ -6,7 +6,7 @@ aliases:
 summary: "Pierre Bourdieu 的核心概念，指具有相对自主性、客观位置关系网络和资本分布结构的社会空间，行动者在此依据内隐规则争夺特定资源与象征资本；亦被拓展用于分析超国家机构通过数据基础设施与可比指标建构的跨国政策场域。"
 type: concept
 domain: "sociology-of-education"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"

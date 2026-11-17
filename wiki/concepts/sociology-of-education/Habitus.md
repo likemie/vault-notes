@@ -6,7 +6,7 @@ aliases:
 summary: "Pierre Bourdieu 实践理论的核心枢纽概念，指行动者在特定社会生存条件中具身化的持久行为倾向系统，用于解释客观结构、身体实践与阶层再生产。"
 type: concept
 domain: "sociology-of-education"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -56,6 +56,7 @@ related_persons:
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
   - "[[Argument_Eacott_2011_JEAH]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
 confidence: high
@@ -121,7 +122,7 @@ updated: 2026-11-17
 > **惯习滞后与错置** Bourdieu 指出，当行动者跨入异质场域时，原初惯习无法有效驾驭新规则，而适配的新倾向尚未养成，这种时间差即构成“惯习滞后（habitus hysteresis）”，往往导致发展机遇被错过；而行动者置身于异己场域时产生的如同“鱼离了水”般的不适感，则构成“惯习错置（habitus dislocation）”（Bourdieu and Wacquant, 1992；[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。在英国工人阶层学生进入精英大学的研究中，这种错置表现为强烈的“精英休克”（Reay et al., 2009）。
 
 > [!claim] [[Yajun Zheng|Zheng, Y.]]
-> **惯习分裂与身份迷失** [[Yajun Zheng|郑雅君]]在考察中国顶尖大学弱势家庭学生时发现，个体在异质场域中承受维持旧有联系与建立新倾向的双重撕裂，陷入“惯习分裂（a habitus divided against itself）”的痛苦境地（引 Bourdieu, 1999）。从偏远农村进入南方名校的学生因自我认同割裂而难以建立长线学业规划，暴露出场域剧烈转换所引致的内在自我震动（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。
+> **惯习分裂与身份迷失** [[Yajun Zheng|郑雅君]]在考察中国顶尖大学弱势家庭学生时发现，个体在异质场域中承受维持旧有联系与建立新倾向的双重撕裂，陷入“惯习分裂（a habitus divided against itself）”的痛苦境地（引 Bourdieu, 1999）；在[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|第六章]]中，她进一步提出借助自传体个人神话与原生文化和解以缝合断裂自我的超越路径。
 
 > [!claim] [[Scott Eacott|Eacott, S.]]
 > **专业身份转型中的领导惯习分裂** [[Argument_Eacott_2011_JEAH|Eacott (2011)]] 揭示，当公立学校教师升任校长时，其领导惯习呈现自我撕裂状态：既要坚守教师群体内化的教育本位价值，又必须回应[[New Public Management|新公共管理]]体制强加的[[Performance Indicators|绩效指标]]（如标准化统测分数与学校排名），这种双重忠诚在资源分配决策中激化了内在价值张力。
@@ -197,7 +198,7 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 将阶层惯习操作化为目标掌控与直觉依赖模式，揭示弱势生惯习滞后与错置（[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]），在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]论述再社会化重塑，并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|第五章]]分析学校化惯习促成的体制赞助流动。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 将阶层惯习操作化为目标掌控与直觉依赖模式（第三章），在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]论述再社会化重塑，在[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|第五章]]分析学校化惯习，并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|第六章]]论述惯习裂化的叙事弥合路径。
 > - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 追踪澳大利亚公立学校校长在教育价值守正与绩效考核问责之间的领导惯习分裂。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 探讨地方教育行动者如何在既有制度常识与实践惯性中[[Recontextualization|再情境化]]跨国政策[[Paradigm|范式]]。
 

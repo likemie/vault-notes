@@ -9,10 +9,10 @@ aliases:
 summary: "布迪厄社会学中刻画阶层跨越与社会流动代价的核心构念，指行动者在经历悬殊的阶级或文化边界转移时，因被迫兼顾原初生活史根基与精英场域主导规范而产生的内在认知冲突、自我认同撕裂与深层身份焦虑。"
 type: concept
 domain: "sociology-of-education"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/sociology
   - habitus
@@ -34,7 +34,9 @@ related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []
 related_arguments:
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
 confidence: high
 status: draft
 created: 2026-11-17
@@ -103,6 +105,9 @@ updated: 2026-11-17
 >
 > > [!claim] Zheng, Y.
 > > **精英休克与自我封闭的破坏效应** [[Argument_Zheng_2023_ShanghaiSanlian_Ch03|郑雅君 (2023, pp. 93–96)]]指出，以昌盛为代表的农村[[First-Generation College Student|第一代大学生]]进入拔尖名校后，面对见多识广的优势同辈产生巨大的习性错置；不同于优势学生能将不适归咎于学校，弱势学子容易将冲突全盘内化为自我贬抑，陷入长达一年的抑郁与退缩状态，直接瓦解了对场域博弈规则的主动探究意愿，深陷直觉依赖模式而难以确立有效出路目标。
+>
+> > [!claim] [[Argument_Zheng_2023_ShanghaiSanlian_Ch06|郑雅君 (2023, 第六章)]]
+> > **叙事认同缝合与原生文化和解** 郑雅君（[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|2023, 第六章, pp. 366–370]]）进一步论述，克服习性裂化依赖于自反性内在自我的重建。借助丹·P·麦克亚当斯（[[Dan P. McAdams|Dan P. McAdams]]）的[[Personal Myth|个人神话]]模型，行动者可以通过自传叙事将过去的底层记忆与当下的名校阅历贯通整合，在维持生活史连贯性的同时避免“文化自杀”或“文化固守”；同时汲取迪迪埃·埃里蓬（[[Didier Eribon|Didier Eribon]]）与原生文化和解的智慧，将坚韧品质转化为服务基层的文化使者优势。
 
 ---
 
@@ -149,4 +154,4 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch03|郑雅君 (2023, 第三章)]] — 依托北方大学农村第一代大学生昌盛等深度个案，实证检验习性分裂如何导致学生陷入长达一年的自我怀疑与目标制定能力折损（pp. 93–96）。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 依托北方大学农村第一代大学生昌盛等深度个案检验习性分裂的破坏效应（[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]），并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|第六章]]论述通过个人神话实现叙事整合的超越路径 (pp. 363–370)。
