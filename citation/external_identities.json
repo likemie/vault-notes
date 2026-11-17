@@ -10455,13 +10455,13 @@
     },
     "Bernstein, 1971": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9780710070609",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02.md",
         "wiki/concepts/educational-philosophy/Anthropomorphic Model.md",
         "wiki/concepts/sociology-of-education/Cultural Code.md"
       ],
-      "title": ""
+      "title": "Class, Codes and Control, Vol. 1: Theoretical Studies Towards a Sociology of Language"
     },
     "Bernstein, 1974": {
       "doi": "",
@@ -74531,6 +74531,14 @@
       "seen_in": [],
       "title": "Culture and Education"
     },
+    "Mitchell Stevens et al., 2008": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Mitchell Stevens.md"
+      ],
+      "title": ""
+    },
     "Mitchell, 1987": {
       "datasets": [
         "metax:S1535"
@@ -104180,7 +104188,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md",
-        "wiki/concepts/sociology-of-education/Cultural Capital.md"
+        "wiki/concepts/sociology-of-education/Cultural Capital.md",
+        "wiki/persons/us/Jenny Stuber.md"
       ],
       "title": "Class, Culture, and Participation in the Collegiate Extra-Curriculum"
     },

@@ -9,7 +9,7 @@ aliases:
 summary: "教育社会学与布迪厄场域理论构念，指行动者在经历深度跨场域流动、密集再社会化或浸润于强效教育机构（如大学“育婴室”）过程中，原有相对稳定的身体化惯习、认知图式与价值取向发生深刻重构与调适的能动过程。"
 type: concept
 domain: "sociology-of-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -47,6 +47,7 @@ related_methods:
   - "[[Qualitative Research]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
+  - "[[Mitchell Stevens]]"
   - "[[Yajun Zheng]]"
 related_facts: []
 related_arguments:
@@ -111,7 +112,7 @@ updated: 2026-11-17
 > **大学育婴室机制与再社会化可能** 探讨高等教育如何超越文凭生产功能，通过集中的文化浸润为学生习性重组提供制度化空间。
 
 > [!claim] Stevens, M. L., Armstrong, E. A. & Arum, R.
-> **作为育婴室的大学文化濡化功能** 米切尔·史蒂文斯等人指出，高等教育的多重面向中，“育婴室”（Incubator）面向强调高校为年轻人提供了一个受到保护的微观社会环境。在这一空间内，集中的生活共同体生活、密集的人际互动与知识探索能够对学生的认知框架、审美品味与价值追求施加深层重塑。(Stevens et al., 2008, pp. 132–135)
+> **作为育婴室的大学文化濡化功能** [[Mitchell Stevens|米切尔·史蒂文斯]]等人指出，高等教育的多重面向中，“育婴室”（Incubator）面向强调高校为年轻人提供了一个受到保护的微观社会环境。在这一空间内，集中的生活共同体生活、密集的人际互动与知识探索能够对学生的认知框架、审美品味与价值追求施加深层重塑。(Stevens et al., 2008, pp. 132–135)
 
 > [!claim] [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|Zheng, Y.]]
 > **名校环境驱动[[Intuition-Dependent Mode|直觉依赖]]向[[Goal-Controlled Mode|目标掌控]]的转变** [[Yajun Zheng|郑雅君]]（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|2023, 第四章]]）实证发现，约半数原本秉持直觉依赖模式的弱势背景学生在高年级或研究生阶段完成了向目标掌控模式的习性转换。这一过程发端于持续深入的[[Social Engagement|社会性投入]]：名师的人格感召、学术同侪微观圈子的精神激荡以及海外交流开拓的视野，合力促使学生摆脱单一的“跳出农门”功利诉求，建立起内生性的学术志向或公共服务理想，展现出习性对新场域规则的深度能动调适。

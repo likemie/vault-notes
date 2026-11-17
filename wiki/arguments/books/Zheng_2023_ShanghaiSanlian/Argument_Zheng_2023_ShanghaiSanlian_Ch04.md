@@ -10,10 +10,10 @@ title: "Argument_Zheng_2023_ShanghaiSanlian_Ch04"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian_Ch04"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book-chapter"
-argument_related_count: 48
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#fef3c7"
+argument_related_count: 50
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 book_title: "金榜题名之后：大学生出路分化之谜"
 publisher: "上海三联书店"
 year: 2023
@@ -79,9 +79,11 @@ related_persons:
   - "[[Vincent Tinto]]"
   - "[[George Kuh]]"
   - "[[Phillip Brown]]"
+  - "[[Mitchell Stevens]]"
   - "[[Pierre Bourdieu]]"
   - "[[Alexander Astin]]"
   - "[[Ann Swidler]]"
+  - "[[Jenny Stuber]]"
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
   - "[[Gaokao]]"
@@ -105,7 +107,7 @@ updated: 2026-11-17
 > - **核心对象** 两所顶尖名校学生在四年大学期间如何分配时间与精力于学业与课外活动，以及这些投入如何转化为毕业出路筹码（第四章）。
 > - **双重投入维度** 整合[[Vincent Tinto|文森特·汀托]]（Vincent Tinto）的融入理论与[[George Kuh|乔治·库]]（George Kuh）的[[Student Engagement|学生投入]]理论，将大学精力分配[[Operationalization|操作化]]为学业投入（课程学习、师生学术研讨、成绩管理）与社会性投入（人际交往、学生社团、社会实践与名企实习）（第四章）。
 > - **相对[[Employability|就业力]]视阀** 引入[[Phillip Brown|菲利普·布朗]]（Phillip Brown）的就业力理论，指出在[[Knowledge-Based Economy|知识经济]]与[[Credential Inflation|文凭通胀]]背景下，毕业证书仅构成基准门槛，社会性投入所锻造的软技能、经历包装、[[Performance Capital|表现性资本]]与自我呈现构成了相对排序竞争的核心筹码（第四章）。
-> - **[[Habitus Transformation|习性转换]]与育婴室机制** 借鉴米切尔·史蒂文斯（Mitchell Stevens）的高等教育育婴室隐喻与[[Pierre Bourdieu|布迪厄]]实践理论，揭示直觉依赖者通过大学密集社会性投入实现意义感重塑与策略升级的社会流动通道（第四章）。
+> - **[[Habitus Transformation|习性转换]]与育婴室机制** 借鉴[[Mitchell Stevens|米切尔·史蒂文斯]]（Mitchell Stevens）的高等教育育婴室隐喻与[[Pierre Bourdieu|布迪厄]]实践理论，揭示直觉依赖者通过大学密集社会性投入实现意义感重塑与策略升级的社会流动通道（第四章）。
 
 ---
 
@@ -115,7 +117,7 @@ updated: 2026-11-17
 > | **[[Academic Engagement\|学业投入]]与[[Social Engagement\|社会性投入]]** | [[George Kuh\|乔治·库（George Kuh）]]、[[Vincent Tinto\|文森特·汀托（Vincent Tinto）]] | 界定大学生促进自身发展的两大核心行动维度，为剖析阶层化时间精力分配提供基础分析支柱（第四章）。 |
 > | **[[Student Involvement\|学生涉入理论]]** | [[Alexander Astin\|亚历山大·阿斯汀（Alexander Astin）]] | 强调学生向教育实践活动投入的物理时间与心理能量直接决定其成长发展成果（第四章）。 |
 > | **[[Employability\|相对就业力]]与[[Credential Inflation\|文凭通胀]]** | [[Phillip Brown\|菲利普·布朗（Phillip Brown）]] | 揭示知识经济时代劳动力市场筛选从文凭硬指标向经历管理、性格特质与演绎呈现软实力的结构性转移（第四章）。 |
-> | **高等教育作为育婴室（Incubator）** | 米切尔·史蒂文斯等（Mitchell Stevens et al.） | 阐明大学超越文凭生产场所，构成具有密集再社会化功能的文化熔炉，为[[Habitus Transformation\|习性转换]]提供制度性培育温床（第四章）。 |
+> | **高等教育作为育婴室（Incubator）** | [[Mitchell Stevens\|米切尔·史蒂文斯]]等（Mitchell Stevens et al.） | 阐明大学超越文凭生产场所，构成具有密集再社会化功能的文化熔炉，为[[Habitus Transformation\|习性转换]]提供制度性培育温床（第四章）。 |
 > | **持久可转换的[[Habitus\|习性]]** | [[Pierre Bourdieu\|皮埃尔·布迪厄（Pierre Bourdieu）]] | 揭示习性作为可转换倾向系统，在面对异质[[Champ\|场域]]规则时既维持历史连贯性，亦具备生成新实践图式的潜能（第四章）。 |
 > | **[[Culture as Toolkit\|文化工具箱]]重组** | [[Ann Swidler\|安·斯威德勒（Ann Swidler）]] | 阐明学生在面临出路危机与不稳定状态时，如何有意识地引入新意识形态与行动策略以武装自我（第四章）。 |
 > | **弱势学生的独立应对倾向** | 埃普丽尔·伊（April Yee） | 指出弱势背景学子在面临学业与生活挑战时更倾向于独立承受而非主动求助，限制了社会资本积累（第四章）。 |
@@ -210,7 +212,7 @@ updated: 2026-11-17
 ---
 
 > [!claim|step] 论证步骤三　掌控者靠课外活动找准出路：在试错中定下目标，练就职场过硬本领
-> 目标掌控者将社会性投入视作走出抽象身份、明晰职业理想与打造[[Economy of Experience|履历资本]]、[[Narrative Capital|叙事资本]]与[[Performance Capital|表现性资本]]的关键环节。珍妮·斯图伯（Stuber, 2009）指出，积极参与课外活动是个体积累[[Cultural Capital|文化资本]]与社会资本的重要渠道。掌控者在社会性投入中发展出两类典型探寻路径（第四章）。
+> 目标掌控者将社会性投入视作走出抽象身份、明晰职业理想与打造[[Economy of Experience|履历资本]]、[[Narrative Capital|叙事资本]]与[[Performance Capital|表现性资本]]的关键环节。[[Jenny Stuber|珍妮·斯图伯]]（Stuber, 2009）指出，积极参与课外活动是个体积累[[Cultural Capital|文化资本]]与社会资本的重要渠道。掌控者在社会性投入中发展出两类典型探寻路径（第四章）。
 
 > [!sub-claim] 1. 顺藤摸瓜与碰壁试错：在真实经历中摸清自己想干什么
 

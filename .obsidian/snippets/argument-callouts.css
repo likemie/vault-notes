@@ -29286,3 +29286,182 @@ body .callout.callout.callout:is([data-callout="rating-scale"], [data-callout="s
   margin: 0.35rem 0 0 !important;
   padding: 0 0.2rem !important;
 }
+
+
+/* ═══════════════════════════════════════════════════════════
+   [!likert-matrix] / [!survey-matrix] · 李克特矩阵量表组件
+   专门针对题项维度 × 评定等级选项（4点/5点/7点）矩阵设计；
+   采用 table-layout: fixed 与精细百分比锁宽机制，
+   首列自动留足题项文字排版空间，选项列绝对等宽居中，杜绝各行漂移错位。
+   ═══════════════════════════════════════════════════════════ */
+body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) {
+  padding: 0.85rem 1rem 0.95rem !important;
+  background: var(--ac-paper) !important;
+  background-image: none !important;
+  border: 1px solid var(--ac-hair) !important;
+  border-left: 4px solid var(--ac-accent, rgb(68, 110, 155)) !important;
+  border-radius: 10px !important;
+  box-shadow: none !important;
+  margin: 0.8rem 0 !important;
+}
+
+body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]):hover {
+  border-color: var(--ac-edge) !important;
+}
+
+body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) > .callout-title {
+  padding: 0 !important;
+  margin: 0 0 0.55rem !important;
+  background: none !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  align-items: flex-start !important;
+}
+
+body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) > .callout-title .callout-icon {
+  display: none !important;
+}
+
+body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) > .callout-title .callout-title-inner {
+  font-family: var(--ac-serif) !important;
+  font-size: 1.05em !important;
+  font-weight: 600 !important;
+  color: var(--text-normal) !important;
+  letter-spacing: 0 !important;
+}
+
+body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) > .callout-title .callout-title-inner::before {
+  content: "MATRIX · 矩阵量表" !important;
+  display: block !important;
+  width: max-content;
+  margin: 0 0 0.35rem !important;
+  padding: 0 0 0 20px !important;
+  border: 0 !important;
+  background: linear-gradient(var(--ac-accent), var(--ac-accent)) left center / 12px 2px no-repeat !important;
+  color: var(--ac-ink) !important;
+  font-family: var(--ac-sans);
+  font-size: 0.62em !important;
+  font-weight: 650 !important;
+  letter-spacing: 0.14em !important;
+  text-transform: uppercase;
+}
+
+body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) > .callout-content {
+  padding: 0 !important;
+  background: none !important;
+}
+
+/* 矩阵量表表格容器：绝对锁死 table-layout: fixed */
+body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) table,
+body .callout.callout.callout .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) table {
+  display: table !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+  table-layout: fixed !important;
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  margin: 0.35rem 0 !important;
+  border: 1px solid var(--ac-hair) !important;
+  border-radius: 8px !important;
+  background: var(--ac-raised) !important;
+  overflow: hidden !important;
+  box-shadow: none !important;
+}
+
+/* 首列：题项陈述与维度名称，左对齐，适度内边距 */
+body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) :is(th, td):first-child,
+body .callout.callout.callout .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) :is(th, td):first-child {
+  text-align: left !important;
+  padding: 0.48rem 0.75rem !important;
+  font-size: 0.9em !important;
+  line-height: 1.5 !important;
+  border-right: 1px solid rgba(128, 128, 128, 0.12) !important;
+  white-space: normal !important;
+}
+
+/* 选项列：表头文字与选项框严格居中，零横向冗余 padding */
+body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) :is(th, td):not(:first-child),
+body .callout.callout.callout .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) :is(th, td):not(:first-child) {
+  text-align: center !important;
+  vertical-align: middle !important;
+  padding: 0.42rem 0.15rem !important;
+  line-height: 1.2 !important;
+  white-space: nowrap !important;
+  border-right: 1px solid rgba(128, 128, 128, 0.08) !important;
+  box-sizing: border-box !important;
+}
+
+body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) :is(th, td):last-child,
+body .callout.callout.callout .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) :is(th, td):last-child {
+  border-right: none !important;
+}
+
+body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) th,
+body .callout.callout.callout .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) th {
+  background: rgba(128, 128, 128, 0.08) !important;
+  font-size: 0.85em !important;
+  font-weight: 650 !important;
+  color: var(--text-normal) !important;
+  border-bottom: 1.5px solid var(--ac-hair) !important;
+}
+
+body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) td,
+body .callout.callout.callout .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) td {
+  border-bottom: 1px solid rgba(128, 128, 128, 0.06) !important;
+}
+
+body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) tbody tr:last-child td,
+body .callout.callout.callout .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) tbody tr:last-child td {
+  border-bottom: none !important;
+}
+
+body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) td:not(:first-child),
+body .callout.callout.callout .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) td:not(:first-child) {
+  font-size: 1.05em !important;
+  color: var(--text-muted) !important;
+  transition: color 140ms ease, transform 140ms ease !important;
+}
+
+body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) td:not(:first-child):hover,
+body .callout.callout.callout .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) td:not(:first-child):hover {
+  color: var(--ac-accent) !important;
+  background: var(--ac-tint) !important;
+  cursor: pointer;
+}
+
+body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) tbody tr:hover td:first-child,
+body .callout.callout.callout .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) tbody tr:hover td:first-child {
+  background: var(--ac-tint) !important;
+}
+
+/* 精确列宽锁死（通过 :has 选择器适配 4 点、5 点与 6 点量表，绝不允许各行之间发生列宽撕裂） */
+/* 5 列（1 维度 + 4 选项，如：很重要/比较重要/较不重要/很不重要） */
+body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) table:has(th:nth-child(5):last-child) :is(th, td):first-child,
+body .callout.callout.callout .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) table:has(th:nth-child(5):last-child) :is(th, td):first-child {
+  width: 48% !important;
+}
+body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) table:has(th:nth-child(5):last-child) :is(th, td):not(:first-child),
+body .callout.callout.callout .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) table:has(th:nth-child(5):last-child) :is(th, td):not(:first-child) {
+  width: 13% !important;
+}
+
+/* 6 列（1 维度 + 5 选项，标准 5 点 Likert） */
+body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) table:has(th:nth-child(6):last-child) :is(th, td):first-child,
+body .callout.callout.callout .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) table:has(th:nth-child(6):last-child) :is(th, td):first-child {
+  width: 45% !important;
+}
+body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) table:has(th:nth-child(6):last-child) :is(th, td):not(:first-child),
+body .callout.callout.callout .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) table:has(th:nth-child(6):last-child) :is(th, td):not(:first-child) {
+  width: 11% !important;
+}
+
+/* 7 列（1 维度 + 6 选项） */
+body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) table:has(th:nth-child(7):last-child) :is(th, td):first-child,
+body .callout.callout.callout .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) table:has(th:nth-child(7):last-child) :is(th, td):first-child {
+  width: 40% !important;
+}
+body .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) table:has(th:nth-child(7):last-child) :is(th, td):not(:first-child),
+body .callout.callout.callout .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) table:has(th:nth-child(7):last-child) :is(th, td):not(:first-child) {
+  width: 10% !important;
+}
