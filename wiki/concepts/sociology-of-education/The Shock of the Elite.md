@@ -6,7 +6,7 @@ aliases:
 summary: "弱势背景学生进入精英大学后因场域剧烈转换而经历的文化震荡与自我认同撕裂；微观上体现为习性错置、自卑羞耻感与社交孤立，深层根源在于原初阶层习性与精英大学隐性文化常识的结构性脱节。"
 type: concept
 domain: "sociology-of-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

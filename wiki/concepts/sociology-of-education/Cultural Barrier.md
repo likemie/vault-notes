@@ -6,7 +6,7 @@ aliases:
 summary: "弱势背景学生进入精英大学后，因缺乏场域默认掌握的隐性文化知识与文化技能而遭遇的无形屏障，表现为物理环境与社交语码的文化脱嵌，以及发展目标与自我认同的深层迷航。"
 type: concept
 domain: "sociology-of-education"
-related_count: 16
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

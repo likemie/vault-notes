@@ -331,6 +331,9 @@
   },
   "active": "96c685dea1ff308e",
   "lastOpenFiles": [
+    "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md",
+    "books/Zheng_2023_ShanghaiSanlian/figures/Table_04_Engagement.jpg",
+    "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-007/result.json",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-006/result.json",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-005/result.json",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-004/result.json",
@@ -344,9 +347,7 @@
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-008/prompt.md",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-008/batch-result.schema.json",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-007/prompt.md",
-    "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-007/batch-result.schema.json",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-006/prompt.md",
-    "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-006/batch-result.schema.json",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-005/prompt.md",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-004/prompt.md",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch03-479d4a28/batch-001/prompt.md",
@@ -376,7 +377,6 @@
     "raw/Zheng_2023_ShanghaiSanlian_txt/assets/Table_03_Modes_of_Practice.jpg",
     "raw/Zheng_2023_ShanghaiSanlian_txt/assets/Table_02_Case_Characteristics_Continued.jpg",
     "raw/Zheng_2023_ShanghaiSanlian_txt/assets/Preface_Illustration.svg",
-    "raw/Zheng_2023_ShanghaiSanlian_txt/assets/Table_02_Case_Characteristics.jpg",
     "未命名.canvas"
   ]
 }

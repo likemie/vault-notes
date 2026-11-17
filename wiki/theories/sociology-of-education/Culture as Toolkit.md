@@ -7,7 +7,7 @@ aliases:
 summary: "把文化理解为提供行动策略、习惯和可调用资源工具箱的文化社会学理论，强调行动者依据情境需要灵活建构行动策略，而非被动受制于单一抽象价值观；郑雅君（2023）将其引入中国精英大学出路分化研究，解释阶层化生活组织模式的生成机制。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -75,7 +75,7 @@ updated: 2026-11-17
 > - **1986 年 — 理论奠基** 斯威德勒系统确立工具箱范式，提出稳定生活（settled lives）与不稳定生活（unsettled lives）的文化运作机制二分（Swidler, 1986）。
 > - **1992 年 — 理论扩展** 威廉·休厄尔（William H. Sewell, Jr., 1992）提出文化图式的“可迁移性”（transposability）与资源的“多义性”，阐明行动者跨越组织场域创造性调用文化工具的能动机制。
 > - **2009 年 — 理论综合** 斯蒂芬·维齐（Stephen Vaisey, 2009）提出[[Dual-Process Model of Culture in Action|文化在行动中的双过程模型]]，以认知科学双加工理论调和工具箱范式（有意识反思推理）与价值观驱动范式（无意识直觉判断）。
-> - **2023 年 — 高等教育分层应用** [[Yajun Zheng|郑雅君]]在《金榜题名之后》（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]]，详见[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|第一章]]与[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|第二章]]）将工具箱理论引入中国重点大学学生出路分化研究，在第二章中与韦伯价值观驱动范式构成张力对比，作为大学过程分析框架中“价值选择过程”的分析支柱（pp. 43–46），并构建[[Goal-Controlled Mode|目标掌控模式]]与[[Intuition-Dependent Mode|直觉依赖模式]]的解释框架。
+> - **2023 年 — 高等教育分层应用** [[Yajun Zheng|郑雅君]]在《金榜题名之后》（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]]，详见[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|第一章]]、[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|第二章]]与[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]）将工具箱理论引入中国重点大学学生出路分化研究，在第三章中将稳定生活与不稳定生活直接映射为[[Goal-Controlled Mode|目标掌控模式]]与[[Intuition-Dependent Mode|直觉依赖模式]]的行动逻辑（pp. 71, 73–74），为理解生活组织模式的阶层分化奠定文化社会学支柱。
 
 ---
 
@@ -100,10 +100,10 @@ updated: 2026-11-17
 ---
 
 > [!theory-proposition] 命题二｜生活状态的稳定程度决定文化工具的调用方式与整合逻辑
-> **文化运作机制的情境分化** 在稳定生活状态（settled lives）中，文化深度融入日常习俗与常识，以隐性习惯的形式为多样化行动提供事后合理化支撑；在不稳定生活状态（unsettled lives）中，既有生活轨道瓦解，显性意识形态与教条式文化观念对行动产生直接控制，行动者必须高度审慎地学习并重构全新工具集以确立新的生活路线（Swidler, 1986）。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, pp. 63–64)]]
+> **文化运作机制的情境分化** 在稳定生活状态（settled lives）中，文化深度融入日常习俗与常识，以隐性习惯的形式为多样化行动提供事后合理化支撑；在不稳定生活状态（unsettled lives）中，既有生活轨道瓦解，显性意识形态与教条式文化观念对行动产生直接控制，行动者必须高度审慎地学习并重构全新工具集以确立新的生活路线（Swidler, 1986）。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, pp. 63–64, 71)]]
 >
 > > [!example|notitle]
-> > 优势家庭背景学生进入精英大学前已具备适应规则的文化工具，处于稳定生活状态；来自农村与贫困地区的弱势背景学生进入缺乏标准指引的名校迷宫后，原有的应试苦学工具失效，骤然陷入不稳定生活状态，必须经历痛苦的再社会化以学习全新场域规则。
+> > 郑雅君（2023，第三章）指出，优势学生的高中与大学具有高度同构的制度逻辑，处于稳定生活状态，能从容调用熟悉的文化工具实现[[Goal-Controlled Mode|目标掌控]]；而弱势学生进入精英大学后遭遇习性错置，原有的应试苦学工具失效，骤然陷入不稳定生活状态，更易受外部模糊观念牵引或被动退守为[[Intuition-Dependent Mode|直觉依赖]]，必须经历自觉重组文化工具箱才能实现适应与突围。
 
 ---
 
@@ -158,5 +158,5 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 系统引入斯威德勒文化工具箱理论，在[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|第二章]]中与韦伯价值观驱动范式构成张力对比，奠定“价值选择过程”的分析基础（pp. 43–46）；并在全书（详见[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|第一章]]，pp. 62–64）中作为剖析中国名校学生大学生活组织模式与出路分化的核心分析支柱。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 系统引入斯威德勒文化工具箱理论，在第三章中将稳定生活与不稳定生活直接映射为目标掌控与直觉依赖两种实践模式（参见第三章 [[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]，及第一、二章）。
 > - [[Dual-Process Model of Culture in Action]] — 斯蒂芬·维齐（Vaisey, 2009）提出双过程模型，调和工具箱范式与价值驱动范式在不同意识层面的功能分工。

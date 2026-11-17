@@ -208,7 +208,7 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 在[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|第二章]]中运用深度访谈与长期个案追踪，两阶段对 62 名顶尖大学毕业生展开半结构式访谈，每次 2.5–3.5 小时，累计 150 万字转录资料，深入建构学生出路抉择的意义世界（pp. 56–58）。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 在[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|第二章]]与[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]中运用深度访谈开展长期追踪，以渐进式聚焦深入 62 位拔尖大学生的生活史，重构家境转化为初始实践模式的微观因果机制（pp. 56–58, 65–104）。
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 针对澳大利亚新南威尔士州（New South Wales, NSW）四所学校[[Theory of Knowledge|知识论]]（Theory of Knowledge, TOK）课程实施开展研究，对 22 名教师进行深度访谈并组织 8 组学生[[Focus Group|焦点小组]]。
 > - [[Argument_Cai_Gao_Liu_2025_HE|Cai et al. (2025)]] — 考察[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]][[Space Production|高等教育空间生产]]，深入访谈 39 名跨界高校教师（其中 30 名为关键制度节点人物）。
 > - [[Argument_Yu_2024_CE|Yu and Zhao (2024)]] — 多元文化视角下的儒家教育传统研究，对 37 名涵盖 15 个少数民族的大学生开展深度对话。
