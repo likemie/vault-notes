@@ -2310,6 +2310,8 @@
     "Berg, 2003": "Berg, 2003",
     "Bergen (2009)": "Bergen, 2009",
     "Bergen, 2009": "Bergen, 2009",
+    "Berger & Hsiao (1990)": "Berger & Hsiao, 1990",
+    "Berger & Hsiao, 1990": "Berger & Hsiao, 1990",
     "Berger & Luckmann (1966)": "Berger & Luckmann, 1966",
     "Berger & Luckmann (1967)": "Berger & Luckmann, 1967",
     "Berger & Luckmann, 1966": "Berger & Luckmann, 1966",
@@ -8313,6 +8315,7 @@
     "Frank & Cook, 1995": "Frank & Cook, 1995",
     "Frank & Meyer (2020)": "Frank & Meyer, 2020",
     "Frank & Meyer, 2020": "Frank & Meyer, 2020",
+    "Frank (1984)": "Frank, 1984",
     "Frank (1985)": "Frank, 1985",
     "Frank (1989)": "Frank, 1989",
     "Frank (2020)": "Frank, 2020",
@@ -8320,6 +8323,7 @@
     "Frank Levy, 1996": "Frank Levy, 1996",
     "Frank Lyman (1981)": "Frank Lyman, 1981",
     "Frank Lyman, 1981": "Frank Lyman, 1981",
+    "Frank, 1984": "Frank, 1984",
     "Frank, 1985": "Frank, 1985",
     "Frank, 1989": "Frank, 1989",
     "Frank, 2020": "Frank, 2020",
@@ -11544,7 +11548,9 @@
     "Huggins, 1999": "Huggins, 1999",
     "Hugh Heclo (1978)": "Hugh Heclo, 1978",
     "Hugh Heclo, 1978": "Hugh Heclo, 1978",
+    "Hugh Lauder (2001)": "Hugh Lauder, 2001",
     "Hugh Lauder (2007)": "Hugh Lauder, 2007",
+    "Hugh Lauder, 2001": "Hugh Lauder, 2001",
     "Hugh Lauder, 2007": "Hugh Lauder, 2007",
     "Hugh Seton-Watson (1977)": "Hugh Seton-Watson, 1977",
     "Hugh Seton-Watson, 1977": "Hugh Seton-Watson, 1977",
@@ -13613,7 +13619,9 @@
     "Kogan & Laursen, 2014": "Kogan & Laursen, 2014",
     "Kogan (1986)": "Kogan, 1986",
     "Kogan, 1986": "Kogan, 1986",
+    "Koh (2002)": "Koh, 2002",
     "Koh (2006)": "Koh, 2006",
+    "Koh, 2002": "Koh, 2002",
     "Koh, 2006": "Koh, 2006",
     "Kohn (2000)": "Kohn, 2000",
     "Kohn (2014)": "Kohn, 2014",
@@ -24143,6 +24151,7 @@
     "Tamur et al., 2020": "Tamur et al., 2020",
     "Tan & Cho (2021)": "Tan & Cho, 2021",
     "Tan & Cho, 2021": "Tan & Cho, 2021",
+    "Tan (1996)": "Tan, 1996",
     "Tan (2007)": "Tan, 2007",
     "Tan (2010)": "Tan, 2010",
     "Tan (2011)": "Tan, 2011",
@@ -24166,6 +24175,7 @@
     "Tan et al., 2020b": "Tan et al., 2020b",
     "Tan et al., 2021": "Tan et al., 2021",
     "Tan et al., 2023": "Tan et al., 2023",
+    "Tan, 1996": "Tan, 1996",
     "Tan, 2007": "Tan, 2007",
     "Tan, 2010": "Tan, 2010",
     "Tan, 2011": "Tan, 2011",
@@ -34867,6 +34877,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md",
         "wiki/theories/political-economy-geopolitics/Developmental State.md"
       ],
       "title": ""
@@ -45217,6 +45228,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26.md"
+      ],
+      "title": ""
+    },
+    "Berger & Hsiao, 1990": {
+      "aliases": [
+        "Berger & Hsiao, 1990",
+        "Berger & Hsiao (1990)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Berger & Hsiao, 1990"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
       "title": ""
     },
@@ -59577,6 +59603,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rizvi_2022_Springer.md",
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md",
         "wiki/concepts/political-economy-geopolitics/Informationalization.md",
         "wiki/concepts/university-industry-collaboration/Transnational Research Collaboration.md"
       ],
@@ -60406,6 +60433,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md",
         "wiki/concepts/political-economy-geopolitics/Embedded Network Governance.md",
         "wiki/facts/japan/Ministry of International Trade and Industry.md",
         "wiki/theories/political-economy-geopolitics/Developmental State.md"
@@ -89248,6 +89276,21 @@
       ],
       "title": ""
     },
+    "Frank, 1984": {
+      "aliases": [
+        "Frank, 1984",
+        "Frank (1984)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Frank, 1984"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": ""
+    },
     "Frank, 1985": {
       "aliases": [
         "Frank, 1985",
@@ -112930,6 +112973,21 @@
       ],
       "title": ""
     },
+    "Hugh Lauder, 2001": {
+      "aliases": [
+        "Hugh Lauder, 2001",
+        "Hugh Lauder (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hugh Lauder, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": ""
+    },
     "Hugh Lauder, 2007": {
       "aliases": [
         "Hugh Lauder, 2007",
@@ -127854,6 +127912,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-policy-reform/Test-Based Accountability.md"
+      ],
+      "title": ""
+    },
+    "Koh, 2002": {
+      "aliases": [
+        "Koh, 2002",
+        "Koh (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Koh, 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
       "title": ""
     },
@@ -143701,6 +143774,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md",
         "wiki/theories/political-economy-geopolitics/Developmental State.md"
       ],
       "title": ""
@@ -204457,6 +204531,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Meta-analytical insights on school SES effects."
+    },
+    "Tan, 1996": {
+      "aliases": [
+        "Tan, 1996",
+        "Tan (1996)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Tan, 1996"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": ""
     },
     "Tan, 2007": {
       "aliases": [

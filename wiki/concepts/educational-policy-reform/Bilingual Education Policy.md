@@ -39,15 +39,13 @@ related_persons:
 related_facts:
   - "[[Goh Report]]"
   - "[[Speak Mandarin Campaign]]"
-  - "[[All-Party Report on Chinese Education]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
-  - "[[Argument_Deng_2016_CE]]"
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-11-03
+updated: 2026-11-18
 ---
 
 ---
@@ -55,7 +53,7 @@ updated: 2026-11-03
 > [!def] Bilingual Education Policy
 > **双语教育政策（Bilingual Education Policy）** 是指主权国家或地方政府通过法律、课程标准与考试制度，强制或引导各级学校系统同时采用两种语言作为教学媒介语（Medium of Instruction）与核心必修科目的公共政策[[Paradigm|范式]]。在比较教育与发展中国家建构中，该政策常承担双重战略任务：一方面确立通用的国际强势语言（如英语）以实现技术引进、行政效率与全球经济对接；另一方面推行族群母语教育以传承历史文化正典、稳固道德锚点并塑造统一的国家认同。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–197)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 指向国家通过教育制度对国民[[Language Skills|语言能力]]与文化认同进行的结构性塑造与资源配置机制。
 > - **用途** 帮助研究者剖析多民族、多方言社会在现代化与全球化进程中，如何平衡经济[[Pragmatic Paradigm|实用主义]]与文化防御需求。
 > - **边界** 不等于单纯的外语选修课程，它强调双语在学校教育中的制度化并重地位以及对公共生活领域的深度介入。
@@ -71,7 +69,7 @@ updated: 2026-11-03
 
 ---
 
-> [!contrast-table] 新加坡双轨双语模式 vs 单语同化模式 vs 自由多元放任模式
+> [!contrast-table|notitle] 新加坡双轨双语模式 vs 单语同化模式 vs 自由多元放任模式
 > | 维度 | 新加坡双轨双语模式（英语 + 母语） | 单语同化模式（以主流语言为唯一媒介） | 自由多元放任模式（地方方言自发演变） |
 > |---|---|---|---|
 > | **经济定位** | 英语作为中立工作语言，直接对接全球资本与深科技 | 依靠单一国语降低国内交易成本 | 语言碎片化导致跨群体交易成本高昂 |
@@ -81,7 +79,7 @@ updated: 2026-11-03
 
 ---
 
-> [!feature] 核心要素
+> [!feature|notitle] 核心要素
 > - **工具理性功能（英语主导）** 将英语作为各族群平等的行政中立工作语言与科学技术媒介，确保国家在全球贸易与科技竞争中的前沿地位。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 196–197)]]
 > - **文化防御功能（母语锚定）** 将母语作为传承儒家或东方传统道德、防范西方消费主义与虚浮风尚侵蚀的精神屏障。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Goh, 1979; Karp & Zamiska, 2025, p. 196)]]
 > - **方言果断修剪** 依法果断以标准现代语言替代多达 12 种割裂的地域方言，消除社群内部的沟通壁垒与宗派区隔。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Lee, 1986; Karp & Zamiska, 2025, pp. 195–196)]]
@@ -117,7 +115,7 @@ updated: 2026-11-03
 
 ---
 
-> [!contrast-table] 所有命题归纳
+> [!contrast-table|notitle] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 决策者 |
 > |---|---|---|---|
 > | **国家建构与千年生存** | 论证主动语言政策是克服族群割裂与塑造国家认同的前提 | 移民国家、后殖民国家与小国发展战略 | [[Lee Kuan Yew]]; [[Goh Keng Swee]]; Gopinathan (1979) |
@@ -127,6 +125,7 @@ updated: 2026-11-03
 
 > [!dev-timeline] 概念演变
 > - **19 世纪–20 世纪中叶 — 殖民时期放任分流** 英国殖民统治下新加坡维持以马来语为通商语、各族群自办华校、英校、马来校的碎片化格局，华人社会流行 12 种方言。
+> - **1956 — 《各党派华文教育委员会报告书》奠定双语平等等基石** 面对激烈的族群对抗与华校学潮，各党派委员会报告书确立英语、华语、马来语和泰米尔语平等的教育方针，奠定了以英语为通用教学语、母语为必修科目的双语教育制度架构，既消弭了族群语言冲突，又支撑了外向型工业化发展。[[Argument_Deng_2016_CE|(Gopinathan, 1974; Baildon & Sim, 2010; Deng & Gopinathan, 2016)]]
 > - **1965 — 建国独立与千年宣誓** 新加坡被迫脱离马来西亚独立，[[Lee Kuan Yew|李光耀]]立足未来一千年确立生存意志。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Lee, 1965; Karp & Zamiska, 2025, p. 194)]]
 > - **1979 — 《[[Goh Report|吴庆瑞报告]]》与双语法定化** 确立英语为第一教学语言、母语为必修第二语言的全国标准体制，全面启动[[Speak Mandarin Campaign|讲华语运动]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Goh, 1979; Karp & Zamiska, 2025, pp. 195–196)]]
 > - **1986 — 稳固成效与自主选择新阶段** 李光耀在群众大会总结方言修剪成果，宣布进入更加自信和灵活的语言政策新阶段。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Lee, 1986; Karp & Zamiska, 2025, pp. 196–197)]]
@@ -148,7 +147,24 @@ updated: 2026-11-03
 > > - **制度防御派** 强调母语课程与道德教育构成了抵制西方虚浮风尚的关键防火墙。
 > > - **全球化批判派** 指出随着英语成为主导工作与日常生活媒介，年轻世代的西化与去传统化趋势依然深刻。
 
+> [!warning|limits] 适用局限与制度前提
+> 双语教育政策的平稳落地高度依赖国家在师资统筹、统一课程编制、多语种教材研发与考试选拔机制上的中央集权能力；在缺乏强有力国家财政支持或族群权力深度对抗的社会，强制性双语规制易诱发严重的族群政治反弹并加剧语言阶层分化。
+
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 双语教育政策关联网络
+>
+> | 条目 | 类型 | 关系 |
+> |---|---|---|
+> | [[All-Party Report on Chinese Education]] | 关键制度事实 | 1956 年确立各族语言平等与双语教育架构的奠基性政策报告。 |
+> | [[Goh Report]] | 关键制度事实 | 1979 年诊断语言脱节并确立英语与母语双轨法定化的历史性报告。 |
+> | [[Speak Mandarin Campaign]] | 关联事实 | 配合双语政策推行以消除方言割裂、巩固母语文化认同的社会运动。 |
+> | [[Language Skills]] | 培育目标 | 塑造兼顾全球技术接轨与本土文化道德传承的复合型能力基础。 |
+> | [[Pragmatic Paradigm]] | 治理范式 | 将语言政策与外向型经济生存和国家文化安全深度绑定的实用主义逻辑。 |
+> | [[Technological Republic]] | 治理模型 | 依托领袖意志与制度修剪将多方言社会塑造成高科技技术共和国的理论审视。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 考察新加坡双语教育政策的建国历史根基，追溯 1956 年《各党派华文教育委员会报告书》如何通过语言政治和解确立以英语为主导、保留母语的双语架构，从而消解族群冲突并支撑外向型经济发展。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 结合第17章深度剖析新加坡双语政策在克服[[Dunbar's Number|邓巴数]]限制、塑造想象共同体与驱动经济提升中的战略实践，论证卓越领袖与国家文化工程在[[Technological Republic|技术共和国]]建构中的决定性作用。

@@ -1,5 +1,5 @@
 ---
-citation: ""
+citation: "Gopinathan, S. (2007). Globalisation, the Singapore developmental state and education policy: a thesis revisited. Globalisation, Societies and Education, 5(1), 53–70. https://doi.org/10.1080/14767720601133405"
 extracted_to: []
 processed_date: 2026-11-17
 ---
