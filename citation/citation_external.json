@@ -130,6 +130,8 @@
     "Abdurrahman, 2017": "Abdurrahman, 2017",
     "Abe (1987)": "Abe, 1987",
     "Abe, 1987": "Abe, 1987",
+    "Abell (2000)": "Abell, 2000",
+    "Abell, 2000": "Abell, 2000",
     "Abelson (1974)": "Abelson, 1974",
     "Abelson, 1974": "Abelson, 1974",
     "Aberbach & Rockman (2002)": "Aberbach & Rockman, 2002",
@@ -10692,6 +10694,8 @@
     "Hecht (2021)": "Hecht, 2021",
     "Hecht, 2002": "Hecht, 2002",
     "Hecht, 2021": "Hecht, 2021",
+    "Hechter & Kanazawa (1997)": "Hechter & Kanazawa, 1997",
+    "Hechter & Kanazawa, 1997": "Hechter & Kanazawa, 1997",
     "Heckathorn (1997)": "Heckathorn, 1997",
     "Heckathorn (2002)": "Heckathorn, 2002",
     "Heckathorn, 1997": "Heckathorn, 1997",
@@ -28183,6 +28187,8 @@
     "门克, 1988": "门克, 1988",
     "闵尊涛等 (2018)": "闵尊涛等, 2018",
     "闵尊涛等, 2018": "闵尊涛等, 2018",
+    "阎光才 (2001)": "阎光才, 2001",
+    "阎光才, 2001": "阎光才, 2001",
     "阿德科亚 (2023)": "阿德科亚, 2023",
     "阿德科亚, 2023": "阿德科亚, 2023",
     "阿施 (1951)": "阿施, 1951",
@@ -29168,6 +29174,21 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Rappleye_2006_RCIE.md",
         "wiki/facts/china/Late Qing Borrowing of Japanese Education.md"
+      ],
+      "title": ""
+    },
+    "Abell, 2000": {
+      "aliases": [
+        "Abell, 2000",
+        "Abell (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Abell, 2000"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md"
       ],
       "title": ""
     },
@@ -51845,6 +51866,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
         "wiki/concepts/political-economy-geopolitics/Baptist-Bootlegger Coalition.md",
         "wiki/concepts/political-economy-geopolitics/Insurrectionaries.md",
         "wiki/concepts/political-economy-geopolitics/Opportunists.md",
@@ -106584,6 +106606,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effectiveness of the POWER Program in improving physical activity and executive function in fifth grade students"
+    },
+    "Hechter & Kanazawa, 1997": {
+      "aliases": [
+        "Hechter & Kanazawa, 1997",
+        "Hechter & Kanazawa (1997)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hechter & Kanazawa, 1997"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md"
+      ],
+      "title": ""
     },
     "Heckathorn, 1997": {
       "aliases": [
@@ -233267,6 +233304,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
+      ],
+      "title": ""
+    },
+    "阎光才, 2001": {
+      "aliases": [
+        "阎光才, 2001",
+        "阎光才 (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "阎光才, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md"
       ],
       "title": ""
     },
