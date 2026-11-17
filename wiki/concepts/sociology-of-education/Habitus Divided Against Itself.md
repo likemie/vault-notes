@@ -9,7 +9,7 @@ aliases:
 summary: "布迪厄社会学中刻画阶层跨越与社会流动代价的核心构念，指行动者在经历悬殊的阶级或文化边界转移时，因被迫兼顾原初生活史根基与精英场域主导规范而产生的内在认知冲突、自我认同撕裂与深层身份焦虑。"
 type: concept
 domain: "sociology-of-education"
-related_count: 10
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,21 +22,28 @@ tags:
   - class-divided
 related_concepts:
   - "[[Habitus]]"
+  - "[[Construct]]"
+  - "[[Champ]]"
   - "[[The Shock of the Elite]]"
   - "[[Cultural Barrier]]"
-  - "[[Habitus Hysteresis]]"
   - "[[First-Generation College Student]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Personal Myth]]"
+  - "[[Reflexivity]]"
+  - "[[Habitus Hysteresis]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Yajun Zheng]]"
+  - "[[Dan P. McAdams]]"
+  - "[[Didier Eribon]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 confidence: high
 status: draft
 created: 2026-11-17
@@ -46,7 +53,7 @@ updated: 2026-11-17
 ---
 
 > [!def] Habitus Divided Against Itself
-> 分裂的习性（Habitus Divided Against Itself，法语常称 habitus clivé）是[[Pierre Bourdieu|皮埃尔·布迪厄（Pierre Bourdieu）]]批判社会学中剖析社会流动文化代价的核心构念，指行动者跨越悬殊的阶级或城乡文化边界进入精英[[Champ|场域]]时，在维系原初家庭的深层情感纽带与适应新场域主导规范的双重拉扯下，所产生的内在认知失调、行动图式断裂与自我认同撕裂状态。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 93–96)]]
+> 分裂的[[Habitus|习性]]（Habitus Divided Against Itself，法语常称 habitus clivé）是[[Pierre Bourdieu|皮埃尔·布迪厄]]（Pierre Bourdieu）批判社会学中剖析社会流动文化代价的核心[[Construct|构念]]，指行动者跨越悬殊的阶级或城乡文化边界进入精英[[Champ|场域]]时，在维系原初家庭的深层情感纽带与适应新场域主导规范的双重拉扯下，所产生的内在认知失调、行动图式断裂与自我认同撕裂状态。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 93–96)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 跨阶层向上流动的行动者在面对异质文化规训时产生的内在习性分裂与双重归属困境。
@@ -101,18 +108,18 @@ updated: 2026-11-17
 ---
 
 > [!concept-proposition] 命题二｜名校初体验中的习性分裂直接导致寒门学子自我定位受挫与发展目标瓦解
-> **出路规划受挫机制** 郑雅君通过质性生活史追踪证实，习性分裂不仅是一组负面情绪，更直接瓦解了大学生的主动掌控意志与出路变现能力。
+> **出路规划受挫机制** [[Yajun Zheng|郑雅君]]通过质性生活史追踪证实，习性分裂不仅是一组负面情绪，更直接瓦解了大学生的主动掌控意志与出路变现能力。
 
 > [!claim] Zheng, Y.
-> **精英休克与自我封闭的破坏效应** [[Argument_Zheng_2023_ShanghaiSanlian_Ch03|郑雅君 (2023, pp. 93–96)]]指出，以昌盛为代表的农村[[First-Generation College Student|第一代大学生]]进入拔尖名校后，面对见多识广的优势同辈产生巨大的习性错置；不同于优势学生能将不适归咎于学校，弱势学子容易将冲突全盘内化为自我贬抑，陷入长达一年的抑郁与退缩状态，直接瓦解了对场域博弈规则的主动探究意愿，深陷直觉依赖模式而难以确立有效出路目标。
+> **精英休克与自我封闭的破坏效应** [[Argument_Zheng_2023_ShanghaiSanlian_Ch03|郑雅君 (2023, pp. 93–96)]]指出，以昌盛为代表的农村[[First-Generation College Student|第一代大学生]]进入拔尖名校后，面对见多识广的优势同辈产生巨大的习性错置；不同于优势学生能将不适归咎于学校，弱势学子容易将冲突全盘内化为自我贬抑，陷入长达一年的抑郁与退缩状态，直接瓦解了对场域博弈规则的主动探究意愿，深陷[[Intuition-Dependent Mode|直觉依赖模式]]而难以确立有效出路目标。
 
 ---
 
-> [!concept-proposition] 命题三｜依托自传叙事建构个人神话能够弥合习性裂化并实现文化和解
+> [!concept-proposition] 命题三｜依托自传叙事建构[[Personal Myth|个人神话]]能够弥合习性裂化并实现文化和解
 > **叙事重构与文化和解机制** 探讨跨阶层流动的行动者如何通过自反性叙事认同整合阶层断裂，在与原生文化和解中克服习性分裂。
 
 > [!claim] Zheng, Y.
-> **叙事认同缝合与原生文化和解** 郑雅君（[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|2023, 第六章, pp. 366–370]]）论述，克服习性裂化依赖于自反性内在自我的重建。借助麦克亚当斯（Dan P. McAdams）的[[Personal Myth|个人神话]]模型，行动者可以通过自传叙事将过去的底层记忆与当下的名校阅历贯通整合，在维持生活史连贯性的同时避免“文化自杀”或“文化固守”；同时汲取埃里蓬（Didier Eribon）与原生文化和解的智慧，将坚韧品质转化为服务基层的文化使者优势。
+> **叙事认同缝合与原生文化和解** 郑雅君（[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|2023, 第六章, pp. 366–370]]）论述，克服习性裂化依赖于自反性内在自我的重建。借助[[Dan P. McAdams|麦克亚当斯]]（Dan P. McAdams）的[[Personal Myth|个人神话]]模型，行动者可以通过自传叙事将过去的底层记忆与当下的名校阅历贯通整合，在维持生活史连贯性的同时避免“文化自杀”或“文化固守”；同时汲取[[Didier Eribon|埃里蓬]]（Didier Eribon）与原生文化和解的智慧，将坚韧品质转化为服务基层的文化使者优势。
 
 ---
 
@@ -138,7 +145,7 @@ updated: 2026-11-17
 > > 学界探讨习性分裂是否仅代表心理创伤，抑或同时蕴含独特的社会学反思资源。
 > >
 > > - **创伤赤字视角** 强调认同撕裂带来长期的自卑、归属焦虑与发展机会损失，是阶级再生产制度强加给弱势个体的额外代价。
-> > - **反思优势视角** 认为处于分裂状态的跨界者往往具备独特的双重视角，对不同阶层的潜规则保持超越常人的敏锐洞察，可转化为深层的反身性批判认知。
+> > - **反思优势视角** 认为处于分裂状态的跨界者往往具备独特的双重视角，对不同阶层的潜规则保持超越常人的敏锐洞察，可转化为深层的[[Reflexivity|反身性]]批判认知。
 
 > [!warning|limits] 适用局限
 > 该概念专属于经历跨阶层大幅流动的群体；对于在原生阶层场域内部进行平级流动或在阶级同质群体中学习生活的个体，不具备解释效力。

@@ -50,6 +50,7 @@ related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch04]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch05]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
 confidence: high
 status: active
 created: '2026-05-08'
@@ -114,6 +115,7 @@ updated: 2026-11-17
 > - **生活组织模式与阶层[[Cultural Capital|文化资本]]的筛选** 推免机制天然青睐从入学伊始便洞察评价体系并实施绩点管理的“[[Goal-Controlled Mode|目标掌控]]者”；习惯于高中苦学惯性而忽视绩点规划的“[[Intuition-Dependent Mode|直觉依赖]]者”往往面临信息滞后与机会丧失。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(郑雅君, 2023, pp. 87–88)]]
 > - **出路决策中的分化机制** 在第三章质性个案中，直觉依赖者容易因早期规则认知滞后错失推免机会（如冰倩大三才知晓绩点与保研绑定），或在缺乏求职规划时将推免[[Continuous Doctoral Training|直博]]视作回避就业市场的仓促避难所（如禹海）；目标掌控者则将保研作为可计算的理性选项，甚至主动放弃保研资格投身商业求职（如泽斌凭借实习直接斩获高薪岗位）。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 66–69)]]
 > - **门槛达标与被动避险的二元分化** 目标掌控者将推免 GPA 视作可计算的底线门槛（如研支团 2.8 绩点标准），达标后迅速抽调精力布局[[Social Engagement|社会性投入]]；直觉依赖者则容易因大一盲目松懈直接痛失保研资格，或在缺乏自主职业目标时将推免直博作为延缓就业压力的被动避风港（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|郑雅君, 2023, 第四章]]）。
+> - **文化迷失下的防御性升学避难所** 郑雅君在第六章进一步揭示，面对场域转换引发的深层文化迷失，弱势学子普遍采取自保性勤奋，将精力局限于熟悉的课业绩点以维系优等生尊严，推免直研因而常被作为未作审慎志趣规划、延缓直面劳动力市场决断时刻的防御性避险机制。[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|(郑雅君, 2023, 第六章, pp. 364–365)]]
 
 > [!stat-cards]- 核心数据
 > - **≥ 40%** 原 [[Project 985|985 工程]]重点大学本科生推免直研比例普遍达到 40% 以上，部分优势基础学科拔尖班推免率超过 70%。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(范皑皑和杨钋, 2015；郑雅君, 2023, p. 86)]]
@@ -155,4 +157,4 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 系统揭示推免制度锁定本科生学业投入的机制（[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|第一章]]、[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]）；在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]实证检验目标掌控者的门槛达标策略与直觉依赖者的被动避险分化；并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|第五章]]揭示推免深造作为高校与体制联动的赞助性流动通道，助力认同主流价值的弱势学子突破阶层固化（pp. 287–292）。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 系统揭示推免制度锁定本科生学业投入的机制（[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|第一章]]、[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]）；在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]实证检验目标掌控者的门槛达标策略与直觉依赖者的被动避险分化；在[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|第五章]]揭示推免深造作为高校与体制联动的赞助性流动通道；并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|第六章]]阐明其在文化迷失下演变为自保性勤奋学子延缓就业决断的防御性避险机制（pp. 364–365）。

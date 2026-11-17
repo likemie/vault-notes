@@ -84,7 +84,7 @@ updated: 2026-11-17
 > > *Narrative identity is an internalized and evolving life story that an individual [[Construct|constructs]] to make meaning out of life in the modern world.*
 
 > [!person-thesis] 主张二｜个人神话通过赋予痛苦经验以救赎意义缝合自我认同的断裂
-> 面对生活变故、阶层跃迁或身份危机，个体并非被动承受冲击，而是能够通过调动[[Reflexivity|反思性]]能动性编织[[Personal Myth|个人神话]]。个人神话并不追求对客观事实的机械实录，而是在时间流变中确立自我价值的稳定核心，将早期的挫折与创伤赋予救赎性与利他性意义，从而在激烈的外部[[Champ|场域]]变迁中维持自我的历史延伸性（McAdams, 1993, 2006）。[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|(郑雅君, 2023, 第六章, pp. 367–370)]]
+> 面对生活变故、社会流动或身份危机，行动者能够调动[[Reflexivity|反思性]]能动性编织[[Personal Myth|个人神话]]。个人神话在时间流变中确立自我价值的稳定核心，将早期的挫折与创伤转化为救赎性与利他性意义，从而在激烈的外部[[Champ|场域]]变迁中维持自我的历史延伸性（McAdams, 1993, 2006）。[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|(郑雅君, 2023, 第六章, pp. 367–370)]]
 >
 > > [!thesis-quote] 《救赎之我》（2006）
 > > 救赎性叙事将经历的困境与负面事件解读为通往个人成长、智慧觉醒与利他使命的必要阶梯。

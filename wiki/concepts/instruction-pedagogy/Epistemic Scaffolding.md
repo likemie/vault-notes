@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-11-03
+updated: 2026-11-17
 ---
 
 ---
@@ -55,7 +55,7 @@ updated: 2026-11-03
 > [!def] Epistemic Scaffolding
 > [[Epistemic Scaffolding\|认识论支架]]（Epistemic [[Scaffolding]]，亦作认识性支架）指在教学与探究环境中，**通过使学科底层的[[Epistemology\|认识论]]结构、评价准则与[[Justificatory Standards\|辩护标准]]显性化，引导学习者如何评估知识、检验论据、协调认知冲突并参与学科规范实践的教学支持机制**。区别于仅提供操作步骤的程序性支架或提供领域事实的概念性支架，认识论支架聚焦于“知识何以确证”以及“如何像科学家一样思考与评价”。[[Argument_Han_Gutierez_2026_IJSE\|(Lin & Puntambekar, 2019; Han & Gutierez, 2026, pp. 4–6)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 指向旨在使隐性学科认识论准则、证据评估维度与自我监控问题外显化的中介工具与对话指引。
 > - **用途** 帮助教师与课程设计者超越单一“给步骤、给概念”的浅层指导，为学习者在复杂探究及[[Man-Computer Symbiosis|人机协同]]环境中提供[[Higher-Order Thinking Skills\|高阶思维]]脚手架。
 > - **边界** 认识论支架不直接提供结论性知识答案，是构建评价知识与主张的规则体系；它必须在保持学习者[[Epistemic Agency\|认识主体性]]的前提下动态介入与逐渐褪除。
@@ -72,7 +72,7 @@ updated: 2026-11-03
 
 ---
 
-> [!contrast-table] [[Epistemology\|认识论]]支架与传统[[Scaffolding\|教学支架]]的辨析
+> [!contrast-table|notitle] 概念辨析
 > | 比较维度 | 认识论支架（Epistemic Scaffolding） | 程序性支架（Procedural Scaffolding） | 概念性支架（Conceptual Scaffolding） | [[Metacognition\|元认知]]支架（Metacognitive Scaffolding） |
 > |---|---|---|---|---|
 > | **核心引导目标** | 知识评估标准、因果辩护与认识论准则 | 任务操作路径、软件使用与实验步骤 | 学科领域概念、事实网络与理论定义 | [[Time Management\|时间管理]]、进度规划与通用注意监控 |
@@ -138,7 +138,7 @@ updated: 2026-11-03
 
 ---
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] 支架结构化程度与[[Epistemic Agency\|认识主体性]]维持的张力
 > > [[Epistemology\|认识论]]支架如果规定过于细致，可能导致学生机械执行评价规程而丧失自发的批判灵活性；若过于开放，初学者又难以应对算法输出的隐蔽缺陷。
@@ -149,7 +149,7 @@ updated: 2026-11-03
 > > [!axis] 通用反思提问与[[Domain Specificity\|领域特异性]]学科标准的融合难度
 > > 通用认识论提问（如追问来源、检查理解）易流于形式化套话，唯有与具体学科深层概念网络（如生物因果机制）深度绑定时才能发挥实质检验效能。
 
-> [!warning] 适用局限
+> [!warning|limits] 适用局限
 > 认识论支架不能替代领域基础知识的建构。若学生对所探究的科学领域毫无先验认知，即使拥有显性评价标准与反思提示语，也无法有效识别模型生成物中细微的机制错误或表征扭曲。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 22–24)]]
 
 ---
@@ -165,5 +165,17 @@ updated: 2026-11-03
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Scaffolding]] | 概念 | 认识论支架是教学支架的高阶类型，特异性聚焦于学科确证与主张评估标准。 |
+> | [[Epistemology]] | 概念 | 认识论支架的核心目标是使隐性的学科认识论规范与辩护准则显性化。 |
+> | [[Generative Artificial Intelligence]] | 概念 | 在人机协同探究中，显性认识论支架是防止学生盲从算法流畅性的关键保障。 |
+> | [[Scientific Explanation]] | 概念 | 认识论支架通过提供解释质量标准（因果叙事、机制完整性），引导学生建构科学解释。 |
+> | [[Epistemic Agency]] | 概念 | 支架设计必须维持学生的认识主体性，避免沦为机械步骤执行。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] — 系统构建并实证检验了由[[Scientific Explanation\|科学解释]]四标准与[[Reflexivity\|反思性]]提问提示语构成的显性[[Epistemology\|认识论]]双轨支架，揭示其在初中生[[Man-Computer Symbiosis|人机协同]]科学解释建构中激活[[Epistemological Vigilance\|认识论警觉]]的微观互动路径。
