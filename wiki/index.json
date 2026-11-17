@@ -19981,6 +19981,15 @@
     ]
   },
   {
+    "title": "Cultural Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Cultural Knowledge.md",
+    "aliases": [
+      "文化性知识",
+      "制度性文化知识"
+    ]
+  },
+  {
     "title": "Culture of Disbelief",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Culture of Disbelief.md",
@@ -20246,6 +20255,28 @@
     "aliases": [
       "惯习",
       "习性"
+    ]
+  },
+  {
+    "title": "Habitus Divided Against Itself",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Habitus Divided Against Itself.md",
+    "aliases": [
+      "分裂的习性",
+      "撕裂的习性",
+      "habitus clivé",
+      "习性分裂",
+      "divided habitus"
+    ]
+  },
+  {
+    "title": "Habitus Hysteresis",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Habitus Hysteresis.md",
+    "aliases": [
+      "习性滞后",
+      "滞后效应",
+      "hysteresis effect"
     ]
   },
   {

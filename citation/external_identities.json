@@ -14754,14 +14754,6 @@
       ],
       "title": ""
     },
-    "Brown & Hesketh, 2003": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/Social Engagement.md"
-      ],
-      "title": ""
-    },
     "Brown & Hesketh, 2004": {
       "doi": "10.1093/acprof:oso/9780199269549.001.0001",
       "isbn": "9780199269549",
@@ -14769,6 +14761,7 @@
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md",
         "wiki/concepts/higher-education/Economy of Experience.md",
         "wiki/concepts/higher-education/Employability.md",
+        "wiki/concepts/higher-education/Social Engagement.md",
         "wiki/concepts/sociology-of-education/Credential Inflation.md"
       ],
       "title": "The Mismanagement of Talent: Employability and Jobs in the Knowledge Economy"
@@ -103261,6 +103254,7 @@
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md",
+        "wiki/concepts/higher-education/Social Engagement.md",
         "wiki/concepts/sociology-of-education/Habitus.md",
         "wiki/concepts/sociology-of-education/Intuition-Dependent Mode.md",
         "wiki/theories/sociology-of-education/Four Functions of Higher Education Framework.md"
@@ -120680,14 +120674,6 @@
       ],
       "title": ""
     },
-    "两者在, 2023": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/Social Engagement.md"
-      ],
-      "title": ""
-    },
     "中国北京, 2016": {
       "doi": "",
       "isbn": "",
@@ -121511,6 +121497,22 @@
       ],
       "title": ""
     },
+    "布迪厄, 1980": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/sociology-of-education/Habitus Hysteresis.md"
+      ],
+      "title": ""
+    },
+    "布迪厄, 1999": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/sociology-of-education/Habitus Divided Against Itself.md"
+      ],
+      "title": ""
+    },
     "布雷彻等, 2000": {
       "doi": "",
       "isbn": "",
@@ -121865,6 +121867,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/learning-science-cognitive-science/Neuromyth.md"
+      ],
+      "title": ""
+    },
+    "拉鲁, 2015": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/sociology-of-education/Cultural Knowledge.md"
       ],
       "title": ""
     },

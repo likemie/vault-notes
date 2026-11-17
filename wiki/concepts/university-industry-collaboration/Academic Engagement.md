@@ -130,6 +130,11 @@ updated: 2026-11-17
 > > **生活组织模式决定学业投入的阶层分化与功能取向** 郑雅君（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]]）实证揭示了学业投入在两类典型大学生活组织模式中的系统性分异：
 > > 1. **[[Goal-Controlled Mode|目标掌控模式]]（优势阶层主导）** 将学业投入高度功能化，学生根据绩点之于生涯目标（保研、出国或求职）的边际效用精准分配精力，精明运用选课策略管理学分绩点；
 > > 2. **[[Intuition-Dependent Mode|直觉依赖模式]]（弱势阶层多见）** 学业投入深陷绩点无用论认知偏差与高中苦学惯性的张力，对大学策略性刷分行为产生道德拒斥，导致高强度时间投入难以转化为高制度回报。
+>
+> > [!claim] [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|郑雅君 (2023, 第四章)]]
+> > **学业投入作为入场门槛的边际效用管理与认知偏差** 郑雅君（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|2023, 第四章]]）进一步揭示了两类模式在学业精力分配上的微观博弈策略：
+> > 1. 目标掌控者将学业投入定位为初赛入场券与功能工具，通过向前辈索取选课给分清单规避严苛教师，并将学业精力精准控制在达到保研或求职所需的分数线阈值之上，腾出80%的精力投入名企实习与社会交往等决定性赛场；
+> > 2. 直觉依赖者则深陷策略失灵：或因误信大学绩点无用论盲目分散精力导致大一绩点滑坡，或在核心专业课中被动应付、在及格线边缘挣扎，甚至在遭遇挫败时对策略性刷分产生道德拒斥（如认为功利虚伪），陷入高时间消耗与低制度回报的困境。
 
 ---
 
@@ -173,7 +178,7 @@ updated: 2026-11-17
 > [!dev-timeline] 学术参与双重脉络演进历程
 > - **1980s–1990s — [[Student Engagement|学生投入]]理论与学业融入界定** Astin 提出[[Student Involvement|学生涉入]]理论，Tinto（1993）确立学业融入（Academic Integration），Kuh（1991）将学业投入[[Operationalization|操作化]]为具体学习行为指标。
 > - **2010s — 产学学术参与概念奠定** Perkmann et al.（2013）在《Research Policy》[[Systematic Review|系统综述]]中确立学术参与（Academic Engagement）与商业化（Commercialization）的二分法，奠定产学协同组织研究新[[Paradigm|范式]]。
-> - **2023 年 — 中国大学生学业投入阶层机制与制度锁定深化** [[Yajun Zheng|郑雅君]]出版《金榜题名之后》，实证揭示学业投入在[[Goal-Controlled Mode|目标掌控模式]]与[[Intuition-Dependent Mode|直觉依赖模式]]下的深层阶层分化机制，并剖析推免保研规则对长程学业投入的制度性锁定。
+> - **2023 年 — 中国大学生学业投入阶层机制与制度锁定深化** [[Yajun Zheng|郑雅君]]出版《金榜题名之后》（[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|第一章]]；[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]），实证揭示学业投入在[[Goal-Controlled Mode|目标掌控模式]]与[[Intuition-Dependent Mode|直觉依赖模式]]下的深层阶层分化机制，剖析推免保研对长程学业投入的制度锁定，以及学业投入作为入场门槛的边际效用管理策略。
 > - **2025 年 — 大学多触点组织模式与 [[Academic Engagement Team|AET]] 理论系统化** Boccanfuso and Hall（2025）与 [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] 分别从大学侧与企业侧解构学术参与的[[Concierge Service|礼宾]]模式与矩阵协调机制。
 > - **2026 年 — 产业博士、[[Activate Fellowship|Activate]] 创业科学家与晋升机制重塑** 白宫 [[Office of Science and Technology Policy|OSTP]] 发布《[[Science A New Golden Age 2026|科学：新的黄金时代]]》（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]），正式确立推动产业博士培养、推广 Activate 驻场科学家模式并打破终身教职晋升壁垒的国家科技人才战略。
 
@@ -211,5 +216,6 @@ updated: 2026-11-17
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 深度质性与量化研究，揭示中国顶尖大学学生学业投入与社会性投入在不同家庭阶层背景下的模式分化；系统剖析推免保研与海外深造规则对本科阶段持续学业投入的制度性锁定机制（详见[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|第一章]]，pp. 85–88）。
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|郑雅君 (2023, 第四章)]] — 详尽剖析两类生活组织模式在学业投入上的微观博弈策略，揭示学业投入作为入场门槛的边际管理与直觉依赖者的绩点认知偏差及学业困境。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，提出扩大产业博士培养、推广伯克利 [[Activate Fellowship|Activate]] 创业科学家模式及打破学术晋升壁垒的产学学术参与重塑方案。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 从[[Academic Engagement Team|企业学术参与团队]]（AET）视角系统剖析产学学术参与的组织架构、预算配置与跨部门矩阵治理。
