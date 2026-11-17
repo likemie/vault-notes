@@ -980,5 +980,11 @@
       "sentence": "**制度张力** 高校内部立德树人、全面发展的教育宗旨同外部劳动力市场优胜劣汰的竞争逻辑相互脱节，使大学校园呈现出缺乏标准路线指引的迷宫特征（pp.",
       "target": "wiki/concepts/higher-education/Grandes Ecoles.md"
     }
+  ],
+  "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md": [
+    {
+      "sentence": "学业 GPA、学术科研、学生工作、社会实践、志愿服务、出国交换、入党评优等构成了繁复的支线挑战，每一关卡均通向升学或求职等差异化的关底对决。",
+      "target": "wiki/concepts/educational-philosophy/Alienation.md"
+    }
   ]
 }
