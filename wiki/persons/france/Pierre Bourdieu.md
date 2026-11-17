@@ -75,6 +75,7 @@ related_persons:
   - "[[Bruno Latour]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Eacott_2015_EPT]]"
   - "[[Argument_Teng_2025_CE]]"
@@ -155,27 +156,21 @@ updated: 2026-11-15
 
 ---
 
-> [!claim] 核心思想
-> 社会实践是习性、资本与[[Champ|场域]]三者动态咬合的产物。实践是在特定场域中，行动者所占有的资本结构与具身化的习性惯性[[Interaction Effect|交互作用]]，借助身体化的实践感所生成的策略行为。教育系统通过将特权阶层的文化特征包装为普适的学术天分，建立了无可辩驳的合法性正统信念（[[Doxa]]），以符号暴力的隐蔽方式促成被支配者对自身位置的认同与默认，完成阶级分层的合法再生产。
+> [!person-thesis] 主张一｜社会实践是具身化习性、资本存量与场域逻辑动态交互的产物
+> 布迪厄指出，行动超越了纯粹理性主体的自由计算与外在机械结构的被动投射。实践生成于行动者在特定场域中的位置，是其长期内化的具身化习性（habitus）与所占有的资本结构在特定博弈规则下相互遭遇、借助身体化实践感所生成的策略行动。[[Argument_Eacott_2015_EPT\|(Bourdieu, 1992; Eacott, 2015, pp. 322–323)]]
+>
+> > [!thesis-quote] 《实践感》（1980）
+> > 实践不仅是资本占有状况的函数，也是场域逻辑与历史内化的习性相互遭遇的结果。[[Argument_Eacott_2015_EPT\|(引 Bourdieu, 1992；引自 Eacott, 2015, pp. 322–323)]]
+> >
+> > *Practice is not only a function of capital possession, but the result of the encounter between field logic and historically internalized habitus.*
 
-> [!citation-card] 场域逻辑与内化习性交互作用中的实践生成
-> 实践不仅是资本占有状况的函数，也是场域逻辑与历史内化的习性相互遭遇的结果。如果忽视了社会科学研究者的[[Epistemology|认识论]]断裂警觉，我们就会在不知不觉中复制日常概念，从而使反思沦为装饰。[[Argument_Eacott_2015_EPT|Eacott (2015, pp. 322–323)]]（引自 Bourdieu, 1992）
-
----
-
-> [!influence-path] 影响路径
-> - **理论路径** 彻底改写了战[[Post-structuralism|后结构主义]]与功利主义的对抗格局，其习性、资本与[[Champ|场域]]框架成为教育社会学、文化社会学与批判政策分析的基础[[Paradigm|范式]]语言；后继学者（Lingard & Rawolle, 2011）将其延伸至超国家层面的[[Global Educational Policy Field|全球教育政策场域]]研究。
-> - **方法路径** 主张超越量化实证与质性[[Phenomenology|现象学]]的二元对立，将多维对应分析（MCA）与深度[[Ethnography|民族志]]结合，为社会空间的关系性建模提供了实证模版；倡导以[[Epistemological Break|认识论断裂]]和[[Epistemological Vigilance|认识论警觉]]开展反思性研究。
-> - **政策路径** 其教育再生产学说强力拆穿了贤能主义（Meritocracy）的客观神话，推动了西方对弱势阶层教育补偿、平权法案以及多元评价的政策讨论；晚期对新自由主义全球化的政治介入启发了对超国家组织物化全球化、强推[[Liberalization|经济自由化]]的政策[[Discourse|话语]]解构；并在跨国治理分析中揭示 [[OECD]] 如何凭借统计测量资本与象征资本确立[[Transnational Education|跨国教育]]仲裁权威。
-> - **跨国／跨领域传播** 在进入中国高等教育与基础教育研究中，其资本转换模型被相继改造，用以解析转型期大学生的求职分化（目标掌控与[[Intuition-Dependent Mode|直觉依赖模式]]）以及农村随迁家庭的[[School Choice|择校]]博弈；在澳大利亚与英美，其场域分析被广泛应用于解构校长培训体制的管理主义 Doxa 与高等教育学术界的新封建主义依附关系。
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 将习性与[[Cultural Capital|文化资本]]运用于中国精英大学毕业去向分析，开发了目标掌控与直觉依赖两种资本化习性模式，解释了阶层出身如何在校园内部完成隐性变现。
-> - [[Argument_Teng_2025_CE|Teng and Wang (2025)]] — 证明了在中国县域择校迁移中，由于选拔机制简化，家庭资本展现出垂直阶梯分层筛选，户籍行政限制被置换为隐性阶级筛选，文化资本不得不退让并折算为社会资本关系。
-> - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 将场域和 [[Doxa]] 运用于澳大利亚[[School Leadership|学校领导力]]培养体系研究，剖析了管理主义绩效体制如何掏空学校管理者的自主实践空间。
-> - [[Argument_Eacott_2015_EPT|Eacott (2015)]] — 聚焦[[Epistemological Break|认识论断裂]]和警觉，反思了教育行政研究中对 Bourdieu 理论工具的生硬套用，强调研究者必须对自身的行业凝视保持警惕。
-> - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]] — 运用其符号商品与学术阶级分数分析当代高等教育，指出绩效问责的无休止竞争正在学术界内部催生出新封建主义依附秩序。
-> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 借鉴布迪厄的场域与资本理论（Lingard & Rawolle, 2011），将全球教育治理空间界定为跨国博弈场域，剖析 OECD 如何凭借统计测量资本与象征资本确立跨国仲裁权威并规制主权国家政策议程（p. 421）。
+> [!person-thesis] 主张二｜教育系统通过将特权文化包装为客观天分实现阶级再生产
+> 布迪厄论证，学校考核体系推行与优势阶级具有亲和性的文化专断，要求学生具备家庭教育传授的语言风度与主导文化熟稔度，进而将阶层先赋特权伪装为个人学术才华，借助符号暴力的隐蔽方式使被支配者对自身不平等地位产生认同，完成阶级结构的合法再生产。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|(引 Bourdieu, 1977；引自 郑雅君, 2023, pp. 41–43)]]
+>
+> > [!thesis-quote] 《文化再生产与社会再生产》（1977）
+> > 学校教育系统秘而不宣地要求每个学生拥有学校并不曾给予的东西，这包括语言能力、文化感知力和对主导文化的熟稔，而这种东西只有统治阶级在家庭教育中传授主导文化时才能获得。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|(引 Bourdieu, 1977, p. 494；引自 郑雅君, 2023, p. 42)]]
+> >
+> > *The educational system demands secretly of all students that which it does not give them, namely linguistic competence, cultural perception, and familiarity with dominant culture.*
 
 ---
 
@@ -186,6 +181,22 @@ updated: 2026-11-15
 
 > [!citation-card] [[Yajun Zheng|郑雅君]]论布迪厄文化资本与精英大学隐性再生产机制
 > 家庭不平等通过资本化过程转译为新生的初始习性差异。优势家庭学生展现出[[Goal-Controlled Mode|目标掌控模式]]，主动变现文化资本；弱势家庭学生则陷入直觉依赖模式，面临[[Cultural Disembedding|文化脱嵌]]与[[Cultural Disorientation|文化迷失]]。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, pp. 24–28)]]
+
+---
+
+> [!influence-path] 影响路径
+> - **理论路径** 彻底改写了战[[Post-structuralism|后结构主义]]与功利主义的对抗格局，其习性、资本与[[Champ|场域]]框架成为教育社会学、文化社会学与批判政策分析的基础[[Paradigm|范式]]语言；后继学者（Lingard & Rawolle, 2011）将其延伸至超国家层面的[[Global Educational Policy Field|全球教育政策场域]]研究。
+> - **方法路径** 主张超越量化实证与质性[[Phenomenology|现象学]]的二元对立，将多维对应分析（MCA）与深度[[Ethnography|民族志]]结合，为社会空间的关系性建模提供了实证模版；倡导以[[Epistemological Break|认识论断裂]]和[[Epistemological Vigilance|认识论警觉]]开展反思性研究。
+> - **政策路径** 其教育再生产学说强力拆穿了贤能主义（Meritocracy）的客观神话，推动了西方对弱势阶层教育补偿、平权法案以及多元评价的政策讨论；晚期对新自由主义全球化的政治介入启发了对超国家组织物化全球化、强推[[Liberalization|经济自由化]]的政策[[Discourse|话语]]解构；并在跨国治理分析中揭示 [[OECD]] 如何凭借统计测量资本与象征资本确立[[Transnational Education|跨国教育]]仲裁权威。
+> - **跨国／跨领域传播** 在进入中国高等教育与基础教育研究中，其资本转换模型被相继改造，用以解析转型期大学生的求职分化（目标掌控与[[Intuition-Dependent Mode|直觉依赖模式]]）以及农村随迁家庭的[[School Choice|择校]]博弈；在澳大利亚与英美，其场域分析被广泛应用于解构校长培训体制的管理主义 Doxa 与高等教育学术界的新封建主义依附关系。
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 将习性与[[Cultural Capital|文化资本]]运用于中国精英大学毕业去向分析，在[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|第二章]]中作为大学过程模型“资本化过程”的理论来源（pp. 41–43），并在全书中开发了目标掌控与直觉依赖两种资本化习性模式，解释阶层出身如何在校园内部完成隐性变现。
+> - [[Argument_Teng_2025_CE|Teng and Wang (2025)]] — 证明了在中国县域择校迁移中，由于选拔机制简化，家庭资本展现出垂直阶梯分层筛选，户籍行政限制被置换为隐性阶级筛选，文化资本不得不退让并折算为社会资本关系。
+> - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 将场域和 [[Doxa]] 运用于澳大利亚[[School Leadership|学校领导力]]培养体系研究，剖析了管理主义绩效体制如何掏空学校管理者的自主实践空间。
+> - [[Argument_Eacott_2015_EPT|Eacott (2015)]] — 聚焦[[Epistemological Break|认识论断裂]]和警觉，反思了教育行政研究中对 Bourdieu 理论工具的生硬套用，强调研究者必须对自身的行业凝视保持警惕。
+> - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]] — 运用其符号商品与学术阶级分数分析当代高等教育，指出绩效问责的无休止竞争正在学术界内部催生出新封建主义依附秩序。
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 借鉴布迪厄的场域与资本理论（Lingard & Rawolle, 2011），将全球教育治理空间界定为跨国博弈场域，剖析 OECD 如何凭借统计测量资本与象征资本确立跨国仲裁权威并规制主权国家政策议程（p. 421）。
 
 ---
 

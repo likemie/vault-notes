@@ -9,7 +9,7 @@ aliases:
 summary: "学生在教育性活动中投入时间、精力与心智的综合构念，涵盖行为、情感、认知与认识论维度，受阶层文化习性制约，并作为连接教育环境与深层学业发展的核心中介机制。"
 type: concept
 domain: "higher-education"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -258,7 +258,6 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|郑雅君 (2023)]] — 将学生投入理论作为大学过程分析框架中“投入过程”层的核心操作化支柱，从量、质与方向性多维透视学业与社会性投入（pp. 40–41, 47–48）。
-> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 结合量化调查与质性长周期追踪，构建“投入过程”[[Analytic Framework\|分析框架]]，实证揭示[[Cultural Capital\|文化资本]]与阶层习性对学生投入量与方向性的深层分化机制。
+> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 在[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|第二章]]中将学生投入理论作为大学过程分析框架中“投入过程”层的核心操作化支柱，从量、质与方向性多维透视学业与社会性投入（pp. 40–41, 47–48）；并结合量化调查与质性长周期追踪，实证揭示文化资本与阶层习性对学生投入量与方向性的深层分化机制。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 辨析[[Generative Artificial Intelligence\|生成式人工智能]]环境下表层行为与情感参与对深层“认识性投入”的遮蔽效应，提出重塑评价判断权与培育关系性主体性的实践方案。
 
