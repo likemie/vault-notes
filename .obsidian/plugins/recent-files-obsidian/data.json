@@ -5,20 +5,36 @@
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md"
     },
     {
-      "basename": "Binary Logistic Regression",
-      "path": "wiki/methods/quantitative/Binary Logistic Regression.md"
+      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch05",
+      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md"
     },
     {
-      "basename": "Visible Learning Branding and Global Influences",
-      "path": "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md"
+      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch04",
+      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
+    },
+    {
+      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch03",
+      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
+    },
+    {
+      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch02",
+      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
+    },
+    {
+      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch01",
+      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
     },
     {
       "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch06",
       "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md"
     },
     {
-      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch02",
-      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
+      "basename": "Visible Learning Branding and Global Influences",
+      "path": "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md"
+    },
+    {
+      "basename": "Binary Logistic Regression",
+      "path": "wiki/methods/quantitative/Binary Logistic Regression.md"
     },
     {
       "basename": "Veil of Maya",
@@ -35,10 +51,6 @@
     {
       "basename": "template-argument",
       "path": "wiki/templates/template-argument.md"
-    },
-    {
-      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch05",
-      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md"
     },
     {
       "basename": "Argument_Lakhani_2012_AKUIED",
@@ -107,14 +119,6 @@
     {
       "basename": "Argument_Campbell_2026_JPCC",
       "path": "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md"
-    },
-    {
-      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch01",
-      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
-    },
-    {
-      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch03",
-      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
     },
     {
       "basename": "Argument_Zheng_2023_ShanghaiSanlian",
@@ -195,10 +199,6 @@
     {
       "basename": "Principium Individuationis",
       "path": "wiki/concepts/educational-philosophy/Principium Individuationis.md"
-    },
-    {
-      "basename": "Principle of Sufficient Reason",
-      "path": "wiki/concepts/educational-philosophy/Principle of Sufficient Reason.md"
     }
   ],
   "omittedPaths": [],
