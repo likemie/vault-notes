@@ -116,6 +116,7 @@ related_arguments:
   - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Liu_2026_CHBR]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
+  - "[[Argument_Deng_2016_CE]]"
 status: active
 created: 2026-08-24
 updated: 2026-11-03
@@ -126,7 +127,7 @@ updated: 2026-11-03
 > [!def] Higher-Order Thinking Skills
 > 高阶思维技能（Higher-Order Thinking Skills, HOTS）是指超越简单的信息再认、事实机械回忆与固定程序算法套用的复杂心智加工运作系统。它具有非算法性（non-algorithmic）、高心智投入、多元路径与高度自我调节等特征，在面对充满不确定性与劣构的问题情境时能够形成[[Creativity\|创造性]]解决方案或作出审慎的价值与逻辑判断；在理论脉络上深植于[[Bloom's Taxonomy\|布鲁姆教育目标分类学]]（Bloom's Taxonomy）的高阶认知层级（分析、评价与创造），并在当代教育实证研究中具体[[Operationalization\|操作化]]为[[Critical Thinking\|批判性思维]]、[[Computational Thinking\|计算思维]]、[[Problem Solving\|复杂问题解决]]、[[Metacognition\|元认知]]反思与团队协作等核心能力。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 3–4)]]; [[Argument_Unal_2026_JECR\|(Ünal et al., 2026, pp. 1365–1366)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1–3)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 学生对已有信息和经验进行深层重构、逻辑推论、批判审视与综合创新的复杂高级心智加工体系。
 > - **用途** 帮助教学设计与教育[[Evaluation Research\|评价研究]]者超越低阶事实回忆和标准化机械应试，精准培育与测度面向21世纪知识社会的核心认知素养。
 > - **边界** 高阶思维技能不等于脱离具体学科知识的空洞逻辑游戏，亦不同于遵循明确公式步骤的常规熟练运算。
@@ -148,7 +149,7 @@ updated: 2026-11-03
 
 ---
 
-> [!contrast-table] 高阶思维（HOTS）与低阶思维（LOTS）及常规智力测验对比
+> [!contrast-table|notitle] 高阶思维（HOTS）与低阶思维（LOTS）及常规智力测验对比
 > | 比较维度 | 高阶思维技能（HOTS） | 低阶思维技能（LOTS） | 常规智商测验（IQ） |
 > |---|---|---|---|
 > | **认知过程** | 分析、评价、创造、批判质疑、多源综合 | 识别、回忆、机械复述、直接套用套路 | 反应时、矩阵推理、[[Working Memory\|工作记忆]]容量测试 |

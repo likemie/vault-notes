@@ -58,6 +58,7 @@ related_arguments:
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Eacott_2017_SLM]]"
+  - "[[Argument_Deng_2016_CE]]"
 related_facts:
   - "[[OECD]]"
   - "[[Monash Q Project]]"
@@ -90,7 +91,7 @@ updated: 2026-11-15
 > [!def] School Leadership
 > **学校领导力（School Leadership）** 指教育领导者（涵盖校长、中层管理者及分布式领导团队）通过确立学校发展愿景、促进教职员工专业成长、重构[[Organizational Culture\|组织文化]]架构与维系深度人际信任，从而对学生学业成功与学校整体改进产生关键塑造作用的专业实践（[[Argument_Møller_2017_EERJ\|Møller, 2017, p. 376]]）。领导力深具情境特异性（Context-specific），不存在放之四海而皆准的通用卓越处方。在[[Evidence-Informed Practice\|证据知情实践]]与[[Quality Use of Research Evidence Framework\|高质量研究使用]]视域下，学校领导力进一步超越传统的行政管辖与指令下达，确立为以身作则、言行一致（*walk the talk and model its implementation*）示范研究在课堂中的具体转化，并通过制度化排程为教师提供研讨工时与试错心理安全的组织使能手段。[[Argument_Møller_2017_EERJ\|(Møller, 2017, pp. 376, 380)]]；[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, pp. 187–188, 191–192)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **核心指向** 学校微观组织改进、人员发展、专业信任与证据转化的协同引领机制。
 > - **理论用途** 揭示学校领导者如何通过愿景引领、榜样示范与制度化排程打破教师职业孤岛与行政[[Alienation|异化]]，理解教育改革在微观现场落地或受阻的组织动力学。
 > - **适用边界** 坚决反对将学校领导力降格为去情境化的个人英雄主义叙事或[[New Public Management\|新公共管理]]的技术官僚控制工具；强调其深受宏观制度问责与社会正义权力的结构性塑造。
@@ -112,7 +113,7 @@ updated: 2026-11-15
 
 ---
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 比较维度 | 学校领导力（School Leadership） | [[Transformative Leadership\|变革型领导力（Transformative Leadership）]] | [[New Public Management\|新公共管理]]科层管理（NPM Administration） | 教育企业管理者型领导（Pedagogical Enterprise Manager） |
 > |---|---|---|---|---|
 > | **分析起点** | 学校微观组织运作、人员发展与教学情境 | 宏观权力结构、社会正义与制度不平等批判 | 科层问责规程、成本效益核算与标准交付 | 路径自主权体制下国家标准、成效监测与校本改进交汇处 |
@@ -122,10 +123,6 @@ updated: 2026-11-15
 > | **工时重点** | 兼顾全校常规行政管理与教学关注 | 投向批判性对话与社会行动动员 | 消耗于外部公文填报与形式化绩效审计 | 系统性削减课堂兼课，集中于深入课堂听课与教学质量研讨 |
 
 ---
-
-## 核心要素
-
-学校领导力兼具跨情境的基本组织实践与推动循证教学改善的使能支柱。
 
 > [!feature] 学校领导力的五大基础实践与三大循证使能支柱
 > - **设定清晰方向（Setting Direction）** 凝聚全校师生与社区共同认可的育人愿景，确立明确的发展优先次序。[[Argument_Møller_2017_EERJ\|(Møller, 2017, p. 380)]]
@@ -234,7 +231,7 @@ updated: 2026-11-15
 > [!critique] 外部制度审视
 > - **校长职业习性的撕裂** 埃科特（Eacott）指出，校长必须同时在教育育人、行政问责与市场竞争三个冲突[[Champ\|场域]]中行动，导致其专业习性陷入深层自我分裂。[[Argument_Eacott_2011_JEAH\|(Eacott, 2011, pp. 49–51)]]
 
-> [!warning] 适用局限
+> [!warning|limits] 适用局限
 > - **校长工作量激增与身心健康危机** 澳大利亚调查显示，过度问责与企业化压力导致校长群体普遍遭受严重身心损耗；在弱势偏远地区甚至出现高达 25 万澳元年薪仍无人应聘的招聘危机，造成优质师资资源在区域间严重倒挂。(Keddie et al., 2020, pp. 439–440)
 
 ---
@@ -316,7 +313,7 @@ updated: 2026-11-15
 
 > [!entry-map] 学校领导力关联网络
 >
-> | 条目 | 类型 | 贡献与核心关联说明 |
+> | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Evidence-Informed Practice]] | 实践形态 | 学校领导力作为组织使能支柱，推动外部科研证据在校本场景落地。 |
 > | [[Quality Use of Research Evidence Framework]] | 理论框架 | 将榜样示范与制度化排程确立为促进高质量[[Research Utilization\|证据使用]]的使能要素。 |
@@ -331,7 +328,8 @@ updated: 2026-11-15
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Deng_2016_CE]] — 考察新加坡高表现教育系统中教学型学校领导力的制度嵌入性，指出其并非孤立的校本自主权产物，而是深嵌于中央集权课程、师资一体化体系与高利害考试问责框架之中。
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 针对奥地利 362 名中小学校长开展聚类与[[Analysis of Variance\|方差分析]]，证实认同产出导向与[[Output-Oriented Governance\|循证治理]]的校长显著缩减课堂兼课时间，将更多工时投向教学观摩、质量评估与教研对话，重构为教育企业管理者的专业身份。
 > - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al. (2022)]] — 结合[[Monash Q Project\|莫纳什 Q 项目]]全澳实证调查，系统论证榜样型领导示范与制度化排程是打破教师防卫、促进高质量研究[[Research Utilization\|证据使用]]的首要组织手段。
 > - [[Argument_Møller_2017_EERJ\|Møller (2017)]] — 评述跨国成功学校校长项目（ISSPP），阐释领导力的情境特异性，并从[[Transformative Leadership\|变革型领导力]]与批判政策视角反思个人英雄主义偏差。
