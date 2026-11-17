@@ -7,7 +7,7 @@ aliases:
 summary: "把文化理解为提供行动策略、习惯和可调用资源工具箱的文化社会学理论，强调行动者依据情境需要灵活建构行动策略，而非被动受制于单一抽象价值观；郑雅君（2023）将其引入中国精英大学出路分化研究，解释阶层化生活组织模式的生成机制。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 32
+theory_related_count: 33
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"

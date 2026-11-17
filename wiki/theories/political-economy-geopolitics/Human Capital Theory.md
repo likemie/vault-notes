@@ -134,7 +134,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-11-15
+updated: 2026-11-17
 ---
 
 ---
@@ -190,7 +190,7 @@ updated: 2026-11-15
 > | 量化硬事实与认知权威（[[Soft Power by Hard Facts\|Hard Facts]] & [[Cognitive Authority]]） | 机制 | 经合组织将人力资本范式转译为跨国标准测试（如 [[PISA]]）的量化“硬事实”，把教育简化为服务于知识经济生产率的技能资产，在缺乏法定强制力下确立起专业化的认知权威与全球教育评估标尺。[[Argument_Niemann_Martens_2018_GSP\|(Niemann & Martens, 2018, pp. 268–272)]] |
 > | 技术官僚绩效[[Disciplina and Doctrina\|规训]]（Technocratic Disciplining Pressure） | 机制 | 经合组织等跨国组织将人力资本逻辑转化为直接约束国家研究经费与问责指标的治理手段，迫使比较教育研究服从于经济竞争力的绩效达标。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, p. 96)]] |
 > | 重大工程专门工程人力资本与多维流动机制（Mission-Oriented Engineering Human Capital & Mobility） | 机制 | 高技术产业中通过重大公共战略工程实战历练形成的高级系统架构与工程管理专门人力资本，通过半导体企业间衍生创业网络与计算机企业内部跨部门调配双重通道平移至国民经济民用领域。[[Argument_Schnee_1978_RP\|(Schnee, 1978, pp. 17–20)]] |
-> | 有学无教与[[Learning Crisis\|学习贫困]]（Schooling without Learning / Learning Poverty） | 机制 | 世界银行（World Bank Group, 2018; [[Argument_WorldBank_2019_Teach\|World Bank Group, 2019]]）揭示发展中国家入学率扩张并未同步转化为实质人力资本积累；若缺乏高质量的课堂微观教学实践，学校教育无法自发生成生产力，倒逼政策重心转向教师教学质量。[[Argument_WorldBank_2019_Teach\|(World Bank Group, 2019, pp. 1–3)]] |
+> | 有学无教与[[Learning Crisis\|学习贫困]]（Schooling without Learning / Learning Poverty） | 机制 | 世界银行（World Bank Group, 2018; [[Argument_WorldBank_2019_Teach\|World Bank Group, 2019]]）揭示发展中国家入学率扩张并未同步转化为实质人力资本积累；若缺乏高质量的课堂微观教学实践，学校教育无法自发生成生产力，推动政策重心转向教师教学质量。[[Argument_WorldBank_2019_Teach\|(World Bank Group, 2019, pp. 1–3)]] |
 > | 人类发展 vs 人力资源开发对立（Human Development vs HRD Tension） | 分类 / 框架 | 联合国教科文组织批判人力资本理论将人异化为经济增长工具，主张人本身即是发展的终极目的。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b)]] |
 > | 无形投资与人力资本自营（Intangible Investment & Self-entrepreneurship） | 机制 | 欧盟《里斯本战略》将教育定义为应对全球竞争的无形资本投资，通过全景式指标监测将就业能力与技能更新责任全面个体化。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|(Pasias & Roussakis, 2009, pp. 482–484)]] |
 
@@ -218,7 +218,7 @@ updated: 2026-11-15
 > 经合组织在冷战初期将人力资本理论与控制论规划结合以抗衡苏联计划经济，并在 1990 年代转向知识经济与终身学习范式；世界银行则建立教育收益率数据库作为结构性调整与政策放贷的量化门槛（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al., 2024]]）。丹尼斯·尼曼（Dennis Niemann）与克斯汀·马滕斯（Kerstin Martens, 2018）进一步揭示，经合组织在当代通过跨国标准化测验（[[PISA]]）将人力资本范式编码为量化“硬事实”（Hard Facts），把教育过程简化为服务于知识经济生产率的个体核心素养；在缺乏法定强制管辖权的情形下，经合组织依托硬事实与跨国排名确立起全球教育评估的[[Cognitive Authority|认知权威]]，通过激活各国内部危机意识实施跨国软治理（[[Argument_Niemann_Martens_2018_GSP|Niemann & Martens, 2018, pp. 268–272]]）。帕西亚斯与鲁萨基斯（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009]]）论证，欧盟委员会在《里斯本战略》中同样将人力资本理论升格为超国家治理支柱，把教育界定为对人力资本的“无形投资”，并通过[[Open Method of Coordination|开放协调法]]（OMC）建立基准比对与指标监控，把适应知识经济波动的责任全面转嫁至受教育个体，将学习者塑造成自负盈亏的人力资本自营者。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–484)]] 奈夫卡·亚历克夏杜与哈维尔·兰布拉（[[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou & Rambla, 2023]]）在分析面向 2030 年的[[European Education Area|欧洲教育区]]战略时进一步揭示，超国家人力资本治理展现出显著的制度惯性与连续性。从 2000 年里斯本战略、2009 年 [[Education and Training 2020|ET2020]] 框架至 2021 年欧洲教育区，[[EU|欧盟]]在基础技能、早期离校与高等教育比例等核心量化基准上保持了长达二十年的监控连续性；尽管委员会起草团队试图以社会包容与性别平等重新建构政策[[Discourse|话语]]，但受制于欧洲学期的宏观经济协调与欧洲社会基金资助要求，以就业力和人力资本积累为核心的规制逻辑依然是维系各方妥协的制度压舱石。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 855–857, 863–864)]]
 
 > [!example|notitle]
-> 瑞士在 PISA 测评中总分位居前列，但细分数据显示约 20% 学生阅读素养仅处于最低等级，经合组织据此发布报告指出其存在严重的人力资本短板，成功打破瑞士各州长期的[[Educational Decentralization|教育分权]]自治壁垒，倒逼瑞士联邦政府采纳统一的国家教育标准（[[HarmoS]] 协约）。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 276)]]
+> 瑞士在 PISA 测评中总分位居前列，但细分数据显示约 20% 学生阅读素养仅处于最低等级，经合组织据此发布报告指出其存在严重的人力资本短板，成功打破瑞士各州长期的[[Educational Decentralization|教育分权]]自治壁垒，促使瑞士联邦政府采纳统一的国家教育标准（[[HarmoS]] 协约）。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 276)]]
 
 > [!theory-proposition] 命题五｜高技术产业专门工程人力资本的生成依托重大战略工程历练与多维流动网络
 > 高技术产业（半导体与计算机）的核心能力不仅取决于一般性正规学校教育，更依赖于在大规模复杂系统工程（如载人航天、实时计算综合体）中通过[[Learning by Doing|干中学]]积累的高级系统架构与项目管理专门工程人力资本（[[Argument_Schnee_1978_RP|Schnee, 1978, pp. 17–20]]）。这种专门工程人力资本的社会生产力释放取决于其组织流动网络的制度设计——包括反垄断规制促成的专利交叉许可与离职创业宽容文化，以及大型制造企业内部从重大特种工程向商业通用产品线的跨部门经验平移机制。
@@ -348,13 +348,13 @@ updated: 2026-11-15
 > > 围绕人力资本的积累究竟取决于在校接受正规教育的年限与外在硬件投资，还是取决于微观课堂互动中实质发生的高阶认知与学习成效展开论争。
 > >
 > > - **传统宏观人力资本学派（Schultz, 1961; Psacharopoulos, 1981）** 将[[Educational Level|受教育年限]]和入学率作为核心测算指标，假定学校教育年限的增加可自发转化为劳动技能与边际生产力增长。
-> > - **新实证教育经济学与[[World Bank|世行]][[Learning Crisis|学习危机]]转向（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019]]）** 揭示发展中国家普遍陷入“有学无教”（Schooling without Learning）困境，基础教育普及未能消除学习贫困；实证证据证明教师教学效能的微观差异是决定人力资本积累的最关键校内源泉，倒逼人力资本积累分析从宏观入学年限穿透至微观课堂互动质量测评。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 1–3)]]
+> > - **新实证教育经济学与[[World Bank|世行]][[Learning Crisis|学习危机]]转向（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019]]）** 揭示发展中国家普遍陷入“有学无教”（Schooling without Learning）困境，基础教育普及未能消除学习贫困；实证证据证明教师教学效能的微观差异是决定人力资本积累的最关键校内源泉，推动人力资本积累分析从宏观入学年限深入至微观课堂互动质量测评。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 1–3)]]
 >
 > > [!axis] 人力资源开发（HCT）vs 人本主义全面发展（[[UNESCO]]）
 > > 围绕教育的终极目的是服务于经济增长与资本积累的“人力资源开发”（Human Resource Development），还是实现人本身的尊严、自我完善与终极福祉展开交锋。
 > >
 > > - **世界银行人力资本范式（World Bank, 1995; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）** 宣称人力资本理论具有无可匹敌的广度与严谨性（no genuine rival of equal breadth and rigor），将教育投资完全对齐于劳动生产率与宏观增长资本，通过社会收益率测算推行成本效益主导的标准化干预与教师开支压减。
-> > - **教科文组织人文主义批判（Mayor et al., 1997; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）** 强烈抗议将“人类发展”等同于“人力资源开发”，主张人本身即是发展的终极目的，经济目标必须全面从属于人的自我完善与福祉，坚决抵制将人工具化为经济生产要素。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 347)]]
+> > - **教科文组织人文主义批判（Mayor et al., 1997）** 强烈抗议将“人类发展”等同于“人力资源开发”，主张人本身即是发展的终极目的，经济目标必须全面从属于人的自我完善与福祉，坚决抵制将人工具化为经济生产要素。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 347)]]
 >
 > > [!axis] 长周期人力资本技能培训 vs 工作优先快速就业（循证规程下的因果评估赤字）
 > > 围绕在积极劳动力市场与福利改革中，应当优先投资于长周期的教育培训以积累长效人力资本，还是推行“工作优先”策略以快速脱离救济，以及两类模式在跨国[[Policy Borrowing|政策借用]]中遭遇的实证评价门槛展开交锋。

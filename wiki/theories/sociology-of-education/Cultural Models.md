@@ -10,7 +10,7 @@ aliases:
 summary: "由历史文化过程积淀并持续演进的共享概念框架，在微观层面指文化成员用以解释、预测与指导学习及社会行动的原型图式（如东西方学习模型），在宏观跨国层面指世界社会理论所论述的普世化制度脚本（如国民经济发展、公民资产与国家可改进性信念）。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 45
+theory_related_count: 47
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -25,14 +25,14 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Document]]"
   - "[[Ideal Learner]]"
+  - "[[Heterogeneity]]"
   - "[[Dual School System]]"
   - "[[Falsification]]"
   - "[[Scaffolding]]"
-  - "[[Determinism]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Enlightenment]]"
-  - "[[Heterogeneity]]"
   - "[[Student Attitude]]"
+  - "[[Mimesis]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Research Question]]"
   - "[[Discourse]]"
@@ -64,6 +64,7 @@ related_persons:
   - "[[Liliana Esther Olmos]]"
   - "[[Socrates]]"
   - "[[Aaron Benavot]]"
+  - "[[Yajun Zheng]]"
 related_facts:
   - "[[UNESCO]]"
   - "[[World Bank]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-22
-updated: 2026-11-11
+updated: 2026-11-17
 ---
 
 ---
@@ -106,9 +107,9 @@ updated: 2026-11-11
 > - **1992 — 基础教育课程范畴的世界模型** 迈耶、卡门斯与[[Aaron Benavot|贝纳沃特]]（Meyer, Kamens, & Benavot, 1992）出版《大众学校知识》，系统证明全球各国在小学课程门类与数理课时分配上高度趋同，确立了世界文化模型在具体知识体制中的扩散证据。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 108)]]
 > - **1997 — 宏观世界文化模型扩展与孤岛实验** 迈耶等（Meyer et al., 1997）提出著名的孤岛思想实验（Island Society Experiment），论证即使是孤立社会被发现后也会自发建立宪法、人权、民主与正规学校，确立了现代世界文化模型的弥漫性特征。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 103–104)]]
 > - **2009 — 批判政治经济学解构与本土折射** [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯批判性检视了世界文化模型中的四项核心信念；阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）系统揭示普世文化模型掩盖核心-边缘不平等的阶级属性，并引入微观民族志说明地方行动者对全球模型的变通与抵制。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–76)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–109)]]
-> - **2011 — 劣势环境决策中的文化异质性** 大卫·哈丁（David Harding, 2011）拓展文化模型理论，指出弱势群体置身于多元且相互冲突的文化模型之中，个体的阶层背景与微观处境直接规约了对不同文化模型的识别与激活倾向。
+> - **2011 — 劣势环境决策中的文化[[Heterogeneity|异质性]]** 大卫·哈丁（David Harding, 2011）拓展文化模型理论，指出弱势群体置身于多元且相互冲突的文化模型之中，个体的阶层背景与微观处境深刻塑造了对不同文化模型的识别与激活倾向。
 > - **2012 — 学习文化模型实证体系成型** 李瑾系统构建了西方“心智倾向”（Mind Orientation）与东亚“美德倾向”（Virtue Orientation）学习文化模型的实证对偶框架。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 87–105)]]
-> - **2023 — 大学生工作意义建构的三角图式模型** 郑雅君（[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|2023, 第五章]]）进一步实证揭示名校生面临地位保障、家国理想与个人趣味三大文化图式模型的拉扯，优势生源倾向激活自我趣味模型，而弱势生源更深嵌入家庭责任与反哺模型（pp. 274–279）。
+> - **2023 — 大学生工作意义建构的三角图式模型** [[Yajun Zheng|郑雅君]]（[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|2023, 第五章]]）进一步实证揭示名校生面临地位保障、家国理想与个人趣味三大文化图式模型的拉扯，优势生源倾向激活自我趣味模型，而弱势生源更深嵌入家庭责任与反哺模型（pp. 274–279）。
 
 ---
 
@@ -127,7 +128,7 @@ updated: 2026-11-11
 ---
 
 > [!theory-proposition] 命题一｜文化模型作为历史积淀的共享概念框架引导但不决定个体思维与行动
-> 文化模型是文化共同体在历史演化中形成的超越个人主观认知的共有意义网络。它依托语言词汇和典型文化原型被文化成员广泛识别，为成员提供思考和解释世界的共享[[Scaffolding|脚手架]]。然而，文化模型不是机械[[Determinism|决定论]]的铁律，个体信念会因社会阶层、性别、政治情境和个人生命史的发展偏离该模型。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 88, 104–105)]]
+> 文化模型是文化共同体在历史演化中形成的超越个人主观认知的共有意义网络。它依托语言词汇和典型文化原型被文化成员广泛识别，为成员提供思考和解释世界的共享[[Scaffolding|脚手架]]。文化模型兼具规范引导性与情境调适弹性，个体信念会因社会阶层、性别、政治情境和个人生命历程的发展偏离既有原型。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 88, 104–105)]]
 
 > [!example|notitle]
 > 在东亚文化情境中，任何在[[Confucian Heritage Cultures|儒家文化圈]]长大的人都能清晰识别“苦读成才”、“知耻后勇”的学习模型原型；尽管具体某个现代学生可能厌学或反叛，但该文化模型作为评价与反思的参照系始终具有规范引导力。
@@ -154,7 +155,7 @@ updated: 2026-11-11
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
 > | **认知引导与非决定命题** | 文化模型通过语言与原型影响认知，个体在社会化中呈现偏离 | 跨文化心理学、微观课堂[[Student Attitude\|学习态度]]与家庭教养模式 | [[Argument_Li_2012_Cambridge\|Li (2012, pp. 88–89)]] |
-> | **全球制度趋同命题** | 四大普世信念与课程范畴驱动主权国家模仿并建立同质大众教育架构 | 战后现代国家建制、孤岛思想实验、跨国课程改革 | Meyer et al. (1992, 1997); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, p. 74)]]; [[Argument_Arnove_2009_WorldSystems\|Arnove (2009, p. 103)]] |
+> | **全球制度趋同命题** | 四大普世信念与课程范畴驱动主权国家[[Mimesis\|模仿]]并建立同质大众教育架构 | 战后现代国家建制、孤岛思想实验、跨国课程改革 | Meyer et al. (1992, 1997); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, p. 74)]]; [[Argument_Arnove_2009_WorldSystems\|Arnove (2009, p. 103)]] |
 > | **依附与[[Ideology Critique\|意识形态批判]]命题** | 普世文化模型掩盖核心-外围不平等，无法抹杀依附国家的双轨与分层现实 | 外围国家教育政策史、新自由主义[[Structural Adjustment Programs\|结构调整]]评估 | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, pp. 75–76)]]; [[Argument_Arnove_2009_WorldSystems\|Arnove (2009, pp. 104–106)]] |
 > | **微观折射与文化抵制命题** | 宏观形式同构掩盖微观课堂异质性，地方行动者具备能动反抗与变通潜能 | 跨国教学法借用评估、边缘社群文化抵制研究 | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009, pp. 108–109)]]; Anderson-Levitt (2003); Demerath (1999) |
 
@@ -164,14 +165,14 @@ updated: 2026-11-11
 > - **[[Research Question|研究问题]]** 适合解释微观跨文化学习行为的信念根源，以及宏观国家教育改革[[Discourse|话语]]的跨国同质化与本土变异机制。
 > - **分析对象与单位** 微观为个体的学习话语与理想原型；宏观为主权国家的政策文本、官方课程纲要、国际组织借贷备忘录及课堂日常实践。
 > - **需要的材料** 质性语言词汇、[[In-depth Interview|深度访谈]]、教科书道德画像、国家教育宏观规划文本、教学课时统计表与课堂[[Ethnography|民族志]]记录。
-> - **解释目标** 识别深层文化模型的构成维度，厘清表层[[Institutional Mimesis|制度模仿]]、国家中介过滤与微观社会结构之间的解耦或张力。
+> - **解释目标** 识别深层文化模型的构成维度，厘清表层[[Institutional Mimesis|制度模仿]]、国家中介过滤与微观社会结构之间的脱节或张力。
 
 > [!theory-framework] 文化模型多层分析维度与判读矩阵
 >
 > | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
 > |:---------|:---------------|:-----------------|:-----------------|
 > | **微观认知传统 ([[Argument_Li_2012_Cambridge\|Li, 2012]])** | 学习者如何理解学习的目的与卓越品质？（心智探索 vs 美德[[Self-Cultivation\|修身]]） | 学习相关的高频评价词汇、典型故事原型、家长表扬与批评话语 | 出现高频“好奇、挑战、探究”支持心智模型；出现“刻苦、恒心、尊师、反省”支持美德模型；需排除应试压力带来的临时表层顺从。 |
-> | **宏观制度传统 (Meyer et al., 1992, 1997; [[Argument_Arnove_2009_WorldSystems\|Arnove, 2009]])** | 国家教育规划是否采纳普世世界文化模型与标准化课程范畴？ | 宪法与教育法陈述、官方课程大纲中数理与人文课时分配比例 | 全盘使用“[[Human Capital Theory\|人力资本]]”、“[[Lifelong Learning\|终身学习]]”、加码数理课时支持普世模型采纳；需同步核查实际财政资源配置以防修辞解耦。 |
+> | **宏观制度传统 (Meyer et al., 1992, 1997; [[Argument_Arnove_2009_WorldSystems\|Arnove, 2009]])** | 国家教育规划是否采纳普世世界文化模型与标准化课程范畴？ | 宪法与教育法陈述、官方课程大纲中数理与人文课时分配比例 | 全盘使用“[[Human Capital Theory\|人力资本]]”、“[[Lifelong Learning\|终身学习]]”、加码数理课时支持普世模型采纳；需同步核查实际财政资源配置以防修辞与实践脱节。 |
 > | **批判政治经济视角 ([[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres, 2009]]; Wallerstein, 1974)** | 普世文化修辞下是否存在掩盖阶级分选与依附的机制？ | 公共财政在不同学段的支出比例、初中辍学率与中高等教育扩招增速对比 | 若中高等教育激进扩张伴随大众初等教育高辍学与高文盲率，证明普世模型充当了维持[[Dual School System\|双轨学制]]的合法化面纱。 |
 > | **微观课堂民族志 (Anderson-Levitt, 2003; Demerath, 1999)** | 地方行动者在课堂实践中如何变通或抵制普世模型？ | 教师对以儿童为中心教学法的实际执行方式、乡村青年对文凭价值的言论与行为 | 出现日常教学与官方大纲严重脱离或青年公开反抗升学，支持本土文化与物质约束重塑全球模型的解释。 |
 
@@ -188,7 +189,7 @@ updated: 2026-11-11
 > [!debates] 理论争议
 >
 > > [!axis] 文化共享性 vs 文化内部的阶级[[Heterogeneity|异质性]]与抵抗
-> > 争论文化模型对共享性的强调是否模糊了社会内部不同阶层和群体的利益对抗。
+> > 围绕文化模型共享性的讨论，聚焦于其是否模糊了社会内部不同阶层和群体的利益对抗。
 > >
 > > - **文化心理学者 ([[Argument_Li_2012_Cambridge\|Li, 2012]])** 认为文化模型在群体层面高度稳定且具有普遍可识别性，照亮了基本的文化导向。
 > > - **批判社会学学者** 批评强调共享性容易滑向文化本质主义，忽视了弱势群体对主流[[Hegemony|文化霸权]]的抵抗与颠覆。

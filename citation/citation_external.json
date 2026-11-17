@@ -5861,6 +5861,8 @@
     "David Graeber, 2012": "David Graeber, 2012",
     "David Halperin (1997)": "David Halperin, 1997",
     "David Halperin, 1997": "David Halperin, 1997",
+    "David Harding (2011)": "David Harding, 2011",
+    "David Harding, 2011": "David Harding, 2011",
     "David Hargreaves (1996)": "David Hargreaves, 1996",
     "David Hargreaves, 1996": "David Hargreaves, 1996",
     "David Harvey (1989)": "David Harvey, 1989",
@@ -50418,7 +50420,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md",
-        "wiki/concepts/sociology-of-education/Habitus.md"
+        "wiki/concepts/sociology-of-education/Habitus.md",
+        "wiki/persons/france/Pierre Bourdieu.md"
       ],
       "title": "Systems of Education and Systems of Thought"
     },
@@ -71040,6 +71043,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/educational-philosophy/Queer Theory.md"
+      ],
+      "title": ""
+    },
+    "David Harding, 2011": {
+      "aliases": [
+        "David Harding, 2011",
+        "David Harding (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "David Harding, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/sociology-of-education/Cultural Models.md"
       ],
       "title": ""
     },
@@ -214597,7 +214615,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md",
+        "wiki/theories/sociology-of-education/Dual Elite Career Paths.md"
       ],
       "title": "Local Governments as Industrial Firms: An Organizational Analysis of China's Transitional Economy"
     },
@@ -231012,7 +231031,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md",
+        "wiki/theories/sociology-of-education/Dual Elite Career Paths.md"
       ],
       "title": "制度转型与分层结构的变迁——阶层相对关系模式的“双重再生产”"
     },

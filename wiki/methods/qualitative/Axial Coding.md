@@ -9,7 +9,7 @@ summary: "扎根理论质性数据分析的三级编码枢纽，在开放编码�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 32
+method_related_count: 33
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -59,6 +59,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Barrenechea_2023_JEC]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch05]]"
 confidence: high
 status: active
 created: 2026-09-08

@@ -10,9 +10,9 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 21
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "[[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]"
 tags:
@@ -28,12 +28,13 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Critical Thinking]]"
   - "[[Learner-Centred Education]]"
+  - "[[Adjustment to College]]"
+  - "[[Champ]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Cultural Capital]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Inquiry-Based Learning]]"
-  - "[[Document]]"
-  - "[[Goal-Controlled Mode]]"
-  - "[[Intuition-Dependent Mode]]"
-  - "[[Cultural Capital]]"
   - "[[Habitus]]"
 related_theories: []
 related_methods: []
@@ -45,8 +46,9 @@ related_facts:
   - "[[Civil Service Examination]]"
 related_arguments:
   - "[[Argument_Wang_2025_CE]]"
-  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch05]]"
 confidence: high
 status: active
 created: 2026-07-22
@@ -109,8 +111,8 @@ updated: 2026-11-17
 > - **社会流动与公平公信力基石** 尽管备考压力较大，教育界与公众普遍认同高考为平民子弟提供了不可替代的平等的社会流动通道。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 594)]]
 > - **命题改革对教学法创新的催化** 随着高考命题从[[Rote Learning|死记硬背]]转向强调综合分析与[[Critical Thinking|批判性思维]]，高压问责反而促使进取型学校引入以学生为中心教育（[[Learner-Centred Education|LCE]]）以寻求成绩突破。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 598–599)]]
 > - **权力共享的结构硬边界** 刚性高考大纲决定了学习内容与考查方式必须由国家和教师掌控，排除了学生共决课程大纲与评估形式的可能性。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 599)]]
-> - **应试惯性形塑阶层化大学适应图式** [[Argument_Zheng_2023_ShanghaiSanlian_Ch03|郑雅君 (2023, pp. 74–82)]]指出，县中与薄弱中学高度集约的高考备考机制（刷题、高压纪律管理与单一分数导向）在弱势学生身上形塑了依赖外部指令与题海战术的苦学惯性，进入大学场域后易转化为适应不良的[[Intuition-Dependent Mode|直觉依赖模式]]；优势阶层集中的开放式高中在高考备考之余保留了自主探索与综合活动，培养了兼顾长程规划的[[Goal-Controlled Mode|目标掌控模式]]。
-> - **高考专业志愿填报的阶层逻辑分流** 高考出分后的志愿填报构成了关键的文化资本折现关卡：优势家庭立足长程发展开展前瞻性专业布局与通道转换，弱势家庭受制于信息匮乏，往往采取不浪费高考分数的分数最大化逻辑、情绪补偿或被动避短，造成专业错配与后续学业转换障碍。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 82–90)]]
+> - **应试惯性形塑阶层化[[Adjustment to College|大学适应]]图式** [[Argument_Zheng_2023_ShanghaiSanlian_Ch03|郑雅君 (2023, pp. 74–82)]]指出，县中与薄弱中学高度集约的高考备考机制（刷题、高压纪律管理与单一分数导向）在弱势学生身上形塑了依赖外部指令与题海战术的苦学惯性，进入大学[[Champ|场域]]后易转化为适应不良的[[Intuition-Dependent Mode|直觉依赖模式]]；优势阶层集中的开放式高中在高考备考之余保留了自主探索与综合活动，培养了兼顾长程规划的[[Goal-Controlled Mode|目标掌控模式]]。
+> - **高考专业志愿填报的阶层逻辑分流** 高考出分后的志愿填报构成了关键的[[Cultural Capital|文化资本]]折现关卡：优势家庭立足长程发展开展前瞻性专业布局与通道转换，弱势家庭受制于信息匮乏，往往采取不浪费高考分数的分数最大化逻辑、情绪补偿或被动避短，造成专业错配与后续学业转换障碍。[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|(郑雅君, 2023, pp. 82–90)]]
 
 > [!stat-cards]- 核心数据
 > - **1952 / 1977** 高考初建与文革后正式恢复的历史年份。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 589)]]
@@ -158,4 +160,4 @@ updated: 2026-11-17
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_2025_CE|Wang and McLaughlin (2025)]] — 实证检验重点高中在高考高利害问责硬约束下转译践行以学生为中心教学法的本土化调适策略。
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 在[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]中剖析县中极端高考备考对学子习性的塑造，以及专业志愿选报中文化资本变现与阶层分化机制（pp. 75–90）。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 在[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]中剖析县中高考备考对学子习性的塑造与专业选报中的阶层分化（pp. 75–90）；并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|第五章]]指出经由高考严苛筛选胜出的寒门学子更深地内化了正规学校教育的主流价值认同，反衬出与西方反学校文化不同的体制归顺倾向（p. 287）。

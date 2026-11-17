@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: us
 person_region: "us"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -54,6 +54,7 @@ related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch04]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch05]]"
 confidence: medium
 status: draft
 created: "2026-05-08"
@@ -111,10 +112,10 @@ updated: 2026-11-17
 > [!influence-path] 影响路径
 > - **理论路径** 深刻启发了当代文化社会学与微观实践研究，成为超越结构决定论与理性选择论的第三条路径；启发了 Vaisey（2009）的[[Dual-Process Model of Culture in Action|文化行动双过程模型]]。
 > - **方法路径** 推动了以深度访谈[[Discourse Analysis|话语分析]]为核心的[[Qualitative Research|质性研究]]，倡导研究者关注受访者在面对矛盾处境时调用多元文化代码的[[Discourse|话语]]技能。
-> - **教育研究应用** [[Yajun Zheng|郑雅君]]将工具箱理论引入中国顶尖高校学生出路分化研究，在《金榜题名之后》中将文化工具可及性与熟练程度作为区分[[Goal-Controlled Mode|目标掌控模式]]与[[Intuition-Dependent Mode|直觉依赖模式]]的支柱，并在第四章实证检验不稳定生活状态下学生重组工具箱实现出路突围的微观机制。
+> - **教育研究应用** [[Yajun Zheng|郑雅君]]将工具箱理论引入中国顶尖高校学生出路分化研究，在《金榜题名之后》中将文化工具可及性与熟练程度作为区分[[Goal-Controlled Mode|目标掌控模式]]与[[Intuition-Dependent Mode|直觉依赖模式]]的支柱，在第四章实证检验不稳定生活状态下学生重组工具箱实现出路突围的微观机制，并在第五章将工具箱策略能力与价值信念驱动力交叉构建为毕业出路分化的四分类模型。
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 引入文化工具箱理论（[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|第二章]]、[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]）；并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]实证检验不稳定生活状态下重组工具箱实现突围的微观机制。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 引入文化工具箱理论（[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|第二章]]、[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]）；在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]实证检验不稳定生活状态下重组工具箱实现突围的微观机制；并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|第五章]]整合策略能力与价值信念提出出路分化的 2×2 分类模型（pp. 273–280）。
 
 ---
 

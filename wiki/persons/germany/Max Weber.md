@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: germany
 person_region: "germany"
-person_related_count: 32
+person_related_count: 34
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -31,22 +31,22 @@ related_concepts:
   - "[[Document]]"
   - "[[Determinism]]"
   - "[[Unit of Analysis]]"
-  - "[[Philosophical Aesthetics]]"
-  - "[[Corporate Education]]"
-  - "[[Mimesis]]"
   - "[[Alienation]]"
   - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Cultural Capital]]"
+  - "[[Corporate Education]]"
+  - "[[Aestheticism]]"
   - "[[Necessary and Sufficient Conditions]]"
 related_theories:
-  - "[[Institutional Isomorphism]]"
   - "[[Culture as Toolkit]]"
   - "[[Tullock's Bureaucracy Theory]]"
+  - "[[Institutional Isomorphism]]"
 related_methods:
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
+  - "[[Karl Marx]]"
   - "[[Jerome E. Schnee]]"
   - "[[Georg Lukács]]"
   - "[[Pierre Bourdieu]]"
@@ -60,6 +60,8 @@ related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch05]]"
+  - "[[Argument_Hammermeister_2002_Cambridge_Ch08]]"
 confidence: medium
 status: draft
 created: 2026-05-08
@@ -69,7 +71,7 @@ updated: 2026-11-17
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 马克斯·韦伯（Max Weber，1864–1920），德国社会学家、国民经济学家与法学家，古典社会学三大奠基人之一（与卡尔·马克思、埃米尔·涂尔干并列），理解社会学（Verstehende Soziologie）与现代社会行动理论开创者。
+> - **身份位置** 马克斯·韦伯（Max Weber，1864–1920），德国社会学家、国民经济学家与法学家，古典社会学三大奠基人之一（与[[Karl Marx|卡尔·马克思]]、埃米尔·涂尔干并列），理解社会学（Verstehende Soziologie）与现代社会行动理论开创者。
 > - **核心角色** 在现代社会科学[[Epistemology\|认识论]]中确立价值关联、[[Value Neutrality\|价值中立]]与理想类型方法，提出理性化、[[Bureaucracy|官僚制]]与世界祛魅命题；为教育研究中的行动意涵、组织同构合法性与生涯价值信念分析提供核心理论[[Paradigm\|范式]]。
 > - **代表贡献** 奠定诠释社会学认识论、创立社会行动与合法支配的理想类型、提出宗教伦理与资本主义精神的[[Selective Affinity\|选择性亲和]]机制。
 
@@ -138,7 +140,7 @@ updated: 2026-11-17
 ---
 
 > [!person-thesis] 主张一｜社会学的使命在于对个体社会行动的主观意义进行诠释性理解与因果解释
-> 韦伯将社会学的基本分析单位锚定于具有主观意图的行动个体。社会行动由行动者赋予主观意义，区分为目的理性、价值理性、情感行动与传统行动四种理想类型；社会科学的使命必须进入行动者的主观意义世界予以理解，同时在客观经验中探寻行动过程与后果的因果关联。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|(Weber, 1922/1956; 郑雅君, 2023, pp. 33, 44–46)]]
+> 韦伯将社会学的基本[[Unit of Analysis|分析单位]]锚定于具有主观意图的行动个体。社会行动由行动者赋予主观意义，区分为目的理性、价值理性、情感行动与传统行动四种理想类型；社会科学的使命必须进入行动者的主观意义世界予以理解，同时在客观经验中探寻行动过程与后果的因果关联。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|(Weber, 1922/1956; 郑雅君, 2023, pp. 33, 44–46)]]
 >
 > > [!thesis-quote] 《经济与社会》（1922）
 > > 社会学是一门科学，其意图在于对社会行动进行诠释性的理解，并从而对社会行动的过程和影响予以因果性的解释。所谓行动意指行动个体对其行为赋予主观的意义——不论外显或内隐，不作为或容忍默认。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|(Weber, 1922/1956, p. 3；引自 郑雅君, 2023, p. 33)]]
@@ -190,9 +192,9 @@ updated: 2026-11-17
 > - **教育研究与文化社会学路径** 为教育社会学中的生涯决策、阶层[[Cultural Capital\|文化资本]]与工作价值图式分析提供核心概念框架（如[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]）。
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 承袭韦伯理解社会学立场，在[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|第二章]]中将韦伯价值观驱动范式与斯威德勒工具箱范式结合（pp. 33, 44–46），并在全书中将工具理性与价值理性的张力作为解构名校学生生涯抉择与意义建构的理论透镜。
+> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 承袭韦伯理解社会学立场，在[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|第二章]]中将韦伯价值观驱动范式与斯威德勒工具箱范式结合（pp. 33, 44–46），并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch05\|第五章]]运用韦伯世界图景的“扳道夫”机制，阐释价值信念驱动力与做事策略能力如何共同引导毕业生出路分化（pp. 273–280）。
 > - [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] — 借助韦伯对权力与权威的经典区分，结合制度同构理论，剖析[[Corporate Education\|企业教育]]如何通过外部学术权威获取合法性。
-> - [[Argument_Hammermeister_2002_Cambridge_Ch08\|Hammermeister (2002, Ch. 8)]] — 述[[Georg Lukács\|卢卡奇]]在 1912 年追随韦伯批判现代祛魅社会仅造就专家与唯美主义者（p. 161）。
+> - [[Argument_Hammermeister_2002_Cambridge_Ch08\|Hammermeister (2002, Ch. 8)]] — 述[[Georg Lukács\|卢卡奇]]在 1912 年追随韦伯批判现代祛魅社会仅造就专家与[[Aestheticism|唯美主义]]者（p. 161）。
 
 ---
 
