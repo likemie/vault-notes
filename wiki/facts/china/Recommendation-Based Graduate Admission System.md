@@ -12,7 +12,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -157,4 +157,4 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 系统揭示推免制度锁定本科生学业投入的机制（[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|第一章]]、[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]）；在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]实证检验目标掌控者的门槛达标策略与直觉依赖者的被动避险分化；在[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|第五章]]揭示推免深造作为高校与体制联动的赞助性流动通道；并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|第六章]]阐明其在文化迷失下演变为自保性勤奋学子延缓就业决断的防御性避险机制（pp. 364–365）。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 系统揭示推免机制锁定本科生学业投入（一至三章），检验目标掌控与直觉依赖的避险分化（四至五章），并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|第六章]]阐明其在文化迷失下演化为自保性勤奋学子延缓决断的防御避险机制（pp. 364–365）。

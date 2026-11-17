@@ -25614,7 +25614,8 @@
       "doi": "10.3102/0013189X031009013",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
+        "wiki/concepts/teacher-education/Teacher Qualifications.md"
       ],
       "title": "Defining Highly Qualified Teachers: What Does Scientifically-Based Research Actually Tell Us?"
     },
@@ -57585,7 +57586,8 @@
       "doi": "10.3102/0013189X10383152",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
+        "wiki/concepts/teacher-education/Teacher Qualifications.md"
       ],
       "title": "Attribution Error and the Quest for Teacher Quality"
     },
@@ -69396,7 +69398,9 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/concepts/teacher-education/Teacher Qualifications.md"
+      ],
       "title": "Is Teacher Qualification Associated With the Quality of the Early Childhood Education and Care Environment? A Meta-Analytic Review."
     },
     "Manning et al., 1989": {

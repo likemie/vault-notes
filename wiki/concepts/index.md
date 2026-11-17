@@ -2056,7 +2056,7 @@ Total entries: **2123**
 > - [[Teacher Personality]] — Visible Learning MetaX 因素教师人格的条目，归属教师 › 教师特质；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Teacher Professional Agency]] — 指教师在宏观课程框架指引下，对教学法选择、探究实验设计、本土化课程开发与评价方式拥有充分的专业决策权与自主行动空间，并在遭遇新泰勒制规训与政策博弈时具备批判性审议与多阵线民主行动能力
 > - [[Teacher Professional Development Programs]] — Visible Learning MetaX 因素教师专业发展项目、幼教教师专业发展、读写教学专业发展、数理教学专业发展的条目，归属教师 › 教师教育；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
-> - [[Teacher Qualifications]] — Visible Learning MetaX 因素教师资格的条目，归属教师 › 教师教育；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
+> - [[Teacher Qualifications]] — 衡量教师准入与执业资格的静态专业指标体系，涵盖学历层级、学术成绩、执照认证及选拔排位；实证与政策批判研究表明，教师资质构成了队伍建设的基准门槛，但不等同于课堂动态教学质量，严把入口关无法直接决定一线教学规程与学生学业产出。
 > - [[Teacher Racial-ethnic Discrimination]] — Visible Learning MetaX 因素教师种族／族裔歧视的条目，归属教师 › 教师特质；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Teacher Subject Matter Knowledge]] — Visible Learning MetaX 因素教师学科知识的条目，归属教师 › 教师教育；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Teacher Trust]] — Visible Learning MetaX 因素教师信任的条目，归属教师 › 教师特质；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
