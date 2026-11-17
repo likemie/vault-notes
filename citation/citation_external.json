@@ -9462,8 +9462,10 @@
     "Goos, 2013": "Goos, 2013",
     "Gopinathan (1974)": "Gopinathan, 1974",
     "Gopinathan (1979)": "Gopinathan, 1979",
+    "Gopinathan (1995)": "Gopinathan, 1995",
     "Gopinathan, 1974": "Gopinathan, 1974",
     "Gopinathan, 1979": "Gopinathan, 1979",
+    "Gopinathan, 1995": "Gopinathan, 1995",
     "Gorard & See (2013)": "Gorard & See, 2013",
     "Gorard & See, 2013": "Gorard & See, 2013",
     "Gorard & Smith (2006)": "Gorard & Smith, 2006",
@@ -24191,6 +24193,7 @@
     "Tan & Cho, 2021": "Tan & Cho, 2021",
     "Tan (1996)": "Tan, 1996",
     "Tan (1997)": "Tan, 1997",
+    "Tan (1998)": "Tan, 1998",
     "Tan (2007)": "Tan, 2007",
     "Tan (2010)": "Tan, 2010",
     "Tan (2011)": "Tan, 2011",
@@ -24216,6 +24219,7 @@
     "Tan et al., 2023": "Tan et al., 2023",
     "Tan, 1996": "Tan, 1996",
     "Tan, 1997": "Tan, 1997",
+    "Tan, 1998": "Tan, 1998",
     "Tan, 2007": "Tan, 2007",
     "Tan, 2010": "Tan, 2010",
     "Tan, 2011": "Tan, 2011",
@@ -37374,7 +37378,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "Education, skill formation and economic development: The Singaporean approach"
     },
     "Ashur & Bagadood, 2022": {
       "aliases": [
@@ -43402,11 +43406,11 @@
       "identity_keys": [
         "Beck, 1992"
       ],
-      "isbn": "",
+      "isbn": "9780803983465",
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "Risk society: Towards a new modernity"
     },
     "Beck, 2007a": {
       "aliases": [
@@ -45315,11 +45319,11 @@
       "identity_keys": [
         "Berger & Hsiao, 1990"
       ],
-      "isbn": "",
+      "isbn": "9780887383496",
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "In search of an East Asian development model"
     },
     "Berger & Luckmann, 1966": {
       "aliases": [
@@ -53288,7 +53292,7 @@
         "Brown & Lauder, 2001",
         "Brown & Lauder (2001)"
       ],
-      "doi": "",
+      "doi": "10.1080/713999114",
       "identity_keys": [
         "Brown & Lauder, 2001"
       ],
@@ -53296,7 +53300,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "The future of skill formation in Singapore"
     },
     "Brown & Lauder, 2016": {
       "aliases": [
@@ -59690,11 +59694,11 @@
       "identity_keys": [
         "Castells, 1992"
       ],
-      "isbn": "",
+      "isbn": "9780803940840",
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "Four Asian tigers with a dragon head: A comparative analysis of the state, economy, and society in the Asian Pacific Rim"
     },
     "Castells, 1996": {
       "aliases": [
@@ -59705,14 +59709,14 @@
       "identity_keys": [
         "Castells, 1996"
       ],
-      "isbn": "",
+      "isbn": "9781557866172",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rizvi_2022_Springer.md",
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md",
         "wiki/concepts/political-economy-geopolitics/Informationalization.md",
         "wiki/concepts/university-industry-collaboration/Transnational Research Collaboration.md"
       ],
-      "title": ""
+      "title": "The rise of the network society"
     },
     "Castells, 2000a": {
       "aliases": [
@@ -63562,7 +63566,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "The marketisation of higher education in Singapore: Policies and implications"
     },
     "Chubb & Moe, 1990": {
       "aliases": [
@@ -89405,11 +89409,11 @@
       "identity_keys": [
         "Frank, 1984"
       ],
-      "isbn": "",
+      "isbn": "9780862322366",
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "Critique and anti-critique: Essays on dependence and reformism"
     },
     "Frank, 1985": {
       "aliases": [
@@ -91681,7 +91685,7 @@
       "identity_keys": [
         "Fukuyama, 1992"
       ],
-      "isbn": "",
+      "isbn": "9780029109755",
       "seen_in": [
         "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Marginson_2025_ECNUROE.md",
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md",
@@ -91689,7 +91693,7 @@
         "wiki/concepts/political-economy-geopolitics/Hard Power.md",
         "wiki/concepts/political-economy-geopolitics/Radical Liberal Internationalism.md"
       ],
-      "title": ""
+      "title": "The end of history and the last man"
     },
     "Fukuyama, 2015": {
       "aliases": [
@@ -94982,11 +94986,11 @@
       "identity_keys": [
         "Giddens, 1999"
       ],
-      "isbn": "",
+      "isbn": "9780415927192",
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "Runaway world: How globalisation is reshaping our lives"
     },
     "Giddings, 2006": {
       "aliases": [
@@ -96676,7 +96680,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "Shaping our future: Thinking schools, learning nation"
     },
     "Goksu & Bolat, 2021": {
       "aliases": [
@@ -97661,6 +97665,21 @@
         "wiki/theories/educational-policy-reform/Pluralism.md"
       ],
       "title": ""
+    },
+    "Gopinathan, 1995": {
+      "aliases": [
+        "Gopinathan, 1995",
+        "Gopinathan (1995)"
+      ],
+      "doi": "10.1080/02185379508434062",
+      "identity_keys": [
+        "Gopinathan, 1995"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": "Religious education in a secular state: The Singapore experience"
     },
     "Gorard & See, 2013": {
       "aliases": [
@@ -99533,18 +99552,18 @@
       "identity_keys": [
         "Green, 1990"
       ],
-      "isbn": "",
+      "isbn": "9780333519899",
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "Education and state formation: The rise of education systems in England, France and the USA"
     },
     "Green, 1997": {
       "aliases": [
         "Green, 1997",
         "Green (1997)"
       ],
-      "doi": "",
+      "doi": "10.1057/9780230371132",
       "identity_keys": [
         "Green, 1997"
       ],
@@ -99552,7 +99571,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "Education, globalisation and the nation state"
     },
     "Green, 2003": {
       "aliases": [
@@ -112337,7 +112356,7 @@
         "Hsieh & Tseng, 2002",
         "Hsieh & Tseng (2002)"
       ],
-      "doi": "",
+      "doi": "10.1080/09585190110111486",
       "identity_keys": [
         "Hsieh & Tseng, 2002"
       ],
@@ -112345,7 +112364,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "The welfare state in the 'information age': A comparative study of Singapore and Taiwan"
     },
     "Hsieh et al., 2005": {
       "aliases": [
@@ -113772,11 +113791,11 @@
       "identity_keys": [
         "Huntington, 1996"
       ],
-      "isbn": "",
+      "isbn": "9780684811642",
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "The clash of civilizations and the remaking of world order"
     },
     "Huppert, 1990": {
       "aliases": [
@@ -119407,7 +119426,7 @@
       "identity_keys": [
         "Johnson, 1982"
       ],
-      "isbn": "",
+      "isbn": "9780804712064",
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md",
         "wiki/arguments/journal-articles/Industrial and Corporate Change/Argument_Kattel_Mazzucato_2018_ICC.md",
@@ -119415,7 +119434,7 @@
         "wiki/facts/east-asia/VLSI Project.md",
         "wiki/facts/japan/Ministry of International Trade and Industry.md"
       ],
-      "title": ""
+      "title": "MITI and the Japanese miracle: The growth of industrial policy, 1925–1975"
     },
     "Johnson, 1984": {
       "aliases": [
@@ -128127,7 +128146,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "Tactical globalisation: The Singapore State, Education Policy(y)ing and identity (re)making"
     },
     "Koh, 2006": {
       "aliases": [
@@ -131761,11 +131780,11 @@
       "identity_keys": [
         "Lai, 2004"
       ],
-      "isbn": "",
+      "isbn": "9789812103529",
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "Beyond rituals and riots: Ethnic pluralism and social cohesion in Singapore"
     },
     "Lai, 2012": {
       "aliases": [
@@ -152384,7 +152403,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "Learning to think, thinking to learn: Towards thinking schools, learning nation"
     },
     "Ministry of Education, 2002": {
       "aliases": [
@@ -152399,7 +152418,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "Report of the Junior College/Upper Secondary Education Review Committee"
     },
     "Ministry of Education, 2007": {
       "aliases": [
@@ -153318,11 +153337,11 @@
       "identity_keys": [
         "Mok & Tan, 2004"
       ],
-      "isbn": "",
+      "isbn": "9781403939418",
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "Globalisation and educational re-structuring in the Asia Pacific Region"
     },
     "Mok & Yu, 2011": {
       "aliases": [
@@ -163519,11 +163538,11 @@
       "identity_keys": [
         "Ohmae, 1996"
       ],
-      "isbn": "",
+      "isbn": "9780684825267",
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "The end of the nation state: The rise of regional economies"
     },
     "Ohno, 1978": {
       "aliases": [
@@ -166211,7 +166230,7 @@
         "Pang, 2000",
         "Pang (2000)"
       ],
-      "doi": "",
+      "doi": "10.1355/CS22-3D",
       "identity_keys": [
         "Pang, 2000"
       ],
@@ -166219,7 +166238,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "The financial crisis of 1997–98 and the end of the Asian development state"
     },
     "Pant, 2014": {
       "aliases": [
@@ -180508,7 +180527,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "Singapore: Economic diversification and social divisions"
     },
     "Roden, 2012": {
       "aliases": [
@@ -191952,7 +191971,7 @@
         "Sharpe & Gopinathan, 2002",
         "Sharpe & Gopinathan (2002)"
       ],
-      "doi": "",
+      "doi": "10.1080/02680930110114844",
       "identity_keys": [
         "Sharpe & Gopinathan, 2002"
       ],
@@ -191960,7 +191979,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "After effectiveness: New directions in the Singapore school system?"
     },
     "Sharpe & Rossiter, 2002": {
       "aliases": [
@@ -201417,11 +201436,11 @@
       "identity_keys": [
         "Stiglitz, 2002"
       ],
-      "isbn": "",
+      "isbn": "9780393051247",
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "Globalization and its discontents"
     },
     "Stillar, 1998": {
       "aliases": [
@@ -204878,14 +204897,14 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "Independent schools and autonomous schools in Singapore: A study of two school categorization schemes"
     },
     "Tan, 1997": {
       "aliases": [
         "Tan, 1997",
         "Tan (1997)"
       ],
-      "doi": "",
+      "doi": "10.1080/02188799708547743",
       "identity_keys": [
         "Tan, 1997"
       ],
@@ -204893,7 +204912,22 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "Improving Malay educational achievement in Singapore: Problems and policies"
+    },
+    "Tan, 1998": {
+      "aliases": [
+        "Tan, 1998",
+        "Tan (1998)"
+      ],
+      "doi": "10.1023/A:1003055909873",
+      "identity_keys": [
+        "Tan, 1998"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+      ],
+      "title": "The marketization of education in Singapore: Policies and implications"
     },
     "Tan, 2007": {
       "aliases": [
@@ -205030,7 +205064,7 @@
         "Tang, 2000",
         "Tang (2000)"
       ],
-      "doi": "",
+      "doi": "10.1057/9780230598836",
       "identity_keys": [
         "Tang, 2000"
       ],
@@ -205038,7 +205072,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "Social welfare development in East Asia"
     },
     "Tangel, 1992": {
       "aliases": [
@@ -218821,11 +218855,11 @@
       "identity_keys": [
         "Weiss, 1998"
       ],
-      "isbn": "",
+      "isbn": "9780801485435",
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "The Myth of the Powerless State"
     },
     "Weiss, 2006": {
       "aliases": [
@@ -219481,11 +219515,11 @@
       "identity_keys": [
         "White & Wade, 1988"
       ],
-      "isbn": "",
+      "isbn": "9780333458426",
       "seen_in": [
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
-      "title": ""
+      "title": "Developmental states and markets in East Asia: An introduction"
     },
     "White et al., 1992": {
       "aliases": [

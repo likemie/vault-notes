@@ -8,7 +8,7 @@ aliases:
 summary: "先完整论述古典哲学层面（杜威等的经验、探究与行动后果），再阐述延伸出的研究方法论层次（混合方法研究的问题驱动与方法自由），并剖析跨国治理中将教育窄化为绩效精算的实用主义范式与紧迫实用主义认知盲区。"
 type: concept
 domain: "educational-philosophy"
-related_count: 70
+related_count: 71
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -98,7 +98,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-11-15
+updated: 2026-11-18
 ---
 
 ---
