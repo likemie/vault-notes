@@ -29698,3 +29698,31 @@ body .callout.callout.callout:is([data-callout="option-pool"], [data-callout="wo
 body .callout.callout.callout:is([data-callout="option-pool"], [data-callout="word-bank"], [data-callout="choice-pool"]) > .callout-content tbody tr:hover td {
   background: var(--ac-tint) !important;
 }
+
+/* ── 受访者个案全景描述表专属紧凑排版（保障一个case一行） ── */
+body .callout.callout.callout:is([data-callout="ref-table"], [data-callout="sample-panel"], [data-callout="contrast-table"])[data-callout-metadata*="roster"] > .callout-content :is(th, td):first-child {
+  min-width: 0 !important;
+  width: auto !important;
+  text-align: center !important;
+}
+
+body .callout.callout.callout:is([data-callout="ref-table"], [data-callout="sample-panel"], [data-callout="contrast-table"])[data-callout-metadata*="roster"] > .callout-content table {
+  font-size: 0.84em !important;
+  margin: 0.35rem 0 0.8rem !important;
+  width: 100% !important;
+}
+
+body .callout.callout.callout:is([data-callout="ref-table"], [data-callout="sample-panel"], [data-callout="contrast-table"])[data-callout-metadata*="roster"] > .callout-content :is(th, td) {
+  padding: 0.26rem 0.55rem !important;
+  line-height: 1.4 !important;
+  white-space: nowrap !important;
+}
+
+body .callout.callout.callout:is([data-callout="ref-table"], [data-callout="sample-panel"], [data-callout="contrast-table"])[data-callout-metadata*="roster"] > .callout-content h4 {
+  margin: 0.75rem 0 0.35rem !important;
+  font-size: 0.92em !important;
+  font-weight: 650 !important;
+  color: var(--ac-ink) !important;
+  letter-spacing: 0.02em !important;
+}
+

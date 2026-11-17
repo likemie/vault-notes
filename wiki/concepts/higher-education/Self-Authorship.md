@@ -5,10 +5,10 @@ aliases:
 summary: "个体依据内在声音和核心价值观主导自身认知信念、自我认同与人际关系的心理发展状态；经社会学反思，这一看似纯粹的个体心理能力实质上深受家庭阶层背景与高中教育场域的系统形塑。"
 type: concept
 domain: "higher-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/higher-education
   - theme/student-development
@@ -26,6 +26,7 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Marcia Baxter Magolda]]"
   - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments:

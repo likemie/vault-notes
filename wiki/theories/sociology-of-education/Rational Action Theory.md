@@ -170,7 +170,7 @@ updated: 2026-11-17
 > > 文化社会学家与[[Postpositivism|后实证主义]]学者批评理性行动理论将复杂的求学历程还原为冰冷的投入产出算术题，严重剥离了思想、情感与价值关怀。
 > >
 > > - **布东（Boudon, 2001; 引自郑雅君，2023）** 本人晚年亦反思狭隘的工具理性模式“远不能概括生涯选择的全部合理性”，主张必须引入信念、情感与伦理等“认知与价值合理性”。
-> > - **[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]** 指出在高等教育拔尖[[Champ|场域]]中，学生的专业与人生走向深受人生意义追寻、道德责任与阶级文化[[Habitus|惯习]]撕扯的主导，效用计算只是极浅层的表象。
+> > - **[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|郑雅君 (2023)]]** 指出在高等教育拔尖[[Champ|场域]]中，学生的专业与人生走向深受人生意义追寻、道德责任与阶级文化[[Habitus|惯习]]撕扯的主导，效用计算只是极浅层的表象，必须以广义理性理论与价值赋值模型重新审视非功利选择。[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|(郑雅君, 2023, 第六章, pp. 358–360)]]
 >
 > > [!axis] [[Pragmatic Paradigm|实用主义]]习性对完备理性的解构
 > > [[Qualitative Research|质性研究]]学者批评理性行动理论预设行动者具有同质计算能力的个体主义假设。
@@ -190,7 +190,7 @@ updated: 2026-11-17
 > > - **[[James Mahoney|詹姆斯·马奥尼]]与[[Kathleen Thelen|凯瑟琳·希伦]]（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009]]）** 批评指出，理性选择理论将规则遵从预设为静态事实，掩盖了成文规则不可消除的内生模糊性与执行裁量缝隙；制度本质上是不平等的权力分配工具，遵从是行动者在不同否决与裁量语境下不断博弈、甚至策略性偏离的动态[[Variable|变量]]，微观主体的机会主义策略正是驱动[[Theory of Gradual Institutional Change|渐进制度变迁]]的核心动能。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 5–6, 10–14)]]
 
 > [!critique] 批评索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 批评工具理性假定对寒门学子文化融合、价值追寻与身份困境的解释无力。
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch06|郑雅君 (2023)]] — 批评工具理性假定对寒门学子文化融合、价值追寻与身份困境的解释无力，提出广义理性与价值赋值模型。[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|(郑雅君, 2023, 第六章, pp. 358–360)]]
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 批判理性选择制度主义将规则遵从预设为静态均衡，揭示遵从与解释裁量权作为微观博弈变量的内生动力学。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 引用 Demerath (1999) 民族志案例，从全球体系与比较文化视角批评西方抽象理性选择理论与狭隘[[Cost-Benefit Analysis|成本效益分析]]的跨情境局限。
 
@@ -198,6 +198,6 @@ updated: 2026-11-17
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al. (2011)]] — 以 Goldthorpe（2007）的七步逻辑链条展示理性行动理论如何通过严谨的经验[[Falsification|证伪]]与队列分析排除竞争假说。
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 深入检验 [[Remote Associates Test|RAT]] 机制在中国一流高校大学生阶层分流与文化适应中的解释效力及其批判性边界。
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch06|郑雅君 (2023)]] — 深入检验理性行动理论在我国一流高校大学生阶层分流中的解释力，并结合布东的广义理性理论与韦伯价值合理性反思其对文化障碍与意义追寻的解释边界 (pp. 358–360)。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合 Demerath (1999) 佩雷村[[Ethnography|民族志研究]]，系统论证微观行动者的文化能动性如何颠覆自上而下输入的现代文凭主义与西方成本效益计算。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 批判理性选择制度主义将规则遵从预设为静态均衡，揭示遵从与解释裁量权作为微观博弈[[Variable|变量]]的内生动力学。

@@ -15527,8 +15527,6 @@
     "M. A. (2023)": "M. A., 2023",
     "M. A., 1969": "M. A., 1969",
     "M. A., 2023": "M. A., 2023",
-    "M. B. (2001)": "M. B., 2001",
-    "M. B., 2001": "M. B., 2001",
     "M. L. (2000)": "M. L., 2000",
     "M. L., 2000": "M. L., 2000",
     "M. R. (2009)": "M. R., 2009",
@@ -18762,8 +18760,6 @@
     "P. David Miller, 1989": "P. David Miller, 1989",
     "P. Lamb (1972)": "P. Lamb, 1972",
     "P. Lamb, 1972": "P. Lamb, 1972",
-    "P. M. (2012)": "P. M., 2012",
-    "P. M., 2012": "P. M., 2012",
     "P. Smith (1996)": "P. Smith, 1996",
     "P. Smith, 1996": "P. Smith, 1996",
     "PACE (2001)": "PACE, 2001",
@@ -42933,7 +42929,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/higher-education/Self-Authorship.md"
+        "wiki/concepts/higher-education/Self-Authorship.md",
+        "wiki/persons/us/Marcia Baxter Magolda.md"
       ],
       "title": "Assessing Meaning Making and Self-Authorship: Theory, Research, and Practice"
     },
@@ -42970,7 +42967,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/higher-education/Self-Authorship.md"
+        "wiki/concepts/higher-education/Self-Authorship.md",
+        "wiki/persons/us/Marcia Baxter Magolda.md"
       ],
       "title": ""
     },
@@ -141514,21 +141512,6 @@
       ],
       "title": ""
     },
-    "M. B., 2001": {
-      "aliases": [
-        "M. B., 2001",
-        "M. B. (2001)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "M. B., 2001"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/us/Marcia Baxter Magolda.md"
-      ],
-      "title": ""
-    },
     "M. L., 2000": {
       "aliases": [
         "M. L., 2000",
@@ -165091,21 +165074,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Australian Journal of Language and Literacy/Argument_OConnor_2020_AJLL.md"
-      ],
-      "title": ""
-    },
-    "P. M., 2012": {
-      "aliases": [
-        "P. M., 2012",
-        "P. M. (2012)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "P. M., 2012"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/us/Marcia Baxter Magolda.md"
       ],
       "title": ""
     },

@@ -7,7 +7,7 @@ aliases:
 summary: "将教育与技能投资视为提升劳动生产率与驱动内生经济增长的核心生产性投资之经济学理论；二战后经舒尔茨与贝克尔奠定微观与宏观基础，在冷战地缘博弈中成为经合组织（OECD）推行人力规划与世界银行构建跨国放贷指标帝国的理论支柱；尼曼与马滕斯（2018）等实证揭示其在当代被转化为 PISA 量化硬事实以确立经合组织全球认知权威与软治理机制"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 105
+theory_related_count: 106
 theory_related_level: 10
 theory_related_stars: "💎💎💎⭐"
 theory_related_color: "#fef3c7"
@@ -131,6 +131,7 @@ related_arguments:
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
 confidence: high
 status: completed
 created: 2026-09-08
@@ -172,10 +173,11 @@ updated: 2026-11-17
 > - **2000–2009 年 — 欧洲知识经济与人力资本“无形投资”转向** 乔治·帕西亚斯与乔治·鲁萨基斯（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009, pp. 482–484]]）指出，自《德洛尔白皮书》与 2000 年《[[Lisbon Strategy|里斯本战略]]》以来，[[European Commission|欧盟委员会]]彻底将教育从传统社会福利消费重构为提升知识经济竞争力的“无形投资”；[[Panopticism|全景敞视]]式指标监测将个体学习者建构为对自身技能与[[Employability|就业能力]]自负盈亏的人力资本自营者，实现了结构性经济风险向个体的转移。
 > - **2018–2019 — 世界银行反思“有学无教”与人力资本积累微观转向** 世界银行发布《[[World Development Report 2018|2018年世界发展报告]]》与《Teach 观察员手册》（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019]]），正式确立“[[Learning Crisis|学习贫困]]”（Learning Poverty）概念，反思发展中国家单纯依靠学校入学率扩张并未自发带来人力资本实质积累的历史困境；实证揭示教师教学质量是驱动学业成果的最关键校内源泉，推动人力资本积累分析从宏观入学年限穿透至微观课堂互动质量测评。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 1–3)]]
 > - **2021–2023 — [[European Education Area|欧洲教育区]]量化基准的二十年连续性与财政挂钩** [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] 实证追踪面向 2030 年的[[European Education Area|欧洲教育区]]战略形成，揭示基础技能、[[Academic Attrition|早期离校]]与高教普及率等量化指标完全沿袭自里斯本战略以来的二十年人力资本规制网络，并通过挂钩[[European Semester|欧洲学期]]国别建议与欧洲社会基金（[[English Schools Foundation Hong Kong|ESF]]+），固化了超国家教育政策的就业导向。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 855–857)]]
+> - **2023 — 文化社会学对人力资本出路解释的实证反思** [[Argument_Zheng_2023_ShanghaiSanlian_Ch06|郑雅君 (2023)]]将人力资本假说与文化社会学范式并置，实证揭示主流地位获得将教育视作均质人力资本积累与劳动力市场信号工具，无法解释名校寒门学子在控制学业成绩与文凭后所面临的深层劣势；指出弱势学生的困境根源于习性与精英大学场域错配诱发的文化障碍（文化脱嵌与文化迷失），而非单纯的人力资本亏欠。[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|(郑雅君, 2023, 第六章, pp. 358–360)]]
 
 ---
 
-> [!entry-map] 关键概念与理论构件
+> [!theory-constructs] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -396,3 +398,4 @@ updated: 2026-11-17
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 从社会建构主义视角剖析经合组织如何将人力资本范式转译为 PISA 量化硬事实，在缺乏法定权力下确立认知权威并实施重构国家教育格局的跨国软治理。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 解剖欧盟《里斯本战略》如何将人力资本理论升格为超国家教育软治理支柱，将教育重塑为知识经济“无形投资”并将就业风险个体化。（pp. 482–484）
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 追踪面向 2030 年欧洲教育区战略形成，揭示欧盟在基础技能与早期离校等指标上长达二十年的人力资本投资与就业导向连续性。
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch06|郑雅君 (2023)]] — 对比地位获得研究的人力资本假说与文化社会学范式，实证揭示名校寒门学子毕业出路劣势源于习性与场域错配的文化障碍，而非人力资本投资不足 (pp. 358–360)。

@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian_Ch03"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian_Ch03"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book-chapter"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -69,6 +69,7 @@ related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Ann Swidler]]"
   - "[[Jean-Paul Sartre]]"
+  - "[[Marcia Baxter Magolda]]"
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
   - "[[Gaokao]]"
@@ -168,7 +169,7 @@ updated: 2026-11-17
 > [!theory-components] 概念建构的三大学术脉络
 > - **布迪厄《继承人》中的学生行为合理性**
 >   高等教育体系将学业成功与职业前景人为隔离，导致学生分化为两类：处于不利地位的学生深陷应试专精状态，除应对考试外忽视了其他出路准备；处于优势地位的学生则与工作保持超脱的距离，能够达成明确而单一的合理目的（Bourdieu & Passeron, 1979, p. 70）。
-> - **Baxter Magolda 的自我主导理论**
+> - **[[Marcia Baxter Magolda|Baxter Magolda]] 的自我主导理论**
 >   [[Self-Authorship|自我主导性]]（self-authorship, Baxter Magolda & King, 2012, p. 71）概念强调个体依循内在声音与核心价值观主导认知发展、自我认同与人际关系，目标掌控吸纳了这种自我主导内涵，并进一步补充其社会阶层根源。
 > - **[[Ann Swidler|斯威德勒]]的[[Culture as Toolkit|文化工具箱]]理论**
 >   在稳定生活状态（settled lives）下，行动者自然调用熟悉的文化工具达成目标；在不稳定生活状态（unsettled lives, Swidler, 1986, p. 71）下，既有习惯难以应对新环境，行动者更易受外在意识形态与象征仪式的牵引。两种实践模式恰好对应了这两种文化行动状态。

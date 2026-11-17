@@ -9,7 +9,7 @@ aliases:
 summary: "Schein 提出的组织文化三层次框架（器物、信奉价值观、深层基本假设），揭示了表层可见符号与官方理念如何常与深层防御心理及信任赤字发生结构性断裂，并解释了正式管理文化重构与微观非正式制度之间的脱节与韧性，以及工程实效文化与官僚自保文化对创新生态的决定性塑造。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 53
+theory_related_count: 54
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -80,10 +80,11 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch06]]"
 confidence: high
 status: draft
 created: 2026-08-05
-updated: 2026-11-11
+updated: 2026-11-17
 ---
 
 ---
@@ -113,12 +114,13 @@ updated: 2026-11-11
 > - **2011 — 教育质性与视觉研究方法论引入** [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]] 将 Schein 三层次模型引入教育研究方法论，系统阐释如何阅读学校物理器物与环境空间背后的组织叙事。
 > - **2019 — 比较数字化学校监测中的两种行政组织文化** [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] 比较美德两国数字化学校监测的基础设施流转，揭示高利害惩罚问责文化与低利害诊断自治文化如何从深层塑造数据基础设施的落地形态。
 > - **2022 — OECD 跨国实证测度与[[Evidence Culture|证据文化]]断层诊断** [[OECD]] 强化教育[[Research Impact|研究影响力]]项目通过 8 项量表在 29 国 37 系统实证揭示了表层高理念认同（4.46 分）与深层信任赤字（3.40 分）的断裂（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]）。
+> - **2023 — 高等教育组织文化与弱势学子[[Cultural Barrier|文化障碍]]缓冲** [[Argument_Zheng_2023_ShanghaiSanlian_Ch06|郑雅君 (2023)]]将组织文化视角引入拔尖大学寒门学子微观适应研究，实证对比北方大学（中心化集体整合型文化）与南方大学（个体化自由流动型文化）对新生[[Cultural Disembedding|文化脱嵌]]的异质调节效应，揭示集体主义支持性文化能够有效缓解孤立感，而松散个体化文化则加剧结构性脱嵌。[[Argument_Zheng_2023_ShanghaiSanlian_Ch06|(郑雅君, 2023, 第六章, pp. 361–366)]]
 > - **2025 — 国家能力与工程组织文化重塑[[Technological Republic|技术共和国]]** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska, 2025]]）将组织文化理论引入地缘战略与国家治理能力分析，揭示官僚防御文化对创新的制度性阻绝，提出吸纳使命驱动与实质成败问责的工程文化以消除[[Innovation Desert|创新荒漠]]；并在第 18 章结合实证金融与专利计量，阐明创始人审美品味、长程资产托管与全员股权所有权文化对突破性创新的决定性优势。
 > - **2026 — 学校循证实践中组织文化的实证综合与两极形态** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 对 109 项实证研究进行[[Framework Synthesis|框架综合]]，发现组织文化在 41 项研究中被明确报告，且呈现鲜明的两极形态：缺乏研究文化的学校中教师面临孤立，而健康文化中[[Research Utilization|研究使用]]被确立为支持冒险与试错的集体规范。
 
 ---
 
-> [!entry-map] 关键概念与理论构件
+> [!theory-constructs] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -227,3 +229,4 @@ updated: 2026-11-11
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] — 比较美德两国数字化学校监测的基础设施流转，揭示惩罚问责文化与诊断自治文化对数据流转的深层规训。
 > - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 剖析德语区学校微观组织文化、人际网络与教师专业信念如何作为深层滤网阻断外部统考数据与督导建议的有效转化。
 > - [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] — 将文化与心态列为 OECD 强化教育研究影响力分析框架的核心支柱，探讨实证文化转型的系统策略。
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch06|郑雅君 (2023)]] — 对比中国南北两所名校组织文化（中心化集体整合 vs 个体化自由流动）对寒门学子[[Cultural Disembedding|文化脱嵌]]震荡的差异化缓冲机制 (pp. 361–366)。
