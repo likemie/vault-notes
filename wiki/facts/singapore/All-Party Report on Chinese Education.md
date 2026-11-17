@@ -47,7 +47,7 @@ updated: 2026-11-17
 > - **政策工具** 官方统一财政资助、统一教师薪酬标准、统一师资培训与国家考试认证制度。
 > - **约束机制** 建立统一教学大纲，强制推行双语必修制度，打破族系办学的教材与思想壁垒。
 
-> [!citation-card] 关键表述
+> [!citation-card] 各党派华文教育报告书的政治与语言和解
 > 这一政治与语言上的历史和解经受住了时间的检验。该政策立足于对三大主要族群语言权利的平等承诺，同时充分体认到英语作为国际语言对于新加坡现代化的生存价值。掌握英语能够赋予社会和个体不可替代的经济竞争优势，极大地推进了新加坡的社会与经济现代化。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 453)]]
 >
 > *This is a political-linguistic settlement that has stood the test of the time. On the one hand, there is a commitment to equality with respect to language rights of the three main ethnic groups. On the other hand, there is a recognition of the necessity and value of English as an international language to Singapore...*
@@ -64,7 +64,7 @@ updated: 2026-11-17
 > [!actor-grid] 实施角色分工
 > - **决策主体** 新加坡立法议会跨党派委员，由各政党代表共同协商妥协。
 > - **执行主体** 新加坡教育部（MOE），负责将双语规范与统编教材逐步推行至各族学校。
-> - **受规约群体** 传统华社校董会、宗乡会馆及多元族群师生家长。
+> - **政策对象** 传统华社校董会、宗乡会馆及多元族群师生家长。
 
 ---
 

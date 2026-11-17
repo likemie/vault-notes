@@ -47,7 +47,7 @@ updated: 2026-11-17
 > - **政策工具** 启动系列信息技术教育总蓝图（Masterplans for ICT in Education）、推行课程精简削减10%–20%内容、设立创新卓越基金、重塑全国国民教育（National Education）框架。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 457)]]
 > - **约束机制** 实施学校卓越成就模型（School Excellence Model, SEM），将思维技能培养与学校自评、外部督导绩效指标挂钩。
 
-> [!citation-card] 关键表述
+> [!citation-card] 思考型学校与学习型国家战略定位
 > 思考型学校，学习型国家是面向未来的国家愿景，旨在培育富有思考力与承诺感的公民，时刻准备应对未来挑战；同时要求学校发展成为思考型机构，致力于培育学生探究思维、创新激情以及对社会的终身奉献精神。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, p. 456)]]
 >
 > *TSLN is a vision for a total learning environment, including students, teachers, parents, workers, companies, community organisations and the government.*

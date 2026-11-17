@@ -2185,6 +2185,12 @@
       ],
       "title": "Culture and Pedagogy: International Comparisons in Primary Education"
     },
+    "Alexander, 2004": {
+      "doi": "10.1080/0305764042000183106",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Still No Pedagogy? Principle, Pragmatism and Compliance in Primary Education"
+    },
     "Alexander, 2010": {
       "doi": "",
       "isbn": "",
@@ -2453,6 +2459,14 @@
         "wiki/concepts/educational-policy-reform/Research Utilization.md"
       ],
       "title": ""
+    },
+    "All-Party Committee on Chinese Education, 1956": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+      ],
+      "title": "Report of the All-Party Committee of the Singapore Legislative Assembly on Chinese Education"
     },
     "Allaf, 2009": {
       "doi": "",
@@ -6474,6 +6488,14 @@
       ],
       "title": ""
     },
+    "Baildon & Sim, 2010": {
+      "doi": "",
+      "isbn": "9780415995405",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+      ],
+      "title": "The Dilemmas of Singapore’s National Education in the Global Society"
+    },
     "Baildon et al., 2022": {
       "doi": "",
       "isbn": "",
@@ -7601,16 +7623,17 @@
         "wiki/concepts/comparative-education/Performative Turn.md",
         "wiki/persons/uk/Michael Barber.md"
       ],
-      "title": "How the World's Best-Performing School Systems Come Out on Top"
+      "title": "How the World’s Best-Performing School Systems Come Out on Top"
     },
     "Barber et al., 2011": {
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/educational-policy-reform/Deliverology.md"
       ],
-      "title": ""
+      "title": "How the World’s Most Improved School Systems Keep Getting Better"
     },
     "Barber, 1972": {
       "doi": "",
@@ -15706,14 +15729,14 @@
       "title": ""
     },
     "Bulle, 2011": {
-      "doi": "10.1080/03050068.2011.555938",
+      "doi": "10.1080/03050068.2011.555117",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/concepts/comparative-education/Critique of PISA.md",
         "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md"
       ],
-      "title": "Comparing OECD Educational Models through the Prism of PISA"
+      "title": "Comparing OECD Educational Models Through the Prism of PISA"
     },
     "Bulmer, 1982": {
       "doi": "",
@@ -19812,6 +19835,14 @@
       ],
       "title": ""
     },
+    "Cheah, 1998": {
+      "doi": "10.1080/09500789808666746",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+      ],
+      "title": "The Examination Culture and Its Impact on Literacy Innovations: The Case of Singapore"
+    },
     "Chelinsky & Mulhauser, 1993": {
       "doi": "",
       "isbn": "",
@@ -20411,6 +20442,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effectiveness of parent-child number board game playing in promoting Chinese kindergarteners' numeracy skills and mathematics interest"
+    },
+    "Chew et al., 1997": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+      ],
+      "title": "Primary Teachers’ Classroom Practices in Singapore: Preliminary Findings"
     },
     "Chiang, 2017": {
       "datasets": [
@@ -25564,6 +25603,22 @@
       ],
       "title": ""
     },
+    "Darling-Hammond & Rothman, 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+      ],
+      "title": "Teacher and Leader Effectiveness in High-Performing Education Systems"
+    },
+    "Darling-Hammond & Youngs, 2002": {
+      "doi": "10.3102/0013189X031009013",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+      ],
+      "title": "Defining Highly Qualified Teachers: What Does Scientifically-Based Research Actually Tell Us?"
+    },
     "Darling-Hammond, 1995": {
       "doi": "",
       "isbn": "",
@@ -25586,7 +25641,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
       ],
-      "title": "The Flat World and Education: How America's Commitment to Equity Will Determine Our Future"
+      "title": "The Flat World and Education: How America’s Commitment to Equity Will Determine Our Future"
     },
     "Darling-Hammond, 2012": {
       "doi": "",
@@ -25595,6 +25650,12 @@
         "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md"
       ],
       "title": ""
+    },
+    "Darling-Hammond, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Teaching for Deeper Learning: Developing a Thinking Pedagogy"
     },
     "Darmawansah et al., 2025": {
       "doi": "",
@@ -40794,6 +40855,22 @@
       ],
       "title": ""
     },
+    "Goh & Gopinathan, 2008": {
+      "doi": "",
+      "isbn": "9780821373750",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+      ],
+      "title": "The Development of Education in Singapore Since 1965"
+    },
+    "Goh et al., 1979": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+      ],
+      "title": "Report on the Ministry of Education 1978"
+    },
     "Goh, 1979": {
       "doi": "",
       "isbn": "",
@@ -41385,6 +41462,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "First-grade retention in the Flemish educational context  Effects on children's academic growth, psychosocial growth, and school career throughout primary education"
+    },
+    "Gopinathan, 1974": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+      ],
+      "title": "Towards a National System of Education in Singapore, 1945–1973"
     },
     "Gopinathan, 1979": {
       "doi": "",
@@ -46615,7 +46700,7 @@
     },
     "Hattie, 2009": {
       "doi": "",
-      "isbn": "978-0-415-47618-8",
+      "isbn": "9780415479783",
       "seen_in": [
         "wiki/arguments/journal-articles/Australian Journal of Language and Literacy/Argument_OConnor_2020_AJLL.md",
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
@@ -46658,7 +46743,7 @@
         "wiki/concepts/instruction-pedagogy/Whole Language.md",
         "wiki/concepts/instruction-pedagogy/Zone of Desired Effects.md"
       ],
-      "title": "Visible learning: A synthesis of over 800 meta-analyses relating to achievement"
+      "title": "Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement"
     },
     "Hattie, 2009a": {
       "doi": "",
@@ -49181,7 +49266,7 @@
         "wiki/concepts/comparative-education/High-Performing Education Systems.md",
         "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md"
       ],
-      "title": "Visible Learning and the Enacted Curriculum in Singapore"
+      "title": "A Decade of Pedagogical Research in Singapore"
     },
     "Hogan, 1999": {
       "datasets": [
@@ -49199,6 +49284,14 @@
         "wiki/concepts/educational-psychology/Practical Epistemology.md"
       ],
       "title": ""
+    },
+    "Hogan, 2014": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+      ],
+      "title": "Why Is Singapore’s School System So Successful, and What Can Other Countries Learn from It?"
     },
     "Hogan, 2014a": {
       "doi": "",
@@ -49844,13 +49937,14 @@
       "title": ""
     },
     "Hopmann, 2008": {
-      "doi": "",
+      "doi": "10.1080/00220270801989818",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Zhao_2020_JEC.md",
         "wiki/concepts/comparative-education/Critique of PISA.md"
       ],
-      "title": ""
+      "title": "No Child, No School, No State Left Behind: Schooling in the Age of Accountability"
     },
     "Hopper, 1971": {
       "doi": "",
@@ -57483,7 +57577,7 @@
       "title": ""
     },
     "Kennedy, 2010": {
-      "doi": "10.3102/0013189X10390804",
+      "doi": "10.3102/0013189X10383152",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
@@ -97416,7 +97510,7 @@
       "title": ""
     },
     "Sellar & Lingard, 2013": {
-      "doi": "10.1080/02680939.2013.779778",
+      "doi": "10.1080/03050068.2013.770943",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
@@ -97425,7 +97519,7 @@
         "wiki/concepts/political-economy-geopolitics/Media Logic.md",
         "wiki/facts/global/Teaching and Learning International Survey.md"
       ],
-      "title": "The OECD and Global Governance in Education"
+      "title": "Looking East: Shanghai, PISA 2009 and the Reconstitution of Reference Societies in the Global Education Policy Field"
     },
     "Sellar & Lingard, 2013b": {
       "doi": "",
@@ -100016,12 +100110,12 @@
     },
     "Sjøberg, 2007": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9783825809461",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/concepts/comparative-education/Critique of PISA.md"
       ],
-      "title": "PISA and 'Real Life Challenges': Mission Impossible?"
+      "title": "PISA and Real Life Challenges: Mission Impossible?"
     },
     "Sjøberg, 2015": {
       "doi": "",
@@ -103798,6 +103892,14 @@
       ],
       "title": ""
     },
+    "Stewart, 2012": {
+      "doi": "",
+      "isbn": "9781416614135",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+      ],
+      "title": "A World-Class Education: Learning from International Models of Excellence and Innovation"
+    },
     "Stewart, 2017": {
       "datasets": [
         "metax:S0975"
@@ -105782,6 +105884,14 @@
       ],
       "title": ""
     },
+    "Takayama, 2011": {
+      "doi": "10.1080/02188791.2011.616025",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+      ],
+      "title": "Other Japanese Educations and Japanese Education Otherwise"
+    },
     "Takayama, 2018": {
       "doi": "",
       "isbn": "",
@@ -105905,6 +106015,14 @@
       ],
       "title": ""
     },
+    "Tan et al., 2008": {
+      "doi": "",
+      "isbn": "9789812790750",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+      ],
+      "title": "Examinations in Singapore: Change and Continuity (1891–2007)"
+    },
     "Tan et al., 2017": {
       "datasets": [
         "metax:S1952"
@@ -105968,13 +106086,21 @@
       "seen_in": [],
       "title": "Group Investigation Effects on Achievement, Motivation, and Perceptions of Students in Singapore"
     },
+    "Tan, 2010": {
+      "doi": "",
+      "isbn": "9789814279024",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+      ],
+      "title": "Education in Singapore: Sorting Them Out?"
+    },
     "Tan, 2011": {
-      "doi": "10.1080/17508487.2011.536514",
+      "doi": "10.1080/17496896.2012.673939",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
       ],
-      "title": "Education Policy-Borrowing and Cultural Matching: An Analysis of the 'Teach Less, Learn More' Agenda in Singapore"
+      "title": "Framing Educational Success: A Comparative Study of Shanghai and Singapore"
     },
     "Tan, 2016": {
       "doi": "",
@@ -106670,6 +106796,14 @@
         "wiki/arguments/journal-articles/New Zealand Journal of Educational Studies/Argument_Snook_2009_NZJES.md"
       ],
       "title": ""
+    },
+    "Teo et al., 2013": {
+      "doi": "10.1007/978-981-4451-21-5_7",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+      ],
+      "title": "Teach Less, Learn More: Lost in Translation"
     },
     "Teong, 2003": {
       "datasets": [
@@ -109428,12 +109562,13 @@
     },
     "Tucker, 2011": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9781612501130",
       "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/persons/us/Marc Tucker.md"
       ],
-      "title": ""
+      "title": "Surpassing Shanghai: An Agenda for American Education Built on the World’s Leading Systems"
     },
     "Tuckman, 1972": {
       "doi": "",
@@ -109701,8 +109836,9 @@
     },
     "Tyack & Cuban, 1995": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9780674892835",
       "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/arguments/journal-articles/Education Policy Analysis Archives/Argument_Edmondson_2005_EPAA.md",
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/comparative-education/Grammar of Schooling.md",
@@ -109710,7 +109846,7 @@
         "wiki/facts/us/Tinkering Toward Utopia 1995.md",
         "wiki/persons/us/David Tyack.md"
       ],
-      "title": ""
+      "title": "Tinkering Toward Utopia: A Century of Public School Reform"
     },
     "Tyack, 1974": {
       "doi": "",
@@ -110812,12 +110948,13 @@
       "title": ""
     },
     "Vaish, 2008": {
-      "doi": "",
+      "doi": "10.1016/j.linged.2008.05.007",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md"
       ],
-      "title": ""
+      "title": "Interactional Patterns in Singapore’s English Classrooms"
     },
     "Vaknin-Nusbaum, 2017": {
       "datasets": [
@@ -112690,6 +112827,14 @@
         "wiki/methods/quantitative/Instrumental Variables.md"
       ],
       "title": "Quality matters: The expulsion of professors and the consequences for PhD student outcomes in Nazi Germany"
+    },
+    "Waldow et al., 2014": {
+      "doi": "10.1080/03050068.2013.860704",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+      ],
+      "title": "Rethinking the Pattern of External Policy Referencing: Media Discourses Over the Asian Tigers PISA Success in Australia, Germany and South Korea"
     },
     "Waldow, 2017": {
       "doi": "",
@@ -116585,6 +116730,14 @@
       "seen_in": [],
       "title": "America Reads  The Effects of a Federal Work-Study Tutoring Program on Literacy Achievement and Attitudes of Teachers, Tutors, and Children"
     },
+    "Woo-Cumings, 1999": {
+      "doi": "",
+      "isbn": "9780801485664",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+      ],
+      "title": "The Developmental State"
+    },
     "Wood & Kardash, 2002": {
       "doi": "",
       "isbn": "",
@@ -119635,6 +119788,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Three Research Topics in Education:(1) Associations between Approaches to Learning and Academic Achievement;(2) a Meta-Analytic Review on Approaches to Learning and Academic Achievement;(3) Power Analysis in Meta-Analysis: A Three-Level Model"
+    },
+    "Zhao & Meyer, 2013": {
+      "doi": "",
+      "isbn": "9781873927649",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+      ],
+      "title": "High on PISA, Low on Entrepreneurship? What PISA Does Not Measure"
     },
     "Zhao 2014, 2016b": {
       "doi": "",
