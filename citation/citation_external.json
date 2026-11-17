@@ -26375,6 +26375,8 @@
     "Wolff-Grosser, 2018": "Wolff-Grosser, 2018",
     "Wolfgang Mitter (2009)": "Wolfgang Mitter, 2009",
     "Wolfgang Mitter, 2009": "Wolfgang Mitter, 2009",
+    "Wolfgang Sandner (1979)": "Wolfgang Sandner, 1979",
+    "Wolfgang Sandner, 1979": "Wolfgang Sandner, 1979",
     "Wolfgang Streeck & Kathleen Thelen (2005)": "Wolfgang Streeck & Kathleen Thelen, 2005",
     "Wolfgang Streeck & Kathleen Thelen, 2005": "Wolfgang Streeck & Kathleen Thelen, 2005",
     "Wolfgang Streeck (2009)": "Wolfgang Streeck, 2009",
@@ -60628,7 +60630,6 @@
         "wiki/concepts/research-methodology/Central Phenomenon.md",
         "wiki/concepts/research-methodology/Saturation.md",
         "wiki/methods/qualitative/Grounded Theory.md",
-        "wiki/persons/china/Yajun Zheng.md",
         "wiki/persons/us/John W. Creswell.md"
       ],
       "title": ""
@@ -117646,7 +117647,6 @@
         "wiki/arguments/journal-articles/Education Sciences/Argument_Larsen_2019_EducSci.md",
         "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_Terhart_2011_JCS.md",
         "wiki/concepts/educational-philosophy/Research Cage.md",
-        "wiki/concepts/educational-technology/Extracurricular Activities.md",
         "wiki/facts/finland/Framework Curriculum 1994.md",
         "wiki/methods/quantitative/Random Assignment.md"
       ],
@@ -220047,6 +220047,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/comparative-education/Policy Borrowing.md"
+      ],
+      "title": ""
+    },
+    "Wolfgang Sandner, 1979": {
+      "aliases": [
+        "Wolfgang Sandner, 1979",
+        "Wolfgang Sandner (1979)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Wolfgang Sandner, 1979"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Regression of Listening.md"
       ],
       "title": ""
     },

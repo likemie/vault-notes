@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian_Ch01"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian_Ch01"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book-chapter"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -64,6 +64,7 @@ related_persons:
   - "[[Randall Collins]]"
   - "[[Phillip Brown]]"
   - "[[Andrew G. Walder]]"
+  - "[[Yajun Zheng]]"
 related_facts:
   - "[[China College Graduate Employment Reform]]"
   - "[[Gaokao]]"
@@ -103,7 +104,7 @@ updated: 2026-11-17
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **研究设计与[[Epistemology\|认识论]]取向** | 解释性质性[[Case Study\|个案研究]]与纵向跟踪设计，悬置预设的理性选择与机械再生产假定，运用阐释学方法理解学生生涯抉择背后的主观意向形成过程（pp. 52–55）。 |
+> | **研究设计与[[Epistemology\|认识论]]取向** | [[Yajun Zheng\|郑雅君（Zheng, Y.）]]采用解释性质性[[Case Study\|个案研究]]与纵向跟踪设计，悬置预设的理性选择与机械再生产假定，运用阐释学方法理解学生生涯抉择背后的主观意向形成过程（pp. 52–55）。 |
 > | **选案策略与样本构成** | 目的抽样选取分跨南北方的两所重点大学（北方大学与南方大学），[[In-depth Interview\|深度访谈]] 62 名毕业班学生（含 38 名研究生与高比例本科生，并补充女性与较低阶层案例）（pp. 53–54）。 |
 > | **资料收集程序** | 采用[[Semi-structured Interview\|半结构化访谈]]（[[In-depth Interview\|深度访谈]]），平均单次访谈时长约 3 小时；对尚未确定去向的学生保持持续联络直至毕业去向最终敲定（pp. 53–54）。 |
 > | **分析与建构策略** | 结合受访者的成长史、在校投入与求职轨迹，运用归纳方法提炼两类组织大学生活的实践图式，并构建生涯出路分化的理念型分析模型（pp. 54–55, 60–62）。 |

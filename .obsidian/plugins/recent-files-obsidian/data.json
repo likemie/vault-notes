@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Binary Logistic Regression",
+      "path": "wiki/methods/quantitative/Binary Logistic Regression.md"
+    },
+    {
       "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch01",
       "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
+    },
+    {
+      "basename": "template-person",
+      "path": "wiki/templates/template-person.md"
+    },
+    {
+      "basename": "Recommendation-Based Graduate Admission System",
+      "path": "wiki/facts/china/Recommendation-Based Graduate Admission System.md"
+    },
+    {
+      "basename": "Project 985",
+      "path": "wiki/facts/china/Project 985.md"
+    },
+    {
+      "basename": "Study Abroad",
+      "path": "wiki/concepts/educational-technology/Study Abroad.md"
+    },
+    {
+      "basename": "Extracurricular Activities",
+      "path": "wiki/concepts/educational-technology/Extracurricular Activities.md"
+    },
+    {
+      "basename": "Path Dependence",
+      "path": "wiki/theories/political-economy-geopolitics/Path Dependence.md"
+    },
+    {
+      "basename": "Andrew G. Walder",
+      "path": "wiki/persons/us/Andrew G. Walder.md"
+    },
+    {
+      "basename": "Yajun Zheng",
+      "path": "wiki/persons/china/Yajun Zheng.md"
     },
     {
       "basename": "In-depth Interview",
@@ -13,16 +49,8 @@
       "path": "wiki/facts/china/China College Graduate Employment Reform.md"
     },
     {
-      "basename": "Extracurricular Activities",
-      "path": "wiki/concepts/educational-technology/Extracurricular Activities.md"
-    },
-    {
       "basename": "Employability",
       "path": "wiki/concepts/higher-education/Employability.md"
-    },
-    {
-      "basename": "Binary Logistic Regression",
-      "path": "wiki/methods/quantitative/Binary Logistic Regression.md"
     },
     {
       "basename": "Bibliometric Analysis",
@@ -87,10 +115,6 @@
     {
       "basename": "Argument_Hammermeister_2002_Cambridge_Ch04",
       "path": "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch04.md"
-    },
-    {
-      "basename": "template-person",
-      "path": "wiki/templates/template-person.md"
     },
     {
       "basename": "template-argument-edited-volume",
@@ -175,30 +199,6 @@
     {
       "basename": "Argument_Cheng_2026_KeJiChuangXin",
       "path": "wiki/arguments/books/Cheng_2026_KeJiChuangXin/Argument_Cheng_2026_KeJiChuangXin.md"
-    },
-    {
-      "basename": "Argument_BrunoJofre_Schriewer_2012_Routledge",
-      "path": "wiki/arguments/books/BrunoJofre_Schriewer_2012_Routledge/Argument_BrunoJofre_Schriewer_2012_Routledge.md"
-    },
-    {
-      "basename": "template-argument-textbook",
-      "path": "wiki/templates/template-argument-textbook.md"
-    },
-    {
-      "basename": "template-argument-monograph",
-      "path": "wiki/templates/template-argument-monograph.md"
-    },
-    {
-      "basename": "Argument_Chen_Cheung_2025_ERR",
-      "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Chen_Cheung_2025_ERR.md"
-    },
-    {
-      "basename": "Argument_DeJong_2023_ERR",
-      "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_DeJong_2023_ERR.md"
-    },
-    {
-      "basename": "Argument_Hagevold_Forsstrom_Keles_2026_ERR",
-      "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
     }
   ],
   "omittedPaths": [],

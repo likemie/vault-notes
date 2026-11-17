@@ -6066,6 +6066,18 @@
     ]
   },
   {
+    "title": "Performative Contradiction",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Performative Contradiction.md",
+    "aliases": [
+      "施事矛盾",
+      "行为矛盾",
+      "施事的自我矛盾",
+      "行为抵触",
+      "performativer Widerspruch"
+    ]
+  },
+  {
     "title": "Philosophical Aesthetics",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Philosophical Aesthetics.md",
@@ -6301,6 +6313,17 @@
       "真理体制",
       "真理政制",
       "regime of truth"
+    ]
+  },
+  {
+    "title": "Regression of Listening",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Regression of Listening.md",
+    "aliases": [
+      "听觉退行",
+      "聆听退行",
+      "听力退行",
+      "Regression des Hörens"
     ]
   },
   {

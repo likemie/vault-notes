@@ -7,7 +7,7 @@ aliases:
 summary: "学校正式课程大纲之外由学生参与的实践与社团活动体系；实证研究表明其对学业成就与社交发展具有微弱正向效应（d = 0.13），在高等教育中则成为大学生积累履历资本与形成出路分化的关键场域。"
 type: concept
 domain: "educational-technology"
-related_count: 13
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,20 +18,18 @@ tags:
   - student-development
 related_concepts:
   - "[[Academic Achievement]]"
+  - "[[Credential Inflation]]"
   - "[[Economy of Experience]]"
+  - "[[Academic Engagement]]"
   - "[[Employability]]"
   - "[[Cultural Capital]]"
   - "[[Champ]]"
-  - "[[Academic Engagement]]"
-related_theories:
-  - "[[Human Capital Theory]]"
-related_methods:
-  - "[[Meta-analysis]]"
+related_theories: []
+related_methods: []
 related_persons:
   - "[[John Hattie]]"
   - "[[Yajun Zheng]]"
-related_facts:
-  - "[[Visible Learning]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch01]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
@@ -92,14 +90,14 @@ updated: 2026-11-17
 > **非正式参与对学业表现的正向溢出** 探讨中小学与大学阶段课外实践如何通过强化社会情感纽带间接促进认知发展。
 
 > [!claim] Hattie, J.
-> **可见学习实证综合中的微弱促进效应** 约翰·哈蒂综合 9 项元分析（涵盖 180 项研究、23 万余名学生样本）指出，课外活动对学生学业成就具有微弱但统计稳健的正向促进效应（$d = 0.13$）。该效应表明，适度的课外参与非但不会挤压正常学业时间，反而通过提升学习者的校园投入度、同伴支持感与自我效能，对正规学习产生成效溢出。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(Hattie, 2009)]]
+> **可见学习实证综合中的微弱促进效应** 约翰·哈蒂综合 9 项元分析（涵盖 180 项研究、23 万余名学生样本）指出，课外活动对学生学业成就具有微弱但统计稳健的正向促进效应（$d = 0.13$）。该效应表明，适度的课外参与非但不会挤压正常学业时间，反而通过提升学习者的校园投入度、同伴支持感与自我效能，对正规学习产生成效溢出。(Hattie, 2009)
 
 ---
 
 > [!concept-proposition] 命题二｜大学课外活动的立德树人导向与外部市场规则脱节易引发探索迷航
 > **课外探索对毕业门槛的隐性遮蔽** 探讨大学多元课外活动如何营造自由宽泛的探索表象，进而在缺乏制度指引时分散弱势学生的早期生涯筹码积累。
 
-> [!claim] [[Argument_Zheng_2023_ShanghaiSanlian_Ch01|郑雅君 (2023)]]
+> [!claim] Zheng, Y.
 > **课外活动对毕业出口门槛的隐性遮蔽机制** 重点高校倡导立德树人与自由探索，校园内活跃的讲座、社团、党团建设与志愿服务重在开阔视野与德性养成，其积极评价与企业用人标准的重合度有限。初入大学者受升学解放心理惯性影响，容易在多元课外活动中分散精力；未能及早洞悉海外深造、国内保研与名企求职对高绩点和专业实习的长周期不可逆锁定，导致毕业时面临严峻的筹码短缺。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(郑雅君, 2023, pp. 82–85)]]
 
 ---
@@ -107,8 +105,8 @@ updated: 2026-11-17
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **成效溢出命题** | 课外活动通过增强同伴支持与学校归属感微弱促进学业成就（$d = 0.13$） | 中小学及大学教育、素质拓展与课外项目 | John Hattie (2009); Shulruf (2010) |
-> | **门槛遮蔽命题** | 课外活动的育人评价与外部职场脱节，容易掩盖毕业出口的早期筹码锁定 | 精英高校校园环境、毕业出路分化与生涯规划 | [[Argument_Zheng_2023_ShanghaiSanlian_Ch01\|郑雅君 (2023)]] |
+> | **成效溢出命题** | 课外活动通过增强同伴支持与学校归属感微弱促进学业成就（$d = 0.13$） | 中小学及大学教育、素质拓展与课外项目 | [[John Hattie\|John Hattie]] (2009); Shulruf (2010) |
+> | **门槛遮蔽命题** | 课外活动的育人评价与外部职场脱节，容易掩盖毕业出口的早期筹码锁定 | 精英高校校园环境、毕业出路分化与生涯规划 | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] |
 
 ---
 
@@ -117,7 +115,7 @@ updated: 2026-11-17
 > - **1980s–1990s — 保护性因素与反流失研究** 教育心理学与社会学研究证实，文体课外活动是降低高危青少年辍学率、提升同伴保护力的有效屏障。
 > - **2009 年 — 可见学习元分析综合确立基准** John Hattie 发布《可见的学习》，基于 9 项元分析整合确立课外活动的学业促进效应量（$d = 0.13$）。
 > - **2013 年 — 履历经济学视角下的工具化反思** Phillip Brown 揭示文凭通胀下，课外活动被系统转变为打造个人求职简历的履历资本投资。
-> - **2023 年 — 精英大学迷宫化机制解构** [[Argument_Zheng_2023_ShanghaiSanlian_Ch01|郑雅君]]分析中国一流高校，阐明课外活动的通识探索表象如何掩盖劳动力市场的残酷门槛，引发不同阶层学生的出路分化。
+> - **2023 年 — 精英大学迷宫化机制解构** [[Yajun Zheng|郑雅君]]剖析中国一流高校，阐明课外活动的通识探索表象如何掩盖劳动力市场的残酷门槛，引发不同阶层学生的出路分化。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(郑雅君, 2023, pp. 82–85)]]
 
 ---
 

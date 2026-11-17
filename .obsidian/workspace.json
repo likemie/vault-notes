@@ -113,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -329,15 +329,24 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "96c685dea1ff308e",
+  "active": "8cf060930e9cdf12",
   "lastOpenFiles": [
-    "wiki/methods/qualitative/In-depth Interview.md",
+    "wiki/concepts/educational-philosophy/Promise of Happiness.md",
+    "wiki/concepts/educational-philosophy/Performative Contradiction.md",
     "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md",
+    "wiki/templates/template-person.md",
+    "wiki/concepts/educational-philosophy/Regression of Listening.md",
+    "wiki/facts/china/Recommendation-Based Graduate Admission System.md",
+    "wiki/facts/china/Project 985.md",
+    "wiki/concepts/educational-technology/Study Abroad.md",
+    "wiki/concepts/educational-technology/Extracurricular Activities.md",
+    "wiki/theories/political-economy-geopolitics/Path Dependence.md",
     "wiki/persons/us/Andrew G. Walder.md",
+    "wiki/persons/china/Yajun Zheng.md",
+    "wiki/methods/qualitative/In-depth Interview.md",
     "wiki/persons/uk/Phillip Brown.md",
     "wiki/persons/us/Randall Collins.md",
     "wiki/facts/china/China College Graduate Employment Reform.md",
-    "wiki/concepts/educational-technology/Extracurricular Activities.md",
     "wiki/assets/geogebra/binary_logistic_regression.ggb",
     "wiki/concepts/higher-education/Employability.md",
     "wiki/methods/quantitative/Binary Logistic Regression.md",
@@ -358,16 +367,7 @@
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch01-81218d7c/batch-007/prompt.md",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch01-81218d7c/batch-006/prompt.md",
     "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch01-81218d7c/batch-005/prompt.md",
-    "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch01-81218d7c/batch-004/prompt.md",
-    "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch01-81218d7c/batch-003/prompt.md",
-    "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch01-81218d7c/batch-001/prompt.md",
-    "output/related-updates/Argument_Zheng_2023_ShanghaiSanlian_Ch01-81218d7c/batch-002/prompt.md",
     "books/Zheng_2023_ShanghaiSanlian/figures/Figure_00_Preface_Illustration.svg",
-    "wiki/concepts/higher-education/Economy of Experience.md",
-    "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic.md",
-    "wiki/methods/quantitative/Begg and Mazumdar Rank Correlation.md",
-    "wiki/arguments/books/Hammermeister_2002_Cambridge/Argument_Hammermeister_2002_Cambridge_Ch06.md",
-    "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian.md",
     "raw/Zheng_2023_ShanghaiSanlian_txt/assets/Table_06_Pathways.jpg",
     "raw/Zheng_2023_ShanghaiSanlian_txt/assets/Table_05_Subgroups.jpg",
     "raw/Zheng_2023_ShanghaiSanlian_txt/assets/Table_04_Engagement.jpg",
