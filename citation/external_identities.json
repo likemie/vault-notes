@@ -13276,7 +13276,8 @@
         "wiki/concepts/sociology-of-education/Cultural Disembedding.md",
         "wiki/concepts/sociology-of-education/Doxa.md",
         "wiki/concepts/sociology-of-education/Habitus.md",
-        "wiki/concepts/sociology-of-education/Ontological Complicity.md"
+        "wiki/concepts/sociology-of-education/Ontological Complicity.md",
+        "wiki/concepts/sociology-of-education/Sense of the Game.md"
       ],
       "title": "An Invitation to Reflexive Sociology"
     },
@@ -13284,7 +13285,8 @@
       "doi": "",
       "isbn": "9780745620312",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
+        "wiki/concepts/sociology-of-education/Habitus Divided Against Itself.md"
       ],
       "title": "The Weight of the World: Social Suffering in Contemporary Society"
     },
@@ -13306,6 +13308,7 @@
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/concepts/comparative-education/Methodological Individualism.md",
+        "wiki/concepts/sociology-of-education/Habitus Hysteresis.md",
         "wiki/concepts/sociology-of-education/Intuition-Dependent Mode.md"
       ],
       "title": "The Logic of Practice"
@@ -13335,7 +13338,8 @@
       "doi": "",
       "isbn": "9780745605999",
       "seen_in": [
-        "wiki/concepts/sociology-of-education/Champ.md"
+        "wiki/concepts/sociology-of-education/Champ.md",
+        "wiki/concepts/sociology-of-education/Sense of the Game.md"
       ],
       "title": "The Logic of Practice"
     },
@@ -62170,7 +62174,8 @@
       "doi": "10.1177/0003122414565394",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
+        "wiki/concepts/sociology-of-education/Cultural Knowledge.md"
       ],
       "title": "Cultural Knowledge and Social Inequality"
     },
@@ -113673,6 +113678,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md",
         "wiki/persons/germany/Max Weber.md"
       ],
       "title": ""
@@ -117753,7 +117759,8 @@
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md",
+        "wiki/concepts/sociology-of-education/Unwritten Rules of Engagement.md"
       ],
       "title": "The Unwritten Rules of Engagement: Social Class Differences in Undergraduates' Academic Strategies"
     },
@@ -121497,14 +121504,6 @@
       ],
       "title": ""
     },
-    "布迪厄, 1980": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/sociology-of-education/Habitus Hysteresis.md"
-      ],
-      "title": ""
-    },
     "布迪厄, 1999": {
       "doi": "",
       "isbn": "",
@@ -121867,14 +121866,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/learning-science-cognitive-science/Neuromyth.md"
-      ],
-      "title": ""
-    },
-    "拉鲁, 2015": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/sociology-of-education/Cultural Knowledge.md"
       ],
       "title": ""
     },

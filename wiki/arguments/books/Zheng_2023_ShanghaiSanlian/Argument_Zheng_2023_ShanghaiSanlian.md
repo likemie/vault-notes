@@ -80,7 +80,7 @@ updated: 2026-11-17
 > | [[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|第二章 视角]] | 说明资本化、投入和价值选择三个过程如何组成分析框架，并交代访谈设计及个案选择。 | [[College Process Model]]、[[First-Generation College Student]]、[[Constructivist Grounded Theory]]、[[Progressive Focussing]] |
 > | [[Argument_Zheng_2023_ShanghaiSanlian_Ch03\|第三章 家境]] | 提炼目标掌控与直觉依赖两种实践图式，从中学经历、父母决策参与、专业填报及初入大学体验追溯其阶层养成机制。 | [[Goal-Controlled Mode]]、[[Intuition-Dependent Mode]]、[[The Shock of the Elite]]、[[Symbolic Boundary]] |
 > | [[Argument_Zheng_2023_ShanghaiSanlian_Ch04\|第四章 努力]] | 深入比较两类实践模式在学业与课外社会性投入上的策略分歧，揭示文化语码壁垒，并阐述大学作为育婴室如何促成习性转换。 | [[Academic Engagement]]、[[Social Engagement]]、[[Employability]]、[[Cultural Barrier]] |
-> | [第五章 方向](../../../../raw/Zheng_2023_ShanghaiSanlian_txt/Ch05_Direction.txt) | 从访谈中归纳三种理解工作意义的观念，结合行动策略和价值信念区分四种获得毕业出路的方式。 | |
+> | [[Argument_Zheng_2023_ShanghaiSanlian_Ch05\|第五章 方向]] | 从访谈中归纳三种理解工作意义的观念图式与张力，结合目的-手段行动力与价值信念提出出路产生机制的 2×2 四分类模型。 | [[Work Meaning Schemas]]、[[Graduation Pathway Typology]]、[[Self-Driven Mode]]、[[Opportunist Mode]]、[[Lost Mode]]、[[Value Conformist Mode]] |
 > | [第六章 余论](../../../../raw/Zheng_2023_ShanghaiSanlian_txt/Ch06_Conclusion.txt) | 区分文化脱嵌与文化迷失，提出寒门学子可采取的应对方式。此 TXT 同时收录后记。 | [[Cultural Barrier]] |
 
 ## 附录

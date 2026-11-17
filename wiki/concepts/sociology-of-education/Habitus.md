@@ -194,8 +194,7 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 结合深度访谈与[[Grounded Theory|扎根理论]]将阶层惯习操作化为目标掌控与直觉依赖两种模式，系统揭示中国顶尖大学弱势学生的惯习滞后、错置与重塑历程（涉及基础教育塑造与家庭决策差异详见第三章 [[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]）。
-> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|郑雅君 (2023, 第四章)]] — 详尽剖析大学作为文化孵化器对学生原初惯习的再社会化与重塑过程，论证惯习转变中的时间滞后代价与社会性投入机制。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 将阶层惯习操作化为目标掌控与直觉依赖模式，揭示弱势生惯习滞后与错置（[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]），并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]论述再社会化中的惯习重塑与时间代价。
 > - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 追踪澳大利亚公立学校校长在教育价值守正与绩效考核问责之间的领导惯习分裂。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 探讨地方教育行动者如何在既有制度常识与实践惯性中[[Recontextualization|再情境化]]跨国政策[[Paradigm|范式]]。
 

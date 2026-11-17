@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-09
-updated: 2026-11-04
+updated: 2026-11-17
 ---
 
 > [!info] 定义
@@ -110,4 +110,7 @@ updated: 2026-11-04
 同样是[[Intuition-Dependent Mode|直觉依赖模式]]，为什么有些人变成了迷失无从者，有些人却成了[[Value Conformist Mode|价值归顺者]]？关键是大学教育的重塑作用能否发生——"价值归顺者"因为接受了学校里的主流文化宣导而树立起了被学校和校友所支持的生涯目标，由此免于生涯困境。而"迷失无从者"则因为种种原因未能接受这种来自学校教育的意义馈赠——"在学校的引导、世俗的追求、自己微弱的理想等若干选项的纠结之间"走不出来（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。
 
 ---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch05|Zheng (2023)]] — 阐释弱势背景名校生因文化工具箱匮乏与价值图式冲突导致的迷失无从状态与被动出路（Ch. 5）。
 

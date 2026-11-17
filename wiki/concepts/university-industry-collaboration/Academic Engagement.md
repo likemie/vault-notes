@@ -215,7 +215,6 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 深度质性与量化研究，揭示中国顶尖大学学生学业投入与社会性投入在不同家庭阶层背景下的模式分化；系统剖析推免保研与海外深造规则对本科阶段持续学业投入的制度性锁定机制（详见[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|第一章]]，pp. 85–88）。
-> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|郑雅君 (2023, 第四章)]] — 详尽剖析两类生活组织模式在学业投入上的微观博弈策略，揭示学业投入作为入场门槛的边际管理与直觉依赖者的绩点认知偏差及学业困境。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 揭示顶尖大学学生学业投入的阶层分化，剖析推免保研对学业投入的长程制度锁定（[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|第一章]]），并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]剖析入场门槛边际效用管理与绩点认知偏差。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，提出扩大产业博士培养、推广伯克利 [[Activate Fellowship|Activate]] 创业科学家模式及打破学术晋升壁垒的产学学术参与重塑方案。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 从[[Academic Engagement Team|企业学术参与团队]]（AET）视角系统剖析产学学术参与的组织架构、预算配置与跨部门矩阵治理。

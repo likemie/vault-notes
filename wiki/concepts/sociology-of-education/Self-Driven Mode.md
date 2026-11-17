@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-09
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 > [!info] 定义
@@ -80,5 +80,9 @@ updated: 2026-10-22
 > [!info] 理论基础
 > - [[Self-Authorship]]（[[Marcia Baxter Magolda]]）— 自主驱动者是该理论在职业决策领域的最充分体现：他们基于"内在声音和核心价值观"主导认知发展、自我认同和人际关系（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）
 > - [[Culture as Toolkit]] — 自主驱动者同时具备深层内化的价值图式（价值观驱动维度）和灵活使用文化工具达成目标的能力（工具箱维度）
->
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch05|Zheng (2023)]] — 阐释兼具高目的-手段行动力与深层价值信念驱动的自主驱动者出路机制及其精英阶层特征（Ch. 5）。
 

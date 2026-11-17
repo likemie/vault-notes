@@ -27702,9 +27702,7 @@
     "布朗等人, 1997": "布朗等人, 1997",
     "布洛克 (2008)": "布洛克, 2008",
     "布洛克, 2008": "布洛克, 2008",
-    "布迪厄 (1980)": "布迪厄, 1980",
     "布迪厄 (1999)": "布迪厄, 1999",
-    "布迪厄, 1980": "布迪厄, 1980",
     "布迪厄, 1999": "布迪厄, 1999",
     "布雷彻等 (2000)": "布雷彻等, 2000",
     "布雷彻等, 2000": "布雷彻等, 2000",
@@ -27795,8 +27793,6 @@
     "拉斯库姆与勒加莱斯, 2007": "拉斯库姆与勒加莱斯, 2007",
     "拉森 (2019)": "拉森, 2019",
     "拉森, 2019": "拉森, 2019",
-    "拉鲁 (2015)": "拉鲁, 2015",
-    "拉鲁, 2015": "拉鲁, 2015",
     "挪威 (2005)": "挪威, 2005",
     "挪威 (2020)": "挪威, 2020",
     "挪威, 2005": "挪威, 2005",
@@ -50324,7 +50320,8 @@
         "wiki/concepts/sociology-of-education/Cultural Disembedding.md",
         "wiki/concepts/sociology-of-education/Doxa.md",
         "wiki/concepts/sociology-of-education/Habitus.md",
-        "wiki/concepts/sociology-of-education/Ontological Complicity.md"
+        "wiki/concepts/sociology-of-education/Ontological Complicity.md",
+        "wiki/concepts/sociology-of-education/Sense of the Game.md"
       ],
       "title": "An Invitation to Reflexive Sociology"
     },
@@ -50339,7 +50336,8 @@
       ],
       "isbn": "9780745620312",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
+        "wiki/concepts/sociology-of-education/Habitus Divided Against Itself.md"
       ],
       "title": "The Weight of the World: Social Suffering in Contemporary Society"
     },
@@ -50375,6 +50373,7 @@
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
         "wiki/concepts/comparative-education/Methodological Individualism.md",
+        "wiki/concepts/sociology-of-education/Habitus Hysteresis.md",
         "wiki/concepts/sociology-of-education/Intuition-Dependent Mode.md"
       ],
       "title": "The Logic of Practice"
@@ -50425,7 +50424,8 @@
       ],
       "isbn": "9780745605999",
       "seen_in": [
-        "wiki/concepts/sociology-of-education/Champ.md"
+        "wiki/concepts/sociology-of-education/Champ.md",
+        "wiki/concepts/sociology-of-education/Sense of the Game.md"
       ],
       "title": "The Logic of Practice"
     },
@@ -131458,7 +131458,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
+        "wiki/concepts/sociology-of-education/Cultural Knowledge.md"
       ],
       "title": "Cultural Knowledge and Social Inequality"
     },
@@ -216682,6 +216683,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md",
         "wiki/persons/germany/Max Weber.md"
       ],
       "title": ""
@@ -223387,7 +223389,8 @@
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md",
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md",
+        "wiki/concepts/sociology-of-education/Unwritten Rules of Engagement.md"
       ],
       "title": "The Unwritten Rules of Engagement: Social Class Differences in Undergraduates' Academic Strategies"
     },
@@ -229576,21 +229579,6 @@
       ],
       "title": ""
     },
-    "布迪厄, 1980": {
-      "aliases": [
-        "布迪厄, 1980",
-        "布迪厄 (1980)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "布迪厄, 1980"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/sociology-of-education/Habitus Hysteresis.md"
-      ],
-      "title": ""
-    },
     "布迪厄, 1999": {
       "aliases": [
         "布迪厄, 1999",
@@ -230268,21 +230256,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/learning-science-cognitive-science/Neuromyth.md"
-      ],
-      "title": ""
-    },
-    "拉鲁, 2015": {
-      "aliases": [
-        "拉鲁, 2015",
-        "拉鲁 (2015)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "拉鲁, 2015"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/sociology-of-education/Cultural Knowledge.md"
       ],
       "title": ""
     },

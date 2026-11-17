@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-09
-updated: 2026-10-22
+updated: 2026-11-17
 ---
 
 > [!info] 定义
@@ -105,7 +105,10 @@ updated: 2026-10-22
 ## 与二元精英路径的关联
 
 
-在当前中国社会市场轨道和体制轨道并行的二元精英路径下，家境劣势的大学生并非注定只能成为"[[Lost Mode|迷失无从者]]"。当他们在接受大学教育的过程中读懂了大学的游戏规则，充实了行动能力，或是响应国家号召、获得了组织的有力支持，就有可能摆脱"[[Intuition-Dependent Mode|直觉依赖模式]]"的困境，获得比较满意的向上流动结果（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。
+在当前中国社会市场轨道和体制轨道并行的二元精英路径下，家境劣势的大学生依然拥有突破"[[Lost Mode|迷失无从者]]"困境的制度通道。当他们在接受大学教育的过程中读懂大学的游戏规则，充实了行动能力，或是响应国家号召、获得组织的有力支持，就能够摆脱"[[Intuition-Dependent Mode|直觉依赖模式]]"，获得比较满意的向上流动结果（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。
 
 ---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch05|Zheng (2023)]] — 将目的-手段行动力与价值信念驱动力交叉，系统提出并验证了解释大学生毕业出路分化的 2×2 四分类模型（Ch. 5）。
 

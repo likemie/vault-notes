@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-09'
-updated: 2026-11-15
+updated: 2026-11-17
 ---
 
 ---
@@ -166,4 +166,4 @@ updated: 2026-11-15
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 揭示名校优势背景大学生如何运用目标掌控与意义搁置的组合策略，实现就业市场工具性收益最大化。
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch05|Zheng (2023)]] — 系统剖析优势背景名校生如何运用目标掌控与意义搁置的组合策略，实现劳动力市场工具性收益最大化（Ch. 5）。

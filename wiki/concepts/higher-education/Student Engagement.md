@@ -154,6 +154,9 @@ updated: 2026-11-17
 > [!claim] [[Yajun Zheng\|郑雅君]]
 > **投入方向性与阶层习性制约** 投入是深刻折射出家庭背景所赋予的文化习性，有别于阶层中立的自由选择。优势背景学生往往展现出“[[Goal-Controlled Mode\|目标掌控模式]]”，能够提前规划、将时间精准投入到具有高长效回报的科研、名企实习与高质量社交中；而弱势背景的第一代大学生多呈现“[[Intuition-Dependent Mode\|直觉依赖模式]]”，其投入往往局限于琐碎事务或机械课程[[Homework\|作业]]，投入缺乏明确的方向性与策略协同，难以有效转化为生涯竞争优势。[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, pp. 120–128)]]
 
+> [!claim] [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|Zheng, Y.]]
+> **双轨精力调控与生活模式转化机制** 郑雅君（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|2023, 第四章]]）进一步解构了学业投入与社会性投入维度的具体博弈策略：目标掌控者实行学业投入的边际效用管理（将绩点定位为初赛门槛并借助选课技巧控制成本，腾出80%精力用于课外实践）与社会性投入的相对就业力锻造；直觉依赖者则深陷学业投入认知偏差（大一绩点滑坡与及格线挣扎）以及社会性投入的三重文化壁垒（语言包不适配、本领恐慌与去求助倾向）。密集的社会性投入亦构成弱势学生突破原初习性、驱动生活组织形态转化的动力引擎。
+
 ---
 
 > [!concept-proposition] 命题三｜人工智能环境下的表层情感与行为投入容易掩盖深层认识性投入的缺席
@@ -177,7 +180,7 @@ updated: 2026-11-17
 > - **1984 — [[Student Involvement\|学生涉入]]理论奠基** 亚历山大·阿斯汀（Alexander Astin）提出涉入理论，聚焦个体生理与心理能量的全面投入，为“投入—成效”研究奠定假说基石。
 > - **1991 — 学生投入理论系统化** 乔治·库（George Kuh）出版 *Involving Colleges*，将投入[[Operationalization\|操作化]]为具体教育性实践的时间与精力测量，并首次将院校制度支持纳入分析。
 > - **2000 年代 — 全国常模与实证巩固** [[National Survey of Student Engagement\|全美学生投入调查]]（NSSE）广泛应用，Pascarella & Terenzini 等学者通过海量实证确立投入对认知增益的稳健促进作用。
-> - **2023 — 质性质态与方向性深化** [[Yajun Zheng\|郑雅君]]引入“投入方向性”与“文化习性”视角，超越“投入越多越好”的线性假设，揭示[[Goal-Controlled Mode\|目标掌控模式]]与[[Intuition-Dependent Mode\|直觉依赖模式]]的机制差异。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|(郑雅君, 2023, pp. 40–41, 47–48)]]; [[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023)]]
+> - **2023 — 质性质态与方向性深化** [[Yajun Zheng\|郑雅君]]引入“投入方向性”与“文化习性”视角，超越“投入越多越好”的线性假设，揭示[[Goal-Controlled Mode\|目标掌控模式]]与[[Intuition-Dependent Mode\|直觉依赖模式]]的机制差异（[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|第二章]]），并解构学业投入边际管理与社会性投入壁垒的微观博弈（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04\|第四章]]）。
 > - **2026 — 认识性投入与算法伪投入反思** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 揭示人工智能时代商业参与度指标的局限，区分表层情感/行为交互与深层认识性投入，推动概念向[[Epistemology\|认识论]]反思与[[Evaluative Judgement\|评价性判断]]拓展。
 
 ---
@@ -258,6 +261,6 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 在[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|第二章]]中将学生投入理论作为大学过程分析框架中“投入过程”层的核心操作化支柱，从量、质与方向性多维透视学业与社会性投入（pp. 40–41, 47–48）；并结合量化调查与质性长周期追踪，实证揭示文化资本与阶层习性对学生投入量与方向性的深层分化机制。
+> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 将学生投入理论作为大学过程分析框架的核心操作化支柱（[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|第二章]]），并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04\|第四章]]实证解构学业投入边际管理、社会性投入相对就业力锻造与模式转换引擎。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 辨析[[Generative Artificial Intelligence\|生成式人工智能]]环境下表层行为与情感参与对深层“认识性投入”的遮蔽效应，提出重塑评价判断权与培育关系性主体性的实践方案。
 

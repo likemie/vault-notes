@@ -20659,6 +20659,19 @@
     ]
   },
   {
+    "title": "Sense of the Game",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Sense of the Game.md",
+    "aliases": [
+      "博弈感",
+      "游戏感",
+      "场域博弈感",
+      "对游戏的感觉",
+      "游戏直觉",
+      "sens du jeu"
+    ]
+  },
+  {
     "title": "Social Episodes",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Social Episodes.md",
@@ -20837,6 +20850,18 @@
       "典型化",
       "理想类型化",
       "typifications"
+    ]
+  },
+  {
+    "title": "Unwritten Rules of Engagement",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Unwritten Rules of Engagement.md",
+    "aliases": [
+      "未明说的参与规则",
+      "隐性参与规则",
+      "隐性博弈规则",
+      "未明说规则",
+      "隐性学业参与策略"
     ]
   },
   {
@@ -53537,6 +53562,11 @@
     "title": "Argument_Zheng_2023_ShanghaiSanlian_Ch04",
     "type": "argument",
     "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
+  },
+  {
+    "title": "Argument_Zheng_2023_ShanghaiSanlian_Ch05",
+    "type": "argument",
+    "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md"
   },
   {
     "title": "Argument_Du_Yuan_2026_AIS",

@@ -41,7 +41,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-05-09
-updated: 2026-10-30
+updated: 2026-11-17
 ---
 
 > [!info] 定义
@@ -95,5 +95,9 @@ updated: 2026-10-30
 
 > [!warning] 局限性
 > 价值归顺者虽然获得了体制内的赞助性出路，但其选择在一定程度上是受学校主流意识形态单方面塑造的结果，而非像[[Self-Driven Mode\|自主驱动者]]那样经过了多元观念来源中的自主反思和选择。他们"顺服"于大学价值和体制路径，这在多大程度上是一种自主选择，在多大程度上是弱工具箱条件下的次优策略，值得进一步讨论（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）。
->
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch05|Zheng (2023)]] — 阐释弱势背景名校生通过内化学校德育话语、借助体制赞助性流动实现高质量向上流动的机制（Ch. 5）。
 

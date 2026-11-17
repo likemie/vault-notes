@@ -77,9 +77,9 @@ related_arguments:
   - "[[Argument_Wong_2022_HERD]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
 confidence: high
-status: draft
+status: active
 created: '2026-05-08'
-updated: 2026-11-15
+updated: 2026-11-17
 ---
 
 ---
@@ -87,7 +87,7 @@ updated: 2026-11-15
 > [!def] Employability
 > 就业能力（Employability，又称就业力）指劳动者（特别是高校毕业生）在劳动力市场中获取、维持和转换体面就业的综合潜能与资格[[Construct|构念]]。该概念最初指劳动者满足工作岗位基准要求的**绝对专业能力**（由知识、技术训练与资格证书决定）；但在高等教育大众化与[[Credential Inflation|文凭通胀]]背景下，它日益演变为建立在求职者群体内部相互比较与筛选之上的**相对排序位置**。求职者不仅需要持有学历凭证，还必须对个人经历、交往网络、品格气质乃至空间适应性进行战略性管理与展示，以争取稀缺优质岗位。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君，2023)]]; [[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 258)]]; [[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **双重属性结构** 英国社会学家菲利普·布朗（Phillip Brown）确立了就业力的双重结构：绝对维度（基准知识与履职能力）与相对维度（在竞争队列中的相对位次）。当高等教育扩张导致大量求职者同时具备充分的绝对能力时，雇主的筛选标准必然由硬性的学位证书向软性的社会资本、经历包装与自我呈现转移。
 > - **[[Discourse|话语]]建构与主体性塑造** 就业能力不仅是一组客观技术能力的集合，更是由教育、经济与政[[Governmentality|治理性]]共同建构的话语范畴。它将劳动力重塑为持续进行自我[[Human Capital Theory|人力资本]]核算与投资的[[Self-Entrepreneur|自我企业家]]（Self-Entrepreneur）。
 > - **[[Spatial Governmentality|空间化治理]]与劳动力风险个体化** 在超国家治理语境（如[[European Education Space|欧洲教育空间]]）中，跨国空间移动（[[Student Mobility|学生流动性]]）被直接重构为现代就业能力的核心构件；将宏观劳动力市场动荡与结构性失业的系统性风险，隐蔽地转嫁为劳动者是否具备主动跨国流动与终身适应能力的个人责任。
@@ -121,6 +121,9 @@ updated: 2026-11-15
 > [!claim] [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] & Brown and Hesketh (2004)
 > **[[Credential Inflation|文凭通胀]]下的相对就业力统治** 在分析高等教育大众化时代的毕业生竞争时指出，文凭从昔日的就业保障退化为初筛门槛。面对高度同质化的学术资格，雇主转向考察求职者展示自我品质、性格修养与组织契合度的“演绎能力”（Performance）。求职者被迫卷入对实习声望、名企背书与职业人际网络的无休止竞逐，使就业能力演变为高度阶层化、依赖家庭社会文化资本支撑的相对排序博弈。
 
+> [!claim] [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|郑雅君 (2023, 第四章)]]
+> **相对就业力赛场与微观演绎能力锻造** 郑雅君（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|2023, 第四章]]）实证剖析了两类生活组织模式在就业能力维度的微观博弈：在高等教育大众化与文凭贬值背景下，毕业出路竞争呈现绝对与相对两重属性；绝对就业力（基准专业知识与学分绩点）仅构成初赛门槛，而决定最终录取位次的决定性胜负手是依托名企实习、跨界社交与课外任职所锻造的相对就业力。目标掌控者在维持学业安全门槛后，将大量精力投入课外实践，通过多轮实习试错或顺藤摸瓜锚定出路，并在名企终面中展现高情商、从容仪态与即时转化率等表现性资本（expressive capital）；直觉依赖者则因文化语码不适配与社交挫败被阻隔于实习网络之外，导致在相对排位中处于系统性劣势。
+
 ---
 
 > [!concept-proposition] 命题二｜超国家空间治理将跨国流动性重构为就业能力并将宏观劳动力市场动荡个体化
@@ -150,7 +153,7 @@ updated: 2026-11-15
 > [!contrast-table] 就业能力核心命题归纳
 > | 命题类型 | 核心论断 | 实践机制与政策含义 | 代表[[Document\|文献]] / 理论源流 |
 > |---|---|---|---|
-> | **相对排位与履历异化** | 文凭通胀将就业力从知识技能积累异化为[[Soft Power\|软实力]]与社交演练的相对博弈 | 催生以名企实习和印象管理为核心的履历经济，再生产阶层不平等 | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]; Brown and Hesketh (2004) |
+> | **相对排位与履历异化** | 文凭通胀将就业力从知识技能积累异化为[[Soft Power\|软实力]]与社交演练的相对博弈 | 催生以名企实习和印象管理为核心的履历经济，再生产阶层不平等 | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]; [[Argument_Zheng_2023_ShanghaiSanlian_Ch04\|(2023, 第四章)]]; Brown and Hesketh (2004) |
 > | **空间流动与风险个体化** | 超国家空间治理将跨国流动编码为就业胜任力，把宏观劳动力失衡转嫁为个人流动责任 | 警惕流动话语将结构性失业去政治化，对比国内[[Migrant Children\|流动儿童]]遭遇的病态化排斥 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]]; Papatsiba (2005) |
 > | **技能话语与远距治理** | 21 世纪素养将就业力建构为由雇主外部期望界定的自我企业家投资项目 | 批判教育工具化对全人发展的侵蚀，揭示外部规范向个体主观认同的渗透 | [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022)]]; Hampson and Junor (2009) |
 > | **知识易耗品化与终身更新规训** | 知识被重新定义为快速折旧的易耗品，维持就业能力演变为个体自负盈亏与自我监控的终身规训 | 欧洲全景敞视监视、知识经济话语、终身学习与劳动力不安全感 | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] |
@@ -164,7 +167,7 @@ updated: 2026-11-15
 > - **2009 年 — 知识易耗品化与终身就业能力规训解构** 帕西亚斯与鲁萨基斯剖析欧盟里斯本战略话语，揭示知识被定义为易耗品后，终身学习与维持就业能力如何演变为全景敞视式软法监视下的个体自我规训。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 484, 487)]]
 > - **2010–2013 年 — 概念维度[[Operationalization|操作化]]与因果证据反思** Brown (2013) 形式化界定绝对就业力与相对就业力；与此同时，计量经济学与认知科学学者指出，政策[[Discourse|话语]]宣称的通用就业力素养与实际成人收入结果之间存在显著的[[Causality|因果推断]]证据缺口，企业岗位设计不匹配将导致通用技能[[Return on Investment|投资回报]]归零。Finegold and Notabartolo (2010); Pellegrino and Hilton (2012)
 > - **2022 年 — 技能话语建构与福柯主义[[Governing at a Distance|远距治理]]批判** 泽林卡（Milos Zelinka, 2022）从 21 世纪技能与素养框架（[[21st Century Skills and Competencies Discourse]]）切入，解构就业能力作为[[Governing at a Distance|远距治理]]技术的运作机制，揭示外部期望如何将求职者规训为无止境追求市场认可的自律主体。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, pp. 258–265)]]
-> - **2023 年 — 中国精英大学[[Champ|场域]]应用与履历分层揭示** [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]将 Brown 的相对就业力与[[Economy of Experience|履历经济学]]框架引入中国研究，揭示名校文凭贬值下大学生如何通过[[Social Engagement|社会性投入]]争取排位优势，并证实家庭阶层资本在这一软性竞争中的再生产效应。
+> - **2023 年 — 中国精英大学[[Champ|场域]]应用与履历分层揭示** [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]将 Brown 的相对就业力与[[Economy of Experience|履历经济学]]框架引入中国研究，并在第四章（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]）实证揭示名校文凭贬值下大学生如何通过[[Social Engagement|社会性投入]]争取排位优势、锻造表现性资本与面试演绎能力，并证实家庭阶层资本在这一软性竞争中的再生产效应。
 
 ---
 
@@ -178,7 +181,7 @@ updated: 2026-11-15
 > > [!axis] 大学通识育人宗旨 vs 劳动力市场雇佣工具主义
 > > 高等教育应以培育具有独立思考与批判意识的自由公民为使命，还是以产出无缝对接雇主需求的岗位劳动力为导向？
 > > - **大学人本传统学者** 警惕过度强调就业能力将导致课程体系向短期职业技能倾斜，挤压[[General Education|通识教育]]、哲学反思、[[Critical Thinking|批判性思维]]及公民伦理素养的探索空间。[[Argument_Wong_2022_HERD|(Wong et al., 2022)]]
-> > - **市场驱动派与产业倡导者** 主张公立高等教育必须向纳税人证明办学效益，课程应由劳动力市场用人标准倒逼重构以提升毕业回报率。
+> > - **市场驱动派与产业倡导者** 主张公立高等教育必须向纳税人证明办学效益，课程应由劳动力市场用人标准推动重构以提升毕业回报率。
 >
 > > [!axis] 宣称的通用核心素养 vs 真实岗位回报的证据断层
 > > 针对 21 世纪技能话语承诺的“通用素养提升就业能力”，实证测量是否发现了清晰的因果链条？
@@ -202,8 +205,24 @@ updated: 2026-11-15
 
 ---
 
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Economy of Experience]] | 概念 | 求职者在大学阶段策略性组织实习与实践以积累就业能力的微观行动机制。 |
+> | [[Social Engagement]] | 概念 | 锻造相对就业力、表现性资本与名企求职人际网络的核心行为维度。 |
+> | [[Academic Engagement]] | 概念 | 提供满足岗位准入资格底线的绝对专业知识与学分绩点基础。 |
+> | [[Goal-Controlled Mode]] | 概念 | 视课外实践为相对就业力决定性赛场并主动进行职业锚定的生活模式。 |
+> | [[Intuition-Dependent Mode]] | 概念 | 因文化语码壁垒而在相对就业力竞争中陷入被动与劣势的生活模式。 |
+> | [[Cultural Capital]] | 概念 | 支撑求职者在面试演绎、沟通仪态与实习包装中脱颖而出的深层阶层资源。 |
+> | [[Credential Inflation]] | 概念 | 驱动就业力由绝对学历文凭向相对排位竞争异化的宏观劳动力市场背景。 |
+> | [[Student Mobility]] | 概念 | 在超国家治理话语中被重塑为现代就业能力关键支柱的跨国空间流动性。 |
+> | [[Yajun Zheng]] | 人物 | 将相对就业力框架引入中国精英高校并揭示阶层分层机制的教育社会学者。 |
+
+---
+
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 结合中国名校 60 余位毕业生质性追踪，实证揭示文凭通胀下相对就业力博弈与履历经济的分层再生产机制。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 结合名校毕业生追踪揭示相对就业力博弈与履历经济的分层再生产机制，并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]解构通过社会性投入锻造相对就业力与表现性资本的微观过程。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 援引 Papatsiba（2005）剖析超国家教育一体化政策，揭示官方话语如何将劳动力市场动荡个体化为青年需自负盈亏承担的跨国流动性与就业能力。
 > - [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] — 批判性解构 21 世纪素养框架，揭示就业能力如何被构建为由外部市场期望界定的自我企业家投资项目与远距治理技术。
 > - [[Argument_Wong_2022_HERD|Wong et al. (2022)]] — 辨析[[Graduate Attributes|毕业生特质]]（大学育人视角）与就业能力（劳动力市场视角）的理论张力，警惕就业工具主义对通识教育的侵蚀。

@@ -142,4 +142,4 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 系统引入魏昂德二元精英职业路径理论，作为分析中国一流大学毕业生体制内选调与市场化就业分流的宏观结构参照（详见[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|第一章]]，pp. 88–90）。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 引入魏昂德二元精英职业路径理论作为宏观分流参照（[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|第一章]]），并论证价值归顺者依托体制赞助性流动进入选调轨道的微观机制（[[Argument_Zheng_2023_ShanghaiSanlian_Ch05|第五章]]）。

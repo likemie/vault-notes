@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-08
-updated: 2026-11-10
+updated: 2026-11-17
 ---
 
 ---
@@ -211,3 +211,4 @@ updated: 2026-11-10
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 详述主轴编码在扎根理论编码阶梯中的枢纽定位，系统解析六要素范式模型与儿童身体活动实证建模范例（Ch. 30）。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 将主轴编码定位为系统化质性分析中连接开放编码范畴与叙事故事线解释的核心分析步骤（Ch. 9）。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 遵循扎根理论三级编码程序，在第二阶段对自由概念编码进行属性聚类形成轴心编码，最终提炼出解释系统提质的四大核心驱动要素（p. 5）。
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch05|Zheng (2023)]] — 对 70 份名校毕业生访谈材料的 216 处编码参考点进行轴心编码归纳，提炼出解释工作意义建构的三大文化图式及其张力三角结构（Ch. 5）。
