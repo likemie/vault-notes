@@ -3379,6 +3379,12 @@
         "wiki/facts/finland/Strategic Programme of Prime Minister Juha Sipilä's Government.md"
       ]
     },
+    "Singapore Ministry of Education": {
+      "seen_in": [
+        "wiki/facts/singapore/Goh Report.md",
+        "wiki/facts/singapore/Thinking Schools, Learning Nation.md"
+      ]
+    },
     "UNDP": {
       "seen_in": [
         "wiki/facts/global/Education for All.md",
@@ -3645,6 +3651,11 @@
         "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md"
       ]
     },
+    "Legislative Assembly of Singapore": {
+      "seen_in": [
+        "wiki/facts/singapore/All-Party Report on Chinese Education.md"
+      ]
+    },
     "Maastricht University, University of Amsterdam, University of Groningen": {
       "seen_in": [
         "wiki/facts/netherlands/Top Institute for Evidence-Based Education Research.md"
@@ -3818,11 +3829,6 @@
     "Singapore Economic Development Board; Ministry of Trade and Industry; Ministry of Education": {
       "seen_in": [
         "wiki/facts/singapore/Singapore Education Hub Policy.md"
-      ]
-    },
-    "Singapore Ministry of Education": {
-      "seen_in": [
-        "wiki/facts/singapore/Goh Report.md"
       ]
     },
     "Students & Intellectuals (Beijing University / Student Unions)": {

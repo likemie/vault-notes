@@ -115,7 +115,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-11-15
+updated: 2026-11-17
 ---
 
 ---
@@ -175,6 +175,9 @@ updated: 2026-11-15
 
 > [!claim] [[Yong Zhao|Zhao, Y.]]
 > **未来技能虚构与测试重合度** [[Yong Zhao|赵勇]]指出，PISA 声称测量学生面向未来社会挑战的关键素养，这一断言完全没有前瞻纵向追踪实证支持。实证研究显示，PISA 测验成绩与传统的 [[TIMSS]] 考试及一般国家认知能力（g 因子）高度重合，并未测得超出传统学术知识之外的特异未来技能。此外，Hanushek 和 Woessmann 宣称 [[OECD]] 平均提高 25 分将带来 115 万亿美元 GDP 增长的模型存在严重时间错位，其后续检验（Komatsu & Rappleye, 2017）证实测试分数与后续经济增长之间缺乏稳健关联。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
+
+> [!claim] Deng and Gopinathan (2016)
+> **纸笔测试去情境化与真实情境问题解决能力的脱节** 邓宗怡与高平纳坦（Deng & Gopinathan, 2016）指出，PISA 试题完全由去情境化、无争议的纸笔题目构成，无法有效评估应对现实复杂、不确定与争议性情境所必需的综合素养（Sjøberg, 2007; Dohn, 2007）。PISA 本质上测量的是解决脱离特定学科预设的通用学术型问题能力（Bulle, 2011），经合组织宣称其测查的领域代表未来现代职场核心能力的断言缺乏系统的前瞻性知识结构研究支撑（Hopmann, 2008）。与经合组织单一的经济主义取向相比，学校教育长期承担着维系社会凝聚、培育公民素养与国家建构等同等重要的多元功能。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 463–464)]]
 
 ---
 
@@ -309,6 +312,7 @@ updated: 2026-11-15
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 从比较教育历史制度主义视角反思 PISA 作为教育系统质量首要标尺的局限，揭示纸笔测试的去情境化本质与经济主义教育窄化。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 从教育政策社会学视角系统批判 PISA 作为新自由主义特洛伊木马的治理机制，提出改革指引与政策背书二元象限。
 > - [[Argument_Zhao_2020_JEC|Zhao (2020)]] — 系统梳理二十年对 PISA 的学术批判，从教育观、实施与解释维度解构其商业营销与威权美化本质。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 从批判政策社会学视角解构经合组织如何运用 PISA 制造全球等值空间与推行远处掌舵。

@@ -1216,6 +1216,19 @@
     ]
   },
   {
+    "title": "High-Performing Education Systems",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/High-Performing Education Systems.md",
+    "aliases": [
+      "卓越表现教育系统",
+      "高绩效教育系统",
+      "顶尖教育系统",
+      "HPES",
+      "High-Performing Education System",
+      "Top-Performing Education Systems"
+    ]
+  },
+  {
     "title": "Historical Amnesia",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Historical Amnesia.md",
@@ -9314,7 +9327,9 @@
     "aliases": [
       "个人神话",
       "生命故事",
-      "自传叙事神话"
+      "自传叙事神话",
+      "叙事认同",
+      "narrative identity"
     ]
   },
   {
@@ -11969,6 +11984,18 @@
       "作业",
       "课外作业",
       "school homework"
+    ]
+  },
+  {
+    "title": "Hybrid Pedagogy",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md",
+    "aliases": [
+      "混合教学法",
+      "混合教学形态",
+      "混合教学模式",
+      "混合教学规程",
+      "杂糅教学法"
     ]
   },
   {
@@ -46799,6 +46826,18 @@
     "subtype": "event"
   },
   {
+    "title": "All-Party Report on Chinese Education",
+    "type": "fact",
+    "path": "wiki/facts/singapore/All-Party Report on Chinese Education.md",
+    "aliases": [
+      "各党派华文教育委员会报告书",
+      "各党派华文教育报告书",
+      "1956年各党派华文教育委员会报告书",
+      "All-Party Report 1956"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Goh Report",
     "type": "fact",
     "path": "wiki/facts/singapore/Goh Report.md",
@@ -46832,6 +46871,18 @@
       "Global Schoolhouse",
       "东方波士顿",
       "Boston of the East"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Thinking Schools, Learning Nation",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Thinking Schools, Learning Nation.md",
+    "aliases": [
+      "重思考的学校，好学习的国民",
+      "思考型学校，学习型国家",
+      "TSLN",
+      "Thinking Schools Learning Nation"
     ],
     "subtype": "policy"
   },

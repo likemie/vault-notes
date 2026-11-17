@@ -7595,6 +7595,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/comparative-education/High-Performing Education Systems.md",
         "wiki/concepts/comparative-education/Performative Turn.md",
         "wiki/persons/uk/Michael Barber.md"
       ],
@@ -11089,6 +11090,14 @@
         "wiki/concepts/sociology-of-education/Interactional Expertise.md",
         "wiki/concepts/teacher-education/Teacher Knowledge Base.md",
         "wiki/theories/educational-policy-reform/Research Utilization Models.md"
+      ],
+      "title": ""
+    },
+    "Biesta, 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/High-Performing Education Systems.md"
       ],
       "title": ""
     },
@@ -15692,6 +15701,15 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Review of Education/Argument_Gorard_2020_ROE.md"
+      ],
+      "title": ""
+    },
+    "Bulle, 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Critique of PISA.md",
+        "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md"
       ],
       "title": ""
     },
@@ -26895,6 +26913,16 @@
       ],
       "title": ""
     },
+    "Deng & Gopinathan, 2016": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Critique of PISA.md",
+        "wiki/concepts/comparative-education/High-Performing Education Systems.md",
+        "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md"
+      ],
+      "title": ""
+    },
     "Deng & Yu, 2023": {
       "datasets": [
         "metax:S2341"
@@ -28461,6 +28489,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effect of the Use of Six Thinking Hats Technique in Education on Academic Achievement: A Mixed-Meta Method Research."
+    },
+    "Dohn, 2007": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Critique of PISA.md",
+        "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md"
+      ],
+      "title": ""
     },
     "Dolan, 1993": {
       "datasets": [
@@ -49127,6 +49164,15 @@
       ],
       "title": ""
     },
+    "Hogan et al., 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/High-Performing Education Systems.md",
+        "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md"
+      ],
+      "title": ""
+    },
     "Hogan, 1999": {
       "datasets": [
         "eef:metacognition-and-self-regulation"
@@ -49141,6 +49187,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-psychology/Practical Epistemology.md"
+      ],
+      "title": ""
+    },
+    "Hogan, 2014a": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md"
       ],
       "title": ""
     },
@@ -49783,7 +49837,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Zhao_2020_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Zhao_2020_JEC.md",
+        "wiki/concepts/comparative-education/Critique of PISA.md"
       ],
       "title": ""
     },
@@ -55599,6 +55654,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md"
+      ],
+      "title": ""
+    },
+    "Kamens, 2014": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/High-Performing Education Systems.md"
       ],
       "title": ""
     },
@@ -97346,6 +97409,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md",
+        "wiki/concepts/comparative-education/High-Performing Education Systems.md",
         "wiki/concepts/political-economy-geopolitics/Media Logic.md",
         "wiki/facts/global/Teaching and Learning International Survey.md"
       ],
@@ -99937,6 +100001,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "No Long-Term Effect of Physical Activity Intervention on Working Memory or Arithmetic in Preadolescents"
+    },
+    "Sjøberg, 2007": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Critique of PISA.md"
+      ],
+      "title": ""
     },
     "Sjøberg, 2015": {
       "doi": "",
@@ -110714,6 +110786,14 @@
         "wiki/persons/us/Ann Swidler.md",
         "wiki/theories/sociology-of-education/Culture as Toolkit.md",
         "wiki/theories/sociology-of-education/Dual-Process Model of Culture in Action.md"
+      ],
+      "title": ""
+    },
+    "Vaish, 2008": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md"
       ],
       "title": ""
     },

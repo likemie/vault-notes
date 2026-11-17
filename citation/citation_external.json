@@ -2524,6 +2524,7 @@
     "Biesta & Burbules (2003)": "Biesta & Burbules, 2003",
     "Biesta & Burbules, 2003": "Biesta & Burbules, 2003",
     "Biesta (2007)": "Biesta, 2007",
+    "Biesta (2009)": "Biesta, 2009",
     "Biesta (2011)": "Biesta, 2011",
     "Biesta (2013)": "Biesta, 2013",
     "Biesta (2015)": "Biesta, 2015",
@@ -2531,6 +2532,7 @@
     "Biesta et al. (2015)": "Biesta et al., 2015",
     "Biesta et al., 2015": "Biesta et al., 2015",
     "Biesta, 2007": "Biesta, 2007",
+    "Biesta, 2009": "Biesta, 2009",
     "Biesta, 2011": "Biesta, 2011",
     "Biesta, 2013": "Biesta, 2013",
     "Biesta, 2015": "Biesta, 2015",
@@ -3563,6 +3565,8 @@
     "Buhler & Allen, 1972": "Buhler & Allen, 1972",
     "Buljan et al. (2017)": "Buljan et al., 2017",
     "Buljan et al., 2017": "Buljan et al., 2017",
+    "Bulle (2011)": "Bulle, 2011",
+    "Bulle, 2011": "Bulle, 2011",
     "Bulmer (1982)": "Bulmer, 1982",
     "Bulmer, 1982": "Bulmer, 1982",
     "Bulris (2009)": "Bulris, 2009",
@@ -6111,6 +6115,8 @@
     "Demuth et al., 2008": "Demuth et al., 2008",
     "Denby (1997)": "Denby, 1997",
     "Denby, 1997": "Denby, 1997",
+    "Deng & Gopinathan (2016)": "Deng & Gopinathan, 2016",
+    "Deng & Gopinathan, 2016": "Deng & Gopinathan, 2016",
     "Deng & Yu (2023)": "Deng & Yu, 2023",
     "Deng & Yu, 2023": "Deng & Yu, 2023",
     "Deng (2009)": "Deng, 2009",
@@ -6473,6 +6479,8 @@
     "Dogan et al. (2023)": "Dogan et al., 2023",
     "Dogan et al., 2021": "Dogan et al., 2021",
     "Dogan et al., 2023": "Dogan et al., 2023",
+    "Dohn (2007)": "Dohn, 2007",
+    "Dohn, 2007": "Dohn, 2007",
     "Dolan (1993)": "Dolan, 1993",
     "Dolan (2020)": "Dolan, 2020",
     "Dolan, 1993": "Dolan, 1993",
@@ -11161,8 +11169,13 @@
     "Hofstede, 2011": "Hofstede, 2011",
     "Hogan (1999)": "Hogan, 1999",
     "Hogan (2000)": "Hogan, 2000",
+    "Hogan (2014)": "Hogan, 2014",
+    "Hogan et al. (2013)": "Hogan et al., 2013",
+    "Hogan et al., 2013": "Hogan et al., 2013",
     "Hogan, 1999": "Hogan, 1999",
     "Hogan, 2000": "Hogan, 2000",
+    "Hogan, 2014": "Hogan, 2014",
+    "Hogan, 2014a": "Hogan, 2014",
     "Hoge & Coladarci (1989)": "Hoge & Coladarci, 1989",
     "Hoge & Coladarci, 1989": "Hoge & Coladarci, 1989",
     "Hohn (2002)": "Hohn, 2002",
@@ -12659,6 +12672,8 @@
     "Kamenetzky, 1999": "Kamenetzky, 1999",
     "Kamens & McNeely (2010)": "Kamens & McNeely, 2010",
     "Kamens & McNeely, 2010": "Kamens & McNeely, 2010",
+    "Kamens (2014)": "Kamens, 2014",
+    "Kamens, 2014": "Kamens, 2014",
     "Kamin (1991)": "Kamin, 1991",
     "Kamin, 1991": "Kamin, 1991",
     "Kammerer et al. (2015)": "Kammerer et al., 2015",
@@ -22746,7 +22761,9 @@
     "Sjöo & Hellström, 2019": "Sjöo & Hellström, 2019",
     "Sjöwall (2017)": "Sjöwall, 2017",
     "Sjöwall, 2017": "Sjöwall, 2017",
+    "Sjøberg (2007)": "Sjøberg, 2007",
     "Sjøberg (2015)": "Sjøberg, 2015",
+    "Sjøberg, 2007": "Sjøberg, 2007",
     "Sjøberg, 2015": "Sjøberg, 2015",
     "Skedsmo & Møller (2016)": "Skedsmo & Møller, 2016",
     "Skedsmo & Møller, 2016": "Skedsmo & Møller, 2016",
@@ -25216,6 +25233,8 @@
     "Vahidi, 2017": "Vahidi, 2017",
     "Vaisey (2009)": "Vaisey, 2009",
     "Vaisey, 2009": "Vaisey, 2009",
+    "Vaish (2008)": "Vaish, 2008",
+    "Vaish, 2008": "Vaish, 2008",
     "Vaknin-Nusbaum (2017)": "Vaknin-Nusbaum, 2017",
     "Vaknin-Nusbaum, 2017": "Vaknin-Nusbaum, 2017",
     "Val D. Rust (1999)": "Val D. Rust, 1999",
@@ -40931,6 +40950,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
+        "wiki/concepts/comparative-education/High-Performing Education Systems.md",
         "wiki/concepts/comparative-education/Performative Turn.md",
         "wiki/persons/uk/Michael Barber.md"
       ],
@@ -46754,6 +46774,21 @@
         "wiki/concepts/sociology-of-education/Interactional Expertise.md",
         "wiki/concepts/teacher-education/Teacher Knowledge Base.md",
         "wiki/theories/educational-policy-reform/Research Utilization Models.md"
+      ],
+      "title": ""
+    },
+    "Biesta, 2009": {
+      "aliases": [
+        "Biesta, 2009",
+        "Biesta (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Biesta, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/High-Performing Education Systems.md"
       ],
       "title": ""
     },
@@ -54443,6 +54478,22 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Review of Education/Argument_Gorard_2020_ROE.md"
+      ],
+      "title": ""
+    },
+    "Bulle, 2011": {
+      "aliases": [
+        "Bulle, 2011",
+        "Bulle (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bulle, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Critique of PISA.md",
+        "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md"
       ],
       "title": ""
     },
@@ -73024,6 +73075,23 @@
       ],
       "title": ""
     },
+    "Deng & Gopinathan, 2016": {
+      "aliases": [
+        "Deng & Gopinathan, 2016",
+        "Deng & Gopinathan (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Deng & Gopinathan, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Critique of PISA.md",
+        "wiki/concepts/comparative-education/High-Performing Education Systems.md",
+        "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md"
+      ],
+      "title": ""
+    },
     "Deng & Yu, 2023": {
       "aliases": [
         "Deng & Yu, 2023",
@@ -75639,6 +75707,22 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effect of the Use of Six Thinking Hats Technique in Education on Academic Achievement: A Mixed-Meta Method Research."
+    },
+    "Dohn, 2007": {
+      "aliases": [
+        "Dohn, 2007",
+        "Dohn (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Dohn, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Critique of PISA.md",
+        "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md"
+      ],
+      "title": ""
     },
     "Dolan, 1993": {
       "aliases": [
@@ -110065,6 +110149,22 @@
       ],
       "title": ""
     },
+    "Hogan et al., 2013": {
+      "aliases": [
+        "Hogan et al., 2013",
+        "Hogan et al. (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hogan et al., 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/High-Performing Education Systems.md",
+        "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md"
+      ],
+      "title": ""
+    },
     "Hogan, 1999": {
       "aliases": [
         "Hogan, 1999",
@@ -110090,6 +110190,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-psychology/Practical Epistemology.md"
+      ],
+      "title": ""
+    },
+    "Hogan, 2014": {
+      "aliases": [
+        "Hogan, 2014",
+        "Hogan (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hogan, 2014a"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md"
       ],
       "title": ""
     },
@@ -111131,7 +111246,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Zhao_2020_JEC.md"
+        "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Zhao_2020_JEC.md",
+        "wiki/concepts/comparative-education/Critique of PISA.md"
       ],
       "title": ""
     },
@@ -120835,6 +120951,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md"
+      ],
+      "title": ""
+    },
+    "Kamens, 2014": {
+      "aliases": [
+        "Kamens, 2014",
+        "Kamens (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kamens, 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/High-Performing Education Systems.md"
       ],
       "title": ""
     },
@@ -189983,6 +190114,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md",
+        "wiki/concepts/comparative-education/High-Performing Education Systems.md",
         "wiki/concepts/political-economy-geopolitics/Media Logic.md",
         "wiki/facts/global/Teaching and Learning International Survey.md"
       ],
@@ -194249,6 +194381,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "No Long-Term Effect of Physical Activity Intervention on Working Memory or Arithmetic in Preadolescents"
+    },
+    "Sjøberg, 2007": {
+      "aliases": [
+        "Sjøberg, 2007",
+        "Sjøberg (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Sjøberg, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Critique of PISA.md"
+      ],
+      "title": ""
     },
     "Sjøberg, 2015": {
       "aliases": [
@@ -211984,6 +212131,21 @@
         "wiki/persons/us/Ann Swidler.md",
         "wiki/theories/sociology-of-education/Culture as Toolkit.md",
         "wiki/theories/sociology-of-education/Dual-Process Model of Culture in Action.md"
+      ],
+      "title": ""
+    },
+    "Vaish, 2008": {
+      "aliases": [
+        "Vaish, 2008",
+        "Vaish (2008)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Vaish, 2008"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md"
       ],
       "title": ""
     },
