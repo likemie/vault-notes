@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian_Ch06"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian_Ch06"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book-chapter"
-argument_related_count: 51
+argument_related_count: 54
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -67,6 +67,9 @@ related_concepts:
   - "[[Cultural Mismatch]]"
   - "[[Subaltern Cultural Capital]]"
   - "[[Class-Differentiated Help-Seeking]]"
+  - "[[Conspiracy of Reflexivity]]"
+  - "[[Burden of Acting White]]"
+  - "[[Counter-School Culture]]"
 related_theories:
   - "[[Rational Action Theory]]"
   - "[[Organizational Culture]]"
@@ -249,7 +252,7 @@ updated: 2026-11-18
 > [!sub-claim] 1. 入学初期面临大城市生活盲区与人际语码隔阂，集体主义校园文化能有效缓解这种疏离感
 
 > [!warrant] 文化脱嵌的生成机制与校园组织文化缓冲
-> [[Cultural Disembedding|文化脱嵌]]指弱势学子进入精英大学初期，因缺乏场域默认掌握的生活常识与社交技能而产生的物理与人际疏离。布迪厄将此状态比拟为离水之鱼 (Bourdieu & Passeron, 1977; Bourdieu & Wacquant, 1992; Collier & Morgan, 2008; Fordham & Ogbu, 1986; Lamont & Lareau, 1988; Lehmann, 2007; Li, 2013; Reay et al., 2009; Stephens et al., 2012; Willis, 1977; 周怡, 2004)。学生面临大都市公共设施使用盲区与大学数字操作障碍，并产生强烈的羞耻与边缘感。在社交层面，受访学生反映自身语码处理器失灵，无法准确解读教授与优势同辈的交往信号，退守于背景相似的同乡圈子，拉大了与大学主流资源的距离 (pp. 361–363)。
+> 教育社会学从[[Counter-School Culture|反学校文化]]到[[Burden of Acting White|“扮白人”负担]]，再到文化再生产与[[Cultural Mismatch|文化错配]]的谱系演进证实，学校教育系统隐性的文化要求与低阶层文化存在系统性不兼容。[[Cultural Disembedding|文化脱嵌]]指弱势学子进入精英大学初期，因缺乏场域默认掌握的生活常识与社交技能而产生的物理与人际疏离。布迪厄将此状态比拟为离水之鱼 (Bourdieu & Passeron, 1977; Bourdieu & Wacquant, 1992; Collier & Morgan, 2008; Fordham & Ogbu, 1986; Lamont & Lareau, 1988; Lehmann, 2007; Li, 2013; Reay et al., 2009; Stephens et al., 2012; Willis, 1977; 周怡, 2004)。学生面临大都市公共设施使用盲区与大学数字操作障碍，并产生强烈的羞耻与边缘感。在社交层面，受访学生反映自身语码处理器失灵，无法准确解读教授与优势同辈的交往信号，退守于背景相似的同乡圈子，拉大了与大学主流资源的距离 (pp. 361–363)。
 > 
 > 文化脱嵌的消解速度受到校园组织文化的显著调节：
 > - **南方大学** 学生文化崇尚自主与个体化社交，学院与班集体组织松散，归属感薄弱，寒门学子的文化脱嵌感更为强烈且持久。
@@ -273,7 +276,7 @@ updated: 2026-11-18
 > [!sub-claim] 2. 深层困境在于新旧自我冲突引发的目标迷茫，导致学生用埋头刷分和盲目保研逃避就业抉择
 
 > [!warrant] 习性裂化、认同危机与自保性勤奋的防御机制
-> 相对表层且易随时间缓解的文化脱嵌，第二重障碍[[Cultural Disorientation|文化迷失]]则更为深刻且持久。由于原初阶层生活史与名校主流环境存在巨大鸿沟，行动者在新旧生活方式的拉扯中陷入习性裂化（habitus clivé, Bourdieu, 1999），产生自我认同撕裂、自卑与身份多重化的内耗。学生普遍面临关于我是谁、想要什么、该干什么的定向危机，导致使用文化工具树立长远目标的能动性受到削弱 (Baxter & Britton, 2001; Calarco, 2011; Jin & Ball, 2019; Lareau, 2015; Lee & Kramer, 2013; 谢爱磊, 2016; pp. 363–364)。
+> 相对表层且易随时间缓解的文化脱嵌，第二重障碍[[Cultural Disorientation|文化迷失]]则更为深刻且持久。由于原初阶层生活史与名校主流环境存在巨大鸿沟，行动者在新旧生活方式的拉扯中陷入习性裂化（habitus clivé, Bourdieu, 1999），产生自我认同撕裂、自卑与身份多重化的内耗。学生普遍面临关于我是谁、想要什么、该干什么的定向危机，导致使用文化工具树立长远目标的能动性受到削弱 (Baxter & Britton, 2001; Calarco, 2011; Jin & Ball, 2019; Lareau, 2015; Lee & Kramer, 2013; 谢爱磊, 2016; pp. 363–364)。正如金津与鲍尔（Jin & Ball, 2019）所剖析，工薪阶层学生在精英大学中依靠过度自我监控换取“不稳定的成功”，极易演化为个体能动性反向拥护既有选拔秩序的[[Conspiracy of Reflexivity|自反性合谋]]。
 > 
 > 为应对这种自我认同危机，弱势学子普遍采取自保性勤奋策略：将精力完全局限于熟悉的应试[[Academic Achievement|学业成绩]]，以此维系优等生自尊，主动放弃参与课外社会性与实践活动。此种防御机制虽能获取一时的心理安全感，却掩盖了对真实[[Professional Interest|志趣]]的探索，促使学生在毕业关头未作审慎规划便仓促选择[[Recommendation-Based Graduate Admission System|推免]]直研以延缓就业决断 (pp. 364–365)。
 

@@ -9,6 +9,10 @@ aliases:
 summary: "少数族裔或底层弱势学生追求学业优异与采纳主流规范时，遭受原生同辈指责其背叛族群认同的社会心理压力与社群惩戒"
 type: concept
 domain: "sociology-of-education"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 confidence: high
 status: active
 created: 2026-11-18

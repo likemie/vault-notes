@@ -6,6 +6,10 @@ aliases:
 summary: "工薪阶层子弟通过崇尚体力男子气概、鄙视书本知识与反抗校纪建立的非正式亚文化，在主观抵制中吊诡地完成了向体力阶层的社会再生产"
 type: concept
 domain: "sociology-of-education"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 confidence: high
 status: active
 created: 2026-11-18
