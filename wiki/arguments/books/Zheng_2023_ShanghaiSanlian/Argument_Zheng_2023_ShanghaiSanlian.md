@@ -10,9 +10,9 @@ title: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"
-argument_related_count: 6
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 45
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#ede9fe"
 book_title: "金榜题名之后：大学生出路分化之谜"
 publication_place: 上海
@@ -31,12 +31,51 @@ tags:
   - habitus
   - region/china
   - level/higher-ed
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Goal-Controlled Mode]]"
+  - "[[Habitus Hysteresis]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Cultural Disembedding]]"
+  - "[[Cultural Disorientation]]"
+  - "[[Habitus Transformation]]"
+  - "[[Economy of Experience]]"
+  - "[[Work Meaning Schemas]]"
+  - "[[Graduation Pathway Typology]]"
+  - "[[Cultural Barrier]]"
+  - "[[Personal Myth]]"
+  - "[[Credential Inflation]]"
+  - "[[First-Generation College Student]]"
+  - "[[The Shock of the Elite]]"
+  - "[[Symbolic Boundary]]"
+  - "[[Academic Engagement]]"
+  - "[[Social Engagement]]"
+  - "[[Employability]]"
+  - "[[Self-Driven Mode]]"
+  - "[[Opportunist Mode]]"
+  - "[[Lost Mode]]"
+  - "[[Value Conformist Mode]]"
+  - "[[Habitus Divided Against Itself]]"
+  - "[[Cultural Capital]]"
+related_theories:
+  - "[[College Process Model]]"
+  - "[[Dual Elite Career Paths]]"
+related_methods:
+  - "[[Constructivist Grounded Theory]]"
+  - "[[Progressive Focussing]]"
+  - "[[In-depth Interview]]"
 related_instruments: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Raymond Boudon]]"
+  - "[[Didier Eribon]]"
+  - "[[Dan P. McAdams]]"
+  - "[[Anthony Abraham Jack]]"
+  - "[[James S. Coleman]]"
+  - "[[Pierre Bourdieu]]"
+  - "[[Phillip Brown]]"
+  - "[[Yajun Zheng]]"
+related_facts:
+  - "[[China College Graduate Employment Reform]]"
+  - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch01]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
@@ -86,34 +125,54 @@ updated: 2026-11-17
 
 > [!book-argument-map]- 全书论证图
 > ```mermaid
-> flowchart TD
->   A["宏观背景：高校扩招 + 毕业生双向选择改革 + 文凭通胀"] --> B["外部场域转换：劳动力市场转向履历经济学与软实力筛选"]
->   C["高校育人传统：德育使命与学术标准与市场竞争脱节"] --> D["校园迷宫确立：缺乏统一通达主路，暗含长周期筹码兑换门槛"]
->   B --> D
->   D --> E["大学过程分析框架：资本化过程 → 投入过程 → 价值选择过程"]
->   
->   subgraph GroupOrigin["家庭背景与先在习性 (起点)"]
->     E1["优势家庭：文化资本充足 + 素质教育探索"] --> F1["目标掌控模式：洞悉规则、前瞻规划、策略性行动"]
->     E2["弱势家庭：文化知识匮乏 + 县中题海高压"] --> F2["直觉依赖模式：习性滞后、目标失焦、依赖旧有勤奋惯性"]
+> flowchart LR
+>   subgraph Field["制度宏观与迷宫场域"]
+>     direction TB
+>     M1["扩招转轨与文凭通胀"] --> M2["雇主转向履历经济学"]
+>     M3["育人使命与德育传统"] --> M4["校内评价与市场脱节"]
+>     M2 & M4 --> Maze["大学校园迷宫：<br>隐性筹码竞争"]
 >   end
->   E --> GroupOrigin
->   
->   subgraph GroupCollege["在校精力配置与行动分化 (过程)"]
->     F1 --> G1["学业投入：工具性绩点管理，控制精力成本<br>社会性投入：实习履历包装、高阶社交与演绎资本积累"]
->     F2 --> G2["学业投入：盲目苦读课业，缺乏策略性选课<br>社会性投入：遭遇文化语码壁垒，人际回避与实习匮乏"]
->     G2 -.育婴室再社会化与文化移入.-> G3["部分学生完成习性转换，重塑掌控力"]
+> 
+>   subgraph AdvPath["优势路径：目标掌控与市场兑现"]
+>     direction TB
+>     AdvOrig["优势家庭资本 + 素质教育"] --> ModeGC["目标掌控模式<br>(前瞻规划 · 洞悉规则)"]
+>     ModeGC --> ActGC_A["学业：工具性绩点管理"]
+>     ModeGC --> ActGC_S["社交：实习履历与表现性资本"]
+>     ActGC_A & ActGC_S --> MeaningAdv["工作意义：个体趣味 / 财务自由"]
+>     MeaningAdv --> OutSD["自主驱动者<br>(高薪名企 · 海外深造)"]
+>     MeaningAdv --> OutOP["机会主义者<br>(热门世俗职位)"]
 >   end
->   
->   subgraph GroupOutcome["意义图式与出路分化 (关底)"]
->     H1["工作意义三角图式：地位保障/家庭责任 vs 家国理想/社会价值 vs 自我表达/个体趣味"]
->     G1 & G2 & G3 --> H1
->     H1 --> I["2×2 毕业出路四分类模型：<br>① 自主驱动者 (高行动力+强信念: 理想职业/海外深造)<br>② 机会主义者 (高行动力+弱信念: 热门高薪/世俗职位)<br>③ 价值归顺者 (低行动力+强信念: 体制赞助性流动/选调科研)<br>④ 迷失无从者 (低行动力+弱信念: 被动就业/仓促考研直博)"]
+> 
+>   subgraph DisPath["弱势路径：直觉依赖与文化障碍"]
+>     direction TB
+>     DisOrig["工农家庭 + 县中题海高压"] --> ModeID["直觉依赖模式<br>(习性滞后 · 盲目应试)"]
+>     ModeID --> ActID_A["学业：单向度盲目苦读"]
+>     ModeID --> ActID_S["社交：文化语码失灵与回避"]
+>     ActID_A & ActID_S --> DoubleBarrier["二重文化障碍：<br>• 短期文化脱嵌<br>• 长期文化迷失 / 习性裂化"]
+>     DoubleBarrier --> OutLost["迷失无从者<br>(被动求职 · 仓促考研直博)"]
 >   end
->   
->   subgraph GroupBreakthrough["深层反思与突围路径 (超越)"]
->     I --> J["寒门学子的二重文化障碍：<br>• 表层短期：文化脱嵌 (生活常识盲区与社交语码失灵)<br>• 深层长期：文化迷失 (习性裂化、认同危机与自保性勤奋)"]
->     J --> K["四重自反性突围路径：<br>处境去病理化 + 拓展异质网络 + 编织个人神话 + 原生文化使者转化<br>+ 高校守门者制度支持责任"]
+> 
+>   subgraph NonLinear["非线性机制与分流枢纽"]
+>     direction TB
+>     Conv["育婴室机制：<br>文化移入与习性转换"]
+>     Spons["体制赞助性流动：<br>二元精英国家轨道"]
+>     Reflex["自反性叙事突围：<br>去病理化 + 编织个人神话 + 文化使者转化"]
 >   end
+> 
+>   %% 场域作用于阶层起点
+>   Maze --> AdvOrig
+>   Maze --> DisOrig
+> 
+>   %% 非线性跨轨分支与系统反馈
+>   ActID_S --"高阶社会性实践"--> Conv
+>   Conv --"重获掌控力"--> ModeGC
+> 
+>   ActID_A --"内化家国奉献伦理"--> Spons
+>   Spons --> OutVC["价值归顺者<br>(基层选调 · 国防科研)"]
+> 
+>   DoubleBarrier --> Reflex
+>   Reflex --"重构生命连续性"--> OutSD
+>   Reflex --"打破再生产循环"-.制度守门者支持.-> Maze
 > ```
 
 ---
@@ -121,12 +180,12 @@ updated: 2026-11-17
 > [!textbook-overview] 章节导航与论证功能
 > | 章节 | 内容概要 | 主要关联条目 |
 > |---|---|---|
-> | [[Argument_Zheng_2023_ShanghaiSanlian_Ch01\|第一章 迷宫]] | 梳理中国高等教育扩招与就业市场化转轨的历史背景，阐明文凭通胀促使雇主筛选转向履历经济学，揭示大学内部立德树人与外部市场筛选脱节如何将大学塑造为布满隐性筹码兑换门槛的迷宫。 | [[Credential Inflation]]、[[Economy of Experience]]、[[Dual Elite Career Paths]]、[[China College Graduate Employment Reform]]、[[Recommendation-Based Graduate Admission System]] |
-> | [[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|第二章 视角]] | 系统建构由资本化、投入和价值选择三层嵌套的大学过程分析框架，并交代选取南北两所顶尖大学 62 名毕业班学生进行纵向追踪的建构主义扎根理论研究设计。 | [[College Process Model]]、[[First-Generation College Student]]、[[Constructivist Grounded Theory]]、[[Progressive Focussing]] |
-> | [[Argument_Zheng_2023_ShanghaiSanlian_Ch03\|第三章 家境]] | 提炼目标掌控与直觉依赖两类组织大学生活的实践图式，从中学教育生态、父母参与模式、专业志愿填报以及初入名校的文化震荡追溯其阶层养成机制与道德象征边界。 | [[Goal-Controlled Mode]]、[[Intuition-Dependent Mode]]、[[The Shock of the Elite]]、[[Symbolic Boundary]] |
-> | [[Argument_Zheng_2023_ShanghaiSanlian_Ch04\|第四章 努力]] | 深入比较两类实践模式在学业绩点管理与课外社会性投入上的策略分歧，揭示弱势学子面临的文化语码壁垒，并阐述大学作为育婴室如何促成部分学生的习性转换与策略升级。 | [[Academic Engagement]]、[[Social Engagement]]、[[Employability]]、[[Cultural Barrier]]、[[Habitus Transformation]] |
-> | [[Argument_Zheng_2023_ShanghaiSanlian_Ch05\|第五章 方向]] | 归纳名校生理解工作意义的三角文化图式（地位保障、家国理想、自我表达）及其竞争性张力，结合目的-手段行动力与价值信念提出 2×2 毕业出路四分类模型，展现二元精英路径下体制赞助性流动对弱势学子的支持功能。 | [[Work Meaning Schemas]]、[[Graduation Pathway Typology]]、[[Self-Driven Mode]]、[[Opportunist Mode]]、[[Lost Mode]]、[[Value Conformist Mode]] |
-> | [[Argument_Zheng_2023_ShanghaiSanlian_Ch06\|第六章 余论]] | 反思主流地位获得理论忽视能动性的局限，解构寒门学子遭遇的二重文化障碍（文化脱嵌与文化迷失），提出包含个人神话重构在内的四重自反性突围路径，明确高校守门者责任，并收录生活史反思与推断边界。 | [[Cultural Barrier]]、[[Cultural Disembedding]]、[[Cultural Disorientation]]、[[Habitus Divided Against Itself]]、[[Personal Myth]]、[[Raymond Boudon]]、[[Didier Eribon]]、[[Dan P. McAdams]] |
+> | [[Argument_Zheng_2023_ShanghaiSanlian_Ch01\|第一章 迷宫]] | 故事从高考“金榜题名”神话面临现实冲击起笔。在毕业生双向选择改革与 1999 年高等教育大扩招的历史转轨下，高校文凭数量激增引发文凭通货膨胀，文凭的绝对信号功能显著弱化，促使雇主筛选转向以实习履历、人际社交与综合素质为核心的“履历经济学”。然而，中国重点大学恪守立德树人育人传统，使得校内好学生评价标准与外部市场用人法则产生深刻脱节，校园演变为缺乏统一路线指引的制度迷宫。海外深造、国内升学与协议求职三大出口均将考核筹码前置到大一至大三，且高度依托家庭文化资本与长程规划，使得寒门学子在入校后往往陷入筹码积累的滞后与被动。 | [[Credential Inflation]]、[[Economy of Experience]]、[[Dual Elite Career Paths]]、[[China College Graduate Employment Reform]]、[[Recommendation-Based Graduate Admission System]] |
+> | [[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|第二章 视角]] | 面对名校优等生出路分化的现实谜题，全书在方法论上突破将教育简化为文凭与年限的传统地位获得量化黑箱，转向关注学生在校真实经历的文化社会学过程视角。研究建构起由“资本化过程”（家庭资源向大学文化资本转化）、“投入过程”（学业与社会性投入配置）以及“价值选择过程”（工作意义与生涯信念赋权）三层同心嵌套的大学过程分析框架。在经验材料上选取分别代表工科集体主义与人文通识情怀的南北两所顶尖大学，对 62 名毕业班学生展开两阶段半结构式深度跟踪访谈，并融入研究者十年寒门求学生活史的自反性思考，运用建构主义扎根理论循环比对个案经验与理论构念，揭开名校出路生产的微观机制。 | [[College Process Model]]、[[First-Generation College Student]]、[[Constructivist Grounded Theory]]、[[Progressive Focussing]]、[[Analytic Framework]] |
+> | [[Argument_Zheng_2023_ShanghaiSanlian_Ch03\|第三章 家境]] | 循着大学过程的第一层深入，故事回溯至学生的家庭出身与中学生涯生态，提炼出组织大学生活的两类理想型实践图式。东部大城市中产家庭子女在素质教育与宽裕家境滋养下，早早形成审视权威的批判意识与前瞻规划能力，入校即展现出洞悉规则、先定目标再展开行动的“目标掌控模式”。来自中西部县中与工农家庭的第一代大学生，历经封闭式题海高压与严格作息管控，将优异考试分数视作改变命运的唯一支点；跨入多元自主的名校后遭遇显著的习性滞后与文化性知识匮乏，陷入目标失焦、仅凭旧有勤奋惯性行动的“直觉依赖模式”。两类学生更在道德上划定象征边界，掌控者崇尚自我负责与机巧，依赖者坚守纯真踏实而排斥策略运作。 | [[Goal-Controlled Mode]]、[[Intuition-Dependent Mode]]、[[The Shock of the Elite]]、[[Symbolic Boundary]]、[[Habitus Hysteresis]] |
+> | [[Argument_Zheng_2023_ShanghaiSanlian_Ch04\|第四章 努力]] | 带着截然相异的实践图式，两类学生在四年大学生活的精力配置中展开了决定胜负的分化对决。在学业投入上，掌控者视成绩为资源准入门槛，精明核算边际效用并调用选课技巧保住绩点安全底线，腾出充裕精力探索职业；依赖者则视学业为核心安全感来源，秉持纯粹好学生伦理盲目苦读，却在缺乏策略规划中丢失成绩优势。在社会性投入上，掌控者通过社团、实习与高阶人际网络，在碰壁试错中聚焦职业志向，锻造雇主看重的表现性资本与商务仪态；依赖者则因阶层习性与名校文化语码不适配，遭遇社交融入挫折与心理退缩，退守同质圈子。然而，大学作为具有密集再社会化功能的育婴室，借助师生密切研讨与科研实践，促使约半数依赖者完成文化移入与习性转换，重塑自主掌控力。 | [[Academic Engagement]]、[[Social Engagement]]、[[Employability]]、[[Cultural Barrier]]、[[Habitus Transformation]] |
+> | [[Argument_Zheng_2023_ShanghaiSanlian_Ch05\|第五章 方向]] | 临近毕业关头，学生必须回答工作意义与去向何方的终极追问，出路竞争由此进入价值信念的碰撞高潮。访谈归纳出名校生理解工作意义的三大文化图式：家庭期望的地位保障与反哺责任、学校倡导的家国理想与公共奉献，以及市场激发的自我表达与个体趣味。优势家庭学生多以内化价值罗盘导引选择，在自娱趣味与体面责任间协调次序；弱势家庭学子则不得不反复承受家庭生计与理想奉献的深层拉扯。整合目的-手段行动力与价值信念驱动力，全书提出 2×2 毕业出路四分类模型：高行动力与强信念的“自主驱动者”斩获顶级外企与海外深造；高行动力但弱信念的“机会主义者”随行就市追逐热门高薪；而低行动力但深植体制情怀的“价值归顺者”，则依托大学与国家体制联动的赞助性流动进入基层选调、国企或军工科研，走出一条独特的向上流动通道；唯有兼陷两重匮乏的“迷失无从者”被迫仓促升学或延迟毕业。 | [[Work Meaning Schemas]]、[[Graduation Pathway Typology]]、[[Self-Driven Mode]]、[[Opportunist Mode]]、[[Lost Mode]]、[[Value Conformist Mode]] |
+> | [[Argument_Zheng_2023_ShanghaiSanlian_Ch06\|第六章 余论]] | 全书故事最终上升至理论反思与现实关怀的终局。研究批判了理性选择学说抹杀工具理性阶层差异的局限，论证了非物质利益的价值理性在二元精英流动中的导引功能。针对寒门学子最深沉的发展困境，全书系统诊断出二重文化障碍：入校初期面临大都市常识盲区与社交语码失灵的表层短期“文化脱嵌”，以及跨越场域激发的习性裂化、自我撕裂与以刷题掩盖焦虑的深层长期“文化迷失”。面对这一困境，全书提出个体层面的四重自反性突围路径：认知去病理化、拓展异质网络、编织个人神话叙事重构生命连续性，并将底层经验升华为反哺社会的文化使者资产；同时明确呼吁高校将生涯辅导前移至大一，消除非制度化准入门槛，让大学真正践行使学生免受社会出身制约的使命。 | [[Cultural Barrier]]、[[Cultural Disembedding]]、[[Cultural Disorientation]]、[[Habitus Divided Against Itself]]、[[Personal Myth]]、[[Raymond Boudon]]、[[Didier Eribon]]、[[Dan P. McAdams]] |
 
 ---
 
@@ -192,7 +251,7 @@ updated: 2026-11-17
 ---
 
 > [!ref-table] 原创概念和理论
-> | 术语 | 作者界定 |
+> | 术语 | 原创界定与内涵 |
 > |---|---|
 > | **[[Goal-Controlled Mode\|目标掌控模式]]** | 借由优势家庭文化资本，行动者深刻洞悉大学场域与就业市场隐性规则，先立自主生涯目标再展开行动，策略性规划学业与社会性投入，把日常努力高效兑现为未来出路筹码的实践图式。（第三章，pp. 65–74） |
 > | **[[Intuition-Dependent Mode\|直觉依赖模式]]** | 因文化性知识匮乏与习性滞后，行动者面对名校场域陷入目标失焦与被动适应状态，依赖高中单向度苦学旧习与直觉组织大学生活，努力难以转化为竞争优势的实践图式。（第三章，pp. 65–74） |

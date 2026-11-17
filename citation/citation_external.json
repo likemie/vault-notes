@@ -5593,8 +5593,10 @@
     "Csapó, 1992": "Csapó, 1992",
     "Csikszentmihalyi (1990)": "Csikszentmihalyi, 1990",
     "Csikszentmihalyi, 1990": "Csikszentmihalyi, 1990",
+    "Cuban (1984)": "Cuban, 1984",
     "Cuban (1986)": "Cuban, 1986",
     "Cuban (1992)": "Cuban, 1992",
+    "Cuban, 1984": "Cuban, 1984",
     "Cuban, 1986": "Cuban, 1986",
     "Cuban, 1992": "Cuban, 1992",
     "Cui & Zheng (2018)": "Cui & Zheng, 2018",
@@ -5811,9 +5813,11 @@
     "Darley & Latané, 1968": "Darley & Latané, 1968",
     "Darling-Hammond (1995)": "Darling-Hammond, 1995",
     "Darling-Hammond (2004)": "Darling-Hammond, 2004",
+    "Darling-Hammond (2010)": "Darling-Hammond, 2010",
     "Darling-Hammond (2012)": "Darling-Hammond, 2012",
     "Darling-Hammond, 1995": "Darling-Hammond, 1995",
     "Darling-Hammond, 2004": "Darling-Hammond, 2004",
+    "Darling-Hammond, 2010": "Darling-Hammond, 2010",
     "Darling-Hammond, 2012": "Darling-Hammond, 2012",
     "Darmawansah et al. (2025)": "Darmawansah et al., 2025",
     "Darmawansah et al., 2025": "Darmawansah et al., 2025",
@@ -6115,8 +6119,6 @@
     "Demuth et al., 2008": "Demuth et al., 2008",
     "Denby (1997)": "Denby, 1997",
     "Denby, 1997": "Denby, 1997",
-    "Deng & Gopinathan (2016)": "Deng & Gopinathan, 2016",
-    "Deng & Gopinathan, 2016": "Deng & Gopinathan, 2016",
     "Deng & Yu (2023)": "Deng & Yu, 2023",
     "Deng & Yu, 2023": "Deng & Yu, 2023",
     "Deng (2009)": "Deng, 2009",
@@ -13084,9 +13086,11 @@
     "Kenichi Ohmae, 1990": "Kenichi Ohmae, 1990",
     "Kennedy (1982)": "Kennedy, 1982",
     "Kennedy (2002)": "Kennedy, 2002",
+    "Kennedy (2010)": "Kennedy, 2010",
     "Kennedy, 1982": "Kennedy, 1982",
     "Kennedy, 1982b": "Kennedy, 1982",
     "Kennedy, 2002": "Kennedy, 2002",
+    "Kennedy, 2010": "Kennedy, 2010",
     "Kennet & Thyregod (2006)": "Kennet & Thyregod, 2006",
     "Kennet & Thyregod, 2006": "Kennet & Thyregod, 2006",
     "Kenneth Arrow (1962)": "Kenneth Arrow, 1962",
@@ -16749,6 +16753,7 @@
     "Meyer (1970)": "Meyer, 1970",
     "Meyer (1971)": "Meyer, 1971",
     "Meyer (1977)": "Meyer, 1977",
+    "Meyer (1980)": "Meyer, 1980",
     "Meyer (1989)": "Meyer, 1989",
     "Meyer (2002)": "Meyer, 2002",
     "Meyer (2010)": "Meyer, 2010",
@@ -16767,6 +16772,7 @@
     "Meyer, 1970": "Meyer, 1970",
     "Meyer, 1971": "Meyer, 1971",
     "Meyer, 1977": "Meyer, 1977",
+    "Meyer, 1980": "Meyer, 1980",
     "Meyer, 1989": "Meyer, 1989",
     "Meyer, 2002": "Meyer, 2002",
     "Meyer, 2010": "Meyer, 2010",
@@ -24107,6 +24113,7 @@
     "Tan & Cho (2021)": "Tan & Cho, 2021",
     "Tan & Cho, 2021": "Tan & Cho, 2021",
     "Tan (2007)": "Tan, 2007",
+    "Tan (2011)": "Tan, 2011",
     "Tan (2016)": "Tan, 2016",
     "Tan (2017)": "Tan, 2017",
     "Tan (2022)": "Tan, 2022",
@@ -24126,6 +24133,7 @@
     "Tan et al., 2021": "Tan et al., 2021",
     "Tan et al., 2023": "Tan et al., 2023",
     "Tan, 2007": "Tan, 2007",
+    "Tan, 2011": "Tan, 2011",
     "Tan, 2016": "Tan, 2016",
     "Tan, 2017": "Tan, 2017",
     "Tan, 2022": "Tan, 2022",
@@ -31959,6 +31967,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md",
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/concepts/comparative-education/Comparative Pedagogy.md"
       ],
       "title": ""
@@ -40949,6 +40958,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Barrenechea_2023_JEC.md",
         "wiki/concepts/comparative-education/High-Performing Education Systems.md",
         "wiki/concepts/comparative-education/Performative Turn.md",
@@ -46788,6 +46798,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/concepts/comparative-education/High-Performing Education Systems.md"
       ],
       "title": ""
@@ -54492,6 +54503,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/concepts/comparative-education/Critique of PISA.md",
         "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md"
       ],
@@ -69190,6 +69202,21 @@
       ],
       "title": ""
     },
+    "Cuban, 1984": {
+      "aliases": [
+        "Cuban, 1984",
+        "Cuban (1984)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Cuban, 1984"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+      ],
+      "title": ""
+    },
     "Cuban, 1986": {
       "aliases": [
         "Cuban, 1986",
@@ -70808,6 +70835,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-policy-reform/Test-Based Accountability.md"
+      ],
+      "title": ""
+    },
+    "Darling-Hammond, 2010": {
+      "aliases": [
+        "Darling-Hammond, 2010",
+        "Darling-Hammond (2010)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Darling-Hammond, 2010"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
       ],
       "title": ""
     },
@@ -73072,23 +73114,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-philosophy/Cultural Relativism.md"
-      ],
-      "title": ""
-    },
-    "Deng & Gopinathan, 2016": {
-      "aliases": [
-        "Deng & Gopinathan, 2016",
-        "Deng & Gopinathan (2016)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Deng & Gopinathan, 2016"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/comparative-education/Critique of PISA.md",
-        "wiki/concepts/comparative-education/High-Performing Education Systems.md",
-        "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md"
       ],
       "title": ""
     },
@@ -105860,6 +105885,7 @@
       "isbn": "978-0-415-47618-8",
       "seen_in": [
         "wiki/arguments/journal-articles/Australian Journal of Language and Literacy/Argument_OConnor_2020_AJLL.md",
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/arguments/journal-articles/Critical Education/Argument_Johnson_2023_CritEduc.md",
         "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md",
         "wiki/arguments/journal-articles/Journal of Education & Social Policy/Argument_Blass_2020_JESP.md",
@@ -105897,8 +105923,7 @@
         "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md",
         "wiki/concepts/instruction-pedagogy/Student-Teacher Relationship.md",
         "wiki/concepts/instruction-pedagogy/Teacher Clarity.md",
-        "wiki/concepts/instruction-pedagogy/Whole Language.md",
-        "wiki/concepts/instruction-pedagogy/Zone of Desired Effects.md"
+        "wiki/concepts/instruction-pedagogy/Whole Language.md"
       ],
       "title": "Visible learning: A synthesis of over 800 meta-analyses relating to achievement"
     },
@@ -110160,6 +110185,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/concepts/comparative-education/High-Performing Education Systems.md",
         "wiki/concepts/instruction-pedagogy/Hybrid Pedagogy.md"
       ],
@@ -123975,6 +124001,21 @@
       ],
       "title": ""
     },
+    "Kennedy, 2010": {
+      "aliases": [
+        "Kennedy, 2010",
+        "Kennedy (2010)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kennedy, 2010"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+      ],
+      "title": ""
+    },
     "Kennet & Thyregod, 2006": {
       "aliases": [
         "Kennet & Thyregod, 2006",
@@ -137570,6 +137611,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/concepts/educational-policy-reform/Policy Mobility.md"
       ],
       "title": ""
@@ -150349,6 +150391,21 @@
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Boyadjieva_2022_Springer.md",
         "wiki/concepts/higher-education/Social Charter.md"
+      ],
+      "title": ""
+    },
+    "Meyer, 1980": {
+      "aliases": [
+        "Meyer, 1980",
+        "Meyer (1980)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Meyer, 1980"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
       ],
       "title": ""
     },
@@ -190113,6 +190170,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md",
         "wiki/concepts/comparative-education/High-Performing Education Systems.md",
         "wiki/concepts/political-economy-geopolitics/Media Logic.md",
@@ -194393,6 +194451,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/concepts/comparative-education/Critique of PISA.md"
       ],
       "title": ""
@@ -199985,7 +200044,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
+        "wiki/concepts/higher-education/First-Generation College Student.md"
       ],
       "title": "A Cultural Mismatch: Independent Cultural Norms Produce Greater Increases in Cortisol and More Negative Emotions Among First-Generation College Students"
     },
@@ -204124,6 +204184,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Group Investigation Effects on Achievement, Motivation, and Perceptions of Students in Singapore"
+    },
+    "Tan, 2011": {
+      "aliases": [
+        "Tan, 2011",
+        "Tan (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Tan, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+      ],
+      "title": ""
     },
     "Tan, 2016": {
       "aliases": [

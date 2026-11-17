@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Zheng_2023_ShanghaiSanlian",
+      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian.md"
+    },
+    {
       "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch06",
       "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md"
     },
     {
-      "basename": "Argument_Zheng_2023_ShanghaiSanlian",
-      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian.md"
+      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch05",
+      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md"
+    },
+    {
+      "basename": "template-argument-monograph",
+      "path": "wiki/templates/template-argument-monograph.md"
     },
     {
       "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch03",
@@ -15,10 +23,6 @@
     {
       "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch02",
       "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
-    },
-    {
-      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch05",
-      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch05.md"
     },
     {
       "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch04",
@@ -195,10 +199,6 @@
     {
       "basename": "VALIDATION",
       "path": "file:/Users/shaoyangwu/Documents/zhangyue/VALIDATION.md"
-    },
-    {
-      "basename": "Principium Individuationis",
-      "path": "wiki/concepts/educational-philosophy/Principium Individuationis.md"
     }
   ],
   "omittedPaths": [],
