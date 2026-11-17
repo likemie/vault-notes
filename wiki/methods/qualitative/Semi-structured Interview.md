@@ -8,9 +8,9 @@ summary: "在预先准备的话题提纲与开放式追问之间取得平衡的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 55
-method_related_level: 5
-method_related_stars: "💎⭐⭐"
+method_related_count: 60
+method_related_level: 6
+method_related_stars: "💎💎"
 method_related_color: "#dbeafe"
 cssclasses:
   - method-manual
@@ -27,10 +27,12 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Reflexivity]]"
   - "[[Reliability]]"
+  - "[[Cultural Capital]]"
   - "[[Original Innovation Capability]]"
   - "[[Visible Learning]]"
   - "[[University-Industry Collaboration]]"
   - "[[Soft Power]]"
+  - "[[International Branch Campus]]"
   - "[[Study Abroad]]"
   - "[[Learning Crisis]]"
   - "[[Discourse]]"
@@ -43,6 +45,7 @@ related_methods:
   - "[[Grounded Theory]]"
   - "[[Focus Group]]"
   - "[[Content Analysis]]"
+  - "[[Progressive Focussing]]"
   - "[[Probes]]"
   - "[[Sensitive Questions]]"
   - "[[Transcription in Qualitative Research]]"
@@ -55,6 +58,7 @@ related_methods:
   - "[[Classroom Observation]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch01]]"
   - "[[Argument_Mo_2026_BNSFC]]"
   - "[[Argument_Torres_2022_BarriersMechanisms]]"
   - "[[Argument_Kelly_2025_ROE]]"
@@ -62,6 +66,7 @@ related_arguments:
   - "[[Argument_Logar_2014_Minerva]]"
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Zhu_Yang_2023_HEP]]"
+  - "[[Argument_He_2018_HEP]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
   - "[[Argument_Chou_2017_PolSoc]]"
   - "[[Argument_Skipp_Tanner_2015_EEF]]"
@@ -108,7 +113,7 @@ updated: 2026-11-17
 > - **研究设计** [[Qualitative Research\|质性研究]]、[[Case Study\|案例研究]]、[[Grounded Theory\|扎根理论]]
 > - **数据收集** [[Interview Protocol\|访谈提纲]]、一对一访谈、[[Focus Group\|焦点小组]]
 > - **分析方法** 编码、主题分析、[[Content Analysis\|内容分析]]
-> - **辅助技术** 追问、[[Pilot Testing\|预测试]]、渐进式聚焦法
+> - **辅助技术** 追问、[[Pilot Testing\|预测试]]、[[Progressive Focussing|渐进式聚焦]]法
 
 ---
 
@@ -162,7 +167,7 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch01|郑雅君 (2023, Ch. 1)]] — 对南北两所重点大学 62 名毕业班学生开展平均 3 小时的半结构化跟踪访谈，考察家庭背景与文化资本在高等教育过程中的转化机制。
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch01|郑雅君 (2023, Ch. 1)]] — 对南北两所重点大学 62 名毕业班学生开展平均 3 小时的半结构化跟踪访谈，考察家庭背景与[[Cultural Capital|文化资本]]在高等教育过程中的转化机制。
 > - [[Argument_Mo_2026_BNSFC|莫申江等 (2026)]] — 在[[Exploratory Sequential Design|探索性序列设计]]第一阶段对 14 位取得[[Original Innovation Capability|原始创新突破]]的青年拔尖人才开展一对一半结构化访谈（单次 60～120 分钟），系统提炼学术职业早期的六重两难抉择。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21)]] — 系统介绍了半结构化[[Interview Protocol|访谈提纲]]的构建，包括问题格式、回答模式、提示与追问的设计原则。
 > - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a, p. 107)]] — 在[[OECD|经合组织]]（OECD）跨国政策调查中，针对 6 个入选典型国家开展跟进半结构化访谈，对自陈[[Questionnaire|问卷]]反映出的机制与阻碍障壁（如新西兰资金倾斜、斯洛文尼亚部委思维重塑、南非机制嵌入等）进行定性深挖与三角核实。
@@ -171,7 +176,7 @@ updated: 2026-11-17
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014, p. 240)]] — 在[[Semiconductor Research Corporation|SRC]]单机构[[Case Study|案例研究]]中访谈 19 名总裁、主管、成员企业代表与受资助学者，考察[[University-Industry Collaboration|产学合作]]联合体的决策与治理特征。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012, pp. 336, 341–342)]] — 运用半结构化访谈针对[[HM Treasury|英国财政部]]、教育与就业部（DfEE）高级公务员、“新政”特别工作组成员及美国 [[MDRC]] 智库专家展开调研，解构官僚行动者在跨国政策搜寻中采纳美国证据与评估技术的幕后决策逻辑。
 > - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023, pp. 640–644)]] — 针对中柬高等教育合作项目的 40 位柬埔寨知情人开展半结构化访谈，结合四类参与实践全面考察[[Soft Power|软实力]]认知与评估。
-> - [[Argument_He_2018_HEP|He and Wilkins (2018, pp. 326–327)]] — 在老挝、马来西亚与泰国的 3 所中国大学国际分校对 16 位管理者、教师与学生开展半结构化访谈，以霍利克软实力指标为框架，对校区地位与求学动因展开多利益主体质性透视。
+> - [[Argument_He_2018_HEP|He and Wilkins (2018, pp. 326–327)]] — 在老挝、马来西亚与泰国的 3 所中国大学[[International Branch Campus|国际分校]]对 16 位管理者、教师与学生开展半结构化访谈，以霍利克软实力指标为框架，对校区地位与求学动因展开多利益主体质性透视。
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025, pp. 1047–1048)]] — 在金边及在华针对 40 位关键知情人（涵盖中柬高教项目管理者、[[Confucius Institute|孔子学院]]教职员、[[Study Abroad|留学]]生及第三方外援项目协调人）开展半结构化[[In-depth Interview|深度访谈]]，通过平衡利益相关者与转岗/对比官员视角，解构对外高教合作的落地成效与深层张力。
 > - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017, pp. 147–148)]] — 在曼谷、雅加达、新加坡与布鲁塞尔针对[[ASEAN|东盟]]秘书处、高教中心与[[EU|欧盟]]官员开展 53 场匿名半结构化访谈，通过双人独立笔录与跨个案比对揭示跨国政策理念互动。
 

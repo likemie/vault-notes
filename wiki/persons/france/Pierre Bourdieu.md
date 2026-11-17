@@ -10,10 +10,10 @@ cssclasses:
   - person-page
 nationality: france
 person_region: "france"
-person_related_count: 57
-person_related_level: 5
-person_related_stars: "💎⭐⭐"
-person_related_color: "#ffedd5"
+person_related_count: 61
+person_related_level: 6
+person_related_stars: "💎💎"
+person_related_color: "#fef3c7"
 born: "1930"
 died: "2002"
 lifespan: "1930–2002"
@@ -37,24 +37,25 @@ related_concepts:
   - "[[Epistemological Break]]"
   - "[[Doxa]]"
   - "[[Liberalization]]"
-  - "[[Interaction Effect]]"
+  - "[[Familiarization]]"
+  - "[[Performativity]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Discourse]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Cultural Disembedding]]"
+  - "[[Cultural Disorientation]]"
   - "[[Paradigm]]"
   - "[[Global Educational Policy Field]]"
   - "[[Epistemological Vigilance]]"
-  - "[[Discourse]]"
   - "[[Transnational Education]]"
-  - "[[Intuition-Dependent Mode]]"
   - "[[School Choice]]"
   - "[[School Leadership]]"
-  - "[[Performativity]]"
-  - "[[Knowledge-Based Economy]]"
-  - "[[Goal-Controlled Mode]]"
-  - "[[Cultural Disembedding]]"
-  - "[[Cultural Disorientation]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Self Explanation]]"
   - "[[Determinism]]"
   - "[[Scientific Method]]"
+  - "[[Habitus Divided Against Itself]]"
   - "[[Positivism]]"
   - "[[Praxis]]"
   - "[[Creative Self-Efficacy]]"
@@ -68,6 +69,8 @@ related_methods:
   - "[[Descriptive Analysis]]"
   - "[[Analytic Framework]]"
 related_persons:
+  - "[[Karl Marx]]"
+  - "[[Jean-Paul Sartre]]"
   - "[[Claude Lévi-Strauss]]"
   - "[[Yajun Zheng]]"
   - "[[Bob Lingard]]"
@@ -75,9 +78,10 @@ related_persons:
   - "[[Bruno Latour]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
-  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Eacott_2015_EPT]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch04]]"
   - "[[Argument_Teng_2025_CE]]"
   - "[[Argument_Eacott_2011_JEAH]]"
   - "[[Argument_Schulze-Cleven_2017_HE]]"
@@ -105,7 +109,7 @@ updated: 2026-11-17
 
 > [!timeline] 生平与职涯
 > - **1930** 出生于法国 Béarn 地区 Denguin 小镇，普通底层家庭传统出身使其始终对阶层流动、选拔制度和文化合法性问题保持敏感。
-> - **1951–1954** 就读巴黎高等[[Normal School|师范学院]]，接受系统哲学训练。在存在主义与马克思主义占主导的学术环境中，转向历史与[[Epistemology|认识论]]研究。
+> - **1951–1954** 就读巴黎高等[[Normal School|师范学院]]，接受系统哲学训练。在存在主义与[[Karl Marx|马克思]]主义占主导的学术环境中，转向历史与[[Epistemology|认识论]]研究。
 > - **1955–1960** 前往阿尔及利亚服兵役，随后在此开展[[Ethnography|民族志]]调查并任助教。这一经历成为其从纯哲学转向经验社会学与人类学的决定性起点。
 > - **1964** 与 Jean-Claude Passeron 合著出版《继承人》（Les Héritiers），揭示法国高等教育如何通过默认[[Cultural Capital|文化资本]]优势来隐性再生产阶级秩序。
 > - **1968** 与 Jean-Claude Passeron 等合著出版《社会学家行当》（Le Métier de sociologue），系统阐述社会学认识论预备。
@@ -126,7 +130,7 @@ updated: 2026-11-17
 >     - 《再生产：一种教育系统理论的要素》（*La Reproduction*, Minuit, 1970）：系统论述学校通过符号暴力将等级关系合法化。
 >   - **关键概念／方法** [[Cultural Capital|文化资本]]、习性、符号暴力、[[Ethnography|民族志研究]]。
 >   - **阶段转向** 从哲学的先验思辨彻底转向依靠经验观察的社会学，发现并确立了教育系统作为阶级结构复制工具的解释路径。
-> - **1972–1980 — 实践理论的建构** 致力于超越萨特式自由主体的[[Subjectivism|主观主义]]与[[Claude Lévi-Strauss|列维-斯特劳斯]]式无主体结构的[[Objectivism|客观主义]]，提出习性与实践感概念。
+> - **1972–1980 — 实践理论的建构** 致力于超越[[Jean-Paul Sartre|萨特]]式自由主体的[[Subjectivism|主观主义]]与[[Claude Lévi-Strauss|列维-斯特劳斯]]式无主体结构的[[Objectivism|客观主义]]，提出习性与实践感概念。
 >   - **代表著作** 
 >     - 《实践理论大纲》（*Esquisse d'une théorie de la pratique*, Droz, 1972）：以 Kabylie 调查为基础奠定习性框架。
 >     - 《区分：判断的社会批判》（*La Distinction*, Minuit, 1979）：通过大规模调查将品味解释为社会位置的符号区隔。
@@ -170,17 +174,17 @@ updated: 2026-11-17
 > > [!thesis-quote] 《文化再生产与社会再生产》（1977）
 > > 学校教育系统秘而不宣地要求每个学生拥有学校并不曾给予的东西，这包括语言能力、文化感知力和对主导文化的熟稔，而这种东西只有统治阶级在家庭教育中传授主导文化时才能获得。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|(引 Bourdieu, 1977, p. 494；引自 郑雅君, 2023, p. 42)]]
 > >
-> > *The educational system demands secretly of all students that which it does not give them, namely linguistic competence, cultural perception, and familiarity with dominant culture.*
+> > *The educational system demands secretly of all students that which it does not give them, namely linguistic competence, cultural perception, and [[Familiarization|familiarity]] with dominant culture.*
 
 ---
 
 > [!citation-card] 里兹维与林加德论布迪厄对新自由主义全球化意识形态工程的政治解构
-> 经合组织等国际组织将全球化本体化与物化为不可抗拒的客观外部实体，实质上掩盖了其作为蓄意推进经济自由化意识形态工程的政治属性；这种修辞实现了从[[Descriptive Analysis|描述性分析]]向规范性、[[Performativity|操演性]]概念的滑移，以“[[Knowledge-Based Economy|知识经济]]”等貌似中立的常识遮蔽了围绕教育目的的深层意义政治争论。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Bourdieu, 2003; Rizvi & Lingard, 2009, p. 441)]]
+> [[OECD|经合组织]]等国际组织将全球化本体化与物化为不可抗拒的客观外部实体，实质上掩盖了其作为蓄意推进经济自由化意识形态工程的政治属性；这种修辞实现了从[[Descriptive Analysis|描述性分析]]向规范性、[[Performativity|操演性]]概念的滑移，以“[[Knowledge-Based Economy|知识经济]]”等貌似中立的常识遮蔽了围绕教育目的的深层意义政治争论。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Bourdieu, 2003; Rizvi & Lingard, 2009, p. 441)]]
 >
-> *...the dominant discourse of globalization is an ideological project that aims to create a global free market... It presents globalization as a fate, an inevitability, which conceals its political and ideological nature.*
+> *...the dominant [[Discourse|discourse]] of globalization is an ideological project that aims to create a global free market... It presents globalization as a fate, an inevitability, which conceals its political and ideological nature.*
 
 > [!citation-card] [[Yajun Zheng|郑雅君]]论布迪厄文化资本与精英大学隐性再生产机制
-> 家庭不平等通过资本化过程转译为新生的初始习性差异。优势家庭学生展现出[[Goal-Controlled Mode|目标掌控模式]]，主动变现文化资本；弱势家庭学生则陷入直觉依赖模式，面临[[Cultural Disembedding|文化脱嵌]]与[[Cultural Disorientation|文化迷失]]。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, pp. 24–28)]]
+> 家庭不平等通过资本化过程转译为新生的初始习性差异。优势家庭学生展现出[[Goal-Controlled Mode|目标掌控模式]]，主动变现文化资本；弱势家庭学生则陷入[[Intuition-Dependent Mode|直觉依赖模式]]，面临[[Cultural Disembedding|文化脱嵌]]与[[Cultural Disorientation|文化迷失]]。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, pp. 24–28)]]
 
 ---
 
@@ -191,7 +195,7 @@ updated: 2026-11-17
 > - **跨国／跨领域传播** 在进入中国高等教育与基础教育研究中，其资本转换模型被相继改造，用以解析转型期大学生的求职分化（目标掌控与[[Intuition-Dependent Mode|直觉依赖模式]]）以及农村随迁家庭的[[School Choice|择校]]博弈；在澳大利亚与英美，其场域分析被广泛应用于解构校长培训体制的管理主义 Doxa 与高等教育学术界的新封建主义依附关系。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 将习性与[[Cultural Capital|文化资本]]运用于中国精英大学毕业去向分析，在[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|第二章]]中作为大学过程模型“资本化过程”的理论来源（pp. 41–43），并在全书中开发了目标掌控与直觉依赖两种资本化习性模式，解释阶层出身如何在校园内部完成隐性变现。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 运用习性与文化资本解释名校生资本化过程（[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|第二章]]）；并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]实证检验习性作为可转换倾向系统的大学再社会化机制。
 > - [[Argument_Teng_2025_CE|Teng and Wang (2025)]] — 证明了在中国县域择校迁移中，由于选拔机制简化，家庭资本展现出垂直阶梯分层筛选，户籍行政限制被置换为隐性阶级筛选，文化资本不得不退让并折算为社会资本关系。
 > - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 将场域和 [[Doxa]] 运用于澳大利亚[[School Leadership|学校领导力]]培养体系研究，剖析了管理主义绩效体制如何掏空学校管理者的自主实践空间。
 > - [[Argument_Eacott_2015_EPT|Eacott (2015)]] — 聚焦[[Epistemological Break|认识论断裂]]和警觉，反思了教育行政研究中对 Bourdieu 理论工具的生硬套用，强调研究者必须对自身的行业凝视保持警惕。
@@ -228,7 +232,7 @@ updated: 2026-11-17
 > - 马塞尔·高谢 (2000) — 批评其思想带有粗糙的决定论色彩，未能合理解释现代社会的多元互动与自主运转机制。
 
 > [!warning] 未解问题与边界
-> 习性的具身化特性使其在面对急剧变迁、数字媒介和高度碎片化的当代社会时，面临解释力稀释的挑战。多重场域下的习性分裂、习性错置如何影响行动者的日常决策，依然是目前批判社会学研究的开放议题。同时，其高度密集、复句重叠的文风与英美[[Positivism|实证主义]]流派对[[Critical Theory|批判理论]]的排斥，也增加了其[[Analytic Framework|分析框架]]在跨学科对话中的沟通成本。
+> 习性的具身化特性使其在面对急剧变迁、数字媒介和高度碎片化的当代社会时，面临解释力稀释的挑战。多重场域下的[[Habitus Divided Against Itself|习性分裂]]、习性错置如何影响行动者的日常决策，依然是目前批判社会学研究的开放议题。同时，其高度密集、复句重叠的文风与英美[[Positivism|实证主义]]流派对[[Critical Theory|批判理论]]的排斥，也增加了其[[Analytic Framework|分析框架]]在跨学科对话中的沟通成本。
 
 ---
 

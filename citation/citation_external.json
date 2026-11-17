@@ -2405,9 +2405,7 @@
     "Bernstein, 2009": "Bernstein, 2009",
     "Bero et al. (1998)": "Bero et al., 1998",
     "Bero et al., 1998": "Bero et al., 1998",
-    "Berry (1997)": "Berry, 1997",
     "Berry (2002)": "Berry, 2002",
-    "Berry, 1997": "Berry, 1997",
     "Berry, 2002": "Berry, 2002",
     "Berryman et al. (2018)": "Berryman et al., 2018",
     "Berryman et al., 2018": "Berryman et al., 2018",
@@ -45757,21 +45755,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Review of Education/Argument_Gorard_2020_ROE.md"
-      ],
-      "title": ""
-    },
-    "Berry, 1997": {
-      "aliases": [
-        "Berry, 1997",
-        "Berry (1997)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Berry, 1997"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/sociology-of-education/Enculturation.md"
       ],
       "title": ""
     },
@@ -150644,8 +150627,7 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17.md",
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23.md",
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28.md",
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29.md",
-        "wiki/methods/qualitative/Progressive Focussing.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29.md"
       ],
       "title": ""
     },

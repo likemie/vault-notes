@@ -7,7 +7,7 @@ summary: "质性访谈中最核心的变体，通过与受访者进行持续深�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 78
+method_related_count: 74
 method_related_level: 7
 method_related_stars: "💎💎⭐"
 method_related_color: "#dbeafe"
@@ -24,8 +24,6 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Open-Mindedness]]"
-  - "[[Emergence]]"
   - "[[Reliability]]"
   - "[[Reflexivity]]"
   - "[[Interpretive Validity]]"
@@ -33,14 +31,11 @@ related_concepts:
   - "[[Central Phenomenon]]"
   - "[[Interviewer Effects]]"
   - "[[Saturation]]"
-  - "[[Informed Consent]]"
-  - "[[Champ]]"
-  - "[[Central Question]]"
-  - "[[Research Topic]]"
+  - "[[Emergence]]"
   - "[[External Validity]]"
   - "[[Analytic Generalization]]"
-  - "[[Paradigm]]"
   - "[[Big Science]]"
+  - "[[Habitus]]"
   - "[[Theory of Knowledge]]"
   - "[[Space Production]]"
   - "[[Peidu]]"
@@ -67,12 +62,13 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Narrative Analysis]]"
+  - "[[Progressive Focussing]]"
+  - "[[Member Checking]]"
   - "[[Theoretical Sampling]]"
   - "[[Purposeful Sampling]]"
   - "[[Snowball Sampling]]"
-  - "[[Progressive Focussing]]"
-  - "[[Participant Observation]]"
-  - "[[Member Checking]]"
+  - "[[Open Coding]]"
+  - "[[Axial Coding]]"
   - "[[Focus Group]]"
   - "[[Semi-structured Interview]]"
   - "[[Qualitative Codebook]]"
@@ -80,7 +76,6 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[National Research Council]]"
-  - "[[Education Sciences Reform Act 2002]]"
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
   - "[[Fabricating Quality in European Education]]"
   - "[[European Commission]]"
@@ -90,6 +85,7 @@ related_arguments:
   - "[[Argument_Eisenhart_Towne_2003_ER]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch03]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch04]]"
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Cai_Gao_Liu_2025_HE]]"
   - "[[Argument_Yu_2024_CE]]"
@@ -126,7 +122,7 @@ updated: 2026-11-17
 
 ---
 
-> [!method-position] 认识论与方法定位
+> [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 深度访谈植根于解释性理解传统与[[Constructivist Paradigm|建构主义]]取向，认为知识在访谈对话中共同生产，研究者的提问方式、回应策略和在场状态共同参与意义建构。
 > - **研究者角色** 研究者是同感的理解者，站在受访者的立场理解其观念与策略，持续追问直至设身处地理解受访者的选择策略。
 > - **有效性标准** 效度不取决于[[Sample Size Determination|样本量]]，而取决于资料收集和分析全流程的严谨性，遵循可[[Reliability|信度]]、可转移性与确认性标准，依托人员校验、[[Triangulation|三角互证]]、跟踪式设计和[[Reflexivity|反身性]]记录保障[[Interpretive Validity|解释效度]]。
@@ -136,13 +132,13 @@ updated: 2026-11-17
 > - **研究设计** [[Qualitative Research|质性研究]]，常嵌入[[Case Study|案例研究]]、[[Ethnography|民族志]]或[[Grounded Theory|扎根理论]]。
 > - **数据收集** 半结构化一对一访谈、[[Interview Protocol|访谈协议]]、录音与[[Transcription in Qualitative Research|转录]]。
 > - **分析方法** [[Coding in Qualitative Research|质性编码]]、主题分析、[[Phenomenology|现象学]]分析、[[Narrative Analysis|叙事分析]]。
-> - **辅助技术** 渐进式聚焦法（[[Progressive Focussing|progressive focusing]]，Arksey & Knight, 1999）、追问策略、人员校验（[[Member Checking|member check]]）、[[Reflexivity|反身性]]备忘录。
+> - **辅助技术** [[Progressive Focussing|渐进式聚焦]]法（[[Progressive Focussing|progressive focusing]]，Arksey & Knight, 1999）、追问策略、人员校验（[[Member Checking|member check]]）、[[Reflexivity|反身性]]备忘录。
 
 ---
 
 > [!proc] 通用程序
 > 1. 明确[[Research Question|研究问题]]、[[Central Phenomenon|核心现象]]、[[Unit of Analysis|分析单位]]与访谈适用边界。
-> 2. 结合[[Purposeful Sampling|目的抽样]]或[[Theoretical Sampling|理论抽样]]选定受访对象，编制弹性半结构化[[Interview Protocol|访谈提纲]]，遵循渐进式聚焦原则规划从宽阔背景到核心问题的展开路径（Arksey & Knight, 1999）。
+> 2. 结合目的抽样或[[Theoretical Sampling|理论抽样]]选定受访对象，编制弹性半结构化[[Interview Protocol|访谈提纲]]，遵循渐进式聚焦原则规划从宽阔背景到核心问题的展开路径（Arksey & Knight, 1999）。
 > 3. 现场开展深入对话与悬置互动，营造安全、非评判的倾听环境，研究者运用[[Epoché|悬置]]搁置先验偏见，以共情姿态与生活史敏感性持续深挖行动逻辑，直至能够设身处地理解受访者的选择策略（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]]）。
 > 4. 进行全文本[[Transcription in Qualitative Research|逐字转录]]并标注副语言线索，开展多层级编码、意义提炼与叙事重构。
 > 5. 开展成员检查（[[Member Checking|member check]]）、多源[[Triangulation|三角互证]]与[[Reflexivity|反身性]]审计，撰写质性分析报告。
@@ -157,8 +153,8 @@ updated: 2026-11-17
 
 > [!proc] 质性分析程序
 > 1. **资料整理与初读** 及时完成全文本[[Transcription in Qualitative Research|逐字转录]]，完整记录受访者语气、停顿与副语言线索，开展匿名化处理与全文沉浸式初读。
-> 2. **编码与意义重构** 开展开放编码、主轴编码与主题分析，结合生活史脉络进行叙事重构，提炼行动逻辑与解释框架。
-> 3. **反思备忘录与工具应用** 撰写[[Reflexivity|反身性]]日志与理论备忘录，借助质性分析软件记录意义涌现过程，严格区分受访者主位建构与研究者前见投射。
+> 2. **编码与意义重构** 开展[[Open Coding|开放编码]]、[[Axial Coding|主轴编码]]与主题分析，结合生活史脉络进行叙事重构，提炼行动逻辑与解释框架。
+> 3. **反思备忘录与工具应用** 撰写[[Reflexivity|反身性]]日志与理论备忘录，借助质性分析软件记录意义[[Emergence|涌现]]过程，严格区分受访者主位建构与研究者前见投射。
 > 4. **效度验证与厚描述** 实施向受访者复述求证的人员校验（[[Member Checking|member check]]），交叉对照观察笔记与背景档案开展[[Triangulation|三角互证]]，以[[Rich and Thick Description|深描]]文本呈现分析结论。
 
 ---
@@ -192,7 +188,7 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 在[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|第二章]]中运用深度访谈对 62 名顶尖大学毕业生展开半结构式追踪，并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]通过 20 余位个案生活史比对剖析出路分化机制（pp. 56–58）。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 运用深度访谈追踪 62 位名校生（[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|第二章]]、[[Argument_Zheng_2023_ShanghaiSanlian_Ch03|第三章]]）；并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]依托 11 位典型个案生活史解剖投入策略与[[Habitus|习性]]转换机制。
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 针对澳大利亚新南威尔士州（New South Wales, NSW）四所学校[[Theory of Knowledge|知识论]]（Theory of Knowledge, TOK）课程实施开展研究，对 22 名教师进行深度访谈并组织 8 组学生[[Focus Group|焦点小组]]。
 > - [[Argument_Cai_Gao_Liu_2025_HE|Cai et al. (2025)]] — 考察[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]][[Space Production|高等教育空间生产]]，深入访谈 39 名跨界高校教师（其中 30 名为关键制度节点人物）。
 > - [[Argument_Yu_2024_CE|Yu and Zhao (2024)]] — 多元文化视角下的儒家教育传统研究，对 37 名涵盖 15 个少数民族的大学生开展深度对话。

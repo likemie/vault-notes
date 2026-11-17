@@ -8,53 +8,60 @@ aliases:
 summary: "Vincent Tinto 提出的学生发展核心概念，指大学生通过经历分离、转折与习得三阶段，在学术规范与社交网络双维度与大学环境达成的整合状态，构成院校留存与微观投入的关键机制。"
 type: concept
 domain: "higher-education"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 25
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - student-integration
   - higher-education
   - tinto
   - level/higher-ed
 related_concepts:
-  - "[[Academic Attrition]]"
+  - "[[Champ]]"
   - "[[Student Engagement]]"
-  - "[[Operationalization]]"
   - "[[Student Involvement]]"
-  - "[[Academic Engagement]]"
-  - "[[Social Engagement]]"
   - "[[Academic Achievement]]"
-  - "[[Extracurricular Activities]]"
-  - "[[Construct]]"
-  - "[[Cultural Capital]]"
+  - "[[Academic Attrition]]"
+  - "[[Determinism]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
+  - "[[Cultural Capital]]"
+  - "[[First-Generation College Student]]"
+  - "[[Operationalization]]"
+  - "[[Construct]]"
+  - "[[Decodification]]"
+  - "[[Variable]]"
 related_theories:
   - "[[College Process Model]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Effect Size]]"
+  - "[[Constructivist Grounded Theory]]"
+  - "[[Progressive Focussing]]"
   - "[[Triangulation]]"
+  - "[[Transcription in Qualitative Research]]"
 related_persons:
+  - "[[Vincent Tinto]]"
   - "[[Yajun Zheng]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: "2026-05-08"
-updated: "2026-11-17"
+updated: 2026-11-17
 ---
 
 ---
 
 > [!def] Academic and Social Integration
-> 学术与社交融入（Academic and Social Integration）指大学生在进入高等教育机构后，通过经历心理与社会关系的阶段性过渡，与院校的学术规范环境和人际社交网络所达成的双向协调与内化状态。该概念由美国高等教育学家 Vincent Tinto (1993) 在学生离开大学（*Leaving College*）模型中系统奠定，以人类学过渡仪式理论（分离—转折—习得）为原型，强调学业融入与社交融入是决定大学生持续就读与防范[[Academic Attrition|学业辍学]]的核心支柱。在大学过程研究中，它被视为学生在校投入机制的心理社会基础。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|(郑雅君, 2023, pp. 39–41)]]
+> 学术与社交融入（Academic and Social Integration）指大学生在进入高等教育机构后，通过经历心理与社会关系的阶段性过渡，与院校的学术规范环境和人际社交网络所达成的双向协调与内化状态。该概念由美国高等教育学家 Vincent Tinto (1993) 在学生离开大学（*Leaving College*）模型中系统奠定，以人类学过渡仪式理论（分离—转折—习得）为原型，强调学业融入与社交融入是决定大学生持续就读与防范学业辍学的核心支柱。在[[College Process Model|大学过程]]研究中，它被视为学生在校投入机制的心理社会基础。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|(郑雅君, 2023, pp. 39–41)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向大学生脱离原生社会关系、内化大学学术规范及建立同辈师生联结的心理与行为过渡机制。
-> - **用途** 解释大学生在进入高校后的适应性分化、学业中断与辍学风险，并诊断学生在大学场域中的制度归属感。
+> - **用途** 解释大学生在进入高校后的适应性分化、学业中断与辍学风险，并诊断学生在大学[[Champ|场域]]中的制度归属感。
 > - **边界** 区别于纯行为计量的外在活动投入；若缺乏深层认同与社会性归属，单纯的课程出勤与事务打卡不构成真正的深层融入。
 
 > [!citation-card|notitle] 关键表述
@@ -65,7 +72,7 @@ updated: "2026-11-17"
 > [!boundary]- 概念边界
 > - **不等于 [[Student Engagement]]（学生投入）** 投入理论（Kuh）侧重在具体教育性实践中投入时间与精力的行为计量及院校支持；融入理论（Tinto）侧重从旧社会关系过渡到新环境的心理归属与社会整合过程。
 > - **不等于 [[Student Involvement]]（学生涉入）** 涉入理论（Astin）聚焦个体倾注于学习与校园生活中的生理与心理能量总量；融入理论聚焦个体与大学两类具体子系统（学术子系统与社交子系统）的结构性连接。
-> - **不等于 单纯学业达标（Academic Performance）** 学业成绩达标并不等同于学术与社交全面融入；许多高成绩学生可能因社交融入匮乏而陷入疏离感与意义迷失。
+> - **不等于 单纯学业达标（[[Academic Achievement|Academic Performance]]）** 学业成绩达标并不等同于学术与社交全面融入；许多高成绩学生可能因社交融入匮乏而陷入疏离感与意义迷失。
 
 ---
 
@@ -75,7 +82,7 @@ updated: "2026-11-17"
 > | **理论原型** | 人类学过渡仪式与涂尔干社会整合论 | 院校生态学与行为投入量化 | 大学生发展能量模型 |
 > | **核心机制** | 分离、转折、习得三阶段规范内化 | 课内外教育性实践的时间与精力利用 | 心理与生理能量的连续倾注 |
 > | **分析焦点** | 学业与社交两大子系统的一致性与归属 | 可测量的行为投入与院校制度支持交互 | 个体投入总量与连续性体验 |
-> | **主要关切** | 克服疏离、防范学生辍学与退学 | 提升增值性学习成效与发展收益 | 优化学生在各项活动中的精力分配 |
+> | **主要关切** | 克服疏离、防范[[Academic Attrition\|学生辍学]]与退学 | 提升增值性学习成效与发展收益 | 优化学生在各项活动中的精力分配 |
 
 ---
 
@@ -107,18 +114,18 @@ updated: "2026-11-17"
 > **双维度协同机制** 阐明学术子系统与社交子系统的相互独立与动态互补，论证两者的深层整合如何成为降低辍学风险的关键。
 >
 > > [!claim] [[Vincent Tinto\|Tinto, V.]]
-> > **双维度整合与制度承诺** 学生在大学的去留取决于其在学术与社交两个独立维度的融入体验，超越了单一学业能力的决定论；当学生在学术规范上达成一致并在校园社交中获得归属感时，其对学校的制度承诺显著增强，辍学风险大幅降低。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|(郑雅君, 2023, pp. 39–40)]]（引自 Tinto, 1993; Braxton et al., 1997; Pascarella & Terenzini, 2005）
+> > **双维度整合与制度承诺** 学生在大学的去留取决于其在学术与社交两个独立维度的融入体验，超越了单一学业能力的[[Determinism|决定论]]；当学生在学术规范上达成一致并在校园社交中获得归属感时，其对学校的制度承诺显著增强，辍学风险大幅降低。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|(郑雅君, 2023, pp. 39–40)]]（引自 Tinto, 1993; Braxton et al., 1997; Pascarella & Terenzini, 2005）
 >
 > > [!claim] [[Yajun Zheng\|郑雅君]]
-> > **出路模式中的融入策略分化** 精英高校中不同阶层背景学生的融入呈现显著策略差异：目标掌控者采取功能化学术融入（维持门槛 GPA）与工具化社交融入（定向拓展职业网络），而直觉依赖者常因秉持单一考试认知而排斥课外社交融入，导致社会性资本与出路信息严重受限。[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, pp. 115–125)]]
+> > **出路模式中的融入策略分化** 精英高校中不同阶层背景学生的融入呈现显著策略差异：[[Goal-Controlled Mode|目标掌控]]者采取功能化学术融入（维持门槛 GPA）与工具化社交融入（定向拓展职业网络），而[[Intuition-Dependent Mode|直觉依赖]]者常因秉持单一考试认知而排斥课外社交融入，导致社会性资本与出路信息严重受限。[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, pp. 115–125)]]
 
 ---
 
 > [!concept-proposition] 命题二｜中立赛场假设遮蔽了阶层资本对融入过程的深层制约
-> **结构性批判与文化壁垒** 审视高等教育学将融入视为个体纯能动选择的局限，揭示文化资本缺乏如何导致弱势群体遭遇结构性排斥。
+> **结构性批判与文化壁垒** 审视高等教育学将融入视为个体纯能动选择的局限，揭示[[Cultural Capital|文化资本]]缺乏如何导致弱势群体遭遇结构性排斥。
 >
 > > [!claim] [[Yajun Zheng\|郑雅君]]
-> > **文化专断与弱势融入困境** 经典融入理论预设大学是规则中立平等的赛场，将融入失败归咎为学生个人缺乏投入意愿；然而精英大学暗含中产阶级文化专断，第一代大学生因缺乏家庭文化资本，常面临文化语码脱节与互动隔阂，其不融入往往是屡次遭遇挫折后的回避反应。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|(郑雅君, 2023, pp. 40–43)]]（引自 Pike & Kuh, 2005; 谢爱磊, 2016; 熊静和余秀兰, 2015）
+> > **文化专断与弱势融入困境** 经典融入理论预设大学是规则中立平等的赛场，将融入失败归咎为学生个人缺乏投入意愿；然而精英大学暗含中产阶级文化专断，[[First-Generation College Student|第一代大学生]]因缺乏家庭文化资本，常面临文化语码脱节与互动隔阂，其不融入往往是屡次遭遇挫折后的回避反应。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|(郑雅君, 2023, pp. 40–43)]]（引自 Pike & Kuh, 2005; 谢爱磊, 2016; 熊静和余秀兰, 2015）
 
 ---
 
@@ -133,8 +140,8 @@ updated: "2026-11-17"
 > [!dev-timeline] 概念演变
 > - **1975 — 辍学互动模型初创** Tinto 发表关于高等教育辍学机制的研究，借鉴 Durkheim 社会整合论与 van Gennep 过渡仪式框架，奠定融入分析原型。
 > - **1993 — 双维度与三阶段理论体系成型** 出版 *Leaving College* 第二版，正式确立分离-转折-习得三阶段与学术/社交双维度融入体系。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|(郑雅君, 2023, pp. 39–40)]]
-> - **2000 年代 — 操作化实证检验与争议** Braxton 等学者对融入构念的操作化测量展开大规模实证检验，巩固了社交融入对院校留存的解释效力。
-> - **2023 — 大学过程本土化重构** 郑雅君将融入理论整合入大学过程分析框架，作为“投入过程”的心理机制基础，揭示中国顶尖高校中阶层出路分化的微观社会化动因。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|(郑雅君, 2023, pp. 40–48)]]
+> - **2000 年代 — [[Operationalization|操作化]]实证检验与争议** Braxton 等学者对融入[[Construct|构念]]的操作化测量展开大规模实证检验，巩固了社交融入对院校留存的解释效力。
+> - **2023 — 大学过程本土化重构** 郑雅君将融入理论整合入大学过程[[Analytic Framework|分析框架]]，作为“投入过程”的心理机制基础，揭示中国顶尖高校中阶层出路分化的微观社会化动因。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|(郑雅君, 2023, pp. 40–48)]]
 
 ---
 
@@ -143,7 +150,7 @@ updated: "2026-11-17"
 > > [!axis] 中立能动选择 vs 阶层结构制约
 > > 传统融入理论强调学生个体主动适应与参与；社会学批判视角则指出大学环境暗含特定阶层的文化偏好，要求弱势群体自发融入实质上构成了文化强加。
 > > - **能动投入派** 认为院校制度资源对所有人均等开放，融入成效主要取决于学生主观动机与时间精力投入。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|(引 Tinto, 1993; Kuh, 1991)]]
-> > - **阶层批判派** 论证家庭文化资本存量决定了学生能否自如解码校园隐性规则，弱势学子面临更严峻的融入壁垒。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|(郑雅君, 2023, pp. 40–43)]]
+> > - **阶层批判派** 论证家庭文化资本存量决定了学生能否自如[[Decodification|解码]]校园隐性规则，弱势学子面临更严峻的融入壁垒。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|(郑雅君, 2023, pp. 40–43)]]
 >
 > > [!axis] 过渡仪式中的文化剥离代价
 > > 人类学过渡仪式中的“分离”要求学生疏离原生社会关系。
@@ -163,9 +170,9 @@ updated: "2026-11-17"
 > [!ref-table]- 质性跟踪与操作化实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|郑雅君 (2023)]] | 南北两所顶尖大学 62 名毕业班学生（跟踪受访） | 建构主义扎根理论与渐进式聚焦追踪 | 分离、转折、习得、学业融入与社交融入操作化构念 | 1. 目标掌控者：学业融入功能化与社交融入工具化<br>2. 直觉依赖者：忽视社交融入，视课外互动为干扰 | 深入访谈三角互证（转录文本超 150 万字） | 解释精英大学同等文凭内部由于文化资本制约所产生的非线性出路分化机制 |
+> | [[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|郑雅君 (2023)]] | 南北两所顶尖大学 62 名毕业班学生（跟踪受访） | [[Constructivist Grounded Theory\|建构主义扎根理论]]与[[Progressive Focussing\|渐进式聚焦]]追踪 | 分离、转折、习得、学业融入与社交融入操作化构念 | 1. 目标掌控者：学业融入功能化与社交融入工具化<br>2. 直觉依赖者：忽视社交融入，视课外互动为干扰 | 深入访谈[[Triangulation\|三角互证]]（[[Transcription in Qualitative Research\|转录]]文本超 150 万字） | 解释精英大学同等文凭内部由于文化资本制约所产生的非线性出路分化机制 |
 
 ---
 
