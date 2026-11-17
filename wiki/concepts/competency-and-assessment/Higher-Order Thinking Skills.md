@@ -264,7 +264,7 @@ updated: 2026-11-03
 
 ---
 
-> [!contrast-table] 所有命题归纳
+> [!contrast-table|notitle] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **社会建构赋能** | 异质性同伴互动与结构化协商是激发分析、评价、创造与批判性思维的核心机制。 | 课堂教学设计、探究式学习与[[21st Century Skills and Competencies Discourse\|核心素养]]改革 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]; Siagian et al. (2023); Solissa et al. (2023) |
@@ -298,7 +298,7 @@ updated: 2026-11-03
 > > [!axis] 汇合审思 vs 发散构想的认知失衡
 > > 生成式 AI 极速输出多样化文本大幅降低了[[Divergent Thinking\|发散思维]]的门槛，但极易诱发学习者放弃严谨的事实核查与推论论证，导致学生在产出丰富创意的同时丧失独立批判能力（[[Argument_Li_2026_CEAI\|Li et al., 2026, p. 9]]；Deng et al., 2024）。
 
-> [!warning] 适用局限与教学前提
+> [!warning|limits] 适用局限与教学前提
 > - **不可脱离领域专业知识** 缺乏基础事实记忆与[[Concept Mapping\|概念图]]式时，纯粹的高阶思维训练容易退化为形式化套路；高阶思维必须建立在扎实的学科内容基础之上。
 > - **技术工具必须与教学法精准对齐** 若仅将 AI 工具作为电子黑板或直接答案生成器使用，无法自发催生高阶思维；必须通过设计冲突问题、[[Socrates\|苏格拉底]]追问及强制性同伴答辩等教学法干预引导反思（Ünal et al., 2026; [[Argument_Li_2026_CEAI\|Li et al., 2026, p. 11]]）。
 
@@ -379,7 +379,22 @@ updated: 2026-11-03
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!entry-map] 高阶思维技能关联网络
+>
+> | 条目 | 类型 | 关系 |
+> |---|---|---|
+> | [[Bloom's Taxonomy]] | 理论基础 | 奠定分析、评价与创造的高阶认知层级基础。 |
+> | [[Critical Thinking]] | 核心维度 | 高阶思维的关键组成，聚焦逻辑审思、证据检验与独立反思。 |
+> | [[Problem Solving]] | 核心维度 | 应对劣构情境与复杂现实挑战的非算法性实践认知运作。 |
+> | [[Metacognition]] | 调控机制 | 对高阶思维加工过程的动态监测、反思与策略调适。 |
+> | [[Epistemic Stances]] | 认识前提 | 评价论认识立场驱动对生成式 AI 输出的多源三角核验与深度质询。 |
+> | [[Graphic Organizer]] | 教学工具 | 空间表征与思维显性化脚手架，有效减轻工作记忆负荷以赋能高阶加工。 |
+> | [[Cooperative Learning]] | 教学形态 | 异质性同伴互动与认知冲突协商为高阶思维提供社会建构土壤。 |
+
+---
+
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Deng_2016_CE]] — 考察新加坡高表现教育系统中高阶思维改革的制度悖论，揭示“思考型学校”政策下批判与创造性思维倡导与国家高利害考试制度之间的张力，及其催生的混合教学形态。
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — [[Meta-analysis|元分析]] 29 项实验证实生成式 AI 促进高阶思维总体效应（$g = 0.609$），解构出[[Problem Solving|问题解决]] $>$ 批判思维 $>$ [[Creativity|创造力]]的效应梯度与[[Self-Regulated Learning|自主调节学习]]的显著调节。
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — [[Meta-analysis\|元分析]] 57 项[[Experimental Research\|实验研究]]中生成式 AI 对大学生高阶思维（HOT）的促进效应（$g^+ = 0.580$），严格控制[[Baseline Standardized Mean Difference\|基线等效性]]（$d < 0.25$），揭示了生成式技术对高校批判反思与发散创造的中等显著赋能。
 > - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 运用[[Random-Effects Model|随机效应]][[Meta-analysis\|元分析]]综合 66 项实验与准[[Experimental Research\|实验研究]]（72 个[[Effect Size\|效应量]]，$N = 4{,}824$），系统检验[[Graphic Organizer\|图形组织器]]对高阶思维的促进效应（$g = 0.778$），揭示了思维倾向与认知过程收益显著高于技能结果、[[Divergent Thinking\|发散思维]]收益显著高于[[Convergent Thinking\|聚合思维]]的层级调节特征。

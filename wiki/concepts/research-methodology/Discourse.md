@@ -157,12 +157,6 @@ updated: 2026-11-15
 
 ---
 
-## 核心要素
-
-### 1. 微观文本性七大构成标准
-
-依据 Renkema (2004) 与[[Louis Cohen|路易斯·科恩]]（Louis Cohen）等人的总结，口头言语或书面材料必须同时满足文本内部语法逻辑与面向外部世界的七项标准，方能被确立为具有社会学分析价值的话语：
-
 > [!ref-table] 话语的文本性七项标准（Renkema, 2004; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]]）
 > | 构成标准 | 核心内涵 | 质性分析关注焦点 |
 > |---|---|---|
@@ -174,9 +168,7 @@ updated: 2026-11-15
 > | **情境性（Situationality）** | 文本同所处物质、制度与历史时空脉络的嵌入关联 | 具体的物理场景、机构层级与历史节点如何改变文本含义 |
 > | **互文性（Intertextuality）** | 当前文本对先前其他文本或外部话语网络的依赖与引用 | 文本如何通过引述、戏仿、挪用或反驳嵌入更宏大的话语链条 |
 
-### 2. 宏观政策话语的多维空间与权力机制
-
-结合[[Jason Beech|杰森·比奇]]（Jason Beech, 2009a, 2009b）、[[Basil Bernstein|巴兹尔·伯恩斯坦]]（Basil Bernstein）、[[Manuel Castells|曼纽尔·卡斯特]]（Manuel Castells）与[[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]]的理论推进，[[Transnational Education|跨国教育]]政策话语展现出多维空间与权力机制：
+---
 
 > [!feature] 宏观政策话语的多维机制
 > - **[[Floating Signifier|漂浮能指]]性（Floating Signifier）** 政策话语（如“能力本位”、“[[School Autonomy|学校自主权]]”、“尊重多样性”）被故意剥离具体的历史脉络与实体定义，演化为语义空虚的高包容性符号容器，使立场迥异的利益主体能够达成表面共识。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 353–355)]]
@@ -264,7 +256,7 @@ updated: 2026-11-15
 > > - **微观互动建构论** 聚焦课堂面对面谈话序列与微观交流规则，强调对话参与者在具体语境中的意义建构与协商空间。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.1–31.2)]]
 > > - **宏观[[Champ|场域]]规训论** 强调全球教育场域中跨国组织对政策话语的过度简化控制，指出外围行动者的言说空间受到跨界[[Gatekeepers|守门人]]网络的刚性垄断。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 350–355)]]
 
-> [!warning] 适用局限
+> [!warning|limits] 适用局限
 > [[Discourse Analysis|话语分析]]方法容易滑向文本中心主义偏差。若研究者将政策异化与改革挫折完全归咎于话语修辞的漂浮性或国际霸权，而抽离具体学校所处的物理资源匮乏、生计压力与历史物质[[Habitus|惯习]]，将难以完整把握教育实践变革的物质因果机制。
 
 ---
