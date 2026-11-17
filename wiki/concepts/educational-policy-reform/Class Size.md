@@ -102,6 +102,7 @@ related_arguments:
   - "[[Argument_Bergeron_2017_MJE]]"
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Cowen_2015_CHESS]]"
+  - "[[Argument_Deng_2016_CE]]"
 confidence: high
 status: completed
 created: '2026-05-03'
@@ -111,7 +112,7 @@ updated: 2026-11-15
 > [!def] Class Size
 > 班级规模（Class Size），又称班额，指单一教学组织单元或班级组内所容纳的学生实际人数。它看似是简单的组织[[Variable|变量]]，实际却同时牵涉教学互动质量、教师劳动负荷、学校资源配置、财政政策成本与实证证据的外推有效性。小班的实践成效取决于学生人数缩减幅度、教师教学方式实质调适、合格师资与校舍供给保障、学生[[Heterogeneity|异质性]]构成以及多元学业与社会情感评价指标的协同。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 100–102)]]; [[Argument_ONeill_2012_NZJES|(O'Neill, 2012, pp. 155, 157–158)]]; [[Argument_Wiliam_2019_ERE|(Wiliam, 2019, pp. 6–7)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 12, 16–17)]]; [[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 5–7)]]
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 班级规模既是宏观资源配置决策的组织参数，也是直接型塑师生言语互动频次与任务在轨率的微观生态变量。
 > - **用途** 为教育财政预算与基础设施规划提供依据，衡量降低班额与提升教师专业效能之间的边际[[Return on Investment|投资回报率]]。
 > - **边界** “小班”与“大班”的操作界定高度依赖特定教育体制。田纳西州 STAR 项目将 22–25 人界定为“大班”，而在全球南方及中低收入国家，常态班额往往高达 50–100 人，发达国家的边际缩减经验在此类极端拥挤环境中面临严峻的外推边界。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 100)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, p. 16)]]
@@ -128,7 +129,7 @@ updated: 2026-11-15
 
 ---
 
-> [!contrast-table] 班级规模与相关概念的多维辨析
+> [!contrast-table|notitle] 班级规模与相关概念的多维辨析
 > | 维度 | 班级规模（Class Size） | 生师比（Student-Teacher Ratio） | 学校规模（School Size） | 课堂群组规模（Instructional Group Size） |
 > |---|---|---|---|---|
 > | **组织层级** | 班级与课堂行政编制层级 | 学校或国家宏观统计层级 | 整个学校实体层级 | 课堂内部微观活动层级 |
@@ -138,9 +139,7 @@ updated: 2026-11-15
 
 ---
 
-## 核心要素
-
-> [!feature] 班级规模争论的四大核心基柱
+> [!feature|notitle] 核心要素
 > - **测量方式与口径精细度** 评估班级人数是基于宏观注册名册、平均日常出勤，还是[[Classroom Observation|课堂观察]]当天的实际分性别在场人数。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 16–17)]]
 > - **微观课堂教与学生态** 人数变化如何重塑教师注意力分配、[[Individualised Instruction|个别化指导]]、任务在轨率及课堂纪律压力。[[Argument_ONeill_2012_NZJES|(O'Neill, 2012, pp. 157–158)]]
 > - **师资教学[[Paradigm|范式]]调适** 班级规模是教学行为展开的制度载体，其成效取决于教师能否从标准化全班讲授转向差[[Alienation|异化]]与个别化诊断。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 5–7)]]
