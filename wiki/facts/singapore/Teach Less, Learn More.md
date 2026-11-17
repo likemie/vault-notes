@@ -3,7 +3,7 @@ title: Teach Less, Learn More
 aliases:
   - 少教多学
   - TLLM
-summary: "新加坡总理李显龙于2004年提出并由教育部推行的微观教学改革倡议。该政策深化了“思考型学校，学习型国家”愿景，确立赋能教师、涵育学生与整全评价三大支柱；通过精简课程大纲内容、增聘近三千名教师编制、缩减小学班级规模至三十人以及下发校本创新专款，推动教学实践摆脱应试灌输并转向深度探究。"
+summary: "新加坡总理李显龙于2004年提出并由教育部推行的微观教学改革倡议。该政策深化了思考型学校，学习型国家愿景，确立赋能教师、涵育学生与整全评价三大支柱；通过精简课程大纲内容、增聘近三千名教师编制、缩减小学班级规模至三十人以及下发校本创新专款，推动教学实践摆脱应试灌输并转向深度探究。"
 type: fact
 subtype: policy
 region: singapore
@@ -50,7 +50,7 @@ updated: 2026-11-18
 > - **发布时间 / 发布主体** 2004年由新加坡总理李显龙（Lee Hsien Loong）在国庆群众大会演说中首次倡导，随后由新加坡教育部（Ministry of Education, MOE）于2005年起全面制度化推行。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 62)]]
 > - **适用地区 / 对象** 覆盖新加坡全岛公立小学、中学与初级学院，涉及全体在职教师与基础教育阶段学生。
 > - **问题背景** 尽管新加坡学生在国际测试中表现优异，但长期盛行以教师讲授为核心、大班额教学与高利害考试驱动的教学传统，导致学生被动死记硬背与应试倾向突出，难以契合全球知识经济对创新、批判思维与探索精神的迫切要求。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 60–62)]]
-> - **制度位置** 属于“思考型学校，学习型国家（Thinking Schools, Learning Nation, TSLN）”顶层国家愿景的微观落地与纵深推进方案。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 62)]]
+> - **制度位置** 属于思考型学校，学习型国家（Thinking Schools, Learning Nation, TSLN）顶层国家愿景的微观落地与纵深推进方案。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 62)]]
 
 ---
 
@@ -64,14 +64,14 @@ updated: 2026-11-18
 > - **约束机制** 通过学校卓越成就模型（School Excellence Model, SEM）指引校本课程创新，拓宽学校表现评估维度，削弱单一排名的应试导向。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 62–63)]]
 
 > [!citation-card] 少教多学与教育质量飞跃
-> 李显龙总理提出“少教多学”这一核心倡议，强调以此实现质的变革与重大飞跃，为国民提供一种截然不同的教育形态。教育部进而明确了三大改革支柱：赋能教师、涵育学生与推行整全评价。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 62)]]
+> 李显龙总理提出少教多学这一核心倡议，强调以此实现质的变革与重大飞跃，为国民提供一种截然不同的教育形态。教育部进而明确了三大改革支柱：赋能教师、涵育学生与推行整全评价。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 62)]]
 >
 > *Three broad areas enabling teachers, nurturing students, holistic assessment characterise reform initiatives in 2004. The broad policy rationales were announced by Singapore's new prime minister Lee Hsien Loong who coined the phrase 'Teach less, learn more' as a way of achieving 'a qualitative change, a quantum leap to get a different sort of education...'*
 
 ---
 
 > [!timeline] 政策时间线
-> - 2004 新加坡总理李显龙公开提出“少教多学”教育方针，教育部成立专题委员会研拟落地措施。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 62)]]
+> - 2004 新加坡总理李显龙公开提出少教多学教育方针，教育部成立专题委员会研拟落地措施。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 62)]]
 > - 2005 教育部正式全面启动少教多学改革，调减学科大纲内容，分期投入增聘师资与下发学校专款。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 62)]]
 > - 2006–2008 各校深入开展行动研究与校本课程实验，初级学院推行跨学科专题研习项目（Project Work）并纳入大学录取门槛。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 60–62)]]
 
@@ -91,4 +91,4 @@ updated: 2026-11-18
 ---
 
 > [!debates] 政策成效与局限
-> 政策向基层学校注入了前所未有的物质与人力资源，推动了合作学习、专题研究等探究性教学实验，营造了更为宽松的校园创新文化。然而，该改革在学校微观落地时面临根深蒂固的体制性约束：面对[[Goh Report|小六离校考试]]（Primary School Leaving Examination, PSLE）与剑桥普通水准（O-Level）、高级水准（A-Level）等高利害升学淘汰关口，家长与教师的安全感依然绑定在考试分数上。许多教师并未能在根本上重构教学认识论，而是将思维技能转化为形式化的应对技巧（technique-oriented view of creativity），在维持原有高密度直接教学的主体框架下附加零散的改革环节。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 67–68)]]
+> 政策向基层学校注入了前所未有的物质与人力资源，推动了合作学习、专题研究等探究性教学实验，营造了更为宽松的校园创新文化。然而，该改革在学校微观落地时面临根深蒂固的体制性约束：面对[[Goh Report|小六离校考试]]（Primary School Leaving Examination, PSLE）与剑桥普通水准（General Certificate of Education Ordinary Level, O-Level）及高级水准（General Certificate of Education Advanced Level, A-Level）等高利害升学淘汰关口，家长与教师的安全感依然绑定在考试分数上。许多教师并未能在根本上重构教学认识论，而是将思维技能转化为形式化的应对技巧（technique-oriented view of creativity），在维持原有高密度直接教学的主体框架下附加零散的改革环节。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 67–68)]]

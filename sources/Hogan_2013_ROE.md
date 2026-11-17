@@ -4,14 +4,14 @@ extracted_to: []
 processed_date: 2026-11-18
 ---
 
-# Chua_2011_CILP
+# Hogan_2013_ROE
 
-![[Chua_2011_CILP.pdf]]
+![[Hogan_2013_ROE.pdf]]
 
 
 
 <iframe
-  src="https://img.mylikemie.icu/sources/Chua_2011_CILP.pdf"
+  src="https://img.mylikemie.icu/sources/Hogan_2013_ROE.pdf"
   width="100%"
   height="820"
   style="border: 1px solid #ddd; border-radius: 8px;"
