@@ -10,9 +10,9 @@ title: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"
-argument_related_count: 5
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 16
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
 book_title: "金榜题名之后：大学生出路分化之谜"
 publication_place: 上海
@@ -31,17 +31,28 @@ tags:
   - region/china
   - level/higher-ed
 related_concepts:
+  - "[[Credential Inflation]]"
+  - "[[Economy of Experience]]"
+  - "[[First-Generation College Student]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
   - "[[Cultural Barrier]]"
-related_theories: []
-related_methods: []
+related_theories:
+  - "[[Dual Elite Career Paths]]"
+  - "[[College Process Model]]"
+related_methods:
+  - "[[Constructivist Grounded Theory]]"
+  - "[[Progressive Focussing]]"
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[China College Graduate Employment Reform]]"
+  - "[[Recommendation-Based Graduate Admission System]]"
+related_arguments:
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch01]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
 sources:
   - "[[books/Zheng_2023_ShanghaiSanlian/Zheng_2023_ShanghaiSanlian|Zheng_2023_ShanghaiSanlian]]"
 part_of: ""
@@ -64,7 +75,7 @@ updated: 2026-11-17
 > | 章节 | 内容概要 | 主要关联条目 |
 > |---|---|---|
 > | [[Argument_Zheng_2023_ShanghaiSanlian_Ch01\|第一章 迷宫]] | 导论提出毕业出路的阶层差异与教育黑箱问题，第一章系统交代就业、出国与读研的制度背景、迷宫出口及其隐性筹码兑换规则。 | [[Credential Inflation]]、[[Economy of Experience]]、[[Dual Elite Career Paths]]、[[China College Graduate Employment Reform]]、[[Recommendation-Based Graduate Admission System]] |
-> | [第二章 视角](../../../../raw/Zheng_2023_ShanghaiSanlian_txt/Ch02_Perspective.txt) | 说明资本化、投入和价值选择三个过程如何组成分析框架，并交代访谈设计及个案选择。 | |
+> | [[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|第二章 视角]] | 说明资本化、投入和价值选择三个过程如何组成分析框架，并交代访谈设计及个案选择。 | [[College Process Model]]、[[First-Generation College Student]]、[[Constructivist Grounded Theory]]、[[Progressive Focussing]] |
 > | [第三章 家境](../../../../raw/Zheng_2023_ShanghaiSanlian_txt/Ch03_Family_Background.txt) | 从中学经历和家庭决策追溯两种上大学的实践模式。 | [[Goal-Controlled Mode]]、[[Intuition-Dependent Mode]] |
 > | [第四章 努力](../../../../raw/Zheng_2023_ShanghaiSanlian_txt/Ch04_Effort.txt) | 比较两类学生如何分配学业和课外活动时间，考察部分学生改变做法的经历。 | [[Academic Engagement]]、[[Social Engagement]] |
 > | [第五章 方向](../../../../raw/Zheng_2023_ShanghaiSanlian_txt/Ch05_Direction.txt) | 从访谈中归纳三种理解工作意义的观念，结合行动策略和价值信念区分四种获得毕业出路的方式。 | |

@@ -9,7 +9,7 @@ cssclasses:
   - person-page
 nationality: china
 person_region: "china"
-person_related_count: 32
+person_related_count: 34
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Social Engagement]]"
   - "[[Champ]]"
 related_theories:
+  - "[[College Process Model]]"
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
   - "[[Dual Elite Career Paths]]"
@@ -60,6 +61,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch01]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
 confidence: high
 status: active
 created: 2026-05-08
@@ -89,7 +91,7 @@ updated: 2026-11-17
 ---
 
 > [!work-line] 主要著作
-> - **2023 — 《金榜题名之后：大学生出路分化之谜》**（上海三联书店）运用布迪厄实践理论与斯威德勒文化工具箱理论，构建由资本化、在校投入与价值选择三层嵌套的大学过程分析框架，提炼目标掌控与直觉依赖双模式类型学，揭示中国顶尖大学文凭兑换中的阶层鸿沟。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023)]]；第一章阐明高校扩招引致文凭通胀后，求职筛选转向以实习与软技能为核心的履历经济学，使大学生活沦为缺乏统一路线指引的迷宫博弈。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(郑雅君, 2023, pp. 67–99)]]
+> - **2023 — 《金榜题名之后：大学生出路分化之谜》**（上海三联书店）运用布迪厄实践理论与斯威德勒文化工具箱理论，构建由资本化、在校投入与价值选择三层嵌套的[[College Process Model|大学过程分析框架]]，提炼目标掌控与直觉依赖双模式类型学，揭示中国顶尖大学文凭兑换中的阶层鸿沟。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023)]]；第一章阐明高校扩招引致文凭通胀后，求职筛选转向以实习与软技能为核心的履历经济学，使大学生活沦为缺乏统一路线指引的迷宫博弈。[[Argument_Zheng_2023_ShanghaiSanlian_Ch01|(郑雅君, 2023, pp. 67–99)]]；第二章系统阐释大学过程分析框架，并交代 62 名一流大学毕业生的纵向跟踪个案研究设计。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|(郑雅君, 2023, pp. 33–64)]]
 > - **2018 — 《重点高校农村生源学生的在校适应与发展》**（与牛新春合作）基于两所重点大学的实证调查，揭示专项计划录取的农村学子在名校就读期间的学业表现、社团参与与生涯定向特征。
 
 ---

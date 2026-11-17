@@ -3164,6 +3164,8 @@
     "Bravo (2009)": "Bravo, 2009",
     "Bravo, 2009": "Bravo, 2009",
     "Braxton (1998)": "Braxton, 1998",
+    "Braxton et al. (1997)": "Braxton et al., 1997",
+    "Braxton et al., 1997": "Braxton et al., 1997",
     "Braxton, 1998": "Braxton, 1998",
     "Bray & Manzon (2007)": "Bray & Manzon, 2007",
     "Bray & Manzon, 2007": "Bray & Manzon, 2007",
@@ -4722,6 +4724,8 @@
     "Christodoulou, 2017": "Christodoulou, 2017",
     "Christof Wecker (2016)": "Christof Wecker, 2016",
     "Christof Wecker, 2016": "Christof Wecker, 2016",
+    "Christoph Menke (1988)": "Christoph Menke, 1988",
+    "Christoph Menke, 1988": "Christoph Menke, 1988",
     "Christophe Lécuyer (1999)": "Christophe Lécuyer, 1999",
     "Christophe Lécuyer, 1999": "Christophe Lécuyer, 1999",
     "Christopher Ansell (2000)": "Christopher Ansell, 2000",
@@ -8924,6 +8928,8 @@
     "Gerard et al., 2015a": "Gerard et al., 2015b",
     "Gerard et al., 2015b": "Gerard et al., 2015b",
     "Gerard et al., 2016": "Gerard et al., 2016",
+    "Gerber & Cheung (2008)": "Gerber & Cheung, 2008",
+    "Gerber & Cheung, 2008": "Gerber & Cheung, 2008",
     "Gerhard Lehmbruch (1982)": "Gerhard Lehmbruch, 1982",
     "Gerhard Lehmbruch, 1982": "Gerhard Lehmbruch, 1982",
     "Gerhard vom Hofe (1982)": "Gerhard vom Hofe, 1982",
@@ -16916,6 +16922,8 @@
     "Mitchell (2001)": "Mitchell, 2001",
     "Mitchell (2002)": "Mitchell, 2002",
     "Mitchell (2014)": "Mitchell, 2014",
+    "Mitchell L. Stevens (2008)": "Mitchell L. Stevens, 2008",
+    "Mitchell L. Stevens, 2008": "Mitchell L. Stevens, 2008",
     "Mitchell, 1987": "Mitchell, 1987a",
     "Mitchell, 1987a": "Mitchell, 1987b",
     "Mitchell, 1987b": "Mitchell, 1987b",
@@ -19371,8 +19379,10 @@
     "Pierre Azoulay, 2012": "Pierre Azoulay, 2012",
     "Pierre Bourdieu & Jean-Claude Passeron (1979)": "Pierre Bourdieu & Jean-Claude Passeron, 1979",
     "Pierre Bourdieu & Jean-Claude Passeron, 1979": "Pierre Bourdieu & Jean-Claude Passeron, 1979",
+    "Pierre Bourdieu (1977)": "Pierre Bourdieu, 1977",
     "Pierre Bourdieu (1979)": "Pierre Bourdieu, 1979",
     "Pierre Bourdieu (2003)": "Pierre Bourdieu, 2003",
+    "Pierre Bourdieu, 1977": "Pierre Bourdieu, 1977",
     "Pierre Bourdieu, 1979": "Pierre Bourdieu, 1979",
     "Pierre Bourdieu, 2003": "Pierre Bourdieu, 2003",
     "Pierson & Castles (2002)": "Pierson & Castles, 2002",
@@ -28063,6 +28073,8 @@
     "郑辉与李路路, 2009": "郑辉与李路路, 2009",
     "里兹维与林加德 (2009)": "里兹维与林加德, 2009",
     "里兹维与林加德, 2009": "里兹维与林加德, 2009",
+    "门克 (1988)": "门克, 1988",
+    "门克, 1988": "门克, 1988",
     "闵尊涛等 (2018)": "闵尊涛等, 2018",
     "闵尊涛等, 2018": "闵尊涛等, 2018",
     "阿德科亚 (2023)": "阿德科亚, 2023",
@@ -51289,6 +51301,21 @@
       ],
       "title": ""
     },
+    "Braxton et al., 1997": {
+      "aliases": [
+        "Braxton et al., 1997",
+        "Braxton et al. (1997)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Braxton et al., 1997"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Academic and Social Integration.md"
+      ],
+      "title": ""
+    },
     "Braxton, 1998": {
       "aliases": [
         "Braxton, 1998",
@@ -60629,6 +60656,7 @@
         "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
         "wiki/concepts/research-methodology/Central Phenomenon.md",
         "wiki/concepts/research-methodology/Saturation.md",
+        "wiki/methods/qualitative/Constructivist Grounded Theory.md",
         "wiki/methods/qualitative/Grounded Theory.md",
         "wiki/persons/us/John W. Creswell.md"
       ],
@@ -62628,6 +62656,21 @@
       "seen_in": [
         "wiki/concepts/instruction-pedagogy/Direct Instruction.md",
         "wiki/concepts/research-methodology/Unit of Analysis.md"
+      ],
+      "title": ""
+    },
+    "Christoph Menke, 1988": {
+      "aliases": [
+        "Christoph Menke, 1988",
+        "Christoph Menke (1988)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Christoph Menke, 1988"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Aesthetic Negativity.md"
       ],
       "title": ""
     },
@@ -93318,6 +93361,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/instruction-pedagogy/Knowledge Integration.md"
+      ],
+      "title": ""
+    },
+    "Gerber & Cheung, 2008": {
+      "aliases": [
+        "Gerber & Cheung, 2008",
+        "Gerber & Cheung (2008)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Gerber & Cheung, 2008"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
       ],
       "title": ""
     },
@@ -151219,6 +151277,21 @@
       ],
       "title": ""
     },
+    "Mitchell L. Stevens, 2008": {
+      "aliases": [
+        "Mitchell L. Stevens, 2008",
+        "Mitchell L. Stevens (2008)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Mitchell L. Stevens, 2008"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
+      ],
+      "title": ""
+    },
     "Mitchell, 1987a": {
       "aliases": [
         "Mitchell, 1987a",
@@ -169308,6 +169381,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
+      ],
+      "title": ""
+    },
+    "Pierre Bourdieu, 1977": {
+      "aliases": [
+        "Pierre Bourdieu, 1977",
+        "Pierre Bourdieu (1977)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Pierre Bourdieu, 1977"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
       ],
       "title": ""
     },
@@ -198797,6 +198885,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/theories/sociology-of-education/Culture as Toolkit.md",
         "wiki/theories/sociology-of-education/Dual-Process Model of Culture in Action.md"
       ],
@@ -199133,6 +199222,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
         "wiki/concepts/sociology-of-education/Habitus.md"
       ],
       "title": ""
@@ -206054,6 +206144,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/higher-education/Academic and Social Integration.md",
         "wiki/concepts/higher-education/Social Engagement.md",
         "wiki/concepts/higher-education/Student Involvement.md",
         "wiki/concepts/university-industry-collaboration/Academic Engagement.md"
@@ -232157,6 +232248,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/comparative-education/OECD-fication.md"
+      ],
+      "title": ""
+    },
+    "门克, 1988": {
+      "aliases": [
+        "门克, 1988",
+        "门克 (1988)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "门克, 1988"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Aesthetic Negativity.md"
       ],
       "title": ""
     },

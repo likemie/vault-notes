@@ -7,7 +7,7 @@ summary: "Parlett和Hamilton (1976) 提出的质性研究数据分析策略：�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -34,10 +34,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-29
+updated: 2026-11-17
 ---
 
 > [!def] Progressive Focussing
@@ -69,4 +70,5 @@ updated: 2026-10-29
 > - 不等于 [[Analytic Induction]] — 逐步聚焦是在分析过程中收窄关注范围，不必然涉及主动寻找负面案例来检验理论。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Cohen et al. (2011)]] — 将逐步聚焦纳入质性数据分析的七步骤框架的总体策略，并指出其在[[Longitudinal Study\|纵向研究]]中的应用（p. 435–436）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 将逐步聚焦纳入质性数据分析的七步骤框架的总体策略，并指出其在[[Longitudinal Study|纵向研究]]中的应用（p. 435–436）。
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch02|Zheng (2023, pp. 56–58)]] — 在关于一流大学毕业生出路分化的半结构化访谈中采用渐进式聚焦，从个人成长史、大学过程逐步收窄至毕业决策。

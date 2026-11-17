@@ -7,7 +7,7 @@ aliases:
 summary: "解释大学生如何通过学术融入与社交融入逐步稳定留在高等教育体系中的学生发展概念，强调归属感与参与质量的重要性"
 type: concept
 domain: "higher-education"
-related_count: 16
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,7 +29,8 @@ related_concepts:
   - "[[Theoretical Standpoint]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
-related_theories: []
+related_theories:
+  - "[[College Process Model]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Triangulation]]"
@@ -38,10 +39,11 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-10-30
+updated: 2026-11-17
 ---
 
 ---
@@ -54,14 +56,14 @@ updated: 2026-10-30
 
 Tinto 的核心关切是大[[Academic Attrition|学生辍学]]问题：为何许多学生——特别是弱势背景学生——在进入大学后选择离开？他的回答是：融入失败。学生若不能顺利完成从原有社会关系到大学新群体的心理和行为过渡，辍学风险就会显著升高（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。
 
-[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]将该理论作为"大学过程"三层嵌套[[Analytic Framework|分析框架]]中"投入过程"的主要理论资源之一。
+[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|郑雅君 (2023, pp. 39–41)]]将该理论作为[[College Process Model|大学过程分析框架]]中“投入过程”的主要理论资源之一。
 
 ---
 
 > [!example] 概念辨析
-> - vs [[Student Engagement]]（Kuh, 1991）— 两者都认为学生的主动参与是取得积极教育成果的关键，但侧重不同：Tinto 更侧重从原有社会关系过渡到大学新群体的**心理融入过程**（分离-转折-习得），Kuh 更强调**可测量的行为投入**和学校的结构性支持（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）。在[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]的"投入过程"框架中，Tinto 提供了投入的**心理机制**，Kuh 提供了投入的**行为[[Operationalization\|操作化]]**
+> - vs [[Student Engagement]]（Kuh, 1991）— 两者都认为学生的主动参与是取得积极教育成果的关键，但侧重不同：Tinto 更侧重从原有社会关系过渡到大学新群体的**心理融入过程**（分离-转折-习得），Kuh 更强调**可测量的行为投入**和学校的结构性支持（[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|郑雅君, 2023, pp. 40–41]]）。在[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|郑雅君 (2023)]]的"投入过程"框架中，Tinto 提供了投入的**心理机制**，Kuh 提供了投入的**行为[[Operationalization|操作化]]**
 > - vs [[Student Involvement]]（Astin, 1984）— Astin 关注的是学生在学习过程中投入的"生理和心理能量"，聚焦个体层面的能量分配；Tinto 关注的是学生**关系的转换**——从旧关系到新群体的过渡仪式
-> - **学业融入 vs 社交融入** 融入大学的过程体现在两个互相促进的独立维度——学业融入（学生顺利与学校学术方面的正式规范达成一致）和社交融入（学生发现大学社交环境与自己的偏好或期待相协调的程度）（，引 Tinto, 1993; Braxton, Shaw Sullivan & Johnson, 1997）
+> - **学业融入 vs 社交融入** 融入大学的过程体现在两个互相促进的独立维度——学业融入（学生顺利与学校学术方面的正式规范达成一致）和社交融入（学生发现大学社交环境与自己的偏好或期待相协调的程度）（Tinto, 1993; Braxton et al., 1997；引自 [[Argument_Zheng_2023_ShanghaiSanlian_Ch02|郑雅君, 2023, p. 40]]）
 
 ---
 
@@ -107,13 +109,13 @@ Tinto 的核心关切是大[[Academic Attrition|学生辍学]]问题：为何许
 >   - **目标掌控者** 主动且策略性地融入学业和社交活动，但融入程度取决于生涯目标需要——学业融入被功能化（绩点只是门槛），社会性融入被工具化（职业探索和简历建设）
 > - **直觉依赖者** 社交融入被习惯性忽略——弱势背景大学生往往对校园社交和[[Extracurricular Activities|课外活动]]保持拒斥感，将其视作对学习主业的干扰（，引 Bergerson, 2007; 谢爱磊, 2016; Stuber, 2011）
 > - [[Yajun Zheng\|郑雅君]]的[[Operationalization\|操作化]]设计通过多指标[[Triangulation\|三角互证]]测量了分离（P1 个人生活史）、转折（P2-Q3 适应困难）、习得（P2-Q4 主动融入）、学业融入（[[Academic Achievement\|GPA]] + 归属感自评）和社交融入（交友数量 + 师生交流频率 + 学生组织职务）五个[[Construct\|构念]]。详见 [[Student Engagement]]
-> - 转变者案例揭示了社交融入在打破原有模式中的关键角色——梓桐通过讲座和学术小圈子逐渐移入学术价值图式，高程通过学生工作确立公共服务志向。相反的，禹海因长期缺乏社交融入（与同学"没有真正意义上的深入接触"、与老师"不会觉得很亲近"），直到高年级仍未建立清晰的职业方向意识。这意味着社交融入维度对直觉依赖者而言不仅是"学业成功的辅助条件"，更可能是触发整个模式转换的**初始杠杆**
+> - 转变者案例揭示了社交融入在打破原有模式中的关键角色——梓桐通过讲座和学术小圈子逐渐移入学术价值图式，高程通过学生工作确立公共服务志向。相反的，禹海因长期缺乏社交融入（与同学"没有真正意义上的深入接触"、与老师"不会觉得很亲近"），直到高年级仍未建立清晰的职业方向意识。这意味着社交融入维度对直觉依赖者而言不仅是"学业成功的辅助条件"，更可能是触发整个模式转换的关键支点
 
 ---
 
 > [!warning] 争议与批评
-> - **"中立过程"假设** 社会学家和人类学家的核心批评——融入/投入等概念被预设为"由学生自己决定而不牵涉阶层、种族等社会因素的中立过程"。这一[[Theoretical Standpoint\|理论立场]]导致未预期的推论：弱势学生在大学里表现不佳，似乎全怪自己没有努力投入（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Tierney, 1992; Stuber, 2011; Yee, 2016）
-> - **结构性盲点** 高等教育学领域整体仍将大学预设为"公平公正的竞技场"，忽视了结构性不平等。[[Yajun Zheng\|郑雅君]]指出，弱势学生的"不融入"并非个人选择，而是文化语码的不适配（如大成的"语言包"比喻）和屡次融入失败后的回避（如冰倩的"弃疗"）共同导致的——结构性约束伪装成了个人能力问题
+> - **"中立过程"假设** 社会学家和人类学家的核心批评——融入/投入等概念被预设为"由学生自己决定而不牵涉阶层、种族等社会因素的中立过程"。这一[[Theoretical Standpoint|理论立场]]导致未预期的推论：弱势学生在大学里表现不佳，似乎全怪自己没有努力投入（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Tierney, 1992; Stuber, 2011; Yee, 2016）
+> - **结构性盲点** 高等教育学领域整体仍将大学预设为"公平公正的竞技场"，忽视了结构性不平等。[[Yajun Zheng|郑雅君]]指出，弱势学生的"不融入"源于文化语码的不适配（如大成的"语言包"比喻）与屡次融入挫折后的主动回避（如冰倩的"弃疗"）——结构性约束伪装成了个人能力问题
 > - **[[Operationalization\|操作化]]争议** 学界对于如何贴切地操作化 Tinto 的理论模型至今仍有许多争论（，引 Braxton & Lien, 2000）
 
 ---

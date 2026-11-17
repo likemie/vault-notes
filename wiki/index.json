@@ -4680,6 +4680,17 @@
     ]
   },
   {
+    "title": "Aesthetic Negativity",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Aesthetic Negativity.md",
+    "aliases": [
+      "审美否定性",
+      "艺术的否定性",
+      "否定美学",
+      "Ästhetische Negativität"
+    ]
+  },
+  {
     "title": "Aesthetic Nondifferentiation",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Aesthetic Nondifferentiation.md",
@@ -4698,6 +4709,18 @@
       "审美假象",
       "ästhetischer Schein",
       "aesthetic appearance"
+    ]
+  },
+  {
+    "title": "Aesthetic Shock",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Aesthetic Shock.md",
+    "aliases": [
+      "审美震颤",
+      "审美震撼",
+      "震颤",
+      "Erschütterung",
+      "Shudder"
     ]
   },
   {
@@ -6294,6 +6317,16 @@
       "进步教育",
       "progressive education movement",
       "进步主义教育运动"
+    ]
+  },
+  {
+    "title": "Promise of Happiness",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Promise of Happiness.md",
+    "aliases": [
+      "幸福承诺",
+      "幸福的承诺",
+      "promesse de bonheur"
     ]
   },
   {
@@ -10679,6 +10712,18 @@
     "path": "wiki/concepts/higher-education/Financialization of Higher Education.md",
     "aliases": [
       "高等教育金融化"
+    ]
+  },
+  {
+    "title": "First-Generation College Student",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/First-Generation College Student.md",
+    "aliases": [
+      "第一代大学生",
+      "第一代大学生群体",
+      "第一代大学生背景",
+      "first-generation college students",
+      "First-Generation Students"
     ]
   },
   {
@@ -23967,6 +24012,19 @@
     ]
   },
   {
+    "title": "Triangle of Coordination",
+    "type": "theory",
+    "path": "wiki/theories/higher-education/Triangle of Coordination.md",
+    "aliases": [
+      "高等教育三角协调模型",
+      "三角协调模型",
+      "三角协调理论",
+      "克拉克三角模型",
+      "Clark's Triangle of Coordination",
+      "Higher Education Triangle"
+    ]
+  },
+  {
     "title": "Zawacki-Richter AI in Higher Education Framework",
     "type": "theory",
     "path": "wiki/theories/higher-education/Zawacki-Richter AI in Higher Education Framework.md",
@@ -25340,6 +25398,17 @@
     ]
   },
   {
+    "title": "College Process Model",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/College Process Model.md",
+    "aliases": [
+      "大学过程分析框架",
+      "大学过程模型",
+      "大学过程",
+      "College Process Framework"
+    ]
+  },
+  {
     "title": "Cultural Models",
     "type": "theory",
     "path": "wiki/theories/sociology-of-education/Cultural Models.md",
@@ -25379,6 +25448,18 @@
       "文化行动双过程模型",
       "dual-process model",
       "Vaisey 双过程模型"
+    ]
+  },
+  {
+    "title": "Effectively Maintained Inequality",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Effectively Maintained Inequality.md",
+    "aliases": [
+      "有效维持的不平等",
+      "有效维持不平等假说",
+      "EMI 假说",
+      "Effectively Maintained Inequality Hypothesis",
+      "EMI"
     ]
   },
   {
@@ -40079,6 +40160,22 @@
     "subtype": "policy"
   },
   {
+    "title": "Targeted Admissions Scheme",
+    "type": "fact",
+    "path": "wiki/facts/china/Targeted Admissions Scheme.md",
+    "aliases": [
+      "重点高校招收农村和贫困地区学生专项计划",
+      "高校专项招生计划",
+      "贫困专项计划",
+      "农村专项计划",
+      "国家专项计划",
+      "高校专项计划",
+      "地方专项计划",
+      "Targeted Admissions Scheme for Rural and Poor Students"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Three Excellences",
     "type": "fact",
     "path": "wiki/facts/china/Three Excellences.md",
@@ -42013,6 +42110,18 @@
       "OIB"
     ],
     "subtype": "program"
+  },
+  {
+    "title": "Dialectic of Enlightenment",
+    "type": "fact",
+    "path": "wiki/facts/germany/Dialectic of Enlightenment.md",
+    "aliases": [
+      "启蒙辩证法",
+      "Dialektik der Aufklärung",
+      "启蒙的辩证法",
+      "The Dialectic of Enlightenment"
+    ],
+    "subtype": "event"
   },
   {
     "title": "Eck Swarm Experiment",
@@ -53128,6 +53237,11 @@
     "title": "Argument_Zheng_2023_ShanghaiSanlian_Ch01",
     "type": "argument",
     "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch01.md"
+  },
+  {
+    "title": "Argument_Zheng_2023_ShanghaiSanlian_Ch02",
+    "type": "argument",
+    "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md"
   },
   {
     "title": "Argument_Du_Yuan_2026_AIS",

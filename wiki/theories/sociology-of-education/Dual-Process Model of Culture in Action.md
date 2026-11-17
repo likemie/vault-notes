@@ -7,7 +7,7 @@ aliases:
 summary: "解释行动为何同时受反思性策略与深层价值倾向驱动的文化社会学理论，强调两种过程在不同意识层次上并存"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 17
+theory_related_count: 18
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -29,8 +29,8 @@ related_concepts:
   - "[[Graduation Pathway Typology]]"
 related_theories:
   - "[[Culture as Toolkit]]"
+  - "[[College Process Model]]"
 related_methods:
-  - "[[Analytic Framework]]"
   - "[[Discourse Analysis]]"
 related_persons:
   - "[[Max Weber]]"
@@ -38,24 +38,25 @@ related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments:
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-30
+updated: 2026-11-17
 ---
 
 ---
 
 > [!tip] 核心主张
-> 文化-行动双过程模型（Dual-Process Model of Culture in Action）由美国社会学家 Stephen Vaisey（2009）在《美国社会学刊》（*AJS*）上提出，旨在调和文化社会学中关于文化如何影响行动的经典争论——价值观驱动[[Paradigm\|范式]]（韦伯-Parsons 传统）与[[Culture as Toolkit\|文化工具箱]]范式（Swidler, 1986）。Vaisey 援引认知科学的双过程理论论证：两种范式并非互相排斥，而是在不同的意识层次发挥作用。
+> 文化-行动双过程模型（Dual-Process Model of Culture in Action）由美国社会学家 Stephen Vaisey（2009）在《美国社会学刊》（*AJS*）上提出，旨在调和文化社会学中关于文化如何影响行动的经典争论——价值观驱动[[Paradigm|范式]]（韦伯-Parsons 传统）与[[Culture as Toolkit|文化工具箱]]范式（Swidler, 1986）。Vaisey 援引认知科学的双过程理论论证：两种范式在不同的意识层次发挥互补作用。
 
 > [!quote|notitle]
 > "both paradigms are effectively correct but that they apply to different levels of consciousness." (Vaisey, 2009, pp. 1685–1686; cited in Zheng, 2023)
 > 
 > 两种范式实际上都正确，但它们适用于不同的意识层次。
 
-[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]以该模型作为其**大学过程**[[Analytic Framework|分析框架]]中价值选择过程的理论基础之一。
+[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|郑雅君 (2023, pp. 44–46)]]以该模型作为其[[College Process Model|大学过程分析框架]]中价值选择过程的理论基础之一。
 
 ---
 
@@ -93,7 +94,7 @@ Vaisey 援引认知科学的双过程发现，区分两种意识层次的认知�
 
 > [!note] 发展脉络
 > - **1986 争论起点** Swidler 在 *ASR* 发表 Culture in Action，提出[[Culture as Toolkit\|文化工具箱]][[Paradigm\|范式]]，挑战 Weber-Parsons 价值观驱动范式的垄断地位——文化不仅定义行动目的（想要什么），更提供建构行动策略的工具（如何去做）（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Swidler, 1986）。
-> - **2009 Vaisey 调和** Stephen Vaisey 在 *AJS* 发表 Motivation and Justification，指出两种范式有论无争，甚至互相补充——问题的关键在于意识层次。援引认知科学双过程理论，论证价值观驱动范式在深层无意识层次运作，工具箱范式在浅层有意识层次运作（，引 Vaisey, 2009）。
+> - **2009 Vaisey 调和** Stephen Vaisey 在 *AJS* 发表 Motivation and Justification，指出两种范式有论无争，甚至互相补充——问题的关键在于意识层次。援引认知科学双过程理论，论证价值观驱动范式在深层无意识层次运作，工具箱范式在浅层有意识层次运作（Vaisey, 2009；引自 [[Argument_Zheng_2023_ShanghaiSanlian_Ch02|郑雅君, 2023, p. 45]]）。
 > - **2023 教育研究应用**[[Yajun Zheng\|郑雅君]]在《金榜题名之后》中将 Vaisey 模型系统应用于中国精英大学学生出路分化的分析，以行动目的生成状态和文化工具箱使用能力两个维度建构 2×2 四分类模型。
 
 ---

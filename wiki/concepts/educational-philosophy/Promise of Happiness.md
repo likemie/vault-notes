@@ -7,7 +7,7 @@ aliases:
 summary: "阿多诺援引司汤达命题重构的美学与批判理论核心概念，指自律艺术通过自身形式对现存不义社会秩序的坚决否定，既拒绝开出廉价的实证乌托邦药方，又在非同一性形式与苦难记忆中守护着人类摆脱压迫、实现和解的超越性幸福期许。"
 type: concept
 domain: "educational-philosophy"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,12 +20,11 @@ tags:
   - theme/utopia
   - theme/negativity
 related_concepts:
+  - "[[Disinterested Pleasure]]"
   - "[[The Nonidentical]]"
   - "[[Aesthetic Semblance]]"
   - "[[Culture Industry]]"
   - "[[Natural Beauty]]"
-  - "[[Mimesis]]"
-  - "[[Disinterested Pleasure]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Adorno's Aesthetics]]"
@@ -48,7 +47,7 @@ updated: 2026-11-17
 ---
 
 > [!def] Promise of Happiness
-> 幸福承诺（*promesse de bonheur*）是阿多诺自律美学与否定辩证法的核心范畴，指真正严肃的艺术作品拒绝描绘廉价具象的现实乌托邦蓝图，而是凭借内在形式结构对现存压迫世界的决绝否定（“对现状说不”），在作品与现实功利彻底割裂的自律外观中，执着守护人类摆脱异化、实现人与自然及人与人彻底和解的形而上期许；艺术的真实性在于“唯有不融入这个世界之物才是真实的”，它通过记录受难与拒绝同化来守护幸福的未竟可能。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 201–202, 211)]]
+> 幸福承诺（*promesse de bonheur*）是阿多诺自律美学与否定辩证法的核心范畴，指严肃的艺术作品凭借内在形式结构对现存压迫世界的决绝否定（“对现状说不”），在作品与现实功利彻底割裂的自律外观中，执着守护人类摆脱异化、实现人与自然及人与人彻底和解的形而上期许；艺术的真实性在于“唯有不融入这个世界之物才是真实的”，它通过记录受难与拒绝同化来守护幸福的未竟可能。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 201–202, 211)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 指向艺术作品通过形式上的不妥协与未和解状态，对未来解放世界所维系的非直观辩证期许。
@@ -99,7 +98,7 @@ updated: 2026-11-17
 > **否定美学与乌托邦承诺** 阐明阿多诺如何将艺术的批判否定性与超越性解放希望紧密锚定在一起。
 >
 > > [!claim] Adorno, T. W.
-> > **不妥协的形式拒绝同化** 在《美学理论》（1970）中，阿多诺论证艺术最伟大的安慰并不在于它宣告了何种动听信条，而在于它在虚假世界中实实在在地存在。那些最显荒凉、最严苛排拒感官愉悦的现代主义作品，凭借其绝不屈服于现实功利交换法则的形式纯粹性，承载着最为坚韧的幸福希望。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 201, 207)]]
+> > **不妥协的形式拒绝同化** 在《美学理论》（1970）中，阿多诺论证艺术最伟大的安慰源于它在虚假世界中的实在存在本身。那些最显荒凉、最严苛排拒感官愉悦的现代主义作品，凭借其绝不屈服于现实功利交换法则的形式纯粹性，承载着最为坚韧的幸福希望。[[Argument_Hammermeister_2002_Cambridge_Ch10|(Hammermeister, 2002, pp. 201, 207)]]
 
 ---
 
