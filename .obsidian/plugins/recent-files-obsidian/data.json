@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch04",
+      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
+    },
+    {
       "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch03",
       "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch03.md"
+    },
+    {
+      "basename": "The Shock of the Elite",
+      "path": "wiki/concepts/sociology-of-education/The Shock of the Elite.md"
     },
     {
       "basename": "Professional Interest",
@@ -47,10 +55,6 @@
     {
       "basename": "template-argument-monograph",
       "path": "wiki/templates/template-argument-monograph.md"
-    },
-    {
-      "basename": "Argument_Zheng_2023_ShanghaiSanlian_Ch04",
-      "path": "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch04.md"
     },
     {
       "basename": "Argument_Hammermeister_2002_Cambridge_Ch06",
@@ -195,10 +199,6 @@
     {
       "basename": "Between-Study Variance",
       "path": "wiki/methods/quantitative/Between-Study Variance.md"
-    },
-    {
-      "basename": "Economy of Experience",
-      "path": "wiki/concepts/higher-education/Economy of Experience.md"
     }
   ],
   "omittedPaths": [],

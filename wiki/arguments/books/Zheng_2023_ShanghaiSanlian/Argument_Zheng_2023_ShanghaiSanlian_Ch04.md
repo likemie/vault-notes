@@ -95,7 +95,7 @@ updated: 2026-11-17
 ---
 
 > [!question]
-> 为什么同样考入顶尖名校的学生在校期间付出了大量努力，其努力所能兑现的毕业出路却大相径庭？[[Goal-Controlled Mode|目标掌控]]者与[[Intuition-Dependent Mode|直觉依赖]]者在组织[[Academic Engagement|学业投入]]与[[Social Engagement|社会性投入]]时采取了何种截然不同的行动策略与道德伦理？弱势背景学生在名校面临怎样的[[Cultural Code|文化语码]]壁垒与适应困境？[[College Process Model|大学过程]]如何为部分直觉依赖者提供契机，实现向目标掌控模式的[[Habitus Transformation|习性转换]]与策略充实？
+> 为什么同样考入顶尖名校的学生在校期间付出了大量努力，其努力所能兑现的毕业出路却大相径庭？[[Goal-Controlled Mode|目标掌控]]者与[[Intuition-Dependent Mode|直觉依赖]]者在组织[[Academic Engagement|学业投入]]与[[Social Engagement|社会性投入]]时采取了何种截然不同的行动策略与道德伦理？弱势背景学生在名校面临怎样的[[Cultural Code|文化语码]]壁垒与适应困境？[[College Process Model|大学过程]]又如何为部分直觉依赖者创造契机，促使其完成[[Habitus Transformation|习性转换]]、丰富行动策略，进而转向[[Goal-Controlled Mode|目标掌控模式]]？
 
 > [!claim] 核心主张
 > 大学校园内部存在多元分化的竞争规则，学生的时间与精力分配直接决定了关底出路竞争的优劣位势。在[[Academic Engagement|学业投入]]与[[Social Engagement|社会性投入]]两大维度上，两类实践模式呈现系统性分异：
@@ -323,7 +323,7 @@ updated: 2026-11-17
 ---
 
 > [!claim|step] 论证步骤六　大学重塑人的眼界：在课外实践中开窍，从盲目随大流转为主动掌控人生
-> 尽管阶层习性具有强大的惯性，但高等教育过程超越了单纯的文凭生产，具备如同育婴室般的集中再社会化功能（Stevens et al., 2008）。布迪厄（Bourdieu, 2012）强调习性作为持久可转换的倾向系统，能够在异质场域中产生新倾向。在深度访谈中，约半数直觉依赖者在高年级通过密集的社会性投入实现了向目标掌控模式的[[Habitus Transformation|习性转换]]（第四章）。
+> 尽管阶层习性具有强大的惯性，但高等教育过程超越了单纯的文凭生产，具备如同育婴室般的集中再社会化功能（Stevens et al., 2008）。布迪厄（Bourdieu, 2012）强调习性作为持久可转换的倾向系统，能够在异质场域中产生新倾向。在深度访谈中，约半数直觉依赖者在高年级通过密集的社会性投入完成了[[Habitus Transformation|习性转换]]，逐步转向[[Goal-Controlled Mode|目标掌控模式]]（第四章）。
 
 > [!sub-claim] 1. 遇到好老师与优秀榜样，跳出唯金钱论，立下学术传承与为民服务大志
 
