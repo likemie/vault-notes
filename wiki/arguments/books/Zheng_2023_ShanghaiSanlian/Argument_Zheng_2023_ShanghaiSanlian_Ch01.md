@@ -57,6 +57,8 @@ related_theories:
   - "[[Human Capital Theory]]"
   - "[[Triangle of Coordination]]"
   - "[[Path Dependence]]"
+  - "[[Maximally Maintained Inequality]]"
+  - "[[Dual Labor Market Theory]]"
 related_methods:
   - "[[Case Study]]"
   - "[[In-depth Interview]]"
@@ -70,6 +72,7 @@ related_persons:
   - "[[Yajun Zheng]]"
   - "[[Burton R. Clark]]"
   - "[[Anthony Abraham Jack]]"
+  - "[[James S. Coleman]]"
 related_facts:
   - "[[China College Graduate Employment Reform]]"
   - "[[Gaokao]]"
@@ -104,6 +107,9 @@ updated: 2026-11-17
 > | **[[Credential Inflation\|文凭通货膨胀]]** | [[Randall Collins\|兰德尔·柯林斯（Randall Collins）]] | 解释高校扩招导致文凭总量过剩后，大学文凭在劳动力市场中的交换价值发生萎缩，进而驱动更高学历追求与激烈再竞争的宏观机制（p. 75）。 |
 > | **[[Economy of Experience\|履历经济学]]** | [[Phillip Brown\|菲利普·布朗（Phillip Brown）]] | 阐明当文凭无法甄别[[Employability\|就业能力]]时，雇主依赖个性、软技能、实习与[[Extracurricular Activities\|课外活动]]等相对优势，迫使学生将大学生活组织为持续的履历资本投资（p. 77）。 |
 > | **[[Dual Elite Career Paths\|二元精英职业路径]]** | [[Andrew G. Walder\|魏昂德（Andrew G. Walder）]] | 刻画后社会主义社会中政治管理精英与专业技术精英两条分立的流动路径，为一流大学毕业生的体制内选调与市场化职业选择提供结构参照（pp. 88–90）。 |
+> | **[[Triangle of Coordination\|高等教育三角协调模型]]** | [[Burton R. Clark\|伯顿·R·克拉克（Burton R. Clark）]] | 揭示大学育人使命、政府权力与市场力量的结构性脱节，阐释校园迷宫形成的组织根源（pp. 80–82）。 |
+> | **[[Maximally Maintained Inequality\|最大化维持的不平等]]** | Raftery & Hout | 揭示教育扩张在优势阶层饱和前无法自发缩小相对阶层差距的分配规律（p. 75）。 |
+> | **[[Dual Labor Market Theory\|二元劳动力市场理论]]** | Doeringer & Piore | 解释体制内与体制外双轨分割下，工资定价机制与求职筛选门槛的结构性差异（pp. 88–90）。 |
 
 ---
 
@@ -174,7 +180,7 @@ updated: 2026-11-17
 
 > [!evidence-grid] 文凭通胀与层级分化的理论及实证依据
 > - **文凭通货膨胀与岗位向下挤压** 依据 Randall Collins 在《文凭社会》中的分析，大学文凭持有群体急剧膨胀导致文凭通货膨胀，文凭作为兑换职业地位的通货价值发生萎缩；普通高校毕业生供给总量超出白领岗位需求，迫使部分文凭持有者向蓝领岗位转移（胡瑞文等, 2014；pp. 72–73）。
-> - **质性竞争转移与优势有效维持** 特权阶层在文凭数量扩张中为了维系相对优势，将竞争重心转移至重点大学、热门专业与研究生学位，印证了[[Effectively Maintained Inequality|有效维持的不平等（Effectively Maintained Inequality, EMI）假说]]；重点高校文凭虽具溢价，亦遭受文凭稀释的系统性冲击（pp. 73–75）。
+> - **质性竞争转移与优势有效维持** 在文凭数量扩张打破传统垄断后，不同于[[Maximally Maintained Inequality|最大化维持的不平等（Maximally Maintained Inequality, MMI）假说]]预设的饱和后下沉逻辑，优势阶层将竞争重心转移至重点大学、热门专业与研究生学位等质量区隔，印证了[[Effectively Maintained Inequality|有效维持的不平等（Effectively Maintained Inequality, EMI）假说]]；重点高校文凭虽具溢价，亦遭受文凭稀释的系统性冲击（pp. 73–75）。
 
 > [!warrant]- 为什么文凭数量扩张未能平抑阶层竞争
 > 当高等教育准入门槛降低后，特权群体并不会放弃维系阶层优势的努力。依据 Lucas (2001) 的分析，数量上的普及会促使优势阶层将竞争焦点转向同等文凭内部的质性差异（院校声望、专业壁垒与后续深造机会）。因此，文凭数量的膨胀仅将筛选竞争推移至更高学历层级与更隐蔽的文化软实力维度，未能从根本上阻断优势地位的代际再生产（pp. 73–75）。
@@ -236,7 +242,7 @@ updated: 2026-11-17
 > [!sub-claim] 2. 体制内选拔看重党员干部身份，企业招聘看重专业实习经历
 
 > [!theory-proposition] 二元精英职业路径的身份门槛与资本分立
-> 中国城市劳动力市场长期存在体制内国有部门与市场化非国有部门的分立格局。依据 [[Andrew G. Walder|魏昂德（Andrew G. Walder）]] 的理论，后社会主义社会形成了政治管理精英与专业技术精英的[[Dual Elite Career Paths|二元精英职业路径]]：前者以政治忠诚与党员身份为关键门槛，对应国家机关选调生与国企行政管理岗位，看重学生骨干经历；后者以专业文凭与技术人力资本为支撑，对应外资企业、高科技民企与学术研发机构，看重核心实习与专业业务能力。重点大学学生站在两条路径的交汇点，必须提前做出明确取舍并针对性累积筹码（pp. 88–91）。
+> 依据[[Dual Labor Market Theory|二元劳动力市场理论]]，中国城市劳动力市场长期存在体制内国有部门与市场化非国有部门的分立格局。依据 [[Andrew G. Walder|魏昂德（Andrew G. Walder）]] 的理论，后社会主义社会形成了政治管理精英与专业技术精英的[[Dual Elite Career Paths|二元精英职业路径]]：前者以政治忠诚与党员身份为关键门槛，对应国家机关选调生与国企行政管理岗位，看重学生骨干经历；后者以专业文凭与技术人力资本为支撑，对应外资企业、高科技民企与学术研发机构，看重核心实习与专业业务能力。重点大学学生站在两条路径的交汇点，必须提前做出明确取舍并针对性累积筹码（pp. 88–91）。
 
 > [!contrast-table] 城市二元劳动力市场与精英职业路径特征对比表
 > | 制度维度 | 国有部门（政治管理路径） | 非国有经济部门（专业技术路径） |
