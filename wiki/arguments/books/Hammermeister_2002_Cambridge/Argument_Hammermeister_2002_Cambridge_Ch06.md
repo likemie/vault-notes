@@ -79,7 +79,7 @@ related_facts:
 confidence: high
 status: draft
 created: "2026-11-15"
-updated: "2026-11-15"
+updated: 2026-11-17
 ---
 
 ---
@@ -136,8 +136,11 @@ updated: "2026-11-15"
 
 > [!sub-claim] 1. 叔本华在哲学界孤立，却从个人、认知和实践三方面拆解了唯心论美学
 
-> [!case] 艺术界受追捧与哲学界冷落的反差
-> 在所有艺术哲学家中，叔本华对艺术家创作与自我理解的影响最为广泛：直接承认受其启发的作家涵盖弗里德里希·黑贝尔（Friedrich Hebbel）、奥古斯特·斯特林堡（August Strindberg）、托马斯·哈代（Thomas Hardy）、埃米尔·左拉（Émile Zola）、马塞尔·普鲁斯特（Marcel Proust）、托马斯·曼（Thomas Mann）、埃德加·爱伦·坡（Edgar Allan Poe）、夏尔·波德莱尔（Charles Baudelaire）、斯特凡·马拉美（Stéphane Mallarmé）、约瑟夫·康拉德（Joseph Conrad）、安德烈·纪德（André Gide）、罗伯特·穆齐尔（Robert Musil）、塞缪尔·贝克特（Samuel Beckett）、W. B. 叶芝（W. B. Yeats）、豪尔赫·路易斯·博尔赫斯（Jorge L. Borges）、托马斯·伯恩哈德（Thomas Bernhard）与阿尔诺·施密特（Arno Schmidt）；画家有欧仁·德拉克罗瓦（Eugène Delacroix）；作曲家则包括理查德·瓦格纳（Richard Wagner）、阿诺德·勋伯格（Arnold Schönberg）、谢尔盖·普罗科菲耶夫（Sergey Prokofiev）及尼古拉·里姆斯基-科萨科夫（Nikolay Rimsky-Korsakoff）。不过，除了借他服务于自身议题的[[Friedrich Nietzsche|尼采]]之外，叔本华在主流哲学史中一直颇为孤立。尽管《作为意志和表象的世界》（1818）出版早于[[Hegel's Aesthetics|黑格尔美学]]讲演，叔本华也自称[[Immanuel Kant|康德]]的正统继承人并宣称超越了[[Georg Wilhelm Friedrich Hegel|黑格尔]]，但他的体系概念不够严谨、跨度不足又常自相矛盾，实际上用怀疑论拆解了德国唯心论美学传统（pp. 111–112）。
+> [!contrast-table] 艺术界受追捧与哲学界冷落的反差
+> | 领域 | 接受广度与代表人物 | 核心动因与历史评价 |
+> |---|---|---|
+> | **艺术创作界**（广泛共鸣与深远启发） | - **文学家** 普鲁斯特、托马斯·曼、波德莱尔、马拉美、贝克特、博尔赫斯、左拉、哈代、爱伦·坡、康拉德、纪德、穆齐尔、叶芝等<br>- **画家** 德拉克罗瓦<br>- **音乐家** 瓦格纳、勋伯格、普罗科菲耶夫、里姆斯基-科萨科夫 | 在所有艺术哲学家中，叔本华对艺术家自我理解与创作实践的影响最为深远；艺术被赋予抚慰苦难、对抗庸俗的崇高地位，契合了现代艺术家的精神诉求（pp. 111–112）。 |
+> | **学院哲学界**（长期孤立与严厉审视） | - **主要继承** [[Friedrich Nietzsche\|尼采]]（借叔本华推进个人思想议程）<br>- **主要背景** 早于[[Hegel's Aesthetics\|黑格尔美学]]成书，自称康德正统继承人 | 除尼采外，在主流哲学美学史中长期处于边缘孤立；哲学界批评其概念严谨度不足、体系缺乏广度且频频自相矛盾，实为唯心论美学传统的怀疑论拆解（pp. 111–112）。 |
 
 > [!contrast-table|notitle] 叔本华与德国唯心论美学的三重根本分歧
 > | 比较维度 | 德国唯心论美学传统（康德、[[Friedrich Schiller\|席勒]]、谢林、黑格尔） | 叔本华的怀疑论逆转 |
