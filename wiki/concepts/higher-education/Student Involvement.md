@@ -37,8 +37,8 @@ related_facts: []
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch02]]"
-confidence: medium
-status: draft
+confidence: high
+status: active
 created: "2026-05-08"
 updated: 2026-11-17
 ---
@@ -123,6 +123,9 @@ updated: 2026-11-17
 >
 > > [!claim] [[Yajun Zheng\|郑雅君]]
 > > **阶层习性对涉入质态的结构性约束** 经典涉入理论假定所有学生享有均等的能量分配自由，忽视了弱势背景学生的现实生存困境；家庭经济困难与第一代大学生常因缺乏经济资本与文化资本，被迫将大量生理与心理能量耗费在兼职打工或基础事务性学习中，难以向高回报的科研、社团治理或深度社交倾注能量，导致涉入呈现无方向性与边缘化特征。[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|(郑雅君, 2023, pp. 40–43)]]（引自 Tierney, 1992; Stuber, 2011）
+>
+> > [!claim] [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|Zheng, Y.]]
+> > **学业与社会性双轨涉入的阶层化精力预算** 郑雅君（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|2023, 第四章]]）实证剖析了两类生活组织模式在能量配置上的微观博弈：目标掌控者建立精明的精力预算机制，在确保学业绩点达到初赛安全门槛的前提下，将高达80%的生理与心理能量向课外名企实习、社团骨干任职与行业交往倾注，以此锻造相对就业力与表现性资本；直觉依赖者则在学业上深陷苦学惯性与及格线挣扎，并在课外涉入中遭遇文化语码不适配与社交挫败，导致能量在被动应付中分散消耗。
 
 ---
 
@@ -186,4 +189,4 @@ updated: 2026-11-17
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 在[[Argument_Zheng_2023_ShanghaiSanlian_Ch02\|第二章]]中将 Astin 涉入理论引入大学过程分析框架的“投入过程”层，阐明其能量假说并批判其阶层中立假定（pp. 40–41, 47–48）；后续结合问卷与质性追踪，检验学生在学业与社会性两个维度上的能量配置模式对毕业出路分化的深层塑造。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 在[[Argument_Zheng_2023_ShanghaiSanlian_Ch02|第二章]]引入涉入理论，并在[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|第四章]]实证解构两类生活模式在学业与社会性双轨上的微观精力预算与能量分配策略。

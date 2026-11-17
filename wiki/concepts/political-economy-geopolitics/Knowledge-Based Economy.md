@@ -131,7 +131,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-11-15
+updated: 2026-11-17
 ---
 
 ---
@@ -211,6 +211,9 @@ updated: 2026-11-15
 
 > [!claim] [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]]; [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]]
 > **[[21st Century Skills and Competencies Discourse|21世纪技能]]话语是KBE在个体层面的[[Operationalization|操作化]]机制** KBE 逻辑将知识界定为增长源泉，而 21 世纪技能话语（Skills and Competencies Discourse, [[Single-Case Design|SCD]]）则将宏观经济需求转化为个体必须终身获取的技能清单；知识生命周期的缩短驱动了[[Further Education|继续教育]]与企业培训的常态化，将劳动者规训为对自身[[Employability|就业力]]负全责的“[[Self-Entrepreneur|自我企业家]]”。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, pp. 259–260)]]; [[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, p. 179)]]
+
+> [!claim] [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|Zheng, Y.]] & Brown and Hesketh (2004)
+> **文凭贬值与相对就业力排位异化** 郑雅君（[[Argument_Zheng_2023_ShanghaiSanlian_Ch04|2023, 第四章]]，引 Brown & Hesketh, 2004）指出，在知识经济与高等教育大众化背景下，高校毕业证书在劳动力市场中退化为基准门槛；雇主筛选不可逆地转向对求职者软技能、经历包装与自我呈现的相对排序竞争，促使大学生将精力大规模从课程学习转向课外社会性投入与履历积累。
 
 ---
 
@@ -336,6 +339,7 @@ updated: 2026-11-15
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|郑雅君 (2023, 第四章)]] — 揭示知识经济与文凭通胀下劳动力市场筛选从文凭硬指标向经历管理与软实力呈现的结构性转移。
 > - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 考察中国[[Internationalization of Higher Education|高等教育国际化]]政策与长三角、粤港澳、海南三大教育枢纽，阐述跨境高等教育如何嵌入区域创新体系并推动知识经济转型。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — [[OECD]] 国际报告，系统论证知识经济与技术自动化背景下，高等教育如何通过五大政策支柱重构[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]的评价生态。
 > - [[Argument_Block_2008_PS|Block (2008)]] — 从经济社会学与国家[[Theoretical Perspective|理论视角]]解构后工业知识经济的非线性创新特征，论证[[Developmental Network State|发展型网络国家]]与去中心化协同的必然性，并以波兰尼虚构商品理论反思知识极端商品化对跨组织科研协作的制度反噬。
