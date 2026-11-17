@@ -173,6 +173,11 @@ updated: 2026-11-18
 > | [[All-Party Report on Chinese Education]] | 关键制度事实 | 1956 年确立各族语言平等与双语教育架构的奠基性政策报告。 |
 > | [[Goh Report]] | 关键制度事实 | 1979 年诊断语言脱节并确立英语与母语双轨法定化的历史性报告。 |
 > | [[Speak Mandarin Campaign]] | 关联事实 | 配合双语政策推行以消除方言割裂、巩固母语文化认同的社会运动。 |
+> | [[Speak Good English Movement]] | 关联事实 | 配合双语教育纠正本土非规范变体、推广国际标准英语的全国性社会运动。 |
+> | [[STELLAR Program]] | 关联项目 | 推动小学低年段英语课程与教学法改革、提升全语言阅读素养的核心工程。 |
+> | [[Kaplan and Baldauf's Language-in-Education Planning Framework]] | 分析框架 | 解释双语政策在准入、师资、课程与资源等八个维度系统落地的政策分析框架。 |
+> | [[English-Knowing Bilingualism]] | 核心构念 | 以英语为共同工作语言与主要教学媒介语、母语为文化纽带的双轨制度形态。 |
+> | [[Singlish]] | 伴生现象 | 多语高强度接触与英语普及环境下自发演化出的本土英语口语变体。 |
 > | [[Language Skills]] | 培育目标 | 塑造兼顾全球技术接轨与本土文化道德传承的复合型能力基础。 |
 > | [[Pragmatic Paradigm]] | 治理范式 | 将语言政策与外向型经济生存和国家文化安全深度绑定的实用主义逻辑。 |
 > | [[Technological Republic]] | 治理模型 | 依托领袖意志与制度修剪将多方言社会塑造成高科技技术共和国的理论审视。 |
@@ -180,5 +185,6 @@ updated: 2026-11-18
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Chua_2011_CILP|Chua (2011)]] — 运用语言教育规划框架解构新加坡自 1966 年以来的双语政策实践，分析学前与小学阶段全浸润课程如何塑造懂英语社会，并指明该模式引发的母语素养滑坡与[[Singlish|新加坡式英语]]身份认同挑战（pp. 125–142）。
 > - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 考察新加坡双语教育政策的建国历史根基，追溯 1956 年《各党派华文教育委员会报告书》如何通过语言政治和解确立以英语为主导、保留母语的双语架构，从而消解族群冲突并支撑外向型经济发展。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 结合第17章深度剖析新加坡双语政策在克服[[Dunbar's Number|邓巴数]]限制、塑造想象共同体与驱动经济提升中的战略实践，论证卓越领袖与国家文化工程在[[Technological Republic|技术共和国]]建构中的决定性作用。

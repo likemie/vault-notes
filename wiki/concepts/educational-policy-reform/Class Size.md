@@ -250,7 +250,7 @@ updated: 2026-11-15
 
 ---
 
-> [!contrast-table] 所有命题归纳
+> [!contrast-table|notitle] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 来源 |
 > |---|---|---|---|
 > | **方法控制调节** | 班级规模与学业成就呈稳定负相关，实验控制越充分则小班优势越陡峭 | 大规模元分析设计、测量模型校准 | Glass and Smith (1978); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011)]] |
@@ -272,8 +272,6 @@ updated: 2026-11-15
 > - **2021 年 — 阶级盲思维与孤立因果归因的系统解构** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）重访可见学习数据，重申伯格多变量交互原则，批判哈蒂将班级规模孤立为单一线性变量、主观清洗社会阶层[[Interaction Effect|调节效应]]并建立[[Socioeconomic Status|阶级盲教学思维]]的[[Positivism|实证主义]]局限。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
