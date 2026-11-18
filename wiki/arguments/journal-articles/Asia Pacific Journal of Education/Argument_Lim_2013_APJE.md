@@ -51,7 +51,6 @@ related_facts:
   - "[[Goh Report]]"
   - "[[Integrated Programme]]"
   - "[[Independent Schools Initiative]]"
-  - "[[National Education]]"
   - "[[Cram Schools]]"
 related_arguments: []
 sources:
@@ -66,7 +65,7 @@ title: "Argument_Lim_2013_APJE"
 argument_key: "Argument_Lim_2013_APJE"
 argument_display_title: "Meritocracy, elitism, and egalitarianism: A preliminary and provisional assessment of Singapore’s primary education review"
 argument_kind: "journal-article"
-argument_related_count: 28
+argument_related_count: 27
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -185,7 +184,7 @@ issuing_organization: ""
 > | **教育储蓄计划（Edusave）与机会基金** | 为家庭经济困难学童提供课外辅导与校本提升活动专项资助，防范阶层掉队。 | 补贴额度相对有限，无法抗衡富裕中产家庭长期在校外商业高价补习机构的持续投入。 |
 > | **取消初中统一天才班（GEP）** | 取消初中阶段中央统一管辖的天才班分轨，促进资优生与普通学生融合。 | 资优生毕业后直接全员流入顶尖直通车名校（IP），各名校转而建立校本天才课程，特权网络更加封闭。 |
 > | **直接学校招生计划（DSA）** | 允许中学与初级学院自主招收具备体育、艺术、领导力等非学术特长的学生。 | 招生名额大多集中于历史名校，且申请者仍需达到接近常规学术录取分数线的门槛，未惠及弱势学生。 |
-> | **[[National Education\|国民教育]]大纲（National Education）** | 构建跨阶层跨族群的国家凝聚力，培育国民对共同命运的认同。 | 课程针对不同学轨的学生设计差异化目标：潜在领导精英培养创新思维与全球视野，普通学生侧重服从与岗位奉献。 |
+> | **国民教育大纲（National Education）** | 构建跨阶层跨族群的国家凝聚力，培育国民对共同命运的认同。 | 课程针对不同学轨的学生设计差异化目标：潜在领导精英培养创新思维与全球视野，普通学生侧重服从与岗位奉献。 |
 
 ---
 
