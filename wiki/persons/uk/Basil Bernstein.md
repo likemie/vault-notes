@@ -82,7 +82,7 @@ related_facts:
 confidence: high
 status: stable
 created: 2026-05-23
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 ---
@@ -226,4 +226,5 @@ updated: 2026-11-18
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Lim_2013_APJE|Lim (2013)]] — 运用伯恩斯坦隐性教学理论批判新加坡小学均等化改革，揭示以儿童发展理论为依托的探究教学对工薪家庭施加的隐性门槛。
 > - [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] — 将伯恩斯坦教学代码、分类与框架以及神圣与世俗知识理论作为核心分析框架，实证剖析新加坡中等教育思维课程与精英阶级再生产。

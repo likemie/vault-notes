@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 ---
@@ -64,7 +64,7 @@ updated: 2026-11-14
 > - **1950** 获得普林斯顿大学哲学博士学位。
 > - **1962–1991** 长期任教于哈佛大学哲学系，并被授予最高教职柯南特大学讲座教授。
 > - **1971** 出版巨著《正义论》（*A Theory of Justice*），重振规范伦理学与政治哲学。
-> - **1988** 发表论文《正当的优先性与善的观念》（*The Priority of Right and Ideas of the Good*），深化中立性原则与[[Pluralism|多元主义]]善论的区分。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 80)]]
+> - **1988** 发表《正当的优先性与善的观念》（*The Priority of Right and Ideas of the Good*），深化中立性原则与[[Pluralism|多元主义]]善论的区分。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 80)]]
 > - **1993** 出版《政治自由主义》（*Political Liberalism*），确立公共理性与重叠共识框架。
 > - **2002** 逝世于马萨诸塞州莱克星顿。
 
@@ -101,3 +101,8 @@ updated: 2026-11-14
 > | [[The Right and the Good]] | 概念 | 提出正当优先于善的经典自由主义分界理论。 |
 > | [[Technological Agnosticism]] | 概念 | 其程序中立构想被批判为技术精英道德避险的理论源头。 |
 > | [[Buen Vivir]] | 概念 | 与实质美好生活理论构成程序与实质维度的对比参照。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Lim_2013_APJE|Lim (2013)]] — 结合罗尔斯前程向才能开放原则剖析新加坡教育唯才制，揭示均等主义程序承诺与精英主义效能分选之间的结构性张力。

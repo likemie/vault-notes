@@ -95,7 +95,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 
 ---
@@ -253,3 +253,8 @@ updated: 2026-11-17
 > | 法兰西学院（Collège de France） | 组织 | 实践社会学与反思性研究的制度阵地。
 > | 欧洲社会学中心（Centre de sociologie européenne, [[Creative Self-Efficacy\|CSE]]） | 组织 | 实践社会学与反思性研究的制度阵地。
 > | 《社会科学研究学术活动》（ARSS） | 组织 | 实践社会学与反思性研究的制度阵地。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Lim_2013_APJE|Lim (2013)]] — 结合布迪厄文化资本与资本转化理论剖析新加坡小学改革，揭示优势阶层如何将经济财富迅速转化为非学术资质并重新垄断名校录取。
