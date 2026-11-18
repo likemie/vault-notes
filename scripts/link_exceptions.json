@@ -1117,6 +1117,10 @@
     {
       "sentence": "**严格学术标准与层层问责** 依托教育部新加坡课程发展署（Curriculum Development Institute of Singapore, CDIS）统编教学大纲与教材教参的课程对齐，配以小学离校考试（Primary School Leaving Examination, PSLE）与剑桥 O/A 水准高利害升学统考，结合学校卓越成就模型（School Excellence Model, SEM）实施严密绩效问责。",
       "target": "wiki/methods/quantitative/Causal Modeling.md"
+    },
+    {
+      "sentence": "单纯按纸笔测试的分数把系统排座次，完全排斥了这些不可量化的核心教育价值，严重歪曲了一国教育事业的真实全貌。",
+      "target": "wiki/facts/new-zealand/CORE Education.md"
     }
   ],
   "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md": [
@@ -1151,12 +1155,26 @@
     {
       "sentence": "**微型城邦国家的独特地缘特征** 新加坡高度集权的一体化官僚体系与其独特的城邦地理体量紧密绑定，该治理模式的经验结论不可直接外推至幅员辽阔、地方自治权显著的分权制大国。",
       "target": "wiki/concepts/political-economy-geopolitics/Geo-Body.md"
+    },
+    {
+      "sentence": "教育部委派学校群督学统领，依托学校卓越成就模型（School Excellence Model, SEM）实施严密产出问责",
+      "target": "wiki/methods/quantitative/Causal Modeling.md"
+    },
+    {
+      "sentence": "**行政管理追求卓越** 推行学校卓越成就模型（SEM），重塑校长领导力研修，将学校建设为具备自我造血功能的学习型组织。",
+      "target": "wiki/methods/quantitative/Causal Modeling.md"
     }
   ],
   "wiki/concepts/educational-policy-reform/English-Knowing Bilingualism.md": [
     {
       "sentence": "**英文主导的双语主义（English-Knowing Bilingualism）** 是指多民族社会中由国家主导建立的一种特定双语体制：将既非本土土著语言、亦不专属任一族群的中立国际语言（英语）确立为全体国民通晓的第一语言与通用工作语，并要求各族群同时掌握一门官方规定的族群母语（如华语、马来语、泰米尔语）作为文化身份依托。",
       "target": "wiki/concepts/educational-technology/Avatar.md"
+    }
+  ],
+  "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md": [
+    {
+      "sentence": "TI vs DI: 0.24",
+      "target": "wiki/theories/political-economy-geopolitics/Discursive Institutionalism.md"
     }
   ]
 }

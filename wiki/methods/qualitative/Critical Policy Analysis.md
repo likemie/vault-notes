@@ -75,6 +75,7 @@ related_arguments:
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
+  - "[[Argument_Gopinathan_2007_GSE]]"
 confidence: high
 status: active
 created: 2026-09-24
@@ -166,6 +167,7 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 运用批判性政策分析透视新加坡能力驱动与自主择校课改修辞，揭示直通车计划与顶尖独立学校等去中心化举措实质服务于强发展型国家对高附加值全球资本的吸纳与认知精英再生产，剖析机会均等表象下的阶级优势巩固机制（pp. 60–64）。
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 运用批判性政策分析系统剖析美国《[[Reading Excellence Act|卓越阅读法案]]》立法演进，揭示[[Pluralism|多元主义]]、[[Neocorporatism|法团主义]]、次政府与[[Elite Theory|精英理论]]对[[Evidence Standards|证据标准]]的法定重塑（pp. 11–14）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 综合运用批判性政策分析、计量文本法医解构与[[Ideology Critique|意识形态批判]]，解构新西兰 [[Visible Learning]] 品牌的政商旋转门资本化、[[Neo-Taylorism|新泰勒主义]]教师监控及[[Global Education Reform Movement|全球教育改革运动]]紧缩议程（pp. 23–36）。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 结合费尔克拉夫三维[[Discourse Analysis|话语分析]]、政策三维视角（驱动力、工具、价值）与巴斯卡[[Explanatory Critique|解释性批判]]，系统解构中国“[[Belt and Road Initiative|一带一路]]”跨国高等教育政策的文本框架、地缘[[Hard Power|硬实力]]配套与国家复兴[[Grand Theory|宏大叙事]]（pp. 677–699）。

@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-28
-updated: 2026-11-11
+updated: 2026-11-18
 ---
 
 ---
@@ -83,7 +83,7 @@ updated: 2026-11-11
 
 ---
 
-> [!entry-map] 关键概念与理论构件
+> [!theory-constructs] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|

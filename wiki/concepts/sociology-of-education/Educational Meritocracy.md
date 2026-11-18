@@ -87,7 +87,7 @@ updated: 2026-11-18
 > [!logic-map]- 要素关系
 > ```mermaid
 > flowchart TD
->     A["标准化大纲与统一考试<br>(如 PSLE、O-Level)"] --> B["能力与努力的量化认定"]
+>     A["标准化大纲与统一考试<br>（如统一毕业统考、升学分流考试）"] --> B["能力与努力的量化认定"]
 >     B --> C["分轨制分流与文凭配给<br>(Express vs. Normal)"]
 >     C --> D["精英治国岗位与高薪回报"]
 >     D --> E["阶层向上流动承诺"]
@@ -123,7 +123,7 @@ updated: 2026-11-18
 ---
 
 > [!dev-timeline] 概念演变
-> - **1958 — 讽刺性反乌托邦起源** 英国社会学家 [[Michael Young]] 发表《唯才是用制的崛起》（*The [[Research in Schools Evaluation|Rise]] of the Meritocracy*），创造“Meritocracy = IQ + Effort”公式，警示以智力测试为基础的技术官僚统治导致道德优越感与新阶级固化。
+> - **1958 — 讽刺性反乌托邦起源** 英国社会学家 [[Michael Young]] 发表《唯才是用制的崛起》（*The [[Research in Schools Evaluation|Rise]] of the Meritocracy*），提出才能等于智商（Intelligence Quotient, IQ）加努力的讽刺性公式，警示以智力测验为基础的技术官僚统治导致道德优越感与新阶级固化。
 > - **1965–1980s — 发展型国家的立国实践** 新加坡等东亚经济体将唯才是用转化为国家核心治理哲学，依托统一中英文双语大纲与全国统考打破族群壁垒，驱动社会阶层流动与经济腾飞。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 453–455)]]
 > - **2000s–2020s — 结构反思与拓宽唯才范式** 学界与政策层深入检视家庭社会经济地位对考试成绩的侵蚀，批判文凭特权与道德自负；新加坡官方推行全面科目编班制（Subject-Based Banding）并改革小学积分计算方式，试图从狭隘学术唯才是用转向多维度宽口径唯才。
 

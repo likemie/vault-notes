@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 186
+fact_related_count: 187
 fact_related_level: 18
 fact_related_stars: "💎💎💎💎💎💎"
 fact_related_color: "#fecdd3"
@@ -220,10 +220,11 @@ related_arguments:
   - "[[Argument_Volmari_2025_CE]]"
   - "[[Argument_Barrenechea_2023_JEC]]"
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Deng_2016_CE]]"
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-11-15
+updated: 2026-11-18
 ---
 
 ---
@@ -435,6 +436,12 @@ updated: 2026-11-15
 > >
 > > - **批判历史考证（[[Argument_King_2007_CE|King, 2007]]）** [[Archival Research|档案研究]]证实，经合组织 DAC 1996 年《塑造21世纪》报告完全由北方捐助国在巴黎闭门协商制定，发展中国家未能参与；报告一方面倡导受援国自主拥有，另一方面却将全纳基础教育愿景窄化为孤立的初等教育入学数量与脱节的时间表，并通过政策摘要过滤掉人均经济增长与法治秩序等制度前提。
 > > - **经合组织多边协调立场** 坚称 DAC 确立的量化目标旨在凝聚国际发展合作政治共识，为动员官方发展援助与监测减贫成效提供便于跨国问责的可操作基准。
+>
+> > [!axis] 高绩效系统神话构建与微观教学现实脱节
+> > 质询经合组织在推介“高绩效教育系统”（HPES）成功经验时，是否过度依赖官方课改修辞而脱离微观课堂教学现实。
+> >
+> > - **制度与微观教学实证解构（[[Argument_Deng_2016_CE|Deng & Gopinathan, 2016]]）** [[Zongyi Deng|邓宗怡]]与[[Saravanan Gopinathan|高平纳坦]]通过检验经合组织关于新加坡等高绩效系统的分析报告（如 Schleicher, 2011）指出，OECD 习惯于将优异的 [[PISA]] 成绩归因于去情境化的师资选拔与官方宣称的探究式课改政策，忽视了基层常态课堂的教学真相：支撑其高学业表现的核心支柱是立足大纲讲授、例题操练与精细纠偏并重的[[Pedagogical Hybridity|教学杂糅]]（[[Hybrid Pedagogy|混合教学法]]），以及背后由[[Educational Meritocracy|唯才是用]]与高利害分流考试筑成的刚性制度环境；同时，跨国报告将教育质量窄化为单一测试排名，遮蔽了学校在凝聚多元社会、消除族群矛盾与国家认同建构中的政治使命。
+> > - **经合组织跨国最佳实践立场** 坚称通过跨国大规模测评与高表现系统个案追踪，能够提炼出跨越文化边界的通用政策原则（如高标准教师准入、持续专业研修、课程连贯性与系统对齐），为各成员国教育改革提供可通约的科学参照标杆。
 
 > [!citation-card] 琼斯与科尔曼论经合组织在北方扩张对教科文组织的挤压
 > 菲利普·琼斯（Phillip Jones）与戴维·科尔曼（David Coleman, 2005）揭示，1990 年代经合组织（OECD）凭借指标网络与政策审查在北方发达国家教育治理中的迅速崛起，对联合国教科文组织的传统领导地位构成了强烈侵蚀；教科文组织深感自身权威在北面遭遇经合组织的强力挤压，而在南面则遭遇世界银行雄厚信贷资本的蚕食，直接诱发了其深层合法性危机。[[Argument_Beech_2009_GlobalGarden|(Jones & Coleman, 2005, cited in Beech, 2009b, pp. 347–348)]]
@@ -519,3 +526,4 @@ updated: 2026-11-15
 > - [[Argument_King_2007_CE|King (2007)]] — 考证经合组织 DAC 1996 年巴黎会议闭门确立国际开发目标并将教育窄化为初等与性别两项指标的历史脉络。
 > - [[Argument_Volmari_2025_CE|Volmari et al. (2025)]] — 实证解构北欧基础教育改革（丹麦、芬兰、挪威）对经合组织 21 世纪技能框架的采纳，揭示跨国能力框架在本土改革中被用作政治合法化背书的科学化修辞（pp. 531, 542–544）。
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 阐述经合组织主导的 PISA 测评作为“全球教育定位系统”为识别跨时间显著提质的教育系统提供了时空度量标尺，促成全系统改进规律的大规模实证探讨（pp. 3, 11）。
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 解构 OECD 高绩效系统叙事对官方探究修辞的轻信，阐明混合教学法与高利害分流制度对学业表现的实质支撑及教育政治使命遮蔽。
