@@ -47161,6 +47161,19 @@
     "subtype": "policy"
   },
   {
+    "title": "Independent Schools Initiative",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Independent Schools Initiative.md",
+    "aliases": [
+      "独立学校计划",
+      "新加坡独立学校政策",
+      "自主学校",
+      "独立学校",
+      "Independent Schools Singapore"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Integrated Programme",
     "type": "fact",
     "path": "wiki/facts/singapore/Integrated Programme.md",
@@ -47181,6 +47194,19 @@
       "小六离校考试",
       "小学离校考试",
       "PSLE"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "School Cluster System",
+    "type": "fact",
+    "path": "wiki/facts/singapore/School Cluster System.md",
+    "aliases": [
+      "学校群系统",
+      "学校集群制",
+      "校群制",
+      "School Clusters",
+      "School Cluster System Singapore"
     ],
     "subtype": "policy"
   },

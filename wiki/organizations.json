@@ -3293,6 +3293,17 @@
     }
   },
   "unresolved": {
+    "Singapore Ministry of Education": {
+      "seen_in": [
+        "wiki/facts/singapore/Goh Report.md",
+        "wiki/facts/singapore/Independent Schools Initiative.md",
+        "wiki/facts/singapore/Integrated Programme.md",
+        "wiki/facts/singapore/School Cluster System.md",
+        "wiki/facts/singapore/School Excellence Model.md",
+        "wiki/facts/singapore/Teach Less, Learn More.md",
+        "wiki/facts/singapore/Thinking Schools, Learning Nation.md"
+      ]
+    },
     "芬兰议会": {
       "seen_in": [
         "wiki/facts/finland/1979 Finnish Teacher Education Reform.md",
@@ -3301,15 +3312,6 @@
         "wiki/facts/finland/Compulsory Education Act 1921.md",
         "wiki/facts/finland/Finland-Swedish School System.md",
         "wiki/facts/finland/Parallel School System in Finland.md"
-      ]
-    },
-    "Singapore Ministry of Education": {
-      "seen_in": [
-        "wiki/facts/singapore/Goh Report.md",
-        "wiki/facts/singapore/Integrated Programme.md",
-        "wiki/facts/singapore/School Excellence Model.md",
-        "wiki/facts/singapore/Teach Less, Learn More.md",
-        "wiki/facts/singapore/Thinking Schools, Learning Nation.md"
       ]
     },
     "Australian Government": {
