@@ -7,7 +7,7 @@ aliases:
 summary: "由教师主动主导、以明确目标说明、分步示范、有指导练习、理解检查与即时反馈为核心的高结构化教学模式，在程序性知识与基础技能教学中成效显著，但在高阶思维培养中需与情境探究结合以避免教育副作用"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 80
+related_count: 81
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -105,6 +105,7 @@ related_arguments:
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Sahlgren_2015_CPS]]"
   - "[[Argument_Cole_2015_AJE]]"
+  - "[[Argument_Gopinathan_2007_GSE]]"
 confidence: high
 status: active
 created: 2026-05-04
@@ -246,6 +247,7 @@ updated: 2026-11-18
 > - **1960–1970 年代 — 脚本化 [[Discursive Institutionalism|DI]] 奠基与 Follow Through 试验** Siegfried Engelmann 与 Wes Becker 开发高度脚本化的直接教学模式（DI），并在美国“追踪项目（Project Follow Through）”中横扫 20 余种教学法，奠定了在弱势儿童基础学业补救中的实证基石。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, p. 7)]]
 > - **1980 年代 — 显性教学原则提炼与普及** Barak Rosenshine 系统提炼出小步子示范、指导练习与即时反馈等 10 项显性教学原则，直接教学从专门补救课程扩展为通用[[Effective Teaching\|有效教学]][[Paradigm\|范式]]。
 > - **1990–2000 年代 — [[Cognitive Load Theory\|认知负荷理论]]支撑与 CSR 全校改革采纳** 认知负荷理论从[[Working Memory\|工作记忆]]局限性为显性指导提供认知[[Scientific Explanation\|科学解释]]；美国全面学校改革计划（Comprehensive School Reform, CSR）将 Direct Instruction 列为受联邦资助的标杆全校方案之一。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
+> - **2007 年 — 发展型国家高利害考试下的规程锁定批判** [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] 考察新加坡课改指出，在高利害统一大考与绩效问责压力下，一线教师产生强烈的避险惯性，将政策倡导的创造力矮化为模块化解题技巧并机械嫁接于直接教学框架之上，揭示了直接讲授作为基础教学规程的制度韧性（pp. 61–62）。
 > - **2010 年代至今 — 可见学习综合、副作用反思与时序协同模型** Hattie（$d=0.59$）确立其教师激活地位；[[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 确立其在高阶[[Critical Thinking\|批判性思维]]中的显性混合模式；[[Argument_Zhao_2017_JEC\|Zhao (2017)]] 提出教育副作用理论；[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 系统反思直接教学绝对优越论，提出直接教学与[[Inquiry-Based Learning\|探究式学习]]的时序协同模型。
 > - **2016 年 — 宏观[[Research Synthesis|证据综合]]审计与[[Incommensurability|不可通约性]]批判** [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 揭露 Hattie 二级综合中伪造标准误导致 Haas (2005) 直接教学权重被削减 53.5%，并提出“[[Category Mistake|德甲联赛隐喻]]”，指出直接教学作为全学年宏观方案与瞬时微观实验不可[[Commensuration|通约]]，教师决策应聚焦于其与练习策略的最优组合而非机械非此即彼。
 > - **2016 年 — 高绩效系统制度主干与实证有效性确证** [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] 结合新加坡大规模课堂编码（CRPP 数据；Hogan et al., 2013; Hogan, 2014），确证直接讲授作为高绩效系统制度主干的稳固地位，实证证实其对标准化测验学术表现具有最强预测效力，破除了西方咨询机构将高分归因于去情境化[[Constructivist Paradigm|建构主义]]改革的假设。
@@ -355,5 +357,6 @@ updated: 2026-11-18
 > - [[Argument_Sahlgren_2015_CPS|Sahlgren (2015)]] — 历史实证考证芬兰保留教师主导直接教学对国际测验高分的因果贡献，揭示转向学生中心探究法诱发学业滑坡（pp. 38–48, 58–62）。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统审计 Hattie 直接教学元分析汇总，揭露 Haas (2005) [[Standard Error|标准误]]伪造导致权重缩水 53.5% 的计算缺陷，并提出[[Category Mistake|德甲联赛隐喻]]论证全学年直接教学与瞬时实验的[[Incommensurability|不可通约性]]。
 > - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 结合新加坡实证[[Lesson Study|课堂研究]]（CRPP 数据；Hogan et al., 2013; Hogan, 2014），确证直接讲授在大纲知识覆盖与应试解题中的支柱功能，揭示以直接教学为主干的混合规程造就高绩效系统国际测验高分的机理。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 考察新加坡高利害大考下直接教学框架的制度韧性，揭示基层教师如何将创造力矮化为模块化应试技巧并机械嫁接于直接讲授之上（pp. 61–62）。
 > - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 运用高阶因子分析确立直接教学由示范、复习、内容结构化、提问与反馈构成的测量结构，并证明其作为传统与理解策略间因果中介的作用。
 

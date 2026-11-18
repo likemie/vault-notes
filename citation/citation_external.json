@@ -2419,6 +2419,7 @@
     "Bernstein (1971)": "Bernstein, 1971",
     "Bernstein (1974)": "Bernstein, 1974",
     "Bernstein (1975)": "Bernstein, 1975",
+    "Bernstein (1977)": "Bernstein, 1977",
     "Bernstein (1983)": "Bernstein, 1983",
     "Bernstein (1990)": "Bernstein, 1990",
     "Bernstein (2000)": "Bernstein, 2000",
@@ -2428,6 +2429,7 @@
     "Bernstein, 1971": "Bernstein, 1971",
     "Bernstein, 1974": "Bernstein, 1974",
     "Bernstein, 1975": "Bernstein, 1975",
+    "Bernstein, 1977": "Bernstein, 1977",
     "Bernstein, 1983": "Bernstein, 1983",
     "Bernstein, 1990": "Bernstein, 1990",
     "Bernstein, 2000": "Bernstein, 2000",
@@ -12391,6 +12393,8 @@
     "John Backus, 1977": "John Backus, 1977",
     "John Bangs (2020)": "John Bangs, 2020",
     "John Bangs, 2020": "John Bangs, 2020",
+    "John Creswell (2007)": "John Creswell, 2007",
+    "John Creswell, 2007": "John Creswell, 2007",
     "John Dewey (1922)": "John Dewey, 1922",
     "John Dewey, 1922": "John Dewey, 1922",
     "John E. Tilton (1971)": "John E. Tilton, 1971",
@@ -15065,6 +15069,8 @@
     "Lincoln et al., 2011": "Lincoln et al., 2011",
     "Lincoln, 1990": "Lincoln, 1990",
     "Lincoln, 2009": "Lincoln, 2009",
+    "Linda Elder (2005)": "Linda Elder, 2005",
+    "Linda Elder, 2005": "Linda Elder, 2005",
     "Linda Zagzebski (1996)": "Linda Zagzebski, 1996",
     "Linda Zagzebski, 1996": "Linda Zagzebski, 1996",
     "Lindbeck & Nyberg (2006)": "Lindbeck & Nyberg, 2006",
@@ -46205,6 +46211,21 @@
       ],
       "title": ""
     },
+    "Bernstein, 1977": {
+      "aliases": [
+        "Bernstein, 1977",
+        "Bernstein (1977)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bernstein, 1977"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+      ],
+      "title": ""
+    },
     "Bernstein, 1983": {
       "aliases": [
         "Bernstein, 1983",
@@ -46247,6 +46268,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md",
         "wiki/concepts/curriculum/Regulative and Instructional Discourse.md",
         "wiki/persons/uk/Basil Bernstein.md"
       ],
@@ -119181,6 +119203,21 @@
       ],
       "title": ""
     },
+    "John Creswell, 2007": {
+      "aliases": [
+        "John Creswell, 2007",
+        "John Creswell (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "John Creswell, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+      ],
+      "title": ""
+    },
     "John Dewey, 1922": {
       "aliases": [
         "John Dewey, 1922",
@@ -138405,6 +138442,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Research Ethics.md"
+      ],
+      "title": ""
+    },
+    "Linda Elder, 2005": {
+      "aliases": [
+        "Linda Elder, 2005",
+        "Linda Elder (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Linda Elder, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
       ],
       "title": ""
     },
