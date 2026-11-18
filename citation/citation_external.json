@@ -1019,6 +1019,8 @@
     "Anweiler, 1990": "Anweiler, 1990",
     "Anyichie (2012)": "Anyichie, 2012",
     "Anyichie, 2012": "Anyichie, 2012",
+    "Anyon (1981)": "Anyon, 1981",
+    "Anyon, 1981": "Anyon, 1981",
     "Apel (2014)": "Apel, 2014",
     "Apel, 2014": "Apel, 2014",
     "Appadurai (1996)": "Appadurai, 1996",
@@ -1030,10 +1032,12 @@
     "Apple & Christian-Smith (1991)": "Apple & Christian-Smith, 1991",
     "Apple & Christian-Smith, 1991": "Apple & Christian-Smith, 1991",
     "Apple (1982)": "Apple, 1982",
+    "Apple (1986)": "Apple, 1986",
     "Apple (1990)": "Apple, 1990",
     "Apple (1993)": "Apple, 1993",
     "Apple (1996)": "Apple, 1996",
     "Apple, 1982": "Apple, 1982",
+    "Apple, 1986": "Apple, 1986",
     "Apple, 1990": "Apple, 1990",
     "Apple, 1993": "Apple, 1993",
     "Apple, 1996": "Apple, 1996",
@@ -1838,6 +1842,8 @@
     "Baroody, 2009": "Baroody, 2009",
     "Baroutsis & Lingard (2016)": "Baroutsis & Lingard, 2016",
     "Baroutsis & Lingard, 2016": "Baroutsis & Lingard, 2016",
+    "Barr & Skrbis (2008)": "Barr & Skrbis, 2008",
+    "Barr & Skrbis, 2008": "Barr & Skrbis, 2008",
     "Barr Greenfield (1975)": "Barr Greenfield, 1975",
     "Barr Greenfield, 1975": "Barr Greenfield, 1975",
     "Barratt (1971)": "Barratt, 1971",
@@ -2064,6 +2070,7 @@
     "Bechtel, 1991": "Bechtel, 1991",
     "Beck (1979)": "Beck, 1979",
     "Beck (1992)": "Beck, 1992",
+    "Beck (2002)": "Beck, 2002",
     "Beck (2007a)": "Beck, 2007a",
     "Beck (2007b)": "Beck, 2007b",
     "Beck (2016)": "Beck, 2016",
@@ -2071,6 +2078,7 @@
     "Beck et al., 2000": "Beck et al., 2000",
     "Beck, 1979": "Beck, 1979",
     "Beck, 1992": "Beck, 1992",
+    "Beck, 2002": "Beck, 2002",
     "Beck, 2007": "Beck, 2007a",
     "Beck, 2007a": "Beck, 2007b",
     "Beck, 2007b": "Beck, 2007b",
@@ -2324,9 +2332,7 @@
     "Berg, 2003": "Berg, 2003",
     "Bergen (2009)": "Bergen, 2009",
     "Bergen, 2009": "Bergen, 2009",
-    "Berger & Hsiao (1988)": "Berger & Hsiao, 1988",
     "Berger & Hsiao (1990)": "Berger & Hsiao, 1990",
-    "Berger & Hsiao, 1988": "Berger & Hsiao, 1988",
     "Berger & Hsiao, 1990": "Berger & Hsiao, 1990",
     "Berger & Luckmann (1966)": "Berger & Luckmann, 1966",
     "Berger & Luckmann (1967)": "Berger & Luckmann, 1967",
@@ -3070,6 +3076,7 @@
     "Bourdieu (1984)": "Bourdieu, 1984",
     "Bourdieu (1986)": "Bourdieu, 1986",
     "Bourdieu (1990)": "Bourdieu, 1990",
+    "Bourdieu (1996)": "Bourdieu, 1996",
     "Bourdieu (1997)": "Bourdieu, 1997",
     "Bourdieu (1998)": "Bourdieu, 1998",
     "Bourdieu (1999)": "Bourdieu, 1999",
@@ -3083,6 +3090,7 @@
     "Bourdieu, 1984": "Bourdieu, 1984",
     "Bourdieu, 1986": "Bourdieu, 1986",
     "Bourdieu, 1990": "Bourdieu, 1990",
+    "Bourdieu, 1996": "Bourdieu, 1996",
     "Bourdieu, 1997": "Bourdieu, 1997",
     "Bourdieu, 1998": "Bourdieu, 1998",
     "Bourdieu, 1999": "Bourdieu, 1999",
@@ -3223,6 +3231,8 @@
     "Braun & Meacham, 2024": "Braun & Meacham, 2024",
     "Brautigam (2020)": "Brautigam, 2020",
     "Brautigam, 2020": "Brautigam, 2020",
+    "Braverman (1974)": "Braverman, 1974",
+    "Braverman, 1974": "Braverman, 1974",
     "Bravo (2009)": "Bravo, 2009",
     "Bravo, 2009": "Bravo, 2009",
     "Braxton (1998)": "Braxton, 1998",
@@ -4828,6 +4838,8 @@
     "Chu, 2017": "Chu, 2017",
     "Chua & Ng (2004)": "Chua & Ng, 2004",
     "Chua & Ng, 2004": "Chua & Ng, 2004",
+    "Chua (1995)": "Chua, 1995",
+    "Chua, 1995": "Chua, 1995",
     "Chubb & Moe (1990)": "Chubb & Moe, 1990",
     "Chubb & Moe, 1990": "Chubb & Moe, 1990",
     "Chubb & Watermeyer (2017)": "Chubb & Watermeyer, 2017",
@@ -5570,12 +5582,14 @@
     "Creswell & Poth (2018)": "Creswell & Poth, 2018",
     "Creswell & Poth, 2018": "Creswell & Poth, 2018",
     "Creswell (1994)": "Creswell, 1994",
+    "Creswell (2007)": "Creswell, 2007",
     "Creswell (2008)": "Creswell, 2008",
     "Creswell (2012)": "Creswell, 2012",
     "Creswell (2022)": "Creswell, 2022",
     "Creswell et al. (2005)": "Creswell et al., 2005",
     "Creswell et al., 2005": "Creswell et al., 2005",
     "Creswell, 1994": "Creswell, 1994",
+    "Creswell, 2007": "Creswell, 2007",
     "Creswell, 2008": "Creswell, 2008",
     "Creswell, 2012": "Creswell, 2012",
     "Creswell, 2022": "Creswell, 2022",
@@ -6836,8 +6850,10 @@
     "Durand, 2002": "Durand, 2002",
     "Durbin & Nelson (2014)": "Durbin & Nelson, 2014",
     "Durbin & Nelson, 2014": "Durbin & Nelson, 2014",
+    "Durkheim (1915)": "Durkheim, 1915",
     "Durkheim (1956)": "Durkheim, 1956",
     "Durkheim (1982)": "Durkheim, 1982",
+    "Durkheim, 1915": "Durkheim, 1915",
     "Durkheim, 1956": "Durkheim, 1956",
     "Durkheim, 1982": "Durkheim, 1982",
     "Durlak & DuPre (2008)": "Durlak & DuPre, 2008",
@@ -8941,6 +8957,8 @@
     "Gayle et al., 2006": "Gayle et al., 2006",
     "Gayo (2014)": "Gayo, 2014",
     "Gayo, 2014": "Gayo, 2014",
+    "Gaztambide-Fernández (2009)": "Gaztambide-Fernández, 2009",
+    "Gaztambide-Fernández, 2009": "Gaztambide-Fernández, 2009",
     "Ge et al. (2020)": "Ge et al., 2020",
     "Ge et al., 2020": "Ge et al., 2020",
     "Geary & Berch (2016)": "Geary & Berch, 2016",
@@ -10942,6 +10960,8 @@
     "Hendrix, 2011": "Hendrix, 2011",
     "Henfield et al. (2017)": "Henfield et al., 2017",
     "Henfield et al., 2017": "Henfield et al., 2017",
+    "Heng (2011)": "Heng, 2011",
+    "Heng, 2011": "Heng, 2011",
     "Henig (2013)": "Henig, 2013",
     "Henig, 2013": "Henig, 2013",
     "Henk & Stahl (1985)": "Henk & Stahl, 1985",
@@ -12393,8 +12413,6 @@
     "John Backus, 1977": "John Backus, 1977",
     "John Bangs (2020)": "John Bangs, 2020",
     "John Bangs, 2020": "John Bangs, 2020",
-    "John Creswell (2007)": "John Creswell, 2007",
-    "John Creswell, 2007": "John Creswell, 2007",
     "John Dewey (1922)": "John Dewey, 1922",
     "John Dewey, 1922": "John Dewey, 1922",
     "John E. Tilton (1971)": "John E. Tilton, 1971",
@@ -13208,6 +13226,8 @@
     "Kenny, 1975": "Kenny, 1975",
     "Kent & Wanzek (2016)": "Kent & Wanzek, 2016",
     "Kent & Wanzek, 2016": "Kent & Wanzek, 2016",
+    "Kenway & Koh (2013)": "Kenway & Koh, 2013",
+    "Kenway & Koh, 2013": "Kenway & Koh, 2013",
     "Kenway (2013)": "Kenway, 2013",
     "Kenway et al. (2006)": "Kenway et al., 2006",
     "Kenway et al., 2006": "Kenway et al., 2006",
@@ -13260,9 +13280,11 @@
     "Khadijah et al., 2021": "Khadijah et al., 2021",
     "Khalili & Shashaani (1994)": "Khalili & Shashaani, 1994",
     "Khalili & Shashaani, 1994": "Khalili & Shashaani, 1994",
+    "Khan (2011)": "Khan, 2011",
     "Khan (2021)": "Khan, 2021",
     "Khan et al. (2023)": "Khan et al., 2023",
     "Khan et al., 2023": "Khan et al., 2023",
+    "Khan, 2011": "Khan, 2011",
     "Khan, 2021": "Khan, 2021",
     "Khanna (2019)": "Khanna, 2019",
     "Khanna, 2019": "Khanna, 2019",
@@ -13689,8 +13711,10 @@
     "Kogan, 1986": "Kogan, 1986",
     "Koh (2002)": "Koh, 2002",
     "Koh (2006)": "Koh, 2006",
+    "Koh (2014)": "Koh, 2014",
     "Koh, 2002": "Koh, 2002",
     "Koh, 2006": "Koh, 2006",
+    "Koh, 2014": "Koh, 2014",
     "Kohn (2000)": "Kohn, 2000",
     "Kohn (2014)": "Kohn, 2014",
     "Kohn, 2000": "Kohn, 2000",
@@ -15069,8 +15093,6 @@
     "Lincoln et al., 2011": "Lincoln et al., 2011",
     "Lincoln, 1990": "Lincoln, 1990",
     "Lincoln, 2009": "Lincoln, 2009",
-    "Linda Elder (2005)": "Linda Elder, 2005",
-    "Linda Elder, 2005": "Linda Elder, 2005",
     "Linda Zagzebski (1996)": "Linda Zagzebski, 1996",
     "Linda Zagzebski, 1996": "Linda Zagzebski, 1996",
     "Lindbeck & Nyberg (2006)": "Lindbeck & Nyberg, 2006",
@@ -15127,6 +15149,8 @@
     "Linn, 2006": "Linn, 2006",
     "Linn, 2015": "Linn, 2015",
     "Linn, 2016": "Linn, 2016",
+    "Lipman (2003)": "Lipman, 2003",
+    "Lipman, 2003": "Lipman, 2003",
     "Lippitt & White (1939)": "Lippitt & White, 1939",
     "Lippitt & White, 1939": "Lippitt & White, 1939",
     "Lipsey & Hurley (2009)": "Lipsey & Hurley, 2009",
@@ -15504,6 +15528,8 @@
     "Lui, 2015": "Lui, 2015",
     "Luiten et al. (1980)": "Luiten et al., 1980",
     "Luiten et al., 1980": "Luiten et al., 1980",
+    "Luke (2003)": "Luke, 2003",
+    "Luke, 2003": "Luke, 2003",
     "Lukács (1920)": "Lukács, 1920",
     "Lukács (1963)": "Lukács, 1963",
     "Lukács, 1920": "Lukács, 1920",
@@ -15678,8 +15704,10 @@
     "Mac an Ghaill & Haywood, 2015": "Mac an Ghaill & Haywood, 2015",
     "MacCann et al. (2019)": "MacCann et al., 2019",
     "MacCann et al., 2019": "MacCann et al., 2019",
+    "MacDonald (1977)": "MacDonald, 1977",
     "MacDonald (1987)": "MacDonald, 1987",
     "MacDonald (1997)": "MacDonald, 1997",
+    "MacDonald, 1977": "MacDonald, 1977",
     "MacDonald, 1987": "MacDonald, 1987",
     "MacDonald, 1997": "MacDonald, 1997",
     "MacGregor (1988)": "MacGregor, 1988",
@@ -16321,6 +16349,8 @@
     "Max Horkheimer, 1972": "Max Horkheimer, 1972",
     "Max Weber (1922)": "Max Weber, 1922",
     "Max Weber, 1922": "Max Weber, 1922",
+    "Maxwell & Aggleton (2013)": "Maxwell & Aggleton, 2013",
+    "Maxwell & Aggleton, 2013": "Maxwell & Aggleton, 2013",
     "Maxwell (1992)": "Maxwell, 1992",
     "Maxwell (2004)": "Maxwell, 2004",
     "Maxwell (2005)": "Maxwell, 2005",
@@ -16612,7 +16642,10 @@
     "McPartland (1991)": "McPartland, 1991",
     "McPartland, 1991": "McPartland, 1991",
     "McPeck (1981)": "McPeck, 1981",
+    "McPeck (1992)": "McPeck, 1992",
     "McPeck, 1981": "McPeck, 1981",
+    "McPeck, 1992": "McPeck, 1992",
+    "McPeck, 1992a": "McPeck, 1992",
     "McPhail (2017)": "McPhail, 2017",
     "McPhail (2023)": "McPhail, 2023",
     "McPhail, 2017": "McPhail, 2017",
@@ -17082,18 +17115,23 @@
     "Minerva (2020b)": "Minerva, 2020b",
     "Minerva, 2020a": "Minerva, 2020a",
     "Minerva, 2020b": "Minerva, 2020b",
+    "Ministry of Education (1997)": "Ministry of Education, 1997",
     "Ministry of Education (1998)": "Ministry of Education, 1998",
     "Ministry of Education (2002)": "Ministry of Education, 2002",
     "Ministry of Education (2007)": "Ministry of Education, 2007",
     "Ministry of Education (2009)": "Ministry of Education, 2009",
-    "Ministry of Education (2011)": "Ministry of Education, 2011",
+    "Ministry of Education (2011a)": "Ministry of Education, 2011a",
+    "Ministry of Education (2011b)": "Ministry of Education, 2011b",
     "Ministry of Education (2019)": "Ministry of Education, 2019",
     "Ministry of Education (2021)": "Ministry of Education, 2021",
+    "Ministry of Education, 1997": "Ministry of Education, 1997",
     "Ministry of Education, 1998": "Ministry of Education, 1998",
     "Ministry of Education, 2002": "Ministry of Education, 2002",
     "Ministry of Education, 2007": "Ministry of Education, 2007",
     "Ministry of Education, 2009": "Ministry of Education, 2009",
-    "Ministry of Education, 2011": "Ministry of Education, 2011",
+    "Ministry of Education, 2011": "Ministry of Education, 2011a",
+    "Ministry of Education, 2011a": "Ministry of Education, 2011b",
+    "Ministry of Education, 2011b": "Ministry of Education, 2011b",
     "Ministry of Education, 2019": "Ministry of Education, 2019",
     "Ministry of Education, 2021": "Ministry of Education, 2021",
     "Minner et al. (2010)": "Minner et al., 2010",
@@ -19168,8 +19206,11 @@
     "Patton, 1980": "Patton, 1980",
     "Patton, 1990": "Patton, 1990",
     "Paul & Elder (2003)": "Paul & Elder, 2003",
+    "Paul & Elder (2005)": "Paul & Elder, 2005",
     "Paul & Elder, 2003": "Paul & Elder, 2003",
+    "Paul & Elder, 2005": "Paul & Elder, 2005",
     "Paul (1993)": "Paul, 1993",
+    "Paul (2011)": "Paul, 2011",
     "Paul A. David (1985)": "Paul A. David, 1985",
     "Paul A. David (1997)": "Paul A. David, 1997",
     "Paul A. David, 1985": "Paul A. David, 1985",
@@ -19203,6 +19244,7 @@
     "Paul et al. (1997)": "Paul et al., 1997",
     "Paul et al., 1997": "Paul et al., 1997",
     "Paul, 1993": "Paul, 1993",
+    "Paul, 2011": "Paul, 2011",
     "Paulo Freire (1972)": "Paulo Freire, 1972",
     "Paulo Freire (2005)": "Paulo Freire, 2005",
     "Paulo Freire, 1972": "Paulo Freire, 1972",
@@ -19927,6 +19969,8 @@
     "Prater, 1993": "Prater, 1993",
     "Pratt et al. (1940)": "Pratt et al., 1940",
     "Pratt et al., 1940": "Pratt et al., 1940",
+    "Prawat (1991)": "Prawat, 1991",
+    "Prawat, 1991": "Prawat, 1991",
     "Preckel et al. (2011)": "Preckel et al., 2011",
     "Preckel et al., 2011": "Preckel et al., 2011",
     "Premack & Woodruff (1978)": "Premack & Woodruff, 1978",
@@ -21899,7 +21943,9 @@
     "Scheerens et al., 2013": "Scheerens et al., 2013a",
     "Scheerens et al., 2013a": "Scheerens et al., 2013b",
     "Scheerens et al., 2013b": "Scheerens et al., 2013b",
+    "Scheffler (1973)": "Scheffler, 1973",
     "Scheffler (1991)": "Scheffler, 1991",
+    "Scheffler, 1973": "Scheffler, 1973",
     "Scheffler, 1991": "Scheffler, 1991",
     "Schein (1985)": "Schein, 1985",
     "Schein (1992)": "Schein, 1992",
@@ -24299,10 +24345,12 @@
     "Tamur et al., 2020": "Tamur et al., 2020",
     "Tan & Cho (2021)": "Tan & Cho, 2021",
     "Tan & Cho, 2021": "Tan & Cho, 2021",
+    "Tan (1993)": "Tan, 1993",
     "Tan (1996)": "Tan, 1996",
     "Tan (1997)": "Tan, 1997",
     "Tan (1998)": "Tan, 1998",
     "Tan (2007)": "Tan, 2007",
+    "Tan (2008)": "Tan, 2008",
     "Tan (2010)": "Tan, 2010",
     "Tan (2011)": "Tan, 2011",
     "Tan (2016)": "Tan, 2016",
@@ -24325,10 +24373,12 @@
     "Tan et al., 2020b": "Tan et al., 2020b",
     "Tan et al., 2021": "Tan et al., 2021",
     "Tan et al., 2023": "Tan et al., 2023",
+    "Tan, 1993": "Tan, 1993",
     "Tan, 1996": "Tan, 1996",
     "Tan, 1997": "Tan, 1997",
     "Tan, 1998": "Tan, 1998",
     "Tan, 2007": "Tan, 2007",
+    "Tan, 2008": "Tan, 2008",
     "Tan, 2010": "Tan, 2010",
     "Tan, 2011": "Tan, 2011",
     "Tan, 2016": "Tan, 2016",
@@ -27129,6 +27179,8 @@
     "Ydesen & Grek, 2019": "Ydesen & Grek, 2019",
     "Ydesen (2019)": "Ydesen, 2019",
     "Ydesen, 2019": "Ydesen, 2019",
+    "Ye & Nylander (2015)": "Ye & Nylander, 2015",
+    "Ye & Nylander, 2015": "Ye & Nylander, 2015",
     "Ye et al. (2025)": "Ye et al., 2025",
     "Ye et al., 2025": "Ye et al., 2025",
     "Yeany & Miller (1983)": "Yeany & Miller, 1983",
@@ -28465,6 +28517,8 @@
     "运用卢曼与肖尔, 1979": "运用卢曼与肖尔, 1979",
     "迪克勒等 (2021)": "迪克勒等, 2021",
     "迪克勒等, 2021": "迪克勒等, 2021",
+    "邓宗怡与高平纳坦 (2016)": "邓宗怡与高平纳坦, 2016",
+    "邓宗怡与高平纳坦, 2016": "邓宗怡与高平纳坦, 2016",
     "郑辉与李路路 (2009)": "郑辉与李路路, 2009",
     "郑辉与李路路, 2009": "郑辉与李路路, 2009",
     "里兹维与林加德 (2009)": "里兹维与林加德, 2009",
@@ -35890,6 +35944,21 @@
       "seen_in": [],
       "title": "Effects of Self-Instructional Learning Strategy on Secondary Schools Students' Academic Achievement in Solving Mathematical Word Problems in Nigeria"
     },
+    "Anyon, 1981": {
+      "aliases": [
+        "Anyon, 1981",
+        "Anyon (1981)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Anyon, 1981"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+      ],
+      "title": ""
+    },
     "Apel, 2014": {
       "aliases": [
         "Apel, 2014",
@@ -35980,6 +36049,21 @@
         "wiki/concepts/educational-philosophy/Praxis.md",
         "wiki/concepts/sociology-of-education/Post-Fordism.md",
         "wiki/persons/us/Michael W. Apple.md"
+      ],
+      "title": ""
+    },
+    "Apple, 1986": {
+      "aliases": [
+        "Apple, 1986",
+        "Apple (1986)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Apple, 1986"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
       ],
       "title": ""
     },
@@ -40410,6 +40494,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Wang_2025_CE.md",
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md",
         "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_McKnight_2020_Discourse.md",
         "wiki/concepts/comparative-education/Performativity.md",
         "wiki/concepts/educational-policy-reform/Performativity of Measurement.md",
@@ -41952,6 +42037,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Mediatised Governance.md"
+      ],
+      "title": ""
+    },
+    "Barr & Skrbis, 2008": {
+      "aliases": [
+        "Barr & Skrbis, 2008",
+        "Barr & Skrbis (2008)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Barr & Skrbis, 2008"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
       ],
       "title": ""
     },
@@ -43615,6 +43715,21 @@
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
       ],
       "title": "Risk society: Towards a new modernity"
+    },
+    "Beck, 2002": {
+      "aliases": [
+        "Beck, 2002",
+        "Beck (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Beck, 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+      ],
+      "title": ""
     },
     "Beck, 2007a": {
       "aliases": [
@@ -45514,21 +45629,6 @@
       ],
       "title": ""
     },
-    "Berger & Hsiao, 1988": {
-      "aliases": [
-        "Berger & Hsiao, 1988",
-        "Berger & Hsiao (1988)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Berger & Hsiao, 1988"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/comparative-education/Dependency Theory.md"
-      ],
-      "title": ""
-    },
     "Berger & Hsiao, 1990": {
       "aliases": [
         "Berger & Hsiao, 1990",
@@ -46276,7 +46376,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md"
+        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md",
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
       ],
       "title": ""
     },
@@ -50968,7 +51069,8 @@
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Amos_2022_Springer.md",
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
-        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md"
+        "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch06.md",
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
       ],
       "title": "Reproduction in Society, Education and Culture"
     },
@@ -51132,6 +51234,21 @@
         "wiki/concepts/sociology-of-education/Sense of the Game.md"
       ],
       "title": "The Logic of Practice"
+    },
+    "Bourdieu, 1996": {
+      "aliases": [
+        "Bourdieu, 1996",
+        "Bourdieu (1996)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bourdieu, 1996"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+      ],
+      "title": ""
     },
     "Bourdieu, 1997": {
       "aliases": [
@@ -52182,6 +52299,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Debt-Trap Diplomacy.md"
+      ],
+      "title": ""
+    },
+    "Braverman, 1974": {
+      "aliases": [
+        "Braverman, 1974",
+        "Braverman (1974)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Braverman, 1974"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
       ],
       "title": ""
     },
@@ -63882,6 +64014,21 @@
       ],
       "title": "The marketisation of higher education in Singapore: Policies and implications"
     },
+    "Chua, 1995": {
+      "aliases": [
+        "Chua, 1995",
+        "Chua (1995)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Chua, 1995"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+      ],
+      "title": ""
+    },
     "Chubb & Moe, 1990": {
       "aliases": [
         "Chubb & Moe, 1990",
@@ -69274,6 +69421,21 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14.md",
         "wiki/concepts/research-methodology/Central Phenomenon.md"
+      ],
+      "title": ""
+    },
+    "Creswell, 2007": {
+      "aliases": [
+        "Creswell, 2007",
+        "Creswell (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Creswell, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
       ],
       "title": ""
     },
@@ -78531,6 +78693,21 @@
       ],
       "title": ""
     },
+    "Durkheim, 1915": {
+      "aliases": [
+        "Durkheim, 1915",
+        "Durkheim (1915)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Durkheim, 1915"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+      ],
+      "title": ""
+    },
     "Durkheim, 1956": {
       "aliases": [
         "Durkheim, 1956",
@@ -82386,6 +82563,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md",
         "wiki/concepts/competency-and-assessment/Critical Thinking Disposition.md",
         "wiki/concepts/educational-psychology/Domain Specificity.md",
         "wiki/theories/curriculum/Ennis's Curricular Typology.md"
@@ -93400,8 +93578,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24.md",
-        "wiki/concepts/competency-and-assessment/Achievement and Aptitude Tests.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24.md"
       ],
       "title": ""
     },
@@ -93913,6 +94090,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effect of an intervention program on the reading comprehension processes and strategies in 5th and 6th grade students."
+    },
+    "Gaztambide-Fernández, 2009": {
+      "aliases": [
+        "Gaztambide-Fernández, 2009",
+        "Gaztambide-Fernández (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Gaztambide-Fernández, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+      ],
+      "title": ""
     },
     "Ge et al., 2020": {
       "aliases": [
@@ -108750,6 +108942,21 @@
       "seen_in": [],
       "title": "Gifted Ethnic Minority Students and Academic Achievement: A Meta-Analysis"
     },
+    "Heng, 2011": {
+      "aliases": [
+        "Heng, 2011",
+        "Heng (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Heng, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+      ],
+      "title": ""
+    },
     "Henig, 2013": {
       "aliases": [
         "Henig, 2013",
@@ -112211,7 +112418,9 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Zhao_2020_JEC.md",
-        "wiki/concepts/comparative-education/Critique of PISA.md"
+        "wiki/concepts/comparative-education/Critique of PISA.md",
+        "wiki/facts/global/PISA.md",
+        "wiki/facts/global/TIMSS.md"
       ],
       "title": "No Child, No School, No State Left Behind: Schooling in the Age of Accountability"
     },
@@ -119213,21 +119422,6 @@
       ],
       "title": ""
     },
-    "John Creswell, 2007": {
-      "aliases": [
-        "John Creswell, 2007",
-        "John Creswell (2007)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "John Creswell, 2007"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
-      ],
-      "title": ""
-    },
     "John Dewey, 1922": {
       "aliases": [
         "John Dewey, 1922",
@@ -125139,6 +125333,21 @@
       "seen_in": [],
       "title": "The relationship between component skills and writing quality and production across developmental levels: A meta-analysis of the last 25 years"
     },
+    "Kenway & Koh, 2013": {
+      "aliases": [
+        "Kenway & Koh, 2013",
+        "Kenway & Koh (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kenway & Koh, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+      ],
+      "title": ""
+    },
     "Kenway et al., 2006": {
       "aliases": [
         "Kenway et al., 2006",
@@ -125572,6 +125781,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Intelligence/Argument_Zhao_2025_JIntell.md"
+      ],
+      "title": ""
+    },
+    "Khan, 2011": {
+      "aliases": [
+        "Khan, 2011",
+        "Khan (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Khan, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
       ],
       "title": ""
     },
@@ -128645,6 +128869,21 @@
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Erfurth_2022_education-hubs.md",
         "wiki/facts/singapore/Singapore Education Hub Policy.md"
+      ],
+      "title": ""
+    },
+    "Koh, 2014": {
+      "aliases": [
+        "Koh, 2014",
+        "Koh (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Koh, 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
       ],
       "title": ""
     },
@@ -138456,21 +138695,6 @@
       ],
       "title": ""
     },
-    "Linda Elder, 2005": {
-      "aliases": [
-        "Linda Elder, 2005",
-        "Linda Elder (2005)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Linda Elder, 2005"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
-      ],
-      "title": ""
-    },
     "Linda Zagzebski, 1996": {
       "aliases": [
         "Linda Zagzebski, 1996",
@@ -138894,6 +139118,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/learning-science-cognitive-science/Productive Failure.md"
+      ],
+      "title": ""
+    },
+    "Lipman, 2003": {
+      "aliases": [
+        "Lipman, 2003",
+        "Lipman (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Lipman, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
       ],
       "title": ""
     },
@@ -141591,6 +141830,21 @@
       "seen_in": [],
       "title": "A meta-analysis of the effects of advance organizers on learning and retention"
     },
+    "Luke, 2003": {
+      "aliases": [
+        "Luke, 2003",
+        "Luke (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Luke, 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+      ],
+      "title": ""
+    },
     "Lukács, 1920": {
       "aliases": [
         "Lukács, 1920",
@@ -142851,6 +143105,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Emotional Intelligence predicts academic performance: A meta-analysis. Psychological Bulletin."
+    },
+    "MacDonald, 1977": {
+      "aliases": [
+        "MacDonald, 1977",
+        "MacDonald (1977)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "MacDonald, 1977"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+      ],
+      "title": ""
     },
     "MacDonald, 1987": {
       "aliases": [
@@ -147477,6 +147746,21 @@
       ],
       "title": ""
     },
+    "Maxwell & Aggleton, 2013": {
+      "aliases": [
+        "Maxwell & Aggleton, 2013",
+        "Maxwell & Aggleton (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Maxwell & Aggleton, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+      ],
+      "title": ""
+    },
     "Maxwell et al., 2019": {
       "aliases": [
         "Maxwell et al., 2019",
@@ -149567,6 +149851,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-psychology/Domain Specificity.md"
+      ],
+      "title": ""
+    },
+    "McPeck, 1992": {
+      "aliases": [
+        "McPeck, 1992",
+        "McPeck (1992)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "McPeck, 1992a"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
       ],
       "title": ""
     },
@@ -153010,6 +153309,21 @@
       ],
       "title": ""
     },
+    "Ministry of Education, 1997": {
+      "aliases": [
+        "Ministry of Education, 1997",
+        "Ministry of Education (1997)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ministry of Education, 1997"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+      ],
+      "title": ""
+    },
     "Ministry of Education, 1998": {
       "aliases": [
         "Ministry of Education, 1998",
@@ -153071,10 +153385,10 @@
       ],
       "title": ""
     },
-    "Ministry of Education, 2011": {
+    "Ministry of Education, 2011a": {
       "aliases": [
-        "Ministry of Education, 2011",
-        "Ministry of Education (2011)"
+        "Ministry of Education, 2011a",
+        "Ministry of Education (2011a)"
       ],
       "doi": "",
       "identity_keys": [
@@ -153083,6 +153397,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/new-zealand/Treasury Briefing on Student-Teacher Ratios.md"
+      ],
+      "title": ""
+    },
+    "Ministry of Education, 2011b": {
+      "aliases": [
+        "Ministry of Education, 2011b",
+        "Ministry of Education (2011b)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ministry of Education, 2011a"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
       ],
       "title": ""
     },
@@ -160307,7 +160636,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch17.md"
+        "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch17.md",
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
       ],
       "title": ""
     },
@@ -163807,6 +164137,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md",
         "wiki/concepts/learning-science-cognitive-science/Differentiated Instruction.md",
         "wiki/theories/sociology-of-education/Refraction Framework.md"
       ],
@@ -168319,6 +168650,21 @@
       ],
       "title": ""
     },
+    "Paul & Elder, 2005": {
+      "aliases": [
+        "Paul & Elder, 2005",
+        "Paul & Elder (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Paul & Elder, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+      ],
+      "title": ""
+    },
     "Paul A. David, 1985": {
       "aliases": [
         "Paul A. David, 1985",
@@ -168581,6 +168927,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/competency-and-assessment/Critical Thinking Disposition.md"
+      ],
+      "title": ""
+    },
+    "Paul, 2011": {
+      "aliases": [
+        "Paul, 2011",
+        "Paul (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Paul, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
       ],
       "title": ""
     },
@@ -173947,6 +174308,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_ROE.md"
+      ],
+      "title": ""
+    },
+    "Prawat, 1991": {
+      "aliases": [
+        "Prawat, 1991",
+        "Prawat (1991)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Prawat, 1991"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
       ],
       "title": ""
     },
@@ -188351,6 +188727,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Productive time in education. A Review of the Effectiveness of Teaching Time at School, Homework and Extended Time Outside School Hours"
+    },
+    "Scheffler, 1973": {
+      "aliases": [
+        "Scheffler, 1973",
+        "Scheffler (1973)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Scheffler, 1973"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+      ],
+      "title": ""
     },
     "Scheffler, 1991": {
       "aliases": [
@@ -205832,6 +206223,21 @@
       "seen_in": [],
       "title": "Meta-analytical insights on school SES effects."
     },
+    "Tan, 1993": {
+      "aliases": [
+        "Tan, 1993",
+        "Tan (1993)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Tan, 1993"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+      ],
+      "title": ""
+    },
     "Tan, 1996": {
       "aliases": [
         "Tan, 1996",
@@ -205890,6 +206296,21 @@
       "seen_in": [],
       "title": "Group Investigation Effects on Achievement, Motivation, and Perceptions of Students in Singapore"
     },
+    "Tan, 2008": {
+      "aliases": [
+        "Tan, 2008",
+        "Tan (2008)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Tan, 2008"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+      ],
+      "title": ""
+    },
     "Tan, 2010": {
       "aliases": [
         "Tan, 2010",
@@ -205916,7 +206337,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md"
+        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
       ],
       "title": "Framing Educational Success: A Comparative Study of Shanghai and Singapore"
     },
@@ -226038,6 +226460,21 @@
       ],
       "title": ""
     },
+    "Ye & Nylander, 2015": {
+      "aliases": [
+        "Ye & Nylander, 2015",
+        "Ye & Nylander (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ye & Nylander, 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
+      ],
+      "title": ""
+    },
     "Ye et al., 2025": {
       "aliases": [
         "Ye et al., 2025",
@@ -226958,7 +227395,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14.md",
+        "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md"
       ],
       "title": ""
     },
@@ -235698,6 +236136,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/us/Inq-Blotter.md"
+      ],
+      "title": ""
+    },
+    "邓宗怡与高平纳坦, 2016": {
+      "aliases": [
+        "邓宗怡与高平纳坦, 2016",
+        "邓宗怡与高平纳坦 (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "邓宗怡与高平纳坦, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/global/PISA.md"
       ],
       "title": ""
     },
