@@ -92,7 +92,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-29
-updated: 2026-11-15
+updated: 2026-11-19
 ---
 
 ---
@@ -160,7 +160,7 @@ updated: 2026-11-15
 > - **重塑全欧高等教育空间秩序** 成功打破 49 个成员国彼此割裂的学制藩篱，实现了学士、硕士、博士分层三周期学制与 ECTS 学分的制度化通用，使全欧跨境求学与学分认定成为常态。
 > - **从单一政策协调向复合[[Epistemic Infrastructure|认识论基础设施]]演变** 摆脱了最初仅依赖单一政策文件的局限，深化演进为由标准（ESG）、注册机构（[[European Quality Assurance Register for Higher Education|EQAR]]）、微观高校注册库（[[European Tertiary Education Register|ETER]]）与质保数据库（[[Database of External Quality Assurance Results|DEQAR]]）构成的多行动者、多标尺认识论基础设施；质量保障从最初的技术核验工具转化为驱动博洛尼亚深化与全欧高教一体化的核心引擎。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 216, 230–232)]]
 > - **激发高校的[[Geopolitics|地缘政治]]能动性** 实证研究确证，高校能在多层级权力网络中展现出卓越能动性，超越国家政策与地缘政治动荡被动承受者的传统角色，通过跨国联盟、共同学位及空间布局直接参与塑造高等教育地缘秩序。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
-> - **倒逼欧洲大陆传统体制行政现代化** 促使德、法、意等传统中央集权或讲座制国家打破繁琐终身文凭体系，推动课程大纲向强调就业能力（[[Employability]]）与学习产出的模块化转型。
+> - **推动欧洲大陆传统体制行政现代化** 促使德、法、意等传统中央集权或讲座制国家打破繁琐终身文凭体系，推动课程大纲向强调就业能力（[[Employability]]）与学习产出的模块化转型。
 
 > [!effect-table]- 实施规模与跨国对标指标
 > <span class="fact-policy-eval-table-marker" aria-hidden="true"></span>
@@ -200,6 +200,7 @@ updated: 2026-11-15
 > > 博洛尼亚进程是全球高等教育区域合作的普适模板，还是特定历史制度脉络的区域产物？
 > > - **输出假说（Export Thesis）** 传统欧洲高等教育研究与新[[Comparative Regionalism|比较区域主义]]常预设博洛尼亚进程作为全球高等教育一体化的标准范本，主张其他地理区域主要通过政策借鉴、竞争或[[Mimesis|模仿]]吸收其经验。
 > > - **实证批判** [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] 通过实地调研指出，东南亚等地区早在博洛尼亚进程之前已开展内生的高教政策合作；[[SEAMEO RIHED]]的区域测绘报告明确警惕博洛尼亚的大一统路径并建议规避；东南亚国家基于国家主权维护与[[ASEAN|东盟]]方式，自主选择了以大学结网与政府柔性协调并存的多元化路径，反驳了单向扩散预设。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 153–156)]]
+> > - **去殖民视角反思** [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026, pp. 4, 7–8)]] 进一步揭示，东盟在构建高等教育共同空间时试图复制博洛尼亚进程以促进学生流动与学分互认，但这一跨国政策借用将欧洲标准预设为理想范本，再生产了“前宗主国为高教专家、被剥削国必须模仿其机制与成果”的单向知识流动与新殖民性；加之欧盟外交官公开强调借助跨国教育合作施加软实力影响以巩固地缘利益，东南亚区域主义亟需引入认识论去殖民实践与本土原住民哲学以破除对博洛尼亚模式的技术迷信。
 >
 > > [!axis] 争议六：政府间博洛尼亚进程的动能衰竭与认识论基础设施转型
 > > 博洛尼亚进程的传统政府间协调模式是否已经耗尽政治动力？
@@ -244,6 +245,7 @@ updated: 2026-11-15
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]] — 从认识论去殖民化视角批判东盟对欧洲博洛尼亚进程的单向政策借鉴与新殖民依附，主张以本土原住民哲学重塑多元世界区域主义（pp. 4, 7–8）。
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 从地缘政治视角深入剖析博洛尼亚进程中的治理权转移与高校战略能动性。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 实证批判西班牙高校博洛尼亚对标背后的表面欧洲主义、实质质量落后与学术近亲繁殖。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 从福柯权力-知识理论批判解构博洛尼亚进程如何作为知识欧洲支柱之一服务于经贸竞争与全景监控。

@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-20
-updated: 2026-11-11
+updated: 2026-11-19
 ---
 
 ---
@@ -113,7 +113,7 @@ updated: 2026-11-11
 >
 >   - **1995** 越南加入；同年成立[[ASEAN University Network|东盟大学网络]]（ASEAN University Network, AUN），构建区域高等教育质保与学分转换框架。
 >   - **1997–1999** 老挝、缅甸与柬埔寨相继加入，完成东盟十国一体化版图。
->   - **2007** 东盟峰会确立 2015 年建成东盟经济共同体（AEC）的决定性时间表，横向倒逼东盟社会文化共同体（ASCC）加速推进高等教育学分互认与人员流动对接。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 153)]]
+>   - **2007** 东盟峰会确立 2015 年建成东盟经济共同体（AEC）的决定性时间表，促使东盟社会文化共同体（ASCC）加速推进高等教育学分互认与人员流动对接。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 153)]]
 >   - **2007–2008** 签署并生效[[ASEAN Charter|《东盟宪章》]]，正式确立东盟独立法人地位，依据第 12 条设立[[Committee of Permanent Representatives to ASEAN|常驻东盟代表委员会]]（CPR），推动首脑会议改为每年两次并组建东盟协调理事会。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 523)]]
 >
 > - **2010–至今** **共同体建成与地缘[[Educational Diplomacy|教育外交]]枢纽**
@@ -223,6 +223,7 @@ updated: 2026-11-11
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]] — 从认识论去殖民化视角反思东盟高等教育治理的消极不干涉局限，揭示欧美与东亚新殖民性对东盟内部流动的挤压，主张依托原住民哲学重塑东盟方式以驱动区域教育资源再平衡（pp. 4–15）。
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 实证分析中国作为东盟第一大贸易伙伴背景下在东盟（柬埔寨）的高等教育地缘拓展与制度博弈。
 > - [[Argument_Velasco_2022_CSJ|Velasco (2022)]] — 系统剖析面向东盟的教育外交三大支柱及领土争端约束下的软实力权力转化困境。
 > - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 结合中国—东盟全面战略伙伴关系与经贸走廊建设，系统论述职业教育高水平对外开放的政策链条、多边组织平台与现代工匠学院产教协同机制（pp. 286–301）。

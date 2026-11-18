@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-11-02
+updated: 2026-11-19
 ---
 
 ---
@@ -173,4 +173,5 @@ updated: 2026-11-02
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Indrarajah_2026_NJCIE|Indrarajah (2026)]] — 从认识论去殖民化视角检视 SEAMEO RIHED 与 AUN 主导的高教共同空间及 AIMS 跨国学生流动机制，主张破除对老挝、缅甸等后发成员国的排斥偏向，推进全域覆盖与本土人才循环（pp. 6–7, 13–15）。
 > - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 系统剖析 RIHED 组织定位、历史演进及其在东南亚双轨竞逐模式中地位的核心[[Document|文献]]。
