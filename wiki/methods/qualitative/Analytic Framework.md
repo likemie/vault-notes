@@ -9,7 +9,7 @@ summary: "质性研究与比较教育研究中超越参与者日常语言、运�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 102
+method_related_count: 104
 method_related_level: 10
 method_related_stars: "💎💎💎⭐"
 method_related_color: "#dbeafe"
@@ -62,6 +62,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Open Method of Coordination]]"
   - "[[System-Wide Improvement]]"
+  - "[[Pedagogical Hybridity]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Organizational Culture]]"
@@ -129,6 +130,7 @@ related_arguments:
   - "[[Argument_Zapp_2017_IJED]]"
   - "[[Argument_Barrenechea_2023_JEC]]"
   - "[[Argument_Deng_2016_CE]]"
+  - "[[Argument_Chua_2011_CILP]]"
 confidence: high
 status: draft
 created: 2026-06-01
@@ -261,4 +263,5 @@ updated: 2026-11-18
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 构建以政策指引与政策背书为轴的二维四象限分析框架，系统解构多国应对 [[PISA]] 治理压力的政策反应类型学与传导机制（pp. 419–420）。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 融合福柯权力-知识理论与全景敞视主义构建四层级超国家教育治理分析框架，系统解构[[EU|欧盟]][[Open Method of Coordination|开放协调法]]背后的软法监视与专家控制技术。（pp. 480–481, 486–487, 492–493）
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 通过三级扎根编码提炼[[System-Wide Improvement|全系统改进]]的关键驱动力，构建以宏微观治理桥接与教学实践为核心的整合性分析框架（p. 5）。
-> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 构建整合跨国政策批判、五十年历史制度演化考证与千余节常态课堂录像实证的三维分析框架，系统解构高绩效神话并阐释教学杂糅机理。（pp. 450–452）
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 构建整合跨国政策批判、五十年历史制度演化考证与千余节常态课堂录像实证的三维分析框架，系统解构高绩效神话并阐释[[Pedagogical Hybridity|教学杂糅]]机理。（pp. 450–452）
+> - [[Argument_Chua_2011_CILP|Chua (2011)]] — 运用卡普兰与鲍尔道夫（Kaplan & Baldauf, 1997）的八维语言教育规划分析框架，系统解构新加坡从非英语社会转型为懂英语国家的政策协同机制与非预期语言接触后果（pp. 127–130）。

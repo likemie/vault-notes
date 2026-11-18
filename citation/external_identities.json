@@ -7147,6 +7147,7 @@
         "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_McKnight_2020_Discourse.md",
         "wiki/concepts/comparative-education/Performativity.md",
         "wiki/concepts/educational-policy-reform/Performativity of Measurement.md",
+        "wiki/concepts/educational-policy-reform/Tactical Marketisation.md",
         "wiki/concepts/educational-policy-reform/Test-Based Accountability.md",
         "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
         "wiki/concepts/sociology-of-education/School Choice.md"
@@ -45622,7 +45623,8 @@
       "doi": "",
       "isbn": "9789814266727",
       "seen_in": [
-        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md"
+        "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md",
+        "wiki/persons/singapore/Lee Kuan Yew.md"
       ],
       "title": "Lee Kuan Yew: Hard truths to keep Singapore going"
     },
@@ -56405,6 +56407,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Current Issues in Language Planning/Argument_Chua_2011_CILP.md",
         "wiki/concepts/comparative-education/Policy Translation.md",
+        "wiki/methods/qualitative/Analytic Framework.md",
         "wiki/theories/educational-policy-reform/Kaplan and Baldauf's Language-in-Education Planning Framework.md"
       ],
       "title": "Language planning from practice to theory"
@@ -106944,7 +106947,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md"
+        "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Gopinathan_2007_GSE.md",
+        "wiki/facts/singapore/Integrated Programme.md"
       ],
       "title": "Independent schools and autonomous schools in Singapore: A study of two school categorization schemes"
     },

@@ -10,7 +10,7 @@ summary: "一种通过系统评估文献的真实性、可靠性、意义和语�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 93
+method_related_count: 98
 method_related_level: 9
 method_related_stars: "💎💎💎"
 method_related_color: "#dbeafe"
@@ -30,10 +30,12 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Linguistic Turn]]"
+  - "[[Typicality]]"
   - "[[Cooperative Research and Development Agreement]]"
   - "[[Discourse]]"
   - "[[Country Ownership]]"
   - "[[Interpretive Paradigm]]"
+  - "[[Philosophical Hermeneutics]]"
   - "[[Market Fundamentalism]]"
   - "[[Champ]]"
   - "[[Policy Translation]]"
@@ -57,6 +59,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Education Export]]"
   - "[[Nation Branding]]"
+  - "[[Bilingual Education Policy]]"
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Case Study]]"
@@ -91,6 +94,7 @@ related_arguments:
   - "[[Argument_Yang_2017_MUE]]"
   - "[[Argument_Kuortti_2025_JEdPolicy]]"
   - "[[Argument_Yang_2023_ICE]]"
+  - "[[Argument_Chua_2011_CILP]]"
 related_facts:
   - "[[DARPA]]"
   - "[[National Institutes of Health]]"
@@ -119,12 +123,13 @@ related_theories:
   - "[[Developmental Network State]]"
   - "[[Integrated Marketing Communications Theory]]"
 related_persons:
+  - "[[Karl Marx]]"
   - "[[Fred Block]]"
   - "[[Harry S. Truman]]"
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-11-11
+updated: 2026-11-18
 ---
 
 ---
@@ -161,7 +166,7 @@ updated: 2026-11-11
 
 > [!proc] 通用程序
 > 1. **验证真实性（authenticity）** 确认文献的起草者与署名人、生产地点和日期。在某些情况下，文献可能是伪造的，或签署主体存疑。这是分析的前提步骤。
-> 2. **评估[[Reliability|可靠性]]（reliability）** 考察文献描述的可靠性，包括原记录者的视角偏向、对事件的接触程度和观察者的解释立场。文献幸存率不同，研究者还需判断现存材料的代表性和典型性。
+> 2. **评估[[Reliability|可靠性]]（reliability）** 考察文献描述的可靠性，包括原记录者的视角偏向、对事件的接触程度和观察者的解释立场。文献幸存率不同，研究者还需判断现存材料的代表性和[[Typicality|典型性]]。
 > 3. **确定意义（meaning）** 理解文献传达的信息、起草主体的潜在价值和预设，以及所展开的论证。这需要同时理解文本本身及其更广泛的历史与社会语境。
 > 4. **考察语境（context）** 在对文献意义的理解中，识别文本与语境的关系至关重要。特别是历史文献，脱离其时代语境会导致时代错置（anachronism）。语境分析通常涉及三个具体方面：文献的**创制主体**（起源、创作过程、直接参与的个人和群体）、文献的**受众**（目标读者是谁，其构成和动态特征）以及文献的**后果**（对辩论、思想和政策的影响，以及长期影响）。
 > 5. **选择[[Theoretical Perspective|理论视角]]（theorization）** 在[[Positivism|实证主义]]、解释性或批判性传统中选择[[Analytic Framework|分析框架]]，组织对文献的解释。
@@ -182,8 +187,8 @@ updated: 2026-11-11
 
 > [!dimension] 文献分析的三种理论传统（Jupp & Norris, 1993）
 > - **实证主义传统（positivist approach）** 主张客观、系统、理性和量化的研究，寻求文本中的客观事实与频率证据（如 Halstead, 1988 对媒体文献的量化考察）。
-> - **解释性传统（[[Interpretive Paradigm|interpretive approach]]）** 认为包括文献在内的社会现象是社会建构的产物，强调文献的深层意义必须置于其生产与接受的社群语境中阐释。受解释学（hermeneutics）与[[Linguistic Turn|语言学转向]]（linguistic turn）影响，关注意义的文本生产与读者阐释。
-> - **批判传统（critical approach）** 以马克思主义、女性主义或[[Critical Discourse Analysis|批判话语分析]]为代表，关注文本中蕴含的权力、控制与意识形态运作。例如，[[Fred Block|布洛克]]（[[Argument_Block_2008_PS|Block, 2008]]）融合批判传统与历史制度分析，通过解构美国 1980 年代科技立法与行政文献，揭示了[[Market Fundamentalism|市场原教旨主义]]意识形态如何迫使国家研发干预走向隐性运作。
+> - **解释性传统（[[Interpretive Paradigm|interpretive approach]]）** 认为包括文献在内的社会现象是社会建构的产物，强调文献的深层意义必须置于其生产与接受的社群语境中阐释。受解释学（[[Philosophical Hermeneutics|hermeneutics]]）与[[Linguistic Turn|语言学转向]]（linguistic turn）影响，关注意义的文本生产与读者阐释。
+> - **批判传统（critical approach）** 以[[Karl Marx|马克思]]主义、女性主义或[[Critical Discourse Analysis|批判话语分析]]为代表，关注文本中蕴含的权力、控制与意识形态运作。例如，[[Fred Block|布洛克]]（[[Argument_Block_2008_PS|Block, 2008]]）融合批判传统与历史制度分析，通过解构美国 1980 年代科技立法与行政文献，揭示了[[Market Fundamentalism|市场原教旨主义]]意识形态如何迫使国家研发干预走向隐性运作。
 
 ---
 
@@ -237,5 +242,5 @@ updated: 2026-11-11
 > - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 结合区域自贸协定、中国—[[ASEAN|东盟]]战略伙伴关系愿景、国家全会决议及部区共建纪要等官方政策文献，系统梳理跨国职业教育开放的政策脉络与制度演进（pp. 286–288, 292–293）。
 > - [[Argument_Yang_2017_MUE|杨九斌 (2017)]] — 运用政策文献与历史档案分析，梳理二战后至卫星危机前后美国联邦大学科研资助政策演进，解析[[Harry S. Truman|杜鲁门]]国防计划性资助与后卫星时代以基金会为代表的自由基础研究转向。
 > - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 汇编芬兰 2010–2020 年间关于[[Education Export|教育出口]]的 16 份关键政策文献（含 5 份核心实践文本与 11 份支撑政策），运用 Atlas.ti 对改革措施与指标展开系统节点编码（p. 5）。
-- [[Argument_Yang_2023_ICE|杨明全和邓丽 (2023)]] — 系统梳理芬兰[[Nation Branding|国家品牌]]代表团报告、教育出口战略与海外媒体文本，运用[[Integrated Marketing Communications Theory|整合营销传播]]分析框架解构国家教育品牌形象建构与传播策略（pp. 3–9）。
-> - [[Argument_Chua_2011_CILP|Chua (2011)]] — 综合运用政策文本分析、课程大纲与官方统计数据，系统解构新加坡自上而下的语言教育规划体系，揭示懂英语双语政策的运行机制与成效局限（pp. 125–142）。
+> - [[Argument_Yang_2023_ICE|杨明全和邓丽 (2023)]] — 系统梳理芬兰[[Nation Branding|国家品牌]]代表团报告、教育出口战略与海外媒体文本，运用[[Integrated Marketing Communications Theory|整合营销传播]]分析框架解构国家教育品牌形象建构与传播策略（pp. 3–9）。
+> - [[Argument_Chua_2011_CILP|Chua (2011)]] — 综合运用政策文本分析、课程大纲与官方统计数据，系统解构新加坡自上而下的语言教育规划体系，揭示懂英语[[Bilingual Education Policy|双语政策]]的运行机制与成效局限（pp. 125–142）。

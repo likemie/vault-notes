@@ -4,13 +4,13 @@ aliases:
   - 李光耀
   - Lee, K. Y.
   - Harry Lee Kuan Yew
-summary: "新加坡建国总理（1959–1990年在任）。以千年期战略决断、市场化高薪养廉文官制、讲华语运动与儒家君子政德著称，将极端资源匮乏小岛建设为全球高科技与金融枢纽；基辛格评价其领导力终结了历史由形势还是性格塑造的争论，被卡普与扎米斯卡视为技术共和国兼具制度理性与文化德性的治国典范。"
+summary: "新加坡建国总理（1959–1990年在任）。主导确立兼顾实用主义经济生存与族群文化根基的双轨双语教育体制、公职薪酬市场化对标制度、讲华语运动与儒家政德，被视为技术共和国兼具制度理性与文化德性的治国典范。"
 type: person
 cssclasses:
   - person-page
 nationality: singapore
 person_region: "singapore"
-person_related_count: 25
+person_related_count: 28
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,23 +28,26 @@ tags:
   - region/singapore
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Asceticism]]"
+  - "[[Bilingual Education Policy]]"
   - "[[Junzi]]"
+  - "[[English-Knowing Bilingualism]]"
   - "[[The Sublime]]"
   - "[[Language-of-State]]"
   - "[[Document]]"
   - "[[Value Neutrality]]"
   - "[[Technological Republic]]"
-  - "[[Cosmopolitanism]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Hard Power]]"
 related_theories:
   - "[[Great Man Theory]]"
 related_facts:
-  - "[[National Education]]"
-  - "[[Singapore Civil Service Salary Benchmarking Policy]]"
   - "[[Speak Mandarin Campaign]]"
+  - "[[Singapore Civil Service Salary Benchmarking Policy]]"
   - "[[Goh Report]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16]]"
+  - "[[Argument_Chua_2011_CILP]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
@@ -52,26 +55,27 @@ related_persons:
   - "[[Thomas Stamford Raffles]]"
   - "[[Goh Keng Swee]]"
   - "[[Confucius]]"
-  - "[[John Rawls]]"
   - "[[Henry Kissinger]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
+  - "[[John Rawls]]"
 related_methods: []
+related_instruments: []
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-14
+updated: 2026-11-18
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 新加坡政治家、律师、建国总理（1959–1990 年在任），随后历任新加坡内阁资政与高级资政；亚洲乃至全球务实公共治理与国家能力建构的标志性领袖。
-> - **核心角色** 在国家治理与公共部门激励设计中确立了务实理性主义[[Paradigm|范式]]；坚决破除西方公职伦理中不切实际的道德禁欲主义幻想，力主将公职人员薪酬与私营市场顶级专业人士紧密挂钩；在文化与政德层面倡导儒家[[Junzi|君子]]品德与共同体道德，以千年期战略视野果断推行统一语言政策与[[National Education|国民教育]]，塑造跨族群国家认同。
-> - **代表贡献** 主导确立[[Singapore Civil Service Salary Benchmarking Policy|新加坡公职薪酬市场化挂钩制度]]与[[Speak Mandarin Campaign|讲华语运动]]；构建起廉洁高效的现代文官治理体制；将新加坡从 1960 年人均国内生产总值（Gross Domestic Product, GDP）仅 428 美元的极端脆弱小岛，建设为人均 GDP 超 8.4 万美元的全球高科技与金融枢纽。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–197)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–216)]]
+> - **核心角色** 在国家治理与公共部门激励设计中确立了务实理性主义[[Paradigm|范式]]；破除西方公职伦理中不切实际的道德[[Asceticism|禁欲主义]]设想，主张将公职人员薪酬与私营市场顶级专业人士紧密挂钩；在文化与语言层面推行以英语为第一工作语言并强制修习母语的[[Bilingual Education Policy|双语教育政策]]与[[Speak Mandarin Campaign|讲华语运动]]，依托儒家[[Junzi|君子]]德性与长程战略视野塑造跨族群国家认同。
+> - **代表贡献** 主导确立[[Singapore Civil Service Salary Benchmarking Policy|新加坡公职薪酬市场化挂钩制度]]、以[[English-Knowing Bilingualism|懂英语的双语政策]]为核心的语言教育规制与讲华语运动；构建起廉洁高效的现代文官治理体制；将新加坡从建国初期人均国内生产总值（Gross Domestic Product, GDP）仅 428 美元的极端脆弱小岛，建设为人均 GDP 超 8.4 万美元的全球高科技与金融枢纽。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]; [[Argument_Chua_2011_CILP|(Chua, 2011, pp. 126–128)]]
 
 > [!citation-card] 人物定位的关键来源
-> 李光耀在 1994 年议会辩论中明确指出，政治家和公职人员同样是有血有肉、有家庭有现实抱负的普通男女；当社会高谈阔论[[The Sublime|崇高]]的道德情怀时，必须记住归根结底极少有人会甘愿成为不食人间烟火的神职人员。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
+> 李光耀在 1994 年议会辩论中指出，政治家和公职人员同样是有血有肉、有家庭有现实抱负的普通男女；当社会高谈阔论[[The Sublime|崇高]]的道德情怀时，必须记住归根结底极少有人会甘愿成为不食人间烟火的神职人员。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
 >
 > *Lee responded that politicians “are real men and women, just like you and me, with real families who have real aspirations in life.” He continued: “So when we talk of all these high-falutin, noble, lofty causes, remember at the end of the day, very few people become priests.”*
 
@@ -82,26 +86,27 @@ updated: 2026-11-14
 > - **1954** 参与创立人民行动党（People's Action Party, PAP）并出任秘书长。
 > - **1959** 在自治邦大选中获胜，就任新加坡首任总理。
 > - **1965** 领导新加坡脱离马来西亚独立；在酒商公会发表历史性演说，宣示以未来一代、一百年乃至一千年的时间跨度进行国家生存计算。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 194)]]
-> - **1979** 依据副总理[[Goh Keng Swee|吴庆瑞]]主持的《[[Goh Report|吴庆瑞报告]]》，正式启动全国范围的[[Speak Mandarin Campaign|讲华语运动]]，果断重塑多方言丛林为统一[[Language-of-State|国家语言]]人格。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
-> - **1986** 在国庆群众大会上阐明国家介入私人领域是多民族建国的必要基础，随后逐步过渡到赋权民众自主选择的新发展阶段。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–197)]]
+> - **1966** 正式推行[[Bilingual Education Policy|双语教育政策]]，将英语确立为跨族群中立通用语与主要教学媒介，同时强制各族学生修习官方母语以维系文化认同。[[Argument_Chua_2011_CILP|(Chua, 2011, p. 126)]]
+> - **1979** 依据副总理[[Goh Keng Swee|吴庆瑞]]主持的《[[Goh Report|吴庆瑞报告]]》，正式启动全国范围的[[Speak Mandarin Campaign|讲华语运动]]，重塑多方言环境为统一[[Language-of-State|国家语言]]人格。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]; [[Argument_Chua_2011_CILP|(Chua, 2011, pp. 126–127)]]
+> - **1986** 在国庆群众大会上阐明国家介入私人领域是多民族建国的必要基础，随后逐步过渡到支持民众自主选择的新发展阶段。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–197)]]
 > - **1994** 在议会提交《竞争性薪酬确保廉洁高效政府》白皮书，正式将公职薪酬对标私营部门市场化公式法定化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
 > - **2015** 在新加坡中央医院逝世，享年 91 岁。
 
 ---
 
 > [!thought-timeline] 治国思想演进历程
-> - **1965–1970年代 — 千年存续视野与多族群国家建构** 面对独立初期的地缘脆弱性与资源匮乏，确立以千年期时间尺度思考国家生存的执政意志；突破自由放任教条，在土地、住房与基础设施中强化国家能动性。
->   - **代表[[Document|文献]]** 1965 年酒商公会建国演说；1979 年双语教育改革指令。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 194)]]
+> - **1965–1970年代 — 千年存续视野与多族群国家建构** 面对独立初期的地缘脆弱性与资源匮乏，确立以长程时间尺度思考国家生存的执政意志；突破自由放任教条，在土地、住房与基础设施中强化国家能动性，并将英语与母语的双轨双语体制确立为国家建构的基石。
+>   - **代表[[Document|文献]]** 1965 年酒商公会建国演说；1966 年双语政策实施规程。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 194)]]; [[Argument_Chua_2011_CILP|(Chua, 2011, p. 126)]]
 >   - **关键概念** 千年战略视野、国家生存意志、跨族群共同体。
->   - **阶段转向** 从反对殖民统治的政治动员，转向以极长程理性计算为核心的国家制度建构。
+>   - **阶段转向** 从反殖民政治动员转向以极长程理性计算为核心的国家制度建构。
 > - **1979–1980年代 — 语言整合、共有价值观与防卫意志** 依据《[[Goh Report|吴庆瑞报告]]》推动[[Speak Mandarin Campaign|讲华语运动]]与道德教育，强调缺乏文化价值观引领的社会在危机中必将涣散，将共享语言与公民身份作为国家防卫的根基。
 >   - **代表文献** 1979 年《[[Goh Report|吴庆瑞报告]]》；1986 年国庆群众大会演说。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–197)]]
 >   - **关键概念** [[Speak Mandarin Campaign|讲华语运动]]、公民身份塑造、集体防卫意志。
->   - **阶段转向** 从单纯的经济工业化推进，深化为对国民文化心理与国家意识的系统性培育。
+>   - **阶段转向** 从单纯的经济工业化推进深化为对国民文化心理与国家意识的系统性培育。
 > - **1990年代 — 市场化文官激励与国家能力制度化** 总结数十年反腐败与行政治理经验，提交竞争性薪酬白皮书，用法定机制将部长及高阶文官薪酬对标私营顶级从业者，彻底破除道德禁欲主义对公职人员选拔的束缚。
 >   - **代表著作** 1994 年《竞争性薪酬确保廉洁高效政府》白皮书；2000 年《从第三世界到第一世界：新加坡的故事（1965–2000）》。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
 >   - **关键概念** 文官薪酬对标、高薪养廉、务实国家能力。
->   - **阶段转向** 将开国领袖的个人魅力型权威转化为高度制度化、可自我复制的市场化激励与现代官僚体系。
+>   - **阶段转向** 将开国领袖的个人权威转化为高度制度化、可自我复制的市场化激励与现代官僚体系。
 > - **2000–2010年代 — 儒家[[Junzi|君子]]政德与超越形式中立的文明思考** 面对全球化冲击与西方形式[[Value Neutrality|价值中立]]导致的虚无主义，系统倡导儒家君子品格（孝顺父母、忠于家庭、悉心教子、效忠国家），将具体的德性追求确立为小国抵御地缘风险的坚实伦理护城河。
 >   - **代表著作** 2013 年《李光耀观天下》；2020 年《李光耀：论中国、美国与世界》。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–216)]]
 >   - **关键概念** 儒家[[Junzi|君子]]品德、实质美德、超越[[Value Neutrality|价值中立]]。
@@ -109,45 +114,48 @@ updated: 2026-11-14
 
 ---
 
-> [!claim] 核心思想
-> 国家建构与文明存续无法依赖被动放任与价值虚无的[[Cosmopolitanism|世界主义]]，必须依托兼具千年期战略视野与决断力的卓越领导力；在制度上建立对标私营市场的务实激励，破除公职禁欲主义；在文化上果断塑造跨越族群割裂的共享语言与公民身份；在伦理上倡导兼顾家庭责任与国家忠诚的儒家[[Junzi|君子]]美德，为现代高科技共和国奠定坚实的制度与精神基业。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–198)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–216)]]
-
-> [!citation-card] 千年视野下的国家生存意志
-> 我是在以未来一代、未来一百年、甚至以永恒的时间尺度来进行盘算。请相信我，在未来的这一千年里，我们将始终屹立于此。只有那些能够按照这种时间跨度去思考和谋划的人民，才配在这个世界上生存下去。（p. 194）
+> [!person-thesis] 主张一｜国家生存与经济繁荣要求以极端[[Pragmatic Paradigm|实用主义]]确立英语的通用工作语言地位，同时必须修习族群母语以维系文化根基与社会凝聚力
+> 在多元族群与地缘孤立的约束下，语言政策必须直接服务于经济生存与国家认同的双重目标。李光耀认定，英语是连接发达国家市场、汲取现代科技与吸引跨国资本的最优工具，同时充当国内各族群间中立的桥梁语言；与此同时，各族群必须修习官方指定的母语以保留传统道德伦理与文化根基，抵御过度西方化带来的去根风险。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 126–128)]]
 >
-> *I am calculating in terms of the next generation, in terms of the next hundred years, in terms of eternity. And believe you me, for the next thousand years, we will be here. It is people who calculate and think in those terms that deserve to survive.*
+> > [!thesis-quote] 李光耀论双语战略的双重必要性（Han et al., 2011, pp. 254–255; 引自 Chua, 2011, p. 126）
+> > 学习英语使我们能够获得进入发达世界的最佳通道：美国、英国、加拿大、澳大利亚和新西兰，以及欧洲的大部分地区，因为跨国公司都在使用英语，日本投资者来这里也会使用英语。这赋予了我们最强大的竞争优势。但是学习华语以及其他母语同样不可或缺，它确保了华人、马来人和泰米尔人不会失去自己的民族特性、根基与生命力。[[Argument_Chua_2011_CILP|(Chua, 2011, p. 126)]]
+> >
+> > *English would give us the best entree into the developed world: America, Britain, Canada, Australia and New Zealand, probably large parts of Europe because their companies would use English... But the learning of Mandarin (and other mother tongues) was also important so as to ensure that the Chinese (Malays and Tamils) would not lose their ethnicity, their sense of being themselves and their vitality.*
 
-> [!citation-card] 语言整合与共有文化价值观塑造
-> 我们曾用不同语言唱不同的歌。我们不会对同一个笑话发笑，因为如果你用福建话讲笑话，全岛百分之四十的人完全听不懂……一个没有道德价值观引领的社会在压力之下极难保持凝聚力；正是对共同价值观的承诺，决定了移民后裔愿意并在多大程度上捍卫其集体利益。（pp. 195–196）
+> [!person-thesis] 主张二｜公共部门治理必须依托对标私营市场的务实经济激励，破除道德禁欲主义对公职选拔的虚幻束缚
+> 现代国家的长治久安取决于能否持续将全社会最顶尖的专业人才吸纳进政府中枢。李光耀强调，政治家与高级文官同样具有现实生活需求与家庭责任，期望公职人员依靠纯粹的奉献精神抵御物质诱惑是不切实际的幻想。只有通过法定机制将高级公职薪酬与私营市场顶尖专业人士动态对标，才能确保公职体系对卓越人才的持久吸引力并从根本上杜绝寻租腐败。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
 >
-> *We sang different songs in different languages. We did not laugh at the same jokes, because you can crack a joke in Hokkien, but forty percent of the population won't follow you... A society unguided by moral values can hardly be expected to remain cohesive under stress. It is a commitment to a common set of values that will determine the degree to which people of recent migrant origin will be willing and able to defend their collective interest.*
+> > [!thesis-quote] 李光耀论公职人员现实人性与务实激励
+> > 当我们谈论所有这些冠冕堂皇、高尚崇高的宏大事业时，请记住归根结底极少有人会成为神职人员。
+> >
+> > *So when we talk of all these high-falutin, noble, lofty causes, remember at the end of the day, very few people become priests.*
 
-> [!citation-card] 务实激励论与公职人员现实人性
-> 当我们谈论所有这些冠冕堂皇、高尚崇高的宏大事业时，请记住归根结底极少有人会成为神职人员。（p. 182）
+> [!person-thesis] 主张三｜多元技术共和国的持久凝聚无法维系于空洞的价值中立，必须以儒家君子品格与共有文化传统构筑实质伦理护城河
+> 国家治理不能仅靠程序与技术工具，面对全球化冲击与价值虚无的威胁，必须培育具体的文化德性。李光耀倡导将儒家君子品格（孝顺父母、忠于家庭、悉心教子、效忠国家）作为公民道德的支柱，强调具体明确的文化认同与道德传承是多元移民社会在外部危机中保持凝聚力的根本保障。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–216)]]
 >
-> *So when we talk of all these high-falutin, noble, lofty causes, remember at the end of the day, very few people become priests.*
+> > [!thesis-quote] 李光耀论儒家君子美德与国家凝聚
+> > 对李光耀而言，追求的理想是成为[[Confucius|孔子]]在两千多年前所倡导的君子，一个孝顺父母、忠于配偶、悉心教子并效忠国家的典范人物。空洞的中立正使辨别本能发生萎缩，正是共享文化的复兴才能使社会继续生存与保持凝聚。
+> >
+> > *For Lee Kuan Yew, the aspirational ideal was to become, as Confucius urged more than two thousand years ago, a junzi... someone who is “loyal to his father and mother,” “faithful to his wife,” “brings up his children well,” and is a “loyal citizen of his emperor.”... It will be the resurrection of a shared culture, not its abandonment, that will make possible our continued survival and cohesion.*
 
-> [!citation-card] 儒家君子美德作为国家治理的实质伦理支柱
-> 对李光耀而言，追求的理想是成为[[Confucius|孔子]]在两千多年前所倡导的君子——一个孝顺父母、忠于配偶、悉心教子并效忠国家的典范人物。对于当今许多人而言，这样具体的美德概念必须作为偏狭和排他而被抵制。但是，在以包容之名抛弃了这些美德之后，我们又愿意提出并捍卫何种崇高或典范生活的美德呢？[[John Rawls|约翰·罗尔斯]]的政治自由主义主张在目标上保持中立，其列出的美德（公平合作、礼貌、宽容与合理性）被证明是有限和温和的——不过是一套维持公民社会运作的无可争议的背景要求，根本无法为公共生活提供任何丰富性或文化特质。空洞的中立正使我们的辨别本能发生萎缩。我们现在必须认真对待这种可能性：正是共享文化的复兴，而非对其放弃，才能使我们继续生存与保持凝聚。（pp. 215–216）
+---
+
+> [!citation-card] [[Henry Kissinger|基辛格]]论李光耀对历史塑造的决定性贡献
+> 李光耀的领导为究竟是客观环境还是领袖性格塑造历史这一古老争论画上了句号；李光耀以非凡的远见与钢铁意志，将一个资源匮乏的脆弱岛屿铸就为第一世界国家。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
 >
-> *For Lee Kuan Yew, the aspirational ideal was to become, as Confucius urged more than two thousand years ago, a junzi, which has been variously translated as an “exemplary person,” or “gentleman.” This was someone who is “loyal to his father and mother,” “faithful to his wife,” “brings up his children well,” and is a “loyal citizen of his emperor,” Lee said in an interview. Such a specific conception of virtue, for many today, must be resisted as parochial and exclusionary. But what virtues, what conception of the noble or indeed exemplary life, are we willing to advance and defend in the place of the ones that have been jettisoned in the name of inclusivity?... What we need is more cultural specificity—in education, technology, and politics—not less. The vacant neutrality of the current moment risks allowing our instinct for discernment to atrophy. We must now take seriously the possibility that it will be the resurrection of a shared culture, not its abandonment, that will make possible our continued survival and cohesion.*
+> *In the case of Lee’s leadership, the ancient argument whether circumstance or personality shapes events was settled in favour of the latter.*
 
 ---
 
 > [!influence-path] 影响路径
 > - **公共管理与国家治理能力路径** 为全球公共部门薪酬改革与反腐治理提供了独树一帜的亚洲[[Paradigm|范式]]，打破了将低薪清廉视为理所当然的道德教条，证明市场化激励与精英治理可以高效融合。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
+> - **语言规划与多语国家建构路径** 奠定了新加坡双语教育体系与讲华语运动的制度架构，将语言规划深度嵌入外向型经济与国家安全，成为后殖民多语国家语言工程的重要参照。[[Argument_Chua_2011_CILP|(Chua, 2011, pp. 126–128)]]
 > - **国家建构与[[Great Man Theory|伟人理论]]验证路径** [[Henry Kissinger|亨利·基辛格]]指出李光耀的执政为“究竟是客观环境还是领袖性格塑造历史”的古老争论画上了句号；成为卡普与扎米斯卡批判西方解构英雄主义与国家认同的核心历史参照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–198)]]
-> - **[[Technological Republic|技术共和国]]文化与实质德性重构路径** 成为卡普与扎米斯卡反思西方形式[[Value Neutrality|价值中立]]（Rawlsian Neutrality）与空洞功利主义（Peter Singer）、呼吁重构实质文化特质与共有德性的关键思想参照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–218)]]
+> - **[[Technological Republic|技术共和国]]文化与实质德性重构路径** 成为卡普与扎米斯卡反思西方形式[[Value Neutrality|价值中立]]与空洞功利主义、呼吁重构实质文化特质与共有德性的关键思想参照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–218)]]
 
-> [!evidence-grid] 相关研究索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 深度解析李光耀 1994 年文官薪酬白皮书（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|Ch. 16]]）、千年战略视野与国家认同塑造（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch. 17]]），以及儒家[[Junzi|君子]]德性建构（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch. 18]]）。
-
----
-
-> [!citation-card] [[Henry Kissinger|基辛格]]论李光耀对历史塑造的决定性贡献
-> 李光耀的领导为究竟是客观环境还是领袖性格塑造历史这一古老争论画上了句号；李光耀以非凡的远见与钢铁意志，将一个资源匮乏的脆弱岛屿铸就为第一世界国家。（p. 198）
->
-> *In the case of Lee’s leadership, the ancient argument whether circumstance or personality shapes events was settled in favour of the latter.*
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 深度解析李光耀 1994 年文官薪酬白皮书（Ch. 16）、千年战略视野与国家认同塑造（Ch. 17），以及儒家[[Junzi|君子]]德性建构（Ch. 18）。
+> - [[Argument_Chua_2011_CILP|Chua (2011)]] — 系统剖析李光耀确立的兼顾国际经济连通与亚洲文化传统的双轨双语政策，揭示自上而下语言规划的制度机制与社会反弹（pp. 126–128）。
 
 ---
 
@@ -179,10 +187,12 @@ updated: 2026-11-14
 > | 条目 | 类型 | 核心贡献与关联 |
 > |:-----|:-----|:-----|
 > | [[Singapore Civil Service Salary Benchmarking Policy]] | 政策事实 | 1994 年主导确立，将公职薪酬市场化公式法定化，破除公职禁欲主义。 |
-> | [[Speak Mandarin Campaign]] | 政策事实 | 1979 年正式发起，整合多方言丛林为统一国家语言人格，克服族群割裂。 |
+> | [[Speak Mandarin Campaign]] | 政策事实 | 1979 年正式发起，整合多方言环境为统一国家语言人格，克服族群割裂。 |
 > | [[Goh Report]] | 政策事实 | 1979 年由副总理[[Goh Keng Swee\|吴庆瑞]]主导提出，确立双语教育与道德价值观对国家凝聚力的决定性作用。 |
 > | [[Technological Republic]] | 概念 | 被卡普与扎米斯卡确立为兼具高效制度理性与实质文化德性的治国典范。 |
 > | [[Junzi]] | 概念 | 将儒家模范人格作为公职选拔与公民教育的核心道德坐标。 |
-> | [[Hard Power]] | 概念 | 以千年战略视野与国民防卫服役构建小国不可动摇的常规威慑根基。 |
+> | [[Hard Power]] | 概念 | 以长程战略视野与国民防卫服役构建小国不可动摇的常规威慑根基。 |
+> | [[Bilingual Education Policy]] | 政策概念 | 确立英语为工作语言并强制修习族群母语，构建双轨双语国家治理范式。 |
+> | [[English-Knowing Bilingualism]] | 政策概念 | 奠定懂英语双语主义的制度实践框架。 |
 > | 人民行动党（People's Action Party, PAP） | 组织 | 所属政党与政府机构。 |
 > | 新加坡内阁 | 组织 | 所属政党与政府机构。 |

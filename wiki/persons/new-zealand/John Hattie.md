@@ -10,7 +10,7 @@ cssclasses:
   - person-page
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 164
+person_related_count: 163
 person_related_level: 16
 person_related_stars: "💎💎💎💎💎⭐"
 person_related_color: "#fef3c7"
@@ -54,7 +54,6 @@ related_concepts:
   - "[[Learning Strategies]]"
   - "[[Structural Coupling]]"
   - "[[Problem-Based Learning]]"
-  - "[[Problem Solving]]"
   - "[[Constructivist Paradigm]]"
   - "[[Direct Instruction]]"
   - "[[Mastery Learning]]"
@@ -195,9 +194,9 @@ related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
   - "[[Visible Classroom]]"
 confidence: medium
-status: draft
+status: active
 created: '2026-05-02'
-updated: 2026-11-15
+updated: 2026-11-18
 ---
 
 ---
@@ -268,23 +267,29 @@ updated: 2026-11-15
 
 ---
 
-> [!claim] 核心思想
-> 教育教学的核心机制在于“使教对学生可见、使学对教师可见”。教师不应充当消极旁观的课堂“促进者”，而必须成为主动干预、高频反馈并以可见证据评估自身教学成效的“激活者”。通过以标准差为单位的[[Effect Size\|效应量]]关节点（$d=0.40$）建立证据排序坐标，能够穿透主观轶事与教学时尚，为学校改进提供实证标尺；然而证据应被视为明智[[Problem Solving\|问题解决]]的假设起点，不可直接视同刚性行动处方。
-
-> [!citation-card] 可见的教与学之本质
-> 当教师成为自身教学的学习者、学生成为自身教师时，对学生学习产生最大效应。[[Argument_McKnight_2020_Discourse\|(McKnight & Whitburn, 2020, p. 40)]]
+> [!person-thesis] 主张一｜教与学的可见性是教学效能的核心机制
+> 教学最显著的效能发生在教师成为自身教学的学习者、学生成为自身教师的过程之中。使“教对学生可见、使学对教师可见”构成了穿透传统黑箱教学的核心机制。教师必须依托评价证据持续反思与调适自身教学，而学生则须习得自我调节与元认知监控能力。[[Argument_McKnight_2020_Discourse|(McKnight & Whitburn, 2020, p. 40)]]
 >
-> *“The remarkable feature of the evidence is that the biggest effects on student learning occur when teachers become learners of their own teaching, and when students become their own teachers.”*
+> > [!thesis-quote] McKnight & Whitburn 转述 Hattie 论可见教与学之本质
+> > 当教师成为自身教学的学习者、学生成为自身教师时，对学生学习产生最大效应。
+> >
+> > *The remarkable feature of the evidence is that the biggest effects on student learning occur when teachers become learners of their own teaching, and when students become their own teachers.*
 
-> [!citation-card] 教师作为激活者而非单纯促进者
-> [[Constructivist Paradigm\|建构主义]]解释的是知晓与认知的发生机制，教学实践则要求教师成为主动的激活者，指导学习、提供反馈并监控理解过程。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 433)]]
+> [!person-thesis] 主张二｜教师必须担当主动干预与持续反馈的激活者
+> 建构主义作为认识论主要解释知识建构与认知发生的心理机制，无法直接替代教学论与教学实践。教师在课堂中绝不能退化为消极旁观或任由学生自行摸索的“促进者”，而必须成为主动设计教学、明确指导方向、提供高频反馈并持续监控理解进程的“激活者”。实证综合表明激活者角色的效应量（$d=0.60$）显著超越消极促进者（$d=0.17$）。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 433)]]
 >
-> *“Constructivism is a theory of knowing, not a theory of teaching... Teaching requires teachers to be activators who direct learning, provide [[Feedback]], and monitor understanding.”*
+> > [!thesis-quote] Terhart 引述 Hattie 论教师作为激活者
+> > [[Constructivist Paradigm\|建构主义]]解释的是知晓与认知的发生机制，教学实践则要求教师成为主动的激活者，指导学习、提供反馈并监控理解过程。
+> >
+> > *Constructivism is a theory of knowing, not a theory of teaching... Teaching requires teachers to be activators who direct learning, provide [[Feedback]], and monitor understanding.*
 
-> [!citation-card] 证据与理论的主导关系
-> 证据不意味着不应该有理论。证据是被解释的；证据通过镜头解释，那个镜头就是理论。理论是主导的。[[Argument_Knudsen_2017_NordSTEP\|(Knudsen, 2017, pp. 258–259)]]
+> [!person-thesis] 主张三｜实证证据必须通过理论透镜进行审慎解释
+> 以效应量为基准的元分析证据为教育决策与学校改进提供了经验标尺，并充当专业问题解决的假设起点。对证据的学术解读取决于理论透镜的选择与引导，研究者与实践者需关注相关性向因果关系外推时的条件限制。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 258–259)]]
 >
-> *“Evidence does not mean there should not be theory. Evidence is interpreted; evidence is interpreted through a lens, and that lens is theory. Theory is dominant.”*
+> > [!thesis-quote] Knudsen 访谈 Hattie 论证据与理论的主导关系
+> > 证据不意味着不应该有理论。证据是被解释的；证据通过镜头解释，那个镜头就是理论。理论是主导的。
+> >
+> > *Evidence does not mean there should not be theory. Evidence is interpreted; evidence is interpreted through a lens, and that lens is theory. Theory is dominant.*
 
 ---
 

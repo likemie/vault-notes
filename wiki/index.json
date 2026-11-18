@@ -8575,6 +8575,17 @@
     ]
   },
   {
+    "title": "Tactical Marketisation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Tactical Marketisation.md",
+    "aliases": [
+      "战术性市场化",
+      "战术性全球化",
+      "Tactical Globalisation",
+      "Tactical Marketization"
+    ]
+  },
+  {
     "title": "Technocognition",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Technocognition.md",
@@ -45948,7 +45959,9 @@
       "Bukatsu",
       "活部",
       "课后补习",
-      "private tutoring academies"
+      "private tutoring academies",
+      "影子教育",
+      "Shadow Education"
     ],
     "subtype": "event"
   },
@@ -47148,6 +47161,19 @@
     "subtype": "policy"
   },
   {
+    "title": "Integrated Programme",
+    "type": "fact",
+    "path": "wiki/facts/singapore/Integrated Programme.md",
+    "aliases": [
+      "综合课程",
+      "直通车计划",
+      "IP 直通车",
+      "IP",
+      "Singapore Integrated Programme"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Primary School Leaving Examination",
     "type": "fact",
     "path": "wiki/facts/singapore/Primary School Leaving Examination.md",
@@ -47155,6 +47181,17 @@
       "小六离校考试",
       "小学离校考试",
       "PSLE"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "School Excellence Model",
+    "type": "fact",
+    "path": "wiki/facts/singapore/School Excellence Model.md",
+    "aliases": [
+      "学校卓越成就模型",
+      "新加坡学校卓越模型",
+      "School Excellence Model Singapore"
     ],
     "subtype": "policy"
   },

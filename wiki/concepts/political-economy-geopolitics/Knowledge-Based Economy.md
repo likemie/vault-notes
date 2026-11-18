@@ -7,7 +7,7 @@ aliases:
 summary: "以知识、创新、高等教育、研发与高阶思维技能作为价值创造与全球竞争核心要素的经济形态；在技术自动化与AI浪潮下，其战略重心从静态专业知识转向高阶认知能力，但面临宏观政策宣示与微观学业评价滞后的深层制度悖论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 105
+related_count: 107
 related_level: 10
 related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -122,13 +122,15 @@ related_arguments:
   - "[[Argument_Chou_2017_PolSoc]]"
   - "[[Argument_Qu_2024_IJED]]"
   - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian_Ch04]]"
   - "[[Argument_Block_2008_PS]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Amos_2022_Springer]]"
-  - "[[Argument_Erfurth_2022_education-hubs]]"
   - "[[Argument_Deng_2016_CE]]"
+  - "[[Argument_Erfurth_2022_education-hubs]]"
+  - "[[Argument_Lim_2015_CurricInq]]"
   - "[[Argument_Gopinathan_2007_GSE]]"
 confidence: high
 status: completed
@@ -343,6 +345,7 @@ updated: 2026-11-18
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 追溯新加坡“思考型学校，学习型国家”如何推动教育向能力驱动转型，揭示发展型国家在知识经济诉求与高利害分流问责之间构建的混合调和机制。
+> - [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] — 揭示新自由主义知识经济话语在微观学校层面的阶层化分异，批判性思维虽被标榜为全体国民应对知识经济的必备素养，但在实践中被分化为精英掌控理性与工薪阶层应试规训技术。
 > - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 阐明新加坡强发展型国家在知识经济转型中如何推行战术性市场化与少教多学改革，揭示制度放权与升学统考刚性之间的结构性悖论。
 > - [[Argument_Zheng_2023_ShanghaiSanlian_Ch04|郑雅君 (2023, 第四章)]] — 揭示知识经济与文凭通胀下劳动力市场筛选从文凭硬指标向经历管理与软实力呈现的结构性转移。
 > - [[Argument_Qu_2024_IJED|Qu and Dai (2024)]] — 考察中国[[Internationalization of Higher Education|高等教育国际化]]政策与长三角、粤港澳、海南三大教育枢纽，阐述跨境高等教育如何嵌入区域创新体系并推动知识经济转型。

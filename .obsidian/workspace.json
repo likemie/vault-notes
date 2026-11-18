@@ -112,8 +112,7 @@
               "title": "Argument_Zheng_2023_ShanghaiSanlian_Ch02"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -329,25 +328,29 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "3643ff474ee79da9",
+  "active": "3ac2639cc8584945",
   "lastOpenFiles": [
+    "output/related-updates/Argument_Chua_2011_CILP-684e3a0e/batch-007/result.json",
+    "wiki/concepts/educational-policy-reform/Tactical Marketisation.md",
+    "wiki/facts/singapore/School Excellence Model.md",
+    "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian_Ch02.md",
+    "wiki/facts/singapore/Integrated Programme.md",
+    "output/related-updates/Argument_Deng_2016_CE-aa9fbcd3/batch-013/result.json",
+    "output/related-updates/Argument_Lim_2015_CurricInq-97dc601b/batch-003/result.json",
+    "output/related-updates/Argument_Hogan_2013_ROE-e3def70d/batch-014/result.json",
+    "output/related-updates/Argument_Chua_2011_CILP-684e3a0e/batch-006/result.json",
+    "output/related-updates/Argument_Hogan_2013_ROE-e3def70d/batch-013/result.json",
+    "output/related-updates/Argument_Lim_2015_CurricInq-97dc601b/batch-002/result.json",
     "output/related-updates/Argument_Deng_2016_CE-aa9fbcd3/batch-012/result.json",
     "output/related-updates/Argument_Hogan_2013_ROE-e3def70d/batch-012/result.json",
     "output/related-updates/Argument_Chua_2011_CILP-684e3a0e/batch-005/result.json",
     "output/related-updates/Argument_Hogan_2013_ROE-e3def70d/batch-011/result.json",
-    "output/related-updates/Argument_Lim_2015_CurricInq-97dc601b/batch-001/result.json",
     "output/related-updates/Argument_Lim_2015_CurricInq-97dc601b/batch-009/prompt.md",
-    "output/related-updates/Argument_Lim_2015_CurricInq-97dc601b/batch-009/batch-result.schema.json",
     "output/related-updates/Argument_Lim_2015_CurricInq-97dc601b/batch-008/prompt.md",
-    "output/related-updates/Argument_Lim_2015_CurricInq-97dc601b/batch-008/batch-result.schema.json",
     "output/related-updates/Argument_Lim_2015_CurricInq-97dc601b/batch-007/prompt.md",
-    "output/related-updates/Argument_Lim_2015_CurricInq-97dc601b/batch-007/batch-result.schema.json",
     "output/related-updates/Argument_Lim_2015_CurricInq-97dc601b/batch-006/prompt.md",
-    "output/related-updates/Argument_Lim_2015_CurricInq-97dc601b/batch-006/batch-result.schema.json",
     "output/related-updates/Argument_Lim_2015_CurricInq-97dc601b/batch-005/prompt.md",
-    "output/related-updates/Argument_Lim_2015_CurricInq-97dc601b/batch-005/batch-result.schema.json",
     "output/related-updates/Argument_Lim_2015_CurricInq-97dc601b/batch-004/prompt.md",
-    "output/related-updates/Argument_Lim_2015_CurricInq-97dc601b/batch-004/batch-result.schema.json",
     "output/related-updates/Argument_Lim_2015_CurricInq-97dc601b/batch-001/prompt.md",
     "output/related-updates/Argument_Lim_2015_CurricInq-97dc601b/batch-002/prompt.md",
     "output/related-updates/Argument_Lim_2015_CurricInq-97dc601b/batch-003/prompt.md",
@@ -363,10 +366,6 @@
     "output/related-updates/Argument_Hogan_2013_ROE-e3def70d/batch-014/prompt.md",
     "output/related-updates/Argument_Hogan_2013_ROE-e3def70d/batch-013/prompt.md",
     "output/related-updates/Argument_Hogan_2013_ROE-e3def70d/batch-012/prompt.md",
-    "output/related-updates/Argument_Hogan_2013_ROE-e3def70d/batch-011/prompt.md",
-    "output/related-updates/Argument_Hogan_2013_ROE-e3def70d/batch-010/prompt.md",
-    "output/related-updates/Argument_Hogan_2013_ROE-e3def70d/batch-004/prompt.md",
-    "output/related-updates/Argument_Hogan_2013_ROE-e3def70d/batch-008/prompt.md",
     "sources/Hogan_2013_ROE/figures/Hogan_2013_ROE_Fig11_Integrated_SEM_English.jpg",
     "sources/Hogan_2013_ROE/figures/Hogan_2013_ROE_Fig10_Integrated_SEM_Math.jpg",
     "sources/Hogan_2013_ROE/figures/Hogan_2013_ROE_Fig9_Task_Agency_KB.jpg",

@@ -48,7 +48,6 @@ related_concepts:
   - "[[Policy Avoidance]]"
   - "[[Moral Sidestep]]"
   - "[[Media Logic]]"
-  - "[[Alienation]]"
 related_theories:
   - "[[Structural Functionalism]]"
   - "[[Human Capital Theory]]"
@@ -81,6 +80,7 @@ related_arguments:
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
+  - "[[Argument_Lim_2015_CurricInq]]"
   - "[[Argument_Deng_2016_CE]]"
 confidence: high
 status: active
@@ -193,6 +193,7 @@ updated: 2026-11-18
 > - **1985 — 冲突论与批判教育社会学奠基** Jeannie Oakes 出版划时代著作 *Keeping Track: How Schools Structure Inequality*，开创了对校内分轨（Tracking）的系统实证批判，论证分轨如何剥夺有色人种与工人阶级子弟的优质知识获取权。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 98)]]
 > - **2000 年代初 — 文化心理学与微观认知机制深化** [[Jin Li\|李瑾]]将分轨制置于西方文化“固定自我观”与[[Talent Assumption\|天赋假设]]框架下展开跨文化解构，揭示其引发个人降级与自我实现预言的心理微观发生学机制。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 98–99, 109–110)]]
 > - **2012–2018 — 跨国量化实证与政策政治学解构** [[OECD]] 通过 [[PISA]] 跨国大样本实证确立了分轨与教育公平的负相关定律，推动去分轨综合化改革；[[Paul Morris]] 与 Sue Grey 则进一步揭示英格兰政客在[[Mediatised Governance\|媒介化治理]]中如何策略性过滤分轨负面证据并强行逆流推行选拔制度。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 114, 117–118)]]
+> - **2015 — 课程形态与分轨才能误认批判** [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] 揭示新加坡分轨制（快捷轨 vs 普通轨）在微观课堂中如何依托强控制的教学代码将思维技能降格为应试技术，而精英学校则通过弱控制探究课程培育支配性特权理性，使结构性分轨不平等被系统性误认为个人才能差异。
 > - **2014–2021 — 因果试验招募挫败与准实验方法转向** [[Education Endowment Foundation\|EEF]] 资助的能力分班大规模 [[Randomised Controlled Trials\|RCT]] 因学校拒绝[[Random Assignment\|随机化]]而招募失败（Roy et al., 2014）；EEF [[EEF Teaching and Learning Toolkit\|教学与学习工具包]]（Toolkit）实证定性能力分班对弱势学童带来净损失（$-1$ 个月），加剧阶层固化；2019 年 EEF 正式设立“研究[[School Choice\|学校选择]]”资助序列，确立利用自然变异与[[Quasi-Experimental Designs\|准实验设计]]（QEDs）评估能力分组政策的因果研究新[[Paradigm\|范式]]。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]
 
 ---
@@ -378,7 +379,8 @@ updated: 2026-11-18
 ---
 
 > [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Deng_2016_CE\|Deng and Gopinathan (2016)]] — 系统考证新加坡自 1979 年《[[Goh Report|吴庆瑞报告]]》建立的中小学能力分轨分流机制（Streaming），揭示其在将早期高辍学流失率降至 1% 以下的同时，如何固化了差[[Alienation|异化]]课程大纲与高利害考试竞争。
+> - [[Argument_Deng_2016_CE\|Deng and Gopinathan (2016)]] — 系统考证新加坡自 1979 年《[[Goh Report|吴庆瑞报告]]》建立的中小学能力分轨分流机制（Streaming），揭示其在将早期高辍学流失率降至 1% 以下的同时，如何固化了差异化课程大纲与高利害考试竞争。
+> - [[Argument_Lim_2015_CurricInq|Lim and Apple (2015)]] — 考察新加坡中学分轨体制（快捷轨与普通轨）与独立精英学校的微观课程形态分异，揭示差异化教学代码如何将分轨再生产转化为中立才能差异的合法化功能。
 > - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 基于 [[PISA]] 跨国大样本数据实证揭示分轨制对教育公平与学生动机的系统性损害，并深度解构英格兰执政精英在[[Mediatised Governance\|媒介化治理]]中对[[OECD\|经合组织]]分轨警告的“遗漏[[Discourse|话语]]”策略。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 从东西方文化心理与自我观差异切入，批判西方分轨制的实体能力论与被动适应逻辑，揭示低轨学生遭遇的“个人降级”与自我实现的失败预言。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 记录[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）在能力分组因果试验招募失败（Roy et al., 2014）后，转向利用自然变异与[[Quasi-Experimental Designs\|准实验设计]]（QEDs）评估学校内生组织选择的方法学制度转型。

@@ -1191,12 +1191,24 @@
     {
       "sentence": "TI vs DI: 0.24",
       "target": "wiki/theories/political-economy-geopolitics/Discursive Institutionalism.md"
+    },
+    {
+      "sentence": "在客观效果上，现行评价体系激励并奖赏了那些能够最大化考试成绩的教与学方式，而非国家政策文件所呼吁的、通常与理解性教学框架紧密相关的教学形态。",
+      "target": "wiki/instruments/observation-tools/Framework for Teaching.md"
     }
   ],
   "wiki/arguments/journal-articles/Curriculum Inquiry/Argument_Lim_2015_CurricInq.md": [
     {
       "sentence": "当不同阶层生源的学校共同倡导相同的思维技能词汇时，课程组织形态如何型塑差异化的知识理性与学生主体身份，进而为唯才是用体制提供合法性支持？",
       "target": "wiki/concepts/educational-philosophy/Alienation.md"
+    },
+    {
+      "sentence": "官方普及思维的政策修辞掩盖了学校制度分层的现实",
+      "target": "wiki/concepts/political-economy-geopolitics/Institutional Layering.md"
+    },
+    {
+      "sentence": "占地开阔，配备奥林匹克标准游泳池、网球场、独立表演艺术中心与全空调教室；校训采用拉丁文。",
+      "target": "wiki/concepts/higher-education/University Motto.md"
     }
   ]
 }
