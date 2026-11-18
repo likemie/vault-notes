@@ -145,6 +145,7 @@ related_arguments:
   - "[[Argument_Haubrock_2026_NHB]]"
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
+  - "[[Argument_Gopinathan_2007_GSE]]"
 related_theories:
   - "[[Virtue Epistemology]]"
   - "[[Creative Problem Solving]]"
@@ -555,3 +556,4 @@ updated: 2026-11-15
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 元分析确立生成式 AI 对学生创造力的中等偏小促进效应（$g = 0.444$），揭示统计模型同质化瓶颈。
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 界定创造力为[[Epistemic Virtues and Vices|理智美德]]，揭示过度依赖 AI 导致的[[Cognitive Deskilling|去技能化]]风险，提出[[Counterfactual|反事实]]设问与经验图式交织的支架路径。
 > - [[Argument_Haubrock_2026_NHB|Haubrock et al. (2026)]] — 系统批判当代学术体制量化考核与雇佣不稳定对科学创造力的结构性抑制，确立创造力作为支持性生态环境系统涌现属性的宏观理论框架。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 批判强发展型国家在知识经济转型中对创造力的技术化理解，揭示统一升学统考刚性对真正创造潜能与发散思维的制度性抑制。

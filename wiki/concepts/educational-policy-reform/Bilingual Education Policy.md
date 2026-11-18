@@ -42,6 +42,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
+  - "[[Argument_Gopinathan_2007_GSE]]"
 confidence: high
 status: draft
 created: 2026-10-09
@@ -188,3 +189,4 @@ updated: 2026-11-18
 > - [[Argument_Chua_2011_CILP|Chua (2011)]] — 运用语言教育规划框架解构新加坡自 1966 年以来的双语政策实践，分析学前与小学阶段全浸润课程如何塑造懂英语社会，并指明该模式引发的母语素养滑坡与[[Singlish|新加坡式英语]]身份认同挑战（pp. 125–142）。
 > - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 考察新加坡双语教育政策的建国历史根基，追溯 1956 年《各党派华文教育委员会报告书》如何通过语言政治和解确立以英语为主导、保留母语的双语架构，从而消解族群冲突并支撑外向型经济发展。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 结合第17章深度剖析新加坡双语政策在克服[[Dunbar's Number|邓巴数]]限制、塑造想象共同体与驱动经济提升中的战略实践，论证卓越领袖与国家文化工程在[[Technological Republic|技术共和国]]建构中的决定性作用。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 从发展型国家合法性维系视角，阐明新加坡双语教育如何将作为经济工作语言的英语与作为文化道德压舱石的母语有机结合，并在全球化扩张中抵御去文化化。

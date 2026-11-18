@@ -97,6 +97,7 @@ related_arguments:
   - "[[Argument_Grek_2024_EERJ]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Santos_Silova_2026_Discourse]]"
+  - "[[Argument_Gopinathan_2007_GSE]]"
 confidence: high
 status: completed
 created: 2026-09-06
@@ -315,5 +316,6 @@ updated: 2026-11-15
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 结合福柯权力-规训理论揭示欧盟成员国如何推行“进取型政府间主义”，在表面维系宪制辅助性原则防线的同时，通过开放协调法与量化[[Technologies of Surveillance|监视技术]]主动将国家教育主权让渡于超国家全景敞视治理（pp. 481, 485–487, 492–493）。
 > - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 阐释在欧盟条约禁止法规协调的宪制约束下，超国家机构如何依托认识论基础设施（ESG、EQAR、DEQAR）实现跨国文凭自动互认，底层穿透并重塑传统国家教育主权。
 > - [[Argument_Santos_Silova_2026_Discourse|Santos and Silova (2026)]] — [[In-depth Interview|深度访谈]]三大国际组织的芬兰教育专家，揭示白人救世主心态对全球南方国家教育主权的侵蚀，辩护教育主权的不可让渡性。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 阐明新加坡强发展型国家在面对全球化教育规制压力时，如何通过战术性全球化与远程操纵维系国家教育主权，在有限放权的同时牢固掌握核心课程与意识形态主导权。
 
 ---

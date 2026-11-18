@@ -102,6 +102,7 @@ related_arguments:
   - "[[Argument_Custer_2021_AidData]]"
   - "[[Argument_Velasco_2022_CSJ]]"
   - "[[Argument_Yang_2017_MUE]]"
+  - "[[Argument_Gopinathan_2007_GSE]]"
 confidence: medium
 status: draft
 created: 2026-10-20
@@ -289,3 +290,4 @@ updated: 2026-11-14
 > - [[Argument_Velasco_2022_CSJ|Velasco (2022)]] — 结合东南亚在华留学生定向招募、境外实体分校与孔子学院布局，揭示南海领土主权争议等核心地缘政治关切对跨国教育公共产品政治转化效能的结构性阻滞（pp. 83–86）。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 结合福柯权力理论解构欧盟教育政策话语，阐明无形投资与科研培训如何被建构为决定欧洲全球地缘政治前途的关键支柱（p. 486）。
 > - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 论证欧洲质量保障认识论基础设施如何促使大学成为服务于全球欧洲与[[European Education Area|欧洲教育区]]的地缘政治灯塔。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 从后殖民城邦的地缘生存脆弱性出发，揭示新加坡强发展型国家如何将双语教育、国民教育与技能形成深度嵌入地缘防卫与国家认同维系之中。
