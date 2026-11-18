@@ -7,7 +7,7 @@ aliases:
 summary: "指国家或地区课程标准、教学资源材料、课堂教学实践与学生学业测评之间在内容广度与认知要求层面的结构性匹配状态，由安德鲁·波特与苏珊·福尔曼等学者建立为衡量系统性教育改革执行效能与宏微观治理连贯性的关键分析构念。"
 type: concept
 domain: "curriculum"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -37,10 +37,11 @@ related_facts:
   - "[[Polish Education Reform of 1999]]"
 related_arguments:
   - "[[Argument_Barrenechea_2023_JEC]]"
+  - "[[Argument_Deng_2016_CE]]"
 confidence: high
 status: draft
 created: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-18
 ---
 
 ---
@@ -133,6 +134,7 @@ updated: 2026-11-13
 > - **1990年代初 — 系统性改革运动兴起** Fuhrman 等学者提出系统性教育改革，呼吁以课程对齐克服美国公立教育分散化困局。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, p. 492)]]
 > - **2002 — 波特对齐指数与量化评估成熟** Porter 建立实施课程调查（SEC），提出运用二维拓扑矩阵计算对齐指数（Alignment Index）。
 > - **2010年代至今 — 全系统改进实证综合应用** Barrenechea 等学者在系统改进综述中将其提炼为解释加州长滩、南非豪登等系统成功跨周期提质的关键宏微观治理机制。[[Argument_Barrenechea_2023_JEC|(Barrenechea et al., 2023, pp. 492, 495)]]
+> - **2016 — 东亚高绩效系统的集中化对齐模式** [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] 揭示新加坡通过国家课程大纲、课程发展署（CDIS）教材、国家统一考试与国立教育学院（NIE）师资培训四位一体的高度对齐，构建起高绩效系统的制度基石。
 
 ---
 
@@ -149,7 +151,7 @@ updated: 2026-11-13
 
 ---
 
-> [!entry-map] 条目关联
+> [!entry-map|notitle] 条目关联
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -163,3 +165,4 @@ updated: 2026-11-13
 
 > [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Barrenechea_2023_JEC|Barrenechea et al. (2023)]] — 对 43 篇全系统改进实证文献的质性综合将课程对齐确定为连接宏观治理与微观教学的核心机制。
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 系统剖析新加坡国家大纲、统编教材（CDIS）、国家统考与统一师训（NIE）之间严密的课程对齐机制，揭示其作为东亚高绩效系统制度基石的运转逻辑。

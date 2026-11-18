@@ -96,9 +96,9 @@ argument_key: "Argument_Deng_2016_CE"
 argument_display_title: "PISA and high-performing education systems: explaining Singapore’s education success"
 argument_kind: "journal-article"
 argument_related_count: 55
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#dbeafe"
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: "Comparative Education"
 book_title: ""
 publication_place: ""
@@ -125,7 +125,7 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **[[Historical Institutionalism\|历史制度主义视角]]**<br>Historical Institutionalism | 强调学生的学业产出必须置于教育系统所嵌入的历史、社会与制度情境中予以考察。宏观制度安排（[[Developmental State|发展型国家]]集权体制、统编大纲与升学分流）对教师在课堂内的教学规程构成了制度性规范与合法性支撑（Meyer, 1980; [[Robin Alexander|Alexander]], 2000, 2004）。 |
-> | **[[Pedagogical Hybridity\|教学杂糅规程]]**<br>Pedagogical Hybridity | 刻画以全班[[Direct Instruction\|直接讲授]]和应试操练为主干、工具性吸纳形成性反馈等现代教学技巧的复合型教学形态，解释高绩效系统如何兼顾规范性知识传授与复杂题型应对（Hogan et al., 2013; Hogan, 2014）。 |
+> | **[[Pedagogical Hybridity\|教学杂糅规程]]**<br>Pedagogical Hybridity | 刻画以全班[[Direct Instruction\|直接讲授]]和应试操练为主干、工具性吸纳形成性反馈等现代教学技巧的复合型教学形态，解释高绩效系统如何兼顾规范性知识传授与复杂题型应对（[[Argument_Hogan_2013_ROE\|Hogan et al., 2013]]; Hogan, 2014）。 |
 > | **政策学习分析框架**<br>Policy Learning Framework | 区分浅层机械的政策借用与深度的政策学习，主张跨国借鉴必须建立在对源系统历史传统、[[Cultural Capital\|文化资本]]与课堂运作机理的深度理解之上（Lingard, 2010; Takayama, 2011; Waldow et al., 2014）。 |
 
 > [!warrant]- 理论支撑逻辑
@@ -138,7 +138,7 @@ issuing_organization: ""
 > |---|---|
 > | **文献与政策批判分析**<br>Critical Policy & Literature Analysis | 梳理以麦肯锡咨询报告（[[Michael Barber|Barber]] & Mourshed, 2007; [[Michael Barber|Barber]] et al., 2011）及经合组织报告（[[Andreas Schleicher|Schleicher]], 2011）为代表的[[High-Performing Education Systems\|卓越表现教育系统]]（High-Performing Education Systems, HPES）叙事，解构其将测验高分直接归因于教师资质、领导力及前瞻课改的推论漏洞。 |
 > | **历史制度演化考证**<br>Historical-Institutional Analysis | 梳理自 1956 年以来的新加坡教育发展档案，划分生存驱动、效率驱动与能力驱动三大发展阶段，剖析语言妥协、国家课程与考试分流制度的建立历程（All-Party Committee on Chinese Education, 1956; [[Goh Keng Swee|Goh]] et al., 1979; Gopinathan, 1974; Goh & Gopinathan, 2008）。 |
-> | **微观教学实证整合**<br>Classroom Empirical Synthesis | 依托 CRPP 对全岛小学四年级与中学三年级核心学科常态课堂调查与视频录像数据（Hogan et al., 2013; Hogan, 2014; Vaish, 2008），提炼师生互动模式与教学行为特征。 |
+> | **微观教学实证整合**<br>Classroom Empirical Synthesis | 依托 CRPP 对全岛小学四年级与中学三年级核心学科常态课堂调查与视频录像数据（[[Argument_Hogan_2013_ROE\|Hogan et al., 2013]]; Hogan, 2014; Vaish, 2008），提炼师生互动模式与教学行为特征。 |
 
 > [!sample-panel]- 材料范围与情境说明
 > | 材料层面 | 构成 |
@@ -263,7 +263,7 @@ issuing_organization: ""
 > [!sub-claim] 1. 上千节常态课观察证实：全班讲授与标准练习占绝对主导，提问多为了锁定标准答案
 
 > [!case] 新加坡国立教育学院教育研究中心（CRPP）千节常态课量化实证
-> 新加坡国立教育学院设立 CRPP，启动 Core 1 与 Core 2 两大标志性项目，跨学科考察全岛小学四年级与中学三年级逾 1,200 节常态课（Hogan et al., 2013; Hogan, 2014）：
+> 新加坡国立教育学院设立 CRPP，启动 Core 1 与 Core 2 两大标志性项目，跨学科考察全岛小学四年级与中学三年级逾 1,200 节常态课（[[Argument_Hogan_2013_ROE|Hogan et al., 2013]]; Hogan, 2014）：
 > 1. **讲授时间分布** 课堂 70%–80% 的时间由教师讲授与指令掌控，学生发问与自由探讨的时间极为有限。
 > 2. **师生问答模式** 师生互动中 85% 以上属于封闭式事实核查型的教师发起—学生回答—教师评价（Initiation-Response-Evaluation, IRE）三步互动循环，开放式高阶探究提问不足 15%（Vaish, 2008; Chew et al., 1997）。
 > 3. **课堂教学载体** 高度依赖统一教科书、复印工作纸与标准化习题演练，作业量极为饱和，信息技术主要用于投影演示而非自主建构。

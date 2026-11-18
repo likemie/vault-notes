@@ -10,9 +10,9 @@ aliases:
 summary: "近代世俗民族国家在打破宗教神权与宗族私权中确立的最高教育管辖权与视察责任，主张教育属神圣国家公共资源。20世纪末以来，国家教育主权面临超国家测评治理、WTO/GATS经贸协定、影子国家外包与认识论基础设施微观数据互操作性的多重重塑，并在多层网络治理中转型为跨国软法测评、元标准互联与国内改革合法化共同维系的权力共享行使机制。"
 type: concept
 domain: "comparative-education"
-related_count: 69
-related_level: 6
-related_stars: "💎💎"
+related_count: 70
+related_level: 7
+related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/comparative-education
@@ -101,7 +101,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-11-15
+updated: 2026-11-18
 ---
 
 ---

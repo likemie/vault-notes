@@ -2188,16 +2188,31 @@
       "isbn": "9780631220510",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md",
-        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/concepts/comparative-education/Comparative Pedagogy.md"
       ],
       "title": "Culture and Pedagogy: International Comparisons in Primary Education"
+    },
+    "Alexander, 2001": {
+      "doi": "",
+      "isbn": "9780631220510",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Culture and pedagogy: International comparisons in primary education"
     },
     "Alexander, 2004": {
       "doi": "10.1080/0305764042000183106",
       "isbn": "",
       "seen_in": [],
       "title": "Still No Pedagogy? Principle, Pragmatism and Compliance in Primary Education"
+    },
+    "Alexander, 2008": {
+      "doi": "",
+      "isbn": "9780415444828",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Essays on pedagogy"
     },
     "Alexander, 2010": {
       "doi": "",
@@ -7880,6 +7895,14 @@
       ],
       "title": ""
     },
+    "Barnes, 2008": {
+      "doi": "",
+      "isbn": "9781412948012",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Exploratory talk for learning"
+    },
     "Barnes, 2016": {
       "datasets": [
         "eef:small-group-tuition"
@@ -11170,7 +11193,6 @@
       "doi": "10.1007/s11092-008-9064-9",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/concepts/comparative-education/High-Performing Education Systems.md"
       ],
       "title": "Good Education in an Age of Measurement: On the Need to Reconnect with the Question of Purpose in Education"
@@ -11559,6 +11581,7 @@
       "doi": "10.1080/0969595980050102",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md",
         "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md",
         "wiki/concepts/competency-and-assessment/Formative Assessment.md",
         "wiki/concepts/curriculum/Learning Intentions.md",
@@ -11574,6 +11597,14 @@
         "wiki/concepts/competency-and-assessment/Formative Assessment.md"
       ],
       "title": ""
+    },
+    "Black et al., 2003": {
+      "doi": "",
+      "isbn": "9780335212972",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Assessment for learning: Putting it into practice"
     },
     "Black, 1996": {
       "datasets": [
@@ -19079,6 +19110,14 @@
       "seen_in": [],
       "title": "Performance of Head Start and non-Head Start participants at first grade"
     },
+    "Cazden, 1988": {
+      "doi": "",
+      "isbn": "9780435084561",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Classroom discourse: The language of teaching and learning"
+    },
     "Cech, 2005": {
       "doi": "",
       "isbn": "",
@@ -20362,6 +20401,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effects of computational thinking integration in STEM on students' learning performance in k-12 education: A meta-analysis."
+    },
+    "Cheng, 1996": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Excellence in education: Is it culture-free?"
     },
     "Chengtao & Qiufeng, 2020": {
       "doi": "",
@@ -22390,13 +22437,14 @@
     },
     "Cohen, 1988": {
       "doi": "",
-      "isbn": "",
+      "isbn": "9780805802832",
       "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md",
         "wiki/methods/quantitative/Effect Size Conversion.md",
         "wiki/methods/quantitative/Meta-analysis.md",
         "wiki/persons/us/Jacob Cohen.md"
       ],
-      "title": ""
+      "title": "Statistical power analysis for the behavioral sciences (2nd ed.)"
     },
     "Cohen, 1992": {
       "doi": "",
@@ -38593,6 +38641,14 @@
       ],
       "title": ""
     },
+    "Galton, 2007": {
+      "doi": "",
+      "isbn": "9781412920254",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Learning and teaching in the primary classroom"
+    },
     "Galton, 2012": {
       "datasets": [
         "eef:reducing-class-size"
@@ -41013,7 +41069,9 @@
     "Goh, 1997": {
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
       "title": "Shaping our future: Thinking schools, learning nation"
     },
     "Goh, 2000": {
@@ -41446,6 +41504,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "A randomized controlled trial on the beneficial effects of training letter-speech sound integration on reading fluency in children with dyslexia."
+    },
+    "Good & Brophy, 2003": {
+      "doi": "",
+      "isbn": "9780205374465",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Looking in classrooms (9th ed.)"
     },
     "Good & Shymansky, 2001": {
       "doi": "",
@@ -44647,6 +44713,14 @@
       "seen_in": [],
       "title": "A meta-analysis of the relationship between self-assessment and Mathematics learning achievement."
     },
+    "Hadwin et al., 2011": {
+      "doi": "",
+      "isbn": "9780415802307",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Self-regulation, co-regulation, and socially shared regulation of learning"
+    },
     "Haeck et al., 2014": {
       "doi": "",
       "isbn": "",
@@ -46743,14 +46817,15 @@
       "title": ""
     },
     "Hattie & Timperley, 2007": {
-      "doi": "",
+      "doi": "10.3102/003465430298487",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md",
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md",
         "wiki/concepts/instruction-pedagogy/Feedback.md",
         "wiki/theories/learning-science-cognitive-science/Feedback Intervention Theory.md"
       ],
-      "title": ""
+      "title": "The power of feedback"
     },
     "Hattie & Yates, 2014": {
       "doi": "",
@@ -46899,6 +46974,7 @@
         "wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md",
         "wiki/arguments/journal-articles/Paideia/Argument_Allerup_2015_Paideia.md",
         "wiki/arguments/journal-articles/Paideia/Argument_Qvortrup_2015_Paideia.md",
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md",
         "wiki/arguments/journal-articles/Zeitschrift für Erziehungswissenschaft/Argument_Wecker_2016_ZfE.md",
         "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md",
         "wiki/concepts/competency-and-assessment/Academic Achievement.md",
@@ -46926,8 +47002,7 @@
         "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md",
         "wiki/concepts/instruction-pedagogy/Student-Teacher Relationship.md",
         "wiki/concepts/instruction-pedagogy/Teacher Clarity.md",
-        "wiki/concepts/instruction-pedagogy/Whole Language.md",
-        "wiki/concepts/instruction-pedagogy/Zone of Desired Effects.md"
+        "wiki/concepts/instruction-pedagogy/Whole Language.md"
       ],
       "title": "Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement"
     },
@@ -49444,6 +49519,14 @@
         "wiki/arguments/journal-articles/Educational Research Review/Argument_Chen_Cheung_2025_ERR.md"
       ],
       "title": ""
+    },
+    "Hogan et al., 2011": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "The core research program: A portrait of pedagogy in Singapore"
     },
     "Hogan, 1999": {
       "datasets": [
@@ -73393,6 +73476,14 @@
       "seen_in": [],
       "title": "Hallé SHINE on Manchester"
     },
+    "Mercer & Littleton, 2007": {
+      "doi": "",
+      "isbn": "9780415404792",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Dialogue and the development of children's thinking: A sociocultural approach"
+    },
     "Mercer, 1999": {
       "datasets": [
         "eef:metacognition-and-self-regulation"
@@ -79114,6 +79205,14 @@
         "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch03.md"
       ],
       "title": ""
+    },
+    "Newmann et al., 1995": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Authentic pedagogy: Standards that boost student performance"
     },
     "Newton, 1994": {
       "datasets": [
@@ -84848,6 +84947,22 @@
       ],
       "title": ""
     },
+    "Perkins, 1993": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Teaching for understanding"
+    },
+    "Perkins, 1998": {
+      "doi": "",
+      "isbn": "9780787909246",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "What is understanding?"
+    },
     "Perkins, 2008": {
       "doi": "",
       "isbn": "",
@@ -87139,6 +87254,14 @@
       ],
       "title": ""
     },
+    "Powell & DiMaggio, 1991": {
+      "doi": "",
+      "isbn": "9780226677095",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "The new institutionalism in organizational analysis"
+    },
     "Powell, 2010": {
       "datasets": [
         "eef-ey:early-literacy-approaches"
@@ -87999,6 +88122,14 @@
         "wiki/arguments/journal-articles/Thinking Skills and Creativity/Argument_Park_2026_TSC.md"
       ],
       "title": ""
+    },
+    "Putnam et al., 1990": {
+      "doi": "10.3102/0091732X016001057",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Alternative perspectives on knowing mathematics in elementary schools"
     },
     "Putnam, 1988": {
       "doi": "",
@@ -89909,6 +90040,14 @@
       ],
       "title": ""
     },
+    "Resnick et al., 2010": {
+      "doi": "10.1007/978-0-387-88574-1_10",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "How (well structured) talk builds the mind"
+    },
     "Resnick, 1987": {
       "doi": "",
       "isbn": "",
@@ -90766,6 +90905,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "What Evidence Matters? A randomized field trial of Cognitive Tutor Algebra I."
+    },
+    "Rittle-Johnson & Alibali, 1999": {
+      "doi": "10.1037/0022-0663.91.1.175",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Conceptual and procedural knowledge of mathematics: Does one lead to the other?"
     },
     "Rittle-Johnson et al., 2017": {
       "datasets": [
@@ -92587,6 +92734,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Reciprocal teaching: A review of the research"
+    },
+    "Rosenshine & Stevens, 1986": {
+      "doi": "",
+      "isbn": "9780029224700",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Teaching functions"
     },
     "Rosenshine, 1986": {
       "doi": "",
@@ -96574,6 +96729,14 @@
       ],
       "title": ""
     },
+    "Schoenfeld, 1992": {
+      "doi": "",
+      "isbn": "9780029223819",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Learning to think mathematically: Problem-solving, metacognition, and sense-making in mathematics"
+    },
     "Schofield, 1990": {
       "doi": "",
       "isbn": "",
@@ -97475,6 +97638,14 @@
         "wiki/persons/us/Michael Porter.md"
       ],
       "title": ""
+    },
+    "Scott, 1995": {
+      "doi": "",
+      "isbn": "9780803956520",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Institutions and organizations"
     },
     "Scott, 1998": {
       "doi": "",
@@ -103468,6 +103639,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Report of the effectiveness of project Head Start, Lubbock, Texas. Parts I, II, and appendices."
+    },
+    "Stein et al., 1996": {
+      "doi": "10.3102/00028312033002455",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Building student capacity for mathematical thinking and reasoning: An analysis of mathematical tasks used in reform classrooms"
     },
     "Stein et al., 2007": {
       "doi": "",
@@ -116018,6 +116197,14 @@
         "wiki/persons/uk/Dylan Wiliam.md"
       ],
       "title": ""
+    },
+    "Wiliam, 2007": {
+      "doi": "",
+      "isbn": "9781593115999",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Keeping learning on track: Classroom learning and the regulation of assessment"
     },
     "Wilkens-King, 1984": {
       "datasets": [

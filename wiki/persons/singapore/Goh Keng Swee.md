@@ -9,10 +9,10 @@ cssclasses:
   - person-page
 nationality: singapore
 person_region: "singapore"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1918"
 died: "2010"
 lifespan: "1918–2010"
@@ -37,12 +37,13 @@ related_facts:
   - "[[Goh Report]]"
   - "[[Speak Mandarin Campaign]]"
 related_arguments:
+  - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-11-02
+updated: 2026-11-18
 ---
 
 ---

@@ -10,7 +10,7 @@ alias_reviewed:
 summary: "通过情境化文本、谈话与制度实践建构知识、主体性与权力关系的意义体系；在微观层面指向文本性七标准与课堂互动中微观秩序与权力的协商，在宏观层面指向跨国流动空间中去情境化的普遍主义政策话语、过度简化转译与外围本土的再情境化形变。"
 type: concept
 domain: "research-methodology"
-related_count: 85
+related_count: 86
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -112,10 +112,11 @@ related_arguments:
   - "[[Argument_King_2007_CE]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Kuortti_2025_JEdPolicy]]"
+  - "[[Argument_Gopinathan_2007_GSE]]"
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-11-15
+updated: 2026-11-18
 ---
 
 ---
@@ -296,3 +297,4 @@ updated: 2026-11-15
 > - [[Argument_King_2007_CE|King (2007)]] — 考证多边援助机构建构全球教育议程的历程，揭示“国家拥有”修辞如何掩盖北方技术官僚对南方受援国的指标规训与政策控制（pp. 377–389）。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 运用福柯话语-权力理论批判解构 1992–2007 年[[EU|欧盟]]教育政策话语，揭示危机修辞与市场化话语如何将教育工具化，并依托软法话语构筑欧洲教育[[Panopticism|全景敞视]]式治理（pp. 479–494）。
 > - [[Argument_Kuortti_2025_JEdPolicy|Kuortti (2025)]] — 运用巴奇（[[Carol Bacchi|Bacchi]]）“问题被表征为何”（[[Bacchi's WPR Approach|WPR]]）后结构主义分析框架，解构芬兰高中[[Education Export|教育出口]]政策话语，揭示危机叙事如何将公立教育赤字建构为本体性问题并合法化商业外包。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 剖析新加坡执政精英如何策略性动用全球化与知识经济生存话语，制造关于教育市场化改革的政治共识并合法化强发展型国家的持续主导权。

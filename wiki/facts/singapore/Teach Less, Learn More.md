@@ -9,7 +9,7 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -36,8 +36,9 @@ related_facts:
   - "[[Thinking Schools, Learning Nation]]"
   - "[[Goh Report]]"
 related_arguments:
-  - "[[Argument_Gopinathan_2007_GSE]]"
   - "[[Argument_Deng_2016_CE]]"
+  - "[[Argument_Gopinathan_2007_GSE]]"
+  - "[[Argument_Hogan_2013_ROE]]"
 confidence: high
 status: draft
 created: 2026-11-17
@@ -93,10 +94,11 @@ updated: 2026-11-18
 > [!debates] 政策成效与局限
 > 政策向基层学校注入了前所未有的物质与人力资源，推动了合作学习、专题研究等探究性教学实验，营造了更为宽松的校园创新文化。然而，该改革在学校微观落地时面临根深蒂固的体制性约束：面对[[Goh Report|小六离校考试]]（Primary School Leaving Examination, PSLE）与剑桥普通水准（General Certificate of Education Ordinary Level, O-Level）及高级水准（General Certificate of Education Advanced Level, A-Level）等高利害升学淘汰关口，家长与教师的安全感依然绑定在考试分数上。多数一线教师倾向于将思维技能转化为形式化的应对技巧（technique-oriented view of creativity），在维持原有高密度直接教学的主体框架下附加零散的改革环节，使教学法深层认识论依然受制于应试逻辑。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, pp. 67–68)]]
 > 大规模中学课堂实证进一步证实了政策倡导与课堂现实之间的制度脱节：在政策推行五年后，中三课堂中传统教学与直接教学的实施均分（3.45–3.69）仍显著压倒探究理解（3.38–3.43）与协作自评（3.01–3.28），揭示未动摇高利害考试制度的教学法倡议难以自发重塑微观课堂生态。[[Argument_Hogan_2013_ROE|(Hogan et al., 2013, pp. 58–60, 98–101)]]
+> [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] 考证指出，少教多学倡议虽调减了 10%–20% 的课程大纲知识负荷以释放探究白空间（white space），但由于国家考试高利害问责未变，宏观改革在基层学校遭遇了显著的实践脱节（loose coupling）；探究性活动多呈现表层嵌入特征，核心教学实践依然牢牢锚定于直接教学与应试巩固。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 456–457)]]
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 系统考证少教多学（TLLM）调减 10%–20% 大纲负荷的实施成效，揭示国家高利害考试问责如何导致改革倡议在微观课堂遭遇实践脱节（loose coupling）。
 > - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 从发展型国家转型与高利害问责视角剖析少教多学政策的设计、推进阻力及教学法深层认识论矛盾。
-> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 结合新加坡实证课堂数据，审视少教多学倡导的以学习者为中心教学论与东亚高绩效应试规程之间的结构性张力。
 > - [[Argument_Hogan_2013_ROE|Hogan et al. (2013)]] — 通过对新加坡中学课堂的大规模实证调查与建模，揭示少教多学倡议下课堂依然被传统讲授与高利害考试规锁的制度现实。

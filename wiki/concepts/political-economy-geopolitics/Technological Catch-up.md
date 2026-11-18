@@ -11,7 +11,7 @@ aliases:
 summary: "由弗里德里希·李斯特肇始、后经摩西·阿布拉莫维茨（Moses Abramovitz）与克里斯·弗里曼（Chris Freeman）等演化经济学家系统构建的核心概念；指在国际技术前沿与经济发展水平上处于落后地位的经济体，通过制度创新、国家协调技术教育、引进装备逆向工程以及企业内部专业研发积累，打破先发国家的技术垄断、缩短技术差距并最终实现生产率领先的历史演进过程；强调赶超的关键在于构建以工程技术人才为基石的内生国家创新系统，而非被动等待市场自发汇合。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -40,10 +40,11 @@ related_facts:
   - "[[Education for All]]"
 related_arguments:
   - "[[Argument_Freeman_1995_CJE]]"
+  - "[[Argument_Gopinathan_2007_GSE]]"
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-11-03
+updated: 2026-11-18
 ---
 
 ---
@@ -132,5 +133,21 @@ updated: 2026-11-03
 
 ---
 
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[National Innovation System]] | 概念 | 技术赶超的核心制度载体，统筹教育、科研与产业协同演进。 |
+> | [[Competitiveness]] | 概念 | 后发国家通过技术赶超谋求提升的国际产业与贸易竞争优势。 |
+> | [[Tacit Knowledge]] | 概念 | 先进技术装备背后需要本土消化吸收与二次创新的隐性经验基础。 |
+> | [[Intellectual Capital]] | 概念 | 技术赶超过程中由高素质工科人才与企业自主研发积累的无形资本。 |
+> | [[Systems of Innovation]] | 理论 | 解释技术赶超中多元主体非线性互动的国家与区域创新系统理论。 |
+> | [[Dependency Theory]] | 理论 | 强调外围国家受制于依附结构的理论，与技术赶超的主动跨越形成对比。 |
+> | [[Chris Freeman]] | 人物 | 系统构建基于国家创新系统与演化经济学的技术赶超理论架构。 |
+> | [[Friedrich List]] | 人物 | 早期提出后发工业追赶原理与国家保护性技术教育战略的政治经济学家。 |
+
+---
+
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 结合德、日、苏、韩、拉美等长周期历史案例，系统构建了以[[National Innovation System|国家创新系统]]为核心的技术赶超解释体系。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 考察新加坡强发展型国家如何通过紧密的人力规划与职业技术教育实现工业技术赶超，并揭示其后赶超阶段向知识经济创新转型的制度阵痛。

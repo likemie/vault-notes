@@ -504,7 +504,9 @@
     "Alexander (1994)": "Alexander, 1994",
     "Alexander (1997)": "Alexander, 1997",
     "Alexander (2000)": "Alexander, 2000",
+    "Alexander (2001)": "Alexander, 2001",
     "Alexander (2004)": "Alexander, 2004",
+    "Alexander (2008)": "Alexander, 2008",
     "Alexander (2010)": "Alexander, 2010",
     "Alexander (2011)": "Alexander, 2011",
     "Alexander (2013)": "Alexander, 2013",
@@ -520,7 +522,9 @@
     "Alexander, 1994": "Alexander, 1994",
     "Alexander, 1997": "Alexander, 1997",
     "Alexander, 2000": "Alexander, 2000",
+    "Alexander, 2001": "Alexander, 2001",
     "Alexander, 2004": "Alexander, 2004",
+    "Alexander, 2008": "Alexander, 2008",
     "Alexander, 2010": "Alexander, 2010",
     "Alexander, 2011": "Alexander, 2011",
     "Alexander, 2013": "Alexander, 2013",
@@ -1799,9 +1803,11 @@
     "Barnes & Cross, 2020": "Barnes & Cross, 2020",
     "Barnes & Cross, 2021": "Barnes & Cross, 2021",
     "Barnes (1985)": "Barnes, 1985",
+    "Barnes (2008)": "Barnes, 2008",
     "Barnes (2016)": "Barnes, 2016",
     "Barnes (2021)": "Barnes, 2021",
     "Barnes, 1985": "Barnes, 1985",
+    "Barnes, 2008": "Barnes, 2008",
     "Barnes, 2016": "Barnes, 2016",
     "Barnes, 2021": "Barnes, 2021",
     "Barnett & Finnemore (1999)": "Barnett & Finnemore, 1999",
@@ -2645,6 +2651,8 @@
     "Black (1998)": "Black, 1998",
     "Black (2008a)": "Black, 2008a",
     "Black (2008b)": "Black, 2008b",
+    "Black et al. (2003)": "Black et al., 2003",
+    "Black et al., 2003": "Black et al., 2003",
     "Black, 1996": "Black, 1996",
     "Black, 1998": "Black, 1998",
     "Black, 2008": "Black, 2008a",
@@ -4321,6 +4329,8 @@
     "Caviola et al., 2021": "Caviola et al., 2021",
     "Cawley (1970)": "Cawley, 1970",
     "Cawley, 1970": "Cawley, 1970",
+    "Cazden (1988)": "Cazden, 1988",
+    "Cazden, 1988": "Cazden, 1988",
     "Cech (2005)": "Cech, 2005",
     "Cech, 2005": "Cech, 2005",
     "Cecilia Osorio Gonnet (2018)": "Cecilia Osorio Gonnet, 2018",
@@ -4610,6 +4620,7 @@
     "Cheney, 2009": "Cheney, 2009",
     "Cheng & Koh (2022)": "Cheng & Koh, 2022",
     "Cheng & Koh, 2022": "Cheng & Koh, 2022",
+    "Cheng (1996)": "Cheng, 1996",
     "Cheng et al. (2011)": "Cheng et al., 2011",
     "Cheng et al. (2013)": "Cheng et al., 2013",
     "Cheng et al. (2014)": "Cheng et al., 2014",
@@ -4624,6 +4635,7 @@
     "Cheng et al., 2019": "Cheng et al., 2019",
     "Cheng et al., 2022": "Cheng et al., 2022",
     "Cheng et al., 2023": "Cheng et al., 2023",
+    "Cheng, 1996": "Cheng, 1996",
     "Chengtao & Qiufeng (2020)": "Chengtao & Qiufeng, 2020",
     "Chengtao & Qiufeng, 2020": "Chengtao & Qiufeng, 2020",
     "Chera (2003)": "Chera, 2003",
@@ -8794,7 +8806,9 @@
     "Galloway, 2003": "Galloway, 2003",
     "Galton & Simon (1980)": "Galton & Simon, 1980",
     "Galton & Simon, 1980": "Galton & Simon, 1980",
+    "Galton (2007)": "Galton, 2007",
     "Galton (2012)": "Galton, 2012",
+    "Galton, 2007": "Galton, 2007",
     "Galton, 2012": "Galton, 2012",
     "Galtung & Ruge (1965)": "Galtung & Ruge, 1965",
     "Galtung & Ruge, 1965": "Galtung & Ruge, 1965",
@@ -9438,6 +9452,8 @@
     "González et al. (2006)": "González et al., 2006",
     "González et al., 2006": "González et al., 2006",
     "González, 2015": "González, 2015",
+    "Good & Brophy (2003)": "Good & Brophy, 2003",
+    "Good & Brophy, 2003": "Good & Brophy, 2003",
     "Good & Shymansky (2001)": "Good & Shymansky, 2001",
     "Good & Shymansky, 2001": "Good & Shymansky, 2001",
     "Good (1963)": "Good, 1963",
@@ -10158,6 +10174,8 @@
     "Hadeed, 2011": "Hadeed, 2011",
     "Hadi et al. (2023)": "Hadi et al., 2023",
     "Hadi et al., 2023": "Hadi et al., 2023",
+    "Hadwin et al. (2011)": "Hadwin et al., 2011",
+    "Hadwin et al., 2011": "Hadwin et al., 2011",
     "Haeck et al. (2014)": "Haeck et al., 2014",
     "Haeck et al., 2014": "Haeck et al., 2014",
     "Haenn (1996)": "Haenn, 1996",
@@ -11241,6 +11259,8 @@
     "Hogan (2000)": "Hogan, 2000",
     "Hogan (2014a)": "Hogan, 2014a",
     "Hogan (2014b)": "Hogan, 2014b",
+    "Hogan et al. (2011)": "Hogan et al., 2011",
+    "Hogan et al., 2011": "Hogan et al., 2011",
     "Hogan, 1999": "Hogan, 1999",
     "Hogan, 2000": "Hogan, 2000",
     "Hogan, 2014": "Hogan, 2014b",
@@ -16725,6 +16745,8 @@
     "Menzies et al., 2015": "Menzies et al., 2015",
     "Menzies, 2015": "Menzies, 2015",
     "Menzies, 2016": "Menzies, 2016",
+    "Mercer & Littleton (2007)": "Mercer & Littleton, 2007",
+    "Mercer & Littleton, 2007": "Mercer & Littleton, 2007",
     "Mercer (1999)": "Mercer, 1999",
     "Mercer, 1999": "Mercer, 1999",
     "Merchant et al. (2014)": "Merchant et al., 2014",
@@ -18024,6 +18046,8 @@
     "Newman, 2006": "Newman, 2006",
     "Newman, 2009": "Newman, 2009",
     "Newman, 2025": "Newman, 2025",
+    "Newmann et al. (1995)": "Newmann et al., 1995",
+    "Newmann et al., 1995": "Newmann et al., 1995",
     "Newton (1994)": "Newton, 1994",
     "Newton, 1994": "Newton, 1994",
     "Neyman (1923)": "Neyman, 1923",
@@ -19321,7 +19345,11 @@
     "Perez et al., 2013": "Perez et al., 2013",
     "Perez, 1983": "Perez, 1983",
     "Perez, 2002": "Perez, 2002",
+    "Perkins (1993)": "Perkins, 1993",
+    "Perkins (1998)": "Perkins, 1998",
     "Perkins (2008)": "Perkins, 2008",
+    "Perkins, 1993": "Perkins, 1993",
+    "Perkins, 1998": "Perkins, 1998",
     "Perkins, 2008": "Perkins, 2008",
     "Perkmann & Walsh (2007)": "Perkmann & Walsh, 2007",
     "Perkmann & Walsh (2009)": "Perkmann & Walsh, 2009",
@@ -19839,6 +19867,8 @@
     "Poverty Comparisons, 1994": "Poverty Comparisons, 1994",
     "Powdthavee et al. (2018)": "Powdthavee et al., 2018",
     "Powdthavee et al., 2018": "Powdthavee et al., 2018",
+    "Powell & DiMaggio (1991)": "Powell & DiMaggio, 1991",
+    "Powell & DiMaggio, 1991": "Powell & DiMaggio, 1991",
     "Powell (2010)": "Powell, 2010",
     "Powell (2015a)": "Powell, 2015a",
     "Powell (2015b)": "Powell, 2015b",
@@ -20036,6 +20066,8 @@
     "Pustejovsky (2023)": "Pustejovsky, 2023",
     "Pustejovsky, 2023": "Pustejovsky, 2023",
     "Putnam (1988)": "Putnam, 1988",
+    "Putnam et al. (1990)": "Putnam et al., 1990",
+    "Putnam et al., 1990": "Putnam et al., 1990",
     "Putnam, 1988": "Putnam, 1988",
     "Putra (2020)": "Putra, 2020",
     "Putra et al. (2023)": "Putra et al., 2023",
@@ -20472,6 +20504,8 @@
     "Resh, 2001": "Resh, 2001",
     "Resnick (1987)": "Resnick, 1987",
     "Resnick (1989)": "Resnick, 1989",
+    "Resnick et al. (2010)": "Resnick et al., 2010",
+    "Resnick et al., 2010": "Resnick et al., 2010",
     "Resnick, 1987": "Resnick, 1987",
     "Resnick, 1989": "Resnick, 1989",
     "Resnik (2006)": "Resnik, 2006",
@@ -20667,6 +20701,8 @@
     "Ritter, 1992": "Ritter, 1992",
     "Ritter, 2000": "Ritter, 2000",
     "Ritter, 2007": "Ritter, 2007",
+    "Rittle-Johnson & Alibali (1999)": "Rittle-Johnson & Alibali, 1999",
+    "Rittle-Johnson & Alibali, 1999": "Rittle-Johnson & Alibali, 1999",
     "Rittle-Johnson et al. (2017)": "Rittle-Johnson et al., 2017",
     "Rittle-Johnson et al., 2017": "Rittle-Johnson et al., 2017",
     "Ritts et al. (1992)": "Ritts et al., 1992",
@@ -21082,6 +21118,8 @@
     "Rosenbloom & Way, 2004": "Rosenbloom & Way, 2004",
     "Rosenshine & Meister (1994)": "Rosenshine & Meister, 1994",
     "Rosenshine & Meister, 1994": "Rosenshine & Meister, 1994",
+    "Rosenshine & Stevens (1986)": "Rosenshine & Stevens, 1986",
+    "Rosenshine & Stevens, 1986": "Rosenshine & Stevens, 1986",
     "Rosenshine (1986)": "Rosenshine, 1986",
     "Rosenshine, 1986": "Rosenshine, 1986",
     "Rosenstreich (2021)": "Rosenstreich, 2021",
@@ -21999,7 +22037,9 @@
     "Schneider, 2021": "Schneider, 2021",
     "Schneider, 2022": "Schneider, 2022",
     "Schoenfeld (1985)": "Schoenfeld, 1985",
+    "Schoenfeld (1992)": "Schoenfeld, 1992",
     "Schoenfeld, 1985": "Schoenfeld, 1985",
+    "Schoenfeld, 1992": "Schoenfeld, 1992",
     "Schofield (1990)": "Schofield, 1990",
     "Schofield (1996)": "Schofield, 1996",
     "Schofield, 1990": "Schofield, 1990",
@@ -22186,6 +22226,7 @@
     "Scott (1982)": "Scott, 1982",
     "Scott (1990)": "Scott, 1990",
     "Scott (1991)": "Scott, 1991",
+    "Scott (1995)": "Scott, 1995",
     "Scott (1998)": "Scott, 1998",
     "Scott (2000)": "Scott, 2000",
     "Scott (2001)": "Scott, 2001",
@@ -22204,6 +22245,7 @@
     "Scott, 1982": "Scott, 1982",
     "Scott, 1990": "Scott, 1990",
     "Scott, 1991": "Scott, 1991",
+    "Scott, 1995": "Scott, 1995",
     "Scott, 1998": "Scott, 1998",
     "Scott, 2000": "Scott, 2000",
     "Scott, 2001": "Scott, 2001",
@@ -23571,7 +23613,9 @@
     "Stein (1953)": "Stein, 1953",
     "Stein (2008)": "Stein, 2008",
     "Stein (2017)": "Stein, 2017",
+    "Stein et al. (1996)": "Stein et al., 1996",
     "Stein et al. (2007)": "Stein et al., 2007",
+    "Stein et al., 1996": "Stein et al., 1996",
     "Stein et al., 2007": "Stein et al., 2007",
     "Stein, 1953": "Stein, 1953",
     "Stein, 2008": "Stein, 2008",
@@ -26434,6 +26478,8 @@
     "Wilfred Carr & Stephen Kemmis, 1986": "Wilfred Carr & Stephen Kemmis, 1986",
     "Wiliam & Bartholomew (2004)": "Wiliam & Bartholomew, 2004",
     "Wiliam & Bartholomew, 2004": "Wiliam & Bartholomew, 2004",
+    "Wiliam (2007)": "Wiliam, 2007",
+    "Wiliam, 2007": "Wiliam, 2007",
     "Wilkens-King (1984)": "Wilkens-King, 1984",
     "Wilkens-King, 1984": "Wilkens-King, 1984",
     "Wilkes & Stark (2022)": "Wilkes & Stark, 2022",
@@ -32141,10 +32187,24 @@
       "isbn": "9780631220510",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md",
-        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/concepts/comparative-education/Comparative Pedagogy.md"
       ],
       "title": "Culture and Pedagogy: International Comparisons in Primary Education"
+    },
+    "Alexander, 2001": {
+      "aliases": [
+        "Alexander, 2001",
+        "Alexander (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Alexander, 2001"
+      ],
+      "isbn": "9780631220510",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Culture and pedagogy: International comparisons in primary education"
     },
     "Alexander, 2004": {
       "aliases": [
@@ -32158,6 +32218,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Still No Pedagogy? Principle, Pragmatism and Compliance in Primary Education"
+    },
+    "Alexander, 2008": {
+      "aliases": [
+        "Alexander, 2008",
+        "Alexander (2008)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Alexander, 2008"
+      ],
+      "isbn": "9780415444828",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Essays on pedagogy"
     },
     "Alexander, 2010": {
       "aliases": [
@@ -41605,6 +41680,21 @@
       ],
       "title": ""
     },
+    "Barnes, 2008": {
+      "aliases": [
+        "Barnes, 2008",
+        "Barnes (2008)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Barnes, 2008"
+      ],
+      "isbn": "9781412948012",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Exploratory talk for learning"
+    },
     "Barnes, 2016": {
       "aliases": [
         "Barnes, 2016",
@@ -47091,7 +47181,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Comparative Education/Argument_Deng_2016_CE.md",
         "wiki/concepts/comparative-education/High-Performing Education Systems.md"
       ],
       "title": "Good Education in an Age of Measurement: On the Need to Reconnect with the Question of Purpose in Education"
@@ -47746,6 +47835,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md",
         "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md",
         "wiki/concepts/competency-and-assessment/Formative Assessment.md",
         "wiki/concepts/curriculum/Learning Intentions.md",
@@ -47768,6 +47858,21 @@
         "wiki/concepts/competency-and-assessment/Formative Assessment.md"
       ],
       "title": ""
+    },
+    "Black et al., 2003": {
+      "aliases": [
+        "Black et al., 2003",
+        "Black et al. (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Black et al., 2003"
+      ],
+      "isbn": "9780335212972",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Assessment for learning: Putting it into practice"
     },
     "Black, 1996": {
       "aliases": [
@@ -60272,6 +60377,21 @@
       "seen_in": [],
       "title": "Performance of Head Start and non-Head Start participants at first grade"
     },
+    "Cazden, 1988": {
+      "aliases": [
+        "Cazden, 1988",
+        "Cazden (1988)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Cazden, 1988"
+      ],
+      "isbn": "9780435084561",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Classroom discourse: The language of teaching and learning"
+    },
     "Cech, 2005": {
       "aliases": [
         "Cech, 2005",
@@ -62347,6 +62467,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effects of computational thinking integration in STEM on students' learning performance in k-12 education: A meta-analysis."
+    },
+    "Cheng, 1996": {
+      "aliases": [
+        "Cheng, 1996",
+        "Cheng (1996)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Cheng, 1996"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Excellence in education: Is it culture-free?"
     },
     "Chengtao & Qiufeng, 2020": {
       "aliases": [
@@ -65728,13 +65863,14 @@
       "identity_keys": [
         "Cohen, 1988"
       ],
-      "isbn": "",
+      "isbn": "9780805802832",
       "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md",
         "wiki/methods/quantitative/Effect Size Conversion.md",
         "wiki/methods/quantitative/Meta-analysis.md",
         "wiki/persons/us/Jacob Cohen.md"
       ],
-      "title": ""
+      "title": "Statistical power analysis for the behavioral sciences (2nd ed.)"
     },
     "Cohen, 1992": {
       "aliases": [
@@ -92782,6 +92918,21 @@
       ],
       "title": ""
     },
+    "Galton, 2007": {
+      "aliases": [
+        "Galton, 2007",
+        "Galton (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Galton, 2007"
+      ],
+      "isbn": "9781412920254",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Learning and teaching in the primary classroom"
+    },
     "Galton, 2012": {
       "aliases": [
         "Galton, 2012",
@@ -96831,7 +96982,9 @@
         "Goh, 1997"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
       "title": "Shaping our future: Thinking schools, learning nation"
     },
     "Goh, 2000": {
@@ -97530,6 +97683,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A randomized controlled trial on the beneficial effects of training letter-speech sound integration on reading fluency in children with dyslexia."
+    },
+    "Good & Brophy, 2003": {
+      "aliases": [
+        "Good & Brophy, 2003",
+        "Good & Brophy (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Good & Brophy, 2003"
+      ],
+      "isbn": "9780205374465",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Looking in classrooms (9th ed.)"
     },
     "Good & Shymansky, 2001": {
       "aliases": [
@@ -102803,6 +102971,21 @@
       "seen_in": [],
       "title": "A meta-analysis of the relationship between self-assessment and Mathematics learning achievement."
     },
+    "Hadwin et al., 2011": {
+      "aliases": [
+        "Hadwin et al., 2011",
+        "Hadwin et al. (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hadwin et al., 2011"
+      ],
+      "isbn": "9780415802307",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Self-regulation, co-regulation, and socially shared regulation of learning"
+    },
     "Haeck et al., 2014": {
       "aliases": [
         "Haeck et al., 2014",
@@ -106306,17 +106489,18 @@
         "Hattie & Timperley, 2007",
         "Hattie & Timperley (2007)"
       ],
-      "doi": "",
+      "doi": "10.3102/003465430298487",
       "identity_keys": [
         "Hattie & Timperley, 2007"
       ],
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md",
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md",
         "wiki/concepts/instruction-pedagogy/Feedback.md",
         "wiki/theories/learning-science-cognitive-science/Feedback Intervention Theory.md"
       ],
-      "title": ""
+      "title": "The power of feedback"
     },
     "Hattie & Yates, 2014": {
       "aliases": [
@@ -106570,6 +106754,7 @@
         "wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md",
         "wiki/arguments/journal-articles/Paideia/Argument_Allerup_2015_Paideia.md",
         "wiki/arguments/journal-articles/Paideia/Argument_Qvortrup_2015_Paideia.md",
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md",
         "wiki/arguments/journal-articles/Zeitschrift für Erziehungswissenschaft/Argument_Wecker_2016_ZfE.md",
         "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md",
         "wiki/concepts/competency-and-assessment/Academic Achievement.md",
@@ -106597,8 +106782,7 @@
         "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md",
         "wiki/concepts/instruction-pedagogy/Student-Teacher Relationship.md",
         "wiki/concepts/instruction-pedagogy/Teacher Clarity.md",
-        "wiki/concepts/instruction-pedagogy/Whole Language.md",
-        "wiki/concepts/instruction-pedagogy/Zone of Desired Effects.md"
+        "wiki/concepts/instruction-pedagogy/Whole Language.md"
       ],
       "title": "Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement"
     },
@@ -110849,6 +111033,21 @@
         "wiki/arguments/journal-articles/Educational Research Review/Argument_Chen_Cheung_2025_ERR.md"
       ],
       "title": ""
+    },
+    "Hogan et al., 2011": {
+      "aliases": [
+        "Hogan et al., 2011",
+        "Hogan et al. (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hogan et al., 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "The core research program: A portrait of pedagogy in Singapore"
     },
     "Hogan, 1999": {
       "aliases": [
@@ -150286,6 +150485,21 @@
       "seen_in": [],
       "title": "Hallé SHINE on Manchester"
     },
+    "Mercer & Littleton, 2007": {
+      "aliases": [
+        "Mercer & Littleton, 2007",
+        "Mercer & Littleton (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Mercer & Littleton, 2007"
+      ],
+      "isbn": "9780415404792",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Dialogue and the development of children's thinking: A sociocultural approach"
+    },
     "Mercer, 1999": {
       "aliases": [
         "Mercer, 1999",
@@ -159827,6 +160041,21 @@
         "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch03.md"
       ],
       "title": ""
+    },
+    "Newmann et al., 1995": {
+      "aliases": [
+        "Newmann et al., 1995",
+        "Newmann et al. (1995)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Newmann et al., 1995"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Authentic pedagogy: Standards that boost student performance"
     },
     "Newton, 1994": {
       "aliases": [
@@ -169374,6 +169603,36 @@
       ],
       "title": ""
     },
+    "Perkins, 1993": {
+      "aliases": [
+        "Perkins, 1993",
+        "Perkins (1993)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Perkins, 1993"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Teaching for understanding"
+    },
+    "Perkins, 1998": {
+      "aliases": [
+        "Perkins, 1998",
+        "Perkins (1998)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Perkins, 1998"
+      ],
+      "isbn": "9780787909246",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "What is understanding?"
+    },
     "Perkins, 2008": {
       "aliases": [
         "Perkins, 2008",
@@ -173240,6 +173499,21 @@
       ],
       "title": ""
     },
+    "Powell & DiMaggio, 1991": {
+      "aliases": [
+        "Powell & DiMaggio, 1991",
+        "Powell & DiMaggio (1991)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Powell & DiMaggio, 1991"
+      ],
+      "isbn": "9780226677095",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "The new institutionalism in organizational analysis"
+    },
     "Powell, 2010": {
       "aliases": [
         "Powell, 2010",
@@ -174664,6 +174938,21 @@
         "wiki/arguments/journal-articles/Thinking Skills and Creativity/Argument_Park_2026_TSC.md"
       ],
       "title": ""
+    },
+    "Putnam et al., 1990": {
+      "aliases": [
+        "Putnam et al., 1990",
+        "Putnam et al. (1990)"
+      ],
+      "doi": "10.3102/0091732X016001057",
+      "identity_keys": [
+        "Putnam et al., 1990"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Alternative perspectives on knowing mathematics in elementary schools"
     },
     "Putnam, 1988": {
       "aliases": [
@@ -177806,6 +178095,21 @@
       ],
       "title": ""
     },
+    "Resnick et al., 2010": {
+      "aliases": [
+        "Resnick et al., 2010",
+        "Resnick et al. (2010)"
+      ],
+      "doi": "10.1007/978-0-387-88574-1_10",
+      "identity_keys": [
+        "Resnick et al., 2010"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "How (well structured) talk builds the mind"
+    },
     "Resnick, 1987": {
       "aliases": [
         "Resnick, 1987",
@@ -179234,6 +179538,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "What Evidence Matters? A randomized field trial of Cognitive Tutor Algebra I."
+    },
+    "Rittle-Johnson & Alibali, 1999": {
+      "aliases": [
+        "Rittle-Johnson & Alibali, 1999",
+        "Rittle-Johnson & Alibali (1999)"
+      ],
+      "doi": "10.1037/0022-0663.91.1.175",
+      "identity_keys": [
+        "Rittle-Johnson & Alibali, 1999"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Conceptual and procedural knowledge of mathematics: Does one lead to the other?"
     },
     "Rittle-Johnson et al., 2017": {
       "aliases": [
@@ -182295,6 +182614,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Reciprocal teaching: A review of the research"
+    },
+    "Rosenshine & Stevens, 1986": {
+      "aliases": [
+        "Rosenshine & Stevens, 1986",
+        "Rosenshine & Stevens (1986)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rosenshine & Stevens, 1986"
+      ],
+      "isbn": "9780029224700",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Teaching functions"
     },
     "Rosenshine, 1986": {
       "aliases": [
@@ -188994,6 +189328,21 @@
       ],
       "title": ""
     },
+    "Schoenfeld, 1992": {
+      "aliases": [
+        "Schoenfeld, 1992",
+        "Schoenfeld (1992)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Schoenfeld, 1992"
+      ],
+      "isbn": "9780029223819",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Learning to think mathematically: Problem-solving, metacognition, and sense-making in mathematics"
+    },
     "Schofield, 1990": {
       "aliases": [
         "Schofield, 1990",
@@ -190484,6 +190833,21 @@
         "wiki/persons/us/Michael Porter.md"
       ],
       "title": ""
+    },
+    "Scott, 1995": {
+      "aliases": [
+        "Scott, 1995",
+        "Scott (1995)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Scott, 1995"
+      ],
+      "isbn": "9780803956520",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Institutions and organizations"
     },
     "Scott, 1998": {
       "aliases": [
@@ -200354,6 +200718,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Report of the effectiveness of project Head Start, Lubbock, Texas. Parts I, II, and appendices."
+    },
+    "Stein et al., 1996": {
+      "aliases": [
+        "Stein et al., 1996",
+        "Stein et al. (1996)"
+      ],
+      "doi": "10.3102/00028312033002455",
+      "identity_keys": [
+        "Stein et al., 1996"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Building student capacity for mathematical thinking and reasoning: An analysis of mathematical tasks used in reform classrooms"
     },
     "Stein et al., 2007": {
       "aliases": [
@@ -220973,6 +221352,21 @@
         "wiki/persons/uk/Dylan Wiliam.md"
       ],
       "title": ""
+    },
+    "Wiliam, 2007": {
+      "aliases": [
+        "Wiliam, 2007",
+        "Wiliam (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Wiliam, 2007"
+      ],
+      "isbn": "9781593115999",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Review of Education/Argument_Hogan_2013_ROE.md"
+      ],
+      "title": "Keeping learning on track: Classroom learning and the regulation of assessment"
     },
     "Wilkens-King, 1984": {
       "aliases": [

@@ -8,7 +8,7 @@ aliases:
 summary: "评估任务、评分规则、成绩权重及其利害关系提前进入教学与学习决策，进而改变实际课程的机制；方向取决于获分活动与课程目标是否一致，强度取决于后果、权重、任务组合和制度环境。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_persons:
   - "[[Alec Peterson]]"
 related_arguments:
   - "[[Argument_Biggs_1999_HERD]]"
+  - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch03]]"
 related_methods:
   - "[[Multiple-Choice Questions]]"
@@ -44,7 +45,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-01
-updated: 2026-11-11
+updated: 2026-11-18
 ---
 
 ---
@@ -185,6 +186,11 @@ updated: 2026-11-11
 > [!warning] 正向反拨受到资源与评分程序限制
 > 面对面口试能支持对话式教学、检查文本阅读并维持学校与考试机构的直接联系，单独看却可能是最昂贵、最不可靠的项目。多位考官独立评分可以提高文学文章的一致性，跨国实施又成本高、流转慢；英国通过样卷形成评分方案仍耗费时间，也容易预设文学问题的正确答案。成绩若错过大学录取，资格用途会直接受损。反拨设计需要与公平、资源和时限共同运行（pp. 53–55）。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 53–55)]]
 
+### 新加坡：国家统一考试的高利害反拨与影子教育
+
+> [!case] 国家考试对课堂教学与校外辅导的深度重塑
+> 新加坡基础教育中的小六离校考试（Primary School Leaving Examination, PSLE）与剑桥普通水准（GCE O-Level）直接决定中等教育能力分流与大学准入资格，发出高强度的评价信号。实证课堂观察表明，国家考试的题型与评分规程深度界定了实际教学内容与进度节奏；即使在推行面向综合素养的改革中，一线教学仍主要围绕考点覆盖、练习册演练与题型解析展开。这种高利害考试反拨效应进一步扩散至家庭教育消费领域，催生出超过十亿新元规模的影子教育补习市场。[[Argument_Deng_2016_CE|(Deng & Gopinathan, 2016, pp. 456–458)]]
+
 ---
 
 > [!dev-timeline] 从课程后果到评价设计原则
@@ -192,6 +198,7 @@ updated: 2026-11-11
 > - **1970 年** 首批正式文凭评价由九所学校、29 名考生参加，多种任务进入真实的大学升学路径，预期反拨开始通过跨国考试制度作用于学校（pp. 56–57；Ch. 2, pp. 30–31）。
 > - **随后十五年** 规模扩展至近 300 所学校、约 6,000 名考生。成本和出分速度推动程序调整，[[Multiple-Choice Questions\|选择题]]出现规模经济，口试更多依赖当地考官（p. 57）。
 > - **1999 年** Biggs 将相近机制纳入[[Constructive Alignment\|建构性对齐]]：学生依照评价要求选择活动，目标、教学活动和评价任务的一致性可以把反拨转化为促进[[Surface and Deep Learning\|深层学习]]的设计资源。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 68–74)]]
+> - **2010 年代** [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] 结合东亚高绩效系统经验，证实国家高利害统考的强反拨效应不仅规锁了课堂直接教学与重复练习，更直接驱动了庞大的校外影子教育体系。
 
 ---
 
@@ -205,4 +212,5 @@ updated: 2026-11-11
 
 > [!evidence-grid] 相关研究索引
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]]：说明得分条件如何成为实际课程，并以心理学考试和[[Learning Portfolio\|学习档案袋]]展示负向与建设性反拨。
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]]：揭示新加坡小六离校考试（PSLE）与剑桥 GCE O/A 水准等高利害评估所产生的巨大考试反拨效应，分析其如何将课堂教学牢牢锚定于讲授与练习，并催生出十亿新元规模的影子教育体系。
 > - [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987)]]：通过 IB 语言 A、语言 B 和综合评价，展示任务要求、权重、证据组合及制度约束如何共同塑造反拨。

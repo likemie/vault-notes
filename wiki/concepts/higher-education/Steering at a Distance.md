@@ -11,7 +11,7 @@ aliases:
 summary: "20世纪80年代荷兰高教改革确立的公共治理范式，指政府放弃传统事前命令控制，转向扩大学校自治、以事后质量评估为反馈调节的间接调控模式；在当代教育治理中，经合组织与各主权国家将远程调控转化为以跨国比较绩效、国际基准与基于测验的问责工具，作为统驭碎片化多层教育系统的制度机制。"
 type: concept
 domain: "higher-education"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -72,6 +72,7 @@ related_arguments:
   - "[[Argument_Kickert_1995_Governance]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Verger_2019_Discourse]]"
+  - "[[Argument_Gopinathan_2007_GSE]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Process Tracing]]"
@@ -79,7 +80,7 @@ related_methods:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-11-15
+updated: 2026-11-18
 ---
 
 ---
@@ -248,3 +249,4 @@ updated: 2026-11-15
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 结合[[Reflexivity|反思性]]实践者视角与公共管理理论，系统论证荷兰高教远距离操纵治理[[Paradigm|范式]]的提出背景、核心支柱与制度悖论。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 447–448)]] — 揭示[[OECD|经合组织]]如何将[[New Public Management|新公共管理]]远处掌舵转化为跨国比较绩效技术，重构主权国家教育治理优先次序。
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 基于全球 158 篇文献[[Systematic Review|系统综述]]，揭示标准、统考与问责等规制性工具如何充当现代国家在分权化情境下统驭碎片化多层教育系统的远程调控中介（pp. 248–250）。
+> - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 阐明新加坡强发展型国家如何推行远程掌舵，在设立校群自主管理与战术性分权的同时，通过统一升学统考与课程大纲牢固维系国家对教育体系的战略调控。

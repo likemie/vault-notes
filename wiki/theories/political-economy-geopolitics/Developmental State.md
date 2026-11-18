@@ -8,7 +8,7 @@ aliases:
 summary: "政治经济学与比较教育学核心理论，由查尔默斯·约翰逊（Chalmers Johnson, 1982）开创并经曼纽尔·卡斯特（Manuel Castells, 1992）等学者拓展。该理论阐明后发国家通过兼具高度自主性与专业能力的精英官僚机构主动介入并驾驭市场，以持续的经济与社会发展成就作为国家政权合法性的核心基石，并将公共教育体系系统构建为支撑产业升级与国家认同的战略支柱。面对全球化冲击，成熟发展型国家展现出战术性适应与远距离操纵能力，牢固维系国家战略主导权。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 15
+theory_related_count: 16
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_facts:
   - "[[Singapore Education Hub Policy]]"
   - "[[Teach Less, Learn More]]"
 related_arguments:
+  - "[[Argument_Deng_2016_CE]]"
   - "[[Argument_Gopinathan_2007_GSE]]"
 confidence: high
 status: draft
@@ -132,5 +133,6 @@ updated: 2026-11-18
 
 ---
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
+> - [[Argument_Deng_2016_CE|Deng and Gopinathan (2016)]] — 从发展型国家与历史制度主义视角阐释新加坡教育体制演进，揭示强国家能力、集中化人力规划与严密的课程教学治理基础设施如何支撑起高绩效教育系统的奠基。
 > - [[Argument_Gopinathan_2007_GSE|Gopinathan (2007)]] — 证明新加坡强发展型国家在知识经济与全球化冲击下，通过战术性市场化与远距离调控重塑教育体制并维系国家主导权。

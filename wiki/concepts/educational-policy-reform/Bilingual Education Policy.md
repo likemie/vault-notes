@@ -9,7 +9,7 @@ aliases:
 summary: "国家或地区通过法定课程与教学语言规范，要求学生同时掌握两种语言（通常为官方通用语与母语）的系统性公共教育制度。在新加坡实践中，确立了以英语维系全球经济竞争力与科技接轨、以母语（华语等）积累传统道德价值与文化认同的双轨国家战略。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
