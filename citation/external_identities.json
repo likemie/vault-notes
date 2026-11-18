@@ -14224,8 +14224,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Australian Journal of Language and Literacy/Argument_OConnor_2020_AJLL.md",
-        "wiki/concepts/instruction-pedagogy/Language Experience Approach.md",
-        "wiki/concepts/instruction-pedagogy/Whole Language.md"
+        "wiki/concepts/instruction-pedagogy/Language Experience Approach.md"
       ],
       "title": ""
     },
@@ -68663,6 +68662,14 @@
       ],
       "title": ""
     },
+    "MOE, 2000": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Bilingual Education Policy.md"
+      ],
+      "title": ""
+    },
     "MOE, 2008": {
       "doi": "",
       "isbn": "",
@@ -77964,6 +77971,14 @@
         "wiki/arguments/journal-articles/Scandinavian Journal of Educational Research/Argument_Segerholm_Lindgren_Novak_2022_SJER.md",
         "wiki/concepts/instruction-pedagogy/Authentic Science Practices.md",
         "wiki/facts/us/National Research Council.md"
+      ],
+      "title": ""
+    },
+    "NRP, 2000": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Whole Language.md"
       ],
       "title": ""
     },

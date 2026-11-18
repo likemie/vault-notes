@@ -46,9 +46,7 @@ related_instruments: []
 related_persons:
   - "[[Lee Kuan Yew]]"
 related_facts:
-  - "[[National Institute of Education]]"
   - "[[STELLAR Program]]"
-  - "[[Primary School Leaving Examination]]"
   - "[[OECD]]"
   - "[[Speak Good English Movement]]"
 related_arguments: []
@@ -64,7 +62,7 @@ title: "Argument_Chua_2011_CILP"
 argument_key: "Argument_Chua_2011_CILP"
 argument_display_title: "Singapore’s E(Si)nglish-knowing bilingualism"
 argument_kind: "journal-article"
-argument_related_count: 28
+argument_related_count: 26
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -81,10 +79,10 @@ issuing_organization: ""
 > 新加坡作为一个缺乏原生英语人口、各族方言割裂的后殖民移民社会，如何依托国家自上而下的强力教育规制，将前宗主国语言塑造为全体国民共享的第一教学媒介语与经济工作语？该体系在带来近乎完全普及的标准英语学业通过率的同时，为何引发了母语生态的系统性萎缩与本土混合变体[[Singlish|新加坡式英语]]的自发扩散？
 
 > [!claim] 核心主张
-> 新加坡凭借政党领袖意志、教育部课程大纲、全额财政保障与南洋理工大学国立教育学院（[[National Institute of Education]], NIE）师资统筹的四位一体协同，建构了以英语为中枢的懂英语双语社会；但这一制度化全域干预深度重塑了私人生活领域的语言生态，导致家庭第一语言全面倒向英语、族群传统母语发生代际断裂，并在高度多语接触中催生了兼具多重母语特征的接触变体新加坡式英语（Singlish），使原初设计的英语+1法定双语模式不可逆地演进为蕴含自下而上文化认同博弈的懂新式英语双语主义（[[English-Knowing Bilingualism|E(Si)nglish-knowing bilingualism]]）。
+> 新加坡凭借政党领袖意志、教育部课程大纲、全额财政保障与南洋理工大学国立教育学院（National Institute of Education, NIE）师资统筹的四位一体协同，建构了以英语为中枢的懂英语双语社会；但这一制度化全域干预深度重塑了私人生活领域的语言生态，导致家庭第一语言全面倒向英语、族群传统母语发生代际断裂，并在高度多语接触中催生了兼具多重母语特征的接触变体新加坡式英语（Singlish），使原初设计的英语+1法定双语模式不可逆地演进为蕴含自下而上文化认同博弈的懂新式英语双语主义（[[English-Knowing Bilingualism|E(Si)nglish-knowing bilingualism]]）。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 新加坡从 1819 年殖民建埠、1965 年建国至 2010 年间语言教育政策变迁、四次小学英语教学大纲调整、[[STELLAR Program|英文学习与阅读策略项目]]（Strategies for English Language Learning and Reading, STELLAR）规程、官方教育预算与[[Primary School Leaving Examination|小学离校考试]]（Primary School Leaving Examination, PSLE）统计。
+> - **对象** 新加坡从 1819 年殖民建埠、1965 年建国至 2010 年间语言教育政策变迁、四次小学英语教学大纲调整、[[STELLAR Program|英文学习与阅读策略项目]]（Strategies for English Language Learning and Reading, STELLAR）规程、官方教育预算与小学离校考试（Primary School Leaving Examination, PSLE）统计。
 > - **张力** 国际标准英语的涉外经济工具理性与三大族群母语文化防御功能之间的结构失衡；官方对纯正标准英语的自上而下规范引导与民间青年群体对新加坡式英语自下而上情感依附之间的文化拉锯。
 > - **贡献** 将罗伯特·卡普兰与理查德·鲍尔道夫（Kaplan & Baldauf, 1997）的八维[[Kaplan and Baldauf's Language-in-Education Planning Framework|语言教育规划框架]]运用于东南亚国家治理实证，将安妮·帕基尔（Anne Pakir）（Pakir, 1991）界定的懂英语双语主义深化拓展为懂新式英语双语主义，揭示了后殖民多语[[Language-of-State|国家语言]]工程的非预期后果与微观社会语言学反弹。
 

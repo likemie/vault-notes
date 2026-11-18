@@ -10,6 +10,10 @@ aliases:
 summary: "国家通过法定课程与教学语言规制，要求学生同时修习通用工作语与族群母语的系统性公共教育制度；在新加坡实践中依托八维语言规划网络确立英语优先与母语文化锚定的双轨战略，在达成高普及达标率的同时，派生出家庭母语萎缩与本土新加坡式英语认同抵抗的深层张力。"
 type: concept
 domain: "educational-policy-reform"
+related_count: 35
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/language-policy
   - theme/educational-policy-reform
@@ -20,15 +24,26 @@ tags:
 related_concepts:
   - "[[Language Skills]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Discourse]]"
   - "[[Singlish]]"
+  - "[[Emergence]]"
+  - "[[Discourse]]"
+  - "[[Champ]]"
   - "[[Competitiveness]]"
+  - "[[Alienation]]"
+  - "[[Variable]]"
+  - "[[Whole Language]]"
   - "[[English-Knowing Bilingualism]]"
+  - "[[Construct]]"
+  - "[[Paradigm]]"
   - "[[Technological Republic]]"
   - "[[Dunbar's Number]]"
 related_theories:
   - "[[Kaplan and Baldauf's Language-in-Education Planning Framework]]"
-related_methods: []
+  - "[[Developmental State]]"
+related_methods:
+  - "[[Effect Size]]"
+  - "[[Documentary Analysis]]"
+  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
   - "[[Lee Kuan Yew]]"
@@ -39,8 +54,8 @@ related_facts:
   - "[[Goh Report]]"
   - "[[Speak Mandarin Campaign]]"
   - "[[Primary School Leaving Examination]]"
-  - "[[Speak Good English Movement]]"
   - "[[All-Party Report on Chinese Education]]"
+  - "[[Speak Good English Movement]]"
   - "[[STELLAR Program]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"

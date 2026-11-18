@@ -33,9 +33,10 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Paradigm]]"
   - "[[Competitiveness]]"
+  - "[[Foundational Literacy and Numeracy]]"
+  - "[[Assemblage]]"
   - "[[Academic Attrition]]"
   - "[[Learner Autonomy]]"
-  - "[[Educational Meritocracy]]"
   - "[[Quasi-market]]"
   - "[[Religious Schools]]"
   - "[[Post-Fordism]]"
@@ -68,14 +69,13 @@ related_methods:
   - "[[Critical Policy Analysis]]"
   - "[[Causal Modeling]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Saravanan Gopinathan]]"
 related_facts:
   - "[[National Education]]"
   - "[[Thinking Schools, Learning Nation]]"
   - "[[Teach Less, Learn More]]"
-  - "[[National Institute of Education]]"
   - "[[Goh Report]]"
-  - "[[Primary School Leaving Examination]]"
 related_arguments: []
 sources:
   - "[[sources/Gopinathan_2007_GSE|Gopinathan_2007_GSE]]"
@@ -106,7 +106,7 @@ issuing_organization: ""
 > 在经济全球化加速整合、新自由主义思潮扩散、1997年亚洲金融风暴冲击与九一一事件后[[Geopolitics|地缘政治]]重构的多重挤压下，以新加坡为代表的东亚强[[Developmental State|发展型国家]]究竟是在全面撤退与权能削弱，还是通过策略性调整维系着对教育治理体制的深层主导？这种由国家主导的市场化改革在微观课堂与宏观社会结构层面面临哪些深层矛盾？
 
 > [!claim] 核心主张
-> 全球化与[[Knowledge-Based Economy|知识经济]]转型并未导致新加坡强发展型国家的权能衰微，国家主动采纳了去中心化、校本自主权与学制分轨等战术性市场化改革以维系对全球资本的吸引力，在核心课程标准、[[Bilingual Education Policy|双语政策]]与[[National Education|国民教育]]上始终保持严密调控；这一国家主导的改革悖论在于，既依赖过度筛选的精英分流体制支撑文凭经济，又渴望培育敢于冒险创新的知识劳动力，加剧了微观教学的程序化惯性与宏观社会阶层固化。
+> 高平纳坦（[[Saravanan Gopinathan]]）指出，全球化与[[Knowledge-Based Economy|知识经济]]转型并未导致新加坡强发展型国家的权能衰微，国家主动采纳了去中心化、校本自主权与学制分轨等战术性市场化改革以维系对全球资本的吸引力，在核心课程标准、[[Bilingual Education Policy|双语政策]]与[[National Education|国民教育]]上始终保持严密调控；这一国家主导的改革悖论在于，既依赖过度筛选的精英分流体制支撑文凭经济，又渴望培育敢于冒险创新的知识劳动力，加剧了微观教学的程序化惯性与宏观社会阶层固化。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 新加坡自1990年代中叶至2000年代中期的宏观教育政策演进、国家治理技术重构及学校微观教学法变革。
@@ -133,14 +133,14 @@ issuing_organization: ""
 > |------|----------------|
 > | **宏观制度分析**<br>Macro-Institutional Policy Analysis | 追踪新加坡建国四十年间政治经济体制演变脉络，结合外商直接投资结构与劳动力政策演进，评估国家与市场的互动边界。 |
 > | **政策文献批判审视**<br>Critical Document Analysis | 系统研读1997年[[Thinking Schools, Learning Nation\|思考型学校，学习型国家]]纲领、2002年初级学院与高中教育检讨委员会报告、2004年[[Teach Less, Learn More\|少教多学]]倡议及大学公司化法案。 |
-> | **教育社会学辨析**<br>Sociological-Pedagogical Synthesis | 结合课堂教学实证观察文献与社会分层统计，评估微观教学法演进与宏观阶层再生产之间的双向制约。 |
+> | **教育社会学辨析**<br>Sociological-Pedagogical Synthesis | 结合课堂教学实证观察[[Document\|文献]]与社会分层统计，评估微观教学法演进与宏观阶层再生产之间的双向制约。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **政策[[Document\|文献]]样本** | 新加坡教育部官方报告、总理与教育部长国庆群众大会演讲记录、[[Workforce Development\|劳动力发展]]局法定职责纲领。 |
+> | **政策文献样本** | 新加坡教育部官方报告、总理与教育部长国庆群众大会演讲记录、[[Workforce Development\|劳动力发展]]局法定职责纲领。 |
 > | **比较学术文献** | 东亚发展型国家研究论著（Castells, Johnson, Wade）、教育与国家建构经典（Green）、全球化与技能形成理论（Brown & Lauder）。 |
-> | **教学实证材料** | [[National Institute of Education\|新加坡国立教育学院]]教育研究中心关于基层课堂实践的系统评估报告与分流统计数据。 |
+> | **教学实证材料** | 新加坡国立教育学院教育研究中心关于基层课堂实践的系统评估报告与分流统计数据。 |
 
 ---
 
@@ -196,11 +196,11 @@ issuing_organization: ""
 >
 > - **1960年代｜劳动密集阶段与初等普及教育**
 >
->   建国初期面临严重的失业危机与转口贸易萎缩，政府聚焦纺织、成衣与船舶维修等劳动密集型轻工业，教育领域优先普及小学义务教育与基础读写算能力，推行基础技术训练以迅速提供顺从守纪的产业工人。
+>   建国初期面临严重的失业危机与转口贸易萎缩，政府聚焦纺织、成衣与船舶维修等劳动密集型轻工业，教育领域优先普及小学义务教育与[[Foundational Literacy and Numeracy|基础读写算能力]]，推行基础技术训练以迅速提供顺从守纪的产业工人。
 >
 > - **1970年代｜技术密集转型与政企联合技能培训**
 >
->   制造业向电子组装与精密工程迈进，经济发展局（Economic Development Board, EDB）与飞利浦（Philips）、塔塔（Tata）等跨国企业联合创办专业培训中心，迅速培育中级工艺技术人员，扩充中等教育与职业教育规模。
+>   制造业向电子[[Assemblage|组装]]与精密工程迈进，经济发展局（Economic Development Board, EDB）与飞利浦（Philips）、塔塔（Tata）等跨国企业联合创办专业培训中心，迅速培育中级工艺技术人员，扩充中等教育与职业教育规模。
 >
 > - **1980年代｜第二次工业革命与《[[Goh Report|吴庆瑞报告]]》能力分流制**
 >
@@ -215,7 +215,7 @@ issuing_organization: ""
 > [!feature] 新加坡立国意识形态三脚架与双语制度规程
 > - **多元文化主义** 立足马来—穆斯林邻邦包围的脆弱地缘环境，坚持多族群文化地位平等，拒绝单一族群霸权，维护城邦生存空间。
 > - **双语教育规程** 将英语定为跨族群沟通与接轨国际贸易的通用工作语言，强制必修母语（华语、马来语或泰米尔语）以构筑抵御文化虚无主义的精神堤坝（Gopinathan, 1974; Gopinathan, 1995）。
-> - **[[Educational Meritocracy|唯才是用]]制度** 确立唯才是用（meritocracy）作为资源分配与选拔晋升的最高准则，以能力考核取代血缘族群偏向，换取民众对东方治理范式的政治认同（Green, 1997）。
+> - **唯才是用制度** 确立唯才是用（meritocracy）作为资源分配与选拔晋升的最高准则，以能力考核取代血缘族群偏向，换取民众对东方治理范式的政治认同（Green, 1997）。
 
 ---
 
@@ -293,7 +293,7 @@ issuing_organization: ""
 > [!sub-claim] 1. 升学统考压力依然巨大，基层教师将创造力矮化为机械应试技巧
 
 > [!case] 统一升学大考压力下微观课堂教学的避险退化
-> - **高利害考试卡控升学通道** [[Primary School Leaving Examination|小六离校考试]]（Primary School Leaving Examination, PSLE）以及剑桥 O 水准与高级水准（General Certificate of Education Advanced Level, A-Level）统一考试牢牢支配着学生的升学命运与学校声誉。
+> - **高利害考试卡控升学通道** 小六离校考试（Primary School Leaving Examination, PSLE）以及剑桥 O 水准与高级水准（General Certificate of Education Advanced Level, A-Level）统一考试牢牢支配着学生的升学命运与学校声誉。
 > - **教师避险与教学[[Epistemology|认识论]]固化** 面对繁复考点大纲与严苛[[Performance Indicators|绩效指标]]，一线教师普遍产生避险心态，难以展开[[Open-Mindedness|开放性]]探究教学。
 > - **创造力降格为机械应试技巧** 基层教师倾向于将思维训练包装为模块化的应对技巧（technique-oriented view of creativity），机械套用在原有的高强度[[Direct Instruction|直接教学]]框架之上，导致创造力沦为形式主义。
 

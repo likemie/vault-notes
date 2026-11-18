@@ -50,6 +50,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Formative Assessment]]"
   - "[[Variable]]"
+  - "[[Purposes of Schooling]]"
   - "[[Competitiveness]]"
   - "[[Problem Solving]]"
   - "[[Confucian Heritage Cultures]]"
@@ -62,10 +63,13 @@ related_methods:
   - "[[Pilot Testing]]"
 related_instruments: []
 related_persons:
+  - "[[Zongyi Deng]]"
+  - "[[Saravanan Gopinathan]]"
   - "[[Robin Alexander]]"
   - "[[Michael Barber]]"
   - "[[Andreas Schleicher]]"
   - "[[Goh Keng Swee]]"
+  - "[[David Hogan]]"
   - "[[Larry Cuban]]"
   - "[[Bob Lingard]]"
 related_facts:
@@ -97,9 +101,9 @@ title: "Argument_Deng_2016_CE"
 argument_key: "Argument_Deng_2016_CE"
 argument_display_title: "PISA and high-performing education systems: explaining Singapore’s education success"
 argument_kind: "journal-article"
-argument_related_count: 57
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
+argument_related_count: 61
+argument_related_level: 6
+argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 journal: "Comparative Education"
 book_title: ""
@@ -114,7 +118,7 @@ issuing_organization: ""
 > 国际流行[[Document|文献]]普遍将新加坡在[[PISA|国际学生评估项目]]（Programme for International Student Assessment, [[PISA]]）中的高分归因于名师招聘、卓越领导力与学生中心课程改革，但这类输入—产出推论缺乏微观课堂教学实证。如何在半个多世纪的历史制度演化与常态课堂互动实证中，解释新加坡教育成功的真实动力？以 PISA 排名驱动的跨国[[Policy Borrowing|政策借用]]存在何种学理盲区？单一量化排名对学校教育的立国初衷造成了何种价值遮蔽？
 
 > [!claim] 核心主张
-> 新加坡在国际测验中拔得头筹，真正依靠的是立足应试大纲、讲授操练与精细纠偏并重的[[Pedagogical Hybridity|教学杂糅]]（[[Hybrid Pedagogy|混合教学法]]），以及背后由高利害分流和[[Educational Meritocracy|唯才是用]]竞争筑成的制度环境。跨国报告把好成绩归功于师资资历与探究式课改，完全脱离了真实的课堂教学；把 PISA 当成衡量教育质量的单一标尺，严重遮蔽了学校凝聚多元社会与培养国家认同的核心使命。
+> [[Zongyi Deng|邓宗怡]]与[[Saravanan Gopinathan|高平纳坦]]指出，新加坡在国际测验中拔得头筹，真正依靠的是立足应试大纲、讲授操练与精细纠偏并重的[[Pedagogical Hybridity|教学杂糅]]（[[Hybrid Pedagogy|混合教学法]]），以及背后由高利害分流和[[Educational Meritocracy|唯才是用]]竞争筑成的制度环境。跨国报告把好成绩归功于师资资历与探究式课改，完全脱离了真实的课堂教学；把 PISA 当成衡量教育质量的单一标尺，严重遮蔽了学校凝聚多元社会与培养国家认同的核心使命。
 
 > [!concept-lens] 阅读透镜
 > - **考察对象** 新加坡半个世纪以来的教育制度演进历程、[[National Institute of Education|新加坡国立教育学院]]教育研究中心（[[Centre for Research in Pedagogy and Practice]], CRPP）记录的千余节核心学科常态课堂实证，以及以麦肯锡咨询报告（Barber & Mourshed, 2007）和[[OECD|经合组织]]报告（Schleicher, 2011）为代表的[[High-Performing Education Systems|高绩效教育系统]]文献。
@@ -140,7 +144,7 @@ issuing_organization: ""
 > |---|---|
 > | **文献与政策批判分析**<br>Critical Policy & Literature Analysis | 梳理以麦肯锡咨询报告（[[Michael Barber\|Barber]] & Mourshed, 2007; [[Michael Barber\|Barber]] et al., 2011）及经合组织报告（[[Andreas Schleicher\|Schleicher]], 2011）为代表的[[High-Performing Education Systems\|卓越表现教育系统]]（High-Performing Education Systems, HPES）叙事，解构其将测验高分直接归因于教师资质、领导力及前瞻课改的推论漏洞。 |
 > | **历史制度演化考证**<br>Historical-Institutional Analysis | 梳理自 1956 年以来的新加坡教育发展档案，划分生存驱动、效率驱动与能力驱动三大发展阶段，剖析语言妥协、国家课程与考试分流制度的建立历程（All-Party Committee on Chinese Education, 1956; [[Goh Keng Swee\|Goh]] et al., 1979; Gopinathan, 1974; Goh & Gopinathan, 2008）。 |
-> | **微观教学实证整合**<br>Classroom Empirical Synthesis | 依托 [[Centre for Research in Pedagogy and Practice\|CRPP]] 对全岛小学四年级与中学三年级核心学科常态课堂调查与视频录像数据（[[Argument_Hogan_2013_ROE\|Hogan et al., 2013]]; Hogan, 2014; Vaish, 2008），提炼师生互动模式与教学行为特征。 |
+> | **微观教学实证整合**<br>Classroom Empirical Synthesis | 依托戴维·霍根（[[David Hogan]]）领衔的 [[Centre for Research in Pedagogy and Practice\|CRPP]] 对全岛小学四年级与中学三年级核心学科常态课堂调查与视频录像数据（[[Argument_Hogan_2013_ROE\|Hogan et al., 2013]]; Hogan, 2014; Vaish, 2008），提炼师生互动模式与教学行为特征。 |
 
 > [!sample-panel]- 材料范围与情境说明
 > | 材料层面 | 构成 |
@@ -171,7 +175,7 @@ issuing_organization: ""
 ---
 
 > [!claim|step] 论证步骤一　跨国报告归纳的高分秘诀脱离课堂现实，将外在投入误当成学业推手
-> 流行文献将 PISA 榜单常胜系统奉为全球样板，炮制出一套把优异成绩归因于名师严选、校长领航与探究式课改的通用公式。然而，这套公式所假定的因果链条缺乏真实教学证据，不仅掩盖了决定学业质量的微观课堂实践，更将高度复杂的教育系统简化为便于跨国推销的政策零件。
+> 邓宗怡（[[Zongyi Deng]]）与高平纳坦（[[Saravanan Gopinathan]]）解构了流行文献将 PISA 榜单常胜系统奉为全球样板的通用神话。流行文献炮制出一套把优异成绩归因于名师严选、校长领航与探究式课改的现成公式，然而这套公式所假定的因果链条缺乏真实教学证据，不仅掩盖了决定学业质量的微观课堂实践，更将高度复杂的教育系统简化为便于跨国推销的政策零件。
 
 > [!sub-claim] 1. [[Teacher Qualifications|教师资质]]不等于教学质量，选拔再严格也决定不了课堂教什么
 
@@ -265,7 +269,7 @@ issuing_organization: ""
 > [!sub-claim] 1. 上千节常态课观察证实：全班讲授与标准练习占绝对主导，提问多为了锁定标准答案
 
 > [!case] [[National Institute of Education|新加坡国立教育学院]]教育研究中心（CRPP）千节常态课量化实证
-> [[National Institute of Education|新加坡国立教育学院]]设立 [[Centre for Research in Pedagogy and Practice|CRPP]]，启动 Core 1 与 Core 2 两大标志性项目，跨学科考察全岛小学四年级与中学三年级逾 1,200 节常态课（[[Argument_Hogan_2013_ROE|Hogan et al., 2013]]; Hogan, 2014）：
+> [[National Institute of Education|新加坡国立教育学院]]设立 [[Centre for Research in Pedagogy and Practice|CRPP]]，由戴维·霍根（[[David Hogan]]）领衔启动 Core 1 与 Core 2 两大标志性项目，跨学科考察全岛小学四年级与中学三年级逾 1,200 节常态课（[[Argument_Hogan_2013_ROE|Hogan et al., 2013]]; Hogan, 2014）：
 > 1. **讲授时间分布** 课堂 70%–80% 的时间由教师讲授与指令掌控，学生发问与自由探讨的时间极为有限。
 > 2. **师生问答模式** 师生互动中 85% 以上属于封闭式事实核查型的教师发起—学生回答—教师评价（Initiation-Response-Evaluation, IRE）三步互动循环，开放式高阶探究提问不足 15%（Vaish, 2008; Chew et al., 1997）。
 > 3. **课堂教学载体** 高度依赖统一教科书、复印工作纸与标准化习题演练，作业量极为饱和，信息技术主要用于投影演示而非自主建构。

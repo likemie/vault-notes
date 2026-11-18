@@ -85,6 +85,7 @@ related_methods:
 related_instruments:
   - "[[Framework for Teaching]]"
 related_persons:
+  - "[[David Hogan]]"
   - "[[John Hattie]]"
 related_facts:
   - "[[Teach Less, Learn More]]"
@@ -103,7 +104,7 @@ title: "Argument_Hogan_2013_ROE"
 argument_key: "Argument_Hogan_2013_ROE"
 argument_display_title: "Assessment and the logic of instructional practice in Secondary 3 English and mathematics classrooms in Singapore"
 argument_kind: "journal-article"
-argument_related_count: 57
+argument_related_count: 58
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -120,7 +121,7 @@ issuing_organization: ""
 > 新加坡中小学生在国际测试中常年名列前茅，其微观课堂教学究竟遵循怎样的运作逻辑？在国家大力推行[[Teach Less, Learn More|少教多学]]（Teach Less, Learn More, TLLM）与探究式改革的背景下，为什么一线教师依然重度依赖课本讲授与刷题操练？传统讲授、分步练习、概念理解与自主调节四类教学方法在实际课堂中呈现怎样的先后依赖关系？全国统一的升学淘汰考试又是如何扼杀教师的改革尝试，把课堂死死绑在应试战车上的？
 
 > [!claim] 核心主张
-> 新加坡中学课堂由高利害考试深度驱动，教师务实地将传统讲授、示范练习与理解探究拼贴在一起，形成主次分明的[[Pedagogical Hybridity|杂糅教学实践]]；全模型检验确证，没有扎实的讲授与练习铺垫，学生就无法真正发展出深层概念理解与自主反思能力；覆盖全岛的全国统一升学考试虽然托底了优异的测试成绩，却把课堂牢牢锁死在应试轨道上，使以学生为中心的教学改革难以落地。
+> 戴维·霍根（[[David Hogan]]）等学者通过大规模实证揭示，新加坡中学课堂由高利害考试深度驱动，教师务实地将传统讲授、示范练习与理解探究拼贴在一起，形成主次分明的[[Pedagogical Hybridity|杂糅教学实践]]；全模型检验确证，没有扎实的讲授与练习铺垫，学生就无法真正发展出深层概念理解与自主反思能力；覆盖全岛的全国统一升学考试虽然托底了优异的测试成绩，却把课堂牢牢锁死在应试轨道上，使以学生为中心的教学改革难以落地。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 新加坡 32 所公立中学 120 间中三数学与英语学术类班级，涵盖 4000 余名学生[[Questionnaire|问卷]]、[[Teacher Beliefs|教师信念]]调查与深度个案访谈。

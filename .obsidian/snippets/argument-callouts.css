@@ -29318,13 +29318,13 @@ body .callout.callout.callout .callout.callout.callout:is([data-callout="likert-
 }
 
 /* ═══════════════════════════════════════════════════════════
-   QUESTIONNAIRE / SURVEY-PROTOCOL — 调查问卷与测量工具全卷协议
+   QUESTIONNAIRE & INTERVIEW PROTOCOL — 质性与量化调查协议
    对齐【文档型】设计语言（claim / example 等）：
    纸面底（--ac-paper）+ 细框线（--ac-hair）+ 左侧强调色轨（--ac-accent）
    无图标，标题采用衬线优雅字体，眉标采用极简横线徽标
    ═══════════════════════════════════════════════════════════ */
 
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]) {
   position: relative !important;
   padding: 1.15rem 1.35rem 1.35rem 1.45rem !important;
   background: var(--ac-paper) !important;
@@ -29336,13 +29336,13 @@ body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="
   transition: border-color var(--ac-dur) var(--ac-out), box-shadow var(--ac-dur) var(--ac-out) !important;
 }
 
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]):hover {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]):hover {
   border-color: var(--ac-edge) !important;
   box-shadow: none !important;
 }
 
 /* 优雅的测量标尺轨线（Rail）：取代生硬粗框竖线，随展开柔和伸展与淡入 */
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"])::before {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"])::before {
   content: "" !important;
   display: block !important;
   position: absolute !important;
@@ -29356,22 +29356,22 @@ body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="
   transition: opacity 280ms ease, box-shadow 280ms ease !important;
 }
 
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"])::after {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"])::after {
   display: none !important;
 }
 
 /* 折叠展开动效：轨线自上而下顺滑延伸，内容柔和淡入 */
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]):not(.is-collapsed)::before {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]):not(.is-collapsed)::before {
   animation: qn-rail-draw 420ms cubic-bezier(.16, 1, .3, 1) both !important;
 }
 
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]).is-collapsed::before {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]).is-collapsed::before {
   top: 9px !important;
   bottom: 9px !important;
   opacity: 0.65 !important;
 }
 
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]):hover::before {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]):hover::before {
   opacity: 1 !important;
   box-shadow: 0 0 6px color-mix(in srgb, var(--ac-accent) 40%, transparent) !important;
 }
@@ -29398,11 +29398,11 @@ body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="
   }
 }
 
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]).is-collapsible:not(.is-collapsed) > .callout-content {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]).is-collapsible:not(.is-collapsed) > .callout-content {
   animation: qn-content-reveal 340ms cubic-bezier(.16, 1, .3, 1) both !important;
 }
 
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) > .callout-title {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]) > .callout-title {
   padding: 0 !important;
   margin: 0 0 0.85rem !important;
   background: none !important;
@@ -29412,11 +29412,11 @@ body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="
   gap: 0.5rem;
 }
 
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) > .callout-title .callout-icon {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]) > .callout-title .callout-icon {
   display: none !important;
 }
 
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) > .callout-title .callout-fold {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]) > .callout-title .callout-fold {
   padding: 0 !important;
   opacity: 0.55;
   color: var(--ac-muted);
@@ -29425,12 +29425,12 @@ body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="
   transition: transform 240ms var(--ac-spring), opacity 180ms ease, color 180ms ease !important;
 }
 
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) > .callout-title:hover .callout-fold {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]) > .callout-title:hover .callout-fold {
   opacity: 1;
   color: var(--ac-accent);
 }
 
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) > .callout-title .callout-title-inner {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]) > .callout-title .callout-title-inner {
   font-family: var(--ac-serif) !important;
   font-size: 1.14em !important;
   font-weight: 500 !important;
@@ -29439,6 +29439,7 @@ body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="
   letter-spacing: 0 !important;
 }
 
+/* 眉标 1: QUESTIONNAIRE 问卷专属眉标 */
 body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) > .callout-title .callout-title-inner::before {
   content: "QUESTIONNAIRE" !important;
   display: block !important;
@@ -29464,15 +29465,41 @@ body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="
   letter-spacing: 0.18em !important;
 }
 
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) > .callout-content {
+/* 眉标 2: INTERVIEW PROTOCOL 深度访谈提纲专属眉标 */
+body .callout.callout.callout:is([data-callout="interview"], [data-callout="interview-protocol"]) > .callout-title .callout-title-inner::before {
+  content: "INTERVIEW PROTOCOL" !important;
+  display: block !important;
+  width: max-content;
+  margin: 0 0 0.35rem !important;
+  padding: 0 0 0 20px !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  background: linear-gradient(var(--ac-accent), var(--ac-accent)) left center / 12px 2px no-repeat !important;
+  color: var(--ac-ink) !important;
+  font-family: var(--ac-sans);
+  font-size: 0.62em !important;
+  font-weight: 650 !important;
+  letter-spacing: 0.14em !important;
+  line-height: 1.5;
+  text-transform: uppercase;
+  transition: background-size 260ms var(--ac-out), letter-spacing 260ms var(--ac-out) !important;
+}
+
+body .callout.callout.callout:is([data-callout="interview"], [data-callout="interview-protocol"]):hover > .callout-title .callout-title-inner::before {
+  background-size: 18px 2px !important;
+  letter-spacing: 0.18em !important;
+}
+
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]) > .callout-content {
   padding: 0 !important;
   background: none !important;
   font-size: 0.96em;
   line-height: 1.78;
 }
 
-/* 问卷表头元数据登记表（问卷名称、个案编号、填写日期等） */
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) > .callout-content > table:first-child {
+/* 问卷与访谈表头元数据登记表（问卷名称、个案编号、填写日期等） */
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]) > .callout-content > table:first-child {
   width: 100% !important;
   max-width: 100% !important;
   margin: 0.4rem 0 0.85rem !important;
@@ -29485,7 +29512,7 @@ body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="
   font-size: 0.88em !important;
 }
 
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) > .callout-content > table:first-child th {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]) > .callout-content > table:first-child th {
   background: var(--ac-tint, rgba(128, 128, 128, 0.05)) !important;
   color: var(--ac-ink) !important;
   font-size: 0.84em !important;
@@ -29494,19 +29521,19 @@ body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="
   border-bottom: 1.5px solid var(--ac-hair) !important;
 }
 
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) > .callout-content > table:first-child td {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]) > .callout-content > table:first-child td {
   padding: 0.45rem 0.75rem !important;
   font-size: 0.88em !important;
   border-bottom: 1px solid var(--ac-hair-soft, rgba(128, 128, 128, 0.06)) !important;
   line-height: 1.45 !important;
 }
 
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) > .callout-content > table:first-child tr:last-child td {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]) > .callout-content > table:first-child tr:last-child td {
   border-bottom: none !important;
 }
 
 /* 填答须知与学术伦理保密声明（对齐 citation-card 边栏线与 var(--ac-raised) 纸面底色） */
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) blockquote {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]) blockquote {
   margin: 0.75rem 0 !important;
   padding: 0.65rem 0.95rem !important;
   background: var(--ac-raised) !important;
@@ -29519,11 +29546,11 @@ body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="
   transition: border-left-color 220ms ease !important;
 }
 
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) blockquote:hover {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]) blockquote:hover {
   border-left-color: var(--ac-accent) !important;
 }
 
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) blockquote strong:first-child {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]) blockquote strong:first-child {
   color: var(--ac-ink) !important;
   display: block;
   margin-bottom: 0.25rem;
@@ -29531,8 +29558,8 @@ body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="
   font-weight: 650;
 }
 
-/* 模块分段标题（#### 模块一 · 个人基本信息 等） */
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) :is(h4, h5) {
+/* 模块分段标题（#### 模块一 · 个人基本信息 / #### 第一部分 · 个人生活史 等） */
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]) :is(h4, h5) {
   font-family: var(--ac-serif) !important;
   font-size: 1.04rem !important;
   font-weight: 600 !important;
@@ -29546,31 +29573,49 @@ body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="
 }
 
 /* 模块间分割线 */
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) hr {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]) hr {
   border: none !important;
   border-top: 1px solid var(--ac-hair) !important;
   margin: 1.25rem 0 !important;
 }
 
-/* 问卷题目与题干结构 */
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) ul {
+/* 题项列表结构：无序列表 */
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]) ul {
   padding-left: 1.2rem !important;
   margin: 0.4rem 0 0.8rem !important;
 }
 
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) li {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]) li {
   margin-bottom: 0.45rem !important;
   line-height: 1.65 !important;
   color: var(--text-normal) !important;
 }
 
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) li > strong:first-child {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]) li > strong:first-child {
   color: var(--text-normal) !important;
   font-weight: 650 !important;
 }
 
+/* 题项列表结构：有序提问列表（访谈提纲核心结构） */
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]) ol {
+  padding-left: 1.45rem !important;
+  margin: 0.45rem 0 0.85rem !important;
+}
+
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]) ol > li {
+  margin-bottom: 0.48rem !important;
+  line-height: 1.68 !important;
+  color: var(--text-normal) !important;
+}
+
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]) ol > li::marker {
+  color: var(--ac-ink) !important;
+  font-weight: 650 !important;
+  font-family: var(--ac-sans) !important;
+}
+
 /* 问卷下划线填空槽美化：将带下划线的行内代码转换为高仿真填空下划线 */
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) code {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]) code {
   background: transparent !important;
   color: var(--text-normal) !important;
   font-family: inherit !important;
@@ -29584,12 +29629,12 @@ body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="
 }
 
 /* 嵌套 callout（如 rating-scale, likert-matrix, option-pool）边距融合 */
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"]) .callout {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="questionnaire-form"], [data-callout="survey-form"], [data-callout="interview"], [data-callout="interview-protocol"]) .callout {
   margin: 0.85rem 0 !important;
 }
 
 /* 嵌套在问卷中的量表与卡片池：消除二次粗竖线冲突，融合为圆角细框卡片 */
-body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"]) .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) {
+body .callout.callout.callout:is([data-callout="questionnaire"], [data-callout="survey-protocol"], [data-callout="interview"], [data-callout="interview-protocol"]) .callout.callout.callout:is([data-callout="likert-matrix"], [data-callout="survey-matrix"]) {
   border: 1px solid var(--ac-hair) !important;
   border-left: 1px solid var(--ac-hair) !important;
   border-radius: 8px !important;

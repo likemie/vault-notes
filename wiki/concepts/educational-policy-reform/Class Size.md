@@ -6,7 +6,7 @@ aliases:
 summary: "班级学生人数这一关键教育组织变量，其对教学互动与学业成果的影响取决于人数变化、教师质量、物质资源、教学方式调整以及跨情境测量精度的系统协同。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 78
+related_count: 79
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -103,6 +103,7 @@ related_arguments:
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Cowen_2015_CHESS]]"
   - "[[Argument_Deng_2016_CE]]"
+  - "[[Argument_Gopinathan_2007_GSE]]"
 confidence: high
 status: completed
 created: '2026-05-03'
@@ -449,6 +450,9 @@ updated: 2026-11-18
 > [!case] 全球南方与[[World Bank|世界银行]] Teach 案例
 > - **几内亚小学阅读教学的物质约束基础设施** 安德森-莱维特（Anderson-Levitt, 2003, 2004）跨国[[Ethnography|民族志]]证实，几内亚小学面临 60 人以上的巨型班额与严重教材短缺，西方主流的儿童中心与[[Individualised Instruction|个别化教学]]失去物质可行性，教师被迫退守全班齐读与严苛纪律，确立了班级规模作为依附性物质约束的理论视野。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–109)]]
 > - **世界银行 Teach 工具的大班额实证与测量挑战** 在巴基斯坦旁遮普省大样本计量模型中，研究团队将班级规模作为关键控制[[Variable|变量]]，证实无论班额大小，教师在 Teach 上的[[Effective Teaching|有效教学]]行为均能稳定解释学生学业增值（0.08–0.12 SD）；同时在莫桑比克等非洲多国试点中，世界银行团队记录了 60–100 人超大班额对 1–10 秒时间快照（Snapshot）扫描精度的严峻考验，推动了对超大班额微观观察规程的本土化改进。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 4, 12, 16–17)]]
+
+> [!case] 亚洲发展型国家的班级规模政策调控
+> - **新加坡“少教多学”与编制扩充配套小班化** 戈皮纳坦考察新加坡教育改革指出，为动摇以直接讲授为主导的传统规程、释放探究式学习空间，政府在[[Teach Less, Learn More|少教多学]]倡议中系统增聘近 3,000 名教师编制（小学 1,000 名、中学 1,400 名、初级学院 550 名），推动小学班级规模从 40 人分阶段压缩至 30 人，为实施[[Differentiated Instruction|差异化教学]]与深度概念互动提供结构性空间支持。[[Argument_Gopinathan_2007_GSE|(Gopinathan, 2007, p. 62)]]
 
 ---
 

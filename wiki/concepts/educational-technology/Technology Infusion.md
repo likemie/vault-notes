@@ -7,7 +7,7 @@ aliases:
 summary: "将数字设备、网络资源、教师专业发展与学科教学法系统嵌入课堂教学的组织与课程改革。技术融入不同于单一软件干预或孤立设备配发，其评价需区分输入、输出与长短期结果，防范将技术成效狭隘化为短期统考分数的倾向。"
 type: concept
 domain: "educational-technology"
-related_count: 38
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Differentiated Instruction]]"
   - "[[Variable]]"
-  - "[[Document]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Behaviorism]]"
@@ -50,7 +49,6 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Formative Program Evaluation]]"
   - "[[Meta-analysis]]"
-  - "[[Classroom Observation]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -78,7 +76,7 @@ updated: 2026-11-18
 > - **用途** 帮助研究者透视全校或全学区大规模[[Informationalization|教育信息化]]改革的复杂系统属性，评估其在改善课堂生态、学习体验与教育产出中的真实效能。
 > - **边界** 技术作为传递特定课程内容与教学策略的媒介载体，与教师教学法紧密交织；技术融入区别于单纯的硬件配发，也区别于单一封闭算法软件的短期试用。
 
-> [!citation-card|notitle] 技术作为教学传递载体而非单一干预
+> [!citation-card|notitle] 技术作为教学传递载体的系统属性
 > 技术本质上是通过不同课程、教学设计和教学策略传递教学的载体媒介，缺乏作为独立“干预”的操作定义；因此，把各种技术应用混合成一个总体[[Effect Size|效应量]]，容易遮蔽核心项目、补充项目、教程、练习、模拟、[[Behaviorism|行为主义]]或认知取向设计之间的差异。[[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, p. 113)]]
 >
 > *Technology is not an intervention per se, but rather a vehicle for delivering instruction via various curricula, instructional designs, and pedagogy... Combining studies into an overall effect size masks critical differences among core, supplemental, drill-and-practice, or [[Computer Simulation|simulation]] approaches.*
@@ -119,10 +117,10 @@ updated: 2026-11-18
 
 ---
 
-> [!concept-proposition] 命题一｜技术融入属于多组分复杂系统改革而非孤立可测的单一因果干预
-> **复杂系统属性与因果解耦困境** 剖析技术融入在因果评估中的方法学特质，阐明技术作为中介载体与教学法、组织环境紧密交织的本质。
+> [!concept-proposition] 命题一｜技术融入属于交织硬件、课程与教学法的多组分复杂系统改革
+> **复杂系统属性与因果效应分离困境** 剖析技术融入在因果评估中的方法学特质，阐明技术作为中介载体与教学法、组织环境紧密交织的本质。
 >
-> > [!claim] Ross, S. M. & Morrison, G. R.
+> > [!claim] Ross, S. M. and Morrison, G. R.
 > > **技术作为教学传递载体的系统性** 两位学者指出，教育技术研究长期陷入将“技术”视作单一独立干预的误区。在真实的学区与学校改革中，技术融入始终与教师专业发展、[[Personalized Learning|个性化学习]]策略、课程大纲调整及行政领导风格交织在一起。由于缺乏纯粹孤立的对照组，把所有技术项目打包合成单一[[Meta-analysis|元分析]]效应量必然会掩盖教学法差异；科学的评价必须将技术视作教学传递的复杂中介载体，采用[[Formative Assessment|形成性评价]]全面追踪各组件的协同演变。[[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, pp. 113–115)]]
 
 ---
@@ -138,10 +136,10 @@ updated: 2026-11-18
 > [!concept-proposition] 命题三｜以短期统考提分作为唯一标准会遮蔽技术融入的多维教育价值并诱发实施失真
 > **评价指标窄化风险与多维目标守正** 揭示将技术融入成效机械绑定于标准化考试分数的政策弊端与证据失真。
 >
-> > [!claim] Pellegrini, M. & Vivanet, G.
+> > [!claim] Pellegrini, M. and Vivanet, G.
 > > **缺乏证据设计的大规模硬件普及陷阱** 两位学者考察意大利全国互动白板行动（[[Azione LIM]]）指出，政府投入巨额公共财政为中小学普及数字硬件，但因缺乏高质量教学整合设计与基于证据的教学法培训，最终在学业产出上收效微弱。盲目的技术配发若缺少对课堂深度互动的支撑，容易[[Alienation|异化]]为形式主义的高成本投入。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, p. 27)]]
 >
-> > [!claim] Ross, S. M. & Morrison, G. R.
+> > [!claim] Ross, S. M. and Morrison, G. R.
 > > **多维成效衡量与形成性评价框架** 严谨的项目评价表明，技术融入的教育效益不仅体现于考试分数，还体现在学生自主[[Student Motivation|学习动机]]增强、课外完成[[Homework|作业]]可及性改善、数字探究技能提升以及教师教学方法多样化等广泛维度。若在改革初期片面依据短期标准化测验成绩判定项目成败，将过早扼杀具备长远潜力的深层教学变革。[[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, pp. 110–113, 123)]]
 
 ---
@@ -172,7 +170,7 @@ updated: 2026-11-18
 > > 绩效问责管理者倾向于使用标准化考试提分作为技术投入合规性的核心凭据；教育评估学者则主张，技术融入在促进学生协作、提高数字素养与个性化表达方面的长远获益难以通过短期统一纸笔测验完全表征。[[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, pp. 121–123)]]
 
 > [!warning|limits] 适用局限
-> 技术融入并非提升教育质量的[[Necessary and Sufficient Conditions|充分条件]]；若缺乏稳定的电力网络设施、适切的本土化数字教学资源以及能够开展[[Differentiated Instruction|差异化教学]]的专业师资队伍，单纯技术融入将面临严重的实施衰减与资源浪费。
+> 技术融入属于教育质量提升的支持条件，本身不构成[[Necessary and Sufficient Conditions|充分条件]]；若缺乏稳定的电力网络设施、适切的本土化数字教学资源以及能够开展[[Differentiated Instruction|差异化教学]]的专业师资队伍，单纯技术融入将面临严重的实施衰减与资源浪费。
 
 ---
 
@@ -185,8 +183,6 @@ updated: 2026-11-18
 > |---|---|---|---|---|---|---|
 > | [[Argument_Gopinathan_2007_GSE\|Gopinathan (2007)]] | 新加坡全国中小学（第一阶段信息技术总蓝图，1997–2002） | 宏观政策投入与全国实施指标追踪 | 生机比、财政专款投入、技术融入教学时间占比 | 财政统筹斥资 20 亿新元；生机比从 5:1 优化至 2:1；硬性要求数字技术整合占课堂教学时间的 30% | 官方统计指标 | 证实国家战略意志与巨额专款能够强力打破硬件瓶颈，确立技术融入的制度化基准（p. 58） |
 > | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] | 北卡罗来纳州 Mooresville 学区一对一笔记本项目 | 学区级准实验与多年追踪评估 | 数学与阅读标准化测验分数、数字作业完成率 | 短期内学生测验成绩无显著提升，但中期数学成绩提升 0.13 SD；家庭网络可及性与数字化作业提交率大幅上升 | $p < .05$ | 验证技术融入对学业成就的滞后显现规律与对学习生态的直接改变（p. 114） |
-> | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] | 巴尔的摩县公立学区 STAT 项目样本学校 | 形成性项目评估（教师调查、[[Classroom Observation\|课堂观察]]与测验） | 教师技术融合准备度、学生中心教学实践、学业成绩 | 教师技术使用准备度、学生课堂参与度和学生中心教学呈现持续积极进展，但统考成绩证据不一 | 描述性与相关统计 | 表明技术融入能够有效转变课堂教学生态，但其与应试成绩的因果联动受到多重组织变量调节（pp. 118–123） |
-> | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] | 意大利全国 Azione LIM 互动电子白板推广工程 | 循证政策[[Document\|文献]]审视与因果效果回顾 | 硬件普及率与学生学术表现 | 大规模硬件配发迅速推高多媒体覆盖率，但在随后的因果评估中未表现出显著的学业增益 | — | 提示脱离深层教学法重构与专业支持的单纯硬件融入具有证据无效性风险（p. 27） |
 
 ---
 

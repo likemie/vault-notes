@@ -15635,8 +15635,10 @@
     "MINEDU, 2016b": "MINEDU, 2016b",
     "MIT Whirlwind (1951)": "MIT Whirlwind, 1951",
     "MIT Whirlwind, 1951": "MIT Whirlwind, 1951",
+    "MOE (2000)": "MOE, 2000",
     "MOE (2008)": "MOE, 2008",
     "MOE (2016)": "MOE, 2016",
+    "MOE, 2000": "MOE, 2000",
     "MOE, 2008": "MOE, 2008",
     "MOE, 2016": "MOE, 2016",
     "Ma & Kishor (1997)": "Ma & Kishor, 1997",
@@ -17757,6 +17759,8 @@
     "NRC, 2002": "NRC, 2002",
     "NRC, 2008": "NRC, 2008",
     "NRC, 2012": "NRC, 2012",
+    "NRP (2000)": "NRP, 2000",
+    "NRP, 2000": "NRP, 2000",
     "NSB (2022)": "NSB, 2022",
     "NSB (2024)": "NSB, 2024",
     "NSB, 2022": "NSB, 2022",
@@ -52235,8 +52239,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Australian Journal of Language and Literacy/Argument_OConnor_2020_AJLL.md",
-        "wiki/concepts/instruction-pedagogy/Language Experience Approach.md",
-        "wiki/concepts/instruction-pedagogy/Whole Language.md"
+        "wiki/concepts/instruction-pedagogy/Language Experience Approach.md"
       ],
       "title": ""
     },
@@ -142515,6 +142518,21 @@
       ],
       "title": ""
     },
+    "MOE, 2000": {
+      "aliases": [
+        "MOE, 2000",
+        "MOE (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "MOE, 2000"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Bilingual Education Policy.md"
+      ],
+      "title": ""
+    },
     "MOE, 2008": {
       "aliases": [
         "MOE, 2008",
@@ -157934,6 +157952,21 @@
         "wiki/arguments/journal-articles/Scandinavian Journal of Educational Research/Argument_Segerholm_Lindgren_Novak_2022_SJER.md",
         "wiki/concepts/instruction-pedagogy/Authentic Science Practices.md",
         "wiki/facts/us/National Research Council.md"
+      ],
+      "title": ""
+    },
+    "NRP, 2000": {
+      "aliases": [
+        "NRP, 2000",
+        "NRP (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "NRP, 2000"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/instruction-pedagogy/Whole Language.md"
       ],
       "title": ""
     },

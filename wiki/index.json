@@ -12262,7 +12262,8 @@
       "教学杂糅",
       "教学混合主义",
       "杂糅教学实践",
-      "Non-Sectarian Pragmatism"
+      "Non-Sectarian Pragmatism",
+      "教学杂合"
     ]
   },
   {
@@ -12829,7 +12830,9 @@
     "path": "wiki/concepts/instruction-pedagogy/Whole Language.md",
     "aliases": [
       "全语言",
-      "整体语言教学"
+      "整体语言教学",
+      "Whole Language Approach",
+      "全语言教学法"
     ]
   },
   {
@@ -21293,7 +21296,10 @@
     "type": "concept",
     "path": "wiki/concepts/teacher-education/Teacher Beliefs.md",
     "aliases": [
-      "教师信念"
+      "教师信念",
+      "教师教育信念",
+      "教师教学信念",
+      "Pedagogical Beliefs"
     ]
   },
   {
@@ -31409,6 +31415,16 @@
     ]
   },
   {
+    "title": "David Hogan",
+    "type": "person",
+    "path": "wiki/persons/australia/David Hogan.md",
+    "aliases": [
+      "戴维·霍根",
+      "David J. Hogan",
+      "Hogan, D."
+    ]
+  },
+  {
     "title": "David Watkins",
     "type": "person",
     "path": "wiki/persons/australia/David Watkins.md",
@@ -32189,6 +32205,15 @@
       "庄子",
       "庄周",
       "Chuang Tzu"
+    ]
+  },
+  {
+    "title": "Zongyi Deng",
+    "type": "person",
+    "path": "wiki/persons/china/Zongyi Deng.md",
+    "aliases": [
+      "邓宗怡",
+      "Deng, Z."
     ]
   },
   {
@@ -34361,6 +34386,16 @@
       "李光耀",
       "Lee, K. Y.",
       "Harry Lee Kuan Yew"
+    ]
+  },
+  {
+    "title": "Saravanan Gopinathan",
+    "type": "person",
+    "path": "wiki/persons/singapore/Saravanan Gopinathan.md",
+    "aliases": [
+      "高平纳坦",
+      "S. Gopinathan",
+      "Gopinathan, S."
     ]
   },
   {
