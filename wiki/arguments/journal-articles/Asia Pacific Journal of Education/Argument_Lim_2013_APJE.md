@@ -29,7 +29,6 @@ related_concepts:
   - "[[Genius]]"
   - "[[Creativity]]"
   - "[[International Baccalaureate]]"
-  - "[[Statistical Analysis Plan]]"
   - "[[Alienation]]"
   - "[[Homework]]"
   - "[[Quality Education]]"
@@ -70,7 +69,7 @@ title: "Argument_Lim_2013_APJE"
 argument_key: "Argument_Lim_2013_APJE"
 argument_display_title: "Meritocracy, elitism, and egalitarianism: A preliminary and provisional assessment of Singapore’s primary education review"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 31
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -154,7 +153,7 @@ issuing_organization: ""
 > | 制度面向 | 规范基础 | 核心假定 | 分配逻辑 | 实践偏向 |
 > |:---|:---|:---|:---|:---|
 > | **均等主义面向** | 罗尔斯式前程向才能开放原则与形式非歧视原则 | 个人拥有平等的起跑线，成功仅取决于才干与后天努力 | 资源与社会职位向所有具备资质的个体开放，保障流动机会均等 | 倾向于消除先赋壁垒，提供兜底性教育资源补偿 |
-> | **精英主义面向** | 功利主义人力效能论与领导精英治理假说 | 社会需通过激烈竞争识别顶尖人才，最大化国家经济与集体福祉 | 优质教育资源高度倾斜于少数被鉴定的[[Genius\|天才]]儿童与学术优胜者 | 倾向于早期分流筛选，将不平等的薪酬与文凭回报合法化 |
+> | **精英主义面向** | 功利主义人力效能论与领导精英治理假说 | 社会需通过激烈竞争识别顶尖人才，最大化国家经济与集体福祉 | 优质教育资源高度倾斜于少数被鉴定的天才儿童与学术优胜者 | 倾向于早期分流筛选，将不平等的薪酬与文凭回报合法化 |
 >
 > **张力机制** 当社会存在显著阶层资本差距时，功利主义选拔迅速将形式公平转化为不平等意识形态（ideology of inequality），使大众相信向精英倾斜资源符合整体利益，从而掩饰阶级特权的代际再生产。
 
@@ -172,9 +171,9 @@ issuing_organization: ""
 
 > [!example] 新加坡精英教育基础设施的层级建构
 > 新加坡自 1980 年代以来逐步构筑了高度分层的精英培养网络，明确以培育国家治理精英为旨归：
-> - **天才教育计划（Gifted Education Programme, GEP）** 自小学三年级（9 岁）起通过全国统考筛选前 1% 的学童，编入专属课程轨道，官方明确定位为培养具智慧与[[Creativity|创造力]]的高级领导人才（MOE, 2011a）。
+> - **[[Genius|天才]]教育计划（Gifted Education Programme, GEP）** 自小学三年级（9 岁）起通过全国统考筛选前 1% 的学童，编入专属课程轨道，官方明确定位为培养具智慧与[[Creativity|创造力]]的高级领导人才（MOE, 2011a）。
 > - **直通车计划（IP）** 允许顶尖学术优胜者跳过中学阶段剑桥普通教育证书（General Certificate of Education, [[Global Campaign for Education|GCE]]）普通水准（O-Level）统考，直通高级水准（A-Level）或[[International Baccalaureate|国际文凭]]（International Baccalaureate, IB），名校得以利用省下的应试时间拓展深层研学，进一步拉大与主流学校的办学差距（MOE, 2011b）。
-> - **特选中学（Special Assistance Plan, [[Statistical Analysis Plan|SAP]]）** 面向高分学生提供强化华族语言与传统文化熏陶的优质环境，在多元族群社会中引发华族文化精英在社交圈层与专业领域脱离非华族同侪的担忧。
+> - **特选中学（Special Assistance Plan, SAP）** 面向高分学生提供强化华族语言与传统文化熏陶的优质环境，在多元族群社会中引发华族文化精英在社交圈层与专业领域脱离非华族同侪的担忧。
 > - **[[Independent Schools Initiative|独立学校]]体系（Independent Schools Scheme）与名校联合体** 赋予顶尖名校充分的财务与课程自主权，名校联合体推行附属小学直升优先录取政策，形成自我封闭的特权循环网络。
 
 > [!sub-claim] 4. 零星的补偏改革未能打破顶层名校的特权网络
